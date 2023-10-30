@@ -965,20 +965,15 @@
 * [NetClicker](https://netclicker.tv/) - Phone Browser Controller
 * [Bacon](https://github.com/jerameel/bacon) - Bluetooth Controller
 * [Rhino](https://lemamichael.github.io/WhatIsRhino/) - Tweaked Instagram Client
-* [Twitter++](https://iosninja.io/ipa-library/download-twitter-plus-plus-ipa-ios) - Tweaked Twitter App
-* [TikTok God](https://github.com/haoict/tiktok-god) - Tweaked TikTok App
-* [Remmel](https://apps.apple.com/us/app/remmel-for-lemmy/id1547988171) - Lemmy Client
 * [Jitsi](https://jitsi.org/) - Video Chat
 * [Meshenger](https://github.com/meshenger-app/meshenger-android) or [Mumla](https://gitlab.com/quite/mumla) - Voice Chat
 * [WO Mic](https://wolicheng.com/womic/) - Use Phone as Mic
 * [Walkie-Talkie](https://walkie-talkie.io/) - Walkie-Talkie App
-* [Smart Fax](https://play.google.com/store/apps/details?id=com.hypereact.faxappgp) - Send Fax via Phone
 * [ZX81](https://apps.apple.com/us/app/zx81/id1180117434) - Sinclair ZX81 Emulator
 * [iMessage Exporter](https://github.com/ReagentX/imessage-exporter) - Export iMessage Chats
 * [Nicegram](https://nicegram.app/) - Telegram App
 * [TheChan](https://github.com/TheChanDev/TheChan) - 4Chan App
 * [Conversations](https://f-droid.org/en/packages/eu.siacs.conversations/) - XMPP Client
-* [icq](https://icq.com/) or [OpenChat](https://oc.app/) - Messaging Apps
 * [Watusi](https://watusi.fouadraheb.com/) - Modded WhatsApp
 * [Whatspad++](https://iosninja.io/ipa-library/download-whatspad-ipa-ios) - iPad WhatsApp
 * [AppLibraryEnabler](https://github.com/tomaszpoliszuk/AppLibraryEnabler) - Enable App Library on iPad
