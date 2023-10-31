@@ -33,8 +33,6 @@
 * ⭐ **[TinyKitten](https://tinykittens.com/)** - Kitten Rescue / Donation
 * [Creating Minds](http://creatingminds.org/tools/tools_ideation.htm) - Creativity Tools
 * [Dashboard](https://zzanehip.github.io/Dashboard/) - Mac-Style Dashboard Widget
-* [Barcode Reader](https://online-barcode-reader.inliteresearch.com/) or [ZXing Decoder](https://zxing.org/w/decode.jspx) - Online Barcode Reader
-* [Contract-Templates](https://github.com/Oak-Harbor-Kits/Contract-Templates) - Digital Contracts
 * [The Measure Of Things](https://www.themeasureofthings.com) - Comparative / Relative Quantity Measurements
 * [Compare Sizes](https://comparesizes.com/) - Size Comparison Tool 
 * [Paper Sizes](https://papersizes.io/) - Common Paper Sizes
@@ -58,29 +56,22 @@
 * [Find Your Place](https://where-is-this.com/) - Find Places from Pictures
 * [Acoustic Gender](https://acousticgender.space/) - Measure Voice Pitch
 * [Forebears](https://forebears.io/) or [BehindTheName](https://www.behindthename.com/) - Name Etymologies
-* [GitKraken Timeline](https://timelines.gitkraken.com/), [Timeline Cascade](https://markwhen.com/) / [GitHub](https://github.com/mark-when/markwhen), [Timeline JS](https://timeline.knightlab.com/) or [Time.Graphics](https://time.graphics/) - Create Timelines
+* [Timeline Cascade](https://markwhen.com/) / [GitHub](https://github.com/mark-when/markwhen), [Timeline JS](https://timeline.knightlab.com/) or [Time.Graphics](https://time.graphics/) - Create Timelines
 * [Timeliner](https://github.com/mholt/timeliner) - Create Personal Digital Timeline
 * [Familypedia](https://familypedia.fandom.com/), [Gramps](https://gramps-project.org/blog/) or [WikiTree](https://wikitree.com/) - Family Trees
 * [Ravelry](https://ravelry.com) - Fiber Artist Tools
-* [DreamForth](https://www.dreamforth.com/) - Dream Interpretations
 * [ThistoThat](https://www.thistothat.com/) - How to Glue Anything to Anything
 * [Stain Solutions](https://web.extension.illinois.edu/stain/) - Stain Solution Index
-* [My Car Makes Noise](https://mycarmakesnoise.com/) - Diagnose Car Problems via Sounds
 * [CarComplaints](https://www.carcomplaints.com/) - Car Problems, Car Complaints and Repairs
 * [PlateRecognizer](https://platerecognizer.com/) - License Plate Recognition
 * [Fragrantica](https://www.fragrantica.com/), [Basenotes](https://basenotes.com/) or [Parfumo](https://www.parfumo.net/) - Perfume / Fragrance Databases
-* [Stolen Camera Finder](https://www.stolencamerafinder.com/) - Find Stolen Cameras
 * [Stolen Drone](https://stolendrone.info/) - Stolen Drone Info
-* [AFreeSMS](https://www.afreesms.com/freesms/) - Send Free Texts
 * [Morse Code](https://morsecode.me/) or [Woozle](https://vail.woozle.org/) - Create Morse Code Audio
 * [Parcelsapp](https://parcelsapp.com/en/) or [17Track](https://www.17track.net/en) - International Package Tracking
-* [NoFair](https://github.com/tryolabs/norfair) - Real-Time Object Tracking
 * [Sweet Home 3D](https://www.sweethome3d.com/) or [Homestyler](https://www.homestyler.com/) - Interior Design Apps
 * [Interiorai](https://interiorai.com/) - AI Interior Design Tool
-* [Text to Room](https://lukashoel.github.io/text-to-room/) - AI Interior Design Generator
 * [BlockLayer](https://www.blocklayer.com/) - Construction / Remodeling Calculators
 * [TemplateMaker](https://www.templatemaker.nl/) - Package / Box Templates
-* [WebQR](https://www.webqr.com/) - QR Code Scanner
 * [/r/Assistance](https://www.reddit.com/r/Assistance/), [/r/borrow](https://www.reddit.com/r/borrow/), [/r/Random_Acts_Of_Pizza](https://www.reddit.com/r/Random_Acts_Of_Pizza/) or [/r/Homeless](https://www.reddit.com/r/homeless/) - Assistance / Donation Subreddits
 * [CharityNavigator](https://www.charitynavigator.org/), [CharityWatch](https://www.charitywatch.org/) or [GiveWell](https://www.givewell.org) - Charity Ratings and Donor Resources
 
@@ -147,7 +138,6 @@
 * [The Pirate Translator](https://pirate.monkeyness.com/translate) - Translate Text to Pirate
 * [Emojify](https://madelinemiller.dev/apps/emojify/) - Emojify Text
 * [typ3r](https://typ3r.aavi.me/) - tRaNSlAtE tEXT lik3 THiS
-* [Gematrinator](https://gematrinator.com/calculator) or [Gematrix](https://www.gematrix.org/) - Gematria Calculators
 * [SoftMyList](https://sortmylist.com/) or [The Alphabetizer](https://alphabetizer.flap.tv/) - Organize / Format Text
 * [Delim](https://delim.co/) - Comma Separating Tool
 * [Align Toolkit](http://phraseotext.univ-grenoble-alpes.fr/webAlignToolkit/index.php) - Create Parallel Text Web
