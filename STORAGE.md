@@ -1645,7 +1645,7 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://70.88.180.169:8
 * ⭐ **[TextFixer](https://www.textfixer.com/)**
 * ⭐ **[OnlineTextTools](https://onlinetexttools.com/)**
 
-[grabanymedia](https://grabanymedia.com/), [GPT-JT](https://huggingface.co/spaces/togethercomputer/GPT-JT), [TextCleaner](https://textcleaner.net/), [English Tools](https://www.englishtools.org/), [Text Reverse](https://www.textreverse.com/), [Text Mechanic](https://textmechanic.com/), [Smodin](https://smodin.io/), [DrAssignment](https://www.drassignment.com/), [Word Hippo](https://www.wordhippo.com/), [I Love It](https://www.iloveit.net/tool/), [ToggleCase](https://www.togglecase.com/), [ConvertCase](https://convertcase.net/), [ConvertertoGenerator](https://convertertogenerator.com/), [qwerty.dev](https://qwerty.dev/), [onlinecaseconvert](https://onlinecaseconvert.com/), [MadeInText](https://www.madeintext.com/), [TitleCapitalize](https://titlecapitalize.com/), [Edubirdie](https://edubirdie.com/writing-tools), [changetocase](https://changetocase.com/), [Alphabetize](https://www.alphabetize.org/), [capitalizemytitle](https://capitalizemytitle.com/)
+[grabanymedia](https://grabanymedia.com/), [TextCleaner](https://textcleaner.net/), [English Tools](https://www.englishtools.org/), [Text Reverse](https://www.textreverse.com/), [Text Mechanic](https://textmechanic.com/), [Smodin](https://smodin.io/), [DrAssignment](https://www.drassignment.com/), [Word Hippo](https://www.wordhippo.com/), [I Love It](https://www.iloveit.net/tool/), [ToggleCase](https://www.togglecase.com/), [ConvertCase](https://convertcase.net/), [ConvertertoGenerator](https://convertertogenerator.com/), [qwerty.dev](https://qwerty.dev/), [onlinecaseconvert](https://onlinecaseconvert.com/), [MadeInText](https://www.madeintext.com/), [TitleCapitalize](https://titlecapitalize.com/), [Edubirdie](https://edubirdie.com/writing-tools), [changetocase](https://changetocase.com/), [Alphabetize](https://www.alphabetize.org/), [capitalizemytitle](https://capitalizemytitle.com/)
 
 ***
 
@@ -2454,7 +2454,7 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://70.88.180.169:8
 
 ## Sports Streaming
 
-[NFL](https://nflstreams.me/), [NBA](https://nbabox.tv/), [MLB](https://mlbstreams.me/), [NHL](https://nhlstreams.me/), [UFC](https://mmastreams.me/ufc-streams), [Boxing](https://watch.boxingstreams.me/), [Tennis](https://live.tennisstreams.me/), [Football](https://socceronline.me/), [Rugby](https://rugbystreams.me/), [F1](https://f1box.me/), [MotoGP](https://motogpstream.me/), [Golf](https://golfstreams.me/), [Darts](https://dartsstreams.com/), [Cricket](https://watch.cricstream.me/)
+[NFL](https://nflstreams.me/), [NBA](https://nbabox.tv/), [MLB](https://mlbstreams.me/), [NHL](https://nhlstreams.me/), [UFC](https://mmastreams.me/ufc-streams), [Tennis](https://live.tennisstreams.me/), [Football](https://socceronline.me/), [Rugby](https://rugbystreams.me/), [F1](https://f1box.me/), [MotoGP](https://motogpstream.me/), [Golf](https://golfstreams.me/), [Darts](https://dartsstreams.com/), [Cricket](https://watch.cricstream.me/), [Boxing](https://boxingstream.ai/)
 
 ***
 
@@ -3327,8 +3327,9 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://70.88.180.169:8
 
 ## Youtube Android Apps
 
-* ⭐ **[Revanced](https://revanced.app)** / [Extended](https://github.com/inotia00/ReVanced_Extended), [ReVanced APKs](https://revanced-apks.pages.dev/) or [RVX Lite](https://t.me/rvx_lite) - Latest Revanced Apps / [Guide](https://redd.it/xlcny9)
+* ⭐ **[ReVanced](https://revanced.app)** / [Extended](https://github.com/inotia00/ReVanced_Extended), [ReVanced APKs](https://revanced-apks.pages.dev/) or [RVX Lite](https://t.me/rvx_lite) - Latest Revanced Apps / [Guide](https://redd.it/xlcny9)
 * ⭐ **[ReVanced Manager](https://github.com/revanced/revanced-manager)**
+* ⭐ **[ReVanced Extended](https://github.com/NoName-exe/revanced-extended)**, [2](https://github.com/inotia00/revanced-patches/tree/revanced-extended) / [Magisk Module](https://github.com/sixstrings/revanced-extended-magisk-module)
 * ⭐ **[ReVanced Magisk Module](https://github.com/j-hc/revanced-magisk-module)**
 * ⭐ **[LibreTube](https://github.com/libre-tube/LibreTube)**
 * ⭐ **[NewPipe](https://newpipe.net/)** / [Sponsorblock](https://github.com/polymorphicshade/NewPipe)
