@@ -455,6 +455,7 @@
 * ⭐ **[Voyager](https://github.com/aeharding/voyager)**, [Jerboa](https://github.com/dessalines/jerboa), [LiftOff](https://github.com/liftoff-app/liftoff), [Infinity](https://codeberg.org/Bazsalanszky/Infinity-For-Lemmy) or [Thunder](https://github.com/thunder-app/thunder) - Lemmy Clients
 * ⭐ **[Tusky](https://tusky.app/),** [SubwayTooter](https://github.com/tateisu/SubwayTooter), [Megalodon](https://sk22.github.io/megalodon/) or [Dimett](https://github.com/MateriiApps/Dimett) - Mastodon Clients / [Improved Notifications](https://github.com/LucasGGamerM/moshidon)
 * ⭐ **[KeePassDX](https://www.keepassdx.com/)**, **[BitWarden](https://play.google.com/store/apps/details?id=com.x8bit.bitwarden)**, [Keyspace](https://keyspace.cloud/), [AuthPass](https://authpass.app/), [KeyPass](https://github.com/yogeshpaliyal/KeyPass) or [Keepass2Android](https://github.com/PhilippC/keepass2android) - Password Managers
+* ⭐ **[PairVPN Hotspot](https://pairvpn.com/hotspot)** or [NetShare](https://netshare.app/) - Create Wi-Fi Hotspots
 * [PINCredible](https://github.com/cyb3rko/pincredible) - PIN Manager
 * [Link Manager](https://play.google.com/store/apps/details?id=com.michaelflisar.linkmanager) - Bookmark Manager
 * [UnLim](https://play.google.com/store/apps/details?id=com.kratosle.unlim&gl=US) - Cloud Storage
@@ -510,7 +511,6 @@
 * [Andure](https://github.com/leohku/andure) - Android Chrome Dev Tools
 * [MobiDevTools](https://addons.mozilla.org/en-US/firefox/addon/mobidevtools/) - Firefox Inspect Element
 * [FreeBrowser](https://freebrowser.org/) - Internet Censorship Circumvention / [Wiki](https://github.com/greatfire/wiki)
-* [NetShare](https://netshare.app/) or [PairVPN Hotspot](https://pairvpn.com/hotspot) - Create Wi-Fi Hotspots
 * [Gnirehtet](https://github.com/Genymobile/gnirehtet) - Reverse Tethering
 * [Gugal](https://gitlab.com/narektor/gugal) - Web Search App
 * [Page Scroll](https://play.google.com/store/apps/details?id=com.phonephreak.pagescroll) - Page Auto-Scroll
@@ -901,6 +901,7 @@
 * ↪️ **[Mobile Wallpapers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_wallpapers)**
 * ⭐ **[Hyperweb](https://hyperweb.app/)** - iOS Safari Improvement + Adblock Extension
 * ⭐ **[Bitwarden](https://apps.apple.com/app/bitwarden-free-password-manager/id1137397744)**, [Keepassium](https://keepassium.com/), [AuthPass](https://authpass.app/), [Strongbox](https://strongboxsafe.com/) - Password Manager
+* ⭐ **[PairVPN Hotspot](https://pairvpn.com/hotspot)** - Create Mobile Hotspots
 * [Sileo](https://cydia.saurik.com/api/share#?source=https://repo.getsileo.app), [AppTapp Installer](https://apptapp.me/repo) / [Discord](https://discordapp.com/invite/kkwKTB8), [App Manager](https://muntashirakon.github.io/AppManager/), [AppManager](https://github.com/MuntashirAkon/AppManager) or [Zebra](https://getzbra.com/) - Package Managers
 * [OpenAI-ChatGPT](https://apps.apple.com/us/app/openai-chatgpt/id6448311069) or [Kai](https://trykai.app/) - ChatGPT Apps
 * [FGet](https://apps.apple.com/us/app/fget-file-manager-browser/id1582654012), [Offline File Browser](https://apps.apple.com/us/app/offline-files-browser-docs/id1557618225) or [Santander](https://github.com/SerenaKit/Santander) - File Managers

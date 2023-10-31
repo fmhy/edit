@@ -32,7 +32,7 @@
 * [Crawfish](https://github.com/drakonkat/Crawfish) - [Screenshot](https://i.ibb.co/DVVVdpG/8406bc7e0a39.png)
 * [GoSpeed](https://github.com/GopeedLab/gopeed) - [Screenshot](https://github.com/GopeedLab/gopeed/blob/main/_docs/img/ui-demo.png)
 * [Tribler](https://www.tribler.org/) - Tor-inspired Client / [Screenshot](https://i.ibb.co/k4jt0FJ/20d3bd279896.png) / [Github](https://github.com/Tribler/tribler)
-* [aria2](https://aria2.github.io/) - Terminal Torrent Client / [Screenshot](https://i.ibb.co/SmsxmW3/3e213c54b148.png) / [Github](https://github.com/aria2/aria2) / [Download Bot](https://github.com/gaowanliang/DownloadBot) / [GUI](https://github.com/persepolisdm/persepolis) / [Frontend](http://ariang.mayswind.net/) / [WebUI](https://github.com/ziahamza/webui-aria2)
+* [aria2](https://aria2.github.io/) - Terminal Torrent Client / [Screenshot](https://i.ibb.co/SmsxmW3/3e213c54b148.png) / [Github](https://github.com/aria2/aria2) / [Download Bot](https://github.com/gaowanliang/DownloadBot) / [GUI](https://github.com/persepolisdm/persepolis) / [Frontend](https://ariang.mayswind.net/) / [WebUI](https://github.com/ziahamza/webui-aria2)
 * [XD-Torrent](https://xd-torrent.github.io/) - Anonymous P2P Torrent Client
 * [libtorrent](https://www.libtorrent.org/) - C++ BitTorrent Client / [GitHub](https://github.com/arvidn/libtorrent)
 * [BitSwarm](https://github.com/SuRGeoNix/BitSwarm/) - Bittorrent Client Library
@@ -79,11 +79,11 @@
 
 ***
 
-* 🌐  **[Telegram Torrent Channels](https://duckduckgo.com/?q=site%3At.me+torrent&ia=web)**
-* ⭐ **[RuTracker](http://rutracker.org)**, [2](https://rutracker.nl/), [3](https://rutracker.net/) - Video / Audio / Games / Software / Android / Comics / Magazines / Use [Translator](https://github.com/FilipePS/Traduzir-paginas-web#install)
+* 🌐 **[Telegram Torrent Channels](https://duckduckgo.com/?q=site%3At.me+torrent&ia=web)**
+* ⭐ **[RuTracker](https://rutracker.org/)**, [2](https://rutracker.nl/), [3](https://rutracker.net/) - Video / Audio / Games / Software / Android / Comics / Magazines / Use [Translator](https://github.com/FilipePS/Traduzir-paginas-web#install)
 * ⭐ **RuTracker Tools** - [Addon](https://addons.mozilla.org/en-US/firefox/addon/rutracker_torrent_search/) / [Search API](https://github.com/nikityy/rutracker-api)
 * ⭐ **[TorrentGalaxy](https://torrentgalaxy.to/)** - Video / Audio / NSFW / [Mirrors](https://proxygalaxy.me/)
-* ⭐ **[m0nkrus](http://w14.monkrus.ws/)** - Adobe Software Archive / [How-to](https://rentry.co/adobesoftware) / Use [Translator](https://github.com/FilipePS/Traduzir-paginas-web#install)
+* ⭐ **[m0nkrus](https://w14.monkrus.ws/)** - Adobe Software Archive / [How-to](https://rentry.co/adobesoftware) / Use [Translator](https://github.com/FilipePS/Traduzir-paginas-web#install)
 * ⭐ **[Torrent CSE](https://cse.google.com/cse?cx=006516753008110874046:0led5tukccj)** / [CSE 2](https://cse.google.com/cse?cx=006516753008110874046:kh3piqxus6n) / [librex](https://github.com/hnhx/librex) - Multi Site Search
 * [TheRarBg](https://therarbg.com/), [2](https://t-rb.org) - RARBG Archive / [Subreddit](https://www.reddit.com/r/TheRarBg/) / [Discord](https://therarbg.com/discord/)
 * [TorrentLite](https://torrentlite.com/) - RARBG Archive / [Lemmy](https://lemmy.dbzer0.com/c/torrentlite) / [Subreddit](https://www.reddit.com/r/TorrentLite/)
@@ -95,7 +95,7 @@
 * [LimeTorrents](https://www.limetorrents.lol/) - Video / Audio / Books
 * [IsoHunt](https://isohunts.to/) or [IsoHunt.nz](https://isohunt.nz/) - Video / Audio / Books
 * [ExT](https://ext.to/), [2](https://site.extto.com/) - Video / Audio / Books
-* [rutor.info](http://rutor.info) or [rutor.is](http://rutor.is/) - Video / Audio / Books / Roms / Magazines / Use [Translator](https://github.com/FilipePS/Traduzir-paginas-web#install)
+* [rutor.info](https://rutor.info/) or [rutor.is](https://rutor.is/) - Video / Audio / Books / Roms / Magazines / Use [Translator](https://github.com/FilipePS/Traduzir-paginas-web#install)
 * [NNM-Club](https://nnmclub.to/) - Video / Audio / [Note](https://i.ibb.co/MPRttDC/6a35c3c79cde.png)
 * [Torrentz2k](https://torrentz2k.xyz/) - Video / Audio / NSFW
 * [Torrenting](https://www.torrenting.com/) - Video / Audio / Books / NSFW
@@ -124,31 +124,25 @@
 * [TorrentDownload](https://www.torrentdownload.info/)
 * [Dirty Torrents](https://dirtytorrents.com/)
 * [TorrentQuest](https://torrentquest.com/)
-* [TorrentHound](http://torrenthound.ee/)
-* [LibTor](https://libtor.ch/)
 * [DaMag](https://damag.net/)
 * [Cleanbay](https://cleanbay.netlify.app/)
 * [Torrends](https://torrends.to/)
 * [CloudTorrents](https://cloudtorrents.com/)
-* [TNTBack](https://tntback.github.io/)
 * [BTMET](https://btmet.com/)
-* [BT4G](https://bt4g.org/), [2](https://bt4gprx.com/)
+* [BT4G](https://bt4gprx.com/)
 * [Torlock](https://www.torlock.com/), [2](https://www.torlock2.com/)
 * [ExtraTorrent](https://extratorrent.unblockit.kim/)
-* [Torrent Download](http://www.torentdownloads.narod.ru/)
 * [TorrentFunk](https://www.torrentfunk.com/)
 * [TorrentProject2](https://torrentproject2.com/), [2](https://torrentproject2.net/)
-* [ciligou0](http://ciligou0.com/)
-* [TorrentDB](https://torrentdb.li/)
-* [0Mag](https://www.0mag.net/), [2](https://9mag.net/), [3](https://3mag.net/)
+* [0Mag](https://www.0mag.net/), [2](https://16mag.net/)
 * [TorrentDownloads](https://www.torrentdownloads.pro/)
 * [concen](https://www.concen.org/torrents)
-* [BTSearch](https://www.btsearch.love/)
+* [BTSearch](https://www.btsearch.love/en)
 * [EXT Torrents](https://extranet.torrentbay.to/)
 * [SolidTorrents](https://solidtorrents.to/) - [/r/SolidTorrents](https://reddit.com/r/SolidTorrents)
 * [TorrentSeeker](https://torrentseeker.com)
 * [Torrentzeta](https://www.torrentzeta.com/)
-* [Veoble](http://veoble.com/torrent/)
+* [Veoble](https://veoble.com/torrent/)
 * [TorrentSearchRobot](https://t.me/TorrentSearchRoBot) - Telegram Torrent Search
 * [Torrents.csv](https://torrents-csv.ml/#/) - Torrent CSV Search
 * [Magnetissimo](https://github.com/sergiotapia/magnetissimo) - Magnet Web App Search
@@ -180,12 +174,12 @@
 # ► Tracker Invites
 
 * 🌐 **[Private Trackers General](https://rentry.co/private-trackers)** or [Private Trackers Guide](https://wiki.installgentoo.com/wiki/Private_trackers) - Private Tracker Guides
+* 🌐 **[Scene Related](https://opentrackers.org/links/warez-scene/#scenerelated)** - Warez / Scene Site Index
 * ⭐ **[Graph](https://inviteroute.github.io/graph/)** - Private Tracker Connections Guide
 * ⭐ **[TrackerStatus](https://trackerstatus.info/)** - Tracker Status Updates
 * [TrackerChecker](https://github.com/NDDDDDDDDD/TrackerChecker) - Check if Private Trackers Open Signups
-* [Scene Related](https://opentrackers.org/links/warez-scene/#scenerelated) - Warez / Scene Site Index
-* [/r/trackers](https://reddit.com/r/trackers)
-* [TheShow](http://theshow.click/) - Open Registrations
+* [/r/trackers](https://reddit.com/r/trackers) - Tracker Discussion
+* [TheShow](https://theshow.click/login.php) - Open Registrations
 * [MyAnonaMouse](https://www.myanonamouse.net/) - Open Applications
 * [hdvinnie](https://hdvinnie.github.io/Private-Trackers-Spreadsheet/) - Open Tracker Invites
 * [Tracker Tracker](https://docs.google.com/spreadsheets/d/1zYZ2107xOZwQ37AjLTc5A4dUJl0ilg8oMrZyA0BGvc0/) - Open Tracker Invites
@@ -199,16 +193,16 @@
 # ► Helpful Sites / Apps
 
 * ↪️ **[Updated Tracker Lists](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_tracker_lists)**
-* ↪️ **[Auto Torrent Tools List](https://redd.it/hbwnb2)**, [Prowlarr](https://github.com/Prowlarr/Prowlarr), [FlexGet](https://flexget.com/) or [/r/softwarr](https://reddit.com/r/softwarr)
+* 🌐 **[Auto Torrent Tools List](https://redd.it/hbwnb2)**, [Prowlarr](https://github.com/Prowlarr/Prowlarr), [FlexGet](https://flexget.com/) or [/r/softwarr](https://reddit.com/r/softwarr)
 * ⭐ **[PreDB.me](https://predb.me/)** / [PreDB.net](https://predb.de/), [M2V](https://m2v.ru/), [Xrel](https://www.xrel.to/) or [srrDB](https://www.srrdb.com/) - Scene Release Tracker
-* ⭐ **[T2M](https://nutbread.github.io/t2m/)** / [2](https://github.com/nutbread/t2m) or [Torrent Kitty](https://www.torrentkitty.tv/) / [2](http://torrentkittyurl.com/tk/) / [3](https://www.torrentkitty.net/) / [4](https://www.torrentkitty.lol/) - Torrent to Magnet Converter
+* ⭐ **[T2M](https://nutbread.github.io/t2m/)** / [2](https://github.com/nutbread/t2m) or [Torrent Kitty](https://www.torrentkitty.tv/) / [2](https://www.torrentkitty.tv/) / [3](https://www.torrentkitty.net/) / [4](https://www.torrentkitty.lol/) - Torrent to Magnet Converter
 * ⭐ **[Magnet2Torrent](https://magnet2torrent.com/)** - Magnet to Torrent Converter
 * ⭐ **[Torrent Legality](https://i.ibb.co/HHqC4V2/11e244ddbdfb.png)** - Torrenting Laws by Country
 * [WarezBot](https://github.com/enzobes/WarezBot) - Discord Scene Release Tracker
 * [btcache](https://btcache.me/), [iTorrents](https://itorrents.org) or [Torrage](https://torrage.info/) - Torrent Storage Cache
 * [WebTorrent Checker](https://checker.openwebtorrent.com/) - Check Health of a Torrent
 * [TorrentTags](https://torrenttags.com/) - Check Torrents for Copyright Claims
-* [MagLit](https://maglit.me/) or [mgnet](http://mgnet.me/) - Magnet Link Shorteners
+* [MagLit](https://maglit.me/) - Magnet Link Shorteners
 * [Magnet Link Generator](https://magnetlinkgenerator.com/) - Magnet Link Generator
 * [RSSFeedz](https://t.me/rssfeedz) - Torrent RSS Feed
 * [OpenWebTorrent](https://openwebtorrent.com/) - Free Webtorrent Tracker
@@ -216,9 +210,5 @@
 * [PrivTracker](https://privtracker.com/) - Private BitTorrent Tracker Generator / [GitHub](https://github.com/meehow/privtracker) 
 * [AnonSeed](https://www.anonseed.com/) - Anonymous Torrent Sharing 
 * [Torrent-Creator](https://github.com/Kimbatt/torrent-creator) - Browser Torrent Creator
-* [Torrent Editor](http://torrenteditor.com/) or [Torrent Parts](https://torrent.parts/) - Edit Torrents Files
-* [TorrentOpener](http://www.torrentopener.com/) - Torrent Metadata Viewer
-* [bittorrent-tracker-editor](https://github.com/GerryFerdinandus/bittorrent-tracker-editor) - Add or Remove Trackers from Torrent Files
-* [mktorrent](https://github.com/pobrn/mktorrent) - Metainfo File Creation CLI 
-* [/r/torrents](https://reddit.com/r/torrents) - Torrenting discussion sub
-* [r/VPNTorrents](https://reddit.com/r/vpntorrents) - For Discussion of Torrenting over VPNs
+* [Torrent Parts](https://torrent.parts/) - Edit Torrents Files
+* [/r/torrents](https://reddit.com/r/torrents) or [r/VPNTorrents](https://reddit.com/r/vpntorrents) - Torrenting Discussion

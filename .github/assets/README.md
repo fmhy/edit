@@ -1,3 +1,11 @@
+---
+image: /static/banner4.png
+icon: ":wave:"
+---
+# Welcome
+
+![](/static/banner4.png)
+
 **The Largest Collection of Free Stuff On The Internet!**
 
 * Anyone can suggest [changes or corrections](https://rentry.org/fmhyedit) to the wiki.
