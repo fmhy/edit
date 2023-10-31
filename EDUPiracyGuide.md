@@ -775,7 +775,7 @@
 * 🌐 **[GaijinRyman's Resources](https://github.com/GaijinRyman/JapaneseResources)**, [Nihongo](https://nihongo-e-na.com/eng/), [Best Japanese Websites](https://sites.uni.edu/becker/japanese222.html), [Japanese Resources](https://forum.wordreference.com/threads/japanese-resources-%E2%80%94-constantly-updated.787986/), [AnimeCards](https://animecards.site/) or [Gakuu](https://web.archive.org/web/20201113022338/http://gakuu.com/resources/) - Japanese Learning Resources
 * 🌐 **[Japanese Pitch Accent Resources](https://github.com/olety/japanese-pitch-accent-resources)** - Japanese Accent Resources
 * ⭐ **[TheMoeWay](https://learnjapanese.moe/)** / [Discord](https://discord.gg/nhqjydaR8j), [Kakugo](https://github.com/blastrock/kakugo), [Marshall's Site](https://marshallyin.com/), [HeyJapan](https://heyjapan.net/), [GuideToJapanese](https://guidetojapanese.org/), [jpdb](https://jpdb.io/), [NativShark](https://www.nativshark.com/), [Donkuri](https://donkuri.github.io/learn-japanese/) or [Tofugu](https://www.tofugu.com/) - Learn Japanese
-* ⭐ **[AnimeLon](https://animelon.com/)** - Streaming / Anime / Learn Japanese
+* ⭐ **[Animelon](https://animelon.com/)** - Streaming / Anime / Learn Japanese
 * [Minato](https://minato-jf.jp/) - Japanese Courses
 * [JapaneseTab](https://github.com/Anupya/JapaneseTab) - Japanese Learning Extension
 * [jidoujisho](https://github.com/lrorpilla/jidoujisho), [LearnNatively](https://learnnatively.com/) or [Manabi](https://reader.manabi.io/) - Learn Japanese via Books
