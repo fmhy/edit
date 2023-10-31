@@ -743,7 +743,7 @@
 * [Dollchan](https://dollchan.net/) - Imageboard Features
 * [XKit](https://github.com/new-xkit/XKit) - Make Tumblr More Usable
 * [Breeze Duo for KDE Plasma](https://github.com/vfrico/firefox-breeze-duo) - Breeze Theme for better KDE Integration 
-* [Tab Session Manager](https://tab-session-manager.sienori.com/) or [Session Buddy](https://sessionbuddy.com/) - Session Manager 
+* [Tab Session Manager](https://tab-session-manager.sienori.com/), [Sessionic](https://github.com/navorite/sessionic) or [Session Buddy](https://sessionbuddy.com/) - Session Managers 
 * [User-Agent Switcher](https://mybrowseraddon.com/useragent-switcher.html) - Easily Switch User-Agent
 * [SimpleModifyHeaders](https://github.com/didierfred/SimpleModifyHeaders) - Modify Headers
 * [X-Forwarded-For Header](https://github.com/MisterPhilip/x-forwarded-for) - Set X-Forwarded-For HTTP Header
@@ -1117,7 +1117,7 @@
 * [cachemonet](http://cachemonet.com/) - Randomly Generated GIFs / Backgrounds
 * [Chris Shier](https://www.csh.bz/) - Canvas Animations / GIFs
 * [Three.js](https://threejs.org/) - JavaScript 3D library 
-* [88x31](https://cyber.dabamos.de/88x31/index.html) - Classic 88x31 Buttons
+* [88x31](https://cyber.dabamos.de/88x31/index.html) or [Web Badges World](https://web.badges.world/) - Oldschool Web Badges
 * [The Office Stare Machine](http://theofficestaremachine.com/) - The Office Video Emotions 
 * [Vintage Ad Browser](http://www.vintageadbrowser.com/) - 100,000+ Vintage Advertisements
 * [/r/Place Atlas](https://place-atlas.stefanocoding.me/) - /r/Place Info
