@@ -615,7 +615,7 @@
 * [Toku.fun](https://toku.fun/) - Japanese Superhero Movies / 360p
 * [Jackass Vault](https://discord.gg/ZH5MjcKmJJ) - Jackass Media
 * [IRC Movie Channels](https://pastebin.com/2AeYizZK)
-* [Gophie](https://github.com/Go-phie/gophie), [Movie CLI](https://github.com/mov-cli/mov-cli) or [Movies-and-Series-Scraper](https://github.com/yousefkotp/Movies-and-Series-Scraper) - Streaming Site Download CLI
+* [Movie CLI](https://github.com/mov-cli/mov-cli) or [Movies-and-Series-Scraper](https://github.com/yousefkotp/Movies-and-Series-Scraper) - Streaming Site Download CLI
 * [IMDb-Scout-Mod](https://github.com/Purfview/IMDb-Scout-Mod) - Add Download Site Results to IMDb
 
 ***
@@ -634,7 +634,6 @@
 * [iDoISO](https://idoiso.in/dex) - HD Movies / TV / ISO / [Divolt](https://isoneb.divolt.xyz/)
 * [Remux Collection](https://github.com/nbats/FMHYedit/blob/main/base64.md#17tb-mega-drive) - HD Movies
 * [4K Collection](https://github.com/nbats/FMHYedit/blob/main/base64.md#4k-movie-collection) - HD Movies
-* [r/MegaLinks Backup](https://megadb.tweakly.net/)
 * [Unbeatable Banzuke](https://github.com/nbats/FMHYedit/blob/main/base64.md#unbeatable-banzuke) - Unbeatable Banzuke
 * [Guide to finding fanedits](https://redd.it/nd8z20) - How-to Find Fan Edits
 
@@ -671,7 +670,6 @@
 * [CartoonsArea](https://www.cartoonsarea.xyz/) - Sub / Dub
 * [nibl](https://nibl.co.uk/) - Sub / Dub / XDCC / [Discord](https://discord.com/invite/bUESsAg)
 * [Bubble' Upscale Project](https://discord.gg/7kqqtJ7ArW) - Upscaled Anime / Requests
-* [Anime DL](https://archive.org/details/animedl4.0_202004) - Stream & Download Anime in VLC
 * [Crunchyroll Downloader](https://github.com/hama3254/Crunchyroll-Downloader-v3.0) - Non-Prem Crunchyroll Downloaders 
 
 ***
@@ -695,7 +693,6 @@
 * [Powder](https://powder.media/) - Torrent Streaming App
 * [Ace Stream](https://acestream.org/) - Torrent Streaming App / [Live Search](https://acestreamsearch.net/en/), [2](https://hackmd.io/@w8tAmGnzT-qbgHkemaly6A/SEGUNDA-PARTE#EUR--RU--NA--SA---TV) / [Modded APK](https://github.com/nbats/FMHYedit/blob/main/base64.md#modded-acestream-apk) / [Docker Image](https://github.com/magnetikonline/docker-acestream-server) / [Mpv Script](https://github.com/Digitalone1/mpv-acestream)
 * [WebTorrent](https://webtorrent.io/) - Torrent Streaming App
-* [PopcornTime](http://popcorn-time.ga/) / [2](https://github.com/popcorn-official/popcorn-desktop) -  Torrent Streaming App
 * [NotFlix](https://github.com/Bugswriter/notflix) - Torrent Streaming Script
 * [Magnet Player](https://ferrolho.github.io/magnet-player/) - Stream Torrents in Browser
 * [Bobarr](https://github.com/iam4x/bobarr) or [Nefarious](https://github.com/lardbit/nefarious) - Movie / TV Autodownload / [Discord](https://discord.gg/PFwM4zk)
