@@ -64,7 +64,7 @@
 ## Android Audio Players
 
 * ⭐ **[Poweramp](https://forum.mobilism.org/search.php?keywords=poweramp&sr=topics&sf=titleonly)**
-* ⭐ **[AIMP](http://www.aimp.ru/?do=download&os=android)**
+* ⭐ **[AIMP](https://www.aimp.ru/?do=download&os=android)**
 * ⭐ **[Musicolet Music Player](https://krosbits.in/musicolet/)**
 * ⭐ **[BlackPlayer EX](https://www.revdl.com/blackplayer-ex-apk-download.html/)**
 * ⭐ **[Symphony](https://github.com/zyrouge/symphony)**
