@@ -367,7 +367,6 @@
 * [OpenED](https://open.bccampus.ca/)
 * [doabooks](https://doabooks.org/)
 * [De Gruyter](https://www.degruyter.com/browse?submittedFilterId=by-type&access_4=open&pageSize=10&sort=datedescending&type_5=book), [2](https://www.degruyter.com/page/2045)
-* [The Online Books Page](https://onlinebooks.library.upenn.edu/search.html)
 * [Springer](https://link.springer.com/search?showAll=false&query=&facet-content-type=%22Book%22)
 * [Learn Anything / Books](https://github.com/learn-anything/books)
 * [Tradepub](https://knowfree.tradepub.com/)
