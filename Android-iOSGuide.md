@@ -536,7 +536,8 @@
 * [Jitsi](https://jitsi.org/) or [IMO](http://imo.im/) - Video Chat
 * [RemoteVideoCam](https://github.com/izivkov/RemoteVideoCam) - Video Lan
 * [Minutiae](https://play.google.com/store/apps/details?id=com.minutiae) or [1 Second Everyday](http://1se.co/) - Video-a-Day App
-* [Reface](https://reface.app/) - Create Face Swap Videos 
+* [Reface](https://reface.app/) - Create Face Swap Videos
+* [Alibi](https://github.com/Myzel394/Alibi) - Mobile Dashcam
 * [SmoothAction](https://play.google.com/store/apps/details?id=com.danielkorgel.SmoothActionCamSlowmo) - Slow Motion Video Recorder
 * [IRuin](https://iriun.com/), [Reincubate Camo](https://reincubate.com/camo/), [DroidCam](https://github.com/dev47apps/droidcam) or [Dev47Apps](https://www.dev47apps.com/) - Use Android as Webcam
 * [Photok](https://github.com/leonlatsch/Photok), [Simple Gallery](https://github.com/SimpleMobileTools/Simple-Gallery), [Stingle Photos](https://stingle.org/), [Ente](https://ente.io/), [QuickPic](https://github.com/WSTxda/QP-Gallery-Releases), [UhuruPhotos](https://github.com/savvasdalkitsis/uhuruphotos-android) or [Gallery](https://github.com/IacobIonut01/Gallery) - Photo / Video Galleries
