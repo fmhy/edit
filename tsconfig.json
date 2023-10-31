@@ -15,6 +15,6 @@
     "forceConsistentCasingInFileNames": true,
     "types": ["vite/client", "vite-plugin-pwa/vanillajs", "vitepress"]
   },
-  "include": ["./*.ts", "./.vitepress/**/*.ts"],
+  "include": ["./*.ts", "./.vitepress/**/*.ts", "./.vitepress/vue-shim.d.ts"],
   "exclude": ["dist", "node_modules"]
 }

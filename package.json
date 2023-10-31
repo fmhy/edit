@@ -8,6 +8,7 @@
     "format": "prettier -w ."
   },
   "dependencies": {
+    "@headlessui/vue": "^1.7.16",
     "fast-glob": "^3.3.1",
     "pathe": "^1.1.1",
     "unocss": "^0.57.1",

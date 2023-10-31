@@ -1,0 +1,45 @@
+<script setup lang="ts">
+import Field from "./PaneFields.vue";
+</script>
+
+<template>
+  <div class="sidebar-pane">
+    <div class="pane-header">
+      <div class="pane-title">Emoji Legend</div>
+    </div>
+    <Field icon="i-twemoji-star">Community Recommendations</Field>
+    <Field icon="i-twemoji-globe-with-meridians">3rd Party Indexes</Field>
+    <Field icon="i-twemoji-repeat-button">Storage Page Links</Field>
+  </div>
+</template>
+
+<style scoped>
+.pane-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 12px;
+}
+
+.pane-title {
+  font-weight: 700;
+  color: var(--vp-c-text-1);
+  line-height: 32px;
+  font-size: 16px;
+}
+
+.sidebar-pane {
+  background: var(--vp-c-bg);
+  padding: 12px 24px 24px;
+  border-radius: 12px;
+  margin-bottom: 24px;
+  position: relative;
+  z-index: 0;
+  border: 1px solid transparent;
+  transition: border-color 0.4s ease-in-out;
+}
+
+.sidebar-pane:hover {
+  border-color: var(--vp-c-brand-1);
+}
+</style>

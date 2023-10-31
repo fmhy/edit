@@ -1,18 +1,17 @@
 import { h } from "vue";
-import  {type Theme, inBrowser } from "vitepress";
+import { type Theme, inBrowser } from "vitepress";
 import DefaultTheme from "vitepress/theme";
+import Sidebar from "./layouts/Sidebar.vue";
 import "./style.css";
 import "uno.css";
 
-if (inBrowser)
-  import('./pwa')
-
+if (inBrowser) import("./pwa");
 
 export default {
   Layout: () => {
     return h(DefaultTheme.Layout, null, {
+      "sidebar-nav-after": () => h(Sidebar),
     });
   },
-  enhanceApp({ app, router, siteData }) {
-  },
+  enhanceApp({ app, router, siteData }) { },
 } satisfies Theme;
