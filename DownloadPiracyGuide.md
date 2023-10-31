@@ -154,7 +154,7 @@
 * ⭐ **[YasDL](https://yasdl.com/)** - Use [translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)
 * ⭐ **[nsane.down](https://www.nsaneforums.com/)**
 * ⭐ **[Software CSE](https://cse.google.com/cse?cx=ae17d0c72fa6cbcd4)** - Multi-Site Software Search
-* [4Download](https://www.4download.net/)
+* [4Download](https://4mirrorlink.com/)
 * [AIOWares](https://www.aiowares.com/)
 * [TheMicroTech](https://programs.themicrotech.net/)
 * [soft98](https://soft98.ir/) - Use [translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)
