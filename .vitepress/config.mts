@@ -68,9 +68,16 @@ export default withPwa(
           ],
         }),
       ],
+      build: {
+        // Shut the fuck up
+        chunkSizeWarningLimit: Infinity,
+      },
     },
     themeConfig: {
       search: {
+        options: {
+          detailedView: true,
+        },
         provider: "local",
       },
       outline: "deep",
