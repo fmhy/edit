@@ -17,6 +17,7 @@
   },
   "devDependencies": {
     "@iconify-json/carbon": "^1.1.21",
+    "@iconify-json/twemoji": "^1.1.12",
     "@types/node": "^20.8.9",
     "@vite-pwa/vitepress": "^0.2.3",
     "prettier": "^3.0.3"

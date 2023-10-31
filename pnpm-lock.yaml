@@ -28,6 +28,9 @@ devDependencies:
   '@iconify-json/carbon':
     specifier: ^1.1.21
     version: 1.1.21
+  '@iconify-json/twemoji':
+    specifier: ^1.1.12
+    version: 1.1.12
   '@types/node':
     specifier: ^20.8.9
     version: 20.8.9
@@ -1575,6 +1578,12 @@ packages:
 
   /@iconify-json/carbon@1.1.21:
     resolution: {integrity: sha512-bK2cMVM4noBU+FGlay433flpXLRzQu0ED095iAnoO6ka3yb4uz0lvb8acpN5gthyGLJ89C4HpfIbQZLQnMKQww==}
+    dependencies:
+      '@iconify/types': 2.0.0
+    dev: true
+
+  /@iconify-json/twemoji@1.1.12:
+    resolution: {integrity: sha512-8F3z+0+NYO/qeCiyjeWJ9ozkBvPmXsK+4pkQynUuILyXDIi8ddBHb1DJ6O2Qp5M23LzaA/Gkg8/8CQwgGslGmQ==}
     dependencies:
       '@iconify/types': 2.0.0
     dev: true

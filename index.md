@@ -19,19 +19,19 @@ hero:
 
 features:
   - title: Movies / TV / Anime
-    icon: 📺
-    link: /VideoPiracyGuide
+    icon: <div class="i-twemoji-television" />
+    link: /videopiracyguide
     details: Download, stream, torrent and binge all your favourites movies or shows!
   - title: Music / Podcasts / Radio
-    icon: 🎵
-    link: /AudioPiracyGuide
+    icon: <div class="i-twemoji-musical-notes" />
+    link: /audiopiracyguide
     details:  Stream, download and torrent songs, podcasts and more!
   - title: Games / Emulation
-    icon: 🎮
-    link: /GamingPiracyGuide
+    icon: <div class="i-twemoji-video-game" />
+    link: /gamingpiracyguide
     details: Download and play all your favourite games or emulate some old but gold ones!
   - title: Book / Comics / Manga
-    icon: 📗
-    link: /ReadingPiracyGuide
+    icon: <div class="i-twemoji-books" />
+    link: /readingpiracyguide
     details: Whether you're a bookworm, otaku or comic book fan, you'll be able to find your favourite pieces of literature here for free!
 ---
