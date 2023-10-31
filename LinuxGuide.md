@@ -114,6 +114,8 @@
 * [cava](https://github.com/karlstav/cava) - Console Audio Visualizer
 * [CasterSoundboard](https://github.com/JupiterBroadcasting/CasterSoundboard) - Soundboard
 
+***
+
 ## ▷ Linux Images
 
 * [photoshopCClinux](https://github.com/Gictorbit/photoshopCClinux) - Linux Photoshop Installer
