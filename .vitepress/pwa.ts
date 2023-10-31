@@ -64,7 +64,6 @@ export const pwa = {
     globPatterns: ["**/*.{css,js,html,svg,png,ico,txt,woff2,json}"],
     globIgnores: ["**/404.html"],
     navigateFallback: null,
-
     runtimeCaching: [
       {
         urlPattern: /^https:\/\/fonts\.googleapis\.com\/.*/i,

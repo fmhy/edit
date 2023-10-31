@@ -40,7 +40,7 @@ export default defineLoader({
     const obj = Object.fromEntries(
       [...guides.entries()].map((entry, index) => [index.toString(), entry]),
     );
-    await writeFile("./guides.json",JSON.stringify(obj, null, 4), "")
-    return await readFile("./guides.json", { encoding: "utf-8"})
+    await writeFile("./guides.json", JSON.stringify(obj, null, 4), "utf-8");
+    return JSON.parse(await readFile("./guides.json", { encoding: "utf-8" })) as Data;
   },
 });

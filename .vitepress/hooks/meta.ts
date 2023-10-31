@@ -10,13 +10,9 @@ export function generateMeta(context: TransformContext, hostname: string) {
   head.push(["meta", { property: "og:url", content: url }]);
   head.push(["meta", { name: "twitter:url", content: url }]);
   head.push(["meta", { name: "twitter:card", content: "summary_large_image" }]);
+  head.push(["meta", { name: "theme-color", content: "#7bc5e4" }]);
+  head.push(["meta", { property: "og:type", content: "website" }]);
 
-  if (pageData.frontmatter.theme) {
-    head.push(["meta", { name: "theme-color", content: pageData.frontmatter.theme }]);
-  }
-  if (pageData.frontmatter.type) {
-    head.push(["meta", { property: "og:type", content: pageData.frontmatter.type }]);
-  }
   if (pageData.frontmatter.description) {
     head.push([
       "meta",
@@ -52,18 +48,7 @@ export function generateMeta(context: TransformContext, hostname: string) {
       },
     ]);
   }
-  if (pageData.frontmatter.tag) {
-    head.push(["meta", { property: "article:tag", content: pageData.frontmatter.tag }]);
-  }
-  if (pageData.frontmatter.date) {
-    head.push([
-      "meta",
-      {
-        property: "article:published_time",
-        content: pageData.frontmatter.date,
-      },
-    ]);
-  }
+
   if (pageData.lastUpdated && pageData.frontmatter.lastUpdated !== false) {
     head.push([
       "meta",

@@ -10,7 +10,7 @@ export default withPwa(
   defineConfig({
     title: "FMHY",
     description: meta.description,
-    titleTemplate: ":title | FreeMediaHeckYeah",
+    titleTemplate: ":title • freemediaheckyeah",
     lang: "en-US",
     lastUpdated: true,
     cleanUrls: true,
@@ -21,27 +21,37 @@ export default withPwa(
       hostname: meta.hostname,
     },
     head: [
-
       ["meta", { name: "theme-color", content: "#7bc5e4" }],
       ["meta", { name: "og:type", content: "website" }],
       ["meta", { name: "og:locale", content: "en" }],
-      ["meta", { property: "og:type", content: "website" }],
-      ["meta", { property: "og:title", content: meta.name }],
-      ["link", { rel: "icon", href: "/fmhy.ico", sizes: "any" }],
+      ["link", { rel: "icon", href: "/test.png" }],
+      // PWA
       ["link", { rel: "icon", href: "/test.png", type: "image/svg+xml" }],
-      ["link", { rel: "mask-icon", href: "/test.png", color: "#7bc5e4" }],
-      // pwa
       ["link", { rel: "alternate icon", href: "/test.png" }],
-      ["link", { rel: "apple-touch-icon", href: "/fmhy.png", sizes: "192x192" }],
-      ["meta", { name: "apple-mobile-web-app-status-bar-style", content: "black-translucent" }],
+      ["link", { rel: "mask-icon", href: "/test.png", color: "#7bc5e4" }],
+      // prettier-ignore
       ["meta", { name: "keywords", content: meta.keywords.join(" ") }],
-      ["meta", { name: "twitter:description", content: meta.description }],
-      ["meta", { name: "twitter:title", content: meta.name }],
-      ["meta", { name: "twitter:card", content: "summary_large_image" }],
-      ["meta", { name: "twitter:site", content: meta.hostname }],
+      ["link", { rel: "apple-touch-icon", href: "/test.png", sizes: "192x192" }],
+
+      // ["meta", { name: "theme-color", content: "#7bc5e4" }],
+      // ["meta", { name: "og:type", content: "website" }],
+      // ["meta", { name: "og:locale", content: "en" }],
+      // ["meta", { property: "og:type", content: "website" }],
+      // ["meta", { property: "og:title", content: meta.name }],
+      // ["link", { rel: "icon", href: "/fmhy.ico", sizes: "any" }],
+      // ["link", { rel: "icon", href: "/test.png", type: "image/svg+xml" }],
+      // ["link", { rel: "mask-icon", href: "/test.png", color: "#7bc5e4" }],
+      // // pwa
+      // ["link", { rel: "alternate icon", href: "/test.png" }],
+      // ["link", { rel: "apple-touch-icon", href: "/fmhy.png", sizes: "192x192" }],
+      // ["meta", { name: "apple-mobile-web-app-status-bar-style", content: "black-translucent" }],
+      // ["meta", { name: "keywords", content: meta.keywords.join(" ") }],
+      // ["meta", { name: "twitter:description", content: meta.description }],
+      // ["meta", { name: "twitter:title", content: meta.name }],
+      // ["meta", { name: "twitter:card", content: "summary_large_image" }],
+      // ["meta", { name: "twitter:site", content: meta.hostname }],
     ],
     transformHead: async (context) => generateMeta(context, meta.hostname),
-
     vite: {
       plugins: [
         UnoCSS({
