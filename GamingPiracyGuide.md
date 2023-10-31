@@ -123,7 +123,7 @@
 
 ## ▷ Emulators
 
-* 🌐 **[Emulation Wiki](https://emulation.gametechwiki.com/)**, [PlanetEmu](http://www.planetemu.net/), [The Emulator Zone](https://www.emulator-zone.com/) or [EmuCR](https://www.emucr.com/) - Download Emulators
+* 🌐 **[Emulation Wiki](https://emulation.gametechwiki.com/)**, [Awesome Emulators](https://github.com/DerekTurtleRoe/awesome-emulators), [PlanetEmu](http://www.planetemu.net/), [The Emulator Zone](https://www.emulator-zone.com/) or [EmuCR](https://www.emucr.com/) - Download Emulators
 * 🌐 **[Multi System Emulators](https://emulation.gametechwiki.com/index.php/Multi-system_emulators)** - Emulators w/ Multiple Consoles
 * 🌐 **[RedSquirrel Project List](https://www.redsquirrel87.altervista.org/doku.php/projects-list)** - Emulator Tools
 * 🌐 **[Multiplayer Emulation](http://emulation.gametechwiki.com/index.php/Netplay)** - Multiplayer Emulation Tools
@@ -249,7 +249,7 @@
 * [Emulator.online](http://emulator.online/)
 * [Online.OldGames](https://online.oldgames.sk/)
 * [Retro Games Online](https://www.playretrogames.com/)
-* [PlayEmulator](https://playemulator.online/)
+* [PlayEmulator](https://playemulator.online/), [2](https://www.playemulator.io/games/)
 * [Emulator Games Online](https://gamesfrog.com/)
 * [Virtual Consoles](https://virtualconsoles.com/)
 * [OldGameShelf](https://oldgameshelf.com/)
