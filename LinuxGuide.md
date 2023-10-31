@@ -4,16 +4,13 @@
 ***
 ***
 
-**[Table of Contents](https://ibb.co/RQ12b8N)** - For mobile users
+**[Table of Contents](https://ibb.co/48GM88m)** - For mobile users
 
 ***
 ***
 
 # ► Linux Apps
 
-* 🌐 **[Linux File Backup](https://github.com/restic/others)** - File Backup App List
-* ↪️ **[Music Libraries / Players](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_music_libraries_.2F_players)**
-* ⭐ **[mpv](https://mpv.io/)** - Video Player / [Frontend](https://github.com/celluloid-player/celluloid)
 * ⭐ **[WineHQ](https://appdb.winehq.org/)** - Wine Compatibility Database
 * ⭐ **[Q4Wine](https://sourceforge.net/projects/q4wine/)** - Wine GUI
 * [winetricks](https://github.com/Winetricks/winetricks) - Wine Fixes
@@ -32,17 +29,6 @@
 * [zentile](https://github.com/blrsn/zentile) or [bspwm](https://github.com/baskerville/bspwm) - Tiling Windows Manager / [Sub](https://www.reddit.com/r/bspwm/) / [Binds](https://github.com/baskerville/sxhkd)
 * [Material Shell](https://material-shell.com/) or [Forge](https://github.com/forge-ext/forge) - GNOME Tiling Extension
 * [Bismuth](https://bismuth-forge.github.io/bismuth/) - KDE Tiling Extension / [GitHub](https://github.com/Bismuth-Forge/bismuth)
-* [ANGRYsearch](https://github.com/DoTheEvo/ANGRYsearch), [CatCLI](https://github.com/deadc0de6/catcli), [xplr](https://xplr.dev/) / [GitHub](https://github.com/sayanarijit/xplr) / [Discord](https://discord.com/invite/JmasSPCcz3), [logo-ls](https://github.com/Yash-Handa/logo-ls), [ugrep](https://github.com/Genivia/ugrep) or [Achoz](https://github.com/kcubeterm/achoz) - File Explorers
-* [Dolphin](https://userbase.kde.org/Dolphin), [SpaceFM](https://ignorantguru.github.io/spacefm/) or [ranger](https://github.com/ranger/ranger) - File Managers
-* [p7zip](https://p7zip.sourceforge.net/) - File Archiver / Unzipper
-* [Curlew](https://curlew.sourceforge.io/) - File Converter
-* [Boxxy](https://github.com/queer/boxxy) - Contain Files / Directories 
-* [Junction](https://github.com/sonnyp/Junction) - Change File Associations
-* [Krename](https://apps.kde.org/en-gb/krename/) - Bulk File Renamer
-* [FSLint](http://www.pixelbeat.org/fslint/) or [fclones](https://github.com/pkolaczk/fclones) - Duplicate File Finder
-* [rcm](https://github.com/thoughtbot/rcm) - Manage Dotfiles
-* [Zathura](https://git.pwmt.org/pwmt) - Document Viewer
-* [PDF Mix](https://scarpetta.eu/pdfmixtool/) - PDF Editor
 * [Ghostwriter](https://ghostwriter.kde.org/) or [Remarkable](http://remarkableapp.github.io/) - Markdown Editor
 * [Gedit](https://wiki.gnome.org/Apps/Gedit), [Geany](https://www.geany.org/), [Leafpad](http://tarot.freeshell.org/leafpad/), [NotepadNext](https://github.com/dail8859/NotepadNext), [Featherpad](https://github.com/tsujan/FeatherPad), [Mousepad](https://github.com/codebrainz/mousepad) or [Notepadqq](https://notepadqq.com/) - Text Editor
 * [Whatever](https://github.com/sbrshk/whatever) - Evernote Client
@@ -66,40 +52,6 @@
 * [Got](https://github.com/fedeztk/got) or [tl](https://github.com/rilysh/tl) - Translators
 * [DidYouMean](https://github.com/hisbaan/didyoumean) - Grammar Check
 * [KTouch](https://apps.kde.org/ktouch/), [typer](https://github.com/maaslalani/typer) or [Toipe](https://github.com/Samyak2/toipe) - Typing Practice
-* [fmedia](https://github.com/stsaz/fmedia) - Media Player and Converter
-* [ani-cli](https://github.com/pystardust/ani-cli) - Anime Streaming Terminal
-* [Trackma](https://github.com/z411/trackma/) - Anime Tracking App
-* [spotify-qt](https://github.com/kraxarn/spotify-qt), [Spot](https://github.com/xou816/spot) or [SpotifyD](https://github.com/Spotifyd/spotifyd) - Spotify Clients
-* [Librespot-Python](https://github.com/kokarare1212/librespot-python) - Spotify TUI
-* [Monophony](https://gitlab.com/Vistaus/monophony) - YouTube Music Client
-* [Deezer Linux](https://github.com/aunetx/deezer-linux) - Deezer Client
-* [Myuzi](https://gitlab.com/albanobattistella/myuzi) or [Harmony Music](https://github.com/ZingyTomato/Harmony-Music) - Music Streaming Apps
-* [HeadsetControl](https://github.com/Sapd/HeadsetControl) - Headset Settings Manager
-* [SongRec](https://github.com/marin-m/SongRec) - Song Identifier
-* [Pipewire](https://wiki.archlinux.org/title/PipeWire#Noise_suppression_for_voice) or [NoiseTorch](https://github.com/noisetorch/NoiseTorch) - Noise Suppression Software
-* [Qtractor](https://qtractor.org/) - Audio Editor
-* [Ecasound](http://nosignal.fi/ecasound/), [Viper4Linux](https://github.com/Audio4Linux/Viper4Linux) / [GUI](https://github.com/Audio4Linux/Viper4Linux-GUI) or [JDSP4Linux](https://github.com/Audio4Linux/JDSP4Linux) - Audio Processors 
-* [Parlatype](https://www.parlatype.org/) - Audio Transcription
-* [cava](https://github.com/karlstav/cava) - Console Audio Visualizer
-* [CasterSoundboard](https://github.com/JupiterBroadcasting/CasterSoundboard) - Soundboard
-* [photoshopCClinux](https://github.com/Gictorbit/photoshopCClinux) - Linux Photoshop Installer
-* [V4L2Loopback](https://github.com/umlaeute/v4l2loopback) - Create Virtual Cameras
-* [Xara Xtreme](http://www.xaraxtreme.org/) - Image Editor
-* [Drawing](https://github.com/maoschanz/drawing) - Drawing App
-* [TextSnatcher](https://github.com/RajSolai/TextSnatcher) or [Frog](https://tenderowl.com/work/frog/) - Image to Text
-* [Feh](https://feh.finalrewind.org/) or [NSXIV](https://github.com/nsxiv/nsxiv) - Image Viewer
-* [lsix](https://github.com/hackerb9/lsix) - View Images in Terminal
-* [Upscaler](https://gitlab.com/TheEvilSkeleton/Upscaler) - Image Upscaler
-* [Trimage](https://trimage.org/) - Image Compressor
-* [MkPosters](https://github.com/patrick-kidger/mkposters) - Turn Markdown Files into Posters
-* [Rapid](https://damonlynch.net/rapid/) - Quick Linux Photo Importer
-* [Sharenix](https://github.com/Francesco149/sharenix) or [MagicCap](https://magiccap.me/) - Screenshot Tool
-* [Gromit MPX](https://github.com/bk138/gromit-mpx) - Screen Annotation
-* [Plumber](https://github.com/keshavbhatt/plumber) - Screen Recorder / Clipping
-* [AV Linux](http://www.bandshed.net/avlinux/) - Video / Audio Editor
-* [Flowblade](https://github.com/jliljebl/flowblade) - Video Editor
-* [Peek](https://github.com/phw/peek) - Simple Video / GIF recorder
-* [Linux-Fake-Background-Webcam](https://github.com/fangfufu/Linux-Fake-Background-Webcam/) - Fake Webcam Background
 
 ***
 
@@ -130,7 +82,56 @@
 
 ***
 
-# ► Linux Gaming
+## ▷ Linux Video
+
+* ⭐ **[mpv](https://mpv.io/)** - Video Player / [Frontend](https://github.com/celluloid-player/celluloid)
+* [Gromit MPX](https://github.com/bk138/gromit-mpx) - Screen Annotation
+* [Plumber](https://github.com/keshavbhatt/plumber) - Screen Recorder / Clipping
+* [AV Linux](http://www.bandshed.net/avlinux/) - Video / Audio Editor
+* [Flowblade](https://github.com/jliljebl/flowblade) - Video Editor
+* [Peek](https://github.com/phw/peek) - Simple Video / GIF recorder
+* [Linux-Fake-Background-Webcam](https://github.com/fangfufu/Linux-Fake-Background-Webcam/) - Fake Webcam Background
+* [fmedia](https://github.com/stsaz/fmedia) - Media Player and Converter
+* [ani-cli](https://github.com/pystardust/ani-cli) - Anime Streaming Terminal
+* [Trackma](https://github.com/z411/trackma/) - Anime Tracking App
+
+***
+
+## ▷ Linux Audio
+
+* ↪️ **[Music Libraries / Players](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_music_libraries_.2F_players)**
+* [spotify-qt](https://github.com/kraxarn/spotify-qt), [Spot](https://github.com/xou816/spot) or [SpotifyD](https://github.com/Spotifyd/spotifyd) - Spotify Clients
+* [Librespot-Python](https://github.com/kokarare1212/librespot-python) - Spotify TUI
+* [Monophony](https://gitlab.com/Vistaus/monophony) - YouTube Music Client
+* [Deezer Linux](https://github.com/aunetx/deezer-linux) - Deezer Client
+* [Myuzi](https://gitlab.com/albanobattistella/myuzi) or [Harmony Music](https://github.com/ZingyTomato/Harmony-Music) - Music Streaming Apps
+* [HeadsetControl](https://github.com/Sapd/HeadsetControl) - Headset Settings Manager
+* [SongRec](https://github.com/marin-m/SongRec) - Song Identifier
+* [Pipewire](https://wiki.archlinux.org/title/PipeWire#Noise_suppression_for_voice) or [NoiseTorch](https://github.com/noisetorch/NoiseTorch) - Noise Suppression Software
+* [Qtractor](https://qtractor.org/) - Audio Editor
+* [Ecasound](http://nosignal.fi/ecasound/), [Viper4Linux](https://github.com/Audio4Linux/Viper4Linux) / [GUI](https://github.com/Audio4Linux/Viper4Linux-GUI) or [JDSP4Linux](https://github.com/Audio4Linux/JDSP4Linux) - Audio Processors 
+* [Parlatype](https://www.parlatype.org/) - Audio Transcription
+* [cava](https://github.com/karlstav/cava) - Console Audio Visualizer
+* [CasterSoundboard](https://github.com/JupiterBroadcasting/CasterSoundboard) - Soundboard
+
+## ▷ Linux Images
+
+* [photoshopCClinux](https://github.com/Gictorbit/photoshopCClinux) - Linux Photoshop Installer
+* [V4L2Loopback](https://github.com/umlaeute/v4l2loopback) - Create Virtual Cameras
+* [Xara Xtreme](http://www.xaraxtreme.org/) - Image Editor
+* [Drawing](https://github.com/maoschanz/drawing) - Drawing App
+* [TextSnatcher](https://github.com/RajSolai/TextSnatcher) or [Frog](https://tenderowl.com/work/frog/) - Image to Text
+* [Feh](https://feh.finalrewind.org/) or [NSXIV](https://github.com/nsxiv/nsxiv) - Image Viewer
+* [lsix](https://github.com/hackerb9/lsix) - View Images in Terminal
+* [Upscaler](https://gitlab.com/TheEvilSkeleton/Upscaler) - Image Upscaler
+* [Trimage](https://trimage.org/) - Image Compressor
+* [MkPosters](https://github.com/patrick-kidger/mkposters) - Turn Markdown Files into Posters
+* [Rapid](https://damonlynch.net/rapid/) - Quick Linux Photo Importer
+* [Sharenix](https://github.com/Francesco149/sharenix) or [MagicCap](https://magiccap.me/) - Screenshot Tool
+
+***
+
+## ▷ Linux Gaming
 
 * 🌐 **[Awesome-ttygames](https://github.com/ligurio/awesome-ttygames)** - Unix ASCII Games
 * ⭐ **[Linux Gaming Guide](https://www.reddit.com/r/LinuxCrackSupport/wiki/index)** / [2](https://web.archive.org/web/20221022121735/https://www.reddit.com/r/Piracy/comments/ndrtlf/comment/gyccwhk/?context=3) - Linux Gaming Guides
@@ -232,7 +233,6 @@
 * [node-startup](https://github.com/ralyodio/node-startup) - Startup Script
 * [die.net](https://linux.die.net/) - Linux Documentation
 * [HowtoForge](https://www.howtoforge.com/), [Sindresorhus Guides](https://github.com/sindresorhus/guides), [Erik Dubois](https://www.youtube.com/c/ErikDubois), [LinuxJourney](https://linuxjourney.com/), [Mayfrost Guides](https://github.com/mayfrost/guides) or [Mental Outlaw](https://www.youtube.com/channel/UC7YOGHUfC1Tb6E4pudI9STA) - Linux Guides / Tutorials
-* [Linux Filesystem Chart](https://i.ibb.co/ChF9HMH/02e105ba72c1.png) - File System Guide
 * [howtodebuntu](https://github.com/themagicalmammal/howtolinux) - Tweaks for Debian Based Distros
 * [WoeUSB](https://github.com/WoeUSB/WoeUSB) or [Windows2USB](https://github.com/ValdikSS/windows2usb) - Create Bootable USB Windows Drives
 * [CloverBootloader](https://github.com/CloverHackyColor/CloverBootloader/releases) - Windows, Mac & Linux Bootloader / [Config](https://mackie100projects.altervista.org/)
@@ -267,7 +267,6 @@
 
 ## ▷ Linux Internet
 
-* ⭐ **[Warpinator](https://github.com/linuxmint/warpinator)**, [syncthing](https://syncthing.net/), [portal](https://github.com/SpatiumPortae/portal) or [Sharing](https://github.com/parvardegr/sharing) - File Sync Apps
 * ⭐ **[Soulseek](https://www.slsknet.org/SoulseekQt/Linux/SoulseekQt-2018-1-30-64bit-appimage.tgz)** - File Sharing App
 * ⭐ **[TorrFlix](https://github.com/infinity-plus/TorrFlix)** - Torrent Streaming CLI
 * ⭐ **[qBittorrent](https://github.com/qbittorrent/qBittorrent/wiki/Installing-qBittorrent#linux)** / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_qbitorrent_tools), **[rTorrent](https://rakshasa.github.io/rtorrent/)** / [2](https://github.com/rakshasa/rtorrent), [BitFlu](https://bitflu.workaround.ch/), [Torrentor](https://github.com/guidopola/torrentor) or [kTorrent](https://apps.kde.org/ktorrent/) / [2](https://invent.kde.org/network/ktorrent) - Linux Torrent Clients
@@ -327,6 +326,25 @@
 * [Discord RPM](https://github.com/RPM-Outpost/discord ) - Automated Discord Update Script
 * [emoj](https://www.npmjs.com/package/emoj), [Rofimoji](https://github.com/fdw/rofimoji), [EmojiCherryPick](https://github.com/thingsiplay/emojicherrypick), [Shmoji](https://github.com/biox/shmoji) or [emoji-cli](https://github.com/b4b4r07/emoji-cli) - Emoji CLI's
 * [wikit](https://github.com/KorySchneider/wikit) - Wikipedia Summaries
+
+***
+
+## ▷ File Tools
+
+* 🌐 **[Linux File Backup](https://github.com/restic/others)** - File Backup App List
+* ⭐ **[Warpinator](https://github.com/linuxmint/warpinator)**, [syncthing](https://syncthing.net/), [portal](https://github.com/SpatiumPortae/portal) or [Sharing](https://github.com/parvardegr/sharing) - File Sync Apps
+* [ANGRYsearch](https://github.com/DoTheEvo/ANGRYsearch), [CatCLI](https://github.com/deadc0de6/catcli), [xplr](https://xplr.dev/) / [GitHub](https://github.com/sayanarijit/xplr) / [Discord](https://discord.com/invite/JmasSPCcz3), [logo-ls](https://github.com/Yash-Handa/logo-ls), [ugrep](https://github.com/Genivia/ugrep) or [Achoz](https://github.com/kcubeterm/achoz) - File Explorers
+* [Dolphin](https://userbase.kde.org/Dolphin), [SpaceFM](https://ignorantguru.github.io/spacefm/) or [ranger](https://github.com/ranger/ranger) - File Managers
+* [p7zip](https://p7zip.sourceforge.net/) - File Archiver / Unzipper
+* [Curlew](https://curlew.sourceforge.io/) - File Converter
+* [Boxxy](https://github.com/queer/boxxy) - Contain Files / Directories 
+* [Junction](https://github.com/sonnyp/Junction) - Change File Associations
+* [Krename](https://apps.kde.org/en-gb/krename/) - Bulk File Renamer
+* [FSLint](http://www.pixelbeat.org/fslint/) or [fclones](https://github.com/pkolaczk/fclones) - Duplicate File Finder
+* [rcm](https://github.com/thoughtbot/rcm) - Manage Dotfiles
+* [Zathura](https://git.pwmt.org/pwmt) - Document Viewer
+* [PDF Mix](https://scarpetta.eu/pdfmixtool/) - PDF Editor
+* [Linux Filesystem Chart](https://i.ibb.co/ChF9HMH/02e105ba72c1.png) - File System Guide
 
 ***
 
@@ -554,7 +572,7 @@
 
 ***
 
-# ► Mac Gaming
+## ▷ Mac Gaming
 
 * ⭐ **[AppleGamingWiki](https://applegamingwiki.com/)** - Mac Game Fixes / Compatibility
 * ⭐ **[Torrminatorr](https://forum.torrminatorr.com/)**
