@@ -477,6 +477,7 @@
 * [VPNBook](https://www.vpnbook.com/) - Free VPN Accounts
 * [VPNGate](https://www.vpngate.net/en/) - Free VPN Relay Servers
 * [GoFly](https://play.google.com/store/apps/details?id=com.ambrose.overwall&gl=US) - Free VPN for Android
+* [AriaVPN](https://ariavpn.net) - [Pricing](https://ibb.co/nmCpsyn)
 
 ***
 
