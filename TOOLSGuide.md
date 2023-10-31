@@ -1246,6 +1246,7 @@
 * [ansi-colors-discord.md](https://gist.github.com/kkrypt0nn/a02506f3712ff2d1c8ca7c9e0aed7c06) - Discord Colored Messages 
 * [Discord Templates](https://discordtemplates.me/) - Discord Server Templates
 * [Discord Webhooks Guide](https://birdie0.github.io/discord-webhooks-guide/)
+* [Discord Media Helper](https://github.com/eartharoid/discord-media-helper) - Fix Discord Embeds
 * [Embed Visualizer](https://embed.discord.website/) - Embed Visualization Tool 
 * [Chimera](https://github.com/CedArctic/Chimera) - System Remote Control 
 * [The Cleaner](https://cleanerbot.xyz/) - Remove Spam / Phishing Links
