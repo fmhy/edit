@@ -1506,6 +1506,7 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://70.88.180.169:8
 * [Vigilio](https://vigilio.tugcan.net/) - [GitHub](https://github.com/tugcanolgun/vigilio)
 * [ErsatzTV](https://ersatztv.org/) - Live Channel Media Server
 * [dizqueTV](https://github.com/vexorian/dizquetv) - Live Channel Media Server
+* [YTDL-Sub](https://github.com/jmbannon/ytdl-sub) - Add YouTube Channels to Media Servers
 * [xTeVe](https://github.com/xteve-project/xTeVe) - Plex / Emby M3U Proxy
 * [Autoscan](https://github.com/Cloudbox/autoscan) - Real-Time Plex & Emby File Changes
 * [Ombi](https://ombi.io/) - Plex / Emby User Request Management
@@ -2542,6 +2543,7 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://70.88.180.169:8
 * [NXBrew](https://nxbrew.com/) - (Scroll past Download Setup buttons)
 * [nsw2u](https://nsw2u.com/)
 * [NswRoms](https://nswrom.com/)
+* [ROMSim](https://romsim.com/) - [Discord](https://discord.gg/Zgdhq7xDcd)
 
 ***
 
@@ -3329,6 +3331,8 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://70.88.180.169:8
 * [GUI](https://github.com/oleksis/youtube-dl-gui), [2](https://github.com/mhogomchungu/media-downloader), [3](https://github.com/JaGoLi/ytdl-gui), [4](https://stacher.io/), [5](https://jely2002.github.io/youtube-dl-gui/), [6](https://github.com/marcopeocchi/yt-dlp-web-ui), [7](https://github.com/stefnotch/downline), [8](https://github.com/alexta69/metube), [9](https://github.com/Maxstupo/ydl-ui), [10](https://github.com/jely2002/youtube-dl-gui), [11](https://jeanslack.github.io/Videomass/), [12](https://github.com/database64128/youtube-dl-wpf)
 * [Scripts Index](https://github.com/TheFrenchGhosty/TheFrenchGhostys-Ultimate-YouTube-DL-Scripts-Collection)
 [Bookmarklet](https://github.com/tardisx/gropple)
+* [TotalSize](https://pypi.org/project/totalsize/) - Calculate Playlist Size
+* [youtube-dl-viewer](https://github.com/Mikescher/youtube-dl-viewer) - View Videos on YouTube Style Page
 
 ***
 
