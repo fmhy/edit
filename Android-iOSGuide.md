@@ -904,13 +904,12 @@
 * ⭐ **[Hyperweb](https://hyperweb.app/)** - iOS Safari Improvement + Adblock Extension
 * ⭐ **[Bitwarden](https://apps.apple.com/app/bitwarden-free-password-manager/id1137397744)**, [Keepassium](https://keepassium.com/), [AuthPass](https://authpass.app/), [Strongbox](https://strongboxsafe.com/) - Password Manager
 * ⭐ **[PairVPN Hotspot](https://pairvpn.com/hotspot)** - Create Mobile Hotspots
-* [Sileo](https://cydia.saurik.com/api/share#?source=https://repo.getsileo.app), [AppTapp Installer](https://apptapp.me/repo) / [Discord](https://discordapp.com/invite/kkwKTB8), [App Manager](https://muntashirakon.github.io/AppManager/), [AppManager](https://github.com/MuntashirAkon/AppManager) or [Zebra](https://getzbra.com/) - Package Managers
+* [Sileo](https://cydia.saurik.com/api/share#?source=https://repo.getsileo.app), [AppTapp Installer](https://apptapp.me/repo) / [Discord](https://discordapp.com/invite/kkwKTB8) or [Zebra](https://getzbra.com/) - Package Managers
 * [OpenAI-ChatGPT](https://apps.apple.com/us/app/openai-chatgpt/id6448311069) or [Kai](https://trykai.app/) - ChatGPT Apps
-* [FGet](https://apps.apple.com/us/app/fget-file-manager-browser/id1582654012), [Offline File Browser](https://apps.apple.com/us/app/offline-files-browser-docs/id1557618225) or [Santander](https://github.com/SerenaKit/Santander) - File Managers
+* [Offline File Browser](https://apps.apple.com/us/app/offline-files-browser-docs/id1557618225) or [Santander](https://github.com/SerenaKit/Santander) - File Managers
 * [Dropbox Premium](https://testflight.apple.com/join/LBZaRq4I) - Cloud Storage
 * [DeDuplicate](https://deduplicate.app/) - Duplicate File Remover
 * [A-Shell](https://github.com/holzschu/a-shell) - Terminal Emulator
-* [iEmulators](https://iemulators.com/) - Emulator Apps
 * [Downgrade Apps](https://github.com/qnblackcat/How-to-Downgrade-apps-on-AppStore-with-iTunes-and-Charles-Proxy/) - How-to Downgrade Apps
 * [Drafts](https://getdrafts.com/), [FreeNotes](https://apps.apple.com/in/app/freenotes-note-taking/id6464237904) or [Bear](https://apps.apple.com/us/app/bear/id1016366447) - Note Taking Apps
 * [Noteful](https://apps.apple.com/in/app/noteful-note-taking-on-pdf/id1587904334) or [Highlights](https://highlightsapp.net/) - PDF Note Taking
@@ -939,7 +938,6 @@
 * [Video Saver Pro](https://apps.apple.com/us/app/video-saver-pro-cloud-drive/id1297144302) - Video Downloader
 * [YT-DLP](https://mcgaritydotme.notion.site/Using-yt-dlp-to-download-YouTube-content-on-an-iPad-16d0f4bcaf524d41a92a0d714d4bd100) or [YouDown](https://apps.apple.com/sa/app/youdown/id1487658334) - YouTube Downloaders
 * [Keynote](https://apps.apple.com/us/app/keynote/id361285480) - Make Presentations
-* [Noctis12](https://repo.packix.com/package/com.laughingquoll.noctis12/) - iOS Dark Mode
 * [GlobeConvert](https://apps.apple.com/us/app/globeconvert-currency-units/id334851202) - Currency / Unit Converter
 * [IRuin](https://iriun.com/) - Use iOS Device as Webcam 
 * [Fiery Feeds](https://apps.apple.com/us/app/fiery-feeds-rss-reader/id1158763303), [Reeder](https://reederapp.com/) or [NetNewsWire](https://apps.apple.com/us/app/netnewswire-rss-reader/id1480640210) - RSS Reader
@@ -954,7 +952,6 @@
 * [Fimo](https://apps.apple.com/us/app/fimo-analog-camera/id1454219307) - Vintage Image Filters
 * [Lightme](https://apps.apple.com/app/id1509033790) - Light Meter
 * [Luma AI](https://lumalabs.ai/) - Capture 3D Images
-* [Alderis](https://github.com/hbang/Alderis) - iOS Color Picker
 * [Universal Control](https://apps.apple.com/us/app/tv-remote-universal-control/id1539090879) - Universal Remote
 * [NetClicker](https://netclicker.tv/) - Phone Browser Controller
 * [Bacon](https://github.com/jerameel/bacon) - Bluetooth Controller
@@ -969,7 +966,6 @@
 * [TheChan](https://github.com/TheChanDev/TheChan) - 4Chan App
 * [Conversations](https://f-droid.org/en/packages/eu.siacs.conversations/) - XMPP Client
 * [Watusi](https://watusi.fouadraheb.com/) - Modded WhatsApp
-* [Whatspad++](https://iosninja.io/ipa-library/download-whatspad-ipa-ios) - iPad WhatsApp
 * [AppLibraryEnabler](https://github.com/tomaszpoliszuk/AppLibraryEnabler) - Enable App Library on iPad
 * [GeekBench](https://apps.apple.com/us/app/geekbench-6/id1565728895) - iOS Benchmark Tests
 * [GoodLinks](https://goodlinks.app/) or [DoMarks](https://www.domarks.app/) - Bookmark Manager
@@ -1012,18 +1008,15 @@
 * ⭐ **[/r/jailbreak](https://reddit.com/r/jailbreak)** - Jailbreaking Subreddit / [Wiki](https://www.reddit.com/r/jailbreak/wiki/index)
 * ⭐ **[Sideloading Beginners Guide](https://redd.it/orqzau)** or [Noob Guide to Sideloading](https://www.reddit.com/r/Piracy/comments/pt5uv9/noob_guide_to_sideloading_in_ios/) - Sideloading Guide
 * ⭐ **[/r/sideloaded](https://reddit.com/r/sideloaded)** - Sideloading Subreddit / [Wiki](https://www.reddit.com/r/sideloaded/wiki/index)
-* [PostBox](https://www.postbox.news/) - Jailbreak News App / [Discord](https://discord.gg/maPagQDmnw)
 * [Sideloadly](https://sideloadly.io/) or [SignTools](https://github.com/SignTools/SignTools) - Sideloading Tool
 * [IPSW](https://ipsw.me/) - Provides Jailbreak Firmware
 * [checkra1n](https://checkra.in/) - 5s - X Jailbreak / [Discord](https://discord.gg/NAxRYvysuc)
 * [palera1n](https://github.com/palera1n/palera1n) - 15.0-16.3.1 Jailbreak Semi-Tethered Jailbreak
 * [Dopamine](https://github.com/opa334/Dopamine) - 15.0-15.4.1 Semi-Untethered Jailbreak
-* [XinaA15](https://github.com/NotDarkn/XinaA15) - 15.0-15.1.1 iPhone XS Jailbreak
 * [Taurine](https://taurine.app/) - 14-14.3 Semi-Untethered Jailbreak
-* [Fugu14](https://github.com/LinusHenze/Fugu14) - 14.3-14.5 Untethered Jailbreak (Incomplete)
 * [Odyssey](https://theodyssey.dev/) - 13.0 to 13.7 Semi-tethered Jailbreak / [Discord](https://discord.gg/sileo) 
 * [Chimera](https://chimera.coolstar.org/) - 12.0-12.5.5 Jailbreak
-* [Unc0ver](https://unc0ver.dev/) - 11.0-14.8 Jailbreak / [Procursus](https://dark.diatr.us) / [GitHub](https://github.com/pwn20wndstuff/Undecimus)
+* [Unc0ver](https://unc0ver.dev/) - 11.0-14.8 Jailbreak / [GitHub](https://github.com/pwn20wndstuff/Undecimus)
 * [Meridian](https://meridian.sparkes.zone/) - 10.0-10.3.3 Jailbreak 
 * [sockH3lix](https://github.com/SongXiaoXi/sockH3lix/releases/tag/v1.4) - 10.0.1-10.3.3 Jailbreak
 * [doubleH3lix](https://github.com/tihmstar/doubleH3lix) - 10.0-10.3.3 Jailbreak
@@ -1043,17 +1036,12 @@
 * [limera1n](http://limera1n.com/) - 3.2.2-4.2.1 Jailbreak
 * [JailbreakMe](https://www.jailbreakme.com/) - 3.1.2-iOS 4.0.1 Jailbreak
 * [redsn0w](https://sites.google.com/a/iphone-dev.com/files/home/) - 3.0-3.1 Jailbreak
-* [Fugu](https://github.com/LinusHenze/Fugu) - Jailbreaking Tool
 * [ipwndfu](https://github.com/axi0mX/ipwndfu) - Jailbreaking Tool
 * [n1ghtshade](https://github.com/synackuk/n1ghtshade/releases) - 32bit Jailbreaking Tool
-* [rootlessJB](https://github.com/jakeajames/rootlessJB) - Rootless iOS 12 Jailbreaking
 * [/r/LegacyJailbreak](https://www.reddit.com/r/LegacyJailbreak/) - Jailbreak Old Devices / [Discord](https://discord.gg/bhDpTAu)
 * [Totally Not Spyware](https://totally-not.spyware.lol/) - Safari Jailbreaking Tool
 * [SuccessionRestore](https://github.com/Samgisaninja/SuccessionRestore) - Restore iOS without a computer (without updating)
-* [odysseyn1x](https://github.com/raspberryenvoie/odysseyn1x) - Checkra1n / Odysseyra1n Installation Distro / [GUI](https://github.com/23Aaron/Betelguese)
-* [sh0wer](https://github.com/beerpiss/sh0wer) - Alt Linux Distro for checkn1x
-* [3uTools](http://www.3u.com/) - Device Manager / Jailbreak Tool
-* [isecureos](https://isecureos.idevicecentral.com/repo/) - Jailbreak Antivirus Tweak
+* [odysseyn1x](https://github.com/raspberryenvoie/odysseyn1x) - Checkra1n / Odysseyra1n Installation Distro
 * [iOS-OTA-Downgrader](https://github.com/LukeZGD/Legacy-iOS-Kit) - OTA Downgrade iOS
 * [Procursus](https://github.com/ProcursusTeam/Procursus) - OS Bootstrap
 * [BlobSaver](https://github.com/airsquared/blobsaver) - GUI for Saving SHSH Blobs
@@ -1100,8 +1088,8 @@
 
 # ► iOS Apps
 
-* 🌐 **[ReJail](https://rejail.ru/)** - App / Tweak Repository
 * 🌐 **[CyPwn](https://repo.cypwn.xyz/)**, [2](https://ipa.cypwn.xyz/) - App Repository / [Discord](https://discord.gg/cypwn)
+* 🌐 **[ReJail](https://rejail.ru/)** - App / Tweak Repository
 * 🌐 **[Open-Source iOS Apps](https://github.com/dkhamsing/open-source-ios-apps)** - Open-Source Apps
 * [TrollStore](https://github.com/opa334/TrollStore) - iOS Apps / 14.0-15.4.1 / [IPAs](https://github.com/swaggyP36000/TrollStore-IPAs)
 * [Streamiza](https://t.me/streamiza) - Tweaked Apps / Telegram / [Discord](https://linktr.ee/Streamiza)
