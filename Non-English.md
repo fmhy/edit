@@ -1522,6 +1522,12 @@
 * [ivanime](https://www.ivanime.com/) - Anime
 * [Fukou-Da!](https://fukou-da.net/) - Anime / Light Novels
 * [Dw-anime](https://dw-anime.net/) - Anime
+* [Animes480pFinalizados](https://t.me/Animes480pFinalizados) - Anime / Telegram
+* [AndrossElLegado](https://t.me/AndrossElLegado) - Anime / Telegram
+* [animes_kawais](https://t.me/animes_kawais) - Anime / Telegram
+* [SimplementeAnime](https://t.me/SimplementeAnime) - Anime / Telegram
+* [animesfinalizadoLSHD](https://t.me/animesfinalizadoLSHD) - Anime / Telegram
+* [AnimeDark17](https://t.me/AnimeDark17) - Anime / Telegram
 * [animesgd](https://animesgd.net/) - Anime / Cartoons
 * [N+2](https://nmasmas2.blogspot.com/) - Animated Movies / Cartoons
 * [Niroqui](https://niroqui.com/) - Courses

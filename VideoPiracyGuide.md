@@ -489,14 +489,17 @@
 * [NodelayTV](http://nodelaytv.pw/) - Sports
 * [Rojadirecta](https://www.rojadirecta.direct/) - Sports
 * [BoxingStreams100](https://boxings.boxingstreams100.com/) - Boxing
+* [/r/WWEstreams/](https://www.reddit.com/r/WWEstreams/) - Wrestling
 * [NBA Streams](https://nbabox.tv/) - NBA
 * [NFL Streams](https://nflstreams.me/) - NFL
 * [MLB66](https://mlb66.ir/) - MLB
+* [/r/MLBStreams](https://www.reddit.com/r/MLBStreams/) - MLB
 * [LaCasadelTikiTaka](https://www.lacasadeltikitaka.net/) - Soccer / MMA
 * [Aceztrims](https://aceztrims.pages.dev/) - Motorsports
 * [DD12](https://dd12streams.com/) - Nascar
 * [NHLstream](https://nhlstream.net/) - NHL
 * [NHL66](https://nhl66.ir/) - NHL
+* [/r/rugbystreams](https://www.reddit.com/r/rugbystreams/) - Rugby
 * [PakCric](https://pakcric.net/) - Cricket
 * [TV.Jest](https://tv.jest.one/) - News 
 * [SHOWROOM](https://showroom-live.com/) - Live Performance Broadcasts
@@ -903,7 +906,7 @@
 * [TVSubtitles](https://www.tvsubtitles.net/) or [TVSubs](http://www.tvsubs.net/) - TV Subtitles 
 * [kitsuneko](https://kitsunekko.net/) - Anime Subtitles
 * [DownSub](https://downsub.com/) - Download Subs from Video Sites
-* [Loadtup](https://loadtup.com/) or [Whisper](https://huggingface.co/spaces/BatuhanYilmaz/Whisper-Auto-Subtitled-Video-Generator) - YouTube Video Transcribers
+* [Loadtup](https://loadtup.com/), [FrogBase](https://github.com/hayabhay/frogbase) or [Whisper](https://huggingface.co/spaces/BatuhanYilmaz/Whisper-Auto-Subtitled-Video-Generator) - YouTube Video Transcribers
 * [YT Sub Downloader](https://greasyfork.org/en/scripts/5368) or [youtube_subtitle_downloader](https://t.me/youtube_subtitle_downloader_bot) - Download Subs from YouTube Videos
 * [amara](https://amara.org/en/) or [SubtitlesForYoutube](https://github.com/yashagarwal1411/SubtitlesForYoutube) - Add Subs to Youtube Videos / [Edge](https://microsoftedge.microsoft.com/addons/detail/subtitles-for-youtube/gfjcoflghpdkddjnpegonjhnbngeocfi)
 * [YouTube Subtitle Position](https://addons.mozilla.org/en-US/firefox/addon/youtube-subtitle-position/) - Change Position of YouTube Subtitles
