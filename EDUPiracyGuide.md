@@ -562,7 +562,6 @@
 
 * 🌐 **[Astronomy Resources](https://er-cryptid.tumblr.com/post/176809097526/free-astronomy-resources)** - Astronomy Resources
 * ↪️ **[Math and Physics Books](https://github.com/nbats/FMHYedit/blob/main/base64.md#math-and-physics-books)** 
-* ↪️ **[Sun / Moon Position Calculators](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_sun_.2F_moon_position)**
 * ⭐ **[/r/Space](https://reddit.com/r/Space)** - Space Subreddit
 * ⭐ **[Space Dashboard](https://spacedashboard.com/)** - Space Live Stream Dashboard
 * ⭐ **[EarthData](https://worldview.earthdata.nasa.gov/)** - Daily Satellite Replays
@@ -587,6 +586,7 @@
 * [openMotor](https://github.com/reilleya/openMotor) - Internal Ballistics Simulator
 * [Interactive Apollo Missions](https://apolloinrealtime.org/) or [FirstMenOnTheMoon](https://www.firstmenonthemoon.com/) - Apollo in Realtime
 * [Moon.Nasa](https://moon.nasa.gov/) - Explore the Moon
+* [SunCalc](https://www.suncalc.org/), [Subsolar Point](https://rl.se/subsolarpoint), [ShadeMap](https://shademap.app/) or [MoonCalc](https://www.mooncalc.org/) - Sun / Moon Position
 * [Earth and Moon Viewer](https://www.fourmilab.ch/cgi-bin/Earth) - Earth / Moon Latitude and Longitude Viewer
 * [SDO Dashboard](https://sdo.gsfc.nasa.gov/data/dashboard/) - Live Sun Feed
 * [Earth and Sun](https://ciechanow.ski/earth-and-sun/) - Interactive Day-Night Cycles Lesson
@@ -887,7 +887,6 @@
 * ↪️ **[Q&A Chatbots](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/ai#wiki_.25BA_ai_chatbots)**
 * ↪️ **[Grammar / Spell Check](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_grammar_check)**
 * ↪️ **[Text Rephrasing](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_text_rephrasing)**
-* ↪️ **[Plagiarism Detection](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_plagiarism_detection)**
 * ⭐ **[OpenBoard](https://openboard.ch/)** / [2](https://github.com/Helium314/openboard), [Witeboard](https://witeboard.com/), [NotebookCast](https://www.notebookcast.com/), [WebWhiteboard](https://webwhiteboard.com/), [OurBoard](https://www.ourboard.io/), [Whiteboard.fi](https://whiteboard.fi/) or [Whiteboard Fox](https://r3.whiteboardfox.com/) - Whiteboards
 * ⭐ **[Refseek](https://www.refseek.com/)**, [Occamm](https://www.occamm.com/) or [Merlot](https://www.merlot.org/merlot/index.htm) - Academic Search Engines
 * [Brevity500](https://brevity500.com/) - Writing Practice
@@ -932,6 +931,7 @@
 * [Desklamp](https://desklamp.io/) - Reading / Note Taking / Highlighting Tool / [Guide](https://app.desklamp.io/read?id=46b203c6-d8df-453d-b546-95a8fa7a44b9&mode=explore)
 * [Lurnby](https://github.com/Roznoshchik/Lurnby) or [StringMark](https://www.stringmark.com/) - Save & Mark Research in Browser
 * [Catma](https://catma.de/) - Research Markup & Analysis Tool
+* [Lyx](https://www.lyx.org/), [Typst](https://typst.app/home) / [Discord](https://discord.gg/typst-1054443721975922748), [TeXStudio](https://texstudio.org/) or [Papeeria](https://papeeria.com/) - LaTeX Editors / [Guide](https://www.learnlatex.org/)
 * [latex_paper_writing_tips](https://github.com/guanyingc/latex_paper_writing_tips) - Latex Research Paper Tips
 * [Taguette](https://app.taguette.org/) - Data Analysis Document Tagging
 * [Bonsai](https://bonsaibrowser.com/) - Research Web Browser
