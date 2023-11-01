@@ -803,8 +803,6 @@
 * ⭐ **[Browserling](https://www.browserling.com/)** - Browser Emulators
 * ⭐ **[Firefox Keyboard Shortcuts](https://support.mozilla.org/en-US/kb/keyboard-shortcuts-perform-firefox-tasks-quickly)** 
 * ⭐ **[Chrome Keyboard Shortcuts](https://support.google.com/chrome/answer/157179?hl=en&co=GENIE.Platform%3DDesktop)**
-* [Thorium](https://thorium.rocks/) - Enhanced Chromium / [GitHub](https://github.com/Alex313031/Thorium)
-* [Mercury](https://github.com/Alex313031/Mercury) - Firefox Fork w/ Compiler Optimization
 * [VsyncTester](https://vsynctester.com/) - Browser VSYNC Test
 * [NeverInstall](https://neverinstall.com/) - Use Apps in Browser
 * [QuteBrowser](https://qutebrowser.org/) - Keyboard Focused Browser 
