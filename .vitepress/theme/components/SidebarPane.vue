@@ -1,5 +1,6 @@
 <script setup lang="ts">
 import Field from "./PaneFields.vue";
+import Modal from "./Modal.vue"
 </script>
 
 <template>
@@ -10,6 +11,7 @@ import Field from "./PaneFields.vue";
     <Field icon="i-twemoji-star">Community Recommendations</Field>
     <Field icon="i-twemoji-globe-with-meridians">3rd Party Indexes</Field>
     <Field icon="i-twemoji-repeat-button">Storage Page Links</Field>
+    <Modal />
   </div>
 </template>
 
