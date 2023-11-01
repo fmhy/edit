@@ -1768,8 +1768,11 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://70.88.180.169:8
 
 ## OS Emulators
 
-* ⭐ **[Computers Offline](https://dinopirate.dinopirate.repl.co/ComputersOffline/)** or [Awesome Web Desktops](https://github.com/syxanash/awesome-web-desktops) - OS Emulator Indexes
-* [Qemu](https://gitlab.com/qemu-project/qemu) - OS Emulator & Virtualization / [iOS Emulator](https://github.com/TrungNguyen1909/qemu-t8030)
+* ⭐ **[Computers Offline](https://dinopirate.dinopirate.repl.co/ComputersOffline/)** - OS Emulator Index
+* [Qemu](https://gitlab.com/qemu-project/qemu) - OS Emulator & Virtualization
+
+### Browser Emulators
+* ⭐ **[Awesome Web Desktops](https://github.com/syxanash/awesome-web-desktops)** - Browser Emulator Index
 * [copy.sh](https://copy.sh/v86/), [OnWorks](https://www.onworks.net/), [simone.computer](https://simone.computer/#/webdesktops) or [Virtual Desktop](http://www.virtualdesktop.org/) - Multiple OS Emulators
 * [WinXP.now](https://winxp.vercel.app/), [Windows XP Netify](https://windows-xp.netlify.app/) or [WinXP](https://winxp.vercel.app/) - Windows XP Browser Emulators
 * [EmuOS](https://emupedia.org/beta/emuos/), [2](https://emupedia.net/beta/emuos/), [3](https://emuos.net/beta/emuos/), [4](https://emuos.org/beta/emuos/) - Windows 95, 98 & ME Emulator
