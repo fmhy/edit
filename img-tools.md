@@ -309,7 +309,7 @@
 * ↪️ **[GFX Design Resources](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_image_design_resources)** 
 * ↪️ **[Image Download Extensions](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_image_download_extensions)**
 * ↪️ **[Reverse Image Search](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_reverse_image_search)**
-* ↪️ **[Random Images](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_random_image_sites)**
+* ↪️ **[Random Images](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_random_generators)**
 * ↪️ **[Stock Photo Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_stock_photo_sites)** - [Multi-Site Search](https://chrome.google.com/webstore/detail/stocks-house/mpdkicmbmbljbgncgphonhgjebnapfop)
 * ↪️ **[AI Galleries](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/ai#wiki_.25B7_prompts_.2F_galleries)**
 * ↪️ **[Icon Download Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_icon_download_sites)**
