@@ -489,14 +489,17 @@
 * [NodelayTV](http://nodelaytv.pw/) - Sports
 * [Rojadirecta](https://www.rojadirecta.direct/) - Sports
 * [BoxingStreams100](https://boxings.boxingstreams100.com/) - Boxing
+* [/r/WWEstreams/](https://www.reddit.com/r/WWEstreams/) - Wrestling
 * [NBA Streams](https://nbabox.tv/) - NBA
 * [NFL Streams](https://nflstreams.me/) - NFL
 * [MLB66](https://mlb66.ir/) - MLB
+* [/r/MLBStreams](https://www.reddit.com/r/MLBStreams/) - MLB
 * [LaCasadelTikiTaka](https://www.lacasadeltikitaka.net/) - Soccer / MMA
 * [Aceztrims](https://aceztrims.pages.dev/) - Motorsports
 * [DD12](https://dd12streams.com/) - Nascar
 * [NHLstream](https://nhlstream.net/) - NHL
 * [NHL66](https://nhl66.ir/) - NHL
+* [/r/rugbystreams](https://www.reddit.com/r/rugbystreams/) - Rugby
 * [PakCric](https://pakcric.net/) - Cricket
 * [TV.Jest](https://tv.jest.one/) - News 
 * [SHOWROOM](https://showroom-live.com/) - Live Performance Broadcasts
