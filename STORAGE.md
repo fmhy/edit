@@ -692,9 +692,8 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://70.88.180.169:8
 
 * ⭐ **[Proton Mail](https://proton.me/mail)**
 * ⭐ **[Skiff Mail](https://skiff.com/mail)**
-* ⭐ **[Tutanota](https://tutanota.com/)**
 
-[Enigmail](https://www.enigmail.net/index.php/en/), [PrivateMail](https://privatemail.com/), [Mailfence](https://mailfence.com/), [OnionMail](https://en.onionmail.info/), [Tildamail](https://www.tildamail.com/), [Disroot](https://disroot.org/en/services/email), [GMX](https://www.gmx.com/), [Neomailbox](https://www.neomailbox.com/), [CounterMail](https://countermail.com/), [Mailpile](https://www.mailpile.is/), [MsgSafe.io](https://www.msgsafe.io/), [SecureNym](https://www.securenym.net/), [OnMail](https://www.onmail.com/)
+[Tutanota](https://tutanota.com/), [Enigmail](https://www.enigmail.net/index.php/en/), [PrivateMail](https://privatemail.com/), [Mailfence](https://mailfence.com/), [OnionMail](https://en.onionmail.info/), [Tildamail](https://www.tildamail.com/), [Disroot](https://disroot.org/en/services/email), [GMX](https://www.gmx.com/), [Neomailbox](https://www.neomailbox.com/), [CounterMail](https://countermail.com/), [Mailpile](https://www.mailpile.is/), [MsgSafe.io](https://www.msgsafe.io/), [SecureNym](https://www.securenym.net/), [OnMail](https://www.onmail.com/)
 
 ***
 
