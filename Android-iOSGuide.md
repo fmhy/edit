@@ -1010,7 +1010,7 @@
 * ⭐ **[/r/sideloaded](https://reddit.com/r/sideloaded)** - Sideloading Subreddit / [Wiki](https://www.reddit.com/r/sideloaded/wiki/index)
 * [Sideloadly](https://sideloadly.io/) or [SignTools](https://github.com/SignTools/SignTools) - Sideloading Tool
 * [IPSW](https://ipsw.me/) - Provides Jailbreak Firmware
-* [checkra1n](https://checkra.in/) - 5s - X Jailbreak / [Discord](https://discord.gg/NAxRYvysuc)
+* [checkra1n](https://checkra.in/) - 5s - X Jailbreak (12.0 - 14.8.1) / [Discord](https://discord.gg/NAxRYvysuc)
 * [palera1n](https://github.com/palera1n/palera1n) - 15.0-17.1 Jailbreak
 * [Dopamine](https://github.com/opa334/Dopamine) - 15.0-15.4.1 Semi-Untethered Jailbreak
 * [Taurine](https://taurine.app/) - 14-14.8.1 Semi-Untethered Jailbreak
