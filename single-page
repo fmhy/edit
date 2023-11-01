@@ -6,7 +6,6 @@ Use any **[Base64 Decoding](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/stor
 
 ### Mirrors
 
-* https://fmhy.net/base64
 * https://fmhy.pages.dev/base64/
 * https://github.com/nbats/FMHYedit/blob/main/base64.md
 * https://notabug.org/nbatman/freemediaheckyeah/wiki/base64
@@ -15182,7 +15181,7 @@ Use any **[Base64 Decoding](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/stor
 ***
 ***
 
-**[Table of Contents](https://ibb.co/SmF5wjZ)** - For mobile users
+**[Table of Contents](https://ibb.co/rw94kgz)** - For mobile users
 
 ***
 ***
@@ -15870,9 +15869,8 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://70.88.180.169:8
 
 * ⭐ **[Proton Mail](https://proton.me/mail)**
 * ⭐ **[Skiff Mail](https://skiff.com/mail)**
-* ⭐ **[Tutanota](https://tutanota.com/)**
 
-[Enigmail](https://www.enigmail.net/index.php/en/), [PrivateMail](https://privatemail.com/), [Mailfence](https://mailfence.com/), [OnionMail](https://en.onionmail.info/), [Tildamail](https://www.tildamail.com/), [Disroot](https://disroot.org/en/services/email), [GMX](https://www.gmx.com/), [Neomailbox](https://www.neomailbox.com/), [CounterMail](https://countermail.com/), [Mailpile](https://www.mailpile.is/), [MsgSafe.io](https://www.msgsafe.io/), [SecureNym](https://www.securenym.net/), [OnMail](https://www.onmail.com/)
+[Tutanota](https://tutanota.com/), [Enigmail](https://www.enigmail.net/index.php/en/), [PrivateMail](https://privatemail.com/), [Mailfence](https://mailfence.com/), [OnionMail](https://en.onionmail.info/), [Tildamail](https://www.tildamail.com/), [Disroot](https://disroot.org/en/services/email), [GMX](https://www.gmx.com/), [Neomailbox](https://www.neomailbox.com/), [CounterMail](https://countermail.com/), [Mailpile](https://www.mailpile.is/), [MsgSafe.io](https://www.msgsafe.io/), [SecureNym](https://www.securenym.net/), [OnMail](https://www.onmail.com/)
 
 ***
 
@@ -16947,8 +16945,12 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://70.88.180.169:8
 
 ## OS Emulators
 
-* ⭐ **[Computers Offline](https://dinopirate.dinopirate.repl.co/ComputersOffline/)** or [Awesome Web Desktops](https://github.com/syxanash/awesome-web-desktops) - OS Emulator Indexes
-* [Qemu](https://gitlab.com/qemu-project/qemu) - OS Emulator & Virtualization / [iOS Emulator](https://github.com/TrungNguyen1909/qemu-t8030)
+* ⭐ **[Computers Offline](https://dinopirate.dinopirate.repl.co/ComputersOffline/)** - OS Emulator Index
+* [Qemu](https://gitlab.com/qemu-project/qemu) - OS Emulator & Virtualization
+
+### Browser Emulators
+
+* ⭐ **[Awesome Web Desktops](https://github.com/syxanash/awesome-web-desktops)** - Browser Emulator Index
 * [copy.sh](https://copy.sh/v86/), [OnWorks](https://www.onworks.net/), [simone.computer](https://simone.computer/#/webdesktops) or [Virtual Desktop](http://www.virtualdesktop.org/) - Multiple OS Emulators
 * [WinXP.now](https://winxp.vercel.app/), [Windows XP Netify](https://windows-xp.netlify.app/) or [WinXP](https://winxp.vercel.app/) - Windows XP Browser Emulators
 * [EmuOS](https://emupedia.org/beta/emuos/), [2](https://emupedia.net/beta/emuos/), [3](https://emuos.net/beta/emuos/), [4](https://emuos.org/beta/emuos/) - Windows 95, 98 & ME Emulator
