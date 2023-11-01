@@ -3,9 +3,9 @@ import Field from "./PaneFields.vue";
 </script>
 
 <template>
-  <div class="sidebar-pane">
-    <div class="pane-header">
-      <div class="pane-title">Emoji Legend</div>
+  <div class="card">
+    <div class="card-header">
+      <div class="card-title">Emoji Legend</div>
     </div>
     <Field icon="i-twemoji-star">Community Recommendations</Field>
     <Field icon="i-twemoji-globe-with-meridians">3rd Party Indexes</Field>
@@ -14,21 +14,21 @@ import Field from "./PaneFields.vue";
 </template>
 
 <style scoped>
-.pane-header {
+.card-header {
   display: flex;
   align-items: center;
   justify-content: space-between;
   margin-bottom: 12px;
 }
 
-.pane-title {
+.card-title {
   font-weight: 700;
   color: var(--vp-c-text-1);
   line-height: 32px;
   font-size: 16px;
 }
 
-.sidebar-pane {
+.card {
   background: var(--vp-c-bg);
   padding: 12px 24px 24px;
   border-radius: 12px;
@@ -39,7 +39,7 @@ import Field from "./PaneFields.vue";
   transition: border-color 0.4s ease-in-out;
 }
 
-.sidebar-pane:hover {
+.card:hover {
   border-color: var(--vp-c-brand-1);
 }
 </style>

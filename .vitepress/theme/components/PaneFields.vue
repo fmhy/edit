@@ -6,9 +6,9 @@ defineProps<{
 
 <template>
   <div class="field-body">
-    <div class="field-icon" :class="icon" />
-    <div class="value">
-      •
+    <div class="text-xl" :class="icon" />
+    <!-- <p class="m-[10px 10px]">•</p> -->
+    <div class="text-[var(--vp-c-text-2)]">
       <slot />
     </div>
   </div>
@@ -18,10 +18,6 @@ defineProps<{
 .field-body {
   color: var(--vt-c-text-1);
   display: block;
-}
-
-.value {
-  color: var(--vp-c-text-2);
 }
 
 .field-body {

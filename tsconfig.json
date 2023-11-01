@@ -13,8 +13,8 @@
     "noUnusedLocals": true,
     "strictNullChecks": true,
     "forceConsistentCasingInFileNames": true,
-    "types": ["vite/client", "vite-plugin-pwa/vanillajs", "vitepress"]
+    "types": ["vite/client", "vite-plugin-pwa/vanillajs", "vitepress", "./.vitepress/vue-shim.d.ts"]
   },
-  "include": ["./*.ts", "./.vitepress/**/*.ts", "./.vitepress/vue-shim.d.ts"],
+  "include": ["./*.ts", "./.vitepress/**/*.ts"],
   "exclude": ["dist", "node_modules"]
 }
