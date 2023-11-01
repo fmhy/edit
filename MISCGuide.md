@@ -40,7 +40,8 @@
 * [blooem](https://blooem.pages.dev/) / [2](https://blooem.its.moe) - Piracy Guides
 * [pilssken](https://pilssken.neocities.org/warez/) - Piracy Index
 * [The Pirate List](https://thepiratelist.com/) - Piracy Index
-* [Prospector](https://www.prospector.cz/) - Site / Tool Index 
+* [Prospector](https://www.prospector.cz/) - Site / Tool Index
+* [Delightful Creative Tools](https://codeberg.org/ADHDefy/delightful-creative-tools) - Site / Tool Index
 * [The More You Know](https://marckoxx.github.io/) - Site / Tool Index
 * [Size of Cat](https://sizeof.cat/links/) - Site / Tool Index
 * [5000 Best](http://5000best.com/websites/) - Site / [Tool](http://5000best.com/tools/) Index
@@ -319,7 +320,7 @@
 * [fastnfitness](https://github.com/brodeurlv/fastnfitness) - Track Your Exercise Progress
 * [CalorieScope](https://f-droid.org/packages/org.dynamicsoft.caloriescope/) or [PFCTE](https://github.com/SecUSo/privacy-friendly-circuit-training-exercises) - Exercise & Activity Tracker
 * [ExRx.net](https://exrx.net/) - Exercise Resources
-* [Cronometer](https://cronometer.com/) or [Waistline](https://github.com/davidhealey/waistline) - Track Nutrition & Calories
+* [Cronometer](https://cronometer.com/), [Energize](https://codeberg.org/epinez/Energize/) or [Waistline](https://github.com/davidhealey/waistline) - Track Nutrition & Calories
 * [MyFoodData](https://www.myfooddata.com) - Food Nutrition Tools
 * [Food-E App](https://github.com/SuhasDissa/Food-E-App) - Food Additives Database App
 * [wger](https://wger.de/) - Self-Hosted Workout, Nutrition / Weight App / [GitHub](https://github.com/wger-project/wger)
@@ -658,7 +659,8 @@
 * [BigSearch](https://github.com/garywill/BigSearch) - Context Search
 * [HyperSearch](https://github.com/abhinavsharma/hypersearch) - Search Result Sidebar
 * [Magnifying Glass](https://mybrowseraddon.com/magnifying-glass.html) - Magnify Webpages
-* [Print Edit WE](https://pastebin.com/LJeT3NyB) - Edit Pages to Make them Printable 
+* [Print Edit WE](https://pastebin.com/LJeT3NyB) - Edit Pages to Make them Printable
+* WebFont Changer - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/web-font-changer/) / [Chrome](https://chrome.google.com/webstore/detail/font-changer/obgkjikcnonokgaiablbenkgjcdbknna)
 * [Grammarly](https://www.grammarly.com/) - Grammar Checker
 * [PageZipper](https://www.printwhatyoulike.com/pagezipper) or [AutoPagerize](http://autopagerize.net/) - Merges a Sites "Next" Pages
 * [Don't Bug Me](https://github.com/vantezzen/dontbugme) - Find / Share Site Logins
@@ -1089,7 +1091,7 @@
 
 ## ▷ Image / Video
 
-* ↪️ **[Random Images](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_random_image_sites)**
+* ↪️ **[Random Images](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_random_generators)**
 * ↪️ **[Random GIFs](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/img-tools#wiki_.25B7_gif_tools)**
 * ↪️ **[Random Webcams](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_live_webcams)**
 * ↪️ **[Anon Image Boards](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_anonymous_image_boards)**
@@ -1150,6 +1152,7 @@
 * [Rick Astley Remixer](http://dinahmoelabs.com/rickastley) - Remix Rick Roll
 * [thisvid2 Web Edition](https://projectlounge.pw/thisvid2) - (Funny) Twitter Video Downloader
 * [Terminal Video Player](https://github.com/TheRealOrange/terminalvideoplayer) - Cursed Terminal Video Player
+* [CornHub](https://cornhub.website/) - Sexy Corn Videos
 * [Watching Grass Grow](https://www.watching-grass-grow.com/) - Watch Grass Grow
 
 ***
@@ -1324,7 +1327,7 @@
 
 ## ▷ Random
 
-* ↪️ **[Random Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_random_sites)** - Random Site Generators
+* ↪️ **[Random Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_random_generators)** - Random Site Generators
 * ⭐ **[Copypasta Text](https://copypastatext.com/)** or [CopyPastaDB](https://copypastadb.com/) - Copypasta Databases
 * ⭐ **[CreepyPasta](https://www.creepypasta.com/)** - Creepypasta Database
 * ⭐ **[TheOnion](https://theonion.com/)** or [DailyWrong](https://dailywrong.com/) - Fake News Articles
