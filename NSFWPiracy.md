@@ -20,7 +20,7 @@
 * [Tommy's Bookmarks](https://www.tommys-bookmarks.com/) 
 * [ThePornBlender](https://www.thepornblender.com/) 
 * [AdultList](https://www.adultlist.com/) 
-* [Unegeekette](http://unegeekette.com/) 
+* [Unegeekette](https://unegeekette.com/) 
 * [Area51](https://area51.to/en/)
 * [QuickiePage](https://quickiepage.com/) 
 * [ThePornMap](https://thepornmap.com/) 
@@ -114,7 +114,7 @@
 * [PreFap](https://prefap.com/)
 * [Vid123](https://vid123.net/) 
 * [FuckIt](https://www.fuckit.cc/) 
-* [NesaPorn](http://nesaporn.com/)
+* [NesaPorn](https://nesaporn.com/)
 * [ProPorn](https://www.proporn.cc/)
 * [XBabe](https://xbabe.com/)
 * [hotntubes](https://hotntubes.com/)
@@ -210,7 +210,7 @@
 * [Tiava](https://www.tiava.com/) - Aggregator
 * [4Porn](https://4porn.com/) - Aggregator
 * [Fap Vid HD](https://fapvidhd.com/) - Aggregator
-* [EbonyGalore](https://www.ebonygalore.com/)  or [Assoass](https://www.assoass.com/) - Aggregator
+* [EbonyGalore](https://www.ebonygalore.com/) or [Assoass](https://www.assoass.com/) - Aggregator
 * [MelonsTube](https://www.melonstube.com/) - Aggregator
 * [HD XNXX](https://hdxnxx.xxx/)
 * [Pornfaze](https://pornfaze.com/)
@@ -232,7 +232,7 @@
 * ⭐ **[RareLust](https://rarelust.com/movies-index/)**
 * ⭐ **[PandaMovies](https://pandamovies.pw/)**
 * ⭐ **[Eroti.ga](https://erotiga.net/)**
-* ⭐ **[My Duck Is Dead](http://myduckisdead.org/)**
+* ⭐ **[My Duck Is Dead](https://myduckisdead.org/)**
 * [MangoPorn](https://mangoporn.net/)
 * [EroticMV](https://eroticmv.com/)
 * [WIPFilms](https://wipfilms.net/)
@@ -397,11 +397,10 @@
 * ⭐ **[0xxx](https://0xxx.ws/)**
 * [Search4Porn](https://search4porn.net/) - NSFW File Search
 * [SiteRips](https://www.siterips.org/)
-* [PornFactors](http://pornfactors.com/)
+* [PornFactors](https://pornfactors.com/)
 * [PornoRips](https://pornorips.to/)
 * [BestPornstars](https://www.bestpornstars.org/)
 * [Best-MovieZ](https://www.best-moviez.ws/category/porn-18/) 
-* [HugeWarez](http://hugewarez.net/xxx-full-movies/)
 * [XXXCollections](https://xxxcollections.net/)
 * [CumSwallowingMovies](https://cumswallowingmovies.co/)
 * [TopModelz](https://top-modelz.org/)
@@ -427,7 +426,7 @@
 ## ▷ Communities
 
 * [Pornoslon](http://pornoslon.me/)
-* [PornBBS](http://pornbbs.org/)
+* [PornBBS](https://pornbbs.org/)
 * [CyberLeaks](https://cyberleaks.org/)
 * [PlanetSuzy](http://www.planetsuzy.org/)
 * [xBunker](https://xbunker.nu/)
@@ -446,19 +445,18 @@
 * ⭐ **[OneJAV](https://onejav.com/)** - Japanese
 * ⭐ **[141Jav](https://www.141jav.com/)** / **[141PPV](https://www.141ppv.com/)** - Japanese
 * ⭐ **[Next JAV](https://nextjav.com/)** - Japanese
-* [PornLeech](http://pornleech.ch/)
 * [XXXCLub](https://xxxclub.to/) or [NoisyBoY (Mirror)](https://torrentgalaxy.to/profile/NoisyBoY)
 * [Sexy-Pics](https://www.sexy-pics.us/)
 * [色花堂-98堂](https://www.sehuatang.net/)
 * [18Mag](https://18mag.net/)
-* [PornoLab](http://pornolab.net/forum/index.php)
+* [PornoLab](https://pornolab.net/forum/index.php)
 * [LoveTorrent](https://lovetorrent.net/), [2](https://5pornotorrent.net/)
 * [PornRips](https://pornrips.to/) - HEVC Porn Rips
 * [JavBus](https://www.javbus.com/en) - Japanese
 * [Tokyo Tosho](https://tokyo-tosho.net/) - Japanese
 * [JAVdb](https://javdb.com/) - Japanese
 * [My JAV Bay](https://myjavbay.com/) - Japanese
-* [JAVJunkies](http://javjunkies.org/main/) - Japanese
+* [JAVJunkies](https://javjunkies.org/main/) - Japanese
 * [Cheggit](https://www.cheggit.me/register.php), [BitSexy](https://bitsexy.org/signup.php) or [HappyFappy](https://www.happyfappy.org/users/register) - Private Trackers / Open-Signups
 * [srrXXX](https://www.srrxxx.com/) - Scene Release Tracker
 
@@ -619,7 +617,7 @@
 * [MioHentai](https://miohentai.com/) - Hentai Streaming
 * [999Hentai](https://999hentai.net/) - Hentai Streaming
 * [HentaiStream](https://hentaistream.xxx/) - Hentai Streaming
-* [Uncensored Hentai ](https://uncensoredhentai.xxx/) - Hentai Streaming
+* [Uncensored Hentai](https://uncensoredhentai.xxx/) - Hentai Streaming
 * [Hentai Haven](https://hentaihaven.xxx/) - Hentai Streaming
 * [HentaiFreak](https://hentaifreak.org/) - Hentai Streaming
 * [Haho](https://haho.moe/) - Hentai Streaming
