@@ -21,7 +21,6 @@
 * ↪️ **[Data Visualization](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_data_visualization_tools)**
 * ↪️ **[Polling Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_poll_sites)**
 * ↪️ **[Random Generators](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_random_generators)**
-* ↪️ **[QR Code Generators](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_qr_code_generators)**
 * ⭐ **[MiXLab](https://github.com/shirooo39/MiXLab)** - Multi-Tool Google Colab / Use Throwaways
 * ⭐ **[Volmarg](https://volmarg.github.io/)** - Personal Management Tool
 * ⭐ **[Versus](https://versus.com/)**, [SocialCompare](https://socialcompare.com/en), [DifferenceBetween](http://www.differencebetween.net/) or [Diffen](https://www.diffen.com/) - Compare Anything
@@ -804,11 +803,14 @@
 * ⭐ **[Browserling](https://www.browserling.com/)** - Browser Emulators
 * ⭐ **[Firefox Keyboard Shortcuts](https://support.mozilla.org/en-US/kb/keyboard-shortcuts-perform-firefox-tasks-quickly)** 
 * ⭐ **[Chrome Keyboard Shortcuts](https://support.google.com/chrome/answer/157179?hl=en&co=GENIE.Platform%3DDesktop)**
+* [Thorium](https://thorium.rocks/) - Enhanced Chromium / [GitHub](https://github.com/Alex313031/Thorium)
+* [Mercury](https://github.com/Alex313031/Mercury) - Firefox Fork w/ Compiler Optimization
 * [VsyncTester](https://vsynctester.com/) - Browser VSYNC Test
 * [NeverInstall](https://neverinstall.com/) - Use Apps in Browser
 * [QuteBrowser](https://qutebrowser.org/) - Keyboard Focused Browser 
-* [Browsh](https://www.brow.sh/) - Text Based Browser 
-* [webbrowser.git](https://git.nuegia.net/webbrowser.git/) - Lightweight Browser 
+* [Browsh](https://www.brow.sh/) - Text Based Browser
+* [webbrowser.git](https://git.nuegia.net/webbrowser.git/) - Lightweight Browser
+* [Falkon](https://www.falkon.org/) - Lightweight Browser
 * [Pulse](https://pulsebrowser.app/), [MinBrowser](https://minbrowser.org/) or [Agregore Browser](https://github.com/AgregoreWeb/agregore-browser) - Minimalist Browser
 * [Vieb](https://vieb.dev/) - Vim Inspired Browser
 * [Artic Fox](https://github.com/rmottola/Arctic-Fox) - Classic Pale Moon
@@ -1077,7 +1079,6 @@
 
 ## ▷ Reddit Tools
 
-* ↪️ **[Reddit Frontends](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_reddit_frontends)**
 * ↪️ **[Reddit Media Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_reddit_media_downloaders)**
 * ↪️ **[Subreddit Indexes](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_subreddit_discovery)**
 * ↪️ **[Multireddit Indexes](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_multireddits)** or [/r/multihub](https://www.reddit.com/r/multihub/top/?sort=top&t=all)
@@ -1230,6 +1231,7 @@
 * [Discord Chat Exporter](https://github.com/Tyrrrz/DiscordChatExporter) / [Python](https://github.com/mahtoid/DiscordChatExporterPy), [discard2](https://github.com/Sanqui/discard2), [Discord History Tracker](https://dht.chylex.com/) / [GitHub](https://github.com/chylex/Discord-History-Tracker) or [discord-archiver](https://github.com/nektro/discord-archiver) - Archive / Export Discord Chats
 * [Discord URL Extractor](https://github.com/TheTechRobo/discord-urls-extractor) - Extract URLs from Discord Chats
 * [anti-phishing-bot](https://github.com/Benricheson101/anti-phishing-bot) - Discord Anti Phishing Bot
+* [SunnyDiscord](https://gist.github.com/TheSunCat/58fedaa19d6154ef3e4b2b676c286906) - Hide Nitro / Boost Upsells
 * [pullcord](https://github.com/tsudoko/pullcord) - Discord Archiver
 * [discord2sheet-bot](https://github.com/hugonun/discord2sheet-bot) - Store Messages to Google Sheets
 * [AnswersOverflow](https://www.answeroverflow.com/) - Add Messages to Google Searches
@@ -1386,7 +1388,8 @@
 * [Kament](https://kament.io/) - Add Comments Sections on Comment Disabled Videos
 * [Timestamped YouTube Comments](https://chrome.google.com/webstore/detail/timestamped-youtube-comme/gnpppldhfbbagiaalkddddajadhlgofm) - View Timestamped Comments
 * [TabView YouTube](https://greasyfork.org/en/scripts/428651) - View Comments / Info in Tab View
-* [Petit tube](https://www.petittube.com/) - YouTube Vids with -100 views 
+* [Petit tube](https://www.petittube.com/) - YouTube Vids with -100 views
+* [Active TK](https://www.activetk.jp/tools/yt-not-well-known) - Reverse Popularity YouTube Search
 * [YouTube-Geofind](https://mattw.io/youtube-geofind/location) - Find Geotagged Videos
 * [Default Filename](https://default-filename-tv.neocities.org/) - Random Default Filename YouTube Videos
 * [Tubeup](https://github.com/bibanon/tubeup) or [yark](https://github.com/Owez/yark) - Archive YouTube Videos and Playlists
@@ -1444,6 +1447,7 @@
 * [YoutubeLiveChatFlusher](https://github.com/ys-j/YoutubeLiveChatFlusher) - Bullet Chatting (Danmaku) for YouTube Live
 * [You-TLDR](https://www.you-tldr.com/), [Solidpoint](https://solidpoint.ai/), [Eightify](https://eightify.app/) or [VideoHighlight](https://videohighlight.com/) - Summarize YouTube Videos
 * [Youtube Summarizer](https://share.streamlit.io/iamknownstranger/ytsummary/main) - YouTube Transcript Summarizers
+* [FrogBase](https://github.com/hayabhay/frogbase) - YouTube Audio Transcriber
 * [Youtube DataViewer](https://citizenevidence.amnestyusa.org/), [YouTube-MA](https://github.com/CorentinB/YouTube-MA), [YouTube-Grab](https://github.com/ArchiveTeam/youtube-grab) or [YouTube Metadata](https://mattw.io/youtube-metadata/) - YouTube Video Data Viewers
 * [YouBit](https://github.com/MeViMo/youbit) - Use YouTube as File Host
 * [Filmot Title Restorer](https://greasyfork.org/en/scripts/430202-filmot-title-restorer) - Restore Deleted YouTube Video Titles in Playlists
@@ -1720,7 +1724,7 @@
 * [NeatMouse](https://neatdecisions.com/products/neatmouse/) - Mouse / Keyboard Emulator
 * [Keyboard Simulator](https://keyboardsimulator.xyz/) - Design & Test Virtual Keyboards
 * [X-Mouse Button Control](https://www.highrez.co.uk/downloads/XMouseButtonControl.htm) - Re-Map Mouse Buttons / Scroll Wheel
-* [SharpKeys](https://github.com/randyrants/sharpkeys/), [Ergogen](https://ergogen.xyz/) or [Persistence](https://github.com/NtQuerySystemInformation/CustomKeyboardLayoutPersistence) - Custom Keyboard Layouts
+* [SharpKeys](https://github.com/randyrants/sharpkeys/), [Vial](https://github.com/vial-kb/vial-gui), [Ergogen](https://ergogen.xyz/) or [Persistence](https://github.com/NtQuerySystemInformation/CustomKeyboardLayoutPersistence) - Custom Keyboard Layouts
 * [Mouseable](https://github.com/wirekang/mouseable) - Replace Mouse with Keyboard
 * [WhatPulse](https://whatpulse.org/) - Mouse / Keyboard Usage Analyzer
 * [Key Test](https://en.key-test.ru/) - Keyboard Tester
