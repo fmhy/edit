@@ -4,7 +4,7 @@
 ***
 ***
 
-**[Table of Contents](https://ibb.co/rw94kgz)** - For mobile users
+**[Table of Contents](https://ibb.co/JtYGcsB)** - For mobile users
 
 ***
 ***
@@ -1024,7 +1024,7 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://70.88.180.169:8
 
 * ⭐ **[Playnite](https://playnite.link/)** / [Extensions](https://github.com/darklinkpower/PlayniteExtensionsCollection) / [Achievements](https://github.com/Lacro59/playnite-successstory-plugin)
 * ⭐ **[GoG Galaxy](https://www.gog.com/galaxy)**
-* ⭐ **[Project GLD](https://github.com/Y0URD34TH/Project-GLD)**
+* ⭐ **[Project GLD](https://github.com/Y0URD34TH/Project-GLD/)**
 * [Black Pearl Origin](https://github.com/BlackPearlOrigin/blackpearlorigin) / [Plugins](https://bpo-store.github.io/)
 
 [Launchbox](https://www.launchbox-app.com/), [GameHub](https://tkashkin.github.io/projects/gamehub/), [Arc](https://www.arcgames.com/en/about/client), [Gnome Games](https://wiki.gnome.org/Apps/Games), [Fuzion](https://fuzion.gg/)
@@ -1693,16 +1693,6 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://70.88.180.169:8
 
 ***
 
-## Name & Identity Generators
-
-[Fake Data](https://www.fakedata.pro/), [minirandom](https://minirandom.com/), [namegenerators](https://namegenerators.org/), [online-generator.com](https://online-generator.com/index.php), [igopaygo](https://names.igopaygo.com/), [Fake Name Generator](https://www.fakenamegenerator.com/), [fakepersongenerator](https://www.fakepersongenerator.com/), [datafakegenerator](https://datafakegenerator.com/), [elfqrin](https://www.elfqrin.com/), [fakedetail](https://fakedetail.com/), [fauxid](https://fauxid.com/), [fakexy](https://www.fakexy.com/), [Temp Name](https://temp-name.org/), [Fakeinfo](https://fakeinfo.net/)
-
-### Address Generators
-
-[textreverse](https://www.textreverse.com/fake-address-generator.php), [anytexteditor](https://anytexteditor.com/fake-address-generator), [fakeaddresscopy](https://www.fakeaddresscopy.com/ ), [usaddressgenerator](https://usaddressgenerator.com/), [thecompleteseo](https://www.thecompleteseo.com/fake-address-generator)
-
-***
-
 ## News Feed Aggregators
 
 * ⭐ **[QotNews](https://news.t0.vc/)**
@@ -1866,7 +1856,9 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://70.88.180.169:8
 
 ## Periodic Tables
 
-[The Periodic Table Of Elements](https://periodictableofchemicalelements.com/), [Periodic Table](https://periodic-table.io/), [Images-Of-Elements](https://images-of-elements.com/), [Graph Overflow](https://graphoverflow.com/graphs/3d-periodic-table.html), [3D Periodic Table](https://artsexperiments.withgoogle.com/periodic-table/), [PeriodicTableApp](https://periodictableapp.com/), [Periodic Table](https://www.periodic-table.org/), [Ptable](https://ptable.com/), [WebElements](https://www.webelements.com), [Elements Database](http://www.elementsdatabase.com/)
+* ⭐ **[Ptable](https://ptable.com/)**
+
+[The Periodic Table Of Elements](https://periodictableofchemicalelements.com/), [Periodic Table](https://periodic-table.io/), [Images-Of-Elements](https://images-of-elements.com/), [Graph Overflow](https://graphoverflow.com/graphs/3d-periodic-table.html), [3D Periodic Table](https://artsexperiments.withgoogle.com/periodic-table/), [PeriodicTableApp](https://periodictableapp.com/), [Periodic Table](https://www.periodic-table.org/), [WebElements](https://www.webelements.com), [Elements Database](http://www.elementsdatabase.com/)
 
 ***
 
@@ -1876,12 +1868,6 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://70.88.180.169:8
 * ⭐ **[Linkstack](https://linkstack.org)** / [2](https://linksta.cc)
 
 [Ichi](https://ichi.city), [Bento](https://bento.me/), [Beacon](https://beacons.ai/), [Carrd](https://carrd.co/), [Bio.link](https://bio.link/), [FlowCode](https://www.flowcode.com/page), [Solo.to](https://solo.to/), [Ayo.so](https://ayo.so/), [CreatorSites](https://creatorsites.net/), [ContactInBio](https://www.contactinbio.com/), [Campsite](https://campsite.bio/), [bizzl.ink](https://bizzl.ink/), [Horizon](https://hrzn.bio/), [LinkFree](https://linkfree.io/), [itsmy.fyi](https://itsmy.fyi/), [dialo](https://dialo.app/), [linkr](https://linkr.com/), [omg.lol](https://home.omg.lol/)
-
-***
-
-## Plagiarism Detection
-
-[Grammarly Plagiarism Checker](https://www.grammarly.com/plagiarism-checker), [Quetext](https://www.quetext.com/), [PlagiarismDetector](https://plagiarismdetector.net/), [CopyScape](https://www.copyscape.com/), [plagiarismchecker](https://www.plagiarismchecker.co/), [duplichecker](https://www.duplichecker.com/), [unicheck](https://unicheck.com/), [plagiarismsearch](https://plagiarismsearch.com/), [plagiarismcheckerx](https://plagiarismcheckerx.com/), [Fixgerald](https://fixgerald.com/), [copyleaks](https://copyleaks.com/), [plagiarismchecker](https://1text.com/plagiarismchecker), [plagium](https://www.plagium.com/)
 
 ***
 
@@ -2017,16 +2003,6 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://70.88.180.169:8
 
 ***
 
-## QR Code Generators
-
-[QR Tiger](https://www.qrcode-tiger.com/), [QRCodeMonkey](https://www.qrcode-monkey.com/), [qr-code-generator](https://mention.com/en/qr-code-generator/), [amazing-qr](https://github.com/x-hw/amazing-qr), [qr_code_generator](https://www.nirsoft.net/utils/qr_code_generator.html), [QR Code Generator](https://www.the-qrcode-generator.com/), [CodeTwo](https://www.codetwo.com/freeware/qr-code-desktop-reader/), [Zxing](https://zxing.appspot.com/generator), [barcodrod](https://barcodrod.io/), [sharesnip](https://sharesnip.rosano.ca/), [QRcode.show](https://qrcode.show/)
-
-### Custom QR Code Generators
-
-[My-Qr.art](https://my-qr.art/), [QRpicture](https://www.qrpicture.com/), [qrcode-generator](https://www.logodesign.net/qrcode-generator), [qart.js](https://kciter.so/qart.js/), [QR-code-AI-art-generator](https://huggingface.co/spaces/huggingface-projects/QR-code-AI-art-generator)
-
-***
-
 ## Radio Streaming Sites
 
 ### Live Radio
@@ -2038,7 +2014,7 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://70.88.180.169:8
 
 ### Internet Radio
 
-[Turntable](https://turntable.fm/), [CoreRadio](https://coreradio.online/listen), [CMD](https://cmd.to/fm), [lainchan](https://lainchan.org/radio), [RadioParadise](https://radioparadise.com/), [IndieSHuffle](https://www.indieshuffle.com/), [You42](https://www.you42.com/), [Jango](https://www.jango.com/), [RadioTunes](https://www.radiotunes.com/), [Live365](https://live365.com/), [AccuraRadio](https://www.accuradio.com/), [Radio.dubbeh](https://radio.dubbeh.net/), [Tilderadio](https://tilderadio.org/), [AnonRadio](https://anonradio.net/), [UpBeat](https://upbeatradio.net/) / [Discord](https://upbeat.pw/discord), [Radios.yt](https://radios.yt/), [SomaFM](https://somafm.com/), [ShoutCast](https://directory.shoutcast.com/), [Internet-Radio](https://internet-radio.com/), [Radiolise](https://radiolise.gitlab.io/)
+[Turntable](https://turntable.fm/), [CoreRadio](https://coreradio.online/listen), [CMD](https://cmd.to/fm), [lainchan](https://lainchan.org/radio), [RadioParadise](https://radioparadise.com/), [IndieSHuffle](https://www.indieshuffle.com/), [You42](https://www.you42.com/), [Jango](https://www.jango.com/), [RadioTunes](https://www.radiotunes.com/), [Live365](https://live365.com/), [AccuraRadio](https://www.accuradio.com/), [Radio.dubbeh](https://radio.dubbeh.net/), [Tilderadio](https://tilderadio.org/), [AnonRadio](https://anonradio.net/), [UpBeat](https://upbeatradio.net/) / [Discord](https://upbeat.pw/discord), [Radios.yt](https://radios.yt/), [SomaFM](https://somafm.com/), [ShoutCast](https://directory.shoutcast.com/), [Internet-Radio](https://internet-radio.com/), [Radiolise](https://radiolise.gitlab.io/), [JetSetRadio](https://jetsetradio.live/), [Chiru.no](https://chiru.no/)
 
 ***
 
@@ -2046,15 +2022,11 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://70.88.180.169:8
 
 [Cool Generator](https://www.coolgenerator.com/), [The One Generator](https://theonegenerator.com/), [Random-Ize](https://random-ize.com/), [RANDOM](https://www.random.org/), [BestRandoms](https://www.bestrandoms.com/), [Randommer](https://randommer.io/), [GeneratorFun](https://generatorfun.com/), [Springhole](https://www.springhole.net/writing_roleplaying_randomators/index.html), [Wiizard Generator](https://wiizard-generator.neocities.org/), [randomix](https://github.com/m-i-n-a-r/randomix), [NumberGenerator](https://numbergenerator.org/), [Random Lists](https://www.randomlists.com/)
 
-***
-
-## Random Image Sites
+### Random Image Sites
 
 [r.sine.com](https://r.sine.com/index), [Pretty Flix](https://cvines528.github.io/Pretty-Flix/), [Cameron.Red](https://cameron.red/imgur/), [Funnyjunk](https://funnyjunk.com//), [f0ck](https://f0ck.me/), [ImgFlip](https://imgflip.com/), [9Gag](https://9gag.com/), [Thread-Puller](https://thread-puller.party/), [IWasteSoMuchTime](https://www.iwastesomuchtime.com/), [iFunny](https://ifunny.co/), [KongouCheats](https://kongoucheats.com/), [RandomWaffle](https://randomwaffle.gbs.fm/), [Wimp.com](https://www.wimp.com/), [Heahy](https://www.heahy.com/)
 
-***
-
-## Random Sites
+### Random Sites
 
 [BoredButton](https://www.boredbutton.com/), [Sharkle!](https://sharkle.com/), [The Useless Web](https://theuselessweb.com/) / [2](https://theuselessweb.site/), [JumpStick](https://jumpstick.app/), [OpenBulkURL](https://openbulkurl.com/random/), [The Forest](https://theforest.link/), [WhatsMYIP](http://random.whatsmyip.org/), [Random-Website](https://random-website.com/), [Wilderness Land](https://wilderness.land/), [CloudHiker](https://cloudhiker.net/)
 
@@ -2079,12 +2051,6 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://70.88.180.169:8
 * ⭐ **[Saidit](https://saidit.net/)**
 
 [/r/RedditAlternatives](https://reddit.com/r/RedditAlternatives), [postmill](https://postmill.xyz/), [Sqwok](https://sqwok.im/), [tildes](https://tildes.net/), [talk](https://www.talk.lol/), [communities](https://communities.win/), [FlingUp](https://flingup.com/), [Upvote](https://upvo.to/), [Hexbear](https://www.hexbear.net/), [Squabblr](https://squabblr.co/), [Discuit](https://discuit.net/), [aolko](https://delv.aolko.me/)
-
-***
-
-## Reddit Frontends
-
-[Reeddit](https://reedditapp.com/), [Saturnus](https://saturnusapp.com/), [Photon](https://photon-reddit.com/), [kddit](https://kddit.kalli.st/)
 
 ***
 
@@ -2382,29 +2348,6 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://70.88.180.169:8
 
 ***
 
-## Site Analytics
-
-* https://www.openwebanalytics.com/
-* https://www.alexa.com/siteinfo
-* https://websiteoutlook.com/
-* https://umami.is/
-* https://matomo.org/
-* https://goaccess.io/
-* https://redash.io/
-* https://github.com/electerious/Ackee
-* https://countly.com/
-* https://ackee.electerious.com/
-* https://cronitor.io/
-* https://splitbee.io/
-* https://www.hotjar.com/
-* https://www.goatcounter.com/
-* https://freshlytics.gitbook.io/
-* https://www.awstats.org/
-* https://counter.dev/
-* https://github.com/vesparny/fair-analytics
-
-***
-
 ## Site Legitimacy Check
 
 * ⭐ **[URL Void](https://www.urlvoid.com/)**
@@ -2438,7 +2381,7 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://70.88.180.169:8
 
 ## SMS Verification Sites
 
-[TextNow](https://www.textnow.com/), [Tempophone](https://tempophone.com/), [2ndline](https://www.2ndline.co/), [SMS Receive Free](https://smsreceivefree.com/), [SMS Online](https://sms-online.co/), [GetFreeSMSNUmber](https://getfreesmsnumber.com/), [SMS Receive](https://sms-receive.net/), [Receive SMS Online](https://www.receivesmsonline.net/), [7Sim](https://7sim.org/), [receivesmsonline](https://receivesmsonline.in/), [Sellaite](https://sms.sellaite.com/), [Send SMS Now](https://www.sendsmsnow.com/), [Free Online Phone](https://www.freeonlinephone.org/), [SMS Get](https://smsget.net/), [1s2u](https://1s2u.com/), [My Trash Mobile](https://www.mytrashmobile.com/), [GlobFone](https://globfone.com/), [receive-sms](https://receive-sms.com/), [freesmsverification](http://freesmsverification.com/), [countrycode](https://countrycode.org/), [temp-sms](https://temp-sms.org/), [oksms](https://oksms.org/), [temporary-phone-number](https://temporary-phone-number.com/), [cloakmobile](https://cloakmobile.com/), [pumpsms](http://pumpsms.com/), [spoofbox](https://www.spoofbox.com/en/tool/trash-mobile/number), [smska](https://smska.us/), [receive-sms-online](https://www.receive-sms-online.info/), [smsfinders](https://smsfinders.com/), [receivesms](https://receivesms.org/), [mfreesms](https://mfreesms.com/), [fake-sms](https://github.com/Narasimha1997/fake-sms), [yunjisms](https://yunjisms.xyz/), [smscodeonline](https://smscodeonline.com/), [lothelper](https://www.lothelper.com/), [xinghai](https://xinghai.party/), [mianfeijiema](https://mianfeijiema.com/), [receivesms](https://www.receivesms.net/), [jiemahao](https://jiemahao.com/), [storytrain](https://www.storytrain.info/), [Temp Number](https://temp-number.com/), [sms24](https://www.sms24.me/), [receive-smss](https://receive-smss.com), [verificationfree](https://verificationfree.com/), [simpletexting](https://simpletexting.com/), [freesmscenter](https://freesmscenter.com/), [receive-sms](https://receive-sms.cc/), [online-sms](https://online-sms.org/), [grizzlysms](https://grizzlysms.com/), [spytm](https://spytm.com/), [receivesms](https://www.receivesms.co/), [receive-sms-free](https://receive-sms-free.cc/), [receivesms](https://receivesms.cc/), [sms-activation-service](https://sms-activation-service.com/), [burnerapp](https://www.burnerapp.com/), [temp-sms](https://temp-sms.org/), [receivesms](https://receivesms.org/), [temp-number](https://temp-number.org/), [tempsmss](https://tempsmss.com/), [quackr](https://quackr.io/), [sms24](https://sms24.me/), [freephonenum](https://freephonenum.com/), [5sim](https://5sim.net/free), [smsnator](https://smsnator.online/), [InboxSMS](https://inboxsms.me/), [anonymsms](https://anonymsms.com/temporary-phone-number/), [onlinesim](https://onlinesim.io/)
+[TextNow](https://www.textnow.com/), [2ndline](https://www.2ndline.co/), [SMS Receive Free](https://smsreceivefree.com/), [SMS Online](https://sms-online.co/), [GetFreeSMSNUmber](https://getfreesmsnumber.com/), [SMS Receive](https://sms-receive.net/), [Receive SMS Online](https://www.receivesmsonline.net/), [7Sim](https://7sim.org/), [receivesmsonline](https://receivesmsonline.in/), [Sellaite](https://sms.sellaite.com/), [Send SMS Now](https://www.sendsmsnow.com/), [Free Online Phone](https://www.freeonlinephone.org/), [SMS Get](https://smsget.net/), [1s2u](https://1s2u.com/), [My Trash Mobile](https://www.mytrashmobile.com/), [GlobFone](https://globfone.com/), [receive-sms](https://receive-sms.com/), [freesmsverification](http://freesmsverification.com/), [countrycode](https://countrycode.org/), [temp-sms](https://temp-sms.org/), [oksms](https://oksms.org/), [temporary-phone-number](https://temporary-phone-number.com/), [cloakmobile](https://cloakmobile.com/), [pumpsms](http://pumpsms.com/), [spoofbox](https://www.spoofbox.com/en/tool/trash-mobile/number), [smska](https://smska.us/), [receive-sms-online](https://www.receive-sms-online.info/), [smsfinders](https://smsfinders.com/), [receivesms](https://receivesms.org/), [mfreesms](https://mfreesms.com/), [fake-sms](https://github.com/Narasimha1997/fake-sms), [yunjisms](https://yunjisms.xyz/), [smscodeonline](https://smscodeonline.com/), [lothelper](https://www.lothelper.com/), [xinghai](https://xinghai.party/), [mianfeijiema](https://mianfeijiema.com/), [receivesms](https://www.receivesms.net/), [jiemahao](https://jiemahao.com/), [storytrain](https://www.storytrain.info/), [Temp Number](https://temp-number.com/), [sms24](https://www.sms24.me/), [receive-smss](https://receive-smss.com), [verificationfree](https://verificationfree.com/), [simpletexting](https://simpletexting.com/), [freesmscenter](https://freesmscenter.com/), [receive-sms](https://receive-sms.cc/), [online-sms](https://online-sms.org/), [grizzlysms](https://grizzlysms.com/), [spytm](https://spytm.com/), [receivesms](https://www.receivesms.co/), [receive-sms-free](https://receive-sms-free.cc/), [receivesms](https://receivesms.cc/), [sms-activation-service](https://sms-activation-service.com/), [burnerapp](https://www.burnerapp.com/), [temp-sms](https://temp-sms.org/), [receivesms](https://receivesms.org/), [temp-number](https://temp-number.org/), [tempsmss](https://tempsmss.com/), [quackr](https://quackr.io/), [sms24](https://sms24.me/), [freephonenum](https://freephonenum.com/), [5sim](https://5sim.net/free), [smsnator](https://smsnator.online/), [InboxSMS](https://inboxsms.me/), [anonymsms](https://anonymsms.com/temporary-phone-number/), [onlinesim](https://onlinesim.io/)
 
 ### No CC Required Trial Sites
 
@@ -2452,21 +2395,9 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://70.88.180.169:8
 
 ***
 
-## Spanish Anime Telegram
-
-[Animes480pFinalizados](https://t.me/Animes480pFinalizados), [AndrossElLegado](https://t.me/AndrossElLegado), [animes_kawais](https://t.me/animes_kawais), [SimplementeAnime](https://t.me/SimplementeAnime), [animesfinalizadoLSHD](https://t.me/animesfinalizadoLSHD), [AnimeDark17](https://t.me/AnimeDark17)
-
-***
-
 ## Sports Streaming
 
 [NFL](https://nflstreams.me/), [NBA](https://nbabox.tv/), [MLB](https://mlbstreams.me/), [NHL](https://nhlstreams.me/), [UFC](https://mmastreams.me/ufc-streams), [Tennis](https://live.tennisstreams.me/), [Football](https://socceronline.me/), [Rugby](https://rugbystreams.me/), [F1](https://f1box.me/), [MotoGP](https://motogpstream.me/), [Golf](https://golfstreams.me/), [Darts](https://dartsstreams.com/), [Cricket](https://watch.cricstream.me/), [Boxing](https://boxingstream.ai/)
-
-***
-
-## Sports Streaming Subs
-
-[/r/MLBStreams](https://www.reddit.com/r/MLBStreams/), [/r/WWEstreams/](https://www.reddit.com/r/WWEstreams/), [/r/rugbystreams](https://www.reddit.com/r/rugbystreams/)
 
 ***
 
@@ -2495,7 +2426,7 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://70.88.180.169:8
 
 ## Spotify Tools
 
-[Lyrics](https://versefy.app/) / [Spotify Companion](https://spotifytools.romanello.xyz/) / [Playlist Randomizer](https://stevenaleong.com/tools/spotifyplaylistrandomizer) / [Playlist Manager](https://skiley.net/) / [Playlist Converter](https://www.spotlistr.com/) / [Apple Music Playlist Converter](https://playlistor.io/) / [Playlist Words](https://spotifycloud.zamar-roura.com/) / [Dedup](https://spotify-dedup.com/) / [Backup](http://www.spotmybackup.com/), [2](https://github.com/watsonbox/exportify) / [Library Size](https://opslagify.deruever.nl/) / [Listening Stats](https://www.statsforspotify.com/), [2](https://volt.fm/), [3](https://spotistats.app/), [4](https://github.com/Yooooomi/your_spotify) / [Tier Lists](https://davitg.com/projects/tierify/) / [Song Country Search](https://kira.vercel.app/) / [Account Gen](https://github.com/HamzaAnis/go-spotify-account-generator), [2](https://github.com/davide-acanfora/spotify-account-generator), [3](https://github.com/ALIILAPRO/spotify-account-creator) / [Sync Accounts](https://github.com/yaronzz/SpotifySync) / [Export Tracks as Deezer Playlists](https://github.com/XDGFX/spotr) / [GitHub Display](https://github.com/kittinan/spotify-github-profile)
+[Lyrics](https://versefy.app/) / [Spotify Companion](https://spotifytools.romanello.xyz/) / [Playlist Randomizer](https://stevenaleong.com/tools/spotifyplaylistrandomizer) / [Playlist Transfer](http://trikatuka.aknakn.eu/) / [Playlist Manager](https://skiley.net/) / [Playlist Converter](https://www.spotlistr.com/) / [Apple Music Playlist Converter](https://playlistor.io/) / [Playlist Words](https://spotifycloud.zamar-roura.com/) / [Dedup](https://spotify-dedup.com/) / [Backup](http://www.spotmybackup.com/), [2](https://github.com/watsonbox/exportify) / [Library Size](https://opslagify.deruever.nl/) / [Listening Stats](https://www.statsforspotify.com/), [2](https://volt.fm/), [3](https://spotistats.app/), [4](https://github.com/Yooooomi/your_spotify) / [Tier Lists](https://davitg.com/projects/tierify/) / [Song Country Search](https://kira.vercel.app/) / [Account Gen](https://github.com/HamzaAnis/go-spotify-account-generator), [2](https://github.com/davide-acanfora/spotify-account-generator), [3](https://github.com/ALIILAPRO/spotify-account-creator) / [Sync Accounts](https://github.com/yaronzz/SpotifySync) / [Export Tracks as Deezer Playlists](https://github.com/XDGFX/spotr) / [GitHub Display](https://github.com/kittinan/spotify-github-profile)
 
 ### Spotify Adblockers
 
@@ -2580,12 +2511,6 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://70.88.180.169:8
 ### Summary Generators
 
 [SMMRY](https://smmry.com/), [summarize.site](https://github.com/clmnin/summarize.site/), [kagi](https://kagi.com/summarizer/index.html), [MyReader](https://www.myreader.io/), [Recast](https://www.letsrecast.ai/)
-
-***
-
-## Sun / Moon Position
-
-[SunCalc](https://www.suncalc.org/), [Subsolar Point](https://rl.se/subsolarpoint), [ShadeMap](https://shademap.app/), [ShadowCalculator](http://shadowcalculator.eu/), [FindMyShadow](https://www.findmyshadow.com/), [MoonCalc](https://www.mooncalc.org/)
 
 ***
 
@@ -3199,12 +3124,6 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://70.88.180.169:8
 * [Das Image](https://apps.apple.com/ca/app/das-image-search-and-explore/id1464079804) - iOS Wallpaper App
 
 [Wallpaper Engine](https://www.wallpaperengine.io/android/en), [wallhaven](https://wallhaven.cc/search?categories=110&purity=100&ratios=portrait), [wallpaperfusion](https://www.wallpaperfusion.com/Apps/), [wallpaperaccess](https://wallpaperaccess.com/cat/devices), [wallpapers.com](https://wallpapers.com/mobile), [wallpapersafari](https://wallpapersafari.com/), [wallpapercave](https://wallpapercave.com/categories/devices), [positrondream](https://www.positrondream.com/wallpapers-all), [simpledesktops](http://simpledesktops.com/app/android/), [wallpapertip](https://www.wallpapertip.com/), [wallpaperflare](https://www.wallpaperflare.com/search?wallpaper=vertical), [hdqwalls](https://hdqwalls.com/), [wallpapersden](https://wallpapersden.com/), [iOS Wallpapers](https://goo.gl/photos/ZVpabTtcezd35XBa9/) / [2](https://photos.google.com/share/AF1QipNi8VN2pw2Ya_xCV8eFgzEZmiXDy1-GwhXbqFtvXoH3HypF10as9puV8FdoVZpOZA?key=WkZjQTIxQTM5a01oZkNUYTE2ZllKTVJKZk1CMTR3), [VectorifyDaHome](https://github.com/enricocid/VectorifyDaHome), [backiee](https://backiee.com/), [Wallpapers_Phone_Mobile](https://t.me/Wallpapers_Phone_Mobile/), [iphone11papers](https://iphone11papers.com/), [Wallpapers Clan](https://wallpapers-clan.com/), [WallYou](https://github.com/Bnyro/WallYou), [Mobcup](https://mobcup.net/), [Absolutely Walls](https://photos.app.goo.gl/CxHuPTVjmPUSu2sUA), [/r/iWallpaper](https://www.reddit.com/r/iWallpaper/), [WalliApp](https://www.walliapp.com/), [/r/Verticalwallpapers](https://www.reddit.com/r/Verticalwallpapers/), [/r/MobileWallpaper](https://www.reddit.com/r/MobileWallpaper/), [Zedge](https://www.zedge.net/), [Wallman](https://apt.izzysoft.de/fdroid/index/apk/com.colorata.wallman)
-
-***
-
-## WebFont Changer
-
-[Firefox](https://addons.mozilla.org/en-US/firefox/addon/web-font-changer/) / [Chrome](https://chrome.google.com/webstore/detail/font-changer/obgkjikcnonokgaiablbenkgjcdbknna)
 
 ***
 
