@@ -1,6 +1,6 @@
 <script setup lang="ts">
 import Field from "./PaneFields.vue";
-import Modal from "./Modal.vue"
+import Modal from "./Modal.vue";
 </script>
 
 <template>

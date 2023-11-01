@@ -6,13 +6,12 @@ const showModal = ref(false);
 </script>
 
 <template>
-  <button class="modal-button" @click="showModal = true">Show Modal</button>
+  <button class="modal-button" @click="showModal = true">Feedback</button>
 
   <Teleport to="body">
     <Transition name="modal">
       <div v-show="showModal" class="modal-mask">
         <div class="modal-container">
-          <p>Send Feedback</p>
           <Feedback />
           <div class="model-footer">
             <button class="modal-button" @click="showModal = false">Close</button>
