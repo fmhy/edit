@@ -26,7 +26,6 @@
 * [ThePornMap](https://thepornmap.com/) 
 * [PornBox](http://pornbox.org/)
 * [PrimePornList](https://www.primepornlist.com/)
-* [Best Hentai Sites](https://besthentaisites.github.io/) - Hentai Sites Index
 * [DirtyWarez Adult](https://dirtywarez.org/cat/adult) - Alexa Adult Site Rankings
 
 ***
@@ -593,7 +592,7 @@
 
 ## ▷ Hentai Anime
 
-* 🌐 **[The Index](https://theindex.moe/library/hentai)** - Hentai Site List
+* 🌐 **[The Index](https://theindex.moe/library/hentai)** or [Best Hentai Sites](https://besthentaisites.github.io/) - Hentai Site Lists
 * 🌐 **[/cumg/](https://rentry.co/coom)** - Hentai Resources
 * ⭐ **[Nyaa Sukebei](https://sukebei.nyaa.si/)** - Hentai Torrents
 * ⭐ **[Anime-Sharing](https://www.anime-sharing.com/#downloads-requests)** - Hentai DDL
@@ -642,6 +641,7 @@
 * [Hentai2w](https://hentai2w.com/) - Hentai Streaming
 * [sakuracircle](https://sakuracircle.com/) - Hentai DDL 
 * [Hentai Upscales](https://t.me/+4zMgLbnhiF5hZGRk) - Hentai DDL
+* [AnimeTime](https://www.animetime.pw/) - Hentai DDL / [Discord](https://discord.com/invite/RuYuu9uT)
 * [FapForFun](https://fapforfun.net/) - Hentai Torrents
 * [Rule34Video](https://rule34video.com/) - 3D Porn
 * [Rule34Porn](https://rule34porn.net/) - 3D Porn
