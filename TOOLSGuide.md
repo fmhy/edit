@@ -1350,7 +1350,7 @@
 * ⭐ **[Favoree](https://www.favoree.io/)** - Search / Discover YouTube Channels
 * ⭐ **[YouTube Advanced Search](https://playlists.at/youtube/search/)**
 * ⭐ **[SponsorBlock](https://sponsor.ajay.app/)** - Skip Sponsored YouTube Ads / [Chromecast](https://github.com/nichobi/sponsorblockcast) / [Script](https://github.com/mchangrh/sb.js), [2](https://greasyfork.org/en/scripts/453320)
-* ⭐ **[Clickbait Remover](https://github.com/pietervanheijningen/clickbait-remover-for-youtube)** - Reduce Sensationalism and Clickbait
+* ⭐ **[DeArrow](https://dearrow.ajay.app/)** - Reduce Sensationalism and Clickbait
 * ⭐ **[ReturnYoutubeDislikes](https://returnyoutubedislike.com/)** - View YouTube Dislikes / [Web App](https://haeri.github.io/youtube-dislike-viewer/) / [Discord](https://discord.com/invite/mYnESY4Md5)
 * ⭐ **[Age Restriction Bypass](https://github.com/zerodytrash/Simple-YouTube-Age-Restriction-Bypass)** / [2](https://greasyfork.org/en/scripts/423851-simple-youtube-age-restriction-bypass) - Bypass YouTube Age Restrictions
 * ⭐ **[Video Resumer](https://pastebin.com/avtHzp4W)** - Resume Videos Where You Left Off
