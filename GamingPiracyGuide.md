@@ -506,6 +506,7 @@
 * [Gidd.io](https://gidd.io/)
 * [Playok](https://www.playok.com/)
 * [PaperGames](https://papergames.io/)
+* [Foony](https://foony.com/)
 * [Venge](https://venge.io/) - PvP FPS
 * [LolShot](https://lolshot.io/) - PvP FPS
 * [ShellShock](https://www.shellshock.io/) - PvP FPS
