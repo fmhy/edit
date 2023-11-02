@@ -1185,6 +1185,7 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://70.88.180.169:8
 ### Online Editors
 
 * ⭐ **[Lunapic](https://lunapic.com/)**
+* ⭐ **[miniPaint](https://viliusle.github.io/miniPaint/)**
 
 [Photopea](https://www.photopea.com/) / [Ad Script](https://greasyfork.org/en/scripts/449961), [Pixlr](https://pixlr.com/), [Photomate](https://photomate.dev/), [BeFunky](https://www.befunky.com/), [Resize Pixel](https://www.resizepixel.com/), [Polotno Studio](https://studio.polotno.com/), [OIE](https://www.online-image-editor.com/), [IMG online](https://www.imgonline.com.ua/eng/), [BitMappery](https://www.igorski.nl/application/bitmappery/), [Kapwing](https://www.kapwing.com/), [Photoshop.adobe](https://photoshop.adobe.com/), [ILoveImg](https://www.iloveimg.com/photo-editor), [Panzoid](https://panzoid.com/), [Stet](https://stet.io/), [GifGit](https://www.gifgit.com/), [Polarr](https://photoeditor.polarr.co/), [UpperPix](https://upperpix.com/), [webp2jpg](https://renzhezhilu.github.io/webp2jpg-online/), [Picverse](https://www.picverse.com/), [Image Online](https://pencilsketch.imageonline.co/), [Fotor](https://www.fotor.com/), [PictureEditor](https://www.pictureeditor.com/), [PhotoStack](https://edit.photostack.app/), [Facet](https://facet.ai/), [Peko-Step](https://www.peko-step.com/en/tool/imageeditor.html), [ImageOnline](https://imageonline.co/), [Tom's Editor](https://tomseditor.com/), [CutMyPic](http://www.cutmypic.com/), [edit.photo](https://edit.photo/), [Image Resizer](https://www.image-resizer.eu/)
 
