@@ -457,7 +457,8 @@
 * [Dungeon Crawl](https://crawl.develz.org/ ) - Browser RPG
 * [Forumwarz](https://www.forumwarz.com/) - Browser RPG
 * [CrossCode](https://www.cross-code.com/en/home) - Browser RPG
-* [Kingdom of Loathing](https://www.kingdomofloathing.com/) - Comedy RPG 
+* [Kingdom of Loathing](https://www.kingdomofloathing.com/) - Comedy RPG
+* [Frasier Fantasy](https://edward-la-barbera.itch.io/frasier-fantasy) - Comedy RPG 
 * [Bruno-Simon](https://bruno-simon.com/) - Truck Driving Game
 * [racing-game](https://racing.pmnd.rs/) - Driving Game / [GitHub](https://github.com/pmndrs/racing-game) / [Discord](https://discord.gg/dQW7fDmaAG)
 * [s l o w r o a d s](https://slowroads.io/) - Driving Game
