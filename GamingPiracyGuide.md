@@ -982,7 +982,7 @@
 * [The Spriters Resource](https://www.spriters-resource.com/) - Video Game Sprites
 * [MiiCharacters](http://www.miicharacters.com/) - Famous Mii Creation Guides
 * [Buzz In](https://buzzin.live/) - Online Buzzer System
-* [Score7](https://score7.io/) - Tournament Creator / Manager
+* [Score7](https://score7.io/), [Challonge](https://challonge.com/) - Tournament Creator / Manager
 * [KeepTheScore](https://keepthescore.co/) - Leaderboard Creator
 * [ViGEmBus](https://github.com/ViGEm/ViGEmBus) or [x360ce](https://www.x360ce.com/) / [GitHub](https://github.com/x360ce/x360ce) - DS4 / 360 Controller Emulator
 * [XOutput](https://github.com/csutorasa/XOutput) - DirectInput to Xinput wrapper
@@ -1088,6 +1088,7 @@
 * ⭐ **[TrackyServer](https://www.trackyserver.com/)** - Find Private Multiplayer Servers
 * ⭐ **[Find-PlayDate](https://www.find-playdate.com/)** - Find People to Play Games With
 * [Blitz.gg](https://blitz.gg/) - Post Match Performance Analyzer
+* [DraftGap](https://draftgap.com/) - League of Legends drafting tool
 * [DiIiS](https://github.com/blizzless/blizzless-diiis) - Open-Source Diablo III Local Server
 * [Server.pro](https://server.pro/) - Game Server Hosting
 * [Streamer Mode](https://github.com/taskinoz/Streamer-Mode) - Hide Player Names to Avoid Stream Sniping
