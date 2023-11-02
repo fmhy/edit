@@ -175,7 +175,7 @@
 * [FreeArabSexx](https://freearabsexx.com/), [ArabySexy](https://arabysexy.com/), [Sex4ArabXXX](https://sex4arab.xxx/), [SexSaoy](https://sexsaoy.com/) or [SexAlArab](https://sexalarab.com/) - Arabic Porn
 * [XXBrits](https://www.xxbrits.com/) - British Porn
 * [IcePornCasting](https://iceporncasting.net/) - Casting Couch Porn
-* [Porn App](https://porn-app.com/) - Android Porn App / [Discord](https://discord.com/invite/XRjPBGa)
+* [Porn App](https://porn-app.com/) - Android Porn App
 * [NsfwBox](https://github.com/Kisspeace/NsfwBox) - Android Porn App
 
 ***
@@ -642,7 +642,7 @@
 * [Hentai2w](https://hentai2w.com/) - Hentai Streaming
 * [sakuracircle](https://sakuracircle.com/) - Hentai DDL 
 * [Hentai Upscales](https://t.me/+4zMgLbnhiF5hZGRk) - Hentai DDL
-* [FapForFun](https://fapforfun.net/) - Hentai Torrents / [Discord](https://discord.com/invite/vJvN87tt)
+* [FapForFun](https://fapforfun.net/) - Hentai Torrents
 * [Rule34Video](https://rule34video.com/) - 3D Porn
 * [Rule34Porn](https://rule34porn.net/) - 3D Porn
 * [XAnimu](https://xanimu.com/) - 3D Porn
@@ -671,7 +671,7 @@
 * ⭐ **[Nyaa Sukebei](https://sukebei.nyaa.si/)** - Hentai Manga Torrents
 * ⭐ **[Anime-Sharing](https://www.anime-sharing.com/#downloads-requests)** - Hentai Manga DDL
 * ⭐ **[Hitomi Downloader](https://github.com/KurtBestor/Hitomi-Downloader)**, **[Hakuneko](https://hakuneko.download/)** or [NN Downloader](https://github.com/Official-Husko/NN-Downloader) - Multi-Site Downloaders
-* ⭐ **[Wholesome Hentai](https://wholesomelist.com/)** - Wholesome Manga Index / [Discord](https://discord.com/invite/688T4TaE)
+* ⭐ **[Wholesome Hentai](https://wholesomelist.com/)** - Wholesome Manga Index
 * [Hentai2Read](https://hentai2read.com/) or [HentaiHere](https://hentaihere.com/) - Hentai Manga
 * [HentaiFox](https://hentaifox.com/) - Hentai Manga
 * [Pururin](https://pururin.to/) - Hentai Manga / [Discord](https://discord.com/invite/PtrzM4aVFv)
