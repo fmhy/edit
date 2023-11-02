@@ -1017,7 +1017,7 @@
 
 # ► Polish
 
-* 🌐 **[StreamBase](https://rentry.co/streambase)** - Piracy Index / [Discord](https://discord.gg/ZmUTrX6axg)
+* 🌐 **[StreamBase](https://rentry.co/streambase)** - Piracy Index
 * [Sport TVP](https://sport.tvp.pl/) - Sports News
 
 ## ▷ Downloading
