@@ -497,7 +497,7 @@
 * [HookTheory](https://www.hooktheory.com/trends) - Chord Progression Library 
 * [#fretflip](https://fretflip.com/) - Create / Print Guitar Scales & Chord Charts 
 * [MusicKit](https://musickit.jull.dev/) or [Tone Generator](https://www.szynalski.com/tone-generator/) - Metronome, Tuner & Tone Generators 
-* [Sonic Getaway](https://discord.gg/audiophile) or [AudioScienceReview](https://www.audiosciencereview.com/forum/index.php) - Audio Equipment Discussion
+* [AudioScienceReview](https://www.audiosciencereview.com/forum/index.php) - Audio Equipment Discussion
 * [VinylEngine](https://www.vinylengine.com/) - Vinyl Record Info / Forums
 * [REW](https://www.roomeqwizard.com/) - Room Acoustic, Loudspeaker and audio device measurement
 * [Tuner Ninja](https://tuner.ninja/) - Instrument Tuner 
@@ -644,6 +644,7 @@
 * [protocol-reading-list](https://github.com/b-chiang/protocol-reading-list) - Crypto Protocols
 * [WalletExplorer](https://www.walletexplorer.com/) or [OXT](https://oxt.me/) - Bitcoin Block Explorers
 * [Wasabi](https://wasabiwallet.io/) or [Shapeshift](https://app.shapeshift.com/) - FOSS Bitcoin Wallets
+* [Ivy Wallet](https://github.com/Ivy-Apps/ivy-wallet) - Money Management App
 
 ***
 
@@ -1035,20 +1036,20 @@
 * [UnsubScan](https://github.com/LGUG2Z/unsubscan) - Easily Unsubscribe from Emails
 * [Epieos](https://epieos.com/) - Retrieve Info Linked to Email Address
 * [zMail](https://zmail.sourceforge.net/) or [Emkei's Fake Mailer](https://emkei.cz/) - Send Fake Emails
-* [I'm Still Okay](https://imstillokay.com/) - Email Check-In Service for Seniors
 * [MailBait](https://mailbait.info/) - Fill Inbox with Mail 
 * [Email Valid](https://ivit.pro/services/email-valid/) or [Ychecker](https://ychecker.com/) - Check Email Validity & Usage
 * [Holehe](https://github.com/megadose/holehe) - Find Accounts Connected to Emails
 * [Useplaintext](https://useplaintext.email/) - How-To Use Plaintext Email 
 * [Signature Maker](https://signature-maker.net/) or [SignatureHound](https://signaturehound.com/) - Email Signature Creators
 * [InternetBumperStickers](https://www.internetbumperstickers.com/) - Images for Signatures
-* [Docker Mailserver](https://docker-mailserver.github.io/docker-mailserver/edge/) or [Mail-in a Box](https://mailinabox.email/) - Self-Hosted Email Servers 
+* [Docker Mailserver](https://docker-mailserver.github.io/docker-mailserver/edge/) or [Mail-in a Box](https://mailinabox.email/) - Self-Hosted Email Servers
 * [Gmail Desktop](https://github.com/timche/gmail-desktop) - Gmail Desktop Client
 * [Got Your Back](https://github.com/GAM-team/got-your-back) - Backup Gmail Messages
 * [Integrated Inbox](https://integratedinbox.com/) - Gmail Google Web App Integration
 * [Delete Junk Email](https://gist.github.com/viperadnan-git/fcb0ecda32de0b9a27ec03829a7c12e8) - Bulk Gmail Junk Deleter
 * [ExtractMailAddress](https://extractemailaddress.com/) - Extract Email's, URLs and Numbers from Text
 * [Hunter.io](https://hunter.io/) - Business Email Address Search
+* [DeadmansSwitch](https://www.deadmansswitch.net/) - Electronic Will
 
 ***
 
@@ -1188,7 +1189,7 @@
 * [DiscordFS](https://github.com/dhrumilp15/haystackfs) - Discord File Search
 * [DeepL](https://github.com/aisuzuki/dd-bot) - Discord Chat Auto Translator
 * [FixTweet](https://github.com/FixTweet/FixTweet) or [discord-twitter-bot](https://github.com/NNTin/discord-twitter-bot) - Fix Discord Twitter Embeds
-* [PreMiD](https://premid.app/) - Display Web Activity in Discord Status / [Github](https://github.com/PreMiD/PreMiD) / [Discord](https://discord.gg/WvfVZ8T)
+* [PreMiD](https://premid.app/) - Display Web Activity in Discord Status / [Github](https://github.com/PreMiD/PreMiD)
 * [Alternatives to MEE6](https://alternativestomee6.com/) - [Discord](https://discord.gg/WrbMdWHfNd)
 * [Divider Generator](https://jsfiddle.net/Davri/wf49xnob/159/) - Create Discord Role Dividers Discord Role
 * [MonitoRSS](https://monitorss.xyz/), [2](https://github.com/synzen/MonitoRSS-Clone) - RSS Discord Bot
@@ -1255,7 +1256,7 @@
 * [Discord-Avatar](https://discord-avatar.com/) or [Toolscord](https://toolscord.com/) - Download Discord Avatars
 * [Discord Avatar Maker](https://discord-avatar-maker.app/) - Make Discord Avatars
 * [Better Default Discord](https://better-default-discord.netlify.app/) - Default Discord Avatars
-* [usrbg](https://github.com/Discord-Custom-Covers/usrbg) or [Pfps.gg](https://pfps.gg/) - Discord Custom Profile Backgrounds / [Discord](https://discord.gg/2YcxDChxS5)
+* [usrbg](https://github.com/Discord-Custom-Covers/usrbg) or [Pfps.gg](https://pfps.gg/) - Discord Custom Profile Backgrounds
 * [Discord Dev Badges](https://pastebin.com/JzrckCix), [active-developer-badge](https://github.com/hackermondev/discord-active-developer-badge) or [GiveMeBadge](https://github.com/AlexFlipnote/GiveMeBadge) - Unlock Discord Dev Badges / [Script](https://gist.github.com/Raraph84/cff3ff908a1f2692b9a8452d2f49c2bf)
 * [Discoed SVG Bagdes](https://github.com/Mattlau04/Discord-SVG-badges) or [discord-badges](https://github.com/mezotv/discord-badges) - Discord Badge Image Files
 * [Auto Creative](https://auto.creavite.co/icons) - Animated Icon / Banner Generator
@@ -1263,7 +1264,6 @@
 * [Discord Status](https://discordstatus.com/) - Check Discord Status 
 * [Status](https://discord.gg/Nnttd7EZV4) - Followable Site Status Channels
 * [LilyBot](https://github.com/defensem3ch/LilyBot) - Play / Render Music Snippets
-* [Discord Testers](https://discord.gg/discord-testers) - Test Discord Features
 * [Guild Counter](https://rauf.wtf/guildcount) - Check how many servers you're in
 * [Preview for Discord](https://dragory.github.io/role-preview-for-discord/) - Preview Role Colors Role
 * [Stolen Shoes](https://stolen.shoes/) or [Discord Embedder](https://discord.nfp.is/) - Embed Videos on Discord
@@ -1375,6 +1375,7 @@
 * [YTArchive](https://github.com/Kethsar/ytarchive) - YouTube Livestream Recorder
 * [YouTube Comment Downloader](https://github.com/egbertbouman/youtube-comment-downloader) - YouTube Comment Download Script
 * [YouTube Search Fixer Suite](https://addons.mozilla.org/en-US/firefox/addon/youtube-suite-search-fixer/) - Fix Youtube Search / Declutter Homepage
+* [Feed Remover](https://github.com/kwkr/feed-remover) - Remove YouTube Homepage Feed
 * [Channel Crawler](https://channelcrawler.com/eng) or [YT-FTS](https://github.com/NotJoeMartinez/yt-fts) - Channel Search Tools
 * [Comment Viewer](https://commentviewer.com/), [Hadzy](https://hadzy.com/), [YCS](https://chrome.google.com/webstore/detail/ycs-youtube-comment-searc/pmfhcilikeembgbiadjiojgfgcfbcoaa?hl=en) or [YCF](https://ytcomment.kmcat.uk/) - YouTube Comment Search
 * [Filmot](https://filmot.com/), [ytks](https://ytks.app/) or [Video Search for Youtube](https://github.com/masasron/Video-Search-For-YouTube/) - Search within YouTube Transcripts
@@ -1989,6 +1990,7 @@
 * [PSTOEdit](http://pstoedit.net/) - Convert PDF to other Vector Formats 
 * [Issuu](https://issuu.com/) - Convert PDF Files to Webpages, Flipbooks, Brochures & More / [Downloader](https://docdownloader.com/), [2](https://vebuka.com/)
 * [WebToPDF](https://webtopdf.com/) or [PDFmyURL](https://pdfmyurl.com/) - Webpage to PDF Converter
+* [GraphPaper](https://incompetech.com/graphpaper/) - PDF Graphs
 * [PPT To PDF](https://www.adobe.com/acrobat/online/ppt-to-pdf.html) - Convert PowerPoint to PDF Adobe
 * [watermark-remover](https://github.com/cpappen/watermark-remover), [pdf-remove-watermarks](https://github.com/matthiasbock/pdf-remove-watermarks), [Aspose](https://products.aspose.app/pdf/annotation) or [pdf-unstamper](https://github.com/hwding/pdf-unstamper) - PDF Watermark Remover
 * [Scan Your PDF](https://www.scanyourpdf.com/) - Make a PDF look like it was Scanned
@@ -2088,7 +2090,7 @@
 * [Corrupt My File](https://www.corruptmyfile.com/) or [Corrupt-A-File](https://corrupt-a-file.net/) - Intentionally Corrupt your Files
 * [Minissign](https://jedisct1.github.io/minisign/) - Sign and Verify Signatures
 * [HashCheck](https://github.com/idrassi/HashCheck), [DeadHash](https://github.com/CodeDead/DeadHash-js), [Hashing](https://github.com/hellzerg/hashing) or [OpenHashTab](https://github.com/namazso/OpenHashTab) - Calculate / Check File Hashes
-* [QuickSFV](https://quicksfv.org/), [RapidCRC](https://rapidcrc.sourceforge.net/) or [QuickDash](https://github.com/iamtakingithard/QuickDash) / [Discord](https://discord.gg/ZuxmMXdGpm) - File Hashing / Verification Tools
+* [QuickSFV](https://quicksfv.org/), [RapidCRC](https://rapidcrc.sourceforge.net/) or [QuickDash](https://github.com/iamtakingithard/QuickDash) - File Hashing / Verification Tools
 * [Samsung Firmware Magic](https://github.com/chrivers/samsung-firmware-magic) - Decrypt Samsung SSD Firmware Files
 * [Hashes](https://hashes.com/) - Decrypt Hashes
 * [MD5 Hash Changer](https://github.com/ewwink/MD5-Hash-Changer) - Change a Files MD5 Hash
