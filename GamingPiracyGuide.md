@@ -870,7 +870,7 @@
 * [Incendar](https://incendar.com/) - Game Release Date Tracker
 * [OpenCritic](https://opencritic.com/) - Critic Game Reviews / Ratings
 * [GG App](https://ggapp.io/) or [Gamelib](https://gamelib.app/explore) - Game Tracker
-* [LaunchBox Games Database](https://gamesdb.launchbox-app.com/), [GameFAQs](https://gamefaqs.gamespot.com/), [Steam Games](https://steam-games.org/), [Rawg](https://rawg.io/), [Moby Games](https://www.mobygames.com/), [rate.house](https://rate.house/chart/game), [Backloggery](https://backloggery.com/), [listal](https://www.listal.com/), [Orcz](https://orcz.com/Main_Page) or [FrontierNav](https://frontiernav.net/) - Game Database
+* [LaunchBox Games Database](https://gamesdb.launchbox-app.com/), [GameFAQs](https://gamefaqs.gamespot.com/), [Steam Games](https://steam-games.org/), [Rawg](https://rawg.io/), [Moby Games](https://www.mobygames.com/), [rate.house](https://rate.house/chart/game), [Backloggery](https://backloggery.com/), [listal](https://www.listal.com/), [Orcz](https://orcz.com/Main_Page) or [FrontierNav](https://frontiernav.net/) - Game Databases
 * [IMDb Advanced Search](https://www.imdb.com/search/) - Game Search
 * [Ethereal Games](https://wiki.etherealgames.com/) or [JRGPC](https://jrpgc.com/) - JRPG Databases
 * [RPGCodex](https://rpgcodex.net/forums/) - RPG Databse / Forum
