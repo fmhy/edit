@@ -208,8 +208,8 @@
 * [Free-Codecs](https://www.free-codecs.com/) - Codec Packs & Multimedia Tools
 * [VideoSmaller](https://www.videosmaller.com/), [Compress Video Online](https://compress-video-online.com/), [8mb.video](https://8mb.video/) or [MP4Compress](https://www.mp4compress.com/) - Video Compressors
 * [kmttg](https://www.videohelp.com/software/kmttg) - TivoToGo Download Manager
-* [How-to Rip Videos from Amazon](https://web.archive.org/web/20210102125108/https://www.reddit.com/r/Piracy/comments/kmodia/improved_text_video_tutorial_on_how_to_rip_from/), [2](https://web.archive.org/web/20210112204744/https://old.reddit.com/r/Piracy/comments/km1pkl/how_to_rip_from_amazon_loselessly/)
-* [How to Rip Videos from Disney+](https://redd.it/ncyxzx), [2](https://web.archive.org/web/20210516014412/https://old.reddit.com/r/Piracy/comments/ncyxzx/tutorial_how_to_rip_moviesshows_from_disney_plus/)
+* [How-to Rip Videos from Amazon](https://web.archive.org/web/20210102125108/https://www.reddit.com/r/Piracy/comments/kmodia/improved_text_video_tutorial_on_how_to_rip_from/)
+* [How to Rip Videos from Disney+](https://redd.it/ncyxzx)
 * [Chat-Downloader](https://github.com/xenova/chat-downloader) - Retrieve Chat Messages from Livestreams
 * [DJV](https://darbyjohnston.github.io/DJV/) - Professional Video Review Player
 * [Swivel](https://www.newgrounds.com/wiki/creator-resources/flash-resources/swivel) - SWF to Video Converter
@@ -686,7 +686,6 @@
 * [Nmap](https://nmap.org/) - Network Security / Discovery Utility / [Compare Results](https://nmap.org/ndiff/)
 * [Elmocut](https://github.com/elmoiv/elmocut) or [SelfishNetV3](https://github.com/nov0caina/SelfishNetV3) - ARP Spoofer / Kick Users from WiFi 
 * [Broadband Map](https://broadbandmap.fcc.gov/) - Fixed Broadband Deployment Map
-* [WiFiCard](https://wificard.io/) - WiFi Info QRCode Generator
 * [RustCat](https://github.com/robiot/rustcat) - Port Listener
 * [SerialPortAssistant](https://github.com/KangLin/SerialPortAssistant) - Serial Port Assistant
 * [.new](https://whats.new/shortcuts) - New Project Shortcuts
@@ -705,7 +704,7 @@
 * [OutWit](https://www.outwit.com/) - Scrape / Organize Website Data
 * [Irchiver](https://irchiver.com/) - Automatic Web Browser Screenshots
 * [WaybackShot](https://github.com/sam5epi0l/waybackshot) - Retrieve Site Screenshots via Wayback Machine
-* [Awesome Website Change Monitoring](https://github.com/edgi-govdata-archiving/awesome-website-change-monitoring), [Sken.io](https://www.sken.io/), [ChangeDetection.io](https://github.com/dgtlmoon/changedetection.io), [urlwatch](https://thp.io/2008/urlwatch/), [Visualping](https://visualping.io/), [obzrv](https://obzrv.it/), [changd](https://github.com/paschmann/changd) or [FollowThatPage](https://followthatpage.com/) - Page Change Detection / Notification 
+* [Awesome Website Change Monitoring](https://github.com/edgi-govdata-archiving/awesome-website-change-monitoring), [Sken.io](https://www.sken.io/), [ChangeDetection.io](https://github.com/dgtlmoon/changedetection.io), [urlwatch](https://thp.io/2008/urlwatch/), [Visualping](https://visualping.io/), [obzrv](https://obzrv.it/), [changd](https://github.com/paschmann/changd) or [FollowThatPage](https://www.followthatpage.com/) - Page Change Detection / Notification 
 * [CertAlert](https://certalert.net/) - Alerts you when a TLS/SSL Certificate Expires
 * [Public Gateway Checker](https://ipfs.github.io/public-gateway-checker/) - Check which IPFS Gateways are Online
 * [Social Media Hacker List](https://github.com/MobileFirstLLC/social-media-hacker-list) - Social Media Apps / Tools
@@ -759,7 +758,7 @@
 * [WikiStalk](https://github.com/altilunium/wistalk) - Analyze Wikipedia User's Activity
 * [InspectContent](https://inspectcontent.com/) - Site Keyword Inspector
 * [LocalHost](https://localhost.run/) - Connect Web Apps to Internet
-* [Namechk](https://namechk.com/), [CheckUserNames](https://knowem.com/), [NameCheckr](https://www.namecheckr.com/), [NameCheckup](https://namecheckup.com/) or [IUS](https://instantusername.com/) - Check Username Availability
+* [Namechk](https://namechk.com/), [NameCheckr](https://www.namecheckr.com/), [NameCheckup](https://namecheckup.com/) or [IUS](https://instantusername.com/) - Check Username Availability
 * [HostsDock](https://eshengsky.github.io/HostsDock/) - Manage & Switch Hosts
 * [MAC Address](https://mac-address.alldatafeeds.com/mac-address-lookup) - Check MAC Address
 * [IP Location](https://iplocation.net/) - Check IP Location
@@ -1026,7 +1025,7 @@
 * ↪️ **[Encrypted Email](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25B7_email_tools)**
 * ↪️ **[Temp Emails](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_temp_email_sites)**
 * ⭐ **[Yandex Account Creator](https://github.com/hendrikbgr/YandexMail-Account-Creator)** - Create Infinite Yandex Accounts
-* ⭐ **[.edu Mail Guide](https://docs.google.com/document/d/1IjxLeNuF58-lL-aHCAbpliap6qUuTR7UMEPAaYHaBHg/preview)**, [Mail.mjj](https://mail.mjj.edu.ge/) or [10MinMail](https://10minutesemail.net/) - EDU Email Address'
+* ⭐ **[.edu Mail Guide](https://docs.google.com/document/d/1IjxLeNuF58-lL-aHCAbpliap6qUuTR7UMEPAaYHaBHg/preview)** or [10MinMail](https://10minutesemail.net/) - EDU Email Address'
 * [nosms](https://rentry.co/nosms) - Create Infinite Gmail Accounts
 * [Delta Chat](https://delta.chat/en/) - Email Based Messenger
 * [Postsack](https://github.com/terhechte/postsack) - Email Visualizer
