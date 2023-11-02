@@ -162,7 +162,7 @@
 
 * 🌐 **[Awesome Food](https://github.com/jzarca01/awesome-food)** - Cooking Resources
 * 🌐 **[/m/food](https://www.reddit.com/user/Siryonkee/m/food/)** - Food Multireddit
-* 🌐 **[Worlds 50 Best Restaurants](https://www.theworlds50best.com/list/1-50)** - Top Restaurants List
+* 🌐 **[50 Best Restaurants](https://www.theworlds50best.com/list/1-50)** or [MapOfTheBest](https://mapofthebest.com/) - Top Restaurant Lists
 * ↪️ **[General Recipe Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_general_recipes)**
 * ↪️ **[Food Nutrition Scanners](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_nutrition_.2F_ingredients)**
 * ↪️ **[Food Storage Tips](https://i.redd.it/qmcas4yuc2w81.png)** / [2](https://i.ibb.co/SKq3GT7/ca6f633c898b.png)
@@ -398,7 +398,7 @@
 * ⭐ **[Parkopedia](https://www.parkopedia.com/)** - Car Parking Locations and Prices
 * ⭐ **[Refuge Restrooms](https://www.refugerestrooms.org/)** - Find Public Restrooms
 * [Best Times to Visit](https://www.thebesttimetovisit.com/) - Find Best Times to Visit Countries
-* [Roadside America](https://www.roadsideamerica.com/) or [MakeMyDriveFun](https://makemydrivefun.com/) - Roadside Attraction Guides
+* [Roadside America](https://www.roadsideamerica.com/), [RoadTrippers](https://roadtrippers.com/) or [MakeMyDriveFun](https://makemydrivefun.com/) - Roadside Attraction Guides
 * [TheSalmons](https://www.thesalmons.org/lynn/whgmap.html) or [World Heritage Sites](https://world-heritage.mapspot.co/) - World Heritage Sites
 * [SongKick](https://www.songkick.com/) or [FindYourFest](https://www.findyourfest.com/) - Concerts / Music Festival Search
 * [AnimeCons](https://animecons.com/) - Find Anime Conventions
@@ -413,8 +413,8 @@
 * [SkyVector](https://skyvector.com/) - Flight Planner
 * [WikiRoutes](https://wikiroutes.info/) - Public Transport Routes
 * [MiniTokyo3D](https://minitokyo3d.com/) - Tokyo Public Transport Map
+* [SitInShade](https://sitinshade.com/) - Avoid the Sun While Traveling
 * [MetroOrbits](https://mic-ro.com/metro/index.html) - Subway Maps / Data
-* [ChronoTrains](https://chronotrains-eu.vercel.app/) - European Trains Distances
 * [The International Dialects of English Archive](https://www.dialectsarchive.com/globalmap) - Dialect Map
 * [JoinUS World](https://www.joinusworld.org/) - Korean Culture Q&A Site
 * [WorldStandards](https://www.worldstandards.eu/) - World Electricity and Driving Standards 
@@ -482,7 +482,8 @@
 * [Terrain Party](https://terrain.party/) - Terrain Height Map
 * [PeakFinder](https://www.peakfinder.org/) - Mountain Maps
 * [topo maps](https://onlinetopomaps.net/) - Topographic Maps
-* [OpenRailwayMap](https://www.openrailwaymap.org/) - Railway Map
+* [OpenRailwayMap](https://www.openrailwaymap.org/) or [AmtrakExplorer](https://amtrakexplorer.com/) - Railway Maps
+* [ChronoTrains](https://chronotrains-eu.vercel.app/) - European Trains Distances
 * [AbandonedRails](https://www.abandonedrails.com/) - Abandoned Railway Map
 * [Earth](https://earth.nullschool.net/) - Global Map of Wind, Weather, Ocean & Pollution Conditions
 * [Blitzortung](https://www.blitzortung.org/en/live_lightning_maps.php) - Thunderstorm and Lightning Maps
