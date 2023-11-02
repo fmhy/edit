@@ -13,7 +13,7 @@
 
 * ↪️ **[Telegram Audiobooks Channels](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_telegram_audiobook_downloads)**
 * ⭐ **[Mobilism Audiobooks](https://forum.mobilism.org/viewforum.php?f=124)**
-* ⭐ **[Audiobook Bay](https://audiobookbay.li/)**, [2](https://audiobookbay.se/) - Torrents / Avoid Fake DL links, Use [Torrents / Magnets](https://i.ibb.co/8sV2061/0fa8159b11bb.png)
+* ⭐ **[Audiobook Bay](https://audiobookbay.is/)** - Torrents / Avoid Fake DL links, Use [Torrents / Magnets](https://i.ibb.co/8sV2061/0fa8159b11bb.png)
 * ⭐ **[Tokybook](https://tokybook.com/)** - Listen Online
 * ⭐ **[Top 1000 Audiobooks](https://github.com/nbats/FMHYedit/blob/main/base64.md#audiobook-megadrive)** - Audiobooks / Drive
 * ⭐ **[Audiobook CSE](https://cse.google.com/cse?cx=006516753008110874046:cwbbza56vhd)** or **[Rave Search](https://ravebooksearch.com/index-audiobooks)** - Multi-Site Audiobook Search
@@ -336,7 +336,7 @@
 
 * 🌐 **[IvyPanda](https://ivypanda.com/blog/1000-open-textbooks-and-learning-resources-for-all-subjects/)** - Educational Book Site Index
 * 🌐 **[Awesome AI](https://github.com/owainlewis/awesome-artificial-intelligence#free-content)** - Artificial Intelligence Books
-* ↪️ **[Math and Physics Books](https://github.com/nbats/FMHYedit/blob/main/base64.md#math-and-physics-books)** - [Discord](https://discord.gg/v23hTtx)
+* ↪️ **[Math and Physics Books](https://github.com/nbats/FMHYedit/blob/main/base64.md#math-and-physics-books)**
 * ↪️ **[Language Learning Resources](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/tools-misc#wiki_.25B7_language_learning)**
 * ⭐ **[MyAnonaMouse](https://www.myanonamouse.net/)** - [Interviews](https://www.myanonamouse.net/inviteapp.php)
 * ⭐ **[AcademicTorrents](https://academictorrents.com/)**
@@ -1055,6 +1055,7 @@
 * [Magzter](https://www.magzter.com/top-free-magazines)
 * [FlipHTML5](https://fliphtml5.com/exploring)
 * [MagDownload](https://magdownload.org/)
+* [WholeEarth](https://wholeearth.info/) - Whole Earth Science Magazines
 * [Lainzine](https://lainzine.org/) - Lain-inspired Magazine
 * [Retromags](https://www.retromags.com/) or [Annarchive](https://www.annarchive.com/) - Retro Game Magazines
 * [PC Zone](https://pixsoriginadventures.co.uk/PCZone/) - PC Zone Magazines
