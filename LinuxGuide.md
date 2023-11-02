@@ -29,7 +29,7 @@
 * [zentile](https://github.com/blrsn/zentile) or [bspwm](https://github.com/baskerville/bspwm) - Tiling Windows Manager / [Sub](https://www.reddit.com/r/bspwm/) / [Binds](https://github.com/baskerville/sxhkd)
 * [Material Shell](https://material-shell.com/) or [Forge](https://github.com/forge-ext/forge) - GNOME Tiling Extension
 * [Bismuth](https://bismuth-forge.github.io/bismuth/) - KDE Tiling Extension / [GitHub](https://github.com/Bismuth-Forge/bismuth)
-* [Ghostwriter](https://ghostwriter.kde.org/) or [Remarkable](http://remarkableapp.github.io/) - Markdown Editor
+* [Ghostwriter](https://ghostwriter.kde.org/) or [Remarkable](https://remarkableapp.github.io/) - Markdown Editor
 * [Gedit](https://wiki.gnome.org/Apps/Gedit), [Geany](https://www.geany.org/), [Leafpad](http://tarot.freeshell.org/leafpad/), [NotepadNext](https://github.com/dail8859/NotepadNext), [Featherpad](https://github.com/tsujan/FeatherPad), [Mousepad](https://github.com/codebrainz/mousepad) or [Notepadqq](https://notepadqq.com/) - Text Editor
 * [Whatever](https://github.com/sbrshk/whatever) - Evernote Client
 * [TextPieces](https://github.com/liferooter/textpieces) - Quick Text Transformations
@@ -45,7 +45,7 @@
 * [Meteo](https://gitlab.com/bitseater/meteo) - Weather App
 * [Client Evolution](https://help.gnome.org/users/evolution/stable/) - Calendar
 * [todo](https://github.com/sioodmy/todo/) or [pls-cli](https://github.com/guedesfelipe/pls-cli) - To-Do Apps
-* [SafeEyes](http://slgobinath.github.io/SafeEyes/) - Break Reminders
+* [SafeEyes](https://slgobinath.github.io/SafeEyes/) - Break Reminders
 * [Dijo](https://github.com/NerdyPepper/dijo) - Activity Tracker
 * [dunst](https://dunst-project.org/) - Customizable Notification Daemon / [GitHub](https://github.com/dunst-project/dunst)
 * [Breathing](https://github.com/SeaDve/Breathing) - Relaxation / Breathing Tool
@@ -87,7 +87,7 @@
 * ⭐ **[mpv](https://mpv.io/)** - Video Player / [Frontend](https://github.com/celluloid-player/celluloid)
 * [Gromit MPX](https://github.com/bk138/gromit-mpx) - Screen Annotation
 * [Plumber](https://github.com/keshavbhatt/plumber) - Screen Recorder / Clipping
-* [AV Linux](http://www.bandshed.net/avlinux/) - Video / Audio Editor
+* [AV Linux](https://www.bandshed.net/avlinux/) - Video / Audio Editor
 * [Flowblade](https://github.com/jliljebl/flowblade) - Video Editor
 * [Peek](https://github.com/phw/peek) - Simple Video / GIF recorder
 * [Linux-Fake-Background-Webcam](https://github.com/fangfufu/Linux-Fake-Background-Webcam/) - Fake Webcam Background
@@ -109,7 +109,7 @@
 * [SongRec](https://github.com/marin-m/SongRec) - Song Identifier
 * [Pipewire](https://wiki.archlinux.org/title/PipeWire#Noise_suppression_for_voice) or [NoiseTorch](https://github.com/noisetorch/NoiseTorch) - Noise Suppression Software
 * [Qtractor](https://qtractor.org/) - Audio Editor
-* [Ecasound](http://nosignal.fi/ecasound/), [Viper4Linux](https://github.com/Audio4Linux/Viper4Linux) / [GUI](https://github.com/Audio4Linux/Viper4Linux-GUI) or [JDSP4Linux](https://github.com/Audio4Linux/JDSP4Linux) - Audio Processors 
+* [Viper4Linux](https://github.com/Audio4Linux/Viper4Linux) / [GUI](https://github.com/Audio4Linux/Viper4Linux-GUI) or [JDSP4Linux](https://github.com/Audio4Linux/JDSP4Linux) - Audio Processors 
 * [Parlatype](https://www.parlatype.org/) - Audio Transcription
 * [cava](https://github.com/karlstav/cava) - Console Audio Visualizer
 * [CasterSoundboard](https://github.com/JupiterBroadcasting/CasterSoundboard) - Soundboard
@@ -120,7 +120,6 @@
 
 * [photoshopCClinux](https://github.com/Gictorbit/photoshopCClinux) - Linux Photoshop Installer
 * [V4L2Loopback](https://github.com/umlaeute/v4l2loopback) - Create Virtual Cameras
-* [Xara Xtreme](http://www.xaraxtreme.org/) - Image Editor
 * [Drawing](https://github.com/maoschanz/drawing) - Drawing App
 * [TextSnatcher](https://github.com/RajSolai/TextSnatcher) or [Frog](https://tenderowl.com/work/frog/) - Image to Text
 * [Feh](https://feh.finalrewind.org/) or [NSXIV](https://github.com/nsxiv/nsxiv) - Image Viewer
@@ -189,7 +188,7 @@
 
 * ⭐ **[SpoofDPI](https://github.com/xvzc/SpoofDPI)**, [zapret](https://github.com/bol-van/zapret) or **[PowerTunnel](https://github.com/krlvm/PowerTunnel)** - DPI circumvention
 * ⭐ **[Librewolf Linux](https://librewolf.net/)**/ [2](https://aur.archlinux.org/packages/firedragon) / [3](https://forum.garudalinux.org/t/firedragon-librewolf-fork/5018) or [Dot Browser](https://github.com/dothq/browser) - Privacy-Based Browser
-* ⭐ **[SpotX-Bash](https://github.com/jetfir3/SpotX-Bash)**, [spotify-adblock](https://github.com/abba23/spotify-adblock) or [SpotifyNoPremium](https://github.com/Daksh777/SpotifyNoPremium)  - Spotify Adblockers
+* ⭐ **[SpotX-Bash](https://github.com/jetfir3/SpotX-Bash)**, [spotify-adblock](https://github.com/abba23/spotify-adblock) or [SpotifyNoPremium](https://github.com/Daksh777/SpotifyNoPremium) - Spotify Adblockers
 * [The Practical Linux Hardening Guide](https://github.com/trimstray/the-practical-linux-hardening-guide), [Linux Hardening](https://vez.mrsk.me/linux-hardening.html) / [2](https://madaidans-insecurities.github.io/guides/linux-hardening.html) or [How to Secure a Linux Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server) - Linux Hardening Guides
 * [JShielder](https://github.com/Jsitech/JShielder) - Hardening Script for Linux Servers
 * [SShuttle](https://github.com/sshuttle/sshuttle) - Proxy
@@ -201,7 +200,7 @@
 * [Tracee](https://github.com/aquasecurity/tracee) - Runtime Security and Forensics
 * [Mofolinux](https://mofolinux.com/), [Tails](https://tails.boum.org/) or [Kodachi](https://www.digi77.com/linux-kodachi/) - Privacy-Based Operating System
 * [OpenVPN Wrapper](https://github.com/slingamn/namespaced-openvpn) - VPN Tunnel
-* [Openconnect VPN Server](http://ocserv.gitlab.io/www/index.html) - Linux SSL VPN Server
+* [Openconnect VPN Server](https://ocserv.gitlab.io/www/index.html) - Linux SSL VPN Server
 * [arch-delugevpn](https://github.com/binhex/arch-delugevpn) - Docker with Torrent client and VPN on Arch Linux base
 * [wireguird](https://github.com/UnnoTed/wireguird) - GUI For Wireguard
 * [Howdy](https://github.com/boltgolt/howdy) - Linux Facial Authentication
@@ -309,7 +308,7 @@
 * [rtinst](https://github.com/arakasi72/rtinst) - Seedbox Installation Script for Ubuntu / Debian
 * [SeedSync](https://github.com/ipsingh06/seedsync) - Sync your Seedbox
 * [GNU Social](https://gnusocial.network/) - Self-Hosted Social Networking Platform
-* [Hexchat](https://hexchat.github.io/), [Adium](https://adium.im/), [Polari](https://wiki.gnome.org/Apps/Polari), [Irssi](https://github.com/irssi/irssi), [KVIrc](http://www.kvirc.net/) or [Weechat](https://weechat.org/) - IRC Clients
+* [Hexchat](https://hexchat.github.io/), [Adium](https://adium.im/), [Polari](https://wiki.gnome.org/Apps/Polari), [Irssi](https://github.com/irssi/irssi), [KVIrc](https://www.kvirc.net/) or [Weechat](https://weechat.org/) - IRC Clients
 * [gurk-rs](https://github.com/boxdot/gurk-rs) - Signal Client
 * [Ghetto Skype](https://github.com/stanfieldr/ghetto-skype) - Video / Chat Client
 * [YouTube-Viewer](https://github.com/trizen/youtube-viewer) - YouTube Linux Client / [Fork](https://github.com/trizen/pipe-viewer) 
@@ -341,7 +340,7 @@
 * [Boxxy](https://github.com/queer/boxxy) - Contain Files / Directories 
 * [Junction](https://github.com/sonnyp/Junction) - Change File Associations
 * [Krename](https://apps.kde.org/en-gb/krename/) - Bulk File Renamer
-* [FSLint](http://www.pixelbeat.org/fslint/) or [fclones](https://github.com/pkolaczk/fclones) - Duplicate File Finder
+* [FSLint](https://www.pixelbeat.org/fslint/), [Czkawka](https://qarmin.github.io/czkawka/) or [fclones](https://github.com/pkolaczk/fclones) - Duplicate File Finder
 * [rcm](https://github.com/thoughtbot/rcm) - Manage Dotfiles
 * [Zathura](https://git.pwmt.org/pwmt) - Document Viewer
 * [PDF Mix](https://scarpetta.eu/pdfmixtool/) - PDF Editor
@@ -361,7 +360,7 @@
 * [Gum](https://github.com/charmbracelet/gum) - Shell Script Creator
 * [ShellCheck](https://www.shellcheck.net/) - Shell Script Bug Check
 * [shell-scripting-tutorial](https://github.com/techarkit/shell-scripting-tutorial) - Shell Scripting Tutorial
-* [Tree](http://mama.indstate.edu/users/ice/tree/) - Directory Listing Command
+* [Tree](https://mama.indstate.edu/users/ice/tree/) - Directory Listing Command
 * [Command Line Guide](https://github.com/jlevy/the-art-of-command-line) or [LinuxCommand](https://www.linuxcommand.org/tlcl.php) - Command-Line Lessons
 * [ss64 Bash](https://ss64.com/bash/) or [Bash Oneliner](https://github.com/onceupon/Bash-Oneliner) - Linux Bash Commands
 * [Bash Crawl](https://gitlab.com/slackermedia/bashcrawl) - Linux Command Learning Game
@@ -469,7 +468,7 @@
 * [ViennaRSS](https://www.vienna-rss.com/) - RSS Feed Reader
 * [Dialect](https://github.com/dialect-app/dialect) - Translator
 * [Aiko](https://sindresorhus.com/aiko) - Audio Transcription
-* [Drafts](https://getdrafts.com/), [CotEditor](https://coteditor.com/), [TextMate](https://macromates.com/), [Nebo](https://apps.apple.com/us/app/nebo-notes-pdf-annotations/id1119601770), [Kyun](https://github.com/file-acomplaint/kyun), [FSNotes](https://fsnot.es/) or [Voodoopad](http://www.voodoopad.com/) - Text Editors
+* [Drafts](https://getdrafts.com/), [CotEditor](https://coteditor.com/), [TextMate](https://macromates.com/), [Nebo](https://apps.apple.com/us/app/nebo-notes-pdf-annotations/id1119601770), [Kyun](https://github.com/file-acomplaint/kyun), [FSNotes](https://fsnot.es/) or [Voodoopad](https://www.voodoopad.com/) - Text Editors
 * [Taskpaper](https://www.taskpaper.com/) - To-Do Apps
 * [Stroke](https://stroke.lllllllllllllllll.com/) - Text (You Can't Delete) Editor
 * [BibDesk](https://bibdesk.sourceforge.io/) - Bibliography Manager
@@ -559,7 +558,7 @@
 * 🌐 **[Mac Menu Bar](https://macmenubar.com/)** - Menu Bar App Index
 * ⭐ **[AppsTorrent](https://appstorrent.ru/)** / Use [Translator](https://github.com/FilipePS/Traduzir-paginas-web#install)
 * ⭐ **[Homebrew](https://brew.sh/)** or [AppLite](https://aerolite.dev/applite/index.html) - Package Managers
-* [Macintosh Garden](http://macintoshgarden.org/)
+* [Macintosh Garden](https://macintoshgarden.org/)
 * [nMac](https://nmac.to/)
 * [MacBed](https://www.macbed.com/)
 * [Pure Mac](https://www.pure-mac.com/)
