@@ -275,7 +275,7 @@
 # ► Health
 
 * 🌐 **[Awesome Mental Health](https://github.com/dreamingechoes/awesome-mental-health)** or [mentalillnessmouse](https://mentalillnessmouse.wordpress.com/helpfulresources/) - Mental Health Resources
-* 🌐 **[Evidence Based Training Wiki](https://www.reddit.com/r/EvidenceBasedTraining/wiki/index/) - Evidence Based Muscle Hypertrophy/Weight Loss Guide
+* 🌐 **[Evidence Based Training Wiki](https://www.reddit.com/r/EvidenceBasedTraining/wiki/index/) - Evidence-Based Training Resources
 * ↪️ **[Health News](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_health_news)**
 * ↪️ **[Food Nutrition Scanners](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_nutrition_.2F_ingredients)**
 * ⭐ **[/r/Nutrition](https://www.reddit.com/r/nutrition/)** - Nutrition Subreddit
@@ -330,7 +330,7 @@
 * [MyFitnessPal](https://www.myfitnesspal.com/) - Fitness / Health App
 * [FitoTrack](https://codeberg.org/jannis/FitoTrack) or [openScale](https://github.com/oliexdev/openScale) - Fitness Trackers
 * [Liftosaur](https://www.liftosaur.com/) - Weight Lifting Tracker / [GitHub](https://github.com/astashov/liftosaur)
-* [MuscleWiki](https://musclewiki.com/) - Muscle / Exercise Information Tool 
+* [MuscleWiki](https://musclewiki.com/) - Muscle / Exercise Information Tool
 * [SPSS Tutorials](https://www.spss-tutorials.com/) - SPSS Practice & Examples
 * [Fitness Blender](https://www.fitnessblender.com/videos?exclusive%5B%5D=0) - Workout Videos
 * [Fitocracy](https://www.fitocracy.com/) or [Workout.lol](https://workout.lol/) - Create Workout Plans
