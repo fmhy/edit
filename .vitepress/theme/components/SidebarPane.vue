@@ -8,9 +8,9 @@ import Modal from "./Modal.vue";
     <div class="card-header">
       <div class="card-title">Emoji Legend</div>
     </div>
-    <Field icon="i-twemoji-star">Community Recommendations</Field>
-    <Field icon="i-twemoji-globe-with-meridians">3rd Party Indexes</Field>
-    <Field icon="i-twemoji-repeat-button">Storage Page Links</Field>
+    <Field icon="i-twemoji-star">Recommendations</Field>
+    <Field icon="i-twemoji-globe-with-meridians">Indexes</Field>
+    <Field icon="i-twemoji-repeat-button">Storage Links</Field>
     <Modal />
   </div>
 </template>
