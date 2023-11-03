@@ -83,7 +83,7 @@ export default defineConfig({
       { text: "🔧 Tools", link: "/toolsguide" },
       { text: "📷 Image Tools", link: "/img-tools" },
       { text: "👨‍💻 Developer Tools", link: "/devtools" },
-      { text: "📱 Android / iOS", link: "/Android-iosguide" },
+      { text: "📱 Android / iOS", link: "/android-iosguide" },
       { text: "🐧 Linux / MacOS", link: "/linuxguide" },
       { text: "🌍 Non-English", link: "/non-english" },
       { text: "📂 Miscellaneous", link: "/miscguide" },
