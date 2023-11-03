@@ -1558,6 +1558,7 @@
 
 ## ▷ Streaming
 
+* 🌐 **[El Bucanero del Deporte](https://deportebucanero.wordpress.com/)** - Sports Piracy Directory
 * ⭐ **[HDFull](https://dominioshdfull.com/)** - Movies / TV / Anime / 1080p / [Discord](https://discord.gg/BRKCXEe)
 * ⭐ **[Playdede](https://dominiosplaydede.com/)** - Movies / TV / Anime / 1080p / [Telegram](https://t.me/s/playdedeinformacion)
 * ⭐ **[Kodi Addon "Cristal Azul"](https://rentry.co/kodi-addon-cristal-azul/)** - Movies / TV / Live Sports / Castilian / [Telegram](https://t.me/addonfestaycristal/)
@@ -1628,7 +1629,6 @@
 * [Edutin Academy](https://edutin.com/) - Courses
 * [Tele Gratis Online](https://telegratis.online/) - Live TV
 * [Television Gratis](https://www.televisiongratishd.com/) - Live TV / Latino
-* [El Bucanero del Deporte](https://deportebucanero.wordpress.com/) - Sports Piracy Directory
 * [Flipax](https://flipax.es/) - Live Sports
 * [MaxTV](https://maxtv.one/), [2](https://maxtv.city/) - Live Sports / [Telegram](https://t.me/s/maxtvweb)
 * [LaCasadelTikiTaka](https://www.lacasadeltikitaka.net/) - Live Soccer / MMA
