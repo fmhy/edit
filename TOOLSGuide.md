@@ -1176,7 +1176,7 @@
 * [Slackmoji](https://github.com/seanprashad/slackmoji), [DiscordFreeEmojis](https://github.com/An00nymushun/DiscordFreeEmojis), [emoji.gg](https://emoji.gg/) - Discord Emojis
 * [Emote Manager](https://github.com/joyn-gg/EmoteManager) - Custom Discord Emoji Manager 
 * [Discord Emoji Downloader](https://thatiemsz.github.io/Discord-Emoji-Downloader/) - Discord Emoji Downloaders
-* [Snowsgiving Icons & Emotes](https://cdn.discordapp.com/attachments/689605845058715801/862281806820278292/Snow.zip) - Snowsgiving Event Icons & Emojis
+* [Snowsgiving Icons & Emotes](https://web.archive.org/web/20230729100139/https://cdn.discordapp.com/attachments/689605845058715801/862281806820278292/Snow.zip) - Snowsgiving Event Icons & Emojis
 * [6gk Turtles](https://github.com/6gk/turtles) - Discord Turtle Emojis
 * [DiscordFreeStickers](https://github.com/An00nymushun/DiscordFreeStickers) or [Stickers.gg](https://stickers.gg) - Free Discord Stickers
 * [Discord Downloader Go](https://github.com/get-got/discord-downloader-go) - Discord File Downloaders

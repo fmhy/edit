@@ -249,7 +249,7 @@
 * [Vivek9Patel](https://vivek9patel.github.io/) - Run Ubuntu on Browser / [GitHub](https://github.com/vivek9patel/vivek9patel.github.io)
 * [Boxes](https://wiki.gnome.org/Apps/Boxes) - Virtual Machine Manager
 * [Linux-KVM](https://www.linux-kvm.org/page/Downloads) - Kernel-Based Virtual Machine
-* [Ubuntu VNC](https://cdn.discordapp.com/attachments/787671932957884416/787672107848302612/guicolab.ipynb) - Free Ubuntu VNC
+* [Ubuntu VNC](https://web.archive.org/web/20230729065457/https://cdn.discordapp.com/attachments/787671932957884416/787672107848302612/guicolab.ipynb) - Free Ubuntu VNC
 * [OSX-KVM](https://github.com/kholia/OSX-KVM), [OneClick-macOS-Simple-KVM](https://github.com/notAperson535/OneClick-macOS-Simple-KVM) or [macOS-Simple-KVM](https://github.com/foxlet/macOS-Simple-KVM) - MacOS Virtual
 * [RockstarKernel_WSL2](https://github.com/Dhruvgera/RockstarKernel_WSL2) - Windows Subsystem Kernel
 * [kmon](https://kmon.cli.rs/) - Kernel Manager and Activity Monitor
