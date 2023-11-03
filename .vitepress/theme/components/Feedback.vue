@@ -45,7 +45,10 @@ async function handleSubmit(type?: string) {
   try {
     const response = await fetch("https://fmhy.vercel.app/api/feedback", {
       method: "POST",
-      body: JSON.parse(body),
+        headers: {
+          "Content-Type": "application/json",
+        },
+        body: JSON.stringify(body), 
     });
 
     const data = await response.json();
