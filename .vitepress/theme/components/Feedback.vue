@@ -5,13 +5,14 @@ interface Feedback {
   message: string;
   feedbackType?: string;
   contactEmail?: string;
+  anonymous: boolean
 }
 
 const loading = ref(false);
 const error = ref<unknown>(null);
 const success = ref(false);
 
-const feedback = reactive<Feedback>({ message: "", contactEmail: "" });
+const feedback = reactive<Feedback>({ message: "", anonymous: false,contactEmail: "" });
 
 const feedbackOptions = [
   { label: "🐞 Bug", value: "bug" },
@@ -37,6 +38,7 @@ async function handleSubmit(type?: string) {
   const body: Feedback = {
     message: feedback.message,
     feedbackType: feedback.feedbackType,
+    anonymous: feedback.anonymous,
     contactEmail: feedback.contactEmail,
   };
 
