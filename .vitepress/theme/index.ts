@@ -5,7 +5,7 @@ import Sidebar from "./components/SidebarPane.vue";
 import "./style.css";
 import "uno.css";
 
-if (inBrowser) import("./pwa");
+// if (inBrowser) import("./pwa");
 
 export default {
   Layout: () => {
@@ -13,5 +13,5 @@ export default {
       "sidebar-nav-before": () => h(Sidebar),
     });
   },
-  enhanceApp({ app, router, siteData }) {},
+  enhanceApp({ app, router, siteData }) { },
 } satisfies Theme;
