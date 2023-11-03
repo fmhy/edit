@@ -42,7 +42,7 @@ async function handleSubmit(type?: string) {
   };
 
   try {
-    const response = await fetch("/api/feedback", {
+    const response = await fetch("https://fmhy.vercel.app/api/feedback", {
       method: "POST",
       body: JSON.stringify(body),
     });
@@ -72,11 +72,7 @@ async function handleSubmit(type?: string) {
           </div>
         </div>
         <div class="button-container">
-          <button
-            v-for="item in feedbackOptions"
-            :key="item.value"
-            class="btn"
-            @click="handleSubmit(item.value)">
+          <button v-for="item in feedbackOptions" :key="item.value" class="btn" @click="handleSubmit(item.value)">
             <span>{{ item.label }}</span>
           </button>
         </div>
@@ -86,11 +82,8 @@ async function handleSubmit(type?: string) {
           <p class="desc">The wiki is...</p>
           <div>
             <span>{{ getFeedbackOption(feedback.feedbackType)?.label }}</span>
-            <button
-              style="margin-left: 0.5rem"
-              class="btn"
-              @click="feedback.feedbackType = undefined">
-              <span class="i-carbon-close">close</span>
+            <button style="margin-left: 0.5rem" class="btn" @click="feedback.feedbackType = undefined">
+              <span class="i-carbon-close-large">close</span>
             </button>
           </div>
         </div>
@@ -107,7 +100,7 @@ async function handleSubmit(type?: string) {
 </template>
 
 <style scoped>
-.step > * + * {
+.step>*+* {
   margin-top: 1rem;
 }
 
@@ -182,11 +175,6 @@ async function handleSubmit(type?: string) {
   color: var(--vp-c-text-2);
 }
 
-@media screen and (min-width: 768px) {
-  .button-container {
-    grid-template-columns: repeat(4, 1fr);
-  }
-}
 
 .fade-enter-active,
 .fade-leave-active {
