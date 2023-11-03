@@ -43,7 +43,7 @@ async function handleSubmit(type?: string) {
   };
 
   try {
-    const response = await fetch("https://fmhy.vercel.app/api/feedback", {
+    const response = await fetch("https://fmhy.tk/api/feedback", {
       method: "POST",
       body: JSON.stringify(body),
     });
