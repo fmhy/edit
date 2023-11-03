@@ -13,6 +13,7 @@ def replaces_for_beginners_guide(text):
     text = re.sub('\*\*\[\^ Back to Top\]\(#beginners-guide-to-piracy\)\*\*', '', text, flags=re.MULTILINE)
     text = re.sub(r"!!!\s(.+?)\n", r":::info\n\1\n:::\n", text, flags=re.MULTILINE)
     text = re.sub("\n\*\*\[", "\n* **[", text, flags=re.MULTILINE)
+    text = re.sub(r'>(.*)\n\n(.*)', r':::details \1\n\2\n:::', text, flags=re.MULTILINE)
     return text
 
 def do_some_individual_replaces(text):
