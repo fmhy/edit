@@ -200,7 +200,7 @@
 * ↪️ **[Live Stream Managers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_live_stream_managers)**
 * ⭐ **[MKVToolNix](https://mkvtoolnix.download/)** - MKV Editing Tools
 * ⭐ **[Codecs and Containers List](https://www.reddit.com/r/VideoEditing/wiki/codecsandcontainers)**
-* ⭐ **[Video Encoding Guide](https://sometimes-archives-things.github.io/archived-things/)**, [2](https://encoding-guide.neocities.org/) - Learn how to Encode Videos
+* ⭐ **[Video Encoding Guide](https://sometimes-archives-things.github.io/archived-things/)**, [2](https://encoding-guide.neocities.org/) or [Disc Rip](https://rentry.org/disc-rip) - Learn how to Rip / Encode Videos
 * ⭐ **[Basics to the Art of Remuxing](https://rentry.co/Remuxing)** or [fs927](https://rentry.org/fs927) - Learn how to Remux Videos
 * ⭐ **[EyeCndy](https://eycndy.co/)** - Visual Technique Library
 * ⭐ **[PlayPhrase](https://playphrase.me/)**, [ClipBase](https://clipbase.xyz/), [Filmot](https://filmot.com/) or [Yarn](https://yarn.co/) / [2](https://getyarn.io/) - Internet Clip Quote Search
@@ -1189,7 +1189,7 @@
 * [DiscordFS](https://github.com/dhrumilp15/haystackfs) - Discord File Search
 * [DeepL](https://github.com/aisuzuki/dd-bot) - Discord Chat Auto Translator
 * [FixTweet](https://github.com/FixTweet/FixTweet) or [discord-twitter-bot](https://github.com/NNTin/discord-twitter-bot) - Fix Discord Twitter Embeds
-* [PreMiD](https://premid.app/) - Display Web Activity in Discord Status / [Github](https://github.com/PreMiD/PreMiD)
+* [PreMiD](https://premid.app/) - Display Web Activity in Discord Status / [Github](https://github.com/PreMiD/PreMiD) / [Discord](https://discord.premid.app/)
 * [Alternatives to MEE6](https://alternativestomee6.com/) - [Discord](https://discord.gg/WrbMdWHfNd)
 * [Divider Generator](https://jsfiddle.net/Davri/wf49xnob/159/) - Create Discord Role Dividers Discord Role
 * [MonitoRSS](https://monitorss.xyz/), [2](https://github.com/synzen/MonitoRSS-Clone) - RSS Discord Bot
@@ -2090,7 +2090,7 @@
 * [Corrupt My File](https://www.corruptmyfile.com/) or [Corrupt-A-File](https://corrupt-a-file.net/) - Intentionally Corrupt your Files
 * [Minissign](https://jedisct1.github.io/minisign/) - Sign and Verify Signatures
 * [HashCheck](https://github.com/idrassi/HashCheck), [DeadHash](https://github.com/CodeDead/DeadHash-js), [Hashing](https://github.com/hellzerg/hashing) or [OpenHashTab](https://github.com/namazso/OpenHashTab) - Calculate / Check File Hashes
-* [QuickSFV](https://quicksfv.org/), [RapidCRC](https://rapidcrc.sourceforge.net/) or [QuickDash](https://github.com/iamtakingithard/QuickDash) - File Hashing / Verification Tools
+* [QuickSFV](https://quicksfv.org/) or [RapidCRC](https://rapidcrc.sourceforge.net/) - File Hashing / Verification Tools
 * [Samsung Firmware Magic](https://github.com/chrivers/samsung-firmware-magic) - Decrypt Samsung SSD Firmware Files
 * [Hashes](https://hashes.com/) - Decrypt Hashes
 * [MD5 Hash Changer](https://github.com/ewwink/MD5-Hash-Changer) - Change a Files MD5 Hash
