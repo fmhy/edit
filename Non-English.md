@@ -1017,7 +1017,7 @@
 
 # ► Polish
 
-* 🌐 **[StreamBase](https://rentry.co/streambase)** - Piracy Index / [Discord](https://discord.gg/ZmUTrX6axg)
+* 🌐 **[StreamBase](https://rentry.co/streambase)** - Piracy Index
 * [Sport TVP](https://sport.tvp.pl/) - Sports News
 
 ## ▷ Downloading
@@ -1474,6 +1474,7 @@
 * 🌐 **[Awesome Telegram Redcarpet](https://listados.gitlab.io/awesome-telegram-redcarpet/)**, [2](https://gitlab.com/listados/awesome-telegram) - Telegram Channel Index
 * [Minijuegos](https://www.minijuegos.com/) - Browser Games
 * [EmojiTool](https://emojitool.com/) - Emoji Database
+* [TheToolBox](https://thetoolbox.es/) - Websites Index
 * [AIfindy](https://aifindy.com/) - AI Tools Index
 * [ElHacker](https://wiki.elhacker.net/) - Security Guides
 * [Diccionario RAE en un clic](https://chrome.google.com/webstore/detail/diccionario-rae-en-un-cli/gejdeepcjkfbepfkcfdgiodgoglakiii) - Dictionary Extension

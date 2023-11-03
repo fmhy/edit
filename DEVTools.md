@@ -16,7 +16,6 @@
 * ⭐ **[QuickRef.me](https://quickref.me/)**, [Dark Hamster](https://www.dark-hamster.com/) or [Devhints](https://devhints.io/) - Developer Cheat Sheets
 * ⭐ **[30 Seconds of Code](https://www.30secondsofcode.org/)** or [HTML-Dom](https://phuoc.ng/collection/html-dom/) - Find Code Snippets
 * [Lepton](https://hackjutsu.com/Lepton/) or [Pieces](https://pieces.app/) - Code Snippet Managers
-* [Google Cloud Developer's Cheat Sheet](https://googlecloudcheatsheet.withgoogle.com/) - Google Cloud Developer Cheat Sheet / [GitHub](https://github.com/priyankavergadia/google-cloud-4-words)
 * [Algorithms-Cheatsheet-Resources](https://github.com/starkblaze01/Algorithms-Cheatsheet-Resources) - Code Algorithm Cheat Sheets
 * [Python Cheatsheet](https://github.com/gto76/python-cheatsheet) or [SpeedSheet](https://speedsheet.io/) - Python Cheat Sheet
 * [cppreference](https://en.cppreference.com/w/) - C++ Cheat Sheets
@@ -174,7 +173,7 @@
 ## ▷ Data Structures
 
 * ⭐ **[Leetcode](https://leetcode.com/)** - Coding Practice
-* ⭐ **Leetcode Tools** - [Discord](https://discord.com/invite/vAPMSZ5UwG) / [Solutions](https://walkccc.me/LeetCode/), [2](https://leetcode.ca/) / [Company Questions](https://github.com/MysteryVaibhav/leetcode_company_wise_questions), [2](https://docs.google.com/document/d/1icaNSRq6XcWO3EOycEP9F9P8SLerBanpY3Ni_ZzCfFA/edit) / [Animations](https://github.com/MisterBooo/LeetCodeAnimation) / [Anki Cards](https://github.com/fspv/leetcode-anki) / [Videos](https://github.com/fishercoder1534/Leetcode)
+* ⭐ **Leetcode Tools** - [Solutions](https://walkccc.me/LeetCode/), [2](https://leetcode.ca/) / [Company Questions](https://github.com/MysteryVaibhav/leetcode_company_wise_questions), [2](https://docs.google.com/document/d/1icaNSRq6XcWO3EOycEP9F9P8SLerBanpY3Ni_ZzCfFA/edit) / [Animations](https://github.com/MisterBooo/LeetCodeAnimation) / [Anki Cards](https://github.com/fspv/leetcode-anki) / [Videos](https://github.com/fishercoder1534/Leetcode)
 * [algorithms](https://prashantbarahi.com.np/docs/algorithms/intro) - Code Algorithms & Data Structures Tutorials
 * [VisualGo](https://visualgo.net/) - Data Structures & Algorithm Animations
 * [The Algorithms - C++](https://github.com/TheAlgorithms/C-Plus-Plus) - C++ Algorithms
@@ -569,7 +568,7 @@
 * [Accessibility Insights](https://accessibilityinsights.io/) - Fix Accessibility Issues
 * [Accessibility Cheatsheet](https://moritzgiessmann.de/accessibility-cheatsheet/) - Site Accessibility Guidelines
 * [Violating GDPR](https://www.violating-gdpr.com/) - GDPR Violation Test
-* [Color Oracle](https://colororacle.org/) or [Toptal](https://www.toptal.com/designers/colorfilter) - Color Blindness Simulator / Test
+* [Color Oracle](https://colororacle.org/), [WhoCanUse](https://www.whocanuse.com/) or [Toptal](https://www.toptal.com/designers/colorfilter) - Color Blindness Simulator / Tests
 * [Web Vitals Leaderboard](https://vitals-leaderboard.pazguille.me/) or [Lighthouse Metrics](https://lighthouse-metrics.com/) - Website Performance Tests
 * [Visual Mind AI](https://myraah.io/index.php/visualmind) - Site Visual Score
 * [Prometheus](https://prometheus.io/) - Site Metrics / [Setup](https://thanos.io/)
