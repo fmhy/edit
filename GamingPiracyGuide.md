@@ -679,6 +679,8 @@
 * ⭐ **[How-to Play Flash Games](https://rentry.co/oc4wc)** - Browser Flash Game Tutorial
 * [Flash by Night](http://flashbynight.com/), [FlashGamesArchive](http://www.flashgamearchive.com/playable/), [Flash Arch](https://flasharch.com/en) or [AlbinoBlackSheep](https://www.albinoblacksheep.com/games/) - Browser Games
 * [Arcade Prehacks](https://www.arcadeprehacks.com/), [SamsHackedGames](https://www.samshackedgames.com/) or [KongHack](https://konghack.com/) - Flash Game Hacks
+* [play.ht](https://play.ht/)
+* [gb64](https://gb64.com/)
 
 ***
 
