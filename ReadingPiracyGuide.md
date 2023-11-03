@@ -52,7 +52,6 @@
 # ► Reading Sites
 
 * 🌐 **[Shadow Libraries](https://shadowlibraries.github.io/)** - Ebook Site Index
-* 🌐 **[Ebook Subreddits](https://www.reddit.com/r/BookRelatedSubs/wiki/sublist)** - Ebook Subreddit Index
 * 🌐 **[/r/Ebook_Resources](https://reddit.com/r/EBook_Resources/)** - Ebook Resources
 * ↪️ **[General DDL Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/download)**
 * ↪️ **[General Torrent Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent)**
@@ -113,15 +112,10 @@
 * [Planet eBook](https://www.planetebook.com/) - Books
 * [Loyal Books](https://www.loyalbooks.com/) - Books
 * [obooko](https://www.obooko.com/) - Books
-* [Get Free eBooks](https://www.getfreeebooks.com/) - Books
 * [eBooksBag](https://ebooksbag.com/) - Books
 * [JustFreeBooks](https://www.justfreebooks.info/) - Books
-* [eBook Junkie](https://www.ebookjunkie.com/) - Books
-* [Sharing eBook](https://www.sharingebook.com/) - Books
 * [DigitalBook](https://www.digitalbook.io/) - Books
-* [Goodfileshare](https://goodfileshare.com/) - Books
 * [Avalon Library](https://avalonlibrary.net/) - Books
-* [D-PDF](https://d-pdf.com/) - Books
 * [EReads](https://ereads.net/) - Books
 * [CentslessBooks](https://centslessbooks.com/) - Books
 * [Litgu.ru](https://litgu.ru/) - Books
