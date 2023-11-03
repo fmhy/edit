@@ -102,6 +102,6 @@ export default defineConfig({
         link: "https://reddit.com/r/FREEMEDIAHECKYEAH",
       },
     ],
-    ...pwa,
+    // ...pwa,
   },
 });
