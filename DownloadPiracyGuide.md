@@ -176,7 +176,7 @@
 
 ## ▷ Freeware Sites
 
-* 🌐 **[Awesome Free Software](https://github.com/johnjago/awesome-free-software)**, **[Awesome Windows](https://github.com/Awesome-Windows/Awesome)**, **[Major Geeks](https://www.majorgeeks.com/content/page/top_freeware_picks.html)**, **[SourceForge](https://sourceforge.net/)**, **[FossHub](https://www.fosshub.com/)**, **[Fossies](https://fossies.org/all.html)**, **[Free Software Directory](https://directory.fsf.org/wiki/Main_Page)** or **[FOSS Wiki](https://en.wikipedia.org/wiki/Portal:Free_and_open-source_software/Categories)** - Freeware Indexes
+* 🌐 **[Awesome Free Software](https://github.com/johnjago/awesome-free-software)**, [Awesome Windows](https://github.com/Awesome-Windows/Awesome), [Major Geeks](https://www.majorgeeks.com/content/page/top_freeware_picks.html), [SourceForge](https://sourceforge.net/), [FossHub](https://www.fosshub.com/), [Fossies](https://fossies.org/all.html), [Free Software Directory](https://directory.fsf.org/wiki/Main_Page) or [FOSS Wiki](https://en.wikipedia.org/wiki/Portal:Free_and_open-source_software/Categories) - Freeware Indexes
 * 🌐 **[Awesome Selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)**, [2](https://gitlab.com/awesome-selfhosted/awesome-selfhosted) - Selfhosted Software Index
 * 🌐 **[Awesome Python Applications](https://github.com/mahmoud/awesome-python-applications)** - Python App Index
 * 🌐 **[OldVersion](http://www.oldversion.com/)** - Old Versions of Software
