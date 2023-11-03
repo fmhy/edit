@@ -1,5 +1,5 @@
 <script setup lang="ts">
-import Field from "./PaneFields.vue";
+import Field from "./CardField.vue";
 import Modal from "./Modal.vue";
 </script>
 
