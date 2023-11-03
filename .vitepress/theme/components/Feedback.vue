@@ -4,7 +4,6 @@ import { reactive, ref } from "vue";
 interface Feedback {
   message: string;
   feedbackType?: string;
-  anonymous?: boolean;
   contactEmail?: string;
 }
 
@@ -12,7 +11,7 @@ const loading = ref(false);
 const error = ref<unknown>(null);
 const success = ref(false);
 
-const feedback = reactive<Feedback>({ message: "" });
+const feedback = reactive<Feedback>({ message: "", contactEmail: "" });
 
 const feedbackOptions = [
   { label: "🐞 Bug", value: "bug" },
@@ -33,12 +32,12 @@ function getFeedbackOption(value: string) {
 
 async function handleSubmit(type?: string) {
   if (type) feedback.feedbackType = type as string;
+  loading.value = true;
 
   const body: Feedback = {
     message: feedback.message,
     feedbackType: feedback.feedbackType,
     contactEmail: feedback.contactEmail,
-    anonymous: feedback.anonymous,
   };
 
   try {
@@ -174,7 +173,6 @@ async function handleSubmit(type?: string) {
   font-weight: 500;
   color: var(--vp-c-text-2);
 }
-
 
 .fade-enter-active,
 .fade-leave-active {

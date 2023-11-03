@@ -68,10 +68,10 @@ export default withPwa(
           ],
         }),
       ],
-      build: {
-        // Shut the fuck up
-        chunkSizeWarningLimit: Infinity,
-      },
+      // build: {
+      //   // Shut the fuck up
+      //   chunkSizeWarningLimit: Infinity,
+      // },
     },
     themeConfig: {
       search: {
