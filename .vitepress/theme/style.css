@@ -83,6 +83,12 @@
   -webkit-text-decoration-color: var(--vp-c-brand-1);
 }
 
+.vp-doc .custom-block a {
+  text-decoration: underline;
+  text-underline-offset: 4px;
+  text-decoration-style: solid;
+}
+
 ::selection {
   background-color: var(--vp-button-brand-bg);
 }
