@@ -83,6 +83,10 @@
   -webkit-text-decoration-color: var(--vp-c-brand-1);
 }
 
+::selection {
+  background-color: var(--vp-button-brand-bg);
+}
+
 /**
  * Component: Home
 */

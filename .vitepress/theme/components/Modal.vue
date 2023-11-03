@@ -6,7 +6,7 @@ const showModal = ref(false);
 </script>
 
 <template>
-  <button class="modal-button" @click="showModal = true">Feedback</button>
+  <button class="p-[4px 8px] text-xl i-carbon:user-favorite-alt-filled" @click="showModal = true" />
 
   <Teleport to="body">
     <Transition name="modal">

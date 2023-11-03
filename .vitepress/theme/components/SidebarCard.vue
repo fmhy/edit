@@ -1,6 +1,7 @@
 <script setup lang="ts">
 import Field from "./CardField.vue";
 import Modal from "./Modal.vue";
+import InputField from "./InputField.vue";
 </script>
 
 <template>
@@ -11,7 +12,20 @@ import Modal from "./Modal.vue";
     <Field icon="i-twemoji-star">Recommendations</Field>
     <Field icon="i-twemoji-globe-with-meridians">Indexes</Field>
     <Field icon="i-twemoji-repeat-button">Storage Links</Field>
-    <Modal />
+    <div class="card-header">
+      <div class="card-title">Options</div>
+    </div>
+    <InputField id="feedback" label="Feedback">
+      <template #display>
+        <Modal />
+      </template>
+    </InputField>
+    <InputField id="toggle-starred" label="Toggle Starred">
+      <template #display>
+        <p>i will do this later do not complain lmao</p>
+        <div class="i-carbon:star"></div>
+      </template>
+    </InputField>
   </div>
 </template>
 
@@ -35,7 +49,6 @@ import Modal from "./Modal.vue";
   padding: 12px 24px 24px;
   border-radius: 12px;
   position: relative;
-  margin-top: 1rem;
   z-index: 0;
   border: 1px solid transparent;
   transition: border-color 0.4s ease-in-out;
