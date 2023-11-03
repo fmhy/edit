@@ -137,15 +137,14 @@ Use [this](https://bitbucket.org/magnolia1234/bypass-paywalls-firefox-clean/src/
 
 ### Downloading
 
-**[LRRepacks](https://lrepacks.net/)** - Trusted software site
+**[LRepacks](https://lrepacks.net/)** - Trusted software site
 **[OlaMovies](https://olamovies.rest/)** - Fast video downloads
-**[AnimeKaizoku](https://animekaizoku.com/)** - Fast anime downloads
 **[FitGirl Repacks](https://fitgirl-repacks.site/) / [SteamRIP](https://steamrip.com/) / [GOG-Games](https://gog-games.to/)** - Game download sites / [FitGirl Discord](https://discord.gg/Up3YARe4RW)
 **[AlvRo](https://github.com/nbats/FMHYedit/blob/main/base64.md#alvro) / [Vimms Lair](https://vimm.net/)** - ROM download sites / [Emulators](https://emulation.gametechwiki.com/)
 **[Firehawk52](https://rentry.org/firehawk52)** - Music Ripping Guide
 **[Slavart](https://discord.gg/VJRWhbF7) / [DoubleDouble](https://doubledouble.top/)** - Multi-Site Audio Download
 **[Free MP3 Download](https://free-mp3-download.net/)** - MP3 / FLAC downloads
-**[Soulseek](https://slsknet.org/)** - Audio download app
+**[Soulseek](https://slsknet.org/)** or [Nicotine+](https://nicotine-plus.org/) - Audio download app
 **[Download CSE](https://cse.google.com/cse?cx=006516753008110874046:1ugcdt3vo7z) / [2](https://cse.google.com/cse?cx=006516753008110874046:reodoskmj7h)** - Multi-site download search
 **[Video Download CSE](https://cse.google.com/cse?cx=006516753008110874046:wevn3lkn9rr#gsc.tab=0) / [2](https://cse.google.com/cse?cx=89f2dfcea452fc451) / [3](https://cse.google.com/cse?cx=aab218d0aa53e3578#gsc.tab=0)** - Multi-site video download search
 **[Anime  Download CSE](https://cse.google.com/cse?cx=006516753008110874046:osnah6w0yw8)** - Multi-site anime download search
