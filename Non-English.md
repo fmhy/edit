@@ -1553,7 +1553,7 @@
 * [Akiba-kei](http://akiba-team.org/) - Anime
 * [Animextremist](http://animextremist.com/) - Anime / Manga
 * [epublibre](https://www.epublibre.org/) - Books
-* [El Plan](https://hackmd.io/@w8tAmGnzT-qbgHkemaly6A/SEGUNDA-PARTE), [2](https://www.reddit.com/user/No_Land656) - Live Sports Acestream IDs
+* [El Plan](https://hackmd.io/@algamo/DELANTERO-PICHICHI), [2](https://www.reddit.com/user/No_Land656) - Live Sports Acestream IDs
 * [elcano](https://sg.hideip.co/direct/aHR0cDovL2VsY2Fuby50b3Av), [2](https://sg.4everproxy.com/direct/aHR0cDovL2VsY2Fuby50b3Av) - Live Sports Acestream IDs / [Matrix](https://matrix.to/#/!zrcckivBbqZjmykTPi:sibnsk.net?via=matrix.org&via=sibnsk.net) / [Link Scraper](https://github.com/ddgarciad03/IDS-Export)
 
 ## ▷ Streaming
@@ -1630,6 +1630,7 @@
 * [Television Gratis](https://www.televisiongratishd.com/) - Live TV / Latino
 * [El Bucanero del Deporte](https://deportebucanero.wordpress.com/) - Sports Piracy Directory
 * [Flipax](https://flipax.es/) - Live Sports
+* [MaxTV](https://maxtv.one/), [2](https://maxtv.city/) - Live Sports / [Telegram](https://t.me/s/maxtvweb)
 * [LaCasadelTikiTaka](https://www.lacasadeltikitaka.net/) - Live Soccer / MMA
 
 ## ▷ Reading
