@@ -848,7 +848,7 @@
 * [Audiosurf 2 Community Patch](https://audiosurf2.info/) - Audiosurf 2 Mod
 * [MDMC](https://mdmc.moe/) - Muse Dash Mods
 * [BSMG](https://bsmg.wiki/) - Beat Saber Mods
-* [NFSMods](https://nfsmods.xyz/home) - Need for Speed Mods
+* [NFSMods](https://nfsmods.xyz/home) - Need for Speed Mods / [Discord](https://discord.gg/MuC3KKW)
 * [NFS Most Wanted AI](https://github.com/LupascuAndrei/nfs_most_wanted) - Need for Speed: Most Wanted AI / [Video](https://youtu.be/UkYxKu2pllw)
 * [SimPlaza](https://simplaza.org/) - Microsoft Flight Simulator Addons
 * [Thunderstore](https://northstar.thunderstore.io/) - Northstar Mods
