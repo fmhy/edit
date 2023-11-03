@@ -1200,7 +1200,7 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://70.88.180.169:8
 * Imgur Tools - [Frontends](https://rimgo.codeberg.page/), [2](https://git.voidnet.tech/kev/imgin), [3](https://codeberg.org/rimgo/rimgo), [4](https://codeberg.org/3np/rimgu), [5](https://rimgo.bus-hit.me/) / [Proxy](https://imgin.voidnet.tech/)
 * [Unsee](https://unsee.cc/) - Decentralized / Temporary Image Hosts 
 
-[WebOasis IPFS](https://weboasis.app/ipfs/), [imghut](https://imghut.com/), [Shutterfly](https://www.shutterfly.com/), [FreeImage.Host](https://freeimage.host/), [snipboard](https://snipboard.io/), [vaa.red](https://upload.vaa.red/), [imgbox](https://imgbox.com/), [pasteboard](https://www.pasteboard.co/), [vgy](https://vgy.me/), [i](https://tikolu.net/i/), [tixte](https://tixte.com/), [linkpicture](https://www.linkpicture.com/), [imagebam](https://www.imagebam.com/), [imagevenue](https://www.imagevenue.com/), [pixelfed](https://pixelfed.org/) / [2](https://pixelfed.social/), [talaikis](https://ipfs.talaikis.com/upload), [imgchest](https://imgchest.com/), [upanhtv](https://upanh.tv/), [sendpic](http://sendpic.org/), [Lutim](https://lutim.lagout.org/), [Lensdump](https://lensdump.com/), [prnt.sc](https://prnt.sc/), [anhsieuviet](https://anhsieuviet.com/?lang=en), [Slowpoke Pics](https://slow.pics/), [lookimg](https://lookimg.com/), [dutov](https://dutov.org/)
+[WebOasis IPFS](https://weboasis.app/ipfs/), [imghut](https://imghut.com/), [Shutterfly](https://www.shutterfly.com/), [FreeImage.Host](https://freeimage.host/), [snipboard](https://snipboard.io/), [vaa.red](https://upload.vaa.red/), [imgbox](https://imgbox.com/), [pasteboard](https://www.pasteboard.co/), [vgy](https://vgy.me/), [i](https://tikolu.net/i/), [tixte](https://tixte.com/), [linkpicture](https://www.linkpicture.com/), [imagebam](https://www.imagebam.com/), [imagevenue](https://www.imagevenue.com/), [pixelfed](https://pixelfed.org/) / [2](https://pixelfed.social/), [talaikis](https://ipfs.talaikis.com/upload), [imgchest](https://imgchest.com/), [upanhtv](https://upanh.tv/), [sendpic](http://sendpic.org/), [Lutim](https://lutim.lagout.org/), [prnt.sc](https://prnt.sc/), [anhsieuviet](https://anhsieuviet.com/?lang=en), [Slowpoke Pics](https://slow.pics/), [lookimg](https://lookimg.com/), [dutov](https://dutov.org/)
 
 ***
 
@@ -1418,7 +1418,7 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://70.88.180.169:8
 * ⭐ **[Best Player](https://www.microsoft.com/store/productId/9WZDNCRDPQSX)** / [Unlock](https://rentry.co/paidAppsMsStore)
 * ⭐ **[Open TV](https://github.com/fredolx/open-tv)**
 
-[PlaylistEditorTV](https://github.com/Isayso/PlaylistEditorTV), [ustvgo-iptv](https://github.com/interlark/ustvgo-iptv), [LivePush](https://livepush.io/hls-player/index.html)
+[PlaylistEditorTV](https://github.com/Isayso/PlaylistEditorTV), [ustvgo-iptv](https://github.com/interlark/ustvgo-iptv), [LivePush](https://livepush.io/hls-player/index.html), [SFVipPlayer](https://epg.serbianforum.org/Alati/SFVipPlayer/sfplayer.html)
 
 ***
 
@@ -1511,7 +1511,7 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://70.88.180.169:8
 * [YTDL-Sub](https://github.com/jmbannon/ytdl-sub) - Add YouTube Channels to Media Servers
 * [xTeVe](https://github.com/xteve-project/xTeVe) - Plex / Emby M3U Proxy
 * [Autoscan](https://github.com/Cloudbox/autoscan) - Real-Time Plex & Emby File Changes
-* [Ombi](https://ombi.io/) - Plex / Emby User Request Management
+* [Ombi](https://github.com/Ombi-app/Ombi) - Plex / Emby User Request Management
 * [TRaSH Guides](https://trash-guides.info/) / [Discord](https://discord.com/invite/4K2kdvwzFh) or [The Complete Guide](https://redd.it/pqsomd) - Video Server Setup Guides
 * [Archon Wiki](https://github.com/Protektor-Desura/Archon/wiki/Compare-Media-Servers) - Media Server Comparisons
 
@@ -2017,7 +2017,7 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://70.88.180.169:8
 
 ### Internet Radio
 
-[Turntable](https://turntable.fm/), [CoreRadio](https://coreradio.online/listen), [CMD](https://cmd.to/fm), [lainchan](https://lainchan.org/radio), [RadioParadise](https://radioparadise.com/), [IndieSHuffle](https://www.indieshuffle.com/), [You42](https://www.you42.com/), [Jango](https://www.jango.com/), [RadioTunes](https://www.radiotunes.com/), [Live365](https://live365.com/), [AccuraRadio](https://www.accuradio.com/), [Radio.dubbeh](https://radio.dubbeh.net/), [Tilderadio](https://tilderadio.org/), [AnonRadio](https://anonradio.net/), [UpBeat](https://upbeatradio.net/) / [Discord](https://upbeat.pw/discord), [Radios.yt](https://radios.yt/), [SomaFM](https://somafm.com/), [ShoutCast](https://directory.shoutcast.com/), [Internet-Radio](https://internet-radio.com/), [Radiolise](https://radiolise.gitlab.io/), [JetSetRadio](https://jetsetradio.live/), [Chiru.no](https://chiru.no/)
+[Turntable](https://turntable.fm/), [CoreRadio](https://coreradio.online/listen), [RadioParadise](https://radioparadise.com/), [IndieSHuffle](https://www.indieshuffle.com/), [You42](https://www.you42.com/), [Jango](https://www.jango.com/), [RadioTunes](https://www.radiotunes.com/), [Live365](https://live365.com/), [AccuraRadio](https://www.accuradio.com/), [Radio.dubbeh](https://radio.dubbeh.net/), [Tilderadio](https://tilderadio.org/), [AnonRadio](https://anonradio.net/), [UpBeat](https://upbeatradio.net/) / [Discord](https://upbeat.pw/discord), [Radios.yt](https://radios.yt/), [SomaFM](https://somafm.com/), [ShoutCast](https://directory.shoutcast.com/), [Internet-Radio](https://internet-radio.com/), [Radiolise](https://radiolise.gitlab.io/), [JetSetRadio](https://jetsetradio.live/), [Chiru.no](https://chiru.no/)
 
 ***
 
@@ -2170,7 +2170,7 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://70.88.180.169:8
 
 ## Scene Release Trackers
 
-* [/r/CrackWatch](https://www.reddit.com/r/CrackWatch/)
+* [/r/CrackWatch](https://www.reddit.com/r/CrackWatch/) / [Discord](https://discord.gg/d9StxkknwX)
 * [SteamCrackStatus](https://steamcrackedgames.com/) / [Discord](https://discord.com/invite/hrCtqcyHKw)
 * [CrackWatcher](https://crackwatcher.com/)
 * [/r/dailyreleases](https://www.reddit.com/r/dailyreleases/)
@@ -2622,13 +2622,7 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://70.88.180.169:8
 * https://t.me/Anime_World_1
 * https://t.me/Hd_Anime_Series
 * https://t.me/myanimetvbot
-* https://t.me/otakulounge
-* https://t.me/anime_a_to_z
 * https://t.me/Anime_Flix_Pro
-* https://t.me/Anime_1080p_720p_480p
-* https://t.me/soulreaperzone
-* https://t.me/AnimeKingdomX
-* https://t.me/Kingdomofanimeseries
 * https://t.me/Ongoing_animes
 
 ***
@@ -2637,9 +2631,8 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://70.88.180.169:8
 
 * https://t.me/AudiobooksArchive
 * https://t.me/Audiobooks_Collection
-* https://t.me/TheBestAudible
+* https://t.me/+GV_tJ_U7em04YjU9
 * https://t.me/audiobooks_English
-* https://t.me/Ebooks_AudioBooks
 
 ***
 
@@ -2684,22 +2677,13 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://70.88.180.169:8
 
 ## Telegram eBook Download
 
-* https://t.me/BOOK_HOUSE_INTERNATIONAL
-* https://t.me/Ebooks_Encyclopedia27
 * https://t.me/Books_worldd
-* https://t.me/Ebooksenglish
 * https://t.me/free_ebooks_pdfs
-* https://t.me/English_Hindi_Novels_Magazine
-* https://t.me/BooksThief
 * https://t.me/booksmania
-* https://t.me/libsan_bot
 * https://t.me/joinchat/RGzvjJF-0op3SRR1 
 * https://t.me/yourlibraries
-* https://t.me/TheEbookStop
-* https://t.me/bookhome3
 * https://t.me/Dao_Qigong_Taiji_TCM_ebooks
 * https://t.me/lib_of_dos_old_vk
-* https://t.me/LibrariesofTelegram
 * [More Telegram eBook Channels](https://duckduckgo.com/?q=site%3At.me+books&ia=web)
 
 ***
