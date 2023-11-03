@@ -45,10 +45,10 @@ async function handleSubmit(type?: string) {
   try {
     const response = await fetch("https://fmhy.vercel.app/api/feedback", {
       method: "POST",
-        headers: {
-          "Content-Type": "application/json",
-        },
-        body: JSON.stringify(body), 
+      headers: {
+        "Content-Type": "application/json",
+      },
+      body: JSON.stringify(body),
     });
 
     const data = await response.json();
@@ -100,7 +100,7 @@ async function handleSubmit(type?: string) {
         </div>
         <textarea v-model="feedback.message" autofocus class="input" />
         <button class="btn btn-primary" :disabled="!feedback.message" @click="handleSubmit()">
-          Send us your feedback
+          Submit
         </button>
       </div>
       <div v-else class="step">
