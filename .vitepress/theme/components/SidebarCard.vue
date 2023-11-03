@@ -22,8 +22,7 @@ import InputField from "./InputField.vue";
     </InputField>
     <InputField id="toggle-starred" label="Toggle Starred">
       <template #display>
-        <p>i will do this later do not complain lmao</p>
-        <div class="i-carbon:star"></div>
+        <button class="p-[4px 8px] text-xl i-carbon:star"></button>
       </template>
     </InputField>
   </div>
