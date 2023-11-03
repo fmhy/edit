@@ -13,5 +13,5 @@ export default {
       "sidebar-nav-before": () => h(Sidebar),
     });
   },
-  enhanceApp({ app, router, siteData }) { },
+  enhanceApp({ app, router, siteData }) {},
 } satisfies Theme;
