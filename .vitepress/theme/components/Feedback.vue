@@ -46,6 +46,8 @@ async function handleSubmit(type?: string) {
     const response = await fetch("https://feedback.tasky.workers.dev", {
       method: "POST",
       headers: {
+        "Access-Control-Allow-Origin": "*",
+        "Access-Control-Allow-Methods": "POST",
         "Content-Type": "application/json",
       },
       body: JSON.stringify(body),
