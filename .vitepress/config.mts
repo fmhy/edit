@@ -16,6 +16,7 @@ export default defineConfig({
   appearance: "dark",
   srcExclude: ["readme.md", "single-page"],
   ignoreDeadLinks: true,
+  metaChunk: true,
   sitemap: {
     hostname: meta.hostname,
   },
