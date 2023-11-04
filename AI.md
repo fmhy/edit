@@ -142,9 +142,31 @@
 # ► AI Indexes
 
 * 🌐 **[Awesome Artificial Intelligence](https://github.com/owainlewis/awesome-artificial-intelligence#free-content)** - AI Resources / Learning
-* 🌐 **[Futurepedia](https://www.futurepedia.io/)**, **[AI Scout](https://aiscout.net/)**, **[AI Collection](https://github.com/ai-collection/ai-collection)** or **[AIcyclopedia](https://www.aicyclopedia.com/)** - AI Directories
+* 🌐 **[Futurepedia](https://www.futurepedia.io/)** - AI Directory
 * 🌐 **[AI-MF](https://whoisdsmith.gitbook.io/ai-mf/)** - AI Directory / [GitHub](https://github.com/whoisdsmith/AI-MTHRFCKR)
-* [Favird](https://favird.com/), [FutureTools](https://www.futuretools.io/?pricing-model=free), [ToolScoutAI](https://toolscout.ai/), [AI Creator Tools](https://library.phygital.plus/), [topai](https://topai.tools/), [TheresAnAIForThat](https://theresanaiforthat.com/), [AI-Infinity](https://aiinfinity-meetpatel.notion.site/AI-Infinity-AI-Tools-Directory-0da673c487124ea2b6f8ebe59b75a231), [AI Center](https://aicenter.ai/), [Wiki AI Tools](https://www.wikiaitools.com/), [TopApps.Ai](https://topapps.ai/), [SuperTools](https://supertools.therundown.ai/), [GPTE](https://gpte.ai/), [EasyWithAI](https://easywithai.com/), [Toolspedia](https://www.toolspedia.io/), [Hayo](https://www.hayo.com/tools), [HD Robots](https://hdrobots.com/), [iLib](https://www.ilib.com/), [WikiGPT3](https://www.wikigpt3.com/), [SaaS GPTers](https://saasgpters.com/) or [NaNAI.tools](https://nanai.tools) - AI Directories
+* 🌐 **[AI Collection](https://github.com/ai-collection/ai-collection)** - AI Directory
+* 🌐 **[AI Scout](https://aiscout.net/)** - AI Directory
+* 🌐 **[AIcyclopedia](https://www.aicyclopedia.com/)** - AI Directory
+* [Favird](https://favird.com/) - AI Directory
+* [FutureTools](https://www.futuretools.io/?pricing-model=free) - AI Directory
+* [ToolScoutAI](https://toolscout.ai/) - AI Directory
+* [AI Creator Tools](https://library.phygital.plus/) - AI Directory
+* [topai](https://topai.tools/) - AI Directory
+* [TheresAnAIForThat](https://theresanaiforthat.com/) - AI Directory
+* [AI-Infinity](https://aiinfinity-meetpatel.notion.site/AI-Infinity-AI-Tools-Directory-0da673c487124ea2b6f8ebe59b75a231) - AI Directory
+* [AI Center](https://aicenter.ai/) - AI Directory
+* [Wiki AI Tools](https://www.wikiaitools.com/) - AI Directory
+* [TopApps.Ai](https://topapps.ai/) - AI Directory
+* [NaNAI.tools](https://nanai.tools) - AI Directory
+* [SuperTools](https://supertools.therundown.ai/) - AI Directory
+* [GPTE](https://gpte.ai/) - AI Directory
+* [EasyWithAI](https://easywithai.com/) - AI Directory
+* [Toolspedia](https://www.toolspedia.io/) - AI Directory
+* [Hayo](https://www.hayo.com/tools) - AI Directory
+* [HD Robots](https://hdrobots.com/) - AI Directory
+* [iLib](https://www.ilib.com/) -  AI Directory
+* [WikiGPT3](https://www.wikigpt3.com/) - AI Directory
+* [SaaS GPTers](https://saasgpters.com/) - AI Directory
 * [ArtificialStudio](https://www.artificialstudio.ai/tools) - Browser Based AI
 * [Experiments with Google](https://labs.withgoogle.com/) - AI Experiments
 * [OpenCV](https://opencv.org/) - A.I. Vision Library
