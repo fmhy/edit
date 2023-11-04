@@ -76,7 +76,11 @@ async function handleSubmit(type?: string) {
           </div>
         </div>
         <div class="button-container">
-          <button v-for="item in feedbackOptions" :key="item.value" class="btn" @click="handleSubmit(item.value)">
+          <button
+            v-for="item in feedbackOptions"
+            :key="item.value"
+            class="btn"
+            @click="handleSubmit(item.value)">
             <span>{{ item.label }}</span>
           </button>
         </div>
@@ -86,7 +90,10 @@ async function handleSubmit(type?: string) {
           <p class="desc">The wiki is...</p>
           <div>
             <span>{{ getFeedbackOption(feedback.feedbackType)?.label }}</span>
-            <button style="margin-left: 0.5rem" class="btn" @click="feedback.feedbackType = undefined">
+            <button
+              style="margin-left: 0.5rem"
+              class="btn"
+              @click="feedback.feedbackType = undefined">
               <span class="i-carbon-close-large">close</span>
             </button>
           </div>
@@ -106,7 +113,7 @@ async function handleSubmit(type?: string) {
 </template>
 
 <style scoped>
-.step>*+* {
+.step > * + * {
   margin-top: 1rem;
 }
 

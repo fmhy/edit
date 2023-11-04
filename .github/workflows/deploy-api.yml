@@ -15,25 +15,25 @@ jobs:
   ci:
     name: Release
     runs-on: ubuntu-latest
-      steps:
-        - uses: actions/checkout@v4
-          with:
-            fetch-depth: 6
-        - uses: pnpm/action-setup@v2.4.0
-        
-        - uses: actions/setup-node@v3
-          with:
-            node-version: 18
-            cache: 'pnpm'
-        
-        - run: pnpm install --no-frozen-lockfile
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 6
+      - uses: pnpm/action-setup@v2.4.0
 
-        - name: Build
-          run: pnpm api:build
-          env:
-            NITRO_PRESET: cloudflare
+      - uses: actions/setup-node@v3
+        with:
+          node-version: 18
+          cache: "pnpm"
 
-        - name: Publish to Cloudflare
-          uses: cloudflare/wrangler-action@3
-          with:
-            apiToken: ${{ secrets.CF_API_TOKEN }}
+      - run: pnpm install --no-frozen-lockfile
+
+      - name: Build
+        run: pnpm api:build
+        env:
+          NITRO_PRESET: cloudflare
+
+      - name: Publish to Cloudflare
+        uses: cloudflare/wrangler-action@3
+        with:
+          apiToken: ${{ secrets.CF_API_TOKEN }}
