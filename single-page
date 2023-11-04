@@ -5541,17 +5541,12 @@ Use any **[Base64 Decoding](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/stor
 * ↪️ **[Free DNS Servers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_free_dns_servers)**
 * ⭐ **[AdGuard Home](https://github.com/AdguardTeam/AdGuardHome/wiki/Docker)** - DNS Adblocking / Self-Hosted / [Setup](https://github.com/klutchell/balena-adguard) / [Filters](https://github.com/hl2guide/AdGuard-Home-Whitelist)
 * ⭐ **[AhaDNS](https://ahadns.com/)** - DNS Adblocking / [Guide](https://champagne.pages.dev/before-you-begin/important-tools/#free-system-wide-adblocking-for-ios-mac-android--windows)
-* ⭐ **[BlahDNS](https://blahdns.com/)** - DNS Adblocking
-* ⭐ **[Mullvad DNS](https://mullvad.net/en/help/dns-over-https-and-dns-over-tls/)** - DNS Adblocking
-* ⭐ **[YogaDNS](https://yogadns.com/)** - DNS Adblocking
+* ⭐ **[BlahDNS](https://blahdns.com/)**, **[YogaDNS](https://yogadns.com/)** or **[Mullvad DNS](https://mullvad.net/en/help/dns-over-https-and-dns-over-tls/)** - DNS Adblocking
 * ⭐ **[ControlD](https://controld.com/)**, [DNS Jumper](https://www.sordum.org/7952/dns-jumper-v2-2/), [ChrisPC DNS Switch](https://www.majorgeeks.com/files/details/chrispc_dns_switch.html) or [Hetzner](https://www.hetzner.com/dns-console?country=us) - DNS Managers / Switchers
 * ⭐ **[serverless-dns](https://github.com/serverless-dns/serverless-dns)** - Serverless DNS
-* [Adguard DNS](https://adguard-dns.io/) - DNS Adblocking
+* [Adguard DNS](https://adguard-dns.io/), [AlternateDNS](https://alternate-dns.com/index.php), [LibreDNS](https://libredns.gr/) or [Diversion](https://diversion.ch/) - DNS Adblocking
 * [Pi-Hole](https://pi-hole.net/) - DNS Adblocking / Self-Hosted
 * Pi-Hole Tools - [Install Script](https://github.com/DesktopECHO/Pi-Hole-for-WSL1) / [Filter](https://firebog.net/) / [Firefox](https://addons.mozilla.org/en-US/firefox/addon/alanine/) / [Chrome](https://chrome.google.com/webstore/detail/alanine/lohlpbknpcngpjifmofkidennikljlfi) / [Docker](https://hub.docker.com/repository/docker/kulda22/alanine) / [Antitelemetry](https://github.com/MoralCode/pihole-antitelemetry)
-* [AlternateDNS](https://alternate-dns.com/index.php) - DNS Adblocking
-* [LibreDNS](https://libredns.gr/) - DNS Adblocking
-* [Diversion](https://diversion.ch/) - DNS Adblocking
 * [TBlock](https://tblock.me/) - DNS Adblocking / [Filters](https://codeberg.org/tblock/filters)
 * [dog](https://dns.lookup.dog/) - DNS CLI
 * [Quad9](https://quad9.net/) - Malware, Phishing, Spyware & Botnet DNS Protection
@@ -5566,7 +5561,7 @@ Use any **[Base64 Decoding](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/stor
 * [Samsung Smart TV Adblock](https://redd.it/gn7fw5) - Block Smart TV Ads
 * [ZoneWatcher](https://zonewatcher.com/) - DNS Backup Tool
 * [DNS Redirector](http://dnsredirector.com/) - DNS Redirector
-* [DNS Resolver Privacy-First](http://doh.tiar.app/) - DNS Resolver
+* [DNS Resolver Privacy-First](https://doh.tiar.app/) - DNS Resolver
 * [Technitium](https://technitium.com/dns) or [Trust DNS](https://github.com/bluejekyll/trust-dns) - Self-Hosted DNS Server
 * [DNS Perf](https://dnsperf.com/dns-speed-benchmark) or [NameBench](https://code.google.com/archive/p/namebench/) - DNS Speed Tests
 
@@ -5604,7 +5599,7 @@ Use any **[Base64 Decoding](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/stor
 * ⭐ **[Security / Antivirus Multireddit](https://old.reddit.com/user/goretsky/m/security/)**
 * [RevealQR](https://revealqr.app/) - Scan QR Codes
 * [WFC](https://www.binisoft.org/wfc.php), [simplewall](https://www.henrypp.org/product/simplewall), [pfSense](https://www.pfsense.org/) / [How-to](https://youtu.be/am7xT-zU1Q0) or [Tinywall](https://tinywall.pados.hu/) - Firewall / Network Monitors
-* [Pi.Alert](https://github.com/pucherot/Pi.Alert), [Zeek](https://zeek.org/), [Nmap](https://nmap.org/) / [Results](https://nmap.org/ndiff/), [Kismet](https://www.kismetwireless.net/), [ntop](http://www.ntop.org/), [Sniffnet](https://www.sniffnet.net/) or [Rotty](https://github.com/RoseSecurity/Rotty.py) - Network Monitors
+* [Pi.Alert](https://github.com/pucherot/Pi.Alert), [Zeek](https://zeek.org/), [Nmap](https://nmap.org/) / [Results](https://nmap.org/ndiff/), [Kismet](https://www.kismetwireless.net/), [ntop](https://www.ntop.org/), [Sniffnet](https://www.sniffnet.net/) or [Rotty](https://github.com/RoseSecurity/Rotty.py) - Network Monitors
 * [Waircut](https://sourceforge.net/projects/waircut/) - WPS Network Monitor
 * [Unchecky](https://unchecky.com/) - Clears Software Installation Checkboxes
 * [Emergency Kit](https://www.emsisoft.com/en/home/emergencykit/) - No Install Required Antivirus
@@ -5620,7 +5615,7 @@ Use any **[Base64 Decoding](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/stor
 * [Dangerzone](https://dangerzone.rocks/) - Convert dangerous PDF to safe PDF
 * [CVE Details](https://www.cvedetails.com/) - CVE Details
 * [ZScaler](https://zulu.zscaler.com/), [Talos](https://talosintelligence.com/), [Trend Micro](https://global.sitesafety.trendmicro.com/) or [ScamRate](https://www.scamrate.com/) - Check Website Safety 
-* [Scamalytics](https://scamalytics.com/ip), [IPSpamList](http://www.ipspamlist.com/) or [IP Address Lookup](https://www.ipqualityscore.com/free-ip-lookup-proxy-vpn-test/) - IP Address Check
+* [Scamalytics](https://scamalytics.com/ip), [IPSpamList](https://www.ipspamlist.com/) or [IP Address Lookup](https://www.ipqualityscore.com/free-ip-lookup-proxy-vpn-test/) - IP Address Check
 * [BitcoinWhosWho](https://www.bitcoinwhoswho.com/) - Bitcoin Address Scanner
 * [Virus Checker](https://add0n.com/virus-checker.html) - Virus Check for Downloads 
 * [Bad Websites](https://github.com/elbkr/bad-websites) - Phishing Site Index for Bots
@@ -5718,7 +5713,7 @@ Use any **[Base64 Decoding](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/stor
 * V2Ray Tools - [GUI](https://github.com/2dust/v2rayN), [2](https://github.com/Qv2ray/Qv2ray) / [GeoIP](https://github.com/Loyalsoldier/geoip) / [Free Server](https://fanqiang.network/) / [Cloudflare Scan](https://cloudflare-v2ray.vercel.app/)/ [Tutorial](https://github.com/freefq/tutorials)
 * [Scout](https://www.scout.tel/phone-number-lookup) or [WhoCalld](https://whocalld.com/) - Phone Number Lookup / Safety Check 
 * [FreeCarrierLookup](https://www.freecarrierlookup.com/) - Get Telephone Carrier Data 
-* [/r/Privacy](https://reddit.com/r/privacy),  [/r/TheHatedOne](https://www.reddit.com/r/thehatedone) or [/r/privatelife/](https://www.reddit.com/r/privatelife/) - Privacy Discussion, News & Tools
+* [/r/Privacy](https://reddit.com/r/privacy), [/r/TheHatedOne](https://www.reddit.com/r/thehatedone) or [/r/privatelife/](https://www.reddit.com/r/privatelife/) - Privacy Discussion, News & Tools
 * [Unredacted Google Antitrust Filing](https://web.archive.org/web/20220821122431/https://nitter.net/fasterthanlime/status/1452053938195341314)
 * [Facebook Doc Stories](https://docs.google.com/document/d/1QYqmJsifBjf_xA23Ea7AdeMFyjGWaF_dvhi5EZdNUf4/edit) - Facebook Malpractices Index
 * [Privacy.com](https://privacy.com/) - Make Secure Payments / US only 
@@ -5737,7 +5732,7 @@ Use any **[Base64 Decoding](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/stor
 ## ▷ Privacy Extensions
 
 * ⭐ **[ClearURLs](https://github.com/ClearURLs/Addon/releases)** / [2](https://gitlab.com/ClearURLs/ClearUrls), [Link Cleaner](https://mybrowseraddon.com/link-cleaner.html), [dont-track-me-google](https://github.com/Rob--W/dont-track-me-google) or [Link Sanitizer](https://greasyfork.org/en/scripts/374699-link-sanitizer) - Remove Tracking Elements from URLs
-* ⭐ **[LocalCDN](https://www.localcdn.org/)**, [Decentraleyes](https://decentraleyes.org/), [OptMeowt](https://github.com/privacy-tech-lab/gpc-optmeowt) or [TrackMeNot](http://trackmenot.io/) - Tracking Protection
+* ⭐ **[LocalCDN](https://www.localcdn.org/)**, [Decentraleyes](https://decentraleyes.org/), [OptMeowt](https://github.com/privacy-tech-lab/gpc-optmeowt) or [TrackMeNot](https://www.trackmenot.io/) - Tracking Protection
 * [CRXcavator](https://crxcavator.io/) - Check Browser Extension Security
 * [File Guard](https://mybrowseraddon.com/file-encryptor.html) - File Encryption / Decryption
 * [Site Bleacher](https://github.com/wooque/site-bleacher) - Auto Remove Cookies, Local Storages, etc.
@@ -5762,13 +5757,13 @@ Use any **[Base64 Decoding](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/stor
 * [VPNTabs](https://github.com/Nickguitar/VPNTabs) - Force Firefox Tabs through VPN or Tor
 * [WebRTC Control](https://mybrowseraddon.com/webrtc-control.html) or [WebRTC](https://addons.mozilla.org/en-GB/firefox/addon/happy-bonobo-disable-webrtc/) - Enable / Disable WebRTC 
 * [WebRTC Network Limiter](https://chrome.google.com/webstore/detail/webrtc-network-limiter/npeicpdbkakmehahjeeohfdhnlpdklia?hl=en) - WebRTC Network Traffic Config 
-* [GPSDetect](https://github.com/allanlw/gps-detect) - Alerts user when JPEG contains EXIF GPS coordinates  
+* [GPSDetect](https://github.com/allanlw/gps-detect) - Alerts user when JPEG contains EXIF GPS coordinates 
 * [Forget Me Not](https://addons.mozilla.org/en-US/firefox/addon/forget_me_not/) - Only keeps website data for sites you choose
 * [Secure Password Generator](https://pastebin.com/XaRUFW4a) or [Password Generator](https://github.com/XFox111/PasswordGeneratorExtension) - Password Generator 
 * [Private Bookmarks](https://pastebin.com/H8vnQqiY) - Password Protected Bookmarks
 * [Permission Inspector](https://github.com/tsl143/addonManager) - Extension Permissions Inspector 
 * [History-AutoDelete](https://github.com/naresh97/History-AutoDelete-Rebooted) - Browser History Manager 
-* [eCleaner](https://add0n.com/ecleaner.html) or [History & Cache Cleaner ](https://chrome.google.com/webstore/detail/history-cache-cleaner/oiecpgbfcchalgdchgoplichofjadhmk/related?hl=en) - History & Cache Cleaner
+* [eCleaner](https://add0n.com/ecleaner.html) or [History & Cache Cleaner](https://chrome.google.com/webstore/detail/history-cache-cleaner/oiecpgbfcchalgdchgoplichofjadhmk/related?hl=en) - History & Cache Cleaner
 * [CopyGuard](https://github.com/roedesh/copyguard) - Clipboard Hijacking Notifications
 * [WhatsApp Privacy Extension](https://pfwa.lukaslen.com/) - Hide WhatsApp Messages Until Hovered Over / [GitHub](https://github.com/LukasLen/Privacy-Extension-For-WhatsApp-Web)
 * [AudioContext Fingerprint Test](https://audiofingerprint.openwpm.com/) - AudioContext / Canvas API Fingerprinting Test
@@ -5797,13 +5792,13 @@ Use any **[Base64 Decoding](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/stor
 * ⭐ **[ACCOUNTKILLER](https://www.accountkiller.com/)** or [JustDeleteMe](https://justdeleteme.xyz/), [2](https://backgroundchecks.org/justdeleteme/) - Find / Terminate Old Accounts 
 * [How Secure is My Password](https://www.security.org/how-secure-is-my-password/) - Password Strength Checker
 * [h8Mail](https://github.com/khast3x/h8mail) or [FirefoxMonitor](https://monitor.firefox.com/) - Data Breach Check
-* [BreachDirectory](https://breachdirectory.org), [Snusbase](https://snusbase.com/), [Leak Lookup](http://leak-lookup.com/), [Trufflehog](https://github.com/trufflesecurity/trufflehog), [Database Search](https://search.0t.rocks/) or [leakpeek](https://leakpeek.com/) - Data Breach Search Engines
+* [BreachDirectory](https://breachdirectory.org), [Snusbase](https://snusbase.com/), [Leak Lookup](https://leak-lookup.com/), [Trufflehog](https://github.com/trufflesecurity/trufflehog), [Database Search](https://search.0t.rocks/) or [leakpeek](https://leakpeek.com/) - Data Breach Search Engines
 * [DataBunker](https://databunker.org/) - Data Leak Prevention
 * [LocateJS](https://locatejs.com/) - Check for Browser / Extension Leaks
 * [Canarytokens](https://canarytokens.org/generate) - Network Breach Check 
 * [JustGetMyData](https://justgetmydata.com/) - Links to Obtain Your Data from Websites 
 * [Privacy Score](https://privacyscore.org/) - Website Privacy Score Rankings
-* [WhoTracksMe](https://whotracks.me/) or [Trackography](https://trackography.org/) - Site Tracking Info  
+* [WhoTracksMe](https://whotracks.me/) or [Trackography](https://trackography.org/) - Site Tracking Info 
 * [I2P](https://geti2p.net/en/) - Encrypted Private Network Layer / [Guide](https://rentry.co/CBGI2P)
 * [I2Pd Browser](https://i2pd.website/) - I2P Browser / [GitHub](https://github.com/PurpleI2P/i2pd)
 * [CookieStatus](https://www.cookiestatus.com/) or [PrivacyTests](https://privacytests.org/) - Browser Tracking Protection Comparisons
@@ -5904,9 +5899,9 @@ Use any **[Base64 Decoding](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/stor
 * [Duck Manager](https://github.com/weebi/duck-manager) or [ddgmail](https://github.com/lem6ns/ddgmail) - Manage @duck Aliases
 * [OpenPGP](https://www.openpgp.org/) - Email Encryption / [Guide](https://riseup.net/en/security/message-security/openpgp/best-practices)
 * [MetaClean for Gmail](https://www.adarsus.com/en/remove-metadata-from-gmail-attachments/) - Remove Metadata from Emails
-* [/r/emailprivacy](https://reddit.com/r/emailprivacy)  - Discussion of Email Privacy / Security / Anonymity
-* [E4ward](http://e4ward.com/) - Spam Email Filter
-* [EmailRep](http://emailrep.io/) - Email Reputation Check
+* [/r/emailprivacy](https://reddit.com/r/emailprivacy) - Discussion of Email Privacy / Security / Anonymity
+* [E4ward](https://e4ward.com/) - Spam Email Filter
+* [EmailRep](https://emailrep.io/) - Email Reputation Check
 * [torbirdy](https://gitlab.torproject.org/legacy/trac/-/wikis/torbirdy) - Connect to Mozilla Thunderbird via Tor 
 
 ***
@@ -5957,13 +5952,10 @@ Use any **[Base64 Decoding](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/stor
 * [Adguard VPN](https://adguard-vpn.com/en/welcome.html) - VPN Extension / 3GB Free / [Pricing](https://ibb.co/rt0DS0N)
 * [PrivadoVPN](https://privadovpn.com/) - Free VPN / Unlimited Accounts via [Temp Mail](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_temp_email_sites)
 * [Kaspersky](https://www.kaspersky.com/vpn-secure-connection) - Free VPN / 200 MB per day / No Account Required
-* [Free VPN Online](http://freevpnonline.com/) - Free VPN
-* [VpnHood](https://github.com/vpnhood/VpnHood) - Free VPN
-* [HideMe](https://hide.me/) - Free VPN
-* [Leap VPN](https://leap.se/) - Free VPN
+* [VpnHood](https://github.com/vpnhood/VpnHood), [HideMe](https://hide.me/) or [Leap VPN](https://leap.se/) - Free VPNs
 * [Clash](https://github.com/Fndroid/clash_for_windows_pkg) - Free VPN / [Profiles](https://rentry.co/2q3rn)
 * [Portals](https://www.portalsvpn.com/) - dVPN
-* [TunnelBear](https://www.tunnelbear.com/) - Free VPN / 500mb
+* [TunnelBear](https://www.tunnelbear.com/) - Free VPN / 500MB
 * [VPNBook](https://www.vpnbook.com/) - Free VPN Accounts
 * [VPNGate](https://www.vpngate.net/en/) - Free VPN Relay Servers
 * [GoFly](https://play.google.com/store/apps/details?id=com.ambrose.overwall&gl=US) - Free VPN for Android
@@ -5975,7 +5967,7 @@ Use any **[Base64 Decoding](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/stor
 * ↪️ **[Free VPN Configs](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_free_vpn_configs)**
 * ⭐ **[How-to Bind VPN to Client](https://redd.it/ssy8vv)** - Bind VPN to Client to Avoid ISP Letters
 * ⭐ **[WireGuard](https://www.wireguard.com/)** - VPN Tunnel / [Setup Guide](https://github.com/amritb/poor-mans-vpn) / [Tools](https://guardline-vpn.github.io/wireguard-tools/) / [Manager](https://github.com/perara/wg-manager) / [WebUI](https://hub.docker.com/r/weejewel/wg-easy)
-* [OpenVPN](https://openvpn.net/) or [TincVPN](http://www.tinc-vpn.org/) - VPN Tunnels
+* [OpenVPN](https://openvpn.net/) or [TincVPN](https://www.tinc-vpn.org/) - VPN Tunnels
 * [StrongSwan](https://www.strongswan.org/) - IPsec VPN
 * [WireHole](https://github.com/IAmStoxe/wirehole) - Wireguard VPN w/ Adblocking Capabilities 
 * [Syntropy](https://www.syntropystack.com/vpn), [Self Hosted VPN](https://github.com/rajannpatel/Pi-Hole-on-Google-Compute-Engine-Free-Tier-with-Full-Tunnel-and-Split-Tunnel-Wireguard-VPN-Configs), [VpnHood](https://github.com/vpnhood/VpnHood), [n2n](https://github.com/ntop/n2n), [ipsec-vpn](https://github.com/hwdsl2/setup-ipsec-vpn) or [Outline](https://getoutline.org/) - Self-Hosted VPN
@@ -5996,8 +5988,7 @@ Use any **[Base64 Decoding](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/stor
 
 ## ▷ Proxy Apps
 
-* ⭐ **[Lantern](https://lantern.io/)** - Free Proxy / VPN
-* ⭐ **[Psiphon](https://psiphon.ca/)** - Free Proxy / VPN / [Bypass Blocks](https://media.discordapp.net/attachments/953145730736996382/953730963735707719/Screenshot_20220316220604.png)
+* ⭐ **[Lantern](https://lantern.io/)** or **[Psiphon](https://psiphon.ca/)** / [Bypass Blocks](https://media.discordapp.net/attachments/953145730736996382/953730963735707719/Screenshot_20220316220604.png) - Free Proxy / VPN
 * ⭐ **[SecureDNSClient](https://github.com/msasanmh/SecureDNSClient)** - DNS Proxy GUI
 * ⭐ **[Bypass ISP Blocks](https://rentry.co/enable-ech)** - Bypass ISP censorship with Firefox
 * [GoodbyeDPI](https://github.com/ValdikSS/GoodbyeDPI/) / [GUI](https://github.com/mguludag/GUI-for-GoodbyeDPI), [Green Tunnel](https://github.com/SadeghHayeri/GreenTunnel), [NETBRIGHT](https://github.com/yebekhe/NETBRIGHT) or [GFW-knocker](https://github.com/GFW-knocker/gfw_resist_tls_proxy) / [Test](https://www.howsmyssl.com/) - DPI Circumvention Local Proxies
@@ -6014,7 +6005,7 @@ Use any **[Base64 Decoding](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/stor
 * [Shadowsocks](https://shadowsocks.org/) / [Free Servers](https://github.com/ruanfei/cross), [2](https://github.com/learnhard-cn/free_proxy_ss) / [Client](https://github.com/shadowsocks/shadowsocks-windows) - Proxy Client and Self-hostable Server
 * [Hysteria](https://github.com/apernet/hysteria) - Proxy Client and Self-hostable Server
 * [Xray](https://github.com/XTLS/Xray-core) - Proxy Client and Self-hostable Server / [Telegram](https://t.me/projectXray)
-* [Ultraviolet](https://github.com/titaniumnetwork-dev/Ultraviolet), [Privoxy](https://www.privoxy.org/) / [Docker Build](https://github.com/binhex/arch-privoxyvpn) or [Tsunami](https://github.com/FogNetwork/Tsunami)  - Self-hosted Proxy Websites
+* [Ultraviolet](https://github.com/titaniumnetwork-dev/Ultraviolet), [Privoxy](https://www.privoxy.org/) / [Docker Build](https://github.com/binhex/arch-privoxyvpn) or [Tsunami](https://github.com/FogNetwork/Tsunami) - Self-hosted Proxy Websites
 * [1337x Proxy](https://redd.it/tz7nyx) - 1337x Proxy Guide / [Example](https://pastebin.com/3n5K0QrP)
 
 ***
@@ -6040,7 +6031,7 @@ Use any **[Base64 Decoding](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/stor
 * [ProxyOf2](https://proxyof2.com/)
 * [Proxy-URLs](https://www.proxy-urls.com/)
 * [HideIP](https://m.hideip.co/)
-* [Sitenable](http://sitenable.in/)
+* [Sitenable](https://freeproxy.io/)
 * [UnblockSites](https://unblocksites.online/)
 * [4EverProxy](https://www.4everproxy.com/)
 * [Proxyium](https://proxyium.com/)
@@ -6048,7 +6039,7 @@ Use any **[Base64 Decoding](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/stor
 * [AtozProxy](https://www.atozproxy.com/)
 * [Google Translate](https://translate.google.com/) - [How to use](https://redd.it/fawkjy)
 * [Proxy Scrape](https://github.com/JaredLGillespie/proxyscrape) - Python Library for Retrieving Free Proxies
-* [Proxy-Checker](https://proxy-checker.net/), [Proxy Checker Genius](https://www.proxychecker.ge/), [proxy-scraper](https://github.com/iw4p/proxy-scraper), [ProxyScraper_v1](https://github.com/WTSTiNy/DeCryPt_ProxyScraper_v1), [What is my Proxy](http://www.whatismyproxy.com/), [proxy-scraper-checker](https://github.com/monosans/proxy-scraper-checker), [Socker](https://github.com/TheSpeedX/socker) or [Unfx Proxy Checker](https://github.com/openproxyspace/unfx-proxy-checker)  - Proxy Scrapers / Checkers
+* [Proxy-Checker](https://proxy-checker.net/), [Proxy Checker Genius](https://www.proxychecker.ge/), [proxy-scraper](https://github.com/iw4p/proxy-scraper), [ProxyScraper_v1](https://github.com/WTSTiNy/DeCryPt_ProxyScraper_v1), [What is my Proxy](http://www.whatismyproxy.com/), [proxy-scraper-checker](https://github.com/monosans/proxy-scraper-checker), [Socker](https://github.com/TheSpeedX/socker) or [Unfx Proxy Checker](https://github.com/openproxyspace/unfx-proxy-checker) - Proxy Scrapers / Checkers
 * [CheckSocks5](https://checksocks5.com/) - Socks5 Proxy Checker
 * [Proxynova](https://www.proxynova.com/proxy-server-list/country-ir/) - Iranian Proxies
 ***
@@ -6130,10 +6121,7 @@ Use any **[Base64 Decoding](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/stor
 * ⭐ **[Chub](https://www.chub.ai/)** or [Character Creator](https://oobabooga.github.io/character-creator) - Character Prompts
 * [Janitor AI](https://www.janitorai.com/) - Roleplaying Chatbots / [Discord](https://discord.com/invite/janitorai)
 * [GPT Call](https://gptcall.net/) - Roleplaying Chatbots / [Discord](https://discord.gg/88fQT5Bgfe)
-* [Dreamshow](https://dreamshow.ai/) - Roleplaying Chatbots
-* [Spicychat.ai](https://spicychat.ai/) - Roleplaying Chatbots
-* [Epigon](https://epigon.ai/) - Roleplaying Chatbots
-* [Sakura](https://www.sakura.fm/) - Roleplaying Chatbots
+* [Dreamshow](https://dreamshow.ai/), [Spicychat.ai](https://spicychat.ai/), [Epigon](https://epigon.ai/) or [Sakura](https://www.sakura.fm/) - Roleplaying Chatbots
 * [TavernAI](https://tavernai.net/) - Roleplaying / Adventure Chatbot
 * [Broken Bear](https://www.brokenbear.com/) - Vent to AI Bear
 * [Delphi](https://delphi.allenai.org/) - Morality Judgement AI
@@ -6151,8 +6139,8 @@ Use any **[Base64 Decoding](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/stor
 * ⭐ **[AI Playground](https://play.vercel.ai/)**, [h2oGPT](https://gpt.h2o.ai/) or [ChatHub](https://chathub.gg/) - Compare AI Responses
 * ⭐ **[ChatPDF](https://www.chatpdf.com/)**, [PaperBrain](https://www.paperbrain.study/) or [Ask Your PDF](https://askyourpdf.com/) - Turn PDFs into Chatbots
 * [Turing](https://github.com/TuringAI-Team/chatgpt-discord-bot), [Erin](https://erin.ac/) or [SallyBot](https://github.com/DeSinc/SallyBot/) - ChatGPT Discord Bots
-*  [ChatWebpage](https://chatwebpage.com/) - Turn Webpages into Chatbots
-*  [Vault AI](https://vault.pash.city/), [Humata](https://www.humata.ai/), [Unriddle](https://www.unriddle.ai/), [Sharly](https://app.sharly.ai/), [Docalysis](https://docalysis.com/) or [ChatDOC](https://chatdoc.com/) - Turn Documents into Chatbots
+* [ChatWebpage](https://chatwebpage.com/) - Turn Webpages into Chatbots
+* [Vault AI](https://vault.pash.city/), [Humata](https://www.humata.ai/), [Unriddle](https://www.unriddle.ai/), [Sharly](https://app.sharly.ai/), [Docalysis](https://docalysis.com/) or [ChatDOC](https://chatdoc.com/) - Turn Documents into Chatbots
 * [PrivateGPT](https://github.com/imartinez/privateGPT/) or [ChatDocs](https://github.com/marella/chatdocs) - Offline Document Chatbots
 * [ChatGPT DeMod](https://github.com/4as/ChatGPT-DeMod) - Block ChatGPT Moderation Checks
 * [TGPT](https://github.com/aandrew-me/tgpt) - ChatGPT in TUIs
@@ -6179,20 +6167,11 @@ Use any **[Base64 Decoding](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/stor
 ## ▷ ChatGPT Prompts
 
 * 🌐 **[Awesome ChatGPT Prompts](https://prompts.chat/)** / [2](https://github.com/f/awesome-chatgpt-prompts) - Prompt Directory
-* 🌐 **[jailbreakchat](https://www.jailbreakchat.com/)**, **[jamessawyer](http://www.jamessawyer.co.uk/pub/gpt_jb.html)** or [DAN](https://gist.github.com/coolaj86/6f4f7b30129b0251f61fa7baaa881516)- Jailbreak Prompts
+* 🌐 **[jailbreakchat](https://www.jailbreakchat.com/)**, **[jamessawyer](http://www.jamessawyer.co.uk/pub/gpt_jb.html)** or [DAN](https://gist.github.com/coolaj86/6f4f7b30129b0251f61fa7baaa881516) - Jailbreak Prompts
 * ⭐ **[Prompt Engineering Guide](https://www.promptingguide.ai)**, [Jailbreaking ChatGPT](https://arxiv.org/pdf/2305.13860) or [Learn Prompting](https://learnprompting.org/) - Prompting Guides
 * ⭐ **[quickref](https://quickref.me/chatgpt)** - Prompt Cheatsheets
-* [Chatgptjailbreak](https://rentry.org/Chatgptjailbreak) - Prompt Directory
-* [500 Best Prompts](https://puzzle-jute-202.notion.site/500-Best-ChatGPT-Prompts-f5b4ad65deec4b6385316fdb8740af74) - Prompt Directory
-* [flowgpt](https://flowgpt.com/) - Prompt Directory
-* [Prompts Hub](https://docs.google.com/spreadsheets/d/1Y-xQwFkQFCKhPB3nOMyTMNPZ-vaFiof2-vWGBAeupTo/edit#gid=0) - Prompt Directory
-* [DataFit](https://datafit.ai/top-chatgpt-prompts) - Prompt Directory
-* [ChainBrain AI](https://www.chainbrainai.com/) - Prompt Directory
-* [PromptVine](https://promptvine.com/) - Prompt Directory
-* [AwesomeGPTPrompts](https://www.awesomegptprompts.com/) - Prompt Directory
-* [OrdinaryPeoplePrompts](https://www.ordinarypeopleprompts.com/) - Prompt Directory
-* [UseThisPrompt](https://www.usethisprompt.io/) - Prompt Directory
-* [SnackPrompt](https://snackprompt.com/) - Prompt Directory
+* [Chatgptjailbreak](https://rentry.org/Chatgptjailbreak) - Jailbreak Prompts
+* [500 Best Prompts](https://puzzle-jute-202.notion.site/500-Best-ChatGPT-Prompts-f5b4ad65deec4b6385316fdb8740af74), [flowgpt](https://flowgpt.com/), [Prompts Hub](https://docs.google.com/spreadsheets/d/1Y-xQwFkQFCKhPB3nOMyTMNPZ-vaFiof2-vWGBAeupTo/edit#gid=0), [DataFit](https://datafit.ai/top-chatgpt-prompts), [ChainBrain AI](https://www.chainbrainai.com/), [PromptVine](https://promptvine.com/), [AwesomeGPTPrompts](https://www.awesomegptprompts.com/), [OrdinaryPeoplePrompts](https://www.ordinarypeopleprompts.com/), [UseThisPrompt](https://www.usethisprompt.io/) or [SnackPrompt](https://snackprompt.com/) - Prompt Directories
 * [GPTea](https://gptea.io/) - Trending Prompts
 * [SD Dynamic Prompts](https://github.com/adieyal/sd-dynamic-prompts) or [PromptBot](https://www.messengerx.io/promptbot) - Prompt Generators
 * [PromptPerfect](https://promptperfect.jina.ai/) or [GeniePT](https://www.geniept.com/ ) - Prompt Optimization
@@ -6243,25 +6222,14 @@ Use any **[Base64 Decoding](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/stor
 
 * [Scrip AI](https://scripai.com/), [InkForAll](https://app.inkforall.com/tools), [QuickPenAI](https://quickpenai.com/) - Online AI Text Tools
 * [NovelAI](https://novelai.net/) - Story Writing AI / [Limit Bypass](https://pastebin.com/JDyvqZcz), [2](https://greasyfork.org/en/scripts/448926)
-* [Dreamily](https://dreamily.ai/) - Story Writing AI
-* [NightSaga](https://nightsaga.ai/) - Story Writing AI
-* [Essaytyper](http://www.essaytyper.com/) - Essay Writing AI
-* [papertyper](https://papertyper.net/) - Essay Writing AI
-* [EssayBot](https://www.essaybot.com/) / [2](https://www.essayaibot.com/) - Essay Writing AI
-* [Textero](https://www.textero.ai/) - Essay Writing AI
-* [EssayBuilder](https://essay-builder.ai/) - Essay Writing AI
-* [EssayService](https://www.essayservice.ai/) - Essay Writing AI
+* [Dreamily](https://dreamily.ai/), [NightSaga](https://nightsaga.ai/) - Story Writing AI
+* [Essaytyper](http://www.essaytyper.com/), [papertyper](https://papertyper.net/), [EssayBot](https://www.essaybot.com/) / [2](https://www.essayaibot.com/), [Textero](https://www.textero.ai/), [EssayBuilder](https://essay-builder.ai/) or [EssayService](https://www.essayservice.ai/) - Essay Writing AI
 * [Chat GPTPhantom](https://chatgpt-phantom.vercel.app/) - Article Writing AI
 * [GPT4Chat](https://gpt4chat.net/) or [ChatGPT Writer](https://chatgptwriter.ai/) - Email Reply AI
 * [codex-readme](https://github.com/tom-doerr/codex-readme) - README AI Generator
 * [SiteExplainer](https://www.siteexplainer.com/) - AI Site Explanations
 * [TextFX](https://textfx.withgoogle.com/) - AI Creative Writing Tools
-* [Novel.sh](https://novel.sh/) - Text Autocomplete AI
-* [EleutherAI](https://6b.eleuther.ai/) - Text Autocomplete AI
-* [Talk to Transformer](https://app.inferkit.com/demo) - Text Autocomplete AI
-* [TextSynth](https://textsynth.com/playground.html) - Text Autocomplete AI
-* [Basaran](https://github.com/hyperonym/basaran) - Text Autocomplete AI
-* [Cyborg Writer](https://cyborg.tenso.rs/) - Text Autocomplete AI
+* [Novel.sh](https://novel.sh/), [EleutherAI](https://6b.eleuther.ai/), [Talk to Transformer](https://app.inferkit.com/demo), [TextSynth](https://textsynth.com/playground.html), [Basaran](https://github.com/hyperonym/basaran) or [Cyborg Writer](https://cyborg.tenso.rs/) - Text Autocomplete AI
 * [Compose](https://www.compose.ai/) - Text Autocomplete AI Extension
 * [SheetPlus](https://sheetplus.ai/), [NumerousAI](https://workspace.google.com/marketplace/app/numerousai/575253125118) or [FormulaBot](https://formulabot.com/) - Excel AI Tools
 * [GPT-JT](https://huggingface.co/togethercomputer/GPT-JT-6B-v1) - Text Classification AI
@@ -6370,10 +6338,7 @@ Use any **[Base64 Decoding](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/stor
 
 * 🌐 **[RentrySD](https://rentry.org/RentrySD/)**, **[Pharmapsychotic](https://pharmapsychotic.com/tools.html)**, [Paper2GUI](https://github.com/Baiyuetribe/paper2gui/blob/main/README_en.md), [SD Goldmine](https://rentry.org/sdgoldmine), [Akashic](https://github.com/Maks-s/sd-akashic), [sdg-link](https://rentry.org/sdg-link), [SDTools](https://sdtools.org) or [AI Creation Tools](https://docs.google.com/spreadsheets/d/1zYJUM-srhgIA7wrj4Pe4QqepAsHIEC00DydoTPv4PWg/edit#gid=0) - AI Image Resources
 * ⭐ **[A Traveler’s Guide to the Latent Space](https://sweet-hall-e72.notion.site/A-Traveler-s-Guide-to-the-Latent-Space-85efba7e5e6a40e5bd3cae980f30235f)** - AI Art Guide
-* ⭐ **[Voldy](https://rentry.org/voldy)** - Stable Diffusion Guide
-* ⭐ **[SD Compendium](https://www.sdcompendium.com/)** - Stable Diffusion Guide
-* ⭐ **[SD Quickstart](https://redd.it/xvhavo)** - Stable Diffusion Guide
-* ⭐ **[1 Min Stable Diffusion](https://youtu.be/l3JjTDvyVdw)** - Stable Diffusion Guide
+* ⭐ **[Voldy](https://rentry.org/voldy)**, **[SD Compendium](https://www.sdcompendium.com/)**, **[SD Quickstart](https://redd.it/xvhavo)** or **[1 Min Stable Diffusion](https://youtu.be/l3JjTDvyVdw)** - Stable Diffusion Guides
 * [TheAlly's Guide](https://civitai.com/models/22881/) - Stable Diffusion Guide
 * [StableDiffusion Cheatsheet](https://github.com/SupaGruen/StableDiffusion-CheatSheet) - Stable Diffusion Cheatsheet
 * [Textard](https://rentry.org/textard) - Textual Inversion Guide
@@ -6384,7 +6349,7 @@ Use any **[Base64 Decoding](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/stor
 * [DummyControlNet](https://rentry.org/dummycontrolnet) - ControlNet Guide
 * [Unstable Diffusion](https://discord.com/invite/unstablediffusion) - AI Image Community
 * [/r/sdforall](https://www.reddit.com/r/sdforall/) - Stable Diffusion Subreddit
-  
+
 ***
 
 ## ▷ [Image Restoration](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/img-tools#wiki_.25B7_restoration)
@@ -6428,7 +6393,7 @@ Use any **[Base64 Decoding](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/stor
 * ⭐ **[Uberduck](https://uberduck.ai/)** / [Discord](https://discord.gg/uberduck-768215836665446480)
 * ⭐ **[Tortoise TTS](https://github.com/neonbjb/tortoise-tts)**
 * ⭐ **[Bark](https://huggingface.co/spaces/suno/bark)** - [Github](https://github.com/suno-ai/bark) / [Discord](https://discord.com/invite/J2B2vsjKuE)
-* [Balabolka](http://www.cross-plus-a.com/bportable.htm)
+* [Balabolka](https://www.cross-plus-a.com/bportable.htm)
 * [15.ai](https://15.ai/)
 * [Text To Speech](https://texttospeech.ca/)
 * [ttsMP3](https://ttsmp3.com/)
@@ -6469,25 +6434,9 @@ Use any **[Base64 Decoding](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/stor
 
 ## ▷ Voice Change / Clone
 
-* [Voice Changer](https://voicechanger.io/) - Voice Changer
-* [voice-changer](https://www.voice-changer.org/) - Voice Changer
-* [RVC-GUI](https://github.com/Tiger14n/RVC-GUI) - Voice Changer
-* [Lyrebird](https://github.com/lyrebird-voice-changer/lyrebird) - Voice Changer
-* [MyVoiceMod](https://myvoicemod.com/) - Voice Changer
-* [Voice.ai](https://voice.ai/ai-voice-changer) - Voice Changer
-* [so-vits-svc-fork](https://github.com/voicepaw/so-vits-svc-fork) - Voice Changer
-* [FTM Voice Changer](https://lingojam.com/FemaletoMaleVoiceChanger) - Voice Changer
-* [VoiceConversionWebUI](https://huggingface.co/lj1995/VoiceConversionWebUI/) - Voice Changer
-* [voice-changer](https://github.com/w-okada/voice-changer) - Voice Changer
-* [ClownFish](https://clownfish-translator.com/voicechanger/) - Voice Changer
+* [Voice Changer](https://voicechanger.io/), [voice-changer](https://www.voice-changer.org/), [RVC-GUI](https://github.com/Tiger14n/RVC-GUI), [Lyrebird](https://github.com/lyrebird-voice-changer/lyrebird), [MyVoiceMod](https://myvoicemod.com/), [Voice.ai](https://voice.ai/ai-voice-changer), [so-vits-svc-fork](https://github.com/voicepaw/so-vits-svc-fork), [FTM Voice Changer](https://lingojam.com/FemaletoMaleVoiceChanger), [VoiceConversionWebUI](https://huggingface.co/lj1995/VoiceConversionWebUI/), [voice-changer](https://github.com/w-okada/voice-changer) or [ClownFish](https://clownfish-translator.com/voicechanger/) - Voice Changer
 * [NeuralSVB](https://github.com/MoonInTheRiver/NeuralSVB) - Singing Voice Enhancer
-* [Voice Cloning App](https://github.com/BenAAndrew/Voice-Cloning-App) - Voice Cloning
-* [Kits AI](https://www.kits.ai/) - Voice Cloning
-* [Real Time Voice Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning) - Voice Cloning
-* [Beyondwords](https://beyondwords.io/) - Voice cloning
-* [VCloner](https://vocloner.com/) - Voice Cloning
-* [Controllable TalkNet](https://github.com/justinjohn0306/ControllableTalkNet) - Voice Cloning
-* [Musicfy](https://musicfy.lol/) - Voice Cloning
+* [Voice Cloning App](https://github.com/BenAAndrew/Voice-Cloning-App), [Kits AI](https://www.kits.ai/), [Real Time Voice Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning), [Beyondwords](https://beyondwords.io/), [VCloner](https://vocloner.com/), [Controllable TalkNet](https://github.com/justinjohn0306/ControllableTalkNet) or [Musicfy](https://musicfy.lol/) - Voice Cloning
 * [tortoise](https://github.com/152334H/tortoise-tts-fast) - Voice Cloning / [Colab](https://colab.research.google.com/drive/1N8lXviiwfmrS9vYzuFdQnLHlddXMMMvU#scrollTo=vF1d-My9IXXt)
 * [AI Voice Clonig](https://git.ecker.tech/mrq/ai-voice-cloning/wiki) - Voice Cloning Guide
 * [AI hub](https://discord.gg/aihub) - AI Voice Profiles
@@ -15090,7 +15039,7 @@ Use any **[Base64 Decoding](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/stor
 
 * ⭐ **[FFmpeg](https://ffmpeg.org/)** / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_ffmpeg_tools)
 
-[Online Audio Converter](https://online-audio-converter.com/), [fre:ac](https://www.freac.org/), [FlicFlac](https://github.com/DannyBen/FlicFlac), [LameXP](https://sourceforge.net/projects/lamexp/), [FFaudioConverter](https://github.com/Bleuzen/FFaudioConverter/), [SoX](https://sox.sourceforge.net/), [dBpoweramp](https://www.dbpoweramp.com/dmc.htm), [FLAC2iTunes](https://github.com/pathartl/FLAC2iTunes/), [M4A to MP3 Converter](https://m4amp3.com/)
+[Online Audio Converter](https://online-audio-converter.com/), [fre:ac](https://www.freac.org/), [FlicFlac](https://github.com/DannyBen/FlicFlac), [LameXP](https://sourceforge.net/projects/lamexp/), [FFaudioConverter](https://github.com/Bleuzen/FFaudioConverter/), [SoX](https://sox.sourceforge.net/), [FLAC2iTunes](https://github.com/pathartl/FLAC2iTunes/), [M4A to MP3 Converter](https://m4amp3.com/)
 
 ***
 
