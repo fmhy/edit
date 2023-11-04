@@ -30,7 +30,7 @@ export default defineEventHandler(async (event) => {
   if (!["bug", "suggestion", "other", "appreciate"].includes(feedbackType!) || !message) {
     throw new Error("Invalid input.");
   }
-  console.log(env.WEBHOOK_URL);
+  console.log(env.WEBHOOK_URL, process.env.WEBHOOK_URL);
   await fetcher()
     .post(env.WEBHOOK_URL, {
       username: "Feedback",
