@@ -151,7 +151,6 @@
 * [HMDRIVE](https://t.me/HMDRIVE_OFFICIAL) - Courses
 * [Iit jee lectures](https://t.me/Iitjeeinveins2), [Codex](https://t.me/CODEX_JEE), [Rankers](https://t.me/+mcZ0RHaH9vRlM2Y1) or [Genetry](https://genetry.carrd.co/) - JEE Lectures
 * [CoursesDaddy](https://coursesdaddy.com/) - Courses
-* [Courses Pastebins](https://github.com/nbats/FMHYedit/blob/main/base64.md#course-pastebins) - Courses
 * [Super Huge Course Collection](https://babia.to/threads/%F0%9F%94%A5%F0%9F%94%A5-super-huge-course-collection-700-courses-3tb-data-%F0%9F%94%A5%F0%9F%94%A5.40041/) - Courses
 * [online-courses](https://online-courses.club/) - Courses
 * [Coursesghar](https://coursesghar.com/) - Courses
@@ -718,7 +717,6 @@
 * [Elsaspeak](https://elsaspeak.com/en/) - Practice English Conversations
 * [yell0wsuit](https://yell0wsuit.page/english.html) - Oxford English Learning Tools
 * [Podcasts in English](https://www.podcastsinenglish.com/) - English Learning Podcasts
-* [BeyondPlayer](https://circleapps.co/) - YouTube Player for English Learners
 * [Langeek](https://langeek.co/) or [Ozdic](https://ozdic.com/) - Grammar / Vocabulary Language Learning
 * [Xuga](https://eng.ichacha.net/mpr/xuga.html) - Word Pronunciation Tool
 * [EnglishAccentMap](https://www.englishaccentsmap.com/) - English Accent Videos / Map
@@ -858,7 +856,7 @@
 * [ImageJ](https://imagej.net/) or [Fiji](https://fiji.sc/) - Scientific Image Analyzers
 * [Altium](https://www.altium.com/viewer/) - Schematics Visualizer
 * [Wolfram Cloud](https://www.wolframcloud.com/) - Computational intelligence
-* [.edu Mail Guide](https://docs.google.com/document/d/1IjxLeNuF58-lL-aHCAbpliap6qUuTR7UMEPAaYHaBHg/preview), [Mail.mjj](https://mail.mjj.edu.ge/), [easymail](https://easymail.run/), [etempmail](https://etempmail.com/) or [10MinMail](https://10minutesemail.net/) - EDU Email Addresses
+* [.edu Mail Guide](https://docs.google.com/document/d/1IjxLeNuF58-lL-aHCAbpliap6qUuTR7UMEPAaYHaBHg/preview), [easymail](https://easymail.run/), [etempmail](https://etempmail.com/) or [10MinMail](https://10minutesemail.net/) - EDU Email Addresses
 * [Edu VPN](https://www.eduvpn.org/) - Institute Access VPN
 * [BachelorStudies](https://bachelorstudies.com/) - Bachelor Degree Search
 * [Niche](https://www.niche.com/), [TheUniGuide](https://www.theuniguide.co.uk/), [Alumnius](https://alumnius.net/) or [Top Universities](https://www.topuniversities.com/) - University / School Comparisons
