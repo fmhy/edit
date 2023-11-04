@@ -47,7 +47,7 @@ async function handleSubmit(type?: string) {
       method: "POST",
       headers: {
         "Access-Control-Allow-Origin": "*",
-        "Access-Control-Allow-Methods": "POST,PATCH,OPTIONS",
+        "Access-Control-Allow-Methods": "POST",
         "Content-Type": "application/json",
       },
       body: JSON.stringify(body),

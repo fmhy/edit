@@ -5,6 +5,12 @@ export default defineNitroConfig({
   },
   srcDir: ".vitepress",
   routeRules: {
-    "/": { cors: false },
+    "/": {
+      cors: true,
+      headers: {
+        "Access-Control-Allow-Origin": "*",
+        "Access-Control-Allow-Methods": "POST",
+      },
+    },
   },
 });
