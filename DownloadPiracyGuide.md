@@ -211,7 +211,6 @@
 * [FileEagle](https://www.fileeagle.com/) - Freeware Index
 * [Perkele](https://perkele.cc/software) - Freeware Index
 * [Patorjk](https://www.patorjk.com/) - Freeware Index
-* [OSDN](https://osdn.net/) - Freeware Index
 * [Uwe Sieber's Homepage](https://www.uwe-sieber.de/english.html)
 * [Nirsoft](https://www.nirsoft.net/), [Windows-Utilities](https://orga.cat/windows-utilities), [OS Vault](https://osvault.weebly.com/directory.html) or [WinTools](https://www.wintools.info/) - Windows Software
 * [UWP Community](https://uwpcommunity.com/) - Universal Windows Programs / [Discord](https://discord.gg/eBHZSKG)
