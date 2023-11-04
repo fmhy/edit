@@ -657,7 +657,7 @@
 
 ## ▷ Hentai Manga / Comics
 
-* ⭐ **[E-Hentai](https://e-hentai.org/)** - Hentai Manga / [Android Client](https://github.com/honjow/FEhViewer) / [Deleted Galleries Backup](https://panda.chaika.moe/) / [Downloader](https://gitlab.com/squishydreams/pandaforever), [2](https://github.com/ccloli/E-Hentai-Downloader)
+* ⭐ **[E-Hentai](https://e-hentai.org/)** / [ExHentai](https://exhentai.org/) - Hentai Manga / [Android Client](https://github.com/honjow/FEhViewer) / [Deleted Galleries Backup](https://panda.chaika.moe/) / [Downloader](https://gitlab.com/squishydreams/pandaforever), [2](https://github.com/ccloli/E-Hentai-Downloader)
 * ⭐ **[Anchira](https://anchira.to/)** - Fakku/Irodori Rips
 * ⭐ **[Hitomi](https://hitomi.la/)** - Hentai Manga
 * ⭐ **[IMHentai](https://imhentai.xxx/)** - Hentai Manga / Comics / [Discord](https://discord.com/invite/GRTKFhavEG)

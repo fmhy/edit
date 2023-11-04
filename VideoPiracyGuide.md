@@ -36,7 +36,7 @@
 * [DailyFlix](https://main.dailyflix.stream/) - Movies / TV / Anime / 1080p / [Link Site](https://main.dailyflix.info/)
 * [Levidia](https://www.levidia.ch/) - Movies / TV / Anime / 1080p
 * [EuroPixHD](https://europixhd.pro/), [2](https://epxmovies.net/) - Movies / TV / Anime / 1080p
-* [xpWatch](https://xpwatch.vercel.app/) - Movies / TV / Anime / 1080p
+* [xpWatch](https://xpwatch-v2.pages.dev/) - Movies / TV / Anime / 1080p
 * [Goojara](https://www.goojara.to/) - Movies / TV / Anime / 1080p
 * [Kinos](https://www.kinos.to/) - Movies / TV / 1080p / [Switch Language](https://i.ibb.co/n1Kb14T/64d0fb9444e1.png) (in options)
 * [Downloads-Anymovies](https://www.downloads-anymovies.co/) - Movies / 1080p
