@@ -15,7 +15,6 @@
 * ⭐ **[Mobilism Audiobooks](https://forum.mobilism.org/viewforum.php?f=124)**
 * ⭐ **[Audiobook Bay](https://audiobookbay.is/)** - Torrents / Avoid Fake DL links, Use [Torrents / Magnets](https://i.ibb.co/8sV2061/0fa8159b11bb.png)
 * ⭐ **[Tokybook](https://tokybook.com/)** - Listen Online
-* ⭐ **[Top 1000 Audiobooks](https://github.com/nbats/FMHYedit/blob/main/base64.md#audiobook-megadrive)** - Audiobooks / Drive
 * ⭐ **[Audiobook CSE](https://cse.google.com/cse?cx=006516753008110874046:cwbbza56vhd)** or **[Rave Search](https://ravebooksearch.com/index-audiobooks)** - Multi-Site Audiobook Search
 * [HotAudiobooks](https://hotaudiobooks.com) - Listen Online
 * [HDAudiobooks](https://hdaudiobooks.com/) - Listen Online
@@ -539,7 +538,7 @@
 * ↪️ **[Bypass Article Paywalls](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_read_paywalled_articles)**
 * ⭐ **[TheFreeLibrary](https://www.thefreelibrary.com/)** - Articles
 * ⭐ **[Sci-Hub](https://sci-hub.se/)** - Science Articles / Research Papers
-* ⭐ **Sci-Hub Tools** - [Telegram](https://t.me/freescience) / [Mirrors](https://sci-hub.41610.org/), [2](https://vertsluisants.fr/index.php?article4/where-scihub-libgen-server-down), [3](https://sci-hub.hkvisa.net/) / [TG Bot](https://t.me/scihubot) / [Extension](https://addons.mozilla.org/en-US/firefox/addon/sci-hub-scholar/) / [DL Button](https://greasyfork.org/zh-CN/scripts/370246-sci-hub-button), [2](https://github.com/gchenfc/sci-hub-now) / [PDF Download](https://gagarine.medium.com/use-sci-hub-with-zotero-as-a-fall-back-pdf-resolver-cf139eb2cea7) / [Backup](https://redd.it/edwi9b) / [/r/scihub](https://reddit.com/r/scihub) / [VK](https://vk.com/sci_hub) / [DOI Redirect](https://greasyfork.org/en/scripts/412498)
+* ⭐ **Sci-Hub Tools** - [Telegram](https://t.me/freescience) / [Mirrors](https://vertsluisants.fr/index.php?article4/where-scihub-libgen-server-down), [2](https://sci-hub.hkvisa.net/) / [TG Bot](https://t.me/scihubot) / [Extension](https://addons.mozilla.org/en-US/firefox/addon/sci-hub-scholar/) / [DL Button](https://greasyfork.org/zh-CN/scripts/370246-sci-hub-button), [2](https://github.com/gchenfc/sci-hub-now) / [PDF Download](https://gagarine.medium.com/use-sci-hub-with-zotero-as-a-fall-back-pdf-resolver-cf139eb2cea7) / [Backup](https://redd.it/edwi9b) / [/r/scihub](https://reddit.com/r/scihub) / [VK](https://vk.com/sci_hub) / [DOI Redirect](https://greasyfork.org/en/scripts/412498)
 * [Wikisource](https://en.wikisource.org) - Poetry / Text / Documents
 * [Heystacks](https://heystacks.com/) - Public Google Docs
 * [IDEAS](https://ideas.repec.org/) - Economic Research Papers
@@ -790,7 +789,7 @@
 * [PenLab](https://penlab.ink/) - Filipino Comics
 * [Comic Book Library](https://nv3x2jozywh63fkohn5mwp2d73vasusjixn3im3ueof52fmbjsigw6ad.onion.ly/) / [.onion](http://nv3x2jozywh63fkohn5mwp2d73vasusjixn3im3ueof52fmbjsigw6ad.onion/) - Tor required
 * [ComicEater](https://github.com/kanjieater/ComicEater) - Comic Archiving Tools
-* [Omnibus](https://github.com/fireshaper/Omnibus), [Comics Downloader](https://github.com/Girbons/comics-downloader), [mylar3](https://github.com/mylar3/mylar3), [Comics-DL](https://github.com/The-Eye-Team/Comics-DL), [Comic-DL](https://github.com/Xonshiz/comic-dl), [comicMaker](https://github.com/gunjannandy/comicMaker) or [work_crawler](https://github.com/kanasimi/work_crawler/blob/master/document/README.en-US.md) - Comic Downloaders
+* [Omnibus](https://github.com/fireshaper/Omnibus), [Comics Downloader](https://github.com/Girbons/comics-downloader), [mylar3](https://github.com/mylar3/mylar3), [Comics-DL](https://github.com/The-Eye-Team/Comics-DL), [Comic-DL](https://github.com/Xonshiz/comic-dl) or [comicMaker](https://github.com/gunjannandy/comicMaker) - Comic Downloaders
 * [Tapastic Comic Downloader](https://github.com/TilCreator/Tapas-Comic-Downloader) - Tapas Comics Downloader
 * [Cover](https://frenchfrysoftware.com/cover//), [Komikku](https://gitlab.com/valos/Komikku), [MComix](https://sourceforge.net/projects/mcomix/), [CBR Reader](https://www.cdisplayex.com/), [comic-book-reader](https://github.com/binarynonsense/comic-book-reader), [OpenComic](https://github.com/ollm/OpenComic) or [YACReader](https://yacreader.com/) - Readers / Managers
 * [Free Dark Horse Digital Comics](https://digital.darkhorse.com/pages/free) / [Downloader](https://github.com/GrowAsguard/Dark-Horse-Comics-Converter)
@@ -930,7 +929,6 @@
 * [Manhwatop](https://manhwatop.com/)
 * [Instamanhwa](https://www.instamanhwa.com/)
 * [Manhwa68](https://manhwa68.com/)
-* [Manhwa World](https://manhwaworld.com/)
 * [Comic Kiba](https://manhuagold.com/)
 * [ManhwaZ](https://manhwaz.com/)
 * [Manhwafull](https://manhwafull.com/)
