@@ -46,8 +46,8 @@ async function handleSubmit(type?: string) {
     const response = await fetch("https://feedback.tasky.workers.dev", {
       method: "POST",
       headers: {
-        'Access-Control-Allow-Origin':'*',
-        'Access-Control-Allow-Methods':'POST,PATCH,OPTIONS'
+        "Access-Control-Allow-Origin": "*",
+        "Access-Control-Allow-Methods": "POST,PATCH,OPTIONS",
         "Content-Type": "application/json",
       },
       body: JSON.stringify(body),
@@ -101,7 +101,7 @@ async function handleSubmit(type?: string) {
           </div>
         </div>
         <textarea v-model="feedback.message" autofocus class="input" />
-        <p class="desc">Contact, so we can get back to you. (Optional)</p>
+        <p class="desc">Contacts, so we can get back to you. (Optional)</p>
         <textarea v-model="feedback.contactEmail" class="contact-input" />
         <button class="btn btn-primary" :disabled="!feedback.message" @click="handleSubmit()">
           Submit
