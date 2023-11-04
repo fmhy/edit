@@ -24,8 +24,6 @@ function getFeedbackOption(value: string) {
 }
 
 export default defineEventHandler(async (event) => {
-  if (event.headers.get("sec-fetch-mode") === "cors") return sendNoContent(event, 200);
-
   const { message, contactEmail, feedbackType } = await readBody<Feedback>(event);
   const env = useRuntimeConfig(event);
 
