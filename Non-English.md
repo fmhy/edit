@@ -830,7 +830,6 @@
 * [DLZip](https://dl-zip.com/) - Manga
 * [MangaBox](https://www.mangabox.me/) - Manga
 * [Mangaz](https://www.mangaz.com/) - Manga
-* [Manga1001](https://manga1001.in/) - Manga
 * [shinmoemanga](https://shinmoemanga.neocities.org/) - Manga
 * [Comic Walker](https://comic-walker.com/) - Manga
 * [Rawkuma](https://rawkuma.com/) - Manga
@@ -1712,7 +1711,6 @@
 
 * [niceoppai](https://www.niceoppai.net/) - Manga
 * [kingsmanga](https://www.kingsmanga.net/) - Manga
-* [hotnovelonline](https://hotnovelonline.com/) - Light Novels
 * [novels108](https://www.novels108.com/) - Light Novels
 
 ***
