@@ -45,6 +45,8 @@
 * ⭐ **[hate5six](https://hate5six.com/)** - Concert Recordings
 * [OperaOnVideo](https://www.operaonvideo.com/) - Opera Recordings
 * [Last.fm](https://www.last.fm/), [ccMixter](https://dig.ccmixter.org/), [Audiomack](https://audiomack.com/), [xprm](https://xprm.net/), [Pandora](https://www.pandora.com/), [Jango](https://jango.com/), [Jamendo](https://www.jamendo.com/), [SoundClick](https://www.soundclick.com/default.cfm), [Cliggo](https://music.cliggo.com/) or [Mixupload](https://mixupload.com/) - Browser Music
+* [Tancpol](https://tancpol.net/) - Browser Music
+* [musify](https://musify.club/) - Browser Music
 * [DMO](https://dance-music.org/) - Electronic
 * [Mixing.dj](https://mixing.dj/) - DJ Mixes
 * [OldSkoolMP3](https://oldskoolmp3.com/OldSkool/) - Oldschool Electronic
