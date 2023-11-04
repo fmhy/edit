@@ -1,6 +1,7 @@
 {
   "name": "fmhy",
   "type": "module",
+  "packageManager": "pnpm@8.7.6",
   "scripts": {
     "docs:dev": "vitepress dev",
     "docs:build": "vitepress build",
