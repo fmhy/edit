@@ -1,3 +1,9 @@
 **/.vitepress/dist
 **/.vitepress/cache
 node_modules
+*.log*
+.nitro
+.cache
+.output
+.env
+dist

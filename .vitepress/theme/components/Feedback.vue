@@ -43,7 +43,7 @@ async function handleSubmit(type?: string) {
   };
 
   try {
-    const response = await fetch("https://fmhy.tk/api/feedback", {
+    const response = await fetch("https://feedback.tasky.workers.dev", {
       method: "POST",
       headers: {
         "Content-Type": "application/json",
@@ -76,11 +76,7 @@ async function handleSubmit(type?: string) {
           </div>
         </div>
         <div class="button-container">
-          <button
-            v-for="item in feedbackOptions"
-            :key="item.value"
-            class="btn"
-            @click="handleSubmit(item.value)">
+          <button v-for="item in feedbackOptions" :key="item.value" class="btn" @click="handleSubmit(item.value)">
             <span>{{ item.label }}</span>
           </button>
         </div>
@@ -90,15 +86,14 @@ async function handleSubmit(type?: string) {
           <p class="desc">The wiki is...</p>
           <div>
             <span>{{ getFeedbackOption(feedback.feedbackType)?.label }}</span>
-            <button
-              style="margin-left: 0.5rem"
-              class="btn"
-              @click="feedback.feedbackType = undefined">
+            <button style="margin-left: 0.5rem" class="btn" @click="feedback.feedbackType = undefined">
               <span class="i-carbon-close-large">close</span>
             </button>
           </div>
         </div>
         <textarea v-model="feedback.message" autofocus class="input" />
+        <p class="desc">Contact, so we can get back to you. (Optional)</p>
+        <textarea v-model="feedback.contactEmail" class="contact-input" />
         <button class="btn btn-primary" :disabled="!feedback.message" @click="handleSubmit()">
           Submit
         </button>
@@ -111,7 +106,7 @@ async function handleSubmit(type?: string) {
 </template>
 
 <style scoped>
-.step > * + * {
+.step>*+* {
   margin-top: 1rem;
 }
 
@@ -173,6 +168,13 @@ async function handleSubmit(type?: string) {
 .input {
   width: 100%;
   height: 100px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  padding: 0.375rem 0.75rem;
+}
+
+.contact-input {
+  height: 50px;
   border: 1px solid #ccc;
   border-radius: 4px;
   padding: 0.375rem 0.75rem;

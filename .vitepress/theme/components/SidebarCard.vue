@@ -20,11 +20,11 @@ import InputField from "./InputField.vue";
         <Modal />
       </template>
     </InputField>
-    <InputField id="toggle-starred" label="Toggle Starred">
-      <template #display>
-        <button class="p-[4px 8px] text-xl i-carbon:star"></button>
-      </template>
-    </InputField>
+    <!-- <InputField id="toggle-starred" label="Toggle Starred"> -->
+    <!--   <template #display> -->
+    <!--     <button class="p-[4px 8px] text-xl i-carbon:star"></button> -->
+    <!--   </template> -->
+    <!-- </InputField> -->
   </div>
 </template>
 

@@ -5,11 +5,16 @@
     "docs:dev": "vitepress dev",
     "docs:build": "vitepress build",
     "docs:preview": "vitepress preview",
+    "api:prepare": "nitropack prepare",
+    "api:dev": "nitropack dev",
+    "api:build": "nitropack build",
+    "api:preview": "node .output/server/index.mjs",
     "format": "prettier -w --cache ."
   },
   "dependencies": {
-    "@headlessui/vue": "^1.7.16",
     "fast-glob": "^3.3.1",
+    "itty-fetcher": "^0.9.4",
+    "nitropack": "latest",
     "pathe": "^1.1.1",
     "unocss": "^0.57.1",
     "vitepress": "1.0.0-rc.24",
