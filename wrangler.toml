@@ -1,4 +1,5 @@
 name = "feedback"
 main = ".output/server/index.mjs"
 workers_dev = true
+account_id = "fe5d9bd14160b07939282e45f63eb5ad"
 compatibility_date = "2022-09-10"
