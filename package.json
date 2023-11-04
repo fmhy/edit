@@ -10,7 +10,8 @@
     "api:dev": "nitropack dev",
     "api:build": "nitropack build",
     "api:preview": "node .output/server/index.mjs",
-    "format": "prettier -w --cache ."
+    "format": "prettier -w --cache .",
+    "postinstall": "nitropack prepare"
   },
   "dependencies": {
     "fast-glob": "^3.3.1",
