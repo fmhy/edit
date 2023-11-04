@@ -5,6 +5,6 @@ export default defineNitroConfig({
   },
   srcDir: ".vitepress",
   routeRules: {
-    "/*": { cors: false },
+    "/": { cors: false },
   },
 });
