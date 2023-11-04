@@ -3244,7 +3244,7 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://70.88.180.169:8
 
 * ⭐ **[ReVanced](https://revanced.app)** / [Extended](https://github.com/inotia00/ReVanced_Extended), [ReVanced APKs](https://revanced-apks.pages.dev/) or [RVX Lite](https://t.me/rvx_lite) - Latest Revanced Apps / [Guide](https://redd.it/xlcny9)
 * ⭐ **[ReVanced Manager](https://github.com/revanced/revanced-manager)**
-* ⭐ **[ReVanced Extended](https://github.com/NoName-exe/revanced-extended)**, [2](https://github.com/inotia00/revanced-patches/tree/revanced-extended) / [Magisk Module](https://github.com/sixstrings/revanced-extended-magisk-module)
+* ⭐ **[ReVanced Extended](https://github.com/inotia00/revanced-patches/tree/revanced-extended)**, / [Magisk Module](https://github.com/sixstrings/revanced-extended-magisk-module)
 * ⭐ **[ReVanced Magisk Module](https://github.com/j-hc/revanced-magisk-module)**
 * ⭐ **[LibreTube](https://github.com/libre-tube/LibreTube)**
 * ⭐ **[NewPipe](https://newpipe.net/)** / [Sponsorblock](https://github.com/polymorphicshade/NewPipe)
