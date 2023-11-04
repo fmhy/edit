@@ -301,7 +301,6 @@
 * [PeerVPN](https://peervpn.net/) - P2P VPN
 * [Knapsu](https://knapsu.eu/plex/) or [Cloudbox](https://cloudbox.works/) - Media Server
 * [ansible-hms-docker](https://github.com/ahembree/ansible-hms-docker) - Automated Media Server Setup
-* [Tvheadend](https://tvheadend.org/) - TV Streaming Server / [GitHub](https://github.com/tvheadend/tvheadend)
 * [Netflix Proxy](https://github.com/ab77/netflix-proxy/) - Streaming Service Proxy
 * [Docket-Jacket](https://github.com/linuxserver/docker-jackett) - Docker Jacket Container
 * [swizzin](https://swizzin.ltd/) - Seedbox for Ubuntu / Debian

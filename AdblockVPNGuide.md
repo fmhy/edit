@@ -234,7 +234,6 @@
 * [DeepPrivacy](https://github.com/hukkelas/) - A Generative Adversarial Network for Face Anonymization
 * [image-scrubber](https://github.com/everestpipkin/image-scrubber) - Anonymize Protest Photos
 * [Mobile Verification Toolkit](https://github.com/mvt-project/mvt) - Test for Potential Compromises on Android / iOS
-* [uBeacSec](https://ubeacsec.org/) - Ultrasound Frequency Filter
 * [GoFOSS](https://gofoss.net/) - Why You Should Use FOSS Alternatives
 * [If An Agent Knocks](https://docs.google.com/document/d/176Yds1p63Q3iaKilw0luChMzlJhODdiPvF2I4g9eIXo/) - Best Practices if Contacted by Agents
 * [Opsec101](https://opsec101.org/) - Basic Opsec Guide

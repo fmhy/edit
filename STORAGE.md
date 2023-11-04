@@ -587,7 +587,10 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://70.88.180.169:8
 
 ## DNS Filters
 
-[1Hosts](https://o0.pages.dev/), [DNS for Family](https://dnsforfamily.com/), [CleanBrowsing](https://cleanbrowsing.org/filters/), [personalDNSfilter](https://www.zenz-solutions.de/personaldnsfilter-wp/), [hBlock](https://github.com/hectorm/hblock), [someonewhocares](https://someonewhocares.org/hosts/), [MVPS HOSTS](https://winhelp2002.mvps.org/hosts.htm), [Hosts File Aggregator](https://github.com/StevenBlack/hosts), [Spamhaus](https://www.spamhaus.org/), [NxFilter](https://nxfilter.org/), [dns-blocklists](https://github.com/hagezi/dns-blocklists), [OISD](https://oisd.nl/), [d3ward](https://github.com/d3ward/toolz), [Anudeep's Blacklist](https://github.com/anudeepND/blacklist), [Lightswitch05](https://www.github.developerdan.com/hosts/), [black-mirror](https://github.com/T145/black-mirror), [Scam Blocklist](https://github.com/durablenapkin/scamblocklist), [hBlock](https://hblock.molinero.dev/), [Additional Undesired Hosts](https://github.com/DRSDavidSoft/additional-hosts), [neodevhost](https://github.com/neodevpro/neodevhost), [Piperun's IP-Logger Filter](https://github.com/piperun/iploggerfilter), [GoodbyeAds](https://jerryn70.github.io/GoodbyeAds/)
+* ⭐ **[1Hosts](https://o0.pages.dev/)**
+* ⭐ **[OISD](https://oisd.nl/)**
+
+[DNS for Family](https://dnsforfamily.com/), [CleanBrowsing](https://cleanbrowsing.org/filters/), [personalDNSfilter](https://www.zenz-solutions.de/personaldnsfilter-wp/), [hBlock](https://github.com/hectorm/hblock), [someonewhocares](https://someonewhocares.org/hosts/), [MVPS HOSTS](https://winhelp2002.mvps.org/hosts.htm), [Hosts File Aggregator](https://github.com/StevenBlack/hosts), [Spamhaus](https://www.spamhaus.org/), [NxFilter](https://nxfilter.org/), [dns-blocklists](https://github.com/hagezi/dns-blocklists), [d3ward](https://github.com/d3ward/toolz), [Anudeep's Blacklist](https://github.com/anudeepND/blacklist), [Lightswitch05](https://www.github.developerdan.com/hosts/), [black-mirror](https://github.com/T145/black-mirror), [Scam Blocklist](https://github.com/durablenapkin/scamblocklist), [hBlock](https://hblock.molinero.dev/), [Additional Undesired Hosts](https://github.com/DRSDavidSoft/additional-hosts), [neodevhost](https://github.com/neodevpro/neodevhost), [Piperun's IP-Logger Filter](https://github.com/piperun/iploggerfilter), [GoodbyeAds](https://jerryn70.github.io/GoodbyeAds/)
 
 ***
 
@@ -906,8 +909,10 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://70.88.180.169:8
 * ⭐ **[Cloud Storage Comparisions](https://eylenburg.github.io/cloud_comparison.htm)** - Compare Cloud Storage Polices
 * ⭐ **[GDrive](https://drive.google.com/)**
 * ⭐ **[mega](https://mega.nz/)** / [GitHub](https://github.com/meganz)
+* ⭐ **[filen](https://filen.io/)**
+* ⭐ **[internxt](https://internxt.com/)**
 
-[dropbox](https://www.dropbox.com/) / [Client](https://github.com/SamSchott/maestral), [disk.yandex](https://disk.yandex.com/), [unlimcloud](https://www.unlimcloud.cloud/), [terabox](https://terabox.com/), [icedrive](https://icedrive.net/), [trainbit](https://trainbit.com/), [degoo](https://degoo.com/), [alfafile](https://www.alfafile.net/), [aliyundrive](https://www.aliyundrive.com/), [backblaze](https://www.backblaze.com/), [perkeep](https://perkeep.org/), [filen](https://filen.io/), [internxt](https://internxt.com/), [MrOwl](https://www.mrowl.com/), [storj](https://www.storj.io/), [PCloud](https://www.pcloud.com/), [myDrive](https://mydrive-storage.com/), [KodCloud](https://kodcloud.com/), [Infinity Upload](https://infinity-upload.com/), [Blackhole](https://blackhole.run/), [filelu](https://filelu.com/), [File.love](https://file.love/), [Blomp](https://www.blomp.com/) / [200GB Trick](https://pastebin.com/aPWjWbqn), [T-Drive](https://apps.microsoft.com/store/detail/tdrive/9MVD1PKDTXSN), [JumpShare](https://jumpshare.com/), [xpipe](https://github.com/xpipe-io/xpipe)
+[dropbox](https://www.dropbox.com/) / [Client](https://github.com/SamSchott/maestral), [disk.yandex](https://disk.yandex.com/), [unlimcloud](https://www.unlimcloud.cloud/), [terabox](https://terabox.com/), [icedrive](https://icedrive.net/), [trainbit](https://trainbit.com/), [degoo](https://degoo.com/), [alfafile](https://www.alfafile.net/), [aliyundrive](https://www.aliyundrive.com/), [backblaze](https://www.backblaze.com/), [perkeep](https://perkeep.org/), [MrOwl](https://www.mrowl.com/), [storj](https://www.storj.io/), [PCloud](https://www.pcloud.com/), [myDrive](https://mydrive-storage.com/), [KodCloud](https://kodcloud.com/), [Infinity Upload](https://infinity-upload.com/), [Blackhole](https://blackhole.run/), [filelu](https://filelu.com/), [File.love](https://file.love/), [Blomp](https://www.blomp.com/) / [200GB Trick](https://pastebin.com/aPWjWbqn), [T-Drive](https://apps.microsoft.com/store/detail/tdrive/9MVD1PKDTXSN), [JumpShare](https://jumpshare.com/), [xpipe](https://github.com/xpipe-io/xpipe)
 
 ### Multi Host Uploaders
 
@@ -2949,7 +2954,7 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://70.88.180.169:8
 
 ## Video Chat
 
-[Jitsi](https://desktop.jitsi.org/index.html) / [2](https://meet.jit.si/), [Zoom-Clone](https://github.com/Shouraya/Zoom-Clone), [kemeet](https://kemeet.vercel.app/), [MiroTalk](https://mirotalk.up.railway.app/), [p2p.chat](https://p2p.chat/) / [GitHub](https://github.com/tom-james-watson/p2p.chat), [Whereby](https://whereby.com/), [Videolink2me](https://videolink2me.com/), [TinyChat](https://tinychat.com/), [Noysi Meet](https://meet.noysi.com/), [Tlk](https://tlk.li/), [iqc](https://icq.com/), [Crewdle](https://crewdle.com/), [Briefing](https://brie.fi/ng), [Airmeet](https://www.airmeet.com/), [Brave Talk](https://talk.brave.com/), [Temasys](https://temasys.io/), [Talky](https://talky.io/), [Grain](https://grain.com/), [Pyrite](https://github.com/garage44/pyrite), [GoTeam](https://goteam.video/), [sessions](https://www.sessions.us/)
+[Jitsi](https://desktop.jitsi.org/index.html) / [2](https://meet.jit.si/), [MiroTalk](https://mirotalk.up.railway.app/), [p2p.chat](https://p2p.chat/) / [GitHub](https://github.com/tom-james-watson/p2p.chat), [Whereby](https://whereby.com/), [Videolink2me](https://videolink2me.com/), [TinyChat](https://tinychat.com/), [Noysi Meet](https://meet.noysi.com/), [Tlk](https://tlk.li/), [iqc](https://icq.com/), [Crewdle](https://crewdle.com/), [Briefing](https://brie.fi/ng), [Airmeet](https://www.airmeet.com/), [Brave Talk](https://talk.brave.com/), [Temasys](https://temasys.io/), [Talky](https://talky.io/), [Grain](https://grain.com/), [Pyrite](https://github.com/garage44/pyrite), [GoTeam](https://goteam.video/), [sessions](https://www.sessions.us/)
 
 ***
 
@@ -3192,6 +3197,7 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://70.88.180.169:8
 * [TablacusExplorer](https://tablacus.github.io/explorer_en.html) - [GitHub](https://github.com/tablacus/TablacusExplorer)
 * [WinFile](https://github.com/microsoft/winfile) or [FileSearchEX](https://goffconcepts.com/products/filesearchex/download.html) - Original Windows File Manager
 * [Multi Commander](https://multicommander.com/) - Multi-Tabbed File Manager
+
 [Total Commander](https://www.ghisler.com/), [OldNewExplorer](https://www.majorgeeks.com/files/details/oldnewexplorer.html), [Q-Dir](https://www.softwareok.com/?seite=Freeware/Q-Dir), [dnGrep](https://dngrep.github.io/), [Sigma](https://github.com/aleksey-hoffman/sigma-file-manager), [Quick Access Popup](https://www.quickaccesspopup.com/), [One Commander](https://www.onecommander.com/), [FileExplorer](https://github.com/omeryanar/FileExplorer), [Free Commander](https://freecommander.com/), [Spyglass](https://github.com/spyglass-search/spyglass), [Better Explorer](https://gainedge.org/better-explorer), [Explorer++](https://explorerplusplus.com/), [FluentSearch](https://fluentsearch.net/), [tere](https://github.com/mgunyho/tere), [DocFetcher](https://docfetcher.sourceforge.net/), [fselect](https://github.com/jhspetersson/fselect), [ExplorerEx](https://github.com/DearVa/ExplorerEx), [FarmManager](https://www.farmanager.com/), [fd](https://github.com/sharkdp/fd), [Orange](https://github.com/naaive/orange), [Files](https://files.community/), [sist2](https://github.com/simon987/sist2), [MUCommander](https://www.mucommander.com/), [AlTap](https://www.altap.cz/), [AstroGrep](https://sourceforge.net/projects/astrogrep/), [DoubleCMD](https://github.com/doublecmd/doublecmd), [ExplorerPatcher](https://github.com/valinet/ExplorerPatcher), [ChromaFiler](https://chroma.zone/chromafiler/), [Vifm](https://vifm.info/)
 
 ***
@@ -3252,7 +3258,7 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://70.88.180.169:8
 
 ### ReVanced App Builders
 
-[ReVanced Creator](https://github.com/XDream8/revanced-creator), [Docker-Py-ReVanced](https://github.com/nikhilbadyal/docker-py-revanced), [YT-AT](https://github.com/kakathic/YT-AT)
+[ReVanced Creator](https://github.com/XDream8/revanced-creator), [Docker-Py-ReVanced](https://github.com/nikhilbadyal/docker-py-revanced), [YT-AT](https://github.com/Zelooooo/AT-YT)
 
 ***
 
@@ -3290,8 +3296,9 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://70.88.180.169:8
 ### MP3/MP4
 
 * ⭐ **[YT-DLP](https://github.com/yt-dlp/yt-dlp)**
+* [Multi-Site Downlaoders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_multi_site_video_downloaders)
 
-[YTDL-PATCHED](https://github.com/ytdl-patched/ytdl-patched), [YTMP3](https://ytmp3.ch/) / [2](https://ytmp3.cc/), [YoutubeDL-Material](https://github.com/Tzahi12345/YoutubeDL-Material), [Ontiva](https://ontiva.com/), [DetURL](https://deturl.com/), [Videovor](https://www.videovor.com/en), [onlinevideoconverter](https://onlinevideoconverter.pro/), [YMP4](https://ymp4.cc/), [ymp4](https://www.ymp4.download/), [FLVto](https://www.flvto.biz/), [snappea](https://www.snappea.com/), [YT-RED-UI](https://github.com/adanvdo/YT-RED-UI), [y2mate](https://y2mate.pw/), [UPull](https://upull.me/), [savefrom](https://en.savefrom.net/391GA/)
+[YTDL-PATCHED](https://github.com/ytdl-patched/ytdl-patched), [YTMP3](https://ytmp3.ch/) / [2](https://ytmp3.cc/), [YoutubeDL-Material](https://github.com/Tzahi12345/YoutubeDL-Material), [Videovor](https://www.videovor.com/en), [onlinevideoconverter](https://onlinevideoconverter.pro/), [YT-RED-UI](https://github.com/adanvdo/YT-RED-UI), [savefrom](https://en.savefrom.net/391GA/), [loader](https://loader.to/), [Yout](https://yout.com/), [YouTube MP4](https://youtubemp4.to/)
 
 ### MP3 Only
 
@@ -3299,11 +3306,11 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://70.88.180.169:8
 * ⭐ **[YTMDL](https://ytmdl.deepjyoti30.dev/)** / [GitHub](https://github.com/deepjyoti30/ytmdl)
 * ⭐ **[Ripping Guide](https://redd.it/vv27dy)**
 
-[mps-youtube](https://github.com/mps-youtube/yewtube), [YouTube to MP3 Converter](https://www.mediahuman.com/), [loader](https://loader.to/), [Yout](https://yout.com/), [AudioJack](https://blue9.github.io/AudioJack-GUI/), [y2mp3](https://www.y2mp3.net/), [topsandtees](https://getn.topsandtees.space/), [VrTube](https://www.vrttube.com/), [dirpy](https://dirpy.com/), [soundloaders](https://www.soundloaders.com/)
+[mps-youtube](https://github.com/mps-youtube/yewtube), [y2mp3](https://www.y2mp3.net/), [VrTube](https://www.vrttube.com/), [soundloaders](https://www.soundloaders.com/)
 
 ### MP4 Only
 
-[Local Youtube Downloader](https://greasyfork.org/en/scripts/369400-local-youtube-downloader), [Tartube](https://github.com/axcore/tartube), [Youtube Video Downloader](https://github.com/OmarAflak/Youtube-Video-Downloader), [YouTube MP4](https://youtubemp4.to/), [LocoDownloader](https://locoloader.com/), [projectlounge ytdl](https://projectlounge.pw/ytdl), [YoutubeDownloader](https://github.com/Tyrrrz/YoutubeDownloader), [mp3youtubeconverter](https://mp3youtubeconverter.org/), [pobieracz](https://pobieracz.net/),  [AllToMP3](https://alltomp3.org/),[YT_Downloaders](https://rentry.co/YT_Downloaders), [PushBullet-YTDL](https://github.com/steveharsant/PushBullet-YTDL), [pytube](https://github.com/pytube/pytube), [node-ytdl-core](https://github.com/fent/node-ytdl-core)
+[Local Youtube Downloader](https://greasyfork.org/en/scripts/369400-local-youtube-downloader), [Tartube](https://github.com/axcore/tartube), [LocoDownloader](https://locoloader.com/), [YoutubeDownloader](https://github.com/Tyrrrz/YoutubeDownloader), [pobieracz](https://pobieracz.net/),  [AllToMP3](https://alltomp3.org/),[YT_Downloaders](https://rentry.co/YT_Downloaders)
 
 ### Playlists
 
@@ -3314,7 +3321,7 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://70.88.180.169:8
 ## YT-DL Tools
 
 * ⭐ **[/r/YouTubeDL GUI List](https://www.reddit.com/r/youtubedl/wiki/info-guis)**
-* [GUI](https://github.com/oleksis/youtube-dl-gui), [2](https://github.com/mhogomchungu/media-downloader), [3](https://github.com/JaGoLi/ytdl-gui), [4](https://stacher.io/), [5](https://jely2002.github.io/youtube-dl-gui/), [6](https://github.com/marcopeocchi/yt-dlp-web-ui), [7](https://github.com/stefnotch/downline), [8](https://github.com/alexta69/metube), [9](https://github.com/Maxstupo/ydl-ui), [10](https://github.com/jely2002/youtube-dl-gui), [11](https://jeanslack.github.io/Videomass/), [12](https://github.com/database64128/youtube-dl-wpf)
+* [GUI](https://github.com/oleksis/youtube-dl-gui), [2](https://github.com/mhogomchungu/media-downloader), [3](https://github.com/database64128/youtube-dl-wpf), [4](https://stacher.io/), [5](https://jeanslack.github.io/Videomass/), [6](https://github.com/marcopeocchi/yt-dlp-web-ui), [7](https://github.com/stefnotch/downline), [8](https://github.com/alexta69/metube)
 * [Scripts Index](https://github.com/TheFrenchGhosty/TheFrenchGhostys-Ultimate-YouTube-DL-Scripts-Collection)
 [Bookmarklet](https://github.com/tardisx/gropple)
 * [TotalSize](https://pypi.org/project/totalsize/) - Calculate Playlist Size
@@ -3326,4 +3333,4 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://70.88.180.169:8
 
 * ⭐ **[Enhancer for YouTube](https://www.mrfdev.com/enhancer-for-youtube)**
 
-[ImprovedTube](https://improvedtube.com/), [Iridium](https://github.com/ParticleCore/Iridium), [Improve YouTube!](https://github.com/code-charity/youtube), [Nova YouTube](https://greasyfork.org/en/scripts/433360), [Magic Actions](https://www.mycinema.pro/)
+[ImprovedTube](https://improvedtube.com/), [Improve YouTube!](https://github.com/code-charity/youtube), [Nova YouTube](https://greasyfork.org/en/scripts/433360), [Magic Actions](https://www.chromeactions.com/)
