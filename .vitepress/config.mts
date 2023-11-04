@@ -2,7 +2,7 @@ import { defineConfig } from "vitepress";
 import { withPwa } from "@vite-pwa/vitepress";
 import UnoCSS from "unocss/vite";
 import { presetUno, presetAttributify, presetIcons } from "unocss";
-import { meta } from "./constants";
+import { commitRef, meta } from "./constants";
 import { pwa } from "./pwa";
 import { generateMeta } from "./hooks/meta";
 
@@ -61,6 +61,9 @@ export default defineConfig({
         detailedView: true,
       },
       provider: "local",
+    },
+    footer: {
+      message: `Made with ❤️ (${commitRef})`,
     },
     outline: "deep",
     logo: "/fmhy.ico",
