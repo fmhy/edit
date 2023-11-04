@@ -1302,7 +1302,6 @@
 * [VirusTotalAV_bot](https://t.me/VirusTotalAV_bot) - Telegram File Scanner
 * [TG Bot](https://t.me/drlinkbot) / [2](https://github.com/TheCaduceus/Link-Bypasser-Bot) - Ad Link Bypass Bot
 * [GetMediaBot](https://t.me/getmediabot) - Media Download Bot
-* [Telegram-Media-Downloader](https://github.com/fattynoparents/Telegram-Media-Downloader) - Media Download Extension
 * [Bulk download from Telegram](https://zebradil.me/post/2018-04-18-bulk-download-from-telegram/) - Telegram Media Download Method
 * [SnapchatStoriesBot](https://github.com/dishapatel010/SnapchatStoriesBot) - Get Snapchat Stories on Telegram
 * [Now Playing](https://t.me/nowplaybot) - Now Playing Audio Bot
@@ -1616,7 +1615,7 @@
 * ↪️ **[Task Automation](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_task_automation)**
 * ↪️ **[Remote Desktop Clients](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_remote_desktop_clients)**
 * ⭐ **[CPU-Z](https://www.cpuid.com/softwares/cpu-z.html)**, [winfetch](https://github.com/lptstr/winfetch) or [GPU-Z](https://www.techpowerup.com/download/techpowerup-gpu-z/) - System Information Tools
-* ⭐ **[Windows Optimization Guide](https://rentry.co/mdl-optimize-guide)** / [Video](https://youtu.be/pJTCwSX9Ym8) / [Script](https://github.com/DrEmpiricism/Windows-10-batch-optimizer/blob/master/Win10optimizer.bat), [2](https://github.com/Smozyy/Tweaks-for-Gaming.bat)
+* ⭐ **[Windows Optimization Guide](https://rentry.co/mdl-optimize-guide)** / [Video](https://youtu.be/pJTCwSX9Ym8) / [2](https://github.com/Smozyy/Tweaks-for-Gaming.bat)
 * ⭐ **[Ventoy](https://www.ventoy.net/en/index.html)**, **[Rufus](https://rufus.ie/)**, [AIO Boot](https://www.aioboot.com/), [UUP](https://pastebin.com/ybvKNan6) / [2](https://www.microsoft.com/en-us/p/uup-media-creator/9n1z0jxb224x) or [MediaCreationTool](https://github.com/AveYo/MediaCreationTool.bat) - Create Bootable USB Drives
 * ⭐ **[GParted](https://gparted.org/)**, [Rescuezilla](https://rescuezilla.com/), [CloneZilla](https://clonezilla.org/) or [AOMEI](https://www.diskpart.com/) - Partition Managers
 * ⭐ **[BleachBit](https://www.bleachbit.org/)**, [memreduct](https://github.com/henrypp/memreduct) or [WinMemoryCleaner](https://github.com/IgorMundstein/WinMemoryCleaner) - Clean System Memory
