@@ -556,10 +556,8 @@
 
 * 🌐 **[Awesome MacOS](https://github.com/iCHAIT/awesome-macOS)**, [OpenSourceApple](https://opensource.apple.com/), [Awesome Mac](https://github.com/jaywcjlove/awesome-mac) or [Awesome OS Apps](https://github.com/serhii-londar/open-source-mac-os-apps) - FOSS App Indexes
 * 🌐 **[Mac Menu Bar](https://macmenubar.com/)** - Menu Bar App Index
-* ⭐ **[AppsTorrent](https://appstorrent.ru/)** / Use [Translator](https://github.com/FilipePS/Traduzir-paginas-web#install)
 * ⭐ **[Homebrew](https://brew.sh/)** or [AppLite](https://aerolite.dev/applite/index.html) - Package Managers
 * [Macintosh Garden](https://macintoshgarden.org/)
-* [nMac](https://nmac.to/)
 * [MacBed](https://www.macbed.com/)
 * [Pure Mac](https://www.pure-mac.com/)
 * [Macupdate](https://www.macupdate.com/)
