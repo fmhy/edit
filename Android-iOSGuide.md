@@ -137,7 +137,7 @@
 * ⭐ **[MacroDroid](https://www.macrodroid.com/)**, [Automate](https://llamalab.com/automate/) or [AutomateIt](https://www.automateitapp.com/) - Android Automation
 * ⭐ **[Magisk](https://github.com/topjohnwu/Magisk)**, [Magisk Monet](https://github.com/datnerdguy/Magisk-Monet), [MagiskOnWSALocal](https://github.com/LSPosed/MagiskOnWSALocal), [Pixel Launcher](https://github.com/saitamasahil/Pixel-Launcher-Extended) or [Mtk Easy Su](https://github.com/JunioJsv/mtk-easy-su) - Android Root Tools
 * ⭐ **Magisk Tools** - [Mods](https://t.me/magiskmod_update) / [Support Layer](https://github.com/axonasif/rusty-magisk) / [Manager](https://github.com/Fox2Code/FoxMagiskModuleManager), [2](https://github.com/ya0211/MRepo) / [SafteyNet Fix](https://github.com/kdrag0n/safetynet-fix) / [Modules](https://www.androidacy.com/magisk-modules-repository/) / [Alt Repo](https://github.com/Magisk-Modules-Alt-Repo)
-* ⭐ **[Termux](https://termux.com/)**, [Limbo](https://github.com/limboemu/limbo), [Andronix](https://andronix.app/) / [Git](https://github.com/AndronixApp) or [TermOne Plus](https://termoneplus.com/) - Terminal Emulators / OS Environments
+* ⭐ **[Termux](https://termux.com/)**, [Limbo](https://github.com/limboemu/limbo) or [TermOne Plus](https://termoneplus.com/) - Terminal Emulators / OS Environments
 * ⭐ **Termux Tools** - [YT-DL](https://github.com/OzakIOne/termux-youtube-dl), [2](https://github.com/khansaad1275/Termux-YTD) / [Video Downloader](https://github.com/AbirHasan2005/LR-YTDL) / [GUI](https://github.com/termux/termux-gui) / [ADB / Fastboot Tools](https://github.com/MasterDevX/Termux-ADB) / [Beautify](https://github.com/mayTermux/myTermux)
 * [MobileSpectrum](https://mobilespectrum.org/) or [Spectrum Ownership Map](https://specmap.sequence-omega.net/) - Mobile Network Comparisons
 * [Plexus](https://plexus.techlore.tech/) - De-googled Device Compatibility
@@ -458,7 +458,7 @@
 * ⭐ **[KeePassDX](https://www.keepassdx.com/)**, **[BitWarden](https://play.google.com/store/apps/details?id=com.x8bit.bitwarden)**, [Keyspace](https://keyspace.cloud/), [AuthPass](https://authpass.app/), [KeyPass](https://github.com/yogeshpaliyal/KeyPass) or [Keepass2Android](https://github.com/PhilippC/keepass2android) - Password Managers
 * ⭐ **[PairVPN Hotspot](https://pairvpn.com/hotspot)** or [NetShare](https://netshare.app/) - Create Wi-Fi Hotspots
 * [PINCredible](https://github.com/cyb3rko/pincredible) - PIN Manager
-* [Link Manager](https://play.google.com/store/apps/details?id=com.michaelflisar.linkmanager) - Bookmark Manager
+* [Link Manager](https://play.google.com/store/apps/details?id=com.michaelflisar.linkmanager) or [Omnivore](https://github.com/omnivore-app/omnivore) - Bookmark Managers
 * [UnLim](https://play.google.com/store/apps/details?id=com.kratosle.unlim&gl=US) - Cloud Storage
 * [MetaCTRL](https://metactrl.com/), [extRact](https://github.com/newhinton/extRact) or [FolderSync](https://www.tacit.dk/) - Multi-Site Cloud Storage File Managers
 * [Surfable](https://surfable.app/) - Install Any Website as App / [GitHub](https://github.com/sandoche/Surfable-app)
@@ -680,7 +680,7 @@
 * [Openreads](https://github.com/mateusz-bak/openreads-android), [NeverTooManyBooks](https://github.com/tfonteyn/NeverTooManyBooks) or [Basmo](https://basmo.app/) - Book Managers / Trackers
 * [KafkaArchives](https://www.kafkaarchives.com/) - Archive.org Books / Audiobooks
 * [Wikipedia](https://play.google.com/store/apps/details?id=org.wikipedia) - Wikipedia App / [Beta](https://play.google.com/store/apps/details?id=org.wikipedia.beta)
-* [Moon+ Reader](https://www.moondownload.com/), [CoolReader](https://apt.izzysoft.de/fdroid/index/apk/org.coolreader), [BookReader](https://gitlab.com/axet/android-book-reader), [Prestigio](https://play.google.com/store/apps/details?id=com.prestigio.ereader) or [Omnivore](https://omnivore.app/) - Ebook Readers
+* [Moon+ Reader](https://www.moondownload.com/), [CoolReader](https://apt.izzysoft.de/fdroid/index/apk/org.coolreader), [BookReader](https://gitlab.com/axet/android-book-reader) or [Prestigio](https://play.google.com/store/apps/details?id=com.prestigio.ereader) - Ebook Readers
 * [KiyomiPDF](https://github.com/qinlili23333/KiyomiPDF), [Sav PDF Viewer Pro](https://github.com/Sav22999/sav-pdf-viewer-pro) or [Secure PDF Viewer](https://github.com/GrapheneOS/PdfViewer) - PDF Reader
 * [K2pdfopt](https://willus.com/k2pdfopt/) - Optimize PDF/DJVU Files for Mobile E-Readers
 * [Voice](https://github.com/PaulWoitaschek/Voice), [Simple Audiobook Player](https://play.google.com/store/apps/details?id=mdmt.sabp.free), [Voice Audiobook Player](https://play.google.com/store/apps/details?id=de.ph1b.audiobook), [Smart Audiobook Player](https://play.google.com/store/apps/details?id=ak.alizandro.smartaudiobookplayer), [AudioAnchor](https://github.com/flackbash/AudioAnchor) or [eStories](https://play.google.com/store/apps/details?id=com.estories) - Audiobook Players
@@ -914,7 +914,7 @@
 * [Watusi](https://watusi.fouadraheb.com/) - Modded WhatsApp
 * [AppLibraryEnabler](https://github.com/tomaszpoliszuk/AppLibraryEnabler) - Enable App Library on iPad
 * [GeekBench](https://apps.apple.com/us/app/geekbench-6/id1565728895) - iOS Benchmark Tests
-* [GoodLinks](https://goodlinks.app/) or [DoMarks](https://www.domarks.app/) - Bookmark Manager
+* [GoodLinks](https://goodlinks.app/), [Omnivore](https://github.com/omnivore-app/omnivore) or [DoMarks](https://www.domarks.app/) - Bookmark Managers
 * [Selvy PenScript](https://apps.apple.com/us/app/selvy-penscript/id1027637212) - Handwriting to Text Keyboard
 * [VoxRec](https://apps.apple.com/us/app/voxrec-voice-to-text-dictation/id1366603987) - Voice to Text
 * [Audoir](https://audoir.com/) - Lyric Text Editor
@@ -1153,7 +1153,6 @@
 * ↪️ **[Ebook Readers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/reading#wiki_.25BA_ebook_readers)** - Ebook Reader Index
 * ⭐ **[Paperback](https://paperback.moe/)** - Manga Reader / [Discord](https://discord.paperback.moe/)
 * ⭐ **[Aidoku](https://aidoku.app/)** - Manga Reader
-* [Omnivore](https://omnivore.app/) - Ebook Reader
 * [SideBooks](https://apps.apple.com/us/app/sidebooks/id409777225) - PDF Reader
 * [BookPlayer](https://github.com/TortugaPower/BookPlayer) - Audiobook Player
 * [MangaToon](https://apps.apple.com/us/app/mangatoon-manga-reader/id1385287093), [ZETSU](https://apps.apple.com/us/app/zetsu-by-orion/id1510161371), [Atsumaru](https://github.com/TheUndo/Atsumaru), [Hanami](https://github.com/oolxg/Hanami) or [MangaNelo](https://apps.apple.com/us/app/manganelo-rock-manga-pro/id1540527984) - Manga Reader
