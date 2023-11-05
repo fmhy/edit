@@ -23,7 +23,7 @@ def do_some_individual_replaces(text):
     text = re.sub('/devtools/#machine-learning2', '/devtools/#machine-learning-1', text)
 
     #Base64-decoder script link
-    text = re.sub('Use any **[Base64 Decoding](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_encode_.2F_decode_urls)** site or extension.', 'Click on the inline text to copy them decoded.\n', text, flags=re.MULTILINE)
+    text = re.sub('(.+?) site or extension\.\n', 'Click on the texts to copy them decoded.\n', text, flags=re.MULTILINE)
 
     return text
 
