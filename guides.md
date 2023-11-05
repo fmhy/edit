@@ -1,7 +1,6 @@
 ---
 title: Guides
 ---
-
 <!-- <script setup> -->
 <!-- import { data } from "./.vitepress/loaders/guides.data"; -->
 <!-- </script> -->
