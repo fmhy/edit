@@ -933,7 +933,7 @@
 * [Sourcegraph](https://about.sourcegraph.com/) - Git Repository Sourcegraph Editor 
 * [onefetch](https://github.com/o2sh/onefetch) - Git Information Terminal
 * [Conventional Commits](https://www.conventionalcommits.org/) - Commit Message Specification
-* [AICommits](https://github.com/Nutlope/aicommits) - Auto Commit Messages
+* [AICommits](https://github.com/Nutlope/aicommits) - Auto Commit Messages  
 * [lastversion](https://github.com/dvershinin/lastversion) or [ghrel](https://github.com/jreisinger/ghrel) - Download / View Latest Stable Repos
 * [Git Cliff](https://github.com/orhun/git-cliff) - Changelog Generator
 * [readme.so](https://readme.so/) - Readme Markdown Editor
