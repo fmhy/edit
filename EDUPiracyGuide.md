@@ -128,7 +128,6 @@
 * [CGPERS](https://t.me/CGPERS) - Udemy Courses / Telegram
 * [UdemyBot](https://github.com/gautamajay52/UdemyBot), [UdemyScrapperZBot](https://t.me/UdemyScrapperZBot) or [UdemyPy](https://github.com/dylannalex/UdemyPy) - Udemy Course Bots
 * [GUdemyBot](https://t.me/GUdemyBot) - Udemy Coupon Bot
-* [Fresh Coupons](https://github.com/KajanM/fresh-coupons) - Automatically Apply Discount Coupons on Udemy Courses / [Chrome](https://chrome.google.com/webstore/detail/fresh-coupons/pbnfeejfjlmmjfgnmmfpalhlpjidlgie)
 * [CommSpeeches](https://commspeeches.softr.app/) - Famous Graduation Speeches
 
 ***
