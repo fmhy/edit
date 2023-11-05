@@ -19,7 +19,7 @@
     "nitropack": "latest",
     "pathe": "^1.1.1",
     "unocss": "^0.57.1",
-    "vitepress": "1.0.0-rc.24",
+    "vitepress": "1.0.0-rc.25",
     "vue": "^3.3.7",
     "workbox-window": "^7.0.0"
   },
@@ -29,5 +29,10 @@
     "@types/node": "^20.8.9",
     "@vite-pwa/vitepress": "^0.2.3",
     "prettier": "^3.0.3"
+  },
+  "pnpm": {
+    "patchedDependencies": {
+      "vitepress@1.0.0-rc.25": "patches/vitepress@1.0.0-rc.25.patch"
+    }
   }
 }

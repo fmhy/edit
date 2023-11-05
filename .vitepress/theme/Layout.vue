@@ -1,6 +1,7 @@
 <script setup lang="ts">
 import DefaultTheme from "vitepress/theme";
 import Sidebar from "./components/SidebarCard.vue";
+import Announcement from "./components/Announcement.vue";
 
 const { Layout } = DefaultTheme;
 </script>
@@ -10,9 +11,9 @@ const { Layout } = DefaultTheme;
     <template #sidebar-nav-after>
       <Sidebar />
     </template>
-    <template>
-    <Content />
-
+    <template #home-hero-prelink>
+      <Announcement />
     </template>
+    <Content />
   </Layout>
 </template>

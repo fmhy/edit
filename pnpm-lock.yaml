@@ -4,6 +4,11 @@ settings:
   autoInstallPeers: true
   excludeLinksFromLockfile: false
 
+patchedDependencies:
+  vitepress@1.0.0-rc.25:
+    hash: 3rmcuf2hcpfiqvpp6fmjf4ydmq
+    path: patches/vitepress@1.0.0-rc.25.patch
+
 dependencies:
   fast-glob:
     specifier: ^3.3.1
@@ -21,8 +26,8 @@ dependencies:
     specifier: ^0.57.1
     version: 0.57.1(postcss@8.4.31)(rollup@2.79.1)(vite@4.5.0)
   vitepress:
-    specifier: 1.0.0-rc.24
-    version: 1.0.0-rc.24(@algolia/client-search@4.20.0)(@types/node@20.8.9)(postcss@8.4.31)(search-insights@2.9.0)
+    specifier: 1.0.0-rc.25
+    version: 1.0.0-rc.25(patch_hash=3rmcuf2hcpfiqvpp6fmjf4ydmq)(@algolia/client-search@4.20.0)(@types/node@20.8.9)(postcss@8.4.31)(search-insights@2.9.0)
   vue:
     specifier: ^3.3.7
     version: 3.3.7
@@ -5769,8 +5774,8 @@ packages:
     optionalDependencies:
       fsevents: 2.3.3
 
-  /vitepress@1.0.0-rc.24(@algolia/client-search@4.20.0)(@types/node@20.8.9)(postcss@8.4.31)(search-insights@2.9.0):
-    resolution: {integrity: sha512-RpnL8cnOGwiRlBbrYQUm9sYkJbtyOt/wYXk2diTcokY4yvks/5lq9LuSt+MURWB6ZqwpSNHvTmxgaSfLoG0/OA==}
+  /vitepress@1.0.0-rc.25(patch_hash=3rmcuf2hcpfiqvpp6fmjf4ydmq)(@algolia/client-search@4.20.0)(@types/node@20.8.9)(postcss@8.4.31)(search-insights@2.9.0):
+    resolution: {integrity: sha512-1dqWiHNThNrVZ08ixmfEDBEH+764KOgnev9oXga/x6cN++Vb9pnuu8p3K6DQP+KZrYcG+WiX7jxal0iSNpAWuQ==}
     hasBin: true
     peerDependencies:
       markdown-it-mathjax3: ^4.3.2
@@ -5822,6 +5827,7 @@ packages:
       - typescript
       - universal-cookie
     dev: false
+    patched: true
 
   /vscode-oniguruma@1.7.0:
     resolution: {integrity: sha512-L9WMGRfrjOhgHSdOYgCt/yRMsXzLDJSL7BPrOZt73gU0iWO4mpqzqQzOz5srxqTvMBaR0XZTSrVWo4j55Rc6cA==}

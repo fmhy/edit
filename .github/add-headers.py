@@ -19,7 +19,7 @@ headersData = {
     "TOOLSGuide.md":            ["Tools", "General Tools, Internet Tools, System Tools"],
     "TorrentPiracyGuide.md":    ["Torrenting", "Torrent Clients, Torrent Sites, Trackers"],
     "VideoPiracyGuide.md":      ["Movies / TV / Anime", "Stream Videos, Download Videos, Torrent Videos"],
-    "base64.md":                ["", ""],
+    "base64.md":                ["base64", "Base64 storage"],
     "img-tools.md":             ["Image Tools", ""],
     "UnsafeSites.md":           ["Unsafe Sites", ""]
 }

@@ -6,6 +6,7 @@ import { commitRef, meta } from "./constants";
 import { pwa } from "./pwa";
 import { generateMeta } from "./hooks/meta";
 import { fileURLToPath } from "url";
+import { copyableCodePlugin } from "./markdown";
 
 export default defineConfig({
   title: "FMHY",
@@ -57,14 +58,19 @@ export default defineConfig({
     },
     resolve: {
       alias: [
-				{
-					find: /^.*VPSwitchAppearance\.vue$/,
-					replacement: fileURLToPath(
-						new URL("./theme/components/ThemeSwitch.vue", import.meta.url),
-					),
-				},
-      ]
-    }
+        {
+          find: /^.*VPSwitchAppearance\.vue$/,
+          replacement: fileURLToPath(
+            new URL("./theme/components/ThemeSwitch.vue", import.meta.url),
+          ),
+        },
+      ],
+    },
+  },
+  markdown: {
+    config(md) {
+      md.use(copyableCodePlugin);
+    },
   },
   themeConfig: {
     search: {

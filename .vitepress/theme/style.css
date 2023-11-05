@@ -93,6 +93,20 @@
   background-color: var(--vp-button-brand-bg);
 }
 
+.VPFooter a {
+  text-decoration-line: underline;
+  text-decoration-style: dashed;
+  text-underline-offset: 5px;
+  transition: 0.3s;
+}
+
+.VPFooter a:hover {
+  color: var(--vp-c-text-1);
+  text-decoration-line: underline;
+  text-decoration-style: dashed;
+  text-underline-offset: 5px;
+}
+
 /* Custom scrollbar */
 .VPSidebar::-webkit-scrollbar {
   block-size: 4px;
@@ -122,4 +136,10 @@
   :root {
     --vp-home-hero-image-filter: blur(68px);
   }
+}
+
+.base64 {
+  min-width: 100%;
+  width: 0px;
+  white-space: pre-wrap;
 }

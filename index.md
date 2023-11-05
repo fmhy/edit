@@ -6,6 +6,9 @@ hero:
   name: "FMHY"
   text: "freemediaheckyeah"
   tagline: The Largest Collection Of Free Stuff On The Internet!
+  prelink:
+    title: 🎉 New website!
+    link: https://tenor.com/view/mauzimice-mauzymice-mauzy-mice-boykisser-cute-gif-16690839224429433467
   image:
     src: /test.png
     alt: FMHY Icon
