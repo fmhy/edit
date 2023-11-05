@@ -2061,4 +2061,122 @@
 * [DocDroid](https://www.docdroid.net/), [DocBase](https://www.getdocbase.com/), [EPDFX](https://epdfx.com/), [iStockFile](https://istockfile.com/) or [Securedrop](https://securedrop.org/) - Document File Sharing
 * [OpenPaper](https://openpaper.work/en/), [Paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) or [DataShare](https://datashare.icij.org/) - Document Managers
 * [Browsemonkey](https://github.com/shukriadams/browsemonkey) - Take Snapshots of File Systems
-* [Gdrive Guide-Noob Friendly](ht
+* [Gdrive Guide-Noob Friendly](https://telegra.ph/Gdrive-Guide-Noob-Friendly-04-10) - GDrive Guide 
+* [gDrive-DirectLink](https://github.com/jagrit007/gDrive-DirectLink) or [google-drive-direct-link-generator](https://www.wonderplugin.com/online-tools/google-drive-direct-link-generator/) - GDrive File Direct Link Generator
+* [Google Drivac](https://github.com/Data-Horde/gdrivac) - Associate Gdrive Account with URL List
+* [Attribute Changer](https://www.petges.lu/) - Edit File & Folder Properties
+* [TagSpaces](https://www.tagspaces.org/) - Add Tags to File and Folders
+* [Duplicate File Finder](https://www.auslogics.com/en/software/duplicate-file-finder/), [Fast-Duplicate-File-Finder](https://www.mindgems.com/products/Fast-Duplicate-File-Finder/Fast-Duplicate-File-Finder-About.htm), [ashisoft](https://www.ashisoft.com/), [dupscout](https://www.dupscout.com/dupscout_search_duplicate_files.html), [wisecleaner](https://www.wisecleaner.com/wise-duplicate-finder.html), [clonespy](https://www.clonespy.com/) or [dupeGuru](https://dupeguru.voltaicideas.net/) - Duplicate File Finder 
+* [TMSU](https://github.com/oniony/TMSU), [Tagging for Windows](https://tagging.connectpaste.com/) or [SuperTag](https://github.com/amoffat/supertag) - Tag-Based Filesystem 
+* [Filext](https://filext.com/) - Online File Viewer
+* [File Juggler](https://www.filejuggler.com/) - Organize Files Automatically
+* [Phockup](https://github.com/ivandokov/phockup) - Organize Photo / Video Files by Date 
+* [WeCompress](https://www.wecompress.com/), [Compress2Go](https://www.compress2go.com/), [Compress.com](https://www.compresss.com/), [Cloudpresso](https://cloudpresso.com/), [Compress-Online](https://compress-online.com/) or [YouCompress](https://www.youcompress.com/) - Online File Compressors
+* [Fileforums](https://fileforums.com/), [Krinkels](https://krinkels.org/) or [Encode](https://encode.su/) - Data Compression Forums
+* [Compression.ru](https://compression.ru/index_en.htm) - Data Compression Wiki
+* [czkawka](https://github.com/qarmin/czkawka) - Remove Unnecessary Files 
+* [UnLock IT](https://emcosoftware.com/unlock-it/download), [Lock Hunter](https://lockhunter.com/) or [FileExile](https://sourceforge.net/projects/filexile/) - File Unlocker / Deleter
+* [Turbo Delete](https://github.com/suptejas/turbo-delete) - Delete Files Faster 
+* [BZSHUT](https://github.com/arunkumartdr/BZSHUT) - Temp File Deletion Script
+* [WinMerge](https://winmerge.org/) - Compare / Merge Files & Folders
+* [FilesMerge](https://www.filesmerge.com/) - Online File Merger
+* [Beyond Compare](https://www.scootersoftware.com/) - File / Directory Comparison Tool / [Crack](https://github.com/nbats/FMHYedit/blob/main/base64.md#beyond-compare-crack)
+* [Apaxy](https://oupala.github.io/apaxy/) - Apache Directory Theme
+* [Nginxy](https://github.com/lfelipe1501/Nginxy) - Nginx Directory Theme
+* [CompactGUI](https://github.com/IridiumIO/CompactGUI) or [2](https://github.com/Freaky/Compactor) - Displays or alters the compression of files
+* [Snap2HTML](https://rlvision.com/snap2html/about.php) - Take HTML Snapshots of Folder / File Structures
+* [Corrupt My File](https://www.corruptmyfile.com/) or [Corrupt-A-File](https://corrupt-a-file.net/) - Intentionally Corrupt your Files
+* [Minissign](https://jedisct1.github.io/minisign/) - Sign and Verify Signatures
+* [HashCheck](https://github.com/idrassi/HashCheck), [DeadHash](https://github.com/CodeDead/DeadHash-js), [Hashing](https://github.com/hellzerg/hashing) or [OpenHashTab](https://github.com/namazso/OpenHashTab) - Calculate / Check File Hashes
+* [QuickSFV](https://quicksfv.org/) or [RapidCRC](https://rapidcrc.sourceforge.net/) - File Hashing / Verification Tools
+* [Samsung Firmware Magic](https://github.com/chrivers/samsung-firmware-magic) - Decrypt Samsung SSD Firmware Files
+* [Hashes](https://hashes.com/) - Decrypt Hashes
+* [MD5 Hash Changer](https://github.com/ewwink/MD5-Hash-Changer) - Change a Files MD5 Hash
+* [Hasher](https://www.igorware.com/hasher) - Hash Generator
+* [SQLite Viewer](https://inloop.github.io/sqlite-viewer/) - View SQLite Files Online
+* [CalameoDownload](https://calameodownload.com/) - Download Calameo Docs PDF or Image Files
+* [DFD](https://dfd.inf.tu-dresden.de/) - Duplicate Document Forensics Test
+* [filetree](https://github.com/roboyoshi/datacurator-filetree) - Data Filetree
+* [Random Executor](https://sneakysnail.net/random-executor/) - Random File Executor
+* [pe_tree](https://github.com/blackberry/pe_tree) - PE File Tree View
+* [AXEL](https://github.com/axel-download-accelerator/axel) - Lightweight CLI Download Accelerator
+* [HxD](https://mh-nexus.de/en/hxd/), [Hexyl](https://github.com/sharkdp/hexyl) or [Hexinator](https://hexinator.com/) - Hex Editors
+* [webhex.net](https://en.webhex.net/) - Online Hex Viewer
+* [HexEd.it](https://hexed.it/) or [Online Hex Editor](https://www.onlinehexeditor.com/) - Online Hex Editors
+* [infekt](https://infekt.ws/) / [GitHub](https://github.com/syndicodefront/infekt), [nfoview](https://otsaloma.io/nfoview/) / [GitHub](https://github.com/otsaloma/nfoview) or [NFOmation](https://nfomation.net/) - NFO File Viewers
+* [text2img](https://master.ayra.ch/text2img/) - NFO Files to Image Converter
+* [TrueNAS](https://www.truenas.com/) - Storage System
+* [Cloud Storage Archiving Guide](https://pastebin.com/kLhLHsXg) - How-to Safely Archive Files on Cloud Storage Sites
+* [bookmarkfs](https://github.com/CoolElectronics/bookmarkfs) - Exploit Chrome's Profile Sync for Free Cloud Storage
+* [Linx Server](https://github.com/andreimarcu/linx-server), [SeaFile](https://www.seafile.com/en/home/) or [FileStash](https://www.filestash.app/) - Self-Hosted Cloud Storage / [Fork](https://github.com/ZizzyDizzyMC/linx-server/)
+* [Linux Reader](https://www.diskinternals.com/linux-reader/) - Access Linux Files on Windows
+
+***
+
+## ▷ Virtual Machines
+
+* ↪️ **[Operating System Emulators](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_os_emulators)** - Emulate Alternate OS
+* ⭐ **[VirtualBox](https://www.virtualbox.org/)** / [Portable](https://www.vbox.me/), [Looking Glass](https://looking-glass.io/), [Qemu](https://gitlab.com/qemu-project/qemu), [Hyper-V](https://learn.microsoft.com/en-us/virtualization/hyper-v-on-windows//), [Denodo Test](https://www.denodo.com/en/denodo-platform/test-drives?utm_source=homepage&utm_medium=bn) or [VMware Workstation Player](https://www.vmware.com/products/workstation-player/workstation-player-evaluation.html) - Virtual Machines / [Preinstalled VMS](https://www.osboxes.org/)
+* ⭐ **[Hackintosh](https://hackintosh.com/)**, [Emaculation](https://www.emaculation.com/), [felixrieseberg](https://github.com/felixrieseberg/macintosh.js/) or [OneClick-macOS](https://github.com/notAperson535/OneClick-macOS-Simple-KVM) - MacOS Virtual Machines
+* ⭐ **Hackintosh Tools** - [Guide](https://github.com/dortania/macOS-VMware-Guide), [2](https://www.tonymacx86.com/) / [Installer](https://github.com/huangyz0918/Hackintosh-Installer-University) / [Ryzen](https://github.com/mikigal/ryzen-hackintosh) / [XiaoMi](https://github.com/daliansky/XiaoMi-Pro-Hackintosh)
+* [Virt Machine](https://virt-manager.org/) or [Vagrantup](https://www.vagrantup.com/) - Virtual Machine Managers
+* [CollabVM](https://computernewb.com/collab-vm/) - Online Virtual Machines
+* [Virtual PC](https://www.microsoft.com/en-us/download/details.aspx?id=3243) - Windows XP Virtual Machine
+* [windows95](https://github.com/felixrieseberg/windows95) - Windows 95 in Electron
+* [VMWare](https://gist.github.com/rkennesson/2c4595bf062aaab387dccf1210accf98) - Hide Virtual Machine
+* [QuickEmu](https://github.com/quickemu-project/quickemu) or [Dexpot](https://www.dexpot.de/) - Virtual Machine Creator
+* [vBoxSysInfoMod](https://github.com/JayMontana36/vBoxSysInfoMod) - Modify VM System Info
+* [Blink](https://github.com/jart/blink) - Linux Emulator for Windows
+* [GWSL-Source](https://github.com/Opticos/GWSL-Source) or [GWSL](https://opticos.github.io/gwsl/) - Run Linux Apps on Windows
+* [gter](https://github.com/raoofha/gter) - Embed a GUI app Inside a Terminal Window
+* [Dockerholics](https://github.com/petersem/dockerholics) - Docker Apps
+* [WebCatalog](https://webcatalog.io) - Turn Sites into Desktop Apps
+
+***
+
+## ▷ Terminal / CLI
+
+* 🌐 **[terminals-are-sexy](https://github.com/k4m4/terminals-are-sexy)** - Terminal Resources
+* 🌐 **[awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps)** or [command-line-tools](https://github.com/learn-anything/command-line-tools) - Command Line Resources
+* ⭐ **[Clink](https://github.com/chrisant996/clink)** - Command Line Editing
+* ⭐ **[ss64](https://ss64.com/)** - Command Line Reference Index
+* [Windows Terminal](https://www.microsoft.com/store/productId/9N0DX20HK701) / [2](https://github.com/microsoft/terminal/), [kitty](https://sw.kovidgoyal.net/kitty/), [Tess](https://github.com/SquitchYT/Tess), [ConEmu](https://github.com/Maximus5/ConEmu), [Hyper](https://hyper.is/), [Terminus](https://eugeny.github.io/terminus/), [console 2](https://github.com/cbucher/console) or [MobaXterm](https://mobaxterm.mobatek.net/) - Windows Terminals
+* [BusyBox](https://frippery.org/busybox/) - Unix Commands for Windows
+* [Tiny Care Terminal](https://github.com/notwaldorf/tiny-care-terminal) - Terminal Dashboard That Cares
+* [Gradient Terminal](https://github.com/aurora-0025/gradient-terminal) - Display Terminal Output as Gradient
+* [Command Challenge](https://cmdchallenge.com/) - Command Line Learning
+* [Terminal Icons](https://github.com/devblackops/Terminal-Icons) - File and Folder Icons in Terminal
+* [Alacritty](https://github.com/alacritty/alacritty), [yakuake](https://apps.kde.org/yakuake/), [Fluent Terminal](https://github.com/felixse/FluentTerminal), [Tabby](https://eugeny.github.io/tabby/), [Wives](https://github.com/KRTirtho/wives), [ExtraTerm](https://extraterm.org/) or [Terminus](https://github.com/Eugeny/tabby) - Terminal Emulators
+* [XTerm](https://invisible-island.net/xterm/) - X Window System Terminal Emulator
+* [Mintty](https://mintty.github.io/) - Cygwin Terminal Emulator 
+* [eDEX-UI](https://github.com/GitSquared/edex-ui) - Sci-Fi Terminal Emulator / System Monitor
+* [termbin](https://termbin.com/) - Terminal Output Pastebin
+* [GetDNote](https://www.getdnote.com/) - Command Line Notebook
+* [cmder](https://cmder.app) - Console Emulator Package / [Github](https://github.com/cmderdev/cmder)
+* [PowerShell](https://github.com/powershell/powershell) - PC / Mac / Linux PowerShell
+* [PowershellMenu](https://github.com/Mike-Branham/PowershellMenu), [Write-Menu](https://github.com/QuietusPlus/Write-Menu) or [ps-menu](https://github.com/chrisseroka/ps-menu) - PowerShell Console Menu
+* [PowerShdll](https://github.com/p3nt4/PowerShdll) - Run PowerShell with rundll32
+* [LeanandMean](https://github.com/AveYo/LeanAndMean) - Powershell Snippets / Use with Caution
+* [PowerShell Scripts](https://github.com/fleschutz/PowerShell) - PowerShell Scripts
+* [PSReadLine](https://github.com/PowerShell/PSReadLine) - PowerShell Readline Implementation
+* [SystemNightware](https://github.com/GossiTheDog/SystemNightmare) - Instant System Command Prompt
+* [Starship](https://starship.rs/) - Cross-Shell Prompt
+* [GNU Parallelel](https://www.gnu.org/software/parallel/) - Execute Commands / Scripts in Parallel using Multiple Computers
+* [Nushell](https://www.nushell.sh/) - Alt Shell
+* [GSudo](https://github.com/gerardog/gsudo) - Sudo Alternative for Windows
+
+***
+
+## ▷ [Linux Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/linux#wiki_.25BA_linux_tools)
+
+***
+
+## ▷ [Mac Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/linux#wiki_.25BA_mac_apps)
+
+***
+
+## ▷ [Android Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25BA_android_tools)
+
+***
+
+## ▷ [iOS Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25BA_ios_tools)
