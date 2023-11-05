@@ -17,10 +17,9 @@ export function copyableCodePlugin(md: MarkdownRenderer) {
     }
     const token = tokens[idx];
     const content = token.content;
-    const buttonHTML = `<button class='base64' onclick="navigator.clipboard.writeText('${decode(
-      content,
-    )}')"><code>${content}</code></button>`;
 
-    return buttonHTML;
+    return `<button class='base64' onclick="(function(btn){ const codeEl = btn.querySelector('code'); navigator.clipboard.writeText('${decode(
+      content,
+    )}').then(() => { const originalText = codeEl.textContent; codeEl.textContent = 'Copied'; setTimeout(() => codeEl.textContent = originalText, 3000); }).catch(console.error); })(this)"><code>${content}</code></button>`;
   };
 }
