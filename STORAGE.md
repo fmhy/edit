@@ -2041,7 +2041,9 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://70.88.180.169:8
 ## Read Paywalled Articles
 
 * ⭐ **[wallabag](https://wallabag.nixnet.services/)** / [Discord Bot](https://github.com/FahadBinHussain/wallabot)
-* ⭐ **[bypass-paywalls-firefox-clean](https://bitbucket.org/magnolia1234/bypass-paywalls-firefox-clean/src/master/)** / [Chrome](https://gitlab.com/magnolia1234/bypass-paywalls-chrome-clean) / [uBlock Filter](https://gitlab.com/magnolia1234/bypass-paywalls-clean-filters/-/raw/main/bpc-paywall-filter.txt)
+* ⭐ **[Bypass Paywalls Firefox Clean](https://gitlab.com/magnolia1234/bypass-paywalls-firefox-clean)** / [2](https://bitbucket.org/magnolia1234/bypass-paywalls-firefox-clean/src/master/)
+* ⭐ **[Bypass Paywalls Chrome Clean](https://gitlab.com/magnolia1234/bypass-paywalls-chrome-clean)**
+* [Bypass Paywalls Clean filters](https://gitlab.com/magnolia1234/bypass-paywalls-clean-filters)
 * [Bypass paywalls for scientific documents](https://greasyfork.org/en/scripts/35521-bypass-paywalls-for-scientific-documents) - Bypass Scientific Document Paywalls
 * [unpaywall](https://unpaywall.org/) - Bypass Scholarly Article Paywalls
 * [Scribe](https://scribe.rip/) - Unlimited Articles on Medium
