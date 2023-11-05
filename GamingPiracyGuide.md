@@ -678,6 +678,59 @@
 * ⭐ **[How-to Play Flash Games](https://rentry.co/oc4wc)** - Browser Flash Game Tutorial
 * [Flash by Night](http://flashbynight.com/), [FlashGamesArchive](http://www.flashgamearchive.com/playable/), [Flash Arch](https://flasharch.com/en) or [AlbinoBlackSheep](https://www.albinoblacksheep.com/games/) - Browser Games
 * [Arcade Prehacks](https://www.arcadeprehacks.com/), [SamsHackedGames](https://www.samshackedgames.com/) or [KongHack](https://konghack.com/) - Flash Game Hacks
+* "Aha! I Found It!" Hidden Object Game
+* "Aha! I Got It!" Escape Game
+* $1,000,000 Pyramid, The
+* 007: Quantum of Solace
+* 10 Minute Solution
+* 101-in-1 Explosive Megamix
+* 101-in-1 Party Megamix
+* 101-in-1 Sports Party Megamix
+* 2 Fast 4 Gnomz
+* 2010 FIFA World Cup South Africa
+* 250 Mannin no Kanken: Wii de Tokoton Kanji Nou
+* 3 Degrees Celcius
+* 3-2-1 Rattle Battle
+* 3D Pixel Racing
+* Los 40 Principales: Karaoke Party
+* Los 40 Principales: Karaoke Party Vol. 2
+* 428: Fuusa Sareta Shibuya de
+* 5 Arcade Gems
+* 5 in 1 Solitaire
+* 5 Spots Party
+* ABBA: You Can Dance
+* AC/DC Live: Rock Band Track Pack
+* Academy of Champions: Soccer
+* ACB Total 2010/2011
+* Action Girlz Racing
+* Active Life Explorer
+* Active Life: Extreme Challenge
+* Active Life: Magical Carnival
+* Active Life: Outdoor Challenge
+* Adibou et les saisons magiques
+* Adventure Island: The Beginning
+* Adventure on Lost Island: Hidden Object Game
+* Adventures of Tintin: The Game, The
+* AeroGuitar
+* AFL
+* Agatha Christie: And Then There Were None
+* Agatha Christie: Evil Under the Sun
+* Agent Hugo: Hula Holiday
+* Agent Hugo: Lemoon Twist
+* Airport Mania: First Flight
+* Akko de Pon! Ikasama Hourouki
+* Aladdin Magic Racer
+* Alan Hansen's Sports Challenge
+* Alice in Wonderland
+* Alien Crush Returns
+* Alien Monster Bowling League
+* Alien Syndrome
+* Aliens in the Attic
+* All Round Hunter
+* All Star Cheer Squad
+* All Star Cheer Squad 2
+* All Star Karate
+* Alone In the Dark
 
 ***
 
