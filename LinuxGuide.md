@@ -575,7 +575,6 @@
 * ⭐ **[AppleGamingWiki](https://applegamingwiki.com/)** - Mac Game Fixes / Compatibility
 * ⭐ **[Torrminatorr](https://forum.torrminatorr.com/)**
 * [SCNLOG](https://scnlog.me/)
-* [nMac](https://nmac.to/)
 * [HeroicGamesLauncher](https://heroicgameslauncher.com/) / [GitHub](https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher) - Epic Games Launcher
 * [NASOS](https://archive.org/download/nNASOS1.8/nNASOS1.8.zip) - Gamecube iso.dec to ISO Converter
 * [rbxfpsunlocker-osx](https://github.com/lanylow/rbxfpsunlocker-osx) - Roblox FPS Unlocker
