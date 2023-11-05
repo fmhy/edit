@@ -2077,7 +2077,6 @@
 * [czkawka](https://github.com/qarmin/czkawka) - Remove Unnecessary Files 
 * [UnLock IT](https://emcosoftware.com/unlock-it/download), [Lock Hunter](https://lockhunter.com/) or [FileExile](https://sourceforge.net/projects/filexile/) - File Unlocker / Deleter
 * [Turbo Delete](https://github.com/suptejas/turbo-delete) - Delete Files Faster 
-* [rm_empty_subdir](https://gist.github.com/simon987/f5c2cd7602898615ac9bc8c762d9fe1d) - Remove Empty Sub Directories
 * [BZSHUT](https://github.com/arunkumartdr/BZSHUT) - Temp File Deletion Script
 * [WinMerge](https://winmerge.org/) - Compare / Merge Files & Folders
 * [FilesMerge](https://www.filesmerge.com/) - Online File Merger
