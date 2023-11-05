@@ -1120,7 +1120,7 @@
 * [ViveCraft](https://www.vivecraft.org/) - VR Minecraft
 * [SkyCrypt](https://sky.shiiyu.moe/) - SkyBlock Stats
 * [Cubical](https://www.cubical.xyz/) - Minecraft Schematic Tool
-* [Pixelart Builder](https://play.google.com/store/apps/details?id=com.electricfoal.photocrafter&hl=en&gl=US), [PixelStacker](https://taylorlove.info/pixelstacker/) or [SpriteCraft](https://spritecraft.en.softonic.com/) - Turn Photos into Minecraft Art
+* [Pixelart Builder](https://play.google.com/store/apps/details?id=com.electricfoal.photocrafter&hl=en&gl=US) or [PixelStacker](https://taylorlove.info/pixelstacker/) - Turn Photos into Minecraft Art
 * [ReplayMod](https://replaymod.com/) - Record Minecraft Game Sessions / [GitHub](https://github.com/ReplayMod/ReplayMod)
 * [GeyserMC](https://geysermc.org/) - Join Minecraft Java Servers with Bedrock Client / [Consoles](https://wiki.geysermc.org/geyser/using-geyser-with-consoles/)
 * [CraftyControl](https://craftycontrol.com/), [MCSManager](https://github.com/MCSManager/MCSManager) or [Fork](https://www.fork.gg/) - Minecraft Server Managers
