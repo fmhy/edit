@@ -47,7 +47,7 @@
 * [DuoTones](https://duotones.co/) - Dual Tone Effect Generator
 * [ImageGoNord](https://ign.schrodinger-hat.it/) - Convert Images to NordTheme Palette / [GitHub](https://github.com/Schrodinger-Hat/ImageGoNord)
 * [Fotosketcher](https://fotosketcher.com/) - Turn Photos into Artwork
-* [White-box-Cartoonization](https://github.com/SystemErrorWang/White-box-Cartoonization), [Image To Cartoon](https://imagetocartoon.com/) or [Cartoonize](https://cartoonize-lkqov62dia-de.a.run.app/cartoonize) - Turn Photos into Cartoons
+* [White-box-Cartoonization](https://github.com/SystemErrorWang/White-box-Cartoonization) or [Image To Cartoon](https://imagetocartoon.com/) - Turn Photos into Cartoons
 * [AnimeGAN](https://github.com/TachibanaYoshino/AnimeGAN) / [2](https://github.com/TachibanaYoshino/AnimeGANv2) / [3](https://github.com/TachibanaYoshino/AnimeGANv3) - Turn Photos into Anime
 * [AIDraw](https://ai-draw.tokyo/en/) or [ArtLine](https://github.com/vijishmadhavan/ArtLine) - Turn Photos into Line Art
 * [primitive.js](https://ondras.github.io/primitive.js/) or [Geometrize](https://www.geometrize.co.uk/) - Redraw Images with Geometric Shapes 
@@ -426,7 +426,6 @@
 * [ImgOps](https://imgops.com/) - Image Operations Meta-Tool
 * [FontAwesomePS](http://creativedo.co/FontAwesomePS) - Photoshop Icon Manager
 * [Adobe Bridge](https://adobe.com/products/bridge.html) - Adobe Assets Manager
-* [Photoshop Repeating Action Script](https://gist.github.com/ajazsiddiqui/72bbf376ad387e1f76bfad777f66d7a3) - Automate Photoshop
 * [Image Colors](https://franciscouzo.github.io/image_colors/) - Image Color Scatter Plot 
 * [resdet](https://github.com/0x09/resdet) - Detect if an Image is Upscaled
 * [detectron2](https://github.com/facebookresearch/detectron2) - Object / Human Detection
