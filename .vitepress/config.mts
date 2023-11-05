@@ -5,6 +5,7 @@ import { presetUno, presetAttributify, presetIcons } from "unocss";
 import { commitRef, meta } from "./constants";
 import { pwa } from "./pwa";
 import { generateMeta } from "./hooks/meta";
+import { fileURLToPath } from "url";
 
 export default defineConfig({
   title: "FMHY",
@@ -54,6 +55,16 @@ export default defineConfig({
       // Shut the fuck up
       chunkSizeWarningLimit: Infinity,
     },
+    resolve: {
+      alias: [
+				{
+					find: /^.*VPSwitchAppearance\.vue$/,
+					replacement: fileURLToPath(
+						new URL("./theme/components/ThemeSwitch.vue", import.meta.url),
+					),
+				},
+      ]
+    }
   },
   themeConfig: {
     search: {
