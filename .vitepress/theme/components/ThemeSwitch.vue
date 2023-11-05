@@ -1,5 +1,5 @@
 <script setup lang="ts">
-import { inject  } from "vue";
+import { inject } from "vue";
 import { useData } from "vitepress";
 
 import VPIconMoon from "vitepress/dist/client/theme-default/components/icons/VPIconMoon.vue";

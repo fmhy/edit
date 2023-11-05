@@ -6,11 +6,11 @@ export function copyableCodePlugin(md: MarkdownRenderer) {
   // Save the original rule for backticks
   const defaultRender =
     md.renderer.rules.code_inline ||
-    function(tokens, idx, options, env, self) {
+    function (tokens, idx, options, env, self) {
       return self.renderToken(tokens, idx, options);
     };
 
-  md.renderer.rules.code_inline = function(tokens, idx, options, env, self) {
+  md.renderer.rules.code_inline = function (tokens, idx, options, env, self) {
     // @ts-expect-error shut the fuck up already I HATE THIS
     if (!env.frontmatter.title || (env.frontmatter.title && !env.frontmatter.title === "base64")) {
       return defaultRender(tokens, idx, options, env, self);
