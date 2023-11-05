@@ -482,7 +482,6 @@
 * [StrikeOut](https://strikeout.im/) - Sports
 * [BestSolaris](https://bestsolaris.com/) - Sports
 * [Strumyk](https://strims.top/) - Sports
-* [SportsBay](https://www.sportsbaytv.com/) - Sports
 * [DudeStream](https://www.dudestream.com/) - Sports
 * [CricHD](https://v4.crichd.tv/) - Sports
 * [UFCKhabib](https://sportsurge.stream/) - Sports

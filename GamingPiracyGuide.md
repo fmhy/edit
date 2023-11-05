@@ -293,7 +293,7 @@
 * [TeknoParrot](https://teknoparrot.com/) - Modern Arcade Client
 * [FightCade](https://www.fightcade.com/), [OpenBOR](https://github.com/DCurrent/openbor) or [Mugen](https://mugenarchive.com/forums/downloads.php?do=cat&id=39-mugen-builds) - Fighting Game Emulators
 * [ScummVM](https://www.scummvm.org/) - Classic Graphical Adventure Game Engines
-* [OldGamesDownload](https://oldgamesdownload.com/) or [GetOldGames](https://getoldgames.com/) - ROMs
+* [OldGamesDownload](https://oldgamesdownload.com/) - ROMs
 * [NesFiles](https://www.nesfiles.com/) - ROMs / NES
 * [webnofrendo](https://zardam.github.io/webnofrendo/) - NES Numworks Emulator
 * [Old-Games.com](https://www.old-games.com/) - ROMs / PC / Amiga
@@ -1049,7 +1049,6 @@
 * [CnCNet](https://cncnet.org/) - Multiplayer Command & Conquer 
 * [Rusticaland](https://rusticaland.net/) - Rust Cracked Client / Servers
 * [Factorio.zone](https://factorio.zone/) - Free Factorio Servers
-* [Master Server Patch](https://github.com/sergeii/swat-patches/tree/master/swat4stats-masterserver/) - Swat 4 Server Browser Patch
 * [Swat4Stats](https://swat4stats.com/servers/) - Online Swat 4 Server Browser
 * [Overwolf](https://www.overwolf.com/) - Create In-Game Overlay Apps
 * [Tracker.gg](https://tracker.gg/) - Game Leaderboards / Stats
@@ -1121,7 +1120,7 @@
 * [ViveCraft](https://www.vivecraft.org/) - VR Minecraft
 * [SkyCrypt](https://sky.shiiyu.moe/) - SkyBlock Stats
 * [Cubical](https://www.cubical.xyz/) - Minecraft Schematic Tool
-* [Pixelart Builder](https://play.google.com/store/apps/details?id=com.electricfoal.photocrafter&hl=en&gl=US), [PixelStacker](https://taylorlove.info/pixelstacker/) or [SpriteCraft](https://spritecraft.en.softonic.com/) - Turn Photos into Minecraft Art
+* [Pixelart Builder](https://play.google.com/store/apps/details?id=com.electricfoal.photocrafter&hl=en&gl=US) or [PixelStacker](https://taylorlove.info/pixelstacker/) - Turn Photos into Minecraft Art
 * [ReplayMod](https://replaymod.com/) - Record Minecraft Game Sessions / [GitHub](https://github.com/ReplayMod/ReplayMod)
 * [GeyserMC](https://geysermc.org/) - Join Minecraft Java Servers with Bedrock Client / [Consoles](https://wiki.geysermc.org/geyser/using-geyser-with-consoles/)
 * [CraftyControl](https://craftycontrol.com/), [MCSManager](https://github.com/MCSManager/MCSManager) or [Fork](https://www.fork.gg/) - Minecraft Server Managers

@@ -874,7 +874,7 @@
 * [Panic Button](https://pastebin.com/mDWBZ7fQ) - Quickly Close All Tabs
 * [UploadingPorn](https://uploadingporn.com/) - NSFW File Host
 * [Javinizer](https://github.com/javinizer/Javinizer) - JAV File Organizer
-* [DeepMosaics](https://github.com/HypoX64/DeepMosaics) or [DeepCreamPy](https://github.com/styler00dollar/Colab-DeepCreamPy/blob/master/Colab-DeepCreamPy-2.2.ipynb) - Remove Mosaics from Porn
+* [DeepMosaics](https://github.com/HypoX64/DeepMosaics) - Remove Mosaics from Porn
 * [ThePornDB](https://metadataapi.net/) - Porn Metadata
 * [Bypass Age Verification](https://greasyfork.org/en/scripts/393525-bypass-age-verification-deviantart-com) - Bypass Deviantart Age Restriction
 * [Sleazy Fork](https://sleazyfork.org/en/scripts) - Adult User Scripts
