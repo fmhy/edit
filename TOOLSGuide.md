@@ -1267,7 +1267,7 @@
 * [Guild Counter](https://rauf.wtf/guildcount) - Check how many servers you're in
 * [Preview for Discord](https://dragory.github.io/role-preview-for-discord/) - Preview Role Colors Role
 * [Stolen Shoes](https://stolen.shoes/) or [Discord Embedder](https://discord.nfp.is/) - Embed Videos on Discord
-* [8mbvideo](https://8mb.video/) or [@Snooober's Script](https://redd.it/o7vqm4) - Encode videos to <8MB
+* [8mbvideo](https://8mb.video/) or [@Snooober's Script](https://redd.it/o7vqm4) - Encode videos to 8MB
 * [Discord Together](https://github.com/RemyK888/discord-together) - Video Stream Sync / Watch Parties
 * [DiskCord](https://github.com/5ut/DiskCord) - Host Files on External Sites to share via Discord
 * [discordcompressor](https://github.com/vladaad/discordcompressor) - Video Compressor
