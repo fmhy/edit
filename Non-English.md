@@ -293,7 +293,6 @@
 * [CText](https://ctext.org/), [ChineseNotes](https://chinesenotes.com/) or [Kanripo](https://www.kanripo.org/) - Chinese Historic Text Archive
 * [guoxue](http://www.guoxue.com/) - History / Journals
 * [ebooks](https://github.com/XWHQSJ/ebooks), [Chinese Programming Books](https://github.com/justjavac/free-programming-books-zh_CN) or [awesome-wiki-books](https://github.com/awesome-wiki/awesome-wiki-books), [Banshujiang](http://www.banshujiang.cn/) - Programming Books
-* [TTS PDF](https://github.com/cnlinxi/book-text-to-speech/blob/main/text_to_speech.pdf) - Text to Speech Book
 * [Moedict](https://www.moedict.tw/), [dict.cn](https://dict.cn/), [CantoDict](https://www.cantonese.sheik.co.uk/scripts/wordlist.htm) or [ZDic](https://www.zdic.net/) - Chinese Dictionary
 * [kangxizidian](https://kangxizidian.com/) - Chinese Kangxi Dictionary
 * [Shufazidian](https://www.shufazidian.com/) - Chinese Calligraphy Dictionary
@@ -405,7 +404,7 @@
 ## ▷ Streaming
 
 * ⭐ **[Sadisflix](https://sadisflix.day/)** - Movies / TV / [Telegram](https://t.me/sadisflix)
-* [MesFilms](https://mesfilms.sbs/), [HDS](https://www1.hds.fm/), [VoirFilmsHD](https://flashfilms-hd.top/) - Movies / TV / Cartoons / Anime
+* [MesFilms](https://mesfilms.sbs/) or [VoirFilmsHD](https://flashfilms-hd.top/) - Movies / TV / Cartoons / Anime
 * [Wawa-Streams](https://wawa-streams.com/) - Movies / TV
 * [Cinematheque](https://www.cinematheque-bretagne.bzh/) - Classic / Amateur Movies
 * [OtakuFR](https://otakufr.co/) - Anime
