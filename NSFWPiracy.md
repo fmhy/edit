@@ -27,6 +27,7 @@
 * [PornBox](http://pornbox.org/)
 * [PrimePornList](https://www.primepornlist.com/)
 * [DirtyWarez Adult](https://dirtywarez.org/cat/adult) - Alexa Adult Site Rankings
+* [Vlixa](https://vlixa.com/)
 
 ***
 
