@@ -451,8 +451,7 @@
 * [Master Archer](https://playcanv.as/p/JERg21J8/) - Archery Game 
 * [Galaxies](https://playcanv.as/p/Ikq6Uk6A/) - Space Combat Game 
 * [Orbital Survival](https://playcanv.as/p/3G3RnfUz/) - Survive Waves of UFOs 
-* [Doodle Cricket](https://doodlecricket.github.io/index.html#/) - Play Cricket as a Cricket 
-* [Doodle Champion Island Games!](https://www.google.com/) - Olympics JRPG Game
+* [Doodle Cricket](https://doodlecricket.github.io/index.html#/) - Play Cricket as a Cricket
 * [MousePoint](https://creativetechguy.com/mousepoint) - Mouse Pointing Game
 * [FindTwin](https://github.com/klimaleksus/FindTwin) - Find the Twins
 * [Spot the Differences](https://www.spotthedifference.com/) - Find the Differences
