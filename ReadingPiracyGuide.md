@@ -82,7 +82,6 @@
 * [Ocean of EPUB](https://oceanofepub.com/) - Books / Manga
 * [PDFGet](https://pdfget.com/) - Books
 * [LetMeRead](https://www.letmeread.net/) - Books
-* [FreeBookSpot](https://www.freebookspot.club/) - Books
 * [BooksToLearn](https://www.booktolearn.com) - Books
 * [PDFDrive.to](https://pdfdrive.to/) - Books
 * [DPLA](https://dp.la/) - Books
@@ -916,7 +915,6 @@
 * [Tapas](https://tapas.io/)
 * [Bilibili Comics](https://www.bilibilicomics.com/)
 * [MangaKomi](https://mangakomi.io/)
-* [Aqua Manga](https://aquamanga.com/)
 * [MangaWeebs](https://mangaweebs.in/)
 * [Dragon Tea](https://dragontea.ink/)
 * [Niadd](https://niadd.com/)
@@ -1104,7 +1102,6 @@
 * [CandlApp](https://www.candlapp.com/) - Books
 * [Anobii](https://www.anobii.com/) - Books
 * [Reddit Reads](https://www.redditreads.com/) - Book Recommendations
-* [What Should I Read Next?](https://www.whatshouldireadnext.com/) - Book Recommendations
 * [GNOD](https://www.gnod.com/) - Book Recommendations
 * [RecommendMeABook](https://recommendmeabook.com/) - Book Recommendations
 * [WhichBook](https://www.whichbook.net/) - Book Recommendations
