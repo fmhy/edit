@@ -40,9 +40,7 @@ export async function generateImages(config: SiteConfig) {
     },
   ];
 
-  const filteredPages = pages.filter((p) => p.frontmatter.image === undefined);
-
-  for (const page of filteredPages) {
+  for (const page of pages) {
     await generateImage({
       page,
       template,
@@ -57,17 +55,6 @@ interface GenerateImagesOptions {
   template: string;
   outDir: string;
   fonts: SatoriOptions["fonts"];
-}
-
-function getDir(url: string) {
-  if (url.startsWith("/glossary/")) {
-    return "Glossary";
-  } else if (url.startsWith("/guides/")) {
-    return "Guide";
-  }
-
-  // Means we are at root.
-  return undefined;
 }
 
 async function generateImage({ page, template, outDir, fonts }: GenerateImagesOptions) {
@@ -86,7 +73,6 @@ async function generateImage({ page, template, outDir, fonts }: GenerateImagesOp
         frontmatter.layout === "home"
           ? frontmatter.hero.tagline ?? frontmatter.description
           : frontmatter.description,
-      dir: getDir(url),
     },
   };
 
