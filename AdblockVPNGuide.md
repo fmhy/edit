@@ -459,7 +459,6 @@
 * [PrivadoVPN](https://privadovpn.com/) - Free VPN / Unlimited Accounts via [Temp Mail](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_temp_email_sites)
 * [Kaspersky](https://www.kaspersky.com/vpn-secure-connection) - Free VPN / 200 MB per day / No Account Required
 * [VpnHood](https://github.com/vpnhood/VpnHood), [HideMe](https://hide.me/) or [Leap VPN](https://leap.se/) - Free VPNs
-* [Clash](https://github.com/Fndroid/clash_for_windows_pkg) - Free VPN / [Profiles](https://rentry.co/2q3rn)
 * [Portals](https://www.portalsvpn.com/) - dVPN
 * [TunnelBear](https://www.tunnelbear.com/) - Free VPN / 500MB
 * [VPNBook](https://www.vpnbook.com/) - Free VPN Accounts
