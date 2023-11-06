@@ -10,10 +10,10 @@ export function generateMeta(context: TransformContext, hostname: string) {
   head.push(["meta", { property: "og:url", content: url }]);
   head.push(["meta", { name: "twitter:url", content: url }]);
   head.push(["meta", { name: "twitter:card", content: "summary_large_image" }]);
-  head.push(["meta", { name: "theme-color", content: "#7bc5e4" }]);
-  head.push(["meta", { property: "og:type", content: "website" }]);
 
-  if (pageData.frontmatter.description) {
+  head.push(["meta", { property: "og:title", content: pageData.frontmatter.title }]);
+  head.push(["meta", { name: "twitter:title", content: pageData.frontmatter.title }]);
+
     head.push([
       "meta",
       {
@@ -28,10 +28,7 @@ export function generateMeta(context: TransformContext, hostname: string) {
         content: pageData.frontmatter.description,
       },
     ]);
-  }
-  head.push(["meta", { property: "og:title", content: pageData.frontmatter.title }]);
-  head.push(["meta", { name: "twitter:title", content: pageData.frontmatter.title }]);
-
+  
   if (pageData.frontmatter.image) {
     head.push([
       "meta",
@@ -47,8 +44,32 @@ export function generateMeta(context: TransformContext, hostname: string) {
         content: `${hostname}/${pageData.frontmatter.image.replace(/^\//, "")}`,
       },
     ]);
-  }
+  } else {
+    const url = pageData.filePath.replace("index.md", "").replace(".md", "");
+    const imageUrl = `${url}/__og_image__/og.png`.replace(/\/\//g, "/").replace(/^\//, "");
 
+    head.push(["meta", { property: "og:image", content: `${hostname}/${imageUrl}` }]);
+    head.push(["meta", { property: "og:image:width", content: "1200" }]);
+    head.push(["meta", { property: "og:image:height", content: "628" }]);
+    head.push(["meta", { property: "og:image:type", content: "image/png" }]);
+    head.push(["meta", { property: "og:image:alt", content: pageData.frontmatter.title }]);
+    head.push(["meta", { name: "twitter:image", content: `${hostname}/${imageUrl}` }]);
+    head.push(["meta", { name: "twitter:image:width", content: "1200" }]);
+    head.push(["meta", { name: "twitter:image:height", content: "628" }]);
+    head.push(["meta", { name: "twitter:image:alt", content: pageData.frontmatter.title }]);
+  }
+  if (pageData.frontmatter.tag) {
+    head.push(["meta", { property: "article:tag", content: pageData.frontmatter.tag }]);
+  }
+  if (pageData.frontmatter.date) {
+    head.push([
+      "meta",
+      {
+        property: "article:published_time",
+        content: pageData.frontmatter.date,
+      },
+    ]);
+  }
   if (pageData.lastUpdated && pageData.frontmatter.lastUpdated !== false) {
     head.push([
       "meta",

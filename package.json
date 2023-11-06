@@ -10,10 +10,12 @@
     "api:dev": "nitropack dev",
     "api:build": "nitropack build",
     "api:preview": "node .output/server/index.mjs",
+    "og:dev": "x-satori -t ./.vitepress/hooks/Template.vue -c ./.vitepress/hooks/satoriConfig.ts --dev",
     "format": "prettier -w --cache .",
     "postinstall": "nitropack prepare"
   },
   "dependencies": {
+    "@resvg/resvg-js": "^2.6.0",
     "fast-glob": "^3.3.1",
     "itty-fetcher": "^0.9.4",
     "nitro-cors": "^0.7.0",
@@ -22,7 +24,8 @@
     "unocss": "^0.57.1",
     "vitepress": "1.0.0-rc.25",
     "vue": "^3.3.7",
-    "workbox-window": "^7.0.0"
+    "workbox-window": "^7.0.0",
+    "x-satori": "^0.1.5"
   },
   "devDependencies": {
     "@iconify-json/carbon": "^1.1.21",

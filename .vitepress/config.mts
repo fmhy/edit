@@ -7,6 +7,7 @@ import { pwa } from "./pwa";
 import { generateMeta } from "./hooks/meta";
 import { fileURLToPath } from "url";
 import { copyableCodePlugin } from "./markdown";
+import { generateImages } from "./hooks";
 
 export default defineConfig({
   title: "FMHY",
@@ -36,6 +37,9 @@ export default defineConfig({
     ["link", { rel: "apple-touch-icon", href: "/test.png", sizes: "192x192" }],
   ],
   transformHead: async (context) => generateMeta(context, meta.hostname),
+  buildEnd: async (context) => {
+    generateImages(context);
+  },
   vite: {
     plugins: [
       UnoCSS({
