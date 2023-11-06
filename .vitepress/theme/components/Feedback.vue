@@ -42,12 +42,11 @@ async function handleSubmit(type?: string) {
     contactEmail: feedback.contactEmail,
   };
 
+  // TODO: fix this horror?
   try {
     const response = await fetch("https://feedback.tasky.workers.dev", {
       method: "POST",
       headers: {
-        "Access-Control-Allow-Origin": "*",
-        "Access-Control-Allow-Methods": "POST",
         "Content-Type": "application/json",
       },
       body: JSON.stringify(body),
@@ -59,7 +58,9 @@ async function handleSubmit(type?: string) {
       error.value = data.error;
       return;
     }
-    success.value = true;
+    if (data.status === "success") {
+      success.value = true;
+    }
   } catch (err) {
     error.value = err;
   } finally {
@@ -103,7 +104,10 @@ async function handleSubmit(type?: string) {
         <textarea v-model="feedback.message" autofocus class="input" />
         <p class="desc">Contacts, so we can get back to you. (Optional)</p>
         <textarea v-model="feedback.contactEmail" class="contact-input" />
-        <button class="btn btn-primary" :disabled="!feedback.message" @click="handleSubmit()">
+        <button
+          class="btn btn-primary"
+          :disabled="feedback.message.length > 10"
+          @click="handleSubmit()">
           Submit
         </button>
       </div>

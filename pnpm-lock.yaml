@@ -16,6 +16,9 @@ dependencies:
   itty-fetcher:
     specifier: ^0.9.4
     version: 0.9.4
+  nitro-cors:
+    specifier: ^0.7.0
+    version: 0.7.0
   nitropack:
     specifier: latest
     version: 2.7.2
@@ -4467,6 +4470,13 @@ packages:
     resolution: {integrity: sha512-BGcqMMJuToF7i1rt+2PWSNVnWIkGCU78jBG3RxO/bZlnZPK2Cmi2QaffxGO/2RvWi9sL+FAiRiXMgsyxQ1DIDA==}
     engines: {node: ^10 || ^12 || ^13.7 || ^14 || >=15.0.1}
     hasBin: true
+
+  /nitro-cors@0.7.0:
+    resolution: {integrity: sha512-Mbb26M7TCKZxt8mOw5V9mVj4gCCv+/+LOy1QUUlk+HcMFn5CD4/irwg8IsoDg7NA+c441A0joC4n+mVFCNhu5g==}
+    dependencies:
+      h3: 1.8.2
+      ufo: 1.3.1
+    dev: false
 
   /nitropack@2.7.2:
     resolution: {integrity: sha512-6vQbGdBNR20N8wTChzIQUZQmNVhWVDrjUdpOYD68u2hlyUiJembth2fQuoWw3KlsoNYWFvcyqL9X3DPjjnoEUQ==}

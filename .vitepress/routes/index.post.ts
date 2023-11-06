@@ -47,5 +47,5 @@ export default defineEventHandler(async (event) => {
       throw new Error(error);
     });
 
-  return "success";
+  return { status: "success" };
 });
