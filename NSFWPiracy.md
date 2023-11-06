@@ -818,7 +818,6 @@
 * [Pornshow](https://app.pornshow.ai/)
 * [OnlyFakes](https://onlyfakes.app/feed)
 * [Pornify](https://pornify.cc/)
-* [Deepfake.com](https://www.deepfake.com/guests/)
 * [AIHentai.co](https://aihentai.co/)
 * [PornSword.io](https://pornsword.io/)
 * [TryNectar](https://trynectar.ai/)
