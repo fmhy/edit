@@ -116,7 +116,6 @@
 
 * [Film4e](https://film4e.com/) - Movies / TV / Cartoons / Sub / Dub / 1080p
 * [NovaPlay](https://play.nova.bg/) - TV / Sub / Dub / 1080p
-* [VSI4KIFILMI](https://vsi4kifilmi.com/) - Movies / TV / Cartoons / Sub / Dub / 720p / Customizable Subtitles
 * [BGTVNET](https://bgtvnet.com/) - Movies / TV / Cartoons / Sub / 720p
 * [Filmite.Info](https://filmi99.com/) - Movies / TV / Cartoons / Sub / 720p
 * [bgseriali](https://bgseriali.com/) - Movies / TV / Documentaries / Sub / Dub / 720p
@@ -1159,7 +1158,6 @@
 * [Escola Virtual Gov](https://www.escolavirtual.gov.br/catalogo) - Courses
 * [Escola Virtual](https://www.ev.org.br) - Courses
 * [Veduca](https://veduca.org) - Courses
-* [UNA-SUS](https://www.unasus.gov.br/cursos/busca) - Courses
 * [DIO](https://www.dio.me) - Development Courses
 * [Palco MP3](https://www.palcomp3.com.br) - Music
 * [Rádio J-Hero](https://radiojhero.com) - Radio
@@ -1370,7 +1368,6 @@
 * [Kinotochka](https://kinotochka.co/) - Movies / TV / Anime
 * [kinokong](https://kinokong.pro/) - Movies / TV
 * [RussianFilmHub](https://russianfilmhub.com/) - Movies / TV
-* [viho.live](https://viho.live/) - Movies / TV / Anime
 * [EX-FS](https://ex-fs.net/) - Movies / TV / Anime
 * [hdrezka](https://hdrezka.ag/) - Movies / TV / Anime
 * [Kinogo](https://kinogo.biz/) - Movies / TV / Anime
@@ -1568,8 +1565,7 @@
 * [PelisPedia3](https://io.pelispedia.io/) - Movies / TV / Anime / Latino
 * [Gnula.uno](https://gnula.uno/) - Movies / TV / Anime / Latino
 * [Cinecalidad](https://cinecalidad.gg/) - Movies / TV / Animation / Latino / [Telegram](https://t.me/cinecalidadchat)
-* [Inkapelis](https://www1.inkapelis.li/) - Movies / TV / Latino
-* [Cuevana2](https://www.cuevana2.icu/), [2](https://www.cuevana2espanol.net/) - Movies / TV / Latino
+* [Cuevana2](https://www.cuevana2espanol.net/) - Movies / TV / Latino
 * [locopelis](https://www.locopelis.com/), [2](https://www.repelis.net/) - Movies / NSFW / Latino
 * [Fanpelis](https://fanpelis.la/) - Movies / TV / Anime / Latino
 * [PelisPlusHD.nz](https://pelisplushd.nz/) - Movies / TV / Anime / Latino / [Telegram](https://t.me/pelisplushd_nu)
