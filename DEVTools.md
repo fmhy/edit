@@ -570,7 +570,6 @@
 * [Violating GDPR](https://www.violating-gdpr.com/) - GDPR Violation Test
 * [Color Oracle](https://colororacle.org/), [WhoCanUse](https://www.whocanuse.com/) or [Toptal](https://www.toptal.com/designers/colorfilter) - Color Blindness Simulator / Tests
 * [Web Vitals Leaderboard](https://vitals-leaderboard.pazguille.me/) or [Lighthouse Metrics](https://lighthouse-metrics.com/) - Website Performance Tests
-* [Visual Mind AI](https://myraah.io/index.php/visualmind) - Site Visual Score
 * [Prometheus](https://prometheus.io/) - Site Metrics / [Setup](https://thanos.io/)
 * [Carbon Calculator](https://www.websitecarbon.com/) - Estimate Sites Carbon Footprint
 * [Site Inspector](https://www.getsiteinspector.com/) - Check Site for Spelling / Grammatical Errors
@@ -636,7 +635,6 @@
 * [Discord Devs: Community Resources](https://discord.com/developers/docs/topics/community-resources) - Integrate Services with Discord
 * [discord-api-libs](https://github.com/Apacheli/discord-api-libs) - Community Libraries for Discord API
 * [botwiki](https://botwiki.org/) - Learn How to Make Bots
-* [rss-to-activitypub](https://portal.0svc.com/convert/) - RSS to ActivityPub Converter
 * [reddit-moderator-toolbox](https://github.com/toolbox-team/reddit-moderator-toolbox) - Toolbox for Reddit Extension Development
 * [Wokwi](https://wokwi.com/) - Arduino / ESP32 Board Simulator
 * [Tesseract](https://tesseract-ocr.github.io/) - Open Source OCR Engine / [GitHub](https://github.com/tesseract-ocr/tesseract)
@@ -1070,7 +1068,6 @@
 * [ShellcodeTemplate](https://github.com/Cracked5pider/ShellcodeTemplate) - Modifiable Shellcode Template 
 * [Spork](https://github.com/atek-cloud/spork) - P2P Sockets CLI / [Discord](https://discord.gg/UUCVrFYksv)
 * [egui](https://github.com/emilk/egui) - Rust GUI
-* [Play Rust](https://play.rust-lang.org/) - Rust Playground
 * [This Week in Rust](https://this-week-in-rust.org/) - Rust News / Updates
 * [Diskord](https://gitlab.com/diskord/diskord) - Kotlin API Client for Discord
 * [lo](https://github.com/samber/lo) - Go Library
@@ -1198,7 +1195,6 @@
 * ↪️ **[Vim Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_vim_tools)**
 * ⭐ **[Competitive Editor](https://cpeditor.org/)** - Competitive Programming Editor
 * ⭐ **[WebDen](https://webden.dev/)**, [tech.io](https://tech.io/), [CodingGround](https://www.tutorialspoint.com/codingground.htm) or [Online Tools](https://onlinetool.io/) - Code Playgrounds
-* [GoPlay](https://goplay.space/) or [Go Lang](https://play.go-lang.org/) - Go Playgrounds
 * [RoslynPad](https://roslynpad.net/) - C# Editor
 * [DotNetFiddle](https://dotnetfiddle.net/) - C# Compiler
 * [RoslynQuoter](https://roslynquoter.azurewebsites.net/) - C# Syntax Tree API Viewer
