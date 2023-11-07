@@ -897,6 +897,7 @@
 * [Fimo](https://apps.apple.com/us/app/fimo-analog-camera/id1454219307) - Vintage Image Filters
 * [Lightme](https://apps.apple.com/app/id1509033790) - Light Meter
 * [Luma AI](https://lumalabs.ai/) - Capture 3D Images
+* [Bright Eye](https://apps.apple.com/us/app/bright-eye/id1593932475) - AI Image Generator
 * [Universal Control](https://apps.apple.com/us/app/tv-remote-universal-control/id1539090879) - Universal Remote
 * [NetClicker](https://netclicker.tv/) - Phone Browser Controller
 * [Bacon](https://github.com/jerameel/bacon) - Bluetooth Controller
@@ -948,7 +949,7 @@
 
 ## ▷ iOS Jailbreaking
 
-* 🌐 **[Complete Jailbreak Chart](https://appledb.dev/)**, [HackYouriPhone Repo](https://repo.hackyouriphone.org/) or [IPA Apps](https://ipa-apps.me/) - Jailbreaking Tool Indexes
+* 🌐 **[Complete Jailbreak Chart](https://appledb.dev/)**, [CanIJailbreak?](https://canijailbreak.com/), [HackYouriPhone Repo](https://repo.hackyouriphone.org/) or [IPA Apps](https://ipa-apps.me/) - Jailbreaking Tool Indexes
 * ⭐ **[iOS Jailbreak Guide](https://ios.cfw.guide/)** - Jailbreaking Guide
 * ⭐ **[/r/jailbreak](https://reddit.com/r/jailbreak)** - Jailbreaking Subreddit / [Wiki](https://www.reddit.com/r/jailbreak/wiki/index)
 * ⭐ **[Sideloading Beginners Guide](https://redd.it/orqzau)** or [Noob Guide to Sideloading](https://www.reddit.com/r/Piracy/comments/pt5uv9/noob_guide_to_sideloading_in_ios/) - Sideloading Guide
