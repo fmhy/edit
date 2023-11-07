@@ -580,7 +580,7 @@
 * [The Planets](https://planets-facts-website.netlify.app/) - Learn About Planets
 * [ExoplanetExplore](https://exoplanetexplore.vercel.app) - Interactive Exoplanet Visualization
 * [Space Object Comparison](https://mr21.github.io/space-object-comparison/) - Compare Sizes Of Celestial Objects
-* [Spy Map Online](https://skymaponline.net/) - Star Map
+* [Sky-Map](http://sky-map.org/) or [Sky Map Online](https://skymaponline.net/) - Interactive Star Maps
 * [100,000 Stars](https://stars.chromeexperiments.com/) - Interactive 3D Star Visualization
 * [Aladin](https://aladin.u-strasbg.fr/) - Astronomical Image Viewer / [Lite Version](https://aladin.u-strasbg.fr/AladinLite/)
 * [Stellarium-Web](https://stellarium-web.org/) or [Stellarium](https://stellarium.org/) - Virtual Stellariums
