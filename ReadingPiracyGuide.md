@@ -1112,6 +1112,7 @@
 * [Break the Bubble!](https://abooklike.foo/escape) - Book Recommendations
 * [PagePundit](https://pagepundit.com/) - Book Recommendations
 * [Mind Expanding Books](https://github.com/hackerkid/Mind-Expanding-Books) - Book Recommendations
+* [myAIbrary](https://myaibrary.com/) - Book Recommendations
 * [Litsy](https://www.litsy.com/) - Book Recommendation / Photo Sharing Community
 * [5000 Best](http://5000best.com/books/) - Top 5000 Books
 * [listal](https://www.listal.com/) - Book Database
