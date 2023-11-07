@@ -95,6 +95,7 @@
 * [LimeTorrents](https://www.limetorrents.lol/) - Video / Audio / Books
 * [IsoHunt](https://isohunts.to/) or [IsoHunt.nz](https://isohunt.nz/) - Video / Audio / Books
 * [ExT](https://ext.to/), [2](https://site.extto.com/) - Video / Audio / Books
+* [ExtraTorrent](https://extratorrent.st/) - Video / Audio / Books / NSFW
 * [rutor.info](https://rutor.info/) or [rutor.is](https://rutor.is/) - Video / Audio / Books / Roms / Magazines / Use [Translator](https://github.com/FilipePS/Traduzir-paginas-web#install)
 * [NNM-Club](https://nnmclub.to/) - Video / Audio / [Note](https://i.ibb.co/MPRttDC/6a35c3c79cde.png)
 * [Torrentz2k](https://torrentz2k.xyz/) - Video / Audio / NSFW
@@ -131,7 +132,6 @@
 * [BTMET](https://btmet.com/)
 * [BT4G](https://bt4gprx.com/)
 * [Torlock](https://www.torlock.com/), [2](https://www.torlock2.com/)
-* [ExtraTorrent](https://extratorrent.unblockit.kim/)
 * [TorrentFunk](https://www.torrentfunk.com/)
 * [TorrentProject2](https://torrentproject2.com/), [2](https://torrentproject2.net/)
 * [0Mag](https://www.0mag.net/), [2](https://16mag.net/)
