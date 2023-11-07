@@ -3078,7 +3078,7 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://70.88.180.169:8
 
 * ⭐ **[wallhaven](https://wallhaven.cc/)** / [Downloader](https://github.com/eramdam/WallbaseDirectDownloader)
 * ⭐ **[Wallpaper Abyss](https://wall.alphacoders.com/)**
-* [UnixPorn](https://discord.gg/unixporn) - Ricing / Themes
+* ⭐ **[Studio Ghibli Wallpapers](https://www.ghibli.jp/info/013772)**
 * [CoolBackgrounds](https://coolbackgrounds.io/) or [wallup](https://wallup.net/) - Customizable Wallpapers
 * [simpledesktops](http://simpledesktops.com/), [Positron Dream](https://www.positrondream.com/) or [setaswall](https://www.setaswall.com/) - Minimalistic Wallpapers
 * [DualMonitorBackgrounds](https://www.dualmonitorbackgrounds.com/) or [WallpaperFusion](https://www.wallpaperfusion.com/) - Dual Monitor Wallpapers
