@@ -25,10 +25,11 @@
 * [Crontab Guru](https://crontab.guru/) - Crontab Editor / Job Scheduler
 * [Crontab Generator](https://crontab-generator.org/) - Generate Crontab Syntax
 * [Touchégg](https://github.com/JoseExposito/touchegg) - Multi-Touch Gesture Recognizer
-* [Enlightment](https://www.enlightenment.org/), [worm](https://github.com/codic12/worm), [qpwm](https://github.com/ssleert/qpwm) or [dwm](https://dwm.suckless.org/) - Window Manager
+* [Enlightment](https://www.enlightenment.org/), [1Piece](https://app1piece.com/), [worm](https://github.com/codic12/worm), [qpwm](https://github.com/ssleert/qpwm) or [dwm](https://dwm.suckless.org/) - Window Managers
 * [zentile](https://github.com/blrsn/zentile) or [bspwm](https://github.com/baskerville/bspwm) - Tiling Windows Manager / [Sub](https://www.reddit.com/r/bspwm/) / [Binds](https://github.com/baskerville/sxhkd)
 * [Material Shell](https://material-shell.com/) or [Forge](https://github.com/forge-ext/forge) - GNOME Tiling Extension
 * [Bismuth](https://bismuth-forge.github.io/bismuth/) - KDE Tiling Extension / [GitHub](https://github.com/Bismuth-Forge/bismuth)
+* [MSOffice2016](https://elsotanoenlared-es.translate.goog/office-2016-32-bits-en-linux-con-bottles/?_x_tr_sl=es&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp) - Pre-Installed MS Office 2016 Bottle
 * [Ghostwriter](https://ghostwriter.kde.org/) or [Remarkable](https://remarkableapp.github.io/) - Markdown Editor
 * [Gedit](https://wiki.gnome.org/Apps/Gedit), [Geany](https://www.geany.org/), [Leafpad](http://tarot.freeshell.org/leafpad/), [NotepadNext](https://github.com/dail8859/NotepadNext), [Featherpad](https://github.com/tsujan/FeatherPad), [Mousepad](https://github.com/codebrainz/mousepad) or [Notepadqq](https://notepadqq.com/) - Text Editor
 * [Whatever](https://github.com/sbrshk/whatever) - Evernote Client
