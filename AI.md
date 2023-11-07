@@ -20,7 +20,6 @@
 * ⭐ **[Ora](https://ora.ai/openai/chatgpt)** - GPT-3.5 Based Chatbots / [Discord](https://discord.com/invite/G8W5VHZhTR)
 * ⭐ **[BAI](https://beta.theb.ai/)** - GPT-3.5 Based Chatbot
 * ⭐ **[Call Annie](https://callannie.ai/)** - GPT-3.5 Based Chatbot with Real-Time Voice / [Discord](https://discord.gg/Rfbzet5R3v)
-* ⭐ **[Nova AI](https://nova-oss.com/)** - Free GPT-4 Tokens / API / [Chat](https://chat.nova-oss.com/)
 * ⭐ **[Claude](https://claude.ai/)** - Anthropic's Chatbot
 * ⭐ **[Bard](https://bard.google.com/)** - Google's Chatbot
 * [FastGPT](https://labs.kagi.com/fastgpt) - Claude Based Q&A AI
