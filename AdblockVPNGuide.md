@@ -357,7 +357,7 @@
 * [Whoogle](https://benbusby.com/projects/whoogle-search/) - Google Search Frontend 
 * [Lingva Translate](https://github.com/TheDavidDelta/lingva-translate) - Google Translate Frontend 
 * [Wikiless](https://wikiless.org/) - Wikipedia Frontend 
-* [Scribe](https://sr.ht/~edwardloveall/Scribe/) or [LibMedium](https://github.com/realaravinth/libmedium) - Medium Frontend 
+* [Scribe](https://sr.ht/~edwardloveall/Scribe/), [medium.rip](https://medium.rip/) or [LibMedium](https://github.com/realaravinth/libmedium) - Medium Frontends 
 * [Quetre](https://github.com/zyachel/quetre) - Quora Frontend 
 * [Rimgo](https://codeberg.org/rimgo/rimgo) - Imgur Frontend 
 * [Binternet](https://github.com/Ahwxorg/Binternet) - Pinterest Frontend 
