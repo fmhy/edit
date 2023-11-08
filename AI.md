@@ -13,7 +13,7 @@
 
 * 🌐 **[Awesome-GPT4](https://gpt4.tools/)** - ChatGPT Resources
 * 🌐 **[LifeArchitect](https://lifearchitect.ai/models-table/)** - Chatbot Index
-* 🌐 **[Free AI APIs](https://github.com/NovaOSS/free-ai-apis) or [Nova OSS](https://nova-oss.com/)** - AI APIs
+* 🌐 **[Free AI APIs](https://git.alexdot.me/alex/free-ai-apis) or [Nova OSS](https://nova-oss.com/)** - AI APIs
 * ⭐ **[ChatGPT](https://chat.openai.com/)** - GPT Based Chatbot / [Discord](https://discord.com/invite/openai)
 * ⭐ **[Phind](https://www.phind.com/)** - GPT-4 Q&A AI / [Discord](https://discord.com/invite/S25yW8TebZ)
 * ⭐ **[Perplexity](https://www.perplexity.ai/)** - GPT-3.5 Q&A AI / [Discord](https://discord.com/invite/perplexity-ai) / [Llama Version](https://labs.perplexity.ai/)
