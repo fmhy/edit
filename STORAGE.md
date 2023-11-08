@@ -2534,10 +2534,7 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://70.88.180.169:8
 ## Switch Homebrew Discord Servers
 
 * https://discord.gg/switchway
-* https://discord.gg/pytKu48eMk
 * https://discord.gg/EZMAupDvWE
-* https://discord.gg/UkwVjft
-* https://discord.gg/MfXkAMwW6Z
 * https://discord.gg/tuT59S2zcv
 * https://discord.gg/VAadvt9KFH
 
