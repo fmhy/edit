@@ -142,6 +142,7 @@
 
 * 🌐 **[Awesome Artificial Intelligence](https://github.com/owainlewis/awesome-artificial-intelligence#free-content)** - AI Resources / Learning
 * 🌐 **[Futurepedia](https://www.futurepedia.io/)** - AI Directory
+* 🌐 **[ListedAI](https://www.listedai.co/)** - AI Directory
 * 🌐 **[AI-MF](https://whoisdsmith.gitbook.io/ai-mf/)** - AI Directory / [GitHub](https://github.com/whoisdsmith/AI-MTHRFCKR)
 * 🌐 **[AI Collection](https://github.com/ai-collection/ai-collection)** - AI Directory
 * 🌐 **[AI Scout](https://aiscout.net/)** - AI Directory
