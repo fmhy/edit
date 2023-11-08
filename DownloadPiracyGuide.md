@@ -163,7 +163,6 @@
 * [ZOMBIE-WAREZ](https://pastebin.com/Mv32ibns)
 * [Libreware](https://t.me/Libreware), [Computer Softwares](https://t.me/Computer_Softwares_Games_Windows), [PC Cracked Software](https://t.me/pc_cracked_softwares) or [Windows Softwares](https://t.me/Windows_Softwares_Pc_Games), [2](https://t.me/windows_softwares) - Telegram
 * [Rarewares](https://www.rarewares.org/) - Rare Software
-* [Software Recommendation Thread](https://redd.it/plgy48) - Software Essentials
 * [PLC4Me](https://plc4me.com/) - Automation Software
 * [civileng_soft](https://t.me/civileng_soft) - Civil Engineering Software
 * [Software Heritage](https://www.softwareheritage.org/) - Software Source Code Archive
