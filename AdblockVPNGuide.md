@@ -249,7 +249,6 @@
 * [PortAuthority](https://addons.mozilla.org/en-US/firefox/addon/port-authority/) - Block Javascript Port Scan on Sites
 * [First Party Isolation](https://github.com/mozfreddyb/webext-firstpartyisolation) - First Party Isolation Extension
 * [Location Guard](https://pastebin.com/n20LcQSM) - Hide Browsers Geolocation
-* [SafeToOpen](https://safetoopen.com/) - Protect Yourself From Phishing Attacks
 * [Language Switch](https://addons.mozilla.org/en-US/firefox/addon/languageswitch/) - Change Language Identifier
 * [HTTP Tracker](https://github.com/venukbh/http-tracker) - Track Network on Browser
 * [Twitter Direct](https://greasyfork.org/en/scripts/404632) - Removes t.co Tracking from Twitter
