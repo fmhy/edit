@@ -24,7 +24,7 @@
 * ⭐ **[Directory Lister](https://directorylister.com/)** - Open Directory Explorer
 * ⭐ **[EyeDex](https://www.eyedex.org/)**, [ODCrawler](https://odcrawler.xyz/), [OpenSho](https://opendirindex.opensho.com/), [ODS](https://sites.google.com/view/l33tech/tools/ods) or [mmnt](https://www.mmnt.net/) - Open Directory Search Engines
 * ⭐ **[mega.archive](https://discord.gg/R3zEZUPp3Q)** / [Chat](https://discord.gg/ZRhpUtzvkC) - Megadrive Archive
-* ⭐ **[IRC / XDCC Tutorial](https://rentry.org/irc)**, [2](https://github.com/mayfrost/guides/blob/master/IRC.md), [3](https://libera.chat/guides/), [4](https://www.theloadguru.com/xdcc-irc-beginners-guide/)
+* ⭐ **[IRC / XDCC Tutorial](https://rentry.org/irc)**, [2](https://libera.chat/guides/), [3](https://www.theloadguru.com/xdcc-irc-beginners-guide/)
 * [GDrive Server](https://telegra.ph/GDrive-Server-Direct-Links-06-28)
 * [Napalm FTP](https://www.searchftps.net/), [Mamont](https://www.mmnt.ru/int/) or [Search-22](https://search-22.com/ftp-search-tools) - FTP Search
 * [dedigger](https://www.dedigger.com/) - GDrive File Search
@@ -59,7 +59,6 @@
 * [Sbenny's Forum](https://forum.sbenny.com/) - Video / Audio / ROMs / Books / [Discord](https://discord.gg/kf9FKQx)
 * [CyberPhoenix](http://www.cyberphoenix.org/forum/) - Video / Audio / ROMs / Books / Magazines / Comics
 * [dreamteamdownloads1](https://www.dreamteamdownloads1.com/index.php) - Video / Audio / ROMs / Books / Magazines
-* [ReleaseHive](https://releasehive.org/) - Video / Audio / Books / NSFW
 * [DownDuck](https://www.downduck.com/) - Video / Audio / Books / Magazines
 * [AllYouLike](https://allyoulike.org/) - Video / Audio Books / Magazines / ROMs / Comics / NSFW
 * [DDLValley](https://www.ddlvalley.me/) - Video / Audio / ROMs / Books / Comics / Magazines / [Forum](https://forum.ddlvalley.me/)
