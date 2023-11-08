@@ -122,7 +122,7 @@
 ## ▷ ChatGPT Prompts
 
 * 🌐 **[Awesome ChatGPT Prompts](https://prompts.chat/)** / [2](https://github.com/f/awesome-chatgpt-prompts) - Prompt Directory
-* 🌐 **[jailbreakchat](https://www.jailbreakchat.com/)**, **[jamessawyer](http://www.jamessawyer.co.uk/pub/gpt_jb.html)** or [DAN](https://gist.github.com/coolaj86/6f4f7b30129b0251f61fa7baaa881516) - Jailbreak Prompts
+* 🌐 **[jailbreakchat](https://www.jailbreakchat.com/)** or **[jamessawyer](http://www.jamessawyer.co.uk/pub/gpt_jb.html)** - Jailbreak Prompts
 * ⭐ **[Prompt Engineering Guide](https://www.promptingguide.ai)**, [Jailbreaking ChatGPT](https://arxiv.org/pdf/2305.13860) or [Learn Prompting](https://learnprompting.org/) - Prompting Guides
 * ⭐ **[quickref](https://quickref.me/chatgpt)** - Prompt Cheatsheets
 * [Chatgptjailbreak](https://rentry.org/Chatgptjailbreak) - Jailbreak Prompts
