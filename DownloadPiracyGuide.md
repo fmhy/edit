@@ -185,7 +185,6 @@
 * ↪️ **[Portable App Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_portable_apps)**
 * ⭐ **[FluentStore](https://github.com/yoshiask/FluentStore)** - Microsoft Store Frontend
 * ⭐ **[store.rg](https://store.rg-adguard.net/)** - Paid Microsoft Store Link Generator / [Guide](https://rentry.co/paidAppsMsStore)
-* ⭐ **[Alt App Installer](https://github.com/m-jishnu/alt-app-installer)** - Microsoft Store App Installer
 * [Windows Ultimate Collection](https://forum.xda-developers.com/t/windows-ultimate-collection-guides.4507867/) - Freeware Index
 * [OlderGeeks](https://oldergeeks.com/) - Freeware Index
 * [Free Software MF](https://whoisdsmith.gitbook.io/free-software-mf) - Freeware Index
