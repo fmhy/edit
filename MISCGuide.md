@@ -35,7 +35,6 @@
 * [Curlie](https://curlie.org/) - Topic Directory
 * [ooh.directory](https://ooh.directory/) - Blog Directory
 * [No-Signup Tools](https://www.nosignup.tools/) - No-Signup Tool Index
-* [Neverland](https://web.archive.org/web/20221116192138/http://www.neverland.ws/index.html) - Piracy Index
 * [StatsCrop](https://www.statscrop.com/websites/top-sites/), [DirtyWarez](https://dirtywarez.org/), [HypeStat](https://hypestat.com/alexa-rank), [TopMillion](https://www.topmillion.net/) or [CuteStat](https://www.cutestat.com/) - Site Rankings & Stats
 * [blooem](https://blooem.pages.dev/) / [2](https://blooem.its.moe) - Piracy Guides
 * [pilssken](https://pilssken.neocities.org/warez/) or [The Pirate List](https://thepiratelist.com/) - Piracy Index
@@ -1021,7 +1020,6 @@
 * [PriceSlash Bot](https://t.me/PriceSlash_Bot) - Price Tracking Telegram Bot
 * [Search Ebay Sold](https://chrome.google.com/webstore/detail/search-ebay-sold/mhlcjbhhieanjjafbcoeclghpnjhepif) - Ebay Sold Item Search
 * [/r/WhatsThisWorth](https://www.reddit.com/r/whatsthisworth/) - Online Appraisals
-* [Craftie](https://www.craftle.app/) - Furniture Price Calculator
 * [DiaperGrid](https://diapergrid.com/) - Diaper Price Tracker
 * [GasPrices](https://gasprices.aaa.com/) - Gas Price Tracker
 * [SlyToday](https://slytoday.com/) - Price Comparison Search
