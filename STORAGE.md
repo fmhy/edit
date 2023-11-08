@@ -1976,7 +1976,7 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://70.88.180.169:8
 ## Privacy Tools
 
 * ⭐ **[Awesome Privacy](https://awesome-privacy.xyz/)** / [2](https://github.com/KevinColemanInc/awesome-privacy) / [3](https://github.com/pluja/awesome-privacy)
-* ⭐ **[privacyguides](https://www.privacyguides.org/)**
+* ⭐ **[Privacy Guides](https://www.privacyguides.org/)**
 * ⭐ **[Security List](https://security-list.js.org/)**
 * ⭐ **[The New Oil](https://thenewoil.org/index.html)**
 * [chef-koch](https://chef-koch.bearblog.dev/privacy-tools-list-by-chef-koch/) / [2](https://gitlab.com/ck-s-technology-news/privacy-tools-list-by-cktn) / [3](https://gitlab.com/CHEF-KOCH/privacy-tools-list-by-chef-koch) / [4](https://github.com/CKs-Technology-News/PrivacyTools)
