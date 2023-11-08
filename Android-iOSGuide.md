@@ -1044,7 +1044,6 @@
 * [AltStore](https://altstore.io/) or [SideStore](https://github.com/SideStore/SideStore) - App Store / [Repo View](https://altsource.by.lao.sb/browse/) / [Alt Daeomon](https://repo.dynastic.co/package/altdaemon) / [Alt Server](https://github.com/NyaMisty/AltServer-Linux)
 * [Repo Updates](https://www.ios-repo-updates.com/) - App Repository Updates
 * [paxcex](https://paxcex.github.io/), [Haoict Repository](https://haoict.github.io/cydia/) or [CydiaGeek](https://cydiageek.yourepo.com/) - App Repositories
-* [iPA Host](https://github.com/ipahost) - App Tweaks / Social Media’s
 * [EonHub](https://app.eonhubapp.com/) - Hacked / Tweaked Apps
 * [iOSObscura](https://archive.org/details/iOSObscura) - Old App Archive
 * [Satella](https://paisseon.github.io/) / [2](https://github.com/Paisseon/Satella/) or [My iAP Cracker](https://repo.hackyouriphone.org/myiapcracker) - In-App Purchase Mods
