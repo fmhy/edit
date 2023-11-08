@@ -1083,7 +1083,6 @@
 * [FortniteEXP](https://www.fortnitexp.net/) - Fortnite XP Progression / Leveling Rates
 * [Universal VPN Fixer](https://github.com/samfisherirl/VPNGamingPauser/) - Auto Pause VPN While Gaming Online
 * [Slippi](https://slippi.gg/) - Super Smash Bros Melee Online 
-* [Among Us Free Chat Unlocker](https://github.com/Vili1/Among-us-Free-Chat-unlocker/releases/) - Among Us Chat Unlocker
 * [CrewLink](https://github.com/ottomated/CrewLink) - Among Us Proximity Chat
 * [Impostor](https://impostor.github.io/Impostor/) - Among Us Private Server
 * [VRCList](https://vrclist.com/) - Find VRChat Worlds
@@ -1228,7 +1227,7 @@
 * [TerraLauncher](https://github.com/trigger-segfault/TerraLauncher) - Terraria Launcher
 * [TConvert](https://github.com/trigger-segfault/TConvert) - Terraria Content Manager
 * [N-Terraria](https://forums.terraria.org/index.php?threads/n-terraria-mod-rpg-races-classes-quests-and-other-things.542/) - Terraria Mod
-* [TEdit](https://www.binaryconstruct.com/tedit), [terramap](https://terramap.github.io/), [MoreTerra](https://github.com/mike-mo/MoreTerra/releases), [TerraFirma](https://github.com/mrkite/TerraFirma/releases/) or [terraria-map-editor](https://tedit.github.io/terraria-map-editor-web/) - Map Viewers / Editors
+* [TEdit](https://www.binaryconstruct.com/tedit), [terramap](https://terramap.github.io/), [TerraFirma](https://github.com/mrkite/TerraFirma/releases/) or [terraria-map-editor](https://tedit.github.io/terraria-map-editor-web/) - Map Viewers / Editors
 * [Terrasavr](https://yal.cc/r/terrasavr/) - Terraria Character Editor
 * [ArmorHelper](https://forums.terraria.org/index.php?threads/armorhelper-sprite-armor-sets-30x-times-faster.68744/) - Terraria Armor Customization Tool
 * [TerrariaDepot](https://forums.terraria.org/index.php?threads/terrariadepotdownloader-downgrade-to-any-version.107519/) - Terraria Downgrader
