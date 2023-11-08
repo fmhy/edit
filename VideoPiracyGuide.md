@@ -77,7 +77,7 @@
 * ⭐ **[LookMovie](https://lookmovie2.to/)** - Movies / TV / 720p / [Mirrors](https://proxymirrorlookmovie.github.io/)
 * ⭐ **[Watch A Movie](https://watcha.movie/)** - Movies / TV / 1080p / [Discord](https://discord.gg/PvAg9Rc7kQ)
 * ⭐ **[PressPlay](https://www.pressplay.top/)** - Movies / TV / 1080p / [Discord](https://discord.gg/r4QrghF4B9)
-* ⭐ **[2Now](https://2now.tv/)** - Movies / TV / 1080p
+* ⭐ **[BFLIX](http://bflix.gs/)** - Movies / TV / 1080p
 * ⭐ **[FshareTV](https://fsharetv.co/)** - Movies / 1080p
 * ⭐ **[RidoMovies](https://ridomovies.pw/)** - Movies / 1080p
 * ⭐ **[Ling.online](https://ling-online.net/en/videos/films/)** - Movies / TV / 1080p
@@ -88,6 +88,7 @@
 * [English Movies](https://m.vk.com/english_movies) - Movies / 1080p
 * [aflaam](https://aflaam.com/) - Movies / TV / 1080p / [Use Translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)
 * [StreamLord](http://www.streamlord.com/) - Movies / TV / 1080p
+* [VidCloud](https://vidcloud1.com/) - Movies / TV / 1080p
 * [PhantomMovies](https://phantommovies.com/) - Movies / TV / 1080p
 * [MoviehdKH](https://www.moviehdkh.com/) - Movies / 1080p
 * [Shoffree](https://shoffree.com) - Movies / TV / Anime / 1080p / [Use Translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)
@@ -303,6 +304,7 @@
 * [AnimeParadise](https://www.animeparadise.moe/) - Sub / Dub / 1080p / [Discord](https://discord.com/invite/q3N6eWMMNP)
 * [AnimeLandTV](https://w4.animeland.tv/) - Dub / 1080p
 * [Animeplyx](https://animeplyx.eu/) - Sub / 1080p
+* [Anigami](https://anigami.world/) - Sub / 1080p / [Discord](https://discord.com/invite/anigami)
 * [KimAnime](https://kimanime.com/) - Sub / Dub / 1080p / [Discord](https://discord.com/invite/JdmpSF92N4)
 * [KissAnime](https://kissanime.help/) - Sub / Dub / 1080p / [Discord](https://discord.com/invite/w5ghWQG8uM)
 * [Animetake](https://animetake.tv/) - Sub / 1080p
