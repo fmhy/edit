@@ -19,7 +19,7 @@ Didn't find it and still confused? Reach out to us via [Divolt](https://redd.it/
 You can download pre-cracked Adobe products from [M0nkrus](https://w14.monkrus.ws/) | [How to download from M0nkrus](https://rentry.co/adobesoftware) or Patch it yourself following these guides [here](https://www.reddit.com/r/GenP/wiki/index/) & for MacOS go [here](#macos)
 !!!info M0nkrus is a well trusted and reputable source for adobe software in the piracy community. 
 
-> How do I download windows / activate windows & Office?
+> How do I download/activate Windows/Office for free?
 For Windows check out this [section](#pirate-windows)
 For Office check these [guides](https://fmhy.pages.dev/storage/#office-suites)
 
