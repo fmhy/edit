@@ -770,6 +770,7 @@
 * [MiniTokyo3D](https://minitokyo3d.com/) - Tokyo Public Transport Map
 * [lit.link](https://lit.link/) - Link All Your Sites on One Page
 * [Poipiku](https://poipiku.com/) - User-Made Images
+* [CartoonNetworkAsia](https://www.cartoonnetworkasia.com/games) - Browser Games
 * [Marshmallow](https://marshmallow-qa.com/) - Send / Receive Positive Messages
 * [Annict](https://annict.com/) - Anime Tracker
 * [Japanese Subtitles](https://gist.github.com/tatsumoto-ren/78ba4e5b7c53c7ed2c987015fa05cc2b) - Subtitles
