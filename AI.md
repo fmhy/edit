@@ -13,7 +13,7 @@
 
 * 🌐 **[Awesome-GPT4](https://gpt4.tools/)** - ChatGPT Resources
 * 🌐 **[LifeArchitect](https://lifearchitect.ai/models-table/)** - Chatbot Index
-* 🌐 **[Free AI APIs](https://git.alexdot.me/alex/free-ai-apis) or [Nova OSS](https://nova-oss.com/)** - AI APIs
+* 🌐 **[Free AI APIs](https://git.alexdot.me/alex/free-ai-apis)** - AI APIs
 * ⭐ **[ChatGPT](https://chat.openai.com/)** - GPT Based Chatbot / [Discord](https://discord.com/invite/openai)
 * ⭐ **[Phind](https://www.phind.com/)** - GPT-4 Q&A AI / [Discord](https://discord.com/invite/S25yW8TebZ)
 * ⭐ **[Perplexity](https://www.perplexity.ai/)** - GPT-3.5 Q&A AI / [Discord](https://discord.com/invite/perplexity-ai) / [Llama Version](https://labs.perplexity.ai/)
@@ -156,6 +156,7 @@
 * [AI Center](https://aicenter.ai/) - AI Directory
 * [Wiki AI Tools](https://www.wikiaitools.com/) - AI Directory
 * [TopApps.Ai](https://topapps.ai/) - AI Directory
+* [Foundr](https://foundr.ai/) - AI Directory
 * [NaNAI.tools](https://nanai.tools) - AI Directory
 * [SuperTools](https://supertools.therundown.ai/) - AI Directory
 * [GPTE](https://gpte.ai/) - AI Directory
@@ -272,6 +273,7 @@
 * [OpenArt](https://openart.ai/home) / [Discord](https://discord.com/invite/yTMNvk5z97) / Unlimited
 * [SD 2.1 Demo](https://huggingface.co/spaces/stabilityai/stable-diffusion) / Unlimited
 * [PromptJungle](https://discord.gg/fhxAGWTFKt) / Unlimited
+* [StableDiffusionWeb](https://stablediffusionweb.com/) - Unlimited
 * [Leonardo.ai](https://app.leonardo.ai/) / 30 Images Daily
 * [Artsio](https://artsio.xyz/) / 20 Images Daily
 * [DreamLike](https://dreamlike.art) / [Discord](https://discord.com/invite/QyGR2FxsKU) / 12 Images Daily
