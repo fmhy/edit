@@ -286,7 +286,6 @@
 * [maestral](https://maestral.app/) - Dropbox Client
 * [apt-fast](https://github.com/ilikenwf/apt-fast) - APT Download Accelerator
 * [Nala](https://gitlab.com/volian/nala) - APT Frontend
-* [Wget_Linux_Guide](https://web.archive.org/web/20210225201811/https1://the-eye.eu/public/Wget_Linux_Guide.pdf) - Wget Guide
 * [EasyPanel](https://easypanel.io/) - Server Control Panel
 * [Wayland](https://wayland.freedesktop.org/) - Linux Display Server Protocol / [Tools](https://arewewaylandyet.com/)
 * [river](https://github.com/riverwm/river/), [LabWC](https://github.com/labwc/labwc), [Hyprland](https://hyprland.org/), [kiwmi](https://github.com/buffet/kiwmi), [picom](https://github.com/yshui/picom), [wayfire](https://github.com/WayfireWM/wayfire/) or [sway](https://swaywm.org/) - Wayland Compositors
