@@ -143,7 +143,6 @@
 * [Antivirus Removal Tool](https://antivirus-removal-tool.com/) - Antivirus Software Removal Tool
 * [Malware Search+++](https://addons.mozilla.org/en-US/firefox/addon/malware-search-plusplusplus/) - Malware Search Extension 
 * [JShelter](https://jshelter.org/) - Anti-Malware Extension
-* [VirusTotalAV_bot](https://t.me/VirusTotalAV_bot) - Telegram File Scanner
 * [Malware Analysis Search](https://cse.google.com/cse?cx=011750002002865445766%3Apc60zx1rliu)
 
 ***
@@ -181,7 +180,6 @@
 * [No Thought is a Crime](https://ntc.party/) - Internet Censorship Discussion
 * [Element](https://element.io/) / [Themes](https://github.com/aaronraimist/element-themes), [qTox](https://qtox.github.io/), [Utopia](https://u.is/en/), [linphone](https://www.linphone.org/), [Jami](https://jami.net/), [Tox](https://tox.chat/), [Bitmask](https://bitmask.net/) or [Wickr](https://wickr.com/) - Encrypted Messaging / Video Calls 
 * [SimpleDiscordCrypt](https://gitlab.com/An0/SimpleDiscordCrypt) - Discord Message Encryption
-* [PGPgram](https://github.com/tallero/PGPgram) - GPG Encrypted Telegram Backups
 * [Adamant](https://adamant.im/) - Decentralized Messenger
 * [Hexchat](https://hexchat.github.io/) - Private IRC Client 
 * [ssh-chat](https://github.com/shazow/ssh-chat) or [Devzat](https://github.com/quackduck/devzat) - SSH Chat / [Info](https://shazow.net/posts/ssh-how-does-it-even/)
