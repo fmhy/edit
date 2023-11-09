@@ -4,7 +4,7 @@
 ***
 ***
 
-**[Table of Contents](https://ibb.co/2s8DFHY)** - For mobile users
+**[Table of Contents](https://ibb.co/sv4jFgs)** - For mobile users
 
 ***
 ***
@@ -126,14 +126,6 @@
 * [BGESTV](https://bgestv.com) - TV / Sub / Dub / 720p
 * [TubeBG](https://www.tubebg.com/) - TV / Sub / Dub / 720p
 * [Gledai-me](https://gledai-me.com/) - TV / Sub / 720p
-
-***
-
-# ► Burmese
-
-## ▷ Downloading
-
-* ⭐ **[channelmyanmar](https://channelmyanmar.org)** - Movies / TV / Cartoons / 1080p / 4K
 
 ***
 
@@ -324,14 +316,6 @@
 ## ▷ Streaming
 
 * [FilmPlanet](https://www1.filmplanet.to/) - Movies / TV / Sub / Dub / 720p
-
-***
-
-# ► Danish
-
-## ▷ Streaming
-
-* [DR.DK](https://www.dr.dk/) - Movies / TV / Live
 
 ***
 
@@ -571,14 +555,6 @@
 * [mozicsillag](https://mozicsillag1.me/) - Movies / TV
 * [onlinefilmekingyen](https://www.onlinefilmekingyen.com/) - Movies
 * [filmezz](https://filmezz.club/) - Movies / TV
-
-***
-
-# ► Icelandic
-
-## ▷ Torrenting
-
-* [Deildu](https://deildu.net/) - Torrents
 
 ***
 
@@ -1456,13 +1432,6 @@
 
 ***
 
-# ► Slovene 
-
-* [Najdi.si](https://www.najdi.si/) - Search
-* [BSF](https://bsf.si/) - Slovene Film Database
-
-***
-
 # ► Spanish
 
 * 🌐 **[Awesome Telegram Redcarpet](https://listados.gitlab.io/awesome-telegram-redcarpet/)**, [2](https://gitlab.com/listados/awesome-telegram) - Telegram Channel Index
@@ -1921,10 +1890,13 @@
 * 🌐 **[Non-English Ebook & Audiobook Sites](https://redd.it/gehkl0)**
 * ↪️ **[Asian Drama Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video#wiki_.25B7_drama_streaming)**
 * [Ethio Terka](https://t.me/ethio_terka), [amharicbookss](https://t.me/amharicbookss) or [GeezLibraryMembers](https://t.me/GeezLibraryMembers) - Amharic / Books
+* [channelmyanmar](https://channelmyanmar.org) - Burmese / Movies / TV / Cartoons / 1080p / 4K
 * [lupiteam](https://lupiteam.net/) - Corsican / Manga
 * [BalkanDownload](https://balkandownload.org/) - Croatian / Download / Video / Audio / Games / Books / Comics
 * [AnimeBalkan](https://animebalkan.org/) - Croatian / Streaming / Anime
+* [DR.DK](https://www.dr.dk/) - Danish / Movies / TV / Live
 * [WiiDatabase](https://wiidatabase.de/) - German / Nintendo Homebrew
+* [Deildu](https://deildu.net/) - Icelandic / Torrents
 * [KurdCinema](https://www.kurdcinama.com/) - Kurdish / Streaming / Movies / TV / Anime / Cartoons
 * [Kurdsubtitle](https://kurdsubtitle.net) - Kurdish / Subtitles
 * [Redzidzirdilatviju](https://www.redzidzirdilatviju.lv/) - Latvian / Documents
@@ -1934,6 +1906,8 @@
 * [DJPunjab](https://djpunjab.is/) - Punjabi / Download / MP3
 * [animesrbija](https://www.animesrbija.com/) - Serbian / Streaming / Anime
 * [zoom.lk](https://zoom.lk/) - Sinhalese / Subtitles
+* [Najdi.si](https://www.najdi.si/) - Slovene / Search
+* [BSF](https://bsf.si/) - Slovene Film Database
 * [Einthusan](https://einthusan.tv/intro/) - South Asian / Movie Archive
 * [iptv-ch.github](https://iptv-ch.github.io/) - Swiss / IPTV Resources
 * [tagalogdubbed](https://tagalogdubbed.com/) - Tagalog / Streaming / Movies / TV
