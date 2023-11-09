@@ -142,7 +142,6 @@
 
 * 🌐 **[Awesome Artificial Intelligence](https://github.com/owainlewis/awesome-artificial-intelligence#free-content)** - AI Resources / Learning
 * 🌐 **[Futurepedia](https://www.futurepedia.io/)** - AI Directory
-* 🌐 **[ListedAI](https://www.listedai.co/)** - AI Directory
 * 🌐 **[AI-MF](https://whoisdsmith.gitbook.io/ai-mf/)** - AI Directory / [GitHub](https://github.com/whoisdsmith/AI-MTHRFCKR)
 * 🌐 **[AI Collection](https://github.com/ai-collection/ai-collection)** - AI Directory
 * 🌐 **[AI Scout](https://aiscout.net/)** - AI Directory
@@ -150,6 +149,7 @@
 * [Favird](https://favird.com/) - AI Directory
 * [FutureTools](https://www.futuretools.io/?pricing-model=free) - AI Directory
 * [ToolScoutAI](https://toolscout.ai/) - AI Directory
+* [ListedAI](https://www.listedai.co/) - AI Directory
 * [AI Creator Tools](https://library.phygital.plus/) - AI Directory
 * [topai](https://topai.tools/) - AI Directory
 * [TheresAnAIForThat](https://theresanaiforthat.com/) - AI Directory
