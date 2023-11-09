@@ -716,7 +716,7 @@
 
 * ↪️ **[General Torrent Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent)**
 * ⭐ **[1337x Movies](https://1337x.to/top-100-movies)** - Movies / TV / Anime
-* ⭐ **[RuTracker Movies](https://rutracker.org/forum/index.php?c=2)** - Movies / TV / Anime
+* ⭐ **[RuTracker Movies](https://rutracker.org/forum/index.php?c=2)** - Movies / TV / Anime / [Wiki](http://rutracker.wiki/) / [Rules](https://rutracker.org/forum/viewtopic.php?t=1045)
 * ⭐ **[Video Torrent CSE](https://cse.google.com/cse?cx=006516753008110874046:gaoebxgop7j)**
 * [EZTV](https://eztv.re/) - TV / Anime / Do [NOT](https://web.archive.org/web/20230729051829/https://thetechzone.online/do-not-register-on-this-torrent-website-filter-your-data-to-hollywood/) Make Account 
 * [RARBG Lite](https://rarbglite.github.io/) - RARBG Movie Magnet Archive
