@@ -1304,11 +1304,10 @@
 
 ## ▷ Torrenting
 
-* ⭐ **[RuTracker](https://rutracker.nl/)**, [2](https://rutracker.org/forum/index.php), [3](https://rutracker.net/) - Video / Audio / Software / Comics / Magazines
+* ⭐ **[RuTracker](https://rutracker.nl/)**, [2](https://rutracker.org/forum/index.php), [3](https://rutracker.net/) - Video / Audio / Software / Comics / Magazines / [Wiki](http://rutracker.wiki/) / [Rules](https://rutracker.org/forum/viewtopic.php?t=1045)
 * 🌐 **[toptracker](https://toptracker.ru/)** - Torrent Site List
 * 🌐 **[UpTracker](https://www.uptracker.ru/)** - Torrent Tracker Index
 * [krasfs](https://krasfs.ru/) or [torrent.by](https://torrent.by/) - Torrent Search
-* [rutracker.ru](http://rutracker.ru/) - Video / Audio / Books / NSFW
 * [rutor](https://rutor.info/) - Video / Audio/ Books / Roms / Magazines
 * [NNTT](http://www.nntt.org/) - Video / Audio/ Books / Magazines 
 * [PB.wtf](https://pb.wtf/) - Video / Audio/ Books / Comics / Magazines / NSFW
