@@ -816,6 +816,7 @@
 * ⭐ **[MangaKatana](https://mangakatana.com/)**
 * ⭐ **[Cubari Proxy](https://proxy.cubari.moe/)** - Multi Site Web Client / [Discord](https://discord.com/invite/SavdUC45MS)
 * ⭐ **[Manga CSE](https://cse.google.com/cse?cx=006516753008110874046:4im0fkhej3z)** / [CSE 2](https://cse.google.com/cse?cx=006516753008110874046:a5mavctjnsc#gsc.tab=0) - Multi-Site Manga Search
+* [Nyaa Manga / LNs](https://nyaa.si/?f=0&c=3_0&q=) - Torrents
 * [MangaPiracy](https://discord.gg/ZgMtAyxFSU) - Manga Piracy Server / [Subreddit](https://reddit.com/r/MangaPiracy)
 * [Great Discord Links](https://discord.gg/xAsyVb52a9) or [Mangadex Groups](https://mangadex.org/groups) - Manga Scanlation Groups
 * [Madokami Manga Archive](https://github.com/nbats/FMHYedit/blob/main/base64.md#madokami)
