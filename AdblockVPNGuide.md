@@ -455,6 +455,7 @@
 * [Malwarebytes VPN](https://malwarebytes.com/vpn) - [Pricing](https://ibb.co/dPpYfT9) / [Owned by Mullvad](https://dustri.org/b/malwarebytes-privacy-vpn-is-mullvad-in-a-shady-trenchcoat.html)
 * [Adguard VPN](https://adguard-vpn.com/en/welcome.html) - VPN Extension / 3GB Free / [Pricing](https://ibb.co/rt0DS0N)
 * [PrivadoVPN](https://privadovpn.com/) - Free VPN / Unlimited Accounts via [Temp Mail](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_temp_email_sites)
+* [CryptoStorm](https://cryptostorm.is/cryptofree) - Free VPN
 * [Kaspersky](https://www.kaspersky.com/vpn-secure-connection) - Free VPN / 200 MB per day / No Account Required
 * [VpnHood](https://github.com/vpnhood/VpnHood), [HideMe](https://hide.me/) or [Leap VPN](https://leap.se/) - Free VPNs
 * [Portals](https://www.portalsvpn.com/) - dVPN
