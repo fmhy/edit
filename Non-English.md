@@ -366,7 +366,6 @@
 * [FilesSeekr](https://w7w.files-seekr.com/) - Download Search Files
 * [Pixel Downloader](https://github.com/valentintintin/pixel-downloader) - French / Download Search Tool
 * [WawaCity](https://www.wawacity.kim/) - Video / Audio / Books / Games / Use Adblocker
-* [9docu](https://9docu.org/) - Documentaries
 * [DBFree](https://dbfree.me/) - Books
 * [FRDownMags](https://fr.downmagaz.net/) - Magazines
 * [Abandonware France](https://www.abandonware-france.org/index.php) - Abandonware
@@ -577,7 +576,6 @@
 * [MKV Mad](https://www.mkvmad.bio/) - Movies / TV / [Telegram](https://t.me/mkvmadofficial)
 * [Movies Flix](https://moviesflix.bet/) - Movies / NSFW / [Telegram](https://t.me/mvsflix)
 * [Dudefilms](https://dudefilms.today/) - Movies / TV / [Telegram](https://telegram.dog/dudefilmsofficial)
-* [The Movies Flix](https://themoviesflix.gr.com) - Movies / NSFW / [Telegram](https://t.me/themoviezflixac)
 * [KatMovieHD](https://katmoviehd.mov/) - Movies / TV / Anime / [Telegram](https://t.me/+lY88WXVDmsFiYTJk), [2](https://t.me/joinchat/TMuzf8VYH7M1YWVh)
 * [MKVHub](https://www.mkvhub.makeup/) - Movies / TV / [Telegram](https://t.me/MkvHubCOM)
 * [Roshiya](https://roshiya.me/) - Movies / TV / [Telegram](https://t.me/roshiyamovies)
@@ -606,7 +604,6 @@
 * [WapKing](https://wapking.name/) - Music
 * [Pendujatt](https://www.pendujatt.net/) - Music / [Telegram](https://telegram.me/pendujattcom)
 * [Indian Flac Songs](https://t.me/indianflacsongs) - Music
-* [PagalSong](https://pagalsong.in/) - Soundtracks
 
 ## ▷ Torrenting
 
@@ -693,7 +690,6 @@
 
 * [yuumanga](https://yuumanga.blogspot.com/) - Manga
 * [nekomik](https://nekomik.com/) - Manga
-* [gudangkomik](https://gudangkomik.com/) - Manga
 * [manhwaindo](https://manhwaindo.id/) - Manga
 * [bacalightnovel](https://bacalightnovel.co/) - Light Novels
 * [novelgo](https://novelgo.id/) - Light Novels
@@ -937,7 +933,6 @@
 * [GanjDL](http://www.ganjdl.ir/) - Movies / TV
 * [KaranMovie](https://karanmovie.org/) - Movies / TV
 * [HamrahMovies](https://hamrahmoviez.ir/) - Movies / TV / [Telegram](https://t.me/hamrahmovieesir)
-* [Mankan](https://mankan.pw/) - Movies / TV
 * [DigiMoviez](https://digimovie.vip/) - Movies / TV
 * [HexDownload](https://hexdownload.co/) - Movies / TV
 * [pishgammovie](https://pishgammovie.ir/) - Movies / TV
@@ -1323,7 +1318,6 @@
 * [Utor.pp](http://utor.pp.ua/) - Video / Audio/ Roms / Books
 * [Fast torrent](http://fast-torrent.ru/) - Movies / TV / Anime
 * [BigFanGroup](https://bigfangroup.org/) - Movies / TV / Anime
-* [ByTorent](https://bytorent.ru/) - Video / Audio 
 * [Animelayer](https://animelayer.ru/) - Anime
 * [kinozal](https://kinozal.tv/) - Movies
 * [androidkino](https://androidkino.net/) - Movies / TV
