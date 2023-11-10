@@ -1,27 +1,27 @@
 import os
 
 headersData = {
-    "AdblockVPNGuide.md":       [ "Adblocking / Privacy", "Adblocking, Privacy, VPN's, Proxies, Antivirus"],
-    "AI.md":                    [ "Artificial Intelligence", "Chat Bots, Text Generators, Image Generators, ChatGPT Tools"],
+    "AdblockVPNGuide.md":       ["Adblocking / Privacy", "Adblocking, Privacy, VPN's, Proxies, Antivirus"],
+    "AI.md":                    ["Artificial Intelligence", "Chat Bots, Text Generators, Image Generators, ChatGPT Tools"],
     "Android-iOSGuide.md":      ["Android / iOS", "Apps, Jailbreaking, Android Emulators"],
-    "AudioPiracyGuide.md":      [ "Music / Podcasts / Radio", "Stream Audio, Download Audio, Torrent Audio"],
-    "Beginners-Guide.md":       [ "Beginners Guide to Piracy", ""],
-    "DEVTools.md":              ["Developer Tools", ""],
+    "AudioPiracyGuide.md":      ["Music / Podcasts / Radio", "Stream Audio, Download Audio, Torrent Audio"],
+    "Beginners-Guide.md":       ["Beginners Guide", "A Guide for Beginners to Piracy"],
+    "DEVTools.md":              ["Developer Tools", "Git, Hosting, App Dev, Software Dev"],
     "DownloadPiracyGuide.md":   ["Downloading", "Download Sites, Software Sites, Open Directories"],
     "EDUPiracyGuide.md":        ["Educational", "Courses, Documentaries, Learning Resources"],
-    "GamingPiracyGuide.md":     [ "Gaming / Emulation", "Download Games, ROMs, Gaming Tools"],
+    "GamingPiracyGuide.md":     ["Gaming / Emulation", "Download Games, ROMs, Gaming Tools"],
     "LinuxGuide.md":            ["Linux / MacOS", "Apps, Software Sites, Gaming"],
     "MISCGuide.md":             ["Miscellaneous", "Extensions, Indexes, News, Health, Food, Fun"],
-    "NSFWPiracy.md":            ["NSFW", ""],
+    "NSFWPiracy.md":            ["NSFW", "NSFW Indexes, Streaming, Downloading"],
     "Non-English.md":           ["Non-English", "International Piracy Sites"],
     "ReadingPiracyGuide.md":    ["Books / Comics / Manga", "Books, Comics, Magazines, Newspapers"],
-    "STORAGE.md":               ["", ""],
+    "STORAGE.md":               ["Storage", "Index for everything in the wiki."],
     "TOOLSGuide.md":            ["Tools", "General Tools, Internet Tools, System Tools"],
     "TorrentPiracyGuide.md":    ["Torrenting", "Torrent Clients, Torrent Sites, Trackers"],
     "VideoPiracyGuide.md":      ["Movies / TV / Anime", "Stream Videos, Download Videos, Torrent Videos"],
-    "base64.md":                ["base64", "Base64 storage"],
-    "img-tools.md":             ["Image Tools", ""],
-    "UnsafeSites.md":           ["Unsafe Sites", ""]
+    "base64.md":                ["Base64", "Base64 storage"],
+    "img-tools.md":             ["Image Tools", "Image Editors, Generators, Compress"],
+    "UnsafeSites.md":           ["Unsafe Sites", "Unsafe/harmful sites to avoid."]
 }
 
 def getHeaderForPage(pageFilename):

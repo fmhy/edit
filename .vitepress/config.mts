@@ -37,9 +37,9 @@ export default defineConfig({
     ["link", { rel: "apple-touch-icon", href: "/test.png", sizes: "192x192" }],
   ],
   transformHead: async (context) => generateMeta(context, meta.hostname),
-  buildEnd: async (context) => {
-    generateImages(context);
-  },
+  // buildEnd: async (context) => {
+  //   generateImages(context);
+  // },
   vite: {
     plugins: [
       UnoCSS({
