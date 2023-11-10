@@ -17,7 +17,7 @@ export default defineConfig({
   lastUpdated: true,
   cleanUrls: true,
   appearance: "dark",
-  srcExclude: ["readme.md", "single-page"],
+  srcExclude: ["readme.md", "single-page", "toolsguide.md"],
   ignoreDeadLinks: true,
   metaChunk: true,
   sitemap: {
