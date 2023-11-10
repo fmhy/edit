@@ -422,7 +422,7 @@
 * [Bouncy Balls](https://bouncyballs.org/) or [Balls Simulation](https://phydemo.app/balls-simulation/) - Ball Physics Simulator
 * [WebGL Water](https://madebyevan.com/webgl-water/) - Water Simulation
 * [LAMMPS](https://www.lammps.org/) - Molecular Dynamics (MD) Code
-* [avogadro](https://sourceforge.net/projects/avogadro/) - Molecular Editor
+* [avogadro](https://sourceforge.net/projects/avogadro/) or [MolView](https://molview.org/) - Molecular Viewers / Editors
 * [Simuwaerm](https://github.com/file-acomplaint/simuwaerm) - Heat Simulator
 
 ***
@@ -583,6 +583,7 @@
 * [Sky-Map](http://sky-map.org/) or [Sky Map Online](https://skymaponline.net/) - Interactive Star Maps
 * [100,000 Stars](https://stars.chromeexperiments.com/) - Interactive 3D Star Visualization
 * [Aladin](https://aladin.u-strasbg.fr/) - Astronomical Image Viewer / [Lite Version](https://aladin.u-strasbg.fr/AladinLite/)
+* [Siril](https://siril.org/) - Astronomical Image Processor
 * [Stellarium-Web](https://stellarium-web.org/) or [Stellarium](https://stellarium.org/) - Virtual Stellariums
 * [Google Sky](https://www.google.com/sky) - View Stars, The Moon & Mars
 * [WorldwideTelescope](https://worldwidetelescope.org/) - Interactive Telescope Data
