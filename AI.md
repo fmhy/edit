@@ -154,6 +154,7 @@
 * [Wiki AI Tools](https://www.wikiaitools.com/) - AI Directory
 * [TopApps.Ai](https://topapps.ai/) - AI Directory
 * [MangoAI](https://mangoai.co/) - AI Directory
+* [ToolDirectory](https://www.tooldirectory.ai/) - AI Directory
 * [Foundr](https://foundr.ai/) - AI Directory
 * [NaNAI.tools](https://nanai.tools) - AI Directory
 * [SuperTools](https://supertools.therundown.ai/) - AI Directory
@@ -337,6 +338,7 @@
 * [Aiva](https://aiva.ai/)
 * [Boomy](https://boomy.com/)
 * [Riffusion](https://www.riffusion.com/)
+* [Replay](https://www.tryreplay.io/) - Remix Songs with AI
 * [Drum Loop AI](https://www.drumloopai.com/) - Drum Loop Generator
 * [WOMBO](https://www.wombo.ai/) - AI Powered Lip Sync
 
