@@ -362,7 +362,6 @@
 * [Aagmaal.run](https://aagmaal.run/)
 * [Aagmaal.fans](https://aagmaal.fans/)
 * [Aagmaals.me](https://aagmaals.me/)
-* [AyzVid](https://ayzvid.xyz/)
 * [sexfullmovies](https://www.sexfullmovies.com/)
 * [onlyindianporn](https://onlyindianporn.me/) 
 * [ViralVideoTube](https://viralvideotube.pro/) or [Happy2Hub](https://happy2hub.eu/homepage/) - Movies
