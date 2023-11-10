@@ -51,7 +51,6 @@
 * [Modding United](https://moddingunited.xyz/)
 * [AKMods](https://www.akmods.in/)
 * [APKKit](https://apkkit.com/)
-* [Blackmod](https://blackmod.net/) - Modded Games
 * [p30afzar](https://dl.p30afzar.com/Games/) - Modded Games
 * [Aero Apps](https://t.me/aerolla) - Modded Social Media Apps
 
