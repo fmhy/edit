@@ -582,7 +582,7 @@
 * [Bitfontmaker2](https://pentacom.jp/pentacom/bitfontmaker2/) - BitFont Creator
 * [FontJoy](https://fontjoy.com/) - Font Pairings Generator
 * [Typerip](https://badnoise.net/TypeRip/) - Adobe Font Ripper / [GitHub](https://github.com/CodeZombie/TypeRip)
-* [FontEdit](https://github.com/ayoy/fontedit), [Glyphr Studio](https://www.glyphrstudio.com/), [Bird Font](https://birdfont.org/) or [Font Forge](https://fontforge.org/en-US/) - Font Editors
+* [FontEdit](https://github.com/ayoy/fontedit), [glif](https://github.com/MFEK/glif), [Glyphr Studio](https://www.glyphrstudio.com/), [Bird Font](https://birdfont.org/) or [Font Forge](https://fontforge.org/en-US/) - Font Editors
 * [Transfonter](https://transfonter.org/) - Font Converter
 * [FontBase](https://fontba.se/) or [Xiles](https://www.xiles.app/) - Font Manager
 * [ShapeCatcher](https://shapecatcher.com/) - Unicode Identification
