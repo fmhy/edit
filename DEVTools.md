@@ -1286,6 +1286,7 @@
 * [Separator Generator](https://wweb.dev/resources/css-separator-generator/) - CSS Separator Generator CSS
 * [Fancy Border Radius](https://9elements.github.io/fancy-border-radius/) - Organic CSS Shape Generator
 * [BestCSSButtonGenerator](https://www.bestcssbuttongenerator.com/) - CSS Button Generator
+* [Buttons.cool](https://www.buttons.cool/) - Copy CSS Buttons
 * [MagicPattern](https://www.magicpattern.design/tools/css-backgrounds), [css3patterns](https://projects.verou.me/css3patterns/), [gradienta](https://codioful.com/), [GradientMagic](https://www.gradientmagic.com/), [heropatterns](https://heropatterns.com/), [Blend](http://colinkeany.com/blend/), [GradHunt](https://gradihunt.com/), [Color Morph](https://www.color-morph.com/), [CSSGradient](https://cssgradient.io/) or [uigradients](https://uigradients.com/) - CSS Patterns / Gradients
 * [CSS Doodle](https://css-doodle.com/) - CSS Pattern Generator
 * [CSS3 Transform](https://css-transform.moro.es/) - 2D & 3D CSS Transform Functions Visualizer
