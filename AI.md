@@ -4,39 +4,14 @@
 ***
 ***
 
-**[Table of Contents](https://ibb.co/gm0crvY)** - For mobile users
+**[Table of Contents](https://ibb.co/nzGmtSc)** - For mobile users
 
 ***
 ***
 
-# ► Proprietary AI LLMs
-
-* 🌐 **[Awesome-GPT4](https://gpt4.tools/)** - ChatGPT Resources
-* 🌐 **[LifeArchitect](https://lifearchitect.ai/models-table/)** - Chatbot Index
-* 🌐 **[Free AI Stuff](https://github.com/zukixa/cool-ai-stuff)** - AI APIs and Sites
-* ⭐ **[ChatGPT](https://chat.openai.com/)** - GPT Based Chatbot / [Discord](https://discord.com/invite/openai)
-* ⭐ **[Phind](https://www.phind.com/)** - GPT-4 Q&A AI / [Discord](https://discord.com/invite/S25yW8TebZ)
-* ⭐ **[Perplexity](https://www.perplexity.ai/)** - GPT-3.5 Q&A AI / [Discord](https://discord.com/invite/perplexity-ai) / [Llama Version](https://labs.perplexity.ai/)
-* ⭐ **[Ora](https://ora.ai/openai/chatgpt)** - GPT-3.5 Based Chatbots / [Discord](https://discord.com/invite/G8W5VHZhTR)
-* ⭐ **[BAI](https://beta.theb.ai/)** - GPT-3.5 Based Chatbot
-* ⭐ **[Call Annie](https://callannie.ai/)** - GPT-3.5 Based Chatbot with Real-Time Voice / [Discord](https://discord.gg/Rfbzet5R3v)
-* ⭐ **[Claude](https://claude.ai/)** - Anthropic's Chatbot
-* ⭐ **[Bard](https://bard.google.com/)** - Google's Chatbot
-* [FastGPT](https://labs.kagi.com/fastgpt) - Claude Based Q&A AI
-* [SydneyQt](https://github.com/juzeon/SydneyQt) - Jailbroken Bing AI Chatbot
-* [Leon](https://getleon.ai/) - AI Assistant
-* [Pi](https://pi.ai/talk) - AI Assistant
-* [AiryChat](https://airychat.com/) - AI Assistants
-* [OSSChat](https://osschat.io/) - GPT-4 Q&A AI
-* [Forefront](https://chat.forefront.ai/) - GPT-3.5 Based Chatbots / [Discord](https://discord.com/invite/Wbc5cPPYSs)
-* [Teach Anything](https://www.teach-anything.com/) - GPT-3.5 Q&A AI
-* [Ethio Tech](https://gpt3.ethio-tech.com/) - GPT-3 Based Chatbot
-* [JackChat](https://www.jackchat.ai/) - GPT-3 Based Chatbot
-* [iAsk](https://iask.ai/) - GPT-3 Q&A AI
-
 ***
 
-## ▷ Open-Source LLMs
+# ► Open-Source LLMs
 
 * 🌐 **[Open LLM Leaderboard](https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard)** - LLM Leaderboard
 * ⭐ **[seait](https://github.com/diStyApps/seait)** - AI Installation Manager
@@ -64,6 +39,33 @@
 * [AgentRunner](https://www.agentrunner.ai/) - Create Autonomous AI Agents
 * [Instrukt](https://github.com/blob42/Instrukt) - AI Testing Environment
 * [Dify](https://dify.ai/) - Create AI Apps
+
+***
+
+# ► Proprietary AI LLMs
+
+* 🌐 **[Awesome-GPT4](https://gpt4.tools/)** - ChatGPT Resources
+* 🌐 **[LifeArchitect](https://lifearchitect.ai/models-table/)** - Chatbot Index
+* 🌐 **[Free AI Stuff](https://github.com/zukixa/cool-ai-stuff)** - AI APIs and Sites
+* ⭐ **[ChatGPT](https://chat.openai.com/)** - GPT Based Chatbot / [Discord](https://discord.com/invite/openai)
+* ⭐ **[Phind](https://www.phind.com/)** - GPT-4 Q&A AI / [Discord](https://discord.com/invite/S25yW8TebZ)
+* ⭐ **[Perplexity](https://www.perplexity.ai/)** - GPT-3.5 Q&A AI / [Discord](https://discord.com/invite/perplexity-ai) / [Llama Version](https://labs.perplexity.ai/)
+* ⭐ **[Ora](https://ora.ai/openai/chatgpt)** - GPT-3.5 Based Chatbots / [Discord](https://discord.com/invite/G8W5VHZhTR)
+* ⭐ **[BAI](https://beta.theb.ai/)** - GPT-3.5 Based Chatbot
+* ⭐ **[Call Annie](https://callannie.ai/)** - GPT-3.5 Based Chatbot with Real-Time Voice / [Discord](https://discord.gg/Rfbzet5R3v)
+* ⭐ **[Claude](https://claude.ai/)** - Anthropic's Chatbot
+* ⭐ **[Bard](https://bard.google.com/)** - Google's Chatbot
+* [FastGPT](https://labs.kagi.com/fastgpt) - Claude Based Q&A AI
+* [SydneyQt](https://github.com/juzeon/SydneyQt) - Jailbroken Bing AI Chatbot
+* [Leon](https://getleon.ai/) - AI Assistant
+* [Pi](https://pi.ai/talk) - AI Assistant
+* [AiryChat](https://airychat.com/) - AI Assistants
+* [OSSChat](https://osschat.io/) - GPT-4 Q&A AI
+* [Forefront](https://chat.forefront.ai/) - GPT-3.5 Based Chatbots / [Discord](https://discord.com/invite/Wbc5cPPYSs)
+* [Teach Anything](https://www.teach-anything.com/) - GPT-3.5 Q&A AI
+* [Ethio Tech](https://gpt3.ethio-tech.com/) - GPT-3 Based Chatbot
+* [JackChat](https://www.jackchat.ai/) - GPT-3 Based Chatbot
+* [iAsk](https://iask.ai/) - GPT-3 Q&A AI
 
 ***
 
