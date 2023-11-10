@@ -9,11 +9,11 @@
 ***
 ***
 
-# ► AI Chatbots
+# ► Proprietary AI LLMs
 
 * 🌐 **[Awesome-GPT4](https://gpt4.tools/)** - ChatGPT Resources
 * 🌐 **[LifeArchitect](https://lifearchitect.ai/models-table/)** - Chatbot Index
-* 🌐 **[Free AI APIs](https://git.alexdot.me/alex/free-ai-apis)** - AI APIs
+* 🌐 **[Free AI Stuff](https://github.com/zukixa/cool-ai-stuff)** - AI APIs and Sites
 * ⭐ **[ChatGPT](https://chat.openai.com/)** - GPT Based Chatbot / [Discord](https://discord.com/invite/openai)
 * ⭐ **[Phind](https://www.phind.com/)** - GPT-4 Q&A AI / [Discord](https://discord.com/invite/S25yW8TebZ)
 * ⭐ **[Perplexity](https://www.perplexity.ai/)** - GPT-3.5 Q&A AI / [Discord](https://discord.com/invite/perplexity-ai) / [Llama Version](https://labs.perplexity.ai/)
@@ -36,18 +36,18 @@
 
 ***
 
-## ▷ Open-Source Bots
+## ▷ Open-Source LLMs
 
-* 🌐 **[Awesome Totally Open ChatGPT](https://github.com/nichtdax/awesome-totally-open-chatgpt)** - Open-Source LLMs Index
 * 🌐 **[Open LLM Leaderboard](https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard)** - LLM Leaderboard
 * ⭐ **[seait](https://github.com/diStyApps/seait)** - AI Installation Manager
-* ⭐ **[Text Generation WebUI](https://github.com/oobabooga/text-generation-webui)** - Self-Host Chatbots / [Collab](https://colab.research.google.com/github/pcrii/Philo-Colab-Collection/blob/main/4bit_TextGen_Gdrive.ipynb)
+* ⭐ **[SillyTavern](https://github.com/SillyTavern/SillyTavern)** - Front-end for LLMs
 * ⭐ **[llama.cpp](https://github.com/ggerganov/llama.cpp)** - Self-Host LLaMa Based Chatbots
-* ⭐ **[Guanaco](https://huggingface.co/spaces/uwnlp/guanaco-playground-tgi)** - QLoRA Based Chatbot / [Github](https://github.com/artidoro/qlora)
-* ⭐ **[LMSYS](https://chat.lmsys.org/)** - Compare Models / [Github](https://github.com/lm-sys/FastChat) / [Discord](https://discord.com/invite/h6kCZb72G7)
-* [SecondBrain](https://secondbrain.sh/), [Mistral](https://mistral.ai/), [ImStudio](https://lmstudio.ai/), [OnPrem](https://amaiya.github.io/onprem/) or [Faraday](https://faraday.dev/) - LLM Desktop Apps
+* ⭐ **[kobold.cpp](https://github.com/LostRuins/koboldcpp)** - llama.cpp but with an API + GUI / [rocM](https://github.com/YellowRoseCx/koboldcpp-rocm)
+* ⭐ **[Text Generation WebUI](https://github.com/oobabooga/text-generation-webui)** - Self-Host Chatbots / [Colab](https://colab.research.google.com/github/pcrii/Philo-Colab-Collection/blob/main/4bit_TextGen_Gdrive.ipynb)
+* ⭐ **[PygmalionAI](https://discord.com/invite/pygmalionai)** - Self-Hosted Roleplaying Chatbot / [Resources](https://rentry.co/PygmalionLinks)
+* [KoboldAI](https://github.com/henk717/KoboldAI) - GUI for Roleplaying Chatbots / [Web App](https://lite.koboldai.net/)
+* [SecondBrain](https://secondbrain.sh/), [LMStudio](https://lmstudio.ai/), [OnPrem](https://amaiya.github.io/onprem/) or [Faraday](https://faraday.dev/) - LLM Desktop Apps (Back-end + Front-end)
 * [Transfer Models Timeline](https://ai.v-gar.de/ml/transformer/timeline/) - LLM Timeline
-* [Falcon](https://huggingface.co/tiiuae/falcon-40b-instruct) - TII's Model
 * [ChatRWKV](https://huggingface.co/spaces/BlinkDL/ChatRWKV-gradio) - RWKV Based Chatbot / [Discord](https://discord.com/invite/bDSBUMeFpc)
 * [GlobalGPT](https://www.globalgpt.nspiketech.com/#/) - Modularized Chatbot
 * [LLaVA](https://llava.hliu.cc/) - Chatbot with Image Support / [GitHub](https://github.com/haotian-liu/LLaVA)
@@ -56,7 +56,6 @@
 * [OpenChatKit](https://huggingface.co/spaces/togethercomputer/OpenChatKit) - Together's Chatbot / [Github](https://github.com/togethercomputer/OpenChatKit) / [Discord](https://discord.com/invite/9Rk6sSeWEG)
 * [HuggingChat](https://huggingface.co/chat/) - HuggingFace's Chatbot / [Github](https://github.com/huggingface/chat-ui)
 * [chat-llm-streaming](https://huggingface.co/spaces/olivierdehaene/chat-llm-streaming) - Multiple Chatbots
-* [GPT4All](https://gpt4all.io/) - Open-Source Chatbot / [Github](https://github.com/nomic-ai/gpt4all) [Discord](https://discord.com/invite/mGZE39AS3e)
 * [Dalai](https://cocktailpeanut.github.io/dalai/) - Self-host / [Github](https://github.com/cocktailpeanut/dalai) / [Discord](https://discord.com/invite/WWfgrzzkCT) / [GPT-Style UI](https://github.com/ItsPi3141/dalai)
 * [Petals](https://petals.dev/) - Self-Host / [GitHub](https://github.com/bigscience-workshop/petals)
 * [Alpaca](https://github.com/tatsu-lab/stanford_alpaca) - Stanford's Chatbot / [LoRA Implementation](https://github.com/tloen/alpaca-lora) / [GUI](https://github.com/ItsPi3141/alpaca-electron) / [WebUI](https://serge.chat/)
@@ -64,7 +63,6 @@
 * [Kajiwoto](https://kajiwoto.ai/), [Miku](https://docs.miku.gg/) / [Discord](https://discord.gg/3XPdpUdGgV) or [Agnai](https://agnai.chat/) - AI Builders
 * [AgentRunner](https://www.agentrunner.ai/) - Create Autonomous AI Agents
 * [Instrukt](https://github.com/blob42/Instrukt) - AI Testing Environment
-* [LLM Benchmarks](https://benchmarks.llmonitor.com/) - LLM Benchmarks
 * [Dify](https://dify.ai/) - Create AI Apps
 
 ***
@@ -74,15 +72,11 @@
 * 🌐 **[Img-Resources](https://rentry.org/lmg-resources)** - LLM Character Resources / [Templates](https://rentry.org/lmg_template)
 * ⭐ **[Character AI](https://beta.character.ai/)** - Roleplaying Chatbots / [Extract Params](https://rentry.org/reverseCAI)
 * ⭐ **[Chub](https://www.chub.ai/)** or [Character Creator](https://oobabooga.github.io/character-creator) - Character Prompts
-* [Janitor AI](https://www.janitorai.com/) - Roleplaying Chatbots / [Discord](https://discord.com/invite/janitorai)
 * [GPT Call](https://gptcall.net/) - Roleplaying Chatbots / [Discord](https://discord.gg/88fQT5Bgfe)
 * [Dreamshow](https://dreamshow.ai/), [Spicychat.ai](https://spicychat.ai/), [Epigon](https://epigon.ai/) or [Sakura](https://www.sakura.fm/) - Roleplaying Chatbots
 * [TavernAI](https://tavernai.net/) - Roleplaying / Adventure Chatbot
 * [Broken Bear](https://www.brokenbear.com/) - Vent to AI Bear
 * [Delphi](https://delphi.allenai.org/) - Morality Judgement AI
-* [PygmalionAI](https://discord.com/invite/pygmalionai) - Self-Hosted Roleplaying Chatbot / [Resources](https://rentry.co/PygmalionLinks)
-* [SillyTavern](https://github.com/SillyTavern/SillyTavern) - UI for Roleplaying Chatbots
-* [KoboldAI](https://github.com/KoboldAI/KoboldAI-Client) / [2](https://github.com/henk717/KoboldAI) - GUI for Roleplaying Chatbots / [Web App](https://lite.koboldai.net/)
 
 ***
 
@@ -393,12 +387,12 @@
 
 ## ▷ Voice Change / Clone
 
-* [Voice Changer](https://voicechanger.io/), [voice-changer](https://www.voice-changer.org/), [RVC-GUI](https://github.com/Tiger14n/RVC-GUI), [Lyrebird](https://github.com/lyrebird-voice-changer/lyrebird), [MyVoiceMod](https://myvoicemod.com/), [Voice.ai](https://voice.ai/ai-voice-changer), [so-vits-svc-fork](https://github.com/voicepaw/so-vits-svc-fork), [FTM Voice Changer](https://lingojam.com/FemaletoMaleVoiceChanger), [VoiceConversionWebUI](https://huggingface.co/lj1995/VoiceConversionWebUI/), [voice-changer](https://github.com/w-okada/voice-changer) or [ClownFish](https://clownfish-translator.com/voicechanger/) - Voice Changer
+* ⭐ **[RVC](https://github.com/IAHispano/Applio-RVC-Fork)** - Voice Cloning / [AI Hub's Documentation](https://docs.aihub.wtf/)
+* ⭐ **[voice-changer](https://github.com/w-okada/voice-changer)** - Realtime Voice Changer
+* ⭐ **[weights.gg](https://www.weights.gg/) / [Discord](https://discord.gg/A5rgNwDRd4) or [AI Hub](https://discord.gg/aihub)** - AI Voice Models and Guides
 * [NeuralSVB](https://github.com/MoonInTheRiver/NeuralSVB) - Singing Voice Enhancer
-* [Voice Cloning App](https://github.com/BenAAndrew/Voice-Cloning-App), [Kits AI](https://www.kits.ai/), [Real Time Voice Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning), [Beyondwords](https://beyondwords.io/), [VCloner](https://vocloner.com/), [Controllable TalkNet](https://github.com/justinjohn0306/ControllableTalkNet) or [Musicfy](https://musicfy.lol/) - Voice Cloning
-* [tortoise](https://github.com/152334H/tortoise-tts-fast) - Voice Cloning / [Colab](https://colab.research.google.com/drive/1N8lXviiwfmrS9vYzuFdQnLHlddXMMMvU#scrollTo=vF1d-My9IXXt)
-* [AI Voice Clonig](https://git.ecker.tech/mrq/ai-voice-cloning/wiki) - Voice Cloning Guide
-* [weights.gg](https://www.weights.gg/) / [Discord](https://discord.gg/A5rgNwDRd4) or [AI hub](https://discord.gg/aihub) - AI Voice Models / Profiles
+* [tortoise](https://github.com/152334H/tortoise-tts-fast) - TTS Voice Cloning / [Colab](https://colab.research.google.com/drive/1N8lXviiwfmrS9vYzuFdQnLHlddXMMMvU#scrollTo=vF1d-My9IXXt)
+* [AI Voice Cloning](https://git.ecker.tech/mrq/ai-voice-cloning/wiki) - Voice Cloning Guide
 
 ***
 
