@@ -48,7 +48,6 @@
 * [APK Home](https://apkhome.io/)
 * [RockMods](https://www.rockmods.net/) - [Telegram](https://t.me/RBMods)
 * [DL King](https://dl.king2net.com/soft%20android/)
-* [Modding United](https://moddingunited.xyz/)
 * [AKMods](https://www.akmods.in/)
 * [APKKit](https://apkkit.com/)
 * [p30afzar](https://dl.p30afzar.com/Games/) - Modded Games
@@ -148,7 +147,7 @@
 * [QuickSwitch](https://github.com/skittles9823/QuickSwitch) - Enable Quickstep in Launchers 
 * [Activity Launcher](https://github.com/butzist/ActivityLauncher) - Activity Launch Shortcuts
 * [Android Debloat Guide](https://rentry.co/debloatandroid), [debloat-android](https://christitus.com/debloat-android/) or [Uninstall Bloatware](https://www.xda-developers.com/uninstall-carrier-oem-bloatware-without-root-access/) - Android Debloating Guides
-* [Universal Android Debloater](https://forum.xda-developers.com/t/script-2020-10-04-v2-7-universal-android-debloater.4069209/) / [GUI](https://github.com/0x192/universal-android-debloater) or [De-Bloater](https://sunilpaulmathew.github.io/De-Bloater/) - Android Debloaters
+* [Universal Android Debloater](https://forum.xda-developers.com/t/script-2020-10-04-v2-7-universal-android-debloater.4069209/) / [GUI](https://github.com/Universal-Debloater-Alliance/universal-android-debloater) or [De-Bloater](https://sunilpaulmathew.github.io/De-Bloater/) - Android Debloaters
 * [DetoxDroid](https://github.com/flxapps/DetoxDroid) - Make Your Phone Less Distracting
 * [Hail](https://github.com/aistra0528/Hail) - Auto-Deactivate Unused Apps
 * [Blocker](https://github.com/lihenggui/blocker) - Component Controller
@@ -715,7 +714,7 @@
 * [Sound1](https://play.google.com/store/apps/details?id=com.soundcloud.android&amp;hl=us) - Streaming
 * [Modded Tidal](https://forum.mobilism.org/search.php?keywords=tidal&sr=topics&sf=titleonly) - Steaming / Download
 * [Seeker](https://github.com/jackBonadies/SeekerAndroid), [Datmusic](https://github.com/alashow/datmusic-android) or [AIDS](https://forum.mobilism.org/search.php?st=0&sk=t&sd=d&sr=topics&keywords=aids&sf=titleonly) - Download / MP3
-* [Fildo](https://fildo.net/android/en/), [Funkwhale](https://dev.funkwhale.audio/funkwhale/funkwhale-android), [Trebel](https://home.trebel.io/), [BlackHole](https://github.com/Sangwan5688/BlackHole), [VK X](https://vkx.app/), [SoundBound](https://soundbound.shabinder.in/install) or [Deezer](https://play.google.com/store/apps/details?id=deezer.android.app) - Streaming
+* [Fildo](https://fildo.net/android/en/), [Funkwhale](https://dev.funkwhale.audio/funkwhale/funkwhale-android), [Trebel](https://home.trebel.io/), [BlackHole](https://github.com/Sangwan5688/BlackHole), [VK X](https://vkx.app/) or [Deezer](https://play.google.com/store/apps/details?id=deezer.android.app) - Streaming
 * [Cliggo](https://play.google.com/store/apps/details?id=com.cliggo.cliggo_music) - Streaming / Downloading
 * [Otter](https://github.com/apognu/otter) - Music Sharing App
 * [HZP](https://hzp.co/) - Solfeggio Frequency Player
