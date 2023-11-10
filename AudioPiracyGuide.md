@@ -19,7 +19,6 @@
 * [nuclear](https://nuclear.js.org/) - Streaming / [GitHub](https://github.com/nukeop/nuclear) / [Discord](https://discord.com/invite/JqPjKxE)
 * [FunkWhale](https://funkwhale.audio/) - Streaming
 * [MP3Jam](https://www.mp3jam.org/) - Streaming
-* [Cider](https://cider.sh/) - Streaming
 * [Resso](https://www.resso.com/in/) - Streaming
 * [Musify](https://github.com/gokadzev/Musify) - Streaming
 * [MellowPlayer](https://colinduquesnoy.gitlab.io/MellowPlayer/) - Streaming
