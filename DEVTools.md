@@ -122,6 +122,7 @@
 * [DefensiveCSS](https://defensivecss.dev/) - CSS Tips
 * [LearnCSSGrid](https://learncssgrid.com/) - CSS Grid Guide
 * [You Don't Need JavaScript](https://github.com/you-dont-need/You-Dont-Need-JavaScript) - CSS Demos
+* [css-animation](https://css-animations.io/) - CSS Animation Tutorial
 * [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS) or [EloquentJavascript](https://eloquentjavascript.net/) - Javascript Learning Books
 * [Javascript Questions](https://github.com/lydiahallie/javascript-questions) or [JavaScriptQuiz](https://javascriptquiz.com/) - Javascript Questions for Practice
 * [33 JS Concepts](https://github.com/leonardomso/33-js-concepts) - Useful JavaScript Concepts
@@ -570,7 +571,6 @@
 * [Violating GDPR](https://www.violating-gdpr.com/) - GDPR Violation Test
 * [Color Oracle](https://colororacle.org/), [WhoCanUse](https://www.whocanuse.com/) or [Toptal](https://www.toptal.com/designers/colorfilter) - Color Blindness Simulator / Tests
 * [Web Vitals Leaderboard](https://vitals-leaderboard.pazguille.me/) or [Lighthouse Metrics](https://lighthouse-metrics.com/) - Website Performance Tests
-* [Visual Mind AI](https://myraah.io/index.php/visualmind) - Site Visual Score
 * [Prometheus](https://prometheus.io/) - Site Metrics / [Setup](https://thanos.io/)
 * [Carbon Calculator](https://www.websitecarbon.com/) - Estimate Sites Carbon Footprint
 * [Site Inspector](https://www.getsiteinspector.com/) - Check Site for Spelling / Grammatical Errors
@@ -579,7 +579,6 @@
 * [Testmail](https://testmail.app/) - Site Signup Test
 * [Responsivize](https://virejdasani.github.io/Responsivize/) - Website Responsiveness Test
 * [PageSpeed](https://pagespeed.web.dev/), [SpeedVitals](https://speedvitals.com/), [PageSpeed Compare](https://pagespeed.compare/), [GTmetrix](https://gtmetrix.com/) or [Websu](https://websu.io/) - Test Webpage Speed
-* [Mobile-Friendly](https://search.google.com/test/mobile-friendly) - Mobile Friendly Page Test
 * [LightHouse](https://github.com/GoogleChrome/lighthouse) - Web App Performance Test
 
 ***
@@ -636,7 +635,6 @@
 * [Discord Devs: Community Resources](https://discord.com/developers/docs/topics/community-resources) - Integrate Services with Discord
 * [discord-api-libs](https://github.com/Apacheli/discord-api-libs) - Community Libraries for Discord API
 * [botwiki](https://botwiki.org/) - Learn How to Make Bots
-* [rss-to-activitypub](https://portal.0svc.com/convert/) - RSS to ActivityPub Converter
 * [reddit-moderator-toolbox](https://github.com/toolbox-team/reddit-moderator-toolbox) - Toolbox for Reddit Extension Development
 * [Wokwi](https://wokwi.com/) - Arduino / ESP32 Board Simulator
 * [Tesseract](https://tesseract-ocr.github.io/) - Open Source OCR Engine / [GitHub](https://github.com/tesseract-ocr/tesseract)
@@ -650,7 +648,7 @@
 * 🌐 **[Awesome Software Quality](https://github.com/ligurio/sqa-wiki/wiki)** - Software Quality Testing Resources
 * 🌐 **[Awesome DOS](https://github.com/balintkissdev/awesome-dos)** - DOS App Development Resources
 * ⭐ **[Electron](https://www.electronjs.org/)**, [MarsX](https://www.marsx.dev/), [Revery](https://www.outrunlabs.com/revery/), [Proton Native](https://proton-native.js.org/), [Neutralinojs](https://neutralino.js.org/), [PowerPage](https://github.com/casualwriter/powerpage), [Flet](https://flet.dev/), [Felvin](https://www.felvin.com/) or [Tauri](https://tauri.app/) / [Resources](https://github.com/tauri-apps/awesome-tauri) - Desktop App Builders
-* ⭐ **Electron Tools** - [Notes](https://github.com/Automattic/simplenote-electron/tree/v2.17.0) / [App Store](https://www.electronjs.org/apps/) / [Debugger](https://github.com/pd4d10/debugtron) / [Mod Loader](https://kernel.fish/) / [Builder](https://www.electron.build/)
+* ⭐ **Electron Tools** -  [App Store](https://www.electronjs.org/apps/) / [Debugger](https://github.com/pd4d10/debugtron) / [Mod Loader](https://kernel.fish/) / [Builder](https://www.electron.build/)
 * [Budibase](https://budibase.com/), [ToolJet](https://tooljet.com/), [retool](https://retool.com/) or [AppSmith](https://github.com/appsmithorg/appsmith) - Internal Tool Builders
 * [raylib technologie](https://raylibtech.itch.io/), [bookmarks](https://github.com/MorganGeek/bookmarks) or [Every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) - Software Development Tools
 * [Theos](https://theos.dev/) - Program Build System / [GitHub](https://github.com/theos/theos) / [Jailed Tweaks](https://github.com/kabiroberai/theos-jailed/wiki/Installation)
@@ -866,6 +864,7 @@
 * [Security Onion Solutions](https://securityonionsolutions.com/), [Wazuh](https://wazuh.com/) or [Snyk](https://snyk.io/) / [GitHub](https://github.com/snyk/cli) - Site Security Monitor
 * [securitytxt](https://securitytxt.org/) - Create security.txt Files
 * [Greenbone](https://github.com/greenbone) - Vulnerability Management
+* [Evervault](https://evervault.com/) - Security / Compliance Infrastructure
 * [Teler](https://github.com/kitabisa/teler) - HTTP Intrusion Detection
 * [HTTPToolkit](https://httptoolkit.com/) - Debug, Test & Build with HTTP(S)
 * [IP Intelligence](https://getipintel.net/) - Malicious Web Traffic Protection
@@ -890,8 +889,9 @@
 * [Adminer](https://www.adminer.org/) - Database Manager
 * [RemoteMySQL](https://www.remotemysql.com/) - Remote MySQL Database
 * [DoIt](https://github.com/dolthub/dolt) - SQL Database
-* [DB4Free](https://db4free.net/), [sqlime](https://sqlime.org/) or [SQLFIddle](http://sqlfiddle.com/) - SQL Testing
+* [DB4Free](https://db4free.net/), [sqlime](https://sqlime.org/) or [SQLFIddle](http://sqlfiddle.com/) / [2](https://www.db-fiddle.com/) - SQL Testing
 * [AI2SQL](https://app.ai2sql.io/) or [BlazeSQL](https://www.blazesql.com/) - SQL Generators
+* [SQLTranslate](https://www.sqltranslate.app/) - SQL Translator
 * [franchise](https://franchise.cloud/) - SQL Notebook
 * [OceanBase](https://open.oceanbase.com/) - Relational Database / [GitHub](https://github.com/oceanbase/oceanbase)
 * [NocoDB](https://www.nocodb.com/) - Turn Database into Smart Spreadsheet / [GitHub](https://github.com/nocodb/nocodb)
@@ -1056,7 +1056,7 @@
 * [Disasm](https://disasm.pro/) - Online Assembler and Disassembler
 * [core-plot](https://github.com/core-plot/core-plot) - Core Plot Source Code / Apps
 * [tuc](https://github.com/riquito/tuc) - Improved Code Cut
-* [Mystb.in](https://mystb.in/) or [snippet.host](https://snippet.host/) - Code Pastebins
+* [Mystb.in](https://mystb.in/), [codeshare](https://codeshare.io/), [paste.mod](https://paste.mod.gg/) or [snippet.host](https://snippet.host/) - Code Pastebins
 * [0xacab](https://about.0xacab.org/) - Code Host
 * [Mockaroo](https://mockaroo.com/) - Generate Mock Data
 * [OneLang IDE](https://ide.onelang.io/) - Convert Code to Multiple Languages
@@ -1070,7 +1070,6 @@
 * [ShellcodeTemplate](https://github.com/Cracked5pider/ShellcodeTemplate) - Modifiable Shellcode Template 
 * [Spork](https://github.com/atek-cloud/spork) - P2P Sockets CLI / [Discord](https://discord.gg/UUCVrFYksv)
 * [egui](https://github.com/emilk/egui) - Rust GUI
-* [Play Rust](https://play.rust-lang.org/) - Rust Playground
 * [This Week in Rust](https://this-week-in-rust.org/) - Rust News / Updates
 * [Diskord](https://gitlab.com/diskord/diskord) - Kotlin API Client for Discord
 * [lo](https://github.com/samber/lo) - Go Library
@@ -1198,7 +1197,6 @@
 * ↪️ **[Vim Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_vim_tools)**
 * ⭐ **[Competitive Editor](https://cpeditor.org/)** - Competitive Programming Editor
 * ⭐ **[WebDen](https://webden.dev/)**, [tech.io](https://tech.io/), [CodingGround](https://www.tutorialspoint.com/codingground.htm) or [Online Tools](https://onlinetool.io/) - Code Playgrounds
-* [GoPlay](https://goplay.space/) or [Go Lang](https://play.go-lang.org/) - Go Playgrounds
 * [RoslynPad](https://roslynpad.net/) - C# Editor
 * [DotNetFiddle](https://dotnetfiddle.net/) - C# Compiler
 * [RoslynQuoter](https://roslynquoter.azurewebsites.net/) - C# Syntax Tree API Viewer

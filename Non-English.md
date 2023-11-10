@@ -4,7 +4,7 @@
 ***
 ***
 
-**[Table of Contents](https://ibb.co/2s8DFHY)** - For mobile users
+**[Table of Contents](https://ibb.co/sv4jFgs)** - For mobile users
 
 ***
 ***
@@ -116,7 +116,6 @@
 
 * [Film4e](https://film4e.com/) - Movies / TV / Cartoons / Sub / Dub / 1080p
 * [NovaPlay](https://play.nova.bg/) - TV / Sub / Dub / 1080p
-* [VSI4KIFILMI](https://vsi4kifilmi.com/) - Movies / TV / Cartoons / Sub / Dub / 720p / Customizable Subtitles
 * [BGTVNET](https://bgtvnet.com/) - Movies / TV / Cartoons / Sub / 720p
 * [Filmite.Info](https://filmi99.com/) - Movies / TV / Cartoons / Sub / 720p
 * [bgseriali](https://bgseriali.com/) - Movies / TV / Documentaries / Sub / Dub / 720p
@@ -127,14 +126,6 @@
 * [BGESTV](https://bgestv.com) - TV / Sub / Dub / 720p
 * [TubeBG](https://www.tubebg.com/) - TV / Sub / Dub / 720p
 * [Gledai-me](https://gledai-me.com/) - TV / Sub / 720p
-
-***
-
-# ► Burmese
-
-## ▷ Downloading
-
-* ⭐ **[channelmyanmar](https://channelmyanmar.org)** - Movies / TV / Cartoons / 1080p / 4K
 
 ***
 
@@ -325,14 +316,6 @@
 ## ▷ Streaming
 
 * [FilmPlanet](https://www1.filmplanet.to/) - Movies / TV / Sub / Dub / 720p
-
-***
-
-# ► Danish
-
-## ▷ Streaming
-
-* [DR.DK](https://www.dr.dk/) - Movies / TV / Live
 
 ***
 
@@ -575,14 +558,6 @@
 
 ***
 
-# ► Icelandic
-
-## ▷ Torrenting
-
-* [Deildu](https://deildu.net/) - Torrents
-
-***
-
 # ► Indian Languages
 
 * [PCPriceTracker](https://pcpricetracker.in/) or [UnboxParadigm](https://gaming.unboxparadigm.com/) - Track PC Component Rupee Prices
@@ -771,6 +746,7 @@
 * [MiniTokyo3D](https://minitokyo3d.com/) - Tokyo Public Transport Map
 * [lit.link](https://lit.link/) - Link All Your Sites on One Page
 * [Poipiku](https://poipiku.com/) - User-Made Images
+* [CartoonNetworkAsia](https://www.cartoonnetworkasia.com/games) - Browser Games
 * [Marshmallow](https://marshmallow-qa.com/) - Send / Receive Positive Messages
 * [Annict](https://annict.com/) - Anime Tracker
 * [Japanese Subtitles](https://gist.github.com/tatsumoto-ren/78ba4e5b7c53c7ed2c987015fa05cc2b) - Subtitles
@@ -1159,7 +1135,6 @@
 * [Escola Virtual Gov](https://www.escolavirtual.gov.br/catalogo) - Courses
 * [Escola Virtual](https://www.ev.org.br) - Courses
 * [Veduca](https://veduca.org) - Courses
-* [UNA-SUS](https://www.unasus.gov.br/cursos/busca) - Courses
 * [DIO](https://www.dio.me) - Development Courses
 * [Palco MP3](https://www.palcomp3.com.br) - Music
 * [Rádio J-Hero](https://radiojhero.com) - Radio
@@ -1329,11 +1304,10 @@
 
 ## ▷ Torrenting
 
-* ⭐ **[RuTracker](https://rutracker.nl/)**, [2](https://rutracker.org/forum/index.php), [3](https://rutracker.net/) - Video / Audio / Software / Comics / Magazines
+* ⭐ **[RuTracker](https://rutracker.nl/)**, [2](https://rutracker.org/forum/index.php), [3](https://rutracker.net/) - Video / Audio / Software / Comics / Magazines / [Wiki](http://rutracker.wiki/) / [Rules](https://rutracker.org/forum/viewtopic.php?t=1045)
 * 🌐 **[toptracker](https://toptracker.ru/)** - Torrent Site List
 * 🌐 **[UpTracker](https://www.uptracker.ru/)** - Torrent Tracker Index
 * [krasfs](https://krasfs.ru/) or [torrent.by](https://torrent.by/) - Torrent Search
-* [rutracker.ru](http://rutracker.ru/) - Video / Audio / Books / NSFW
 * [rutor](https://rutor.info/) - Video / Audio/ Books / Roms / Magazines
 * [NNTT](http://www.nntt.org/) - Video / Audio/ Books / Magazines 
 * [PB.wtf](https://pb.wtf/) - Video / Audio/ Books / Comics / Magazines / NSFW
@@ -1370,7 +1344,6 @@
 * [Kinotochka](https://kinotochka.co/) - Movies / TV / Anime
 * [kinokong](https://kinokong.pro/) - Movies / TV
 * [RussianFilmHub](https://russianfilmhub.com/) - Movies / TV
-* [viho.live](https://viho.live/) - Movies / TV / Anime
 * [EX-FS](https://ex-fs.net/) - Movies / TV / Anime
 * [hdrezka](https://hdrezka.ag/) - Movies / TV / Anime
 * [Kinogo](https://kinogo.biz/) - Movies / TV / Anime
@@ -1455,13 +1428,6 @@
 * [jOj Archive](https://www.joj.sk/archiv) - Movies / TV
 * [Markiza](https://www.markiza.sk/) - Movies / TV
 * [rtvs](https://www.rtvs.sk/televizia/archiv) - TV
-
-***
-
-# ► Slovene 
-
-* [Najdi.si](https://www.najdi.si/) - Search
-* [BSF](https://bsf.si/) - Slovene Film Database
 
 ***
 
@@ -1568,8 +1534,7 @@
 * [PelisPedia3](https://io.pelispedia.io/) - Movies / TV / Anime / Latino
 * [Gnula.uno](https://gnula.uno/) - Movies / TV / Anime / Latino
 * [Cinecalidad](https://cinecalidad.gg/) - Movies / TV / Animation / Latino / [Telegram](https://t.me/cinecalidadchat)
-* [Inkapelis](https://www1.inkapelis.li/) - Movies / TV / Latino
-* [Cuevana2](https://www.cuevana2.icu/), [2](https://www.cuevana2espanol.net/) - Movies / TV / Latino
+* [Cuevana2](https://www.cuevana2espanol.net/) - Movies / TV / Latino
 * [locopelis](https://www.locopelis.com/), [2](https://www.repelis.net/) - Movies / NSFW / Latino
 * [Fanpelis](https://fanpelis.la/) - Movies / TV / Anime / Latino
 * [PelisPlusHD.nz](https://pelisplushd.nz/) - Movies / TV / Anime / Latino / [Telegram](https://t.me/pelisplushd_nu)
@@ -1924,10 +1889,13 @@
 * 🌐 **[Non-English Ebook & Audiobook Sites](https://redd.it/gehkl0)**
 * ↪️ **[Asian Drama Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video#wiki_.25B7_drama_streaming)**
 * [Ethio Terka](https://t.me/ethio_terka), [amharicbookss](https://t.me/amharicbookss) or [GeezLibraryMembers](https://t.me/GeezLibraryMembers) - Amharic / Books
+* [channelmyanmar](https://channelmyanmar.org) - Burmese / Movies / TV / Cartoons / 1080p / 4K
 * [lupiteam](https://lupiteam.net/) - Corsican / Manga
 * [BalkanDownload](https://balkandownload.org/) - Croatian / Download / Video / Audio / Games / Books / Comics
 * [AnimeBalkan](https://animebalkan.org/) - Croatian / Streaming / Anime
+* [DR.DK](https://www.dr.dk/) - Danish / Movies / TV / Live
 * [WiiDatabase](https://wiidatabase.de/) - German / Nintendo Homebrew
+* [Deildu](https://deildu.net/) - Icelandic / Torrents
 * [KurdCinema](https://www.kurdcinama.com/) - Kurdish / Streaming / Movies / TV / Anime / Cartoons
 * [Kurdsubtitle](https://kurdsubtitle.net) - Kurdish / Subtitles
 * [Redzidzirdilatviju](https://www.redzidzirdilatviju.lv/) - Latvian / Documents
@@ -1937,6 +1905,8 @@
 * [DJPunjab](https://djpunjab.is/) - Punjabi / Download / MP3
 * [animesrbija](https://www.animesrbija.com/) - Serbian / Streaming / Anime
 * [zoom.lk](https://zoom.lk/) - Sinhalese / Subtitles
+* [Najdi.si](https://www.najdi.si/) - Slovene / Search
+* [BSF](https://bsf.si/) - Slovene Film Database
 * [Einthusan](https://einthusan.tv/intro/) - South Asian / Movie Archive
 * [iptv-ch.github](https://iptv-ch.github.io/) - Swiss / IPTV Resources
 * [tagalogdubbed](https://tagalogdubbed.com/) - Tagalog / Streaming / Movies / TV

@@ -580,7 +580,7 @@
 * [The Planets](https://planets-facts-website.netlify.app/) - Learn About Planets
 * [ExoplanetExplore](https://exoplanetexplore.vercel.app) - Interactive Exoplanet Visualization
 * [Space Object Comparison](https://mr21.github.io/space-object-comparison/) - Compare Sizes Of Celestial Objects
-* [Spy Map Online](https://skymaponline.net/) - Star Map
+* [Sky-Map](http://sky-map.org/) or [Sky Map Online](https://skymaponline.net/) - Interactive Star Maps
 * [100,000 Stars](https://stars.chromeexperiments.com/) - Interactive 3D Star Visualization
 * [Aladin](https://aladin.u-strasbg.fr/) - Astronomical Image Viewer / [Lite Version](https://aladin.u-strasbg.fr/AladinLite/)
 * [Stellarium-Web](https://stellarium-web.org/) or [Stellarium](https://stellarium.org/) - Virtual Stellariums
@@ -692,6 +692,7 @@
 * [Ba Ba Dum](https://babadum.com/) - Language Learning Game
 * [clozemaster](https://www.clozemaster.com/) - Context Based Language Learning
 * [Sounter](https://sounter.com/), [LingoClip](https://lingoclip.com/) or [LyricFluent](https://lyricfluent.com/) - Learn Languages via Music
+* [IPA Reader](http://ipa-reader.xyz/) - International Phonetic Alphabet Reader
 * [youglish](https://youglish.com/) - YouTube Word Pronunciations
 * [Language Roadmap](https://languageroadmap.com/) - Foreign Language Media Difficulty Guide
 * [WordReference](https://www.wordreference.com/), [Glosbe](https://glosbe.com/) or [Reverso](https://reverso.net/) - Translation Dictionary
@@ -727,7 +728,7 @@
 
 ## ▷ Japanese
 
-* 🌐 **[GaijinRyman's Resources](https://github.com/GaijinRyman/JapaneseResources)**, [Nihongo](https://nihongo-e-na.com/eng/), [Best Japanese Websites](https://sites.uni.edu/becker/japanese222.html), [Japanese Resources](https://forum.wordreference.com/threads/japanese-resources-%E2%80%94-constantly-updated.787986/), [AnimeCards](https://animecards.site/) or [Gakuu](https://web.archive.org/web/20201113022338/http://gakuu.com/resources/) - Japanese Learning Resources
+* 🌐 **[GaijinRyman's Resources](https://github.com/GaijinRyman/JapaneseResources)**, [Nihongo](https://nihongo-e-na.com/eng/), [Best Japanese Websites](https://sites.uni.edu/becker/japanese222.html), [Japanese Resources](https://forum.wordreference.com/threads/japanese-resources-%E2%80%94-constantly-updated.787986/) or [AnimeCards](https://animecards.site/) - Japanese Learning Resources
 * 🌐 **[Japanese Pitch Accent Resources](https://github.com/olety/japanese-pitch-accent-resources)** - Japanese Accent Resources
 * ⭐ **[TheMoeWay](https://learnjapanese.moe/)** / [Discord](https://discord.gg/nhqjydaR8j), [Kakugo](https://github.com/blastrock/kakugo), [Marshall's Site](https://marshallyin.com/), [HeyJapan](https://heyjapan.net/), [GuideToJapanese](https://guidetojapanese.org/), [jpdb](https://jpdb.io/), [NativShark](https://www.nativshark.com/), [Donkuri](https://donkuri.github.io/learn-japanese/) or [Tofugu](https://www.tofugu.com/) - Learn Japanese
 * ⭐ **[Animelon](https://animelon.com/)** - Learn Japanese with Anime

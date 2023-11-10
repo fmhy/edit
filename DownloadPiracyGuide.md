@@ -24,17 +24,16 @@
 * ⭐ **[Directory Lister](https://directorylister.com/)** - Open Directory Explorer
 * ⭐ **[EyeDex](https://www.eyedex.org/)**, [ODCrawler](https://odcrawler.xyz/), [OpenSho](https://opendirindex.opensho.com/), [ODS](https://sites.google.com/view/l33tech/tools/ods) or [mmnt](https://www.mmnt.net/) - Open Directory Search Engines
 * ⭐ **[mega.archive](https://discord.gg/R3zEZUPp3Q)** / [Chat](https://discord.gg/ZRhpUtzvkC) - Megadrive Archive
-* ⭐ **[IRC / XDCC Tutorial](https://rentry.org/irc)**, [2](https://github.com/mayfrost/guides/blob/master/IRC.md), [3](https://libera.chat/guides/), [4](https://www.theloadguru.com/xdcc-irc-beginners-guide/)
+* ⭐ **[IRC / XDCC Tutorial](https://rentry.org/irc)**, [2](https://libera.chat/guides/), [3](https://www.theloadguru.com/xdcc-irc-beginners-guide/)
 * [GDrive Server](https://telegra.ph/GDrive-Server-Direct-Links-06-28)
 * [Napalm FTP](https://www.searchftps.net/), [Mamont](https://www.mmnt.ru/int/) or [Search-22](https://search-22.com/ftp-search-tools) - FTP Search
 * [dedigger](https://www.dedigger.com/) - GDrive File Search
-* [Sala De Espera](https://matrix.to/#/!qbOtnJEDGsPuWZBHLX:matrix.org?via=matrix.org) / [Discord](https://discord.gg/ZRhpUtzvkC) or [No Bucks Given](https://discord.gg/By53hyhUFS) / [Revolt](https://divolt.xyz/invite/BM9hvM0E) - Drive Sharing Communities
+* [Sala De Espera](https://matrix.to/#/!qbOtnJEDGsPuWZBHLX:matrix.org?via=matrix.org) / [Discord](https://discord.gg/ZRhpUtzvkC) - Drive Sharing Community
 * [Create Open Directory Search Engine](https://redd.it/d3w2fu)
 * [Open Directory Downloader](https://github.com/KoalaBear84/OpenDirectoryDownloader) - Open Directory Indexer
 * [Pastebin CSE](https://cse.google.com/cse?cx=0cd79b819f26af9d0) - Search Pastebin Directories
 * [CD.TextFiles](http://cd.textfiles.com/) - CD Text File Archive
 * [Defacto2](https://defacto2.net/home) - Scene / Sub-Scene Database
-
 
 ***
 
@@ -59,7 +58,6 @@
 * [Sbenny's Forum](https://forum.sbenny.com/) - Video / Audio / ROMs / Books / [Discord](https://discord.gg/kf9FKQx)
 * [CyberPhoenix](http://www.cyberphoenix.org/forum/) - Video / Audio / ROMs / Books / Magazines / Comics
 * [dreamteamdownloads1](https://www.dreamteamdownloads1.com/index.php) - Video / Audio / ROMs / Books / Magazines
-* [ReleaseHive](https://releasehive.org/) - Video / Audio / Books / NSFW
 * [DownDuck](https://www.downduck.com/) - Video / Audio / Books / Magazines
 * [AllYouLike](https://allyoulike.org/) - Video / Audio Books / Magazines / ROMs / Comics / NSFW
 * [DDLValley](https://www.ddlvalley.me/) - Video / Audio / ROMs / Books / Comics / Magazines / [Forum](https://forum.ddlvalley.me/)
@@ -163,7 +161,6 @@
 * [ZOMBIE-WAREZ](https://pastebin.com/Mv32ibns)
 * [Libreware](https://t.me/Libreware), [Computer Softwares](https://t.me/Computer_Softwares_Games_Windows), [PC Cracked Software](https://t.me/pc_cracked_softwares) or [Windows Softwares](https://t.me/Windows_Softwares_Pc_Games), [2](https://t.me/windows_softwares) - Telegram
 * [Rarewares](https://www.rarewares.org/) - Rare Software
-* [Software Recommendation Thread](https://redd.it/plgy48) - Software Essentials
 * [PLC4Me](https://plc4me.com/) - Automation Software
 * [civileng_soft](https://t.me/civileng_soft) - Civil Engineering Software
 * [Software Heritage](https://www.softwareheritage.org/) - Software Source Code Archive
@@ -185,7 +182,6 @@
 * ↪️ **[Portable App Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_portable_apps)**
 * ⭐ **[FluentStore](https://github.com/yoshiask/FluentStore)** - Microsoft Store Frontend
 * ⭐ **[store.rg](https://store.rg-adguard.net/)** - Paid Microsoft Store Link Generator / [Guide](https://rentry.co/paidAppsMsStore)
-* ⭐ **[Alt App Installer](https://github.com/m-jishnu/alt-app-installer)** - Microsoft Store App Installer
 * [Windows Ultimate Collection](https://forum.xda-developers.com/t/windows-ultimate-collection-guides.4507867/) - Freeware Index
 * [OlderGeeks](https://oldergeeks.com/) - Freeware Index
 * [Free Software MF](https://whoisdsmith.gitbook.io/free-software-mf) - Freeware Index

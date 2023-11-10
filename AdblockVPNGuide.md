@@ -103,6 +103,7 @@
 * ⭐ **[Sandboxie Plus](https://sandboxie-plus.com/)**, [Windows Sandbox](https://learn.microsoft.com/en-us/windows/security/application-security/application-isolation/windows-sandbox/windows-sandbox-overview) or [Virtual Machines](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/tools-misc/#wiki_.25B7_virtual_machines) - Sandbox Environments / [Guide](https://rentry.co/sandboxie-guide)
 * ⭐ **[AdwCleaner](https://www.malwarebytes.com/adwcleaner/)** or [Ultra Adware Killer](https://www.carifred.com/ultra_adware_killer/) - Anti-Adware
 * ⭐ **[Security / Antivirus Multireddit](https://old.reddit.com/user/goretsky/m/security/)**
+* [BleepingComputer Forums](https://www.bleepingcomputer.com/forums/f/22/virus-trojan-spyware-and-malware-removal-help/), [Malwarebytes Forums](https://forums.malwarebytes.com/forum/7-windows-malware-removal-help-support/) or [Sysnative Forums](https://www.sysnative.com/forums/forums/security-arena.66/) - Malware Removal Help Forums / [Note](https://pastebin.com/0mrmPXgz)
 * [RevealQR](https://revealqr.app/) - Scan QR Codes
 * [WFC](https://www.binisoft.org/wfc.php), [simplewall](https://www.henrypp.org/product/simplewall), [pfSense](https://www.pfsense.org/) / [How-to](https://youtu.be/am7xT-zU1Q0) or [Tinywall](https://tinywall.pados.hu/) - Firewall / Network Monitors
 * [Pi.Alert](https://github.com/pucherot/Pi.Alert), [Zeek](https://zeek.org/), [Nmap](https://nmap.org/) / [Results](https://nmap.org/ndiff/), [Kismet](https://www.kismetwireless.net/), [ntop](https://www.ntop.org/), [Sniffnet](https://www.sniffnet.net/) or [Rotty](https://github.com/RoseSecurity/Rotty.py) - Network Monitors
@@ -142,7 +143,6 @@
 * [Antivirus Removal Tool](https://antivirus-removal-tool.com/) - Antivirus Software Removal Tool
 * [Malware Search+++](https://addons.mozilla.org/en-US/firefox/addon/malware-search-plusplusplus/) - Malware Search Extension 
 * [JShelter](https://jshelter.org/) - Anti-Malware Extension
-* [VirusTotalAV_bot](https://t.me/VirusTotalAV_bot) - Telegram File Scanner
 * [Malware Analysis Search](https://cse.google.com/cse?cx=011750002002865445766%3Apc60zx1rliu)
 
 ***
@@ -180,7 +180,6 @@
 * [No Thought is a Crime](https://ntc.party/) - Internet Censorship Discussion
 * [Element](https://element.io/) / [Themes](https://github.com/aaronraimist/element-themes), [qTox](https://qtox.github.io/), [Utopia](https://u.is/en/), [linphone](https://www.linphone.org/), [Jami](https://jami.net/), [Tox](https://tox.chat/), [Bitmask](https://bitmask.net/) or [Wickr](https://wickr.com/) - Encrypted Messaging / Video Calls 
 * [SimpleDiscordCrypt](https://gitlab.com/An0/SimpleDiscordCrypt) - Discord Message Encryption
-* [PGPgram](https://github.com/tallero/PGPgram) - GPG Encrypted Telegram Backups
 * [Adamant](https://adamant.im/) - Decentralized Messenger
 * [Hexchat](https://hexchat.github.io/) - Private IRC Client 
 * [ssh-chat](https://github.com/shazow/ssh-chat) or [Devzat](https://github.com/quackduck/devzat) - SSH Chat / [Info](https://shazow.net/posts/ssh-how-does-it-even/)
@@ -248,7 +247,6 @@
 * [PortAuthority](https://addons.mozilla.org/en-US/firefox/addon/port-authority/) - Block Javascript Port Scan on Sites
 * [First Party Isolation](https://github.com/mozfreddyb/webext-firstpartyisolation) - First Party Isolation Extension
 * [Location Guard](https://pastebin.com/n20LcQSM) - Hide Browsers Geolocation
-* [SafeToOpen](https://safetoopen.com/) - Protect Yourself From Phishing Attacks
 * [Language Switch](https://addons.mozilla.org/en-US/firefox/addon/languageswitch/) - Change Language Identifier
 * [HTTP Tracker](https://github.com/venukbh/http-tracker) - Track Network on Browser
 * [Twitter Direct](https://greasyfork.org/en/scripts/404632) - Removes t.co Tracking from Twitter
@@ -357,7 +355,7 @@
 * [Whoogle](https://benbusby.com/projects/whoogle-search/) - Google Search Frontend 
 * [Lingva Translate](https://github.com/TheDavidDelta/lingva-translate) - Google Translate Frontend 
 * [Wikiless](https://wikiless.org/) - Wikipedia Frontend 
-* [Scribe](https://sr.ht/~edwardloveall/Scribe/) or [LibMedium](https://github.com/realaravinth/libmedium) - Medium Frontend 
+* [Scribe](https://sr.ht/~edwardloveall/Scribe/), [medium.rip](https://medium.rip/) or [LibMedium](https://github.com/realaravinth/libmedium) - Medium Frontends 
 * [Quetre](https://github.com/zyachel/quetre) - Quora Frontend 
 * [Rimgo](https://codeberg.org/rimgo/rimgo) - Imgur Frontend 
 * [Binternet](https://github.com/Ahwxorg/Binternet) - Pinterest Frontend 
@@ -459,7 +457,6 @@
 * [PrivadoVPN](https://privadovpn.com/) - Free VPN / Unlimited Accounts via [Temp Mail](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_temp_email_sites)
 * [Kaspersky](https://www.kaspersky.com/vpn-secure-connection) - Free VPN / 200 MB per day / No Account Required
 * [VpnHood](https://github.com/vpnhood/VpnHood), [HideMe](https://hide.me/) or [Leap VPN](https://leap.se/) - Free VPNs
-* [Clash](https://github.com/Fndroid/clash_for_windows_pkg) - Free VPN / [Profiles](https://rentry.co/2q3rn)
 * [Portals](https://www.portalsvpn.com/) - dVPN
 * [TunnelBear](https://www.tunnelbear.com/) - Free VPN / 500MB
 * [VPNBook](https://www.vpnbook.com/) - Free VPN Accounts

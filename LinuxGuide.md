@@ -25,10 +25,11 @@
 * [Crontab Guru](https://crontab.guru/) - Crontab Editor / Job Scheduler
 * [Crontab Generator](https://crontab-generator.org/) - Generate Crontab Syntax
 * [Touchégg](https://github.com/JoseExposito/touchegg) - Multi-Touch Gesture Recognizer
-* [Enlightment](https://www.enlightenment.org/), [worm](https://github.com/codic12/worm), [qpwm](https://github.com/ssleert/qpwm) or [dwm](https://dwm.suckless.org/) - Window Manager
+* [Enlightment](https://www.enlightenment.org/), [1Piece](https://app1piece.com/), [worm](https://github.com/codic12/worm), [qpwm](https://github.com/ssleert/qpwm) or [dwm](https://dwm.suckless.org/) - Window Managers
 * [zentile](https://github.com/blrsn/zentile) or [bspwm](https://github.com/baskerville/bspwm) - Tiling Windows Manager / [Sub](https://www.reddit.com/r/bspwm/) / [Binds](https://github.com/baskerville/sxhkd)
 * [Material Shell](https://material-shell.com/) or [Forge](https://github.com/forge-ext/forge) - GNOME Tiling Extension
 * [Bismuth](https://bismuth-forge.github.io/bismuth/) - KDE Tiling Extension / [GitHub](https://github.com/Bismuth-Forge/bismuth)
+* [MSOffice2016](https://elsotanoenlared-es.translate.goog/office-2016-32-bits-en-linux-con-bottles/?_x_tr_sl=es&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp) - Pre-Installed MS Office 2016 Bottle
 * [Ghostwriter](https://ghostwriter.kde.org/) or [Remarkable](https://remarkableapp.github.io/) - Markdown Editor
 * [Gedit](https://wiki.gnome.org/Apps/Gedit), [Geany](https://www.geany.org/), [Leafpad](http://tarot.freeshell.org/leafpad/), [NotepadNext](https://github.com/dail8859/NotepadNext), [Featherpad](https://github.com/tsujan/FeatherPad), [Mousepad](https://github.com/codebrainz/mousepad) or [Notepadqq](https://notepadqq.com/) - Text Editor
 * [Whatever](https://github.com/sbrshk/whatever) - Evernote Client
@@ -59,7 +60,7 @@
 
 * 🌐 **[Awesome Linux](https://luong-komorebi.github.io/Awesome-Linux-Software/)**, [Awesome-Linux-Software](https://github.com/crackerica/Awesome-Linux-Software) or [Awesome KDE](https://github.com/francoism90/awesome-kde) - FOSS Software / [Image](https://i.ibb.co/KyTkKHz/ae00a5177857.png)
 * ⭐ **[Kapital Sin](https://www.kapitalsin.com/forum/index.php?board=5.0)** / Use [Translator](https://github.com/FilipePS/Traduzir-paginas-web#install)
-* ⭐ **[RuTracker](https://rutracker.org/forum/viewforum.php?f=1381)** / Use [Translator](https://github.com/FilipePS/Traduzir-paginas-web#install)
+* ⭐ **[RuTracker](https://rutracker.org/forum/viewforum.php?f=1381)** / [Translator](https://github.com/FilipePS/Traduzir-paginas-web#install) / [Wiki](http://rutracker.wiki/) / [Rules](https://rutracker.org/forum/viewtopic.php?t=1045)
 * ⭐ **[Linux Software CSE](https://cse.google.com/cse?cx=81bd91729fe2a412b)** - Multi-Site Software Search
 * [The Book of Secret Knowledge](https://github.com/trimstray/the-book-of-secret-knowledge)
 * [Ultimate Cheatsheet](https://gist.github.com/bgoonz/be5c5be77169ef333b431bc37d331176)
@@ -146,7 +147,7 @@
 * ⭐ **[Torrminatorr](https://forum.torrminatorr.com/)** - Linux Games
 * ⭐ **[johncena141](https://1337x.to/user/johncena141/)** - Linux Games / [Support](https://github.com/jc141x/portal)
 * [GameHub](https://tkashkin.github.io/projects/gamehub/), [UnderTaker141](https://github.com/AbdelrhmanNile/UnderTaker141) or [Steal](https://github.com/AbdelrhmanNile/steal) - Game Managers
-* [RuTracker](https://rutracker.org/forum/viewforum.php?f=899) - Linux Games / Use [Translator](https://github.com/FilipePS/Traduzir-paginas-web#install)
+* [RuTracker](https://rutracker.org/forum/viewforum.php?f=899) - Linux Games / [Translator](https://github.com/FilipePS/Traduzir-paginas-web#install) / [Wiki](http://rutracker.wiki/) / [Rules](https://rutracker.org/forum/viewtopic.php?t=1045)
 * [winesapOS](https://github.com/LukeShortCloud/winesapOS) - Play Games on Storage Devices 
 * [Gaming-on-Linux Wiki](https://www.gamingonlinux.com/) - Wiki for Linux Gaming / [Sub Wiki](https://linux-gaming.kwindu.eu/)
 * [Gamebuntu](https://discourse.ubuntu.com/t/gamebuntu/25544/13) - Setup Gaming Environment on Ubuntu / [GitLab](https://gitlab.com/rswat09/gamebuntu)
@@ -285,7 +286,6 @@
 * [maestral](https://maestral.app/) - Dropbox Client
 * [apt-fast](https://github.com/ilikenwf/apt-fast) - APT Download Accelerator
 * [Nala](https://gitlab.com/volian/nala) - APT Frontend
-* [Wget_Linux_Guide](https://web.archive.org/web/20210225201811/https1://the-eye.eu/public/Wget_Linux_Guide.pdf) - Wget Guide
 * [EasyPanel](https://easypanel.io/) - Server Control Panel
 * [Wayland](https://wayland.freedesktop.org/) - Linux Display Server Protocol / [Tools](https://arewewaylandyet.com/)
 * [river](https://github.com/riverwm/river/), [LabWC](https://github.com/labwc/labwc), [Hyprland](https://hyprland.org/), [kiwmi](https://github.com/buffet/kiwmi), [picom](https://github.com/yshui/picom), [wayfire](https://github.com/WayfireWM/wayfire/) or [sway](https://swaywm.org/) - Wayland Compositors

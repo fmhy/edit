@@ -13,14 +13,13 @@
 
 * 🌐 **[Awesome-GPT4](https://gpt4.tools/)** - ChatGPT Resources
 * 🌐 **[LifeArchitect](https://lifearchitect.ai/models-table/)** - Chatbot Index
-* 🌐 **[Free AI APIs](https://github.com/NovaOSS/free-ai-apis) or [Nova OSS](https://nova-oss.com/)** - AI APIs
+* 🌐 **[Free AI APIs](https://git.alexdot.me/alex/free-ai-apis)** - AI APIs
 * ⭐ **[ChatGPT](https://chat.openai.com/)** - GPT Based Chatbot / [Discord](https://discord.com/invite/openai)
 * ⭐ **[Phind](https://www.phind.com/)** - GPT-4 Q&A AI / [Discord](https://discord.com/invite/S25yW8TebZ)
 * ⭐ **[Perplexity](https://www.perplexity.ai/)** - GPT-3.5 Q&A AI / [Discord](https://discord.com/invite/perplexity-ai) / [Llama Version](https://labs.perplexity.ai/)
 * ⭐ **[Ora](https://ora.ai/openai/chatgpt)** - GPT-3.5 Based Chatbots / [Discord](https://discord.com/invite/G8W5VHZhTR)
 * ⭐ **[BAI](https://beta.theb.ai/)** - GPT-3.5 Based Chatbot
 * ⭐ **[Call Annie](https://callannie.ai/)** - GPT-3.5 Based Chatbot with Real-Time Voice / [Discord](https://discord.gg/Rfbzet5R3v)
-* ⭐ **[Nova AI](https://nova-oss.com/)** - Free GPT-4 Tokens / API / [Chat](https://chat.nova-oss.com/)
 * ⭐ **[Claude](https://claude.ai/)** - Anthropic's Chatbot
 * ⭐ **[Bard](https://bard.google.com/)** - Google's Chatbot
 * [FastGPT](https://labs.kagi.com/fastgpt) - Claude Based Q&A AI
@@ -123,7 +122,7 @@
 ## ▷ ChatGPT Prompts
 
 * 🌐 **[Awesome ChatGPT Prompts](https://prompts.chat/)** / [2](https://github.com/f/awesome-chatgpt-prompts) - Prompt Directory
-* 🌐 **[jailbreakchat](https://www.jailbreakchat.com/)**, **[jamessawyer](http://www.jamessawyer.co.uk/pub/gpt_jb.html)** or [DAN](https://gist.github.com/coolaj86/6f4f7b30129b0251f61fa7baaa881516) - Jailbreak Prompts
+* 🌐 **[jailbreakchat](https://www.jailbreakchat.com/)** or **[jamessawyer](http://www.jamessawyer.co.uk/pub/gpt_jb.html)** - Jailbreak Prompts
 * ⭐ **[Prompt Engineering Guide](https://www.promptingguide.ai)**, [Jailbreaking ChatGPT](https://arxiv.org/pdf/2305.13860) or [Learn Prompting](https://learnprompting.org/) - Prompting Guides
 * ⭐ **[quickref](https://quickref.me/chatgpt)** - Prompt Cheatsheets
 * [Chatgptjailbreak](https://rentry.org/Chatgptjailbreak) - Jailbreak Prompts
@@ -150,6 +149,7 @@
 * [Favird](https://favird.com/) - AI Directory
 * [FutureTools](https://www.futuretools.io/?pricing-model=free) - AI Directory
 * [ToolScoutAI](https://toolscout.ai/) - AI Directory
+* [ListedAI](https://www.listedai.co/) - AI Directory
 * [AI Creator Tools](https://library.phygital.plus/) - AI Directory
 * [topai](https://topai.tools/) - AI Directory
 * [TheresAnAIForThat](https://theresanaiforthat.com/) - AI Directory
@@ -157,6 +157,8 @@
 * [AI Center](https://aicenter.ai/) - AI Directory
 * [Wiki AI Tools](https://www.wikiaitools.com/) - AI Directory
 * [TopApps.Ai](https://topapps.ai/) - AI Directory
+* [MangoAI](https://mangoai.co/) - AI Directory
+* [Foundr](https://foundr.ai/) - AI Directory
 * [NaNAI.tools](https://nanai.tools) - AI Directory
 * [SuperTools](https://supertools.therundown.ai/) - AI Directory
 * [GPTE](https://gpte.ai/) - AI Directory
@@ -273,6 +275,7 @@
 * [OpenArt](https://openart.ai/home) / [Discord](https://discord.com/invite/yTMNvk5z97) / Unlimited
 * [SD 2.1 Demo](https://huggingface.co/spaces/stabilityai/stable-diffusion) / Unlimited
 * [PromptJungle](https://discord.gg/fhxAGWTFKt) / Unlimited
+* [StableDiffusionWeb](https://stablediffusionweb.com/) - Unlimited
 * [Leonardo.ai](https://app.leonardo.ai/) / 30 Images Daily
 * [Artsio](https://artsio.xyz/) / 20 Images Daily
 * [DreamLike](https://dreamlike.art) / [Discord](https://discord.com/invite/QyGR2FxsKU) / 12 Images Daily
@@ -395,7 +398,7 @@
 * [Voice Cloning App](https://github.com/BenAAndrew/Voice-Cloning-App), [Kits AI](https://www.kits.ai/), [Real Time Voice Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning), [Beyondwords](https://beyondwords.io/), [VCloner](https://vocloner.com/), [Controllable TalkNet](https://github.com/justinjohn0306/ControllableTalkNet) or [Musicfy](https://musicfy.lol/) - Voice Cloning
 * [tortoise](https://github.com/152334H/tortoise-tts-fast) - Voice Cloning / [Colab](https://colab.research.google.com/drive/1N8lXviiwfmrS9vYzuFdQnLHlddXMMMvU#scrollTo=vF1d-My9IXXt)
 * [AI Voice Clonig](https://git.ecker.tech/mrq/ai-voice-cloning/wiki) - Voice Cloning Guide
-* [AI hub](https://discord.gg/aihub) - AI Voice Profiles
+* [weights.gg](https://www.weights.gg/) / [Discord](https://discord.gg/A5rgNwDRd4) or [AI hub](https://discord.gg/aihub) - AI Voice Models / Profiles
 
 ***
 

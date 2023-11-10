@@ -210,7 +210,7 @@
 * ↪️ **[Spotify Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_spotify_downloaders)**
 * ↪️ **[YouTube Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_youtube_converters)**
 * ↪️ **[Soundcloud Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_soundcloud_downloaders)**
-* ⭐ **[Slavart](https://discord.gg/VJRWhbF7)** - Multi-Site Audio Download App / [Site](https://slavart.gamesdrive.net/), [2](https://gamesdrive.net/) / [Divolt](https://slavart.divolt.xyz) / [Telegram](https://t.me/+9znaxmYJB5lkNzA8) / [Qobuz Copy](https://rentry.co/qobuz-slavart)
+* ⭐ **[Slavart](https://discord.gg/VJRWhbF7)** - Multi-Site Audio Download App / [Divolt](https://slavart.divolt.xyz) / [Telegram](https://t.me/+9znaxmYJB5lkNzA8) / [Qobuz Copy](https://rentry.co/qobuz-slavart)
 * ⭐ **[DoubleDouble](https://doubledouble.top/)** - Multi-Site Audio Download Web App
 * ⭐ **[Soulseek](https://slsknet.org/)** or [Nicotine+](https://nicotine-plus.org/) - FLAC / MP3 / [Stats](https://github.com/mrusse/Slsk-Upload-Stats-Tracker) / [Server App](https://github.com/slskd/slskd)
 * [/r/xTrill](https://reddit.com/r/xTrill) - MP3 / FLAC / [Backup](https://reddit.com/r/xTrillBackup)
@@ -274,7 +274,6 @@
 * [Freemp3cloud](https://freemp3cloud.com) - MP3
 * [MartinRadio](https://www.martinradio.com/) - MP3
 * [Mixupload](https://mixupload.com/) - MP3
-* [Slider](https://slider.kz/) - MP3
 * [Rhapsody](https://github.com/nbats/FMHYedit/blob/main/base64.md#rhapsody) - MP3
 * [Tyler](https://github.com/nbats/FMHYedit/blob/main/base64.md#tyler) - MP3
 * [24naijamuzic](https://www11.24naijamuzic.com/album/) - MP3
@@ -322,16 +321,19 @@
 * [loa2k](https://loa2k.neocities.org/), [nu guide](https://nuvaporwave.neocities.org/mirrors.html) or [Vaporware.ivan](https://vaporwave.ivan.moe/list/) - Vaporwave
 * [inconstant sol](https://inconstantsol.blogspot.com/), [David W. Niven Collection](https://archive.org/details/davidwnivenjazz) or [JazznBlues](https://jazznblues.club/) - Jazz / MP3
 * [EssentialHouse](https://essentialhouse.club/) - House / MP3
-* [ProgRockVintage](https://www.progrockvintage.com/) - Vintage Progressive Rock / MP3
 * [BurningTheGround](https://burningtheground.net/) - 80s / 90s / FLAC
 * [aboutdisco](https://aboutdiscowithlove.blogspot.com/) - Disco / MP3
+* [ProgRockVintage](https://www.progrockvintage.com/) - Classic Rock / MP3
+* [](https://foggynotion-flac.blogspot.com/) or [FiftiesBeat](https://fiftiesbeat.blogspot.com/) - Classic Music / MP3 / FLAC
 * [Classical Music Download](https://classical-music-download.com/) - Classical / FLAC
 * [chucrute com quiabo](https://rabanetecomquiabo.blogspot.com/) or [MeetingInMusic](https://meetinginmusic.blogspot.com/) - Classical / MP3
+* [FlatbackAndClassical](http://www.flatblackandclassical.com/) - Classic Indian Music / FLAC
 * [Kiddie Records](http://www.kiddierecords.com/) - Classic Children's Records
 * [HQ Hip Hop](https://94hiphop.com/) or [GoldHipHop](https://goldhiphop.pro/) - Hip Hop / MP3 / FLAC
 * [Rapload](https://rapload.org/) or [HipHopa](https://hiphopa.net/) - Hip Hop / MP3
-* [MusicRepublic](https://music-republic-world-traditional.blogspot.com/) - World / MP3 /FLAC
+* [MusicRepublic](https://music-republic-world-traditional.blogspot.com/) - World / MP3 / FLAC
 * [KPopMusicDownload](https://kpopdownloadscmm.blogspot.com/) - K-Pop / MP3
+* [FondSound](https://www.fondsound.com/) - Experimental / MP3
 * [MikuDB](https://mikudb.moe/) or [El Rincón del Kitsune](https://elrincondelkitsune.blogspot.com/) - Vocaloid / MP3
 * [Guitars101](https://www.guitars101.com/) - Live Audio / Video
 * [Download-Soundtracks](https://download-soundtracks.com/), [3ost](https://3ost.ru/), [joshw](https://pc.joshw.info/) / [Search](https://vgm.hcs64.com/) or [tanikal](https://www.tanikal.com/) - Soundtracks 

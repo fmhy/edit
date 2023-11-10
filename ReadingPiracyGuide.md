@@ -82,7 +82,6 @@
 * [Ocean of EPUB](https://oceanofepub.com/) - Books / Manga
 * [PDFGet](https://pdfget.com/) - Books
 * [LetMeRead](https://www.letmeread.net/) - Books
-* [FreeBookSpot](https://www.freebookspot.club/) - Books
 * [BooksToLearn](https://www.booktolearn.com) - Books
 * [PDFDrive.to](https://pdfdrive.to/) - Books
 * [DPLA](https://dp.la/) - Books
@@ -292,6 +291,7 @@
 * [HourWolf](https://www.hourwolf.com/sfbooks/) - Fantasy
 * [byGosh](https://bygosh.com), [StoryWhale](https://www.storywhale.com/), [Baldwin Library](https://ufdc.ufl.edu/juv) or [BookDash](https://github.com/bookdash/bookdash-android-app) - Children's Books
 * [BestArtbooks](https://t.me/BESTARTBOOKS) or [Daryl-Dixon](https://daryldixon.gala100.net/) - Artbooks
+* [VGArtbooks](https://vk.com/vgartbooks) - Video Game Artbooks
 * [PimpMyMind](https://pimpmymind.net/) or [Deep-Blue-Sea](http://library.deep-blue-sea.net/) - Self-Help
 * [The Eldritch Dark](http://www.eldritchdark.com/) - Clark Ashton Smith
 * [Appropedia](https://www.appropedia.org/) - Sustainability Wiki
@@ -306,7 +306,7 @@
 * [diyhpluswiki](https://diyhpl.us/wiki/) - DIY Biohacking
 * [Archive of Our Own](https://archiveofourown.org/) - Fanfiction Archive / [Enhancements](https://github.com/jsmnbom/ao3-enhancements/)
 * [Potions and Snitches](https://www.potionsandsnitches.org/) - Harry Potter Fanfiction
-* [SCP Foundation](https://scp-wiki.wikidot.com/) - Fictional Story Colab / [Wiki](https://en.wikipedia.org/wiki/SCP_Foundation)
+* [SCP Foundation](https://scp-wiki.wikidot.com/) / [Wiki](https://en.wikipedia.org/wiki/SCP_Foundation) or [OrionsArm](https://www.orionsarm.com/) - Fictional Story Colabs 
 * [Projectrho](https://www.projectrho.com/public_html/rocket/) - Fantasy Rocket Encyclopedia
 * [The Trove](https://web.archive.org/web/20210614215400/https://thetrove.is/) - Books / Fantasy / TTRPG
 * [DriveThruRPG](https://www.drivethrurpg.com/browse.php?pfrom=&pto=0&x=0&y=0) or [TTRPG Torrent](https://github.com/nbats/FMHYedit/blob/main/base64.md#ttrpg-books) - TTRPG Books
@@ -792,7 +792,7 @@
 * [Tapastic Comic Downloader](https://github.com/TilCreator/Tapas-Comic-Downloader) - Tapas Comics Downloader
 * [Cover](https://frenchfrysoftware.com/cover//), [Komikku](https://gitlab.com/valos/Komikku), [MComix](https://sourceforge.net/projects/mcomix/), [CBR Reader](https://www.cdisplayex.com/), [comic-book-reader](https://github.com/binarynonsense/comic-book-reader), [OpenComic](https://github.com/ollm/OpenComic) or [YACReader](https://yacreader.com/) - Readers / Managers
 * [Free Dark Horse Digital Comics](https://digital.darkhorse.com/pages/free) / [Downloader](https://github.com/GrowAsguard/Dark-Horse-Comics-Converter)
-* [ComicFury](https://comicfury.com/) or [StripCreator](http://www.stripcreator.com/) - User-Made Comics
+* [ComicFury](https://comicfury.com/) - User-Made Comics
 * [Webcomic Reader](https://openuserjs.org/scripts/anka-213/Webcomic_Reader) - Web Comic Reader
 * [Webcomix](https://github.com/J-CPelletier/webcomix) - Webcomics Downloader
 * [ComicReader](https://comicreader.netlify.app/) or [KThoom](https://github.com/codedread/kthoom) - Online Reader
@@ -816,6 +816,7 @@
 * ⭐ **[MangaKatana](https://mangakatana.com/)**
 * ⭐ **[Cubari Proxy](https://proxy.cubari.moe/)** - Multi Site Web Client / [Discord](https://discord.com/invite/SavdUC45MS)
 * ⭐ **[Manga CSE](https://cse.google.com/cse?cx=006516753008110874046:4im0fkhej3z)** / [CSE 2](https://cse.google.com/cse?cx=006516753008110874046:a5mavctjnsc#gsc.tab=0) - Multi-Site Manga Search
+* [Nyaa Manga / LNs](https://nyaa.si/?f=0&c=3_0&q=) - Torrents
 * [MangaPiracy](https://discord.gg/ZgMtAyxFSU) - Manga Piracy Server / [Subreddit](https://reddit.com/r/MangaPiracy)
 * [Great Discord Links](https://discord.gg/xAsyVb52a9) or [Mangadex Groups](https://mangadex.org/groups) - Manga Scanlation Groups
 * [Madokami Manga Archive](https://github.com/nbats/FMHYedit/blob/main/base64.md#madokami)
@@ -916,7 +917,6 @@
 * [Tapas](https://tapas.io/)
 * [Bilibili Comics](https://www.bilibilicomics.com/)
 * [MangaKomi](https://mangakomi.io/)
-* [Aqua Manga](https://aquamanga.com/)
 * [MangaWeebs](https://mangaweebs.in/)
 * [Dragon Tea](https://dragontea.ink/)
 * [Niadd](https://niadd.com/)
@@ -1104,7 +1104,6 @@
 * [CandlApp](https://www.candlapp.com/) - Books
 * [Anobii](https://www.anobii.com/) - Books
 * [Reddit Reads](https://www.redditreads.com/) - Book Recommendations
-* [What Should I Read Next?](https://www.whatshouldireadnext.com/) - Book Recommendations
 * [GNOD](https://www.gnod.com/) - Book Recommendations
 * [RecommendMeABook](https://recommendmeabook.com/) - Book Recommendations
 * [WhichBook](https://www.whichbook.net/) - Book Recommendations
@@ -1115,6 +1114,7 @@
 * [Break the Bubble!](https://abooklike.foo/escape) - Book Recommendations
 * [PagePundit](https://pagepundit.com/) - Book Recommendations
 * [Mind Expanding Books](https://github.com/hackerkid/Mind-Expanding-Books) - Book Recommendations
+* [myAIbrary](https://myaibrary.com/) - Book Recommendations
 * [Litsy](https://www.litsy.com/) - Book Recommendation / Photo Sharing Community
 * [5000 Best](http://5000best.com/books/) - Top 5000 Books
 * [listal](https://www.listal.com/) - Book Database
@@ -1216,7 +1216,6 @@
 * [FicHub](https://fichub.net/) or [FanFictionDownloader](https://fanfictiondownloader.net/) - Fanfiction Downloader
 * [Sigil Ebook](https://sigil-ebook.com/) - EPUB Editor
 * [EPUB Translator](https://github.com/quantrancse/epub-translator) or [epub-translator](https://github.com/sharplab/epub-translator) - EPUB Translators
-* [Audiobook Splitter](https://gist.github.com/izderadicka/0efc16bd150d70b7c504ab15f95c11ab) - Split Audiobooks in Smaller Files
 * [SmartStich](https://github.com/MechTechnology/SmartStitch) - Stitch Together Webtoons
 * [FanFicFare](https://github.com/JimmXinu/FanFicFare) - Generate Ebooks from Stories / Fanfiction
 * [HowLongToRead](https://howlongtoread.com/) - Average Book Reading Times

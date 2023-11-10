@@ -380,7 +380,7 @@
 * ⭐ **[TorServices](https://f-droid.org/packages/org.torproject.torservices/)** or [Orbot](https://play.google.com/store/apps/details?id=org.torproject.android&amp;hl=en_US) - Tor Proxy Apps
 * ⭐ **[Aegis](https://getaegis.app/)**, **[Ente](https://github.com/ente-io/auth/)** / [Audit](https://ente.io/blog/cryptography-audit/), [AuthenticatorPro](https://github.com/jamie-mh/AuthenticatorPro), [Mauth](https://github.com/X1nto/Mauth) or [andOTP](https://github.com/andOTP/andOTP) - Two-Factor Authentication 
 * [Android OTP Extractor](https://github.com/puddly/android-otp-extractor) or [OTP Helper](https://github.com/jd1378/otphelper) - Extract OTP Tokens
-* [Vpnify](https://vpnifyapp.com/), [YourFreedomVPN](https://apkcombo.com/your-freedom-vpn-client/de.resolution.yf_android/), [GoFLy](https://play.google.com/store/apps/details?id=com.ambrose.overwall), [VPNhub](https://www.vpnhub.com/), [Adguard VPN](https://adguard.com/en/blog/introducing-adguard-vpn-for-android.html) or [Clash](https://github.com/Kr328/ClashForAndroid/) - Free VPNs
+* [Vpnify](https://vpnifyapp.com/), [YourFreedomVPN](https://apkcombo.com/your-freedom-vpn-client/de.resolution.yf_android/), [GoFLy](https://play.google.com/store/apps/details?id=com.ambrose.overwall), [VPNhub](https://www.vpnhub.com/) or [Adguard VPN](https://adguard.com/en/blog/introducing-adguard-vpn-for-android.html) - Free VPNs
 * [FOSS Smartphone Hardening](https://lemmy.ml/post/54596) - Non-Root Smart Phone Hardening Guide
 * [Hackuna](https://play.google.com/store/apps/details?id=org.cryptors.hackuna002&hl=en&gl=US) - Anti-Hack Tool
 * [ceno-browser](https://censorship.no/en/index.html) / [GitHub](https://github.com/censorship-no/ceno-browser) - Proxy Browser
@@ -407,7 +407,6 @@
 * [URL Scanner](https://f-droid.org/en/packages/com.trianguloy.urlchecker/) - URL Checker
 * [PCAPdroid](https://github.com/emanuele-f/PCAPdroid) - Network Monitor
 * [v2rayNG](https://github.com/2dust/v2rayNG) - Build Privacy Network
-* [vTunnel](https://github.com/net-byte/vTunnel) - VPN Tunnel
 * [Open SSTP Client](https://github.com/kittoku/Open-SSTP-Client) - SSTP Client
 * [FreezeYou](https://www.freezeyou.net/en-US/), [SuperFreezZ](https://superfreezz.gitlab.io/), [BatteryTool](https://github.com/Domi04151309/BatteryTool) or [Drowser](https://gitlab.com/juanitobananas/drowser) - Freeze App Background Activities
 * [SnoopSnitch](https://github.com/srlabs/snoopsnitch) - Check Mobile Network Security 
@@ -485,7 +484,7 @@
 * [Updoot](https://updoot.app/) - Reddit Saved Post / Comment Manager
 * [BlueClover](https://github.com/nnuudev/BlueClover), [MobiChan](https://github.com/Rukkaitto/mobichan), [Kuroba](https://github.com/K1rakishou/Kuroba-Experimental) / [2](https://github.com/Adamantcheese/Kuroba) or [Chan](https://github.com/moffatman/chan) - 4Chan Apps
 * [Uploadgram App](https://github.com/Uploadgram/app) - Uploadgram Frontend
-* [Instander](https://thedise.me/instander/) - Modded Instagram Client / [Telegram](https://t.me/instander) / [Tools](https://play.google.com/store/apps/details?id=com.dageek.socialtoolbox_android) / [Secrets](https://ngl.link/) 
+* [Instander](https://thedise.me/instander/) or [MyInsta](https://redd.it/1598xgk) - Modded Instagram Clients / [Telegram](https://t.me/instander) / [Tools](https://play.google.com/store/apps/details?id=com.dageek.socialtoolbox_android) / [Secrets](https://ngl.link/) 
 * [Frost for Facebook](https://github.com/AllanWang/Frost-for-Facebook) or [LC_Reborn](https://t.me/s/Facebook_LC_Reborn) - Facebook Clients
 * [MessengerPro](https://github.com/Mino260806/MessengerPro) - Modded Facebook Messenger
 * [NoFBEventScraper](https://github.com/akaessens/NoFbEventScraper) - Scrape Facebook for Events without Account
@@ -839,7 +838,7 @@
 * [Live Sports HD](https://forum.mobilism.org/search.php?keywords=Live+Sports+HD+TV&sr=topics&sf=titleonly) - Sports
 * [Live NetTV](https://www.livenettv.bz/)
 * [SonyLiv (Modded)](https://github.com/nbats/FMHYedit/blob/main/base64.md#sonyliv)
-* [OTTRun](https://www.ottrun.com/), [Tiwee](https://github.com/neffex97/Tiwee) or [Xstream Player](https://play.google.com/store/apps/details?id=com.devcoder.iptvxtreamplayer) - IPTV Players
+* [OTTRun](https://www.ottrun.com/), [OTT Navigator](https://www.apkmirror.com/apk/sia-scillarium-studio/ott-navigator-iptv/), [Tiwee](https://github.com/neffex97/Tiwee) or [Xstream Player](https://play.google.com/store/apps/details?id=com.devcoder.iptvxtreamplayer) - IPTV Players
 
 ***
 
@@ -898,6 +897,7 @@
 * [Fimo](https://apps.apple.com/us/app/fimo-analog-camera/id1454219307) - Vintage Image Filters
 * [Lightme](https://apps.apple.com/app/id1509033790) - Light Meter
 * [Luma AI](https://lumalabs.ai/) - Capture 3D Images
+* [Bright Eye](https://apps.apple.com/us/app/bright-eye/id1593932475) - AI Image Generator
 * [Universal Control](https://apps.apple.com/us/app/tv-remote-universal-control/id1539090879) - Universal Remote
 * [NetClicker](https://netclicker.tv/) - Phone Browser Controller
 * [Bacon](https://github.com/jerameel/bacon) - Bluetooth Controller
@@ -949,7 +949,7 @@
 
 ## ▷ iOS Jailbreaking
 
-* 🌐 **[Complete Jailbreak Chart](https://appledb.dev/)**, [HackYouriPhone Repo](https://repo.hackyouriphone.org/) or [IPA Apps](https://ipa-apps.me/) - Jailbreaking Tool Indexes
+* 🌐 **[Complete Jailbreak Chart](https://appledb.dev/)**, [CanIJailbreak?](https://canijailbreak.com/), [HackYouriPhone Repo](https://repo.hackyouriphone.org/) or [IPA Apps](https://ipa-apps.me/) - Jailbreaking Tool Indexes
 * ⭐ **[iOS Jailbreak Guide](https://ios.cfw.guide/)** - Jailbreaking Guide
 * ⭐ **[/r/jailbreak](https://reddit.com/r/jailbreak)** - Jailbreaking Subreddit / [Wiki](https://www.reddit.com/r/jailbreak/wiki/index)
 * ⭐ **[Sideloading Beginners Guide](https://redd.it/orqzau)** or [Noob Guide to Sideloading](https://www.reddit.com/r/Piracy/comments/pt5uv9/noob_guide_to_sideloading_in_ios/) - Sideloading Guide
@@ -1044,7 +1044,6 @@
 * [AltStore](https://altstore.io/) or [SideStore](https://github.com/SideStore/SideStore) - App Store / [Repo View](https://altsource.by.lao.sb/browse/) / [Alt Daeomon](https://repo.dynastic.co/package/altdaemon) / [Alt Server](https://github.com/NyaMisty/AltServer-Linux)
 * [Repo Updates](https://www.ios-repo-updates.com/) - App Repository Updates
 * [paxcex](https://paxcex.github.io/), [Haoict Repository](https://haoict.github.io/cydia/) or [CydiaGeek](https://cydiageek.yourepo.com/) - App Repositories
-* [iPA Host](https://github.com/ipahost) - App Tweaks / Social Media’s
 * [EonHub](https://app.eonhubapp.com/) - Hacked / Tweaked Apps
 * [iOSObscura](https://archive.org/details/iOSObscura) - Old App Archive
 * [Satella](https://paisseon.github.io/) / [2](https://github.com/Paisseon/Satella/) or [My iAP Cracker](https://repo.hackyouriphone.org/myiapcracker) - In-App Purchase Mods

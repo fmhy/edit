@@ -59,7 +59,8 @@
 * ⭐ **[FitGirl Repacks](https://fitgirl-repacks.site/)** - Download / Torrent / [Discord](https://discord.gg/Up3YARe4RW)
 * ⭐ **[DODI Repacks](https://dodi-repacks.site/)** - Download / Torrent / [Discord](https://discord.gg/uE273qJ) / [Forum](https://dodi-forums.win/)
 * ⭐ **[M4CKD0GE Repacks](https://m4ckd0ge-repacks.site/)** - Download / [Discord](https://discord.gg/693hNBdymb)
-* [ScOOt3r Repacks](https://discord.gg/xe3Fys8Upy) or [RePack.info](https://repack.info/) - Download / Torrent
+* [FS-Repacks](https://www.fluxyrepacks.site/) - Download / [Discord](https://discord.gg/sSA3S3kZZn)
+* [ScOOt3r Repacks](https://discord.gg/xe3Fys8Upy) - Download / Torrent
 * [Elamigos](https://elamigos.site/) - Download
 * [Tiny-Repacks](https://www.tiny-repacks.win) - Torrent
 * [Magipack](https://www.magipack.games), [CollectionChamber](https://collectionchamber.blogspot.com/) or [ClassicPCGames](https://archive.org/details/classicpcgames) - Retro PC Games
@@ -205,7 +206,7 @@
 * [64DD.org](https://64dd.org/) - ROMs / 64DD
 * [3DS ROMS](https://3dsroms.org) or [hShop](https://hshop.erista.me/) - ROMs / 3DS
 * [NoPayStation](https://nopaystation.com/) or [SafeROMs](https://www.saferoms.com/) - ROMs / Playstation Consoles
-* [PKGPS4](https://www.pkgps4.click/) or [Auctor](https://auctor.tv/) - ROMs / PS4
+* [PKGPS4](https://www.pkgps4.click/) - ROMs / PS4
 * [/r/PkgLinks1](https://www.reddit.com/r/PkgLinks1/) - PS1 / PS2 Games for Modded PS4
 * [PSVitaVPK](https://psvitavpk.com/), [2](https://psvitagamesdd.com/) - ROMs / PSP
 * [xbarchive](https://github.com/codemasterv/xbarchive) - ROMs / Xbox Consoles
@@ -451,13 +452,11 @@
 * [Master Archer](https://playcanv.as/p/JERg21J8/) - Archery Game 
 * [Galaxies](https://playcanv.as/p/Ikq6Uk6A/) - Space Combat Game 
 * [Orbital Survival](https://playcanv.as/p/3G3RnfUz/) - Survive Waves of UFOs 
-* [Doodle Cricket](https://doodlecricket.github.io/index.html#/) - Play Cricket as a Cricket 
-* [Doodle Champion Island Games!](https://www.google.com/) - Olympics JRPG Game
+* [Doodle Cricket](https://doodlecricket.github.io/index.html#/) - Play Cricket as a Cricket
 * [MousePoint](https://creativetechguy.com/mousepoint) - Mouse Pointing Game
 * [FindTwin](https://github.com/klimaleksus/FindTwin) - Find the Twins
 * [Spot the Differences](https://www.spotthedifference.com/) - Find the Differences
 * [Kuku Kube](https://kuku-kube.com/) - Find the Different Squares
-* [Find the Invisible Cow](https://www.findtheinvisiblecow.com/) - Find an Invisible Cow with Sound
 * [Alternate History Simulator](https://abw.blue/) - Write Alternate History 
 * [NationStates](https://www.nationstates.net/) - Nation Simulation Game 
 * [CandyBox](https://candybox2.github.io/) - Candy Eating Game 
@@ -826,7 +825,7 @@
 * [Project Reality](https://www.realitymod.com/about) - BF2 & ARMA 2 Realism Mod
 * [BF3Reality](https://bf3reality.com/) - BF3 Realism Mod
 * [VeniceUnleashed](https://veniceunleashed.net/) (BF3) and [Warsaw-Revamped](https://warsaw-revamped.com/) (BF4) - Battlefield Mod Projects
-* [Open Carnage](https://opencarnage.net/) / [Discord](https://discord.com/invite/2pf3Yjb), [Reclaimers](https://reclaimers.net/) / [Discord](https://discord.reclaimers.ne) or [Halo Mods](https://discord.com/invite/WuurKwr) - Halo Modding Community
+* [Open Carnage](https://opencarnage.net/) / [Discord](https://discord.com/invite/2pf3Yjb), [Reclaimers](https://reclaimers.net/) or [Halo Mods](https://discord.com/invite/WuurKwr) - Halo Modding Community
 * [Halo 3](https://store.steampowered.com/app/1695791/Halo_3_Mod_Tools__MCC/), [Halo 2](https://store.steampowered.com/app/1613450/Halo_2_Mod_Tools__MCC/) or [Halo CE](https://store.steampowered.com/app/1532190/Halo_CE_Mod_Tools__MCC/) - Halo Modding Tools
 * [H2Maps](https://www.h2maps.net/) - Custom Halo 2 Maps
 * [HaloMaps](http://www.halomaps.org/) - Halo CE Maps
@@ -978,6 +977,7 @@
 * [ALVR](https://github.com/alvr-org/ALVR) - Stream VR Games from PC to Headset
 * [Hip Tracking](https://getaughip.com/) - Augmented Hip Virtual
 * [Defacto](https://defacto2.net/) - Retro NFOs
+* [ConceptArt](https://vk.com/conceptart) - Video Game Concept Art
 * [Whitescent Engine](https://apt.izzysoft.de/fdroid/index/apk/com.github.whitescent.engine) - Use Phone as Joy Stick / [GitHub](https://github.com/whitescent/Engine)
 * [JoystickGremlin](https://whitemagic.github.io/JoystickGremlin/) - Remap Joystick Devices
 * [Arcade Controls](http://arcadecontrols.com/arcade.htm) or [JoyStick](https://slagcoin.com/joystick.html) - DIY Arcade Controls
@@ -1083,7 +1083,6 @@
 * [FortniteEXP](https://www.fortnitexp.net/) - Fortnite XP Progression / Leveling Rates
 * [Universal VPN Fixer](https://github.com/samfisherirl/VPNGamingPauser/) - Auto Pause VPN While Gaming Online
 * [Slippi](https://slippi.gg/) - Super Smash Bros Melee Online 
-* [Among Us Free Chat Unlocker](https://github.com/Vili1/Among-us-Free-Chat-unlocker/releases/) - Among Us Chat Unlocker
 * [CrewLink](https://github.com/ottomated/CrewLink) - Among Us Proximity Chat
 * [Impostor](https://impostor.github.io/Impostor/) - Among Us Private Server
 * [VRCList](https://vrclist.com/) - Find VRChat Worlds
@@ -1216,6 +1215,7 @@
 * [RoSeal](https://www.roseal.live/) - Roblox Enhancement Extension
 * [RoPro](https://ropro.io/), [Roblox+](https://chrome.google.com/webstore/detail/roblox%20/jfbnmfgkohlfclfnplnlenbalpppohkm), [BTRoblox](https://twitter.com/AntiBoomz/status/1378597179556823040) or [RoGold](https://discord.gg/XMHn9zV3UA) - Enhance Roblox Website
 * [ROBLOX Low Ping Finder](http://low-ping.dino.icu/) - Find Low Ping Roblox Servers
+* [Revival Archive](https://archive.banland.xyz/) - Classic Roblox Server Revivals
 * [Roblox Studio](https://create.roblox.com/) - Roblox Dev Tool
 * [Roblox Web APIs](https://github.com/matthewdean/roblox-web-apis) - Roblox APIs
 
@@ -1227,7 +1227,7 @@
 * [TerraLauncher](https://github.com/trigger-segfault/TerraLauncher) - Terraria Launcher
 * [TConvert](https://github.com/trigger-segfault/TConvert) - Terraria Content Manager
 * [N-Terraria](https://forums.terraria.org/index.php?threads/n-terraria-mod-rpg-races-classes-quests-and-other-things.542/) - Terraria Mod
-* [TEdit](https://www.binaryconstruct.com/tedit), [terramap](https://terramap.github.io/), [MoreTerra](https://github.com/mike-mo/MoreTerra/releases), [TerraFirma](https://github.com/mrkite/TerraFirma/releases/tag/3.1.5) or [terraria-map-editor](https://tedit.github.io/terraria-map-editor-web/) - Map Viewers / Editors
+* [TEdit](https://www.binaryconstruct.com/tedit), [terramap](https://terramap.github.io/), [TerraFirma](https://github.com/mrkite/TerraFirma/releases/) or [terraria-map-editor](https://tedit.github.io/terraria-map-editor-web/) - Map Viewers / Editors
 * [Terrasavr](https://yal.cc/r/terrasavr/) - Terraria Character Editor
 * [ArmorHelper](https://forums.terraria.org/index.php?threads/armorhelper-sprite-armor-sets-30x-times-faster.68744/) - Terraria Armor Customization Tool
 * [TerrariaDepot](https://forums.terraria.org/index.php?threads/terrariadepotdownloader-downgrade-to-any-version.107519/) - Terraria Downgrader

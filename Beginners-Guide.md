@@ -19,7 +19,7 @@ Didn't find it and still confused? Reach out to us via [Divolt](https://redd.it/
 You can download pre-cracked Adobe products from [M0nkrus](https://w14.monkrus.ws/) | [How to download from M0nkrus](https://rentry.co/adobesoftware) or Patch it yourself following these guides [here](https://www.reddit.com/r/GenP/wiki/index/) & for MacOS go [here](#macos)
 !!!info M0nkrus is a well trusted and reputable source for adobe software in the piracy community. 
 
-> How do I download windows / activate windows & Office?
+> How do I download/activate Windows/Office for free?
 For Windows check out this [section](#pirate-windows)
 For Office check these [guides](https://fmhy.pages.dev/storage/#office-suites)
 
@@ -158,7 +158,7 @@ Use [this](https://bitbucket.org/magnolia1234/bypass-paywalls-firefox-clean/src/
 
 **[qBittorrent](https://www.qbittorrent.org/) / [Transmission](https://transmissionbt.com/) / [Deluge](https://www.deluge-torrent.org/) / [Remote Torrenting](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent#wiki_.25B7_remote_torrenting)** - Torrent clients
 **[Torrent to GDrive](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_torrent_to_gdrive)** - Downloads torrents externally & uploads them to gdrive, avoiding the need for a VPN
-**[RuTracker](https://rutracker.org/) / [TorrentGalaxy](https://torrentgalaxy.to/)** - Torrent video, audio, games, software & more / Only download from reputable users
+**[RuTracker](https://rutracker.org/)** / [Wiki](http://rutracker.wiki/) / [Rules](https://rutracker.org/forum/viewtopic.php?t=1045) - Torrent video, audio, games, software & more / Only download from reputable users
 **[FitGirl Repacks](https://fitgirl-repacks.site/)** - Trusted game repacker
 **[Stremio](https://www.stremio.com/)** - Torrent video streaming app
 **[Nyaa](https://nyaa.si/)** - Anime Torrents

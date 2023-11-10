@@ -200,7 +200,7 @@
 * ↪️ **[Live Stream Managers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_live_stream_managers)**
 * ⭐ **[MKVToolNix](https://mkvtoolnix.download/)** - MKV Editing Tools
 * ⭐ **[Codecs and Containers List](https://www.reddit.com/r/VideoEditing/wiki/codecsandcontainers)**
-* ⭐ **[Video Encoding Guide](https://sometimes-archives-things.github.io/archived-things/)**, [2](https://encoding-guide.neocities.org/) or [Disc Rip](https://rentry.org/disc-rip) - Learn how to Rip / Encode Videos
+* ⭐ **[Video Encoding Guide](https://sometimes-archives-things.github.io/archived-things/)** / [2](https://encoding-guide.neocities.org/) or [Disc Rip](https://nullish.cat/blog/disc-rip) / [2](https://rentry.org/disc-rip) - Learn how to Rip / Encode Videos
 * ⭐ **[Basics to the Art of Remuxing](https://rentry.co/Remuxing)** or [fs927](https://rentry.org/fs927) - Learn how to Remux Videos
 * ⭐ **[EyeCndy](https://eycndy.co/)** - Visual Technique Library
 * ⭐ **[PlayPhrase](https://playphrase.me/)**, [ClipBase](https://clipbase.xyz/), [Filmot](https://filmot.com/) or [Yarn](https://yarn.co/) / [2](https://getyarn.io/) - Internet Clip Quote Search
@@ -273,9 +273,10 @@
 * [Mixer](https://quixel.com/mixer) - 3D Texture Creation Tool
 * [PlanetSide](https://planetside.co.uk/) - CG Environment Generator
 * [cgplugdump](https://t.me/cgplugdump) - CG Software Plugins
-* [AnimeEffects](https://github.com/AnimeEffectsDevs/AnimeEffects), [nve](https://maurycyliebner.github.io/), [Expressive](https://www.expressivesuite.com/), [Cavalry](https://cavalry.scenegroup.co/), [TupiTube](https://tupitube.com/) or [Synfig](https://www.synfig.org/) - 2D Animation Tools
+* [AnimeEffects](https://github.com/AnimeEffectsDevs/AnimeEffects), [enve](https://maurycyliebner.github.io/), [Expressive](https://www.expressivesuite.com/), [Cavalry](https://cavalry.scenegroup.co/), [TupiTube](https://tupitube.com/) or [Synfig](https://www.synfig.org/) - 2D Animation Tools
 * [Storyboarder](https://wonderunit.com/storyboarder/) - Quickly Visualize & Test Animations / [GitHub](https://github.com/wonderunit/storyboarder) 
 * [Stable Diffusion Videos](https://github.com/nateraw/stable-diffusion-videos) - Create Videos using Stable Diffusion
+* [LuxCoreRender](https://luxcorerender.org/) - Rendering Engine
 * [Mandelbulber](https://mandelbulber.com/) or [FragM](https://github.com/3Dickulus/FragM) - Fractal Rendering Software / [3D](https://mb3d.overwhale.com/)
 * [JWildfire](https://jwildfire.overwhale.com/), [IFSRenderer](https://github.com/bezo97/IFSRenderer) or [Fractorium](http://fractorium.com/) - Flame Fractal Rendering Software
 * [BestSnip](https://bestsnip.com/animation/), [Sketch Machine](https://sketchmachine.net/), [Plask](https://plask.ai/) or [Rive](https://rive.app/) - Online Animation Tools
@@ -332,7 +333,7 @@
 ## ▷ Audio Tools
 
 * 🌐 **[Awesome Music](https://github.com/noteflakes/awesome-music)** - Music Resource Index 
-* 🌐 **[Awesome Music Production](https://github.com/ad-si/awesome-music-production)** - Music Production Index
+* 🌐 **[Awesome Music Production](https://github.com/ad-si/awesome-music-production)** or [AFreeStudio](https://www.afreestudio.com/) - Music Production Indexes
 * 🌐 **[Awesome Audio Visualization](https://github.com/willianjusten/awesome-audio-visualization)** - Audio Visualization Index
 * ↪️ **[Audio Players / Libraries](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_music_libraries_.2F_players)**
 * ↪️ **[Audio Servers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_audio_servers)**
@@ -627,7 +628,7 @@
 * [HomeBank](http://homebank.free.fr/), [Firefly III](https://firefly-iii.org/), [Money Manager EX](https://moneymanagerex.org/), [Ledger](https://ledger-cli.org/), [Paisa](https://github.com/RetroMusicPlayer/Paisa), [Buckwheat](https://buckwheat.app/), [My Expenses](https://www.myexpenses.mobi/), [actual](https://github.com/actualbudget/actual) or [Sushi](https://github.com/jerameel/sushi) - Finance Managers
 * [financial_advice](https://github.com/emilepetrone/financial_lessons) - Financial Lessons
 * [MortgageCalculator](https://www.mortgagecalculator.site/) - Mortgage Calculator
-* [TradingView](https://www.tradingview.com/), [Stocksera](https://stocksera.pythonanywhere.com/), [FinScreener](https://www.finscreener.com/), [Candle](https://gitlab.com/cosmosapps/candle), [finviz](https://finviz.com/), [Markets.sh](https://markets.sh/) or [Screener](https://www.screener.in/) - Stock Market Trackers
+* [TradingView](https://www.tradingview.com/), [FinScreener](https://www.finscreener.com/), [Candle](https://gitlab.com/cosmosapps/candle), [finviz](https://finviz.com/), [Markets.sh](https://markets.sh/) or [Screener](https://www.screener.in/) - Stock Market Trackers
 * [TradingView Webhook Bot](https://github.com/fabston/TradingView-Webhook-Bot) - Send TradingView Alerts to Various Apps / [Index](https://github.com/pAulseperformance/awesome-pinescript)
 * [neostox](https://neostox.com/) - Practice Stock Trading
 * [Quiver Quantitative](https://www.quiverquant.com/) - Stock Trading Research
@@ -739,7 +740,6 @@
 * [Atlus](https://github.com/amanharwara/altus) or [WAO](https://dedg3.com/wao/) - Whatsapp Clients
 * [Rocket Chat](https://rocket.chat/) - Self-Hosted Chat Client
 * [SnapRecovery](https://github.com/sdushantha/snaprecovery) - Snapchat Recovery Tool
-* [Snapchat Data Extractor](https://gist.github.com/programminghoch10/fa37e0da8b2efc5cb8077e59d000771d) - Extract Snapchat Photo / Video Details
 * [Skype Exports for Humans](https://becausecurious.me/skype_exports_for_humans) - Export Skype Chat Data to Readable Text
 * [TikTok Chat Reader](https://tiktok-chat-reader.zerody.one/) - Live TikTok Chat Reader
 * [GoldFish](https://goldfish.social/) - Open-Source TikTok Alternative
@@ -858,7 +858,7 @@
 * ⭐ **[Swurl](https://swurl.com/)**, [pSearch](https://serjsx.github.io/wpSearch/), [Search All](https://www.searchall.net/), [CombinedSearch](https://combinedsearch.io/) or [AIO Search](https://www.aiosearch.com/) - Multi-Site Search
 * ⭐ **[Streaming CSE](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_streaming_site_cse)** - Search General Streaming Sites
 * ⭐ **[Video Streaming CSE](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video#wiki_.25B7_video_hosts)** - Search YouTube-Like Video Sites
-* ⭐ **[Anime Streaming CSE](https://cse.google.com/cse?cx=006516753008110874046:vzcl7wcfhei)**, [2](https://cse.google.com/cse?cx=006516753008110874046:mrfarx7-dxu) - Search Anime Streaming Sites
+* ⭐ **[Anime Streaming CSE](https://cse.google.com/cse?cx=006516753008110874046:vzcl7wcfhei)**, [2](https://cse.google.com/cse?cx=006516753008110874046:mrfarx7-dxu) or [Kuroiru](https://kuroiru.co/) - Search Anime Streaming Sites
 * ⭐ **[TV Streaming CSE](https://cse.google.com/cse?cx=006516753008110874046:hrhinud6efg)** - Search TV Streaming Sites
 * ⭐ **[Download CSE](https://cse.google.com/cse?cx=006516753008110874046:1ugcdt3vo7z)**, [2](https://cse.google.com/cse?cx=006516753008110874046:reodoskmj7h) - Search Download Sites
 * ⭐ **[Video Download CSE](https://cse.google.com/cse?cx=006516753008110874046:wevn3lkn9rr)**, [2](https://cse.google.com/cse?cx=89f2dfcea452fc451), [3](https://cse.google.com/cse?cx=aab218d0aa53e3578) - Search Video Download Sites
@@ -1007,7 +1007,7 @@
 * [QR Code Generator](https://www.qr-code-generator.com/), [2qr](https://2qr.info/) or [link-to-qr](https://link-to-qr.com/) - QR Code Generator For URLs / Text 
 * [AnyImage](https://anyimage.io/) - Create Social Card Links
 * [urlportal](https://raw.githubusercontent.com/gotbletu/shownotes/master/urlportal.sh) - Custom URL Handler
-* [NSLookup](https://www.nslookup.io/) or [dog](https://github.com/ogham/dog) - DNS Information Tool
+* [Web Check](https://web-check.xyz/), [NSLookup](https://www.nslookup.io/) or [dog](https://github.com/ogham/dog) - DNS Information Tool
 * [Awesome Piracy Bot](https://github.com/Igglybuff/awesome-piracy-bot) - URL Scraping Tools
 * [Site Worth Traffic](https://www.siteworthtraffic.com/) - Calculate Website Worth
 * [XML-Sitemaps](https://www.xml-sitemaps.com/) - Sitemap Creator
@@ -1245,9 +1245,10 @@
 * [DSC.BIO](https://discords.com/bio) - Make Custom Discord Bios 
 * [DateTimeCord](https://datetimecord.rauf.wtf/) - Discord Date & Time Formatting Tool
 * [Dank.tools](https://dank.tools/) - Time Tag Generator
-* [Coloured-Text-Generator](https://rebane2001.com/discord-colored-text-generator/) - Discord Coloured Text Generator
+* [Coloured-Text-Generator](https://rebane2001.com/discord-colored-text-generator/) - Discord Colored Text Generator
 * [Discord Text to Emoji](https://jtprince.com/discord/) - Emoji Discord Text
 * [Discord Splitter](https://hoodedice.github.io/discord-splitter/) - Discord Wall of Text Splitter
+* [Discord TTS Bot](https://github.com/moonstar-x/discord-tts-bot) - Text to Speech for Discord
 * [Automod Config](https://docs.google.com/spreadsheets/d/1pUGVAARMBadmNqQW6cPKhSaT-uYDgQlRBnlQ9TMDXTI/edit#gid=730346323) - Automod Bot Config
 * [Discord Backup](https://github.com/itschasa/Discord-Backup) - Backup and Restore Discord Accounts
 * [Multi-Accounts 1 Email](https://rentry.co/altmethod) - How-to Create Multiple Accounts on One Email
@@ -1266,8 +1267,8 @@
 * [LilyBot](https://github.com/defensem3ch/LilyBot) - Play / Render Music Snippets
 * [Guild Counter](https://rauf.wtf/guildcount) - Check how many servers you're in
 * [Preview for Discord](https://dragory.github.io/role-preview-for-discord/) - Preview Role Colors Role
-* [Stolen Shoes](https://stolen.shoes/) or [Discord Embedder](https://discord.nfp.is/) - Embed Videos on Discord
-* [8mbvideo](https://8mb.video/) or [@Snooober's Script](https://redd.it/o7vqm4) - Encode videos to 8MB
+* [Stolen Shoes](https://stolen.shoes/), [x266.mov](https://x266.mov/discord-embed), [embeds.video](https://embeds.video/), [autocompressor](https://autocompressor.net/) or [Discord Embedder](https://discord.nfp.is/) - Embed Videos on Discord
+* [8mbvideo](https://8mb.video/) or [@Snooober's Script](https://redd.it/o7vqm4) - Encode videos to <8MB
 * [Discord Together](https://github.com/RemyK888/discord-together) - Video Stream Sync / Watch Parties
 * [DiskCord](https://github.com/5ut/DiskCord) - Host Files on External Sites to share via Discord
 * [discordcompressor](https://github.com/vladaad/discordcompressor) - Video Compressor
@@ -1299,7 +1300,6 @@
 * ⭐ **[tg](https://github.com/paul-nameless/tg)** - Terminal Client
 * ⭐ **[ChatGPT Telegram Bot](https://github.com/karfly/chatgpt_telegram_bot)** / [2](https://github.com/n3d1117/chatgpt-telegram-bot) / [3](https://github.com/watscho/chat-gpt-telegram-bot) or [chatgpt-serverless](https://github.com/franalgaba/chatgpt-telegram-bot-serverless) - ChatGPT for Telegram
 * [ShellBot](https://github.com/MannyHackers/ShellBot) - Multi-Purpose Telegram Bot
-* [VirusTotalAV_bot](https://t.me/VirusTotalAV_bot) - Telegram File Scanner
 * [TG Bot](https://t.me/drlinkbot) / [2](https://github.com/TheCaduceus/Link-Bypasser-Bot) - Ad Link Bypass Bot
 * [GetMediaBot](https://t.me/getmediabot) - Media Download Bot
 * [Bulk download from Telegram](https://zebradil.me/post/2018-04-18-bulk-download-from-telegram/) - Telegram Media Download Method
@@ -1368,7 +1368,7 @@
 * [TubeBuddy](https://www.tubebuddy.com/) - YouTube Channel Tools
 * [Playboard](https://playboard.co) - YouTube Channel Stats
 * [vidIQ](https://chrome.google.com/webstore/detail/vidiq-vision-for-youtube/pachckjkecffpdphbpmfolblodfkgbhl) - YouTube Viewership Data
-* [Video Reacp](https://videorecap.viewodyssey.com/) - YouTube Year in Review Stats
+* [Video Recap](https://videorecap.viewodyssey.com/) - YouTube Year in Review Stats
 * [youtube-cld](https://github.com/anatolykopyl/youtube-cdl) - Bulk YouTube Channel Downloader
 * [TubeArchivist](https://www.tubearchivist.com/) - Archival YouTube Media Server / [GitHub](https://github.com/tubearchivist/tubearchivist)
 * [YTArchive](https://github.com/Kethsar/ytarchive) - YouTube Livestream Recorder
@@ -1615,7 +1615,7 @@
 * ↪️ **[Task Automation](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_task_automation)**
 * ↪️ **[Remote Desktop Clients](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_remote_desktop_clients)**
 * ⭐ **[CPU-Z](https://www.cpuid.com/softwares/cpu-z.html)**, [winfetch](https://github.com/lptstr/winfetch) or [GPU-Z](https://www.techpowerup.com/download/techpowerup-gpu-z/) - System Information Tools
-* ⭐ **[Windows Optimization Guide](https://rentry.co/mdl-optimize-guide)** / [Video](https://youtu.be/pJTCwSX9Ym8) / [2](https://github.com/Smozyy/Tweaks-for-Gaming.bat)
+* ⭐ **[Windows Optimization Guide](https://forums.mydigitallife.net/threads/optimize-offline-guide-windows-debloating-tool-windows-1803-1903-19h2-1909-20h1-and-ltsc-2019.80038/)** / [Video](https://youtu.be/pJTCwSX9Ym8) / [2](https://github.com/Smozyy/Tweaks-for-Gaming.bat)
 * ⭐ **[Ventoy](https://www.ventoy.net/en/index.html)**, **[Rufus](https://rufus.ie/)**, [AIO Boot](https://www.aioboot.com/), [UUP](https://pastebin.com/ybvKNan6) / [2](https://www.microsoft.com/en-us/p/uup-media-creator/9n1z0jxb224x) or [MediaCreationTool](https://github.com/AveYo/MediaCreationTool.bat) - Create Bootable USB Drives
 * ⭐ **[GParted](https://gparted.org/)**, [Rescuezilla](https://rescuezilla.com/), [CloneZilla](https://clonezilla.org/) or [AOMEI](https://www.diskpart.com/) - Partition Managers
 * ⭐ **[BleachBit](https://www.bleachbit.org/)**, [memreduct](https://github.com/henrypp/memreduct) or [WinMemoryCleaner](https://github.com/IgorMundstein/WinMemoryCleaner) - Clean System Memory
@@ -1656,6 +1656,8 @@
 * [LegacyUpdate](https://github.com/kirb/LegacyUpdate) - Fix Windows Updates for Legacy Editions
 * [WSUOffline](https://download.wsusoffline.net/) - Offline Windows Updates
 * [WUReset](https://wureset.com/) - Reset Windows Update Components
+* [UUP Dump](https://uupdump.net/) - Download Unified Update Platform Files
+* [UUPMediaCreator](https://github.com/gus33000/UUPMediaCreator) - Convert Update Platform Files to Windows Media Files
 * [StreamPi](https://stream-pi.com/) or [FreeDeck](https://github.com/FreeYourStream/freedeck-hardware) - ElGato Streamdeck Alternative
 * [Pinn](https://github.com/procount/pinn) - Rasberry Pi OS Installer
 * [Raspberry Pi 4 Bootloader USB Mass Storage Boot Guide](https://jamesachambers.com/new-raspberry-pi-4-bootloader-usb-network-boot-guide/) - How-to Boot Raspberry Pi from USB
@@ -1715,7 +1717,6 @@
 * [KeebTalk](https://www.keebtalk.com/) - Keyboard Forums
 * [DreyMaR's](https://dreymar.colemak.org/) - Keyboard Tips and Resources
 * [Keyboard University](https://keyboard.university/) or [KDB](http://xahlee.info/kbd/keyboarding.html) - Mechanical Keyboard Building Guides
-* [NeatMouse](https://neatdecisions.com/products/neatmouse/) - Mouse / Keyboard Emulator
 * [Keyboard Simulator](https://keyboardsimulator.xyz/) - Design & Test Virtual Keyboards
 * [X-Mouse Button Control](https://www.highrez.co.uk/downloads/XMouseButtonControl.htm) - Re-Map Mouse Buttons / Scroll Wheel
 * [SharpKeys](https://github.com/randyrants/sharpkeys/), [Vial](https://github.com/vial-kb/vial-gui), [Ergogen](https://ergogen.xyz/) or [Persistence](https://github.com/NtQuerySystemInformation/CustomKeyboardLayoutPersistence) - Custom Keyboard Layouts
@@ -1769,7 +1770,7 @@
 
 * 🌐 **[Awesome Ricing](https://github.com/fosslife/awesome-ricing)** or [Windows-Ricing](https://github.com/winthemers/wiki) - Windows Ricing Resources
 * ↪️ **[Wallpaper Sites / Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_wallpapers)**
-* ⭐ **[Rainmeter](https://www.rainmeter.net/)** - Desktop Customization / [Skins](https://github.com/khanhas/MagickMeter), [2](https://visualskins.com/) / [Utilities](https://github.com/Jax-Core), [2](https://www.deviantart.com/jaxoriginals) 
+* ⭐ **[Rainmeter](https://www.rainmeter.net/)** - Desktop Customization / [Skins](https://github.com/khanhas/MagickMeter), [2](https://visualskins.com/) / [Utilities](https://github.com/Jax-Core), [2](https://www.deviantart.com/jaxoriginals) / [Menu Bar / App Launcher](https://www.droptopfour.com/)
 * ⭐ **[Dracula](https://draculatheme.com/)** / [Discord](https://discord.com/invite/yDcFsrYuq9), [Catppuccin](https://github.com/catppuccin) / [Discord](https://discord.gg/r6Mdz5dpFc), [Aura Theme](https://github.com/daltonmenezes/aura-theme) or [theme.park](https://theme-park.dev/) - Custom App Themes
 * ⭐ **[terminal.sexy](https://terminal.sexy/)**, [TerminalSplash](https://terminalsplash.com/), [Solarized](https://ethanschoonover.com/solarized) or [WindowsTerminalThemes](https://windowsterminalthemes.dev/) - Terminal Themes
 * ⭐ **[WLED](https://kno.wled.ge/)**, [OpenRGB](https://openrgb.org/), [SignalRGB](https://www.signalrgb.com/), [LiquidCTL](https://github.com/liquidctl/liquidctl), [Artemis](https://artemis-rgb.com/), [RBGSync](https://rgbsync.com/), [FireLight](https://github.com/nicolasdeory/firelight) or [Aurora](https://github.com/antonpup/Aurora) - Lighting Control / [GitLab](https://gitlab.com/CalcProgrammer1/OpenRGB)
@@ -1957,7 +1958,6 @@
 * [ConvertCSV](https://www.convertcsv.com/) - CSV Data Conversion
 * [Encoding Converter](https://encoding-converter.netlify.app/) - File Encoding Converter
 * [Deark](https://entropymine.com/deark/) - Decode and Convert Files / [GitHub](https://github.com/jsummers/deark)
-* [UUPMediaCreator](https://github.com/gus33000/UUPMediaCreator) - Convert Update Platform Files to Windows Media Files
 * [FileInfo](https://fileinfo.com/), [File-Extensions.info](https://file-extensions.info/) or [File-Extensions](https://www.file-extensions.org/) - File Extension Library
 * [download](https://github.com/kevva/download) - File Download Tool / Extractor / [CLI](https://github.com/kevva/download-cli)
 * [Organize](https://github.com/tfeldmann/organize) - Automated File Manager
@@ -1972,7 +1972,6 @@
 * [WhatsLink](https://whatslink.info/) - View File Download Metadata
 * [Air Live Drive](https://www.airlivedrive.com/en/) - Mount Cloud Drives as Local Disks
 * [SFTPDrive](https://www.nsoftware.com/sftpdrive) - Mount SFTP Servers as Local Disks
-* [PDF Host](https://pdfhost.io/) - Upload, Store and Share PDF Files 
 * [PDFGrep](https://pdfgrep.org/) - PDF Text Search
 * [invert-pdf.club](https://invert-pdf.club/) - Invert PDF Color / [Github](https://github.com/keotl/invert-pdf)
 * [invert-pdf.club](https://invert-pdf.club/) - PDF Color Inverter
@@ -2123,7 +2122,6 @@
 * [CollabVM](https://computernewb.com/collab-vm/) - Online Virtual Machines
 * [Virtual PC](https://www.microsoft.com/en-us/download/details.aspx?id=3243) - Windows XP Virtual Machine
 * [windows95](https://github.com/felixrieseberg/windows95) - Windows 95 in Electron
-* [VMWare](https://gist.github.com/rkennesson/2c4595bf062aaab387dccf1210accf98) - Hide Virtual Machine
 * [QuickEmu](https://github.com/quickemu-project/quickemu) or [Dexpot](https://www.dexpot.de/) - Virtual Machine Creator
 * [vBoxSysInfoMod](https://github.com/JayMontana36/vBoxSysInfoMod) - Modify VM System Info
 * [Blink](https://github.com/jart/blink) - Linux Emulator for Windows
