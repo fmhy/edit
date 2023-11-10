@@ -1113,7 +1113,7 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://70.88.180.169:8
 
 ## Graphic Design Tools
 
-* [CanvaPro365](https://t.me/canvapro365free) - Canva Pro Free
+* [CanvaPro365](https://t.me/canvapro365free or [sharecanvaprofree](https://t.me/sharecanvaprofree) - Free Canva Pro Telegram Channels
 
 [Design Cap](https://www.designcap.com/), [lunacy](https://icons8.com/lunacy), [Desygner](https://desygner.com/), [Canva](https://www.canva.com/), [Stencil](https://getstencil.com/), [Design Studio](https://designstudio.smallseotools.com/), [Snappa](https://snappa.com/), [FotoJet](https://www.fotojet.com/), [Emaze](https://www.emaze.com/), [ArtBoard](https://artboard.studio/), [Venngage](https://venngage.com/), [VistaCreate](https://create.vista.com/), [PosterMyWall](https://www.postermywall.com/), [Pixelied](https://pixelied.com/), [blush]( https://blush.design/)
 
@@ -1181,8 +1181,10 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://70.88.180.169:8
 
 ### Editing Software
 
-* ⭐ **[Gimp](https://www.gimp.org/)**, [2](https://github.com/cttynul/gimpshop-reloaded) / [Photoshop UI](https://github.com/Diolinux/PhotoGIMP)
+* ⭐ **[Gimp](https://www.gimp.org/)**, [2](https://github.com/cttynul/gimpshop-reloaded)
+* ⭐ **Gimp Tools** - [Photoshop UI](https://github.com/Diolinux/PhotoGIMP) / [Texture Synthesizer](https://github.com/bootchk/resynthesizer) / [Batch Editor](https://github.com/alessandrofrancesconi/gimp-plugin-bimp)
 * [DragGAN](https://github.com/XingangPan/DragGAN) - AI Image Editor
+* [UFRaw](https://ufraw.sourceforge.net/) - Raw Image Editor
 
 [PhotoDemon](https://github.com/tannerhelland/PhotoDemon), [Paint.net](https://www.getpaint.net/index.html), [PhotoFiltre](https://www.photofiltre-studio.com/), [Polarr](https://www.polarr.com/), [ImageMagick](https://imagemagick.org/index.php) / [Scripts](https://www.fmwconcepts.com/imagemagick/index.php), [Pinta Project](https://www.pinta-project.com/), [RawTherapee](https://rawtherapee.com/), [Luna Paint](https://marketplace.visualstudio.com/items?itemName=Tyriar.luna-paint) (VS Code), [Gimel Studio](https://gimelstudio.github.io/), [MagickUtils](https://github.com/n00mkrad/magick-utils)
 
@@ -1237,6 +1239,7 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://70.88.180.169:8
 
 * ⭐ **[IrfanView](https://www.irfanview.com/)**
 * ⭐ **[JPEGView](https://github.com/sylikc/jpegview)**
+* [HDRView](https://github.com/wkjarosz/hdrview) - HDR Image Viewer
 
 [qimgv](https://github.com/easymodo/qimgv), [ImageGlass](https://imageglass.org/), [PhotoQt](https://github.com/luspi/photoqt), [PicView](https://github.com/Ruben2776/PicView), [Image Eye](https://www.fmjsoft.com/imageeye.html), [qView](https://interversehq.com/qview/), [Quick Picture Viewer](https://moduleart.github.io/quick-picture-viewer/) / [Git](https://github.com/ModuleArt/quick-picture-viewer), [Fragment](https://www.fragmentapp.info/), [qView](https://github.com/jurplel/qView), [HoneyView](https://en.bandisoft.com/honeyview/), [Visum](https://apps.microsoft.com/store/detail/visum-photo-viewer/9N1X3Z50BLM8)
 
@@ -1246,7 +1249,7 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://70.88.180.169:8
 * ⭐ **[XnView MP](https://www.xnview.com/en/xnviewmp/)**
 * ⭐ **[Cryptee](https://crypt.ee/)** - Encrypted Image Gallery
 
-[CloudImage](https://www.cloudimage.io/), [imagga](https://imagga.com/), [kraken](https://kraken.io/), [cloudinary](https://cloudinary.com/), [tiny.pictures](https://tiny.pictures/), [zara4](https://zara4.com/), [RawTherapee](https://www.rawtherapee.com/), [picturama](https://picturama.github.io/), [Piwigo](https://piwigo.org/), [Photonix](https://photonix.org/), [PiGallery2](https://bpatrik.github.io/pigallery2/), [Immich](https://github.com/immich-app/immich), [narrative](https://narrative.so/), [ImageWorsener](https://entropymine.com/imageworsener/)
+[CloudImage](https://www.cloudimage.io/), [imagga](https://imagga.com/), [kraken](https://kraken.io/), [cloudinary](https://cloudinary.com/), [tiny.pictures](https://tiny.pictures/), [zara4](https://zara4.com/), [RawTherapee](https://www.rawtherapee.com/), [picturama](https://picturama.github.io/), [Piwigo](https://piwigo.org/), [Photonix](https://photonix.org/), [PiGallery2](https://bpatrik.github.io/pigallery2/), [Immich](https://github.com/immich-app/immich), [narrative](https://narrative.so/), [ImageWorsener](https://entropymine.com/imageworsener/), [G'MIC](https://gmic.eu/)
 
 ***
 
@@ -1389,7 +1392,7 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://70.88.180.169:8
 ## Live Stream Managers
 
 * ⭐ **[OBS](https://obsproject.com/)**
-* ⭐ **OBS Tools** - [Virtual Cam](https://obsproject.com/forum/resources/obs-virtualcam.949/) / [Tweaks](https://discord.gg/CTT) / [Effects](https://github.com/Xaymar/obs-StreamFX) / [Phone Controller](https://github.com/Kounex/obs_blade) / [WebRTC Server](https://github.com/GRVYDEV/Project-Lightspeed)
+* ⭐ **OBS Tools** - [Virtual Cam](https://obsproject.com/forum/resources/obs-virtualcam.949/) / [Tweaks](https://discord.gg/CTT) / [Effects](https://github.com/Xaymar/obs-StreamFX) / [Background Remover](https://github.com/occ-ai/obs-backgroundremoval) / [Phone Controller](https://github.com/Kounex/obs_blade) / [WebRTC Server](https://github.com/GRVYDEV/Project-Lightspeed)
 
 [Streamlabs-OBS](https://github.com/stream-labs/desktop), [SteamLabs](https://streamlabs.com/), [Restream](https://restream.io/), [Twitch Studio](https://www.twitch.tv/broadcast/studio), [FBX](https://fbx.gg/), [XSplit](https://www.xsplit.com/), [TwitchChat](https://twitchat.fr/)
 
@@ -2978,7 +2981,7 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://70.88.180.169:8
 * [MoviePy](https://zulko.github.io/moviepy/) - Python
 * [Windows Movie Maker](https://www.majorgeeks.com/files/details/windows_movie_maker.html) / [2](https://archive.org/details/mm26enu_202002) / [3](https://archive.org/details/MM2.1And2.6_201903)
 
-[Olive](https://www.olivevideoeditor.org/), [VirtualDub2](https://sourceforge.net/projects/vdfiltermod/), [LosslessCut](https://github.com/mifi/lossless-cut), [EZVid](https://www.ezvid.com/), [OpenShot](https://www.openshot.org/), [kdenlive](https://kdenlive.org/en/), [Lightworks](https://lwks.com/), [VSDC](https://www.videosoftdev.com/), [avidemux](https://avidemux.sourceforge.net/)
+[Olive](https://www.olivevideoeditor.org/), [VirtualDub2](https://sourceforge.net/projects/vdfiltermod/), [LosslessCut](https://github.com/mifi/lossless-cut), [EZVid](https://www.ezvid.com/), [OpenShot](https://www.openshot.org/), [kdenlive](https://kdenlive.org/en/), [Lightworks](https://lwks.com/), [VSDC](https://www.videosoftdev.com/), [avidemux](https://avidemux.sourceforge.net/), [Pitivi](https://www.pitivi.org/) / [GitLab](https://gitlab.gnome.org/GNOME/pitivi)
 
 ### Online Editors
 
