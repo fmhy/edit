@@ -301,7 +301,6 @@
 * 🌐 **[Awesome list of secrets in environment variables](https://github.com/Puliczek/awesome-list-of-secrets-in-environment-variables)** - Environment Variables Secrets 
 * ↪️ **[Website Creators](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_website_creators)**
 * ↪️ **[Multiple IP / Network Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_ip_.2F_network_tools)**
-* ↪️ **[Search Engine Optimization](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_seo_tools)**
 * ↪️ **[Archive / Scrape / Crawl Webpages](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_web_scraping_.2F_archiving_tools)** 
 * [Website Planet Tools](https://www.websiteplanet.com/webtools/), [Webdesign Assistant](https://webdesign-assistant.com/), [xWebTools](https://www.xwebtools.com/), [Tiny Helpers](https://tiny-helpers.dev/), [ToolCool](https://toolcool.org/) or [CSSAuthor](https://cssauthor.com/) - Site Development Tools
 * [Grav](https://getgrav.org/) - Flat-File CMS
