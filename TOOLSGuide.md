@@ -209,42 +209,29 @@
 * [VideoSmaller](https://www.videosmaller.com/), [Compress Video Online](https://compress-video-online.com/), [8mb.video](https://8mb.video/) or [MP4Compress](https://www.mp4compress.com/) - Video Compressors
 * [kmttg](https://www.videohelp.com/software/kmttg) - TivoToGo Download Manager
 * [How-to Rip Videos from Amazon](https://web.archive.org/web/20210102125108/https://www.reddit.com/r/Piracy/comments/kmodia/improved_text_video_tutorial_on_how_to_rip_from/)
-* [How to Rip Videos from Disney+](https://redd.it/ncyxzx)
 * [Chat-Downloader](https://github.com/xenova/chat-downloader) - Retrieve Chat Messages from Livestreams
-* [DJV](https://darbyjohnston.github.io/DJV/) - Professional Video Review Player
 * [Swivel](https://www.newgrounds.com/wiki/creator-resources/flash-resources/swivel) - SWF to Video Converter
 * [MotionFactory](https://www.motionfactory.io/) - Video Editing Workflow Manager
-* [ppInk](https://github.com/PubPub-zz/ppInk/), [glnk](https://github.com/geovens/gInk), [Annotate Screen](https://annotatescreen.com/), [Live Draw](https://github.com/antfu/live-draw) or [Pensela](https://github.com/weiameili/Pensela) - Screen Annotation
-* [dart_vlc](https://github.com/alexmercerind/dart_vlc) - Video Recording / Streaming
+* [ppInk](https://github.com/PubPub-zz/ppInk/), [glnk](https://github.com/geovens/gInk), [Annotate Screen](https://annotatescreen.com/) or [Live Draw](https://github.com/antfu/live-draw) - Screen Annotation
 * [Shinobi](https://shinobi.video/) - Network Video Recorder
 * [MythTV](https://www.mythtv.org/) - Digital Video Recorder (DVR)
-* [OtomadHelper](https://github.com/otomad/OtomadHelper) - Otomad Helper Script for Vegas Pro
-* [OM_Midi](https://github.com/otomad/om_midi) - Otomad/YTPMV Script for After Effects
 * [VDO.Ninja](https://vdo.ninja/) - Remote Camera Video Production
 * [Stream Elements](https://streamelements.com/) - Streaming Service Manager
-* [LiveStreamDVR](https://github.com/MrBrax/LiveStreamDVR) / [Display Chat](https://github.com/MrBrax/twitch-vod-chat), [LiveRecord](https://github.com/lovezzzxxx/liverecord) - Live Stream Recorders
-* [LiveMonitor](https://github.com/lovezzzxxx/livemonitor) - Live Stream Detection
+* [LiveStreamDVR](https://github.com/MrBrax/LiveStreamDVR) / [Display Chat](https://github.com/MrBrax/twitch-vod-chat)- Live Stream Recorders
 * [real-url](https://github.com/wbt5/real-url) - Copy Live Stream URLs
 * [StreamerFreebies](https://streamerfreebies.com/) - Free Streamer Resources
 * [Owncast](https://owncast.online/) or [OpenStreamingPlatform](https://openstreamingplatform.com/) - Self-Hosted Live Streaming 
-* [WatchVideoByLink](https://github.com/MohamedBakoush/WatchVideoByLink) - Video URL Manager
 * [WDFlat](https://www.wdflat.com/) - Stream Elements
 * [Strem](https://github.com/strem-app/strem) - Stream Automation
-* [Streamon](https://getstreamon.com/) - Stream to Instagram from PC / [GitHub](https://github.com/haxzie/instagram-live-streamer)
 * [VTuber Kit](https://kyuppin.itch.io/vtuber-kit) or [Vtube Studio](https://denchisoft.com/) - VTuber Apps
 * [Kalidoface 3D](https://3d.kalidoface.com/), [VRoid](https://vroid.com/en/studio), [Animaze](https://www.animaze.us/), [TransTube](https://girkovarpa.itch.io/transtube) or [Gazo Tuber](https://risunz.itch.io/gazo-tuber) - VTuber Characters
 * [avatarify-python](https://github.com/alievk/avatarify-python) or [veadotube](https://olmewe.itch.io/veadotube-mini) - Video Call Avatars
 * [screengif](https://github.com/dergachev/screengif), [gifcap](https://gifcap.dev/) / [GitHub](https://github.com/joaomoreno/gifcap) or [licecap](https://www.cockos.com/licecap/) - Turn Screencasts into GIFs
-* [tldv](https://tldv.io/), [ZoomRec](https://github.com/kastldratza/zoomrec) or [ZoomDL](https://github.com/Battleman/zoomdl) - Record Google Meets / Zoom Calls
-* [GifW00t](https://github.com/yaronn/GifW00t) - Javascript Web Recorder
-* [Jupitrr](https://jupitrr.com/) - Create Videos from Voice Recordings
+* [tldv](https://tldv.io/) or [ZoomRec](https://github.com/kastldratza/zoomrec) - Record Google Meets / Zoom Calls
 * [PseudoTV](https://github.com/DEFENDORe/pseudotv) - Create TV Channels using Plex Library
-* [Loom](https://www.loom.com/) - Send Quick Videos
-* [Greety](https://greety.co/) - Send Video Christmas Cards
 * [Avidemux](http://fixounet.free.fr/avidemux/) - Cut / Filter / Encode
-* [Dovi Tool](https://github.com/quietvoid/dovi_tool) - Dolby Vision Tool
 * [DDVT](https://forum.doom9.org/showthread.php?t=183479) - Dolby Vision RPU Demuxing / Injecting / Editing
-* [ShortApp](https://shortsapp.com/), [mpv-cut](https://github.com/f0e/mpv-cut), [vidcutter](https://github.com/ozmartian/vidcutter), [The Trimmer Bot](https://t.me/The_Trimmer_bot) - Cut / Trim Videos 
+* [vidcutter](https://github.com/ozmartian/vidcutter) - Cut / Trim Videos 
 * [Crop Video](https://crop-video.com/) - Crop Videos
 * [LoopVid](https://loopvid.kastden.org/) - Loop Videos
 * [WeGreyScale](https://www.wegrayscale.com/) - Greyscale Videos / Images
@@ -258,9 +245,8 @@
 * [MergeMP4](https://maple3142.github.io/mergemp4/) - Merge MP4 Video & Audio
 * [VidLouder](https://www.videolouder.com/) - Increase Video Volume
 * [Paper2GUI](https://github.com/Baiyuetribe/paper2gui/blob/main/README_en.md) - AI Video Toolbox
-* [text2video](https://github.com/kabachuha/sd-webui-text2video), [Make A Vid](https://huggingface.co/spaces/TempoFunk/makeavid-sd-jax), [Text To Video Synthesis Colab](https://github.com/camenduru/text-to-video-synthesis-colab), [text-to-video](https://text-to-video.vercel.app), [Text2Video-Zero](https://github.com/Picsart-AI-Research/Text2Video-Zero), [LensGo](https://lensgo.ai/), [Pika Labs](https://www.pika.art/) or [Damo](https://huggingface.co/spaces/damo-vilab/modelscope-text-to-video-synthesis) - Text to Video AIs
-* [TXT-2-IMG-2-MUSIC](https://huggingface.co/spaces/DGSpitzer/TXT-2-IMG-2-MUSIC-2-VIDEO-w-RIFFUSION) - Text to Image to Music to Video
-* [Video Cleaner](https://videocleaner.com/) or [Video Enhance AI](https://www.topazlabs.com/topaz-video-ai) - Video Enhancement Tool 
+* [Text To Video Synthesis Colab](https://github.com/camenduru/text-to-video-synthesis-colab), [text-to-video](https://text-to-video.vercel.app), [Text2Video-Zero](https://github.com/Picsart-AI-Research/Text2Video-Zero), [LensGo](https://lensgo.ai/), [Pika Labs](https://www.pika.art/) or [Damo](https://huggingface.co/spaces/damo-vilab/modelscope-text-to-video-synthesis) - Text to Video AIs
+* [Video Enhance AI](https://www.topazlabs.com/topaz-video-ai) - Video Enhancement Tool 
 * [Flowframes](https://nmkd.itch.io/flowframes) / [Beta](https://kemono.party/patreon/user/19695417), [fpska](https://github.com/andreiyv/fpska) or [SVP](https://www.svp-team.com/) - Video Interpolation / Increase FPS
 * [Creator Resources](https://www.newgrounds.com/wiki/creator-resources/) - Art & Animation Resource Index
 * [OpenToonz](https://opentoonz.github.io/e/), [Wick Editor](https://www.wickeditor.com/editor/), [Clipnote Studio](https://calcium-chan.itch.io/clipnote) or [Pencil2D](https://www.pencil2d.org/) - Animation Tools
@@ -301,7 +287,6 @@
 * [hdr10plus_tool](https://github.com/quietvoid/hdr10plus_tool) - HDR10+ CLI Utility
 * [Monzoom](https://www.monzoom.com/) - Video Assets
 * [MovieTools](https://movietools.info/) - Video Backgrounds
-* [Unscreen](https://www.unscreen.com/) or [Remove Video Background](https://socialbook.io/remove-video-background) - Remove Video Background
 * [Source Filmmaker](https://store.steampowered.com/app/1840/Source_Filmmaker/) - Steam Movie-Making Tool / [Resources](https://sfmlab.com/)
 * [HTML5 video player enhanced script](https://greasyfork.org/en/scripts/381682-html5)
 * [Plyr](https://plyr.io/) - Online HTML5, YouTube and Vimeo Player / [GitHub](https://github.com/sampotts/plyr)
@@ -322,9 +307,8 @@
 * [VideoMail](https://www.videomail.io/) - Webcam to Email Tool
 * [VCam](https://www.xsplit.com/vcam) - Remove Webcam Background
 * [NVIDIA BROADCAST](https://www.nvidia.com/en-us/geforce/broadcasting/broadcast-app/), [Mini Video Me](https://github.com/maykbrito/mini-video-me) or [Webcamoid](https://webcamoid.github.io/) - Webcam Manager
-* [DeepFaceLive](https://github.com/iperov/DeepFaceLive) - Webcam Face Swap Tool
 * [SimSwap](https://github.com/neuralchen/SimSwap) or [Roop](https://github.com/s0md3v/roop) - Video Face Swap Tools
-* [DeepFaceLab](https://github.com/iperov/DeepFaceLab), [Wav2Lip](https://colab.research.google.com/drive/1IjFW1cLevs6Ouyu4Yht4mnR4yeuMqO7Y#scrollTo=MH1m608OymLH) or [Thin-Plate Spline](https://github.com/yoyo-nb/Thin-Plate-Spline-Motion-Model) - Deepfake Video Creators
+* [Wav2Lip](https://colab.research.google.com/drive/1IjFW1cLevs6Ouyu4Yht4mnR4yeuMqO7Y#scrollTo=MH1m608OymLH) or [Thin-Plate Spline](https://github.com/yoyo-nb/Thin-Plate-Spline-Motion-Model) - Deepfake Video Creators
 * [deepware](https://scanner.deepware.ai/) - Detect Deepfake Videos
 * [Air Pi Play](https://github.com/rahul-thakoor/balena-rpiplay) - Rasberry Pi Screen Sharing
 * [4K Media](https://4kmedia.org/) - Free 4K Video Demos
@@ -360,7 +344,6 @@
 * ⭐ **[Whisper](https://github.com/openai/whisper)** or [Vosk](https://github.com/alphacep/vosk-api) - Speech Recognition
 * ⭐ **[Comparison of Audio Compression](https://nigelcoldwell.co.uk/audio/)** - Audio Compression Examples
 * [AccurateRip](http://www.accuraterip.com/) - Verify Ripped Tracks are Error Free
-* [Free-Codecs](https://www.free-codecs.com/) - Codec Packs & Multimedia Tools
 * [Thirtydollar.website](https://thirtydollar.website/) - Meme Sound Maker
 * [SNES Soundfonts](https://www.williamkage.com/snes_soundfonts/) - SNES Soundfonts
 * [Songwhip](https://songwhip.com/) - Find / Share Your Music on All Platforms
@@ -370,53 +353,37 @@
 * [FlsAudio](https://flsaudio.com/en/gb/) - FLStudio Samples / Presets / Plugins
 * [DKL](https://discord.com/invite/69zpb6XH8f) or [Producerwav](https://producerwav.com/free/) - Drum Kits
 * [MilkyTracker](https://milkytracker.org/) - .MOD & .XM Module Creator
-* [GoAudio](https://www.goaudio.cc/) / [2](https://goaudio.me/), [RKHive](https://rkhive.com/), [Sounds MP3](https://allsoundsaround.com/) or [SamplesTorrent](https://samplestorrent.com/) - Audio Samples
+* [GoAudio](https://www.goaudio.cc/) / [2](https://goaudio.me/), [RKHive](https://rkhive.com/), [SamplesTorrent](https://samplestorrent.com/) - Audio Samples
 * [AudioStellar](https://audiostellar.xyz/) - AI Powered Audio Sampling
 * [AirWindows](https://www.airwindows.com/) - Reverbs / Equalizers / Plugins
 * [Music Learning Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu#wiki_.25BA_music_learning) - Learn How to Play Music
 * [Jukebox](https://jukebox.today/) - Music Sync / Listening Parties
-* [Whyp](https://whyp.it/) - Audio Host
 * [Aux](https://aux.app/) - Audio Project Host
 * [Audiocheck](https://www.audiocheck.net/) - Audio Tests 
 * [Online Mic Test](https://onlinemictest.com/), [Mic Tests](https://mictests.com/) or [Check Mic](https://webcammictest.com/check-mic.html) - Mic Test
 * [Sound Meter](https://mybrowseraddon.com/sound-meter.html) - Measure Surrounding Sound Level
 * [SoundSwitch](https://soundswitch.aaflalo.me/) - Switch Playback or Recording Device with Hotkey / [GitHub](https://github.com/Belphemur/SoundSwitch)
-* [Ultimate Realtek HD Audio Driver Mod](https://github.com/nbats/FMHYedit/blob/main/base64.md#ultimate-realtek-hd-audio-driver-mod) or [Realtek-UAD-generic](https://github.com/pal1000/Realtek-UAD-generic) - Realtek Audio Driver
 * [ASIO4ALL](https://asio4all.org/) - ASIO Audio Driver
 * [FXSound](https://www.fxsound.com/) - Sound Booster & Equalizer
-* [HeSuVi](https://sourceforge.net/projects/hesuvi/) - Headphone Surround Virtualizations
-* [REAL](https://github.com/miniant-git/REAL) - Reduce Win 10 Audio Latency
 * [easyeffects](https://github.com/wwmm/easyeffects) - Audio Manipulation for PipeWire
 * [DigitalFeed](https://abx.digitalfeed.net/) - Lossless Audio Sound System Test
-* [VCV Rack](https://vcvrack.com/) - Eurorack Simulator
-* [Cable](https://vb-audio.com/Cable/) - Virtual Audio Cable
 * [Sunamu](https://github.com/NyaomiDEV/Sunamu) - Now Playing Songs Display
 * [EXP Soundboard](https://sourceforge.net/projects/expsoundboard/), [Soundux](https://soundux.rocks/) / [GitHub](https://github.com/Soundux/Soundux) or [Resanance](https://resanance.com/) - Soundboard Program
 * [MyInstants](https://www.myinstants.com/index/us/), [Blerp](https://blerp.com/), [InternetsFun](https://instantsfun.es/), [101soundboards](https://www.101soundboards.com/) or [Soundboard.com](https://www.soundboard.com/) - Online Soundboards
-* [Soundpad](https://www.leppsoft.com/soundpad/) - Voicechat Soundboard
 * [TimeStetch](https://29a.ch/timestretch/) - Web Music Player
-* [iPod.js](https://tannerv.com/ipod/) - iPod Themed Web Music Player
 * [Gelli](https://github.com/dkanada/gelli) - Jellyfin Music Player 
 * [Sonixd](https://github.com/jeffvli/sonixd) - Subsonic/Jellyfin Compatible Desktop Music Player
-* [HZP](https://hzp.co/) - Solfeggio Frequency Player
-* [OpusPlayer](https://www.opusplayer.net/) - WhatsApp File Player
-* [Butterchurn Visualizer](https://butterchurnviz.com/), [Sonic Visualizer](https://www.sonicvisualiser.org/), [MusicVid](https://musicvid.org/), [Project M](https://github.com/projectM-visualizer/projectm), [Vizzy](https://vizzy.io/), [CatNip](https://github.com/noriah/catnip) or [Specterr](https://specterr.com/) - Audio Visualizers
+* [Butterchurn Visualizer](https://butterchurnviz.com/), [MusicVid](https://musicvid.org/), [Vizzy](https://vizzy.io/) or [CatNip](https://github.com/noriah/catnip) - Audio Visualizers
 * [PartyEngine](https://aggrocrab.itch.io/partyengine) - Audio Party Visualizer 
-* [brahms](https://github.com/Wulfheart/brahms) - MIDI Audio Visualizer 
 * [yt2pod](https://github.com/frou/yt2pod) - Create Podcasts from YouTube Channels 
 * [Deemixrr](https://github.com/TheUltimateC0der/Deemixrr) - Automated Music Manager 
-* [Arduino Audio Tools](https://github.com/pschatzmann/arduino-audio-tools) - Audio Recorder
 * [LED FX](https://www.ledfx.app/) - LED Music Sync
 * [SoundSync](https://soundsync.app/) or [SnapCast](https://github.com/badaix/snapcast) - Sound System Sync
 * [SonoBus](https://sonobus.net/) - Audio Server for Streaming
-* [Scream](https://github.com/duncanthrax/scream) - Virtual Network Sound Card
-* [Faasoft FLAC Converter](https://www.faasoft.com/articles/flac-converter-mac-and-windows.html) - FLAC Converter
-* [FLAC Frontend](https://flacfrontend.sourceforge.net/) - FLAC Tools 
 * [Webamp](https://webamp.org/) - Winamp in Browser 
 * [Winamp Skin Museum](https://skins.webamp.org/) - Skins for Winamp / Webamp
 * [Mod Archive](https://modarchive.org/) - Audio Modules
-* [Mixxx](https://mixxx.org/), [rekordbox](https://rekordbox.com/en/) or [Serato](https://serato.com/) - DJ Software 
-* [Repetito](https://repetito.com/) - Multichannel Looper
+* [Mixxx](https://mixxx.org/) or [Serato](https://serato.com/) - DJ Software 
 * [MoFi](https://mofi.loud.red/) - Create Audio Loops
 * [MP3Louder](https://mp3louder.com/) - Increase MP3 Volume
 * [Chrome Song Maker](https://musiclab.chromeexperiments.com/Song-Maker/), [Bosca Ceoil](https://terrycavanagh.itch.io/bosca-ceoil), [AdventureMachine](https://adventuremachine.4thfloorcreative.co.uk//) or [Strofe](https://www.strofe.com/) - Simple Audio Creators
@@ -1946,7 +1913,7 @@
 * ⭐ **[SA Drive](https://github.com/jsmsj/sa-drive/)** - Service Account Drive Manager
 * ⭐ **[OneClickRun](https://colab.research.google.com/github/biplobsd/OneClickRun/blob/master/OneClickRun.ipynb)** or [MiXLab](https://github.com/shirooo39/MiXLab) - Google Drive Tools Colab / [GitHub](https://github.com/biplobsd/OneClickRun) / [Features](https://i.ibb.co/BfF3djW/f0ab560a3aef.png) / Use Throwaways
 * ⭐ **[Mega-to-Google-Drive](https://github.com/menukaonline/Mega-to-Google-Drive)** - Transfer Files from Mega to GDrive
-* ⭐ **[megabasterd](https://github.com/tonikelope/megabasterd)** - MEGA Quota Bypass / [Proxies](https://rentry.co/megaproxies) / [Guides](https://www.notion.so/Bypass-MEGA-Download-Quota-limit-4ecfa9ca89f94079b849e00db3373ecd?pvs=4)
+* ⭐ **[megabasterd](https://github.com/tonikelope/megabasterd)** - MEGA Quota Bypass / [Guides](https://www.notion.so/Bypass-MEGA-Download-Quota-limit-4ecfa9ca89f94079b849e00db3373ecd?pvs=4)
 * ⭐ **[OpenWith](https://www.openwith.org/)**, [OpenMyFiles](https://www.openmyfiles.com/), [OpenFile](https://www.openfile.me/) or [File.org](https://file.org/) - How-to Open Any File Types
 * ⭐ **[SaveLocation](https://savelocation.net/)** - Find Software / Game Save Locations
 * ⭐ **[Cyberduck](https://cyberduck.io/)** - Libre Server / Cloud Storage Browser
