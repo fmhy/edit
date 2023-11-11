@@ -554,8 +554,8 @@
 * ↪️ **[General DDL Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/download)**
 * ↪️ **[Video Download Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/tools-misc#wiki_.25B7_video_tools)**
 * ⭐ **[OlaMovies](https://olamovies.homes/)** - Movies / TV / 4K / 1080p / [Telegram](https://t.me/olamovies_official_v3)
-* ⭐ **[Pahe](https://pahe.li/)** - Movies / TV / Anime / 4K / [Discord](https://discord.gg/4AvaCsd2J4) / [Telegram](https://t.me/ppaahhee) / [Scrape](https://github.com/roofman2008/Pahe.ph-Scraper) / [Redirect Buttons](https://greasyfork.org/en/scripts/443277)
-* ⭐ **[PSARips](https://psa.wf/)** - Movies / TV / 4K / [Discord](https://discord.gg/4AvaCsd2J4) / [Telegram](https://t.me/ppaahhee) / [Scrape](https://github.com/NandiyaLive/PSALinkGrabber)
+* ⭐ **[Pahe](https://pahe.li/)** - Movies / TV / Anime / 4K / [Discord](https://discord.gg/4AvaCsd2J4) / [Redirect Buttons](https://greasyfork.org/en/scripts/443277)
+* ⭐ **[PSARips](https://psa.wf/)** - Movies / TV / 4K / [Discord](https://discord.gg/4AvaCsd2J4) / [Scrape](https://github.com/NandiyaLive/PSALinkGrabber)
 * ⭐ **[DDLBase](https://ddlbase.net/)** - Movies / TV / 4K
 * ⭐ **[Worlds Cinema](https://worldscinema.org/)** - Classic / Cult Films / 1080p
 * ⭐ **[MovieParadise](https://movieparadise.org/)** - Movies / TV / 1080p / Account Required for 1ficher links / [DM for Invite](https://www.reddit.com/message/compose?to=nbatman)
