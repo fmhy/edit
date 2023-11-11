@@ -4,7 +4,7 @@
 ***
 ***
 
-**[Table of Contents](https://ibb.co/0Qqr79M)** - For mobile users
+**[Table of Contents](https://ibb.co/VYLf1zH)** - For mobile users
 
 ***
 *** 
@@ -227,6 +227,10 @@
 * [Gifski](https://gif.ski/) - GIF Encoder
 * [Among-Us-Dumpy-Gif-Maker](https://dumpy.t1c.dev/) - Make Dumpy Among us GIFs
 * [Crisp GIF Guide](https://imgur.com/gallery/02aYs) - How-To Make 60 FPS GIFs
+
+***
+
+## ▷ [Animation Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/tools-misc#wiki_.25B7_animation_tools)
 
 ***
 
