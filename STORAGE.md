@@ -4,7 +4,7 @@
 ***
 ***
 
-**[Table of Contents](https://ibb.co/JtYGcsB)** - For mobile users
+**[Table of Contents](https://ibb.co/TKq2TTZ)** - For mobile users
 
 ***
 ***
@@ -214,7 +214,7 @@
 * ⭐ **[Audio Quality Check Guide](https://redd.it/3l0yxp)**
 * ⭐ **[Fakin' The Funk?](https://fakinthefunk.net/)**
 
-[Lossless Audio Checker](https://losslessaudiochecker.com/), [Spek](https://spek.cc/), [DFT](https://webfft.net/dft/), [Friture](https://friture.org/), [Spectro](http://spectro.enpts.com/)
+[Lossless Audio Checker](https://losslessaudiochecker.com/), [Spek](https://spek.cc/), [DFT](https://webfft.net/dft/), [Friture](https://friture.org/), [Spectro](http://spectro.enpts.com/), [Sonic Visualizer](https://www.sonicvisualiser.org/)
 
 ***
 
@@ -1289,13 +1289,6 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://70.88.180.169:8
 
 ***
 
-## IRC Book Sites
-
-* irc://irc.undernet.org/bookz
-* irc://irc.irchighway.net/ebooks / [Request Guide](https://i.ibb.co/3WcCF56/3574e36b1bb2.png)
-
-***
-
 ## Jigsaw Puzzles
 
 * ⭐ **[jiggie](https://jiggie.fun/)** - Custom Puzzles + Multiplayer
@@ -1525,12 +1518,6 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://70.88.180.169:8
 * [FreeMCServer](https://freemcserver.net/) - [uBO Filter](https://pastebin.com/C2aiXG8p)
 
 [MineFort](https://minefort.com/), [Minehut](https://minehut.com/), [Aternos](https://aternos.org/), [Cuberite](https://cuberite.org/)
-
-***
-
-## Mouse Gestures
-
-[FoxyGestures (firefox)](https://github.com/marklieberman/foxygestures), [Gesturefy (firefox)](https://github.com/Robbendebiene/Gesturefy), [CrxMouse (chrome)](https://crxmouse.com/), [Simple Gesture (firefox)](https://github.com/utubo/firefox-simple_gesture)
 
 ***
 
@@ -1848,12 +1835,6 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://70.88.180.169:8
 
 ***
 
-## Portable Apps
-
-[PortableApps.com](https://portableapps.com/), [Portapps](https://portapps.io/), [PortableAppZ](https://portableappz.blogspot.com/)
-
-***
-
 ## Presentation Tools
 
 * [Slides](https://maaslalani.com/slides/) / [GitHub](https://github.com/maaslalani/slides) - Terminal Based Presentation Tool
@@ -1890,9 +1871,8 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://70.88.180.169:8
 
 * ⭐ **[Tor Browser](https://www.torproject.org/)** - Onion-Routed Browser / [Directory](https://session.directory/) 
 * ⭐ **[Tor Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_tor_tools)** - Tor Tools / Guides
-* ⭐ **[Librewolf](https://gitlab.com/librewolf-community/browser/windows)** / [2](https://librewolf.net/)
 * ⭐ **[Mullvad Browser](https://mullvad.net/en/browser)**
-* [Otter](https://otter-browser.org/)
+* [Librewolf](https://gitlab.com/librewolf-community/browser/windows) / [2](https://librewolf.net/)
 * [BadWolf](https://hacktivis.me/projects/badwolf)
 * [Brave](https://brave.com/)
 
@@ -2533,15 +2513,6 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://70.88.180.169:8
 
 ***
 
-## Telegram Audiobook Downloads
-
-* https://t.me/AudiobooksArchive
-* https://t.me/Audiobooks_Collection
-* https://t.me/+GV_tJ_U7em04YjU9
-* https://t.me/audiobooks_English
-
-***
-
 ## Telegram Channels / Bots
 
 * ⭐ **[TDirectory](https://tdirectory.me/)**
@@ -2552,15 +2523,6 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://70.88.180.169:8
 ### Bots Only
 
 [ComBot Groups](https://combot.org/top/telegram/groups), [Searchee Bot](https://t.me/SearcheeBot), [BotsArchive](https://t.me/BotsArchive), [awesome-telegram](https://github.com/ebertti/awesome-telegram), [awesome-telegram-bots](https://github.com/DenisIzmaylov/awesome-telegram-bots), [awesome-bots](https://github.com/abdelhai/awesome-bots), [awesome-telegram-groups](https://github.com/stkw0/awesome-telegram-groups), [awesome-telegram](https://github.com/serhii-londar/awesome-telegram), [bots](https://telegramic.org/bots/), [botlist](https://t.me/botlist), [TelegramBotsList](https://danyspin97.github.io/TelegramBotsList/), [bots.php](https://www.qwasap.com/en/bots.php), [/r/TelegramBots](https://www.reddit.com/r/TelegramBots/), [telegram-store](https://telegram-store.com/catalog/bots), [botostore](https://botostore.com/), [borodutch.eth](https://borodutch.com/)
-
-***
-
-## Telegram Deezer Bots
-
-* [Song_downloaderbot](https://t.me/Song_downloaderbot)
-* [DeezerMusicBot](https://t.me/DeezerMusicBot)
-* [DeezloaderAn0n_bot](https://t.me/DeezloaderAn0n_bot)
-* [deezload2bot](https://t.me/deezload2bot)
 
 ***
 
@@ -2890,7 +2852,7 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://70.88.180.169:8
 
 ### Video Player Tools
 
-* MPV Tools - [Scripts](https://github.com/mpv-player/mpv/wiki/User-Scripts) / [Clip Tool](https://github.com/Ajatt-Tools/videoclip) / [WebM Tool](https://github.com/ekisu/mpv-webm) / [Torrent Stream](https://github.com/noctuid/mpv-webtorrent-hook) / [Plugin Manager](https://github.com/Nudin/mplug) / [Frontends](https://github.com/mpv-player/mpv/wiki/Applications-using-mpv) / [Alt UI](https://github.com/cyl0/ModernX), [2](https://github.com/Zren/mpv-osc-tethys), [2](https://github.com/tomasklaen/uosc) / [Context Menu](https://gitlab.com/carmanaught/mpvcontextmenu) / [WebUI Controller](https://github.com/open-dynaMIX/simple-mpv-webui) / [Sub Sync](https://github.com/joaquintorres/autosubsync-mpv) / [SponsorBlock](https://github.com/po5/mpv_sponsorblock), [2](https://codeberg.org/jouni/mpv_sponsorblock_minimal) / [Config Guide](https://iamscum.wordpress.com/guides/videoplayback-guide/mpv-conf/), [2](http://thewiki.moe/tutorials/mpv/ ), [3](https://kokomins.wordpress.com/2019/10/14/), [4](https://hooke007-github-io.translate.goog/unofficial/index.html?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en-US&_x_tr_pto=wapp) / [Play With MPV](https://greasyfork.org/en/scripts/416271), [2](https://github.com/woodruffw/ff2mpv) / [Thumbnails](https://github.com/po5/thumbfast) / [FidelityFX](https://gist.github.com/agyild/82219c545228d70c5604f865ce0b0ce5)
+* MPV Tools - [Scripts](https://github.com/mpv-player/mpv/wiki/User-Scripts) / [Clip Tool](https://github.com/Ajatt-Tools/videoclip), [2](https://github.com/f0e/mpv-cut) / [WebM Tool](https://github.com/ekisu/mpv-webm) / [Torrent Stream](https://github.com/noctuid/mpv-webtorrent-hook) / [Plugin Manager](https://github.com/Nudin/mplug) / [Frontends](https://github.com/mpv-player/mpv/wiki/Applications-using-mpv) / [Alt UI](https://github.com/cyl0/ModernX), [2](https://github.com/Zren/mpv-osc-tethys), [2](https://github.com/tomasklaen/uosc) / [Context Menu](https://gitlab.com/carmanaught/mpvcontextmenu) / [WebUI Controller](https://github.com/open-dynaMIX/simple-mpv-webui) / [Sub Sync](https://github.com/joaquintorres/autosubsync-mpv) / [SponsorBlock](https://github.com/po5/mpv_sponsorblock), [2](https://codeberg.org/jouni/mpv_sponsorblock_minimal) / [Config Guide](https://iamscum.wordpress.com/guides/videoplayback-guide/mpv-conf/), [2](http://thewiki.moe/tutorials/mpv/ ), [3](https://kokomins.wordpress.com/2019/10/14/), [4](https://hooke007-github-io.translate.goog/unofficial/index.html?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en-US&_x_tr_pto=wapp) / [Play With MPV](https://greasyfork.org/en/scripts/416271), [2](https://github.com/woodruffw/ff2mpv) / [Thumbnails](https://github.com/po5/thumbfast) / [FidelityFX](https://gist.github.com/agyild/82219c545228d70c5604f865ce0b0ce5)
 * VLC Tools - [Resources](https://github.com/mfkl/awesome-vlc) / [Sub Downloader](https://github.com/exebetche/vlsub) / [Slow Seek Fix](https://redd.it/os6f1q) / [Skins](https://rentry.co/VLC-skin)
 * [Video Player Codecs](https://www.codecguide.com/download_kl.htm)
 * [Windows Media Player Skins](https://web.archive.org/web/20100827223732/http://windows.microsoft.com/en-US/windows/downloads/windows-media-player/skins?T1=all) / [2](https://wmpskinsarchive.neocities.org/)
