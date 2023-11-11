@@ -603,7 +603,6 @@
 * ↪️ **[Bookmark Managers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_bookmark_managers)**
 * ↪️ **[Tab Managers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_tab_managers)**
 * ↪️ **[Browser Automation](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_automation_tools)**
-* ↪️ **[Mouse Gestures](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_mouse_gestures)**
 * ↪️ **[RSS Feed Readers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_rss_feed_readers)**
 * ↪️ **[Customizable New Tab Page](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_customizable_new_tab_page)**
 * ↪️ **[Archive / Scrape / Crawl Webpages](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_web_scraping_.2F_archiving_tools)**
@@ -758,6 +757,7 @@
 * [Firefox Color](https://color.firefox.com/) or [SwiftTheme](https://addons.mozilla.org/en-US/firefox/addon/swifttheme/) - Custom Firefox Theme Creation
 * [OnelineProton](https://github.com/newmanls/OnelineProton) - Proton Theme for Firefox
 * [Dark Background for Firefox New Tabs](https://fedidat.com/640-dark-newtab-firefox/)
+[FoxyGestures](https://github.com/marklieberman/foxygestures), [Simple Gesture](https://github.com/utubo/firefox-simple_gesture) or [Gesturefy](https://github.com/Robbendebiene/Gesturefy) - Mouse Gestures
 * [Happy Right-Click](https://addons.mozilla.org/en-US/firefox/addon/%E5%BF%AB%E4%B9%90%E5%8F%B3%E9%94%AE/) - Force Enable Right Click
 * [Linkificator](https://addons.mozilla.org/en-US/firefox/addon/linkificator/) - Make Non-Hyperlinked URL's Clickable
 * [Firefox Translations](https://addons.mozilla.org/en-US/firefox/addon/firefox-translations/) - Translator
@@ -821,6 +821,7 @@
 * [Query Side-By-Side](https://chrome.google.com/webstore/detail/double-shot-search-query/kddlkbpbepnaepdleclhdnfdpdogdhop) - Search Google & Bing at the Same Time
 * [SessionBox](https://chrome.google.com/webstore/detail/sessionbox-multi-login-to/megbklhjamjbcafknkgmokldgolkdfig?hl=en) - Multi-Account Login for any Site
 * [Selectable](https://chrome.google.com/webstore/detail/selectable-for-fanfiction/jcidlhgdoojamkbpmhbpgldmajnobefd?ucbcb=1) - Force Enable Select Text
+* [CrxMouse (chrome)](https://crxmouse.com/) - Mouse Gestures
 * [Night Shift Redux](https://nightshift.lu/) - Adapts Display Color to Time of Day
 * [SmoothKeyScroll](https://www.smoothkeyscroll.com/) - Smooth Key Scrolling
 * [Wheel Smooth Scroller](https://chrome.google.com/webstore/detail/chromium-wheel-smooth-scr/khpcanbeojalbkpgpmjpdkjnkfcgfkhb?hl=en) - Smooth Scrolling
