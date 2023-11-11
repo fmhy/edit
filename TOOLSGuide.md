@@ -4,7 +4,7 @@
 ***
 ***
 
-**[Table of Contents](https://ibb.co/Ptvfmzv)** - For mobile users
+**[Table of Contents](https://ibb.co/DMQGZmd)** - For mobile users
 
 ***
 *** 
@@ -248,33 +248,9 @@
 * [Text To Video Synthesis Colab](https://github.com/camenduru/text-to-video-synthesis-colab), [text-to-video](https://text-to-video.vercel.app), [Text2Video-Zero](https://github.com/Picsart-AI-Research/Text2Video-Zero), [LensGo](https://lensgo.ai/), [Pika Labs](https://www.pika.art/) or [Damo](https://huggingface.co/spaces/damo-vilab/modelscope-text-to-video-synthesis) - Text to Video AIs
 * [Video Enhance AI](https://www.topazlabs.com/topaz-video-ai) - Video Enhancement Tool 
 * [Flowframes](https://nmkd.itch.io/flowframes) / [Beta](https://kemono.party/patreon/user/19695417), [fpska](https://github.com/andreiyv/fpska) or [SVP](https://www.svp-team.com/) - Video Interpolation / Increase FPS
-* [Creator Resources](https://www.newgrounds.com/wiki/creator-resources/) - Art & Animation Resource Index
-* [OpenToonz](https://opentoonz.github.io/e/), [Wick Editor](https://www.wickeditor.com/editor/), [Clipnote Studio](https://calcium-chan.itch.io/clipnote) or [Pencil2D](https://www.pencil2d.org/) - Animation Tools
-* [Animaker](https://www.animaker.com/) - Animated Video Creator
-* [cg_tuts](https://t.me/cg_tuts) - CG Tutorials
-* [AMV101](https://www.amv101.com/) - Animated Music Video Making Guides
 * [Blaine's Movie Maker Blog](https://movies.blainesville.com/p/wmm-60-on-windows-7.html) - Windows Movie Maker Tutorials
 * [Kurku](https://app.kurku.tech/) or [FreeMoCap](https://freemocap.org/) - Motion Tracking Tools
 * [VSeeFace](https://www.vseeface.icu/) - Face / Hand Tracking VRM
-* [MoonRay](https://openmoonray.org/), [Unreal Engine](https://www.unrealengine.com/), [cgsoftbox](https://t.me/cgsoftbox), [SketchUp](https://www.sketchup.com/) or [Twinmotion](https://www.twinmotion.com/en-US) - 3D Creation Tools
-* [Mega Scans](https://quixel.com/megascans) - 3D Scans
-* [Mixer](https://quixel.com/mixer) - 3D Texture Creation Tool
-* [PlanetSide](https://planetside.co.uk/) - CG Environment Generator
-* [cgplugdump](https://t.me/cgplugdump) - CG Software Plugins
-* [AnimeEffects](https://github.com/AnimeEffectsDevs/AnimeEffects), [enve](https://maurycyliebner.github.io/), [Expressive](https://www.expressivesuite.com/), [Cavalry](https://cavalry.scenegroup.co/), [TupiTube](https://tupitube.com/) or [Synfig](https://www.synfig.org/) - 2D Animation Tools
-* [Storyboarder](https://wonderunit.com/storyboarder/) - Quickly Visualize & Test Animations / [GitHub](https://github.com/wonderunit/storyboarder) 
-* [Stable Diffusion Videos](https://github.com/nateraw/stable-diffusion-videos) - Create Videos using Stable Diffusion
-* [LuxCoreRender](https://luxcorerender.org/) - Rendering Engine
-* [RenderChan](https://morevnaproject.org/renderchan/) - 2D Animation Render Manager
-* [Mandelbulber](https://mandelbulber.com/) or [FragM](https://github.com/3Dickulus/FragM) - Fractal Rendering Software / [3D](https://mb3d.overwhale.com/)
-* [JWildfire](https://jwildfire.overwhale.com/), [IFSRenderer](https://github.com/bezo97/IFSRenderer) or [Fractorium](http://fractorium.com/) - Flame Fractal Rendering Software
-* [BestSnip](https://bestsnip.com/animation/), [Sketch Machine](https://sketchmachine.net/), [Plask](https://plask.ai/) or [Rive](https://rive.app/) - Online Animation Tools
-* [LibreSprite](https://libresprite.github.io/), [Pixel Compresor](https://makham.itch.io/pixel-composer), [JPixel](https://emad.itch.io/jpixel) or [SpookyGhost](https://encelo.itch.io/spookyghost) - Pixel Art Animation Tools
-* [Mixamo](https://www.mixamo.com/) or [Cascadeur](https://cascadeur.com/) - 3D Character Animation Tools
-* [MMHuman3D](https://github.com/open-mmlab/mmhuman3d) - 3D Human Model Creator
-* [Talking Face Avatar](https://github.com/saba99/Talking_Face_Avatar) - Talking Avatar Generator
-* [NATRON](https://natrongithub.github.io/) - Compositing Software
-* [Blender Open Movies](https://youtube.com/playlist?list=PLav47HAVZMjnTFVZL-aImCQIC0uLZtNCz) - CGI Assets
 * [Lumen5](https://lumen5.com/) or [VideoCreek](https://videocreek.com/) - Video Template Editor
 * [Beatflyer](https://beatflyer.com/) - Video Flyer Generator
 * [MKVCleaver](https://blogs.sapib.ca/apps/mkvcleaver/) - MKVExtract GUI
@@ -314,6 +290,40 @@
 * [4K Media](https://4kmedia.org/) - Free 4K Video Demos
 * [GetWVKeys](https://getwvkeys.cc/) - Send Widevine Requests / [GitHub](https://github.com/GetWVKeys/)
 * [Custom NVIDIA Shield TV](https://www.reddit.com/r/ShieldAndroidTV/comments/o6o5dz/new_guide_use_a_custom_launcher_shield_tv_with/) - Custom NVIDIA Shield TV Launcher
+
+***
+
+## ▷ Animation Tools
+
+* 🌐 **[Creator Resources](https://www.newgrounds.com/wiki/creator-resources/)** - Art & Animation Resource Index
+* [OpenToonz](https://opentoonz.github.io/e/), [Wick Editor](https://www.wickeditor.com/editor/), [Clipnote Studio](https://calcium-chan.itch.io/clipnote) or [Pencil2D](https://www.pencil2d.org/) - Animation Tools
+* [Animaker](https://www.animaker.com/) - Animated Video Creator
+* [cg_tuts](https://t.me/cg_tuts) - CG Tutorials
+* [AMV101](https://www.amv101.com/) - Animated Music Video Making Guides
+* [MoonRay](https://openmoonray.org/), [Unreal Engine](https://www.unrealengine.com/), [cgsoftbox](https://t.me/cgsoftbox), [SketchUp](https://www.sketchup.com/) or [Twinmotion](https://www.twinmotion.com/en-US) - 3D Creation Tools
+* [Mega Scans](https://quixel.com/megascans) - 3D Scans
+* [Mixer](https://quixel.com/mixer) - 3D Texture Creation Tool
+* [PlanetSide](https://planetside.co.uk/) - CG Environment Generator
+* [cgplugdump](https://t.me/cgplugdump) - CG Software Plugins
+* [AnimeEffects](https://github.com/AnimeEffectsDevs/AnimeEffects), [enve](https://maurycyliebner.github.io/), [Expressive](https://www.expressivesuite.com/), [Cavalry](https://cavalry.scenegroup.co/), [TupiTube](https://tupitube.com/) or [Synfig](https://www.synfig.org/) - 2D Animation Tools
+* [ScribbleDiffusion](https://scribblediffusion.com/) - Turn Doodles into Artwork
+* [MonsterMash](https://monstermash.zone/) - Sketch Based Modeling & Animation Tool
+* [Storyboarder](https://wonderunit.com/storyboarder/) - Quickly Visualize & Test Animations / [GitHub](https://github.com/wonderunit/storyboarder) 
+* [Stable Diffusion Videos](https://github.com/nateraw/stable-diffusion-videos) - Create Videos using Stable Diffusion
+* [LuxCoreRender](https://luxcorerender.org/) - Rendering Engine
+* [RenderChan](https://morevnaproject.org/renderchan/) - 2D Animation Render Manager
+* [Mandelbulber](https://mandelbulber.com/) or [FragM](https://github.com/3Dickulus/FragM) - Fractal Rendering Software / [3D](https://mb3d.overwhale.com/)
+* [JWildfire](https://jwildfire.overwhale.com/), [IFSRenderer](https://github.com/bezo97/IFSRenderer) or [Fractorium](http://fractorium.com/) - Flame Fractal Rendering Software
+* [BestSnip](https://bestsnip.com/animation/), [Sketch Machine](https://sketchmachine.net/), [Plask](https://plask.ai/) or [Rive](https://rive.app/) - Online Animation Tools
+* [LibreSprite](https://libresprite.github.io/), [Pixel Compresor](https://makham.itch.io/pixel-composer), [JPixel](https://emad.itch.io/jpixel) or [SpookyGhost](https://encelo.itch.io/spookyghost) - Pixel Art Animation Tools
+* [Animated Drawings](https://sketch.metademolab.com/), [FAIR Animated Drawings](https://fairanimateddrawings.com/site/home), [MotorPen](https://motorpen.com/) or [Scratch](https://scratch.mit.edu/) - Animate Drawings
+* [FlipAnim](https://flipanim.com/) - Create Animated Flipbooks
+* [Picrew](https://picrew.me/) - Animated Character Maker
+* [Mixamo](https://www.mixamo.com/) or [Cascadeur](https://cascadeur.com/) - 3D Character Animation Tools
+* [MMHuman3D](https://github.com/open-mmlab/mmhuman3d) - 3D Human Model Creator
+* [Talking Face Avatar](https://github.com/saba99/Talking_Face_Avatar) - Talking Avatar Generator
+* [NATRON](https://natrongithub.github.io/) - Compositing Software
+* [Blender Open Movies](https://youtube.com/playlist?list=PLav47HAVZMjnTFVZL-aImCQIC0uLZtNCz) - CGI Assets
 
 ***
 
