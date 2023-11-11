@@ -1605,7 +1605,6 @@
 * [La Pirateca](https://lapirateca.com/) - Books
 * [Books and Bots](http://bibliotecasecreta.nl/) - Books / Telegram
 * [El Libro Total](https://www.ellibrototal.com/ltotal/) - Books / Audiobooks
-* [BladeMaster666](https://blademaster666.com/) - Newspapers / Magazines / Spain / NSFW
 * [FreeLibros](https://www.freelibros.net/) - Textbooks / Books / Audiobooks / Magazines / Courses / Documentaries
 * [Librotecarios](https://librotecarios.blogspot.com/) - Textbooks
 * [Libros de la Nube](https://librosdelanube.blogspot.com/) - Textbooks
