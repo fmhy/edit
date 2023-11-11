@@ -179,7 +179,6 @@
 * 🌐 **[OldVersion](http://www.oldversion.com/)** - Old Versions of Software
 * ↪️ **[Software Package Managers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_package_managers)**
 * ↪️ **[Alternative Software Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_alternative_software_.2F_app_sites)**
-* ↪️ **[Portable App Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_portable_apps)**
 * ⭐ **[FluentStore](https://github.com/yoshiask/FluentStore)** - Microsoft Store Frontend
 * ⭐ **[store.rg](https://store.rg-adguard.net/)** - Paid Microsoft Store Link Generator / [Guide](https://rentry.co/paidAppsMsStore)
 * [Windows Ultimate Collection](https://forum.xda-developers.com/t/windows-ultimate-collection-guides.4507867/) - Freeware Index
@@ -207,6 +206,9 @@
 * [FileEagle](https://www.fileeagle.com/) - Freeware Index
 * [Perkele](https://perkele.cc/software) - Freeware Index
 * [Patorjk](https://www.patorjk.com/) - Freeware Index
+* [PortableApps.com](https://portableapps.com/) - Portable Apps
+* [Portapps](https://portapps.io/) - Portable Apps
+* [PortableAppZ](https://portableappz.blogspot.com/) - Portable Apps
 * [Uwe Sieber's Homepage](https://www.uwe-sieber.de/english.html)
 * [Nirsoft](https://www.nirsoft.net/), [Windows-Utilities](https://orga.cat/windows-utilities), [OS Vault](https://osvault.weebly.com/directory.html) or [WinTools](https://www.wintools.info/) - Windows Software
 * [UWP Community](https://uwpcommunity.com/) - Universal Windows Programs / [Discord](https://discord.gg/eBHZSKG)
