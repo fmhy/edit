@@ -23,7 +23,7 @@
 * ↪️ **[Random Generators](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_random_generators)**
 * ⭐ **[MiXLab](https://github.com/shirooo39/MiXLab)** - Multi-Tool Google Colab / Use Throwaways
 * ⭐ **[Versus](https://versus.com/)**, [SocialCompare](https://socialcompare.com/en), [DifferenceBetween](http://www.differencebetween.net/) or [Diffen](https://www.diffen.com/) - Compare Anything
-* ⭐ **[RepairWiki](https://repair.wiki/w/Repair_Wiki)** or [Manual Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/reading#wiki_.25B7_manual_sites) - Repair Articles / Manuals / [Videos](https://www.youtube.com/@cambofixing)
+* ⭐ **[RepairWiki](https://repair.wiki/w/Repair_Wiki)** or [Manual Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/reading#wiki_.25B7_manual_sites) - Repair Articles / Manuals
 * ⭐ **[USPS Shipping Supplies](https://store.usps.com/store/results/free-shipping-supplies/_/N-alnx4j)** - Free Shipping Supplies
 * ⭐ **[TurboTaxSucksAss](https://turbotaxsucksass.org/)**, [US Taxes](https://ustaxes.org/) or [FreeTaxUSA](https://www.freetaxusa.com/) - File Taxes for Free / [Get Pin](https://youtu.be/iPw8I-cZ1eY) / [Form Calc](https://opentaxsolver.sourceforge.net/)
 * ⭐ **[FindHelp](https://www.findhelp.org/)** - Find Assistive Programs
@@ -251,8 +251,10 @@
 * [Gyroflow](https://gyroflow.xyz/) - Video Stabilization / [GitHub](https://github.com/gyroflow/gyroflow)
 * [Croosfade](https://crossfade.io/) - Video and Audio Crossfading
 * [MKV Muxing Batch GUI](https://github.com/yaser01/mkv-muxing-batch-gui) - Mux Videos
+* [OpenColorIO](https://opencolorio.org/) - Video Color Manager
 * [blur](https://github.com/f0e/blur) or [Smoothie](https://github.com/couleur-tweak-tips/Smoothie) - Add Motion Blur to Videos / [Tutorial](https://youtu.be/16-KU4r3BcA) 
 * [Webm Generator](https://github.com/dfaker/WebmGenerator) - Webm Editor
+* [OpenRV](https://github.com/AcademySoftwareFoundation/OpenRV) or [xSTUDIO](https://www.dneg.com/xstudio/) - Image / Sequence Playback Review
 * [MergeMP4](https://maple3142.github.io/mergemp4/) - Merge MP4 Video & Audio
 * [VidLouder](https://www.videolouder.com/) - Increase Video Volume
 * [Paper2GUI](https://github.com/Baiyuetribe/paper2gui/blob/main/README_en.md) - AI Video Toolbox
@@ -266,7 +268,7 @@
 * [cg_tuts](https://t.me/cg_tuts) - CG Tutorials
 * [AMV101](https://www.amv101.com/) - Animated Music Video Making Guides
 * [Blaine's Movie Maker Blog](https://movies.blainesville.com/p/wmm-60-on-windows-7.html) - Windows Movie Maker Tutorials
-* [Kurku](https://app.kurku.tech/) - Body Motion Tracking
+* [Kurku](https://app.kurku.tech/) or [FreeMoCap](https://freemocap.org/) - Motion Tracking Tools
 * [VSeeFace](https://www.vseeface.icu/) - Face / Hand Tracking VRM
 * [MoonRay](https://openmoonray.org/), [Unreal Engine](https://www.unrealengine.com/), [cgsoftbox](https://t.me/cgsoftbox), [SketchUp](https://www.sketchup.com/) or [Twinmotion](https://www.twinmotion.com/en-US) - 3D Creation Tools
 * [Mega Scans](https://quixel.com/megascans) - 3D Scans
@@ -277,6 +279,7 @@
 * [Storyboarder](https://wonderunit.com/storyboarder/) - Quickly Visualize & Test Animations / [GitHub](https://github.com/wonderunit/storyboarder) 
 * [Stable Diffusion Videos](https://github.com/nateraw/stable-diffusion-videos) - Create Videos using Stable Diffusion
 * [LuxCoreRender](https://luxcorerender.org/) - Rendering Engine
+* [RenderChan](https://morevnaproject.org/renderchan/) - 2D Animation Render Manager
 * [Mandelbulber](https://mandelbulber.com/) or [FragM](https://github.com/3Dickulus/FragM) - Fractal Rendering Software / [3D](https://mb3d.overwhale.com/)
 * [JWildfire](https://jwildfire.overwhale.com/), [IFSRenderer](https://github.com/bezo97/IFSRenderer) or [Fractorium](http://fractorium.com/) - Flame Fractal Rendering Software
 * [BestSnip](https://bestsnip.com/animation/), [Sketch Machine](https://sketchmachine.net/), [Plask](https://plask.ai/) or [Rive](https://rive.app/) - Online Animation Tools

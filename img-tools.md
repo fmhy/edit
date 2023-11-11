@@ -19,6 +19,7 @@
 * ⭐ **[PhotoMosh](https://photomosh.com/)**, [jpg-glitch-electron](https://snorpey.github.io/jpg-glitch-electron/), [glitch-this!](https://github.com/TotallyNotChase/glitch-this), [GlitchyImage](https://glitchyimage.com/) or [Image Glitch Tool](https://github.com/snorpey/jpg-glitch) - Glitch Images
 * [calltoidea](https://www.calltoidea.com/), [onepagelove](https://onepagelove.com/), [awwwards](https://www.awwwards.com/websites), [thedesigninspiration](https://thedesigninspiration.com/), [theinspirationgrid](https://theinspirationgrid.com/) or [inspirationde](https://www.inspirationde.com/) - Graphic Design Inspirations
 * [IRA Design](https://iradesign.io/) - Illustration Creator
+* [Graphite](https://github.com/GraphiteEditor/Graphite) - Vector Editor
 * [Method](https://editor.method.ac/) - SVG Editor
 * [SVGFilters](https://svgfilters.com/) - SVG Filter Builder
 * [Crayon](https://designstripe.com/crayon) or [SVGArtista](https://svgartista.net/) - SVG Animation Tools
@@ -375,6 +376,8 @@
 * [Anaglyph Maker](https://www.stereoeye.jp/software/index_e.html) - Make 3D Images
 * [Vectary](https://www.vectary.com/) - Online 3D Image Editor
 * [3DConvert](https://3d-convert.com/en/) - Online 3D Image Converter
+* [OpenSCAD](https://openscad.org/) or [Mayo](https://github.com/fougue/mayo) - 3D CAD Modelers
+* [QCAD](https://www.qcad.org/en/) - 2D CAD Modeler
 * [3DThis](https://3dthis.com/) - 3D Animation Tools
 * [PaintUp](http://technohippy.github.io/teddyjs/) - Make 2D Art Into 3D
 * [MyMiniFactory](https://www.myminifactory.com/) - Mini 3D Printer Models

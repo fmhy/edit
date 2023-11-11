@@ -222,7 +222,7 @@
 * 🌐 **[Awesome Gnome](https://github.com/Kazhnuz/awesome-gnome)** - GNOME Resources
 * ↪️ **[Linux Distros](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_linux_distros)**
 * ↪️ **[ChromeOS Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_chromeos_tools)**
-* ⭐ **[Linux.Chat](https://discord.gg/linuxchat)**, [Linux x Technology](https://linuxdiscord.com/), [Ezlinux](https://ezlinux.net/) or [Discord-Linux](https://discord.gg/discord-linux) - Linux Discussion / Forums
+* ⭐ **[Linux.Chat](https://discord.gg/linuxchat)**, [All Things Linux](https://discord.gg/allthingslinux), [Linux x Technology](https://linuxdiscord.com/), [Ezlinux](https://ezlinux.net/) or [Discord-Linux](https://discord.gg/discord-linux) - Linux Discussion / Forums
 * ⭐ **[Archwiki](https://wiki.archlinux.org/)** - Arch Linux Wiki / [Manuals](https://man.archlinux.org/) / [TUI](https://codeberg.org/theooo/mantra.py)
 * ⭐ **[Ventoy](https://github.com/ventoy/Ventoy)** - Create Bootable USB Linux Drives
 * ⭐ **[Bpytop](https://github.com/aristocratos/bpytop)**, **[pfetch](https://github.com/dylanaraps/pfetch)**, **[MangoHud](https://github.com/flightlessmango/MangoHud)**, [CPU-X](https://github.com/TheTumultuousUnicornOfDarkness/CPU-X), [vtop](https://github.com/MrRio/vtop), [neofetch](https://github.com/dylanaraps/neofetch) / [Themes](https://github.com/chick2d/neofetch-themes) or [LM Sensors](https://github.com/lm-sensors/lm-sensors) - System Info / Resource Monitors
@@ -405,6 +405,7 @@
 * [Polychromatic](https://polychromatic.app/) - Linux System Light Control
 * [Burn My Windows](https://github.com/Schneegans/Burn-My-Windows) - Window Closing Effects
 * [theme.sh](https://github.com/lemnos/theme.sh) or [Shell Color Scripts](https://gitlab.com/dwt1/shell-color-scripts) / [2](https://github.com/stark/Color-Scripts) - Custom Terminal Themes
+* [font-manager](https://github.com/FontManager/font-manager) - Font Manager
 
 ***
 
