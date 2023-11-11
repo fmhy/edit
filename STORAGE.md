@@ -1872,7 +1872,7 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://70.88.180.169:8
 * ⭐ **[Tor Browser](https://www.torproject.org/)** - Onion-Routed Browser / [Directory](https://session.directory/) 
 * ⭐ **[Tor Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_tor_tools)** - Tor Tools / Guides
 * ⭐ **[Mullvad Browser](https://mullvad.net/en/browser)**
-* ⭐ **[Librewolf](https://gitlab.com/librewolf-community/browser/windows)** / [2](https://librewolf.net/)
+* ⭐ **[Librewolf](https://gitlab.com/librewolf-community/browser/windows)** / [2](https://librewolf.net/) / **[Use Auto-Updater](https://github.com/ltguillaume/librewolf-winupdater)**
 * [BadWolf](https://hacktivis.me/projects/badwolf)
 * [Brave](https://brave.com/)
 
