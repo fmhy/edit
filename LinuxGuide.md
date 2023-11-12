@@ -345,6 +345,7 @@
 * [rcm](https://github.com/thoughtbot/rcm) - Manage Dotfiles
 * [Zathura](https://git.pwmt.org/pwmt) - Document Viewer
 * [PDF Mix](https://scarpetta.eu/pdfmixtool/) - PDF Editor
+* [gscan2pdf](https://gscan2pdf.sourceforge.net/) - Turn Documents into PDFs
 * [Linux Filesystem Chart](https://i.ibb.co/ChF9HMH/02e105ba72c1.png) - File System Guide
 
 ***
