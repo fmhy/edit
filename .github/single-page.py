@@ -1,7 +1,5 @@
-import os
 import glob
 import time
-import re
 
 def output():
     read = glob.glob("*.md")

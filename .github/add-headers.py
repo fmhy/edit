@@ -1,6 +1,6 @@
 import os
 
-headersData = {
+headers = {
     "AdblockVPNGuide.md":       ["Adblocking / Privacy", "Adblocking, Privacy, VPN's, Proxies, Antivirus"],
     "AI.md":                    ["Artificial Intelligence", "Chat Bots, Text Generators, Image Generators, ChatGPT Tools"],
     "Android-iOSGuide.md":      ["Android / iOS", "Apps, Jailbreaking, Android Emulators"],
@@ -24,20 +24,25 @@ headersData = {
     "UnsafeSites.md":           ["Unsafe Sites", "Unsafe/harmful sites to avoid."]
 }
 
-def getHeaderForPage(pageFilename):
-    data = headersData[pageFilename]
-    header = '---\n' + 'title: ' + '"' + data[0] + '"' + '\n' + 'description: ' + data[1] + '\n' + '---\n' + '# ' + data[0] + '\n'  + data[1] + '\n\n'
+def getHeader(page: str):
+    data = headers[page]
+    header = "---\n"
+    header += f'title: "{data[0]}"\n'
+    header += f"description: {data[1]}\n"
+    header += "---\n"
+    header += f"# {data[0]}\n"
+    header += f"{data[1]}\n\n"
     return header
 
-def apply_to_all_md_files_in_current_dir():
+def main():
     files = os.listdir('.')
     for file in files:
-        if file in headersData:
+        if file in headers:
             with open(file, 'r', encoding='utf-8') as f:
                 content = f.read()
                 if not content.startswith('---'):
                     with open(file, 'w', encoding='utf-8') as f2:
-                        header = getHeaderForPage(file)
+                        header = getHeader(file)
                         f2.write(header+content)
 
-apply_to_all_md_files_in_current_dir()
+main()

@@ -1,8 +1,7 @@
 import re
 import os
-import sys
 
-def replaces_for_beginners_guide(text):
+def beginners_guide(text: str):
     text = re.sub('\[TOC\]\n', '', text, flags=re.MULTILINE)
     text = re.sub('\*\*Table of Contents\*\*\n\[TOC2\]\n', '', text, flags=re.MULTILINE)
     text = re.sub('# -> \*\*\*Beginners Guide to Piracy\*\*\* <-\n', '', text, flags=re.MULTILINE)
@@ -16,7 +15,7 @@ def replaces_for_beginners_guide(text):
     text = re.sub(r'>(.*)\n\n(.*)', r':::details \1\n\2\n:::', text, flags=re.MULTILINE)
     return text
 
-def do_some_individual_replaces(text):
+def individual(text: str):
     #special cases of link not replaced correctly
     text = re.sub('/storage/#encode--decode_urls', '/storage/#encode--decode-urls', text)
     text = re.sub('/base64/#do-k-ument', '/base64/#do_k_ument', text)
@@ -27,7 +26,7 @@ def do_some_individual_replaces(text):
 
     return text
 
-def change_some_general_formatting(text):
+def general(text: str):
     text = re.sub('\*\*\*\n\n', '', text, flags=re.MULTILINE)
     text = re.sub('\*\*\*\n', '', text, flags=re.MULTILINE)
 
@@ -43,7 +42,7 @@ def change_some_general_formatting(text):
     text = re.sub(r'^\*\s([^*])', "- \\1", text, 0, re.MULTILINE)
     return text
 
-def remove_backtowiki_and_toc(text):
+def remove_backtowiki_toc(text):
     text = re.sub('\*\*\[◄◄ Back to Wiki Index\]\(https://www\.reddit\.com/r/FREEMEDIAHECKYEAH/wiki/index\)\*\*\n', '', text, flags=re.MULTILINE)
     text = re.sub(r'\*\*\[Table of Contents\]\(https?:\/\/.*?ibb\.co.*\)\*\* - For mobile users\n', '', text, flags=re.MULTILINE)
     text = re.sub("\*\*\*\n\*\*\*\n\*\*\*\n\*\*\*\n\n\n\*\*\*\n\*\*\*\n\n", '', text, flags=re.MULTILINE)
@@ -53,7 +52,7 @@ def remove_backtowiki_and_toc(text):
     text = re.sub("\*\*\*\n\*\*\*\n\n\n\*\*\*\n\n", '', text, flags=re.MULTILINE)
     return text
 
-def replace_domain_and_page(text):
+def replace_pages(text):
     text = re.sub('https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/ai',                  '/ai', text)
     text = re.sub('https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy', '/adblockvpnguide', text)
     text = re.sub('https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android',             '/android-iosguide', text)
@@ -76,7 +75,7 @@ def replace_domain_and_page(text):
 
     return text
 
-def replace_underscore_in_subsections(text):
+def replace_underscore(text):
     pattern =  r'(/#[\w\-]+(?:_[\w]+)*)'
     matches = re.findall(pattern, text)
     for match in matches:
@@ -90,27 +89,27 @@ def reformat_subsections(text):
     text = re.sub('.25BA_', '', text)
     text = re.sub('.25B7_', '', text)
     text = re.sub('_.2F_', '--', text)
-    text = replace_underscore_in_subsections(text)
+    text = replace_underscore(text)
     return text
 
-def replace_urls_in_links_to_FMHY_wiki(text):
-    text = remove_backtowiki_and_toc(text)
-    text = replace_domain_and_page(text)
+def replace_urls(text):
+    text = remove_backtowiki_toc(text)
+    text = replace_pages(text)
     text = reformat_subsections(text)
-    text = change_some_general_formatting(text)
-    text = do_some_individual_replaces(text)
+    text = general(text)
+    text = individual(text)
     return text
 
-def apply_replace_to_all_md_files_in_current_dir():
+def main():
     files = os.listdir('.')
     for file in files:
         if file.endswith('.md'):
             with open(file, 'r', encoding='utf-8') as f:
                 content = f.read()
-                content = replace_urls_in_links_to_FMHY_wiki(content)
+                content = replace_urls(content)
                 if file == "Beginners-Guide.md":
-                    content = replaces_for_beginners_guide(content)
+                    content = beginners_guide(content)
                 with open(file, 'w', encoding='utf-8') as f2:
                     f2.write(content)
 
-apply_replace_to_all_md_files_in_current_dir()
+main()
