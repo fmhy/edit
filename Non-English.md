@@ -1454,7 +1454,7 @@
 * [La Taberna Del Cangrejo](http://www.latabernadelcangrejo.eu/) - Video / Audio
 * [Descargandoxmega](https://www.descargandoxmega.com/) - Movies / TV / Animation / Latino / Castilian
 * [SomosMovies](https://somosmovies.com/) - Movies / TV
-* [Mega1080](https://www.mega1080.com/) - Movies / Documentaries
+* [Mega1080](https://www.mega1080.com/) - Movies / Documentaries / Latino
 * [CompucaliTV](https://www.compucalitv.com/) - Movies / TV / Latino
 * [mirandopeliculas](https://mirandopeliculas.com/) - Movies / TV / Latino
 * [TodoPelisHD](https://todopelishd.com/) - Movies / Latino
