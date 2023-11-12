@@ -8,7 +8,7 @@ hero:
   tagline: The Largest Collection Of Free Stuff On The Internet!
   prelink:
     title: 🎉 New website!
-    link: https://www.reddit.com/r/FREEMEDIAHECKYEAH/comments/17tnzak/new_fmhy_website/
+    link: https://www.reddit.com/r/FREEMEDIAHECKYEAH/comments/17toqpa/new_fmhy_website
   image:
     src: /test.png
     alt: FMHY Icon
