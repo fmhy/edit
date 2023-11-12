@@ -490,7 +490,7 @@
 * [LightHost](https://github.com/rolandoislas/LightHost) - VST / AU Host
 * [OPUS](https://opus-codec.org/) - Audio Codec / [Bitrate Optimization](https://github.com/master-of-zen/BOPUS)
 * [AQ](https://github.com/rxi/aq) - Audio Tool Creator
-* [AirPods Dirty Secret](https://kenp.io/airpods-dirty-secret/) - AirPod Repair Directory
+* [AirPods Dirty Secret](https://docs.kenp.io/) - AirPods Repair Directory
 
 ***
 
