@@ -566,7 +566,7 @@
 * [My Duck Is Dead](https://www.myduckisdead.org/) - Rare Movies / NSFW / 1080p
 * [StagaTV](https://www.stagatv.com/) - Movies / TV / 1080p
 * [movie-web](https://movie-web.app/) - Movies / TV / 1080p / [Discord](https://discord.gg/vXsRvye8BS)
-* [Uloz](https://ulozto.net/) - Rare Movies / Short Films / 1080p
+* [Uloz](https://ulozto.net/) - Rare Movies / Short Films / 3D movies / 1080p (for fast downloads use [this](https://github.com/setnicka/ulozto-downloader)) (if you don't find what you are looking for, try to search for the Czech title of the movie)
 * [Medeberiyaa](https://medeberiyas.com/) - Movies / TV / Anime / 1080p
 * [HDMP4Mania](https://hdmp4mania2.com/) - Movies / 1080p
 * [StarsDDL](https://starsddl.me/) - Movies / TV / 1080p
