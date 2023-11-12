@@ -77,7 +77,7 @@
 * ⭐ **[LookMovie](https://lookmovie2.to/)** - Movies / TV / 720p / [Mirrors](https://proxymirrorlookmovie.github.io/)
 * ⭐ **[Watch A Movie](https://watcha.movie/)** - Movies / TV / 1080p / [Discord](https://discord.gg/PvAg9Rc7kQ)
 * ⭐ **[PressPlay](https://www.pressplay.top/)** - Movies / TV / 1080p / [Discord](https://discord.gg/r4QrghF4B9)
-* ⭐ **[BFLIX](http://bflix.gs/)** - Movies / TV / 1080p
+* ⭐ **[BFLIX](https://bflix.gs/)** - Movies / TV / 1080p
 * ⭐ **[FshareTV](https://fsharetv.co/)** - Movies / 1080p
 * ⭐ **[RidoMovies](https://ridomovies.pw/)** - Movies / 1080p
 * ⭐ **[Ling.online](https://ling-online.net/en/videos/films/)** - Movies / TV / 1080p
@@ -620,7 +620,7 @@
 * [Toku.fun](https://toku.fun/) - Japanese Superhero Movies / 360p
 * [Jackass Vault](https://discord.gg/ZH5MjcKmJJ) - Jackass Media
 * [IRC Movie Channels](https://pastebin.com/2AeYizZK)
-* [Movie CLI](https://github.com/mov-cli/mov-cli) or [Movies-and-Series-Scraper](https://github.com/yousefkotp/Movies-and-Series-Scraper) - Streaming Site Download CLI
+* [mov-cli](https://github.com/mov-cli/mov-cli) or [Movies-and-Series-Scraper](https://github.com/yousefkotp/Movies-and-Series-Scraper) - Streaming/Downloading CLIs
 * [IMDb-Scout-Mod](https://github.com/Purfview/IMDb-Scout-Mod) - Add Download Site Results to IMDb
 
 ***
