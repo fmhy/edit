@@ -1834,7 +1834,7 @@ Use any **[Base64 Decoding](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/stor
 * [Justia](https://trademarks.justia.com/) - Trademark Search
 * [TMHunt](http://www.tmhunt.com/) - Clothing Trademark Search
 * [BrownBook](https://www.brownbook.net/) - Business Listing Search
-* [txtai](https://neuml.github.io/txtai/) - Build Semantic Search Apps
+* [txtai](https://neuml.github.io/txtai/) - Build Semantic Search Apps 
 * [useful-forks](https://useful-forks.github.io/) or [GitPop3](https://andremiras.github.io/gitpop3/) - GitHub Fork Search 
 * [grep.app](https://grep.app/) - Git Repository Search
 * [MyCroftProject](https://mycroftproject.com/) - Search Engine Plugins
@@ -6041,6 +6041,19 @@ Use any **[Base64 Decoding](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/stor
 * [Proxy-Checker](https://proxy-checker.net/), [proxy-scraper](https://github.com/iw4p/proxy-scraper), [What is my Proxy](http://www.whatismyproxy.com/), [proxy-scraper-checker](https://github.com/monosans/proxy-scraper-checker), [Socker](https://github.com/TheSpeedX/socker) or [Unfx Proxy Checker](https://github.com/openproxyspace/unfx-proxy-checker) - Proxy Scrapers / Checkers
 * [CheckSocks5](https://checksocks5.com/) - Socks5 Proxy Checker
 * [Proxynova](https://www.proxynova.com/proxy-server-list/country-ir/) - Iranian Proxies
+---
+title: Guides
+---
+<!-- <script setup> -->
+<!-- import { data } from "./.vitepress/loaders/guides.data"; -->
+<!-- </script> -->
+<!---->
+<!-- <template> -->
+<!--   <h2>Guides</h2> -->
+<!--   <br /> -->
+<!--   <ul> -->
+<!--   </ul> -->
+<!-- </template> -->
 ***
 ***
 **[◄◄ Back to Wiki Index](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/index)**
@@ -10039,7 +10052,7 @@ Use any **[Base64 Decoding](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/stor
 * [Curated Programming Resources](https://github.com/Michael0x2a/curated-programming-resources) - Programming Courses
 * [Stack Exchange](https://stackexchange.com/) - Programming Q&A / [App](https://play.google.com/store/apps/details?id=me.tylerbwong.stack)
 * [Learn X in Y minutes](https://learnxinyminutes.com/), [2](https://github.com/adambard/learnxinyminutes-docs) - Programming Language Rundowns
-* [HEAD](https://htmlhead.dev/) - HTML `<head>` Element Guide
+* [HEAD](https://htmlhead.dev/) - HTML head Element Guide
 * [Typing.io](https://typing.io/) - Typing Practice for Programmers 
 * [Karel The Robot](https://github.com/fredoverflow/karel) - Basic Programming Teaching Environment
 * [Project Based Learning](https://github.com/practical-tutorials/project-based-learning) - Collection of Project-Based Tutorials
@@ -10726,7 +10739,7 @@ Use any **[Base64 Decoding](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/stor
 * [Codux](https://www.codux.com/) - Visual IDE for React
 * [React95](https://react95.io/) - Windows 95 React Components
 * [React SVG](https://react-svgr.com/playground/) - Convert SVG to React Components
-* [Zorm](https://github.com/esamattis/react-zorm) - Type-safe `<form>` for React
+* [Zorm](https://github.com/esamattis/react-zorm) - Type-safe form for React
 * [Million](https://github.com/aidenybai/million) - React Replacement
 * [novu](https://novu.co/) - Real-Time React Notifications / [GitHub](https://github.com/novuhq/novu)
 * [React Use](https://github.com/streamich/react-use) - React Hooks 
@@ -10906,7 +10919,7 @@ Use any **[Base64 Decoding](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/stor
 * [Sourcegraph](https://about.sourcegraph.com/) - Git Repository Sourcegraph Editor 
 * [onefetch](https://github.com/o2sh/onefetch) - Git Information Terminal
 * [Conventional Commits](https://www.conventionalcommits.org/) - Commit Message Specification
-* [AICommits](https://github.com/Nutlope/aicommits) - Auto Commit Messages
+* [AICommits](https://github.com/Nutlope/aicommits) - Auto Commit Messages  
 * [lastversion](https://github.com/dvershinin/lastversion) or [ghrel](https://github.com/jreisinger/ghrel) - Download / View Latest Stable Repos
 * [Git Cliff](https://github.com/orhun/git-cliff) - Changelog Generator
 * [readme.so](https://readme.so/) - Readme Markdown Editor
@@ -14709,6 +14722,46 @@ Use any **[Base64 Decoding](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/stor
 * [Segoideas](https://segoideas.com/) - Taiwanese / Streaming / TV
 * [wlext](https://wlext.is/) - Turkish / Filipino / Thai / Streaming / Movies
 * [Machine Learning ka Chilla](https://www.youtube.com/playlist?list=PL9XvIvvVL50HHzaLPtFBOuikAWa0JdhMW) - Urdu / Machine Learning Course
+---
+title: "Welcome"
+layout: home
+
+hero:
+  name: "FMHY"
+  text: "freemediaheckyeah"
+  tagline: The Largest Collection Of Free Stuff On The Internet!
+  prelink:
+    title: 🎉 New website!
+    link: https://www.reddit.com/r/FREEMEDIAHECKYEAH/comments/17toqpa/new_fmhy_website
+  image:
+    src: /test.png
+    alt: FMHY Icon
+  actions:
+    - theme: brand
+      text: Browse Collection
+      link: /adblockvpnguide
+    - theme: alt
+      text: Discord
+      link: https://discord.gg/Stz6y6NgNg
+
+features:
+  - title: Movies / TV / Anime
+    icon: <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 36 36"><path fill="#31373D" d="M35 31s0 4-4 4H5c-4 0-4-4-4-4V12c0-4 4-4 4-4h26s4 0 4 4v19z"/><path fill="#31373D" d="M21.303 10.389a.999.999 0 1 1-1.414 1.414l-9.192-9.192a.999.999 0 1 1 1.414-1.414l9.192 9.192z"/><path fill="#31373D" d="M14.697 10.389a.999.999 0 1 0 1.414 1.414l9.192-9.192a.999.999 0 1 0-1.414-1.414l-9.192 9.192z"/><path fill="#55ACEE" d="M18 11c8 0 10 1 11 2s2 3 2 8s-1 7-2 8s-3 2-11 2s-10-1-11-2s-2-3-2-8s1-7 2-8s3-2 11-2z"/><circle cx="31.5" cy="31.5" r="1.5" fill="#66757F"/><circle cx="4.5" cy="31.5" r="1.5" fill="#66757F"/></svg>
+    link: /videopiracyguide
+    details: Download, stream, torrent and binge all your favourites movies or shows!
+  - title: Music / Podcasts / Radio
+    icon: <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 36 36"><path fill="#5DADEC" d="M14.182.168L7.818 1.469A1.07 1.07 0 0 0 7 2.471v15.857A6.226 6.226 0 0 0 5 18c-2.762 0-5 1.741-5 3.889c0 2.147 2.238 3.889 5 3.889c2.713 0 4.908-1.683 4.985-3.777H10V6.477l4.182-.855A1.07 1.07 0 0 0 15 4.62V.835c0-.459-.368-.76-.818-.667zm21 4l-6.363 1.301c-.451.092-.819.543-.819 1.002v15.857A6.198 6.198 0 0 0 26 22c-2.762 0-5 1.741-5 3.889c0 2.147 2.238 3.889 5 3.889c2.713 0 4.908-1.683 4.985-3.777H31V10.477l4.182-.855A1.07 1.07 0 0 0 36 8.62V4.835c0-.459-.368-.76-.818-.667z"/><path fill="#5DADEC" d="m23.182 10.167l-6.363 1.301c-.451.093-.819.544-.819 1.003v15.857A6.198 6.198 0 0 0 14 28c-2.762 0-5 1.741-5 3.889s2.238 3.889 5 3.889c2.713 0 4.908-1.683 4.985-3.777H19V16.477l4.182-.855A1.07 1.07 0 0 0 24 14.62v-3.785c0-.459-.368-.76-.818-.668z"/></svg>
+    link: /audiopiracyguide
+    details:  Stream, download and torrent songs, podcasts and more!
+  - title: Games / Emulation
+    icon: <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 36 36"><path fill="#31373D" d="m2.13 14.856l-.004-.002S.075 27.271.075 29.061c0 1.824 1.343 3.302 3 3.302c.68 0 1.3-.258 1.803-.678l10.166-8.938L2.13 14.856zm31.69 0l.004-.002s2.051 12.417 2.051 14.207c0 1.824-1.343 3.302-3 3.302c-.68 0-1.3-.258-1.803-.678l-10.166-8.938l12.914-7.891z"/><g fill="#14171A"><circle cx="25.975" cy="15.551" r="8.5"/><circle cx="9.975" cy="15.551" r="8.5"/><path d="M9.975 7.051h16v16.87h-16z"/></g><circle cx="13.075" cy="23.301" r="5" fill="#14171A"/><circle cx="22.875" cy="23.301" r="5" fill="#14171A"/><circle cx="22.875" cy="23.301" r="3" fill="#67757F"/><circle cx="13.075" cy="23.301" r="3" fill="#67757F"/><circle cx="25.735" cy="11.133" r="1.603" fill="#FFCC4D"/><circle cx="25.735" cy="17.607" r="1.603" fill="#77B255"/><circle cx="22.498" cy="14.37" r="1.603" fill="#50A5E6"/><circle cx="28.972" cy="14.37" r="1.603" fill="#DD2E44"/><path fill="#8899A6" d="M11.148 12.514v-2.168a.505.505 0 0 0-.505-.505H9.085a.505.505 0 0 0-.505.505v2.168l1.284 1.285l1.284-1.285zm-2.569 3.63v2.168c0 .279.226.505.505.505h1.558a.505.505 0 0 0 .505-.505v-2.168l-1.284-1.285l-1.284 1.285zm5.269-3.1H11.68l-1.285 1.285l1.285 1.285h2.168a.506.506 0 0 0 .505-.505V13.55a.506.506 0 0 0-.505-.506zm-5.799 0H5.88a.506.506 0 0 0-.505.505v1.558c0 .279.226.505.505.505h2.168l1.285-1.285l-1.284-1.283z"/></svg>
+    link: /gamingpiracyguide
+    details: Download and play all your favourite games or emulate some old but gold ones!
+  - title: Book / Comics / Manga
+    icon: <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 36 36"><path fill="#553788" d="M15 31c0 2.209-.791 4-3 4H5c-4 0-4-14 0-14h7c2.209 0 3 1.791 3 4v6z"/><path fill="#9266CC" d="M34 33h-1V23h1a1 1 0 1 0 0-2H10c-4 0-4 14 0 14h24a1 1 0 1 0 0-2z"/><path fill="#CCD6DD" d="M34.172 33H11c-2 0-2-10 0-10h23.172c1.104 0 1.104 10 0 10z"/><path fill="#99AAB5" d="M11.5 25h23.35c-.135-1.175-.36-2-.678-2H11c-1.651 0-1.938 6.808-.863 9.188C9.745 29.229 10.199 25 11.5 25z"/><path fill="#269" d="M12 8a4 4 0 0 1-4 4H4C0 12 0 1 4 1h4a4 4 0 0 1 4 4v3z"/><path fill="#55ACEE" d="M31 10h-1V3h1a1 1 0 1 0 0-2H7C3 1 3 12 7 12h24a1 1 0 1 0 0-2z"/><path fill="#CCD6DD" d="M31.172 10H8c-2 0-2-7 0-7h23.172c1.104 0 1.104 7 0 7z"/><path fill="#99AAB5" d="M8 5h23.925c-.114-1.125-.364-2-.753-2H8C6.807 3 6.331 5.489 6.562 7.5C6.718 6.142 7.193 5 8 5z"/><path fill="#F4900C" d="M20 17a4 4 0 0 1-4 4H6c-4 0-4-9 0-9h10a4 4 0 0 1 4 4v1z"/><path fill="#FFAC33" d="M35 19h-1v-5h1a1 1 0 1 0 0-2H15c-4 0-4 9 0 9h20a1 1 0 1 0 0-2z"/><path fill="#CCD6DD" d="M35.172 19H16c-2 0-2-5 0-5h19.172c1.104 0 1.104 5 0 5z"/><path fill="#99AAB5" d="M16 16h19.984c-.065-1.062-.334-2-.812-2H16c-1.274 0-1.733 2.027-1.383 3.5c.198-.839.657-1.5 1.383-1.5z"/></svg>
+    link: /readingpiracyguide
+    details: Whether you're a bookworm, otaku or comic book fan, you'll be able to find your favourite pieces of literature here for free!
+---
 # Untrusted Sites / Software
 
 ***
@@ -17974,40 +18027,33 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://70.88.180.169:8
 
 > How do I tell if a site or download is safe? Any tips? 
 Check out [Booty Guard](https://rentry.org/bootyguard) our basic safety guide. 
-Still feel unsure? Reach out to us via [Discord](https://redd.it/17f8msf) & make sure you've looked at sites/software we've listed as unsafe: [here](https://www.reddit.com/r/FREEMEDIAHECKYEAH/comments/10bh0h9/unsafe_sites_software_thread)
 
 > I don't know what seeding means or *insert other term*...
 You will find almost all terms related to piracy & more on [The Piracy Glossary](https://rentry.org/the-piracy-glossary)
-Didn't find it and still confused? Reach out to us via [Divolt](https://redd.it/uto5vw).
 
 > How do I download Photoshop/Adobe Products for free?
-You can download pre-cracked Adobe products from [M0nkrus](https://w14.monkrus.ws/) | [How to download from M0nkrus](https://rentry.co/adobesoftware) or Patch it yourself following these guides [here](https://www.reddit.com/r/GenP/wiki/index/) & for MacOS go [here](#macos)
-!!!info M0nkrus is a well trusted and reputable source for adobe software in the piracy community. 
+You can download pre-cracked Adobe products from [M0nkrus](https://w14.monkrus.ws/) who is a well trusted and reputable source for adobe software in the piracy community | [How to download from M0nkrus](https://rentry.co/adobesoftware). Alternatively, you can patch it yourself following the guides [here](https://www.reddit.com/r/GenP/wiki/index/). For MacOS go [here](#macos)
 
 > How do I download/activate Windows/Office for free?
-For Windows check out this [section](#pirate-windows)
-For Office check these [guides](https://fmhy.pages.dev/storage/#office-suites)
+For Windows check out this [section](#pirate-windows). For Office check these [guides](https://fmhy.pages.dev/storage/#office-suites)
 
 > Where do I find *insert game title / movie title*?
-For movies check out [this](https://whereyouwatch.com) and for new movies it's a good idea to keep an eye on [r/movieleaks](https://reddit.com/r/movieleaks). 
-For sites to stream from check out this [section](#streaming).
-!!!info Pirated releases generally happen after a movie is digitally released or released via Blu-Ray / DVD, which can take 3 months+ after initially playing in theaters.
-
-For games use [Rezi](https://rezi.one) or any site listed [here](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/games/#wiki_.25BA_download_games) and for newly released games check [r/crackwatch](https://reddit.com/r/crackwatch).
-!!!warning Please avoid downloading games from The Pirate Bay or any site listed: [here](https://www.reddit.com/r/FREEMEDIAHECKYEAH/comments/10bh0h9/unsafe_sites_software_thread)
+For movies check out [this](https://whereyouwatch.com) and for new movies it's a good idea to keep an eye on [r/movieleaks](https://reddit.com/r/movieleaks). For sites to stream from check out this [section](#streaming). Keep in mind that pirated releases generally happen after a movie is digitally released or released via Blu-Ray / DVD, which can take 3 months+ after initially playing in theaters. For games use [Rezi](https://rezi.one) or any site listed [here](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/games/#wiki_.25BA_download_games) and for newly released games check [r/crackwatch](https://reddit.com/r/crackwatch). Please avoid downloading games from The Pirate Bay or any site listed: [here](https://www.reddit.com/r/FREEMEDIAHECKYEAH/comments/10bh0h9/unsafe_sites_software_thread)
 
 > How do I unlock *insert random game title* DLCs?
 Use the tools listed [here](https://fmhy.pages.dev/gamingpiracyguide/#steam--epic) to unlock DLCs.
 
 > Should I install & use *insert random anti-virus software* instead of using Windows Defender?
-No don't do that, windows defender is more than good enough, you don't need another anti-virus, but if you're set on installing a secondary AV the one worth installing is Malwarebytes. Please read the note [here](#anti-virus). 
-!!!warning Stay away from Avast, Norton and McAfee, these are "bloatware" and generally not safe software.
+No don't do that, windows defender is more than good enough, you don't need another anti-virus, but if you're set on installing a secondary AV the one worth installing is Malwarebytes. Please read the note [here](#anti-virus). Stay away from Avast, Norton and McAfee, these are "bloatware" and generally not safe software.
 
  > How do I bypass this paywalled article?
 Use [this](https://bitbucket.org/magnolia1234/bypass-paywalls-firefox-clean/src/master/) / [2](https://gitlab.com/magnolia1234/bypass-paywalls-chrome-clean) to read the article easily. 
 
 > How do I download image from *insert stock site*?
  You can use [this](https://downloader.la/) if this doesn't work you can find similar stock image downloaders [here](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_stock_photo_sites).
+
+Still feel unsure? Reach out to us via [Discord](https://redd.it/17f8msf) & make sure you've looked at sites/software we've listed as unsafe: [here](https://www.reddit.com/r/FREEMEDIAHECKYEAH/comments/10bh0h9/unsafe_sites_software_thread)
+
 ***
 
 ### Windows Piracy 
