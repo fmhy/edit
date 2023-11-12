@@ -26,7 +26,6 @@
 * [Rocumentaries](https://rocumentaries.com/)
 * [WatchDocumentaries](https://watchdocumentaries.com/)
 * [Cinetimes](https://cinetimes.org/en/)
-* [Docur](https://docur.co/)
 * [ThoughtMaybe](https://thoughtmaybe.com/)
 * [PBS](https://www.pbs.org/video/)
 * [Folkstreams](https://www.folkstreams.net/)
@@ -35,7 +34,6 @@
 * [Smithsonian Channel](https://www.smithsonianchannel.com/) - Each Series' First Episode is Free
 * [Docuwiki](https://docuwiki.net/) - [Emule required](https://www.emule-project.net/)
 * [Open-Video](https://open-video.org/)
-* [Documentaries & Archive](https://t.me/joinchat/S6gY9zmO5Ubl15CW)
 * [Nebula's Essence](https://idoiso.in/nebula) - Nebula / Curiosity Documentaries / [Divolt](https://isoneb.divolt.xyz) / [Discord](https://discord.com/invite/HvrQefs3Cw)
 * [Videoneat](https://www.videoneat.com/)
 * [MVGroup](https://forums.mvgroup.org/)
