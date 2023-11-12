@@ -95,7 +95,7 @@
 * [Etterna](https://etternaonline.com/), [Quaver](https://quavergame.com/), [O2Mania](https://o2mania.info/) or [RoBeats CS](https://www.roblox.com/games/4841678118) - O2Jam Clones / [Online Maps](https://www.flashflashrevolution.com/)
 * [osu!](https://osu.ppy.sh/home), [opsu!](https://itdelatrisu.github.io/opsu/), [osu!droid](https://osudroid.moe/) or [McOsu](https://store.steampowered.com/app/607260/McOsu/) - Osu! Tatakae! Ouendan Clones
 * [PPD](https://projectdxxx.me/) - Project Diva Clone
-* [Sound Space Plus](https://discord.gg/ssp) or [Vulnus Archive](https://discord.gg/w3PdcaG) - Sound Space Clones
+* [Rhythia](https://discord.gg/rhythia) or [Vulnus Archive](https://discord.gg/w3PdcaG) - Sound Space Clones
 * [Cytoid](https://cytoid.io/) - Cytus Clone
 * [DTXManiaNX](https://github.com/limyz/DTXmaniaNX) - GITADORA Clone
 * [SweetPotato](https://wiki-en.purplepalette.net/home) - Project Sekai Clone
