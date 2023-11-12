@@ -67,7 +67,7 @@
 * [Curated Programming Resources](https://github.com/Michael0x2a/curated-programming-resources) - Programming Courses
 * [Stack Exchange](https://stackexchange.com/) - Programming Q&A / [App](https://play.google.com/store/apps/details?id=me.tylerbwong.stack)
 * [Learn X in Y minutes](https://learnxinyminutes.com/), [2](https://github.com/adambard/learnxinyminutes-docs) - Programming Language Rundowns
-* [HEAD](https://htmlhead.dev/) - HTML `<head>` Element Guide
+* [HEAD](https://htmlhead.dev/) - HTML head Element Guide
 * [Typing.io](https://typing.io/) - Typing Practice for Programmers 
 * [Karel The Robot](https://github.com/fredoverflow/karel) - Basic Programming Teaching Environment
 * [Project Based Learning](https://github.com/practical-tutorials/project-based-learning) - Collection of Project-Based Tutorials
@@ -754,7 +754,7 @@
 * [Codux](https://www.codux.com/) - Visual IDE for React
 * [React95](https://react95.io/) - Windows 95 React Components
 * [React SVG](https://react-svgr.com/playground/) - Convert SVG to React Components
-* [Zorm](https://github.com/esamattis/react-zorm) - Type-safe `<form>` for React
+* [Zorm](https://github.com/esamattis/react-zorm) - Type-safe form for React
 * [Million](https://github.com/aidenybai/million) - React Replacement
 * [novu](https://novu.co/) - Real-Time React Notifications / [GitHub](https://github.com/novuhq/novu)
 * [React Use](https://github.com/streamich/react-use) - React Hooks 
@@ -934,7 +934,7 @@
 * [Sourcegraph](https://about.sourcegraph.com/) - Git Repository Sourcegraph Editor 
 * [onefetch](https://github.com/o2sh/onefetch) - Git Information Terminal
 * [Conventional Commits](https://www.conventionalcommits.org/) - Commit Message Specification
-* [AICommits](https://github.com/Nutlope/aicommits) - Auto Commit Messages
+* [AICommits](https://github.com/Nutlope/aicommits) - Auto Commit Messages  
 * [lastversion](https://github.com/dvershinin/lastversion) or [ghrel](https://github.com/jreisinger/ghrel) - Download / View Latest Stable Repos
 * [Git Cliff](https://github.com/orhun/git-cliff) - Changelog Generator
 * [readme.so](https://readme.so/) - Readme Markdown Editor

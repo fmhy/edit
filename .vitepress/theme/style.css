@@ -1,0 +1,145 @@
+:root {
+  /* Colors: Brand */
+  --vp-c-brand-1: #7bc5e4;
+  --vp-c-brand-2: #c4e2f2;
+  --vp-c-brand-3: #4882a7;
+  --vp-c-brand-soft: #a4d5ec;
+
+  /* Colors: Button */
+  --vp-button-brand-bg: var(--vp-c-brand-1);
+  --vp-button-brand-border: var(--vp-c-brand-soft);
+  --vp-button-brand-text: var(--vp-c-white);
+  --vp-button-brand-hover-border: var(--vp-c-brand-soft);
+  --vp-button-brand-hover-text: var(--vp-c-white);
+  --vp-button-brand-hover-bg: var(--vp-c-brand-soft);
+  --vp-button-brand-active-border: var(--vp-c-brand-soft);
+  --vp-button-brand-active-text: var(--vp-c-white);
+  --vp-button-brand-active-bg: var(--vp-button-brand-bg);
+  --vp-button-alt-bg: #484848;
+  --vp-button-alt-text: #f0eeee;
+  --vp-button-alt-hover-bg: #484848;
+  --vp-button-alt-hover-text: #f0eeee;
+
+  --vp-c-bg-elv: rgba(255, 255, 255, 0.7);
+  --vp-c-bg-mark: rgb(232, 232, 232);
+
+  /* Colors: Custom Block */
+  --vp-custom-block-info-bg: rgba(171, 210, 244, 0.05);
+  --vp-custom-block-info-border: #60c4fa;
+  --vp-custom-block-info-text: rgb(39, 115, 145);
+  --vp-custom-block-info-text-deep: rgb(18, 121, 162);
+  --vp-custom-block-tip-bg: rgba(137, 202, 176, 0.05);
+  --vp-custom-block-tip-border: rgba(34, 197, 94, 1);
+  --vp-custom-block-tip-text: rgb(10, 128, 90);
+  --vp-custom-block-tip-text-deep: rgb(11, 133, 94);
+  --vp-custom-block-warning-bg: rgba(250, 204, 21, 0.05);
+  --vp-custom-block-warning-border: rgba(245, 158, 11, 1);
+  --vp-custom-block-warning-text: rgb(166, 114, 35);
+  --vp-custom-block-warning-text-deep: rgb(199, 109, 6);
+  --vp-custom-block-danger-bg: rgba(220, 38, 38, 0.05);
+  --vp-custom-block-danger-border: rgba(248, 113, 113, 1);
+  --vp-custom-block-danger-text: rgb(196, 46, 46);
+  --vp-custom-block-danger-text-deep: rgba(220, 38, 38, 1);
+}
+
+.dark {
+  /* Colors: Background */
+  --vp-c-bg: rgb(26, 26, 26);
+  --vp-c-bg-alt: rgb(23, 23, 23);
+  --vp-c-bg-elv: rgba(23, 23, 23, 0.8);
+
+  /* Colors: Custom Block */
+  --vp-custom-block-info-bg: rgba(84, 110, 155, 0.1);
+  --vp-custom-block-info-border: #3686b1;
+  --vp-custom-block-info-text: #52b0e3;
+  --vp-custom-block-info-text-deep: #00b7ff;
+  --vp-custom-block-tip-bg: rgba(51, 130, 118, 0.1);
+  --vp-custom-block-tip-border: rgba(4, 120, 87, 1);
+  --vp-custom-block-tip-text: rgb(25, 190, 129);
+  --vp-custom-block-tip-text-deep: rgba(52, 211, 153, 1);
+  --vp-custom-block-warning-bg: rgba(253, 224, 71, 0.1);
+  --vp-custom-block-warning-border: rgba(202, 138, 4, 1);
+  --vp-custom-block-warning-text: rgba(234, 179, 8, 1);
+  --vp-custom-block-warning-text-deep: rgba(250, 204, 21, 1);
+  --vp-custom-block-danger-bg: rgba(239, 68, 68, 0.1);
+  --vp-custom-block-danger-border: rgba(127, 29, 29, 1);
+  --vp-custom-block-danger-text: rgba(248, 113, 113, 1);
+  --vp-custom-block-danger-text-deep: rgba(248, 113, 113, 1);
+}
+
+.vp-doc a {
+  color: var(--vp-c-brand-1);
+  text-decoration: underline;
+  text-underline-offset: 4px;
+  text-decoration-style: solid;
+  text-decoration-color: transparent;
+  -webkit-text-decoration-color: transparent;
+  transition: text-decoration-color 0.25s;
+}
+
+.vp-doc a:hover {
+  color: var(--vp-c-brand-1);
+  text-decoration-color: var(--vp-c-brand-1);
+  -webkit-text-decoration-color: var(--vp-c-brand-1);
+}
+
+.vp-doc .custom-block a {
+  text-decoration: underline;
+  text-underline-offset: 4px;
+  text-decoration-style: solid;
+}
+
+::selection {
+  background-color: var(--vp-button-brand-bg);
+}
+
+.VPFooter a {
+  text-decoration-line: underline;
+  text-decoration-style: dashed;
+  text-underline-offset: 5px;
+  transition: 0.3s;
+}
+
+.VPFooter a:hover {
+  color: var(--vp-c-text-1);
+  text-decoration-line: underline;
+  text-decoration-style: dashed;
+  text-underline-offset: 5px;
+}
+
+/* Custom scrollbar */
+.VPSidebar::-webkit-scrollbar {
+  block-size: 4px;
+  border-end-end-radius: 14px;
+  border-start-end-radius: 14px;
+  inline-size: 4px;
+}
+
+/**
+ * Component: Home
+*/
+:root {
+  --vp-home-hero-name-color: transparent;
+  --vp-home-hero-name-background: -webkit-linear-gradient(120deg, #c4b5fd 30%, #7bc5e4);
+
+  --vp-home-hero-image-background-image: linear-gradient(-45deg, #c4b5fd 50%, #47caff 50%);
+  --vp-home-hero-image-filter: blur(44px);
+}
+
+@media (min-width: 640px) {
+  :root {
+    --vp-home-hero-image-filter: blur(56px);
+  }
+}
+
+@media (min-width: 960px) {
+  :root {
+    --vp-home-hero-image-filter: blur(68px);
+  }
+}
+
+.base64 {
+  min-width: 100%;
+  width: 0px;
+  white-space: pre-wrap;
+}

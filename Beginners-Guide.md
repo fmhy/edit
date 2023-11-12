@@ -9,40 +9,33 @@
 
 > How do I tell if a site or download is safe? Any tips? 
 Check out [Booty Guard](https://rentry.org/bootyguard) our basic safety guide. 
-Still feel unsure? Reach out to us via [Discord](https://redd.it/17f8msf) & make sure you've looked at sites/software we've listed as unsafe: [here](https://www.reddit.com/r/FREEMEDIAHECKYEAH/comments/10bh0h9/unsafe_sites_software_thread)
 
 > I don't know what seeding means or *insert other term*...
 You will find almost all terms related to piracy & more on [The Piracy Glossary](https://rentry.org/the-piracy-glossary)
-Didn't find it and still confused? Reach out to us via [Divolt](https://redd.it/uto5vw).
 
 > How do I download Photoshop/Adobe Products for free?
-You can download pre-cracked Adobe products from [M0nkrus](https://w14.monkrus.ws/) | [How to download from M0nkrus](https://rentry.co/adobesoftware) or Patch it yourself following these guides [here](https://www.reddit.com/r/GenP/wiki/index/) & for MacOS go [here](#macos)
-!!!info M0nkrus is a well trusted and reputable source for adobe software in the piracy community. 
+You can download pre-cracked Adobe products from [M0nkrus](https://w14.monkrus.ws/) who is a well trusted and reputable source for adobe software in the piracy community | [How to download from M0nkrus](https://rentry.co/adobesoftware). Alternatively, you can patch it yourself following the guides [here](https://www.reddit.com/r/GenP/wiki/index/). For MacOS go [here](#macos)
 
 > How do I download/activate Windows/Office for free?
-For Windows check out this [section](#pirate-windows)
-For Office check these [guides](https://fmhy.pages.dev/storage/#office-suites)
+For Windows check out this [section](#pirate-windows). For Office check these [guides](https://fmhy.pages.dev/storage/#office-suites)
 
 > Where do I find *insert game title / movie title*?
-For movies check out [this](https://whereyouwatch.com) and for new movies it's a good idea to keep an eye on [r/movieleaks](https://reddit.com/r/movieleaks). 
-For sites to stream from check out this [section](#streaming).
-!!!info Pirated releases generally happen after a movie is digitally released or released via Blu-Ray / DVD, which can take 3 months+ after initially playing in theaters.
-
-For games use [Rezi](https://rezi.one) or any site listed [here](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/games/#wiki_.25BA_download_games) and for newly released games check [r/crackwatch](https://reddit.com/r/crackwatch).
-!!!warning Please avoid downloading games from The Pirate Bay or any site listed: [here](https://www.reddit.com/r/FREEMEDIAHECKYEAH/comments/10bh0h9/unsafe_sites_software_thread)
+For movies check out [this](https://whereyouwatch.com) and for new movies it's a good idea to keep an eye on [r/movieleaks](https://reddit.com/r/movieleaks). For sites to stream from check out this [section](#streaming). Keep in mind that pirated releases generally happen after a movie is digitally released or released via Blu-Ray / DVD, which can take 3 months+ after initially playing in theaters. For games use [Rezi](https://rezi.one) or any site listed [here](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/games/#wiki_.25BA_download_games) and for newly released games check [r/crackwatch](https://reddit.com/r/crackwatch). Please avoid downloading games from The Pirate Bay or any site listed: [here](https://www.reddit.com/r/FREEMEDIAHECKYEAH/comments/10bh0h9/unsafe_sites_software_thread)
 
 > How do I unlock *insert random game title* DLCs?
 Use the tools listed [here](https://fmhy.pages.dev/gamingpiracyguide/#steam--epic) to unlock DLCs.
 
 > Should I install & use *insert random anti-virus software* instead of using Windows Defender?
-No don't do that, windows defender is more than good enough, you don't need another anti-virus, but if you're set on installing a secondary AV the one worth installing is Malwarebytes. Please read the note [here](#anti-virus). 
-!!!warning Stay away from Avast, Norton and McAfee, these are "bloatware" and generally not safe software.
+No don't do that, windows defender is more than good enough, you don't need another anti-virus, but if you're set on installing a secondary AV the one worth installing is Malwarebytes. Please read the note [here](#anti-virus). Stay away from Avast, Norton and McAfee, these are "bloatware" and generally not safe software.
 
  > How do I bypass this paywalled article?
 Use [this](https://bitbucket.org/magnolia1234/bypass-paywalls-firefox-clean/src/master/) / [2](https://gitlab.com/magnolia1234/bypass-paywalls-chrome-clean) to read the article easily. 
 
 > How do I download image from *insert stock site*?
  You can use [this](https://downloader.la/) if this doesn't work you can find similar stock image downloaders [here](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_stock_photo_sites).
+
+Still feel unsure? Reach out to us via [Discord](https://redd.it/17f8msf) & make sure you've looked at sites/software we've listed as unsafe: [here](https://www.reddit.com/r/FREEMEDIAHECKYEAH/comments/10bh0h9/unsafe_sites_software_thread)
+
 ***
 
 ### Windows Piracy 
