@@ -274,6 +274,7 @@
 * ⭐ **[qBittorrent](https://github.com/qbittorrent/qBittorrent/wiki/Installing-qBittorrent#linux)** / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_qbitorrent_tools), **[rTorrent](https://rakshasa.github.io/rtorrent/)** / [2](https://github.com/rakshasa/rtorrent), [BitFlu](https://bitflu.workaround.ch/), [Torrentor](https://github.com/guidopola/torrentor) or [kTorrent](https://apps.kde.org/ktorrent/) / [2](https://invent.kde.org/network/ktorrent) - Linux Torrent Clients
 * [RuTorrent](https://github.com/Novik/ruTorrent) or [flood](https://flood.js.org/) - RTorrent Web Frontend / [Themes](https://github.com/InAnimaTe/rutorrent-themes), [2](https://github.com/artyuum/3rd-party-ruTorrent-Themes)
 * rTorrent Tools - [Extended](https://github.com/pyroscope/rtorrent-ps) / [Tools](https://github.com/pyroscope/pyrocore) / [Mods](https://calomel.org/rtorrent_mods.html) / [All Seeders Column](https://github.com/AkdM/rutorrent-all-seeders) / [Docker Build](https://github.com/binhex/arch-rtorrentvpn)
+* [aMule](https://www.amule.org/) - eMule-like P2P client
 * [Luakit](https://luakit.github.io/) - Lightweight Linux Browser 
 * [browsh](https://www.brow.sh/) - Text Based Browser
 * [aerc](https://aerc-mail.org/), [ElectronMail](https://github.com/vladimiry/ElectronMail) or [dodo](https://github.com/akissinger/dodo) - Email Clients
@@ -332,8 +333,9 @@
 
 * 🌐 **[Linux File Backup](https://github.com/restic/others)** - File Backup App List
 * ⭐ **[Warpinator](https://github.com/linuxmint/warpinator)**, [syncthing](https://syncthing.net/), [portal](https://github.com/SpatiumPortae/portal) or [Sharing](https://github.com/parvardegr/sharing) - File Sync Apps
+* ⭐ **[Baobab](https://gitlab.gnome.org/GNOME/baobab)** - Disk Usage Analyzer
 * [ANGRYsearch](https://github.com/DoTheEvo/ANGRYsearch), [CatCLI](https://github.com/deadc0de6/catcli), [xplr](https://xplr.dev/) / [GitHub](https://github.com/sayanarijit/xplr) / [Discord](https://discord.com/invite/JmasSPCcz3), [logo-ls](https://github.com/Yash-Handa/logo-ls), [ugrep](https://github.com/Genivia/ugrep) or [Achoz](https://github.com/kcubeterm/achoz) - File Explorers
-* [Dolphin](https://userbase.kde.org/Dolphin), [SpaceFM](https://ignorantguru.github.io/spacefm/) or [ranger](https://github.com/ranger/ranger) - File Managers
+* [Dolphin](https://userbase.kde.org/Dolphin) or [SpaceFM](https://ignorantguru.github.io/spacefm/) - File Managers
 * [p7zip](https://p7zip.sourceforge.net/) - File Archiver / Unzipper
 * [Curlew](https://curlew.sourceforge.io/) - File Converter
 * [Boxxy](https://github.com/queer/boxxy) - Contain Files / Directories 
@@ -353,7 +355,7 @@
 * 🌐 **[Awesome TUIs](https://github.com/rothgar/awesome-tuis)** - List of TUIs
 * ↪️ **[Linux Shell Index](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_command_line_shells)** or [Modern Unix](https://github.com/ibraheemdev/modern-unix)
 * ↪️ **[CLI Cheat Sheets](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_cli_cheat_sheets)**
-* ⭐ **[Baobab](https://gitlab.gnome.org/GNOME/baobab)**, [nnn](https://github.com/jarun/nnn), [clifm](https://github.com/leo-arch/clifm), [fm](https://github.com/mistakenelf/fm), [Joshuto](https://github.com/kamiyaa/joshuto), [gdu](https://github.com/dundee/gdu) or [NCDU](https://dev.yorhel.nl/ncdu) - Terminal File Manager / Disk Usage Analyzers
+* ⭐ **[lf](https://github.com/gokcehan/lf)**, [ranger](https://github.com/ranger/ranger), [nnn](https://github.com/jarun/nnn), [clifm](https://github.com/leo-arch/clifm), [fm](https://github.com/mistakenelf/fm), [Joshuto](https://github.com/kamiyaa/joshuto), [gdu](https://github.com/dundee/gdu) or [NCDU](https://dev.yorhel.nl/ncdu) - Terminal File Manager / Disk Usage Analyzers
 * ⭐ **[Alacritty](https://github.com/alacritty/alacritty)**, **[Kitty](https://sw.kovidgoyal.net/kitty/overview/)**, [Simple Terminal](https://st.suckless.org/), [yakuake](https://apps.kde.org/yakuake/), [emacs-eat](https://codeberg.org/akib/emacs-eat) or [tabby](https://tabby.sh/) - Terminal Emulators
 * [utils](https://github.com/Loupeznik/utils) or [UsefulLinuxShellScripts](https://github.com/jackrabbit335/UsefulLinuxShellScripts) - Linux Shell Tool Scripts
 * [Gum](https://github.com/charmbracelet/gum) - Shell Script Creator
