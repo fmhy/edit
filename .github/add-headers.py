@@ -16,7 +16,7 @@ headersData = {
     "Non-English.md":           ["Non-English", "International Piracy Sites"],
     "ReadingPiracyGuide.md":    ["Books / Comics / Manga", "Books, Comics, Magazines, Newspapers"],
     "STORAGE.md":               ["Storage", "Index for everything in the wiki."],
-    "TOOLSGuide.md":            ["Tools", "General Tools, Internet Tools, System Tools"],
+    # "TOOLSGuide.md":            ["Tools", "General Tools, Internet Tools, System Tools"],
     "TorrentPiracyGuide.md":    ["Torrenting", "Torrent Clients, Torrent Sites, Trackers"],
     "VideoPiracyGuide.md":      ["Movies / TV / Anime", "Stream Videos, Download Videos, Torrent Videos"],
     "base64.md":                ["Base64", "Base64 storage"],
