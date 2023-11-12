@@ -537,7 +537,7 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://70.88.180.169:8
 * ⭐ **[DataVizCatalogue](https://datavizcatalogue.com/)** - Data Visualization Wiki
 * [flowchart fun](https://flowchart.fun/) - Generate Flowchart From Text / [GitHub](https://github.com/tone-row/flowchart-fun)
 * [Pie Chart Maker](https://piechartmaker.co/) - Create Pie Charts
-* [Bar Graph Maker](https://www.bargraphmaker.net/) - Create a Bar Graph
+* [Bar Graph Maker](https://www.bargraphmaker.net/) - Create Bar Graphs
 * [Vinnslu](https://maltsev.github.io/vinnslu/) - Tabular Data Parser
 
 [Data GIF Maker](https://datagifmaker.withgoogle.com/), [Flourish](https://flourish.studio/), [Datawrapper](https://www.datawrapper.de/), [chartd](https://www.chartd.co/), [Chart.xkcd](https://timqian.com/chart.xkcd/), [QuickChart](https://quickchart.io/), [Percival](https://percival.ink/), [Histogram Maker](https://histogrammaker.co/), [amCharts](https://live.amcharts.com/), [ACME Chartmaker](https://acme.com/chartmaker/), [ParaView](https://www.paraview.org/), [app.diagrams](https://app.diagrams.net/) / [Git](https://github.com/jgraph/drawio), [Dia](http://dia-installer.de/), [RawGraphs](https://rawgraphs.io/), [Draw](https://www.drawio.com/), [yEd Live](https://www.yworks.com/yed-live/), [Mermaid](https://mermaid.live/), [lybniz](https://github.com/thomasfuhringer/lybniz), [LineGraphMaker](https://linegraphmaker.co/), [SwimLanes](https://swimlanes.io/), [Quiver](https://q.uiver.app/), [Gephi](https://gephi.org/), [Graphviz](https://graphviz.org/) / [Editor](https://edotor.net/), [graphonline](https://graphonline.ru/en/), [Diagramify](https://diagramify.agiliq.com/), [Charts Builder](https://charts.hohli.com/), [diagramgpt](https://www.eraser.io/diagramgpt)
