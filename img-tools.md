@@ -27,7 +27,7 @@
 * [Scribus](https://www.scribus.net/) - Page Layout & Typesetting Program
 * [PhotoFunia](https://photofunia.com/) or [Designify](https://designify.com/) - Photo Effects / Filters
 * [FilmDev](https://filmdev.org/) - Film Development Recipes
-* [MagicaVoxel](https://ephtracy.github.io/) - Voxel Art Editor / Interactive Path Tracing Renderer
+* [MagicaVoxel](https://ephtracy.github.io/) or [Goxel](https://goxel.xyz/) - Voxel Art Editor / Interactive Path Tracing Renderer
 * [StyleCLIP](https://github.com/orpatashnik/StyleCLIP) - Text Driven Image Manipulation / [Video](https://youtu.be/5icI0NgALnQ)
 * [Vectr](https://vectr.com/) or [VectorInk](https://vectorink.io/) - Vector Graphics Editor
 * [JPEG Sandbox](https://github.com/OmarShehata/jpeg-sandbox) - DCT Coefficient Editor
