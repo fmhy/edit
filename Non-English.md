@@ -31,7 +31,6 @@
 ## ▷ Streaming
 
 * ⭐ **[FaselHD](https://www.faselhd.vip/)** - Movies / TV / Anime
-* [Cima4U](https://fc22.cimaa4u.net/) - Movies / TV / [Telegram](https://t.me/cima4u11) / Changes Domains Monthly
 * [w.arlionz](https://arlionztv.click/) - Movies / TV
 * [aflaam](https://aflaam.com/) - Movies / TV
 * [LODYNET](https://lodynet.link/) - Movies / TV
@@ -65,7 +64,6 @@
 * [livehd7](https://livehd7.bio/) - Live Soccer
 * [melody4arab](https://melody4arab.com/) - Music
 * [al-fann](https://www.al-fann.net/) - Music
-* [arab-zik](https://arab-zik.com/) - Music
 
 ## ▷ Reading
 
@@ -419,7 +417,6 @@
 * [nooSFere](https://www.noosfere.org/) - Science Fiction
 * [Origines](https://discord.com/invite/origines) - Manga / Manhwa / Manhua / NSFW
 * [japscan](https://www.japscan.lol/) - Manga
-* [scan-fr](https://www.scan-fr.org/) - Manga
 * [mangascan](https://manga-scan.co/), [2](https://scansmangas.me/), [3](https://scanmanga-vf.ws/) - Manga
 * [mangadraft](https://www.mangadraft.com/) - Manga
 * [Bento Manga](https://www.bentomanga.com/) - Manga
@@ -756,7 +753,6 @@
 * [Akiba-Online](https://www.akiba-online.com/) - Video / Audio / Comics / NSFW
 * [Asia Media Blog](https://asiamediablog.com/) - Video / Audio/ Magazines
 * [Japan Media Blog](https://t.me/japanmusicfree) - Video / Audio
-* [JPFILES](https://jpfiles.eu/) - Video / Audio / Books / NSFW
 * [jpddl](https://jpddl.com/) - Manga / Anime / Music / Drama
 * [JPLearner](http://www.jplearner.to/) - Video / Manga / Magazines
 * [Sukidesuost](https://sukidesuost.info/) - Music / MP3 / FLAC
@@ -1081,7 +1077,6 @@
 * [Comando](https://comando.la) - Movies / TV
 * [tugaflix](https://tugaflix.best) - Movies / TV / Use Adblock
 * [Filmes Mega](https://filmesmega.co) - Movies / TV
-* [Top Dez Filmes](https://topdezfilmes.de) - Movies / TV
 * [Mega Torrents](https://megatorrents.co) - Movies / TV
 * [Filmes Épicos](http://www.filmesepicos.com) - Movies
 * [Download Cult](http://downloadcult.org) - "Cult" Movies
@@ -1450,7 +1445,6 @@
 * [Cultura Para Todos](https://culturaparatodos.eu/) - Video / Audio / Reading
 * [Flipax2](https://flipax2.me/) - Video / Audio / Reading / Castilian
 * [Fiuxy2](https://fiuxy2.co/) - Video / Audio / Reading / NSFW / [Bypasser script](https://greasyfork.org/en/scripts/477591)
-* [SeriesTV](https://www.seriestv.in/) - Video / Audio / Reading / NSFW
 * [La Taberna Del Cangrejo](http://www.latabernadelcangrejo.eu/) - Video / Audio
 * [Descargandoxmega](https://www.descargandoxmega.com/) - Movies / TV / Animation / Latino / Castilian
 * [SomosMovies](https://somosmovies.com/) - Movies / TV
@@ -1512,7 +1506,6 @@
 * [Akiba-kei](http://akiba-team.org/) - Anime
 * [Animextremist](http://animextremist.com/) - Anime / Manga
 * [epublibre](https://www.epublibre.org/) - Books
-* [El Plan](https://hackmd.io/@algamo/DELANTERO-PICHICHI), [2](https://www.reddit.com/user/No_Land656) - Live Sports Acestream IDs
 * [elcano](https://sg.hideip.co/direct/aHR0cDovL2VsY2Fuby50b3Av), [2](https://sg.4everproxy.com/direct/aHR0cDovL2VsY2Fuby50b3Av) - Live Sports Acestream IDs / [Matrix](https://matrix.to/#/!zrcckivBbqZjmykTPi:sibnsk.net?via=matrix.org&via=sibnsk.net) / [Link Scraper](https://github.com/ddgarciad03/IDS-Export)
 
 ## ▷ Streaming
@@ -1522,6 +1515,8 @@
 * ⭐ **[Playdede](https://dominiosplaydede.com/)** - Movies / TV / Anime / 1080p / [Telegram](https://t.me/s/playdedeinformacion)
 * ⭐ **[Kodi Addon "Cristal Azul"](https://rentry.co/kodi-addon-cristal-azul/)** - Movies / TV / Live Sports / Castilian / [Telegram](https://t.me/addonfestaycristal/)
 * ⭐ **[LaQuay TDT Channels](https://github.com/LaQuay/TDTChannels)** - Live TV / Live Radio / IPTV / Castilian
+* ⭐ **[El Plan](https://hackmd.io/@algamo/DELANTERO-PICHICHI)**, [2](https://www.reddit.com/user/No_Land656) - Live Sports Acestream IDs
+* ⭐ **[Flipax](https://flipax.es/)** - Live Sports
 * [Zonaleros](https://www.zona-leros.com/peliculas-hd-online-lat) - Movies / TV / 1080p / Latino
 * [Movidy.one](https://movidy.one/) - Movies / TV / Anime / 1080p / Latino
 * [Solo Latino](https://sololatino.net/) - Movies / TV / Anime / 1080p / Latino
@@ -1587,7 +1582,6 @@
 * [Edutin Academy](https://edutin.com/) - Courses
 * [Tele Gratis Online](https://telegratis.online/) - Live TV
 * [Television Gratis](https://www.televisiongratishd.com/) - Live TV / Latino
-* [Flipax](https://flipax.es/) - Live Sports
 * [MaxTV](https://maxtv.one/), [2](https://maxtv.city/) - Live Sports / [Telegram](https://t.me/s/maxtvweb)
 * [LaCasadelTikiTaka](https://www.lacasadeltikitaka.net/) - Live Soccer / MMA
 
