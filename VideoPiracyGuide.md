@@ -185,7 +185,6 @@
 * ⭐ **[GizmoPlex](https://www.gizmoplex.com/mst3k)** - MST3K Movies
 * ⭐ **[RiffTrax Twitch](https://www.twitch.tv/rifftrax)** or [RiffTrax Pluto](https://pluto.tv/live-tv/rifftrax) - RiffTrax Live Streams
 * ⭐ **[Ubu](https://ubu.com/film/)** - Short Films / Avant-Garde
-* [ElectronicNostalgia1991](https://www.youtube.com/c/ElectronicNostalgia1991/) - Movie Commentaries
 * [Classic Cinema Online](https://classiccinemaonline.com/), [ClassixApp](https://www.classixapp.com/), [BnWMovies](https://bnwmovies.com/), [The Classic Movies](https://www.the-classic-movies.com/), [RetroFlix](https://retroflix.org/) or [Dumb Classic Movies](https://www.dumb.com/movies/) - Classic Films
 * [TheFilmDetective](https://www.thefilmdetective.com/) - Classic Films / TV
 * [RetroVision Media](https://www.retrovisionmedia.com/) - Retro / Classic Films
@@ -478,7 +477,6 @@
 * [BestNHL](https://bestnhl.com/) - Sports
 * [Footybite](https://streams.footybite.com/) - Sports
 * [MARKKY](https://markkystreams.com/) - Sports
-* [SportsW](https://sportsw.me/) - Sports
 * [CricHD](https://mc2.crichd.com/) - Sports
 * [WorldStreams](https://worldstreams.net/) - Sports
 * [p2pstreams](https://p2pstreams.live/) - Sports
@@ -489,7 +487,6 @@
 * [CricHD](https://v4.crichd.tv/) - Sports
 * [UFCKhabib](https://sportsurge.stream/) - Sports
 * [TotalSportek](https://totalsportek.pro/), [2](https://www.totalsportek.to/) - Sports
-* [NodelayTV](http://nodelaytv.pw/) - Sports
 * [Rojadirecta](https://www.rojadirecta.direct/) - Sports
 * [BoxingStreams100](https://boxings.boxingstreams100.com/) - Boxing
 * [/r/WWEstreams/](https://www.reddit.com/r/WWEstreams/) - Wrestling
@@ -650,7 +647,7 @@
 
 ***
 
-* 🌐 **[TG Anime Index](https://telegra.ph/Websites-To-Watch-And-Download-Anime-09-10)** / [Discord](https://discord.gg/Snackbox) - Anime Download Site Index
+* 🌐 **[The Index DDL](https://theindex.moe/collection/ddl-communities)** - Anime DDL Sites / [Discord](https://discord.gg/Snackbox) / [Wiki](https://thewiki.moe/)
 * ↪️ **[Anime Download Apps](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_anime_download_apps)**
 * ↪️ **[Telegram Anime Downloads](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_telegram_anime_downloads)**
 * ⭐ **[Tokyo Insider](https://www.tokyoinsider.com/)** - Sub / Dub
@@ -751,7 +748,8 @@
 * ⭐ **[Hi10Anime](https://hi10anime.com/)** - Sub / [Discord](https://discord.com/invite/n26mwMHB)
 * ⭐ **[bakabt](https://bakabt.me/)** - Sub / Dub / [Interviews](https://wiki.bakabt.me/index.php/Sign_up)
 * ⭐ **[Anime Torrent CSE](https://cse.google.com/cse?cx=006516753008110874046:lamzt6ls4iz)**
-* [SneeDex](https://sneedex.moe/), [FanSubDB](https://fansubdb.com/), [Fansubcar](https://index.fansubcar.tel/) or [SeaDex](https://releases.moe/) / [Discord](https://discord.com/invite/jPeeZewWRn) - Highest Quality Anime Release Guides
+* [SneeDex](https://sneedex.moe/) or [SeaDex](https://releases.moe/) / [Discord](https://discord.com/invite/jPeeZewWRn) - Anime Video Quality Guides
+* [Fansubcar](https://index.fansubcar.tel/) - Fansubbers Index
 * [SubsPlease](https://subsplease.org/) - Sub
 * [DameDesuYo](https://damedesuyo.com/) - Sub 
 * [GoodJobMedia](https://www.goodjobmedia.com/) - Sub
@@ -898,7 +896,6 @@
 * [opensubtitles.com](https://www.opensubtitles.com/) - Subtitles
 * [Subs4Free](https://www.subs4free.info/) - Subtitles 
 * [English-Subtitles](https://english-subtitles.org/) - Subtitles
-* [AddSubtitles](https://addsubtitles.net/) - Subtitles
 * [SubAsk](https://subask.com/) - Subtitles
 * [YTS Subs](https://yts-subs.com/) - Subtitles
 * [SubtitleSeeker](https://www.subtitleseeker.in/) - Subtitles
