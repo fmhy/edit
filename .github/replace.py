@@ -88,7 +88,7 @@ def reformat_subsections(text):
     text = re.sub('#wiki_', '/#', text)
     text = re.sub('.25BA_', '', text)
     text = re.sub('.25B7_', '', text)
-    text = re.sub('_.2F_', '--', text)
+    text = re.sub('_.2F_', '-', text)
     text = replace_underscore(text)
     return text
 
