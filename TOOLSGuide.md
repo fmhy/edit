@@ -619,7 +619,6 @@
 * [IQ.Wiki](https://iq.wiki/) - Crypto Encyclopedia
 * [Crypto Ecosystem 2021](https://docs.google.com/document/d/1RM7AoUKbXEqZ2qATTxGYLMexu3Jxrf3oYiwbsrXOXUQ) - Beginner's Guide to Crypto Ecosystem
 * [Cryptopedia](https://www.gemini.com/cryptopedia) or [Crypto Canon](https://a16zcrypto.com/posts/article/crypto-readings-resources//) - Crypto Learning Resources
-* [MyTokenView](https://www.mytokenview.com/) - Compare Cryptocurrency A to B's Market Cap
 * [BlockChain](https://www.blockchain.com/explorer), [BlockChair](https://blockchair.com/) or [LiveCoinWatch](https://www.livecoinwatch.com/) - Live Cryptocurrency Prices
 * [ETFDB](https://etfdb.com/) - ETF Research / Analysis Platform
 * [protocol-reading-list](https://github.com/b-chiang/protocol-reading-list) - Crypto Protocols
@@ -695,7 +694,7 @@
 * [OPoster](https://github.com/OrienteerBAP/OPoster) or [OneUp](https://www.oneupapp.io/) - Social Media Post Schedulers
 * [you-get](https://github.com/soimort/you-get) - Download Media Contents from Webpages
 * [Login Reminder Remover](https://greasyfork.org/en/scripts/395497-login-reminder-popup-remover) - Remove Login Popup from Sites
-* [BugMeNot](https://bugmenot.com/), [Parolja](http://en.parolja.net/), [FreeAccount](https://freeaccount.biz/) or [Password Login](https://password-login.com/) - Access & Share Throwaway Accounts
+* [BugMeNot](https://bugmenot.com/), [FreeAccount](https://freeaccount.biz/) or [Password Login](https://password-login.com/) - Access & Share Throwaway Accounts
 * [Voice Dictation](https://dictation.io/) - Type with Voice
 * [Instapaper](https://www.instapaper.com/) - Bookmarking Tool
 * [Pilgrim](https://pilgrim.are.na/) - Tree Style Path Bookmarking
