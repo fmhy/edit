@@ -952,7 +952,7 @@
 * 🌐 **[The Index](https://theindex.moe/library/novels)** - Light Novel Site Index / [Discord](https://discord.gg/Snackbox) / [Wiki](https://thewiki.moe/)
 * ⭐ **[Novel OneDrive Index](novel-indx.vercel.app/)** -Ad-free, No Redirect DDL Site
 * ⭐ **[Novel Updates](https://www.novelupdates.com/)**
-* ⭐ **[jnovels](https://jnovels.com/)/[MP4DIRECTS](https://mp4directs.com/)**
+* ⭐ **[jnovels](https://jnovels.com/)** or [MP4DIRECTS](https://mp4directs.com/)
 * ⭐ **[Just Light Novels](https://www.justlightnovels.com/)**
 * [Vynovel](https://vynovel.com/)
 * [Light Novel World](https://www.lightnovelworld.com/), [2](https://www.novelpub.com)
