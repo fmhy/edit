@@ -409,16 +409,12 @@
 * [MIDI Recorder](https://midi-recorder.web.app/) - MIDI Keyboard Recorder
 * [BitMidi](https://bitmidi.com/) or [VGMusic](https://www.vgmusic.com/) - MIDI Files
 * [Basic Pitch](https://basicpitch.spotify.com/) - Create MIDI via Sound
-* [Orca](https://hundredrabbits.itch.io/orca) or [Slang](http://slang.kylestetz.com/) - Create Audio with Code
 * [madeon](https://adventuremachine.4thfloorcreative.co.uk/) - Create Music with Madeon Samples
-* [danielx](https://danielx.net/composer/), [Super Mario Paint](https://github.com/DC37/Super-Mario-Paint) or [AMS](https://flyx.org/ams/) - Mario Paint Audio Composers / [Archive](https://archive.org/details/mariopaintcomposer_201609)
-* [Fortress Paint Composer](https://gamejolt.com/games/FPC/377035) - Team Fortress Audio Composer
-* [Thirty Dollar Website](https://thirtydollar.website/) - Meme Sound Audio Editor / [Examples](https://youtu.be/8SZZPxERK_8)
+* [danielx](https://danielx.net/composer/) or [AMS](https://flyx.org/ams/) - Mario Paint Audio Composers / [Archive](https://archive.org/details/mariopaintcomposer_201609)
 * [Famistudio](https://bleubleu.itch.io/famistudio) - NES / Famicon Audio Composers
 * [LittleSoundDJ](https://www.littlesounddj.com/lsd/index.php) - Gameboy Audio Editor
 * [Open Note Block Studio](https://opennbs.org/) - Minecraft Note Block Song Editor
 * [Acid Machine 2](https://errozero.co.uk/acid-machine/) - Acid Techno Machine
-* [AGS](https://audio-file.org/2020/11/25/ags-advanced-gtk-sequencer/) - Audio Sequencer
 * [Sequencer](https://sequencer.henryfellerhoff.com/) or [DrawBeats](https://drawbeats.com/) - Scale Sequencers
 * [Roland50.studio](https://roland50.studio/) - Online Drum Machine / TB-303 Bass Synth
 * [iO-808](https://io808.com/), [Sequencer64](https://www.sequencer64.com/), [Drummy](https://drummy.io/) or [Hammmerhead](http://www.threechords.com/hammerhead/) - Online Drum Machines
@@ -428,50 +424,36 @@
 * [Petaporon](https://pixwlk.itch.io/petaporon) or [OnlineSequencer](https://onlinesequencer.net/) - Piano Sequencers / [Editor](https://pixwlk.itch.io/petaporon-editor)
 * [MK-1](https://ericrosenbaum.github.io/MK-1/) - Online Sampling Keyboard
 * [Theremin](https://femurdesign.com/theremin/) - Online Synth / Theremin 
-* [Vital](https://vital.audio/) - Spectral Warping Wavetable Synth
 * [SampleBrain](https://gitlab.com/then-try-this/samplebrain) - Sample Mixer
-* [Sample-Stitch](http://samplestitch.com.s3-website-us-east-1.amazonaws.com/) - Pop Song Sample Mixer
 * [WubMachine](https://the.wubmachine.com/) - Create Dubstep Versions of Songs
 * [AI Song Generators](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/ai#wiki_.25BA_audio_generators)
 * [CSound](https://csound.com/) - Music Computing System
-* [GoAudio](https://github.com/DylanMeeus/GoAudio) - Audio Processing Library 
 * [Helio](https://helio.fm/) or [NoteHeads](https://noteheads.net/) - Music Composition Tools
 * [AudioAlter](https://audioalter.com/preset/8d-audio) - Create '8D' Audio
 * [Musicara](https://www.musicara.ml/) or [X-Minus](https://x-minus.pro/) - Create Karaoke Songs
-* [Clyp](https://clyp.it/), [Audio Recording](https://codepen.io/eddch/full/ZMOjPL), [Vocaroo](https://vocaroo.com/) or [Vocaroo](https://www.vocaroo.com/), [VoiceSpice](https://voicespice.com/) or [Reverb Record](https://record.reverb.chat/) - Online Audio Recorder 
-* [MP3Smaller](https://www.mp3smaller.com/) - MP3 Compressor 
+* [Audio Recording](https://codepen.io/eddch/full/ZMOjPL) - Online Audio Recorder 
 * [AudioTrimmer](https://audiotrimmer.com/) - Online Audio Cutters
-* [ShortApp](https://shortsapp.com/) - Cut Video / Audio into Shorts 
-* [MP3CutterPro](https://mp3cutterpro.com/), [Flacon](https://flacon.github.io/) or [SongDonkey](https://songdonkey.ai/) - Audio Track Splitter 
-* [ISSE](https://isse.sourceforge.net/) - Source Separation Editor
-* [BeatMachine](https://beatmachine.branchpanic.me/), [SongSurgeon](https://songsurgeon.com/engine/ssweb/) or [AudioSpeedChanger](https://www.audiospeedchanger.com/) - Audio Tempo Editors
+* [MP3CutterPro](https://mp3cutterpro.com/) or [Flacon](https://flacon.github.io/) - Audio Track Splitter 
+* [BeatMachine](https://beatmachine.branchpanic.me/) or [SongSurgeon](https://songsurgeon.com/engine/ssweb/) - Audio Tempo Editors
 * [Get Song BPM](https://getsongbpm.com/) or [MusicStax](https://musicstax.com/) - Song Tempo Database
-* [MusicSpeedChanger](https://musicspeedchanger.com/) - Music Speed Changer
-* [beets.io](https://beets.io/) / [2](https://github.com/beetbox/beets) / [Guides](https://redd.it/11iaafu), [alto](https://github.com/ItsLychee/alto), [Zortam](https://www.zortam.com/), [MP3Tag](https://www.mp3tag.de/en/), [TagEditor](https://github.com/Martchus/tageditor), [MusicBee](https://getmusicbee.com/), [EasyTAG](https://wiki.gnome.org/Apps/EasyTAG), [Kid3](https://kid3.kde.org/), [MetaTogger](https://www.luminescence-software.org/en/metatogger) or [MusicBrainz](https://picard.musicbrainz.org/) - Music Metadata Organizers
+* [beets.io](https://beets.io/) / [Guides](https://redd.it/11iaafu), [MP3Tag](https://www.mp3tag.de/en/), [TagEditor](https://github.com/Martchus/tageditor), [EasyTAG](https://wiki.gnome.org/Apps/EasyTAG), [Kid3](https://kid3.kde.org/), [MetaTogger](https://www.luminescence-software.org/en/metatogger) or [MusicBrainz](https://picard.musicbrainz.org/) - Music Metadata Organizers
 * [tone](https://github.com/sandreas/tone) - View / Modify Audio Metadata
-* [Croosfade](https://crossfade.io/) - Video and Audio Crossfading
-* [ZzFXM](https://keithclark.github.io/ZzFXM/) - JavaScript Music Renderer
 * [YADG](https://yadg.cc/) - Scrape / Render Music via Templates / [API](https://yadg.cc/api/)
 * [Text to Speech](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/ai#wiki_.25B7_text_to_speech) - Text to Speech Sites / Apps
 * [Voice Change / Clone](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/ai#wiki_.25B7_voice_change_.2F_clone) - AI Voice Changing / Cloning
-* [SoftVC VITS](https://github.com/svc-develop-team/so-vits-svc) - Singing Voice Text to Speech
-* [Audiogrep](https://antiboredom.github.io/audiogrep/), [Otter](https://otter.ai/), [Tune Transcriber](https://www.tunetranscriber.com/) or [mp4grep](https://github.com/o-oconnell/mp4grep) - Audio Transcribing / [GitHub](https://github.com/antiboredom/audiogrep)
+* [mp4grep](https://github.com/o-oconnell/mp4grep) - Audio Transcribing
 * [Praat](https://www.fon.hum.uva.nl/praat/) - Analyze, Synthesize & Manipulate Speech / [GitHub](https://github.com/praat/praat)
 * [Adobe Enhance](https://podcast.adobe.com/enhance) - Speech Enhancer
 * [Fadr](https://fadr.com/) - STEM Creator / Editor
-* [Splitter](https://www.splitter.ai/), [AudioChum](https://audiochum.com/), [splitmysong](https://www.splitmysong.com/), [free-music-demixer](https://freemusicdemixer.com/), [ezstems](https://ezstems.com/) or [melody ml](https://melody.ml/) - Separate Voice from Instrumentals
+* [AudioChum](https://audiochum.com/), [splitmysong](https://www.splitmysong.com/), [free-music-demixer](https://freemusicdemixer.com/), [ezstems](https://ezstems.com/) or [melody ml](https://melody.ml/) - Separate Voice from Instrumentals
 * [Acapella-Extractor](https://www.acapella-extractor.com/) - Remove Background Tracks from Songs
-* [Krisp](https://krisp.ai/) or [noise-suppression-for-voice](https://github.com/werman/noise-suppression-for-voice) / [CLI](https://github.com/IniasP/rnnoise-cli) - Noise Suppression Tools
+* [Krisp](https://krisp.ai/) or [noise-suppression-for-voice](https://github.com/werman/noise-suppression-for-voice) - Noise Suppression Tools
 * [Wave Link](https://help.elgato.com/hc/en-us/articles/360044566172-Wave-Link-First-Time-Setup-for-Windows-10) or [VoiceMeeter](https://vb-audio.com/Voicemeeter/index.htm) / [Banana](https://vb-audio.com/Voicemeeter/banana.htm) - Audio Mixers / Multi-Device Playback
-* [Sound Branch](https://soundbran.ch/) or [ZenCastr](https://zencastr.com/) - Podcast Creators
-* [Spotify Podcasters](https://podcasters.spotify.com/) - Podcaster Dashboard
 * [Luplayer](https://luplayer.org/) - Podcast Sound Effects
 * [blamscamp](https://github.com/blackle/blamscamp) - Bandcamp Style Player for Selling Albums on Itch.io
 * [Gibber](https://gibber.cc/) - Audiovisual Code Composer 
-* [AAXtoMP3](https://github.com/KrumpetPirate/AAXtoMP3) - Convert AAX to MP3 / FLAC / M4A / OPUS 
 * [inAudible](https://github.com/rmcrackan/inAudible) - Audible to MP3 converter
 * [Soundiiz](https://soundiiz.com/) or [Unitunes](https://github.com/platers/unitunes) - Transfer Playlists Between Platforms
-* [Suda](https://github.com/yaronzz/Suda) - Playlist Manager
 * [Sharky's EAC Guide](https://docs.google.com/document/d/1b1JJsuZj2TdiXs--XDvuKdhFUdKCdB_1qrmOMGkyveg) - CD Audio Ripping Guide
 * [Exact Audio Copy](https://www.exactaudiocopy.de/) or [Whipper](https://github.com/whipper-team/whipper) - CD / DVD Audio Ripper 
 * [Arpeggiator](https://codepen.io/jakealbaugh/full/qNrZyw) or [AutoChords](https://autochords.com/) - Chord Progression Generators
@@ -483,13 +465,6 @@
 * [REW](https://www.roomeqwizard.com/) - Room Acoustic, Loudspeaker and audio device measurement
 * [Tuner Ninja](https://tuner.ninja/) - Instrument Tuner 
 * [PIXELSYNTH](https://ojack.xyz/PIXELSYNTH/) - Image to Sound Synthesizer
-* [img-encode](https://github.com/alexadam/img-encode) - Image to Audio Converter
-* [weird-converter](https://github.com/AlbertSuarez/weird-converter) - Image to Audio / Audio to Image Converter
-* [librosa](https://librosa.org/) - Audio Analysis / Information Retrieval / [Github](https://github.com/librosa/librosa)
-* [Auphonic](https://auphonic.com/) - Audio Leveler
-* [LightHost](https://github.com/rolandoislas/LightHost) - VST / AU Host
-* [OPUS](https://opus-codec.org/) - Audio Codec / [Bitrate Optimization](https://github.com/master-of-zen/BOPUS)
-* [AQ](https://github.com/rxi/aq) - Audio Tool Creator
 * [AirPods Dirty Secret](https://docs.kenp.io/) - AirPods Repair Directory
 
 ***
