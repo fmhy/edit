@@ -93,7 +93,7 @@ async function handleSubmit(type?: FeedbackType["type"]) {
         <textarea v-model="feedback.message" autofocus class="input" />
         <p class="desc">Contacts, so we can get back to you. (Optional)</p>
         <textarea v-model="feedback.contact" class="contact-input" />
-        <button type="submit" class="btn btn-primary" :disabled="feedback.message.length > 10" @click="handleSubmit()">
+        <button type="submit" class="btn btn-primary" :disabled="feedback.message.length > 1000" @click="handleSubmit()">
           Submit
         </button>
       </div>
