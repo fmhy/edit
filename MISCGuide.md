@@ -846,7 +846,7 @@
 * [improved Potato](https://github.com/patheticGeek/improved-potato) - Export Bookmarks
 * [Remarkable](https://github.com/samueldobbie/remarkable-extension) - Remove Dead Bookmarks / Refresh Icons
 * [Mercury Reader](https://reader.postlight.com/) - Clear Clutter From Articles / [GitHub](https://github.com/postlight/parser)
-* [OpenDyslexic](https://chrome.google.com/webstore/detail/opendyslexic-for-chrome/cdnapgfjopgaggbmfgbiinmmbdcglnam) - Increase Page Readability
+* [OpenDyslexic](https://opendyslexic.org/) - Increase Page Readability
 * [Amino](https://aminoeditor.com/) - Customize Webpage CSS
 * [NFT to Silly JPEG](https://github.com/k-wong/nft-to-silly-jpeg) - Replace NFT Images
 * [DownAlbum](https://chrome.google.com/webstore/detail/downalbum/cgjnhhjpfcdhbhlcmmjppicjmgfkppok?hl=en) - Image / Video Album Downloader / [Script](https://openuserjs.org/scripts/indream/DownAlbum) 
@@ -1021,7 +1021,6 @@
 * [PriceSlash Bot](https://t.me/PriceSlash_Bot) - Price Tracking Telegram Bot
 * [Search Ebay Sold](https://chrome.google.com/webstore/detail/search-ebay-sold/mhlcjbhhieanjjafbcoeclghpnjhepif) - Ebay Sold Item Search
 * [/r/WhatsThisWorth](https://www.reddit.com/r/whatsthisworth/) - Online Appraisals
-* [DiaperGrid](https://diapergrid.com/) - Diaper Price Tracker
 * [GasPrices](https://gasprices.aaa.com/) - Gas Price Tracker
 * [SlyToday](https://slytoday.com/) - Price Comparison Search
 * [Valuta EX](https://valuta.exchange/) or [Currency World](https://currency.world/)- Currency Converters / [Firefox](https://addons.mozilla.org/en-US/firefox/search/?q=currency%20converter&sort=relevance&type=extension) / [Chrome](https://chrome.google.com/webstore/search/currency%20converter?hl=en&_category=extensions)
