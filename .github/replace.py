@@ -96,6 +96,7 @@ def replace_urls(text):
     text = remove_backtowiki_toc(text)
     text = replace_pages(text)
     text = reformat_subsections(text)
+    text = re.sub('/#', '#', text)
     text = general(text)
     text = individual(text)
     return text
