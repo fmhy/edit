@@ -949,7 +949,7 @@
 
 ## ▷ Light Novel Sites
 
-* 🌐 **[TheIndex](https://theindex.moe/library/novels)** - Light Novel Site Index
+* 🌐 **[The Index](https://theindex.moe/library/novels)** - Light Novel Site Index / [Discord](https://discord.gg/Snackbox) / [Wiki](https://thewiki.moe/)
 * ⭐ **[Novel Updates](https://www.novelupdates.com/)**
 * ⭐ **[Just Light Novels](https://www.justlightnovels.com/)**
 * ⭐ **[ThatNovelCorner](https://thatnovelcorner.com/)**
@@ -995,7 +995,6 @@
 * [Wuxia Blog](https://www.wuxia.blog)
 * [Wuxia Here](https://www.wuxiahere.com/)
 * [Novel Translations](https://lightnovelstranslations.com/)
-* [WebNovelOnline](https://webnovelonline.com/)
 * [Readwn](https://www.readwn.com/)
 * [Nakimushitl](https://nakimushitl.wordpress.com/)
 * [LightNovelHeaven](https://lightnovelheaven.com)
