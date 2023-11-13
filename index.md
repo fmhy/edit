@@ -1,12 +1,12 @@
 ---
 title: "Welcome"
 layout: home
-description: The Largest Collection Of Free Stuff On The Internet!
+description: The largest collection of free stuff on the internet!
 
 hero:
   name: "FMHY"
   text: "freemediaheckyeah"
-  tagline: The Largest Collection Of Free Stuff On The Internet!
+  tagline: The largest collection of free stuff on the internet!
   prelink:
     title: 🎉 New website!
     link: https://www.reddit.com/r/FREEMEDIAHECKYEAH/comments/17toqpa/new_fmhy_website

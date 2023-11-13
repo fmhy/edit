@@ -1,7 +1,7 @@
 export const meta = {
   name: "FreeMediaHeckYeah",
   description:
-    "The largest collection of free stuff on the internet!The largest collection of free stuff on the internet!",
+    "The largest collection of free stuff on the internet!",
   hostname: process.env.COMMIT_REF ? "https://fmhy.netlify.app" : "https://fmhy.pages.dev",
   keywords: ["stream", "movies", "gaming", "reading", "anime"],
 };
