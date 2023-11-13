@@ -15,13 +15,13 @@
 
 * ⭐ **[movie-web](https://movie-web.app/)** - Movies / TV / 1080p / [Discord](https://discord.gg/vXsRvye8BS)
 * ⭐ **[The Movie Archive](https://themoviearchive.site/)**, [2](https://tma.lol) - Movies / TV / 4K / 1080p
+* ⭐ **[cinehub.wtf](https://cinehub.wtf)** - Movies / TV / 1080p / [Discord](https://discord.com/invite/wJhG4aEAbs)
 * ⭐ **[FMovies](https://fmoviesz.to/)** - Movies / TV / Anime / 1080p / [Mirrors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_fmovies_clones)
 * ⭐ **[SusFlix](https://susflix.tv/)**, [2](https://www.susmovies.lol/), [3](https://sushbo.com/), [4](https://hbosus.com) - Movies / TV / Anime / 4K / 1080p / [Discord](https://discord.gg/BE7kTVezBN)
 * ⭐ **[watch.lonelil](https://watch.lonelil.com/)** - Movies / TV / Anime / 4K / 1080p / [Discord](https://discord.com/invite/BKts6Jb5sA)
 * ⭐ **[FlixHQ](https://flixhq.click/)** - Movies / TV / Anime / 1080p
 * ⭐ **[Ask4Movies](https://ask4movie.nl/)** - Movies / TV / 1080p / Use Adbock / [Script](https://pastebin.com/uJUc5ah5)
 * ⭐ **[SFlix](https://sflix.to/)** - Movies / TV / Anime / 1080p / [Mirrors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_sflix_clones)
-* ⭐ **[cinehub.wtf](https://cinehub.wtf)** - Movies / TV / 1080p / [Discord](https://discord.com/invite/wJhG4aEAbs)
 * ⭐ **[Seez](https://seez.su/)**, [2](https://flixerplus.com/) - Movies / TV / 1080p
 * ⭐ **[SmashyStream](https://embed.smashystream.com/)** - Movies / TV / Anime / 1080p / [Telegram](https://t.me/+vekZX4KtMPtiYmRl)
 * ⭐ **[PrimeWire](https://www.primewire.tf/)** - Movies / TV / Anime / 1080p
