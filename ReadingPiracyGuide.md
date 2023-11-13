@@ -950,17 +950,17 @@
 ## ▷ Light Novel Sites
 
 * 🌐 **[The Index](https://theindex.moe/library/novels)** - Light Novel Site Index / [Discord](https://discord.gg/Snackbox) / [Wiki](https://thewiki.moe/)
+* ⭐ **[Novel OneDrive Index](novel-indx.vercel.app/)** -Ad-free, No Redirect DDL Site
 * ⭐ **[Novel Updates](https://www.novelupdates.com/)**
+* ⭐ **[jnovels](https://jnovels.com/)/[MP4DIRECTS](https://mp4directs.com/)**
 * ⭐ **[Just Light Novels](https://www.justlightnovels.com/)**
-* ⭐ **[ThatNovelCorner](https://thatnovelcorner.com/)**
 * [Vynovel](https://vynovel.com/)
 * [Light Novel World](https://www.lightnovelworld.com/), [2](https://www.novelpub.com)
 * [Ranobes](https://ranobes.top/)
 * [Baka-Tsuki](https://www.baka-tsuki.org)
 * [Armaell's Library](https://armaell-library.net/)
 * [Novel Online Free](https://novelonlinefree.com/homepage), [2](https://novelonlinefull.com/), [3](https://bestlightnovel.com/)
-* [jNovels](https://jnovels.com/)
-* [MP4DIRECTS](https://mp4directs.com/)
+* [ThatNovelCorner](https://thatnovelcorner.com/)
 * [English Light Novels](https://englishlightnovels.com)
 * [Tensai Translations](https://tensaitranslations.wordpress.com/)
 * [Shin Translations](https://shintranslations.com/)
