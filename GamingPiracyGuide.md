@@ -62,6 +62,7 @@
 * [FS-Repacks](https://www.fluxyrepacks.site/) - Download / [Discord](https://discord.gg/sSA3S3kZZn)
 * [ScOOt3r Repacks](https://discord.gg/xe3Fys8Upy) - Download / Torrent
 * [Elamigos](https://elamigos.site/) - Download
+* [Gnarly Repacks](https://www.gnarly-repacks.site/) - Download
 * [Tiny-Repacks](https://www.tiny-repacks.win) - Torrent
 * [Magipack](https://www.magipack.games), [CollectionChamber](https://collectionchamber.blogspot.com/) or [ClassicPCGames](https://archive.org/details/classicpcgames) - Retro PC Games
 * [~archive](https://websites.umich.edu/~archive/) - Retro PC / Mac Games
@@ -163,7 +164,6 @@
 * [ROM-Collections](https://rentry.co/ROM-Collections) - ROMs
 * [WowROMs](https://wowroms.com/en) - ROMs
 * [Edge Emulation](https://edgeemu.net/) - ROMs
-* [Gnarly Repacks](https://www.gnarly-repacks.site/) - ROMs 
 * [Zophar's Domain](https://www.zophar.net/) - Emulators / ROM Hacks
 * [TheRomDepot](https://theromdepot.com/) - ROMs
 * [Squid Proxy](https://github.com/nbats/FMHYedit/blob/main/base64.md#squid-proxy) - ROMs
@@ -312,7 +312,6 @@
 * [TOSEC](https://github.com/nbats/FMHYedit/blob/main/base64.md#tosec) - The Old School Emulation Center
 * [Tiny8bit](https://floooh.github.io/tiny8bit/) or [Piepacker](https://piepacker.com/) - Retro Game Browser Emulators
 * [pc-98](https://github.com/nbats/FMHYedit/blob/main/base64.md#pc-98) - PC-98 Games
-* [Gnarly Repacks](https://www.gnarly-repacks.site/) - ROMs / Arcade / Retro 
 * [Classic Games](https://classicdosgames.com/) - Classic & Retro Game Archive
 * [The Interactive Fiction Page](https://www.cs.cmu.edu/~wsr/IF/) - Interactive Fiction Games
 * [ClassicGame](https://www.classicgame.com/), [ClassicGamesArcade](https://classicgamesarcade.com/), [Radyolojinet](https://www.radyolojinet.com/retro/), [WePlayOld](https://www.weplayold.com/) or [RetroGames](https://retrogames.fun) - Browser Games
