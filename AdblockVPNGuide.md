@@ -142,7 +142,6 @@
 * [DefenderUI](https://www.defenderui.com/) - Improved Windows Defender UI
 * [Antivirus Removal Tool](https://antivirus-removal-tool.com/) - Antivirus Software Removal Tool
 * [Malware Search+++](https://addons.mozilla.org/en-US/firefox/addon/malware-search-plusplusplus/) - Malware Search Extension 
-* [JShelter](https://jshelter.org/) - Anti-Malware Extension
 * [Malware Analysis Search](https://cse.google.com/cse?cx=011750002002865445766%3Apc60zx1rliu)
 
 ***
@@ -242,6 +241,7 @@
 * [Site Bleacher](https://github.com/wooque/site-bleacher) - Auto Remove Cookies, Local Storages, etc.
 * [Anti-Grabify](https://github.com/Konnor88/anti-grabify) - Block IP Grabbers
 * [OptMeowt](https://github.com/privacy-tech-lab/gpc-optmeowt) or [TrackMeNot](https://www.trackmenot.io/) - Tracking Protection
+* [JShelter](https://jshelter.org/) - Prevent Fingerprinting
 * [CanvasBlocker](https://pastebin.com/2RgYzu6u) or [Canvas Defender](https://addons.mozilla.org/en-US/firefox/addon/no-canvas-fingerprinting/) - Prevent Canvas Fingerprinting
 * [GNU LibreJS](https://www.gnu.org/software/librejs/) - Block Trivial Javascript
 * [PortAuthority](https://addons.mozilla.org/en-US/firefox/addon/port-authority/) - Block Javascript Port Scan on Sites
