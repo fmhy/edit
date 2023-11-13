@@ -166,12 +166,11 @@
 * [xeuledoc](https://github.com/Malfrats/xeuledoc) - Fetch Information about Public Google Documents
 * [Podpis](https://podpis-online.ru/) - Signature Generator
 * [Signaturely](https://signaturely.com/) or [SignFree](https://signfree.io/) - Get Documents Digitally Signed
-* [Polona Typo](https://typo.polona.pl/en/) - Create Text out of Book, Poster and Map Letters 
-* [The Death Generator](https://deathgenerator.com/) - Video Game Text Generator 
-* [Pixel Speech Bubble](https://pixelspeechbubble.com/) - Create Pixel Speech Bubbles 
-* [Acme Caption](https://acme.com/caption/) - Caption Creator 
-* [SimpleWriter](https://xkcd.com/simplewriter/) - Simple Words Writing Tool 
-* [SVGBob Editor](https://ivanceras.github.io/svgbob-editor/) - Convert ASCII Diagrams to SVG Images 
+* [Polona Typo](https://typo.polona.pl/en/) - Create Text out of Book, Poster and Map Letters
+* [The Death Generator](https://deathgenerator.com/) - Video Game Text Generator
+* [Acme Caption](https://acme.com/caption/) - Caption Creator
+* [SimpleWriter](https://xkcd.com/simplewriter/) - Simple Words Writing Tool
+* [SVGBob Editor](https://ivanceras.github.io/svgbob-editor/) - Convert ASCII Diagrams to SVG Images
 * [E5 Rclone Actions](https://github.com/ChirmyRam/E5-Rclone-Actions-Repo) - Keep OneDrive Office E5 Active
 * [Image to Braille](https://505e06b2.github.io/Image-to-Braille/) - Convert Images to Braille
 
@@ -914,7 +913,7 @@
 * [Justia](https://trademarks.justia.com/) - Trademark Search
 * [TMHunt](http://www.tmhunt.com/) - Clothing Trademark Search
 * [BrownBook](https://www.brownbook.net/) - Business Listing Search
-* [txtai](https://neuml.github.io/txtai/) - Build Semantic Search Apps 
+* [txtai](https://neuml.github.io/txtai/) - Build Semantic Search Apps
 * [useful-forks](https://useful-forks.github.io/) or [GitPop3](https://andremiras.github.io/gitpop3/) - GitHub Fork Search 
 * [grep.app](https://grep.app/) - Git Repository Search
 * [MyCroftProject](https://mycroftproject.com/) - Search Engine Plugins
@@ -1744,6 +1743,7 @@
 * [NBFC](https://github.com/hirschmann/nbfc) - Laptop Fan Control
 * [DIY Laptop](https://www.olimex.com/Products/DIY-Laptop/) - Build a Laptop
 * [OpenBoardData](https://github.com/inflex/OpenBoardData) - Board Repair Data
+* [3DBenchy](https://www.3dbenchy.com/) - 3D Printer Benchmarking / Testing
 
 ***
 
@@ -1824,7 +1824,7 @@
 
 ## ▷ Tweaking
 
-* ⭐ **[Redwan's Guide to Guides](https://docs.google.com/document/d/1hZeQkyDe-M9-zNy2eB-Koc3iOpN5-5KxkpvjQaNK60g/)**, [Couleur Tweak Tips](https://discord.gg/CTT), [PC-Tuning](https://github.com/amitxv/PC-Tuning) or [TweakCentral](https://tweakcentral.net/) - Windows Tweaking Guides
+* ⭐ **[PC-Tuning](https://github.com/amitxv/PC-Tuning)**, [Couleur Tweak Tips](https://discord.gg/CTT) or [TweakCentral](https://tweakcentral.net/) - Windows Tweaking Guides
 * ⭐ **[PowerToys](https://learn.microsoft.com/en-us/windows/powertoys/)** / [GitHub](https://github.com/microsoft/PowerToys), [Sysinternals](https://learn.microsoft.com/en-us/sysinternals/) / [Suite](https://apps.microsoft.com/store/detail/sysinternals-suite/9P7KNL5RWT25), [CWCodes](https://cwcodes.net/), [Progress Tools](https://www.progress-tools.x10.mx/), [JaxCore](https://jaxcore.app/) or [JoeWare](https://www.joeware.net/freetools/index.htm) - System Tools
 * ⭐ **[f.lux](https://justgetflux.com/)**, [LightBulb](https://github.com/Tyrrrz/LightBulb), [ScreenTemperature](https://github.com/massaiTHEdog1/ScreenTemperature) or [SunsetScreen](https://www.skytopia.com/software/sunsetscreen/index.htm) - Adjust Display Color / Temperature
 * [MajorGeeks Windows Tweaks](https://www.majorgeeks.com/files/details/majorgeeks_registry_tweaks.html), [XTR Toolbox](https://zeeex.github.io/XTR-Toolbox/) / [GitHub](https://github.com/Zeeex/XTR-Toolbox/), [TweakUtility](https://github.com/Craftplacer/TweakUtility), [MagicX Toolbox](https://github.com/ehsan18t/MagicX-Toolbox), [Winaero](https://winaero.com/) / [Apps](https://winaero.com/winaero-apps/), [Post Tweaks](https://github.com/ArtanisInc/Post-Tweaks), [WinSlap](https://github.com/svenmauch/WinSlap), [QuickBoost](https://github.com/SanGraphic/QuickBoost) or [Cairo](https://cairoshell.com/) - Windows Tweaking Tools / [Warning](https://i.imgur.com/dz0AzIx.png)
