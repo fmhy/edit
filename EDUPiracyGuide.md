@@ -119,7 +119,6 @@
 * [Online Courses Tracker](https://comidoc.net/) - Udemy Courses
 * [SmartyBro](https://smartybro.com/) - Udemy Courses
 * [Techlinks](https://www.techlinks.in/udemy-free-coupons) - Udemy Courses
-* [CourseVania](https://t.me/Coursevania) - Udemy Courses / Telegram
 * [course_drive](https://t.me/course_drive) - Udemy Courses / Telegram
 * [freecourseweb](https://t.me/freecourseweb) - Udemy Courses / Telegram
 * [udemyforu](https://t.me/udemyforu) - Udemy Courses / Telegram
@@ -258,7 +257,7 @@
 * ⭐ **[/r/explainlikeimfive](https://www.reddit.com/r/explainlikeimfive/)** - Have Anything Explained Very Simply
 * ⭐ **[Spreeder](https://www.spreeder.com/)** - Learn to Read Faster
 * ⭐ **[The Punctuation Guide](https://www.thepunctuationguide.com/)** - Punctuation Guide
-* ⭐ **[vads](https://vads.ac.uk/digital/)**, [rijksstudio](https://www.rijksmuseum.nl/en/rijksstudio), [Artcyclopedia](http://www.artcyclopedia.com/), [The Wolfman Museum of Art](https://wolfmanmuseum.org/), [DarkClassics](https://darkclassics.blogspot.com/), [Arts and Culture](https://artsandculture.google.com/), [WGA](https://www.wga.hu/) or [WikiArt](https://www.wikiart.org/) - Digital Art Collections
+* ⭐ **[vads](https://vads.ac.uk/digital/)**, [Paintings Index](https://index-of.eu/Paintings/), [rijksstudio](https://www.rijksmuseum.nl/en/rijksstudio), [Artcyclopedia](http://www.artcyclopedia.com/), [The Wolfman Museum of Art](https://wolfmanmuseum.org/), [DarkClassics](https://darkclassics.blogspot.com/), [Arts and Culture](https://artsandculture.google.com/), [WGA](https://www.wga.hu/) or [WikiArt](https://www.wikiart.org/) - Digital Art Collections
 * [AnimaGraffs](https://animagraffs.com/) - Animated Infographs
 * [Eylenburg](https://eylenburg.github.io/) - Infographs, Maps & Papers
 * [Matthen](https://blog.matthen.com/) - Math & Science Animations
