@@ -2711,7 +2711,7 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://70.88.180.169:8
 * [FilterLists.com](https://filterlists.com/) - Search
 * [Facebook Filters](https://www.reddit.com/r/uBlockOrigin/wiki/solutions#wiki_facebook)
 
-[FilterStalker](https://rentry.co/FilterStalker), [LetBlock.it](https://letsblock.it/), [webannoyances](https://github.com/yourduskquibbles/webannoyances), [The Block List Project](https://github.com/blocklistproject/Lists##the-block-list-project), [Spam404](https://github.com/Spam404/lists/blob/master/adblock-list.txt), [minoplhy filters](https://github.com/minoplhy/filters), [NoADS_RU](https://raw.githubusercontent.com/Zalexanninev15/NoADS_RU/main/ads_list.txt), [Anifiltrs](https://github.com/Karmesinrot/Anifiltrs), [PersonalFilterListCollection](https://github.com/kowith337/PersonalFilterListCollection)
+[FilterStalker](https://rentry.co/FilterStalker), [LetBlock.it](https://letsblock.it/), [webannoyances](https://github.com/yourduskquibbles/webannoyances), [The Block List Project](https://github.com/blocklistproject/Lists##the-block-list-project), [minoplhy filters](https://github.com/minoplhy/filters), [NoADS_RU](https://raw.githubusercontent.com/Zalexanninev15/NoADS_RU/main/ads_list.txt), [Anifiltrs](https://github.com/Karmesinrot/Anifiltrs), [PersonalFilterListCollection](https://github.com/kowith337/PersonalFilterListCollection)
 
 ***
 
