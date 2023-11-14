@@ -999,7 +999,7 @@
 * [Calypto’s Latency Guide](https://docs.google.com/document/d/1c2-lUJq74wuYK1WrA_bIvgb89dUN0sj8-hO3vqmrau4/), [MoreFPS](https://morefps.net/), [cancerogenoslab](https://sites.google.com/view/cancerogenoslab/) or [MikeMartin](https://www.mikemartin.co/) - FPS / Latency Guides
 * [LatencyFleX](https://github.com/ishitatsuyuki/LatencyFleX) or [HoneCtrl](https://github.com/auraside/HoneCtrl) - Latency Reduction / FPS Fixes
 * [Fraps](https://fraps.com/), [OCAT](https://gpuopen.com/ocat/) / [GitHub](https://github.com/GPUOpen-Tools/ocat), [Rivatuner Statistics Server](https://www.guru3d.com/files-details/rtss-rivatuner-statistics-server-download.html), [CapFrameX](https://www.capframex.com/) or [Xbox Game Bar](https://rentry.co/WindowsFPS) - FPS Benchmarking
-* [Ping Enhancer](https://www.wowinterface.com/downloads/info16336-PingEnhancer.html), [ExitLag](https://github.com/Borisizdabezt/exitlag-hwid-spoofer) / [Guide](https://youtu.be/Ga0z5xwZyUA) or [SSTap](https://github.com/FQrabbit/SSTap-Rule/releases/tag/SSTap常用版本及去广告) - Decrease Ping
+* [Ping Enhancer](https://www.wowinterface.com/downloads/info16336-PingEnhancer.html) or [SSTap](https://github.com/FQrabbit/SSTap-Rule/releases/tag/SSTap常用版本及去广告) - Decrease Ping
 * [Overclock](https://www.overclock.net/) - Overclocking Forum
 * [Ryzen Master Utility](https://www.amd.com/en/technologies/ryzen-master) - Overclocking Control for Ryzen Desktop CPU
 * [AMD-APU-Tuning-Utility](https://github.com/JamesCJ60/Universal-x86-Tuning-Utility) - AMD APU Tuning
@@ -1080,7 +1080,6 @@
 * [Fall Guys Perfect Match](https://fall-guys-perfect-match.netlify.app/) - Fall Guys Fruit Tracker
 * [Fortnite Tracker](https://fortnitetracker.com/) - Fortnite Leaderboards / Stats
 * [FortniteEXP](https://www.fortnitexp.net/) - Fortnite XP Progression / Leveling Rates
-* [Universal VPN Fixer](https://github.com/samfisherirl/VPNGamingPauser/) - Auto Pause VPN While Gaming Online
 * [Slippi](https://slippi.gg/) - Super Smash Bros Melee Online 
 * [CrewLink](https://github.com/ottomated/CrewLink) - Among Us Proximity Chat
 * [Impostor](https://impostor.github.io/Impostor/) - Among Us Private Server
@@ -1110,7 +1109,6 @@
 * [modsman](https://github.com/sargunv/modsman), [Pax](https://github.com/froehlichA/pax) or [Mod Manager](https://github.com/kaniol-lck/modmanager) - Minecraft Mod Managers
 * [r/feedthebeast](https://reddit.com/r/feedthebeast/) - Minecraft Mod Discussion Subreddit
 * [Minecraft Command Science](https://minecraftcommand.science/) - Minecraft Command Generator
-* [Aristois](https://aristois.net/) or [Meteor Client](https://meteorclient.com/) - Minecraft Utility Mod
 * [Minecraft Performance Flags](https://github.com/brucethemoose/Minecraft-Performance-Flags-Benchmarks) - Java Minecraft Benchmarks
 * [No Telemetry](https://modrinth.com/mod/no-telemetry) - Disable Telemetry Data
 * [Data Pack Generators](https://misode.github.io/) - Minecraft Data Pack Generators 
@@ -1124,7 +1122,6 @@
 * [CraftyControl](https://craftycontrol.com/), [MCSManager](https://github.com/MCSManager/MCSManager) or [Fork](https://www.fork.gg/) - Minecraft Server Managers
 * [Minecraft Server Scanner](https://github.com/Footsiefat/Minecraft-Server-Scanner) - Minecraft Server Info
 * [NameMC](https://namemc.com/) - Minecraft Name Availability Tracker
-* [2Bored2Wait](https://github.com/themoonisacheese/2bored2wait) - 2B2T Queue Proxy
 * [Setup.md](https://setup.md/) - Server Admin Guides
 * [mcsrvstat](https://mcsrvstat.us/) - Server Status Updates
 * [LazyMc](https://github.com/timvisee/lazymc) - Idle Minecraft Server 
@@ -1139,17 +1136,12 @@
 * [Amulet](https://www.amuletmc.com/) or [uNmINeD](https://unmined.net/) - Minecraft Map Editor / Viewer
 * [MinecraftSeeds](https://minecraftseeds.io/) - Minecraft Seeds
 * [MineAtlas](http://mineatlas.com/) or [MCSeeder](https://mcseeder.com/) - Minecraft Seed Maps
-* [SeedcrackerX](https://github.com/19MisterX98/SeedcrackerX) - Minecraft Seed Cracker
-* [Terra](https://github.com/PolyhedralDev/Terra) - Minecraft World Generator
 * [TerraForged](https://www.curseforge.com/minecraft/mc-mods/terraforged) - Improved Biomes Mod
 * [Biomes-O-Plenty](https://www.curseforge.com/minecraft/mc-mods/biomes-o-plenty) - Extra Biomes Mod
-* [Water-Physics-Overhaul](https://www.curseforge.com/minecraft/mc-mods/water-physics-overhaul) - Realistic Minecraft Water Physics
 * [Fabric-Bedrock-Miner](https://github.com/LXYan2333/Fabric-Bedrock-Miner) - Minecraft Bedrock Miner
 * [Outvoted](https://www.curseforge.com/minecraft/mc-mods/outvoted) - Outvoted Minecraft Live Mobs
 * [MCrev](https://github.com/mcrax/mcrev) - Windows 10 Minecraft License Bypasser
 * [Voyager](https://voyager.minedojo.org/) - Minecraft AI
-* [Baritone](https://github.com/cabaletta/baritone) - Minecraft Pathfinding System
-* [Sigma-Deleter](https://github.com/XatzClient/Sigma-Deleter) or [Sigma-Wiper](https://github.com/owersite/sigma-wiper) - Remove Sigma Miner
 * [MCDF](https://mcdf.wiki.gg/) - Discontinued Minecraft Features Wiki
 
 ***
