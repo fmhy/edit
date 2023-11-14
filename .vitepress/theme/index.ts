@@ -6,6 +6,6 @@ import "uno.css";
 
 export default {
   extends: DefaultTheme,
-  Layout: Layout,
+  Layout,
   enhanceApp({ app, router, siteData }) {},
 } satisfies Theme;

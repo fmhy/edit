@@ -1,8 +1,8 @@
 <script setup lang="ts">
 import { reactive, ref } from "vue";
 import { useRoute } from "vitepress";
-import type { FeedbackType } from "../../types/Feedback";
 import { fetcher } from "itty-fetcher";
+import type { FeedbackType } from "../../types/Feedback";
 
 const loading = ref<boolean>(false);
 const error = ref<unknown>(null);
@@ -57,8 +57,8 @@ async function handleSubmit(type?: FeedbackType["type"]) {
     if (data.status === "success") {
       success.value = true;
     }
-  } catch (err) {
-    error.value = err;
+  } catch (error_) {
+    error.value = error_;
   } finally {
     loading.value = false;
   }

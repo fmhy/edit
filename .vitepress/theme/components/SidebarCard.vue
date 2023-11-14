@@ -10,9 +10,9 @@ import ToggleStarred from "./ToggleStarred.vue";
     <div class="card-header">
       <div class="card-title">Emoji Legend</div>
     </div>
-    <Field icon="i-twemoji-star">Recommendations</Field>
-    <Field icon="i-twemoji-globe-with-meridians">Indexes</Field>
-    <Field icon="i-twemoji-repeat-button">Storage Links</Field>
+    <Field icon="i-twemoji-star"> Recommendations </Field>
+    <Field icon="i-twemoji-globe-with-meridians"> Indexes </Field>
+    <Field icon="i-twemoji-repeat-button"> Storage Links </Field>
     <div class="card-header">
       <div class="card-title">Options</div>
     </div>

@@ -1,5 +1,5 @@
+import { writeFile, readFile } from "node:fs/promises";
 import { defineLoader } from "vitepress";
-import { writeFile, readFile } from "fs/promises";
 
 interface Data {
   title?: string;
@@ -10,7 +10,7 @@ declare const data: Data;
 export { data };
 
 const page = "https://rentry.co/fmhy-guides/raw";
-const regex = /\* \[([^\]]+)\]\(([^)]+)\)/g;
+const regex = /\* \[([^\]]+)]\(([^)]+)\)/g;
 const rentryRe = /(?<=rentry\.(co|org)).*/;
 const guides = new Set<Data>();
 
@@ -29,8 +29,8 @@ export default defineLoader({
       const title = match[1];
       const url = match[2];
       // Fetch rentry guides
-      if (url.match(rentryRe)) {
-        const content = await f(url + "/raw");
+      if (rentryRe.test(url)) {
+        const content = await f(`${url}/raw`);
         guides.add({ title, content });
       } else {
         // Everything else can be here

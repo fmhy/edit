@@ -6,28 +6,31 @@ export function generateMeta(context: TransformContext, hostname: string) {
 
   const url = `${hostname}/${pageData.relativePath.replace(/((^|\/)index)?\.md$/, "$2")}`;
 
-  head.push(["link", { rel: "canonical", href: url }]);
-  head.push(["meta", { property: "og:url", content: url }]);
-  head.push(["meta", { name: "twitter:url", content: url }]);
-  head.push(["meta", { name: "twitter:card", content: "summary_large_image" }]);
-
-  head.push(["meta", { property: "og:title", content: pageData.frontmatter.title }]);
-  head.push(["meta", { name: "twitter:title", content: pageData.frontmatter.title }]);
+  head.push(
+    ["link", { rel: "canonical", href: url }],
+    ["meta", { property: "og:url", content: url }],
+    ["meta", { name: "twitter:url", content: url }],
+    ["meta", { name: "twitter:card", content: "summary_large_image" }],
+    ["meta", { property: "og:title", content: pageData.frontmatter.title }],
+    ["meta", { name: "twitter:title", content: pageData.frontmatter.title }],
+  );
   if (pageData.frontmatter.description) {
-    head.push([
-      "meta",
-      {
-        property: "og:description",
-        content: pageData.frontmatter.description,
-      },
-    ]);
-    head.push([
-      "meta",
-      {
-        name: "twitter:description",
-        content: pageData.frontmatter.description,
-      },
-    ]);
+    head.push(
+      [
+        "meta",
+        {
+          property: "og:description",
+          content: pageData.frontmatter.description,
+        },
+      ],
+      [
+        "meta",
+        {
+          name: "twitter:description",
+          content: pageData.frontmatter.description,
+        },
+      ],
+    );
   }
   if (pageData.frontmatter.image) {
     head.push([
@@ -46,17 +49,19 @@ export function generateMeta(context: TransformContext, hostname: string) {
     ]);
   } else {
     const url = pageData.filePath.replace("index.md", "").replace(".md", "");
-    const imageUrl = `${url}/__og_image__/og.png`.replace(/\/\//g, "/").replace(/^\//, "");
+    const imageUrl = `${url}/__og_image__/og.png`.replaceAll("//", "/").replace(/^\//, "");
 
-    head.push(["meta", { property: "og:image", content: `${hostname}/${imageUrl}` }]);
-    head.push(["meta", { property: "og:image:width", content: "1200" }]);
-    head.push(["meta", { property: "og:image:height", content: "628" }]);
-    head.push(["meta", { property: "og:image:type", content: "image/png" }]);
-    head.push(["meta", { property: "og:image:alt", content: pageData.frontmatter.title }]);
-    head.push(["meta", { name: "twitter:image", content: `${hostname}/${imageUrl}` }]);
-    head.push(["meta", { name: "twitter:image:width", content: "1200" }]);
-    head.push(["meta", { name: "twitter:image:height", content: "628" }]);
-    head.push(["meta", { name: "twitter:image:alt", content: pageData.frontmatter.title }]);
+    head.push(
+      ["meta", { property: "og:image", content: `${hostname}/${imageUrl}` }],
+      ["meta", { property: "og:image:width", content: "1200" }],
+      ["meta", { property: "og:image:height", content: "628" }],
+      ["meta", { property: "og:image:type", content: "image/png" }],
+      ["meta", { property: "og:image:alt", content: pageData.frontmatter.title }],
+      ["meta", { name: "twitter:image", content: `${hostname}/${imageUrl}` }],
+      ["meta", { name: "twitter:image:width", content: "1200" }],
+      ["meta", { name: "twitter:image:height", content: "628" }],
+      ["meta", { name: "twitter:image:alt", content: pageData.frontmatter.title }],
+    );
   }
   if (pageData.frontmatter.tag) {
     head.push(["meta", { property: "article:tag", content: pageData.frontmatter.tag }]);

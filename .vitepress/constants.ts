@@ -9,12 +9,14 @@ export const meta = {
 
 // Netlify to Cloudflare otherwise dev
 export const commitRef = process.env.COMMIT_REF
-  ? `<a href="https://github.com/fmhy/FMHYEdit/commit/${process.env.COMMIT_REF
-  }">${process.env.COMMIT_REF.slice(0, 8)}</a>`
+  ? `<a href="https://github.com/fmhy/FMHYEdit/commit/${
+      process.env.COMMIT_REF
+    }">${process.env.COMMIT_REF.slice(0, 8)}</a>`
   : process.env.CF_PAGES
-    ? `<a href="https://github.com/fmhy/FMHYEdit/commit/${process.env.CF_PAGES_COMMIT_SHA
+  ? `<a href="https://github.com/fmhy/FMHYEdit/commit/${
+      process.env.CF_PAGES_COMMIT_SHA
     }">${process.env.CF_PAGES_COMMIT_SHA.slice(0, 8)}</a>`
-    : "dev";
+  : "dev";
 
 export const socials: DefaultTheme.SocialLink[] = [
   { icon: "github", link: "https://github.com/fmhy/FMHYEdit" },

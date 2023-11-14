@@ -80,7 +80,7 @@ async function generateImage({ page, template, outDir, fonts }: GenerateImagesOp
 
   const render = await renderAsync(svg);
 
-  const outputFolder = resolve(outDir, url.substring(1), "__og_image__");
+  const outputFolder = resolve(outDir, url.slice(1), "__og_image__");
   const outputFile = resolve(outputFolder, "og.png");
 
   await mkdir(outputFolder, { recursive: true });

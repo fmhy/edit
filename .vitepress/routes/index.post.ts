@@ -37,7 +37,7 @@ export default defineEventHandler(async (event) => {
         {
           color: 3447003,
           title: getFeedbackOption(type).label,
-          description: description,
+          description,
         },
       ],
     })
