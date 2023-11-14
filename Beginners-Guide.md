@@ -65,7 +65,6 @@ Use [this](https://bitbucket.org/magnolia1234/bypass-paywalls-firefox-clean/src/
 
 ### MacOS Piracy
 
-**[AppsTorrent](https://appstorrent.ru/)** - Download MacOS Software
 **[Torrminatorr](https://forum.torrminatorr.com/)** - Download MacOS Games
  
 ***
