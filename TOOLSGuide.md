@@ -416,11 +416,13 @@
 * [LittleSoundDJ](https://www.littlesounddj.com/lsd/index.php) - Gameboy Audio Editor
 * [Open Note Block Studio](https://opennbs.org/) - Minecraft Note Block Song Editor
 * [Acid Machine 2](https://errozero.co.uk/acid-machine/) - Acid Techno Machine
+* [Ossia](https://ossia.io/) - Intermedia Sequencer
 * [Sequencer](https://sequencer.henryfellerhoff.com/) or [DrawBeats](https://drawbeats.com/) - Scale Sequencers
 * [Roland50.studio](https://roland50.studio/) - Online Drum Machine / TB-303 Bass Synth
 * [iO-808](https://io808.com/), [Sequencer64](https://www.sequencer64.com/), [Drummy](https://drummy.io/) or [Hammmerhead](http://www.threechords.com/hammerhead/) - Online Drum Machines
 * [orDrumbox](https://www.ordrumbox.com/) - Drum Machine
 * [React Guitar](https://react-guitar.com/) - Virtual Guitar
+* [GuitarML](https://guitarml.com/index.html) - Custom AI Guitar Tones
 * [Dot Piano](https://dotpiano.com/), [The 88](https://impactsoundworks.com/product/the-88e/) (enter $0) or [VirtualPiano](https://virtualpiano.net/) - Virtual Pianos
 * [Petaporon](https://pixwlk.itch.io/petaporon) or [OnlineSequencer](https://onlinesequencer.net/) - Piano Sequencers / [Editor](https://pixwlk.itch.io/petaporon-editor)
 * [MK-1](https://ericrosenbaum.github.io/MK-1/) - Online Sampling Keyboard
@@ -1045,7 +1047,7 @@
 * [KarmaDecay](http://karmadecay.com/) - Reddit Reverse Image Search 
 * [JPF-Reddit](https://jpf-reddit.netlify.app/) or [Nuxtit](https://nuxtit.netlify.app/) - Alt Browsers / Web Clients
 * [ReSavr](https://www.resavr.com/), [Comment History](https://academictorrents.com/details/7c0645c94321311bb05bd879ddee4d0eba08aaee) or [Unreddit](https://github.com/pauldraper/unreddit) - Reddit Comment Archives
-* [Expanse](https://github.com/jc9108/expanse) or [Reddit Archive](https://www.redditarchive.com/) - Reddit Post Archive Tools / [Note](https://ibb.co/R9jC5bk)
+* [Expanse](https://github.com/jc9108/expanse), [redarcs](https://the-eye.eu/redarcs/) or [Reddit Archive](https://www.redditarchive.com/) - Reddit Post Archive Tools / [Note](https://ibb.co/R9jC5bk)
 * [Wiki Downloader](https://github.com/michealespinola/reddit.wikidownloader) - Reddit Wiki Page Scraper
 * [Reddit Comment Highlights](https://github.com/aesy/reddit-comment-highlights) - Highlights New Comments
 * [rComments](https://github.com/iampueroo/rComments) - Explore Comments & Replies without Clicking a Post 
@@ -1277,6 +1279,7 @@
 * [tg-channel-cloner-workers](https://gitlab.com/ParveenBhadooOfficial/tg-channel-cloner-workers) - Clone Telegram Channels
 * [CloneChat](https://github.com/apenasrr/clonechat) - Clone Telegram Chats
 * [clonebot](https://github.com/m4mallu/clonebot) - Clone Media from Chats
+* [tasra](https://the-eye.eu/tasra/) - Telegram Channel Archive
 * [Reddit2Telegram](https://github.com/Fillll/reddit2telegram) - Reddit Post Bot
 * [Shieldy Bot](https://t.me/shieldy_bot) - Spam Protection Bot / [GitHub](https://github.com/1inch/shieldy)
 * [Telegram Email](https://t.me/etlgr_bot) - Send / Receive Emails via Telegram
@@ -1305,6 +1308,7 @@
 * ⭐ **[Age Restriction Bypass](https://github.com/zerodytrash/Simple-YouTube-Age-Restriction-Bypass)** / [2](https://greasyfork.org/en/scripts/423851-simple-youtube-age-restriction-bypass) - Bypass YouTube Age Restrictions
 * ⭐ **[Video Resumer](https://pastebin.com/avtHzp4W)** - Resume Videos Where You Left Off
 * ⭐ **[Fast Forward YouTube Shorts](https://greasyfork.org/en/scripts/466438)** - Adds Skip Keys to Shorts
+* [uBO-bypass-yt](https://drhyperion451.github.io/does-uBO-bypass-yt/) - uBO YouTube Anti-Adblock Fixes
 * [DL YouTube Videos without Extensions](https://onehack.us/t/how-to-download-youtube-videos-without-external-tools-or-extensions/) 
 * [YouTube Spammer Purge](https://github.com/ThioJoe/YT-Spammer-Purge) - Delete All YouTube Spam Comments / [Domain List](https://github.com/ThioJoe/YT-Spam-Lists)
 * [TubeSync](https://github.com/meeb/tubesync) - Sync YouTube Channels / Playlists to a Media Server
@@ -1590,7 +1594,7 @@
 * [FOG Project](https://fogproject.org) - OS Depoyment / Managment System
 * [CloverBootloader](https://github.com/CloverHackyColor/CloverBootloader/releases) or [EasyBCD](https://neosmart.net/EasyBCD/) - Bootloader / [Config](https://mackie100projects.altervista.org/)
 * [zfsBootMenu](https://github.com/zbm-dev/zfsbootmenu) - ZFS Bootloader
-* [Hiren’s BootCD PE](https://www.hirensbootcd.org/) - Preinstallation Environment
+* [Hiren’s BootCD PE](https://www.hirensbootcd.org/ or [Win10XPE](https://github.com/ChrisRfr/Win10XPE) - Preinstallation Environments
 * [goldBoot](https://github.com/fossable/goldboot) - Create Immutable Infrastructure
 * [GenSMBIOS](https://github.com/corpnewt/GenSMBIOS) - SMBIOS Generator
 * [Intel BIOS Guide](https://docs.google.com/document/d/1s43_3YGJIy3zs0ZIksoOmxgrDKnu4ZNhhnXW_NiJZ0I/edit) - Intel BIOS Settings Explanation
@@ -1985,6 +1989,7 @@
 * [OneDriveFly](https://github.com/Tai7sy/OneDriveFly) or [OneDrive Vercel Index](https://ovi.swo.moe/) - OneDrive Indexes
 * [onedrive-vercel-index](https://github.com/spencerwooo/onedrive-vercel-index) - Self-Hosted Directory
 * [Fix-OneDrive-Zip](https://github.com/pmqs/Fix-OneDrive-Zip) - Fix OneDrive Zip Files >4gb
+* [Microsoft-E5-Auto-Renewal](https://github.com/TheCaduceus/Microsoft-E5-Auto-Renewal) - Developer E5 Auto Renewal
 * [mf-dl](https://gitgud.io/Pyxia/mf-dl/) or [mediafire_bulk_downloader](https://github.com/NicKoehler/mediafire_bulk_downloader) - Mediafire File Downloader
 * [One Leaf](https://oneleaf.icu/) or [PanDownload](https://baidu.gamesdrive.net/) - Baidu Netdisk Downloaders
 * [InfiniDrive](https://github.com/nicomda/InfiniDrive) - Unlimited Cloud Drive using Amazon Prime Photos
