@@ -188,7 +188,7 @@
 * ⭐ **[G-MEH](https://g-meh.com/vst/)**
 * ⭐ **[Tenacity](https://tenacityaudio.org/)**, [2](https://www.audacityteam.org/)
 
-[MusE](https://muse-sequencer.github.io/), [Lexis Audio Editor](https://www.lexisaudioeditor.com/), [mp3DirectCut](https://mpesch3.de/), [Ardour](https://ardour.org/), [LMMS](https://lmms.io/), [AudioMass](https://audiomass.co/), [FamiStudio](https://famistudio.org/), [ocenaudio](https://www.ocenaudio.com/en/startpage), [Wavosaur](https://www.wavosaur.com/), [Sneedacity](https://github.com/Sneeds-Feed-and-Seed/sneedacity), [Radium](https://users.notam02.no/~kjetism/radium/), [Audiodope](http://www.audiodope.org/index.htm), [FL Studio](https://github.com/nbats/FMHYedit/blob/main/base64.md#fl-studio), [OpenMPT](https://openmpt.org/), [Schism Tracker](https://schismtracker.org/), [WaveBots Editor](https://krasse.itch.io/wavebots-editor), [BandLab](https://www.bandlab.com/), [AudioNodes](https://www.audionodes.com/), [KXStudio](https://kx.studio/)
+[MusE](https://muse-sequencer.github.io/), [Lexis Audio Editor](https://www.lexisaudioeditor.com/), [mp3DirectCut](https://mpesch3.de/), [Ardour](https://ardour.org/), [LMMS](https://lmms.io/), [AudioMass](https://audiomass.co/), [FamiStudio](https://famistudio.org/), [ocenaudio](https://www.ocenaudio.com/en/startpage), [Wavosaur](https://www.wavosaur.com/), [Sneedacity](https://github.com/Sneeds-Feed-and-Seed/sneedacity), [Radium](https://users.notam02.no/~kjetism/radium/), [Audiodope](http://www.audiodope.org/index.htm), [FL Studio](https://github.com/nbats/FMHYedit/blob/main/base64.md#fl-studio), [OpenMPT](https://openmpt.org/), [Schism Tracker](https://schismtracker.org/), [WaveBots Editor](https://krasse.itch.io/wavebots-editor), [BandLab](https://www.bandlab.com/), [AudioNodes](https://www.audionodes.com/), [KXStudio](https://kx.studio/), [Zrythm](https://www.zrythm.org/en/index.html), [Element](https://kushview.net/element/) / [Discord](https://discord.com/invite/RVk3RVJ), [Chowdhury DSP](https://chowdsp.com/products.html), [plugdata](https://plugdata.org/) / [Discord](https://discord.com/invite/eT2RxdF9Nq)
 
 ### Online Audio Editors
 
@@ -406,7 +406,7 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://70.88.180.169:8
 
 * ⭐ **[Linux Command Library](https://linuxcommandlibrary.com/)**
 
-[awesome-for-oneliner](https://github.com/sheepla/awesome-for-oneliner), [You Don't Need GUI](https://github.com/you-dont-need/You-Dont-Need-GUI), [Helmanual](https://helpmanual.io/), [CommandlineFU](https://www.commandlinefu.com/), [Cheat.sh](https://cheat.sh/), [how2](https://github.com/santinic/how2)
+[awesome-for-oneliner](https://github.com/sheepla/awesome-for-oneliner), [You Don't Need GUI](https://github.com/you-dont-need/You-Dont-Need-GUI), [Helmanual](https://helpmanual.io/), [CommandlineFU](https://www.commandlinefu.com/), [Cheat.sh](https://cheat.sh/), [how2](https://github.com/santinic/how2), [Bash Academy](https://guide.bash.academy/), [ss64 Bash](https://ss64.com/bash/), [Bash Oneliner](https://github.com/onceupon/Bash-Oneliner) 
 
 ***
 
@@ -1518,7 +1518,7 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://70.88.180.169:8
 * [Playit.gg](https://playit.gg/) - [Discord](https://discord.gg/AXAbujx)
 * [FreeMCServer](https://freemcserver.net/) - [uBO Filter](https://pastebin.com/C2aiXG8p)
 
-[MineFort](https://minefort.com/), [Minehut](https://minehut.com/), [Aternos](https://aternos.org/), [Cuberite](https://cuberite.org/)
+[MineFort](https://minefort.com/), [Minehut](https://minehut.com/), [Aternos](https://aternos.org/) / [AntiAntiAdblock](https://gist.github.com/DvilMuck/f2b14f3f65e8f22974d781277158f82a), [Cuberite](https://cuberite.org/)
 
 ***
 
@@ -2052,7 +2052,7 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://70.88.180.169:8
 
 ## Royalty Free Music
 
-[Free Music Archive](https://freemusicarchive.org/), [freesoundtrackmusic](https://www.freesoundtrackmusic.com/), [joshwoodward](https://www.joshwoodward.com/), [wowsound](https://wowsound.com/), [epidemicsound](https://www.epidemicsound.com/), [Pixabay Music](https://pixabay.com/music/), [audiomicro](https://www.audiomicro.com/), [Starfrosch](https://starfrosch.com/), [StreamBeats](https://www.senpai.tv/streambeats/), [Mubert](https://mubert.com/), [ccHound](https://cchound.com/), [MusicScreen](https://www.musicscreen.org/), [FilmMusic](https://filmmusic.io/), [Fugue](https://icons8.com/music), [EDMRF](https://edmroyaltyfree.net/), [chosic](https://www.chosic.com/free-music/all/), [Anttis Instrumentals](https://www.gamedev.net/news/2000-instrumental-pieces-released-by-anttis-instrumentals-r1135/) / [Torrent](https://drive.google.com/open?id=0ByvAPNATAYsBR0FUczYzWHk3NEU), [Sampld](https://open.sampld.app/), [BLueFoxMusic](https://bluefoxmusic.com/)
+[Free Music Archive](https://freemusicarchive.org/), [freesoundtrackmusic](https://www.freesoundtrackmusic.com/), [joshwoodward](https://www.joshwoodward.com/), [wowsound](https://wowsound.com/), [epidemicsound](https://www.epidemicsound.com/), [Pixabay Music](https://pixabay.com/music/), [audiomicro](https://www.audiomicro.com/), [Starfrosch](https://starfrosch.com/), [StreamBeats](https://www.senpai.tv/streambeats/), [Mubert](https://mubert.com/), [ccHound](https://cchound.com/), [MusicScreen](https://www.musicscreen.org/), [FilmMusic](https://filmmusic.io/), [Fugue](https://icons8.com/music), [EDMRF](https://edmroyaltyfree.net/), [chosic](https://www.chosic.com/free-music/all/), [Anttis Instrumentals](https://www.gamedev.net/news/2000-instrumental-pieces-released-by-anttis-instrumentals-r1135/) / [Torrent](https://drive.google.com/open?id=0ByvAPNATAYsBR0FUczYzWHk3NEU), [Sampld](https://open.sampld.app/), [BLueFoxMusic](https://bluefoxmusic.com/), [ScottBuckley](https://www.scottbuckley.com.au/library/), [Creative Commons Jazz](https://jazz.mixremix.cc/)
 
 ***
 
@@ -2719,7 +2719,7 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://70.88.180.169:8
 
 * ⭐ **[CouponScorpion](https://couponscorpion.com/)**
 
-[discudemy](https://www.discudemy.com/), [bestcouponhunter](https://bestcouponhunter.com/), [Coursevania](https://coursevania.com/), [BARONIP COUPONS](https://baronip-coupons.blogspot.com/), [iDownloadCoupon](https://idownloadcoupon.com/), [coursecouponclub](https://coursecouponclub.com/), [coursekingdom](https://coursekingdom.xyz/), [freebiesglobal](https://freebiesglobal.com/), [onlinecourses](https://www.onlinecourses.ooo/), [cursosdev](https://cursosdev.com/), [100offdeal](https://100offdeal.online/), [freshercooker](https://www.freshercooker.com/category/courses/), [dailycoursereviews](https://dailycoursereviews.com/), [Tutorial Bar](https://www.tutorialbar.com/)
+[Coursevania](https://coursevania.com/), [discudemy](https://www.discudemy.com/), [bestcouponhunter](https://bestcouponhunter.com/), [BARONIP COUPONS](https://baronip-coupons.blogspot.com/), [iDownloadCoupon](https://idownloadcoupon.com/), [coursecouponclub](https://coursecouponclub.com/), [coursekingdom](https://coursekingdom.xyz/), [freebiesglobal](https://freebiesglobal.com/), [onlinecourses](https://www.onlinecourses.ooo/), [cursosdev](https://cursosdev.com/), [100offdeal](https://100offdeal.online/), [freshercooker](https://www.freshercooker.com/category/courses/), [dailycoursereviews](https://dailycoursereviews.com/), [Tutorial Bar](https://www.tutorialbar.com/)
 
 ***
 
@@ -2933,6 +2933,7 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://70.88.180.169:8
 * [Darkinator](https://play.google.com/store/apps/details?id=com.tfuerholzer.darkmodewallpaper) or [DualWallpaper](https://github.com/Yanndroid/DualWallpaper) - Change Wallpaper Depending on System Theme
 * [Muzei](https://github.com/muzei/muzei), [Doodle](https://patrickzedler.com/doodle/) or [Amoled Backgrounds](https://play.google.com/store/apps/details?id=com.droidheat.amoledbackgrounds) - Live Android Wallpapers
 * [Koncius](https://play.google.com/store/apps/details?id=com.koncius.video.wallpaper) - Android Video to Wallpaper
+* [CanvasDownloader](https://www.canvasdownloader.com/) - Extract Spotify Canvas Walls
 * [Das Image](https://apps.apple.com/ca/app/das-image-search-and-explore/id1464079804), [iPhone11papers](https://iphone11papers.com/) or [iOS Wallpapers](https://goo.gl/photos/ZVpabTtcezd35XBa9/) - iOS Wallpapers
 * [/r/iWallpaper](https://www.reddit.com/r/iWallpaper/) or [/r/MobileWallpaper](https://www.reddit.com/r/MobileWallpaper/) - Mobile Wallpapers Subreddits
 
