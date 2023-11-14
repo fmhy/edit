@@ -346,6 +346,7 @@
 * ↪️ **[Lyric Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_lyric_sites)**
 * ↪️ **[Song Identification Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_song_identification)**
 * ↪️ **[Free Sound Effects](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_sfx_.2F_loops)**
+* ⭐ **[MP3Tag](https://www.mp3tag.de/en/)**, [beets.io](https://beets.io/) / [Guides](https://redd.it/11iaafu), [TagEditor](https://github.com/Martchus/tageditor), [EasyTAG](https://wiki.gnome.org/Apps/EasyTAG), [Kid3](https://kid3.kde.org/), [MetaTogger](https://www.luminescence-software.org/en/metatogger) or [MusicBrainz](https://picard.musicbrainz.org/) - Music Metadata Organizers
 * ⭐ **[Team V.R releases](https://codec.kiev.ua/releases.html)** - Professional Video, Audio & Adobe Software / Plugins
 * ⭐ **[Equalizer APO](https://equalizerapo.com/)**, **[AutoEq](https://github.com/jaakkopasanen/AutoEq)**, [PeaceEqualizer](https://sourceforge.net/projects/peace-equalizer-apo-extension/) or [SonyHeadphonesClient](https://github.com/Plutoberth/SonyHeadphonesClient) - Audio Equalizers
 * ⭐ **[AudioRelay](https://audiorelay.net/)** - Stream PC Audio to Phone
@@ -436,7 +437,6 @@
 * [MP3CutterPro](https://mp3cutterpro.com/) or [Flacon](https://flacon.github.io/) - Audio Track Splitter 
 * [BeatMachine](https://beatmachine.branchpanic.me/) or [SongSurgeon](https://songsurgeon.com/engine/ssweb/) - Audio Tempo Editors
 * [Get Song BPM](https://getsongbpm.com/) or [MusicStax](https://musicstax.com/) - Song Tempo Database
-* [beets.io](https://beets.io/) / [Guides](https://redd.it/11iaafu), [MP3Tag](https://www.mp3tag.de/en/), [TagEditor](https://github.com/Martchus/tageditor), [EasyTAG](https://wiki.gnome.org/Apps/EasyTAG), [Kid3](https://kid3.kde.org/), [MetaTogger](https://www.luminescence-software.org/en/metatogger) or [MusicBrainz](https://picard.musicbrainz.org/) - Music Metadata Organizers
 * [tone](https://github.com/sandreas/tone) - View / Modify Audio Metadata
 * [YADG](https://yadg.cc/) - Scrape / Render Music via Templates / [API](https://yadg.cc/api/)
 * [Text to Speech](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/ai#wiki_.25B7_text_to_speech) - Text to Speech Sites / Apps
@@ -1794,9 +1794,9 @@
 
 ## ▷ Tweaking
 
-* ⭐ **[PC-Tuning](https://github.com/amitxv/PC-Tuning)** or [Couleur Tweak Tips](https://discord.gg/CTT) - Windows Tweaking Guides
 * ⭐ **[PowerToys](https://learn.microsoft.com/en-us/windows/powertoys/)** / [GitHub](https://github.com/microsoft/PowerToys), [Sysinternals](https://learn.microsoft.com/en-us/sysinternals/) / [Suite](https://apps.microsoft.com/store/detail/sysinternals-suite/9P7KNL5RWT25), [CWCodes](https://cwcodes.net/), [Progress Tools](https://www.progress-tools.x10.mx/), [JaxCore](https://jaxcore.app/) or [JoeWare](https://www.joeware.net/freetools/index.htm) - System Tools
 * ⭐ **[f.lux](https://justgetflux.com/)**, [LightBulb](https://github.com/Tyrrrz/LightBulb), [ScreenTemperature](https://github.com/massaiTHEdog1/ScreenTemperature) or [SunsetScreen](https://www.skytopia.com/software/sunsetscreen/index.htm) - Adjust Display Color / Temperature
+* [Couleur Tweak Tips](https://discord.gg/CTT) - Windows Tweaking Guides
 * [MajorGeeks Windows Tweaks](https://www.majorgeeks.com/files/details/majorgeeks_registry_tweaks.html), [XTR Toolbox](https://zeeex.github.io/XTR-Toolbox/) / [GitHub](https://github.com/Zeeex/XTR-Toolbox/), [TweakUtility](https://github.com/Craftplacer/TweakUtility), [MagicX Toolbox](https://github.com/ehsan18t/MagicX-Toolbox), [Winaero](https://winaero.com/) / [Apps](https://winaero.com/winaero-apps/), [Post Tweaks](https://github.com/ArtanisInc/Post-Tweaks), [WinSlap](https://github.com/svenmauch/WinSlap), [QuickBoost](https://github.com/SanGraphic/QuickBoost) or [Cairo](https://cairoshell.com/) - Windows Tweaking Tools / [Warning](https://i.imgur.com/dz0AzIx.png)
 * [NanaRun](https://github.com/M2Team/NanaRun) - System Admin Tools
 * [Win10 Widgets](https://win10widgets.com/), [BeWidgets](https://apps.microsoft.com/store/detail/bewidgets/9NQ07FG50H2Q) or [Eww](https://github.com/elkowar/eww) - Widgets for Windows 
