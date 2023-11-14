@@ -73,6 +73,7 @@
 * [SteamGifts](https://www.steamgifts.com/) / [Auto Join](https://chrome.google.com/webstore/detail/autojoin-for-steamgifts/bchhlccjhoedhhegglilngpbnldfcidc?hl=en), [/r/FreeGamesOnSteam](https://reddit.com/r/FreeGamesOnSteam) or [SteamDB](https://steamdb.info/upcoming/free/) - Steam Games
 * [FreeGames.codes](https://freegames.codes/) - Games / [Android](https://play.google.com/store/apps/details?id=com.freegamescodes.freegamescodes)
 * [IndieGala](https://freebies.indiegala.com/) - Games
+* [FreeToKeep](https://freetokeep.gg/) - Games
 * [/r/freegames](https://www.reddit.com/r/freegames/) - Games
 * [/r/RandomActsOfGaming](https://www.reddit.com/r/RandomActsOfGaming/) - Games
 * [TemporarilyFreeGames](https://t.me/temporarilyfreegames) - Games
@@ -554,8 +555,8 @@
 * ⭐ **[Make WordArt](https://www.makewordart.com/)**, [FlameText](https://www10.flamingtext.com/), [MakeText](https://maketext.io/), [TextGiraffe](https://www.textgiraffe.com/), [Text Pro](https://textpro.me/) or [CoolText](https://cooltext.com/) - WordArt Generators
 * ⭐ **[WhatTheFont](https://www.myfonts.com/WhatTheFont/)**, [Identifont](http://www.identifont.com/), [WhatFont](https://www.chengyinliu.com/whatfont.html), [Fonty.io](https://fonty.io/) or [What Font Is](https://www.whatfontis.com/) - Font Identification Tools
 * ⭐ **[FontDrop](https://fontdrop.info/)** - Analyze Font Files
+* [Fork-Awesome](https://forkaweso.me/Fork-Awesome/) - Font Toolkit
 * [Typewolf](https://www.typewolf.com/) or [Typ.io](https://typ.io/) - Trending Website Fonts
-* [Modern Fonts Stacks](https://modernfontstacks.com/) - CSS Fonts
 * [DS Fusion](https://ds-fusion.github.io/) - AI Typography Generator
 * [Formito](https://formito.com/tools/logo) - Typography Logo Maker
 * [FontFlipper](https://fontflipper.com/) - Add Text to images
@@ -1035,7 +1036,7 @@
 * 🌐 **[Piracy Subs](https://www.reddit.com/r/Piracy/wiki/megathread/related_subreddits)** - Piracy Subreddits
 * ↪️ **[Multireddit Index](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_multireddits)**
 * ↪️ **[AI Chatbots](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/ai#wiki_.25BA_ai_chatbots)**
-* ⭐ **[Knockout](https://knockout.chat/)** / [Discord](https://discord.gg/wjWpapC) or [SomethingAwful](https://forums.somethingawful.com/) - General Forums
+* ⭐ **[Knockout](https://knockout.chat/)** / [Discord](https://discord.gg/wjWpapC), [SpaceBattles](https://forums.spacebattles.com/) or [SomethingAwful](https://forums.somethingawful.com/) - General Forums
 * ⭐ **[Our World of Text](https://ourworldoftext.com/)** or [Your World of Text](https://www.yourworldoftext.com/) - Infinite Community Text Grid
 * [Doodle Place](https://doodle-place.glitch.me/) - Virtual Drawing World
 * [Posting.Cool](https://posting.cool/) - Random Topic Forum
