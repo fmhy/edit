@@ -73,21 +73,19 @@
 
 ## ▷ Reading
 
+* ↪️ **[Quran Course](https://github.com/nbats/FMHYedit/blob/main/base64.md#quran-course)**
 * [24livenewspaper](https://www.24livenewspaper.com/bangla-newspaper) or [allbanglanewspaper](https://www.allbanglanewspaper.xyz/) - Bangla Newspapers
-* [Quran Course](https://github.com/nbats/FMHYedit/blob/main/base64.md#quran-course)
-* [IQGAW](https://t.me/IQGamer_PDFStore) - PDF library for BD HSC candidates
-* [BengaliEbooks](https://www.bengaliboi.com/) - Books
-* [GoBanglaBooks](https://www.gobanglabooks.com/) - Books
-* [BanglaBookshelf](https://www.banglabookshelf.com/) - Books / Educational
+* [IQGAW](https://t.me/IQGamer_PDFStore) - PDF Library for BD HSC Candidates
+* [BanglaBookshelf](https://www.banglabookshelf.com/) - Fiction / Islamic / Tech Books
+* [GoBanglaBooks](https://www.gobanglabooks.com/) - Books / Magazines
 * [AmarBooks](https://www.amarbooks.org/) - Books
-* [BanglaBooks](https://banglabooks4free.blogspot.com/) - Books
 * [BengaliEbook](https://www.worldmets.com/) - Books
 
 ## ▷ Streaming
 
-* [Bangla English Course](https://github.com/nbats/FMHYedit/blob/main/base64.md#bangla-english-course)
-* [Bangla Freelancing Course](https://github.com/nbats/FMHYedit/blob/main/base64.md#bangla-freelancing)
-* [Bangla Excel Course](https://github.com/nbats/FMHYedit/blob/main/base64.md#bangla-excel)
+* ↪️ **[Bangla English Course](https://github.com/nbats/FMHYedit/blob/main/base64.md#bangla-english-course)**
+* ↪️ **[Bangla Freelancing Course](https://github.com/nbats/FMHYedit/blob/main/base64.md#bangla-freelancing)**
+* ↪️ **[Bangla Excel Course](https://github.com/nbats/FMHYedit/blob/main/base64.md#bangla-excel)**
 
 ***
 
@@ -95,12 +93,12 @@
 
 ## ▷ Torrenting
 
-* [Zamunda](https://zamunda.net/) - Registration Required / Video / Audio/ Books / NSFW
+* [Zamunda](https://zamunda.net/) - Registration Required / Video / Audio / Books / NSFW
 
 ## ▷ Streaming
 
 * [Film4e](https://film4e.com/) - Movies / TV / Cartoons / Sub / Dub / 1080p
-* [NovaPlay](https://play.nova.bg/) - TV / Sub / Dub / 1080p
+* [NovaPlay](https://play.nova.bg/) - TV / Live / Sub / Dub / 1080p
 * [BGTVNET](https://bgtvnet.com/) - Movies / TV / Cartoons / Sub / 720p
 * [Filmite.Info](https://filmi99.com/) - Movies / TV / Cartoons / Sub / 720p
 * [bgseriali](https://bgseriali.com/) - Movies / TV / Documentaries / Sub / Dub / 720p
@@ -110,112 +108,92 @@
 * [BGTVI](https://bgtvi.com/) - TV / Sub / Dub / 720p
 * [BGESTV](https://bgestv.com) - TV / Sub / Dub / 720p
 * [TubeBG](https://www.tubebg.com/) - TV / Sub / Dub / 720p
-* [Gledai-me](https://gledai-me.com/) - TV / Sub / 720p
 
 ***
 
 # ► Chinese
 
-* 🌐 **[heji](https://233heji.com/)**, **[BestXTools](https://discuss-cn.bestxtools.com/)** or **[bajins](https://www.bajins.com/)** - Chinese Sites / Tools Index
-* [jialezi](https://blog.jialezi.net/) - Chinese Tutorials
-* [Kaiheila](https://www.kookapp.cn/) - Chinese Discord
-* [Diaosi Forum](https://assbbs.com/) or [WangChao](https://www.wangchao.info/) - Piracy Discussion
-* [zimuku](https://zimuku.org/), [assrt](https://assrt.net/), [zimuku](https://zimuku.org/) or [SubHD](https://subhd.tv/) - Subtitles
-* [ChineseSubtitleConversionTool](https://github.com/xiaoxinpro/ChineseSubtitleConversionTool) - Traditional and Simplified Chinese Subtitle Conversion Tool
+* 🌐 **[heji](https://233heji.com/)**, **[BestXTools](https://discuss-cn.bestxtools.com/)** or **[bajins](https://www.bajins.com/)** - Chinese Sites / Tools Indexes
+* 🌐 **[Awesome Github Repo](https://github.com/Wechat-ggGitHub/Awesome-GitHub-Repo)** - Programming Resources Index
 * [Anti-Ad](https://anti-ad.net/) - Adblock Filters
 * [GameLoop](https://syzs.qq.com/) - Android Emulator
 * [Thanox](https://github.com/Tornaco/Thanox) - Android System Manager
-* [Baidu](https://www.baidu.com/), [Toutiao](https://www.toutiao.com/), [sogou](https://www.sogou.com/) or [yisou](http://yisou.com/) - Search Engines
-* [SooPAT](http://www2.soopat.com/) - Patent Search
-* [news_pdf](https://t.me/news_pdf), [TopHub](https://tophub.today/), [Chinadaily](https://cn.chinadaily.com.cn/) or [China Watch](https://www.chinadaily.com.cn/chinawatch_fr/index.html) - News
-* [IT Home](https://www.ithome.com/) - Tech News
-* [Fonts Free Chinese](https://www.freechinesefont.com/) or [Fonts.net](https://www.fonts.net.cn/) - Fonts
-* [CatoCR](https://catocr.com/) - Image to Text
-* [EmbyCrack](https://github.com/ultranijia/EmbyCrack) - Lift Emby Restrictions
-* [map.baidu](https://map.baidu.com/) - Map / Satellite View
-* [China Firewall Bypass Guide](https://github.com/vpncn/vpncn.github.io), [GFW-knocker](https://github.com/GFW-knocker/gfw_resist_tls_proxy), [gfwlist](https://github.com/gfwlist/gfwlist), [XX-Net](https://github.com/XX-net/XX-Net), [FreeBrowser](https://freebrowser.org/) / [Wiki](https://github.com/greatfire/wiki) / [GitHub](https://github.com/greatfire/freebrowser) or [New Pac](https://github.com/Alvin9999/new-pac) - Bypass Chinese Firewall
-* [BlockedInChina](https://www.comparitech.com/privacy-security-tools/blockedinchina/), [China Firewall Test](http://www.chinafirewalltest.com/) - Test if Site is Blocked in China
-* [Gitee](https://gitee.com/) - GitHub Alternative
-* [V2EX](https://v2ex.com/) or [ZongScan](https://www.zongscan.com/) - Programming Forum
-* [BookStack](https://www.bookstack.cn/) - Developer / Programming Guides
-* [FE Hunter](https://github.com/BetaSu/fe-hunter) - Programming Question Bounties
-* [Awesome Github REPO](https://github.com/Wechat-ggGitHub/Awesome-GitHub-Repo) - Programming Resources
-* [HelloGitHub](https://hellogithub.com/) - GitHub Projects
-* [Gridea](https://open.gridea.dev/) - Blog Writing Client
-* [Dict.Baidu](https://dict.baidu.com/) - Chinese Word, Idiom and Poem Search
-* [SeiWatei](https://www.seiwatei.net/) or [chinadaily](https://language.chinadaily.com.cn/news_bilingual/) - Learn Chinese
-* [Oh.Taigi](https://oh.taigi.info/) - Chinese Taiwanese Learning Tools
-* [taioan](https://ji.taioan.org/) - Chinese Spell Check
-* [Baidu Library to Word](https://greasyfork.org/en/scripts/405373-%E7%99%BE%E5%BA%A6%E6%96%87%E5%BA%93%E8%BD%AC-word-%E7%99%BE%E5%BA%A6%E6%96%87%E5%BA%93%E4%B8%8B%E8%BD%BD%E5%99%A8) - Baidu Library to Word Converter
-* [ICIBA](https://www.iciba.com/), [Fanyi](https://fanyi.qq.com/) or [YouDao](https://fanyi.youdao.com/) - Translator / [Client](https://cp.iciba.com/)
-* [itaigi](https://itaigi.tw/) - Chinese to Taiwanese Translator
-* [Flash.cn](https://www.flash.cn/) - Chinese Flash Player
 * [Winmoes](https://winmoes.com/) - Anime Windows Themes / Wallpapers
-* [Bangumi](https://bangumi.tv/), [2](https://bangumi.tv/), [3](https://chii.in/) - Media Database / [Android Client](https://github.com/czy0729/Bangumi)
-* [MissEvan](https://www.missevan.com/) - Audio Comics, Songs and Podcasts
-* [Kilamanbo](https://www.kilamanbo.com/) - Audio Comic Drama
+* [Gridea](https://open.gridea.dev/) - Blog Writing Client
 * [Etoland](https://etoland.co.kr/) - Bulletin Board
+* [China Firewall Bypass Guide](https://github.com/vpncn/vpncn.github.io), [gfwlist](https://github.com/gfwlist/gfwlist), [XX-Net](https://github.com/XX-net/XX-Net), [FreeBrowser](https://freebrowser.org/) / [Wiki](https://github.com/greatfire/wiki) or [New Pac](https://github.com/Alvin9999/new-pac) - Bypass Chinese Firewall
+* [Kaiheila](https://www.kookapp.cn/) - Chinese Discord
+* [Flash.cn](https://www.flash.cn/) - Chinese Flash Player
+* [taioan](https://ji.taioan.org/) - Chinese Spell Check
+* [itaigi](https://itaigi.tw/) - Chinese to Taiwanese Translator
+* [BookStack](https://www.bookstack.cn/) - Developer / Programming Guides
+* [Free Chinese Fonts](https://www.freechinesefont.com/) or [Fonts.net](https://www.fonts.net.cn/) - Fonts
+* [Gitee](https://gitee.com/) - GitHub Alternative
+* [HelloGitHub](https://hellogithub.com/) - GitHub Projects
+* [CatoCR](https://catocr.com/) - Image to Text
+* [Oh.Taigi](https://oh.taigi.info/) - Learn Taiwanese
+* [EmbyCrack](https://github.com/ultranijia/EmbyCrack) - Lift Emby Restrictions
+* [Bangumi](https://bangumi.tv/), [2](https://chii.in/) - Media Database / [Android Client](https://github.com/czy0729/Bangumi)
+* [TopHub](https://tophub.today/) or [Chinadaily](https://cn.chinadaily.com.cn/) - News
+* [SooPAT](http://www2.soopat.com/) - Patent Search
+* [Diaosi Forum](https://assbbs.com/) - Piracy Discussion Forum
+* [V2EX](https://v2ex.com/) or [ZongScan](https://www.zongscan.com/) - Programming Forum
+* [FE Hunter](https://github.com/BetaSu/fe-hunter) - Programming Question Bounties
+* [Baidu](https://www.baidu.com/), [Toutiao](https://www.toutiao.com/), [sogou](https://www.sogou.com/) or [yisou](http://yisou.com/) - Search Engines
+* [IT Home](https://www.ithome.com/) - Tech News
+* [jialezi](https://blog.jialezi.net/) - Tech Tutorials
+* [BlockedInChina](https://www.comparitech.com/privacy-security-tools/blockedinchina/) or [China Firewall Test](http://www.chinafirewalltest.com/) - Test if Site is Blocked in China
+* [ICIBA](https://www.iciba.com/) / [Client](https://cp.iciba.com/), [Fanyi](https://fanyi.qq.com/) or [YouDao](https://fanyi.youdao.com/) - Translators
 
 ## ▷ Downloading
 
-* [ARPT-Bot](https://github.com/666wcy/ARPT-Bot) - Chinese Download Manager
-* [baidu-pan-downloader](https://github.com/dotennin/baidu-pan-downloader) - Baidu Yun Download Manager
-* [Impale](https://imaple8.co/) - Movies / TV
-* [shinybbs](https://sub.shinybbs.vip/) - TV
-* [Hifini](https://www.hifini.com/) - Music
-* [J-pop Music Download](https://jpop.xyz/) - Music / FLAC / MP3
-* [Icourse163 Downloader](https://greasyfork.org/en/scripts/372684) - Courses / [icourse163](https://www.icourse163.org/)
+* [shinybbs](https://sysub.vip/) - Movies / TV / 1080p
+* [Hifini](https://www.hifini.com/) or [J-pop Music Download](https://jpop.xyz/) - Music / FLAC / MP3
+* [icourse163](https://www.icourse163.org/) / [Icourse163 Downloader](https://greasyfork.org/en/scripts/372684) - Courses
 
 ## ▷ Torrenting
 
-* [Csze BT](https://bt.orzx.im/) - Video / Audio/ Books
+* [Csze BT](https://bt.orzx.im/) - Video / Audio / Books
 * [acgnx](https://www.acgnx.se/) - Video / Audio / Books / NSFW
-* [Share.dmhy](https://share.dmhy.org/) - Anime / Manga / Music
+* [Share.dmhy](https://share.dmhy.org/) - Video / Anime / NSFW
 * [VGMUpdate](http://www.vgmupdate.com/) - Video / Manga / NSFW
 * [XiaZai001](https://xiazai001.org/) - Video / Audio 
-* [dytt8](https://dytt8.net/), [dy2018](https://dy2018.com/), [ygdy8](https://ygdy8.com/index.html) or [dydytt](https://www.dydytt.net) - Movies / TV / Anime
-* [ygdy8](https://www.ygdy8.net/) - Movies / TV / Anime
-* [DoMP4](https://www.mp4us.com/) - Movies / TV
-* [cnwml](https://www.cnwml.com/) - Movies / TV
-* [Dytt8](https://dytt8.net/) - Movies / TV / Anime
-* [高清电台](https://gaoqing.fm/) - Movies / TV / Anime / Use VPN or Google Translate to Access
-* [dygang](https://www.dygang.cc/) - Movies
-* [Dy2018](https://www.dy2018.com/) - Movies
-* [shinybbs](https://sub.shinybbs.vip/) - TV
-* [ACG.rip](https://acg.rip/) - Anime / Music
+* [dytt8](https://dytt8.net/), [2](https://www.dydytt.net) or [ygdy8](https://www.ygdy8.net/), [2](https://ygdy8.com/index.html) - Video / Anime
+* [DoMP4](https://www.mp4us.com/) - Video
+* [cnwml](https://www.cnwml.com/) - Video
+* [dygang](https://www.dygang.cc/) - Video
+* [Dy2018](https://www.dy2018.com/) - Video
+* [ACG.rip](https://acg.rip/) - Anime / Audio
 * [Snow-Raws](https://snow-raws.com/) - Anime / [Official Tracker](https://www.skyey2.com/)
-* [mikanani](https://mikanani.me/) - Anime
-* [dmhy](https://dmhy.org/) - Cartoons
-* [AnimeTrackerList](https://github.com/DeSireFire/animeTrackerList) - Anime Tracker List
+* [Mikan](https://mikanani.me/) - Anime
+* [AnimeTrackerList](https://github.com/DeSireFire/animeTrackerList) - Anime Trackers List
 
 ## ▷ Streaming
 
 * 🌐 **[Tvlist-awesome-m3u-m3u8](https://github.com/imDazui/Tvlist-awesome-m3u-m3u8)** - IPTV Resources
 * 🌐 **[Chinese Drama Site Index](https://www.reddit.com/r/CDrama/wiki/streaming)** - Chinese Drama Sites Index
 * 🌐 **[Movie Forest](https://549.tv/)** or **[klyingshi](https://klyingshi.com/)** - Chinese Streaming Sites Index
-* [beyondHD ](https://t.me/beyondHD) - Movies / Subs
-* [Watch HK Movies Online](https://vinspirezhk.blogspot.com/) - Rare Chinese Movies / English Subs
-* [tangrenjie](https://www.tangrenjie.tv/) - Movies / TV / Anime
-* [ddrk](https://ddys.pro/) - Movies / TV / Anime
-* [Tencent Video](https://v.qq.com/) - Movies / TV / Anime / [Downloader](https://weibomiaopai.com/online-video-downloader/tencent)
-* [MoMoVOD](https://momovod.app/) - Movies / TV / Anime
-* [uvod.tv](https://www.uvod.tv/) - Movies / TV / Anime
-* [VidHub](https://vidhub.tv/) - Movies / TV / Anime
-* [iMeiju](https://www.imeiju.net/) - Movies / TV
-* [Nunu Cinema](https://www.nunuyy5.org/) - Movies / TV
-* [Fun.tv](https://www.fun.tv/) - Movies / TV
-* [555dy](https://555dy1.com/) - Movies / TV / Anime / NSFW
-* [MeWatch](https://www.mewatch.sg/) - Movies / TV
-* [3g1.cc](https://www.3g1.cc/) - Movies / TV
-* [KokoTV](https://kokotv.me/) - Drama
-* [Duboku](https://www.duboku.tv/) - TV / Cartoons
-* [CC動漫](https://ccdm.cc/) - Anime
-* [AGE Anime](https://www.agedm.tv/) - Anime
-* [dmd85](http://www.dmand5.com/), [Rentry](https://rentry.org/dmd8) - Anime
-* [bimiacg4](https://www.bimiacg4.net/) - Anime
-* [93wuc](https://www.93wuc.com/) - Anime
+* [beyondHD](https://t.me/beyondHD) - Movies / Sub / 1080p / 4K
+* [tangrenjie](https://www.tangrenjie.tv/) - Movies / TV / Anime / Sub / 1080p
+* [ddrk](https://ddys.pro/) - Movies / TV / Anime / Sub / 1080p
+* [Tencent Video](https://v.qq.com/) - Movies / TV / Anime / Cartoons / Sub / Dub / 1080p / [Downloader](https://weibomiaopai.com/online-video-downloader/tencent)
+* [MoMoVOD](https://momovod.app/) - Movies / TV / Anime / Sub / 1080p
+* [VidHub](https://vidhub.tv/) - Movies / TV / Anime / Sub / 1080p
+* [iMeiju](https://www.imeiju.net/) - Movies / TV / Sub / 1080p
+* [Nunu Cinema](https://www.nunuyy5.org/) - Movies / TV / Sub / 1080p
+* [555dy](https://555dy1.com/) - Movies / TV / Anime / NSFW / Sub / 1080p
+* [3g1.cc](https://www.3g1.cc/) - Movies / TV / Sub / 1080p
+* [Imaple](https://imaple8.co/) - Movies / TV / Sub / 1080p
+* [KokoTV](https://kokotv.me/) - Drama / Sub / Dub / 1080p
+* [Duboku](https://www.duboku.tv/) - TV / Cartoons / Sub / 1080p
+* [CC動漫](https://ccdm.cc/) - Anime / Sub / 1080p
+* [AGE Anime](https://www.agedm.tv/) - Anime / Sub / 1080p
+* [dmd85](http://www.dmand5.com/) / [Rentry](https://rentry.org/dmd8) - Anime / Sub / 1080p
+* [bimiacg4](https://www.bimiacg4.net/) - Anime / Sub / 1080p
+* [93wuc](https://www.93wuc.com/) - Anime / Sub / 1080p
 * [music.163](https://music.163.com/) - Music
-* [Hifini](https://www.hifini.com/) - Music
+* [MissEvan](https://www.missevan.com/) - Music / Podcasts / Audio Comics 
+* [Kilamanbo](https://www.kilamanbo.com/) - Audio Comic Drama
 * [Huya](https://www.huya.com/) - Live Streaming
 * [數學老師張旭](https://space.bilibili.com/521685904) - Math Lessons
 * [free-project-course](https://github.com/resumejob/free-project-course) - Programming Courses
