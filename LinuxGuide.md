@@ -240,6 +240,7 @@
 * [howtodebuntu](https://github.com/themagicalmammal/howtolinux) - Tweaks for Debian Based Distros
 * [WoeUSB](https://github.com/WoeUSB/WoeUSB) or [Windows2USB](https://github.com/ValdikSS/windows2usb) - Create Bootable USB Windows Drives
 * [CloverBootloader](https://github.com/CloverHackyColor/CloverBootloader/releases) - Windows, Mac & Linux Bootloader / [Config](https://mackie100projects.altervista.org/)
+* [zfsBootMenu](https://github.com/zbm-dev/zfsbootmenu) - ZFS Bootloader
 * [Linux Heads](https://osresearch.net/) - Minimal CoreBoot / [GitHub](https://github.com/osresearch/heads)
 * [GParted](https://gparted.org/) - Partition Manager
 * [ArchTitus](https://github.com/ChrisTitusTech/ArchTitus), [archinstall](https://github.com/archlinux/archinstall) or [Anarchy](https://anarchyinstaller.gitlab.io/) - Arch Linux Installer
