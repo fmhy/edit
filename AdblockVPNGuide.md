@@ -14,6 +14,7 @@
 * ↪️ **[Adblock Filters](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_ublock_filters)** / [Test Filters](http://raymondhill.net/ublock/adbox.html) / [Merge Filters](https://realityripple.com/Tools/AdBlock++/)
 * ↪️ **[Spotify Adblockers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_spotify_tools)**
 * ⭐ **[Can You Block It?](https://canyoublockit.com/)**, [AdBlock Tester](https://adblock-tester.com/) or [AdBlocker Test](https://d3ward.github.io/toolz/adblock.html) - Adblocking Tests
+* [uBO-bypass-yt](https://drhyperion451.github.io/does-uBO-bypass-yt/) - uBO YouTube Anti-Adblock Fixes
 * [YouT-ube](https://www.yout-ube.com/) - Ad-Free YouTube Web Player
 
 ***
