@@ -15,14 +15,13 @@
 * ↪️ **[Spotify Adblockers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_spotify_tools)**
 * ⭐ **[Can You Block It?](https://canyoublockit.com/)**, [AdBlock Tester](https://adblock-tester.com/) or [AdBlocker Test](https://d3ward.github.io/toolz/adblock.html) - Adblocking Tests
 * [YouT-ube](https://www.yout-ube.com/) - Ad-Free YouTube Web Player
-* [Simple Opt Out](https://simpleoptout.com/) - Turn off Targeted Ads
 
 ***
 
 ## ▷ Adblocking Extensions
 
 * ↪️ **[Twitch Adblockers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_twitch_adblockers)**
-* ↪️ **[Redirect Skippers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_skip_redirect)** / [Skip Timers](https://greasyfork.org/en/scripts/372673)
+* ↪️ **[Redirect Skippers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_skip_redirect)**
 * ↪️ **[Popup Blockers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_popup_blocker_links)**
 * ⭐ **[uBlock Origin](https://github.com/gorhill/uBlock#installation)** - Adblocker / [Guide](https://addons.mozilla.org/blog/ublock-origin-everything-you-need-to-know-about-the-ad-blocker/)
 * ⭐ **[SponsorBlock](https://sponsor.ajay.app/)** - Skip Sponsored YouTube Ads / [Chromecast](https://github.com/nichobi/sponsorblockcast) / [Script](https://github.com/mchangrh/sb.js), [2](https://greasyfork.org/en/scripts/453320)
@@ -307,6 +306,7 @@
 * [I2Pd Browser](https://i2pd.website/) - I2P Browser / [GitHub](https://github.com/PurpleI2P/i2pd)
 * [CookieStatus](https://www.cookiestatus.com/) or [PrivacyTests](https://privacytests.org/) - Browser Tracking Protection Comparisons
 * [Device Info](https://www.deviceinfo.me/), [Privacy Test](https://privacy.net/analyzer/) or [IPX](https://ipx.ac/run) - Browser Data Leak Test
+* [Simple Opt Out](https://simpleoptout.com/) - Turn off Targeted Ads
 * [SSL Labs](https://clienttest.ssllabs.com:8443/ssltest/viewMyClient.html) - SSL/TLS Browser Capabilities Test
 * [DNSCookie](http://dnscookie.com/) - Identify Related Network Flows
 * [Microsoft Security Intelligence](https://www.microsoft.com/en-us/wdsi/support/report-unsafe-site-guest) or [MalSite](https://rentry.co/malsite) - Report Unsafe Sites
