@@ -33,7 +33,6 @@
 * [Movies Ni Pipay](https://moviesnipipay.me/) - Movies / TV / 1080p
 * [WatchMovie](https://watchmovie.ac/) - Movies / TV / Anime / 1080p
 * [PogoLinks](https://pogolinks.hair/) - Movies / TV / Anime / 1080p
-* [DailyFlix](https://main.dailyflix.stream/) - Movies / TV / Anime / 1080p / [Link Site](https://main.dailyflix.info/)
 * [Levidia](https://www.levidia.ch/) - Movies / TV / Anime / 1080p
 * [EuroPixHD](https://europixhd.pro/), [2](https://epxmovies.net/) - Movies / TV / Anime / 1080p
 * [xpWatch](https://xpwatch-v2.pages.dev/) - Movies / TV / Anime / 1080p
@@ -407,6 +406,7 @@
 * [MMACore](https://www.mma-core.com) - MMA
 * [BoxingBoxingvideoideo](https://boxingvideo.org/) - Boxing
 * [AllTheBestFights](https://www.allthebestfights.com/) - MMA / Boxing / K1
+* [TNA / Impact Replays](https://www.youtube.com/playlist?list=PLSadBNbijyoGV44wd96Fda7-GDYh9UktC) - TNA / Impact Wrestling
 * [/r/MotorsportsReplays](https://reddit.com/r/MotorsportsReplays) - Motorsports
 * [F1 Full Races](https://f1fullraces.com/) - F1
 
@@ -519,7 +519,7 @@
 * [SmartTubeNext](https://smartyoutubetv.github.io/) - Ad Free Android TV YouTube Player / [GitHub](https://github.com/yuliskov/SmartTubeNext)
 * [Android TV Spotify](https://github.com/nbats/FMHYedit/blob/main/base64.md#android-tv-spotify) - Android TV Spotify Client
 * [YTCast](https://github.com/MarcoLucidi01/ytcast) - Cast YouTube Videos to Smart TV
-* [S0undTV](https://github.com/S0und/S0undTV) - Android TV Twitch Player
+* [S0undTV](https://github.com/S0und/S0undTV) - Android TV Twitch Player / [Discord](https://discord.gg/zmNjK2S)
 * [SmartTwitchTV](https://github.com/fgl27/SmartTwitchTV) - Smart TV Twitch Player
 * [Go2TV](https://github.com/alexballas/go2tv) or [FCast](https://fcast.org/) - Cast to Smart TVs
 * [hifi2007reviews](https://hifi2007reviews.com/) - IPTV / Firestick APKs
