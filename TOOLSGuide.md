@@ -1392,16 +1392,13 @@
 * [YouTube Chronological Order](https://github.com/SleekPanther/youtube-chronological-order) - Watch YouTube Videos in Chronological Order 
 * [YouTube Upload Time](https://chrome.google.com/webstore/detail/youtube-upload-time/nenoecmaibjcahoahnmeinahlapheblg) - Check YouTube Upload Date
 * [YTStamps](https://ytstamps.netlify.app/) - Create Custom Start / End Times
-* [Video Speed Controller](https://github.com/codebicycle/videospeed), [YouTube Speed Control](https://github.com/avi12/youtube-speed-control) or [TimerHooker](https://timer.palerock.cn/en/) - Control Speed of YouTube Videos
+* [Video Speed Controller](https://github.com/igrigorik/videospeed) or [TimerHooker](https://timer.palerock.cn/en/) - Control Speed of YouTube Videos
 * [Anilyzer](https://anilyzer.com/) - Watch YouTube Videos in Slow Motion / Frame by Frame
 * [Playlist Creator for YouTube](https://chrome.google.com/webstore/detail/drag-drop-playlist-creato/aklnkkbopjjemjlkffhamaepagbmblbg) or [Playlists at YouTube](https://playlists.at/youtube/) - Easily Create Playlists
 * [ytcc](https://github.com/woefe/ytcc) - Playlist Manager
 * [YT Playlist Length](https://ytplaylist-len.sharats.dev/) - Playlist Length Checker
 * [YouTube Region Checker](https://polsy.org.uk/stuff/ytrestrict.cgi) - Youtube Region Restrictions Check
 * [YouTube Qualities Size](https://greasyfork.org/en/scripts/404953-youtube-qualities-size) - Shows YouTube File Sizes 
-* [Auto Quality for YouTube](https://chrome.google.com/webstore/detail/auto-quality-for-youtube/iaddfgegjgjelgkanamleadckkpnjpjc?hl=en) - Automatically Switch to desired Quality
-* [h264ify](https://github.com/alextrv/enhanced-h264ify) - Use H.264 on YouTube
-* [YouTube AV1](https://greasyfork.org/en/scripts/466127) - Use AV1 on Youtube
 * [YTAPI](https://www.ytapi.com/) - Alt YouTube Player
 * [YouTube CPU Tamer](https://greasyfork.org/en/scripts/431573) / [2](https://greasyfork.org/en/scripts/418283) or [Unhold YouTube](https://greasyfork.org/en/scripts/457205) - YouTube CPU Optimization
 * [Ultrawidify](https://github.com/tamius-han/ultrawidify) - Fix YouTube Aspect Ratio
@@ -1414,14 +1411,13 @@
 * [YouTube Watch Time Counter](https://chrome.google.com/webstore/detail/youtube-watch-time-counte/fpoooibdndpjcnoodfionoeakeojdjaj) - Track Time Spent on YouTube
 * [BlockTube](https://github.com/amitbl/blocktube) - YouTube Content Blocker
 * [YT Not Interested Button on Hover](https://greasyfork.org/en/scripts/396936-yt-not-interested-in-one-click) - Easily Display Not Interested Button
-* [RapidTags](https://www.rapidtags.io/) or [YTubeTool](https://ytubetool.com/) - YouTube Tag Generators
+* [RapidTags](https://www.rapidtags.io/) - YouTube Tag Generators
 * [ChatReplay](https://chatreplay.stream/) - YouTube Live Stream Chat Replay
 * [LiveTL](https://kentonishi.com/LiveTL/) - YouTube Live Stream Translator
 * [Super Fast Chat](https://greasyfork.org/en/scripts/469878) - YouTube Chat Performance Enhancer
 * [YoutubeLiveChatFlusher](https://github.com/ys-j/YoutubeLiveChatFlusher) - Bullet Chatting (Danmaku) for YouTube Live
-* [You-TLDR](https://www.you-tldr.com/), [Solidpoint](https://solidpoint.ai/), [Eightify](https://eightify.app/) or [VideoHighlight](https://videohighlight.com/) - Summarize YouTube Videos
-* [Youtube Summarizer](https://share.streamlit.io/iamknownstranger/ytsummary/main) - YouTube Transcript Summarizers
-* [Youtube DataViewer](https://citizenevidence.amnestyusa.org/), [YouTube-MA](https://github.com/CorentinB/YouTube-MA), [YouTube-Grab](https://github.com/ArchiveTeam/youtube-grab) or [YouTube Metadata](https://mattw.io/youtube-metadata/) - YouTube Video Data Viewers
+* [Solidpoint](https://solidpoint.ai/), [Eightify](https://eightify.app/) or [VideoHighlight](https://videohighlight.com/) - Summarize YouTube Videos
+* [YouTube Metadata](https://mattw.io/youtube-metadata/) - YouTube Video Metadata Viewer
 * [YouBit](https://github.com/MeViMo/youbit) - Use YouTube as File Host
 * [Filmot Title Restorer](https://greasyfork.org/en/scripts/430202-filmot-title-restorer) - Restore Deleted YouTube Video Titles in Playlists
 * [YouTube Thumbnail Grabber](https://boingboing.net/features/getthumbs), [YTI](https://youtubethumbnailimage.com/), [thumbnailsave](https://thumbnailsave.com/), [thumbnail-download](https://thumbnail-download.com/) or [Get YT Thumbnail](https://www.get-youtube-thumbnail.com/) - Download YouTube Thumbnails
