@@ -1686,14 +1686,12 @@
 * [GoldMemory](https://www.goldmemory.cz/) or [Testmem5](https://www.overclock.net/threads/memory-testing-with-testmem5-tm5-with-custom-configs.1751608/) - Memory Benchmarking
 * [MemTest](https://www.memtest.org/) - Memory Diagnostic Tool
 * [NotCPUCores](https://github.com/rcmaehl/NotCPUCores), [ParkControl](https://bitsum.com/parkcontrol/), [QuickCPU](https://coderbag.com/product/quickcpu) or [Process Lasso](https://bitsum.com/) - CPU Optimizer
-* [perf-book](https://github.com/dendibakh/perf-book) - CPU Performance Analysis and Tuning Book
 * [ThrottleStop](https://www.techpowerup.com/download/techpowerup-throttlestop/) - Laptop CPU Monitor / Optimizer
 * [Universal x86 Tuning Utility](https://github.com/JamesCJ60/Universal-x86-Tuning-Utility) - Laptop GPU Controller
 * [AATU](https://amdaputuningutility.com/) or [RyzenAdj](https://github.com/FlyGoat/RyzenAdj) - Ryzen Laptop GPU Controllers
 * [FanControl](https://github.com/Rem0o/FanControl.Releases) - Fan Control
-* [NBFC](https://github.com/hirschmann/nbfc) - Laptop Fan Control
 * [DIY Laptop](https://www.olimex.com/Products/DIY-Laptop/) - Build a Laptop
-* [OpenBoardData](https://github.com/inflex/OpenBoardData) - Board Repair Data
+* [OpenBoardData](https://openboarddata.org/) - Board Repair Data
 * [3DBenchy](https://www.3dbenchy.com/) - 3D Printer Benchmarking / Testing
 
 ***
@@ -1753,18 +1751,13 @@
 * [Recycle Bin Themes](https://github.com/sdushantha/recycle-bin-themes) - Custom Recycle Bin Icons
 * [Cursors 4U](https://www.cursors-4u.com/), [Cursor Mania Archive](https://archive.org/details/cursormania), [Bibata Cursor](https://github.com/ful1e5/Bibata_Cursor), [Cursors Pastebin](https://pastebin.com/BrAbMy4n) or [rw-designer](http://rw-designer.com/cursor-library) - Cursors
 * [macOS-cursors-for-Windows](https://github.com/antiden/macOS-cursors-for-Windows) - MacOS Cursors for Windows
-* [AngryWindows](https://github.com/ch3rn0byl/AngryWindows) - Custom Blue Screen of Death
-* [Win7BootUpdater](https://mega.nz/file/T5ZDmIaK#jdiomK79q1CYzwFcbzkzJ1ceLsWlnAHLvofsjHIq39g) - Customize Windows 7 Boot Animation / [Guide](https://youtu.be/IdwcWIKuVG8)
 * [ElectricSheep](https://electricsheep.org/) - Collaborative Usergenerated Screensaver
 * [After Dark CSS](https://www.bryanbraun.com/after-dark-css/) - Browser Screensavers
 * [Tabby](https://tabby.sh/) - Modern Terminal Theme
 * [linux-like-windows-terminal](https://github.com/Kyza/linux-like-windows-terminal) - Linux Terminal Theme
 * [cool-retro-term](https://github.com/Swordfish90/cool-retro-term) - Retro Cathode Terminal Theme
 * [Pokemon Terminal](https://github.com/LazoCoder/Pokemon-Terminal) - Pokemon Terminal Themes
-* [Nyan Cat Progress Bar](https://instantelevatormusic.com/nyan-cat-progress-bar/) - Nyan Cat Install Progress Bar
-* [Hide File Explorer Dark Mode White Line](https://i.ibb.co/VmmnDpY/bd3df70e635d.png)
 * [MyDockFinder](https://www.mydockfinder.com/) - MacOS Theme for Windows 10
-* [Taskbar11](https://github.com/jetspiking/Taskbar11) - Change Windows 11 Taskbar Position / Size
 * [MicaForEveryone](https://github.com/MicaForEveryone/MicaForEveryone) - Enable Titlebar Backdrop Effect on Windows 11
 * [Win11DisableRoundedCorners](https://github.com/valinet/Win11DisableRoundedCorners) - Disable Win11 Rounder Corners
 * [Macdows11](https://redd.it/pd5ha6) - Windows 11 Mac Theme Guide
