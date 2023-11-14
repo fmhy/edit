@@ -2,6 +2,7 @@
 import { reactive, ref } from "vue";
 import { useRoute } from "vitepress";
 import type { FeedbackType } from "../../types/Feedback";
+import { fetcher } from "itty-fetcher";
 
 const loading = ref<boolean>(false);
 const error = ref<unknown>(null);
@@ -69,18 +70,21 @@ async function handleSubmit(type?: FeedbackType["type"]) {
     <Transition name="fade" mode="out-in">
       <div v-if="!feedback.type" class="step">
         <div>
-                  <div>
+          <div>
             <p class="heading">Feedback</p>
           </div>
         </div>
         <div class="button-container">
-          <button v-for="item in feedbackOptions" :key="item.value" class="btn"
+          <button
+            v-for="item in feedbackOptions"
+            :key="item.value"
+            class="btn"
             @click="handleSubmit(item.value as FeedbackType['type'])">
             <span>{{ item.label }}</span>
-                 </button>
+          </button>
         </div>
       </div>
-       <div v-else-if="feedback.type && !success" class="step">
+      <div v-else-if="feedback.type && !success" class="step">
         <div>
           <p class="desc">The wiki is... • {{ path }}</p>
           <div>
@@ -88,12 +92,16 @@ async function handleSubmit(type?: FeedbackType["type"]) {
             <button style="margin-left: 0.5rem" class="btn" @click="feedback.type = undefined">
               <span class="i-carbon-close-large">close</span>
             </button>
-              </div>
+          </div>
         </div>
         <textarea v-model="feedback.message" autofocus class="input" />
         <p class="desc">Contacts, so we can get back to you. (Optional)</p>
         <textarea v-model="feedback.contact" class="contact-input" />
-        <button type="submit" class="btn btn-primary" :disabled="feedback.message.length > 1000" @click="handleSubmit()">
+        <button
+          type="submit"
+          class="btn btn-primary"
+          :disabled="feedback.message.length > 10"
+          @click="handleSubmit()">
           Submit
         </button>
       </div>
@@ -105,7 +113,7 @@ async function handleSubmit(type?: FeedbackType["type"]) {
 </template>
 
 <style scoped>
-.step>*+* {
+.step > * + * {
   margin-top: 1rem;
 }
 

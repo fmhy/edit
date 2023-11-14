@@ -12,6 +12,7 @@
     "api:preview": "node .output/server/index.mjs",
     "og:dev": "x-satori -t ./.vitepress/hooks/Template.vue -c ./.vitepress/hooks/satoriConfig.ts --dev",
     "format": "prettier -w --cache .",
+    "lint": "eslint .vitepress -f pretty --cache",
     "postinstall": "nitropack prepare"
   },
   "dependencies": {
@@ -32,8 +33,10 @@
   "devDependencies": {
     "@iconify-json/carbon": "^1.1.21",
     "@iconify-json/twemoji": "^1.1.12",
+    "@taskylizard/eslint-config": "^1.0.1",
     "@types/node": "^20.8.9",
     "@vite-pwa/vitepress": "^0.2.3",
+    "eslint": "^8.53.0",
     "prettier": "^3.0.3"
   },
   "pnpm": {
