@@ -1489,7 +1489,7 @@
 * [Tlandia](https://torrentlandia.site/) - Movies / Latino
 * [DiXvA](https://www.dixva.com/), [2](https://www.sinsitio.site/) - Movies / TV / Music / NSFW / [Telegram](https://t.me/+YSdB1y9VdjAzNDkx)
 * [Zonatorrent](https://zonatorrent.in/) - Movies / TV / Castilian / [Bypasser script](https://greasyfork.org/en/scripts/462510-spanish-torrent-sites-short-link-bypasser)
-* [unionfansub](https://foro.unionfansub.com/index.php) - Anime
+* [Unionfansub](https://foro.unionfansub.com/index.php) - Anime
 * [Akiba-kei](http://akiba-team.org/) - Anime
 * [Animextremist](http://animextremist.com/) - Anime / Manga
 * [epublibre](https://www.epublibre.org/) - Books
@@ -1514,7 +1514,7 @@
 * [Gnula.uno](https://gnula.uno/) - Movies / TV / Anime / Latino
 * [Cinecalidad](https://cinecalidad.gg/) - Movies / TV / Animation / Latino / [Telegram](https://t.me/cinecalidadchat)
 * [Cuevana2](https://www.cuevana2espanol.net/) - Movies / TV / Latino
-* [locopelis](https://www.locopelis.com/), [2](https://www.repelis.net/) - Movies / NSFW / Latino
+* [Locopelis](https://www.locopelis.com/), [2](https://www.repelis.net/) - Movies / NSFW / Latino
 * [Fanpelis](https://fanpelis.la/) - Movies / TV / Anime / Latino
 * [PelisPlusHD.nz](https://pelisplushd.nz/) - Movies / TV / Anime / Latino / [Telegram](https://t.me/pelisplushd_nu)
 * [PelisPlusHD.so](https://pelisplushd.so/) - Movies / TV / Latino
@@ -1535,8 +1535,8 @@
 * [Dilo](https://www.dilo.nu/) - Movies / TV / Anime
 * [novelas360](https://novelas360.com/) - TV / Drama
 * [Tlnovelas](https://tlnovelas.net/) - TV / Drama
-* [asialiveaction](https://asialiveaction.com/) - Asian Drama
-* [doramasyt](https://www.doramasyt.com/) - Asian Drama
+* [Asialiveaction](https://asialiveaction.com/) - Asian Drama
+* [Doramasyt](https://www.doramasyt.com/) - Asian Drama
 * [Vix](https://www.vix.com/tv/) - TV / Latino
 * [AtresPlayer](https://www.atresplayer.com/) - Movies / TV / Live TV / Castilian
 * [Cine Libre Online](https://www.cinelibreonline.com/) - YouTube Movies
