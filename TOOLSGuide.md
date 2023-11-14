@@ -1327,7 +1327,7 @@
 * [TubeArchivist](https://www.tubearchivist.com/) - Archival YouTube Media Server / [GitHub](https://github.com/tubearchivist/tubearchivist)
 * [YTArchive](https://github.com/Kethsar/ytarchive) - YouTube Livestream Recorder
 * [YouTube Comment Downloader](https://github.com/egbertbouman/youtube-comment-downloader) - YouTube Comment Download Script
-* [YouTube Search Fixer Suite](https://addons.mozilla.org/en-US/firefox/addon/youtube-suite-search-fixer/) - Fix Youtube Search / Declutter Homepage
+* [YouTube Search Fixer Suite](https://addons.mozilla.org/en-US/firefox/addon/youtube-suite-search-fixer/) - Fix YouTube Search / Declutter Homepage
 * [Feed Remover](https://github.com/kwkr/feed-remover) - Remove YouTube Homepage Feed
 * [Channel Crawler](https://channelcrawler.com/eng) or [YT-FTS](https://github.com/NotJoeMartinez/yt-fts) - Channel Search Tools
 * [Comment Viewer](https://commentviewer.com/), [Hadzy](https://hadzy.com/), [YCS](https://chrome.google.com/webstore/detail/ycs-youtube-comment-searc/pmfhcilikeembgbiadjiojgfgcfbcoaa?hl=en) or [YCF](https://ytcomment.kmcat.uk/) - YouTube Comment Search
@@ -1372,7 +1372,7 @@
 * [Playlist Creator for YouTube](https://chrome.google.com/webstore/detail/drag-drop-playlist-creato/aklnkkbopjjemjlkffhamaepagbmblbg) or [Playlists at YouTube](https://playlists.at/youtube/) - Easily Create Playlists
 * [ytcc](https://github.com/woefe/ytcc) - Playlist Manager
 * [YT Playlist Length](https://ytplaylist-len.sharats.dev/) - Playlist Length Checker
-* [YouTube Region Checker](https://polsy.org.uk/stuff/ytrestrict.cgi) - Youtube Region Restrictions Check
+* [YouTube Region Checker](https://polsy.org.uk/stuff/ytrestrict.cgi) - YouTube Region Restrictions Check
 * [YouTube Qualities Size](https://greasyfork.org/en/scripts/404953-youtube-qualities-size) - Shows YouTube File Sizes 
 * [YTAPI](https://www.ytapi.com/) - Alt YouTube Player
 * [YouTube CPU Tamer](https://greasyfork.org/en/scripts/431573) / [2](https://greasyfork.org/en/scripts/418283) or [Unhold YouTube](https://greasyfork.org/en/scripts/457205) - YouTube CPU Optimization
@@ -1380,7 +1380,7 @@
 * [FREEZE](https://chrome.google.com/webstore/detail/freeze/bejbbhcoefpmeejcnknjfepoocehopii) - Control YouTube via Webcam
 * [ProgressBar Preserver](https://greasyfork.org/scripts/394512) - Always Visible Progress Bar YouTube
 * [Equalizer for YouTube](https://mybrowseraddon.com/equalizer-for-youtube.html) - Audio Equalizer
-* [songs-to-youtube](https://github.com/7x11x13/songs-to-youtube) - Upload Audio to Youtube Automatically
+* [songs-to-youtube](https://github.com/7x11x13/songs-to-youtube) - Upload Audio to YouTube Automatically
 * [Audio Only YouTube](https://chrome.google.com/webstore/detail/audio-only-youtube/pkocpiliahoaohbolmkelakpiphnllog) - Audio Only YouTube
 * [Unhook](https://unhook.app/), [Less Addictive Youtube](https://github.com/AlexisDrain/Less-Addictive-YouTube) or [YourTube](https://github.com/rahgurung/YourTube) - Distraction Free YouTube
 * [YouTube Watch Time Counter](https://chrome.google.com/webstore/detail/youtube-watch-time-counte/fpoooibdndpjcnoodfionoeakeojdjaj) - Track Time Spent on YouTube
@@ -1942,7 +1942,7 @@
 * [GraphPaper](https://incompetech.com/graphpaper/) - PDF Graphs
 * [PPT To PDF](https://www.adobe.com/acrobat/online/ppt-to-pdf.html) - Convert PowerPoint to PDF Adobe
 * [watermark-remover](https://github.com/cpappen/watermark-remover), [pdf-remove-watermarks](https://github.com/matthiasbock/pdf-remove-watermarks), [Aspose](https://products.aspose.app/pdf/annotation) or [pdf-unstamper](https://github.com/hwding/pdf-unstamper) - PDF Watermark Remover
-* [Scan Your PDF](https://www.scanyourpdf.com/) - Make a PDF look like it was Scanned
+* [Scan Your PDF](https://www.scanyourpdf.com/) - Make PDFs look Scanned
 * [PDF Fixer](https://pdffixer.com/) - Repair Damaged PDFs
 * [JustSignPDF](https://justsignpdf.com/) - Sign PDF Online
 * [FalsiScan](https://gitlab.com/edouardklein/falsisign) - PDF Hand Signature Generator
