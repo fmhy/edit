@@ -1,10 +1,8 @@
-import { type Theme, inBrowser } from "vitepress";
+import { type Theme } from "vitepress";
 import DefaultTheme from "vitepress/theme";
 import Layout from "./Layout.vue";
 import "./style.css";
 import "uno.css";
-
-// if (inBrowser) import("./pwa");
 
 export default {
   extends: DefaultTheme,

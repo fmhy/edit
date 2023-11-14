@@ -1,10 +1,8 @@
 import { fileURLToPath } from "node:url";
 import { defineConfig } from "vitepress";
-import { withPwa } from "@vite-pwa/vitepress";
 import UnoCSS from "unocss/vite";
 import { presetUno, presetAttributify, presetIcons } from "unocss";
 import { commitRef, meta, socials } from "./constants";
-import { pwa } from "./pwa";
 import { generateImages, generateMeta } from "./hooks";
 import { toggleStarredPlugin } from "./markdown/toggleStarred";
 import { base64DecodePlugin } from "./markdown/base64";
@@ -131,6 +129,5 @@ export default defineConfig({
       { text: "📦 Storage", link: "/storage" },
     ],
     socialLinks: socials,
-    ...pwa,
   },
 });
