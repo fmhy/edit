@@ -80,6 +80,7 @@ export default defineConfig({
   themeConfig: {
     search: {
       options: {
+        miniSearch: { searchOptions: {combineWith: "AND"} },
         detailedView: true,
       },
       provider: "local",
