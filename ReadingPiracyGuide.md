@@ -311,7 +311,7 @@
 * [diyhpluswiki](https://diyhpl.us/wiki/) - DIY Biohacking
 * [Archive of Our Own](https://archiveofourown.org/) - Fanfiction Archive / [Enhancements](https://github.com/jsmnbom/ao3-enhancements/)
 * [Potions and Snitches](https://www.potionsandsnitches.org/) - Harry Potter Fanfiction
-* [SCP Foundation](https://scp-wiki.wikidot.com/) / [Wiki](https://en.wikipedia.org/wiki/SCP_Foundation) or [OrionsArm](https://www.orionsarm.com/) - Fictional Story Colabs 
+* [SCP Foundation](https://scp-wiki.wikidot.com/) / [Wiki](https://en.wikipedia.org/wiki/SCP_Foundation) / [Subreddit](https://www.reddit.com/r/SCPDeclassified/) or [OrionsArm](https://www.orionsarm.com/) - Fictional Story Colabs 
 * [Projectrho](https://www.projectrho.com/public_html/rocket/) - Fantasy Rocket Encyclopedia
 * [The Trove](https://web.archive.org/web/20210614215400/https://thetrove.is/) - Books / Fantasy / TTRPG
 * [DriveThruRPG](https://www.drivethrurpg.com/browse.php?pfrom=&pto=0&x=0&y=0) or [TTRPG Torrent](https://github.com/nbats/FMHYedit/blob/main/base64.md#ttrpg-books) - TTRPG Books
@@ -409,7 +409,6 @@
 * [IT Book Drive](https://github.com/nbats/FMHYedit/blob/main/base64.md#it-books-drive) - IT Books
 * [Explanations](https://magcius.github.io/xplain/article/) - Advanced Computer Explanations
 * [The Ergonomic Development of Video Game Controllers](https://www.longdom.org/open-access/the-ergonomic-development-of-video-game-controllers-2165-7556-1000209.pdf)
-* [Bash Academy](https://guide.bash.academy/) - Bash Shell Guide
 * [biorxiv](https://www.biorxiv.org/) - Biology Preprints
 * [Textbook of Bacteriology](https://www.textbookofbacteriology.net/index.html) - Microbiology Textbooks
 * [Encyclopedia Of Agriculture And Food Systems](https://archive.org/details/Encyclopedia_Of_Agriculture_And_Food_Systems/)
