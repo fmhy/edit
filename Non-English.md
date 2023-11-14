@@ -1331,7 +1331,7 @@
 * [KinoKrad](https://kinokrad.cc/) - Movies / TV
 * [Telik](http://telik.live/) - TV
 * [bigserial.net](http://bigserial.net/) - TV
-* [AniLabX](https://github.com/CrazyXacker/anilabx) - Anime / Cartoons / Drama
+* [AniLabX](https://anilabx.xyz/) - Anime / Cartoons / Drama
 * [Shiza Project](https://shiza-project.com/) - Anime / Fan Dubs
 * [animang](https://animang.one/) - Anime
 * [DarkLibria](https://darklibria.it/) - Anime
@@ -1383,7 +1383,7 @@
 * [Litgu.ru](https://litgu.ru/) - Books / Audiobooks
 * [Fantasy Worlds](https://fantasy-worlds.org/) - Books / Audiobooks
 * [booktracker](https://booktracker.org/) - Books / Audiobooks / Comics / Magazines / NSFW
-* [AniLabX](https://github.com/CrazyXacker/anilabx) - Manga / Comics / Light Novels
+* [AniLabX](https://anilabx.xyz/) - Manga / Comics / Light Novels
 * [mangalib.me](https://mangalib.me/) - Manga
 * [mmnt](https://www.mmnt.ru/) - Document Search
 * [Samlib](http://samlib.ru/) - Document Search
