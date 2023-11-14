@@ -20,7 +20,7 @@ You can download pre-cracked Adobe products from [M0nkrus](https://w14.monkrus.w
 !!!info M0nkrus is a well trusted and reputable source for adobe software in the piracy community. 
 
 > How do I download/activate Windows/Office for free?
-For Windows check out this [section](#pirate-windows)
+For Windows check out this [section](#windows-piracy)
 For Office check these [guides](https://fmhy.pages.dev/storage/#office-suites)
 
 > Where do I find *insert game title / movie title*?
