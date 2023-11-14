@@ -2496,39 +2496,29 @@ Use any **[Base64 Decoding](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/stor
 * ⭐ **[Bulk Crap Uninstaller](https://www.bcuninstaller.com/)** - Bulk Uninstallation Tool
 * [Windows-11-Guide](https://github.com/mikeroyal/Windows-11-Guide), [Pastas](https://rentry.org/pastas#guides), [Eleven Forums Guides](https://www.elevenforum.com/tutorials/) or [Ten Forums Guides](https://www.tenforums.com/tutorials/) - Windows Guides
 * [Ozone3D](https://www.ozone3d.net/index_softwares.php) - System Benchmarking
-* [O&O App Buster](https://www.oo-software.com/en/ooappbuster) or [PyDebloatX](https://github.com/Teraskull/PyDebloatX) - Remove Pre-Installed Microsoft Apps
+* [O&O App Buster](https://www.oo-software.com/en/ooappbuster) - Remove Pre-Installed Microsoft Apps
 * [Process Explorer](https://learn.microsoft.com/en-us/sysinternals/downloads/process-explorer), [SystemExplorer](https://systemexplorer.net/) or [Process Hacker](https://processhacker.sourceforge.io/) - Process Monitor
 * [CoreTemp](https://www.alcpu.com/CoreTemp/) - Processor Temperature Monitor
-* [LenovoLegionToolkit](https://github.com/BartoszCichecki/LenovoLegionToolkit) - Lightweight Lenovo Vantage
 * [Magic Trace](https://github.com/janestreet/magic-trace) - Diagnose Performance Issues using Intel Processor Trace
-* [Log Parser Lizard](https://lizard-labs.com/log_parser_lizard.aspx) or [LogDissect](https://github.com/dogoncouch/logdissect/) - Log Analyzation Utility
-* [Windows 11 Fixer](https://github.com/99natmar99/Windows-11-Fixer) - Win 11 Improvement Tool
+* [Log Parser Lizard](https://lizard-labs.com/log_parser_lizard.aspx) - Log Analyzation Utility
 * [WhyNotWin11](https://github.com/rcmaehl/WhyNotWin11) - Identify why your PC isn't Windows 11 ready
 * [Medicat USB](https://medicatusb.com/) - USB Toolkit
-* [GUIFormat](http://ridgecrop.co.uk/index.htm?guiformat.htm) - Format Any Size USB to Fat32
 * [SARDU](https://www.sarducd.it/) - Create Recovery USB Flash Drive or Disk
 * [MTPDrive](https://www.mtpdrive.com/index.html) - MPT Device Drive Mapping
 * [rEFind](https://www.rodsbooks.com/refind/) - Boot Manager
 * [balenaEtcher](https://etcher.balena.io/) - Flash OS Image SD / USB / [Mobile](https://etchdroid.depau.eu/)
-* [NTLite](https://www.ntlite.com/), [WinReducer](https://www.winreducer.net/) or [MSMG Toolkit](https://msmgtoolkit.in/?i=1) - Custom ISO Creator
 * [FOG Project](https://fogproject.org) - OS Depoyment / Managment System
 * [CloverBootloader](https://github.com/CloverHackyColor/CloverBootloader/releases) or [EasyBCD](https://neosmart.net/EasyBCD/) - Bootloader / [Config](https://mackie100projects.altervista.org/)
 * [zfsBootMenu](https://github.com/zbm-dev/zfsbootmenu) - ZFS Bootloader
 * [Hiren’s BootCD PE](https://www.hirensbootcd.org/ or [Win10XPE](https://github.com/ChrisRfr/Win10XPE) - Preinstallation Environments
-* [goldBoot](https://github.com/fossable/goldboot) - Create Immutable Infrastructure
-* [GenSMBIOS](https://github.com/corpnewt/GenSMBIOS) - SMBIOS Generator
+* [goldBoot](https://github.com/fossable/goldboot) - Run your OS the exact way everytime
 * [Intel BIOS Guide](https://docs.google.com/document/d/1s43_3YGJIy3zs0ZIksoOmxgrDKnu4ZNhhnXW_NiJZ0I/edit) - Intel BIOS Settings Explanation
 * [BiOSBug](https://www.biosbug.com/) - Remove / Reset BiOS Password / [Tutorial](https://www.youtube.com/watch?v=GolIjI2HS5w)
-* [MSDN Files](https://msdn.rg-adguard.net/), [Microsoft Downloads Dump](https://www.heidoc.net/php/myvsdump.php) or [MVS dump](https://awuctl.github.io/mvs/) - Verify ISO Legitimacy
-* [GetCID](https://www.getcid.info/) - Obtain Windows Confirmation ID
-* [HDD Serial Spoofer](https://github.com/namazso/hdd_serial_spoofer) - Spoof HDD Serial Number
-* [How-To Crack Windows Passwords](https://samsclass.info/123/proj14/123p12winhash.htm) 
-* [hashcat](https://hashcat.net/hashcat/) or [BIOS-PW](https://bios-pw.org/) - System Password Recovery Tools
+* [MSDN Files](https://msdn.rg-adguard.net/) or [MVS dump](https://awuctl.github.io/mvs/) - Verify ISO Legitimacy
+* [hashcat](https://hashcat.net/hashcat/) / [Guide](https://samsclass.info/123/proj14/123p12winhash.htm) or [BIOS-PW](https://bios-pw.org/) - System Password Recovery Tools
 * [Wu10Man](https://github.com/WereDev/Wu10Man), [stopupdates10](https://greatis.com/stopupdates10/), [InControl](https://www.grc.com/incontrol.htm) or [windows-update-blocker](https://www.sordum.org/9470/windows-update-blocker-v1-7/) - Enable / Disable Windows 10 Updates
 * [ChangeWindows](https://www.changewindows.org/timeline) - Latest Windows Update Info
-* [Simplix](https://www.majorgeeks.com/files/details/simplix_updatepack.html) or [Extended Win 7 Updates](https://forums.mydigitallife.net/threads/bypass-windows-7-extended-security-updates-eligibility.80606) - Extended Windows 7 Updates
-* [LegacyUpdate](https://github.com/kirb/LegacyUpdate) - Fix Windows Updates for Legacy Editions
-* [WSUOffline](https://download.wsusoffline.net/) - Offline Windows Updates
+* [LegacyUpdate](https://legacyupdate.net/) - Fix Windows Updates for Legacy Editions
 * [WUReset](https://wureset.com/) - Reset Windows Update Components
 * [UUP Dump](https://uupdump.net/) - Download Unified Update Platform Files
 * [UUPMediaCreator](https://github.com/gus33000/UUPMediaCreator) - Convert Update Platform Files to Windows Media Files
@@ -2537,26 +2527,15 @@ Use any **[Base64 Decoding](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/stor
 * [Raspberry Pi 4 Bootloader USB Mass Storage Boot Guide](https://jamesachambers.com/new-raspberry-pi-4-bootloader-usb-network-boot-guide/) - How-to Boot Raspberry Pi from USB
 * [Revertservice](https://revertservice.com/) - Default Windows Services Config 
 * [OfflineInsiderEnroll](https://github.com/abbodi1406/offlineinsiderenroll) - Enable Windows Insider without Account
-* [How-To Make Microsoft Activation Server](https://mananapr.github.io/microsoft_activation.html) 
 * [Windows Repair Toolbox](https://windows-repair-toolbox.com/) - Windows Multi-Tool App
 * [SmartWindows](https://smartwindows.app/) - Create / Restore Windows Profiles
 * [VCRedist](https://github.com/abbodi1406/vcredist) - AIO Repack for Microsoft Visual C++ Redists
-* [DLL Downloader](https://www.dlldownloader.com/), [dll-hub](https://dll-hub.com/), [dlldump](https://dlldump.com/), [dllfile](https://dllfile.net/), [dll4free](https://dll4free.com/), [dllme](https://dllme.com/dll/files/steam_api32_dll.html) or [DLL-Files](https://www.dll-files.com/) - Windows DLL Files
-* [DLL-Hijack-Search-Order-BOF](https://github.com/EspressoCake/DLL-Hijack-Search-Order-BOF) - DLL File Search
 * [OcxDump](https://ocxdump.com/) - .ocx Files
 * [JEnv For Windows](https://github.com/FelixSelter/JEnv-for-Windows) - Change Java Version
-* [Block Razer](https://github.com/ChrisTitusTech/block-razer) - Block All Razer Software Installs
-* [WinCDEmu](https://wincdemu.sysprogs.org/) - CD/DVD/BD Emulator
-* [Technical Documentation](https://learn.microsoft.com/en-us/docs/) - Microsoft Technical Documentations
-* [x64dbg](https://github.com/x64dbg/x64dbg) - Windows Debugging Tool
-* [ErrorLookup](https://github.com/henrypp/errorlookup) - Error Lookup Tool
-* [UptimeFaker](https://github.com/CookiePLMonster/UptimeFaker) - System Uptime Debugger
-* [JitMagic](https://github.com/mrexodia/JitMagic) - Run Multiple Just-In-Time Debuggers
+* [WinCDEmu](https://wincdemu.sysprogs.org/) - Mount ISOs
+* [x64dbg](https://x64dbg.com/) - Windows Debugging Tool
 * [Boot Failure Troubleshooting Chart](https://i.ibb.co/d2GSKf7/624c64629e27.png) - Boot Failure Troubleshooting Guide
 * [Autoruns](https://learn.microsoft.com/en-us/sysinternals/downloads/autoruns) - Change Startup Programs
-* [Startup Delayer](https://www.r2.com.au/page/products/show/startup-delayer/) - Delay Automatic App Startups
-* [Remove Hidden Startup Programs](https://www.youtube.com/watch?v=sUXcMaP6wRQ) - How-to Remove Secret Startup Apps
-* [SpeedyFox](https://crystalidea.com/speedyfox) - Optimize Program Performance
 * [CCStopper](https://github.com/eaaasun/CCStopper) - Stop Background Adobe Apps
 * [Adobe Debloater](https://github.com/FlickyOs/Adobe-Debloater) - Debloat Adobe Apps
 * [SuperF4](https://stefansundin.github.io/superf4/), [KillProcess](https://www.tgmdev.be/applications/killprocess/killprocess.php) or [FKill](https://github.com/sindresorhus/fkill-cli) - Process Killers
@@ -2565,13 +2544,11 @@ Use any **[Base64 Decoding](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/stor
 * [mRemoteNG](https://mremoteng.org/) - Remote Connections Manager
 * [Time.is](https://time.is/) - Check Accuracy of System Clock
 * [Scheduler](https://www.splinterware.com/products/scheduler.html) or [TaskRunner](https://www.keyefficiency.com/) - System Task Scheduler
-* [Econap](https://econap.de/) - Prevent Sleep Mode
 * [OpenHab](https://www.openhab.org/) - Home Automation / [Setup](https://github.com/openhab/openhabian) / [Desktop](https://github.com/openhab/openhab-windows) / [Mobile](https://github.com/openhab/openhab-android)
-* [Google Assistant Desktop Client](https://github.com/Melvin-Abraham/Google-Assistant-Unofficial-Desktop-Client), [Mycroft](https://mycroft.ai/) or [Home Assistant](https://www.home-assistant.io/) - Home Assistant Client / [GUI](https://github.com/LAB02-Research/HASS.Agent)
+* [Google Assistant Desktop Client](https://github.com/Melvin-Abraham/Google-Assistant-Unofficial-Desktop-Client) or [Home Assistant](https://www.home-assistant.io/) - Home Assistant Client / [GUI](https://github.com/LAB02-Research/HASS.Agent)
 * [CasaOS](https://casaos.io/) - Cloud Home System / [GitHub](https://github.com/IceWhaleTech/CasaOS)
 * [Leon](https://getleon.ai/) - AI Assistant
-* [Rhasspy](https://rhasspy.readthedocs.io/en/latest/) or [Sepia](https://sepia-framework.github.io/) - Voice Assistant
-* [Jarvis](https://acwtechnologies.co.uk/software/jarvis-lite) - Voice Commands
+* [Rhasspy](https://rhasspy.readthedocs.io/en/latest/) - Voice Assistant
 
 ***
 
@@ -2629,14 +2606,12 @@ Use any **[Base64 Decoding](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/stor
 * [GoldMemory](https://www.goldmemory.cz/) or [Testmem5](https://www.overclock.net/threads/memory-testing-with-testmem5-tm5-with-custom-configs.1751608/) - Memory Benchmarking
 * [MemTest](https://www.memtest.org/) - Memory Diagnostic Tool
 * [NotCPUCores](https://github.com/rcmaehl/NotCPUCores), [ParkControl](https://bitsum.com/parkcontrol/), [QuickCPU](https://coderbag.com/product/quickcpu) or [Process Lasso](https://bitsum.com/) - CPU Optimizer
-* [perf-book](https://github.com/dendibakh/perf-book) - CPU Performance Analysis and Tuning Book
 * [ThrottleStop](https://www.techpowerup.com/download/techpowerup-throttlestop/) - Laptop CPU Monitor / Optimizer
 * [Universal x86 Tuning Utility](https://github.com/JamesCJ60/Universal-x86-Tuning-Utility) - Laptop GPU Controller
 * [AATU](https://amdaputuningutility.com/) or [RyzenAdj](https://github.com/FlyGoat/RyzenAdj) - Ryzen Laptop GPU Controllers
 * [FanControl](https://github.com/Rem0o/FanControl.Releases) - Fan Control
-* [NBFC](https://github.com/hirschmann/nbfc) - Laptop Fan Control
 * [DIY Laptop](https://www.olimex.com/Products/DIY-Laptop/) - Build a Laptop
-* [OpenBoardData](https://github.com/inflex/OpenBoardData) - Board Repair Data
+* [OpenBoardData](https://openboarddata.org/) - Board Repair Data
 * [3DBenchy](https://www.3dbenchy.com/) - 3D Printer Benchmarking / Testing
 
 ***
@@ -2696,18 +2671,13 @@ Use any **[Base64 Decoding](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/stor
 * [Recycle Bin Themes](https://github.com/sdushantha/recycle-bin-themes) - Custom Recycle Bin Icons
 * [Cursors 4U](https://www.cursors-4u.com/), [Cursor Mania Archive](https://archive.org/details/cursormania), [Bibata Cursor](https://github.com/ful1e5/Bibata_Cursor), [Cursors Pastebin](https://pastebin.com/BrAbMy4n) or [rw-designer](http://rw-designer.com/cursor-library) - Cursors
 * [macOS-cursors-for-Windows](https://github.com/antiden/macOS-cursors-for-Windows) - MacOS Cursors for Windows
-* [AngryWindows](https://github.com/ch3rn0byl/AngryWindows) - Custom Blue Screen of Death
-* [Win7BootUpdater](https://mega.nz/file/T5ZDmIaK#jdiomK79q1CYzwFcbzkzJ1ceLsWlnAHLvofsjHIq39g) - Customize Windows 7 Boot Animation / [Guide](https://youtu.be/IdwcWIKuVG8)
 * [ElectricSheep](https://electricsheep.org/) - Collaborative Usergenerated Screensaver
 * [After Dark CSS](https://www.bryanbraun.com/after-dark-css/) - Browser Screensavers
 * [Tabby](https://tabby.sh/) - Modern Terminal Theme
 * [linux-like-windows-terminal](https://github.com/Kyza/linux-like-windows-terminal) - Linux Terminal Theme
 * [cool-retro-term](https://github.com/Swordfish90/cool-retro-term) - Retro Cathode Terminal Theme
 * [Pokemon Terminal](https://github.com/LazoCoder/Pokemon-Terminal) - Pokemon Terminal Themes
-* [Nyan Cat Progress Bar](https://instantelevatormusic.com/nyan-cat-progress-bar/) - Nyan Cat Install Progress Bar
-* [Hide File Explorer Dark Mode White Line](https://i.ibb.co/VmmnDpY/bd3df70e635d.png)
 * [MyDockFinder](https://www.mydockfinder.com/) - MacOS Theme for Windows 10
-* [Taskbar11](https://github.com/jetspiking/Taskbar11) - Change Windows 11 Taskbar Position / Size
 * [MicaForEveryone](https://github.com/MicaForEveryone/MicaForEveryone) - Enable Titlebar Backdrop Effect on Windows 11
 * [Win11DisableRoundedCorners](https://github.com/valinet/Win11DisableRoundedCorners) - Disable Win11 Rounder Corners
 * [Macdows11](https://redd.it/pd5ha6) - Windows 11 Mac Theme Guide
@@ -5903,7 +5873,7 @@ Use any **[Base64 Decoding](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/stor
 * ⭐ **[AirVPN](https://airvpn.org/)** - [Pricing](https://i.ibb.co/8rVJ5JB/c4b813a6b6bc.png)
 * ⭐ **[Windscribe](https://windscribe.com)** - [Pricing](https://ibb.co/tPZZDhC) / Free Version Available / [Improved App](https://github.com/Windscribe/Desktop-App)
 * ⭐ **[Proton](https://protonvpn.com)** - [Pricing](https://ibb.co/gg4VCDR) / No Torrenting w/ Free Version
-* ⭐ **[CryptoStorm](https://cryptostorm.is/)** - [Pricing](https://i.ibb.co/3m849CX/afe46b2ec3ec.png)
+* ⭐ **[CryptoStorm](https://cryptostorm.is/)** - [Pricing](https://i.ibb.co/3m849CX/afe46b2ec3ec.png) / [Free tier](https://cryptostorm.is/cryptofree)
 * ⭐ **[Riseup](https://riseup.net/en/vpn)** - Free VPN 
 * ⭐ **[Softether](https://www.softether.org/)** - Free VPN / [VPN Gate](https://www.vpngate.net/en/download.aspx) / [Note](https://pastebin.com/TrSw7EpF)
 * ⭐ **[Warp](https://1.1.1.1/)**, [2](https://1.0.0.1/) - Traffic Encryption VPN / [Client](https://github.com/ViRb3/wgcf) / [Unlimited Data](https://github.com/nxvvvv/warp-plus) / [WireGuard Guide](https://rentry.co/foss-warp) / [Warp Warning](https://rentry.co/warpwarning)
@@ -5920,7 +5890,6 @@ Use any **[Base64 Decoding](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/stor
 * [Malwarebytes VPN](https://malwarebytes.com/vpn) - [Pricing](https://ibb.co/dPpYfT9) / [Owned by Mullvad](https://dustri.org/b/malwarebytes-privacy-vpn-is-mullvad-in-a-shady-trenchcoat.html)
 * [Adguard VPN](https://adguard-vpn.com/en/welcome.html) - VPN Extension / 3GB Free / [Pricing](https://ibb.co/rt0DS0N)
 * [PrivadoVPN](https://privadovpn.com/) - Free VPN / Unlimited Accounts via [Temp Mail](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_temp_email_sites)
-* [CryptoStorm](https://cryptostorm.is/cryptofree) - Free VPN
 * [Kaspersky](https://www.kaspersky.com/vpn-secure-connection) - Free VPN / 200 MB per day / No Account Required
 * [VpnHood](https://github.com/vpnhood/VpnHood), [HideMe](https://hide.me/) or [Leap VPN](https://leap.se/) - Free VPNs
 * [Portals](https://www.portalsvpn.com/) - dVPN
@@ -12863,21 +12832,19 @@ title: Guides
 
 ## ▷ Reading
 
+* ↪️ **[Quran Course](https://github.com/nbats/FMHYedit/blob/main/base64.md#quran-course)**
 * [24livenewspaper](https://www.24livenewspaper.com/bangla-newspaper) or [allbanglanewspaper](https://www.allbanglanewspaper.xyz/) - Bangla Newspapers
-* [Quran Course](https://github.com/nbats/FMHYedit/blob/main/base64.md#quran-course)
-* [IQGAW](https://t.me/IQGamer_PDFStore) - PDF library for BD HSC candidates
-* [BengaliEbooks](https://www.bengaliboi.com/) - Books
-* [GoBanglaBooks](https://www.gobanglabooks.com/) - Books
-* [BanglaBookshelf](https://www.banglabookshelf.com/) - Books / Educational
+* [IQGAW](https://t.me/IQGamer_PDFStore) - PDF Library for BD HSC Candidates
+* [BanglaBookshelf](https://www.banglabookshelf.com/) - Fiction / Islamic / Tech Books
+* [GoBanglaBooks](https://www.gobanglabooks.com/) - Books / Magazines
 * [AmarBooks](https://www.amarbooks.org/) - Books
-* [BanglaBooks](https://banglabooks4free.blogspot.com/) - Books
 * [BengaliEbook](https://www.worldmets.com/) - Books
 
 ## ▷ Streaming
 
-* [Bangla English Course](https://github.com/nbats/FMHYedit/blob/main/base64.md#bangla-english-course)
-* [Bangla Freelancing Course](https://github.com/nbats/FMHYedit/blob/main/base64.md#bangla-freelancing)
-* [Bangla Excel Course](https://github.com/nbats/FMHYedit/blob/main/base64.md#bangla-excel)
+* ↪️ **[Bangla English Course](https://github.com/nbats/FMHYedit/blob/main/base64.md#bangla-english-course)**
+* ↪️ **[Bangla Freelancing Course](https://github.com/nbats/FMHYedit/blob/main/base64.md#bangla-freelancing)**
+* ↪️ **[Bangla Excel Course](https://github.com/nbats/FMHYedit/blob/main/base64.md#bangla-excel)**
 
 ***
 
@@ -12885,12 +12852,12 @@ title: Guides
 
 ## ▷ Torrenting
 
-* [Zamunda](https://zamunda.net/) - Registration Required / Video / Audio/ Books / NSFW
+* [Zamunda](https://zamunda.net/) - Registration Required / Video / Audio / Books / NSFW
 
 ## ▷ Streaming
 
 * [Film4e](https://film4e.com/) - Movies / TV / Cartoons / Sub / Dub / 1080p
-* [NovaPlay](https://play.nova.bg/) - TV / Sub / Dub / 1080p
+* [NovaPlay](https://play.nova.bg/) - TV / Live / Sub / Dub / 1080p
 * [BGTVNET](https://bgtvnet.com/) - Movies / TV / Cartoons / Sub / 720p
 * [Filmite.Info](https://filmi99.com/) - Movies / TV / Cartoons / Sub / 720p
 * [bgseriali](https://bgseriali.com/) - Movies / TV / Documentaries / Sub / Dub / 720p
@@ -12900,112 +12867,92 @@ title: Guides
 * [BGTVI](https://bgtvi.com/) - TV / Sub / Dub / 720p
 * [BGESTV](https://bgestv.com) - TV / Sub / Dub / 720p
 * [TubeBG](https://www.tubebg.com/) - TV / Sub / Dub / 720p
-* [Gledai-me](https://gledai-me.com/) - TV / Sub / 720p
 
 ***
 
 # ► Chinese
 
-* 🌐 **[heji](https://233heji.com/)**, **[BestXTools](https://discuss-cn.bestxtools.com/)** or **[bajins](https://www.bajins.com/)** - Chinese Sites / Tools Index
-* [jialezi](https://blog.jialezi.net/) - Chinese Tutorials
-* [Kaiheila](https://www.kookapp.cn/) - Chinese Discord
-* [Diaosi Forum](https://assbbs.com/) or [WangChao](https://www.wangchao.info/) - Piracy Discussion
-* [zimuku](https://zimuku.org/), [assrt](https://assrt.net/), [zimuku](https://zimuku.org/) or [SubHD](https://subhd.tv/) - Subtitles
-* [ChineseSubtitleConversionTool](https://github.com/xiaoxinpro/ChineseSubtitleConversionTool) - Traditional and Simplified Chinese Subtitle Conversion Tool
+* 🌐 **[heji](https://233heji.com/)**, **[BestXTools](https://discuss-cn.bestxtools.com/)** or **[bajins](https://www.bajins.com/)** - Chinese Sites / Tools Indexes
+* 🌐 **[Awesome Github Repo](https://github.com/Wechat-ggGitHub/Awesome-GitHub-Repo)** - Programming Resources Index
 * [Anti-Ad](https://anti-ad.net/) - Adblock Filters
 * [GameLoop](https://syzs.qq.com/) - Android Emulator
 * [Thanox](https://github.com/Tornaco/Thanox) - Android System Manager
-* [Baidu](https://www.baidu.com/), [Toutiao](https://www.toutiao.com/), [sogou](https://www.sogou.com/) or [yisou](http://yisou.com/) - Search Engines
-* [SooPAT](http://www2.soopat.com/) - Patent Search
-* [news_pdf](https://t.me/news_pdf), [TopHub](https://tophub.today/), [Chinadaily](https://cn.chinadaily.com.cn/) or [China Watch](https://www.chinadaily.com.cn/chinawatch_fr/index.html) - News
-* [IT Home](https://www.ithome.com/) - Tech News
-* [Fonts Free Chinese](https://www.freechinesefont.com/) or [Fonts.net](https://www.fonts.net.cn/) - Fonts
-* [CatoCR](https://catocr.com/) - Image to Text
-* [EmbyCrack](https://github.com/ultranijia/EmbyCrack) - Lift Emby Restrictions
-* [map.baidu](https://map.baidu.com/) - Map / Satellite View
-* [China Firewall Bypass Guide](https://github.com/vpncn/vpncn.github.io), [GFW-knocker](https://github.com/GFW-knocker/gfw_resist_tls_proxy), [gfwlist](https://github.com/gfwlist/gfwlist), [XX-Net](https://github.com/XX-net/XX-Net), [FreeBrowser](https://freebrowser.org/) / [Wiki](https://github.com/greatfire/wiki) / [GitHub](https://github.com/greatfire/freebrowser) or [New Pac](https://github.com/Alvin9999/new-pac) - Bypass Chinese Firewall
-* [BlockedInChina](https://www.comparitech.com/privacy-security-tools/blockedinchina/), [China Firewall Test](http://www.chinafirewalltest.com/) - Test if Site is Blocked in China
-* [Gitee](https://gitee.com/) - GitHub Alternative
-* [V2EX](https://v2ex.com/) or [ZongScan](https://www.zongscan.com/) - Programming Forum
-* [BookStack](https://www.bookstack.cn/) - Developer / Programming Guides
-* [FE Hunter](https://github.com/BetaSu/fe-hunter) - Programming Question Bounties
-* [Awesome Github REPO](https://github.com/Wechat-ggGitHub/Awesome-GitHub-Repo) - Programming Resources
-* [HelloGitHub](https://hellogithub.com/) - GitHub Projects
-* [Gridea](https://open.gridea.dev/) - Blog Writing Client
-* [Dict.Baidu](https://dict.baidu.com/) - Chinese Word, Idiom and Poem Search
-* [SeiWatei](https://www.seiwatei.net/) or [chinadaily](https://language.chinadaily.com.cn/news_bilingual/) - Learn Chinese
-* [Oh.Taigi](https://oh.taigi.info/) - Chinese Taiwanese Learning Tools
-* [taioan](https://ji.taioan.org/) - Chinese Spell Check
-* [Baidu Library to Word](https://greasyfork.org/en/scripts/405373-%E7%99%BE%E5%BA%A6%E6%96%87%E5%BA%93%E8%BD%AC-word-%E7%99%BE%E5%BA%A6%E6%96%87%E5%BA%93%E4%B8%8B%E8%BD%BD%E5%99%A8) - Baidu Library to Word Converter
-* [ICIBA](https://www.iciba.com/), [Fanyi](https://fanyi.qq.com/) or [YouDao](https://fanyi.youdao.com/) - Translator / [Client](https://cp.iciba.com/)
-* [itaigi](https://itaigi.tw/) - Chinese to Taiwanese Translator
-* [Flash.cn](https://www.flash.cn/) - Chinese Flash Player
 * [Winmoes](https://winmoes.com/) - Anime Windows Themes / Wallpapers
-* [Bangumi](https://bangumi.tv/), [2](https://bangumi.tv/), [3](https://chii.in/) - Media Database / [Android Client](https://github.com/czy0729/Bangumi)
-* [MissEvan](https://www.missevan.com/) - Audio Comics, Songs and Podcasts
-* [Kilamanbo](https://www.kilamanbo.com/) - Audio Comic Drama
+* [Gridea](https://open.gridea.dev/) - Blog Writing Client
 * [Etoland](https://etoland.co.kr/) - Bulletin Board
+* [China Firewall Bypass Guide](https://github.com/vpncn/vpncn.github.io), [gfwlist](https://github.com/gfwlist/gfwlist), [XX-Net](https://github.com/XX-net/XX-Net), [FreeBrowser](https://freebrowser.org/) / [Wiki](https://github.com/greatfire/wiki) or [New Pac](https://github.com/Alvin9999/new-pac) - Bypass Chinese Firewall
+* [Kaiheila](https://www.kookapp.cn/) - Chinese Discord
+* [Flash.cn](https://www.flash.cn/) - Chinese Flash Player
+* [taioan](https://ji.taioan.org/) - Chinese Spell Check
+* [itaigi](https://itaigi.tw/) - Chinese to Taiwanese Translator
+* [BookStack](https://www.bookstack.cn/) - Developer / Programming Guides
+* [Free Chinese Fonts](https://www.freechinesefont.com/) or [Fonts.net](https://www.fonts.net.cn/) - Fonts
+* [Gitee](https://gitee.com/) - GitHub Alternative
+* [HelloGitHub](https://hellogithub.com/) - GitHub Projects
+* [CatoCR](https://catocr.com/) - Image to Text
+* [Oh.Taigi](https://oh.taigi.info/) - Learn Taiwanese
+* [EmbyCrack](https://github.com/ultranijia/EmbyCrack) - Lift Emby Restrictions
+* [Bangumi](https://bangumi.tv/), [2](https://chii.in/) - Media Database / [Android Client](https://github.com/czy0729/Bangumi)
+* [TopHub](https://tophub.today/) or [Chinadaily](https://cn.chinadaily.com.cn/) - News
+* [SooPAT](http://www2.soopat.com/) - Patent Search
+* [Diaosi Forum](https://assbbs.com/) - Piracy Discussion Forum
+* [V2EX](https://v2ex.com/) or [ZongScan](https://www.zongscan.com/) - Programming Forum
+* [FE Hunter](https://github.com/BetaSu/fe-hunter) - Programming Question Bounties
+* [Baidu](https://www.baidu.com/), [Toutiao](https://www.toutiao.com/), [sogou](https://www.sogou.com/) or [yisou](http://yisou.com/) - Search Engines
+* [IT Home](https://www.ithome.com/) - Tech News
+* [jialezi](https://blog.jialezi.net/) - Tech Tutorials
+* [BlockedInChina](https://www.comparitech.com/privacy-security-tools/blockedinchina/) or [China Firewall Test](http://www.chinafirewalltest.com/) - Test if Site is Blocked in China
+* [ICIBA](https://www.iciba.com/) / [Client](https://cp.iciba.com/), [Fanyi](https://fanyi.qq.com/) or [YouDao](https://fanyi.youdao.com/) - Translators
 
 ## ▷ Downloading
 
-* [ARPT-Bot](https://github.com/666wcy/ARPT-Bot) - Chinese Download Manager
-* [baidu-pan-downloader](https://github.com/dotennin/baidu-pan-downloader) - Baidu Yun Download Manager
-* [Impale](https://imaple8.co/) - Movies / TV
-* [shinybbs](https://sub.shinybbs.vip/) - TV
-* [Hifini](https://www.hifini.com/) - Music
-* [J-pop Music Download](https://jpop.xyz/) - Music / FLAC / MP3
-* [Icourse163 Downloader](https://greasyfork.org/en/scripts/372684) - Courses / [icourse163](https://www.icourse163.org/)
+* [shinybbs](https://sysub.vip/) - Movies / TV / 1080p
+* [Hifini](https://www.hifini.com/) or [J-pop Music Download](https://jpop.xyz/) - Music / FLAC / MP3
+* [icourse163](https://www.icourse163.org/) / [Icourse163 Downloader](https://greasyfork.org/en/scripts/372684) - Courses
 
 ## ▷ Torrenting
 
-* [Csze BT](https://bt.orzx.im/) - Video / Audio/ Books
+* [Csze BT](https://bt.orzx.im/) - Video / Audio / Books
 * [acgnx](https://www.acgnx.se/) - Video / Audio / Books / NSFW
-* [Share.dmhy](https://share.dmhy.org/) - Anime / Manga / Music
+* [Share.dmhy](https://share.dmhy.org/) - Video / Anime / NSFW
 * [VGMUpdate](http://www.vgmupdate.com/) - Video / Manga / NSFW
 * [XiaZai001](https://xiazai001.org/) - Video / Audio 
-* [dytt8](https://dytt8.net/), [dy2018](https://dy2018.com/), [ygdy8](https://ygdy8.com/index.html) or [dydytt](https://www.dydytt.net) - Movies / TV / Anime
-* [ygdy8](https://www.ygdy8.net/) - Movies / TV / Anime
-* [DoMP4](https://www.mp4us.com/) - Movies / TV
-* [cnwml](https://www.cnwml.com/) - Movies / TV
-* [Dytt8](https://dytt8.net/) - Movies / TV / Anime
-* [高清电台](https://gaoqing.fm/) - Movies / TV / Anime / Use VPN or Google Translate to Access
-* [dygang](https://www.dygang.cc/) - Movies
-* [Dy2018](https://www.dy2018.com/) - Movies
-* [shinybbs](https://sub.shinybbs.vip/) - TV
-* [ACG.rip](https://acg.rip/) - Anime / Music
+* [dytt8](https://dytt8.net/), [2](https://www.dydytt.net) or [ygdy8](https://www.ygdy8.net/), [2](https://ygdy8.com/index.html) - Video / Anime
+* [DoMP4](https://www.mp4us.com/) - Video
+* [cnwml](https://www.cnwml.com/) - Video
+* [dygang](https://www.dygang.cc/) - Video
+* [Dy2018](https://www.dy2018.com/) - Video
+* [ACG.rip](https://acg.rip/) - Anime / Audio
 * [Snow-Raws](https://snow-raws.com/) - Anime / [Official Tracker](https://www.skyey2.com/)
-* [mikanani](https://mikanani.me/) - Anime
-* [dmhy](https://dmhy.org/) - Cartoons
-* [AnimeTrackerList](https://github.com/DeSireFire/animeTrackerList) - Anime Tracker List
+* [Mikan](https://mikanani.me/) - Anime
+* [AnimeTrackerList](https://github.com/DeSireFire/animeTrackerList) - Anime Trackers List
 
 ## ▷ Streaming
 
 * 🌐 **[Tvlist-awesome-m3u-m3u8](https://github.com/imDazui/Tvlist-awesome-m3u-m3u8)** - IPTV Resources
 * 🌐 **[Chinese Drama Site Index](https://www.reddit.com/r/CDrama/wiki/streaming)** - Chinese Drama Sites Index
 * 🌐 **[Movie Forest](https://549.tv/)** or **[klyingshi](https://klyingshi.com/)** - Chinese Streaming Sites Index
-* [beyondHD ](https://t.me/beyondHD) - Movies / Subs
-* [Watch HK Movies Online](https://vinspirezhk.blogspot.com/) - Rare Chinese Movies / English Subs
-* [tangrenjie](https://www.tangrenjie.tv/) - Movies / TV / Anime
-* [ddrk](https://ddys.pro/) - Movies / TV / Anime
-* [Tencent Video](https://v.qq.com/) - Movies / TV / Anime / [Downloader](https://weibomiaopai.com/online-video-downloader/tencent)
-* [MoMoVOD](https://momovod.app/) - Movies / TV / Anime
-* [uvod.tv](https://www.uvod.tv/) - Movies / TV / Anime
-* [VidHub](https://vidhub.tv/) - Movies / TV / Anime
-* [iMeiju](https://www.imeiju.net/) - Movies / TV
-* [Nunu Cinema](https://www.nunuyy5.org/) - Movies / TV
-* [Fun.tv](https://www.fun.tv/) - Movies / TV
-* [555dy](https://555dy1.com/) - Movies / TV / Anime / NSFW
-* [MeWatch](https://www.mewatch.sg/) - Movies / TV
-* [3g1.cc](https://www.3g1.cc/) - Movies / TV
-* [KokoTV](https://kokotv.me/) - Drama
-* [Duboku](https://www.duboku.tv/) - TV / Cartoons
-* [CC動漫](https://ccdm.cc/) - Anime
-* [AGE Anime](https://www.agedm.tv/) - Anime
-* [dmd85](http://www.dmand5.com/), [Rentry](https://rentry.org/dmd8) - Anime
-* [bimiacg4](https://www.bimiacg4.net/) - Anime
-* [93wuc](https://www.93wuc.com/) - Anime
+* [beyondHD](https://t.me/beyondHD) - Movies / Sub / 1080p / 4K
+* [tangrenjie](https://www.tangrenjie.tv/) - Movies / TV / Anime / Sub / 1080p
+* [ddrk](https://ddys.pro/) - Movies / TV / Anime / Sub / 1080p
+* [Tencent Video](https://v.qq.com/) - Movies / TV / Anime / Cartoons / Sub / Dub / 1080p / [Downloader](https://weibomiaopai.com/online-video-downloader/tencent)
+* [MoMoVOD](https://momovod.app/) - Movies / TV / Anime / Sub / 1080p
+* [VidHub](https://vidhub.tv/) - Movies / TV / Anime / Sub / 1080p
+* [iMeiju](https://www.imeiju.net/) - Movies / TV / Sub / 1080p
+* [Nunu Cinema](https://www.nunuyy5.org/) - Movies / TV / Sub / 1080p
+* [555dy](https://555dy1.com/) - Movies / TV / Anime / NSFW / Sub / 1080p
+* [3g1.cc](https://www.3g1.cc/) - Movies / TV / Sub / 1080p
+* [Imaple](https://imaple8.co/) - Movies / TV / Sub / 1080p
+* [KokoTV](https://kokotv.me/) - Drama / Sub / Dub / 1080p
+* [Duboku](https://www.duboku.tv/) - TV / Cartoons / Sub / 1080p
+* [CC動漫](https://ccdm.cc/) - Anime / Sub / 1080p
+* [AGE Anime](https://www.agedm.tv/) - Anime / Sub / 1080p
+* [dmd85](http://www.dmand5.com/) / [Rentry](https://rentry.org/dmd8) - Anime / Sub / 1080p
+* [bimiacg4](https://www.bimiacg4.net/) - Anime / Sub / 1080p
+* [93wuc](https://www.93wuc.com/) - Anime / Sub / 1080p
 * [music.163](https://music.163.com/) - Music
-* [Hifini](https://www.hifini.com/) - Music
+* [MissEvan](https://www.missevan.com/) - Music / Podcasts / Audio Comics 
+* [Kilamanbo](https://www.kilamanbo.com/) - Audio Comic Drama
 * [Huya](https://www.huya.com/) - Live Streaming
 * [數學老師張旭](https://space.bilibili.com/521685904) - Math Lessons
 * [free-project-course](https://github.com/resumejob/free-project-course) - Programming Courses
@@ -17998,7 +17945,7 @@ You can download pre-cracked Adobe products from [M0nkrus](https://w14.monkrus.w
 !!!info M0nkrus is a well trusted and reputable source for adobe software in the piracy community. 
 
 > How do I download/activate Windows/Office for free?
-For Windows check out this [section](#pirate-windows)
+For Windows check out this [section](#windows-piracy)
 For Office check these [guides](https://fmhy.pages.dev/storage/#office-suites)
 
 > Where do I find *insert game title / movie title*?
