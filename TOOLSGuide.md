@@ -494,8 +494,6 @@
 * ⭐ **[KickResume](https://www.kickresume.com/en/help-center/resume-samples/)** or [ThisResumeDoesNotExist](https://thisresumedoesnotexist.com/) - Resume Samples
 * ⭐ **[Reverse Interview](https://github.com/viraptor/reverse-interview)** or [job-interview-questions](https://github.com/lkostrowski/job-interview-questions-to-ask-companies) - Questions to ask Potential Employers
 * ⭐ **[Kimai](https://www.kimai.org/)** - Working Hours Tracker
-* [GitHub Résumé](https://github.com/resume/resume.github.com) - Generate Resume from GitHub Activity
-* [LoopCV](https://www.loopcv.pro/) - Automated Job Search Tool
 * [Toby Tools](https://rentry.co/qnu6x) or [EuroJobs](https://eurojobs.com/) - Job Search Tools
 * [50WaysToGetAJob](https://50waystogetajob.com/) - Interactive Job Search Guide
 * [10xJobs](https://10xjobs.net/) - Tech Job Search
@@ -504,10 +502,7 @@
 * [SocJobRumors](https://www.socjobrumors.com/) - Sociology Job Market Forum
 * [80,000 Hours](https://80000hours.org/) - Explore Career Options
 * [Summer 2024 Internships](https://github.com/SimplifyJobs/Summer2024-Internships) - List of Internships
-* [SkillIcons](https://skillicons.dev/) - Skill Badges for GitHub Readmes / Resumes
 * [Contact Card](https://contact-card.vercel.app/) - Contact Card Generator
-* [PostGenerator](https://www.postgenerator.app/) - LinkedIn Post Generator
-* [Carousel Hero](https://carouselhero.com) - LinkedIn Carousel Generator
 * [CoFolios](https://cofolios.com/) - Portfolio Sharing
 * [PortfolioVisualizer](https://www.portfoliovisualizer.com/) - Visualize Portfolio
 * [MS Word Cover Page Templates](https://www.mswordcoverpages.com/) - Cover Page Templates
@@ -576,11 +571,8 @@
 * [VCEGuide](https://vceguide.com/) - Tech Certification Practice Tests
 * [9Tut](https://www.9tut.com/) - CCNA Certification Training
 * [Statista](https://statista.com/) - Market Statistic Search
-* [GetFreeIMEBooks](https://www.getfreeimebooks.com/) - Digital Marketing Resources
 * [Systeme](https://systeme.io/) or [SendPulse](https://sendpulse.com/) - Marketing Tools
 * [Marmof](https://marmof.com/) - Creator / Marketing AI
-* [Marketing 2099](https://sintralabs.notion.site/Marketing-2099-Ultimate-ChatGPT-Marketing-Prompts-To-Copy-Paste-200-tasks-fc22c9142d6a4a4286a3fe755be932e6) - ChatGPT Marketing Prompts
-* [HLDMSIYS?](https://howlongdoesmarijuanastayinyoursystem.net/) - Drug Effect Duration / Testing Information
 * [Anti Money Laundering Toolbox](https://bin.disroot.org/?ed25a979891da67b#BffjWKHJNYTA1JdrWz9jpy5opjzncubeKFc1pBuptxdW) - Prevent Money Laundering / [AML Laws](https://www.bitsaboutmoney.com/archive/money-laundering-and-aml-compliance/)
 * [HomeBank](http://homebank.free.fr/), [Firefly III](https://firefly-iii.org/), [Money Manager EX](https://moneymanagerex.org/), [Ledger](https://ledger-cli.org/), [Paisa](https://github.com/RetroMusicPlayer/Paisa), [Buckwheat](https://buckwheat.app/), [My Expenses](https://www.myexpenses.mobi/), [actual](https://github.com/actualbudget/actual) or [Sushi](https://github.com/jerameel/sushi) - Finance Managers
 * [financial_advice](https://github.com/emilepetrone/financial_lessons) - Financial Lessons
