@@ -2476,6 +2476,10 @@ Use any **[Base64 Decoding](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/stor
 
 * 🌐 **[Awesome Windows 11](https://github.com/awesome-windows11/windows11)** - Windows 11 Resources
 * 🌐 **[PC-Optimization-Hub](https://github.com/BoringBoredom/PC-Optimization-Hub)** or [All About Windows](https://github.com/luke-beep/all-about-windows) - Windows Optimization Resources
+
+https://github.com/amitxv/PC-Tuning
+
+
 * 🌐 **[Awesome Forensics](https://github.com/cugu/awesome-forensics)** - System Forensic Resources
 * 🌐 **[Awesome Raspberry Pi](https://rpi.thibmaek.com/)** - Rasberry Pi Resources / [GitHub](https://github.com/thibmaek/awesome-raspberry-pi)
 * 🌐 **[Awesome BSD](https://github.com/DiscoverBSD/awesome-bsd)** - BSD OS Resources
@@ -2704,7 +2708,6 @@ Use any **[Base64 Decoding](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/stor
 * [Window Grid / Tiling Programs](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_window_tiling_programs)
 * [WindowsManager](https://www.eusing.com/WindowManager/WindowManager.htm), [AwesomeWM](https://awesomewm.org/), [LCARS](https://github.com/lcarsde/lcarswm) or [Compiz Fusion](https://www.compiz-fusion.org/) / [Reloaded](https://github.com/compiz-reloaded/compiz/) - Windows Managers
 * [AltSnap](https://github.com/RamonUnch/AltSnap) - Windows Dragging
-* [Windows11DragAndDropToTaskbarFix](https://github.com/HerMajestyDrMona/Windows11DragAndDropToTaskbarFix) - Windows 11 Drag & Drop Fix
 * [MinimizeToTray](https://github.com/sandwichdoge/MinimizeToTray), [Traymond](https://github.com/fcFn/traymond), [RBTray](https://github.com/benbuck/rbtray) or [minimize-to-tray](https://sourceforge.net/projects/minimize-to-tray/) - Minimize Windows to Tray
 * [TrayDir](https://github.com/SamuelSVD/TrayDir) - System Tray File Manager
 * [BatteryMode](https://github.com/tarcode-apps/BatteryMode) or [Percentage](https://github.com/kas/percentage) - System Tray Battery Percentage / Managers
@@ -2717,7 +2720,6 @@ Use any **[Base64 Decoding](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/stor
 * [Spencer](https://www.the-sz.com/products/spencer/) or [Fluent-Metro](https://github.com/bonzibudd/Fluent-Metro) - Classic Start Menu 
 * [TilelConfier](https://github.com/Jonno12345/TileIconifier) - Start Menu Icon Tiles
 * [Recoll](https://www.lesbonscomptes.com/recoll/), [grepWin](https://github.com/stefankueng/grepWin) or [AnyTXT](https://anytxt.net/) - Improved Windows Search / [Site Indexer](https://addons.mozilla.org/en-US/firefox/addon/recoll-we/)
-* [Run](https://learn.microsoft.com/en-us/windows/powertoys/run) - Windows Spotlight Search
 * [QuickLook](https://github.com/QL-Win/QuickLook) - macOS Quick Look for Windows
 * [Cerebro App](https://cerebroapp.com/) or [Zazu App](https://zazuapp.org/) - System Productivity Booster
 * [Chrometana](https://github.com/t3dotgg/Chrometana) - Redirect Cortana Searches from Bing
@@ -2841,7 +2843,6 @@ Use any **[Base64 Decoding](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/stor
 * [Google Drive PDF Downloader](https://github.com/zeltox/Google-Drive-PDF-Downloader) - Download Protected GDrive PDFs
 * [PDFCoffee](https://pdfcoffee.com/) - Upload PDF, Word or PowerPoint Files
 * [Adobe Sign](https://www.adobe.com/acrobat/online/sign-pdf.html) - Fill & sign a PDF
-* [Mega-Import-Bypass](https://github.com/Cyberavater/Mega-Import-Bypass) or [MEGA Ultimately Import](https://katb.in/atoyuxomuba) - Mega Import Limit Bypass Scripts
 * [megatools](https://megatools.megous.com/) - Mega CLI
 * [Mega-Downloader](https://github.com/ZonD80/mega-downloader) - Mega Download Script
 * [Mega.nz-Rclone-Index-Heroku](https://github.com/developeranaz/Mega-index-heroku) - Mega to HTTP
@@ -2849,7 +2850,6 @@ Use any **[Base64 Decoding](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/stor
 * [MegaKeep](https://github.com/maybecryptic/MegaKeep) - Login to Multiple Mega Accounts
 * [mega-account-generator](https://github.com/lem6ns/mega-account-generator), [2](https://github.com/crackhub-dev/mega-account-generator) - Mega Account Generators
 * [Mega Checker](https://github.com/Titoot/mega-checker) - Mega Link Checker
-* [Unlimited Mega Storage](https://redd.it/ffrkf3) - Unlimited Mega Storage Guide
 * [Mega-index-heroku](https://github.com/developeranaz/Mega-index-heroku) - Serve Mega to HTTP via Heroku
 * [GDrive Guides](https://t.me/gdriveguides) - GDrive Guides / Discussion / [Support](https://t.me/CloneSupport)
 * [Any File to GDrive](https://github.com/menukaonline/Any-file-to-Google-Drive) - DDL to GDrive Tool
@@ -11850,7 +11850,7 @@ title: Guides
 * ↪️ **[Spotify Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_spotify_downloaders)**
 * ↪️ **[YouTube Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_youtube_converters)**
 * ↪️ **[Soundcloud Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_soundcloud_downloaders)**
-* ⭐ **[Slavart](https://discord.gg/h2zVyMV6)** - Multi-Site Audio Download App / [Divolt](https://slavart.divolt.xyz) / [Telegram](https://t.me/+9znaxmYJB5lkNzA8) / [Qobuz Copy](https://rentry.co/qobuz-slavart)
+* ⭐ **[Slavart](https://discord.gg/nTUd5cCf)** - Multi-Site Audio Download App / [Divolt](https://slavart.divolt.xyz) / [Telegram](https://t.me/+9znaxmYJB5lkNzA8) / [Qobuz Copy](https://rentry.co/qobuz-slavart)
 * ⭐ **[DoubleDouble](https://doubledouble.top/)** - Multi-Site Audio Download Web App
 * ⭐ **[Soulseek](https://slsknet.org/)** or [Nicotine+](https://nicotine-plus.org/) - FLAC / MP3 / [Stats](https://github.com/mrusse/Slsk-Upload-Stats-Tracker) / [Server App](https://github.com/slskd/slskd)
 * [/r/xTrill](https://reddit.com/r/xTrill) - MP3 / FLAC / [Backup](https://reddit.com/r/xTrillBackup)
@@ -17022,10 +17022,10 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://70.88.180.169:8
 
 * ⭐ **[Bypass All Shortlinks](https://greasyfork.org/en/scripts/431691)** / [Additional](https://greasyfork.org/en/scripts/443888)
 * ⭐ **[FastForward](https://fastforward.team/)** / [Discord](https://discord.gg/RSAf7b5njt)
-* ⭐ **[bypass.city](https://bypass.city/)** / [Discord](https://discord.com/invite/uMEtrpRvAf)
+* ⭐ **[bypass.city](https://bypass.city/)** / [krnl-and-linkvertise-bypasser](https://greasyfork.org/en/scripts/427869-krnl-and-linkvertise-bypasser) / [Discord](https://discord.com/invite/uMEtrpRvAf)
 * ⭐ **[bypass.vip](https://bypass.vip/)**
 
-[AdsBypasser](https://adsbypasser.github.io/) / [2](https://github.com/adsbypasser/adsbypasser), [krnl-and-linkvertise-bypasser](https://greasyfork.org/en/scripts/427869-krnl-and-linkvertise-bypasser), [TheBypasser](https://thebypasser.com/), [Bypass-Links](https://github.com/amitsingh-007/bypass-links), [Auto link bypasser](https://chrome.google.com/webstore/detail/auto-link-bypasser/doiagnjlaingkmdjlbfalakpnphfmnoh), [Bypasser](https://yuumari.com/bypass/), [UploadHEaven](https://greasyfork.org/en/scripts/442019)
+[AdsBypasser](https://adsbypasser.github.io/) / [2](https://github.com/adsbypasser/adsbypasser), [TheBypasser](https://thebypasser.com/), [Bypass-Links](https://github.com/amitsingh-007/bypass-links), [Yuumari](https://yuumari.com/bypass/) / [Extension](https://chrome.google.com/webstore/detail/auto-link-bypasser/doiagnjlaingkmdjlbfalakpnphfmnoh), [UploadHEaven](https://greasyfork.org/en/scripts/442019)
 
 ***
 
@@ -17146,7 +17146,7 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://70.88.180.169:8
 
 * ⭐ **[redditlist](https://redditlist.com/)**
 
-[sayit](https://anvaka.github.io/sayit/), [Vizit](https://redditstuff.github.io/sna/vizit/), [Map of Reddit](https://anvaka.github.io/map-of-reddit), [subreddits]https://subreddits.org/), [/r/DiscoverReddit Index](https://www.reddit.com/r/DiscoverReddit/wiki/index), [/r/Serendipity](https://www.reddit.com/r/Serendipity), [/r/ListOfSubreddits](https://www.reddit.com/r/ListOfSubreddits/), [/r/wowthissubexists](https://www.reddit.com/r/wowthissubexists/), [/r/findareddit](https://www.reddit.com/r/findareddit/), [/r/trendingsubreddits](https://www.reddit.com/r/trendingsubreddits), [/r/TrendingReddits/](https://www.reddit.com/r/TrendingReddits/), [subreddit_map](https://www.jacobsilterra.com/subreddit_map/network/index.html), [SubredditMentionsGraph](https://dmarx.github.io/SubredditMentionsGraph/network/), [Subreddit Stats](https://subredditstats.com/), [Subreddit Calculator](https://trevor.shinyapps.io/subalgebra/), [redsim](https://anvaka.github.io/redsim/)
+[sayit](https://anvaka.github.io/sayit/), [Vizit](https://redditstuff.github.io/sna/vizit/), [Map of Reddit](https://anvaka.github.io/map-of-reddit), [subreddits](https://subreddits.org/), [/r/DiscoverReddit Index](https://www.reddit.com/r/DiscoverReddit/wiki/index), [/r/Serendipity](https://www.reddit.com/r/Serendipity), [/r/ListOfSubreddits](https://www.reddit.com/r/ListOfSubreddits/), [/r/wowthissubexists](https://www.reddit.com/r/wowthissubexists/), [/r/findareddit](https://www.reddit.com/r/findareddit/), [/r/trendingsubreddits](https://www.reddit.com/r/trendingsubreddits), [/r/TrendingReddits/](https://www.reddit.com/r/TrendingReddits/), [subreddit_map](https://www.jacobsilterra.com/subreddit_map/network/index.html), [SubredditMentionsGraph](https://dmarx.github.io/SubredditMentionsGraph/network/), [Subreddit Stats](https://subredditstats.com/), [Subreddit Calculator](https://trevor.shinyapps.io/subalgebra/), [redsim](https://anvaka.github.io/redsim/)
 
 ***
 
@@ -18065,7 +18065,7 @@ Use [this](https://bitbucket.org/magnolia1234/bypass-paywalls-firefox-clean/src/
 **[FitGirl Repacks](https://fitgirl-repacks.site/) / [SteamRIP](https://steamrip.com/) / [GOG-Games](https://gog-games.to/)** - Game download sites / [FitGirl Discord](https://discord.gg/Up3YARe4RW)
 **[AlvRo](https://github.com/nbats/FMHYedit/blob/main/base64.md#alvro) / [Vimms Lair](https://vimm.net/)** - ROM download sites / [Emulators](https://emulation.gametechwiki.com/)
 **[Firehawk52](https://rentry.org/firehawk52)** - Music Ripping Guide
-**[Slavart](https://discord.gg/h2zVyMV6) / [DoubleDouble](https://doubledouble.top/)** - Multi-Site Audio Download
+**[Slavart](https://discord.gg/nTUd5cCf) / [DoubleDouble](https://doubledouble.top/)** - Multi-Site Audio Download
 **[Free MP3 Download](https://free-mp3-download.net/)** - MP3 / FLAC downloads
 **[Soulseek](https://slsknet.org/)** or [Nicotine+](https://nicotine-plus.org/) - Audio download app
 **[Download CSE](https://cse.google.com/cse?cx=006516753008110874046:1ugcdt3vo7z) / [2](https://cse.google.com/cse?cx=006516753008110874046:reodoskmj7h)** - Multi-site download search
@@ -18171,7 +18171,7 @@ Use [this](https://bitbucket.org/magnolia1234/bypass-paywalls-firefox-clean/src/
 * ⭐ **[CS.RIN.RU](https://cs.rin.ru/)** - Download / Forum / [Status](https://csrinstaff.writeas.com/) / [Enhancement Mod](https://github.com/SubZeroPL/cs-rin-ru-enhanced-mod)
 * ⭐ **[Torrminatorr](https://forum.torrminatorr.com/)** - Download
 * ⭐ **[SteamRIP](https://steamrip.com/)** - Download / Torrent / [Discord](https://discord.gg/hj8dU5BFHE) / pw: 1234
-* ⭐ **[GOG Games](https://gog-games.to/)** - Download / Torrent / [.onion](http://goggamespyi7b6ybpnpnlwhb4md6owgbijfsuj6z5hesqt3yfyz42rad.onion/)
+* ⭐ **[GOG Games](https://gog-games.to/)** - Download / [Torrent](https://freegogpcgames.com/) / [.onion](http://goggamespyi7b6ybpnpnlwhb4md6owgbijfsuj6z5hesqt3yfyz42rad.onion/)
 * ⭐ **[GameBounty](https://gamebounty.world/)** - Download / [Discord](https://dsc.gg/gamebounty)
 * ⭐ **[Ova Games](https://www.ovagames.com/)** - Download / Use Adblocker
 * ⭐ **[VRPirates](https://t.me/vrpirates)** / [Wiki](https://wiki.vrpirates.club/), [ARMGDDN](https://t.me/ARMGDDNGames), [VRCarena](https://www.vrcarena.com/) or [SidequestVR](https://sidequestvr.com/) - VR Games / Guides
@@ -19138,7 +19138,7 @@ Use [this](https://bitbucket.org/magnolia1234/bypass-paywalls-firefox-clean/src/
 * ⭐ **[SystemRequirmentsLab](https://www.systemrequirementslab.com/cyri/)** or [PCGameBenchmark](https://www.pcgamebenchmark.com/) - Game Requirements Tests
 * ⭐ **[ProSettings](https://prosettings.net/)**, [Share Gaming Tweaks](https://www.tenforums.com/gaming/117377-share-gaming-tweaks-chec-my-comprehensive-list-will-blow-your-mind.html), [SweetFX](https://sfx.thelazy.net/), [ENBSeries](http://enbdev.com) or [Use Gaming Tweaks](https://github.com/PrincessAkira/Use-Gaming-Tweaks) - Settings Optimization Guides
 * ⭐ **[DisplayMagician](https://github.com/terrymacdonald/DisplayMagician)** or [AutoActions](https://github.com/Codectory/AutoActions) - Per-Game Display Profiles
-* [RagnoTech Optimization Catalog](https://ragnos1997.com/optimization-catalog/), [TroubleChute](https://www.youtube.com/c/TroubleChute/featured) or [GamingPCSetup](https://github.com/djdallmann/GamingPCSetup) - Gaming Optimization Guides
+* [PC-Tuning](https://github.com/amitxv/PC-Tuning), [RagnoTech Optimization Catalog](https://ragnos1997.com/optimization-catalog/), [TroubleChute](https://www.youtube.com/c/TroubleChute/featured) or [GamingPCSetup](https://github.com/djdallmann/GamingPCSetup) - Gaming Optimization Guides
 * [LinkRunner](https://github.com/romjacket/rj_linkrunner) - Per-Game Settings Manager
 * [Calypto’s Latency Guide](https://docs.google.com/document/d/1c2-lUJq74wuYK1WrA_bIvgb89dUN0sj8-hO3vqmrau4/), [MoreFPS](https://morefps.net/), [cancerogenoslab](https://sites.google.com/view/cancerogenoslab/) or [MikeMartin](https://www.mikemartin.co/) - FPS / Latency Guides
 * [LatencyFleX](https://github.com/ishitatsuyuki/LatencyFleX) or [HoneCtrl](https://github.com/auraside/HoneCtrl) - Latency Reduction / FPS Fixes
