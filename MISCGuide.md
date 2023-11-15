@@ -106,7 +106,7 @@
 * 🌐 **[5000 Best News Sites](http://5000best.com/websites/News/)** - News Site Index
 * 🌐 **[Current Events Wiki](https://en.m.wikipedia.org/wiki/Portal:Current_events)** or [Slower News](https://www.slowernews.com/) - Breaking News
 * ↪️ **[News Feed Aggregators](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_news_feed_aggregators)**
-* ↪️ **[Newspaper Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/reading#wiki_.25B7_newspaper_sites)**
+* ↪️ **[Newspaper Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/reading#wiki_.25B7_newspapers)**
 * ↪️ **[Worldwide News Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_worldwide_news_sites_index)**
 * ↪️ **[Tech News Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_tech_news)**
 * ↪️ **[Security / Hacking News](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_security_.2F_hacking_news)**
