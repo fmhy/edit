@@ -1149,6 +1149,8 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://70.88.180.169:8
 
 ## Image Design Resources
 
+* ⭐ **[FreePreset](https://freepreset.net/)**
+
 [psdkeys](https://psdkeys.com/), [AvaxGFX](https://avxgfx.com/), [Freeject](https://www.freeject.net/), [PDFTree](https://pngtree.com/), [NitroGFX](https://nitrogfx.pro/), [Designer Candies](https://designercandies.net/category/freebies/), [Poliigon](https://www.poliigon.com/), [PolyHaven](https://polyhaven.com/), [GraphicPear](https://www.graphicpear.com/), [FreeDesignResources](https://freedesignresources.net/), [/r/BLKMARKET](https://reddit.com/r/blkmarket), [GraphixTree](https://graphixtree.com/), [PSDLY](https://www.psdly.com/), [CreativeFabrica](https://send.cm/s/1A/Bundles) / [PW](https://pastebin.com/VW1eEdJa), [Heroturko](https://heroturko1.com/), [CGArchives](https://cgarchives.com/), [SearchGFX](https://searchgfx.com/), [Evernote.Design](https://www.evernote.design/), [Design Resources](https://github.com/MohamedYoussouf/Design-Resources). [Image Design Drives](https://github.com/nbats/FMHYedit/blob/main/base64.md#image-design-drives), [Quasual](https://m.vk.com/quasual), [designersgan9](https://m.vk.com/designersgan9), [WockupWorld](https://m.vk.com/mockupworld), [The GFX](https://m.vk.com/the_gfx), [Graphics Materials](https://vk.com/topic-178186634_39330245), [desiignertm](https://vk.com/desiignertm), [all_psd](https://vk.com/all_psd), [designbloody](https://vk.com/designbloody), [designarchiv](https://t.me/designarchiv), [grphc dsgn](https://t.me/+xx1YjI6DC4RiZjJk), [freepsdvn](https://freepsdvn.com/), [graphicex](https://graphicex.com/), [ae-project](https://ae-project.su/), [godownloads](https://godownloads.net/)
 
 ***
