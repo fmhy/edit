@@ -14,10 +14,10 @@
 * 🌐 **[Awesome Design Tools](https://github.com/goabstract/Awesome-Design-Tools)**, [2](https://rentry.co/thk62), [3](https://docs.google.com/document/d/179VI9QjVICyS3KVQ4i5fdEQmE1U45Xhq64TNb9QUmRk/edit?usp=drivesdk), [4](https://pilssken.neocities.org/gainz/), [5](https://github.com/nbats/FMHYedit/blob/main/base64.md#design-tool-zip) - Design Resources
 * 🌐 **[archives.design](https://archives.design/)** - Graphic Design Books
 * ↪️ **[Image Editors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_image_editing)**
-* ↪️ **[Image Design Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_graphic_design_tools)**
 * ↪️ **[Image Design Resources](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_image_design_resources)** 
 * ↪️ **[Background Removers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_background_removers)**
 * ⭐ **[PhotoMosh](https://photomosh.com/)**, [jpg-glitch-electron](https://snorpey.github.io/jpg-glitch-electron/), [glitch-this!](https://github.com/TotallyNotChase/glitch-this), [GlitchyImage](https://glitchyimage.com/) or [Image Glitch Tool](https://github.com/snorpey/jpg-glitch) - Glitch Images
+* [CanvaPro365](https://t.me/canvapro365free) or [sharecanvaprofree](https://t.me/sharecanvaprofree) - Free Canva Pro Telegram Channels
 * [calltoidea](https://www.calltoidea.com/), [onepagelove](https://onepagelove.com/), [awwwards](https://www.awwwards.com/websites), [thedesigninspiration](https://thedesigninspiration.com/), [theinspirationgrid](https://theinspirationgrid.com/) or [inspirationde](https://www.inspirationde.com/) - Graphic Design Inspirations
 * [IRA Design](https://iradesign.io/) - Illustration Creator
 * [Graphite](https://github.com/GraphiteEditor/Graphite) - Vector Editor
