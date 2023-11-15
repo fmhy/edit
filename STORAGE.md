@@ -4,7 +4,7 @@
 ***
 ***
 
-**[Table of Contents](https://ibb.co/rKPdfPz)** - For mobile users
+**[Table of Contents](https://ibb.co/HVQCzgs)** - For mobile users
 
 ***
 ***
@@ -1135,7 +1135,10 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://70.88.180.169:8
 
 ## Image Colorization
 
-[Petalica Paint](https://petalica.com/), [MyHeritage In Color](https://www.myheritage.com/incolor), [9Mail Restoration](https://9may.mail.ru/restoration/), [DeOldify](https://github.com/jantic/DeOldify), [playback](https://playback.fm/colorize-photo), [cutout](https://www.cutout.pro/photo-colorizer-black-and-white), [colorize.cc](https://colorize.cc/), [hotpot](https://hotpot.ai/colorize-picture), [Colorizer](https://deepai.org/machine-learning-model/colorizer), [imagecolorizer](https://imagecolorizer.com/), [Palette.fm](https://palette.fm/)
+* [AnimeColorDeOldify](https://github.com/Dakini/AnimeColorDeOldify) - Anime Image Colorization
+* [style2paints](https://github.com/lllyasviel/style2paints) - Lineart Colorization
+
+[Petalica Paint](https://petalica.com/), [MyHeritage In Color](https://www.myheritage.com/incolor), [9Mail Restoration](https://9may.mail.ru/restoration/), [DeOldify](https://github.com/jantic/DeOldify), [playback](https://playback.fm/colorize-photo), [cutout](https://www.cutout.pro/photo-colorizer-black-and-white), [colorize.cc](https://colorize.cc/), [hotpot](https://hotpot.ai/colorize-picture), [Colorizer](https://deepai.org/machine-learning-model/colorizer), [imagecolorizer](https://imagecolorizer.com/)
 
 ***
 
@@ -2546,6 +2549,32 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://70.88.180.169:8
 * [TVSeriesArchive](https://t.me/TvSeriesArchive) - TV
 * [pre_code](https://t.me/pre_code) or [ZwartwitFilms](https://t.me/ZwartwitFilms) - Classics
 * [CartoonLibrary](https://t.me/CartoonLibrary) or [Cartoon_Index](https://t.me/Cartoon_Index) - Cartoons
+
+***
+
+## ▷ Textures / Patterns
+
+### Textures
+
+[AmbientCG](https://ambientcg.com/), [TextureTown](https://textures.neocities.org/), [Lost and Taken](https://lostandtaken.com/), [3D textures](https://icons8.com/l/3d-textures/), [Textureking](https://www.textureking.com/), [Texture Labs](https://texturelabs.org/), [Transparent Textures](https://www.transparenttextures.com/), [Texture Club](https://www.sketchuptextureclub.com/), [TexturesForFree](https://texturesforfree.com/), [fatstrawberry](https://www.fatstrawberry.co.uk/), [PBR_Textures](https://t.me/PBR_Textures), [AnthonyBoyd](https://www.anthonyboyd.graphics/), [cgbookcase](https://www.cgbookcase.com/), [Texture Collection](https://github.com/nbats/FMHYedit/blob/main/base64.md#texture-collection)
+
+* [ArmorLab](https://armorlab.org/), [Pixela](https://pixela.ai/) or [TextureLab](https://www.texturelab.io/) - Texture Generators / [GitHub](https://github.com/armory3d/armorlab)
+* [Texture Lab](https://njbrown.itch.io/texturelab) - Procedural Texture Generator / [GitHub](https://github.com/njbrown/texturelab)
+* [Material Maker](https://rodzilla.itch.io/material-maker) - Procedural Texture Creator
+* [Generative Landscapes](https://generativelandscapes.wordpress.com/) - Generative Landscape Blog
+* [Mixer](https://quixel.com/mixer) - 3D Texture Creation Software
+* [The Textures Resource](https://www.textures-resource.com/) - Game Textures
+* [Trianglify.io](https://trianglify.io/) - Low-Poly Texture Generator
+* [Replacement Sky](https://replacement-sky.com/) - Skies for Photoshop
+
+### Patterns
+
+[Subtle Patterns](https://www.toptal.com/designers/subtlepatterns/), [Background Tiles](https://background-tiles.com/), [Pattern Collection](https://github.com/nbats/FMHYedit/blob/main/base64.md#pattern-collection)
+
+* [DoodDad](https://doodad.dev/pattern-generator), [Repeater](https://repeater.space/), [PatternPad](https://patternpad.com/), [patternico](https://patternico.com/), [Repeater](https://www.richardwestenra.com/repeater/), [Valentina](https://gitlab.com/smart-pattern/valentina), [tylify](https://tylify.app/) or [Haikei](https://app.haikei.app/) - Pattern Generators
+* [Hide.Lizz](https://hide.lizz.website/) - Camouflage Pattern Generator
+* [Tabbied](https://tabbied.com/) or [Slopes](https://tinkersynth.com/slopes/) - Art Pattern Generators
+* [05x5](https://csh.bz/line/05x5.html) - Rainbow Pattern Generator
 
 ***
 
