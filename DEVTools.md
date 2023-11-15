@@ -499,6 +499,7 @@
 * [Broider](https://maxbittker.github.io/broider/) - Create Border Designs
 * [ShapeDivider](https://www.shapedivider.app/) - Make SVG Shape Divider
 * [SVG Path](https://svg-path-visualizer.netlify.app/) - SVG Path Visualizer
+* [Get Waves](https://getwaves.io/), [Wavelry](https://wavelry.vercel.app/), [SVGWave](https://svgwave.in/) / [GitHub](https://github.com/anup-a/svgwave) or [SVG Wave](https://www.softr.io/tools/svg-wave-generator) - SVG Wave Generators
 * [Lorem.space](https://lorem.space/), [Placeholdifier](https://github.com/pomber/placeholdifier), [PlaceHolder](https://placeholder.pics/), [PicSum](https://picsum.photos/) or [FakeIMG](https://fakeimg.pl/) - Site Placeholder Images
 * [MinimalAvatars](https://minimalavatars.com/) - Minimal Site Avatars
 * [Visiwig](https://www.visiwig.com/) - Copy / Paste Site Graphics
@@ -783,6 +784,7 @@
 
 * 🌐 **[Awesome Gamedev](https://github.com/mbrukman/awesome-gamedev)**, [Game Dev Resources](https://www.newgrounds.com/wiki/creator-resources/game-dev-resources), [Magic Tools](https://github.com/ellisonleao/magictools), [LibGDX](https://libgdx.com/) / Resources](https://github.com/rafaskb/awesome-libgdx) or [VG resource](https://www.vg-resource.com/) - Game Development Resources
 * 🌐 **[Awesome-One-Person-Games](https://github.com/Yonaba/awesome-one-person-games)** - Single Dev Game Examples
+* ↪️ **[Textures / Patterns](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_.25B7_textures_.2F_patterns)**
 * ↪️ **[Free Game Engines](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_game_engines)**
 * ↪️ **[3D Models / Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/img-tools#wiki_.25B7_3d_models)**
 * [HiddenPalace](https://hiddenpalace.org/) - Game Development Media Archive
@@ -812,11 +814,6 @@
 * [inkle](https://www.inklestudios.com/ink/) - Game Narrative Scripting Language
 * [Curlie World Building](https://curlie.org/en/Games/Roleplaying/World_Building) - World Building Resource Index 
 * [Mansion Generator](https://watabou.itch.io/procgen-mansion) - Procedural Mansions Generator
-* [Texture Lab](https://njbrown.itch.io/texturelab) - Procedural Texture Generator / [GitHub](https://github.com/njbrown/texturelab)
-* [Material Maker](https://rodzilla.itch.io/material-maker) - Procedural Texture Creator
-* [Generative Landscapes](https://generativelandscapes.wordpress.com/) - Generative Landscape Blog
-* [Mixer](https://quixel.com/mixer) - 3D Texture Creation Software
-* [The Textures Resource](https://www.textures-resource.com/) - Game Textures
 * [Fantasy Map Generator](https://azgaar.github.io/Fantasy-Map-Generator/), [Inkarnate](https://inkarnate.com/), [HexHTML](https://hextml.playest.net/), [Inkwellideas](https://inkwellideas.com/free-tools/), [Nat Geo Map Maker](https://mapmaker.nationalgeographic.org/), [RPG Map Editor 2](https://deepnight.itch.io/tabletop-rpg-map-editor) or [MapTool](https://www.rptools.net/toolbox/maptool/) - Game Map Creators / Editors
 * [Dungeon Scrawl](https://probabletrain.itch.io/dungeon-scrawl) / [Discord](https://discord.com/invite/RxyZyXg) / [/r/Dungeonscrawl](https://www.reddit.com/r/dungeonscrawl/), [Dungeon Map Doodler](https://dungeonmapdoodler.com/) or [donjon](https://donjon.bin.sh/) or [One Page Dungeon](https://watabou.itch.io/one-page-dungeon) - Dungeon Map Creators / Editors 
 * [Medieval Fantasy City Generator](https://watabou.itch.io/medieval-fantasy-city-generator) - Fantasy City Map Generator
