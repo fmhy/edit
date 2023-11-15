@@ -1101,6 +1101,12 @@
 * [Kittenwar!](https://www.kittenwar.com/) - Rate Kittens
 * [procatinator](https://procatinator.com/) - Cat GIFs & Music
 * [Open Puppies](https://openpuppies.com/) - Random Dog GIFs
+* [Chimera Painter](https://storage.googleapis.com/chimera-painter/index.html) - Chimera Generator
+* [MakeCoatOfArms](https://www.allfamilycrests.com/makecoatofarms.htm ) - Coat of Arms Generator
+* [Web Neko](https://webneko.net/) - Nekos on the Web
+* [No Paint](https://nopaint.art/) - Press "Paint" if you like what you see, "No" if you don't
+* [Random Art](https://www.random-art.org/) - Random Art Generator
+* [MyPokeCard](https://www.mypokecard.com/en/) - Create Pokemon Cards
 * [pokemon-colorscripts](https://gitlab.com/phoneybadger/pokemon-colorscripts) - Terminal Pokémon Sprites
 * [Pokémon Fusion](https://pokemon.alexonsager.net/) - Fuse Pokémon
 * [Poke Palettes](https://pokepalettes.com/) - Pokémon Color Palettes
@@ -1197,7 +1203,6 @@
 * [Draw a Stickman](https://drawastickman.com/) - Stickman Adventure
 * [Wonder of Wonder Art](https://aidn.jp/wowa/) - Create a Dancing Character
 * [Cursor Car](https://papercookies.itch.io/cursor-car) - Play with Car Cursor
-* [Web Neko](https://webneko.net/) - Nekos on the Web
 
 ***
 
