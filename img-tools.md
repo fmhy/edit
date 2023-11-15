@@ -4,7 +4,7 @@
 ***
 ***
 
-**[Table of Contents](https://ibb.co/VYLf1zH)** - For mobile users
+**[Table of Contents](https://ibb.co/C9DsNyg)** - For mobile users
 
 ***
 *** 
@@ -45,6 +45,7 @@
 * [Picmunge](https://picmunge.cvservant.com/) - Image Transformer
 * [Controlnet Pose](https://replicate.com/jagilley/controlnet-pose) - Modify Human Pose Position / [SD WebUI](https://github.com/Mikubill/sd-webui-controlnet)
 * [Tinter](https://tinter.uxie.io/) - Image Hue Editor
+* [ordered-dither-maker](https://seleb.github.io/ordered-dither-maker/) - Image Dithering
 * [WeGreyScale](https://www.wegrayscale.com/) - Greyscale Videos / Images
 * [DuoTones](https://duotones.co/) - Dual Tone Effect Generator
 * [ImageGoNord](https://ign.schrodinger-hat.it/) - Convert Images to NordTheme Palette / [GitHub](https://github.com/Schrodinger-Hat/ImageGoNord)
@@ -97,18 +98,10 @@
 ## ▷ Restoration
 
 * ↪️ **[Colorize Images](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_image_colorization)** - Image Colorization Tools
-* [FenoPhoto](https://www.fenophoto.com/) or [PhotoRestore](https://www.photorestore.io/) - Image Restoration Tools
+* [FenoPhoto](https://www.fenophoto.com/) - Image Restoration Tools
 * [Real-ESRGAN](https://github.com/xinntao/Real-ESRGAN) - Image Restoration Algorithms
 * [/r/estoration](https://www.reddit.com/r/estoration/) - Photo Restoration Requests
-* [AnimeColorDeOldify](https://github.com/Dakini/AnimeColorDeOldify) - Anime Image Colorization
-* [Replicate](https://replicate.com/sczhou/codeformer), [GPEN-Colab](https://github.com/bycloudai/GPEN-colab), [Photo Face Restorer](https://www.restorephotos.io/) or [GFPGAN](https://github.com/TencentARC/GFPGAN) - Face Restoration / Colorization Tool
-* [Color-Dragon](https://www.color-dragon.tk/) - Add more Color to Images
-* [style2paints](https://github.com/lllyasviel/style2paints) or [Petalica Paint](https://github.com/pfnet/PaintsChainer) - Lineart Colorization Tool
-* [AdverseCleaner](https://github.com/lllyasviel/AdverseCleaner) - Image Noise Reduction
-* [ordered-dither-maker](https://seleb.github.io/ordered-dither-maker/) - Image Dithering
-* [SmartDeblur](http://smartdeblur.net/index.html) - De-blurring / Stabilization Tools
-* [depixel](https://github.com/jerith/depixel) - De-pixelization Tool
-* [Face-Depixelizer](https://github.com/tg-bomze/Face-Depixelizer) - Face De-Pixelization Tool 
+* [Photo Face Restorer](https://www.restorephotos.io/) or [GFPGAN](https://github.com/TencentARC/GFPGAN) - Face Restoration / Colorization Tool
 * [Deep Nostalgia](https://www.myheritage.com/deep-nostalgia) - Animate Family Photos
 
 ***
@@ -148,10 +141,6 @@
 * [Mondrian And Me](https://mondrianandme.com/) - Mondrian Art Creator
 * [Periodicity](https://williamhoza.com/periodicity/) - Harmonic Motion Patterns
 * [Cubes.io](https://cubes.io/) - Cellular Automata
-* [DoodDad](https://doodad.dev/pattern-generator), [Repeater](https://repeater.space/), [PatternPad](https://patternpad.com/), [patternico](https://patternico.com/), [Repeater](https://www.richardwestenra.com/repeater/), [Valentina](https://gitlab.com/smart-pattern/valentina), [tylify](https://tylify.app/) or [Haikei](https://app.haikei.app/) - Pattern Generators
-* [Hide.Lizz](https://hide.lizz.website/) - Camouflage Pattern Generator
-* [Tabbied](https://tabbied.com/) or [Slopes](https://tinkersynth.com/slopes/) - Art Pattern Generators
-* [05x5](https://csh.bz/line/05x5.html) - Rainbow Pattern Generator
 * [overwhale](http://overwhale.com/) - Fractal Image Generators
 * [PEmbroider](https://github.com/CreativeInquiry/PEmbroider) - Embroidery Generator
 * [Hugin](https://hugin.sourceforge.io/) or [Ice](https://www.microsoft.com/en-us/research/product/computational-photography-applications/image-composite-editor/) - Panorama Image Generator
@@ -170,35 +159,16 @@
 * [Thumbnail.ai](https://thumbnail.ai/) - Create Social Media Images from Blog Posts
 * [Postr](https://postr.me/) - Create Images from Social Media Posts
 * [3D Book](https://3dbook.xyz/) - 3D Book Image
-* [ImageFu](https://reviewgrower.com/button-and-badge-generator/) - Button / Badge Creator
-* [Get Waves](https://getwaves.io/), [Wavelry](https://wavelry.vercel.app/), [SVGWave](https://svgwave.in/) / [GitHub](https://github.com/anup-a/svgwave) or [SVG Wave](https://www.softr.io/tools/svg-wave-generator) - Wave Generator
 * [Meta-Mapper](https://meta-mapper.com/) - Website Metadata Thumbnails
-* [Mega creator](https://icons8.com/mega-creator) - Promo / Poster Creator
-* [Band-Flyers](https://band-flyers.com/) - Band Flyer Creator
 * [Custom Ink](https://www.customink.com/ndx/#/) - Create T-Shirt Designs
 * [Unsell](https://www.unsell.design/) - Portfolio / Magazine Templates
 * [PSDcovers](https://www.psdcovers.com/), [mockups-design](https://mockups-design.com/), [zippypixels](https://zippypixels.com/), [Mockups](https://mockups.pixeltrue.com/), [medialoot](https://medialoot.com/free-mockups/) or [MockupsForFree](https://mockupsforfree.com/) - Product Mockups
 * [Venngage](https://venngage.com/) - Infographic Maker
 * [Quote Maker](https://quotescover.com/) - Quote Picture Generator
-* [SponsorKit](https://github.com/antfu/sponsorkit) - Patreon Sponsor Image Generator
 * [Verbex](https://www.vedbex.com/fakeproof) - Fake "Proof" Generator
-* [FakeReceipt](http://www.fakereceipt.us/) - Create Fake Receipts
-* [The Rasterbator](https://rasterbator.net/) - Wall Art Generator
-* [MyPokeCard](https://www.mypokecard.com/en/) - Create Pokemon Cards
 * [Flag Maker](https://flagmaker-print.com/pages/flag-maker) - Flag Creator
-* [MakeCoatOfArms](https://www.allfamilycrests.com/makecoatofarms.htm ) - Coat of Arms Creator
-* [ArmorLab](https://armorlab.org/), [Kandinsky](https://www.kandinsky.io/), [Pixela](https://pixela.ai/) or [TextureLab](https://www.texturelab.io/) - Texture Generators / [GitHub](https://github.com/armory3d/armorlab)
-* [Trianglify.io](https://trianglify.io/) - Low-Poly Texture Generator
-* [AwesomeBump](https://github.com/kmkolasinski/AwesomeBump) - Texture Editor
-* [Materialize](https://boundingboxsoftware.com/materialize/getkey.php) - Material Generator
-* [NormalMap Online](https://cpetry.github.io/NormalMap-Online/) - Online NormalMap Generator
-* [PlantStudio](https://www.kurtz-fernhout.com/summary_plantstudio.html) - Plant Model / Illustration Creator 
 * [Dummy Image](https://dummyimage.com/) - Dynamic Dummy Image Generator 
-* [instant-ngp](https://github.com/NVlabs/instant-ngp) - Instant Neural Graphics Primitives 
 * [CLIP-GLaSS](https://colab.research.google.com/drive/1fWka_U56NhCegbbrQPt4PWpHPtNRdU49?usp=sharing#scrollTo=zvZFRZtcv8Mp) - Image Generation Tool 
-* [Random Art](https://www.random-art.org/) - Random Art Generator
-* [No Paint](https://nopaint.art/) - Press "Paint" if you like what you see, "No" if you don't 
-* [Chimera Painter](https://storage.googleapis.com/chimera-painter/index.html) - Chimera Generator
 
 ***
 
@@ -342,14 +312,10 @@
 * [The NFT Bay](https://thenftbay.org/) or [Extremely Fungible Tokens](https://www.extremelyfungible.com/) - Free NFTs
 * [Artbreeder](https://artbreeder.com/) - Image Discovery / Combining
 * [Artvee](https://artvee.com/) - Public Domain Artwork 
-* [AnthonyBoyd](https://www.anthonyboyd.graphics/) - Mockups & Textures
 * [Behance](https://behance.net/) - Design Projects
 * [Placeit](https://placeit.net/) - Image Templates
 * [Worldvectorlogo](https://worldvectorlogo.com/), [Logos & Badges Bundle](https://github.com/nbats/FMHYedit/blob/main/base64.md#logos--badges-bundle), [Brands of the World](https://www.brandsoftheworld.com/), [Logos Download](https://logos-download.com/), [Logodust](https://logodust.com/), [Logowik](https://logowik.com/), [Logo Wine](https://www.logo.wine/), [logospire](https://logospire.com/), [LogoSearch](https://logosear.ch/), [logopond](https://logopond.com/), [logotouse](https://www.logotouse.com/), [logolounge](https://www.logolounge.com/), [logomoose](https://www.logomoose.com/) - Logo Designs
 * [MariaLetta](https://github.com/MariaLetta/mega-doodles-pack) - Free Doodles
-* [Replacement Sky](https://replacement-sky.com/) - Skies for Photoshop
-* [AmbientCG](https://ambientcg.com/), [TextureTown](https://textures.neocities.org/), [Lost and Taken](https://lostandtaken.com/), [3D textures](https://icons8.com/l/3d-textures/), [Textureking](https://www.textureking.com/), [Texture Labs](https://texturelabs.org/), [Transparent Textures](https://www.transparenttextures.com/), [Texture Club](https://www.sketchuptextureclub.com/), [TexturesForFree](https://texturesforfree.com/), [fatstrawberry](https://www.fatstrawberry.co.uk/), [PBR_Textures](https://t.me/PBR_Textures), [cgbookcase](https://www.cgbookcase.com/) or [Texture Collection](https://github.com/nbats/FMHYedit/blob/main/base64.md#texture-collection) - Download Textures
-* [Subtle Patterns](https://www.toptal.com/designers/subtlepatterns/), [Background Tiles](https://background-tiles.com/) or [Pattern Collection](https://github.com/nbats/FMHYedit/blob/main/base64.md#pattern-collection) - Download Patterns
 * [Watercolor Collection](https://github.com/nbats/FMHYedit/blob/main/base64.md#watercolor-collection) - Download Watercolor Pictures
 * [google-images-download](https://github.com/Joeclinton1/google-images-download) - Download Images from Google Images 
 * [googleimagerestored](https://github.com/fanfare/googleimagesrestored) - Old Google Image Search 
@@ -364,6 +330,10 @@
 ***
 
 ## ▷ [Wallpapers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_wallpapers)
+
+***
+
+## ▷ [Textures / Patterns](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_.25B7_textures_.2F_patterns)
 
 ***
 
@@ -516,31 +486,6 @@
 * [Vectorizer](https://www.vectorizer.io/) or [AutoTracer](https://www.autotracer.org/) - Image Vectorizer 
 * [text2img](https://master.ayra.ch/text2img/) or [CogView](https://github.com/THUDM/CogView) - Convert Text Screenshots to Images
 * [Selfie2Anime](https://selfie2anime.com/), [Animate-Me](https://github.com/Aneureka/animate-me) - Convert Selfies to Anime 
-
-***
-
-## ▷ Instagram Tools
-
-* 🌐 **[Instagram Tools](https://www.aware-online.com/en/osint-tools/instagram-tools/)** - Multiple Tools
-* 🌐 **[Osintgram](https://github.com/Datalux/Osintgram)**, [Toutatis](https://github.com/megadose/toutatis) or [Sterraxcyl](https://github.com/novitae/sterraxcyl) - Instagram OSINT Tools
-* 🌐 **[Instagram Search Tools](https://www.aware-online.com/en/osint-tools/instagram-search-tool/)** - Search Tool
-* ⭐ **[Bypass Login](https://greasyfork.org/en/scripts/420604)** - Bypass Instagram Login Redirects
-* [GridsApp](https://gridsapp.net/) - Desktop Client
-* [imgsed](https://imgsed.com/), [Picuki](https://www.picuki.com/), [InstaNavigation](https://instanavigation.com/), [Instafreeview](https://instafreeview.com/), [profile-picture-viewer](https://github.com/Ademking/profile-picture-viewer), [Dumpor](https://dumpoir.com/) or [GreatFon](https://greatfon.com/) - Instagram Viewers
-* [Instagram-Explorer](https://www.osintcombine.com/instagram-explorer) - Explore Pictures by Location 
-* [StoriesDown](https://storiesdown.com/), [instasaved](https://instasaved.net/en) or [insta-stories-viewer](https://insta-stories-viewer.com/) - Story Downloaders
-* [SaveFromWeb](https://www.savefromweb.com/), [High-Resolution-Downloader](https://github.com/ehmorris/High-Resolution-Downloader-For-Instagram), [Downloadgram](https://downloadgram.org/) or [Instagram-crawler](https://github.com/hehpollon/Instagram-crawler) - Video / Picture / Story Downloaders 
-* [Picnob](https://www.picnob.com/) or [Instagram PHP Scraper](https://github.com/postaddictme/instagram-php-scraper) - Picture / Story Downloaders
-* [ThumbTube](https://thumbtube.com/download-instagram-photos-videos), [Instagram Scraper](https://github.com/dankmemes/instagram-scraper), [InstaLooter](https://github.com/althonos/InstaLooter), [scraper-instagram-gui-desktop](https://git.kaki87.net/KaKi87/scraper-instagram-gui-desktop), [Instaloader](https://github.com/instaloader/instaloader) or [instapick](https://www.instapick.net/) - Picture / Video Downloader
-* [4K Stogram](https://www.4kdownload.com/products/stogram-8) or [InstaLoader](https://instaloader.github.io/) - Picture Downloader
-* [Photo Map](https://levionsoftware.com/) - Interactive Map For Your Photos
-* [Weynstag](https://www.google.com/amp/s/weynstag.com/amp.php/) - Video Downloader
-* [Resizegram](https://resizegram.com/) - Resize Videos
-* [PyInstaLive](https://github.com/dvingerh/PyInstaLive) - Download Instagram Livestreams / Replays 
-* [Instagram Download Button](https://greasyfork.org/en/scripts/406535-instagram-download-button) - Add DL Links to Instagram
-* [otzberg](https://www.otzberg.net/iguserid/index.php) or [Find-User-ID](https://codeofaninja.com/tools/find-instagram-user-id/) - ID Finder
-* [Image Counter](https://openuserjs.org/scripts/darkred/Instagram_-_visible_images_counter) - Count Page Images
-* [InstaAddict](https://github.com/Androz2091/instaddict) - Instagram Addiction Test
 
 ***
 
