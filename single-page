@@ -2500,7 +2500,6 @@ Use any **[Base64 Decoding](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/stor
 * [Process Explorer](https://learn.microsoft.com/en-us/sysinternals/downloads/process-explorer), [SystemExplorer](https://systemexplorer.net/) or [Process Hacker](https://processhacker.sourceforge.io/) - Process Monitor
 * [CoreTemp](https://www.alcpu.com/CoreTemp/) - Processor Temperature Monitor
 * [Magic Trace](https://github.com/janestreet/magic-trace) - Diagnose Performance Issues using Intel Processor Trace
-* [Log Parser Lizard](https://lizard-labs.com/log_parser_lizard.aspx) - Log Analyzation Utility
 * [WhyNotWin11](https://github.com/rcmaehl/WhyNotWin11) - Identify why your PC isn't Windows 11 ready
 * [Medicat USB](https://medicatusb.com/) - USB Toolkit
 * [SARDU](https://www.sarducd.it/) - Create Recovery USB Flash Drive or Disk
@@ -2509,7 +2508,6 @@ Use any **[Base64 Decoding](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/stor
 * [balenaEtcher](https://etcher.balena.io/) - Flash OS Image SD / USB / [Mobile](https://etchdroid.depau.eu/)
 * [FOG Project](https://fogproject.org) - OS Depoyment / Managment System
 * [CloverBootloader](https://github.com/CloverHackyColor/CloverBootloader/releases) or [EasyBCD](https://neosmart.net/EasyBCD/) - Bootloader / [Config](https://mackie100projects.altervista.org/)
-* [zfsBootMenu](https://github.com/zbm-dev/zfsbootmenu) - ZFS Bootloader
 * [Hiren’s BootCD PE](https://www.hirensbootcd.org/ or [Win10XPE](https://github.com/ChrisRfr/Win10XPE) - Preinstallation Environments
 * [goldBoot](https://github.com/fossable/goldboot) - Run your OS the exact way everytime
 * [Intel BIOS Guide](https://docs.google.com/document/d/1s43_3YGJIy3zs0ZIksoOmxgrDKnu4ZNhhnXW_NiJZ0I/edit) - Intel BIOS Settings Explanation
@@ -2519,6 +2517,7 @@ Use any **[Base64 Decoding](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/stor
 * [Wu10Man](https://github.com/WereDev/Wu10Man), [stopupdates10](https://greatis.com/stopupdates10/), [InControl](https://www.grc.com/incontrol.htm) or [windows-update-blocker](https://www.sordum.org/9470/windows-update-blocker-v1-7/) - Enable / Disable Windows 10 Updates
 * [ChangeWindows](https://www.changewindows.org/timeline) - Latest Windows Update Info
 * [LegacyUpdate](https://legacyupdate.net/) - Fix Windows Updates for Legacy Editions
+* [Extended Win 7 Updates](https://forums.mydigitallife.net/threads/bypass-windows-7-extended-security-updates-eligibility.80606) - Extended Windows 7 Updates
 * [WUReset](https://wureset.com/) - Reset Windows Update Components
 * [UUP Dump](https://uupdump.net/) - Download Unified Update Platform Files
 * [UUPMediaCreator](https://github.com/gus33000/UUPMediaCreator) - Convert Update Platform Files to Windows Media Files
@@ -2531,7 +2530,6 @@ Use any **[Base64 Decoding](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/stor
 * [SmartWindows](https://smartwindows.app/) - Create / Restore Windows Profiles
 * [VCRedist](https://github.com/abbodi1406/vcredist) - AIO Repack for Microsoft Visual C++ Redists
 * [OcxDump](https://ocxdump.com/) - .ocx Files
-* [JEnv For Windows](https://github.com/FelixSelter/JEnv-for-Windows) - Change Java Version
 * [WinCDEmu](https://wincdemu.sysprogs.org/) - Mount ISOs
 * [x64dbg](https://x64dbg.com/) - Windows Debugging Tool
 * [Boot Failure Troubleshooting Chart](https://i.ibb.co/d2GSKf7/624c64629e27.png) - Boot Failure Troubleshooting Guide
@@ -5873,7 +5871,7 @@ Use any **[Base64 Decoding](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/stor
 * ⭐ **[AirVPN](https://airvpn.org/)** - [Pricing](https://i.ibb.co/8rVJ5JB/c4b813a6b6bc.png)
 * ⭐ **[Windscribe](https://windscribe.com)** - [Pricing](https://ibb.co/tPZZDhC) / Free Version Available / [Improved App](https://github.com/Windscribe/Desktop-App)
 * ⭐ **[Proton](https://protonvpn.com)** - [Pricing](https://ibb.co/gg4VCDR) / No Torrenting w/ Free Version
-* ⭐ **[CryptoStorm](https://cryptostorm.is/)** - [Pricing](https://i.ibb.co/3m849CX/afe46b2ec3ec.png) / [Free tier](https://cryptostorm.is/cryptofree)
+* ⭐ **[CryptoStorm](https://cryptostorm.is/)** - [Pricing](https://i.ibb.co/3m849CX/afe46b2ec3ec.png) / [Free Tier](https://cryptostorm.is/cryptofree)
 * ⭐ **[Riseup](https://riseup.net/en/vpn)** - Free VPN 
 * ⭐ **[Softether](https://www.softether.org/)** - Free VPN / [VPN Gate](https://www.vpngate.net/en/download.aspx) / [Note](https://pastebin.com/TrSw7EpF)
 * ⭐ **[Warp](https://1.1.1.1/)**, [2](https://1.0.0.1/) - Traffic Encryption VPN / [Client](https://github.com/ViRb3/wgcf) / [Unlimited Data](https://github.com/nxvvvv/warp-plus) / [WireGuard Guide](https://rentry.co/foss-warp) / [Warp Warning](https://rentry.co/warpwarning)
@@ -6847,7 +6845,7 @@ title: Guides
 
 * ↪️ **[Android Browsers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_android_browsers)**
 * ↪️ **[File Sharing Apps](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_file_sharing_tools)**
-* ⭐ **[Aliucord](https://github.com/Aliucord/Aliucord)**, [OpenCord](https://github.com/MateriiApps/OpenCord) or [Vendetta](https://github.com/vendetta-mod/Vendetta) - Modded Discord Clients / [Rich Presence](https://github.com/dead8309/Kizzy)
+* ⭐ **[Vendetta](https://github.com/vendetta-mod/Vendetta)**, **[Aliucord](https://github.com/Aliucord/Aliucord)** or [OpenCord](https://github.com/MateriiApps/OpenCord) - Modded Discord Clients / [Rich Presence](https://github.com/dead8309/Kizzy)
 * ⭐ **[Voyager](https://github.com/aeharding/voyager)**, [Jerboa](https://github.com/dessalines/jerboa), [LiftOff](https://github.com/liftoff-app/liftoff), [Infinity](https://codeberg.org/Bazsalanszky/Infinity-For-Lemmy), [Eternity](https://codeberg.org/Bazsalanszky/Eternity), [Muffed](https://github.com/freshfieldreds/muffed) or [Thunder](https://github.com/thunder-app/thunder) - Lemmy Clients
 * ⭐ **[Tusky](https://tusky.app/),** [SubwayTooter](https://github.com/tateisu/SubwayTooter), [Megalodon](https://sk22.github.io/megalodon/) or [Dimett](https://github.com/MateriiApps/Dimett) - Mastodon Clients / [Improved Notifications](https://github.com/LucasGGamerM/moshidon)
 * ⭐ **[KeePassDX](https://www.keepassdx.com/)**, **[BitWarden](https://play.google.com/store/apps/details?id=com.x8bit.bitwarden)**, [Keyspace](https://keyspace.cloud/), [AuthPass](https://authpass.app/), [KeyPass](https://github.com/yogeshpaliyal/KeyPass) or [Keepass2Android](https://github.com/PhilippC/keepass2android) - Password Managers
@@ -7025,7 +7023,6 @@ title: Guides
 
 # ► Android Gaming
 
-* 🌐 **[MinecraftPE Mods](https://minecraftpe-mods.com/)** - Mobile Minecraft Mods
 * 🌐 **[Awesome Pokemon](https://github.com/tobiasbueschel/awesome-pokemon)** - PokemonGO Resources
 * ⭐ **[Now.gg](https://now.gg/)** - Online Gaming Emulator
 * [GameEye](https://play.google.com/store/apps/details?id=com.hairyharri.gameye) - Video Game Tracking App
@@ -9991,7 +9988,7 @@ title: Guides
 * [Curated Programming Resources](https://github.com/Michael0x2a/curated-programming-resources) - Programming Courses
 * [Stack Exchange](https://stackexchange.com/) - Programming Q&A / [App](https://play.google.com/store/apps/details?id=me.tylerbwong.stack)
 * [Learn X in Y minutes](https://learnxinyminutes.com/), [2](https://github.com/adambard/learnxinyminutes-docs) - Programming Language Rundowns
-* [HEAD](https://htmlhead.dev/) - HTML head Element Guide
+* [HEAD](https://htmlhead.dev/) - HTML `<head>` Element Guide
 * [Typing.io](https://typing.io/) - Typing Practice for Programmers 
 * [Karel The Robot](https://github.com/fredoverflow/karel) - Basic Programming Teaching Environment
 * [Project Based Learning](https://github.com/practical-tutorials/project-based-learning) - Collection of Project-Based Tutorials
@@ -10678,7 +10675,7 @@ title: Guides
 * [Codux](https://www.codux.com/) - Visual IDE for React
 * [React95](https://react95.io/) - Windows 95 React Components
 * [React SVG](https://react-svgr.com/playground/) - Convert SVG to React Components
-* [Zorm](https://github.com/esamattis/react-zorm) - Type-safe form for React
+* [Zorm](https://github.com/esamattis/react-zorm) - Type-safe `<form>` for React
 * [Million](https://github.com/aidenybai/million) - React Replacement
 * [novu](https://novu.co/) - Real-Time React Notifications / [GitHub](https://github.com/novuhq/novu)
 * [React Use](https://github.com/streamich/react-use) - React Hooks 
@@ -11070,6 +11067,7 @@ title: Guides
 * [Beautifier](https://beautifier.io/) - JavaScript Beautifier
 * [UglifyJS](https://skalman.github.io/UglifyJS-online/) or [JavaScript Compressor](https://javascriptcompressor.com/) - JavaScript Minifier
 * [bytecode-viewer](https://github.com/Konloch/bytecode-viewer), [JDec](https://jdec.app/), [jd-gui](https://github.com/java-decompiler/jd-gui), [Krakatau](https://github.com/Storyyeller/Krakatau), [Luyten](https://github.com/deathmarine/Luyten) or [Fernflower](https://github.com/fesh0r/fernflower) - Java Decompilers
+* [JEnv For Windows](https://github.com/FelixSelter/JEnv-for-Windows) - Change Java Version
 * [Obfuscator](https://obfuscator.io/) - JavaScript Obfuscator
 * [anime.js](https://animejs.com/) - JavaScript Animation Library / [GitHub](https://github.com/juliangarnier/anime/)
 * [randomcolor](https://randomcolor.lllllllllllllllll.com/) - Random Javascript Color Generator
@@ -11086,7 +11084,7 @@ title: Guides
 * [JSON Bin](https://jsonbin.io/) - JSON Host
 * [Countries](https://github.com/mledoze/countries) - World Countries in JSON, CSV, XML & YAML
 * [PlantText](https://www.planttext.com/) - UML Editor
-* [glogg](https://glogg.bonnefon.org/) - Log File Explorer
+* [glogg](https://glogg.bonnefon.org/) or [Log Parser Lizard](https://lizard-labs.com/log_parser_lizard.aspx) - Log Analyzation Utilities
 * [Code::Stats](https://codestats.net/) or [Wakatime](https://wakatime.com/) - Programmer Stat Tracking
 * [oq](https://github.com/Blacksmoke16/oq) - Programming Language Processor
 * [Tables Generator](https://www.tablesgenerator.com/) - Generates Tables in Various Languages
@@ -12376,6 +12374,7 @@ title: Guides
 * [howtodebuntu](https://github.com/themagicalmammal/howtolinux) - Tweaks for Debian Based Distros
 * [WoeUSB](https://github.com/WoeUSB/WoeUSB) or [Windows2USB](https://github.com/ValdikSS/windows2usb) - Create Bootable USB Windows Drives
 * [CloverBootloader](https://github.com/CloverHackyColor/CloverBootloader/releases) - Windows, Mac & Linux Bootloader / [Config](https://mackie100projects.altervista.org/)
+* [zfsBootMenu](https://github.com/zbm-dev/zfsbootmenu) - ZFS Bootloader
 * [Linux Heads](https://osresearch.net/) - Minimal CoreBoot / [GitHub](https://github.com/osresearch/heads)
 * [GParted](https://gparted.org/) - Partition Manager
 * [ArchTitus](https://github.com/ChrisTitusTech/ArchTitus), [archinstall](https://github.com/archlinux/archinstall) or [Anarchy](https://anarchyinstaller.gitlab.io/) - Arch Linux Installer
@@ -19144,7 +19143,7 @@ Use [this](https://bitbucket.org/magnolia1234/bypass-paywalls-firefox-clean/src/
 * [Calypto’s Latency Guide](https://docs.google.com/document/d/1c2-lUJq74wuYK1WrA_bIvgb89dUN0sj8-hO3vqmrau4/), [MoreFPS](https://morefps.net/), [cancerogenoslab](https://sites.google.com/view/cancerogenoslab/) or [MikeMartin](https://www.mikemartin.co/) - FPS / Latency Guides
 * [LatencyFleX](https://github.com/ishitatsuyuki/LatencyFleX) or [HoneCtrl](https://github.com/auraside/HoneCtrl) - Latency Reduction / FPS Fixes
 * [Fraps](https://fraps.com/), [OCAT](https://gpuopen.com/ocat/) / [GitHub](https://github.com/GPUOpen-Tools/ocat), [Rivatuner Statistics Server](https://www.guru3d.com/files-details/rtss-rivatuner-statistics-server-download.html), [CapFrameX](https://www.capframex.com/) or [Xbox Game Bar](https://rentry.co/WindowsFPS) - FPS Benchmarking
-* [Ping Enhancer](https://www.wowinterface.com/downloads/info16336-PingEnhancer.html), [ExitLag](https://github.com/Borisizdabezt/exitlag-hwid-spoofer) / [Guide](https://youtu.be/Ga0z5xwZyUA) or [SSTap](https://github.com/FQrabbit/SSTap-Rule/releases/tag/SSTap常用版本及去广告) - Decrease Ping
+* [Ping Enhancer](https://www.wowinterface.com/downloads/info16336-PingEnhancer.html) or [SSTap](https://github.com/FQrabbit/SSTap-Rule/releases/tag/SSTap常用版本及去广告) - Decrease Ping
 * [Overclock](https://www.overclock.net/) - Overclocking Forum
 * [Ryzen Master Utility](https://www.amd.com/en/technologies/ryzen-master) - Overclocking Control for Ryzen Desktop CPU
 * [AMD-APU-Tuning-Utility](https://github.com/JamesCJ60/Universal-x86-Tuning-Utility) - AMD APU Tuning
@@ -19225,7 +19224,6 @@ Use [this](https://bitbucket.org/magnolia1234/bypass-paywalls-firefox-clean/src/
 * [Fall Guys Perfect Match](https://fall-guys-perfect-match.netlify.app/) - Fall Guys Fruit Tracker
 * [Fortnite Tracker](https://fortnitetracker.com/) - Fortnite Leaderboards / Stats
 * [FortniteEXP](https://www.fortnitexp.net/) - Fortnite XP Progression / Leveling Rates
-* [Universal VPN Fixer](https://github.com/samfisherirl/VPNGamingPauser/) - Auto Pause VPN While Gaming Online
 * [Slippi](https://slippi.gg/) - Super Smash Bros Melee Online 
 * [CrewLink](https://github.com/ottomated/CrewLink) - Among Us Proximity Chat
 * [Impostor](https://impostor.github.io/Impostor/) - Among Us Private Server
@@ -19255,7 +19253,6 @@ Use [this](https://bitbucket.org/magnolia1234/bypass-paywalls-firefox-clean/src/
 * [modsman](https://github.com/sargunv/modsman), [Pax](https://github.com/froehlichA/pax) or [Mod Manager](https://github.com/kaniol-lck/modmanager) - Minecraft Mod Managers
 * [r/feedthebeast](https://reddit.com/r/feedthebeast/) - Minecraft Mod Discussion Subreddit
 * [Minecraft Command Science](https://minecraftcommand.science/) - Minecraft Command Generator
-* [Aristois](https://aristois.net/) or [Meteor Client](https://meteorclient.com/) - Minecraft Utility Mod
 * [Minecraft Performance Flags](https://github.com/brucethemoose/Minecraft-Performance-Flags-Benchmarks) - Java Minecraft Benchmarks
 * [No Telemetry](https://modrinth.com/mod/no-telemetry) - Disable Telemetry Data
 * [Data Pack Generators](https://misode.github.io/) - Minecraft Data Pack Generators 
@@ -19269,7 +19266,6 @@ Use [this](https://bitbucket.org/magnolia1234/bypass-paywalls-firefox-clean/src/
 * [CraftyControl](https://craftycontrol.com/), [MCSManager](https://github.com/MCSManager/MCSManager) or [Fork](https://www.fork.gg/) - Minecraft Server Managers
 * [Minecraft Server Scanner](https://github.com/Footsiefat/Minecraft-Server-Scanner) - Minecraft Server Info
 * [NameMC](https://namemc.com/) - Minecraft Name Availability Tracker
-* [2Bored2Wait](https://github.com/themoonisacheese/2bored2wait) - 2B2T Queue Proxy
 * [Setup.md](https://setup.md/) - Server Admin Guides
 * [mcsrvstat](https://mcsrvstat.us/) - Server Status Updates
 * [LazyMc](https://github.com/timvisee/lazymc) - Idle Minecraft Server 
@@ -19284,17 +19280,12 @@ Use [this](https://bitbucket.org/magnolia1234/bypass-paywalls-firefox-clean/src/
 * [Amulet](https://www.amuletmc.com/) or [uNmINeD](https://unmined.net/) - Minecraft Map Editor / Viewer
 * [MinecraftSeeds](https://minecraftseeds.io/) - Minecraft Seeds
 * [MineAtlas](http://mineatlas.com/) or [MCSeeder](https://mcseeder.com/) - Minecraft Seed Maps
-* [SeedcrackerX](https://github.com/19MisterX98/SeedcrackerX) - Minecraft Seed Cracker
-* [Terra](https://github.com/PolyhedralDev/Terra) - Minecraft World Generator
 * [TerraForged](https://www.curseforge.com/minecraft/mc-mods/terraforged) - Improved Biomes Mod
 * [Biomes-O-Plenty](https://www.curseforge.com/minecraft/mc-mods/biomes-o-plenty) - Extra Biomes Mod
-* [Water-Physics-Overhaul](https://www.curseforge.com/minecraft/mc-mods/water-physics-overhaul) - Realistic Minecraft Water Physics
 * [Fabric-Bedrock-Miner](https://github.com/LXYan2333/Fabric-Bedrock-Miner) - Minecraft Bedrock Miner
 * [Outvoted](https://www.curseforge.com/minecraft/mc-mods/outvoted) - Outvoted Minecraft Live Mobs
 * [MCrev](https://github.com/mcrax/mcrev) - Windows 10 Minecraft License Bypasser
 * [Voyager](https://voyager.minedojo.org/) - Minecraft AI
-* [Baritone](https://github.com/cabaletta/baritone) - Minecraft Pathfinding System
-* [Sigma-Deleter](https://github.com/XatzClient/Sigma-Deleter) or [Sigma-Wiper](https://github.com/owersite/sigma-wiper) - Remove Sigma Miner
 * [MCDF](https://mcdf.wiki.gg/) - Discontinued Minecraft Features Wiki
 
 ***
