@@ -698,7 +698,6 @@
 * [FireStorm Viewer](https://www.firestormviewer.org/) - Virtual World Viewer
 * [Alive](https://greasyfork.org/en/scripts/418770-colab-alive) - Bypass Google Colab Limit Colab
 * [YakYak](https://github.com/yakyak/yakyak) - Google Hangouts Desktop Client 
-* [Indirect](https://apps.microsoft.com/store/detail/indirect/9PHW4KJ8JVNZ) - Instagram Desktop Messenger
 * [ExportComments](https://exportcomments.com/) - Export Social Media Comments 
 * [divr.it](https://dlvrit.com/) - Social Media Automation Tool
 * [EagleEye](https://github.com/ThoughtfulDev/EagleEye) - Find Social Media Profiles From Image
@@ -1130,7 +1129,6 @@
 * [Discord Downloader Go](https://github.com/get-got/discord-downloader-go) - Discord File Downloaders
 * [Discord-Image-Scraper](https://github.com/17teen/Discord-Image-Scraper) - Discord Image Downloaders
 * [Tiktok-Auto-Embed](https://github.com/dumax315/Tiktok-Auto-Embed) - Discord TikTok Embed Downloader
-* [InstaFix](https://ddinstagram.com/) - Fix Instagram Embeds
 * [SimpleDiscordCrypt](https://gitlab.com/An0/SimpleDiscordCrypt) - Discord Message Encryption
 * [LAN Party VPN](https://github.com/gyf304/lpvpn) - Run VPN on top of Discord
 * [discord-neofetch](https://github.com/savioxavier/discord-neofetch) - Neofetch Style Discord Info
@@ -1540,7 +1538,29 @@
 
 ***
 
-## ▷ [Instagram Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/img-tools#wiki_.25B7_instagram_tools)
+## ▷ Instagram Tools
+
+* 🌐 **[Instagram Tools](https://www.aware-online.com/en/osint-tools/instagram-tools/)** - Multiple Tools
+* 🌐 **[Osintgram](https://github.com/Datalux/Osintgram)**, [Toutatis](https://github.com/megadose/toutatis) or [Sterraxcyl](https://github.com/novitae/sterraxcyl) - Instagram OSINT Tools
+* 🌐 **[Instagram Search Tools](https://www.aware-online.com/en/osint-tools/instagram-search-tool/)** - Search Tool
+* ⭐ **[Bypass Login](https://greasyfork.org/en/scripts/420604)** - Bypass Instagram Login Redirects
+* [GridsApp](https://gridsapp.net/) or [Indirect](https://apps.microsoft.com/store/detail/indirect/9PHW4KJ8JVNZ) - Desktop Clients
+* [InstaFix](https://ddinstagram.com/) - Fix Instagram Embeds on Discord
+* [imgsed](https://imgsed.com/), [Picuki](https://www.picuki.com/), [InstaNavigation](https://instanavigation.com/), [Instafreeview](https://instafreeview.com/), [profile-picture-viewer](https://github.com/Ademking/profile-picture-viewer), [Dumpor](https://dumpoir.com/) or [GreatFon](https://greatfon.com/) - Instagram Viewers
+* [Instagram-Explorer](https://www.osintcombine.com/instagram-explorer) - Explore Pictures by Location 
+* [StoriesDown](https://storiesdown.com/), [instasaved](https://instasaved.net/en) or [insta-stories-viewer](https://insta-stories-viewer.com/) - Story Downloaders
+* [SaveFromWeb](https://www.savefromweb.com/), [High-Resolution-Downloader](https://github.com/ehmorris/High-Resolution-Downloader-For-Instagram), [Downloadgram](https://downloadgram.org/) or [Instagram-crawler](https://github.com/hehpollon/Instagram-crawler) - Video / Picture / Story Downloaders 
+* [Picnob](https://www.picnob.com/) or [Instagram PHP Scraper](https://github.com/postaddictme/instagram-php-scraper) - Picture / Story Downloaders
+* [ThumbTube](https://thumbtube.com/download-instagram-photos-videos), [Instagram Scraper](https://github.com/dankmemes/instagram-scraper), [InstaLooter](https://github.com/althonos/InstaLooter), [scraper-instagram-gui-desktop](https://git.kaki87.net/KaKi87/scraper-instagram-gui-desktop), [Instaloader](https://github.com/instaloader/instaloader) or [instapick](https://www.instapick.net/) - Picture / Video Downloader
+* [4K Stogram](https://www.4kdownload.com/products/stogram-8) or [InstaLoader](https://instaloader.github.io/) - Picture Downloader
+* [Photo Map](https://levionsoftware.com/) - Interactive Map For Your Photos
+* [Weynstag](https://www.google.com/amp/s/weynstag.com/amp.php/) - Video Downloader
+* [Resizegram](https://resizegram.com/) - Resize Videos
+* [PyInstaLive](https://github.com/dvingerh/PyInstaLive) - Download Instagram Livestreams / Replays 
+* [Instagram Download Button](https://greasyfork.org/en/scripts/406535-instagram-download-button) - Add DL Links to Instagram
+* [otzberg](https://www.otzberg.net/iguserid/index.php) or [Find-User-ID](https://codeofaninja.com/tools/find-instagram-user-id/) - ID Finder
+* [Image Counter](https://openuserjs.org/scripts/darkred/Instagram_-_visible_images_counter) - Count Page Images
+* [InstaAddict](https://github.com/Androz2091/instaddict) - Instagram Addiction Test
 
 ***
 
