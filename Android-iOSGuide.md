@@ -36,7 +36,6 @@
 * ⭐ **[Androeed](https://androeed.store/)** / [Telegram](https://t.me/androeed_store)
 * ⭐ **[Modyolo](https://modyolo.com/)**
 * [nsane.down](https://nsaneforums.com/)
-* [RevDl](https://www.revdl.com/)
 * [Sbenny](https://sbenny.com/)
 * [farsroid](https://www.farsroid.com/)
 * [AndroidRepublic](https://androidrepublic.org/)
