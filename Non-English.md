@@ -203,31 +203,27 @@
 
 * [Jiumo](https://www.jiumodiary.com/) - Book Search Engine
 * [BooksThatMakeYouThink](https://t.me/BooksThatMakeYouThink) - Nonfiction
-* [shuge](https://www.shuge.org/) - Books / Audiobooks / Legal
+* [shuge](https://www.shuge.org/) - Rare / Ancient Books
 * [haodoo](https://haodoo.net/) - Books
-* [Pilibook](https://www.pilibook.com/) - Books
-* [ixdzs](https://tw.ixdzs.com/) - Books
-* [shuhai](https://www.shuhai.vip/) - Books
-* [xxbiqudu](https://www.xxbiqudu.com) - Books
-* [lingjingxingzhe](https://lingjingxingzhe.com/) - Books
-* [Shuxiangjia](https://www.shuxiangjia.cn/) - Books
+* [AutumnWindBookstore](https://www.qiufengshuwu.com/) - Fiction
+* [ixdzs](https://ixdzs.tw/) - Fiction
+* [shuhai](https://www.shuhai.vip/) - Novels
+* [xxbiqudu](https://www.xxbiqudu.com/) - Novels
+* [lingjingxingzhe](https://lingjingxingzhe.com/) - Novels
 * [52shuku](https://www.52shuku.vip/) - Books / Light-Novels
 * [ttkan](https://www.ttkan.co) - Books / Light-Novels
-* [qqszz](https://www.qqszz.net/) - Books / Light-Novels
+* [qqszz](https://www.qqszz.net/) - Books / Light-Novels / Requires Sign-up
 * [Huangdizhijia](https://www.huangdizhijia.com/index.html) - Books / Light-Novels
 * [118book](https://www.118book.com/) - Books / Light-Novels
 * [ptwxz](https://www.ptwxz.com/) - Books / Light-Novels
 * [AC.QQ](https://ac.qq.com/) - Manga
 * [BiliBili](https://manga.bilibili.com/) - Manga
 * [manhuagui](https://www.manhuagui.com/) - Manga
-* [manwa](https://manwa.me/) - Manga
 * [DMZJ](https://www.dmzj.com/) - Manga
 * [xlsmh](https://www.xlsmh.com) - Manga
 * [Laimanhua](https://www.laimanhua8.com/) - Manga
 * [Mangabz](https://www.mangabz.com/) - Manga
-* [Ythuiju](https://www.ythuiju.com/) - Manga
 * [uukanshu](https://www.uukanshu.com/) - Light-Novels
-* [linovelib](https://www.linovelib.com/) - Light-Novels
 * [vvbiquge](http://www.vvbiquge.cc/) - Light-Novels
 * [lightnovel.us](https://www.lightnovel.us/) - Light-Novels
 * [txt900](https://www.txt990.org/) - Light-Novels
@@ -236,21 +232,18 @@
 * [Zongheng](https://www.zongheng.com/) - Light-Novels
 * [Bixiange](https://www.bixiange.top/) - Light-Novels
 * [ijjjxs](http://www.ijjjxs.net/) - Light-Novels
-* [118book](https://www.118book.com/) - Light-Novels
 * [qinkan](https://www.qinkan.net/) - Light-Novels
 * [ffxs8](https://ffxs8.com/) - Light-Novels
 * [Piaotian](https://www.ptwxz.com/) - Light-Novels
 * [Baozimh](https://www.baozimh.com/) - Webtoons
 * [Doujin Fiction Network](https://www.trxs.me/) or [Readfine](https://t.me/Readfine) / [Discussion](https://t.me/ReadfineChat) - FanFiction
-* [ishare.iask](https://ishare.iask.sina.com.cn/) - Documents
-* [Baidu](https://xueshu.baidu.com/) - Science Document Search
-* [CText](https://ctext.org/), [ChineseNotes](https://chinesenotes.com/) or [Kanripo](https://www.kanripo.org/) - Chinese Historic Text Archive
+* [ishare.iask](https://ishare.iask.sina.com.cn/) - Educational Documents
+* [CText](https://ctext.org/), [ChineseNotes](https://chinesenotes.com/texts.html) or [Kanripo](https://www.kanripo.org/) - Chinese Historic Text Archive
 * [guoxue](http://www.guoxue.com/) - History / Journals
 * [ebooks](https://github.com/XWHQSJ/ebooks), [Chinese Programming Books](https://github.com/justjavac/free-programming-books-zh_CN) or [awesome-wiki-books](https://github.com/awesome-wiki/awesome-wiki-books), [Banshujiang](http://www.banshujiang.cn/) - Programming Books
 * [Moedict](https://www.moedict.tw/), [dict.cn](https://dict.cn/), [CantoDict](https://www.cantonese.sheik.co.uk/scripts/wordlist.htm) or [ZDic](https://www.zdic.net/) - Chinese Dictionary
 * [kangxizidian](https://kangxizidian.com/) - Chinese Kangxi Dictionary
 * [Shufazidian](https://www.shufazidian.com/) - Chinese Calligraphy Dictionary
-* [jikipedia](https://jikipedia.com/) - Chinese Urban Dictionary
 * [CCams](http://www.ccamc.co/) - Chinese Character Search
 * [CBeta](https://www.cbeta.org/) - Chinese Buddhist Scriptures
 * [Open Literature](http://open-lit.com/html/) - Classic Chinese Novels
@@ -258,7 +251,6 @@
 * [Legado](https://github.com/gedoor/legado) - Android Ebook Reader
 * [wenku](https://pypi.org/project/wenku/) - Baidu Wenku Downloader
 * [Trtag](https://trtag.com/) - Movies / TV Encyclopaedia
-* [Taiwan Ebook Lover](https://taiwan-ebook-lover.github.io/) - Compare Book Prices
 
 ***
 
@@ -269,12 +261,12 @@
 
 ## ▷ Downloading
 
-* [War-Forum](https://war-forum.net/) - Video / Audio/ Books / Magazines / Comics / NSFW
-* [WarezCenter](https://warcenter.cz/) - Video / Audio/ Books / NSFW
+* [War-Forum](https://war-forum.net/) - Video / Audio / Books / Magazines / Comics / NSFW
+* [WarezCenter](https://warcenter.cz/) - Video / Audio / Books / NSFW
 
 ## ▷ Torrenting
 
-* [hd-cztorrent](http://www.hd-cztorrent.cz/) - Video / Audio/ NSFW
+* [hd-cztorrent](http://www.hd-cztorrent.cz/) - Video / Audio / NSFW
 
 ## ▷ Streaming
 
@@ -286,11 +278,10 @@
 
 ## ▷ Streaming
 
-* [Pinoy Movies Hub](https://pinoymovieshub.mx/) - Movies
-* [Pinoymoviepedia](https://pinoymoviepedia.ru/) - Movies
-* [MoviesniPipay](https://moviesnipipay.me/) - Movies / TV
-* [Pinoyflix](https://pinoyflix.to/) - Movies / TV
-* [Pinoy TV](https://opaua.com/) - TV
+* [Movies Ni Pipay](https://moviesnipipay.me/) - Movies / TV / Sub / 1080p
+* [Pinoy Movies Hub](https://pinoymovieshub.mx/) - Movies / TV / Sub / Dub / 720p
+* [Pinoymoviepedia](https://pinoymoviepedia.ru/) - Movies / TV / NSFW / Dub / 720p
+* [PinoyFlix](https://pinoyflix.to/) - Movies / TV / NSFW / Dub / 720p
 * [Pinoy Albums](https://pinoyalbums.com/) - Music
 
 ***
@@ -301,8 +292,8 @@
 
 ## ▷ Streaming
 
-* [Elonet](https://elonet.finna.fi/) - Movies
-* [Areena](https://areena.yle.fi/) - Movies / TV
+* [Elonet](https://elonet.finna.fi/) - Classic Movies
+* [Areena](https://areena.yle.fi/) - Movies / TV / 1080p
 
 ## ▷ Reading
 
