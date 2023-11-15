@@ -1548,10 +1548,7 @@
 
 * 🌐 **[Awesome Windows 11](https://github.com/awesome-windows11/windows11)** - Windows 11 Resources
 * 🌐 **[PC-Optimization-Hub](https://github.com/BoringBoredom/PC-Optimization-Hub)** or [All About Windows](https://github.com/luke-beep/all-about-windows) - Windows Optimization Resources
-
-https://github.com/amitxv/PC-Tuning
-
-
+* 🌐 **[PC-Tuning Guide](https://github.com/amitxv/PC-Tuning)** - PC-Tuning guide for latency reduction or outdoing traffic reduction / *Do not use with existing installation, use when making ISO*
 * 🌐 **[Awesome Forensics](https://github.com/cugu/awesome-forensics)** - System Forensic Resources
 * 🌐 **[Awesome Raspberry Pi](https://rpi.thibmaek.com/)** - Rasberry Pi Resources / [GitHub](https://github.com/thibmaek/awesome-raspberry-pi)
 * 🌐 **[Awesome BSD](https://github.com/DiscoverBSD/awesome-bsd)** - BSD OS Resources
