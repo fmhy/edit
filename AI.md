@@ -128,6 +128,7 @@
 * [PromptPerfect](https://promptperfect.jina.ai/) or [GeniePT](https://www.geniept.com/ ) - Prompt Optimization
 * [promptfoo](https://github.com/typpo/promptfoo) or [PromptKnit](https://promptknit.com/) - Prompt Playgrounds
 * [botprompts](https://botprompts.net/) - Fun Prompts
+* [Marketing 2099](https://sintralabs.notion.site/Marketing-2099-Ultimate-ChatGPT-Marketing-Prompts-To-Copy-Paste-200-tasks-fc22c9142d6a4a4286a3fe755be932e6) - ChatGPT Marketing Prompts
 * [ChatGPT-History](https://github.com/benf2004/ChatGPT-Prompt-Genius) - Prompt Management Extensions
 * [/r/ChatGPTJailbreak](https://www.reddit.com/r/ChatGPTJailbreak/) or [/r/GPT_Jailbreaks](https://www.reddit.com/r/GPT_jailbreaks/) - GPT Jailbreak Subreddits
 
