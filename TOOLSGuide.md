@@ -1921,7 +1921,6 @@
 * [Google Drive PDF Downloader](https://github.com/zeltox/Google-Drive-PDF-Downloader) - Download Protected GDrive PDFs
 * [PDFCoffee](https://pdfcoffee.com/) - Upload PDF, Word or PowerPoint Files
 * [Adobe Sign](https://www.adobe.com/acrobat/online/sign-pdf.html) - Fill & sign a PDF
-* [Mega-Import-Bypass](https://github.com/Cyberavater/Mega-Import-Bypass) or [MEGA Ultimately Import](https://katb.in/atoyuxomuba) - Mega Import Limit Bypass Scripts
 * [megatools](https://megatools.megous.com/) - Mega CLI
 * [Mega-Downloader](https://github.com/ZonD80/mega-downloader) - Mega Download Script
 * [Mega.nz-Rclone-Index-Heroku](https://github.com/developeranaz/Mega-index-heroku) - Mega to HTTP
@@ -1929,7 +1928,6 @@
 * [MegaKeep](https://github.com/maybecryptic/MegaKeep) - Login to Multiple Mega Accounts
 * [mega-account-generator](https://github.com/lem6ns/mega-account-generator), [2](https://github.com/crackhub-dev/mega-account-generator) - Mega Account Generators
 * [Mega Checker](https://github.com/Titoot/mega-checker) - Mega Link Checker
-* [Unlimited Mega Storage](https://redd.it/ffrkf3) - Unlimited Mega Storage Guide
 * [Mega-index-heroku](https://github.com/developeranaz/Mega-index-heroku) - Serve Mega to HTTP via Heroku
 * [GDrive Guides](https://t.me/gdriveguides) - GDrive Guides / Discussion / [Support](https://t.me/CloneSupport)
 * [Any File to GDrive](https://github.com/menukaonline/Any-file-to-Google-Drive) - DDL to GDrive Tool
