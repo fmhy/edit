@@ -4,12 +4,12 @@
 ***
 ***
 
-**[Table of Contents](https://i.ibb.co/vx9L38t/6dcb469e7955.png)** - For mobile users
+**[Table of Contents](https://ibb.co/h7BR9k9)** - For mobile users
 
 ***
 ***
 
-# ► Audiobook Sites
+# ► Audiobooks
 
 * ⭐ **[Mobilism Audiobooks](https://forum.mobilism.org/viewforum.php?f=124)**
 * ⭐ **[Audiobook Bay](https://audiobookbay.is/)** - Torrents / Avoid Fake DL links, Use [Torrents / Magnets](https://i.ibb.co/8sV2061/0fa8159b11bb.png)
@@ -51,7 +51,7 @@
 
 ***
 
-# ► Reading Sites
+# ► Ebooks
 
 * 🌐 **[Shadow Libraries](https://shadowlibraries.github.io/)** - Ebook Site Index
 * 🌐 **[/r/Ebook_Resources](https://reddit.com/r/EBook_Resources/)** - Ebook Resources
@@ -92,7 +92,7 @@
 * [DPLA](https://dp.la/) - Books
 * [Books'Cool](https://en.novelonlineread.com/) - Books
 * [Dirzon](https://www.dirzon.com/) - Books
-* [VK eBook Sharing Group](https://vk.com/club162811046) - Books / Also try `site:vk.com` in searches
+* [VK eBook Sharing Group](https://vk.com/club162811046) - Books / Also try site:vk.com in searches
 * [EBooksCart](https://ebookscart.com/) - Books
 * [Index of /Books](https://github.com/nbats/FMHYedit/blob/main/base64.md#index-of-books) - Books
 * [Novel12](https://novel12.com/) - Books
@@ -106,7 +106,6 @@
 * [ReadOnlineFreeBook](https://readonlinefreebook.com/) - Books
 * [All Books Hub](https://allbookshub.com/) - Books
 * [ebooksz](https://ebooksz.net/) - Books
-* [BBooks](https://bbooks.info/) - Books
 * [English E-Reader](https://english-e-reader.net/) - Books
 * [BookPDF](https://en.bookpdf.org/) - Books
 * [E-Books Directory](https://www.e-booksdirectory.com/) - Books
@@ -167,14 +166,10 @@
 
 ***
 
-## ▷ Classic Sites
+## ▷ Classic Books
 
-* [Classic Bookshelf](http://www.classicbookshelf.com/library/)
 * [Page by Page Books](https://www.pagebypagebooks.com/)
 * [Luminarium](https://www.luminarium.org/)
-* [Questia](https://www.gale.com/databases/questia)
-* [Balwin of Library](https://ufdc.ufl.edu/baldwin/all/thumbs)
-* [Read.gov](https://www.read.gov/books/)
 * [Classic Literature](https://classic-literature.co.uk/)
 * [Freeditorial](https://freeditorial.com/)
 * [Lit2Go](https://etc.usf.edu/lit2go/)
@@ -329,7 +324,7 @@
 
 ***
 
-# ► Educational Sites
+# ► Educational Books
 
 * 🌐 **[IvyPanda](https://ivypanda.com/blog/1000-open-textbooks-and-learning-resources-for-all-subjects/)** - Educational Book Site Index
 * 🌐 **[Awesome AI](https://github.com/owainlewis/awesome-artificial-intelligence#free-content)** - Artificial Intelligence Books
@@ -450,7 +445,7 @@
 
 ***
 
-## ▷ History Sites
+## ▷ History Books
 
 * ↪️ **[Historical Audiobooks Collection](https://github.com/nbats/FMHYedit/blob/main/base64.md#historical-audiobooks-collection)**
 * ⭐ **[Project Gutenberg](https://www.gutenberg.org/)** - Historical Fiction / Nonfiction / [Australia](https://gutenberg.net.au/) / [Canada](https://gutenberg.ca/index.html) / [Nordic](http://runeberg.org/)
@@ -497,7 +492,7 @@
 
 ***
 
-## ▷ Programming Sites
+## ▷ Programming Books
 
 * ⭐ **[O'Reilly](https://www.oreilly.com/)** - Tech / Programming / [Downloader](https://github.com/lorenzodifuccia/safaribooks) / Infinite trial by clearing cookies & making new account
 * ⭐ **[ForCoder](https://forcoder.su/)**, [ScanLibs](https://scanlibs.com/) or [CoderProg](https://coderprog.com/)
@@ -658,7 +653,7 @@
 
 ***
 
-## ▷ Manual Sites
+## ▷ Manuals
 
 * 🌐 **[Manuals & Schematics](https://redd.it/nlw3er),** [SafeManuals](https://safe-manuals.com/), [Manuzoid](https://manuzoid.com/), [manualzz](https://manualzz.com/), [ManualsNet](https://manualsnet.com/), [manua.ls](https://www.manua.ls/) or [ManualsLib](https://www.manualslib.com/) - Manual Directories
 * [ManualLib](https://www.manuallib.com/) - Manual Search
@@ -753,9 +748,9 @@
 
 ***
 
-# ► Visual Media Sites
+# ► Visual Media
 
-## ▷ Comic Sites
+## ▷ Comics
 
 * ⭐ **[ReadComicsOnline](https://readcomiconline.li/)**
 * ⭐ **[ReadAllComics](https://readallcomics.com/)**
@@ -806,7 +801,7 @@
 
 ***
 
-## ▷ Manga Sites
+## ▷ Manga
 
 * 🌐 **[Wotaku](https://wotaku.moe/)** - Japanese Piracy Index
 * 🌐 **[The Index](https://theindex.moe)** - Japanese Media Index / [Discord](https://discord.gg/Snackbox) / [Wiki](https://thewiki.moe/)
@@ -946,7 +941,7 @@
 
 ***
 
-## ▷ Light Novel Sites
+## ▷ Light Novels
 
 * 🌐 **[The Index](https://theindex.moe/library/novels)** - Light Novel Site Index / [Discord](https://discord.gg/Snackbox) / [Wiki](https://thewiki.moe/)
 * ⭐ **[Novel OneDrive Index](https://novel-indx.vercel.app/)**
@@ -1026,7 +1021,7 @@
 
 ***
 
-## ▷ Magazine Sites
+## ▷ Magazines
 
 * ⭐ **[Mobilism Magazines](https://forum.mobilism.org/viewforum.php?f=123)**
 * ⭐ **[PDFMagazines](https://pdfmagazines.club/)**
@@ -1061,7 +1056,7 @@
 
 ***
 
-## ▷ Newspaper Sites
+## ▷ Newspapers
 
 * ↪️ **[Worldwide News Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_worldwide_news_sites_index)**
 * ⭐ **[Mobilism Newspapers](https://forum.mobilism.org/viewforum.php?f=123)**
