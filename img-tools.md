@@ -154,7 +154,6 @@
 * [05x5](https://csh.bz/line/05x5.html) - Rainbow Pattern Generator
 * [overwhale](http://overwhale.com/) - Fractal Image Generators
 * [PEmbroider](https://github.com/CreativeInquiry/PEmbroider) - Embroidery Generator
-* [TierMaker](https://tiermaker.com/) - Tier List Image Creator
 * [Hugin](https://hugin.sourceforge.io/) or [Ice](https://www.microsoft.com/en-us/research/product/computational-photography-applications/image-composite-editor/) - Panorama Image Generator
 * [PhotoEphemeris](https://photoephemeris.com/) - Photography Sunlight Calculator
 * [Side It](https://sideit.app/) - Side by Side Image Generator
@@ -181,7 +180,6 @@
 * [PSDcovers](https://www.psdcovers.com/), [mockups-design](https://mockups-design.com/), [zippypixels](https://zippypixels.com/), [Mockups](https://mockups.pixeltrue.com/), [medialoot](https://medialoot.com/free-mockups/) or [MockupsForFree](https://mockupsforfree.com/) - Product Mockups
 * [Venngage](https://venngage.com/) - Infographic Maker
 * [Quote Maker](https://quotescover.com/) - Quote Picture Generator
-* [MyNameArt](https://www.mynameart.com/) or [Kisseo](https://www.kisseo.com/) - Custom Greetings Cards
 * [SponsorKit](https://github.com/antfu/sponsorkit) - Patreon Sponsor Image Generator
 * [Verbex](https://www.vedbex.com/fakeproof) - Fake "Proof" Generator
 * [FakeReceipt](http://www.fakereceipt.us/) - Create Fake Receipts
@@ -200,7 +198,7 @@
 * [CLIP-GLaSS](https://colab.research.google.com/drive/1fWka_U56NhCegbbrQPt4PWpHPtNRdU49?usp=sharing#scrollTo=zvZFRZtcv8Mp) - Image Generation Tool 
 * [Random Art](https://www.random-art.org/) - Random Art Generator
 * [No Paint](https://nopaint.art/) - Press "Paint" if you like what you see, "No" if you don't 
-* [Chimera Painter](https://storage.googleapis.com/chimera-painter/index.html) - Chimera Generator 
+* [Chimera Painter](https://storage.googleapis.com/chimera-painter/index.html) - Chimera Generator
 
 ***
 
