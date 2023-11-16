@@ -257,7 +257,7 @@
 * ⭐ **[/r/explainlikeimfive](https://www.reddit.com/r/explainlikeimfive/)** - Have Anything Explained Very Simply
 * ⭐ **[Spreeder](https://www.spreeder.com/)** - Learn to Read Faster
 * ⭐ **[The Punctuation Guide](https://www.thepunctuationguide.com/)** - Punctuation Guide
-* ⭐ **[vads](https://vads.ac.uk/digital/)**, [Paintings Index](https://index-of.eu/Paintings/), [rijksstudio](https://www.rijksmuseum.nl/en/rijksstudio), [Artcyclopedia](http://www.artcyclopedia.com/), [The Wolfman Museum of Art](https://wolfmanmuseum.org/), [DarkClassics](https://darkclassics.blogspot.com/), [Arts and Culture](https://artsandculture.google.com/), [WGA](https://www.wga.hu/) or [WikiArt](https://www.wikiart.org/) - Digital Art Collections
+* ⭐ **[vads](https://vads.ac.uk/digital/)**, [Paintings Index](https://index-of.eu/Paintings/), [rijksstudio](https://www.rijksmuseum.nl/en/rijksstudio), [Artcyclopedia](http://www.artcyclopedia.com/), [The Wolfman Museum of Art](https://wolfmanmuseum.org/), [DarkClassics](https://darkclassics.blogspot.com/), [Arts and Culture](https://artsandculture.google.com/), [European Art](https://photos.app.goo.gl/q5GRdpSvARAqhbSh6), [WGA](https://www.wga.hu/) or [WikiArt](https://www.wikiart.org/) - Digital Art Collections
 * [AnimaGraffs](https://animagraffs.com/) - Animated Infographs
 * [Eylenburg](https://eylenburg.github.io/) - Infographs, Maps & Papers
 * [Matthen](https://blog.matthen.com/) - Math & Science Animations
@@ -513,7 +513,7 @@
 * [Wonderous](https://play.google.com/store/apps/details?id=com.gskinner.flutter.wonders) - Learn About Ancient Structures
 * [Persepolis Reimagined](https://persepolis.getty.edu/) - Explore Persepolis Recreation
 * [Letters of Note](https://news.lettersofnote.com/) - Historical Letters
-* [Shorpy](https://shorpy.com/) - Historical Photos
+* [Shorpy](https://shorpy.com/) or [Old World](https://oldworld.cloud/) - Historical Photos
 * [ManuscriptMiniatures](https://manuscriptminiatures.com/) - Medieval Manuscript Images
 * [Sciphilos](https://sciphilos.info/) - Historical Discovery Timeline
 * [Royal Armouries Collections](https://collections.royalarmouries.org/) - Ancient Armaments Museum
@@ -796,6 +796,7 @@
 * [The French Tutorial](http://www.frenchtutorial.com/) - French Learning Tutorials
 * [LCSpeakFrench](https://t.me/LCSpeakFrench) - Live French Lessons
 * [Seedlang](https://seedlang.com/) - German Learning App
+* [Learn German](https://learngerman.dw.com/en/learn-german/s-9528) - German Learning Videos
 * [Linguee](https://www.linguee.de/) or [Dict.cc](https://m.dict.cc/) - German Translation Dictionary
 
 ***
