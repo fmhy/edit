@@ -483,6 +483,7 @@
 * [Playok](https://www.playok.com/)
 * [PaperGames](https://papergames.io/)
 * [Foony](https://foony.com/)
+* [Bloob.io](https://bloob.io/)
 * [Venge](https://venge.io/), [LolShot](https://lolshot.io/) or [ShellShock](https://www.shellshock.io/) - PvP FPS
 * [Bruh.io](https://bruh.io/), [2](https://play.bruh.io/) or [Surviv.io](https://surviv.io/) - Top Down Battle Royal
 * [ZombsRoyale.io](https://zombsroyale.io/) - Zombie Battle Royale 
@@ -531,7 +532,7 @@
 * 🌐 **[Awesome Go/Baduk/Weiqi](https://github.com/yanchick/awesome-GoBadukWeiqi)** - Go/Baduk/Weiqi Resources
 * ⭐ **[WorldOfCardGames](https://worldofcardgames.com/)**, [247Games](https://www.247games.com/), [CardzMania](https://www.cardzmania.com/) or [World of Solitaire](https://worldofsolitaire.com/) - Card Games
 * [Richup](https://richup.io/) - Monopoly-Style Board Game
-* [AllBad.Cards](https://bad.cards/) or [CardsAgainstFormality](https://cardsagainstformality.io/) - Cards Against Humanity Online 
+* [AllBad.Cards](https://bad.cards/) or [CardsAgainstFormality](https://cardsagainstformality.io/) or [Bloob.io: Rotten Apples](https://bloob.io/rottenapples) - Cards Against Humanity Online 
 * [Wikidata Card Game Generator](https://cardgame.blinry.org/) - Generate "Top Trumps" Cards with Wikidata
 * [Solitaired](https://solitaired.com/) or [Solitr](https://www.solitr.com/) - Solitaire
 * [Free Spider Solitaire](https://freespidersolitaire.io/) - Spider Solitaire
@@ -542,6 +543,7 @@
 * [Colonist](https://colonist.io/) - Multiplayer "Settlers of Catan" 
 * [Hexxagon](https://hexxagon.com/) - Hexagonal Board Game
 * [The Bafflement Fires](https://www.dpoetry.com/fires/) - 1950's Freemasonic Board Game
+* [Bloob.io: Yacht](https://bloob.io/yacht) - Multiplayer Yacht/Yahtzee/Yatzy Game
 
 ***
 
@@ -571,7 +573,7 @@
 * [ChessProgramming](https://www.chessprogramming.org/) - Chess Programming Wiki
 * [/r/Checkers](https://www.reddit.com/r/checkers/) - Checkers Subreddit
 * [Fly or Die](https://www.flyordie.com/checkers/) or [Lidraughts](https://lidraughts.org/) - Multiplayer Checkers
-* [Bloob](https://bloob.io/checkers) - 4 Player Checkers
+* [Bloob.io: Checkers](https://bloob.io/checkers) - 4 Player Checkers
 * [Checkers AI](https://checkers.ai-games.app/) - Play Checkers vs AI
 
 ***
@@ -742,7 +744,7 @@
 * 🌐 **[Darthsternie](https://darthsternie.net/)** - Console Firmware / Exploit Archive
 * 🌐 **[Tinfoil Shops](https://redd.it/10lqkmh)** - Tinfoil Shop Status Megathread
 * 🌐 **[Brewology](https://psp.brewology.com/)** - PSP Homebrew Resources / [Vita](https://github.com/MuxaJlbl4/Awesome-PlayStation-Vita)
-* 🌐 **[FlagBrew](https://flagbrew.org/)** - Switch / 3DS Homebrew Resources / [Discord](https://discord.com/invite/4Rv8DTzGFa)
+* 🌐 **[FlagBrew](https://flagbrew.org/)** - Switch / S Homebrew Resources / [Discord](https://discord.com/invite/4Rv8DTzGFa)
 * 🌐 **[DS Homebrew](https://ds-homebrew.com/)** - DS Homebrew Resources / [Wiki](https://wiki.ds-homebrew.com/) / [Discord](https://discord.com/invite/yD3spjv)
 * 🌐 **[Emulators on Consoles](https://emulation.gametechwiki.com/index.php/Category:Emulators_on_consoles)** - List of Emulators for Consoles
 * ↪️ **[Switch Homebrew Discord Servers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_switch_homebrew_discord_servers)**
