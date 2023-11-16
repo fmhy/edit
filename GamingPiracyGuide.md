@@ -532,7 +532,7 @@
 * 🌐 **[Awesome Go/Baduk/Weiqi](https://github.com/yanchick/awesome-GoBadukWeiqi)** - Go/Baduk/Weiqi Resources
 * ⭐ **[WorldOfCardGames](https://worldofcardgames.com/)**, [247Games](https://www.247games.com/), [CardzMania](https://www.cardzmania.com/) or [World of Solitaire](https://worldofsolitaire.com/) - Card Games
 * [Richup](https://richup.io/) - Monopoly-Style Board Game
-* [AllBad.Cards](https://bad.cards/) or [CardsAgainstFormality](https://cardsagainstformality.io/) or [Bloob.io: Rotten Apples](https://bloob.io/rottenapples) - Cards Against Humanity Online 
+* [AllBad.Cards](https://bad.cards/), [CardsAgainstFormality](https://cardsagainstformality.io/) or [Bloob.io: Rotten Apples](https://bloob.io/rottenapples) - Cards Against Humanity Online 
 * [Wikidata Card Game Generator](https://cardgame.blinry.org/) - Generate "Top Trumps" Cards with Wikidata
 * [Solitaired](https://solitaired.com/) or [Solitr](https://www.solitr.com/) - Solitaire
 * [Free Spider Solitaire](https://freespidersolitaire.io/) - Spider Solitaire
