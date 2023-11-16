@@ -453,7 +453,7 @@
 ## ▷ Screenshot Tools
 
 * ⭐ **[ShareX](https://getsharex.com/)** 
-* ⭐ **ShareX Tools** - [Free Host](https://upload.systems/en-US), [2](https://encrypting.host/), [3](https://sxcu.net/), [4](https://www.sharexhosting.com/) / [Self-Host](https://github.com/tycrek/ass) / [Android Upload](https://github.com/tsudoko/xshare) / [File Manager](https://xbackbone.app/)
+* ⭐ **ShareX Tools** - [Free Host](https://encrypting.host/), [2](https://sxcu.net/), [3](https://www.sharexhosting.com/) / [Self-Host](https://github.com/tycrek/ass) / [Android Upload](https://github.com/tsudoko/xshare) / [File Manager](https://xbackbone.app/)
 * ⭐ **[Flameshot](https://flameshot.org/)**
 * ⭐ **Flameshot Tools** - [GitHub](https://github.com/flameshot-org/flameshot) / [Imgur Upload](https://slproweb.com/products/Win32OpenSSL.html)
 * [Greenshot](https://getgreenshot.org/)
