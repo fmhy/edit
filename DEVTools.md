@@ -117,7 +117,7 @@
 * [Web Skills](https://andreasbm.github.io/web-skills/) or [Encodedna](https://www.encodedna.com/) - Web Dev Guides
 * [Codevolution](https://www.youtube.com/@Codevolution) - Web Dev Video Lessons
 * [HTMLDog](https://htmldog.com/) - HTML/CSS and JavaScript Tutorials
-* [Codepip](https://codepip.com/games/), [Grid Garden](https://cssgridgarden.com/), [CSS Battle](https://cssbattle.dev/), [CSS Speedrun](https://css-speedrun.netlify.app/) or [CSS Diner](https://flukeout.github.io/) - CSS Learning Games
+* [Codepip](https://codepip.com/games/), [Grid Garden](https://cssgridgarden.com/), [CSS Battle](https://cssbattle.dev/), [CSS Speedrun](https://css-speedrun.netlify.app/), [FlexboxDefense](http://www.flexboxdefense.com/) or [CSS Diner](https://flukeout.github.io/) - CSS Learning Games
 * [Flexbox Froggy](https://flexboxfroggy.com/) - CSS Flexbox Learning Game
 * [DefensiveCSS](https://defensivecss.dev/) - CSS Tips
 * [LearnCSSGrid](https://learncssgrid.com/) - CSS Grid Guide
@@ -822,6 +822,7 @@
 * [UE Viewer](https://www.gildor.org/en/projects/umodel) - Unreal Engine Model Viewer / [GitHub](https://github.com/gildor2/UEViewer)
 * [Bleeper](https://pixwlk.itch.io/bleeper) or [jfxr](https://jfxr.frozenfractal.com/) - Game Sound Effects Creators
 * [Engine Simulator](https://www.engine-sim.parts/) - Engine Sound Simulator / [GitHub](https://github.com/ange-yaghi/engine-sim)
+* [The Sounds Resource](https://www.sounds-resource.com/) - Game Sounds Examples
 * [Electronic Arts GitHub](https://github.com/electronicarts) - EA GitHub Repos
 * [Game UI Database](https://www.gameuidatabase.com/) or [HUDSxGUIS](https://www.hudsandguis.com/) - Game HUDs / GUIs
 * [Nuklear](https://github.com/Immediate-Mode-UI/Nuklear) - Game GUI Creator
@@ -920,12 +921,11 @@
 * [Git-notify](https://github.com/jevakallio/git-notify) - Embed Announcements into Git Commit Messages
 * [Allstar](https://github.com/ossf/allstar) - Git Repository Security App
 * [git-bug](https://github.com/MichaelMure/git-bug) - Git Embedded Bug Tracker
-* [Tara](https://tara.ai/) - Git Project Manager
+* [Tara](https://tara.ai/), [Mercurial](https://www.mercurial-scm.org/), [Git Extensions](https://gitextensions.github.io/), [Railway](https://railway.app/) or [Thermal](https://thermal.codecarrot.net/) - Git Project / Repo Managers
 * [GitList](https://gitlist.org/) - Elegant Git Repository Viewer / [GitHub](https://github.com/klaussilveira/gitlist)
 * [Gittyup](https://murmele.github.io/Gittyup/) - Git Source Code History
 * [git](https://git-scm.com/) - Version Control System
 * [multi-gitter](https://github.com/lindell/multi-gitter) - Bulk Repository Updater
-* [Git Extensions](https://gitextensions.github.io/), [Railway](https://railway.app/) or [Thermal](https://thermal.codecarrot.net/) - Git Repository Managers
 * [Meld](https://meldmerge.org/) - Git Visual Diff / Merge Tool
 * [Ugit](https://github.com/Bhupesh-V/ugit) - Undo Git Commands
 * [Onefetch](https://github.com/o2sh/onefetch) - Git Repo Summary in Terminal
@@ -941,7 +941,7 @@
 * [gitignore.io](https://gitignore.io) - Gitignore Templates / [GitHub](https://github.com/github/gitignore)
 * [MGit](https://github.com/maks/MGit) - Git client for Android
 * [GitNex](https://codeberg.org/gitnex/GitNex/) - Forgejo and Gitea client for Android
-* [Gitea](https://about.gitea.com/) / [2](https://gittea.dev/) or [Drift](https://drift.lol/) - Self-Hosted Git Services
+* [Gitea](https://about.gitea.com/) / [2](https://gittea.dev/), [Forgejo](https://forgejo.org/) or [Drift](https://drift.lol/) - Self-Hosted Git Services / Forge
 
 ***
 
@@ -1191,20 +1191,18 @@
 * 🌐 **[Awesome Javascript](https://github.com/sorrycc/awesome-javascript)** - Javascript Resources
 * 🌐 **[Awesome Go](https://awesome-go.com/)** or [Go Recipes](https://github.com/nikolaydubina/go-recipes) - Go Resources
 * 🌐 **[Awesome-Kotlin](https://kotlin.link/)** - Kotlin Resources / [GitHub](https://github.com/KotlinBy/awesome-kotlin)
-* 🌐 **[Awesome Emacs](https://github.com/emacs-tw/awesome-emacs)** or [Melpa](https://melpa.org/) - Emacs Packages
+* 🌐 **[Awesome Emacs](https://github.com/emacs-tw/awesome-emacs)** or [Melpa](https://melpa.org/) - Emacs Packages / [Tiling](https://github.com/ch11ng/exwm)
 * 🌐 **[Awesome VSC Extensions](https://hl2guide.github.io/Awesome-Visual-Studio-Code-Extensions/)** - Visual Studio Code Extensions
 * ↪️ **[Code Editors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_code_editors)**
 * ↪️ **[Vim Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_vim_tools)**
 * ⭐ **[Competitive Editor](https://cpeditor.org/)** - Competitive Programming Editor
 * ⭐ **[WebDen](https://webden.dev/)**, [tech.io](https://tech.io/), [CodingGround](https://www.tutorialspoint.com/codingground.htm) or [Online Tools](https://onlinetool.io/) - Code Playgrounds
+* [Apache NetBeans](https://netbeans.apache.org/), [KDevelop](https://www.kdevelop.org/), [Lazarus](https://www.lazarus-ide.org/) or [OpenShift](https://developers.redhat.com/products/openshift-dev-spaces/overview) - Cross Platform IDEs
 * [RoslynPad](https://roslynpad.net/) - C# Editor
 * [DotNetFiddle](https://dotnetfiddle.net/) - C# Compiler
 * [RoslynQuoter](https://roslynquoter.azurewebsites.net/) - C# Syntax Tree API Viewer
 * [Recaf](https://www.coley.software/Recaf/) - Java Bytecode Editor
 * [Rescript](https://rescript-lang.org/) - Javascript Editor / Language
-* [Apache NetBeans](https://netbeans.apache.org/) - Cross Platform IDE
-* [KDevelop](https://www.kdevelop.org/) - Cross Platform IDE
-* [OpenShift](https://developers.redhat.com/products/openshift-dev-spaces/overview) - Cross Platform IDE
 * [Thonny](https://thonny.org/) - Python IDE
 * [SciTE](https://www.scintilla.org/SciTE.html) - Source Code Editor for Win32 and X
 * [GPT Engineer](https://github.com/AntonOsika/gpt-engineer) - AI Code Generator
