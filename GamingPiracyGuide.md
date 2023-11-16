@@ -4,7 +4,7 @@
 ***
 ***
 
-**[Table of Contents](https://ibb.co/qMcp1v0)** - For mobile users
+**[Table of Contents](https://ibb.co/zbNDQwc)** - For mobile users
 
 ***
 ***
@@ -902,84 +902,51 @@
 * [humble-cli](https://github.com/smbl64/humble-cli) - Humble Bundle CLI
 * [Moonlight Stream](https://moonlight-stream.org/) / [Server](https://github.com/LizardByte/Sunshine) - Remote Desktop Client
 * [Geforce Now](https://www.nvidia.com/en-gb/geforce-now/) - Game Streaming / [Web App](https://play.geforcenow.com/mall/)
-* [Cloud Morph](https://github.com/giongto35/cloud-morph) or [Remotly](https://remotly.com/) - Cloud Gaming Apps
+* [Remotly](https://remotly.com/) - Cloud Gaming Apps
 * [Mogul](https://play.google.com/store/apps/details?id=com.mogul.flutte&hl=en&gl=US) or [Chikii](https://play.google.com/store/apps/details?id=com.dianyun.chikii&hl=en&gl=US) - Cloud Gaming Android Apps
-* [ogg-winmm](https://github.com/bangstk/ogg-winmm) - CD Audio Emulator
 * [GameCopyWorld](https://www.gamecopyworld.com/games/index.php), [MegaGames](https://megagames.com/) or [GTrainers](https://gtrainers.com/) - Game Fixes, Saves and Patches
 * [Ludsavi](https://github.com/mtkennerly/ludusavi) or [GameSave Manager](https://www.gamesave-manager.com/) - Game Save Manger
 * [Save Game World](https://www.savegameworld.com/), [savegamedownload](https://www.savegamedownload.com/), [yoursavegames](https://www.yoursavegames.com/), [savesforgames](https://savesforgames.com/), [savegamefiles](https://www.savegamefiles.com/), [savegame-download](https://savegame-download.com/) or [savegame](https://savegame.pro/) - PC Game Save Downloads
 * [Save Editor Online](https://www.saveeditonline.com/) - Game Save Editor
 * [CyberCAT-SimpleGUI](https://github.com/Deweh/CyberCAT-SimpleGUI) - Cyberpunk 2077 Save Editor
-* [Map Genie](https://mapgenie.io/), [GameMaps](https://www.gamemaps.com/) or [VGMaps](https://www.vgmaps.com/) - Game Maps 
-* [noclip](https://noclip.website/) - Explore Game Maps
-* [KudosPrime](https://www.kudosprime.com/) - Racing Game Maps
-* [bspview](https://github.com/sbuggay/bspview) - Explore Quake & GoldSRC Maps
-* [NES Maps](https://www.nesmaps.com/) - NES Game Maps 
-* [SNES Maps](https://www.snesmaps.com/) - SNES Game Maps
-* [Forgehub](https://www.forgehub.com/) - Halo Maps
-* [Zelda BotW Street View](https://nassimsoftware.github.io/zeldabotwstreetview/) - Breath of The Wild Map
-* [Fornite.gg](https://fortnite.gg/) - Fortnite Map
-* [Hallownest](https://www.hallownest.net/) - Hollow Knight Map
-* [Hoyolab Teyvat Interactive Map](https://act.hoyolab.com/ys/app/interactive-map/index.html), [Mapgenie Teyvat Interactive Map](https://mapgenie.io/genshin-impact) or [Genshin Impact Map](https://genshin-impact-map.appsample.com/) - Genshin Impact Interactive Maps
 * [The Models Resource](https://www.models-resource.com/) - Game Models
-* [The Sounds Resource](https://www.sounds-resource.com/) - Game Sounds
 * [The Halo Archive](https://discord.gg/feB7RgAHBh) or [405th](https://www.405th.com/) - Halo Assets Archive
 * [The Spriters Resource](https://www.spriters-resource.com/) - Video Game Sprites
 * [MiiCharacters](https://www.miicharacters.com/) - Famous Mii Creation Guides
 * [Buzz In](https://buzzin.live/) - Online Buzzer System
-* [Score7](https://score7.io/) or [Challonge](https://challonge.com/) - Tournament Creator / Manager
-* [KeepTheScore](https://keepthescore.co/) - Leaderboard Creator
-* [ViGEmBus](https://github.com/ViGEm/ViGEmBus) or [x360ce](https://www.x360ce.com/) / [GitHub](https://github.com/x360ce/x360ce) - DS4 / 360 Controller Emulator
+* [Challonge](https://challonge.com/) - Tournament Creator / Manager
+* [x360ce](https://www.x360ce.com/) / [GitHub](https://github.com/x360ce/x360ce) - DS4 / 360 Controller Emulator
 * [XOutput](https://github.com/csutorasa/XOutput) - DirectInput to Xinput wrapper
-* [Xbox for Python](https://github.com/r4dian/Xbox-Controller-for-Python) - Xbox Controller Xinput Module
 * [DsHidMini](https://github.com/ViGEm/DsHidMini) - Use PS3 Controllers on Windows / [Guide](https://vigem.org/projects/DsHidMini/How-to-Install/)
 * [JoyToKey](https://joytokey.net/) - Controller Emulator
 * [Spud Controller](https://sadwhale-studios.itch.io/) - Controller / Mouse Input Displays
-* [Mobile Gamepad](https://play.google.com/store/apps/details?id=com.mmh.mobilegamepad&hl=en&gl=US), [Ultimate Gamepad](https://m.apkpure.com/ultimate-gamepad/com.negusoft.ugamepad), [PC Remote](https://play.google.com/store/apps/details?id=com.monect.portable), [Max Joypad](http://maxjoypad.com/) or [BT Controller](https://play.google.com/store/apps/details?id=softigloo.btcontroller&hl=en&gl=US) - Use Phone as Controller
+* [PC Remote](https://play.google.com/store/apps/details?id=com.monect.portable) - Use Phone as Controller
 * [Gamepad-Tester](https://gamepad-tester.com/) or [AresLuna](https://aresluna.org/gamepad-tester/) - Controller Connectivity Testers
 * [HidHide](https://github.com/ViGEm/HidHide) - Input Device Firewall
 * [Moments](https://steelseries.com/gg/moments) - Game Clip Tool
 * [Scanlines for Windows](https://s4windows.itch.io/scanlines-for-windows) - Add Scanlines to Games / [Discord](https://discord.gg/MqxMj8MT55)
 * [Keystrokes](https://www.deviantart.com/jaxoriginals/art/Keystrokes-v1-3-889349339) - Keystrokes Overlay
-* [Cosmic Values](https://petsimulatorvalues.com/) - Pet Simulator X Value List / [Search Engine](https://cse.google.com/cse?cx=832df8e976bee460a#gsc.tab=0)
-* [Game Currency Conversion Rates](https://docs.google.com/spreadsheets/d/1tcxiGbCIktMDqxGZleHDC5s100tsY7VCTpXUSIkoNFQ/edit) - Convert In-Game Currency to Real Currency
-* [ACPatterns](https://acpatterns.com/) - Animal Crossing Pattern Tool / [Discord](https://discord.com/invite/9rGkZNk)
 * [LP Archives](https://lparchive.org/) - Let's Play Archive
-* [TwitchArchive](https://twitcharchive.com/) - Twitch Video Archive
 * [Medal](https://medal.tv/) - Nvidia Shadowplay for non Nicosia cards
 * [Achievement Watcher](https://github.com/xan105/Achievement-Watcher) - Achievement File Parser, Notifications & Playtime Tracker
-* [AreWeAntiCheatYet?](https://areweanticheatyet.com/) - Check if Games is Anti-Cheat
-* [fuckigg](https://github.com/Pheeeeenom/fuckigg) - Remove IGG DRM
-* [AltCtrls](https://altctrls.info/) - Custom Controller Crafting Resources
-* [Gamesoft](https://www.gamesoft.com/) - Gaming News Feed Manager
 * [Shmuplations](https://shmuplations.com/) - Japanese Developer Interviews
-* [wiki.gg](https://wiki.gg/) - Game Wikis / [Discord](https://discord.gg/rTnST57tuW)
-* [Doom Wiki](https://doomwiki.org/wiki/Entryway) - Doom Community Project Documentation
+* [ACPatterns](https://acpatterns.com/) - Animal Crossing Pattern Tool / [Discord](https://discord.com/invite/9rGkZNk)
 * [Hard Drop](https://harddrop.com/wiki/Tetris_Wiki) or [Tetris.wiki](https://tetris.wiki/) - Tetris Wikis
 * [Fumen](https://harddrop.com/fumen/) - Tetris Field Editor
-* [Puyo.gg](https://www.puyo.gg/) - Puyo Puyo Field Editor
-* [Puyo Nexus](https://puyonexus.com/wiki/Main_Page) - Puyo Puyo Wiki
-* [Puyo Puyo Lesson Plan](https://docs.google.com/spreadsheets/d/1A5LMX7Oev_vfaMjL6amQzQ5Z0cnGEAvSogOysjcavBY/htmlview#) - Puyo Puyo Guide
 * [Useful Osu](https://github.com/CarbonUwU/Useful-osu) - Osu! Resources
 * [Collection Manager](https://github.com/Piotrekol/CollectionManager) - Osu! Collection Manager
 * [osu trainer](https://github.com/FunOrange/osu-trainer) - Osu! Trainer
-* [Assist](https://github.com/HeyM1ke/Assist) - Valorant Launcher
 * [Half Life Project Beta](https://hl2-beta.ru/) - Unreleased / Cut Half-Life Content
-* [EldenRingFpsUnlockAndMore](https://github.com/uberhalit/EldenRingFpsUnlockAndMore) - Elden Ring Fixes
-* [Peter Jackson's King Kong Fix](https://github.com/WIFIDarthMaul/Peter-Jackson-s-King-Kong-Signature-Edition-Fix) - Peter Jackson's King Kong Signature Edition Fix
 * [Textractor](https://github.com/Artikash/Textractor) - Extract Text from Games / Visual Novels
-* [FtG UI Mod](https://www.nexusmods.com/dragonage/mods/73) - Make Dragon Age Text Readable
 * [SpinShare](https://spinsha.re/) - Spin Rhythm XD Custom Charts
-* [OrignStubDecrypter](https://github.com/PotatoOfDoom/OriginStubDecrypter) - EA Origins Stub Decrypter
-* [Payday 2 Social Safe](https://www.paydaythegame.com/static/payday2/social-safe/) - Free Payday 2 Offers
 * [Oculess](https://github.com/basti564/Oculess) - Remove Oculus Quest Account Requirements & Telemetry
 * [ALVR](https://github.com/alvr-org/ALVR) - Stream VR Games from PC to Headset
-* [Hip Tracking](https://getaughip.com/) - Augmented Hip Virtual
 * [Defacto](https://defacto2.net/) - Retro NFOs
 * [ConceptArt](https://vk.com/conceptart) - Video Game Concept Art
 * [Whitescent Engine](https://apt.izzysoft.de/fdroid/index/apk/com.github.whitescent.engine) - Use Phone as Joy Stick / [GitHub](https://github.com/whitescent/Engine)
 * [JoystickGremlin](https://whitemagic.github.io/JoystickGremlin/) - Remap Joystick Devices
-* [Arcade Controls](http://arcadecontrols.com/arcade.htm) or [JoyStick](https://slagcoin.com/joystick.html) - DIY Arcade Controls
+* [Arcade Controls](http://arcadecontrols.com/arcade.htm) - DIY Arcade Controls
+* [AltCtrls](https://altctrls.info/) - Custom Controller Crafting Resources
 * [How Denuvo Works](https://rentry.co/denuvo) or [Reverse Engineer Denuvo V4](https://drive.google.com/file/d/1CupcQMOyxbtNUGGSnq8xhIZIxhDzToFT/)
 
 ***
@@ -1248,6 +1215,22 @@
 * [Tabletopy](https://tabletopy.com/) - Tabletop RPG Soundboard
 * [Map Generator](https://emptybuttons.itch.io/map-generator) - Tabletop Roleplaying Map Generator
 * [MOGG](http://img.mogg.fr/HIRES/) - Magic The Gathering Card Scans
+
+***
+
+## ▷ Game Maps
+
+* 🌐 **[Map Genie](https://mapgenie.io/)**, [GameMaps](https://www.gamemaps.com/) or [VGMaps](https://www.vgmaps.com/) - Game Map Indexes
+* [noclip](https://noclip.website/) - Explore Game Maps
+* [KudosPrime](https://www.kudosprime.com/) - Racing Game Maps
+* [bspview](https://github.com/sbuggay/bspview) - Explore Quake & GoldSRC Maps
+* [NES Maps](https://www.nesmaps.com/) - NES Game Maps 
+* [SNES Maps](https://www.snesmaps.com/) - SNES Game Maps
+* [Forgehub](https://www.forgehub.com/) - Halo Maps
+* [Zelda BotW Street View](https://nassimsoftware.github.io/zeldabotwstreetview/) - Breath of The Wild Map
+* [Fornite.gg](https://fortnite.gg/) - Fortnite Map
+* [Hallownest](https://www.hallownest.net/) - Hollow Knight Map
+* [Hoyolab Teyvat Interactive Map](https://act.hoyolab.com/ys/app/interactive-map/index.html), [Mapgenie Teyvat Interactive Map](https://mapgenie.io/genshin-impact) or [Genshin Impact Map](https://genshin-impact-map.appsample.com/) - Genshin Impact Interactive Maps
 
 ***
 
