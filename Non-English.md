@@ -164,6 +164,7 @@
 * [dygang](https://www.dygang.cc/) - Video
 * [Dy2018](https://www.dy2018.com/) - Video
 * [ACG.rip](https://acg.rip/) - Anime / Audio
+* [Bangumi](https://bangumi.moe/) - Anime
 * [Snow-Raws](https://snow-raws.com/) - Anime / [Official Tracker](https://www.skyey2.com/)
 * [Mikan](https://mikanani.me/) - Anime
 * [AnimeTrackerList](https://github.com/DeSireFire/animeTrackerList) - Anime Trackers List
@@ -184,6 +185,7 @@
 * [555dy](https://555dy1.com/) - Movies / TV / Anime / NSFW / Sub / 1080p
 * [3g1.cc](https://www.3g1.cc/) - Movies / TV / Sub / 1080p
 * [Imaple](https://imaple8.co/) - Movies / TV / Sub / 1080p
+* [imjw](https://www.ttkmj.cc/) - Movies / TV / 1080p
 * [KokoTV](https://kokotv.me/) - Drama / Sub / Dub / 1080p
 * [Duboku](https://www.duboku.tv/) - TV / Cartoons / Sub / 1080p
 * [CC動漫](https://ccdm.cc/) - Anime / Sub / 1080p
@@ -937,7 +939,6 @@
 
 # ► Polish
 
-* 🌐 **[StreamBase](https://rentry.co/streambase)** - Piracy Index
 * [Sport TVP](https://sport.tvp.pl/) - Sports News
 
 ## ▷ Downloading
@@ -1836,6 +1837,7 @@
 * ↪️ **[Asian Drama Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video#wiki_.25B7_drama_streaming)**
 * [Keyman](https://keyman.com/) - Multilingual / Keyboard Files
 * [Jainism Library of Jain Literature](https://www.atmadharma.com/index.html) - Multilingual / Sacred Texts
+* [Filma24](https://www.filma24.gd/) - Albanian / Movies / TV / 1080p
 * [Ethio Terka](https://t.me/ethio_terka), [amharicbookss](https://t.me/amharicbookss) or [GeezLibraryMembers](https://t.me/GeezLibraryMembers) - Amharic / Books
 * [channelmyanmar](https://channelmyanmar.org) - Burmese / Movies / TV / Cartoons / 1080p / 4K
 * [lupiteam](https://lupiteam.net/) - Corsican / Manga
