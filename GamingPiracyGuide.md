@@ -475,6 +475,7 @@
 * ⭐ **[GarticPhone](https://garticphone.com/)** - Telephone Game
 * ⭐ **[RPS101](https://rps101.pythonanywhere.com/)** - 101 Object Rock, Paper, Scissors
 * [skribbl](https://skribbl.io/), [Sketchful](https://sketchful.io/), [Drawize](https://www.drawize.com/) or [Gartic](https://gartic.io/) - Drawing / Guessing Game / Multiplayer
+* [Bloob.io](https://bloob.io/)
 * [PlayingCards](https://playingcards.io/)
 * [FlyOrDie](https://www.flyordie.com/) 
 * [JKLM.FUN](https://jklm.fun/) 
@@ -571,7 +572,7 @@
 * [ChessProgramming](https://www.chessprogramming.org/) - Chess Programming Wiki
 * [/r/Checkers](https://www.reddit.com/r/checkers/) - Checkers Subreddit
 * [Fly or Die](https://www.flyordie.com/checkers/) or [Lidraughts](https://lidraughts.org/) - Multiplayer Checkers
-* [Bloob](https://bloob.io/checkers) - 4 Player Checkers
+* [Bloob Checkers](https://bloob.io/checkers) - 4 Player Checkers
 * [Checkers AI](https://checkers.ai-games.app/) - Play Checkers vs AI
 
 ***
