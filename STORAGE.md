@@ -1021,8 +1021,9 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://70.88.180.169:8
 
 * ⭐ **[ModDB](https://moddb.com/)**
 * ⭐ **[Nexus Mods](https://www.nexusmods.com/)** / [Manager](https://github.com/Nexus-Mods/Nexus-Mod-Manager) / [Redirect Skip](https://greasyfork.org/en/scripts/394039)
+* ⭐ **[Modrinth](https://modrinth.com/)** / [Redirector](https://github.com/devBoi76/modrinthify)
 
-[ZagruzkaMods](https://zagruzkamods.com/), [NextGenUpdate](https://www.nextgenupdate.com/), [ModWorkshop](https://modworkshop.net/), [Video Game Mods](https://videogamemods.com/), [Silent's Blog](https://cookieplmonster.github.io/mods/index/), [WabbaJack](https://www.wabbajack.org/) / [Discord](https://discord.com/invite/wabbajack), [GameFront](https://gamefront.com/), [GameJunkie](https://www.gamejunkie.pro/), [VIP Mods](https://www.vip-mods.com/), [top-mods.ru](https://top-mods.ru/), [vip-mods.ru](https://vip-mods.ru/), [Top Mods](https://www.top-mods.com/), [CurseForge](https://www.curseforge.com/) / [Search](https://superstormer.github.io/cf-search/), [GameJunkie](https://gamejunkie.ru/), [mod.io](https://www.mod.io/), [GameBanana](https://gamebanana.com/)
+[ZagruzkaMods](https://zagruzkamods.com/), [NextGenUpdate](https://www.nextgenupdate.com/), [ModWorkshop](https://modworkshop.net/), [Video Game Mods](https://videogamemods.com/), [Silent's Blog](https://cookieplmonster.github.io/mods/index/), [WabbaJack](https://www.wabbajack.org/) / [Discord](https://discord.com/invite/wabbajack), [GameFront](https://gamefront.com/), [GameJunkie](https://www.gamejunkie.pro/), [VIP Mods](https://www.vip-mods.com/), [top-mods.ru](https://top-mods.ru/), [vip-mods.ru](https://vip-mods.ru/), [Top Mods](https://www.top-mods.com/), [GameJunkie](https://gamejunkie.ru/), [mod.io](https://www.mod.io/), [GameBanana](https://gamebanana.com/)
 
 ***
 
@@ -1496,7 +1497,7 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://70.88.180.169:8
 * ⭐ **[Fabric Modlist](https://github.com/weebi/fabric-modlist)**
 * ⭐ **[UsefulMods](https://github.com/TheUsefulLists/UsefulMods)**
 
-[CurseForge](https://www.curseforge.com/minecraft/mc-mods) / [Search](https://superstormer.github.io/cf-search/), [Planet Minecraft](https://www.planetminecraft.com/), [Modrinth](https://modrinth.com/) / [Redirector](https://github.com/devBoi76/modrinthify), [MC Archive](https://mcarchive.net/), [Alternatives](https://microcontrollersdev.github.io/Alternatives/)
+[Modrinth](https://modrinth.com/) / [Redirector](https://github.com/devBoi76/modrinthify), [Planet Minecraft](https://www.planetminecraft.com/), [MC Archive](https://mcarchive.net/), [Alternatives](https://microcontrollersdev.github.io/Alternatives/)
 
 ***
 
