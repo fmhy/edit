@@ -474,7 +474,7 @@
 * [ViennaRSS](https://www.vienna-rss.com/) - RSS Feed Reader
 * [Dialect](https://github.com/dialect-app/dialect) - Translator
 * [Aiko](https://sindresorhus.com/aiko) - Audio Transcription
-* [Drafts](https://getdrafts.com/), [CotEditor](https://coteditor.com/), [TextMate](https://macromates.com/), [Nebo](https://apps.apple.com/us/app/nebo-notes-pdf-annotations/id1119601770), [Kyun](https://github.com/file-acomplaint/kyun), [FSNotes](https://fsnot.es/) or [Voodoopad](https://www.voodoopad.com/) - Text Editors
+* [Drafts](https://getdrafts.com/), [CotEditor](https://coteditor.com/), [TextMate](https://macromates.com/), [Nebo](https://apps.apple.com/us/app/nebo-notes-pdf-annotations/id1119601770), [Kyun](https://github.com/file-acomplaint/kyun), [FSNotes](https://fsnot.es/), [Notenik](https://notenik.app/) or [Voodoopad](https://www.voodoopad.com/) - Text Editors / Notes
 * [Taskpaper](https://www.taskpaper.com/) - To-Do Apps
 * [Stroke](https://stroke.lllllllllllllllll.com/) - Text (You Can't Delete) Editor
 * [BibDesk](https://bibdesk.sourceforge.io/) - Bibliography Manager
@@ -564,7 +564,7 @@
 
 * 🌐 **[Awesome MacOS](https://github.com/iCHAIT/awesome-macOS)**, [OpenSourceApple](https://opensource.apple.com/), [Awesome Mac](https://github.com/jaywcjlove/awesome-mac) or [Awesome OS Apps](https://github.com/serhii-londar/open-source-mac-os-apps) - FOSS App Indexes
 * 🌐 **[Mac Menu Bar](https://macmenubar.com/)** - Menu Bar App Index
-* ⭐ **[Homebrew](https://brew.sh/)** or [AppLite](https://aerolite.dev/applite/index.html) - Package Managers
+* ⭐ **[Homebrew](https://brew.sh/)**, [Munki](https://www.munki.org/munki/) or [AppLite](https://aerolite.dev/applite/index.html) - Package Managers
 * [Macintosh Garden](https://macintoshgarden.org/)
 * [MacBed](https://www.macbed.com/)
 * [Pure Mac](https://www.pure-mac.com/)
