@@ -573,6 +573,7 @@
 * [Statista](https://statista.com/) - Market Statistic Search
 * [Systeme](https://systeme.io/) or [SendPulse](https://sendpulse.com/) - Marketing Tools
 * [Marmof](https://marmof.com/) - Creator / Marketing AI
+* [MMAGlobal](https://www.mmaglobal.com/ ) - View Past Marketing Reports
 * [Anti Money Laundering Toolbox](https://bin.disroot.org/?ed25a979891da67b#BffjWKHJNYTA1JdrWz9jpy5opjzncubeKFc1pBuptxdW) - Prevent Money Laundering / [AML Laws](https://www.bitsaboutmoney.com/archive/money-laundering-and-aml-compliance/)
 * [HomeBank](http://homebank.free.fr/), [Firefly III](https://firefly-iii.org/), [Money Manager EX](https://moneymanagerex.org/), [Ledger](https://ledger-cli.org/), [Paisa](https://github.com/RetroMusicPlayer/Paisa), [Buckwheat](https://buckwheat.app/), [My Expenses](https://www.myexpenses.mobi/), [actual](https://github.com/actualbudget/actual) or [Sushi](https://github.com/jerameel/sushi) - Finance Managers
 * [financial_advice](https://github.com/emilepetrone/financial_lessons) - Financial Lessons
@@ -1173,7 +1174,7 @@
 * [Discord Chat Exporter](https://github.com/Tyrrrz/DiscordChatExporter) / [Python](https://github.com/mahtoid/DiscordChatExporterPy), [discard2](https://github.com/Sanqui/discard2), [Discord History Tracker](https://dht.chylex.com/) / [GitHub](https://github.com/chylex/Discord-History-Tracker) or [discord-archiver](https://github.com/nektro/discord-archiver) - Archive / Export Discord Chats
 * [Discord URL Extractor](https://github.com/TheTechRobo/discord-urls-extractor) - Extract URLs from Discord Chats
 * [anti-phishing-bot](https://github.com/Benricheson101/anti-phishing-bot) - Discord Anti Phishing Bot
-* [SunnyDiscord](https://gist.github.com/TheSunCat/58fedaa19d6154ef3e4b2b676c286906) - Hide Nitro / Boost Upsells
+* [SunnyDiscord](https://gist.github.com/TheSunCat/58fedaa19d6154ef3e4b2b676c286906) or [Discord Adblock](https://github.com/CroissantDuNord/discord-adblock) - Hide Nitro / Boost Upsells
 * [pullcord](https://github.com/tsudoko/pullcord) - Discord Archiver
 * [discord2sheet-bot](https://github.com/hugonun/discord2sheet-bot) - Store Messages to Google Sheets
 * [AnswersOverflow](https://www.answeroverflow.com/) - Add Messages to Google Searches
@@ -1600,7 +1601,7 @@
 * [balenaEtcher](https://etcher.balena.io/) - Flash OS Image SD / USB / [Mobile](https://etchdroid.depau.eu/)
 * [FOG Project](https://fogproject.org) - OS Depoyment / Managment System
 * [CloverBootloader](https://github.com/CloverHackyColor/CloverBootloader/releases) or [EasyBCD](https://neosmart.net/EasyBCD/) - Bootloader / [Config](https://mackie100projects.altervista.org/)
-* [Hiren’s BootCD PE](https://www.hirensbootcd.org/ or [Win10XPE](https://github.com/ChrisRfr/Win10XPE) - Preinstallation Environments
+* [Hiren’s BootCD PE](https://www.hirensbootcd.org/) or [Win10XPE](https://github.com/ChrisRfr/Win10XPE) - Preinstallation Environments
 * [goldBoot](https://github.com/fossable/goldboot) - Run your OS the exact way everytime
 * [Intel BIOS Guide](https://docs.google.com/document/d/1s43_3YGJIy3zs0ZIksoOmxgrDKnu4ZNhhnXW_NiJZ0I/edit) - Intel BIOS Settings Explanation
 * [BiOSBug](https://www.biosbug.com/) - Remove / Reset BiOS Password / [Tutorial](https://www.youtube.com/watch?v=GolIjI2HS5w)
@@ -1623,7 +1624,7 @@
 * [VCRedist](https://github.com/abbodi1406/vcredist) - AIO Repack for Microsoft Visual C++ Redists
 * [OcxDump](https://ocxdump.com/) - .ocx Files
 * [WinCDEmu](https://wincdemu.sysprogs.org/) - Mount ISOs
-* [x64dbg](https://x64dbg.com/) - Windows Debugging Tool
+* [x64dbg](https://x64dbg.com/), [MagNumDB](https://www.magnumdb.com/), [ErrorLookup](https://github.com/henrypp/errorlookup) or [Microsoft Error Lookup](https://learn.microsoft.com/en-us/windows/win32/debug/system-error-code-lookup-tool) - Windows Debugging Tools
 * [Boot Failure Troubleshooting Chart](https://i.ibb.co/d2GSKf7/624c64629e27.png) - Boot Failure Troubleshooting Guide
 * [Autoruns](https://learn.microsoft.com/en-us/sysinternals/downloads/autoruns) - Change Startup Programs
 * [CCStopper](https://github.com/eaaasun/CCStopper) - Stop Background Adobe Apps
