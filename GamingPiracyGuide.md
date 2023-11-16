@@ -744,7 +744,7 @@
 * 🌐 **[Darthsternie](https://darthsternie.net/)** - Console Firmware / Exploit Archive
 * 🌐 **[Tinfoil Shops](https://redd.it/10lqkmh)** - Tinfoil Shop Status Megathread
 * 🌐 **[Brewology](https://psp.brewology.com/)** - PSP Homebrew Resources / [Vita](https://github.com/MuxaJlbl4/Awesome-PlayStation-Vita)
-* 🌐 **[FlagBrew](https://flagbrew.org/)** - Switch / S Homebrew Resources / [Discord](https://discord.com/invite/4Rv8DTzGFa)
+* 🌐 **[FlagBrew](https://flagbrew.org/)** - Switch / 3DS Homebrew Resources / [Discord](https://discord.com/invite/4Rv8DTzGFa)
 * 🌐 **[DS Homebrew](https://ds-homebrew.com/)** - DS Homebrew Resources / [Wiki](https://wiki.ds-homebrew.com/) / [Discord](https://discord.com/invite/yD3spjv)
 * 🌐 **[Emulators on Consoles](https://emulation.gametechwiki.com/index.php/Category:Emulators_on_consoles)** - List of Emulators for Consoles
 * ↪️ **[Switch Homebrew Discord Servers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_switch_homebrew_discord_servers)**
