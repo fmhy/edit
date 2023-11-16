@@ -661,6 +661,7 @@
 * [RepairWiki](https://repair.wiki/w/Repair_Wiki) - Repair Articles
 * [WonderHowTo](https://www.wonderhowto.com/) - Tech How-to's
 * [manned.org](https://manned.org/) - Operating System Manuals
+* [Exploitee.rs](https://www.exploitee.rs/) - Device Exploitation Wiki
 * [C.H.A.R.M](https://charm.li/), [JDMFSM](https://jdmfsm.info/Auto/), [CarPDFManual](https://www.carpdfmanual.com/renault/) or [ProCarManuals](https://procarmanuals.com/) - Auto Repair Manuals
 * [Ownersman.com](https://ownersman.com/) - Car Owner Manuals
 * [PremierProduct](https://www.premierproducts-uk.co.uk/) - Vehicle Manuals
