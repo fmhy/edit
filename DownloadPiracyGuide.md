@@ -283,6 +283,7 @@
 
 * 🌐 **[/r/usenet Providers](https://www.reddit.com/r/usenet/wiki/providers)** - Provider Lists
 * 🌐 **[/r/usenet Deals](https://www.reddit.com/r/usenet/wiki/providerdeals)** - Provider Deals
+* [Usenet Providers Map](https://mediavoid.io/map.svg)
 * [usenetmax](https://www.usenetmax.com/)
 * [xsusenet](https://xsusenet.com/)
 * [usenet.farm](https://usenet.farm/#trial)
@@ -290,7 +291,8 @@
 
 ## ▷ Downloaders
 
-* ⭐ **[sabnzbd](https://sabnzbd.org/)** / [Grabber](https://github.com/lem6ns/sabgrab)
+* ⭐ **[sabnzbd](https://sabnzbd.org/)** / [Grabber](https://github.com/lem6ns/sabgrab) / [Firefox](https://addons.mozilla.org/en-US/firefox/addon/nzb-unity/) / [Chrome](https://chromewebstore.google.com/detail/nzb-unity/mpejfoghnejnbfkpbiafklkmlhebkapb)
+* ⭐ **[NZBUnity](https://github.com/tumblfeed/nzbunity)** - Send Usenet Files to Client
 * [nzbget](https://nzbget.net/)
 * [Usenet File Hashes](https://gist.github.com/4chenz/de3a3490aff19fd72e4fdd9b7dafc8f4) - Link File Hashes
 * [Tg-UsenetBot](https://github.com/sanjit-sinha/Tg-UsenetBot) - Usenet Telegram Bot
