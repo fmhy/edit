@@ -92,7 +92,7 @@
 * [DPLA](https://dp.la/) - Books
 * [Books'Cool](https://en.novelonlineread.com/) - Books
 * [Dirzon](https://www.dirzon.com/) - Books
-* [VK eBook Sharing Group](https://vk.com/club162811046) - Books / Also try site:vk.com in searches
+* [VK eBook Sharing Group](https://vk.com/club162811046) - Books / [Note](https://pastebin.com/iM7Q9Gzn)
 * [EBooksCart](https://ebookscart.com/) - Books
 * [Index of /Books](https://github.com/nbats/FMHYedit/blob/main/base64.md#index-of-books) - Books
 * [Novel12](https://novel12.com/) - Books
