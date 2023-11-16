@@ -1127,7 +1127,7 @@
 * [LazyMc](https://github.com/timvisee/lazymc) - Idle Minecraft Server 
 * [Forge](https://files.minecraftforge.net/), [Quilt](https://quiltmc.org/) or [Fabric](https://fabricmc.net/) / [Discord](https://discord.gg/VDGnGsFeuy) - Minecraft Modding API 
 * [PVPRP](https://pvprp.com/) - Minecraft Texture Packs
-* [IrisShader](https://www.curseforge.com/minecraft/mc-mods/irisshaders) - Fabric Shadermod for Minecraft
+* [IrisShader](https://modrinth.com/mod/iris) - Fabric Shadermod for Minecraft
 * [Nova Skin](https://minecraft.novaskin.me/) or [Blockbench](https://www.blockbench.net/)- Minecraft Skin Editor
 * [MinecraftCapes](https://minecraftcapes.net/) or [Capes](https://modrinth.com/mod/capes) - Minecraft Capes
 * [VoxelSphereGenerator](https://oranj.io/blog/VoxelSphereGenerator) or [Minecraft Shapes](https://minecraftshapes.com/) - Minecraft Shape Tools
@@ -1136,10 +1136,10 @@
 * [Amulet](https://www.amuletmc.com/) or [uNmINeD](https://unmined.net/) - Minecraft Map Editor / Viewer
 * [MinecraftSeeds](https://minecraftseeds.io/) - Minecraft Seeds
 * [MineAtlas](http://mineatlas.com/) or [MCSeeder](https://mcseeder.com/) - Minecraft Seed Maps
-* [TerraForged](https://www.curseforge.com/minecraft/mc-mods/terraforged) - Improved Biomes Mod
-* [Biomes-O-Plenty](https://www.curseforge.com/minecraft/mc-mods/biomes-o-plenty) - Extra Biomes Mod
+* [TerraForged](https://github.com/TerraForged/TerraForged) - Improved Biomes Mod
+* [Biomes-O-Plenty](https://github.com/Glitchfiend/BiomesOPlenty) - Extra Biomes Mod
 * [Fabric-Bedrock-Miner](https://github.com/LXYan2333/Fabric-Bedrock-Miner) - Minecraft Bedrock Miner
-* [Outvoted](https://www.curseforge.com/minecraft/mc-mods/outvoted) - Outvoted Minecraft Live Mobs
+* [Outvoted](https://modrinth.com/mod/outvoted) - Outvoted Minecraft Live Mobs
 * [MCrev](https://github.com/mcrax/mcrev) - Windows 10 Minecraft License Bypasser
 * [Voyager](https://voyager.minedojo.org/) - Minecraft AI
 * [MCDF](https://mcdf.wiki.gg/) - Discontinued Minecraft Features Wiki
