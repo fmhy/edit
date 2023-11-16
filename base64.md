@@ -918,3 +918,9 @@ Use any **[Base64 Decoding](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/stor
 #### Duolingo Guide
 
 `aHR0cHM6Ly9yZW50cnkuY28vRHVvbGluZ29HdWlkZQ==`
+
+***
+
+#### ‎MegaFlix
+
+`aHR0cHM6Ly9hcHBzLmFwcGxlLmNvbS9hcHAvaWQ2NDYzNDk5NTEz`
