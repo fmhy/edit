@@ -1095,7 +1095,7 @@
 * [LazyMc](https://github.com/timvisee/lazymc) - Idle Minecraft Server 
 * [Forge](https://files.minecraftforge.net/), [Quilt](https://quiltmc.org/) or [Fabric](https://fabricmc.net/) / [Discord](https://discord.gg/VDGnGsFeuy) - Minecraft Modding API 
 * [PVPRP](https://pvprp.com/) - Minecraft Texture Packs
-* [IrisShader](https://modrinth.com/mod/iris) - Fabric Shadermod for Minecraft
+* [Iris Shaders](https://modrinth.com/mod/iris) - Fabric Shadermod for Minecraft
 * [Nova Skin](https://minecraft.novaskin.me/) or [Blockbench](https://www.blockbench.net/)- Minecraft Skin Editor
 * [MinecraftCapes](https://minecraftcapes.net/) or [Capes](https://modrinth.com/mod/capes) - Minecraft Capes
 * [VoxelSphereGenerator](https://oranj.io/blog/VoxelSphereGenerator) or [Minecraft Shapes](https://minecraftshapes.com/) - Minecraft Shape Tools
