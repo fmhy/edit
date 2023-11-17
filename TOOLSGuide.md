@@ -1588,6 +1588,7 @@
 * ⭐ **[BleachBit](https://www.bleachbit.org/)**, [memreduct](https://github.com/henrypp/memreduct) or [WinMemoryCleaner](https://github.com/IgorMundstein/WinMemoryCleaner) - Clean System Memory
 * ⭐ **[Bulk Crap Uninstaller](https://www.bcuninstaller.com/)** - Bulk Uninstallation Tool
 * [Windows-11-Guide](https://github.com/mikeroyal/Windows-11-Guide), [Pastas](https://rentry.org/pastas#guides), [Eleven Forums Guides](https://www.elevenforum.com/tutorials/) or [Ten Forums Guides](https://www.tenforums.com/tutorials/) - Windows Guides
+* [CTTs Windows Utility](https://github.com/ChrisTitusTech/winutil)
 * [Ozone3D](https://www.ozone3d.net/index_softwares.php) - System Benchmarking
 * [O&O App Buster](https://www.oo-software.com/en/ooappbuster) - Remove Pre-Installed Microsoft Apps
 * [Process Explorer](https://learn.microsoft.com/en-us/sysinternals/downloads/process-explorer), [SystemExplorer](https://systemexplorer.net/) or [Process Hacker](https://processhacker.sourceforge.io/) - Process Monitor

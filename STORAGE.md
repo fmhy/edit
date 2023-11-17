@@ -3015,7 +3015,6 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://70.88.180.169:8
 **Warning** - Its not recommended to use debloaters unless you know what you're doing. Always research first, never just "Apply All" tweaks randomly.
 
 * ⭐ **[SophiApp](https://github.com/Sophia-Community/SophiApp)** / [Script](https://github.com/farag2/Sophia-Script-for-Windows)
-* [win10script](https://github.com/ChrisTitusTech/winutil) / [2](https://christitus.com/debloat-windows-10-2020/) / [3](https://christitus.com/windows-tool/)
 * [Windows Debloat Guide](https://rentry.co/better-windows)
 * [LTSC Debloat Guide](https://rentry.co/LTSC)
 
