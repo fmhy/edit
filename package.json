@@ -21,6 +21,7 @@
     "itty-fetcher": "^0.9.4",
     "nitro-cors": "^0.7.0",
     "nitropack": "latest",
+    "nprogress": "^0.2.0",
     "pathe": "^1.1.1",
     "unocss": "^0.57.1",
     "vitepress": "1.0.0-rc.25",
@@ -33,6 +34,7 @@
     "@iconify-json/twemoji": "^1.1.12",
     "@taskylizard/eslint-config": "^1.0.3",
     "@types/node": "^20.8.9",
+    "@types/nprogress": "^0.2.3",
     "eslint": "^8.53.0",
     "prettier": "^3.0.3"
   },
