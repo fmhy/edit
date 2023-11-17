@@ -636,7 +636,7 @@
 * [PojavLauncher](https://github.com/PojavLauncherTeam/PojavLauncher_iOS) - Minecraft Java Edition Launcher
 * [SMAPI](https://github.com/ZaneYork/SMAPI-Android-Installer) - Multiplayer Stardew Valley
 * [Pinball for Android](https://github.com/fexed/Pinball-on-Android) - Space Cadet Pinball
-* [FlashLite](https://play.google.com/store/apps/details?id=games.flashlite) - Flash Emulator
+* [FlashLite](https://play.google.com/store/apps/details?id=games.flashlite) - Flash Emulator / [Discord](https://discord.gg/F2dsGhTX6y)
 
 ***
 
