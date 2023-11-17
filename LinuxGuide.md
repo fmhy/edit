@@ -494,7 +494,7 @@
 * [Touché](https://redsweater.com/touche/) - Touch Bar Simulator
 * [pock](https://pock.app/) - Touch Bar Widget Manager / [GitHub](https://github.com/pock/pock)
 * [Itsycal](https://www.mowglii.com/itsycal/) - Menu Bar Calendar
-* [Clocker](https://abhishekbanthia.com/clocker/) - Menu Bar Meetngs Calendar
+* [Clocker](https://abhishekbanthia.com/clocker/) or [MeetingBar](https://meetingbar.app/) - Menu Bar Meetings Calendars
 * [xbar](https://xbarapp.com/) - Manage Menu Bar Items / [GitHub](https://github.com/matryer/xbar)
 * [MacLaunch](https://github.com/hazcod/maclaunch) - Manage Startup Items
 * [OnlySwitch](https://github.com/jacklandrin/OnlySwitch) - Menu Bar Toggle Switches
@@ -596,6 +596,7 @@
 * ⭐ **[Malwarebytes](https://www.malwarebytes.com/mac-download)**, [BlockBlock](https://objective-see.org/products/blockblock.html) or [KnockKnock](https://objective-see.org/products/knockknock.html) - Antivirus
 * ⭐ **[System Wide Adblocking](https://champagne.pages.dev/before-you-begin/important-tools/)** - System Wide Adblocking Guide
 * ⭐ **[SpotX-Bash](https://github.com/jetfir3/SpotX-Bash)**, [Spotify Adblock Guide](https://redd.it/y2zt58) or [Mac_Spotify_Adblock](https://github.com/Devanshu-17/Mac_Spotify_Adblock) - Spotify Adblockers
+* [Ka-Block!](https://apps.apple.com/us/app/ka-block/id1037173557), [BlockBear](https://apps.apple.com/ca/app/blockbear/id1023924541) or [Adblock Plus for iOS](https://gitlab.com/eyeo/adblockplus/adblock-plus-for-safari) - Safari Adblockers
 * [MacOS Privacy Guide](https://github.com/drduh/macOS-Security-and-Privacy-Guide) - Mac Privacy & Security Guides
 * [Sentinel](https://getsentinel.io/) - Two-Factor Authentication
 * [Gas Mask](https://github.com/2ndalpha/gasmask) - Block Ads via Host Files
