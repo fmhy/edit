@@ -753,12 +753,9 @@
 * [NeverInstall](https://neverinstall.com/) - Use Apps in Browser
 * [QuteBrowser](https://qutebrowser.org/) - Keyboard Focused Browser 
 * [Browsh](https://www.brow.sh/) - Text Based Browser
-* [webbrowser.git](https://git.nuegia.net/webbrowser.git/) - Lightweight Browser
-* [Falkon](https://www.falkon.org/) - Lightweight Browser
-* [Pulse](https://pulsebrowser.app/), [MinBrowser](https://minbrowser.org/) or [Agregore Browser](https://github.com/AgregoreWeb/agregore-browser) - Minimalist Browser
+* [MinBrowser](https://minbrowser.org/) - Minimalist Browser
 * [Vieb](https://vieb.dev/) - Vim Inspired Browser
 * [Artic Fox](https://github.com/rmottola/Arctic-Fox) - Classic Pale Moon
-* [Ghost Browser](https://ghostbrowser.com/) - Multi-Session Browser
 * [woob](https://woob.tech/) - Use Sites Without a Browser
 * [NYXT](https://nyxt.atlas.engineer/ ) - Information Extraction Browser
 * [Gemini Clients](https://geminiprotocol.net/clients.html), [Lagrange](https://github.com/skyjake/lagrange) or [Amfora](https://github.com/makew0rld/amfora) - Gemini Browsers
@@ -770,7 +767,7 @@
 * [Carbonyl](https://github.com/fathyb/carbonyl) - Chromium in Terminal
 * [Chrome Theme Studio](https://chrometheme.studio/) - Create Chrome Theme
 * [Firemin](https://www.rizonesoft.com/downloads/firemin/) or `about:memory` - Reduce Firefox Memory Usage
-* [Firefox Tweaker](https://rejzor.wordpress.com/firefox-tweaker/) or [Hidden Settings](https://gitlab.com/Madis0/hidden-settings/) - Firefox Hidden Settings
+* [Hidden Settings](https://gitlab.com/Madis0/hidden-settings/) - Firefox Hidden Settings
 * [Firefox-UI-Fix](https://github.com/black7375/Firefox-UI-Fix) - Firefox UI Enhancements
 * [Firefox Onebar](https://codeberg.org/Freeplay/Firefox-Onebar) - Single Bar UI
 * [Firefox Access](https://www.accessfirefox.org/) - Firefox Accessibility Tools for the Visually Impaired
@@ -788,10 +785,8 @@
 * [NoMoreEdge](https://github.com/KodeByWrath/NoMoreEdge), [Edge_Removal.bat](https://github.com/AveYo/fox/blob/main/Edge_Removal.bat) or [MSEdgeRedirect](https://github.com/rcmaehl/MSEdgeRedirect) - Redirect Microsoft Edge
 * [xBrowserSync](https://github.com/xbrowsersync/app) - Sync Browser Data Browsers / Devices
 * [Floccus](https://floccus.org/) - Browser Bookmark Sync / [GitHub](https://github.com/floccusaddon/floccus)
-* [HackBrowserData](https://github.com/moonD4rk/HackBrowserData) - Decrypt Browser Data
 * [WhatIsMyBrowser](https://developers.whatismybrowser.com/) - User Agent Archive
 * [danmaku2ass](https://github.com/m13253/danmaku2ass) - Convert Niconico/AcFun/Bilibili Comments to ASS
-* [Gopher Proxy](https://gopherproxy.meulie.net/) - View Gopher Content in Browser
 
 ***
 
@@ -867,6 +862,7 @@
 * [sitedorks](https://github.com/Zarcolio/sitedorks), [Dorks-collections-list](https://github.com/cipher387/Dorks-collections-list/), [Google Dork List](https://www.boxpiper.com/posts/google-dork-list), [Dork Genius](https://dorkgenius.com/) or [DorkSearch](https://www.dorksearch.com/) - Google Search Dorks
 * [Yandex Search Operator Cheat Sheets](https://yandex.com/support/direct/keywords/symbols-and-operators.html), [2](https://seosly.com/yandex-search-operators/), [3](https://seranking.com/ru/blog/operatory-poiska-google/)
 * [rfc.fyi](https://rfc.fyi/) - RFC Search
+* [Shodan](https://www.shodan.io/) - Internet Connected Device Search
 * [OCCRP Aleph](https://aleph.occrp.org/) - Public Records / Leaks Search
 * [OpenOwnership](https://register.openownership.org/) - Company Ownership Search
 * [CrunchBase](https://www.crunchbase.com/) or [CorporationWiki](https://www.corporationwiki.com/) - Company Info Search
