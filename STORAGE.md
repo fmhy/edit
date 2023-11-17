@@ -4,7 +4,7 @@
 ***
 ***
 
-**[Table of Contents](https://ibb.co/k4LSBnB)** - For mobile users
+**[Table of Contents](https://ibb.co/4KqzWTR)** - For mobile users
 
 ***
 ***
@@ -1294,7 +1294,7 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://70.88.180.169:8
 
 ## IPTV Tools
 
-[Forum](https://iptv.community/) / [Players](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_m3u_players) / [Manager](https://cabernetwork.github.io/) / [SmartTV Players](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_android_tv_iptv_players) / [Playlists](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_iptv_playlists) / [Search](https://www.foodieguide.com/iptvsearch/) / [m3u to txt](https://siptv.eu/converter/) / [M3U Editor](https://m3u4u.com/) / [M3U Downloader](https://github.com/nilaoda/N_m3u8DL-RE), [2](https://webextension.org/listing/hls-downloader.html), [3](https://m3u8.dev/), [4](https://github.com/puemos/hls-downloader), [5](https://www.hlsloader.com/) / [Dummy EPG](https://github.com/yurividal/dummyepgxml) / [CLI](https://github.com/nilaoda/N_m3u8DL-CLI)
+[Forum](https://iptv.community/) / [Players](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_m3u_players) / [Manager](https://cabernetwork.github.io/) / [SmartTV Players](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_android_tv_iptv_players) / [Playlists](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_iptv_playlists) / [Search](https://www.foodieguide.com/iptvsearch/) / [m3u to txt](https://siptv.eu/converter/) / [M3U Editor](https://m3u4u.com/) / [M3U Downloader](https://github.com/nilaoda/N_m3u8DL-RE)/ [HLS Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_hls_downloaders), [2](https://m3u8.dev/) / [Dummy EPG](https://github.com/yurividal/dummyepgxml) / [CLI](https://github.com/nilaoda/N_m3u8DL-CLI)
 
 ***
 
@@ -1607,6 +1607,9 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://70.88.180.169:8
 
 [Video Downloader](https://provd.net/), [AddonCrop](https://addoncrop.com/v25/), [Cococut](https://cococut.net/), [skyload](http://skyload.io/), [SVD](https://chrome.google.com/webstore/detail/svd-video-downloader/jbialncfijnjojchcmhfmjgjggbbdghb/related?hl=en), [Video Downloader Professional](https://chrome.google.com/webstore/detail/video-downloader-professi/dlpiaeofjhnjeckpjcbhmnifdejoikpa), [Easy Video Downloader](https://add0n.com/easy-video-downloader.html), [y2monkey](https://github.com/jijirae/y2monkey), [FetchV](https://fetchv.net/), [MPMux](https://mpmux.com/)
 
+### HLS Downloaders
+
+[hls-downloader](https://github.com/puemos/hls-downloader), [hls extension](https://webextension.org/listing/hls-downloader.html), [hlsloader.com](https://www.hlsloader.com/)
 
 ***
 
