@@ -650,6 +650,7 @@
 * 🌐 **[Awesome DOS](https://github.com/balintkissdev/awesome-dos)** - DOS App Development Resources
 * ⭐ **[Electron](https://www.electronjs.org/)**, [MarsX](https://www.marsx.dev/), [Revery](https://www.outrunlabs.com/revery/), [Proton Native](https://proton-native.js.org/), [Neutralinojs](https://neutralino.js.org/), [PowerPage](https://github.com/casualwriter/powerpage), [Flet](https://flet.dev/), [Felvin](https://www.felvin.com/) or [Tauri](https://tauri.app/) / [Resources](https://github.com/tauri-apps/awesome-tauri) - Desktop App Builders
 * ⭐ **Electron Tools** -  [App Store](https://www.electronjs.org/apps/) / [Debugger](https://github.com/pd4d10/debugtron) / [Mod Loader](https://kernel.fish/) / [Builder](https://www.electron.build/)
+* ⭐ **[new(releases)](https://newreleases.io/)** - Software Release Notifications
 * [Budibase](https://budibase.com/), [ToolJet](https://tooljet.com/), [retool](https://retool.com/) or [AppSmith](https://github.com/appsmithorg/appsmith) - Internal Tool Builders
 * [raylib technologie](https://raylibtech.itch.io/), [bookmarks](https://github.com/MorganGeek/bookmarks) or [Every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) - Software Development Tools
 * [Theos](https://theos.dev/) - Program Build System / [GitHub](https://github.com/theos/theos) / [Jailed Tweaks](https://github.com/kabiroberai/theos-jailed/wiki/Installation)
@@ -661,38 +662,26 @@
 * [MSYS2](https://www.msys2.org/) - Windows Software Creator
 * [Pakkly](https://pakkly.com/) - Desktop App Deployment
 * [Nomad](https://www.nomadproject.io/) / [GitHub](https://github.com/hashicorp/nomad), [Kamal](https://kamal-deploy.org/) / [Discord](https://discord.gg/YgHVT7GCXS) or [Waypoint](https://www.waypointproject.io) - App Deployment Automation
-* [LiveKit](https://livekit.io/) - Build Video / Audio Applications
-* [Dotnet Content Creators](https://github.com/matthiasjost/dotnet-content-creators) - .NET Content Creators Index
+* [Dotnet Content Creators](https://www.wearedotnet.io/) - .NET Content Creators Index
 * [Dotnet Releaser](https://github.com/xoofx/dotnet-releaser) - Automate Release of .NET Applications
-* [new(releases)](https://newreleases.io/) - Software Release Notifications
 * [Cron AI](https://cron-ai.vercel.app/) or [Cron Cat](https://www.crontabcat.com/) - Convert Words to Cron Expressions
 * [Pencil](https://pencil.evolus.vn/) - Software Mockup Tool / [GitHub](https://github.com/evolus/pencil)
-* [GNUnet](https://gnunet.org/en/) - Software Framework
 * [shadcn-ui](https://ui.shadcn.com/) or [shadcn-svelte](https://shadcn-svelte.com) - Website Components
 * [Slint](https://github.com/slint-ui/slint), [Fyne](https://fyne.io/) or [QT Designer](https://build-system.fman.io/qt-designer-download) - GUI Development Tools
 * [Gooey](https://github.com/chriskiehl/Gooey) - Convert Python Command Line to GUI
-* [Kuker](https://github.com/krasimir/kuker) - Debug Applications
 * [mitmproxy](https://github.com/mitmproxy/mitmproxy) - HTTP Proxy
 * [BugSnag](https://www.bugsnag.com/) - Application Stability Monitor
 * [98.css](https://jdan.github.io/98.css/) - Build Windows 98 Themed Interfaces / [GitHub](https://github.com/jdan/98.css)
-* [Radare](https://rada.re/r/), [Flare IDA](https://github.com/mandiant/flare-ida), [Reverse Engineer's Toolkit](https://github.com/mentebinaria/retoolkit), [Rizin](https://rizin.re/), [Frida](https://frida.re/), [GHIDRA](https://ghidra-sre.org/) or [Cutter](https://github.com/rizinorg/cutter) - Reverse Engineering 
 * [Kubeorbit](https://github.com/teamcode-inc/kubeorbit) - Application Testing / Debugging
 * [Inno Setup](https://jrsoftware.org/isinfo.php) or [InstallForge](https://www.installforge.net/) - Create Installation Programs
-* [7.css](https://khang-nd.github.io/7.css/) or [Botox Party](https://botoxparty.github.io/XP.css/) - Create Oldschool Style UI's
 * [Amplication](https://amplication.com/) - Create Node.js Apps
-* [Textualize](https://www.textualize.io/) - Create Text User Interfaces
-* [Ink](https://github.com/vadimdemedes/ink) or [cac](https://github.com/cacjs/cac) - Create Interactive CLI Apps
+* [Ink](https://github.com/vadimdemedes/ink) - Create Interactive CLI Apps
 * [smenu](https://github.com/p-gen/smenu) - Create CLI Menus
 * [Enquirer](https://github.com/enquirer/enquirer) or [Prompts](https://github.com/terkelg/prompts) - Create CLI Prompts
-* [blessed-contrib](https://github.com/yaronn/blessed-contrib) or [BubbleTea](https://github.com/charmbracelet/bubbletea) - Create Terminal Applications
+* [blessed-contrib](https://github.com/yaronn/blessed-contrib) - Create Terminal Applications
 * [Etebase](https://www.etebase.com/) - Encrypted App Backend
-* [UWP](https://www.telerik.com/uwp/) - Telerik UI for UWP / [Github](https://github.com/telerik/UI-For-UWP)
-* [FluentWPF](https://github.com/sourcechord/FluentWPF) - Fluent Design System for WPF
-* [Flatpak](https://flatpak.org/) - Create & Distribute Linux Applications
-* [WTFPL](http://www.wtfpl.net/) - Free Software Licenses
 * [tl;drLegal](https://www.tldrlegal.com/) - Software License Summaries
 * [VirtualBuddy](https://github.com/insidegui/VirtualBuddy) - Virtualize macOS 12 and later on Apple Silicon
-* [Advanced Catalyst Example](https://github.com/steventroughtonsmith/advancedcatalystexample) - Mac Catalyst App Example
 
 ***
 
@@ -763,19 +752,13 @@
 * [React Query](https://tanstack.com/query/v3/) - Fetch, Cache and Update React Data / [GitHub](https://github.com/TanStack/query)
 * [MMKV](https://github.com/mrousavy/react-native-mmkv) - React Key / Value Storage
 * [Vision Camera](https://www.react-native-vision-camera.com/) - React Camera Support / [GitHub](https://github.com/mrousavy/react-native-vision-camera)
-* [react-easy-crop](https://github.com/ricardo-ch/react-easy-crop) - React Image Cropper
 * [React PDF](https://react-pdf.org/) - Create PDFs in React
 * [react-spring](https://www.react-spring.dev/) - React Spring Animations
 * [useAnimations](https://useanimations.com/index.html) - Animated Icon Pack
-* [Flubber](https://github.com/Appolica/Flubber) - Android Animation Creator
-* [Shiny](https://github.com/rikschennink/shiny) - Reflections for Mobile Sites
 * [Redex](https://fbredex.com/) - Android Bytecode Optimizer
-* [Capturable](https://github.com/PatilShreyas/Capturable) - Transform Composable Content to Bitmap Images 
-* [Firetable](https://github.com/Antler-VC/firetable) - View Firebase / Firestore in Excel 
 * [Previewed](https://previewed.app/), [Mockup World](https://www.mockupworld.co/), [AniMockup](https://animockup.com/), [DeviceShots](https://deviceshots.com/), [DeviceFrames](https://deviceframes.com/), [medialoot](https://medialoot.com/free-mockups/), [MockMagic](https://www.mockmagic.com/), [MockupsForFree](https://mockupsforfree.com/), [zippypixels](https://zippypixels.com/), [Hishoot2i](https://github.com/hishoot2i/Hishoot2i) / [Templates](https://t.me/hishoot2imaterial), [TheMockupClub](https://themockup.club/), [RiseShot](https://www.riseshot.com/), [Upmock](https://www.upmock.io/) or [LS Graphics](https://www.ls.graphics/) - App / Site Mockups
 * [Mockoops](https://github.com/Just-Moh-it/Mockoops) - Animated Mockups
 * [Really Good Emails](https://reallygoodemails.com/) - Product Email Mobile Designs and Templates
-* [Revanced Patcher](https://github.com/revanced/revanced-patcher) - Patcher Used by Revanced
 * [Screen from Traction](https://screen.traction.one/) - Create App Screenshots
 
 ***
@@ -845,6 +828,7 @@
 
 * 🌐 **[Awesome-Cyber-Security](https://github.com/fabionoth/awesome-cyber-security)**, [Rawsec's CyberSecurity Inventory](https://inventory.raw.pm/), [Cybersecurity-Resources](https://github.com/Nickyie/Cybersecurity-Resources), [Infosec Resources](https://github.com/stong/infosec-resources) or [Anon Security](https://t.me/anon_server) - Cybersecurity Resources
 * 🌐 **[Awesome CI/CD Security](https://github.com/myugan/awesome-cicd-security)** - CI/CD Security Resources
+* 🌐 **[Reverse Engineering Resources](https://github.com/wtsxDev/reverse-engineering)** - Reverse Engineering Resources
 * ↪️ **[Security / Hacking News](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_security_.2F_hacking_news)**
 * [Open Source Security Software](https://open-source-security-software.net/) - Cybersecurity Software
 * [Advisory Database](https://github.com/github/advisory-database) or [Att&ck](https://attack.mitre.org/) - Cybersecurity Defense Databases
@@ -871,7 +855,9 @@
 * [Cryptography](https://github.com/dint-dev/cryptography) - Dart and Flutter Cryptography Library
 * [Kali NetHunter](https://store.nethunter.com/en/) or [AndroGuard](https://github.com/androguard/androguard) - Penetration Testing / Forensics Apps
 * [MobileApp-Pentest-Cheatsheet](https://github.com/tanprathan/MobileApp-Pentest-Cheatsheet) - App Pentesting Cheatsheet
+* [Radare](https://rada.re/r/), [Reverse Engineer's Toolkit](https://github.com/mentebinaria/retoolkit), [Rizin](https://rizin.re/), [Frida](https://frida.re/), [GHIDRA](https://ghidra-sre.org/) or [Cutter](https://github.com/rizinorg/cutter) - Reverse Engineering 
 * [MSTG](https://github.com/OWASP/owasp-mastg) or [DVIA-v2](https://github.com/prateek147/DVIA-v2) - App Security Testing / Reverse Engineering
+* [challenges.re](https://challenges.re/) - Reverse Engineer Code
 * [YASNAC](https://github.com/RikkaW/YASNAC) - SafetyNet Attestation Checker
 * [AllSafe](https://github.com/t0thkr1s/allsafe) - Intentionally Vulnerable Android App
 
@@ -1032,7 +1018,6 @@
 * 🌐 **[Awesome Regex](https://github.com/aloisdg/awesome-regex)** - Regex Resources
 * 🌐 **[Awesome-Discord-Communities](https://github.com/mhxion/awesome-discord-communities)** - Discord Communities 
 * 🌐 **[Awesome Twitter Accounts](https://github.com/yask123/AwesomeTwitterAccounts)** or [Awesome Twitter Communities](https://github.com/mattn/awesome-twitter-communities) - Twitter Communities
-* 🌐 **[Reverse Engineering Resources](https://github.com/wtsxDev/reverse-engineering)** - Reverse Engineering Resources
 * ⭐ **[Starcoder](https://huggingface.co/spaces/bigcode/bigcode-playground)**, [TurboPilot](https://github.com/ravenscroftj/turbopilot) or [Safurai](https://www.safurai.com/) / [Discord](https://discord.com/invite/JYXue8DD4w) - Auto-Code Completion
 * ⭐ **[Literally Anything](https://www.literallyanything.io/)** - Generate Code via Prompts
 * ⭐ **[RevShells](https://www.revshells.com/)** - Reverse Shell Generator
@@ -1120,7 +1105,6 @@
 * [ShortCode](https://shortcode.dev/), [Google Code Archive](https://code.google.com/archive/) or [CodeList](https://codelist.cc/v3/) - Script / Code Indexes
 * [MoonScript](https://moonscript.org/) - Dynamic Scripting Language
 * [Carbon](https://dreamy-ptolemy-eb4e80.netlify.app/) / [2](https://carbon.now.sh/), [CodeImage](https://codeimage.dev/), [ray.so](https://ray.so/), [Chalk](https://chalk.ist/), [CodePNG](https://www.codepng.app/), [Snapartify](https://snapartify.com) or [Show Code](https://showcode.app/) - Code Screenshots
-* [challenges.re](https://challenges.re/) - Reverse Engineer Code
 * [thefuck](https://github.com/nvbn/thefuck) - Corrects Previous Console Command
 * [DelphiTools](https://www.delphitools.info/) - Code Profiler / Delphi Tools
 * [OhMyPosh](https://ohmyposh.dev/) - Terminal Theme Engine
