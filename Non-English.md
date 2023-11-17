@@ -1472,7 +1472,7 @@
 * ⭐ **[Playdede](https://dominiosplaydede.com/)** - Movies / TV / Anime / 1080p / [Telegram](https://t.me/s/playdedeinformacion)
 * ⭐ **[Kodi Addon "Cristal Azul"](https://rentry.co/kodi-addon-cristal-azul/)** - Movies / TV / Live Sports / Castilian / [Telegram](https://t.me/addonfestaycristal/)
 * ⭐ **[LaQuay TDT Channels](https://github.com/LaQuay/TDTChannels)** - Live TV / Live Radio / IPTV / Castilian
-* ⭐ **[El Plan](https://hackmd.io/@algamo/DELANTERO-PICHICHI)**, [2](https://www.reddit.com/user/No_Land656) - Live Sports Acestream IDs
+* ⭐ **[El Plan](https://www.reddit.com/user/No_Land656)** - Live Sports Acestream IDs
 * ⭐ **[Flipax](https://flipax.es/)** - Live Sports
 * [Zonaleros](https://www.zona-leros.com/peliculas-hd-online-lat) - Movies / TV / 1080p / Latino
 * [Movidy.one](https://movidy.one/) - Movies / TV / Anime / 1080p / Latino
