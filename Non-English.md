@@ -205,26 +205,18 @@
 
 * [Jiumo](https://www.jiumodiary.com/) - Book Search Engine
 * [BooksThatMakeYouThink](https://t.me/BooksThatMakeYouThink) - Nonfiction
-* [shuge](https://www.shuge.org/) - Rare / Ancient Books
-* [haodoo](https://haodoo.net/) - Books
 * [AutumnWindBookstore](https://www.qiufengshuwu.com/) - Fiction
 * [ixdzs](https://ixdzs.tw/) - Fiction
 * [shuhai](https://www.shuhai.vip/) - Novels
 * [xxbiqudu](https://www.xxbiqudu.com/) - Novels
 * [lingjingxingzhe](https://lingjingxingzhe.com/) - Novels
+* [haodoo](https://haodoo.net/) - Books
 * [52shuku](https://www.52shuku.vip/) - Books / Light-Novels
 * [ttkan](https://www.ttkan.co) - Books / Light-Novels
-* [qqszz](https://www.qqszz.net/) - Books / Light-Novels / Requires Sign-up
 * [Huangdizhijia](https://www.huangdizhijia.com/index.html) - Books / Light-Novels
 * [118book](https://www.118book.com/) - Books / Light-Novels
 * [ptwxz](https://www.ptwxz.com/) - Books / Light-Novels
-* [AC.QQ](https://ac.qq.com/) - Manga
-* [BiliBili](https://manga.bilibili.com/) - Manga
-* [manhuagui](https://www.manhuagui.com/) - Manga
-* [DMZJ](https://www.dmzj.com/) - Manga
-* [xlsmh](https://www.xlsmh.com) - Manga
-* [Laimanhua](https://www.laimanhua8.com/) - Manga
-* [Mangabz](https://www.mangabz.com/) - Manga
+* [qqszz](https://www.qqszz.net/) - Books / Light-Novels / Requires Sign-Up
 * [uukanshu](https://www.uukanshu.com/) - Light-Novels
 * [vvbiquge](http://www.vvbiquge.cc/) - Light-Novels
 * [lightnovel.us](https://www.lightnovel.us/) - Light-Novels
@@ -238,8 +230,16 @@
 * [ffxs8](https://ffxs8.com/) - Light-Novels
 * [Piaotian](https://www.ptwxz.com/) - Light-Novels
 * [Baozimh](https://www.baozimh.com/) - Webtoons
+* [AC.QQ](https://ac.qq.com/) - Manga
+* [BiliBili](https://manga.bilibili.com/) - Manga
+* [manhuagui](https://www.manhuagui.com/) - Manga
+* [DMZJ](https://www.dmzj.com/) - Manga
+* [xlsmh](https://www.xlsmh.com) - Manga
+* [Laimanhua](https://www.laimanhua8.com/) - Manga
+* [Mangabz](https://www.mangabz.com/) - Manga
 * [Doujin Fiction Network](https://www.trxs.me/) or [Readfine](https://t.me/Readfine) / [Discussion](https://t.me/ReadfineChat) - FanFiction
 * [ishare.iask](https://ishare.iask.sina.com.cn/) - Educational Documents
+* [shuge](https://www.shuge.org/) - Rare / Ancient Books
 * [CText](https://ctext.org/), [ChineseNotes](https://chinesenotes.com/texts.html) or [Kanripo](https://www.kanripo.org/) - Chinese Historic Text Archive
 * [guoxue](http://www.guoxue.com/) - History / Journals
 * [ebooks](https://github.com/XWHQSJ/ebooks), [Chinese Programming Books](https://github.com/justjavac/free-programming-books-zh_CN) or [awesome-wiki-books](https://github.com/awesome-wiki/awesome-wiki-books), [Banshujiang](http://www.banshujiang.cn/) - Programming Books
@@ -317,11 +317,10 @@
 ## ▷ Downloading
 
 * ⭐ **[French DDL Google Docs](https://discord.com/invite/AwAcRHXZ5m)** - [Films](https://docs.google.com/document/d/1f-CCNWh_pVSNQhivKEDixndBoM37XslJBR9OJqFeeBA/) / [Series](https://docs.google.com/document/d/1fb2yM3BW7Dn2-ueXldW5IN8EKCEfDQtesCF_xXpYTl0/) / [Anime](https://docs.google.com/document/d/1Bk84UHCvs6pUWL4OkJqgMsdiSkrFeJRmkGOTBlzuI7M/) / [Books](https://docs.google.com/document/d/1uPE4t6QfOxQE8KFl9dkbRmNgGlknDLMEw8bdAI5FMgs/)
-* [NextWarez](https://nextwarez.com/) - Warez Lists
 * [mega-p2p](https://www.mega-p2p.net/) - Warez Lists
-* [FilesSeekr](https://w7w.files-seekr.com/) - Download Search Files
-* [Pixel Downloader](https://github.com/valentintintin/pixel-downloader) - French / Download Search Tool
-* [WawaCity](https://www.wawacity.kim/) - Video / Audio / Books / Games / Use Adblocker
+* [FilesSeekr](https://w7w.files-seekr.com/) or [Pixel Downloader](https://github.com/valentintintin/pixel-downloader) - Search Warez Sites
+* [WawaCity](https://www.wawacity.fit/) - Video / Audio / Books / Games / Use Adblocker
+* [BookDDL](http://www.bookddl.com/) - Books / Magazines / Newspapers / Audiobooks
 * [DBFree](https://dbfree.me/) - Books
 * [FRDownMags](https://fr.downmagaz.net/) - Magazines
 * [Abandonware France](https://www.abandonware-france.org/index.php) - Abandonware
@@ -332,54 +331,48 @@
 
 * [YggTorrent](https://www3.yggtorrent.wtf/) - Video / Audio / Roms / Books / Comics
 * [Torrent9](https://www.torrent9.fm/), [2](https://www.torrent9.site/), [3](https://torrent9.app/) - Video / Audio / Roms / Books
-* [Torrent911](https://www.torrent911.me/) - Video / Audio/ Roms / Books
+* [Torrent911](https://www.torrent911.me/) - Video / Audio / Roms / Books
 * [OxTorrent](https://oxtorrents.co/) - Video / Audio/ Roms / Books
 * [Cpasbien](https://www.cpasbien.tw/) - Video / Audio / Books/ ROMs
-* [Zetorrents](https://www.zetorrents.pw/) - Video / Audio/ ROMs / Books
-* [Torrent411](https://www.torrent411.to/) - Video / Audio/ ROMs / Books
-* [Sharewood](https://www.sharewood.tv/) - Video / Audio/ ROMs / Books
+* [Zetorrents](https://www.zetorrents.pw/) - Video / Audio / ROMs / Books
+* [Torrent411](https://www.torrent411.to/) - Video / Audio / ROMs / Books
+* [Sharewood](https://www.sharewood.tv/) - Video / Audio / ROMs / Books
 
 ## ▷ Streaming
 
-* ⭐ **[Sadisflix](https://sadisflix.day/)** - Movies / TV / [Telegram](https://t.me/sadisflix)
-* [MesFilms](https://mesfilms.sbs/) or [VoirFilmsHD](https://flashfilms-hd.top/) - Movies / TV / Cartoons / Anime
-* [Wawa-Streams](https://wawa-streams.com/) - Movies / TV
+* ⭐ **[Sadisflix](https://sadisflix.bid/)** - Movies / TV / Anime / Dub / 1080p / [Telegram](https://t.me/sadisflix)
+* [MesFilms](https://mesfilms.top/) - Movies / TV / Cartoons / Anime / Sub / Dub / 1080p
+* [VoirFilmsHD](https://flashfilms-hd.top/) - Movies / TV / Cartoons / Anime / Sub / Dub / 720p
 * [Cinematheque](https://www.cinematheque-bretagne.bzh/) - Classic / Amateur Movies
-* [OtakuFR](https://otakufr.co/) - Anime
-* [Anime-Ultime](https://www.anime-ultime.net/), [2](https://v5.anime-ultime.net/) - Anime
-* [universanime](https://www.universanime.club/) - Anime
-* [mavanimes](https://mavanimes.cc/) - Anime
-* [FRAnime](https://franime.fr/) - Anime
-* [French Anime](https://french-anime.com/) - Anime
-* [VoirAnime](https://voiranime.com/) - Anime
-* [Neko-sama](https://www.neko-sama.fr/) - Anime
-* [Animeo TV](https://animeovf.fr) - Anime
-* [sekai](https://sekai.one/) - Anime
-* [vostanime](https://vostanime.fr/) - Anime
-* [VostFree](https://vostfree.ws/) - Anime
-* [animevostfr](https://animevostfr.tv/) - Anime
-* [animeko](https://animeko.co/) - Anime
-* [animesultra](https://www1.animesultra.net/) - Anime
-* [anime-sama](https://anime-sama.fr/) - Anime
-* [toonanime](https://v2.toonanime.tv/) - Anime
-* [VoirCartoon](https://voircartoon.com/) - Cartoons
+* [OtakuFR](https://otakufr.co/) - Anime / Sub / 1080p
+* [universanime](https://www.universanime.club/) - Anime / Sub / 1080p
+* [mavanimes](https://mavanimes.cc/) - Anime / Sub / 1080p
+* [FRAnime](https://franime.fr/) - Anime / Sub / 1080p
+* [French Anime](https://french-anime.com/) - Anime / Sub / 1080p
+* [VoirAnime](https://voiranime.com/) - Anime / Sub / 1080p
+* [Neko-sama](https://www.neko-sama.fr/) - Anime / Sub / 1080p
+* [Animeo TV](https://animeovf.fr) - Anime / Sub / 1080p
+* [sekai](https://sekai.one/) - Anime / Sub / 1080p
+* [vostanime](https://vostanime.fr/) - Anime / Sub / 1080p
+* [VostFree](https://vostfree.ws/) - Anime / Sub / 1080p
+* [animevostfr](https://animevostfr.tv/) - Anime / Sub / 1080p
+* [animeko](https://animeko.co/) - Anime / Sub / 1080p
+* [anime-sama](https://anime-sama.fr/) - Anime / Sub / 1080p
+* [VoirCartoon](https://voircartoon.com/) - Cartoons / Dub / 720p
 * [33rapmp3](https://www.33rapmp3.cc/) - Rap
 
 ## ▷ Reading
 
-* [BookDDL](http://www.bookddl.com/) - Books / Magazines / Newspapers / Audiobooks
 * [Bookys](https://ww8.bookys-ebooks.com/) - Books / Comics / Magazines / Newspapers / NSFW
-* [Planet-DB](https://planete-bd.org/) - Comics / Manga
+* [zone-ebook.com](https://zone-ebook.com/) - Books / Comics / Magazines / Newspapers / Audiobooks
 * [Audiocite](https://www.audiocite.net/) - Audiobooks
-* [zone-ebook.com](https://zone-ebook.com/) - Magazines / Newspapers / Books / Audiobooks / Comics
 * [nooSFere](https://www.noosfere.org/) - Science Fiction
 * [Origines](https://discord.com/invite/origines) - Manga / Manhwa / Manhua / NSFW
-* [japscan](https://www.japscan.lol/) - Manga
-* [mangascan](https://manga-scan.co/), [2](https://scansmangas.me/), [3](https://scanmanga-vf.ws/) - Manga
-* [mangadraft](https://www.mangadraft.com/) - Manga
+* [mangadraft](https://www.mangadraft.com/) - Manga / Comics / Webtoons / Light-Novels
+* [Planet-DB](https://planete-bd.org/) - Manga / Comics
+* [mangascan](https://manga-scan.co/), [2](https://scansmangas.me/), [3](https://scanmanga-vf.me/) - Manga
 * [Bento Manga](https://www.bentomanga.com/) - Manga
-* [raijinscans](https://raijinscans.com/) - Manga
-* [mangacollec](https://www.mangacollec.com/) - Manga Manager
+* [raijinscans](https://raijinscans.fr/) - Manga
 
 ***
 
@@ -395,64 +388,49 @@
 
 ## ▷ Downloading
 
-* [Openos](http://www.openos.at/) - Linux Distros
 * [Crawli](https://crawli.net/) - Download Search
-* [ArchivX](https://www.archivx.to/) - Warez / List
-* [LinkR](https://www.linkr.top/index.php) - Warez / List
+* [ArchivX](https://www.archivx.to/), [StartSeite](https://startseite.to/) or [LinkR](https://www.linkr.top/index.php) - Warez Lists
 * [DarkLight](https://board.darklight.to/) - Video / Audio / ROMs / Books / Magazines / NSFW
-* [Goldesel](https://goldesel.bz/) - Video / Audio / NSFW
-* [byte.to](https://byte.to/) - Video / Audio/ Books / NSFW
-* [ngb](https://ngb.to/) - Video / Audio / Books 
 * [Warez-World](https://warez-world.org/) - Video / Audio / Books / Magazines / NSFW
-* [hd-source](https://hd-source.to/) - Video / NSFW
-* [MLCBoard](https://mlcboard.com/) - Movies
-* [Nima4k](https://nima4k.org/) - Movies / TV / Documentaries / Music
-* [Deutsche Filme](https://t.me/deutsche_filme_german_movies) or [GERMAN MOVIES](https://t.me/german_movie_channel)- Movies / Telegram
-* [Boerse](https://myboerse.bz/) - Video / Audio/ NSFW
-* [Animes.so](https://www.animes.so/) - Anime
-* [37.187.112](http://37.187.112.153/) - Anime
+* [Goldesel](https://goldesel.bz/) - Video / Audio / NSFW
+* [Boerse](https://myboerse.bz/) - Video / Audio / NSFW
+* [byte.to](https://byte.to/) - Video / Audio / Books / NSFW
+* [ngb](https://ngb.to/) - Video / Audio / Books
+* [Nima4k](https://nima4k.org/) - Video / Audio
+* [hd-source](https://hd-source.to/) or [DDL-Warez](https://ddl-warez.cc/) - Video / NSFW
 * [serienjunkies](https://serienjunkies.org/) - TV
-* [CannaPower](https://canna-power.to/) - Music / Audiobooks
-* [DDL-Warez](https://ddl-warez.cc/) - Movies / TV/ NSFW
+* [MLCBoard](https://mlcboard.com/) - Movies
+* [Deutsche Filme](https://t.me/deutsche_filme_german_movies) or [GERMAN MOVIES](https://t.me/german_movie_channel) - Movies / Telegram
+* [Animes.so](https://www.animes.so/) - Anime
+* [CannaPower](https://canna-power.to/) - Audio
 
 ## ▷ Streaming
 
-* ⭐ **[kinoking](https://kinoking.cc/)** - Movies / TV / Anime
-* [Kino](https://wwv.kino.ws/) - Movies / TV / 720p / Dub
-* [StartSeite](https://startseite.to/) - Movies / TV / NSFW / List
-* [streamkiste](https://streamkiste.fan/) - Movies / TV
-* [filmpalast](https://filmpalast.to/) - Movies / TV
-* [Film Palast](https://filmpalast.info/) - Movies / TV
-* [serienstream](https://serienstream.ru/) - TV / Anime
-* [Megakino](https://megakino.org/) - Movies / TV
-* [BS.TO](https://bs.to/), [2](https://burningseries.tw/) - TV / Anime / Cartoons / [App](https://github.com/DATL4G/Burning-Series)
-* [StreamCloud](https://www2.streamcloud.info/) - Movies / TV
-* [BioskopKaca21](https://62.171.161.107/) - Movies / TV
-* [Kinos](https://www.kinos.to/) - Movies / TV
-* [xCine](https://xcine.ru/) - Movies / TV
-* [KinoZ](https://kinoz.to/) - Movies / TV / Anime / NSFW
-* [S.TO](https://s.to/) - TV / Anime
-* [SRF.CH](https://www.srf.ch/) - TV / Sports / Live
-* [Anime-Loads](https://www.anime-loads.org/) - Anime
-* [Aniworld](https://aniworld.to) - Anime
-* [Aniflix](https://www.aniflix.cc/) - Anime
-* [dokustreams](https://dokustreams.de/) - Documentaries
-* [dctp.tv](https://www.dctp.tv/) - Documentaries
-* [dokuh.de](https://www.dokuh.de/) - Documentaries
+* ⭐ **[kinoking](https://kinoking.cc/)** - Movies / TV / Anime / Dub / 1080p
+* [Kino](https://wwv.kino.ws/) - Movies / TV / Dub / 720p
+* [streamkiste](https://streamkiste.fan/) - Movies / TV / Dub / 1080p
+* [FilmPalast](https://filmpalast.to/), [2](https://filmpalast.info/) - Movies / TV / Dub / 1080p
+* [Megakino](https://megakino.org/) - Movies / TV / Dub / 720p
+* [StreamCloud](https://www2.streamcloud.info/) - Movies / TV / 720p
+* [Kinos](https://www.kinos.to/) - Movies / TV / Dub / 720p
+* [xCine](https://xcine.ru/) - Movies / TV / Dub / 720p
+* [S.TO](https://s.to/) - TV / Anime / Dub / 720p
+* [BS.TO](https://bs.to/) - TV / Anime / Cartoons / Dub / 720p [App](https://github.com/DATL4G/Burning-Series)
+* [Anime-Loads](https://www.anime-loads.org/) - Anime / Dub / 1080p
+* [Aniworld](https://aniworld.to) - Anime / Sub / Dub / 720p
+* [Aniflix](https://www.aniflix.cc/) - Anime / Dub / 720p
+* [dokustreams](https://dokustreams.de/), [dctp.tv](https://www.dctp.tv/) or [dokuh.de](https://www.dokuh.de/) - Documentaries
 * [Stiftung imai](https://stiftung-imai.de/) - Video Archive
+* [SRF.CH](https://www.srf.ch/) - Live TV / Sports
 * [2ix2](https://www.2ix2.com/) - Live TV
 * [tvpinto](https://www.tvpinto.com/) - Live TV
 * [dtvd](https://dtvd.net/) - Live TV
 * [mediathekviewweb](https://mediathekviewweb.de/) - IPTV 
-* [hoerspielprojekt](https://www.hoerspielprojekt.de/) - Radio Plays
-* [forschung](https://forschung-kuenstlerpublikationen.de/Werke.html) - Rare LPs
-* [ProxerAndroid](https://github.com/proxer/ProxerAndroid) - Android / Anime
-* [Teapod](https://git.mosad.xyz/Seil0/teapod) - Android / Anime
+* [hoerspielprojekt](https://www.hoerspielprojekt.de/) - Radio
 
 ## ▷ Reading
 
 * [Dokumen](https://dokumen.pub/) - Books
-* [VK Serial Books & Magazines](https://vk.com/sebomag) - Books / Magazines
 * [EBook Land](https://www.ebook-land.cc/index.php) - Books / Magazines
 * [DownMagaz](https://de.downmagaz.net/) - Magazines / NSFW
 * [ComicMafia](https://comicmafia.to/) - Comics / Manga
