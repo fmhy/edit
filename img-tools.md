@@ -315,13 +315,8 @@
 * [Worldvectorlogo](https://worldvectorlogo.com/), [Logos & Badges Bundle](https://github.com/nbats/FMHYedit/blob/main/base64.md#logos--badges-bundle), [Brands of the World](https://www.brandsoftheworld.com/), [Logos Download](https://logos-download.com/), [Logodust](https://logodust.com/), [Logowik](https://logowik.com/), [Logo Wine](https://www.logo.wine/), [logospire](https://logospire.com/), [LogoSearch](https://logosear.ch/), [logopond](https://logopond.com/), [logotouse](https://www.logotouse.com/), [logolounge](https://www.logolounge.com/), [logomoose](https://www.logomoose.com/) - Logo Designs
 * [MariaLetta](https://github.com/MariaLetta/mega-doodles-pack) - Free Doodles
 * [Watercolor Collection](https://github.com/nbats/FMHYedit/blob/main/base64.md#watercolor-collection) - Download Watercolor Pictures
-* [google-images-download](https://github.com/Joeclinton1/google-images-download) - Download Images from Google Images 
-* [googleimagerestored](https://github.com/fanfare/googleimagesrestored) - Old Google Image Search 
-* [dzi-dl](https://github.com/ryanfb/dzi-dl) - Deep Zoom Image Downloader 
-* [imgbrd-grabber](https://github.com/Bionus/imgbrd-grabber) - Booru Image Downloader / [Viewer](https://github.com/loadletter/grabber-viewer) 
-* [tistore](https://github.com/Kagami/tistore) - Tistory Image Downloader
+* [imgbrd-grabber](https://github.com/Bionus/imgbrd-grabber) - Booru Image Downloader
 * [Block Posters](https://www.blockposters.com/) - Create Printable Posters
-* [IndieKids](https://www.indiekids.io/) - Printable Coloring Pages
 
 ***
 
