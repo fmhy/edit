@@ -294,7 +294,6 @@
 * [RootAbout](https://rootabout.com/) - Archive / OpenlLibrary Reverse Image Search 
 * [PicTriev](http://www.pictriev.com/) - Find Look-Alike Images 
 * [PimEyes](https://pimeyes.com/en/) - Reverse Face Image Search 
-* [trace.moe](https://trace.moe/) or [Saucekudasai](https://saucekudasai.com/) - Anime Reverse Image Search 
 * [Multicolr](https://labs.tineye.com/multicolr/) - Color Based Reverse Image Search
 * [pfps.gg](https://pfps.gg/) - Profile Picture Index
 * [OpenMoji](https://openmoji.org/) - Emojis
@@ -304,18 +303,16 @@
 * [Plant Illustrations](http://www.plantillustrations.org/) - Plant Illustrations
 * [Film.ai](https://beta.flim.ai/) or [Film Grab](https://film-grab.com/) - Movie Screenshots
 * [CleanPNG](https://www.cleanpng.com/), [PNGWing](https://www.pngwing.com/), [PNGEgg](https://www.pngegg.com/), [AnyRGB](https://www.anyrgb.com/), [HiClipart](https://www.hiclipart.com/), [HDClipArtAll](https://hdclipartall.com/), [pngmart](https://www.pngmart.com/), [pngall](https://www.pngall.com/), [pngplay](https://www.pngplay.com/), [freepngimg](https://www.freepngimg.com/), [KindPNG](https://www.kindpng.com/), [FreePNGLogos](https://www.freepnglogos.com/), [PNGFind](https://www.pngfind.com) or [PNGHut](https://pnghut.com/) - PNG Images / Clipart
-* [Buhitter](https://buhitter.com/) - Twitter Illustration Search
 * [Footyrenders](https://www.footyrenders.com/) - Football Related Images
 * [PSDGraphics](https://www.psdgraphics.com/) - PSD Files
 * [The NFT Bay](https://thenftbay.org/) or [Extremely Fungible Tokens](https://www.extremelyfungible.com/) - Free NFTs
-* [Artbreeder](https://artbreeder.com/) - Image Discovery / Combining
 * [Artvee](https://artvee.com/) - Public Domain Artwork 
 * [Behance](https://behance.net/) - Design Projects
 * [Placeit](https://placeit.net/) - Image Templates
 * [Worldvectorlogo](https://worldvectorlogo.com/), [Logos & Badges Bundle](https://github.com/nbats/FMHYedit/blob/main/base64.md#logos--badges-bundle), [Brands of the World](https://www.brandsoftheworld.com/), [Logos Download](https://logos-download.com/), [Logodust](https://logodust.com/), [Logowik](https://logowik.com/), [Logo Wine](https://www.logo.wine/), [logospire](https://logospire.com/), [LogoSearch](https://logosear.ch/), [logopond](https://logopond.com/), [logotouse](https://www.logotouse.com/), [logolounge](https://www.logolounge.com/), [logomoose](https://www.logomoose.com/) - Logo Designs
 * [MariaLetta](https://github.com/MariaLetta/mega-doodles-pack) - Free Doodles
 * [Watercolor Collection](https://github.com/nbats/FMHYedit/blob/main/base64.md#watercolor-collection) - Download Watercolor Pictures
-* [imgbrd-grabber](https://github.com/Bionus/imgbrd-grabber) - Booru Image Downloader
+* [googleimagerestored](https://github.com/fanfare/googleimagesrestored) - Old Google Image Search 
 * [Block Posters](https://www.blockposters.com/) - Create Printable Posters
 
 ***
@@ -323,13 +320,22 @@
 ## ▷ Illustrations
 
 * ⭐ **[Kemono](https://kemono.su/)** - Patreon Content / Some NSFW / Use Adblock
-* ⭐ **[DeviantArt](https://www.deviantart.com/)** - User-Made Fan Art
-* ⭐ **[Pixiv](https://www.pixiv.net/)** - Japanese / Western Fanart
-* ⭐ **Pixiv Tools** - [Downloader](https://chrome.google.com/webstore/detail/pixiv-toolkit/ajlcnbbeidbackfknkgknjefhmbngdnj?hl=en), [2](https://github.com/Nandaka/PixivUtil2) / [Mobile App](https://github.com/alphasp/pxview) / [Rankings](https://pixiv.navirank.com/)
+* ⭐ **[DeviantArt](https://www.deviantart.com/)** - Western Fanart / [Downloader](https://github.com/NC22/KellyC-Image-Downloader)
+* ⭐ **[Pixiv](https://www.pixiv.net/)** - Japanese Fanart
+* ⭐ **Pixiv Tools** - [Downloader](https://chrome.google.com/webstore/detail/pixiv-toolkit/ajlcnbbeidbackfknkgknjefhmbngdnj?hl=en), [2](https://github.com/Nandaka/PixivUtil2), [3](https://github.com/xuejianxianzun/PixivBatchDownloader), [4](https://greasyfork.org/en/scripts/432150-pixiv-downloader) / [Mobile App](https://github.com/alphasp/pxview) / [Rankings](https://pixiv.navirank.com/) / [Viewer](https://pixiv.pics/) / [Preview](https://github.com/NightLancer/PixivPreview), [2](https://github.com/ppixiv/ppixiv)
+* ⭐ **[Danbooru](https://danbooru.donmai.us/)** / [SFW Only](https://safebooru.donmai.us/), [Sankaku Complex](https://chan.sankakucomplex.com/) or [yande.re](https://yande.re/) - Anime-Style Image Booru / [Donwloader](https://github.com/kuanyui/BooruShinshi)
 * ⭐ **[hydrus](https://hydrusnetwork.github.io/hydrus/)** - Booru-Style Media Tagger / [Github](https://github.com/hydrusnetwork/hydrus)
+* ⭐ **[booruwf](https://booru.pixiv.pics/)** - Booru Aggregator / [Alternate Layout](https://moeview.pixiv.pics/) / [Github](https://github.com/asadahimeka/booruwf-web)
 * [ArtStation](https://www.artstation.com/) / [Downloader](https://github.com/findix/ArtStationDownloader)
-* [Sankaku](https://sankaku.app/), [Anime Pictures](https://anime-pictures.net/) or [ZeroChan](https://zerochan.net/) - Anime Images / Some NSFW / [Chrome](https://github.com/Disrc/SankakuComplexAddon)
-
+* [Gelbooru](https://gelbooru.com/), [Safebooru](https://safebooru.org/) or [TBIB](https://tbib.org/) - Image Boorus
+* [Anime Pictures](https://anime-pictures.net/), [ZeroChan](https://zerochan.net/) or [/w/](http://catalog.neet.tv/w/) - Anime Wallpapers
+* [Studio Ghibli Wallapers](https://www.ghibli.jp/info/013772/) - Studio Ghibli Wallapers
+[Flexbooru](https://github.com/flexbooru/flexbooru), [BooruSphere](https://github.com/nullxception/boorusphere), [Yummybooru](https://github.com/Yochyo/Yummybooru) or [Animes Boxes](https://animebox.es/) - Booru Clients / [Telegram](https://t.me/Flexbooru/161)
+* [Buhitter](https://buhitter.com/) - Twitter Illustration Search
+* [imgbrd-grabber](https://github.com/Bionus/imgbrd-grabber) - Booru Image Downloader
+* [trace.moe](https://trace.moe/) or [Saucekudasai](https://saucekudasai.com/) - Anime Reverse Image Search
+* [Artbreeder](https://artbreeder.com/) - Image Discovery / Combining
+  
 ***
 
 ## ▷ [Wallpapers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_wallpapers)
