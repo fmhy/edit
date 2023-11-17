@@ -719,7 +719,6 @@
 * [Booru Slideshow](https://github.com/Chirmaya/BooruSlideshow) - Make Slideshows Easier to Navigate
 * [Textmarker](https://github.com/ufb/Textmarker) - Text Highlighter 
 * [Bulk URL Opener](https://bulkurlopener.com/) or [Open-Multiple-URLs](https://github.com/htrinter/Open-Multiple-URLs/) - Open Multiple URL's in One Click 
-* [Forecastfox](https://www.s3blog.org/forecastfox.html) - Weather Addon
 * [PronounDB](https://pronoundb.org/) - Pronoun Addon
 * [Timer](https://eccorem.com/apps/timer.html) - Timer, Alarm & Stopwatch 
 * [Dollchan](https://dollchan.net/) - Imageboard Features
@@ -1075,7 +1074,6 @@
 * ↪️ **[Anon Image Boards](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_anonymous_image_boards)**
 * ↪️ **[4chan Archives](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_4chan_archives)**
 * ⭐ **[KnowYourMeme](https://knowyourmeme.com/)** or [FndThatMeme](https://findthatmeme.com/) - Meme Databases
-* ⭐ **[DeviantArt](https://www.deviantart.com/)** or [ArtStation](https://www.artstation.com/) / [Downloader](https://github.com/findix/ArtStationDownloader) - User-Made Art
 * ⭐ **[TierMaker](https://tiermaker.com/)** - Tier List Image Creator
 * [z0r](https://z0r.de/) - Random Music GIFs / Some NSFW
 * [DreamWidth](https://www.dreamwidth.org/) - User-Made Images & Stories
