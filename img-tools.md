@@ -4,7 +4,7 @@
 ***
 ***
 
-**[Table of Contents](https://ibb.co/C9DsNyg)** - For mobile users
+**[Table of Contents](https://ibb.co/Fqws2MX)** - For mobile users
 
 ***
 *** 
@@ -287,7 +287,6 @@
 * ↪️ **[Icon Download Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_icon_download_sites)**
 * ↪️ **[Media Covers / Posters](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_covers_.2F_posters)**
 * ⭐ **[Search Anything](https://search.anything.io/)**, [Yandex Images](https://yandex.ru/images) or [Google Images](https://images.google.com/) - Image Search Engines
-* ⭐ **[Kemono](https://kemono.su/)** - Patreon Content / Some NSFW / Use Adblock
 * ⭐ **[gallery-dl](https://github.com/mikf/gallery-dl)**, [RipMe](https://github.com/RipMeApp/ripme), [ImgDownloader](https://imgdownloader.com/), [SCrawler](https://github.com/AAndyProgram/SCrawler) or [Image Extractor](https://extract.pics/) - Image Download Tools
 * [Search System](https://www.searchsystem.co/) - Design Examples
 * [Have I Been Trained?](https://haveibeentrained.com/) - AI Image Search
@@ -305,7 +304,6 @@
 * [Plant Illustrations](http://www.plantillustrations.org/) - Plant Illustrations
 * [Film.ai](https://beta.flim.ai/) or [Film Grab](https://film-grab.com/) - Movie Screenshots
 * [CleanPNG](https://www.cleanpng.com/), [PNGWing](https://www.pngwing.com/), [PNGEgg](https://www.pngegg.com/), [AnyRGB](https://www.anyrgb.com/), [HiClipart](https://www.hiclipart.com/), [HDClipArtAll](https://hdclipartall.com/), [pngmart](https://www.pngmart.com/), [pngall](https://www.pngall.com/), [pngplay](https://www.pngplay.com/), [freepngimg](https://www.freepngimg.com/), [KindPNG](https://www.kindpng.com/), [FreePNGLogos](https://www.freepnglogos.com/), [PNGFind](https://www.pngfind.com) or [PNGHut](https://pnghut.com/) - PNG Images / Clipart
-* [Sankaku](https://sankaku.app/), [Anime Pictures](https://anime-pictures.net/) or [ZeroChan](https://zerochan.net/) - Anime Images / Some NSFW / [Chrome](https://github.com/Disrc/SankakuComplexAddon)
 * [Buhitter](https://buhitter.com/) - Twitter Illustration Search
 * [Footyrenders](https://www.footyrenders.com/) - Football Related Images
 * [PSDGraphics](https://www.psdgraphics.com/) - PSD Files
@@ -321,11 +319,21 @@
 * [googleimagerestored](https://github.com/fanfare/googleimagesrestored) - Old Google Image Search 
 * [dzi-dl](https://github.com/ryanfb/dzi-dl) - Deep Zoom Image Downloader 
 * [imgbrd-grabber](https://github.com/Bionus/imgbrd-grabber) - Booru Image Downloader / [Viewer](https://github.com/loadletter/grabber-viewer) 
-* [Flicker-Download](https://github.com/beaufour/flickr-download) - Flickr Image Downloader
-* [ArtStation Downloader](https://github.com/findix/ArtStationDownloader) - ArtStation Image Downloader
 * [tistore](https://github.com/Kagami/tistore) - Tistory Image Downloader
 * [Block Posters](https://www.blockposters.com/) - Create Printable Posters
 * [IndieKids](https://www.indiekids.io/) - Printable Coloring Pages
+
+***
+
+## ▷ Illustrations
+
+* ⭐ **[Kemono](https://kemono.su/)** - Patreon Content / Some NSFW / Use Adblock
+* ⭐ **[DeviantArt](https://www.deviantart.com/)** - User-Made Fan Art
+* ⭐ **[Pixiv](https://www.pixiv.net/)** - Japanese / Western Fanart
+* ⭐ **Pixiv Tools** - [Downloader](https://chrome.google.com/webstore/detail/pixiv-toolkit/ajlcnbbeidbackfknkgknjefhmbngdnj?hl=en), [2](https://github.com/Nandaka/PixivUtil2) / [Mobile App](https://github.com/alphasp/pxview) / [Rankings](https://pixiv.navirank.com/)
+* ⭐ **[hydrus](https://hydrusnetwork.github.io/hydrus/)** - Booru-Style Media Tagger / [Github](https://github.com/hydrusnetwork/hydrus)
+* [ArtStation](https://www.artstation.com/) / [Downloader](https://github.com/findix/ArtStationDownloader)
+* [Sankaku](https://sankaku.app/), [Anime Pictures](https://anime-pictures.net/) or [ZeroChan](https://zerochan.net/) - Anime Images / Some NSFW / [Chrome](https://github.com/Disrc/SankakuComplexAddon)
 
 ***
 
@@ -434,8 +442,6 @@
 * 🌐 **[FOSS Photo Libraries](https://github.com/meichthys/foss_photo_libraries)** - Open-Source Photo Libraries
 * ↪️ **[Image Hosts](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_image_hosts)**
 * ↪️ **[Image Viewers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_image_viewers)**
-* ⭐ **[hydrus](https://hydrusnetwork.github.io/hydrus/)** - Booru-Style Media Tagger / [Github](https://github.com/hydrusnetwork/hydrus)
-* ⭐ **[Pixiv](https://www.pixiv.net/)** - User-Made Image Host / [Downloader](https://chrome.google.com/webstore/detail/pixiv-toolkit/ajlcnbbeidbackfknkgknjefhmbngdnj?hl=en), [2](https://github.com/Nandaka/PixivUtil2) / [Mobile App](https://github.com/alphasp/pxview) / [Rankings](https://pixiv.navirank.com/)
 * [Lychee](https://lycheeorg.github.io/), [PicoShare](https://github.com/mtlynch/picoshare), [Up1](https://github.com/Upload/Up1) or [Chevereto](https://chevereto.com/) - Self-Hosted Image Host 
 * [Piczel](https://piczel.tv/) - Online Art Gallery
 * [Make Photo Gallery](https://makephotogallery.net/) - Photo Gallery Creator
