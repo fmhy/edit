@@ -1,7 +1,6 @@
 <script setup lang="ts">
 import { reactive, ref } from "vue";
 import { useRoute } from "vitepress";
-import { fetcher } from "itty-fetcher";
 import type { FeedbackType } from "../../types/Feedback";
 
 const loading = ref<boolean>(false);
@@ -14,7 +13,7 @@ const feedback = reactive<FeedbackType>({ message: "", contact: "" });
 const feedbackOptions = [
   { label: "🐞 Bug", value: "bug" },
   {
-    label: "♻️ Suggestion",
+    label: "💡 Suggestion",
     value: "suggestion",
   },
   { label: "📂 Other", value: "other" },
@@ -100,7 +99,7 @@ async function handleSubmit(type?: FeedbackType["type"]) {
         <button
           type="submit"
           class="btn btn-primary"
-          :disabled="feedback.message.length > 10"
+          :disabled="feedback.message.length > 1000"
           @click="handleSubmit()">
           Submit
         </button>
