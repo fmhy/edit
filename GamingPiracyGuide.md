@@ -77,6 +77,8 @@
 * ⭐ **[ZDemon](https://www.zdaemon.org/)**, **[Doomseeker](https://doomseeker.drdteam.org/)**, [oDamex](https://odamex.net/), [DoomUtils](http://doomutils.ucoz.com/) or [Zandoronum](https://zandronum.com/) - Online Multiplayer Doom
 * ⭐ **[CsWarzOnE](https://cswarzone.com/)** - Counter-Strike Downloads
 * ⭐ **[OpenRCT2](https://openrct2.io/)** - Open-Source RollerCoaster Tycoon 2
+* [GamesNostalgia](https://gamesnostalgia.com/), [lemon64](https://www.lemon64.com/), [whdload](https://www.whdload.de/), [lemonamiga](https://www.lemonamiga.com/), [exotica](http://www.exotica.org.uk/), [hol abime](https://hol.abime.net/) or [C64](https://www.c64.com/) - Amiga / Commodore 64 ROMs
+* [World of Spectrum](https://worldofspectrum.org/) or [SpectrumComputing](https://spectrumcomputing.co.uk/) - ROMs / Emulators / Sinclair ZX Spectrum
 * [pc-98](https://github.com/nbats/FMHYedit/blob/main/base64.md#pc-98) - PC-98 Games
 * [Necromanthus](https://necromanthus.com/) - 3D Shockwave Games
 * [NBlood](https://github.com/nukeykt/NBlood) - Reverse-Engineered Ports of Build Games
@@ -254,9 +256,6 @@
 * [xbarchive](https://github.com/codemasterv/xbarchive) - ROMs / Xbox Consoles
 * [AtariMania](http://www.atarimania.com/index.html) - ROMs / Emulators / Atari Consoles
  [NesFiles](https://www.nesfiles.com/) - ROMs / NES
-* [GamesNostalgia](https://gamesnostalgia.com/) - ROMs / Amiga
-* [lemon64](https://www.lemon64.com/), [whdload](https://www.whdload.de/), [lemonamiga](https://www.lemonamiga.com/), [exotica](http://www.exotica.org.uk/), [hol abime](https://hol.abime.net/) or [C64](https://www.c64.com/) - Amiga / Commodore 64 ROMs
-* [World of Spectrum](https://worldofspectrum.org/) or [SpectrumComputing](https://spectrumcomputing.co.uk/) - ROMs / Emulators / Sinclair ZX Spectrum
 * [ROMs For MAME](https://www.romsformame.com/), [PleasureDome](https://pleasuredome.github.io/pleasuredome/mame/), [MAME World](https://mameworld.info/) or [Arcade Database](http://adb.arcadeitalia.net/default.php?lang=en) - Arcade MAME ROMs
 * [Marios Alternative](https://github.com/nbats/FMHYedit/blob/main/base64.md#hacked-super-mario) - Hacked Super Mario ROMs
 * [SMWCentral](https://smwcentral.net/) - Hacked Super Mario World ROMs
