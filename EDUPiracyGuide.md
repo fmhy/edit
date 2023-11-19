@@ -258,15 +258,18 @@
 * ⭐ **[Spreeder](https://www.spreeder.com/)** - Learn to Read Faster
 * ⭐ **[The Punctuation Guide](https://www.thepunctuationguide.com/)** - Punctuation Guide
 * ⭐ **[vads](https://vads.ac.uk/digital/)**, [Paintings Index](https://index-of.eu/Paintings/), [rijksstudio](https://www.rijksmuseum.nl/en/rijksstudio), [Artcyclopedia](http://www.artcyclopedia.com/), [The Wolfman Museum of Art](https://wolfmanmuseum.org/), [DarkClassics](https://darkclassics.blogspot.com/), [Arts and Culture](https://artsandculture.google.com/), [European Art](https://photos.app.goo.gl/q5GRdpSvARAqhbSh6), [WGA](https://www.wga.hu/) or [WikiArt](https://www.wikiart.org/) - Digital Art Collections
+* [Open Educational Resources](https://cdn-infographic.pressidium.com/wp-content/uploads/How-to-Search-for-Open-Educational-Resources-Infographic.jpg) - How to search for Open Educational Resources
 * [AnimaGraffs](https://animagraffs.com/) - Animated Infographs
 * [Eylenburg](https://eylenburg.github.io/) - Infographs, Maps & Papers
 * [Matthen](https://blog.matthen.com/) - Math & Science Animations
 * [Information Is Beautiful](https://informationisbeautiful.net/) - Data / Information / Infographics / Visualizations
 * [Lucid](https://apps.apple.com/us/app/lucid-learn-visually/id1482780647) - Visual Learning Guides / iOS
+* [HowStuffWorks](https://www.howstuffworks.com/) - Learn How Things Work
 * [Explorabl.es](https://explorabl.es/), [MinuteLabs](https://minutelabs.io/), [Wikiversity](https://www.wikiversity.org/), [Learnamic](https://www.learnamic.com/) or [TurtleDiary](https://www.turtlediary.com/) - Quizzes / Guides / Games
 * [SoftSchools](https://www.softschools.com/) or [EnchantedLearning](https://www.enchantedlearning.com/) - Worksheets / Games / Quizzes
 * [BrainPOP Jr.](https://jr.brainpop.com/) - Quizzes / Animations
 * [Highbrow](https://gohighbrow.com/) - Daily Lessons
+* [masterWiki](https://masterwiki.how/) - MasterClass Classes Republished as wikiHow Articles
 * [Listenable](https://apps.apple.com/us/app/listenable-learn-with-audio/id1492810539) - 5-Minute Audio Lessons / iOS
 * [WTF Fun Fact](https://wtffunfact.com/) - Daily Facts
 * [Fact Check](https://toolbox.google.com/factcheck/) - Quick Fact Check
@@ -286,6 +289,7 @@
 * [Philosophy Bro](https://www.philosophybro.com/) or [PhilosophyBasics](https://www.philosophybasics.com/) - Learn about Philosophy
 * [Social Engineers](https://web.archive.org/web/20221208021915/https://www.socialengineers.net) - Social Engineering Guides
 * [Brainkit](https://www.braink.it/) - Learn Helpful Principles
+* [RationalWiki](https://rationalwiki.org/) - Pseudoscience Refutation Wiki
 * [YouLogicalFallacyIs](https://yourlogicalfallacyis.com/), [FallacyFiles](https://fallacyfiles.org/index.html) or [LogicalFallacies](https://www.logicalfallacies.org/) - Learn about Logical Fallacies
 * [Debunking Skeptics](https://www.debunkingskeptics.com/) - Pseudo-Skeptical Fallacies
 * [YourBiasIs](https://yourbias.is/) - Learn about Biases
@@ -303,6 +307,7 @@
 * [GeoNames](https://www.geonames.org/) - Geography Name Database
 * [LizardPoint](https://lizardpoint.com/), [Worldle](https://worldle.teuteuf.fr/), [GeoQuest](https://geoquest.gg/) or [Map Quiz](https://planemad.github.io/map-quiz/) - Geography Quizzes
 * [Geo-Memorizer](https://geo-memorizer.web.app/) - Geography Memorization Game
+* [Micronations Wiki](https://micronations.wiki/) - Micronations Wiki
 * [Statele](https://statele.teuteuf.fr/) - State Quiz
 * [Geograph WorldWide](https://www.geograph.org/) - Worldwide Photographs
 * [Flag Guesser](https://flagguesser.com/) - Flag Quizzes
@@ -319,6 +324,12 @@
 * [British & Exotic Mineralogy](https://www.c82.net/mineralogy/) or [Mindat](https://www.mindat.org/) - Mineralogy Database
 * [Global Volcanism Program](https://volcano.si.edu/) - Volcano Information Database
 * [8000ers](https://martin-laxenaire.fr/experiments/8000ers/#/everest) or [Mount Everest 3D](https://mount-everest3d.com/) - Mountain Visualizations & Info
+* [Camopedia](https://www.camopedia.org/) - Camouflage Wiki
+* [AirVectors](https://www.airvectors.net/) - Aircraft Wiki
+* [Robot Shop](https://community.robotshop.com/) - Robotics Forum
+* [Cro-Wood](https://www.cro-wood.com/) - Woodworking Forum
+* [Alt Law Forum](https://altlawforum.org/) - Alternative Law Forum
+* [STORY](https://archive.org/details/RobertMcKeeStorypdf/) - Screenwriting Principles
 * [Animated Knots](https://www.animatedknots.com/) or [NetKnots](https://www.netknots.com/) - Learn to Tie Knots
 * [Ian's Shoelace Site](https://www.fieggen.com/shoelace/) - Learn to Tie Shoelaces
 * [Earth 2050](https://2050.earth/) - Future Predictions
