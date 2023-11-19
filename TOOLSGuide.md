@@ -1257,7 +1257,6 @@
 * [Telega.el](https://github.com/zevlg/telega.el) - Telegram Emacs Client
 * [Rose](https://t.me/MissRose_bot) - Telegram Group Manager
 * [TGCF](https://github.com/aahnik/tgcf) - Telegram Message Forwarding
-* [ProtectZBot](https://t.me/ProtectZBot) - Telegram Message Protection
 * [TediCross](https://github.com/TediCross/TediCross) - Telegram to Discord Bridge
 * [WatgBridge](https://github.com/akshettrj/watgbridge) - Telegram to WhatsApp Bridge
 * [Callmebot](https://www.callmebot.com/) - Trigger Voice Calls or Chats
