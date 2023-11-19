@@ -20,7 +20,7 @@
 * ⭐ **[kobold.cpp](https://github.com/LostRuins/koboldcpp)** - llama.cpp with API + GUI / [rocM](https://github.com/YellowRoseCx/koboldcpp-rocm) / [Colab](https://colab.research.google.com/github/LostRuins/koboldcpp/blob/concedo/colab.ipynb)
 * ⭐ **[Oobabooga Text Generation WebUI](https://github.com/oobabooga/text-generation-webui)** - Self-Host Models, supports ExLlama, AutoGPTQ, overall AiO backend + frontenjd. / [Colab](https://colab.research.google.com/github/pcrii/Philo-Colab-Collection/blob/main/4bit_TextGen_Gdrive.ipynb)
 * ⭐ **[PygmalionAI](https://discord.com/invite/pygmalionai)** - Self-Hosted Roleplaying Models with Resources / [Resources](https://rentry.co/PygmalionLinks)
-* [Aphrodite Engine](https://github.com/PygmalionAI/aphrodite-engine) - Serve LLMs at scale, can serve KoboldAI and Ooba compatible APIs / [Colab](https://colab.research.google.com/github/AlpinDale/misc-scripts/blob/main/Aphrodite.ipynb)
+* [Aphrodite Engine](https://github.com/PygmalionAI/aphrodite-engine) - Serve at scale LLMs for KoboldAI & Ooba / [Colab](https://colab.research.google.com/github/AlpinDale/misc-scripts/blob/main/Aphrodite.ipynb)
 * [KoboldAI](https://github.com/henk717/KoboldAI) - GUI for Roleplaying Chatbots / [Web App](https://lite.koboldai.net/)
 * [SecondBrain](https://secondbrain.sh/), [LMStudio](https://lmstudio.ai/), [OnPrem](https://amaiya.github.io/onprem/) or [Faraday](https://faraday.dev/) - LLM Desktop Apps (Back-end + Front-end)
 * [Transfer Models Timeline](https://ai.v-gar.de/ml/transformer/timeline/) - LLM Timeline
