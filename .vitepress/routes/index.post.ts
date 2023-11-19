@@ -26,7 +26,7 @@ export default defineEventHandler(async (event) => {
     throw new Error("Invalid input.");
 
   let description = `${message}\n\n`;
-  if (contact) description += `**Contact:** ${contact}`;
+  if (contact) description += `**Contact:** ${contact}\n`;
   if (page) description += `**Page:** \`${page}\``;
 
   await fetcher()
