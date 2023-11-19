@@ -1104,6 +1104,7 @@
 * [Web Neko](https://webneko.net/) - Nekos on the Web
 * [No Paint](https://nopaint.art/) - Press "Paint" if you like what you see, "No" if you don't
 * [Random Art](https://www.random-art.org/) - Random Art Generator
+* [HotGlue](https://hotglue.me/) or [Remoji](https://remoji.com/) - Emoji Painting
 * [MyPokeCard](https://www.mypokecard.com/en/) - Create Pokemon Cards
 * [pokemon-colorscripts](https://gitlab.com/phoneybadger/pokemon-colorscripts) - Terminal Pokémon Sprites
 * [Pokémon Fusion](https://pokemon.alexonsager.net/) - Fuse Pokémon
