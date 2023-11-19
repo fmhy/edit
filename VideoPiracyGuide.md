@@ -509,9 +509,9 @@
 * ⭐ **[Smart TV Guide](https://redd.it/xa0aya)** - Smart TV Piracy Guide
 * ⭐ **[Android TV Guide](https://www.androidtv-guide.com/)** - Android TV Piracy Guide / [Spreadsheet](https://docs.google.com/spreadsheets/d/1kdnHLt673EjoAJisOal2uIpcmVS2Defbgk1ntWRLY3E/)
 * ⭐ **[Firestick Tricks](https://www.firesticktricks.com/)** - Firestick Jailbreak Guide / [Loader](https://github.com/esc0rtd3w/firestick-loader)
+* ⭐ **[SmartTube](https://smartyoutubetv.github.io/)** - Ad Free Android TV YouTube Player / [GitHub](https://github.com/yuliskov/SmartTubeNext)
 * [Samsung Smart TV Adblock](https://redd.it/gn7fw5) - Block Smart TV Ads
 * [TCL Browser](https://play.google.com/store/apps/details?id=com.tcl.browser) or [TV Bro](https://play.google.com/store/apps/details?id=com.phlox.tvwebbrowser) - Ad Free Android TV Browsers
-* [SmartTubeNext](https://smartyoutubetv.github.io/) - Ad Free Android TV YouTube Player / [GitHub](https://github.com/yuliskov/SmartTubeNext)
 * [Android TV Spotify](https://github.com/nbats/FMHYedit/blob/main/base64.md#android-tv-spotify) - Android TV Spotify Client
 * [YTCast](https://github.com/MarcoLucidi01/ytcast) - Cast YouTube Videos to Smart TV
 * [S0undTV](https://github.com/S0und/S0undTV) - Android TV Twitch Player / [Discord](https://discord.gg/zmNjK2S)
