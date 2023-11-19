@@ -276,7 +276,7 @@
 
 ***
 
-## ▷ [Art / Editing](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu#wiki_.25B7_art_.2F_editing)
+## ▷ [Art Education](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu#wiki_.25B7_art_.2F_editing)
 
 ***
 
