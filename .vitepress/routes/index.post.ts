@@ -1,32 +1,18 @@
 import { fetcher } from "itty-fetcher";
-import { FeedbackSchema } from "../types/Feedback";
-
-const feedbackOptions = [
-  { label: "🐞 Bug", value: "bug" },
-  {
-    label: "♻️ Suggestion",
-    value: "suggestion",
-  },
-  { label: "📂 Other", value: "other" },
-  {
-    label: "❤️ Appreciation",
-    value: "appreciate",
-  },
-];
-
-function getFeedbackOption(value: string): string {
-  return feedbackOptions.find((option) => option.value === value).label;
-}
+import { FeedbackSchema, getFeedbackOption } from "../types/Feedback";
 
 export default defineEventHandler(async (event) => {
-  const { message, page, contact, type } = await readValidatedBody(event, FeedbackSchema.parse);
+  const { message, page, contact, type } = await readValidatedBody(
+    event,
+    FeedbackSchema.parseAsync,
+  );
   const env = useRuntimeConfig(event);
 
   if (!["bug", "suggestion", "other", "appreciate"].includes(type!) || !message)
     throw new Error("Invalid input.");
 
   let description = `${message}\n\n`;
-  if (contact) description += `**Contact:** ${contact}\n`;
+  if (contact) description += `**Contact:** ${contact} • `;
   if (page) description += `**Page:** \`${page}\``;
 
   await fetcher()
@@ -36,7 +22,7 @@ export default defineEventHandler(async (event) => {
       embeds: [
         {
           color: 3447003,
-          title: getFeedbackOption(type),
+          title: getFeedbackOption(type).label,
           description,
         },
       ],

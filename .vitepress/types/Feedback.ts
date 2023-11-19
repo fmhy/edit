@@ -3,7 +3,7 @@ import z from "zod";
 export const FeedbackSchema = z.object({
   message: z.string().min(5).max(1000),
   type: z.enum(["bug", "suggestion", "appreciate", "other"]),
-  contact: z.string().min(5).max(20).optional(),
+  contact: z.string().optional(),
   page: z.string().min(3).max(10),
 });
 

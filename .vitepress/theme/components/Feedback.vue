@@ -82,7 +82,11 @@ async function handleSubmit(type?: FeedbackType["type"]) {
         <button
           type="submit"
           class="btn btn-primary"
-          :disabled="feedback.message.length > 1000 || feedback.contact.length > 100"
+          :disabled="
+            feedback.message.length < 5 ||
+            feedback.message.length > 1000 ||
+            feedback.contact.length > 100
+          "
           @click="handleSubmit()">
           Submit
         </button>
