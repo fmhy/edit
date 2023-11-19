@@ -120,16 +120,14 @@
 * [Visual Pinball](https://github.com/vpinball/vpinball) - Pinball Table Editor / Simulator / [Tables](https://www.vpforums.org/)
 * [Clone Hero](https://clonehero.net/) - Guitar Hero Clone / [Setlists](https://github.com/nbats/FMHYedit/blob/main/base64.md#setlists), [2](https://customsongscentral.com/) / [Wii Controller Support](https://github.com/Meowmaritus/WiitarThing)
 * [YARC-Official](https://github.com/YARC-Official) - Rock Band Clone
-* [StepMania](https://www.stepmania.com/), [Project OutFox](https://projectoutfox.com/) or [NotITG](https://www.noti.tg/) - DDR Clones
-* [PumpSanity](https://pumpsanity.net/) - Pump It Up Clone
-* [Malody](https://m.mugzone.net/) - Rhythm Game
+* [ITGmania](https://www.itgmania.com/) - DDR Clone
 * [beatoraja](https://mocha-repository.info/) - BMS Player as Alternative to IIDX / [beatoraja English Guide](https://github.com/wcko87/beatoraja-english-guide/wiki) / [IIDX Install Guide](https://rentry.org/iidxdump)
 * [Unnamed SDVX clone](https://github.com/Drewol/unnamed-sdvx-clone) - Sound Voltex Clone
 * [OpenTaiko](https://github.com/0auBSQ/OpenTaiko) - Taiko no Tatsujin Clone / [Taiko Simulator Guide](https://guide.tjadataba.se/) / [Custom Charts](https://tjadataba.se/)
-* [Etterna](https://etternaonline.com/), [Quaver](https://quavergame.com/), [O2Mania](https://o2mania.info/) or [RoBeats CS](https://www.roblox.com/games/4841678118) - O2Jam Clones / [Online Maps](https://www.flashflashrevolution.com/)
-* [osu!](https://osu.ppy.sh/home), [opsu!](https://itdelatrisu.github.io/opsu/), [osu!droid](https://osudroid.moe/) or [McOsu](https://store.steampowered.com/app/607260/McOsu/) - Osu! Tatakae! Ouendan Clones
+* [Etterna](https://etternaonline.com/) or [Quaver](https://quavergame.com/) - O2Jam Clones
+* [osu!](https://osu.ppy.sh/home), [osu!droid](https://osudroid.moe/) or [McOsu](https://store.steampowered.com/app/607260/McOsu/) - Osu! Tatakae! Ouendan Clones
 * [PPD](https://projectdxxx.me/) - Project Diva Clone
-* [Rhythia](https://discord.gg/rhythia) or [Vulnus Archive](https://discord.gg/w3PdcaG) - Sound Space Clones
+* [Rhythia](https://discord.gg/rhythia) - Sound Space Clones
 * [Cytoid](https://cytoid.io/) - Cytus Clone
 * [DTXManiaNX](https://github.com/limyz/DTXmaniaNX) - GITADORA Clone
 * [SweetPotato](https://wiki-en.purplepalette.net/home) - Project Sekai Clone
