@@ -651,7 +651,41 @@
 
 ***
 
-## ▷ [Art / Editing](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/img-tools#wiki_.25BA_art_education)
+## ▷ Art / Editing
+
+* 🌐 **[Ctrl+paint](https://www.ctrlpaint.com/library)** - Digital Art Learning Resources
+* 🌐 **[AwesomeAnimeResearch](https://github.com/SerialLain3170/AwesomeAnimeResearch)** - Anime Machine Learning
+* ⭐ **[Art Study Guide](https://drive.google.com/file/d/1cK9q7oeFRE58MVaSgUql662iGqCXC8Ah/)** - Art Study Guides / Tips
+* ⭐ **[Drawabox](https://drawabox.com/)**, [Croquis Cafe](https://croquis.cafe/), [Drawing Starter Pack Playlist](https://www.youtube.com/playlist?list=PL7KO8uN5A9PJsQIJzecnohhKjtMnSuFtR), [FarsiTuts](https://t.me/farsituts) or [Bill Martin's Guide to Drawing](https://www.guidetodrawing.com/)  - Drawing Lessons
+* ⭐ **[Proko](https://www.youtube.com/user/ProkoTV/videos)** - Humanoid Figure Drawing Lesson
+* ⭐ **[PaintingTube](https://painting.tube)**, [MarcoBucci](https://www.youtube.com/@marcobucci), [Alphonso Dunn](https://www.youtube.com/c/ALPHONSODUNN/videos?view=0&sort=p&flow=grid), [Feng Zhu FZD](https://www.youtube.com/user/FZDSCHOOL/videos) , [Sycra](https://www.youtube.com/user/Sycra/videos),  [Art Fundamentals](https://www.youtube.com/playlist?list=PLVgLT-e3jXPDgeED0pD0BPq8kY1VAZAGa) or [Circle Line Art](https://www.youtube.com/user/circlelinemedia/videos) - Art Video Tutorials
+* [Curriculum for the Solo Artists](https://reddit.com/r/learnart/comments/dapk62/from_the_guy_who_made_the_most_comprehensive_list/) - Self-Taught Artist Curriculum / [PDF Version](https://mega.nz/file/sU0AxThb#m96_xISlS-5wtpSrauWFdh8mjhed7EitknQn_XIBaQc) / [Gallery Version](https://imgur.com/a/EZPc28m)
+* [TryDraw](https://www.trydraw.com/) - Improve Drawing Skills
+* [DoArtDaily](https://dad.gallery) - Daily Art Challenges
+* [Character Design References](https://characterdesignreferences.com/visual-library) - Character Design Visual Library
+* [FloobyNooby](http://www.floobynooby.com/comp1.html), [Let's Learn Storyboarding](https://nicparris.gumroad.com/l/JyCxo), [JMMStoryboardTips](https://jimmortensen.gumroad.com/l/JMMStoryboardTips) or [A Guide to Storyboards](https://magicbunnyart.gumroad.com/l/fjvKA) - Storyboard Guides
+* [MangaMaterials](https://www.youtube.com/channel/UCnx8zKs3c3yeFPYQ2QzMqLA/), [animesijyuku](https://www.youtube.com/@animesijyuku/) or [DoKiDoKiDrawing](https://www.youtube.com/@DoKiDoKiDrawing/) - Manga Video Tutorials / [Twitter](https://twitter.com/mangamaterials2) / [Pixiv](https://www.pixiv.net/en/users/16776564)
+* [anidraw](https://www.anidraw.net/?m=1) - Anime Drawing Tutorials
+* [Settei Dreams](https://setteidreams.net/) - Anime Production Materials
+* [Anime Study General](https://discord.gg/3bwdfRk) - Anime Production Community
+* [McLelun](http://www.mclelun.com/p/tutorial.html) - Anime Style Background Tutorial
+* [PhotoshopTutorials.ws](https://www.photoshoptutorials.ws/) - Photoshop Tutorials
+* [DomDesigns](https://www.youtube.com/c/DomDesigns/) - Illustrator Tutorials
+* [PhotoshopTraining](https://www.youtube.com/@PhotoshopTrainingChannel), [Phlearn](https://www.youtube.com/@phlearn) or [PiXimperfect](https://www.youtube.com/@PiXimperfect) - Photoshop YouTube Tutorials
+* [The Bézier Game](https://bezier.method.ac/) - Pen Tool Practice
+* [ArtWithFlo](https://artwithflo.com/) - Procreate Tutorials
+* [Paintable](https://paintable.cc/blog-home-bootcamp/) - Digital Art Tutorials
+* [Pedro's Pixel Art Tutorials](https://blog.studiominiboss.com/pixelart) or [SLYNYRD](https://www.slynyrd.com/gallery-animated) - Pixel Art Tutorials
+* [MetPublications](https://www.metmuseum.org/art/metpublications/titles-with-full-text-online) - Art Learning Books
+* [Drawingbooks.org](https://www.drawingbooks.org/) - Old Drawing Books
+* [Line of Action](https://line-of-action.com/), [Timed Figure Poses](https://www.youtube.com/playlist?list=PL7EWYwaF6E-FZ8JiBlz2tF1DQUCw-GCmn), [LoveLifeDrawing](https://www.lovelifedrawing.com/) or [Daily Life Drawing Sessions](https://www.youtube.com/playlist?list=PL7EWYwaF6E-Exv72kVT4yYJM2lX-Xf66I) - Figure Sketch Tools / Lessons
+* [Artist Reference](https://artist-reference.com) - Photo References for Artists
+* [Thomas Romain Perspective](https://imgur.com/gallery/V5Prm) - Perspective Guide
+* [The Dimensions Of Colour](http://www.huevaluechroma.com/) - Colour Theory Guide
+* [DevinKorwin Color Guide](https://twitter.com/devinkorwin/status/1278049901709012995) - Color in Paintings Guide
+* [Draw Mix Paint](https://www.drawmixpaint.com/) - Learn Oil Painting
+* [Painting Demos](https://paintingdemos.com/) - Painting Demonstrations
+* [paint.wtf](https://paint.wtf/) - Have an AI Judge your Art
 
 ***
 
