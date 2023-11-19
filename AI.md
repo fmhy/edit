@@ -20,7 +20,7 @@
 * ⭐ **[kobold.cpp](https://github.com/LostRuins/koboldcpp)** - llama.cpp with API + GUI / [rocM](https://github.com/YellowRoseCx/koboldcpp-rocm) / [Colab](https://colab.research.google.com/github/LostRuins/koboldcpp/blob/concedo/colab.ipynb)
 * ⭐ **[Oobabooga Text Generation WebUI](https://github.com/oobabooga/text-generation-webui)** - Self-Host Models, supports ExLlama, AutoGPTQ, overall AiO backend + frontenjd. / [Colab](https://colab.research.google.com/github/pcrii/Philo-Colab-Collection/blob/main/4bit_TextGen_Gdrive.ipynb)
 * ⭐ **[PygmalionAI](https://discord.com/invite/pygmalionai)** - Self-Hosted Roleplaying Models with Resources / [Resources](https://rentry.co/PygmalionLinks)
-* [Aphrodite Engine](https://github.com/PygmalionAI/aphrodite-engine) - Serve LLMs at scale, can serve KoboldAI and Ooba compatible APIs.
+* [Aphrodite Engine](https://github.com/PygmalionAI/aphrodite-engine) - Serve LLMs at scale, can serve KoboldAI and Ooba compatible APIs / [Colab](https://colab.research.google.com/github/AlpinDale/misc-scripts/blob/main/Aphrodite.ipynb
 * [KoboldAI](https://github.com/henk717/KoboldAI) - GUI for Roleplaying Chatbots / [Web App](https://lite.koboldai.net/)
 * [SecondBrain](https://secondbrain.sh/), [LMStudio](https://lmstudio.ai/), [OnPrem](https://amaiya.github.io/onprem/) or [Faraday](https://faraday.dev/) - LLM Desktop Apps (Back-end + Front-end)
 * [Transfer Models Timeline](https://ai.v-gar.de/ml/transformer/timeline/) - LLM Timeline
@@ -73,7 +73,8 @@
 * 🌐 **[Img-Resources](https://rentry.org/lmg-resources)** - LLM Character Resources / [Templates](https://rentry.org/lmg_template)
 * ⭐ **[Bot Creation Guide](https://wikia.schneedc.com/bot-creation/intro)** - Character Creation Guide
 * ⭐ **[Character AI](https://beta.character.ai/)** - Roleplaying Chatbots / [Extract Params](https://rentry.org/reverseCAI)
-* ⭐ **[Chub](https://www.chub.ai/)** or [Character Creator](https://oobabooga.github.io/character-creator) - Character Prompts
+* ⭐ **[Chub](https://www.chub.ai/)** - Character Cards
+* [Character Creator](https://oobabooga.github.io/character-creator) - Edit & Create Character Cards
 * [GPT Call](https://gptcall.net/) - Roleplaying Chatbots / [Discord](https://discord.gg/88fQT5Bgfe)
 * [Dreamshow](https://dreamshow.ai/), [Spicychat.ai](https://spicychat.ai/), [Epigon](https://epigon.ai/) or [Sakura](https://www.sakura.fm/) - Roleplaying Chatbots
 * [TavernAI](https://tavernai.net/) - Roleplaying / Adventure Chatbot
@@ -392,6 +393,7 @@
 ## ▷ Voice Change / Clone
 
 * ⭐ **[RVC](https://github.com/IAHispano/Applio-RVC-Fork)** - Voice Cloning / [AI Hub's Documentation](https://docs.aihub.wtf/)
+* ⭐ **[Ilaria RVC](https://huggingface.co/spaces/TheStinger/Ilaria_RVC)**
 * ⭐ **[weights.gg](https://www.weights.gg/) / [Discord](https://discord.gg/A5rgNwDRd4) or [AI Hub](https://discord.gg/aihub)** - AI Voice Models and Guides
 * ⭐ **[Replay](https://www.tryreplay.io/)** - RVC Desktop App
 * ⭐ **[voice-changer](https://github.com/w-okada/voice-changer)** - Realtime Voice Changer
