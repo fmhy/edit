@@ -4,7 +4,7 @@ export const FeedbackSchema = z.object({
   message: z.string().min(5).max(1000),
   type: z.enum(["bug", "suggestion", "appreciate", "other"]),
   contact: z.string().optional(),
-  page: z.string().min(3).max(10),
+  page: z.string().optional(),
 });
 
 export const feedbackOptions = [

@@ -1,12 +1,13 @@
 <script setup lang="ts">
 import { reactive, ref } from "vue";
-import { useRoute } from "vitepress";
+import { useRouter } from "vitepress";
 import { type FeedbackType, getFeedbackOption, feedbackOptions } from "../../types/Feedback";
 
 const loading = ref<boolean>(false);
 const error = ref<unknown>(null);
 const success = ref<boolean>(false);
-const { path } = useRoute();
+
+const router = useRouter();
 
 const feedback = reactive<FeedbackType>({ message: "", contact: "" });
 
@@ -18,7 +19,7 @@ async function handleSubmit(type?: FeedbackType["type"]) {
     message: feedback.message,
     type: feedback.type,
     contact: feedback.contact,
-    page: path,
+    page: router.route.path,
   };
 
   try {
@@ -68,7 +69,7 @@ async function handleSubmit(type?: FeedbackType["type"]) {
       </div>
       <div v-else-if="feedback.type && !success" class="step">
         <div>
-          <p class="desc">The wiki is... • {{ path }}</p>
+          <p class="desc">Page: {{ router.route.path }}</p>
           <div>
             <span>{{ getFeedbackOption(feedback.type)?.label }}</span>
             <button style="margin-left: 0.5rem" class="btn" @click="feedback.type = undefined">
@@ -84,8 +85,8 @@ async function handleSubmit(type?: FeedbackType["type"]) {
           class="btn btn-primary"
           :disabled="
             feedback.message.length < 5 ||
-            feedback.message.length > 1000 ||
-            feedback.contact.length > 100
+              || feedback.message.length > 1000
+              || feedback.contact.length > 100
           "
           @click="handleSubmit()">
           Submit
