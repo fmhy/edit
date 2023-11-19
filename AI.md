@@ -18,11 +18,11 @@
 * ⭐ **[SillyTavern](https://github.com/SillyTavern/SillyTavern)** - Front-end for LLMs
 * ⭐ **[llama.cpp](https://github.com/ggerganov/llama.cpp)** - Self-Host LLaMa Based LLMs.
 * ⭐ **[kobold.cpp](https://github.com/LostRuins/koboldcpp)** - llama.cpp with API + GUI / [rocM](https://github.com/YellowRoseCx/koboldcpp-rocm) / [Colab](https://colab.research.google.com/github/LostRuins/koboldcpp/blob/concedo/colab.ipynb)
-* ⭐ **[Oobabooga Text Generation WebUI](https://github.com/oobabooga/text-generation-webui)** - Self-Host Models, supports ExLlama, AutoGPTQ, overall AiO backend + frontenjd. / [Colab](https://colab.research.google.com/github/pcrii/Philo-Colab-Collection/blob/main/4bit_TextGen_Gdrive.ipynb)
+* ⭐ **[Oobabooga Text Generation WebUI](https://github.com/oobabooga/text-generation-webui)** - Self-Host Models / [Colab](https://colab.research.google.com/github/pcrii/Philo-Colab-Collection/blob/main/4bit_TextGen_Gdrive.ipynb)
 * ⭐ **[PygmalionAI](https://discord.com/invite/pygmalionai)** - Self-Hosted Roleplaying Models with Resources / [Resources](https://rentry.co/PygmalionLinks)
 * [Aphrodite Engine](https://github.com/PygmalionAI/aphrodite-engine) - Serve at scale LLMs for KoboldAI & Ooba / [Colab](https://colab.research.google.com/github/AlpinDale/misc-scripts/blob/main/Aphrodite.ipynb)
 * [KoboldAI](https://github.com/henk717/KoboldAI) - GUI for Roleplaying Chatbots / [Web App](https://lite.koboldai.net/)
-* [SecondBrain](https://secondbrain.sh/), [LMStudio](https://lmstudio.ai/), [OnPrem](https://amaiya.github.io/onprem/) or [Faraday](https://faraday.dev/) - LLM Desktop Apps (Back-end + Front-end)
+* [SecondBrain](https://secondbrain.sh/), [LMStudio](https://lmstudio.ai/), [OnPrem](https://amaiya.github.io/onprem/) or [Faraday](https://faraday.dev/) - LLM Desktop Apps
 * [Transfer Models Timeline](https://ai.v-gar.de/ml/transformer/timeline/) - LLM Timeline
 * [ChatRWKV](https://huggingface.co/spaces/BlinkDL/ChatRWKV-gradio) - RWKV Based Chatbot / [Discord](https://discord.com/invite/bDSBUMeFpc)
 * [GlobalGPT](https://www.globalgpt.nspiketech.com/#/) - Modularized Chatbot
