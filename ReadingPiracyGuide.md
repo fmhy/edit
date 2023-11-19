@@ -66,6 +66,7 @@
 * ⭐ **[The Library](https://discord.gg/mSyFJz9)** - Book Discord Server
 * ⭐ **[eBookHunter](https://ebook-hunter.org/)** - Books / Comics / Use Adblocker
 * ⭐ **[Archive.org](https://archive.org/details/texts)** - Books / Audiobooks / Magazines / Newspapers / [Downloader](https://bookripper.neocities.org/)
+* ⭐ **[MyAnonaMouse](https://www.myanonamouse.net/)** - [Interviews](https://www.myanonamouse.net/inviteapp.php)
 * ⭐ **[Book Search Guide](https://docs.google.com/document/d/1ZwWs8JOrlkrrqiHwkQSwc4_NM85Zbzc9t9ifQ1rHZgM/mobilebasic)** - Guide to Finding Articles / Books
 * ⭐ **[Reading CSE](https://cse.google.com/cse?cx=006516753008110874046:s9ddesylrm8)** / [2](https://cse.google.com/cse?cx=006516753008110874046:rc855wetniu) / [3](https://cse.google.com/cse?cx=e9657e69c76480cb8) / [4](https://cse.google.com/cse?cx=c46414ccb6a943e39), [Rave](https://ravebooksearch.com/), [Recherche](https://recherche-ebook.fr/en/) or [Searcholic](https://searcholic.com/) - Multi-Site Book Search
 * irc://irc.undernet.org/bookz
@@ -329,7 +330,6 @@
 * 🌐 **[Awesome AI](https://github.com/owainlewis/awesome-artificial-intelligence#free-content)** - Artificial Intelligence Books
 * ↪️ **[Math and Physics Books](https://github.com/nbats/FMHYedit/blob/main/base64.md#math-and-physics-books)**
 * ↪️ **[Language Learning Resources](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/tools-misc#wiki_.25B7_language_learning)**
-* ⭐ **[MyAnonaMouse](https://www.myanonamouse.net/)** - [Interviews](https://www.myanonamouse.net/inviteapp.php)
 * ⭐ **[AcademicTorrents](https://academictorrents.com/)**
 * [Institutional Access](https://www.facebook.com/groups/850609558335839) - Request Institutional Access PDFs
 * [Library Drive](https://github.com/nbats/FMHYedit/blob/main/base64.md#library-drive)
@@ -392,10 +392,8 @@
 * [Free Astronomy Resources](https://er-cryptid.tumblr.com/post/176809097526/free-astronomy-resources) or [Astronomy & Physics](https://github.com/nbats/FMHYedit/blob/main/base64.md#astronomy--physics) - Books / Notes / Astronomy
 * [Institute of Mathematics](https://aimath.org/textbooks/) - Math / Books
 * [RealNotComplex](https://realnotcomplex.com/) - Math / Books
-* [Engineering Books PDF](https://engineeringbookspdf.com/) - Engineering
 * [EasyEngineering](https://easyengineering.net/) - Engineering
 * [EngineeringBooksPDF](https://www.engineeringbookspdf.com/) - Engineering
-* [EngineeringEBooks_civil](https://t.me/EngineeringEBooks_civil) - Civil Engineering
 * [All About Circuits](https://www.allaboutcircuits.com/education/) - Electronics
 * [Ultimate Electronics Book](https://ultimateelectronicsbook.com/) - Electronics Schematics / Simulations
 * [SemiWiki](https://semiwiki.com/) - Semiconductor Wiki
@@ -405,10 +403,8 @@
 * [The Ergonomic Development of Video Game Controllers](https://www.longdom.org/open-access/the-ergonomic-development-of-video-game-controllers-2165-7556-1000209.pdf)
 * [biorxiv](https://www.biorxiv.org/) - Biology Preprints
 * [Textbook of Bacteriology](https://www.textbookofbacteriology.net/index.html) - Microbiology Textbooks
-* [Encyclopedia Of Agriculture And Food Systems](https://archive.org/details/Encyclopedia_Of_Agriculture_And_Food_Systems/)
 * [EveryCulture](https://www.everyculture.com/index.html) - World Culture Encyclopedia
 * [Encyclopaedia Iranica](https://www.iranicaonline.org/) - Iranian Culture Encyclopedia
-* [Encyclopedia Of Indo-European Culture](https://archive.org/details/EncyclopediaOfIndoEuropeanCulture/) - Indo-European Culture Encyclopedia
 * [Indigenous Peoples in Brazil](https://pib.socioambiental.org/en/Main_Page) - Brazilian Indigenous Culture Encyclopedia
 * [MadeHow](http://www.madehow.com/) - How Products Are Made
 * [TheDailyIdea](https://thedailyidea.org/reading-lists), [2](https://thedailyidea.org/philosophy-syllabi-collection/) - Philosophy
@@ -417,26 +413,12 @@
 * [PickPDF](https://pickpdfs.com/) - Medical
 * [FreeBooks4Doctors](http://freebooks4doctors.com/) - Medical
 * [MedicalStudyZone](https://medicalstudyzone.com/) - Medical
-* [Medical_Book_Bot](https://t.me/Medical_Book_Bot) - Medical / Telegram
 * [medrxiv](https://www.medrxiv.org/) - Medicine Preprints
 * [VetBooks](https://vetbooks.ir/) - Veterinary
-* [AllTradersLibrary](https://t.me/alltradersLibrary) - Market Trading Books
-* [businessbookmall](http://www.businessbookmall.com/), [2](http://www.textbooksfree.org/) - Accounting, Economics & Business
-* [Micronations Wiki](https://micronations.wiki/) - Micronations Wiki
 * [Brill](https://brill.com/) - International Law Books
-* [Camopedia](https://www.camopedia.org/) - Camouflage Wiki
-* [AirVectors](https://www.airvectors.net/) - Aircraft Wiki
-* [RationalWiki](https://rationalwiki.org/) - Pseudoscience Refutation Wiki
-* [Snopes](https://www.snopes.com/) - Urban Legends, Folklore, Misinformation
-* [STORY](https://archive.org/details/RobertMcKeeStorypdf/) - Screenwriting Principles
+* [businessbookmall](http://www.businessbookmall.com/), [2](http://www.textbooksfree.org/) - Accounting, Economics & Business
 * [Butterick’s Practical Typography](https://practicaltypography.com/) - Typography Guide Book
 * [Sewing8](https://t.me/sewing8) - Sewing / Pattern Making Books
-* [Robot Shop](https://community.robotshop.com/) - Robotics Forum
-* [Cro-Wood](https://www.cro-wood.com/) - Woodworking Forum
-* [Alt Law Forum](https://altlawforum.org/) - Alternative Law Forum
-* [Open Educational Resources](https://cdn-infographic.pressidium.com/wp-content/uploads/How-to-Search-for-Open-Educational-Resources-Infographic.jpg) - How to search for Open Educational Resources
-* [HowStuffWorks](https://www.howstuffworks.com/) - Learn How Things Work
-* [masterWiki](https://masterwiki.how/) - MasterClass Classes Republished as wikiHow Articles
 * [/r/textbook_piracy](https://reddit.com/r/textbook_piracy)
 * [/r/textbookrequest](https://reddit.com/r/textbookrequest)
 * [/r/mathbooks](https://reddit.com/r/mathbooks)
@@ -499,14 +481,11 @@
 * [IT eBooks](https://it-ebooks.info/)
 * [FreeTechBooks](https://www.freetechbooks.com/)
 * [FreeComputerEbooks](https://freecomputerbooks.com/)
-* [freepdf-books](https://freepdf-books.com/)
-* [Programming Motherfucker](http://programming-motherfucker.com/)
 * [OnlineProgrammingBooks](https://www.onlineprogrammingbooks.com/)
 * [TechBooksFree](https://techbooksforfree.com/)
 * [WOWeBook](https://www.wowebook.org/)
 * [Ebooks-it](https://ebooks-it.org)
 * [Essential Programming Books](https://www.programming-books.io/)
-* [Foxebook](https://foxgreat.com/)
 * [free-programming-books](https://github.com/chrislgarry/free-programming-books)
 * [Free eBooks](https://books-pdf.blogspot.com/)
 * [goalkicker](https://goalkicker.com/)
@@ -540,7 +519,6 @@
 * [Heystacks](https://heystacks.com/) - Public Google Docs
 * [IDEAS](https://ideas.repec.org/) - Economic Research Papers
 * [PDFSlide](https://pdfslide.net/) - Document Search
-* [EDoc](https://edoc.tips/) - Document Search
 * [IDoc](https://idoc.pub/) - Document Search
 * [lens](https://www.lens.org/) - Document Search
 * [base-search](https://www.base-search.net/) - Document Search
@@ -640,15 +618,14 @@
 * [CensorBib](https://censorbib.nymity.ch/) or [censoredplanet.org](https://censoredplanet.org/) - Internet Censorship Research Papers
 * [Constitute Project](https://www.constituteproject.org/) - World Constitutions Database
 * [ArmyPubs](https://armypubs.army.mil/) or [US Military Manual Collection](https://archive.org/details/military-manuals) - Military Documents / Manuals
-* [NASA NTRS](https://ntrs.nasa.gov/search.jsp) - NASA Documents
+* [NASA NTRS](https://ntrs.nasa.gov/collections/pubspace) - NASA Documents
 * [PapalEncyclicals](https://www.papalencyclicals.net/) - Catholic Church Documents
 * [Aesthetics Archive](https://contempaesthetics.org/) - Aesthetics Articles / Notes Contemporary
 * [CourtListerner](https://www.courtlistener.com/recap/) - Pacer Documents
 * [Aleph](https://github.com/alephdata/aleph) - Document Index Tool
 * [Dataset Search](https://datasetsearch.research.google.com/) - Dataset Search Google
 * [PDF / Doc Search Engine](https://cse.google.com/cse?cx=000013508089310229747:qf70z1tyrs0)
-* [ZealDocs](https://zealdocs.org/) - Document Viewer
-* [Sioyek](https://sioyek.info/) or [ResearchRabbit](https://www.researchrabbit.ai/) - Research Paper / Technical Document Viewers
+* [ResearchRabbit](https://www.researchrabbit.ai/) - Research Paper / Technical Document Viewer
 
 ***
 
@@ -1147,7 +1124,7 @@
 * ⭐ **[Foxit](https://www.foxit.com/pdf-reader//)** - PDF Reader / PC / Android / iOS / Linux / Mac
 * ⭐ **[Koodo](https://koodo.960960.xyz/)** - Ebook Reader / PC / Mac / Linux / [GitHub](https://github.com/troyeguo/koodo-reader)
 * ⭐ **[eBoox](https://eboox.ru/en/)** - Ebook Reader / Android / iOS
-* ⭐ **[SumatraPDFReader](https://www.sumatrapdfreader.org/free-pdf-reader)** - PDF Reader
+* ⭐ **[SumatraPDFReader](https://www.sumatrapdfreader.org/free-pdf-reader)** - PDF / PC 
 * ⭐ **[Calibre](https://calibre-ebook.com/)** - Ebook Reader / PC / Android / iOS
 * ⭐ **[Raven Reader](https://ravenreader.app/)** - Article Reader / Manager
 * ⭐ **[EinkBro](https://github.com/plateaukao/einkbro)** - E-Ink Browser
@@ -1160,14 +1137,15 @@
 * [Icecream eBook Reader](https://icecreamapps.com/Ebook-Reader/) - Ebook Reader / PC
 * [Aquile](https://apps.microsoft.com/store/detail/aquile-reader-modern-epub-ebook-reader/9P08T4JLTQNK?hl=en) - Ebook Reader / PC
 * [Eplee](https://github.com/Janglee123/eplee) - Ebook Reader / PC
-* [Okular](https://okular.kde.org/) - PDF Reader / Linux / PC / Mac
+* [Okular](https://okular.kde.org/) - PDF / Linux / PC / Mac
 * [Foliate](https://johnfactotum.github.io/foliate/) - Ebook Reader / Linux
 * [Buka](https://github.com/oguzhaninan/Buka) - Ebook Reader / Linux
-* [Adobe Acrobat](https://acrobat.adobe.com/us/en/acrobat/pdf-reader.html) - PDF Reader / PC
-* [qPDFview](https://launchpad.net/qpdfview) - PDF Reader / PC
-* [mupdf](https://mupdf.com/) - PDF Reader / PC
+* [Adobe Acrobat](https://acrobat.adobe.com/us/en/acrobat/pdf-reader.html) - PDF / PC
+* [qPDFview](https://launchpad.net/qpdfview) - PDF / PC
+* [mupdf](https://mupdf.com/) - PDF / PC
 * [Evince](https://wiki.gnome.org/Apps/Evince) - PDF / DjVu Reader / Linux
-* [FF PDF](https://github.com/sdushantha/ff-pdf/) - PDF Reader / Linux
+* [Sioyek](https://sioyek.info/) - PDF / PC / Mac / Linux
+* [FF PDF](https://github.com/sdushantha/ff-pdf/) - PDF / Linux
 * [PdfPreviewbot](https://t.me/PdfPreviewbot) - Telegram PDF Reader
 * [WinDjView](https://windjview.sourceforge.io/) - DjVu Reader / PC
 * [DjVuLibr](https://djvu.sourceforge.net/) - DjVu Reader / PC
