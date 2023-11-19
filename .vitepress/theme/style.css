@@ -8,12 +8,12 @@
   /* Colors: Button */
   --vp-button-brand-bg: var(--vp-c-brand-1);
   --vp-button-brand-border: var(--vp-c-brand-soft);
-  --vp-button-brand-text: var(--vp-c-white);
+  --vp-button-brand-text: rgba(42, 40, 47);
   --vp-button-brand-hover-border: var(--vp-c-brand-soft);
-  --vp-button-brand-hover-text: var(--vp-c-white);
+  --vp-button-brand-hover-text: rgba(42, 40, 47);
   --vp-button-brand-hover-bg: var(--vp-c-brand-soft);
   --vp-button-brand-active-border: var(--vp-c-brand-soft);
-  --vp-button-brand-active-text: var(--vp-c-white);
+  --vp-button-brand-active-text: rgba(42, 40, 47);
   --vp-button-brand-active-bg: var(--vp-button-brand-bg);
   --vp-button-alt-bg: #484848;
   --vp-button-alt-text: #f0eeee;
