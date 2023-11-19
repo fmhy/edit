@@ -329,11 +329,11 @@
 
 ## ▷ Torrenting
 
-* [YggTorrent](https://www3.yggtorrent.wtf/) - Video / Audio / Roms / Books / Comics
-* [Torrent9](https://www.torrent9.fm/), [2](https://www.torrent9.site/), [3](https://torrent9.app/) - Video / Audio / Roms / Books
-* [Torrent911](https://www.torrent911.me/) - Video / Audio / Roms / Books
-* [OxTorrent](https://oxtorrents.co/) - Video / Audio/ Roms / Books
-* [Cpasbien](https://www.cpasbien.tw/) - Video / Audio / Books/ ROMs
+* [YggTorrent](https://www3.yggtorrent.wtf/) - Video / Audio / ROMs / Books / Comics
+* [Torrent9](https://www.torrent9.fm/), [2](https://www.torrent9.site/), [3](https://torrent9.app/) - Video / Audio / ROMs / Books
+* [Torrent911](https://www.torrent911.me/) - Video / Audio / ROMs / Books
+* [OxTorrent](https://oxtorrents.co/) - Video / Audio / ROMs / Books
+* [Cpasbien](https://www.cpasbien.tw/) - Video / Audio / ROMs / Books
 * [Zetorrents](https://www.zetorrents.pw/) - Video / Audio / ROMs / Books
 * [Torrent411](https://www.torrent411.to/) - Video / Audio / ROMs / Books
 * [Sharewood](https://www.sharewood.tv/) - Video / Audio / ROMs / Books
@@ -385,6 +385,7 @@
 * [Boerse](https://boerse.am/) - German Data Sharing Discussion Forum
 * [TrustScam](https://trustscam.de/) - Website Security Analysis
 * [Metager](https://metager.de/) - Search Engine
+* [WiiDatabase](https://wiidatabase.de/) - Nintendo Homebrew
 
 ## ▷ Downloading
 
@@ -447,8 +448,8 @@
 
 ## ▷ Streaming
 
-* [AsianDrama](https://asiandrama.ge/) - Drama
-* [animetv](https://animetv.night-city.online/) - Anime
+* [AsianDrama](https://asiandrama.ge/) - Drama / Sub / 1080p
+* [AnimeTV](https://animetv.night-city.online/) - Anime / Dub / 720p
 
 ***
 
@@ -456,24 +457,21 @@
 
 ## ▷ Streaming
 
-* [Tainio-Mania](https://tainio-mania.online/) , [2](https://tenies-online.best/) - Movies / TV / Anime
-* [ELTube](https://www.eltube.gr/) - Movies / TV
-* [Greek-Movies](https://greek-movies.com/) - Movies / TV / Live / Courses
-* [Voody](https://voody-online.com/) - Movies / TV / Anime
-* [an1me](https://an1me.to/) - Anime
-* [Greek IPTV](https://github.com/free-greek-iptv/greek-iptv) - IPTV Resources
+* [Greek-Movies](https://greek-movies.com/) - Movies / TV / Live / Courses / Dub / 720p
+* [An1me](https://an1me.to/) - Anime / Sub / 1080p
+* [GreekTV](https://greektv.app/) - IPTV
 
 ***
 
 # ► Hebrew
 
 * [AB-Maps](https://www.abmaps.com/) - Map Tool
-* [Walla](https://www.walla.co.il/) - Search
+* [Walla](https://www.walla.co.il/) - News
+* [Ktuvit](https://www.ktuvit.me/) or [WizdomSubs](https://wizdom.xyz/) - Subtitles
 
 ## ▷ Streaming
 
-* [JFC](https://jfc.org.il/) - Movies
-* [ktuvit](https://www.ktuvit.me/) or [wizdom](https://wizdom.xyz/) - Subtitles
+* [JFC](https://jfc.org.il/) - Israel Movie Archive
 
 ***
 
@@ -484,59 +482,51 @@
 
 ## ▷ Streaming
 
-* [mozicsillag](https://mozicsillag1.me/) - Movies / TV
-* [onlinefilmekingyen](https://www.onlinefilmekingyen.com/) - Movies
-* [filmezz](https://filmezz.club/) - Movies / TV
+* [OnlineFilmeKingyen](https://www.onlinefilmekingyen.com/) - Movies / Sub / Dub / 1080p
+* [filmezz](https://filmezz.club/) - Movies / TV / Dub / 720p
+* [mozicsillag](https://mozicsillag1.me/) - Movies / TV / Sub / Dub / 720p
 
 ***
 
 # ► Indian Languages
 
-* [PCPriceTracker](https://pcpricetracker.in/) or [UnboxParadigm](https://gaming.unboxparadigm.com/) - Track PC Component Rupee Prices
-* [Indic-Keyboard](https://gitlab.com/indicproject/indic-keyboard) - Indian Language Android Keyboard
-* [Upier](https://upier.vercel.app/) - Create Shareable Link for UPI Payments
+* [Indic-Keyboard](https://gitlab.com/indicproject/indic-keyboard) - Indian Android Keyboard
 
 ## ▷ Downloading
 
-* ⭐ **[OlaMovies](https://olamovies.pics/)** - Movies / TV / [Telegram](https://telegram.me/olamovies_official_v3)
-* ⭐ **[FreeDriveMovie](https://freedrivemovie.lol/)** - Movies / [Telegram](https://t.me/fdm_again)
-* ⭐ **[Full4Movies](https://www.full4movies.mobi/)** - Movies / TV / [Telegram](https://t.me/+esNoIP2HG30yMjlk)
-* [MoviesMod](https://moviesmod.vip/) - Movies / TV / [Telegram](https://telegram.dog/moviesmodorg)
-* [Mallumv](https://mallumv.hair/) - Movies / [Telegram](https://t.me/MalluMvoff)
-* [Movies Point](https://sdmoviespoint.team/) - Movies
-* [SSR Movies](https://ssrmovies.estate/) - Movies / [Telegram](https://t.me/SSRmovies2022), [2](https://telegram1.cyou/)
-* [MkvMoviesPoint](https://mkvmoviespoint.rocks/) - Movies / [Telegram](https://telegram.me/mkvpoint1)
-* [MKV Mad](https://www.mkvmad.bio/) - Movies / TV / [Telegram](https://t.me/mkvmadofficial)
-* [Movies Flix](https://moviesflix.bet/) - Movies / NSFW / [Telegram](https://t.me/mvsflix)
-* [Dudefilms](https://dudefilms.today/) - Movies / TV / [Telegram](https://telegram.dog/dudefilmsofficial)
-* [KatMovieHD](https://katmoviehd.mov/) - Movies / TV / Anime / [Telegram](https://t.me/+lY88WXVDmsFiYTJk), [2](https://t.me/joinchat/TMuzf8VYH7M1YWVh)
-* [MKVHub](https://www.mkvhub.makeup/) - Movies / TV / [Telegram](https://t.me/MkvHubCOM)
-* [Roshiya](https://roshiya.me/) - Movies / TV / [Telegram](https://t.me/roshiyamovies)
-* [Filmymeet](https://filmymeet1.com/) - Dub Movies / TV / [Telegram](https://telegram.dog/+VV_6NFqFLTc1N2E1)
-* [MkvCinemas](https://mkvcinemas.bio/) - Movies / TV / Anime / [Telegram](https://t.me/+WzLYNDSawQk1MTk1)
-* [MLWBD](https://mlwbd.media/) - Movies / TV / Anime / [Telegram](https://t.me/mlwbdnew)
-* [Movies Counter](https://moviescounter.lat/) - Movies
-* [BollyMaza](https://m.bollymaza.click/) - Movies / TV
-* [MoviesNation](https://moviesnation.cx/) - [Telegram](https://t.me/+CQizt5B7q880ZDQ9/)
-* [DesireMovies](https://desiremovies.cafe/) - Movies / TV
-* [FullyMaza](https://fullymaza.one/) - Movies / TV / Cartoons
-* [CineVood](https://cinevood.motorcycles/) - Movies
-* [Bolly4u](https://bolly4u.center/) - Movies / [Telegram](https://t.me/bolly4uofficial1)
-* [9xflix](https://9xflix.monster/) - Movies / NSFW / [Telegram](https://t.me/ninexflix)
-* [HDVogo](https://www.hdvogo.click/) - Movies
-* [Moviehunt](https://moviehunt.us) - Movies / TV
-* [Isaimini](https://ww1.isaimini.store/) - Movies / Music
-* [EdithSeedbox](https://t.me/EdithSeedBox) - Movies / TV / [Login](https://pastebin.com/bQkQpee4)
-* [UncutHD](https://www.uncuthd.today/) - Movies
-* [AnimeAcademy](https://animeacademy.in/) - Anime / [Telegram](https://t.me/AnimeAcademyTeam)
-* [ToonWorld4All](https://toonworld4all.me/) - Cartoons / Anime / [Discord](https://discord.com/invite/qp8RD4JEpf) / [Telegram](https://t.me/+GoVKCk6B6t84MmY1)
-* [TVToonsIndia](https://tvtoonsindia.com/) - Cartoons / Anime / [Telegram](https://t.me/tvtoonsindiaofficial)
-* [New Hindi Animes](https://t.me/New_Hindi_Animes) - Anime
-* [Hindi Cartoons](https://telegra.ph/All-of-my-Channels-List-02-18) - Cartoons
-* [DesiRulez](https://desirulez.co/) - Video / Audio
-* [WapKing](https://wapking.name/) - Music
-* [Pendujatt](https://www.pendujatt.net/) - Music / [Telegram](https://telegram.me/pendujattcom)
-* [Indian Flac Songs](https://t.me/indianflacsongs) - Music
+* ⭐ **[OlaMovies](https://olamovies.beauty/)** - Movies / TV / Sub / Dub / 1080p / 4K / [Telegram](https://telegram.me/olamovies_official_v3)
+* ⭐ **[FreeDriveMovie](https://freedrivemovie.lol/)** - Movies / Sub / Dub / 1080p / [Telegram](https://t.me/fdm_again)
+* ⭐ **[Full4Movies](https://www.full4movies.mobi/)** - Movies / TV / Sub / Dub / 1080p / [Telegram](https://t.me/+esNoIP2HG30yMjlk)
+* [MkvCinemas](https://mkvcinemas.mov/) - Movies / TV / Anime / Sub / Dub / 1080p / 4K / [Telegram](https://t.me/+WzLYNDSawQk1MTk1)
+* [MLWBD](https://mlwbd.run/) - Movies / TV / Anime / Sub / Dub / 1080p / 4K / [Telegram](https://t.me/mlwbdnew)
+* [BollyMaza](https://ww3.bollymaza.click/) - Movies / TV / Sub / Dub / 1080p / 4K
+* [CineVood](https://cinevood.boo/) - Movies / TV / Sub / Dub / 1080p / 4K
+* [Bolly4u](https://bolly4u.page/) - Movies / TV / Sub / Dub / 1080p / 4K / [Telegram](https://t.me/bolly4uofficial1)
+* [MoviesMod](https://moviesmod.shop) - Movies / TV / Sub / Dub / 1080p / [Telegram](https://telegram.dog/moviesmodorg)
+* [Mallumv](https://mallumv.buzz/) - Movies / Sub / Dub / 1080p / [Telegram](https://t.me/MalluMvoff)
+* [SSR Movies](https://ssrmovies.dad/) - Movies / TV / Sub / Dub / 1080p / [Telegram](https://t.me/SSRmovies2022), [2](https://telegram1.cyou/)
+* [MkvMoviesPoint](https://mkvmoviespoint.boo/) - Movies / TV / Sub / Dub / 1080p / [Telegram](https://telegram.me/mkvpoint1)
+* [MKV Mad](https://www.mkvmad.space/) - Movies / TV / Sub / Dub / 1080p / [Telegram](https://t.me/mkvmadofficial)
+* [Movies Flix](https://moviesflix.mx/) - Movies / TV / NSFW / Sub / Dub / 1080p / [Telegram](https://t.me/mvsflix)
+* [DudeFilms](https://dudefilms.vip/) - Movies / TV / Sub / Dub / 1080p / [Telegram](https://telegram.dog/dudefilmsofficial)
+* [KatMovieHD](https://katmoviehd.dev/) - Movies / TV / Anime / Sub / Dub / 1080p / [Telegram](https://t.me/+lY88WXVDmsFiYTJk), [2](https://t.me/joinchat/TMuzf8VYH7M1YWVh)
+* [MKVHub](https://www.mkvhub.space/) - Movies / TV / Sub / Dub / 1080p / [Telegram](https://t.me/MkvHubCOM)
+* [FilmyMeet](https://filmyfly2.com.in/) - Movies / TV / Dub / 1080p / [Telegram](https://telegram.dog/+VV_6NFqFLTc1N2E1)
+* [Movies Counter](https://moviescounter.lat/) - Movies / TV / Sub / Dub / 1080p
+* [MoviesNation](https://moviesnation.wiki/) -  Movies / TV / Sub / Dub / 1080p / [Telegram](https://t.me/+CQizt5B7q880ZDQ9/)
+* [DesireMovies](https://desiremovies.zip/) - Movies / TV / Sub / Dub / 1080p
+* [Moviehunt](https://moviehunt.us) - Movies / TV / Sub / Dub / 1080p
+* [UncutHD](https://www.uncuthd.com/) - Movies / TV / Sub / Dub / 1080p
+* [9xflix](https://9xflix.rip/) - Movies / TV / NSFW / Sub / Dub / 720p / [Telegram](https://t.me/ninexflix)
+* [EdithSeedbox](https://t.me/EdithSeedBox) - Movies / TV / Sub / Dub / 720p / [Login](https://pastebin.com/bQkQpee4)
+* [AnimeAcademy](https://animeacademy.in/) - Anime / Sub / Dub / 1080p / [Telegram](https://t.me/AnimeAcademyTeam)
+* [ToonWorld4All](https://toonworld4all.me/) - Cartoons / Anime / Sub / Dub / 1080p / [Discord](https://discord.com/invite/qp8RD4JEpf) / [Telegram](https://t.me/+GoVKCk6B6t84MmY1)
+* [TVToonsIndia](https://tvtoonsindia.com/) - Cartoons / Anime / Dub / 1080p / [Telegram](https://t.me/tvtoonsindiaofficial)
+* [New Hindi Animes](https://t.me/New_Hindi_Animes) - Anime Telegram Chat
+* [DesiRulez](https://desirulez.co/) - Live TV
+* [Indian Flac Songs](https://t.me/indianflacsongs) - Music / FLAC
+* [WapKing](https://wapking.name/) - Music / MP3
+* [Pendujatt](https://www.pendujatt.net/) - Music / MP3 / [Telegram](https://telegram.me/pendujattcom)
 
 ## ▷ Torrenting
 
@@ -638,7 +628,7 @@
 
 ## ▷ Downloading
 
-* [eurekaddl](https://eurekaddl.skin/) - Video / Audio/ Books / Magazines / Comics / NSFW
+* [eurekaddl](https://eurekaddl.skin/) - Video / Audio / Books / Magazines / Comics / NSFW
 * [OverDay](https://overday.info/) - Software/ Courses / Books
 * [HD4Me](https://hd4me.net/) - Movies
 * [BMZone](https://github.com/nbats/FMHYedit/blob/main/base64.md#bmzone) - Anime
@@ -1821,7 +1811,6 @@
 * [BalkanDownload](https://balkandownload.org/) - Croatian / Download / Video / Audio / Games / Books / Comics
 * [AnimeBalkan](https://animebalkan.org/) - Croatian / Streaming / Anime
 * [DR.DK](https://www.dr.dk/) - Danish / Movies / TV / Live
-* [WiiDatabase](https://wiidatabase.de/) - German / Nintendo Homebrew
 * [Deildu](https://deildu.net/) - Icelandic / Torrents
 * [KurdCinema](https://www.kurdcinama.com/) - Kurdish / Streaming / Movies / TV / Anime / Cartoons
 * [Kurdsubtitle](https://kurdsubtitle.net) - Kurdish / Subtitles
