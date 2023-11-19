@@ -8,9 +8,6 @@ export default defineEventHandler(async (event) => {
   );
   const env = useRuntimeConfig(event);
 
-  if (!["bug", "suggestion", "other", "appreciate"].includes(type!) || !message)
-    throw new Error("Invalid input.");
-
   let description = `${message}\n\n`;
   if (contact) description += `**Contact:** ${contact} • `;
   if (page) description += `**Page:** \`${page}\``;
