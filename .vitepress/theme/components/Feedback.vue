@@ -9,7 +9,7 @@ const success = ref<boolean>(false);
 
 const router = useRouter();
 
-const feedback = reactive<FeedbackType>({ message: "", contact: "" });
+const feedback = reactive<FeedbackType>({ message: "" });
 
 async function handleSubmit(type?: FeedbackType["type"]) {
   if (type) feedback.type = type;
@@ -18,7 +18,6 @@ async function handleSubmit(type?: FeedbackType["type"]) {
   const body: FeedbackType = {
     message: feedback.message,
     type: feedback.type,
-    contact: feedback.contact,
     page: router.route.path,
   };
 
@@ -58,10 +57,7 @@ async function handleSubmit(type?: FeedbackType["type"]) {
           </div>
         </div>
         <div class="button-container">
-          <button
-            v-for="item in feedbackOptions"
-            :key="item.value"
-            class="btn"
+          <button v-for="item in feedbackOptions" :key="item.value" class="btn"
             @click="handleSubmit(item.value as FeedbackType['type'])">
             <span>{{ item.label }}</span>
           </button>
@@ -77,18 +73,14 @@ async function handleSubmit(type?: FeedbackType["type"]) {
             </button>
           </div>
         </div>
-        <textarea v-model="feedback.message" autofocus class="input" />
-        <p class="desc">Contacts, so we can get back to you. (Optional)</p>
-        <textarea v-model="feedback.contact" class="contact-input" />
-        <button
-          type="submit"
-          class="btn btn-primary"
-          :disabled="
-            feedback.message.length < 5 ||
-            feedback.message.length > 1000 ||
-            feedback.contact.length > 100
-          "
-          @click="handleSubmit()">
+        <textarea v-model="feedback.message" autofocus class="input" placeholder="What a lovely wiki!" />
+        <p class="desc mb-2">
+          Join our
+          <a class="text-primary font-semibold text-underline" href="https://discord.gg/Stz6y6NgNg">Discord</a>
+          if you'd like a response to your feedback.
+        </p>
+        <button type="submit" class="btn btn-primary"
+          :disabled="feedback.message.length < 5 || feedback.message.length > 1000" @click="handleSubmit()">
           Submit
         </button>
       </div>
@@ -100,7 +92,7 @@ async function handleSubmit(type?: FeedbackType["type"]) {
 </template>
 
 <style scoped>
-.step > * + * {
+.step>*+* {
   margin-top: 1rem;
 }
 

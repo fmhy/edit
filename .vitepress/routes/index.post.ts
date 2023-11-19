@@ -2,14 +2,10 @@ import { fetcher } from "itty-fetcher";
 import { FeedbackSchema, getFeedbackOption } from "../types/Feedback";
 
 export default defineEventHandler(async (event) => {
-  const { message, page, contact, type } = await readValidatedBody(
-    event,
-    FeedbackSchema.parseAsync,
-  );
+  const { message, page, type } = await readValidatedBody(event, FeedbackSchema.parseAsync);
   const env = useRuntimeConfig(event);
 
   let description = `${message}\n\n`;
-  if (contact) description += `**Contact:** ${contact} • `;
   if (page) description += `**Page:** \`${page}\``;
 
   await fetcher()
