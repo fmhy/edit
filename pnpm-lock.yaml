@@ -55,8 +55,8 @@ devDependencies:
     specifier: ^1.1.12
     version: 1.1.12
   '@taskylizard/eslint-config':
-    specifier: ^1.0.3
-    version: 1.0.3(eslint-plugin-import@2.29.0)(eslint@8.53.0)(prettier@3.0.3)(typescript@5.2.2)
+    specifier: ^1.0.5
+    version: 1.0.5(eslint-plugin-import@2.29.0)(eslint@8.53.0)(prettier@3.0.3)(typescript@5.2.2)
   '@types/node':
     specifier: ^20.8.9
     version: 20.8.9
@@ -1543,8 +1543,8 @@ packages:
       string.prototype.codepointat: 0.2.1
     dev: false
 
-  /@taskylizard/eslint-config@1.0.3(eslint-plugin-import@2.29.0)(eslint@8.53.0)(prettier@3.0.3)(typescript@5.2.2):
-    resolution: {integrity: sha512-++eQftOq60qClRh/O8Pqrj/c0TOJkBUc62iiB5aDrsxjKu7EdndZCBJpr1C+RlLGQuosyE96G4Tag3uAZEJ8ZA==}
+  /@taskylizard/eslint-config@1.0.5(eslint-plugin-import@2.29.0)(eslint@8.53.0)(prettier@3.0.3)(typescript@5.2.2):
+    resolution: {integrity: sha512-kz3zxNPMnm7S/j7SzHbyJmZXVj1fa6STzuigQjNl1njcpuA+1ygsa1Zvn711y0wkIGik/yLiP+BTG+likBRAZA==}
     peerDependencies:
       eslint: '>=8.0.0'
       prettier: '>=3.0.0 <4'

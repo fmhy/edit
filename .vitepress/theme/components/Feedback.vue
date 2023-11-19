@@ -1,7 +1,7 @@
 <script setup lang="ts">
 import { reactive, ref } from "vue";
 import { useRoute } from "vitepress";
-import type { FeedbackType } from "../../types/Feedback";
+import { type FeedbackType, getFeedbackOption, feedbackOptions } from "../../types/Feedback";
 
 const loading = ref<boolean>(false);
 const error = ref<unknown>(null);
@@ -9,23 +9,6 @@ const success = ref<boolean>(false);
 const { path } = useRoute();
 
 const feedback = reactive<FeedbackType>({ message: "", contact: "" });
-
-const feedbackOptions = [
-  { label: "🐞 Bug", value: "bug" },
-  {
-    label: "💡 Suggestion",
-    value: "suggestion",
-  },
-  { label: "📂 Other", value: "other" },
-  {
-    label: "❤️ Appreciation",
-    value: "appreciate",
-  },
-];
-
-function getFeedbackOption(value: string) {
-  return feedbackOptions.find((option) => option.value === value);
-}
 
 async function handleSubmit(type?: FeedbackType["type"]) {
   if (type) feedback.type = type;
@@ -53,7 +36,7 @@ async function handleSubmit(type?: FeedbackType["type"]) {
       error.value = data.error;
       return;
     }
-    if (data.status === "success") {
+    if (data.status === "ok") {
       success.value = true;
     }
   } catch (error_) {
@@ -99,7 +82,7 @@ async function handleSubmit(type?: FeedbackType["type"]) {
         <button
           type="submit"
           class="btn btn-primary"
-          :disabled="feedback.message.length > 1000"
+          :disabled="feedback.message.length > 1000 || feedback.contact.length > 100"
           @click="handleSubmit()">
           Submit
         </button>

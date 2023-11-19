@@ -32,7 +32,7 @@
   "devDependencies": {
     "@iconify-json/carbon": "^1.1.21",
     "@iconify-json/twemoji": "^1.1.12",
-    "@taskylizard/eslint-config": "^1.0.3",
+    "@taskylizard/eslint-config": "^1.0.5",
     "@types/node": "^20.8.9",
     "@types/nprogress": "^0.2.3",
     "eslint": "^8.53.0",

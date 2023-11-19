@@ -14,8 +14,8 @@ const feedbackOptions = [
   },
 ];
 
-function getFeedbackOption(value: string) {
-  return feedbackOptions.find((option) => option.value === value);
+function getFeedbackOption(value: string): string {
+  return feedbackOptions.find((option) => option.value === value).label;
 }
 
 export default defineEventHandler(async (event) => {
@@ -36,7 +36,7 @@ export default defineEventHandler(async (event) => {
       embeds: [
         {
           color: 3447003,
-          title: getFeedbackOption(type).label,
+          title: getFeedbackOption(type),
           description,
         },
       ],

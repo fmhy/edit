@@ -10,11 +10,10 @@ import {
 } from "@headlessui/vue";
 
 const isOpen = ref(true);
-interface ILogger {}
 
 const feedbackOptions = [
   {
-    label: "♻️ Suggestion",
+    label: "💡 Suggestion",
     value: "suggestion",
   },
   {
@@ -37,8 +36,7 @@ function openModal() {
   <button
     type="button"
     class="p-[4px 8px] text-xl i-carbon:user-favorite-alt-filled"
-    @click="openModal"
-/>
+    @click="openModal" />
 
   <TransitionRoot appear :show="isOpen" as="template">
     <Dialog as="div" class="relative z-10" @close="closeModal">
@@ -62,8 +60,7 @@ function openModal() {
             enter-to="opacity-100 scale-100"
             leave="duration-200 ease-in"
             leave-from="opacity-100 scale-100"
-            leave-to="opacity-0 scale-95"
->
+            leave-to="opacity-0 scale-95">
             <DialogPanel
               class="w-full max-w-md transform overflow-hidden rounded-2xl bg-bg p-6 text-left align-middle shadow-xl transition-all">
               <DialogTitle as="h3" class="text-lg font-medium leading-6 text-text">
@@ -75,8 +72,7 @@ function openModal() {
                   <button
                     v-for="item in feedbackOptions"
                     :key="item.value"
-                    class="inline-flex justify-center rounded-md border border-transparent bg-bg-alt px-4 py-2 text-sm font-medium text-text hover:border-primary focus-visible:ring-2 focus-visible:ring-primary focus-visible:ring-offset-2"
->
+                    class="inline-flex justify-center rounded-md border border-transparent bg-bg-alt px-4 py-2 text-sm font-medium text-text hover:border-primary focus-visible:ring-2 focus-visible:ring-primary focus-visible:ring-offset-2">
                     <span>{{ item.label }}</span>
                   </button>
                 </div>
@@ -84,9 +80,9 @@ function openModal() {
 
               <div class="mt-2">
                 <div>
-                  <label for="feedback-input-text" class="field-label">Feedback*</label>
+                  <label class="field-label">Feedback*</label>
 
-                  <textarea id="feedback-input-text" placeholder="meow" rows="5" />
+                  <textarea placeholder="meow" rows="5" />
                 </div>
               </div>
 
@@ -94,8 +90,7 @@ function openModal() {
                 <button
                   type="button"
                   class="inline-flex justify-center rounded-md border border-transparent bg-blue-100 px-4 py-2 text-sm font-medium text-blue-900 hover:bg-blue-200 focus:outline-none focus-visible:ring-2 focus-visible:ring-blue-500 focus-visible:ring-offset-2"
-                  @click="closeModal"
->
+                  @click="closeModal">
                   Close
                 </button>
               </div>
