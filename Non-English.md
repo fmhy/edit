@@ -513,7 +513,7 @@
 * [MKVHub](https://www.mkvhub.space/) - Movies / TV / Sub / Dub / 1080p / [Telegram](https://t.me/MkvHubCOM)
 * [FilmyMeet](https://filmyfly2.com.in/) - Movies / TV / Dub / 1080p / [Telegram](https://telegram.dog/+VV_6NFqFLTc1N2E1)
 * [Movies Counter](https://moviescounter.lat/) - Movies / TV / Sub / Dub / 1080p
-* [MoviesNation](https://moviesnation.wiki/) -  Movies / TV / Sub / Dub / 1080p / [Telegram](https://t.me/+CQizt5B7q880ZDQ9/)
+* [MoviesNation](https://moviesnation.wiki/) - Movies / TV / Sub / Dub / 1080p / [Telegram](https://t.me/+CQizt5B7q880ZDQ9/)
 * [DesireMovies](https://desiremovies.zip/) - Movies / TV / Sub / Dub / 1080p
 * [Moviehunt](https://moviehunt.us) - Movies / TV / Sub / Dub / 1080p
 * [UncutHD](https://www.uncuthd.com/) - Movies / TV / Sub / Dub / 1080p
@@ -523,7 +523,6 @@
 * [ToonWorld4All](https://toonworld4all.me/) - Cartoons / Anime / Sub / Dub / 1080p / [Discord](https://discord.com/invite/qp8RD4JEpf) / [Telegram](https://t.me/+GoVKCk6B6t84MmY1)
 * [TVToonsIndia](https://tvtoonsindia.com/) - Cartoons / Anime / Dub / 1080p / [Telegram](https://t.me/tvtoonsindiaofficial)
 * [New Hindi Animes](https://t.me/New_Hindi_Animes) - Anime Telegram Chat
-* [DesiRulez](https://desirulez.co/) - Live TV
 * [Indian Flac Songs](https://t.me/indianflacsongs) - Music / FLAC
 * [WapKing](https://wapking.name/) - Music / MP3
 * [Pendujatt](https://www.pendujatt.net/) - Music / MP3 / [Telegram](https://telegram.me/pendujattcom)
@@ -534,44 +533,34 @@
 
 ## ▷ Streaming
 
-* ⭐ **[BanglaPlex](https://banglaplex.fun/)** - Movies / [Telegram](https://t.me/banglaplex)
-* ⭐ **[Einthusan](https://einthusan.tv/)** - Movies / Music
-* [khatrimazafull](https://khatrimazaful.ink/) - Movies
-* [9xmovies](https://9xmovies.charity/) - Movies
-* [5movierulz](https://ww4.5movierulz.ac/) - Movies
-* [IndianCine](https://indiancine.ma/) - 62k Indian Films / Short Films
+* ⭐ **[BanglaPlex](https://banglaplex.fun/)** - Movies / Sub / Dub / 1080p / [Telegram](https://t.me/banglaplex)
+* ⭐ **[Einthusan](https://einthusan.tv/)** - South Asian Movies / Sub / Dub / 1080p
+* [9xmovies](https://9xmovies.forsale/), [2](https://9kmovies.monster/) - Movies / TV / Sub / Dub / 1080p / 4K
+* [5movierulz](https://ww7.5movierulz.gd/) - South Asian Movies / Sub / Dub / 1080p
+* [HHDMovies](https://hhdmovies.mom/) - Movies / TV / Sub / Dub / 1080p
+* [Desi Serials](https://www.desi-serials.cc/), [2](https://playdesi.net/) - South Asian Movies / TV / Live / Sub / Dub / 1080p
+* [HindiLinks4u](https://hindilinks4u.beauty/) - Movies / TV / Sub / Dub / 1080p
+* [HindiMoviesTV](https://www.hindimoviestv.com/) - Movies / Dub / 1080p
+* [HindiMovie](https://m.vk.com/hindimovie) - Movies / Dub / 1080p
+* [Movi](https://www.movi.pk/) - Movies / TV / Dub / 1080p
+* [Bolly2Tolly](https://www.bolly2tolly.net/), [2](https://www.bolly2tolly.com/) - Movies / TV / Sub / Dub / 720p
+* [Piratop](https://piratop.com/) - Movies / TV / Sub / Dub / 720p
+* [OnlineMoviesHindi](https://111.90.159.132/) - Movies / TV / Sub / Dub / 720p
+* [NamasteSerials](https://namasteserials.com/) - TV / Sub / Dub / 720p
+* [Cloudy](https://cloudy.pk/) - Movies / TV / Cartoons / Sub / Dub / 720p / [Telegram](https://t.me/cloudy_pk)
+* [MovieHDPlus](https://www.moviehdplus.com/) - South Asian Movies / TV / Sub / Dub / 720p
+* [HindiPix](https://hindipix.com/) - Movies / TV / Dub / 720p
+* [TamilCrow](https://www.1tamilcrow.net/) - Tamil Movies / TV / Dub / 720p
+* [TamilYogi](https://tamilyogi.plus/) - Tamil Movies / TV / Dub / 720p
+* [cinemakick](https://www.cinemakick.com/) - Movies / TV / Dub / 720p
+* [IndianCine](https://indiancine.ma/) - Indian Short / Classic Movies
 * [mxplayer](https://www.mxplayer.in) - Movies
-* [Bolly2Tolly](https://www.bolly2tolly.net/), [2](https://www.bolly2tolly.com/) - Movies
-* [HHDMovies](https://hhdmovies.mom/) - Movies / TV
-* [OKJatt](https://okjatt.bond/) - Movies / TV
-* [9kmovies](https://9kmovies.center/) - Movies
-* [Online Movies Hindi](https://111.90.159.132/) - Movies
-* [HindiLover](https://namasteserials.com/) - TV
-* [Cloudy](https://cloudy.pk/) - Movies / TV / [Telegram](https://t.me/cloudy_pk)
-* [MirrorBD](https://t.me/mirrorbd_req) - Movies
-* [playdesi](https://playdesi.net/) - Movies / TV
-* [MovieHDPlus](https://www.moviehdplus.com/) - Movies / TV
-* [Desi Serials](https://www.desi-serials.cc/) - Movies / TV / Live
-* [HindiLinks4u](https://hindilinks4u.monster/) - Movies / TV
-* [HindiMoviesTV](https://www.hindimoviestv.com/) - Movies
-* [HindiPix](https://hindipix.com/) - Movies / TV
-* [TamilCrow](https://www.1tamilcrow.net/) - Movies / TV
-* [TamilYogi](https://tamilyogi.band/) - Movies
-* [SunTamil5](https://www.suntamil5.net/) - TV
-* [cinemakick](https://www.cinemakick.com/) - Movies
-* [TamilRockerMovies](https://www.tamilrockermovies.cf/) - Movies
-* [MoviesCounter](https://moviescounter.singles/) - Movies / [Telegram](https://t.me/moviescounter_live)
-* [HindiMovie](https://m.vk.com/hindimovie) - Movies
-* [Movi](https://www.movi.pk/) - Movies
-* [serialbaba](https://serialbaba.co/) - TV
-* [DesiTVBox](https://www.desitellybox.me/) - TV
-* [Bollyfunserial](https://freewatchserialonline.com/) - TV
-* [PakBcn](http://www.pakbcn.one/) - TV / Live
-* [JioTV](https://github.com/avipatilpro/JioTV) - Live TV Streaming Script
-* [ToonWorld4All](https://toonworld4all.me/) - Cartoons / Anime / [Discord](https://discord.com/invite/qp8RD4JEpf) / [Telegram](https://t.me/+GoVKCk6B6t84MmY1)
-* [Anime World India](https://anime-world.in/) - Cartoons / Anime / [Discord](https://discord.com/invite/c3ete48q8H)
+* [DesiTellyBox](https://www.desitellybox.me/) - South Asian TV / Dub / 720p
+* [Bollyfunserial](https://freewatchserialonline.com/) - South Asian TV / Dub / 720p
+* [PakBcn](http://www.pakbcn.one/) - South Asian TV / Live / Dub / 720p
+* [DesiRulez](https://desirulez.co/) - Live TV
+* [Anime World India](https://anime-world.in/) - Cartoons / Anime / Sub / Dub / 1080p / [Discord](https://discord.com/invite/c3ete48q8H)
 * [PepCoding](https://www.pepcoding.com/resources/) - C++ / Java Programming Courses
-* [DesiRulez](https://desirulez.co/) - Video / Audio
 * [BotAllen](https://botallen.com/) - Kodi Repo
 * [kukufm.com](https://kukufm.com/) - Podcasts / Radio / Audiobooks
 * [OnlineFMRadio](https://www.onlinefmradio.in/) - Radio
@@ -579,6 +568,7 @@
 * [hungama](https://www.hungama.com/music/) - Music
 * [jiosaavn](https://www.jiosaavn.com/) - Music / [API](https://github.com/cyberboysumanjay/JioSaavnAPI)
 * [PhysicsWallah](https://www.youtube.com/c/PhysicsWallah/) - Physics Lessons / [Website](https://www.pw.live/)
+
 
 ## ▷ Reading
 
