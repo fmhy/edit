@@ -1106,11 +1106,11 @@
 * ⭐ **[Roblox Account Manager](https://github.com/ic3w0lf22/Roblox-Account-Manager)** - Roblox Account Manager
 * ⭐ **[RoMonitor Stats](https://romonitorstats.com/)** - Roblox Experience Stats
 * ⭐ **[Roblox Performance](https://rentry.co/roblox-player-studio-performance)** or [Mr. Goose](https://docs.google.com/document/d/1_XH3IMpaCtoKR1U38Zh08kbJr-WwptsxHSza-G7UKGU/) - Roblox Optimization Guides
+* ⭐ **[Bloxstrap](https://github.com/pizzaboxer/bloxstrap)** - Roblox Player Bootstrapper
+* [RBXFPSUnlocker](https://github.com/axstin/rbxfpsunlocker) - Unlock Roblox FPS Cap / [Note](https://pastebin.com/rB4BEf5b)
 * [Roblox Client Tracker](https://github.com/MaximumADHD/Roblox-Client-Tracker) - Roblox Update Tracker
 * [Novetus](https://bitl.itch.io/novetus) - Self-hosted Multi-version Roblox Client
-* [Bloxstrap](https://github.com/pizzaboxer/bloxstrap) - Roblox Player Bootstrapper
 * [Roblox Studio Mod Manager](https://github.com/MaximumADHD/Roblox-Studio-Mod-Manager) - Roblox Studio Bootstrapper
-* [RBXFPSUnlocker](https://github.com/axstin/rbxfpsunlocker) - Unlock Roblox FPS Cap / [Note](https://pastebin.com/rB4BEf5b)
 * [RoSeal](https://www.roseal.live/) - Roblox Enhancement Extension
 * [RoPro](https://ropro.io/), [Roblox+](https://chrome.google.com/webstore/detail/roblox%20/jfbnmfgkohlfclfnplnlenbalpppohkm), [BTRoblox](https://twitter.com/AntiBoomz/status/1378597179556823040) or [RoGold](https://discord.gg/XMHn9zV3UA) - Enhance Roblox Website
 * [ROBLOX Low Ping Finder](http://low-ping.dino.icu/) - Find Low Ping Roblox Servers
