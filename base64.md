@@ -602,7 +602,7 @@ Use any **[Base64 Decoding](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/stor
 #### Microsoft Office DL Guides
 
 `aHR0cHM6Ly9yZW50cnkuY28vb2ZmaWNlLWd1aWRl==`
-`aHR0cHM6Ly9yZW50cnkub3JnL29mZmljZWd1aWRlZm9ybm9vYnM`
+`aHR0cHM6Ly9yZW50cnkub3JnL29mZmljZWd1aWRlZm9ybm9vYnM==`
 `aHR0cHM6Ly9yZW50cnkub3JnL0NMRUFOLUlOU1RBTEwtTUlDUk9TT0ZULU9GRklDRQ==`
 
 ***
@@ -911,7 +911,7 @@ Use any **[Base64 Decoding](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/stor
 
 #### Colorize Images
 
-`aHR0cHM6Ly9mb3J1bS5tb2JpbGlzbS5vcmcvc2VhcmNoLnBocD9rZXl3b3Jkcz1jb2xvcml6ZStpbWFnZXMrJnRlcm1zPWFsbCZhdXRob3I9JnNjPTEmc2Y9dGl0bGVvbmx5JnNyPXRvcGljcyZzaz10JnNkPWQmc3Q9MCZjaD0zMDAmdD0wJnN1Ym1pdD1TZWFyY2g`
+`aHR0cHM6Ly9mb3J1bS5tb2JpbGlzbS5vcmcvc2VhcmNoLnBocD9rZXl3b3Jkcz1jb2xvcml6ZStpbWFnZXMrJnRlcm1zPWFsbCZhdXRob3I9JnNjPTEmc2Y9dGl0bGVvbmx5JnNyPXRvcGljcyZzaz10JnNkPWQmc3Q9MCZjaD0zMDAmdD0wJnN1Ym1pdD1TZWFyY2g==`
 
 ***
 
