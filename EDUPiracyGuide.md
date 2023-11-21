@@ -83,7 +83,7 @@
 * [CourseBuffet](https://www.coursebuffet.com/) - Search Engine
 * [LearnOutLoud](https://www.learnoutloud.com/) - Documentaries / Courses
 * [Class Central](https://www.classcentral.com/) - Search for Courses
-* [cs1000](https://cs1000.vercel.app/) - Educational Video
+* [cs1000](https://cs1000.surge.sh/) - CS / Software Engineering
 * [media.ccc.de](https://media.ccc.de/) or [SlidePlayer](https://slideplayer.com/) - Educational Presentations
 * UC Berkeley Webcast Project - [Archive](https://archive.org/details/ucberkeley-webcast) or [lbry](https://odysee.com/@UCBerkeley)
 * [iTunes U](https://wiki.archiveteam.org/index.php/ITunes_U) - Lectures
@@ -250,7 +250,6 @@
 * 🌐 **[The Free Learning List](https://freelearninglist.org/)**, **[LearnAwesome](https://learnawesome.org/),** [Learn Anything](https://learn-anything.xyz/), [Learning Lab](https://learn.uno/), [Quester](https://quester.io/), [Learney](https://maps.joindeltaacademy.com/) or [/sci/ guide](https://sites.google.com/site/scienceandmathguide/) - Learning Resources
 * 🌐 **[Untools](https://untools.co/)** - Better Thinking Tools
 * ↪️ **[Typing Tests](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_typing_lessons)**
-* ↪️ **[Origami Guides](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_origami)**
 * ⭐ **[PhET](https://phet.colorado.edu/)**, [Oak National Academy](https://teachers.thenational.academy/), [Academo](https://academo.org/) or [Runestone Interactive](https://runestone.academy/) - Interactive Lessons
 * ⭐ **[/r/coolguides](https://reddit.com/r/coolguides/)**, [info.stylee32](https://info.stylee32.net/) or [coolguid.es](https://coolguid.es/) - Guides & Tutorials
 * ⭐ **[/r/educationalgifs](https://reddit.com/r/educationalgifs)** - Learn With GIFs
@@ -401,6 +400,7 @@
 * [All Math Questions](https://www.docdroid.net/YupQ6Pp/khan-academy-all-math-questions-pdf) - Khan Academy Math Questions
 * [Math is Fun](https://www.mathsisfun.com/) - Math Tutorials / Puzzles / Games
 * [Project Euler](https://projecteuler.net/) - Math / Programming Problems
+* [IMS](https://github.com/OpenIntroStat/ims) - Introduction to Modern Statistics
 * [Seeing Theory](https://seeing-theory.brown.edu/) or [Stat Trek](https://stattrek.com/) - Statistics & Probability Tutorials
 * [MathWords](https://www.mathwords.com/) - Math Term Dictionary
 * [arTIfiCE](https://yvantt.github.io/arTIfiCE/) - TI CE Calculator Jailbreak
@@ -707,6 +707,7 @@
 * [Matterport](https://matterport.com/discover) - Explore Real Places Digitally
 * [Outside Simulator](https://outsidesimulator.com/) - Simulate Being Outside
 * [Hashima Island](https://www.hashima-island.co.uk/) - Hashima Island Virtual Tour
+* [Zhijianshang](https://www.zhijianshang.com/) - 360VR Images
 * [Smithsonian 3D](https://3d.si.edu/) - Smithsonian 3D Digitization Museum
 
 ***
