@@ -561,21 +561,19 @@
 * [DesiRulez](https://desirulez.co/) - Live TV
 * [Anime World India](https://anime-world.in/) - Cartoons / Anime / Sub / Dub / 1080p / [Discord](https://discord.com/invite/c3ete48q8H)
 * [PepCoding](https://www.pepcoding.com/resources/) - C++ / Java Programming Courses
-* [BotAllen](https://botallen.com/) - Kodi Repo
 * [kukufm.com](https://kukufm.com/) - Podcasts / Radio / Audiobooks
 * [OnlineFMRadio](https://www.onlinefmradio.in/) - Radio
 * [gaana](https://gaana.com/) - Music
 * [hungama](https://www.hungama.com/music/) - Music
 * [jiosaavn](https://www.jiosaavn.com/) - Music / [API](https://github.com/cyberboysumanjay/JioSaavnAPI)
-* [PhysicsWallah](https://www.youtube.com/c/PhysicsWallah/) - Physics Lessons / [Website](https://www.pw.live/)
-
+* [PhysicsWallah](https://www.youtube.com/c/PhysicsWallah/) - Physics Lessons
 
 ## ▷ Reading
 
 * [BDEBooks](https://bdebooks.com/) - Books
 * [Digital Library of India](https://dli.sanskritdictionary.com) - Books
 * [Sanskrit Documents](https://sanskritdocuments.org) - Sacred Texts
-* [aryasamajjamnagar.org](https://www.aryasamajjamnagar.org/homepage.htm) - Hinduism
+* [aryasamajjamnagar.org](https://www.aryasamajjamnagar.org/homepage.htm) - Hinduism Texts
 
 ***
 
@@ -585,29 +583,29 @@
 
 ## ▷ Downloading
 
-* [KusoAnime](https://kusonime.com/) - Anime / [Discord](https://discord.com/invite/4A7RqFraZW)
-* [AniBatch](https://anibatch.anibatch.moe/), [2](https://www.animebatch.id/) - Anime
-* [Drivenime](https://drivenime.com/) - Anime
+* [KusoAnime](https://kusonime.com/) - Anime / Sub / Dub / 1080p / [Discord](https://discord.com/invite/4A7RqFraZW)
+* [AniBatch](https://anibatch.anibatch.moe/), [2](https://www.animebatch.id/) - Anime / Dub / 1080p
+* [Drivenime](https://drivenime.com/) - Anime / Sub / 1080p
 * [IndonesiaEbook](https://ebook.twointomedia.com/) - Books
 * [NovelTerjemahan](https://novelterjemahan.com/) - Books
 
 ## ▷ Streaming
 
-* [Bioskopkeren](https://download.bioskopkeren.sbs/) - Movies / TV
-* [otakudesu](https://otakudesu.lol/) - Anime
-* [anoBoy](https://anoboy.monster/) - Anime
-* [kuramanime](https://kuramanime.net/) - Anime
-* [ANIsub](https://anisub.monster/) - Anime
+* [Bioskopkeren](https://bioskopkeren.boo/) - Movies / TV / Sub / 720p
+* [OtakuDesu](https://otakudesu.cam/) - Anime / Sub / 720p
+* [anoBoy](https://anoboy.show/) - Anime / Sub / 720p
+* [Kuramanime](https://kuramanime.pro/) - Anime / Sub / 720p
+* [ANIsub](https://anisub.monster/) - Anime / Sub / 720p
 
 ## ▷ Reading
 
-* [yuumanga](https://yuumanga.blogspot.com/) - Manga
-* [nekomik](https://nekomik.com/) - Manga
-* [manhwaindo](https://manhwaindo.id/) - Manga
-* [bacalightnovel](https://bacalightnovel.co/) - Light Novels
-* [novelgo](https://novelgo.id/) - Light Novels
-* [sakuranovel](https://sakuranovel.id/) - Light Novels
-* [meionovel](https://meionovel.id/) - Light Novels
+* [YuuManga](https://yuumanga.blogspot.com/) - Manga
+* [Nekomik](https://nekomik.me/) - Manga
+* [ManhwaIndo](https://manhwaindo.id/) - Manga
+* [BacaLightNovel](https://bacalightnovel.co/) - Light Novels
+* [Novelgo](https://novelgo.id/) - Light Novels
+* [Sakuranovel](https://sakuranovel.id/) - Light Novels
+* [Meionovel](https://meionovel.id/) - Light Novels
 
 ***
 
@@ -618,10 +616,10 @@
 
 ## ▷ Downloading
 
-* [eurekaddl](https://eurekaddl.skin/) - Video / Audio / Books / Magazines / Comics / NSFW
-* [OverDay](https://overday.info/) - Software/ Courses / Books
-* [HD4Me](https://hd4me.net/) - Movies
-* [BMZone](https://github.com/nbats/FMHYedit/blob/main/base64.md#bmzone) - Anime
+* ↪️ **[BMZone](https://github.com/nbats/FMHYedit/blob/main/base64.md#bmzone)** - Anime / Sub / 1080p
+* [eurekaddl](https://eurekaddl.sbs/) - Video / Audio / Books / Magazines / Comics / NSFW / Sub / 1080p
+* [OverDay](https://overday.info/) - Software / Courses / Books
+* [HD4Me](https://hd4me.net/) - Movies / TV / Sub / 720p
 * [XDCC Mule](https://www.xdccmule.org/) - IRC Download Search
 
 ## ▷ Torrenting
@@ -631,17 +629,16 @@
 
 ## ▷ Streaming
 
-* ⭐ **[CB01](https://cb01.singles/)** - Movies / TV
-* [Streaming Improved](https://rentry.co/ItalianStreamingImproved), [2](https://rentry.co/t29tz) - Streaming Sites List
-* [Altaefinizione](https://altadefinizione01.boo/) - Movies / TV / Anime
-* [ilgeniodellostreaming](https://ilgeniodellostreaming.lat/) - Movies / TV / Anime
-* [casacinema](https://casacinema.media/) - Movies / TV / Anime
-* [filmsenzalimiti](https://hds.filmsenzalimiti.me/) - Movies / TV
-* [filmsenzalimiti](https://filmsenzalimiti.name/) - Movies / TV
-* [Arcoiris TV](https://www.arcoiris.tv/) - TV
-* [SerieHD](https://www.seriehd.sbs/) - TV
-* [AnimeSaturn](https://www.animesaturn.tv/) - Anime
-* [AnimeWorld](https://www.animeworld.tv/) - Anime
+* ⭐ **[CB01](https://cb01.charity/)** - Movies / TV / Sub / Dub / 1080p / 4K
+* 🌐 **[Streaming Improved](https://rentry.co/ItalianStreamingImproved)** - Streaming Sites List
+* [Altaefinizione](https://altadefinizione01.zip/) - Movies / Sub / Dub / 1080p / 4K
+* [Il Genio dello Streaming](https://ilgeniodellostreaming.asia/) - Movies / TV / Anime / Sub / Dub / 1080p / 4K
+* [CasaCinema](https://casacinema.media/) - Movies / TV / Anime / Sub / Dub / 1080p / 4K
+* [filmsenzalimiti](https://filmsenzalimiti.name/) - Movies / TV / Sub / Dub / 1080p / 4K
+* [SerieHD](https://www.seriehd.sbs/) - TV / Dub / 1080p
+* [Arcoiris TV](https://www.arcoiris.tv/) - Italian TV / 720p
+* [AnimeSaturn](https://www.animesaturn.tv/) - Anime / Sub / 1080p
+* [AnimeWorld](https://www.animeworld.so/) - Anime / Sub / 1080p
 
 ## ▷ Reading
 
@@ -667,7 +664,7 @@
 ## ▷ Downloading
 
 * [Akiba-Online](https://www.akiba-online.com/) - Video / Audio / Comics / NSFW
-* [Asia Media Blog](https://asiamediablog.com/) - Video / Audio/ Magazines
+* [Asia Media Blog](https://asiamediablog.com/) - Video / Audio / Magazines
 * [Japan Media Blog](https://t.me/japanmusicfree) - Video / Audio
 * [jpddl](https://jpddl.com/) - Manga / Anime / Music / Drama
 * [JPLearner](http://www.jplearner.to/) - Video / Manga / Magazines
