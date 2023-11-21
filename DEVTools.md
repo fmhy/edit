@@ -58,13 +58,13 @@
 * [RoboMind](https://www.robomind.net/) or [Checki0](https://checkio.org/) - Code Learning Games
 * [mimo](https://mimo.org/) - Coding Tutorial App
 * [Curated Programming Resources](https://github.com/Michael0x2a/curated-programming-resources) - Programming Courses
+* [Interactive Tutorials](https://github.com/ronreiter/interactive-tutorials) - Programming Courses
 * [Learn to Program](https://github.com/karlhorky/learn-to-program) - Programming Courses
 * [FreeCourses](https://freecourses.github.io/) - Programming Courses
 * [HelloWorldCollection](http://helloworldcollection.de/) - Hello World Programming Collection
 * [Codecademy](https://www.codecademy.com/) - Coding Lessons 
 * [CodinGame](https://www.codingame.com/) - Games to Practice Coding / Programming 
 * [Advent of Code](https://adventofcode.com/) - Programming Puzzles
-* [Curated Programming Resources](https://github.com/Michael0x2a/curated-programming-resources) - Programming Courses
 * [Stack Exchange](https://stackexchange.com/) - Programming Q&A / [App](https://play.google.com/store/apps/details?id=me.tylerbwong.stack)
 * [Learn X in Y minutes](https://learnxinyminutes.com/), [2](https://github.com/adambard/learnxinyminutes-docs) - Programming Language Rundowns
 * [HEAD](https://htmlhead.dev/) - HTML head Element Guide
@@ -84,6 +84,7 @@
 * [Official Go Tutorial](https://go.dev/doc/tutorial/getting-started) or [Tutorial Edge Go](https://github.com/TutorialEdge/Go) - Go Programming Tutorials
 * [HowIStart Go](https://howistart.org/posts/go/1/) - Go Setup Guide
 * [Rust Learning](https://github.com/ctjhoa/rust-learning) - Rust Learning Resources
+* [explaine.rs](https://jrvidal.github.io/explaine.rs/) - Rust Syntax Explanation
 * [Simple Regex](https://simple-regex.com/), [learn-regex](https://github.com/ziishaned/learn-regex), [ReFrF](https://refrf.dev/), [Regex.info](http://regex.info/), [ReGexOne](https://regexone.com/), [RegExr](https://regexr.com/) or [RegexLearn](https://regexlearn.com/) - Learn Regex
 * [ReGeX](https://github.com/phikal/ReGeX) - ReGeX Learning Game / Android
 * [High Assurance Rust](https://highassurance.rs/) - Software Development Guide
@@ -106,9 +107,7 @@
 * ⭐ **[The Odin Project](https://www.theodinproject.com/)** - Full Stack Course
 * ⭐ **[FullStackOpen](https://fullstackopen.com/en/)** - Full Stack Course 
 * ⭐ **[Learn to Code HTML & CSS](https://learn.shayhowe.com/)** - HTML/CSS Course
-* ⭐ **[JavaScript.info](https://javascript.info/)** - JavaScript Course 
-* ⭐ **[30 Days Of JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript)** - Javascript Course
-* ⭐ **[Java5cript](https://www.java5cript.com/)** - Javascript Courses Index
+* ⭐ **[JavaScript.info](https://javascript.info/)**, [30 Days Of JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript) or [Java5cript](https://www.java5cript.com/) - Javascript Learning Sites
 * ⭐ **[mess with dns](https://messwithdns.net/)** - Experiment with DNS
 * ⭐ **[PHP: The Right Way](https://phptherightway.com/)** or [PHP Tutorial](https://www.phptutorial.net/) - Learn PHP
 * [Web Dev for Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) - Web Dev Course
@@ -117,8 +116,10 @@
 * [Web Skills](https://andreasbm.github.io/web-skills/) or [Encodedna](https://www.encodedna.com/) - Web Dev Guides
 * [Codevolution](https://www.youtube.com/@Codevolution) - Web Dev Video Lessons
 * [HTMLDog](https://htmldog.com/) - HTML/CSS and JavaScript Tutorials
-* [Codepip](https://codepip.com/games/), [Grid Garden](https://cssgridgarden.com/), [CSS Battle](https://cssbattle.dev/), [CSS Speedrun](https://css-speedrun.netlify.app/), [FlexboxDefense](http://www.flexboxdefense.com/) or [CSS Diner](https://flukeout.github.io/) - CSS Learning Games
-* [Flexbox Froggy](https://flexboxfroggy.com/) - CSS Flexbox Learning Game
+* [CSS Challenges](https://css-challenges.com/) - CSS Learning
+* [Codepip](https://codepip.com/games/), [Grid Garden](https://cssgridgarden.com/), [CSS Battle](https://cssbattle.dev/), [CSS Speedrun](https://css-speedrun.netlify.app/), [CodingFantasy](https://codingfantasy.com/) or [CSS Diner](https://flukeout.github.io/) - CSS Learning Games
+* [Guess CSS](https://www.guess-css.app/) - CSS Guessing Game
+* [Flexbox Froggy](https://flexboxfroggy.com/), [FlexboxDefense](http://www.flexboxdefense.com/) or [KnightsoftheFlexboxTable](https://knightsoftheflexboxtable.com/) - CSS Flexbox Learning Games
 * [DefensiveCSS](https://defensivecss.dev/) - CSS Tips
 * [LearnCSSGrid](https://learncssgrid.com/) - CSS Grid Guide
 * [You Don't Need JavaScript](https://github.com/you-dont-need/You-Dont-Need-JavaScript) - CSS Demos
@@ -155,6 +156,7 @@
 * [Trig for Games](https://demoman.net/?a=trig-for-games) - Trigonometry Lessons for Games
 * [ProFantasy](https://rpgmaps.profantasy.com/) - Fantasy Map Making Tutorials
 [Game Math](https://gamemath.com/book/intro.html) - Mathematics Lessons for Game Devs
+* [CHIP-8 Research](https://chip-8.github.io/) - CHIP-8 Research
 
 ***
 
@@ -245,6 +247,7 @@
 * [Pentesting Bible](https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE) or [Juice Shop](https://owasp.org/www-project-juice-shop/) - Learn Pentesting
 * [Hacksplaining](https://www.hacksplaining.com/) - Developer Security Lessons
 * [John Hammond](https://www.youtube.com/@_JohnHammond) or [LowLevelLearning](https://www.youtube.com/@LowLevelLearning/) - Cybersecurity YouTube Tutorials
+* [ClassyShark](https://github.com/google/android-classyshark) - Android/Java Bytecode Viewer
 
 ***
 
@@ -619,7 +622,7 @@
 * [PrivacyPolicyTemplate](https://www.privacypolicytemplate.net/) or [PrivacyLabel](https://www.privacylabel.org/) - Generate Privacy Policies
 * [Penpot](https://penpot.app/) - Cross Domain Design & Prototyping Platform
 * [Webhook.site](https://webhook.site/) - Webhook Tools
-* [WebSequenceDiagrams](https://www.websequencediagrams.com/) - Draw Sequence Diagrams
+* [WebSequenceDiagrams](https://www.websequencediagrams.com/) - Draw Sequence Diagrams / [Comparisons](https://text-to-diagram.com/)
 * [Egui Node Graph](https://github.com/setzer22/egui_node_graph) or [litegraph.js](https://github.com/jagenjo/litegraph.js) - Build Node Graphs
 * [Libraries.io](https://libraries.io/) - Package, Framework & Tool Search
 * [Deps.dev](https://deps.dev/) - Open Source Package Search
@@ -712,6 +715,7 @@
 * [SpreadsheetView](https://github.com/bannzai/SpreadsheetView) - Spreadsheet UI for iOS Apps
 * [Xcode](https://developer.apple.com/xcode/) - Test and Build iOS / iPadOS Apps
 * [Xcodes App](https://github.com/XcodesOrg/XcodesApp) - Xcode Manager
+* [ControlRoom](https://github.com/twostraws/ControlRoom) - Xcode Simulator Controller
 * [DevCleaner](https://github.com/vashpan/xcode-dev-cleaner) - Xcode Cache Cleaner
 * [AndroidAssetStudio](https://romannurik.github.io/AndroidAssetStudio/) - Android App Assets
 * [Contacts Android](https://github.com/vestrel00/contacts-android) - Android Contacts APIs
@@ -909,9 +913,10 @@
 * [Allstar](https://github.com/ossf/allstar) - Git Repository Security App
 * [git-bug](https://github.com/MichaelMure/git-bug) - Git Embedded Bug Tracker
 * [Tara](https://tara.ai/), [Mercurial](https://www.mercurial-scm.org/), [Git Extensions](https://gitextensions.github.io/), [Railway](https://railway.app/) or [Thermal](https://thermal.codecarrot.net/) - Git Project / Repo Managers
+* [git-annex](https://git-annex.branchable.com/) - Manage Large Git Files (without Git)
 * [GitList](https://gitlist.org/) - Elegant Git Repository Viewer / [GitHub](https://github.com/klaussilveira/gitlist)
 * [Gittyup](https://murmele.github.io/Gittyup/) - Git Source Code History
-* [git](https://git-scm.com/) - Version Control System
+* [git](https://git-scm.com/) or [darcs](https://darcs.net/) - Version Control Systems
 * [multi-gitter](https://github.com/lindell/multi-gitter) - Bulk Repository Updater
 * [Meld](https://meldmerge.org/) - Git Visual Diff / Merge Tool
 * [Ugit](https://github.com/Bhupesh-V/ugit) - Undo Git Commands
@@ -1181,13 +1186,14 @@
 * ↪️ **[Code Editors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_code_editors)**
 * ↪️ **[Vim Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_vim_tools)**
 * ⭐ **[Competitive Editor](https://cpeditor.org/)** - Competitive Programming Editor
-* ⭐ **[WebDen](https://webden.dev/)**, [tech.io](https://tech.io/), [CodingGround](https://www.tutorialspoint.com/codingground.htm) or [Online Tools](https://onlinetool.io/) - Code Playgrounds
+* ⭐ **[WebDen](https://webden.dev/)**, [Sharplab](https://sharplab.io/), [tech.io](https://tech.io/), [CodingGround](https://www.tutorialspoint.com/codingground.htm) or [Online Tools](https://onlinetool.io/) - Code Playgrounds
 * [Apache NetBeans](https://netbeans.apache.org/), [KDevelop](https://www.kdevelop.org/), [Lazarus](https://www.lazarus-ide.org/) or [OpenShift](https://developers.redhat.com/products/openshift-dev-spaces/overview) - Cross Platform IDEs
 * [RoslynPad](https://roslynpad.net/) - C# Editor
 * [DotNetFiddle](https://dotnetfiddle.net/) - C# Compiler
 * [RoslynQuoter](https://roslynquoter.azurewebsites.net/) - C# Syntax Tree API Viewer
 * [Recaf](https://www.coley.software/Recaf/) - Java Bytecode Editor
 * [Rescript](https://rescript-lang.org/) - Javascript Editor / Language
+* [TidalCycles](https://tidalcycles.org/) - Live Algorithmic Coding Environment / [Discord](https://discord.com/invite/ugFq7KfGnB)
 * [Thonny](https://thonny.org/) - Python IDE
 * [SciTE](https://www.scintilla.org/SciTE.html) - Source Code Editor for Win32 and X
 * [GPT Engineer](https://github.com/AntonOsika/gpt-engineer) - AI Code Generator
@@ -1205,6 +1211,7 @@
 * ⭐ **[goormIDE](https://ide.goorm.io/)**, [Fleet](https://www.jetbrains.com/fleet/), [CodeTasty](https://codetasty.com/), [Replit](https://replit.com/), [BoostNote](https://boostnote.io/), [Aither](https://github.com/enoki-inc/aither), [Deta](https://deta.space/), [TerraForm](https://www.terraform.io/), [Atheos](https://www.atheos.io/) / [GitHub](https://github.com/Atheos/Atheos), [m3o](https://m3o.com/), [Datalore](https://datalore.jetbrains.com/), [DeepNote](https://deepnote.com/), [FireMonkeyX](http://www.firemonkeyx.com/), [Cloud9](https://aws.amazon.com/cloud9/) or [Glitch](https://glitch.com/) / [Replit Import](https://replit.com/glitch) / [GitHub](https://github.com/m3o/m3o) - Cloud IDEs
 * ⭐ **[CodeSandbox](https://codesandbox.io/)**, [StackBlitz](https://stackblitz.com/) or [GitPod](https://www.gitpod.io/) - VSCode Cloud IDE
 * [colab alive](https://github.com/sobuj53/colabAlive) - Keep Colab Open
+* [Orbiton](https://orbiton.zip/) - Lightweight IDE
 * [Openshift](https://workspaces.openshift.com/) - Cloud IDE / Eclipse Che 
 * [Arduino](https://cloud.arduino.cc/) - Cloud IDE for Arduino
 * [Blazepack](https://github.com/ameerthehacker/blazepack) or [DevPod](https://devpod.sh) - Development Environment
@@ -1309,8 +1316,9 @@
 * [FastAPI](https://github.com/tiangolo/fastapi) - API Framework
 * [tRPC](https://trpc.io/) - Build Typesafe TypeScript APIs
 * [Beeceptor](https://beeceptor.com/) - Mock REST APIs
-* [Insomnia](https://insomnia.rest/) or [Insomnium](https://github.com/ArchGPT/insomnium) (Privacy focused fork) - API Client
+* [Insomnia](https://insomnia.rest/) or [Insomnium](https://github.com/ArchGPT/insomnium) (Privacy focused fork) - API Clients
 * [Strapi](https://strapi.io/) or [Postman](https://www.postman.com/) - API Builders
+* [Bruno](https://www.usebruno.com/) - API Testing Client
 * [API Together](https://api.together.xyz/playground) - AI App APIs
 * [Siesta](https://github.com/bustoutsolutions/siesta) - Write REST API Clients for iOS / macOS
 * [Poll2Hook](https://poll2hook.com/) - REST API to Webhooks
