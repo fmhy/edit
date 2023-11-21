@@ -106,12 +106,10 @@
 * [ShareGPT](https://sharegpt.com/) or [ChatGPT Exporter](https://greasyfork.org/en/scripts/456055) - Export Chats
 * [VizGPT](https://www.vizgpt.ai/) - Chat Data Visualization
 * [DeepSheet](https://deepsheet.dylancastillo.co/) - Data Visualization AI
-* [ChatGPT Notification](https://github.com/Correia-jpv/ChatGPT-Notification) - Receive Notifications
 * [Autoclear ChatGPT History](https://github.com/adamlui/userscripts/tree/master/chatgpt/autoclear-chatgpt-history) or [ChatGPT Prompt Library](https://chrome.google.com/webstore/detail/chatgpt-prompt-library-te/hkabkcpdocmhidhbgfcpbadafacnekkl) - Autoclear Chats
 * [EditGPT](https://www.editgpt.app/) - Proofread Chats
 * [RepeatGPT](https://repeatgpt.com/) - Schedule Chats
 * [ChatGPT-Matrix-Style](https://github.com/lvwzhen/ChatGPT-Matrix-Style) - Matrix Theme
-* [openai_pipe](https://github.com/Aesthetikx/openai_pipe) - Unix Theme
 
 ***
 
