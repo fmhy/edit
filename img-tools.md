@@ -111,7 +111,7 @@
 * ↪️ **[AI Image Generators](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/ai#wiki_.25BA_image_generators)**
 * [more.graphics](https://more.graphics/) - Graphic Generators
 * [Rough.js](https://roughjs.com/) - Hand Drawn Graphic Generator
-* [FontIcon](https://gauger.io/fonticon/), [PFPMaker](https://pfpmaker.com/), [IconsFlow](https://iconsflow.com/), [Flat-Icon-Surge](https://flat-icon.surge.sh/), [favicon.io](https://favicon.io/) or [Favic-o-Matic](https://favicomatic.com/) - Icon / Logo Generators
+* [FontIcon](https://gauger.io/fonticon/), [PFPMaker](https://pfpmaker.com/), [IconsFlow](https://iconsflow.com/), [Flat-Icon-Surge](https://flat-icon.surge.sh/), [favicon.software](https://www.favicon.software/), [favicon.io](https://favicon.io/) or [Favic-o-Matic](https://favicomatic.com/) - Icon / Logo Generators
 * [Logo Makr](https://logomakr.com/), [Hatchful](https://www.shopify.com/tools/logo-maker), [Logomak](https://logomak.com/), [The Logo Wizard](https://www.thelogowizard.com/), [DesignEvo](https://designevo.com/), [LogoFreeway](https://logofreeway.com/logos.php), [Logoshi](https://www.logoshi.com/), [OnlineLogoMaker](https://www.onlinelogomaker.com/), [Free Logo Maker](https://freelogomaker.net/), [LogoMaker](https://www.namecheap.com/logo-maker/app/new/) or [ACME](https://acme.com/labelmaker/) - Logo Creators / [Note](https://i.ibb.co/B3Mn3Hq/b7a4cf526ad1.png)
 * [JSLogo](https://www.calormen.com/jslogo/) - Logo Interpreter
 * [ArtFlow](https://app.artflow.ai/), [Avatar Mixer](https://kenney.itch.io/avatar-mixer), [Bitmoji](https://www.bitmoji.com/), [Avatar Maker](https://avatarmaker.com/), [Pravatar](https://pravatar.cc/), [MultiAvatar](https://multiavatar.com/), [Personas](https://personas.draftbit.com/), [react-nice-avatar](https://github.com/dapi-labs/react-nice-avatar) or [Avataaars](https://getavataaars.com/) - Face / Avatar Creators
@@ -310,7 +310,7 @@
 * [Worldvectorlogo](https://worldvectorlogo.com/), [Logos & Badges Bundle](https://github.com/nbats/FMHYedit/blob/main/base64.md#logos--badges-bundle), [Brands of the World](https://www.brandsoftheworld.com/), [Logos Download](https://logos-download.com/), [Logodust](https://logodust.com/), [Logowik](https://logowik.com/), [Logo Wine](https://www.logo.wine/), [logospire](https://logospire.com/), [LogoSearch](https://logosear.ch/), [logopond](https://logopond.com/), [logotouse](https://www.logotouse.com/), [logolounge](https://www.logolounge.com/), [logomoose](https://www.logomoose.com/) - Logo Designs
 * [MariaLetta](https://github.com/MariaLetta/mega-doodles-pack) - Free Doodles
 * [Watercolor Collection](https://github.com/nbats/FMHYedit/blob/main/base64.md#watercolor-collection) - Download Watercolor Pictures
-* [googleimagerestored](https://github.com/fanfare/googleimagesrestored) - Old Google Image Search 
+* [googleimagerestored](https://git.sr.ht/~fanfare/googleimagesrestored) - Old Google Image Search 
 * [Block Posters](https://www.blockposters.com/) - Create Printable Posters
 
 ***
@@ -510,19 +510,14 @@
 * [Schizoware](https://sourceforge.net/projects/schizoware/) - Image Name / Hash Randomizer
 * [BetterCensorship](https://bc.betterrepack.com/) - Censor and De-censor Images
 * [ViewEXIF](https://www.imgonline.com.ua/eng/exif-info.php), [Jimpl](https://jimpl.com/), [ExifData](https://exifdata.com/), [OnlineEXIFViewer](https://onlineexifviewer.com/), [ExifLooter](https://github.com/aydinnyunus/exifLooter), [CameraSummary](https://camerasummary.com/) or [JPEGsnoop](https://www.impulseadventure.com/photo/jpeg-snoop.html) - EXIF / Metadata Viewers
-* [exiftool](https://exiftool.org/), [ExifCleaner](https://exifcleaner.com/), [EXIFRemove](https://www.exifremove.com/), [MGOnline](https://www.imgonline.com.ua/delete-exif.php), [scrambled-exif](https://gitlab.com/juanitobananas/scrambled-exif), [Metadata-Remover](https://github.com/Anish-M-code/Metadata-Remover), [Image Scrubber](https://everestpipkin.github.io/image-scrubber/), [adarsus](https://www.adarsus.com/en/remove-metadata-online-document-image-video/) or [VerExif](https://www.verexif.com/en/) - Remove Meta / EXIF Data 
-* [Cache Monkey](https://github.com/jamiepine/cache-monkey) - Convert, Browse & Clear Cached Images & Files 
+* [exiftool](https://exiftool.org/), [ExifCleaner](https://exifcleaner.com/), [EXIFRemove](https://www.exifremove.com/), [scrambled-exif](https://gitlab.com/juanitobananas/scrambled-exif), [Metadata-Remover](https://github.com/Anish-M-code/Metadata-Remover), [Image Scrubber](https://everestpipkin.github.io/image-scrubber/), [adarsus](https://www.adarsus.com/en/remove-metadata-online-document-image-video/) or [VerExif](https://www.verexif.com/en/) - Remove Meta / EXIF Data 
 * [Pic2Map](https://www.pic2map.com/) - Image EXIF data viewer with GPS support
 * [TheExifer](https://www.thexifer.net/index.php) or [Exiv2](https://exiv2.org/) - Image EXIF Data Editors 
-* [Nameexif](https://us.digicamsoft.com/softnamexif.html) - Bulk Image EXIF Data Editor
 * [Base64 Image](https://www.base64-image.de/) - Encrypt / Decrypt Images 
 * [BetaFace](https://www.betaface.com/demo.html) or [Face Recognition](https://github.com/ageitgey/face_recognition) - Facial Recognition
 * [FaceCheck](https://facecheck.id/) or [Faceagle](https://faceagle.com/) - Face Recognition Search Engines
-* [FALdetector](https://github.com/peterwang512/FALdetector) - Photoshopped Face Detector
 * [Shoop](https://colab.research.google.com/drive/1AQ0XSKWjzJBhGXXJ0XrA4DckFdv6Ul5N) - Detect if Image is Photoshopped
-* [Redact.Photo](https://redact.photo/) - Image Redaction Tool
 * [Squoosh](https://squoosh.app/) - Image Codec Comparison
-* [jPhotoDNA](https://github.com/jankais3r/jPhotoDNA) - Image CSAM Identification Algorithm
 
 ***
 
