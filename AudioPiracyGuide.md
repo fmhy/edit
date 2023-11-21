@@ -227,7 +227,7 @@
 * [BandCamp-DL](https://github.com/iheanyi/bandcamp-dl), [Free BandCamp Downloader](https://github.com/7x11x13/free-bandcamp-downloader), [Download Bandcamp](https://downloadmusicschool.com/bandcamp/), [bcdl](https://github.com/daot/bcdl) or [Bandcamp Downloader](https://github.com/Otiel/BandcampDownloader) - Bandcamp Downloader
 * [GetFVid](https://www.getfvid.com/) - Facebook Video / Audio Downloader 
 * [Librescore Downloader](https://github.com/LibreScore/dl-librescore) - Librescore Downloader
-* [Orpheus Qobuz](https://github.com/yarrm80s/orpheusdl-qobuz) or [qobuz-dl](https://github.com/vitiko98/qobuz-dl) - Qobuz Downloaders
+* [Orpheus Qobuz](https://github.com/yarrm80s/orpheusdl-qobuz), [QobuzDownloaderX-MOD](https://github.com/DJDoubleD/QobuzDownloaderX-MOD) or [qobuz-dl](https://github.com/vitiko98/qobuz-dl) - Qobuz Downloaders
 * [you-get](https://you-get.org/) or [irs](https://github.com/cooperhammond/irs) - Audio Command Line Download Tool
 * [VK::MP3](https://metacpan.org/pod/VK::MP3) - VK MP3 Search Tool 
 
@@ -446,6 +446,7 @@
 * ⭐ **[/r/ifyoulikeblank](https://www.reddit.com/r/ifyoulikeblank/)** - Artist Recommendations
 * ⭐ **[Tunefind](https://www.tunefind.com/)** - Find Music from Movies / TV 
 * ⭐ **[Discover Quickly](https://discoverquickly.com/)** - Discover Spotify Songs Easily
+* ⭐ **[Every Noise at Once](https://everynoise.com/)** - Music Genre Samples
 * [Kworb](https://kworb.net/) - Music Top Charts
 * [TokBoard](https://tokboard.com/) or [TokChart](https://tokchart.com/) - TikTok Song Charts
 * [ClassicRockHistory](https://www.classicrockhistory.com/classic-rock-bands-list-and-directory/) - Classic Rock Band Archive
@@ -478,7 +479,6 @@
 * [Stage48](http://stage48.net/wiki/index.php) - Stage48 Idol Group Database
 * [KHip-pop Wiki](https://khiphop.fandom.com/) - Korean Hip-pop Wiki
 * [Music.ishkur](https://music.ishkur.com/) - Electronic Music Guide
-* [Every Noise at Once](https://everynoise.com/) - Music Genre Samples
 * [This Is What You Listen To](https://tiwylt.musimap.io/) - Song Genre / Info Analyzer
 * [Identifying Music Genres](https://chunisama.github.io/Identifying-Music-Genres/) - Compare Music Genres
 * [SpotiFictional](https://spotifictional.com/) - Music from Fictional Artists
