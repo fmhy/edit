@@ -154,7 +154,7 @@
 * [VolcanoDiscovery](https://www.volcanodiscovery.com/erupting_volcanoes.html) - Volcano Activity Map
 * [LiveScore](https://www.livescores.com/) - Live Sports Scores
 * [Read Something Interesting](https://readsomethinginteresting.com/) or [BoredReading](https://boredreading.com/) - Random Articles / Blog Posts
-* [Media Bias Fact Check](https://drmikecrowe.github.io/mbfcext/) or [HonestyMeter](https://www.honestymeter.com/) - Media Bias Check
+* [Media Bias Fact Check](https://drmikecrowe.github.io/mbfcext/), [ground.news](https://ground.news/extension) or [HonestyMeter](https://www.honestymeter.com/) - Media Bias Checkers
 
 ***
 
@@ -335,7 +335,7 @@
 * [Fitness Blender](https://www.fitnessblender.com/videos?exclusive%5B%5D=0) - Workout Videos
 * [Fitocracy](https://www.fitocracy.com/) or [Workout.lol](https://workout.lol/) - Create Workout Plans
 * [DAREBEE](https://darebee.com/) - Fitness Plans / Workouts
-* [Hevy](https://www.hevyapp.com/), [Iron](https://github.com/kabouzeid/Iron), [Massive](https://gitea.presley.nz/brandon.presley/Massive), [GymRoutines](https://codeberg.org/noahjutz/GymRoutines) or [FitHero](https://fithero.app/) - Workout Trackers
+* [Hevy](https://www.hevyapp.com/), [Iron](https://github.com/kabouzeid/Iron), [Massive](https://gitea.presley.nz/brandon.presley/Massive), [GymRoutines](https://codeberg.org/noahjutz/GymRoutines), [Boostcamp](https://www.boostcamp.app/) or [FitHero](https://fithero.app/) - Workout Trackers
 * [OpenTrack](https://opentracksapp.com/) - Sports Tracking App
 * [GoldenCheetah](https://www.goldencheetah.org/), [AAT](https://bailu.ch/aat/) or [BikeComputer](https://f-droid.org/packages/de.nulide.bikecomputer/) - Cycling / Biking Trackers
 * [Eurovelo](https://en.eurovelo.com/) - European Cycling Routes
@@ -1077,6 +1077,7 @@
 * ⭐ **[TierMaker](https://tiermaker.com/)** - Tier List Image Creator
 * [z0r](https://z0r.de/) - Random Music GIFs / Some NSFW
 * [DreamWidth](https://www.dreamwidth.org/) - User-Made Images & Stories
+* [GigaMacro](https://viewer.gigamacro.com/) or [Gigapan](https://www.gigapan.com/) - Panoramic Photography
 * [stringers.live](https://stringers.live/) - Live Freelance Journalist Streams
 * [Retro TV Simulator](https://www.myretrotvs.com/) - Simulate Oldschool TV Channels
 * [BumpWorthy](https://www.bumpworthy.com/) - Adult Swim Bumps 
@@ -1104,7 +1105,7 @@
 * [Web Neko](https://webneko.net/) - Nekos on the Web
 * [No Paint](https://nopaint.art/) - Press "Paint" if you like what you see, "No" if you don't
 * [Random Art](https://www.random-art.org/) - Random Art Generator
-* [HotGlue](https://hotglue.me/) or [Remoji](https://remoji.com/) - Emoji Painting
+* [Remoji](https://remoji.com/) - Emoji Painting
 * [MyPokeCard](https://www.mypokecard.com/en/) - Create Pokemon Cards
 * [pokemon-colorscripts](https://gitlab.com/phoneybadger/pokemon-colorscripts) - Terminal Pokémon Sprites
 * [Pokémon Fusion](https://pokemon.alexonsager.net/) - Fuse Pokémon
@@ -1201,6 +1202,7 @@
 * [SND](https://s-n-d.si/) - Strange Scrollable Story
 * [Draw a Stickman](https://drawastickman.com/) - Stickman Adventure
 * [Wonder of Wonder Art](https://aidn.jp/wowa/) - Create a Dancing Character
+* [Emotiguy](https://testing.duckwithsunglasses.com/emotiweb/) - Edit Emotiguy
 * [Cursor Car](https://papercookies.itch.io/cursor-car) - Play with Car Cursor
 
 ***
@@ -1209,7 +1211,6 @@
 
 * 🌐 **[Awesome Lego](https://github.com/ad-si/awesome-lego)** - Lego Resources
 * ↪️ **[Online Virtual Tours](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu#wiki_.25BA_virtual_tours)**
-* ↪️ **[Learn Origami](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_origami)**
 * ⭐ **[Iceberg Charts](https://icebergcharts.com/)** - Explore Obscure Topics / [/r/IcebergCharts](https://www.reddit.com/r/IcebergCharts/)
 * ⭐ **[Conspiracy Theory Iceberg](https://ipfs.io/ipfs/QmWszAAzXjaD6hQZXbfhF9qBFWpnPwZVWU131HVf42WZej)** - Conspiracies / Occult / Mythology / [Video Playlist](https://www.youtube.com/watch?v=7I2KJL-gJPU&list=PLfeWBGty_481haNoS_ozOVdIyOpyXMjUC)
 * ⭐ **[InfiniteConversation](https://infiniteconversation.com/)** - Never-Ending Werner Herzog / Slavoj Žižek Conversation
