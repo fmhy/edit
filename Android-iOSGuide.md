@@ -11,7 +11,7 @@
 
 # ► Android APKs
 
-* ⭐ **[Lucky Patcher](https://chelpus.com/download/LuckyPatchers.com_Official_Installer_10.9.9.apk)** - App Patcher / [Avoid "LP Installer"](https://pastebin.com/UXxaVqX9)
+* ⭐ **[Lucky Patcher](https://chelpus.com/download/LuckyPatchers.com_Official_Installer_10.9.9.apk)** - App Patcher / [Avoid "LP Downloader"](https://pastebin.com/UXxaVqX9)
 * ⭐ **Lucky Patcher Tools** - [Guide](https://flixbox.github.io/lp-compat/docs/intro), [2](https://latestechnews.com/how-to-use-lucky-patcher/) / [Compatibility](https://flixbox.github.io/lp-compat/) / [Subreddit](https://www.reddit.com/r/luckypatcher/) / [Discord](https://discord.com/invite/RS5ddYf7mw)
 * ⭐ **[Android APK CSE](https://cse.google.com/cse?cx=e0d1769ccf74236e8)** / [CSE 2](https://cse.google.com/cse?cx=73948689c2c206528) / [CSE 3](https://cse.google.com/cse?cx=a805854b6a196d6a6) or [ShowAppsLike](https://showappslike.com/) - APK Search Engines
 * [Direct Download From Google Play](https://greasyfork.org/en/scripts/33005-direct-download-from-google-play/) - Add Direct DL Links to Google Play
