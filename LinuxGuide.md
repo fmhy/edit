@@ -25,8 +25,7 @@
 * [Crontab Guru](https://crontab.guru/) - Crontab Editor / Job Scheduler
 * [Crontab Generator](https://crontab-generator.org/) - Generate Crontab Syntax
 * [Touchégg](https://github.com/JoseExposito/touchegg) - Multi-Touch Gesture Recognizer
-* [Enlightment](https://www.enlightenment.org/), [1Piece](https://app1piece.com/), [worm](https://github.com/codic12/worm), [qpwm](https://github.com/ssleert/qpwm) or [dwm](https://dwm.suckless.org/) - Window Managers
-* [zentile](https://github.com/blrsn/zentile) or [bspwm](https://github.com/baskerville/bspwm) - Tiling Windows Manager / [Sub](https://www.reddit.com/r/bspwm/) / [Binds](https://github.com/baskerville/sxhkd)
+* [Enlightment](https://www.enlightenment.org/), [1Piece](https://app1piece.com/), [worm](https://github.com/codic12/worm), [qpwm](https://github.com/ssleert/qpwm), [dwm](https://dwm.suckless.org/), [qtile](https://qtile.org/), [xmonad](https://xmonad.org/), [zentile](https://github.com/blrsn/zentile) or [bspwm](https://github.com/baskerville/bspwm) - Windows Managers / [Sub](https://www.reddit.com/r/bspwm/) / [Binds](https://github.com/baskerville/sxhkd)
 * [Material Shell](https://material-shell.com/) or [Forge](https://github.com/forge-ext/forge) - GNOME Tiling Extension
 * [Bismuth](https://bismuth-forge.github.io/bismuth/) - KDE Tiling Extension / [GitHub](https://github.com/Bismuth-Forge/bismuth)
 * [MSOffice2016](https://elsotanoenlared-es.translate.goog/office-2016-32-bits-en-linux-con-bottles/?_x_tr_sl=es&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp) - Pre-Installed MS Office 2016 Bottle
@@ -345,6 +344,7 @@
 * [Junction](https://github.com/sonnyp/Junction) - Change File Associations
 * [Krename](https://apps.kde.org/en-gb/krename/) - Bulk File Renamer
 * [FSLint](https://www.pixelbeat.org/fslint/), [Czkawka](https://qarmin.github.io/czkawka/) or [fclones](https://github.com/pkolaczk/fclones) - Duplicate File Finder
+* [xdg-ninja](https://github.com/b3nj5m1n/xdg-ninja) - Unwanted File Finder
 * [rcm](https://github.com/thoughtbot/rcm) - Manage Dotfiles
 * [Zathura](https://git.pwmt.org/pwmt) - Document Viewer
 * [PDF Mix](https://scarpetta.eu/pdfmixtool/) - PDF Editor
@@ -405,8 +405,9 @@
 * [Windows-10](https://github.com/B00merang-Project/Windows-10) - Windows 10 Theme
 * [La Capitaine](https://github.com/keeferrourke/la-capitaine-icon-theme), [Moka](https://snwh.org/moka), [Numix](https://github.com/numixproject/numix-icon-theme) or [Papirus](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) - Linux Icon Themes
 * [xScreensaver](https://www.jwz.org/xscreensaver/) - Linux Screensavers
-* [Fondo](https://github.com/calo001/fondo), [HydraPaper](https://hydrapaper.gabmus.org/), [styli.sh](https://github.com/thevinter/styli.sh) or [Komorebi](https://github.com/cheesecakeufo/komorebi) - Wallpaper Managers
+* [Fondo](https://github.com/calo001/fondo), [varietywalls](https://github.com/varietywalls/variety), [HydraPaper](https://hydrapaper.gabmus.org/), [styli.sh](https://github.com/thevinter/styli.sh) or [Komorebi](https://github.com/cheesecakeufo/komorebi) - Wallpaper Managers
 * [Video Wallpaper](https://github.com/ghostlexly/gpu-video-wallpaper) - Use Videos as Animated Wallpaper
+* [wallpaper-engine-kde-plugin](https://github.com/catsout/wallpaper-engine-kde-plugin) - Wallpaper Engine KDE Plugin
 * [Polychromatic](https://polychromatic.app/) - Linux System Light Control
 * [Burn My Windows](https://github.com/Schneegans/Burn-My-Windows) - Window Closing Effects
 * [theme.sh](https://github.com/lemnos/theme.sh) or [Shell Color Scripts](https://gitlab.com/dwt1/shell-color-scripts) / [2](https://github.com/stark/Color-Scripts) - Custom Terminal Themes
@@ -432,11 +433,13 @@
 * [AnimeNow](https://github.com/AnimeNow-Team/AnimeNow) or [Novee](https://github.com/ZhichGaming/Novee) - Anime Streaming Apps
 * [DMHY](https://github.com/yaqinking/DMHY) - Anime Torrent Autodownloader 
 * [Swiftcord](https://github.com/SwiftcordApp/Swiftcord) or [Accord](https://github.com/evelyneee/accord) - Discord Clients
+* [Ice Cubes](https://apps.apple.com/us/app/ice-cubes-for-mastodon/id6444915884) - Mastodon Client
 * [Beta Profiles](https://betaprofiles.com/) - Download Pre-Release Versions MacOS
 * [Asahi Linux](https://asahilinux.org/) - Run Linux OS on macOS Silicon (M1 only)
 * [CloverBootloader](https://github.com/CloverHackyColor/CloverBootloader/releases) - Windows, Mac & Linux Bootloader / [Config](https://mackie100projects.altervista.org/)
 * [Boot Camp](https://support.apple.com/boot-camp) - Windows Bootloader / [DL Script](https://github.com/timsutton/brigadier)
 * [Docker OSX](https://github.com/sickcodes/Docker-OSX) - Mac VM in Docker
+* [Whisky](https://getwhisky.app/) - Wine Wrapper
 * [macos-virtualbox](https://github.com/myspaghetti/macos-virtualbox) - MacOS Virtualbox Installer
 * [SwiftUI Win11](https://jinxiansen.github.io/Windows11/) - Windows 11 Desktop Client for macOS
 * [OrbStack](https://orbstack.dev/) - Docker Client
@@ -470,6 +473,7 @@
 * [Strongbox](https://strongboxsafe.com/) - Password Manager
 * [Maccy](https://maccy.app/) or [TRex](https://trex.ameba.co/) - Clipboard Managers
 * [Left on Read](https://leftonread.me/) - iMessage Client / [Github](https://github.com/Left-on-Read/leftonread)
+* [LlamaChat](https://www.llamachat.app/) - Llama AI Chat
 * [MacBing](https://goodsnooze.gumroad.com/l/macbing) - Bing Chat
 * [ViennaRSS](https://www.vienna-rss.com/) - RSS Feed Reader
 * [Dialect](https://github.com/dialect-app/dialect) - Translator
@@ -535,6 +539,7 @@
 * [Image Tricks Lite](https://apps.apple.com/us/app/image-tricks-lite/id403735824?mt=12) or [SeaShore](https://sourceforge.net/projects/seashore/) - Image Editors
 * [ImageOptim](https://imageoptim.com/mac) - Image Optimization
 * [Perspec](https://github.com/feramhq/Perspec) - Correct Perspective of Images
+* [MochiDiffusion](https://github.com/godly-devotion/MochiDiffusion) - AI Image Generator
 * [Draw Things](https://apps.apple.com/us/app/draw-things-ai-generation/id6444050820) - AI Image Drawing Tool
 * [SD Buddy](https://github.com/breadthe/sd-buddy) or [Swift Core ML Diffusers](https://github.com/huggingface/swift-coreml-diffusers) - Stable Diffusion Apps
 * [ColorSlurp](https://colorslurp.com/) or [Material-Colors-native](https://github.com/BafS/Material-Colors-native) - Color Picker
@@ -564,7 +569,7 @@
 
 * 🌐 **[Awesome MacOS](https://github.com/iCHAIT/awesome-macOS)**, [OpenSourceApple](https://opensource.apple.com/), [Awesome Mac](https://github.com/jaywcjlove/awesome-mac) or [Awesome OS Apps](https://github.com/serhii-londar/open-source-mac-os-apps) - FOSS App Indexes
 * 🌐 **[Mac Menu Bar](https://macmenubar.com/)** - Menu Bar App Index
-* ⭐ **[Homebrew](https://brew.sh/)**, [Munki](https://www.munki.org/munki/) or [AppLite](https://aerolite.dev/applite/index.html) - Package Managers
+* ⭐ **[Homebrew](https://brew.sh/)** / [GUI](https://corkmac.app/), [Munki](https://www.munki.org/munki/) or [AppLite](https://aerolite.dev/applite/index.html) - Package Managers
 * [Macintosh Garden](https://macintoshgarden.org/)
 * [MacBed](https://www.macbed.com/)
 * [Pure Mac](https://www.pure-mac.com/)
