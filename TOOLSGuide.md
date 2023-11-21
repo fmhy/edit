@@ -1091,7 +1091,6 @@
 * [Replugged](https://replugged.dev/) - Lightweight Discord Client
 * [Discordo](https://github.com/ayn2op/discordo) - Discord Terminal Client
 * [bdCompat](https://github.com/Juby210/bdCompat) - Use BD Plugins in Powercord
-* [Revert Rebrand](https://betterdiscord.app/theme/Revert%20Rebrand) - Revert Discord’s Rebrand on BetterDiscord & Powercord / [GitHub](https://github.com/Goose-Nest/GT-RevertRebrand)
 * [Discord Portable](https://portapps.io/app/discord-portable/) - Portable Discord Stable & [PTB PortApps](https://portapps.io/app/discord-ptb-portable/)
 * [Unicord](https://github.com/UnicordDev/Unicord) - Open Source Discord Client / [Discord](https://discord.gg/64g7M5Y) 
 * [Fosscord](https://github.com/spacebarchat/spacebarchat) - Open Source Discord Client
