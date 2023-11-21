@@ -205,6 +205,7 @@
 * ⭐ **[EyeCndy](https://eycndy.co/)** - Visual Technique Library
 * ⭐ **[PlayPhrase](https://playphrase.me/)**, [ClipBase](https://clipbase.xyz/), [Filmot](https://filmot.com/) or [Yarn](https://yarn.co/) / [2](https://getyarn.io/) - Internet Clip Quote Search
 * [VideoTuts](https://videotuts.ru/) - Video Design Tutorials / [Translator](https://github.com/FilipePS/Traduzir-paginas-web)
+* [VideoHelp](https://forum.videohelp.com/forums/2-Video) - Video Editing / Ripping Forums
 * [Free-Codecs](https://www.free-codecs.com/) - Codec Packs & Multimedia Tools
 * [VideoSmaller](https://www.videosmaller.com/), [Compress Video Online](https://compress-video-online.com/), [8mb.video](https://8mb.video/) or [MP4Compress](https://www.mp4compress.com/) - Video Compressors
 * [kmttg](https://www.videohelp.com/software/kmttg) - TivoToGo Download Manager
@@ -236,6 +237,7 @@
 * [LoopVid](https://loopvid.kastden.org/) - Loop Videos
 * [WeGreyScale](https://www.wegrayscale.com/) - Greyscale Videos / Images
 * [Gyroflow](https://gyroflow.xyz/) - Video Stabilization / [GitHub](https://github.com/gyroflow/gyroflow)
+* [ProPainter](https://github.com/sczhou/ProPainter) - Video Inpainting
 * [Croosfade](https://crossfade.io/) - Video and Audio Crossfading
 * [MKV Muxing Batch GUI](https://github.com/yaser01/mkv-muxing-batch-gui) - Mux Videos
 * [OpenColorIO](https://opencolorio.org/) - Video Color Manager
@@ -1026,13 +1028,14 @@
 * ⭐ **[Reddit Enhancement Suite](https://redditenhancementsuite.com/)**, [Reddit Fix](https://greasyfork.org/en/scripts/404497-reddit-fix), [Reddit Extension](https://lawrenzo.com/p/reddit-extension) or [RedditMod2](https://greasyfork.org/en/scripts/29724-redditmod2) - Browser Extensions / Scripts
 * ⭐ **[Redditle](https://redditle.com/)**, [Reddit CSE](https://cse.google.com/cse?cx=016649841759798530173:rk2ezolwnw0) / [2](https://cse.google.com/cse?cx=007749065626525752968:qh5bqebwi30) or [Better Reddit Search](https://betterredditsearch.web.app/) - Reddit Search Engines
 * ⭐ **[Reveddit](https://www.reveddit.com/)**, [Unedit & Undelete for Reddit](https://greasyfork.org/en/scripts/407466), [Unedit](https://github.com/DenverCoder1/Unedit-for-Reddit), [Unddit](https://www.unddit.com/) / [2](https://camas.unddit.com/) or [politicbot](https://politicbot.github.io/) - View Deleted Reddit Posts
+* ⭐ **[RedditRepostSleuth](https://www.repostsleuth.com/)** - Reverse Post / Image Search
 * ⭐ **[Old Reddit Redirect](https://github.com/tom-james-watson/old-reddit-redirect)** - Redirect New Reddit to Old
+* [Photon](https://photon-reddit.com/) - Reddit Frontend
 * [Reddit Login Bypass Script](https://pastebin.com/raw/sU5tqwep) - Bypass Reddit Login
 * [Reddit Comber](https://redditcomber.com/) or [Sub Notification](https://redd.it/5mz9z5) - Reddit Keyword Notifications
 * [Reddit Shadow Ban Info](https://redd.it/ptrm7u) - Check if You've been Shadowbanned
 * [Reddit Markdown Guide](https://www.reddit.com/wiki/markdown) - Learn Reddit Markdown
 * [Busca](https://github.com/afk-mario/busca) - Search / Post Current Tab on Reddit
-* [KarmaDecay](http://karmadecay.com/) - Reddit Reverse Image Search 
 * [JPF-Reddit](https://jpf-reddit.netlify.app/) or [Nuxtit](https://nuxtit.netlify.app/) - Alt Browsers / Web Clients
 * [ReSavr](https://www.resavr.com/), [Comment History](https://academictorrents.com/details/7c0645c94321311bb05bd879ddee4d0eba08aaee) or [Unreddit](https://github.com/pauldraper/unreddit) - Reddit Comment Archives
 * [Expanse](https://github.com/jc9108/expanse), [redarcs](https://the-eye.eu/redarcs/) or [Reddit Archive](https://www.redditarchive.com/) - Reddit Post Archive Tools / [Note](https://ibb.co/R9jC5bk)
@@ -1044,35 +1047,23 @@
 * [Reddit Emojis](https://greasyfork.org/en/scripts/443011) - Emojis for Old Reddit
 * [Reddit Preview](https://redditpreview.com/) - Preview Reddit Posts
 * [custom-top-sort-for-reddit](https://github.com/arvidsandin/custom-top-sort-for-reddit) - Scroll to Top of Reddit
-* [Redinfinite](https://redinfinite.com/), [redditpx](https://www.redditpx.com/) or [Redditp](https://redditp.com/) - Reddit Image / Video Slideshows 
+* Direct Image Viewers - [Firefox](https://github.com/nopperl/load-reddit-images-directly) / [Chrome](https://github.com/MonsterMannen/reddit-load-images-directly-chrome)
+* [Redinfinite](https://redinfinite.com/), [redditpx](https://www.redditpx.com/) or [Redditp](https://redditp.com/) - Reddit Image / Video Slideshows
 * [Up for Reddit](https://www.reddit-up.com/) - View Images Posted by User
 * [ScrollDrop](https://scrolldrop.com/) - Reddit Media Crawler
 * [3D for Reddit](https://3dforreddit.com/) - 3D Reddit Browser
-* [GmailKit](https://github.com/niturobert/gmailkit) - Gmail Style Viewer
-* [MSOutlookit](https://pcottle.github.io/MSOutlookit/) or [Routlookit](https://routlookit.com/) - Outlook Style Viewer
-* [RDDDeck](https://rdddeck.com/) - Twitter Style Viewer 
-* [Reddium](https://reddium.vercel.app/) - Medium Style Viewer
 * [SO Reddit](https://dutzi.github.io/so-reddit/) - Stack Overflow Style Viewer
 * [Pholder](https://pholder.com/) - Article Style Viewer
-* [Unim.Press](https://unim.press/) - Newspapers Style Viewer
 * [Unreadit](https://app.mailbrew.com/unreadit) - Reddit Newsletters
-* [Roffline](https://github.com/Darkle/Roffline) - Offline Reddit Viewer
-* [reddit shell](https://redditshell.com/) - Linux shell emulator for Reddit
-* [Random Reddit](https://old.reddit.com/random) or [Random Reddit Post](https://randomredditpost.netlify.app/) - Get Random Reddit Threads / Possibly NSFW
-* [Thredd](https://chrome.google.com/webstore/detail/thredd-useful-advice-from/nofhlafikocbioemioehbpadpgjlpeco/related) - Find Reddit Discussions on WebPage you are Browsing
 * [RedditMetis](https://redditmetis.com/), [Reddit-User-Analyser](https://reddit-user-analyser.netlify.app/), [Redective](https://www.redective.com/) or [redditsfinder](https://github.com/Fitzy1293/redditsfinder) - Reddit Profile Information
-* [Reddit Comment Visualizer](https://roadtolarissa.com/javascript/reddit-comment-visualizer/) - Visualize a Users Comments
 * [Reddit Comment Search](https://www.redditcommentsearch.com/) - Search Reddit Comments
 * [Find on Reddit](https://chrome.google.com/webstore/detail/find-on-reddit/jbcdpeekakanklckgooknpbonojhjncm) - Find Discussions of current URL
-* [Reddit Check](https://chrome.google.com/webstore/detail/reddit-check/mllceaiaedaingchlgolnfiibippgkmj) or [RedditRepostSleuth](https://github.com/barrycarey/RedditRepostSleuth) - Check for Reposts
-* [DelayForReddit](https://www.delayforreddit.com/) - Reddit Post Scheduler
 * [SocialGrep](https://socialgrep.com/) - Reddit Statistics
 * [PowerDeleteSuite](https://github.com/j0be/PowerDeleteSuite) - Reddit Auto Post Delete
 * [RedditRaffler](https://www.redditraffler.com/) - Reddit Raffle System
 * [Base64 Decoder](https://openuserjs.org/scripts/DanielBlaze/Reddit_Base64_Decoder) - Auto Decode Base64 Links in Reddit
 * [RedditOldRedesignedDark](https://github.com/Jorengarenar/RedditOldRedesignedDark) - Reddit Stylus Dark Theme
 * [Subreddit Tabs](https://greasyfork.org/en/scripts/460086) - Subreddit Icon Tabs
-* [/m/subredditthemes](https://www.reddit.com/user/Madbrad200/m/subredditthemes) - Subreddit Themes
 * [Reddit Spoiler Blur Remover](https://greasyfork.org/en/scripts/416091-reddit-spoiler-blur-remover) - Remove Reddit Spoiler Blur
 * [SubredditLog](https://gitlab.com/scallaway/SubredditLog) - Reddit Moderation Log
 
@@ -1115,6 +1106,7 @@
 * [GTKCord4](https://github.com/diamondburned/gtkcord4) - GTK4 Discord Client
 * [Acrylic](https://github.com/uwu/Acrylic) - Glass Theme
 * [WinClassic](https://github.com/SlippingGittys-Discord-Themes/WinClassic) - Classic Windows Theme
+* [Wumpus Central](https://discord.gg/wumpus-central-1087801778365546556) - Discord Experimental Server Hub
 * [NotQuiteNitro](https://nqn.blue/) - Discord Nitro Alternative
 * [DiscordFreeEmojis](https://github.com/An00nymushun/DiscordFreeEmojis) or [ImageClipboard](https://imageclipboard.com/) - Free Discord Nitro Emojis
 * [Slackmoji](https://github.com/seanprashad/slackmoji), [DiscordFreeEmojis](https://github.com/An00nymushun/DiscordFreeEmojis), [emoji.gg](https://emoji.gg/) - Discord Emojis
@@ -1259,6 +1251,7 @@
 * [TGCF](https://github.com/aahnik/tgcf) - Telegram Message Forwarding
 * [TediCross](https://github.com/TediCross/TediCross) - Telegram to Discord Bridge
 * [WatgBridge](https://github.com/akshettrj/watgbridge) - Telegram to WhatsApp Bridge
+* [Mautrix](https://github.com/mautrix/telegram) - Telegram to Matrix Bridge
 * [Callmebot](https://www.callmebot.com/) - Trigger Voice Calls or Chats
 * [Skeddy](https://skeddy.me/) - Telegram Reminder Bots
 * [SaveDay](https://www.save.day/) - Telegram Bookmarking AI
@@ -1790,7 +1783,7 @@
 * [Espanso](https://espanso.org/) - Typing Shortcuts / [GitHub](https://github.com/espanso/espanso)
 * [TouchCursor](https://sourceforge.net/projects/touchcursor/) - Use Home Keys as Cursor
 * [Window Grid / Tiling Programs](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_window_tiling_programs)
-* [WindowsManager](https://www.eusing.com/WindowManager/WindowManager.htm), [AwesomeWM](https://awesomewm.org/), [LCARS](https://github.com/lcarsde/lcarswm) or [Compiz Fusion](https://www.compiz-fusion.org/) / [Reloaded](https://github.com/compiz-reloaded/compiz/) - Windows Managers
+* [WindowsManager](https://www.eusing.com/WindowManager/WindowManager.htm), [AwesomeWM](https://awesomewm.org/), [LCARS](https://github.com/lcarsde/lcarswm), [RatPoison](https://www.nongnu.org/ratpoison/) or [Compiz Fusion](https://www.compiz-fusion.org/) / [Reloaded](https://github.com/compiz-reloaded/compiz/) - Windows Managers
 * [AltSnap](https://github.com/RamonUnch/AltSnap) - Windows Dragging
 * [MinimizeToTray](https://github.com/sandwichdoge/MinimizeToTray), [Traymond](https://github.com/fcFn/traymond), [RBTray](https://github.com/benbuck/rbtray) or [minimize-to-tray](https://sourceforge.net/projects/minimize-to-tray/) - Minimize Windows to Tray
 * [TrayDir](https://github.com/SamuelSVD/TrayDir) - System Tray File Manager
@@ -1986,7 +1979,7 @@
 * [ShadowExplorer](https://www.shadowexplorer.com/) or [ShadowCopyView](https://www.nirsoft.net/utils/shadow_copy_view.html/) - Shadow Copy Explorers
 * [filebrowser](https://github.com/filebrowser/filebrowser/) - Web File Browser
 * [DocDroid](https://www.docdroid.net/), [DocBase](https://www.getdocbase.com/), [EPDFX](https://epdfx.com/), [iStockFile](https://istockfile.com/) or [Securedrop](https://securedrop.org/) - Document File Sharing
-* [OpenPaper](https://openpaper.work/en/), [Paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) or [DataShare](https://datashare.icij.org/) - Document Managers
+* [OpenPaper](https://openpaper.work/en/), [papis](https://github.com/papis/papis), [Paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) or [DataShare](https://datashare.icij.org/) - Document Managers
 * [Browsemonkey](https://github.com/shukriadams/browsemonkey) - Take Snapshots of File Systems
 * [Gdrive Guide-Noob Friendly](https://telegra.ph/Gdrive-Guide-Noob-Friendly-04-10) - GDrive Guide 
 * [gDrive-DirectLink](https://github.com/jagrit007/gDrive-DirectLink) or [google-drive-direct-link-generator](https://www.wonderplugin.com/online-tools/google-drive-direct-link-generator/) - GDrive File Direct Link Generator
@@ -2045,7 +2038,7 @@
 * ↪️ **[Operating System Emulators](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_os_emulators)** - Emulate Alternate OS
 * ⭐ **[VirtualBox](https://www.virtualbox.org/)** / [Portable](https://www.vbox.me/), [Looking Glass](https://looking-glass.io/), [Qemu](https://gitlab.com/qemu-project/qemu), [Hyper-V](https://learn.microsoft.com/en-us/virtualization/hyper-v-on-windows//), [fvwm](https://www.fvwm.org/), [Denodo Test](https://www.denodo.com/en/denodo-platform/test-drives?utm_source=homepage&utm_medium=bn) or [VMware Workstation Player](https://www.vmware.com/products/workstation-player/workstation-player-evaluation.html) - Virtual Machines / [Preinstalled VMS](https://www.osboxes.org/)
 * ⭐ **[Hackintosh](https://hackintosh.com/)**, [Emaculation](https://www.emaculation.com/), [felixrieseberg](https://github.com/felixrieseberg/macintosh.js/) or [OneClick-macOS](https://github.com/notAperson535/OneClick-macOS-Simple-KVM) - MacOS Virtual Machines
-* ⭐ **Hackintosh Tools** - [Guide](https://github.com/dortania/macOS-VMware-Guide), [2](https://www.tonymacx86.com/) / [Installer](https://github.com/huangyz0918/Hackintosh-Installer-University) / [Ryzen](https://github.com/mikigal/ryzen-hackintosh) / [XiaoMi](https://github.com/daliansky/XiaoMi-Pro-Hackintosh)
+* ⭐ **Hackintosh Tools** - [Guide](https://github.com/dortania/macOS-VMware-Guide), [2](https://www.tonymacx86.com/) / [AMD Guide](https://chefkissinc.github.io/guide) / [Installer](https://github.com/huangyz0918/Hackintosh-Installer-University) / [Ryzen](https://github.com/mikigal/ryzen-hackintosh) / [XiaoMi](https://github.com/daliansky/XiaoMi-Pro-Hackintosh)
 * [Virt Machine](https://virt-manager.org/) or [Vagrantup](https://www.vagrantup.com/) - Virtual Machine Managers
 * [CollabVM](https://computernewb.com/collab-vm/) - Online Virtual Machines
 * [Virtual PC](https://www.microsoft.com/en-us/download/details.aspx?id=3243) - Windows XP Virtual Machine
