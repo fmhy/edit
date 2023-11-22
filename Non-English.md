@@ -898,20 +898,13 @@
 
 ## ▷ Downloading
 
-* [BlueWarez](https://www.bluewarez.pl/) - Video / Audio/ Books / Audiobooks / NSFW
-* [pobieramy24](https://pobieramy24.xyz/) - Video / Audio / Books / Audiobooks / NSFW
-* [Files4You](https://www.files4you.org/) - Video / Audio / Books / Audiobooks / NSFW
-* [Warezik](https://www.warezik.eu/) - Video / Audio/ Books
 * [Dark Machine](https://darkmachine.pl/) - Video / Audio/ Books / Audiobooks / NSFW
 * [animezone](https://www.animezone.pl/) - Anime
 
 ## ▷ Torrenting
 
-* [BitNova](https://bitnova.info/) - Video / Audio/ Books / NSFW
 * [polskie-torrenty](https://polskie-torrenty.net.pl/) - Video / Audio/ Books / NSFW
 * [devil-torrents](https://devil-torrents.pl/) - Video / Audio/ Books / NSFW
-* [TorrentCity](https://torrentcity.pl/) - Video / Audio/ Books / Comics / NSFW
-* [VTorrent](https://vtorrent.pl/) - Video / Audio/ Books / NSFW
 * [PolishSource](https://polishsource.cz/)
 
 ## ▷ Streaming
