@@ -112,7 +112,7 @@
 * ↪️ **[Security / Hacking News](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_security_.2F_hacking_news)**
 * ↪️ **[Health News Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_health_news)**
 * ↪️ **[Bypass Article Paywalls](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_read_paywalled_articles)**
-* ↪️ **[Article Summary Generators](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_text_rephrashing)**
+* ↪️ **[Article Summary Generators](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_text_rephrasing)**
 * ⭐ **[/m/news](https://www.reddit.com/user/nbatman/m/news/)** - News Multireddit
 * ⭐ **[PublicAlerts](https://google.org/publicalerts)** - Important News / Disaster Alerts
 * ⭐ **[TorrentFreak](https://torrentfreak.com/)** / [Telegram](https://t.me/torrentfreaks) - Piracy News
