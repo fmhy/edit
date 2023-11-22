@@ -4,7 +4,7 @@
 ***
 ***
 
-**[Table of Contents](https://ibb.co/DMQGZmd)** - For mobile users
+**[Table of Contents](https://ibb.co/54ggKmW)** - For mobile users
 
 ***
 *** 
@@ -597,10 +597,6 @@
 * [WalletExplorer](https://www.walletexplorer.com/) or [OXT](https://oxt.me/) - Bitcoin Block Explorers
 * [Wasabi](https://wasabiwallet.io/) or [Shapeshift](https://app.shapeshift.com/) - FOSS Bitcoin Wallets
 * [Ivy Wallet](https://github.com/Ivy-Apps/ivy-wallet) - Money Management App
-
-***
-
-## ▷ [AI Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/ai#wiki_.25BA_ai_tools)
 
 ***
 
