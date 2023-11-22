@@ -148,7 +148,7 @@
 ## ▷ Downloading
 
 * [shinybbs](https://sysub.vip/) - Movies / TV / 1080p
-* [Hifini](https://www.hifini.com/) or [J-pop Music Download](https://jpop.xyz/) - Music / FLAC / MP3
+* [Hifini](https://www.hifini.com/) - Music / FLAC / MP3
 * [icourse163](https://www.icourse163.org/) / [Icourse163 Downloader](https://greasyfork.org/en/scripts/372684) - Courses
 
 ## ▷ Torrenting
@@ -243,7 +243,6 @@
 * [CText](https://ctext.org/), [ChineseNotes](https://chinesenotes.com/texts.html) or [Kanripo](https://www.kanripo.org/) - Chinese Historic Text Archive
 * [guoxue](http://www.guoxue.com/) - History / Journals
 * [ebooks](https://github.com/XWHQSJ/ebooks), [Chinese Programming Books](https://github.com/justjavac/free-programming-books-zh_CN) or [awesome-wiki-books](https://github.com/awesome-wiki/awesome-wiki-books), [Banshujiang](http://www.banshujiang.cn/) - Programming Books
-* [Moedict](https://www.moedict.tw/), [dict.cn](https://dict.cn/), [CantoDict](https://www.cantonese.sheik.co.uk/scripts/wordlist.htm) or [ZDic](https://www.zdic.net/) - Chinese Dictionary
 * [kangxizidian](https://kangxizidian.com/) - Chinese Kangxi Dictionary
 * [Shufazidian](https://www.shufazidian.com/) - Chinese Calligraphy Dictionary
 * [CCams](http://www.ccamc.co/) - Chinese Character Search
@@ -252,7 +251,7 @@
 * [21dzk](https://21dzk.l.u-tokyo.ac.jp/SAT/index.html) - Chinese Buddhist Scriptures
 * [Legado](https://github.com/gedoor/legado) - Android Ebook Reader
 * [wenku](https://pypi.org/project/wenku/) - Baidu Wenku Downloader
-* [Trtag](https://trtag.com/) - Movies / TV Encyclopaedia
+* [Trtag](https://trtag.com/) - Movies / TV Encyclopedia
 
 ***
 
@@ -656,46 +655,41 @@
 * [Marshmallow](https://marshmallow-qa.com/) - Send / Receive Positive Messages
 * [Annict](https://annict.com/) - Anime Tracker
 * [Japanese Subtitles](https://gist.github.com/tatsumoto-ren/78ba4e5b7c53c7ed2c987015fa05cc2b) - Subtitles
-* [Kitsunekko](https://kitsunekko.net/dirlist.php?dir=subtitles%2Fjapanese%2F) - Anime Subtitles
 * [Japan Reference](https://jref.com/) - Japanese Culture Forum
 * [fuseji](http://fuseji.net/) - Hidden Character Search
 * [goo](https://www.goo.ne.jp/) - Search
 
 ## ▷ Downloading
 
-* [Akiba-Online](https://www.akiba-online.com/) - Video / Audio / Comics / NSFW
-* [Asia Media Blog](https://asiamediablog.com/) - Video / Audio / Magazines
-* [Japan Media Blog](https://t.me/japanmusicfree) - Video / Audio
-* [jpddl](https://jpddl.com/) - Manga / Anime / Music / Drama
-* [JPLearner](http://www.jplearner.to/) - Video / Manga / Magazines
+* [Akiba-Online](https://www.akiba-online.com/) - Video / Audio / Comics / NSFW / 1080p
+* [Asia Media Blog](https://asiamediablog.com/) - Video / Audio / Magazines / NSFW / 1080p
+* [jpddl](https://jpddl.com/) - Manga / Raw Anime / Music / Drama / 1080p
+* [JPLearner](http://www.jplearner.to/) - Video / Manga / Raw Anime / Magazines / 1080p
 * [Sukidesuost](https://sukidesuost.info/) - Music / MP3 / FLAC
-* [Hikarinoakariost](https://hikarinoakari.com/) - Music / MP3
-* [JPopSingles](https://www.jpopsingles.eu/) - Music / MP3 / FLAC
-* [DoujinStyle.com](https://doujinstyle.com/) - Music / MP3
-* [Doujin Cafe](https://discord.gg/doujincafe) - Music / MP3
-* [Music Fusion World](https://fusion-world-30.blogspot.com/) - Music / MP3
+* [HikariNoAkari](https://hikarinoakari.com/) - Music / MP3 / FLAC
+* [JPop Singles](https://www.jpopsingles.eu/) - Music / MP3 / FLAC
+* [Doujin Cafe](https://discord.gg/doujincafe) - Music / MP3 / FLAC
 * [J-pop Music Download](https://jpop.xyz/) - Music / MP3 / FLAC
-* [MinimumMusic](https://minimummusic.com/) - FLAC / MP3
+* [MinimumMusic](https://minimummusic.com/) - FLAC / MP3 / FLAC
 * [Perfect Dark](http://kasumi.moe/pd/) - P2P App
 
 ## ▷ Torrenting
 
-* [share.dmhy](https://share.dmhy.org/) - Video / Audio / Game
+* [share.dmhy](https://share.dmhy.org/) - Video / Audio / Games / NSFW
 * [Beatrice](https://beatrice-raws.org/) - Anime
 * [Anime-Torrent](https://www.anime-torrent.com/) - Anime
 * [VCB-S](https://vcb-s.com/) - Anime
 
 ## ▷ Streaming
 
-* [momotheater](https://momotheater.com/) - Movies / Anime
-* [JP-Films](https://jp-films.com/) - Movies / TV
+* [momotheater](https://momotheater.com/) - Movies / Anime / Sub / 720p
+* [JP-Films](https://jp-films.com/) - Classic Japanese Movies / TV / 1080p
 * [Abema](https://abema.tv/) - Live TV
-* [AnimeLon](https://animelon.com/) - Anime / Learn Japanese
-* [Japanese Animated Film Classics](https://animation.filmarchives.jp/index.html) - Japanese Animated Film Archive
-* [National Film Archive of Japan](https://meiji.filmarchives.jp/) - Japanese Film Archive
 * [AQ Stream](https://aqstream.com/) - Live TV
+* [National Film Archive of Japan](https://meiji.filmarchives.jp/) - Japanese Movie Archive
+* [Japanese Animated Film Classics](https://animation.filmarchives.jp/index.html) - Japanese Animated Movie Archive
 * [kuukunen](https://touhou.kuukunen.net/) - Music
-* [SimulRadio](https://simulradio.info/) - Listen to Radio Stations at Once
+* [SimulRadio](https://simulradio.info/) - Radio
 
 ## ▷ Reading
 
@@ -724,18 +718,12 @@
 * [mangaraw](https://mangaraw.io/) - Manga
 * [shobonnexus](https://shobonnexus.com/) - Novels / Magazines
 * [ErogameScape](https://erogamescape.org/~ap2/ero/toukei_kaiseki/) - Visual Novel Database
-* [watanoc](https://watanoc.com/), [yourei](https://yourei.jp/) or [n-lab](http://www.n-lab.org/library/mondai/) - Learn / Practice Japanese
-* [kakijun](https://kakijun.jp/) - Learn Japanese Writing
-* [Nihongo Monash](http://nihongo.monash.edu/onlinejdic.html), [jitenon](https://jitenon.jp/), [kotobank](https://kotobank.jp/), [aozorasearch](https://github.com/myokoym/aozorasearch) or [Weblio](https://www.weblio.jp/) - Dictionaries
-* [dictionary.goo](https://dictionary.goo.ne.jp/idiom/) - Japanese Idiom Dictionary
-* [Zokugo](http://zokugo-dict.com/) or [Nico Nico Pedia](https://dic.nicovideo.jp/) - Slang Dictionaries
-* [accent.u-biq](https://accent.u-biq.org/) - Accent Dictionary
 
 ***
 
 # ► Korean
 
-* [dic.daum](https://dic.daum.net/) or [Speller](http://speller.cs.pusan.ac.kr/) - Korean Translator / Spellchecker
+* [dic.daum](https://dic.daum.net/) - Korean Translator / Spellchecker
 * [TakakTadak](https://tadaktadak.co.kr/) - Korean Practice / English Learning
 * [EBS](https://www.ebs.co.kr/) - Korean Courses for the Visually / Hearing Impaired
 * [Awesome Cafe](https://github.com/utilForever/awesome-cafe) - Korean Cafe List
@@ -745,33 +733,27 @@
 
 ## ▷ Downloading
 
-* [JPFILES](https://jpfiles.eu/) - Video / Audio / Books / NSFW
-* [PDPop](https://www.pdpop.com/) - Video / Books / NSFW
-* [WeDisk](https://www.wedisk.co.kr/) - Movies / TV
-* [CinEast](https://cineaste.co.kr/) - Movies
-* [J-pop Music Download](https://jpop.xyz/) - Music
-* [4Sashi](https://4sashi.com/) - Music
-* [KPopExplorer](https://kpopexplorer.net/) - Music
-* [ilKPOP](https://ilkpop.com/) - Music
-* [KPopSea](https://kpopjams.com/) - Soundtracks
-* [VTH88](https://vth88.blogspot.com/) - Music Videos
-* [Devil Joo](https://devil-joo.blogspot.com/) - Music Videos
+* [PDPop](https://www.pdpop.com/) - Video / Books / NSFW / Sub / 1080p
+* [CinEast](https://cineaste.co.kr/) - Movies / TV / Sub / 1080p
+* [4Sashi](https://4sashi.com/) - Music / MP3 / FLAC
+* [KPopExplorer](https://kpopexplorer.net/) - Music / MP3 / FLAC
+* [KPopSea](https://kpopjams.com/) - Music / MP3 / FLAC
+* [ilKPOP](https://ilkpop.com/) - Music / MP3
 
 ## ▷ Torrenting
 
-* [TorrentHaja](https://torrenthaja.com/) - Video / Audio/ Books
+* [TorrentHaja](https://torrenthaja.com/) - Video / Audio / Books
 
 ## ▷ Streaming
 
-* [OnDemandKorean](https://www.ondemandkorea.com/) - TV / Movies
-* [Kokoa](https://kokoatv.net/) - TV / Movies
+* [Kokoa](https://kokoatv.net/) - Movies / TV / Sub / 1080p
+* [OnDemandKorean](https://www.ondemandkorea.com/) - Korean Movies / TV / 720p
 * [AQ Stream](https://aqstream.com/) - Live TV
 
 ## ▷ Reading
 
 * [kakao](https://page.kakao.com/) - Manga
 * [MangaViewAndroid](https://github.com/junheah/MangaViewAndroid) - Manga 
-* [Dict.Naver](https://dict.naver.com/) - Korean Dictionary
 * [Namu Wiki](https://namu.wiki/) - Korean Wiki
 
 ***
@@ -782,11 +764,11 @@
 
 ## ▷ Downloading
 
-* [Malayalam Film Songs](https://t.me/cc_NewMalayalamMp3) - Audio / Telegram
+* [Malayalam Film Songs](https://t.me/cc_NewMalayalamMp3) - Audio
 
 ## ▷ Reading
 
-* [komikindo](https://komikindo.info/) - Manga
+* [Komikindo](https://komikindo.info/) - Manga / NSFW
 
 ***
 
