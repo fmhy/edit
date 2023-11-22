@@ -193,7 +193,7 @@
 
 ***
 
-## ▷ [Text Rephrashing](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_text_rephrashing)
+## ▷ [Text Rephrashing](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_text_rephrasing)
 
 ***
 
