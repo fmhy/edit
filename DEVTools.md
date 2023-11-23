@@ -529,6 +529,7 @@
 * ↪️ **[Domain Info Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_domain_info_tools)**
 * ⭐ **[Offshore.CAT](https://offshore.cat/)** - DMCA Ignoring Hosting List
 * [GoodBadISPs](https://gitlab.torproject.org/legacy/trac/-/wikis/doc/GoodBadISPs) - Best ISPs for Tor Hosting
+* [Server Hunter](https://www.serverhunter.com/) - Search / Compare Servers
 * [Sentora](https://sentora.org/) - Web Hosting Control Panel
 * [DNSPerf](https://www.dnsperf.com/dns-providers-list/) - DNS Provider Rankings
 * [GRC DNSBench](https://www.grc.com/dns/benchmark.htm) - DNS Benchmark
@@ -550,6 +551,7 @@
 * [Hitch](https://hitch-tls.org/) - SSL / TLS Proxy
 * [Let's Encrypt](https://letsencrypt.org/) - Free TLS Certificates
 * [SSL for Free](https://www.sslforfree.com/) or [ZeroSSL](https://zerossl.com/) - Free SSL Certificates
+* [CertAlert](https://certalert.net/) - Alerts you when a TLS/SSL Certificate Expires
 * [mkcert](https://github.com/FiloSottile/mkcert) - Locally Trusted Development Certificates
 * [TrainCertPoster](https://aka.ms/TrainCertPoster) - Microsoft Certifications Roadmap
 * [AWS Certifications](https://d1.awsstatic.com/training-and-certification/docs/AWS_certification_paths.pdf) - AWS Certifications Roadmap
@@ -838,7 +840,7 @@
 * [Open Source Security Software](https://open-source-security-software.net/) - Cybersecurity Software
 * [Advisory Database](https://github.com/github/advisory-database) or [Att&ck](https://attack.mitre.org/) - Cybersecurity Defense Databases
 * [SSuite](https://spidersuite.github.io/SSuite/) - Web Security App
-* [osquery](https://github.com/osquery/osquery) - Security Monitor
+* [osquery](https://github.com/osquery/osquery) or [Nmap](https://nmap.org/) - Security Monitors
 * [Nuclei](https://github.com/projectdiscovery/nuclei) or [NVD](https://nvd.nist.gov/) - Vulnerability Tracking / Scanning
 * [Crowdsec](https://crowdsec.net/) - Crowd-Sourced Intrusion Detection / Prevention / [GitHub](https://github.com/crowdsecurity/crowdsec)
 * [X-Force Exchange](https://exchange.xforce.ibmcloud.com/) - Security Threat Intelligence Platform
