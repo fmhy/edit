@@ -4,7 +4,7 @@
 ***
 ***
 
-**[Table of Contents](https://ibb.co/54ggKmW)** - For mobile users
+**[Table of Contents](https://ibb.co/TwSDjmP)** - For mobile users
 
 ***
 *** 
@@ -24,6 +24,7 @@
 * ⭐ **[MiXLab](https://github.com/shirooo39/MiXLab)** - Multi-Tool Google Colab / Use Throwaways
 * ⭐ **[Versus](https://versus.com/)**, [SocialCompare](https://socialcompare.com/en), [DifferenceBetween](http://www.differencebetween.net/) or [Diffen](https://www.diffen.com/) - Compare Anything
 * ⭐ **[RepairWiki](https://repair.wiki/w/Repair_Wiki)** or [Manual Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/reading#wiki_.25B7_manual_sites) - Repair Articles / Manuals
+* ⭐ **[endoflife.date](https://endoflife.date/)** - Tools & Technologies' End of life Index
 * ⭐ **[USPS Shipping Supplies](https://store.usps.com/store/results/free-shipping-supplies/_/N-alnx4j)** - Free Shipping Supplies
 * ⭐ **[TurboTaxSucksAss](https://turbotaxsucksass.org/)**, [US Taxes](https://ustaxes.org/) or [FreeTaxUSA](https://www.freetaxusa.com/) - File Taxes for Free / [Get Pin](https://youtu.be/iPw8I-cZ1eY) / [Form Calc](https://opentaxsolver.sourceforge.net/)
 * ⭐ **[FindHelp](https://www.findhelp.org/)** - Find Assistive Programs
@@ -153,26 +154,18 @@
 * [telescopictext](https://www.telescopictext.org/) - Write Text Within Text
 * [quipqiup](https://www.quipqiup.com/) or [dCode](https://www.dcode.fr/en) - Cryptogram Solvers
 * [Just Not Sorry](https://justnotsorry.com/) - Undermining Word Detection
-* [Character / Word Counters](https://rentry.co/w54ys) - Character / Word Counters
 * [Chinese Text Analyzer](https://dimusic.github.io/chinese-text-analyzer/) - Chinese Character / Word Counter
-* [Gramma](https://caderek.github.io/gramma/) - Command Line Grammar Checker
 * [R2bEEaton's Phonetic Reverser](https://spea.cc/backwards/) or [TextReverse](https://www.textreverse.com/) - Reverse Text 
 * [UpsideDown Text](https://www.upsidedowntext.com/) - Generate Upside Down Text
-* [I or l?](https://iorl.info/) - Is it an uppercase "i", or is it a lowercase "L"?
 * [ripgrep](https://github.com/BurntSushi/ripgrep) - Recursive Search Tool
 * [Textify](https://ramensoftware.com/textify) - Copy Text from Any Dialog
 * [BlankText](https://blanktext.net/) - Copy / Paste Blank Spaces
-* [randSeq](http://www.dave-reed.com/Nifty/randSeq.html) - Random Letter Sequence Generator
 * [xeuledoc](https://github.com/Malfrats/xeuledoc) - Fetch Information about Public Google Documents
 * [Podpis](https://podpis-online.ru/) - Signature Generator
-* [Signaturely](https://signaturely.com/) or [SignFree](https://signfree.io/) - Get Documents Digitally Signed
+* [SignFree](https://signfree.io/) - Get Documents Digitally Signed
 * [Polona Typo](https://typo.polona.pl/en/) - Create Text out of Book, Poster and Map Letters
 * [The Death Generator](https://deathgenerator.com/) - Video Game Text Generator
-* [Acme Caption](https://acme.com/caption/) - Caption Creator
 * [SimpleWriter](https://xkcd.com/simplewriter/) - Simple Words Writing Tool
-* [SVGBob Editor](https://ivanceras.github.io/svgbob-editor/) - Convert ASCII Diagrams to SVG Images
-* [E5 Rclone Actions](https://github.com/ChirmyRam/E5-Rclone-Actions-Repo) - Keep OneDrive Office E5 Active
-* [Image to Braille](https://505e06b2.github.io/Image-to-Braille/) - Convert Images to Braille
 
 ***
 
@@ -324,7 +317,6 @@
 * [Mixamo](https://www.mixamo.com/) or [Cascadeur](https://cascadeur.com/) - 3D Character Animation Tools
 * [MMHuman3D](https://github.com/open-mmlab/mmhuman3d) - 3D Human Model Creator
 * [Talking Face Avatar](https://github.com/saba99/Talking_Face_Avatar) - Talking Avatar Generator
-* [NATRON](https://natrongithub.github.io/) - Compositing Software
 * [Blender Open Movies](https://youtube.com/playlist?list=PLav47HAVZMjnTFVZL-aImCQIC0uLZtNCz) - CGI Assets
 
 ***
@@ -481,125 +473,6 @@
 
 ***
 
-## ▷ Career Tools
-
-* 🌐 **[Awesome Remote Jobs](https://github.com/lukasz-madon/awesome-remote-job)** - Remote Job Resources
-* 🌐 **[Awesome Startup](https://github.com/Ibexoft/awesome-startup-tools-list)** or [Tools for Startups](https://docs.google.com/spreadsheets/d/1s6-hGBh0_tqa-jd23fsdYuwbmS8UPmElPqaH-Rnoa_A/htmlview) - Startup Resources
-* 🌐 **[Awesome Interview](https://github.com/DopplerHQ/awesome-interview-questions)**, [Common Q&As](https://www.indeed.com/career-advice/interviewing/top-interview-questions-and-answers) or [30-sec](https://30secondsofinterviews.org/) - Interview Resources
-* ↪️ **[Developer Learning](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/dev-tools#wiki_.25BA_courses_.2F_tutorials)**
-* ↪️ **[Resume Creators](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_resume_makers)**
-* ↪️ **[Project Managers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_collaboration_platforms)**
-* ⭐ **[5000 Best Job Sites](http://5000best.com/websites/Jobs/)**, [4DayWeek](https://4dayweek.io/) or [Indeed](https://www.indeed.com/) - Job Search Sites
-* ⭐ **[Real Work From Anywhere](https://realworkfromanywhere.com/)** - Global "Work-From-Anywhere" Job Board
-* ⭐ **[Comparably](https://www.comparably.com/)** or [GoodFirms](https://www.goodfirms.co/) - Compare Companies / Salaries
-* ⭐ **[Resume Guide](https://hwpi.harvard.edu/files/ocs/files/hes-resume-cover-letter-guide.pdf)**, [Undergrad](https://hwpi.harvard.edu/files/ocs/files/undergrad_resumes_and_cover_letters.pdf), [CareerCup](https://www.careercup.com/resume) or [Masters](https://hwpi.harvard.edu/files/ocs/files/masters_resume_cover_letters.pdf) - Resume / Cover Letter Guides
-* ⭐ **[KickResume](https://www.kickresume.com/en/help-center/resume-samples/)** or [ThisResumeDoesNotExist](https://thisresumedoesnotexist.com/) - Resume Samples
-* ⭐ **[Reverse Interview](https://github.com/viraptor/reverse-interview)** or [job-interview-questions](https://github.com/lkostrowski/job-interview-questions-to-ask-companies) - Questions to ask Potential Employers
-* ⭐ **[Kimai](https://www.kimai.org/)** - Working Hours Tracker
-* [Toby Tools](https://rentry.co/qnu6x) or [EuroJobs](https://eurojobs.com/) - Job Search Tools
-* [50WaysToGetAJob](https://50waystogetajob.com/) - Interactive Job Search Guide
-* [10xJobs](https://10xjobs.net/) - Tech Job Search
-* [Arvrok](https://www.arvrok.com/) - Immersive Tech Job Search
-* [EconJobRumors](https://www.econjobrumors.com/) - Economic Job Market Forum
-* [SocJobRumors](https://www.socjobrumors.com/) - Sociology Job Market Forum
-* [80,000 Hours](https://80000hours.org/) - Explore Career Options
-* [Summer 2024 Internships](https://github.com/SimplifyJobs/Summer2024-Internships) - List of Internships
-* [Contact Card](https://contact-card.vercel.app/) - Contact Card Generator
-* [CoFolios](https://cofolios.com/) - Portfolio Sharing
-* [PortfolioVisualizer](https://www.portfoliovisualizer.com/) - Visualize Portfolio
-* [MS Word Cover Page Templates](https://www.mswordcoverpages.com/) - Cover Page Templates
-* [LeetFree](https://doocs.github.io/leetcode/#/README_EN), [2](https://github.com/doocs/leetcode/blob/main/README_EN.md) - Leaked Google, Facebook & Amazon Interview Questions
-* [Interviews.school](https://interviews.school/) or [InterviewThis](https://github.com/Twipped/InterviewThis) - Developer Interview Preparation Guides
-* [yangshun](https://github.com/yangshun/tech-interview-handbook) - Tech Interview Handbook
-* [Interview Warmup](https://grow.google/certificates/interview-warmup/) - Interview Practice
-* [JustLanded](https://www.justlanded.com/) - Working & Living Abroad Guides
-* [Nomad List](https://nomadlist.com/) - Remote Job Listings
-* [RemoteWide](https://remotewide.co/) - Remote Job Notifications
-* [Side Hustle Stack](https://sidehustlestack.co/) - Find Platform Based Side Work
-* [web3.career](https://web3.career/) or [FindWeb3](https://findweb3.com/) - Web3 Job Offers
-* [WhoPaysWriters](http://whopayswriters.com/) - Freelance Writing Publications
-* [moreThanFAANGM](https://github.com/Kaustubh-Natuskar/moreThanFAANGM) - Company / Startup Applications
-* [Nerdy Grads](https://nerdygrads.com/) - Grad School Research Job Search
-* [WFH Companies India](https://github.com/abhagsain/WFH-Companies-India) - Work from Home Job Offerings in India
-* [MTurk](https://www.mturk.com/) - Online Task Work
-* [/r/WorkOnline](https://www.reddit.com/r/WorkOnline/) - Online Working Subreddit
-* [/r/freelance](https://www.reddit.com/r/freelance/) - Freelance Subreddit
-* [/r/DesignJobs](https://www.reddit.com/r/DesignJobs/) - Design Job Subreddit
-* [/r/BeerMoney](https://www.reddit.com/r/beermoney/) - Online Money Making Community
-* [/r/careerguidance](https://www.reddit.com/r/careerguidance/) - Career Guidance Subreddit
-* [Science Career General](https://sciencecareergeneral.neocities.org/) - PhD / Stem Career Study Guides
-* [ReallyConfused](https://reallyconfused.co/) or [WTF should I do with my life?](https://www.wtfshouldidowithmylife.com/) - Career Roadmaps
-* [The Dots](https://the-dots.com/events/search) - Online Workshops, Courses and Meetups
-* [Levels.fyi](https://www.levels.fyi/) - Tech Career Salaries
-* [DeFi Derivative Landscape](https://github.com/0xperp/defi-derivatives) - DeFi Derivative Guide 
-* [TryHackMe](https://tryhackme.com/), [AWS Training](https://www.aws.training/), [Comptia](https://www.comptia.org/), [Cisco Training](https://www.cisco.com/c/en/us/training-events/training-certifications/certifications.html), [UI.com](https://www.ui.com/training/), [CryptoHack](https://cryptohack.org/) - IT Training & Courses
-* [Free-Certifications](https://github.com/cloudcommunity/Free-Certifications) - IT Certification Courses
-* [Pimp My Money](https://pimpmymoney.net/) - Digital Marketing Course Torrents
-* [Traders Video Library](https://t.me/+SrWg6eTupAdnoXgY) - Trading Courses / [Mirror](https://t.me/TradersVideo_Library)
-* [Data.gov Resources](https://resources.data.gov/) - Data Management Tools & Training
-* [NIST](https://www.nist.gov/nice/apprenticeship-finder) - NICE Apprenticeship Program Finder
-* [AWS re/Start](https://aws.amazon.com/training/restart/) - Cloud Career Training
-* [BetaList](https://betalist.com/), [PowerModeAI](https://powermodeai.com/) or [IdeasAI](https://ideasai.com/) - Get Startup Ideas
-* [Failory](https://www.failory.com/graveyard) - Learn Why Startups & Products Failed
-* [PatentsExpiringToday](https://patentsexpiringtoday.com/) - Find Expired Patents
-* [WellFound](https://wellfound.com/) - Startup Community
-* [280+ Websites to Submit Your Startup](https://airtable.com/shrwqaak73gy83w9A/tblu5RcUft9fYp9Ju/viwFHmIyMniXzlpK4?blocks=show) or [PlacesToPostYourStartup](https://www.placestopostyourstartup.com/) - Startup Submission Sites
-* [LeanTime](https://leantime.io/) - Project / Delivery Manager
-* [Twain](https://www.twain.ai/), [WriteCream](https://www.writecream.com/) or [Textcortext](https://textcortex.com/) - AI Communication Outreach Assistants
-* [namify](https://namify.tech/) - Domain / Business Name Suggestions
-* [namelix](https://namelix.com/) or [looka](https://looka.com/business-name-generator) - Business Name Generator
-* [AcronymCreator](https://acronymcreator.net/) - Business Acronym Generator
-* [Business Card Generator](https://business-card-generator.vercel.app/) - Generate Business Cards 
-* [BS Generator](https://www.atrixnet.com/bs-generator.html) - Corporate Phrase Generator
-* [learn-to-cloud](https://learntocloud.guide/) - Cloud Computing Fundamentals / [GitHub](https://github.com/learntocloud/learn-to-cloud)
-* [Cyberseek](https://www.cyberseek.org/index.html) - Cybersecurity Job Market Info
-* [Candor](https://candor.co/hiring-freezes/) - Hiring Freezes
-* [GoodJobsFirst](https://goodjobsfirst.org/) - Subsidy Tracker
-* [Airtable](https://www.airtable.com/) - Build Collaborative Apps
-* [PolyWork](https://www.polywork.com/) - Collaboration Search
-* [Cody](https://meetcody.ai/) - Company Management AI
-* [PHPCRM](https://www.phpcrm.com/) - Company Management Software
-* [SplitBee](https://splitbee.io/) - Business Analytics Tool
-* [Invoicely](https://invoiceto.me/), [InvoiceNinja](https://invoiceninja.com/), [Akaunting](https://akaunting.com/) - Invoicing Tools
-* [Dataviz](https://github.com/nalgeon/dataviz) - Design Reports
-* [Job Description Generator](https://app.recrooit.com/job-description-generator) - Job Description AI
-* [Gerev](https://github.com/GerevAI/gerev) - Search Within Workplace Apps
-* [Zeoob](https://zeoob.com/) - Social Media Digital Marketing Post Simulator
-* [MedusaJS](https://medusajs.com/) - Open Source Commerce Store
-* [BTCPay](https://btcpayserver.org/) - Bitcoin Payment Processor
-* [KYCNOT.ME](https://kycnot.me/) - Non-KYC Exchanges / Services
-* [Luma](https://lu.ma/) - Event Hosting Tool
-* [QR Menu Creator](https://qrmenucreator.com/) - Convert Menu to QR Codes
-* [VCEGuide](https://vceguide.com/) - Tech Certification Practice Tests
-* [9Tut](https://www.9tut.com/) - CCNA Certification Training
-* [Statista](https://statista.com/) - Market Statistic Search
-* [Systeme](https://systeme.io/) or [SendPulse](https://sendpulse.com/) - Marketing Tools
-* [Marmof](https://marmof.com/) - Creator / Marketing AI
-* [MMAGlobal](https://www.mmaglobal.com/ ) - View Past Marketing Reports
-* [Anti Money Laundering Toolbox](https://bin.disroot.org/?ed25a979891da67b#BffjWKHJNYTA1JdrWz9jpy5opjzncubeKFc1pBuptxdW) - Prevent Money Laundering / [AML Laws](https://www.bitsaboutmoney.com/archive/money-laundering-and-aml-compliance/)
-* [HomeBank](http://homebank.free.fr/), [Firefly III](https://firefly-iii.org/), [Money Manager EX](https://moneymanagerex.org/), [Ledger](https://ledger-cli.org/), [Paisa](https://github.com/RetroMusicPlayer/Paisa), [Buckwheat](https://buckwheat.app/), [My Expenses](https://www.myexpenses.mobi/), [actual](https://github.com/actualbudget/actual) or [Sushi](https://github.com/jerameel/sushi) - Finance Managers
-* [financial_advice](https://github.com/emilepetrone/financial_lessons) - Financial Lessons
-* [MortgageCalculator](https://www.mortgagecalculator.site/) - Mortgage Calculator
-* [TradingView](https://www.tradingview.com/), [FinScreener](https://www.finscreener.com/), [Candle](https://gitlab.com/cosmosapps/candle), [finviz](https://finviz.com/), [Markets.sh](https://markets.sh/) or [Screener](https://www.screener.in/) - Stock Market Trackers
-* [TradingView Webhook Bot](https://github.com/fabston/TradingView-Webhook-Bot) - Send TradingView Alerts to Various Apps / [Index](https://github.com/pAulseperformance/awesome-pinescript)
-* [neostox](https://neostox.com/) - Practice Stock Trading
-* [Quiver Quantitative](https://www.quiverquant.com/) - Stock Trading Research
-* [Annual Reports](https://www.annualreports.com/) - Annual Company Reports
-* [Compound Interest Calculator](https://www.investor.gov/financial-tools-calculators/calculators/compound-interest-calculator) - Determine Compund Interest Money Growth
-* [GamestonkTerminal](https://github.com/OpenBB-finance/OpenBBTerminal), [OpenBB Terminal](https://openbb.co/) or [KoyFin](https://www.koyfin.com/) - Investment Research Tools
-* [GreenStash](https://github.com/Pool-Of-Tears/GreenStash) - Savings Tracking App
-* [IQ.Wiki](https://iq.wiki/) - Crypto Encyclopedia
-* [Crypto Ecosystem 2021](https://docs.google.com/document/d/1RM7AoUKbXEqZ2qATTxGYLMexu3Jxrf3oYiwbsrXOXUQ) - Beginner's Guide to Crypto Ecosystem
-* [Cryptopedia](https://www.gemini.com/cryptopedia) or [Crypto Canon](https://a16zcrypto.com/posts/article/crypto-readings-resources//) - Crypto Learning Resources
-* [BlockChain](https://www.blockchain.com/explorer), [BlockChair](https://blockchair.com/) or [LiveCoinWatch](https://www.livecoinwatch.com/) - Live Cryptocurrency Prices
-* [ETFDB](https://etfdb.com/) - ETF Research / Analysis Platform
-* [protocol-reading-list](https://github.com/b-chiang/protocol-reading-list) - Crypto Protocols
-* [WalletExplorer](https://www.walletexplorer.com/) or [OXT](https://oxt.me/) - Bitcoin Block Explorers
-* [Wasabi](https://wasabiwallet.io/) or [Shapeshift](https://app.shapeshift.com/) - FOSS Bitcoin Wallets
-* [Ivy Wallet](https://github.com/Ivy-Apps/ivy-wallet) - Money Management App
-
-***
-
 ## ▷ [Developer Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/dev-tools)
 
 *** 
@@ -628,38 +501,26 @@
 * [NetBlocks](https://api.webprobe.org/) or [OpenNetMeter](https://github.com/Ashfaaq18/OpenNetMeter) - Internet Performance Monitor
 * [OONI](https://ooni.org/) - Test Site Blocking / Network Speed
 * [OpenSSH](https://www.openssh.com/) - OpenSSH Client / Server
-* [TCP Optimizer](https://www.speedguide.net/downloads.php/) - Network Optimizer
 * [NetLimiter](https://www.netlimiter.com/) or [Netbalancer](https://netbalancer.com/) - Internet Traffic Control / Monitor
 * [WiFi Analyzer](https://apps.microsoft.com/store/detail/wifi-analyzer/9NBLGGH33N0N) - WiFi Analyzer
 * [Arcai](https://arcai.com/) - WiFi Speed Control
-* [Nmap](https://nmap.org/) - Network Security / Discovery Utility / [Compare Results](https://nmap.org/ndiff/)
-* [Elmocut](https://github.com/elmoiv/elmocut) or [SelfishNetV3](https://github.com/nov0caina/SelfishNetV3) - ARP Spoofer / Kick Users from WiFi 
-* [Broadband Map](https://broadbandmap.fcc.gov/) - Fixed Broadband Deployment Map
 * [RustCat](https://github.com/robiot/rustcat) - Port Listener
-* [SerialPortAssistant](https://github.com/KangLin/SerialPortAssistant) - Serial Port Assistant
-* [.new](https://whats.new/shortcuts) - New Project Shortcuts
 * [All about RSS](https://github.com/AboutRSS/ALL-about-RSS), [RSSTango](https://rentry.org/rrstango), [To RSS](https://www.to-rss.xyz/), [Awesome RSS Feeds](https://github.com/plenaryapp/awesome-rss-feeds) or [RSS](https://gist.github.com/thefranke/63853a6f8c499dc97bc17838f6cedcc2) - RSS Feeds / Tools
 * [MoRSS](https://morss.it/), [Open RSS](https://openrss.org/), [rsspls](https://github.com/wezm/rsspls), [FetchRSS](https://fetchrss.com/), [Janicek](https://feed.janicek.co/) or [FiveFilters](https://createfeed.fivefilters.org/) - RSS Feed Generators
 * [RSS Bridge](https://github.com/RSS-Bridge/rss-bridge) - RSS Feed for Sites Missing It
 * [hacker-feeds-cli](https://github.com/Mayandev/hacker-feeds-cli) - GitHub, Reddit, Hacker News & other Feeds
 * [RSSMail](https://git.panda-roux.dev/rssmail/about/) or [FeedButler](https://feedbutler.app/en) - RSS to Email
 * [Sift RSS](https://siftrss.com/) - RSS Feed Filters
-* [Feed Visualizer](https://github.com/code2k13/feed-visualizer) - RSS Feed Visualizer
 * [Spinner](https://spinner.fullcontentrss.com/) - RSS Article Rewriter
 * [Kill the Newsletter](https://kill-the-newsletter.com/) - Convert email newsletters into Atom Feeds
-* [Google Guidebooks](https://guidebooks.google.com/) - Google Product Guides
-* [PyPasser](https://github.com/xHossein/PyPasser) - Bypass ReCaptcha v3 & v2
 * [Rescan](https://rescan.io/) - Find Out Technologies Used to Build Any Site
 * [OutWit](https://www.outwit.com/) - Scrape / Organize Website Data
 * [Irchiver](https://irchiver.com/) - Automatic Web Browser Screenshots
 * [WaybackShot](https://github.com/sam5epi0l/waybackshot) - Retrieve Site Screenshots via Wayback Machine
-* [Awesome Website Change Monitoring](https://github.com/edgi-govdata-archiving/awesome-website-change-monitoring), [Sken.io](https://www.sken.io/), [ChangeDetection.io](https://github.com/dgtlmoon/changedetection.io), [urlwatch](https://thp.io/2008/urlwatch/), [Visualping](https://visualping.io/), [obzrv](https://obzrv.it/), [changd](https://github.com/paschmann/changd) or [FollowThatPage](https://www.followthatpage.com/) - Page Change Detection / Notification 
-* [CertAlert](https://certalert.net/) - Alerts you when a TLS/SSL Certificate Expires
-* [Public Gateway Checker](https://ipfs.github.io/public-gateway-checker/) - Check which IPFS Gateways are Online
+* [ChangeDetection.io](https://github.com/dgtlmoon/changedetection.io), [urlwatch](https://thp.io/2008/urlwatch/), [Visualping](https://visualping.io/), [obzrv](https://obzrv.it/), [changd](https://github.com/paschmann/changd) or [FollowThatPage](https://www.followthatpage.com/) - Page Change Detection / Notification 
 * [Social Media Hacker List](https://github.com/MobileFirstLLC/social-media-hacker-list) - Social Media Apps / Tools
-* [SocialBlade](https://socialblade.com/) or [NoxInfluencer](https://www.noxinfluencer.com/) - Social Media Stats
+* [SocialBlade](https://socialblade.com/) - Social Media Stats
 * [LiveCounts](https://livecounts.io/) - Live Social Media Stats
-* [OPoster](https://github.com/OrienteerBAP/OPoster) or [OneUp](https://www.oneupapp.io/) - Social Media Post Schedulers
 * [you-get](https://github.com/soimort/you-get) - Download Media Contents from Webpages
 * [Login Reminder Remover](https://greasyfork.org/en/scripts/395497-login-reminder-popup-remover) - Remove Login Popup from Sites
 * [BugMeNot](https://bugmenot.com/), [FreeAccount](https://freeaccount.biz/) or [Password Login](https://password-login.com/) - Access & Share Throwaway Accounts
@@ -670,71 +531,45 @@
 * [Bookmarklets Guide](https://rentry.co/bookmarklets-guide) - Useful Bookmarklets / Guide
 * [wallabag](https://wallabag.org/) - Save and Classify Articles
 * [Telescope](https://telescope.ac/) - Publishing Platform
-* [Rarebit](https://rarebit.neocities.org/) - Webcomics Template
-* [Hamsket](https://github.com/TheGoddessInari/hamsket), [Pidgin](https://www.pidgin.im/), [Beeper](https://www.beeper.com/), [matterbride](https://github.com/42wim/matterbridge), [Ferdium](https://ferdium.org/) or [Franz](https://meetfranz.com/) - Combine Web Apps / Chats
+* [Pidgin](https://www.pidgin.im/), [Beeper](https://www.beeper.com/), [matterbride](https://github.com/42wim/matterbridge) or [Ferdium](https://ferdium.org/) - Combine Web Apps / Chats
 * [Slapdash](https://slapdash.com/) - Connect Cloud Apps 
 * [Remote Communication](https://libreplanet.org/wiki/Remote_Communication) - Communication Software Index
 * [Twist](https://twist.com/) - Collaboration Chat Manager
 * [Cirlos](https://www.cirlos.net/), [Miranda NG](https://www.miranda-ng.org/en/), [Escargot](https://escargot.chat/) or [WeeChat](https://weechat.org/) - Chat Apps
 * [KiwiIRC](https://kiwiirc.com/) or [TheLounge](https://thelounge.chat/) - WebIRC Client
-* [AdiIRC](https://adiirc.com/), [Convos](https://convos.chat/), [PeerLinks](https://peerlinks.io/), [mIRC](https://www.mirc.com/get.html) or [Bitchx](https://bitchx.sourceforge.net/) - IRC Clients
+* [AdiIRC](https://adiirc.com/), [Convos](https://convos.chat/), [mIRC](https://www.mirc.com/get.html) or [Bitchx](https://bitchx.sourceforge.net/) - IRC Clients
 * [irc2go](https://en.irc2go.com/) - Browse IRC Chat Rooms
-* [LAN Messenger](https://lanmessenger.github.io/) - FOSS LAN Messenger / [GitHub](https://github.com/lanmessenger/lanmessenger)
 * [Cabal](https://cabal.chat/) - P2P Chat / [GitHub](https://github.com/cabal-club)
 * [BlueBubbles](https://bluebubbles.app/) - iMessage Client
-* [Slink](https://slink.chat/) - Aim Inspired Chat Client
-* [ARP Chat](https://github.com/kognise/arpchat) - ARP Chat Client
 * [Atlus](https://github.com/amanharwara/altus) or [WAO](https://dedg3.com/wao/) - Whatsapp Clients
-* [Rocket Chat](https://rocket.chat/) - Self-Hosted Chat Client
-* [SnapRecovery](https://github.com/sdushantha/snaprecovery) - Snapchat Recovery Tool
 * [Skype Exports for Humans](https://becausecurious.me/skype_exports_for_humans) - Export Skype Chat Data to Readable Text
 * [TikTok Chat Reader](https://tiktok-chat-reader.zerody.one/) - Live TikTok Chat Reader
-* [GoldFish](https://goldfish.social/) - Open-Source TikTok Alternative
 * [Urlebird](https://urlebird.com/) - 3rd Party TikTok with better UI
 * [Jam](https://jam.systems/), [TeaSpeak](https://teaspeak.de/gb/), [TeamSpeak](https://www.teamspeak.com/) / [Warning](https://pastebin.com/479TbKq5), [Mumble](https://www.mumble.info/), [Zoiper](https://www.zoiper.com/) or [Google Voice](https://voice.google.com/) - Voice Chat 
 * [IMumble](https://www.imumble.nl/) or [Guildbit](https://guildbit.com/) - Voice Chat Servers
-* [DJ3D](https://dj3d.io/), [Gather](https://gather.town/), [Vircadia](https://vircadia.com/) or [OpenSimulator](http://opensimulator.org/) - Virtual World Server
-* [FireStorm Viewer](https://www.firestormviewer.org/) - Virtual World Viewer
+* [DJ3D](https://dj3d.io/), [Gather](https://gather.town/) - Virtual World Server
 * [Alive](https://greasyfork.org/en/scripts/418770-colab-alive) - Bypass Google Colab Limit Colab
-* [YakYak](https://github.com/yakyak/yakyak) - Google Hangouts Desktop Client 
 * [ExportComments](https://exportcomments.com/) - Export Social Media Comments 
-* [divr.it](https://dlvrit.com/) - Social Media Automation Tool
 * [EagleEye](https://github.com/ThoughtfulDev/EagleEye) - Find Social Media Profiles From Image
 * [socid_extractor](https://github.com/soxoj/socid-extractor) - Extract Social Media User Info from Pages
-* [Hamachi](https://vpn.net/) - VPN / LAN Emulator
-* [WikiStalk](https://github.com/altilunium/wistalk) - Analyze Wikipedia User's Activity
 * [InspectContent](https://inspectcontent.com/) - Site Keyword Inspector
 * [LocalHost](https://localhost.run/) - Connect Web Apps to Internet
 * [Namechk](https://namechk.com/), [NameCheckr](https://www.namecheckr.com/), [NameCheckup](https://namecheckup.com/) or [IUS](https://instantusername.com/) - Check Username Availability
 * [HostsDock](https://eshengsky.github.io/HostsDock/) - Manage & Switch Hosts
 * [MAC Address](https://mac-address.alldatafeeds.com/mac-address-lookup) - Check MAC Address
-* [IP Location](https://iplocation.net/) - Check IP Location
-* [IP List](http://magic-cookie.co.uk/iplist.html) - Convert CIDR Notation to UP Range
-* [IP Rotator](https://github.com/Ge0rg3/requests-ip-rotator) - Bypass IP-based Rate-Limits Requests 
-* [Masscan-ng](https://github.com/bi-zone/masscan-ng), [Networkappers](https://networkappers.com/), [PortCheckTool](https://www.portchecktool.com/), [PortChecker](https://portchecker.co/), [PortCheckers](https://www.portcheckers.com/) or [CanYouSeeMe](https://canyouseeme.org/) - Open Port Checkers
+* [Masscan-ng](https://github.com/bi-zone/masscan-ng), [PortChecker](https://portchecker.co/), [PortCheckers](https://www.portcheckers.com/) or [CanYouSeeMe](https://canyouseeme.org/) - Open Port Checkers
 * [NeverSSL](http://neverssl.com/) or [HTTP Forever](http://httpforever.com/) - Fix Public WiFi Login Pages
 * [WiFi-Password](https://github.com/sdushantha/wifi-password) - Fetch WiFi Password / Generate QR Code
 * [IP2Proxy](https://www.ip2proxy.com/) - Proxy / VPN IP Detector
 * [Slideshow-Deslidefier](https://deslide.clusterfake.net/) - View Slideshows All At Once
 * [tumblr-utils](https://github.com/bbolli/tumblr-utils) - Tumblr Utilities
 * [Tumblr Savior](https://bjornstar.com/tumblr-savior) - Tumblr Dashboard Filter
-* [tumblr-crawler](https://github.com/ZenulAbidin/tumblr-crawler) - Download Tumblr Photos / Videos
-* [Tumpik](https://www.tumgik.com/) - Tumblr Web Viewers
-* [Awesome ActivityPub](https://github.com/BasixKOR/awesome-activitypub) - ActivityPub Project List
 * [Percollate](https://github.com/danburzo/percollate) - Format Pages for PDF / EPub / HTML
-* [StartOS](https://startos.app/) - 90's Themed Startpage / [Github](https://github.com/Jaredk3nt/startos)
-* [Gate2Home](https://gate2home.com/) - Keyboard Emulator 
-* [PearPC](https://pearpc.sourceforge.net/) - PowerPC Architecture Emulator / [GitHub](https://github.com/sebastianbiallas/pearpc)
-* [PrintFriendly](https://www.printfriendly.com/) or [PrintWhatYouLike](https://www.printwhatyoulike.com/) - Printer / PDF Version of Webpages
-* [Textise](https://textise.net/) - Remove Everything from a Page Except Text
+* [PrintFriendly](https://www.printfriendly.com/) - Printer / PDF Version of Webpages
 * [Toptal](https://www.toptal.com/designers/colorfilter) - Colorblind Web Page Filter
-* [FaxZero](https://faxzero.com/) - Free Internet Faxing 
-* [Misc-Download-Scripts](https://github.com/simon987/Misc-Download-Scripts) - Download Scripts for Multiple Sites
 * [byp4xx](https://github.com/lobuhi/byp4xx) - Bypass "403 Forbidden" Messages 
 * [PuTTY](https://www.putty.org/), [2](https://www.chiark.greenend.org.uk/~sgtatham/putty/) - SSH & Telnet Client / [Multi-Tab](https://ttyplus.com/) / [Fork](https://www.9bis.net/kitty/#!index.md) / [GitHub](https://github.com/cyd01/KiTTY/)
-* [Server Hunter](https://www.serverhunter.com/) - Search / Compare Servers
 * [Dashy](https://dashy.to/) / [GitHub](https://github.com/lissy93/dashy), [Homepage](https://github.com/benphelps/homepage), [Flame](https://github.com/pawelmalak/flame) or [Homer](https://github.com/bastienwirtz/homer) - Home Server Startpages
-* [rickroll-blocker](https://github.com/hitthemoney/rickroll-blocker/) - Rick Roll Blocker
 
 ***
 
@@ -762,7 +597,6 @@
 * [StockBrowser](https://stackbrowser.com/), [Rambox](https://rambox.app/), [Kera](https://desktop.kerahq.com/) or [Tangram](https://github.com/sonnyp/Tangram) - Web App Browsers
 * [n.eko](https://neko.m1k1o.net) / [Github](https://github.com/m1k1o/neko) - Self-Hosted Virtual Browser
 * [Ungoogled Chromium](https://github.com/ungoogled-software/ungoogled-chromium) - Chrome without Google / [Launcher](https://github.com/henrypp/chrlauncher)
-* [Carbonyl](https://github.com/fathyb/carbonyl) - Chromium in Terminal
 * [Chrome Theme Studio](https://chrometheme.studio/) - Create Chrome Theme
 * [Firemin](https://www.rizonesoft.com/downloads/firemin/) or `about:memory` - Reduce Firefox Memory Usage
 * [Hidden Settings](https://gitlab.com/Madis0/hidden-settings/) - Firefox Hidden Settings
@@ -771,20 +605,13 @@
 * [Firefox Access](https://www.accessfirefox.org/) - Firefox Accessibility Tools for the Visually Impaired
 * [FirefoxCSS Store](https://firefoxcss-store.github.io/) - Firefox Themes List
 * [/r/FirefoxCSS](https://reddit.com/r/FirefoxCSS) - Firefox CSS Guides
-* [Sweet Pop](https://github.com/PROxZIMA/Sweet-Pop) - Firefox Minimalist Theme
-* [NightFox](https://github.com/snthcy/nightfox) - Firefox Mac Theme
-* [FirefoxGX](https://github.com/Godiesc/firefox-gx) - Firefox Opera Theme
-* [Firefox UWP Style](https://github.com/Guerra24/Firefox-UWP-Style) - Firefox UWP Theme
-* [What Train is it Now?](https://whattrainisitnow.com/) - Firefox Desktop Trains
 * [ThemeBeta](https://www.themebeta.com/) - Change Chrome Theme
 * [BrowserParrot](https://www.browserparrot.com/) - Browser History Search Engine
 * [Hurl](https://github.com/U-C-S/Hurl) - Select Browser on URL Clicks
 * [Edge-Remover](https://rentry.co/uninstall_edge) - Microsoft Edge Removal Script
 * [NoMoreEdge](https://github.com/KodeByWrath/NoMoreEdge), [Edge_Removal.bat](https://github.com/AveYo/fox/blob/main/Edge_Removal.bat) or [MSEdgeRedirect](https://github.com/rcmaehl/MSEdgeRedirect) - Redirect Microsoft Edge
-* [xBrowserSync](https://github.com/xbrowsersync/app) - Sync Browser Data Browsers / Devices
 * [Floccus](https://floccus.org/) - Browser Bookmark Sync / [GitHub](https://github.com/floccusaddon/floccus)
 * [WhatIsMyBrowser](https://developers.whatismybrowser.com/) - User Agent Archive
-* [danmaku2ass](https://github.com/m13253/danmaku2ass) - Convert Niconico/AcFun/Bilibili Comments to ASS
 
 ***
 
@@ -1165,7 +992,6 @@
 * [ansi-colors-discord.md](https://gist.github.com/kkrypt0nn/a02506f3712ff2d1c8ca7c9e0aed7c06) - Discord Colored Messages 
 * [Discord Templates](https://discordtemplates.me/) - Discord Server Templates
 * [Discord Webhooks Guide](https://birdie0.github.io/discord-webhooks-guide/) - Webhooks Guide
-* [Discord Media Helper](https://github.com/eartharoid/discord-media-helper) - Fix Discord Embeds
 * [Embed Visualizer](https://embed.discord.website/) - Embed Visualization Tool 
 * [Chimera](https://github.com/CedArctic/Chimera) - System Remote Control 
 * [The Cleaner](https://cleanerbot.xyz/) - Remove Spam / Phishing Links
@@ -1173,7 +999,6 @@
 * [Discord Auto Upload](https://github.com/tardisx/discord-auto-upload) - Auto Upload Screenshots
 * [Discord Creation Date Check](https://hugo.moe/discord/discord-id-creation-date.html) - Check Creation Date of User / Channel / Server / [GitHub](https://github.com/hugonun/discordid2date)
 * [DSC.BIO](https://discords.com/bio) - Make Custom Discord Bios 
-* [DateTimeCord](https://datetimecord.rauf.wtf/) - Discord Date & Time Formatting Tool
 * [Dank.tools](https://dank.tools/) - Time Tag Generator
 * [Coloured-Text-Generator](https://rebane2001.com/discord-colored-text-generator/) - Discord Colored Text Generator
 * [Discord Text to Emoji](https://jtprince.com/discord/) - Emoji Discord Text
@@ -1189,34 +1014,20 @@
 * [Better Default Discord](https://better-default-discord.netlify.app/) - Default Discord Avatars
 * [usrbg](https://github.com/Discord-Custom-Covers/usrbg) or [Pfps.gg](https://pfps.gg/) - Discord Custom Profile Backgrounds
 * [Discord Dev Badges](https://pastebin.com/JzrckCix), [active-developer-badge](https://github.com/hackermondev/discord-active-developer-badge) or [GiveMeBadge](https://github.com/AlexFlipnote/GiveMeBadge) - Unlock Discord Dev Badges / [Script](https://gist.github.com/Raraph84/cff3ff908a1f2692b9a8452d2f49c2bf)
-* [Discoed SVG Bagdes](https://github.com/Mattlau04/Discord-SVG-badges) or [discord-badges](https://github.com/mezotv/discord-badges) - Discord Badge Image Files
+* [discord-badges](https://github.com/mezotv/discord-badges) - Discord Badge Image Files
 * [Auto Creative](https://auto.creavite.co/icons) - Animated Icon / Banner Generator
 * [BeautifulDiscord](https://github.com/leovoel/BeautifulDiscord) - Adds Custom CSS Support 
 * [Discord Status](https://discordstatus.com/) - Check Discord Status 
-* [Status](https://discord.gg/Nnttd7EZV4) - Followable Site Status Channels
-* [LilyBot](https://github.com/defensem3ch/LilyBot) - Play / Render Music Snippets
 * [Guild Counter](https://rauf.wtf/guildcount) - Check how many servers you're in
-* [Preview for Discord](https://dragory.github.io/role-preview-for-discord/) - Preview Role Colors Role
 * [Stolen Shoes](https://stolen.shoes/), [x266.mov](https://x266.mov/discord-embed), [embeds.video](https://embeds.video/), [autocompressor](https://autocompressor.net/) or [Discord Embedder](https://discord.nfp.is/) - Embed Videos on Discord
 * [8mbvideo](https://8mb.video/) or [@Snooober's Script](https://redd.it/o7vqm4) - Encode videos to <8MB
-* [Discord Together](https://github.com/RemyK888/discord-together) - Video Stream Sync / Watch Parties
-* [DiskCord](https://github.com/5ut/DiskCord) - Host Files on External Sites to share via Discord
-* [discordcompressor](https://github.com/vladaad/discordcompressor) - Video Compressor
-* [Natron](https://natron.fr/) or [Fusion](https://www.blackmagicdesign.com/ca/products/fusion/) - Video Compositing
-* [Discord Branding](https://discord.com/branding) - Discord Branding Information Page / [Archive](https://web.archive.org/web/20210513004910/https://discord.com/branding)
 * [Discord-Api](https://discord.gg/discord-api) - Discord API Chat
-* [Discordia-Development Wiki](https://github.com/Discordia-Development/wiki) - Discord Moderation Wiki
-* [Discord Moderator Academy](https://discord.com/moderation) - Discord Moderator Guide
 * [Hammertime](https://hammertime.cyou/), [Discord Timestamps](https://r.3v.fi/discord-timestamps/), [Timestamp Maker](https://pokemonworkshop.neocities.org/timestamp/) or [discordtimestampgenerator](https://discordtimestampgenerator.netlify.app/) - Generate Timestamps
-* [SnowStamp](https://snowsta.mp/) - Convert Discord Snowflakes to Timestamps
 * [ddpe](https://ddpe.androz2091.fr/) - Discord Data Package Explorer / [GitHub](https://github.com/Androz2091/discord-data-package-explorer)
 * [Discord-Datamining](https://github.com/Discord-Datamining/Discord-Datamining) - Datamining Discord changes from the JS files
 * [Discord Previews](https://discord.gg/QMw7gQGMHj) - New Discord Builds / Changes
-* [discord-mutual-friends](https://github.com/fr3fou/discord-mutual-friends) - Visualize Mutual Discord Friends
 * [TagMap](https://tagmap.io/) - Meet People with Similar Interests
-* [discasset](https://github.com/Commandtechno/discasset), [2](https://gitlab.com/derpystuff/discasset) - Discord Asset Grabber
 * [Figma](https://www.figma.com/community/file/994323951589690341/Discord-Desktop-UI) - Discord Resources
-* [Mon2Cam](https://github.com/ShayBox/Mon2Cam) - Multi-Monitor Discord Screenshare Fix
 
 ***
 
@@ -1527,7 +1338,7 @@
 * 🌐 **[Osintgram](https://github.com/Datalux/Osintgram)**, [Toutatis](https://github.com/megadose/toutatis) or [Sterraxcyl](https://github.com/novitae/sterraxcyl) - Instagram OSINT Tools
 * 🌐 **[Instagram Search Tools](https://www.aware-online.com/en/osint-tools/instagram-search-tool/)** - Search Tool
 * ⭐ **[Bypass Login](https://greasyfork.org/en/scripts/420604)** - Bypass Instagram Login Redirects
-* [GridsApp](https://gridsapp.net/) or [Indirect](https://apps.microsoft.com/store/detail/indirect/9PHW4KJ8JVNZ) - Desktop Clients
+* [GridsApp](https://gridsapp.net/) - Desktop Clients
 * [InstaFix](https://ddinstagram.com/) - Fix Instagram Embeds on Discord
 * [imgsed](https://imgsed.com/), [Picuki](https://www.picuki.com/), [InstaNavigation](https://instanavigation.com/), [Instafreeview](https://instafreeview.com/), [profile-picture-viewer](https://github.com/Ademking/profile-picture-viewer), [Dumpor](https://dumpoir.com/) or [GreatFon](https://greatfon.com/) - Instagram Viewers
 * [Instagram-Explorer](https://www.osintcombine.com/instagram-explorer) - Explore Pictures by Location 
