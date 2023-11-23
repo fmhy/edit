@@ -287,7 +287,6 @@
 * [WO Mic](https://wolicheng.com/womic/) - Use Phone as Mic
 * [Tiramisu](https://github.com/polodarb/Flashlight-Tiramisu) or [FlashDim](https://github.com/cyb3rko/flashdim) - Adjust Flashlight Brightness
 * [Trail Sense](https://github.com/kylecorry31/Trail-Sense) - Wilderness Survival App
-* [GGMorse](https://github.com/ggerganov/ggmorse) - Morse Code Decoding App
 * [SensorServer](https://github.com/umer0586/SensorServer) - Use Phone as Accelerometer
 * [Haven](https://guardianproject.github.io/haven/) - Motion Detector
 * [Sensify](https://github.com/JunkieLabs/sensify-android) - Sensor Visualizers
@@ -897,7 +896,6 @@
 * [Parcel](https://apps.apple.com/us/app/parcel-delivery-tracking/id375589283) or [Aftership](https://apps.apple.com/kg/app/aftership-package-tracker/id507014023) - Delivery Tracker
 * [KeyPad](https://apps.apple.com/in/app/keypad-bluetooth-keyboard/id1491684442) - Connect Mac Keyboard to Mobile Devices
 * [FutureStore](https://github.com/tihmstar/futurerestore) - SEC & Baseband Restoring Wrapper
-* [Mildred](https://apps.apple.com/us/app/mildred/id1522800022) - Docker Client
 * [Dragon](https://github.com/DragonBuild/dragon) - Darwin Buildsystem / Toolkit
 
 ***
@@ -946,7 +944,6 @@
 * [Procursus](https://github.com/ProcursusTeam/Procursus) - iOS Bootstrap
 * [BlobSaver](https://github.com/airsquared/blobsaver) - GUI for Saving SHSH Blobs
 * [TSSChecker](https://github.com/tihmstar/tsschecker) - Check TSS Signing Status
-* [FutureRestore](https://github.com/tihmstar/futurerestore) - Restore to Unsigned Firmware / [GUI](https://github.com/CoocooFroggy/FutureRestore-GUI/)
 
 ***
 
