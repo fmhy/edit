@@ -168,27 +168,17 @@
 * [AfraTafreeh](https://afratafreeh.com/) - Courses
 * [Free-Courses-For-Everyone](https://github.com/MasterBrian99/Free-Courses-For-Everyone) - Courses
 * [Open-Video](https://open-video.org/) - Courses / Documentaries
-* [FreeCourseLechz](https://t.me/joinchat/AAAAAEeZL9jF22ZREqka2g) - Courses / Telegram
 * [CourseInDrive](https://t.me/CourseInDrive) - Courses / Telegram
 * [Udemy_Courses_Free_Daily](https://t.me/Udemy_Courses_Free_Daily) - Courses / Telegram
-* [RedBlueHit](https://t.me/RedBlueHit) - Courses / Telegram
-* [Moneiac Course](https://t.me/moneiac_course) - Courses / Telegram
 * [learningDL](https://learningdl.net/) - Courses / Leech required
 * [FreeTutsDownload.net](https://freetutsdownload.net/) - Courses / Tutorials
-* [ScalerFullStack](https://t.me/scalerfullstack), [ScalerNerds](https://t.me/scalerds) or [scalerfullstackproductmanagement](https://t.me/scalerfullstackproductmanagement) - Scaler Courses
-* [BestWSODownload](https://www.bestwsodownload.com/) - WSO Courses
 * [Udemy Course Megadrives](https://github.com/nbats/FMHYedit/blob/main/base64.md#udemy-course-drives)
 * [UdemyKing](https://t.me/udemyking1) - Udemy Courses
 * [CourseArray](https://t.me/udemycoursesfree) - Udemy Courses
 * [Downloadr](https://downloadr.in/) - Udacity & Udemy Courses
-* [Free Udemy Vedantu Courses](https://t.me/Udemy_Courses_Vedantu_Free) - Udemy Courses
-* [UFC Gdrive Factory!](https://telegram.me/joinchat/SSWKbEf8mVNBvgam) - Udemy Courses
-* [EZdemy](https://t.me/ezudemy) - Udemy Courses
-* [Giga Course](https://gigacourse.com/) or [FreeAllCourse](https://freeallcourse.com/) - Udemy Courses
+* [Giga Course](https://gigacourse.com/) - Udemy Courses
 * [Udemy 24](https://udemy24.com/) - Udemy Courses
 * [FreeCourseWeb](https://freecourseweb.com/) - Udemy Courses
-* [CoursesForFree](https://courseforfree.net/) - Udemy Courses
-* [CourseForFree](https://courseforfree.com/) - Udemy Courses
 * [Download Online Tutorials Free](https://download.howtofree.org/) - Udemy Courses
 * [udemy-downloader](https://github.com/Puyodead1/udemy-downloader) - Udemy Downloader
 * [Udemy Download Guide](https://docs.google.com/document/d/1W91OS9rj7h9DBp5UwR68lA2zMEtqNmxdGaNVmBktIaw/) - [Discord](https://discord.gg/tMzrSxQ)
@@ -197,7 +187,6 @@
 * [CertCommunity](https://www.certcommunity.org/forum/) - IT Cert Courses
 * [Top Linux Interview Questions & Answers](https://github.com/nbats/FMHYedit/blob/main/base64.md#top-linux-interview-qas) - Linux Interview Q&A
 * [Coursera-dl](https://github.com/coursera-dl/coursera-dl) - Download videos from Coursera
-* [skillsharefree](https://t.me/skillsharefree) - Skillshare Courses / Telegram
 * [avdshare](https://www.avdshare.com/udemy-downloader) - Download videos from Udemy
 * [Udemy Paid Courses Grabber](https://github.com/AmmeySaini/Udemy-Paid-Courses-Grabber) - Udemy Course Grabber
 * [UdemyCourseGrabber](https://github.com/keethesh/UdemyCourseGrabber) - Find Udemy Course Download Links
@@ -321,8 +310,6 @@
 * [Lights and Shadows](https://ciechanow.ski/lights-and-shadows/) - Light and Shadow Lesson
 * [Interactive 4D Handbook](https://baileysnyder.com/interactive-4d/) - Interactive Fourth Dimension
 * [British & Exotic Mineralogy](https://www.c82.net/mineralogy/) or [Mindat](https://www.mindat.org/) - Mineralogy Database
-* [Global Volcanism Program](https://volcano.si.edu/) - Volcano Information Database
-* [8000ers](https://martin-laxenaire.fr/experiments/8000ers/#/everest) or [Mount Everest 3D](https://mount-everest3d.com/) - Mountain Visualizations & Info
 * [Camopedia](https://www.camopedia.org/) - Camouflage Wiki
 * [AirVectors](https://www.airvectors.net/) - Aircraft Wiki
 * [Robot Shop](https://community.robotshop.com/) - Robotics Forum
@@ -331,10 +318,7 @@
 * [STORY](https://archive.org/details/RobertMcKeeStorypdf/) - Screenwriting Principles
 * [Animated Knots](https://www.animatedknots.com/) or [NetKnots](https://www.netknots.com/) - Learn to Tie Knots
 * [Ian's Shoelace Site](https://www.fieggen.com/shoelace/) - Learn to Tie Shoelaces
-* [Earth 2050](https://2050.earth/) - Future Predictions
-* [Nuclear Risk Calculator](https://app.hex.tech/399c4a29-5b7f-4f70-8b53-afa8da38dd72/app/def94910-d017-4508-847c-e1189d3b6042/latest) - Calculate Risk of Nuclear War
-* [Economics of The Office](http://economicsoftheoffice.com/) - Learn Economics via The Office
-* [Morse Typing Trainer](https://morse.withgoogle.com/learn/), [Seiuchy](https://seiuchy.macache.com/) or [ICWO](https://lcwo.net/) - Learn / Practice Morse Code
+* [Morse Typing Trainer](https://morse.withgoogle.com/learn/) or [ICWO](https://lcwo.net/) - Learn / Practice Morse Code
 * [RSOE](https://rsoe-edis.org/) - Emergency and Disaster Information Service
 * [Awful-A.I.](https://github.com/daviddao/awful-ai) - Negative A.I. Usage Examples
 * [Symbols](https://www.symbols.com/) - Symbol Database
@@ -1019,6 +1003,8 @@
 * [Expatistan](https://www.expatistan.com/) - Cost of Living Calculator
 * [Pixel Wealth](https://mkorostoff.github.io/1-pixel-wealth/) - Wealth Inequality Visualization
 * [Climate Data](https://climate-data.org/) or [Climate Explorer](https://crt-climate-explorer.nemac.org/) - Climate Change Data
+* [Global Volcanism Program](https://volcano.si.edu/) - Volcano Information Database
+* [8000ers](https://martin-laxenaire.fr/experiments/8000ers/#/everest) - Mountain Visualization & Info
 * [Nextstrain](https://nextstrain.org/) - Pathogen Evolution Tracking
 * [Epidemic Calculator](https://gabgoh.github.io/COVID/index.html) - COVID Data
 
