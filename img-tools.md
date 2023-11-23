@@ -152,6 +152,7 @@
 * [MakeTintAndShade](https://maketintsandshades.com/) - Tint and Shade Generator
 * [Flow Field](https://github.com/romellogoodman/flow-field.js) - Flow Field Generator
 * [MakeBeliefsComix](https://makebeliefscomix.com/) - Comic Creators
+* [Rarebit](https://rarebit.neocities.org/) - Webcomics Template
 * [Zine Machine](https://zine-machine.glitch.me/) or [Electric Zine Maker](http://unicornycopia.com/ezm/) - Create / Print Zines
 * [Bannery](https://bannery.app/) - Create Custom Banners
 * [Mind Your Banners](https://www.mindyourbanners.com/) - Social Media Banner Creator
