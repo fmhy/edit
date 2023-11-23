@@ -1270,6 +1270,7 @@
 * [VK Book DL Pages](https://redd.it/kne0ba)
 * [Twirpx](https://www.twirpx.com/) - Books / Educational
 * [studmed](https://www.studmed.ru/) - Books / Educational
+* [alleng](https://www.alleng.org/) - Textbooks
 * [rusneb](https://rusneb.ru/) - Books
 * [royallib](https://royallib.com/) - Books
 * [Filibusta](https://flibusta.site/) - Books
