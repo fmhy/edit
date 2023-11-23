@@ -1354,22 +1354,21 @@
 * [exploradoresp2p](https://exploradoresp2p.com/) - Movies / Classics / TV / Documentaries / ED2K Links / [Telegram](https://t.me/+fLbhvUbvrZwzYmI0)
 * [HispaMula](https://www.hispamula.club/) - Movies / Classics / TV / Documentaries / ED2K Links / [Telegram](https://t.me/HispaMulaCLUB) / Castilian
 * [Descargar videos de la tele](https://eljaviero.com/descargarvideosdelatele/) - TV / [Telegram](https://t.me/joinchat/DVUy6EgTA_kZnc3KAaVItg) / Castilian
-* [Ninjin Anime](https://ninjinanime.com/) - Anime
-* [Animegafirex](https://www.animegafirex.com/) - Anime
-* [SphinxAnime](https://sphinxanime.com/) - Anime
-* [Anime4Mega](https://anime4mega.net/) - Anime
-* [TioDonghua](https://anime.tiodonghua.com/) - Anime
-* [Japan Paw!](https://japan-paw.net/) - Anime
-* [ivanime](https://www.ivanime.com/) - Anime
-* [Fukou-Da!](https://fukou-da.net/) - Anime / Light Novels
-* [Dw-anime](https://dw-anime.net/) - Anime
+* [SphinxAnime](https://sphinxanime.com/) - Anime / Sub / Dub
+* [animesgd](https://animesgd.net/) - Anime / Sub / Dub / Latino / Cartoons
+* [Anime4Mega](https://anime4mega.net/) - Anime / Sub / Dub / Latino
+* [ivanime](https://www.ivanime.com/) - Anime / Sub / Dub / Latino
+* [Dw-anime](https://dw-anime.net/) - Anime / Sub / Dub / Latino
+* [Animegafirex](https://www.animegafirex.com/) - Anime / Sub
+* [TioDonghua](https://anime.tiodonghua.com/) - Anime / Sub
+* [Japan Paw!](https://japan-paw.net/) - Anime / Sub
+* [Fukou-Da!](https://fukou-da.net/) - Anime / Sub / Light Novels
 * [Animes480pFinalizados](https://t.me/Animes480pFinalizados) - Anime / Telegram
 * [AndrossElLegado](https://t.me/AndrossElLegado) - Anime / Telegram
 * [animes_kawais](https://t.me/animes_kawais) - Anime / Telegram
 * [SimplementeAnime](https://t.me/SimplementeAnime) - Anime / Telegram
 * [animesfinalizadoLSHD](https://t.me/animesfinalizadoLSHD) - Anime / Telegram
 * [AnimeDark17](https://t.me/AnimeDark17) - Anime / Telegram
-* [animesgd](https://animesgd.net/) - Anime / Cartoons
 * [N+2](https://nmasmas2.blogspot.com/) - Animated Movies / Cartoons
 * [Niroqui](https://niroqui.com/) - Courses
 * [Cursos En Mega](https://t.me/s/cursosenmega) - Courses
@@ -1398,8 +1397,8 @@
 ## ▷ Streaming
 
 * 🌐 **[El Bucanero del Deporte](https://deportebucanero.wordpress.com/)** - Sports Piracy Directory
-* ⭐ **[HDFull](https://dominioshdfull.com/)** - Movies / TV / Anime / 1080p / [Discord](https://discord.gg/BRKCXEe)
-* ⭐ **[Playdede](https://dominiosplaydede.com/)** - Movies / TV / Anime / 1080p / [Telegram](https://t.me/s/playdedeinformacion)
+* ⭐ **[HDFull](https://dominioshdfull.com/)** - Movies / TV / Anime / 1080p / [Discord](https://discord.gg/BRKCXEe) / Castilian / Latino
+* ⭐ **[Playdede](https://dominiosplaydede.com/)** - Movies / TV / Anime / 1080p / [Telegram](https://t.me/s/playdedeinformacion) / Castilian / Latino
 * ⭐ **[Kodi Addon "Cristal Azul"](https://rentry.co/kodi-addon-cristal-azul/)** - Movies / TV / Live Sports / Castilian / [Telegram](https://t.me/addonfestaycristal/)
 * ⭐ **[LaQuay TDT Channels](https://github.com/LaQuay/TDTChannels)** - Live TV / Live Radio / IPTV / Castilian
 * ⭐ **[El Plan](https://www.reddit.com/user/No_Land656)** - Live Sports Acestream IDs
@@ -1432,7 +1431,7 @@
 * [EntrePeliculasySeries](https://entrepeliculasyseries.nz/) - Movies / TV / Anime
 * [Miradetodo](https://miradetodo.de/) - Movies / TV
 * [VerPeliculasUltra](https://verpeliculasultra.com/) - Movies
-* [Dilo](https://www.dilo.nu/) - Movies / TV / Anime
+* [Dilo](https://www.dilo.nu/) - Movies / TV / Anime / Castilian
 * [novelas360](https://novelas360.com/) - TV / Drama
 * [Tlnovelas](https://tlnovelas.net/) - TV / Drama
 * [Asialiveaction](https://asialiveaction.com/) - Asian Drama
@@ -1448,21 +1447,21 @@
 * [Naranjas de Hiroshima](https://www.naranjasdehiroshima.com/) - Documentaries / Archives
 * [DocumaniaTV](https://www.documaniatv.com/) - Documentaries
 * [Area Documental](https://www.area-documental.com/) - Documentaries
-* [JKAnime](https://jkanime.net/) - Anime
-* [AnimeFénix](https://www.animefenix.tv/) - Anime
-* [TioAnime](https://tioanime.com/) - Anime
-* [HenaoJara](https://henaojara.com/) - Anime
-* [AnimeFLV.net](https://www3.animeflv.net/) - Anime
-* [AnimeFLV.io](https://animeflv.io/) - Anime
-* [mundodonghua](https://www.mundodonghua.com/) - Anime
-* [animeonline](https://ww3.animeonline.ninja/) - Anime
-* [OtakusTV](https://www1.otakustv.com/) - Anime
-* [ytanime](https://ytanime.tv/) - Anime
-* [AnimeID](https://www.animeid.tv/) - Anime
-* [animeyt](https://animeyt.es/) - Anime
-* [animeblix](https://animeblix.com/) - Anime
-* [Anime Online Sub](https://www.animeonlinesub.com/) - Anime
-* [Monoschinos](https://monoschinos2.com/) - Anime
+* [Latanime](https://latanime.org/) - Anime / Sub / Dub / Latino
+* [Monoschinos](https://monoschinos2.com/) - Anime / Sub / Dub
+* [JKAnime](https://jkanime.net/) - Anime / Sub
+* [AnimeFénix](https://www.animefenix.tv/) - Anime / Sub
+* [TioAnime](https://tioanime.com/) - Anime / Sub
+* [HenaoJara](https://henaojara.com/) - Anime / Sub
+* [AnimeFLV.net](https://www3.animeflv.net/) - Anime / Sub
+* [mundodonghua](https://www.mundodonghua.com/) - Anime / Sub
+* [animeonline](https://ww3.animeonline.ninja/) - Anime / Sub
+* [OtakusTV](https://www1.otakustv.com/) - Anime / Sub
+* [ytanime](https://ytanime.tv/) - Anime / Sub
+* [AnimeID](https://www.animeid.tv/) - Anime / Sub
+* [animeyt](https://animeyt.es/) - Anime / Sub
+* [animeblix](https://animeblix.com/) - Anime / Sub
+* [Anime Online Sub](https://www.animeonlinesub.com/) - Anime / Sub
 * [serieslan](https://serieslan.com/) - Cartoons
 * [LACartoons](https://www.lacartoons.com/) - Cartoons
 * [Eventoshq](https://www.eventoshq.me/) - WWE
