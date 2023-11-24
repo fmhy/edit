@@ -1766,6 +1766,7 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://70.88.180.169:8
 * ⭐ **[Ninite](https://ninite.com/)**
 * ⭐ **[WinGet](https://github.com/microsoft/winget-cli)**
 * ⭐ **WinGet Tools** - [Tools](https://github.com/jdhitsolutions/WingetTools) / [Winget UI](https://github.com/marticliment/WingetUI) / [Packages](https://github.com/microsoft/winget-pkgs), [2](https://winget.run/) / [Automation](https://github.com/topgrade-rs/topgrade) / [Pac-Man](https://github.com/rami3l/pacaptr)
+* [NirLauncher](https://launcher.nirsoft.net/)
 * [Chocolatey](https://chocolatey.org/) / [GUI](https://github.com/chocolatey/ChocolateyGUI)
 * [Spinel](https://spinel.ovh/) - Multi-Program Install Script Generator 
 * [Silent Install](https://www.silentinstall.org/) - Build Multi-Program Installers
