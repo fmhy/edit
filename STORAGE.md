@@ -3085,7 +3085,7 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://70.88.180.169:8
 
 ## Window Tiling Programs
 
-[nog](https://github.com/TimUntersberger/nog), [bug.n](https://github.com/fuhsjr00/bug.n), [GridMove](https://www.dcmembers.com/jgpaiva/), [Amethyst Windows](https://github.com/glsorre/amethystwindows), [WorkSpacer](https://workspacer.org/), [Komorebi](https://github.com/LGUG2Z/komorebi), [TileMe](https://gitlab.com/slavoutich/tileme), [WindowsGrid](http://windowgrid.net/), [FancyWM](https://apps.microsoft.com/store/detail/fancywm-dynamic-tiling-window-manager/9P1741LKHQS9?hl=en-in&gl=IN), [GlazeWM](https://github.com/lars-berger/GlazeWM), [MiguruWM](https://github.com/imawizard/MiguruWM)
+[nog](https://github.com/TimUntersberger/nog), [bug.n](https://github.com/fuhsjr00/bug.n), [GridMove](https://www.dcmembers.com/jgpaiva/), [Amethyst Windows](https://github.com/glsorre/amethystwindows), [WorkSpacer](https://workspacer.org/), [Komorebi](https://github.com/LGUG2Z/komorebi), [TileMe](https://gitlab.com/slavoutich/tileme), [WindowsGrid](http://windowgrid.net/), [FancyWM](https://apps.microsoft.com/store/detail/fancywm-dynamic-tiling-window-manager/9P1741LKHQS9?hl=en-in&gl=IN), [GlazeWM](https://github.com/lars-berger/GlazeWM), [MiguruWM](https://github.com/imawizard/MiguruWM), [AwesomeWM](https://awesomewm.org/), [RatPoison](https://www.nongnu.org/ratpoison/), [Compiz Fusion](https://www.compiz-fusion.org/) / [Reloaded](https://github.com/compiz-reloaded/compiz/) 
 
 ***
 
