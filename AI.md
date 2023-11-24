@@ -14,6 +14,7 @@
 # ► Open-Source LLMs
 
 * 🌐 **[Open LLM Leaderboard](https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard)** - LLM Leaderboard
+* ⭐ **[Mancer](https://mancer.tech)** - Uncensored LLMs / [Discord](https://discord.com/invite/6DZaU9Gv9F)
 * ⭐ **[seait](https://github.com/diStyApps/seait)** - AI Installation Manager
 * ⭐ **[SillyTavern](https://github.com/SillyTavern/SillyTavern)** - Front-end for LLMs
 * ⭐ **[llama.cpp](https://github.com/ggerganov/llama.cpp)** - Self-Host LLaMa Based LLMs.
