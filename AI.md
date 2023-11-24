@@ -14,7 +14,6 @@
 # ► Open-Source LLMs
 
 * 🌐 **[Open LLM Leaderboard](https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard)** - LLM Leaderboard
-* ⭐ **[Mancer](https://mancer.tech)** - Uncensored LLMs / [Discord](https://discord.com/invite/6DZaU9Gv9F)
 * ⭐ **[seait](https://github.com/diStyApps/seait)** - AI Installation Manager
 * ⭐ **[SillyTavern](https://github.com/SillyTavern/SillyTavern)** - Front-end for LLMs
 * ⭐ **[llama.cpp](https://github.com/ggerganov/llama.cpp)** - Self-Host LLaMa Based LLMs.
@@ -72,6 +71,7 @@
 
 * 🌐 **[Img-Resources](https://rentry.org/lmg-resources)** - LLM Character Resources / [Templates](https://rentry.org/lmg_template)
 * ⭐ **[Bot Creation Guide](https://wikia.schneedc.com/bot-creation/intro)** - Character Creation Guide
+* ⭐ **[Mancer](https://mancer.tech)** - Uncensored Roleplaying LLMs / [Discord](https://discord.com/invite/6DZaU9Gv9F)
 * ⭐ **[Character AI](https://beta.character.ai/)** - Roleplaying Chatbots / [Extract Params](https://rentry.org/reverseCAI)
 * ⭐ **[Chub](https://www.chub.ai/)** - Character Cards
 * [Character Creator](https://oobabooga.github.io/character-creator) - Edit & Create Character Cards
