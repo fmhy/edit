@@ -323,7 +323,7 @@
 
 ## ▷ Audio Tools
 
-* 🌐 **[Awesome Music](https://github.com/noteflakes/awesome-music)** - Music Resource Index 
+* 🌐 **[AudioMarx](https://audiomarx.mixa.site/)** or [Awesome Music](https://github.com/noteflakes/awesome-music) - Music Resource Index 
 * 🌐 **[Awesome Music Production](https://github.com/ad-si/awesome-music-production)** or [AFreeStudio](https://www.afreestudio.com/) - Music Production Indexes
 * 🌐 **[Awesome Audio Visualization](https://github.com/willianjusten/awesome-audio-visualization)** - Audio Visualization Index
 * ↪️ **[Audio Players / Libraries](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_music_libraries_.2F_players)**
