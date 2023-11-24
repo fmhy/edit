@@ -263,7 +263,6 @@
 * [mp3db](https://mp3db.pro/) - MP3
 * [ShareMania](https://sharemania.us/) - MP3
 * [RockDownload](https://www.rockdownload.org/) - MP3
-* [Uloz](https://ulozto.net/) - MP3
 * [DeadPulpit](https://www.deadpulpit.com/) - MP3
 * [CannaPower](https://canna-power.to) - MP3 / [Telegram](https://t.me/cannapower)
 * [24NaiJamMuzic](https://www10.24naijamuzic.com/) - MP3
