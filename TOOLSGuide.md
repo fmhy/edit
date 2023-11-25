@@ -505,6 +505,7 @@
 * [WiFi Analyzer](https://apps.microsoft.com/store/detail/wifi-analyzer/9NBLGGH33N0N) - WiFi Analyzer
 * [Arcai](https://arcai.com/) - WiFi Speed Control
 * [RustCat](https://github.com/robiot/rustcat) - Port Listener
+* [Hosts File Editor](https://hostsfileeditor.com/) - Windows Hosts File Editor
 * [All about RSS](https://github.com/AboutRSS/ALL-about-RSS), [RSSTango](https://rentry.org/rrstango), [To RSS](https://www.to-rss.xyz/), [Awesome RSS Feeds](https://github.com/plenaryapp/awesome-rss-feeds) or [RSS](https://gist.github.com/thefranke/63853a6f8c499dc97bc17838f6cedcc2) - RSS Feeds / Tools
 * [MoRSS](https://morss.it/), [Open RSS](https://openrss.org/), [rsspls](https://github.com/wezm/rsspls), [FetchRSS](https://fetchrss.com/), [Janicek](https://feed.janicek.co/) or [FiveFilters](https://createfeed.fivefilters.org/) - RSS Feed Generators
 * [RSS Bridge](https://github.com/RSS-Bridge/rss-bridge) - RSS Feed for Sites Missing It
