@@ -605,6 +605,7 @@
 * [Student Developer Pack](https://education.github.com/pack) - Free Developer Tools for Students
 * [Mage](https://www.mage.ai/) - Data Science Pipelines
 * [Libera Chat](https://libera.chat/) - IRC Network for Project Collaboration
+* [AppFlowy](https://appflowy.io/) / [GitHub](https://github.com/AppFlowy-IO/AppFlowy) - Project Workspace
 * [DevDeals](https://www.devdeals.org/) - Free Tools / Promotions for Developers
 * [CodeProject](https://www.codeproject.com/), [DEV Community](https://dev.to/) or [Blind](https://www.teamblind.com/) - Developer Forum
 * [Tech-Blogs](https://tech-blogs.dev/) - Blogs for Developers
