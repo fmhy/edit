@@ -846,6 +846,7 @@
 * [Geforce Now](https://www.nvidia.com/en-gb/geforce-now/) - Game Streaming / [Web App](https://play.geforcenow.com/mall/)
 * [Remotly](https://remotly.com/) - Cloud Gaming Apps
 * [Mogul](https://play.google.com/store/apps/details?id=com.mogul.flutte&hl=en&gl=US) or [Chikii](https://play.google.com/store/apps/details?id=com.dianyun.chikii&hl=en&gl=US) - Cloud Gaming Android Apps
+* [SaveLocation](https://savelocation.net/) - Game Save Locations
 * [GameCopyWorld](https://www.gamecopyworld.com/games/index.php), [MegaGames](https://megagames.com/) or [GTrainers](https://gtrainers.com/) - Game Fixes, Saves and Patches
 * [Ludsavi](https://github.com/mtkennerly/ludusavi) or [GameSave Manager](https://www.gamesave-manager.com/) - Game Save Manger
 * [Save Game World](https://www.savegameworld.com/), [savegamedownload](https://www.savegamedownload.com/), [yoursavegames](https://www.yoursavegames.com/), [savesforgames](https://savesforgames.com/), [savegamefiles](https://www.savegamefiles.com/), [savegame-download](https://savegame-download.com/) or [savegame](https://savegame.pro/) - PC Game Save Downloads
