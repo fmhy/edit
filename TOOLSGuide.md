@@ -498,6 +498,7 @@
 * [PacketSender](https://packetsender.com/) - Packet Sender
 * [Pinging](https://www.pinging.net/) - Internet Uptime Monitor
 * [NETworkManager](https://github.com/BornToBeRoot/NETworkManager) or [WLan10](https://github.com/afit/wlan10) - Network Manager
+* [mRemoteNG](https://mremoteng.org/) - Remote Connections Manager
 * [NetBlocks](https://api.webprobe.org/) or [OpenNetMeter](https://github.com/Ashfaaq18/OpenNetMeter) - Internet Performance Monitor
 * [OONI](https://ooni.org/) - Test Site Blocking / Network Speed
 * [OpenSSH](https://www.openssh.com/) - OpenSSH Client / Server
