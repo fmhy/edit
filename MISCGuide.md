@@ -1440,6 +1440,7 @@
 * [TheMostAmazingWebsiteOnTheInternet](http://www.themostamazingwebsiteontheinternet.com/) - The Internets Best Website
 * [MotherFuckingWebsite](https://motherfuckingwebsite.com/), [BetterMotherFuckingWebsite](http://bettermotherfuckingwebsite.com/), [EvenBetterMotherFuckingWebsite](https://evenbettermotherfucking.website/) or [TheBestMotherFuckingWebsite](https://thebestmotherfuckingwebsite.co/)
 * [Objection!](https://objection.lol/) - Ace Attorney Objecting on Your Behalf
+* [The Death Generator](https://deathgenerator.com/) - Video Game Text Generator
 * [UpJoke](https://upjoke.com/) - Jokes for Any Topic
 * [BilingualJokes](https://bilingualjokes.com/) - Multi-Language Jokes
 * [DadJokeCLI](https://github.com/Anupya/dadjoke-cli) - Get Dad Jokes in Command Line
