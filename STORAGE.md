@@ -4,7 +4,7 @@
 ***
 ***
 
-**[Table of Contents](https://ibb.co/tMw26k4)** - For mobile users
+**[Table of Contents](https://ibb.co/P6rMfgK)** - For mobile users
 
 ***
 ***
@@ -1890,30 +1890,6 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://70.88.180.169:8
 ⭐ **[PROXY List](https://github.com/TheSpeedX/PROXY-List)**
 
 [Free-Proxy-List](https://free-proxy-list.net/), [Proxy-Daily](https://proxy-daily.com/), [Cool-Proxy](https://www.cool-proxy.net/), [Proxy4Parsing](https://github.com/proxy4parsing) / [Telegram](https://t.me/proxy4parsing), [OpenProxyList](https://github.com/roosterkid/openproxylist), [ProxyScrape](https://www.proxyscrape.com/free-proxy-list), [proxy-list](https://github.com/mmpx12/proxy-list), [hide.my proxy list](https://hidemy.name/en/proxy-list/), [FreeProxyLists](https://www.freeproxylists.net/), [ProxyNations](https://www.proxynations.com/), [spys.one](https://spys.one/en/free-proxy-list/), [cyber-gateway](https://cyber-gateway.net/get-proxy/free-proxy), [ree-proxy-list](https://free-proxy-list.net/web-proxy.html), [geonode](https://geonode.com/free-proxy-list/), [web-proxylist](http://free-proxy.cz/en/web-proxylist), [freeproxyupdate](https://freeproxyupdate.com/), [proxypedia](https://proxypedia.org), [proxydocker](https://www.proxydocker.com/en/proxylist/), [proxyhub](https://proxyhub.me/), [proxy-list](https://proxy-list.download/), [free-proxy-list](https://free-proxy-list.com/), [proxydb](https://proxydb.net/), [premiumproxy](https://premiumproxy.net/), [proxyservers](https://proxyservers.pro/), [advanced.name](https://advanced.name/freeproxy), [monosans list](https://github.com/monosans/proxy-list), [jetkai list](https://github.com/jetkai/proxy-list), [megaproxylist](https://www.megaproxylist.net/), [freeproxy](https://freeproxy.world/)
-
-***
-
-## Privacy Based Browsers
-
-* ⭐ **[Tor Browser](https://www.torproject.org/)** - Onion-Routed Browser / [Directory](https://session.directory/) 
-* ⭐ **[Tor Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_tor_tools)** - Tor Tools / Guides
-* ⭐ **[Mullvad Browser](https://mullvad.net/en/browser)**
-* ⭐ **[Librewolf](https://gitlab.com/librewolf-community/browser/windows)** / [2](https://librewolf.net/) / **[Use Auto-Updater](https://github.com/ltguillaume/librewolf-winupdater)**
-* [BadWolf](https://hacktivis.me/projects/badwolf)
-* [Brave](https://brave.com/)
-
-### Browser Privacy Tweaks
-
-* ⭐ **[user.js Warning](https://i.ibb.co/Vpkrsg4/44160f4625bc.png)** - Firefox
-* ⭐ **[ffprofile](https://ffprofile.com/)** - Firefox
-* ⭐ **[Betterfox](https://github.com/yokoffing/Betterfox)** - Firefox
-* ⭐ **[arkenfox](https://github.com/arkenfox/user.js)** - Firefox
-* ⭐ **[Firefox Setup Guide](https://brainfucksec.github.io/firefox-hardening-guide)** / [2](https://12bytes.org/articles/tech/firefox/the-firefox-privacy-guide-for-dummies/)
-* [Firefox Setup Video](https://youtu.be/F7-bW2y6lcI)
-* [pyllyukko](https://github.com/pyllyukko/user.js/) - Firefox
-* [hnhx](https://github.com/hnhx/user.js) - Firefox
-* [Narsil](https://git.nixnet.services/Narsil/desktop_user.js) - Firefox
-* [Brave Setup Guide](https://gitlab.com/CHEF-KOCH/brave-browser-hardening)
 
 ***
 
