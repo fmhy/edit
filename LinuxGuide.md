@@ -107,7 +107,7 @@
 * [Myuzi](https://gitlab.com/albanobattistella/myuzi) or [Harmony Music](https://github.com/ZingyTomato/Harmony-Music) - Music Streaming Apps
 * [HeadsetControl](https://github.com/Sapd/HeadsetControl) - Headset Settings Manager
 * [SongRec](https://github.com/marin-m/SongRec) - Song Identifier
-* [Pipewire](https://wiki.archlinux.org/title/PipeWire#Noise_suppression_for_voice) or [NoiseTorch](https://github.com/noisetorch/NoiseTorch) - Noise Suppression Software
+* [Pipewire](https://wiki.archlinux.org/title/PipeWire#Noise_suppression_for_voice) / [Plugins](https://github.com/wwmm/easyeffects) or [NoiseTorch](https://github.com/noisetorch/NoiseTorch) - Noise Suppression Software
 * [Qtractor](https://qtractor.org/) - Audio Editor
 * [Calf Studio Gear](https://calf-studio-gear.org/) - Audio Production Plugins
 * [Ensembles](https://github.com/ensemblesaw/ensembles-app) - Musical Performance Arranger
