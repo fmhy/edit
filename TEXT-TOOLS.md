@@ -1,3 +1,9 @@
+***
+***
+**[◄◄ Back to Wiki Index](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/tools-index)**
+***
+***
+
 # ► Text Tools
 
 * ⭐ **[TextCleanr](https://www.textcleanr.com/)**, [TextFixer](https://www.textfixer.com/), [OnlineTextTools](https://onlinetexttools.com/), [SoftMyList](https://sortmylist.com/) or [The Alphabetizer](https://alphabetizer.flap.tv/) - Organize / Format Text
