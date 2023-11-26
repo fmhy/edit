@@ -1,13 +1,8 @@
 ***
 ***
-**[◄◄ Back to Wiki Index](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/index)**
+**[◄◄ Back to Wiki Index](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/tools-index)**
 ***
 ***
-
-**[Table of Contents](https://ibb.co/CH6ywzR)** - For mobile users
-
-***
-*** 
 
 # ► Cheat Sheets
 
