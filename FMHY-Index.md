@@ -1,116 +1,116 @@
-#[🏴‍☠️ Beginners Guide](https://rentry.org/Piracy-BG)
+# [🏴‍☠️ Beginners Guide](https://rentry.org/Piracy-BG)
 
 **Beginners Guide to Piracy**
 
 ***
 ***
 
-#[📛 Adblocking / Privacy](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy)
+# [📛 Adblocking / Privacy](https://github.com/fmhy/FMHY/wiki/%F0%9F%93%9B-Adblock---Privacy---Antivirus)
 
 **Adblocking, Privacy, VPN's, Proxies, Antivirus**
 
 ***
 ***
 
-#[🤖 Artificial Intelligence](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/ai)
+# [🤖 Artificial Intelligence](https://github.com/fmhy/FMHY/wiki/%F0%9F%A4%96-Artificial-Intelligence)
 
 **Chat Bots, Text Generators, Image Generators, ChatGPT Tools**
 
 ***
 ***
 
-#[📺 Movies / TV / Anime](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video)
+# [📺 Movies / TV / Anime](https://github.com/fmhy/FMHY/wiki/%F0%9F%93%BA-Movies---TV---Anime---Sports)
 
 **Stream Videos, Download Videos, Torrent Videos**
 
 ***
 ***
 
-#[🎵 Music / Podcasts / Radio](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/audio)
+# [🎵 Music / Podcasts / Radio](https://github.com/fmhy/FMHY/wiki/%F0%9F%8E%B5-Music---Podcasts---Radio)
 
 **Stream Audio, Download Audio, Torrent Audio**
 
 ***
 ***
 
-#[🎮 Gaming / Emulation](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/games)
+# [🎮 Gaming / Emulation](https://github.com/fmhy/FMHY/wiki/%F0%9F%8E%AE-Gaming---Emulation)
 
 **Download Games, ROMs, Gaming Tools**
 
 ***
 ***
 
-#[📗 Books / Comics / Manga](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/reading)
+# [📗 Books / Comics / Manga](https://github.com/fmhy/FMHY/wiki/%F0%9F%93%97-Books---Comics---Manga)
 
 **Books, Comics, Magazines, Newspapers**
 
 ***
 ***
 
-#[💾 Downloading](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/download)
+# [💾 Downloading](https://github.com/fmhy/FMHY/wiki/%F0%9F%92%BE-Downloading)
 
 **Download Sites, Software Sites, Open Directories**
 
 ***
 ***
 
-#[🌀 Torrenting](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent)
+# [🌀 Torrenting](https://github.com/fmhy/FMHY/wiki/%F0%9F%8C%80-Torrenting)
 
 **Torrent Clients, Torrent Sites, Trackers**
 
 ***
 ***
 
-# [🧠 Educational](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu)
+# [🧠 Educational](https://github.com/fmhy/FMHY/wiki/%F0%9F%A7%A0-Educational)
 
 **Courses, Documentaries, Learning Resources**
 
 ***
 ***
 
-#[🔧 Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/tools-misc)
+# [🔧 Tools](https://github.com/fmhy/FMHYedit/blob/main/Tools-Index.md)
 
-**General Tools, Internet Tools, System Tools**
+**Internet Tools, System Tools, Audio Tools, Video Tools**
 
 ***
 ***
 
-#[📷 Image Tools](https://www.reddit.com//r/FREEMEDIAHECKYEAH/wiki/img-tools)
+# [📷 Image Tools](https://github.com/fmhy/FMHYedit/blob/main/img-tools.md)
 
 **Image Editing, Photography, Wallpapers** 
 
 ***
 ***
 
-#[👨‍💻 Developer Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/dev-tools)
+# [👨‍💻 Developer Tools](https://github.com/fmhy/FMHYedit/blob/main/DEVTools.md)
 
 **Dev Lessons, Programming Resources, Code Editors**
 
 ***
 ***
 
-#[📱 Android / iOS](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android)
+# [📱 Android / iOS](https://github.com/fmhy/FMHY/wiki/%F0%9F%93%B1-Android---iOS)
 
 **Apps, Jailbreaking, Android Emulators**
 
 ***
 ***
 
-#[🐧 Linux / MacOS](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/linux)
+# [🐧 Linux / MacOS](https://github.com/fmhy/FMHY/wiki/%F0%9F%90%A7-Linux---MacOS)
 
 **Apps, Software Sites, Gaming**
 
 ***
 ***
 
-#[🌏 Non-English](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/non-eng)
+# [🌏 Non-English](https://github.com/fmhy/FMHY/wiki/%F0%9F%8C%8F-Non-English)
 
 **International Piracy Sites** 
 
 ***
 ***
 
-#[📂 Miscellaneous](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc)
+# [📂 Miscellaneous](https://github.com/fmhy/FMHY/wiki/%F0%9F%93%82-Miscellaneous)
 
 **Extensions, Indexes, News, Health, Food, Fun**
 
@@ -124,28 +124,28 @@
 ***
 ***
 
-#[⚠️ Unsafe Sites](https://redd.it/10bh0h9)
+# [⚠️ Unsafe Sites](https://fmhy.pages.dev/unsafesites/)
 
 **Things we feel should be avoided**
 
 ***
 ***
 
-#[🔑 Base64](https://fmhy.pages.dev/base64/)
+# [🔑 Base64](https://fmhy.pages.dev/base64/)
 
 **Encoded Links Page**
 
 ***
 ***
 
-#[🗃️ Storage](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage) 
+# [🗃️ Storage](https://github.com/fmhy/FMHY/wiki/Storage) 
 
 **Wiki Storage Page**
 
 ***
 ***
 
-#[🔒 Backups](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/backups)
+# [🔒 Backups](https://github.com/fmhy/FMHY/wiki/Backups)
 
 **FMHY Backups**
 
