@@ -2396,7 +2396,6 @@
 * [Netron](https://github.com/lutzroeder/netron) - Visualizer for Neural Network, Deep Learning, and Machine Learning Models
 * [Scikit Learn](https://github.com/scikit-learn/scikit-learn) - Machine Learning Library for Python
 * [Kobra](https://kobra.dev/) - Visual Programming Language for Machine Learning
-* [DVC](https://dvc.org/) - Machine Learning Version Control
 * [DialoGPT](https://github.com/microsoft/DialoGPT) - Dialogue Machine Learning Model
 * [MMDeploy](https://github.com/open-mmlab/mmdeploy) - Deep Learning Model Deployment Toolset 
 * [DeepSpeed](https://github.com/microsoft/DeepSpeed) - Deep Learning Optimization Library
@@ -2409,7 +2408,7 @@
 * [100-Days-Of-ML-Code](https://github.com/Avik-Jain/100-Days-Of-ML-Code) or [Practical Deep Learning](https://course.fast.ai/) - Machine Learning Coding Lessons
 * [Nixified](https://nixified.ai/) - Nix Flake for AI Projects
 * [Approaching (Almost) Any Machine Learning Problem](https://github.com/abhishekkrthakur/approachingalmost/blob/master/AAAMLP.pdf) - Machine Learning Problem Solving Book
-* [MetaAcademy](https://metacademy.org/) - Machine Learning Guides
+* [MetaAcademy](https://metacademy.org/) or [HF Learn](https://huggingface.co/learn) - Machine Learning Guides
 * [ML-Youtube-Courses](https://github.com/dair-ai/ML-YouTube-Courses) - Machine Learning Courses on YouTube
 * [ML Course Notes](https://github.com/dair-ai/ML-Course-Notes) - Machine Learning Course Notes
 * [100-Days-Of-ML-Code](https://github.com/Avik-Jain/100-Days-Of-ML-Code) or [Practical Deep Learning](https://course.fast.ai/) - Machine Learning Coding Lessons 
@@ -2965,7 +2964,7 @@
 * [TGMoviesBot](https://t.me/TGMoviesBot) - Telegram File Search Bot
 * [Direct Links](https://t.me/direct_llinks) - Telegram / Video
 * [VK Files Bot](https://t.me/VKFiles_Bot) - VK File DL Telegram Bot
-* [Real-Debrid](https://real-debrid.com/) - File Download App / Paid / [Torrent Client](https://github.com/rogerfar/rdt-client)
+* [Real-Debrid](https://real-debrid.com/) - File Download App / Paid / [Torrent Client](https://github.com/rogerfar/rdt-client) / [Movies / TV](https://hdencode.org/)
 * [Debrid-Link](https://debrid-link.com) - Debrid w/ Free Tier / [Limits](https://i.imgur.com/vZtlvtA.png)
 
 ***
@@ -3937,6 +3936,7 @@
 * ⭐ **[SystemRequirmentsLab](https://www.systemrequirementslab.com/cyri/)** or [PCGameBenchmark](https://www.pcgamebenchmark.com/) - Game Requirements Tests
 * ⭐ **[ProSettings](https://prosettings.net/)**, [Share Gaming Tweaks](https://www.tenforums.com/gaming/117377-share-gaming-tweaks-chec-my-comprehensive-list-will-blow-your-mind.html), [SweetFX](https://sfx.thelazy.net/), [ENBSeries](http://enbdev.com) or [Use Gaming Tweaks](https://github.com/PrincessAkira/Use-Gaming-Tweaks) - Settings Optimization Guides
 * ⭐ **[DisplayMagician](https://github.com/terrymacdonald/DisplayMagician)** or [AutoActions](https://github.com/Codectory/AutoActions) - Per-Game Display Profiles
+* ⭐ **[Magpie](https://github.com/Blinue/Magpie)** - Enable AMD FSR on Any Game or Any Device
 * [PC-Tuning](https://github.com/amitxv/PC-Tuning), [RagnoTech Optimization Catalog](https://ragnos1997.com/optimization-catalog/), [TroubleChute](https://www.youtube.com/c/TroubleChute/featured) or [GamingPCSetup](https://github.com/djdallmann/GamingPCSetup) - Gaming Optimization Guides
 * [LinkRunner](https://github.com/romjacket/rj_linkrunner) - Per-Game Settings Manager
 * [Calypto’s Latency Guide](https://docs.google.com/document/d/1c2-lUJq74wuYK1WrA_bIvgb89dUN0sj8-hO3vqmrau4/), [MoreFPS](https://morefps.net/), [cancerogenoslab](https://sites.google.com/view/cancerogenoslab/) or [MikeMartin](https://www.mikemartin.co/) - FPS / Latency Guides
@@ -3950,7 +3950,6 @@
 * [ISLC](https://www.wagnardsoft.com/ISLCw) - Remove Windows 10 RAM Stutters / [Tutorial](https://www.reddit.com/r/GlobalOffensive/comments/fca7lw/if_you_have_stutter_ingame_you_can_try_this_tool/fj9yx3h/)
 * [hidusbf](https://github.com/LordOfMice/hidusbf) - Mice Overclocking Software
 * [D3 Overrider](https://community.pcgamingwiki.com/files/file/84-d3doverrider/) - Force V-Sync / Triple Buffer
-* [Magpie](https://github.com/Blinue/Magpie) - Enable AMD FSR on Any Game / [Tutorial](https://youtu.be/gac7llDa18k)
 * [dlss-swap](https://github.com/beeradmoore/dlss-swapper) - Download, Manage & Swap DLSS
 * [FSR](https://rentry.co/FSR) - FidelityFX Super Resolution Mods
 * [dgVoodoo2](http://dege.freeweb.hu/dgVoodoo2/) - Glide & DirectX Graphics Wrapper
@@ -4364,7 +4363,7 @@
 
 ***
 
-## ▷  RD Clients
+## ▷  Remote Desktop
 
 * 🌐 **[VPS Comparison Chart](https://lowendstock.com/)** - VPS Comparisons
 * ⭐ **[RustDesk](https://rustdesk.com/)** / [GitHub](https://github.com/rustdesk/rustdesk)
@@ -7261,7 +7260,6 @@ Use [this](https://bitbucket.org/magnolia1234/bypass-paywalls-firefox-clean/src/
 * [Fuel.io](https://fuel.io/) - Vehicle Fuel Tracking
 * [Unified Remote](https://www.unifiedremote.com/) - Universal Remote
 * [Luna Sea](https://www.lunasea.app/) - Self-Hosted Media Controller
-* [Media Bar](https://play.google.com/store/apps/details?id=apps.ijp.mediabar) - Status Bar Media Controller
 * [HexViewer](https://github.com/Keidan/HexViewer) - Hex Viewer
 * [FlutterMarkdownEditor](https://github.com/adityar224/FlutterMarkdownEditor) - Markdown Editor
 * [markdownr](https://github.com/sanzoghenzo/markdownr) - Webpage to Markdown Converter
@@ -7273,7 +7271,7 @@ Use [this](https://bitbucket.org/magnolia1234/bypass-paywalls-firefox-clean/src/
 
 * ⭐ **[System Wide Adblocking](https://champagne.pages.dev/before-you-begin/important-tools/)** / [2](https://redd.it/oyfmr1) - System Wide Adblocking Guides
 * ⭐ **[AdGuard Premium](https://github.com/nbats/FMHYedit/blob/main/base64.md#adguard-premium)** - Adblocking App
-* ⭐ **[Cromite](https://github.com/uazo/cromite)**, [jQuarks](https://f-droid.org/packages/com.oF2pks.jquarks/) or [Monument](https://play.google.com/store/apps/details?id=br.marcelo.monumentbrowser) - Adblocking Browser / [Filter](https://github.com/xarantolus/filtrite)
+* ⭐ **[Cromite](https://github.com/uazo/cromite)** or [jQuarks](https://f-droid.org/packages/com.oF2pks.jquarks/) - Adblocking Browser / [Filter](https://github.com/xarantolus/filtrite)
 * ⭐ **[RedReader](https://github.com/QuantumBadger/RedReader)** or [Stealth](https://f-droid.org/packages/com.cosmos.unreddit/) / [2](https://gitlab.com/cosmosapps/stealth) - Ad Free Reddit Clients
 * ⭐ **uBlock Origin** - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/), [Yandex](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm) & [Kiwi](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm) 
 * ⭐ **[Hermit](https://play.google.com/store/apps/details?id=com.chimbori.hermitcrab)**, [NativeAlphaForAndroid](https://github.com/cylonid/NativeAlphaForAndroid), [Incognito](https://play.google.com/store/apps/details?id=md.elway.webapp) or [MultiApp](https://github.com/WaxMoon/MultiApp) - Web App Containers
@@ -7288,7 +7286,7 @@ Use [this](https://bitbucket.org/magnolia1234/bypass-paywalls-firefox-clean/src/
 * [Aerowitter](https://aerowitter.com/) - Ad-Free Twitter App
 * [MessengerEx](https://github.com/C10udburst/MessengerEx/) - Facebook Messenger Adblocker
 * [GoodbyeAds](https://github.com/jerryn70/GoodbyeAds) - Adblock Filters
-* [Xtra](https://github.com/crackededed/Xtra), [PurpleTV](https://purpletv.aeong.one/) / [Discord](https://discord.gg/wrU7Ea6wvr), [TwitchMod](https://t.me/pubTw) or [Twire](https://github.com/twireapp/Twire) - Ad Free Twitch Apps
+* [Xtra](https://github.com/crackededed/Xtra), [PurpleTV](https://purpletv.aeong.one/), [TwitchMod](https://t.me/pubTw) or [Twire](https://github.com/twireapp/Twire) - Ad Free Twitch Apps
 
 ***
 
@@ -7328,8 +7326,6 @@ Use [this](https://bitbucket.org/magnolia1234/bypass-paywalls-firefox-clean/src/
 * [NetGuard](https://www.netguard.me/) - Block Internet Access Per App 
 * [AirGuard](https://github.com/seemoo-lab/AirGuard) - AirTag Tracking Protection
 * [OpenContacts](https://f-droid.org/packages/opencontacts.open.com.opencontacts/) - Save Contacts to Separate Database
-* [Fake Contacts](https://github.com/BillDietrich/fake_contacts) - Generate Fake Contacts
-* [MaxLock](https://github.com/Maxr1998/MaxLock) - Lock Apps Behind Passwords
 * [Hypatia](https://gitlab.com/divested-mobile/hypatia) - Antivirus
 * [QUAD9 Connect](https://play.google.com/store/apps/details?id=com.quad9.aegis) - DNS Encryption 
 * [AFWall+](https://github.com/ukanth/afwall/), [Rethink App](https://github.com/celzero/rethink-app), [Karma](https://github.com/StarGW-net/karma-firewall) or [NoRoot Firewall](https://play.google.com/store/apps/details?id=app.greyshirts.firewall) - Firewalls
@@ -7338,35 +7334,24 @@ Use [this](https://bitbucket.org/magnolia1234/bypass-paywalls-firefox-clean/src/
 * [v2rayNG](https://github.com/2dust/v2rayNG) - Build Privacy Network
 * [Open SSTP Client](https://github.com/kittoku/Open-SSTP-Client) - SSTP Client
 * [FreezeYou](https://www.freezeyou.net/en-US/), [SuperFreezZ](https://superfreezz.gitlab.io/), [BatteryTool](https://github.com/Domi04151309/BatteryTool) or [Drowser](https://gitlab.com/juanitobananas/drowser) - Freeze App Background Activities
-* [SnoopSnitch](https://github.com/srlabs/snoopsnitch) - Check Mobile Network Security 
 * [SimpleLogin](https://github.com/simple-login/Simple-Login-Android) or [Anonaddy](https://gitlab.com/Stjin/anonaddy-android) - Email Forwarding
 * [Temp Email Apps](https://rentry.co/v92q6), [Guerilla Mail](https://f-droid.org/en/packages/cf.theonewiththebraid.guerrilla_mail/), [Temp Mail](https://play.google.com/store/apps/details?id=temporary.disposable.mail), [‎InstAddr](https://apps.apple.com/us/app/instaddr/id806157957), [Ten Minute Mail](https://play.google.com/store/apps/details?id=com.tenminutemail) or [‎InstAddr](https://play.google.com/store/apps/details?id=air.kukulive.mailnow) - Temp Mail Apps
 * [Maps](https://gitlab.com/divested-mobile/maps) - Privacy Focused Google Maps Wrapper
 * [Fake GPS Location](https://play.google.com/store/apps/details?id=com.evezzon.fakegps), [Android-Mock-Location](https://github.com/warren-bank/Android-Mock-Location) or [GPS JoyStick Guide](http://gpsjoystick.theappninjas.com/faq/) - Fake GPS Location 
 * [MetaRadar](https://github.com/Semper-Viventem/MetaRadar) - Track Devices Following You
 * [RadiusLocker](https://www.radiuslocker.co/) - Lock Phone When its not Near You
-* [WPS](https://gitlab.com/nuntius35/wps) - Lock Phone After Multiple Failed Logins
-* [Private Lock](https://github.com/wesaphzt/privatelock) or [WTMP](https://play.google.com/store/apps/details?id=com.wtmp.svdsoftware) - Detect When Phone is Touched
-* [Intruder Detector](https://play.google.com/store/apps/details?id=com.evezzon.intruderdetector) - Takes Photo of Phone Intruders
-* [XSCamera](https://play.google.com/store/apps/details?id=me.jagar.xscamera) - Hidden Camera Recorder
+* [WTMP](https://play.google.com/store/apps/details?id=com.wtmp.svdsoftware) - Detect When Phone is Touched
 * [TrustDevice-Android](https://github.com/trustdecision/trustdevice-android) - Create Device Identifiers
 * [Keyoxide](https://codeberg.org/Berker/keyoxide-flutter) - Verify Decentralized Cryptographic Identities
 * [Fritter](https://fritter.cc/) or [Squawker](https://github.com/j-fbriere/squawker) - Privacy Based Twitter Clients / [Redirect](https://github.com/AucT/twitter2nitter)
 * [Intra](https://play.google.com/store/apps/details?id=app.intra&amp;hl=en_US) - System Wide DoH for Android
 * [AnySoftKeyboard](https://anysoftkeyboard.github.io/) / [Git](https://github.com/AnySoftKeyboard/AnySoftKeyboard) or [Florisboard](https://github.com/florisboard/florisboard) - Incognito Keyboard
 * [Matsuri](https://github.com/MatsuriDayo/NekoBoxForAndroid) - Proxy Toolchains
-* [PubPhoto](https://github.com/stuartlangridge/pubphoto) - Share Photos without Sharing Number
-* [ScreenWings](https://schiffer.tech/screenwings-mobile.html) - Screen Protection
-* [ConfiBlur](https://play.google.com/store/apps/details?id=com.cooliehat.confiblur) - Blur Private Info in Screenshots
-* [Secure If](https://github.com/iternull/secure-if/) - USB Controller
 * [Silence](https://silence.im/) or [Partisan SMS](https://github.com/wrwrabbit/Partisan-SMS) - Encrypt SMS/MMS Messages
-* [Wickr](https://play.google.com/store/apps/details?id=com.wickr.pro&amp;hl=en), [MySudo](https://mysudo.com/), [Jami](https://jami.net/), [Syphon](https://syphon.org/), [Mesibo](https://play.google.com/store/apps/details?id=com.mesibo.mesiboapplication) or [Element](https://schildi.chat/android/) / [2](https://play.google.com/store/apps/details?id=im.vector.app) - Encrypted Messaging / Video Calls
+* [Jami](https://jami.net/), [Syphon](https://syphon.org/), [Mesibo](https://play.google.com/store/apps/details?id=com.mesibo.mesiboapplication) or [Element](https://schildi.chat/android/) / [2](https://play.google.com/store/apps/details?id=im.vector.app) - Encrypted Messaging / Video Calls
 * [SmallTalk](https://github.com/ouchadam/small-talk) - Matrix Client
-* [OVERSEC](https://www.oversec.io/) - Add Text / Image Encryption to any App
 * [adb-clear-packages](https://gist.github.com/noseratio/e3b136401965289c4aab40fa60f3be41) - Clear Android Packages Data
-* [SpoofCard](https://www.spoofcard.com/) - Disguise Caller ID
 * [PilferShushJammer](https://github.com/kaputnikGo/PilferShushJammer) - Microphone Jamming Techniques
-* [Catch the Man-in-the-Middle](https://play.google.com/store/apps/details?id=me.brax.certchecker) - Check if HTTPS Traffic is being Monitored
 * [apk-mitm](https://github.com/shroudedcode/apk-mitm) - HTTPS Inspector
 * [JustUseApp](https://justuseapp.com/) - Hide App Payments
 * [Gadget Bridge](https://gadgetbridge.org/) - Connect to Smartwatches without Vendor Apps / Accounts
@@ -7414,7 +7399,7 @@ Use [this](https://bitbucket.org/magnolia1234/bypass-paywalls-firefox-clean/src/
 * [Frost for Facebook](https://github.com/AllanWang/Frost-for-Facebook) or [LC_Reborn](https://t.me/s/Facebook_LC_Reborn) - Facebook Clients
 * [MessengerPro](https://github.com/Mino260806/MessengerPro) - Modded Facebook Messenger
 * [NoFBEventScraper](https://github.com/akaessens/NoFbEventScraper) - Scrape Facebook for Events without Account
-* [Nekogram X](https://github.com/NekoX-Dev/NekoX), [Nekogram](https://nekogram.app/), [TelegramAndroid](https://github.com/Forkgram/TelegramAndroid), [Catogram X](https://github.com/CatogramX/CatogramX), [Nagram](https://github.com/nextalone/nagram), [Telegraher](https://github.com/nikitasius/Telegraher/), [exteraGram](https://github.com/exteraSquad/exteraGram), [Cherrygram](https://github.com/arsLan4k1390/Cherrygram), [Nullgram](https://github.com/qwq233/Nullgram/), [MDGramYou](https://play.google.com/store/apps/details?id=org.telegram.mdgram) or [Telegram-FOSS](https://github.com/Telegram-FOSS-Team/Telegram-FOSS) - Telegram Clients
+* [Nekogram X](https://github.com/NekoX-Dev/NekoX), [Nekogram](https://nekogram.app/), [TelegramAndroid](https://github.com/Forkgram/TelegramAndroid), [Nagram](https://github.com/nextalone/nagram), [Telegraher](https://github.com/nikitasius/Telegraher/), [exteraGram](https://github.com/exteraSquad/exteraGram), [Cherrygram](https://github.com/arsLan4k1390/Cherrygram), [Nullgram](https://github.com/qwq233/Nullgram/), [MDGramYou](https://play.google.com/store/apps/details?id=org.telegram.mdgram) or [Telegram-FOSS](https://github.com/Telegram-FOSS-Team/Telegram-FOSS) - Telegram Clients
 * [Uploadgram](https://github.com/Uploadgram/app) - Telegram File Upload
 * [OpenInWA](https://github.com/SubhamTyagi/openinwa) or [Tellurium](https://play.google.com/store/apps/details?id=com.quadren.tellurium) - Number Free WhatsApp Chat
 * [WhatsappWebToGo](https://github.com/92lleo/WhatsappWebToGo) - Mobile WhatsApp Web Client
@@ -7465,7 +7450,7 @@ Use [this](https://bitbucket.org/magnolia1234/bypass-paywalls-firefox-clean/src/
 ## ▷ Android Camera
 
 * 🌐 **[Google Lens](https://lens.google/)** - Multiple Camera Tools
-* ⭐ **[SGCam](https://t.me/googlecameramodbyshamimdg)**, [googlecameraport](https://www.celsoazevedo.com/files/android/google-camera), [DMGC](https://thedise.me/dmgc/) or [Camator](https://gcamator.com/) - Google Cam Downloads / [Telegram](https://t.me/googlecameraport) / [Mods](https://apkw.ru/) / [XML Configs](https://t.me/xmlshamimmod)
+* [googlecameraport](https://www.celsoazevedo.com/files/android/google-camera), [DMGC](https://thedise.me/dmgc/) or [Camator](https://gcamator.com/) - Google Cam Downloads / [Telegram](https://t.me/googlecameraport) / [Mods](https://apkw.ru/) / [XML Configs](https://t.me/xmlshamimmod)
 * [Libre Camera](https://github.com/iakmds/librecamera), [ProofMode](https://gitlab.com/guardianproject/proofmode/proofmode-android) or [Open Camera](https://sourceforge.net/projects/opencamera/) - FOSS Camera Apps
 * [FreeDcam](https://github.com/KillerInk/FreeDcam) or [BlackMagic Camera](https://apps.apple.com/us/app/blackmagic-camera/id6449580241) - Extra Camera Features
 * [RecordYou](https://github.com/Bnyro/RecordYou) - Video / Voice Recorder
@@ -8055,7 +8040,6 @@ Use [this](https://bitbucket.org/magnolia1234/bypass-paywalls-firefox-clean/src/
 
 ## ▷ iOS Anime 
 
-* [AnimeNow](https://github.com/AnimeNow-Team/AnimeNow)
 * [NineAnimator](https://nineanimator.marcuszhou.com/) - [Discord](https://discord.gg/dzTVzeW)
 * [Ketsu](https://ketsu.app/download.html) - [Discord](https://discord.gg/gjcy6MQ)
 * [Tweaked Crunchyroll ++](http://www.iosemulatorspot.com/tweaked-crunchyroll/) - Tweaked Crunchyroll
@@ -8485,7 +8469,6 @@ features:
 * [Springer](https://link.springer.com/search?showAll=false&query=&facet-content-type=%22Book%22)
 * [Learn Anything / Books](https://github.com/learn-anything/books)
 * [Tradepub](https://knowfree.tradepub.com/)
-* [Ed_Books](https://t.me/Ed_Books)
 * [eBookRoom](https://t.me/eBookRoom)
 * [Libribook](https://libribook.com/)
 * [Directory of Open Access Books](https://www.doabooks.org/)
@@ -8829,11 +8812,9 @@ features:
 * [Synonym.com](https://www.synonym.com/) - Synonyms
 * [Feeels](https://feelu.vercel.app/) - Emotion Synonym Chart
 * [WikiDiff](https://wikidiff.com/) - Difference Between Any Words
-* [ReverseDictionary](https://reversedictionary.org/) or [OneLook Reverse](https://onelook.com/reverse-dictionary.shtml) - Search for Words Using Their Meanings
 * [DoesNotTranslate](https://doesnottranslate.com/) - Words with No Translation
 * [Tip of my Tounge](https://chir.ag/projects/tip-of-my-tongue/) - Find Words you Can't Remember
 * [Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/index.html), [IEP](https://iep.utm.edu/) or [nLab](https://ncatlab.org/) - Philosophy Encyclopedias / [Search](https://www.visualizingsep.com/)
-* [wehewehe](https://wehewehe.org/) - Hawaiian Dictionary
 * [TheIdioms](https://www.theidioms.com/) - Idiom Dictionary
 * [Lexipedia](https://www.lexipedia.com/) or [WordWeb](https://wordwebs.app/) - Word Connections
 * [RhymeZones](https://www.rhymezone.com/) or [Rhymer](https://rhymer.com/) - Rhyme Dictionary
@@ -8841,20 +8822,12 @@ features:
 * [TheDevilsDictionary](https://www.thedevilsdictionary.com/) - Cynical Dictionary
 * [TagDef](https://tagdef.com/en/) - Social Media Tag Dictionary
 * [KnowYourMeme](https://knowyourmeme.com/) - Meme Database
-* [Forvo](https://forvo.com/) or [HowJSay](https://howjsay.com/) - Pronunciation Dictionary
 * [IEoP](https://iep.utm.edu/fallacy/) - Fallacy Encyclopaedia
-* [OEIS](https://oeis.org/) - Encyclopedia of Integer Sequences
 * [Time Traveler](https://www.merriam-webster.com/time-traveler) - See when a word was first used in print
 * [Omniglot](https://www.omniglot.com/index.htm) - Writing Systems & Languages Encyclopedia
-* [swear-words](https://github.com/chucknorris-io/swear-words) or [WordSafety](http://wordsafety.com/) - Swear Word Indexes
-* [WordReference](https://www.wordreference.com/), [Glosbe](https://glosbe.com/) or [Reverso](https://reverso.net/) - Translation Dictionary
-* [SpanishDict](https://www.spanishdict.com/) - Spanish Translation Dictionary
-* [ASL Dictionary](https://www.signasl.org/) or [HandSpeak](https://www.handspeak.com/) - American Sign Language
-* [BSL Dictionary](https://www.signbsl.com/) - British Sign Language
+* [WordSafety](http://wordsafety.com/) - Swear Word Indexes
 * [FreeMdict](https://freemdict.com/) - Dictionary Downloads / [Archive](https://downloads.freemdict.com/)
-* [Goldendict](http://www.goldendict.org/) - Dictionary Program
 * [PyGlossary](https://github.com/ilius/pyglossary) - Convert Dictionary Files
-* [wikipedia_ql](https://github.com/zverok/wikipedia_ql) - Wiki Data Extraction
 
 ***
 
@@ -8968,24 +8941,18 @@ features:
 * [MangaEffect](https://mangaeffect.com/)
 * [FunManga](https://funmanga.com/)
 * [Manga Home](https://www.mangahome.com/)
-* [MangaDig](https://mangadig.com/)
 * [Mangaski](https://www.mangasaki.net//)
-* [Manhwafull](https://manhwafull.com/)
 * [DeathTollScans](https://www.deathtollscans.net/)
 * [Tritinia](https://tritinia.com/)
 * [MangaJar](https://mangajar.pro/)
 * [LilyManga](https://lilymanga.com/)
 * [NineManga](https://www.ninemanga.com)
-* [MangaYeh](https://mangayeh.com)
 * [Mangahasu](https://mangahasu.se/)
 * [MangaForest](https://mangaforest.me/) / [2](https://mangamirror.com/)
-* [KomikKid](https://www.komikid.com/)
 * [MangaFox](https://fanfox.net/)
 * [ReadM](https://readm.org/)
 * [CMReader](https://www.cmreader.info/)
 * [mangapill](https://mangapill.com/)
-* [projectsuki](https://projectsuki.com/)
-* [NineAnime](https://www.nineanime.com/category/)
 * [Anime-Sharing](https://www.anime-sharing.com/) - Anime / Manga Download Forum
 * [MP4DIRECTS](https://mp4directs.com/) - Manga / Light Novels Download Forum
 * [WhereCanIReadManga?](https://wherecanireadmanga.com/) - Legal
@@ -8993,8 +8960,7 @@ features:
 * [Manga APIs](https://rentry.co/manga-apis) - Manga Site API's
 * [Webcomic Reader](https://openuserjs.org/scripts/anka-213/Webcomic_Reader) - Preloads Images, Remembers Progress and Keyboard Support
 * [MangaEditor](https://moeka.me/mangaEditor/) - Online Manga Editor
-* [CBZ-Manga-Creator](https://github.com/PonyLucky/CBZ-Manga-Creator) - Image to CBZ Converter
-* [Manga Translator](https://chrome.google.com/webstore/detail/manga-translator/oooikipggipaohjibkmoiacmmlilgokn?hl=en), [manga-translator](https://github.com/cameronkinsella/manga-translator), [BallonsTranslator](https://github.com/dmMaze/BallonsTranslator/blob/master/README_EN.md), [Cotrans](https://cotrans.touhou.ai/) or [Scanlate](https://scanlate.io/) - Manga Translators
+* [manga-translator](https://github.com/cameronkinsella/manga-translator), [BallonsTranslator](https://github.com/dmMaze/BallonsTranslator/blob/master/README_EN.md), [Cotrans](https://cotrans.touhou.ai/) or [Scanlate](https://scanlate.io/) - Manga Translators
 * [TheJadedNetwork](https://thejadednetwork.com/sfx/) - Japanese SFX Translations / [PDF](https://drive.google.com/file/d/1ean3beoWJmz__yu67OqNa8CKNMlrvCSd/)
 * [Manga-Tagger](https://github.com/inpacchi/manga-tagger) or [Manga-Manager](https://github.com/MangaManagerORG/Manga-Manager) - Manga Managers
 
@@ -9012,6 +8978,7 @@ features:
 * [Zinmanga](https://zinmanga.com/)
 * [Manga SY](https://www.mangasy.com/)
 * [Mangatoon](https://mangatoon.mobi/)
+* [MangaDig](https://mangadig.com/)
 * [Novelmic](https://novelmic.com)
 * [Bibi Manga](https://bibimanga.com/)
 * [Mangatx](https://mangatx.com/)
@@ -12908,7 +12875,7 @@ Use any **[Base64 Decoding](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/stor
 * ⭐ **[Bypass ISP Blocks](https://rentry.co/enable-ech)** - Bypass ISP censorship with Firefox
 * [GoodbyeDPI](https://github.com/ValdikSS/GoodbyeDPI/) / [GUI](https://github.com/mguludag/GUI-for-GoodbyeDPI), [Green Tunnel](https://github.com/SadeghHayeri/GreenTunnel), [NETBRIGHT](https://github.com/yebekhe/NETBRIGHT) or [GFW-knocker](https://github.com/GFW-knocker/gfw_resist_tls_proxy) / [Test](https://www.howsmyssl.com/) - DPI Circumvention Local Proxies
 * [Hola Proxy](https://github.com/Snawoot/hola-proxy) - Alternative Client for Hola Free Proxy Service
-* [anonymoX](https://anonymox.net/en) - Free Proxy Service Browser Extension
+* [Hide.me Firefox](https://addons.mozilla.org/en-US/firefox/addon/hide-me-vpn-free-proxy/) / [Chrome](https://chromewebstore.google.com/detail/hideme-proxy/ohjocgmpmlfahafbipehkhbaacoemojp) or [anonymoX](https://anonymox.net/en) - Free Proxy Service Browser Extension
 * [Snowflake](https://snowflake.torproject.org/) - Tor Proxy Browser Extension
 * [SwitchyOmega](https://github.com/FelisCatus/SwitchyOmega) - Proxy Manager Browser Extension
 * [FoxyProxy](https://getfoxyproxy.org/), [Proxy Privacy Ruler](https://github.com/JustOff/proxy-privacy-ruler) - Proxy Manager Extensions for Firefox
@@ -15382,14 +15349,10 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://70.88.180.169:8
 * [FileBot](https://www.filebot.net/) - Data Automation
 * [MediaElch](https://www.kvibes.de/mediaelch/) - Data Automation
 * [TVNamer](https://github.com/dbr/tvnamer) or [TVRename](https://www.tvrename.com/) - TV File Data Automation
-* [Shoko](https://github.com/shokoanime) or [Anitomy](https://github.com/erengy/anitomy) - Anime File Data Automation
-* [theRenamer](http://therenamer.com/) - Bulk Renamer
+* [Shoko](https://github.com/shokoanime) - Anime File Data Automation
 * [Szyszka](https://github.com/qarmin/szyszka) - Bulk Renamer
-* [Massive File Renamer](https://github.com/IvanRF/MassiveFileRenamer) - Bulk Renamer
 * [Massren](https://github.com/laurent22/massren) - Bulk Renamer
-* [Renamer](https://github.com/Craftplacer/Renamer) - Bulk Renamer
 * [PowerRename](https://learn.microsoft.com/en-us/windows/powertoys/powerrename) - Bulk Renamer
-* [File Renamer Diff](https://github.com/soi013/FileRenamerDiff) - Bulk Renamer
 * [Ant Renamer](https://www.antp.be/software/renamer) - Bulk Renamer
 
 ***
@@ -15735,7 +15698,7 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://70.88.180.169:8
 ***
 ***
 
-**[Table of Contents](https://ibb.co/kKbz8kZ)** - For mobile users
+**[Table of Contents](https://ibb.co/w0gwn7M)** - For mobile users
 
 ***
 *** 
@@ -15843,7 +15806,6 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://70.88.180.169:8
 * ↪️ **[Security / Hacking News](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_security_.2F_hacking_news)**
 * ↪️ **[Health News Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_health_news)**
 * ↪️ **[Bypass Article Paywalls](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_read_paywalled_articles)**
-* ↪️ **[Article Summary Generators](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_text_rephrasing)**
 * ⭐ **[/m/news](https://www.reddit.com/user/nbatman/m/news/)** - News Multireddit
 * ⭐ **[PublicAlerts](https://google.org/publicalerts)** - Important News / Disaster Alerts
 * ⭐ **[TorrentFreak](https://torrentfreak.com/)** / [Telegram](https://t.me/torrentfreaks) - Piracy News
@@ -15986,118 +15948,6 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://70.88.180.169:8
 * [Chip Drop](https://getchipdrop.com/) - Free Mulch
 * [Hardiness Zones](https://upload.wikimedia.org/wikipedia/commons/a/a7/World_Hardiness_Zones.png) or [Plant Maps](https://www.plantmaps.com/) - Global Map of Hardiness Zones
 * [/r/Microgrowery](https://reddit.com/r/microgrowery/) - Cannabis Growing Community
-
-***
-
-# ► Health
-
-* 🌐 **[Awesome Mental Health](https://github.com/dreamingechoes/awesome-mental-health)** or [mentalillnessmouse](https://mentalillnessmouse.wordpress.com/helpfulresources/) - Mental Health Resources
-* 🌐 **[Evidence Based Training Wiki](https://www.reddit.com/r/EvidenceBasedTraining/wiki/index/)** - Evidence-Based Training Resources
-* ↪️ **[Health News](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_health_news)**
-* ↪️ **[Food Nutrition Scanners](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_nutrition_.2F_ingredients)**
-* ⭐ **[/r/Nutrition](https://www.reddit.com/r/nutrition/)** - Nutrition Subreddit
-* ⭐ **[Caffeine Calculator](https://caffeineinformer.com/death-by-caffeine)** - Caffeine Intake Calculator
-* ⭐ **[Dehydration Chart](https://i.ibb.co/b3YxZzr/921f6c843cf0.png)** - Dehydration Color Chart
-* ⭐ **[BMI Chart](https://i.ibb.co/bL65m8F/995c00ec75ba.png)** - Healthy BMI Graph
-* ⭐ **[Standard BMI Calculator](https://www.nhlbi.nih.gov/health/educational/lose_wt/BMI/bmicalc.htm)** - BMI Calculator
-* ⭐ **[Simple Science Fitness](https://ss.fitness/calculators)** or [SwoleHalla](https://www.swolehalla.com/) - Fitness Calculators
-* ⭐ **[/u/KNightNox Diagram](https://i.ibb.co/xCGRdM0/c3b977fa36fc.jpg)** - Zoomable Exercise Diagram
-* ⭐ **[Safe Substance](https://safesubstance.com/)**, [Drugs.com](https://www.drugs.com/) or [DrugBank](https://go.drugbank.com/) - Drug Information / Side Effects
-* ⭐ **[/r/NoSurf](https://www.reddit.com/r/nosurf/wiki/index)** - Digital Detox Community / [Discord](https://discordapp.com/invite/QFhXt2F)
-* [healthgrades](https://www.healthgrades.com/right-care/health-content-a-z), [epocrates](https://online.epocrates.com/), [medlineplus](https://medlineplus.gov/), [merckmanuals](https://www.merckmanuals.com/), [mayoclinic](https://www.mayoclinic.org/), [rxlist](https://www.rxlist.com/), [nejm](https://www.nejm.org/), [ncbi](https://www.ncbi.nlm.nih.gov/pmc/), [hhs](https://www.hhs.gov/), [nih](https://www.nih.gov/), [cdc](https://www.cdc.gov/) - Government Health Resources
-* [osh](https://www.osh.net/) - Occupational Health and Safety Resources
-* [CancerFactFinder](https://cancerfactfinder.org/) - Cancer Fact Search
-* [Nomie](https://v5.nomie.app/), [Koduko](https://github.com/Mazahir26/koduko) or [Respawn](https://respawn.pro/) - Habit / Mood Trackers
-* [BreakFree](https://breakfree-2c089.web.app/) - Break Smoking Habits
-* [Sobriety](https://github.com/KiARC/Sobriety) - Sobriety Tracker
-* [NutritionFacts.org](https://nutritionfacts.org/) - Video Library for Latest Health-based Research
-* [The Nutrition Source](https://www.hsph.harvard.edu/nutritionsource/) - Harvard University Health Website
-* [Liam Rosen's Fitness Guide](https://liamrosen.com/fitness.html) - Beginners Health & Fitness Guide
-* [jamesflorentino-fitness](https://github.com/jamesflorentino/fitness) or [AMMFitness](https://www.ammfitness.co.uk/) - Fitness / Nutrition Info 
-* [The Fitness Wiki](https://thefitness.wiki/) - Fitness Information Wiki
-* [Google Fit](https://www.google.com/fit/) - Activity Coach
-* [No Equipment Ab Exercises](https://i.ibb.co/YdNy3K2/12df795c3938.jpg) - Ab Exercise Diagram
-* [fastnfitness](https://github.com/brodeurlv/fastnfitness) - Track Your Exercise Progress
-* [CalorieScope](https://f-droid.org/packages/org.dynamicsoft.caloriescope/) or [PFCTE](https://github.com/SecUSo/privacy-friendly-circuit-training-exercises) - Exercise & Activity Tracker
-* [ExRx.net](https://exrx.net/) - Exercise Resources
-* [Cronometer](https://cronometer.com/), [Energize](https://codeberg.org/epinez/Energize/) or [Waistline](https://github.com/davidhealey/waistline) - Track Nutrition & Calories
-* [MyFoodData](https://www.myfooddata.com) - Food Nutrition Tools
-* [Food-E App](https://github.com/SuhasDissa/Food-E-App) - Food Additives Database App
-* [wger](https://wger.de/) - Self-Hosted Workout, Nutrition / Weight App / [GitHub](https://github.com/wger-project/wger)
-* [Liquid Drink](https://play.google.com/store/apps/details?id=com.xpp.drink) - Liquid Intake Tracker
-* [Daily Dozen](https://github.com/nutritionfactsorg/daily-dozen-android) - Daily Diet Recommendations / Android
-* [EatThisMuch](https://www.eatthismuch.com/), [FitMenCook](https://fitmencook.com/) or [MealPrePro](https://mealpreppro.com/) - Diet Tool / iOS / Android 
-* [Examine.com](https://examine.com/) - Supplement & Nutrition Analysis
-* [Child Nutrition](https://www.coursera.org/learn/childnutrition) - Child Nutrition / Cooking Course 
-* [Kids Health](https://www.kidshealth.org/) - Kids Health Information
-* [openScale](https://f-droid.org/packages/com.health.openscale/) - Weight & Body Metrics Tracker
-* [Effective Fitness](https://www.e-fitness.org/) - Fitness Discussion / [Discord](https://discord.gg/fitness)
-* [SailRabbit](https://www.sailrabbit.com/bmr/) - BMR / TDEE Calculator
-* [/r/BodyweightFitness](https://www.reddit.com/r/BodyweightFitness) - Bodyweight Fitness Subreddit / [Discord](https://discord.gg/bwf)
-* [Start Bodyweight](http://www.startbodyweight.com/) - Bodyweight Training
-* [Bodyweight Fitness Progressions](https://docs.google.com/spreadsheets/d/1a8tlZ-zbF695HA3Lmm20OIYeYYxo1lmUOczUXKLoL4s/)
-* [/r/LoseIt](https://www.reddit.com/r/loseit/) - Weight Loss Subreddit
-* [MOVE! Coach](https://mobile.va.gov/app/move-coach) - Weight Loss Program
-* [Weight Loss Side Effects](https://weight-loss-side-effects.netlify.app/) - Weight Loss Side Effect Mitigation
-* [BodyVisualizer](https://bodyvisualizer.com/) - Exercise Benefit Visualization
-* [Muscleandstrength](https://muscleandstrength.com/) or [Feeel](https://gitlab.com/enjoyingfoss/feeel) - Workout Plans & Tools
-* [/r/GainIt](https://www.reddit.com/r/gainit/) - Healthy Weight Gain Subreddit
-* [/r/Fexibility](https://www.reddit.com/r/flexibility/) - Flexibility Subreddit
-* [My Pacer](https://www.mypacer.com/) - Fitness App / Pedometer
-* [MyFitnessPal](https://www.myfitnesspal.com/) - Fitness / Health App
-* [FitoTrack](https://codeberg.org/jannis/FitoTrack) or [openScale](https://github.com/oliexdev/openScale) - Fitness Trackers
-* [Liftosaur](https://www.liftosaur.com/) - Weight Lifting Tracker / [GitHub](https://github.com/astashov/liftosaur)
-* [MuscleWiki](https://musclewiki.com/) - Muscle / Exercise Information Tool
-* [SPSS Tutorials](https://www.spss-tutorials.com/) - SPSS Practice & Examples
-* [Fitness Blender](https://www.fitnessblender.com/videos?exclusive%5B%5D=0) - Workout Videos
-* [Fitocracy](https://www.fitocracy.com/) or [Workout.lol](https://workout.lol/) - Create Workout Plans
-* [DAREBEE](https://darebee.com/) - Fitness Plans / Workouts
-* [Hevy](https://www.hevyapp.com/), [Iron](https://github.com/kabouzeid/Iron), [Massive](https://gitea.presley.nz/brandon.presley/Massive), [GymRoutines](https://codeberg.org/noahjutz/GymRoutines), [Boostcamp](https://www.boostcamp.app/) or [FitHero](https://fithero.app/) - Workout Trackers
-* [OpenTrack](https://opentracksapp.com/) - Sports Tracking App
-* [GoldenCheetah](https://www.goldencheetah.org/), [AAT](https://bailu.ch/aat/) or [BikeComputer](https://f-droid.org/packages/de.nulide.bikecomputer/) - Cycling / Biking Trackers
-* [Eurovelo](https://en.eurovelo.com/) - European Cycling Routes
-* [AllTrails](https://www.alltrails.com/) - Hiking Routes
-* [MapMyWalk](https://www.mapmywalk.com/) - Walking Tracker
-* [RunnerUp](https://github.com/jonasoreland/runnerup) or [Strava](https://www.strava.com/) - Run Trackers
-* [Bikemap](https://www.bikemap.net/) - Running Routes
-* [Charity Miles](https://charitymiles.org/) - Donate to Charity While Running / Biking
-* [Zombies, Run!](https://apps.apple.com/us/app/zombies-run/id503519713) - Zombie Running Adventure Game
-* [Runlytics](https://www.runlytics.app/) - Running Analytics
-* [Bone Health Tracker](https://bonehealthtracker.com/) - Track Bone Health
-* [Plees Tracker](https://github.com/vmiklos/plees-tracker) - Sleep Tracker
-* [Benefits of Good Posture](https://youtu.be/OyK0oE5rwFY) - Posture Importance Lesson
-* [StuffThatWorks](https://www.stuffthatworks.health/) - Chronic Condition Info / Treatments
-* [Tone-Deafness Test](https://www.themusiclab.org/quizzes/td) - Pitch Perception Test
-* [INCIDecoder](https://incidecoder.com/) - Skincare Ingredient Lists
-* [Healthline](https://www.healthline.com/health/sore-tongue-remedy) - Remedies for Sores on Tongue
-* [You feel like shit.](https://philome.la/jace_harr/you-feel-like-shit-an-interactive-self-care-guide/play/index.html) - Interactive Self Care Guide
-* [deskspace](https://npckc.itch.io/deskspace) - Self-Care App
-* [DrugFree](https://drugfree.org/) - Drug Abuse Prevention & Recovery Help
-* [Mindfulness Coach](https://mobile.va.gov/app/mindfulness-coach) - Mindfulness / Stress Reduction Tips
-* [Coping Skills Masterlist](https://docs.google.com/document/d/1KI1kzj6Bjx_O3ggYXfgEuTtOsLiCW0V-JeWpTyX5OOU/) - Mental Health Coping Skills
-* [Zen Habits](https://zenhabits.net/) - Develop Zen Habits
-* [Year In Pixels](https://year-in-pixels.glitch.me/) - Mood Tracking Calendar
-* [Did I Take My Meds?](https://github.com/CorruptedArk/did-i-take-my-meds) - Medical Data Log
-* [Simpill](https://gitlab.com/simpilldev/simpill) - Medication Reminders
-* [Insomnia Coach](https://mobile.va.gov/app/insomnia-coach) - Insomnia Prevention Tips
-* [eXHALeR](https://www.xhalr.com/) - Yoga / Meditation Breathing Tool 
-* [Medito](https://github.com/meditohq/medito-app) or [Heartfulness](https://www.heartfulnessapp.org/) - Meditation App
-* [Meditation Timer](https://meditation.koti.cloud/) - Meditation Timer / Session Tracker
-* [PixelThoughts](https://www.pixelthoughts.co/) - 60 Second Relaxation Tool
-* [One Mind PsyberGuide](https://onemindpsyberguide.org/) - Mental Health App Reviews
-* [7 Cups](https://www.7cups.com/) or [OnlineCounselling4u](https://www.onlinecounselling4u.com/) - Free Counseling & Therapy
-* [Online Psych Services](https://redd.it/nryig4) - Centers Offering Free Online Psych Services
-* [Balance](https://balance.dvy.io/) - Challenge Anxious Thoughts w/ AI
-* [babycenter](https://www.babycenter.com/) - Pregnancy and Parenting Resources
-* [Pregnancy Calculator](https://americanpregnancy.org/resources/pregnancy-calculator/) - Due Date Calculator
-* [DoItRight](https://doitright.ph/) or [Scarleteen](https://www.scarleteen.com/) - Sex Education Resources
-* [Euki](https://eukiapp.com/) - Sexual / Reproductive Health App
-* [Abortion Resources](https://redd.it/phrcrn) / [2](https://redd.it/vm56bs), [PlannedParenthood](https://www.plannedparenthood.org/) or [Safe2Choose](https://safe2choose.org/) - Abortion Resources
-* [WomenOnWeb](https://www.womenonweb.org/) - Free Abortion Pills
-* [Tubal Sterilization](https://docs.google.com/spreadsheets/d/1Djia_WkrVO3S4jKn6odNwQk7pOcpcL4x00FMNekrb7Q/) - Tubal Sterilization Gynecologists
-* [Erin's Informed Consent HRT Map](https://redd.it/d6p05q) - Informed Consent HRT Clinics
-* [Drip](https://bloodyhealth.gitlab.io) - Open Source E2EE Period Tracking App
-* [What Dogs Can Eat](https://www.pawmenow.com/what-dogs-can-eat/) - Search Safe Human Food for Dogs
 
 ***
 
@@ -16379,51 +16229,137 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://70.88.180.169:8
 
 ***
 
-# ► Fonts
+# ► Health
 
-* ↪️ **[Font Download Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_font_sites)**
-* ↪️ **[Unicode Font Generators](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_unicode_font_generators)**
-* ⭐ **[Font Download Guide](https://redd.it/8tqfg6)**
-* ⭐ **[Fontogen](https://github.com/SerCeMan/fontogen)** - Custom AI Font Generator
-* ⭐ **[TypeTrials](https://typetrials.com/)** - Variable Font Playground
-* ⭐ **[Nerd Fonts](https://www.nerdfonts.com/)** - Iconic Font Aggregator
-* ⭐ **[Make WordArt](https://www.makewordart.com/)**, [FlameText](https://www10.flamingtext.com/), [MakeText](https://maketext.io/), [TextGiraffe](https://www.textgiraffe.com/), [Text Pro](https://textpro.me/) or [CoolText](https://cooltext.com/) - WordArt Generators
-* ⭐ **[WhatTheFont](https://www.myfonts.com/WhatTheFont/)**, [Identifont](http://www.identifont.com/), [WhatFont](https://www.chengyinliu.com/whatfont.html), [Fonty.io](https://fonty.io/) or [What Font Is](https://www.whatfontis.com/) - Font Identification Tools
-* ⭐ **[FontDrop](https://fontdrop.info/)** - Analyze Font Files
-* [Fork-Awesome](https://forkaweso.me/Fork-Awesome/) - Font Toolkit
-* [Typewolf](https://www.typewolf.com/) or [Typ.io](https://typ.io/) - Trending Website Fonts
-* [DS Fusion](https://ds-fusion.github.io/) - AI Typography Generator
-* [Formito](https://formito.com/tools/logo) - Typography Logo Maker
-* [FontFlipper](https://fontflipper.com/) - Add Text to images
-* [enFont](https://enfont.javierarce.com/), [Calligraphr](https://www.calligraphr.com/en/) or [Fontstruct](https://fontstruct.com/) - Custom Font Creators
-* [Phase](https://www.eliashanzer.com/phase/) - Variable Fonts Generator
-* [V-Fonts](https://v-fonts.com/) - Variable Fonts Tester
-* [Fontjoy](https://experiments.withgoogle.com/fontjoy) - Generate Font Combinations
-* [FontSprite](https://adamstrange.itch.io/fontsprite) - FonstSprite Editor
-* [Textcraft](https://textcraft.net/) or [TextDrom](https://en.textdrom.com/) - Styled Font Generator
-* [Cava's Pixel Resources](https://caveras.net/) - Pixel Fonts
-* [Oldschool PC Fonts](https://int10h.org/oldschool-pc-fonts/) - Oldschool PC Fonts
-* [Textanim](https://textanim.com/) or [Space Type Generator](https://spacetypegenerator.com/) - Animated Text Generator 
-* [3DText2GIF](https://3dtext2gif.com/) or [TextsStudio](https://textstudio.co/) - Animated 3D Text Generator
-* [Batname](https://batname.vercel.app/) - Batman (2022) Font Generator
-* [Codeface](https://github.com/chrissimpkins/codeface) - Fonts for Coding
-* [Metropolis](https://github.com/dw5/Metropolis) - Modern Typeface
-* [FiraCode](https://github.com/tonsky/FiraCode), [Cascadia Code](https://github.com/microsoft/cascadia-code) or [Maple Font](https://github.com/subframe7536/Maple-font) - Monospace Fonts
-* [NFG's Arcade Font Maker](https://nfggames.com/games/fontmaker/) or [Arcade Font Writer](https://arcade.photonstorm.com/) - Arcade Font Engine
-* [Glitch](https://glitchtextgenerator.com/) - Glitch Text Generator
-* [Text Color Fader](https://patorjk.com/text-color-fader/) - Rainbow Text Generator
-* [Handwrite](https://github.com/cod-ed/handwrite) - Generate Font from Handwriting
-* [JoyPixels](https://www.joypixels.com/) - Emoji Font Generator
-* [MacType](https://github.com/snowie2000/mactype/releases) - Use Mac fonts on Windows
-* [Picas](https://picas.vercel.app/) - Google Font Logo Generator
-* [Bitfontmaker2](https://pentacom.jp/pentacom/bitfontmaker2/) - BitFont Creator
-* [FontJoy](https://fontjoy.com/) - Font Pairings Generator
-* [Typerip](https://badnoise.net/TypeRip/) - Adobe Font Ripper / [GitHub](https://github.com/CodeZombie/TypeRip)
-* [FontEdit](https://github.com/ayoy/fontedit), [glif](https://github.com/MFEK/glif), [Glyphr Studio](https://www.glyphrstudio.com/), [Bird Font](https://birdfont.org/) or [Font Forge](https://fontforge.org/en-US/) - Font Editors
-* [Transfonter](https://transfonter.org/) - Font Converter
-* [FontBase](https://fontba.se/) or [Xiles](https://www.xiles.app/) - Font Manager
-* [ShapeCatcher](https://shapecatcher.com/) - Unicode Identification
-* [Font List](https://wavian.com/font-list.html) or [So You Need A Typeface](https://ianli.github.io/so-you-need-a-typeface/) - Examples of Font Styles
+## ▷ Mental Health
+
+* 🌐 **[Awesome Mental Health](https://github.com/dreamingechoes/awesome-mental-health)** or [mentalillnessmouse](https://mentalillnessmouse.wordpress.com/helpfulresources/) - Mental Health Resources
+* [Nomie](https://v5.nomie.app/), [Koduko](https://github.com/Mazahir26/koduko) or [Respawn](https://respawn.pro/) - Habit / Mood Trackers
+* [You feel like shit.](https://philome.la/jace_harr/you-feel-like-shit-an-interactive-self-care-guide/play/index.html) - Interactive Self Care Guide
+* [deskspace](https://npckc.itch.io/deskspace) - Self-Care App
+* [Mindfulness Coach](https://mobile.va.gov/app/mindfulness-coach) - Mindfulness / Stress Reduction Tips
+* [Coping Skills Masterlist](https://docs.google.com/document/d/1KI1kzj6Bjx_O3ggYXfgEuTtOsLiCW0V-JeWpTyX5OOU/) - Mental Health Coping Skills
+* [Zen Habits](https://zenhabits.net/) - Develop Zen Habits
+* [Year In Pixels](https://year-in-pixels.glitch.me/) - Mood Tracking Calendar
+* [Did I Take My Meds?](https://github.com/CorruptedArk/did-i-take-my-meds) - Medical Data Log
+* [Simpill](https://gitlab.com/simpilldev/simpill) - Medication Reminders
+* [Insomnia Coach](https://mobile.va.gov/app/insomnia-coach) - Insomnia Prevention Tips
+* [eXHALeR](https://www.xhalr.com/) - Yoga / Meditation Breathing Tool 
+* [Medito](https://github.com/meditohq/medito-app) or [Heartfulness](https://www.heartfulnessapp.org/) - Meditation App
+* [Meditation Timer](https://meditation.koti.cloud/) - Meditation Timer / Session Tracker
+* [PixelThoughts](https://www.pixelthoughts.co/) - 60 Second Relaxation Tool
+* [One Mind PsyberGuide](https://onemindpsyberguide.org/) - Mental Health App Reviews
+* [7 Cups](https://www.7cups.com/) or [OnlineCounselling4u](https://www.onlinecounselling4u.com/) - Free Counseling & Therapy
+* [Online Psych Services](https://redd.it/nryig4) - Centers Offering Free Online Psych Services
+* [Balance](https://balance.dvy.io/) - Challenge Anxious Thoughts w/ AI
+* [Plees Tracker](https://github.com/vmiklos/plees-tracker) - Sleep Tracker
+
+***
+
+## ▷ Physical Health
+
+* 🌐 **[Evidence Based Training Wiki](https://www.reddit.com/r/EvidenceBasedTraining/wiki/index/)** - Evidence-Based Training Resources
+* ↪️ **[Health News](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_health_news)**
+* ⭐ **[Simple Science Fitness](https://ss.fitness/calculators)** or [SwoleHalla](https://www.swolehalla.com/) - Fitness Calculators
+* ⭐ **[/u/KNightNox Diagram](https://i.ibb.co/xCGRdM0/c3b977fa36fc.jpg)** - Zoomable Exercise Diagram
+* [healthgrades](https://www.healthgrades.com/right-care/health-content-a-z), [epocrates](https://online.epocrates.com/), [medlineplus](https://medlineplus.gov/), [merckmanuals](https://www.merckmanuals.com/), [mayoclinic](https://www.mayoclinic.org/), [rxlist](https://www.rxlist.com/), [nejm](https://www.nejm.org/), [ncbi](https://www.ncbi.nlm.nih.gov/pmc/), [hhs](https://www.hhs.gov/), [nih](https://www.nih.gov/), [cdc](https://www.cdc.gov/) - Government Health Resources
+* [osh](https://www.osh.net/) - Occupational Health and Safety Resources
+* [CancerFactFinder](https://cancerfactfinder.org/) - Cancer Fact Search
+* [INCIDecoder](https://incidecoder.com/) - Skincare Ingredient Lists
+* [Liam Rosen's Fitness Guide](https://liamrosen.com/fitness.html) - Beginners Health & Fitness Guide
+* [jamesflorentino-fitness](https://github.com/jamesflorentino/fitness) or [AMMFitness](https://www.ammfitness.co.uk/) - Fitness / Nutrition Info 
+* [The Fitness Wiki](https://thefitness.wiki/) - Fitness Information Wiki
+* [Google Fit](https://www.google.com/fit/) - Activity Coach
+* [No Equipment Ab Exercises](https://i.ibb.co/YdNy3K2/12df795c3938.jpg) - Ab Exercise Diagram
+* [fastnfitness](https://github.com/brodeurlv/fastnfitness) - Track Your Exercise Progress
+* [ExRx.net](https://exrx.net/) - Exercise Resources
+* [wger](https://wger.de/) - Self-Hosted Workout, Nutrition / Weight App / [GitHub](https://github.com/wger-project/wger)
+* [openScale](https://f-droid.org/packages/com.health.openscale/) - Weight & Body Metrics Tracker
+* [Effective Fitness](https://www.e-fitness.org/) - Fitness Discussion / [Discord](https://discord.gg/fitness)
+* [SailRabbit](https://www.sailrabbit.com/bmr/) - BMR / TDEE Calculator
+* [/r/BodyweightFitness](https://www.reddit.com/r/BodyweightFitness) - Bodyweight Fitness Subreddit / [Discord](https://discord.gg/bwf)
+* [Start Bodyweight](http://www.startbodyweight.com/) - Bodyweight Training
+* [Bodyweight Fitness Progressions](https://docs.google.com/spreadsheets/d/1a8tlZ-zbF695HA3Lmm20OIYeYYxo1lmUOczUXKLoL4s/)
+* [/r/LoseIt](https://www.reddit.com/r/loseit/) - Weight Loss Subreddit
+* [MOVE! Coach](https://mobile.va.gov/app/move-coach) - Weight Loss Program
+* [Weight Loss Side Effects](https://weight-loss-side-effects.netlify.app/) - Weight Loss Side Effect Mitigation
+* [BodyVisualizer](https://bodyvisualizer.com/) - Exercise Benefit Visualization
+* [Muscleandstrength](https://muscleandstrength.com/) or [Feeel](https://gitlab.com/enjoyingfoss/feeel) - Workout Plans & Tools
+* [/r/GainIt](https://www.reddit.com/r/gainit/) - Healthy Weight Gain Subreddit
+* [/r/Fexibility](https://www.reddit.com/r/flexibility/) - Flexibility Subreddit
+* [My Pacer](https://www.mypacer.com/) - Fitness App / Pedometer
+* [MyFitnessPal](https://www.myfitnesspal.com/) - Fitness / Health App
+* [CalorieScope](https://f-droid.org/packages/org.dynamicsoft.caloriescope/) or [PFCTE](https://github.com/SecUSo/privacy-friendly-circuit-training-exercises) - Exercise & Activity Tracker
+* [FitoTrack](https://codeberg.org/jannis/FitoTrack) or [openScale](https://github.com/oliexdev/openScale) - Fitness Trackers
+* [Liftosaur](https://www.liftosaur.com/) - Weight Lifting Tracker / [GitHub](https://github.com/astashov/liftosaur)
+* [MuscleWiki](https://musclewiki.com/) - Muscle / Exercise Information Tool
+* [SPSS Tutorials](https://www.spss-tutorials.com/) - SPSS Practice & Examples
+* [Fitness Blender](https://www.fitnessblender.com/videos?exclusive%5B%5D=0) - Workout Videos
+* [Fitocracy](https://www.fitocracy.com/) or [Workout.lol](https://workout.lol/) - Create Workout Plans
+* [DAREBEE](https://darebee.com/) - Fitness Plans / Workouts
+* [Hevy](https://www.hevyapp.com/), [Iron](https://github.com/kabouzeid/Iron), [Massive](https://gitea.presley.nz/brandon.presley/Massive), [GymRoutines](https://codeberg.org/noahjutz/GymRoutines), [Boostcamp](https://www.boostcamp.app/) or [FitHero](https://fithero.app/) - Workout Trackers
+* [OpenTrack](https://opentracksapp.com/) - Sports Tracking App
+* [GoldenCheetah](https://www.goldencheetah.org/), [AAT](https://bailu.ch/aat/) or [BikeComputer](https://f-droid.org/packages/de.nulide.bikecomputer/) - Cycling / Biking Trackers
+* [Eurovelo](https://en.eurovelo.com/) - European Cycling Routes
+* [AllTrails](https://www.alltrails.com/) - Hiking Routes
+* [MapMyWalk](https://www.mapmywalk.com/) - Walking Tracker
+* [RunnerUp](https://github.com/jonasoreland/runnerup) or [Strava](https://www.strava.com/) - Run Trackers
+* [Bikemap](https://www.bikemap.net/) - Running Routes
+* [Charity Miles](https://charitymiles.org/) - Donate to Charity While Running / Biking
+* [Zombies, Run!](https://apps.apple.com/us/app/zombies-run/id503519713) - Zombie Running Adventure Game
+* [Runlytics](https://www.runlytics.app/) - Running Analytics
+* [Bone Health Tracker](https://bonehealthtracker.com/) - Track Bone Health
+* [Benefits of Good Posture](https://youtu.be/OyK0oE5rwFY) - Posture Importance Lesson
+* [Healthline](https://www.healthline.com/health/sore-tongue-remedy) - Remedies for Sores on Tongue
+* [StuffThatWorks](https://www.stuffthatworks.health/) - Chronic Condition Info / Treatments
+* [Tone-Deafness Test](https://www.themusiclab.org/quizzes/td) - Pitch Perception Test
+
+***
+
+## ▷ Nutritional Health
+
+* ↪️ **[Food Nutrition Scanners](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_nutrition_.2F_ingredients)**
+* ⭐ **[/r/Nutrition](https://www.reddit.com/r/nutrition/)** - Nutrition Subreddit
+* ⭐ **[Caffeine Calculator](https://caffeineinformer.com/death-by-caffeine)** - Caffeine Intake Calculator
+* ⭐ **[Dehydration Chart](https://i.ibb.co/b3YxZzr/921f6c843cf0.png)** - Dehydration Color Chart
+* ⭐ **[BMI Chart](https://i.ibb.co/bL65m8F/995c00ec75ba.png)** - Healthy BMI Graph
+* ⭐ **[Standard BMI Calculator](https://www.nhlbi.nih.gov/health/educational/lose_wt/BMI/bmicalc.htm)** - BMI Calculator
+* [NutritionFacts.org](https://nutritionfacts.org/) - Video Library for Latest Health-based Research
+* [The Nutrition Source](https://www.hsph.harvard.edu/nutritionsource/) - Harvard University Health Website
+* [Liquid Drink](https://play.google.com/store/apps/details?id=com.xpp.drink) - Liquid Intake Tracker
+* [Daily Dozen](https://github.com/nutritionfactsorg/daily-dozen-android) - Daily Diet Recommendations / Android
+* [EatThisMuch](https://www.eatthismuch.com/), [FitMenCook](https://fitmencook.com/) or [MealPrePro](https://mealpreppro.com/) - Diet Tool / iOS / Android 
+* [Examine.com](https://examine.com/) - Supplement & Nutrition Analysis
+* [Cronometer](https://cronometer.com/), [Energize](https://codeberg.org/epinez/Energize/) or [Waistline](https://github.com/davidhealey/waistline) - Track Nutrition & Calories
+* [MyFoodData](https://www.myfooddata.com) - Food Nutrition Tools
+* [Food-E App](https://github.com/SuhasDissa/Food-E-App) - Food Additives Database App
+* [Child Nutrition](https://www.coursera.org/learn/childnutrition) - Child Nutrition / Cooking Course 
+* [Kids Health](https://www.kidshealth.org/) - Kids Health Information
+* [What Dogs Can Eat](https://www.pawmenow.com/what-dogs-can-eat/) - Search Safe Human Food for Dogs
+
+***
+
+## ▷ Sexual Health
+
+* [babycenter](https://www.babycenter.com/) - Pregnancy and Parenting Resources
+* [Pregnancy Calculator](https://americanpregnancy.org/resources/pregnancy-calculator/) - Due Date Calculator
+* [DoItRight](https://doitright.ph/) or [Scarleteen](https://www.scarleteen.com/) - Sex Education Resources
+* [Euki](https://eukiapp.com/) - Sexual / Reproductive Health App
+* [Abortion Resources](https://redd.it/phrcrn) / [2](https://redd.it/vm56bs), [PlannedParenthood](https://www.plannedparenthood.org/) or [Safe2Choose](https://safe2choose.org/) - Abortion Resources
+* [WomenOnWeb](https://www.womenonweb.org/) - Free Abortion Pills
+* [Tubal Sterilization](https://docs.google.com/spreadsheets/d/1Djia_WkrVO3S4jKn6odNwQk7pOcpcL4x00FMNekrb7Q/) - Tubal Sterilization Gynecologists
+* [Erin's Informed Consent HRT Map](https://redd.it/d6p05q) - Informed Consent HRT Clinics
+* [Drip](https://bloodyhealth.gitlab.io) - Open Source E2EE Period Tracking App
+
+***
+
+## ▷ Detoxing
+
+* ⭐ **[Safe Substance](https://safesubstance.com/)**, [Drugs.com](https://www.drugs.com/) or [DrugBank](https://go.drugbank.com/) - Drug Information / Side Effects
+* ⭐ **[/r/NoSurf](https://www.reddit.com/r/nosurf/wiki/index)** - Digital Detox Community / [Discord](https://discordapp.com/invite/QFhXt2F)
+* [BreakFree](https://breakfree-2c089.web.app/) - Break Smoking Habits
+* [Sobriety](https://github.com/KiARC/Sobriety) - Sobriety Tracker
+* [DrugFree](https://drugfree.org/) - Drug Abuse Prevention & Recovery Help
 
 ***
 
@@ -17322,6 +17258,7 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://70.88.180.169:8
 * [Mathcha](https://www.mathcha.io/) - Online Math Editor
 * [EquatIO](https://chrome.google.com/webstore/detail/equatio-math-made-digital/hjngolefdpdnooamgdldlkjgmdcmcjnc) - Math Equation Creator
 * [SequenceDB](https://sequencedb.net/) - Sequence Machine
+* [OEIS](https://oeis.org/) - Encyclopedia of Integer Sequences
 * [Giac/Xcas](https://www-fourier.ujf-grenoble.fr/~parisse/giac.html) - Algebra System
 * [Algebra Rules](https://algebrarules.com/) - Learn Algebra Rules
 * [Weboasis Convert](https://weboasis.app/convert/) - Conversion Calculators
@@ -17678,10 +17615,13 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://70.88.180.169:8
 * 🌐 **[LexiLogos](https://www.lexilogos.com/english/index.htm)** - Multi-Language Dictionary Index
 * ↪️ **[Language Learning Networks](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_language_learning_networks)**
 * ↪️ **[Languages & Linguistics](https://github.com/nbats/FMHYedit/blob/main/base64.md#languages--linguistics)**
+* ↪️ **[Translation Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools#wiki_.25B7_translators)**
 * ⭐ **[Polyglotia](https://www.polyglotia.com/)** or [LearnLingo](https://demo.learnlingo.dev/) - Learn Languages via AI Conversation
 * ⭐ **[Language Reactor](https://www.languagereactor.com/)** - Learn Languages via Media
 * ⭐ **[PolyReads](https://polyreads.com/)** - Learn Languages via Reading
 * ⭐ **[Readlang](https://readlang.com/)** - Learn a Language via Web Browsing
+* [WordReference](https://www.wordreference.com/), [Glosbe](https://glosbe.com/) or [Reverso](https://reverso.net/) - Translation Dictionary
+* [ReverseDictionary](https://reversedictionary.org/) or [OneLook Reverse](https://onelook.com/reverse-dictionary.shtml) - Search for Words Using Their Meanings
 * [Languagelearning.site](https://languagelearning.site/) - Language Learning Torrents
 * [Language Transfer](https://www.languagetransfer.org/) - Language Learning Lectures
 * [refold.la](https://refold.la/) - Language Learning Roadmap
@@ -17695,13 +17635,16 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://70.88.180.169:8
 * [Sounter](https://sounter.com/), [LingoClip](https://lingoclip.com/) or [LyricFluent](https://lyricfluent.com/) - Learn Languages via Music
 * [IPA Reader](http://ipa-reader.xyz/) - International Phonetic Alphabet Reader
 * [youglish](https://youglish.com/) - YouTube Word Pronunciations
+* [Forvo](https://forvo.com/) or [HowJSay](https://howjsay.com/) - Pronunciation Dictionary
 * [Language Roadmap](https://languageroadmap.com/) - Foreign Language Media Difficulty Guide
 * [WordReference](https://www.wordreference.com/), [Glosbe](https://glosbe.com/) or [Reverso](https://reverso.net/) - Translation Dictionary
 * [Hey! Lingo](https://www.heylingo.com/) or [LearnWithOliver](https://www.learnwitholiver.com/) - Language Learning Flashcards
 * [MyLanguages](https://mylanguages.org/) - Grammar / Vocabulary Language Learning
 * [Vocatra](https://esite.ch/vocatra/) - Vocabulary Trainer
 * [ListLang](https://www.listlang.com/) - Most Used Words in Any Language
+* [wehewehe](https://wehewehe.org/) - Hawaiian Dictionary
 * [Polyglot](https://polyglotclub.com/) - Offline Language Exchange
+
 
 ***
 
@@ -17819,9 +17762,8 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://70.88.180.169:8
 ## ▷ Other Languages
 
 * 🌐 **[ASL Resources](https://t.me/ASLresources)** - American Sign Language Resources
-* [ASL Dictionary](https://www.signasl.org/), [SignSpaces](https://signspaces.com/) or [HandSpeak](https://www.handspeak.com/) - Learn American Sign Language
+* [ASL Dictionary](https://www.signasl.org/), [BSL Dictionary](https://www.signbsl.com/), [SignSpaces](https://signspaces.com/) or [HandSpeak](https://www.handspeak.com/) - Learn American Sign Language
 * [Learn BSL in SignWriting](https://ankiweb.net/shared/info/1502698119)
-* [BSL Dictionary](https://www.signbsl.com/) - British Sign Language
 * [LingYourLanguage](https://lingyourlanguage.com/) or [Language Squad](https://www.languagesquad.com/) - Language Identification Test
 * [LocalLingual](https://localingual.com/) or [DialectArchive](https://www.dialectsarchive.com/globalmap) - Listen to Accents
 * [Interactive IPA Chart](https://www.ipachart.com/) - Learn Phonetic Alphabet Symbols
@@ -18604,7 +18546,7 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://70.88.180.169:8
 ## ▷ Downloading
 
 * [shinybbs](https://sysub.vip/) - Movies / TV / 1080p
-* [Hifini](https://www.hifini.com/) - Music / FLAC / MP3
+* [Hifini](https://www.hifini.com/) or [J-pop Music Download](https://jpop.xyz/category/c-pop/) - Music / FLAC / MP3
 * [icourse163](https://www.icourse163.org/) / [Icourse163 Downloader](https://greasyfork.org/en/scripts/372684) - Courses
 
 ## ▷ Torrenting
@@ -19057,6 +18999,7 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://70.88.180.169:8
 * [YuuManga](https://yuumanga.blogspot.com/) - Manga
 * [Nekomik](https://nekomik.me/) - Manga
 * [ManhwaIndo](https://manhwaindo.id/) - Manga
+* [KomikKid](https://www.komikid.com/) - Manga
 * [BacaLightNovel](https://bacalightnovel.co/) - Light Novels
 * [Novelgo](https://novelgo.id/) - Light Novels
 * [Sakuranovel](https://sakuranovel.id/) - Light Novels
@@ -19125,6 +19068,7 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://70.88.180.169:8
 * [HikariNoAkari](https://hikarinoakari.com/) - Music / MP3 / FLAC
 * [JPop Singles](https://www.jpopsingles.eu/) - Music / MP3 / FLAC
 * [Doujin Cafe](https://discord.gg/doujincafe) - Music / MP3 / FLAC
+* [DoujinStyle](https://doujinstyle.com/) - Music / MP3 / FLAC
 * [J-pop Music Download](https://jpop.xyz/) - Music / MP3 / FLAC
 * [MinimumMusic](https://minimummusic.com/) - FLAC / MP3 / FLAC
 * [Perfect Dark](http://kasumi.moe/pd/) - P2P App
@@ -19138,6 +19082,7 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://70.88.180.169:8
 
 ## ▷ Streaming
 
+* [NicoVideo](https://www.nicovideo.jp/) - Japanese YouTube Alternative
 * [momotheater](https://momotheater.com/) - Movies / Anime / Sub / 720p
 * [JP-Films](https://jp-films.com/) - Classic Japanese Movies / TV / 1080p
 * [Abema](https://abema.tv/) - Live TV
@@ -19191,6 +19136,7 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://70.88.180.169:8
 
 * [PDPop](https://www.pdpop.com/) - Video / Books / NSFW / Sub / 1080p
 * [CinEast](https://cineaste.co.kr/) - Movies / TV / Sub / 1080p
+* [J-pop Music Download](https://jpop.xyz/category/k-pop/) - Music / MP3 / FLAC
 * [4Sashi](https://4sashi.com/) - Music / MP3 / FLAC
 * [KPopExplorer](https://kpopexplorer.net/) - Music / MP3 / FLAC
 * [KPopSea](https://kpopjams.com/) - Music / MP3 / FLAC
