@@ -48,8 +48,8 @@ Use [this](https://bitbucket.org/magnolia1234/bypass-paywalls-firefox-clean/src/
 ### Windows Piracy 
 
 **[Windows Piracy Guide](https://github.com/nbats/FMHYedit/blob/main/base64.md#windows-piracy-guides)** - Pirate windows
-**[Windows ISOs](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_windows_iso)** - Download Windows
-**[Windows Activation](https://massgrave.dev/#Method_1_-_PowerShell)** - Activate Windows 
+**[Windows ISOs](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/system-tools#wiki_.25BA_windows_isos)** - Download Windows
+**[Windows Activation](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/system-tools#wiki_.25B7_windows_activation)** - Activate Windows 
 
 ***
 
@@ -73,7 +73,7 @@ Use [this](https://bitbucket.org/magnolia1234/bypass-paywalls-firefox-clean/src/
 
 **[Firefox](https://www.mozilla.org/en-US/firefox/new/)** / **[Browser Comparisons](https://avoidthehack.com/util/browser-comparison)** - Normal Browsers
 **[Librewolf](https://gitlab.com/librewolf-community/browser/windows)** / **[Use Auto-Updater](https://github.com/ltguillaume/librewolf-winupdater)** - Privacy-Hardened Firefox
-**[Browser Extensions](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25BA_extensions) / [Userscripts](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc/#wiki_.25B7_userscripts)** - Add features & functionality to browser
+**[Browser Extensions](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools#wiki_.25B7_browser_extensions) / [Userscripts](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools#wiki_.25B7_userscripts)** - Add features & functionality to browser
 **[Dark Reader](https://darkreader.org/)** - Dark mode for all sites
 **[ReturnYoutubeDislikes](https://returnyoutubedislike.com/)** - View YouTube dislikes
 **[Translate Web Pages](https://github.com/FilipePS/Traduzir-paginas-web)** - Translate sites
@@ -108,11 +108,11 @@ Use [this](https://bitbucket.org/magnolia1234/bypass-paywalls-firefox-clean/src/
 **[Security List](https://security-list.js.org/)** - Security Checklist
 **[DuckDuckGo](https://duckduckgo.com/) / [Mojeek](https://www.mojeek.com/)** - Tracker free web search
 **[ProtonMail](https://protonmail.com/) / [SkiffMail](https://skiff.com/mail)** - Encrypted email service
-**[EMail Forwarding](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_email_forwarding)** - Email Alias Forwarding
+**[Email Forwarding](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_email_forwarding)** - Email Alias Forwarding
 **[Aegis](https://getaegis.app/) / [Ente](https://github.com/ente-io/auth/)** - 2FA to prevent logins without user authentication
-**[Password Managers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_password_managers)** - Save multiple passwords
+**[Password Managers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools#wiki_.25B7_password_managers)** - Save multiple passwords
 **[HaveIBeenPwned](https://haveibeenpwned.com/)** - Get notified when your email or phone number has been found in a data breach
-**[IVPN](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25BA_vpn)** - Paid VPNs
+**[VPN List](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25BA_vpn)** - Paid VPNs
 **[Riseup](https://riseup.net/en/vpn)** - Free VPN / Proton also has a free version / [warning](https://i.ibb.co/1ZV0Hvk/0e2c6578c685.png)
 **[The Practical Linux Hardening Guide](https://github.com/trimstray/the-practical-linux-hardening-guide)** - Linux Privacy Guide
 **[File Encryption Tools](https://fmhy.pages.dev/storage/#file-encryption-tools)** - File Encryption Apps / Tools
@@ -140,7 +140,7 @@ Use [this](https://bitbucket.org/magnolia1234/bypass-paywalls-firefox-clean/src/
 **[LRepacks](https://lrepacks.net/)** - Trusted software site
 **[OlaMovies](https://olamovies.rest/)** - Fast video downloads
 **[FitGirl Repacks](https://fitgirl-repacks.site/) / [SteamRIP](https://steamrip.com/) / [GOG-Games](https://gog-games.to/)** - Game download sites / [FitGirl Discord](https://discord.gg/Up3YARe4RW)
-**[AlvRo](https://github.com/nbats/FMHYedit/blob/main/base64.md#alvro) / [Vimms Lair](https://vimm.net/)** - ROM download sites / [Emulators](https://emulation.gametechwiki.com/)
+**[Vimms Lair](https://vimm.net/) / [No-Intro](https://github.com/fmhy/FMHYedit/blob/main/base64.md#no-intro)** - ROM download sites / [Emulators](https://emulation.gametechwiki.com/)
 **[Firehawk52](https://rentry.org/firehawk52)** - Music Ripping Guide
 **[Slavart](https://discord.gg/nTUd5cCf) / [DoubleDouble](https://doubledouble.top/)** - Multi-Site Audio Download
 **[Free MP3 Download](https://free-mp3-download.net/)** - MP3 / FLAC downloads
@@ -197,7 +197,7 @@ Use [this](https://bitbucket.org/magnolia1234/bypass-paywalls-firefox-clean/src/
 **[Android APK CSE](https://cse.google.com/cse?cx=e0d1769ccf74236e8) / [2](https://cse.google.com/cse?cx=73948689c2c206528) / [3](https://cse.google.com/cse?cx=a805854b6a196d6a6)** - Multi-site APK search
 **[Stremio](https://www.stremio.com/)** - Video streaming app / Use VPN
 **[Kodi](https://kodi.tv/)** - iOS / Android TV compatible streaming app / [/r/Addons4Kodi](https://www.reddit.com/r/Addons4Kodi/) / [Tracker](https://kinkeadtech.com/best-kodi-streaming-addons/) / [Trending](https://kodiapps.com/addons-chart)
-**[Patch Reddit Clients](https://docs.google.com/document/u/0/d/1wHvqQwCYdJrQg4BKlGIVDLksPN0KpOnJWniT6PbZSrI/)** - Use your own API key
+**[Patch Reddit Clients](https://docs.google.com/document/u/0/d/1wHvqQwCYdJrQg4BKlGIVDLksPN0KpOnJWniT6PbZSrI/mobilebasic)** - Use your own API Key
 **[ReVanced Manager](https://github.com/revanced/revanced-manager)** - Ad-free YouTube
 **[Spotify Mod](https://github.com/nbats/FMHYedit/blob/main/base64.md#modded-spotify-apk)** / [iOS](https://github.com/nbats/FMHYedit/blob/main/base64.md#spotify), [2](https://github.com/nbats/FMHYedit/blob/main/base64.md#spotilife) - Ad-free Spotify
 **[Complete Jailbreak Chart](https://appledb.dev/)** - Jailbreaking info & tools
@@ -206,12 +206,12 @@ Use [this](https://bitbucket.org/magnolia1234/bypass-paywalls-firefox-clean/src/
 
 ### Useful Stuff
 
-**[Video Players](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_video_players) / [Servers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_media_servers)** - Host & play videos
-**[Audio Players](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_music_libraries_.2F_players) / [Servers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_audio_servers)** - Host & play audio
+**[Video Players](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video-tools#wiki_.25BA_video_players) / [Servers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video-tools#wiki_.25BA_media_servers)** - Host & play videos
+**[Audio Players](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/audio-tools#wiki_.25BA_audio_players) / [Servers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/audio-tools#wiki_.25BA_audio_servers)** - Host & play audio
 **[Android Emulators](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25BA_android_emulators)** - Use android apps on desktop
-**[File Hosting / Cloud Storage](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_file_sharing_tools)** - Share, store & sync files
-**[File Download Managers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_file_download_managers) / [2](https://en.wikipedia.org/wiki/Comparison_of_download_managers)** - Manage file downloads
-**[Unzip / Compress Files](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_compression_programs)** - File unzippers / compression programs
+**[Hosting / Cloud Storage](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/file-tools#wiki_.25BA_file_hosting)** - Share, store & sync files
+**[Download Managers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/file-tools#wiki_.25B7_download_managers)** - Manage file downloads
+**[File Archivers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/file-tools#wiki_.25B7_file_archivers)** - Unzip / Compress Files
 **[OpenSubtitles](https://opensubtitles.org/)** - Most popular subtitles site
 **[Multi-Tool Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_multi_tool_sites)** - Sites with multiple tools
 **[HolyUnblocker](https://www.holyubofficial.net/)** - View sites blocked by ISP / school
