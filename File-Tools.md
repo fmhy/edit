@@ -222,14 +222,10 @@
 * [FileBot](https://www.filebot.net/) - Data Automation
 * [MediaElch](https://www.kvibes.de/mediaelch/) - Data Automation
 * [TVNamer](https://github.com/dbr/tvnamer) or [TVRename](https://www.tvrename.com/) - TV File Data Automation
-* [Shoko](https://github.com/shokoanime) or [Anitomy](https://github.com/erengy/anitomy) - Anime File Data Automation
-* [theRenamer](http://therenamer.com/) - Bulk Renamer
+* [Shoko](https://github.com/shokoanime) - Anime File Data Automation
 * [Szyszka](https://github.com/qarmin/szyszka) - Bulk Renamer
-* [Massive File Renamer](https://github.com/IvanRF/MassiveFileRenamer) - Bulk Renamer
 * [Massren](https://github.com/laurent22/massren) - Bulk Renamer
-* [Renamer](https://github.com/Craftplacer/Renamer) - Bulk Renamer
 * [PowerRename](https://learn.microsoft.com/en-us/windows/powertoys/powerrename) - Bulk Renamer
-* [File Renamer Diff](https://github.com/soi013/FileRenamerDiff) - Bulk Renamer
 * [Ant Renamer](https://www.antp.be/software/renamer) - Bulk Renamer
 
 ***
