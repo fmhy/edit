@@ -130,7 +130,7 @@
 
 ***
 
-## ▷  RD Clients
+## ▷  Remote Desktop
 
 * 🌐 **[VPS Comparison Chart](https://lowendstock.com/)** - VPS Comparisons
 * ⭐ **[RustDesk](https://rustdesk.com/)** / [GitHub](https://github.com/rustdesk/rustdesk)
