@@ -218,7 +218,7 @@
 * [Prowlarr](https://github.com/Prowlarr/Prowlarr), [FlexGet](https://flexget.com/) or [/r/softwarr](https://reddit.com/r/softwarr) - Autodownload Tools
 * [Organizr](https://github.com/causefx/Organizr), [Reiverr](https://github.com/aleksilassila/reiverr) or [Homarr](https://github.com/ajnart/homarr) - Media Server Managers
 * [HTPC Download Box](https://github.com/sebgl/htpc-download-box) - Media Server Automation
-* [Kodi](https://kodi.tv/) - Media Server / [r/Addons4Kodi](https://www.reddit.com/r/Addons4Kodi/) / [Tracker](https://kinkeadtech.com/best-kodi-streaming-addons/) / [Trending](https://kodiapps.com/addons-chart)
+* [Kodi](https://kodi.tv/) - Media Server
 * [Emby](https://emby.media/) - Media Server
 * [Universal Media Server](https://www.universalmediaserver.com/) - Media Server
 * [OSMC](https://osmc.tv/) - Media Server
@@ -268,8 +268,24 @@
 
 ***
 
+## ▷ Kodi Tools
+
+* ⭐ [Kodi Setup Guide](https://redd.it/zzfdtb)
+* [Kodi Builds Chart](https://kodiapps.com/builds-chart)
+* [r/Addons4Kodi](https://www.reddit.com/r/Addons4Kodi/) / [Tracker](https://kinkeadtech.com/best-kodi-streaming-addons/) / [Trending](https://kodiapps.com/addons-chart) - Kodi Addons
+* [Plex For Kodi](https://github.com/plexinc/plex-for-kodi) or [Plex Kodi Connect](https://github.com/croneter/PlexKodiConnect) - Plex Connect
+* [quasar](https://quasar.surge.sh//) - orrent Plugin
+* [IPTV Client](https://kodi.wiki/view/Add-on:PVR_IPTV_Simple_Client)
+* [Simkl](https://simkl.com/) - Media Tracker
+* [Elementum](https://elementum.surge.sh/) - Trakt Sync
+* [mediaelch](https://github.com/komet/mediaelch) - Media Manager
+ 
+
+***
+
 # ► Video Download
 
+* ↪️ **[Twitch Video Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_twitch_video_downloaders)**
 * ⭐ **[Download Helper](https://www.downloadhelper.net/)**, [AddonCrop Downloader](https://addoncrop.com/v25/youtube-downloader/), [Cococut](https://cococut.net/), [FetchV](https://fetchv.net/) or [MPMux](https://mpmux.com/) - Extensions
 * ⭐ **[cobalt](https://cobalt.tools/)** - Multi-Site
 * ⭐ **[9xbuddy](https://9xbuddy.xyz/)**, [2](https://9xbuddy.com/) - Multi-Site
