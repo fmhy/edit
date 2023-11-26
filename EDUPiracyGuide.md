@@ -342,11 +342,21 @@
 ## ▷ Math
 
 * 🌐 **[Awesome Math](https://github.com/rossant/awesome-math)** or [Math Resources](https://docs.google.com/document/d/1rtokzhpvkUPnymudl_ZVmfAA7H33VIyLQUpujNGwrTo/) - Math Resources
+* 🌐 **[Awesome Calculators](https://github.com/xxczaki/awesome-calculators)** - Calculator Index
 * ↪️ **[Interactive Math Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_interactive_math_sites)**
-* ↪️ **[Calculator Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_calculator_sites)**
 * ⭐ **[Number Academy](https://number.academy/)** - Encyclopedia of Numbers
 * ⭐ **[Microsoft Math Solver](https://math.microsoft.com/)**, [SpeedCrunch](https://speedcrunch.org/) or [MathPapa](https://www.mathpapa.com/algebra-calculator.html) - Advanced Calculator
 * ⭐ **[Cymath](https://www.cymath.com/)**, [MathGPT](https://mathgpt.streamlit.app/), [PhotoMath](https://github.com/nbats/FMHYedit/blob/main/base64.md#photomath) / [iOS](https://apps.apple.com/us/app/photomath/id919087726), [Mathway](https://www.mathway.com/), [EverydayCalculation](https://answers.everydaycalculation.com/), [Math Solver](https://mathsolver.microsoft.com/en), [Tiger Algebra](https://www.tiger-algebra.com/) or [Symbolab](https://www.symbolab.com/) - Math Problem Solvers
+* ⭐ **[Wolfram|Alpha](https://www.wolframalpha.com/examples/mathematics)** - Calculator
+* ⭐ **[Omni Calculator](https://www.omnicalculator.com/)** - Calculator
+* [CalculatorSoup](https://www.calculatorsoup.com/) - Calculator
+* [Number Empire](https://www.numberempire.com/) - Calculator
+* [EasyCalculation](https://www.easycalculation.com/) - Calculator
+* [Calculator.net](https://www.calculator.net/) - Calculator
+* [KeepFormula](https://keepformula.github.io/) - Calculator
+* [CalculatorHut](https://www.calculatorhut.com/) - Calculator
+* [GigaCalculator](https://www.gigacalculator.com/) - Calculator
+* [numbr.dev](https://numbr.dev/) - Calculator
 * [Qalculate](https://qalculate.github.io/) - Desktop Calculator
 * [QwikTape](https://github.com/4silvertooth/QwikTape) - Note Style Calculator
 * [FlowTeX](https://apps.microsoft.com/store/detail/flowtex-preview-beta/9NT79075T86L) - Convert Handwritten Math to LaTeX
