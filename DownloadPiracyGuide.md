@@ -306,4 +306,4 @@
 
 ***
 
-# ► [File Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/tools-misc#wiki_.25B7_file_tools)
+# ► [File Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/file-tools)
