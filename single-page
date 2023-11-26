@@ -1259,10 +1259,11 @@
 * [Skills for All](https://skillsforall.com/) - Cyber Security Courses
 * [picoCTF](https://picoctf.org/), [CTF Guide](https://jaimelightfoot.com/blog/so-you-want-to-ctf-a-beginners-guide/), [CTFLearn](https://ctflearn.com/), [Hack The Box](https://www.hackthebox.com/) or [OpenSecurityTraining2](https://opensecuritytraining.info/) - Cybersecurity Lessons
 * [DefendTheWeb](https://defendtheweb.net/) - Cybersecurity Challenges
-* [Cyber Talent Kids](https://cybertalentskids.com/) - Learn About Cybersecurity
+* [Cyber Talent Kids](https://cybertalentskids.com/) or [Teach Yourself Info Sec](https://teachyourselfinfosec.com/) - Learn About Cybersecurity
 * [pwn.college](https://pwn.college/) - Cybersecurity Practice
 * [OverTheWire](https://overthewire.org/wargames/) - Cybersecurity Learning Game
 * [Pentesting Bible](https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE) or [Juice Shop](https://owasp.org/www-project-juice-shop/) - Learn Pentesting
+* [iRed](https://www.ired.team/) - Red Teaming and Offensive Security
 * [Hacksplaining](https://www.hacksplaining.com/) - Developer Security Lessons
 * [John Hammond](https://www.youtube.com/@_JohnHammond) or [LowLevelLearning](https://www.youtube.com/@LowLevelLearning/) - Cybersecurity YouTube Tutorials
 * [ClassyShark](https://github.com/google/android-classyshark) - Android/Java Bytecode Viewer
@@ -1991,7 +1992,6 @@
 * [DownGit](https://minhaskamal.github.io/DownGit) - Download GitHub Repository Sub-Folders / Files
 * [Install from GitHub](https://github.com/MaxGyver83/install-from-github) or [Eget](https://github.com/zyedidia/eget) - Install Packages / Binaries Directly from GitHub 
 * [useful-forks](https://useful-forks.github.io/) or [GitPop3](https://andremiras.github.io/gitpop3/) - GitHub Fork Search 
-* [GitHub Wiki Search](https://github.com/linyows/github-wiki-search) - Search GitHub Repository Wikis
 * [Active-Forks](https://techgaun.github.io/active-forks/index.html) - Find Active GitHub Forks / [GitHub](https://github.com/techgaun/active-forks)
 * [StarGrab](https://github.com/zekroTJA/stargrab) - Mirror GitHub Repositories
 * [OctoLinker](https://octolinker.vercel.app/) - Make GitHub Code References Clickable
@@ -2408,7 +2408,7 @@
 * [100-Days-Of-ML-Code](https://github.com/Avik-Jain/100-Days-Of-ML-Code) or [Practical Deep Learning](https://course.fast.ai/) - Machine Learning Coding Lessons
 * [Nixified](https://nixified.ai/) - Nix Flake for AI Projects
 * [Approaching (Almost) Any Machine Learning Problem](https://github.com/abhishekkrthakur/approachingalmost/blob/master/AAAMLP.pdf) - Machine Learning Problem Solving Book
-* [MetaAcademy](https://metacademy.org/) or [HF Learn](https://huggingface.co/learn) - Machine Learning Guides
+* [MetaAcademy](https://metacademy.org/), [Beginner Guides](https://microsoft.github.io/generative-ai-for-beginners/) or [HF Learn](https://huggingface.co/learn) - Machine Learning Guides
 * [ML-Youtube-Courses](https://github.com/dair-ai/ML-YouTube-Courses) - Machine Learning Courses on YouTube
 * [ML Course Notes](https://github.com/dair-ai/ML-Course-Notes) - Machine Learning Course Notes
 * [100-Days-Of-ML-Code](https://github.com/Avik-Jain/100-Days-Of-ML-Code) or [Practical Deep Learning](https://course.fast.ai/) - Machine Learning Coding Lessons 
@@ -4367,7 +4367,6 @@
 
 * 🌐 **[VPS Comparison Chart](https://lowendstock.com/)** - VPS Comparisons
 * ⭐ **[RustDesk](https://rustdesk.com/)** / [GitHub](https://github.com/rustdesk/rustdesk)
-* [w-colab](https://github.com/akuhnet/w-colab)
 * [Ammyy](https://www.ammyy.com/en/)
 * [FreeRDP](https://www.freerdp.com/)
 * [Myrtille](https://cedrozor.github.io/myrtille/)
@@ -4388,7 +4387,6 @@
 * [CoScreen](https://www.coscreen.co/)
 * [TigerVNC](https://tigervnc.org/) - VNC
 * [Oracle VPS](https://rentry.co/oraclevps) - VPS
-* [Google VPS 25GB Ram](https://colab.research.google.com/drive/16ORaesJ0C9bt6tTOgd90NuwEUDiquofz) - VPS
 * [InputDirector](https://www.inputdirector.com/) - Multi-Computer
 * [Barrier](https://github.com/debauchee/barrier) - Multi-Computer
 * [Mouse Without Borders](https://www.microsoft.com/en-us/garage/wall-of-fame/mouse-without-borders/) - Multi-Computer
@@ -5666,7 +5664,7 @@ Use [this](https://bitbucket.org/magnolia1234/bypass-paywalls-firefox-clean/src/
 * [WiFi Analyzer](https://apps.microsoft.com/store/detail/wifi-analyzer/9NBLGGH33N0N) - WiFi Analyzer
 * [NETworkManager](https://github.com/BornToBeRoot/NETworkManager) or [WLan10](https://github.com/afit/wlan10) - Network Manager
 * [mRemoteNG](https://mremoteng.org/) - Remote Connections Manager
-* [NetLimiter](https://www.netlimiter.com/) or [Netbalancer](https://netbalancer.com/) - Internet Traffic Control
+* [Netbalancer](https://netbalancer.com/) - Internet Traffic Control
 * [Arcai](https://arcai.com/) - WiFi Speed Control
 * [NeverSSL](http://neverssl.com/) or [HTTP Forever](http://httpforever.com/) - Fix Public WiFi Login Pages
 * [WiFi-Password](https://github.com/sdushantha/wifi-password) - Fetch WiFi Password / Generate QR Code
@@ -6372,7 +6370,7 @@ Use [this](https://bitbucket.org/magnolia1234/bypass-paywalls-firefox-clean/src/
 ## ▷ Userscripts
 
 * 🌐 **[Awesome Userscripts](https://github.com/awesome-scripts/awesome-userscripts)**, [XIU2](https://github.com/XIU2/UserScript), [Scripts](https://gitlab.com/loopvid/scripts) or [Userscript.zone](https://www.userscript.zone/) - Userscript Indexes
-* ⭐ **[Violentmonkey](https://violentmonkey.github.io/)**, **[Tampermonkey](https://www.tampermonkey.net/)**, [Greasemonkey](https://www.greasespot.net/) or [Firemonkey](https://addons.mozilla.org/en-US/firefox/addon/firemonkey/) - Userscript Managers
+* ⭐ **[Violentmonkey](https://violentmonkey.github.io/)**, **[Tampermonkey](https://www.tampermonkey.net/)**, or [Firemonkey](https://addons.mozilla.org/en-US/firefox/addon/firemonkey/) - Userscript Managers
 * ⭐ **[Greasy Fork](https://greasyfork.org/en)**, [OpenUserJS](https://openuserjs.org/) or [Userscripts](https://userscripts-mirror.org/) - Install Userscripts / [Git Install](https://greasyfork.org/en/scripts/6456)
 * ⭐ **Greasy Fork Tools** - [Enhancements](https://greasyfork.org/en/scripts/431584) / [Helper](https://greasyfork.org/en/scripts/393396) / [Tweaks](https://greasyfork.org/en/scripts/368183) / [Cleanup Script](https://greasyfork.org/en/scripts/12179) / [Themes](https://greasyfork.org/en/scripts/4336) / [Dark Theme](https://greasyfork.org/en/scripts/404443)
 * ⭐ **[Userscripts Guide](https://rentry.co/userscript-guide)**
@@ -11275,7 +11273,7 @@ features:
 * [Crawfish](https://github.com/drakonkat/Crawfish) - [Screenshot](https://i.ibb.co/DVVVdpG/8406bc7e0a39.png)
 * [GoSpeed](https://github.com/GopeedLab/gopeed) - [Screenshot](https://github.com/GopeedLab/gopeed/blob/main/_docs/img/ui-demo.png)
 * [Tribler](https://www.tribler.org/) - Tor-inspired Client / [Screenshot](https://i.ibb.co/k4jt0FJ/20d3bd279896.png) / [Github](https://github.com/Tribler/tribler)
-* [aria2](https://aria2.github.io/) - Terminal Torrent Client / [Screenshot](https://i.ibb.co/SmsxmW3/3e213c54b148.png) / [Github](https://github.com/aria2/aria2) / [Download Bot](https://github.com/gaowanliang/DownloadBot) / [GUI](https://github.com/persepolisdm/persepolis) / [Frontend](https://ariang.mayswind.net/) / [WebUI](https://github.com/ziahamza/webui-aria2)
+* [aria2](https://aria2.github.io/) - Terminal Torrent Client / [Screenshot](https://i.ibb.co/SmsxmW3/3e213c54b148.png) / [Github](https://github.com/aria2/aria2) / [Download Bot](https://github.com/gaowanliang/DownloadBot) / [GUI](https://github.com/persepolisdm/persepolis) / [Frontend](https://ariang.mayswind.net/) / [WebUI](https://github.com/ziahamza/webui-aria2) / [GUI](https://persepolisdm.github.io/)
 * [XD-Torrent](https://xd-torrent.github.io/) - Anonymous P2P Torrent Client
 * [libtorrent](https://www.libtorrent.org/) - C++ BitTorrent Client / [GitHub](https://github.com/arvidn/libtorrent)
 * [BitSwarm](https://github.com/SuRGeoNix/BitSwarm/) - Bittorrent Client Library
@@ -12588,11 +12586,9 @@ Use any **[Base64 Decoding](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/stor
 * [Scout](https://www.scout.tel/phone-number-lookup) or [WhoCalld](https://whocalld.com/) - Phone Number Lookup / Safety Check 
 * [FreeCarrierLookup](https://www.freecarrierlookup.com/) - Get Telephone Carrier Data 
 * [/r/Privacy](https://reddit.com/r/privacy), [/r/TheHatedOne](https://www.reddit.com/r/thehatedone) or [/r/privatelife/](https://www.reddit.com/r/privatelife/) - Privacy Discussion, News & Tools
-* [Unredacted Google Antitrust Filing](https://web.archive.org/web/20220821122431/https://nitter.net/fasterthanlime/status/1452053938195341314)
 * [Facebook Doc Stories](https://docs.google.com/document/d/1QYqmJsifBjf_xA23Ea7AdeMFyjGWaF_dvhi5EZdNUf4/edit) - Facebook Malpractices Index
 * [Privacy.com](https://privacy.com/) - Make Secure Payments / US only 
 * [OTPClient](https://github.com/paolostivanin/OTPClient) - One-Time Password Client 
-* [ctfs](https://github.com/ctfs/) - Information Security Competition Writeups
 * [Globaleaks](https://www.globaleaks.org/) - Self-Hosted Whistleblowing Platform
 * [DeepPrivacy](https://github.com/hukkelas/) - A Generative Adversarial Network for Face Anonymization
 * [image-scrubber](https://github.com/everestpipkin/image-scrubber) - Anonymize Protest Photos
@@ -12608,14 +12604,12 @@ Use any **[Base64 Decoding](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/stor
 * ⭐ **[ClearURLs](https://github.com/ClearURLs/Addon/releases)** / [2](https://gitlab.com/ClearURLs/ClearUrls), [Link Cleaner](https://mybrowseraddon.com/link-cleaner.html), [dont-track-me-google](https://github.com/Rob--W/dont-track-me-google) or [Link Sanitizer](https://greasyfork.org/en/scripts/374699-link-sanitizer) - Remove Tracking Elements from URLs
 * [CRXcavator](https://crxcavator.io/) - Check Browser Extension Security
 * [File Guard](https://mybrowseraddon.com/file-encryptor.html) - File Encryption / Decryption
-* [Site Bleacher](https://github.com/wooque/site-bleacher) - Auto Remove Cookies, Local Storages, etc.
 * [Anti-Grabify](https://github.com/Konnor88/anti-grabify) - Block IP Grabbers
 * [OptMeowt](https://github.com/privacy-tech-lab/gpc-optmeowt) or [TrackMeNot](https://www.trackmenot.io/) - Tracking Protection
 * [JShelter](https://jshelter.org/) - Prevent Fingerprinting
 * [CanvasBlocker](https://pastebin.com/2RgYzu6u) or [Canvas Defender](https://addons.mozilla.org/en-US/firefox/addon/no-canvas-fingerprinting/) - Prevent Canvas Fingerprinting
 * [GNU LibreJS](https://www.gnu.org/software/librejs/) - Block Trivial Javascript
 * [PortAuthority](https://addons.mozilla.org/en-US/firefox/addon/port-authority/) - Block Javascript Port Scan on Sites
-* [First Party Isolation](https://github.com/mozfreddyb/webext-firstpartyisolation) - First Party Isolation Extension
 * [Location Guard](https://pastebin.com/n20LcQSM) - Hide Browsers Geolocation
 * [Language Switch](https://addons.mozilla.org/en-US/firefox/addon/languageswitch/) - Change Language Identifier
 * [HTTP Tracker](https://github.com/venukbh/http-tracker) - Track Network on Browser
@@ -12627,25 +12621,20 @@ Use any **[Base64 Decoding](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/stor
 * [FlowCrypt](https://flowcrypt.com/) - Gmail Encryption
 * [Chameleon](https://sereneblue.github.io/chameleon/), [UA Switcher & Manager](https://add0n.com/useragent-switcher.html) or [User-Agent Switcher](https://chrome.google.com/webstore/detail/user-agent-switcher-for-c/djflhoibgkdhkhhcedjiklpkjnoahfmg) - User-Agent Spoofer
 * [Vytal](https://chrome.google.com/webstore/detail/vytal/ncbknoohfjmcfneopnfkapmkblaenokb) - Changes Geolocation to match VPN IP address
-* [Firefox Privacy Settings](https://addons.mozilla.org/en-US/firefox/addon/privacy-settings/) or [SnowHaze](https://github.com/snowhaze/firefox-extension) - Firefox Privacy Settings Manager
+* [Firefox Privacy Settings](https://addons.mozilla.org/en-US/firefox/addon/privacy-settings/) - Firefox Privacy Settings Manager
 * [VPNTabs](https://github.com/Nickguitar/VPNTabs) - Force Firefox Tabs through VPN or Tor
 * [WebRTC Control](https://mybrowseraddon.com/webrtc-control.html) or [WebRTC](https://addons.mozilla.org/en-GB/firefox/addon/happy-bonobo-disable-webrtc/) - Enable / Disable WebRTC 
 * [WebRTC Network Limiter](https://chrome.google.com/webstore/detail/webrtc-network-limiter/npeicpdbkakmehahjeeohfdhnlpdklia?hl=en) - WebRTC Network Traffic Config 
-* [GPSDetect](https://github.com/allanlw/gps-detect) - Alerts user when JPEG contains EXIF GPS coordinates 
 * [Forget Me Not](https://addons.mozilla.org/en-US/firefox/addon/forget_me_not/) - Only keeps website data for sites you choose
-* [Secure Password Generator](https://pastebin.com/XaRUFW4a) or [Password Generator](https://github.com/XFox111/PasswordGeneratorExtension) - Password Generator 
+* [Secure Password Generator](https://pastebin.com/XaRUFW4a) - Password Generator 
 * [Private Bookmarks](https://pastebin.com/H8vnQqiY) - Password Protected Bookmarks
-* [Permission Inspector](https://github.com/tsl143/addonManager) - Extension Permissions Inspector 
-* [History-AutoDelete](https://github.com/naresh97/History-AutoDelete-Rebooted) - Browser History Manager 
 * [eCleaner](https://add0n.com/ecleaner.html) or [History & Cache Cleaner](https://chrome.google.com/webstore/detail/history-cache-cleaner/oiecpgbfcchalgdchgoplichofjadhmk/related?hl=en) - History & Cache Cleaner
 * [CopyGuard](https://github.com/roedesh/copyguard) - Clipboard Hijacking Notifications
 * [WhatsApp Privacy Extension](https://pfwa.lukaslen.com/) - Hide WhatsApp Messages Until Hovered Over / [GitHub](https://github.com/LukasLen/Privacy-Extension-For-WhatsApp-Web)
 * [AudioContext Fingerprint Test](https://audiofingerprint.openwpm.com/) - AudioContext / Canvas API Fingerprinting Test
 * [AudioContext Fingerprint Defender](https://mybrowseraddon.com/audiocontext-defender.html) - Stop AudioContext fingerprinting 
-* [zero-width](https://github.com/chpmrc/zero-width-chrome-extension) - Replaces zero-width characters 
 * [Temporary Containers](https://addons.mozilla.org/en-US/firefox/addon/temporary-containers/) - Disposable Containers 
 * [Redirect AMP to HTML](https://www.daniel.priv.no/web-extensions/amp2html.html) - Redirects AMP Pages to Regular Web Pages 
-* [HTTP Header Live](https://github.com/Nitrama/HTTP-Header-Live) - Display / Edit the HTTP Header
 * [Open Two Factor Authenticator](https://add0n.com/two-factor-authenticator.html) - Two-Factor Authentication Addon 
 * [WAIncognito](https://chrome.google.com/webstore/detail/waincognito/alhmbbnlcggfcjjfihglopfopcbigmil?hl=en) - Disable WhatsApps Read Receipts & Presence Updates 
 * [IndicateTLS](https://github.com/jannispinter/indicatetls) - Display a Sites the TLS Protocol Version 
@@ -15172,20 +15161,9 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://70.88.180.169:8
 * ⭐ **[XDM](https://xtremedownloadmanager.com/)**, [2](https://github.com/subhra74/xdm)
 * [Motrix](https://www.motrix.app/) / [Firefox](https://addons.mozilla.org/en-US/firefox/addon/motrixwebextension/) / [Chrome](https://github.com/gautamkrishnar/motrix-webextension/) / [GitHub](https://github.com/agalwood/Motrix)
 * [pyLoad](https://pyload.net/)
-* [wfdownloader](https://www.wfdownloader.xyz/)
 * [Mipony](https://www.mipony.net/)
 * [FileCXX](https://filecxx.com/)
-* [Internet Download Accelerator](https://westbyte.com/ida/)
-* [Envy](https://sourceforge.net/projects/getenvy/) / [GitHub](https://github.com/getenvy/envy)
-* [Ant Download Manager](https://antdownloadmanager.com/)
-* [Chrono Download Manager](https://www.chronodownloader.net/)
-* [GetGo Download Manager](https://www.getgosoft.com/)
-* [FlashGot](https://flashgot.net/)
-* [massivedl](https://github.com/dimkouv/massivedl)
 * [HTTP Downloader](https://erickutcher.github.io/#HTTP_Downloader/)
-* [Neat Download Manager](https://www.neatdownloadmanager.com/)
-* [Free Download Manager](https://www.freedownloadmanager.org/) / [2](https://sourceforge.net/projects/freedownload/) / [Addon](https://github.com/meowcateatrat/elephant), [uGet](https://ugetdm.com/) / [Addon](https://github.com/ugetdm/uget-integrator)
-* [Persepolis](https://persepolisdm.github.io/)
 * [DownZemAll](https://setvisible.github.io/DownZemAll/)
 * [download](https://github.com/kevva/download) / [CLI](https://github.com/kevva/download-cli, [downloader](https://downloader.la/) or [Hitomi](https://github.com/KurtBestor/Hitomi-Downloader) - File Download Tools
 * [mf-dl](https://gitgud.io/Pyxia/mf-dl/) or [mediafire_bulk_downloader](https://github.com/NicKoehler/mediafire_bulk_downloader) - Mediafire File Downloader
@@ -16310,9 +16288,6 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://70.88.180.169:8
 * [Runlytics](https://www.runlytics.app/) - Running Analytics
 * [Bone Health Tracker](https://bonehealthtracker.com/) - Track Bone Health
 * [Benefits of Good Posture](https://youtu.be/OyK0oE5rwFY) - Posture Importance Lesson
-* [Healthline](https://www.healthline.com/health/sore-tongue-remedy) - Remedies for Sores on Tongue
-* [StuffThatWorks](https://www.stuffthatworks.health/) - Chronic Condition Info / Treatments
-* [Tone-Deafness Test](https://www.themusiclab.org/quizzes/td) - Pitch Perception Test
 
 ***
 
@@ -17336,9 +17311,12 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://70.88.180.169:8
 * [How a Car Works](https://www.howacarworks.com/) - Car Mechanics / Automotive Engineering Guides
 * [Neptune](https://youtu.be/gTNVxHSemxA) - Marine Engineering Room Simulator
 * [HDLBits](https://hdlbits.01xz.net/) - Learn Circuit Design
+* [BatteryUniversity](https://batteryuniversity.com/articles) - Learn About Batteries
 * [EasyEDA](https://easyeda.com/editor) - Electronic Circuit Design Tool
 * [FliteTest](https://www.flitetest.com/) - DIY Drone Guides
 * [NandGame](https://nandgame.com/) - Computer Building Puzzle
+* [From Nand To Tetris](https://www.nand2tetris.org/course) - Computer Building Lesson
+* [CPU Land](https://cpu.land/) - What Happens when you run Programs
 
 ***
 
@@ -18869,6 +18847,7 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://70.88.180.169:8
 ## ▷ Streaming
 
 * [JFC](https://jfc.org.il/) - Israel Movie Archive
+* [Animeil-TV](https://www.animeil-tv.com/) - Anime / [Discord](https://discord.com/invite/RfQX5VDD) / [](https://t.me/AnimeILTVDiscussion)
 
 ***
 
@@ -20172,29 +20151,17 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://70.88.180.169:8
 * 🌐 **[PornDude](https://theporndude.com/)** / [More Sites](https://theporndude.com/hall-of-fame)
 * 🌐 **[Reddit Doesn't Like This Site](https://www.reddit-doesnt-like-this.site/)**
 * 🌐 **[NSFW Subreddits](https://www.reddit.com/r/NSFW411/wiki/index)**, [2](http://electronsoup.net/nsfw_subreddits/), [3](https://bin.disroot.org/?81af22c09e92865d#FYLXmjaKbaojaELwAv1szcfy7rahuA77ntnFu2HBEBGf), [4](https://redd.it/brypgf), [5](https://theporndude.com/best-nsfw-reddit-sites)
+* [MegaPornList](https://megapornlist.com/)
+* [PornBox](http://pornbox.org/)
 * [One Porn List](https://onepornlist.com/)
 * [BigPornList](https://bigpornlist.net/)
 * [MrPornGeek](https://www.mrporngeek.com/)
 * [The Best Fetish Sites](https://thebestfetishsites.com/)
 * [The Big List of Porn](https://www.tblop.com/) 
-* [Porn Sites XXX](https://pornsites.xxx/) 
-* [Top Porn Sites](https://toppornsites.com/)
-* [JennyList](https://jennylist.xyz/) 
-* [ThePornBin](https://thepornbin.com/)
-* [PinkWorld](https://pinkworld.com/) 
-* [MegaPornList](https://megapornlist.com/)
 * [PornList18](https://pornlist18.com/) 
-* [TopXXXList](https://www.topxxxlist.net/) 
 * [IndianPornList](https://indianpornlist.com/) 
 * [Tommy's Bookmarks](https://www.tommys-bookmarks.com/) 
-* [ThePornBlender](https://www.thepornblender.com/) 
-* [AdultList](https://www.adultlist.com/) 
-* [Unegeekette](https://unegeekette.com/) 
-* [Area51](https://area51.to/en/)
-* [QuickiePage](https://quickiepage.com/) 
 * [ThePornMap](https://thepornmap.com/) 
-* [PornBox](http://pornbox.org/)
-* [PrimePornList](https://www.primepornlist.com/)
 * [DirtyWarez Adult](https://dirtywarez.org/cat/adult) - Alexa Adult Site Rankings
 
 ***
