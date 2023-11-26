@@ -204,32 +204,12 @@
 
 # ► Audio Downloading
 
-## ▷ Download Apps
-
 * 🌐 **[Music Ripping Guide](https://ori5000.github.io/musicripping.html)**, **[Firehawk52](https://rentry.org/firehawk52)** or [Florin](https://rentry.org/florinsmusicrippingguide) - Downloading / Ripping Guides
-* ↪️ **[Spotify Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_spotify_downloaders)**
-* ↪️ **[YouTube Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_youtube_converters)**
-* ↪️ **[Soundcloud Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_soundcloud_downloaders)**
+* ↪️ **[Audio Download Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/audio-tools#wiki_.25BA_audio_download)** - Spotify, YouTube, Deezer etc. Downloaders
+* ⭐ **[YouTube Ripping Guide](https://redd.it/vv27dy)**
 * ⭐ **[Slavart](https://discord.gg/nTUd5cCf)** - Multi-Site Audio Download App / [Divolt](https://slavart.divolt.xyz) / [Telegram](https://t.me/+9znaxmYJB5lkNzA8) / [Qobuz Copy](https://rentry.co/qobuz-slavart)
-* ⭐ **[DoubleDouble](https://doubledouble.top/)** - Multi-Site Audio Download Web App
-* ⭐ **[Soulseek](https://slsknet.org/)** or [Nicotine+](https://nicotine-plus.org/) - FLAC / MP3 / [Stats](https://github.com/mrusse/Slsk-Upload-Stats-Tracker) / [Server App](https://github.com/slskd/slskd)
-* [/r/xTrill](https://reddit.com/r/xTrill) - MP3 / FLAC / [Backup](https://reddit.com/r/xTrillBackup)
-* [streamrip](https://github.com/nathom/streamrip) - Deezer, TIDAL, Qobuz, YouTube, and SoundCloud Downloader / [Colab](https://github.com/r-piratedgames/rip)
-* [Orpheus](https://github.com/yarrm80s/orpheusdl) - Music Ripper
-* [FreyrJS](https://github.com/miraclx/freyr-js) - Spotify, Deezer and Apple Music Downloader
-* [GamDL](https://github.com/glomatico/gamdl) - Apple Music Downloader
-* [orpheusdl-deezer](https://github.com/uhwot/orpheusdl-deezer), [d-fi](https://notabug.org/sayem314/d-fi), [deezer-downloader](https://github.com/kmille/deezer-downloader) or [DL-Spt](https://notabug.org/dlspt/dl-spt) - Deezer Downloaders
-* [Song_downloaderbot](https://t.me/Song_downloaderbot), [DeezerMusicBot](https://t.me/DeezerMusicBot), [DeezloaderAn0n_bot](https://t.me/DeezloaderAn0n_bot) or [deezload2bot](https://t.me/deezload2bot) - Telegram Deezer Bots
-* [rsack](https://github.com/Slyyxp/rsack) - FLAC / MP3
-* [OFFMP3](https://offmp3.com/) or [Anything2MP3](https://anything2mp3.cc/) - Video to MP3 Converter
-* [Musify](https://github.com/gokadzev/Musify) or [Music Kraken](https://github.com/HeIIow2/music-downloader/) - MP3
-* [RedSea](https://github.com/Dniel97/RedSea), [Tidal Media Downloader](https://github.com/yaronzz/Tidal-Media-Downloader) / [Pro](https://github.com/yaronzz/Tidal-Media-Downloader-PRO) or [orpheusdl-tidal](https://github.com/Dniel97/orpheusdl-tidal) - Tidal Music Downloaders
-* [BandCamp-DL](https://github.com/iheanyi/bandcamp-dl), [Free BandCamp Downloader](https://github.com/7x11x13/free-bandcamp-downloader), [Download Bandcamp](https://downloadmusicschool.com/bandcamp/), [bcdl](https://github.com/daot/bcdl) or [Bandcamp Downloader](https://github.com/Otiel/BandcampDownloader) - Bandcamp Downloader
-* [GetFVid](https://www.getfvid.com/) - Facebook Video / Audio Downloader 
-* [Librescore Downloader](https://github.com/LibreScore/dl-librescore) - Librescore Downloader
-* [Orpheus Qobuz](https://github.com/yarrm80s/orpheusdl-qobuz), [QobuzDownloaderX-MOD](https://github.com/DJDoubleD/QobuzDownloaderX-MOD) or [qobuz-dl](https://github.com/vitiko98/qobuz-dl) - Qobuz Downloaders
-* [you-get](https://you-get.org/) or [irs](https://github.com/cooperhammond/irs) - Audio Command Line Download Tool
-* [VK::MP3](https://metacpan.org/pod/VK::MP3) - VK MP3 Search Tool 
+* ⭐ **[Soulseek](https://slsknet.org/)** or [Nicotine+](https://nicotine-plus.org/) - Download App / [Stats](https://github.com/mrusse/Slsk-Upload-Stats-Tracker) / [Server App](https://github.com/slskd/slskd)
+* [/r/xTrill](https://reddit.com/r/xTrill) - Download App / [Backup](https://reddit.com/r/xTrillBackup)
 
 ***
 
@@ -239,13 +219,14 @@
 
 ***
 
-* ↪️ **[General DDL Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/download)**
 * ↪️ **[Video Game Soundtracks](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_game_soundtracks)**
 * ↪️ **[Royalty Free Music](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_royalty_free_music)**
+* ⭐ **[DoubleDouble](https://doubledouble.top/)** - Multi-Site Audio Download Web App
 * ⭐ **[Free MP3 Download](https://free-mp3-download.net/)** - Search / MP3 / FLAC
 * ⭐ **[SittingOnClouds](https://www.sittingonclouds.net/)** / [Discord](https://discord.com/invite/x23SFbE) - Anime / Game Soundtracks
 * ⭐ **[Audio Download CSE](https://cse.google.com/cse?cx=006516753008110874046:ibmyuhh72io)** / [CSE 2](https://cse.google.com/cse?cx=006516753008110874046:ohobg3wvr_w) / [CSE 3](https://cse.google.com/cse?cx=32d85b41e2feacd3f) - Multi-Site Search
 * [The Last Disaster](https://thelastdisaster.vip/) - Metal / Hardcore / Rock / MP3 / FLAC
+* [VK::MP3](https://metacpan.org/pod/VK::MP3) - VK MP3 Search Tool 
 * [SongsLover](https://songslover.vip/) - MP3
 * [Ezhevika](https://ezhevika.blogspot.com/) - MP3
 * [VKMusic](https://denr01.com/vkm/) - MP3 / User: anon / pass: 12345
@@ -487,7 +468,3 @@
 * [Maloja](https://github.com/krateng/maloja) - Self-Hosted Audio Scrobbling
 * [libib](https://www.libib.com/) - Desktop Media Catalog
 * [AME](https://notabug.org/SuperSaltyGamer/ame) - Music Site Enhancement Userscripts
-
-***
-
-# ► [Audio Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/tools-misc#wiki_.25B7_audio_tools)
