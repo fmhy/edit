@@ -2360,6 +2360,7 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://70.88.180.169:8
 ## Stock Video Sites
 
 * ⭐ **[VidsPlay](https://www.vidsplay.com/)**
+* [4K Media](https://4kmedia.org/) - 4K
 
 [Awesome Stock Resources](https://github.com/neutraltone/awesome-stock-resources), [Mixkit](https://mixkit.co/), [Coverr](https://coverr.co/), [BeachFrontBroll](https://www.beachfrontbroll.com/), [Videvo](https://www.videvo.net/), [CuteStockFootage](https://cutestockfootage.com/), [VidEezy](https://www.videezy.com/), [Vecteezy](https://www.vecteezy.com/), [Mazwai](https://mazwai.com/), [Pexels Video](https://www.pexels.com/videos/), [Life of Vids](https://www.lifeofvids.com/), [FreeHD](https://vimeo.com/groups/freehd/), [veed.io](https://www.veed.io/videos), [DroneStock](https://dronestock.com/), [MotionPlaces](https://www.motionplaces.com/), [cutestockfootage](https://cutestockfootage.com/free), [motionarray](https://motionarray.com/browse/stock-video/?free=true), [mitchmartinez](https://mitchmartinez.com/free-4k-red-epic-stock-footage/), [Dareful](https://dareful.com/), [CuteStock](https://ineedfx.com/)
 
