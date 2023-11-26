@@ -616,9 +616,6 @@
 * [Runlytics](https://www.runlytics.app/) - Running Analytics
 * [Bone Health Tracker](https://bonehealthtracker.com/) - Track Bone Health
 * [Benefits of Good Posture](https://youtu.be/OyK0oE5rwFY) - Posture Importance Lesson
-* [Healthline](https://www.healthline.com/health/sore-tongue-remedy) - Remedies for Sores on Tongue
-* [StuffThatWorks](https://www.stuffthatworks.health/) - Chronic Condition Info / Treatments
-* [Tone-Deafness Test](https://www.themusiclab.org/quizzes/td) - Pitch Perception Test
 
 ***
 
