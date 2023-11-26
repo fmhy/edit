@@ -601,6 +601,7 @@
 * [YuuManga](https://yuumanga.blogspot.com/) - Manga
 * [Nekomik](https://nekomik.me/) - Manga
 * [ManhwaIndo](https://manhwaindo.id/) - Manga
+* [KomikKid](https://www.komikid.com/) - Manga
 * [BacaLightNovel](https://bacalightnovel.co/) - Light Novels
 * [Novelgo](https://novelgo.id/) - Light Novels
 * [Sakuranovel](https://sakuranovel.id/) - Light Novels
