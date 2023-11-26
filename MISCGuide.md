@@ -4,7 +4,7 @@
 ***
 ***
 
-**[Table of Contents](https://ibb.co/Fm6bBZ1)** - For mobile users
+**[Table of Contents](https://ibb.co/sCkFTk3)** - For mobile users
 
 ***
 *** 
@@ -1115,6 +1115,71 @@
 * [GasPrices](https://gasprices.aaa.com/) - Gas Price Tracker
 * [SlyToday](https://slytoday.com/) - Price Comparison Search
 * [Valuta EX](https://valuta.exchange/) or [Currency World](https://currency.world/)- Currency Converters / [Firefox](https://addons.mozilla.org/en-US/firefox/search/?q=currency%20converter&sort=relevance&type=extension) / [Chrome](https://chrome.google.com/webstore/search/currency%20converter?hl=en&_category=extensions)
+
+***
+
+# ► Useful Sites
+
+* ↪️ **[Multi-Tool Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_multi_tool_sites)**
+* ↪️ **[Calendars / Scheduling](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_calendars)**
+* ↪️ **[Productivity Trackers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_productivity_trackers)**
+* ↪️ **[Mind Mapping](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_mind_mapping)**
+* ↪️ **[Collaboration Platforms](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_collaboration_platforms)**
+* ↪️ **[Presentation Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_presentation_tools)**
+* ↪️ **[Data Visualization](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_data_visualization_tools)**
+* ↪️ **[Polling Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_poll_sites)**
+* ↪️ **[Random Generators](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_random_generators)**
+* ⭐ **[MiXLab](https://github.com/shirooo39/MiXLab)** - Multi-Tool Google Colab / Use Throwaways
+* ⭐ **[Versus](https://versus.com/)**, [SocialCompare](https://socialcompare.com/en), [DifferenceBetween](http://www.differencebetween.net/) or [Diffen](https://www.diffen.com/) - Compare Anything
+* ⭐ **[RepairWiki](https://repair.wiki/w/Repair_Wiki)** or [Manual Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/reading#wiki_.25B7_manual_sites) - Repair Articles / Manuals
+* ⭐ **[endoflife.date](https://endoflife.date/)** - Tools & Technologies' End of life Index
+* ⭐ **[USPS Shipping Supplies](https://store.usps.com/store/results/free-shipping-supplies/_/N-alnx4j)** - Free Shipping Supplies
+* ⭐ **[TurboTaxSucksAss](https://turbotaxsucksass.org/)**, [US Taxes](https://ustaxes.org/) or [FreeTaxUSA](https://www.freetaxusa.com/) - File Taxes for Free / [Get Pin](https://youtu.be/iPw8I-cZ1eY) / [Form Calc](https://opentaxsolver.sourceforge.net/)
+* ⭐ **[FindHelp](https://www.findhelp.org/)** - Find Assistive Programs
+* ⭐ **[BeMyEyes](https://www.bemyeyes.com/)** - Assist the Visually Impaired
+* ⭐ **[TinyKitten](https://tinykittens.com/)** - Kitten Rescue / Donation
+* [Dashboard](https://zzanehip.github.io/Dashboard/) - Mac-Style Dashboard Widget
+* [The Measure Of Things](https://www.themeasureofthings.com) - Comparative / Relative Quantity Measurements
+* [Compare Sizes](https://comparesizes.com/) - Size Comparison Tool 
+* [Paper Sizes](https://papersizes.io/) - Common Paper Sizes
+* [Grocy](https://grocy.info/) - Grocery / Household Management Tool
+* [WhoBrings](https://whobrings.com/) - Party Item Management Tool
+* [MyPhone](https://github.com/BestOwl/MyPhone) - Make Calls via Desktop
+* [Free-lookup](https://free-lookup.net/) - Phone # Lookup
+* [KittySplit](https://www.kittysplit.com/en/) - Group Expense Splitting Calculator
+* [StageTimer](https://stagetimer.io/) - Event Timer
+* [Countdowns](https://www.countdowns.live/) - Create Custom Countdowns
+* [A Bra That Fits](https://www.abrathatfits.org/calculator.php) - Bra Size Calculator
+* [Cold Turkey](https://getcoldturkey.com/) - Site Blocker / Productivity Booster / [Premium Unlock](https://github.com/nbats/FMHYedit/blob/main/base64.md#cold-turkey-premium)
+* [FigureRealm](https://www.figurerealm.com/) - Track Action Figure Collection
+* [AllBadges](https://allbadges.net/en) - Track Badge Collection
+* [Wheel Decide](https://wheeldecide.com/), [PickerWheel](https://pickerwheel.com/), [HeySpinner](https://heyspinner.com/) or [Wheel of Names](https://wheelofnames.com/) - Wheel Randomizers
+* [SurveyHeart](https://surveyheart.com/) - Survey Creator
+* [Kukkee](https://kukkee.com/) - Meeting Time Polls
+* [Event Rally](https://rallly.co/) / [GitHub](https://github.com/lukevella/Rallly), [Mobilizon](https://joinmobilizon.org/) or [Gancio](https://gancio.org/) - Event Organizing
+* [Label Studio](https://labelstud.io/) or [Cvat](https://www.cvat.ai/) - Data Organizing Tools
+* [Diff Checker](https://www.diffchecker.com/) - Check Differences in Text, Images, PDFs or Files
+* [Find Your Place](https://where-is-this.com/) - Find Places from Pictures
+* [Acoustic Gender](https://acousticgender.space/) - Measure Voice Pitch
+* [Forebears](https://forebears.io/) or [BehindTheName](https://www.behindthename.com/) - Name Etymologies
+* [Timeline Cascade](https://markwhen.com/) / [GitHub](https://github.com/mark-when/markwhen), [Timeline JS](https://timeline.knightlab.com/) or [Time.Graphics](https://time.graphics/) - Create Timelines
+* [Timeliner](https://github.com/mholt/timeliner) - Create Personal Digital Timeline
+* [Familypedia](https://familypedia.fandom.com/), [Gramps](https://gramps-project.org/blog/) or [WikiTree](https://wikitree.com/) - Family Trees
+* [Ravelry](https://ravelry.com) - Fiber Artist Tools
+* [ThistoThat](https://www.thistothat.com/) - How to Glue Anything to Anything
+* [Stain Solutions](https://web.extension.illinois.edu/stain/) - Stain Solution Index
+* [CarComplaints](https://www.carcomplaints.com/) - Car Problems, Car Complaints and Repairs
+* [PlateRecognizer](https://platerecognizer.com/) - License Plate Recognition
+* [Fragrantica](https://www.fragrantica.com/), [Basenotes](https://basenotes.com/) or [Parfumo](https://www.parfumo.net/) - Perfume / Fragrance Databases
+* [Stolen Drone](https://stolendrone.info/) - Stolen Drone Info
+* [Morse Code](https://morsecode.me/) or [Woozle](https://vail.woozle.org/) - Create Morse Code Audio
+* [Parcelsapp](https://parcelsapp.com/en/) or [17Track](https://www.17track.net/en) - International Package Tracking
+* [Sweet Home 3D](https://www.sweethome3d.com/) or [Homestyler](https://www.homestyler.com/) - Interior Design Apps
+* [Interiorai](https://interiorai.com/) - AI Interior Design Tool
+* [BlockLayer](https://www.blocklayer.com/) - Construction / Remodeling Calculators
+* [TemplateMaker](https://www.templatemaker.nl/) - Package / Box Templates
+* [/r/Assistance](https://www.reddit.com/r/Assistance/), [/r/borrow](https://www.reddit.com/r/borrow/), [/r/Random_Acts_Of_Pizza](https://www.reddit.com/r/Random_Acts_Of_Pizza/) or [/r/Homeless](https://www.reddit.com/r/homeless/) - Assistance / Donation Subreddits
+* [CharityNavigator](https://www.charitynavigator.org/), [CharityWatch](https://www.charitywatch.org/) or [GiveWell](https://www.givewell.org) - Charity Ratings and Donor Resources
 
 ***
 
