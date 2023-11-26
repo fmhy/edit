@@ -99,7 +99,16 @@
 
 ## ▷ Linux Audio
 
-* ↪️ **[Music Libraries / Players](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_music_libraries_.2F_players)**
+* [cmus](https://cmus.github.io/) - Audio Player
+* [Tauon Music Box](https://tauonmusicbox.rocks/) - Audio Player
+* [Lollypop](https://wiki.gnome.org/Apps/Lollypop), [2](https://gitlab.gnome.org/World/lollypop) - Audio Player 
+* [Audacious](https://audacious-media-player.org/) - Audio Player
+* [Rhythmbox](https://wiki.gnome.org/Apps/Rhythmbox) - Audio Player
+* [Amberol](https://gitlab.gnome.org/World/amberol) - Audio Player
+* [Subsonic](https://github.com/twostraws/Subsonic) - Audio Player
+* [g4music](https://gitlab.gnome.org/neithern/g4music) - Audio Player
+* [dopamine](https://github.com/digimezzo/dopamine) - Audio Player
+* [AudioTube](https://invent.kde.org/multimedia/audiotube) - Audio Player
 * [spotify-qt](https://github.com/kraxarn/spotify-qt), [Spot](https://github.com/xou816/spot) or [SpotifyD](https://github.com/Spotifyd/spotifyd) - Spotify Clients
 * [Librespot-Python](https://github.com/kokarare1212/librespot-python) - Spotify TUI
 * [Monophony](https://gitlab.com/Vistaus/monophony) - YouTube Music Client
@@ -417,7 +426,6 @@
 
 # ► Mac Apps
 
-* ↪️ **[Mac Audio Players](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_music_libraries_.2F_players)**
 * ⭐ **[gibMacOS](https://github.com/corpnewt/gibMacOS)** or [OldSchoolOS](https://www.oldschoolos.com/) - Download MacOS
 * ⭐ **[Readdle](https://readdle.com/documents)** - Multipurpose File Tool
 * ⭐ **[PeaZip](https://peazip.github.io/peazip-macos.html)**, [The Unarchiver](https://theunarchiver.com/), [unxip](https://github.com/saagarjha/unxip) or [Keka](https://www.keka.io/) - File Archivers
@@ -443,6 +451,7 @@
 * [macos-virtualbox](https://github.com/myspaghetti/macos-virtualbox) - MacOS Virtualbox Installer
 * [SwiftUI Win11](https://jinxiansen.github.io/Windows11/) - Windows 11 Desktop Client for macOS
 * [OrbStack](https://orbstack.dev/) - Docker Client
+* [Cog](https://cogx.org/) or [Cider](https://cider.sh/) / [GitHub](https://github.com/ciderapp/Cider) - Audio Players
 * [Psst](https://github.com/jpochyla/psst) - Spotify Client
 * [Alfred Spotify Mini Player](https://alfred-spotify-mini-player.com/) - Spotify Mini Player
 * [Nuage](https://github.com/lbrndnr/nuage-macos) - Soundcloud Client
