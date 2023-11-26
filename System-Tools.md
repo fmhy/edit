@@ -134,7 +134,6 @@
 
 * 🌐 **[VPS Comparison Chart](https://lowendstock.com/)** - VPS Comparisons
 * ⭐ **[RustDesk](https://rustdesk.com/)** / [GitHub](https://github.com/rustdesk/rustdesk)
-* [w-colab](https://github.com/akuhnet/w-colab)
 * [Ammyy](https://www.ammyy.com/en/)
 * [FreeRDP](https://www.freerdp.com/)
 * [Myrtille](https://cedrozor.github.io/myrtille/)
@@ -155,7 +154,6 @@
 * [CoScreen](https://www.coscreen.co/)
 * [TigerVNC](https://tigervnc.org/) - VNC
 * [Oracle VPS](https://rentry.co/oraclevps) - VPS
-* [Google VPS 25GB Ram](https://colab.research.google.com/drive/16ORaesJ0C9bt6tTOgd90NuwEUDiquofz) - VPS
 * [InputDirector](https://www.inputdirector.com/) - Multi-Computer
 * [Barrier](https://github.com/debauchee/barrier) - Multi-Computer
 * [Mouse Without Borders](https://www.microsoft.com/en-us/garage/wall-of-fame/mouse-without-borders/) - Multi-Computer
