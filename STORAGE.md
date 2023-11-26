@@ -358,16 +358,6 @@
 
 ***
 
-## Calculator Sites
-
-* ⭐ **[Awesome Calculators](https://github.com/xxczaki/awesome-calculators)**
-* ⭐ **[Wolfram|Alpha](https://www.wolframalpha.com/examples/mathematics)**
-* ⭐ **[Omni Calculator](https://www.omnicalculator.com/)**
-
-[CalculatorSoup](https://www.calculatorsoup.com/), [Number Empire](https://www.numberempire.com/), [EasyCalculation](https://www.easycalculation.com/), [Calculator.net](https://www.calculator.net/), [KeepFormula](https://keepformula.github.io/), [CalculatorHut](https://www.calculatorhut.com/), [GigaCalculator](https://www.gigacalculator.com/), [numbr.dev](https://numbr.dev/)
-
-***
-
 ## Calendars
 
 * ⭐ **[Cal.com](https://cal.com/)** - [GitHub](https://github.com/calcom/cal.com)
