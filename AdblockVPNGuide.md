@@ -504,7 +504,7 @@
 * ⭐ **[Bypass ISP Blocks](https://rentry.co/enable-ech)** - Bypass ISP censorship with Firefox
 * [GoodbyeDPI](https://github.com/ValdikSS/GoodbyeDPI/) / [GUI](https://github.com/mguludag/GUI-for-GoodbyeDPI), [Green Tunnel](https://github.com/SadeghHayeri/GreenTunnel), [NETBRIGHT](https://github.com/yebekhe/NETBRIGHT) or [GFW-knocker](https://github.com/GFW-knocker/gfw_resist_tls_proxy) / [Test](https://www.howsmyssl.com/) - DPI Circumvention Local Proxies
 * [Hola Proxy](https://github.com/Snawoot/hola-proxy) - Alternative Client for Hola Free Proxy Service
-* [anonymoX](https://anonymox.net/en) - Free Proxy Service Browser Extension
+* [Hide.me Firefox](https://addons.mozilla.org/en-US/firefox/addon/hide-me-vpn-free-proxy/) / [Chrome](https://chromewebstore.google.com/detail/hideme-proxy/ohjocgmpmlfahafbipehkhbaacoemojp) or [anonymoX](https://anonymox.net/en) - Free Proxy Service Browser Extension
 * [Snowflake](https://snowflake.torproject.org/) - Tor Proxy Browser Extension
 * [SwitchyOmega](https://github.com/FelisCatus/SwitchyOmega) - Proxy Manager Browser Extension
 * [FoxyProxy](https://getfoxyproxy.org/), [Proxy Privacy Ruler](https://github.com/JustOff/proxy-privacy-ruler) - Proxy Manager Extensions for Firefox
