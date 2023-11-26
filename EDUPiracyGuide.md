@@ -602,8 +602,13 @@
 * 🌐 **[Awesome Music Theory](https://github.com/vpavlenko/study-music)** - Music Theory Resources
 * 🌐 **[Music Outfitters](https://musicoutfitters.com/)** - Music Services / Information
 * ↪️ **[Sheet Music Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_sheet_music_sites)**
+* [Helio](https://helio.fm/) or [NoteHeads](https://noteheads.net/) - Music Composition Tools
+* [MusicKit](https://musickit.jull.dev/) or [Tone Generator](https://www.szynalski.com/tone-generator/) - Metronome, Tuner & Tone Generators 
+* [Tuner Ninja](https://tuner.ninja/) - Instrument Tuner 
 * [Circle of Fifths](https://muted.io/circle-of-fifths/) - Visualize Notes, Cords & Keys
 * [ScoreCloud](https://scorecloud.com/) or [Chordify](https://chordify.net/) - Chord Detection / Transcriber
+* [Arpeggiator](https://codepen.io/jakealbaugh/full/qNrZyw) or [AutoChords](https://autochords.com/) - Chord Progression Generators
+* [HookTheory](https://www.hooktheory.com/trends) - Chord Progression Library 
 * [Piano Scribe](https://piano-scribe.glitch.me/) - Piano Transcriber
 * [Sound Slice](https://soundslice.com/) or [Nootka](https://nootka.sourceforge.io/) - Sheet Music Learning
 * [LilyPond](https://lilypond.org/) - Music Engraving Program
@@ -612,6 +617,7 @@
 * [Piano Trainer](https://zaneh.itch.io/piano-trainer) or [PianoCheetah](https://pianocheetah.app) - Piano Practice
 * [TrueToneGuitar](https://www.truetoneguitar.co.uk/tools/guitar-practice-routine-generator), [Songsterr](https://www.songsterr.com/), [FAChords](https://www.fachords.com/) or [ChordBook](https://chordbook.com/) - Guitar Tools
 * [FretFlip](https://fretflip.com/guitar-scales) or [GuitarScale](https://www.guitarscale.org/) - Guitar Scales
+* [#fretflip](https://fretflip.com/) - Create / Print Guitar Scales & Chord Charts 
 * [JustinGuitar](https://www.justinguitar.com/) or [Guitarsix](https://guitarsix.com/) - Guitar Lessons
 * [Ultimate Guitar](https://www.ultimate-guitar.com/) - Guitar Tabs
 * [Chorder](https://www.chorder.com/guitar-chords/) - C Major Guitar Chord
