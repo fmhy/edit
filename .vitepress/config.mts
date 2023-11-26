@@ -126,6 +126,7 @@ export default defineConfig({
       { text: "📦 Storage", link: "/storage" },
       {
         text: "🔧 Tools",
+        collapsed: false,
         items: [
           { text: "💻 System Tools", link: "/system-tools" },
           { text: "🗃️ File Tools", link: "/file-tools" },
@@ -136,7 +137,7 @@ export default defineConfig({
           { text: "📼 Video Tools", link: "/video-tools" },
           { text: "🔊 Audio Tools", link: "/audio-tools" },
           { text: "🍎 Educational Tools", link: "/edupiracyguide#educational-tools" },
-          { text: "👨<200d>💻 Developer Tools", link: "/devtools" },
+          { text: "👨‍💻 Developer Tools", link: "/devtools" },
         ],
       },
     ],
