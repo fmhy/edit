@@ -4,7 +4,7 @@
 ***
 ***
 
-**[Table of Contents](https://ibb.co/kKbz8kZ)** - For mobile users
+**[Table of Contents](https://ibb.co/YLrj7nT)** - For mobile users
 
 ***
 *** 
@@ -112,7 +112,6 @@
 * ↪️ **[Security / Hacking News](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_security_.2F_hacking_news)**
 * ↪️ **[Health News Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_health_news)**
 * ↪️ **[Bypass Article Paywalls](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_read_paywalled_articles)**
-* ↪️ **[Article Summary Generators](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_text_rephrasing)**
 * ⭐ **[/m/news](https://www.reddit.com/user/nbatman/m/news/)** - News Multireddit
 * ⭐ **[PublicAlerts](https://google.org/publicalerts)** - Important News / Disaster Alerts
 * ⭐ **[TorrentFreak](https://torrentfreak.com/)** / [Telegram](https://t.me/torrentfreaks) - Piracy News
@@ -645,54 +644,6 @@
 * [What3Words](https://what3words.com/) - 3 Word Address'
 * [OpenMapTiles](https://openmaptiles.org/) - Self-Hosted Maps / Satellite View
 * [CAD Mapper](https://cadmapper.com/) - Free CAD Files
-
-***
-
-# ► Fonts
-
-* ↪️ **[Font Download Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_font_sites)**
-* ↪️ **[Unicode Font Generators](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_unicode_font_generators)**
-* ⭐ **[Font Download Guide](https://redd.it/8tqfg6)**
-* ⭐ **[Fontogen](https://github.com/SerCeMan/fontogen)** - Custom AI Font Generator
-* ⭐ **[TypeTrials](https://typetrials.com/)** - Variable Font Playground
-* ⭐ **[Nerd Fonts](https://www.nerdfonts.com/)** - Iconic Font Aggregator
-* ⭐ **[Make WordArt](https://www.makewordart.com/)**, [FlameText](https://www10.flamingtext.com/), [MakeText](https://maketext.io/), [TextGiraffe](https://www.textgiraffe.com/), [Text Pro](https://textpro.me/) or [CoolText](https://cooltext.com/) - WordArt Generators
-* ⭐ **[WhatTheFont](https://www.myfonts.com/WhatTheFont/)**, [Identifont](http://www.identifont.com/), [WhatFont](https://www.chengyinliu.com/whatfont.html), [Fonty.io](https://fonty.io/) or [What Font Is](https://www.whatfontis.com/) - Font Identification Tools
-* ⭐ **[FontDrop](https://fontdrop.info/)** - Analyze Font Files
-* [Fork-Awesome](https://forkaweso.me/Fork-Awesome/) - Font Toolkit
-* [Typewolf](https://www.typewolf.com/) or [Typ.io](https://typ.io/) - Trending Website Fonts
-* [DS Fusion](https://ds-fusion.github.io/) - AI Typography Generator
-* [Formito](https://formito.com/tools/logo) - Typography Logo Maker
-* [FontFlipper](https://fontflipper.com/) - Add Text to images
-* [enFont](https://enfont.javierarce.com/), [Calligraphr](https://www.calligraphr.com/en/) or [Fontstruct](https://fontstruct.com/) - Custom Font Creators
-* [Phase](https://www.eliashanzer.com/phase/) - Variable Fonts Generator
-* [V-Fonts](https://v-fonts.com/) - Variable Fonts Tester
-* [Fontjoy](https://experiments.withgoogle.com/fontjoy) - Generate Font Combinations
-* [FontSprite](https://adamstrange.itch.io/fontsprite) - FonstSprite Editor
-* [Textcraft](https://textcraft.net/) or [TextDrom](https://en.textdrom.com/) - Styled Font Generator
-* [Cava's Pixel Resources](https://caveras.net/) - Pixel Fonts
-* [Oldschool PC Fonts](https://int10h.org/oldschool-pc-fonts/) - Oldschool PC Fonts
-* [Textanim](https://textanim.com/) or [Space Type Generator](https://spacetypegenerator.com/) - Animated Text Generator 
-* [3DText2GIF](https://3dtext2gif.com/) or [TextsStudio](https://textstudio.co/) - Animated 3D Text Generator
-* [Batname](https://batname.vercel.app/) - Batman (2022) Font Generator
-* [Codeface](https://github.com/chrissimpkins/codeface) - Fonts for Coding
-* [Metropolis](https://github.com/dw5/Metropolis) - Modern Typeface
-* [FiraCode](https://github.com/tonsky/FiraCode), [Cascadia Code](https://github.com/microsoft/cascadia-code) or [Maple Font](https://github.com/subframe7536/Maple-font) - Monospace Fonts
-* [NFG's Arcade Font Maker](https://nfggames.com/games/fontmaker/) or [Arcade Font Writer](https://arcade.photonstorm.com/) - Arcade Font Engine
-* [Glitch](https://glitchtextgenerator.com/) - Glitch Text Generator
-* [Text Color Fader](https://patorjk.com/text-color-fader/) - Rainbow Text Generator
-* [Handwrite](https://github.com/cod-ed/handwrite) - Generate Font from Handwriting
-* [JoyPixels](https://www.joypixels.com/) - Emoji Font Generator
-* [MacType](https://github.com/snowie2000/mactype/releases) - Use Mac fonts on Windows
-* [Picas](https://picas.vercel.app/) - Google Font Logo Generator
-* [Bitfontmaker2](https://pentacom.jp/pentacom/bitfontmaker2/) - BitFont Creator
-* [FontJoy](https://fontjoy.com/) - Font Pairings Generator
-* [Typerip](https://badnoise.net/TypeRip/) - Adobe Font Ripper / [GitHub](https://github.com/CodeZombie/TypeRip)
-* [FontEdit](https://github.com/ayoy/fontedit), [glif](https://github.com/MFEK/glif), [Glyphr Studio](https://www.glyphrstudio.com/), [Bird Font](https://birdfont.org/) or [Font Forge](https://fontforge.org/en-US/) - Font Editors
-* [Transfonter](https://transfonter.org/) - Font Converter
-* [FontBase](https://fontba.se/) or [Xiles](https://www.xiles.app/) - Font Manager
-* [ShapeCatcher](https://shapecatcher.com/) - Unicode Identification
-* [Font List](https://wavian.com/font-list.html) or [So You Need A Typeface](https://ianli.github.io/so-you-need-a-typeface/) - Examples of Font Styles
 
 ***
 
