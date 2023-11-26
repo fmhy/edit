@@ -673,7 +673,6 @@
 # ► Android Audio
 
 * ↪️ **[Android Audio Players](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_android_audio_players)**
-* ↪️ **[Telegram Deezer Bots](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_telegram_deezer_bots)**
 * ⭐ **[xManager](https://www.xmanagerapp.com/)** / [Discord](https://discord.com/invite/dnpKn5Wufm) or [Modded Spotify](https://github.com/nbats/FMHYedit/blob/main/base64.md#modded-spotify-apk) - Ad Free Spotify
 * ⭐ **xManager Tools** - [Friend Activity](https://spotivity.me//) / [Mute Ads](https://play.google.com/store/apps/details?id=live.teekamsuthar.mutify), [2](https://github.com/aghontpi/ad-silence) / [Stats](https://stats.fm/)
 * ⭐ **[InnerTune](https://github.com/z-huang/InnerTune)**, [Namida](https://github.com/namidaco/namida), [RiMusic](https://github.com/fast4x/RiMusic), [Harmony Music](https://github.com/anandnet/Harmony-Music), [SimpMusic](https://github.com/maxrave-dev/SimpMusic), [spmp](https://github.com/toasterofbread/spmp), [Gyawun](https://github.com/jhelumcorp/gyawun) or [MellowMusic](https://github.com/SuhasDissa/MellowMusic) - YouTube Music Players
@@ -1034,8 +1033,6 @@
 
 # ► iOS Audio
 
-* ↪️ **[Telegram Deezer Bots](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_telegram_deezer_bots)**
-* ↪️ **[Song Identification](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_song_identification)**
 * ⭐ **[Spotify++](https://github.com/nbats/FMHYedit/blob/main/base64.md#spotify)**, **[SpotC++](https://github.com/SpotCompiled/SpotC-Plus-Plus)**, [Spotilife](https://github.com/nbats/FMHYedit/blob/main/base64.md#spotilifee), [Tweaked Spotify](https://github.com/nbats/FMHYedit/blob/main/base64.md#tweaked-spotify) or [Spotify](https://apps.apple.com/us/app/spotify-music-and-podcasts/id324684580) - Streaming / [Listening Stats](https://apps.apple.com/us/app/spotistats-for-spotify/id1526912392)
 * ⭐ **[YT Tweaked](https://github.com/nbats/FMHYedit/blob/main/base64.md#yt-tweaked-ipas)**, [YTMusilife](https://github.com/nbats/FMHYedit/blob/main/base64.md#ytmusilife) or [YTMusicUltimate](https://github.com/ginsudev/YTMusicUltimate), [Trebel](https://home.trebel.io/), [Soundcloud](https://apps.apple.com/us/app/soundcloud/id336353151), [eSound](https://apps.apple.com/ca/app/esound-music-player-app-mp3/id1224933860), [Musi](https://feelthemusi.com/), [iMusic](https://apps.apple.com/us/app/imusic-offline-music-player/id1535124961) or [Audiomack](https://apps.apple.com/ca/app/audiomack-download-new-music/id921765888) - Streaming
 * [DeezeLife](https://github.com/nbats/FMHYedit/blob/main/base64.md#deezelife) / [2](https://repo.hackyouriphone.org/deezelife) or [Deezer](https://apps.apple.com/app/deezer/id292738169) - Streaming
