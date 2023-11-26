@@ -1373,7 +1373,6 @@
 * [Netron](https://github.com/lutzroeder/netron) - Visualizer for Neural Network, Deep Learning, and Machine Learning Models
 * [Scikit Learn](https://github.com/scikit-learn/scikit-learn) - Machine Learning Library for Python
 * [Kobra](https://kobra.dev/) - Visual Programming Language for Machine Learning
-* [DVC](https://dvc.org/) - Machine Learning Version Control
 * [DialoGPT](https://github.com/microsoft/DialoGPT) - Dialogue Machine Learning Model
 * [MMDeploy](https://github.com/open-mmlab/mmdeploy) - Deep Learning Model Deployment Toolset 
 * [DeepSpeed](https://github.com/microsoft/DeepSpeed) - Deep Learning Optimization Library
@@ -1386,7 +1385,7 @@
 * [100-Days-Of-ML-Code](https://github.com/Avik-Jain/100-Days-Of-ML-Code) or [Practical Deep Learning](https://course.fast.ai/) - Machine Learning Coding Lessons
 * [Nixified](https://nixified.ai/) - Nix Flake for AI Projects
 * [Approaching (Almost) Any Machine Learning Problem](https://github.com/abhishekkrthakur/approachingalmost/blob/master/AAAMLP.pdf) - Machine Learning Problem Solving Book
-* [MetaAcademy](https://metacademy.org/) - Machine Learning Guides
+* [MetaAcademy](https://metacademy.org/) or [HF Learn](https://huggingface.co/learn) - Machine Learning Guides
 * [ML-Youtube-Courses](https://github.com/dair-ai/ML-YouTube-Courses) - Machine Learning Courses on YouTube
 * [ML Course Notes](https://github.com/dair-ai/ML-Course-Notes) - Machine Learning Course Notes
 * [100-Days-Of-ML-Code](https://github.com/Avik-Jain/100-Days-Of-ML-Code) or [Practical Deep Learning](https://course.fast.ai/) - Machine Learning Coding Lessons 
