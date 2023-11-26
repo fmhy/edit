@@ -4,7 +4,7 @@
 ***
 ***
 
-**[Table of Contents](https://ibb.co/YLrj7nT)** - For mobile users
+**[Table of Contents](https://ibb.co/w0gwn7M)** - For mobile users
 
 ***
 *** 
@@ -254,118 +254,6 @@
 * [Chip Drop](https://getchipdrop.com/) - Free Mulch
 * [Hardiness Zones](https://upload.wikimedia.org/wikipedia/commons/a/a7/World_Hardiness_Zones.png) or [Plant Maps](https://www.plantmaps.com/) - Global Map of Hardiness Zones
 * [/r/Microgrowery](https://reddit.com/r/microgrowery/) - Cannabis Growing Community
-
-***
-
-# ► Health
-
-* 🌐 **[Awesome Mental Health](https://github.com/dreamingechoes/awesome-mental-health)** or [mentalillnessmouse](https://mentalillnessmouse.wordpress.com/helpfulresources/) - Mental Health Resources
-* 🌐 **[Evidence Based Training Wiki](https://www.reddit.com/r/EvidenceBasedTraining/wiki/index/)** - Evidence-Based Training Resources
-* ↪️ **[Health News](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_health_news)**
-* ↪️ **[Food Nutrition Scanners](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_nutrition_.2F_ingredients)**
-* ⭐ **[/r/Nutrition](https://www.reddit.com/r/nutrition/)** - Nutrition Subreddit
-* ⭐ **[Caffeine Calculator](https://caffeineinformer.com/death-by-caffeine)** - Caffeine Intake Calculator
-* ⭐ **[Dehydration Chart](https://i.ibb.co/b3YxZzr/921f6c843cf0.png)** - Dehydration Color Chart
-* ⭐ **[BMI Chart](https://i.ibb.co/bL65m8F/995c00ec75ba.png)** - Healthy BMI Graph
-* ⭐ **[Standard BMI Calculator](https://www.nhlbi.nih.gov/health/educational/lose_wt/BMI/bmicalc.htm)** - BMI Calculator
-* ⭐ **[Simple Science Fitness](https://ss.fitness/calculators)** or [SwoleHalla](https://www.swolehalla.com/) - Fitness Calculators
-* ⭐ **[/u/KNightNox Diagram](https://i.ibb.co/xCGRdM0/c3b977fa36fc.jpg)** - Zoomable Exercise Diagram
-* ⭐ **[Safe Substance](https://safesubstance.com/)**, [Drugs.com](https://www.drugs.com/) or [DrugBank](https://go.drugbank.com/) - Drug Information / Side Effects
-* ⭐ **[/r/NoSurf](https://www.reddit.com/r/nosurf/wiki/index)** - Digital Detox Community / [Discord](https://discordapp.com/invite/QFhXt2F)
-* [healthgrades](https://www.healthgrades.com/right-care/health-content-a-z), [epocrates](https://online.epocrates.com/), [medlineplus](https://medlineplus.gov/), [merckmanuals](https://www.merckmanuals.com/), [mayoclinic](https://www.mayoclinic.org/), [rxlist](https://www.rxlist.com/), [nejm](https://www.nejm.org/), [ncbi](https://www.ncbi.nlm.nih.gov/pmc/), [hhs](https://www.hhs.gov/), [nih](https://www.nih.gov/), [cdc](https://www.cdc.gov/) - Government Health Resources
-* [osh](https://www.osh.net/) - Occupational Health and Safety Resources
-* [CancerFactFinder](https://cancerfactfinder.org/) - Cancer Fact Search
-* [Nomie](https://v5.nomie.app/), [Koduko](https://github.com/Mazahir26/koduko) or [Respawn](https://respawn.pro/) - Habit / Mood Trackers
-* [BreakFree](https://breakfree-2c089.web.app/) - Break Smoking Habits
-* [Sobriety](https://github.com/KiARC/Sobriety) - Sobriety Tracker
-* [NutritionFacts.org](https://nutritionfacts.org/) - Video Library for Latest Health-based Research
-* [The Nutrition Source](https://www.hsph.harvard.edu/nutritionsource/) - Harvard University Health Website
-* [Liam Rosen's Fitness Guide](https://liamrosen.com/fitness.html) - Beginners Health & Fitness Guide
-* [jamesflorentino-fitness](https://github.com/jamesflorentino/fitness) or [AMMFitness](https://www.ammfitness.co.uk/) - Fitness / Nutrition Info 
-* [The Fitness Wiki](https://thefitness.wiki/) - Fitness Information Wiki
-* [Google Fit](https://www.google.com/fit/) - Activity Coach
-* [No Equipment Ab Exercises](https://i.ibb.co/YdNy3K2/12df795c3938.jpg) - Ab Exercise Diagram
-* [fastnfitness](https://github.com/brodeurlv/fastnfitness) - Track Your Exercise Progress
-* [CalorieScope](https://f-droid.org/packages/org.dynamicsoft.caloriescope/) or [PFCTE](https://github.com/SecUSo/privacy-friendly-circuit-training-exercises) - Exercise & Activity Tracker
-* [ExRx.net](https://exrx.net/) - Exercise Resources
-* [Cronometer](https://cronometer.com/), [Energize](https://codeberg.org/epinez/Energize/) or [Waistline](https://github.com/davidhealey/waistline) - Track Nutrition & Calories
-* [MyFoodData](https://www.myfooddata.com) - Food Nutrition Tools
-* [Food-E App](https://github.com/SuhasDissa/Food-E-App) - Food Additives Database App
-* [wger](https://wger.de/) - Self-Hosted Workout, Nutrition / Weight App / [GitHub](https://github.com/wger-project/wger)
-* [Liquid Drink](https://play.google.com/store/apps/details?id=com.xpp.drink) - Liquid Intake Tracker
-* [Daily Dozen](https://github.com/nutritionfactsorg/daily-dozen-android) - Daily Diet Recommendations / Android
-* [EatThisMuch](https://www.eatthismuch.com/), [FitMenCook](https://fitmencook.com/) or [MealPrePro](https://mealpreppro.com/) - Diet Tool / iOS / Android 
-* [Examine.com](https://examine.com/) - Supplement & Nutrition Analysis
-* [Child Nutrition](https://www.coursera.org/learn/childnutrition) - Child Nutrition / Cooking Course 
-* [Kids Health](https://www.kidshealth.org/) - Kids Health Information
-* [openScale](https://f-droid.org/packages/com.health.openscale/) - Weight & Body Metrics Tracker
-* [Effective Fitness](https://www.e-fitness.org/) - Fitness Discussion / [Discord](https://discord.gg/fitness)
-* [SailRabbit](https://www.sailrabbit.com/bmr/) - BMR / TDEE Calculator
-* [/r/BodyweightFitness](https://www.reddit.com/r/BodyweightFitness) - Bodyweight Fitness Subreddit / [Discord](https://discord.gg/bwf)
-* [Start Bodyweight](http://www.startbodyweight.com/) - Bodyweight Training
-* [Bodyweight Fitness Progressions](https://docs.google.com/spreadsheets/d/1a8tlZ-zbF695HA3Lmm20OIYeYYxo1lmUOczUXKLoL4s/)
-* [/r/LoseIt](https://www.reddit.com/r/loseit/) - Weight Loss Subreddit
-* [MOVE! Coach](https://mobile.va.gov/app/move-coach) - Weight Loss Program
-* [Weight Loss Side Effects](https://weight-loss-side-effects.netlify.app/) - Weight Loss Side Effect Mitigation
-* [BodyVisualizer](https://bodyvisualizer.com/) - Exercise Benefit Visualization
-* [Muscleandstrength](https://muscleandstrength.com/) or [Feeel](https://gitlab.com/enjoyingfoss/feeel) - Workout Plans & Tools
-* [/r/GainIt](https://www.reddit.com/r/gainit/) - Healthy Weight Gain Subreddit
-* [/r/Fexibility](https://www.reddit.com/r/flexibility/) - Flexibility Subreddit
-* [My Pacer](https://www.mypacer.com/) - Fitness App / Pedometer
-* [MyFitnessPal](https://www.myfitnesspal.com/) - Fitness / Health App
-* [FitoTrack](https://codeberg.org/jannis/FitoTrack) or [openScale](https://github.com/oliexdev/openScale) - Fitness Trackers
-* [Liftosaur](https://www.liftosaur.com/) - Weight Lifting Tracker / [GitHub](https://github.com/astashov/liftosaur)
-* [MuscleWiki](https://musclewiki.com/) - Muscle / Exercise Information Tool
-* [SPSS Tutorials](https://www.spss-tutorials.com/) - SPSS Practice & Examples
-* [Fitness Blender](https://www.fitnessblender.com/videos?exclusive%5B%5D=0) - Workout Videos
-* [Fitocracy](https://www.fitocracy.com/) or [Workout.lol](https://workout.lol/) - Create Workout Plans
-* [DAREBEE](https://darebee.com/) - Fitness Plans / Workouts
-* [Hevy](https://www.hevyapp.com/), [Iron](https://github.com/kabouzeid/Iron), [Massive](https://gitea.presley.nz/brandon.presley/Massive), [GymRoutines](https://codeberg.org/noahjutz/GymRoutines), [Boostcamp](https://www.boostcamp.app/) or [FitHero](https://fithero.app/) - Workout Trackers
-* [OpenTrack](https://opentracksapp.com/) - Sports Tracking App
-* [GoldenCheetah](https://www.goldencheetah.org/), [AAT](https://bailu.ch/aat/) or [BikeComputer](https://f-droid.org/packages/de.nulide.bikecomputer/) - Cycling / Biking Trackers
-* [Eurovelo](https://en.eurovelo.com/) - European Cycling Routes
-* [AllTrails](https://www.alltrails.com/) - Hiking Routes
-* [MapMyWalk](https://www.mapmywalk.com/) - Walking Tracker
-* [RunnerUp](https://github.com/jonasoreland/runnerup) or [Strava](https://www.strava.com/) - Run Trackers
-* [Bikemap](https://www.bikemap.net/) - Running Routes
-* [Charity Miles](https://charitymiles.org/) - Donate to Charity While Running / Biking
-* [Zombies, Run!](https://apps.apple.com/us/app/zombies-run/id503519713) - Zombie Running Adventure Game
-* [Runlytics](https://www.runlytics.app/) - Running Analytics
-* [Bone Health Tracker](https://bonehealthtracker.com/) - Track Bone Health
-* [Plees Tracker](https://github.com/vmiklos/plees-tracker) - Sleep Tracker
-* [Benefits of Good Posture](https://youtu.be/OyK0oE5rwFY) - Posture Importance Lesson
-* [StuffThatWorks](https://www.stuffthatworks.health/) - Chronic Condition Info / Treatments
-* [Tone-Deafness Test](https://www.themusiclab.org/quizzes/td) - Pitch Perception Test
-* [INCIDecoder](https://incidecoder.com/) - Skincare Ingredient Lists
-* [Healthline](https://www.healthline.com/health/sore-tongue-remedy) - Remedies for Sores on Tongue
-* [You feel like shit.](https://philome.la/jace_harr/you-feel-like-shit-an-interactive-self-care-guide/play/index.html) - Interactive Self Care Guide
-* [deskspace](https://npckc.itch.io/deskspace) - Self-Care App
-* [DrugFree](https://drugfree.org/) - Drug Abuse Prevention & Recovery Help
-* [Mindfulness Coach](https://mobile.va.gov/app/mindfulness-coach) - Mindfulness / Stress Reduction Tips
-* [Coping Skills Masterlist](https://docs.google.com/document/d/1KI1kzj6Bjx_O3ggYXfgEuTtOsLiCW0V-JeWpTyX5OOU/) - Mental Health Coping Skills
-* [Zen Habits](https://zenhabits.net/) - Develop Zen Habits
-* [Year In Pixels](https://year-in-pixels.glitch.me/) - Mood Tracking Calendar
-* [Did I Take My Meds?](https://github.com/CorruptedArk/did-i-take-my-meds) - Medical Data Log
-* [Simpill](https://gitlab.com/simpilldev/simpill) - Medication Reminders
-* [Insomnia Coach](https://mobile.va.gov/app/insomnia-coach) - Insomnia Prevention Tips
-* [eXHALeR](https://www.xhalr.com/) - Yoga / Meditation Breathing Tool 
-* [Medito](https://github.com/meditohq/medito-app) or [Heartfulness](https://www.heartfulnessapp.org/) - Meditation App
-* [Meditation Timer](https://meditation.koti.cloud/) - Meditation Timer / Session Tracker
-* [PixelThoughts](https://www.pixelthoughts.co/) - 60 Second Relaxation Tool
-* [One Mind PsyberGuide](https://onemindpsyberguide.org/) - Mental Health App Reviews
-* [7 Cups](https://www.7cups.com/) or [OnlineCounselling4u](https://www.onlinecounselling4u.com/) - Free Counseling & Therapy
-* [Online Psych Services](https://redd.it/nryig4) - Centers Offering Free Online Psych Services
-* [Balance](https://balance.dvy.io/) - Challenge Anxious Thoughts w/ AI
-* [babycenter](https://www.babycenter.com/) - Pregnancy and Parenting Resources
-* [Pregnancy Calculator](https://americanpregnancy.org/resources/pregnancy-calculator/) - Due Date Calculator
-* [DoItRight](https://doitright.ph/) or [Scarleteen](https://www.scarleteen.com/) - Sex Education Resources
-* [Euki](https://eukiapp.com/) - Sexual / Reproductive Health App
-* [Abortion Resources](https://redd.it/phrcrn) / [2](https://redd.it/vm56bs), [PlannedParenthood](https://www.plannedparenthood.org/) or [Safe2Choose](https://safe2choose.org/) - Abortion Resources
-* [WomenOnWeb](https://www.womenonweb.org/) - Free Abortion Pills
-* [Tubal Sterilization](https://docs.google.com/spreadsheets/d/1Djia_WkrVO3S4jKn6odNwQk7pOcpcL4x00FMNekrb7Q/) - Tubal Sterilization Gynecologists
-* [Erin's Informed Consent HRT Map](https://redd.it/d6p05q) - Informed Consent HRT Clinics
-* [Drip](https://bloodyhealth.gitlab.io) - Open Source E2EE Period Tracking App
-* [What Dogs Can Eat](https://www.pawmenow.com/what-dogs-can-eat/) - Search Safe Human Food for Dogs
 
 ***
 
@@ -644,6 +532,140 @@
 * [What3Words](https://what3words.com/) - 3 Word Address'
 * [OpenMapTiles](https://openmaptiles.org/) - Self-Hosted Maps / Satellite View
 * [CAD Mapper](https://cadmapper.com/) - Free CAD Files
+
+***
+
+# ► Health
+
+## ▷ Mental Health
+
+* 🌐 **[Awesome Mental Health](https://github.com/dreamingechoes/awesome-mental-health)** or [mentalillnessmouse](https://mentalillnessmouse.wordpress.com/helpfulresources/) - Mental Health Resources
+* [Nomie](https://v5.nomie.app/), [Koduko](https://github.com/Mazahir26/koduko) or [Respawn](https://respawn.pro/) - Habit / Mood Trackers
+* [You feel like shit.](https://philome.la/jace_harr/you-feel-like-shit-an-interactive-self-care-guide/play/index.html) - Interactive Self Care Guide
+* [deskspace](https://npckc.itch.io/deskspace) - Self-Care App
+* [Mindfulness Coach](https://mobile.va.gov/app/mindfulness-coach) - Mindfulness / Stress Reduction Tips
+* [Coping Skills Masterlist](https://docs.google.com/document/d/1KI1kzj6Bjx_O3ggYXfgEuTtOsLiCW0V-JeWpTyX5OOU/) - Mental Health Coping Skills
+* [Zen Habits](https://zenhabits.net/) - Develop Zen Habits
+* [Year In Pixels](https://year-in-pixels.glitch.me/) - Mood Tracking Calendar
+* [Did I Take My Meds?](https://github.com/CorruptedArk/did-i-take-my-meds) - Medical Data Log
+* [Simpill](https://gitlab.com/simpilldev/simpill) - Medication Reminders
+* [Insomnia Coach](https://mobile.va.gov/app/insomnia-coach) - Insomnia Prevention Tips
+* [eXHALeR](https://www.xhalr.com/) - Yoga / Meditation Breathing Tool 
+* [Medito](https://github.com/meditohq/medito-app) or [Heartfulness](https://www.heartfulnessapp.org/) - Meditation App
+* [Meditation Timer](https://meditation.koti.cloud/) - Meditation Timer / Session Tracker
+* [PixelThoughts](https://www.pixelthoughts.co/) - 60 Second Relaxation Tool
+* [One Mind PsyberGuide](https://onemindpsyberguide.org/) - Mental Health App Reviews
+* [7 Cups](https://www.7cups.com/) or [OnlineCounselling4u](https://www.onlinecounselling4u.com/) - Free Counseling & Therapy
+* [Online Psych Services](https://redd.it/nryig4) - Centers Offering Free Online Psych Services
+* [Balance](https://balance.dvy.io/) - Challenge Anxious Thoughts w/ AI
+* [Plees Tracker](https://github.com/vmiklos/plees-tracker) - Sleep Tracker
+
+***
+
+## ▷ Physical Health
+
+* 🌐 **[Evidence Based Training Wiki](https://www.reddit.com/r/EvidenceBasedTraining/wiki/index/)** - Evidence-Based Training Resources
+* ↪️ **[Health News](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_health_news)**
+* ⭐ **[Simple Science Fitness](https://ss.fitness/calculators)** or [SwoleHalla](https://www.swolehalla.com/) - Fitness Calculators
+* ⭐ **[/u/KNightNox Diagram](https://i.ibb.co/xCGRdM0/c3b977fa36fc.jpg)** - Zoomable Exercise Diagram
+* [healthgrades](https://www.healthgrades.com/right-care/health-content-a-z), [epocrates](https://online.epocrates.com/), [medlineplus](https://medlineplus.gov/), [merckmanuals](https://www.merckmanuals.com/), [mayoclinic](https://www.mayoclinic.org/), [rxlist](https://www.rxlist.com/), [nejm](https://www.nejm.org/), [ncbi](https://www.ncbi.nlm.nih.gov/pmc/), [hhs](https://www.hhs.gov/), [nih](https://www.nih.gov/), [cdc](https://www.cdc.gov/) - Government Health Resources
+* [osh](https://www.osh.net/) - Occupational Health and Safety Resources
+* [CancerFactFinder](https://cancerfactfinder.org/) - Cancer Fact Search
+* [INCIDecoder](https://incidecoder.com/) - Skincare Ingredient Lists
+* [Liam Rosen's Fitness Guide](https://liamrosen.com/fitness.html) - Beginners Health & Fitness Guide
+* [jamesflorentino-fitness](https://github.com/jamesflorentino/fitness) or [AMMFitness](https://www.ammfitness.co.uk/) - Fitness / Nutrition Info 
+* [The Fitness Wiki](https://thefitness.wiki/) - Fitness Information Wiki
+* [Google Fit](https://www.google.com/fit/) - Activity Coach
+* [No Equipment Ab Exercises](https://i.ibb.co/YdNy3K2/12df795c3938.jpg) - Ab Exercise Diagram
+* [fastnfitness](https://github.com/brodeurlv/fastnfitness) - Track Your Exercise Progress
+* [ExRx.net](https://exrx.net/) - Exercise Resources
+* [wger](https://wger.de/) - Self-Hosted Workout, Nutrition / Weight App / [GitHub](https://github.com/wger-project/wger)
+* [openScale](https://f-droid.org/packages/com.health.openscale/) - Weight & Body Metrics Tracker
+* [Effective Fitness](https://www.e-fitness.org/) - Fitness Discussion / [Discord](https://discord.gg/fitness)
+* [SailRabbit](https://www.sailrabbit.com/bmr/) - BMR / TDEE Calculator
+* [/r/BodyweightFitness](https://www.reddit.com/r/BodyweightFitness) - Bodyweight Fitness Subreddit / [Discord](https://discord.gg/bwf)
+* [Start Bodyweight](http://www.startbodyweight.com/) - Bodyweight Training
+* [Bodyweight Fitness Progressions](https://docs.google.com/spreadsheets/d/1a8tlZ-zbF695HA3Lmm20OIYeYYxo1lmUOczUXKLoL4s/)
+* [/r/LoseIt](https://www.reddit.com/r/loseit/) - Weight Loss Subreddit
+* [MOVE! Coach](https://mobile.va.gov/app/move-coach) - Weight Loss Program
+* [Weight Loss Side Effects](https://weight-loss-side-effects.netlify.app/) - Weight Loss Side Effect Mitigation
+* [BodyVisualizer](https://bodyvisualizer.com/) - Exercise Benefit Visualization
+* [Muscleandstrength](https://muscleandstrength.com/) or [Feeel](https://gitlab.com/enjoyingfoss/feeel) - Workout Plans & Tools
+* [/r/GainIt](https://www.reddit.com/r/gainit/) - Healthy Weight Gain Subreddit
+* [/r/Fexibility](https://www.reddit.com/r/flexibility/) - Flexibility Subreddit
+* [My Pacer](https://www.mypacer.com/) - Fitness App / Pedometer
+* [MyFitnessPal](https://www.myfitnesspal.com/) - Fitness / Health App
+* [CalorieScope](https://f-droid.org/packages/org.dynamicsoft.caloriescope/) or [PFCTE](https://github.com/SecUSo/privacy-friendly-circuit-training-exercises) - Exercise & Activity Tracker
+* [FitoTrack](https://codeberg.org/jannis/FitoTrack) or [openScale](https://github.com/oliexdev/openScale) - Fitness Trackers
+* [Liftosaur](https://www.liftosaur.com/) - Weight Lifting Tracker / [GitHub](https://github.com/astashov/liftosaur)
+* [MuscleWiki](https://musclewiki.com/) - Muscle / Exercise Information Tool
+* [SPSS Tutorials](https://www.spss-tutorials.com/) - SPSS Practice & Examples
+* [Fitness Blender](https://www.fitnessblender.com/videos?exclusive%5B%5D=0) - Workout Videos
+* [Fitocracy](https://www.fitocracy.com/) or [Workout.lol](https://workout.lol/) - Create Workout Plans
+* [DAREBEE](https://darebee.com/) - Fitness Plans / Workouts
+* [Hevy](https://www.hevyapp.com/), [Iron](https://github.com/kabouzeid/Iron), [Massive](https://gitea.presley.nz/brandon.presley/Massive), [GymRoutines](https://codeberg.org/noahjutz/GymRoutines), [Boostcamp](https://www.boostcamp.app/) or [FitHero](https://fithero.app/) - Workout Trackers
+* [OpenTrack](https://opentracksapp.com/) - Sports Tracking App
+* [GoldenCheetah](https://www.goldencheetah.org/), [AAT](https://bailu.ch/aat/) or [BikeComputer](https://f-droid.org/packages/de.nulide.bikecomputer/) - Cycling / Biking Trackers
+* [Eurovelo](https://en.eurovelo.com/) - European Cycling Routes
+* [AllTrails](https://www.alltrails.com/) - Hiking Routes
+* [MapMyWalk](https://www.mapmywalk.com/) - Walking Tracker
+* [RunnerUp](https://github.com/jonasoreland/runnerup) or [Strava](https://www.strava.com/) - Run Trackers
+* [Bikemap](https://www.bikemap.net/) - Running Routes
+* [Charity Miles](https://charitymiles.org/) - Donate to Charity While Running / Biking
+* [Zombies, Run!](https://apps.apple.com/us/app/zombies-run/id503519713) - Zombie Running Adventure Game
+* [Runlytics](https://www.runlytics.app/) - Running Analytics
+* [Bone Health Tracker](https://bonehealthtracker.com/) - Track Bone Health
+* [Benefits of Good Posture](https://youtu.be/OyK0oE5rwFY) - Posture Importance Lesson
+* [Healthline](https://www.healthline.com/health/sore-tongue-remedy) - Remedies for Sores on Tongue
+* [StuffThatWorks](https://www.stuffthatworks.health/) - Chronic Condition Info / Treatments
+* [Tone-Deafness Test](https://www.themusiclab.org/quizzes/td) - Pitch Perception Test
+
+***
+
+## ▷ Nutritional Health
+
+* ↪️ **[Food Nutrition Scanners](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_nutrition_.2F_ingredients)**
+* ⭐ **[/r/Nutrition](https://www.reddit.com/r/nutrition/)** - Nutrition Subreddit
+* ⭐ **[Caffeine Calculator](https://caffeineinformer.com/death-by-caffeine)** - Caffeine Intake Calculator
+* ⭐ **[Dehydration Chart](https://i.ibb.co/b3YxZzr/921f6c843cf0.png)** - Dehydration Color Chart
+* ⭐ **[BMI Chart](https://i.ibb.co/bL65m8F/995c00ec75ba.png)** - Healthy BMI Graph
+* ⭐ **[Standard BMI Calculator](https://www.nhlbi.nih.gov/health/educational/lose_wt/BMI/bmicalc.htm)** - BMI Calculator
+* [NutritionFacts.org](https://nutritionfacts.org/) - Video Library for Latest Health-based Research
+* [The Nutrition Source](https://www.hsph.harvard.edu/nutritionsource/) - Harvard University Health Website
+* [Liquid Drink](https://play.google.com/store/apps/details?id=com.xpp.drink) - Liquid Intake Tracker
+* [Daily Dozen](https://github.com/nutritionfactsorg/daily-dozen-android) - Daily Diet Recommendations / Android
+* [EatThisMuch](https://www.eatthismuch.com/), [FitMenCook](https://fitmencook.com/) or [MealPrePro](https://mealpreppro.com/) - Diet Tool / iOS / Android 
+* [Examine.com](https://examine.com/) - Supplement & Nutrition Analysis
+* [Cronometer](https://cronometer.com/), [Energize](https://codeberg.org/epinez/Energize/) or [Waistline](https://github.com/davidhealey/waistline) - Track Nutrition & Calories
+* [MyFoodData](https://www.myfooddata.com) - Food Nutrition Tools
+* [Food-E App](https://github.com/SuhasDissa/Food-E-App) - Food Additives Database App
+* [Child Nutrition](https://www.coursera.org/learn/childnutrition) - Child Nutrition / Cooking Course 
+* [Kids Health](https://www.kidshealth.org/) - Kids Health Information
+* [What Dogs Can Eat](https://www.pawmenow.com/what-dogs-can-eat/) - Search Safe Human Food for Dogs
+
+***
+
+## ▷ Sexual Health
+
+* [babycenter](https://www.babycenter.com/) - Pregnancy and Parenting Resources
+* [Pregnancy Calculator](https://americanpregnancy.org/resources/pregnancy-calculator/) - Due Date Calculator
+* [DoItRight](https://doitright.ph/) or [Scarleteen](https://www.scarleteen.com/) - Sex Education Resources
+* [Euki](https://eukiapp.com/) - Sexual / Reproductive Health App
+* [Abortion Resources](https://redd.it/phrcrn) / [2](https://redd.it/vm56bs), [PlannedParenthood](https://www.plannedparenthood.org/) or [Safe2Choose](https://safe2choose.org/) - Abortion Resources
+* [WomenOnWeb](https://www.womenonweb.org/) - Free Abortion Pills
+* [Tubal Sterilization](https://docs.google.com/spreadsheets/d/1Djia_WkrVO3S4jKn6odNwQk7pOcpcL4x00FMNekrb7Q/) - Tubal Sterilization Gynecologists
+* [Erin's Informed Consent HRT Map](https://redd.it/d6p05q) - Informed Consent HRT Clinics
+* [Drip](https://bloodyhealth.gitlab.io) - Open Source E2EE Period Tracking App
+
+***
+
+## ▷ Detoxing
+
+* ⭐ **[Safe Substance](https://safesubstance.com/)**, [Drugs.com](https://www.drugs.com/) or [DrugBank](https://go.drugbank.com/) - Drug Information / Side Effects
+* ⭐ **[/r/NoSurf](https://www.reddit.com/r/nosurf/wiki/index)** - Digital Detox Community / [Discord](https://discordapp.com/invite/QFhXt2F)
+* [BreakFree](https://breakfree-2c089.web.app/) - Break Smoking Habits
+* [Sobriety](https://github.com/KiARC/Sobriety) - Sobriety Tracker
+* [DrugFree](https://drugfree.org/) - Drug Abuse Prevention & Recovery Help
 
 ***
 
