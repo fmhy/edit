@@ -217,11 +217,9 @@
 * [Scout](https://www.scout.tel/phone-number-lookup) or [WhoCalld](https://whocalld.com/) - Phone Number Lookup / Safety Check 
 * [FreeCarrierLookup](https://www.freecarrierlookup.com/) - Get Telephone Carrier Data 
 * [/r/Privacy](https://reddit.com/r/privacy), [/r/TheHatedOne](https://www.reddit.com/r/thehatedone) or [/r/privatelife/](https://www.reddit.com/r/privatelife/) - Privacy Discussion, News & Tools
-* [Unredacted Google Antitrust Filing](https://web.archive.org/web/20220821122431/https://nitter.net/fasterthanlime/status/1452053938195341314)
 * [Facebook Doc Stories](https://docs.google.com/document/d/1QYqmJsifBjf_xA23Ea7AdeMFyjGWaF_dvhi5EZdNUf4/edit) - Facebook Malpractices Index
 * [Privacy.com](https://privacy.com/) - Make Secure Payments / US only 
 * [OTPClient](https://github.com/paolostivanin/OTPClient) - One-Time Password Client 
-* [ctfs](https://github.com/ctfs/) - Information Security Competition Writeups
 * [Globaleaks](https://www.globaleaks.org/) - Self-Hosted Whistleblowing Platform
 * [DeepPrivacy](https://github.com/hukkelas/) - A Generative Adversarial Network for Face Anonymization
 * [image-scrubber](https://github.com/everestpipkin/image-scrubber) - Anonymize Protest Photos
@@ -237,14 +235,12 @@
 * ⭐ **[ClearURLs](https://github.com/ClearURLs/Addon/releases)** / [2](https://gitlab.com/ClearURLs/ClearUrls), [Link Cleaner](https://mybrowseraddon.com/link-cleaner.html), [dont-track-me-google](https://github.com/Rob--W/dont-track-me-google) or [Link Sanitizer](https://greasyfork.org/en/scripts/374699-link-sanitizer) - Remove Tracking Elements from URLs
 * [CRXcavator](https://crxcavator.io/) - Check Browser Extension Security
 * [File Guard](https://mybrowseraddon.com/file-encryptor.html) - File Encryption / Decryption
-* [Site Bleacher](https://github.com/wooque/site-bleacher) - Auto Remove Cookies, Local Storages, etc.
 * [Anti-Grabify](https://github.com/Konnor88/anti-grabify) - Block IP Grabbers
 * [OptMeowt](https://github.com/privacy-tech-lab/gpc-optmeowt) or [TrackMeNot](https://www.trackmenot.io/) - Tracking Protection
 * [JShelter](https://jshelter.org/) - Prevent Fingerprinting
 * [CanvasBlocker](https://pastebin.com/2RgYzu6u) or [Canvas Defender](https://addons.mozilla.org/en-US/firefox/addon/no-canvas-fingerprinting/) - Prevent Canvas Fingerprinting
 * [GNU LibreJS](https://www.gnu.org/software/librejs/) - Block Trivial Javascript
 * [PortAuthority](https://addons.mozilla.org/en-US/firefox/addon/port-authority/) - Block Javascript Port Scan on Sites
-* [First Party Isolation](https://github.com/mozfreddyb/webext-firstpartyisolation) - First Party Isolation Extension
 * [Location Guard](https://pastebin.com/n20LcQSM) - Hide Browsers Geolocation
 * [Language Switch](https://addons.mozilla.org/en-US/firefox/addon/languageswitch/) - Change Language Identifier
 * [HTTP Tracker](https://github.com/venukbh/http-tracker) - Track Network on Browser
@@ -256,25 +252,20 @@
 * [FlowCrypt](https://flowcrypt.com/) - Gmail Encryption
 * [Chameleon](https://sereneblue.github.io/chameleon/), [UA Switcher & Manager](https://add0n.com/useragent-switcher.html) or [User-Agent Switcher](https://chrome.google.com/webstore/detail/user-agent-switcher-for-c/djflhoibgkdhkhhcedjiklpkjnoahfmg) - User-Agent Spoofer
 * [Vytal](https://chrome.google.com/webstore/detail/vytal/ncbknoohfjmcfneopnfkapmkblaenokb) - Changes Geolocation to match VPN IP address
-* [Firefox Privacy Settings](https://addons.mozilla.org/en-US/firefox/addon/privacy-settings/) or [SnowHaze](https://github.com/snowhaze/firefox-extension) - Firefox Privacy Settings Manager
+* [Firefox Privacy Settings](https://addons.mozilla.org/en-US/firefox/addon/privacy-settings/) - Firefox Privacy Settings Manager
 * [VPNTabs](https://github.com/Nickguitar/VPNTabs) - Force Firefox Tabs through VPN or Tor
 * [WebRTC Control](https://mybrowseraddon.com/webrtc-control.html) or [WebRTC](https://addons.mozilla.org/en-GB/firefox/addon/happy-bonobo-disable-webrtc/) - Enable / Disable WebRTC 
 * [WebRTC Network Limiter](https://chrome.google.com/webstore/detail/webrtc-network-limiter/npeicpdbkakmehahjeeohfdhnlpdklia?hl=en) - WebRTC Network Traffic Config 
-* [GPSDetect](https://github.com/allanlw/gps-detect) - Alerts user when JPEG contains EXIF GPS coordinates 
 * [Forget Me Not](https://addons.mozilla.org/en-US/firefox/addon/forget_me_not/) - Only keeps website data for sites you choose
-* [Secure Password Generator](https://pastebin.com/XaRUFW4a) or [Password Generator](https://github.com/XFox111/PasswordGeneratorExtension) - Password Generator 
+* [Secure Password Generator](https://pastebin.com/XaRUFW4a) - Password Generator 
 * [Private Bookmarks](https://pastebin.com/H8vnQqiY) - Password Protected Bookmarks
-* [Permission Inspector](https://github.com/tsl143/addonManager) - Extension Permissions Inspector 
-* [History-AutoDelete](https://github.com/naresh97/History-AutoDelete-Rebooted) - Browser History Manager 
 * [eCleaner](https://add0n.com/ecleaner.html) or [History & Cache Cleaner](https://chrome.google.com/webstore/detail/history-cache-cleaner/oiecpgbfcchalgdchgoplichofjadhmk/related?hl=en) - History & Cache Cleaner
 * [CopyGuard](https://github.com/roedesh/copyguard) - Clipboard Hijacking Notifications
 * [WhatsApp Privacy Extension](https://pfwa.lukaslen.com/) - Hide WhatsApp Messages Until Hovered Over / [GitHub](https://github.com/LukasLen/Privacy-Extension-For-WhatsApp-Web)
 * [AudioContext Fingerprint Test](https://audiofingerprint.openwpm.com/) - AudioContext / Canvas API Fingerprinting Test
 * [AudioContext Fingerprint Defender](https://mybrowseraddon.com/audiocontext-defender.html) - Stop AudioContext fingerprinting 
-* [zero-width](https://github.com/chpmrc/zero-width-chrome-extension) - Replaces zero-width characters 
 * [Temporary Containers](https://addons.mozilla.org/en-US/firefox/addon/temporary-containers/) - Disposable Containers 
 * [Redirect AMP to HTML](https://www.daniel.priv.no/web-extensions/amp2html.html) - Redirects AMP Pages to Regular Web Pages 
-* [HTTP Header Live](https://github.com/Nitrama/HTTP-Header-Live) - Display / Edit the HTTP Header
 * [Open Two Factor Authenticator](https://add0n.com/two-factor-authenticator.html) - Two-Factor Authentication Addon 
 * [WAIncognito](https://chrome.google.com/webstore/detail/waincognito/alhmbbnlcggfcjjfihglopfopcbigmil?hl=en) - Disable WhatsApps Read Receipts & Presence Updates 
 * [IndicateTLS](https://github.com/jannispinter/indicatetls) - Display a Sites the TLS Protocol Version 
