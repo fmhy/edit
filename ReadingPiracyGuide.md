@@ -350,7 +350,6 @@
 * [Springer](https://link.springer.com/search?showAll=false&query=&facet-content-type=%22Book%22)
 * [Learn Anything / Books](https://github.com/learn-anything/books)
 * [Tradepub](https://knowfree.tradepub.com/)
-* [Ed_Books](https://t.me/Ed_Books)
 * [eBookRoom](https://t.me/eBookRoom)
 * [Libribook](https://libribook.com/)
 * [Directory of Open Access Books](https://www.doabooks.org/)
@@ -694,11 +693,9 @@
 * [Synonym.com](https://www.synonym.com/) - Synonyms
 * [Feeels](https://feelu.vercel.app/) - Emotion Synonym Chart
 * [WikiDiff](https://wikidiff.com/) - Difference Between Any Words
-* [ReverseDictionary](https://reversedictionary.org/) or [OneLook Reverse](https://onelook.com/reverse-dictionary.shtml) - Search for Words Using Their Meanings
 * [DoesNotTranslate](https://doesnottranslate.com/) - Words with No Translation
 * [Tip of my Tounge](https://chir.ag/projects/tip-of-my-tongue/) - Find Words you Can't Remember
 * [Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/index.html), [IEP](https://iep.utm.edu/) or [nLab](https://ncatlab.org/) - Philosophy Encyclopedias / [Search](https://www.visualizingsep.com/)
-* [wehewehe](https://wehewehe.org/) - Hawaiian Dictionary
 * [TheIdioms](https://www.theidioms.com/) - Idiom Dictionary
 * [Lexipedia](https://www.lexipedia.com/) or [WordWeb](https://wordwebs.app/) - Word Connections
 * [RhymeZones](https://www.rhymezone.com/) or [Rhymer](https://rhymer.com/) - Rhyme Dictionary
@@ -706,20 +703,12 @@
 * [TheDevilsDictionary](https://www.thedevilsdictionary.com/) - Cynical Dictionary
 * [TagDef](https://tagdef.com/en/) - Social Media Tag Dictionary
 * [KnowYourMeme](https://knowyourmeme.com/) - Meme Database
-* [Forvo](https://forvo.com/) or [HowJSay](https://howjsay.com/) - Pronunciation Dictionary
 * [IEoP](https://iep.utm.edu/fallacy/) - Fallacy Encyclopaedia
-* [OEIS](https://oeis.org/) - Encyclopedia of Integer Sequences
 * [Time Traveler](https://www.merriam-webster.com/time-traveler) - See when a word was first used in print
 * [Omniglot](https://www.omniglot.com/index.htm) - Writing Systems & Languages Encyclopedia
-* [swear-words](https://github.com/chucknorris-io/swear-words) or [WordSafety](http://wordsafety.com/) - Swear Word Indexes
-* [WordReference](https://www.wordreference.com/), [Glosbe](https://glosbe.com/) or [Reverso](https://reverso.net/) - Translation Dictionary
-* [SpanishDict](https://www.spanishdict.com/) - Spanish Translation Dictionary
-* [ASL Dictionary](https://www.signasl.org/) or [HandSpeak](https://www.handspeak.com/) - American Sign Language
-* [BSL Dictionary](https://www.signbsl.com/) - British Sign Language
+* [WordSafety](http://wordsafety.com/) - Swear Word Indexes
 * [FreeMdict](https://freemdict.com/) - Dictionary Downloads / [Archive](https://downloads.freemdict.com/)
-* [Goldendict](http://www.goldendict.org/) - Dictionary Program
 * [PyGlossary](https://github.com/ilius/pyglossary) - Convert Dictionary Files
-* [wikipedia_ql](https://github.com/zverok/wikipedia_ql) - Wiki Data Extraction
 
 ***
 
@@ -833,24 +822,18 @@
 * [MangaEffect](https://mangaeffect.com/)
 * [FunManga](https://funmanga.com/)
 * [Manga Home](https://www.mangahome.com/)
-* [MangaDig](https://mangadig.com/)
 * [Mangaski](https://www.mangasaki.net//)
-* [Manhwafull](https://manhwafull.com/)
 * [DeathTollScans](https://www.deathtollscans.net/)
 * [Tritinia](https://tritinia.com/)
 * [MangaJar](https://mangajar.pro/)
 * [LilyManga](https://lilymanga.com/)
 * [NineManga](https://www.ninemanga.com)
-* [MangaYeh](https://mangayeh.com)
 * [Mangahasu](https://mangahasu.se/)
 * [MangaForest](https://mangaforest.me/) / [2](https://mangamirror.com/)
-* [KomikKid](https://www.komikid.com/)
 * [MangaFox](https://fanfox.net/)
 * [ReadM](https://readm.org/)
 * [CMReader](https://www.cmreader.info/)
 * [mangapill](https://mangapill.com/)
-* [projectsuki](https://projectsuki.com/)
-* [NineAnime](https://www.nineanime.com/category/)
 * [Anime-Sharing](https://www.anime-sharing.com/) - Anime / Manga Download Forum
 * [MP4DIRECTS](https://mp4directs.com/) - Manga / Light Novels Download Forum
 * [WhereCanIReadManga?](https://wherecanireadmanga.com/) - Legal
@@ -858,8 +841,7 @@
 * [Manga APIs](https://rentry.co/manga-apis) - Manga Site API's
 * [Webcomic Reader](https://openuserjs.org/scripts/anka-213/Webcomic_Reader) - Preloads Images, Remembers Progress and Keyboard Support
 * [MangaEditor](https://moeka.me/mangaEditor/) - Online Manga Editor
-* [CBZ-Manga-Creator](https://github.com/PonyLucky/CBZ-Manga-Creator) - Image to CBZ Converter
-* [Manga Translator](https://chrome.google.com/webstore/detail/manga-translator/oooikipggipaohjibkmoiacmmlilgokn?hl=en), [manga-translator](https://github.com/cameronkinsella/manga-translator), [BallonsTranslator](https://github.com/dmMaze/BallonsTranslator/blob/master/README_EN.md), [Cotrans](https://cotrans.touhou.ai/) or [Scanlate](https://scanlate.io/) - Manga Translators
+* [manga-translator](https://github.com/cameronkinsella/manga-translator), [BallonsTranslator](https://github.com/dmMaze/BallonsTranslator/blob/master/README_EN.md), [Cotrans](https://cotrans.touhou.ai/) or [Scanlate](https://scanlate.io/) - Manga Translators
 * [TheJadedNetwork](https://thejadednetwork.com/sfx/) - Japanese SFX Translations / [PDF](https://drive.google.com/file/d/1ean3beoWJmz__yu67OqNa8CKNMlrvCSd/)
 * [Manga-Tagger](https://github.com/inpacchi/manga-tagger) or [Manga-Manager](https://github.com/MangaManagerORG/Manga-Manager) - Manga Managers
 
@@ -877,6 +859,7 @@
 * [Zinmanga](https://zinmanga.com/)
 * [Manga SY](https://www.mangasy.com/)
 * [Mangatoon](https://mangatoon.mobi/)
+* [MangaDig](https://mangadig.com/)
 * [Novelmic](https://novelmic.com)
 * [Bibi Manga](https://bibimanga.com/)
 * [Mangatx](https://mangatx.com/)
