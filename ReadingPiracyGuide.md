@@ -54,8 +54,6 @@
 
 * 🌐 **[Shadow Libraries](https://shadowlibraries.github.io/)** - Ebook Site Index
 * 🌐 **[/r/Ebook_Resources](https://reddit.com/r/EBook_Resources/)** - Ebook Resources
-* ↪️ **[General DDL Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/download)**
-* ↪️ **[General Torrent Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent)**
 * ↪️ **[Telegram Ebook Channels](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_telegram_ebook_download)**
 * ⭐ **[Anna’s Archive](https://annas-archive.org/)** - Books / Comics / Educational
 * ⭐ **[Z-Library](https://singlelogin.re/)** or [zlibrary-redirect](https://zlibrary-redirect.se/) - Books / Comics / Educational
@@ -1169,7 +1167,7 @@
 
 * 🌐 **[Ebook Converters Wiki](https://wiki.mobileread.com/wiki/E-book_conversion)**, [Ebook-Converter](https://ebook-converter.com/) or [Ebook-Online-Convert](https://ebook.online-convert.com/) - Ebook Converter Indexes
 * 🌐 **[DeDRM_tools](https://github.com/noDRM/DeDRM_tools)** - Ebook DRM Removal Tools
-* ↪️ **[Summary Generators](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_text_rephrasing)**
+* ↪️ **[Summary Generators](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools#wiki_.25B7_text_rephrasing)**
 * ⭐ **[ChatPDF](https://www.chatpdf.com/)**, [PaperBrain](https://www.paperbrain.study/) or [Ask Your PDF](https://askyourpdf.com/) - Turn PDFs into Chatbots
 * ⭐ **[Talk to Books](https://books.google.com/talktobooks/)** - AI Book Quote Search
 * ⭐ **[PlayText](https://playtext.app/)**, [AccelaReader](https://accelareader.com/), [Jiffy](https://www.jiffyreader.com/), [SwiftRead](https://swiftread.com/), [Notation](https://github.com/numanzamandipuu/Notation) or [SpeedRead](https://github.com/pasky/speedread) - Speed Reading Tools
