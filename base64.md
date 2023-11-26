@@ -666,12 +666,6 @@ Use any **[Base64 Decoding](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/stor
 
 ***
 
-#### FL Studio
-
-`aHR0cHM6Ly93d3cuZG93bmxvYWRoYS5jb20vP3M9Zmwrc3R1ZGlv`
-
-***
-
 #### Cold Turkey Premium 
 
 `aHR0cHM6Ly9wYXN0ZWJpbi5jb20vaGltQkVBeHM=`
