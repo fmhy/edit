@@ -1,13 +1,8 @@
 ***
 ***
-**[◄◄ Back to Wiki Index](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/index)**
+**[◄◄ Back to Wiki Index](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/tools-index)**
 ***
 ***
-
-**[Table of Contents](https://ibb.co/LR0myQ7)** - For mobile users
-
-***
-*** 
 
 # ► Image Editing
 
