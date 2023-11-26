@@ -148,7 +148,7 @@
 ## ▷ Downloading
 
 * [shinybbs](https://sysub.vip/) - Movies / TV / 1080p
-* [Hifini](https://www.hifini.com/) - Music / FLAC / MP3
+* [Hifini](https://www.hifini.com/) or [J-pop Music Download](https://jpop.xyz/category/c-pop/) - Music / FLAC / MP3
 * [icourse163](https://www.icourse163.org/) / [Icourse163 Downloader](https://greasyfork.org/en/scripts/372684) - Courses
 
 ## ▷ Torrenting
@@ -670,6 +670,7 @@
 * [HikariNoAkari](https://hikarinoakari.com/) - Music / MP3 / FLAC
 * [JPop Singles](https://www.jpopsingles.eu/) - Music / MP3 / FLAC
 * [Doujin Cafe](https://discord.gg/doujincafe) - Music / MP3 / FLAC
+* [DoujinStyle](https://doujinstyle.com/) - Music / MP3 / FLAC
 * [J-pop Music Download](https://jpop.xyz/) - Music / MP3 / FLAC
 * [MinimumMusic](https://minimummusic.com/) - FLAC / MP3 / FLAC
 * [Perfect Dark](http://kasumi.moe/pd/) - P2P App
@@ -683,6 +684,7 @@
 
 ## ▷ Streaming
 
+* [NicoVideo](https://www.nicovideo.jp/) - Japanese YouTube Alternative
 * [momotheater](https://momotheater.com/) - Movies / Anime / Sub / 720p
 * [JP-Films](https://jp-films.com/) - Classic Japanese Movies / TV / 1080p
 * [Abema](https://abema.tv/) - Live TV
@@ -736,6 +738,7 @@
 
 * [PDPop](https://www.pdpop.com/) - Video / Books / NSFW / Sub / 1080p
 * [CinEast](https://cineaste.co.kr/) - Movies / TV / Sub / 1080p
+* [J-pop Music Download](https://jpop.xyz/category/k-pop/) - Music / MP3 / FLAC
 * [4Sashi](https://4sashi.com/) - Music / MP3 / FLAC
 * [KPopExplorer](https://kpopexplorer.net/) - Music / MP3 / FLAC
 * [KPopSea](https://kpopjams.com/) - Music / MP3 / FLAC
