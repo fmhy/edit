@@ -471,6 +471,7 @@
 ## ▷ Streaming
 
 * [JFC](https://jfc.org.il/) - Israel Movie Archive
+* [Animeil-TV](https://www.animeil-tv.com/) - Anime / [Discord](https://discord.com/invite/RfQX5VDD) / [](https://t.me/AnimeILTVDiscussion)
 
 ***
 
