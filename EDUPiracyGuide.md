@@ -443,9 +443,12 @@
 * [How a Car Works](https://www.howacarworks.com/) - Car Mechanics / Automotive Engineering Guides
 * [Neptune](https://youtu.be/gTNVxHSemxA) - Marine Engineering Room Simulator
 * [HDLBits](https://hdlbits.01xz.net/) - Learn Circuit Design
+* [BatteryUniversity](https://batteryuniversity.com/articles) - Learn About Batteries
 * [EasyEDA](https://easyeda.com/editor) - Electronic Circuit Design Tool
 * [FliteTest](https://www.flitetest.com/) - DIY Drone Guides
 * [NandGame](https://nandgame.com/) - Computer Building Puzzle
+* [From Nand To Tetris](https://www.nand2tetris.org/course) - Computer Building Lesson
+* [CPU Land](https://cpu.land/) - What Happens when you run Programs
 
 ***
 
