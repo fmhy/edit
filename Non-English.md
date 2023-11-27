@@ -1081,31 +1081,31 @@
 
 # ► Romanian
 
-* [lib2life](https://bcub.ro/lib2life/) - Historical Documents PDF
+## ▷ Downloading
+
+* [Anime Kage](https://ak613.anime-kage.eu/) - Anime / Manga
 
 ## ▷ Streaming
 
-* [FSOline](http://www.filmeserialeonline.org/) - Movies / TV
-* [Namaste Serials](https://namasteserials.com/) - Movies / TV
-* [VeziOnline](https://vezionline.net/) - Movies / TV
-* [VeziSeriale](https://veziseriale.org) - Movies / TV / Anime
-* [ClickSub](https://clicksud.biz) - Movies / TV
-* [SubtiratRomana](https://subtitratromana.org/) - Movies / TV
-* [eFilm](https://efilme.net/) - Movies
-* [Topfilmenoi](https://topfilmenoi.net/) - Movies / TV
-* [TopFilmeOnline](https://topfilmeonline.biz/) - Movies
-* [FilmeOnline.st](https://filmeonline.st/) - Movies / TV
-* [VoxFilmeOnline](https://voxfilmeonline.biz/) - Movies
-* [FilmeOnline.biz](https://www.filmeonline.biz/) - Movies
-* [Animeazu](https://www.animeazu.net/) - Anime
-* [DozaAnimată](https://www.dozaanimata.ro) - Cartoons / Anime / Movies / TV
+* [FSOline](http://www.filmeserialeonline.org/) - Movies / TV / Sub / 1080p
+* [Namaste Serials](https://namasteserials.com/) - Movies / TV / Sub / 720p
+* [VeziOnline](https://vezionline.net/) - Movies / TV / Sub / 720p
+* [VeziSeriale](https://veziseriale.org) - Movies / TV / Anime / Sub / 720p
+* [ClickSub](https://clicksud.biz) - Movies / TV / Sub / 720p
+* [SubtiratRomana](https://subtitratromana.org/) - Movies / TV / Sub / 720p
+* [eFilm](https://efilme.net/) - Movies / Sub / 720p
+* [FilmeOnline.st](https://filmeonline.st/) - Movies / TV / Sub / 720p
+* [VoxFilmeOnline](https://voxfilmeonline.biz/) - Movies / TV / Sub / 720p
+* [FilmeOnline.biz](https://www.filmeonline.biz/) - Movies / Sub / 720p
+* [Pe4k](https://pe4k.net) - Movies / TV / Sub / 720p
+* [Animeazu](https://www.animeazu.net/) - Anime / Sub / 1080p
+* [DozaAnimată](https://www.dozaanimata.ro) - Anime / Cartoons / Sub / Dub / 720p
 * [AnimeGoFansub](https://deseneanime.ro) - Anime / Manga
-* [Cool Tv Online](https://www.cool-etv.net/) - Live TV / Sports
-* [Pe4k](https://pe4k.net) - TV
+* [Cool TV Online](https://www.cool-etv.net/) - Live TV / Sports
 
-## ▷ Download
+## ▷ Reading
 
-* [Anime Kage](https://ak578.anime-kage.eu/) - Anime / Manga
+* [lib2life](https://bcub.ro/lib2life/) - Historical Documents
 
 ***
 
