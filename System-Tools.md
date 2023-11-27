@@ -64,6 +64,8 @@
 
 ## ▷ System Tweaks
 
+* ⭐ **[EverythingToolbar](https://github.com/srwi/EverythingToolbar)**, [Hyper](https://github.com/hyperts/Hyper), [uTaskManager](https://www.microsoft.com/en-us/p/utaskmanager/9nhvdhfbxrsv), [yasb](https://github.com/denBot/yasb), [Awesome](https://github.com/nodgear/Awesome) or [Smart Taskbar](https://github.com/ChanpleCai/SmartTaskbar) - Improved Taskbars
+* ⭐ **[EarTrumpet](https://eartrumpet.app/)**, [Volumey](https://github.com/G-Stas/Volumey) or [Volume2](https://github.com/irzyxa/Volume2) - Improved Volume Mixer
 * [Couleur Tweak Tips](https://discord.gg/CTT) - Windows Tweaking Guides
 * [MajorGeeks Windows Tweaks](https://www.majorgeeks.com/files/details/majorgeeks_registry_tweaks.html), [Winaero](https://winaero.com/), [winutil](https://github.com/ChrisTitusTech/winutil) or [QuickBoost](https://github.com/SanGraphic/QuickBoost) - System Tweaking Tools / **[Warning](https://pastebin.com/vMYCiAGE)**
 * [Awesome Scripts](https://github.com/Py-Contributors/awesomeScripts), [abbodi1406](https://forums.mydigitallife.net/posts/1343297/), [Batch-Script-Collection](https://github.com/happy05dz/Batch-Script-Collection), [BatUtil](https://github.com/abbodi1406/BatUtil) or [TechNet-Gallery](https://github.com/MScholtes/TechNet-Gallery) - System Scripts
@@ -81,15 +83,13 @@
 * [Open Shell](https://open-shell.github.io/Open-Shell-Menu/), [2](https://github.com/Open-Shell/Open-Shell-Menu), [ValliStart](https://github.com/Jax-Core/ValliStart) or [SystemTrayMenu](http://hofknecht.eu/systemtraymenu) / [GitHub](https://github.com/Hofknecht/SystemTrayMenu) - Improved Start Menus
 * [Spencer](https://www.the-sz.com/products/spencer/) or [Fluent-Metro](https://github.com/bonzibudd/Fluent-Metro) - Classic Start Menu
 * [Taskbar Tweaker](https://ramensoftware.com/7-taskbar-tweaker) - Taskbar Advanced Features
-* [EverythingToolbar](https://github.com/srwi/EverythingToolbar), [Hyper](https://github.com/hyperts/Hyper), [uTaskManager](https://www.microsoft.com/en-us/p/utaskmanager/9nhvdhfbxrsv), [yasb](https://github.com/denBot/yasb), [Awesome](https://github.com/nodgear/Awesome) or [Smart Taskbar](https://github.com/ChanpleCai/SmartTaskbar) - Improved Taskbars
 * [Taskbar Groups](https://github.com/tjackenpacken/taskbar-groups) - Create Groups in Taskbar
-* [ButteryTaskbar](https://github.com/CrypticButter/ButteryTaskbar/) - Hide Taskbar When Start Menu is Closed
+* [ButteryTaskbar](https://github.com/LuisThiamNye/ButteryTaskbar2) - Hide Taskbar When Start Menu is Closed
 * [Taskbar Hide](https://www.eusing.com/hidewindows/bosskey.htm) - Easily Hide / Show Taskbar
 * [MinimizeToTray](https://github.com/sandwichdoge/MinimizeToTray), [Traymond](https://github.com/fcFn/traymond), [RBTray](https://github.com/benbuck/rbtray) or [minimize-to-tray](https://sourceforge.net/projects/minimize-to-tray/) - Minimize Windows to Tray
 * [QuickLook](https://github.com/QL-Win/QuickLook) - macOS Quick Look for Windows
 * [MediaFlyout](https://github.com/krlvm/MediaFlyout) - Media Control Taskbar
 * [BurntToast](https://github.com/Windos/BurntToast) - Create and display Toast Notifications
-* [EarTrumpet](https://eartrumpet.app/), [Volumey](https://github.com/G-Stas/Volumey) or [Volume2](https://github.com/irzyxa/Volume2) - Improved Volume Mixer
 * [TrayVolumeControl](https://github.com/krlvm/TrayVolumeControl) - Control Tray Volume via Scroll
 * [HideVolumeOSD](https://github.com/UnlimitedStack/HideVolumeOSD) - Hide Volume Bar
 * [WinMute](https://github.com/lx-s/WinMute/) - Automatically Mute PC
@@ -329,7 +329,7 @@
 * [MSDN Files](https://msdn.rg-adguard.net/) or [MVS dump](https://awuctl.github.io/mvs/) - Verify ISO Legitimacy
 * [MediaCreationTool.bat](https://github.com/AveYo/MediaCreationTool.bat) - Media Creation Tool Wrapper
 * [rEFind](https://www.rodsbooks.com/refind/) - Boot Manager
-* [CloverBootloader](https://github.com/CloverHackyColor/CloverBootloader/releases) or [EasyBCD](https://neosmart.net/EasyBCD/) - Bootloaders / [Config](https://mackie100projects.altervista.org/)
+* [CloverBootloader](https://github.com/CloverHackyColor/CloverBootloader/) or [EasyBCD](https://neosmart.net/EasyBCD/) - Bootloaders / [Config](https://mackie100projects.altervista.org/)
 * [balenaEtcher](https://etcher.balena.io/) - Flash OS Image SD / USB / [Mobile](https://etchdroid.depau.eu/)
 * [FOG Project](https://fogproject.org) - OS Depoyment / Managment System
 * [Hiren’s BootCD PE](https://www.hirensbootcd.org/) or [Win10XPE](https://github.com/ChrisRfr/Win10XPE) - Preinstallation Environments
