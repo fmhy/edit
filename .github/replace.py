@@ -63,7 +63,14 @@ def replace_pages(text):
     text = re.sub('https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/download',            '/downloadpiracyguide', text)
     text = re.sub('https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent',             '/torrentpiracyguide', text)
     text = re.sub('https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu',                 '/edupiracyguide', text)
-    text = re.sub('https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/tools-misc',          '/toolsguide', text)
+
+    text = re.sub('https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/system-tools',        '/system-tools', text)
+    text = re.sub('https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/file-tools',          '/file-tools', text)
+    text = re.sub('https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools',      '/internet-tools', text)
+    text = re.sub('https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools',          '/text-tools', text)
+    text = re.sub('https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video-tools',         '/video-tools', text)
+    text = re.sub('https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/audio-tools',         '/audio-tools', text)
+    
     text = re.sub('https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/linux',               '/linuxguide', text)
     text = re.sub('https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/non-eng',             '/non-english', text)
     text = re.sub('https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc',                '/miscguide', text)
