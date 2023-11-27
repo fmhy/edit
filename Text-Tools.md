@@ -65,7 +65,8 @@
 
 ## ▷ Translators
 
-* [Crow Translate](https://github.com/crow-translate/crow-translate), [ChatGPT Translator](https://github.com/simpleapples/chatgpt-translator) or [Argos](https://github.com/argosopentech/argos-translate) - Translation Apps
+* ⭐ **[DeepL](https://www.deepl.com/translator)**
+* [Crow Translate](https://github.com/crow-translate/crow-translate) or [Argos](https://github.com/argosopentech/argos-translate) - Translation Apps
 * [Translate Shell](https://www.soimort.org/translate-shell/) - Translation CLI / [GitHub](https://github.com/soimort/translate-shell)
 * [OnlineDocTranslator](https://www.onlinedoctranslator.com/en/) - Document Translator
 * [LegaleseDecoder](https://legalesedecoder.com/free-legal-document-to-plain-english-translator/) - Legal Document Translator
@@ -82,7 +83,6 @@
 * [The Pirate Translator](https://pirate.monkeyness.com/translate) - Translate Text to Pirate
 * [Emojify](https://madelinemiller.dev/apps/emojify/) - Emojify Text
 * [typ3r](https://typ3r.aavi.me/) - tRaNSlAtE tEXT lik3 THiS
-* [DeepL](https://www.deepl.com/)
 * [Papago](https://papago.naver.com/)
 * [Libretranslate](https://libretranslate.com/) / [2](https://github.com/LibreTranslate/LibreTranslate) 
 * [Translate.com](https://www.translate.com/)
@@ -329,7 +329,6 @@
 * [Wonder](https://wonder-bot.com/) - Remember Things Easily
 * [YearCompass](https://yearcompass.com/) - New Years Resolution Booklet
 * [Fokus](https://fokus-website.netlify.app/)
-* [Glory Todo Desktop](https://github.com/yessGlory17/glory_todo_desktop)
 * [OpenToDoList](https://gitlab.com/rpdev/opentodolist)
 * [Microsoft To Do](https://apps.microsoft.com/store/detail/microsoft-to-do-lists-tasks-reminders/9NBLGGH5R558)
 * [ToDo R](https://todo-r.com/)
@@ -397,7 +396,7 @@
 * [Text Color Fader](https://patorjk.com/text-color-fader/) - Rainbow Text Generator
 * [Handwrite](https://github.com/cod-ed/handwrite) - Generate Font from Handwriting
 * [JoyPixels](https://www.joypixels.com/) - Emoji Font Generator
-* [MacType](https://github.com/snowie2000/mactype/releases) - Use Mac fonts on Windows
+* [MacType](https://www.mactype.net/) - Use Mac fonts on Windows
 * [Picas](https://picas.vercel.app/) - Google Font Logo Generator
 * [Bitfontmaker2](https://pentacom.jp/pentacom/bitfontmaker2/) - BitFont Creator
 * [FontJoy](https://fontjoy.com/) - Font Pairings Generator
