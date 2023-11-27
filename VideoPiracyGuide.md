@@ -21,14 +21,14 @@
 * ⭐ **[cinehub.wtf](https://cinehub.wtf)** - Movies / TV / 1080p / [Discord](https://discord.com/invite/wJhG4aEAbs)
 * ⭐ **[SusFlix](https://susflix.tv/)**, [2](https://www.susmovies.lol/), [3](https://sushbo.com/), [4](https://hbosus.com) - Movies / TV / Anime / 4K / 1080p / [Discord](https://discord.gg/BE7kTVezBN)
 * ⭐ **[FlixHQ](https://flixhq.click/)** - Movies / TV / Anime / 1080p
-* ⭐ **[Ask4Movies](https://ask4movie.li/)** - Movies / TV / 1080p / Use Adbock / [Script](https://pastebin.com/uJUc5ah5)
+* ⭐ **[Ask4Movies](https://ask4movie.li/)** - Movies / TV / 1080p / Use Adblock / [Script](https://pastebin.com/uJUc5ah5)
 * ⭐ **[SFlix](https://sflix.to/)** - Movies / TV / Anime / 1080p / [Mirrors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_sflix_clones)
 * ⭐ **[SmashyStream](https://embed.smashystream.com/)** - Movies / TV / Anime / 1080p / [Telegram](https://t.me/+vekZX4KtMPtiYmRl)
 * ⭐ **[PrimeWire](https://www.primewire.tf/)** - Movies / TV / Anime / 1080p
 * ⭐ **[Streaming CSE](https://cse.google.com/cse?cx=006516753008110874046:cfdhwy9o57g##gsc.tab=0)**, [2](https://cse.google.com/cse?cx=006516753008110874046:o0mf6t-ugea##gsc.tab=0), [3](https://cse.google.com/cse?cx=98916addbaef8b4b6), [4](https://cse.google.com/cse?cx=0199ade0b25835f2e) - Multi-Site Search
 * [Seez](https://seez.su/), [2](https://flixerplus.com/) - Movies / TV / 1080p
 * [M4uFree](https://ww2.m4ufree.com/) - Movies / TV / Anime / 1080p / [Mirrors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_m4ufree_clones)
-* [MovieScene](https://moviescene.cc/) - Movies / TV / 4K / 1080p
+* [MovieScene](https://moviescene.cc/) - Movies / TV / 1080p
 * [Filmxy](https://www.filmxy.vip/) - Movies / TV / Anime / 1080p
 * [NetFilm](https://netfilm.app/) - Movies / TV / Anime / 1080p / [Discord](https://discord.gg/g37Fc8u4ks)
 * [Movies Ni Pipay](https://moviesnipipay.me/) - Movies / TV / 1080p
@@ -418,7 +418,7 @@
 * ⭐ **[Sportsurge](https://sportsurge.net/)**- Sports / Stream Locator
 * ⭐ **[EasyWebTV](https://zhangboheng.github.io/Easy-Web-TV-M3u8/routes/countries.html)** - TV / Sports
 * ⭐ **[watch.lonelil](https://watch.lonelil.com/tv)** - TV / Sports / [Discord](https://discord.com/invite/BKts6Jb5sA)
-* ⭐ **[FreeSports](https://freesports.to/)** or [TheHomeSports](https://thehomesport.net/) - Sports
+* ⭐ **[FreeSports](https://freesports.to/)** - Sports
 * ⭐ **[FSL](https://fsl-stream.lu/)** - Sports
 * ⭐ **[IPTV Web](https://dev-iptv.web.app/)** - TV / Sports
 * ⭐ **[RBTV](https://www.rbtv77.com/)**, [2](https://www.rbtv77.digital/), [3](https://www.rbtv77.guru/) - Sports / [Telegram](https://t.me/+_xlFBUO08tQwZGJl)
@@ -459,7 +459,6 @@
 * [Icelz](https://icelz.newsrade.com/) - Sports
 * [Sports Plus](https://en12.sportplus.live/) - Sports
 * [livetv](https://livetv.sx/enx/) - Sports
-* [WatchKobe](https://watchkobe.info/) - Sports
 * [VIP Box Sports](https://www.viprow.nu/) - Sports
 * [VIP Box](https://www.vipbox.lc/) - Sports
 * [Pepper Live](https://pepperlive.info/) - Sports
