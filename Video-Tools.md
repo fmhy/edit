@@ -130,7 +130,7 @@
 
 * 🌐 **[Awesome Video](https://github.com/krzemienski/awesome-video)** - Video Streaming Resources
 * 🌐 **[Video Help](https://www.videohelp.com/software/sections/video-players?orderby=Rating)** - Video Player Index
-* ⭐ **[MPC-HC](https://github.com/clsid2/mpc-hc/releases/)** or [MPC-BE](https://sourceforge.net/projects/mpcbe/) - Video Player
+* ⭐ **[MPC-HC](https://github.com/clsid2/mpc-hc/)** or [MPC-BE](https://sourceforge.net/projects/mpcbe/) - Video Player
 * ⭐ **[MPV](https://mpv.io/)** / [2](https://mpv-net.github.io/mpv.net-web-site/), [MPV-GUI](https://github.com/mpvnet-player/mpv-gui), [MPV-EASY-Player](https://github.com/422658476/MPV-EASY-Player) or [mpv.snad](https://github.com/thisisshihan/mpv.snad) - Video Player
 * ⭐ **[VLC](https://www.videolan.org/)** - Video Player
 * [Video Player Codecs](https://www.codecguide.com/download_kl.htm)
@@ -376,7 +376,7 @@
 * [WeGreyScale](https://www.wegrayscale.com/) - Greyscale Videos / Images
 * [Avidemux](http://fixounet.free.fr/avidemux/) - Cut / Filter / Encode
 * [vidcutter](https://github.com/ozmartian/vidcutter) - Cut / Trim Videos
-* [blur](https://github.com/f0e/blur) or [Smoothie](https://github.com/couleur-tweak-tips/Smoothie) - Add Motion Blur to Videos / [Tutorial](https://youtu.be/16-KU4r3BcA) 
+* [blur](https://github.com/f0e/blur) or [Smoothie](https://github.com/couleur-tweak-tips/smoothie-rs) - Add Motion Blur to Videos / [Tutorial](https://youtu.be/16-KU4r3BcA) 
 * [ProPainter](https://github.com/sczhou/ProPainter) - Video Inpainting
 * [Kurku](https://app.kurku.tech/) or [FreeMoCap](https://freemocap.org/) - Motion Tracking Tools
 * [VSeeFace](https://www.vseeface.icu/) - Face / Hand Tracking VRM
