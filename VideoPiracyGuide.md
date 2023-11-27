@@ -870,6 +870,7 @@
 * [Releases.com](https://www.releases.com/) or [DVDReleaseDates](https://www.dvdsreleasedates.com/) - DVD / Blu-Ray Release Dates
 * [TVTropes](https://tvtropes.org/) - TV Tropes Wiki
 * [MovieMap](http://www.themoviemap.com/), [Movie-Locations](https://www.movie-locations.com/), [MovieLoci](https://www.movieloci.com/), [AtlasOfWonders](https://www.atlasofwonders.com/), [WhereDidTheyFilmThat](https://www.wheredidtheyfilmthat.co.uk/) - Film Location Maps
+* [SeriesGraph](https://seriesgraph.com) - Explore TV Shows through rating graphs
 
 ***
 
