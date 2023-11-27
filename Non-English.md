@@ -944,7 +944,7 @@
 
 * ⭐ **[Download Cursos Grátis](https://downloadcursos.top)** - Courses / Use Adblock
 * [Rei dos Torrents](https://reidostorrents.com) - Video / Audio/ Books
-* [Filmes Grátis](https://filmesgratis.net) - Movies / TV
+* [Hiper Flix](https://hiperflix.org) - Movies / TV
 * [Torrent dos Filmes](https://torrentdosfilmes.se) - Movies / TV
 * [Comando](https://comando.la) - Movies / TV
 * [Filmes Mega](https://filmesmega.co) - Movies / TV
@@ -965,7 +965,7 @@
 * [GoFilmes](https://gofilmes.me/m/) - Movies / TV / Sub / Dub / 1080p
 * [Os Teus Filmes Tuga](https://osteusfilmestuga.online) - Cartoons / 1080p
 * [tugaflix](https://tugaflix.best) Movies / TV / Sub / 1080p
-* [Quero Filmes HD](https://querofilmeshd.top) - Movies / TV / Sub / Dub / 720p
+* [Quero Filmes HD](https://querofilmeshd.fun) - Movies / TV / Sub / Dub / 720p
 * [Filmes Online HD](https://www.filmesonlinehdgratis.com.br) - Movies / TV / Sub / 720p
 * [99](https://www.99.media/pt/) - Documentaries / Sub / 1080p
 * [Libreflix](https://libreflix.org) - Portuguese TV / Documentaries / 720p
