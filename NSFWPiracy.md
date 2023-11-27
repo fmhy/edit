@@ -821,7 +821,6 @@
 
 * [SpicyMags](https://spicymags.xyz/)
 * [downmagaz](https://downmagaz.net/adult_magazine/) 
-* [worldmags](https://worldmags.net/adult/) 
 * [PDF Dude](https://pdfdude.com/category/adult/)
 * [Mags Guru](https://www.mags.guru/c/adult/)
 * [adultload](https://adultload.ws/category/magazines/) 
