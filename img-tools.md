@@ -481,7 +481,7 @@
 ## ▷  Image Converters
 
 * ⭐ **[ImageMagick](http://www.imagemagick.org/script/index.php)** - Image Editor / Converter
-* [imverter](https://www.imverter.com/), [Raw Pics](https://raw.pics.io/), [Converseen](https://converseen.fasterland.net/), [JINAConvert](https://jinaconvert.com/), [Vector Magic](https://vectormagic.com/), [WEBPtoJPG](https://webptojpg.com/), [AnyWebP](https://anywebp.com/), [WEBPtoPNG](https://webptopng.com/), [WEBTtoGIF](https://webptogif.com/), [JPGtoPNG](https://jpgtopngconverter.com/), [PNGtoJPG](https://pngtojpg.com/), [avif.io](https://avif.io/), [HEICtoJPG](https://heicjpeg.com/) / [2](https://heicconvert.io/) or [WebP Converter](https://webp-converter.com/) - Image Converters 
+* [imverter](https://www.imverter.com/), [Raw Pics](https://raw.pics.io/), [Converseen](https://converseen.fasterland.net/), [Vector Magic](https://vectormagic.com/) or [WebP Converter](https://webp-converter.com/) - Image Converters 
 * [StructuRise](http://structurise.com/screenshot-ocr/) - Convert Image Text to Text File
 * [svgco](https://svgco.de/) - Image to SVG Converter
 * [AnsiLove](https://www.ansilove.org/downloads.html) or [convert-ascii-to-image](https://onlinetools.com/ascii/convert-ascii-to-image) - ANSI / ASCII Art to PNG Converters
