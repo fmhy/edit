@@ -239,9 +239,7 @@
 * [eMule](https://www.emule-project.net/), [Fopnu](https://fopnu.com/), [Shareaza](https://shareaza.sourceforge.net/) or [eMule Plus](https://sourceforge.net/projects/emuleplus/) - File Sharing App
 * [WinMX](https://patch.winmxconex.com/) - File Sharing App / [Forum](https://forum.winmxworld.com/)
 * [WireShare](https://sourceforge.net/projects/wireshare/) - File Sharing App / LimeWire Fork
-* [TGMoviesBot](https://t.me/TGMoviesBot) - Telegram File Search Bot
 * [Direct Links](https://t.me/direct_llinks) - Telegram / Video
-* [VK Files Bot](https://t.me/VKFiles_Bot) - VK File DL Telegram Bot
 * [Real-Debrid](https://real-debrid.com/) - File Download App / Paid / [Torrent Client](https://github.com/rogerfar/rdt-client) / [Movies / TV](https://hdencode.org/)
 * [Debrid-Link](https://debrid-link.com) - Debrid w/ Free Tier / [Limits](https://i.imgur.com/vZtlvtA.png)
 
