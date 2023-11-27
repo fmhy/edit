@@ -50,7 +50,7 @@ headers = {
     ],
     "Text-Tools.md": ["Text Tools", "Text Editors, Pastebins, Fonts, Translators"],
     # "Internet-Tools.md": ["Internet Tools", "Browsers, Extensions, Search Engines"],
-    "STORAGE.md": ["Storage", "Index for everything in the wiki."],
+    "STORAGE.md": ["Storage", "Sections too big to fit on main pages"],
     "TorrentPiracyGuide.md": ["Torrenting", "Torrent Clients, Torrent Sites, Trackers"],
     "VideoPiracyGuide.md": [
         "Movies / TV / Anime",
