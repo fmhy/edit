@@ -1,6 +1,6 @@
 #### How-to Decode Links
 
-Use any **[Base64 Decoding](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_encode_.2F_decode_urls)** site or extension.
+Use a **[Base64 Decoder](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_encode_.2F_decode_urls)** or if you're on our site use this [script](https://pastebin.com/0wvfVVut).
 
 ***
 
