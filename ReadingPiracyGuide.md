@@ -599,7 +599,6 @@
 * [oatd](https://oatd.org/) - Theses / Dissertations
 * [Shodhganga](https://shodhganga.inflibnet.ac.in/) - Indian Theses / Dissertations
 * [lolmythesis](https://lolmythesis.com/) - Summarized Theses
-* [CIRES](https://cires.colorado.edu/) - Environmental Research Data
 * [WorldBank](https://www.worldbank.org/en/home) - Poverty Solution Research Data
 * [Einstein Papers](https://einsteinpapers.press.princeton.edu/) - Albert Einsteins Collected Papers Archive
 * [CIA Publications](https://www.cia.gov/resources/publications/) - History / Reports
@@ -643,72 +642,7 @@
 
 ***
 
-## ▷ Reference Sites
-
-* 🌐 **[Dictionary Index](https://onelook.com/?d=all_gen)** - List of Online Dictionaries 
-* ⭐ **[The Piracy Glossary](https://rentry.org/The-Piracy-Glossary)** - Piracy Dictionary
-* ⭐ **[Wikipedia](https://www.wikipedia.org/)**, [WikiWand](https://www.wikiwand.com/) or [Metastem](https://wiki.metastem.su/), [ModernWiki](https://www.modernwiki.app/) - Encyclopedia
-* ⭐ **Wikipedia Tools** - [Top Pages](https://top.hatnote.com/) / [Deleted Pages](https://deletionpedia.org/en/Main_Page) / [Page Connections](https://hyperleap.com/) / [Dark Mode](https://en.wikipedia.org/wiki/Wikipedia:Dark_mode) / [TUI](https://github.com/yashsinghcodes/wik) / [Galaxy View](https://wiki.polyfra.me/) / [Offline View](http://cdpedia.python.org.ar/index.en.es.html) / [Extract Text](https://github.com/attardi/wikiextractor) / [Shorten URLs](https://meta.wikimedia.org/wiki/Special:UrlShortener) / [Location Search](https://wikinearby.toolforge.org/)
-* ⭐ **[Merriam-Webster](https://www.merriam-webster.com/)** or [TheSage](https://www.sequencepublishing.com/) - Dictionary / Thesaurus
-* ⭐ **[UrbanDictionary](https://www.urbandictionary.com/)** / [Frontends](https://codeberg.org/zortazert/rural-dictionary/), [Lingo2Word](https://www.lingo2word.com/) or [Slangit](https://slang.net/) - Slang Word / Phrase Dictionaries
-* ⭐ **[OneLook](https://onelook.com/)** - Multi Dictionary Search
-* ⭐ **[Wolfram Alpha](https://www.wolframalpha.com/)** - Searchable Knowledgebase / [API Access](https://wolfreealpha.gitlab.io)
-* [Phrases.org](https://phrases.org.uk/) - Phrase Dictionary
-* [NinjaWords](https://ninjawords.com/) - Dictionary
-* [Wordnik](https://www.wordnik.com/) - Dictionary
-* [OxfordLearnersDictionaries](https://www.oxfordlearnersdictionaries.com/) - Dictionary
-* [Cambridge Dictionary](https://dictionary.cambridge.org/) - Dictionary
-* [LDOCE](https://www.ldoceonline.com/) - Dictionary
-* [Wiktionary](https://www.wiktionary.org/) - Dictionary
-* [Lexicool](https://www.lexicool.com/) - Dictionary
-* [Vocabulary](https://www.vocabulary.com/) - Dictionary
-* [WordSense](https://www.wordsense.eu/) - Dictionary
-* [Spellcheck](https://www.spellcheck.net/) - Dictionary / Spell Check
-* [dict](https://github.com/BetaPictoris/dict) - Dictionary CLI
-* [Webopedia](https://www.webopedia.com/) or [TechTerms](https://techterms.com/) - Tech Dictionary
-* [Why The Fluff](https://www.whythefluff.com/) - Common Jargon Dictionary
-* [EtymOnline](https://www.etymonline.com/) or [The Tower of Babel](https://starlingdb.org/) - Etymologies
-* [Fandom](https://www.fandom.com/) - Fan Wikis / [Frontend](https://docs.breezewiki.com/Links.html) / [Old Style](https://greasyfork.org/en/scripts/438194-hydralize-fix-fandom-com)
-* [LexiLogos](https://www.lexilogos.com/english/index.htm) - Multi Language Dictionary Index
-* [Scholarpedia](http://www.scholarpedia.org/) - Peer-Reviewed Encyclopedia
-* [Britannica](https://www.britannica.com/) - Encyclopedia
-* [EverybodyWiki](https://en.everybodywiki.com/) - Encyclopedia
-* [Encyclopedia](https://www.encyclopedia.com/) - Encyclopedia
-* [NewWorldEncyclopedia](https://www.newworldencyclopedia.org/) - Encyclopedia
-* [Citizendium](https://citizendium.org/) - Encyclopedia
-* [Wikitia](https://wikitia.com/) - Encyclopedia
-* [Conze.pt](https://conze.pt/) - Encyclopedia
-* [InfoPlease](https://www.infoplease.com/) - Encyclopedia
-* [Refdesk](https://www.refdesk.com/factency.html) - Encyclopedias
-* [Abbreviations](https://www.abbreviations.com/) - Abbreviations
-* [AcronymFinder](https://www.acronymfinder.com/) - Abbreviations / Acronyms
-* [Chat Words Dictionary](https://chatworddictionary.com/) - Chat Abbreviations
-* [lengusa](https://lengusa.com/) or [Fraze.it](https://fraze.it/) - Sentence Search
-* [Dictionary](https://www.dictionary.com/) - Dictionary / Thesaurus
-* [Thesaurus.com](https://www.thesaurus.com/) - Thesaurus / [Frontend](https://github.com/sigaloid/vocrab)
-* [PowerThesaurus](https://www.powerthesaurus.org/) - Thesaurus
-* [VisualThesaurus](https://www.visualthesaurus.com/) - Thesaurus
-* [DescribingWords](https://describingwords.io/) or [Lose The Very](https://www.losethevery.com/) - Adjectives
-* [Thsrs](https://www.ironicsans.com/thsrs/) - Synonyms
-* [Synonym.com](https://www.synonym.com/) - Synonyms
-* [Feeels](https://feelu.vercel.app/) - Emotion Synonym Chart
-* [WikiDiff](https://wikidiff.com/) - Difference Between Any Words
-* [DoesNotTranslate](https://doesnottranslate.com/) - Words with No Translation
-* [Tip of my Tounge](https://chir.ag/projects/tip-of-my-tongue/) - Find Words you Can't Remember
-* [Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/index.html), [IEP](https://iep.utm.edu/) or [nLab](https://ncatlab.org/) - Philosophy Encyclopedias / [Search](https://www.visualizingsep.com/)
-* [TheIdioms](https://www.theidioms.com/) - Idiom Dictionary
-* [Lexipedia](https://www.lexipedia.com/) or [WordWeb](https://wordwebs.app/) - Word Connections
-* [RhymeZones](https://www.rhymezone.com/) or [Rhymer](https://rhymer.com/) - Rhyme Dictionary
-* [The Dictionary of Obscure Sorrows](https://www.dictionaryofobscuresorrows.com/) - Dictionary of Sorrows
-* [TheDevilsDictionary](https://www.thedevilsdictionary.com/) - Cynical Dictionary
-* [TagDef](https://tagdef.com/en/) - Social Media Tag Dictionary
-* [KnowYourMeme](https://knowyourmeme.com/) - Meme Database
-* [IEoP](https://iep.utm.edu/fallacy/) - Fallacy Encyclopaedia
-* [Time Traveler](https://www.merriam-webster.com/time-traveler) - See when a word was first used in print
-* [Omniglot](https://www.omniglot.com/index.htm) - Writing Systems & Languages Encyclopedia
-* [WordSafety](http://wordsafety.com/) - Swear Word Indexes
-* [FreeMdict](https://freemdict.com/) - Dictionary Downloads / [Archive](https://downloads.freemdict.com/)
-* [PyGlossary](https://github.com/ilius/pyglossary) - Convert Dictionary Files
+## ▷ [Reference Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu#wiki_.25B7_reference_sites)
 
 ***
 

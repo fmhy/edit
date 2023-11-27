@@ -396,12 +396,6 @@ Use any **[Base64 Decoding](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/stor
 
 *** 
 
-#### Windows Piracy Guides
-
-`aHR0cHM6Ly9yZW50cnkub3JnL3dpbmRvd3NfcGlyYWN5==`
-
-*** 
-
 #### Font Collections
 
 `aHR0cHM6Ly9wYXN0ZWJpbi5jb20vZDduVUpreTA=`
