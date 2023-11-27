@@ -136,10 +136,9 @@
 
 # ► AI Indexes
 
-* 🌐 **[Awesome Artificial Intelligence](https://github.com/owainlewis/awesome-artificial-intelligence#free-content)** - AI Resources / Learning
 * 🌐 **[Futurepedia](https://www.futurepedia.io/)** - AI Directory
 * 🌐 **[AI-MF](https://whoisdsmith.gitbook.io/ai-mf/)** - AI Directory / [GitHub](https://github.com/whoisdsmith/AI-MTHRFCKR)
-* 🌐 **[AI Collection](https://github.com/ai-collection/ai-collection)** - AI Directory
+* 🌐 **[AI Collection](https://www.thataicollection.com/)** - AI Directory
 * 🌐 **[AI Scout](https://aiscout.net/)** - AI Directory
 * 🌐 **[AIcyclopedia](https://www.aicyclopedia.com/)** - AI Directory
 * [Favird](https://favird.com/) - AI Directory
@@ -162,13 +161,10 @@
 * [EasyWithAI](https://easywithai.com/) - AI Directory
 * [Toolspedia](https://www.toolspedia.io/) - AI Directory
 * [Hayo](https://www.hayo.com/tools) - AI Directory
-* [HD Robots](https://hdrobots.com/) - AI Directory
 * [iLib](https://www.ilib.com/) -  AI Directory
 * [WikiGPT3](https://www.wikigpt3.com/) - AI Directory
-* [SaaS GPTers](https://saasgpters.com/) - AI Directory
 * [ArtificialStudio](https://www.artificialstudio.ai/tools) - Browser Based AI
 * [Experiments with Google](https://labs.withgoogle.com/) - AI Experiments
-* [OpenCV](https://opencv.org/) - A.I. Vision Library
 
 ***
 ***
@@ -177,19 +173,14 @@
 
 * [Scrip AI](https://scripai.com/), [InkForAll](https://app.inkforall.com/tools), [QuickPenAI](https://quickpenai.com/) - Online AI Text Tools
 * [NovelAI](https://novelai.net/) - Story Writing AI / [Limit Bypass](https://pastebin.com/JDyvqZcz), [2](https://greasyfork.org/en/scripts/448926)
-* [Dreamily](https://dreamily.ai/), [NightSaga](https://nightsaga.ai/) - Story Writing AI
+* [Dreamily](https://dreamily.ai/) or [NightSaga](https://nightsaga.ai/) - Story Writing AIs
 * [Essaytyper](http://www.essaytyper.com/), [papertyper](https://papertyper.net/), [EssayBot](https://www.essaybot.com/) / [2](https://www.essayaibot.com/), [Textero](https://www.textero.ai/), [EssayBuilder](https://essay-builder.ai/) or [EssayService](https://www.essayservice.ai/) - Essay Writing AI
 * [Chat GPTPhantom](https://chatgpt-phantom.vercel.app/) - Article Writing AI
 * [GPT4Chat](https://gpt4chat.net/) or [ChatGPT Writer](https://chatgptwriter.ai/) - Email Reply AI
-* [codex-readme](https://github.com/tom-doerr/codex-readme) - README AI Generator
-* [SiteExplainer](https://www.siteexplainer.com/) - AI Site Explanations
 * [TextFX](https://textfx.withgoogle.com/) - AI Creative Writing Tools
-* [Novel.sh](https://novel.sh/), [EleutherAI](https://6b.eleuther.ai/), [Talk to Transformer](https://app.inferkit.com/demo), [TextSynth](https://textsynth.com/playground.html), [Basaran](https://github.com/hyperonym/basaran) or [Cyborg Writer](https://cyborg.tenso.rs/) - Text Autocomplete AI
+* [Novel.sh](https://novel.sh/), [TextSynth](https://textsynth.com/playground.html) or [Basaran](https://github.com/hyperonym/basaran) - Text Autocomplete AI
 * [Compose](https://www.compose.ai/) - Text Autocomplete AI Extension
-* [SheetPlus](https://sheetplus.ai/), [NumerousAI](https://workspace.google.com/marketplace/app/numerousai/575253125118) or [FormulaBot](https://formulabot.com/) - Excel AI Tools
-* [GPT-JT](https://huggingface.co/togethercomputer/GPT-JT-6B-v1) - Text Classification AI
-* [Image2Paragraph](https://github.com/showlab/Image2Paragraph) - Image to Descriptive Paragraph
-* [RoastMe](https://roastme.aleem.tv/) - Outfit Roasting AI
+* [NumerousAI](https://workspace.google.com/marketplace/app/numerousai/575253125118) or [FormulaBot](https://formulabot.com/) - Excel AI Tools
 * [Auto Text Expander](https://pastebin.com/TFPRieVN) - Shortcuts to Expand & Replace Text as you Type
 
 ***
