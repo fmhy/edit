@@ -15,7 +15,7 @@
 * ⭐ **[Q4Wine](https://sourceforge.net/projects/q4wine/)** - Wine GUI
 * ⭐ **[AppImageLauncher](https://github.com/TheAssassin/AppImageLauncher)** - App Image Launcher
 * [winetricks](https://github.com/Winetricks/winetricks) - Wine Fixes
-* [winapps](https://github.com/Fmstrat/winapps), [Cassowary](https://github.com/casualsnek/cassowary), [CrossOver](https://www.codeweavers.com/crossover) or [Bottles](https://usebottles.com/) - Run Windows Apps on Linux
+* [winapps](https://github.com/Fmstrat/winapps), [Cassowary](https://github.com/casualsnek/cassowary), [Bottles](https://usebottles.com/) - Run Windows Apps on Linux
 * [wslu](https://github.com/wslutilities/wslu) - Utilities for Windows 10 Linux Subsystem
 * [Darling](https://www.darlinghq.org/) - Run MacOS Apps on Linux
 * [Ulauncher](https://ulauncher.io/) - Application Launcher
@@ -247,7 +247,7 @@
 * [HowtoForge](https://www.howtoforge.com/), [Sindresorhus Guides](https://github.com/sindresorhus/guides), [Erik Dubois](https://www.youtube.com/c/ErikDubois), [LinuxJourney](https://linuxjourney.com/), [Mayfrost Guides](https://github.com/mayfrost/guides) or [Mental Outlaw](https://www.youtube.com/channel/UC7YOGHUfC1Tb6E4pudI9STA) - Linux Guides / Tutorials
 * [howtodebuntu](https://github.com/themagicalmammal/howtolinux) - Tweaks for Debian Based Distros
 * [WoeUSB](https://github.com/WoeUSB/WoeUSB) or [Windows2USB](https://github.com/ValdikSS/windows2usb) - Create Bootable USB Windows Drives
-* [CloverBootloader](https://github.com/CloverHackyColor/CloverBootloader/releases) - Windows, Mac & Linux Bootloader / [Config](https://mackie100projects.altervista.org/)
+* [CloverBootloader](https://github.com/CloverHackyColor/CloverBootloader/) - Windows, Mac & Linux Bootloader / [Config](https://mackie100projects.altervista.org/)
 * [zfsBootMenu](https://github.com/zbm-dev/zfsbootmenu) - ZFS Bootloader
 * [Linux Heads](https://osresearch.net/) - Minimal CoreBoot / [GitHub](https://github.com/osresearch/heads)
 * [GParted](https://gparted.org/) - Partition Manager
@@ -444,7 +444,7 @@
 * [Ice Cubes](https://apps.apple.com/us/app/ice-cubes-for-mastodon/id6444915884) - Mastodon Client
 * [Beta Profiles](https://betaprofiles.com/) - Download Pre-Release Versions MacOS
 * [Asahi Linux](https://asahilinux.org/) - Run Linux OS on macOS Silicon (M1 only)
-* [CloverBootloader](https://github.com/CloverHackyColor/CloverBootloader/releases) - Windows, Mac & Linux Bootloader / [Config](https://mackie100projects.altervista.org/)
+* [CloverBootloader](https://github.com/CloverHackyColor/CloverBootloader/) - Windows, Mac & Linux Bootloader / [Config](https://mackie100projects.altervista.org/)
 * [Boot Camp](https://support.apple.com/boot-camp) - Windows Bootloader / [DL Script](https://github.com/timsutton/brigadier)
 * [Docker OSX](https://github.com/sickcodes/Docker-OSX) - Mac VM in Docker
 * [Whisky](https://getwhisky.app/) - Wine Wrapper
@@ -458,7 +458,7 @@
 * [Subsonic](https://github.com/twostraws/Subsonic) - SwiftUI Audio Player
 * [Bookshelf](https://apps.apple.com/us/app/bookshelf-reading-tracker/id1469372414) - Book Tracker
 * [LimaVM](https://github.com/lima-vm/lima) - Linux VM on MacOS
-* [PortingKit](https://www.portingkit.com/), [PlayOnMac](https://www.playonmac.com/en/) or [CrossOver](https://www.codeweavers.com/crossover) - Run Windows Games / Programs on Mac
+* [PortingKit](https://www.portingkit.com/) or [PlayOnMac](https://www.playonmac.com/en/) - Run Windows Games / Programs on Mac
 * [OpenCore](https://github.com/acidanthera/OpenCorePkg) - Mac Bootloader / [Config](https://mackie100projects.altervista.org/opencore-configurator/) / [Guide](https://dortania.github.io/OpenCore-Install-Guide/)
 * [PlayCover](https://github.com/PlayCover/PlayCover) - Run iOS Apps on Apple Silicon Macs
 * [OpenCore Legacy Patcher](https://github.com/dortania/OpenCore-Legacy-Patcher/) - Install New macOS on Unsupported Devices
