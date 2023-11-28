@@ -390,6 +390,7 @@
 * ⭐ **[Snapdrop](https://snapdrop.net/)** / [Instances](https://github.com/RobinLinus/snapdrop/blob/master/docs/faq.md##inofficial-instances) or [pairdrop](https://pairdrop.net/)
 * ⭐ **[ToffeeShare](https://toffeeshare.com/)**
 * ⭐ **[Transfer.sh](https://transfer.sh/)**
+* ⭐ **[freefilesync](https://freefilesync.org/)**
 * ⭐ **[Blaze](https://blaze.vercel.app/)** / [GitHub](https://github.com/blenderskool/blaze)
 * ⭐ **[LocalSend](https://localsend.org/)** / [Platforms](https://i.ibb.co/nsfMf04/8010dd28ed2d.png), [Warpinator](https://github.com/linuxmint/warpinator), [QRServ](https://github.com/uintdev/qrserv) or [MyPhoneExplorer](https://www.fjsoft.at/) - Sync Files Between Phone / Desktop
 * [Linux Reader](https://www.diskinternals.com/linux-reader/) - Access Linux Files on Windows
@@ -403,7 +404,6 @@
 * [Slate](https://slate.host/)
 * [etesync](https://www.etesync.com/)
 * [WinSCP](https://winscp.net/eng/index.php)
-* [freefilesync](https://freefilesync.org/)
 * [allwaysync](https://allwaysync.com/)
 * [sharik](https://github.com/marchellodev/sharik)
 * [Simple.Savr](https://www.ssavr.com/)
