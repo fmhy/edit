@@ -4,7 +4,7 @@
 ***
 ***
 
-**[Table of Contents](https://ibb.co/h7BR9k9)** - For mobile users
+**[Table of Contents](https://ibb.co/V3Sr27m)** - For mobile users
 
 ***
 ***
@@ -506,7 +506,7 @@
 
 ***
 
-## ▷ Academic Papers / Journals
+## ▷ Academic Papers
 
 * ⭐ **[Sci-Hub](https://sci-hub.se/)** - Science Articles / Research Papers
 * ⭐ **Sci-Hub Tools** - [Telegram](https://t.me/freescience) / [Mirrors](https://vertsluisants.fr/index.php?article4/where-scihub-libgen-server-down), [2](https://sci-hub.hkvisa.net/) / [TG Bot](https://t.me/scihubot) / [Extension](https://addons.mozilla.org/en-US/firefox/addon/sci-hub-scholar/) / [DL Button](https://greasyfork.org/zh-CN/scripts/370246-sci-hub-button), [2](https://github.com/gchenfc/sci-hub-now) / [PDF Download](https://gagarine.medium.com/use-sci-hub-with-zotero-as-a-fall-back-pdf-resolver-cf139eb2cea7) / [Backup](https://redd.it/edwi9b) / [/r/scihub](https://reddit.com/r/scihub) / [VK](https://vk.com/sci_hub) / [DOI Redirect](https://greasyfork.org/en/scripts/412498)
