@@ -2396,19 +2396,14 @@
 * [Langchain](https://github.com/langchain-ai/langchain) - Build Apps via LLM
 * [GPTCache](https://github.com/zilliztech/GPTCache) - LLM Response Cache
 * [OpenCog](https://opencog.org/) or [AForge](https://github.com/andrewkirillov/AForge.NET) - Artificial Intelligence Frameworks
-* [100-Days-Of-ML-Code](https://github.com/Avik-Jain/100-Days-Of-ML-Code) or [Practical Deep Learning](https://course.fast.ai/) - Machine Learning Coding Lessons
 * [Nixified](https://nixified.ai/) - Nix Flake for AI Projects
 * [Approaching (Almost) Any Machine Learning Problem](https://github.com/abhishekkrthakur/approachingalmost/blob/master/AAAMLP.pdf) - Machine Learning Problem Solving Book
 * [MetaAcademy](https://metacademy.org/), [Beginner Guides](https://microsoft.github.io/generative-ai-for-beginners/) or [HF Learn](https://huggingface.co/learn) - Machine Learning Guides
-* [ML-Youtube-Courses](https://github.com/dair-ai/ML-YouTube-Courses) - Machine Learning Courses on YouTube
 * [ML Course Notes](https://github.com/dair-ai/ML-Course-Notes) - Machine Learning Course Notes
 * [100-Days-Of-ML-Code](https://github.com/Avik-Jain/100-Days-Of-ML-Code) or [Practical Deep Learning](https://course.fast.ai/) - Machine Learning Coding Lessons 
 * [minitorch](https://github.com/minitorch/minitorch) - Machine Learning Engineering Course Code
 * [Approaching (Almost) Any Machine Learning Problem](https://github.com/abhishekkrthakur/approachingalmost/blob/master/AAAMLP.pdf) - Machine Learning Problem Solving Book 
 * [ML-Youtube-Courses](https://github.com/dair-ai/ML-YouTube-Courses) - Machine Learning Courses on YouTube
-* [Catalyzex](https://www.catalyzex.com/), [Feedly AI](https://feedly.com/ai), [PapersWithCode](https://paperswithcode.com/), [AI Reading List](https://docs.google.com/document/d/1bEQM1W-1fzSVWNbS4ne5PopB2b7j8zD4Jc3nm4rbK-U/), [AI RND](https://www.ai-rnd.com/) or [Daily Papers](https://huggingface.co/papers) - AI Research Papers
-* [PromptPapers](https://github.com/thunlp/PromptPapers) - Pre-Trained Language Model Tuning Papers
-* [VIAM](https://www.viam.com/) - Develop Robotics Projects
 * [Cyberbotics](https://cyberbotics.com/) - Robot Simulator
 ***
 ***
@@ -2892,11 +2887,11 @@
 * 🌐 **[Awesome Free Software](https://github.com/johnjago/awesome-free-software)**, [Awesome Windows](https://github.com/Awesome-Windows/Awesome), [Major Geeks](https://www.majorgeeks.com/content/page/top_freeware_picks.html), [SourceForge](https://sourceforge.net/), [FossHub](https://www.fosshub.com/), [Fossies](https://fossies.org/all.html), [Free Software Directory](https://directory.fsf.org/wiki/Main_Page) or [FOSS Wiki](https://en.wikipedia.org/wiki/Portal:Free_and_open-source_software/Categories) - Freeware Indexes
 * 🌐 **[Awesome Selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)**, [2](https://gitlab.com/awesome-selfhosted/awesome-selfhosted) - Selfhosted Software Index
 * 🌐 **[Awesome Python Applications](https://github.com/mahmoud/awesome-python-applications)** - Python App Index
-* 🌐 **[OldVersion](http://www.oldversion.com/)** - Old Versions of Software
 * ↪️ **[Software Package Managers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_package_managers)**
 * ↪️ **[Alternative Software Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_alternative_software_.2F_app_sites)**
 * ⭐ **[FluentStore](https://github.com/yoshiask/FluentStore)** - Microsoft Store Frontend
 * ⭐ **[store.rg](https://store.rg-adguard.net/)** - Paid Microsoft Store Link Generator / [Guide](https://rentry.co/paidAppsMsStore)
+* [OldVersion](http://www.oldversion.com/) - Old Versions of Software
 * [Windows Ultimate Collection](https://forum.xda-developers.com/t/windows-ultimate-collection-guides.4507867/) - Freeware Index
 * [OlderGeeks](https://oldergeeks.com/) - Freeware Index
 * [Free Software MF](https://whoisdsmith.gitbook.io/free-software-mf) - Freeware Index
@@ -3346,7 +3341,6 @@
 * 🌐 **[Flashpoint](https://flashpointarchive.org/)** / [Discord](https://discord.gg/Z4gGtJvvn8) or [Flash Library](https://github.com/nbats/FMHYedit/blob/main/base64.md#software-library-flash) - Flash Game Archives 
 * ↪️ **[Multi Game Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_browser_games)**
 * ↪️ **[Interactive Text Adventures](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_text_adventures)**
-* ↪️ **[Educational Games](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu#wiki_.25BA_games)**
 * ↪️ **[Flash Player Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_flash_player_tools)**
 * ⭐ **[Line Rider](https://www.linerider.com/)** - Draw Sled Tracks
 * ⭐ **[Play-CS](https://play-cs.com/)** - Browser Counter-Strike 1.6
@@ -3644,7 +3638,7 @@
 * ↪️ **[Steam Workshop Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_steam_workshop_downloaders)**
 * ⭐ **[Koalageddon](https://github.com/acidicoala/Koalageddon/)** / [v2](https://github.com/acidicoala/Koalageddon2) - DLC Unlocker for Steam, Epic, Origin, EA and Uplay
 * ⭐ **[SmokeAPI](https://github.com/acidicoala/SmokeAPI)** - Steam DLC Unlocker / [Auto Installer](https://github.com/pointfeev/CreamInstaller)
-* ⭐ **[Goldberg](https://gitlab.com/Mr_Goldberg/goldberg_emulator)** / [GUI](https://cs.rin.ru/forum/viewtopic.php?f=29&t=111152&hilit=goldberg), [SmartSteamEmu](https://cs.rin.ru/forum/viewtopic.php?p=2009102#p2009102) or [GreenLuma](https://cs.rin.ru/forum/viewtopic.php?f=29&t=103709) - Steam Multiplayer Client Emulators
+* ⭐ **[Goldberg](https://gitlab.com/Mr_Goldberg/goldberg_emulator)** / [GUI](https://cs.rin.ru/forum/viewtopic.php?f=29&t=111152&hilit=goldberg) / [Guide](https://rentry.co/goldberg_emulator), [SmartSteamEmu](https://cs.rin.ru/forum/viewtopic.php?p=2009102#p2009102) or [GreenLuma](https://cs.rin.ru/forum/viewtopic.php?f=29&t=103709) - Steam Multiplayer Client Emulators
 * ⭐ **[Steamless](https://github.com/atom0s/Steamless)** - Steam DRM Remover
 * ⭐ **[Steam-Auto-Crack](https://github.com/oureveryday/Steam-auto-crack)** or [SteamAutoCracker](https://github.com/BigBoiCJ/SteamAutoCracker) - Auto Apply Goldberg + Steamless / [Guide](https://codeberg.org/fernbacher/How-To-Crack)
 * ⭐ **[SteamDB](https://steamdb.info/)** - Steam Insights Tool / [Extension](https://steamdb.info/extension/)
@@ -3928,31 +3922,22 @@
 * ⭐ **[Magpie](https://github.com/Blinue/Magpie)** - Enable AMD FSR on Any Game or Any Device
 * [PC-Tuning](https://github.com/amitxv/PC-Tuning), [RagnoTech Optimization Catalog](https://ragnos1997.com/optimization-catalog/), [TroubleChute](https://www.youtube.com/c/TroubleChute/featured) or [GamingPCSetup](https://github.com/djdallmann/GamingPCSetup) - Gaming Optimization Guides
 * [LinkRunner](https://github.com/romjacket/rj_linkrunner) - Per-Game Settings Manager
-* [Calypto’s Latency Guide](https://docs.google.com/document/d/1c2-lUJq74wuYK1WrA_bIvgb89dUN0sj8-hO3vqmrau4/), [MoreFPS](https://morefps.net/), [cancerogenoslab](https://sites.google.com/view/cancerogenoslab/) or [MikeMartin](https://www.mikemartin.co/) - FPS / Latency Guides
+* [Calypto’s Latency Guide](https://docs.google.com/document/d/1c2-lUJq74wuYK1WrA_bIvgb89dUN0sj8-hO3vqmrau4/), [cancerogenoslab](https://sites.google.com/view/cancerogenoslab/) or [MikeMartin](https://www.mikemartin.co/) - FPS / Latency Guides
 * [LatencyFleX](https://github.com/ishitatsuyuki/LatencyFleX) or [HoneCtrl](https://github.com/auraside/HoneCtrl) - Latency Reduction / FPS Fixes
-* [Fraps](https://fraps.com/), [OCAT](https://gpuopen.com/ocat/) / [GitHub](https://github.com/GPUOpen-Tools/ocat), [Rivatuner Statistics Server](https://www.guru3d.com/files-details/rtss-rivatuner-statistics-server-download.html), [CapFrameX](https://www.capframex.com/) or [Xbox Game Bar](https://rentry.co/WindowsFPS) - FPS Benchmarking
-* [Ping Enhancer](https://www.wowinterface.com/downloads/info16336-PingEnhancer.html) or [SSTap](https://github.com/FQrabbit/SSTap-Rule/releases/tag/SSTap常用版本及去广告) - Decrease Ping
+* [OCAT](https://gpuopen.com/ocat/) / [GitHub](https://github.com/GPUOpen-Tools/ocat), [Rivatuner Statistics Server](https://www.guru3d.com/files-details/rtss-rivatuner-statistics-server-download.html), [CapFrameX](https://www.capframex.com/) or [Xbox Game Bar](https://rentry.co/WindowsFPS) - FPS Benchmarking
+* [SSTap](https://github.com/FQrabbit/SSTap-Rule) - Decrease Ping
 * [Overclock](https://www.overclock.net/) - Overclocking Forum
 * [Ryzen Master Utility](https://www.amd.com/en/technologies/ryzen-master) - Overclocking Control for Ryzen Desktop CPU
 * [AMD-APU-Tuning-Utility](https://github.com/JamesCJ60/Universal-x86-Tuning-Utility) - AMD APU Tuning
-* [NTCore's 4GB Patch](https://ntcore.com/?page_id=371) - x86 Executable Memory Patcher
-* [hidusbf](https://github.com/LordOfMice/hidusbf) - Mice Overclocking Software
-* [D3 Overrider](https://community.pcgamingwiki.com/files/file/84-d3doverrider/) - Force V-Sync / Triple Buffer
 * [dlss-swap](https://github.com/beeradmoore/dlss-swapper) - Download, Manage & Swap DLSS
-* [FSR](https://rentry.co/FSR) - FidelityFX Super Resolution Mods
 * [dgVoodoo2](http://dege.freeweb.hu/dgVoodoo2/) - Glide & DirectX Graphics Wrapper
-* [OpenVR FSR](https://github.com/fholger/openvr_fsr) - Steam VR FidelityFX Super Resolution Mods
 * [VibranceGUI](https://vibrancegui.com/) - Automate Digital Vibrance Control
 * [ReShade](https://reshade.me/) - Generic Post-Processing Injector / [GitHub](https://github.com/crosire/reshade) / [Shaders](https://github.com/BlueSkyDefender/Depth3D)
 * [WindowedBorderlessGaming](https://westechsolutions.net/sites/WindowedBorderlessGaming/), [Borderless Gaming](https://github.com/Codeusa/Borderless-Gaming), [Borderless-Gaming-Tool](https://github.com/r57zone/Borderless-Gaming-Tool) or [FullScreenizer](http://runtimeterror.com/tools/fullscreenizer/) - Borderless Windows for All Games
 * [Lossless Scaling](https://github.com/nbats/FMHYedit/blob/main/base64.md#lossless-scaling) - Windowed Game Scaling
 * [DxWnd](https://sourceforge.net/projects/dxwnd/) - Play Fullscreen Only Games in Window
 * [Widescreen Fixes Pack](https://thirteenag.github.io/wfp) / [GitHub](https://github.com/ThirteenAG/WidescreenFixesPack), [Widescreen Fixer v3.4](https://community.pcgamingwiki.com/files/file/1754-widescreen-fixer-v34-r737/) or [Flawless Widescreen](https://www.flawlesswidescreen.org/) - Widescreen Fixes
-* [ValStretch](https://github.com/lem6ns/valstretch) - Stretched Resolution Valorant Script
-* [RDRFSR2](https://github.com/RealIndica/RDRFSR2) - RDR2 FidelityFX Super Resolution Mod
 * [Genshin Impact FPS Unlocker](https://github.com/34736384/genshin-fps-unlock) - Unlock Genshin Impact FPS Cap
-* [Optimize Dying Light 2](https://rentry.co/opto-dl2) - DL2 Optimization Mods
-* [RE4HD](https://www.re4hd.com/) - Resident Evil 4 HD Mod
 * [ChimeraOS](https://chimeraos.org/) - Gaming Focused OS / [Discord](https://discord.gg/fKsUbrt)
 
 ***
@@ -4007,7 +3992,6 @@
 * [FallGuysStats](https://github.com/ShootMe/FallGuysStats) or [Fallalytics](https://fallalytics.com/) - Fall Guys Stat Trackers
 * [Pancake Patcher](https://gamebanana.com/tools/7382) - Fall Guys String Patcher
 * [FallGuysDB](https://fallguys-db.pages.dev/) - Fall Guys Store & Show Rotations
-* [Fall Guys Perfect Match](https://fall-guys-perfect-match.netlify.app/) - Fall Guys Fruit Tracker
 * [Fortnite Tracker](https://fortnitetracker.com/) - Fortnite Leaderboards / Stats
 * [FortniteEXP](https://www.fortnitexp.net/) - Fortnite XP Progression / Leveling Rates
 * [Slippi](https://slippi.gg/) - Super Smash Bros Melee Online 
@@ -4252,9 +4236,8 @@
 * [CasaOS](https://casaos.io/) - Cloud Home System / [GitHub](https://github.com/IceWhaleTech/CasaOS)
 * [Leon](https://getleon.ai/) - AI Assistant
 * [Rhasspy](https://rhasspy.readthedocs.io/en/latest/) - Voice Assistant
-* [Taskbar Numberer](https://ramensoftware.com/7-taskbar-numberer) - Open App via Numbered Voice Commands
 * [Time.is](https://time.is/) - Check Accuracy of System Clock
-* [StreamPi](https://stream-pi.com/) or [FreeDeck](https://github.com/FreeYourStream/freedeck-hardware) - ElGato Streamdeck Alternative
+* [StreamPi](https://stream-pi.com/) - ElGato Streamdeck Alternative
 
 ***
 
@@ -4474,6 +4457,7 @@
 * 🌐 **[Awesome Storage](https://github.com/okhosting/awesome-storage)** - File Storage Resources
 * 🌐 **[Awesome DataHoarding](https://github.com/simon987/awesome-datahoarding)** - DataHoarding Resources
 * ⭐ **[WizTree](https://www.diskanalyzer.com/)** - Disk Usage Analyzer
+* ⭐ **[CrystalDiskMark](https://crystalmark.info/en/software/crystaldiskmark/)** or [CCISOBench](https://ccsiobench.com/) - Disk Benchmarking Tools
 * ⭐ **[GParted](https://gparted.org/)**, [Rescuezilla](https://rescuezilla.com/), [CloneZilla](https://clonezilla.org/) or [AOMEI](https://www.diskpart.com/) - Partition Managers
 * [TrueNAS](https://www.truenas.com/) - Storage System
 * [QDirStat](https://github.com/shundhammer/qdirstat) - Directory Statistics
@@ -4486,7 +4470,6 @@
 * [Diskovery](https://diskovery.io/) - Disk Usage Analyzer
 * [DiskInfo](https://github.com/DiskTools/DiskInfo) - Disk Usage Analyzer
 * [Erdtree](https://github.com/solidiquis/erdtree) - Disk Usage Analyzer
-* [CrystalDiskMark](https://crystalmark.info/en/software/crystaldiskmark/) or [CCISOBench](https://ccsiobench.com/) - Disk Benchmarking Tools
 * [PC Manger](https://pcmanager-en.microsoft.com/) or [CleanmgrPlus](https://github.com/builtbybel/CleanmgrPlus) - Disk Managers / Cleanup
 * [Air Live Drive](https://www.airlivedrive.com/en/) - Mount Cloud Drives as Local Disks
 * [SFTPDrive](https://www.nsoftware.com/sftpdrive) - Mount SFTP Servers as Local Disks
@@ -4615,7 +4598,7 @@
 * ⭐ **[VirtualBox](https://www.virtualbox.org/)** / [Portable](https://www.vbox.me/), [Looking Glass](https://looking-glass.io/), [Qemu](https://gitlab.com/qemu-project/qemu), [Hyper-V](https://learn.microsoft.com/en-us/virtualization/hyper-v-on-windows//), [fvwm](https://www.fvwm.org/), [Denodo Test](https://www.denodo.com/en/denodo-platform/test-drives?utm_source=homepage&utm_medium=bn) or [VMware Workstation Player](https://www.vmware.com/products/workstation-player/workstation-player-evaluation.html) - Virtual Machines / [Preinstalled VMS](https://www.osboxes.org/)
 * ⭐ **[Hackintosh](https://hackintosh.com/)**, [Emaculation](https://www.emaculation.com/), [felixrieseberg](https://github.com/felixrieseberg/macintosh.js/) or [OneClick-macOS](https://github.com/notAperson535/OneClick-macOS-Simple-KVM) - MacOS Virtual Machines
 * ⭐ **Hackintosh Tools** - [Guide](https://github.com/dortania/macOS-VMware-Guide), [2](https://www.tonymacx86.com/) / [AMD Guide](https://chefkissinc.github.io/guide) / [Installer](https://github.com/huangyz0918/Hackintosh-Installer-University) / [Ryzen](https://github.com/mikigal/ryzen-hackintosh) / [XiaoMi](https://github.com/daliansky/XiaoMi-Pro-Hackintosh)
-* [Virt Machine](https://virt-manager.org/) or [Vagrantup](https://www.vagrantup.com/) - Virtual Machine Managers
+* [Virt-Manager](https://virt-manager.org/) or [Vagrantup](https://www.vagrantup.com/) - Virtual Machine Managers
 * [CollabVM](https://computernewb.com/collab-vm/) - Online Virtual Machines
 * [Virtual PC](https://www.microsoft.com/en-us/download/details.aspx?id=3243) - Windows XP Virtual Machine
 * [windows95](https://github.com/felixrieseberg/windows95) - Windows 95 in Electron
@@ -6646,7 +6629,7 @@ Use [this](https://bitbucket.org/magnolia1234/bypass-paywalls-firefox-clean/src/
 ## ▷ YouTube Tools
 
 * ↪️ **[YouTube Frontends](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_youtube_frontends)**
-* ↪️ **[YouTube Video / Audio Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_youtube_converters)**
+* ↪️ **[YouTube Video / Audio Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video-tools#wiki_.25B7_youtube_download)**
 * ↪️ **[YouTube Enhancement Extensions](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_yt_enhancement)**
 * ↪️ **[Hide YouTube Shorts](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_hide_youtube_shorts)**
 * ⭐ **[Favoree](https://www.favoree.io/)** - Search / Discover YouTube Channels
@@ -12001,7 +11984,6 @@ Use a **[Base64 Decoder](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage
 #### Spotify++
 
 `aHR0cHM6Ly9yZWRkLml0L3B0NXV2OQ==`
-`aHR0cHM6Ly9yZWRkLml0L3B0NXV2OQ==`
 `aHR0cHM6Ly9pcGFzcG90LmFwcC9jYXRlZ29yaWVzL3R3ZWFrZWRhcHBzLmh0bWw=`
 `aHR0cHM6Ly9yZXBvLmhhY2t5b3VyaXBob25lLm9yZy9zcG90aWxpZmU=`
 
@@ -15408,6 +15390,7 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://70.88.180.169:8
 * ⭐ **[Snapdrop](https://snapdrop.net/)** / [Instances](https://github.com/RobinLinus/snapdrop/blob/master/docs/faq.md##inofficial-instances) or [pairdrop](https://pairdrop.net/)
 * ⭐ **[ToffeeShare](https://toffeeshare.com/)**
 * ⭐ **[Transfer.sh](https://transfer.sh/)**
+* ⭐ **[freefilesync](https://freefilesync.org/)**
 * ⭐ **[Blaze](https://blaze.vercel.app/)** / [GitHub](https://github.com/blenderskool/blaze)
 * ⭐ **[LocalSend](https://localsend.org/)** / [Platforms](https://i.ibb.co/nsfMf04/8010dd28ed2d.png), [Warpinator](https://github.com/linuxmint/warpinator), [QRServ](https://github.com/uintdev/qrserv) or [MyPhoneExplorer](https://www.fjsoft.at/) - Sync Files Between Phone / Desktop
 * [Linux Reader](https://www.diskinternals.com/linux-reader/) - Access Linux Files on Windows
@@ -15421,7 +15404,6 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://70.88.180.169:8
 * [Slate](https://slate.host/)
 * [etesync](https://www.etesync.com/)
 * [WinSCP](https://winscp.net/eng/index.php)
-* [freefilesync](https://freefilesync.org/)
 * [allwaysync](https://allwaysync.com/)
 * [sharik](https://github.com/marchellodev/sharik)
 * [Simple.Savr](https://www.ssavr.com/)
@@ -16287,13 +16269,13 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://70.88.180.169:8
 * [/r/buildapc](https://reddit.com/r/buildapc) - PC Building Community / [Discord](https://discord.com/invite/buildapc)
 * [/r/BuildAPCForMe](https://reddit.com/r/BuildAPCForMe) - PC Building Community
 * [/r/SuggestAPC](https://reddit.com/r/SuggestAPC) - PC Suggestion Community
-* [Hackerboards](https://hackerboards.com/) - Motherboard Comparisons
 * [NewMaxx's SSD Site](https://borecraft.com/), [JohnnyLucky](https://www.johnnylucky.org/data-storage/ssd-database.html) or [SSD Chart](https://docs.google.com/spreadsheets/d/1B27_j9NDPU3cNlj2HKcrfpJKHkOf-Oi1DbuuQva2gT4/) - SSD Buying Comparisons
 * [Disk Prices](https://diskprices.com/) - Disk Price Tracker
 * [Shucks](https://shucks.top/) - External Drive Price Tracker
 * [/r/SuggestALaptop](https://reddit.com/r/SuggestALaptop), [Laptop Deals](https://laptopsdeals.net/our-gaming-laptops-guide-list/), [Jarrod's Tech](https://jarrods.tech/resources/) or [Noteb](https://noteb.com/) - Laptop Suggestions / [Discord](https://discord.gg/pes68JM)
 * [Laptop Wiki](https://laptopwiki.eu/) - Laptop Info Database
 * [EloShapes](https://www.eloshapes.com/), [Sensor.fyi](https://sensor.fyi/info/), [RocketJumpNinja](https://www.rocketjumpninja.com/) or [/r/MouseReview Wiki](https://www.reddit.com/r/MouseReview/wiki/index/) - Mouse Buying Guides
+* [Hackerboards](https://hackerboards.com/) - Single-Board Computer Comparisons
 * [Click Latencies](https://docs.google.com/spreadsheets/d/1-QI7-LY9Ul_DsVE4ZOqBQxqqqqrdJ04Ite8IY3AQMds/) - Mouse Click Latency Chart
 * [AudioScienceReview](https://www.audiosciencereview.com/forum/index.php) - Audio Equipment Discussion
 * [Scarbir](https://www.scarbir.com/) or [Crinacle](https://crinacle.com/) - Headset & Earphone Comparisons
@@ -16699,7 +16681,6 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://70.88.180.169:8
 * [MoodLight](https://www.moodlight.org/) or [Defonic MoodLight](https://defonic.com/moodlight.html) - Turn Screen into Strobe / Mood Light
 * [HYDRA](https://hydra.ojack.xyz/) - Live Coding Networked Visuals / [Discord](https://discord.gg/ZQjfHkNHXC)
 * [see. hear. party.](http://www.seehearparty.com/) - List Things You Want to See... Party
-* [The Endless Acid Banger](https://www.vitling.xyz/toys/acid-banger//) - Endless Autogenerated Song
 * [The Editing Room](https://www.the-editing-room.com/) - Funny Abridged Movie Scripts
 * [Gen-Z AI](https://openai-quickstart-node-1.vercel.app/) - AI Generated Urban Dictionary Definitions
 * [LetMeGoogleThat](https://letmegooglethat.com/) or [GIYBF](https://giybf.com/) - Remind People that Google Exists
@@ -18094,7 +18075,7 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://70.88.180.169:8
 * ↪️ **[Royalty Free Music](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_royalty_free_music)**
 * ⭐ **[DoubleDouble](https://doubledouble.top/)** - Multi-Site Audio Download Web App
 * ⭐ **[Free MP3 Download](https://free-mp3-download.net/)** - Search / MP3 / FLAC
-* ⭐ **[Archive.org](https://archive.org/details/audio)** or [NLFEAREDWOLF](https://archive.org/search?query=creator%3A%22NLFEAREDWOLF%22&sort=-downloads&and%5B%5D=mediatype%3A%22audio%22&and%5B%5D=mediatype%3A%22image%22) - MP3 
+* ⭐ **[Archive.org](https://archive.org/)** - MP3 
 * ⭐ **[SittingOnClouds](https://www.sittingonclouds.net/)** / [Discord](https://discord.com/invite/x23SFbE) - Anime / Game Soundtracks
 * ⭐ **[Audio Download CSE](https://cse.google.com/cse?cx=006516753008110874046:ibmyuhh72io)** / [CSE 2](https://cse.google.com/cse?cx=006516753008110874046:ohobg3wvr_w) / [CSE 3](https://cse.google.com/cse?cx=32d85b41e2feacd3f) - Multi-Site Search
 * [The Last Disaster](https://thelastdisaster.vip/) - Metal / Hardcore / Rock / MP3 / FLAC
