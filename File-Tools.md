@@ -256,7 +256,7 @@
 
 * ⭐ **[Pixeldrain](https://pixeldrain.com/)** - [Speedtest File](https://pixeldrain.com/api/misc/speedtest)
 * ⭐ **[1fichier](https://1fichier.com/)**
-* ⭐ **[Qiwi](https://qiwi.gg)**
+* ⭐ **[Qiwi](https://qiwi.gg)** - [Warning](https://pastebin.com/jn90QMEt)
 * ⭐ **[mediafire](https://www.mediafire.com/)**
 * ⭐ **[bowfile](https://bowfile.com/)**
 * ⭐ **[krakenfiles](https://krakenfiles.com/)**
