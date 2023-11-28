@@ -178,11 +178,11 @@
 * 🌐 **[Awesome Free Software](https://github.com/johnjago/awesome-free-software)**, [Awesome Windows](https://github.com/Awesome-Windows/Awesome), [Major Geeks](https://www.majorgeeks.com/content/page/top_freeware_picks.html), [SourceForge](https://sourceforge.net/), [FossHub](https://www.fosshub.com/), [Fossies](https://fossies.org/all.html), [Free Software Directory](https://directory.fsf.org/wiki/Main_Page) or [FOSS Wiki](https://en.wikipedia.org/wiki/Portal:Free_and_open-source_software/Categories) - Freeware Indexes
 * 🌐 **[Awesome Selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)**, [2](https://gitlab.com/awesome-selfhosted/awesome-selfhosted) - Selfhosted Software Index
 * 🌐 **[Awesome Python Applications](https://github.com/mahmoud/awesome-python-applications)** - Python App Index
-* 🌐 **[OldVersion](http://www.oldversion.com/)** - Old Versions of Software
 * ↪️ **[Software Package Managers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_package_managers)**
 * ↪️ **[Alternative Software Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_alternative_software_.2F_app_sites)**
 * ⭐ **[FluentStore](https://github.com/yoshiask/FluentStore)** - Microsoft Store Frontend
 * ⭐ **[store.rg](https://store.rg-adguard.net/)** - Paid Microsoft Store Link Generator / [Guide](https://rentry.co/paidAppsMsStore)
+* [OldVersion](http://www.oldversion.com/) - Old Versions of Software
 * [Windows Ultimate Collection](https://forum.xda-developers.com/t/windows-ultimate-collection-guides.4507867/) - Freeware Index
 * [OlderGeeks](https://oldergeeks.com/) - Freeware Index
 * [Free Software MF](https://whoisdsmith.gitbook.io/free-software-mf) - Freeware Index
