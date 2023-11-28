@@ -993,7 +993,7 @@
 * 🌐 **[CyPwn](https://repo.cypwn.xyz/)**, [2](https://ipa.cypwn.xyz/) - App Repository / [Discord](https://discord.gg/cypwn)
 * 🌐 **[ReJail](https://rejail.ru/)** - App / Tweak Repository
 * 🌐 **[Open-Source iOS Apps](https://github.com/dkhamsing/open-source-ios-apps)** - Open-Source Apps
-* [TrollStore](https://github.com/opa334/TrollStore) - iOS Apps / 14.0-17.0 / [IPAs](https://github.com/swaggyP36000/TrollStore-IPAs)
+* ⭐ **[TrollStore](https://github.com/opa334/TrollStore)** - iOS Apps / 14.0-17.0 / [IPAs](https://github.com/swaggyP36000/TrollStore-IPAs)
 * [Streamiza](https://t.me/streamiza) - Tweaked Apps / Telegram / [Discord](https://linktr.ee/Streamiza)
 * [App Cake](https://www.iphonecake.com/) - Cracked Apps / [Discord](https://discord.com/invite/TgY2Qmb)
 * [Mobilism iOS Apps](https://forum.mobilism.org/viewforum.php?f=312)
