@@ -870,6 +870,7 @@
 * [Thunder's Place](https://thunders.place/) - Penis Enlargement Discussion & Safety
 * [MoanMyIP](https://www.moanmyip.com/) - Sexy Girls Moaning Your IP
 * [Unhinged](https://www.unhinged.ai/) - NSFW AI Chatbots
+* [ERP/RP Datasets](https://rentry.org/qib8f) - NSFW Roleplaying LLM Datasets 
 
 ***
 
