@@ -1025,7 +1025,7 @@
 ## ▷ YouTube Tools
 
 * ↪️ **[YouTube Frontends](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_youtube_frontends)**
-* ↪️ **[YouTube Video / Audio Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_youtube_converters)**
+* ↪️ **[YouTube Video / Audio Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video-tools#wiki_.25B7_youtube_download)**
 * ↪️ **[YouTube Enhancement Extensions](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_yt_enhancement)**
 * ↪️ **[Hide YouTube Shorts](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_hide_youtube_shorts)**
 * ⭐ **[Favoree](https://www.favoree.io/)** - Search / Discover YouTube Channels
