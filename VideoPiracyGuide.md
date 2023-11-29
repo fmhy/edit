@@ -421,7 +421,7 @@
 * ⭐ **[FreeSports](https://freesports.to/)** - Sports
 * ⭐ **[FSL](https://fsl-stream.lu/)** - Sports
 * ⭐ **[IPTV Web](https://dev-iptv.web.app/)** - TV / Sports
-* ⭐ **[RBTV](https://www.rbtv77.com/)**, [2](https://www.rbtv77.digital/), [3](https://www.rbtv77.guru/) - Sports / [Telegram](https://t.me/+_xlFBUO08tQwZGJl)
+* ⭐ **[RBTV](https://www.rbtv77.com/)**, [2](https://www.rbtv77.tattoo/), [3](https://www.rbtv77.website/) - Sports / [Telegram](https://t.me/s/superabbit77)
 * ⭐ **[OlympicStreams](https://olympicstreams.me/)** - Sports
 * [SusFlix](https://susflix.tv/) - TV / Sports / [Discord](https://discord.gg/BE7kTVezBN)
 * [TNS-LIVE](https://live.tnsicn.com/) - TV / Sports / [Discord](https://discord.com/invite/mJyWFkGwQw)
