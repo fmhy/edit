@@ -613,12 +613,6 @@ Use a **[Base64 Decoder](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage
 
 ***
 
-#### Index of /Books
-
-`aHR0cHM6Ly9wYXVsYWRhdW50LmNvbS9ib29rcy8K`
-
-***
-
 #### Mac Adobe CC
 
 `aHR0cHM6Ly93d3cucmVkZGl0LmNvbS9yL0Fkb2JlWmlpL3dpa2kvZmFxLyN3aWtpX2hvd190b191c2VfYWRvYmVfemlp`
