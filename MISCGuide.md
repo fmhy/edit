@@ -402,10 +402,7 @@
 * [Misery Map](https://flightaware.com/miserymap/) - Flight Delay Map
 * [FlightConnections](https://www.flightconnections.com/) - Interactive Flight Routes
 * [SkyVector](https://skyvector.com/) - Flight Planner
-* [WikiRoutes](https://wikiroutes.info/) - Public Transport Routes
-* [MiniTokyo3D](https://minitokyo3d.com/) - Tokyo Public Transport Map
 * [SitInShade](https://sitinshade.com/) - Avoid the Sun While Traveling
-* [MetroOrbits](https://mic-ro.com/metro/index.html) - Subway Maps / Data
 * [The International Dialects of English Archive](https://www.dialectsarchive.com/globalmap) - Dialect Map
 * [JoinUS World](https://www.joinusworld.org/) - Korean Culture Q&A Site
 * [WorldStandards](https://www.worldstandards.eu/) - World Electricity and Driving Standards 
@@ -474,8 +471,12 @@
 * [ElevationAPI](https://elevationapi.com/) - Elevation Data API
 * [PeakFinder](https://www.peakfinder.org/) - Mountain Maps
 * [topo maps](https://onlinetopomaps.net/) - Topographic Maps
-* [OpenRailwayMap](https://www.openrailwaymap.org/) or [AmtrakExplorer](https://amtrakexplorer.com/) - Railway Maps
-* [ChronoTrains](https://chronotrains-eu.vercel.app/) - European Trains Distances
+* [MetroOrbits](https://mic-ro.com/metro/index.html) - Subway Maps / Data
+* [WikiRoutes](https://wikiroutes.info/) - Public Transport Routes
+* [MiniTokyo3D](https://minitokyo3d.com/) - Tokyo Public Transport Map
+* [OpenRailwayMap](https://www.openrailwaymap.org/), [Trains.fyi](https://trains.fyi/) or [AmtrakExplorer](https://amtrakexplorer.com/) - Train Maps
+* Country Train Maps - [Switzerland](https://maps.vasile.ch/transit-sbb/) / [AUS / NZ](https://anytrip.com.au/) / [Russia](https://rasp.yandex.ru/map/trains/) / [Finland](https://www.vr.fi/en/live-train-tracker-map) / [Belgium](https://trainmap.belgiantrain.be/) / [UK](https://www.map.signalbox.io/) / [Hungary](http://vonatinfo.mav-start.hu/) / [India](https://railradar.railyatri.in/) / [Netherlands](https://treinposities.nl/)
+* [ChronoTrains](https://chronotrains-eu.vercel.app/) - European Train Distances
 * [AbandonedRails](https://www.abandonedrails.com/) - Abandoned Railway Map
 * [Earth](https://earth.nullschool.net/) - Global Map of Wind, Weather, Ocean & Pollution Conditions
 * [Blitzortung](https://www.blitzortung.org/en/live_lightning_maps.php) - Thunderstorm and Lightning Maps
@@ -903,6 +904,7 @@
 * [Kittenwar!](https://www.kittenwar.com/) - Rate Kittens
 * [procatinator](https://procatinator.com/) - Cat GIFs & Music
 * [Open Puppies](https://openpuppies.com/) - Random Dog GIFs
+* [paint.wtf](https://paint.wtf/) - Have an AI Judge your Art
 * [Chimera Painter](https://storage.googleapis.com/chimera-painter/index.html) - Chimera Generator
 * [MakeCoatOfArms](https://www.allfamilycrests.com/makecoatofarms.htm ) - Coat of Arms Generator
 * [Web Neko](https://webneko.net/) - Nekos on the Web
