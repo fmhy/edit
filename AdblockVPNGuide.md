@@ -348,25 +348,26 @@
 * [Nitter](https://nitter.net/) - Twitter Frontend / [Manage Feeds](https://github.com/pluja/Feetter)
 * [Photon](https://photon-reddit.com/) - Reddit Frontend
 * [Proxigram](https://codeberg.org/ThePenguinDev/Proxigram) - Instagram Frontend
-* [Proxitok](https://github.com/pablouser1/ProxiTok) or [TikNot](https://tiknot.netlify.app/) - Tiktok Frontends 
-* [MikuInvidious](https://0xacab.org/johnxina/mikuinvidious) - BiliBili Frontend 
+* [Proxitok](https://github.com/pablouser1/ProxiTok) or [TikNot](https://tiknot.netlify.app/) - Tiktok Frontends
+* [Tumlook](https://www.tumlook.com/) - Tumblr Frontend
+* [MikuInvidious](https://0xacab.org/johnxina/mikuinvidious) - BiliBili Frontend
 * [SafeTwitch](https://codeberg.org/SafeTwitch/safetwitch) or [Twineo](https://codeberg.org/CloudyyUw/twineo) - Twitch Frontends
-* [Whoogle](https://benbusby.com/projects/whoogle-search/) - Google Search Frontend 
-* [Lingva Translate](https://github.com/TheDavidDelta/lingva-translate) - Google Translate Frontend 
-* [Wikiless](https://wikiless.org/) - Wikipedia Frontend 
-* [Scribe](https://sr.ht/~edwardloveall/Scribe/), [medium.rip](https://medium.rip/) or [LibMedium](https://github.com/realaravinth/libmedium) - Medium Frontends 
-* [Quetre](https://github.com/zyachel/quetre) - Quora Frontend 
-* [Rimgo](https://codeberg.org/rimgo/rimgo) - Imgur Frontend 
-* [Binternet](https://github.com/Ahwxorg/Binternet) - Pinterest Frontend 
-* [Pixivfe](https://codeberg.org/VnPower/pixivfe) - Pixiv Frontend 
-* [Gothub](https://codeberg.org/gothub/gothub) - Github Frontend 
-* [AnonymousOverflow](https://github.com/httpjamesm/AnonymousOverflow) - StackOverflow Frontend 
-* [BreezeWiki](https://breezewiki.com/) - Fandom Frontend 
-* [Tent](https://codeberg.org/sun/Tent) - Bandcamp Frontend 
-* [Dumb](https://codeberg.org/rramiachraf/dumb) - Genius Frontend 
-* [Rural Dictionary](https://codeberg.org/zortazert/rural-dictionary) - Urban Dictionary Frontend 
-* [BiblioReads](https://codeberg.org/nesaku/BiblioReads) - Goodreads Frontend 
-* [LibreMDb](https://github.com/zyachel/libremdb) - IMDb Frontend 
+* [Whoogle](https://benbusby.com/projects/whoogle-search/) - Google Search Frontend
+* [Lingva Translate](https://github.com/TheDavidDelta/lingva-translate) - Google Translate Frontend
+* [Wikiless](https://wikiless.org/) - Wikipedia Frontend
+* [Scribe](https://sr.ht/~edwardloveall/Scribe/), [medium.rip](https://medium.rip/) or [LibMedium](https://github.com/realaravinth/libmedium) - Medium Frontends
+* [Quetre](https://github.com/zyachel/quetre) - Quora Frontend
+* [Rimgo](https://codeberg.org/rimgo/rimgo) - Imgur Frontend
+* [Binternet](https://github.com/Ahwxorg/Binternet) - Pinterest Frontend
+* [Pixivfe](https://codeberg.org/VnPower/pixivfe) - Pixiv Frontend
+* [Gothub](https://codeberg.org/gothub/gothub) - Github Frontend
+* [AnonymousOverflow](https://github.com/httpjamesm/AnonymousOverflow) - StackOverflow Frontend
+* [BreezeWiki](https://breezewiki.com/) - Fandom Frontend
+* [Tent](https://codeberg.org/sun/Tent) - Bandcamp Frontend
+* [Dumb](https://codeberg.org/rramiachraf/dumb) - Genius Frontend
+* [Rural Dictionary](https://codeberg.org/zortazert/rural-dictionary) - Urban Dictionary Frontend
+* [BiblioReads](https://codeberg.org/nesaku/BiblioReads) - Goodreads Frontend
+* [LibreMDb](https://github.com/zyachel/libremdb) - IMDb Frontend
 * [Neuters](https://github.com/HookedBehemoth/neuters) - Reuters Frontend
 
 ***
