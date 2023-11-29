@@ -91,6 +91,8 @@
 
 # ► Bulgarian
 
+* [Subsunacs](https://subsunacs.net/), [YavkA](https://yavka.net/) or  [subs.sab.bz](http://subs.sab.bz/) - Subtitles
+
 ## ▷ Torrenting
 
 * [Zamunda](https://zamunda.net/) - Registration Required / Video / Audio / Books / NSFW
