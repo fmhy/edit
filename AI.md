@@ -9,19 +9,15 @@
 ***
 ***
 
-***
-
 # ► Open-Source LLMs
 
 * 🌐 **[Open LLM Leaderboard](https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard)** - LLM Leaderboard
 * ⭐ **[seait](https://github.com/diStyApps/seait)** - AI Installation Manager
 * ⭐ **[SillyTavern](https://github.com/SillyTavern/SillyTavern)** - Front-end for LLMs
-* ⭐ **[llama.cpp](https://github.com/ggerganov/llama.cpp)** - Self-Host LLaMa Based LLMs.
+* ⭐ **[llama.cpp](https://github.com/ggerganov/llama.cpp)** - Self-Host LLaMa Based LLMs / [Guide](https://rentry.org/llama-mini-guide)
 * ⭐ **[kobold.cpp](https://github.com/LostRuins/koboldcpp)** - llama.cpp with API + GUI / [rocM](https://github.com/YellowRoseCx/koboldcpp-rocm) / [Colab](https://colab.research.google.com/github/LostRuins/koboldcpp/blob/concedo/colab.ipynb)
 * ⭐ **[Oobabooga Text Generation WebUI](https://github.com/oobabooga/text-generation-webui)** - Self-Host Models / [Colab](https://colab.research.google.com/github/pcrii/Philo-Colab-Collection/blob/main/4bit_TextGen_Gdrive.ipynb)
-* ⭐ **[PygmalionAI](https://discord.com/invite/pygmalionai)** - Self-Hosted Roleplaying Models with Resources / [Resources](https://rentry.co/PygmalionLinks)
 * [Aphrodite Engine](https://github.com/PygmalionAI/aphrodite-engine) - Serve at scale LLMs for KoboldAI & Ooba / [Colab](https://colab.research.google.com/github/AlpinDale/misc-scripts/blob/main/Aphrodite.ipynb)
-* [KoboldAI](https://github.com/henk717/KoboldAI) - GUI for Roleplaying Chatbots / [Web App](https://lite.koboldai.net/)
 * [SecondBrain](https://secondbrain.sh/), [LMStudio](https://lmstudio.ai/), [OnPrem](https://amaiya.github.io/onprem/) or [Faraday](https://faraday.dev/) - LLM Desktop Apps
 * [Transfer Models Timeline](https://ai.v-gar.de/ml/transformer/timeline/) - LLM Timeline
 * [ChatRWKV](https://huggingface.co/spaces/BlinkDL/ChatRWKV-gradio) - RWKV Based Chatbot / [Discord](https://discord.com/invite/bDSBUMeFpc)
@@ -69,17 +65,21 @@
 
 ## ▷ Roleplaying Bots
 
+* 🌐 **[Ayumi LLM Benchmark](http://ayumi.m8geil.de/ayumi_bench_v3_results.html)** - Roleplaying LLM Leaderboard
 * 🌐 **[Img-Resources](https://rentry.org/lmg-resources)** - LLM Character Resources / [Templates](https://rentry.org/lmg_template)
+* ⭐ **[PygmalionAI](https://discord.com/invite/pygmalionai)** - Self-Hosted Roleplaying Models with Resources / [Resources](https://rentry.co/PygmalionLinks)
 * ⭐ **[Bot Creation Guide](https://wikia.schneedc.com/bot-creation/intro)** - Character Creation Guide
 * ⭐ **[Mancer](https://mancer.tech)** - Uncensored Roleplaying LLMs / [Discord](https://discord.com/invite/6DZaU9Gv9F)
 * ⭐ **[Character AI](https://beta.character.ai/)** - Roleplaying Chatbots / [Extract Params](https://rentry.org/reverseCAI)
 * ⭐ **[Chub](https://www.chub.ai/)** - Character Cards
+* [KoboldAI](https://github.com/henk717/KoboldAI) - GUI for Roleplaying Chatbots / [Web App](https://lite.koboldai.net/)
 * [Character Creator](https://oobabooga.github.io/character-creator) - Edit & Create Character Cards
 * [GPT Call](https://gptcall.net/) - Roleplaying Chatbots / [Discord](https://discord.gg/88fQT5Bgfe)
 * [Dreamshow](https://dreamshow.ai/), [Spicychat.ai](https://spicychat.ai/), [Epigon](https://epigon.ai/) or [Sakura](https://www.sakura.fm/) - Roleplaying Chatbots
 * [TavernAI](https://tavernai.net/) - Roleplaying / Adventure Chatbot
 * [Broken Bear](https://www.brokenbear.com/) - Vent to AI Bear
 * [Delphi](https://delphi.allenai.org/) - Morality Judgement AI
+* [LLaMA + SillyTavern](https://rentry.org/llama_v2_sillytavern) - LLaMA + SillyTavern Roleplaying Setup Guide
 
 ***
 
@@ -120,8 +120,8 @@
 * 🌐 **[jailbreakchat](https://www.jailbreakchat.com/)** or **[jamessawyer](http://www.jamessawyer.co.uk/pub/gpt_jb.html)** - Jailbreak Prompts
 * ⭐ **[Prompt Engineering Guide](https://www.promptingguide.ai)**, [Jailbreaking ChatGPT](https://arxiv.org/pdf/2305.13860) or [Learn Prompting](https://learnprompting.org/) - Prompting Guides
 * ⭐ **[quickref](https://quickref.me/chatgpt)** - Prompt Cheatsheets
+* ⭐ **[Leaked Prompts](https://github.com/linexjlin/GPTs)**, [500 Best Prompts](https://puzzle-jute-202.notion.site/500-Best-ChatGPT-Prompts-f5b4ad65deec4b6385316fdb8740af74), [flowgpt](https://flowgpt.com/), [Prompts Hub](https://docs.google.com/spreadsheets/d/1Y-xQwFkQFCKhPB3nOMyTMNPZ-vaFiof2-vWGBAeupTo/edit#gid=0), [DataFit](https://datafit.ai/top-chatgpt-prompts), [ChainBrain AI](https://www.chainbrainai.com/), [PromptVine](https://promptvine.com/), [AwesomeGPTPrompts](https://www.awesomegptprompts.com/), [OrdinaryPeoplePrompts](https://www.ordinarypeopleprompts.com/), [UseThisPrompt](https://www.usethisprompt.io/) or [SnackPrompt](https://snackprompt.com/) - Prompt Directories
 * [Chatgptjailbreak](https://rentry.org/Chatgptjailbreak) - Jailbreak Prompts
-* [500 Best Prompts](https://puzzle-jute-202.notion.site/500-Best-ChatGPT-Prompts-f5b4ad65deec4b6385316fdb8740af74), [flowgpt](https://flowgpt.com/), [Prompts Hub](https://docs.google.com/spreadsheets/d/1Y-xQwFkQFCKhPB3nOMyTMNPZ-vaFiof2-vWGBAeupTo/edit#gid=0), [DataFit](https://datafit.ai/top-chatgpt-prompts), [ChainBrain AI](https://www.chainbrainai.com/), [PromptVine](https://promptvine.com/), [AwesomeGPTPrompts](https://www.awesomegptprompts.com/), [OrdinaryPeoplePrompts](https://www.ordinarypeopleprompts.com/), [UseThisPrompt](https://www.usethisprompt.io/) or [SnackPrompt](https://snackprompt.com/) - Prompt Directories
 * [GPTea](https://gptea.io/) - Trending Prompts
 * [SD Dynamic Prompts](https://github.com/adieyal/sd-dynamic-prompts) or [PromptBot](https://www.messengerx.io/promptbot) - Prompt Generators
 * [PromptPerfect](https://promptperfect.jina.ai/) - Prompt Optimization
@@ -264,6 +264,7 @@
 * [SD 2.1 Demo](https://huggingface.co/spaces/stabilityai/stable-diffusion) / Unlimited
 * [PromptJungle](https://discord.gg/fhxAGWTFKt) / Unlimited
 * [StableDiffusionWeb](https://stablediffusionweb.com/) - Unlimited
+* [VectorArt.ai](https://vectorart.ai/) - Unlimited / SVGs
 * [Leonardo.ai](https://app.leonardo.ai/) / 30 Images Daily
 * [Artsio](https://artsio.xyz/) / 20 Images Daily
 * [DreamLike](https://dreamlike.art) / [Discord](https://discord.com/invite/QyGR2FxsKU) / 12 Images Daily
@@ -283,7 +284,7 @@
 
 ## ▷ Guides / Indexes
 
-* 🌐 **[RentrySD](https://rentry.org/RentrySD/)**, **[Pharmapsychotic](https://pharmapsychotic.com/tools.html)**, [Paper2GUI](https://github.com/Baiyuetribe/paper2gui/blob/main/README_en.md), [SD Goldmine](https://rentry.org/sdgoldmine), [Akashic](https://github.com/Maks-s/sd-akashic), [sdg-link](https://rentry.org/sdg-link), [SDTools](https://sdtools.org) or [AI Creation Tools](https://docs.google.com/spreadsheets/d/1zYJUM-srhgIA7wrj4Pe4QqepAsHIEC00DydoTPv4PWg/edit#gid=0) - AI Image Resources
+* 🌐 **[RentrySD](https://rentry.org/RentrySD/)**, **[Pharmapsychotic](https://pharmapsychotic.com/tools.html)**, [Paper2GUI](https://github.com/Baiyuetribe/paper2gui/blob/main/README_en.md), [LocalModelsLinks](https://rentry.org/LocalModelsLinks), [SD Goldmine](https://rentry.org/sdgoldmine), [Akashic](https://github.com/Maks-s/sd-akashic), [sdg-link](https://rentry.org/sdg-link), [SDTools](https://sdtools.org) or [AI Creation Tools](https://docs.google.com/spreadsheets/d/1zYJUM-srhgIA7wrj4Pe4QqepAsHIEC00DydoTPv4PWg/edit#gid=0) - AI Image Resources
 * ⭐ **[A Traveler’s Guide to the Latent Space](https://sweet-hall-e72.notion.site/A-Traveler-s-Guide-to-the-Latent-Space-85efba7e5e6a40e5bd3cae980f30235f)** - AI Art Guide
 * ⭐ **[Voldy](https://rentry.org/voldy)**, [SD Quickstart](https://redd.it/xvhavo) or [1 Min Stable Diffusion](https://youtu.be/l3JjTDvyVdw) - Stable Diffusion Guides
 * [TheAlly's Guide](https://civitai.com/models/22881/) - Stable Diffusion Guide
@@ -319,6 +320,7 @@
 # ► Audio Generators
 
 * ⭐ **[MusicGen](https://huggingface.co/spaces/facebook/MusicGen)** - Text to Music AI
+* ⭐ **[Riffusion](https://www.riffusion.com/)**
 * [Wolfram Tones](https://tones.wolfram.com/)
 * [audio visual generator](https://fredericbriolet.com/avg/)
 * [Fake Music Generator](https://www.fakemusicgenerator.com/)
@@ -328,7 +330,6 @@
 * [SoundDraw](https://soundraw.io/)
 * [Aiva](https://aiva.ai/)
 * [Boomy](https://boomy.com/)
-* [Riffusion](https://www.riffusion.com/)
 * [Drum Loop AI](https://www.drumloopai.com/) - Drum Loop Generator
 * [WOMBO](https://www.wombo.ai/) - AI Powered Lip Sync
 
