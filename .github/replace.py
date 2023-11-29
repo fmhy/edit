@@ -44,6 +44,7 @@ def general(text: str):
 
 def remove_backtowiki_toc(text):
     text = re.sub('\*\*\[◄◄ Back to Wiki Index\]\(https://www\.reddit\.com/r/FREEMEDIAHECKYEAH/wiki/index\)\*\*\n', '', text, flags=re.MULTILINE)
+    text = re.sub('\*\*\[◄◄ Back to Wiki Index\]\(https://www\.reddit\.com/r/FREEMEDIAHECKYEAH/wiki/tools-index\)\*\*\n', '', text, flags=re.MULTILINE)
     text = re.sub(r'\*\*\[Table of Contents\]\(https?:\/\/.*?ibb\.co.*\)\*\* - For mobile users\n', '', text, flags=re.MULTILINE)
     text = re.sub("\*\*\*\n\*\*\*\n\*\*\*\n\*\*\*\n\n\n\*\*\*\n\*\*\*\n\n", '', text, flags=re.MULTILINE)
     text = re.sub("\*\*\*\n\*\*\*\n\*\*\*\n\*\*\*\n\n\n\*\*\*\n\*\*\* \n\n", '', text, flags=re.MULTILINE)
