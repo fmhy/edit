@@ -878,7 +878,7 @@
 * ↪️ **[External Subtitle Players](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_external_subs_player)**
 * ⭐ **[Open Subtitles](https://opensubtitles.org/)** - Subtitles
 * ⭐ **[Substital](https://substital.com/)** or [Movie-Subtitles](https://github.com/gignupg/Movie-Subtitles) - External Subtitle Extensions
-* ⭐ **[Subtitle Edit](https://www.nikse.dk/SubtitleEdit/Online)**, [DST](https://www.syedgakbar.com/projects/dst), [Aegisub](https://ftp.wangqr.tk/aegisub/), [Subtitle Workshop](https://www.uruworks.net/), [Jubler Subtitle](https://www.jubler.org/), [DivXLand Subtitler](https://www.andreszsogon.com/divxland-media-subtitler/) or [Subtitld](https://subtitld.org/) - Subtitle Editor
+* ⭐ **[Subtitle Edit](https://www.nikse.dk/SubtitleEdit/Online)**, [DST](https://www.syedgakbar.com/projects/dst), [Aegisub](https://github.com/arch1t3cht/Aegisub), [Subtitle Workshop](https://www.uruworks.net/), [Jubler Subtitle](https://www.jubler.org/), [DivXLand Subtitler](https://www.andreszsogon.com/divxland-media-subtitler/) or [Subtitld](https://subtitld.org/) - Subtitle Editor
 * [Subsearch](https://github.com/vagabondHustler/subsearch) - Subtitle Search Tools
 * [Subtitle Cat](https://www.subtitlecat.com/) - Subtitles
 * [Subscene](https://subscene.com/) - Subtitles
