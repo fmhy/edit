@@ -92,7 +92,6 @@
 * [Dirzon](https://www.dirzon.com/) - Books
 * [VK eBook Sharing Group](https://vk.com/club162811046) - Books / [Note](https://pastebin.com/iM7Q9Gzn)
 * [EBooksCart](https://ebookscart.com/) - Books
-* [Index of /Books](https://github.com/nbats/FMHYedit/blob/main/base64.md#index-of-books) - Books
 * [Novel12](https://novel12.com/) - Books
 * [IsIDore](https://github.com/nbats/FMHYedit/blob/main/base64.md#isidore) - Books
 * [Global Grey](https://www.globalgreyebooks.com/index.html) - Books
