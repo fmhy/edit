@@ -198,7 +198,7 @@
 ## ▷ Adblock / Privacy
 
 * ⭐ **[SpoofDPI](https://github.com/xvzc/SpoofDPI)**, [zapret](https://github.com/bol-van/zapret) or **[PowerTunnel](https://github.com/krlvm/PowerTunnel)** - DPI circumvention
-* ⭐ **[Librewolf Linux](https://librewolf.net/)**/ [2](https://aur.archlinux.org/packages/firedragon) / [3](https://forum.garudalinux.org/t/firedragon-librewolf-fork/5018) or [Dot Browser](https://github.com/dothq/browser) - Privacy-Based Browser
+* ⭐ **[Librewolf Linux](https://librewolf.net/)** / [2](https://aur.archlinux.org/packages/firedragon) / [3](https://forum.garudalinux.org/t/firedragon-librewolf-fork/5018) or [Dot Browser](https://github.com/dothq/browser) - Privacy-Based Browser
 * ⭐ **[SpotX-Bash](https://github.com/jetfir3/SpotX-Bash)**, [spotify-adblock](https://github.com/abba23/spotify-adblock) or [SpotifyNoPremium](https://github.com/Daksh777/SpotifyNoPremium) - Spotify Adblockers
 * [The Practical Linux Hardening Guide](https://github.com/trimstray/the-practical-linux-hardening-guide), [Linux Hardening](https://vez.mrsk.me/linux-hardening.html) / [2](https://madaidans-insecurities.github.io/guides/linux-hardening.html) or [How to Secure a Linux Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server) - Linux Hardening Guides
 * [JShielder](https://github.com/Jsitech/JShielder) - Hardening Script for Linux Servers
