@@ -1641,7 +1641,7 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://70.88.180.169:8
 
 ## Sheet Music Sites
 
-* ⭐ **[musescore](https://musescore.org/en)** + [Downloader](https://github.com/Xmader/musescore-downloader)
+* ⭐ **[musescore](https://musescore.org/en)** + [Downloader](https://github.com/LibreScore/dl-librescore)
 * [Music Reader](https://music-reader.com/) - Practice Reading Sheet Music
 * [SheetHost](https://sheet.host/) - Publish Sheet Music
 * [VGLeadSheets](https://www.vgleadsheets.com/) or [GameMusicThemes](https://www.gamemusicthemes.com/) - Video Games
