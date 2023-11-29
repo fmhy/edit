@@ -16,7 +16,8 @@
 * ⭐ **[Android APK CSE](https://cse.google.com/cse?cx=e0d1769ccf74236e8)** / [CSE 2](https://cse.google.com/cse?cx=73948689c2c206528) / [CSE 3](https://cse.google.com/cse?cx=a805854b6a196d6a6) or [ShowAppsLike](https://showappslike.com/) - APK Search Engines
 * [Direct Download From Google Play](https://greasyfork.org/en/scripts/33005-direct-download-from-google-play/) - Add Direct DL Links to Google Play
 * [GBox](https://www.gboxlab.com/) - GMS Google Box
-* [APK Installer](https://play.google.com/store/apps/details?id=com.uptodown.installer&hl=en&gl=US) - APK Installers
+* [APK Installer](https://play.google.com/store/apps/details?id=com.uptodown.installer&hl=en&gl=US) - APK Installer
+* [Split App Installer](https://github.com/Aefyr/SAI) - Split APK Installer
 * [Raccoon](https://raccoon.onyxbits.de/) - Private APK Downloader
 * [APKeep](https://github.com/EFForg/apkeep) - APK Download CLIs
 * [Kanade](https://github.com/alexrintt/kanade) - APK Extractors
