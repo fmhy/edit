@@ -22,16 +22,13 @@
 * [DeskCut](https://github.com/NayamAmarshe/DeskCut) - Desktop Shortcuts App
 * [nativefier_tauri](https://github.com/hamza72x/web2app) - Turn Webpages into Desktop Apps
 * [Autokey](https://github.com/autokey/autokey) - Linux Automation Utility
-* [Crontab Guru](https://crontab.guru/) - Crontab Editor / Job Scheduler
-* [Crontab Generator](https://crontab-generator.org/) - Generate Crontab Syntax
 * [Touchégg](https://github.com/JoseExposito/touchegg) - Multi-Touch Gesture Recognizer
-* [Enlightment](https://www.enlightenment.org/), [1Piece](https://app1piece.com/), [worm](https://github.com/codic12/worm), [qpwm](https://github.com/ssleert/qpwm), [dwm](https://dwm.suckless.org/), [qtile](https://qtile.org/), [xmonad](https://xmonad.org/), [zentile](https://github.com/blrsn/zentile) or [bspwm](https://github.com/baskerville/bspwm) - Windows Managers / [Sub](https://www.reddit.com/r/bspwm/) / [Binds](https://github.com/baskerville/sxhkd)
+* [Enlightment](https://www.enlightenment.org/), [worm](https://github.com/codic12/worm), [qpwm](https://github.com/ssleert/qpwm), [dwm](https://dwm.suckless.org/), [qtile](https://qtile.org/), [xmonad](https://xmonad.org/), [zentile](https://github.com/blrsn/zentile) or [bspwm](https://github.com/baskerville/bspwm) - Window Managers / [Sub](https://www.reddit.com/r/bspwm/) / [Binds](https://github.com/baskerville/sxhkd)
 * [Material Shell](https://material-shell.com/) or [Forge](https://github.com/forge-ext/forge) - GNOME Tiling Extension
 * [Bismuth](https://bismuth-forge.github.io/bismuth/) - KDE Tiling Extension / [GitHub](https://github.com/Bismuth-Forge/bismuth)
 * [MSOffice2016](https://elsotanoenlared-es.translate.goog/office-2016-32-bits-en-linux-con-bottles/?_x_tr_sl=es&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp) - Pre-Installed MS Office 2016 Bottle
 * [Ghostwriter](https://ghostwriter.kde.org/) or [Remarkable](https://remarkableapp.github.io/) - Markdown Editor
 * [Gedit](https://wiki.gnome.org/Apps/Gedit), [Geany](https://www.geany.org/), [Leafpad](http://tarot.freeshell.org/leafpad/), [NotepadNext](https://github.com/dail8859/NotepadNext), [Featherpad](https://github.com/tsujan/FeatherPad), [Mousepad](https://github.com/codebrainz/mousepad) or [Notepadqq](https://notepadqq.com/) - Text Editor
-* [Whatever](https://github.com/sbrshk/whatever) - Evernote Client
 * [TextPieces](https://github.com/liferooter/textpieces) - Quick Text Transformations
 * [ly](https://github.com/fairyglade/ly) - Display Manager with Console UI
 * [GammaStep](https://gitlab.com/chinstrap/gammastep) - Adjust Screen Temperature
@@ -513,7 +510,7 @@
 * [OnlySwitch](https://github.com/jacklandrin/OnlySwitch) - Menu Bar Toggle Switches
 * [Sloth](https://github.com/sveinbjornt/Sloth) - MacOS Process Manager
 * [pongoOS](https://github.com/checkra1n/pongoOS) - Mac Pre-Boot Executor
-* [Yabai](https://github.com/koekeishiya/yabai), [Spaces](https://spacesformac.xyz/) or [Rectangle](https://rectangleapp.com/) - Window Tiling Apps
+* [Yabai](https://github.com/koekeishiya/yabai), [1Piece](https://app1piece.com/), [Spaces](https://spacesformac.xyz/) or [Rectangle](https://rectangleapp.com/) - Window Managers
 * [AlDente](https://github.com/davidwernhart/AlDente-Charge-Limiter) - MacOS Charging Manager
 * [Unlocker](https://github.com/paolo-projects/unlocker) - VMware Unlocker
 * [USBMap](https://github.com/corpnewt/USBMap) - Map MacOS USB Ports
