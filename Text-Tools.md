@@ -151,11 +151,13 @@
 * [Paraphrase-Online](https://paraphrase-online.com/) - Text Rephrasing
 * [paraphrasingtool](https://paraphrasingtool.ai/) - Text Rephrasing
 * [henshu](https://www.henshu.ai/) - Text Rephrasing
+* [Smry.ai](https://www.smry.ai/) - Text Summary
 * [SMMRY](https://smmry.com/) - Text Summary
 * [summarize.site](https://github.com/clmnin/summarize.site/) - Text Summary
 * [kagi](https://kagi.com/summarizer/index.html) - Text Summary
 * [MyReader](https://www.myreader.io/) - Text Summary
 * [Recast](https://www.letsrecast.ai/) - Text Summary
+
 
 ***
 
