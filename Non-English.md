@@ -1115,10 +1115,10 @@
 
 * ⭐ **[Russian Internet Blackout Bypass Guide](https://telegra.ph/CHto-delat-pri-otklyuchenii-interneta-02-27), [2](https://www.the-village.ru/situation/howto/otklyuchenie-interneta)**
 * ⭐ **[РосКомСвобода](https://t.me/roskomsvoboda_discuss)** / [roskomsvoboda](https://t.me/roskomsvoboda) / [rks_legal_talk](https://t.me/rks_legal_talk) / [rks_org_Bot](https://t.me/rks_org_bot) / [rks_tech_talk](https://t.me/rks_tech_talk) or [Ru.Board](https://forum.ru-board.com/) - Piracy Discussion Telegram
-* [FreeBrowser](https://freebrowser.org/) / [Wiki](https://github.com/greatfire/wiki) / [GitHub](https://github.com/greatfire/freebrowser) - Internet Censorship Circumvention
-* [new-russia-keyboard-flag](https://github.com/ManeFunction/new-russia-keyboard-flag) - JZUKEN Keyboard Layout for macOS
-* [DXP](https://dxp.ru/) - Torrent / Subtitles
-* [TLauncher Legacy](https://tlaun.ch/) - Minecraft Client / Cracked Minecraft
+* [FreeBrowser](https://freebrowser.org/) / [GitHub](https://github.com/greatfire/freebrowser) - Internet Censorship Circumvention
+* [rublacklist](https://reestr.rublacklist.net/en/) - Blocked Sites List
+* [new-russia-keyboard-flag](https://github.com/ManeFunction/new-russia-keyboard-flag) - JZUKEN Keyboard Layout for MacOS
+* [DXP](https://dxp.ru/) - Russian Subtitles Tracker
 * [Proxy-Checker](https://proxy-checker.net/) - Proxy Checker
 * [RKN Dump Check](https://t.me/u2ckbot) - Russian Censorship Check
 * [Mail.ru](https://mail.ru/) or [r0.ru](https://r0.ru/) - Search Engines
@@ -1135,7 +1135,6 @@
 * [Ovd-info](https://t.me/ovdinfolive) - Protestor Prosecution News / [Telegram](https://t.me/ovdinfo)
 * [government_rus](https://t.me/government_rus) - Official Russian Government Telegram
 * [zakupki_time](https://t.me/zakupki_time) - Government Procurement Watch
-* [ШрифтыПаттерныКисти](https://t.me/+Ax8cZJCY19k3NDRi) - Fonts / Patterns / Brushes
 * [Што за шрифт?](https://t.me/+lZD1qlHA3sFhMzQy) - Fonts
 * [3DArchive](https://t.me/ArchiveStl) - 3D Models
 * [World Art](http://www.world-art.ru/) - Movie / Anime / Game Reviews and Art Display
@@ -1145,22 +1144,20 @@
 
 * ⭐ **[HD VideoBox](https://strannikmodz.me/apps/media/135-hdvideobox-222.html)** - Movies / TV / Anime / Aggregator / [AMOLED](https://strannikmodz.me/other_modz/sirenes_team/127-hd-videobox-st-221.html)
 * ⭐ **[4PDA](https://4pda.to/forum/)** - Android / iOS
-* [m0nkrus](https://w14.monkrus.ws/) or [DC Hublist](https://dchublist.ru/hubs/) - Warez
-* [rublacklist](https://reestr.rublacklist.net/?status=1&gov=4&paginate_by=50), [2](https://reestr.rublacklist.net/?status=1&gov=24&paginate_by=50) - Blocked Sites List
-* [CWER](http://cwer.ru/), [2](http://cwer.ws/) - Video / Audio 
+* [m0nkrus](https://w14.monkrus.ws/) or [DC Hublist](https://dchublist.ru/hubs/) - Software
 * [Flibustier](https://flibustier64.com/) - Software / OS
-* [2BakSa](http://2baksa.ws/) - Video / Audio/ Books
-* [Allmults](https://allmults.org/) - Cartoons
-* [tancpol](https://tancpol.net/) - MP3
-* [z2.fm](https://z2.fm/) - MP3
-* [KinoSoundtrack](https://www.kinosoundtrack.com/) - MP3
-* [Shazam music](https://t.me/shazam_music_uz) - MP3
-* [Musify](https://musify.club/) - MP3
-* [MetalArea](https://metalarea.org/) - Metal / MP3
-* [MDCORE](https://vk.com/mdcore) - Metal / MP3
+* [CWER](http://cwer.ru/), [2](http://cwer.ws/) - Video / Audio / Software / Games / Books
+* [2BakSa](http://2baksa.ws/) - Video / Audio / Books
+* [Allmults](https://allmults.org/) - Cartoons / Sub / Dub / 1080p
+* [tancpol](https://tancpol.net/) - Music / MP3
+* [z2.fm](https://z2.fm/) - Music / MP3
+* [Shazam music](https://t.me/shazam_music_uz) - Music / MP3
+* [Musify](https://musify.club/) - Music / MP3
+* [MetalArea](https://metalarea.org/) or [MDCORE](https://vk.com/mdcore) - Metal / MP3
 * [MDROCK](https://vk.com/mdrock) - Rock / MP3
-* [KinoMuzic](https://kinomuzic.ru/) - Books / Soundtracks
-* [Course Hunter](https://coursehunter.net/) or [Sliwbl](https://s1.sliwbl.com/) - Programming / Courses
+* [KinoSoundtrack](https://www.kinosoundtrack.com/) - Soundtracks / MP3
+* [KinoMuzic](https://kinomuzic.ru/) - Soundtracks / Audiobooks / MP3 / FLAC
+* [Course Hunter](https://coursehunter.net/) or [Sliwbl](https://s1.sliwbl.com/) - Programming Courses
 
 ## ▷ Torrenting
 
@@ -1168,63 +1165,58 @@
 * 🌐 **[toptracker](https://toptracker.ru/)** - Torrent Site List
 * 🌐 **[UpTracker](https://www.uptracker.ru/)** - Torrent Tracker Index
 * [krasfs](https://krasfs.ru/) or [torrent.by](https://torrent.by/) - Torrent Search
-* [rutor](https://rutor.info/) - Video / Audio/ Books / Roms / Magazines
-* [NNTT](http://www.nntt.org/) - Video / Audio/ Books / Magazines 
-* [PB.wtf](https://pb.wtf/) - Video / Audio/ Books / Comics / Magazines / NSFW
+* [rutor](https://rutor.info/) - Video / Audio / Books / ROMs / Magazines
+* [NNTT](http://www.nntt.org/) - Video / Audio / Books / Magazines
+* [PB.wtf](https://pb.wtf/) - Video / Audio / Books / Comics / Magazines / NSFW
 * [Riper.AM](https://riperam.org/) - Video / Audio / Books / Magazines / NSFW
-* [Tapochek](https://tapochek.net/) - Video / Audio/ Books
+* [rustorka](https://rustorka.com/forum/index.php) - Video / Audio / Books / ROMs / Games / Magazines
+* [Tapochek](https://tapochek.net/) - Video / Audio / Books
 * [Korsars](http://korsars.pro/) - Video / Audio / Books
-* [nionDHT](https://uniondht.org/) - Video / Audio/ Books / NSFW
+* [nionDHT](https://uniondht.org/) - Video / Audio / Books / NSFW
 * [SeedOff](https://seedoff.zannn.top/) - Video / Audio / Books
-* [rustorka](https://rustorka.com/forum/index.php) - Games / Roms / Audio / Books / Magazines / Video
+* [DDGroupClub](http://ddgroupclub.win/) - Video / Audio / Books / ROMs
+* [Utor.pp](http://utor.pp.ua/) - Video / Audio / Books / ROMs
+* [Spaider](https://spaider.net/) - Video / Audio / ROMs
 * [NNM-Club](https://nnmclub.to/) - Video / Audio
-* [Spaider](https://spaider.net/) - Video / Audio/ Roms
-* [DDGroupClub](http://ddgroupclub.win/) - Video / Audio/ Roms / Books
-* [Utor.pp](http://utor.pp.ua/) - Video / Audio/ Roms / Books
+* [androidkino](https://androidkino.net/) - Movies / TV
+* [RIPS](https://rips.club/) - Movies / TV / Concerts
 * [Fast torrent](http://fast-torrent.ru/) - Movies / TV / Anime
 * [BigFanGroup](https://bigfangroup.org/) - Movies / TV / Anime
 * [Animelayer](https://animelayer.ru/) - Anime
+* [DarkLibria](https://darklibria.it/) - Anime
 * [kinozal](https://kinozal.tv/) - Movies
-* [androidkino](https://androidkino.net/) - Movies / TV
-* [RIPS](https://rips.club/) - Movies / TV / Concerts
 * [bitru](https://bitru.org/) - Movies
 * [Selezen](https://www.selezen.club/) - Movies
-* [DarkLibria](https://darklibria.it/) - Anime
 * [RGFootball](http://rgfootball.net/) - Sports
 
 ## ▷ Streaming
 
-* ⭐ **[rezka](https://rezka.ag/)** - Movies / TV / Anime
-* ⭐ **[Yohoho](https://yohoho.cc/), [2](https://4h0y.gitlab.io/)** - Movies / Anime
-* ⭐ **[KinoProfi](https://content.kinoprofi.club/)** - Movies / TV / Cartoons
+* ⭐ **[rezka](https://rezka.ag/)**, [2](https://hdrezka.ag/) - Movies / TV / Anime / Sub / Dub / 1080p
+* ⭐ **[KinoProfi](https://content.kinoprofi.club/)** - Movies / TV / Cartoons / Dub / 1080p
 * [HD VideoBox](https://strannikmodz.me/apps/media/135-hdvideobox-222.html) - Movies / TV / Anime / Aggregator / [AMOLED](https://strannikmodz.me/other_modz/sirenes_team/127-hd-videobox-st-221.html)
-* [baskino](http://baskino.me/) - Movies
-* [KinoGo](https://kinogo.la/) - Movies / TV / Anime / [Telegram](https://t.me/kinogoby)
-* [Kinotochka](https://kinotochka.co/) - Movies / TV / Anime
-* [kinokong](https://kinokong.pro/) - Movies / TV
-* [RussianFilmHub](https://russianfilmhub.com/) - Movies / TV
-* [EX-FS](https://ex-fs.net/) - Movies / TV / Anime
-* [hdrezka](https://hdrezka.ag/) - Movies / TV / Anime
-* [Kinogo](https://kinogo.biz/) - Movies / TV / Anime
-* [kinobase](https://kinobase.org/) - Movies / TV
-* [seasonvar](http://seasonvar.ru/) - TV
-* [rukino.org](https://rukino.org/) - Movies / TV
-* [kinoflux.org](https://kinoflux.org/) - Movies / TV
-* [CCCP Film](https://cccp-film.ru/ ) - Movies / TV
-* [KinoKrad](https://kinokrad.cc/) - Movies / TV
-* [Telik](http://telik.live/) - TV
-* [bigserial.net](http://bigserial.net/) - TV
-* [AniLabX](https://anilabx.xyz/) - Anime / Cartoons / Drama
-* [Shiza Project](https://shiza-project.com/) - Anime / Fan Dubs
-* [animang](https://animang.one/) - Anime
-* [DarkLibria](https://darklibria.it/) - Anime
-* [Soviet Movies Online](https://sovietmoviesonline.com/cartoons) - Cartoons
-* [Dokonlin.ru](https://www.dokonlin.online/) - Documentaries
-* [VseDoramy](https://vsedoramy.net/) - Asian Drama
-* [doram](https://doramy.lol/) - Asian TV
-* [turkishtv.ru](http://turkishtv.ru/) - Turkish / Indian TV
-* [kinoturk.net](https://kinoturk.net/) - Turkish Movies / TV
-* [turkru.tv](https://turkru.tv/) - Turkish TV
+* [KinoBase](https://kinobase.org/) - Movies / TV / Sub / Dub / 1080p
+* [kinokong](https://kinokong.pro/) - Movies / TV / Dub / 1080p
+* [EX-FS](https://ex-fs.net/) - Movies / TV / Anime / Dub / 1080p
+* [KinoGo](https://kinogo.biz/) - Movies / TV / Anime / Dub / 1080p
+* [KinoFlux](https://kinoflux.biz/) - Movies / TV / Dub / 1080p
+* [KinoKrad](https://kinokrad.cc/) - Movies / TV / Dub / 1080p
+* [baskino](http://baskino.me/) - Movies / Dub / 1080p
+* [Kinotochka](https://kinovibe.tv/) - Movies / TV / Anime / Dub / 720p
+* [seasonvar](http://seasonvar.ru/) - TV / Dub / 720p
+* [DarkLibria](https://darklibria.it/) - Anime / Dub / 1080p
+* [Shiza Project](https://shiza-project.com/) - Anime / Dub / 720p
+* [animang](https://animang.one/) - Anime / Dub / 720p
+* [AniLabX](https://anilabx.xyz/) - Android Anime / Cartoons / Drama App
+* [RUkino](https://rukino.org/) - Russian Movies / TV / 1080p
+* [CCCP Film](https://cccp-film.ru/ ) - Soviet Movies / TV
+* [Soviet Movies Online](https://sovietmoviesonline.com/cartoons) - Soviet Cartoons / Sub
+* [VseDoramy](https://vsedoramy.net/) - Asian Drama / Dub / 720p
+* [Doramy](https://doramy.lol/) - Asian Drama / Sub / Dub / 720p
+* [TurkishTV](http://turkishtv.ru/) - Turkish / Indian TV / Dub / 720p
+* [bigserial.net](http://bigserial.net/) - Turkish / Indian TV / Sub / 720p
+* [KinoTurk](https://kinoturk.net/) - Turkish Movies / TV / Dub / 720p
+* [TurkRu.TV](https://turkru.tv/) - Turkish TV / Sub / 720p
+* [Dokonlin](https://www.dokonlin.online/) - Documentaries / Dub / 1080p
 * [TVRF](https://tvrf.online/) - Live TV
 * [OnTVTime](https://www.ontvtime.ru/) - Live TV
 * [Viks](http://ip.viks.tv/) - Live TV
@@ -1236,11 +1228,11 @@
 * [DomaTV](http://vip.domatv.net/) - Live TV
 * [livetv](https://livetv.sx/) - Live Sports
 * [VIP-TV](https://vip-tv.online/) - IPTV Playlists
-* [myzuka](https://myzuka.club/) - Music
-* [Tancpol](https://tancpol.net/) - Music
-* [z2.fm](https://z2.fm/) - Music
-* [E:/Music/](https://vk.com/e_music) - Music
-* [MDCORE](https://vk.com/mdcore) - Metal Music
+* [myzuka](https://myzuka.club/) - Music / MP3
+* [Tancpol](https://tancpol.net/) - Music / MP3
+* [z2.fm](https://z2.fm/) - Music / MP3
+* [E:/Music/](https://vk.com/e_music) - Music / MP3
+* [MDCORE](https://vk.com/mdcore) - Metal / MP3
 * [Top Radio](https://top-radio.ru/) - Radio
 * [OpenEDU](https://openedu.ru/) - Courses
 * [Teach.in](https://teach-in.ru/) - Lectures
