@@ -118,7 +118,7 @@
 * [Pixel Gun X](https://discord.com/invite/8796Fs9tZm) - Pixel Gun 3D Revival Project
 * [SpaceCadetPinball](https://github.com/k4zmu2a/SpaceCadetPinball) - Space Cadet Pinball
 * [Visual Pinball](https://github.com/vpinball/vpinball) - Pinball Table Editor / Simulator / [Tables](https://www.vpforums.org/)
-* [Clone Hero](https://clonehero.net/) - Guitar Hero Clone / [Setlists](https://github.com/nbats/FMHYedit/blob/main/base64.md#setlists), [2](https://customsongscentral.com/) / [Wii Controller Support](https://github.com/Meowmaritus/WiitarThing)
+* [Clone Hero](https://clonehero.net/) - Guitar Hero Clone / [Setlists](https://github.com/nbats/FMHYedit/blob/main/base64.md#setlists), [2](https://customsongscentral.com/) / [3](https://github.com/fmhy/FMHYedit/blob/main/base64.md#frif-drive) / [Wii Controller Support](https://github.com/Meowmaritus/WiitarThing)
 * [YARC-Official](https://github.com/YARC-Official) - Rock Band Clone
 * [ITGmania](https://www.itgmania.com/) - DDR Clone
 * [beatoraja](https://mocha-repository.info/) - BMS Player as Alternative to IIDX / [beatoraja English Guide](https://github.com/wcko87/beatoraja-english-guide/wiki) / [IIDX Install Guide](https://rentry.org/iidxdump)
