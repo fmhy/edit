@@ -3143,7 +3143,7 @@
 * [Pixel Gun X](https://discord.com/invite/8796Fs9tZm) - Pixel Gun 3D Revival Project
 * [SpaceCadetPinball](https://github.com/k4zmu2a/SpaceCadetPinball) - Space Cadet Pinball
 * [Visual Pinball](https://github.com/vpinball/vpinball) - Pinball Table Editor / Simulator / [Tables](https://www.vpforums.org/)
-* [Clone Hero](https://clonehero.net/) - Guitar Hero Clone / [Setlists](https://github.com/nbats/FMHYedit/blob/main/base64.md#setlists), [2](https://customsongscentral.com/) / [Wii Controller Support](https://github.com/Meowmaritus/WiitarThing)
+* [Clone Hero](https://clonehero.net/) - Guitar Hero Clone / [Setlists](https://github.com/nbats/FMHYedit/blob/main/base64.md#setlists), [2](https://customsongscentral.com/) / [3](https://github.com/fmhy/FMHYedit/blob/main/base64.md#frif-drive) / [Wii Controller Support](https://github.com/Meowmaritus/WiitarThing)
 * [YARC-Official](https://github.com/YARC-Official) - Rock Band Clone
 * [ITGmania](https://www.itgmania.com/) - DDR Clone
 * [beatoraja](https://mocha-repository.info/) - BMS Player as Alternative to IIDX / [beatoraja English Guide](https://github.com/wcko87/beatoraja-english-guide/wiki) / [IIDX Install Guide](https://rentry.org/iidxdump)
@@ -3700,7 +3700,7 @@
 # ► Homebrew
 
 * 🌐 **[Darthsternie](https://darthsternie.net/)** - Console Firmware / Exploit Archive
-* 🌐 **[Tinfoil Shops](https://redd.it/10lqkmh)** - Tinfoil Shop Status Megathread
+* 🌐 **[Tinfoil Shops](https://lemmy.dbzer0.com/post/8814242)** - Tinfoil Shop Status Megathread
 * 🌐 **[Brewology](https://psp.brewology.com/)** - PSP Homebrew Resources / [Vita](https://github.com/MuxaJlbl4/Awesome-PlayStation-Vita)
 * 🌐 **[FlagBrew](https://flagbrew.org/)** - Switch / 3DS Homebrew Resources / [Discord](https://discord.com/invite/4Rv8DTzGFa)
 * 🌐 **[DS Homebrew](https://ds-homebrew.com/)** - DS Homebrew Resources / [Wiki](https://wiki.ds-homebrew.com/) / [Discord](https://discord.com/invite/yD3spjv)
@@ -3709,6 +3709,7 @@
 * ⭐ **[Hacks.Guide](https://hacks.guide/)**, **[CFW Guide](https://cfw.guide/)**, [ConsoleMods.org](https://consolemods.org/) / [Discord](https://discord.gg/x5vEnkR4C8), [Digiex](https://digiex.net/forums/), [Homebrew Guides](https://rentry.co/Guides), [Homebrew General](https://www.homebrewgeneral.net/) or [Gamebrew](https://www.gamebrew.org/) - Homebrew Guides
 * ⭐ **[GBATemp](https://gbatemp.net/)** - Homebrew Forum
 * ⭐ **[Nintendo Homebrew](https://discord.gg/C29hYvh)** - Nintendo Homebrew Discord
+* ⭐ **[Wii Guide](https://wii.guide/)**, [WiiBrew](https://wiibrew.org/) or [Wii Softmod Guide](https://sites.google.com/site/completesg) - Wii Homebrew Guides
 * ⭐ **[Wiimmfi](https://wiimmfi.de/)** or [Kaeru Team](https://kaeru.world/) - Wii / DS Multiplayer Servers
 * ⭐ **[CTGP Revolution](https://www.chadsoft.co.uk/)** or [Wiki Tockdom](https://wiki.tockdom.com/wiki/Main_Page) - Mario Kart Wii Custom Tracks / Multiplayer
 * [/r/SwitchPirates](https://www.reddit.com/r/SwitchPirates/), [/r/SwitchHaxing](https://reddit.com/r/SwitchHaxing) or [/r/SwitchHacks](https://reddit.com/r/SwitchHacks) - Switch Homebrew Subreddits
@@ -3720,7 +3721,6 @@
 * [WiiU Exploit](https://wiiuexploit.xyz/) or [ModMii](https://modmii.github.io/) - WiiU Homebrew Installer
 * [Pretendo](https://pretendo.network/) - WiiU / 3DS Network Replacement
 * [/r/WiiUHacks](https://www.reddit.com/r/WiiUHacks/) - WiiU Homebrew Subreddit
-* [WiiBrew](https://wiibrew.org/), [Wii Softmod Guide](https://sites.google.com/site/completesg) or [Wii Guide](https://wii.guide/) - Wii Homebrew Guides
 * [/r/WiiHacks](https://www.reddit.com/r/WiiHacks/) - WiiU Homebrew Subreddit
 * [LetterBomb](https://please.hackmii.com/) or [str2hax](https://gbatemp.net/threads/a-channel-less-sd-less-entry-point-str2hax.523210/) - Wii Homebrew Installer / [Find MAC](https://en-americas-support.nintendo.com/app/products/detail/p/604)
 * [Retro Rewind](https://wiki.tockdom.com/wiki/Retro_Rewind) - Every Retro Mario Kart Track for MKW
@@ -12254,6 +12254,12 @@ Use a **[Base64 Decoder](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage
 #### ‎MegaFlix
 
 `aHR0cHM6Ly9hcHBzLmFwcGxlLmNvbS9hcHAvaWQ2NDYzNDk5NTEz`
+
+***
+
+#### Frif Drive
+
+`aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMTJBUDBrMkN5cHVYX2JkZlVkMnJ1ZUtOUExQRU9CQ3Va`
 ***
 ***
 **[◄◄ Back to Wiki Index](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/index)**
