@@ -675,7 +675,7 @@
 # ► Homebrew
 
 * 🌐 **[Darthsternie](https://darthsternie.net/)** - Console Firmware / Exploit Archive
-* 🌐 **[Tinfoil Shops](https://redd.it/10lqkmh)** - Tinfoil Shop Status Megathread
+* 🌐 **[Tinfoil Shops](https://lemmy.dbzer0.com/post/8814242)** - Tinfoil Shop Status Megathread
 * 🌐 **[Brewology](https://psp.brewology.com/)** - PSP Homebrew Resources / [Vita](https://github.com/MuxaJlbl4/Awesome-PlayStation-Vita)
 * 🌐 **[FlagBrew](https://flagbrew.org/)** - Switch / 3DS Homebrew Resources / [Discord](https://discord.com/invite/4Rv8DTzGFa)
 * 🌐 **[DS Homebrew](https://ds-homebrew.com/)** - DS Homebrew Resources / [Wiki](https://wiki.ds-homebrew.com/) / [Discord](https://discord.com/invite/yD3spjv)
