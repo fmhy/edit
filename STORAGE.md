@@ -325,12 +325,6 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://70.88.180.169:8
 
 [JSFiddle](https://jsfiddle.net/), [W3Schools' Tryit](https://www.w3schools.com/tryit/trycompiler.asp?filename=demo_python), [Collabedit](https://collabedit.com/), [Portacode](https://portacode.com/), [Ideone](https://www.ideone.com/), [PlayCode](https://playcode.io/), [ObjGen](https://www.objgen.com/), [html-css-js](https://html-css-js.com/)
 
-### Mac Code Editors
-
-* [MacVim](https://macvim.org/) - [GitHub](https://github.com/macvim-dev/macvim)
-* [CodeEdit](https://www.codeedit.app/) - [GitHub](https://github.com/CodeEditApp/CodeEdit)
-* [AuroraEditor](https://auroraeditor.com/)
-
 ***
 
 ## Coding Tutorials
