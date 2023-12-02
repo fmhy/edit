@@ -12329,7 +12329,7 @@ Use a **[Base64 Decoder](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage
 * [ZoneWatcher](https://zonewatcher.com/) - DNS Backup Tool
 * [DNS Redirector](http://dnsredirector.com/) - DNS Redirector
 * [DNS Resolver Privacy-First](https://doh.tiar.app/) - DNS Resolver
-* [Technitium](https://technitium.com/dns) or [Trust DNS](https://github.com/bluejekyll/trust-dns) - Self-Hosted DNS Server
+* [Technitium](https://technitium.com/dns) or [Hickory DNS](https://github.com/hickory-dns/hickory-dns) - Self-Hosted DNS Server
 * [DNS Perf](https://dnsperf.com/dns-speed-benchmark) or [NameBench](https://code.google.com/archive/p/namebench/) - DNS Speed Tests
 
 ***
