@@ -383,7 +383,6 @@
 * ⭐ **[New-Team](https://new-team.org/)** - MP3 / FLAC
 * ⭐ **[Orpheus](https://orpheus.network/)** - MP3 / FLAC / [Interviews](https://interview.orpheus.network/)
 * ⭐ **[Redtopia](https://github.com/nbats/FMHYedit/blob/main/base64.md#redtopia)** - Redtopia Repository / FLAC
-* ⭐ **[SolidTorrents](https://solidtorrents.to/)** - MP3 / FLAC / [/r/SolidTorrents](https://reddit.com/r/SolidTorrents)
 * ⭐ **[Lidarr](https://github.com/Lidarr/Lidarr)** or [Headphones](https://github.com/rembo10/headphones) - Audio Torrent Autodownload
 * ⭐ **[Audio Torrent CSE](https://cse.google.com/cse?cx=006516753008110874046:v75cyb4ci55)** - Multi-Site Search
 * [DimeADozen](http://www.dimeadozen.org/) - MP3 / FLAC
@@ -440,7 +439,6 @@
 * [TuneMunk](https://www.tunemunk.com/) - Spotify Playlist Sharing
 * [MusitcTo](https://www.musicto.com/) - Musician Curated Playlists
 * [BoilTheFrog](http://boilthefrog.playlistmachinery.com/) - Create Playlist from 2 Artists
-* [WeirdSpot](https://www.weirdspot.fyi/) - Create Playlist from Words
 * [UpcomingPlaylists](https://www.upcomingplaylists.com/) - Playlists of Artists Playing Live Near You
 * [Obscurify](https://obscurifymusic.com/) or [MusicTaste](https://musictaste.space/) - Compare Music Taste to Others
 * [Dubolt](https://dubolt.com/), [Maroofy](https://maroofy.com/) or [Chosic](https://www.chosic.com/) - Song Discovery Tools
