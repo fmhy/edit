@@ -95,7 +95,6 @@
 * [Professor Leonard](https://www.youtube.com/channel/UCoHhuummRZaIVX7bD4t2czg) or [MisterWootube](https://www.youtube.com/c/misterwootube) - YouTube Math Lessons
 * [NYU-DLSP21](https://atcold.github.io/NYU-DLSP21/) - Deep Learning Course
 * [BillNye](https://billnye.com/) - Bill Nye Science Videos
-* [brighstorm](https://www.brightstorm.com/) - Test Prep
 * [pad.ma](https://pad.ma/) - Text-annotated Videos
 * [Code.org](https://code.org/) - Computer Science Courses
 * [How to Become a Computer Science Engineer](https://laconicml.com/computer-science-engineer-mit-university/) - Computer Science Courses
@@ -162,7 +161,6 @@
 * [tut4dl](https://tut4it.com/) - Courses
 * [technet24](https://technet24.ir/category/videos) - Courses
 * [coursedown](https://coursedown.com/) - Courses
-* [cgpersia](https://cgpersia.com/category/download/learning) - Courses
 * [course-collections](https://rentry.co/course-collections) - Courses
 * [Free Udacity Skillshare Coursera EDX](https://t.me/Free_Udacity_Skillshare_Coursera)
 * [AfraTafreeh](https://afratafreeh.com/) - Courses
@@ -937,7 +935,7 @@
 * [Graded](https://github.com/NightDreamGames/Graded) - Grades Tracker / Android
 * [Quizlet](https://quizlet.com/) / [Paywall Bypass](https://github.com/rospino74/Quizlet-Bypass), [Shmoop](https://www.shmoop.com/) or [SparkNotes](https://www.sparknotes.com/) - Quizzes / Study Material / [Show Hidden](https://greasyfork.org/en/scripts/423872) / [Explanations](https://greasyfork.org/en/scripts/434972), [2](https://greasyfork.org/en/scripts/438663)
 * [Knowt](https://knowt.io/) - Free Quizlet Alternative / AP Study Guides
-* [Homeworkify](https://homeworkify.net/), [Grades?](https://discord.gg/KeE9xtjA9W) or [Study Space](https://discord.gg/7Q7FPUVTm7) - Unlock Courses (Chegg, Bartleby, StuDocu etc.)
+* [Grades?](https://discord.gg/KeE9xtjA9W) or [Study Space](https://discord.gg/7Q7FPUVTm7) - Unlock Courses (Chegg, Bartleby, StuDocu etc.)
 * [guIHelp](https://discord.gg/rgF9jY8CpH) - Bartleby, Quizlet, Coursehero & Scribd Bot
 * [Quizizz](https://quizizz.com/) - Create Quizzes, Lessons, Flashcards & Presentations
 * [Anki](https://apps.ankiweb.net/) / [CLI](https://github.com/TBS1996/speki), [Flashcards.io](https://flashcards.io/), [Scholarcy Flashcards](https://article-summarizer.scholarcy.com/summarizer), [StudyLib](https://www.studylib.net/), [FlashcardX](https://ai.flashcardx.com/) or [Flashcard Machine](https://www.flashcardmachine.com/) - Flash Card Tools
