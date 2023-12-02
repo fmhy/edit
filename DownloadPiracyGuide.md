@@ -65,7 +65,6 @@
 * [patoghu](https://patoghu.com/) - Video / Audio / Use [Translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)
 * [MaxRelease](https://max-rls.com/) - Video / Audio / Magazines
 * [DarkSoftware](https://darksoftware.net/) - Video / Audio / ROMs
-* [WarezBook](https://www.warezbook.org/) - Video / Audio / Books
 * [2DDL](https://2ddl.it/) - Video / Audio / Books / Comics / Magazines
 * [WarezLover](https://warezlover.xyz/) - Video / Audio / ROMs / Books / Magazines
 * [TFPDL](https://tfpdl.se/), [2](https://tfpdl.to/) - Video / Magazines / NSFW
@@ -74,7 +73,6 @@
 * [FreshWAP](https://www.freshwap.us/), [2](https://freshwap.cc/) - Video / Audio / Books / Magazines
 * [BadshahUploads](https://badshahuploads.xyz/) - Video / Audio / Books / Leech Required
 * [FrostClick](https://www.frostclick.com/wp/) - Video / Audio / Books
-* [20Links](https://20links.com/) - Video / Audio / Books
 * [The Ambassador](https://ambassadorddl.site/) - Video / Books
 * [Leaker](https://leaker.me/) - Video / Audio 
 * [TehParadox](https://www.tehparadox.net/) - Video / Audio / Books / Magazines / ROMs 
