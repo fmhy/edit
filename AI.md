@@ -236,13 +236,12 @@
 
 ## ▷ Local Frontends
 
-* ⭐ **[Automatic1111](https://github.com/AUTOMATIC1111/stable-diffusion-webui)** / [Fork](https://github.com/anapnoe/stable-diffusion-webui-ux) / [Collab](https://colab.research.google.com/drive/1kw3egmSn-KgWsikYvOMjJkVDsPLjEMzl) / [Photoshop Plugin](https://github.com/AbdullahAlfaraj/Auto-Photoshop-StableDiffusion-Plugin) / [Templates](https://github.com/ThereforeGames/unprompted)
+* ⭐ **[Automatic1111](https://github.com/AUTOMATIC1111/stable-diffusion-webui)** / [Fork](https://github.com/anapnoe/stable-diffusion-webui-ux), [2](https://github.com/vladmandic/automatic) / [Collab](https://colab.research.google.com/drive/1kw3egmSn-KgWsikYvOMjJkVDsPLjEMzl) / [Photoshop Plugin](https://github.com/AbdullahAlfaraj/Auto-Photoshop-StableDiffusion-Plugin) / [Templates](https://github.com/ThereforeGames/unprompted)
 * ⭐ **[InvokeAI](https://github.com/invoke-ai/InvokeAI)** / [Discord](https://discord.com/invite/ZmtBAhwWhy)
 * ⭐ **[ComfyUI](https://github.com/comfyanonymous/ComfyUI)**
 * ⭐ **[Fooocus](https://github.com/lllyasviel/Fooocus)**, [2](https://github.com/MoonRide303/Fooocus-MRE) / [Colab](https://colab.research.google.com/github/lllyasviel/Fooocus/blob/main/fooocus_colab.ipynb) / [Search](https://genly.ai/)
 * [StableStudio](https://github.com/Stability-AI/StableStudio)
 * [Easy Diffusion](https://stable-diffusion-ui.github.io/)
-* [SD.Next](https://github.com/vladmandic/automatic)
 * [HemulGM](https://github.com/HemulGM/ChatGPT)
 * [Makeayo](https://makeayo.com) / [Discord](https://discord.gg/FbdSxdeV8m)
 * [Sygil WebUI](https://github.com/Sygil-Dev/sygil-webui) / [Discord](https://discord.com/invite/ttM8Tm6wge)
@@ -257,7 +256,6 @@
 
 * ⭐ **[Zoo](https://zoo.replicate.dev/)** / Unlimited
 * ⭐ **[PlaygroundAI](https://playgroundai.com/)** / 1K Images Daily
-* ⭐ **[Ideogram](https://ideogram.ai/)** / Unlimited
 * ⭐ **[Dezgo](https://dezgo.com/)** / [Discord](https://discord.com/invite/RQrGpUhPhx) / Unlimited
 * ⭐ **[Mage](https://www.mage.space/)** / [Discord](https://discord.com/invite/GT9bPgxyFP) / Unlimited
 * [Prodia](https://app.prodia.com/) / [Discord](https://discord.com/invite/495hz6vrFN) / Unlimited
@@ -268,6 +266,7 @@
 * [StableDiffusionWeb](https://stablediffusionweb.com/) - Unlimited
 * [VectorArt.ai](https://vectorart.ai/) - Unlimited / SVGs
 * [Leonardo.ai](https://app.leonardo.ai/) / 30 Images Daily
+* [Ideogram](https://ideogram.ai/) / 25 Daily
 * [Artsio](https://artsio.xyz/) / 20 Images Daily
 * [DreamLike](https://dreamlike.art) / [Discord](https://discord.com/invite/QyGR2FxsKU) / 12 Images Daily
 * [Stable Horde](https://stablehorde.net/) - Distributed Network of GPUs running Stable Diffusion / [Interface](https://aqualxx.github.io/stable-ui/), [2](https://tinybots.net/artbot), [3](https://artificial-art.eu/)
