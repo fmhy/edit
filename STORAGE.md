@@ -1724,10 +1724,9 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://70.88.180.169:8
 ### Software
 
 * ⭐ **[WorkshopDL](https://github.com/imwaitingnow/WorkshopDL)**
-* ⭐ **[NetherWorkshopDownloader](https://github.com/NethercraftMC5608/NetherWorkshopDownloader)** / **[Disocrd](https://discord.com/invite/bs9TMxMJk9)**
+* ⭐ **[NetherWorkshopDownloader](https://github.com/NethercraftMC5608/NetherWorkshopDownloader)** / [Discord](https://discord.com/invite/bs9TMxMJk9)
 
 * [SCMD](https://github.com/BerdyAlexei/SCMD-Workshop-Downloader-2), [steamworkshopdownloader](https://github.com/shadoxxhd/steamworkshopdownloader)
-
 
 ***
 
