@@ -514,6 +514,7 @@
 * [AlDente](https://github.com/davidwernhart/AlDente-Charge-Limiter) - MacOS Charging Manager
 * [Unlocker](https://github.com/paolo-projects/unlocker) - VMware Unlocker
 * [USBMap](https://github.com/corpnewt/USBMap) - Map MacOS USB Ports
+* [MacVim](https://macvim.org/), [CodeEdit](https://www.codeedit.app/) or [AuroraEditor](https://auroraeditor.com/)
 * [PowerShell](https://github.com/powershell/powershell) - PowerShell
 * [Warp](https://www.warp.dev/) or [iTerm2](https://iterm2.com/) - Replacements for Terminal
 * [asciinema](https://asciinema.org/) - Terminal Recorder
