@@ -665,7 +665,6 @@
 * [readcomicsfree](https://readcomicsfree.net/)
 * [Comic Castle](https://comicastle.org/)
 * [WallComic](https://wallcomic.com/)
-* [MyComicList](https://mycomiclist.com/)
 * [Comics Online](https://www.comicsonline.io/)
 * [Read Full Comic](https://readfullcomic.com/) / [2](https://viewcomiconline.com/)
 * [KidsGen](https://www.kidsgen.com/comics/)
@@ -732,7 +731,7 @@
 * [Mangageko](https://www.mangageko.com/)
 * [Mangairo](https://h.mangairo.com/)
 * [VyvyManga](https://vyvymanga.net/)
-* [ReadMng](https://www.readmng.com/) or [MngDoom](https://www.mngdoom.com/)
+* [ReadMng](https://www.readmng.com/)
 * [ReadKomik](https://readkomik.com/) - [Discord](https://discord.gg/bvB7Hk3xWV)
 * [DogManga](https://dogemanga.com/)
 * [Bunko](https://bunko.in/)
@@ -745,12 +744,10 @@
 * [Murimscan](https://murimscan.run/)
 * [Tenmanga](https://www.tenmanga.com/)
 * [OniManga](https://onimanga.com)
-* [MangaInn](https://mangainn.net/)
 * [Mangago](https://www.mangago.me/)
 * [MangaBat](https://m.mangabat.com/)
 * [ReadOPM](https://ww3.readopm.com/read-manga/)
 * [MangaEffect](https://mangaeffect.com/)
-* [FunManga](https://funmanga.com/)
 * [Manga Home](https://www.mangahome.com/)
 * [Mangaski](https://www.mangasaki.net//)
 * [DeathTollScans](https://www.deathtollscans.net/)
@@ -762,7 +759,6 @@
 * [MangaForest](https://mangaforest.me/) / [2](https://mangamirror.com/)
 * [MangaFox](https://fanfox.net/)
 * [ReadM](https://readm.org/)
-* [CMReader](https://www.cmreader.info/)
 * [mangapill](https://mangapill.com/)
 * [Anime-Sharing](https://www.anime-sharing.com/) - Anime / Manga Download Forum
 * [MP4DIRECTS](https://mp4directs.com/) - Manga / Light Novels Download Forum
@@ -782,7 +778,6 @@
 * ⭐ **[Webtoon](https://www.webtoons.com/)**
 * ⭐ **[Toonily](https://toonily.com/)**
 * [1st Kiss Manga](https://1stkissmanga.me/)
-* [Manga3S](https://manga3s.com/) - [Discord](https://discord.gg/c3ydbYdYjb)
 * [Wuxia World](https://wuxiaworld.site/)
 * [Read Free Comics](https://readfreecomics.com/)
 * [Manhua Plus](https://manhuaplus.com/)
@@ -813,13 +808,11 @@
 * [ManhwaKool](https://manhwakool.com/)
 * [ManhuaScan](https://manhuascan.io/)
 * [Manhwatop](https://manhwatop.com/)
-* [Instamanhwa](https://www.instamanhwa.com/)
 * [Manhwa68](https://manhwa68.com/)
 * [Comic Kiba](https://manhuagold.com/)
 * [ManhwaZ](https://manhwaz.com/)
 * [Manhwafull](https://manhwafull.com/)
 * [Top Manhua](https://www.topmanhua.com/)
-* [Manhua Mix](https://manhuamix.com/)
 * [Manhau ES](https://manhuaes.com/)
 * [ManhuaHot](https://manhuahot.com/)
 * [Todamic](https://todaymic.com)
@@ -924,7 +917,6 @@
 * [FreePDFMagazine](https://www.freepdfmagazine.com/)
 * [freemagazines](https://freemagazines.top/)
 * [Calameo](https://calameo.com/)
-* [eBookShelve](https://ebookshelve.top/)
 * [PDF Magazines Archive](https://pdf-magazines-archive.com/)
 * [Magazine Rack](https://github.com/nbats/FMHYedit/blob/main/base64.md#magazine-rack)
 * [Computer Magazines](https://github.com/nbats/FMHYedit/blob/main/base64.md#computer-magazines)
@@ -1037,7 +1029,7 @@
 * ⭐ **[eBoox](https://eboox.ru/en/)** - Ebook Reader / Android / iOS
 * ⭐ **[SumatraPDFReader](https://www.sumatrapdfreader.org/free-pdf-reader)** - PDF / PC 
 * ⭐ **[Calibre](https://calibre-ebook.com/)** - Ebook Reader / PC / Android / iOS
-* ⭐ **[Raven Reader](https://ravenreader.app/)** - Article Reader / Manager
+* ⭐ **[Raven](https://ravenreader.app/)**, [Postlight](https://reader.postlight.com/), [Reader Mode](https://readermode.io/) or [Tranquility](https://addons.mozilla.org/en-GB/firefox/addon/tranquility-1/) - Article Readers / Managers
 * ⭐ **[EinkBro](https://github.com/plateaukao/einkbro)** - E-Ink Browser
 * [Librum](https://github.com/Librum-Reader/Librum) - Ebook Reader / PC / Android / iOS / Linux / Mac
 * [EBook Reader](https://epub-reader.online/) - Ebook Reader / PC / Android / iOS / Mac
