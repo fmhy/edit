@@ -328,6 +328,7 @@
 * [YouTubePlaylist](https://youtubeplaylist.cc/) - Playlist Downloader
 * [YoutubeDownloader](https://github.com/Tyrrrz/YoutubeDownloader) - YouTube Downloader
 * [YoutubeDL-Material](https://github.com/Tzahi12345/YoutubeDL-Material) - YouTube Downloader
+* [DL YouTube Videos without Extensions](https://onehack.us/t/how-to-download-youtube-videos-without-external-tools-or-extensions/)
 
 ***
 
