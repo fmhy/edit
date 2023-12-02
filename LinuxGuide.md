@@ -136,7 +136,7 @@
 * [Trimage](https://trimage.org/) - Image Compressor
 * [MkPosters](https://github.com/patrick-kidger/mkposters) - Turn Markdown Files into Posters
 * [Rapid](https://damonlynch.net/rapid/) - Quick Linux Photo Importer
-* [Sharenix](https://github.com/Francesco149/sharenix) or [MagicCap](https://magiccap.me/) - Screenshot Tool
+* [Flameshot](https://flameshot.org/) - Screenshot Tool
 
 ***
 
