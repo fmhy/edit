@@ -338,7 +338,7 @@
 
 ***
 
-## ▷ [Textures / Patterns](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_.25B7_textures_.2F_patterns)
+## ▷ [Textures / Patterns](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_textures_.2F_patterns)
 
 ***
 
