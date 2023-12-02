@@ -13,8 +13,8 @@
 
 * ↪️ **[Adblock Filters](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_ublock_filters)** / [Test Filters](http://raymondhill.net/ublock/adbox.html) / [Merge Filters](https://realityripple.com/Tools/AdBlock++/)
 * ↪️ **[Spotify Adblockers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_spotify_tools)**
-* ⭐ **[Can You Block It?](https://canyoublockit.com/)**, [AdBlock Tester](https://adblock-tester.com/) or [AdBlocker Test](https://d3ward.github.io/toolz/adblock.html) - Adblocking Tests
-* [uBO-bypass-yt](https://drhyperion451.github.io/does-uBO-bypass-yt/) - uBO YouTube Anti-Adblock Fixes
+* ⭐ **[AdBlock Tester](https://adblock-tester.com/)** or [AdBlocker Test](https://d3ward.github.io/toolz/adblock.html) - Adblocking Tests
+* [uBO-bypass-yt](https://drhyperion451.github.io/does-uBO-bypass-yt/) - Check if uBlock Filters are bypassing YouTube Anti-Adblock
 * [YouT-ube](https://www.yout-ube.com/) - Ad-Free YouTube Web Player
 
 ***
@@ -208,7 +208,7 @@
 * [Telemetry.md](https://gist.github.com/ave9858/a2153957afb053f7d0e7ffdd6c3dcb89) - Disable Telemetry Guide
 * [Spybot Anti-Beacon](https://www.safer-networking.org/products/spybot-anti-beacon/) - Stop Telemetry Data Leaks
 * [IKnowWhatYouDownload](https://iknowwhatyoudownload.com/) - Track Torrent Download Leaks
-* [Safing](https://safing.io/) - Monitor Network / Block Trackers / [GitHub](https://github.com/Safing/portmaster)
+* [Safing Portmaster](https://safing.io/) - Monitor Network / Block Trackers / [GitHub](https://github.com/Safing/portmaster)
 * [Undiscord](https://github.com/victornpb/undiscord), [discord-delete](https://github.com/cedws/discord-delete), or [QuickDeleteMessages](https://u.nu/9i9jk) - Delete Discord Messages / [Warning](https://i.ibb.co/pdg4hRr/0b0d78219f05.png)
 * [Blacklight](https://themarkup.org/series/blacklight) - Website Privacy Inspector
 * [Terms of Service; Didn't Read](https://tosdr.org/) - TLDR TOS
@@ -530,7 +530,6 @@
 * [CroxyProxy](https://www.croxyproxy.com/)
 * [ProxyPx](https://www.proxypx.com/)
 * [ProxySite](https://www.proxysite.cc/) 
-* [Sudoproxy](https://www.sudoproxy.net/)
 * [ProxyOf2](https://proxyof2.com/)
 * [Proxy-URLs](https://www.proxy-urls.com/)
 * [HideIP](https://m.hideip.co/)
@@ -539,7 +538,6 @@
 * [4EverProxy](https://www.4everproxy.com/)
 * [Proxyium](https://proxyium.com/)
 * [Proxy Site](https://proxysite.cloud/)
-* [AtozProxy](https://www.atozproxy.com/)
 * [Google Translate](https://translate.google.com/) - [How to use](https://redd.it/fawkjy)
 * [Proxy Scrape](https://github.com/JaredLGillespie/proxyscrape) - Python Library for Retrieving Free Proxies
 * [Proxy-Checker](https://proxy-checker.net/), [proxy-scraper](https://github.com/iw4p/proxy-scraper), [What is my Proxy](http://www.whatismyproxy.com/), [proxy-scraper-checker](https://github.com/monosans/proxy-scraper-checker), [Socker](https://github.com/TheSpeedX/socker) or [Unfx Proxy Checker](https://github.com/openproxyspace/unfx-proxy-checker) - Proxy Scrapers / Checkers
