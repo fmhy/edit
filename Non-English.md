@@ -40,7 +40,6 @@
 * [Shafilm](https://shafilm.vip/) - Movies / TV / Anime / Cartoons / 1080p
 * [Shooflive](https://r.shooflive.co/) - Movies / TV / Anime / Sub / 720p
 * [FajerShow](https://fajer.show) - Movies / TV / Cartoons / Sub / 720p
-* [cima-club](https://cimacb.hair/) - TV / Anime / Sub / 720p
 * [AnimeTak](https://animetak.org/) - Anime / Sub / 1080p
 * [witanime](https://witanime.org/) - Anime / Sub / 1080p
 * [animeblkom](https://animeblkom.net/) - Anime / Sub / 1080p
@@ -236,7 +235,6 @@
 * [BiliBili](https://manga.bilibili.com/) - Manga
 * [manhuagui](https://www.manhuagui.com/) - Manga
 * [DMZJ](https://www.dmzj.com/) - Manga
-* [xlsmh](https://www.xlsmh.com) - Manga
 * [Laimanhua](https://www.laimanhua8.com/) - Manga
 * [Mangabz](https://www.mangabz.com/) - Manga
 * [Doujin Fiction Network](https://www.trxs.me/) or [Readfine](https://t.me/Readfine) / [Discussion](https://t.me/ReadfineChat) - FanFiction
@@ -502,14 +500,11 @@
 * [MkvCinemas](https://mkvcinemas.mov/) - Movies / TV / Anime / Sub / Dub / 1080p / 4K / [Telegram](https://t.me/+WzLYNDSawQk1MTk1)
 * [MLWBD](https://mlwbd.run/) - Movies / TV / Anime / Sub / Dub / 1080p / 4K / [Telegram](https://t.me/mlwbdnew)
 * [BollyMaza](https://ww3.bollymaza.click/) - Movies / TV / Sub / Dub / 1080p / 4K
-* [CineVood](https://cinevood.boo/) - Movies / TV / Sub / Dub / 1080p / 4K
-* [Bolly4u](https://bolly4u.page/) - Movies / TV / Sub / Dub / 1080p / 4K / [Telegram](https://t.me/bolly4uofficial1)
 * [MoviesMod](https://moviesmod.shop) - Movies / TV / Sub / Dub / 1080p / [Telegram](https://telegram.dog/moviesmodorg)
 * [Mallumv](https://mallumv.buzz/) - Movies / Sub / Dub / 1080p / [Telegram](https://t.me/MalluMvoff)
 * [SSR Movies](https://ssrmovies.dad/) - Movies / TV / Sub / Dub / 1080p / [Telegram](https://t.me/SSRmovies2022), [2](https://telegram1.cyou/)
 * [MkvMoviesPoint](https://mkvmoviespoint.boo/) - Movies / TV / Sub / Dub / 1080p / [Telegram](https://telegram.me/mkvpoint1)
 * [MKV Mad](https://www.mkvmad.space/) - Movies / TV / Sub / Dub / 1080p / [Telegram](https://t.me/mkvmadofficial)
-* [Movies Flix](https://moviesflix.mx/) - Movies / TV / NSFW / Sub / Dub / 1080p / [Telegram](https://t.me/mvsflix)
 * [DudeFilms](https://dudefilms.vip/) - Movies / TV / Sub / Dub / 1080p / [Telegram](https://telegram.dog/dudefilmsofficial)
 * [KatMovieHD](https://katmoviehd.dev/) - Movies / TV / Anime / Sub / Dub / 1080p / [Telegram](https://t.me/+lY88WXVDmsFiYTJk), [2](https://t.me/joinchat/TMuzf8VYH7M1YWVh)
 * [MKVHub](https://www.mkvhub.space/) - Movies / TV / Sub / Dub / 1080p / [Telegram](https://t.me/MkvHubCOM)
@@ -541,7 +536,6 @@
 * [5movierulz](https://ww7.5movierulz.gd/) - South Asian Movies / Sub / Dub / 1080p
 * [HHDMovies](https://hhdmovies.mom/) - Movies / TV / Sub / Dub / 1080p
 * [Desi Serials](https://www.desi-serials.cc/), [2](https://playdesi.net/) - South Asian Movies / TV / Live / Sub / Dub / 1080p
-* [HindiLinks4u](https://hindilinks4u.beauty/) - Movies / TV / Sub / Dub / 1080p
 * [HindiMoviesTV](https://www.hindimoviestv.com/) - Movies / Dub / 1080p
 * [HindiMovie](https://m.vk.com/hindimovie) - Movies / Dub / 1080p
 * [Movi](https://www.movi.pk/) - Movies / TV / Dub / 1080p
@@ -587,7 +581,6 @@
 
 * [KusoAnime](https://kusonime.com/) - Anime / Sub / Dub / 1080p / [Discord](https://discord.com/invite/4A7RqFraZW)
 * [AniBatch](https://anibatch.anibatch.moe/), [2](https://www.animebatch.id/) - Anime / Dub / 1080p
-* [Drivenime](https://drivenime.com/) - Anime / Sub / 1080p
 * [IndonesiaEbook](https://ebook.twointomedia.com/) - Books
 * [NovelTerjemahan](https://novelterjemahan.com/) - Books
 
@@ -1056,7 +1049,6 @@
 * [Poesias Online](https://www.poesiasonline.com) - Poetry
 * [Site de Poesias](https://sitedepoesias.com) - Poetry
 * [A Magia da Poesia](https://poemassemerros.wordpress.com) - Poetry
-* [Poeta](https://poeta.ws) - Poetry
 * [Superarquivo](https://super.abril.com.br/superarquivo/) - Magazines
 * [Jornais e Revistas](https://www.jornaiserevistas.com) - Magazines
 * [VerCapas](https://www.vercapas.com.br) - Magazines
@@ -1361,7 +1353,6 @@
 * [PediaTorrent](https://pediatorrent.com/) - Movies / TV / Documentaries / Castilian
 * [MoviesDVDR](https://www.moviesdvdr.co/) - Movies / Castilian
 * [PasateaTorrent](https://pasateatorrent.org/) - Movies / TV / Castilian
-* [Cinecalidad](https://cinecalidad.one/) - Movies / TV / Latino
 * [Tlandia](https://torrentlandia.site/) - Movies / Latino
 * [DiXvA](https://www.dixva.com/), [2](https://www.sinsitio.site/) - Movies / TV / Music / NSFW / [Telegram](https://t.me/+YSdB1y9VdjAzNDkx)
 * [Zonatorrent](https://zonatorrent.in/) - Movies / TV / Castilian / [Bypasser script](https://greasyfork.org/en/scripts/462510-spanish-torrent-sites-short-link-bypasser)
@@ -1487,10 +1478,8 @@
 * [anzmangashd](https://www.anzmangashd.com/) - Manga
 * [vermanhwa](https://vermanhwa.com/) - Manga
 * [faneo](https://www.faneo.es/) - Manga
-* [mangatigre](https://www.mangatigre.net/) - Manga
 * [daprob](https://daprob.com/) - Manga
 * [scambertraslator](https://scambertraslator.com/) - Manga
-* [mangatigre](https://www.mangatigre.net/) - Manga
 * [Leer Manga](https://r2.leermanga.xyz/) - Manga
 * [MangaCrab](https://manga-crab.com/) - Manga
 * [Nova](https://novelasligeras.net/) - Manga / Light Novels
