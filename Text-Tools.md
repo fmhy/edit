@@ -310,7 +310,7 @@
 * ⭐ **[Linked](https://uselinked.com/)**, [journaltxt](https://journaltxt.github.io/), [Gekri](https://gekri.com/), [Microsoft Journal](https://www.microsoft.com/en-us/garage/profiles/journal/), [Gemlog](https://gemlog.blue/) or [jrnl.sh](https://jrnl.sh/) - Journal Apps / [Songs](https://deardiary.ai/)
 * [LanguageIsAVirus](https://www.languageisavirus.com/) - Writing Prompts
 * [Twinery](https://twinery.org/) - Interactive Non-Linear Story Creator
-* [Infinite Story](https://infinite-story.com/), [Storylocks](https://www.storylocks.com/) or [WriteAlong](https://www.writealong.io/) - Collaborative Story Writing
+* [Infinite Story](https://infinite-story.com/) or [WriteAlong](https://www.writealong.io/) - Collaborative Story Writing
 * [Blackout Poetry](https://blackoutpoetry.glitch.me/) - Blackout Poetry Creator
 * [Idyll](https://idyll-lang.org/editor) - Create Interactive Essays / [GitHub](https://github.com/idyll-lang/idyll)
 * [Papyrus Author](https://www.papyrusauthor.com/) - Creative Writing Suite
