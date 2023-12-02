@@ -318,7 +318,6 @@
 * [KRX18](https://krx18.com/) - Asian
 * [TokyoMotion](https://tokyomotion.com/) - Asian
 * [Republic of Korea](https://republic-of-korea.com/) - Asian
-* [365next2](https://www.365next2.com/) - Asian
 * [JavRank](https://javrank.com/) - Asian
 * [FunLove](https://funlove.info/) - Asian
 * [Watch Free JAV](https://s2.watchfreejavonline.co/) - Asian
