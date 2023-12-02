@@ -515,8 +515,9 @@
 * [Unlocker](https://github.com/paolo-projects/unlocker) - VMware Unlocker
 * [USBMap](https://github.com/corpnewt/USBMap) - Map MacOS USB Ports
 * [PowerShell](https://github.com/powershell/powershell) - PowerShell
-* [iTerm2](https://iterm2.com/) - Replacement for Terminal
+* [Warp](https://www.warp.dev/) or [iTerm2](https://iterm2.com/) - Replacements for Terminal
 * [asciinema](https://asciinema.org/) - Terminal Recorder
+* [Fig](https://fig.io/) - IDE-Style Autocomplete for Terminal
 * [BetterDisplay](https://github.com/waydabber/BetterDisplay) - Display Controller
 * [Pictogram](https://pictogramapp.com/) or [IconChamp](https://www.macenhance.com/iconchamp.html) - Custom App Icons
 * [IconSet](https://github.com/tale/iconset) or [IconChamp](https://www.macenhance.com/iconchamp.html) - Custom System Icons
