@@ -1715,9 +1715,19 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://70.88.180.169:8
 
 ## Steam Workshop Downloaders
 
+### Website
+
 * ⭐ **[ggntw](https://ggntw.com/steam)**
 
-[SCMD](https://github.com/BerdyAlexei/SCMD-Workshop-Downloader-2), [Steamworkshop.download](http://steamworkshop.download/), [steam-workshop-downloader.com](https://steam-workshop-downloader.com/), [steamworkshopdownloader](https://github.com/shadoxxhd/steamworkshopdownloader), [Workshop Downloader](https://4hub.app/workshop-downloader/), [steamworkshopdownloader.ru](https://steamworkshopdownloader.ru/), [NetherWorkshopDownloader](https://github.com/NethercraftMC5608/NetherWorkshopDownloader) / [Disocrd](https://discord.com/invite/bs9TMxMJk9), [steam-workshop-downloader](https://gramvio.com/steam-workshop-downloader/), [Workshop Script](https://greasyfork.org/en/scripts/449046)
+* [Steamworkshop.download](http://steamworkshop.download/), [steam-workshop-downloader.com](https://steam-workshop-downloader.com), [steamworkshopdownloader.ru](https://steamworkshopdownloader.ru), [steam-workshop-downloader](https://gramvio.com/steam-workshop-downloader/),  [Workshop Script](https://greasyfork.org/en/scripts/449046), [steamworkshopdownloader.ru](https://steamworkshopdownloader.ru/), [Workshop Downloader](https://4hub.app/workshop-downloader),
+
+### Software
+
+* ⭐ **[WorkshopDL](https://github.com/imwaitingnow/WorkshopDL)**
+* ⭐ **[NetherWorkshopDownloader](https://github.com/NethercraftMC5608/NetherWorkshopDownloader)** / **[Disocrd](https://discord.com/invite/bs9TMxMJk9)**
+
+* [SCMD](https://github.com/BerdyAlexei/SCMD-Workshop-Downloader-2), [steamworkshopdownloader](https://github.com/shadoxxhd/steamworkshopdownloader)
+
 
 ***
 
