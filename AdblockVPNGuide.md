@@ -268,7 +268,8 @@
 * [Redirect AMP to HTML](https://www.daniel.priv.no/web-extensions/amp2html.html) - Redirects AMP Pages to Regular Web Pages 
 * [Open Two Factor Authenticator](https://add0n.com/two-factor-authenticator.html) - Two-Factor Authentication Addon 
 * [WAIncognito](https://chrome.google.com/webstore/detail/waincognito/alhmbbnlcggfcjjfihglopfopcbigmil?hl=en) - Disable WhatsApps Read Receipts & Presence Updates 
-* [IndicateTLS](https://github.com/jannispinter/indicatetls) - Display a Sites the TLS Protocol Version 
+* [IndicateTLS](https://github.com/jannispinter/indicatetls) - Display a Sites the TLS Protocol Version
+* [Privacy Redirect](https://chromewebstore.google.com/detail/privacy-redirect/pmcmeagblkinmogikoikkdjiligflglb) - Redirect Social Media Sites To Privacy-Friendly Versions
 
 ***
 
