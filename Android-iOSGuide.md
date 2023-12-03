@@ -91,8 +91,8 @@
 * ⭐ **F-Droid Clients** - [Droid-ify](https://github.com/Iamlooker/Droid-ify) / [Classic Client](https://git.bubu1.eu/Bubu/fdroidclassic) / [Neo Store](https://github.com/NeoApplications/Neo-Store)
 * ⭐ **[Known Repositories](https://forum.f-droid.org/t/known-repositories/)** - F-Droid Repositories
 * [IzzyOnDroid](https://android.izzysoft.de/applists.php) - App Repo / [F-Droid](https://apt.izzysoft.de/fdroid/index.php) 
-* [Simple Mobile Tools](https://simplemobiletools.com/)
 * [We Love Codeberg](https://welove.codeberg.page/)
+* [FossifyX](https://github.com/FossifyX)
 * [OnyxBits](https://onyxbits.de/)
 * [OpenRepos](https://openrepos.net/) - Harmattan / Sailfish OS Apps
 * [Android Auto Apps Downloader](https://github.com/shmykelsa/aaad) - Android Vehicle Apps
@@ -494,7 +494,7 @@
 ## ▷ Android Camera
 
 * 🌐 **[Google Lens](https://lens.google/)** - Multiple Camera Tools
-* ⭐ **[Aves](https://github.com/deckerst/aves)**, [Photok](https://github.com/leonlatsch/Photok), [Simple Gallery](https://github.com/SimpleMobileTools/Simple-Gallery), [Stingle Photos](https://stingle.org/), [Ente](https://ente.io/), [QuickPic](https://github.com/WSTxda/QP-Gallery-Releases), [UhuruPhotos](https://github.com/savvasdalkitsis/uhuruphotos-android) or [Gallery](https://github.com/IacobIonut01/Gallery) - Photo / Video Galleries
+* ⭐ **[Aves](https://github.com/deckerst/aves)**, [Photok](https://github.com/leonlatsch/Photok), [Stingle Photos](https://stingle.org/), [Ente](https://ente.io/), [QuickPic](https://github.com/WSTxda/QP-Gallery-Releases), [UhuruPhotos](https://github.com/savvasdalkitsis/uhuruphotos-android) or [Gallery](https://github.com/IacobIonut01/Gallery) - Photo / Video Galleries
 * [googlecameraport](https://www.celsoazevedo.com/files/android/google-camera), [DMGC](https://thedise.me/dmgc/) or [Camator](https://gcamator.com/) - Google Cam Downloads / [Telegram](https://t.me/googlecameraport) / [Mods](https://apkw.ru/) / [XML Configs](https://t.me/xmlshamimmod)
 * [Libre Camera](https://github.com/iakmds/librecamera), [ProofMode](https://gitlab.com/guardianproject/proofmode/proofmode-android) or [Open Camera](https://sourceforge.net/projects/opencamera/) - FOSS Camera Apps
 * [FreeDcam](https://github.com/KillerInk/FreeDcam) or [BlackMagic Camera](https://apps.apple.com/us/app/blackmagic-camera/id6449580241) - Extra Camera Features
@@ -781,9 +781,9 @@
 ## ▷ Android Anime
 
 * ⭐ **[Aniyomi](https://aniyomi.org/)** or [Animiru](https://github.com/Quickdesh/Animiru) - Movies / TV / Anime / [GitHub](https://github.com/jmir1/aniyomi)
+* ⭐ **[AniLab](https://anilab.to/)**
 * [Crunrchyroll Mod](https://github.com/nbats/FMHYedit/blob/main/base64.md#crunchyroll-mod) - Anime / Premium Crunchyroll
 * [ZAnime](https://github.com/linkkader/zanime) / [Discord](https://rebrand.ly/linkkaderdiscord)
-* [AniLab](https://anilab.to/)
 * [Dantotsu](https://github.com/rebelonion/Dantotsu)
 * [Kazahana](https://github.com/yukino-org/kazahana)
 * [Akiyama](https://github.com/Fmaldonado6/Akiyama)
@@ -958,7 +958,7 @@
 
 ## ▷ iOS Adblocking
 
-* ⭐ **[System Wide Adblocking](https://champagne.pages.dev/before-you-begin/important-tools/)** / [2](https://redd.it/oyfmr1) - System Wide Adblocking Guides
+* ⭐ **[System Wide Adblocking](https://champagne.pages.dev/before-you-begin/important-tools/)**
 * ⭐ **[AdGuard Pro](https://github.com/nbats/FMHYedit/blob/main/base64.md#adguard-premium)** / [2](https://testflight.apple.com/join/XqF1FkBg) - Adblocker / [Config](https://1fichier.com/?ef26ks4abjzct7o1k8os) / [Remote](https://apps.apple.com/app/apple-store/id1543143740)
 * [AdGuard Safari](https://adguard.com/en/adguard-safari/overview.html) - AdGuard for Safari
 * [Hyperweb](https://hyperweb.app/) - iOS Safari Adblock
