@@ -378,6 +378,7 @@
 * ⭐ **[Metager](https://metager.org/)**
 * ⭐ **[Stract](https://trystract.com/)**
 * ⭐ **[DuckDuckGo](https://duckduckgo.com/)** - [Shortcuts](https://duckduckgo.com/bangs) / [Search Scraper](https://github.com/JohnScooby/DuckDuckGo-Scraper)
+* [4get](https://4get.ca/)
 * [Mojeek](https://www.mojeek.com/)
 * [Qwant](https://www.qwant.com/)
 * [Swisscows](https://swisscows.com/)
