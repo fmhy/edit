@@ -18,7 +18,6 @@
 * 🌐 **[/r/PiratedGames Mega](https://rentry.org/pgames)** / [Discord](https://discord.gg/dZWwhUy) - Game Piracy Megathread
 * 🌐 **[CS.RIN Mega](https://cs.rin.ru/forum/viewtopic.php?f=10&t=95461)** - Game Piracy Megathread
 * 🌐 **[privateersclub](https://megathread.pages.dev/)** - Game Piracy Megathread
-* ↪️ **[Free-to-Play Games](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_f2p_games)**
 * ↪️ **[Scene Release Trackers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_scene_release_trackers)**
 * ⭐ **[GamesDrive](https://gamesdrive.net/)** - Download / [Discord](https://discord.gg/wXdNEhf73x) / [Divolt](https://gamesdrive.divolt.xyz/) / [Telegram](https://t.me/+qkrAOiq7k7ozNzRk)
 * ⭐ **[CS.RIN.RU](https://cs.rin.ru/)** - Download / Forum / [Status](https://csrinstaff.writeas.com/) / [Enhancement Mod](https://github.com/SubZeroPL/cs-rin-ru-enhanced-mod)
@@ -27,15 +26,17 @@
 * ⭐ **[GOG Games](https://gog-games.to/)** - Download / [Torrent](https://freegogpcgames.com/) / [.onion](http://goggamespyi7b6ybpnpnlwhb4md6owgbijfsuj6z5hesqt3yfyz42rad.onion/)
 * ⭐ **[Game Bounty](https://gamebounty.world/)** - Download / [Discord](https://dsc.gg/gamebounty)
 * ⭐ **[Ova Games](https://www.ovagames.com/)** - Download / Use Adblocker
+* ⭐ **[FreeToGame](https://www.freetogame.com/games)** - Download / F2P Games
 * ⭐ **[VRPirates](https://t.me/vrpirates)** / [Wiki](https://wiki.vrpirates.club/), [ARMGDDN](https://t.me/ARMGDDNGames), [VRCarena](https://www.vrcarena.com/) or [SidequestVR](https://sidequestvr.com/) - VR Games / Guides
-* ⭐ **[Game Download CSE](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_game_download_cse)** / **[Game Torrent CSE](https://cse.google.com/cse?cx=006516753008110874046:pobnsujblyx)** - Multi-Site Search Engines
+* ⭐ **[Game Download CSE](https://cse.google.com/cse?cx=006516753008110874046:cbjowp5sdqg)**, **[Game Torrent CSE](https://cse.google.com/cse?cx=006516753008110874046:pobnsujblyx)**, **[Rezi Search](https://rezi.one/)**, **[Rave Search](https://idleendeavor.github.io/gamesearch/)** / [2](https://ravegamesearch.pages.dev/) or **[/r/PiratedGames CSE](https://cse.google.com/cse?cx=20c2a3e5f702049aa)** - Multi-Site Search Engines
 * [g4u](https://g4u.to/) - Download / pw: 404
 * [GLoad](https://gload.to/), [Leeching Hell](http://www.leechinghell.pw/) or [GamePCFull](https://gamepcfull.com/) - Download
 * [Seven Gamers](https://www.seven-gamers.com/) - Download / Torrent
 * [Xatab Repacks](https://byxatab.com/), [2](https://otxatabs.net/) - Torrent
 * [IRC Games](https://redd.it/x804wg) - Download Games via IRC
 * [Gamdie](https://gamdie.com/) / [Discord](https://discord.gg/hH9sedx4de), [itch.io](https://itch.io/games/new-and-popular/featured/free) / [Downloader](https://github.com/Emersont1/itchio), [DigiPen](https://games.digipen.edu/) or [Game Jolt](https://gamejolt.com/games?price=free) - Indie Games
-* [Alpha Beta Gamer](https://alphabetagamer.com/) - Play games in Alpha or Beta Testing
+* [Acid Play](https://acid-play.com/), [/v/'s recommended games wiki](https://vsrecommendedgames.fandom.com/wiki/Freeware_Games) or [Free Game Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25BA_free_stuff) - F2P Games
+* [Alpha Beta Gamer](https://alphabetagamer.com/) - Play Games in Alpha / Beta Testing
 * [RPG Maker Games](https://rpgmaker.net/games/?name_filter=&amp;engine=&amp;status=&amp;rating=&amp;commercial=exclude&amp;sort=&amp;portal=None) - Games made via RPG Maker
 * [DoujinStyle](https://discord.com/invite/z2QDFdA) - Doujin Games
 * [MoriyaShrine](https://moriyashrine.org/) - Touhou Games
@@ -679,7 +680,6 @@
 * 🌐 **[FlagBrew](https://flagbrew.org/)** - Switch / 3DS Homebrew Resources / [Discord](https://discord.com/invite/4Rv8DTzGFa)
 * 🌐 **[DS Homebrew](https://ds-homebrew.com/)** - DS Homebrew Resources / [Wiki](https://wiki.ds-homebrew.com/) / [Discord](https://discord.com/invite/yD3spjv)
 * 🌐 **[Emulators on Consoles](https://emulation.gametechwiki.com/index.php/Category:Emulators_on_consoles)** - List of Emulators for Consoles
-* ↪️ **[Switch Homebrew Discord Servers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_switch_homebrew_discord_servers)**
 * ⭐ **[Hacks.Guide](https://hacks.guide/)**, **[CFW Guide](https://cfw.guide/)**, [ConsoleMods.org](https://consolemods.org/) / [Discord](https://discord.gg/x5vEnkR4C8), [Digiex](https://digiex.net/forums/), [Homebrew Guides](https://rentry.co/Guides), [Homebrew General](https://www.homebrewgeneral.net/) or [Gamebrew](https://www.gamebrew.org/) - Homebrew Guides
 * ⭐ **[GBATemp](https://gbatemp.net/)** - Homebrew Forum
 * ⭐ **[Nintendo Homebrew](https://discord.gg/C29hYvh)** - Nintendo Homebrew Discord
@@ -689,13 +689,14 @@
 * [/r/SwitchPirates](https://www.reddit.com/r/SwitchPirates/), [/r/SwitchHaxing](https://reddit.com/r/SwitchHaxing) or [/r/SwitchHacks](https://reddit.com/r/SwitchHacks) - Switch Homebrew Subreddits
 * [Switch Guide](https://nh-server.github.io/switch-guide/), [Switch Hacking Is Easy](https://rentry.org/SwitchHackingIsEasy) or [Switch.Homebrew](https://switch.homebrew.guide/) - Switch Homebrew Guide
 * [LAN Play Status](http://lan-play.com/) or [Switch-LAN-Play](https://github.com/spacemeowx2/switch-lan-play) / [Discord](https://discord.gg/PUEmfV4) - Multiplayer Switch Servers
+* [Switchway](https://discord.gg/switchway) - Switch Homebrew Discord Server
 * [NSP Forwarder](https://nsp-forwarder.n8.io/) - Switch NSP Forwarder
 * [SDSetup](https://github.com/noahc3/SDSetup) - Nintendo Switch SD Setup
 * [DeepSea](https://github.com/Team-Neptune/DeepSea) - Switch CFW Package 
 * [WiiU Exploit](https://wiiuexploit.xyz/) or [ModMii](https://modmii.github.io/) - WiiU Homebrew Installer
 * [Pretendo](https://pretendo.network/) - WiiU / 3DS Network Replacement
 * [/r/WiiUHacks](https://www.reddit.com/r/WiiUHacks/) - WiiU Homebrew Subreddit
-* [/r/WiiHacks](https://www.reddit.com/r/WiiHacks/) - WiiU Homebrew Subreddit
+* [/r/WiiHacks](https://www.reddit.com/r/WiiHacks/) - Wii Homebrew Subreddit
 * [LetterBomb](https://please.hackmii.com/) or [str2hax](https://gbatemp.net/threads/a-channel-less-sd-less-entry-point-str2hax.523210/) - Wii Homebrew Installer / [Find MAC](https://en-americas-support.nintendo.com/app/products/detail/p/604)
 * [Retro Rewind](https://wiki.tockdom.com/wiki/Retro_Rewind) - Every Retro Mario Kart Track for MKW
 * [RiiBalanced](https://drive.google.com/file/d/1AKJH3s0YpxQ09eud0EEd2YVFJ56f9VuO/view) - MKW Rebalanced Mod / [Discord](https://discord.gg/YZxyK4f3EU)

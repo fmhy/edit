@@ -134,14 +134,6 @@
 
 ***
 
-## Android TV IPTV Players
-
-* ⭐ **[TiviMate](https://play.google.com/store/apps/details?id=ar.tvplayer.tv)**
-
-[iMPlayer](https://implayer.tv/), [IPTV Smarters Pro](https://www.iptvsmarters.com/), [HomeIPTV](https://www.homeiptv.com/)
-
-***
-
 ## Android Video Players
 
 * ⭐ **[Just Player](https://github.com/moneytoo/Player)**
@@ -151,28 +143,11 @@
 
 ***
 
-## Anime Download Apps
-
-* ⭐ **[HakuNeko](https://hakuneko.download/) - [Github](https://github.com/manga-download/hakuneko)**
-* [Anime-dl](https://github.com/gabelluardo/anime-dl) - [Github](https://github.com/vrienstudios/anime-dl)
-
-[adl](https://github.com/RaitaroH/adl), [anigrab](https://github.com/ngomile/anigrab), [animdl](https://github.com/justfoolingaround/animdl)
-
-***
-
 ## Anonymous Image Boards
 
 * ⭐ **[4chan](https://4chan.org/)** - [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/tools-misc#wiki_.25B7_4chan_tools)
 
 [Post Office](https://afternoon.dynu.com/), [crystal.cafe](https://crystal.cafe/), [BUS STOP](https://bus-stop.net/)
-
-***
-
-## Antivirus
-
-* ⭐ **[Malwarebytes Premium](https://github.com/fmhy/FMHYedit/blob/main/base64.md#malwarebytes-prem)** / [Unlimited Trials](https://rentry.co/mbforever)
-
-[Emsisoft Emergency Kit](https://www.emsisoft.com/en/home/emergencykit/), [EsetKeyRobot](https://t.me/EsetKeyRobot)
 
 ***
 
@@ -282,23 +257,6 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://70.88.180.169:8
 ### Calibre Tools
 
 [ACSM Plugin](https://github.com/Leseratte10/acsm-calibre-plugin) / [Libre Plugin](https://github.com/poochinski9/libgen-calibre-store-plugin) / [Scraper](https://github.com/gnur/demeter)
-
-***
-
-## ChatGPT Extensions
-
-* [ChatGPTBox](https://github.com/josStorer/chatGPTBox), [ChatGPT Apps](https://github.com/adamlui/chatgpt-apps), [KeepChatGPT](https://github.com/xcanwin/KeepChatGPT/blob/main/docs/README_EN.md), [Harpa](https://harpa.ai/), [Merlin](https://merlin.foyer.work/) / [Unlimited](https://rentry.co/MerlinAI-Unlim), [Glimpse](https://glimpse.surf/)
-
-***
-
-## ChromeOS Tools
-
-* [Brunch](https://github.com/sebanc/brunch) - ChromeOS Installer
-* [MrChromeBox](https://mrchromebox.tech/), [ArnoldTheBat](https://chromium.arnoldthebat.co.uk/), [ChromeOS Flex](https://chromeenterprise.google/os/chromeosflex/) / [Guide](https://support.google.com/chromeosflex/answer/11552529?hl=en), [FydeOS](https://fydeos.io/download) or [WayneOS](https://wayne-os.com/) - ChromeOS Based OS
-* [Chromebrew](https://github.com/chromebrew/chromebrew) - Package Manager for ChromeOS
-* [Chrome100](https://chrome100.dev/) - ChromeOS Recovery Images
-* [Sh1mmer](https://sh1mmer.me/) - Unenroll Enterprise-Managed Chromebooks
-* [Crouton](https://github.com/dnschneid/crouton) - Chromebook Linux OS
 
 ***
 
@@ -423,15 +381,6 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://70.88.180.169:8
 * ⭐ **[Design Resources](https://rentry.co/dt92f)**
 
 [design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers), [Freebies.ByPeople](https://freebies.bypeople.com/), [IM Creator](https://www.imcreator.com/free), [Design Bundles](https://designbundles.net/free-design-resources), [Design Resources](https://designresourc.es/), [PSDDD.co](https://psddd.co/), [GraphicBurger](https://graphicburger.com/), [GraphicsFuel](https://www.graphicsfuel.com/), [Pixeden](https://www.pixeden.com/), [Sketch Repo](https://sketchrepo.com/), [Interfacer](https://interfacer.xyz/), [Freebiesbug](https://freebiesbug.com/), [Sketch App Sources](https://www.sketchappsources.com/), [FreebiesUI](https://freebiesui.com/), [Envato Elements Collection](https://github.com/nbats/FMHYedit/blob/main/base64.md#envato-elements-collection), [Creative Fabrica](https://www.creativefabrica.com/freebies/), [Toools.design](https://www.toools.design/), [Evernote.Design](https://www.evernote.design/), [GFXTRA](https://www.gfxtra31.com/), [XSGames](https://xsgames.co/devassets/), [design.dev](https://design.dev/), [UI STORE DESIGN](https://www.uistore.design/), [Charco](https://www.charco.design/), [Craftwork](https://craftwork.design/downloads/category/freebies/), [Pixelbuddha](https://pixelbuddha.net/), [squax](https://t.me/squaxassets), [𝖌𝖗𝖕𝖍𝖈 𝖉𝖘𝖌𝖓 𝖇𝖆𝖈𝖐𝖚𝖕](https://t.me/designlabb), [all 4 designer](https://t.me/all4designer), [Kropes Leaking Server](https://discord.gg/bMmqQdXAhp), [Gift4Designer](https://gift4designer.net/), [GFXMountain](https://gfxmountain.com/), [Buckets Of Bookmarks](https://buckets-of-bookmarks.daniebeler.com/), [degreeless](https://www.degreeless.design/)
-
-***
-
-## Dev YouTube Channels
-
-* ⭐ **[Awesome YouTubers](https://github.com/JoseDeFreitas/awesome-youtubers)**
-* ⭐ **[Frontend Developers](https://github.com/andrew--r/channels)** - JavaScript Development
-
-[Awesome-Youtube-Channels](https://github.com/epoyraz/Awesome-Youtube-Channels), [Web Dev / Programming YouTube Channels](https://rentry.co/cozqr), [Bro Code](https://www.youtube.com/@BroCodez), [Hitesh Choudhary](https://www.youtube.com/@HiteshChoudharydotcom), [Awesome YouTube Channels](https://github.com/benthecoder/yt-channels-DS-AI-ML-CS)
 
 ***
 
@@ -588,14 +537,6 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://70.88.180.169:8
 
 ***
 
-## F2P Games
-
-⭐ **[FreeToGame](https://www.freetogame.com/games)**
-
-[Free Game Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25BA_free_stuff), [Acid Play](https://acid-play.com/), [/v/'s recommended games wiki](https://vsrecommendedgames.fandom.com/wiki/Freeware_Games)
-
-***
-
 ## Fun Indexes
 
 [Neal.fun](https://neal.fun/), [AIDN](https://aidn.jp/), [Neave](https://codepen.io/neave) / [2](https://neave.com/), [BoredHumans](https://boredhumans.com/), [puissant](https://sandwichpuissant.net/), [ThisIsMyWebsiteNow](https://www.thisismywebsitenow.com/), [Mr.doob](https://mrdoob.com/), [Bimble Space](https://in.bimble.space/toys), [Creative Tech Guy](https://creativetechguy.com/), [Just For Fun](https://justforfun.io/), [Andrew Marsh](https://andrewmarsh.com/software), [JenniferDewalt](https://jenniferdewalt.com/), [Chrome Experiments](https://experiments.withgoogle.com/collection/chrome), [0x2a](https://0x2a.re/), [yezi](https://yezi.itch.io/), [topster](https://topster.net/), [p5aholic](https://experiments.p5aholic.me/), [vole.wtf](https://vole.wtf/), [WilliamHoza](https://williamhoza.com/misc/), [Rinkworks](http://www.rinkworks.com/), [Orteil](https://orteil.dashnet.org/), [funwebsite](https://funwebsite.fun/)
@@ -685,12 +626,6 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://70.88.180.169:8
 
 ***
 
-## Nutrition / Ingredients
-
-[FoodStruct](https://foodstruct.com/), [OpenFoodFacts](https://world.openfoodfacts.org/) / [Scanner](https://play.google.com/store/apps/details?id=org.openfoodfacts.scanner), [Tellspecopedia](http://www.tellspecopedia.com/), [Nutritionix](https://www.nutritionix.com/), [Soosee](https://play.google.com/store/apps/details?id=com.goodsnooze.soosee), [Yuka](https://play.google.com/store/apps/details?id=io.yuka.android)
-
-***
-
 ## FMovies Clones
 
 * [FlixHQ](https://flixhq.ru/), [2](https://flixhq.pro/)
@@ -704,15 +639,6 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://70.88.180.169:8
 * [yesmovies.at](https://yesmovies.at)
 * [FlixWave](https://flixwave.to/)
 * [0123movie](https://0123movie.onl/)
-
-***
-
-## Game Download CSE
-
-* ⭐ **[Game Download CSE](https://cse.google.com/cse?cx=006516753008110874046:cbjowp5sdqg)**
-* ⭐ **[Rezi Search](https://rezi.one/)**
-* [Rave Search](https://idleendeavor.github.io/gamesearch/) / [2](https://ravegamesearch.pages.dev/)
-* [/r/PiratedGames CSE](https://cse.google.com/cse?cx=20c2a3e5f702049aa)
 
 ***
 
@@ -804,12 +730,6 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://70.88.180.169:8
 
 ***
 
-## Google Drive Search
-
-[Movies](https://databasegdriveplayer.co/movie.php), [TV](https://databasegdriveplayer.co/series.php), [Anime](https://databasegdriveplayer.co/anime.php), [KDrama](https://databasegdriveplayer.co/drama.php)
-
-***
-
 ## Google Piracy Discussion Groups
 
 * https://techy-transistor.notion.site/Team-drives-ab7ebffc1e5040b5b5362e9d70fca4d5
@@ -831,18 +751,6 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://70.88.180.169:8
 ⭐ **[JamanNetwork](https://jamanetwork.com/)**
 
 [medicinenet](https://www.medicinenet.com/), [medpagetoday](https://www.medpagetoday.com/), [everydayhealth](https://www.everydayhealth.com/), [medscape](https://www.medscape.com/), [healthline](https://www.healthline.com/), [webmd](https://www.webmd.com/)
-
-***
-
-## Hide YouTube Shorts
-
-### Extensions
-
-[shorts-deflector](https://github.com/attituding/shorts-deflector), [Remove YouTube Shorts](https://github.com/raven0230/Remove-Youtube-Shorts), [youtube-shorts-block](https://github.com/doma-itachi/Youtube-shorts-block)
-
-### Scripts
-
-[yt-anti-shorts](https://github.com/YukisCoffee/yt-anti-shorts), [youtube-shorts](https://letsblock.it/filters/youtube-shorts)
 
 ***
 
@@ -962,30 +870,6 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://70.88.180.169:8
 * ⭐ **[Cryptee](https://crypt.ee/)** - Encrypted Image Gallery
 
 [CloudImage](https://www.cloudimage.io/), [tiny.pictures](https://tiny.pictures/), [RawTherapee](https://www.rawtherapee.com/), [picturama](https://picturama.github.io/), [Piwigo](https://piwigo.org/), [Photonix](https://photonix.org/), [PiGallery2](https://bpatrik.github.io/pigallery2/), [Immich](https://github.com/immich-app/immich), [narrative](https://narrative.so/), [ImageWorsener](https://entropymine.com/imageworsener/), [G'MIC](https://gmic.eu/)
-
-***
-
-## Interactive Math Sites
-
-* ⭐ **[AoPS Alcumus](https://artofproblemsolving.com/alcumus)**
-
-[Cut The Knot](https://www.cut-the-knot.org/), [Mathlets](https://mathlets.org/), [GeoGebra](https://www.geogebra.org/), [Mathspad](https://www.mathspad.co.uk/resources.php?interactives=1)
-
-***
-
-## IP / DNS Leak Tests
-
-### IP Leak Tests
-
-[BrowserLeaks](https://browserleaks.com/), [Astrill](https://rentry.co/astrill), [Comparitech](https://www.comparitech.com/privacy-security-tools/dns-leak-test/), [Do I leak?](https://www.top10vpn.com/tools/do-i-leak/), [IPLeak](https://ipleak.org/) / [2](https://ipleak.com/) / [3](https://ipleak.net)
-
-### DNS Leak Tests
-
-[DNS Leak Test](https://www.dnsleaktest.com/), [Bash DNS Test](https://bash.ws/dnsleak), [DNS Check](https://dnscheck.tools)
-
-### WebRTC Leak Tests
-
-[Voidsec](https://ip.voidsec.com/), [WebRTC Leak Test](https://www.expressvpn.com/webrtc-leak-test)
 
 ***
 
@@ -1468,12 +1352,6 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://70.88.180.169:8
 
 ***
 
-## Reddit Streams
-
-[NFL](https://www.nflbite.com/), [NHL](https://nhlbite.com/), [MLB](https://mlbshow.com/), [F1](https://live1.formula1stream.cc/), [MMA](https://tonight.mmastreams.cc/), [Soccer](https://www1.footybite.cc/)
-
-***
-
 ## Remove Vocals
 
 * ⭐ **[mvsep](https://mvsep.com/)**
@@ -1673,12 +1551,6 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://70.88.180.169:8
 
 ***
 
-## Sports Streaming
-
-[NFL](https://nflstreams.me/), [NBA](https://nbabox.tv/), [MLB](https://mlbstreams.me/), [NHL](https://nhlstreams.me/), [UFC](https://mmastreams.me/ufc-streams), [Tennis](https://live.tennisstreams.me/), [Football](https://socceronline.me/), [Rugby](https://rugbystreams.me/), [F1](https://f1box.me/), [MotoGP](https://motogpstream.me/), [Golf](https://golfstreams.me/), [Darts](https://dartsstreams.com/), [Cricket](https://watch.cricstream.me/), [Boxing](https://boxingstream.ai/)
-
-***
-
 ## Spotify Tools
 
 [Lyrics](https://versefy.app/) / [Spotify Companion](https://spotifytools.romanello.xyz/) / [Playlist Randomizer](https://stevenaleong.com/tools/spotifyplaylistrandomizer) / [Playlist Transfer](http://trikatuka.aknakn.eu/) / [Playlist Manager](https://skiley.net/) / [Playlist Converter](https://www.spotlistr.com/) / [Apple Music Playlist Converter](https://playlistor.io/) / [Playlist Words](https://spotifycloud.zamar-roura.com/) / [Dedup](https://spotify-dedup.com/) / [Backup](http://www.spotmybackup.com/), [2](https://github.com/watsonbox/exportify) / [Library Size](https://opslagify.deruever.nl/) / [Listening Stats](https://www.statsforspotify.com/), [2](https://volt.fm/), [3](https://spotistats.app/), [4](https://github.com/Yooooomi/your_spotify) / [Tier Lists](https://davitg.com/projects/tierify/) / [Song Country Search](https://kira.vercel.app/) / [Account Gen](https://github.com/HamzaAnis/go-spotify-account-generator), [2](https://github.com/davide-acanfora/spotify-account-generator), [3](https://github.com/ALIILAPRO/spotify-account-creator) / [Export Tracks as Deezer Playlists](https://github.com/XDGFX/spotr) / [GitHub Display](https://github.com/kittinan/spotify-github-profile)
@@ -1764,15 +1636,6 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://70.88.180.169:8
 * [PrepperCollective](https://t.me/PrepperCollective) / [Index](https://t.me/PrepperCollectiveIndex)
 
 [OffGridDownload](https://t.me/offgriddownload), [ExploreMarMaris](http://www.exploremarmaris.com/read/Survival/), [/r/PrepperFileShare](https://reddit.com/r/PrepperFileShare), [The Preparedness Encyclopedia](https://redd.it/muc9ff)
-
-***
-
-## Switch Homebrew Discord Servers
-
-* https://discord.gg/switchway
-* https://discord.gg/EZMAupDvWE
-* https://discord.gg/tuT59S2zcv
-* https://discord.gg/VAadvt9KFH
 
 ***
 
@@ -1985,14 +1848,6 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://70.88.180.169:8
 
 ***
 
-## Tracker Lists
-
-* ⭐ **[ngosang](https://ngosang.github.io/trackerslist/)** / [2](https://ngosang.github.io/trackerslist/trackers_all.txt)
-
-[trackerslist](https://trackerslist.com/) / [2](https://github.com/XIU2/TrackersListCollection), [fossbytes list](https://fossbytes.com/torrent-trackers-list/), [NewTrackOn](https://newtrackon.com/list)
-
-***
-
 ## Typing Lessons
 
 * ⭐ **[Monkey Type](https://monkeytype.com/)** - Customizable Typing Tests
@@ -2196,7 +2051,3 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://70.88.180.169:8
 [YTMDesktop](https://ytmdesktop.app/) / [3](https://github.com/Venipa/ytmdesktop2), [Youtube-Music](https://th-ch.github.io/youtube-music/) / [2](https://github.com/th-ch/youtube-music), [mps-youtube](https://github.com/mps-youtube/yewtube), [Headset](https://headsetapp.co)
 
 ***
-
-## YT Enhancement
-
-[ImprovedTube](https://improvedtube.com/), [Nova YouTube](https://greasyfork.org/en/scripts/433360), [Magic Actions](https://www.chromeactions.com/)

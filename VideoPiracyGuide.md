@@ -410,8 +410,6 @@
 ## ▷ Live TV / Sports 
 
 * ↪️ **[IPTV Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_iptv_tools)** or [Awesome IPTV](https://github.com/iptv-org/awesome-iptv) - IPTV Resources / [Players](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_m3u_players) / [Playlists](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_iptv_playlists) / [Search](https://www.foodieguide.com/iptvsearch/)
-* ↪️ **[Reddit Streams](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_reddit_streams)** - Sports
-* ↪️ **[Sports Streams](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_sports_streaming)** - Sports
 * ⭐ **[Sportsurge](https://sportsurge.net/)**- Sports / Stream Locator
 * ⭐ **[EasyWebTV](https://zhangboheng.github.io/Easy-Web-TV-M3u8/routes/countries.html)** - TV / Sports
 * ⭐ **[watch.lonelil](https://watch.lonelil.com/tv)** - TV / Sports / [Discord](https://discord.com/invite/BKts6Jb5sA)
@@ -481,18 +479,36 @@
 * [TotalSportek](https://totalsportek.pro/), [2](https://www.totalsportek.to/) - Sports
 * [Rojadirecta](https://www.rojadirecta.direct/) - Sports
 * [BoxingStreams100](https://boxings.boxingstreams100.com/) - Boxing
+* [Boxing Stream](https://boxingstream.ai/) - Boxing
 * [/r/WWEstreams/](https://www.reddit.com/r/WWEstreams/) - Wrestling
+* [UFC MMA Streams](https://mmastreams.me/ufc-streams) - UFC
+* [MMA Streams](https://tonight.mmastreams.cc/) - MMA
+* [LaCasadelTikiTaka](https://www.lacasadeltikitaka.net/) - Soccer / MMA
+* [Football](https://socceronline.me/) - Soccer
+* [Footybite](https://www1.footybite.cc/) - Soccer
 * [NBA Streams](https://nbabox.tv/) - NBA
 * [NFL Streams](https://nflstreams.me/) - NFL
+* [NFLbite](https://www.nflbite.com/) - NFL
 * [MLB66](https://mlb66.ir/) - MLB
 * [/r/MLBStreams](https://www.reddit.com/r/MLBStreams/) - MLB
-* [LaCasadelTikiTaka](https://www.lacasadeltikitaka.net/) - Soccer / MMA
+* [MLB Streams](https://mlbstreams.me/) - MLB
+* [MLBshows](https://mlbshow.com/) - MLB
 * [Aceztrims](https://aceztrims.pages.dev/) - Motorsports
+* [MotoGP](https://motogpstream.me/) - Motorsports
 * [DD12](https://dd12streams.com/) - Nascar
+* [F1Box](https://f1box.me/) - F1
+* [Formula 1 Streams](https://live1.formula1stream.cc/) - F1
 * [NHLstream](https://nhlstream.net/) - NHL
 * [NHL66](https://nhl66.ir/) - NHL
+* [NHLBox Streams](https://nhlstreams.me/) - NHL
+* [NHLbite](https://nhlbite.com/) - NHL
 * [/r/rugbystreams](https://www.reddit.com/r/rugbystreams/) - Rugby
+* [Rugby Streams](https://rugbystreams.me/) - Rugby 
 * [PakCric](https://pakcric.net/) - Cricket
+* [Cricket Streams](https://watch.cricstream.me/) - Cricket
+* [Tennis Streams](https://live.tennisstreams.me/) - Tennis
+* [Golf Streams](https://golfstreams.me/) - Golf
+* [Darts Streams](https://dartsstreams.com/) - Darts
 * [TV.Jest](https://tv.jest.one/) - News 
 * [SHOWROOM](https://showroom-live.com/) - Live Performance Broadcasts
 * [KCNA](https://kcnawatch.us/korea-central-tv-livestream) - North Korean Live TV 
@@ -502,7 +518,6 @@
 
 ## ▷ Smart TV / Firestick
 
-* ↪️ **[Smart IPTV Players](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_android_tv_iptv_players)**
 * ⭐ **[Smart TV Guide](https://redd.it/xa0aya)** - Smart TV Piracy Guide
 * ⭐ **[Android TV Guide](https://www.androidtv-guide.com/)** - Android TV Piracy Guide / [Spreadsheet](https://docs.google.com/spreadsheets/d/1kdnHLt673EjoAJisOal2uIpcmVS2Defbgk1ntWRLY3E/)
 * ⭐ **[Firestick Tricks](https://www.firesticktricks.com/)** - Firestick Jailbreak Guide / [Loader](https://github.com/esc0rtd3w/firestick-loader)
@@ -638,7 +653,6 @@
 ***
 
 * 🌐 **[The Index DDL](https://theindex.moe/collection/ddl-communities)** - Anime DDL Sites / [Discord](https://discord.gg/Snackbox) / [Wiki](https://thewiki.moe/)
-* ↪️ **[Anime Download Apps](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_anime_download_apps)**
 * ↪️ **[Telegram Anime Downloads](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_telegram_anime_downloads)**
 * ⭐ **[Tokyo Insider](https://www.tokyoinsider.com/)** - Sub / Dub
 * ⭐ **[AnimeOut](https://www.animeout.xyz/)** - Sub / [Discord](https://discord.com/invite/yDURwdC)
@@ -647,6 +661,7 @@
 * ⭐ **[Anime Senpai4U](https://www.animesenpai4u.com/)** - Sub / Dub
 * ⭐ **[Kayoanime](https://kayoanime.com/)** - Sub / Dub / [Telegram](https://t.me/AnimeKayo)
 * ⭐ **[Anime Download CSE](https://cse.google.com/cse?cx=006516753008110874046:osnah6w0yw8)**
+* ⭐ **[HakuNeko](https://hakuneko.download/) / [Github](https://github.com/manga-download/hakuneko)** - Anime Download App
 * [Anime-Sharing](https://www.anime-sharing.com/) - Sub / Dub / Anime / Manga Download Forum
 * [AniMK](https://animk.info/xdcc-list/) - Sub / Dub / XDCC
 * [Anime2Enjoy](https://www.anime2enjoy.com/) - Sub / [Discord](https://discord.gg/PxSmumS)
@@ -661,7 +676,10 @@
 * [CartoonsArea](https://www.cartoonsarea.xyz/) - Sub / Dub
 * [nibl](https://nibl.co.uk/) - Sub / Dub / XDCC / [Discord](https://discord.com/invite/bUESsAg)
 * [Bubble' Upscale Project](https://discord.gg/7kqqtJ7ArW) - Upscaled Anime / Requests
-* [Crunchyroll Downloader](https://github.com/hama3254/Crunchyroll-Downloader-v3.0) - Non-Prem Crunchyroll Downloaders 
+* [Crunchyroll Downloader](https://github.com/hama3254/Crunchyroll-Downloader-v3.0) - Non-Prem Crunchyroll Downloaders
+* [anime-dl](https://github.com/gabelluardo/anime-dl) / [Frontend](https://github.com/vrienstudios/anime-dl) or [anigrab](https://github.com/ngomile/anigrab) - Anime CLI Downloaders
+* [animdl](https://github.com/justfoolingaround/animdl) / [Wrapper](https://github.com/RaitaroH/adl) - Anime Scraper
+
 
 ***
 
@@ -761,7 +779,7 @@
 # ► Tracking / Discovery
 
 * 🌐 **[Movie Recs](https://rentry.co/MovieRecs)** - Movie Recommendation Sites / Tools
-* ⭐ **[FlixMetrix](https://flickmetrix.com/)** - Combines IMDb, Rotten Tomatoes & Letterboxd ratings
+* ⭐ **[FlixMetrix](https://flickmetrix.com/)** - Combine IMDb, Rotten Tomatoes & Letterboxd Ratings
 * ⭐ **[Trakt](https://trakt.tv/)** - TV / Anime / Movies
 * ⭐ **Trakt Tools** - [Apps](https://trakt.tv/apps) / [Universal Scrobble](https://github.com/trakt-tools/universal-trakt-scrobbler) / [Duplicate Remover](https://huere.net/trakt/duplicate_removal/) / [Create Lists](https://listrr.pro/)
 * ⭐ **[Letterboxd](https://letterboxd.com/)** - Movies
