@@ -105,7 +105,7 @@
 
 * ⭐ **[MiXplorer](https://mixplorer.com/)**, [2](https://forum.xda-developers.com/t/app-2-2-mixplorer-v6-x-released-fully-featured-file-manager.1523691/) - [Themes](https://play.google.com/store/apps/details?id=de.dertyp7214.mixplorerthemecreator)
 
-[rcx](https://x0b.github.io/), [Amaze File Manager](https://teamamaze.xyz/), [Simple File Manager](https://play.google.com/store/apps/details?id=com.simplemobiletools.filemanager), [Ghost Commander](https://sourceforge.net/projects/ghostcommander/), [Material Files](https://github.com/zhanghai/MaterialFiles), [ES File Explorer](https://archive.org/details/es-file-explorergood-version), [Cx File Explorer](https://play.google.com/store/apps/details?id=com.cxinventor.file.explorer), [IrkFM](https://github.com/lfuelling/lrkFM), [SD Maid SE](https://github.com/d4rken-org/sdmaid-se), [Pixel Search](https://play.google.com/store/apps/details?id=rk.android.app.pixelsearch)
+[rcx](https://x0b.github.io/), [Amaze File Manager](https://teamamaze.xyz/), [Ghost Commander](https://sourceforge.net/projects/ghostcommander/), [Material Files](https://github.com/zhanghai/MaterialFiles), [ES File Explorer](https://archive.org/details/es-file-explorergood-version), [Cx File Explorer](https://play.google.com/store/apps/details?id=com.cxinventor.file.explorer), [IrkFM](https://github.com/lfuelling/lrkFM), [SD Maid SE](https://github.com/d4rken-org/sdmaid-se), [Pixel Search](https://play.google.com/store/apps/details?id=rk.android.app.pixelsearch)
 
 ***
 
@@ -1979,7 +1979,7 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://70.88.180.169:8
 
 ## Windows 10 Antispy Tools
 
-[Privatezilla](https://github.com/builtbybel/privatezilla), [ShutUp10](https://www.oo-software.com/en/shutup10), [Blackbird](https://www.getblackbird.net/), [W10Privacy](https://www.w10privacy.de/english-home/), [WPD](https://wpd.app/), [PrivateWin10](https://github.com/DavidXanatos/priv10), [Manage connection endpoints](https://learn.microsoft.com/en-us/windows/privacy/manage-windows-11-endpoints), [Manage Microsoft Services connection endpoints](https://learn.microsoft.com/en-us/windows/privacy/manage-connections-from-windows-operating-system-components-to-microsoft-services), [gp-pack PaT](https://www.gp-pack.com/gp-pack-pat-privacy-and-telemetry/), [WindowsSpyBlocker](https://github.com/crazy-max/WindowsSpyBlocker), [privacy.sexy](https://privacy.sexy/), [optimizer](https://github.com/hellzerg/optimizer), [purge_windows_10_telemetry](https://github.com/bmrf/tron/blob/master/resources/stage_4_repair/disable_windows_telemetry/purge_windows_10_telemetry.bat), [DisableWinTracking](https://github.com/bitlog2/DisableWinTracking), [private-secure-windows](https://github.com/troennes/private-secure-windows), [debotnet](https://github.com/builtbybel/debotnet)
+[Privatezilla](https://github.com/builtbybel/privatezilla), [ShutUp10](https://www.oo-software.com/en/shutup10), [W10Privacy](https://www.w10privacy.de/english-home/), [WPD](https://wpd.app/), [Manage connection endpoints](https://learn.microsoft.com/en-us/windows/privacy/manage-windows-11-endpoints), [Manage Microsoft Services connection endpoints](https://learn.microsoft.com/en-us/windows/privacy/manage-connections-from-windows-operating-system-components-to-microsoft-services), [gp-pack PaT](https://www.gp-pack.com/gp-pack-pat-privacy-and-telemetry/), [privacy.sexy](https://privacy.sexy/), [private-secure-windows](https://github.com/troennes/private-secure-windows)
 
 ***
 
@@ -2049,3 +2049,5 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://70.88.180.169:8
 ## YouTube Music Players
 
 [YTMDesktop](https://ytmdesktop.app/) / [3](https://github.com/Venipa/ytmdesktop2), [Youtube-Music](https://th-ch.github.io/youtube-music/) / [2](https://github.com/th-ch/youtube-music), [mps-youtube](https://github.com/mps-youtube/yewtube), [Headset](https://headsetapp.co)
+
+***
