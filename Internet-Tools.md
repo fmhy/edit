@@ -385,6 +385,7 @@
 * [TheFeedReaderBot](https://thefeedreaderbot.com/) or [NewsBoat](https://newsboat.org/) - Console RSS Readers
 * [WebFeed](https://taoshu.in/webfeed/turn-browser-into-feed-reader.html) or [tt-rss](https://tt-rss.org/) - Web RSS Readers
 * [FreshRSS](https://freshrss.org/) or [CommaFeed](https://www.commafeed.com/#/welcome) - Self-Hosted RSS Readers
+* [Inoreader](https://www.inoreader.com/) - RSS Reader
 * [Fluent Reader](https://hyliu.me/fluent-reader/) - RSS Reader
 * [NewsFlash](https://gitlab.com/news-flash/news_flash_gtk) - RSS Reader
 * [Miniflux](https://miniflux.app/) - RSS Reader
@@ -703,6 +704,7 @@
 * [Spoiled](https://lucasrowe.github.io/spoiled/) - Customizable Phrase / Spoiler Blocker
 * [Flip This](https://chrome.google.com/webstore/detail/flip-this/donljlliiecjcagcenoeohjmabfegkph?hl=en) - Rotate Page & HTML Elements
 * [adam:ONE Assistant](https://chrome.google.com/webstore/detail/adamone%C2%AE-assistant/fdmpekabnlekabjlimjkfmdjajnddgpc?hl=en) - Find Site Dependencies
+* [Check My Links](https://chromewebstore.google.com/detail/check-my-links/ojkcdipcgfaekbeaelaapakgnjflfglf)
 * [IPvFoo](https://github.com/pmarks-net/ipvfoo) - View Site IP Address
 * [Pip](https://www.getpip.com/pip-extension) - Web3 Payment Extension
 * [Fake Profile Detector](https://chrome.google.com/webstore/detail/fake-profile-detector-dee/jbpcgcnnhmjmajjkgdaogpgefbnokpcc) - Detect Fake Online Profiles
