@@ -377,7 +377,7 @@
 # ► Download 
 
 * ↪️ **[General DDL Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/download)**
-* ⭐ **[FapNationBot](https://discord.gg/d39hJGxwvX)** - Premium Porn Download Bot / [Free Bot](https://cutt.ly/4CnMP8x) / [Guide](https://rentry.co/seremfreeharem)
+* ⭐ **[FapNationBot](https://discord.gg/d39hJGxwvX)** - Premium Porn Download Bot / [Guide](https://rentry.co/seremfreeharem)
 * ⭐ **[SeaPorn](https://www.seaporn.org/)**
 * ⭐ **[0xxx](https://0xxx.ws/)**
 * [Search4Porn](https://search4porn.net/) - NSFW File Search
