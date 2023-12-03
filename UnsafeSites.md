@@ -69,8 +69,7 @@
 * AVG - Owned by Avast
 * Gen Digital / Norton - Owned by Avast
 * CCleaner - Owned by Avast, best to use built in win 11 tool or bleachbit
-* Private Internet Access - Owned by [malware distributor Kape](https://redd.it/q3lepv)
-* ExpressVPN / ZenMate / CyberGhost - Owned by [Kape](https://rentry.co/i8dwr)
+* Private Internet Access / ExpressVPN / ZenMate / CyberGhost - Owned by [malware distributor Kape](https://redd.it/q3lepv)
 * Acord (discord mod) - Has remote eval backdoor
 * BlueKik / Bluecord (chat mods) - History of [spam](https://redd.it/12h2v6n) / [spying](https://rentry.co/tvrnw)
 * Kik (messaging app) - App used by mostly [predators / scammers](https://youtu.be/9sPaJxRmIPc)
