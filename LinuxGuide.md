@@ -271,6 +271,8 @@
 * [Hardcode Tray](https://github.com/bilelmoussaoui/Hardcode-Tray) - Hardcoded Tray Icon Fix
 * [open-gpu-kernel-modules](https://github.com/NVIDIA/open-gpu-kernel-modules) - NVIDIA Linux Open GPU Kernel Module
 * [nosystemd](https://nosystemd.org/) - Alternatives to Systemd
+* [Pinn](https://github.com/procount/pinn) - Rasberry Pi OS Installer / [Resources](https://rpi.thibmaek.com/)
+* [Raspberry Pi 4 Bootloader USB Mass Storage Boot Guide](https://jamesachambers.com/new-raspberry-pi-4-bootloader-usb-network-boot-guide/) - How-to Boot Raspberry Pi from USB
 
 ***
 
@@ -458,6 +460,7 @@
 * [OpenCore](https://github.com/acidanthera/OpenCorePkg) - Mac Bootloader / [Config](https://mackie100projects.altervista.org/opencore-configurator/) / [Guide](https://dortania.github.io/OpenCore-Install-Guide/)
 * [PlayCover](https://github.com/PlayCover/PlayCover) - Run iOS Apps on Apple Silicon Macs
 * [OpenCore Legacy Patcher](https://github.com/dortania/OpenCore-Legacy-Patcher/) - Install New macOS on Unsupported Devices
+* [rEFind](https://www.rodsbooks.com/refind/) - Boot Manager
 * [Conky](https://github.com/brndnmtthws/conky) / [Colors](https://github.com/helmuthdu/conky_colors), [eul](https://github.com/gao-sun/eul), [zfxtop](https://github.com/ssleert/zfxtop) or [MacFetch](https://github.com/gantoreno/macfetch) - Hardware / System Monitors
 * [Hot](https://github.com/macmade/) - CPU Monitor
 * [TaskExplorer](https://objective-see.org/products/taskexplorer.html) - Task Manager / Viewer
