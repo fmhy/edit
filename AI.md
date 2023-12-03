@@ -105,6 +105,8 @@
 * [ChatGPT File Uploader](https://chrome.google.com/webstore/detail/chatgpt-file-uploader/oaogphgfdbdbmhkiplemgehihiiececj) - File Upload Extension
 * [ChatGPT Advanced](https://tools.zmo.ai/webchatgpt) - Add Search Results to ChatGPT
 * [SublimeGPT](https://chrome.google.com/webstore/detail/sublimegpt-chatgpt-everyw/eecockeebhenbihmkaamjlgoehkngjea), [DuckDuckGPT](https://github.com/kudoai/duckduckgpt) or [GPTGO](https://gptgo.ai/) - Add ChatGPT to Search Results
+* [ChatGPTBox](https://github.com/josStorer/chatGPTBox), [ChatGPT Apps](https://github.com/adamlui/chatgpt-apps), [KeepChatGPT](https://github.com/xcanwin/KeepChatGPT/blob/main/docs/README_EN.md) or [Merlin](https://merlin.foyer.work/) / [Unlimited](https://rentry.co/MerlinAI-Unlim) - ChatGPT Extensions
+* [Harpa](https://harpa.ai/) or [Glimpse](https://glimpse.surf/) - ChatGPT Chrome Extensions
 * [Andi](https://andisearch.com/) - AI Powered Search
 * [ShareGPT](https://sharegpt.com/) or [ChatGPT Exporter](https://greasyfork.org/en/scripts/456055) - Export Chats
 * [VizGPT](https://www.vizgpt.ai/) - Chat Data Visualization
