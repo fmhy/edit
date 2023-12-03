@@ -228,7 +228,6 @@
 
 * 🌐 **[Awesome Gnome](https://github.com/Kazhnuz/awesome-gnome)** - GNOME Resources
 * ↪️ **[Linux Distros](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_linux_distros)**
-* ↪️ **[ChromeOS Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_chromeos_tools)**
 * ⭐ **[Linux.Chat](https://discord.gg/linuxchat)**, [All Things Linux](https://discord.gg/allthingslinux), [Linux x Technology](https://linuxdiscord.com/), [Ezlinux](https://ezlinux.net/) or [Discord-Linux](https://discord.gg/discord-linux) - Linux Discussion / Forums
 * ⭐ **[Archwiki](https://wiki.archlinux.org/)** - Arch Linux Wiki / [Manuals](https://man.archlinux.org/) / [TUI](https://codeberg.org/theooo/mantra.py)
 * ⭐ **[Ventoy](https://github.com/ventoy/Ventoy)** - Create Bootable USB Linux Drives
