@@ -272,7 +272,7 @@
 * ⭐ **[KickResume](https://www.kickresume.com/en/help-center/resume-samples/)** or [ThisResumeDoesNotExist](https://thisresumedoesnotexist.com/) - Resume Samples
 * ⭐ **[Reverse Interview](https://github.com/viraptor/reverse-interview)** or [job-interview-questions](https://github.com/lkostrowski/job-interview-questions-to-ask-companies) - Questions to ask Potential Employers
 * ⭐ **[Kimai](https://www.kimai.org/)** - Working Hours Tracker
-* [Toby Tools](https://rentry.co/qnu6x) or [EuroJobs](https://eurojobs.com/) - Job Search Tools
+* [JobBoardSearch](https://jobboardsearch.com/), [CyberCoders](https://www.cybercoders.com/), [Wellfound](https://wellfound.com/jobs), [whoishiring](https://whoishiring.io/), [Toby Tools](https://rentry.co/qnu6x), [The Muse](https://www.themuse.com/search/)  or [EuroJobs](https://eurojobs.com/)  - Job Search
 * [50WaysToGetAJob](https://50waystogetajob.com/) - Interactive Job Search Guide
 * [10xJobs](https://10xjobs.net/) - Tech Job Search
 * [Arvrok](https://www.arvrok.com/) - Immersive Tech Job Search
@@ -291,6 +291,32 @@
 * [JustLanded](https://www.justlanded.com/) - Working & Living Abroad Guides
 * [Nomad List](https://nomadlist.com/) - Remote Job Listings
 * [RemoteWide](https://remotewide.co/) - Remote Job Notifications
+* [TheRemoteFreelancer](https://github.com/engineerapart/TheRemoteFreelancer) - Remote Jobs Resources Index
+* [Jobspresso](https://jobspresso.co/) - Remote Jobs
+* [Remote Jobs](https://remotejobs.com/) - Remote Jobs
+* [himalayas](https://himalayas.app/) - Remote Jobs
+* [NoCummute](https://nocommute.substack.com/) - Remote Jobs 
+* [We Work Remotely](https://weworkremotely.com/) - Remote Jobs
+* [Remote OK](https://remoteok.com/) - Remote Jobs
+* [Dynamite Jobs](https://dynamitejobs.com/) - Remote Jobs
+* [Working Nomads](https://www.workingnomads.com/jobs) - Remote Jobs
+* [Remotive](https://remotive.com/) - Remote Jobs
+* [DailyRemote](https://dailyremote.com/) - Remote Jobs 
+* [HireBasis](https://www.hirebasis.com/) - Remote Jobs
+* [Remote Work Junkie](https://jobs.remoteworkjunkie.com/) - Remote Jobs
+* [Dev Employ](https://devemploy.com/) - Developer Jobs
+* [Authentic Jobs](https://authenticjobs.com/) - Dev/Design Jobs
+* [Python Job Board](https://www.python.org/jobs/) - Python Jobs
+[JS Remotely](https://jsremotely.com/) -  Remote Javascript Jobs
+[Space Crew](https://spacecrew.com/) - Space Jobs
+* [js chimp](https://jschimp.com/) - Javascript jobs. Create a profile, companies reach out
+* [RailsDevs](https://railsdevs.com/) - Rails Dev Jobs.  Create a profile, companies reach out
+* [Laradir](https://laradir.com/) - Laravel Jobs. Create a profile, companies reach out
+* [larajobs](https://larajobs.com/) - Laravel Jobs
+* [Golang Jobs](https://golangjob.xyz/) - Golang Jobs 
+* [key : values](https://www.keyvalues.com/) - find companies that match your values
+* [japandev](https://japan-dev.com/) - Software Dev Jobs in Japan (for overseas people as well)
+* [4 day week](https://4dayweek.io/) - Jobs with 4 day weeks
 * [Side Hustle Stack](https://sidehustlestack.co/) - Find Platform Based Side Work
 * [web3.career](https://web3.career/) or [FindWeb3](https://findweb3.com/) - Web3 Job Offers
 * [WhoPaysWriters](http://whopayswriters.com/) - Freelance Writing Publications
@@ -373,6 +399,7 @@
 * [WalletExplorer](https://www.walletexplorer.com/) or [OXT](https://oxt.me/) - Bitcoin Block Explorers
 * [Wasabi](https://wasabiwallet.io/) or [Shapeshift](https://app.shapeshift.com/) - FOSS Bitcoin Wallets
 * [Ivy Wallet](https://github.com/Ivy-Apps/ivy-wallet) - Money Management App
+* [Overemployed](https://overemployed.com/) - Discuss Overwork (in Minecraft) / [Subreddit](https://www.reddit.com/r/overemployed) / [Discord](https://discord.com/invite/a8VGhbZyek) 
 
 ***
 
