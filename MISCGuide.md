@@ -157,7 +157,6 @@
 * 🌐 **[/m/food](https://www.reddit.com/user/Siryonkee/m/food/)** - Food Multireddit
 * 🌐 **[50 Best Restaurants](https://www.theworlds50best.com/list/1-50)** or [MapOfTheBest](https://mapofthebest.com/) - Top Restaurant Lists
 * ↪️ **[General Recipe Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_general_recipes)**
-* ↪️ **[Food Nutrition Scanners](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_nutrition_.2F_ingredients)**
 * ↪️ **[Food Storage Tips](https://i.redd.it/qmcas4yuc2w81.png)** / [2](https://i.ibb.co/SKq3GT7/ca6f633c898b.png)
 * ↪️ **[YouTube Cooking Channels](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_cooking_youtube_channels)**
 * ⭐ **[Tandoor Recipes](https://docs.tandoor.dev/)**, [Whisk](https://whisk.com/), [Pestle](https://apps.apple.com/au/app/pestle-kitchen-recipe-manager/id1574776971) or [Spoonacular](https://spoonacular.com/food-api) - Recipe Managers
@@ -649,12 +648,12 @@
 
 ## ▷ Nutritional Health
 
-* ↪️ **[Food Nutrition Scanners](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_nutrition_.2F_ingredients)**
 * ⭐ **[/r/Nutrition](https://www.reddit.com/r/nutrition/)** - Nutrition Subreddit
 * ⭐ **[Caffeine Calculator](https://caffeineinformer.com/death-by-caffeine)** - Caffeine Intake Calculator
 * ⭐ **[Dehydration Chart](https://i.ibb.co/b3YxZzr/921f6c843cf0.png)** - Dehydration Color Chart
 * ⭐ **[BMI Chart](https://i.ibb.co/bL65m8F/995c00ec75ba.png)** - Healthy BMI Graph
 * ⭐ **[Standard BMI Calculator](https://www.nhlbi.nih.gov/health/educational/lose_wt/BMI/bmicalc.htm)** - BMI Calculator
+* ⭐ **[OpenFoodFacts](https://world.openfoodfacts.org/)** / [Scanner](https://play.google.com/store/apps/details?id=org.openfoodfacts.scanner)** - Food Database & Health Information
 * [NutritionFacts.org](https://nutritionfacts.org/) - Video Library for Latest Health-based Research
 * [The Nutrition Source](https://www.hsph.harvard.edu/nutritionsource/) - Harvard University Health Website
 * [Liquid Drink](https://play.google.com/store/apps/details?id=com.xpp.drink) - Liquid Intake Tracker
@@ -663,6 +662,10 @@
 * [Examine.com](https://examine.com/) - Supplement & Nutrition Analysis
 * [Cronometer](https://cronometer.com/), [Energize](https://codeberg.org/epinez/Energize/) or [Waistline](https://github.com/davidhealey/waistline) - Track Nutrition & Calories
 * [MyFoodData](https://www.myfooddata.com) - Food Nutrition Tools
+* [Nutritionix](https://www.nutritionix.com/) - Nutrition Tracker App
+* [FoodStruct](https://foodstruct.com/) - Food Encyclopedia & Comparison
+* [Tellspecopedia](http://www.tellspecopedia.com/) - Find Healthy Food
+* [Soosee](https://play.google.com/store/apps/details?id=com.goodsnooze.soosee) or [Yuka](https://play.google.com/store/apps/details?id=io.yuka.android) - Scan Ingredient Lists
 * [Food-E App](https://github.com/SuhasDissa/Food-E-App) - Food Additives Database App
 * [Child Nutrition](https://www.coursera.org/learn/childnutrition) - Child Nutrition / Cooking Course 
 * [Kids Health](https://www.kidshealth.org/) - Kids Health Information
