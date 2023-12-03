@@ -350,7 +350,7 @@
 * [Invidious Redirect](https://addons.mozilla.org/en-US/firefox/addon/hooktube-redirect/?src=search) - YouTube Frontend Redirect
 * [Nitter](https://nitter.net/) - Twitter Frontend / [Manage Feeds](https://github.com/pluja/Feetter)
 * [Photon](https://photon-reddit.com/) - Reddit Frontend
-* [Proxigram](https://codeberg.org/ThePenguinDev/Proxigram) / [Imginn](https://imginn.com) - Instagram Frontends
+* [Proxigram](https://codeberg.org/ThePenguinDev/Proxigram) or [Imginn](https://imginn.com) - Instagram Frontends
 * [Proxitok](https://github.com/pablouser1/ProxiTok) or [TikNot](https://tiknot.netlify.app/) - Tiktok Frontends
 * [Tumlook](https://www.tumlook.com/) - Tumblr Frontend
 * [MikuInvidious](https://0xacab.org/johnxina/mikuinvidious) - BiliBili Frontend
