@@ -343,7 +343,7 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://70.88.180.169:8
 
 * ⭐ **[supercolorpalette](https://supercolorpalette.com/)**
 
-[SchemeColor](https://www.schemecolor.com/), [ColorSpace](https://mycolor.space/), [Adobe Color](https://color.adobe.com/), [0to255](https://0to255.com/), [Bootflat](https://bootflat.github.io/color-picker.html), [BrandColors](https://brandcolors.net/), [colorful gradients](https://colorfulgradients.tumblr.com/), [COLOURlovers](https://www.colourlovers.com/), [CoolHue](https://webkul.github.io/coolhue/), [Flat UI Colors 2](https://flatuicolors.com/), [Material UI](https://materialui.co/colors/), [Color Hunt](https://colorhunt.co/), [ColorsWall](https://colorswall.com/), [Pigment](https://pigment.shapefactory.co/), [Image to Color Palette Generator](https://www.patorjk.com/color-palette-generator/), [ColourCode](https://www.toptal.com/designers/colourcode/), [Colorscales](https://www.colorscales.com/en/start), [colors.lol](https://colors.lol/), [Color Palette Generator](https://www.degraeve.com/color-palette), [ColorBox](https://colorbox.io/), [Eva Design System](https://colors.eva.design/), [Scale](https://hihayk.github.io/scale/), [calcolor.co](https://calcolor.co/), [Color Lisa](https://colorlisa.com/), [Cohesive Colors](https://javier.xyz/cohesive-colors/), [Color Leap](https://colorleap.app/), [ColorHuddle](https://colorhuddle.co/), [Coolors](https://coolors.co/), [UI Colors](https://uicolors.app/create), [Randoma11y](https://randoma11y.com/), [Pywal](https://github.com/dylanaraps/pywal), [ColorKit](https://colorkit.co/color-palette-generator/), [Huemint](https://huemint.com/), [accessiblepalette](https://accessiblepalette.com/), [colorcolor](https://colorcolor.in/), [copypalette](https://copypalette.app/), [couleur.io](https://couleur.io/), [poolors](https://poolors.com/), [easycolour](https://easycolour.app/), [goodpalette](https://goodpalette.io/), [hue.tools](https://hue.tools/), [huey](https://huey.design/), [Schemist](https://schemist.fglt.fr/), [aicolors](https://aicolors.co/), [palettemaker](https://palettemaker.com/), [Branding Colors](https://brandingcolors.net/)
+[SchemeColor](https://www.schemecolor.com/), [ColorSpace](https://mycolor.space/), [Adobe Color](https://color.adobe.com/), [0to255](https://0to255.com/), [Bootflat](https://bootflat.github.io/color-picker.html), [BrandColors](https://brandcolors.net/), [colorful gradients](https://colorfulgradients.tumblr.com/), [COLOURlovers](https://www.colourlovers.com/), [CoolHue](https://webkul.github.io/coolhue/), [Flat UI Colors 2](https://flatuicolors.com/), [Material UI](https://materialui.co/colors/), [Color Hunt](https://colorhunt.co/), [ColorsWall](https://colorswall.com/), [Pigment](https://pigment.shapefactory.co/), [Image to Color Palette Generator](https://www.patorjk.com/color-palette-generator/), [ColourCode](https://www.toptal.com/designers/colourcode/), [Colorscales](https://www.colorscales.com/en/start), [colors.lol](https://colors.lol/), [Color Palette Generator](https://www.degraeve.com/color-palette), [ColorBox](https://colorbox.io/), [Eva Design System](https://colors.eva.design/), [Scale](https://hihayk.github.io/scale/), [calcolor.co](https://calcolor.co/), [Color Lisa](https://colorlisa.com/), [Cohesive Colors](https://javier.xyz/cohesive-colors/), [Color Leap](https://colorleap.app/), [ColorHuddle](https://colorhuddle.co/), [Coolors](https://coolors.co/), [UI Colors](https://uicolors.app/create), [Randoma11y](https://randoma11y.com/), [Pywal](https://github.com/dylanaraps/pywal), [ColorKit](https://colorkit.co/color-palette-generator/), [Huemint](https://huemint.com/), [accessiblepalette](https://accessiblepalette.com/), [colorcolor](https://colorcolor.in/), [copypalette](https://copypalette.app/), [couleur.io](https://couleur.io/), [poolors](https://poolors.com/), [easycolour](https://easycolour.app/), [goodpalette](https://goodpalette.io/), [hue.tools](https://hue.tools/), [huey](https://huey.design/), [Schemist](https://schemist.fglt.fr/), [aicolors](https://aicolors.co/), [palettemaker](https://palettemaker.com/), [Branding Colors](https://brandingcolors.net/), [colorffy](https://colorffy.com/)
 
 ***
 
@@ -855,7 +855,7 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://70.88.180.169:8
 * ⭐ **[Alphacoders Avatars](https://avatars.alphacoders.com/)** - PFP Icons / GIFs
 * [IconPacks](https://www.iconpacks.net/), [ant.design](https://ant.design/components/icon/), [teenyicons](https://teenyicons.com/), [iconify](https://iconify.design/), [svgmix](https://svgmix.com/), [Iconbuddy](https://iconbuddy.app/) - SVG / PNG Icons
 * [IconArchive](https://iconarchive.com/), [IconDuck](https://iconduck.com/), [icon icons](https://icon-icons.com/), [icons-for-free](https://icons-for-free.com/), [Streamline](https://www.streamlinehq.com/), [dryicons](https://dryicons.com/), [icones](https://icones.js.org/) - Icon Packs
-* [flexiple](https://flexiple.com/illustrations/) - Vector Illustrations
+* [flexiple](https://flexiple.com/illustrations/) or [IconHunt](https://www.iconhunt.site/) - Vector Icons
 * [VecteezyDownloader](https://vecteezy-downloader.beatsnoop.com/) - Vecteezy Downloader
 * [RealFaviconGenerator](https://realfavicongenerator.net/) - Favicon Generator
 * [GrommetIcons](https://icons.grommet.io/) - SVG Icons for React
@@ -1161,7 +1161,7 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://70.88.180.169:8
 ## Minecraft Optimization Mods
 
 * ⭐ **[Fabulously Optimised](https://github.com/Fabulously-Optimized/fabulously-optimized)**
-* [Sodium](https://modrinth.com/mod/sodium) / [Indium](https://github.com/comp500/Indium/) / [Extra](https://modrinth.com/mod/sodium-extra)
+* [Sodium](https://modrinth.com/mod/sodium) / [Indium](https://github.com/comp500/Indium/) / [Extra](https://modrinth.com/mod/sodium-extra) / [Nvidia Rendering](https://github.com/MCRcortex/nvidium)
 
 [OptiFine](https://optifine.net/), [Phosphor](https://modrinth.com/mod/phosphor), [Ferrite Core](https://modrinth.com/mod/ferrite-core), [Caffeine](https://github.com/CaffeineMC), [Lithium](https://modrinth.com/mod/lithium), [Ares](https://www.aresclient.com/), [MinecraftTweaker](https://minecrafttweaker.net/), [VulkanMod](https://github.com/xCollateral/VulkanMod)
 
@@ -1209,7 +1209,8 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://70.88.180.169:8
 
 ## Multiplayer Fixes
 
-⭐ **[Online Fix](https://online-fix.me/)** / [Discord](https://discord.gg/yExgFYncMD)
+* ⭐ **[Online Fix](https://online-fix.me/)** / [Discord](https://discord.gg/yExgFYncMD)
+* [Playit.gg](https://playit.gg/) - [Discord](https://discord.gg/AXAbujx)
 
 [zerotier](https://www.zerotier.com/), [Radmin](https://www.radmin-vpn.com/), [Hamachi](https://vpn.net/), [XTag](https://www.teamxlink.co.uk/), [Blu-Games](https://blu-games.tk/), [softether](https://www.softether.org/), [ZLOEmu](https://zloemu.net/)
 
@@ -1787,7 +1788,7 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://70.88.180.169:8
 
 ## Tab Managers
 
-[OneTab](https://www.one-tab.com/), [Tab Center Reborn](https://framagit.org/ariasuni/tabcenter-reborn), [Simple Tab Groups](https://github.com/drive4ik/simple-tab-groups), [Acid Tabs](https://github.com/jdhayford/acid-tabs-extension), [Tab Stash](https://josh-berry.github.io/tab-stash/), [Tab Butler](https://tabbutler.netlify.app/), [One Tab Group](https://www.onetab.group/)
+[OneTab](https://www.one-tab.com/), [Tab Center Reborn](https://framagit.org/ariasuni/tabcenter-reborn), [Simple Tab Groups](https://github.com/drive4ik/simple-tab-groups), [Acid Tabs](https://github.com/jdhayford/acid-tabs-extension), [Tab Stash](https://josh-berry.github.io/tab-stash/), [Tab Butler](https://tabbutler.netlify.app/), [One Tab Group](https://www.onetab.group/), [TreeStyleTabs](https://github.com/piroor/treestyletab)
 
 ***
 
@@ -1795,7 +1796,7 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://70.88.180.169:8
 
 * [hckrnws](https://www.hckrnws.com/) - [Search](https://hn-recommend.julienc.me/) / [Chat AI](https://chathn.vercel.app/)
 
-[GHacks](https://www.ghacks.net/), [TechURLs](https://techurls.com/), [Ars Technica](https://arstechnica.com/), [Geeks3D](https://www.geeks3d.com/), [SingularityHub](https://singularityhub.com/), [Toms Hardware](https://www.tomshardware.com/), [Overclock3d](https://overclock3d.net/), [NeoWin](https://www.neowin.net/), [DigitalTrends](https://www.digitaltrends.com/), [Slashdot](https://slashdot.org/), [tweaktown](https://www.tweaktown.com/), [anandtech](https://www.anandtech.com/), [Dupple](https://www.dupple.com/techpresso-archives), [TechSpot](https://www.techspot.com/)
+[HackerNoon](https://hackernoon.com/), [GHacks](https://www.ghacks.net/), [TechURLs](https://techurls.com/), [Ars Technica](https://arstechnica.com/), [Geeks3D](https://www.geeks3d.com/), [SingularityHub](https://singularityhub.com/), [Toms Hardware](https://www.tomshardware.com/), [Overclock3d](https://overclock3d.net/), [NeoWin](https://www.neowin.net/), [DigitalTrends](https://www.digitaltrends.com/), [Slashdot](https://slashdot.org/), [tweaktown](https://www.tweaktown.com/), [anandtech](https://www.anandtech.com/), [Dupple](https://www.dupple.com/techpresso-archives), [TechSpot](https://www.techspot.com/)
 
 ***
 
@@ -2011,6 +2012,7 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://70.88.180.169:8
 * ⭐ **[TTV LOL](https://ttv.lol/)** / [Pro](https://github.com/younesaassila/ttv-lol-pro) / [Video Guide](https://rentry.co/tavy3)
 * ⭐ **[TwitchAdSolutions](https://github.com/pixeltris/TwitchAdSolutions)**
 * [VideoAdBlockForTwitch](https://github.com/cleanlock/VideoAdBlockForTwitch)
+* [luminous-ttv](https://github.com/AlyoshaVasilieva/luminous-ttv)
 * [Adblocker for Twitch - Edge](https://microsoftedge.microsoft.com/addons/detail/adblocker-for-twitch%E2%84%A2/glgpmlmjlaljaddimbgekaepkgbojjdn)
 * [Twitch Adblock PC Guides ](https://rentry.org/twitchadblockdesktop)
 
@@ -2078,7 +2080,9 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://70.88.180.169:8
 
 ### VSCode Themes
 
-[VSCodeThemes](https://vscodethemes.com/) / [Dark Theme](https://github.com/whiplashoo/dartcula-theme) / [Extensions](https://hl2guide.github.io/Awesome-Visual-Studio-Code-Extensions/), [2](https://marketplace.visualstudio.com/) / [Theme Generator](https://oslo-vsc.netlify.app/)
+[VSCodeThemes](https://vscodethemes.com/) or [VSColors](https://www.vscolors.com/)
+
+[Dark Theme](https://github.com/whiplashoo/dartcula-theme) / [Extensions](https://hl2guide.github.io/Awesome-Visual-Studio-Code-Extensions/), [2](https://marketplace.visualstudio.com/) / [Theme Generator](https://oslo-vsc.netlify.app/)
 
 ***
 
