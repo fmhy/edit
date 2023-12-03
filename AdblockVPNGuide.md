@@ -92,7 +92,6 @@
 
 * 🌐 **[Awesome Malware Analysis](https://github.com/rshipp/awesome-malware-analysis)** - Malware Analysis Resources
 * 🌐 **[Awesome Pen Testing](https://github.com/enaqx/awesome-pentest)** - Penetration Testing Resources
-* ↪️ **[Antivirus Programs](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_antivirus)**
 * ↪️ **[Virus File Scanners](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_scan_files)**
 * ↪️ **[Site Legitimacy Check](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_site_legitimacy_check)**
 * ⭐ **[How to Avoid Malware](https://www.reddit.com/r/Piracy/wiki/browsing_and_downloading_guide)** - Malware Avoidance Guide
@@ -101,6 +100,7 @@
 * ⭐ **[VToncolab](https://rentry.org/vtoncolab)** - How-to Scan Files Without Downloading Them
 * ⭐ **[Sandboxie Plus](https://sandboxie-plus.com/)**, [Windows Sandbox](https://learn.microsoft.com/en-us/windows/security/application-security/application-isolation/windows-sandbox/windows-sandbox-overview) or [Virtual Machines](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/tools-misc/#wiki_.25B7_virtual_machines) - Sandbox Environments / [Guide](https://rentry.co/sandboxie-guide)
 * ⭐ **[AdwCleaner](https://www.malwarebytes.com/adwcleaner/)** or [Ultra Adware Killer](https://www.carifred.com/ultra_adware_killer/) - Anti-Adware
+* ⭐ **[Malwarebytes Premium](https://github.com/fmhy/FMHYedit/blob/main/base64.md#malwarebytes-prem)** / [Unlimited Trials](https://rentry.co/mbforever) - Antivirus
 * ⭐ **[Security / Antivirus Multireddit](https://old.reddit.com/user/goretsky/m/security/)**
 * [BleepingComputer Forums](https://www.bleepingcomputer.com/forums/f/22/virus-trojan-spyware-and-malware-removal-help/), [Malwarebytes Forums](https://forums.malwarebytes.com/forum/7-windows-malware-removal-help-support/) or [Sysnative Forums](https://www.sysnative.com/forums/forums/security-arena.66/) - Malware Removal Help Forums / [Note](https://pastebin.com/0mrmPXgz)
 * [RevealQR](https://revealqr.app/) - Scan QR Codes
@@ -108,6 +108,7 @@
 * [Pi.Alert](https://github.com/pucherot/Pi.Alert), [Zeek](https://zeek.org/), [Nmap](https://nmap.org/) / [Results](https://nmap.org/ndiff/), [Kismet](https://www.kismetwireless.net/), [ntop](https://www.ntop.org/), [Sniffnet](https://www.sniffnet.net/) or [Rotty](https://github.com/RoseSecurity/Rotty.py) - Network Monitors
 * [Waircut](https://sourceforge.net/projects/waircut/) - WPS Network Monitor
 * [Unchecky](https://unchecky.com/) - Clears Software Installation Checkboxes
+* [EsetKeyRobot](https://t.me/EsetKeyRobot) - ESET Keys Generator
 * [Emergency Kit](https://www.emsisoft.com/en/home/emergencykit/) - No Install Required Antivirus
 * [Should I Remove It?](https://www.shouldiremoveit.com/) - Easily Find & Remove Adware, Spyware etc.
 * [Spybot](https://www.safer-networking.org/products/spybot-free-edition/) or [SUPERAntiSpyware](https://www.superantispyware.com/free-edition.html) - Spyware Scanners
@@ -278,7 +279,6 @@
 * 🌐 **[Awesome Web Security](https://github.com/qazbnm456/awesome-web-security)** - Web Security Resources
 * 🌐 **[Awesome I2P](https://github.com/mikalv/awesome-i2p)** - I2P Resources
 * ↪️ **[Encode / Decode URLs](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_encode_.2F_decode_urls)**
-* ↪️ **[IP / DNS Leak Tests](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_ip_.2F_dns_leak_tests)**
 * ⭐ **[ffprofile](https://ffprofile.com/)**, **[Betterfox](https://github.com/yokoffing/Betterfox)**, **[arkenfox](https://github.com/arkenfox/user.js)**, [pyllyukko](https://github.com/pyllyukko/user.js/), [hnhx](https://github.com/hnhx/user.js) or [Narsil](https://git.nixnet.services/Narsil/desktop_user.js) - Firefox Privacy Tweaks
 * ⭐ **FF Hardening Tools** - **[Guide](https://brainfucksec.github.io/firefox-hardening-guide)** / [2](https://12bytes.org/articles/tech/firefox/the-firefox-privacy-guide-for-dummies/) / [Video](https://youtu.be/F7-bW2y6lcI) / [Warning](https://i.ibb.co/Vpkrsg4/44160f4625bc.png)
 * ⭐ **[Tor Browser](https://www.torproject.org/)** - Onion-Routed Browser / [Directory](https://session.directory/) 
@@ -294,6 +294,9 @@
 * [How Secure is My Password](https://www.security.org/how-secure-is-my-password/) - Password Strength Checker
 * [h8Mail](https://github.com/khast3x/h8mail) or [FirefoxMonitor](https://monitor.firefox.com/) - Data Breach Check
 * [BreachDirectory](https://breachdirectory.org), [Snusbase](https://snusbase.com/), [Leak Lookup](https://leak-lookup.com/), [Trufflehog](https://github.com/trufflesecurity/trufflehog), [Database Search](https://search.0t.rocks/) or [leakpeek](https://leakpeek.com/) - Data Breach Search Engines
+* [BrowserLeaks](https://browserleaks.com/), [Astrill](https://rentry.co/astrill), [Comparitech](https://www.comparitech.com/privacy-security-tools/dns-leak-test/), [Do I leak?](https://www.top10vpn.com/tools/do-i-leak/) or [IPLeak](https://ipleak.org/) / [2](https://ipleak.com/) / [3](https://ipleak.net) - IP Leak Tests
+* [DNS Leak Test](https://www.dnsleaktest.com/), [Bash DNS Test](https://bash.ws/dnsleak) or [DNS Check](https://dnscheck.tools) - DNS Leak Tests
+* [Voidsec](https://ip.voidsec.com/) or [WebRTC Leak Test](https://www.expressvpn.com/webrtc-leak-test) - WebRTC Leak Tests
 * [DataBunker](https://databunker.org/) - Data Leak Prevention
 * [LocateJS](https://locatejs.com/) - Check for Browser / Extension Leaks
 * [Canarytokens](https://canarytokens.org/generate) - Network Breach Check 
