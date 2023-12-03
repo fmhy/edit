@@ -168,7 +168,6 @@
 * ⭐ **[Manga CSE](https://cse.google.com/cse?cx=006516753008110874046:4im0fkhej3z)**, [2](https://cse.google.com/cse?cx=006516753008110874046:a5mavctjnsc#gsc.tab=0) - Search Manga Sites
 * ⭐ **[Android APK CSE](https://cse.google.com/cse?cx=e0d1769ccf74236e8)**, [2](https://cse.google.com/cse?cx=73948689c2c206528), [3](https://cse.google.com/cse?cx=a805854b6a196d6a6) - Search Android APK Sites
 * ⭐ **[Extensions CSE](https://cse.google.com/cse?cx=86d64a73544824102)** - Search Extension Sites
-* [Google Drive Movies](https://databasegdriveplayer.co/movie.php), [TV](https://databasegdriveplayer.co/series.php), [Anime](https://databasegdriveplayer.co/anime.php), [KDrama](https://databasegdriveplayer.co/drama.php) - Search Google Drive
 * [Komo](https://komo.ai/) or [Metaphor](https://metaphor.systems/) / [Discord](https://discord.com/invite/jvz7GS9W8Y) - AI Search Engines
 * [100 Search Engines](https://www.100searchengines.com/) - Search With 100 Search Engines
 * [File Host Search](https://cse.google.com/cse?cx=90a35b59cee2a42e1) - Search File Hosts
