@@ -28,7 +28,7 @@
 * ⭐ **[Ova Games](https://www.ovagames.com/)** - Download / Use Adblocker
 * ⭐ **[FreeToGame](https://www.freetogame.com/games)** - Download / F2P Games
 * ⭐ **[VRPirates](https://t.me/vrpirates)** / [Wiki](https://wiki.vrpirates.club/), [ARMGDDN](https://t.me/ARMGDDNGames), [VRCarena](https://www.vrcarena.com/) or [SidequestVR](https://sidequestvr.com/) - VR Games / Guides
-* ⭐ **[Game Download CSE](https://cse.google.com/cse?cx=006516753008110874046:cbjowp5sdqg)**, **[Game Torrent CSE](https://cse.google.com/cse?cx=006516753008110874046:pobnsujblyx)**, **[Rezi Search](https://rezi.one/)**, **[Rave Search](https://idleendeavor.github.io/gamesearch/)** / [2](https://ravegamesearch.pages.dev/) or **[/r/PiratedGames CSE](https://cse.google.com/cse?cx=20c2a3e5f702049aa)** - Multi-Site Search Engines
+* ⭐ **[Game Download CSE](https://cse.google.com/cse?cx=006516753008110874046:cbjowp5sdqg)**, [Game Torrent CSE](https://cse.google.com/cse?cx=006516753008110874046:pobnsujblyx), [Rezi Search](https://rezi.one/), [Rave Search](https://idleendeavor.github.io/gamesearch/) / [2](https://ravegamesearch.pages.dev/) or [/r/PiratedGames CSE](https://cse.google.com/cse?cx=20c2a3e5f702049aa) - Multi-Site Search Engines
 * [g4u](https://g4u.to/) - Download / pw: 404
 * [GLoad](https://gload.to/), [Leeching Hell](http://www.leechinghell.pw/) or [GamePCFull](https://gamepcfull.com/) - Download
 * [Seven Gamers](https://www.seven-gamers.com/) - Download / Torrent
