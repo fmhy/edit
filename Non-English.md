@@ -614,7 +614,7 @@
 
 * ↪️ **[BMZone](https://github.com/nbats/FMHYedit/blob/main/base64.md#bmzone)** - Anime / Sub / 1080p
 * [eurekaddl](https://eurekaddl.sbs/) - Video / Audio / Books / Magazines / Comics / NSFW / Sub / 1080p
-* [OverDay](https://overday.info/) - Software / Courses / Books
+* [OverDay](https://overday.info/) - Courses / Books
 * [HD4Me](https://hd4me.net/) - Movies / TV / Sub / 720p
 * [XDCC Mule](https://www.xdccmule.org/) - IRC Download Search
 
@@ -801,7 +801,7 @@
 * ⭐ **[downloadha](https://www.downloadha.com/)** - Software / Games
 * 🌐 **[Persian Telegram Courses](https://rentry.co/sn66v)** - Persian Courses Index
 * [git_ir](https://t.me/git_ir) - Programming Courses
-* [Hide01](https://beta.hide01.ir/) - Cybersecurity Courses / Software
+* [Hide01](https://beta.hide01.ir/) - Cybersecurity Courses
 * [soft98](https://soft98.ir/) - Courses / Software / Games
 * [Patoghu](https://patoghu.com/) - Software / Games
 * [Old Persian Games](https://oldpersiangames.org/) - Iranian Games
@@ -1137,8 +1137,7 @@
 * ⭐ **[HD VideoBox](https://strannikmodz.me/apps/media/135-hdvideobox-222.html)** - Movies / TV / Anime / Aggregator / [AMOLED](https://strannikmodz.me/other_modz/sirenes_team/127-hd-videobox-st-221.html)
 * ⭐ **[4PDA](https://4pda.to/forum/)** - Android / iOS
 * [m0nkrus](https://w14.monkrus.ws/) or [DC Hublist](https://dchublist.ru/hubs/) - Software
-* [Flibustier](https://flibustier64.com/) - Software / OS
-* [CWER](http://cwer.ru/), [2](http://cwer.ws/) - Video / Audio / Software / Games / Books
+* [CWER](http://cwer.ru/), [2](http://cwer.ws/) - Video / Audio / Games / Books
 * [2BakSa](http://2baksa.ws/) - Video / Audio / Books
 * [Allmults](https://allmults.org/) - Cartoons / Sub / Dub / 1080p
 * [tancpol](https://tancpol.net/) - Music / MP3
