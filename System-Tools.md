@@ -328,7 +328,6 @@
 * [MSDN Files](https://msdn.rg-adguard.net/) or [MVS dump](https://awuctl.github.io/mvs/) - Verify ISO Legitimacy
 * [CloverBootloader](https://github.com/CloverHackyColor/CloverBootloader/) or [EasyBCD](https://neosmart.net/EasyBCD/) - Bootloaders / [Config](https://mackie100projects.altervista.org/)
 * [balenaEtcher](https://etcher.balena.io/) - Flash OS Image SD / USB / [Mobile](https://etchdroid.depau.eu/) / Non-Windows OS'
-* [FOG Project](https://fogproject.org) - OS Deployment / Management System
 * [Hiren’s BootCD PE](https://www.hirensbootcd.org/) or [Win10XPE](https://github.com/ChrisRfr/Win10XPE) - Preinstallation Environments
 
 ***
