@@ -359,7 +359,7 @@
 * [Weboasis Convert](https://weboasis.app/convert/) - Conversion Calculators
 * [PecentageTools](https://percentagetools.com/) - Percentage Calculators
 * [Matrix Multiplication](http://matrixmultiplication.xyz/) - Matrix Multiplication Calculator
-* [CoolConversion](https://coolconversion.com/), [UnitConverters](https://www.unitconverters.net/), [Converter Pro](https://f-droid.org/packages/com.ferrarid.converterpro/), [ConvertUnits](https://www.convertunits.com/) or [ConvertAll](https://convertall.bellz.org/) - Unit Converters
+* [CoolConversion](https://coolconversion.com/), [UnitConverters](https://www.unitconverters.net/), [Converter Pro](https://f-droid.org/packages/com.ferrarid.converterpro/), [OneConvert](https://oneconvert.com/), [ConvertUnits](https://www.convertunits.com/) or [ConvertAll](https://convertall.bellz.org/) - Unit Converters
 * [Derivative Calculator](https://www.derivative-calculator.net/) - Derivative Calculator
 * [Integral Calculator](https://www.integral-calculator.com/) - Integral Calculator
 * [Desmos](https://www.desmos.com/) - Graphing Calculator
@@ -629,6 +629,7 @@
 * [LearningSynths](https://learningsynths.ableton.com/) - Synthesizers
 * [Sight Singing Factory](https://www.sightreadingfactory.com/) - Sight Singing Practice
 * [Nutkus](https://sourceforge.net/projects/nutkus/) - Notation Learning Game
+* [SwaraNotebook] (https://swaranotebook.com/) - Classical Indian Music Notation Generator
 * [A-Complete-UTAU-Tutorial-For-Beginners](https://www.quotev.com/story/9299060/A-Complete-UTAU-Tutorial-For-Beginners) - UTAU Tutorial
 * [MusicStaff](https://musicstaff.com/) - Music Teacher Search
 * [Piascore](https://apps.apple.com/us/app/piascore-hd/id406141702) - Music Score Viewer
