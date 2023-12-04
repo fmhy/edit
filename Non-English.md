@@ -640,6 +640,7 @@
 
 * [hastateam](https://ddt.hastateam.com/) - Manga
 * [Slumberland](https://www.slumberland.it/) - Comic Encyclopedia
+* [LiberLiber](https://www.liberliber.it/online/opere/libri) - Archive of Italian books
 
 ***
 
