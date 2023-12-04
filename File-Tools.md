@@ -14,7 +14,7 @@
 * [File Juggler](https://www.filejuggler.com/) - Organize Files Automatically
 * [Phockup](https://github.com/ivandokov/phockup) - Organize Photo / Video Files by Date
 * [Random Executor](https://sneakysnail.net/random-executor/) - Random File Executor
-* [TMSU](https://github.com/oniony/TMSU), [Tagging for Windows](https://tagging.connectpaste.com/) or [SuperTag](https://github.com/amoffat/supertag) - Tag-Based Filesystem
+* [TMSU](https://github.com/oniony/TMSU) or [Tagging for Windows](https://tagging.connectpaste.com/) - Tag-Based Filesystem
 * [filetree](https://github.com/roboyoshi/datacurator-filetree) - Data Filetree
 * [HTTPDirfs](https://github.com/fangfufu/httpdirfs) - HTTP File System
 * [mergerfs](https://github.com/trapexit/mergerfs) - Union Filesystem
