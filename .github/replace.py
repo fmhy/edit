@@ -57,8 +57,6 @@ def replace_pages(text):
     text = re.sub('https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/ai',                  '/ai', text)
     text = re.sub('https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy', '/adblockvpnguide', text)
     text = re.sub('https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android',             '/android-iosguide', text)
-    text = re.sub('https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video',               '/videopiracyguide', text)
-    text = re.sub('https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/audio',               '/audiopiracyguide', text)
     text = re.sub('https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/games',               '/gamingpiracyguide', text)
     text = re.sub('https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/reading',             '/readingpiracyguide', text)
     text = re.sub('https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/download',            '/downloadpiracyguide', text)
@@ -71,7 +69,9 @@ def replace_pages(text):
     text = re.sub('https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools',          '/text-tools', text)
     text = re.sub('https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video-tools',         '/video-tools', text)
     text = re.sub('https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/audio-tools',         '/audio-tools', text)
-    
+
+    text = re.sub('https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video',               '/videopiracyguide', text) #This replace has to go after the /video-tools replace
+    text = re.sub('https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/audio',               '/audiopiracyguide', text) #This replace has to go after the /audio-tools replace
     text = re.sub('https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/linux',               '/linuxguide', text)
     text = re.sub('https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/non-eng',             '/non-english', text)
     text = re.sub('https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc',                '/miscguide', text)
