@@ -964,7 +964,6 @@
 * ⭐ **[Tortoise TTS](https://github.com/neonbjb/tortoise-tts)**
 * ⭐ **[Bark](https://huggingface.co/spaces/suno/bark)** - [Github](https://github.com/suno-ai/bark) / [Discord](https://discord.com/invite/J2B2vsjKuE)
 * [Balabolka](https://www.cross-plus-a.com/bportable.htm)
-* [15.ai](https://15.ai/)
 * [Text To Speech](https://texttospeech.ca/)
 * [ttsMP3](https://ttsmp3.com/)
 * [Vall-e](https://github.com/enhuiz/vall-e)
@@ -1405,6 +1404,7 @@
 * [Microlink SDK](https://microlink.io/sdk) / [GitHub](https://github.com/microlinkhq/sdk), [React Tiny Link](https://winhtaikaung.github.io/react-tiny-link/) / [GitHub](https://github.com/winhtaikaung/react-tiny-link) or [Link Preview JS](https://github.com/ospfranco/link-preview-js) - Create Link Previews
 * [IP Intelligence](https://getipintel.net/) - Proxy / VPN / Bad IP Detection
 * [V2Ray](https://www.v2fly.org/) - Proxy Software
+* [mitmproxy](https://mitmproxy.org/) / [GitHub](https://github.com/mitmproxy/mitmproxy) - Analyze and modify HTTPS traffic
 * [Traefik](https://traefik.io/traefik/), [frp](https://github.com/fatedier/frp) or [reverse-proxy](https://github.com/microsoft/reverse-proxy) - Reverse Proxies
 * [Certbot](https://certbot.eff.org/) - Enable HTTPS Automatically
 * [Wappalyzer](https://www.wappalyzer.com/) - Identify Technologies on Websites / [Addons](https://www.wappalyzer.com/apps/)
@@ -12290,7 +12290,6 @@ Use a **[Base64 Decoder](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage
 * ↪️ **[Popup Blockers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_popup_blocker_links)**
 * ⭐ **[uBlock Origin](https://github.com/gorhill/uBlock#installation)** - Adblocker / [Guide](https://addons.mozilla.org/blog/ublock-origin-everything-you-need-to-know-about-the-ad-blocker/) / [Advanced](https://youtu.be/2lisQQmWQkY)
 * ⭐ **[SponsorBlock](https://sponsor.ajay.app/)** - Skip Sponsored YouTube Ads / [Chromecast](https://github.com/nichobi/sponsorblockcast) / [Script](https://github.com/mchangrh/sb.js), [2](https://greasyfork.org/en/scripts/453320)
-* ⭐ **[BehindTheOverlay](https://github.com/NicolaeNMV/BehindTheOverlay)** - Hide Website Overlays 
 * ⭐ **[OpenVideo](https://openvideofs.github.io)** or [Stream-Bypass](https://github.com/ByteDream/stream-bypass) - Play Videos in Ad-Free Player
 * [fadblock](https://github.com/0x48piraj/fadblock) - YouTube Adblocker
 * [Adguard](https://github.com/AdguardTeam/AdguardBrowserExtension#installation) - Adblocker
@@ -12771,7 +12770,6 @@ Use a **[Base64 Decoder](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage
 * [Acrylic](https://mayakron.altervista.org/) - DNS Cache Local Proxy
 * [SimpleDnsCrypt](https://github.com/instantsc/SimpleDnsCrypt) - DNS Encryption Local Proxy
 * [Proxifier](https://www.proxifier.com/) - Add proxy functionality to applications / [Keys](https://github.com/nbats/FMHYedit/blob/main/base64.md#proxifier-keys)
-* [mitmproxy](https://mitmproxy.org/) / [GitHub](https://github.com/mitmproxy/mitmproxy) - Analyze and modify HTTPS traffic
 * [NginxProxyManager](https://github.com/NginxProxyManager/nginx-proxy-manager) - Self-hosted Proxy Server
 * [Shadowsocks](https://shadowsocks.org/) / [Free Servers](https://github.com/ruanfei/cross), [2](https://github.com/learnhard-cn/free_proxy_ss) / [Client](https://github.com/shadowsocks/shadowsocks-windows) - Proxy Client and Self-hostable Server
 * [Hysteria](https://github.com/apernet/hysteria) - Proxy Client and Self-hostable Server
@@ -13214,7 +13212,7 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://70.88.180.169:8
 * ⭐ **[1Hosts](https://o0.pages.dev/)**
 * ⭐ **[OISD](https://oisd.nl/)**
 
-[DNS for Family](https://dnsforfamily.com/), [CleanBrowsing](https://cleanbrowsing.org/filters/), [personalDNSfilter](https://www.zenz-solutions.de/personaldnsfilter-wp/), [hBlock](https://github.com/hectorm/hblock), [someonewhocares](https://someonewhocares.org/hosts/), [MVPS HOSTS](https://winhelp2002.mvps.org/hosts.htm), [Hosts File Aggregator](https://github.com/StevenBlack/hosts), [Spamhaus](https://www.spamhaus.org/), [NxFilter](https://nxfilter.org/), [dns-blocklists](https://github.com/hagezi/dns-blocklists), [d3ward](https://github.com/d3ward/toolz), [Anudeep's Blacklist](https://github.com/anudeepND/blacklist), [Lightswitch05](https://www.github.developerdan.com/hosts/), [black-mirror](https://github.com/T145/black-mirror), [Scam Blocklist](https://github.com/durablenapkin/scamblocklist), [hBlock](https://hblock.molinero.dev/), [Additional Undesired Hosts](https://github.com/DRSDavidSoft/additional-hosts), [neodevhost](https://github.com/neodevpro/neodevhost), [Piperun's IP-Logger Filter](https://github.com/piperun/iploggerfilter), [GoodbyeAds](https://jerryn70.github.io/GoodbyeAds/), [mullvad blocklists](https://github.com/mullvad/dns-blocklists)
+[DNS for Family](https://dnsforfamily.com/), [CleanBrowsing](https://cleanbrowsing.org/filters/), [personalDNSfilter](https://www.zenz-solutions.de/personaldnsfilter-wp/), [hBlock](https://github.com/hectorm/hblock), [someonewhocares](https://someonewhocares.org/hosts/), [MVPS HOSTS](https://winhelp2002.mvps.org/hosts.htm), [Hosts File Aggregator](https://github.com/StevenBlack/hosts), [Spamhaus](https://www.spamhaus.org/), [NxFilter](https://nxfilter.org/), [dns-blocklists](https://github.com/hagezi/dns-blocklists), [d3ward](https://github.com/d3ward/toolz), [Anudeep's Blacklist](https://github.com/anudeepND/blacklist), [Lightswitch05](https://www.github.developerdan.com/hosts/), [black-mirror](https://github.com/T145/black-mirror), [Scam Blocklist](https://github.com/durablenapkin/scamblocklist), [hBlock](https://hblock.molinero.dev/), [Additional Undesired Hosts](https://github.com/DRSDavidSoft/additional-hosts), [neodevhost](https://github.com/neodevpro/neodevhost), [Piperun's IP-Logger Filter](https://github.com/piperun/iploggerfilter), [GoodbyeAds](https://jerryn70.github.io/GoodbyeAds/), [mullvad blocklists](https://github.com/mullvad/dns-blocklists), [The Block List Project](https://github.com/blocklistproject/Lists##the-block-list-project)
 
 ***
 
@@ -14020,6 +14018,8 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://70.88.180.169:8
 
 ## Popup Blocker Links
 
+* ⭐ **[BehindTheOverlay](https://github.com/NicolaeNMV/BehindTheOverlay)** - Hide Website Overlays 
+
 [Popupblocker All](https://addons.mozilla.org/en-US/firefox/addon/popupblockerall/), [Popup Blocker Strict](https://add0n.com/popup-blocker.html) / [GitHub](https://github.com/schomery/popup-blocker), [PopUpOFF](https://romanisthere.github.io/PopUpOFF-Website/index.html), [PopupBlocker](https://github.com/AdguardTeam/PopupBlocker), [Popup & Script Blocker Ultimate](https://popupblocker.ir/), [Poper Blocker](https://poperblocker.com/)
 
 ***
@@ -14676,13 +14676,12 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://70.88.180.169:8
 
 ## Twitch Adblockers
 
+* ⭐ **[TwitchAdSolutions](https://github.com/pixeltris/TwitchAdSolutions)**
 * ⭐ **[Purple AdBlock](https://addons.mozilla.org/en-US/firefox/addon/purpleadblock/)**
 * ⭐ **[TTV LOL](https://ttv.lol/)** / [Pro](https://github.com/younesaassila/ttv-lol-pro) / [Video Guide](https://rentry.co/tavy3)
-* ⭐ **[TwitchAdSolutions](https://github.com/pixeltris/TwitchAdSolutions)**
 * [VideoAdBlockForTwitch](https://github.com/cleanlock/VideoAdBlockForTwitch)
 * [luminous-ttv](https://github.com/AlyoshaVasilieva/luminous-ttv)
 * [Adblocker for Twitch - Edge](https://microsoftedge.microsoft.com/addons/detail/adblocker-for-twitch%E2%84%A2/glgpmlmjlaljaddimbgekaepkgbojjdn)
-* [Twitch Adblock PC Guides ](https://rentry.org/twitchadblockdesktop)
 
 ***
 
@@ -14697,11 +14696,13 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://70.88.180.169:8
 ## uBlock Filters
 
 * ⭐ **[yokoffing's Recommended Filters](https://github.com/yokoffing/filterlists)**
-* [DandelionSprout adlift](https://github.com/DandelionSprout/adfilt) - [URL Shortener](https://github.com/DandelionSprout/adfilt/blob/master/LegitimateURLShortener.txt) / [Clear URLs for uBO](https://github.com/DandelionSprout/adfilt/blob/master/ClearURLs%20for%20uBo/clear_urls_uboified.txt)
+* ⭐ **[LegitimateURLShortener](https://github.com/DandelionSprout/adfilt/blob/master/LegitimateURLShortener.txt)**
+* [DandelionSprout adlift](https://github.com/DandelionSprout/adfilt) / 
 * [FilterLists.com](https://filterlists.com/) - Search
 * [Facebook Filters](https://www.reddit.com/r/uBlockOrigin/wiki/solutions#wiki_facebook)
+* [Clear URLs for uBO](https://github.com/DandelionSprout/adfilt/blob/master/ClearURLs%20for%20uBo/clear_urls_uboified.txt)
 
-[FilterStalker](https://rentry.co/FilterStalker), [LetBlock.it](https://letsblock.it/), [webannoyances](https://github.com/yourduskquibbles/webannoyances), [The Block List Project](https://github.com/blocklistproject/Lists##the-block-list-project), [minoplhy filters](https://github.com/minoplhy/filters), [NoADS_RU](https://raw.githubusercontent.com/Zalexanninev15/NoADS_RU/main/ads_list.txt), [Anifiltrs](https://github.com/Karmesinrot/Anifiltrs), [PersonalFilterListCollection](https://github.com/kowith337/PersonalFilterListCollection)
+[FilterStalker](https://rentry.co/FilterStalker), [LetBlock.it](https://letsblock.it/), [webannoyances](https://github.com/yourduskquibbles/webannoyances), [NoADS_RU](https://raw.githubusercontent.com/Zalexanninev15/NoADS_RU/main/ads_list.txt), [Anifiltrs](https://github.com/Karmesinrot/Anifiltrs)
 
 ***
 
@@ -14792,7 +14793,7 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://70.88.180.169:8
 
 ## Windows 10 Antispy Tools
 
-[Privatezilla](https://github.com/builtbybel/privatezilla), [ShutUp10](https://www.oo-software.com/en/shutup10), [W10Privacy](https://www.w10privacy.de/english-home/), [WPD](https://wpd.app/), [Manage connection endpoints](https://learn.microsoft.com/en-us/windows/privacy/manage-windows-11-endpoints), [Manage Microsoft Services connection endpoints](https://learn.microsoft.com/en-us/windows/privacy/manage-connections-from-windows-operating-system-components-to-microsoft-services), [gp-pack PaT](https://www.gp-pack.com/gp-pack-pat-privacy-and-telemetry/), [privacy.sexy](https://privacy.sexy/), [private-secure-windows](https://github.com/troennes/private-secure-windows)
+[ShutUp10](https://www.oo-software.com/en/shutup10), [W10Privacy](https://www.w10privacy.de/english-home/), [WPD](https://wpd.app/), [Manage connection endpoints](https://learn.microsoft.com/en-us/windows/privacy/manage-windows-11-endpoints), [Manage Microsoft Services connection endpoints](https://learn.microsoft.com/en-us/windows/privacy/manage-connections-from-windows-operating-system-components-to-microsoft-services), [privacy.sexy](https://privacy.sexy/), [private-secure-windows](https://github.com/troennes/private-secure-windows)
 
 ***
 
@@ -14880,7 +14881,7 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://70.88.180.169:8
 * [File Juggler](https://www.filejuggler.com/) - Organize Files Automatically
 * [Phockup](https://github.com/ivandokov/phockup) - Organize Photo / Video Files by Date
 * [Random Executor](https://sneakysnail.net/random-executor/) - Random File Executor
-* [TMSU](https://github.com/oniony/TMSU), [Tagging for Windows](https://tagging.connectpaste.com/) or [SuperTag](https://github.com/amoffat/supertag) - Tag-Based Filesystem
+* [TMSU](https://github.com/oniony/TMSU) or [Tagging for Windows](https://tagging.connectpaste.com/) - Tag-Based Filesystem
 * [filetree](https://github.com/roboyoshi/datacurator-filetree) - Data Filetree
 * [HTTPDirfs](https://github.com/fangfufu/httpdirfs) - HTTP File System
 * [mergerfs](https://github.com/trapexit/mergerfs) - Union Filesystem
