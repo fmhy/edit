@@ -103,43 +103,32 @@
 
 # ► News
 
-* 🌐 **[5000 Best News Sites](http://5000best.com/websites/News/)** - News Site Index
+* 🌐 **[5000 Best News Sites](http://5000best.com/websites/News/)** - News Sites Index
+* 🌐 **[AllYouCanRead](https://www.allyoucanread.com/), [W3Newspapers.com](https://www.w3newspapers.com/), [World-Newspapers](https://world-newspapers.com/), [OnlineNewspapers](https://www.onlinenewspapers.com), [4IMN](https://www.4imn.com/) or [newspapersglobal](https://www.newspapersglobal.com/)** - Worldwide News Sites Indexes
 * 🌐 **[Current Events Wiki](https://en.m.wikipedia.org/wiki/Portal:Current_events)** or [Slower News](https://www.slowernews.com/) - Breaking News
-* ↪️ **[News Feed Aggregators](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_news_feed_aggregators)**
-* ↪️ **[Newspaper Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/reading#wiki_.25B7_newspapers)**
-* ↪️ **[Worldwide News Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_worldwide_news_sites_index)**
-* ↪️ **[Tech News Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_tech_news)**
-* ↪️ **[Security / Hacking News](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_security_.2F_hacking_news)**
-* ↪️ **[Health News Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_health_news)**
-* ↪️ **[Bypass Article Paywalls](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_read_paywalled_articles)**
 * ⭐ **[/m/news](https://www.reddit.com/user/nbatman/m/news/)** - News Multireddit
 * ⭐ **[PublicAlerts](https://google.org/publicalerts)** - Important News / Disaster Alerts
 * ⭐ **[TorrentFreak](https://torrentfreak.com/)** / [Telegram](https://t.me/torrentfreaks) - Piracy News
 * ⭐ **[Good News Network](https://www.goodnewsnetwork.org/)** - Uplifting News
+* ⭐ **[JAMA Network](https://jamanetwork.com/)** - Health News
+* ↪️ **[Newspaper Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/reading#wiki_.25B7_newspapers)**
+* ↪️ **[Bypass Article Paywalls](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_read_paywalled_articles)**
 * [JustRead](https://justread.link/) or [Unclutter](https://unclutter.it/) - Feed Managers / Readers
 * [Google Alerts](https://www.google.com/alerts) - News Alerts by Topics
-* [Top Stories](https://murmel.social/top) - Top Twitter News 
-* [Riot Archive](https://riotarchive.com/) - Riot / Protest Videos
-* [Internet Society](https://pulse.internetsociety.org/blog) - Internet Infrastructure News
-* [Liliputing](https://liliputing.com/) - Linux Mobile News
+* [Top Stories](https://murmel.social/top) - Top Fediverse News 
 * [Netblocks](https://netblocks.org/) - Censorship News
-* [CBM](https://comicbookmovie.com/) - Comic, Movie & TV News
-* [EmergentMind](https://www.emergentmind.com/) - AI News
+* [CBM](https://comicbookmovie.com/) - Comic / Movie / TV News
 * [NewsNotFound](https://newsnotfound.com/) - Unbiased AI Generated News
-* [Tudum](https://www.netflix.com/tudum) - Netflix News
 * [Anime News Network](https://www.animenewsnetwork.com/) - Anime News
 * [Anime Corner](https://animecorner.me/) - Anime / Manga News
-* [Darknet Live News](http://darkzzx4avcsuofgfez5zq75cqc4mprjvfqywo45dfcaxrwqg6qrlfid.onion/), [Darknet Stats](https://www.darknetstats.com/) or [Tape News](http://tape6m4x7swc7lwx2n2wtyccu4lt2qyahgwinx563gqfzeedn5nb4gid.onion/) - Dark Web News
 * [Interactive News Map](https://usa.liveuamap.com/) or [Atlas Politica](https://www.atlaspolitica.com/) - Geolocated News Alerts / Headlines U.S
-* [SciURLs](https://sciurls.com/), [NewScientist](https://www.newscientist.com/), [Nature.com](https://www.nature.com/), [Science.org](https://www.science.org/), [PopSci](https://www.popsci.com/), [Useful Science](https://usefulscience.org/), [ScienceDaily](https://www.sciencedaily.com/), [EurekAlert](https://www.eurekalert.org/) or [LiveScience](https://livescience.com/) - Science News
+* [MedicineNet](https://www.medicinenet.com/), [MedPageToday](https://www.medpagetoday.com/), [EverydayHealth](https://www.everydayhealth.com/), [Medscape](https://www.medscape.com/), [healthline](https://www.healthline.com/) or [WebMD](https://www.webmd.com/) - Health News
+* [SciURLs](https://sciurls.com/), [NewScientist](https://www.newscientist.com/), [Nature](https://www.nature.com/), [Science](https://www.science.org/), [PopSci](https://www.popsci.com/), [Useful Science](https://usefulscience.org/), [ScienceDaily](https://www.sciencedaily.com/), [EurekAlert](https://www.eurekalert.org/) or [LiveScience](https://livescience.com/) - Science News
 * [MathURLs](https://mathurls.com/) - Math News
 * [Dailynous](https://dailynous.com/) - Philosophy News
-* [DevURLs](https://devurls.com/) - Developer News
-* [TuxURLs](https://tuxurls.com/) - Linux News
 * [The Base Rate Times](https://www.baseratetimes.com/) - Market Prediction News
 * [Medievalists](https://www.medievalists.net/category/news/) - Medieval History News
 * [FinURLs](https://finurls.com/) - Finance & Business News
-* [Uriminzokkiri](http://www.uriminzokkiri.com/index.php?lang=eng) - Korean News
 * [Citizen](https://citizen.com/explore) - Real Time Local News (US Only)
 * [PlaneCrashInfo](https://www.planecrashinfo.com/) - Plane Crash Reports
 * [Dutchsinse](https://www.twitch.tv/dutchsinseofficial) - Live 24/7 Earthquake Updates / [YouTube](https://www.youtube.com/user/dutchsinse)
@@ -148,6 +137,37 @@
 * [LiveScore](https://www.livescores.com/) - Live Sports Scores
 * [Read Something Interesting](https://readsomethinginteresting.com/) or [BoredReading](https://boredreading.com/) - Random Articles / Blog Posts
 * [Media Bias Fact Check](https://drmikecrowe.github.io/mbfcext/), [ground.news](https://ground.news/extension) or [HonestyMeter](https://www.honestymeter.com/) - Media Bias Checkers
+
+## ▷ News Feed Aggregators
+
+* ⭐ **[QotNews](https://news.t0.vc/)** - Hacker News / Reddit / Lobsters / Tildes
+* [NewsNow](https://www.newsnow.co.uk/), [Google News](https://news.google.com/) / [HTML](http://68k.news/), [Readspike](https://readspike.com/), [sumi.news](https://sumi.news/),  [Upstract](https://upstract.com/) or [AllTop](https://alltop.com/) - Misc News
+* [RealClearPolitics](https://www.realclearpolitics.com/), [Ground News](https://ground.news/), [SPIDR](https://spidr.today/) or [LegibleNews](https://legiblenews.com/) - Political News / World Events
+* [AllSides](https://www.allsides.com/) - Left / Center / Right News
+* [AlDaily](https://www.aldaily.com/) - Art / Philosophy / Literature News
+* [Newsfeed](https://newsfeed.one/) - Google / Reddit / Crypto News
+* [FlipBoard](https://flipboard.com/) - Personalized News
+* [freepost](https://freepo.st/) - Freepost News
+
+## ▷ Tech News
+
+* [HackerNoon](https://hackernoon.com/), [gHacks](https://www.ghacks.net/), [NeoWin](https://www.neowin.net/), [TweakTown](https://www.tweaktown.com/) or [TechSpot](https://www.techspot.com/) - Tech News
+* [TechURLs](https://techurls.com/), [DevURLs](https://devurls.com/), [Techmeme](https://www.techmeme.com/m/), [The Brutalist Report](https://brutalist.report/), [Lobsters](https://lobste.rs/) / [Highlighter](https://greasyfork.org/en/scripts/40906) or [jimmyr](https://jimmyr.com/) - Tech / Programming News Aggregators
+* [TuxURLs](https://tuxurls.com/) - Linux News
+* [Liliputing](https://liliputing.com/) - Hardware / Linux Mobile News
+* [Geeks3D](https://www.geeks3d.com/), [Toms Hardware](https://www.tomshardware.com/), [Overclock3D](https://overclock3d.net/) or [anandtech](https://www.anandtech.com/) - Hardware News / Reviews
+* [EmergentMind](https://www.emergentmind.com/), [Singularity Hub](https://singularityhub.com/) or [Dupple](https://www.dupple.com/techpresso-archives) - AI News
+* [Internet Society](https://pulse.internetsociety.org/blog) - Internet Infrastructure News
+
+## ▷ Security / Hacking News
+
+* ⭐ **[KrebsOnSecurity](https://krebsonsecurity.com/)** - Security News
+* ⭐ **[Hacker News](https://news.ycombinator.com/)**, [2](https://www.hckrnws.com/) / [Highlighter](https://greasyfork.org/en/scripts/39311) / [Search](https://hn.algolia.com/), [2](https://hn-recommend.julienc.me/) / [AI Chatbot](https://chathn.vercel.app/) - Hacking News
+* [Hacki](https://github.com/Livinglist/Hacki), [Harmonic](https://play.google.com/store/apps/details?id=com.simon.harmonichackernews), [Glider](https://github.com/Mosc/Glider) or [HackerWeb](https://hackerwebapp.com/) - Hacker News Clients
+* [Hackers](https://apps.apple.com/us/app/hackers-for-hacker-news/id603503901) - Hacker News iOS App
+* [Talos Blog](https://blog.talosintelligence.com/) or [IT Security Guru](https://www.itsecurityguru.org/) - Security News / Information
+* [RestorePrivacy](https://restoreprivacy.com/category/news-reports/) or [Privacy International](https://www.privacyinternational.org/) - Privacy / Security News
+* [Darknet Live News](http://darkzzx4avcsuofgfez5zq75cqc4mprjvfqywo45dfcaxrwqg6qrlfid.onion/), [Darknet Stats](https://www.darknetstats.com/) or [Tape News](http://tape6m4x7swc7lwx2n2wtyccu4lt2qyahgwinx563gqfzeedn5nb4gid.onion/) - Dark Web News
 
 ***
 
