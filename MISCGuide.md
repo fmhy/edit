@@ -1050,8 +1050,8 @@
 * ⭐ **[Conspiracy Theory Iceberg](https://ipfs.io/ipfs/QmWszAAzXjaD6hQZXbfhF9qBFWpnPwZVWU131HVf42WZej)** - Conspiracies / Occult / Mythology / [Video Playlist](https://www.youtube.com/watch?v=7I2KJL-gJPU&list=PLfeWBGty_481haNoS_ozOVdIyOpyXMjUC)
 * ⭐ **[InfiniteConversation](https://infiniteconversation.com/)** - Never-Ending Werner Herzog / Slavoj Žižek Conversation
 * ⭐ **[Ranker](https://www.ranker.com/)**, [Listography](https://listography.com/), [hero](https://hero.page/), [FlexLists](https://flexlists.com/), [TheTopsTens](https://www.thetoptens.com/), [CopyPasteList](https://copypastelist.co/) or [ListVerse](https://listverse.com/) - Create / Explore Lists
-* ⭐ **[Fandom](https://www.fandom.com/)** - Fan Wikis / [Frontend](https://docs.breezewiki.com/Links.html) / [Old Style](https://greasyfork.org/en/scripts/438194-hydralize-fix-fandom-com) / [Search](https://getindie.wiki/)
 * ⭐ **[The Lost Media Wiki](https://lostmediawiki.com/)** / [Forum](https://forums.lostmediawiki.com/)
+* [Fandom](https://www.fandom.com/) - Fan Wikis / [Frontend](https://docs.breezewiki.com/Links.html) / [Old Style](https://greasyfork.org/en/scripts/438194-hydralize-fix-fandom-com) / [Search](https://getindie.wiki/)
 * [Internet Map](https://internet-map.net/) - Map of the Internet
 * [Wikiverse](https://wikiverse.io/) - 3D Wiki Visualizer
 * [DamnInteresting](https://www.damninteresting.com/) - Interesting Stories
