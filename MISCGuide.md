@@ -111,7 +111,7 @@
 * ↪️ **[YouTube Cooking Channels](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_cooking_youtube_channels)**
 * ⭐ **[Tandoor Recipes](https://docs.tandoor.dev/)**, [Whisk](https://whisk.com/), [Pestle](https://apps.apple.com/au/app/pestle-kitchen-recipe-manager/id1574776971) or [Spoonacular](https://spoonacular.com/food-api) - Recipe Managers
 * ⭐ **[Just the Recipe](https://www.justtherecipe.com/)**, [Copy Me That](https://www.copymethat.com/), [PlainOldRecipe](https://www.plainoldrecipe.com/) or [Recipe Filter](https://addons.mozilla.org/en-US/firefox/addon/recipe-filter/) - Extract Ingredients from Recipe Pages
-* ⭐ **[ChefDroyd](https://chefdroyd.com/)**, [BabaSelo](https://www.babaselo.com/), [LetsFoodie](https://letsfoodie.com/ai-recipe-generator/), [RecipeRobot](https://reciperobot.ai/) or [ChefGPT](https://www.chefgpt.xyz/) - AI Recipe Generators
+* ⭐ **[ChefDroyd](https://chefdroyd.com/)**, [BabaSelo](https://www.babaselo.com/), [LetsFoodie](https://letsfoodie.com/ai-recipe-generator/) or [ChefGPT](https://www.chefgpt.xyz/) - AI Recipe Generators
 * ⭐ **[Baking Calculators](https://bakingcalculators.com/)** - Measurement System Conversion Calculators
 * ⭐ **[Grocy](https://grocy.info/)** / [Android](https://github.com/patzly/grocy-android) or [Kitchen Owl](https://f-droid.org/en/packages/com.tombursch.kitchenowl/) - Grocery Managers
 * ⭐ **[Superbetize](https://superbetize.com/)** - Auto-Categorize Grocery List
@@ -328,7 +328,7 @@
 * [Marmof](https://marmof.com/) - Creator / Marketing AI
 * [MMAGlobal](https://www.mmaglobal.com/ ) - View Past Marketing Reports
 * [Anti Money Laundering Toolbox](https://bin.disroot.org/?ed25a979891da67b#BffjWKHJNYTA1JdrWz9jpy5opjzncubeKFc1pBuptxdW) - Prevent Money Laundering / [AML Laws](https://www.bitsaboutmoney.com/archive/money-laundering-and-aml-compliance/)
-* [HomeBank](http://homebank.free.fr/), [Firefly III](https://firefly-iii.org/), [Money Manager EX](https://moneymanagerex.org/), [Ledger](https://ledger-cli.org/), [Paisa](https://github.com/RetroMusicPlayer/Paisa), [Buckwheat](https://buckwheat.app/), [My Expenses](https://www.myexpenses.mobi/), [actual](https://github.com/actualbudget/actual) or [Sushi](https://github.com/jerameel/sushi) - Finance Managers
+* [HomeBank](http://homebank.free.fr/), [Firefly III](https://firefly-iii.org/), [Money Manager EX](https://moneymanagerex.org/), [Ledger](https://ledger-cli.org/), [Paisa](https://github.com/RetroMusicPlayer/Paisa), [Buckwheat](https://buckwheat.app/), [My Expenses](https://www.myexpenses.mobi/), [actual](https://github.com/actualbudget/actual), [Cashew](https://play.google.com/store/apps/details?id=com.budget.tracker_app) or [Sushi](https://github.com/jerameel/sushi) - Finance Managers
 * [financial_advice](https://github.com/emilepetrone/financial_lessons) - Financial Lessons
 * [MortgageCalculator](https://www.mortgagecalculator.site/) - Mortgage Calculator
 * [TradingView](https://www.tradingview.com/), [FinScreener](https://www.finscreener.com/), [Candle](https://gitlab.com/cosmosapps/candle), [finviz](https://finviz.com/), [Markets.sh](https://markets.sh/) or [Screener](https://www.screener.in/) - Stock Market Trackers
@@ -906,6 +906,7 @@
 * [ASCII Roulette](https://github.com/dialup-inc/ascii) - Random ASCII Chat Rooms
 * [Wireclub](https://www.wireclub.com/) - Topic Chat Rooms
 * [SuperBay](https://forum.suprbay.org/) - Piracy Discussion
+* [DreamJournal](http://dreamjournal.net/) - Dream Sharing Community
 * [Marijuana Subs](https://www.reddit.com/r/trees/wiki/entreddits_social) - Marijuana Subreddits
 * [TheRPF](https://www.therpf.com/forums/) - Movie Costume / Prop Forum
 * [Websleuths](https://www.websleuths.com/) - Crime Solving Forum
