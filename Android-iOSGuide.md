@@ -594,6 +594,7 @@
 
 * 🌐 **[Awesome Pokemon](https://github.com/tobiasbueschel/awesome-pokemon)** - PokemonGO Resources
 * ⭐ **[Now.gg](https://now.gg/)** - Online Gaming Emulator
+* [Mogul](https://play.google.com/store/apps/details?id=com.mogul.flutte&hl=en&gl=US) or [Chikii](https://play.google.com/store/apps/details?id=com.dianyun.chikii&hl=en&gl=US) - Cloud Gaming Android Apps
 * [GameEye](https://play.google.com/store/apps/details?id=com.hairyharri.gameye) - Video Game Tracking App
 * [PlatinMods](https://platinmods.com/) - Modded / Private Game Servers
 * [PGS](https://www.pgsharp.com/) - Modded Pokémon GO
@@ -828,7 +829,7 @@
 * [a-Shell](https://holzschu.github.io/a-Shell_iOS/) - Text Based Shell
 * [Sigma](https://apps.apple.com/us/app/sigma-your-feeds-united/id1594702352) - Combine Social Media Apps
 * [InsightBrowser](https://insightbrowser.com/), [Gear4](https://gear4.app/) or [Asobi](https://github.com/bdashore3/Asobi) - Browsers
-* [Kagi](https://apps.apple.com/us/app/kagi/id1484498200) or [Orion](https://testflight.apple.com/join/DeC8ZDnu) - Browser w/ Firefox & Chrome Extension Support
+* [Kagi](https://apps.apple.com/us/app/kagi/id1484498200) - Browser w/ Firefox & Chrome Extension Support
 * [iRetro](https://apps.apple.com/us/app/iretro-the-internet-browser/id1015692776) - Browser w/ Wayback Machine
 * [Lights Off](https://testflight.apple.com/join/pj7BWqeJ) - iOS Safari Dark Mode
 * [Enmity](https://enmity.app/) - Modded iOS Discord Client / [GitHub](https://github.com/enmity-mod) / [Discord](https://discord.com/invite/rMdzhWUaGT)
@@ -979,7 +980,7 @@
 * [Raivo OTP](https://raivo-otp.com), [OTP Auth](https://apps.apple.com/ca/app/otp-auth/id659877384), [Sentinel](https://getsentinel.io) or [Tofu](https://www.tofuauth.com/) - Two-factor Authentication
 * [Private Photo Vault](https://apps.apple.com/us/app/private-photo-vault-pic-safe/id417571834) or [No See You](https://noseeyou.com/) - Private Photo Album
 * [Onion Browser](https://onionbrowser.com/) - Onion Browser for iOS 
-* [Firefox Focus](https://apps.apple.com/us/app/firefox-focus-privacy-browser/id1055677337) or [DuckDuckGo Privacy Browser](https://duckduckgo.com/app) - Privacy Based Browser 
+* [Brave](https://apps.apple.com/us/app/brave-private-web-browser-vpn/id1052879175), [Firefox Focus](https://apps.apple.com/us/app/firefox-focus-privacy-browser/id1055677337) or [DuckDuckGo Privacy Browser](https://duckduckgo.com/app) - Privacy Based Browsers
 * [Lockdown iOS](https://apps.apple.com/dk/app/lockdown-apps/id1469783711) - iOS Firewall / [GitHub](https://github.com/confirmedcode/Lockdown-iOS)
 * [PhantomVPN](https://github.com/nbats/FMHYedit/blob/main/base64.md#phantomvpn) - Free VPN
 * [Potatso Lite](https://apps.apple.com/us/app/potatso-lite/id1239860606) - Proxy App
@@ -1026,6 +1027,7 @@
 * [Musi](https://apps.apple.com/us/app/musi-simple-music-streaming/id591560124) - Streaming / [Music Videos](https://apps.apple.com/us/app/musi-offline-music-videos/id1566988849)
 * [Pandolife](https://repo.hackyouriphone.org/pandolife) - Streaming / Modded Pandora
 * [Music ID iOS](https://apps.apple.com/app/musicid/id358838909?ign-mpt=uo%3D8) - Song Identification
+* [Playlist AI](https://www.playlistai.app/) - AI Playlist Generator
 * [Quorus](https://quorus.net/) - Collaborative Playlists
 * [SongShift](https://songshift.com/) - Playlist Sync
 * [Qello](https://apps.apple.com/us/app/qello-concerts-live-music/id491069819) - Concerts & Live Music Streaming
