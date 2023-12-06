@@ -365,13 +365,13 @@
 
 ## ▷ Windows Repair
 
-* ⭐ **[Windows Repair Toolbox](https://windows-repair-toolbox.com/)** - Multi-Tool Repair App
-[MagNumDB](https://www.magnumdb.com/), [ErrorLookup](https://github.com/henrypp/errorlookup) or [Microsoft Error Lookup](https://learn.microsoft.com/en-us/windows/win32/debug/system-error-code-lookup-tool) - Windows Debugging Tools
+* [MagNumDB](https://www.magnumdb.com/), [ErrorLookup](https://github.com/henrypp/errorlookup) or [Microsoft Error Lookup](https://learn.microsoft.com/en-us/windows/win32/debug/system-error-code-lookup-tool) - Windows Debugging Tools
 * [/r/TechSupport](https://www.reddit.com/r/techsupport/) / [Wiki](https://rtech.support/) / [Discord](https://discord.gg/2EDwzWa) - Tech Support Subreddit
 * [Windows 10 Forums](https://www.windowsphoneinfo.com/), [SevenForums](https://www.sevenforums.com/), [MSFN](https://msfn.org/board/), [Hardforum](https://hardforum.com/), [VinaFix](https://vinafix.com/) or [TechSupportForum](https://www.techsupportforum.com/) - Tech Support Forums
 * [Medicat USB](https://medicatusb.com/) - Diagnostic and Recovery Toolkit
 * [MemTest](https://www.memtest.org/) - Memory Diagnostic Tool
 * [NotMyFault](https://learn.microsoft.com/en-us/sysinternals/downloads/notmyfault) - Driver / Hardware Problem Identification Tool
+* [Windows Repair Toolbox](https://windows-repair-toolbox.com/) - Multi-Tool Repair App
 * [Boot Failure Troubleshooting Chart](https://i.ibb.co/d2GSKf7/624c64629e27.png) - Boot Failure Troubleshooting Guide
 * [OpenBoardData](https://openboarddata.org/) - Board Repair Data
 * [SARDU](https://www.sarducd.it/) - Create Recovery USB Flash Drive or Disk
