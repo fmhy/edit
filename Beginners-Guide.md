@@ -113,7 +113,6 @@ Use [this](https://bitbucket.org/magnolia1234/bypass-paywalls-firefox-clean/src/
 **[Password Managers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools#wiki_.25B7_password_managers)** - Save multiple passwords
 **[HaveIBeenPwned](https://haveibeenpwned.com/)** - Get notified when your email or phone number has been found in a data breach
 **[VPN List](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25BA_vpn)** - VPN Index
-**[The Practical Linux Hardening Guide](https://github.com/trimstray/the-practical-linux-hardening-guide)** - Linux Privacy Guide
 **[File Encryption Tools](https://fmhy.pages.dev/storage/#file-encryption-tools)** - File Encryption Apps / Tools
 
 !!!note Note that a VPN is not needed outside of torrenting. You can avoid the need for one altogether by sticking to direct download and streaming sites.
