@@ -4,7 +4,7 @@
 ***
 ***
 
-**[Table of Contents](https://ibb.co/6PXLf7M)** - For mobile users
+**[Table of Contents](https://ibb.co/3sDtJ0S)** - For mobile users
 
 ***
 *** 
@@ -566,6 +566,8 @@
 
 ## ▷ Tech News
 
+* ⭐ **[KrebsOnSecurity](https://krebsonsecurity.com/)** - Security News
+* ⭐ **[Hacker News](https://news.ycombinator.com/)**, [2](https://www.hckrnws.com/) / [Highlighter](https://greasyfork.org/en/scripts/39311) / [Search](https://hn.algolia.com/), [2](https://hn-recommend.julienc.me/) / [AI Chatbot](https://chathn.vercel.app/) - Tech / Hacking News
 * [HackerNoon](https://hackernoon.com/), [gHacks](https://www.ghacks.net/), [NeoWin](https://www.neowin.net/), [TweakTown](https://www.tweaktown.com/) or [TechSpot](https://www.techspot.com/) - Tech News
 * [TechURLs](https://techurls.com/), [DevURLs](https://devurls.com/), [Techmeme](https://www.techmeme.com/m/), [The Brutalist Report](https://brutalist.report/), [Lobsters](https://lobste.rs/) / [Highlighter](https://greasyfork.org/en/scripts/40906) or [jimmyr](https://jimmyr.com/) - Tech / Programming News Aggregators
 * [TuxURLs](https://tuxurls.com/) - Linux News
@@ -573,13 +575,6 @@
 * [Geeks3D](https://www.geeks3d.com/), [Toms Hardware](https://www.tomshardware.com/), [Overclock3D](https://overclock3d.net/) or [anandtech](https://www.anandtech.com/) - Hardware News / Reviews
 * [EmergentMind](https://www.emergentmind.com/), [Singularity Hub](https://singularityhub.com/) or [Dupple](https://www.dupple.com/techpresso-archives) - AI News
 * [Internet Society](https://pulse.internetsociety.org/blog) - Internet Infrastructure News
-
-***
-
-## ▷ Security News
-
-* ⭐ **[KrebsOnSecurity](https://krebsonsecurity.com/)** - Security News
-* ⭐ **[Hacker News](https://news.ycombinator.com/)**, [2](https://www.hckrnws.com/) / [Highlighter](https://greasyfork.org/en/scripts/39311) / [Search](https://hn.algolia.com/), [2](https://hn-recommend.julienc.me/) / [AI Chatbot](https://chathn.vercel.app/) - Hacking News
 * [Hacki](https://github.com/Livinglist/Hacki), [Harmonic](https://play.google.com/store/apps/details?id=com.simon.harmonichackernews), [Glider](https://github.com/Mosc/Glider) or [HackerWeb](https://hackerwebapp.com/) - Hacker News Clients
 * [Hackers](https://apps.apple.com/us/app/hackers-for-hacker-news/id603503901) - Hacker News iOS App
 * [Talos Blog](https://blog.talosintelligence.com/) or [IT Security Guru](https://www.itsecurityguru.org/) - Security News / Information
