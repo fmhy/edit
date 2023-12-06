@@ -28,6 +28,7 @@
 * [Pinging](https://www.pinging.net/) - Internet Uptime Monitor
 * [NetBlocks](https://api.webprobe.org/) or [OpenNetMeter](https://github.com/Ashfaaq18/OpenNetMeter) - Internet Performance Monitor
 * [WiFi Analyzer](https://apps.microsoft.com/store/detail/wifi-analyzer/9NBLGGH33N0N) - WiFi Analyzer
+* [Ethr](https://github.com/Microsoft/Ethr) - Network Performance Tool
 * [NETworkManager](https://github.com/BornToBeRoot/NETworkManager) or [WLan10](https://github.com/afit/wlan10) - Network Manager
 * [mRemoteNG](https://mremoteng.org/) - Remote Connections Manager
 * [Netbalancer](https://netbalancer.com/) - Internet Traffic Control
@@ -381,6 +382,7 @@
 
 * ⭐  **[All about RSS](https://github.com/AboutRSS/ALL-about-RSS)**, [RSSTango](https://rentry.org/rrstango), [To RSS](https://www.to-rss.xyz/), [Awesome RSS Feeds](https://github.com/plenaryapp/awesome-rss-feeds) or [RSS](https://gist.github.com/thefranke/63853a6f8c499dc97bc17838f6cedcc2) - RSS Feeds / Tools
 * ⭐ **[Feedly](https://feedly.com/)** - Feed Reader
+* ⭐ **[Feedless](https://feedless.org/)**, [MoRSS](https://morss.it/), [RSSHub](https://github.com/DIYgod/RSSHub), [Open RSS](https://openrss.org/), [rsspls](https://github.com/wezm/rsspls), [FetchRSS](https://fetchrss.com/), [Janicek](https://feed.janicek.co/) or [FiveFilters](https://createfeed.fivefilters.org/) - RSS Feed Generators
 * ⭐ **[RSS Bridge](https://github.com/RSS-Bridge/rss-bridge)** - RSS Feed for Sites Missing It
 * [TheFeedReaderBot](https://thefeedreaderbot.com/) or [NewsBoat](https://newsboat.org/) - Console RSS Readers
 * [WebFeed](https://taoshu.in/webfeed/turn-browser-into-feed-reader.html) or [tt-rss](https://tt-rss.org/) - Web RSS Readers
@@ -397,7 +399,6 @@
 * [Osmosfeed](https://github.com/osmoscraft/osmosfeed) - RSS Reader
 * [rss](https://github.com/ssddanbrown/rss) - RSS Reader
 * [yarr](https://github.com/nkanaev/yarr) - RSS Reader
-* [MoRSS](https://morss.it/), [RSSHub](https://github.com/DIYgod/RSSHub), [Open RSS](https://openrss.org/), [rsspls](https://github.com/wezm/rsspls), [FetchRSS](https://fetchrss.com/), [Janicek](https://feed.janicek.co/) or [FiveFilters](https://createfeed.fivefilters.org/) - RSS Feed Generators
 * [hacker-feeds-cli](https://github.com/Mayandev/hacker-feeds-cli) - GitHub, Reddit, Hacker News & other Feeds
 * [RSSMail](https://git.panda-roux.dev/rssmail/about/) or [FeedButler](https://feedbutler.app/en) - RSS to Email
 * [Sift RSS](https://siftrss.com/) - RSS Feed Filters
@@ -410,7 +411,7 @@
 # ► Browser Tools
 
 * 🌐 **[Browser Comparisons](https://avoidthehack.com/util/browser-comparison)**
-* ↪️ **[Browser Privacy Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25B7_browser_tools)**
+* ↪️ **[Browser Privacy Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25BA_web_privacy)**
 * ⭐ **[BrowserBench](https://browserbench.org/)** or [WPT](https://wpt.fyi) - Browser Benchmark Tests
 * ⭐ **[Browserling](https://www.browserling.com/)** - Browser Emulators
 * ⭐ **[Firefox Keyboard Shortcuts](https://support.mozilla.org/en-US/kb/keyboard-shortcuts-perform-firefox-tasks-quickly)** 
@@ -422,7 +423,6 @@
 * [Browsh](https://www.brow.sh/) - Text Based Browser
 * [MinBrowser](https://minbrowser.org/) - Minimalist Browser
 * [Vieb](https://vieb.dev/) - Vim Inspired Browser
-* [Artic Fox](https://github.com/rmottola/Arctic-Fox) - Classic Pale Moon
 * [woob](https://woob.tech/) - Use Sites Without a Browser
 * [NYXT](https://nyxt.atlas.engineer/ ) - Information Extraction Browser
 * [Gemini Clients](https://geminiprotocol.net/clients.html), [Lagrange](https://github.com/skyjake/lagrange) or [Amfora](https://github.com/makew0rld/amfora) - Gemini Browsers
@@ -844,7 +844,8 @@
 * 🌐 **[Discord3rdParties](https://github.com/Discord-Client-Encyclopedia-Management/Discord3rdparties)** - Discord Client Index
 * ↪️ **[Discord Server / Bot Lists](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_discord_server_.2F_bot_lists)**
 * ↪️ **[Discord ChatGPT Bots](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/ai#wiki_.25B7_chatgpt_tools)**
-* ⭐ **[BetterDiscord](https://betterdiscord.app/)** - Modifiable Discord Client / [GitHub](https://github.com/BetterDiscord/BetterDiscord) / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_betterdiscord_tools)
+* ⭐ **[BetterDiscord](https://betterdiscord.app/)** - Modifiable Discord Client / [GitHub](https://github.com/BetterDiscord/BetterDiscord)
+* ⭐ **BetterDiscord Tools** - [Plugins](https://betterdiscord.app/plugins), [Themes](https://betterdiscord.app/themes), [Theme Editor](https://bdeditor.dev/), [Support](https://discord.gg/0Tmfo5ZbORCRqbAd), [Nitro](https://github.com/riolubruh/YABDP4Nitro), [Message Panel](https://github.com/SanjaySunil/BetterDiscordPanel)
 * ⭐ **[Vencord](https://vencord.dev/)** - Modded Discord Client / [Github](https://github.com/Vendicated/Vencord)
 * ⭐ **[Discohook](https://discohook.org/)** / [Discohook Utils](https://dutils.shay.cat/), [PSDiscord](https://github.com/EvotecIT/PSDiscord) or [Embed Generator](https://message.style/) - Embed Generators
 * ⭐ **[CustomRP](https://www.customrp.xyz/)** - Customize Discord Rich Presence
@@ -1314,3 +1315,4 @@
 * [GoToSocial](https://docs.gotosocial.org/en/latest/) - Federated Microblogging 
 * [Fedi Tips](https://fedi.tips/) - Fediverse Guide
 * [Fediverse Stats](https://the-federation.info/) or [FediDB](https://fedidb.org/) - Fediverse statistics
+* [Fediverser](https://portal.alien.top/) - Reddit to Lemmy Community Auto-Sync
