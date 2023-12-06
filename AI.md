@@ -144,6 +144,7 @@
 * 🌐 **[AI Collection](https://www.thataicollection.com/)** - AI Directory
 * 🌐 **[AI Scout](https://aiscout.net/)** - AI Directory
 * 🌐 **[AIcyclopedia](https://www.aicyclopedia.com/)** - AI Directory
+* [Awesome-GPTs](https://github.com/ai-boost/Awesome-GPTs) - AI Directory
 * [Favird](https://favird.com/) - AI Directory
 * [FutureTools](https://www.futuretools.io/?pricing-model=free) - AI Directory
 * [ToolScoutAI](https://toolscout.ai/) - AI Directory
@@ -247,6 +248,7 @@
 * [Makeayo](https://makeayo.com) / [Discord](https://discord.gg/FbdSxdeV8m)
 * [Sygil WebUI](https://github.com/Sygil-Dev/sygil-webui) / [Discord](https://discord.com/invite/ttM8Tm6wge)
 * [Radiata](https://github.com/ddPn08/Radiata)
+* [Noiselith](https://noiselith.com/)
 * [NMKD Stable Diffusion GUI](https://github.com/n00mkrad/text2image-gui)
 * [aiimag.es](https://sunija.itch.io/aiimages) / [Discord](https://discord.com/invite/Fge4dVHFM2)
 * [DiffusionBee](https://diffusionbee.com/) - MacsOS / [Github](https://github.com/divamgupta/diffusionbee-stable-diffusion-ui) / [Discord](https://discord.com/invite/t6rC5RaJQn)
