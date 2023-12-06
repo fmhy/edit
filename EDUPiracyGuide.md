@@ -251,7 +251,7 @@
 * [Matthen](https://blog.matthen.com/) - Math & Science Animations
 * [Information Is Beautiful](https://informationisbeautiful.net/) - Data / Information / Infographics / Visualizations
 * [Lucid](https://apps.apple.com/us/app/lucid-learn-visually/id1482780647) - Visual Learning Guides / iOS
-* [HowStuffWorks](https://www.howstuffworks.com/) - Learn How Things Work
+* [HowStuffWorks](https://www.howstuffworks.com/) or [CoolMindMaps](https://www.coolmindmaps.com/) - Learn How Things Work
 * [Explorabl.es](https://explorabl.es/), [MinuteLabs](https://minutelabs.io/), [Wikiversity](https://www.wikiversity.org/), [Learnamic](https://www.learnamic.com/) or [TurtleDiary](https://www.turtlediary.com/) - Quizzes / Guides / Games
 * [SoftSchools](https://www.softschools.com/) or [EnchantedLearning](https://www.enchantedlearning.com/) - Worksheets / Games / Quizzes
 * [BrainPOP Jr.](https://jr.brainpop.com/) - Quizzes / Animations
@@ -334,7 +334,7 @@
 * ⭐ **[Number Academy](https://number.academy/)** - Encyclopedia of Numbers
 * ⭐ **[Microsoft Math Solver](https://math.microsoft.com/)**, [SpeedCrunch](https://speedcrunch.org/) or [MathPapa](https://www.mathpapa.com/algebra-calculator.html) - Advanced Calculator
 * ⭐ **[Cymath](https://www.cymath.com/)**, [MathGPT](https://mathgpt.streamlit.app/), [PhotoMath](https://github.com/nbats/FMHYedit/blob/main/base64.md#photomath) / [iOS](https://apps.apple.com/us/app/photomath/id919087726), [Mathway](https://www.mathway.com/), [EverydayCalculation](https://answers.everydaycalculation.com/), [Math Solver](https://mathsolver.microsoft.com/en), [Tiger Algebra](https://www.tiger-algebra.com/) or [Symbolab](https://www.symbolab.com/) - Math Problem Solvers
-* ⭐ **[AoPS Alcumus](https://artofproblemsolving.com/alcumus)** - Interactive Math Site
+* ⭐ **[AoPS Alcumus](https://artofproblemsolving.com/)** - Interactive Math Site
 * ⭐ **[Wolfram|Alpha](https://www.wolframalpha.com/examples/mathematics)** - Calculator
 * ⭐ **[Omni Calculator](https://www.omnicalculator.com/)** - Calculator
 * [CalculatorSoup](https://www.calculatorsoup.com/) - Calculator
@@ -405,7 +405,8 @@
 * [QPaths](https://qpaths.deqart.com/) - Learn Basic Quantum Terms
 * [quantum](https://play.google.com/store/apps/details?id=brychta.stepan.quantum_en) - Quantum Physics Learning App
 * [arXiv](https://arxiv.org/) - Science / Math / Physics / [Search](https://arxiv-sanity-lite.com/)
-* [Physics forums](https://www.physicsforums.com/) - Forum / Physics / Science
+* [Physics forums](https://www.physicsforums.com/) - Forum / Physics / Science Forum
+* [Physics Olympiads](https://discord.gg/phods) - Physics Discord Community
 * [Quantum Web Directory](https://qntm2017.github.io/qntm/OV.html) - Science / Tech / Math / Physics
 * [Compare Pendulum](https://www.myphysicslab.com/pendulum/compare-pendulum-en.html) - Pendulum Simulator
 * [OpenFoam](https://openfoam.org/), [PC Progress](https://www.pc-progress.com/), [Fluid Simulation WebGL](https://paveldogreat.github.io/WebGL-Fluid-Simulation/), [WebGL Fluid Experiment](https://haxiomic.github.io/GPU-Fluid-Experiments/html5/) or [Sim Flow](https://sim-flow.com/) - Fluid Dynamics Simulators
