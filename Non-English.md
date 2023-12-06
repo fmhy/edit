@@ -1226,6 +1226,7 @@
 * [z2.fm](https://z2.fm/) - Music / MP3
 * [E:/Music/](https://vk.com/e_music) - Music / MP3
 * [MDCORE](https://vk.com/mdcore) - Metal / MP3
+* [Russian Records](https://www.russian-records.com/) - Russian Record Recordings
 * [Top Radio](https://top-radio.ru/) - Radio
 * [OpenEDU](https://openedu.ru/) - Courses
 * [Teach.in](https://teach-in.ru/) - Lectures
