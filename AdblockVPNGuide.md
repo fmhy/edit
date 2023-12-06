@@ -150,19 +150,13 @@
 * 🌐 **[Awesome Vehicle Security](https://github.com/jaredthecoder/awesome-vehicle-security)** - Vehicle Security Resources
 * 🌐 **[Awesome Anti Censorship](https://github.com/danoctavian/awesome-anti-censorship)**, [Your Freedom](https://www.your-freedom.net/), [Geneva](https://geneva.cs.umd.edu/), [Cloak](https://github.com/cbeuw/Cloak) or [FreeBrowser](https://freebrowser.org/) / [Wiki](https://github.com/greatfire/wiki) - Anti-Censorship Resources
 * ↪️ **[Privacy Tools / Services](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_privacy_tools)**
-* ↪️ **[Encrypted Messaging Apps](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_encrypted_messengers)** / [2](https://docs.google.com/spreadsheets/d/1-UlA4-tslROBDS9IqHalWVztqZo7uxlCeKPQ-8uoFOU) / [3](https://www.securemessagingapps.com/)
 * ↪️ **[SMS Verification Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_sms_verification_sites)**
 * ↪️ **[Password Data Breach Detection](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_password_data_breach_check)**
 * ↪️ **[File Encryption](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_file_encryption_tools)**
 * ↪️ **[Drive Formatting / File Deletion](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_drive_formatting_.2F_file_deletion)**
 * ↪️ **[Windows 10 Antispy Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_windows_10_antispy_tools)**
-* ↪️ **[Encrypted XMPP Servers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_encrypted_xmpp_servers)**
-* ⭐ **[simplewall](https://www.henrypp.org/product/simplewall)**, [WFC](https://www.binisoft.org/wfc.php), [pfSense](https://www.pfsense.org/) / [How-to](https://youtu.be/am7xT-zU1Q0) or [Tinywall](https://tinywall.pados.hu/) - Firewall / Network Monitors
-* ⭐ **[Cryptomator](https://cryptomator.org/)**, [Boxcryptor](https://www.boxcryptor.com/en/) or [Tahoe-LAFS](https://tahoe-lafs.org/trac/tahoe-lafs) - Cloud File Encryption
 * ⭐ **[Privacy.Sexy](https://privacy.sexy/)** - Privacy Scripts 
-* ⭐ **[GameIndustry](https://gameindustry.eu/en/)** - Block Trackers in Desktop / Mobile Games
 * ⭐ **[Password Strength Chart](https://i.ibb.co/vZdqMvm/6728c7ef02e9.png)**
-* ⭐ **[2FA Directory](https://2fa.directory/)** - List of Sites with 2FA Support
 * [Yubioath](https://developers.yubico.com/yubioath-flutter/), [AuthMe](https://github.com/Levminer/authme), [Protecc](https://github.com/FireCubeStudios/Protecc), [2FAuth](https://github.com/Bubka/2FAuth) or [Tauthy](https://github.com/pwltr/tauthy) - Two-Factor Authentication
 * [PaP](https://trypap.com/) or [PasswordMonster](https://www.passwordmonster.com/) - Password Strength Check
 * [PasswordsGenerator](https://passwordsgenerator.net/) - Secure Password Generator
@@ -173,15 +167,8 @@
 * [Vault](https://www.vaultproject.io/) - Data Security Service / [GitHub](https://github.com/hashicorp/vault)
 * [Team Elite](https://www.te-home.net/) or [Technet24](https://technet24.ir/) - Security Software / [Translator](https://github.com/FilipePS/Traduzir-paginas-web)
 * [No Thought is a Crime](https://ntc.party/) - Internet Censorship Discussion
-* [Element](https://element.io/) / [Themes](https://github.com/aaronraimist/element-themes), [qTox](https://qtox.github.io/), [Utopia](https://u.is/en/), [linphone](https://www.linphone.org/), [Jami](https://jami.net/), [Tox](https://tox.chat/), [Bitmask](https://bitmask.net/) or [Wickr](https://wickr.com/) - Encrypted Messaging / Video Calls 
-* [SimpleDiscordCrypt](https://gitlab.com/An0/SimpleDiscordCrypt) - Discord Message Encryption
-* [Adamant](https://adamant.im/) - Decentralized Messenger
-* [Hexchat](https://hexchat.github.io/) - Private IRC Client 
-* [ssh-chat](https://github.com/shazow/ssh-chat) or [Devzat](https://github.com/quackduck/devzat) - SSH Chat / [Info](https://shazow.net/posts/ssh-how-does-it-even/)
-* [Data Removal Guide](https://inteltechniques.com/workbook.html) - Remove Online Data
 * [Big Ass Data Broker Opt-Out List](https://github.com/yaelwrites/Big-Ass-Data-Broker-Opt-Out-List) - List of Data Broker Opt-Out Resources 
 * [Blur](https://dnt.abine.com/) - Protect Passwords & Personal Information 
-* [Plain Text Offenders](https://plaintextoffenders.com/) - Sites That Don't Securely Store Passwords
 * [Gauth](https://github.com/pcarrier/gauth) - Google Authenticator for Laptops
 * [F-Secure Identity Theft Checker](https://www.f-secure.com/en/identity-theft-checker) - Identity Theft Check
 * [Random User Generator](https://randomuser.me/) - Generate Fake User Details 
@@ -191,23 +178,14 @@
 * [Filecrypt](https://filecrypt.cc/) - Encrypt File Links
 * [ProtectedZip](https://protectedzip.com/) - Encrypt Zip Files
 * [PDFEncrypt](https://pdfencrypt.net/) - PDF File Encryption
-* [GPGTools](https://gpgtools.org/) - Encrypt & Sign Data / Communications 
 * [CiphersByRitter](http://ciphersbyritter.com/) - Cipher / Encryption Articles
 * [CacheMonkey](https://www.cachemonkey.app/) - Browse / Clear Cached Images
-* [PeerTube](https://joinpeertube.org/) / [2](https://search.joinpeertube.org/) / [3](https://sepiasearch.org/) - Decentralized Video Hosting / [Instances](https://instances.joinpeertube.org/instances)
 * [PrivNote](https://privnote.com/), [SafeNote](https://safenote.co/), [Burn.Link](https://burn.link/), [ThisLinkWillSelfDestruct](https://thislinkwillselfdestruct.com/), [s.cr](https://s.cr/) or [OneTimeSecret](https://onetimesecret.com/) - Send Self-Destructing Messages
 * [xcodx.ru](https://xcodx.ru/), [Duckist](https://duckist.com/), [chausies encrypt](https://chausies.xyz/encrypt), [Steg Cloak](https://stegcloak.surge.sh/) or [spam mimic](https://www.spammimic.com/index.cgi) - Send Encrypted Text
 * [Paper Age](https://github.com/matiaskorhonen/paper-age) - Create Paper Backups of Secrets
-* [Pasteburn](https://github.com/pasteburn/pasteburn) - Self-Hosted Encrypted Pastebin
 * [How-to Buy Bitcoin Anonymously](https://coinsutra.com/buy-bitcoin-with-prepaid-card/)
 * [USBKill](https://github.com/hephaest0s/usbkill) - Anti-Forensic Kill-Switch
 * [HiddenVM](https://github.com/aforensics/HiddenVM) - Run a Oracle VM on TailsOS
-* [Telemetry.md](https://gist.github.com/ave9858/a2153957afb053f7d0e7ffdd6c3dcb89) - Disable Telemetry Guide
-* [Spybot Anti-Beacon](https://www.safer-networking.org/products/spybot-anti-beacon/) - Stop Telemetry Data Leaks
-* [IKnowWhatYouDownload](https://iknowwhatyoudownload.com/) - Track Torrent Download Leaks
-* [Safing Portmaster](https://safing.io/) - Monitor Network / Block Trackers / [GitHub](https://github.com/Safing/portmaster)
-* [Undiscord](https://github.com/victornpb/undiscord), [discord-delete](https://github.com/cedws/discord-delete), or [QuickDeleteMessages](https://u.nu/9i9jk) - Delete Discord Messages / [Warning](https://i.ibb.co/pdg4hRr/0b0d78219f05.png)
-* [Blacklight](https://themarkup.org/series/blacklight) - Website Privacy Inspector
 * [Terms of Service; Didn't Read](https://tosdr.org/) - TLDR TOS
 * [V2Ray](https://v2ray.com/en/), [V2Fly](https://www.v2fly.org/), [V2RayN](https://github.com/freefq/free) or [v2ray-core](https://github.com/v2fly/v2ray-core) - DIY Privacy Network
 * V2Ray Tools - [GUI](https://github.com/2dust/v2rayN), [2](https://github.com/Qv2ray/Qv2ray) / [GeoIP](https://github.com/Loyalsoldier/geoip) / [Free Server](https://fanqiang.network/) / [Cloudflare Scan](https://cloudflare-v2ray.vercel.app/)/ [Tutorial](https://github.com/freefq/tutorials)
@@ -263,9 +241,15 @@
 * 🌐 **[de-google](https://www.reddit.com/r/privacy/wiki/de-google)**, [De-google-ify](https://degooglisons-internet.org/en/), [Degoogle](https://github.com/tycrek/degoogle), [Google Alt List](https://www.techspot.com/news/80729-complete-list-alternatives-all-google-products.html), [/r/DeGoogle](https://www.reddit.com/r/degoogle) or [No More Google](https://nomoregoogle.com/) - Google App Alternatives
 * 🌐 **[Awesome I2P](https://github.com/mikalv/awesome-i2p)** - I2P Resources
 * ↪️ **[Encode / Decode URLs](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_encode_.2F_decode_urls)**
+* ↪️ **[Encrypted Messaging Apps](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_encrypted_messengers)** / [2](https://docs.google.com/spreadsheets/d/1-UlA4-tslROBDS9IqHalWVztqZo7uxlCeKPQ-8uoFOU) / [3](https://www.securemessagingapps.com/)
+* ↪️ **[Encrypted XMPP Servers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_encrypted_xmpp_servers)**
 * ⭐ **[Vytal.io](https://vytal.io/)**, [FirstPartySimulator](https://firstpartysimulator.org/), [PersonalData](https://personaldata.info/) or [WEBKAY](https://webkay.robinlinus.com/) - Browser Tracking Tests
 * ⭐ **[PrivacySpy](https://privacyspy.org/)** - Grades a Sites Privacy Policies 
 * ⭐ **[ACCOUNTKILLER](https://www.accountkiller.com/)** or [JustDeleteMe](https://justdeleteme.xyz/), [2](https://backgroundchecks.org/justdeleteme/) - Find / Terminate Old Accounts
+* ⭐ **[2FA Directory](https://2fa.directory/)** - List of Sites with 2FA Support
+* ⭐ **[simplewall](https://www.henrypp.org/product/simplewall)**, [WFC](https://www.binisoft.org/wfc.php), [pfSense](https://www.pfsense.org/) / [How-to](https://youtu.be/am7xT-zU1Q0) or [Tinywall](https://tinywall.pados.hu/) - Firewall / Network Monitors
+* ⭐ **[Cryptomator](https://cryptomator.org/)**, [Boxcryptor](https://www.boxcryptor.com/en/) or [Tahoe-LAFS](https://tahoe-lafs.org/trac/tahoe-lafs) - Cloud File Encryption
+* ⭐ **[GameIndustry](https://gameindustry.eu/en/)** - Block Trackers in Desktop / Mobile Games
 * [How Secure is My Password](https://www.security.org/how-secure-is-my-password/) - Password Strength Checker
 * [h8Mail](https://github.com/khast3x/h8mail) or [FirefoxMonitor](https://monitor.firefox.com/) - Data Breach Check
 * [BreachDirectory](https://breachdirectory.org), [Snusbase](https://snusbase.com/), [Leak Lookup](https://leak-lookup.com/), [Trufflehog](https://github.com/trufflesecurity/trufflehog), [Database Search](https://search.0t.rocks/) or [leakpeek](https://leakpeek.com/) - Data Breach Search Engines
@@ -301,6 +285,21 @@
 * [fluxfonts](https://github.com/da2x/fluxfonts) - Hide Unique Font Fingerprint
 * [NoScriptFingerprint](https://noscriptfingerprint.com/) - Non-JavaScript Fingerprinting
 * [dataskydd](https://webbkoll.dataskydd.net/) or [Blacklight](https://themarkup.org/blacklight) - Check what data-protecting measures a site has taken
+* [Plain Text Offenders](https://plaintextoffenders.com/) - Sites That Don't Securely Store Passwords
+* [Element](https://element.io/) / [Themes](https://github.com/aaronraimist/element-themes), [qTox](https://qtox.github.io/), [Utopia](https://u.is/en/), [linphone](https://www.linphone.org/), [Jami](https://jami.net/), [Tox](https://tox.chat/), [Bitmask](https://bitmask.net/) or [Wickr](https://wickr.com/) - Encrypted Messaging / Video Calls 
+* [SimpleDiscordCrypt](https://gitlab.com/An0/SimpleDiscordCrypt) - Discord Message Encryption
+* [Adamant](https://adamant.im/) - Decentralized Messenger
+* [Hexchat](https://hexchat.github.io/) - Private IRC Client 
+* [ssh-chat](https://github.com/shazow/ssh-chat) or [Devzat](https://github.com/quackduck/devzat) - SSH Chat / [Info](https://shazow.net/posts/ssh-how-does-it-even/)
+* [Data Removal Guide](https://inteltechniques.com/workbook.html) - Remove Online Data
+* [GPGTools](https://gpgtools.org/) - Encrypt & Sign Data / Communications 
+* [PeerTube](https://joinpeertube.org/) / [2](https://search.joinpeertube.org/) / [3](https://sepiasearch.org/) - Decentralized Video Hosting / [Instances](https://instances.joinpeertube.org/instances)
+* [Pasteburn](https://github.com/pasteburn/pasteburn) - Self-Hosted Encrypted Pastebin
+* [Telemetry.md](https://gist.github.com/ave9858/a2153957afb053f7d0e7ffdd6c3dcb89) - Disable Telemetry Guide
+* [Spybot Anti-Beacon](https://www.safer-networking.org/products/spybot-anti-beacon/) - Stop Telemetry Data Leaks
+* [IKnowWhatYouDownload](https://iknowwhatyoudownload.com/) - Track Torrent Download Leaks
+* [Safing Portmaster](https://safing.io/) - Monitor Network / Block Trackers / [GitHub](https://github.com/Safing/portmaster)
+* [Undiscord](https://github.com/victornpb/undiscord), [discord-delete](https://github.com/cedws/discord-delete), or [QuickDeleteMessages](https://u.nu/9i9jk) - Delete Discord Messages / [Warning](https://i.ibb.co/pdg4hRr/0b0d78219f05.png)
 * [Cusdis](https://cusdis.com/) - Privacy-Focused Comment System / [GitHub](https://github.com/djyde/cusdis)
 * [Social Amnesia](https://github.com/Nick-Gottschlich/Social-Amnesia) - Reddit / Twitter Auto Post Delete
 * [delete-likes-from-twitter](https://gist.github.com/aymericbeaumet/d1d6799a1b765c3c8bc0b675b1a1547d) - Delete Twitter Likes / Favorites 
