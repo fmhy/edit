@@ -61,7 +61,7 @@
 * [tvembed.cc](https://tvembed.cc/) - Movies / TV / Anime / API
 * [GoMo](https://gomo.to/) - Movies / TV / Anime / API
 * [SuperEmbed](https://www.superembed.stream/) - Movies / TV / API
-* [VidSrc](https://vidsrc.me/) - Movies / TV / Anime / API
+* [VidSrc](https://vidsrc.to/) or [VidSrc.me](https://vidsrc.me/) - Movies / TV / Anime / API
 * [BlackVid](https://blackvid.space/) - Movies / TV / API
 * [VidDroid Desktop](https://github.com/callisto-jovy/viddroid_desktop) - Streaming App
 * [TG-FileStreamBot](https://github.com/EverythingSuckz/TG-FileStreamBot) - Telegram File Streaming
@@ -383,6 +383,7 @@
 * ⭐ **[WatchWrestling24](https://watchwrestling24.net/)** - MMA / Wrestling
 * ⭐ **[WatchWrestlingUp](https://watchwrestlingup.org/)** - MMA / Wrestling
 * ⭐ **[Race Replay](https://racereplay.net/)** - Motorsports
+* ⭐ **[Nascar Classics](https://classics.nascar.com/)** - Nascar
 * [SportsReplay](https://discord.com/invite/2r4pj67gCv) - Sports
 * [MLBLive](https://mlblive.net/) - Baseball
 * [FullReplays](https://www.fullreplays.com/) - Soccer
@@ -827,13 +828,14 @@
 * [rate.house](https://rate.house/) - Media Tracker
 * [FlickChart](https://www.flickchart.com/) - Rank your movies
 * [Box Office Mojo](https://www.boxofficemojo.com/) - Box Office Earnings
-* [Tastoid](https://www.tastoid.com/) - Mood Based Recommendations 
+* [Tastoid](https://www.tastoid.com/) - Mood Based Recommendations
 * [Autum](https://autum.com/) - Movie / TV Recommendations
 * [Suggestream](https://suggestream.com/) - Movies / TV Recommendations 
 * [BestSimilar](https://bestsimilar.com/) - Movie Recommendations
 * [Taste.io](https://www.taste.io/) - Movie Recommendations
 * [Movie-Map](https://www.movie-map.com/) - Movie Recommendations
 * [GNOD](https://www.gnod.com/) - Movie Recommendations
+* [MovieLens](https://movielens.org/) - Movie Recommendations
 * [WatchNowAI](https://watchnowai.com/) - Movie Recommendations
 * [FilmFish](https://www.film-fish.com/) - Movie & TV Recommendations 
 * [Suggest Me Movie](https://www.suggestmemovie.com/) - Movie Recommendations
