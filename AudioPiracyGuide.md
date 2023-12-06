@@ -13,8 +13,8 @@
 ## ▷ Streaming Apps
 
 * ↪️ **[Spotify Adblock / Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_spotify_tools)**
-* ↪️ **[YouTube Music Clients](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_youtube_music_players)**
 * ⭐ **[Spotify Client](https://www.spotify.com/us/download/)**, [Lofi Rocks](https://www.lofi.rocks/), [ncspot](https://github.com/hrkfdn/ncspot), [Strix](https://www.strixmusic.com/) or [SpoTube](https://spotube.netlify.app/) - Spotify Clients / [Android TV](https://github.com/nbats/FMHYedit/blob/main/base64.md#android-tv-spotify)
+* ⭐ **[yewtube](https://github.com/mps-youtube/yewtube)**, [YTMDesktop](https://ytmdesktop.app/) / [2](https://github.com/Venipa/ytmdesktop2), [Youtube-Music](https://github.com/th-ch/youtube-music) or [Headset](https://headsetapp.co) - YouTube Music Clients
 * ⭐ **[BetterSoundcloud](https://bsc.alirezakj.com/)** - Soundcloud Client
 * [nuclear](https://nuclear.js.org/) - Streaming / [GitHub](https://github.com/nukeop/nuclear) / [Discord](https://discord.com/invite/JqPjKxE)
 * [FunkWhale](https://funkwhale.audio/) - Streaming
@@ -77,9 +77,10 @@
 * [Tasso Music](https://www.tassomusic.org/) - Early Modern Music
 * [UCSB Cylinders](https://cylinders.library.ucsb.edu/index.php), [Tinfoil](http://www.tinfoil.com/) or [i78s](https://i78s.org/) - Phonograph Cylinder Recordings
 * [FirstSounds](https://www.firstsounds.org/) - Oldest Music Recordings
+* [Russian Records](https://www.russian-records.com/) - Russian Record Recordings
 * [Measuring Polyphony](https://measuringpolyphony.org/) - Digital Encoding of Late Medeival Music
-* [Tabletop Audio](https://tabletopaudio.com/) - Ambient Audio for Tabletop Games
 * [DigLib](https://diglib.library.vanderbilt.edu/ama-browse.pl) - East African Recordings
+* [Tabletop Audio](https://tabletopaudio.com/) - Ambient Audio for Tabletop Games
 * [Openwhyd](https://openwhyd.org/) - Music Sharing Community / [Chrome](https://chrome.google.com/webstore/detail/openwhyd-%E2%9C%9A-track/foohaghobcolamikniehcnnijdjehfjk)
 * [Volume](https://volume.com/) - Live Cam Concerts
 * [Bandcamp New Tab](https://chrome.google.com/webstore/detail/bandcamp-new-tab/nbabnnemlofbllcflfjpjgkgmcdbeemc) - Random Bandcamp Songs on New Tabs
@@ -325,6 +326,7 @@
 * [OtakuOst](https://otakuost.net/) - Anime Soundtracks & Japanese Music 
 * [KDramaOST](https://kdramaost.com/en) - Asian Drama Soundtracks
 * [Doujin Cafe](https://discord.com/invite/doujincafe) or [DoujinStyle](https://discord.com/invite/z2QDFdA) - Doujin Music
+* [SongStems](https://songstems.net/) - STEM Files
 * [BitMidi](https://bitmidi.com/), [Geocities Midi's](https://archive.org/details/archiveteam-geocities-midi-collection-2009) / [2](https://www.midicities.com/GeoCities), [Tricotism](https://www.tricotism.com/), [ArtScene](http://artscene.textfiles.com/music/midi/) or [VGMusic](https://www.vgmusic.com/) - MIDI Files
 * [Tabletop Audio](https://tabletopaudio.com/) - Ambient Audio for Tabletop Games 
 * [Free Music Archive](https://www.freemusicarchive.org/), [Unminus](https://www.unminus.com/), [BenSound](https://www.bensound.com/), [HookSounds](https://www.hooksounds.com/), [UppBeat](https://uppbeat.io/), [Soundimage](https://soundimage.org/), [free stock music](https://www.free-stock-music.com/) or [Fugue](https://icons8.com/music) - Royalty Free Music
