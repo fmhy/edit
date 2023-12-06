@@ -151,6 +151,7 @@
 * [HopToDesk](https://www.hoptodesk.com/)
 * [CoScreen](https://www.coscreen.co/)
 * [TigerVNC](https://tigervnc.org/) - VNC
+* [noVNC](https://novnc.com/info.html) - JavaScript VNC
 * [Oracle VPS](https://rentry.co/oraclevps) - VPS
 * [InputDirector](https://www.inputdirector.com/) - Multi-Computer
 * [Barrier](https://github.com/debauchee/barrier) - Multi-Computer
@@ -178,17 +179,17 @@
 
 ## ▷ Window Managers
 
+* ⭐ **[Komorebi](https://github.com/LGUG2Z/komorebi)**
 * [nog](https://github.com/TimUntersberger/nog)
 * [bug.n](https://github.com/fuhsjr00/bug.n)
 * [GridMove](https://www.dcmembers.com/jgpaiva/)
 * [Amethyst Windows](https://github.com/glsorre/amethystwindows)
 * [WorkSpacer](https://workspacer.org/)
-* [Komorebi](https://github.com/LGUG2Z/komorebi)
 * [TileMe](https://gitlab.com/slavoutich/tileme)
-* [WindowsGrid](http://windowgrid.net/)
-* [FancyWM](https://apps.microsoft.com/store/detail/fancywm-dynamic-tiling-window-manager/9P1741LKHQS9?hl=en-in&gl=IN)
 * [GlazeWM](https://github.com/lars-berger/GlazeWM)
 * [MiguruWM](https://github.com/imawizard/MiguruWM)
+* [WindowsGrid](http://windowgrid.net/)
+* [FancyWM](https://apps.microsoft.com/store/detail/fancywm-dynamic-tiling-window-manager/9P1741LKHQS9?hl=en-in&gl=IN)
 * [AltSnap](https://github.com/RamonUnch/AltSnap) - Improved Windows Dragging
 
 ***
@@ -214,6 +215,7 @@
 * [CoreTemp](https://www.alcpu.com/CoreTemp/) - Processor Temperature Monitor
 * [BatteryMode](https://github.com/tarcode-apps/BatteryMode) or [Percentage](https://github.com/kas/percentage) - System Tray Battery Percentage / Managers
 * [phwmon](https://gitlab.com/o9000/phwmon)
+* [HWRadar](https://coderbag.com/product/hwradar)
 * [Netdata](https://www.netdata.cloud/)
 * [bottom](https://github.com/ClementTsang/bottom)
 * [OpenHardwareMonitor](https://openhardwaremonitor.org/) / [GitHub](https://github.com/openhardwaremonitor/openhardwaremonitor)
@@ -303,6 +305,7 @@
 * [StrokeIt](https://www.tcbmi.com/strokeit/) or [StrokesPlus](https://www.strokesplus.net/) - Mouse Gestures
 * [VirtualMouse](https://github.com/SY3141/VirtualMouse) - Mouse Camera Gestures
 * [Espanso](https://espanso.org/) - Typing Shortcuts / [GitHub](https://github.com/espanso/espanso)
+* [win-vind](https://pit-ray.github.io/win-vind/) - Vim Style Keybindings for Windows
 * [Launchy](https://launchy.net/), [FlowLauncher](https://www.flowlauncher.com/), [Keypirinha](https://keypirinha.com/), [Ueli](https://ueli.app/) / [GitHub](https://github.com/oliverschwendener/ueli) - Keystroke Launchers
 * [KeyViz](https://github.com/mulaRahul/keyviz) - Keystroke Visualizer
 * [WhatPulse](https://whatpulse.org/) - Mouse / Keyboard Usage Analyzer
@@ -347,25 +350,25 @@
 
 ## ▷ Windows Updates
 
+* ⭐ **[ChangeWindows](https://www.changewindows.org/timeline)** - Latest Windows Update Info
+* ⭐ **[VCRedist](https://github.com/abbodi1406/vcredist)** - AIO Repack for Microsoft Visual C++ Redists
 * [Wu10Man](https://github.com/WereDev/Wu10Man), [stopupdates10](https://greatis.com/stopupdates10/), [InControl](https://www.grc.com/incontrol.htm) or [windows-update-blocker](https://www.sordum.org/9470/windows-update-blocker-v1-7/) - Enable / Disable Windows 10 Updates
-* [ChangeWindows](https://www.changewindows.org/timeline) - Latest Windows Update Info
 * [LegacyUpdate](https://legacyupdate.net/) - Fix Windows Updates for Legacy Editions
 * [Extended Win 7 Updates](https://forums.mydigitallife.net/threads/bypass-windows-7-extended-security-updates-eligibility.80606) - Extended Windows 7 Updates
 * [WUReset](https://wureset.com/) - Reset Windows Update Components
 * [UUP Dump](https://uupdump.net/) - Download Unified Update Platform Files
 * [UUPMediaCreator](https://github.com/gus33000/UUPMediaCreator) - Convert Update Platform Files to Windows Media Files
 * [SnappyDrivers](https://www.snappy-driver-installer.org/), [Drivers Collection](https://driverscollection.com/) or [DriverStoreExplorer](https://github.com/lostindark/DriverStoreExplorer) - Update / Install Missing Drivers
-* [VCRedist](https://github.com/abbodi1406/vcredist) - AIO Repack for Microsoft Visual C++ Redists
 * [OcxDump](https://ocxdump.com/) - .ocx Files
 
 ***
 
 ## ▷ Windows Repair
 
+* ⭐ **[Windows Repair Toolbox](https://windows-repair-toolbox.com/)** - Multi-Tool Repair App
+[MagNumDB](https://www.magnumdb.com/), [ErrorLookup](https://github.com/henrypp/errorlookup) or [Microsoft Error Lookup](https://learn.microsoft.com/en-us/windows/win32/debug/system-error-code-lookup-tool) - Windows Debugging Tools
 * [/r/TechSupport](https://www.reddit.com/r/techsupport/) / [Wiki](https://rtech.support/) / [Discord](https://discord.gg/2EDwzWa) - Tech Support Subreddit
 * [Windows 10 Forums](https://www.windowsphoneinfo.com/), [SevenForums](https://www.sevenforums.com/), [MSFN](https://msfn.org/board/), [Hardforum](https://hardforum.com/), [VinaFix](https://vinafix.com/) or [TechSupportForum](https://www.techsupportforum.com/) - Tech Support Forums
-* [x64dbg](https://x64dbg.com/), [MagNumDB](https://www.magnumdb.com/), [ErrorLookup](https://github.com/henrypp/errorlookup) or [Microsoft Error Lookup](https://learn.microsoft.com/en-us/windows/win32/debug/system-error-code-lookup-tool) - Windows Debugging Tools
-* [Windows Repair Toolbox](https://windows-repair-toolbox.com/) - Multi-Tool Repair App
 * [Medicat USB](https://medicatusb.com/) - Diagnostic and Recovery Toolkit
 * [MemTest](https://www.memtest.org/) - Memory Diagnostic Tool
 * [NotMyFault](https://learn.microsoft.com/en-us/sysinternals/downloads/notmyfault) - Driver / Hardware Problem Identification Tool
