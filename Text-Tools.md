@@ -431,6 +431,7 @@
 * [Velvetyne](https://velvetyne.fr/)
 * [FontsHub](https://fontshub.pro/)
 * [CandyFonts](https://candyfonts.com/)
+* [uncut.wtf](https://uncut.wtf/)
 * [Font Library](https://fontlibrary.org/)
 * [The League of Movable Type](https://www.theleagueofmoveabletype.com/)
 * [Lost Type Co-op](https://losttype.com/browse/)
