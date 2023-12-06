@@ -440,7 +440,7 @@
 * [BlueClover](https://github.com/nnuudev/BlueClover), [MobiChan](https://github.com/Rukkaitto/mobichan), [Kuroba](https://github.com/K1rakishou/Kuroba-Experimental) / [2](https://github.com/Adamantcheese/Kuroba) or [Chan](https://github.com/moffatman/chan) - 4Chan Apps
 * [Uploadgram App](https://github.com/Uploadgram/app) - Uploadgram Frontend
 * [Instander](https://thedise.me/instander/) or [MyInsta](https://redd.it/1598xgk) / [Telegram](https://t.me/instasmashrepo) - Modded Instagram Clients / [Telegram](https://t.me/instander) / [Tools](https://play.google.com/store/apps/details?id=com.dageek.socialtoolbox_android) / [Secrets](https://ngl.link/) 
-* [Frost for Facebook](https://github.com/AllanWang/Frost-for-Facebook) or [LC_Reborn](https://t.me/s/Facebook_LC_Reborn) - Facebook Clients
+* [Facebook Mod by apkmoddone](https://t.me/facebookpro_official) - Facebook Client
 * [MessengerPro](https://github.com/Mino260806/MessengerPro) - Modded Facebook Messenger
 * [NoFBEventScraper](https://github.com/akaessens/NoFbEventScraper) - Scrape Facebook for Events without Account
 * [Nekogram X](https://github.com/NekoX-Dev/NekoX), [Nekogram](https://nekogram.app/), [TelegramAndroid](https://github.com/Forkgram/TelegramAndroid), [Nagram](https://github.com/nextalone/nagram), [Telegraher](https://github.com/nikitasius/Telegraher/), [exteraGram](https://github.com/exteraSquad/exteraGram), [Cherrygram](https://github.com/arsLan4k1390/Cherrygram), [Nullgram](https://github.com/qwq233/Nullgram/), [MDGramYou](https://play.google.com/store/apps/details?id=org.telegram.mdgram) or [Telegram-FOSS](https://github.com/Telegram-FOSS-Team/Telegram-FOSS) - Telegram Clients
