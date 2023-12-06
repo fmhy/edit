@@ -275,6 +275,7 @@
 * [Stable Horde](https://stablehorde.net/) - Distributed Network of GPUs running Stable Diffusion / [Interface](https://aqualxx.github.io/stable-ui/), [2](https://tinybots.net/artbot), [3](https://artificial-art.eu/)
 * [DeepAI](https://deepai.org/machine-learning-model/stable-diffusion) / [2](https://deepai.org/machine-learning-model/text2img)
 * [Uranus AI](https://uranus.ai/)
+* [InteriorAIDesigns](https://interioraidesigns.com/) - Interior AI Designs 
 * [Diffuse The Rest](https://huggingface.co/spaces/huggingface-projects/diffuse-the-rest)
 * [NOP / WAS](https://colab.research.google.com/drive/1jUwJ0owjigpG-9m6AI_wEStwimisUE17) - AI Image Generation Colab
 * [MagicBrush](https://www.magicbru.sh/), [image-mixer-demo](https://huggingface.co/spaces/lambdalabs/image-mixer-demo), [AITransformer](https://aitransformer.net/) - AI Image Transformers
@@ -283,6 +284,7 @@
 * [Shap-e](https://github.com/openai/shap-e), [Stable Dreamfusion](https://github.com/ashawkey/stable-dreamfusion) or [ThreeStudio](https://github.com/threestudio-project/threestudio) - 3D Image Generators
 * [Interiorai](https://interiorai.com/) - AI Interior Design Tool
 * [Glaze](https://glaze.cs.uchicago.edu/index.html) - Protect Digital Art from AI Copies 
+* [PhotoAIStudio](https://photoaistudio.com/) - Professional Photoshoot with Photo AI Image 
 
 ***
 
