@@ -70,13 +70,14 @@
 * [VSCode.one](https://vscode.one/) - VS Code Tutorials
 * [system-design-primer](https://github.com/donnemartin/system-design-primer) or [System Design](https://leanpub.com/systemdesign) / [GitHub](https://github.com/karanpratapsingh/system-design) - Large Scale System Design Guides
 * [Graphics Workshop](https://github.com/ekzhang/graphics-workshop) - Learn Computer Graphics
-* [SchoolOfHaskell](https://www.schoolofhaskell.com/) - Haskell Tutorials 
+* [SchoolOfHaskell](https://www.schoolofhaskell.com/) - Haskell Tutorials
 * [LearnYouHaskell](http://learnyouahaskell.com/chapters) - Haskell Guide
-* [RubyMonk](https://rubymonk.com/) - Ruby Tutorials 
+* [RubyMonk](https://rubymonk.com/) - Ruby Tutorials
 * [Learn to Program](https://pine.fm/LearnToProgram/) - Ruby Tutorials
 * [LearnGo](https://github.com/inancgumus/learngo) or [play-with-go](https://play-with-go.dev/) - Learn Go Programming
 * [Official Go Tutorial](https://go.dev/doc/tutorial/getting-started) or [Tutorial Edge Go](https://github.com/TutorialEdge/Go) - Go Programming Tutorials
 * [HowIStart Go](https://howistart.org/posts/go/1/) - Go Setup Guide
+* [Learn Perl](https://www.learn-perl.org/) - Learn Perl
 * [Rust Learning](https://github.com/ctjhoa/rust-learning) - Rust Learning Resources
 * [explaine.rs](https://jrvidal.github.io/explaine.rs/) - Rust Syntax Explanation
 * [Simple Regex](https://simple-regex.com/), [learn-regex](https://github.com/ziishaned/learn-regex), [ReFrF](https://refrf.dev/), [Regex.info](http://regex.info/), [ReGexOne](https://regexone.com/), [RegExr](https://regexr.com/) or [RegexLearn](https://regexlearn.com/) - Learn Regex
@@ -480,7 +481,7 @@
 * [LibreLogos](https://www.librelogos.org/) or [LogoTaco](https://www.logotaco.com/) - Project Logos
 * [Emanote](https://emanote.srid.ca/) - Create Sites from Plain-Text Notes / [GitHub](https://github.com/srid/emanote)
 * [Plunker](https://plnkr.co/) or [Bloo](https://bloouikit.com/) - Prototype / Test Websites Idea
-* [Pixelfika](https://pixelfika.com/) - Site Design Examples
+* [Pixelfika](https://pixelfika.com/) or [Site Design Index](https://rentry.org/4viqf) - Site Design Examples
 * [WebDesignMuseum](https://www.webdesignmuseum.org/) - Website Designs Over Time
 * [CSS Zen Garden](https://csszengarden.com/) - CSS Site Examples
 * [Bootstrap](https://getbootstrap.com/) - Mobile Site Creator / [Icons](https://github.com/twbs/icons) / [Snippets](https://bootsnipp.com/) / [UI Components](https://mdbootstrap.com/) / [Templates](https://bootswatch.com/), [2](https://bootstraptaste.com/)
@@ -530,6 +531,7 @@
 * [GoodBadISPs](https://gitlab.torproject.org/legacy/trac/-/wikis/doc/GoodBadISPs) - Best ISPs for Tor Hosting
 * [Server Hunter](https://www.serverhunter.com/) - Search / Compare Servers
 * [Sentora](https://sentora.org/) - Web Hosting Control Panel
+* [SegFault](https://shell.segfault.net/) - Disposable Root Servers
 * [DNSPerf](https://www.dnsperf.com/dns-providers-list/) - DNS Provider Rankings
 * [GRC DNSBench](https://www.grc.com/dns/benchmark.htm) - DNS Benchmark
 * [DNS over HTTPS](https://github.com/curl/curl/wiki/DNS-over-HTTPS) - HTTPS DoH Queries
@@ -623,7 +625,7 @@
 * [Changie](https://changie.dev/) - Automated Changelog / [GitHub](https://github.com/miniscruff/changie)
 * [ChooseALicense](https://choosealicense.com/) - List of Open Source License's & Help Choosing Them 
 * [PrivacyPolicyTemplate](https://www.privacypolicytemplate.net/) or [PrivacyLabel](https://www.privacylabel.org/) - Generate Privacy Policies
-* [OpenSSH](https://www.openssh.com/) - SSH Clients / Server
+* [OpenSSH](https://www.openssh.com/) or [Eternal Terminal](https://eternalterminal.dev/) - SSH Clients / Server
 * [PuTTY](https://www.putty.org/), [2](https://www.chiark.greenend.org.uk/~sgtatham/putty/) - SSH & Telnet Client / [Multi-Tab](https://ttyplus.com/) / [Fork](https://www.9bis.net/kitty/#!index.md) / [GitHub](https://github.com/cyd01/KiTTY/)
 * [Penpot](https://penpot.app/) - Cross Domain Design & Prototyping Platform
 * [Webhook.site](https://webhook.site/) - Webhook Tools
@@ -842,7 +844,8 @@
 * 🌐 **[Awesome-Cyber-Security](https://github.com/fabionoth/awesome-cyber-security)**, [Rawsec's CyberSecurity Inventory](https://inventory.raw.pm/), [Cybersecurity-Resources](https://github.com/Nickyie/Cybersecurity-Resources), [Infosec Resources](https://github.com/stong/infosec-resources) or [Anon Security](https://t.me/anon_server) - Cybersecurity Resources
 * 🌐 **[Awesome CI/CD Security](https://github.com/myugan/awesome-cicd-security)** - CI/CD Security Resources
 * 🌐 **[Reverse Engineering Resources](https://github.com/wtsxDev/reverse-engineering)** - Reverse Engineering Resources
-* ↪️ **[Security / Hacking News](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_security_.2F_hacking_news)**
+* ↪️ **[Security / Hacking News](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25B7_security_news)**
+* ⭐ **[x64dbg](https://x64dbg.com/)** - Malware Reverse Engineering
 * [Open Source Security Software](https://open-source-security-software.net/) - Cybersecurity Software
 * [Advisory Database](https://github.com/github/advisory-database) or [Att&ck](https://attack.mitre.org/) - Cybersecurity Defense Databases
 * [SSuite](https://spidersuite.github.io/SSuite/) - Web Security App
@@ -947,7 +950,7 @@
 
 ## ▷ GitHub Tools
 
-* 🌐 **[GitHub Awesome](https://app.polymersearch.com/discover/github-awesome)**, [grep.app](https://grep.app/), [awesome-lis](https://github.com/topics/awesome-list), or [awesome-github](https://github.com/fffaraz/awesome-github) - GitHub Project Indexes
+* 🌐 **[GitHub Awesome](https://app.polymersearch.com/discover/github-awesome)**, [OSS Insight](https://ossinsight.io/), [grep.app](https://grep.app/), [awesome-lis](https://github.com/topics/awesome-list), or [awesome-github](https://github.com/fffaraz/awesome-github) - GitHub Project Indexes
 * 🌐 **[Awesome First PR Oppotunities](https://github.com/MunGell/awesome-for-beginners)** - Beginner FOSS Project Index
 * 🌐 **[Awesome Actions](https://github.com/sdras/awesome-actions)** - Github Action Resources
 * 🌐 **[Awesome Browser Extensions](https://stefanbuck.com/awesome-browser-extensions-for-github)** - GitHub Browser Extensions
@@ -1038,7 +1041,7 @@
 * ⭐ **[JSON Hero](https://jsonhero.io/)**, [Jayson](https://apps.apple.com/us/app/jayson/id1447750768) or [JSONView](https://jsonview.com/) - JSON Viewers / Editors
 * ⭐ **[Regex Vis](https://regex-vis.com/)**, [Regulex](https://jex.im/regulex/) or [Regexper](https://regexper.com/) - Regex Visualizers / [Batch Editor](https://github.com/antfu/rex)
 * ⭐ **[grex](https://pemistahl.github.io/grex-js/)**, [Regex Generator++](http://regex.inginf.units.it/) or [Regex Generator](https://regex-generator.olafneumann.org/) - Regex Generators
-* [EvalPlus Leaderboard](https://evalplus.github.io/leaderboard.html) or [BigCode](https://huggingface.co/spaces/bigcode/bigcode-models-leaderboard) Coding AI Leaderboards
+* [EvalPlus Leaderboard](https://evalplus.github.io/leaderboard.html) or [BigCode](https://huggingface.co/spaces/bigcode/bigcode-models-leaderboard) - Coding AI Leaderboards
 * [Cursor](https://cursor.sh/), [Codeium](https://codeium.com/), [tabnine](https://www.tabnine.com/), [ImageCook](https://github.com/imgcook/imgcook), [CodeWhisperer](https://aws.amazon.com/codewhisperer/), [Telosys](https://www.telosys.org/) or [Copilot](https://github.com/features/copilot/) / [Docs](https://github.com/github/copilot-docs) - Coding AIs
 * [AI Code Translator](https://ai-code-translator.vercel.app/) or [Source Code Converters](https://www.tangiblesoftwaresolutions.com/) - Code Converters
 * [Node-RED](https://nodered.org/) - Low-Code Programming for Event-Driven Apps
@@ -1112,7 +1115,7 @@
 * [asdf](https://asdf-vm.com/) - Multi-Runtime Management CLI
 * [The SHA-256 Project](https://github.com/oconnor663/sha256_project) - Develop SHA-256 from Scratch
 * [substitute](https://github.com/comex/substitute) - Free Runtime Modification Library
-* [Sourcegraph](https://sourcegraph.com/), [grep.app](https://grep.app), [SeaGOAT](https://github.com/kantord/SeaGOAT) or [Ag](https://geoff.greer.fm/ag/) / [GitHub](https://github.com/ggreer/the_silver_searcher) - Code Searching
+* [Sourcegraph](https://sourcegraph.com/), [SeaGOAT](https://github.com/kantord/SeaGOAT) or [Ag](https://geoff.greer.fm/ag/) / [GitHub](https://github.com/ggreer/the_silver_searcher) - Code Searching
 * [CodeGrepper](https://www.grepper.com/) - Code Search Extension
 * [searchcode](https://searchcode.com/) or [PublicWWW](https://publicwww.com/) - Source Code Search
 * [Sourcecodester](https://www.sourcecodester.com/), [Code Projects](https://code-projects.org/), [Codastro](https://codeastro.com/), [Kashipara](https://www.kashipara.com/) or [ItSourceCode](https://www.itsourcecode.com/) - Source Code Projects
@@ -1177,7 +1180,7 @@
 * [Spatie](https://github.com/spatie/fork) or [3v4l](https://3v4l.org) - Run PHP Concurrently
 * [Winddown](https://github.com/schneefux/vscode-winddown) or [Sandman](https://alexanderepstein.github.io/Sandman/) - Coding Break Reminders
 * [ThemesElection](https://themeselection.com/) - Programming UI Themes
-* [Dev Fonts](https://devfonts.gafi.dev/) - Coding Fonts
+* [Monaspace](https://monaspace.githubnext.com/) or [Dev Fonts](https://devfonts.gafi.dev/) - Coding Fonts
 * [Monocraft](https://github.com/IdreesInc/Monocraft) - Minecraft Coding Font
 
 ***
@@ -1192,10 +1195,33 @@
 * 🌐 **[Awesome-Kotlin](https://kotlin.link/)** - Kotlin Resources / [GitHub](https://github.com/KotlinBy/awesome-kotlin)
 * 🌐 **[Awesome Emacs](https://github.com/emacs-tw/awesome-emacs)** or [Melpa](https://melpa.org/) - Emacs Packages / [Tiling](https://github.com/ch11ng/exwm)
 * 🌐 **[Awesome VSC Extensions](https://hl2guide.github.io/Awesome-Visual-Studio-Code-Extensions/)** - Visual Studio Code Extensions
-* ↪️ **[Code Editors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_code_editors)**
-* ↪️ **[Vim Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_vim_tools)**
+* ⭐ **[Visual Studio Code](https://code.visualstudio.com/)**
+* ⭐ **[VSCodium](https://vscodium.com/)** - Code Editor
+* ⭐ **[Neovim](https://neovim.io/)** - Code Editor
+* ⭐ **[Vim Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_vim_tools)** - Tools / Themes for Vim
+* ⭐ **[Emacs](https://www.gnu.org/software/emacs/)** - [Docs](https://emacsdocs.org/)
+* ⭐ **[Bluefish](https://bluefish.openoffice.nl/index.html)** - [Templates](https://templates.openoffice.org/en)
 * ⭐ **[Competitive Editor](https://cpeditor.org/)** - Competitive Programming Editor
 * ⭐ **[WebDen](https://webden.dev/)**, [Sharplab](https://sharplab.io/), [tech.io](https://tech.io/), [CodingGround](https://www.tutorialspoint.com/codingground.htm) or [Online Tools](https://onlinetool.io/) - Code Playgrounds
+* [CudaText](https://cudatext.github.io/) - Code Editor
+* [Lapce](https://lapce.dev/) - Code Editor
+* [SpaceVim](https://spacevim.org/) - Code Editor
+* [zed.dev](https://zed.dev/) - Code Editor
+* [Pulsar](https://pulsar-edit.dev/) - Code Editor
+* [Lite XL](https://lite-xl.com/) - Code Editor
+* [Kakoune](https://kakoune.org/) - Code Editor
+* [Brackets](https://brackets.io/) - Code Editor
+* [Micro](https://micro-editor.github.io/index.html) - Code Editor
+* [Textadept](https://orbitalquark.github.io/textadept/) - Code Editor
+* [Spacemacs](https://www.spacemacs.org/) - Code Editor
+* [Sublime Text](https://www.sublimetext.com/) - Code Editor
+* [Avalonia UI](https://avaloniaui.net/) - Code Editor
+* [massCode](https://masscode.io/) - Code Editor
+* [Amp](https://github.com/jmacdonald/amp) - Code Editor
+* [Graviton](https://graviton.netlify.app/) - Code Editor
+* [BBEdit](https://www.barebones.com/) - Code Editor
+* [ecode](https://github.com/SpartanJ/ecode) - Code Editor
+* [Acode](https://github.com/deadlyjack/Acode) - FOSS Android Code Editor
 * [Apache NetBeans](https://netbeans.apache.org/), [KDevelop](https://www.kdevelop.org/), [Lazarus](https://www.lazarus-ide.org/) or [OpenShift](https://developers.redhat.com/products/openshift-dev-spaces/overview) - Cross Platform IDEs
 * [RoslynPad](https://roslynpad.net/) - C# Editor
 * [DotNetFiddle](https://dotnetfiddle.net/) - C# Compiler
@@ -1219,6 +1245,13 @@
 * ↪️ **[Code Collaboration Platforms](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_text_.2F_code_collaboration)**
 * ⭐ **[goormIDE](https://ide.goorm.io/)**, [Fleet](https://www.jetbrains.com/fleet/), [CodeTasty](https://codetasty.com/), [Replit](https://replit.com/), [BoostNote](https://boostnote.io/), [Aither](https://github.com/enoki-inc/aither), [Deta](https://deta.space/), [TerraForm](https://www.terraform.io/), [Atheos](https://www.atheos.io/) / [GitHub](https://github.com/Atheos/Atheos), [m3o](https://m3o.com/), [Datalore](https://datalore.jetbrains.com/), [DeepNote](https://deepnote.com/), [FireMonkeyX](http://www.firemonkeyx.com/), [Cloud9](https://aws.amazon.com/cloud9/) or [Glitch](https://glitch.com/) / [Replit Import](https://replit.com/glitch) / [GitHub](https://github.com/m3o/m3o) - Cloud IDEs
 * ⭐ **[CodeSandbox](https://codesandbox.io/)**, [StackBlitz](https://stackblitz.com/) or [GitPod](https://www.gitpod.io/) - VSCode Cloud IDE
+* [JSFiddle](https://jsfiddle.net/) - Online Code Editor
+* [Collabedit](https://collabedit.com/) - Online Code Editor
+* [Portacode](https://portacode.com/) - Online Code Editor
+* [Ideone](https://www.ideone.com/) - Online Code Editor
+* [PlayCode](https://playcode.io/) - Online Code Editor
+* [ObjGen](https://www.objgen.com/) - Online Code Editor
+* [html-css-js](https://html-css-js.com/) - Online Code Editor
 * [colab alive](https://github.com/sobuj53/colabAlive) - Keep Colab Open
 * [Orbiton](https://orbiton.zip/) - Lightweight IDE
 * [Openshift](https://workspaces.openshift.com/) - Cloud IDE / Eclipse Che 
@@ -1360,6 +1393,46 @@
 * [ipinfo.io](https://ipinfo.io/) - IP Data API
 * [TheCatAPI](https://thecatapi.com/) - Cat Rating API
 * [SWAPI](https://pipedream.com/apps/swapi) - Star Wars APIs
+
+***
+
+## ▷ Vim Tools
+
+* [Vim Plug](https://github.com/junegunn/vim-plug), [vim-pathogen](https://github.com/tpope/vim-pathogen) or [Shougo](https://github.com/Shougo/dein.vim) - Vim Plugin Managers
+* [VimAwesome](https://vimawesome.com/) - Vim Plugins
+* [nerdtree](https://github.com/preservim/nerdtree) - Vim Tree Explorer
+* [droidvim](https://github.com/shiftrot/droidvim) - Vim Android Frontend
+* [VimColorSchemes](https://vimcolorschemes.com/) - Vim Color Schemes
+* [The Ultimate vimrc](https://github.com/amix/vimrc) - Vim Config
+* [Vim Bootstrap](https://vim-bootstrap.com/) - Bootstrap Config for Vim
+* [Vim Markdown ](https://github.com/preservim/vim-markdown) or [Markdown Preview](https://github.com/iamcco/markdown-preview.nvim) - Markdown Plugin
+* [Lazy.nvim](https://github.com/folke/lazy.nvim) or [packer.nvim](https://github.com/wbthomason/packer.nvim) - Neovim Plugin Managers
+* [NeoVimCraft](https://neovimcraft.com/), [awesome-neovim##plugin](https://github.com/rockerBOO/awesome-neovim##plugin) - Neovim Plugins Collections
+* [AstroNvim](https://astronvim.com) [LazyVim](https://github.com/LazyVim/LazyVim), [NvChad](https://github.com/NvChad/NvChad), [LunarVim](https://www.lunarvim.org/) - Neovim Configs
+* [neovide](https://github.com/neovide/neovide), [gnvim](https://github.com/vhakulinen/gnvim), [nvui](https://github.com/rohit-px2/nvui), [Neovim wiki##gui](https://github.com/neovim/neovim/wiki/Related-projects##gui) - Neovim GUIs
+* [instant.nvim](https://github.com/jbyuki/instant.nvim) - Collaborative Neovim Editing
+* [chatgpt.nvim](https://github.com/terror/chatgpt.nvim) - ChatGPT in Neovim
+
+***
+
+## ▷ VSCode Tools
+
+* 🌐 **[Awesome-Visual-Studio-Code-Extensions](https://hl2guide.github.io/Awesome-Visual-Studio-Code-Extensions/)**, [2](https://marketplace.visualstudio.com/) - VSCode Extensions
+* [chatgpt-vscode](https://github.com/mpociot/chatgpt-vscode) - VSCode ChatGPT
+* [Open VSX](https://open-vsx.org/) - Open VSX Registry
+* [snippet-generator](https://snippet-generator.app/) - Snippet Generator
+* [Discord Tools](https://github.com/Darkempire78/Discord-Tools) - 
+* [Clarkio](https://marketplace.visualstudio.com/items?itemName=clarkio.twitch-highlighter) - Twitch Hightlighter
+* [vscode-smart-clicks](https://github.com/antfu/vscode-smart-clicks) - Smart Clicks
+* [code-server](https://github.com/coder/code-server) - Web Server
+* [vscode.dev](https://vscode.dev/), [2](https://cs50.dev/) - VSCode Browser
+* [vscode-settings](https://github.com/antfu/vscode-settings) - VSCode Settings
+* [insiders.vscode](https://insiders.vscode.dev/) - Insider Build
+* [logos-vscode](https://github.com/tale/logos-vscode) - Logo Extension
+* [vscode-pets](https://marketplace.visualstudio.com/items?itemName=tonybaloney.vscode-pets) - Pets
+* [VSCodeThemes](https://vscodethemes.com/) or [VSColors](https://www.vscolors.com/) - VSCode Themes
+* [oslo](https://oslo-vsc.netlify.app/) Theme Generator
+* [dartcula](https://github.com/whiplashoo/dartcula-theme) - Dark Theme
 
 ***
 
