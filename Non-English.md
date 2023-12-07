@@ -1284,7 +1284,6 @@
 * [EmojiTool](https://emojitool.com/) - Emoji Database
 * [TheToolBox](https://thetoolbox.es/) - Websites Index
 * [AIfindy](https://aifindy.com/) - AI Tools Index
-* [ElHacker](https://wiki.elhacker.net/) - Security Guides
 * [Diccionario RAE en un clic](https://chrome.google.com/webstore/detail/diccionario-rae-en-un-cli/gejdeepcjkfbepfkcfdgiodgoglakiii) - Dictionary Extension
 * [El Museo de los 8 bits](https://museo8bits.com/) / [2](http://www.museo8bits.es/) - History of Computing
 * [TrustScam](https://trustscam.es/) - Website Security Analysis
@@ -1295,7 +1294,6 @@
 * ⭐ **[DescargasDD](https://descargasdd.org/)** - Video / Audio/ Castilian / Latino / [Telegram](https://t.me/joinchat/VAWOu0TNfOXfnauA)
 * ⭐ **[ForoWarez](https://forowarez.info/)** - Video / Audio / Reading / NSFW / Castilian / Latino
 * ⭐ **[eMule](https://www.emule-project.com/home/perl/help.cgi?l=17&rm=show_topic&topic_id=586)** - Video / Audio / Reading / NSFW / Castilian
-* ↪️ **[Spanish Anime Telegram Channels](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_spanish_anime_telegram)**
 * [identi](https://identi.io/) - Video / Audio / Reading / Latino / Castilian
 * [ExVagos](https://www.exvagos.org/) - Video / Audio / Reading / Castilian
 * [Guns's Cave](https://lacuevadeguns.com/forum/index.php?action=forum) - Video / Audio / Reading / Castilian
@@ -1308,7 +1306,7 @@
 * [VerePeliculas](https://wvw.verepeliculas.com/) - Movies / TV / Latino
 * [Mega1080](https://www.mega1080.com/) - Movies / Documentaries / Latino
 * [CompucaliTV](https://www.compucalitv.com/) - Movies / TV / Latino
-* [mirandopeliculas](https://mirandopeliculas.com/) - Movies / TV / Latino
+* [mirandopeliculas](https://www.mirandopeliculas.com/) - Movies / TV / Latino
 * [TodoPelisHD](https://todopelishd.com/) - Movies / Latino
 * [Hackstore.me](https://www.hackstore.me/) - Movies / TV / Anime
 * [ProgramasVirtualesPC](https://www.programasvirtualespc.net/category/peliculas/) - Movies / TV / Latino / [Bypasser script](https://greasyfork.org/en/scripts/462492)
@@ -1378,15 +1376,15 @@
 * [Solo Latino](https://sololatino.net/) - Movies / TV / Anime / 1080p / Latino
 * [Repelis24](https://www1.repelis24.yt/) - Movies / TV / Latino
 * [PlusHD](https://ww3.pelisplus.to/) - Movies / TV / Anime / Latino
-* [PelisPedia.club](https://pelispedia.club/) - Movies / TV / Latino
+* [PelisPedia](https://ww1.pelispedia.asia/) - Movies / TV / Latino
 * [PelisPedia3](https://io.pelispedia.io/) - Movies / TV / Anime / Latino
 * [Gnula.uno](https://gnula.uno/) - Movies / TV / Anime / Latino
 * [Cinecalidad](https://cinecalidad.gg/) - Movies / TV / Animation / Latino / [Telegram](https://t.me/cinecalidadchat)
 * [Cuevana2](https://www.cuevana2espanol.net/) - Movies / TV / Latino
 * [Locopelis](https://www.locopelis.com/), [2](https://www.repelis.net/) - Movies / NSFW / Latino
-* [Fanpelis](https://fanpelis.la/) - Movies / TV / Anime / Latino
+* [Fanpelis](https://fanpelis.mx/) - Movies / TV / Anime / Latino
 * [PelisPlusHD.nz](https://pelisplushd.nz/) - Movies / TV / Anime / Latino / [Telegram](https://t.me/pelisplushd_nu)
-* [PelisPlusHD.so](https://pelisplushd.so/) - Movies / TV / Latino
+* [PelisPlusHD](https://pelisplusgo.vip/) - Movies / TV / Latino
 * [PelisxD](https://www.pelisxd.com/) - Movies / TV / Latino
 * [Cuevana3](https://cuevana3.ms/) - Movies / TV / [Telegram](https://t.me/cuevana_3_io)
 * [PelisPedia.is](https://pelispedia.is/) - Movies / TV
@@ -1412,7 +1410,7 @@
 * [LegalMentegratis](http://legalmentegratis.com/) - YouTube Movies
 * [Argentine Cinema](https://www.youtube.com/@argentinecinemawithenglish4476/) - Argentine YouTube Movies
 * [Cine.Arplay](https://play.cine.ar/) - Argentinian Movies / TV
-* [Cinemargentino](https://cinemargentino.com/) - Movies / Documentaries
+* [Cinemargentino](https://www.cinemargentino.com/) - Movies / Documentaries
 * [Rincon Cinefilo](https://www.rinconcinefilo.com/) - Movies / Documentaries
 * [Naranjas de Hiroshima](https://www.naranjasdehiroshima.com/) - Documentaries / Archives
 * [DocumaniaTV](https://www.documaniatv.com/) - Documentaries
@@ -1438,7 +1436,6 @@
 * [Edutin Academy](https://edutin.com/) - Courses
 * [Tele Gratis Online](https://telegratis.online/) - Live TV
 * [Television Gratis](https://www.televisiongratishd.com/) - Live TV / Latino
-* [MaxTV](https://maxtv.one/), [2](https://maxtv.city/) - Live Sports / [Telegram](https://t.me/s/maxtvweb)
 * [LaCasadelTikiTaka](https://www.lacasadeltikitaka.net/) - Live Soccer / MMA
 
 ## ▷ Reading
@@ -1449,7 +1446,7 @@
 * [eBiblioteca](https://ebiblioteca.org/) - Books
 * [ePub Gratis](https://www.epubgratis.info/) - Books
 * [LectuEpub](https://lectuepub2.com/) - Books
-* [LectuEpubGratis](https://lectuepubgratis2.com/) - Books
+* [LectuEpubGratis](https://lectuepubgratis3.com/) - Books
 * [Lectulandia](https://ww3.lectulandia.com/), [2](https://ww3.lectulandia.co/) - Books
 * [Ebookelo](https://ww2.ebookelo.com/) - Books
 * [EspaEbook](https://www.espaebook2.com/) - Books
