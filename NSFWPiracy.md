@@ -450,6 +450,7 @@
 
 * ⭐ **[ImageFap](https://www.imagefap.com/)**
 * ⭐ **[NSFWMonster](https://nsfwmonster.com/)** - NSFW Images / GIFs
+* [PornPics](https://www.pornpics.com/recent/)
 * [Realbooru](https://realbooru.com/)
 * [PimpAndHost](https://pimpandhost.com/site/trending)
 * [PornedUp](https://pornedup.com/)
