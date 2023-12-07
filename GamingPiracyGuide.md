@@ -325,7 +325,6 @@
 
 # ► Browser Games
 
-* 🌐 **[/r/WebGames](https://reddit.com/r/WebGames)** - Browser Games Subreddit
 * 🌐 **[Browser Games Rentry](https://rentry.org/zn79z)** - Browser Game Site Index
 * 🌐 **[Discord Games Lab](https://discord.gg/discordgameslab)** - Discord Games
 * 🌐 **[chat-gpt-games](https://github.com/AdmTal/chat-gpt-games)** - ChatGPT Games
@@ -339,6 +338,7 @@
 * ⭐ **[Cookie Consent Speed.Run](https://cookieconsentspeed.run/)** - Cookie Disabling Game
 * ⭐ **[QWOP](https://www.foddy.net/Athletics.html)** - Ragdoll Running Game
 * ⭐ **[Free Rice](https://freerice.com/)** - Earn Rice for the World Food Programme, turn off adblocker
+* [/r/WebGames](https://reddit.com/r/WebGames) - Browser Games Subreddit
 * [Armor Games](https://armorgames.com/) - Browser Games
 * [Kongregate](https://www.kongregate.com/) - Browser Games
 * [Weboasis Arcade](https://weboasis.app/arcade/) - Browser Games
