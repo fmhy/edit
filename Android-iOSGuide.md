@@ -92,7 +92,6 @@
 * ⭐ **[Known Repositories](https://forum.f-droid.org/t/known-repositories/)** - F-Droid Repositories
 * [IzzyOnDroid](https://android.izzysoft.de/applists.php) - App Repo / [F-Droid](https://apt.izzysoft.de/fdroid/index.php) 
 * [We Love Codeberg](https://welove.codeberg.page/)
-* [FossifyX](https://github.com/FossifyX)
 * [OnyxBits](https://onyxbits.de/)
 * [OpenRepos](https://openrepos.net/) - Harmattan / Sailfish OS Apps
 * [Android Auto Apps Downloader](https://github.com/shmykelsa/aaad) - Android Vehicle Apps
