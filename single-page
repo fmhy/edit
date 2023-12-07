@@ -194,7 +194,7 @@
 
 ***
 
-## ▷ [Animation Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/tools-misc#wiki_.25B7_animation_tools)
+## ▷ [Animation Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video-tools#wiki_.25B7_animation_tools)
 
 ***
 
@@ -3424,7 +3424,6 @@
 
 # ► Browser Games
 
-* 🌐 **[/r/WebGames](https://reddit.com/r/WebGames)** - Browser Games Subreddit
 * 🌐 **[Browser Games Rentry](https://rentry.org/zn79z)** - Browser Game Site Index
 * 🌐 **[Discord Games Lab](https://discord.gg/discordgameslab)** - Discord Games
 * 🌐 **[chat-gpt-games](https://github.com/AdmTal/chat-gpt-games)** - ChatGPT Games
@@ -3438,6 +3437,7 @@
 * ⭐ **[Cookie Consent Speed.Run](https://cookieconsentspeed.run/)** - Cookie Disabling Game
 * ⭐ **[QWOP](https://www.foddy.net/Athletics.html)** - Ragdoll Running Game
 * ⭐ **[Free Rice](https://freerice.com/)** - Earn Rice for the World Food Programme, turn off adblocker
+* [/r/WebGames](https://reddit.com/r/WebGames) - Browser Games Subreddit
 * [Armor Games](https://armorgames.com/) - Browser Games
 * [Kongregate](https://www.kongregate.com/) - Browser Games
 * [Weboasis Arcade](https://weboasis.app/arcade/) - Browser Games
@@ -3757,6 +3757,7 @@
 * ⭐ **[Steamless](https://github.com/atom0s/Steamless)** - Steam DRM Remover
 * ⭐ **[Steam-Auto-Crack](https://github.com/oureveryday/Steam-auto-crack)** or [SteamAutoCracker](https://github.com/BigBoiCJ/SteamAutoCracker) - Auto Apply Goldberg + Steamless / [Guide](https://codeberg.org/fernbacher/How-To-Crack)
 * ⭐ **[SteamDB](https://steamdb.info/)** - Steam Insights Tool / [Extension](https://steamdb.info/extension/)
+* ⭐ **[SDD GUI](https://github.com/mmvanheusden/SteamDepotDownloaderGUI)** or [DepotDownloader](https://github.com/SteamRE/DepotDownloader) - Steam Depot Downloaders
 * ⭐ **[Heroic Games Launcher](https://heroicgameslauncher.com/)**, [LEGENDARY](https://github.com/derrod/legendary) or [Rare](https://github.com/Dummerle/Rare) - Epic Games Launcher 
 * ⭐ **[Nemirtingas Epic Emulator](https://cs.rin.ru/forum/viewtopic.php?f=29&t=105551)** - Epic Online Service Emulator
 * ⭐ **[TCNO](https://github.com/TCNOco/TcNo-Acc-Switcher)** - Platform Account Switcher / [Tutorial](https://youtu.be/0h-xjiW9M7Y)
@@ -3776,7 +3777,6 @@
 * [Steam Rom Manager](https://github.com/SteamGridDB/steam-rom-manager) - Add ROMs to Steam
 * [The Wheelhaus](https://thewheelhaus.com/) - Find Random Steam Games
 * [Free Packages](https://steamdb.info/freepackages/) - Mass Activate All Free Steam Games / [Guide](https://youtu.be/svbdw-pYNT8)
-* [DepotDownloader](https://github.com/SteamRE/DepotDownloader) or [SteamDepotDownloaderGUI](https://github.com/mmvanheusden/SteamDepotDownloaderGUI) - Steam Depot Downloaders
 * [SteamDesktopAuthenticator](https://github.com/Jessecar96/SteamDesktopAuthenticator) - Desktop Implementation of Steam's Mobile Authenticator 
 * [Steam Python](https://github.com/ValvePython/steam) - Interact with Steam via Python
 * [Idle Master Extended](https://github.com/JonasNilson/idle_master_extended) or [IdleDaddy](https://play.google.com/store/apps/details?id=com.steevsapps.idledaddy) - Steam Card Automation
@@ -4516,6 +4516,25 @@
 
 ***
 
+## ▷ Virtual Machines
+
+* ⭐ **[VirtualBox](https://www.virtualbox.org/)** / [Portable](https://www.vbox.me/), [Looking Glass](https://looking-glass.io/), [Qemu](https://gitlab.com/qemu-project/qemu), [Hyper-V](https://learn.microsoft.com/en-us/virtualization/hyper-v-on-windows//), [fvwm](https://www.fvwm.org/), [Denodo Test](https://www.denodo.com/en/denodo-platform/test-drives?utm_source=homepage&utm_medium=bn) or [VMware Workstation Player](https://www.vmware.com/products/workstation-player/workstation-player-evaluation.html) - Virtual Machines / [Preinstalled VMS](https://www.osboxes.org/)
+* ⭐ **[Hackintosh](https://hackintosh.com/)**, [Emaculation](https://www.emaculation.com/), [felixrieseberg](https://github.com/felixrieseberg/macintosh.js/) or [OneClick-macOS](https://github.com/notAperson535/OneClick-macOS-Simple-KVM) - MacOS Virtual Machines
+* ⭐ **Hackintosh Tools** - [Guide](https://github.com/dortania/macOS-VMware-Guide), [2](https://www.tonymacx86.com/) / [AMD Guide](https://chefkissinc.github.io/guide) / [Installer](https://github.com/huangyz0918/Hackintosh-Installer-University) / [Ryzen](https://github.com/mikigal/ryzen-hackintosh) / [XiaoMi](https://github.com/daliansky/XiaoMi-Pro-Hackintosh)
+* [Virt-Manager](https://virt-manager.org/) or [Vagrantup](https://www.vagrantup.com/) - Virtual Machine Managers
+* [CollabVM](https://computernewb.com/collab-vm/) - Online Virtual Machines
+* [Virtual PC](https://www.microsoft.com/en-us/download/details.aspx?id=3243) - Windows XP Virtual Machine
+* [windows95](https://github.com/felixrieseberg/windows95) - Windows 95 in Electron
+* [QuickEmu](https://github.com/quickemu-project/quickemu) or [Dexpot](https://www.dexpot.de/) - Virtual Machine Creator
+* [vBoxSysInfoMod](https://github.com/JayMontana36/vBoxSysInfoMod) - Modify VM System Info
+* [Blink](https://github.com/jart/blink) - Linux Emulator for Windows
+* [GWSL-Source](https://github.com/Opticos/GWSL-Source) or [GWSL](https://opticos.github.io/gwsl/) - Run Linux Apps on Windows
+* [gter](https://github.com/raoofha/gter) - Embed a GUI app Inside a Terminal Window
+* [Dockerholics](https://github.com/petersem/dockerholics) - Docker Apps
+* [WebCatalog](https://webcatalog.io) - Turn Sites into Desktop Apps
+
+***
+
 # ► Hardware Tools
 
 * ↪️ **[PC Building / Shopping](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25BA_shopping)**
@@ -4704,25 +4723,6 @@
 * [hashcat](https://hashcat.net/hashcat/) / [Guide](https://samsclass.info/123/proj14/123p12winhash.htm) or [BIOS-PW](https://bios-pw.org/) - System Password Recovery Tools
 * [GetHuman](https://gethuman.com/) or [ContactFound](https://contactfound.com/) - Tech Support Numbers
 * [WhyNotWin11](https://github.com/rcmaehl/WhyNotWin11) or [ReadySunValley](https://github.com/builtbybel/ReadySunValley) - Identify why your PC isn't Windows 11 ready
-
-***
-
-## ▷ Virtual Machines
-
-* ⭐ **[VirtualBox](https://www.virtualbox.org/)** / [Portable](https://www.vbox.me/), [Looking Glass](https://looking-glass.io/), [Qemu](https://gitlab.com/qemu-project/qemu), [Hyper-V](https://learn.microsoft.com/en-us/virtualization/hyper-v-on-windows//), [fvwm](https://www.fvwm.org/), [Denodo Test](https://www.denodo.com/en/denodo-platform/test-drives?utm_source=homepage&utm_medium=bn) or [VMware Workstation Player](https://www.vmware.com/products/workstation-player/workstation-player-evaluation.html) - Virtual Machines / [Preinstalled VMS](https://www.osboxes.org/)
-* ⭐ **[Hackintosh](https://hackintosh.com/)**, [Emaculation](https://www.emaculation.com/), [felixrieseberg](https://github.com/felixrieseberg/macintosh.js/) or [OneClick-macOS](https://github.com/notAperson535/OneClick-macOS-Simple-KVM) - MacOS Virtual Machines
-* ⭐ **Hackintosh Tools** - [Guide](https://github.com/dortania/macOS-VMware-Guide), [2](https://www.tonymacx86.com/) / [AMD Guide](https://chefkissinc.github.io/guide) / [Installer](https://github.com/huangyz0918/Hackintosh-Installer-University) / [Ryzen](https://github.com/mikigal/ryzen-hackintosh) / [XiaoMi](https://github.com/daliansky/XiaoMi-Pro-Hackintosh)
-* [Virt-Manager](https://virt-manager.org/) or [Vagrantup](https://www.vagrantup.com/) - Virtual Machine Managers
-* [CollabVM](https://computernewb.com/collab-vm/) - Online Virtual Machines
-* [Virtual PC](https://www.microsoft.com/en-us/download/details.aspx?id=3243) - Windows XP Virtual Machine
-* [windows95](https://github.com/felixrieseberg/windows95) - Windows 95 in Electron
-* [QuickEmu](https://github.com/quickemu-project/quickemu) or [Dexpot](https://www.dexpot.de/) - Virtual Machine Creator
-* [vBoxSysInfoMod](https://github.com/JayMontana36/vBoxSysInfoMod) - Modify VM System Info
-* [Blink](https://github.com/jart/blink) - Linux Emulator for Windows
-* [GWSL-Source](https://github.com/Opticos/GWSL-Source) or [GWSL](https://opticos.github.io/gwsl/) - Run Linux Apps on Windows
-* [gter](https://github.com/raoofha/gter) - Embed a GUI app Inside a Terminal Window
-* [Dockerholics](https://github.com/petersem/dockerholics) - Docker Apps
-* [WebCatalog](https://webcatalog.io) - Turn Sites into Desktop Apps
 
 ***
 
@@ -4953,7 +4953,7 @@ Use [this](https://bitbucket.org/magnolia1234/bypass-paywalls-firefox-clean/src/
 
 **[VirusTotal](https://www.virustotal.com) / [Kaspersky Cloud](https://opentip.kaspersky.com/)** - Test the safety of files
 **[Guide for VirusTotal](https://rentry.org/Guide4VirusTotal)** - Virus Scan Results Guide
-**[Malwarebytes Premium](https://github.com/fmhy/FMHYedit/blob/main/base64.md#malwarebytes-prem)** - Antivirus software
+**[Malwarebytes Premium](https://fmhy.net/base64#malwarebytes-prem)** - Antivirus software
 
 !!!note Antivirus software is usually bloatware. Stick to trusted sources for games and software and you will be fine with nothing but Windows Defender and an occasional Malwarebytes scan. Remember to always scan software before installing with tools like **[VirusTotal](https://www.virustotal.com/)** / [VToncolab](https://rentry.org/vtoncolab) or use it in **[Sandboxie](https://rentry.co/sandboxie-guide)**.
 
@@ -5187,8 +5187,6 @@ Use [this](https://bitbucket.org/magnolia1234/bypass-paywalls-firefox-clean/src/
 * [g4music](https://gitlab.gnome.org/neithern/g4music) - Audio Player
 * [dopamine](https://github.com/digimezzo/dopamine) - Audio Player
 * [AudioTube](https://invent.kde.org/multimedia/audiotube) - Audio Player
-* [spotify-qt](https://github.com/kraxarn/spotify-qt), [Spot](https://github.com/xou816/spot) or [SpotifyD](https://github.com/Spotifyd/spotifyd) - Spotify Clients
-* [Librespot-Python](https://github.com/kokarare1212/librespot-python) - Spotify TUI
 * [Monophony](https://gitlab.com/Vistaus/monophony) - YouTube Music Client
 * [Deezer Linux](https://github.com/aunetx/deezer-linux) - Deezer Client
 * [Myuzi](https://gitlab.com/albanobattistella/myuzi) or [Harmony Music](https://github.com/ZingyTomato/Harmony-Music) - Music Streaming Apps
@@ -5275,8 +5273,7 @@ Use [this](https://bitbucket.org/magnolia1234/bypass-paywalls-firefox-clean/src/
 
 ## ▷ Adblock / Privacy
 
-* ⭐ **[SpoofDPI](https://github.com/xvzc/SpoofDPI)**, [zapret](https://github.com/bol-van/zapret) or **[PowerTunnel](https://github.com/krlvm/PowerTunnel)** - DPI circumvention
-* ⭐ **[Librewolf Linux](https://librewolf.net/)** / [2](https://aur.archlinux.org/packages/firedragon) / [3](https://forum.garudalinux.org/t/firedragon-librewolf-fork/5018) or [Dot Browser](https://github.com/dothq/browser) - Privacy-Based Browser
+* ⭐ **[SpoofDPI](https://github.com/xvzc/SpoofDPI)** or [zapret](https://github.com/bol-van/zapret) - DPI circumvention
 * ⭐ **[SpotX-Bash](https://github.com/jetfir3/SpotX-Bash)**, [spotify-adblock](https://github.com/abba23/spotify-adblock) or [SpotifyNoPremium](https://github.com/Daksh777/SpotifyNoPremium) - Spotify Adblockers
 * [Linux Hardening](https://vez.mrsk.me/linux-hardening.html) / [2](https://madaidans-insecurities.github.io/guides/linux-hardening.html) or [How to Secure a Linux Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server) - Linux Hardening Guides
 * [JShielder](https://github.com/Jsitech/JShielder) - Hardening Script for Linux Servers
@@ -8532,7 +8529,7 @@ features:
 * 🌐 **[IvyPanda](https://ivypanda.com/blog/1000-open-textbooks-and-learning-resources-for-all-subjects/)** - Educational Book Site Index
 * 🌐 **[Awesome AI](https://github.com/owainlewis/awesome-artificial-intelligence#free-content)** - Artificial Intelligence Books
 * ↪️ **[Math and Physics Books](https://github.com/nbats/FMHYedit/blob/main/base64.md#math-and-physics-books)**
-* ↪️ **[Language Learning Resources](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/tools-misc#wiki_.25B7_language_learning)**
+* ↪️ **[Language Learning Resources](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu/#wiki_.25BA_language_learning)**
 * ⭐ **[AcademicTorrents](https://academictorrents.com/)**
 * [Institutional Access](https://www.facebook.com/groups/850609558335839) - Request Institutional Access PDFs
 * [Library Drive](https://github.com/nbats/FMHYedit/blob/main/base64.md#library-drive)
@@ -12486,7 +12483,7 @@ Use a **[Base64 Decoder](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage
 * ⭐ **[VToncolab](https://rentry.org/vtoncolab)** - How-to Scan Files Without Downloading Them
 * ⭐ **[Sandboxie Plus](https://sandboxie-plus.com/)**, [Windows Sandbox](https://learn.microsoft.com/en-us/windows/security/application-security/application-isolation/windows-sandbox/windows-sandbox-overview) or [Virtual Machines](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/system-tools#wiki_.25B7_virtual_machines) - Sandbox Environments / [Guide](https://rentry.co/sandboxie-guide)
 * ⭐ **[AdwCleaner](https://www.malwarebytes.com/adwcleaner/)** or [Ultra Adware Killer](https://www.carifred.com/ultra_adware_killer/) - Anti-Adware
-* ⭐ **[Malwarebytes Premium](https://github.com/fmhy/FMHYedit/blob/main/base64.md#malwarebytes-prem)** / [Unlimited Trials](https://rentry.co/mbforever) - Antivirus
+* ⭐ **[Malwarebytes Premium](https://fmhy.net/base64#malwarebytes-prem)** / [Unlimited Trials](https://rentry.co/mbforever) - Antivirus
 * ⭐ **[Security / Antivirus Multireddit](https://old.reddit.com/user/goretsky/m/security/)**
 * [BleepingComputer Forums](https://www.bleepingcomputer.com/forums/f/22/virus-trojan-spyware-and-malware-removal-help/), [Malwarebytes Forums](https://forums.malwarebytes.com/forum/7-windows-malware-removal-help-support/) or [Sysnative Forums](https://www.sysnative.com/forums/forums/security-arena.66/) - Malware Removal Help Forums / [Note](https://pastebin.com/0mrmPXgz)
 * [RevealQR](https://revealqr.app/) - Scan QR Codes
@@ -12710,6 +12707,7 @@ Use a **[Base64 Decoder](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage
 * ⭐ **FF Hardening Tools** - **[Guide](https://brainfucksec.github.io/firefox-hardening-guide)** / [2](https://12bytes.org/articles/tech/firefox/the-firefox-privacy-guide-for-dummies/) / [Video](https://youtu.be/F7-bW2y6lcI) / [Warning](https://i.ibb.co/Vpkrsg4/44160f4625bc.png)
 * [BadWolf](https://hacktivis.me/projects/badwolf) - Privacy Based Browser
 * [Brave](https://brave.com/) - Privacy Based Browser
+* [Dot Browser](https://github.com/dothq/browser) - Privacy Based Browser
 * [I2Pd Browser](https://i2pd.website/) - I2P Browser / [GitHub](https://github.com/PurpleI2P/i2pd)
 * [TPO Wiki](https://gitlab.torproject.org/tpo/team/-/wikis/home) - Tor Wiki
 * [Onion Directories](https://rentry.co/OnionDirectories##search-engines) - Tor Search Engines
@@ -12902,7 +12900,7 @@ Use a **[Base64 Decoder](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage
 * ⭐ **[Lantern](https://lantern.io/)** or **[Psiphon](https://psiphon.ca/)** / [Bypass Blocks](https://media.discordapp.net/attachments/953145730736996382/953730963735707719/Screenshot_20220316220604.png) - Free Proxy / VPN
 * ⭐ **[SecureDNSClient](https://github.com/msasanmh/SecureDNSClient)** - DNS Proxy GUI / [Guide](https://rentry.co/SecureDNSClient)
 * ⭐ **[Bypass ISP Blocks](https://rentry.co/enable-ech)** - Bypass ISP censorship with Firefox
-* [GoodbyeDPI](https://github.com/ValdikSS/GoodbyeDPI/) / [GUI](https://github.com/mguludag/GUI-for-GoodbyeDPI), [Green Tunnel](https://github.com/SadeghHayeri/GreenTunnel), [NETBRIGHT](https://github.com/yebekhe/NETBRIGHT) or [GFW-knocker](https://github.com/GFW-knocker/gfw_resist_tls_proxy) / [Test](https://www.howsmyssl.com/) - DPI Circumvention Local Proxies
+* [GoodbyeDPI](https://github.com/ValdikSS/GoodbyeDPI/) / [GUI](https://github.com/mguludag/GUI-for-GoodbyeDPI), [PowerTunnel](https://github.com/krlvm/PowerTunnel), [Green Tunnel](https://github.com/SadeghHayeri/GreenTunnel), [NETBRIGHT](https://github.com/yebekhe/NETBRIGHT) or [GFW-knocker](https://github.com/GFW-knocker/gfw_resist_tls_proxy) / [Test](https://www.howsmyssl.com/) - DPI Circumvention Local Proxies
 * [Hola Proxy](https://github.com/Snawoot/hola-proxy) - Alternative Client for Hola Free Proxy Service
 * [Hide.me Firefox](https://addons.mozilla.org/en-US/firefox/addon/hide-me-vpn-free-proxy/) / [Chrome](https://chromewebstore.google.com/detail/hideme-proxy/ohjocgmpmlfahafbipehkhbaacoemojp) or [anonymoX](https://anonymox.net/en) - Free Proxy Service Browser Extension
 * [Snowflake](https://snowflake.torproject.org/) - Tor Proxy Browser Extension
@@ -13088,7 +13086,7 @@ Use a **[Base64 Decoder](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage
 
 ## Anonymous Image Boards
 
-* ⭐ **[4chan](https://4chan.org/)** - [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/tools-misc#wiki_.25B7_4chan_tools)
+* ⭐ **[4chan](https://4chan.org/)** - [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools/#wiki_.25B7_4chan_tools)
 
 [Post Office](https://afternoon.dynu.com/), [crystal.cafe](https://crystal.cafe/), [BUS STOP](https://bus-stop.net/)
 
