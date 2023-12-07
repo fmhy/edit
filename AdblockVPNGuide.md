@@ -323,6 +323,7 @@
 * ⭐ **FF Hardening Tools** - **[Guide](https://brainfucksec.github.io/firefox-hardening-guide)** / [2](https://12bytes.org/articles/tech/firefox/the-firefox-privacy-guide-for-dummies/) / [Video](https://youtu.be/F7-bW2y6lcI) / [Warning](https://i.ibb.co/Vpkrsg4/44160f4625bc.png)
 * [BadWolf](https://hacktivis.me/projects/badwolf) - Privacy Based Browser
 * [Brave](https://brave.com/) - Privacy Based Browser
+* [Dot Browser](https://github.com/dothq/browser) - Privacy Based Browser
 * [I2Pd Browser](https://i2pd.website/) - I2P Browser / [GitHub](https://github.com/PurpleI2P/i2pd)
 * [TPO Wiki](https://gitlab.torproject.org/tpo/team/-/wikis/home) - Tor Wiki
 * [Onion Directories](https://rentry.co/OnionDirectories##search-engines) - Tor Search Engines
@@ -515,7 +516,7 @@
 * ⭐ **[Lantern](https://lantern.io/)** or **[Psiphon](https://psiphon.ca/)** / [Bypass Blocks](https://media.discordapp.net/attachments/953145730736996382/953730963735707719/Screenshot_20220316220604.png) - Free Proxy / VPN
 * ⭐ **[SecureDNSClient](https://github.com/msasanmh/SecureDNSClient)** - DNS Proxy GUI / [Guide](https://rentry.co/SecureDNSClient)
 * ⭐ **[Bypass ISP Blocks](https://rentry.co/enable-ech)** - Bypass ISP censorship with Firefox
-* [GoodbyeDPI](https://github.com/ValdikSS/GoodbyeDPI/) / [GUI](https://github.com/mguludag/GUI-for-GoodbyeDPI), [Green Tunnel](https://github.com/SadeghHayeri/GreenTunnel), [NETBRIGHT](https://github.com/yebekhe/NETBRIGHT) or [GFW-knocker](https://github.com/GFW-knocker/gfw_resist_tls_proxy) / [Test](https://www.howsmyssl.com/) - DPI Circumvention Local Proxies
+* [GoodbyeDPI](https://github.com/ValdikSS/GoodbyeDPI/) / [GUI](https://github.com/mguludag/GUI-for-GoodbyeDPI), [PowerTunnel](https://github.com/krlvm/PowerTunnel), [Green Tunnel](https://github.com/SadeghHayeri/GreenTunnel), [NETBRIGHT](https://github.com/yebekhe/NETBRIGHT) or [GFW-knocker](https://github.com/GFW-knocker/gfw_resist_tls_proxy) / [Test](https://www.howsmyssl.com/) - DPI Circumvention Local Proxies
 * [Hola Proxy](https://github.com/Snawoot/hola-proxy) - Alternative Client for Hola Free Proxy Service
 * [Hide.me Firefox](https://addons.mozilla.org/en-US/firefox/addon/hide-me-vpn-free-proxy/) / [Chrome](https://chromewebstore.google.com/detail/hideme-proxy/ohjocgmpmlfahafbipehkhbaacoemojp) or [anonymoX](https://anonymox.net/en) - Free Proxy Service Browser Extension
 * [Snowflake](https://snowflake.torproject.org/) - Tor Proxy Browser Extension
