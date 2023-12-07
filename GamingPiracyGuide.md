@@ -658,6 +658,7 @@
 * ⭐ **[Steamless](https://github.com/atom0s/Steamless)** - Steam DRM Remover
 * ⭐ **[Steam-Auto-Crack](https://github.com/oureveryday/Steam-auto-crack)** or [SteamAutoCracker](https://github.com/BigBoiCJ/SteamAutoCracker) - Auto Apply Goldberg + Steamless / [Guide](https://codeberg.org/fernbacher/How-To-Crack)
 * ⭐ **[SteamDB](https://steamdb.info/)** - Steam Insights Tool / [Extension](https://steamdb.info/extension/)
+* ⭐ **[SteamDepotDownloaderGUI](https://github.com/mmvanheusden/SteamDepotDownloaderGUI)** or [DepotDownloader](https://github.com/SteamRE/DepotDownloader) - Steam Depot Downloaders
 * ⭐ **[Heroic Games Launcher](https://heroicgameslauncher.com/)**, [LEGENDARY](https://github.com/derrod/legendary) or [Rare](https://github.com/Dummerle/Rare) - Epic Games Launcher 
 * ⭐ **[Nemirtingas Epic Emulator](https://cs.rin.ru/forum/viewtopic.php?f=29&t=105551)** - Epic Online Service Emulator
 * ⭐ **[TCNO](https://github.com/TCNOco/TcNo-Acc-Switcher)** - Platform Account Switcher / [Tutorial](https://youtu.be/0h-xjiW9M7Y)
@@ -677,7 +678,6 @@
 * [Steam Rom Manager](https://github.com/SteamGridDB/steam-rom-manager) - Add ROMs to Steam
 * [The Wheelhaus](https://thewheelhaus.com/) - Find Random Steam Games
 * [Free Packages](https://steamdb.info/freepackages/) - Mass Activate All Free Steam Games / [Guide](https://youtu.be/svbdw-pYNT8)
-* [DepotDownloader](https://github.com/SteamRE/DepotDownloader) or [SteamDepotDownloaderGUI](https://github.com/mmvanheusden/SteamDepotDownloaderGUI) - Steam Depot Downloaders
 * [SteamDesktopAuthenticator](https://github.com/Jessecar96/SteamDesktopAuthenticator) - Desktop Implementation of Steam's Mobile Authenticator 
 * [Steam Python](https://github.com/ValvePython/steam) - Interact with Steam via Python
 * [Idle Master Extended](https://github.com/JonasNilson/idle_master_extended) or [IdleDaddy](https://play.google.com/store/apps/details?id=com.steevsapps.idledaddy) - Steam Card Automation
