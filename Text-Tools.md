@@ -77,7 +77,7 @@
 * [Translate Large PDFs](https://rentry.co/97nqn) - Large PDF Translation Guide
 * [Poedit](https://poedit.net/) - Translation Editor
 * [OmegaT](https://omegat.org/) - Translation Memory Tool
-* [TranslateImages](https://translateimages.site/) or [Translate-Images](https://translate-image.com/) - Translate Image Text
+* [Translate-Images](https://translate-image.com/) - Translate Image Text
 * [FastHub](https://fasthub.net/) - Text to Speech Translation Tool
 * [Useless-Translator](https://vcjhwebdev.github.io/useless-translator/), [Morsecode World](https://morsecode.world/) or [MorseDecoder](https://morsedecoder.com/) - Morse Code / Binary Translators
 * [The Pirate Translator](https://pirate.monkeyness.com/translate) - Translate Text to Pirate
