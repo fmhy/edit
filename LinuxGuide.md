@@ -106,8 +106,6 @@
 * [g4music](https://gitlab.gnome.org/neithern/g4music) - Audio Player
 * [dopamine](https://github.com/digimezzo/dopamine) - Audio Player
 * [AudioTube](https://invent.kde.org/multimedia/audiotube) - Audio Player
-* [spotify-qt](https://github.com/kraxarn/spotify-qt), [Spot](https://github.com/xou816/spot) or [SpotifyD](https://github.com/Spotifyd/spotifyd) - Spotify Clients
-* [Librespot-Python](https://github.com/kokarare1212/librespot-python) - Spotify TUI
 * [Monophony](https://gitlab.com/Vistaus/monophony) - YouTube Music Client
 * [Deezer Linux](https://github.com/aunetx/deezer-linux) - Deezer Client
 * [Myuzi](https://gitlab.com/albanobattistella/myuzi) or [Harmony Music](https://github.com/ZingyTomato/Harmony-Music) - Music Streaming Apps
