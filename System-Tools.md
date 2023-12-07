@@ -340,9 +340,7 @@
 
 ***
 
-# ► Windows Tools
-
-## ▷ Windows ISOs
+# ► Windows ISOs
 
 * ⭐ **[MAS ISO Index](https://massgrave.dev/genuine-installation-media.html)** / [ISO Request](https://discord.gg/Eq2dsgBkUJ) / [MSDL](https://massgrave.dev/msdl/) or [Microsoft SD](https://www.microsoft.com/en-us/software-download/) - Windows ISOs
 * ⭐ **[Ventoy](https://www.ventoy.net/en/index.html)**, **[Rufus](https://rufus.ie/)**, [AIO Boot](https://www.aioboot.com/) or [MediaCreationTool](https://github.com/AveYo/MediaCreationTool.bat) - Create Bootable USB Drives
