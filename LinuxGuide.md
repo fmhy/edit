@@ -39,7 +39,6 @@
 * [bluetuith](https://github.com/darkhz/bluetuith) - Bluetooth Manager
 * [QR Scan](https://github.com/sayanarijit/qrscan) - QR Code Scanner
 * [libimobiledevice](https://github.com/libimobiledevice/libimobiledevice) - Communicate with iOS Devices
-* [Redroid](https://github.com/remote-android/redroid-doc) - Android Emulator
 * [Meteo](https://gitlab.com/bitseater/meteo) - Weather App
 * [Client Evolution](https://help.gnome.org/users/evolution/stable/) - Calendar
 * [todo](https://github.com/sioodmy/todo/) or [pls-cli](https://github.com/guedesfelipe/pls-cli) - To-Do Apps
@@ -97,6 +96,7 @@
 
 ## ▷ Linux Audio
 
+* ⭐ **[SongRec](https://github.com/marin-m/SongRec)** - Song Identifier
 * [cmus](https://cmus.github.io/) - Audio Player
 * [Tauon Music Box](https://tauonmusicbox.rocks/) - Audio Player
 * [Lollypop](https://wiki.gnome.org/Apps/Lollypop), [2](https://gitlab.gnome.org/World/lollypop) - Audio Player 
@@ -111,7 +111,6 @@
 * [Deezer Linux](https://github.com/aunetx/deezer-linux) - Deezer Client
 * [Myuzi](https://gitlab.com/albanobattistella/myuzi) or [Harmony Music](https://github.com/ZingyTomato/Harmony-Music) - Music Streaming Apps
 * [HeadsetControl](https://github.com/Sapd/HeadsetControl) - Headset Settings Manager
-* [SongRec](https://github.com/marin-m/SongRec) - Song Identifier
 * [Pipewire](https://wiki.archlinux.org/title/PipeWire#Noise_suppression_for_voice) / [Plugins](https://github.com/wwmm/easyeffects) or [NoiseTorch](https://github.com/noisetorch/NoiseTorch) - Noise Suppression Software
 * [Qtractor](https://qtractor.org/) - Audio Editor
 * [Calf Studio Gear](https://calf-studio-gear.org/) - Audio Production Plugins
@@ -125,10 +124,10 @@
 
 ## ▷ Linux Images
 
+* ⭐ **[TextSnatcher](https://github.com/RajSolai/TextSnatcher)** or [Frog](https://tenderowl.com/work/frog/) - Image to Text
 * [photoshopCClinux](https://github.com/Gictorbit/photoshopCClinux) - Linux Photoshop Installer
 * [V4L2Loopback](https://github.com/umlaeute/v4l2loopback) - Create Virtual Cameras
 * [Drawing](https://github.com/maoschanz/drawing) - Drawing App
-* [TextSnatcher](https://github.com/RajSolai/TextSnatcher) or [Frog](https://tenderowl.com/work/frog/) - Image to Text
 * [Feh](https://feh.finalrewind.org/) or [NSXIV](https://github.com/nsxiv/nsxiv) - Image Viewer
 * [lsix](https://github.com/hackerb9/lsix) - View Images in Terminal
 * [Upscaler](https://gitlab.com/TheEvilSkeleton/Upscaler) - Image Upscaler
@@ -304,7 +303,6 @@
 * [yet another bench script](https://github.com/masonr/yet-another-bench-script) - Server Performance Script
 * [Bandwhich](https://github.com/imsnif/bandwhich) - Terminal Bandwidth Utilization Tool 
 * [Rang3r](https://github.com/floriankunushevci/rang3r) - IP / Port Scanner
-* [Link Unshortener](https://underpassapp.com/LinkUnshortener/) - Unshorten Links
 * [lnkr](https://github.com/naelxd/lnkr) - Link Saving TUI
 * [sttr](https://github.com/abhimanyu003/sttr) - Base64 Encryption / Decryption TUI
 * [PeerVPN](https://peervpn.net/) - P2P VPN
@@ -484,6 +482,7 @@
 * [MacBing](https://goodsnooze.gumroad.com/l/macbing) - Bing Chat
 * [ViennaRSS](https://www.vienna-rss.com/) - RSS Feed Reader
 * [Dialect](https://github.com/dialect-app/dialect) - Translator
+* [Link Unshortener](https://underpassapp.com/LinkUnshortener/) - Unshorten Links
 * [Aiko](https://sindresorhus.com/aiko) - Audio Transcription
 * [Drafts](https://getdrafts.com/), [CotEditor](https://coteditor.com/), [TextMate](https://macromates.com/), [Nebo](https://apps.apple.com/us/app/nebo-notes-pdf-annotations/id1119601770), [Kyun](https://github.com/file-acomplaint/kyun), [FSNotes](https://fsnot.es/), [Notenik](https://notenik.app/) or [Voodoopad](https://www.voodoopad.com/) - Text Editors / Notes
 * [Taskpaper](https://www.taskpaper.com/) - To-Do Apps
