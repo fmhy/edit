@@ -323,7 +323,6 @@
 * ⭐ **FF Hardening Tools** - **[Guide](https://brainfucksec.github.io/firefox-hardening-guide)** / [2](https://12bytes.org/articles/tech/firefox/the-firefox-privacy-guide-for-dummies/) / [Video](https://youtu.be/F7-bW2y6lcI) / [Warning](https://i.ibb.co/Vpkrsg4/44160f4625bc.png)
 * [BadWolf](https://hacktivis.me/projects/badwolf) - Privacy Based Browser
 * [Brave](https://brave.com/) - Privacy Based Browser
-* [Dot Browser](https://github.com/dothq/browser) - Privacy Based Browser
 * [I2Pd Browser](https://i2pd.website/) - I2P Browser / [GitHub](https://github.com/PurpleI2P/i2pd)
 * [TPO Wiki](https://gitlab.torproject.org/tpo/team/-/wikis/home) - Tor Wiki
 * [Onion Directories](https://rentry.co/OnionDirectories##search-engines) - Tor Search Engines
