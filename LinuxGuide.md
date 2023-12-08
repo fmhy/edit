@@ -318,7 +318,6 @@
 * [GNU Social](https://gnusocial.network/) - Self-Hosted Social Networking Platform
 * [Hexchat](https://hexchat.github.io/), [Adium](https://adium.im/), [Polari](https://wiki.gnome.org/Apps/Polari), [Irssi](https://github.com/irssi/irssi), [KVIrc](https://www.kvirc.net/) or [Weechat](https://weechat.org/) - IRC Clients
 * [gurk-rs](https://github.com/boxdot/gurk-rs) - Signal Client
-* [Ghetto Skype](https://github.com/stanfieldr/ghetto-skype) - Video / Chat Client
 * [YouTube-Viewer](https://github.com/trizen/youtube-viewer) - YouTube Linux Client / [Fork](https://github.com/trizen/pipe-viewer) 
 * [Gnome-Twitch](https://github.com/vinszent/gnome-twitch) - Twitch Desktop Client
 * [Whatsdesk](https://zerkc.gitlab.io/whatsdesk/) or [ZapZap](https://github.com/rafatosta/zapzap) - WhatsApp Client
