@@ -93,10 +93,8 @@
 * [VGPErson](https://vgperson.com/games/) or [Japanese PC Compendium](https://japanesepccompendium.blogspot.com/) - Japanese PC Games
 * [Minetest](https://www.minetest.net/) or [Cassicube](https://www.classicube.net/) - Open-Source Minecraft Alternatives
 * [Classic DOOM](https://classicdoom.com/) or [DoomWorld](https://www.doomworld.com/) - Doom Downloads
-* [RocketLauncer2](https://github.com/Hypnotoad90/RocketLauncher2) - Doom Source Port Frontend
 * [Doom64 EX](https://doom64ex.wordpress.com/downloads/) - Doom 64 PC Port 
 * [dhewm3](https://dhewm3.org/) - Doom 3 Source Port
-* [psdoom-ng](https://github.com/ChrisTitusTech/psdoom-ng) - Close Processes by Killing Demons
 * [Megaman 2.5D](https://petersjostrand.com/) - Multiplayer Mega Man
 * [OpenRA](https://openra.net/) - Command & Conquer Recreation
 * [NolfRevival](http://nolfrevival.tk/) - NOLF, NOLF 2 & Contract Jack
@@ -135,7 +133,6 @@
 * [PPD](https://projectdxxx.me/) - Project Diva Clone
 * [Rhythia](https://discord.gg/rhythia) - Sound Space Clones
 * [Cytoid](https://cytoid.io/) - Cytus Clone
-* [DTXManiaNX](https://github.com/limyz/DTXmaniaNX) - GITADORA Clone
 * [SweetPotato](https://wiki-en.purplepalette.net/home) - Project Sekai Clone
 
 ***
@@ -274,7 +271,6 @@
 * [sm64](https://github.com/n64decomp/sm64) - Super Mario 64 Decompilation / [Guide](https://youtu.be/rQVpfWYT0eg) 
 * [wide-snes](https://github.com/VitorVilela7/wide-snes) - Widescreen Super Mario World
 * [Dats.site](https://dats.site/) or [No Intro](https://no-intro.org/) - ROM .dat Files
-* [datcheck](https://github.com/pkos/datcheck) - Compare No-Intro / Redump .dat Files to ROM or Disc Collection
 * [Dat-O-Matic](https://datomatic.no-intro.org/index.php) - ROM Datasets
 * [NSWDB](http://www.nswdb.com) - Switch Release Tracker
 * [RomStation](https://www.romstation.fr/) - ROM Downloader / Manager / Multiplayer / [Screenshot](https://i.ibb.co/zSDH560/624adc3e44a8.png)
@@ -431,7 +427,6 @@
 * [Orbital Survival](https://playcanv.as/p/3G3RnfUz/) - Survive Waves of UFOs 
 * [Doodle Cricket](https://doodlecricket.github.io/index.html#/) - Play Cricket as a Cricket
 * [MousePoint](https://creativetechguy.com/mousepoint) - Mouse Pointing Game
-* [FindTwin](https://github.com/klimaleksus/FindTwin) - Find the Twins
 * [Spot the Differences](https://www.spotthedifference.com/) - Find the Differences
 * [Kuku Kube](https://kuku-kube.com/) - Find the Different Squares
 * [Alternate History Simulator](https://abw.blue/) - Write Alternate History 
@@ -650,7 +645,7 @@
 # ► Steam / Epic
 
 * 🌐 **[Steam Tool Collection](https://steamcommunity.com/sharedfiles/filedetails/?id=451698754)** or [SteamInternals](https://cs.rin.ru/forum/viewtopic.php?f=10&t=65887) - Steam Tool Indexes
-* 🌐 **[Steam Deck Mods](https://docs.google.com/document/d/1TWhN9nCorKxut5O7UbPQPDhXLb-8C-CIoesB01yfhmY/)** - Steam Deck Mods / [Discord](https://discord.com/invite/SteamDeck) / [Discord Bot](https://github.com/SteamDeckMods/sdm_discord_bot)
+* 🌐 **[Steam Deck Mods](https://docs.google.com/document/d/1TWhN9nCorKxut5O7UbPQPDhXLb-8C-CIoesB01yfhmY/)** - Steam Deck Mods / [Discord](https://discord.com/invite/SteamDeck)
 * ↪️ **[Steam Workshop Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_steam_workshop_downloaders)**
 * ⭐ **[Koalageddon](https://github.com/acidicoala/Koalageddon/)** / [v2](https://github.com/acidicoala/Koalageddon2) - DLC Unlocker for Steam, Epic, Origin, EA and Uplay
 * ⭐ **[SmokeAPI](https://github.com/acidicoala/SmokeAPI)** - Steam DLC Unlocker / [Auto Installer](https://github.com/pointfeev/CreamInstaller)
@@ -758,7 +753,6 @@
 * [PS3 Game Updater](https://www.psx-place.com/threads/ps3-game-updater-v1-5-psn-liberator-v0-96b-rudi-rastelli-adds-ps3p-pkg-ripper-support.3766/) or [Manually Updated](http://demo.aldostools.org/updates.html) - Update PS3 Games
 * [PS3Themes](http://www.ps3-themes.com/) - PS3 Themes
 * [PSXDev](https://www.psxdev.net/) - PS1 Development
-* [PopStarter](https://www.psx-place.com/threads/popstarter.19139/) - PS1 Emulator for PS2 / [Converter](https://www.psx-place.com/resources/psxvcd-by-englishl1989.669/) / [Setup](https://github.com/IsseiYoshida/Instalador-POPStarter)
 * [MemcardRex](https://shendosoft.blogspot.com/2014/01/memcardrex-18-released.html?m=1) - PS1 Save Transfer Tools / [Archive](https://archive.org/details/MemcardRex1.8)
 * [/r/VitaPiracy](https://www.reddit.com/r/VitaPiracy/) / [Discord](https://discord.gg/6Udcx2w) or [/r/VitaHacks](https://reddit.com/r/vitahacks/) - PSVita Homebrew Subreddits
 * [Vita Volume](https://gitlab.com/sinful-butterfly/vita-volume) - Set PS Vita Volume without Buttons
@@ -784,9 +778,8 @@
 * [Hidden Fallout 4 Mods](https://rentry.co/89gads), [2](https://docs.google.com/document/d/1Im5Mg-l2btRsYVOjaJa0slrjDcXNvi41J5pHw_Zuwqw/edit?usp=sharing) - Fallout 4 Mods Removed from Nexus
 * [OpenFortress](https://openfortress.fun/) - Team Fortress 2 Mod
 * [TF2 Classic](https://tf2classic.com/) - Team Fortress 2 Classic Mod
-* [Rekt](https://discord.com/invite/HqjQFCp) or [LinkerMod](https://github.com/Nukem9/LinkerMod) - Black Ops 1 Mod Projects
+* [Rekt](https://discord.com/invite/HqjQFCp) - Black Ops 1 Mod Projects
 * [Plutonium](https://plutonium.pw/) - Black Ops 2 & MW3 Mod Project / [Discord](https://discord.gg/d95y8ah)
-* [CoD4-Mod-Tools](https://github.com/promod/CoD4-Mod-Tools) - COD4 Mod Tools
 * [UGX Mods](https://www.ugx-mods.com/) - COD Zombies Mods / [Discord](https://discord.gg/g9S2nSp)
 * [Project Reality](https://www.realitymod.com/about) - BF2 & ARMA 2 Realism Mod
 * [BF3Reality](https://bf3reality.com/) - BF3 Realism Mod
@@ -937,7 +930,6 @@
 * ⭐ **[DisplayMagician](https://github.com/terrymacdonald/DisplayMagician)** or [AutoActions](https://github.com/Codectory/AutoActions) - Per-Game Display Profiles
 * ⭐ **[Magpie](https://github.com/Blinue/Magpie)** - Enable AMD FSR on Any Game or Any Device
 * [PC-Tuning](https://github.com/amitxv/PC-Tuning), [RagnoTech Optimization Catalog](https://ragnos1997.com/optimization-catalog/), [TroubleChute](https://www.youtube.com/c/TroubleChute/featured) or [GamingPCSetup](https://github.com/djdallmann/GamingPCSetup) - Gaming Optimization Guides
-* [LinkRunner](https://github.com/romjacket/rj_linkrunner) - Per-Game Settings Manager
 * [Calypto’s Latency Guide](https://docs.google.com/document/d/1c2-lUJq74wuYK1WrA_bIvgb89dUN0sj8-hO3vqmrau4/), [cancerogenoslab](https://sites.google.com/view/cancerogenoslab/) or [MikeMartin](https://www.mikemartin.co/) - FPS / Latency Guides
 * [LatencyFleX](https://github.com/ishitatsuyuki/LatencyFleX) or [HoneCtrl](https://github.com/auraside/HoneCtrl) - Latency Reduction / FPS Fixes
 * [OCAT](https://gpuopen.com/ocat/) / [GitHub](https://github.com/GPUOpen-Tools/ocat), [Rivatuner Statistics Server](https://www.guru3d.com/files-details/rtss-rivatuner-statistics-server-download.html), [CapFrameX](https://www.capframex.com/) or [Xbox Game Bar](https://rentry.co/WindowsFPS) - FPS Benchmarking
@@ -949,7 +941,7 @@
 * [dgVoodoo2](http://dege.freeweb.hu/dgVoodoo2/) - Glide & DirectX Graphics Wrapper
 * [VibranceGUI](https://vibrancegui.com/) - Automate Digital Vibrance Control
 * [ReShade](https://reshade.me/) - Generic Post-Processing Injector / [GitHub](https://github.com/crosire/reshade) / [Shaders](https://github.com/BlueSkyDefender/Depth3D)
-* [WindowedBorderlessGaming](https://westechsolutions.net/sites/WindowedBorderlessGaming/), [Borderless Gaming](https://github.com/Codeusa/Borderless-Gaming), [Borderless-Gaming-Tool](https://github.com/r57zone/Borderless-Gaming-Tool) or [FullScreenizer](http://runtimeterror.com/tools/fullscreenizer/) - Borderless Windows for All Games
+* [WindowedBorderlessGaming](https://westechsolutions.net/sites/WindowedBorderlessGaming/), [Borderless Gaming](https://github.com/Codeusa/Borderless-Gaming) or [FullScreenizer](http://runtimeterror.com/tools/fullscreenizer/) - Borderless Windows for All Games
 * [Lossless Scaling](https://github.com/nbats/FMHYedit/blob/main/base64.md#lossless-scaling) - Windowed Game Scaling
 * [DxWnd](https://sourceforge.net/projects/dxwnd/) - Play Fullscreen Only Games in Window
 * [Widescreen Fixes Pack](https://thirteenag.github.io/wfp) / [GitHub](https://github.com/ThirteenAG/WidescreenFixesPack), [Widescreen Fixer v3.4](https://community.pcgamingwiki.com/files/file/1754-widescreen-fixer-v34-r737/) or [Flawless Widescreen](https://www.flawlesswidescreen.org/) - Widescreen Fixes
@@ -966,7 +958,6 @@
 * [Blitz.gg](https://blitz.gg/) - Post Match Performance Analyzer
 * [DiIiS](https://github.com/blizzless/blizzless-diiis) - Open-Source Diablo III Local Server
 * [Server.pro](https://server.pro/) - Game Server Hosting
-* [Streamer Mode](https://github.com/taskinoz/Streamer-Mode) - Hide Player Names to Avoid Stream Sniping
 * [Tilted Online](https://github.com/tiltedphoques/TiltedEvolution) - Multiplayer Skyrim & Fallout 4 / [Discord](https://discord.gg/skyrimtogether) / [Setup Guide](https://youtu.be/ytSftFoQQHA)
 * [NV:MP](https://nv-mp.com/) - Fallout: New Vegas Multiplayer
 * [Project Cartographer](https://www.halo2.online/) - Halo 2 Online Servers
@@ -1106,19 +1097,13 @@
 * ⭐ **[FiveM](https://fivem.net/)** - Modded GTAV Servers
 * ⭐ **[Rainbomizer](https://rainbomizer.com/)** - GTA Randomizer Mods
 * [GTA5 FSR](https://github.com/NarutoUA/gta5_fsr) - GTAV FidelityFX Super Resolution Mod
-* [GTAV-SimpleGangWar](https://github.com/David-Lor/GTAV-SimpleGangWar) - GTAV Gang War Script
 * [GTA 5 Grand Roleplay](https://gta5grand.com/) - GTAV Roleplay Server
 * [OpenIV](https://openiv.com/) - Rockstar Game Modding Tool
-* [Wanted-Music-IV](https://github.com/ClonkAndre/Wanted-Music-IV) - GTAV Wanted Music in GTAIV
 * [D.E.P](https://www.definitive-edition-project.com/) - Fix GTA PC Port Bugs
 * [Vice City: Multiplayer](https://vc-mp.org/) - Mutiplayer GTAVC
-* [GTA-Vice-City-Interactive-Map](https://github.com/denizariyan/GTA-Vice-City-Interactive-Map) - GTAVC Interactive Map Mod
 * [Jetpack Downgrader](https://github.com/Zalexanninev15/Jetpack-Downgrader) - GTASA Downgrader
 * [gtasa-savegame-editor](https://github.com/Kronavarb/gtasa-savegame-editor) - GTASA Save Editor
-* [SAMP-GPS](https://github.com/janglapuk/SAMP-GPS) - GTASA Multiplayer GPS
-* [IMFX](https://github.com/DK22Pac/imfx) - GTASA Improved FX Mod
 * [VehFuncs](https://www.mixmods.com.br/2023/01/sa-vehfuncs/) - GTASA Vehicle Mods
-* [mobile-hud](https://github.com/DK22Pac/mobile-hud) - GTASA Mobile HUD Mod
 * [SA Mission Maker](https://libertycity.net/files/gta-san-andreas/175089-sa-mission-maker-v1-45.html) or [DYOM](https://dyom.gtagames.nl/) - GTASA Mission Creator
 * [GTA3MP3](https://gtamp.com/gta3/) - GTA3 Multiplayer Mod
 
