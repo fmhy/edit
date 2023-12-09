@@ -482,7 +482,6 @@
 * [unlimcloud](https://www.unlimcloud.cloud/)
 * [terabox](https://terabox.com/)
 * [icedrive](https://icedrive.net/)
-* [trainbit](https://trainbit.com/)
 * [degoo](https://degoo.com/)
 * [alfafile](https://www.alfafile.net/)
 * [aliyundrive](https://www.aliyundrive.com/)
