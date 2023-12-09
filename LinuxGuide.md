@@ -179,7 +179,6 @@
 * [mcpelauncher](https://github.com/minecraft-linux/mcpelauncher-manifest) - Minecraft Android Bedrock Edition Launcher for Linux
 * [Grapejuice](https://gitlab.com/brinkervii/grapejuice) - Roblox Manager
 * [Bloxstrap](https://discord.com/invite/nKjV3mGq6R) - Roblox Launcher
-* [Paimon Launcher](https://notabug.org/loentar/paimon-launcher) - Run Genshin Impact
 * [among-sus](https://git.sr.ht/~martijnbraam/among-sus) - Play Among Us in your Terminal (Recreation)
 * [Gameboy.live](https://github.com/HFO4/gameboy.live) - Terminal Gameboy Emulator
 * [Gambit](https://github.com/maaslalani/gambit) - Terminal Chess
