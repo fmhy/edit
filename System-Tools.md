@@ -27,7 +27,7 @@
 * [RegExp](https://github.com/zodiacon/TotalRegistry), [ripgrep-all](https://github.com/phiresky/ripgrep-all) or [Registry-Finder](https://registry-finder.com/) - Registry Explorers
 * [Revertservice](https://revertservice.com/) - Default Windows Services Config
 * [OfflineInsiderEnroll](https://github.com/abbodi1406/offlineinsiderenroll) - Enable Windows Insider without Account
-* [OpenHab](https://www.openhab.org/) - Home Automation / [Setup](https://github.com/openhab/openhabian) / [Desktop](https://github.com/openhab/openhab-windows) / [Mobile](https://github.com/openhab/openhab-android)
+* [OpenHab](https://www.openhab.org/) - Home Automation / [Setup](https://github.com/openhab/openhabian) / [Mobile](https://github.com/openhab/openhab-android)
 * [Google Assistant Desktop Client](https://github.com/Melvin-Abraham/Google-Assistant-Unofficial-Desktop-Client) or [Home Assistant](https://www.home-assistant.io/) - Home Assistant Client / [GUI](https://github.com/LAB02-Research/HASS.Agent)
 * [CasaOS](https://casaos.io/) - Cloud Home System / [GitHub](https://github.com/IceWhaleTech/CasaOS)
 * [Leon](https://getleon.ai/) - AI Assistant
@@ -68,7 +68,7 @@
 * ⭐ **[EarTrumpet](https://eartrumpet.app/)**, [Volumey](https://github.com/G-Stas/Volumey) or [Volume2](https://github.com/irzyxa/Volume2) - Improved Volume Mixer
 * [Couleur Tweak Tips](https://discord.gg/CTT) - Windows Tweaking Guides
 * [MajorGeeks Windows Tweaks](https://www.majorgeeks.com/files/details/majorgeeks_registry_tweaks.html), [Winaero](https://winaero.com/), [winutil](https://github.com/ChrisTitusTech/winutil) or [QuickBoost](https://github.com/SanGraphic/QuickBoost) - System Tweaking Tools / **[Warning](https://pastebin.com/vMYCiAGE)**
-* [Awesome Scripts](https://github.com/Py-Contributors/awesomeScripts), [abbodi1406](https://forums.mydigitallife.net/posts/1343297/), [Batch-Script-Collection](https://github.com/happy05dz/Batch-Script-Collection), [BatUtil](https://github.com/abbodi1406/BatUtil) or [TechNet-Gallery](https://github.com/MScholtes/TechNet-Gallery) - System Scripts
+* [Awesome Scripts](https://github.com/Py-Contributors/awesomeScripts), [abbodi1406](https://forums.mydigitallife.net/posts/1343297/), [BatUtil](https://github.com/abbodi1406/BatUtil) or [TechNet-Gallery](https://github.com/MScholtes/TechNet-Gallery) - System Scripts
 * [bget](https://github.com/jahwi/bget) - Windows Scripts Manager
 * [Windows-Hacks](https://github.com/LazoCoder/Windows-Hacks) - Windows API Tricks
 * [Win10 Widgets](https://win10widgets.com/), [BeWidgets](https://apps.microsoft.com/store/detail/bewidgets/9NQ07FG50H2Q) or [Eww](https://github.com/elkowar/eww) - Widgets for Windows
@@ -173,7 +173,6 @@
 * [Clipboard Canvas](https://github.com/d2dyno1/ClipboardCanvas)
 * [Xtra Clipboard](https://xtra-clipboard.com/)
 * [Control V](https://ctrl.vi/)
-* [Clipper](https://github.com/AkashRajpurohit/clipper)
 
 ***
 
@@ -277,7 +276,6 @@
 * ⭐ **[GParted](https://gparted.org/)**, [Rescuezilla](https://rescuezilla.com/), [CloneZilla](https://clonezilla.org/) or [AOMEI](https://www.diskpart.com/) - Partition Managers
 * [TrueNAS](https://www.truenas.com/) - Storage System
 * [QDirStat](https://github.com/shundhammer/qdirstat) - Directory Statistics
-* [Browsemonkey](https://github.com/shukriadams/browsemonkey) - Take Snapshots of File Systems
 * [WinDirStat](https://windirstat.net/) - Disk Usage Analyzer
 * [CrystalDiskInfo](https://crystalmark.info/en/software/crystaldiskinfo/) - Disk Usage Analyzer
 * [Macrorit Partition Expert](https://macrorit.com/partition-magic-manager/partition-expert-download.html) - Disk Usage Analyzer
@@ -322,7 +320,6 @@
 * [MoveMouse](https://github.com/sw3103/movemouse/) or [MouseJiggler](https://github.com/arkane-systems/mousejiggler) - Simulate User Activity 
 * [The Fastest Mouse Clicker](https://gitlab.com/mashanovedad/The-Fastest-Mouse-Clicker-for-Windows), [Alpha Clicker](https://github.com/robiot/AlphaClicker) or [AutoClicker Bookmarklet](https://autoclicker.glitch.me/) - Mouse Auto Clicker
 * [StrokeIt](https://www.tcbmi.com/strokeit/) or [StrokesPlus](https://www.strokesplus.net/) - Mouse Gestures
-* [VirtualMouse](https://github.com/SY3141/VirtualMouse) - Mouse Camera Gestures
 * [Espanso](https://espanso.org/) - Typing Shortcuts / [GitHub](https://github.com/espanso/espanso)
 * [win-vind](https://pit-ray.github.io/win-vind/) - Vim Style Keybindings for Windows
 * [Launchy](https://launchy.net/), [FlowLauncher](https://www.flowlauncher.com/), [Keypirinha](https://keypirinha.com/), [Ueli](https://ueli.app/) / [GitHub](https://github.com/oliverschwendener/ueli) - Keystroke Launchers
