@@ -281,7 +281,6 @@
 * [SD Inpainting](https://huggingface.co/spaces/runwayml/stable-diffusion-inpainting), [Inpaint Anything](https://github.com/geekyutao/Inpaint-Anything) or [Lama Cleaner](https://github.com/Sanster/lama-cleaner) - Image Fill / Item Removal
 * [MemeCam](https://www.memecam.io/) - AI Meme Generator
 * [Shap-e](https://github.com/openai/shap-e), [Stable Dreamfusion](https://github.com/ashawkey/stable-dreamfusion) or [ThreeStudio](https://github.com/threestudio-project/threestudio) - 3D Image Generators
-* [Interiorai](https://interiorai.com/) - AI Interior Design Tool
 * [Glaze](https://glaze.cs.uchicago.edu/index.html) - Protect Digital Art from AI Copies 
 
 ***
