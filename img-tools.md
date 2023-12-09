@@ -64,7 +64,6 @@
 * [Anime2Sketch](https://github.com/Mukosame/Anime2Sketch) - Create Sketch from Anime
 * [Image Splitter](https://ruyili.ca/image-splitter/), [2](http://www.htmlkit.com/services/is/) - Split Images into Tiles
 * [Needs More JPEG](http://needsmorejpeg.com/) - Blur / Pixelize Images
-* [Repixel](https://github.com/codforc/Repixel) - RGB Pixel Filter
 * [Color Transfer](https://www.dustfreesolutions.com/CT/CT.html) - Transfer Color Between Images
 * [PicFont](https://picfont.com/) - Add Text to Images
 * [Acme Annotator](https://acme.com/annotator/) - Image Annotation 
@@ -447,7 +446,7 @@
 * [Binternet](https://github.com/Ahwxorg/Binternet) - Pinterest Frontend
 * [FlipFlip](https://github.com/ififfy/flipflip/) - Image Slideshow
 * [The Slideshow](https://theslideshow.net/) - Google Image Slideshow
-* [Pinry](https://docs.getpinry.com/) or [Bookmarkd](https://github.com/ferrufinob/Bookmarkd_Frontend) - Image Tiling / Pinterest Alternatives
+* [Pinry](https://docs.getpinry.com/) - Image Tiling / Pinterest Alternatives
 * [Librephotos](https://github.com/LibrePhotos/librephotos), [Photoprism](https://github.com/photoprism/photoprism), [Photoview](https://github.com/photoview/photoview) or [Ownphotos](https://github.com/hooram/ownphotos/) - Self-Hosted Google Photo Manager 
 * [Pixelfed](https://pixelfed.org/) or [Unsee](https://unsee.cc/) - Decentralized / Temporary Image Hosts / [Android](https://gitlab.shinice.net/pixeldroid/PixelDroid)
 * [Google Photos Takeout Helper](https://github.com/TheLastGimbus/GooglePhotosTakeoutHelper) - Cleanup a Google Photos Takeout
@@ -464,7 +463,6 @@
 * [Gyazo](https://gyazo.com/)
 * [KSnip](https://github.com/ksnip/ksnip)
 * [LightShot](https://app.prntscr.com/en/index.html)
-* [ScreenRaptor](https://github.com/GirkovArpa/screenraptor)
 * [Nimbus Capture](https://nimbusweb.me/screenshot.php)
 * [ScreenshotX](https://screenshotx.com/)
 * [Pika](https://pika.style/) / [GitHub](https://github.com/rishimohan/pika), [FabPic](https://www.fabpic.app/) or [OnPaste](https://onpaste.com/) - Screenshot Editor
@@ -473,7 +471,6 @@
 * [puush](https://puush.me/) - Easily Share Screenshots
 * [Screenstab](https://screenstab.com/editor/) - Create Graphics from Screenshots
 * [Limus](https://limus.netlify.app/) or [Screenstab](https://www.screenstab.com/editor/) - Change Screenshot Angles
-* [ImgReview](https://github.com/artemdemo/imgreview) - Annotate Screenshots
 * [Screenshot Comparison](https://screenshotcomparison.com/) - Compare Screenshots
 * [Screenshot Tutorial](https://www.take-a-screenshot.org/) - Multi Platform Screenshot Guides 
 
