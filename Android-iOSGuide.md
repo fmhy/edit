@@ -956,7 +956,7 @@
 ## ▷ iOS Adblocking
 
 * ⭐ **[System Wide Adblocking](https://champagne.pages.dev/before-you-begin/important-tools/)**
-* ⭐ **[AdGuard Pro](https://github.com/nbats/FMHYedit/blob/main/base64.md#adguard-premium)** / [2](https://testflight.apple.com/join/XqF1FkBg) - Adblocker / [Config](https://1fichier.com/?ef26ks4abjzct7o1k8os) / [Remote](https://apps.apple.com/app/apple-store/id1543143740)
+* ⭐ **[AdGuard Pro](https://github.com/fmhy/FMHYedit/blob/main/base64.md#adguard-pro-ios)** / [2](https://testflight.apple.com/join/XqF1FkBg) - Adblocker / [Config](https://1fichier.com/?ef26ks4abjzct7o1k8os) / [Remote](https://apps.apple.com/app/apple-store/id1543143740)
 * [AdGuard Safari](https://adguard.com/en/adguard-safari/overview.html) - AdGuard for Safari
 * [Hyperweb](https://hyperweb.app/) - iOS Safari Adblock
 * [KF Panda-Player](https://apps.apple.com/us/app/kfpanda-player/id1460792262) - Turn any site into a App, without the Ads 
