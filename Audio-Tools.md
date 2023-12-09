@@ -100,7 +100,7 @@
 * ⭐ **[AudioRelay](https://audiorelay.net/)** - Stream PC Audio to Phone
 * ⭐ **[iBroadcast](https://ibroadcast.com)**
 * ⭐ **[Airsonic](https://airsonic.github.io/)** or [Airsonic Advanced](https://github.com/airsonic-advanced/airsonic-advanced) / [Web UI](https://github.com/tamland/airsonic-refix)
-* ⭐ **[koel](https://koel.dev/)** - [Docker](https://github.com/0xcaff/docker-koel)
+* ⭐ **[koel](https://koel.dev/)**
 * [Gelli](https://github.com/dkanada/gelli) or [Sonixd](https://github.com/jeffvli/sonixd) - Jellyfin Music Players
 * [SoundSync](https://soundsync.app/), [SnapCast](https://github.com/badaix/snapcast) or [SonoBus](https://sonobus.net/) - Sound System Sync
 * [mStream](https://mstream.io/)
@@ -168,7 +168,6 @@
 * [SoundCloud Downloader](https://github.com/NotTobi/soundcloud-dl)
 * [Klickaud](https://www.klickaud.co/)
 * [Local SoundCloud Downloader](https://greasyfork.org/en/scripts/394837)
-* [SoundCloud-Playlist-Sync](https://github.com/erwinkramer/SoundCloud-Playlist-Sync)
 * [Soundcloud-Downloader](https://github.com/Kawaizombi/kawai-scripts/tree/master/projects/soundcloud-downloader)
 * [SCDL](https://addons.mozilla.org/pl/firefox/addon/scdl-soundcloud-downloader/) / [Git](https://github.com/flyingrub/scdl), [sclouddownloader](https://sclouddownloader.net/)
 * [SoundcloudMP3](https://soundcloudmp3.cc/)
