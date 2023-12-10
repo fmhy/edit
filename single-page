@@ -123,7 +123,7 @@
 * 🌐 **[jailbreakchat](https://www.jailbreakchat.com/)** or **[jamessawyer](http://www.jamessawyer.co.uk/pub/gpt_jb.html)** - Jailbreak Prompts
 * ⭐ **[Prompt Engineering Guide](https://www.promptingguide.ai)**, [Jailbreaking ChatGPT](https://arxiv.org/pdf/2305.13860) or [Learn Prompting](https://learnprompting.org/) - Prompting Guides
 * ⭐ **[quickref](https://quickref.me/chatgpt)** - Prompt Cheatsheets
-* ⭐ **[Leaked Prompts](https://github.com/linexjlin/GPTs)**, [500 Best Prompts](https://puzzle-jute-202.notion.site/500-Best-ChatGPT-Prompts-f5b4ad65deec4b6385316fdb8740af74), [flowgpt](https://flowgpt.com/), [Prompts Hub](https://docs.google.com/spreadsheets/d/1Y-xQwFkQFCKhPB3nOMyTMNPZ-vaFiof2-vWGBAeupTo/edit#gid=0), [DataFit](https://datafit.ai/top-chatgpt-prompts), [ChainBrain AI](https://www.chainbrainai.com/), [PromptVine](https://promptvine.com/), [AwesomeGPTPrompts](https://www.awesomegptprompts.com/), [OrdinaryPeoplePrompts](https://www.ordinarypeopleprompts.com/), [UseThisPrompt](https://www.usethisprompt.io/) or [SnackPrompt](https://snackprompt.com/) - Prompt Directories
+* ⭐ **[Leaked Prompts](https://github.com/linexjlin/GPTs)**, [500 Best Prompts](https://puzzle-jute-202.notion.site/500-Best-ChatGPT-Prompts-f5b4ad65deec4b6385316fdb8740af74), [flowgpt](https://flowgpt.com/), [Prompts Hub](https://docs.google.com/spreadsheets/d/1Y-xQwFkQFCKhPB3nOMyTMNPZ-vaFiof2-vWGBAeupTo/edit#gid=0), [DataFit](https://datafit.ai/top-chatgpt-prompts), [ChainBrain AI](https://www.chainbrainai.com/), [AwesomeGPTPrompts](https://www.awesomegptprompts.com/), [OrdinaryPeoplePrompts](https://www.ordinarypeopleprompts.com/), [UseThisPrompt](https://www.usethisprompt.io/) or [SnackPrompt](https://snackprompt.com/) - Prompt Directories
 * [Chatgptjailbreak](https://rentry.org/Chatgptjailbreak) - Jailbreak Prompts
 * [GPTea](https://gptea.io/) - Trending Prompts
 * [SD Dynamic Prompts](https://github.com/adieyal/sd-dynamic-prompts) or [PromptBot](https://www.messengerx.io/promptbot) - Prompt Generators
@@ -281,7 +281,6 @@
 * [SD Inpainting](https://huggingface.co/spaces/runwayml/stable-diffusion-inpainting), [Inpaint Anything](https://github.com/geekyutao/Inpaint-Anything) or [Lama Cleaner](https://github.com/Sanster/lama-cleaner) - Image Fill / Item Removal
 * [MemeCam](https://www.memecam.io/) - AI Meme Generator
 * [Shap-e](https://github.com/openai/shap-e), [Stable Dreamfusion](https://github.com/ashawkey/stable-dreamfusion) or [ThreeStudio](https://github.com/threestudio-project/threestudio) - 3D Image Generators
-* [Interiorai](https://interiorai.com/) - AI Interior Design Tool
 * [Glaze](https://glaze.cs.uchicago.edu/index.html) - Protect Digital Art from AI Copies 
 
 ***
@@ -3936,6 +3935,12 @@ Use a **[Base64 Decoder](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage
 #### Frif Drive
 
 `aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMTJBUDBrMkN5cHVYX2JkZlVkMnJ1ZUtOUExQRU9CQ3Va`
+
+***
+
+#### adguard pro (ios)
+
+`aHR0cHM6Ly9mb3J1bS5tb2JpbGlzbS5vcmcvc2VhcmNoLnBocD9rZXl3b3Jkcz1BZEd1YXJkK1BybyZzcj10b3BpY3Mmc2Y9dGl0bGVvbmx5`
 ***
 ***
 **[◄◄ Back to Wiki Index](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/index)**
@@ -6102,7 +6107,7 @@ Use a **[Base64 Decoder](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage
 ## ▷ iOS Adblocking
 
 * ⭐ **[System Wide Adblocking](https://champagne.pages.dev/before-you-begin/important-tools/)**
-* ⭐ **[AdGuard Pro](https://github.com/nbats/FMHYedit/blob/main/base64.md#adguard-premium)** / [2](https://testflight.apple.com/join/XqF1FkBg) - Adblocker / [Config](https://1fichier.com/?ef26ks4abjzct7o1k8os) / [Remote](https://apps.apple.com/app/apple-store/id1543143740)
+* ⭐ **[AdGuard Pro](https://github.com/fmhy/FMHYedit/blob/main/base64.md#adguard-pro-ios)** / [2](https://testflight.apple.com/join/XqF1FkBg) - Adblocker / [Config](https://1fichier.com/?ef26ks4abjzct7o1k8os) / [Remote](https://apps.apple.com/app/apple-store/id1543143740)
 * [AdGuard Safari](https://adguard.com/en/adguard-safari/overview.html) - AdGuard for Safari
 * [Hyperweb](https://hyperweb.app/) - iOS Safari Adblock
 * [KF Panda-Player](https://apps.apple.com/us/app/kfpanda-player/id1460792262) - Turn any site into a App, without the Ads 
@@ -13494,7 +13499,6 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://70.88.180.169:8
 * [Morse Code](https://morsecode.me/) or [Woozle](https://vail.woozle.org/) - Create Morse Code Audio
 * [Parcelsapp](https://parcelsapp.com/en/) or [17Track](https://www.17track.net/en) - International Package Tracking
 * [Sweet Home 3D](https://www.sweethome3d.com/) or [Homestyler](https://www.homestyler.com/) - Interior Design Apps
-* [Interiorai](https://interiorai.com/) - AI Interior Design Tool
 * [BlockLayer](https://www.blocklayer.com/) - Construction / Remodeling Calculators
 * [TemplateMaker](https://www.templatemaker.nl/) - Package / Box Templates
 * [/r/Assistance](https://www.reddit.com/r/Assistance/), [/r/borrow](https://www.reddit.com/r/borrow/), [/r/Random_Acts_Of_Pizza](https://www.reddit.com/r/Random_Acts_Of_Pizza/) or [/r/Homeless](https://www.reddit.com/r/homeless/) - Assistance / Donation Subreddits
