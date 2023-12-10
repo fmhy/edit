@@ -47,9 +47,9 @@ Use [this](https://bitbucket.org/magnolia1234/bypass-paywalls-firefox-clean/src/
 
 ### Windows Piracy 
 
-**[Windows Piracy Guide](https://github.com/nbats/FMHYedit/blob/main/base64.md#windows-piracy-guides)** - Pirate windows
 **[Windows ISOs](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/system-tools#wiki_.25BA_windows_isos)** - Download Windows
 **[Windows Activation](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/system-tools#wiki_.25B7_windows_activation)** - Activate Windows 
+**[Windows Piracy Guide](https://rentry.org/windows_piracy)** - How-to Pirate windows
 
 ***
 
