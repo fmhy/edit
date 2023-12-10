@@ -4,7 +4,7 @@
 ***
 ***
 
-**[Table of Contents](https://ibb.co/3sDtJ0S)** - For mobile users
+**[Table of Contents](https://ibb.co/KVhR6WQ)** - For mobile users
 
 ***
 *** 
@@ -203,156 +203,6 @@
 * [Chip Drop](https://getchipdrop.com/) - Free Mulch
 * [Hardiness Zones](https://upload.wikimedia.org/wikipedia/commons/a/a7/World_Hardiness_Zones.png) or [Plant Maps](https://www.plantmaps.com/) - Global Map of Hardiness Zones
 * [/r/Microgrowery](https://reddit.com/r/microgrowery/) - Cannabis Growing Community
-
-***
-
-# ► Career
-
-* 🌐 **[Common Q&As](https://www.indeed.com/career-advice/interviewing/top-interview-questions-and-answers)** - Interview Questions Index
-* ↪️ **[Resume Creators](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_resume_makers)**
-* ↪️ **[Collaboration Platforms](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_collaboration_platforms)**
-* ⭐ **[5000 Best Job Sites](http://5000best.com/websites/Jobs/)**, [4DayWeek](https://4dayweek.io/) or [Indeed](https://www.indeed.com/) - Job Search Sites
-* ⭐ **[Comparably](https://www.comparably.com/)** or [GoodFirms](https://www.goodfirms.co/) - Compare Companies / Salaries
-* ⭐ **[Resume Guide](https://hwpi.harvard.edu/files/ocs/files/hes-resume-cover-letter-guide.pdf)**, [Undergrad](https://hwpi.harvard.edu/files/ocs/files/undergrad_resumes_and_cover_letters.pdf), [CareerCup](https://www.careercup.com/resume) or [Masters](https://hwpi.harvard.edu/files/ocs/files/masters_resume_cover_letters.pdf) - Resume / Cover Letter Guides
-* ⭐ **[KickResume](https://www.kickresume.com/en/help-center/resume-samples/)** or [ThisResumeDoesNotExist](https://thisresumedoesnotexist.com/) - Resume Samples
-* ⭐ **[Reverse Interview](https://github.com/viraptor/reverse-interview)** or [job-interview-questions](https://github.com/lkostrowski/job-interview-questions-to-ask-companies) - Questions to Ask Potential Employers
-* ⭐ **[Kimai](https://www.kimai.org/)** - Working Hours Tracker
-* [JobBoardSearch](https://jobboardsearch.com/), [CyberCoders](https://www.cybercoders.com/), [whoishiring](https://whoishiring.io/), [Toby Tools](https://rentry.co/qnu6x), [The Muse](https://www.themuse.com/search/) or [EuroJobs](https://eurojobs.com/) - Job Search
-* [50WaysToGetAJob](https://50waystogetajob.com/) - Interactive Job Search Guide
-* [80,000 Hours](https://80000hours.org/) - Explore Career Options
-* [/r/careerguidance](https://www.reddit.com/r/careerguidance/) - Career Guidance Subreddit
-* [Science Career General](https://sciencecareergeneral.neocities.org/) - PhD / STEM Career Study Guides
-* [JustLanded](https://www.justlanded.com/) - Working & Living Abroad Guides
-* [4 day week](https://4dayweek.io/) - Find Jobs with 4 Day Weeks
-* [Space Crew](https://spacecrew.com/) - Find Space Related Jobs
-* [EconJobRumors](https://www.econjobrumors.com/) - Economic Job Market Forum
-* [SocJobRumors](https://www.socjobrumors.com/) - Sociology Job Market Forum
-* [Side Hustle Stack](https://sidehustlestack.co/) - Find Platform Based Side Work
-* [The Dots](https://the-dots.com/events/search) - Online Workshops / Courses / Meetups
-* [MedusaJS](https://medusajs.com/) - Open Source Commerce Store
-* [Contact Card](https://contact-card.vercel.app/) - Contact Card Generator
-* [MS Word Cover Page Templates](https://www.mswordcoverpages.com/) - Cover Page Templates
-* [PortfolioVisualizer](https://www.portfoliovisualizer.com/) - Visualize Portfolio
-* [CoFolios](https://cofolios.com/) - Portfolio Sharing
-* [PolyWork](https://www.polywork.com/) - Turn LinkedIn Profile to Personal Website
-* [Airtable](https://www.airtable.com/) - Build Collaborative Apps
-* [WhoPaysWriters](http://whopayswriters.com/) - Freelance Writing Publications
-* [Gerev](https://github.com/GerevAI/gerev) - Search Within Workplace Apps
-* [Pimp My Money](https://pimpmymoney.net/) - Digital Marketing Course Torrents
-* [Statista](https://statista.com/) - Market Statistic Search
-* [Systeme](https://systeme.io/) or [SendPulse](https://sendpulse.com/) - Marketing Tools
-* [Marmof](https://marmof.com/) - Creator / Marketing AI
-* [MMAGlobal](https://www.mmaglobal.com/ ) - View Past Marketing Reports
-* [SplitBee](https://splitbee.io/) - Business Analytics Tool
-* [Annual Reports](https://www.annualreports.com/) - Annual Company Reports
-* [LeanTime](https://leantime.io/) - Project / Delivery Manager
-* [Twain](https://www.twain.ai/), [WriteCream](https://www.writecream.com/) or [Textcortext](https://textcortex.com/) - AI Communication Outreach Assistants
-* [Cody](https://meetcody.ai/) - Company Management AI
-* [PHPCRM](https://www.phpcrm.com/) - Company Management Software
-* [Invoicely](https://invoiceto.me/), [InvoiceNinja](https://invoiceninja.com/) or [Akaunting](https://akaunting.com/) - Invoicing Tools
-* [PatentsExpiringToday](https://patentsexpiringtoday.com/) - Find Expired Patents
-* [Candor](https://candor.co/hiring-freezes/) - Hiring Freezes
-* [GoodJobsFirst](https://goodjobsfirst.org/) - Subsidy Tracker
-* [QR Menu Creator](https://qrmenucreator.com/) - Convert Menu to QR Codes
-
-## ▷ Remote
-
-* 🌐 **[Awesome Remote Jobs](https://github.com/lukasz-madon/awesome-remote-job)** - Remote Job Resources Index
-* ⭐ **[Real Work From Anywhere](https://www.realworkfromanywhere.com/)** - Global "Work-From-Anywhere" Job Board
-* [Overemployed](https://overemployed.com/) - Discuss Working 2+ Remote Jobs / [Subreddit](https://www.reddit.com/r/overemployed) / [Discord](https://discord.com/invite/a8VGhbZyek)
-* [WFH Companies India](https://github.com/abhagsain/WFH-Companies-India) - Work from Home Jobs in India
-* [/r/WorkOnline](https://www.reddit.com/r/WorkOnline/) - Online Working Subreddit
-* [/r/freelance](https://www.reddit.com/r/freelance/) - Freelance Subreddit
-* [MTurk](https://www.mturk.com/) - Online Task Work
-* [Nomad List](https://nomadlist.com/) - Remote Job Listings
-* [RemoteWide](https://remotewide.co/) or [NoCummute](https://nocommute.substack.com/) - Remote Job Notifications
-* [Jobspresso](https://jobspresso.co/) - Remote Jobs
-* [Remote Jobs](https://remotejobs.com/) - Remote Jobs
-* [himalayas](https://himalayas.app/) - Remote Jobs
-* [We Work Remotely](https://weworkremotely.com/) - Remote Jobs
-* [Remote OK](https://remoteok.com/) - Remote Jobs
-* [Dynamite Jobs](https://dynamitejobs.com/) - Remote Jobs
-* [Working Nomads](https://www.workingnomads.com/jobs) - Remote Jobs
-* [Remotive](https://remotive.com/) - Remote Jobs
-* [DailyRemote](https://dailyremote.com/) - Remote Jobs 
-* [HireBasis](https://www.hirebasis.com/) - Remote Jobs
-* [Remote Work Junkie](https://jobs.remoteworkjunkie.com/) - Remote Jobs
-
-## ▷ Tech
-
-* 🌐 **[Awesome Interview](https://github.com/DopplerHQ/awesome-interview-questions)** or [30-sec](https://30secondsofinterviews.org/) - Tech Interview Questions Indexes
-* 🌐 **[Summer 2024 Internships](https://github.com/SimplifyJobs/Summer2024-Internships)** - Tech Internships List
-* 🌐 **[Free-Certifications](https://github.com/cloudcommunity/Free-Certifications)** - Free Certifications / Courses Index
-* 🌐 **[TheRemoteFreelancer](https://github.com/engineerapart/TheRemoteFreelancer)** - Remote Tech Jobs Index
-* ↪️ **[Developer Learning](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/dev-tools#wiki_.25BA_courses_.2F_tutorials)**
-* [10xJobs](https://10xjobs.net/) - Find US High Paying Tech Jobs
-* [Arvrok](https://www.arvrok.com/) - Find Immersive Tech Jobs
-* [japandev](https://japan-dev.com/) - Find Developer Jobs in Japan
-* [key : values](https://www.keyvalues.com/) - Find Companies that Match your Values
-* [Dev Employ](https://devemploy.com/) - Find Developer Jobs
-* [Authentic Jobs](https://authenticjobs.com/) - Find Developer / Designer Jobs
-* [/r/DesignJobs](https://www.reddit.com/r/DesignJobs/) - Designer Jobs Subreddit
-* [Golang Jobs](https://golangjob.xyz/) - Find Golang Jobs
-* [JS Remotely](https://jsremotely.com/) - Find Remote JavaScript Jobs
-* [js chimp](https://jschimp.com/) - Reverse Job Board / JavaScript
-* [larajobs](https://larajobs.com/) - Find Laravel Jobs
-* [Laradir](https://laradir.com/) - Reverse Job Board / Laravel
-* [Python Job Board](https://www.python.org/jobs/) - Find Python Jobs
-* [RailsDevs](https://railsdevs.com/) - Reverse Job Board / Rails
-* [ReallyConfused](https://reallyconfused.co/) - Tech Career Roadmaps
-* [Levels.fyi](https://www.levels.fyi/) - Tech Career Salaries
-* [LeetFree](https://doocs.github.io/leetcode/#/README_EN) / [Github](https://github.com/doocs/leetcode/blob/main/README_EN.md) - Leaked Google / Facebook / Amazon Interview Questions
-* [Interviews.school](https://interviews.school/) or [InterviewThis](https://github.com/Twipped/InterviewThis) - Interview Preparation Guides
-* [yangshun](https://github.com/yangshun/tech-interview-handbook) - Interview Handbook
-* [Interview Warmup](https://grow.google/certificates/interview-warmup/) - Interview Practice
-* [Cyberseek](https://www.cyberseek.org/index.html) - Cybersecurity US Job Market Info
-* [NIST](https://www.nist.gov/nice/apprenticeship-finder) - Find NICE Cybersecurity Apprenticeship Programs
-* [Data.gov Resources](https://resources.data.gov/) - Data Management Tools / Training
-* [AWS re/Start](https://aws.amazon.com/training/restart/) or [AWS Training](https://www.aws.training/) - Cloud Career Training
-* [9Tut](https://www.9tut.com/) - CCNA Certification Training
-* [VCEGuide](https://vceguide.com/) - Tech Certifications Practice Tests
-* [Comptia](https://www.comptia.org/), [Cisco Training](https://www.cisco.com/c/en/us/training-events/training-certifications/certifications.html) or [UI.com](https://www.ui.com/training/) - Training / Certifications
-* [web3.career](https://web3.career/) or [FindWeb3](https://findweb3.com/) - Find Web3 Jobs
-
-## ▷ Startup
-
-* 🌐 **[Awesome Startup](https://github.com/Ibexoft/awesome-startup-tools-list)** or [Tools for Startups](https://docs.google.com/spreadsheets/d/1s6-hGBh0_tqa-jd23fsdYuwbmS8UPmElPqaH-Rnoa_A/htmlview) - Startup Resources Indexes
-* 🌐 **[moreThanFAANGM](https://github.com/Kaustubh-Natuskar/moreThanFAANGM)** - Good Companies / Startups Index
-* [BetaList](https://betalist.com/) or [IdeasAI](https://ideasai.com/) - Get Startup Ideas
-* [Failory](https://www.failory.com/graveyard) - Learn Why Startups Failed
-* [280+ Websites to Submit Your Startup](https://airtable.com/shrwqaak73gy83w9A/tblu5RcUft9fYp9Ju/viwFHmIyMniXzlpK4?blocks=show) or [PlacesToPostYourStartup](https://www.placestopostyourstartup.com/) - Startup Submission Sites
-* [WellFound](https://wellfound.com/) - Find Employees for Startups
-* [namify](https://namify.tech/) - Domain / Business Name Suggestions
-* [namelix](https://namelix.com/) or [looka](https://looka.com/business-name-generator) - Business Name Generators
-* [AcronymCreator](https://acronymcreator.net/) - Business Acronym Generator
-* [Business Card Generator](https://business-card-generator.vercel.app/) - Business Card Generator
-* [BS Generator](https://www.atrixnet.com/bs-generator.html) - Corporate Phrases Generator
-* [Recrooit](https://app.recrooit.com/job-description-generator) - Job Description Generator
-
-## ▷ Finance / Crypto
-
-* [financial_advice](https://github.com/emilepetrone/financial_lessons) - Financial Lessons
-* [/r/BeerMoney](https://www.reddit.com/r/beermoney/) - Online Money Making Community
-* [Anti Money Laundering Toolbox](https://bin.disroot.org/?ed25a979891da67b#BffjWKHJNYTA1JdrWz9jpy5opjzncubeKFc1pBuptxdW) - Prevent Money Laundering / [AML Laws](https://www.bitsaboutmoney.com/archive/money-laundering-and-aml-compliance/)
-* [Compound Interest Calculator](https://www.investor.gov/financial-tools-calculators/calculators/compound-interest-calculator) - Determine Compound Interest Money Growth
-* [GamestonkTerminal](https://github.com/OpenBB-finance/OpenBBTerminal), [OpenBB Terminal](https://openbb.co/) or [KoyFin](https://www.koyfin.com/) - Investment Research Tools
-* [Crypto Ecosystem 2021](https://docs.google.com/document/d/1RM7AoUKbXEqZ2qATTxGYLMexu3Jxrf3oYiwbsrXOXUQ) - Beginner's Guide to Crypto Ecosystem
-* [Cryptopedia](https://www.gemini.com/cryptopedia) or [Crypto Canon](https://a16zcrypto.com/posts/article/crypto-readings-resources/) - Crypto Learning Resources
-* [IQ.Wiki](https://iq.wiki/) - Crypto Encyclopedia
-* [protocol-reading-list](https://github.com/b-chiang/protocol-reading-list) - Crypto Protocols
-* [Traders Video Library](https://t.me/TradersVideo_Library) - Crypto Trading Courses
-* [BTCPay](https://btcpayserver.org/) - FOSS Bitcoin Payment Processor
-* [Wasabi](https://wasabiwallet.io/) or [Shapeshift](https://app.shapeshift.com/) - FOSS Bitcoin Wallets
-* [WalletExplorer](https://www.walletexplorer.com/) or [OXT](https://oxt.me/) - Bitcoin Block Explorers
-* [KYCNOT.ME](https://kycnot.me/) - Non-KYC Exchanges / Services
-* [Quiver Quantitative](https://www.quiverquant.com/) - Stock Trading Research
-* [neostox](https://neostox.com/) - Practice Stock Trading
-* [TradingView](https://www.tradingview.com/), [FinScreener](https://www.finscreener.com/), [Candle](https://gitlab.com/cosmosapps/candle), [finviz](https://finviz.com/), [Markets.sh](https://markets.sh/) or [Screener](https://www.screener.in/) - Stock Market Trackers
-* [BlockChain](https://www.blockchain.com/explorer), [BlockChair](https://blockchair.com/) or [LiveCoinWatch](https://www.livecoinwatch.com/) - Live Cryptocurrency Prices
-* [TradingView Webhook Bot](https://github.com/fabston/TradingView-Webhook-Bot) / [Index](https://github.com/pAulseperformance/awesome-pinescript) - Send TradingView Alerts to Various Apps
-* [ETFDB](https://etfdb.com/) - ETF Research / Analysis Platform
-* [DeFi Derivative Landscape](https://github.com/0xperp/defi-derivatives) - DeFi Derivative Guide 
-* [MortgageCalculator](https://www.mortgagecalculator.site/) - Mortgage Calculator
 
 ***
 
@@ -722,15 +572,173 @@
 
 ***
 
+# ► Career
+
+* 🌐 **[Common Q&As](https://www.indeed.com/career-advice/interviewing/top-interview-questions-and-answers)** - Interview Questions Index
+* ↪️ **[Resume Creators](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_resume_makers)**
+* ↪️ **[Collaboration Platforms](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_collaboration_platforms)**
+* ⭐ **[5000 Best Job Sites](http://5000best.com/websites/Jobs/)**, [4DayWeek](https://4dayweek.io/) or [Indeed](https://www.indeed.com/) - Job Search Sites
+* ⭐ **[Comparably](https://www.comparably.com/)** or [GoodFirms](https://www.goodfirms.co/) - Compare Companies / Salaries
+* ⭐ **[Resume Guide](https://hwpi.harvard.edu/files/ocs/files/hes-resume-cover-letter-guide.pdf)**, [Undergrad](https://hwpi.harvard.edu/files/ocs/files/undergrad_resumes_and_cover_letters.pdf), [CareerCup](https://www.careercup.com/resume) or [Masters](https://hwpi.harvard.edu/files/ocs/files/masters_resume_cover_letters.pdf) - Resume / Cover Letter Guides
+* ⭐ **[KickResume](https://www.kickresume.com/en/help-center/resume-samples/)** or [ThisResumeDoesNotExist](https://thisresumedoesnotexist.com/) - Resume Samples
+* ⭐ **[Reverse Interview](https://github.com/viraptor/reverse-interview)** or [job-interview-questions](https://github.com/lkostrowski/job-interview-questions-to-ask-companies) - Questions to Ask Potential Employers
+* ⭐ **[Kimai](https://www.kimai.org/)** - Working Hours Tracker
+* [JobBoardSearch](https://jobboardsearch.com/), [CyberCoders](https://www.cybercoders.com/), [whoishiring](https://whoishiring.io/), [Toby Tools](https://rentry.co/qnu6x), [The Muse](https://www.themuse.com/search/) or [EuroJobs](https://eurojobs.com/) - Job Search
+* [50WaysToGetAJob](https://50waystogetajob.com/) - Interactive Job Search Guide
+* [80,000 Hours](https://80000hours.org/) - Explore Career Options
+* [/r/careerguidance](https://www.reddit.com/r/careerguidance/) - Career Guidance Subreddit
+* [Science Career General](https://sciencecareergeneral.neocities.org/) - PhD / STEM Career Study Guides
+* [JustLanded](https://www.justlanded.com/) - Working & Living Abroad Guides
+* [4 day week](https://4dayweek.io/) - Find Jobs with 4 Day Weeks
+* [Space Crew](https://spacecrew.com/) - Find Space Related Jobs
+* [EconJobRumors](https://www.econjobrumors.com/) - Economic Job Market Forum
+* [SocJobRumors](https://www.socjobrumors.com/) - Sociology Job Market Forum
+* [Side Hustle Stack](https://sidehustlestack.co/) - Find Platform Based Side Work
+* [The Dots](https://the-dots.com/events/search) - Online Workshops / Courses / Meetups
+* [MedusaJS](https://medusajs.com/) - Open Source Commerce Store
+* [Contact Card](https://contact-card.vercel.app/) - Contact Card Generator
+* [MS Word Cover Page Templates](https://www.mswordcoverpages.com/) - Cover Page Templates
+* [PortfolioVisualizer](https://www.portfoliovisualizer.com/) - Visualize Portfolio
+* [CoFolios](https://cofolios.com/) - Portfolio Sharing
+* [PolyWork](https://www.polywork.com/) - Turn LinkedIn Profile to Personal Website
+* [Airtable](https://www.airtable.com/) - Build Collaborative Apps
+* [WhoPaysWriters](http://whopayswriters.com/) - Freelance Writing Publications
+* [Gerev](https://github.com/GerevAI/gerev) - Search Within Workplace Apps
+* [Pimp My Money](https://pimpmymoney.net/) - Digital Marketing Course Torrents
+* [Statista](https://statista.com/) - Market Statistic Search
+* [Systeme](https://systeme.io/) or [SendPulse](https://sendpulse.com/) - Marketing Tools
+* [Marmof](https://marmof.com/) - Creator / Marketing AI
+* [MMAGlobal](https://www.mmaglobal.com/ ) - View Past Marketing Reports
+* [SplitBee](https://splitbee.io/) - Business Analytics Tool
+* [Annual Reports](https://www.annualreports.com/) - Annual Company Reports
+* [LeanTime](https://leantime.io/) - Project / Delivery Manager
+* [Twain](https://www.twain.ai/), [WriteCream](https://www.writecream.com/) or [Textcortext](https://textcortex.com/) - AI Communication Outreach Assistants
+* [Cody](https://meetcody.ai/) - Company Management AI
+* [PHPCRM](https://www.phpcrm.com/) - Company Management Software
+* [Invoicely](https://invoiceto.me/), [InvoiceNinja](https://invoiceninja.com/) or [Akaunting](https://akaunting.com/) - Invoicing Tools
+* [PatentsExpiringToday](https://patentsexpiringtoday.com/) - Find Expired Patents
+* [Candor](https://candor.co/hiring-freezes/) - Hiring Freezes
+* [GoodJobsFirst](https://goodjobsfirst.org/) - Subsidy Tracker
+* [QR Menu Creator](https://qrmenucreator.com/) - Convert Menu to QR Codes
+
+***
+
+## ▷ Remote Jobs
+
+* 🌐 **[Awesome Remote Jobs](https://github.com/lukasz-madon/awesome-remote-job)** - Remote Job Resources Index
+* ⭐ **[Real Work From Anywhere](https://www.realworkfromanywhere.com/)** - Global "Work-From-Anywhere" Job Board
+* [Overemployed](https://overemployed.com/) - Discuss Working 2+ Remote Jobs / [Subreddit](https://www.reddit.com/r/overemployed) / [Discord](https://discord.com/invite/a8VGhbZyek)
+* [WFH Companies India](https://github.com/abhagsain/WFH-Companies-India) - Work from Home Jobs in India
+* [/r/WorkOnline](https://www.reddit.com/r/WorkOnline/) - Online Working Subreddit
+* [/r/freelance](https://www.reddit.com/r/freelance/) - Freelance Subreddit
+* [MTurk](https://www.mturk.com/) - Online Task Work
+* [Nomad List](https://nomadlist.com/) - Remote Job Listings
+* [RemoteWide](https://remotewide.co/) or [NoCummute](https://nocommute.substack.com/) - Remote Job Notifications
+* [Jobspresso](https://jobspresso.co/) - Remote Jobs
+* [Remote Jobs](https://remotejobs.com/) - Remote Jobs
+* [himalayas](https://himalayas.app/) - Remote Jobs
+* [We Work Remotely](https://weworkremotely.com/) - Remote Jobs
+* [Remote OK](https://remoteok.com/) - Remote Jobs
+* [Dynamite Jobs](https://dynamitejobs.com/) - Remote Jobs
+* [Working Nomads](https://www.workingnomads.com/jobs) - Remote Jobs
+* [Remotive](https://remotive.com/) - Remote Jobs
+* [DailyRemote](https://dailyremote.com/) - Remote Jobs 
+* [HireBasis](https://www.hirebasis.com/) - Remote Jobs
+* [Remote Work Junkie](https://jobs.remoteworkjunkie.com/) - Remote Jobs
+
+***
+
+## ▷ Tech Jobs
+
+* 🌐 **[Awesome Interview](https://github.com/DopplerHQ/awesome-interview-questions)** or [30-sec](https://30secondsofinterviews.org/) - Tech Interview Questions Indexes
+* 🌐 **[Summer 2024 Internships](https://github.com/SimplifyJobs/Summer2024-Internships)** - Tech Internships List
+* 🌐 **[Free-Certifications](https://github.com/cloudcommunity/Free-Certifications)** - Free Certifications / Courses Index
+* 🌐 **[TheRemoteFreelancer](https://github.com/engineerapart/TheRemoteFreelancer)** - Remote Tech Jobs Index
+* ↪️ **[Developer Learning](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/dev-tools#wiki_.25BA_courses_.2F_tutorials)**
+* [10xJobs](https://10xjobs.net/) - Find US High Paying Tech Jobs
+* [Arvrok](https://www.arvrok.com/) - Find Immersive Tech Jobs
+* [japandev](https://japan-dev.com/) - Find Developer Jobs in Japan
+* [key : values](https://www.keyvalues.com/) - Find Companies that Match your Values
+* [Dev Employ](https://devemploy.com/) - Find Developer Jobs
+* [Authentic Jobs](https://authenticjobs.com/) - Find Developer / Designer Jobs
+* [/r/DesignJobs](https://www.reddit.com/r/DesignJobs/) - Designer Jobs Subreddit
+* [Golang Jobs](https://golangjob.xyz/) - Find Golang Jobs
+* [JS Remotely](https://jsremotely.com/) - Find Remote JavaScript Jobs
+* [js chimp](https://jschimp.com/) - Reverse Job Board / JavaScript
+* [larajobs](https://larajobs.com/) - Find Laravel Jobs
+* [Laradir](https://laradir.com/) - Reverse Job Board / Laravel
+* [Python Job Board](https://www.python.org/jobs/) - Find Python Jobs
+* [RailsDevs](https://railsdevs.com/) - Reverse Job Board / Rails
+* [ReallyConfused](https://reallyconfused.co/) - Tech Career Roadmaps
+* [Levels.fyi](https://www.levels.fyi/) - Tech Career Salaries
+* [LeetFree](https://doocs.github.io/leetcode/#/README_EN) / [Github](https://github.com/doocs/leetcode/blob/main/README_EN.md) - Leaked Google / Facebook / Amazon Interview Questions
+* [Interviews.school](https://interviews.school/) or [InterviewThis](https://github.com/Twipped/InterviewThis) - Interview Preparation Guides
+* [yangshun](https://github.com/yangshun/tech-interview-handbook) - Interview Handbook
+* [Interview Warmup](https://grow.google/certificates/interview-warmup/) - Interview Practice
+* [Cyberseek](https://www.cyberseek.org/index.html) - Cybersecurity US Job Market Info
+* [NIST](https://www.nist.gov/nice/apprenticeship-finder) - Find NICE Cybersecurity Apprenticeship Programs
+* [Data.gov Resources](https://resources.data.gov/) - Data Management Tools / Training
+* [AWS re/Start](https://aws.amazon.com/training/restart/) or [AWS Training](https://www.aws.training/) - Cloud Career Training
+* [9Tut](https://www.9tut.com/) - CCNA Certification Training
+* [VCEGuide](https://vceguide.com/) - Tech Certifications Practice Tests
+* [Comptia](https://www.comptia.org/), [Cisco Training](https://www.cisco.com/c/en/us/training-events/training-certifications/certifications.html) or [UI.com](https://www.ui.com/training/) - Training / Certifications
+* [web3.career](https://web3.career/) or [FindWeb3](https://findweb3.com/) - Find Web3 Jobs
+
+***
+
+## ▷ Startup
+
+* 🌐 **[Awesome Startup](https://github.com/Ibexoft/awesome-startup-tools-list)** or [Tools for Startups](https://docs.google.com/spreadsheets/d/1s6-hGBh0_tqa-jd23fsdYuwbmS8UPmElPqaH-Rnoa_A/htmlview) - Startup Resources Indexes
+* 🌐 **[moreThanFAANGM](https://github.com/Kaustubh-Natuskar/moreThanFAANGM)** - Good Companies / Startups Index
+* [BetaList](https://betalist.com/) or [IdeasAI](https://ideasai.com/) - Get Startup Ideas
+* [Failory](https://www.failory.com/graveyard) - Learn Why Startups Failed
+* [280+ Websites to Submit Your Startup](https://airtable.com/shrwqaak73gy83w9A/tblu5RcUft9fYp9Ju/viwFHmIyMniXzlpK4?blocks=show) or [PlacesToPostYourStartup](https://www.placestopostyourstartup.com/) - Startup Submission Sites
+* [WellFound](https://wellfound.com/) - Find Employees for Startups
+* [namify](https://namify.tech/) - Domain / Business Name Suggestions
+* [namelix](https://namelix.com/) or [looka](https://looka.com/business-name-generator) - Business Name Generators
+* [AcronymCreator](https://acronymcreator.net/) - Business Acronym Generator
+* [Business Card Generator](https://business-card-generator.vercel.app/) - Business Card Generator
+* [BS Generator](https://www.atrixnet.com/bs-generator.html) - Corporate Phrases Generator
+* [Recrooit](https://app.recrooit.com/job-description-generator) - Job Description Generator
+
+***
+
+## ▷ Finance / Crypto
+
+* [HomeBank](https://www.gethomebank.org/en/index.php), [Firefly III](https://firefly-iii.org/), [Money Manager EX](https://moneymanagerex.org/), [Paisa](https://github.com/RetroMusicPlayer/Paisa) or [Actual](https://github.com/actualbudget/actual) - Finance Managers
+* [Ivy Wallet](https://github.com/Ivy-Apps/ivy-wallet), [Buckwheat](https://buckwheat.app/), [My Expenses](https://www.myexpenses.mobi/), [Cashew](https://play.google.com/store/apps/details?id=com.budget.tracker_app) or [Sushi](https://github.com/jerameel/sushi) - Android Finance Managers
+* [Ledger](https://ledger-cli.org/) - CLI Accounting System
+* [financial_advice](https://github.com/emilepetrone/financial_lessons) - Financial Lessons
+* [/r/BeerMoney](https://www.reddit.com/r/beermoney/) - Online Money Making Community
+* [Anti Money Laundering Toolbox](https://bin.disroot.org/?ed25a979891da67b#BffjWKHJNYTA1JdrWz9jpy5opjzncubeKFc1pBuptxdW) - Prevent Money Laundering / [AML Laws](https://www.bitsaboutmoney.com/archive/money-laundering-and-aml-compliance/)
+* [Compound Interest Calculator](https://www.investor.gov/financial-tools-calculators/calculators/compound-interest-calculator) - Determine Compound Interest Money Growth
+* [GamestonkTerminal](https://github.com/OpenBB-finance/OpenBBTerminal), [OpenBB Terminal](https://openbb.co/) or [KoyFin](https://www.koyfin.com/) - Investment Research Tools
+* [Crypto Ecosystem 2021](https://docs.google.com/document/d/1RM7AoUKbXEqZ2qATTxGYLMexu3Jxrf3oYiwbsrXOXUQ) - Beginner's Guide to Crypto Ecosystem
+* [Cryptopedia](https://www.gemini.com/cryptopedia) or [Crypto Canon](https://a16zcrypto.com/posts/article/crypto-readings-resources/) - Crypto Learning Resources
+* [IQ.Wiki](https://iq.wiki/) - Crypto Encyclopedia
+* [protocol-reading-list](https://github.com/b-chiang/protocol-reading-list) - Crypto Protocols
+* [Traders Video Library](https://t.me/TradersVideo_Library) - Crypto Trading Courses
+* [BTCPay](https://btcpayserver.org/) - FOSS Bitcoin Payment Processor
+* [Wasabi](https://wasabiwallet.io/) or [Shapeshift](https://app.shapeshift.com/) - FOSS Bitcoin Wallets
+* [WalletExplorer](https://www.walletexplorer.com/) or [OXT](https://oxt.me/) - Bitcoin Block Explorers
+* [KYCNOT.ME](https://kycnot.me/) - Non-KYC Exchanges / Services
+* [Quiver Quantitative](https://www.quiverquant.com/) - Stock Trading Research
+* [neostox](https://neostox.com/) - Practice Stock Trading
+* [TradingView](https://www.tradingview.com/), [FinScreener](https://www.finscreener.com/), [Candle](https://gitlab.com/cosmosapps/candle), [finviz](https://finviz.com/), [Markets.sh](https://markets.sh/) or [Screener](https://www.screener.in/) - Stock Market Trackers
+* [BlockChain](https://www.blockchain.com/explorer), [BlockChair](https://blockchair.com/) or [LiveCoinWatch](https://www.livecoinwatch.com/) - Live Cryptocurrency Prices
+* [TradingView Webhook Bot](https://github.com/fabston/TradingView-Webhook-Bot) / [Index](https://github.com/pAulseperformance/awesome-pinescript) - Send TradingView Alerts to Various Apps
+* [ETFDB](https://etfdb.com/) - ETF Research / Analysis Platform
+* [DeFi Derivative Landscape](https://github.com/0xperp/defi-derivatives) - DeFi Derivative Guide 
+* [MortgageCalculator](https://www.mortgagecalculator.site/) - Mortgage Calculator
+
+***
+
 # ► Shopping
 
 * ⭐ **[Reddit Favorites](https://redditfavorites.com/)**, [Kit.co](https://kit.co/), [Looria](https://www.looria.com/), [ProductHunt](https://producthunt.com/) or [Consumer Reports](https://consumerreports.org/) - Product / Service Reviews
 * ⭐ **[ThisIsWhyImBroke](https://www.thisiswhyimbroke.com/)** or **[Didn't Know I Wanted That](https://www.didntknowiwantedthat.com/)** - Find Interesting Things to Buy
 * ⭐ **[DarkPatternsTipline](https://darkpatternstipline.org/)** - Deceptive Service Design Tipline
 * [GreenStash](https://github.com/Pool-Of-Tears/GreenStash) - Savings Tracking App
-* [HomeBank](https://www.gethomebank.org/en/index.php), [Firefly III](https://firefly-iii.org/), [Money Manager EX](https://moneymanagerex.org/), [Paisa](https://github.com/RetroMusicPlayer/Paisa) or [Actual](https://github.com/actualbudget/actual) - Finance Managers
-* [Ivy Wallet](https://github.com/Ivy-Apps/ivy-wallet), [Buckwheat](https://buckwheat.app/), [My Expenses](https://www.myexpenses.mobi/), [Cashew](https://play.google.com/store/apps/details?id=com.budget.tracker_app) or [Sushi](https://github.com/jerameel/sushi) - Android Finance Managers
-* [Ledger](https://ledger-cli.org/) - CLI Accounting System
 * [Pepper](https://www.pepper.com/) - Shopping Community
 * [Randomicle](https://randomicle.com/) - Random Amazon Products
 * [Amazon International Links](https://greasyfork.org/en/scripts/38639-amazon-international-links) - International Amazon Products
