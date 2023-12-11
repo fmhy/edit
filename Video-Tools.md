@@ -94,7 +94,7 @@
 * [VideoConverter](https://videoconverter.com/)
 * [Boram](https://github.com/Kagami/boram/)
 * [selur](https://www.selur.de/)
-* [vvenc](https://github.com/fraunhoferhhi/vvenc), [vvdec](https://github.com/fraunhoferhhi/vvdec), [VVCEasy](https://github.com/MartinEesmaa/VVCEasy), [wrenc](https://github.com/hjmkt/wrenc), [VVC-GUI](https://github.com/Disa-Kizonda/VVC-GUI-Encoder) or [VVC-Tools](https://github.com/YUKI2eN3e/VVC-Tools) - VVC Encode / Decode
+* [vvenc](https://github.com/fraunhoferhhi/vvenc), [vvdec](https://github.com/fraunhoferhhi/vvdec), [VVCEasy](https://github.com/MartinEesmaa/VVCEasy), [VVC-GUI](https://github.com/Disa-Kizonda/VVC-GUI-Encoder) or [VVC-Tools](https://github.com/YUKI2eN3e/VVC-Tools) - VVC Encode / Decode
 
 ***
 
@@ -133,7 +133,7 @@
 * ⭐ **[MPC-HC](https://github.com/clsid2/mpc-hc/)** or [MPC-BE](https://sourceforge.net/projects/mpcbe/) - Video Player
 * ⭐ **[MPV](https://mpv.io/)** / [2](https://mpv-net.github.io/mpv.net-web-site/), [MPV-GUI](https://github.com/mpvnet-player/mpv-gui), [MPV-EASY-Player](https://github.com/422658476/MPV-EASY-Player) or [mpv.snad](https://github.com/thisisshihan/mpv.snad) - Video Player
 * ⭐ **[VLC](https://www.videolan.org/)** - Video Player
-* [Video Player Codecs](https://www.codecguide.com/download_kl.htm)
+* [Video Player Codecs](https://www.codecguide.com/)
 * [AVPlayer](http://www.awesomevideoplayer.com/) or [GridPlayer](https://github.com/vzhd1701/gridplayer) - Multi-Video Players
 * [SPlayer](https://www.splayer.org/) - Video Player w/ Smart Translation
 * [Pot Player](https://potplayer.daum.net/) - Video Player
