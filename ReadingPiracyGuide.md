@@ -44,7 +44,7 @@
 * [Audiobooks Poetry](https://archive.org/details/audio_bookspoetry) - Audiobooks / Poetry
 * [Audiobooks Unleashed](https://audiobooksunleashed.com/) - Audiobook Codes
 * [/r/audiobooksonyoutube](https://reddit.com/r/audiobooksonyoutube)
-* [audiobook-dl](https://github.com/jo1gi/audiobook-dl) or [Audiobook Downloader](https://github.com/ipriyam26/Audiobook) - Audiobook Download Tool
+* [audiobook-dl](https://github.com/jo1gi/audiobook-dl) - Audiobook Download Tool
 * [OverDrive](https://github.com/chbrown/overdrive) - OverDrive Audiobook Download Script
 * [AudiobookShelf](https://www.audiobookshelf.org/) or [BookSonic](https://booksonic.org/) - Self-Hosted Audiobook Servers
 
@@ -683,7 +683,7 @@
 * [Omnibus](https://github.com/fireshaper/Omnibus), [Comics Downloader](https://github.com/Girbons/comics-downloader), [mylar3](https://github.com/mylar3/mylar3), [Comics-DL](https://github.com/The-Eye-Team/Comics-DL), [Comic-DL](https://github.com/Xonshiz/comic-dl) or [comicMaker](https://github.com/gunjannandy/comicMaker) - Comic Downloaders
 * [Tapastic Comic Downloader](https://github.com/TilCreator/Tapas-Comic-Downloader) - Tapas Comics Downloader
 * [Cover](https://frenchfrysoftware.com/cover//), [Komikku](https://gitlab.com/valos/Komikku), [MComix](https://sourceforge.net/projects/mcomix/), [CBR Reader](https://www.cdisplayex.com/), [comic-book-reader](https://github.com/binarynonsense/comic-book-reader), [OpenComic](https://github.com/ollm/OpenComic) or [YACReader](https://yacreader.com/) - Readers / Managers
-* [Free Dark Horse Digital Comics](https://digital.darkhorse.com/pages/free) / [Downloader](https://github.com/GrowAsguard/Dark-Horse-Comics-Converter)
+* [Free Dark Horse Digital Comics](https://digital.darkhorse.com/pages/free)
 * [ComicFury](https://comicfury.com/) - User-Made Comics
 * [Webcomic Reader](https://openuserjs.org/scripts/anka-213/Webcomic_Reader) - Web Comic Reader
 * [Webcomix](https://github.com/J-CPelletier/webcomix) - Webcomics Downloader
@@ -990,6 +990,10 @@
 * [Shepherd](https://shepherd.com/) - Book Recommendations
 * [Literature-Map](https://www.literature-map.com/) - Book Recommendations
 * [Break the Bubble!](https://abooklike.foo/escape) - Book Recommendations
+* [Most Recommended Books](https://www.mostrecommendedbooks.com/) - Book Recommendations
+* [Read This Twice](https://readthistwice.com/) - Book Recommendations
+* [The Greatest Books](https://www.thegreatestbooks.org/) - Book Recommendations
+* [Hacker Recommended Books](https://hacker-recommended-books.vercel.app/) - Book Recommendations
 * [PagePundit](https://pagepundit.com/) - Book Recommendations
 * [Mind Expanding Books](https://github.com/hackerkid/Mind-Expanding-Books) - Book Recommendations
 * [myAIbrary](https://myaibrary.com/) - Book Recommendations
