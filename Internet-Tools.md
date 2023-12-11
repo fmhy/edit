@@ -317,9 +317,11 @@
 * [Cirlos](https://www.cirlos.net/), [Miranda NG](https://www.miranda-ng.org/en/), [Escargot](https://escargot.chat/) or [WeeChat](https://weechat.org/) - Chat Apps
 * [Pidgin](https://www.pidgin.im/), [Beeper](https://www.beeper.com/), [matterbride](https://github.com/42wim/matterbridge) or [Ferdium](https://ferdium.org/) - Combine Web Apps / Chats
 * [Twist](https://twist.com/) - Collaboration Chat Manager
+* [New Blood](https://anonops.com/newblood/) - IRC Guide
 * [KiwiIRC](https://kiwiirc.com/) or [TheLounge](https://thelounge.chat/) - WebIRC Client
 * [AdiIRC](https://adiirc.com/), [Convos](https://convos.chat/), [mIRC](https://www.mirc.com/get.html) or [Bitchx](https://bitchx.sourceforge.net/) - IRC Clients
-* [irc2go](https://en.irc2go.com/) - Browse IRC Chat Rooms
+* [irc2go](https://en.irc2go.com/) - Browse IRC Chat Rooms / [Top 1000](https://netsplit.de/networks/top100.php)
+* [libera](https://libera.chat/), [tilde](https://tilde.chat/), [anonops](https://anonops.com/) or [rizon](https://rizon.net/) - IRC Networks
 * [Cabal](https://cabal.chat/) - P2P Chat / [GitHub](https://github.com/cabal-club)
 * [BlueBubbles](https://bluebubbles.app/) - iMessage Client
 * [Atlus](https://github.com/amanharwara/altus) or [WAO](https://dedg3.com/wao/) - Whatsapp Clients
@@ -438,7 +440,7 @@
 * [Firefox Onebar](https://codeberg.org/Freeplay/Firefox-Onebar) - Single Bar UI
 * [Firefox Access](https://www.accessfirefox.org/) - Firefox Accessibility Tools for the Visually Impaired
 * [FirefoxCSS Store](https://firefoxcss-store.github.io/) - Firefox Themes List
-* [/r/FirefoxCSS](https://reddit.com/r/FirefoxCSS) - Firefox CSS Guides
+* [/r/FirefoxCSS](https://reddit.com/r/FirefoxCSS) or [Firefox CSS Hacks](https://github.com/MrOtherGuy/firefox-csshacks) - Firefox CSS Resources
 * [ThemeBeta](https://www.themebeta.com/) - Change Chrome Theme
 * [BrowserParrot](https://www.browserparrot.com/) - Browser History Search Engine
 * [Hurl](https://github.com/U-C-S/Hurl) - Select Browser on URL Clicks
@@ -507,7 +509,7 @@
 * [Audio Recorder](https://mybrowseraddon.com/audio-recorder.html) - Audio Recorder
 * [Mute Tab](https://mybrowseraddon.com/mute-tab.html) - Easily Mute All Tabs
 * [Web-Scrobbler](https://web-scrobbler.com/) - Scrobble with Last.fm, Libre.fm, etc.
-* [Form History Control](https://stephanmahieu.github.io/fhc-home/) or [Simple Form Fill](https://github.com/sblask/webextension-simple-form-fill) - Formfiller Managers
+* [Form History Control](https://stephanmahieu.github.io/fhc-home/) - Formfill Manager
 * [Fake Data](https://www.fakedata.pro/) - Fill Forms With Fake Data
 * [External App Button](https://add0n.com/external-application-button.html) - Connect Browser to External Apps
 * [xBrowserSync](https://www.xbrowsersync.org/) - Browser Syncing
@@ -596,7 +598,7 @@
 * [Keep or Delete Bookmarks](https://www.soeren-hentzschel.at/firefox-webextensions/keep-or-delete-bookmarks/) - Keep Bookmark Folder Clean 
 * [Default Bookmark Folder](https://github.com/teddy-gustiaux/default-bookmark-folder) - Change Default Bookmark Folder
 * [Multi Tabs](https://addons.mozilla.org/en-US/firefox/addon/search-multi-tabs/) - Multi Tab Word Search Search 
-* [PopUp Encyclopedia](https://github.com/pncnmnp/PopUp-Encyclopedia) or [Multilingual-fox](https://github.com/parksb/multilingual-fox) - Popup Encyclopedias / Dictionaries
+* [PopUp Encyclopedia](https://github.com/pncnmnp/PopUp-Encyclopedia - Popup Encyclopedia / Dictionary 
 * [Search Site WE](https://addons.mozilla.org/en-US/firefox/addon/search-site-we/) - Search Current Domain 
 * [Firefox Color](https://color.firefox.com/) or [SwiftTheme](https://addons.mozilla.org/en-US/firefox/addon/swifttheme/) - Custom Firefox Theme Creation
 * [OnelineProton](https://github.com/newmanls/OnelineProton) - Proton Theme for Firefox
@@ -811,7 +813,6 @@
 * [rAger](https://chrome.google.com/webstore/detail/rager/fohlpjahcdbkpcckapphhpahbiajccmj) - Display Account Age & Karma of Users
 * [Reddit Emojis](https://greasyfork.org/en/scripts/443011) - Emojis for Old Reddit
 * [Reddit Preview](https://redditpreview.com/) - Preview Reddit Posts
-* [custom-top-sort-for-reddit](https://github.com/arvidsandin/custom-top-sort-for-reddit) - Scroll to Top of Reddit
 * Direct Image Viewers - [Firefox](https://github.com/nopperl/load-reddit-images-directly) / [Chrome](https://github.com/MonsterMannen/reddit-load-images-directly-chrome)
 * [Redinfinite](https://redinfinite.com/), [redditpx](https://www.redditpx.com/) or [Redditp](https://redditp.com/) - Reddit Image / Video Slideshows
 * [Up for Reddit](https://www.reddit-up.com/) - View Images Posted by User
@@ -874,9 +875,8 @@
 * [Wumpus Central](https://discord.gg/wumpus-central-1087801778365546556) - Discord Experimental Server Hub
 * [NotQuiteNitro](https://nqn.blue/) - Discord Nitro Alternative
 * [DiscordFreeEmojis](https://github.com/An00nymushun/DiscordFreeEmojis) or [ImageClipboard](https://imageclipboard.com/) - Free Discord Nitro Emojis
-* [Slackmoji](https://github.com/seanprashad/slackmoji), [DiscordFreeEmojis](https://github.com/An00nymushun/DiscordFreeEmojis), [emoji.gg](https://emoji.gg/) - Discord Emojis
+* [Slackmoji](https://github.com/seanprashad/slackmoji), [DiscordFreeEmojis](https://github.com/An00nymushun/DiscordFreeEmojis) or [emoji.gg](https://emoji.gg/) - Discord Emojis
 * [Emote Manager](https://github.com/joyn-gg/EmoteManager) - Custom Discord Emoji Manager 
-* [Discord Emoji Downloader](https://thatiemsz.github.io/Discord-Emoji-Downloader/) - Discord Emoji Downloaders
 * [Snowsgiving Icons & Emotes](https://web.archive.org/web/20230729100139/https://cdn.discordapp.com/attachments/689605845058715801/862281806820278292/Snow.zip) - Snowsgiving Event Icons & Emojis
 * [6gk Turtles](https://github.com/6gk/turtles) - Discord Turtle Emojis
 * [DiscordFreeStickers](https://github.com/An00nymushun/DiscordFreeStickers) or [Stickers.gg](https://stickers.gg) - Free Discord Stickers
@@ -898,7 +898,7 @@
 * [Discord Music Bot](https://github.com/SudhanPlayz/Discord-MusicBot), [discord-music-bot](https://github.com/Androz2091/discord-music-bot), [Music-bot](https://github.com/ZerioDev/Music-bot), [Chipbot](https://chipbot.gg/), [MusicBot](https://github.com/jagrosh/MusicBot), [evobot](https://github.com/eritislami/evobot) or [EarTensifier](https://eartensifier.net/) - Music Bots
 * [Discord-Music-System](https://github.com/RemyK888/discord-music-system) - Discord Music Module
 * [FreeStuff Bot](https://freestuffbot.xyz/), [game-deals-discord-bot](https://github.com/lipowskm/game-deals-discord-bot) or [AutomatiK](https://github.com/Axyss/AutomatiK) / [Discord](https://discord.gg/psDtnwX) - Free Games Alert Bot
-* [DiscordChroma](https://github.com/DELUUXE/DiscordChroma) or [ChromaDiscordApp](https://github.com/tgraupmann/ChromaDiscordApp) - Discord System Lighting Control
+* [ChromaDiscordApp](https://github.com/tgraupmann/ChromaDiscordApp) - Discord System Lighting Control
 * [Permissions Calculator](https://discordapi.com/permissions.html) - Generate Discord OAuth Invites
 * [Red Discordbot](https://github.com/Cog-Creators/Red-DiscordBot), [Discord-Bot](https://github.com/CorwinDev/Discord-Bot) or [Loritta](https://github.com/LorittaBot/Loritta) - Discord Moderation Bots
 * [Wickbot](https://wickbot.com/) - Discord Security Bot
@@ -1062,7 +1062,6 @@
 * [Comment Viewer](https://commentviewer.com/), [Hadzy](https://hadzy.com/), [YCS](https://chrome.google.com/webstore/detail/ycs-youtube-comment-searc/pmfhcilikeembgbiadjiojgfgcfbcoaa?hl=en) or [YCF](https://ytcomment.kmcat.uk/) - YouTube Comment Search
 * [Filmot](https://filmot.com/), [ytks](https://ytks.app/) or [Video Search for Youtube](https://github.com/masasron/Video-Search-For-YouTube/) - Search within YouTube Transcripts
 * [Upvote Anywhere](https://github.com/z0ccc/comet) or [Karamel](https://github.com/odensc/karamel) - Replace YouTube Comments with Reddit Comments
-* [Show YT Comments](https://github.com/tanguykurylo/show-youtube-comments) - Read Comments While Watching
 * [Kament](https://kament.io/) - Add Comments Sections on Comment Disabled Videos
 * [Timestamped YouTube Comments](https://chrome.google.com/webstore/detail/timestamped-youtube-comme/gnpppldhfbbagiaalkddddajadhlgofm) - View Timestamped Comments
 * [TabView YouTube](https://greasyfork.org/en/scripts/428651) - View Comments / Info in Tab View
