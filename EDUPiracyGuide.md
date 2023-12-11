@@ -751,6 +751,7 @@
 * 🌐 **[Many Things](http://www.manythings.org/)** - ESL Resources
 * 🌐 **[ESOL](https://www.esolcourses.com/)** - English Learning Resources
 * [The Internet TESL Journal](http://iteslj.org/) - Resources for EFL and ESL Teachers
+* [EFSET](https://www.efset.org/) - English Proficiency Test
 * [Learn English Online](https://www.learn-english-online.org/), [ESLFast](https://www.eslfast.com/), [AntiMoon](https://www.antimoon.com/), [Oxford Online](https://www.oxfordonlineenglish.com/free-english-lessons) or [Cambridge Online](https://www.cambridgeenglish.org/learning-english/) - English Lessons
 * [EnglishCentral](https://www.englishcentral.com/) or [Voscreen](https://voscreen.com/) - English Video Lessons
 * [elllo](https://www.elllo.org/) or [Listening Lab](https://www.esl-lab.com/) - English Listening Lessons / Practice
