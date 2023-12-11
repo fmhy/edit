@@ -105,7 +105,6 @@
 * [ProPorn](https://www.proporn.cc/)
 * [XBabe](https://xbabe.com/)
 * [hotntubes](https://hotntubes.com/)
-* [Palimas.org](https://palimas.org/) / [Discord](https://discord.com/invite/DgDSXmEUhN)
 * [Fuq](https://www.fuq.com/)
 * [TubeWolf](https://www.tubewolf.com/)
 * [HQporn.xxx](https://hqporn.xxx/)
@@ -388,7 +387,6 @@
 * [Best-MovieZ](https://www.best-moviez.ws/category/porn-18/) 
 * [XXXCollections](https://xxxcollections.net/)
 * [TopModelz](https://top-modelz.org/)
-* [Kimochi](https://kimochi.tv/)
 * [SweetPorn](https://sweetporn.org/)
 * [RemaxHD](https://remaxhd.cam/)
 * [Keep2porn](https://keep2porn.net/)
@@ -723,7 +721,6 @@
 * [ComicBox](https://www.comicbox.xyz/) - Chinese Pornhwa
 * [TMOHentai](https://tmohentai.com/) - Spanish Hentai Manga
 * [Manhwas](https://www.manhwas.net/) - Spanish Pornhwa
-* [tumanhwas](https://tumanhwas.club/) - Spanish Pornhwa
 * [Mihentai](https://mihentai.com/) - Indo Hentai Manga
 * [TachiyomiSY](https://tachiyomi.org/forks/TachiyomiSY/) - Android Hentai
 * [Violet](https://github.com/project-violet/violet) - Android Hentai/ [Discord](https://discord.com/invite/fqrtRxC)
