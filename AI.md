@@ -311,13 +311,8 @@
 
 ***
 
-## ▷ [Image Upscaling](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_image_upscalers)
+## ▷ [Image Upscaling](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/img-tools#wiki_.25B7_image_upscalers)
 
-***
-
-## ▷ [Background Removal](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_background_removers)
-
-***
 ***
 
 # ► Audio Generators
@@ -356,6 +351,7 @@
 * [SAPI4](https://tetyys.com/SAPI4/)
 * [LazyPY](https://lazypy.ro/tts/)
 * [Murf.ai](https://murf.ai/)
+* [EmotiVoice](https://github.com/netease-youdao/EmotiVoice)
 * [Fish Diffusion](https://github.com/fishaudio/fish-diffusion)
 * [Audio-WebUI](https://github.com/gitmylo/audio-webui)
 * [Vanilla Voice](https://www.vanillavoice.com/)
