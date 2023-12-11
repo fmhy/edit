@@ -732,40 +732,11 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://70.88.180.169:8
 
 ***
 
-## Image Hosts
-
-* ⭐ **[ImgBB](https://imgbb.com/)**
-* ⭐ **[Postimages](https://postimages.org/)**
-* [Imgur](https://imgur.com/)
-* Imgur Tools - [Frontends](https://rimgo.codeberg.page/), [2](https://git.voidnet.tech/kev/imgin), [3](https://codeberg.org/rimgo/rimgo), [4](https://codeberg.org/3np/rimgu), [5](https://rimgo.bus-hit.me/) / [Proxy](https://imgin.voidnet.tech/)
-* [Unsee](https://unsee.cc/) - Decentralized / Temporary Image Hosts 
-
-[WebOasis IPFS](https://weboasis.app/ipfs/), [Shutterfly](https://www.shutterfly.com/), [FreeImage.Host](https://freeimage.host/), [snipboard](https://snipboard.io/), [vaa.red](https://upload.vaa.red/), [imgbox](https://imgbox.com/), [pasteboard](https://www.pasteboard.co/), [vgy](https://vgy.me/), [i](https://tikolu.net/i/), [tixte](https://tixte.com/), [linkpicture](https://www.linkpicture.com/), [imagebam](https://www.imagebam.com/), [imagevenue](https://www.imagevenue.com/), [pixelfed](https://pixelfed.org/) / [2](https://pixelfed.social/), [talaikis](https://ipfs.talaikis.com/upload), [imgchest](https://imgchest.com/), [upanhtv](https://upanh.tv/), [sendpic](http://sendpic.org/), [Lutim](https://lutim.lagout.org/), [prnt.sc](https://prnt.sc/), [anhsieuviet](https://anhsieuviet.com/?lang=en), [Slowpoke Pics](https://slow.pics/), [lookimg](https://lookimg.com/), [dutov](https://dutov.org/)
-
-***
-
 ## Image to Text
 
 * ⭐ **[Capture2Text](https://capture2text.sourceforge.net/)**
 
 [Text Grab](https://github.com/TheJoeFin/Text-Grab), [TextShot](https://github.com/ianzhao05/textshot), [OnlineOCR](https://onlineocr.org/), [IMG2TXT](https://img2txt.com/), [NewOCR](https://www.newocr.com/), [OCR.SPACE](https://ocr.space/), [Project Naptha](https://projectnaptha.com/), [Extract text from image](https://brandfolder.com/workbench/extract-text-from-image), [2ocr](https://2ocr.com/), [i2ocr](https://www.i2ocr.com/), [ImageToText](https://www.imagetotext.info/), [OnlineOCR](https://www.onlineocr.net/), [ImageScanOCR](https://github.com/ttop32/ImageScanOCR), [iblogbox OCR](https://imagetotext.iblogbox.com/)
-
-***
-
-## Image Viewers
-
-* ⭐ **[IrfanView](https://www.irfanview.com/)**
-* ⭐ **[JPEGView](https://github.com/sylikc/jpegview)**
-* [HDRView](https://github.com/wkjarosz/hdrview) - HDR Image Viewer
-
-[nomacs](https://github.com/nomacs/nomacs), [qimgv](https://github.com/easymodo/qimgv), [ImageGlass](https://imageglass.org/), [PhotoQt](https://github.com/luspi/photoqt), [PicView](https://github.com/Ruben2776/PicView), [Image Eye](https://www.fmjsoft.com/imageeye.html), [qView](https://interversehq.com/qview/), [Quick Picture Viewer](https://moduleart.github.io/quick-picture-viewer/), [Fragment](https://www.fragmentapp.info/), [HoneyView](https://en.bandisoft.com/honeyview/)
-
-### Image Galleries / Optimization
-
-* ⭐ **[Digikam](https://www.digikam.org/)**
-* ⭐ **[XnView MP](https://www.xnview.com/en/xnviewmp/)**
-
-[CloudImage](https://www.cloudimage.io/), [tiny.pictures](https://tiny.pictures/), [RawTherapee](https://www.rawtherapee.com/), [picturama](https://picturama.github.io/), [Piwigo](https://piwigo.org/), [Photonix](https://photonix.org/), [PiGallery2](https://bpatrik.github.io/pigallery2/), [Immich](https://github.com/immich-app/immich), [narrative](https://narrative.so/), [ImageWorsener](https://entropymine.com/imageworsener/), [G'MIC](https://gmic.eu/)
 
 ***
 
