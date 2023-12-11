@@ -870,7 +870,7 @@
 * [Google Play Games](https://play.google.com/googleplaygames) - Play Mobile Games on Windows
 * [SaveLocation](https://savelocation.net/) - Game Save Locations
 * [GameCopyWorld](https://www.gamecopyworld.com/games/index.php), [MegaGames](https://megagames.com/) or [GTrainers](https://gtrainers.com/) - Game Fixes, Saves and Patches
-* [Ludsavi](https://github.com/mtkennerly/ludusavi) or [GameSave Manager](https://www.gamesave-manager.com/) - Game Save Manger
+* [Ludusavi](https://github.com/mtkennerly/ludusavi) or [GameSave Manager](https://www.gamesave-manager.com/) - Game Save Manger
 * [Save Game World](https://www.savegameworld.com/), [savegamedownload](https://www.savegamedownload.com/), [yoursavegames](https://www.yoursavegames.com/), [savesforgames](https://savesforgames.com/), [savegamefiles](https://www.savegamefiles.com/), [savegame-download](https://savegame-download.com/) or [savegame](https://savegame.pro/) - PC Game Save Downloads
 * [Save Editor Online](https://www.saveeditonline.com/) - Game Save Editor
 * [CyberCAT-SimpleGUI](https://github.com/Deweh/CyberCAT-SimpleGUI) - Cyberpunk 2077 Save Editor
