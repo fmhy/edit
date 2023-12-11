@@ -27,7 +27,6 @@
 * [Vectr](https://vectr.com/) or [VectorInk](https://vectorink.io/) - Vector Graphics Editor
 * [JPEG Sandbox](https://github.com/OmarShehata/jpeg-sandbox) - DCT Coefficient Editor
 * [Images.weserv.nl](https://images.weserv.nl/) - Image Editing Server
-* [darktable](https://www.darktable.org/) - Virtual Lighttable & Darkroom
 * [Craft](https://www.invisionapp.com/craft) - Photoshop / Sketch Plugins
 * [Preset.id](https://preset.id/) - Adobe Lightroom Presets
 * [GradientArt](https://gra.dient.art/) or [TailBlend](https://tailblend.vercel.app/) - Gradient Editor
@@ -54,6 +53,8 @@
 * [SpiralBetty](https://www.spiralbetty.com/) - Image Spiralizer
 * [Image Splitter](https://ruyili.ca/image-splitter/) - Split Images into Tiles
 * [PicFont](https://picfont.com/) - Add Text to Images
+* [ImageWorsener](https://entropymine.com/imageworsener/)
+* [G'MIC](https://gmic.eu/)
 
 ***
 
@@ -61,7 +62,9 @@
 
 * ⭐ **[Gimp](https://www.gimp.org/)**, [2](https://github.com/cttynul/gimpshop-reloaded)
 * ⭐ **Gimp Tools** - [Photoshop UI](https://github.com/Diolinux/PhotoGIMP) / [Texture Synthesizer](https://github.com/bootchk/resynthesizer) / [Batch Editor](https://github.com/alessandrofrancesconi/gimp-plugin-bimp)
+* [darktable](https://www.darktable.org/) - Virtual Lighttable & Darkroom
 * [DragGAN](https://github.com/XingangPan/DragGAN) - AI Image Editor
+* [RawTherapee](https://www.rawtherapee.com/) - Raw Image Editor
 * [UFRaw](https://ufraw.sourceforge.net/) - Raw Image Editor
 * [PhotoDemon](https://github.com/tannerhelland/PhotoDemon)
 * [Paint.net](https://www.getpaint.net/index.html)
@@ -147,6 +150,7 @@
 ## ▷ Resize / Compress
 
 * ⭐ **[Pingo](https://css-ig.net/pingo)** / [GUI](https://css-ig.net/pinga), [RIOT](https://riot-optimizer.com/), [YOGA](https://yoga.flozz.org/) or [ImageFoo](https://imagefoo.com/) - Image Optimization Tools
+* [CloudImage](https://www.cloudimage.io/), [tiny.pictures](https://tiny.pictures/) - Optimize Images
 * [Croppola](https://croppola.com/), [Freehand Cropper](https://half-6.github.io/lf-freehand-cropper/), [Bulk Image Crop](https://bulkimagecrop.com/), [Innocenzi](https://avatar.innocenzi.dev/), [CropHere](https://crophere.com/) or [Avatar Cropper](https://avatarcropper.com/) - Cropping Tools
 * [Seopix](https://www.seopix.io/), [zara4](https://zara4.com/), [Shrink Media](https://www.shrink.media/) or [Reduce Images](https://www.reduceimages.com/) - Resize / Compress Images
 * [Simple Image Resizer](https://www.simpleimageresizer.com/), [ImageResizer](https://imageresizer.com/), [fixpicture](https://www.fixpicture.org/), [PicResize](https://picresize.com/), [resize-image](https://resize-image.net/), [Birme](https://www.birme.net/), [ImageResizeOnline](https://www.imageresizeonline.com/), [OnlineResizeImage](https://www.onlineresizeimage.com/), [ResizeNow](https://www.resizenow.com/en), [BulkResizePhotos](https://bulkresizephotos.com/) or [Batch Image Resizer](https://vovsoft.com/software/batch-image-resizer/) - Resize Images
@@ -469,6 +473,8 @@
 * ↪️ **[Color Scheme Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/dev-tools#wiki_.25B7_color_schemes)** -  [Guide](https://i.ibb.co/cCRn3y1/5eb0a8de7dac.jpg)
 * ↪️ **[Color Pickers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_color_pickers)**
 * ⭐ **[AntiDupl](https://github.com/ermig1979/AntiDupl)** or [cbird](https://github.com/scrubbbbs/cbird) - Duplicate Image Removers
+* [Picviewer CE+](https://github.com/hoothin/UserScripts/tree/master/Picviewer%20CE+) - Turn Webpages into Image Galleries
+* [Binternet](https://github.com/Ahwxorg/Binternet) - Pinterest Frontend
 * [DataFilm](http://datafilm.io/) - Notebook for Film Photographers
 * [GlanceBack](https://glanceback.info/) - Daily Webcam Photo Journal
 * [Image Color Summarizer](http://mkweb.bcgsc.ca/color-summarizer/) - Image Color Summarizer
@@ -500,26 +506,89 @@
 * [Camera Wiki](http://camera-wiki.org/) - Camera Model Wiki
 * [Canon Camera Museum](https://global.canon/en/c-museum/camera-series.html) - History of Canon Cameras
 * [Something to Draw](https://something-to-draw.com/) - Find Things to Draw
+* [narrative](https://narrative.so/)
 * [3D Printed Mirror Array](https://github.com/bencbartlett/3D-printed-mirror-array) - Sunlight Pattern Mirror Array
+* [Make Photo Gallery](https://makephotogallery.net/) - Collage Creator
+* [The Slideshow](https://theslideshow.net/) - Google Image Slideshow
 
 ***
 
-## ▷  Hosting / Viewing
+## ▷  Image Viewers
 
-* 🌐 **[FOSS Photo Libraries](https://github.com/meichthys/foss_photo_libraries)** - Open-Source Photo Libraries
-* ↪️ **[Image Hosts](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_image_hosts)**
-* ↪️ **[Image Viewers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_image_viewers)**
-* [Lychee](https://lycheeorg.github.io/), [PicoShare](https://github.com/mtlynch/picoshare), [Up1](https://github.com/Upload/Up1) or [Chevereto](https://chevereto.com/) - Self-Hosted Image Host 
-* [Piczel](https://piczel.tv/) - Online Art Gallery
-* [Make Photo Gallery](https://makephotogallery.net/) - Photo Gallery Creator
-* [Picviewer CE+](https://github.com/hoothin/UserScripts/tree/master/Picviewer%20CE+) - Turn Webpages into Image Galleries
-* [Binternet](https://github.com/Ahwxorg/Binternet) - Pinterest Frontend
+* ⭐ **[IrfanView](https://www.irfanview.com/)**
+* ⭐ **[JPEGView](https://github.com/sylikc/jpegview)**
+* ⭐ **[XnView MP](https://www.xnview.com/en/xnviewmp/)**
+* ⭐ **[Digikam](https://www.digikam.org/)**
+* [nomacs](https://github.com/nomacs/nomacs)
+* [qimgv](https://github.com/easymodo/qimgv)
+* [PhotoQt](https://github.com/luspi/photoqt)
+* [PicView](https://github.com/Ruben2776/PicView)
+* [Image Eye](https://www.fmjsoft.com/imageeye.html)
+* [qView](https://interversehq.com/qview/)
+* [Quick Picture Viewer](https://moduleart.github.io/quick-picture-viewer/),
+* [Fragment](https://www.fragmentapp.info/)
+* [HoneyView](https://en.bandisoft.com/honeyview/)
+* [picturama](https://picturama.github.io/)
+* [HDRView](https://github.com/wkjarosz/hdrview) - HDR Image Viewer
 * [FlipFlip](https://github.com/ififfy/flipflip/) - Image Slideshow
-* [The Slideshow](https://theslideshow.net/) - Google Image Slideshow
-* [Pinry](https://docs.getpinry.com/) - Image Tiling / Pinterest Alternatives
-* [Librephotos](https://github.com/LibrePhotos/librephotos), [Photoprism](https://github.com/photoprism/photoprism), [Photoview](https://github.com/photoview/photoview) or [Ownphotos](https://github.com/hooram/ownphotos/) - Self-Hosted Google Photo Manager 
-* [Pixelfed](https://pixelfed.org/) or [Unsee](https://unsee.cc/) - Decentralized / Temporary Image Hosts / [Android](https://gitlab.shinice.net/pixeldroid/PixelDroid)
-* [Google Photos Takeout Helper](https://github.com/TheLastGimbus/GooglePhotosTakeoutHelper) - Cleanup a Google Photos Takeout
+
+***
+
+## ▷  Self-Hosted Gallery Managment
+
+* 🌐 **[FOSS Photo Libraries](https://github.com/meichthys/foss_photo_libraries)**
+* [Immich](https://immich.app/)
+* [Damselfly](https://github.com/Webreaper/Damselfly)
+* [HomeGallery](https://home-gallery.org/)
+* [LibrePhotos](https://github.com/LibrePhotos/librephotos)
+* [Lychee](https://lycheeorg.github.io/)
+* [Photoprism](https://github.com/photoprism/photoprism)
+* [Photoview](https://github.com/photoview/photoview)
+* [Photonix](https://photonix.org/)
+* [photos](https://github.com/nextcloud/photos/)
+* [Memories](https://memories.gallery/)
+* [Piwigo](https://piwigo.org/)
+* [PiGallery 2](https://bpatrik.github.io/pigallery2/)
+* [PicoShare](https://github.com/mtlynch/picoshare)
+* [Up1](https://github.com/Upload/Up1)
+* [Chevereto](https://chevereto.com/)
+* [Pinry](https://docs.getpinry.com/)
+* [Photofield](https://github.com/SmilyOrg/photofield)
+* [Google Takeout](https://takeout.google.com/) - Export from Google Photos / [Script](https://github.com/TheLastGimbus/GooglePhotosTakeoutHelper)
+
+***
+
+## ▷  Image Hosts
+
+* ⭐ **[ImgBB](https://imgbb.com/)**
+* ⭐ **[Postimages](https://postimages.org/)**
+* [Imgur](https://imgur.com/)
+* Imgur Tools - [Frontends](https://rimgo.codeberg.page/), [2](https://git.voidnet.tech/kev/imgin), [3](https://codeberg.org/rimgo/rimgo), [4](https://codeberg.org/3np/rimgu), [5](https://rimgo.bus-hit.me/) / [Proxy](https://imgin.voidnet.tech/)
+* [pixelfed](https://pixelfed.org/) / [2](https://pixelfed.social/) - Decentralized Image Hosts
+* [Unsee](https://unsee.cc/) - Decentralized / Temporary Image Hosts / [Android](https://gitlab.shinice.net/pixeldroid/PixelDroid)
+* [WebOasis IPFS](https://weboasis.app/ipfs/)
+* [Shutterfly](https://www.shutterfly.com/)
+* [FreeImage.Host](https://freeimage.host/)
+* [snipboard](https://snipboard.io/)
+* [imgbox](https://imgbox.com/)
+* [pasteboard](https://www.pasteboard.co/)
+* [vgy](https://vgy.me/)
+* [i](https://tikolu.net/i/)
+* [tixte](https://tixte.com/)
+* [linkpicture](https://www.linkpicture.com/)
+* [imagebam](https://www.imagebam.com/)
+* [imagevenue](https://www.imagevenue.com/)
+* [talaikis](https://ipfs.talaikis.com/upload)
+* [imgchest](https://imgchest.com/)
+* [upanhtv](https://upanh.tv/)
+* [sendpic](http://sendpic.org/)
+* [Lutim](https://lutim.lagout.org/)
+* [prnt.sc](https://prnt.sc/)
+* [anhsieuviet](https://anhsieuviet.com/?lang=en)
+* [Slowpoke Pics](https://slow.pics/)
+* [lookimg](https://lookimg.com/)
+* [dutov](https://dutov.org/)
+* [Piczel](https://piczel.tv/) - Online Art Gallery
 
 ***
 
