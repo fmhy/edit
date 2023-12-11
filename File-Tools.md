@@ -308,6 +308,7 @@
 * [usersdrive](https://usersdrive.com/)
 * [tomacloud](https://tomacloud.com/)
 * [uploadingporn](https://uploadingporn.com/)
+* [Limited Upload Hosts](https://rentry.org/xc48kg) - 1GB or below
 
 ***
 
