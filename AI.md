@@ -67,7 +67,7 @@
 
 ## ▷ Roleplaying Bots
 
-* 🌐 **[Ayumi LLM Benchmark](http://ayumi.m8geil.de/ayumi_bench_v3_results.html)** - Roleplaying LLM Leaderboard
+* 🌐 **[Ayumi LLM](http://ayumi.m8geil.de/ayumi_bench_v3_results.html)** - Roleplaying LLM List
 * 🌐 **[Img-Resources](https://rentry.org/lmg-resources)** - LLM Character Resources / [Templates](https://rentry.org/lmg_template)
 * ⭐ **[PygmalionAI](https://discord.com/invite/pygmalionai)** - Self-Hosted Roleplaying Models with Resources / [Resources](https://rentry.co/PygmalionLinks)
 * ⭐ **[Bot Creation Guide](https://wikia.schneedc.com/bot-creation/intro)** - Character Creation Guide
