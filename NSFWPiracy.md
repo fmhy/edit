@@ -859,7 +859,7 @@
 * [Panic Button](https://pastebin.com/mDWBZ7fQ) - Quickly Close All Tabs
 * [UploadingPorn](https://uploadingporn.com/) - NSFW File Host
 * [Javinizer](https://github.com/javinizer/Javinizer) - JAV File Organizer
-* [BOT3 AI](https://bot3.ai/en?source=fmhy) or [Unhinged](https://www.unhinged.ai/) - NSFW AI Chatbots
+* [Unhinged](https://www.unhinged.ai/) - NSFW AI Chatbots
 * [DeepMosaics](https://github.com/HypoX64/DeepMosaics) - Remove Mosaics from Porn
 * [ThePornDB](https://metadataapi.net/) - Porn Metadata
 * [Bypass Age Verification](https://greasyfork.org/en/scripts/393525-bypass-age-verification-deviantart-com) - Bypass Deviantart Age Restriction
