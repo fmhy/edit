@@ -319,7 +319,6 @@
 * [Crimsonfansubs](https://crimsonfansubs.com/) - Chinese Anime / Sub / 1080p / Sub / [Discord](https://discord.gg/PmYn97vtue)
 * [Yuna](https://yuna.moe/), [NineAnimator](https://github.com/Layendan/NineAnimator-Tauri) or [Miru](https://miru.js.org/en/) - Anime Streaming Apps
 * [Crunchyroll](https://www.crunchyroll.com/videos/anime) - Sub / Dub / [US Proxy](https://addons.mozilla.org/en-US/firefox/addon/crunchy-unblocker/) / [Intro Skip](https://github.com/lexesjan/typescript-aniskip-extension)
-* [because.moe](https://because.moe/) - Legal Anime Sites Search 
 * [Themes.moe](https://themes.moe/) or [AnimeThemes](https://animethemes.moe/) - Anime Themes
 * [AnimeMusicVideos](https://www.animemusicvideos.org/) - Fan-Made Anime Music Videos
 * [Anime Clips](https://discord.gg/5UXfcJf4Hj) - Anime Clips
