@@ -7,7 +7,7 @@
 # ► System Tools
 
 * 🌐 **[Awesome Windows 11](https://github.com/awesome-windows11/windows11)** - Windows 11 Resources
-* 🌐 **[PC-Optimization-Hub](https://github.com/BoringBoredom/PC-Optimization-Hub)**, [Better Windows](https://rentry.co/better-windows) or [All About Windows](https://github.com/luke-beep/all-about-windows) - System Optimization Resources
+* 🌐 **[PC-Optimization-Hub](https://github.com/BoringBoredom/PC-Optimization-Hub)** or [All About Windows](https://github.com/luke-beep/all-about-windows) - System Optimization Resources
 * ↪️ **[Gaming Optimization](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/games#wiki_.25B7_optimization_tools)**
 * ⭐ **[PowerToys](https://learn.microsoft.com/en-us/windows/powertoys/)**, [ThisIsWin11](https://github.com/builtbybel/ThisIsWin11), [Sysinternals](https://learn.microsoft.com/en-us/sysinternals/) / [Suite](https://apps.microsoft.com/store/detail/sysinternals-suite/9P7KNL5RWT25) or [JaxCore](https://jaxcore.app/) - System Tools
 * ⭐ **[CPU-Z](https://www.cpuid.com/softwares/cpu-z.html)**, [winfetch](https://github.com/lptstr/winfetch) or [GPU-Z](https://www.techpowerup.com/download/techpowerup-gpu-z/) - System Information Tools
@@ -46,19 +46,15 @@
 * ⭐ **[Bulk Crap Uninstaller](https://www.bcuninstaller.com/)** - Bulk Uninstallation Tool
 * ⭐ **[BleachBit](https://www.bleachbit.org/)**, [memreduct](https://github.com/henrypp/memreduct) or [WinMemoryCleaner](https://github.com/IgorMundstein/WinMemoryCleaner) - Clean System Memory
 * ⭐ **[SophiApp](https://github.com/Sophia-Community/SophiApp)** / [Script](https://github.com/farag2/Sophia-Script-for-Windows) - Debloater
-* [Autoruns](https://learn.microsoft.com/en-us/sysinternals/downloads/autoruns) - Change Startup Programs
 * [GhostBuster](https://bitbucket.org/wvd-vegt/ghostbuster/src/master/) or [Device Cleanup Tool](https://www.majorgeeks.com/files/details/device_cleanup_tool.html) - Remove Non-Present Devices
 * [BloatBox](https://github.com/builtbybel/bloatbox) - Debloater
 * [Optimize-Offline](https://github.com/DrEmpiricism/Optimize-Offline) - Debloater
-* [Windows-Optimize-Harden-Debloat](https://github.com/simeononsecurity/Windows-Optimize-Harden-Debloat) - Debloater
 * [BRU](https://github.com/arcadesdude/BRU) - Debloater
-* [optimizer](https://github.com/hellzerg/optimizer/) - Debloater
 * [Win-Debloat-Tools](https://github.com/LeDragoX/Win-Debloat-Tools) - Debloater
 * [Win10Debloat](https://github.com/Raphire/Win10Debloat) - Debloater
-* [Dism++](https://www.majorgeeks.com/files/details/dism.html) - Debloater
 * [Adobe Debloater](https://github.com/FlickyOs/Adobe-Debloater) - Debloat Adobe Apps
 * [CCStopper](https://github.com/eaaasun/CCStopper) - Stop Background Adobe Apps
-* [debloat-windows11](https://github.com/kdpuvvadi/debloat-windows11), [JunkCtrl](https://github.com/builtbybel/JunkCtrl/) or [BloatyNosy](https://github.com/builtbybel/BloatyNosy) - Windows 11 Debloaters
+* [JunkCtrl](https://github.com/builtbybel/JunkCtrl/) or [BloatyNosy](https://github.com/builtbybel/BloatyNosy) - Windows 11 Debloaters
 
 ***
 
