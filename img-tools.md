@@ -371,7 +371,7 @@
 
 ***
 
-## ▷ Illustrations
+## ▷ Artwork
 
 * ⭐ **[Kemono](https://kemono.su/)** - Patreon Content / Some NSFW / Use Adblock
 * ⭐ **[DeviantArt](https://www.deviantart.com/)** - Western Fanart / [Downloader](https://github.com/NC22/KellyC-Image-Downloader)
