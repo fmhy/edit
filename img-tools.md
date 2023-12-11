@@ -70,9 +70,7 @@
 * [Paint.net](https://www.getpaint.net/index.html)
 * [PhotoFiltre](https://www.photofiltre-studio.com/)
 * [Polarr](https://www.polarr.com/)
-* [ImageMagick](https://imagemagick.org/index.php) / [Scripts](https://www.fmwconcepts.com/imagemagick/index.php)
 * [Pinta Project](https://www.pinta-project.com/)
-* [RawTherapee](https://rawtherapee.com/)
 * [Luna Paint](https://marketplace.visualstudio.com/items?itemName=Tyriar.luna-paint) - VS Code
 * [Gimel Studio](https://gimelstudio.github.io/)
 * [MagickUtils](https://github.com/n00mkrad/magick-utils)
@@ -149,17 +147,20 @@
 
 ## ▷ Resize / Compress
 
+* ⭐ **[ImageMagick](https://imagemagick.org/index.php)** / [Scripts](https://www.fmwconcepts.com/imagemagick/index.php)
 * ⭐ **[Pingo](https://css-ig.net/pingo)** / [GUI](https://css-ig.net/pinga), [RIOT](https://riot-optimizer.com/), [YOGA](https://yoga.flozz.org/) or [ImageFoo](https://imagefoo.com/) - Image Optimization Tools
 * [CloudImage](https://www.cloudimage.io/), [tiny.pictures](https://tiny.pictures/) - Optimize Images
-* [Croppola](https://croppola.com/), [Freehand Cropper](https://half-6.github.io/lf-freehand-cropper/), [Bulk Image Crop](https://bulkimagecrop.com/), [Innocenzi](https://avatar.innocenzi.dev/), [CropHere](https://crophere.com/) or [Avatar Cropper](https://avatarcropper.com/) - Cropping Tools
-* [Seopix](https://www.seopix.io/), [zara4](https://zara4.com/), [Shrink Media](https://www.shrink.media/) or [Reduce Images](https://www.reduceimages.com/) - Resize / Compress Images
-* [Simple Image Resizer](https://www.simpleimageresizer.com/), [ImageResizer](https://imageresizer.com/), [fixpicture](https://www.fixpicture.org/), [PicResize](https://picresize.com/), [resize-image](https://resize-image.net/), [Birme](https://www.birme.net/), [ImageResizeOnline](https://www.imageresizeonline.com/), [OnlineResizeImage](https://www.onlineresizeimage.com/), [ResizeNow](https://www.resizenow.com/en), [BulkResizePhotos](https://bulkresizephotos.com/) or [Batch Image Resizer](https://vovsoft.com/software/batch-image-resizer/) - Resize Images
+* [Bulk Image Resize](https://bulkimageresize.com/) - Resize Images / [Crop](https://bulkimagecrop.com/) / [Compress](https://imagecompressr.com/) 
+* [Croppola](https://croppola.com/) or [Avatar Cropper](https://avatarcropper.com/) - Cropping Tools
+* [Seopix](https://www.seopix.io/) - Resize / Compress Images
+* [Simple Image Resizer](https://www.simpleimageresizer.com/), [ImageResizer](https://imageresizer.com/), [PicResize](https://picresize.com/), [Birme](https://www.birme.net/), [ImageResizeOnline](https://www.imageresizeonline.com/), [OnlineResizeImage](https://www.onlineresizeimage.com/) or [ResizeNow](https://www.resizenow.com/en), [BulkResizePhotos](https://bulkresizephotos.com/) - Resize Images
 * [Resize App Icon](https://resizeappicon.com/) - Resize Square Images
-* [SSizes](https://ssizes.com/) or [PixelHunter](https://pixelhunter.io/) - Resize Images for Different Sites
+* [PixelHunter](https://pixelhunter.io/) - Resize Images for Different Sites
 * [SVGO](https://github.com/svg/svgo) or [SVGCrop](https://svgcrop.com/) - SVG Optimization / [GUI](https://jakearchibald.github.io/svgomg/)
 * [CompressOrDie](https://compress-or-die.com/), [TinyJPG](https://tinyjpg.com/), [ImageCompresser](https://imagecompresser.com/), [Caesium](https://saerasoft.com/caesium/), [ImageSmaller](https://www.imagesmaller.com/), [ImageDiamond](https://www.imagediamond.com/), [Compress JPEG](https://compressjpeg.com/), [CompressImage](https://compressimage.io/), [CrushImage](https://crushimage.com/), [ShrinkMe](https://shrinkme.app/), [Crushee](https://crushee.app/), [Compressor](https://compressor.io/) or [Batch Compress](https://batchcompress.com/en) - Image Compressors 
 * [TinyPNG](https://tinypng.com/), [Compress PNG](https://compresspng.com/), [OxiPNG](https://github.com/shssoichiro/oxipng) or [PNGQuant](https://pngquant.org/) - PNG Compressors
 * [JPEG.rocks](https://jpeg.rocks/) - JPEG Re-Encoder
+* [Innocenzi](https://avatar.innocenzi.dev/) - Create Round Avatars
 
 *** 
 
