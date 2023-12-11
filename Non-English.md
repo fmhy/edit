@@ -323,7 +323,6 @@
 * [DBFree](https://dbfree.me/) - Books
 * [FRDownMags](https://fr.downmagaz.net/) - Magazines
 * [Abandonware France](https://www.abandonware-france.org/index.php) - Abandonware
-* [GameTronik](https://www.gametronik.com/site/index.php) - Abandonware / Emulators
 * [TousLesDrivers](https://www.touslesdrivers.com/) - Drivers
 
 ## ▷ Torrenting
@@ -389,7 +388,7 @@
 ## ▷ Downloading
 
 * [Crawli](https://crawli.net/) - Download Search
-* [ArchivX](https://www.archivx.to/), [StartSeite](https://startseite.to/) or [LinkR](https://www.linkr.top/index.php) - Warez Lists
+* [ArchivX](https://www.archivx.to/) or [StartSeite](https://startseite.to/) - Warez Lists
 * [DarkLight](https://board.darklight.to/) - Video / Audio / ROMs / Books / Magazines / NSFW
 * [Warez-World](https://warez-world.org/) - Video / Audio / Books / Magazines / NSFW
 * [Goldesel](https://goldesel.bz/) - Video / Audio / NSFW
@@ -864,7 +863,6 @@
 * [parsbook.com](https://www.parsbook.com/) - Educational / Programming / Engineering
 * [Afghanistandl](https://afghanistandl.nyu.edu/) - Historical Books
 * [TakBook](https://www.takbook.com/) - Books
-* [Motamem](https://motamem.org/) - Courses / Iranian IP required
 
 ***
 
@@ -1304,7 +1302,6 @@
 * [SomosMovies](https://somosmovies.com/) - Movies / TV
 * [VerePeliculas](https://wvw.verepeliculas.com/) - Movies / TV / Latino
 * [Mega1080](https://www.mega1080.com/) - Movies / Documentaries / Latino
-* [CompucaliTV](https://www.compucalitv.com/) - Movies / TV / Latino
 * [mirandopeliculas](https://www.mirandopeliculas.com/) - Movies / TV / Latino
 * [TodoPelisHD](https://todopelishd.com/) - Movies / Latino
 * [Hackstore.me](https://www.hackstore.me/) - Movies / TV / Anime
@@ -1699,7 +1696,6 @@
 * [TaiSach](https://taisachmienphi.com/) - Books
 * [DocSach24](https://docsach24.co/) - Books
 * [SachHay](https://www.sachhayonline.com/) - Books
-* [KhoSach](https://khosachonline.com/) - Books
 * [VNDoc](https://vndoc.com/) - Educational Books / Documents
 * [LoiGiaiHay](https://loigiaihay.com/) - Educational Books / Documents
 * [VietJack](https://vietjack.com/) - Educational Books / Documents
