@@ -246,14 +246,10 @@
 * [gifify](https://github.com/vvo/gifify) - Video to GIF Converter
 * [GifRun](https://gifrun.com/) - Make GIFs from Online Videos
 * [ScreenToGif](https://www.screentogif.com/) or [Peek](https://github.com/phw/peek) - GIF Recorder
-* [screengif](https://github.com/dergachev/screengif), [ugiffer](https://iobureau.com/ugiffer/) or [licecap](https://www.cockos.com/licecap/) - Create GIFs via Screencasts
-* [GIFit](https://github.com/Fauntleroy/GIFit), [Youtube to GIF](https://youtube-to-gif.com/) - YouTube to GIF Converters
+* [ugiffer](https://iobureau.com/ugiffer/) or [licecap](https://www.cockos.com/licecap/) - Create GIFs via Screencasts
 * [TokkingHeads](https://app.tokkingheads.com/) - Face Movement GIFs
 * [petpet](https://benisland.neocities.org/petpet/) - Headpatting GIF Maker
-* [FlagWaver](https://krikienoid.github.io/flagwaver/) - Create Moving Flag GIFs
 * [Gifski](https://gif.ski/) - GIF Encoder
-* [Among-Us-Dumpy-Gif-Maker](https://dumpy.t1c.dev/) - Make Dumpy Among us GIFs
-* [Crisp GIF Guide](https://imgur.com/gallery/02aYs) - How-To Make 60 FPS GIFs
 
 ***
 
