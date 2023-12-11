@@ -58,6 +58,7 @@
 * [ConTV](https://www.contv.com/) - Movies / 720p
 * [Afdah](https://afdah2.com/) - Movies / 720p
 * [FFilmClub](https://filmsclub.org/) - Movies / TV / 720p
+* [Flixtor](https://flixtorz.to/), [2](https://flixtor.id/) - Movies / TV / 720p / Movies Older Than 6 Months For Premium Only
 * [tvembed.cc](https://tvembed.cc/) - Movies / TV / Anime / API
 * [GoMo](https://gomo.to/) - Movies / TV / Anime / API
 * [SuperEmbed](https://www.superembed.stream/) - Movies / TV / API
@@ -115,7 +116,6 @@
 * [MovieXFilm](https://moviexfilm.com/) - Movies / TV / 720p
 * [VHMovies](https://vhmovies.to/) - Movies / TV / Anime / 720p
 * [Plex](https://watch.plex.tv/) - Movies / TV / 720p
-* [Flixtor](https://flixtor.to) - Movies / TV / 720p / Movies Older Than 6 Months For Premium Only
 * [FreeTubeSpot](https://www.freetubespot.com/) - Movies / 480p
 * [MP4Mania](https://mp4mania1.net/) - Movies / 360p / [How to Use](https://i.imgur.com/CdFCNWA.mp4)
 * [JustWatch](https://www.justwatch.com/) - Search Legal Streaming Hosts
@@ -935,7 +935,6 @@
 * [subtitle.js](https://github.com/gsantiago/subtitle.js) - Parse and manipulate SRT (SubRip)
 * [TranslatesSubtitles](https://translatesubtitles.com/), [FreeSubtitles](https://freesubtitles.org/) or [SubtitleTranslate](https://github.com/mepeichun/SubtitleTranslate) - Translate Subtitles
 * [Auto Synced & Translated Dubs](https://github.com/ThioJoe/Auto-Synced-Translated-Dubs) - Create Translated Dubs
-* [subtitle_tonemap](https://github.com/quietvoid/subtitle_tonemap) - Map PGS Subs to Different Color / Brightness
 * [DualSub](https://github.com/bonigarcia/dualsub) - Bilingual Subtitles Maker
 * [asbplayer](https://killergerbah.github.io/asbplayer/) - Subtitle Sentence Mining
 * [SaveSubs](https://www.savesubs.com/) - Extract Subtitles from Online Videos
