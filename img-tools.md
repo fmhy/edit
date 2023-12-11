@@ -217,28 +217,17 @@
 * [Side It](https://sideit.app/) - Side by Side Image Generator
 * [SuperDesigner](https://superdesigner.co/) - Background / Pattern Designer
 * [Noise & Gradient](https://www.noiseandgradient.com/), [Gradient Designer](https://gradient-designer.csspost.com/), [BGJar](https://bgjar.com/), [MeshGradient](https://meshgradient.in/) or [BGGenerator](https://bggenerator.com/) - Background / Gradient Generators
-* [stripegenerator](http://www.stripegenerator.com/) - Stripe Generator 
 * [MakeTintAndShade](https://maketintsandshades.com/) - Tint and Shade Generator
-* [Flow Field](https://github.com/romellogoodman/flow-field.js) - Flow Field Generator
-* [MakeBeliefsComix](https://makebeliefscomix.com/) - Comic Creators
 * [Rarebit](https://rarebit.neocities.org/) - Webcomics Template
-* [Zine Machine](https://zine-machine.glitch.me/) or [Electric Zine Maker](http://unicornycopia.com/ezm/) - Create / Print Zines
 * [Bannery](https://bannery.app/) - Create Custom Banners
 * [Mind Your Banners](https://www.mindyourbanners.com/) - Social Media Banner Creator
 * [CoverView](https://coverview.vercel.app/) - Blog Banner Creator
-* [Thumbnail.ai](https://thumbnail.ai/) - Create Social Media Images from Blog Posts
-* [Postr](https://postr.me/) - Create Images from Social Media Posts
-* [3D Book](https://3dbook.xyz/) - 3D Book Image
 * [Meta-Mapper](https://meta-mapper.com/) - Website Metadata Thumbnails
 * [Custom Ink](https://www.customink.com/ndx/#/) - Create T-Shirt Designs
 * [Unsell](https://www.unsell.design/) - Portfolio / Magazine Templates
 * [PSDcovers](https://www.psdcovers.com/), [mockups-design](https://mockups-design.com/), [zippypixels](https://zippypixels.com/), [Mockups](https://mockups.pixeltrue.com/), [medialoot](https://medialoot.com/free-mockups/) or [MockupsForFree](https://mockupsforfree.com/) - Product Mockups
 * [Venngage](https://venngage.com/) - Infographic Maker
 * [Quote Maker](https://quotescover.com/) - Quote Picture Generator
-* [Verbex](https://www.vedbex.com/fakeproof) - Fake "Proof" Generator
-* [Flag Maker](https://flagmaker-print.com/pages/flag-maker) - Flag Creator
-* [Dummy Image](https://dummyimage.com/) - Dynamic Dummy Image Generator 
-* [CLIP-GLaSS](https://colab.research.google.com/drive/1fWka_U56NhCegbbrQPt4PWpHPtNRdU49?usp=sharing#scrollTo=zvZFRZtcv8Mp) - Image Generation Tool 
 
 ***
 
