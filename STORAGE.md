@@ -764,7 +764,6 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://70.88.180.169:8
 
 * ⭐ **[Digikam](https://www.digikam.org/)**
 * ⭐ **[XnView MP](https://www.xnview.com/en/xnviewmp/)**
-* ⭐ **[Cryptee](https://crypt.ee/)** - Encrypted Image Gallery
 
 [CloudImage](https://www.cloudimage.io/), [tiny.pictures](https://tiny.pictures/), [RawTherapee](https://www.rawtherapee.com/), [picturama](https://picturama.github.io/), [Piwigo](https://piwigo.org/), [Photonix](https://photonix.org/), [PiGallery2](https://bpatrik.github.io/pigallery2/), [Immich](https://github.com/immich-app/immich), [narrative](https://narrative.so/), [ImageWorsener](https://entropymine.com/imageworsener/), [G'MIC](https://gmic.eu/)
 
