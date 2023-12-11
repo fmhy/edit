@@ -399,7 +399,6 @@
 * [The Joe Rogan Experience](https://pastebin.com/gqwPPRL6) - Joe Rogan Podcast
 * [MixtapeTorrent](http://www.mixtapetorrent.com/) - Mixtapes / MP3
 * [TribalMixed](https://www.tribalmixes.com/) - DJ Mixes / MP3
-* [JaneMusic](http://torrent.janemusic.org/) - Neil Finn, Split Enz, Crowded House etc.
 * [PandaCD](https://pandacd.io/) - User-Made Music
 * [ZOMB Torrents](http://zombtracker.the-zomb.com/) - Forum
 * [bt.etree](https://bt.etree.org/) or [DreamingTree](https://dreamingtree.org/) - Live Concert Recordings
