@@ -534,7 +534,7 @@
 
 ***
 
-## ▷  Self-Hosted Gallery Managment
+## ▷  Self-Hosted Galleries
 
 * 🌐 **[FOSS Photo Libraries](https://github.com/meichthys/foss_photo_libraries)**
 * [Immich](https://immich.app/)
