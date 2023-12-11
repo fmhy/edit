@@ -762,7 +762,6 @@
 * [mangapill](https://mangapill.com/)
 * [Anime-Sharing](https://www.anime-sharing.com/) - Anime / Manga Download Forum
 * [MP4DIRECTS](https://mp4directs.com/) - Manga / Light Novels Download Forum
-* [WhereCanIReadManga?](https://wherecanireadmanga.com/) - Legal
 * [Kaizoku](https://github.com/oae/kaizoku) - Self-Hosted Manga Downloader
 * [Manga APIs](https://rentry.co/manga-apis) - Manga Site API's
 * [Webcomic Reader](https://openuserjs.org/scripts/anka-213/Webcomic_Reader) - Preloads Images, Remembers Progress and Keyboard Support
