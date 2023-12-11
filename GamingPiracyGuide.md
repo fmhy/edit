@@ -471,7 +471,6 @@
 * [Betrayal](https://betrayal.io/) - Among Us Clone
 * [BrainChef](http://brainchef.com/) - Browser MMORPG
 * [TownOfSalem](https://blankmediagames.com/TownOfSalem/) - Role Based Mystery Solving MMO
-* [Pirate101](https://www.pirate101.com/) - Pirate MMO
 * [Slither.io](http://slither.io/) or [worm.is](https://store.steampowered.com/app/466910/Wormis_The_Game/) - Grow the Longest Worm
 * [diep.io](https://diep.io/) or [Scenexe.io](https://scenexe.io/) - Become the Strongest Tank 
 * [Hexar.io](http://www.hexar.io/), [splix.io](https://splix.io/) or [paper-io](https://paper-io.com/) - Control the Map 
@@ -682,7 +681,6 @@
 * [Steam++](https://steampp.net/) - Enhance Steam Functionality / [GitHub](https://github.com/BeyondDimension/SteamTools)
 * [AugmentedSteam](https://augmentedsteam.com/) - Steam Web Enhancement Extension 
 * [Steam URL Opener](https://github.com/veteran29/steam-url-open-extension) - Open URLs Inside Steam Client
-* [SteaScree](https://steascree.download/) - Steam Cloud Screenshot Uploader
 * [Steam Age Bypass](https://greasyfork.org/en/scripts/18450-steam-bypass-age-confirmation-prompts) - Bypass Age Confirmation
 * [Adwaita for Steam](https://github.com/tkashkin/Adwaita-for-Steam) - Steam GNOME Skin
 * [Backgrounds.Gallery](https://backgrounds.gallery/) - Steam Backgrounds
@@ -703,7 +701,6 @@
 
 * 🌐 **[Darthsternie](https://darthsternie.net/)** - Console Firmware / Exploit Archive
 * 🌐 **[Tinfoil Shops](https://lemmy.dbzer0.com/post/8814242)** - Tinfoil Shop Status Megathread
-* 🌐 **[Brewology](https://psp.brewology.com/)** - PSP Homebrew Resources / [Vita](https://github.com/MuxaJlbl4/Awesome-PlayStation-Vita)
 * 🌐 **[FlagBrew](https://flagbrew.org/)** - Switch / 3DS Homebrew Resources / [Discord](https://discord.com/invite/4Rv8DTzGFa)
 * 🌐 **[DS Homebrew](https://ds-homebrew.com/)** - DS Homebrew Resources / [Wiki](https://wiki.ds-homebrew.com/) / [Discord](https://discord.com/invite/yD3spjv)
 * 🌐 **[Emulators on Consoles](https://emulation.gametechwiki.com/index.php/Category:Emulators_on_consoles)** - List of Emulators for Consoles
