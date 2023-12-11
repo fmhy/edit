@@ -270,6 +270,7 @@
 * ⭐ **[wormhole](https://wormhole.app/)**, **[temp.sh](https://temp.sh/)**, [Send](https://send.vis.ee/) or [LitterBox](https://litterbox.catbox.moe/) - Temp File Hosts
 * [Z-o-o-m](https://z-o-o-m.eu/), [MirrorAce](https://mirrorace.com/), [MultiUp](https://multiup.eu/) / [2](https://multiup.org/), [Mirrorcreator](https://www.mirrored.to/) or [PlowShare](https://github.com/mcrapet/plowshare) - Multi Host Uploaders
 * [Send.cm](https://send.cm/)
+* [Catbox.moe](https://catbox.moe/)
 * [sharedrop](https://www.sharedrop.io/)
 * [justbeamit](https://justbeamit.com/)
 * [ufile](https://ufile.io/)
