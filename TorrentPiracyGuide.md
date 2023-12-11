@@ -52,14 +52,13 @@
 * ↪️ **[Torrent to GDrive](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_torrent_to_gdrive)**
 * ⭐ **[from-torrent](https://multiup.org/en/upload/from-torrent)** - Torrent to DDL Sites / [Bypass 10GB Limit](https://pastebin.com/raw/QLGLLZ9d)
 * ⭐ **[Seedr](https://www.seedr.cc/)** - [Telegram Bot](https://t.me/TorrentSeedrBot) / [API Wrapper](https://github.com/theabbie/seedr-api), [2](https://github.com/AnjanaMadu/SeedrAPI) - Torrent to Cloud and Stream
-* ⭐ **[webtor](https://webtor.io/)** - Torrent to Cloud and Stream
+* ⭐ **[webtor](https://webtor.io/)** - Torrent to Cloud and Stream / [Send Magnets](https://greasyfork.org/en/scripts/481975) 
 * [Bitport](https://bitport.io/welcome) - Torrent to Cloud and Stream
 * [TorrentSafe](https://www.torrentsafe.com/) - Torrent to Cloud and Stream
 * [TorrentCheap](https://my.torrentcheap.com/) - Torrent to Cloud and Stream
 * [ZBIGZ](https://zbigz.com/) - Torrent to Cloud and Stream
 * [Loadbt](https://www.loadbt.com/) - Torrent to Cloud and Stream
 * [TorBox](https://torbox.app/) - Torrent to Cloud
-* [Boby](https://boby.sh/) - Torrent to DDL
 * [Demagnetize](http://demagnetize.link/) - Torrent to DDL
 
 ***
