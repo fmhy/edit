@@ -413,7 +413,7 @@
 * ⭐ **[SearXNG](https://docs.searxng.org/)** - [Instances](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_searx_instances) / [Desktop](https://notabug.org/CYBERDEViL/searx-qt) / [GitHub](https://asciimoo.github.io/searx/)
 * ⭐ **[Metager](https://metager.org/)**
 * ⭐ **[Stract](https://trystract.com/)**
-* ⭐ **[DuckDuckGo](https://duckduckgo.com/)** - [Shortcuts](https://duckduckgo.com/bangs) / [Search Scraper](https://github.com/JohnScooby/DuckDuckGo-Scraper)
+* ⭐ **[DuckDuckGo](https://duckduckgo.com/)** - [Shortcuts](https://duckduckgo.com/bangs)
 * [4get](https://4get.ca/)
 * [Mojeek](https://www.mojeek.com/)
 * [Qwant](https://www.qwant.com/)
@@ -437,7 +437,6 @@
 * ⭐ **[EmailPrivacyTester](https://www.emailprivacytester.com/)** - Email Privacy Test
 * ⭐ **[Have I been Pwned?](https://haveibeenpwned.com/)** or [GhostProject](https://ghostproject.fr/) - Monitor Email Breaches
 * ⭐ **[disposable-email-domains](https://github.com/disposable-email-domains/disposable-email-domains)** - Disposable Email Blocklist
-* [Duck Manager](https://github.com/weebi/duck-manager) or [ddgmail](https://github.com/lem6ns/ddgmail) - Manage @duck Aliases
 * [OpenPGP](https://www.openpgp.org/) - Email Encryption / [Guide](https://riseup.net/en/security/message-security/openpgp/best-practices)
 * [MetaClean for Gmail](https://www.adarsus.com/en/remove-metadata-from-gmail-attachments/) - Remove Metadata from Emails
 * [/r/emailprivacy](https://reddit.com/r/emailprivacy) - Discussion of Email Privacy / Security / Anonymity
@@ -459,7 +458,7 @@
 * ⭐ **[AirVPN](https://airvpn.org/)** - [Pricing](https://i.ibb.co/8rVJ5JB/c4b813a6b6bc.png)
 * ⭐ **[Windscribe](https://windscribe.com)** - [Pricing](https://ibb.co/tPZZDhC) / Free Version Available / [Improved App](https://github.com/Windscribe/Desktop-App)
 * ⭐ **[Proton](https://protonvpn.com)** - [Pricing](https://ibb.co/gg4VCDR) / No Torrenting w/ Free Version
-* ⭐ **[CryptoStorm](https://cryptostorm.is/)** - [Pricing](https://i.ibb.co/3m849CX/afe46b2ec3ec.png) / [Free Tier](https://cryptostorm.is/cryptofree)
+* ⭐ **[CryptoStorm](https://cryptostorm.is/)** - [Pricing](https://i.ibb.co/3m849CX/afe46b2ec3ec.png)
 * ⭐ **[Riseup](https://riseup.net/en/vpn)** - Free VPN 
 * ⭐ **[Softether](https://www.softether.org/)** - Free VPN / [VPN Gate](https://www.vpngate.net/en/download.aspx) / [Note](https://pastebin.com/TrSw7EpF)
 * ⭐ **[Warp](https://1.1.1.1/)**, [2](https://1.0.0.1/) - Traffic Encryption VPN / [Client](https://github.com/ViRb3/wgcf) / [Unlimited Data](https://github.com/nxvvvv/warp-plus) / [WireGuard Guide](https://rentry.co/foss-warp) / [Warp Warning](https://rentry.co/warpwarning)
