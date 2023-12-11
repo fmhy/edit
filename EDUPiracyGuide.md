@@ -203,7 +203,6 @@
 * [Course Club](https://courseclub.me/) - Courses
 * [FreeCourseSite](https://freecoursesite.com/) - Courses
 * [DownloadFreeCourse](https://downloadfreecourse.com/) - Courses
-* [GetFreeCourses](https://getfreecourses.co/) - Courses
 * [FreeCoursesOnline](https://freecoursesonline.me/) - Courses
 * [Docspedia](https://docspedia.world/) - Courses / Signup Required
 * [Paid Courses for Free](https://paidcoursesforfree.com/) - Udemy Courses
