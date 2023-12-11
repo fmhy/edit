@@ -8,9 +8,9 @@
 
 * 🌐 **[Awesome Design Tools](https://github.com/goabstract/Awesome-Design-Tools)**, [2](https://rentry.co/thk62), [3](https://docs.google.com/document/d/179VI9QjVICyS3KVQ4i5fdEQmE1U45Xhq64TNb9QUmRk/edit?usp=drivesdk), [4](https://pilssken.neocities.org/gainz/), [5](https://github.com/nbats/FMHYedit/blob/main/base64.md#design-tool-zip) - Design Resources
 * 🌐 **[archives.design](https://archives.design/)** - Graphic Design Books
-* ↪️ **[Image Editors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_image_editing)**
 * ↪️ **[Image Design Resources](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_image_design_resources)** 
 * ⭐ **[PhotoMosh](https://photomosh.com/)**, [jpg-glitch-electron](https://snorpey.github.io/jpg-glitch-electron/), [glitch-this!](https://github.com/TotallyNotChase/glitch-this), [GlitchyImage](https://glitchyimage.com/) or [Image Glitch Tool](https://github.com/snorpey/jpg-glitch) - Glitch Images
+* ⭐ **[remove.bg](https://www.remove.bg/)**, [RemoveBG-GIMP](https://github.com/manu12121999/RemoveBG-GIMP), [Rembg](https://github.com/danielgatis/rembg), [Adobe Express Background Remover](https://www.adobe.com/express/feature/image/remove-background) or [magic-copy](https://github.com/kevmo314/magic-copy) - Background Removers
 * [CanvaPro365](https://t.me/canvapro365free) or [sharecanvaprofree](https://t.me/sharecanvaprofree) - Free Canva Pro Telegram Channels
 * [calltoidea](https://www.calltoidea.com/), [onepagelove](https://onepagelove.com/), [awwwards](https://www.awwwards.com/websites), [thedesigninspiration](https://thedesigninspiration.com/), [theinspirationgrid](https://theinspirationgrid.com/) or [inspirationde](https://www.inspirationde.com/) - Graphic Design Inspirations
 * [IRA Design](https://iradesign.io/) - Illustration Creator
@@ -34,48 +34,118 @@
 * [distort-grid](https://github.com/snorpey/distort-grid) - Grid Based Image Distortion
 * [Beadifier](https://www.beadifier.com/editor/) - Bead Based Image Distortion
 * [VeoLuz](https://jaredforsyth.com/veoluz/) - Photon Path Art Tool
-* [PaintingLight](https://lllyasviel.github.io/PaintingLight/) - Digital Lighting Effect Generator
 * [Canvas](https://www.nvidia.com/en-us/studio/canvas/) - Turn Simple Art into Photo Realistic Landscapes
 * [Picmunge](https://picmunge.cvservant.com/) - Image Transformer
-* [Controlnet Pose](https://replicate.com/jagilley/controlnet-pose) - Modify Human Pose Position / [SD WebUI](https://github.com/Mikubill/sd-webui-controlnet)
 * [Tinter](https://tinter.uxie.io/) - Image Hue Editor
 * [ordered-dither-maker](https://seleb.github.io/ordered-dither-maker/) - Image Dithering
 * [WeGreyScale](https://www.wegrayscale.com/) - Greyscale Videos / Images
 * [DuoTones](https://duotones.co/) - Dual Tone Effect Generator
 * [ImageGoNord](https://ign.schrodinger-hat.it/) - Convert Images to NordTheme Palette / [GitHub](https://github.com/Schrodinger-Hat/ImageGoNord)
 * [Fotosketcher](https://fotosketcher.com/) - Turn Photos into Artwork
-* [White-box-Cartoonization](https://github.com/SystemErrorWang/White-box-Cartoonization) or [Image To Cartoon](https://imagetocartoon.com/) - Turn Photos into Cartoons
 * [AnimeGAN](https://github.com/TachibanaYoshino/AnimeGAN) / [2](https://github.com/TachibanaYoshino/AnimeGANv2) / [3](https://github.com/TachibanaYoshino/AnimeGANv3) - Turn Photos into Anime
 * [AIDraw](https://ai-draw.tokyo/en/) or [ArtLine](https://github.com/vijishmadhavan/ArtLine) - Turn Photos into Line Art
 * [primitive.js](https://ondras.github.io/primitive.js/) or [Geometrize](https://www.geometrize.co.uk/) - Redraw Images with Geometric Shapes 
 * [PBNify](https://pbnify.com/) - Paint by Number Tool
 * [Paint with Music](https://artsandculture.google.com/experiment/paint-with-music/YAGuJyDB-XbbWg) - Paint with Sound
-* [Segment Anything](https://segment-anything.com/), [Samist](https://github.com/dibrale/samist), [EditAnything](https://www.editanything.ai/) or [sd-webui-segment-anything](https://github.com/continue-revolution/sd-webui-segment-anything) - Image Segmentation Tools
-* [Lama Cleaner](https://lama-cleaner-docs.vercel.app/), [Inpaint](https://theinpaint.com/), [Magic Eraser](https://magicstudio.com/magiceraser), [Remover](https://remover.zmo.ai/), [Cleanup.pictures](https://cleanup.pictures/) or [ObjectRemover](https://objectremover.com/) - Remove Objects from Images
-* [remove.bg](https://www.remove.bg/), [RemoveBG-GIMP](https://github.com/manu12121999/RemoveBG-GIMP), [Rembg](https://github.com/danielgatis/rembg), [Adobe Express Background Remover](https://www.adobe.com/express/feature/image/remove-background) or [magic-copy](https://github.com/kevmo314/magic-copy) - Background Removers
-* [InsertFace](https://insertface.com/) - Selfie Frames, Backgrounds & Effects
-* [Frame360](https://frame360.net/) - Image Frames
+* [Lama Cleaner](https://lama-cleaner-docs.vercel.app/), [Inpaint](https://theinpaint.com/), [Magic Eraser](https://magicstudio.com/magiceraser), [Remover](https://remover.zmo.ai/), [Cleanup.pictures](https://cleanup.pictures/), [ObjectRemover](https://objectremover.com/), [Segment Anything](https://segment-anything.com/), [Samist](https://github.com/dibrale/samist) or [sd-webui-segment-anything](https://github.com/continue-revolution/sd-webui-segment-anything) - Image Segmentation Tools
 * [Supershots](https://superblog.ai/supershots/) - Add Backgrounds to Images
 * [Party-ify](https://nathanielw.github.io/party-ify/) - Party-ify Images
 * [PFP.LGBT](https://pfp.lgbt/) - LGBTQ+fy Images
-* [ImageRemix](http://www.oyonale.com/imagemix.php) or [STI/L](https://antlii.work/STIIL-Generator) - Image Remixer
 * [SpiralBetty](https://www.spiralbetty.com/) - Image Spiralizer
-* [Caricaturer](https://caricaturer.io/) - Create Caricature of Your Face
-* [Anime2Sketch](https://github.com/Mukosame/Anime2Sketch) - Create Sketch from Anime
-* [Image Splitter](https://ruyili.ca/image-splitter/), [2](http://www.htmlkit.com/services/is/) - Split Images into Tiles
-* [Needs More JPEG](http://needsmorejpeg.com/) - Blur / Pixelize Images
-* [Color Transfer](https://www.dustfreesolutions.com/CT/CT.html) - Transfer Color Between Images
+* [Image Splitter](https://ruyili.ca/image-splitter/) - Split Images into Tiles
 * [PicFont](https://picfont.com/) - Add Text to Images
-* [Acme Annotator](https://acme.com/annotator/) - Image Annotation 
-* [Face Merging](https://www.faceplusplus.com/face-merging/) or [MorphThing](https://www.morphthing.com/) - Face Merging Tool 
-* [WebcamToy](https://webcamtoy.com/) or [HDBooth](https://hdbooth.net/) - Webcam Effects
-* [Latent Diffusion](https://github.com/CompVis/latent-diffusion), [2](https://github.com/pesser/stable-diffusion) - Image Synthesis with Latent Diffusion Models
+
+***
+
+## ▷ Editing Software
+
+* ⭐ **[Gimp](https://www.gimp.org/)**, [2](https://github.com/cttynul/gimpshop-reloaded)
+* ⭐ **Gimp Tools** - [Photoshop UI](https://github.com/Diolinux/PhotoGIMP) / [Texture Synthesizer](https://github.com/bootchk/resynthesizer) / [Batch Editor](https://github.com/alessandrofrancesconi/gimp-plugin-bimp)
+* [DragGAN](https://github.com/XingangPan/DragGAN) - AI Image Editor
+* [UFRaw](https://ufraw.sourceforge.net/) - Raw Image Editor
+* [PhotoDemon](https://github.com/tannerhelland/PhotoDemon)
+* [Paint.net](https://www.getpaint.net/index.html)
+* [PhotoFiltre](https://www.photofiltre-studio.com/)
+* [Polarr](https://www.polarr.com/)
+* [ImageMagick](https://imagemagick.org/index.php) / [Scripts](https://www.fmwconcepts.com/imagemagick/index.php)
+* [Pinta Project](https://www.pinta-project.com/)
+* [RawTherapee](https://rawtherapee.com/)
+* [Luna Paint](https://marketplace.visualstudio.com/items?itemName=Tyriar.luna-paint) - VS Code
+* [Gimel Studio](https://gimelstudio.github.io/)
+* [MagickUtils](https://github.com/n00mkrad/magick-utils)
+
+***
+
+## ▷ Online Editors
+
+* ⭐ **[Lunapic](https://lunapic.com/)**
+* ⭐ **[miniPaint](https://viliusle.github.io/miniPaint/)**
+* [Photopea](https://www.photopea.com/) / [Ad Script](https://greasyfork.org/en/scripts/449961)
+* [Pixlr](https://pixlr.com/)
+* [Photomate](https://photomate.dev/)
+* [BeFunky](https://www.befunky.com/)
+* [Resize Pixel](https://www.resizepixel.com/)
+* [Polotno Studio](https://studio.polotno.com/)
+* [OIE](https://www.online-image-editor.com/)
+* [IMG online](https://www.imgonline.com.ua/eng/)
+* [BitMappery](https://www.igorski.nl/application/bitmappery/)
+* [Kapwing](https://www.kapwing.com/)
+* [Photoshop.adobe](https://photoshop.adobe.com/)
+* [ILoveImg](https://www.iloveimg.com/photo-editor)
+* [Panzoid](https://panzoid.com/)
+* [Stet](https://stet.io/)
+* [GifGit](https://www.gifgit.com/)
+* [Polarr](https://photoeditor.polarr.co/)
+* [UpperPix](https://upperpix.com/)
+* [webp2jpg](https://renzhezhilu.github.io/webp2jpg-online/)
+* [Picverse](https://www.picverse.com/)
+* [Image Online](https://pencilsketch.imageonline.co/)
+* [Fotor](https://www.fotor.com/)
+* [PictureEditor](https://www.pictureeditor.com/)
+* [PhotoStack](https://edit.photostack.app/)
+* [Facet](https://facet.ai/)
+* [Peko-Step](https://www.peko-step.com/en/tool/imageeditor.html)
+* [ImageOnline](https://imageonline.co/)
+* [Tom's Editor](https://tomseditor.com/)
+* [CutMyPic](http://www.cutmypic.com/)
+* [edit.photo](https://edit.photo/)
+* [Image Resizer](https://www.image-resizer.eu/)
+
+***
+
+## ▷ Image Upscalers
+
+* ↪️ **[Waifu2x Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_waifu2x_tools)**
+* ↪️ **[Esrgan Models](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_esrgan_models)**
+* ⭐ **[chaiNNer](https://github.com/chaiNNer-org/chaiNNer)**
+* ⭐ **[Upscale Wiki](https://upscale.wiki/wiki/Main_Page)** - Image Upscaling Wiki
+* ⭐ **[OpenModelDB](https://openmodeldb.info/)** - AI Upscaling Model Database
+* [Waifu2x](https://github.com/nagadomi/waifu2x)
+* [Upscayl](https://github.com/upscayl/upscayl)
+* [upscaler](https://icons8.com/upscaler)
+* [Bigjpg](https://bigjpg.com/)
+* [Crunch](https://github.com/chrissimpkins/Crunch)
+* [PNG-Upscale](https://github.com/Araxeus/PNG-Upscale)
+* [Cupscale](https://github.com/n00mkrad/cupscale)
+* [Upscaler Stockphotos](https://upscaler.stockphotos.com/)
+* [ImageUpscaler](https://imageupscaler.com/) / [2](https://image-upscaler.beatsnoop.com/)
+* [Upscale Media](https://www.upscale.media/)
+* [Zyro Upscaler](https://zyro.com/tools/image-upscaler)
+* [Nicescaler](https://github.com/Djdefrag/NiceScaler)
+* [DFDNet](https://github.com/csxmli2016/DFDNet)
+* [Nero AI](https://ai.nero.com/image-upscaler)
+* [SDUpscale](https://rentry.org/sdupscale)
+* [JPEG Quantsmooth](https://github.com/ilyakurdyukov/jpeg-quantsmooth)
+* [imgupscaler](https://imgupscaler.com/)
+* [torch-srgan](https://deepai.org/machine-learning-model/torch-srgan)
+* [ultimate-upscale](https://github.com/Coyote-A/ultimate-upscale-for-automatic1111)
+* [multidiffusion-upscaler](https://github.com/pkuliyi2015/multidiffusion-upscaler-for-automatic1111)
+* [QualityScaler](https://github.com/Djdefrag/QualityScaler)
 
 ***
 
 ## ▷ Resize / Compress
 
-* ↪️ **[Image Upscalers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_image_upscalers)** - Upscale Images
 * ⭐ **[Pingo](https://css-ig.net/pingo)** / [GUI](https://css-ig.net/pinga), [RIOT](https://riot-optimizer.com/), [YOGA](https://yoga.flozz.org/) or [ImageFoo](https://imagefoo.com/) - Image Optimization Tools
 * [Croppola](https://croppola.com/), [Freehand Cropper](https://half-6.github.io/lf-freehand-cropper/), [Bulk Image Crop](https://bulkimagecrop.com/), [Innocenzi](https://avatar.innocenzi.dev/), [CropHere](https://crophere.com/) or [Avatar Cropper](https://avatarcropper.com/) - Cropping Tools
 * [Seopix](https://www.seopix.io/), [zara4](https://zara4.com/), [Shrink Media](https://www.shrink.media/) or [Reduce Images](https://www.reduceimages.com/) - Resize / Compress Images
@@ -284,12 +354,12 @@
 * ↪️ **[Media Covers / Posters](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_covers_.2F_posters)**
 * ⭐ **[Search Anything](https://search.anything.io/)**, [Yandex Images](https://yandex.ru/images) or [Google Images](https://images.google.com/) - Image Search Engines
 * ⭐ **[gallery-dl](https://github.com/mikf/gallery-dl)**, [RipMe](https://github.com/RipMeApp/ripme), [ImgDownloader](https://imgdownloader.com/), [SCrawler](https://github.com/AAndyProgram/SCrawler) or [Image Extractor](https://extract.pics/) - Image Download Tools
-* [Search System](https://www.searchsystem.co/) - Design Examples
+* [Dezoomify](https://dezoomify.ophir.dev/) - Download Zoomable Images
 * [Have I Been Trained?](https://haveibeentrained.com/) - AI Image Search
 * [Clip Retrieval](https://rom1504.github.io/clip-retrieval/) - Clip Retrieval System
-* [RootAbout](https://rootabout.com/) - Archive / OpenlLibrary Reverse Image Search 
-* [PicTriev](http://www.pictriev.com/) - Find Look-Alike Images 
-* [PimEyes](https://pimeyes.com/en/) - Reverse Face Image Search 
+* [RootAbout](https://rootabout.com/) - Archive / OpenlLibrary Reverse Image Search
+* [PicTriev](http://www.pictriev.com/) - Find Look-Alike Images
+* [PimEyes](https://pimeyes.com/en/) - Reverse Face Image Search
 * [Multicolr](https://labs.tineye.com/multicolr/) - Color Based Reverse Image Search
 * [pfps.gg](https://pfps.gg/) - Profile Picture Index
 * [OpenMoji](https://openmoji.org/) - Emojis
