@@ -380,6 +380,8 @@
 
 * **Note** - Monthly prices are based on annual plans. 2TB prices are halved for comparison if a 1TB plan doesn't exist for a service.
 
+***
+
 * ⭐ **[Cloud Storage Comparisions](https://eylenburg.github.io/cloud_comparison.htm)** - Compare Cloud Storage Polices
 * ⭐ **[RClone](https://rclone.org/)** - Cloud Storage Manager
 * ⭐ **RClone Tools** - [Guide](https://telegra.ph/Simple-rclone-usage-01-13) / [WebUI](https://github.com/rclone/rclone-webui-react), [2](https://github.com/MinorMole/RcloneBrowser-Portable) / [GUI](https://github.com/kapitainsky/RcloneBrowser) / [Colab](https://colab.research.google.com/github/szyha/RcloneLabArchive/blob/master/RcloneLab.ipynb) / [Telegram](https://t.me/rclonexbot) / [Mirror Manager](https://github.com/Syzygianinfern0/RClone-Mirror-Manager) / [Transfer Tool](https://github.com/TheCaduceus/Multi-Cloud-Transfer-Tool)
@@ -402,7 +404,7 @@
 * [JumpShare](https://jumpshare.com/) - 2GB Free / $8.25 for 1TB
 * [MrOwl](https://www.mrowl.com/) - 10GB Free / ~$16.67 for 1TB
 * [storj](https://www.storj.io/) - 25GB Free / ~$4 for 1TB
-* [xpipe](https://github.com/xpipe-io/xpipe)
+* [xpipe](https://github.com/xpipe-io/xpipe) - Remote File Manager
 * [bookmarkfs](https://github.com/CoolElectronics/bookmarkfs) - Chrome's Profile Sync Cloud Storage
 * [InfiniDrive](https://github.com/nicomda/InfiniDrive) - Amazon Prime Photos Cloud Storage
 * [OneDriveFly](https://github.com/Tai7sy/OneDriveFly) or [OneDrive Vercel Index](https://ovi.swo.moe/) - OneDrive Indexes
