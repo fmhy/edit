@@ -172,6 +172,7 @@
 ## ▷ Backup / Recovery
 
 * ⭐ **[TestDisk](https://www.cgsecurity.org/wiki/TestDisk)** - File Recovery
+* ⭐ **[freefilesync](https://freefilesync.org/)**
 * [MultiPar](https://github.com/Yutaka-Sawada/MultiPar) - Prevent File Corruption / [Guide](https://youtu.be/5TsExiAsCXA)
 * [ShadowExplorer](https://www.shadowexplorer.com/) or [ShadowCopyView](https://www.nirsoft.net/utils/shadow_copy_view.html/) - Shadow Copy Explorers
 * [FolderClone](https://www.folderclone.com/) - Clone / Backup Folders
@@ -264,6 +265,7 @@
 * ⭐ **[1fichier](https://1fichier.com/)** - 300GB / 15 days (30 days if you sign-up)
 * ⭐ **[Send.cm](https://send.cm/)** - 100GB / 15 days
 * ⭐ **[oshi](https://oshi.at/)** - 5GB / 90 days
+* ⭐ **[Catbox.moe](https://catbox.moe/)** - 200MB / Forever
 * ⭐ **[hexupload](https://www.hexupload.net/)** - 15GB / 60 days
 * ⭐ **[mixdrop](https://mixdrop.ag/)** - 2GB / 60 Days
 * ⭐ **[Qiwi](https://qiwi.gg)** - [Warning](https://pastebin.com/jn90QMEt)
@@ -284,7 +286,6 @@
 * [doodrive](https://doodrive.com/) - 2GB / 30 days
 * [sfile](https://sfile.mobi/) - 100MB / 5gb total / Forever
 * [krakenfiles](https://krakenfiles.com/) - 1GB / 90 days
-* [Catbox.moe](https://catbox.moe/) - 200MB / Forever
 * [fileconvoy](https://www.fileconvoy.com/) - 3GB / 21 days total
 * [filetransfer](https://filetransfer.io/) - 6GB / 21 days total / 50 download limit
 * [swisstransfer](https://www.swisstransfer.com/en) - 50GB / 30 days total / 250 download limit
@@ -307,13 +308,12 @@
 ## ▷ File / Network Sync
 
 * ⭐ **[SyncThing](https://syncthing.net/)**
-* ⭐ **[Snapdrop](https://snapdrop.net/)** / [Instances](https://github.com/RobinLinus/snapdrop/blob/master/docs/faq.md##inofficial-instances) or [pairdrop](https://pairdrop.net/)
 * ⭐ **[ToffeeShare](https://toffeeshare.com/)**
 * ⭐ **[Transfer.sh](https://transfer.sh/)**
-* ⭐ **[freefilesync](https://freefilesync.org/)**
 * ⭐ **[Blaze](https://blaze.vercel.app/)** / [GitHub](https://github.com/blenderskool/blaze)
 * ⭐ **[wormhole](https://wormhole.app/)**
 * ⭐ **[LocalSend](https://localsend.org/)** / [Platforms](https://i.ibb.co/nsfMf04/8010dd28ed2d.png), [Warpinator](https://github.com/linuxmint/warpinator), [QRServ](https://github.com/uintdev/qrserv) or [MyPhoneExplorer](https://www.fjsoft.at/) - Sync Files Between Phone / Desktop
+* [pairdrop](https://pairdrop.net/)
 * [Linux Reader](https://www.diskinternals.com/linux-reader/) - Access Linux Files on Windows
 * [dropbox](https://www.dropbox.com/) / [Client](https://github.com/SamSchott/maestral)
 * [keybase](https://book.keybase.io/docs/files)
@@ -459,10 +459,9 @@
 * [GD-EFC Link Encryptor](https://rekulous.github.io/gd-efc-encryptor/) - Google Drive Link Encryptor for GD-EFC
 * [gd-efc](https://anadius.github.io/gd-efc/) - Copy Encrypted Google Drive 
 * [goodls](https://github.com/tanaikech/goodls) - Google Drive Downloader
-* [gdurl](https://gdurl.com/), [publiclinks](https://publiclinks.hashhackers.com/) or [google-drive-direct-link-generator/](https://www.wonderplugin.com/online-tools/google-drive-direct-link-generator/) - Direct GDrive Link Generators
+* [gdurl](https://gdurl.com/), [gDrive-DirectLink](https://github.com/jagrit007/gDrive-DirectLink), [google-drive-direct-link-generator/](https://www.wonderplugin.com/online-tools/google-drive-direct-link-generator/) - Direct GDrive Link Generators
 * [Backup System](https://github.com/danielpy108/BackUpMySystem) - Backup Google Drive
 * [Gdrive Guide-Noob Friendly](https://telegra.ph/Gdrive-Guide-Noob-Friendly-04-10) - GDrive Guide 
-* [gDrive-DirectLink](https://github.com/jagrit007/gDrive-DirectLink) or [google-drive-direct-link-generator](https://www.wonderplugin.com/online-tools/google-drive-direct-link-generator/) - GDrive File Direct Link Generator
 * [Google Drivac](https://github.com/Data-Horde/gdrivac) - Associate Gdrive Account with URL List
 * [Shared Drives Creator Website](https://github.com/MsGsuite/Shared-Drives-Creator-Website) - Create & host a Shared Drive Generator Website
 
