@@ -416,7 +416,7 @@
 * [T-Drive](https://apps.microsoft.com/store/detail/tdrive/9MVD1PKDTXSN)
 * [JumpShare](https://jumpshare.com/)
 * [xpipe](https://github.com/xpipe-io/xpipe)
-* [Linx Server](https://github.com/andreimarcu/linx-server), [onedrive-vercel-index](https://github.com/spencerwooo/onedrive-vercel-index), [SeaFile](https://www.seafile.com/en/home/) or [FileStash](https://www.filestash.app/) - Self-Hosted Cloud Storage / [Fork](https://github.com/ZizzyDizzyMC/linx-server/)
+* [SeaFile](https://www.seafile.com/en/home/) or [FileStash](https://www.filestash.app/) - Self-Hosted Cloud Storage / [Fork](https://github.com/ZizzyDizzyMC/linx-server/)
 
 ***
 
