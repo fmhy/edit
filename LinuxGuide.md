@@ -15,7 +15,7 @@
 * ⭐ **[WineHQ](https://appdb.winehq.org/)** - Wine Compatibility Database
 * ⭐ **[Q4Wine](https://sourceforge.net/projects/q4wine/)** - Wine GUI
 * ⭐ **[AppImageLauncher](https://github.com/TheAssassin/AppImageLauncher)** - App Image Launcher
-* [winetricks](https://github.com/Winetricks/winetricks) - Wine Fixes
+* ⭐ **[winetricks](https://github.com/Winetricks/winetricks)** - Wine Fixes
 * [winapps](https://github.com/Fmstrat/winapps), [Cassowary](https://github.com/casualsnek/cassowary) - Interface Windows apps in a VM
 * [wslu](https://github.com/wslutilities/wslu) - Utilities for Windows 10 Linux Subsystem
 * [Darling](https://www.darlinghq.org/) - Run MacOS Apps on Linux
@@ -124,6 +124,7 @@
 
 ## ▷ Linux Images
 
+* ⭐ **[Flameshot](https://flameshot.org/)** - Screenshot Tool
 * ⭐ **[TextSnatcher](https://github.com/RajSolai/TextSnatcher)** or [Frog](https://tenderowl.com/work/frog/) - Image to Text
 * [photoshopCClinux](https://github.com/Gictorbit/photoshopCClinux) - Linux Photoshop Installer
 * [V4L2Loopback](https://github.com/umlaeute/v4l2loopback) - Create Virtual Cameras
@@ -134,7 +135,6 @@
 * [Trimage](https://trimage.org/) - Image Compressor
 * [MkPosters](https://github.com/patrick-kidger/mkposters) - Turn Markdown Files into Posters
 * [Rapid](https://damonlynch.net/rapid/) - Quick Linux Photo Importer
-* [Flameshot](https://flameshot.org/) - Screenshot Tool
 
 ***
 
@@ -154,7 +154,6 @@
 * [GameHub](https://tkashkin.github.io/projects/gamehub/), [UnderTaker141](https://github.com/AbdelrhmanNile/UnderTaker141) or [Steal](https://github.com/AbdelrhmanNile/steal) - Game Managers
 * [RuTracker](https://rutracker.org/forum/viewforum.php?f=899) - Linux Games / [Translator](https://github.com/FilipePS/Traduzir-paginas-web#install) / [Wiki](http://rutracker.wiki/) / [Rules](https://rutracker.org/forum/viewtopic.php?t=1045)
 * [winesapOS](https://github.com/LukeShortCloud/winesapOS) - Play Games on Storage Devices 
-* [Gaming-on-Linux Wiki](https://www.gamingonlinux.com/) - Wiki for Linux Gaming / [Sub Wiki](https://linux-gaming.kwindu.eu/)
 * [Gamebuntu](https://discourse.ubuntu.com/t/gamebuntu/25544/13) - Setup Gaming Environment on Ubuntu / [GitLab](https://gitlab.com/rswat09/gamebuntu)
 * [wine-wayland](https://github.com/varmd/wine-wayland) - Play DX9/DX11 / Vulkan Games
 * [Lakka](https://lakka.tv/) - Retro Gaming Distro
