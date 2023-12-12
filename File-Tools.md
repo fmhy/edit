@@ -265,6 +265,7 @@
 * ⭐ **[Send.cm](https://send.cm/)** - 100GB / 15 days
 * ⭐ **[oshi](https://oshi.at/)** - 5GB / 90 days
 * ⭐ **[hexupload](https://www.hexupload.net/)** - 15GB / 60 days
+* ⭐ **[mixdrop](https://mixdrop.ag/)** - 2GB / 60 Days
 * ⭐ **[Qiwi](https://qiwi.gg)** - [Warning](https://pastebin.com/jn90QMEt)
 * [Z-o-o-m](https://z-o-o-m.eu/), [MirrorAce](https://mirrorace.com/), [MultiUp](https://multiup.eu/) / [2](https://multiup.org/), [Mirrorcreator](https://www.mirrored.to/) or [PlowShare](https://github.com/mcrapet/plowshare) - Multi Host Uploaders
 * [send](https://gitlab.com/timvisee/send) / [instances](https://gitlab.com/timvisee/send-instances)
