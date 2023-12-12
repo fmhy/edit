@@ -224,7 +224,6 @@
 * [xPDFReader](https://www.xpdfreader.com/), [PDFBox](https://pdfbox.apache.org/) or [OpenPDF](https://github.com/LibrePDF/OpenPDF) - PDF Editors / Toolkits
 * [PDFGrep](https://pdfgrep.org/) - PDF Text Search
 * [invert-pdf.club](https://invert-pdf.club/) - Invert PDF Color / [Github](https://github.com/keotl/invert-pdf)
-* [invert-pdf.club](https://invert-pdf.club/) - PDF Color Inverter
 * [online2pdf](https://online2pdf.com/) or [2PDFConverter](https://www.2pdfconverter.com/) - Convert Files to PDF
 * [PDFConverter](https://www.pdfconverter.com/) or [PDFconvert](https://docupub.com/pdfconvert/) - PDF File Convters 
 * [Adobe Compress PDF](https://www.adobe.com/acrobat/online/compress-pdf.html) - PDF Compressor
@@ -402,28 +401,18 @@
 * [AList](https://github.com/alist-org/alist) - Cloud Storage Manager
 * [dropbox](https://www.dropbox.com/) / [Client](https://github.com/SamSchott/maestral)
 * [disk.yandex](https://disk.yandex.com/)
-* [uploadingporn](https://uploadingporn.com/)
 * [unlimcloud](https://www.unlimcloud.cloud/)
 * [terabox](https://terabox.com/)
 * [mediafire](https://www.mediafire.com/)
-* [youdbox](https://youdboox.com/)
 * [depositFiles](https://depositfiles.com/)
 * [icedrive](https://icedrive.net/)
-* [degoo](https://degoo.com/)
-* [aliyundrive](https://www.aliyundrive.com/)
-* [backblaze](https://www.backblaze.com/)
 * [perkeep](https://perkeep.org/)
 * [MrOwl](https://www.mrowl.com/)
 * [FireLoad](https://www.fireload.com/)
 * [storj](https://www.storj.io/)
 * [PCloud](https://www.pcloud.com/)
-* [myDrive](https://mydrive-storage.com/)
-* [KodCloud](https://kodcloud.com/)
-* [Infinity Upload](https://infinity-upload.com/)
-* [Blackhole](https://blackhole.run/)
 * [filelu](https://filelu.com/)
 * [File.love](https://file.love/)
-* [Blomp](https://www.blomp.com/) / [200GB Trick](https://pastebin.com/aPWjWbqn)
 * [T-Drive](https://apps.microsoft.com/store/detail/tdrive/9MVD1PKDTXSN)
 * [JumpShare](https://jumpshare.com/)
 * [xpipe](https://github.com/xpipe-io/xpipe)
@@ -445,14 +434,13 @@
 * [gogdl-ng](https://github.com/gogdl-ng/gogdl-ng) - Google Drive Bulk Downloader
 * [GDrive Downloader](https://github.com/Akianonymus/gdrive-downloader) - Google Drive Folder Downloader
 * [gdrivedl](https://github.com/matthuisman/gdrivedl) - Google Drive Python Download Script
-* [Recursive GoIndex Downloader](https://github.com/atlonxp/recursive-goIndex-downloader) or [GoIndex-Downloader](https://github.com/piyush2947/) - GoIndex to GDrive Downloader
+* [GoIndex-Downloader](https://github.com/piyush2947/) - GoIndex to GDrive Downloader
 * [GDriveSearcherBot](https://github.com/TheHamkerCat/GdriveSearcherBot) - GDrive Search Bot
 * [gd-utils](https://github.com/roshanconnor123/gd-utils) / [2](https://nenokkadine.github.io/GD-Utils/) - Google Drive Limit Bypass
 * [Google Service Accounts](https://github.com/TheCaduceus/CloneBot_V2#-service-accounts) - How-to Create Google Service Accounts
 * [ISAAC](https://github.com/harryeffinpotter/ISAAC) - Google Service Account Generators
 * [G-Index](https://github.com/LeeluPradhan/G-Index), [goindex](https://github.com/alx-xlx/goindex) / [Extended](https://github.com/menukaonline/goindex-extended) / [Themes](https://install.kenci.workers.dev/), [GDIndex](https://github.com/maple3142/GDIndex), [Google-Drive-Index](https://gitlab.com/GoogleDriveIndex/Google-Drive-Index) or [libDrive](https://github.com/libDrive/heroku) - Google Drive Indexers
 * [Decrypt.Hashhackers](https://decrypt.hashhackers.com/) - Encrypt / Decrypt GDrive
-* [Extract_Zip](https://colab.research.google.com/drive/1L74g3bsV0YEMbDSUj4Kxrwi26mgjxVpp?usp=sharing) - Extract Zip Files in GDrive
 * [Direct.GDrive](https://direct.gdrive.vip/en/), [Maulvi](https://maulvi.github.io/), [Google Drive Direct Links](https://greasyfork.org/en/scripts/10052) or [Sharer](https://sharer.pw/) - Host Direct Links on GDrive 
 * [CloneBot](https://github.com/MsGsuite/CloneBot_Heroku) - Copy GDrive to TeamDrive
 * [GD-EFC Link Encryptor](https://rekulous.github.io/gd-efc-encryptor/) - Google Drive Link Encryptor for GD-EFC
@@ -470,8 +458,5 @@
 * [megatools](https://megatools.megous.com/) - Mega CLI
 * [Mega-Downloader](https://github.com/ZonD80/mega-downloader) - Mega Download Script
 * [Mega.nz-Rclone-Index-Heroku](https://github.com/developeranaz/Mega-index-heroku) - Mega to HTTP
-* [Keep Mega Alive](https://github.com/3ncod3/keep-mega-alive) - Mega Account Auto-Login
 * [MegaKeep](https://github.com/maybecryptic/MegaKeep) - Login to Multiple Mega Accounts
-* [mega-account-generator](https://github.com/lem6ns/mega-account-generator), [2](https://github.com/crackhub-dev/mega-account-generator) - Mega Account Generators
-* [Mega Checker](https://github.com/Titoot/mega-checker) - Mega Link Checker
 * [Mega-index-heroku](https://github.com/developeranaz/Mega-index-heroku) - Serve Mega to HTTP via Heroku
