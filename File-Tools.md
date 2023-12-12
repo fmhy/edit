@@ -361,7 +361,6 @@
 * [WebWormhole](https://webwormhole.io/)
 * [Destiny](https://github.com/LeastAuthority/destiny)
 * [filepress](https://new.filepress.store/)
-* [consyn](https://consyn.io/)
 * [sharrr](https://www.sharrr.com/)
 * [Photon](https://photondev.netlify.app/)
 * [rsync](https://github.com/WayneD/rsync)
