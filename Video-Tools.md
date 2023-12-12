@@ -94,7 +94,7 @@
 * [VideoConverter](https://videoconverter.com/)
 * [Boram](https://github.com/Kagami/boram/)
 * [selur](https://www.selur.de/)
-* [vvenc](https://github.com/fraunhoferhhi/vvenc), [vvdec](https://github.com/fraunhoferhhi/vvdec), [VVCEasy](https://github.com/MartinEesmaa/VVCEasy), [VVC-GUI](https://github.com/Disa-Kizonda/VVC-GUI-Encoder) or [VVC-Tools](https://github.com/YUKI2eN3e/VVC-Tools) - VVC Encode / Decode
+* [vvenc](https://github.com/fraunhoferhhi/vvenc), [vvdec](https://github.com/fraunhoferhhi/vvdec), [VVCEasy](https://github.com/MartinEesmaa/VVCEasy) or [VVC-Tools](https://github.com/YUKI2eN3e/VVC-Tools) - VVC Encode / Decode
 
 ***
 
