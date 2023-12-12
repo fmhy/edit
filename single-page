@@ -1436,7 +1436,6 @@
 * [xPDFReader](https://www.xpdfreader.com/), [PDFBox](https://pdfbox.apache.org/) or [OpenPDF](https://github.com/LibrePDF/OpenPDF) - PDF Editors / Toolkits
 * [PDFGrep](https://pdfgrep.org/) - PDF Text Search
 * [invert-pdf.club](https://invert-pdf.club/) - Invert PDF Color / [Github](https://github.com/keotl/invert-pdf)
-* [invert-pdf.club](https://invert-pdf.club/) - PDF Color Inverter
 * [online2pdf](https://online2pdf.com/) or [2PDFConverter](https://www.2pdfconverter.com/) - Convert Files to PDF
 * [PDFConverter](https://www.pdfconverter.com/) or [PDFconvert](https://docupub.com/pdfconvert/) - PDF File Convters 
 * [Adobe Compress PDF](https://www.adobe.com/acrobat/online/compress-pdf.html) - PDF Compressor
@@ -1614,32 +1613,22 @@
 * [AList](https://github.com/alist-org/alist) - Cloud Storage Manager
 * [dropbox](https://www.dropbox.com/) / [Client](https://github.com/SamSchott/maestral)
 * [disk.yandex](https://disk.yandex.com/)
-* [uploadingporn](https://uploadingporn.com/)
 * [unlimcloud](https://www.unlimcloud.cloud/)
 * [terabox](https://terabox.com/)
 * [mediafire](https://www.mediafire.com/)
-* [youdbox](https://youdboox.com/)
 * [depositFiles](https://depositfiles.com/)
 * [icedrive](https://icedrive.net/)
-* [degoo](https://degoo.com/)
-* [aliyundrive](https://www.aliyundrive.com/)
-* [backblaze](https://www.backblaze.com/)
 * [perkeep](https://perkeep.org/)
 * [MrOwl](https://www.mrowl.com/)
 * [FireLoad](https://www.fireload.com/)
 * [storj](https://www.storj.io/)
 * [PCloud](https://www.pcloud.com/)
-* [myDrive](https://mydrive-storage.com/)
-* [KodCloud](https://kodcloud.com/)
-* [Infinity Upload](https://infinity-upload.com/)
-* [Blackhole](https://blackhole.run/)
 * [filelu](https://filelu.com/)
 * [File.love](https://file.love/)
-* [Blomp](https://www.blomp.com/) / [200GB Trick](https://pastebin.com/aPWjWbqn)
 * [T-Drive](https://apps.microsoft.com/store/detail/tdrive/9MVD1PKDTXSN)
 * [JumpShare](https://jumpshare.com/)
 * [xpipe](https://github.com/xpipe-io/xpipe)
-* [Linx Server](https://github.com/andreimarcu/linx-server), [onedrive-vercel-index](https://github.com/spencerwooo/onedrive-vercel-index), [SeaFile](https://www.seafile.com/en/home/) or [FileStash](https://www.filestash.app/) - Self-Hosted Cloud Storage / [Fork](https://github.com/ZizzyDizzyMC/linx-server/)
+* [SeaFile](https://www.seafile.com/en/home/) or [FileStash](https://www.filestash.app/) - Self-Hosted Cloud Storage / [Fork](https://github.com/ZizzyDizzyMC/linx-server/)
 
 ***
 
@@ -1657,14 +1646,13 @@
 * [gogdl-ng](https://github.com/gogdl-ng/gogdl-ng) - Google Drive Bulk Downloader
 * [GDrive Downloader](https://github.com/Akianonymus/gdrive-downloader) - Google Drive Folder Downloader
 * [gdrivedl](https://github.com/matthuisman/gdrivedl) - Google Drive Python Download Script
-* [Recursive GoIndex Downloader](https://github.com/atlonxp/recursive-goIndex-downloader) or [GoIndex-Downloader](https://github.com/piyush2947/) - GoIndex to GDrive Downloader
+* [GoIndex-Downloader](https://github.com/piyush2947/) - GoIndex to GDrive Downloader
 * [GDriveSearcherBot](https://github.com/TheHamkerCat/GdriveSearcherBot) - GDrive Search Bot
 * [gd-utils](https://github.com/roshanconnor123/gd-utils) / [2](https://nenokkadine.github.io/GD-Utils/) - Google Drive Limit Bypass
 * [Google Service Accounts](https://github.com/TheCaduceus/CloneBot_V2#-service-accounts) - How-to Create Google Service Accounts
 * [ISAAC](https://github.com/harryeffinpotter/ISAAC) - Google Service Account Generators
 * [G-Index](https://github.com/LeeluPradhan/G-Index), [goindex](https://github.com/alx-xlx/goindex) / [Extended](https://github.com/menukaonline/goindex-extended) / [Themes](https://install.kenci.workers.dev/), [GDIndex](https://github.com/maple3142/GDIndex), [Google-Drive-Index](https://gitlab.com/GoogleDriveIndex/Google-Drive-Index) or [libDrive](https://github.com/libDrive/heroku) - Google Drive Indexers
 * [Decrypt.Hashhackers](https://decrypt.hashhackers.com/) - Encrypt / Decrypt GDrive
-* [Extract_Zip](https://colab.research.google.com/drive/1L74g3bsV0YEMbDSUj4Kxrwi26mgjxVpp?usp=sharing) - Extract Zip Files in GDrive
 * [Direct.GDrive](https://direct.gdrive.vip/en/), [Maulvi](https://maulvi.github.io/), [Google Drive Direct Links](https://greasyfork.org/en/scripts/10052) or [Sharer](https://sharer.pw/) - Host Direct Links on GDrive 
 * [CloneBot](https://github.com/MsGsuite/CloneBot_Heroku) - Copy GDrive to TeamDrive
 * [GD-EFC Link Encryptor](https://rekulous.github.io/gd-efc-encryptor/) - Google Drive Link Encryptor for GD-EFC
@@ -1682,10 +1670,7 @@
 * [megatools](https://megatools.megous.com/) - Mega CLI
 * [Mega-Downloader](https://github.com/ZonD80/mega-downloader) - Mega Download Script
 * [Mega.nz-Rclone-Index-Heroku](https://github.com/developeranaz/Mega-index-heroku) - Mega to HTTP
-* [Keep Mega Alive](https://github.com/3ncod3/keep-mega-alive) - Mega Account Auto-Login
 * [MegaKeep](https://github.com/maybecryptic/MegaKeep) - Login to Multiple Mega Accounts
-* [mega-account-generator](https://github.com/lem6ns/mega-account-generator), [2](https://github.com/crackhub-dev/mega-account-generator) - Mega Account Generators
-* [Mega Checker](https://github.com/Titoot/mega-checker) - Mega Link Checker
 * [Mega-index-heroku](https://github.com/developeranaz/Mega-index-heroku) - Serve Mega to HTTP via Heroku
 ***
 ***
@@ -3360,7 +3345,7 @@
 * [WiFi-Password](https://github.com/sdushantha/wifi-password) - Fetch WiFi Password / Generate QR Code
 * [Hosts File Editor](https://hostsfileeditor.com/) or [HostsDock](https://eshengsky.github.io/HostsDock/) - Windows Hosts File Editors
 * [MAC Address](https://mac-address.alldatafeeds.com/mac-address-lookup) - Check MAC Address
-* [Masscan-ng](https://github.com/bi-zone/masscan-ng), [PortChecker](https://portchecker.co/), [PortCheckers](https://www.portcheckers.com/), [RustCat](https://github.com/robiot/rustcat) or [CanYouSeeMe](https://canyouseeme.org/) - Port Checkers
+* [PortChecker](https://portchecker.co/), [PortCheckers](https://www.portcheckers.com/), [RustCat](https://github.com/robiot/rustcat) or [CanYouSeeMe](https://canyouseeme.org/) - Port Checkers
 * [Bufferbloat Test](https://www.waveform.com/tools/bufferbloat) - Test Bufferbloat
 * [PacketSender](https://packetsender.com/) - Packet Sender
 * [Packet Loss Test](https://packetlosstest.com/) - Speed Test
@@ -4171,7 +4156,7 @@
 * ⭐ **[BetterDiscord](https://betterdiscord.app/)** - Modifiable Discord Client / [GitHub](https://github.com/BetterDiscord/BetterDiscord)
 * ⭐ **BetterDiscord Tools** - [Plugins](https://betterdiscord.app/plugins), [Themes](https://betterdiscord.app/themes), [Theme Editor](https://bdeditor.dev/), [Support](https://discord.gg/0Tmfo5ZbORCRqbAd), [Nitro](https://github.com/riolubruh/YABDP4Nitro), [Message Panel](https://github.com/SanjaySunil/BetterDiscordPanel)
 * ⭐ **[Vencord](https://vencord.dev/)** - Modded Discord Client / [Github](https://github.com/Vendicated/Vencord)
-* ⭐ **[Discohook](https://discohook.org/)** / [Discohook Utils](https://dutils.shay.cat/), [PSDiscord](https://github.com/EvotecIT/PSDiscord) or [Embed Generator](https://message.style/) - Embed Generators
+* ⭐ **[Discohook](https://discohook.org/)** / [Discohook Utils](https://dutils.shay.cat/) or [Embed Generator](https://message.style/) - Embed Generators
 * ⭐ **[CustomRP](https://www.customrp.xyz/)** - Customize Discord Rich Presence
 * ⭐ **[Revolt](https://revolt.chat/)** or [Guilded](https://www.guilded.gg/) / [Mod](https://github.com/ReGuilded/ReGuilded/) - Discord Alternatives
 * ⭐ **Revolt Tools** - [Bots](https://rvlt.gg/discover/bots) / [Resources](https://github.com/insertish/awesome-revolt) / [Divolt Resources](https://github.com/ggtylerr/awesome-divolt)
@@ -4248,7 +4233,6 @@
 * [fmbot](https://fmbot.xyz/) - Discord Voice Chat Scrobbling
 * [Craig](https://craig.chat/) - Voice Channel Recorder / [Backup](https://craig.chat/giarc/)
 * [Discord Chat Exporter](https://github.com/Tyrrrz/DiscordChatExporter) / [Python](https://github.com/mahtoid/DiscordChatExporterPy), [discard2](https://github.com/Sanqui/discard2), [Discord History Tracker](https://dht.chylex.com/) / [GitHub](https://github.com/chylex/Discord-History-Tracker) or [discord-archiver](https://github.com/nektro/discord-archiver) - Archive / Export Discord Chats
-* [Discord URL Extractor](https://github.com/TheTechRobo/discord-urls-extractor) - Extract URLs from Discord Chats
 * [anti-phishing-bot](https://github.com/Benricheson101/anti-phishing-bot) - Discord Anti Phishing Bot
 * [SunnyDiscord](https://gist.github.com/TheSunCat/58fedaa19d6154ef3e4b2b676c286906) or [Discord Adblock](https://github.com/CroissantDuNord/discord-adblock) - Hide Nitro / Boost Upsells
 * [pullcord](https://github.com/tsudoko/pullcord) - Discord Archiver
@@ -5171,6 +5155,7 @@
 * [Traveler Map](https://travelermap.net/) - National Park Maps
 * [Bike Sharing](https://bikesharingworldmap.com/) - Bike Rental Map
 * [SkyDB](https://www.skydb.net/) - Skyscraper Locations / Info
+* [Google Flights](https://www.google.com/travel/flights) - Book Flights
 * [FlightRadar24](https://www.flightradar24.com/), [FlightStats](https://www.flightstats.com/), [PlaneFinder](https://planefinder.net/), [ADS-B Exchange](https://globe.adsbexchange.com/), [Radarbox](https://www.radarbox.com/) or [FlightAware](https://www.flightaware.com/) - Live Flight Trackers
 * [plane-notify](https://github.com/Jxck-S/plane-notify) - Plane Takeoff Notifications
 * [Misery Map](https://flightaware.com/miserymap/) - Flight Delay Map
@@ -6972,7 +6957,7 @@
 * [Erai-Raws](https://www.erai-raws.info/) - Sub
 * [Play Anime](http://127.0.0.1:43110/1AnimePihDhcbVdK1nvnbSEtH4oKU8RAYG/) - Sub / [ZeroNet Required](https://zeronet.io/)
 * [nyaamal](https://github.com/laxyapahuja/nyaamal) - Add torrents DL's to MAL / Anilist
-* [Miru](https://github.com/ThaUnknown/miru) or [anitor-stream](https://github.com/gan-of-culture/anitor-stream) - Stream Anime Torrents
+* [Miru](https://github.com/ThaUnknown/miru) - Stream Anime Torrents
 * [Aniloader](https://github.com/Xanahol/Aniloader) - Anime Torrent Autodownloader
 
 ***
@@ -9628,6 +9613,7 @@
 * ↪️ **[Windows 10 Antispy Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_windows_10_antispy_tools)**
 * ⭐ **[Privacy.Sexy](https://privacy.sexy/)** - Privacy Scripts 
 * ⭐ **[Password Strength Chart](https://i.ibb.co/vZdqMvm/6728c7ef02e9.png)**
+* ⭐ **[Tails](https://tails.net/)** or [Qubes](https://www.qubes-os.org/) - Privacy-Based Operating Systems
 * [Yubioath](https://developers.yubico.com/yubioath-flutter/), [AuthMe](https://github.com/Levminer/authme), [Protecc](https://github.com/FireCubeStudios/Protecc), [2FAuth](https://github.com/Bubka/2FAuth) or [Tauthy](https://github.com/pwltr/tauthy) - Two-Factor Authentication
 * [PaP](https://trypap.com/) or [PasswordMonster](https://www.passwordmonster.com/) - Password Strength Check
 * [PasswordsGenerator](https://passwordsgenerator.net/) - Secure Password Generator
@@ -9644,7 +9630,6 @@
 * [F-Secure Identity Theft Checker](https://www.f-secure.com/en/identity-theft-checker) - Identity Theft Check
 * [Random User Generator](https://randomuser.me/) - Generate Fake User Details 
 * [FakePhoneNumber](https://fakephonenumber.net/) - Generate Fake Phone Numbers
-* [Tails](https://tails.net/) or [Qubes](https://www.qubes-os.org/) - Privacy-Based Operating Systems
 * [GD EFC](https://anadius.github.io/gd-efc/) - Encrypt / Decrypt GDrive
 * [Filecrypt](https://filecrypt.cc/) - Encrypt File Links
 * [ProtectedZip](https://protectedzip.com/) - Encrypt Zip Files
@@ -12776,7 +12761,6 @@ Use a **[Base64 Decoder](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage
 * [WhatsAppPatcher](https://github.com/Schwartzblat/WhatsAppPatcher) - WhatsApp Patcher
 * [Whatsapp Backup Reader](https://whatsappbr.netlify.app/) - Read Exported Whatsapp Chats
 * [FakeWhats](https://www.fakewhats.com/) or [FakeInfo](https://fakeinfo.net/fake-whatsapp-chat-generator) - Fake WhatsApp Messages
-* [WhatSticker](https://github.com/deven96/whatsticker) - Convert Images, Videos and GIFs to WhatsApp Stickers
 * [Blabber.im](https://blabber.im/) - XMPP / Jabber Messenger
 * [IRCCloud](https://github.com/irccloud/android) or [Revolution IRC](https://github.com/MCMrARM/revolution-irc) - IRC Clients
 * [SnapEnhance](https://github.com/rhunk/SnapEnhance) - Snapchat Client
@@ -12966,7 +12950,7 @@ Use a **[Base64 Decoder](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage
 * [KafkaArchives](https://www.kafkaarchives.com/) - Archive.org Books / Audiobooks
 * [Wikipedia](https://play.google.com/store/apps/details?id=org.wikipedia) - Wikipedia App / [Beta](https://play.google.com/store/apps/details?id=org.wikipedia.beta)
 * [Moon+ Reader](https://www.moondownload.com/) / [Themes](https://rentry.co/moontheme), [CoolReader](https://apt.izzysoft.de/fdroid/index/apk/org.coolreader), [BookReader](https://gitlab.com/axet/android-book-reader) or [Prestigio](https://play.google.com/store/apps/details?id=com.prestigio.ereader) - Ebook Readers
-* [KiyomiPDF](https://github.com/qinlili23333/KiyomiPDF), [Sav PDF Viewer Pro](https://github.com/Sav22999/sav-pdf-viewer-pro) or [Secure PDF Viewer](https://github.com/GrapheneOS/PdfViewer) - PDF Reader
+* [Sav PDF Viewer Pro](https://github.com/Sav22999/sav-pdf-viewer-pro) or [Secure PDF Viewer](https://github.com/GrapheneOS/PdfViewer) - PDF Reader
 * [K2pdfopt](https://willus.com/k2pdfopt/) - Optimize PDF/DJVU Files for Mobile E-Readers
 * [Voice](https://github.com/PaulWoitaschek/Voice), [Simple Audiobook Player](https://play.google.com/store/apps/details?id=mdmt.sabp.free), [Smart Audiobook Player](https://play.google.com/store/apps/details?id=ak.alizandro.smartaudiobookplayer), [AudioAnchor](https://github.com/flackbash/AudioAnchor) or [eStories](https://play.google.com/store/apps/details?id=com.estories) - Audiobook Players
 * [Perfect Viewer](https://github.com/nbats/FMHYedit/blob/main/base64.md#perfect-viewer), [MangaDLR](https://bitbucket.org/cylonu87/mangadlr/downloads/), [Manga Reader](https://flathub.org/apps/details/com.georgefb.mangareader), [Manga Tag](https://www.mangatag.com/), [Meow](https://github.com/neverfelly/Meow), [AnimeChicken](https://animechicken.app/), [Kinoko](https://github.com/gsioteam/kinoko) or [Atsumaru](https://github.com/TheUndo/Atsumaru) - Manga File Viewers
@@ -13054,7 +13038,7 @@ Use a **[Base64 Decoder](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage
 
 * [Rainy Mood](https://play.google.com/store/apps/details?id=com.TailoredMusic.RainyMood), [Raining.fm](https://play.google.com/store/apps/details?id=fm.raining.rainingfm&amp;hl=en) or [Rain Sounds](https://sleeprelaxapps.github.io/rainsounds/) - Ambient Rain
 * [Noizio](https://play.google.com/store/apps/details?id=com.noizio&amp;hl=en_US) - Nature Sounds / Relaxation 
-* [A Soft Murmur](https://play.google.com/store/apps/details?id=com.gabemart.asoftmurmur) or [SoundAura](https://github.com/CliffracerMerchant/SoundAura) - Mix Ambient Sounds
+* [A Soft Murmur](https://play.google.com/store/apps/details?id=com.gabemart.asoftmurmur) - Mix Ambient Sounds
 * [Tide.fm](https://pics.tide.moreless.io/site/tide.apk), [Serenity](https://github.com/YajanaRao/Serenity) or [Noice](https://trynoice.com/) - Meditation / Sleep Sounds
 * [myNoise](https://play.google.com/store/apps/details?id=com.mynoise.mynoise&amp;hl=en) - Background Noises & Interactive Soundscapes
 * [Chroma Doze](https://github.com/pmarks-net/chromadoze) - White Noise Generator
@@ -15585,7 +15569,7 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://70.88.180.169:8
 * [VideoConverter](https://videoconverter.com/)
 * [Boram](https://github.com/Kagami/boram/)
 * [selur](https://www.selur.de/)
-* [vvenc](https://github.com/fraunhoferhhi/vvenc), [vvdec](https://github.com/fraunhoferhhi/vvdec), [VVCEasy](https://github.com/MartinEesmaa/VVCEasy), [VVC-GUI](https://github.com/Disa-Kizonda/VVC-GUI-Encoder) or [VVC-Tools](https://github.com/YUKI2eN3e/VVC-Tools) - VVC Encode / Decode
+* [vvenc](https://github.com/fraunhoferhhi/vvenc), [vvdec](https://github.com/fraunhoferhhi/vvdec), [VVCEasy](https://github.com/MartinEesmaa/VVCEasy) or [VVC-Tools](https://github.com/YUKI2eN3e/VVC-Tools) - VVC Encode / Decode
 
 ***
 
@@ -20763,7 +20747,6 @@ Use [this](https://bitbucket.org/magnolia1234/bypass-paywalls-firefox-clean/src/
 * ⭐ **[Stash](https://stashapp.cc/)** or [AdultMediaManager](https://github.com/adultmm/AdultMediaManager) - Porn File Managers
 * ⭐ **[Bypass Subreddit Blocks](https://pastebin.com/gAAEQnqn)**
 * [Panic Button](https://pastebin.com/mDWBZ7fQ) - Quickly Close All Tabs
-* [UploadingPorn](https://uploadingporn.com/) - NSFW File Host
 * [Javinizer](https://github.com/javinizer/Javinizer) - JAV File Organizer
 * [Unhinged](https://www.unhinged.ai/) - NSFW AI Chatbots
 * [DeepMosaics](https://github.com/HypoX64/DeepMosaics) - Remove Mosaics from Porn
