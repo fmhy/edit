@@ -182,6 +182,7 @@
 * [Coding Questions](https://platform.stratascratch.com/coding) - Coding Interview Questions
 * [NeetCode](https://neetcode.io/) - Coding Interview Practice
 * [Exercism](https://exercism.org/), [HackerRank](https://www.hackerrank.com/) or [CS Circles](https://cscircles.cemc.uwaterloo.ca/) - Programming Lessons
+* [CSES Problemset](https://cses.fi/problemset/) - Collection of Algorithmic Programming Problems
 
 ***
 
