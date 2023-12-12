@@ -218,7 +218,6 @@
 * ⭐ **[Gas Price Map](https://www.gasbuddy.com/gaspricemap)** - US Gas Prices
 * ⭐ **[Parkopedia](https://www.parkopedia.com/)** - Car Parking Locations and Prices
 * ⭐ **[Refuge Restrooms](https://www.refugerestrooms.org/)** - Find Public Restrooms
-* [Google Flights](https://www.google.com/travel/flights) - Book Flights
 * [Best Times to Visit](https://www.thebesttimetovisit.com/) - Find Best Times to Visit Countries
 * [Roadside America](https://www.roadsideamerica.com/), [RoadTrippers](https://roadtrippers.com/) or [MakeMyDriveFun](https://makemydrivefun.com/) - Roadside Attraction Guides
 * [TheSalmons](https://www.thesalmons.org/lynn/whgmap.html) or [World Heritage Sites](https://world-heritage.mapspot.co/) - World Heritage Sites
@@ -228,6 +227,7 @@
 * [Traveler Map](https://travelermap.net/) - National Park Maps
 * [Bike Sharing](https://bikesharingworldmap.com/) - Bike Rental Map
 * [SkyDB](https://www.skydb.net/) - Skyscraper Locations / Info
+* [Google Flights](https://www.google.com/travel/flights) - Book Flights
 * [FlightRadar24](https://www.flightradar24.com/), [FlightStats](https://www.flightstats.com/), [PlaneFinder](https://planefinder.net/), [ADS-B Exchange](https://globe.adsbexchange.com/), [Radarbox](https://www.radarbox.com/) or [FlightAware](https://www.flightaware.com/) - Live Flight Trackers
 * [plane-notify](https://github.com/Jxck-S/plane-notify) - Plane Takeoff Notifications
 * [Misery Map](https://flightaware.com/miserymap/) - Flight Delay Map
