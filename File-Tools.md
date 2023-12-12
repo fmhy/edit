@@ -268,7 +268,7 @@
 * ⭐ **[Qiwi](https://qiwi.gg)** - [Warning](https://pastebin.com/jn90QMEt)
 * [Z-o-o-m](https://z-o-o-m.eu/), [MirrorAce](https://mirrorace.com/), [MultiUp](https://multiup.eu/) / [2](https://multiup.org/), [Mirrorcreator](https://www.mirrored.to/) or [PlowShare](https://github.com/mcrapet/plowshare) - Multi Host Uploaders
 * [send](https://gitlab.com/timvisee/send) / [instances](https://gitlab.com/timvisee/send-instances)
-* [File.cm](https://file.cm/) - 100GB / 30 days / requires sign-up
+* [File.cm](https://file.cm/) - 100GB / 30 days / Signup Required
 * [edisk](https://www.edisk.cz/) - 10GB / 30 days
 * [easyupload](https://easyupload.io/) - 10GB / 50gb total / 30 days
 * [fastupload](https://fastupload.io/en) - 10GB / 30 days
