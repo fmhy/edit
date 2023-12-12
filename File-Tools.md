@@ -255,6 +255,8 @@
 
 * **Note** - Size is per file and time is after the last time someone downloaded that file unless specified.
   
+***
+
 * ⭐ **[Archive.org](https://archive.org/create/)**
 * ⭐ **[Pixeldrain](https://pixeldrain.com/)** - 20GB / 90 days / [Speedtest File](https://pixeldrain.com/api/misc/speedtest)
 * ⭐ **[gofile](https://gofile.io/)** - Unlimited / 10 days
@@ -275,9 +277,9 @@
 * [megaup](https://megaup.net/) - 5GB / 60 days
 * [ufile](https://ufile.io/) - 5GB / 30 days
 * [sendbig](https://www.sendbig.com/) - 5GB / 7 days
-* [alfafile](https://www.alfafile.net/) - 5GB / 30 days (requires sign-up)
+* [alfafile](https://www.alfafile.net/) - 5GB / 30 days / Signup Required
 * [drop.download](https://drop.download/) - 5GB / 15 days
-* [clicknupload](https://clicknupload.co/) - 2GB / 12 days (5gb / 30 days if you sign-up)
+* [clicknupload](https://clicknupload.co/) - 2GB / 12 days / 5gb / 30 days on sign-up
 * [doodrive](https://doodrive.com/) - 2GB / 30 days
 * [sfile](https://sfile.mobi/) - 100MB / 5gb total / Forever
 * [krakenfiles](https://krakenfiles.com/) - 1GB / 90 days
@@ -287,7 +289,7 @@
 * [swisstransfer](https://www.swisstransfer.com/en) - 50GB / 30 days total / 250 download limit
 * [bowfile](https://bowfile.com/) - 5GB / 30 days total
 * [grosfichiers](https://www.grosfichiers.com/) - 10GB / 14 days total
-* [filebin](https://filebin.net/) - Unlimited / 6 days total (Anyone with the link can delete the files, share only with trusted people)
+* [filebin](https://filebin.net/) - Unlimited / 6 days total / Anyone w/ link can delete
 * [fex](https://fex.net/) - 100GB total / 7 days total
 * [Encl](https://encl.io/) - 10gb / 7 days total
 * [SendGB](https://www.sendgb.com/) - 5GB / 7 days total
