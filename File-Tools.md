@@ -74,7 +74,6 @@
 * [pigz](https://zlib.net/pigz/)
 * [GNU Gzip](https://www.gnu.org/software/gzip/)
 * [ezyZip](https://www.ezyzip.com/)
-* [FreeArc](https://sourceforge.net/projects/freearc/)
 * [UltraARC](https://www.fileforums.com/showpost.php?p=476660&postcount=1135)
 * [p7zip-zstd](https://github.com/jinfeihan57/p7zip)
 * [RazorX 2](https://fileforums.com/showthread.php?t=103577&highlight=Razorx)
@@ -450,20 +449,17 @@
 * [GDriveSearcherBot](https://github.com/TheHamkerCat/GdriveSearcherBot) - GDrive Search Bot
 * [gd-utils](https://github.com/roshanconnor123/gd-utils) / [2](https://nenokkadine.github.io/GD-Utils/) - Google Drive Limit Bypass
 * [Google Service Accounts](https://github.com/TheCaduceus/CloneBot_V2#-service-accounts) - How-to Create Google Service Accounts
-* [ISAAC](https://github.com/harryeffinpotter/ISAAC) or [Generate-Service-Accounts](https://github.com/Telestosatt/Generate-Service-Accounts) - Google Service Account Generators
+* [ISAAC](https://github.com/harryeffinpotter/ISAAC) - Google Service Account Generators
 * [G-Index](https://github.com/LeeluPradhan/G-Index), [goindex](https://github.com/alx-xlx/goindex) / [Extended](https://github.com/menukaonline/goindex-extended) / [Themes](https://install.kenci.workers.dev/), [GDIndex](https://github.com/maple3142/GDIndex), [Google-Drive-Index](https://gitlab.com/GoogleDriveIndex/Google-Drive-Index) or [libDrive](https://github.com/libDrive/heroku) - Google Drive Indexers
 * [Decrypt.Hashhackers](https://decrypt.hashhackers.com/) - Encrypt / Decrypt GDrive
 * [Extract_Zip](https://colab.research.google.com/drive/1L74g3bsV0YEMbDSUj4Kxrwi26mgjxVpp?usp=sharing) - Extract Zip Files in GDrive
-* [GDLeech](https://github.com/AdithyanNellickal/GDLeech), [Direct.GDrive](https://direct.gdrive.vip/en/), [Maulvi](https://maulvi.github.io/), [Google Drive Direct Links](https://greasyfork.org/en/scripts/10052) or [Sharer](https://sharer.pw/) - Host Direct Links on GDrive 
-* [CloneBot](https://github.com/MsGsuite/CloneBot_Heroku) or [drive-folder-copier](https://github.com/SingularReza/drive-folder-copier) - Copy GDrive to TeamDrive
+* [Direct.GDrive](https://direct.gdrive.vip/en/), [Maulvi](https://maulvi.github.io/), [Google Drive Direct Links](https://greasyfork.org/en/scripts/10052) or [Sharer](https://sharer.pw/) - Host Direct Links on GDrive 
+* [CloneBot](https://github.com/MsGsuite/CloneBot_Heroku) - Copy GDrive to TeamDrive
 * [GD-EFC Link Encryptor](https://rekulous.github.io/gd-efc-encryptor/) - Google Drive Link Encryptor for GD-EFC
 * [gd-efc](https://anadius.github.io/gd-efc/) - Copy Encrypted Google Drive 
 * [goodls](https://github.com/tanaikech/goodls) - Google Drive Downloader
-* [gdurl](https://gdurl.com/), [gDrive-DirectLink](https://github.com/jagrit007/gDrive-DirectLink), [google-drive-direct-link-generator/](https://www.wonderplugin.com/online-tools/google-drive-direct-link-generator/) - Direct GDrive Link Generators
-* [Backup System](https://github.com/danielpy108/BackUpMySystem) - Backup Google Drive
+* [gdurl](https://gdurl.com/), [google-drive-direct-link-generator/](https://www.wonderplugin.com/online-tools/google-drive-direct-link-generator/) - Direct GDrive Link Generators
 * [Gdrive Guide-Noob Friendly](https://telegra.ph/Gdrive-Guide-Noob-Friendly-04-10) - GDrive Guide 
-* [Google Drivac](https://github.com/Data-Horde/gdrivac) - Associate Gdrive Account with URL List
-* [Shared Drives Creator Website](https://github.com/MsGsuite/Shared-Drives-Creator-Website) - Create & host a Shared Drive Generator Website
 
 ***
 
