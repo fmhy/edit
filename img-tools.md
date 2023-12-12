@@ -548,6 +548,7 @@
 
 * ⭐ **[ImgBB](https://imgbb.com/)**
 * ⭐ **[Postimages](https://postimages.org/)**
+* ⭐ **[Catbox.moe](https://catbox.moe/)**
 * [Imgur](https://imgur.com/)
 * Imgur Tools - [Frontends](https://rimgo.codeberg.page/), [2](https://git.voidnet.tech/kev/imgin), [3](https://codeberg.org/rimgo/rimgo), [4](https://codeberg.org/3np/rimgu), [5](https://rimgo.bus-hit.me/) / [Proxy](https://imgin.voidnet.tech/)
 * [pixelfed](https://pixelfed.org/) / [2](https://pixelfed.social/) - Decentralized Image Hosts
