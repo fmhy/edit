@@ -253,63 +253,50 @@
 
 # ► File Hosting
 
-* ⭐ **[Pixeldrain](https://pixeldrain.com/)** - [Speedtest File](https://pixeldrain.com/api/misc/speedtest)
-* ⭐ **[1fichier](https://1fichier.com/)**
-* ⭐ **[Qiwi](https://qiwi.gg)** - [Warning](https://pastebin.com/jn90QMEt)
-* ⭐ **[mediafire](https://www.mediafire.com/)**
-* ⭐ **[bowfile](https://bowfile.com/)**
-* ⭐ **[krakenfiles](https://krakenfiles.com/)**
-* ⭐ **[hexupload](https://www.hexupload.net/)**
-* ⭐ **[clicknupload](https://clicknupload.co/)**
-* ⭐ **[sendspace](https://www.sendspace.com/)**
-* ⭐ **[mixdrop](https://mixdrop.ag/)**
-* ⭐ **[UsersCloud](https://userscloud.com/)**
-* ⭐ **[gofile](https://gofile.io/)**
-* ⭐ **[doodrive](https://doodrive.com/)**
+* **Note** - Size is per file and time is after the last time someone downloaded that file unless specified.
+  
 * ⭐ **[Archive.org](https://archive.org/create/)**
-* ⭐ **[wormhole](https://wormhole.app/)**, **[temp.sh](https://temp.sh/)**, [Send](https://send.vis.ee/) or [LitterBox](https://litterbox.catbox.moe/) - Temp File Hosts
+* ⭐ **[Pixeldrain](https://pixeldrain.com/)** - 20GB / 90 days / [Speedtest File](https://pixeldrain.com/api/misc/speedtest)
+* ⭐ **[gofile](https://gofile.io/)** - Unlimited / 10 days
+* ⭐ **[Fileditch](https://fileditch.com/)** - 15GB / Forever
+* ⭐ **[1fichier](https://1fichier.com/)** - 300GB / 15 days (30 days if you sign-up)
+* ⭐ **[Send.cm](https://send.cm/)** - 100GB / 15 days
+* ⭐ **[oshi](https://oshi.at/)** - 5GB / 90 days
+* ⭐ **[hexupload](https://www.hexupload.net/)** - 15GB / 60 days
+* ⭐ **[Qiwi](https://qiwi.gg)** - [Warning](https://pastebin.com/jn90QMEt)
 * [Z-o-o-m](https://z-o-o-m.eu/), [MirrorAce](https://mirrorace.com/), [MultiUp](https://multiup.eu/) / [2](https://multiup.org/), [Mirrorcreator](https://www.mirrored.to/) or [PlowShare](https://github.com/mcrapet/plowshare) - Multi Host Uploaders
-* [Send.cm](https://send.cm/)
-* [Catbox.moe](https://catbox.moe/)
-* [sharedrop](https://www.sharedrop.io/)
-* [justbeamit](https://justbeamit.com/)
-* [ufile](https://ufile.io/)
-* [swisstransfer](https://www.swisstransfer.com/en)
-* [tresorit](https://send.tresorit.com/) / [2](https://web.tresorit.com/)
-* [edisk](https://www.edisk.cz/)
-* [WeTransfer](https://wetransfer.com/)
-* [9xUpload](https://9xupload.asia/)
-* [youdbox](https://youdboox.com/)
-* [send-anywhere](https://send-anywhere.com/)
-* [desiupload](https://desiupload.co/)
-* [File.cm](https://file.cm/)
-* [uploadraja](https://uploadraja.com/)
-* [download.gg](https://download.gg/)
-* [megaup](https://megaup.net/)
-* [sfile](https://sfile.mobi/)
 * [send](https://gitlab.com/timvisee/send) / [instances](https://gitlab.com/timvisee/send-instances)
-* [Gokapi](https://github.com/Forceu/Gokapi)
-* [easyupload](https://easyupload.io/)
-* [filebin](https://filebin.net/)
-* [up-4ever](https://www.up-4ever.net/)
-* [fshare](https://www.fshare.vn/)
-* [sharry](https://eikek.github.io/sharry/)
-* [depositFiles](https://depositfiles.com/)
-* [sendbig](https://www.sendbig.com/)
-* [filemail](https://www.filemail.com/)
-* [fileconvoy](https://www.fileconvoy.com/)
-* [fex](https://fex.net/)
-* [oshi](https://oshi.at/)
-* [sharemods](https://sharemods.com/)
-* [filetransfer](https://filetransfer.io/)
-* [fastupload](https://fastupload.io/en)
-* [file-post](https://file-post.net/)
-* [drop.download](https://drop.download/)
-* [uploadsome](https://uploadsome.com/en)
-* [grosfichiers](https://www.grosfichiers.com/)
-* [usersdrive](https://usersdrive.com/)
-* [tomacloud](https://tomacloud.com/)
-* [uploadingporn](https://uploadingporn.com/)
+* [File.cm](https://file.cm/) - 100GB / 30 days / requires sign-up
+* [edisk](https://www.edisk.cz/) - 10GB / 30 days
+* [easyupload](https://easyupload.io/) - 10GB / 50gb total / 30 days
+* [fastupload](https://fastupload.io/en) - 10GB / 30 days
+* [desiupload](https://desiupload.co/) or [uploadraja](https://uploadraja.com/) - 10GB / 15 days
+* [fshare](https://www.fshare.vn/) - 10GB / 5 days
+* [megaup](https://megaup.net/) - 5GB / 60 days
+* [ufile](https://ufile.io/) - 5GB / 30 days
+* [sendbig](https://www.sendbig.com/) - 5GB / 7 days
+* [alfafile](https://www.alfafile.net/) - 5GB / 30 days (requires sign-up)
+* [drop.download](https://drop.download/) - 5GB / 15 days
+* [clicknupload](https://clicknupload.co/) - 2GB / 12 days (5gb / 30 days if you sign-up)
+* [doodrive](https://doodrive.com/) - 2GB / 30 days
+* [sfile](https://sfile.mobi/) - 100MB / 5gb total / Forever
+* [krakenfiles](https://krakenfiles.com/) - 1GB / 90 days
+* [Catbox.moe](https://catbox.moe/) - 200MB / Forever
+* [fileconvoy](https://www.fileconvoy.com/) - 3GB / 21 days total
+* [filetransfer](https://filetransfer.io/) - 6GB / 21 days total / 50 download limit
+* [swisstransfer](https://www.swisstransfer.com/en) - 50GB / 30 days total / 250 download limit
+* [bowfile](https://bowfile.com/) - 5GB / 30 days total
+* [grosfichiers](https://www.grosfichiers.com/) - 10GB / 14 days total
+* [filebin](https://filebin.net/) - Unlimited / 6 days total (Anyone with the link can delete the files, share only with trusted people)
+* [fex](https://fex.net/) - 100GB total / 7 days total
+* [Encl](https://encl.io/) - 10gb / 7 days total
+* [SendGB](https://www.sendgb.com/) - 5GB / 7 days total
+* [pCloud Transfer](https://transfer.pcloud.com/) - 5GB / 7 days total
+* [tresorit](https://send.tresorit.com/) - 5GB / 7 days total
+* [temp.sh](https://temp.sh/) - 4GB / 3 days total
+* [file-post](https://file-post.net/) - 3GB / 7 days total
+* [WeTransfer](https://wetransfer.com/) - 2GB / 7 days total
+* [LitterBox](https://litterbox.catbox.moe/) - 1GB / 3 days total
 * [Limited Upload Hosts](https://rentry.org/xc48kg) - 1GB or below
 
 ***
@@ -322,12 +309,16 @@
 * ⭐ **[Transfer.sh](https://transfer.sh/)**
 * ⭐ **[freefilesync](https://freefilesync.org/)**
 * ⭐ **[Blaze](https://blaze.vercel.app/)** / [GitHub](https://github.com/blenderskool/blaze)
+* ⭐ **[wormhole](https://wormhole.app/)**
 * ⭐ **[LocalSend](https://localsend.org/)** / [Platforms](https://i.ibb.co/nsfMf04/8010dd28ed2d.png), [Warpinator](https://github.com/linuxmint/warpinator), [QRServ](https://github.com/uintdev/qrserv) or [MyPhoneExplorer](https://www.fjsoft.at/) - Sync Files Between Phone / Desktop
 * [Linux Reader](https://www.diskinternals.com/linux-reader/) - Access Linux Files on Windows
 * [dropbox](https://www.dropbox.com/) / [Client](https://github.com/SamSchott/maestral)
 * [keybase](https://book.keybase.io/docs/files)
+* [sharedrop](https://www.sharedrop.io/)
+* [justbeamit](https://justbeamit.com/)
 * [file.pizza](https://file.pizza/)
 * [Transfernow](https://www.transfernow.net/en)
+* [send-anywhere](https://send-anywhere.com/)
 * [onionshare](https://onionshare.org/)
 * [OwnCloud](https://owncloud.com/)
 * [MLDonkey](https://github.com/ygrek/mldonkey)
@@ -370,7 +361,6 @@
 * [WebWormhole](https://webwormhole.io/)
 * [Destiny](https://github.com/LeastAuthority/destiny)
 * [filepress](https://new.filepress.store/)
-* [consyn](https://consyn.io/)
 * [sharrr](https://www.sharrr.com/)
 * [Photon](https://photondev.netlify.app/)
 * [rsync](https://github.com/WayneD/rsync)
@@ -410,11 +400,14 @@
 * [AList](https://github.com/alist-org/alist) - Cloud Storage Manager
 * [dropbox](https://www.dropbox.com/) / [Client](https://github.com/SamSchott/maestral)
 * [disk.yandex](https://disk.yandex.com/)
+* [uploadingporn](https://uploadingporn.com/)
 * [unlimcloud](https://www.unlimcloud.cloud/)
 * [terabox](https://terabox.com/)
+* [mediafire](https://www.mediafire.com/)
+* [youdbox](https://youdboox.com/)
+* [depositFiles](https://depositfiles.com/)
 * [icedrive](https://icedrive.net/)
 * [degoo](https://degoo.com/)
-* [alfafile](https://www.alfafile.net/)
 * [aliyundrive](https://www.aliyundrive.com/)
 * [backblaze](https://www.backblaze.com/)
 * [perkeep](https://perkeep.org/)
