@@ -854,7 +854,6 @@
 * ⭐ **[Stash](https://stashapp.cc/)** or [AdultMediaManager](https://github.com/adultmm/AdultMediaManager) - Porn File Managers
 * ⭐ **[Bypass Subreddit Blocks](https://pastebin.com/gAAEQnqn)**
 * [Panic Button](https://pastebin.com/mDWBZ7fQ) - Quickly Close All Tabs
-* [UploadingPorn](https://uploadingporn.com/) - NSFW File Host
 * [Javinizer](https://github.com/javinizer/Javinizer) - JAV File Organizer
 * [Unhinged](https://www.unhinged.ai/) - NSFW AI Chatbots
 * [DeepMosaics](https://github.com/HypoX64/DeepMosaics) - Remove Mosaics from Porn
