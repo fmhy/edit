@@ -765,7 +765,7 @@
 * [Erai-Raws](https://www.erai-raws.info/) - Sub
 * [Play Anime](http://127.0.0.1:43110/1AnimePihDhcbVdK1nvnbSEtH4oKU8RAYG/) - Sub / [ZeroNet Required](https://zeronet.io/)
 * [nyaamal](https://github.com/laxyapahuja/nyaamal) - Add torrents DL's to MAL / Anilist
-* [Miru](https://github.com/ThaUnknown/miru) or [anitor-stream](https://github.com/gan-of-culture/anitor-stream) - Stream Anime Torrents
+* [Miru](https://github.com/ThaUnknown/miru) - Stream Anime Torrents
 * [Aniloader](https://github.com/Xanahol/Aniloader) - Anime Torrent Autodownloader
 
 ***
