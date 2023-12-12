@@ -273,8 +273,9 @@
 * [desiupload](https://desiupload.co/) or [uploadraja](https://uploadraja.com/) - 10GB / 15 days
 * [fshare](https://www.fshare.vn/) - 10GB / 5 days
 * [megaup](https://megaup.net/) - 5GB / 60 days
-* [sendbig](https://www.sendbig.com/) - 5GB / 7 days
 * [ufile](https://ufile.io/) - 5GB / 30 days
+* [sendbig](https://www.sendbig.com/) - 5GB / 7 days
+* [alfafile](https://www.alfafile.net/) - 5GB / 30 days (requires sign-up)
 * [drop.download](https://drop.download/) - 5GB / 15 days
 * [clicknupload](https://clicknupload.co/) - 2GB / 12 days (5gb / 30 days if you sign-up)
 * [doodrive](https://doodrive.com/) - 2GB / 30 days
@@ -408,7 +409,6 @@
 * [depositFiles](https://depositfiles.com/)
 * [icedrive](https://icedrive.net/)
 * [degoo](https://degoo.com/)
-* [alfafile](https://www.alfafile.net/)
 * [aliyundrive](https://www.aliyundrive.com/)
 * [backblaze](https://www.backblaze.com/)
 * [perkeep](https://perkeep.org/)
