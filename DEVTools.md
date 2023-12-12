@@ -42,7 +42,6 @@
 * ⭐ **[Free Courses by Xemu](https://github.com/nbats/FMHYedit/blob/main/base64.md#free-courses-by-xemu)** - Programming Course Drives
 * ⭐ **[Programming Book Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/reading#wiki_.25B7_programming_books)** - Read / Download Programming Books
 * ⭐ **[StackOverflow](https://stackoverflow.com/)** / [Frontend](https://code.whatever.social/), [DecodingDevOps](https://www.decodingdevops.com/) or [Stack Roboflow](https://stackroboflow.com/) - Developer Q&A
-* [WDTCD?](https://whatdoesthiscodedo.com/), [Cody](https://about.sourcegraph.com/cody), [CodiumAI](https://www.codium.ai/), [Bito AI](https://bito.ai/), [Blackbox](https://www.blackbox.chat/), [CollectivAI](https://chat.collectivai.com/) or [Denigma](https://denigma.app/#demo) - AI Code Assistants
 * [DZone](https://dzone.com/) - Developer Tutorials
 * [RedHat](https://developers.redhat.com/) - Development Tutorials
 * [Dev.tube](https://dev.tube/) - Developer Talks
@@ -1039,9 +1038,6 @@
 * ⭐ **[JSON Hero](https://jsonhero.io/)**, [Jayson](https://apps.apple.com/us/app/jayson/id1447750768) or [JSONView](https://jsonview.com/) - JSON Viewers / Editors
 * ⭐ **[Regex Vis](https://regex-vis.com/)**, [Regulex](https://jex.im/regulex/) or [Regexper](https://regexper.com/) - Regex Visualizers / [Batch Editor](https://github.com/antfu/rex)
 * ⭐ **[grex](https://pemistahl.github.io/grex-js/)**, [Regex Generator++](http://regex.inginf.units.it/) or [Regex Generator](https://regex-generator.olafneumann.org/) - Regex Generators
-* [EvalPlus Leaderboard](https://evalplus.github.io/leaderboard.html) or [BigCode](https://huggingface.co/spaces/bigcode/bigcode-models-leaderboard) - Coding AI Leaderboards
-* [Cursor](https://cursor.sh/), [Codeium](https://codeium.com/), [tabnine](https://www.tabnine.com/), [ImageCook](https://github.com/imgcook/imgcook), [CodeWhisperer](https://aws.amazon.com/codewhisperer/), [Telosys](https://www.telosys.org/) or [Copilot](https://github.com/features/copilot/) / [Docs](https://github.com/github/copilot-docs) - Coding AIs
-* [AI Code Translator](https://ai-code-translator.vercel.app/) or [Source Code Converters](https://www.tangiblesoftwaresolutions.com/) - Code Converters
 * [Node-RED](https://nodered.org/) - Low-Code Programming for Event-Driven Apps
 * [Commands.dev](https://www.commands.dev/) - Terminal Commands
 * [Regex101](https://regex101.com/) or [Debuggex](https://www.debuggex.com/) - Regex Editor / Debuggers
@@ -1183,6 +1179,29 @@
 
 ***
 
+## ▷ Coding AIs
+
+* 🌐 **[EvalPlus Leaderboard](https://evalplus.github.io/leaderboard.html)** or [BigCode](https://huggingface.co/spaces/bigcode/bigcode-models-leaderboard) - Coding AI Leaderboards
+* [Cursor](https://cursor.sh/) - Coding AI
+* [Codeium](https://codeium.com/) - Coding AI
+* [tabnine](https://www.tabnine.com/) - Coding AI
+* [ImageCook](https://github.com/imgcook/imgcook) - Coding AI
+* [CodeWhisperer](https://aws.amazon.com/codewhisperer/) - Coding AI
+* [Telosys](https://www.telosys.org/) - Coding AI
+* [Copilot](https://github.com/features/copilot/) / [Docs](https://github.com/github/copilot-docs) - Coding AI
+* [WDTCD?](https://whatdoesthiscodedo.com/)
+* [Cody](https://about.sourcegraph.com/cody) - Coding AI
+* [CodiumAI](https://www.codium.ai/) - Coding AI
+* [Bito AI](https://bito.ai/) - Coding AI
+* [Blackbox](https://www.blackbox.chat/) - Coding AI
+* [CollectivAI](https://chat.collectivai.com/) - Coding AI
+* [Denigma](https://denigma.app/#demo) - Coding AI
+* [AI Code Translator](https://ai-code-translator.vercel.app/) or [Source Code Converters](https://www.tangiblesoftwaresolutions.com/) - Code Converters
+* [GPT Engineer](https://github.com/AntonOsika/gpt-engineer) - AI Code Generator
+* [Gorilla](https://github.com/ShishirPatil/gorilla) - API to Code LLM
+
+***
+
 ## ▷ IDEs / Code Editors
 
 * 🌐 **[Awesome-Livecoding](https://github.com/toplap/awesome-livecoding)** - Livecoding Resources
@@ -1229,7 +1248,6 @@
 * [TidalCycles](https://tidalcycles.org/) - Live Algorithmic Coding Environment / [Discord](https://discord.com/invite/ugFq7KfGnB)
 * [Thonny](https://thonny.org/) - Python IDE
 * [SciTE](https://www.scintilla.org/SciTE.html) - Source Code Editor for Win32 and X
-* [GPT Engineer](https://github.com/AntonOsika/gpt-engineer) - AI Code Generator
 * [OpenChakra](https://openchakra.app/) - Visual Editor & Code Generator for React / [GitHub](https://github.com/premieroctet/openchakra)
 * [Package Control](https://packagecontrol.io/) - Sublime Text Package Manager
 * [editorcornfig](https://editorconfig.org/) - Maintain Code Styles Across Editors
