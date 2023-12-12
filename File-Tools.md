@@ -282,6 +282,7 @@
 * [youdbox](https://youdboox.com/)
 * [send-anywhere](https://send-anywhere.com/)
 * [desiupload](https://desiupload.co/)
+* [File.cm](https://file.cm/)
 * [uploadraja](https://uploadraja.com/)
 * [download.gg](https://download.gg/)
 * [megaup](https://megaup.net/)
