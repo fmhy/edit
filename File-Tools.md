@@ -284,6 +284,7 @@
 * [doodrive](https://doodrive.com/) - 2GB / 30 days
 * [sfile](https://sfile.mobi/) - 100MB / 5gb total / Forever
 * [krakenfiles](https://krakenfiles.com/) - 1GB / 90 days
+* [filelu](https://filelu.com/) - ?GB / 10 days
 * [fileconvoy](https://www.fileconvoy.com/) - 3GB / 21 days total
 * [filetransfer](https://filetransfer.io/) - 6GB / 21 days total / 50 download limit
 * [swisstransfer](https://www.swisstransfer.com/en) - 50GB / 30 days total / 250 download limit
@@ -297,6 +298,7 @@
 * [tresorit](https://send.tresorit.com/) - 5GB / 7 days total
 * [temp.sh](https://temp.sh/) - 4GB / 3 days total
 * [file-post](https://file-post.net/) - 3GB / 7 days total
+* [FireLoad](https://www.fireload.com/) - 2GB / 60 days total / Signup Required
 * [WeTransfer](https://wetransfer.com/) - 2GB / 7 days total
 * [LitterBox](https://litterbox.catbox.moe/) - 1GB / 3 days total
 * [Limited Upload Hosts](https://rentry.org/xc48kg) - 1GB or below
@@ -367,6 +369,7 @@
 * [rsync](https://github.com/WayneD/rsync)
 * [Unison](https://github.com/bcpierce00/unison)
 * [ffsend](https://github.com/timvisee/ffsend)
+* [File.love](https://file.love/)
 * [spacedrop](https://spacedrop.app/)
 * [IPFS](https://ipfs.tech/) - P2P Hypermedia Protocol / [Resources](https://github.com/ipfs/awesome-ipfs) / [Extension](https://github.com/ipfs/ipfs-companion) / [Desktop](https://github.com/ipfs/ipfs-desktop) 
 * [IPFS Cluster](https://ipfscluster.io/) - Automated data availability and redundancy on IPFS
@@ -375,6 +378,8 @@
 
 ## ▷ Cloud Storage
 
+* **Note** - Monthly prices are based on annual plans. 2TB prices are halved for comparison if a 1TB plan doesn't exist for a service.
+
 * ⭐ **[Cloud Storage Comparisions](https://eylenburg.github.io/cloud_comparison.htm)** - Compare Cloud Storage Polices
 * ⭐ **[RClone](https://rclone.org/)** - Cloud Storage Manager
 * ⭐ **RClone Tools** - [Guide](https://telegra.ph/Simple-rclone-usage-01-13) / [WebUI](https://github.com/rclone/rclone-webui-react), [2](https://github.com/MinorMole/RcloneBrowser-Portable) / [GUI](https://github.com/kapitainsky/RcloneBrowser) / [Colab](https://colab.research.google.com/github/szyha/RcloneLabArchive/blob/master/RcloneLab.ipynb) / [Telegram](https://t.me/rclonexbot) / [Mirror Manager](https://github.com/Syzygianinfern0/RClone-Mirror-Manager) / [Transfer Tool](https://github.com/TheCaduceus/Multi-Cloud-Transfer-Tool)
@@ -382,12 +387,22 @@
 * ⭐ **gclone Tools** - [Guide](https://telegra.ph/Gclone-Guide-for-Windows-07-20) / [Telegram](https://github.com/wrenfairbank/telegram_gcloner) / [Bot](https://github.com/MsGsuite/CloneBot) / [Discord Bot](https://github.com/Rekulous/CloneCord-bot), [2](https://github.com/jsmsj/GcloneDiscordify) / [Colab](https://github.com/Rekulous/GCloneLab), [2](https://colab.research.google.com/github/Rekulous/GCloneLab/blob/main/GCloneLab.ipynb)
 * ⭐ **[Air Explorer](https://airexplorer.net/en/)** - Cloud Storage Manager
 * ⭐ **[RaiDrive](https://www.raidrive.com/)** - Cloud Storage Manager
-* ⭐ **[GDrive](https://drive.google.com/)**
-* ⭐ **[mega](https://mega.nz/)** / [GitHub](https://github.com/meganz)
-* ⭐ **[filen](https://filen.io/)**
-* ⭐ **[internxt](https://internxt.com/)**
+* ⭐ **[GDrive](https://drive.google.com/)** - 15GB Free / ~$3.25 for 1TB
+* ⭐ **[mega](https://mega.nz/)** - 20GB Free / ~$4.5 for 1TB / [GitHub](https://github.com/meganz)
+* ⭐ **[disk.yandex](https://disk.yandex.com/)** - 5GB Free / $2.42 for 1TB
+* ⭐ **[filen](https://filen.io/)** - 10GB Free / ~$8 for 1TB
+* ⭐ **[internxt](https://internxt.com/)** - 10GB Free / ~4.85 for 1TB
 * ⭐ **[Cyberduck](https://cyberduck.io/)** - Libre Server / Cloud Storage Browser
 * [Cloud Storage Archiving Guide](https://pastebin.com/kLhLHsXg) - How-to Safely Archive Files on Cloud Storage Sites
+* [terabox](https://terabox.com/) - 1TB Free / $1.5 for 1TB
+* [dropbox](https://www.dropbox.com/) - 5GB Free / ~$5 for 1TB / [Client](https://github.com/SamSchott/maestral)
+* [mediafire](https://www.mediafire.com/) - 10GB Free / $5.83 for 1TB
+* [icedrive](https://icedrive.net/) - 10GB Free / $5 for 1TB
+* [PCloud](https://www.pcloud.com/) - 10GB Free / ~$4.16 for 1TB
+* [JumpShare](https://jumpshare.com/) - 2GB Free / $8.25 for 1TB
+* [MrOwl](https://www.mrowl.com/) - 10GB Free / ~$16.67 for 1TB
+* [storj](https://www.storj.io/) - 25GB Free / ~$4 for 1TB
+* [xpipe](https://github.com/xpipe-io/xpipe)
 * [bookmarkfs](https://github.com/CoolElectronics/bookmarkfs) - Chrome's Profile Sync Cloud Storage
 * [InfiniDrive](https://github.com/nicomda/InfiniDrive) - Amazon Prime Photos Cloud Storage
 * [OneDriveFly](https://github.com/Tai7sy/OneDriveFly) or [OneDrive Vercel Index](https://ovi.swo.moe/) - OneDrive Indexes
@@ -399,23 +414,6 @@
 * [MultCloud](https://www.multcloud.com/) - Cloud Storage Manager
 * [MSP360](https://www.msp360.com/explorer.aspx) - Cloud Storage Manager
 * [AList](https://github.com/alist-org/alist) - Cloud Storage Manager
-* [dropbox](https://www.dropbox.com/) / [Client](https://github.com/SamSchott/maestral)
-* [disk.yandex](https://disk.yandex.com/)
-* [unlimcloud](https://www.unlimcloud.cloud/)
-* [terabox](https://terabox.com/)
-* [mediafire](https://www.mediafire.com/)
-* [depositFiles](https://depositfiles.com/)
-* [icedrive](https://icedrive.net/)
-* [perkeep](https://perkeep.org/)
-* [MrOwl](https://www.mrowl.com/)
-* [FireLoad](https://www.fireload.com/)
-* [storj](https://www.storj.io/)
-* [PCloud](https://www.pcloud.com/)
-* [filelu](https://filelu.com/)
-* [File.love](https://file.love/)
-* [T-Drive](https://apps.microsoft.com/store/detail/tdrive/9MVD1PKDTXSN)
-* [JumpShare](https://jumpshare.com/)
-* [xpipe](https://github.com/xpipe-io/xpipe)
 * [SeaFile](https://www.seafile.com/en/home/) or [FileStash](https://www.filestash.app/) - Self-Hosted Cloud Storage / [Fork](https://github.com/ZizzyDizzyMC/linx-server/)
 
 ***
