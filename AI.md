@@ -43,7 +43,7 @@
 * 🌐 **[Open LLM Leaderboard](https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard)** - LLM Leaderboard
 * ⭐ **[seait](https://github.com/diStyApps/seait)** - AI Installation Manager
 * ⭐ **[SillyTavern](https://github.com/SillyTavern/SillyTavern)** - Front-end for LLMs
-* ⭐ **[llama.cpp](https://github.com/ggerganov/llama.cpp)** - Self-Host LLaMa Based LLMs / [Guide](https://rentry.org/llama-mini-guide)
+* ⭐ **[llama.cpp](https://github.com/ggerganov/llama.cpp)** - Self-Host Transformer Based LLMs / [Guide](https://rentry.org/llama-mini-guide)
 * ⭐ **[kobold.cpp](https://github.com/LostRuins/koboldcpp)** - llama.cpp with API + GUI / [rocM](https://github.com/YellowRoseCx/koboldcpp-rocm) / [Colab](https://colab.research.google.com/github/LostRuins/koboldcpp/blob/concedo/colab.ipynb)
 * ⭐ **[Oobabooga Text Generation WebUI](https://github.com/oobabooga/text-generation-webui)** - Self-Host Models / [Colab](https://colab.research.google.com/github/pcrii/Philo-Colab-Collection/blob/main/4bit_TextGen_Gdrive.ipynb)
 * [Aphrodite Engine](https://github.com/PygmalionAI/aphrodite-engine) - Serve at scale LLMs for KoboldAI & Ooba / [Colab](https://colab.research.google.com/github/AlpinDale/misc-scripts/blob/main/Aphrodite.ipynb)
