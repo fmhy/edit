@@ -336,6 +336,7 @@
 * ⭐ **[Free Rice](https://freerice.com/)** - Earn Rice for the World Food Programme, turn off adblocker
 * [/r/WebGames](https://reddit.com/r/WebGames) - Browser Games Subreddit
 * [Armor Games](https://armorgames.com/) - Browser Games
+* [Game Online](https://gameonline.co.id/) - Browser Games
 * [Kongregate](https://www.kongregate.com/) - Browser Games
 * [Weboasis Arcade](https://weboasis.app/arcade/) - Browser Games
 * [Addicting Games](https://www.addictinggames.com/) - Browser Games
