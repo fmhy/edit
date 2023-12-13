@@ -112,41 +112,53 @@
 
 ***
 
-## ▷ Image Upscalers
+## ▷ Upscale / Restore
 
-* ↪️ **[Waifu2x Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_waifu2x_tools)**
-* ↪️ **[Esrgan Models](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_esrgan_models)**
-* ⭐ **[chaiNNer](https://github.com/chaiNNer-org/chaiNNer)**
+* ↪️ **[Colorize Images](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_image_colorization)** - Image Colorization Tools
+* ⭐ **[Waifu2x](https://github.com/nagadomi/waifu2x)** - Anime Image Upscaling / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_waifu2x_tools)
+* ⭐ **[chaiNNer](https://github.com/chaiNNer-org/chaiNNer)** - Image Upscaling
 * ⭐ **[Upscale Wiki](https://upscale.wiki/wiki/Main_Page)** - Image Upscaling Wiki
 * ⭐ **[OpenModelDB](https://openmodeldb.info/)** - AI Upscaling Model Database
-* [Waifu2x](https://github.com/nagadomi/waifu2x)
-* [Upscayl](https://github.com/upscayl/upscayl)
-* [upscaler](https://icons8.com/upscaler)
-* [Bigjpg](https://bigjpg.com/)
-* [Crunch](https://github.com/chrissimpkins/Crunch)
-* [PNG-Upscale](https://github.com/Araxeus/PNG-Upscale)
-* [Cupscale](https://github.com/n00mkrad/cupscale)
-* [Upscaler Stockphotos](https://upscaler.stockphotos.com/)
-* [ImageUpscaler](https://imageupscaler.com/) / [2](https://image-upscaler.beatsnoop.com/)
-* [Upscale Media](https://www.upscale.media/)
-* [Zyro Upscaler](https://zyro.com/tools/image-upscaler)
-* [Nicescaler](https://github.com/Djdefrag/NiceScaler)
-* [DFDNet](https://github.com/csxmli2016/DFDNet)
-* [Nero AI](https://ai.nero.com/image-upscaler)
-* [SDUpscale](https://rentry.org/sdupscale)
-* [JPEG Quantsmooth](https://github.com/ilyakurdyukov/jpeg-quantsmooth)
-* [imgupscaler](https://imgupscaler.com/)
-* [torch-srgan](https://deepai.org/machine-learning-model/torch-srgan)
-* [ultimate-upscale](https://github.com/Coyote-A/ultimate-upscale-for-automatic1111)
-* [multidiffusion-upscaler](https://github.com/pkuliyi2015/multidiffusion-upscaler-for-automatic1111)
-* [QualityScaler](https://github.com/Djdefrag/QualityScaler)
+* [Real-ESRGAN](https://github.com/xinntao/Real-ESRGAN) - Image Restoration Algorithms
+* [FenoPhoto](https://www.fenophoto.com/) - Image Restoration Tools
+* [/r/estoration](https://www.reddit.com/r/estoration/) - Photo Restoration Requests
+* [Photo Face Restorer](https://www.restorephotos.io/) - Face Restoration / Colorization Tool
+* [Deep Nostalgia](https://www.myheritage.com/deep-nostalgia) - Animate Family Photos
+* [Upscayl](https://github.com/upscayl/upscayl) - Image Upscaling
+* [upscaler](https://icons8.com/upscaler) - Image Upscaling
+* [Bigjpg](https://bigjpg.com/) - Image Upscaling
+* [Crunch](https://github.com/chrissimpkins/Crunch) - Image Upscaling
+* [PNG-Upscale](https://github.com/Araxeus/PNG-Upscale) - Image Upscaling
+* [Cupscale](https://github.com/n00mkrad/cupscale) - Image Upscaling
+* [Upscaler Stockphotos](https://upscaler.stockphotos.com/) - Image Upscaling
+* [ImageUpscaler](https://imageupscaler.com/), [2](https://image-upscaler.beatsnoop.com/) - Image Upscaling
+* [Upscale Media](https://www.upscale.media/) - Image Upscaling
+* [Zyro Upscaler](https://zyro.com/tools/image-upscaler) - Image Upscaling
+* [Nicescaler](https://github.com/Djdefrag/NiceScaler) - Image Upscaling
+* [DFDNet](https://github.com/csxmli2016/DFDNet) - Image Upscaling
+* [Nero AI](https://ai.nero.com/image-upscaler) - Image Upscaling
+* [SDUpscale](https://rentry.org/sdupscale) - Image Upscaling
+* [JPEG Quantsmooth](https://github.com/ilyakurdyukov/jpeg-quantsmooth) - Image Upscaling
+* [imgupscaler](https://imgupscaler.com/) - Image Upscaling
+* [torch-srgan](https://deepai.org/machine-learning-model/torch-srgan) - Image Upscaling
+* [ultimate-upscale](https://github.com/Coyote-A/ultimate-upscale-for-automatic1111) - Image Upscaling
+* [multidiffusion-upscaler](https://github.com/pkuliyi2015/multidiffusion-upscaler-for-automatic1111) - Image Upscaling
+* [QualityScaler](https://github.com/Djdefrag/QualityScaler) - Image Upscaling
+* [GFPGAN](https://github.com/TencentARC/GFPGAN) - Face Upscaling
+* [resdet](https://github.com/0x09/resdet) - Detect if an Image is Upscaled
 
 ***
 
-## ▷ Resize / Compress
+## ▷ Resize / Convert
 
 * ⭐ **[ImageMagick](https://imagemagick.org/index.php)** / [Scripts](https://www.fmwconcepts.com/imagemagick/index.php)
 * ⭐ **[Pingo](https://css-ig.net/pingo)** / [GUI](https://css-ig.net/pinga), [RIOT](https://riot-optimizer.com/), [YOGA](https://yoga.flozz.org/) or [ImageFoo](https://imagefoo.com/) - Image Optimization Tools
+* [imverter](https://www.imverter.com/), [Raw Pics](https://raw.pics.io/), [Converseen](https://converseen.fasterland.net/), [Vector Magic](https://vectormagic.com/) or [WebP Converter](https://webp-converter.com/) - Image Converters 
+* [svgco](https://svgco.de/) - Image to SVG Converter
+* [AnsiLove](https://www.ansilove.org/downloads.html) or [convert-ascii-to-image](https://onlinetools.com/ascii/convert-ascii-to-image) - ANSI / ASCII Art to PNG Converters
+* [Vector Express](https://vector.express/) - Vector Converter
+* [Vectorizer](https://www.vectorizer.io/) or [AutoTracer](https://www.autotracer.org/) - Image Vectorizer 
+* [text2img](https://master.ayra.ch/text2img/) - Convert Text Screenshots to Images
 * [CloudImage](https://www.cloudimage.io/), [tiny.pictures](https://tiny.pictures/) - Optimize Images
 * [Bulk Image Resize](https://bulkimageresize.com/) - Resize Images / [Crop](https://bulkimagecrop.com/) / [Compress](https://imagecompressr.com/) 
 * [Croppola](https://croppola.com/) or [Avatar Cropper](https://avatarcropper.com/) - Cropping Tools
@@ -161,17 +173,6 @@
 * [Innocenzi](https://avatar.innocenzi.dev/) - Create Round Avatars
 
 *** 
-
-## ▷ Restoration
-
-* ↪️ **[Colorize Images](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_image_colorization)** - Image Colorization Tools
-* [FenoPhoto](https://www.fenophoto.com/) - Image Restoration Tools
-* [Real-ESRGAN](https://github.com/xinntao/Real-ESRGAN) - Image Restoration Algorithms
-* [/r/estoration](https://www.reddit.com/r/estoration/) - Photo Restoration Requests
-* [Photo Face Restorer](https://www.restorephotos.io/) or [GFPGAN](https://github.com/TencentARC/GFPGAN) - Face Restoration / Colorization Tool
-* [Deep Nostalgia](https://www.myheritage.com/deep-nostalgia) - Animate Family Photos
-
-***
 
 # ► Image Generation
 
@@ -198,16 +199,6 @@
 * [Photovisi](https://www.photovisi.com/) or [PhotoJoiner](https://www.photojoiner.com/) - Collage Generators
 * [Tiler](https://github.com/nuno-faria/tiler) - Make Images out of Images
 * [NoiseDeck](https://noisedeck.app/) - Art Generator
-* [Uji](https://doersino.github.io/uji/) or [Turtletoy](https://turtletoy.net/) - Minimalist Art Generators
-* [MandalaGaba](https://www.mandalagaba.com/) / [Pro Version](https://pro.mandalagaba.com/), [Mandala App](https://mandala-app.com/) or [DigitalDoily](https://codymoose.github.io/web-applications/DigitalDoily/index.html) - Zen Geometry Tool
-* [Silk](http://weavesilk.com/) - Create Geometric Silk Art
-* [Inspirograph](https://nathanfriend.io/inspiral-web/) or [SpirographN](http://seedcode.com/SpirographN/sgn.html) - Spirograph Tool
-* [myMrLx](https://codepen.io/davidpanik/full/myMrLx/) - Spiral Art Generators
-* [Paper Quilling Art](https://pissang.github.io/paper-quilling-art/) - Paper Quilling Art Generator
-* [Brown](https://fi-le.net/brown/) - Brownian Motion Tool
-* [Periodicity](https://williamhoza.com/periodicity/) - Harmonic Motion Patterns
-* [Cubes.io](https://cubes.io/) - Cellular Automata
-* [PEmbroider](https://github.com/CreativeInquiry/PEmbroider) - Embroidery Generator
 * [Hugin](https://hugin.sourceforge.io/) - Panorama Image Generator
 * [PhotoEphemeris](https://photoephemeris.com/) - Photography Sunlight Calculator
 * [SuperDesigner](https://superdesigner.co/) - Background / Pattern Designer
@@ -258,6 +249,7 @@
 * [MemeCam](https://www.memecam.io/) - AI Meme Generator
 * [Memegine](https://memegine.com/) - Meme Search Engine
 * [MemeAtlas](https://www.memeatlas.com/) or [Templates](https://drive.google.com/drive/folders/1Z4PSi2XmZ6x8I891xZSg5Cl4oNEOIRhh)  - Meme Templates
+* [Fake Text Message](https://ifaketextmessage.com/) or [iFake](https://ifaketextmessage.com/) - Make Fake Text Conversation
 * [Wojak Paradise](https://wojakparadise.net/) - Wojak Gallery
 * [Frinkiac](https://frinkiac.com/) - Simpsons Meme Generator 
 * [Morbotron](https://morbotron.com/) - Futurama Meme Generator
@@ -453,24 +445,21 @@
 * ↪️ **[Image Text Extraction](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_image_to_text)**
 * ↪️ **[Color Scheme Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/dev-tools#wiki_.25B7_color_schemes)** -  [Guide](https://i.ibb.co/cCRn3y1/5eb0a8de7dac.jpg)
 * ↪️ **[Color Pickers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_color_pickers)**
+* ⭐ **[ImgOps](https://imgops.com/)** - Image Operations Meta-Tool
 * ⭐ **[AntiDupl](https://github.com/ermig1979/AntiDupl)** or [cbird](https://github.com/scrubbbbs/cbird) - Duplicate Image Removers
 * [Picviewer CE+](https://github.com/hoothin/UserScripts/tree/master/Picviewer%20CE+) - Turn Webpages into Image Galleries
 * [Binternet](https://github.com/Ahwxorg/Binternet) - Pinterest Frontend
 * [DataFilm](http://datafilm.io/) - Notebook for Film Photographers
 * [GlanceBack](https://glanceback.info/) - Daily Webcam Photo Journal
 * [Image Color Summarizer](http://mkweb.bcgsc.ca/color-summarizer/) - Image Color Summarizer
-* [ImgOps](https://imgops.com/) - Image Operations Meta-Tool
 * [FontAwesomePS](http://creativedo.co/FontAwesomePS) - Photoshop Icon Manager
 * [Adobe Bridge](https://adobe.com/products/bridge.html) - Adobe Assets Manager
 * [Image Colors](https://franciscouzo.github.io/image_colors/) - Image Color Scatter Plot 
-* [resdet](https://github.com/0x09/resdet) - Detect if an Image is Upscaled
 * [detectron2](https://github.com/facebookresearch/detectron2) - Object / Human Detection
-* [lbpcascade animeface](https://github.com/nagadomi/lbpcascade_animeface) - Detect Anime Faces
 * [behind!](https://github.com/kubuzetto/behind) - View Background Images
 * [Visual Center](https://javier.xyz/visual-center/) - Find the Visual Center of an Image
 * [Lithophane](https://3dp.rocks/lithophane) - Image to Lithophane Converter
 * [Handwriting-OCR](https://github.com/Breta01/handwriting-ocr) - Handwriting Image to Text
-* [Image-to-Image](https://affinelayer.com/pixsrv/) - Interactive Image Translation
 * [WhatTheFont](https://www.myfonts.com/) - Find Font from Image
 * [Watermarkly](https://watermarkly.com/) or [Watermarkup](https://watermarkup.com/watermark.html) - Image Watermarking
 * [Watermark Remover Online](https://www.aiseesoft.com/watermark-remover-online/) or [Watermark Remover](https://www.watermarkremover.io/) - Watermark Removal
@@ -595,20 +584,6 @@
 * [Limus](https://limus.netlify.app/) or [Screenstab](https://www.screenstab.com/editor/) - Change Screenshot Angles
 * [Screenshot Comparison](https://screenshotcomparison.com/) - Compare Screenshots
 * [Screenshot Tutorial](https://www.take-a-screenshot.org/) - Multi Platform Screenshot Guides 
-
-***
-
-## ▷  Image Converters
-
-* ⭐ **[ImageMagick](http://www.imagemagick.org/script/index.php)** - Image Editor / Converter
-* [imverter](https://www.imverter.com/), [Raw Pics](https://raw.pics.io/), [Converseen](https://converseen.fasterland.net/), [Vector Magic](https://vectormagic.com/) or [WebP Converter](https://webp-converter.com/) - Image Converters 
-* [StructuRise](http://structurise.com/screenshot-ocr/) - Convert Image Text to Text File
-* [svgco](https://svgco.de/) - Image to SVG Converter
-* [AnsiLove](https://www.ansilove.org/downloads.html) or [convert-ascii-to-image](https://onlinetools.com/ascii/convert-ascii-to-image) - ANSI / ASCII Art to PNG Converters
-* [Vector Express](https://vector.express/) - Vector Converter
-* [Vectorizer](https://www.vectorizer.io/) or [AutoTracer](https://www.autotracer.org/) - Image Vectorizer 
-* [text2img](https://master.ayra.ch/text2img/) or [CogView](https://github.com/THUDM/CogView) - Convert Text Screenshots to Images
-* [Selfie2Anime](https://selfie2anime.com/), [Animate-Me](https://github.com/Aneureka/animate-me) - Convert Selfies to Anime 
 
 ***
 
