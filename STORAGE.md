@@ -1806,7 +1806,7 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://70.88.180.169:8
 
 ### ReVanced
 
-* ⭐ **[ReVanced Manager](https://revanced.app/download)** or [Revanced-Extended Manager](https://github.com/inotia00/revanced-manager/releases) / [Guide](https://www.reddit.com/r/revancedextended/comments/12vxggr/revanced_extended_guide_for_beginners/) - Patch YouTube, Reddit, X and other apps / [Guide](https://redd.it/xlcny9)
+* ⭐ **[ReVanced Manager](https://revanced.app/download)** / [Guide](https://redd.it/xlcny9) or [Revanced-Extended Manager](https://github.com/inotia00/revanced-manager/releases) / [Guide](https://www.reddit.com/r/revancedextended/comments/12vxggr/revanced_extended_guide_for_beginners/) - Patch YouTube, Reddit, X and other apps
 * [revanced-magisk-module](https://github.com/j-hc/revanced-magisk-module/releases), [revanced-apks](https://github.com/revanced-apks/build-apps/releases), [docker-py-revanced](https://github.com/nikhilbadyal/docker-py-revanced/releases), [AT-YT](https://github.com/Zelooooo/AT-YT/releases), [revanced-extended-magisk-module](https://github.com/sixstrings/revanced-extended-magisk-module/releases) - Automated patchers
 * [Revancify](https://github.com/decipher3114/Revancify), [revanced-creator](https://github.com/XDream8/revanced-creator) - CLI Patchers
 
