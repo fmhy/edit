@@ -14,7 +14,7 @@
 * [CanvaPro365](https://t.me/canvapro365free) or [sharecanvaprofree](https://t.me/sharecanvaprofree) - Free Canva Pro Telegram Channels
 * [calltoidea](https://www.calltoidea.com/), [onepagelove](https://onepagelove.com/), [awwwards](https://www.awwwards.com/websites), [thedesigninspiration](https://thedesigninspiration.com/), [theinspirationgrid](https://theinspirationgrid.com/) or [inspirationde](https://www.inspirationde.com/) - Graphic Design Inspirations
 * [IRA Design](https://iradesign.io/) - Illustration Creator
-* [Graphite](https://github.com/GraphiteEditor/Graphite) - Vector Editor
+* [Graphite](https://graphite.rs/) - Vector Editor
 * [Method](https://editor.method.ac/) - SVG Editor
 * [SVGFilters](https://svgfilters.com/) - SVG Filter Builder
 * [Crayon](https://designstripe.com/crayon) or [SVGArtista](https://svgartista.net/) - SVG Animation Tools
@@ -100,15 +100,13 @@
 * [UpperPix](https://upperpix.com/)
 * [webp2jpg](https://renzhezhilu.github.io/webp2jpg-online/)
 * [Picverse](https://www.picverse.com/)
-* [Image Online](https://pencilsketch.imageonline.co/)
 * [Fotor](https://www.fotor.com/)
 * [PictureEditor](https://www.pictureeditor.com/)
-* [PhotoStack](https://edit.photostack.app/)
+* [PhotoStack](https://photostack.app/)
 * [Facet](https://facet.ai/)
 * [Peko-Step](https://www.peko-step.com/en/tool/imageeditor.html)
 * [ImageOnline](https://imageonline.co/)
 * [Tom's Editor](https://tomseditor.com/)
-* [CutMyPic](http://www.cutmypic.com/)
 * [edit.photo](https://edit.photo/)
 * [Image Resizer](https://www.image-resizer.eu/)
 
@@ -511,7 +509,7 @@
 * [PicView](https://github.com/Ruben2776/PicView)
 * [Image Eye](https://www.fmjsoft.com/imageeye.html)
 * [qView](https://interversehq.com/qview/)
-* [Quick Picture Viewer](https://moduleart.github.io/quick-picture-viewer/),
+* [Quick Picture Viewer](https://moduleart.github.io/quick-picture-viewer/)
 * [Fragment](https://www.fragmentapp.info/)
 * [HoneyView](https://en.bandisoft.com/honeyview/)
 * [picturama](https://picturama.github.io/)
