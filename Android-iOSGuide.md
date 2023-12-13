@@ -424,6 +424,7 @@
 * [PowerTube](https://github.com/razar-dev/PowerTube), [VidMate](https://www.vidmate.com/) or [DVD](https://github.com/yausername/dvd) - Video Download Tools
 * [YouTubeDL Android](https://github.com/yausername/youtubedl-android), [Seal](https://github.com/JunkFood02/Seal) or [SongTube](https://github.com/SongTube/SongTube-App) - YouTube Audio / Video Downloaders
 * [Transpose](https://chrome.google.com/webstore/detail/transpose-%E2%96%B2%E2%96%BC-pitch-%E2%96%B9-spee/ioimlbgefgadofblnajllknopjboejda?hl=en) - Online Video Pitch Shifter, Speed Changer and Looper
+* [PassAndroid](https://github.com/ligi/PassAndroid) or [GreenPass](https://github.com/michaeltroger/greenpass-android) - Manage Virtual Tickets / Passes
 * [GrayJay](https://grayjay.app/), [BBTV](https://github.com/bttv-android/bttv) or [Frosty](https://www.frostyapp.io/) - Twitch Apps
 * [DankChat](https://github.com/flex3r/DankChat) - Talk in Multiple Twitch Chats at Once
 * [Viddit](https://play.google.com/store/apps/details?id=aculix.viddit.downloader) - Reddit Video Downloader
@@ -534,6 +535,7 @@
 * [/r/iWallpaper](https://www.reddit.com/r/iWallpaper/) or [/r/MobileWallpaper](https://www.reddit.com/r/MobileWallpaper/) - Mobile Wallpapers Subreddits
 * [wallhaven](https://wallhaven.cc/search?categories=110&purity=100&ratios=portrait) - Wallpapers
 * [Wallpaper Engine](https://www.wallpaperengine.io/android/en) - Wallpapers
+* [Vave BG](https://vavebg.com/) - AI Generated Wallpapers
 * [DarQ](https://github.com/KieronQuinn/DarQ) - Universal Dark Mode
 * [Phonetones](http://onj3.andrelouis.com/phonetones/) - Ringtones Directory
 * [RBoard](https://forum.xda-developers.com/t/app-rboard-theme-manager.4331445/) / [GitHub](https://github.com/DerTyp7214/RboardThemeManagerV3), [Repainter](https://play.google.com/store/apps/details?id=dev.kdrag0n.dyntheme) or [Substratum](https://www.xda-developers.com/substratum-hub/) - Theme Managers
