@@ -78,7 +78,11 @@
 * [KoboldAI](https://github.com/henk717/KoboldAI) - GUI for Roleplaying Chatbots / [Web App](https://lite.koboldai.net/)
 * [Character Creator](https://oobabooga.github.io/character-creator) - Edit & Create Character Cards
 * [GPT Call](https://gptcall.net/) - Roleplaying Chatbots / [Discord](https://discord.gg/88fQT5Bgfe)
-* [Dreamshow](https://dreamshow.ai/), [Spicychat.ai](https://spicychat.ai/), [Epigon](https://epigon.ai/) or [Sakura](https://www.sakura.fm/) - Roleplaying Chatbots
+* [Dreamshow](https://dreamshow.ai/) - Roleplaying Chatbots
+* [Spicychat.ai](https://spicychat.ai/) - Roleplaying Chatbots
+* [Epigon](https://epigon.ai/) - Roleplaying Chatbots
+* [Sakura](https://www.sakura.fm/) - Roleplaying Chatbots
+* [4thWall AI](https://beta.4wall.ai/) - Roleplaying Chatbots
 * [TavernAI](https://tavernai.net/) - Roleplaying / Adventure Chatbot
 * [Broken Bear](https://www.brokenbear.com/) - Vent to AI Bear
 * [Delphi](https://delphi.allenai.org/) - Morality Judgement AI
