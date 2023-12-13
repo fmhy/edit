@@ -595,7 +595,6 @@ Use a **[Base64 Decoder](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage
 #### Microsoft Office DL Guides
 
 `aHR0cHM6Ly9yZW50cnkuY28vb2ZmaWNlLWd1aWRl==`
-`aHR0cHM6Ly9yZW50cnkub3JnL29mZmljZWd1aWRlZm9ybm9vYnM==`
 `aHR0cHM6Ly9yZW50cnkub3JnL0NMRUFOLUlOU1RBTEwtTUlDUk9TT0ZULU9GRklDRQ==`
 
 ***
