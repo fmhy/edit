@@ -1809,7 +1809,7 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://70.88.180.169:8
 * ⭐ **[ReVanced Manager](https://revanced.app/download)** - Patch YouTube and other APKs / [Guide](https://redd.it/xlcny9)
 * [Revanced-Extended Manager](https://github.com/inotia00/revanced-manager/releases) / [Guide](https://www.reddit.com/r/revancedextended/comments/12vxggr/revanced_extended_guide_for_beginners/)
 * [ReVanced Magisk Module Releases](https://github.com/j-hc/revanced-magisk-module/releases) / [2](https://github.com/revanced-apks/build-apps/releases) / [3](https://github.com/sixstrings/revanced-extended-magisk-module/releases) / [docker-py-revanced](https://github.com/nikhilbadyal/docker-py-revanced/releases) / [AT-YT](https://github.com/Zelooooo/AT-YT/releases) - Automated patchers
-* [Revancify](https://github.com/decipher3114/Revancify), [ReVanced Creator](https://github.com/XDream8/revanced-creator) - CLI Patchers
+* [Revancify](https://github.com/decipher3114/Revancify), [revanced-creator](https://github.com/XDream8/revanced-creator) - CLI Patchers
 
 ***
 
