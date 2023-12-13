@@ -473,7 +473,6 @@
 * [PandaVPN](https://pandavpnpro.com/) - [Pricing](https://ibb.co/PCPsv2t)
 * [Hidemy.name](https://hidemy.name/en/) - [Pricing](https://ibb.co/1mxrGTV)
 * [TitaniumNetwork VPN](https://tnvpn.com/) - [Pricing](https://i.ibb.co/r6CjtrB/282248084c76.png)
-* [Malwarebytes VPN](https://malwarebytes.com/vpn) - [Pricing](https://ibb.co/dPpYfT9) / [Owned by Mullvad](https://dustri.org/b/malwarebytes-privacy-vpn-is-mullvad-in-a-shady-trenchcoat.html)
 * [Adguard VPN](https://adguard-vpn.com/en/welcome.html) - VPN Extension / 3GB Free / [Pricing](https://ibb.co/rt0DS0N)
 * [PrivadoVPN](https://privadovpn.com/) - Free VPN / Unlimited Accounts via [Temp Mail](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_temp_email_sites)
 * [Kaspersky](https://www.kaspersky.com/vpn-secure-connection) - Free VPN / 200 MB per day / No Account Required
