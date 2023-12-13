@@ -149,7 +149,7 @@
 * [SebastianLague](https://www.youtube.com/c/SebastianLague/playlists?view=50&sort=dd&shelf_id=4) - Game Development Tutorials
 * [Trig for Games](https://demoman.net/?a=trig-for-games) - Trigonometry Lessons for Games
 * [ProFantasy](https://rpgmaps.profantasy.com/) - Fantasy Map Making Tutorials
-[Game Math](https://gamemath.com/book/intro.html) - Mathematics Lessons for Game Devs
+* [Game Math](https://gamemath.com/book/intro.html) - Mathematics Lessons for Game Devs
 * [CHIP-8 Research](https://chip-8.github.io/) - CHIP-8 Research
 
 ***
