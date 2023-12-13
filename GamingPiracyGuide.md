@@ -1014,7 +1014,7 @@
 * 🌐 **[Awesome Minecraft](https://github.com/bs-community/awesome-minecraft)** or [Minecraft Tools](https://minecraft.tools/en/)- Minecraft Resources
 * 🌐 **[TopMinecraftServers](https://topminecraftservers.org/)** - List of Minecraft Servers
 * 🌐 **[Minecraft QOL Mods](https://rentry.co/mc-qol)** or [sk1er.club](https://sk1er.club/) - Quality of Life Mods
-* 🌐 **[OptiFine Alternatives](https://lambdaurora.dev/optifine_alternatives/)** - OptiFine Alternatives for Fabric
+* 🌐 **[OptiFine Alternatives](https://optifine.alternatives.lambdaurora.dev/)** - OptiFine Alternatives for Fabric
 * 🌐 **[ChunkBase](https://www.chunkbase.com/apps/)** - Minecraft Map Tools
 * 🌐 **[SkyblockAddons](https://github.com/BiscuitDevelopment/SkyblockAddons)** - Addons for Skyblock
 * ↪️ **[Modded Minecraft Launchers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_modded_minecraft_launchers)** - [Beta](https://betacraft.uk/) / [Bedrock / Java](https://redd.it/xj5w9m), [2](https://bedrocklauncher.github.io/)
