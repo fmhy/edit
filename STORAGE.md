@@ -1797,21 +1797,19 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://70.88.180.169:8
 
 ## Youtube Android Apps
 
-* ⭐ **[ReVanced](https://revanced.app)** / [Extended](https://github.com/inotia00/ReVanced_Extended), [ReVanced APKs](https://revanced-apks.pages.dev/) - Latest Revanced Apps / [Guide](https://redd.it/xlcny9)
-* ⭐ **[ReVanced Manager](https://github.com/revanced/revanced-manager)**
-* ⭐ **[ReVanced Extended](https://github.com/inotia00/revanced-patches/tree/revanced-extended)** / [Magisk Module](https://github.com/sixstrings/revanced-extended-magisk-module)
-* ⭐ **[ReVanced Magisk Module](https://github.com/j-hc/revanced-magisk-module)**
 * ⭐ **[LibreTube](https://github.com/libre-tube/LibreTube)**
 * ⭐ **[NewPipe](https://newpipe.net/)** / [Sponsorblock](https://github.com/polymorphicshade/NewPipe)
 * [Clipious](https://github.com/lamarios/clipious) - YouTube Frontend
-* [ReVanced Patcher](https://github.com/decipher3114/Revancify) or [ReX-patches](https://github.com/YT-Advanced/ReX-patches) - ReVanced Patches
 * [VueTube](https://github.com/VueTubeApp/VueTube)
 * [SkyTube](https://github.com/SkyTubeTeam/SkyTube)
 * [FreeTubeCordova](https://github.com/MarmadileManteater/FreeTubeCordova)
 
-### ReVanced App Builders
+### ReVanced
 
-[ReVanced Creator](https://github.com/XDream8/revanced-creator), [Docker-Py-ReVanced](https://github.com/nikhilbadyal/docker-py-revanced), [YT-AT](https://github.com/Zelooooo/AT-YT)
+* ⭐ **[ReVanced Manager](https://revanced.app/download)** - Patch YouTube and other APKs / [Guide](https://redd.it/xlcny9)
+* [Revanced-Extended Manager](https://github.com/inotia00/revanced-manager/releases) / [Guide](https://www.reddit.com/r/revancedextended/comments/12vxggr/revanced_extended_guide_for_beginners/)
+* [ReVanced Magisk Module](https://github.com/j-hc/revanced-magisk-module/releases) / [2](https://github.com/revanced-apks/build-apps/releases) / [3](https://github.com/sixstrings/revanced-extended-magisk-module) / [4](https://github.com/Zelooooo/AT-YT/releases) - Patched APKs including Magisk and Extended
+* [Revancify](https://github.com/decipher3114/Revancify), [ReVanced Creator](https://github.com/XDream8/revanced-creator) or [Docker-Py-ReVanced](https://github.com/nikhilbadyal/docker-py-revanced) - CLI Patchers
 
 ***
 
