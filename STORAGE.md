@@ -4,7 +4,7 @@
 ***
 ***
 
-**[Table of Contents](https://ibb.co/mXxKhsF)** - For mobile users
+**[Table of Contents](https://ibb.co/YW4cGMt)** - For mobile users
 
 ***
 ***
@@ -462,12 +462,6 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://70.88.180.169:8
 
 ***
 
-## ESRGAN Models
-
-[ESRGAN Models](https://icedrive.net/1/43GNBihZyi), [Upscale Model Database](https://upscale.wiki/wiki/Model_Database), [ESRGAN](https://github.com/JoeyBallentine/ESRGAN)
-
-***
-
 ## Flash Player Tools
 
 * [How to Download & Play Flash Games](https://i.ibb.co/PFBJHT9/ae04fde6fe0b.png), [2](https://www.wikihow.com/Download-a-Flash-Game)
@@ -736,8 +730,11 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://70.88.180.169:8
 ## Image to Text
 
 * ⭐ **[Capture2Text](https://capture2text.sourceforge.net/)**
+* ⭐ **[Text Grab](https://github.com/TheJoeFin/Text-Grab)**
+* ⭐ **[i2ocr](https://www.i2ocr.com/)** - Online OCR
+* ⭐ **[OCR.SPACE](https://ocr.space/)** - Online OCR
 
-[Text Grab](https://github.com/TheJoeFin/Text-Grab), [TextShot](https://github.com/ianzhao05/textshot), [OnlineOCR](https://onlineocr.org/), [IMG2TXT](https://img2txt.com/), [NewOCR](https://www.newocr.com/), [OCR.SPACE](https://ocr.space/), [Project Naptha](https://projectnaptha.com/), [Extract text from image](https://brandfolder.com/workbench/extract-text-from-image), [2ocr](https://2ocr.com/), [i2ocr](https://www.i2ocr.com/), [ImageToText](https://www.imagetotext.info/), [OnlineOCR](https://www.onlineocr.net/), [ImageScanOCR](https://github.com/ttop32/ImageScanOCR), [iblogbox OCR](https://imagetotext.iblogbox.com/)
+[TextShot](https://github.com/ianzhao05/textshot), [OnlineOCR](https://onlineocr.org/), [NewOCR](https://www.newocr.com/), [Project Naptha](https://projectnaptha.com/), [Extract text from image](https://brandfolder.com/workbench/extract-text-from-image), [2ocr](https://2ocr.com/), [ImageToText](https://www.imagetotext.info/), [OnlineOCR](https://www.onlineocr.net/), [ImageScanOCR](https://github.com/ttop32/ImageScanOCR), [iblogbox OCR](https://imagetotext.iblogbox.com/)
 
 ***
 
@@ -1378,7 +1375,7 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://70.88.180.169:8
 
 ## SMS Verification Sites
 
-[2ndline](https://www.2ndline.co/), [TextNow](https://www.textnow.com/), [SMS Receive Free](https://smsreceivefree.com/), [SMS Online](https://sms-online.co/), [GetFreeSMSNUmber](https://getfreesmsnumber.com/), [SMS Receive](https://sms-receive.net/), [Receive SMS Online](https://www.receivesmsonline.net/), [7Sim](https://7sim.pro/), [receivesmsonline](https://receivesmsonline.in/), [Sellaite](https://sms.sellaite.com/), [Send SMS Now](https://www.sendsmsnow.com/), [Free Online Phone](https://www.freeonlinephone.org/), [SMS Get](https://smsget.net/), [1s2u](https://1s2u.com/), [My Trash Mobile](https://www.mytrashmobile.com/), [GlobFone](https://globfone.com/), [receive-sms](https://receive-sms.com/), [freesmsverification](http://freesmsverification.com/), [countrycode](https://countrycode.org/), [temp-sms](https://temp-sms.org/), [oksms](https://oksms.org/), [temporary-phone-number](https://temporary-phone-number.com/), [cloakmobile](https://cloakmobile.com/), [pumpsms](http://pumpsms.com/), [spoofbox](https://www.spoofbox.com/en/tool/trash-mobile/number), [smska](https://smska.us/), [receive-sms-online](https://www.receive-sms-online.info/), [smsfinders](https://smsfinders.com/), [receivesms](https://receivesms.org/), [mfreesms](https://mfreesms.com/), [fake-sms](https://github.com/Narasimha1997/fake-sms), [yunjisms](https://yunjisms.xyz/), [smscodeonline](https://smscodeonline.com/), [lothelper](https://www.lothelper.com/), [xinghai](https://xinghai.party/), [mianfeijiema](https://mianfeijiema.com/), [receivesms](https://www.receivesms.net/), [jiemahao](https://jiemahao.com/), [storytrain](https://www.storytrain.info/), [Temp Number](https://temp-number.com/), [sms24](https://www.sms24.me/), [receive-smss](https://receive-smss.com), [verificationfree](https://verificationfree.com/), [simpletexting](https://simpletexting.com/), [freesmscenter](https://freesmscenter.com/), [receive-sms](https://receive-sms.cc/), [online-sms](https://online-sms.org/), [grizzlysms](https://grizzlysms.com/), [spytm](https://spytm.com/), [receivesms](https://www.receivesms.co/), [receive-sms-free](https://receive-sms-free.cc/), [receivesms](https://receivesms.cc/), [sms-activation-service](https://sms-activation-service.com/), [burnerapp](https://www.burnerapp.com/), [temp-sms](https://temp-sms.org/), [receivesms](https://receivesms.org/), [temp-number](https://temp-number.org/), [tempsmss](https://tempsmss.com/), [quackr](https://quackr.io/), [sms24](https://sms24.me/), [freephonenum](https://freephonenum.com/), [5sim](https://5sim.net/free), [smsnator](https://smsnator.online/), [InboxSMS](https://inboxsms.me/), [anonymsms](https://anonymsms.com/temporary-phone-number/), [onlinesim](https://onlinesim.io/), [ReceiveaSMS](https://receive-a-sms.com/), [Receive Free SMS](https://receivefreesms.net/), [Receive SMS Online Free](http://receivefreesms.com/)
+[2ndline](https://www.2ndline.co/), [TextNow](https://www.textnow.com/), [SMS Receive Free](https://smsreceivefree.com/), [SMS Online](https://sms-online.co/), [GetFreeSMSNUmber](https://getfreesmsnumber.com/), [SMS Receive](https://sms-receive.net/), [Receive SMS Online](https://www.receivesmsonline.net/), [7Sim](https://7sim.pro/), [receivesmsonline](https://receivesmsonline.in/), [Sellaite](https://sms.sellaite.com/), [Send SMS Now](https://www.sendsmsnow.com/), [Free Online Phone](https://www.freeonlinephone.org/), [SMS Get](https://smsget.net/), [1s2u](https://1s2u.com/), [My Trash Mobile](https://www.mytrashmobile.com/), [GlobFone](https://globfone.com/), [receive-sms](https://receive-sms.com/), [freesmsverification](http://freesmsverification.com/), [countrycode](https://countrycode.org/), [temp-sms](https://temp-sms.org/), [oksms](https://oksms.org/), [temporary-phone-number](https://temporary-phone-number.com/), [cloakmobile](https://cloakmobile.com/), [pumpsms](http://pumpsms.com/), [spoofbox](https://www.spoofbox.com/en/tool/trash-mobile/number), [smska](https://smska.us/), [receive-sms-online](https://www.receive-sms-online.info/), [smsfinders](https://smsfinders.com/), [receivesms](https://receivesms.org/), [mfreesms](https://mfreesms.com/), [yunjisms](https://yunjisms.xyz/), [smscodeonline](https://smscodeonline.com/), [lothelper](https://www.lothelper.com/), [xinghai](https://xinghai.party/), [mianfeijiema](https://mianfeijiema.com/), [receivesms](https://www.receivesms.net/), [jiemahao](https://jiemahao.com/), [storytrain](https://www.storytrain.info/), [Temp Number](https://temp-number.com/), [sms24](https://www.sms24.me/), [receive-smss](https://receive-smss.com), [verificationfree](https://verificationfree.com/), [simpletexting](https://simpletexting.com/), [freesmscenter](https://freesmscenter.com/), [receive-sms](https://receive-sms.cc/), [online-sms](https://online-sms.org/), [grizzlysms](https://grizzlysms.com/), [spytm](https://spytm.com/), [receivesms](https://www.receivesms.co/), [receive-sms-free](https://receive-sms-free.cc/), [receivesms](https://receivesms.cc/), [sms-activation-service](https://sms-activation-service.com/), [burnerapp](https://www.burnerapp.com/), [temp-sms](https://temp-sms.org/), [receivesms](https://receivesms.org/), [temp-number](https://temp-number.org/), [tempsmss](https://tempsmss.com/), [quackr](https://quackr.io/), [sms24](https://sms24.me/), [freephonenum](https://freephonenum.com/), [5sim](https://5sim.net/free), [smsnator](https://smsnator.online/), [InboxSMS](https://inboxsms.me/), [anonymsms](https://anonymsms.com/temporary-phone-number/), [onlinesim](https://onlinesim.io/), [ReceiveaSMS](https://receive-a-sms.com/), [Receive Free SMS](https://receivefreesms.net/), [Receive SMS Online Free](http://receivefreesms.com/)
 
 ### No CC Required Trial Sites
 
