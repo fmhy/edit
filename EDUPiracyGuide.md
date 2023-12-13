@@ -387,6 +387,7 @@
 * [Seeing Theory](https://seeing-theory.brown.edu/) or [Stat Trek](https://stattrek.com/) - Statistics & Probability Tutorials
 * [MathWords](https://www.mathwords.com/) - Math Term Dictionary
 * [arTIfiCE](https://yvantt.github.io/arTIfiCE/) - TI CE Calculator Jailbreak
+* [Brainstellar Puzzles](https://brainstellar.com/puzzles) - Puzzles From Quant Interviews
 
 ***
 
