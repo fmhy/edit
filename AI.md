@@ -4,7 +4,7 @@
 ***
 ***
 
-**[Table of Contents](https://ibb.co/Gf673ZN)** - For mobile users
+**[Table of Contents](https://ibb.co/0fpQjy7)** - For mobile users
 
 ***
 ***
@@ -311,15 +311,7 @@
 
 ***
 
-## ▷ [Image Restoration](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/img-tools#wiki_.25B7_restoration)
-
-***
-
-## ▷ [Image Colorization](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_image_colorization)
-
-***
-
-## ▷ [Image Upscaling](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/img-tools#wiki_.25B7_image_upscalers)
+## ▷ [Image Restoration](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/img-tools#wiki_.25B7_upscale_.2F_restore)
 
 ***
 
