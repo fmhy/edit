@@ -883,6 +883,7 @@
 * [Familypedia](https://familypedia.fandom.com/), [Gramps](https://gramps-project.org/blog/) or [WikiTree](https://wikitree.com/) - Family Trees
 * [Ravelry](https://ravelry.com) - Fiber Artist Tools
 * [ThistoThat](https://www.thistothat.com/) - How to Glue Anything to Anything
+* [PEmbroider](https://github.com/CreativeInquiry/PEmbroider) - Embroidery Generator
 * [Stain Solutions](https://web.extension.illinois.edu/stain/) - Stain Solution Index
 * [CarComplaints](https://www.carcomplaints.com/) - Car Problems, Car Complaints and Repairs
 * [PlateRecognizer](https://platerecognizer.com/) - License Plate Recognition
@@ -934,7 +935,6 @@
 * [PenPal World](https://www.penpalworld.com/) or [GlobalPenFriends](https://www.globalpenfriends.com/) - Pen Pal Community
 * [WriteAPrisoner](https://writeaprisoner.com/) - Pen Pals for Inmates
 * [Tinder for Bananas](https://tinderforbananas.com/) - Tinder for Bananas
-* [Talk-Bot](https://www.frontiernet.net/~wcowart/aachatbot.html) - Chat with Robot
 * [Magic Crystal Ball](https://www.oproot.com/ball/) - Get Messages from Beyond
 
 ***
@@ -977,8 +977,16 @@
 * [Chimera Painter](https://storage.googleapis.com/chimera-painter/index.html) - Chimera Generator
 * [MakeCoatOfArms](https://www.allfamilycrests.com/makecoatofarms.htm ) - Coat of Arms Generator
 * [Web Neko](https://webneko.net/) - Nekos on the Web
+* [Uji](https://doersino.github.io/uji/) or [Turtletoy](https://turtletoy.net/) - Minimalist Art Generators
 * [No Paint](https://nopaint.art/) - Press "Paint" if you like what you see, "No" if you don't
 * [Random Art](https://www.random-art.org/) - Random Art Generator
+* [Paper Quilling Art](https://pissang.github.io/paper-quilling-art/) - Paper Quilling Art Generator
+* [Periodicity](https://williamhoza.com/periodicity/) - Harmonic Motion Patterns
+* [Cubes.io](https://cubes.io/) - Cellular Automata
+* [Inspirograph](https://nathanfriend.io/inspiral-web/) or [SpirographN](http://seedcode.com/SpirographN/sgn.html) - Spirograph Tool
+* [Silk](http://weavesilk.com/) - Create Geometric Silk Art
+* [MandalaGaba](https://www.mandalagaba.com/) / [Pro Version](https://pro.mandalagaba.com/), [Mandala App](https://mandala-app.com/) or [DigitalDoily](https://codymoose.github.io/web-applications/DigitalDoily/index.html) - Zen Geometry Tools
+* [myMrLx](https://codepen.io/davidpanik/full/myMrLx/) - Spiral Art Generators
 * [Remoji](https://remoji.com/) - Emoji Painting
 * [MyPokeCard](https://www.mypokecard.com/en/) - Create Pokemon Cards
 * [pokemon-colorscripts](https://gitlab.com/phoneybadger/pokemon-colorscripts) - Terminal Pokémon Sprites
@@ -990,17 +998,11 @@
 * [Floor796](https://floor796.com/) - Ever-Expanding Animated Scene
 * [Zoomquilt](https://www.zoomquilt.org/) / [2](https://zoomquilt2.com/), [Infinite Zoom](https://infinitezoom.net/) or [Arkadia](https://arkadia.xyz/) - Infinite Zooming Paintings
 * [Blue Ball Machine 2](https://blueballmachine2.ytmnd.com/) - Full Page Chain Reaction Image
-* [FootballShirtMaker](https://footballshirtmaker.com/en-us/) - Create Custom Football T-Shirts
 * [Magnet Poetry](https://sadgrl.online/magnet-poetry) - Magnet Poetry
-* [Fake Text Message](https://ifaketextmessage.com/) or [iFake](https://ifaketextmessage.com/) - Make Fake Text Conversation
 * [Useless Certifications](https://uselesscertifications.com/) - Useless Certifications
-* [ViralPostGenerator](https://viralpostgenerator.com/) - Generate Cringe LinkedIn Post
 * [AwesomeCars](https://awesomecars.neocities.org/) - Drip Car Memes
 * [Anime Girls Holding Programming Books](https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books/)
 * [webgbcam](https://maple.pet/webgbcam/) - Gameboy Camera in Browser
-* [rroll.to](https://rroll.to/) - Rick Roll Link Shortener
-* [Rick Astley Remixer](http://dinahmoelabs.com/rickastley) - Remix Rick Roll
-* [thisvid2 Web Edition](https://projectlounge.pw/thisvid2) - (Funny) Twitter Video Downloader
 * [Terminal Video Player](https://github.com/TheRealOrange/terminalvideoplayer) - Cursed Terminal Video Player
 
 ***
