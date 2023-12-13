@@ -4,7 +4,7 @@
 ***
 ***
 
-**[Table of Contents](https://ibb.co/zXm90nC)** - For mobile users
+**[Table of Contents](https://ibb.co/mXxKhsF)** - For mobile users
 
 ***
 ***
@@ -1792,24 +1792,6 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://70.88.180.169:8
 ## Wordpress Themes
 
 [gpldl](https://gpldl.com/), [wplocker](https://www.wplocker.com/), [Weadown](https://weadown.com/), [FreeNulledCode](https://freenulledcode.com/), [crackthemes](https://www.crackthemes.com/), [Mega Drive](https://github.com/nbats/FMHYedit/blob/main/base64.md#wordpress-themes), [jojo-themes](https://www.jojo-themes.net/), [babiato](https://babia.to/), [newtemplate](https://newtemplate.net/), [justfreewpthemes](https://justfreewpthemes.com/), [themesplugins](https://themesplugins.club/)
-
-***
-
-## Youtube Android Apps
-
-* ⭐ **[LibreTube](https://github.com/libre-tube/LibreTube)**
-* ⭐ **[NewPipe](https://newpipe.net/)** / [Sponsorblock](https://github.com/polymorphicshade/NewPipe)
-* [Clipious](https://github.com/lamarios/clipious) - YouTube Frontend
-* [VueTube](https://github.com/VueTubeApp/VueTube)
-* [SkyTube](https://github.com/SkyTubeTeam/SkyTube)
-* [FreeTubeCordova](https://github.com/MarmadileManteater/FreeTubeCordova)
-
-### ReVanced
-
-* ⭐ **[ReVanced Manager](https://revanced.app/download)** / [Guide](https://redd.it/xlcny9) - Patch YouTube, Reddit, X and other Apps
-* [Revanced-Extended Manager](https://github.com/inotia00/revanced-manager/releases/latest) / [Guide](https://www.reddit.com/r/revancedextended/comments/12vxggr/revanced_extended_guide_for_beginners/) - Extended patches for YT, YTMusic and Reddit
-* [revanced-magisk-module](https://github.com/j-hc/revanced-magisk-module/releases), [revanced-apks](https://github.com/revanced-apks/build-apps/releases), [docker-py-revanced](https://github.com/nikhilbadyal/docker-py-revanced/releases) or [AT-YT](https://github.com/Zelooooo/AT-YT/releases) - Automated Patchers
-* [revanced-cli](https://github.com/ReVanced/revanced-cli/), [Revancify](https://github.com/decipher3114/Revancify) or [revanced-creator](https://github.com/XDream8/revanced-creator) - CLI Patchers
 
 ***
 
