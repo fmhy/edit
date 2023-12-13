@@ -515,6 +515,7 @@
 * [Fragment](https://www.fragmentapp.info/)
 * [HoneyView](https://en.bandisoft.com/honeyview/)
 * [picturama](https://picturama.github.io/)
+* [BeeRef](https://beeref.org/) - Reference Image Viewer
 * [HDRView](https://github.com/wkjarosz/hdrview) - HDR Image Viewer
 * [FlipFlip](https://github.com/ififfy/flipflip/) - Image Slideshow
 
