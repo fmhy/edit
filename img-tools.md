@@ -205,14 +205,11 @@
 * [myMrLx](https://codepen.io/davidpanik/full/myMrLx/) - Spiral Art Generators
 * [Paper Quilling Art](https://pissang.github.io/paper-quilling-art/) - Paper Quilling Art Generator
 * [Brown](https://fi-le.net/brown/) - Brownian Motion Tool
-* [Mondrian And Me](https://mondrianandme.com/) - Mondrian Art Creator
 * [Periodicity](https://williamhoza.com/periodicity/) - Harmonic Motion Patterns
 * [Cubes.io](https://cubes.io/) - Cellular Automata
-* [overwhale](http://overwhale.com/) - Fractal Image Generators
 * [PEmbroider](https://github.com/CreativeInquiry/PEmbroider) - Embroidery Generator
-* [Hugin](https://hugin.sourceforge.io/) or [Ice](https://www.microsoft.com/en-us/research/product/computational-photography-applications/image-composite-editor/) - Panorama Image Generator
+* [Hugin](https://hugin.sourceforge.io/) - Panorama Image Generator
 * [PhotoEphemeris](https://photoephemeris.com/) - Photography Sunlight Calculator
-* [Side It](https://sideit.app/) - Side by Side Image Generator
 * [SuperDesigner](https://superdesigner.co/) - Background / Pattern Designer
 * [Noise & Gradient](https://www.noiseandgradient.com/), [Gradient Designer](https://gradient-designer.csspost.com/), [BGJar](https://bgjar.com/), [MeshGradient](https://meshgradient.in/) or [BGGenerator](https://bggenerator.com/) - Background / Gradient Generators
 * [MakeTintAndShade](https://maketintsandshades.com/) - Tint and Shade Generator
