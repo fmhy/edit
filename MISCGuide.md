@@ -443,6 +443,7 @@
 ## ▷ Mental Health
 
 * 🌐 **[Awesome Mental Health](https://github.com/dreamingechoes/awesome-mental-health)** or [mentalillnessmouse](https://mentalillnessmouse.wordpress.com/helpfulresources/) - Mental Health Resources
+* ⭐ **[The Integral Guide to Well-Being](https://integralguide.com/)** - Mental Health Guide
 * [Nomie](https://v5.nomie.app/), [Koduko](https://github.com/Mazahir26/koduko) or [Respawn](https://respawn.pro/) - Habit / Mood Trackers
 * [You feel like shit.](https://philome.la/jace_harr/you-feel-like-shit-an-interactive-self-care-guide/play/index.html) - Interactive Self Care Guide
 * [deskspace](https://npckc.itch.io/deskspace) - Self-Care App
