@@ -165,7 +165,7 @@
 * [Authenticator](https://authenticator.cc/) - Generate Two-Factor QR Codes / [GitHub](https://gitlab.gnome.org/World/Authenticator)
 * [Authy Migration](https://github.com/token2/authy-migration) - Export Tokens from Authy
 * [Privacy Settings](https://github.com/StellarSand/privacy-settings) - Privacy Setting Guides
-* [Smart Sec Cam](https://github.com/scottbarnesg/smart-sec-cam) or [ZoneMinder](https://zoneminder.com/) - Security Camera System
+* [Frigate](https://frigate.video/), [Smart Sec Cam](https://github.com/scottbarnesg/smart-sec-cam) or [ZoneMinder](https://zoneminder.com/) - Security Camera Systems
 * [Vault](https://www.vaultproject.io/) - Data Security Service / [GitHub](https://github.com/hashicorp/vault)
 * [Team Elite](https://www.te-home.net/) or [Technet24](https://technet24.ir/) - Security Software / [Translator](https://github.com/FilipePS/Traduzir-paginas-web)
 * [No Thought is a Crime](https://ntc.party/) - Internet Censorship Discussion
