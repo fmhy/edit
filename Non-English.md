@@ -925,7 +925,7 @@
 * ⭐ **[WR Educacional](https://www.wreducacional.com.br)** - Courses
 * [Rei dos Torrents](https://reidostorrents.com) - Video / Audio / Books / Sub / Dub / 1080p
 * [Os Reformados](https://osreformados.com) - Video / Audio / Magazines / Sub / Dub / 1080p
-* [Baixar Séries MP4](https://baixarseriesmp4.eu) - Movies / TV / Anime / Sub / Dub / 1080p
+* [Baixar Séries MP4](https://baixarseriesmp4.pm) - Movies / TV / Anime / Sub / Dub / 1080p
 * [Animes Totais](https://www.animestotais.xyz) - Movies / TV / Anime / Cartoons / Sub / Dub / 1080p
 * [Séries Empire](https://seriesempire.com) - TV / Sub / Dub / 720p
 * [Anipakku](https://anipakku.blogspot.com) - Anime / Sub / 1080p / [Discord](https://discord.com/invite/Whu6RV9Gad)
@@ -939,7 +939,7 @@
 
 * ⭐ **[Download Cursos Grátis](https://downloadcursos.top)** - Courses / Use Adblock
 * [Rei dos Torrents](https://reidostorrents.com) - Video / Audio/ Books
-* [Hiper Flix](https://hiperflix.org) - Movies / TV
+* [Br Filmes](https://brfilmes.net) - Movies / TV
 * [Torrent dos Filmes](https://torrentdosfilmes.se) - Movies / TV
 * [Comando](https://comando.la) - Movies / TV
 * [Filmes Mega](https://filmesmega.co) - Movies / TV
