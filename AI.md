@@ -260,7 +260,6 @@
 * [Noiselith](https://noiselith.com/)
 * [NMKD Stable Diffusion GUI](https://github.com/n00mkrad/text2image-gui)
 * [aiimag.es](https://sunija.itch.io/aiimages) / [Discord](https://discord.com/invite/Fge4dVHFM2)
-* [DiffusionBee](https://diffusionbee.com/) - MacsOS / [Github](https://github.com/divamgupta/diffusionbee-stable-diffusion-ui) / [Discord](https://discord.com/invite/t6rC5RaJQn)
 
 ***
 
