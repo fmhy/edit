@@ -529,6 +529,7 @@
 * [TCL Browser](https://play.google.com/store/apps/details?id=com.tcl.browser) or [TV Bro](https://play.google.com/store/apps/details?id=com.phlox.tvwebbrowser) - Ad Free Android TV Browsers
 * [Android TV Spotify](https://github.com/nbats/FMHYedit/blob/main/base64.md#android-tv-spotify) - Android TV Spotify Client
 * [YTCast](https://github.com/MarcoLucidi01/ytcast) - Cast YouTube Videos to Smart TV
+* [LGTV YouTube](https://redd.it/wzs6hg) - Ad-Free YouTube Guide for LG TVs
 * [S0undTV](https://github.com/S0und/S0undTV) - Android TV Twitch Player / [Discord](https://discord.gg/zmNjK2S)
 * [SmartTwitchTV](https://github.com/fgl27/SmartTwitchTV) - Smart TV Twitch Player
 * [Go2TV](https://github.com/alexballas/go2tv) or [FCast](https://fcast.org/) - Cast to Smart TVs
@@ -866,7 +867,7 @@
 * [AniTrakt](https://anitrakt.huere.net/) - Trakt / MyAnimeList Sync
 * [cringeMDb](https://cringemdb.com/) - Find Movies Safe to Watch with Parents
 * [Age Rating JuJu](https://www.ageratingjuju.com/) - Media Age Ratings
-* [CommonSenseMedia](https://www.commonsensemedia.org/) - Age-Based Media Reviews
+* [CommonSenseMedia](https://www.commonsensemedia.org/) or [Kids in Mind](https://kids-in-mind.com/) - Age-Based Media Reviews
 * [unconsenting media](https://www.unconsentingmedia.org) - Database of Sexual Violence in Movies/Shows
 * [BingeClock](https://www.bingeclock.com/), [Can I Binge?](https://canibinge.com/) or [tiii.me](https://tiii.me/) - TV Show Length Calculators
 * [DramaWiki](https://wiki.d-addicts.com/), [KoreanDrama](https://www.koreandrama.org/) or [HanCinema](https://www.hancinema.net/) - Asian Drama Wikis
@@ -885,6 +886,7 @@
 * [ProductPlacementBlog](https://productplacementblog.com/) - Product Placement Database
 * [Releases.com](https://www.releases.com/) or [DVDReleaseDates](https://www.dvdsreleasedates.com/) - DVD / Blu-Ray Release Dates
 * [TVTropes](https://tvtropes.org/) - TV Tropes Wiki
+* [Bechdel Test](https://bechdeltest.com/ ) - Movie Bechdel Test Check
 * [MovieMap](http://www.themoviemap.com/), [Movie-Locations](https://www.movie-locations.com/), [MovieLoci](https://www.movieloci.com/), [AtlasOfWonders](https://www.atlasofwonders.com/), [WhereDidTheyFilmThat](https://www.wheredidtheyfilmthat.co.uk/) - Film Location Maps
 
 ***
@@ -961,6 +963,7 @@
 * [Media Stack DIY](http://tennojim.xyz/article/media_stack_diy) - High Quality Streaming Guide
 * [/r/SceneReleases](https://www.reddit.com/r/SceneReleases/) - Untouched Scene Release Tracker
 * [WatchVideoByLink](https://github.com/MohamedBakoush/WatchVideoByLink) - Web Video Viewer / Manager
+* [FastStream](https://github.com/Andrews54757/FastStream/) - Fragmentation Streaming Extension
 * [HowDoesTheMovieEnd](http://www.howdoesthemovieend.com/), [MoviePooper](https://moviepooper.com/), [themoviespoiler](https://themoviespoiler.com/) or [DoesTheDogDie](https://www.doesthedogdie.com/) - Movie Spoilers
 * [WheresTheJump?](https://wheresthejump.com/) - Find Movie Jump Scares
 * [DMT](https://dmtalkies.com/) - Movies / TV Ending Explanations and Recaps
