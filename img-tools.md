@@ -129,6 +129,7 @@
 * [Crunch](https://github.com/chrissimpkins/Crunch) - Image Upscaling
 * [PNG-Upscale](https://github.com/Araxeus/PNG-Upscale) - Image Upscaling
 * [Cupscale](https://github.com/n00mkrad/cupscale) - Image Upscaling
+* [ImageScaler](https://github.com/RoanH/ImageScaler/) - Image Upscaling
 * [Upscaler Stockphotos](https://upscaler.stockphotos.com/) - Image Upscaling
 * [ImageUpscaler](https://imageupscaler.com/), [2](https://image-upscaler.beatsnoop.com/) - Image Upscaling
 * [Upscale Media](https://www.upscale.media/) - Image Upscaling
