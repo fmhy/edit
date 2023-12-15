@@ -578,8 +578,8 @@
 * [CalyXOS](https://calyxos.org/) - Privacy Based OS
 * [LineageOS](https://www.lineageos.org/) - CyanogenMod Fork / [MicroG](https://lineage.microg.org/)
 * [ProtonAOSP](https://protonaosp.org) - Minimal / Open-Source OS
-* [BlissROMs](https://blissroms.org/) - Open-Source / Customizable
-* [PixelExperience](https://get.pixelexperience.org/) - AOSP ROM with Google Pixel features
+* [BlissROMs](https://blissroms.org/) - Customizable  / Open-Source OS
+* [PixelExperience](https://get.pixelexperience.org/) - AOSP ROM w/ Google Pixel Features
 
 ***
 
