@@ -915,3 +915,9 @@ Use a **[Base64 Decoder](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage
 #### adguard pro (ios)
 
 `aHR0cHM6Ly9mb3J1bS5tb2JpbGlzbS5vcmcvc2VhcmNoLnBocD9rZXl3b3Jkcz1BZEd1YXJkK1BybyZzcj10b3BpY3Mmc2Y9dGl0bGVvbmx5`
+
+***
+
+#### Occult Rentry
+
+`aHR0cHM6Ly9yZW50cnkuY28vT2NjdWx0LVJlcG8=`
