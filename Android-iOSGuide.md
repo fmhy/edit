@@ -118,13 +118,27 @@
 
 ***
 
+## ▷ App Launchers
+
+* ⭐ [Niagara Launcher](https://niagaralauncher.app/) - Single-Hand Launcher
+* ⭐ [Lawnchair](https://lawnchair.app/) - Pixel-Based Launcher / [Feed](https://github.com/LawnchairLauncher/lawnfeed/releases/download/v3.0.0/Lawnfeed.3.apk) / [Icons](https://github.com/LawnchairLauncher/lawnicons/releases/download/v2.5.0/Lawnicons-2.5.0.apk)
+* [SmartLauncher](https://www.smartlauncher.net/) - Minimalist / Clean Launcher
+* [Discreet Launcher](https://github.com/falzonv/discreet-launcher) - Minimalist / Clean Launcher
+* [Lunar Launcher](https://github.com/iamrasel/lunar-launcher) - Minimalist / Clean Launcher
+* [KISS](https://kisslauncher.com/) - Low-Memory Usage Launcher
+* [NeoLauncher](https://github.com/NeoApplications/Neo-Launcher) - Customizable Launcher
+* [Olauncher](https://github.com/tanujnotes/Olauncher) - Minimalist Ad-Free Launcher
+* [Unlauncher](https://github.com/jkuester/unlauncher) - Distraction-Free Launcher
+* [Kvaesitso](https://kvaesitso.mm20.de/) - Search-Focused Launcher
+
+***
+
 # ► Android Tools
 
 ## ▷ Android Device
 
 * 🌐 **[Manufacturer Specific](https://rentry.org/ekrw4)** - Manufacturer Specific Mobile Tools
 * ↪️ **[Device Comparisons](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25BA_shopping)**
-* ↪️ **[Custom Operating Systems](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_android_operating_systems)**
 * ↪️ **[App Launchers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_app_launchers)**
 * ↪️ **[File Explorers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_android_file_explorers)**
 * ⭐ **[XDA](https://forum.xda-developers.com/)** - Android Discussion Forum
@@ -338,7 +352,6 @@
 * 🌐 **[SelfPrivacy](https://selfprivacy.org/)** - Self-Hosted Privacy Apps
 * ↪️ **[Privacy Based Browsers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_android_browsers)**
 * ↪️ **[Encrypted Messengers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_encrypted_android_messengers)**
-* ⭐ **[GrapheneOS](https://grapheneos.org/)**, [Divestos](https://divestos.org/), [LeoS](https://leos-gsi.de/) or [CalyXOS](https://calyxos.org/) - Privacy Based OS
 * ⭐ **[TrackerControl](https://trackercontrol.org/)**, [Permission Pilot](https://github.com/d4rken-org/permission-pilot), [Exodus](https://reports.exodus-privacy.eu.org/en/), [Yivi](https://github.com/privacybydesign/irmamobile) or [HideDroid](https://github.com/Mobile-IoT-Security-Lab/HideDroid) - App Permission Managers
 * ⭐ **[Vigilante](https://github.com/FunkyMuse/Vigilante)**, [AntiStalker](https://www.mallocprivacy.com/) or [Privacy Indicator App](https://github.com/NitishGadangi/Privacy-Indicator-App) - Camera / Mic Access Indication
 * ⭐ **[VirusTotal](https://support.virustotal.com/hc/en-us/articles/115002146549-Mobile-apps)** or [Pithus](https://beta.pithus.org/) - APK / URL Virus Scanners
@@ -552,6 +565,21 @@
 * [Giga Icon](https://play.google.com/store/apps/details?id=it.mirko.gigaicon&hl=en_IN&gl=US) - Make Icons Bigger
 * [IconRequest](https://github.com/Kaiserdragon2/IconRequest) - Find Missing Icons
 * [TabletFriend](https://github.com/Martenfur/TabletFriend) - Custom Tablet Toolbars
+
+***
+
+## ▷ Operating Systems
+
+* ⭐ **[CustomRomBay](https://customrombay.org/)** - ROMs Compatibility Search
+* ⭐ **[GrapheneOS](https://grapheneos.org/)** - Privacy Based OS
+* [/e/](https://e.foundation/e-os/) - Privacy Based OS
+* [Divestos](https://divestos.org/) - Privacy Based OS
+* [LeoS](https://leos-gsi.de/) - Privacy Based OS
+* [CalyXOS](https://calyxos.org/) - Privacy Based OS
+* [LineageOS](https://www.lineageos.org/) - CyanogenMod Fork / [MicroG](https://lineage.microg.org/)
+* [ProtonAOSP](https://protonaosp.org) - Minimal / Open-Source OS
+* [BlissROMs](https://blissroms.org/) - Open-Source / Customizable
+* [PixelExperience](https://get.pixelexperience.org/) - AOSP ROM with Google Pixel features
 
 ***
 
