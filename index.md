@@ -8,8 +8,8 @@ hero:
   text: "freemediaheckyeah"
   tagline: The largest collection of free stuff on the internet!
   prelink:
-    title: 🎉 New website!
-    link: https://www.reddit.com/r/FREEMEDIAHECKYEAH/comments/17toqpa/new_fmhy_website
+    title: ❄️ Monthly Updates / Discussion [Dec 2023]
+    link: https://www.reddit.com/r/FREEMEDIAHECKYEAH/comments/1889rxh/monthly_updates_discussion_dec_2023_250k_members/
   image:
     src: /test.png
     alt: FMHY Icon
