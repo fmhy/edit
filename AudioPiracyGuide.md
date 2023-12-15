@@ -75,7 +75,7 @@
 * [BitMidi](https://bitmidi.com/) - Stream / Download MIDI Files
 * [keygenmusic.tk](https://keygenmusic.tk/) - Keygen Music
 * [Tasso Music](https://www.tassomusic.org/) - Early Modern Music
-* [UCSB Cylinders](https://cylinders.library.ucsb.edu/index.php), [Tinfoil](http://www.tinfoil.com/) or [i78s](https://i78s.org/) - Phonograph Cylinder Recordings
+* [i78s](https://i78s.org/), [UCSB Cylinders](https://cylinders.library.ucsb.edu/index.php), [CLPGS](https://www.clpgs.org.uk/), [Tinfoil](http://www.tinfoil.com/) or [Archeophone](https://www.archeophone.org/windex.php) - Phonograph / Gramophone Recordings
 * [FirstSounds](https://www.firstsounds.org/) - Oldest Music Recordings
 * [Russian Records](https://www.russian-records.com/) - Russian Record Recordings
 * [Measuring Polyphony](https://measuringpolyphony.org/) - Digital Encoding of Late Medeival Music
@@ -415,7 +415,7 @@
 
 * ↪️ **[Song Identification Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/audio-tools#wiki_.25B7_song_identification)**
 * ⭐ **[Last.fm](https://www.last.fm/home)**, [Music Board](https://musicboard.app/) or [Libre](https://libre.fm/) - Track Music you Listen to 
-* ⭐ **Last.fm Tools** - [Manual Scrobble](https://openscrobbler.com/) / [Web Scrobble](https://web-scrobbler.com/) / [Album Collages](https://www.nsfcd.com/lastfm/) / [Artist Iceberg](https://lastfm-iceberg.dawdle.space/) / [Tag Cloud](https://tagcloud.joshuarainbow.co.uk/) / [Now Playing Display](https://descent.live/now) / [Stats](http://c26k.com/lastfmextrastats/)
+* ⭐ **Last.fm Tools** - [Manual Scrobble](https://openscrobbler.com/) / [Web Scrobble](https://web-scrobbler.com/) / [Album Collages](https://www.nsfcd.com/lastfm/) / [Artist Iceberg](https://lastfm-iceberg.dawdle.space/) / [Tag Cloud](https://tagcloud.joshuarainbow.co.uk/) / [Now Playing](https://descent.live/now) / [Stats](http://c26k.com/lastfmextrastats/)
 * ⭐ **[Has it leaked](https://hasitleaked.com/)** or [LEAKED](https://leaked.cx/) - Album Leak Tracker
 * ⭐ **[Muspy](https://muspy.com/)** or [Brew.fm](https://www.brew.fm/) - Get Album Release Updates
 * ⭐ **[RateYourMusic](https://rateyourmusic.com/)**, **[Sputnik](https://www.sputnikmusic.com/)**, [Discogs](https://www.discogs.com/) / [Scout](https://greasyfork.org/en/scripts/439452-discogs-scout), [AlbumOfTheYear](https://www.albumoftheyear.org/), [AllMusic](https://www.allmusic.com/) or [MusicBrainz](https://musicbrainz.org/) / [Insights](https://listenbrainz.org/) - Ratings / Reviews
