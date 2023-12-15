@@ -821,7 +821,7 @@
 
 * ⭐ **[Grouvee](https://www.grouvee.com/)**, **[Glitchwave](https://glitchwave.com/)** or **[Backloggd](https://www.backloggd.com/)** - Game Tracker
 * ⭐ **[IGDB](https://www.igdb.com/)** or **[GiantBomb](https://www.giantbomb.com/games/)** - Game Database
-* ⭐ **[TasteDive](https://tastedive.com/games )** or **[/r/ifyoulikeblank](https://www.reddit.com/r/ifyoulikeblank/)** - Game Recommendations
+* ⭐ **[TasteDive](https://tastedive.com/games )**, [50GamesLike](https://www.50gameslike.com/) or [/r/ifyoulikeblank](https://www.reddit.com/r/ifyoulikeblank/) - Game Recommendations
 * [Rec Charts](https://mega.nz/folder/kj5hWI6J#0cyw0-ZdvZKOJW3fPI6RfQ) - Game Recommendation Guides
 * [Incendar](https://incendar.com/) - Game Release Date Tracker
 * [OpenCritic](https://opencritic.com/) - Critic Game Reviews / Ratings
@@ -841,8 +841,7 @@
 * [GameClassification](https://gameclassification.com/) - Search Games by Classifications
 * [MoreGamesLike](https://www.moregameslike.com/) or [Games Like Finder](https://gameslikefinder.com/) - Find Similar Games
 * [Random Game Bookmark Script](https://pastebin.com/JtmBQZbL) - Find Random Games
-* [Movie-Censorship](https://www.movie-censorship.com/) - Compare Alternate Versions of Media 
-* [50GamesLike](https://www.50gameslike.com/) - Game Recommendations
+* [awesome-engineering-games](https://github.com/arcataroger/awesome-engineering-games) - Engineering Game Recommendations
 * [DigitalDreamDoor](https://digitaldreamdoor.com/pages/games.html) or [5000 Best](http://5000best.com/games/) - List of the Best Games
 * [Unseen64](https://www.unseen64.net/) - Cancelled / Lost Games
 
