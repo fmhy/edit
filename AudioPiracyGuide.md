@@ -228,10 +228,8 @@
 * ⭐ **[SittingOnClouds](https://www.sittingonclouds.net/)** / [Discord](https://discord.com/invite/x23SFbE) - Anime / Game Soundtracks
 * ⭐ **[Audio Download CSE](https://cse.google.com/cse?cx=006516753008110874046:ibmyuhh72io)** / [CSE 2](https://cse.google.com/cse?cx=006516753008110874046:ohobg3wvr_w) / [CSE 3](https://cse.google.com/cse?cx=32d85b41e2feacd3f) - Multi-Site Search
 * [The Last Disaster](https://thelastdisaster.vip/) - Metal / Hardcore / Rock / MP3 / FLAC
-* [VK::MP3](https://metacpan.org/pod/VK::MP3) - VK MP3 Search Tool 
-* [SongsLover](https://songslover.vip/) - MP3
+* [VK::MP3](https://metacpan.org/pod/VK::MP3) - VK MP3 Search Tool
 * [Ezhevika](https://ezhevika.blogspot.com/) - MP3
-* [VKMusic](https://denr01.com/vkm/) - MP3 / User: anon / pass: 12345
 * [nodata](https://nodata.tv/) - MP3
 * [Black Organization](https://blackorganizationmp3.wixsite.com/music) - MP3
 * [SoundClick](https://www.soundclick.com/default.cfm) - MP3
@@ -239,7 +237,6 @@
 * [PandaCD](https://pandacd.io/) - MP3
 * [Tancpol](https://tancpol.net/) - MP3
 * [ccMixter](https://ccmixter.org/) - DL / Stream / MP3 
-* [MP3Juices](https://www.mp3juices.cc/) - DL / Stream / MP3 
 * [Digital Meltd0wn](https://digitalmeltd0wn.blogspot.com/) - MP3
 * [Music Blogtrotter](https://musicblogtrotter.blogspot.com/) - MP3
 * [New Album Releases](https://newalbumreleases.net/) - MP3
@@ -251,6 +248,7 @@
 * [24NaiJamMuzic](https://www10.24naijamuzic.com/) - MP3
 * [musify](https://musify.club/) - MP3
 * [GloryBeats](https://glorybeats.com/) - MP3
+* [SongsLover](https://songslover.vip/) - MP3 / 256kbps
 * [Funky Souls](https://forum.funkysouls.org/), [2](https://funkysouls.org/) - MP3
 * [Cliggo](https://music.cliggo.com/) - MP3
 * [rildi](https://rilds.com/) - MP3
@@ -260,7 +258,6 @@
 * [Rhapsody](https://github.com/nbats/FMHYedit/blob/main/base64.md#rhapsody) - MP3
 * [Tyler](https://github.com/nbats/FMHYedit/blob/main/base64.md#tyler) - MP3
 * [24naijamuzic](https://www11.24naijamuzic.com/album/) - MP3
-* [My Free MP3](https://new.myfreemp3juices.cc/) - MP3
 * [FLAC Attack](https://flacattack.net/) or [Lossless-Music](https://lossless-music.org/) - FLAC
 * [Losslessma](https://losslessma.net/) - FLAC
 * [LosslessBest](https://flacdl.com/) - FLAC
