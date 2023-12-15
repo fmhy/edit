@@ -9,7 +9,7 @@ hero:
   tagline: The largest collection of free stuff on the internet!
   prelink:
     title: ❄️ Monthly Updates / Discussion [Dec 2023]
-    link: https://www.reddit.com/r/FREEMEDIAHECKYEAH/comments/1889rxh/monthly_updates_discussion_dec_2023_250k_members/
+    link: https://redd.it/1889rxh
   image:
     src: /test.png
     alt: FMHY Icon
