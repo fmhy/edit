@@ -6,7 +6,7 @@
 
 # ► Image Editing
 
-* 🌐 **[Awesome Design Tools](https://github.com/goabstract/Awesome-Design-Tools)**, [2](https://rentry.co/thk62), [3](https://docs.google.com/document/d/179VI9QjVICyS3KVQ4i5fdEQmE1U45Xhq64TNb9QUmRk/edit?usp=drivesdk), [4](https://pilssken.neocities.org/gainz/), [5](https://github.com/nbats/FMHYedit/blob/main/base64.md#design-tool-zip) - Design Resources
+* 🌐 **[Awesome Design Tools](https://github.com/goabstract/Awesome-Design-Tools)**, [2](https://pilssken.neocities.org/gainz/), [3](https://github.com/nbats/FMHYedit/blob/main/base64.md#design-tool-zip) - Design Resources
 * 🌐 **[archives.design](https://archives.design/)** - Graphic Design Books
 * ↪️ **[Image Design Resources](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_image_design_resources)** 
 * ⭐ **[PhotoMosh](https://photomosh.com/)**, [jpg-glitch-electron](https://snorpey.github.io/jpg-glitch-electron/), [glitch-this!](https://github.com/TotallyNotChase/glitch-this), [GlitchyImage](https://glitchyimage.com/) or [Image Glitch Tool](https://github.com/snorpey/jpg-glitch) - Glitch Images
@@ -25,7 +25,6 @@
 * [MagicaVoxel](https://ephtracy.github.io/) or [Goxel](https://goxel.xyz/) - Voxel Art Editor / Interactive Path Tracing Renderer
 * [StyleCLIP](https://github.com/orpatashnik/StyleCLIP) - Text Driven Image Manipulation / [Video](https://youtu.be/5icI0NgALnQ)
 * [Vectr](https://vectr.com/) or [VectorInk](https://vectorink.io/) - Vector Graphics Editor
-* [JPEG Sandbox](https://github.com/OmarShehata/jpeg-sandbox) - DCT Coefficient Editor
 * [Images.weserv.nl](https://images.weserv.nl/) - Image Editing Server
 * [Craft](https://www.invisionapp.com/craft) - Photoshop / Sketch Plugins
 * [Preset.id](https://preset.id/) - Adobe Lightroom Presets
@@ -41,7 +40,7 @@
 * [DuoTones](https://duotones.co/) - Dual Tone Effect Generator
 * [ImageGoNord](https://ign.schrodinger-hat.it/) - Convert Images to NordTheme Palette / [GitHub](https://github.com/Schrodinger-Hat/ImageGoNord)
 * [Fotosketcher](https://fotosketcher.com/) - Turn Photos into Artwork
-* [AnimeGAN](https://github.com/TachibanaYoshino/AnimeGAN) / [2](https://github.com/TachibanaYoshino/AnimeGANv2) / [3](https://github.com/TachibanaYoshino/AnimeGANv3) - Turn Photos into Anime
+* [AnimeGAN](https://github.com/TachibanaYoshino/AnimeGANv3) - Turn Photos into Anime
 * [AIDraw](https://ai-draw.tokyo/en/) or [ArtLine](https://github.com/vijishmadhavan/ArtLine) - Turn Photos into Line Art
 * [primitive.js](https://ondras.github.io/primitive.js/) or [Geometrize](https://www.geometrize.co.uk/) - Redraw Images with Geometric Shapes 
 * [PBNify](https://pbnify.com/) - Paint by Number Tool
@@ -178,7 +177,6 @@
 
 * ↪️ **[AI Image Generators](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/ai#wiki_.25BA_image_generators)**
 * [more.graphics](https://more.graphics/) - Graphic Generators
-* [Rough.js](https://roughjs.com/) - Hand Drawn Graphic Generator
 * [FontIcon](https://gauger.io/fonticon/), [PFPMaker](https://pfpmaker.com/), [IconsFlow](https://iconsflow.com/), [Flat-Icon-Surge](https://flat-icon.surge.sh/), [favicon.software](https://www.favicon.software/), [favicon.io](https://favicon.io/) or [Favic-o-Matic](https://favicomatic.com/) - Icon / Logo Generators
 * [Logo Makr](https://logomakr.com/), [Hatchful](https://www.shopify.com/tools/logo-maker), [Logomak](https://logomak.com/), [The Logo Wizard](https://www.thelogowizard.com/), [DesignEvo](https://designevo.com/), [LogoFreeway](https://logofreeway.com/logos.php), [Logoshi](https://www.logoshi.com/), [OnlineLogoMaker](https://www.onlinelogomaker.com/), [Free Logo Maker](https://freelogomaker.net/), [LogoMaker](https://www.namecheap.com/logo-maker/app/new/) or [ACME](https://acme.com/labelmaker/) - Logo Creators / [Note](https://i.ibb.co/B3Mn3Hq/b7a4cf526ad1.png)
 * [JSLogo](https://www.calormen.com/jslogo/) - Logo Interpreter
