@@ -163,6 +163,7 @@
 * [MangoAI](https://mangoai.co/) - AI Directory
 * [ToolDirectory](https://www.tooldirectory.ai/) - AI Directory
 * [Foundr](https://foundr.ai/) - AI Directory
+* [Toolify](https://www.toolify.ai/) - AI Directory
 * [NaNAI.tools](https://nanai.tools) - AI Directory
 * [SuperTools](https://supertools.therundown.ai/) - AI Directory
 * [GPTE](https://gpte.ai/) - AI Directory
