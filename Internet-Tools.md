@@ -8,13 +8,12 @@
 
 * ↪️ **[Archive / Scrape / Crawl Webpages](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_web_scraping_.2F_archiving_tools)**
 * ⭐ **[ntfy](https://ntfy.sh/)** or [PingMe](https://github.com/kha7iq/pingme) - Custom Push Notifications
-* [Nativefier](https://github.com/nativefier/nativefier), [WebCatalog](https://webcatalog.io/) or [Pake](https://github.com/tw93/Pake) - Turn Webpages into Desktop Apps
+* [WebCatalog](https://webcatalog.io/) or [Pake](https://github.com/tw93/Pake) - Turn Webpages into Desktop Apps
 * [LocalHost](https://localhost.run/) - Connect Web Apps to Internet
-* [Yandex Disk](https://disk.yandex.com/), [VK WorkSpace](https://biz.mail.ru/) or [OpenDesktop](https://www.opendesktop.org/) - Multiple Cloud Services 
+* [Yandex Disk](https://disk.yandex.com/), [VK WorkSpace](https://biz.mail.ru/) or [OpenDesktop](https://www.opendesktop.org/) - Google Cloud Service Alternatives
 * [deploy-your-own-saas](https://github.com/Atarity/deploy-your-own-saas) - Self-Hosted Cloud Services
 * [Namechk](https://namechk.com/), [NameCheckr](https://www.namecheckr.com/), [NameCheckup](https://namecheckup.com/) or [IUS](https://instantusername.com/) - Check Username Availability
 * [SiteExplainer](https://www.siteexplainer.com/) - AI Site Explanations
-* [Login Reminder Remover](https://greasyfork.org/en/scripts/395497-login-reminder-popup-remover) - Remove Login Popup from Sites
 * [BugMeNot](https://bugmenot.com/), [FreeAccount](https://freeaccount.biz/) or [Password Login](https://password-login.com/) - Access & Share Throwaway Accounts
 * [byp4xx](https://github.com/lobuhi/byp4xx) - Bypass "403 Forbidden" Messages 
 * [Slideshow-Deslidefier](https://deslide.clusterfake.net/) - View Slideshows All At Once
@@ -189,7 +188,6 @@
 * [Git Search Engine](https://zzollo.co/) - Search GitHub, GitLab etc.
 * [TikTok Quick Search](https://www.osintcombine.com/tiktok-quick-search) or [TikTok CSE](https://cse.google.com/cse?cx=c42f6b58703f83683) - TikTok Search 
 * [tumbex](https://www.tumbex.com/) - Tumblr Search
-* [Mibbit](https://search.mibbit.com/) - IRC Channel Search
 * [AlsoAsked](https://alsoasked.com/) - Related Search Tool
 * [Wiby](https://wiby.org/), [2](https://wiby.me/) - Search Engine for Lightweight Web Pages
 * [Search My Site](https://searchmysite.net/) - Search Engine for Independent and Personal websites / Open Source
@@ -313,15 +311,11 @@
 
 ## ▷ Chat Tools
 
+* ↪️ **[IRC Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/download#wiki_.25B7_irc_tools)**
 * ⭐ **[Hack.chat](https://hack.chat/)**, [Shick](https://shick.me/), [Yap](https://yap.chat/), [Convene](https://letsconvene.im/), [Stinto](https://stin.to/en) or [tik.io](https://tlk.io/) - Minimal Account Free Chats 
 * [Cirlos](https://www.cirlos.net/), [Miranda NG](https://www.miranda-ng.org/en/), [Escargot](https://escargot.chat/) or [WeeChat](https://weechat.org/) - Chat Apps
 * [Pidgin](https://www.pidgin.im/), [Beeper](https://www.beeper.com/), [matterbride](https://github.com/42wim/matterbridge) or [Ferdium](https://ferdium.org/) - Combine Web Apps / Chats
 * [Twist](https://twist.com/) - Collaboration Chat Manager
-* [New Blood](https://anonops.com/newblood/) - IRC Guide
-* [KiwiIRC](https://kiwiirc.com/) or [TheLounge](https://thelounge.chat/) - WebIRC Client
-* [AdiIRC](https://adiirc.com/), [Convos](https://convos.chat/), [mIRC](https://www.mirc.com/get.html) or [Bitchx](https://bitchx.sourceforge.net/) - IRC Clients
-* [irc2go](https://en.irc2go.com/) - Browse IRC Chat Rooms / [Top 1000](https://netsplit.de/networks/top100.php)
-* [libera](https://libera.chat/), [tilde](https://tilde.chat/), [anonops](https://anonops.com/) or [rizon](https://rizon.net/) - IRC Networks
 * [Cabal](https://cabal.chat/) - P2P Chat / [GitHub](https://github.com/cabal-club)
 * [BlueBubbles](https://bluebubbles.app/) - iMessage Client
 * [Atlus](https://github.com/amanharwara/altus) or [WAO](https://dedg3.com/wao/) - Whatsapp Clients
@@ -368,15 +362,11 @@
 * [Holehe](https://github.com/megadose/holehe) - Find Accounts Connected to Emails
 * [Useplaintext](https://useplaintext.email/) - How-To Use Plaintext Email 
 * [Signature Maker](https://signature-maker.net/) or [SignatureHound](https://signaturehound.com/) - Email Signature Creators
-* [InternetBumperStickers](https://www.internetbumperstickers.com/) - Images for Signatures
 * [Docker Mailserver](https://docker-mailserver.github.io/docker-mailserver/edge/) or [Mail-in a Box](https://mailinabox.email/) - Self-Hosted Email Servers
 * [Gmail Desktop](https://github.com/timche/gmail-desktop) - Gmail Desktop Client
 * [Got Your Back](https://github.com/GAM-team/got-your-back) - Backup Gmail Messages
-* [Integrated Inbox](https://integratedinbox.com/) - Gmail Google Web App Integration
-* [Delete Junk Email](https://gist.github.com/viperadnan-git/fcb0ecda32de0b9a27ec03829a7c12e8) - Bulk Gmail Junk Deleter
 * [ExtractMailAddress](https://extractemailaddress.com/) - Extract Email's, URLs and Numbers from Text
 * [Hunter.io](https://hunter.io/) - Business Email Address Search
-* [DeadmansSwitch](https://www.deadmansswitch.net/) - Electronic Will
 
 ***
 
@@ -567,14 +557,14 @@
 * [Session Alive](https://github.com/arunelias/session-alive/) - Keep Website Sessions Alive 
 * [Caffeine](https://add0n.com/caffeine.html) - Prevent OS From Sleeping 
 * [Broken Link Checker](https://add0n.com/broken-link-checker.html) - Checks Page for Broken Links 
-* [ViewImage](https://github.com/bijij/ViewImage) - Adds Back "View Image" Button to Google Image Search 
+* [ViewImage](https://github.com/bijij/ViewImage) - Adds Back "View Image" Button to Google Image Search
+* [DisableGoogleLens](https://git.sr.ht/~fanfare/disablegooglelens) - Redirect Google Lens to Google Image
 * [GoFullPage](https://gofullpage.com/), [Easy Screenshot](https://webextension.org/listing/screenshot.html) or [FireShot](https://addons.mozilla.org/en-GB/firefox/addon/fireshot/) - Full Page Screenshots
 * [NooBox](https://github.com/AInoob/NooBox) - Reverse Image Search, Extract Images, Screenshot & Search 
 * [Bulk URL Opener](https://bulkurlopener.com/) or [Open-Multiple-URLs](https://github.com/htrinter/Open-Multiple-URLs/) - Open Multiple URL's in One Click 
 * [PronounDB](https://pronoundb.org/) - Pronoun Addon
 * [XKit](https://github.com/new-xkit/XKit) - Make Tumblr More Usable
 * [Tab Session Manager](https://tab-session-manager.sienori.com/), [Sessionic](https://github.com/navorite/sessionic) or [Session Buddy](https://sessionbuddy.com/) - Session Managers 
-* [User-Agent Switcher](https://mybrowseraddon.com/useragent-switcher.html) - Easily Switch User-Agent
 * [SimpleModifyHeaders](https://github.com/didierfred/SimpleModifyHeaders) - Modify Headers
 * [Peek](https://github.com/corbindavenport/peek) - Shows Images & Videos Behind Links & Thumbnails 
 
@@ -611,7 +601,7 @@
 * [AutoPagerize Advanced](https://addons.mozilla.org/en-US/firefox/addon/autopagerizeadvanced/) - Merge Multiple Pages
 * [Profile Switcher](https://github.com/null-dev/firefox-profile-switcher) - Profile Manager
 * [Consent-O-Matic](https://github.com/cavi-au/Consent-O-Matic) - Non-Avast Fork / Block Cookie Consent Popups
-* [User-Agent Switcher](https://gitlab.com/ntninja/user-agent-switcher) - Easily Switch User-Agent
+* [User-Agent Switcher](https://addons.mozilla.org/en-US/firefox/addon/uaswitcher/) - Easily Switch User-Agent / Can Break Sites
 * [SoundFixer](https://github.com/valpackett/soundfixer) - Fixes Audio Playing in 1 Channel
 * [Volume Control Tabs](https://github.com/vzze/volume-control) - Control Individual Tab Volume
 * [Mute Sites By Default](https://github.com/abba23/mute-sites-by-default) - Mute All Sites by Default 
@@ -927,7 +917,6 @@
 * [Discord Chat Exporter](https://github.com/Tyrrrz/DiscordChatExporter) / [Python](https://github.com/mahtoid/DiscordChatExporterPy), [discard2](https://github.com/Sanqui/discard2), [Discord History Tracker](https://dht.chylex.com/) / [GitHub](https://github.com/chylex/Discord-History-Tracker) or [discord-archiver](https://github.com/nektro/discord-archiver) - Archive / Export Discord Chats
 * [anti-phishing-bot](https://github.com/Benricheson101/anti-phishing-bot) - Discord Anti Phishing Bot
 * [SunnyDiscord](https://gist.github.com/TheSunCat/58fedaa19d6154ef3e4b2b676c286906) or [Discord Adblock](https://github.com/CroissantDuNord/discord-adblock) - Hide Nitro / Boost Upsells
-* [pullcord](https://github.com/tsudoko/pullcord) - Discord Archiver
 * [discord2sheet-bot](https://github.com/hugonun/discord2sheet-bot) - Store Messages to Google Sheets
 * [AnswersOverflow](https://www.answeroverflow.com/) - Add Messages to Google Searches
 * [Undiscord](https://greasyfork.org/en/scripts/406540-undiscord-delete-all-messages-in-a-discord-channel-or-dm-bulk-deletion), [discord-delete](https://github.com/cedws/discord-delete) or [deleteDiscordMessages](https://victornpb.github.io/undiscord/) - Delete Discord Messages / [Warning](https://i.ibb.co/pdg4hRr/0b0d78219f05.png) 
@@ -1303,14 +1292,15 @@
 * ⭐ **[Fediverse](https://fediverse.party/)**, [Fediverse.space](https://fediverse.space/), [sub.rehab](https://sub.rehab/) or [Fediverse Observer](https://mastodon.fediverse.observer/) - Fediverse Instance Search
 * ⭐ **[Lemmy Explorer](https://lemmyverse.net/)**, [Community-Browser](https://browse.feddit.de/) or [Awesome Instances](https://github.com/maltfield/awesome-lemmy-instances) - Lemmy Instances
 * ⭐ **[Lemmy](https://join-lemmy.org/)** / [Stats](https://the-federation.info/), [2](https://fedidb.org/) - Federated Reddit Alternative
-* ⭐ **[Mastodon](https://joinmastodon.org/)** - Federated Microblogging 
-* ⭐ **[Pleroma](https://pleroma.social/)** - Federated Microblogging 
-* ⭐ **[Pixelfed](https://pixelfed.org/)** - Federated Microblogging 
-* ⭐ **[diaspora*](https://diasporafoundation.org/)**, [2](https://diasp.org/) - Federated Microblogging 
-* [Misskey](https://join.misskey.page/en/) - Federated Microblogging 
-* [Friendica](https://friendi.ca/) - Federated Microblogging 
-* [Hubzilla](https://zotlabs.org/page/hubzilla/hubzilla-project) - Federated Microblogging 
-* [GoToSocial](https://docs.gotosocial.org/en/latest/) - Federated Microblogging 
+* ⭐ **[Mastodon](https://joinmastodon.org/)** - Federated Microblogging
+* ⭐ **[Pleroma](https://pleroma.social/)** - Federated Microblogging
+* ⭐ **[Pixelfed](https://pixelfed.org/)** - Federated Microblogging
+* ⭐ **[diaspora*](https://diasporafoundation.org/)**, [2](https://diasp.org/) - Federated Microblogging
+* [Misskey](https://join.misskey.page/en/) - Federated Microblogging
+* [Friendica](https://friendi.ca/) - Federated Microblogging
+* [Hubzilla](https://zotlabs.org/page/hubzilla/hubzilla-project) - Federated Microblogging
+* [GoToSocial](https://docs.gotosocial.org/en/latest/) - Federated Microblogging
 * [Fedi Tips](https://fedi.tips/) - Fediverse Guide
 * [Fediverse Stats](https://the-federation.info/) or [FediDB](https://fedidb.org/) - Fediverse statistics
 * [Fediverser](https://portal.alien.top/) - Reddit to Lemmy Community Auto-Sync
+* [LemmyTools](https://github.com/howdy-tsc/LemmyTools) - Lemmy Improvement Extension
