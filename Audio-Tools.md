@@ -19,6 +19,7 @@
 * [SoundSwitch](https://soundswitch.aaflalo.me/) - Switch Audio Device with Hotkey / [GitHub](https://github.com/Belphemur/SoundSwitch)
 * [AudioToolSet](https://audiotoolset.com/) or [Safeaudiokit](https://safeaudiokit.com/) - Audio Multi-Tool Sites
 * [Audiocheck](https://www.audiocheck.net/) - Audio Tests
+* [LowAudioLatency](https://github.com/spddl/LowAudioLatency/) - Reduce Audio Latency
 * [DigitalFeed](https://abx.digitalfeed.net/) - Lossless Audio Sound System Test
 * [Online Mic Test](https://onlinemictest.com/), [Mic Tests](https://mictests.com/) or [Check Mic](https://webcammictest.com/check-mic.html) - Mic Test
 * [Sound Meter](https://mybrowseraddon.com/sound-meter.html) or [REW](https://www.roomeqwizard.com) - Measure Surrounding Sound Level
