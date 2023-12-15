@@ -182,6 +182,7 @@
 * [Udemy Download Guide](https://docs.google.com/document/d/1W91OS9rj7h9DBp5UwR68lA2zMEtqNmxdGaNVmBktIaw/) - [Discord](https://discord.gg/tMzrSxQ)
 * [Linkedin_Learning](https://t.me/linkedin_learning) - Linkedin Courses
 * [Linkedin Learning Ripper](https://github.com/AKhilRaghav0/Linkedin_Learning_Ripper) - Linkedin Course Ripper
+* [TheSecMaster](https://nitter.net/TheSecMaster1) - IT Courses
 * [CertCommunity](https://www.certcommunity.org/forum/) - IT Cert Courses
 * [Top Linux Interview Questions & Answers](https://github.com/nbats/FMHYedit/blob/main/base64.md#top-linux-interview-qas) - Linux Interview Q&A
 * [Coursera-dl](https://github.com/coursera-dl/coursera-dl) - Download videos from Coursera
