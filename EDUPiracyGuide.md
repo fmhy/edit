@@ -239,6 +239,7 @@
 * 🌐 **[Awesome Educational Games](https://github.com/yrgo/awesome-educational-games)** - Educational Games Index
 * ↪️ **[Typing Tests / Games](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_typing_lessons)**
 * ⭐ **[PhET](https://phet.colorado.edu/)**, [Oak National Academy](https://teachers.thenational.academy/), [Academo](https://academo.org/) or [Runestone Interactive](https://runestone.academy/) - Interactive Lessons
+* ⭐ **[Fact Check](https://toolbox.google.com/factcheck/)** - Quick Fact Check
 * ⭐ **[/r/coolguides](https://reddit.com/r/coolguides/)**, [info.stylee32](https://info.stylee32.net/) or [coolguid.es](https://coolguid.es/) - Guides & Tutorials
 * ⭐ **[/r/educationalgifs](https://reddit.com/r/educationalgifs)** - Learn With GIFs
 * ⭐ **[/r/explainlikeimfive](https://www.reddit.com/r/explainlikeimfive/)** - Have Anything Explained Very Simply
@@ -254,13 +255,9 @@
 * [HowStuffWorks](https://www.howstuffworks.com/) or [CoolMindMaps](https://www.coolmindmaps.com/) - Learn How Things Work
 * [Explorabl.es](https://explorabl.es/), [MinuteLabs](https://minutelabs.io/), [Wikiversity](https://www.wikiversity.org/), [Learnamic](https://www.learnamic.com/) or [TurtleDiary](https://www.turtlediary.com/) - Quizzes / Guides / Games
 * [SoftSchools](https://www.softschools.com/) or [EnchantedLearning](https://www.enchantedlearning.com/) - Worksheets / Games / Quizzes
-* [BrainPOP Jr.](https://jr.brainpop.com/) - Quizzes / Animations
 * [Highbrow](https://gohighbrow.com/) - Daily Lessons
 * [masterWiki](https://masterwiki.how/) - MasterClass Classes Republished as wikiHow Articles
 * [Listenable](https://apps.apple.com/us/app/listenable-learn-with-audio/id1492810539) - 5-Minute Audio Lessons / iOS
-* [WTF Fun Fact](https://wtffunfact.com/) - Daily Facts
-* [Fact Check](https://toolbox.google.com/factcheck/) - Quick Fact Check
-* [Word Smith](https://wordsmith.org/) - Learn New Words Daily
 * [LabXchange](https://www.labxchange.org/) or [EduMedia](https://www.edumedia-sciences.com/en/) - Interactive Science Simulations
 * [Answers.com](https://www.answers.com/) or [Quora](https://www.quora.com/) / [Bypass](https://redd.it/ywml2b) / [Frontend](https://github.com/zyachel/quetre) - Q&A Communities
 * [Plickers](https://get.plickers.com/) - Q&A Results App
@@ -268,12 +265,8 @@
 * [Kialo](https://www.kialo.com/) or [Level Point](https://levelpoint.app/) - Debates / Discussion
 * [Tabby Cat](https://github.com/TabbycatDebate/tabbycat) - Debate Tournament Tabulation Software
 * [LitCharts](https://www.litcharts.com/) - Literature Guides
-* [TypeTerms](https://www.supremo.co.uk/typeterms/) - Typography Cheat Sheet
 * [Electromagnetic Radiation Spectrum Chart](https://i.ibb.co/XCyQNB7/01930032e368.jpg)
 * [The Problem Site](https://www.theproblemsite.com/) - Problems / Puzzles / Games
-* [PuzzlePrime](https://www.puzzleprime.com/) - Problems / Puzzles
-* [Edu-Games](https://www.edu-games.org/) - Educational Games
-* [50Hacks](https://50hacks.co/) - Productivity Tips
 * [Philosophy Bro](https://www.philosophybro.com/) or [PhilosophyBasics](https://www.philosophybasics.com/) - Learn about Philosophy
 * [Social Engineers](https://web.archive.org/web/20221208021915/https://www.socialengineers.net) - Social Engineering Guides
 * [Brainkit](https://www.braink.it/) - Learn Helpful Principles
