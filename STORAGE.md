@@ -905,12 +905,12 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://70.88.180.169:8
 
 ## Modded Minecraft Launchers
 
-* ⭐ **[Lunar Client](https://www.lunarclient.com/)**
-* ⭐ **[PollyMC](https://github.com/fn2006/PollyMC)** / [Workarounds](https://pastebin.com/L3rMT1NM)
-* ⭐ **[UltimMC](https://github.com/UltimMC/Launcher)**
-* ⭐ **[SkLauncher](https://skmedix.pl/)**
-* ⭐ **[ATLauncher](https://atlauncher.com/)**
-* ⭐ **[PrismLauncher](https://prismlauncher.org/)** / [GitHub](https://github.com/PrismLauncher/PrismLauncher) / [Free Method](https://rentry.co/Prism4Free)
+* ⭐ **[Lunar Client](https://www.lunarclient.com/)** - All-in-one Client
+* ⭐ **[PrismLauncher](https://prismlauncher.org/)** / [GitHub](https://github.com/PrismLauncher/PrismLauncher) / [Free Method](https://rentry.co/Prism4Free) - Feature-rich Launcher
+* ⭐ **[SkLauncher](https://skmedix.pl/)** - User-friendly Launcher
+* ⭐ **[ATLauncher](https://atlauncher.com/)** - Modpack Launcher
+* ⭐ **[PollyMC](https://github.com/fn2006/PollyMC)** - Cracked Launcher
+* ⭐ **[UltimMC](https://github.com/UltimMC/Launcher)** - Cracked Launcher
 * [MC Version Launcher](https://github.com/MCMrARM/mc-w10-version-launcher) - Multi-Version Launcher
 
 [MultiMC](https://multimc.org/), [Badlion](https://www.badlion.net/), [OG tLauncher](https://tlaun.ch/), [HMCL](https://github.com/huanghongxun/HMCL), [TechnicPack](https://www.technicpack.net/), [RPMLauncher](https://github.com/RPMTW/RPMLauncher), [LabyMod](https://www.labymod.net/), [Crystal Launcher](https://crystal-launcher.net/), [Feather Client](https://feathermc.com/) / [Discord](https://discord.com/invite/feather), [GDLauncher](https://gdlauncher.com/), [X Minecraft Launcher](https://xmcl.app/), [Salwyrr Launcher](https://www.salwyrr.com/)

@@ -191,7 +191,7 @@ Use [this](https://bitbucket.org/magnolia1234/bypass-paywalls-firefox-clean/src/
 **[F-Droid](https://f-droid.org/)** - FOSS Android Apps
 **[Android APK CSE](https://cse.google.com/cse?cx=e0d1769ccf74236e8) / [2](https://cse.google.com/cse?cx=73948689c2c206528) / [3](https://cse.google.com/cse?cx=a805854b6a196d6a6)** - Multi-site APK search
 **[Stremio](https://www.stremio.com/)** - Video streaming app / Use VPN
-**[Patch Reddit Clients](https://docs.google.com/document/u/0/d/1wHvqQwCYdJrQg4BKlGIVDLksPN0KpOnJWniT6PbZSrI/mobilebasic)** - Use your own API Key
+**[Patch Reddit Clients](https://docs.google.com/document/u/0/d/1wHvqQwCYdJrQg4BKlGIVDLksPN0KpOnJWniT6PbZSrI/mobilebasic)** - How To Patch 3rd Party Reddit Clients
 **[ReVanced Manager](https://github.com/revanced/revanced-manager)** - Ad-free YouTube
 **[Spotify Mod](https://github.com/nbats/FMHYedit/blob/main/base64.md#modded-spotify-apk)** - Ad-free Spotify
 

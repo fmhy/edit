@@ -423,6 +423,7 @@
 * ⭐ **[Tusky](https://tusky.app/),** [SubwayTooter](https://github.com/tateisu/SubwayTooter), [Megalodon](https://sk22.github.io/megalodon/) or [Dimett](https://github.com/MateriiApps/Dimett) - Mastodon Clients / [Improved Notifications](https://github.com/LucasGGamerM/moshidon)
 * ⭐ **[KeePassDX](https://www.keepassdx.com/)**, **[BitWarden](https://play.google.com/store/apps/details?id=com.x8bit.bitwarden)**, [Keyspace](https://keyspace.cloud/), [AuthPass](https://authpass.app/), [KeyPass](https://github.com/yogeshpaliyal/KeyPass) or [Keepass2Android](https://github.com/PhilippC/keepass2android) - Password Managers
 * ⭐ **[PairVPN Hotspot](https://pairvpn.com/hotspot)**, [Tetherfi](https://github.com/pyamsoft/tetherfi) or [NetShare](https://netshare.app/) - Create Wi-Fi Hotspots
+* ⭐ **[Patch Reddit Clients](https://docs.google.com/document/u/0/d/1wHvqQwCYdJrQg4BKlGIVDLksPN0KpOnJWniT6PbZSrI/mobilebasic)** - How To Patch 3rd Party Reddit Clients
 * [PINCredible](https://github.com/cyb3rko/pincredible) - PIN Manager
 * [Link Manager](https://play.google.com/store/apps/details?id=com.michaelflisar.linkmanager) or [Omnivore](https://github.com/omnivore-app/omnivore) - Bookmark Managers
 * [Surfable](https://surfable.app/) - Install Any Website as App / [GitHub](https://github.com/sandoche/Surfable-app)
@@ -441,8 +442,7 @@
 * [GrayJay](https://grayjay.app/), [BBTV](https://github.com/bttv-android/bttv) or [Frosty](https://www.frostyapp.io/) - Twitch Apps
 * [DankChat](https://github.com/flex3r/DankChat) - Talk in Multiple Twitch Chats at Once
 * [Viddit](https://play.google.com/store/apps/details?id=aculix.viddit.downloader) - Reddit Video Downloader
-* [Geddit](https://kaangiray26.github.io/geddit-app/), [Infinity](https://github.com/KhoalaS/Infinity-For-Reddit) / [Builder](https://redd.it/14c2v5x), [FatBird](https://play.google.com/store/apps/details?id=com.niven.reddit&hl=en_US) - Reddit Clients
-* [Patch Reddit Clients](https://docs.google.com/document/u/0/d/1wHvqQwCYdJrQg4BKlGIVDLksPN0KpOnJWniT6PbZSrI/mobilebasic) - How-To Patch 3rd Party Reddit Clients
+* [Geddit](https://kaangiray26.github.io/geddit-app/), [Infinity Fork](https://github.com/KhoalaS/Infinity-For-Reddit), [FatBird](https://play.google.com/store/apps/details?id=com.niven.reddit&hl=en_US) - Reddit Clients
 * [Offline Reddit](https://play.google.com/store/apps/details?id=yy.offlinereader) - Offline Reddit Client
 * [RedditOldResponsive](https://git.kaki87.net/KaKi87/userscripts/src/branch/master/redditOldResponsive) - Old Reddit Script
 * [Updoot](https://updoot.app/) - Reddit Saved Post / Comment Manager
