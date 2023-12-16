@@ -680,6 +680,7 @@
 * [Typewolf](https://www.typewolf.com/) or [Typ.io](https://typ.io/) - Trending Website Fonts
 * [DS Fusion](https://ds-fusion.github.io/) - AI Typography Generator
 * [Formito](https://formito.com/tools/logo) - Typography Logo Maker
+* [TypeTerms](https://www.supremo.co.uk/typeterms/) - Typography Cheat Sheet
 * [Polona Typo](https://typo.polona.pl/en/) - Create Text out of Book, Poster and Map Letters
 * [enFont](https://enfont.javierarce.com/), [Calligraphr](https://www.calligraphr.com/en/) or [Fontstruct](https://fontstruct.com/) - Custom Font Creators
 * [Phase](https://www.eliashanzer.com/phase/) - Variable Fonts Generator
@@ -916,7 +917,6 @@
 ## ▷ ChatGPT Tools
 
 * 🌐 **[Awesome Free ChatGPT](https://github.com/LiLittleCat/awesome-free-chatgpt/blob/main/README_en.md)** or **[FOFA](https://en.fofa.info/result?qbase64=ImxvYWRpbmctd3JhcCIgJiYgImJhbGxzIiAmJiAiY2hhdCIgJiYgaXNfZG9tYWluPXRydWU%3D)** / [2](https://en.fofa.info/result?qbase64=dGl0bGU9PSJDaGF0R1BUIFdlYiI%3D) - ChatGPT WebUIs
-* ⭐ **[/r/ChatGPT](https://www.reddit.com/r/ChatGPT/)** - ChatGPT Subreddit
 * ⭐ **[AI Playground](https://play.vercel.ai/)**, [h2oGPT](https://gpt.h2o.ai/) or [ChatHub](https://chathub.gg/) - Compare AI Responses
 * ⭐ **[ChatPDF](https://www.chatpdf.com/)**, [PaperBrain](https://www.paperbrain.study/) or [Ask Your PDF](https://askyourpdf.com/) - Turn PDFs into Chatbots
 * [Turing](https://github.com/TuringAI-Team/chatgpt-discord-bot), [Erin](https://erin.ac/) or [SallyBot](https://github.com/DeSinc/SallyBot/) - ChatGPT Discord Bots
@@ -934,6 +934,7 @@
 * [SublimeGPT](https://chrome.google.com/webstore/detail/sublimegpt-chatgpt-everyw/eecockeebhenbihmkaamjlgoehkngjea), [DuckDuckGPT](https://github.com/kudoai/duckduckgpt) or [GPTGO](https://gptgo.ai/) - Add ChatGPT to Search Results
 * [ChatGPTBox](https://github.com/josStorer/chatGPTBox), [ChatGPT Apps](https://github.com/adamlui/chatgpt-apps), [KeepChatGPT](https://github.com/xcanwin/KeepChatGPT/blob/main/docs/README_EN.md) or [Merlin](https://merlin.foyer.work/) / [Unlimited](https://rentry.co/MerlinAI-Unlim) - ChatGPT Extensions
 * [Harpa](https://harpa.ai/) or [Glimpse](https://glimpse.surf/) - ChatGPT Chrome Extensions
+* [/r/ChatGPT](https://www.reddit.com/r/ChatGPT/) - ChatGPT Subreddit
 * [Andi](https://andisearch.com/) - AI Powered Search
 * [ShareGPT](https://sharegpt.com/) or [ChatGPT Exporter](https://greasyfork.org/en/scripts/456055) - Export Chats
 * [VizGPT](https://www.vizgpt.ai/) - Chat Data Visualization
@@ -947,12 +948,11 @@
 
 ## ▷ ChatGPT Prompts
 
-* 🌐 **[Awesome ChatGPT Prompts](https://prompts.chat/)** / [2](https://github.com/f/awesome-chatgpt-prompts) - Prompt Directory
+* 🌐 **[Awesome ChatGPT Prompts](https://prompts.chat/)**  - Prompt Directory
 * 🌐 **[jailbreakchat](https://www.jailbreakchat.com/)** or **[jamessawyer](http://www.jamessawyer.co.uk/pub/gpt_jb.html)** - Jailbreak Prompts
-* ⭐ **[Prompt Engineering Guide](https://www.promptingguide.ai)**, [Jailbreaking ChatGPT](https://arxiv.org/pdf/2305.13860) or [Learn Prompting](https://learnprompting.org/) - Prompting Guides
+* ⭐ **[Prompt Engineering Guide](https://www.promptingguide.ai)** or [Jailbreaking ChatGPT](https://arxiv.org/pdf/2305.13860) - Prompting Guides
 * ⭐ **[quickref](https://quickref.me/chatgpt)** - Prompt Cheatsheets
 * ⭐ **[Leaked Prompts](https://github.com/linexjlin/GPTs)**, [500 Best Prompts](https://puzzle-jute-202.notion.site/500-Best-ChatGPT-Prompts-f5b4ad65deec4b6385316fdb8740af74), [flowgpt](https://flowgpt.com/), [Prompts Hub](https://docs.google.com/spreadsheets/d/1Y-xQwFkQFCKhPB3nOMyTMNPZ-vaFiof2-vWGBAeupTo/edit#gid=0), [DataFit](https://datafit.ai/top-chatgpt-prompts), [ChainBrain AI](https://www.chainbrainai.com/), [AwesomeGPTPrompts](https://www.awesomegptprompts.com/), [OrdinaryPeoplePrompts](https://www.ordinarypeopleprompts.com/), [UseThisPrompt](https://www.usethisprompt.io/) or [SnackPrompt](https://snackprompt.com/) - Prompt Directories
-* [Chatgptjailbreak](https://rentry.org/Chatgptjailbreak) - Jailbreak Prompts
 * [GPTea](https://gptea.io/) - Trending Prompts
 * [SD Dynamic Prompts](https://github.com/adieyal/sd-dynamic-prompts) or [PromptBot](https://www.messengerx.io/promptbot) - Prompt Generators
 * [PromptPerfect](https://promptperfect.jina.ai/) - Prompt Optimization
@@ -960,7 +960,6 @@
 * [botprompts](https://botprompts.net/) - Fun Prompts
 * [Marketing 2099](https://sintralabs.notion.site/Marketing-2099-Ultimate-ChatGPT-Marketing-Prompts-To-Copy-Paste-200-tasks-fc22c9142d6a4a4286a3fe755be932e6) - ChatGPT Marketing Prompts
 * [ChatGPT-History](https://github.com/benf2004/ChatGPT-Prompt-Genius) - Prompt Management Extensions
-* [/r/ChatGPTJailbreak](https://www.reddit.com/r/ChatGPTJailbreak/) or [/r/GPT_Jailbreaks](https://www.reddit.com/r/GPT_jailbreaks/) - GPT Jailbreak Subreddits
 
 ***
 ***
@@ -3956,7 +3955,7 @@
 * [Say Play](https://thanesh.dev/say-play) - Video Control Voice Commands
 * [Smart Mute](https://chrome.google.com/webstore/detail/smart-mute/apadglapdamclpaedknbefnbcajfebgh) - Tab Mute Manager
 * [Audio Capture](https://github.com/arblast/Chrome-Audio-Capturer) - Audio Recorder
-* [Volume Booster](https://chrome.google.com/webstore/detail/volume-booster/ejkiikneibegknkgimmihdpcbcedgmpo) or [Volume Master](https://chrome.google.com/webstore/detail/volume-master/jghecgabfgfdldnmbfkhmffcabddioke) - Increase Browser Volume
+* [Volume Master](https://chrome.google.com/webstore/detail/volume-master/jghecgabfgfdldnmbfkhmffcabddioke) - Increase Browser Volume
 * [Audion](https://github.com/GoogleChrome/audion) - Web Audio Graph Visualizer
 * [Compose](https://www.compose.ai/) - Text Autocomplete AI
 * [Text Blaze](https://blaze.today/) - Create Text Snippets
@@ -7419,6 +7418,7 @@
 * 🌐 **[Awesome Educational Games](https://github.com/yrgo/awesome-educational-games)** - Educational Games Index
 * ↪️ **[Typing Tests / Games](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_typing_lessons)**
 * ⭐ **[PhET](https://phet.colorado.edu/)**, [Oak National Academy](https://teachers.thenational.academy/), [Academo](https://academo.org/) or [Runestone Interactive](https://runestone.academy/) - Interactive Lessons
+* ⭐ **[Fact Check](https://toolbox.google.com/factcheck/)** - Quick Fact Check
 * ⭐ **[/r/coolguides](https://reddit.com/r/coolguides/)**, [info.stylee32](https://info.stylee32.net/) or [coolguid.es](https://coolguid.es/) - Guides & Tutorials
 * ⭐ **[/r/educationalgifs](https://reddit.com/r/educationalgifs)** - Learn With GIFs
 * ⭐ **[/r/explainlikeimfive](https://www.reddit.com/r/explainlikeimfive/)** - Have Anything Explained Very Simply
@@ -7434,13 +7434,9 @@
 * [HowStuffWorks](https://www.howstuffworks.com/) or [CoolMindMaps](https://www.coolmindmaps.com/) - Learn How Things Work
 * [Explorabl.es](https://explorabl.es/), [MinuteLabs](https://minutelabs.io/), [Wikiversity](https://www.wikiversity.org/), [Learnamic](https://www.learnamic.com/) or [TurtleDiary](https://www.turtlediary.com/) - Quizzes / Guides / Games
 * [SoftSchools](https://www.softschools.com/) or [EnchantedLearning](https://www.enchantedlearning.com/) - Worksheets / Games / Quizzes
-* [BrainPOP Jr.](https://jr.brainpop.com/) - Quizzes / Animations
 * [Highbrow](https://gohighbrow.com/) - Daily Lessons
 * [masterWiki](https://masterwiki.how/) - MasterClass Classes Republished as wikiHow Articles
 * [Listenable](https://apps.apple.com/us/app/listenable-learn-with-audio/id1492810539) - 5-Minute Audio Lessons / iOS
-* [WTF Fun Fact](https://wtffunfact.com/) - Daily Facts
-* [Fact Check](https://toolbox.google.com/factcheck/) - Quick Fact Check
-* [Word Smith](https://wordsmith.org/) - Learn New Words Daily
 * [LabXchange](https://www.labxchange.org/) or [EduMedia](https://www.edumedia-sciences.com/en/) - Interactive Science Simulations
 * [Answers.com](https://www.answers.com/) or [Quora](https://www.quora.com/) / [Bypass](https://redd.it/ywml2b) / [Frontend](https://github.com/zyachel/quetre) - Q&A Communities
 * [Plickers](https://get.plickers.com/) - Q&A Results App
@@ -7448,12 +7444,8 @@
 * [Kialo](https://www.kialo.com/) or [Level Point](https://levelpoint.app/) - Debates / Discussion
 * [Tabby Cat](https://github.com/TabbycatDebate/tabbycat) - Debate Tournament Tabulation Software
 * [LitCharts](https://www.litcharts.com/) - Literature Guides
-* [TypeTerms](https://www.supremo.co.uk/typeterms/) - Typography Cheat Sheet
 * [Electromagnetic Radiation Spectrum Chart](https://i.ibb.co/XCyQNB7/01930032e368.jpg)
 * [The Problem Site](https://www.theproblemsite.com/) - Problems / Puzzles / Games
-* [PuzzlePrime](https://www.puzzleprime.com/) - Problems / Puzzles
-* [Edu-Games](https://www.edu-games.org/) - Educational Games
-* [50Hacks](https://50hacks.co/) - Productivity Tips
 * [Philosophy Bro](https://www.philosophybro.com/) or [PhilosophyBasics](https://www.philosophybasics.com/) - Learn about Philosophy
 * [Social Engineers](https://web.archive.org/web/20221208021915/https://www.socialengineers.net) - Social Engineering Guides
 * [Brainkit](https://www.braink.it/) - Learn Helpful Principles
@@ -8708,6 +8700,7 @@
 * [Maze](https://www.epgsoft.com/maze/), [Daedalus](https://www.astrolog.org/labyrnth/daedalus.htm), [Amaze](https://sourceforge.net/projects/qtamaze/files/) or [MazeGenerator](https://www.mazegenerator.net/) - Maze Generators
 * [BrantSteele](https://brantsteele.net/) or [Simublast](https://www.simublast.com/) - Game Show Simulators
 * [Shooty Ship Pumpkin Smash](https://www.thepointless.com/apps/shooty-ship-pumpkin-smash/index.html) - Shoot Pumpkins
+* [Edu-Games](https://www.edu-games.org/) - Educational Games
 * [Gameload](https://www.gameload.top/) - Unity Browser Game Extension 
 
 ***
@@ -8827,6 +8820,7 @@
 * ⭐ **[KillerCrossword](https://killercrossword.com/)** - No Clue Crosswords
 * ⭐ **[MoreWords](https://www.morewords.com/)** or [WordHub](https://wordhub.com/) - Scrabble
 * ⭐ **[Rubik’s Cube Explorer](https://iamthecu.be/)** or [The Cube](https://bsehovac.github.io/the-cube/) - Online Rubix Cubes / [Solver](https://rubiksolve.com/), [2](https://rubiks-cube-solver.com/)
+* [PuzzlePrime](https://www.puzzleprime.com/) - Problems / Puzzles
 * [HoverCats](https://hovercats.gg/) - Multiplayer Crosswords
 * [Regex Cross­word](https://regexcrossword.com/) - Regex Cross­words
 * [eWordChallenge](https://www.ewordchallenge.net/) - Boggle
@@ -14819,7 +14813,7 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://70.88.180.169:8
 
 ## SMS Verification Sites
 
-[2ndline](https://www.2ndline.co/), [TextNow](https://www.textnow.com/), [SMS Receive Free](https://smsreceivefree.com/), [SMS Online](https://sms-online.co/), [GetFreeSMSNUmber](https://getfreesmsnumber.com/), [SMS Receive](https://sms-receive.net/), [Receive SMS Online](https://www.receivesmsonline.net/), [receivesmsonline](https://receivesmsonline.in/), [SMS Get](https://smsget.net/), [1s2u](https://1s2u.com/), [My Trash Mobile](https://www.mytrashmobile.com/), [GlobFone](https://globfone.com/), [freesmsverification](http://freesmsverification.com/), [countrycode](https://countrycode.org/), [temp-sms](https://temp-sms.org/), [temporary-phone-number](https://temporary-phone-number.com/), [cloakmobile](https://cloakmobile.com/), [spoofbox](https://www.spoofbox.com/en/tool/trash-mobile/number), [receive-sms-online](https://www.receive-sms-online.info/), [smsfinders](https://smsfinders.com/), [mfreesms](https://mfreesms.com/), [yunjisms](https://yunjisms.xyz/), [smscodeonline](https://smscodeonline.com/), [xinghai](https://xinghai.party/), [mianfeijiema](https://mianfeijiema.com/), [jiemahao](https://jiemahao.com/), [storytrain](https://www.storytrain.info/), [Temp Number](https://temp-number.com/), [sms24](https://www.sms24.me/), [receive-smss](https://receive-smss.com), [freesmscenter](https://freesmscenter.com/), [receive-sms](https://receive-sms.cc/), [grizzlysms](https://grizzlysms.com/), [spytm](https://spytm.com/), [receive-sms-free](https://receive-sms-free.cc/), [sms-activation-service](https://sms-activation-service.com/), [burnerapp](https://www.burnerapp.com/), [temp-sms](https://temp-sms.org/), [temp-number](https://temp-number.org/), [tempsmss](https://tempsmss.com/), [quackr](https://quackr.io/), [sms24](https://sms24.me/), [freephonenum](https://freephonenum.com/), [smsnator](https://smsnator.online/), [InboxSMS](https://inboxsms.me/), [anonymsms](https://anonymsms.com/temporary-phone-number/), [onlinesim](https://onlinesim.io/), [ReceiveaSMS](https://receive-a-sms.com/), [Receive SMS Online Free](http://receivefreesms.com/)
+[2ndline](https://www.2ndline.co/), [TextNow](https://www.textnow.com/), [SMS Receive Free](https://smsreceivefree.com/), [SMS Online](https://sms-online.co/), [GetFreeSMSNUmber](https://getfreesmsnumber.com/), [SMS Receive](https://sms-receive.net/), [Receive SMS Online](https://www.receivesmsonline.net/), [receivesmsonline](https://receivesmsonline.in/), [SMS Get](https://smsget.net/), [1s2u](https://1s2u.com/), [My Trash Mobile](https://www.mytrashmobile.com/), [GlobFone](https://globfone.com/), [freesmsverification](http://freesmsverification.com/), [countrycode](https://countrycode.org/), [temp-sms](https://temp-sms.org/), [temporary-phone-number](https://temporary-phone-number.com/), [cloakmobile](https://cloakmobile.com/), [spoofbox](https://www.spoofbox.com/en/tool/trash-mobile/number), [receive-sms-online](https://www.receive-sms-online.info/), [smsfinders](https://smsfinders.com/), [mfreesms](https://mfreesms.com/), [yunjisms](https://yunjisms.xyz/), [smscodeonline](https://smscodeonline.com/), [xinghai](https://xinghai.party/), [mianfeijiema](https://mianfeijiema.com/), [jiemahao](https://jiemahao.com/), [storytrain](https://www.storytrain.info/), [Temp Number](https://temp-number.com/), [sms24](https://www.sms24.me/), [receive-smss](https://receive-smss.com), [freesmscenter](https://freesmscenter.com/), [receive-sms](https://receive-sms.cc/), [grizzlysms](https://grizzlysms.com/), [spytm](https://spytm.com/), [receive-sms-free](https://receive-sms-free.cc/), [sms-activation-service](https://sms-activation-service.com/), [burnerapp](https://www.burnerapp.com/), [temp-sms](https://temp-sms.org/), [temp-number](https://temp-number.org/), [tempsmss](https://tempsmss.com/), [quackr](https://quackr.io/), [freephonenum](https://freephonenum.com/), [smsnator](https://smsnator.online/), [InboxSMS](https://inboxsms.me/), [anonymsms](https://anonymsms.com/temporary-phone-number/), [onlinesim](https://onlinesim.io/), [ReceiveaSMS](https://receive-a-sms.com/), [Receive SMS Online Free](http://receivefreesms.com/)
 
 ### No CC Required Trial Sites
 
@@ -15131,7 +15125,7 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://70.88.180.169:8
 * [VideoAdBlockForTwitch](https://github.com/cleanlock/VideoAdBlockForTwitch)
 * [luminous-ttv](https://github.com/AlyoshaVasilieva/luminous-ttv)
 * [Adblocker for Twitch - Edge](https://microsoftedge.microsoft.com/addons/detail/adblocker-for-twitch%E2%84%A2/glgpmlmjlaljaddimbgekaepkgbojjdn)
-* [Xtra](https://github.com/crackededed/Xtra), [PurpleTV](https://purpletv.aeong.one/), [TwitchMod](https://t.me/pubTw) or [Twire](https://github.com/twireapp/Twire) - Ad Free Android Apps
+* [Xtra](https://github.com/crackededed/Xtra) or [PurpleTV](https://purpletv.aeong.one/) - Ad Free Android Apps
 
 ***
 
@@ -15599,11 +15593,11 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://70.88.180.169:8
 * ⭐ **[MPC-HC](https://github.com/clsid2/mpc-hc/)** or [MPC-BE](https://sourceforge.net/projects/mpcbe/) - Video Player
 * ⭐ **[MPV](https://mpv.io/)** / [2](https://mpv-net.github.io/mpv.net-web-site/), [MPV-GUI](https://github.com/mpvnet-player/mpv-gui), [MPV-EASY-Player](https://github.com/422658476/MPV-EASY-Player) or [mpv.snad](https://github.com/thisisshihan/mpv.snad) - Video Player
 * ⭐ **[VLC](https://www.videolan.org/)** - Video Player
+* ⭐ **[Screenbox](https://github.com/huynhsontung/Screenbox)** - Video Player
 * [Video Player Codecs](https://www.codecguide.com/)
 * [AVPlayer](http://www.awesomevideoplayer.com/) or [GridPlayer](https://github.com/vzhd1701/gridplayer) - Multi-Video Players
 * [SPlayer](https://www.splayer.org/) - Video Player w/ Smart Translation
 * [Pot Player](https://potplayer.daum.net/) - Video Player
-* [Screenbox](https://github.com/huynhsontung/Screenbox) - Video Player
 * [ImPlay](https://github.com/tsl0922/ImPlay) - Video Player
 * [SMPlayer](https://www.smplayer.info/) / [2](https://sourceforge.net/projects/smplayer/) - Video Player / [YouTube](https://www.smtube.org/)
 * [uView](https://www.idruf.com/) - Video Player
