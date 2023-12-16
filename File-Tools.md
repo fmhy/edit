@@ -49,7 +49,7 @@
 * [FileCXX](https://filecxx.com/)
 * [HTTP Downloader](https://erickutcher.github.io/#HTTP_Downloader/)
 * [DownZemAll](https://setvisible.github.io/DownZemAll/)
-* [download](https://github.com/kevva/download) / [CLI](https://github.com/kevva/download-cli, [downloader](https://downloader.la/) or [Hitomi](https://github.com/KurtBestor/Hitomi-Downloader) - File Download Tools
+* [download](https://github.com/kevva/download) / [CLI](https://github.com/kevva/download-cli), [downloader](https://downloader.la/) or [Hitomi](https://github.com/KurtBestor/Hitomi-Downloader) - File Download Tools
 * [mf-dl](https://gitgud.io/Pyxia/mf-dl/) or [mediafire_bulk_downloader](https://github.com/NicKoehler/mediafire_bulk_downloader) - Mediafire File Downloader
 * [One Leaf](https://oneleaf.icu/) or [PanDownload](https://baidu.gamesdrive.net/) - Baidu Netdisk Downloaders
 * [WhatsLink](https://whatslink.info/) - View File Download Metadata
