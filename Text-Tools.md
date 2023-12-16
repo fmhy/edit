@@ -378,6 +378,7 @@
 * [Typewolf](https://www.typewolf.com/) or [Typ.io](https://typ.io/) - Trending Website Fonts
 * [DS Fusion](https://ds-fusion.github.io/) - AI Typography Generator
 * [Formito](https://formito.com/tools/logo) - Typography Logo Maker
+* [TypeTerms](https://www.supremo.co.uk/typeterms/) - Typography Cheat Sheet
 * [Polona Typo](https://typo.polona.pl/en/) - Create Text out of Book, Poster and Map Letters
 * [enFont](https://enfont.javierarce.com/), [Calligraphr](https://www.calligraphr.com/en/) or [Fontstruct](https://fontstruct.com/) - Custom Font Creators
 * [Phase](https://www.eliashanzer.com/phase/) - Variable Fonts Generator
