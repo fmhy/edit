@@ -101,17 +101,12 @@
 ## ▷ TG Channels
 
 * ⭐ **[Modded Central](https://t.me/+MYR2XRdK3_pmZDRl)** / [Backup](https://t.me/moddedcentralbackup)
-* [DroidApks](https://t.me/DroidApks)
-* [Glype](https://t.me/Glype)
 * [alexstranniklite](https://t.me/alexstranniklite)
 * [AMRTSOFFICIAL](https://t.me/AMRTSOFFICIAL)
 * [ANiK555_Mods](https://t.me/ANiK555_Mods)
 * [EasyAPK](https://t.me/EasyAPK)
 * [Tech Day](https://t.me/s/tech_d4y)
 * [GoldenBoot_Mods_Re](https://t.me/GoldenBoot_Mods_Re)
-* [faloojein](https://t.me/faloojein)
-* [IC_Mods](https://t.me/IC_Mods)
-* [Moderse](https://t.me/Moderse)
 * [AyraProject](https://t.me/AyraProject)
 * [Modules Repositor](https://t.me/modulesrepo)
 * [Android_hacked_games](https://t.me/Android_hacked_games) - Modded Games
