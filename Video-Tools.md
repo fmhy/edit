@@ -312,27 +312,6 @@
 
 ***
 
-## ▷ YouTube Download
-
-* 🌐 **[/r/YouTubeDL GUI List](https://www.reddit.com/r/youtubedl/wiki/info-guis)**
-* ⭐ **[YT-DLP](https://github.com/yt-dlp/yt-dlp)** or [YTDL-PATCHED](https://github.com/ytdl-patched/ytdl-patched) - YouTube Downloader
-* ⭐ **[YT-DLP-GUI](https://github.com/kannagi0303/yt-dlp-gui)** - YT-DL GUI / [Installer](https://github.com/kazukikasama/youtube-dlp-gui-installer)
-* ⭐ **YT-DL Tools** - [Scripts](https://github.com/TheFrenchGhosty/TheFrenchGhostys-Ultimate-YouTube-DL-Scripts-Collection) / [Bookmarklet](https://github.com/tardisx/gropple) / [Playlist Size](https://pypi.org/project/totalsize/) / [YouTube Theme](https://github.com/Mikescher/youtube-dl-viewer)
-* [metube](https://github.com/alexta69/metube) or [yt-dlp-web-ui](https://github.com/marcopeocchi/yt-dlp-web-ui) - YT-DL Web UIs
-* [Tartube](https://github.com/axcore/tartube) - YT-DL GUI
-* [media-downloader](https://github.com/mhogomchungu/media-downloader) - YT-DL GUI
-* [youtube-dl-wpf](https://github.com/database64128/youtube-dl-wpf) - YT-DL GUI
-* [stacher](https://stacher.io/) - YT-DL GUI
-* [Videomass](https://jeanslack.github.io/Videomass/) - YT-DL GUI
-* [youtube-dl-gui](https://github.com/oleksis/youtube-dl-gui) - YT-DL GUI
-* [Local Youtube Downloader](https://greasyfork.org/en/scripts/369400) - Userscript
-* [YouTubePlaylist](https://youtubeplaylist.cc/) - Playlist Downloader
-* [YoutubeDownloader](https://github.com/Tyrrrz/YoutubeDownloader) - YouTube Downloader
-* [YoutubeDL-Material](https://github.com/Tzahi12345/YoutubeDL-Material) - YouTube Downloader
-* [DL YouTube Videos without Extensions](https://onehack.us/t/how-to-download-youtube-videos-without-external-tools-or-extensions/)
-
-***
-
 # ► Video Editing
 
 * 🌐 **[Paper2GUI](https://github.com/Baiyuetribe/paper2gui/blob/main/README_en.md)** - AI Video Tools Index
