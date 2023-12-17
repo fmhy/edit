@@ -151,7 +151,7 @@
 
 ## Blogging Platforms
 
-[Bear Blog](https://bearblog.dev/), [Haven](https://havenweb.org/), [Multiverse](https://multiverse.plus/), [Letterpad](https://letterpad.app/), [Mataroa](https://mataroa.blog/), [Write.as](https://write.as/) / [Reader](https://tiny.write.as/), [Emanates Docs](https://emanates.deepjyoti30.dev/), [PublicEmails](https://publicemails.com/), [write freely](https://writefreely.org/), [OffPress](https://offpress.app/), [You Don't Need WP](https://www.youdontneedwp.com/), [notepin](https://notepin.co/), [twtxt](https://github.com/buckket/twtxt), [Arbital](https://arbital.com/), [smol.pub](https://smol.pub/) / [Key](https://m15o.ichi.city/smolpub/key-request.html)
+[Bear Blog](https://bearblog.dev/), [Haven](https://havenweb.org/), [Multiverse](https://multiverse.plus/), [Mataroa](https://mataroa.blog/),, [Emanates Docs](https://emanates.deepjyoti30.dev/), [write freely](https://writefreely.org/), [You Don't Need WP](https://www.youdontneedwp.com/), [notepin](https://notepin.co/), [twtxt](https://github.com/buckket/twtxt), [Arbital](https://arbital.com/), [smol.pub](https://smol.pub/) / [Key](https://m15o.ichi.city/smolpub/key-request.html)
 
 ***
 
@@ -245,7 +245,7 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://70.88.180.169:8
 
 ## Copy Google Drives
 
-[GdriveCloneWeb](https://github.com/jsmsj/GdriveCloneWeb), [Google Drive Copy Folder](https://github.com/ericyd/gdrive-copy), [Telegram-CloneBot](https://github.com/jagrit007/Telegram-CloneBot), [Copy Folder](https://chrome.google.com/webstore/detail/copy-folder/kfbicpdhiofpicipfggljdhjokjblnhl), [gdrive-clone](https://github.com/alx-xlx/gdrive-clone), [Telegram File Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_telegram_file_tools), [Google Drive Clone Bot](https://jsmsj.github.io/GdriveCloneBot/)
+[GdriveCloneWeb](https://github.com/jsmsj/GdriveCloneWeb), [Google Drive Copy Folder](https://github.com/ericyd/gdrive-copy), [Telegram-CloneBot](https://github.com/jagrit007/Telegram-CloneBot), [Copy Folder](https://chrome.google.com/webstore/detail/copy-folder/kfbicpdhiofpicipfggljdhjokjblnhl), [gdrive-clone](https://github.com/alx-xlx/gdrive-clone), [Google Drive Clone Bot](https://jsmsj.github.io/GdriveCloneBot/)
 
 ***
 
@@ -1159,25 +1159,6 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://70.88.180.169:8
 
 ***
 
-## Reddit Alternatives
-
-* ⭐ **[Raddle](https://raddle.me/)** / [onion](http://c32zjeghcp5tj3kb72pltz56piei66drc63vkhn5yixiyk4cmerrjtid.onion/)
-* ⭐ **[Saidit](https://saidit.net/)**
-
-[/r/RedditAlternatives](https://reddit.com/r/RedditAlternatives), [postmill](https://postmill.xyz/), [Sqwok](https://sqwok.im/), [tildes](https://tildes.net/), [talk](https://www.talk.lol/), [communities](https://communities.win/), [FlingUp](https://flingup.com/), [Upvote](https://upvo.to/), [Hexbear](https://www.hexbear.net/), [Squabblr](https://squabblr.co/), [Discuit](https://discuit.net/), [aolko](https://delv.aolko.me/)
-
-***
-
-## Reddit Media Downloaders
-
-* /u/SaveVideo, [Viddit](https://viddit.red/), [SaveMp4](https://savemp4.red/), [RedditSave](https://rapidsave.com/), [redv.co](https://redv.co/), [Reddit.tube](https://www.redd.tube/) - Download Reddit Videos
-* [rrip](https://github.com/mahesh-hegde/rrip) - Reddit Bulk Image Downloader
-* [Bulk Downloader for Reddit](https://github.com/aliparlakci/bulk-downloader-for-reddit) - Reddit Bulk Submission Downloader
-
-[saveddit](https://github.com/p-ranav/saveddit), [Gert](https://github.com/mcdallas/gert), [RedditDownloader](https://redditdownloader.github.io/), [SubredditMediaDownloader](https://github.com/Psycoguana/SubredditMediaDownloader), [Reddit Media Downloader](https://github.com/shadowmoose/RedditDownloader), [DownloaderForReddit](https://github.com/MalloyDelacroix/DownloaderForReddit), [RedditScrape](https://github.com/NSFWUTILS/RedditScrape), [ReScrapper](https://github.com/psantheus/ReScrapper)
-
-***
-
 ## Remove Vocals
 
 * ⭐ **[mvsep](https://mvsep.com/)**
@@ -1430,14 +1411,6 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://70.88.180.169:8
 
 ***
 
-## Subreddit Discovery
-
-* ⭐ **[redditlist](https://redditlist.com/)**
-
-[sayit](https://anvaka.github.io/sayit/), [Vizit](https://redditstuff.github.io/sna/vizit/), [Map of Reddit](https://anvaka.github.io/map-of-reddit), [subreddits](https://subreddits.org/), [/r/DiscoverReddit Index](https://www.reddit.com/r/DiscoverReddit/wiki/index), [/r/Serendipity](https://www.reddit.com/r/Serendipity), [/r/ListOfSubreddits](https://www.reddit.com/r/ListOfSubreddits/), [/r/wowthissubexists](https://www.reddit.com/r/wowthissubexists/), [/r/findareddit](https://www.reddit.com/r/findareddit/), [/r/trendingsubreddits](https://www.reddit.com/r/trendingsubreddits), [/r/TrendingReddits/](https://www.reddit.com/r/TrendingReddits/), [subreddit_map](https://www.jacobsilterra.com/subreddit_map/network/index.html), [SubredditMentionsGraph](https://dmarx.github.io/SubredditMentionsGraph/network/), [Subreddit Stats](https://subredditstats.com/), [Subreddit Calculator](https://trevor.shinyapps.io/subalgebra/), [redsim](https://anvaka.github.io/redsim/)
-
-***
-
 ## Survival
 
 * ⭐ **[Survivor Library](https://www.survivorlibrary.com/)**
@@ -1500,37 +1473,6 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://70.88.180.169:8
 * https://t.me/myanimetvbot
 * https://t.me/Anime_Flix_Pro
 * https://t.me/Ongoing_animes
-
-***
-
-## Telegram Channels / Bots
-
-* ⭐ **[TDirectory](https://tdirectory.me/)**
-* ⭐ **[Telegram Channels](https://telegramchannels.me/)**
-
-[Lyzem](https://lyzem.com/), [Telemetr](https://telemetr.io/), [xTea](https://xtea.io/ts_en.html), [TGStat](https://tgstat.com/search), [TG-ME](https://www.tg-me.com/), [Telegramic](https://telegramic.org/)
-
-### Bots Only
-
-[ComBot Groups](https://combot.org/top/telegram/groups), [Searchee Bot](https://t.me/SearcheeBot), [BotsArchive](https://t.me/BotsArchive), [awesome-telegram](https://github.com/ebertti/awesome-telegram), [awesome-telegram-bots](https://github.com/DenisIzmaylov/awesome-telegram-bots), [awesome-bots](https://github.com/abdelhai/awesome-bots), [awesome-telegram-groups](https://github.com/stkw0/awesome-telegram-groups), [awesome-telegram](https://github.com/serhii-londar/awesome-telegram), [bots](https://telegramic.org/bots/), [botlist](https://t.me/botlist), [TelegramBotsList](https://danyspin97.github.io/TelegramBotsList/), [bots.php](https://www.qwasap.com/en/bots.php), [/r/TelegramBots](https://www.reddit.com/r/TelegramBots/), [telegram-store](https://telegram-store.com/catalog/bots), [botostore](https://botostore.com/), [borodutch.eth](https://borodutch.com/)
-
-***
-
-## Telegram File Tools
-
-* [teldrive](https://github.com/divyam234/teldrive) , [File-Sharing-Bot](https://github.com/CodeXBotz/File-Sharing-Bot), [TelegramCloud](https://github.com/iw4p/telegram-cloud), [easy_share_bot](https://t.me/easy_share_bot), [ArchiveTGFilezBot](https://t.me/ArchiveTGFilezBot) or [UploadBot](https://t.me/uploadbot) - Upload Files to Telegram
-* [GdriveXbot](https://t.me/TheGdriveXBot), [google-drive-telegram-bot](https://github.com/viperadnan-git/) or [Python Aria Mirror Bot](https://github.com/lzzy12/python-aria-mirror-bot) - Google Drive Telegram upload bots
-* [DrClonerBot](https://t.me/DrClonerBot) - GDrive Clone Bot
-* [Google Drive Bot](https://t.me/Gdriveit_bot) - Google Drive Client in Telegram
-* [SearchX](https://github.com/iamLiquidX/SearchX) - Telegram GDrive Search Bot
-* [MEGA Uploader X](https://t.me/MegaUploadXbot) or [Mega.nz-Bot](https://github.com/Itz-fork/Mega.nz-Bot) - Remote Mega File Upload Bot
-* [OneDrive X](https://t.me/onedrivexbot) - Remote OneDrive File Upload Bot
-* [AIO Uploader](https://t.me/aiouploaderbot), [LinkForFilebot](https://t.me/LinkForFilebot) or [MultiUpload-Bot](https://github.com/oVoIndia/MultiUpload-Bot) - Telegram to File Host Upload Bot
-* [MediaDownBot](https://t.me/mediadownbot) or [DownloadsMasterBot](https://t.me/DownloadsMasterBot) - Social Media Downloader
-* [convrt_bot](https://t.me/convrt_bot), [FileConvertBot](https://t.me/FileConvertBot), [newfileconverterbot](https://t.me/newfileconverterbot), [SmartConverter_bot](https://t.me/SmartConverter_bot), [cloud_convert_bot](https://t.me/cloud_convert_bot), [wololopdfbot](https://t.me/wololopdfbot), [pdfbot](https://t.me/pdfbot), [Gpdfbot](https://t.me/Gpdfbot) - File Converters
-* [ILovePDF](https://github.com/nabilanavab/ilovepdf) - Telegram File to PDF Converter
-* [ConvertVideoTGBot](https://t.me/ConvertVideoTGBot), [FileConvertRobot](https://t.me/FileConvertRobot) or [File2videoconvbot](https://t.me/File2videoconvbot) - Video File Converters
-* [Unzip Bot](https://github.com/EDM115/unzip-bot) - File Extractor / Unzipper
 
 ***
 
@@ -1656,26 +1598,6 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://70.88.180.169:8
 
 ***
 
-## Twitch Adblockers
-
-* ⭐ **[TwitchAdSolutions](https://github.com/pixeltris/TwitchAdSolutions)**
-* ⭐ **[Purple AdBlock](https://addons.mozilla.org/en-US/firefox/addon/purpleadblock/)**
-* ⭐ **[TTV LOL](https://ttv.lol/)** / [Pro](https://github.com/younesaassila/ttv-lol-pro) / [Video Guide](https://rentry.co/tavy3)
-* [VideoAdBlockForTwitch](https://github.com/cleanlock/VideoAdBlockForTwitch)
-* [luminous-ttv](https://github.com/AlyoshaVasilieva/luminous-ttv)
-* [Adblocker for Twitch - Edge](https://microsoftedge.microsoft.com/addons/detail/adblocker-for-twitch%E2%84%A2/glgpmlmjlaljaddimbgekaepkgbojjdn)
-* [Xtra](https://github.com/crackededed/Xtra) or [PurpleTV](https://purpletv.aeong.one/) - Ad Free Android Apps
-
-***
-
-## Twitch Video Downloaders
-
-* ⭐ **[Clipr](https://clipr.xyz/)**
-
-[twitch-downloader](https://github.com/jybp/twitch-downloader), [twitch-dl](https://github.com/ihabunek/twitch-dl), [ClipsGameLab](https://clipsgamelab.github.io/), [Twiclips](https://twiclips.com/), [Twitch Downloader](https://github.com/lay295/TwitchDownloader), [TwitchLink](https://twitchlink.github.io/), [Twitch clips downloader](https://github.com/TorbenCapiau/Twitch-Clips-Downloader), [clipsey](https://clipsey.com/)
-
-***
-
 ## uBlock Filters
 
 * ⭐ **[yokoffing's Recommended Filters](https://github.com/yokoffing/filterlists)**
@@ -1766,16 +1688,6 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://70.88.180.169:8
 ## Wordpress Themes
 
 [gpldl](https://gpldl.com/), [wplocker](https://www.wplocker.com/), [Weadown](https://weadown.com/), [FreeNulledCode](https://freenulledcode.com/), [crackthemes](https://www.crackthemes.com/), [Mega Drive](https://github.com/nbats/FMHYedit/blob/main/base64.md#wordpress-themes), [jojo-themes](https://www.jojo-themes.net/), [babiato](https://babia.to/), [newtemplate](https://newtemplate.net/), [justfreewpthemes](https://justfreewpthemes.com/), [themesplugins](https://themesplugins.club/)
-
-***
-
-## YouTube Frontends
-
-* ⭐ **[Invidious](https://invidious.io/)** / [2](https://tube.cadence.moe/) / [3](https://redirect.invidious.io/)
-* ⭐ **Invidious Tools** - [Instances](https://api.invidious.io/), [2](https://invidio.us/) / [Alt Frontend](https://github.com/bocchilorenzo/invuedious) / [TUI](https://github.com/darkhz/invidtui) / [Redirect](https://addons.mozilla.org/en-US/firefox/addon/hooktube-redirect/?src=search)
-* ⭐ **[FreeTube](https://freetubeapp.io/)** - Desktop App / [Github](https://github.com/FreeTubeApp/FreeTube)
-
-[ViewTube](https://github.com/ViewTube/viewtube), [Piped](https://github.com/TeamPiped/Piped) / [2](https://piped.kavin.rocks/) / [3](https://piped-material.১.net/), [PSTube](https://github.com/prateekmedia/pstube), [Youtube-local](https://github.com/user234683/youtube-local), [tube.cadence](https://tube.cadence.moe/), [yt.d0.cx](https://yt.d0.cx/), [PokeTube](https://github.com/ashley0143/poketube)
 
 ***
 
