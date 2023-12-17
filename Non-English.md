@@ -1378,6 +1378,8 @@
 * [Gnula.uno](https://gnula.uno/) - Movies / TV / Anime / Latino
 * [Cinecalidad](https://cinecalidad.gg/) - Movies / TV / Animation / Latino / [Telegram](https://t.me/cinecalidadchat)
 * [Cuevana2](https://www.cuevana2espanol.net/) - Movies / TV / Latino
+* [Cuevana3.biz](https://cuevana.biz/) - Movies / TV / Latino
+* [Cuevana3.ch](https://cuevana3.ch/) - Movies / TV / Latino
 * [Locopelis](https://www.locopelis.com/), [2](https://www.repelis.net/) - Movies / NSFW / Latino
 * [Fanpelis](https://fanpelis.mx/) - Movies / TV / Anime / Latino
 * [PelisPlusHD.nz](https://pelisplushd.nz/) - Movies / TV / Anime / Latino / [Telegram](https://t.me/pelisplushd_nu)
@@ -1399,6 +1401,7 @@
 * [Dilo](https://www.dilo.nu/) - Movies / TV / Anime / Castilian
 * [novelas360](https://novelas360.com/) - TV / Drama
 * [Tlnovelas](https://tlnovelas.net/) - TV / Drama
+* [MundoVideosHD](https://mundovideoshd.com/) - TV / Drama
 * [Asialiveaction](https://asialiveaction.com/) - Asian Drama
 * [Doramasyt](https://www.doramasyt.com/) - Asian Drama
 * [Vix](https://www.vix.com/tv/) - TV / Latino
@@ -1429,7 +1432,8 @@
 * [Anime Online Sub](https://www.animeonlinesub.com/) - Anime / Sub
 * [serieslan](https://serieslan.com/) - Cartoons
 * [LACartoons](https://www.lacartoons.com/) - Cartoons
-* [Eventoshq](https://www.eventoshq.me/) - WWE
+* [LatinLucha](https://latinlucha.es/) - WWE / MMA Replays / Latino
+* [EventosHQ](https://www.eventoshq.me/) - WWE / MMA Replays / Latino
 * [Edutin Academy](https://edutin.com/) - Courses
 * [Tele Gratis Online](https://telegratis.online/) - Live TV
 * [Television Gratis](https://www.televisiongratishd.com/) - Live TV / Latino
