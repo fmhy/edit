@@ -1432,8 +1432,8 @@
 * [Anime Online Sub](https://www.animeonlinesub.com/) - Anime / Sub
 * [serieslan](https://serieslan.com/) - Cartoons
 * [LACartoons](https://www.lacartoons.com/) - Cartoons
-* [LatinLucha](https://latinlucha.es/) - WWE / MMA / Sports Replays / Latino
-* [EventosHQ](https://www.eventoshq.me/) - WWE / MMA / Sports Replays / Latino
+* [LatinLucha](https://latinlucha.es/) - WWE / MMA Replays / Latino
+* [EventosHQ](https://www.eventoshq.me/) - WWE / MMA Replays / Latino
 * [Edutin Academy](https://edutin.com/) - Courses
 * [Tele Gratis Online](https://telegratis.online/) - Live TV
 * [Television Gratis](https://www.televisiongratishd.com/) - Live TV / Latino
