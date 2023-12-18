@@ -39,8 +39,8 @@ async function handleSubmit(type?: FeedbackType["type"]) {
     if (data.status === "ok") {
       success.value = true;
     }
-  } catch (error_) {
-    error.value = error_;
+  } catch (error) {
+    error.value = error;
   } finally {
     loading.value = false;
   }
@@ -82,11 +82,11 @@ async function handleSubmit(type?: FeedbackType["type"]) {
           class="input"
           placeholder="What a lovely wiki!" />
         <p class="desc mb-2">
-          Join our
+          If you'd prefer to be contacted through another platform, feel free to mention it in the
+          message or join our
           <a class="text-primary font-semibold text-underline" href="https://discord.gg/Stz6y6NgNg"
             >Discord</a
-          >
-          if you'd like a response to your feedback.
+          >.
         </p>
         <button
           type="submit"
