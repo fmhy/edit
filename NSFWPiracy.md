@@ -26,7 +26,11 @@
 * ⭐ **[EPorner](https://www.eporner.com/)**
 * ⭐ **[goodporn](https://goodporn.to/)**, [2](https://goodporn.se/)
 * ⭐ **[neporn](https://neporn.com/)**
+* ⭐ **[Noodlemagazine](https://noodlemagazine.com)**, [2](https://mat6tube.com/), [3](https://18.tyler-brown.com/), [4](https://waterdamagesandiego.org/), [5](https://hot.exporntoons.net/), [6](https://actionviewphotography.com/) - Search Engine
+* ⭐ **[iXXX](https://www.ixxx.com/)** - Aggregator
 * ⭐ **[Archivebate](https://archivebate.com/)**, **[CamCaps](https://camcaps.ac/)**, **[Peachurbate](https://peachurbate.com/en)**, [OnCam](https://oncam.me/), [Cam Show Download](https://camshowdownload.com/), [Curbate](https://curbate.tv/), [Mobile Porn](https://www.mobilepornmovies.com/) or [CamSmut](https://camsmut.com/) - Cam Video Archives
+* [Full Length Porn CSE](https://cse.google.com/cse?cx=6c02fb377e50d493c) - Aggregators CSE
+* [FindTubes](https://www.findtubes.com/) - Aggregator
 * [xHamster](https://xhamster.com/)
 * [PornHub](https://www.pornhub.com/) / [Add Features](https://sleazyfork.org/en/scripts/380711) / [DL Script](https://gist.github.com/Riboe/58acabe04abe74421e88b4269cbdf41e)
 * [TNAFlix](https://www.tnaflix.com/)
@@ -62,52 +66,6 @@
 
 ***
 
-## ▷ Aggregators
-
-* ⭐ **[Noodlemagazine](https://noodlemagazine.com)**, [2](https://mat6tube.com/), [3](https://18.tyler-brown.com/), [4](https://waterdamagesandiego.org/), [5](https://hot.exporntoons.net/), [6](https://actionviewphotography.com/) - Search Engine
-* ⭐ **[iXXX](https://www.ixxx.com/)** - Aggregator
-* [Full Length Porn CSE](https://cse.google.com/cse?cx=6c02fb377e50d493c) - Aggregators CSE
-* [TubeSafari](https://tubesafari.com/) - Aggregator
-* [Thumbzilla](https://www.thumbzilla.com/) - Aggregator
-* [Big Porn](https://www.bigporn.com/) - Aggregator
-* [Fuq](https://www.fuq.com/) - Aggregator
-* [FindTubes](https://www.findtubes.com/) - Aggregator
-* [Porzo](https://www.porzo.com/) - Aggregator
-* [PornKai](https://pornkai.com/) - Aggregator
-* [For Her Tube](https://www.forhertube.com/) - Aggregator
-* [HD Hole](https://hdhole.com/) - Aggregator
-* [VIP Wank](https://vipwank.com/) - Aggregator
-* [Xvidzz](https://www.xvidzz.com/) - Aggregator
-* [TubeGalore](https://www.tubegalore.com/) - Aggregator
-* [XNEON](https://xneon.com/) - Aggregator
-* [Porn.com](https://www.porn.com/) - Aggregator
-* [LobsterTube](https://www.lobstertube.com/) - Aggregator
-* [DinoTube](https://www.dinotube.com/) - Aggregator
-* [TubePornstars](https://www.tubepornstars.com/) - Aggregator
-* [Tonic Movies](https://tonicmovies.com/) - Aggregator
-* [Aloha Tube](https://www.alohatube.com/) - Aggregator
-* [FuckMoral](https://fuckmoral.com/) - Aggregator
-* [iWank](https://iwank.tv/) - Aggregator
-* [PornoGO](https://pornogo.tv/) - Aggregator
-* [pornSOS](https://www.pornsos.com/) - Aggregator
-* [Tiava](https://www.tiava.com/) - Aggregator
-* [4Porn](https://4porn.com/) - Aggregator
-* [Fap Vid HD](https://fapvidhd.com/) - Aggregator
-* [EbonyGalore](https://www.ebonygalore.com/) or [Assoass](https://www.assoass.com/) - Aggregator
-* [MelonsTube](https://www.melonstube.com/) - Aggregator
-* [HD XNXX](https://hdxnxx.xxx/) - Aggregator
-* [Pornfaze](https://pornfaze.com/) - Aggregator
-* [Large HD Tube](https://largehdtube.com/) - Aggregator
-* [NudeVista](https://www.nudevista.com/) - Search Engines
-* [Xfantazy](https://xfantazy.com/) - Search Engines
-* [PornMD](https://pornmd.com/) - Search Engine
-* [Porndex](https://www.porndex.com/) - Search Engines
-* [Ro89](https://ro89.com/) - Search Engines
-* [Mature Tube](https://www.maturetube.com/) - MILF Focused Aggregator
-* [LesbianPornVideos](https://www.lesbianpornvideos.com/) - Lesbian Focused Aggregator
-
-***
-
 ## ▷ NSFW Movies
 
 * ⭐ **[NSFW Movie Site Search](https://cse.google.com/cse?cx=006516753008110874046:3-svpblbro8)** / [2](https://cse.google.com/cse?cx=b5a63746fc84a456d)
@@ -118,24 +76,16 @@
 * ⭐ **[My Duck Is Dead](https://myduckisdead.org/)**
 * [MangoPorn](https://mangoporn.net/)
 * [EroticMV](https://eroticmv.com/)
-* [WIPFilms](https://wipfilms.net/)
 * [EroticMV](https://eroticmv.com/)
-* [streamporn](https://streamporn.pw/)
 * [EroGarga](https://www.erogarga.com/)
 * [EroticAge](https://www.eroticage.net/)
 * [VintageClassix](http://www.vintageclassix.com/)
 * [paradisehill](https://en.paradisehill.cc/)
 * [Cat3Movies](https://cat3movie.org/)
 * [PornDune](https://porndune.com/)
-* [freeomovie.info](https://freeomovie.info/)
-* [freeomovie.to](https://www.freeomovie.to/)
-* [yourdailypornmovies](https://yourdailypornmovies.ws/)
-* [erokrad](https://erokrad.online/)
-* [StreamPorn](https://streamporn.li/)
-* [pandamovie](https://pandamovie.in/)
 * [pornxtheatre](https://pornxtheatre.com/)
-* [openload](https://xopenload.me/)
 * [AdultLoad](https://adultload.ws/)
+* [WIPFilms](https://wipfilms.net/)
 * [EffedUpMovies](https://www.effedupmovies.com/) - Disturbing Horror Movies
 
 ***
@@ -150,44 +100,17 @@
 * ⭐ **[JavGuru](https://jav.guru/)** - Japanese
 * [Javtiful](https://javtiful.com/) - Japanese
 * [JavHDPorn](https://www2.javhdporn.net/) - Japanese
-* [JAV Quick](https://javquick.com/) - Japanese
-* [JAVHD.today](https://javhd.today/) - Japanese
-* [VJAV](https://vjav.com/main/) - Japanese
-* [JAVGG](https://javgg.net/) - Japanese
 * [nJAV](https://njav.tv/) - Japanese 
-* [JAV Tsunami](https://javtsunami.com/) - Japanese
 * [Avgle](https://avgle.com/) - Japanese
-* [Roshy](https://roshy.tv/) - Japanese
 * [Senzuri Tube](https://senzuri.tube/) - Japanese
-* [BestJavPorn](https://www4.bestjavporn.com/) - Japanese
 * [JAVMost](https://www5.javmost.com/) - Japanese
 * [Javfinder](https://javfinder.sb/) - Japanese
-* [Sex JAV](https://sexjav.tv/) - Japanese
 * [OPJAV](https://opjav.com/) - Japanese
 * [JAV19](https://www.jav19.com/) - Japanese
 * [WatchJAVonline](https://watchjavonline.com/) - Japanese
 * [JavBangers](https://www.javbangers.com/) - Japanese
-* [JavFindX](https://javfindx.com/) - Japanese
 * [JavEnglish](https://javenglish.cc/) - Japanese
-* [JavDoe](https://javdoe.to/) - Japanese
 * [7MMTV](https://7mmtv.sx/) - Japanese
-* [JAVFC2](https://javfc2.net/) - Japanese
-* [JAVBabe](https://ww1.javbabe.net/) - Japanese
-* [Roshutu-Shuuti](https://roshutu-shuuti.net/) - Japanese
-* [Video.fc2](https://video.fc2.com/a/) - Japanese
-* [BlackedJAV](https://blackedjav.com/) - Interracial Japanese
-* [KissJAV](https://kissjav.com/) - Asian
-* [KRX18](https://krx18.com/) - Asian
-* [TokyoMotion](https://tokyomotion.com/) - Asian
-* [Republic of Korea](https://republic-of-korea.com/) - Asian
-* [JavRank](https://javrank.com/) - Asian
-* [FunLove](https://funlove.info/) - Asian
-* [Watch Free JAV](https://s2.watchfreejavonline.co/) - Asian
-* [HereXXX](https://herexxx.com/) - Asian
-* [ChinaBabe](https://ww2.chinababe.net/) - Chinese
-* [91Porn](https://91porn.com/index.php) - Amateur Chinese
-* [sjhs301](https://sjhs301.github.io/) - Chinese
-* [pinayflix](https://pinayflix2.com/) - Filipino
 
 ***
 
