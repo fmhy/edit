@@ -52,7 +52,7 @@
 
 ## ▷ Screen Recording
 
-* ⭐ **[OBS](https://obsproject.com/)** / [Guide](https://youtu.be/7fuFGDFDzUY)
+* ⭐ **[OBS](https://obsproject.com/)**
 * [Shinobi](https://shinobi.video/) - Network Video Recorder
 * [MythTV](https://www.mythtv.org/) - Digital Video Recorder (DVR)
 * [screengif](https://github.com/dergachev/screengif), [gifcap](https://gifcap.dev/) / [GitHub](https://github.com/joaomoreno/gifcap) or [licecap](https://www.cockos.com/licecap/) - Turn Screencasts into GIFs
