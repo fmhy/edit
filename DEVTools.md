@@ -103,14 +103,14 @@
 * ⭐ **[Learn to Code HTML & CSS](https://learn.shayhowe.com/)** - HTML/CSS Course
 * ⭐ **[JavaScript.info](https://javascript.info/)**, [30 Days Of JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript) or [Java5cript](https://www.java5cript.com/) - Javascript Learning Sites
 * ⭐ **[mess with dns](https://messwithdns.net/)** - Experiment with DNS
-* ⭐ **[PHP: The Right Way](https://phptherightway.com/)** or [PHP Tutorial](https://www.phptutorial.net/) - Learn PHP
+* ⭐ **[PHP: The Right Way](https://phptherightway.com/)**, [Learn PHP](https://odan.github.io/learn-php/) or [PHP Tutorial](https://www.phptutorial.net/) - Learn PHP
 * [Web Dev for Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) - Web Dev Course
 * [Aquent Gymnasium](https://thegymnasium.com/) - Web Dev Tutorials
 * [Dash](https://dash.generalassemb.ly/) - Web Dev Courses
 * [Web Skills](https://andreasbm.github.io/web-skills/) or [Encodedna](https://www.encodedna.com/) - Web Dev Guides
 * [Codevolution](https://www.youtube.com/@Codevolution) - Web Dev Video Lessons
 * [HTMLDog](https://htmldog.com/) - HTML/CSS and JavaScript Tutorials
-* [CSS Challenges](https://css-challenges.com/) or [PlayCSS](https://playcss.app/) - CSS Challenges
+* [100DayCSS](https://100dayscss.com/) , [CSS Challenges](https://css-challenges.com/) or [PlayCSS](https://playcss.app/) - CSS Challenges
 * [Codepip](https://codepip.com/games/), [Grid Garden](https://cssgridgarden.com/), [CSS Battle](https://cssbattle.dev/), [CSS Speedrun](https://css-speedrun.netlify.app/), [CodingFantasy](https://codingfantasy.com/) or [CSS Diner](https://flukeout.github.io/) - CSS Learning Games
 * [Guess CSS](https://www.guess-css.app/) - CSS Guessing Game
 * [Flexbox Froggy](https://flexboxfroggy.com/), [FlexboxDefense](http://www.flexboxdefense.com/) or [KnightsoftheFlexboxTable](https://knightsoftheflexboxtable.com/) - CSS Flexbox Learning Games
@@ -471,11 +471,9 @@
 * [Icon Shelf](https://icon-shelf.github.io/) - Icon Manager
 * [Favicon Maker](https://formito.com/tools/favicon) or [Favicon Generator](https://www.favicon-generator.org/) - Create Favicons
 * [Icon Horse](https://icon.horse/) - Download a Sites Favicon
-* [Responsively](https://responsively.app/) - Responsive Dev Design Tool
 * [SREWorks](https://github.com/alibaba/SREWorks) - Operation & Maintenance Platform
 * [the component gallery](https://component.gallery/) - Design Components Gallery
 * [Scrollbar.app](https://scrollbar.app/) - Design Custom Scrollbars
-* [Am I Responsive](https://ui.dev/amiresponsive) - Responsive Design Checker
 * [LibreLogos](https://www.librelogos.org/) or [LogoTaco](https://www.logotaco.com/) - Project Logos
 * [Emanote](https://emanote.srid.ca/) - Create Sites from Plain-Text Notes / [GitHub](https://github.com/srid/emanote)
 * [Plunker](https://plnkr.co/) or [Bloo](https://bloouikit.com/) - Prototype / Test Websites Idea
@@ -490,7 +488,7 @@
 * [Canva](https://www.canva.com/) - Design Templates / [Premium Apk](https://github.com/nbats/FMHYedit/blob/main/base64.md#canva-premium) 
 * [Zeplin](https://zeplin.io/) - Design Templates / Editor
 * [Codebases](https://github.com/reacttips-dev/codebases) - ReactJS Project Source Codes
-* [vite](https://vitejs.dev/) - Frontend Development Tool / [GitHub](https://github.com/vitejs/vite)
+* [vite](https://vitejs.dev/) or [layoutit](https://layoutit.com/) - Frontend Development Tools
 * [Frontend Development](https://github.com/dypsilon/frontend-dev-bookmarks) - Frontend Development Resources
 * [Hydrogen](https://github.com/Shopify/hydrogen) - Online Store Templates
 * [MicroCopy](https://www.microcopy.me) - Copy Common Website Text
@@ -581,15 +579,16 @@
 * [Carbon Calculator](https://www.websitecarbon.com/) - Estimate Sites Carbon Footprint
 * [Site Inspector](https://www.getsiteinspector.com/) - Check Site for Spelling / Grammatical Errors
 * [UX Check](https://chrome.google.com/webstore/detail/ux-check/giekhiebdpmljgchjojblnekkcgpdobp) - Site Heuristic Evaluation
-* [Responsive Viewer](https://responsiveviewer.org/) - Test Site on Multiple Screen Types / [Chrome](https://chrome.google.com/webstore/detail/responsive-viewer/inmopeiepgfljkpkidclfgbgbmfcennb?hl=en)
 * [Testmail](https://testmail.app/) - Site Signup Test
-* [Responsivize](https://virejdasani.github.io/Responsivize/) - Website Responsiveness Test
+* [Responsive Viewer](https://responsiveviewer.org/) - Test Site on Multiple Screen Types / [Chrome](https://chrome.google.com/webstore/detail/responsive-viewer/inmopeiepgfljkpkidclfgbgbmfcennb?hl=en)
+* [Responsively](https://responsively.app/), [ResponsiveTestTool](https://responsivetesttool.com/), [Responsivize](https://virejdasani.github.io/Responsivize/) or [Am I Responsive](https://ui.dev/amiresponsive) - Website Responsiveness Tests
 * [LightHouse](https://github.com/GoogleChrome/lighthouse) - Web App Performance Test
 
 ***
 
 # ► Developer Tools
 
+* 🌐 **[Free For Dev](https://github.com/ripienaar/free-for-dev)** - Developer Resourses
 * 🌐 **[Awesome Sys Admin](https://github.com/awesome-foss/awesome-sysadmin)** - System Admin Resources
 * 🌐 **[Awesome Microservices](https://github.com/mfornos/awesome-microservices)** - Microservice Architecture Resources
 * 🌐 **[Awesome Subreddits](https://github.com/iCHAIT/awesome-subreddits)** - Programming Subreddits
@@ -703,7 +702,8 @@
 * 🌐 **[Awesome iOS](https://github.com/vsouza/awesome-ios)** - iOS Development Resources
 * 🌐 **[Awesome-Android-UI](https://github.com/wasabeef/awesome-android-ui)**, [UIGarage](https://uigarage.net/), [UXArchive](https://uxarchive.com/), [Mobbin](https://mobbin.design/), [UISources](https://www.uisources.com/) or [LovelyUI](https://lovelyui.com/) - Mobile UI Resources
 * 🌐 **[Heroku-Alt](https://rentry.co/Heroku-Alt)** or [heroku-free-alternatives](https://github.com/anandrmedia/heroku-free-alternatives) - Heroku Alternatives
-* ⭐ **[Docker](https://www.docker.com/)** - Build, Manage and Run Apps in Containers / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_docker_tools)
+* ↪️ **[Docker Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_docker_tools)**
+* ⭐ **[Docker](https://www.docker.com/)** - Build, Manage and Run Apps in Containers
 * ⭐ **[Tizen](https://www.tizen.org/)** - Android TV App Creator
 * ⭐ **[XDA](https://xdaforums.com/)** - App Development Forum
 * [SupaBase](https://supabase.com/), [Kodular](https://www.kodular.io/), [Glide](https://www.glideapps.com/), [AppCreator24](https://www.appcreator24.com/), [Dokku](https://dokku.com/), [AndroidIDE](https://androidide.com/), [Flutter](https://flutter.dev/) / [Resources](https://github.com/Solido/awesome-flutter), [2](https://github.com/leanflutter/awesome-flutter-desktop), [noodl](https://www.noodl.net/) or [Android Studio](https://developer.android.com/studio/index.html) - App Creators
@@ -719,7 +719,6 @@
 * [Blisk](https://blisk.io/) - Cross-Device Testing
 * [Percy](https://percy.io/) - Visual App Review Platform
 * [Booster](https://github.com/didi/booster) - Mobile App Optimization
-* [Mobbin](https://mobbin.com/) - Mobile App Design Reference Library
 * [SpreadsheetView](https://github.com/bannzai/SpreadsheetView) - Spreadsheet UI for iOS Apps
 * [Xcode](https://developer.apple.com/xcode/) - Test and Build iOS / iPadOS Apps
 * [Xcodes App](https://github.com/XcodesOrg/XcodesApp) - Xcode Manager
@@ -1031,6 +1030,7 @@
 * 🌐 **[Awesome Programming](https://github.com/hardikvasa/awesome-programming)**, [Best-Websites](https://github.com/sdmg15/Best-websites-a-programmer-should-visit), [Tiny Tools](https://tinytools.directory/), [CarlosAG](https://www.carlosag.net/), [Charm](https://charm.sh/) or [List.community](https://list.community/) - Programming Resources
 * 🌐 **[Awesome Regex](https://github.com/aloisdg/awesome-regex)** - Regex Resources
 * 🌐 **[Awesome-Discord-Communities](https://github.com/mhxion/awesome-discord-communities)** - Discord Communities 
+* 🌐 **[Programming-Telegram-Group](https://github.com/hendisantika/List-All-Programming-Telegram-Group)** - Telegram Communities
 * 🌐 **[Awesome Twitter Accounts](https://github.com/yask123/AwesomeTwitterAccounts)** or [Awesome Twitter Communities](https://github.com/mattn/awesome-twitter-communities) - Twitter Communities
 * ⭐ **[Starcoder](https://huggingface.co/spaces/bigcode/bigcode-playground)**, [TurboPilot](https://github.com/ravenscroftj/turbopilot) or [Safurai](https://www.safurai.com/) / [Discord](https://discord.com/invite/JYXue8DD4w) - Auto-Code Completion
 * ⭐ **[Literally Anything](https://www.literallyanything.io/)** - Generate Code via Prompts
@@ -1123,10 +1123,10 @@
 * [RubyFiddle](https://rubyfiddle.com/) - Ruby Snippets in Browser
 * [Tantiny](https://github.com/baygeldin/tantiny) - Full-Text Ruby Search
 * [GNU Octave](https://octave.org/) - Scientific Programming Language
+* [JavaScripting](https://www.javascripting.com/) or [Danfo.js](https://github.com/javascriptdata/danfojs) - JavaScript Libraries
 * [NodeJS](https://nodejs.org/en/) - JavaScript Runtime Environment
 * [Clean Code Javascript](https://github.com/ryanmcdermott/clean-code-javascript) - Clean Code for Javascript
 * [Vanilla List](https://vanillalist.top/) - Vanilla Javascript Repository
-* [Danfo.js](https://github.com/javascriptdata/danfojs) - Javascript Library
 * [RunKit](https://runkit.com/) - Browser Javascript Sandbox
 * [Adrenaline](https://useadrenaline.com/) - Code Debugging
 * [JBin](https://jsbin.com/) or [Replay](https://www.replay.io/) - Collaborative Code Debugging
@@ -1320,7 +1320,7 @@
 * [Water.css](https://watercss.kognise.dev/) - CSS Styles
 * [Style Stage](https://stylestage.dev/) - Modern CSS Styles
 * [USA.css](https://bennettfeely.com/usacss/) - USA CSS Style
-* [CSSLayout](https://phuoc.ng/collection/css-layout/), [CSS Layout Generator](https://layout.bradwoods.io/), [BoxBox](https://seansleblanc.itch.io/boxboxhtml), [CSSGridGenerator](https://cssgrid-generator.netlify.app/) or [Layoutit Grid](https://grid.layoutit.com/) - CSS Layout /Grid Generators
+* [CSSLayout](https://phuoc.ng/collection/css-layout/), [CSS Layout Generator](https://layout.bradwoods.io/), [BoxBox](https://seansleblanc.itch.io/boxboxhtml) or [CSSGridGenerator](https://cssgrid-generator.netlify.app/) - CSS Layout /Grid Generators
 * [ClassyFont](https://www.classyfont.com/) - CSS Font Generator
 * [Modern Fonts Stacks](https://modernfontstacks.com/) - CSS Fonts
 * [Leon's CSS](https://leonarnott.neocities.org/) or [Wordart](https://codepen.io/kathykato/details/omxPap) - CSS Text Styles
