@@ -140,13 +140,6 @@
 
 ***
 
-## ▷ Live Cams
-
-
-
-
-***
-
 ## ▷ Asian
 
 * ⭐ **[SexTB](https://sextb.net/)** - Japanese
@@ -195,51 +188,6 @@
 * [91Porn](https://91porn.com/index.php) - Amateur Chinese
 * [sjhs301](https://sjhs301.github.io/) - Chinese
 * [pinayflix](https://pinayflix2.com/) - Filipino
-
-***
-
-## ▷ Indian
-
-* [FSIBlog](https://www.fsiblog.club/)
-* [AAGmaal](https://aagmaal.com/) / [2](https://10hd.xyz/) / [3](https://aagmaal.icu/) / [4](https://webmaal.cyou/) / [5](https://sohot.cyou/)
-* [ChiggyWiggy](https://chiggywiggy.com/)
-* [MyDesi](https://www.mydesi3.com/)
-* [UncutMaza](https://uncutmaza.cc/)
-* [IxiPorn](https://ixiporn.cc/)
-* [NangiVideos](https://video.nangiphotos.com/)
-* [IndianPornGirl](https://indianporngirl2.com/index.html)
-* [KamaBaba](https://www.kamababa.desi/)
-* [RemaxHD](https://remaxhd.guru/) / [Telegram](https://t.me/remaxhdnew)
-* [DesiBP](https://desibp.com/)
-* [Antarvasna BF](https://www.antarvasnabf.com/)
-* [JanuFlix](https://januflix.expert/)
-* [Hindi XXX HD](https://hindixxxhd.com/)
-* [XXX Video Indian](https://www.xxxvideoindian.com/)
-* [Aagmaal.run](https://aagmaal.run/)
-* [Aagmaal.fans](https://aagmaal.fans/)
-* [Aagmaals.me](https://aagmaals.me/)
-* [sexfullmovies](https://www.sexfullmovies.com/)
-* [onlyindianporn](https://onlyindianporn.me/) 
-* [ViralVideoTube](https://viralvideotube.pro/) or [Happy2Hub](https://happy2hub.eu/homepage/) - Movies
-* [GotXX](https://www.gotxx.net/) - Softcore Indian Movies
-
-***
-
-## ▷ Ebony
-
-* [SheFreaky](https://www.shesfreaky.com/)
-* [IponSex](https://iponsex.com/)
-* [BangHer](https://www.bangher.net/)
-* [PornInBlack](https://porninblack.com/)
-* [Azz For Days](https://azzfordays.co/)
-* [Mzansi Porn](https://mzansiporn.mobi/)
-* [Mzansi Videos](https://mzansipornvideos.com/)
-* [BaddiesOnly](https://baddiesonly.tv/)
-* [Baddies24/7](https://baddies247.com/)
-* [HomeGrownFreaks](https://homegrownfreaks.net/)
-* [Ebony Pulse](https://ebonypulse.tv/)
-* [RahaPorn](https://www.rahaporn.com/)
-* [TastyBlacks](https://tastyblacks.com/)
 
 ***
 
