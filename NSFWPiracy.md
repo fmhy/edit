@@ -21,146 +21,42 @@
 # ► Streaming
 
 * ⭐ **[SexyPorn](https://www.sxyprn.com/)**
-* ⭐ **[SpankBang](https://spankbang.com/)**
 * ⭐ **[XVideos](https://www.xvideos.com/)**
-* ⭐ **[xHamster](https://xhamster.com/)**
+* ⭐ **[SpankBang](https://spankbang.com/)**
 * ⭐ **[EPorner](https://www.eporner.com/)**
-* ⭐ **[PornHub](https://www.pornhub.com/)** / [Add Features](https://sleazyfork.org/en/scripts/380711) / [DL Script](https://gist.github.com/Riboe/58acabe04abe74421e88b4269cbdf41e)
-* ⭐ **[Perverzila](https://tube.perverzija.com/)** - Full Length Videos / [Discord](https://tube.perverzija.com/)
-* ⭐ **[WhereIsMyPorn](https://whereismyporn.com/)** - Full Length Videos
-* ⭐ **[Bellesa](https://www.bellesa.co/)** - Porn Videos for women
-* [PornFeat](https://www.pornfeat.com/)
-* [XNXX](https://www.xnxx.com/) / [Forum](https://forum.xnxx.com/)
+* ⭐ **[goodporn](https://goodporn.to/)**, [2](https://goodporn.se/)
+* ⭐ **[neporn](https://neporn.com/)**
+* ⭐ **[Archivebate](https://archivebate.com/)**, **[CamCaps](https://camcaps.ac/)**, **[Peachurbate](https://peachurbate.com/en)**, [OnCam](https://oncam.me/), [Cam Show Download](https://camshowdownload.com/), [Curbate](https://curbate.tv/), [Mobile Porn](https://www.mobilepornmovies.com/) or [CamSmut](https://camsmut.com/) - Cam Video Archives
+* [xHamster](https://xhamster.com/)
+* [PornHub](https://www.pornhub.com/) / [Add Features](https://sleazyfork.org/en/scripts/380711) / [DL Script](https://gist.github.com/Riboe/58acabe04abe74421e88b4269cbdf41e)
 * [TNAFlix](https://www.tnaflix.com/)
-* [Pornobae](https://pornobae.com/)
-* [Youjizz](https://www.youjizz.com/)
+* [PornXP](https://pornxp.org/)
 * [Youporn](https://www.youporn.com/)
 * [HQPorner](https://hqporner.com/)
+* [Youjizz](https://www.youjizz.com/)
+* [XNXX](https://www.xnxx.com/) / [Forum](https://forum.xnxx.com/)
+* [Pornobae](https://pornobae.com/)
 * [ThePornArea](https://thepornarea.com/)
-* [Fullporner](https://fullporner.com/)
 * [DrTuber](https://www.drtuber.desi/)
-* [Pornhits](https://www.pornhits.com/main/)
 * [Porndish](https://www.porndish.com/)
 * [Analdin](https://www.analdin.com/)
 * [Tube8](https://www.tube8.com/)
 * [Porndoe](https://porndoe.com/)
 * [Porndig](https://www.porndig.com/)
 * [anysex.com](https://anysex.com/)
-* [Pornmz](https://pornmz.com/)
-* [SunPorno](https://www.sunporno.com/)
-* [Watchporn](https://watchporn.to/)
-* [Hdporn92](https://hdporn92.com/)
-* [TubeOrigin](https://www.tubeorigin.com/)
-* [XXX Yespornplease XXX](https://yespornpleasexxx.com/)
-* [Hitprn](https://www.hitprn.com/)
-* [xmoviesforyou](https://xmoviesforyou.com/)
-* [Porn4Days](https://porn4days.red/)
 * [PornHD3x](https://www.pornhd3x.tv/)
-* [vxxx](https://vxxx.com/)
-* [veporn](https://veporn.com/)
 * [Americass](https://americass.net/)
-* [Porn00](https://www.porn00.org/latest-vids/)
 * [Motherless](https://motherless.com/)
 * [ClipHunter](https://www.cliphunter.com/)
 * [Beeg](https://beeg.com/)
 * [Redtube](https://www.redtube.com/)
-* [Porntube](https://www.porntube.com/)
-* [Hello.Porn](https://hello.porn/)
-* [PornOne](https://pornone.com/)
-* [ok.xxx](https://ok.xxx/)
 * [txxx](https://txxx.com/)
-* [Letsjerk](https://letsjerk.tv/)
 * [3movs](https://www.3movs.com/)
-* [4tube](https://www.4tube.com/)
-* [4kporn.xxx](https://4kporn.xxx/)
-* [Pornhat](https://www.pornhat.com/)
-* [Perfectgirls](https://www.perfectgirls.xxx/)
-* [xxxfree.watch](https://xxxfree.watch/)
-* [xxxfiles](https://www.xxxfiles.tv/)
-* [xfreehd](https://www.xfreehd.com/)
-* [Whoreshub](https://www.whoreshub.com/)
-* [Porn300](https://www.porn300.com/)
-* [SexTu](https://www.sextu.com/)
 * [Pornktube](https://www.pornktube.club/) or [TubXPorn](https://tubxporn.xxx/)
-* [sex-studentki](https://ru.sex-studentki.guru/)
-* [mega-xxx](https://www.mega-xxx.tv/)
-* [5porno](https://5porno.pro/)
-* [pervclips](https://www.pervclips.com/)
-* [24xxx](https://www.24xxx.me/)
-* [cumlouder](https://www.cumlouder.com/)
-* [Pornky](https://www.pornky.com/)
-* [goodporn](https://goodporn.to/), [2](https://goodporn.se/)
 * [pornktube](https://www.pornktube.tv/)
-* [suj](https://suj.nu/)
-* [tubegalore](https://www.tubegalore.com/)
-* [PornGO](https://www.porngo.com/) 
-* [PornTrex](https://www.porntrex.com/)
-* [AnonVideos](https://anonvideos.com/)
-* [HotPornFile](https://www.hotpornfile.org/)
-* [FindTubes](https://www.findtubes.com/)
-* [PreFap](https://prefap.com/)
 * [Vid123](https://vid123.net/) 
-* [FuckIt](https://www.fuckit.cc/) 
-* [NesaPorn](https://nesaporn.com/)
-* [ProPorn](https://www.proporn.cc/)
-* [XBabe](https://xbabe.com/)
-* [hotntubes](https://hotntubes.com/)
-* [Fuq](https://www.fuq.com/)
-* [TubeWolf](https://www.tubewolf.com/)
-* [HQporn.xxx](https://hqporn.xxx/)
-* [Joysporn](https://wwv.joysporn.sex/)
-* [SexVid](https://www.sexvid.xxx/)
-* [PovAddict.com](https://www.povaddict.com/)
-* [Fux](https://www.fux.com/)
-* [xxxfiles](https://www.xxxfiles.tv/)
-* [GemmePorn](https://gemmeporn.com/)
-* [Pornerbros](https://www.pornerbros.com/)
-* [ItsPorn](https://www.its.porn/)
-* [RecTube](https://rec-tube.com/)
-* [Lustoholic](https://lustholic.com/) 
 * [PornHoarder](https://pornhoarder.tv/)
-* [trendyporn](https://www.trendyporn.com/)
-* [xxxPornxxx](https://xxxpornxxx.net/)
-* [ZB Porn](https://zbporn.com/)
-* [Pornjam](https://www.pornjam.com/)
-* [Netfapx](https://netfapx.com/)
-* [xmegadrive](https://www.xmegadrive.com/)
-* [InsaneList](https://insanelist.com/)
-* [FreePornSex](https://www.freepornsex.net/)
-* [FuxnXX](https://fuxnxx.com/) 
-* [Clip Fuck](https://clipf.com/)
-* [PornoFlix](https://pornoflix.com/)
-* [PussySpace](https://www.pussyspace.com/)
-* [Porn-Star](https://www.porn-star.com/)
-* [Inporn](https://inporn.com/)
-* [PornTop](https://porntop.com/)
-* [PornXP](https://pornxp.org/)
-* [AnyPorn](https://anyporn.com/)
-* [SeverePorn](https://severeporn.com/)
-* [XTapes](https://xtapes.to/)
-* [CollectionOfBestPorn](https://collectionofbestporn.com/)
-* [SexTVx](https://www.sextvx.com/)
-* [PornID XXX](https://www.pornid.xxx/)
-* [JustFullPorn](https://bestporn4free.com/)
-* [YourDailyPornVideos](https://yourdailypornvideos.ws/)
-* [YesPornVip](https://yesporn.vip/)
-* [PornEZ](https://pornez.cam/)
-* [LatestPorn](https://latestporn.co/)
-* [MegaTube](https://www.megatube.xxx/)
-* [Siska](https://siska.video/)
-* [GalaxyPorn](https://galaxyporn.net/)
-* [Pornburst](https://www.pornburst.xxx/)
-* [Pornheed](https://www.pornheed.com/)
-* [EmpFlix](https://www.empflix.com/)
-* [XoZilla](https://www.xozilla.com/)
-* [PornWex](https://www.pornwex.tv/)
-* [ThePornFull](https://thepornfull.com/)
-* [Adultism](https://www.adultism.com/), [YourAmateurPorn](https://www.youramateurporn.com/), [Terk](https://www.terk.nl/), [Hobby Porn](https://hobby.porn/), [RealGFporn](https://www.realgfporn.com/), [HClips](https://hclips.com/), [MyLust](https://mylust.com/), [RulePorn](https://ruleporn.com/), [LoveHomePorn](https://lovehomeporn.com/) or [WatchMyGF](https://www.watchmygf.me/) - Amateur Porn
-* [MilfNut](https://milfnut.com/) - MILF Porn
-* [Porno Carioca](https://www.pornocarioca.com/), [Xnalgas](https://www.xnalgas.com/), [EspaPorn](https://espaporn.com/), [Putaria69](https://putaria69.com/), [Nao Conto](https://www.naoconto.com/), [Pornolandia](https://www.pornolandia.xxx/), [Novinhas Do Zap Zap](https://novinhasdozapzap.com/) or [Xpaja](https://www.xpaja.net/) - Latina Porn
-* [FreeArabSexx](https://freearabsexx.com/), [ArabySexy](https://arabysexy.com/), [Sex4ArabXXX](https://sex4arab.xxx/), [SexSaoy](https://sexsaoy.com/) or [SexAlArab](https://sexalarab.com/) - Arabic Porn
-* [XXBrits](https://www.xxbrits.com/) - British Porn
-* [IcePornCasting](https://iceporncasting.net/) - Casting Couch Porn
+* [Adultism](https://www.adultism.com/), [YourAmateurPorn](https://www.youramateurporn.com/), [Terk](https://www.terk.nl/) or [HClips](https://hclips.com/) - Amateur Porn
 * [Porn App](https://porn-app.com/) - Android Porn App
 * [NsfwBox](https://github.com/Kisspeace/NsfwBox) - Android Porn App
 
@@ -175,6 +71,7 @@
 * [Thumbzilla](https://www.thumbzilla.com/) - Aggregator
 * [Big Porn](https://www.bigporn.com/) - Aggregator
 * [Fuq](https://www.fuq.com/) - Aggregator
+* [FindTubes](https://www.findtubes.com/) - Aggregator
 * [Porzo](https://www.porzo.com/) - Aggregator
 * [PornKai](https://pornkai.com/) - Aggregator
 * [For Her Tube](https://www.forhertube.com/) - Aggregator
@@ -198,9 +95,9 @@
 * [Fap Vid HD](https://fapvidhd.com/) - Aggregator
 * [EbonyGalore](https://www.ebonygalore.com/) or [Assoass](https://www.assoass.com/) - Aggregator
 * [MelonsTube](https://www.melonstube.com/) - Aggregator
-* [HD XNXX](https://hdxnxx.xxx/)
-* [Pornfaze](https://pornfaze.com/)
-* [Large HD Tube](https://largehdtube.com/)
+* [HD XNXX](https://hdxnxx.xxx/) - Aggregator
+* [Pornfaze](https://pornfaze.com/) - Aggregator
+* [Large HD Tube](https://largehdtube.com/) - Aggregator
 * [NudeVista](https://www.nudevista.com/) - Search Engines
 * [Xfantazy](https://xfantazy.com/) - Search Engines
 * [PornMD](https://pornmd.com/) - Search Engine
@@ -245,35 +142,8 @@
 
 ## ▷ Live Cams
 
-* ⭐ **[Chaturbate](https://chaturbate.com/)** / [Improve Functionality](https://openuserjs.org/scripts/stixmaster/Chaturbate_Enhanced), [2](https://openuserjs.org/scripts/ladroop/Chaturbate_Clean) / [Archives](https://recurbate.com/), [2](https://chaturflix.cam/)
-* ⭐ **[JerkMate](https://www.jerkmatelive.org/)**
-* ⭐ **[CamSoda](https://www.camsoda.com/)**
-* ⭐ **[Stripchat](https://stripchat.com/)**
-* ⭐ **[Archivebate](https://archivebate.com/)**, **[CamCaps](https://camcaps.ac/)**, **[Peachurbate](https://peachurbate.com/en)**, [OnCam](https://oncam.me/), [Cam Show Download](https://camshowdownload.com/), [Curbate](https://curbate.tv/), [Mobile Porn](https://www.mobilepornmovies.com/) or [CamSmut](https://camsmut.com/) - Cam Video Archives
-* [Cam4](https://www.cam4.com/)
-* [Cherry.tv](https://cherry.tv/)
-* [PDCams](https://pdcams.com/)
-* [XLoveCam](https://www.xlovecam.com/en/)
-* [Flirt4Free](https://www.flirt4free.com/)
-* [Bongacams](https://bongacams.com/)
-* [BimBim](https://www.bimbim.com/en/)
-* [Streamate](https://streamate.com/)
-* [LiveJasmin](https://www.livejasmin.com/)
-* [TokenFox](https://tokenfox.com/)
-* [Bimbim](https://bimbim.com/en/)
-* [Peeks Social](https://www.peeks.com/channel/group)
-* [ImLive](https://imlive.com/webcam-girls/)
-* [MyFreeCams.com](https://www.myfreecams.com/#Homepage)
-* [amateur.tv](https://www.amateur.tv/)
-* [Slutroulette](https://slutroulette.com/)
-* [Islive](https://www.islive.com/)
-* [Free cam girls](https://flirtymania.com/en/p)
-* [SakuraLive](https://www.sakuralive.com/index.shtml) - Asian
-* [LiveSexAsian](https://www.livesexasian.com/) - Asian
-* [AsianBabeCams](https://www.asianbabecams.com/) - Asian
-* [Live Dosti](https://www.livedosti.com/) - Indian
-* [CamBro](https://www.cambro.tv/), [OnScreens](https://camcaps.ac/) or [WebcamRips](https://webcamrips.to/) - Cam Videos
-* [TubeAsianCams](https://tubeasiancams.com/), [KoreanBJ](https://koreanbj.club/) or [SKBJ](https://skbj.tv/) - Asian Cam Archives
+
+
 
 ***
 
