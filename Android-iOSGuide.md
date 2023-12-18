@@ -90,7 +90,8 @@
 * ⭐ **F-Droid Tools** - [Resources](https://fdroidfamily.codeberg.page/) / [Desktop](https://github.com/mvdan/fdroidcl) / [Build Status](https://codeberg.org/pstorch/F-Droid_Build_Status)
 * ⭐ **F-Droid Clients** - [Droid-ify](https://github.com/Iamlooker/Droid-ify) / [Classic Client](https://git.bubu1.eu/Bubu/fdroidclassic) / [Neo Store](https://github.com/NeoApplications/Neo-Store)
 * ⭐ **[Known Repositories](https://forum.f-droid.org/t/known-repositories/)** - F-Droid Repositories
-* [IzzyOnDroid](https://android.izzysoft.de/applists.php) - App Repo / [F-Droid](https://apt.izzysoft.de/fdroid/index.php) 
+* ⭐ **[AppManager](https://github.com/MuntashirAkon/AppManager/)** - Package Manager
+* [IzzyOnDroid](https://android.izzysoft.de/applists.php) - App Repo / [F-Droid](https://apt.izzysoft.de/fdroid/index.php)
 * [We Love Codeberg](https://welove.codeberg.page/)
 * [OnyxBits](https://onyxbits.de/)
 * [OpenRepos](https://openrepos.net/) - Harmattan / Sailfish OS Apps
@@ -173,6 +174,7 @@
 * [Electron](https://play.google.com/store/apps/details?id=com.mahersafadi.electron), [SaverTuner](https://codeberg.org/s1m/savertuner), [Charge Meter](https://play.google.com/store/apps/details?id=dev.km.android.chargemeter), [BatteryGuru](https://github.com/nbats/FMHYedit/blob/main/base64.md#battery-guru), [Batt](https://gitlab.com/narektor/batt) or [AccuBattery](https://play.google.com/store/apps/details?id=com.digibites.accubattery) - Battery Monitors / Managers
 * [BatteryChargeLimiter](https://github.com/MuntashirAkon/BatteryChargeLimiter) - Charging Control
 * [Pixoff](https://play.google.com/store/apps/details?id=com.urysoft.pixelfilter) - Save Battery by Turning Off Pixels
+* [DataMonitor](https://github.com/itsdrnoob/DataMonitor) - Data Usage Monitor
 * [Compass QS Tile](https://github.com/WSTxda/Compass-QS-Tile) or [QuickTiles](https://gitlab.com/asdoi/quick-tiles) - Quick Setting Tiles
 * [auto-auto-rotate](https://gitlab.com/juanitobananas/auto-auto-rotate) - Per App Rotation Settings
 * [Gesture Suite](https://play.google.com/store/apps/details?id=com.gesture.suite) or [Fluid Gestures](https://play.google.com/store/apps/details?id=com.fb.fluid) - Android Gestures
@@ -221,7 +223,7 @@
 * ↪️ **[Note / To-Do Apps](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_android_note_apps)**
 * ⭐ **[OpenCalc](https://github.com/Darkempire78/OpenCalc)**, [Calculator++](https://play.google.com/store/apps/details?id=org.solovyev.android.calculator), [microMathematics](https://github.com/mkulesh/microMathematics) or [Calculator-inator](https://github.com/prathameshmm02/Calculator-inator) - Calculator Apps
 * ⭐ **[AutomaTag](http://automatag.com/)** or [AutoTagger](https://autotagger.ru/) - Metadata Organizers
-* ⭐ **[BoringReport](https://www.boringreport.org/)**, [Artifact](https://artifact.news/) or [Volv](https://volvmedia.com/) - Android News Apps
+* ⭐ **[BoringReport](https://www.boringreport.org/)**, [Arts & Culture](https://play.google.com/store/apps/details?id=com.google.android.apps.cultural), [Artifact](https://artifact.news/) or [Volv](https://volvmedia.com/) - Android News Apps
 * ⭐ **[Android Docker](https://gist.github.com/FreddieOliveira/efe850df7ff3951cb62d74bd770dce27)** - Run Docker on Android
 * [Free Basics](https://play.google.com/store/apps/details?id=com.freebasics) - Use Apps via SMS
 * [ConnectYou](https://github.com/Bnyro/ConnectYou) - Contacts App
@@ -288,7 +290,7 @@
 * [Libra](https://github.com/markusfisch/Libra) - Pros v Cons App
 * [unhabits](https://github.com/iSoron/uhabits), [HabitBuilder](https://github.com/ofalvai/HabitBuilder), [MoreDays](https://gitlab.com/wuapps/moredays), [Goals](https://play.google.com/store/apps/details?id=io.rosenpin.goals) or [MiindLeak](https://www.mindleak.app/) - Habit Trackers
 * [Farhan](https://github.com/tahaak67/Farhan) - Control Phone Addiction
-* [Forest](https://forestapp.cc/), [Time Cop](https://timecop.app/), [Success](https://eveningkid.com/success/), [Goodtime](https://github.com/adrcotfas/Goodtime) or [Mind Leak](https://play.google.com/store/apps/details?id=de.mdiener.android.mindleak) - Productivity Trackers
+* [Forest](https://forestapp.cc/), [MyBrain](https://github.com/mhss1/MyBrain), [Time Cop](https://timecop.app/), [Success](https://eveningkid.com/success/), [Goodtime](https://github.com/adrcotfas/Goodtime) or [Mind Leak](https://play.google.com/store/apps/details?id=de.mdiener.android.mindleak) - Productivity Trackers
 * [Deskreen](https://deskreen.com/lang-en) - Turn Any Device into Secondary Screen / [GitHub](https://github.com/pavlobu/deskreen) 
 * [GeorgieLabs](https://georgielabs.net/) - Use Phone as Wireless Speaker / Headphone Port
 * [WO Mic](https://wolicheng.com/womic/) - Use Phone as Mic
@@ -447,6 +449,7 @@
 * [MessengerPro](https://github.com/Mino260806/MessengerPro) - Modded Facebook Messenger
 * [Nekogram X](https://github.com/NekoX-Dev/NekoX), [Nekogram](https://nekogram.app/), [TelegramAndroid](https://github.com/Forkgram/TelegramAndroid), [Nagram](https://github.com/nextalone/nagram), [Telegraher](https://github.com/nikitasius/Telegraher/), [exteraGram](https://github.com/exteraSquad/exteraGram) / [2](https://github.com/AyuGram/AyuGram4A), [Cherrygram](https://github.com/arsLan4k1390/Cherrygram), [Nullgram](https://github.com/qwq233/Nullgram/), [MDGramYou](https://play.google.com/store/apps/details?id=org.telegram.mdgram), [Octogram](https://octogram.site/) or [Telegram-FOSS](https://github.com/Telegram-FOSS-Team/Telegram-FOSS) - Telegram Clients
 * [Uploadgram](https://github.com/Uploadgram/app) - Telegram File Upload
+* [Telegram Monet](https://github.com/mi-g-alex/Telegram-Monet) - Telegram Theme Creator
 * [OpenInWA](https://github.com/SubhamTyagi/openinwa) or [Tellurium](https://play.google.com/store/apps/details?id=com.quadren.tellurium) - Number Free WhatsApp Chat
 * [WhatsappWebToGo](https://github.com/92lleo/WhatsappWebToGo) - Mobile WhatsApp Web Client
 * [WhatsAppPatcher](https://github.com/Schwartzblat/WhatsAppPatcher) - WhatsApp Patcher
@@ -456,6 +459,7 @@
 * [IRCCloud](https://github.com/irccloud/android) or [Revolution IRC](https://github.com/MCMrARM/revolution-irc) - IRC Clients
 * [SnapEnhance](https://github.com/rhunk/SnapEnhance) - Snapchat Client
 * [Nightsnap](https://t.me/nightsnap_for_android) - Snapchat Dark Mode
+* [Graysky](https://graysky.app/) - Bluesky Client
 * [SimpleMail](https://framagit.org/dystopia-project/simple-email), [Monocles](https://f-droid.org/packages/de.monocles.mail/), [k9mail](https://k9mail.app/) or [FairCode](https://email.faircode.eu/) - Email Clients
 * [You Have Mail](https://github.com/LeanderBB/you-have-mail) - Email Notifications
 * [Delta Lab](https://github.com/adbenitez/deltalab-android) - Email Based Messenger
@@ -693,7 +697,7 @@
 * [Sound1](https://play.google.com/store/apps/details?id=com.soundcloud.android&amp;hl=us) - Streaming
 * [Modded Tidal](https://forum.mobilism.org/search.php?keywords=tidal&sr=topics&sf=titleonly) - Steaming / Download
 * [Seeker](https://github.com/jackBonadies/SeekerAndroid), [Datmusic](https://github.com/alashow/datmusic-android) or [AIDS](https://forum.mobilism.org/search.php?st=0&sk=t&sd=d&sr=topics&keywords=aids&sf=titleonly) - Download / MP3
-* [Fildo](https://fildo.net/android/en/), [Funkwhale](https://dev.funkwhale.audio/funkwhale/funkwhale-android), [Trebel](https://home.trebel.io/), [BlackHole](https://github.com/Sangwan5688/BlackHole), [VK X](https://vkx.app/) or [Deezer](https://play.google.com/store/apps/details?id=deezer.android.app) - Streaming
+* [Funkwhale](https://dev.funkwhale.audio/funkwhale/funkwhale-android), [Trebel](https://home.trebel.io/), [BlackHole](https://github.com/Sangwan5688/BlackHole), [VK X](https://vkx.app/) or [Deezer](https://play.google.com/store/apps/details?id=deezer.android.app) - Streaming
 * [Cliggo](https://play.google.com/store/apps/details?id=com.cliggo.cliggo_music) - Streaming / Downloading
 * [Otter](https://github.com/apognu/otter) - Music Sharing App
 * [HZP](https://hzp.co/) - Solfeggio Frequency Player
@@ -787,6 +791,7 @@
 * [PipePipe](https://codeberg.org/NullPointerException/PipePipe) - Bilibili / NicoNico Client
 * [Bilibili Evolved](https://github.com/the1812/Bilibili-Evolved) or [bilibili-android-client](https://github.com/HotBitmapGG/bilibili-android-client) - Bilibili Client
 * [NicoTap](https://play.google.com/store/apps/details?id=com.yurafuca.nicotap) - NicoNico Client
+* [ScreenStream](https://github.com/dkrivoruchko/ScreenStream) - Cast Device to Screen
 * [Tunity](https://tunity.com/) - Hear Muted TVs
 * [Stick Around](https://play.google.com/store/apps/details?id=com.stickaround.app) - Check for Post Credit Scenes
 * [tv-bro](https://github.com/truefedex/tv-bro) - TV Remote Browser
@@ -835,6 +840,7 @@
 * [VueTube](https://github.com/VueTubeApp/VueTube)
 * [SkyTube](https://github.com/SkyTubeTeam/SkyTube)
 * [FreeTubeCordova](https://github.com/MarmadileManteater/FreeTubeCordova)
+* [Revanced CLI Troubleshooting](https://sodawithoutsparkles.github.io/revanced-troubleshooting-guide/06-revanced-cli/)
 
 ***
 
@@ -842,7 +848,7 @@
 
 * 🌐 **[JulioverneHYI](https://julio.hackyouriphone.org/)** - Piracy Tools
 * ⭐ **[Hyperweb](https://hyperweb.app/)** - iOS Safari Improvement + Adblock Extension
-* ⭐ **[Bitwarden](https://apps.apple.com/app/bitwarden-free-password-manager/id1137397744)**, [Keepassium](https://keepassium.com/), [AuthPass](https://authpass.app/), [Strongbox](https://strongboxsafe.com/) - Password Manager
+* ⭐ **[Bitwarden](https://apps.apple.com/app/bitwarden-free-password-manager/id1137397744)**, [Keepassium](https://keepassium.com/), [AuthPass](https://authpass.app/), [Strongbox](https://strongboxsafe.com/) or [PasswordStore](https://passwordstore.app/) - Password Managers
 * ⭐ **[PairVPN Hotspot](https://pairvpn.com/hotspot)** - Create Mobile Hotspots
 * [Das Image](https://apps.apple.com/ca/app/das-image-search-and-explore/id1464079804), [iPhone11papers](https://iphone11papers.com/) or [iOS Wallpapers](https://goo.gl/photos/ZVpabTtcezd35XBa9/) - iOS Wallpapers
 * [Sileo](https://cydia.saurik.com/api/share#?source=https://repo.getsileo.app), [AppTapp Installer](https://apptapp.me/repo) / [Discord](https://discordapp.com/invite/kkwKTB8) or [Zebra](https://getzbra.com/) - Package Managers
