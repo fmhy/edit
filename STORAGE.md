@@ -149,12 +149,6 @@
 
 ***
 
-## Blogging Platforms
-
-[Bear Blog](https://bearblog.dev/), [Haven](https://havenweb.org/), [Multiverse](https://multiverse.plus/), [Mataroa](https://mataroa.blog/),, [Emanates Docs](https://emanates.deepjyoti30.dev/), [write freely](https://writefreely.org/), [You Don't Need WP](https://www.youdontneedwp.com/), [notepin](https://notepin.co/), [twtxt](https://github.com/buckket/twtxt), [Arbital](https://arbital.com/), [smol.pub](https://smol.pub/) / [Key](https://m15o.ichi.city/smolpub/key-request.html)
-
-***
-
 ## Browser eBook Readers
 
 * ⭐ **[Reader View](https://webextension.org/listing/chrome-reader-view.html)**, [2](https://mybrowseraddon.com/reader-view.html)
