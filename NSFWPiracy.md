@@ -277,7 +277,7 @@
 * [UnderHentai](https://www.underhentai.net/) - Hentai Streaming
 * [HentaiPRN](https://hentaiprn.com/) - Hentai Streaming
 * [XAnimePorn](https://www.xanimeporn.com/) - Hentai Streaming
-* [HentaiTube.online](https://www.hentaitube.online/)
+* [HentaiTube.online](https://www.hentaitube.online/) - Hentai Streaming
 * [MuchoHentai](https://muchohentai.com/) - Hentai Streaming
 * [HentaiCloud](https://www.hentaicloud.com/) - Hentai Streaming
 * [HentaisTube](https://www.hentais.tube/) - Hentai Streaming
