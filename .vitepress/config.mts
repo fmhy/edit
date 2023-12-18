@@ -131,6 +131,7 @@ export default defineConfig({
           { text: "💻 System Tools", link: "/system-tools" },
           { text: "🗃️ File Tools", link: "/file-tools" },
           { text: "🔗 Internet Tools", link: "/internet-tools" },
+          { text: "💬 Social Media Tools", link: "/social-media-tools" },
           { text: "📝 Text Tools", link: "/text-tools" },
           { text: "👾 Gaming Tools", link: "/gamingpiracyguide#gaming-tools" },
           { text: "📷 Image Tools", link: "/img-tools" },
