@@ -168,7 +168,6 @@
 * [Myspace Videos](https://myspace.com/search/videos) 
 * [Google Videos](https://www.google.com/?tbm=vid)
 * [Yandex Videos](https://yandex.ru/video)
-* [DuckDuckGo Videos](https://duckduckgo.com/?q=freemediaheckyeah&iar=videos&iax=videos&ia=videos)
 * [MotionBox](https://omega.gg/MotionBox/) - Online Video Aggregation App
 
 ***
