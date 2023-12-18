@@ -796,7 +796,7 @@
 * [dsc.gg](https://dsc.gg/) - Create Custom Discord Invites
 * [Discord Previews](https://discord.gg/QMw7gQGMHj) - New Discord Builds / Changes
 * [Discord Templates](https://discordtemplates.me/) - Discord Server Templates
-* [Discord UI Mockup](https://www.figma.com/community/file/994323951589690341/Discord-Desktop-UI) - Discord UI Mockups\
+* [Discord UI Mockup](https://www.figma.com/community/file/994323951589690341/Discord-Desktop-UI) - Discord UI Mockups
 * [discord-badges](https://github.com/mezotv/discord-badges) - Discord Badges Image Files
 * [SunnyDiscord](https://gist.github.com/TheSunCat/58fedaa19d6154ef3e4b2b676c286906) or [Discord Adblock](https://github.com/CroissantDuNord/discord-adblock) - Hide Nitro / Boost Upsells
 * [Discord Creation Date Check](https://hugo.moe/discord/discord-id-creation-date.html) / [GitHub](https://github.com/hugonun/discordid2date) - Check Creation Date of User / Channel / Server
@@ -922,9 +922,9 @@
 
 ## ▷ Reddit Alternatives
 
+* ⭐ **[Lemmy](https://join-lemmy.org/)**
 * ⭐ **[Raddle](https://raddle.me/)** / [.onion](http://c32zjeghcp5tj3kb72pltz56piei66drc63vkhn5yixiyk4cmerrjtid.onion/)  - Reddit Alt
 * ⭐ **[Saidit](https://saidit.net/)** - Reddit Alt
-* [Hexbear](https://www.hexbear.net/) - Leftist Reddit Alternative
 * [/r/RedditAlternatives](https://reddit.com/r/RedditAlternatives) - Find Reddit Alternatives
 * [Sqwok](https://sqwok.im/) - Reddit Alt
 * [tildes](https://tildes.net/) - Reddit Alt
@@ -1015,7 +1015,7 @@
 
 ## ▷ Telegram File Tools
 
-* [teldrive](https://github.com/divyam234/teldrive), [File-Sharing-Bot](https://github.com/CodeXBotz/File-Sharing-Bot), [TelegramCloud](https://github.com/iw4p/telegram-cloud), [easy_share_bot](https://t.me/easy_share_bot), [ArchiveTGFilezBot](https://t.me/ArchiveTGFilezBot) or [UploadBot](https://t.me/uploadbot) - Upload Files to Telegram
+* [teldrive](https://github.com/divyam234/teldrive), [File-Sharing-Bot](https://github.com/CodeXBotz/File-Sharing-Bot), [TelegramCloud](https://github.com/iw4p/telegram-cloud), [easy_share_bot](https://t.me/easy_share_bot) or [UploadBot](https://t.me/uploadbot) - Upload Files to Telegram
 * [GdriveXbot](https://t.me/TheGdriveXBot), [google-drive-telegram-bot](https://github.com/viperadnan-git/) or [Python Aria Mirror Bot](https://github.com/lzzy12/python-aria-mirror-bot) - GDrive Upload Bots
 * [DrClonerBot](https://t.me/DrClonerBot) - GDrive Clone Bot
 * [Google Drive Bot](https://t.me/Gdriveit_bot) - GDrive Client in Telegram
@@ -1025,7 +1025,6 @@
 * [AIO Uploader](https://t.me/aiouploaderbot), [LinkForFilebot](https://t.me/LinkForFilebot) or [MultiUpload-Bot](https://github.com/oVoIndia/MultiUpload-Bot) - Telegram to File Host Upload Bot
 * [convrt_bot](https://t.me/convrt_bot), [FileConvertBot](https://t.me/FileConvertBot), [newfileconverterbot](https://t.me/newfileconverterbot), [SmartConverter_bot](https://t.me/SmartConverter_bot), [cloud_convert_bot](https://t.me/cloud_convert_bot), [wololopdfbot](https://t.me/wololopdfbot), [pdfbot](https://t.me/pdfbot) or [Gpdfbot](https://t.me/Gpdfbot) - File Converters
 * [ILovePDF](https://github.com/nabilanavab/ilovepdf) - Telegram File to PDF Converter
-* [ConvertVideoTGBot](https://t.me/ConvertVideoTGBot), [FileConvertRobot](https://t.me/FileConvertRobot) or [File2videoconvbot](https://t.me/File2videoconvbot) - Video File Converters
 * [Unzip Bot](https://github.com/EDM115/unzip-bot) - File Extractor / Unzipper
 
 ***
