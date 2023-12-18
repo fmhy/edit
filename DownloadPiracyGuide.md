@@ -182,27 +182,17 @@
 * [OlderGeeks](https://oldergeeks.com/) - Freeware Index
 * [Free Software MF](https://whoisdsmith.gitbook.io/free-software-mf) - Freeware Index
 * [Softpedia](https://www.softpedia.com/) - Freeware Index
-* [Chiefs Big List of Programs](https://github.com/TheChiefMeat/Chiefs-Big-List-of-Programs/) - Freeware Index
-* [Simple Tools](https://simpletools.info/doku.php) - Freeware Index
-* [Handmade Network](https://handmade.network/) - Freeware Index
 * [Realityripple](https://realityripple.com/) - Freeware Index
 * [Software Informer](https://software.informer.com/) - Freeware Index
 * [Awesome Open Source](https://awesomeopensource.com/) - Freeware Index
 * [Open-Source Alternatives](https://github.com/btw-so/open-source-alternatives) - Freeware Index
 * [Opensource Builders](https://opensource.builders/) - Freeware Index
-* [Freeware Directory](https://www.freewaredirectory.net/) - Freeware Index
-* [FreewareStop](https://www.freewarestop.com/) - Freeware Index
 * [LO4D](https://www.lo4d.com/) - Freeware Index
 * [FilePuma](https://www.filepuma.com/) - Freeware Index
-* [ListOfFreeWare](https://listoffreeware.com/) - Freeware Index
 * [GRC](https://www.grc.com/freepopular.htm) - Freeware Index
 * [TinyApps](https://tinyapps.org/) - Freeware Index
-* [DonationCoder](https://www.donationcoder.com/) - Freeware Index
-* [Antp](https://www.antp.be//) - Freeware Index
 * [Phrozen](https://www.phrozen.io/) - Freeware Index
 * [FileEagle](https://www.fileeagle.com/) - Freeware Index
-* [Perkele](https://perkele.cc/software) - Freeware Index
-* [Patorjk](https://www.patorjk.com/) - Freeware Index
 * [PortableApps.com](https://portableapps.com/) - Portable Apps
 * [Portapps](https://portapps.io/) - Portable Apps
 * [PortableAppZ](https://portableappz.blogspot.com/) - Portable Apps
@@ -306,7 +296,7 @@
 
 * 🌐 **[Free Premium Leech Wiki](https://filehostlist.miraheze.org/wiki/Main_Page)** or [leechlisting](https://www.leechlisting.com/) - Leech Lists
 * [@Transload](https://t.me/transload) - Telegram Leech Bots
-* [Multi-OCH Helper](https://greasyfork.org/en/scripts/13884-multi-och-helper) - Send Premium Files to Leeches
+* [Multi-OCH Helper](https://greasyfork.org/en/scripts/13884-multi-och-helper) - Send Premium Files to Leeches / 2 Hosts Only
 * [RapidGrab](https://rapidgrab.pl/) or [Newscon](https://www.newscon.net/d1/) - Leech
 
 ***
