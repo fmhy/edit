@@ -126,23 +126,6 @@
 * [PornoRips](https://pornorips.to/)
 * [BestPornstars](https://www.bestpornstars.org/)
 * [Best-MovieZ](https://www.best-moviez.ws/category/porn-18/) 
-* [XXXCollections](https://xxxcollections.net/)
-* [TopModelz](https://top-modelz.org/)
-* [SweetPorn](https://sweetporn.org/)
-* [RemaxHD](https://remaxhd.cam/)
-* [Keep2porn](https://keep2porn.net/)
-* [MaxJAV](https://maxjav.com/)
-* [Pornmagnet](https://pornmagnet.org/) - VR Porn
-* [ArcJav](https://arcjav.com/) - Japanese
-* [3XPlanet](https://3xplanet.com/) - Japanese
-* [JavLibrary](https://www.javlibrary.com/en/) - Japanese
-* [Femdom Joi](https://femdom-joi.com/), [FemDomPlanet](https://femdomplanet.blogspot.com/) or [JoiVideos](https://joivideos.blogspot.com/) - Femdom Fetish
-* [CamVault](https://camvault.xyz/) - DL Chaturbate, MyFreeCams & CAM4 Recordings
-* [XXXTelegramBot](https://t.me/XXXTelegramBot) - Telegram
-* [altar_of_elders](https://t.me/altar_of_elders) - Telegram
-* [internetjuice](https://t.me/internetjuice) - Telegram
-* [lowqualityjournal](https://t.me/lowqualityjournal) - Telegram
-* [FC2 Gather](https://github.com/supsupsuperstar/fc2_gather) - FC2 Image Scraper
 
 ***
 
@@ -189,6 +172,8 @@
 
 * ⭐ **[ImageFap](https://www.imagefap.com/)**
 * ⭐ **[NSFWMonster](https://nsfwmonster.com/)** - NSFW Images / GIFs
+* [Sex.com](https://www.sex.com/)
+* [PornPics](https://www.pornpics.com/)
 * [PornPics](https://www.pornpics.com/recent/)
 * [Realbooru](https://realbooru.com/)
 * [PimpAndHost](https://pimpandhost.com/site/trending)
@@ -216,34 +201,6 @@
 * [Fapeza](https://fapeza.com/) - Instagram Models
 * [Simple-Costplay](https://www.simply-cosplay.com/), [Mitaku](https://mitaku.net/), [Hentai Costplays](https://hentai-cosplays.com) or [NudeCosplayGirls](https://nudecosplaygirls.com/) - Cosplay Images
 * [ChatPic](https://chatpic.org/) - Create Chat Rooms and share images
-
-*** 
-
-## ▷ Models
-
-* [Sex.com](https://www.sex.com/)
-* [PornPics](https://www.pornpics.com/)
-* [MrCong](https://mrcong.com/)
-* [Pictoa](https://www.pictoa.com/)
-* [BabeSource](https://babesource.com/)
-* [babes.gallery](https://babes.gallery/)
-* [HQBabes](https://www.hqbabes.com/)
-* [GirlsTop.info](https://en.girlstop.info/)
-* [Nude-Gals](https://nude-gals.com/)
-* [sxypix](https://sxypix.com/)
-* [Pichunter](https://www.pichunter.com/)
-* [traht](https://traht.org/)
-* [Babepedia](https://www.babepedia.com/)
-* [girlsreleased](https://girlsreleased.com/)
-* [TNApics](https://www.tnapics.com/)
-* [Fuskator](https://fuskator.com/)
-* [Zazzybabes](https://zazzybabes.com/)
-* [NakedPics](https://nakedpornpics.com/)
-* [ViewGals](https://viewgals.com/)
-* [JJGirls](https://jjgirls.com/) - JAV Models
-* [Ana Dias Photography](https://www.anadiasphotography.com/) - Playboy Images
-* [PmateHunter](https://pmatehunter.com/) - Playboy Images
-* [Adult Photo Sets](https://adultphotosets.best/) or [Top Nude Modelz](https://nude-modelz.com/) - Photosets DDL
   
 ***
 
@@ -257,41 +214,7 @@
 * ⭐ **[SimpCity](https://simpcity.su/)** - OnlyFans / Patreon
 * [OnlyFans420](https://rentry.co/OnlyFans420) / [2](https://rentry.org/OnlyFans421) - OnlyFans
 * [MissingToofff](https://missingtoofff.com/) - OnlyFans Leak Site List
-* [ProThots](https://prothots.com/) - OnlyFans / Patreon
-* [InternetChicks](https://internetchicks.com/) - OnlyFans / Patreon
-* [ViralPorn](https://viralpornhub.com/) - OnlyFans
-* [InfluencersGoneWild](https://influencersgonewild.com/) - OnlyFans / Patreon
-* [DirtyShip](https://dirtyship.com/) - OnlyFans / Patreon
-* [PornTN](https://porntn.com/) - OnlyFans / Patreon
-* [NSFW247](https://nsfw247.to/) - OnlyFans
 * [Thothub](https://thothub.to/) - OnlyFans
-* [ThotsLife](https://thotslife.com/) - OnlyFans
-* [HotScope](https://hotscope.tv/) - OnlyFans / Snapchat
-* [Fapopedia](https://fapopedia.net/) - OnlyFans / Patreon / Snapchat
-* [BitchesGirls](https://bitchesgirls.com/) - OnlyFans / Patreon
-* [NudoStar](https://nudostar.com/) - OnlyFans / Patreon
-* [AssToo](https://asstoo.com/) - OnlyFans / Patreon
-* [NsfwLeak](https://nsfwleak.com/) - OnlyFans
-* [LewdStars](https://lewdstars.com/) - OnlyFans
-* [LeakedNudes](https://leakednudes.co/) - OnlyFans
-* [Fansteek](https://fansteek.com/) - OnlyFans
-* [GotAnyNudes](https://gotanynudes.com/) - OnlyFans
-* [HornySimp](https://hornysimp.com/) - OnlyFans
-* [TheLeaksBay](https://theleaksbay.com/) - OnlyFans
-* [Leaked Models](https://leakedmodels.com/onlyfansleaks/) - OnlyFans
-* [Haven Explicit](https://t.me/+jUBOyDju3zQ0OWY0) - OnlyFans
-* [OF-Models](https://of-model.com/) - OnlyFans
-* [OnlyFaps](https://faps.club/) - OnlyFans
-* [ThotHD](https://thothd.com/) - OnlyFans / Patreon
-* [ThotsGirls](https://thotsgirls.com/) - OnlyFans / Chaturbate
-* [LeakHive](https://leakhive.com/) - OnlyFans
-* [PureLeaks](https://pureleaks.net/) - OnlyFans
-* [Fan Leaks Club](https://fanleaks.club/) - OnlyFans
-* [PornLeaks](https://pornleaks.in/) - OnlyFans / Patreon / [Filters](https://github.com/lavafroth/ublockFilters/tree/main/comohoy.com)
-* [Memory Hole](https://memoryhole.cc/) - OnlyFans / Patreon
-* [VIP Pussy](https://vip-pussy.com/) or [ThotsBlog](https://www.thotsblog.com/) - OnlyFans DDL
-* [thesextube](https://thesextube.net/) - Leaks
-* Add `site:cyberdrop.me` to search onlyfans leaks
 
 ***
 
