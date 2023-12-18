@@ -625,7 +625,7 @@
 * [LearningSynths](https://learningsynths.ableton.com/) - Synthesizers
 * [Sight Singing Factory](https://www.sightreadingfactory.com/) - Sight Singing Practice
 * [Nutkus](https://sourceforge.net/projects/nutkus/) - Notation Learning Game
-* [SwaraNotebook] (https://swaranotebook.com/) - Classical Indian Music Notation Generator
+* [SwaraNotebook](https://swaranotebook.com/) - Classical Indian Music Notation Generator
 * [A-Complete-UTAU-Tutorial-For-Beginners](https://www.quotev.com/story/9299060/A-Complete-UTAU-Tutorial-For-Beginners) - UTAU Tutorial
 * [MusicStaff](https://musicstaff.com/) - Music Teacher Search
 * [Piascore](https://apps.apple.com/us/app/piascore-hd/id406141702) - Music Score Viewer
