@@ -143,6 +143,7 @@
 * [SMPlayer](https://www.smplayer.info/) / [2](https://sourceforge.net/projects/smplayer/) - Video Player / [YouTube](https://www.smtube.org/)
 * [uView](https://www.idruf.com/) - Video Player
 * [Rise Media Player](https://github.com/Rise-Software/Rise-Media-Player) - Video Player
+* [Flyleaf](https://github.com/SuRGeoNix/Flyleaf) - Video Player
 * [KikoPlay](https://kikoplay.fun/) - Video Player
 * [HTML5 video player enhanced script](https://greasyfork.org/en/scripts/381682-html5)
 * [Plyr](https://plyr.io/) - Online HTML5, YouTube and Vimeo Player / [GitHub](https://github.com/sampotts/plyr)
