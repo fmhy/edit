@@ -49,11 +49,12 @@
 * ⭐ **[Audio Quality Check Guide](https://redd.it/3l0yxp)**
 * ⭐ **[Comparison of Audio Compression](https://nigelcoldwell.co.uk/audio/)**
 * ⭐ **[Fakin' The Funk?](https://fakinthefunk.net/)**
+* ⭐ **[Sonic Visualizer](https://www.sonicvisualiser.org/)**
+* ⭐ **[Spek](https://www.spek.cc/)**
 * [Lossless Audio Checker](https://losslessaudiochecker.com/)
 * [DFT](https://webfft.net/dft/)
 * [Friture](https://friture.org/)
 * [Spectro](http://spectro.enpts.com/)
-* [Sonic Visualizer](https://www.sonicvisualiser.org/)
 
 ***
 
