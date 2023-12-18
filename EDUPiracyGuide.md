@@ -625,7 +625,7 @@
 * [LearningSynths](https://learningsynths.ableton.com/) - Synthesizers
 * [Sight Singing Factory](https://www.sightreadingfactory.com/) - Sight Singing Practice
 * [Nutkus](https://sourceforge.net/projects/nutkus/) - Notation Learning Game
-* [SwaraNotebook](https://swaranotebook.com/) - Classical Indian Music Notation Generator
+* [SwaraNotebook] (https://swaranotebook.com/) - Classical Indian Music Notation Generator
 * [A-Complete-UTAU-Tutorial-For-Beginners](https://www.quotev.com/story/9299060/A-Complete-UTAU-Tutorial-For-Beginners) - UTAU Tutorial
 * [MusicStaff](https://musicstaff.com/) - Music Teacher Search
 * [Piascore](https://apps.apple.com/us/app/piascore-hd/id406141702) - Music Score Viewer
@@ -888,8 +888,6 @@
 * [Publish or Perish](https://harzing.com/resources/publish-or-perish) - Citation Analyzer
 * [M-Journal](https://m-journal.org/) - Turn Wikipedia into a Citeable Academic Paper
 * [cb2bib](https://www.molspaces.com/cb2bib/) - Reference Extractor / Manager
-* [SciGen](https://pdos.csail.mit.edu/archive/scigen/) - CS Paper Generator
-* [pdfparanoia](https://github.com/kanzure/pdfparanoia) - Academic Paper Watermark Removal
 * [ImageJ](https://imagej.net/) or [Fiji](https://fiji.sc/) - Scientific Image Analyzers
 * [Altium](https://www.altium.com/viewer/) - Schematics Visualizer
 * [Wolfram Cloud](https://www.wolframcloud.com/) - Computational intelligence
@@ -899,8 +897,6 @@
 * [Niche](https://www.niche.com/), [TheUniGuide](https://www.theuniguide.co.uk/), [Alumnius](https://alumnius.net/) or [Top Universities](https://www.topuniversities.com/) - University / School Comparisons
 * [RateMyDorm](https://ratemydorm.com) or [:)](https://docs.google.com/document/d/14Mn1CrA-CV5YZAkOZtrMKTmn2O4oL-2EhIXhzXZbO0A/edit#) - College Dorm Reviews
 * [RateMyProfessor](https://www.ratemyprofessors.com/) - Professor Ratings
-* [Socrative](https://www.socrative.com/) - Teaching App
-* [ClassroomScreen](https://www.classroomscreen.com/) - Digital Teaching Widgets
 * [Wordwall](https://wordwall.net/) - Lesson Creator
 * [The Chomsky Index](https://github.com/jasons-gh/the-chomsky-index) - Noam Chomsky Content Index Tool
 
@@ -960,17 +956,11 @@
 * [/r/APStudents Course Survey](https://docs.google.com/spreadsheets/u/6/d/1s-YM81RvD11h9UOTba_XsBKEy-NW8PEXim2UxSLwdRE/edit#gid=1924688511) - AP Exam Comparison Spreadsheet
 * [/r/CATpreparation](https://www.reddit.com/r/CATpreparation/) - CAT Test Prep / [Discord](https://discord.gg/CAvHUZY6rH)
 * [Revisely](https://www.revisely.co.uk/) - GCSE Exams
-* [Future Vision BIE](https://hemanthrajhemu.github.io/) - VTU Study Material
-* [CrackJee](https://www.crackjee.xyz/) - JEE & NEET Study Material + Answers
-* [JEEBOOKS](https://www.jeebooks.in/) - JEE, NEET, KVPY & CBSE Study Material
-* [JeeMain](https://jeemain.guru/) - JEE Study Material
 * [CatchaScience](https://catchascience.wordpress.com/) - IGCSE Study Material
 * [IELTS69](https://www.ielts69.com/) - IELTS Cambridge Practice Tests
-* [anthropology](https://t.me/anthropology), [UPSC4Exams](https://t.me/UPSC4Exams) or [UPSCEssayHub](https://t.me/UPSCEssayHub) - UPSC Telegram Channels
+* [anthropology](https://t.me/anthropology) - UPSC Telegram Channel
 * [GaryChamberlainLectureNotes](https://github.com/paulgp/GaryChamberlainLectureNotes) - Econometrics Lecture Notes
 * [GCE Guide](https://gceguide.com/) - Cambridge Assessment Guide
-* [IB Docs](https://ibdocs.org/) - The International Baccalaureate Resources
-* [IB Survival](https://ibsurvival.com/) - IB Student Forums
 * [ITExams](https://www.itexams.com/) - IT Exam Collection
 * [Lecture Links for Placement Preparation in Computer Science](https://github.com/riti2409/Resources-for-preparation-Of-Placements)
 * [Science Career General](https://sciencecareergeneral.neocities.org/) - PhD / Stem Career Study Guides
@@ -978,8 +968,6 @@
 * [Cheatography](https://cheatography.com/) - Educational Cheat Sheets
 * [LitSolutions](https://www.litsolutions.org/) - Textbook Solutions
 * [School Cheats](https://schoolcheats.net/) - School Platform Answers
-* [Quizizz Cheat](https://github.com/gbaranski/quizizz-cheat) - Quizizz Answers Tool
-* [PXTrez](https://pxtrez.com/) - Kahoot Answers Tool
 * [ITExamAnswers.net](https://www.itexamanswers.net/) - IT Exam Answers
 
 ***
