@@ -6,7 +6,6 @@
 
 # ► Social Media Tools
 
-* ↪️ **[Blogging Platforms](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_blogging_platforms)**
 * [Social-Searcher](https://www.social-searcher.com/), [WeVerify](https://cse.google.com/cse?cx=006976128084956795641:ad1xj14zfap), [Social Media CSE](https://cse.google.com/cse?cx=73dda67fd05b4405f#gsc.tab=1&gsc.sort=) or [Social Mention](https://www.socialmention.com/) - Social Media Search Engine
 * [Social Media Hacker List](https://github.com/MobileFirstLLC/social-media-hacker-list) - Social Media Apps / Tools
 * [SocialBlade](https://socialblade.com/) - Social Media Stats
@@ -23,7 +22,7 @@
 
 # ► Discord Tools
 
-**Warning** - Misuse of Chat Archivers, Deleters, Mods & 3rd Party Clients is against Discords TOS, so use them at your own risk. 
+**Warning** - Misuse of chat archivers, deleters, mods & 3rd party clients is against Discords TOS, so use them at your own risk. 
 
 ***
 
@@ -628,3 +627,18 @@
 * [Bypass Deferer](https://greasyfork.org/en/scripts/451259) - Remove Link Deferer
 * [Extra Flags for 4chan](https://gitlab.com/flagtism/Extra-Flags-for-4chan) - Add More Flags to 4chan
 * [ss21](https://github.com/saxamaphone69/ss21), [OneeChan](https://github.com/KevinParnell/OneeChan) or [4cheddit](https://greasyfork.org/en/scripts/16672) - 4chan Themes
+
+***
+
+# ► Blogging Tools
+
+* [Telescope](https://telescope.ac/) - Publishing Platform
+* [Bear Blog](https://bearblog.dev/) - Privacy Based Blogging Platform
+* [Arbital](https://arbital.com/) - Hybrid Blogging / Wiki Platform
+* [Haven](https://havenweb.org/) or [WriteFreely](https://writefreely.org/) - Self-hosted Blogging Platforms
+* [Multiverse](https://multiverse.plus/) - Make Highly Customizable Blogs
+* [Mataroa](https://mataroa.blog/), [Notepin](https://notepin.co/) or [smol.pub](https://smol.pub/) / [Key](https://m15o.ichi.city/smolpub/key-request.html) - Minimalist Blogging Platforms
+* [twtxt](https://github.com/buckket/twtxt) - Decentralized Minimalist Microblogging Service
+* [Emanates Docs](https://emanates.deepjyoti30.dev/) - Make GitHub Based Blogs
+* [You Don't Need WP](https://www.youdontneedwp.com/) - Make Blogs with Google Docs
+* [CoverView](https://coverview.vercel.app/) - Blog Banner Creator
