@@ -17,6 +17,7 @@
 * ⭐ **[Audiobook CSE](https://cse.google.com/cse?cx=006516753008110874046:cwbbza56vhd)** or **[Rave Search](https://ravebooksearch.com/index-audiobooks)** - Multi-Site Audiobook Search
 * [HDAudiobooks](https://hdaudiobooks.com/) - Listen Online
 * [BigAudiobooks](https://bigaudiobooks.com/) - Listen Online
+* [HotAudioBooks](https://hotaudiobooks.com/) - Listen Online
 * [BookAudiobook](https://bookaudiobooks.com/) - Listen Online
 * [GalaxyAudiobooks](https://galaxyaudiobook.com/) - Listen Online
 * [Audiobooks Lab](https://audiobooklabs.com/) - Listen Online
@@ -633,7 +634,7 @@
 * [Exploitee.rs](https://www.exploitee.rs/) - Device Exploitation Wiki
 * [C.H.A.R.M](https://charm.li/), [JDMFSM](https://jdmfsm.info/Auto/), [CarPDFManual](https://www.carpdfmanual.com/renault/) or [ProCarManuals](https://procarmanuals.com/) - Auto Repair Manuals
 * [Ownersman.com](https://ownersman.com/) - Car Owner Manuals
-* [PremierProduct](https://www.premierproducts-uk.co.uk/) - Vehicle Manuals
+* [PremierProduct](https://www.premierproducts-uk.co.uk/) or [Auto Manual](https://www.auto-manual.com/) - Vehicle Manuals
 * [David Kleinfeld Laboratory](https://neurophysics.ucsd.edu/Manuals/) - Lab Manuals
 * [Building Instructions](https://www.lego.com/en-us/service/buildinginstructions) - Lego Instructions
 
