@@ -14,7 +14,7 @@
 * ⭐ **[Bottles](https://usebottles.com/)** - Manage Wine containers
 * ⭐ **[WineHQ](https://appdb.winehq.org/)** - Wine Compatibility Database
 * ⭐ **[Q4Wine](https://sourceforge.net/projects/q4wine/)** - Wine GUI
-* ⭐ **[AppImageLauncher](https://github.com/TheAssassin/AppImageLauncher)** - App Image Launcher
+* ⭐ **[AppImageLauncher](https://github.com/TheAssassin/AppImageLauncher)** - Running and Integrating AppImages 
 * ⭐ **[winetricks](https://github.com/Winetricks/winetricks)** - Wine Fixes
 * [winapps](https://github.com/Fmstrat/winapps), [Cassowary](https://github.com/casualsnek/cassowary) - Interface Windows apps in a VM
 * [wslu](https://github.com/wslutilities/wslu) - Utilities for Windows 10 Linux Subsystem
