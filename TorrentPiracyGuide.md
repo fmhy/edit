@@ -80,7 +80,7 @@
 * ⭐ **[RuTracker](https://rutracker.org/)**, [2](https://rutracker.nl/), [3](https://rutracker.net/) - Video / Audio / Games / Software / Android / Comics / Magazines
 * ⭐ **RuTracker Tools** - [Addon](https://addons.mozilla.org/en-US/firefox/addon/rutracker_torrent_search/) / [Search API](https://github.com/nikityy/rutracker-api) / [Wiki](http://rutracker.wiki/) / [Rules](https://rutracker.org/forum/viewtopic.php?t=1045) / [Translator](https://github.com/FilipePS/Traduzir-paginas-web#install)
 * ⭐ **[TorrentGalaxy](https://torrentgalaxy.to/)** - Video / Audio / NSFW / [Mirrors](https://proxygalaxy.me/)
-* ⭐ **[m0nkrus](https://w14.monkrus.ws/)** - Adobe Software Archive / [How-to](https://rentry.co/adobesoftware) / Use [Translator](https://github.com/FilipePS/Traduzir-paginas-web#install)
+* ⭐ **[m0nkrus](https://w14.monkrus.ws/)** - Adobe Software Archive / [How-to](https://rentry.co/adobesoftware)
 * ⭐ **[Torrent CSE](https://cse.google.com/cse?cx=006516753008110874046:0led5tukccj)** / [CSE 2](https://cse.google.com/cse?cx=006516753008110874046:kh3piqxus6n) / [librex](https://github.com/hnhx/librex) - Multi Site Search
 * [TheRarBg](https://therarbg.com/), [2](https://t-rb.org) - RARBG Archive / [Subreddit](https://www.reddit.com/r/TheRarBg/) / [Discord](https://therarbg.com/discord/)
 * [TorrentLite](https://torrentlite.com/) - RARBG Archive / [Lemmy](https://lemmy.dbzer0.com/c/torrentlite) / [Subreddit](https://www.reddit.com/r/TorrentLite/)
