@@ -455,7 +455,7 @@
 * [SoccerWorldCup](https://soccerworldcup.me/) - Sports
 * [Icelz](https://icelz.newsrade.com/) - Sports
 * [Sports Plus](https://en12.sportplus.live/) - Sports
-* [livetv](https://livetv.sx/enx/) - Sports
+* [livetv](https://livetv743.me/enx/) - Sports
 * [VIP Box Sports](https://www.viprow.nu/) - Sports
 * [VIP Box](https://www.vipbox.lc/) - Sports
 * [Pepper Live](https://pepperlive.info/) - Sports
