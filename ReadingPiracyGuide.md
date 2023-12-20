@@ -154,7 +154,6 @@
 * [Moam](https://moam.info/) - Books
 * [PDFCookie](https://pdfcookie.com/) - Books
 * [PDFSearches](https://pdfsearches.com/) - Books
-* [OiiPDF](https://oiipdf.com/) - Books
 * [PDFSlide](https://pdfslide.net/) - Books
 * [iDoc](https://idoc.tips/) - Books
 * [PDFDuck](https://pdfduck.com/) - Books
@@ -352,7 +351,6 @@
 * [Learn Anything / Books](https://github.com/learn-anything/books)
 * [Tradepub](https://knowfree.tradepub.com/)
 * [eBookRoom](https://t.me/eBookRoom)
-* [Libribook](https://libribook.com/)
 * [Directory of Open Access Books](https://www.doabooks.org/)
 * [BookGoldMine](https://www.bookgoldmine.com/)
 * [Penn Libraries](https://onlinebooks.library.upenn.edu/)
@@ -628,7 +626,7 @@
 * 🌐 **[Manuals & Schematics](https://redd.it/nlw3er),** [SafeManuals](https://safe-manuals.com/), [Manuzoid](https://manuzoid.com/), [manualzz](https://manualzz.com/), [ManualsNet](https://manualsnet.com/), [manua.ls](https://www.manua.ls/) or [ManualsLib](https://www.manualslib.com/) - Manual Directories
 * [ManualLib](https://www.manuallib.com/) - Manual Search
 * [iFixIt](https://www.ifixit.com/Guide) - Repair Manuals
-* [RepairWiki](https://repair.wiki/w/Repair_Wiki) - Repair Articles
+* [RepairWiki](https://repair.wiki/) - Repair Articles
 * [WonderHowTo](https://www.wonderhowto.com/) - Tech How-to's
 * [manned.org](https://manned.org/) - Operating System Manuals
 * [Exploitee.rs](https://www.exploitee.rs/) - Device Exploitation Wiki
@@ -740,7 +738,6 @@
 * [MangaOwl](https://mangaowl.to/)
 * [MangaReader](https://mangareader.mobi/)
 * [ReadMangaFree](https://readmangafree.net/)
-* [Colored Manga](https://coloredmanga.com/) - [Discord](https://discord.com/invite/j66bPX4z8M)
 * [Mangarolls](https://mangarolls.net/)
 * [Mangabtt](https://mangabtt.com/)
 * [Murimscan](https://murimscan.run/)
@@ -755,7 +752,6 @@
 * [DeathTollScans](https://www.deathtollscans.net/)
 * [Tritinia](https://tritinia.com/)
 * [MangaJar](https://mangajar.pro/)
-* [LilyManga](https://lilymanga.com/)
 * [NineManga](https://www.ninemanga.com)
 * [Mangahasu](https://mangahasu.se/)
 * [MangaForest](https://mangaforest.me/) / [2](https://mangamirror.com/)
@@ -787,7 +783,6 @@
 * [MangaDig](https://mangadig.com/)
 * [Novelmic](https://novelmic.com)
 * [Bibi Manga](https://bibimanga.com/)
-* [Mangatx](https://mangatx.com/)
 * [Elarc Page](https://elarcpage.com/)
 * [Coffee Manga](https://coffeemanga.io/)
 * [Pian Manga](https://pianmanga.me/)
