@@ -397,7 +397,6 @@
 * [NFG's Arcade Font Maker](https://nfggames.com/games/fontmaker/) or [Arcade Font Writer](https://arcade.photonstorm.com/) - Arcade Font Engine
 * [Glitch](https://glitchtextgenerator.com/) - Glitch Text Generator
 * [Text Color Fader](https://patorjk.com/text-color-fader/) - Rainbow Text Generator
-* [Handwrite](https://github.com/cod-ed/handwrite) - Generate Font from Handwriting
 * [JoyPixels](https://www.joypixels.com/) - Emoji Font Generator
 * [MacType](https://www.mactype.net/) - Use Mac fonts on Windows
 * [Picas](https://picas.vercel.app/) - Google Font Logo Generator

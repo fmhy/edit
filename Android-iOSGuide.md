@@ -916,7 +916,6 @@
 * [Nicegram](https://nicegram.app/) - Telegram App
 * [Conversations](https://f-droid.org/en/packages/eu.siacs.conversations/) - XMPP Client
 * [Watusi](https://watusi.fouadraheb.com/) - Modded WhatsApp
-* [AppLibraryEnabler](https://github.com/tomaszpoliszuk/AppLibraryEnabler) - Enable App Library on iPad
 * [GeekBench](https://apps.apple.com/us/app/geekbench-6/id1565728895) - iOS Benchmark Tests
 * [GoodLinks](https://goodlinks.app/), [Omnivore](https://github.com/omnivore-app/omnivore) or [DoMarks](https://www.domarks.app/) - Bookmark Managers
 * [Selvy PenScript](https://apps.apple.com/us/app/selvy-penscript/id1027637212) - Handwriting to Text Keyboard
@@ -1126,7 +1125,7 @@
 * [NineAnimator](https://nineanimator.marcuszhou.com/) - [Discord](https://discord.gg/dzTVzeW)
 * [Ketsu](https://ketsu.app/download.html) - [Discord](https://discord.gg/gjcy6MQ)
 * [Tweaked Crunchyroll ++](http://www.iosemulatorspot.com/tweaked-crunchyroll/) - Tweaked Crunchyroll
-* [MyAnimeList Client](https://apps.apple.com/us/app/myanimelist-official/id1469330778) or [Anidex](https://github.com/rajarsheechatterjee/anidex-app) - MyAnimeList Client
+* [MyAnimeList Client](https://apps.apple.com/us/app/myanimelist-official/id1469330778) - MyAnimeList Client
 * [Otraku](https://github.com/lotusgate/otraku) or [AniHyou](https://github.com/axiel7/AniHyou) - AniList Apps
 
 ***

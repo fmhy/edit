@@ -54,7 +54,7 @@
 * [datpiff](https://www.datpiff.com/) - Mixtapes
 * [CitizenFreak](https://citizenfreak.com/) - Canadian Music
 * [Classical Music Only](https://classicalmusiconly.com/) or [musopen](https://musopen.org/music/) - Classical Music
-* [Bandcamp](https://bandcamp.com/tag/free-music?tab=all_releases) or [Hidden Bandcamp Tracks](https://github.com/7x11x13/hidden-bandcamp-tracks) - Free Bandcamp Music 
+* [Bandcamp](https://bandcamp.com/tag/free-music?tab=all_releases) - Free Bandcamp Music 
 * [Audius](https://audius.co/) - User Made Music Platform
 * [AudionautiX](https://audionautix.com/) - Mood Based Streaming
 * [VGMStream](https://vgmstream.org/) - Stream Local Video Game Audio Files

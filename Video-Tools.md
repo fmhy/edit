@@ -94,7 +94,7 @@
 * [VideoConverter](https://videoconverter.com/)
 * [Boram](https://github.com/Kagami/boram/)
 * [selur](https://www.selur.de/)
-* [vvenc](https://github.com/fraunhoferhhi/vvenc), [vvdec](https://github.com/fraunhoferhhi/vvdec), [VVCEasy](https://github.com/MartinEesmaa/VVCEasy) or [VVC-Tools](https://github.com/YUKI2eN3e/VVC-Tools) - VVC Encode / Decode
+* [vvenc](https://github.com/fraunhoferhhi/vvenc), [vvdec](https://github.com/fraunhoferhhi/vvdec), [VVCEasy](https://github.com/MartinEesmaa/VVCEasy) - VVC Encode / Decode
 
 ***
 
@@ -131,7 +131,7 @@
 * 🌐 **[Awesome Video](https://github.com/krzemienski/awesome-video)** - Video Streaming Resources
 * 🌐 **[Video Help](https://www.videohelp.com/software/sections/video-players?orderby=Rating)** - Video Player Index
 * ⭐ **[MPC-HC](https://github.com/clsid2/mpc-hc/)** or [MPC-BE](https://sourceforge.net/projects/mpcbe/) - Video Player
-* ⭐ **[MPV](https://mpv.io/)** / [2](https://mpv-net.github.io/mpv.net-web-site/), [MPV-GUI](https://github.com/mpvnet-player/mpv-gui), [MPV-EASY-Player](https://github.com/422658476/MPV-EASY-Player) or [mpv.snad](https://github.com/thisisshihan/mpv.snad) - Video Player
+* ⭐ **[MPV](https://mpv.io/)** / [2](https://mpv-net.github.io/mpv.net-web-site/), [MPV-GUI](https://github.com/mpvnet-player/mpv-gui), [MPV-EASY-Player](https://github.com/422658476/MPV-EASY-Player) - Video Player
 * ⭐ **[VLC](https://www.videolan.org/)** - Video Player
 * ⭐ **[Screenbox](https://github.com/huynhsontung/Screenbox)** - Video Player
 * [Video Player Codecs](https://www.codecguide.com/)
@@ -263,7 +263,6 @@
 * [Jellyfin Themes](https://jellyfin.org/docs/general/clients/css-customization.html##community-themes)
 * [/r/JellyfinShares](https://www.reddit.com/r/JellyfinShares/) - Server Sharing
 * [jellyfin-media-player](https://github.com/jellyfin/jellyfin-media-player) - Desktop Client
-* [jellyfin_playlist_exporter](https://github.com/pyluyten/jellyfin_playlist_exporter) - Playlist Export
 * [Jellyseerr](https://github.com/Fallenbagel/jellyseerr) - User Requests
 * [jellyfin-plugin-anime](https://github.com/jellyfin-archive/jellyfin-plugin-anime) - Anime Plugin
 

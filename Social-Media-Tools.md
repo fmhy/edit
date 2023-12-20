@@ -189,7 +189,6 @@
 ## ▷ Reddit Customization
 
 * [Reddit Emojis](https://greasyfork.org/en/scripts/443011) - Emojis for Old Reddit
-* [RedditOldRedesignedDark](https://github.com/Jorengarenar/RedditOldRedesignedDark) - Reddit Stylus Dark Theme
 * [Subreddit Tabs](https://greasyfork.org/en/scripts/460086) - Subreddit Icon Tabs
 * [Reddit Comment Highlights](https://github.com/aesy/reddit-comment-highlights) - Highlight New Comments
 * [Reddit Spoiler Blur Remover](https://greasyfork.org/en/scripts/416091-reddit-spoiler-blur-remover) - Remove Reddit Spoiler Blur
@@ -624,7 +623,7 @@
 * [Anon Files Names](https://greasyfork.org/en/scripts/435220) - Anonymizes File Names
 * [4Chan GhostPostMixer](https://github.com/g-gundam/4chan-ghostpostmixer) - Interleave Deleted Posts from Archives
 * [Tripgen](https://orph.link/tripgen) - Imageboard Trip Code Generator 
-* [4Chan Captcha Solver](https://github.com/drunohazarb/4chan-captcha-solver) / [2](https://github.com/kostas-from-cyber-space/4chan-captcha-solver) - Auto Captcha Solvers
+* [4Chan Captcha Solver](https://github.com/drunohazarb/4chan-captcha-solver) - Auto Captcha Solvers
 * [Bypass Deferer](https://greasyfork.org/en/scripts/451259) - Remove Link Deferer
 * [Extra Flags for 4chan](https://gitlab.com/flagtism/Extra-Flags-for-4chan) - Add More Flags to 4chan
 * [ss21](https://github.com/saxamaphone69/ss21), [OneeChan](https://github.com/KevinParnell/OneeChan) or [4cheddit](https://greasyfork.org/en/scripts/16672) - 4chan Themes

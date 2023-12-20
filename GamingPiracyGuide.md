@@ -1102,11 +1102,8 @@
 * [OpenIV](https://openiv.com/) - Rockstar Game Modding Tool
 * [D.E.P](https://www.definitive-edition-project.com/) - Fix GTA PC Port Bugs
 * [Vice City: Multiplayer](https://vc-mp.org/) - Mutiplayer GTAVC
-* [Jetpack Downgrader](https://github.com/Zalexanninev15/Jetpack-Downgrader) - GTASA Downgrader
 * [gtasa-savegame-editor](https://github.com/Kronavarb/gtasa-savegame-editor) - GTASA Save Editor
 * [VehFuncs](https://www.mixmods.com.br/2023/01/sa-vehfuncs/) - GTASA Vehicle Mods
-* [SA Mission Maker](https://libertycity.net/files/gta-san-andreas/175089-sa-mission-maker-v1-45.html) or [DYOM](https://dyom.gtagames.nl/) - GTASA Mission Creator
-* [GTA3MP3](https://gtamp.com/gta3/) - GTA3 Multiplayer Mod
 
 ***
 

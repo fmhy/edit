@@ -318,7 +318,7 @@
 
 * ⭐ **[French DDL Google Docs](https://discord.com/invite/AwAcRHXZ5m)** - [Films](https://docs.google.com/document/d/1f-CCNWh_pVSNQhivKEDixndBoM37XslJBR9OJqFeeBA/) / [Series](https://docs.google.com/document/d/1fb2yM3BW7Dn2-ueXldW5IN8EKCEfDQtesCF_xXpYTl0/) / [Anime](https://docs.google.com/document/d/1Bk84UHCvs6pUWL4OkJqgMsdiSkrFeJRmkGOTBlzuI7M/) / [Books](https://docs.google.com/document/d/1uPE4t6QfOxQE8KFl9dkbRmNgGlknDLMEw8bdAI5FMgs/)
 * [mega-p2p](https://www.mega-p2p.net/) - Warez Lists
-* [FilesSeekr](https://w7w.files-seekr.com/) or [Pixel Downloader](https://github.com/valentintintin/pixel-downloader) - Search Warez Sites
+* [FilesSeekr](https://w7w.files-seekr.com/) - Search Warez Sites
 * [WawaCity](https://www.wawacity.fit/) - Video / Audio / Books / Games / Use Adblocker
 * [BookDDL](http://www.bookddl.com/) - Books / Magazines / Newspapers / Audiobooks
 * [DBFree](https://dbfree.me/) - Books

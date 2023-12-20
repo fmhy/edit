@@ -1442,7 +1442,6 @@
 * [logos-vscode](https://github.com/tale/logos-vscode) - Logo Extension
 * [VSCodeThemes](https://vscodethemes.com/) or [VSColors](https://www.vscolors.com/) - VSCode Themes
 * [oslo](https://oslo-vsc.netlify.app/) Theme Generator
-* [dartcula](https://github.com/whiplashoo/dartcula-theme) - Dark Theme
 
 ***
 
