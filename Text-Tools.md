@@ -326,7 +326,7 @@
 
 ## ▷ To Do Lists
 
-* ⭐ **[Magic ToDo](https://goblin.tools/)** - Automatic Task Breakdown
+* ⭐ **[Goblin.tools](https://goblin.tools/)** - Automatic Task Breakdown and more
 * [Columns](https://columns.app/) or [ChecklistGenerator](https://checklistgenerator.co/) - Checklists
 * [Wonder](https://wonder-bot.com/) - Remember Things Easily
 * [YearCompass](https://yearcompass.com/) - New Years Resolution Booklet
