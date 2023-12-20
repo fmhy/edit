@@ -48,7 +48,6 @@
 * [Mipony](https://www.mipony.net/)
 * [FileCXX](https://filecxx.com/)
 * [HTTP Downloader](https://erickutcher.github.io/#HTTP_Downloader/)
-* [DownZemAll](https://setvisible.github.io/DownZemAll/)
 * [download](https://github.com/kevva/download) / [CLI](https://github.com/kevva/download-cli), [downloader](https://downloader.la/) or [Hitomi](https://github.com/KurtBestor/Hitomi-Downloader) - File Download Tools
 * [mf-dl](https://gitgud.io/Pyxia/mf-dl/) or [mediafire_bulk_downloader](https://github.com/NicKoehler/mediafire_bulk_downloader) - Mediafire File Downloader
 * [One Leaf](https://oneleaf.icu/) or [PanDownload](https://baidu.gamesdrive.net/) - Baidu Netdisk Downloaders
@@ -267,7 +266,7 @@
 * ⭐ **[Mixdrop](https://mixdrop.ag/)** - 2GB / 60 Days
 * ⭐ **[Qiwi](https://qiwi.gg)** - [Warning](https://pastebin.com/jn90QMEt)
 * ⭐ **[Catbox.moe](https://catbox.moe/)** - 200MB / Forever
-* [Z-o-o-m](https://z-o-o-m.eu/), [MirrorAce](https://mirrorace.com/), [MultiUp](https://multiup.eu/) / [2](https://multiup.org/), [Mirrorcreator](https://www.mirrored.to/) or [PlowShare](https://github.com/mcrapet/plowshare) - Multi Host Uploaders
+* [MultiUp](https://multiup.io/), [Z-o-o-m](https://z-o-o-m.eu/), [MirrorAce](https://mirrorace.com/) or [Mirrorcreator](https://www.mirrored.to/) - Multi Host Uploaders
 * [send](https://gitlab.com/timvisee/send) / [instances](https://gitlab.com/timvisee/send-instances)
 * [File.cm](https://file.cm/) - 100GB / 30 days / Signup Required
 * [edisk](https://www.edisk.cz/) - 10GB / 30 days
@@ -326,7 +325,6 @@
 * [onionshare](https://onionshare.org/)
 * [OwnCloud](https://owncloud.com/)
 * [MLDonkey](https://github.com/ygrek/mldonkey)
-* [Slate](https://slate.host/)
 * [etesync](https://www.etesync.com/)
 * [WinSCP](https://winscp.net/eng/index.php)
 * [allwaysync](https://allwaysync.com/)
