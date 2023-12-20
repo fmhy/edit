@@ -63,9 +63,10 @@
 * [LlamaChat](https://www.llamachat.app/) - Mac Llama AI
 * [DiffusionBee](https://diffusionbee.com/) - Mac Local AI Frontend / [Github](https://github.com/divamgupta/diffusionbee-stable-diffusion-ui) / [Discord](https://discord.com/invite/t6rC5RaJQn)
 * [Kajiwoto](https://kajiwoto.ai/), [Miku](https://docs.miku.gg/) / [Discord](https://discord.gg/3XPdpUdGgV) or [Agnai](https://agnai.chat/) - AI Builders
+* [Dify](https://dify.ai/) - Create AI Apps
 * [AgentRunner](https://www.agentrunner.ai/) - Create Autonomous AI Agents
 * [Instrukt](https://github.com/blob42/Instrukt) - AI Testing Environment
-* [Dify](https://dify.ai/) - Create AI Apps
+* [PlugBear](https://plugbear.io/) - Connect LLMs to Apps
 
 ***
 
@@ -281,6 +282,7 @@
 * [StableDiffusionWeb](https://stablediffusionweb.com/) / Unlimited
 * [VectorArt.ai](https://vectorart.ai/) - Unlimited / SVGs
 * [Leonardo.ai](https://app.leonardo.ai/) / 30 Images Daily
+* [AITurbo](https://app.aitubo.ai/) / 25 Daily / [Discord](https://discord.gg/qTu6YsRn7F)
 * [Ideogram](https://ideogram.ai/) / 25 Daily
 * [Artsio](https://artsio.xyz/) / 20 Images Daily
 * [DreamLike](https://dreamlike.art) / [Discord](https://discord.com/invite/QyGR2FxsKU) / 12 Images Daily
