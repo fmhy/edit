@@ -293,7 +293,7 @@
 * [Let's Play Sega](https://www.letsplaysega.com/) - Sega Genesis Browser Emulator
 * [Mega Drive Emulator](https://megadrive-emulator.com/) - Sega Megadrive Browser Emulator
 * [Capcom Town](https://captown.capcom.com/en/retro_games) - Capcom Browser Emulator
-* [DosGames](https://dosgames.com/), [DOSZone](https://dos.zone/), [MSDOSGames](https://msdosgames.com/) or [PlayDOSGames](https://www.playdosgames.com/) - DOS Browser Emulators
+* [DosGames](https://dosgames.com/), [DOSDeck](https://dosdeck.com/), [DOSZone](https://dos.zone/), [MSDOSGames](https://msdosgames.com/) or [PlayDOSGames](https://www.playdosgames.com/) - DOS Browser Emulators
 * [NeoGeoFun](https://www.neogeofun.com/) - Neo Geo Browser Emulator
 * [LCD Games](http://bdrgames.nl/lcdgames/) - Retro LCD Game Emulator
 * [File-Hunter](https://www.file-hunter.com/) - MSX / Amiga Browser Emulator
@@ -348,12 +348,13 @@
 * [Nicky Case](https://ncase.me/) - Browser Games
 * [yell0wsuit](https://yell0wsuit.page/games.html) - Browser Games
 * [Gamaverse](https://gamaverse.com/) - Browser Games
+* [Xefer](https://xefer.com/projects) - Browser Games
 * [N-Arcade](https://n-arcade.io/) - Browser Games
 * [watabou](https://watabou.itch.io/) - Browser Games
 * [Foddy](https://www.foddy.net/category/games/browser/) - Browser Games
 * [GameKB](https://www.gamekb.com/) - Browser Games
 * [DAN-BALL](https://dan-ball.jp/en/) - Browser Games
-* [Flash by Night](http://flashbynight.com/), [FlashGamesArchive](http://www.flashgamearchive.com/playable/), [Flash Arch](https://flasharch.com/en) or [AlbinoBlackSheep](https://www.albinoblacksheep.com/games/) - Flash Games
+* [Flash by Night](http://flashbynight.com/), [FlashMuseum](https://flashmuseum.org/), [FlashGamesArchive](http://www.flashgamearchive.com/playable/), [Flash Arch](https://flasharch.com/en) or [AlbinoBlackSheep](https://www.albinoblacksheep.com/games/) - Flash Games
 * [Arcade Prehacks](https://www.arcadeprehacks.com/), [SamsHackedGames](https://www.samshackedgames.com/) or [KongHack](https://konghack.com/) - Flash Game Hacks
 * [HTML5 Games](https://html5games.com/) / [Browser](https://html5.thebestarcadescript.com/) - HTML5 Games
 * [iogames.space](https://iogames.space/), [itch.io](https://graebor.itch.io/), [Kindanice](https://kindanice.itch.io/), [Jezzamon](https://jezzamon.itch.io/) or [Kevin Games](https://kevin.games/)- .io Games
