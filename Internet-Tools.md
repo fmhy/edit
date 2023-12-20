@@ -124,6 +124,7 @@
 * [Beacon](https://beacons.ai/)
 * [Carrd](https://carrd.co/)
 * [Bio.link](https://bio.link/)
+* [Seamless](https://www.linkinbio.website/)
 * [FlowCode](https://www.flowcode.com/page)
 * [Solo.to](https://solo.to/)
 * [Ayo.so](https://ayo.so/)
