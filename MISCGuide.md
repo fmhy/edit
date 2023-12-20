@@ -475,7 +475,7 @@
 * [CancerFactFinder](https://cancerfactfinder.org/) - Cancer Fact Search
 * [INCIDecoder](https://incidecoder.com/) - Skincare Ingredient Lists
 * [Liam Rosen's Fitness Guide](https://liamrosen.com/fitness.html) - Beginners Health & Fitness Guide
-* [jamesflorentino-fitness](https://github.com/jamesflorentino/fitness) or [AMMFitness](https://www.ammfitness.co.uk/) - Fitness / Nutrition Info 
+* [AMMFitness](https://www.ammfitness.co.uk/) - Fitness / Nutrition Info 
 * [The Fitness Wiki](https://thefitness.wiki/) - Fitness Information Wiki
 * [Google Fit](https://www.google.com/fit/) - Activity Coach
 * [No Equipment Ab Exercises](https://i.ibb.co/YdNy3K2/12df795c3938.jpg) - Ab Exercise Diagram

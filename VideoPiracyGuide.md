@@ -283,7 +283,7 @@
 * ⭐ **[Anime Streaming CSE](https://cse.google.com/cse?cx=006516753008110874046:vzcl7wcfhei)** / [CSE 2](https://cse.google.com/cse?cx=006516753008110874046:mrfarx7-dxu) or [Kuroiru](https://kuroiru.co/) - Multi-Site Anime Search
 * [Aniro.to](https://aniro.to) - Sub / Dub / 1080p
 * [GoGoAnime](https://gogoanime3.net/), [2](https://anitaku.to/) - Sub / Dub / 1080p
-* GoGoAnime Tools - [Mirrors](https://gogotaku.info/) / [Netflix Skin](https://github.com/RyukSama/GogoAnimeSkin) / [CLI](https://github.com/DemonKingSwarn/gogo-cli) / [Downloader](https://github.com/notmarek/GOgogoanime), [2](https://github.com/sdaqo/anipy-cli) / [Download Script](https://greasyfork.org/en/scripts/465970), [2](https://greasyfork.org/en/scripts/426661) / [DL Guide](https://rentry.org/gogodlscript) / [Discord](https://discord.gg/kyVfcGuCCQ)
+* GoGoAnime Tools - [Mirrors](https://gogotaku.info/) / [Netflix Skin](https://github.com/RyukSama/GogoAnimeSkin) / [CLI](https://github.com/DemonKingSwarn/gogo-cli) / [Downloader](https://github.com/sdaqo/anipy-cli) / [Download Script](https://greasyfork.org/en/scripts/465970), [2](https://greasyfork.org/en/scripts/426661) / [DL Guide](https://rentry.org/gogodlscript) / [Discord](https://discord.gg/kyVfcGuCCQ)
 * [AnimeHub](https://animehub.ac/) - Sub / Dub / 1080p
 * [Animixplay](https://animixplay.tube/), [2](https://animixplay.name) - Sub / Dub / 1080p
 * [123Anime](https://123animes.ru/) - Sub / Dub / 1080p
@@ -562,7 +562,7 @@
 * ↪️ **[Video Download Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video-tools#wiki_.25BA_video_download)**
 * ⭐ **[OlaMovies](https://olamovies.tokyo/)** - Movies / TV / 4K / 1080p / [Telegram](https://telegram.me/olamovies_officialv5)
 * ⭐ **[Pahe](https://pahe.me/)** - Movies / TV / Anime / 4K / [Discord](https://discord.gg/4AvaCsd2J4) / [Redirect Buttons](https://greasyfork.org/en/scripts/443277)
-* ⭐ **[PSARips](https://psa.wf/)** - Movies / TV / 4K / [Discord](https://discord.gg/4AvaCsd2J4) / [Scrape](https://github.com/NandiyaLive/PSALinkGrabber)
+* ⭐ **[PSARips](https://psa.wf/)** - Movies / TV / 4K / [Discord](https://discord.gg/4AvaCsd2J4)
 * ⭐ **[Worlds Cinema](https://worldscinema.org/)** - Classic / Cult Films / 1080p
 * ⭐ **[MovieParadise](https://movieparadise.org/)** - Movies / TV / 1080p / Account Required for 1ficher links / [DM for Invite](https://www.reddit.com/message/compose?to=nbatman)
 * ⭐ **[Drama Day](https://dramaday.me/)** - Asian Drama / 1080p
@@ -710,7 +710,7 @@
 * [Magnet Player](https://ferrolho.github.io/magnet-player/) - Stream Torrents in Browser
 * [Bobarr](https://github.com/iam4x/bobarr) or [Nefarious](https://github.com/lardbit/nefarious) - Movie / TV Autodownload / [Discord](https://discord.gg/PFwM4zk)
 * [SickChill](https://sickchill.github.io/) / [GitHub](https://github.com/SickChill/SickChill) or [CouchPotato](https://couchpota.to/) - Automatic Torrent / NZB Searching, Downloading & Processing
-* [wt](https://github.com/DegenCoden/wt), [GMDB](https://github.com/Dentrax/GMDB), [PeerFlix](https://github.com/mafintosh/peerflix) / [Server](https://github.com/asapach/peerflix-server) - Torrent Streaming CLIs
+* [GMDB](https://github.com/Dentrax/GMDB), [PeerFlix](https://github.com/mafintosh/peerflix) / [Server](https://github.com/asapach/peerflix-server) - Torrent Streaming CLIs
 * [Autosearch Extension](https://github.com/trossr32/sonarr-radarr-lidarr-autosearch-browser-extension) - Sonarr/Radarr/Lidarr Autosearch Extension
 * [Unpackerr](https://unpackerr.zip/) - Automated Archive Extraction
 * [VLC-Bittorrent](https://github.com/johang/vlc-bittorrent) or [StreamTim](https://streamtim.com/) - Stream Torrents in VLC
@@ -741,7 +741,7 @@
 * [JapaneseTorrents](https://japanesetorrents.wordpress.com/) - Asian Drama
 * [TV-Nihon](https://tracker.tvnihon.com/) - Japanese Commercial Archive
 * [XtremeWrestlingTorrents](https://xtremewrestlingtorrents.net/) - Wrestling Private Tracker / Open Registrations
-* [IMDb Link em All](https://greasyfork.org/en/scripts/17154-imdb-link-em-all), [IMDb Scout](https://greasyfork.org/en/scripts/3967-imdb-scout), [IMDb-Scout-Mod](https://github.com/Purfview/IMDb-Scout-Mod), [IMDb Torrent Search](https://github.com/Crecket/imdb-torrent-search) or [TMDB-Torrent-Movie-Database](https://github.com/singhkumarpratik/TMDB-Torrent-Movie-Database) - Torrent Site Results on IMDb
+* [IMDb Link em All](https://greasyfork.org/en/scripts/17154-imdb-link-em-all), [IMDb Scout](https://greasyfork.org/en/scripts/3967-imdb-scout), [IMDb-Scout-Mod](https://github.com/Purfview/IMDb-Scout-Mod), [TMDB-Torrent-Movie-Database](https://github.com/singhkumarpratik/TMDB-Torrent-Movie-Database) - Torrent Site Results on IMDb
 * [srrextra](https://github.com/srrDB/srrextra) - Scene Release Tracker on IMDb
 
 ***
@@ -771,7 +771,6 @@
 * [Play Anime](http://127.0.0.1:43110/1AnimePihDhcbVdK1nvnbSEtH4oKU8RAYG/) - Sub / [ZeroNet Required](https://zeronet.io/)
 * [nyaamal](https://github.com/laxyapahuja/nyaamal) - Add torrents DL's to MAL / Anilist
 * [Miru](https://github.com/ThaUnknown/miru) - Stream Anime Torrents
-* [Aniloader](https://github.com/Xanahol/Aniloader) - Anime Torrent Autodownloader
 
 ***
 
@@ -928,7 +927,7 @@
 * [Subliminal](https://github.com/Diaoul/subliminal), [SubtitleBOX](https://github.com/sameera-madushan/SubtitleBOX) or [Subtitle-Downloader](https://github.com/manojmj92/subtitle-downloader) - Python Download Script
 * [Sub-Zero](https://github.com/pannal/Sub-Zero.bundle) - Plex Subtitles
 * [Adjust Subs Like a Pro](https://graph.org/Adjust-subtitles-in-seconds-like-a-pro-07-17) - Subtitle Syncing Guide
-* [Subshifter](https://subshifter.bitsnbites.eu/), [subsync](https://github.com/sc0ty/subsync), [ffsubsync](https://github.com/smacke/ffsubsync), [autosubsync-mpv](https://github.com/joaquintorres/autosubsync-mpv), [Alass](https://github.com/kaegi/alass), [autosubsync](https://github.com/oseiskar/autosubsync) or [subslider.js](https://github.com/micheleb/subslider.js) / [2](https://micheleb.github.io/subslider.js/) - Sync Subtitles 
+* [Subshifter](https://subshifter.bitsnbites.eu/), [subsync](https://github.com/sc0ty/subsync), [ffsubsync](https://github.com/smacke/ffsubsync), [autosubsync-mpv](https://github.com/joaquintorres/autosubsync-mpv), [Alass](https://github.com/kaegi/alass), [autosubsync](https://github.com/oseiskar/autosubsync) - Sync Subtitles 
 * [vlsub](https://github.com/exebetche/vlsub) - VLC Subtitle Download
 * [asstosrt-wasm](https://sorz.github.io/asstosrt-wasm/) - ASS / SSA to SRT Subtitles Converter
 * [RenameThemSubs](https://github.com/Eshaan7/RenameThemSubs) - Rename Sub Files to match Video

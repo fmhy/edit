@@ -66,7 +66,6 @@
 * [KeeWeb](https://keeweb.info/) / [GitHub](https://github.com/keeweb/keeweb)
 * [Proton Pass](https://proton.me/pass)
 * [Spectre](https://spectre.app/)
-* [KeepSafe](https://github.com/imshawan/keepsafe-passwordmanager/)
 
 ***
 
@@ -301,7 +300,7 @@
 * [Site Worth Traffic](https://www.siteworthtraffic.com/) - Calculate Website Worth
 * [XML-Sitemaps](https://www.xml-sitemaps.com/) - Sitemap Creator
 * [CarbonDates](https://carbondate.cs.odu.edu/) - Check Site Creation Date 
-* [SubDomainizer](https://github.com/nsonaniya2010/SubDomainizer), [Search Console](https://search.google.com/search-console/), [subsurface](https://github.com/CellEight/subsurface) or [SubdomainFinder](https://subdomainfinder.c99.nl/) - Find Hidden Subdomains 
+* [SubDomainizer](https://github.com/nsonaniya2010/SubDomainizer), [Search Console](https://search.google.com/search-console/), [SubdomainFinder](https://subdomainfinder.c99.nl/) - Find Hidden Subdomains 
 * [pyfuzz](https://github.com/AyoobAli/pyfuzz) - URL Fuzzing Tool 
 * [Backlink Tool](https://backlinktool.io/) or [Index Kings](http://www.indexkings.com/) - URL Indexer 
 * [Blocked](https://www.blocked.org.uk/) - UK ISP Site Blocking Test
@@ -588,7 +587,6 @@
 * [Keep or Delete Bookmarks](https://www.soeren-hentzschel.at/firefox-webextensions/keep-or-delete-bookmarks/) - Keep Bookmark Folder Clean 
 * [Default Bookmark Folder](https://github.com/teddy-gustiaux/default-bookmark-folder) - Change Default Bookmark Folder
 * [Multi Tabs](https://addons.mozilla.org/en-US/firefox/addon/search-multi-tabs/) - Multi Tab Word Search Search 
-* [PopUp Encyclopedia](https://github.com/pncnmnp/PopUp-Encyclopedia) - Popup Encyclopedia / Dictionary 
 * [Search Site WE](https://addons.mozilla.org/en-US/firefox/addon/search-site-we/) - Search Current Domain 
 * [Firefox Color](https://color.firefox.com/) or [SwiftTheme](https://addons.mozilla.org/en-US/firefox/addon/swifttheme/) - Custom Firefox Theme Creation
 * [OnelineProton](https://github.com/newmanls/OnelineProton) - Proton Theme for Firefox
@@ -677,7 +675,6 @@
 * [Share Tabs](https://chrome.google.com/webstore/detail/share-tabs/dneibnomihlihbnibiblbmeppafmeacg) - Share Tabs Other Browser
 * [Popup Tab Switcher](https://chrome.google.com/webstore/detail/popup-tab-switcher/cehdjppppegalmaffcdffkkpmoflfhkc) - Improved Tab Switching
 * [Relative Bookmarks](https://github.com/duiker101/relative_bookmarks) - Add Relative Bookmarks
-* [improved Potato](https://github.com/patheticGeek/improved-potato) - Export Bookmarks
 * [Remarkable](https://github.com/samueldobbie/remarkable-extension) - Remove Dead Bookmarks / Refresh Icons
 * [Mercury Reader](https://reader.postlight.com/) - Clear Clutter From Articles / [GitHub](https://github.com/postlight/parser)
 * [OpenDyslexic](https://opendyslexic.org/) - Increase Page Readability
@@ -706,7 +703,6 @@
 * [Nicosapo](https://github.com/yurafuca/nicosapo) - Add Features to Nico Nico
 * [N-Bot](https://chrome.google.com/webstore/detail/n-bot-google-meet-online/cpcenjbkciljcgglpgcmghcphjcbkffg?hl=en%E2%80%8E) - Bot to Attend Your Meetings / Classes
 * [Zoom Scheduler](https://zoom.us/download#chrome_ext) - Zoom Meeting Scheduler
-* [Clippy](https://github.com/capJavert/clippy) - Add Clippy Assistant to Pages
 * [Typewriter](https://chrome.google.com/webstore/detail/typewriter/jfghikfjnjkjkdpndeecjheealfoabhc) - Typing Typewriter Sounds
 * [Extpose](https://extpose.com/) - Track Performance of your own Extensions
 

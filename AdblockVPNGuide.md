@@ -370,7 +370,7 @@
 * ⭐ **[LibreDirect](https://libredirect.github.io/)** / [2](https://github.com/libredirect/libredirect) or [Proxy Redirect](https://openuserjs.org/scripts/sjehuda/Proxy_Redirect) - Frontend Redirect Extensions
 * [Numblr](https://github.com/heyLu/numblr) - Self-Hosted Frontend Redirect
 * [Invidious Redirect](https://addons.mozilla.org/en-US/firefox/addon/hooktube-redirect/?src=search) - YouTube Frontend Redirect
-* [Nitter](https://nitter.net/) - Twitter Frontend / [Manage Feeds](https://github.com/pluja/Feetter)
+* [Nitter](https://nitter.net/) - Twitter Frontend
 * [Photon](https://photon-reddit.com/) - Reddit Frontend
 * [Proxigram](https://codeberg.org/ThePenguinDev/Proxigram) or [Imginn](https://imginn.com) - Instagram Frontends
 * [Proxitok](https://github.com/pablouser1/ProxiTok) or [TikNot](https://tiknot.netlify.app/) / [Redirect](https://greasyfork.org/en/scripts/482683) - TikTok Frontends
@@ -490,7 +490,6 @@
 * [Amnezia](https://github.com/amnezia-vpn/amnezia-client) - Self-hosted VPN
 * [VPNHotspot](https://github.com/Mygod/VPNHotspot) - Share VPN Connection over Hotspot
 * [raspberrypiwireguard](https://github.com/adrianmihalko/raspberrypiwireguard) - Install WireGuard on Raspberry Pi
-* [Killswitch](https://github.com/nologs-vpn/killswitch) or [KillSwitch](https://github.com/nerfirelia123/KillSwitch) - Custom VPN Killswitch
 * [Opera "VPN" is a Proxy, Not VPN](https://gist.github.com/spaze/558b7c4cd81afa7c857381254ae7bd10)
 
 ***
@@ -507,7 +506,7 @@
 * [Hide.me Firefox](https://addons.mozilla.org/en-US/firefox/addon/hide-me-vpn-free-proxy/) / [Chrome](https://chromewebstore.google.com/detail/hideme-proxy/ohjocgmpmlfahafbipehkhbaacoemojp) or [anonymoX](https://anonymox.net/en) - Free Proxy Service Browser Extension
 * [Snowflake](https://snowflake.torproject.org/) - Tor Proxy Browser Extension
 * [SwitchyOmega](https://github.com/FelisCatus/SwitchyOmega) - Proxy Manager Browser Extension
-* [FoxyProxy](https://getfoxyproxy.org/), [Proxy Privacy Ruler](https://github.com/JustOff/proxy-privacy-ruler) - Proxy Manager Extensions for Firefox
+* [FoxyProxy](https://getfoxyproxy.org/) - Proxy Manager Extensions for Firefox
 * [Acrylic](https://mayakron.altervista.org/) - DNS Cache Local Proxy
 * [SimpleDnsCrypt](https://github.com/instantsc/SimpleDnsCrypt) - DNS Encryption Local Proxy
 * [Proxifier](https://www.proxifier.com/) - Add proxy functionality to applications / [Keys](https://github.com/nbats/FMHYedit/blob/main/base64.md#proxifier-keys)

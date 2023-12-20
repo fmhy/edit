@@ -415,7 +415,7 @@
 ## ▷ Engineering 
 
 * 🌐 **[The Engineering Toolbox](https://www.engineeringtoolbox.com/)** or [EngineersEdge](https://www.engineersedge.com/) - Engineering Resources
-* 🌐 **[Awesome Mecheng](https://github.com/m2n037/awesome-mecheng)** or [design-data-list](https://github.com/IDEALLab/design-data-list) - Mechanical Engineering Resources
+* 🌐 **[Awesome Mecheng](https://github.com/m2n037/awesome-mecheng)** - Mechanical Engineering Resources
 * ⭐ **[/r/AskEngineers](https://www.reddit.com/r/AskEngineers/)** - Engineering Q&A Sub / [Library](https://www.reddit.com/r/AskEngineers/wiki/library) / [Acronyms](https://www.reddit.com/r/AskEngineers/wiki/acronyms) / [FAQ](https://www.reddit.com/r/AskEngineers/wiki/faq) / [Work Tips](https://www.reddit.com/r/AskEngineers/wiki/workexperience#wiki_work_experience)
 * ⭐ **[/m/engineering](https://www.reddit.com/user/nbatman/m/engineering/)** - Engineering Multireddit
 * ⭐ **[/r/engineering](https://www.reddit.com/r/engineering/)** or [/r/AutomotiveEngineering](https://www.reddit.com/r/AutomotiveEngineering/) - Engineering Subreddits
@@ -631,7 +631,7 @@
 * [NoteFlight](https://noteflight.com/), [MCMusicEditor](https://www.mcmusiceditor.com/), [Flat](https://flat.io/), [FinaleMusic](https://www.finalemusic.com/products/notepad/), [Score Perfect Professional](https://archive.org/details/score-perfect-professional-lite-5.1/), [MuseScore](https://musescore.org/en/download), [canorus](https://github.com/canorusmusic/canorus), [MusicWorks](https://www.tierramedia.com/), [Chordly](https://chordly.co.uk/), [Notasi Angka](https://sourceforge.net/projects/notasi-angka/) or [Trinket](https://trinket.io/) - Create / Share Music Scores
 * [Access Music](https://accessmusic.sourceforge.net/) - Create Music Scores for Blind Users
 * [The ABC Music Project](https://abc.sourceforge.net/) - Plain Text Music Notation / [Editor](https://sourceforge.net/projects/toadflax/), [2](https://runabc.sourceforge.io/), [3](https://easyabc.sourceforge.net/) / [PNG Convert](https://sourceforge.net/projects/abccairo/) / [MIDI Convert](https://abcmidi.sourceforge.io/) / [Webpages](https://netabc.sourceforge.io/)
-* [Audiveris](https://audiveris.github.io/audiveris/), [Oemer](https://github.com/BreezeWhite/oemer) / [Colab](https://colab.research.google.com/github/BreezeWhite/oemer/blob/main/colab.ipynb), [transcription](https://github.com/superfonic/transcription), [omnizart](https://github.com/Music-and-Culture-Technology-Lab/omnizart), [AutoAudio](https://github.com/EricaNguyen/AutoAudio), [notetrainerpro](https://sourceforge.net/projects/notetrainerpro/) or [Soundslice](https://www.soundslice.com/transcribe/) - Transcribe Music Sheets / [GitHub](https://github.com/Audiveris/audiveris)
+* [Audiveris](https://audiveris.github.io/audiveris/), [Oemer](https://github.com/BreezeWhite/oemer) / [Colab](https://colab.research.google.com/github/BreezeWhite/oemer/blob/main/colab.ipynb), [omnizart](https://github.com/Music-and-Culture-Technology-Lab/omnizart), [notetrainerpro](https://sourceforge.net/projects/notetrainerpro/) or [Soundslice](https://www.soundslice.com/transcribe/) - Transcribe Music Sheets / [GitHub](https://github.com/Audiveris/audiveris)
 * [Partitura Magica](https://sourceforge.net/projects/partituramagica/) or [SheetMusicScanner](https://sheetmusicscanner.com/) - Display Scanned Music Sheets
 * [ChiffAndFipple](https://forums.chiffandfipple.com/index.php) - Irish Traditional Music Forum
 
@@ -775,7 +775,7 @@
 * [JapaneseWithAnime](https://www.japanesewithanime.com/) - Learn Japanese with Anime / Manga
 * [Daily leisurely Japanese teacher](https://nihongonosensei.net/) - Japanese Practice Material
 * [Learn Japanese Grammar](https://kimallen.sheepdogdesign.net/) - Basic Principles of Japanese Grammar
-* [Jotoba](https://jotoba.de/), [Fujiten](https://github.com/odrevet/fujiten), [core6000](https://core6000.neocities.org/), [Tagaini](https://www.tagaini.net/), [Takoboto](https://takoboto.jp/), [Jisho](https://jisho.org/), [Massif](https://github.com/rsimmons/massif), [‎Shirabe Jisho](https://apps.apple.com/us/app/shirabe-jisho/id1005203380), [JapBase](https://japbase.neocities.org/), [Weblio](https://ejje.weblio.jp/), [Goo Dictionary](https://dictionary.goo.ne.jp/), [JS-Dict](https://github.com/petlyh/JS-Dict) or [rtk-search](https://hochanh.github.io/rtk/) - Japanese Dictionaries / Phrases
+* [Jotoba](https://jotoba.de/), [core6000](https://core6000.neocities.org/), [Tagaini](https://www.tagaini.net/), [Takoboto](https://takoboto.jp/), [Jisho](https://jisho.org/), [Massif](https://github.com/rsimmons/massif), [‎Shirabe Jisho](https://apps.apple.com/us/app/shirabe-jisho/id1005203380), [JapBase](https://japbase.neocities.org/), [Weblio](https://ejje.weblio.jp/), [Goo Dictionary](https://dictionary.goo.ne.jp/), [JS-Dict](https://github.com/petlyh/JS-Dict) or [rtk-search](https://hochanh.github.io/rtk/) - Japanese Dictionaries / Phrases
 * [OJAD](https://www.gavo.t.u-tokyo.ac.jp/ojad/eng/pages/home) - Japanese Accent Dictionary
 * [ichi.moe](https://ichi.moe/) - Japanese to English Phrase Translation
 * [Jlpt N3](https://dethitiengnhat.com/en/) or [JapaneseTest4You](https://japanesetest4you.com/) - Jlpt Exam Questions / [Grammar](https://jlptgrammarlist.neocities.org/)
@@ -909,7 +909,6 @@
 * ⭐ **[Coursicle](https://www.coursicle.com/)** - Class Schedule Tracker / Android
 * ⭐ **[OpenSyllabus](https://opensyllabus.org/)** or [LanguageDrops](https://languagedrops.com/) - Syllabus Search / Info
 * [ExpertFile](https://expertfile.com/) or [ExpertiseFinder](https://expertisefinder.com/) - Industry / Academic Expert Search
-* [Studify](https://github.com/cmcodes1/Studify) - Study Tracker / Android
 * [Remind](https://apps.apple.com/us/app/remind-school-communication/id522826277) - Educational Communication / iOS
 * [Mochi Cards](https://mochi.cards/), [Silicon](https://github.com/cu/silicon) or [MidTerm](https://midterm.app/) - Note Taking / Study Tool
 * [Desklamp](https://desklamp.io/) - Reading / Note Taking / Highlighting Tool / [Guide](https://app.desklamp.io/read?id=46b203c6-d8df-453d-b546-95a8fa7a44b9&mode=explore)
@@ -1044,7 +1043,7 @@
 * [Chat Words Dictionary](https://chatworddictionary.com/) - Chat Abbreviations
 * [lengusa](https://lengusa.com/) or [Fraze.it](https://fraze.it/) - Sentence Search
 * [Dictionary](https://www.dictionary.com/) - Dictionary / Thesaurus
-* [Thesaurus.com](https://www.thesaurus.com/) - Thesaurus / [Frontend](https://github.com/sigaloid/vocrab)
+* [Thesaurus.com](https://www.thesaurus.com/) - Thesaurus
 * [PowerThesaurus](https://www.powerthesaurus.org/) - Thesaurus
 * [VisualThesaurus](https://www.visualthesaurus.com/) - Thesaurus
 * [DescribingWords](https://describingwords.io/) or [Lose The Very](https://www.losethevery.com/) - Adjectives

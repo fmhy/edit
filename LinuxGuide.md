@@ -164,7 +164,6 @@
 * [Steam for Linux](https://github.com/ValveSoftware/steam-for-linux) - Steam Linux Beta Issue Tracker
 * [HeroicGamesLauncher](https://heroicgameslauncher.com/) / [GitHub](https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher) - Epic Games Launcher
 * [Minigalaxy](https://sharkwouter.github.io/minigalaxy/) - GOG Client
-* [proton-gog-install](https://github.com/myyc/proton-gog-install) - Windows to Linux GOG Game Installer
 * [CWordle](https://github.com/velorek1/cwordle) - Wordle in Unix Terminal 
 * [NVBurner](https://github.com/iloveichigo/NVBurner) or [CoreCTRL](https://gitlab.com/corectrl/corectrl) - Overclocking Tool
 * [dxvk](https://github.com/doitsujin/dxvk) - D3D9, D3D10 and D3D11 for Linux / Wine
@@ -173,7 +172,6 @@
 * [Gamemode](https://github.com/FeralInteractive/gamemode) - Linux System Optimizer
 * [Ananicy](https://github.com/Nefelim4ag/Ananicy) - Fix Program Priority / Lag / [C++](https://gitlab.com/ananicy-cpp/ananicy-cpp)
 * [LibreGaming](https://github.com/Ahmed-Al-Balochi/LibreGaming) - Linux Game Package Downloader
-* [yuzu-ea-updater-for-linux](https://github.com/lem6ns/yuzu-ea-updater-for-linux) - Linux Yuzu Updater
 * [mcpelauncher](https://github.com/minecraft-linux/mcpelauncher-manifest) - Minecraft Android Bedrock Edition Launcher for Linux
 * [Grapejuice](https://gitlab.com/brinkervii/grapejuice) - Roblox Manager
 * [Bloxstrap](https://discord.com/invite/nKjV3mGq6R) - Roblox Launcher
@@ -182,7 +180,6 @@
 * [Gameboy.live](https://github.com/HFO4/gameboy.live) - Terminal Gameboy Emulator
 * [Gambit](https://github.com/maaslalani/gambit) - Terminal Chess
 * [Sssnake](https://github.com/AngelJumbo/sssnake) - Terminal Snake
-* [Defuse Division](https://github.com/lelandbatey/defuse_division) - Multiplayer Terminal Minesweeper
 
 ***
 
@@ -275,10 +272,9 @@
 ## ▷ Linux Internet
 
 * ⭐ **[Soulseek](https://www.slsknet.org/SoulseekQt/Linux/SoulseekQt-2018-1-30-64bit-appimage.tgz)** - File Sharing App
-* ⭐ **[TorrFlix](https://github.com/infinity-plus/TorrFlix)** - Torrent Streaming CLI
-* ⭐ **[qBittorrent](https://github.com/qbittorrent/qBittorrent/wiki/Installing-qBittorrent#linux)** / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_qbitorrent_tools), **[rTorrent](https://rakshasa.github.io/rtorrent/)** / [2](https://github.com/rakshasa/rtorrent), [BitFlu](https://bitflu.workaround.ch/), [Torrentor](https://github.com/guidopola/torrentor) or [kTorrent](https://apps.kde.org/ktorrent/) / [2](https://invent.kde.org/network/ktorrent) - Linux Torrent Clients
+* ⭐ **[qBittorrent](https://github.com/qbittorrent/qBittorrent/wiki/Installing-qBittorrent#linux)** / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_qbitorrent_tools), **[rTorrent](https://rakshasa.github.io/rtorrent/)** / [2](https://github.com/rakshasa/rtorrent), [BitFlu](https://bitflu.workaround.ch/), [kTorrent](https://apps.kde.org/ktorrent/) / [2](https://invent.kde.org/network/ktorrent) - Linux Torrent Clients
 * [RuTorrent](https://github.com/Novik/ruTorrent) or [flood](https://flood.js.org/) - RTorrent Web Frontend / [Themes](https://github.com/InAnimaTe/rutorrent-themes), [2](https://github.com/artyuum/3rd-party-ruTorrent-Themes)
-* rTorrent Tools - [Extended](https://github.com/pyroscope/rtorrent-ps) / [Tools](https://github.com/pyroscope/pyrocore) / [Mods](https://calomel.org/rtorrent_mods.html) / [All Seeders Column](https://github.com/AkdM/rutorrent-all-seeders) / [Docker Build](https://github.com/binhex/arch-rtorrentvpn)
+* rTorrent Tools - [Extended](https://github.com/pyroscope/rtorrent-ps) / [Tools](https://github.com/pyroscope/pyrocore) / [Mods](https://calomel.org/rtorrent_mods.html) / [Docker Build](https://github.com/binhex/arch-rtorrentvpn)
 * [Luakit](https://luakit.github.io/) - Lightweight Linux Browser 
 * [browsh](https://www.brow.sh/) - Text Based Browser
 * [aerc](https://aerc-mail.org/), [ElectronMail](https://github.com/vladimiry/ElectronMail) or [dodo](https://github.com/akissinger/dodo) - Email Clients
@@ -301,7 +297,6 @@
 * [yet another bench script](https://github.com/masonr/yet-another-bench-script) - Server Performance Script
 * [Bandwhich](https://github.com/imsnif/bandwhich) - Terminal Bandwidth Utilization Tool 
 * [Rang3r](https://github.com/floriankunushevci/rang3r) - IP / Port Scanner
-* [lnkr](https://github.com/naelxd/lnkr) - Link Saving TUI
 * [sttr](https://github.com/abhimanyu003/sttr) - Base64 Encryption / Decryption TUI
 * [PeerVPN](https://peervpn.net/) - P2P VPN
 * [Knapsu](https://knapsu.eu/plex/) or [Cloudbox](https://cloudbox.works/) - Media Server
@@ -461,7 +456,6 @@
 * [DPCIManager](https://github.com/MuntashirAkon/DPCIManager) - PCI Hardware Info 
 * [Clean-Me](https://kevin-de-koninck.github.io/Clean-Me/) - MacOS System Cleanup
 * [What Route](https://whatroute.net/) - Network Diagnostic Tool
-* [Windows 10 MBR](https://github.com/toru173/Windows-10-MBR-USB-Creation-Tool) or [Create Bootable](https://taig.medium.com/create-a-bootable-windows-10-usb-from-macos-395773d4782e) - Windows 10 Media Creation Tool
 * [Kexts](https://www.tonymacx86.com/resources/categories/kexts.11/) - UEFI Kexts
 * [File Find](https://gitlab.com/Pixel-Mqster/File-Find) - File Explorer / Manager
 * [Download Shuttle](https://apps.apple.com/in/app/download-shuttle-fast-file/id847809913) or [Progressive Downloader](https://macpsd.net/) - File Download Manager
