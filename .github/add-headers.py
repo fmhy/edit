@@ -49,7 +49,11 @@ headers = {
         "Video Players, Video Editors, Live Streaming, Animation",
     ],
     "Text-Tools.md": ["Text Tools", "Text Editors, Pastebins, Fonts, Translators"],
-    # "Internet-Tools.md": ["Internet Tools", "Browsers, Extensions, Search Engines"],
+    "Internet-Tools.md": ["Internet Tools", "Browsers, Extensions, Search Engines"],
+    "Social-Media-Tools.md": [
+        "Social Media Tools",
+        "Discord Tools, Reddit Tools, YouTube Tools",
+    ],
     "STORAGE.md": ["Storage", "Sections too big to fit on main pages"],
     "TorrentPiracyGuide.md": ["Torrenting", "Torrent Clients, Torrent Sites, Trackers"],
     "VideoPiracyGuide.md": [
