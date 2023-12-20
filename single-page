@@ -142,6 +142,7 @@
 * 🌐 **[Spotify Downloader Index](https://github.com/topics/spotify-downloader)**
 * ⭐ **[DoubleDouble](https://doubledouble.top/)** - Direct Downloader
 * ⭐ **[Soggfy](https://github.com/Rafiuth/Soggfy)** - Direct Downloader
+* ⭐ **[SpotifyDown](https://spotifydown.com/)** - Direct Downloader
 * [Spotify to Deezer Transfer Method](https://i.ibb.co/hC3c0Gs/69f9179b5bfe.png)
 * [Spytify](https://jwallet.github.io/spy-spotify/overview.html) - Spotify Recorder
 * [DownOnSpot](https://github.com/oSumAtrIX/DownOnSpot) - Direct Downloader
@@ -181,7 +182,7 @@
 * 🌐 **[Awesome Music Production](https://github.com/ad-si/awesome-music-production)**, [Awesome Music](https://github.com/noteflakes/awesome-music) or [AFreeStudio](https://www.afreestudio.com/) - Music Production Indexes
 * ↪️ **[AI Song Generators](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/ai#wiki_.25BA_audio_generators)**
 * ↪️ **[Remove Vocals](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_remove_vocals)**
-* [Demucs](https://github.com/adefossez/demucs) / [Colab](https://colab.research.google.com/drive/1dC9nVxk3V_VPjUADsnFu8EiT-xnU1tGH?usp=s), [Acapella-Extractor](https://www.acapella-extractor.com/), [splitmysong](https://www.splitmysong.com/), [free-music-demixer](https://freemusicdemixer.com/), [ezstems](https://ezstems.com/) or [melody ml](https://melody.ml/) - Separate Voice from Instrumentals
+* [Demucs](https://github.com/adefossez/demucs) / [Colab](https://colab.research.google.com/drive/1dC9nVxk3V_VPjUADsnFu8EiT-xnU1tGH?usp=s), [Acapella-Extractor](https://www.acapella-extractor.com/), [splitmysong](https://www.splitmysong.com/), [free-music-demixer](https://freemusicdemixer.com/), [Mikrotakt](https://mikrotakt.app/), [ezstems](https://ezstems.com/) or [melody ml](https://melody.ml/) - Separate Voice from Instrumentals
 * [Adobe Enhance](https://podcast.adobe.com/enhance) - Speech Enhancer
 * [Chowdhury DSP](https://chowdsp.com/products.html) - Audio Signal Processing
 * [AudioAlter](https://audioalter.com/preset/8d-audio) - Create '8D' Audio
