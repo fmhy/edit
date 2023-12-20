@@ -4,7 +4,7 @@
 ***
 ***
 
-**[Table of Contents](https://ibb.co/JyjZG9z)** - For mobile users
+**[Table of Contents](https://ibb.co/3B337cq)** - For mobile users
 
 ***
 ***
@@ -191,17 +191,37 @@
 
 ***
 
-## ▷ Privacy Guides
+## ▷ Privacy Indexes
 
-* ⭐ **[The Hitchhiker’s Guide](https://anonymousplanet.org/)** / [2](https://raw.githubusercontent.com/Anon-Planet/thgtoa/master/guide.md)
-* ⭐ **[Surveillance Self-Defense](https://ssd.eff.org/)**
-* ⭐ **[The New Oil](https://thenewoil.org/index.html)**
-* [Defensive Computing Checklist](https://defensivecomputingchecklist.com/)
-* [Security In A Box](https://securityinabox.org/en/)
-* [AvoidTheHack](https://avoidthehack.com/)
-* [Eldritch Data](https://eldritchdata.neocities.org/)
-* [OWASP Cheatsheet](https://cheatsheetseries.owasp.org/index.html)
-* [madaidans-insecurities](https://madaidans-insecurities.github.io/)
+* ⭐ **[Awesome Privacy](https://awesome-privacy.xyz/)** / [2](https://github.com/KevinColemanInc/awesome-privacy) / [3](https://github.com/pluja/awesome-privacy) - Privacy Tools
+* ⭐ **[Privacy Guides](https://www.privacyguides.org/)** - Privacy Tools
+* ⭐ **[Security List](https://security-list.js.org/)** - Privacy Tools
+* ⭐ **[The Hitchhiker’s Guide](https://anonymousplanet.org/)** / [2](https://raw.githubusercontent.com/Anon-Planet/thgtoa/master/guide.md) - Privacy Guide
+* ⭐ **[Surveillance Self-Defense](https://ssd.eff.org/)** - Privacy Guide
+* ⭐ **[The New Oil](https://thenewoil.org/index.html)** - Privacy Guide
+* [Defensive Computing Checklist](https://defensivecomputingchecklist.com/) - Privacy Guide
+* [Security In A Box](https://securityinabox.org/en/) - Privacy Guide
+* [AvoidTheHack](https://avoidthehack.com/) - Privacy Guide
+* [Eldritch Data](https://eldritchdata.neocities.org/) - Privacy Guide
+* [OWASP Cheatsheet](https://cheatsheetseries.owasp.org/index.html) - Privacy Guide
+* [madaidans-insecurities](https://madaidans-insecurities.github.io/) - Privacy Guide
+* [chef-koch](https://chef-koch.bearblog.dev/privacy-tools-list-by-chef-koch/) - Privacy Tools
+* [Privacy Respecting](https://github.com/nikitavoloboev/privacy-respecting) - Privacy Tools
+* [online-tools-for-the-pandemic](https://etherpad.wikimedia.org/p/online-tools-for-the-pandemic) - Privacy Tools
+* [Privacy Tools List](https://privacytoolslist.com/) - Privacy Tools
+* [Snopyta](https://snopyta.org/) - Privacy Tools
+* [Hostux](https://hostux.network/) - Privacy Tools
+* [Awesome Security](https://github.com/sbilly/awesome-security) - Privacy Tools
+* [Thunix](https://thunix.net/) - Privacy Tools
+* [Zero Data App](https://0data.app/) - Privacy Tools
+* [De-google-ify Internet](https://degooglisons-internet.org/en/alternatives/) - Privacy Tools
+* [Alternative Internet](https://github.com/redecentralize/alternative-internet) - Privacy Tools
+* [Awesome Windows Security](https://github.com/chryzsh/awesome-windows-security) - Privacy Tools
+* [Tzkuat Ressources](https://gitlab.com/tzkuat/Ressources) - Privacy Tools
+* [PrivacySavvy](https://privacysavvy.com/) - Privacy Tools
+* [awesome-humane-tech](https://codeberg.org/teaserbot-labs/delightful-humane-design) - Privacy Tools
+* [EncryptedList](https://encryptedlist.xyz/) - Privacy Tools
+* [ProductivePrivacy](https://productiveprivacy.com/) - Privacy Tools
 
 ***
 
