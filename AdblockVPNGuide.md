@@ -202,11 +202,8 @@
 * [AvoidTheHack](https://avoidthehack.com/) - Privacy Blog
 * [Privacy Tools List](https://privacytoolslist.com/) - Privacy Tools
 * [Hostux](https://hostux.network/) - Privacy Tools
+* [Alternative Internet](https://github.com/redecentralize/alternative-internet) - Collection of Decentralised Tools
 
-* [Alternative Internet](https://github.com/redecentralize/alternative-internet) - Privacy Tools
-* [Awesome Windows Security](https://github.com/chryzsh/awesome-windows-security) - Privacy Tools
-* [Tzkuat Ressources](https://gitlab.com/tzkuat/Ressources) - Privacy Tools
-* [awesome-humane-tech](https://codeberg.org/teaserbot-labs/delightful-humane-design) - Privacy Tools
 * [EncryptedList](https://encryptedlist.xyz/) - Privacy Tools
 * [ProductivePrivacy](https://productiveprivacy.com/) - Privacy Tools
 
