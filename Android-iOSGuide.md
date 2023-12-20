@@ -44,7 +44,6 @@
 * [Android1](https://an1.com/)
 * [PDALife](https://pdalife.com/)
 * [APKVision](https://apkvision.org/)
-* [TeamOS](https://www.teamos.xyz/)
 * [APK Home](https://apkhome.io/)
 * [RockMods](https://www.rockmods.net/) - [Telegram](https://t.me/RBMods)
 * [DL King](https://dl.king2net.com/soft%20android/)
