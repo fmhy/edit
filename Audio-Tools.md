@@ -142,13 +142,13 @@
 * 🌐 **[Spotify Downloader Index](https://github.com/topics/spotify-downloader)**
 * ⭐ **[DoubleDouble](https://doubledouble.top/)** - Direct Downloader
 * ⭐ **[Soggfy](https://github.com/Rafiuth/Soggfy)** - Direct Downloader
-* ⭐ **[SpotifyDown](https://spotifydown.com/)** - Direct Downloader
 * [Spotify to Deezer Transfer Method](https://i.ibb.co/hC3c0Gs/69f9179b5bfe.png)
 * [Spytify](https://jwallet.github.io/spy-spotify/overview.html) - Spotify Recorder
 * [DownOnSpot](https://github.com/oSumAtrIX/DownOnSpot) - Direct Downloader
 * [CLSpotify](https://agent255.github.io/clspotifyweb/) / [GitHub](https://github.com/agent255/clspotify) - Direct Downloader
 * [spotify_sync](https://github.com/jbh-cloud/spotify_sync) - Direct Downloader
 * [OnTheSpot](https://github.com/casualsnek/onthespot) - Direct Downloader
+* [SpotifyDown](https://spotifydown.com/) - Direct Downloader
 * [Zotify](https://zotify.xyz/zotify/zotify) - Direct Downloader
 * [Savify](https://github.com/LaurenceRawlings/savify) - YT Downloader
 * [Spotify-DL](https://github.com/SathyaBhat/spotify-dl) - YT Downloader
