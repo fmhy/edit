@@ -95,6 +95,7 @@
 ## ▷ Torrenting
 
 * [Zamunda](https://zamunda.net/) - Registration Required / Video / Audio / Books / NSFW
+* [ArenaBG](https://arenabg.com/en/) - Registration Required / Movies / TV
 
 ## ▷ Streaming
 
@@ -883,16 +884,25 @@
 ## ▷ Streaming
 
 * [Kinomoc](https://kinomoc.com/) - Movies / TV / Dub / 1080p
+* [Virpe](https://virpe.cc/) - Movies / TV
 * [cda-hd](https://cda-hd.cc/) - Movies / TV / Cartoons / Dub / 720p
 * [Zerion](https://zerion.cc/) - Movies / TV / Cartoons / Dub / 720p
+* [Zaluknji](https://zaluknij.cc/) - Movies / TV
 * [Filser](https://filser.cc/) - Movies / TV / Cartoons / Dub / 720p
+* [Bajeczki24](https://bajeczki24.pl/) - Movies / TV
 * [Vizjer](https://vizjer.pl/) - Movies / TV / Dub / 720p
 * [Zerknij](https://zerknij.tv/) - Movies / TV / Dub / 720p
+* [Obejrzyj](https://www.obejrzyj.to/) - Movies / TV
+* [ZobaczFilm](https://zobaczfilm.com/) - Movies / TV
 * [Ekino-TV](https://ekino-tv.pl/) - Movies / TV / Sub / 720p
 * [iiTV](https://iitv.info/) - TV / Cartoons / Dub / 720p
+* [Filman](https://filman.cc/) - Movies / TV
 * [Anime Odcinki](https://anime-odcinki.pl/) - Anime / Sub / 1080p
 * [Shinden](https://shinden.pl/) - Anime / Sub / 1080p / [Discord](https://discord.gg/xyH5uS6)
+* [Vestroia Kreskówki](https://vestroiakreskowki.blogspot.com/) - Cartoons
 * [Sport TVP](https://sport.tvp.pl/) - Live Sports
+* [dokumentalne](https://dokumentalne.net/) - Documentaries
+* [WFDIF](https://wfdif.online/) - Documentaries
 
 ## ▷ Reading
 
