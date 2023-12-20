@@ -98,7 +98,6 @@
 
 * 🌐 **[MDN](https://developer.mozilla.org/)** or [Web Dev Resources](https://joshjoshuap-webdevresources.vercel.app/) - Web Dev Learning Resources
 * 🌐 **[Frontend Developers](https://github.com/andrew--r/channels)** or [Web Dev / Programming YouTube Channels](https://rentry.co/cozqr) - Web Dev Youtube Channels Indexes
-* ⭐ **[The Odin Project](https://www.theodinproject.com/)** - Full Stack Course
 * ⭐ **[FullStackOpen](https://fullstackopen.com/en/)** - Full Stack Course 
 * ⭐ **[Learn to Code HTML & CSS](https://learn.shayhowe.com/)** - HTML/CSS Course
 * ⭐ **[JavaScript.info](https://javascript.info/)**, [30 Days Of JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript) or [Java5cript](https://www.java5cript.com/) - Javascript Learning Sites
