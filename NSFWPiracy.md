@@ -91,25 +91,25 @@
 
 ## ▷ Asian
 
-* ⭐ **[SexTB](https://sextb.net/)** - Japanese
-* ⭐ **[SupJav](https://supjav.com/)** - Japanese
-* ⭐ **[JAVSeen](https://javseen.tv/)** - Japanese
-* ⭐ **[JAVGG](https://javgg.net/)** - Japanese
-* ⭐ **[MissAV](https://missav.com/en)**, [myAV](https://myav.com/) or [ThisAV](https://thisav.com/) - Japanese
-* ⭐ **[JavGuru](https://jav.guru/)** - Japanese
-* [Javtiful](https://javtiful.com/) - Japanese
-* [JavHDPorn](https://www2.javhdporn.net/) - Japanese
-* [nJAV](https://njav.tv/) - Japanese 
-* [Avgle](https://avgle.com/) - Japanese
-* [Senzuri Tube](https://senzuri.tube/) - Japanese
-* [JAVMost](https://www5.javmost.com/) - Japanese
-* [Javfinder](https://javfinder.sb/) - Japanese
-* [OPJAV](https://opjav.com/) - Japanese
-* [JAV19](https://www.jav19.com/) - Japanese
-* [WatchJAVonline](https://watchjavonline.com/) - Japanese
-* [JavBangers](https://www.javbangers.com/) - Japanese
-* [JavEnglish](https://javenglish.cc/) - Japanese
-* [7MMTV](https://7mmtv.sx/) - Japanese
+* ⭐ **[SexTB](https://sextb.net/)**
+* ⭐ **[SupJav](https://supjav.com/)**
+* ⭐ **[JAVSeen](https://javseen.tv/)**
+* ⭐ **[JAVGG](https://javgg.net/)**
+* ⭐ **[MissAV](https://missav.com/en)**, [myAV](https://myav.com/) or [ThisAV](https://thisav.com/)
+* ⭐ **[JavGuru](https://jav.guru/)**
+* [Javtiful](https://javtiful.com/)
+* [JavHDPorn](https://www2.javhdporn.net/)
+* [nJAV](https://njav.tv/)
+* [Avgle](https://avgle.com/)
+* [Senzuri Tube](https://senzuri.tube/)
+* [JAVMost](https://www5.javmost.com/)
+* [Javfinder](https://javfinder.sb/) 
+* [OPJAV](https://opjav.com/)
+* [JAV19](https://www.jav19.com/)
+* [WatchJAVonline](https://watchjavonline.com/)
+* [JavBangers](https://www.javbangers.com/)
+* [JavEnglish](https://javenglish.cc/)
+* [7MMTV](https://7mmtv.sx/)
 
 ***
 
