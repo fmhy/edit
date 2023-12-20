@@ -147,7 +147,6 @@
 * 🌐 **[Awesome Cryptography](https://github.com/sobolevn/awesome-cryptography)** - Cryptography Resources
 * 🌐 **[Awesome Vehicle Security](https://github.com/jaredthecoder/awesome-vehicle-security)** - Vehicle Security Resources
 * 🌐 **[Awesome Anti Censorship](https://github.com/danoctavian/awesome-anti-censorship)**, [Your Freedom](https://www.your-freedom.net/), [Geneva](https://geneva.cs.umd.edu/), [Cloak](https://github.com/cbeuw/Cloak) or [FreeBrowser](https://freebrowser.org/) / [Wiki](https://github.com/greatfire/wiki) - Anti-Censorship Resources
-* ↪️ **[Privacy Tools / Services](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_privacy_tools)**
 * ↪️ **[SMS Verification Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_sms_verification_sites)**
 * ↪️ **[Password Data Breach Detection](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_password_data_breach_check)**
 * ↪️ **[File Encryption](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_file_encryption_tools)**
@@ -193,21 +192,15 @@
 
 ## ▷ Privacy Indexes
 
-* ⭐ **[Awesome Privacy](https://awesome-privacy.xyz/)** / [2](https://github.com/KevinColemanInc/awesome-privacy) / [3](https://github.com/pluja/awesome-privacy) - Privacy Tools
-* ⭐ **[Privacy Guides](https://www.privacyguides.org/)** - Privacy Tools
-* ⭐ **[Security List](https://security-list.js.org/)** - Privacy Tools
-* ⭐ **[The Hitchhiker’s Guide](https://anonymousplanet.org/)** / [2](https://raw.githubusercontent.com/Anon-Planet/thgtoa/master/guide.md) - Privacy Guide
-* ⭐ **[Surveillance Self-Defense](https://ssd.eff.org/)** - Privacy Guide
-* ⭐ **[The New Oil](https://thenewoil.org/index.html)** - Privacy Guide
+* ⭐ **[Awesome Privacy](https://awesome-privacy.xyz/)** / [2](https://github.com/pluja/awesome-privacy) - List of Privacy Software and Services
+* ⭐ **[Security List](https://security-list.js.org/)** - Collection of Tips and Resources for Protecting Privacy
+* ⭐ **[The Hitchhiker’s Guide](https://anonymousplanet.org/)** - Extensive Guide to Online Anonymity
+* ⭐ **[Privacy Guides](https://www.privacyguides.org/)** - Educational Guide
+* ⭐ **[Surveillance Self-Defense](https://ssd.eff.org/)** - Educational Guide
+* ⭐ **[The New Oil](https://thenewoil.org/)** - Educational Guide
 * [Defensive Computing Checklist](https://defensivecomputingchecklist.com/) - Privacy Guide
-* [Security In A Box](https://securityinabox.org/en/) - Privacy Guide
-* [AvoidTheHack](https://avoidthehack.com/) - Privacy Guide
-* [Eldritch Data](https://eldritchdata.neocities.org/) - Privacy Guide
-* [OWASP Cheatsheet](https://cheatsheetseries.owasp.org/index.html) - Privacy Guide
-* [madaidans-insecurities](https://madaidans-insecurities.github.io/) - Privacy Guide
-* [chef-koch](https://chef-koch.bearblog.dev/privacy-tools-list-by-chef-koch/) - Privacy Tools
-* [Privacy Respecting](https://github.com/nikitavoloboev/privacy-respecting) - Privacy Tools
-* [online-tools-for-the-pandemic](https://etherpad.wikimedia.org/p/online-tools-for-the-pandemic) - Privacy Tools
+* [AvoidTheHack](https://avoidthehack.com/) - Privacy Blog
+
 * [Privacy Tools List](https://privacytoolslist.com/) - Privacy Tools
 * [Snopyta](https://snopyta.org/) - Privacy Tools
 * [Hostux](https://hostux.network/) - Privacy Tools
@@ -218,7 +211,6 @@
 * [Alternative Internet](https://github.com/redecentralize/alternative-internet) - Privacy Tools
 * [Awesome Windows Security](https://github.com/chryzsh/awesome-windows-security) - Privacy Tools
 * [Tzkuat Ressources](https://gitlab.com/tzkuat/Ressources) - Privacy Tools
-* [PrivacySavvy](https://privacysavvy.com/) - Privacy Tools
 * [awesome-humane-tech](https://codeberg.org/teaserbot-labs/delightful-humane-design) - Privacy Tools
 * [EncryptedList](https://encryptedlist.xyz/) - Privacy Tools
 * [ProductivePrivacy](https://productiveprivacy.com/) - Privacy Tools
