@@ -200,14 +200,9 @@
 * ⭐ **[The New Oil](https://thenewoil.org/)** - Educational Guide
 * [Defensive Computing Checklist](https://defensivecomputingchecklist.com/) - Privacy Guide
 * [AvoidTheHack](https://avoidthehack.com/) - Privacy Blog
-
 * [Privacy Tools List](https://privacytoolslist.com/) - Privacy Tools
-* [Snopyta](https://snopyta.org/) - Privacy Tools
 * [Hostux](https://hostux.network/) - Privacy Tools
-* [Awesome Security](https://github.com/sbilly/awesome-security) - Privacy Tools
-* [Thunix](https://thunix.net/) - Privacy Tools
-* [Zero Data App](https://0data.app/) - Privacy Tools
-* [De-google-ify Internet](https://degooglisons-internet.org/en/alternatives/) - Privacy Tools
+
 * [Alternative Internet](https://github.com/redecentralize/alternative-internet) - Privacy Tools
 * [Awesome Windows Security](https://github.com/chryzsh/awesome-windows-security) - Privacy Tools
 * [Tzkuat Ressources](https://gitlab.com/tzkuat/Ressources) - Privacy Tools
