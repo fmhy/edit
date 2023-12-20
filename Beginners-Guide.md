@@ -181,10 +181,12 @@ Use [this](https://bitbucket.org/magnolia1234/bypass-paywalls-firefox-clean/src/
 
 ***
 
-### Android Piracy
+### Mobile Piracy
 
+**AdGuard Premium** - **[Android](https://forum.mobilism.org/search.php?keywords=adguard+&sr=topics&sf=titleonly) / [Blokada](https://blokada.org/)** / **[iOS](https://forum.mobilism.org/search.php?keywords=AdGuard+Pro&sr=topics&sf=titleonly)** - iOS Adblocking
+**Modded Spotify** - **[Android ](https://github.com/nbats/FMHYedit/blob/main/base64.md#modded-spotify-apk)** / **[iOS](https://github.com/nbats/FMHYedit/blob/main/base64.md#spotify)**
 **[Cromite](https://github.com/uazo/cromite) / [Firefox](https://www.mozilla.org/en-US/firefox/browsers/mobile/android/)/ [Mull](https://github.com/Divested-Mobile/Mull-Fenix) / [Kiwi](https://play.google.com/store/apps/details?id=com.kiwibrowser.browser&hl=en_US&gl=US)** - Android web browsers
-**[AdGuard Premium](https://forum.mobilism.org/search.php?keywords=adguard+&sr=topics&sf=titleonly) / [Blokada](https://blokada.org/)** - Android adblocking
+**[Brave](https://apps.apple.com/us/app/brave-private-web-browser-vpn/id1052879175)** - iOS web browser / [Improve Safari](https://hyperweb.app/)
 **[Mobilism](https://forum.mobilism.org/viewforum.php?f=398)** - Modded APKs
 **[/r/ApkApps Megathread](https://apksapps.notion.site/apksapps/096ef38f452342ba99b4e1509a449729?v=9970360b443643789c333bd2c7180009)** - Updated list of modded APKs / [Subreddit](https://www.reddit.com/r/ApksApps) / [Discord](https://discord.gg/Kr5EWKZU5Y) / [Telegram](https://t.me/joinchat/MwYScFfTq3XkY0wIEDLA3g)
 **[APKMirror](https://www.apkmirror.com/)** - Untouched APKs
@@ -193,15 +195,6 @@ Use [this](https://bitbucket.org/magnolia1234/bypass-paywalls-firefox-clean/src/
 **[Stremio](https://www.stremio.com/)** - Video streaming app / Use VPN
 **[Patch Reddit Clients](https://docs.google.com/document/u/0/d/1wHvqQwCYdJrQg4BKlGIVDLksPN0KpOnJWniT6PbZSrI/mobilebasic)** - How To Patch 3rd Party Reddit Clients
 **[ReVanced Manager](https://github.com/revanced/revanced-manager)** - Ad-free YouTube
-**[Spotify Mod](https://github.com/nbats/FMHYedit/blob/main/base64.md#modded-spotify-apk)** - Ad-free Spotify
-
-***
-
-### iOS Piracy
-
-**[Brave](https://apps.apple.com/us/app/brave-private-web-browser-vpn/id1052879175)** - iOS web browser / [Improve Safari](https://hyperweb.app/)
-**[Adguard iOS](https://forum.mobilism.org/search.php?keywords=AdGuard+Pro&sr=topics&sf=titleonly)** - iOS Adblocking
-**[Modded Spotify](https://github.com/nbats/FMHYedit/blob/main/base64.md#spotify)**, [2](https://github.com/nbats/FMHYedit/blob/main/base64.md#spotilife) - Ad-free Spotify
 **[Complete Jailbreak Chart](https://appledb.dev/)** - Jailbreaking info & tools
 
 ***
