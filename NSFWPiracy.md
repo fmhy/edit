@@ -145,11 +145,11 @@
 
 * ↪️ **[General Torrent Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent)**
 * ⭐ **[myporn.club](https://myporn.club/)**
-* ⭐ **[Nyaa Sukebei](https://sukebei.nyaa.si/)** - Japanese
-* ⭐ **[ProjectJav](https://projectjav.com/)** - Japanese
-* ⭐ **[OneJAV](https://onejav.com/)** - Japanese
-* ⭐ **[141Jav](https://www.141jav.com/)** / **[141PPV](https://www.141ppv.com/)** - Japanese
-* ⭐ **[Next JAV](https://nextjav.com/)** - Japanese
+* ⭐ **[Nyaa Sukebei](https://sukebei.nyaa.si/)** - JAV
+* ⭐ **[ProjectJav](https://projectjav.com/)** - JAV
+* ⭐ **[OneJAV](https://onejav.com/)** - JAV
+* ⭐ **[141Jav](https://www.141jav.com/)** / **[141PPV](https://www.141ppv.com/)** - JAV
+* ⭐ **[Next JAV](https://nextjav.com/)** - JAV
 * [XXXCLub](https://xxxclub.to/) or [NoisyBoY (Mirror)](https://torrentgalaxy.to/profile/NoisyBoY)
 * [Sexy-Pics](https://www.sexy-pics.us/)
 * [色花堂-98堂](https://www.sehuatang.net/)
@@ -157,11 +157,11 @@
 * [PornoLab](https://pornolab.net/forum/index.php)
 * [LoveTorrent](https://lovetorrent.net/), [2](https://5pornotorrent.net/)
 * [PornRips](https://pornrips.to/) - HEVC Porn Rips
-* [JavBus](https://www.javbus.com/en) - Japanese
-* [Tokyo Tosho](https://tokyo-tosho.net/) - Japanese
-* [JAVdb](https://javdb.com/) - Japanese
-* [My JAV Bay](https://myjavbay.com/) - Japanese
-* [JAVJunkies](https://javjunkies.org/main/) - Japanese
+* [JavBus](https://www.javbus.com/en) - JAV
+* [Tokyo Tosho](https://tokyo-tosho.net/) - JAV
+* [JAVdb](https://javdb.com/) - JAV
+* [My JAV Bay](https://myjavbay.com/) - JAV
+* [JAVJunkies](https://javjunkies.org/main/) - JAV
 * [Cheggit](https://www.cheggit.me/register.php), [BitSexy](https://bitsexy.org/signup.php) or [HappyFappy](https://www.happyfappy.org/users/register) - Private Trackers / Open-Signups
 * [srrXXX](https://www.srrxxx.com/) - Scene Release Tracker
 
