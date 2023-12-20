@@ -4,7 +4,7 @@
 ***
 ***
 
-**[Table of Contents](https://ibb.co/pvHJV77)** - For mobile users
+**[Table of Contents](https://ibb.co/vPzSzTJ)** - For mobile users
 
 ***
 ***
@@ -1070,17 +1070,6 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://70.88.180.169:8
 ⭐ **[PROXY List](https://github.com/TheSpeedX/PROXY-List)**
 
 [Free-Proxy-List](https://free-proxy-list.net/), [Proxy-Daily](https://proxy-daily.com/), [Cool-Proxy](https://www.cool-proxy.net/), [Proxy4Parsing](https://github.com/proxy4parsing) / [Telegram](https://t.me/proxy4parsing), [OpenProxyList](https://github.com/roosterkid/openproxylist), [ProxyScrape](https://www.proxyscrape.com/free-proxy-list), [proxy-list](https://github.com/mmpx12/proxy-list), [hide.my proxy list](https://hidemy.name/en/proxy-list/), [FreeProxyLists](https://www.freeproxylists.net/), [ProxyNations](https://www.proxynations.com/), [spys.one](https://spys.one/en/free-proxy-list/), [cyber-gateway](https://cyber-gateway.net/get-proxy/free-proxy), [ree-proxy-list](https://free-proxy-list.net/web-proxy.html), [geonode](https://geonode.com/free-proxy-list/), [web-proxylist](http://free-proxy.cz/en/web-proxylist), [freeproxyupdate](https://freeproxyupdate.com/), [proxypedia](https://proxypedia.org), [proxydocker](https://www.proxydocker.com/en/proxylist/), [proxyhub](https://proxyhub.me/), [proxy-list](https://proxy-list.download/), [free-proxy-list](https://free-proxy-list.com/), [proxydb](https://proxydb.net/), [premiumproxy](https://premiumproxy.net/), [proxyservers](https://proxyservers.pro/), [advanced.name](https://advanced.name/freeproxy), [monosans list](https://github.com/monosans/proxy-list), [jetkai list](https://github.com/jetkai/proxy-list), [megaproxylist](https://www.megaproxylist.net/), [freeproxy](https://freeproxy.world/)
-
-***
-
-## Privacy Tools
-
-* ⭐ **[Awesome Privacy](https://awesome-privacy.xyz/)** / [2](https://github.com/KevinColemanInc/awesome-privacy) / [3](https://github.com/pluja/awesome-privacy)
-* ⭐ **[Privacy Guides](https://www.privacyguides.org/)**
-* ⭐ **[Security List](https://security-list.js.org/)**
-* [chef-koch](https://chef-koch.bearblog.dev/privacy-tools-list-by-chef-koch/) / [2](https://gitlab.com/ck-s-technology-news/privacy-tools-list-by-cktn) / [3](https://gitlab.com/CHEF-KOCH/privacy-tools-list-by-chef-koch) / [4](https://github.com/CKs-Technology-News/PrivacyTools)
-
-[Privacy Respecting](https://github.com/nikitavoloboev/privacy-respecting), [online-tools-for-the-pandemic](https://etherpad.wikimedia.org/p/online-tools-for-the-pandemic), [Privacy Tools List](https://privacytoolslist.com/), [Snopyta](https://snopyta.org/), [Hostux](https://hostux.network/), [Awesome Security](https://github.com/sbilly/awesome-security), [Thunix](https://thunix.net/), [Zero Data App](https://0data.app/), [De-google-ify Internet](https://degooglisons-internet.org/en/alternatives/), [Alternative Internet](https://github.com/redecentralize/alternative-internet), [Awesome Windows Security](https://github.com/chryzsh/awesome-windows-security), [Tzkuat Ressources](https://gitlab.com/tzkuat/Ressources), [PrivacySavvy](https://privacysavvy.com/), [awesome-humane-tech](https://codeberg.org/teaserbot-labs/delightful-humane-design), [EncryptedList](https://encryptedlist.xyz/), [ProductivePrivacy](https://productiveprivacy.com/)
 
 ***
 
