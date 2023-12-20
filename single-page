@@ -1331,7 +1331,6 @@
 
 ## ▷ File Explorers
 
-* ⭐ **[Everything](https://voidtools.com/)**
 * [Xplorer](https://xplorer.space/) - [Github](https://github.com/kimlimjustin/xplorer) / [Discord](https://discord.com/invite/MHGtSWvfUS)
 * [TablacusExplorer](https://tablacus.github.io/explorer_en.html) - [GitHub](https://github.com/tablacus/TablacusExplorer)
 * [WinFile](https://github.com/microsoft/winfile) or [FileSearchEX](https://goffconcepts.com/products/filesearchex/download.html) - Original Windows File Manager
@@ -1339,34 +1338,40 @@
 * [Total Commander](https://www.ghisler.com/)
 * [OldNewExplorer](https://www.majorgeeks.com/files/details/oldnewexplorer.html)
 * [Q-Dir](https://www.softwareok.com/?seite=Freeware/Q-Dir)
-* [dnGrep](https://dngrep.github.io/)
 * [Sigma](https://github.com/aleksey-hoffman/sigma-file-manager)
 * [Quick Access Popup](https://www.quickaccesspopup.com/)
 * [One Commander](https://www.onecommander.com/)
 * [FileExplorer](https://github.com/omeryanar/FileExplorer)
 * [Free Commander](https://freecommander.com/)
-* [Spyglass](https://github.com/spyglass-search/spyglass)
 * [Better Explorer](https://gainedge.org/better-explorer)
 * [Explorer++](https://explorerplusplus.com/)
-* [FluentSearch](https://fluentsearch.net/)
-* [tere](https://github.com/mgunyho/tere)
-* [DocFetcher](https://docfetcher.sourceforge.net/)
-* [fselect](https://github.com/jhspetersson/fselect)
 * [ExplorerEx](https://github.com/DearVa/ExplorerEx)
+* [Spyglass](https://github.com/spyglass-search/spyglass)
 * [FarmManager](https://www.farmanager.com/)
-* [fd](https://github.com/sharkdp/fd)
-* [Orange](https://github.com/naaive/orange)
 * [Files](https://files.community/)
-* [sist2](https://github.com/simon987/sist2)
 * [MUCommander](https://www.mucommander.com/)
 * [AlTap](https://www.altap.cz/)
-* [AstroGrep](https://sourceforge.net/projects/astrogrep/)
 * [DoubleCMD](https://github.com/doublecmd/doublecmd)
 * [ExplorerPatcher](https://github.com/valinet/ExplorerPatcher)
 * [ChromaFiler](https://chroma.zone/chromafiler/)
 * [Vifm](https://vifm.info/)
 * [Organize](https://github.com/tfeldmann/organize) - Automated File Manager
 * [TrayDir](https://github.com/SamuelSVD/TrayDir) - System Tray File Manager
+
+***
+
+## ▷ File Searching
+
+* ⭐ **[Everything](https://voidtools.com/)**
+* [dnGrep](https://dngrep.github.io/)
+* [Spyglass](https://github.com/spyglass-search/spyglass)
+* [FluentSearch](https://fluentsearch.net/)
+* [DocFetcher](https://docfetcher.sourceforge.net/)
+* [fselect](https://github.com/jhspetersson/fselect)
+* [fd](https://github.com/sharkdp/fd)
+* [Orange](https://github.com/naaive/orange)
+* [sist2](https://github.com/simon987/sist2)
+* [AstroGrep](https://sourceforge.net/projects/astrogrep/)
 
 ***
 
