@@ -543,7 +543,7 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://70.88.180.169:8
 
 ## FMovies Clones
 
-* [FlixHQ](https://flixhq.ru/), [2](https://flixhq.pro/)
+* [FlixHQ](https://flixhq.id/)
 * [FBox](https://fbox.to/)
 * [HuruWatch](https://hurawatch.at/)
 * [Movies7](https://movies7.to/), [2](https://www2.movies7.to/)
@@ -1233,6 +1233,7 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://70.88.180.169:8
 * https://www3.himovies.to/
 * https://solarmovies.win/
 * https://www2.6movies.net/
+* https://gomovies.sx/
 * https://www2.movieorca.com/
 * https://xmovies8.fun/
 * https://swatchseries.is/
