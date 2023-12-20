@@ -867,10 +867,9 @@
 
 ***
 
-
 # ► Polish
 
-* [FilmPolski](https://filmpolski.pl/fp/index.php) - Polish Video Archive
+* [Napisy24](https://napisy24.pl/), [GrupaHatak](https://grupahatak.pl/) or [KickAssSubtitles](https://kickasssubtitles.com/pl)
 
 ## ▷ Downloading
 
@@ -883,6 +882,7 @@
 
 ## ▷ Streaming
 
+* [FilmPolski](https://filmpolski.pl/fp/index.php) - Polish Video Archive
 * [Kinomoc](https://kinomoc.com/) - Movies / TV / Dub / 1080p
 * [Virpe](https://virpe.cc/) - Movies / TV
 * [cda-hd](https://cda-hd.cc/) - Movies / TV / Cartoons / Dub / 720p
@@ -900,6 +900,7 @@
 * [Anime Odcinki](https://anime-odcinki.pl/) - Anime / Sub / 1080p
 * [Shinden](https://shinden.pl/) - Anime / Sub / 1080p / [Discord](https://discord.gg/xyH5uS6)
 * [Vestroia Kreskówki](https://vestroiakreskowki.blogspot.com/) - Cartoons
+* [Mikog](https://mikog.pl/) - Cartoons
 * [Sport TVP](https://sport.tvp.pl/) - Live Sports
 * [dokumentalne](https://dokumentalne.net/) - Documentaries
 * [WFDIF](https://wfdif.online/) - Documentaries
