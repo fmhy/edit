@@ -54,7 +54,7 @@
 * [Win10Debloat](https://github.com/Raphire/Win10Debloat) - Debloater
 * [Adobe Debloater](https://github.com/FlickyOs/Adobe-Debloater) - Debloat Adobe Apps
 * [CCStopper](https://github.com/eaaasun/CCStopper) - Stop Background Adobe Apps
-* [JunkCtrl](https://github.com/builtbybel/JunkCtrl/) or [BloatyNosy](https://github.com/builtbybel/BloatyNosy) - Windows 11 Debloaters
+* [BloatyNosy](https://github.com/builtbybel/BloatyNosy) - Windows 11 Debloaters
 
 ***
 
@@ -379,7 +379,7 @@
 
 * [MagNumDB](https://www.magnumdb.com/), [ErrorLookup](https://github.com/henrypp/errorlookup) or [Microsoft Error Lookup](https://learn.microsoft.com/en-us/windows/win32/debug/system-error-code-lookup-tool) - Windows Debugging Tools
 * [/r/TechSupport](https://www.reddit.com/r/techsupport/) / [Wiki](https://rtech.support/) / [Discord](https://discord.gg/2EDwzWa) - Tech Support Subreddit
-* [Windows 10 Forums](https://www.windowsphoneinfo.com/), [SevenForums](https://www.sevenforums.com/), [MSFN](https://msfn.org/board/), [Hardforum](https://hardforum.com/), [VinaFix](https://vinafix.com/) or [TechSupportForum](https://www.techsupportforum.com/) - Tech Support Forums
+* [Windows 10 Forums](https://www.windowsphoneinfo.com/), [SevenForums](https://www.sevenforums.com/), [Hardforum](https://hardforum.com/), [VinaFix](https://vinafix.com/) or [TechSupportForum](https://www.techsupportforum.com/) - Tech Support Forums
 * [Medicat USB](https://medicatusb.com/) - Diagnostic and Recovery Toolkit
 * [MemTest](https://www.memtest.org/) - Memory Diagnostic Tool
 * [NotMyFault](https://learn.microsoft.com/en-us/sysinternals/downloads/notmyfault) - Driver / Hardware Problem Identification Tool
