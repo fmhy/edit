@@ -20,12 +20,10 @@
 * [PolicyPlus](https://github.com/Fleex255/PolicyPlus) - Local Group Policy Editor
 * [PowerPlanSwitcher](https://www.microsoft.com/en-us/p/powerplanswitcher/9nblggh556l3) - Quickly Change Power Schemes
 * [Scheduler](https://www.splinterware.com/products/scheduler.html) or [TaskRunner](https://www.keyefficiency.com/) - System Task Scheduler
-* [TaskExplorer](https://github.com/DavidXanatos/TaskExplorer) - Task Manager
-* [Process Explorer](https://learn.microsoft.com/en-us/sysinternals/downloads/process-explorer), [SystemExplorer](https://systemexplorer.net/) or [Process Hacker](https://processhacker.sourceforge.io/) - Process Monitors
+* [Process Explorer](https://learn.microsoft.com/en-us/sysinternals/downloads/process-explorer) or [Process Hacker](https://processhacker.sourceforge.io/) - Process Monitors
 * [SuperF4](https://stefansundin.github.io/superf4/), [KillProcess](https://www.tgmdev.be/applications/killprocess/killprocess.php) or [FKill](https://github.com/sindresorhus/fkill-cli) - Process Killers
 * [Dependencies](https://github.com/lucasg/Dependencies) - View Application Dependencies
 * [RegExp](https://github.com/zodiacon/TotalRegistry), [ripgrep-all](https://github.com/phiresky/ripgrep-all) or [Registry-Finder](https://registry-finder.com/) - Registry Explorers
-* [Revertservice](https://revertservice.com/) - Default Windows Services Config
 * [OfflineInsiderEnroll](https://github.com/abbodi1406/offlineinsiderenroll) - Enable Windows Insider without Account
 * [OpenHab](https://www.openhab.org/) - Home Automation / [Setup](https://github.com/openhab/openhabian) / [Mobile](https://github.com/openhab/openhab-android)
 * [Google Assistant Desktop Client](https://github.com/Melvin-Abraham/Google-Assistant-Unofficial-Desktop-Client) or [Home Assistant](https://www.home-assistant.io/) - Home Assistant Client / [GUI](https://github.com/LAB02-Research/HASS.Agent)
@@ -118,6 +116,7 @@
 * [SystemNightware](https://github.com/GossiTheDog/SystemNightmare) - Instant System Command Prompt
 * [Starship](https://starship.rs/) - Cross-Shell Prompt
 * [GNU Parallelel](https://www.gnu.org/software/parallel/) - Execute Commands / Scripts in Parallel using Multiple Computers
+* [Command Not Found](https://command-not-found.com/) - Install Missing Commands
 * [Nushell](https://www.nushell.sh/) - Alt Shell
 * [GSudo](https://github.com/gerardog/gsudo) - Sudo Alternative for Windows
 
@@ -294,6 +293,7 @@
 * [EIZO](https://www.eizo.be/monitor-test/), [Monitor](https://www.monitortests.com/) or [LCDTech](https://lcdtech.info/en/tests/) - Monitor Performance Tests
 * [TestUFO](https://www.testufo.com/) - Monitor Framerate Test
 * [LittleBigMouse](https://github.com/mgth/LittleBigMouse) - DPI Test
+* [Scalizer](https://github.com/wonmor/Scalizer-Windows) - Auto DPI Scaling / [YouTube](https://youtu.be/f_3XWlmyat4)
 * [ICM](https://rentry.co/ICM) or [ICC Profiles](https://tftcentral.co.uk/articles/icc_profiles) - ICC Profiles and Monitor Calibration
 * [Dimmer](https://www.nelsonpires.com/software/dimmer) or [Monitorian](https://github.com/emoacht/Monitorian) - Multi-Monitor Brightness Control
 * [Twinkle Tray](https://twinkletray.com/) - System Tray Brightness Slider
@@ -353,7 +353,6 @@
 * ⭐ **[KMS_VL_ALL_AIO](https://github.com/abbodi1406/KMS_VL_ALL_AIO)**
 * [MyDigitalLife](https://forums.mydigitallife.net/)
 * [CMWTAT_Digital_Edition](https://github.com/TGSAN/CMWTAT_Digital_Edition)
-* [HEU_KMS](https://github.com/zbezj/HEU_KMS_Activator)
 * [EzWindSLIC](https://github.com/Dir3ctr1x/EzWindSLIC) (Vista/7/Server 2008)
 * [OfficeRTool](https://forums.mydigitallife.net/threads/how-to-support-chat-office-c2r-download-install-activation.62571/) - Office 2016 Activation
 * [Office Activation Fix](https://massgrave.dev/office-license-is-not-genuine.html)
@@ -380,20 +379,14 @@
 * [MagNumDB](https://www.magnumdb.com/), [ErrorLookup](https://github.com/henrypp/errorlookup) or [Microsoft Error Lookup](https://learn.microsoft.com/en-us/windows/win32/debug/system-error-code-lookup-tool) - Windows Debugging Tools
 * [/r/TechSupport](https://www.reddit.com/r/techsupport/) / [Wiki](https://rtech.support/) / [Discord](https://discord.gg/2EDwzWa) - Tech Support Subreddit
 * [Windows 10 Forums](https://www.windowsphoneinfo.com/), [SevenForums](https://www.sevenforums.com/), [Hardforum](https://hardforum.com/), [VinaFix](https://vinafix.com/) or [TechSupportForum](https://www.techsupportforum.com/) - Tech Support Forums
-* [Medicat USB](https://medicatusb.com/) - Diagnostic and Recovery Toolkit
 * [MemTest](https://www.memtest.org/) - Memory Diagnostic Tool
-* [NotMyFault](https://learn.microsoft.com/en-us/sysinternals/downloads/notmyfault) - Driver / Hardware Problem Identification Tool
 * [Windows Repair Toolbox](https://windows-repair-toolbox.com/) - Multi-Tool Repair App
-* [Boot Failure Troubleshooting Chart](https://i.ibb.co/d2GSKf7/624c64629e27.png) - Boot Failure Troubleshooting Guide
 * [OpenBoardData](https://openboarddata.org/) - Board Repair Data
-* [SARDU](https://www.sarducd.it/) - Create Recovery USB Flash Drive or Disk
 * [Magic Trace](https://github.com/janestreet/magic-trace) - Diagnose Performance Issues using Intel Processor Trace
-* [Command Not Found](https://command-not-found.com/) - Install Missing Commands
 * [Intel BIOS Guide](https://docs.google.com/document/d/1s43_3YGJIy3zs0ZIksoOmxgrDKnu4ZNhhnXW_NiJZ0I/edit) - Intel BIOS Settings Explanation
 * [BiOSBug](https://www.biosbug.com/) - Remove / Reset BiOS Password / [Tutorial](https://www.youtube.com/watch?v=GolIjI2HS5w)
-* [hashcat](https://hashcat.net/hashcat/) / [Guide](https://samsclass.info/123/proj14/123p12winhash.htm) or [BIOS-PW](https://bios-pw.org/) - System Password Recovery Tools
-* [GetHuman](https://gethuman.com/) or [ContactFound](https://contactfound.com/) - Tech Support Numbers
-* [WhyNotWin11](https://github.com/rcmaehl/WhyNotWin11) or [ReadySunValley](https://github.com/builtbybel/ReadySunValley) - Identify why your PC isn't Windows 11 ready
+* [BIOS-PW](https://bios-pw.org/) - System Password Recovery Tools
+* [PC Health Check](https://aka.ms/GetPCHealthCheckApp), [WhyNotWin11](https://github.com/rcmaehl/WhyNotWin11) or [ReadySunValley](https://github.com/builtbybel/ReadySunValley) - Identify why your PC isn't Windows 11 ready
 
 ***
 
