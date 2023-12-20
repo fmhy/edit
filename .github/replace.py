@@ -161,6 +161,11 @@ def replace_pages(text):
         text,
     )
     text = re.sub(
+        "https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/social-media",
+        "/social-media-tools",
+        text,
+    )
+    text = re.sub(
         "https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools",
         "/text-tools",
         text,
