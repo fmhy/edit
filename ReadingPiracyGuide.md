@@ -138,7 +138,7 @@
 * [/r/FreeEBOOKS](https://reddit.com/r/FreeEBOOKS)
 * [/r/KindleFreebies](https://reddit.com/r/KindleFreebies/)
 * [WorldCat](https://www.worldcat.org/) or [TRL](https://www.trl.org/) - Search Local Libraries / [Extension](https://www.libraryextension.com/)
-* [Nexus Bot](https://t.me/nexus_search/84) - Create your own TG Book Bot / [Guide](https://youtu.be/i9TNgb9pjV8)
+* [Nexus Bot](https://t.me/science_nexus_bot) / [2](https://libstc.cc/#/help) - Create your own TG Book Bot / [Twitter](https://twitter.com/the_superpirate) / [Mastadon](https://kolektiva.social/@the_superpirate) / [Guide](https://youtu.be/i9TNgb9pjV8)
 
 ***
 
@@ -552,7 +552,6 @@
 * [SSRN](https://www.ssrn.com/) - Early Stage Research Papers
 * [CensorBib](https://censorbib.nymity.ch/) or [censoredplanet.org](https://censoredplanet.org/) - Internet Censorship Research Papers
 * [Connected Papers](https://www.connectedpapers.com/) or [LitMaps](https://app.litmaps.co/) - Find Connected Academic Papers
-* [Nexus Bot](https://t.me/science_nexus_bot) - Research Papers / [Twitter](https://twitter.com/the_superpirate) / [Mastadon](https://kolektiva.social/@the_superpirate)
 * [TTS Paper](https://github.com/coqui-ai/TTS-papers) - Text to Speech Papers
 
 ***
