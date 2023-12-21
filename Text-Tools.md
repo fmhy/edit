@@ -260,19 +260,17 @@
 ***
 
 ## ▷ Online Editors
-
-* [Google keep](https://www.google.com/keep/)
+* ⭐ **[takenote](https://takenote.dev/)** - Opensource Text Editor and Notes Organizer [Saves notes on your Device]
+* ⭐ **[WriteXO](https://writexo.com/)** - Minimal Text Editor [Saves notes on clearnet] 
+* ⭐ **[Zen](https://zen.unit.ms/)** - Minimal Text Editor [Saves notes on your Device]
 * [TextSlave](https://www.textslave.com/)
 * [Text Mechanic](https://textmechanic.com/)
 * [GhostText](https://ghosttext.fregante.com/)
 * [MemOnNotepad](https://www.memonotepad.com/)
-* [Zen](https://zen.unit.ms/) 
 * [NimbleText](https://nimbletext.com/Live)
-* [WriteXO](https://writexo.com/)
 * [Browserpad](https://browserpad.org/)
 * [Shrib](https://shrib.com/)
 * [Notepad](https://notepad.js.org/)
-* [takenote](https://takenote.dev/)
 * [onlinenotepad](https://onlinenotepad.org/)
 * [notepad-online.net](https://notepad-online.net/)
 * [AnyTextEditor](https://anytexteditor.com/)
