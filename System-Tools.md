@@ -89,7 +89,7 @@
 
 ***
 
-## Package Managers
+## ▷ Package Managers
 
 * ⭐ **[Scoop](https://scoop.sh/)**
 * ⭐ **[Ninite](https://ninite.com/)**

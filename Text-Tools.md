@@ -213,7 +213,7 @@
 
 ***
 
-## Typing Lessons
+## ▷ Typing Lessons
 
 * ⭐ **[Monkey Type](https://monkeytype.com/)** - Customizable Typing Tests
 * [keybr](https://www.keybr.com/) - Typing Tests 
@@ -303,7 +303,7 @@
 
 ***
 
-## Text / Code Collaboration
+## ▷ Text / Code Collaboration
 
 * ⭐ **[Google Colaboratory](https://colab.research.google.com/)**
 * ⭐ **[Google Docs](https://www.google.com/docs/about/)**

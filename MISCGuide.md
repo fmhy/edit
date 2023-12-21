@@ -582,7 +582,7 @@
 
 ***
 
-## Resume Makers
+## ▷ Resume Makers
 
 * ⭐ **[Resume Guide](https://hwpi.harvard.edu/files/ocs/files/hes-resume-cover-letter-guide.pdf)**, [CareerCup](https://www.careercup.com/resume) or [Masters](https://hwpi.harvard.edu/files/ocs/files/masters_resume_cover_letters.pdf) - Resume / Cover Letter Guides
 * ⭐ **[KickResume](https://www.kickresume.com/en/help-center/resume-samples/)** or [ThisResumeDoesNotExist](https://thisresumedoesnotexist.com/) - Resume Samples
