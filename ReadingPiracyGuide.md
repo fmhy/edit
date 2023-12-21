@@ -1074,8 +1074,8 @@
 * ⭐ **[papeer](https://papeer.tech/)** or [epub-creator](https://github.com/NiklasGollenstede/epub-creator) - Webpage to EPUB Converter
 * [ebook-converter-bot](https://github.com/yshalsager/ebook-converter-bot) - Telegram Ebook Converter
 * [CrowBook](https://github.com/lise-henry/crowbook) - Markdown to EPUB Converter
-* [AudioBookConverter](https://github.com/yermak/AudioBookConverter), [Audible Tools](https://audible-tools.kamsker.at/) or [AaxAudioConverter](https://github.com/audiamus/AaxAudioConverter) - Audiobook Converters
-* [Libation](https://getlibation.com/) - Remove DRM from Audible Audiobooks
+* [AudioBookConverter](https://github.com/yermak/AudioBookConverter) - Audiobook Converter
+* [Audible Tools](https://audible-tools.kamsker.at/), [AaxAudioConverter](https://github.com/audiamus/AaxAudioConverter) or [Libation](https://getlibation.com/) - Remove DRM from Audible Audiobooks
 * [Libby](https://libbyapp.com/) - Library Search / [Downloader](https://github.com/bookbonobo/libby-download-extension)
 * [How-to Get Library Card Online](https://rentry.co/9b3vdo)
 * [BookInfo](https://lordgnomembe.github.io/BookInfo/) - Get Book Info via ISBN
