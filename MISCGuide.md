@@ -126,7 +126,6 @@
 * [Recipe Search](https://recipe-search.typesense.org/) - Recipe Search
 * [RecipeRadar](https://www.reciperadar.com/) - Recipe Search
 * [Yummly](https://www.yummly.com/) - Recipe Search
-* [BabaSelo](https://www.babaselo.com/), [LetsFoodie](https://letsfoodie.com/ai-recipe-generator/) or [ChefGPT](https://www.chefgpt.xyz/) - AI Recipe Generators
 * [Recipeeper](https://www.recipeeper.com/) - Dietary Based Recipes
 * [TasteAtlas](https://www.tasteatlas.com/) - Recipe Map
 * [CookingForEngineers](https://www.cookingforengineers.com/) - Recipes / Cooking Tests
