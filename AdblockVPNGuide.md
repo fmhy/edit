@@ -4,7 +4,7 @@
 ***
 ***
 
-**[Table of Contents](https://ibb.co/JBgCD2p)** - For mobile users
+**[Table of Contents](https://ibb.co/WvhjyKV)** - For mobile users
 
 ***
 ***
@@ -108,7 +108,6 @@
 * [EsetKeyRobot](https://t.me/EsetKeyRobot) - ESET Keys Generator
 * [Emergency Kit](https://www.emsisoft.com/en/home/emergencykit/) - No Install Required Antivirus
 * [Should I Remove It?](https://www.shouldiremoveit.com/) - Easily Find & Remove Adware, Spyware etc.
-* [Spybot](https://www.safer-networking.org/products/spybot-free-edition/) or [SUPERAntiSpyware](https://www.superantispyware.com/free-edition.html) - Spyware Scanners
 * [VT4Browsers](https://support.virustotal.com/hc/en-us/articles/115002700745-Browser-Extensions) - Easily Scan Downloads
 * [Safety Scanner](https://docs.microsoft.com/en-us/windows/security/threat-protection/intelligence/safety-scanner-download) - Malware Remover
 * [Al-Khaser](https://github.com/LordNoteworthy/al-khaser) - Anti-Malware Stress Test
@@ -206,7 +205,7 @@
 
 ***
 
-## Antispy Tools
+## ▷ Antispy Tools
 
 * ⭐ **[Privacy.Sexy](https://privacy.sexy/)** - Privacy Scripts 
 * [ShutUp10](https://www.oo-software.com/en/shutup10)
@@ -215,6 +214,7 @@
 * [Manage connection endpoints](https://learn.microsoft.com/en-us/windows/privacy/manage-windows-11-endpoints)
 * [Manage Microsoft Services connection endpoints](https://learn.microsoft.com/en-us/windows/privacy/manage-connections-from-windows-operating-system-components-to-microsoft-services)
 * [private-secure-windows](https://github.com/troennes/private-secure-windows)
+* [Spybot](https://www.safer-networking.org/products/spybot-free-edition/) or [SUPERAntiSpyware](https://www.superantispyware.com/free-edition.html) - Spyware Scanners
 
 ***
 
