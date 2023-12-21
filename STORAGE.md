@@ -1494,15 +1494,6 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://70.88.180.169:8
 
 [iFiction](https://www.ifiction.org/) (Index), [IFDB](https://ifdb.org/) (Index), [Ifarchive](https://ifarchive.org/if-archive/games/) (drive), [Pac-Txt](http://www.pactxt.com/), [AI Dungeon](https://play.aidungeon.io/main/landing), [A Dark Room](https://adarkroom.doublespeakgames.com/), [The Never Ending Quest](https://www.sir-toby.com/extend-a-story/story-1/code/read.php), [The Text Adventure](https://kevan.org/wikitext/), [Seedship](https://philome.la/johnayliff/seedship/play/index.html), [TextAventures](http://textadventures.co.uk/), [Crank](https://faedine.com/games/crank/b39/), [Umbra](https://umbra.avalon-rpg.com/), [Web Adventures](https://www.web-adventures.org/), [WrittenRealms](https://writtenrealms.com/), [MUDII](http://www.mudii.co.uk/), [doublespeak](https://doublespeak.chat/), [Genesis](https://www.genesismud.org/), [Fateful Quest](https://fateful.quest/)
 
-***
-
-## Text / Code Collaboration
-
-* ⭐ **[Google Colaboratory](https://colab.research.google.com/)**
-* ⭐ **[Google Docs](https://www.google.com/docs/about/)**
-* ⭐ **[CryptPad](https://cryptpad.fr/)**
-
-[Mattermost](https://mattermost.com/), [HackMD](https://hackmd.io/), [Taskade](https://www.taskade.com/), [Socket](https://socket.io/), [Whimsical](https://whimsical.com/), [Firepad](https://firepad.io/), [Etherpad](https://etherpad.org/), [FidusWriter](https://www.fiduswriter.org/), [overleaf](https://www.overleaf.com/), [RustPad](https://github.com/ekzhang/rustpad)
 
 ***
 
@@ -1546,19 +1537,6 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://70.88.180.169:8
 * https://t.me/TorrentBots (List)
 * https://t.me/TorrentLeechingGroup (list)
 * https://t.me/MirrorBots (list)
-
-***
-
-## Typing Lessons
-
-* ⭐ **[Monkey Type](https://monkeytype.com/)** - Customizable Typing Tests
-* [keybr](https://www.keybr.com/), [Typing.com](https://www.typing.com/), [Typing Club](https://www.typingclub.com/) or [typing.academy](https://www.typing.academy/) - Typing Tests
-* [TypeRacer](https://play.typeracer.com/), [ZType](https://zty.pe/) or [TypeRush](https://www.typerush.com/) - Typing Games
-* [Ttyper](https://github.com/max-niederman/ttyper) or [TermTyper](https://github.com/kraanzu/termtyper) - Terminal Typing Tests
-* [TypeLit.io](https://www.typelit.io/) - Book Typing Tests
-* [Colemak Academy](https://www.colemak.academy/) - Alt / Custom Keyboard Tests
-* [klavaro](https://klavaro.sourceforge.io/), [TypingStudy](https://www.typingstudy.com/) or [TypeFast](https://typefast.io/) - Multilingual Typing Tests
-* [10fastfingers](https://10fastfingers.com/) - Typing Competitions
 
 ***
 
