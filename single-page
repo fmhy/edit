@@ -9792,7 +9792,6 @@
 
 ## ▷ Privacy Extensions
 
-* ⭐ **[ClearURLs](https://docs.clearurls.xyz)**, [Link Cleaner](https://mybrowseraddon.com/link-cleaner.html), [dont-track-me-google](https://github.com/Rob--W/dont-track-me-google) or [Link Sanitizer](https://greasyfork.org/en/scripts/374699-link-sanitizer) - Remove Tracking Elements from URLs
 * [CRXcavator](https://crxcavator.io/) - Check Browser Extension Security
 * [File Guard](https://mybrowseraddon.com/file-encryptor.html) - File Encryption / Decryption
 * [TrackMeNot](https://www.trackmenot.io/) - Tracking Protection
@@ -9802,11 +9801,12 @@
 * [Location Guard](https://pastebin.com/n20LcQSM) - Hide Browsers Geolocation
 * [Language Switch](https://addons.mozilla.org/en-US/firefox/addon/languageswitch/) - Change Language Identifier
 * [HTTP Tracker](https://github.com/venukbh/http-tracker) - Track Network on Browser
+* [ClearURLs](https://docs.clearurls.xyz), [Link Cleaner](https://mybrowseraddon.com/link-cleaner.html), [dont-track-me-google](https://github.com/Rob--W/dont-track-me-google) or [Link Sanitizer](https://greasyfork.org/en/scripts/374699-link-sanitizer) - Remove Tracking Elements from URLs
 * [Twitter Direct](https://greasyfork.org/en/scripts/404632) - Removes t.co Tracking from Twitter
 * [chrome-utm-stripper](https://github.com/jparise/chrome-utm-stripper) - Remove Tracking Tokens
 * [SocialSharePrivacy](https://panzi.github.io/SocialSharePrivacy/) - Turn Off Social Sharing Buttons
 * [Spoof Timezone](https://add0n.com/spoof-timezone.html) - Hide Real Timezone
-* [UglyEmail](https://uglyemail.com/) or [PixelBlock](https://chrome.google.com/webstore/detail/pixelblock/jmpmfcjnflbcoidlgapblgpgbilinlem/) - Block Email Trackers 
+* [UglyEmail](https://uglyemail.com/) or [PixelBlock](https://chrome.google.com/webstore/detail/pixelblock/jmpmfcjnflbcoidlgapblgpgbilinlem/) - Block Email Trackers
 * [FlowCrypt](https://flowcrypt.com/) - Gmail Encryption
 * [Chameleon](https://sereneblue.github.io/chameleon/), [UA Switcher & Manager](https://add0n.com/useragent-switcher.html) or [User-Agent Switcher](https://chrome.google.com/webstore/detail/user-agent-switcher-for-c/djflhoibgkdhkhhcedjiklpkjnoahfmg) - User-Agent Spoofer
 * [Vytal](https://chrome.google.com/webstore/detail/vytal/ncbknoohfjmcfneopnfkapmkblaenokb) - Changes Geolocation to match VPN IP address
