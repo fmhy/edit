@@ -633,11 +633,6 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://70.88.180.169:8
 
 ***
 
-## General Recipes
-
-
-***
-
 ## Google Piracy Discussion Groups
 
 * https://techy-transistor.notion.site/Team-drives-ab7ebffc1e5040b5b5362e9d70fca4d5
