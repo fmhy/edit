@@ -1,4 +1,3 @@
-import { fileURLToPath } from "node:url";
 import { defineConfig } from "vitepress";
 import UnoCSS from "unocss/vite";
 import { presetUno, presetAttributify, presetIcons } from "unocss";
@@ -68,16 +67,6 @@ export default defineConfig({
     build: {
       // Shut the fuck up
       chunkSizeWarningLimit: Number.POSITIVE_INFINITY,
-    },
-    resolve: {
-      alias: [
-        {
-          find: /^.*VPSwitchAppearance\.vue$/,
-          replacement: fileURLToPath(
-            new URL("./theme/components/ThemeSwitch.vue", import.meta.url),
-          ),
-        },
-      ],
     },
   },
   markdown: {
