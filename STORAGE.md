@@ -1140,14 +1140,6 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://70.88.180.169:8
 
 ***
 
-## Resume Makers
-
-* ⭐ **[RX Resume](https://rxresu.me/)**
-
-[ResumeMatcher](https://www.resumematcher.fyi/), [cvmkr](https://cvmkr.com/), [resumonk](https://www.resumonk.com/), [ceev](https://ceev.io/), [creddle](http://creddle.io/), [flowcv](https://flowcv.com/), [cv2you](https://cv2you.com/), [cvservant](https://cvservant.com/cv/), [resume-nation](https://resume-nation.github.io/), [sajilocv](https://sajilocv.com/), [intelligentcv](https://www.intelligentcv.app/), [cakeresume](https://www.cakeresume.com/), [resumgo](https://www.resumgo.com/), [resumake](https://latexresu.me/), [Covered](https://covered.works/), [open-resume](https://www.open-resume.com/), [novoresume](https://novoresume.com/), [ResumeFromSpace](https://resumefromspace.com/)
-
-***
-
 ## Reverse Image Search
 
 * ⭐ **[Search by Image](https://github.com/dessant/search-by-image)**
