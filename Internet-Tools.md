@@ -259,7 +259,6 @@
 * [sum.vn](https://sum.vn/) - `sum.vn/DTrXk`
 * [ref.vn](https://ref.vn/) - `ref.vn/czuqfm`
 * [jii.li](https://jii.li/) - `jii.li/hNFXP`
-* [Shrinke.me](https://shrinke.me/) - `shrinke.me/1OpB2`
 * [Rebrandly](https://www.rebrandly.com/) - `rb.gy/4m25hq` / [Extension](https://mybrowseraddon.com/g-url-shortener.html)
 * [zws](https://zws.im/) - `zws.im/󠁡󠁷󠁴󠁪󠁷󠁫󠁯`
 * [u.nu](https://u.nu/) - `u.nu/5nhzi`
