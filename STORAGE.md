@@ -802,12 +802,6 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://70.88.180.169:8
 
 ***
 
-## Mastodon Tools
-
-[Web Client](https://pinafore.social/) / [Desktop Client](https://tuba.geopjr.dev/), [2](https://kaiteki.app/) / [Schedule](https://scheduler.mastodon.tools/) / [Twitter Sync](https://github.com/klausi/mastodon-twitter-sync) / [Instances](https://instances.social/) / [Twitter Account Link](https://moaparty.com/) / [Embedded Feeds](https://www.mastofeed.com/) / [Timelines](https://mastovue.glitch.me/) / [Create Bots](https://cheapbotstootsweet.com/)
-
-***
-
 ## Magic / Esoteric Telegram Ebooks
 
 * https://t.me/magZtore

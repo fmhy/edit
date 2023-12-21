@@ -588,11 +588,9 @@
 # ► Fediverse Tools
 
 * 🌐 **[Awesome Fediverse](https://github.com/emilebosch/awesome-fediverse)** - Fediverse Resources
-* ↪️ **[Mastodon Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_mastodon_tools)**
 * ⭐ **[Fediverse](https://fediverse.party/)**, [Fediverse.space](https://fediverse.space/), [sub.rehab](https://sub.rehab/) or [Fediverse Observer](https://mastodon.fediverse.observer/) - Fediverse Instance Search
 * ⭐ **[Lemmy Explorer](https://lemmyverse.net/)**, [Community-Browser](https://browse.feddit.de/) or [Awesome Instances](https://github.com/maltfield/awesome-lemmy-instances) - Lemmy Instances
 * ⭐ **[Lemmy](https://join-lemmy.org/)** / [Stats](https://the-federation.info/), [2](https://fedidb.org/) - Federated Reddit Alternative
-* ⭐ **[Mastodon](https://joinmastodon.org/)** - Federated Microblogging
 * ⭐ **[Pleroma](https://pleroma.social/)** - Federated Microblogging
 * ⭐ **[Pixelfed](https://pixelfed.org/)** - Federated Microblogging
 * ⭐ **[diaspora*](https://diasporafoundation.org/)**, [2](https://diasp.org/) - Federated Microblogging
@@ -604,6 +602,18 @@
 * [Fediverse Stats](https://the-federation.info/) or [FediDB](https://fedidb.org/) - Fediverse statistics
 * [Fediverser](https://portal.alien.top/) - Reddit to Lemmy Community Auto-Sync
 * [LemmyTools](https://github.com/howdy-tsc/LemmyTools) - Lemmy Improvement Extension
+
+***
+
+## ▷ Mastodon Tools
+
+* ⭐ **[Mastodon](https://joinmastodon.org/)** - Federated Microblogging
+* [Tuba](https://tuba.geopjr.dev/) - Viewer
+* [Kaiteki](https://kaiteki.app/) - Viewer
+* [Mastodon Scheduler](https://scheduler.mastodon.tools/) - Schedule when to send post
+* [Mastodon Instances](https://instances.social/) - Instances Index 
+* [MastoVue](https://mastovue.glitch.me/) - View public timelines or hashtags
+* [Cheap Bots, Toot Sweet!](https://cheapbotstootsweet.com/) - Create Bots
 
 ***
 
