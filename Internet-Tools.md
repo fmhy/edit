@@ -260,7 +260,7 @@
 * [ref.vn](https://ref.vn/) - `ref.vn/czuqfm`
 * [jii.li](https://jii.li/) - `jii.li/hNFXP`
 * [Rebrandly](https://www.rebrandly.com/) - `rb.gy/4m25hq` / [Extension](https://mybrowseraddon.com/g-url-shortener.html)
-* [zws](https://zws.im/) - `zws.im/󠁡󠁷󠁴󠁪󠁷󠁫󠁯`
+* [zws](https://zws.im/) - `zws.im/`
 * [u.nu](https://u.nu/) - `u.nu/5nhzi`
 * [Kutt](https://kutt.it/) - `kutt.it/sQnBLz`
 * [wal.ee](https://wal.ee/) - `wal.ee/zluqo`
