@@ -9772,14 +9772,19 @@
 
 ## ▷ Privacy Browsers
 
-* ⭐ **[Tor Browser](https://www.torproject.org/)** - Onion-Routed Browser
 * ⭐ **[Mullvad Browser](https://mullvad.net/en/browser)** - Privacy Based Browser
-* ⭐ **[Librewolf](https://codeberg.org/librewolf)**, [2](https://librewolf.net/) - Privacy Based Browser / **[Use Auto-Updater](https://github.com/ltguillaume/librewolf-winupdater)**
-* ⭐ **[ffprofile](https://ffprofile.com/)**, **[Betterfox](https://github.com/yokoffing/Betterfox)**, **[arkenfox](https://github.com/arkenfox/user.js)**, [pyllyukko](https://github.com/pyllyukko/user.js/), [hnhx](https://github.com/hnhx/user.js) or [Narsil](https://git.nixnet.services/Narsil/desktop_user.js) - Firefox Privacy Tweaks
+* ⭐ **[Librewolf](https://librewolf.net/)**- Privacy Based Browser / **[Use Auto-Updater](https://github.com/ltguillaume/librewolf-winupdater)**
+* ⭐ **[arkenfox](https://github.com/arkenfox/user.js)**, [pyllyukko](https://github.com/pyllyukko/user.js/), [hnhx](https://github.com/hnhx/user.js) or [Narsil](https://git.nixnet.services/Narsil/desktop_user.js) - Firefox Privacy Tweaks
 * ⭐ **FF Hardening Tools** - **[Guide](https://brainfucksec.github.io/firefox-hardening-guide)** / [2](https://12bytes.org/articles/tech/firefox/the-firefox-privacy-guide-for-dummies/) / [Video](https://youtu.be/F7-bW2y6lcI) / [Warning](https://i.ibb.co/Vpkrsg4/44160f4625bc.png)
 * [BadWolf](https://hacktivis.me/projects/badwolf) - Privacy Based Browser
 * [Brave](https://brave.com/) - Privacy Based Browser
 * [I2Pd Browser](https://i2pd.website/) - I2P Browser / [GitHub](https://github.com/PurpleI2P/i2pd)
+
+***
+
+## ▷ Tor Browser
+
+* ⭐ **[Tor Browser](https://www.torproject.org/)** - Onion-Routed Browser
 * [TPO Wiki](https://gitlab.torproject.org/tpo/team/-/wikis/home) - Tor Wiki
 * [Onion Directories](https://rentry.co/OnionDirectories##search-engines) - Tor Search Engines
 * [Check Tor Project](https://check.torproject.org/) - Tor IP Test
@@ -9792,26 +9797,15 @@
 
 ## ▷ Privacy Extensions
 
-* [CRXcavator](https://crxcavator.io/) - Check Browser Extension Security
-* [File Guard](https://mybrowseraddon.com/file-encryptor.html) - File Encryption / Decryption
 * [TrackMeNot](https://www.trackmenot.io/) - Tracking Protection
 * [JShelter](https://jshelter.org/) - Prevent Fingerprinting / [Warning](https://github.com/arkenfox/user.js/issues/1729#issuecomment-1739135479)
 * [CanvasBlocker](https://pastebin.com/2RgYzu6u) or [Canvas Defender](https://addons.mozilla.org/en-US/firefox/addon/no-canvas-fingerprinting/) - Prevent Canvas Fingerprinting
-* [PortAuthority](https://addons.mozilla.org/en-US/firefox/addon/port-authority/) - Block Javascript Port Scan on Sites
-* [Location Guard](https://pastebin.com/n20LcQSM) - Hide Browsers Geolocation
 * [Language Switch](https://addons.mozilla.org/en-US/firefox/addon/languageswitch/) - Change Language Identifier
-* [HTTP Tracker](https://github.com/venukbh/http-tracker) - Track Network on Browser
-* [ClearURLs](https://docs.clearurls.xyz), [Link Cleaner](https://mybrowseraddon.com/link-cleaner.html), [dont-track-me-google](https://github.com/Rob--W/dont-track-me-google) or [Link Sanitizer](https://greasyfork.org/en/scripts/374699-link-sanitizer) - Remove Tracking Elements from URLs
+* [ClearURLs](https://docs.clearurls.xyz), [Link Cleaner](https://mybrowseraddon.com/link-cleaner.html) or [Link Sanitizer](https://greasyfork.org/en/scripts/374699-link-sanitizer) - Remove Tracking Elements from URLs
 * [Twitter Direct](https://greasyfork.org/en/scripts/404632) - Removes t.co Tracking from Twitter
-* [chrome-utm-stripper](https://github.com/jparise/chrome-utm-stripper) - Remove Tracking Tokens
 * [SocialSharePrivacy](https://panzi.github.io/SocialSharePrivacy/) - Turn Off Social Sharing Buttons
-* [Spoof Timezone](https://add0n.com/spoof-timezone.html) - Hide Real Timezone
-* [UglyEmail](https://uglyemail.com/) or [PixelBlock](https://chrome.google.com/webstore/detail/pixelblock/jmpmfcjnflbcoidlgapblgpgbilinlem/) - Block Email Trackers
-* [FlowCrypt](https://flowcrypt.com/) - Gmail Encryption
-* [Chameleon](https://sereneblue.github.io/chameleon/), [UA Switcher & Manager](https://add0n.com/useragent-switcher.html) or [User-Agent Switcher](https://chrome.google.com/webstore/detail/user-agent-switcher-for-c/djflhoibgkdhkhhcedjiklpkjnoahfmg) - User-Agent Spoofer
-* [Vytal](https://chrome.google.com/webstore/detail/vytal/ncbknoohfjmcfneopnfkapmkblaenokb) - Changes Geolocation to match VPN IP address
+* [PixelBlock](https://chrome.google.com/webstore/detail/pixelblock/jmpmfcjnflbcoidlgapblgpgbilinlem/) - Block Email Trackers
 * [Firefox Privacy Settings](https://addons.mozilla.org/en-US/firefox/addon/privacy-settings/) - Firefox Privacy Settings Manager
-* [VPNTabs](https://github.com/Nickguitar/VPNTabs) - Force Firefox Tabs through VPN or Tor
 * [WebRTC Control](https://mybrowseraddon.com/webrtc-control.html) or [WebRTC](https://addons.mozilla.org/en-GB/firefox/addon/happy-bonobo-disable-webrtc/) - Enable / Disable WebRTC 
 * [WebRTC Network Limiter](https://chrome.google.com/webstore/detail/webrtc-network-limiter/npeicpdbkakmehahjeeohfdhnlpdklia?hl=en) - WebRTC Network Traffic Config 
 * [Forget Me Not](https://addons.mozilla.org/en-US/firefox/addon/forget_me_not/) - Only keeps website data for sites you choose
@@ -9824,9 +9818,7 @@
 * [AudioContext Fingerprint Defender](https://mybrowseraddon.com/audiocontext-defender.html) - Stop AudioContext fingerprinting 
 * [Temporary Containers](https://addons.mozilla.org/en-US/firefox/addon/temporary-containers/) - Disposable Containers 
 * [Redirect AMP to HTML](https://www.daniel.priv.no/web-extensions/amp2html.html) - Redirects AMP Pages to Regular Web Pages 
-* [Open Two Factor Authenticator](https://add0n.com/two-factor-authenticator.html) - Two-Factor Authentication Addon 
 * [WAIncognito](https://chrome.google.com/webstore/detail/waincognito/alhmbbnlcggfcjjfihglopfopcbigmil?hl=en) - Disable WhatsApps Read Receipts & Presence Updates 
-* [IndicateTLS](https://github.com/jannispinter/indicatetls) - Display a Sites the TLS Protocol Version 
 
 ***
 
