@@ -286,7 +286,6 @@
 * [ListURLs](https://listurls.com/) - URL List Generator
 * [CrowdTangle](https://apps.crowdtangle.com/chrome-extension) - Check Where Links Have Been Shared
 * [SpyOffers](https://www.spyoffers.com/) - Affiliate Link Checker
-* [Dereferer](https://dereferer.me/) - Derefer / Anonymize Links
 * [Link-Lock](https://rekulous.github.io/link-lock/) - Encrypt & Decrypt Links with Passwords
 * [dcrypt.it](https://dcrypt.it/) - Decrypt Link Containers
 * [Linkify Plus Plus](https://greasyfork.org/scripts/4255) - [Core](https://github.com/eight04/linkify-plus-plus-core) / Turn Plain txt URL's into Links
