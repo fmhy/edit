@@ -969,21 +969,6 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://70.88.180.169:8
 
 ***
 
-## Package Managers
-
-* ⭐ **[Scoop](https://scoop.sh/)**
-* ⭐ **[Ninite](https://ninite.com/)**
-* ⭐ **[WinGet](https://github.com/microsoft/winget-cli)**
-* ⭐ **WinGet Tools** - [Tools](https://github.com/jdhitsolutions/WingetTools) / [Winget UI](https://github.com/marticliment/WingetUI) / [Packages](https://github.com/microsoft/winget-pkgs), [2](https://winget.run/) / [Automation](https://github.com/topgrade-rs/topgrade) / [Pac-Man](https://github.com/rami3l/pacaptr)
-* [NirLauncher](https://launcher.nirsoft.net/)
-* [Chocolatey](https://chocolatey.org/) / [GUI](https://github.com/chocolatey/ChocolateyGUI)
-* [Spinel](https://spinel.ovh/) - Multi-Program Install Script Generator 
-* [Silent Install](https://www.silentinstall.org/) - Build Multi-Program Installers
-
-[CouleursToolbox](https://github.com/couleurm/couleurstoolbox), [Patch My PC](https://patchmypc.com/home-updater), [WinInstall](https://winstall.app/), [Scoop The Installer](https://github.com/couleur-tweak-tips/the-installer), [RuckZuck](https://ruckzuck.tools/), [0Install](https://0install.net/), [portableapps](https://portableapps.com/download), [Baulk](https://github.com/baulk/baulk) 
-
-***
-
 ## Password Data Breach Check
 
 ⭐ **[HaveIBeenPwned PW](https://haveibeenpwned.com/Passwords)**
