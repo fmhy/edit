@@ -9774,8 +9774,11 @@
 
 * ⭐ **[Mullvad Browser](https://mullvad.net/en/browser)** - Privacy Based Browser
 * ⭐ **[Librewolf](https://librewolf.net/)**- Privacy Based Browser / **[Use Auto-Updater](https://github.com/ltguillaume/librewolf-winupdater)**
-* ⭐ **[arkenfox](https://github.com/arkenfox/user.js)**, [pyllyukko](https://github.com/pyllyukko/user.js/), [hnhx](https://github.com/hnhx/user.js) or [Narsil](https://git.nixnet.services/Narsil/desktop_user.js) - Firefox Privacy Tweaks
+* ⭐ **[arkenfox](https://github.com/arkenfox/user.js)**- Firefox Privacy Tweak
 * ⭐ **FF Hardening Tools** - **[Guide](https://brainfucksec.github.io/firefox-hardening-guide)** / [2](https://12bytes.org/articles/tech/firefox/the-firefox-privacy-guide-for-dummies/) / [Video](https://youtu.be/F7-bW2y6lcI) / [Warning](https://i.ibb.co/Vpkrsg4/44160f4625bc.png)
+* [pyllyukko](https://github.com/pyllyukko/user.js/) - Firefox Privacy Tweak
+* [hnhx](https://github.com/hnhx/user.js) - Firefox Privacy Tweak
+* [Narsil](https://git.nixnet.services/Narsil/desktop_user.js) - Firefox Privacy Tweak
 * [BadWolf](https://hacktivis.me/projects/badwolf) - Privacy Based Browser
 * [Brave](https://brave.com/) - Privacy Based Browser
 * [I2Pd Browser](https://i2pd.website/) - I2P Browser / [GitHub](https://github.com/PurpleI2P/i2pd)
