@@ -78,7 +78,7 @@ export default defineConfig({
   themeConfig: {
     search: {
       options: {
-        miniSearch: { searchOptions: { combineWith: "AND" } },
+        miniSearch: { searchOptions: { fuzzy: 0.5 } },
         detailedView: true,
       },
       provider: "local",
