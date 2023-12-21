@@ -24,7 +24,7 @@
     "nprogress": "^0.2.0",
     "pathe": "^1.1.1",
     "unocss": "^0.57.1",
-    "vitepress": "npm:@taskylizard/vitepress@1.0.0-rc.32",
+    "vitepress": "npm:@taskylizard/vitepress@1.0.1",
     "vue": "^3.3.7",
     "x-satori": "^0.1.5",
     "zod": "^3.22.4"

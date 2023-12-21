@@ -30,8 +30,8 @@ dependencies:
     specifier: ^0.57.1
     version: 0.57.1(postcss@8.4.32)(vite@4.5.0)
   vitepress:
-    specifier: npm:@taskylizard/vitepress@1.0.0-rc.32
-    version: /@taskylizard/vitepress@1.0.0-rc.32(@types/node@20.8.9)(nprogress@0.2.0)(postcss@8.4.32)(search-insights@2.9.0)(typescript@5.2.2)
+    specifier: npm:@taskylizard/vitepress@1.0.1
+    version: /@taskylizard/vitepress@1.0.1(@types/node@20.8.9)(nprogress@0.2.0)(postcss@8.4.32)(search-insights@2.9.0)(typescript@5.2.2)
   vue:
     specifier: ^3.3.7
     version: 3.3.7(typescript@5.2.2)
@@ -1714,8 +1714,8 @@ packages:
       - supports-color
     dev: true
 
-  /@taskylizard/vitepress@1.0.0-rc.32(@types/node@20.8.9)(nprogress@0.2.0)(postcss@8.4.32)(search-insights@2.9.0)(typescript@5.2.2):
-    resolution: {integrity: sha512-OcYBaVgfpNCnBLPJu4iJYyRWok5t0f0z28/kdyOCH3ceBbQaFA5FoTpcn+x/Rb20/RUpzJdK9t9lPwuo80ODuw==}
+  /@taskylizard/vitepress@1.0.1(@types/node@20.8.9)(nprogress@0.2.0)(postcss@8.4.32)(search-insights@2.9.0)(typescript@5.2.2):
+    resolution: {integrity: sha512-GOgu4X0ltZgQoCMiLjq+3eDKXlSeurtaATJj/zJYF44tOtFOp6kOWdx+h3hu82BfDdYAKc71TTt4edLUe+KDHA==}
     hasBin: true
     peerDependencies:
       markdown-it-mathjax3: ^4.3.2
