@@ -4,7 +4,7 @@
 ***
 ***
 
-**[Table of Contents](https://ibb.co/Wf95bBq)** - For mobile users
+**[Table of Contents](https://ibb.co/JBgCD2p)** - For mobile users
 
 ***
 ***
@@ -50,7 +50,7 @@
 * ⭐ **[serverless-dns](https://github.com/serverless-dns/serverless-dns)** - Serverless DNS
 * [Adguard DNS](https://adguard-dns.io/), [AlternateDNS](https://alternate-dns.com/index.php), [LibreDNS](https://libredns.gr/) or [Diversion](https://diversion.ch/) - DNS Adblocking
 * [Pi-Hole](https://pi-hole.net/) - DNS Adblocking / Self-Hosted
-* Pi-Hole Tools - [Install Script](https://github.com/DesktopECHO/Pi-Hole-for-WSL1) / [Filter](https://firebog.net/) / [Firefox](https://addons.mozilla.org/en-US/firefox/addon/alanine/) / [Chrome](https://chrome.google.com/webstore/detail/alanine/lohlpbknpcngpjifmofkidennikljlfi) / [Docker](https://hub.docker.com/repository/docker/kulda22/alanine) / [Antitelemetry](https://github.com/MoralCode/pihole-antitelemetry)
+* Pi-Hole Tools - [Install Script](https://github.com/DesktopECHO/Pi-Hole-for-WSL1) / [Filter](https://firebog.net/) / [Firefox](https://addons.mozilla.org/en-US/firefox/addon/alanine/) / [Chrome](https://chromewebstore.google.com/webstore/detail/alanine/lohlpbknpcngpjifmofkidennikljlfi) / [Docker](https://hub.docker.com/repository/docker/kulda22/alanine) / [Antitelemetry](https://github.com/MoralCode/pihole-antitelemetry)
 * [TBlock](https://tblock.me/) - DNS Adblocking / [Filters](https://codeberg.org/tblock/filters)
 * [dog](https://dns.lookup.dog/) - DNS CLI
 * [Quad9](https://quad9.net/) - Malware, Phishing, Spyware & Botnet DNS Protection
@@ -151,10 +151,8 @@
 * ↪️ **[Password Data Breach Detection](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_password_data_breach_check)**
 * ↪️ **[File Encryption](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_file_encryption_tools)**
 * ↪️ **[Drive Formatting / File Deletion](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_drive_formatting_.2F_file_deletion)**
-* ↪️ **[Windows 10 Antispy Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_windows_10_antispy_tools)**
-* ⭐ **[Privacy.Sexy](https://privacy.sexy/)** - Privacy Scripts 
 * ⭐ **[Password Strength Chart](https://i.ibb.co/vZdqMvm/6728c7ef02e9.png)**
-* ⭐ **[Tails](https://tails.net/)** or [Qubes](https://www.qubes-os.org/) - Privacy-Based Operating Systems
+* ⭐ **[Tails](https://tails.net/)**, [whonix](https://www.whonix.org/) or [Qubes](https://www.qubes-os.org/) - Privacy-Based Operating Systems
 * [Yubioath](https://developers.yubico.com/yubioath-flutter/), [AuthMe](https://github.com/Levminer/authme), [Protecc](https://github.com/FireCubeStudios/Protecc), [2FAuth](https://github.com/Bubka/2FAuth) or [Tauthy](https://github.com/pwltr/tauthy) - Two-Factor Authentication
 * [PaP](https://trypap.com/) or [PasswordMonster](https://www.passwordmonster.com/) - Password Strength Check
 * [PasswordsGenerator](https://passwordsgenerator.net/) - Secure Password Generator
@@ -205,6 +203,18 @@
 * [EncryptedList](https://encryptedlist.xyz/) - List of Encrypted Services/Apps
 * [ProductivePrivacy](https://productiveprivacy.com/) - Privacy-Focused Productivity Apps 
 * [Hostux](https://hostux.network/) - Privacy Tools
+
+***
+
+## Antispy Tools
+
+* ⭐ **[Privacy.Sexy](https://privacy.sexy/)** - Privacy Scripts 
+* [ShutUp10](https://www.oo-software.com/en/shutup10)
+* [W10Privacy](https://www.w10privacy.de/english-home/)
+* [WPD](https://wpd.app/)
+* [Manage connection endpoints](https://learn.microsoft.com/en-us/windows/privacy/manage-windows-11-endpoints)
+* [Manage Microsoft Services connection endpoints](https://learn.microsoft.com/en-us/windows/privacy/manage-connections-from-windows-operating-system-components-to-microsoft-services)
+* [private-secure-windows](https://github.com/troennes/private-secure-windows)
 
 ***
 
@@ -305,34 +315,17 @@
 
 ## ▷ Privacy Browsers
 
-* ⭐ **[Mullvad Browser](https://mullvad.net/en/browser)** - Privacy Based Browser
-* ⭐ **[Librewolf](https://librewolf.net/)**- Privacy Based Browser / **[Use Auto-Updater](https://github.com/ltguillaume/librewolf-winupdater)**
-* ⭐ **[arkenfox](https://github.com/arkenfox/user.js)**- Firefox Privacy Tweak
-* ⭐ **FF Hardening Tools** - **[Guide](https://brainfucksec.github.io/firefox-hardening-guide)** / [2](https://12bytes.org/articles/tech/firefox/the-firefox-privacy-guide-for-dummies/) / [Video](https://youtu.be/F7-bW2y6lcI) / [Warning](https://i.ibb.co/Vpkrsg4/44160f4625bc.png)
-* [pyllyukko](https://github.com/pyllyukko/user.js/) - Firefox Privacy Tweak
-* [hnhx](https://github.com/hnhx/user.js) - Firefox Privacy Tweak
-* [Narsil](https://git.nixnet.services/Narsil/desktop_user.js) - Firefox Privacy Tweak
-* [BadWolf](https://hacktivis.me/projects/badwolf) - Privacy Based Browser
-* [Brave](https://brave.com/) - Privacy Based Browser
-* [I2Pd Browser](https://i2pd.website/) - I2P Browser / [GitHub](https://github.com/PurpleI2P/i2pd)
-
-***
-
-## ▷ Tor Browser
-
+* ⭐ **[Mullvad Browser](https://mullvad.net/en/browser)** - Tor Browser Fork (w/o Tor network)
+* ⭐ **[Librewolf](https://librewolf.net/)**- Pre-tweaked Firefox Fork / **[Use Auto-Updater](https://github.com/ltguillaume/librewolf-winupdater)**
+* ⭐ **[arkenfox](https://github.com/arkenfox/user.js)**- Firefox Privacy Tweak / [Video](https://youtu.be/F7-bW2y6lcI)
 * ⭐ **[Tor Browser](https://www.torproject.org/)** - Onion-Routed Browser
-* [TPO Wiki](https://gitlab.torproject.org/tpo/team/-/wikis/home) - Tor Wiki
-* [Onion Directories](https://rentry.co/OnionDirectories##search-engines) - Tor Search Engines
-* [Check Tor Project](https://check.torproject.org/) - Tor IP Test
-* [Onion Fruit](https://dragonfruit.network/onionfruit) / [GitHub](https://github.com/dragonfruitnetwork/onionfruit/) - Tor Access Client
-* [Nipe](https://github.com/htrgouvea/nipe) - Default Tor Gateway
-* [Tor IP Tables](https://github.com/ruped24/toriptables2) - Tor Network Script
-* [reqrypt](https://reqrypt.org/tallow.html), [TorWall](https://github.com/basil00/TorWall) or [whonix](https://www.whonix.org/) - Tor Proxies
+* [Brave](https://brave.com/) - Chromium Based Browser
 
 ***
 
 ## ▷ Privacy Extensions
 
+* ⭐ **[uBlock Origin](https://github.com/gorhill/uBlock#installation)** - Privacy Extension / Adblock / [Guide](https://addons.mozilla.org/blog/ublock-origin-everything-you-need-to-know-about-the-ad-blocker/) / [Advanced](https://youtu.be/2lisQQmWQkY)
 * [TrackMeNot](https://www.trackmenot.io/) - Tracking Protection
 * [JShelter](https://jshelter.org/) - Prevent Fingerprinting / [Warning](https://github.com/arkenfox/user.js/issues/1729#issuecomment-1739135479)
 * [CanvasBlocker](https://pastebin.com/2RgYzu6u) or [Canvas Defender](https://addons.mozilla.org/en-US/firefox/addon/no-canvas-fingerprinting/) - Prevent Canvas Fingerprinting
@@ -340,21 +333,15 @@
 * [ClearURLs](https://docs.clearurls.xyz), [Link Cleaner](https://mybrowseraddon.com/link-cleaner.html) or [Link Sanitizer](https://greasyfork.org/en/scripts/374699-link-sanitizer) - Remove Tracking Elements from URLs
 * [Twitter Direct](https://greasyfork.org/en/scripts/404632) - Removes t.co Tracking from Twitter
 * [SocialSharePrivacy](https://panzi.github.io/SocialSharePrivacy/) - Turn Off Social Sharing Buttons
-* [PixelBlock](https://chrome.google.com/webstore/detail/pixelblock/jmpmfcjnflbcoidlgapblgpgbilinlem/) - Block Email Trackers
 * [Firefox Privacy Settings](https://addons.mozilla.org/en-US/firefox/addon/privacy-settings/) - Firefox Privacy Settings Manager
 * [WebRTC Control](https://mybrowseraddon.com/webrtc-control.html) or [WebRTC](https://addons.mozilla.org/en-GB/firefox/addon/happy-bonobo-disable-webrtc/) - Enable / Disable WebRTC 
-* [WebRTC Network Limiter](https://chrome.google.com/webstore/detail/webrtc-network-limiter/npeicpdbkakmehahjeeohfdhnlpdklia?hl=en) - WebRTC Network Traffic Config 
+* [WebRTC Network Limiter](https://chromewebstore.google.com/webstore/detail/webrtc-network-limiter/npeicpdbkakmehahjeeohfdhnlpdklia?hl=en) - WebRTC Network Traffic Config 
 * [Forget Me Not](https://addons.mozilla.org/en-US/firefox/addon/forget_me_not/) - Only keeps website data for sites you choose
-* [Secure Password Generator](https://pastebin.com/XaRUFW4a) - Password Generator 
 * [Private Bookmarks](https://pastebin.com/H8vnQqiY) - Password Protected Bookmarks
-* [eCleaner](https://add0n.com/ecleaner.html) or [History & Cache Cleaner](https://chrome.google.com/webstore/detail/history-cache-cleaner/oiecpgbfcchalgdchgoplichofjadhmk/related?hl=en) - History & Cache Cleaner
-* [CopyGuard](https://github.com/roedesh/copyguard) - Clipboard Hijacking Notifications
+* [eCleaner](https://add0n.com/ecleaner.html) or [History & Cache Cleaner](https://chromewebstore.google.com/webstore/detail/history-cache-cleaner/oiecpgbfcchalgdchgoplichofjadhmk/related?hl=en) - History & Cache Cleaner
 * [WhatsApp Privacy Extension](https://pfwa.lukaslen.com/) - Hide WhatsApp Messages Until Hovered Over / [GitHub](https://github.com/LukasLen/Privacy-Extension-For-WhatsApp-Web)
-* [AudioContext Fingerprint Test](https://audiofingerprint.openwpm.com/) - AudioContext / Canvas API Fingerprinting Test
-* [AudioContext Fingerprint Defender](https://mybrowseraddon.com/audiocontext-defender.html) - Stop AudioContext fingerprinting 
 * [Temporary Containers](https://addons.mozilla.org/en-US/firefox/addon/temporary-containers/) - Disposable Containers 
-* [Redirect AMP to HTML](https://www.daniel.priv.no/web-extensions/amp2html.html) - Redirects AMP Pages to Regular Web Pages 
-* [WAIncognito](https://chrome.google.com/webstore/detail/waincognito/alhmbbnlcggfcjjfihglopfopcbigmil?hl=en) - Disable WhatsApps Read Receipts & Presence Updates 
+* [WAIncognito](https://chromewebstore.google.com/webstore/detail/waincognito/alhmbbnlcggfcjjfihglopfopcbigmil?hl=en) - Disable WhatsApps Read Receipts & Presence Updates 
 
 ***
 
