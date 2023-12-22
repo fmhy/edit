@@ -14194,12 +14194,15 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://70.88.180.169:8
 
 ## LibGen  Mirrors
 
-* https://whereislibgen.vercel.app/
-* https://vertsluisants.fr/index.php?article4/where-scihub-libgen-server-down
-* https://sguru.org/libgen-proxy/
-* https://libgen.fun/
-* https://llhlf.com/
-* https://libgen.li/ (more than just libgen)
+* https://libgen.rs/ - main
+* https://libgen.is/ - main
+* https://libgen.st/ - main
+* https://libgen.fun/ - fork by original dev
+* https://libgen.li/ - clone
+* https://libgen.gs/  - clone
+* https://libgen.vg/ - clone
+* https://libgen.pm/ - clone
+* https://rentry.co/fmhy-libgen - Differences between the mirrors
 
 
 ***
