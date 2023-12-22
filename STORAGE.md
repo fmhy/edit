@@ -4,11 +4,6 @@
 ***
 ***
 
-**[Table of Contents](https://ibb.co/5kCKx7C)** - For mobile users
-
-***
-***
-
 ## 3D Modeling Apps
 
 * ⭐ **[Blender](https://www.blender.org/)**
