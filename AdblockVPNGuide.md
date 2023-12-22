@@ -11,7 +11,7 @@
 
 # ► Adblocking
 
-* ↪️ **[Adblock Filters](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_ublock_filters)** / [Test Filters](http://raymondhill.net/ublock/adbox.html) / [Merge Filters](https://realityripple.com/Tools/AdBlock++/)
+* ↪️ **[Adblock Filters](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_ublock_filters)** / [Test Filters](http://raymondhill.net/ublock/adbox.html)
 * ↪️ **[Spotify Adblockers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_spotify_tools)**
 * ⭐ **[Adblock Tester](https://adblock-tester.com/)** or [AdBlocker Test](https://d3ward.github.io/toolz/adblock.html) - Adblocking Tests
 * [uBO-bypass-yt](https://drhyperion451.github.io/does-uBO-bypass-yt/) - Check if uBlock Filters are bypassing YouTube Anti-Adblock
@@ -150,8 +150,12 @@
 * ↪️ **[Password Data Breach Detection](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_password_data_breach_check)**
 * ↪️ **[File Encryption](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_file_encryption_tools)**
 * ↪️ **[Drive Formatting / File Deletion](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_drive_formatting_.2F_file_deletion)**
+* ⭐ **[Privacy.Sexy](https://privacy.sexy/)** - Privacy Scripts 
 * ⭐ **[Password Strength Chart](https://i.ibb.co/vZdqMvm/6728c7ef02e9.png)**
 * ⭐ **[Tails](https://tails.net/)**, [whonix](https://www.whonix.org/) or [Qubes](https://www.qubes-os.org/) - Privacy-Based Operating Systems
+* [ShutUp10](https://www.oo-software.com/en/shutup10) - Antispy Tool
+* [W10Privacy](https://www.w10privacy.de/english-home/) - Antispy Tool
+* [private-secure-windows](https://github.com/troennes/private-secure-windows) - Antispy Tool
 * [Yubioath](https://developers.yubico.com/yubioath-flutter/), [AuthMe](https://github.com/Levminer/authme), [Protecc](https://github.com/FireCubeStudios/Protecc), [2FAuth](https://github.com/Bubka/2FAuth) or [Tauthy](https://github.com/pwltr/tauthy) - Two-Factor Authentication
 * [PaP](https://trypap.com/) or [PasswordMonster](https://www.passwordmonster.com/) - Password Strength Check
 * [PasswordsGenerator](https://passwordsgenerator.net/) - Secure Password Generator
@@ -202,19 +206,6 @@
 * [EncryptedList](https://encryptedlist.xyz/) - List of Encrypted Services/Apps
 * [ProductivePrivacy](https://productiveprivacy.com/) - Privacy-Focused Productivity Apps 
 * [Hostux](https://hostux.network/) - Privacy Tools
-
-***
-
-## ▷ Antispy Tools
-
-* ⭐ **[Privacy.Sexy](https://privacy.sexy/)** - Privacy Scripts 
-* [ShutUp10](https://www.oo-software.com/en/shutup10)
-* [W10Privacy](https://www.w10privacy.de/english-home/)
-* [WPD](https://wpd.app/)
-* [Manage connection endpoints](https://learn.microsoft.com/en-us/windows/privacy/manage-windows-11-endpoints)
-* [Manage Microsoft Services connection endpoints](https://learn.microsoft.com/en-us/windows/privacy/manage-connections-from-windows-operating-system-components-to-microsoft-services)
-* [private-secure-windows](https://github.com/troennes/private-secure-windows)
-* [Spybot](https://www.safer-networking.org/products/spybot-free-edition/) or [SUPERAntiSpyware](https://www.superantispyware.com/free-edition.html) - Spyware Scanners
 
 ***
 
@@ -388,19 +379,16 @@
 
 ## ▷ Email Tools
 
-* ↪️ **[Encrypted Email Services](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_encrypted_email_services)**
 * ↪️ **[Temp Emails](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_temp_email_sites)**
-* ↪️ **[Email Forwarding](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_email_forwarding)**
+* ↪️ **[Email Aliasing](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_email_aliasing)**
 * ↪️ **[Anon Emails](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_send_anonymous_emails)**
+* ⭐ **[Proton Mail](https://proton.me/mail)** - Encrypted Email
+* ⭐ **[Skiff Mail](https://skiff.com/mail)** - Encrypted Email
 * ⭐ **[EmailPrivacyTester](https://www.emailprivacytester.com/)** - Email Privacy Test
 * ⭐ **[Have I been Pwned?](https://haveibeenpwned.com/)** or [GhostProject](https://ghostproject.fr/) - Monitor Email Breaches
-* ⭐ **[disposable-email-domains](https://github.com/disposable-email-domains/disposable-email-domains)** - Disposable Email Blocklist
 * [OpenPGP](https://www.openpgp.org/) - Email Encryption / [Guide](https://riseup.net/en/security/message-security/openpgp/best-practices)
-* [MetaClean for Gmail](https://www.adarsus.com/en/remove-metadata-from-gmail-attachments/) - Remove Metadata from Emails
+* [Tutanota](https://tutanota.com/) - Encrypted Email
 * [/r/emailprivacy](https://reddit.com/r/emailprivacy) - Discussion of Email Privacy / Security / Anonymity
-* [E4ward](https://e4ward.com/) - Spam Email Filter
-* [EmailRep](https://emailrep.io/) - Email Reputation Check
-* [torbirdy](https://gitlab.torproject.org/legacy/trac/-/wikis/torbirdy) - Connect to Mozilla Thunderbird via Tor 
 
 ***
 
