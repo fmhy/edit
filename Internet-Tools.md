@@ -260,7 +260,7 @@
 * [ref.vn](https://ref.vn/) - `ref.vn/czuqfm`
 * [jii.li](https://jii.li/) - `jii.li/hNFXP`
 * [Rebrandly](https://www.rebrandly.com/) - `rb.gy/4m25hq` / [Extension](https://mybrowseraddon.com/g-url-shortener.html)
-* [zws](https://zws.im/) - `zws.im/`
+* [zws](https://zws.im/) - `zws.im/󠁡󠁷󠁴󠁪󠁷󠁫󠁯`
 * [u.nu](https://u.nu/) - `u.nu/5nhzi`
 * [Kutt](https://kutt.it/) - `kutt.it/sQnBLz`
 * [wal.ee](https://wal.ee/) - `wal.ee/zluqo`
@@ -421,7 +421,6 @@
 * [Gemini Portal](https://portal.mozz.us/gemini/gemini.circumlunar.space/), [2](https://yesterweb.org/gemini) - Gemini to https Web Proxy Service
 * [StockBrowser](https://stackbrowser.com/), [Rambox](https://rambox.app/), [Kera](https://desktop.kerahq.com/) or [Tangram](https://github.com/sonnyp/Tangram) - Web App Browsers
 * [n.eko](https://neko.m1k1o.net) / [Github](https://github.com/m1k1o/neko) - Self-Hosted Virtual Browser
-* [Ungoogled Chromium](https://github.com/ungoogled-software/ungoogled-chromium) - Chrome without Google / [Launcher](https://github.com/henrypp/chrlauncher)
 * [Chrome Theme Studio](https://chrometheme.studio/) - Create Chrome Theme
 * [Betterfox](https://github.com/yokoffing/Betterfox) - Firefox user.js Tweaks
 * [Firemin](https://www.rizonesoft.com/downloads/firemin/) or `about:memory` - Reduce Firefox Memory Usage
