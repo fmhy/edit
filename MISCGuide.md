@@ -4,11 +4,6 @@
 ***
 ***
 
-**[Table of Contents](https://ibb.co/KVhR6WQ)** - For mobile users
-
-***
-*** 
-
 # ► Indexes
 
 * 🌐 **[/r/Piracy Megathread](https://www.reddit.com/r/Piracy/wiki/megathread)** - Piracy Index / [Rentry](https://rentry.co/megathread), [2](https://rentry.org/megathread)
