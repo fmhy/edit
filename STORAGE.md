@@ -346,17 +346,7 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://70.88.180.169:8
 
 ***
 
-## Email Clients
-
-* ⭐ **[Thunderbird](https://www.thunderbird.net/en-US/)** - [Tray Icon](https://github.com/Ximi1970/systray-x)
-* ⭐ **[Mailspring](https://getmailspring.com/)** - [Themes](https://github.com/topics/mailspring-theme)
-* [Outlook](https://outlook.live.com/owa/) - [Tools](https://github.com/eksperience/KnockOutlook)
-
-[Betterbird](https://www.betterbird.eu/), [ElectronMail](https://github.com/vladimiry/ElectronMail), [Claws Mail](https://www.claws-mail.org/), [eM Client](https://www.emclient.com/), [RainLoop](https://www.rainloop.net/), [Roundcube](https://roundcube.net/), [Spike](https://www.spikenow.com/), [Canary](https://canarymail.io/), [Twobird](https://www.twobird.com/), [Kanmail](https://kanmail.io/), [Gmail Desktop](https://github.com/timche/gmail-desktop), [Wino](https://www.winomail.app/)
-
-***
-
-## Email Forwarding
+## Email Aliasing
 
 * ⭐ **[SimpleLogin](https://simplelogin.io/)**
 * ⭐ **[addy.io](https://addy.io/)**
@@ -364,6 +354,16 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://70.88.180.169:8
 * [Mailvelope](https://mailvelope.com/) - Extension
 
 [Forward Email](https://forwardemail.net/), [Firefox Relay](https://relay.firefox.com/), [Burner Mail](https://burnermail.io/), [scr.im](http://scr.im/), [Mailsac](https://mailsac.com/), [altmails](https://altmails.com/), [Mail.cx](https://mail.cx/), [YOPmail](https://yopmail.com/en/), [Mailgw](https://mailgw.com/), [erine.email](https://erine.email/), [33mail](https://33mail.com/)
+
+***
+
+## Email Clients
+
+* ⭐ **[Thunderbird](https://www.thunderbird.net/en-US/)** - [Tray Icon](https://github.com/Ximi1970/systray-x)
+* ⭐ **[Mailspring](https://getmailspring.com/)** - [Themes](https://github.com/topics/mailspring-theme)
+* [Outlook](https://outlook.live.com/owa/) - [Tools](https://github.com/eksperience/KnockOutlook)
+
+[Betterbird](https://www.betterbird.eu/), [ElectronMail](https://github.com/vladimiry/ElectronMail), [Claws Mail](https://www.claws-mail.org/), [eM Client](https://www.emclient.com/), [RainLoop](https://www.rainloop.net/), [Roundcube](https://roundcube.net/), [Spike](https://www.spikenow.com/), [Canary](https://canarymail.io/), [Twobird](https://www.twobird.com/), [Kanmail](https://kanmail.io/), [Gmail Desktop](https://github.com/timche/gmail-desktop), [Wino](https://www.winomail.app/)
 
 ***
 
@@ -1362,17 +1362,13 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://70.88.180.169:8
 
 [10 Minute Mail](https://temp-mail.org/en/10minutemail), [Temp Mail](https://temp-mail.org/), [maildrop](https://maildrop.cc/), [mailinator](https://www.mailinator.com/), [mailnesia](https://mailnesia.com/), [anonbox](https://anonbox.net/), [Generator.email](https://generator.email/), [kuku](https://m.kuku.lu/), [Email on Deck](https://www.emailondeck.com/), [Mohmal](https://www.mohmal.com/en), [Guerillamail](https://www.guerrillamail.com/), [edumail](https://edumail.icu/), [temporarymail](https://temporarymail.com/), [FakeMailGenerator](https://www.fakemailgenerator.com/), [emailfake](https://emailfake.com/), [tempmailo](https://tempmailo.com/), [10minutesemail](https://10minutesemail.net/), [tempm](https://tempm.com/), [tempail](https://tempail.com/), [eyepaste](https://www.eyepaste.com/), [mintemail](https://www.mintemail.com/), [sharklasers](https://www.sharklasers.com/), [yopmail](https://www.yopmail.com/en/), [mail.td](https://mail.td/), [dropmail](https://dropmail.me/en/), [cryptogmail](https://cryptogmail.com/), [inboxkitten](https://inboxkitten.com/), [anonymmail](https://anonymmail.net/), [tmailweb](https://tmailweb.com/), [one-off](https://one-off.email/), [another-temp-mail](https://www.another-temp-mail.com/), [tempr](https://tempr.email/en/), [fakemail](https://www.fakemail.net/), [tempmail](https://tempmail.dev/), [email-generator](https://yopmail.com/en/email-generator), [moakt](https://www.moakt.com/), [linshi-email](https://www.linshi-email.com/en), [haribu](https://haribu.net/), [disposablemail](https://www.disposablemail.com/), [trashmail](https://trashmail.ws/), [fakermail](https://fakermail.com/), [10minutesmail](http://10minutesmail.com/), [mailtemp](https://mailtemp.top/), [temporary-email](https://temporary-email.com/), [tempmail.plus](https://tempmail.plus/en/), [mail-temp](https://mail-temp.com/), [easytrashmail](https://www.easytrashmail.com/), [1secmail](https://www.1secmail.com/), [10minutemail](https://www.lite14.us/10minutemail/), [fex](https://fex.plus/en/), [email-fake](https://email-fake.com/), [luxusmail](https://luxusmail.org/), [tempmail](https://tempmail.zone/), [spambox](https://spambox.xyz/), [tempmails](https://tempmails.net/), [receivemail](https://www.receivemail.org/), [rainmail](https://rainmail.xyz/), [tempemail](https://tempemail.co/), [burner](https://burner.kiwi/), [tempmail.altmails](https://tempmail.altmails.com/), [instant-email](https://instant-email.org/), [temp-mail.io](https://temp-mail.io/), [temp-inbox](https://temp-inbox.com/), [tempmaili](https://tempmaili.com/), [minuteinbox](https://minuteinbox.com/), [emailtemp](https://emailtemp.org/), [hour.email](https://hour.email/), [tempmailid](https://tempmailid.com/), [emaildrop](https://www.emaildrop.io/), [10minutemail](https://10minutemail.net/), [temprmail](https://temprmail.com/), [10minemail](https://10minemail.com/), [tempmail.email](https://tempmail.email/), [temps-mail.com](https://temps-mail.com/), [tempinbox](https://www.tempinbox.xyz/), [yopmail](https://yopmail.com/), [tmailor](https://tmailor.com/), [temp-mailbox](https://temp-mailbox.com/), [bottlemail](https://bottlemail.org/), [internxt](https://internxt.com/temporary-email), [tmail.gg](https://tmail.gg/en), [gettempemail](https://gettempemail.com/), [dispostable](https://www.dispostable.com/)
 
-### Temp Mail Lists
-
-[Disposable Emails Domains](https://github.com/ivolo/disposable-email-domains)
-
 ### Telegram Temp Mail Bots
 
 [Trashmail](https://github.com/etaxi341/TrashMailClient-TelegramBot), [TrashEmail](https://t.me/trashemail_bot), [smtpbot](https://t.me/smtpbot)
 
 ### Temp Mail Extensions
 
-[Bloody Vikings!](https://addons.mozilla.org/en-US/firefox/addon/bloody-vikings/), [c0x0](https://c0x0.com), [Temp Mail](https://temp-mail.org/)
+[Bloody Vikings!](https://addons.mozilla.org/en-US/firefox/addon/bloody-vikings/)
 
 ***
 
