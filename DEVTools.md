@@ -891,7 +891,7 @@
 * [RemoteMySQL](https://www.remotemysql.com/) - Remote MySQL Database
 * [DoIt](https://github.com/dolthub/dolt) - SQL Database
 * [DB4Free](https://db4free.net/), [sqlime](https://sqlime.org/) or [SQLFIddle](http://sqlfiddle.com/) / [2](https://www.db-fiddle.com/) - SQL Testing
-* [AI2SQL](https://app.ai2sql.io/) or [BlazeSQL](https://www.blazesql.com/) - SQL Generators
+* [AskYourDatabase](https://www.askyourdatabase.com/) or [AI2SQL](https://app.ai2sql.io/) or [BlazeSQL](https://www.blazesql.com/) - SQL Generators
 * [SQLTranslate](https://www.sqltranslate.app/) - SQL Translator
 * [franchise](https://franchise.cloud/) - SQL Notebook
 * [OceanBase](https://open.oceanbase.com/) - Relational Database / [GitHub](https://github.com/oceanbase/oceanbase)
