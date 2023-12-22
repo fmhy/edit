@@ -201,7 +201,7 @@
 * [GlazeWM](https://github.com/lars-berger/GlazeWM)
 * [MiguruWM](https://github.com/imawizard/MiguruWM)
 * [WindowsGrid](http://windowgrid.net/)
-* [FancyWM](https://apps.microsoft.com/store/detail/fancywm-dynamic-tiling-window-manager/9P1741LKHQS9?hl=en-in&gl=IN)
+* [FancyWM](https://apps.microsoft.com/store/detail/fancywm-dynamic-tiling-window-manager/9P1741LKHQS9en-in&gl=IN)
 * [AltSnap](https://github.com/RamonUnch/AltSnap) - Improved Windows Dragging
 
 ***
