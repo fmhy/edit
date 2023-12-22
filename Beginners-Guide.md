@@ -107,7 +107,7 @@ Use [this](https://bitbucket.org/magnolia1234/bypass-paywalls-firefox-clean/src/
 **[Privacy Guides](https://www.privacyguides.org/)** - Privacy Guides 
 **[DuckDuckGo](https://duckduckgo.com/) / [Mojeek](https://www.mojeek.com/)** - Tracker free web search
 **[ProtonMail](https://protonmail.com/) / [SkiffMail](https://skiff.com/mail)** - Encrypted email service
-**[Email Forwarding](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_email_forwarding)** - Email Alias Forwarding
+**[Email Aliasing](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_email_aliasing)** - Email Alias Forwarding
 **[Aegis](https://getaegis.app/) / [Ente](https://github.com/ente-io/auth/)** - 2FA to prevent logins without user authentication
 **[Password Managers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools#wiki_.25B7_password_managers)** - Save multiple passwords
 **[HaveIBeenPwned](https://haveibeenpwned.com/)** - Get notified when your email or phone number has been found in a data breach
