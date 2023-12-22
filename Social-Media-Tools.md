@@ -619,8 +619,8 @@
 
 # ► 4chan Tools
 
-* ↪️ **[Anon Image Boards](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_anonymous_image_boards)**
 * ↪️ **[4chan Archives](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_4chan_archives)**
+* ⭐ **[4chan](https://4chan.org/)** - [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools/#wiki_.25B7_4chan_tools)
 * ⭐ **[LuckyChan](https://luckychan.app/)** - Modern 4chan Frontend
 * ⭐ **[4chan X](https://www.4chan-x.net/)**, [SpookyX](https://github.com/Fiddlekins/SpookyX), [4Chan XT](https://github.com/TuxedoTako/4chan-xt) or [Dollchan](https://dollchan.net/) - Enhancement Extensions
 * [Lurka](https://github.com/AdamSalma/Lurka) - 4chan Desktop Client
