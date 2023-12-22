@@ -9,6 +9,25 @@
 ***
 ***
 
+# ► Linux Distros
+
+**Note** - We don't keep or curate individual linux distros, just guide you to places where you might find the distro you like.
+
+* ⭐ **[Linux Difficulty Chart](https://i.ibb.co/kXJdBrF/98e87fc317dd.png)**
+* ⭐ **[Beginner Distros](https://ash.fail/distros.html)**
+* ⭐ **[DistroChooser](https://distrochooser.de/)** or [Fushra](https://distros.fushra.com/)
+* ⭐ **[DistroWatch](https://distrowatch.com/dwres.php?resource=popularity)**
+* ⭐ **[Babbies First Linux](https://wiki.installgentoo.com/index.php/Babbies_First_Linux)**
+* [distro.moe](https://distro.moe/) - Find Random Distros
+* [Linux Live Kit](https://www.linux-live.org/) - Live Distro Creator
+* [DotShare](http://dotshare.it/) - Distro Config Index
+* [ArchiveOS](https://archiveos.org/)
+* [LinuxTracker](https://linuxtracker.org/)
+* [OpenSourceFeed](https://www.opensourcefeed.org/)
+* [Pkgs](https://pkgs.org/)
+
+***
+
 # ► Linux Apps
 
 * ⭐ **[Bottles](https://usebottles.com/)** - Manage Wine containers
@@ -220,7 +239,6 @@
 ## ▷ Linux System
 
 * 🌐 **[Awesome Gnome](https://github.com/Kazhnuz/awesome-gnome)** - GNOME Resources
-* ↪️ **[Linux Distros](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_linux_distros)**
 * ⭐ **[Linux.Chat](https://discord.gg/linuxchat)**, [All Things Linux](https://discord.gg/allthingslinux), [Linux x Technology](https://linuxdiscord.com/), [Ezlinux](https://ezlinux.net/) or [Discord-Linux](https://discord.gg/discord-linux) - Linux Discussion / Forums
 * ⭐ **[Archwiki](https://wiki.archlinux.org/)** - Arch Linux Wiki / [Manuals](https://man.archlinux.org/) / [TUI](https://codeberg.org/theooo/mantra.py)
 * ⭐ **[Ventoy](https://github.com/ventoy/Ventoy)** - Create Bootable USB Linux Drives

@@ -721,23 +721,6 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://70.88.180.169:8
 
 ***
 
-## Linux Distros
-
-* ⭐ **[Linux Difficulty Chart](https://i.ibb.co/kXJdBrF/98e87fc317dd.png)**
-* ⭐ **[Beginner Distros](https://ash.fail/distros.html)**
-* ⭐ **[DistroChooser](https://distrochooser.de/)** or [Fushra](https://distros.fushra.com/)
-* ⭐ **[DistroWatch](https://distrowatch.com/dwres.php?resource=popularity)**
-* ⭐ **[Babbies First Linux](https://wiki.installgentoo.com/index.php/Babbies_First_Linux)**
-* [distro.moe](https://distro.moe/) - Find Random Distros
-* [Linux Live Kit](https://www.linux-live.org/) - Live Distro Creator
-* [DotShare](http://dotshare.it/) - Distro Config Index
-* [ArchiveOS](https://archiveos.org/)
-* [LinuxTracker](https://linuxtracker.org/)
-* [OpenSourceFeed](https://www.opensourcefeed.org/)
-* [Pkgs](https://pkgs.org/)
-
-***
-
 ## Linux Themes
 
 [Gnome-Look](https://www.gnome-look.org/), [Themix](https://github.com/themix-project/themix-gui), [Arc](https://github.com/jnsh/arc-theme), [Numix](https://github.com/numixproject/numix-gtk-theme), [Evopop](https://github.com/solus-project/evopop-gtk-theme), [Flatablous](https://github.com/anmoljagetia/Flatabulous), [Flatablous Arc](https://github.com/andreisergiu98/arc-flatabulous-theme), [Material Ocean](https://github.com/material-ocean/material-ocean), [Ant](https://github.com/EliverLara/Ant), [xfce-look](https://www.xfce-look.org/), [UnixPorn](https://discord.gg/unixporn)
