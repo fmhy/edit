@@ -193,8 +193,8 @@
 
 ## ▷ Privacy Indexes
 
-* ⭐ **[Awesome Privacy](https://awesome-privacy.xyz/)** / [2](https://github.com/pluja/awesome-privacy) - List of Privacy Software/Services
-* ⭐ **[Security List](https://security-list.js.org/)** - Collection of Tips/Resources for Protecting Privacy
+* ⭐ **[Awesome Privacy](https://awesome-privacy.xyz/)** / [2](https://github.com/pluja/awesome-privacy) - List of Privacy Software & Services
+* ⭐ **[Security List](https://security-list.js.org/)** - Collection of Tips & Resources for Protecting Privacy
 * ⭐ **[The Hitchhiker’s Guide](https://anonymousplanet.org/)** - Extensive Guide to Online Anonymity
 * ⭐ **[Privacy Guides](https://www.privacyguides.org/)** - Educational Guide
 * ⭐ **[Surveillance Self-Defense](https://ssd.eff.org/)** - Educational Guide
@@ -202,10 +202,10 @@
 * [Defensive Computing Checklist](https://defensivecomputingchecklist.com/) - Privacy Guide
 * [AvoidTheHack](https://avoidthehack.com/) - Privacy Blog
 * [Privacy Tools List](https://privacytoolslist.com/) - Privacy Tools
+* [Hostux](https://hostux.network/) - Privacy Tools
 * [Alternative Internet](https://github.com/redecentralize/alternative-internet) - Collection of Decentralised Tools
 * [EncryptedList](https://encryptedlist.xyz/) - List of Encrypted Services/Apps
 * [ProductivePrivacy](https://productiveprivacy.com/) - Privacy-Focused Productivity Apps 
-* [Hostux](https://hostux.network/) - Privacy Tools
 
 ***
 
