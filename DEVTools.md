@@ -849,6 +849,7 @@
 * [Advisory Database](https://github.com/github/advisory-database) or [Att&ck](https://attack.mitre.org/) - Cybersecurity Defense Databases
 * [SSuite](https://spidersuite.github.io/SSuite/) - Web Security App
 * [osquery](https://github.com/osquery/osquery) or [Nmap](https://nmap.org/) - Security Monitors
+* [Canarytokens](https://canarytokens.org/generate) - Network Breach Check 
 * [Nuclei](https://github.com/projectdiscovery/nuclei) or [NVD](https://nvd.nist.gov/) - Vulnerability Tracking / Scanning
 * [Crowdsec](https://crowdsec.net/) - Crowd-Sourced Intrusion Detection / Prevention / [GitHub](https://github.com/crowdsecurity/crowdsec)
 * [X-Force Exchange](https://exchange.xforce.ibmcloud.com/) - Security Threat Intelligence Platform
@@ -860,7 +861,6 @@
 * [OpenSCA-CLI](https://github.com/XmirrorSecurity/OpenSCA-cli) - Composition Analysis for Third Party Components
 * [Unblob](https://unblob.org/) - Extraction Suite
 * [Security Onion Solutions](https://securityonionsolutions.com/), [Wazuh](https://wazuh.com/) or [Snyk](https://snyk.io/) / [GitHub](https://github.com/snyk/cli) - Site Security Monitor
-* [securitytxt](https://securitytxt.org/) - Create security.txt Files
 * [Greenbone](https://github.com/greenbone) - Vulnerability Management
 * [Evervault](https://evervault.com/) - Security / Compliance Infrastructure
 * [Teler](https://github.com/kitabisa/teler) - HTTP Intrusion Detection
@@ -1054,7 +1054,6 @@
 * [core-plot](https://github.com/core-plot/core-plot) - Core Plot Source Code / Apps
 * [tuc](https://github.com/riquito/tuc) - Improved Code Cut
 * [Lepton](https://hackjutsu.com/Lepton/) or [Pieces](https://pieces.app/) - Code Snippet Managers
-* [Mystb.in](https://mystb.in/), [codeshare](https://codeshare.io/), [paste.mod](https://paste.mod.gg/) or [snippet.host](https://snippet.host/) - Code Pastebins
 * [0xacab](https://about.0xacab.org/) - Code Host
 * [Mockaroo](https://mockaroo.com/) - Generate Mock Data
 * [OneLang IDE](https://ide.onelang.io/) - Convert Code to Multiple Languages
@@ -1357,7 +1356,6 @@
 * [AiToHTML](http://ai2html.org/) - Illustrator to HTML Converter
 * [gd2md-html](https://github.com/evbacher/gd2md-html) - Google Doc to Markdown / HTML Converter
 * [Quartz](https://quartz.jzhao.xyz/), [Perlite](https://github.com/secure-77/Perlite) or [FlowerShow](https://flowershow.app/) - Publish Markdown
-* [MarkdownPastebin](https://markdownpastebin.com/) - Markdown Pastebin
 
 ***
 
