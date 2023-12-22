@@ -102,7 +102,7 @@
 
 ## ▷ Aggregators
 
-* **Note** - Some aggregators still include TPB, so it's best to avoid using them for software and games.
+* **Note** - Aggregators include many sources, so it's best to avoid using them for software and games.
 
 ***
 
