@@ -213,6 +213,24 @@
 
 ***
 
+## ▷ Typing Lessons
+
+* ⭐ **[Monkey Type](https://monkeytype.com/)** - Customizable Typing Tests
+* [keybr](https://www.keybr.com/) - Typing Tests 
+* [Typing.com](https://www.typing.com/) - Typing Tests 
+* [Typing Club](https://www.typingclub.com/) - Typing Tests 
+* [typing.academy](https://www.typing.academy/) - Typing Tests
+* [TypeRacer](https://play.typeracer.com/) - Typing Games
+* [ZType](https://zty.pe/) - Typing Games
+* [TypeRush](https://www.typerush.com/) - Typing Games
+* [Ttyper](https://github.com/max-niederman/ttyper) or [TermTyper](https://github.com/kraanzu/termtyper) - Terminal Typing Tests
+* [TypeLit.io](https://www.typelit.io/) - Book Typing Tests
+* [Colemak Academy](https://www.colemak.academy/) - Alt / Custom Keyboard Tests
+* [klavaro](https://klavaro.sourceforge.io/), [TypingStudy](https://www.typingstudy.com/) or [TypeFast](https://typefast.io/) - Multilingual Typing Tests
+* [10fastfingers](https://10fastfingers.com/) - Typing Competitions
+
+***
+
 # ► Text Editors
 
 * 🌐 **[List of Text Editors](https://en.wikipedia.org/wiki/List_of_text_editors)** or [NoteApps](https://noteapps.info/) - Text Editor / Notepad Indexes
@@ -284,6 +302,22 @@
 * [KiloDoc](https://www.kilodoc.com/), [Edit-Document](https://edit-document.com/) or [GroupDocs](https://products.groupdocs.app/viewer/total) - Online Document Editors
 
 ***
+
+## ▷ Text / Code Collaboration
+
+* ⭐ **[Google Colaboratory](https://colab.research.google.com/)**
+* ⭐ **[Google Docs](https://www.google.com/docs/about/)**
+* ⭐ **[CryptPad](https://cryptpad.fr/)**
+* [Mattermost](https://mattermost.com/)
+* [HackMD](https://hackmd.io/) 
+* [Taskade](https://www.taskade.com/) 
+* [Socket](https://socket.io/) 
+* [Whimsical](https://whimsical.com/) 
+* [Firepad](https://firepad.io/) 
+* [Etherpad](https://etherpad.org/) 
+* [FidusWriter](https://www.fiduswriter.org/) 
+* [overleaf](https://www.overleaf.com/)
+* [RustPad](https://github.com/ekzhang/rustpad)
 
 ## ▷ Spreadsheet Editors
 
