@@ -315,10 +315,10 @@
 
 ## ▷ Privacy Browsers
 
+* ⭐ **[Tor Browser](https://www.torproject.org/)** - Onion-Routed Browser
 * ⭐ **[Mullvad Browser](https://mullvad.net/en/browser)** - Tor Browser Fork (w/o Tor network)
 * ⭐ **[Librewolf](https://librewolf.net/)**- Pre-tweaked Firefox Fork / **[Use Auto-Updater](https://github.com/ltguillaume/librewolf-winupdater)**
 * ⭐ **[arkenfox](https://github.com/arkenfox/user.js)**- Firefox Privacy Tweak / [Video](https://youtu.be/F7-bW2y6lcI)
-* ⭐ **[Tor Browser](https://www.torproject.org/)** - Onion-Routed Browser
 * [Brave](https://brave.com/) - Chromium Based Browser
 
 ***
