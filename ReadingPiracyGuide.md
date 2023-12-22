@@ -137,7 +137,7 @@
 * [/r/FreeEBOOKS](https://reddit.com/r/FreeEBOOKS)
 * [/r/KindleFreebies](https://reddit.com/r/KindleFreebies/)
 * [WorldCat](https://www.worldcat.org/) or [TRL](https://www.trl.org/) - Search Local Libraries / [Extension](https://www.libraryextension.com/)
-* [Nexus Bot](https://t.me/science_nexus_bot) / [2](https://libstc.cc/#/help) - Create your own TG Book Bot / [Twitter](https://twitter.com/the_superpirate) / [Mastadon](https://kolektiva.social/@the_superpirate) / [Guide](https://youtu.be/i9TNgb9pjV8)
+* [Nexus Bot](https://t.me/science_nexus_bot) - Create your own TG Book Bot / [Twitter](https://twitter.com/the_superpirate) / [Mastadon](https://kolektiva.social/@the_superpirate) / [Guide](https://youtu.be/i9TNgb9pjV8)
 
 ***
 
@@ -569,7 +569,7 @@
 * [Higher Intellect](https://preterhuman.net/) - Document Search
 * [qDoc](https://idoc.tips/) - Document Search
 * [Doc Search](https://parksdigital.com/doc-search/) - Document Search
-* [STC](https://standard--template--construct-org.ipns.dweb.link/) - Document / Article Text Search
+* [STC](hhttps://libstc.cc/) - Document / Article Text Search
 * [KUNDOC](https://c.coek.info/) - Science / Articles
 * [DOKU.PUB](https://doku.pub/) - Science / Articles
 * [Dataone](https://www.dataone.org/) - Datasets
