@@ -515,6 +515,24 @@
 
 ***
 
+## ▷ Typing Lessons
+
+* ⭐ **[Monkey Type](https://monkeytype.com/)** - Customizable Typing Tests
+* [keybr](https://www.keybr.com/) - Typing Tests 
+* [Typing.com](https://www.typing.com/) - Typing Tests 
+* [Typing Club](https://www.typingclub.com/) - Typing Tests 
+* [typing.academy](https://www.typing.academy/) - Typing Tests
+* [TypeRacer](https://play.typeracer.com/) - Typing Games
+* [ZType](https://zty.pe/) - Typing Games
+* [TypeRush](https://www.typerush.com/) - Typing Games
+* [Ttyper](https://github.com/max-niederman/ttyper) or [TermTyper](https://github.com/kraanzu/termtyper) - Terminal Typing Tests
+* [TypeLit.io](https://www.typelit.io/) - Book Typing Tests
+* [Colemak Academy](https://www.colemak.academy/) - Alt / Custom Keyboard Tests
+* [klavaro](https://klavaro.sourceforge.io/), [TypingStudy](https://www.typingstudy.com/) or [TypeFast](https://typefast.io/) - Multilingual Typing Tests
+* [10fastfingers](https://10fastfingers.com/) - Typing Competitions
+
+***
+
 # ► Text Editors
 
 * 🌐 **[List of Text Editors](https://en.wikipedia.org/wiki/List_of_text_editors)** or [NoteApps](https://noteapps.info/) - Text Editor / Notepad Indexes
@@ -586,6 +604,22 @@
 * [KiloDoc](https://www.kilodoc.com/), [Edit-Document](https://edit-document.com/) or [GroupDocs](https://products.groupdocs.app/viewer/total) - Online Document Editors
 
 ***
+
+## ▷ Text / Code Collaboration
+
+* ⭐ **[Google Colaboratory](https://colab.research.google.com/)**
+* ⭐ **[Google Docs](https://www.google.com/docs/about/)**
+* ⭐ **[CryptPad](https://cryptpad.fr/)**
+* [Mattermost](https://mattermost.com/)
+* [HackMD](https://hackmd.io/) 
+* [Taskade](https://www.taskade.com/) 
+* [Socket](https://socket.io/) 
+* [Whimsical](https://whimsical.com/) 
+* [Firepad](https://firepad.io/) 
+* [Etherpad](https://etherpad.org/) 
+* [FidusWriter](https://www.fiduswriter.org/) 
+* [overleaf](https://www.overleaf.com/)
+* [RustPad](https://github.com/ekzhang/rustpad)
 
 ## ▷ Spreadsheet Editors
 
@@ -1750,6 +1784,27 @@
 * [TrayVolumeControl](https://github.com/krlvm/TrayVolumeControl) - Control Tray Volume via Scroll
 * [HideVolumeOSD](https://github.com/UnlimitedStack/HideVolumeOSD) - Hide Volume Bar
 * [WinMute](https://github.com/lx-s/WinMute/) - Automatically Mute PC
+
+***
+
+## ▷ Package Managers
+
+* ⭐ **[Scoop](https://scoop.sh/)**
+* ⭐ **[Ninite](https://ninite.com/)**
+* ⭐ **[WinGet](https://github.com/microsoft/winget-cli)**
+* ⭐ **WinGet Tools** - [Tools](https://github.com/jdhitsolutions/WingetTools) / [Winget UI](https://github.com/marticliment/WingetUI) / [Packages](https://github.com/microsoft/winget-pkgs), [2](https://winget.run/) / [Automation](https://github.com/topgrade-rs/topgrade) / [Pac-Man](https://github.com/rami3l/pacaptr)
+* [NirLauncher](https://launcher.nirsoft.net/)
+* [Chocolatey](https://chocolatey.org/) / [GUI](https://github.com/chocolatey/ChocolateyGUI)
+* [Spinel](https://spinel.ovh/) - Multi-Program Install Script Generator 
+* [Silent Install](https://www.silentinstall.org/) - Build Multi-Program Installers
+* [CouleursToolbox](https://github.com/couleurm/couleurstoolbox)
+* [Patch My PC](https://patchmypc.com/home-updater)
+* [WinInstall](https://winstall.app/)
+* [Scoop The Installer](https://github.com/couleur-tweak-tips/the-installer)
+* [RuckZuck](https://ruckzuck.tools/)
+* [0Install](https://0install.net/)
+* [portableapps](https://portableapps.com/download)
+* [Baulk](https://github.com/baulk/baulk)
 
 ***
 
@@ -4929,11 +4984,9 @@
 # ► Fediverse Tools
 
 * 🌐 **[Awesome Fediverse](https://github.com/emilebosch/awesome-fediverse)** - Fediverse Resources
-* ↪️ **[Mastodon Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_mastodon_tools)**
 * ⭐ **[Fediverse](https://fediverse.party/)**, [Fediverse.space](https://fediverse.space/), [sub.rehab](https://sub.rehab/) or [Fediverse Observer](https://mastodon.fediverse.observer/) - Fediverse Instance Search
 * ⭐ **[Lemmy Explorer](https://lemmyverse.net/)**, [Community-Browser](https://browse.feddit.de/) or [Awesome Instances](https://github.com/maltfield/awesome-lemmy-instances) - Lemmy Instances
 * ⭐ **[Lemmy](https://join-lemmy.org/)** / [Stats](https://the-federation.info/), [2](https://fedidb.org/) - Federated Reddit Alternative
-* ⭐ **[Mastodon](https://joinmastodon.org/)** - Federated Microblogging
 * ⭐ **[Pleroma](https://pleroma.social/)** - Federated Microblogging
 * ⭐ **[Pixelfed](https://pixelfed.org/)** - Federated Microblogging
 * ⭐ **[diaspora*](https://diasporafoundation.org/)**, [2](https://diasp.org/) - Federated Microblogging
@@ -4945,6 +4998,18 @@
 * [Fediverse Stats](https://the-federation.info/) or [FediDB](https://fedidb.org/) - Fediverse statistics
 * [Fediverser](https://portal.alien.top/) - Reddit to Lemmy Community Auto-Sync
 * [LemmyTools](https://github.com/howdy-tsc/LemmyTools) - Lemmy Improvement Extension
+
+***
+
+## ▷ Mastodon Tools
+
+* ⭐ **[Mastodon](https://joinmastodon.org/)** - Federated Microblogging
+* [Tuba](https://tuba.geopjr.dev/) - Viewer
+* [Kaiteki](https://kaiteki.app/) - Viewer
+* [Mastodon Scheduler](https://scheduler.mastodon.tools/) - Schedule when to send post
+* [Mastodon Instances](https://instances.social/) - Instances Index 
+* [MastoVue](https://mastovue.glitch.me/) - View public timelines or hashtags
+* [Cheap Bots, Toot Sweet!](https://cheapbotstootsweet.com/) - Create Bots
 
 ***
 
@@ -5521,12 +5586,9 @@
 # ► Career
 
 * 🌐 **[Common Q&As](https://www.indeed.com/career-advice/interviewing/top-interview-questions-and-answers)** - Interview Questions Index
-* ↪️ **[Resume Creators](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_resume_makers)**
 * ↪️ **[Collaboration Platforms](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_collaboration_platforms)**
 * ⭐ **[5000 Best Job Sites](http://5000best.com/websites/Jobs/)**, [4DayWeek](https://4dayweek.io/) or [Indeed](https://www.indeed.com/) - Job Search Sites
 * ⭐ **[Comparably](https://www.comparably.com/)** or [GoodFirms](https://www.goodfirms.co/) - Compare Companies / Salaries
-* ⭐ **[Resume Guide](https://hwpi.harvard.edu/files/ocs/files/hes-resume-cover-letter-guide.pdf)**, [CareerCup](https://www.careercup.com/resume) or [Masters](https://hwpi.harvard.edu/files/ocs/files/masters_resume_cover_letters.pdf) - Resume / Cover Letter Guides
-* ⭐ **[KickResume](https://www.kickresume.com/en/help-center/resume-samples/)** or [ThisResumeDoesNotExist](https://thisresumedoesnotexist.com/) - Resume Samples
 * ⭐ **[Reverse Interview](https://github.com/viraptor/reverse-interview)** or [job-interview-questions](https://github.com/lkostrowski/job-interview-questions-to-ask-companies) - Questions to Ask Potential Employers
 * ⭐ **[Kimai](https://www.kimai.org/)** - Working Hours Tracker
 * [JobBoardSearch](https://jobboardsearch.com/), [CyberCoders](https://www.cybercoders.com/), [whoishiring](https://whoishiring.io/), [Toby Tools](https://rentry.co/qnu6x), [The Muse](https://www.themuse.com/search/) or [EuroJobs](https://eurojobs.com/) - Job Search
@@ -5566,6 +5628,32 @@
 * [Candor](https://candor.co/hiring-freezes/) - Hiring Freezes
 * [GoodJobsFirst](https://goodjobsfirst.org/) - Subsidy Tracker
 * [QR Menu Creator](https://qrmenucreator.com/) - Convert Menu to QR Codes
+
+***
+
+## ▷ Resume Makers
+
+* ⭐ **[Resume Guide](https://hwpi.harvard.edu/files/ocs/files/hes-resume-cover-letter-guide.pdf)**, [CareerCup](https://www.careercup.com/resume) or [Masters](https://hwpi.harvard.edu/files/ocs/files/masters_resume_cover_letters.pdf) - Resume / Cover Letter Guides
+* ⭐ **[KickResume](https://www.kickresume.com/en/help-center/resume-samples/)** or [ThisResumeDoesNotExist](https://thisresumedoesnotexist.com/) - Resume Samples
+* ⭐ **[RX Resume](https://rxresu.me/)**
+* [ResumeMatcher](https://www.resumematcher.fyi/)
+* [cvmkr](https://cvmkr.com/)
+* [resumonk](https://www.resumonk.com/)
+* [ceev](https://ceev.io/) 
+* [creddle](http://creddle.io/)
+* [flowcv](https://flowcv.com/)
+* [cvservant](https://cvservant.com/cv/)
+* [resume-nation](https://resume-nation.github.io/)
+* [cv2you](https://cv2you.com/)
+* [sajilocv](https://sajilocv.com/)
+* [intelligentcv](https://www.intelligentcv.app/)
+* [cakeresume](https://www.cakeresume.com/)
+* [resumgo](https://www.resumgo.com/)
+* [resumake](https://latexresu.me/)
+* [Covered](https://covered.works/)
+* [open-resume](https://www.open-resume.com/)
+* [novoresume](https://novoresume.com/)
+* [ResumeFromSpace](https://resumefromspace.com/)
 
 ***
 
@@ -14075,11 +14163,6 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://70.88.180.169:8
 
 ***
 
-## General Recipes
-
-
-***
-
 ## Google Piracy Discussion Groups
 
 * https://techy-transistor.notion.site/Team-drives-ab7ebffc1e5040b5b5362e9d70fca4d5
@@ -14229,8 +14312,6 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://70.88.180.169:8
 * [AZLyrics](https://www.azlyrics.com/), [FindMusicByLyrics](https://findmusicbylyrics.com/) or [Lyrics.com](https://www.lyrics.com/) - Lyric Search
 * [Versefy](https://versefy.app/) or [Lyrics-In-Terminal](https://github.com/Jugran/lyrics-in-terminal) - Lyrics Finder for Spotify, Tidal & VLC
 * [Lyrist](https://lyrist.app) - Write Lyrics w/ Beats
-* [song-lyrics-generator](https://www.song-lyrics-generator.org.uk/) or [Lyricistant](https://lyricistant.app/) - Lyrics Generators
-* [Deep Beat](https://deepbeat.org/) - Rap Lyrics Generator
 
 ***
 
@@ -14246,12 +14327,6 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://70.88.180.169:8
 ## M4UFree Clones
 
 [M4uFree](https://ww1.m4ufree.tv/), [Streamm4u](https://ww1.streamm4u.com/) / [2](https://streamm4u.ws/), [m4ufree.to](https://m4ufree.to/), [m4uhd](https://m4uhd.tv/) / [2](https://m4uhd.cc/), [m4umv](https://m4umv.org/)
-
-***
-
-## Mastodon Tools
-
-[Web Client](https://pinafore.social/) / [Desktop Client](https://tuba.geopjr.dev/), [2](https://kaiteki.app/) / [Schedule](https://scheduler.mastodon.tools/) / [Twitter Sync](https://github.com/klausi/mastodon-twitter-sync) / [Instances](https://instances.social/) / [Twitter Account Link](https://moaparty.com/) / [Embedded Feeds](https://www.mastofeed.com/) / [Timelines](https://mastovue.glitch.me/) / [Create Bots](https://cheapbotstootsweet.com/)
 
 ***
 
@@ -14416,21 +14491,6 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://70.88.180.169:8
 
 ***
 
-## Package Managers
-
-* ⭐ **[Scoop](https://scoop.sh/)**
-* ⭐ **[Ninite](https://ninite.com/)**
-* ⭐ **[WinGet](https://github.com/microsoft/winget-cli)**
-* ⭐ **WinGet Tools** - [Tools](https://github.com/jdhitsolutions/WingetTools) / [Winget UI](https://github.com/marticliment/WingetUI) / [Packages](https://github.com/microsoft/winget-pkgs), [2](https://winget.run/) / [Automation](https://github.com/topgrade-rs/topgrade) / [Pac-Man](https://github.com/rami3l/pacaptr)
-* [NirLauncher](https://launcher.nirsoft.net/)
-* [Chocolatey](https://chocolatey.org/) / [GUI](https://github.com/chocolatey/ChocolateyGUI)
-* [Spinel](https://spinel.ovh/) - Multi-Program Install Script Generator 
-* [Silent Install](https://www.silentinstall.org/) - Build Multi-Program Installers
-
-[CouleursToolbox](https://github.com/couleurm/couleurstoolbox), [Patch My PC](https://patchmypc.com/home-updater), [WinInstall](https://winstall.app/), [Scoop The Installer](https://github.com/couleur-tweak-tips/the-installer), [RuckZuck](https://ruckzuck.tools/), [0Install](https://0install.net/), [portableapps](https://portableapps.com/download), [Baulk](https://github.com/baulk/baulk) 
-
-***
-
 ## Password Data Breach Check
 
 ⭐ **[HaveIBeenPwned PW](https://haveibeenpwned.com/Passwords)**
@@ -14579,14 +14639,6 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://70.88.180.169:8
 * ⭐ **[mvsep](https://mvsep.com/)**
 
 [VocalRemover](https://vocalremover.org/) / [GUI](https://github.com/Anjok07/ultimatevocalremovergui) / [2](https://github.com/Anjok07/ultimatevocalremovergui/tree/v5-beta-cml), [PhonicMind](https://phonicmind.com/), [AIVocalRemover](https://aivocalremover.com/), [Ultimate Vocal Remover](https://colab.research.google.com/github/NaJeongMo/Colaboratory-Notebook-for-Ultimate-Vocal-Remover/blob/main/Vocal%20Remover%205_arch.ipynb), [x-minus](https://x-minus.pro/ai), [online-vocal-remover](https://www.notta.ai/en/tools/online-vocal-remover), [Remove Vocals](https://www.remove-vocals.com/), [vocali](https://vocali.se/en), [voxremover](https://voxremover.com/), [mazmazika](https://www.mazmazika.com/), [demixor](https://demixor.com/), [karaoke-maker](https://humtools.com/karaoke-maker/), [MDX23](https://colab.research.google.com/github/jarredou/MVSEP-MDX23-Colab_v2/blob/v2.2/MVSep-MDX23-Colab.ipynb)
-
-***
-
-## Resume Makers
-
-* ⭐ **[RX Resume](https://rxresu.me/)**
-
-[ResumeMatcher](https://www.resumematcher.fyi/), [cvmkr](https://cvmkr.com/), [resumonk](https://www.resumonk.com/), [ceev](https://ceev.io/), [creddle](http://creddle.io/), [flowcv](https://flowcv.com/), [cv2you](https://cv2you.com/), [cvservant](https://cvservant.com/cv/), [resume-nation](https://resume-nation.github.io/), [sajilocv](https://sajilocv.com/), [intelligentcv](https://www.intelligentcv.app/), [cakeresume](https://www.cakeresume.com/), [resumgo](https://www.resumgo.com/), [resumake](https://latexresu.me/), [Covered](https://covered.works/), [open-resume](https://www.open-resume.com/), [novoresume](https://novoresume.com/), [ResumeFromSpace](https://resumefromspace.com/)
 
 ***
 
@@ -14936,15 +14988,6 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://70.88.180.169:8
 
 [iFiction](https://www.ifiction.org/) (Index), [IFDB](https://ifdb.org/) (Index), [Ifarchive](https://ifarchive.org/if-archive/games/) (drive), [Pac-Txt](http://www.pactxt.com/), [AI Dungeon](https://play.aidungeon.io/main/landing), [A Dark Room](https://adarkroom.doublespeakgames.com/), [The Never Ending Quest](https://www.sir-toby.com/extend-a-story/story-1/code/read.php), [The Text Adventure](https://kevan.org/wikitext/), [Seedship](https://philome.la/johnayliff/seedship/play/index.html), [TextAventures](http://textadventures.co.uk/), [Crank](https://faedine.com/games/crank/b39/), [Umbra](https://umbra.avalon-rpg.com/), [Web Adventures](https://www.web-adventures.org/), [WrittenRealms](https://writtenrealms.com/), [MUDII](http://www.mudii.co.uk/), [doublespeak](https://doublespeak.chat/), [Genesis](https://www.genesismud.org/), [Fateful Quest](https://fateful.quest/)
 
-***
-
-## Text / Code Collaboration
-
-* ⭐ **[Google Colaboratory](https://colab.research.google.com/)**
-* ⭐ **[Google Docs](https://www.google.com/docs/about/)**
-* ⭐ **[CryptPad](https://cryptpad.fr/)**
-
-[Mattermost](https://mattermost.com/), [HackMD](https://hackmd.io/), [Taskade](https://www.taskade.com/), [Socket](https://socket.io/), [Whimsical](https://whimsical.com/), [Firepad](https://firepad.io/), [Etherpad](https://etherpad.org/), [FidusWriter](https://www.fiduswriter.org/), [overleaf](https://www.overleaf.com/), [RustPad](https://github.com/ekzhang/rustpad)
 
 ***
 
@@ -14988,19 +15031,6 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://70.88.180.169:8
 * https://t.me/TorrentBots (List)
 * https://t.me/TorrentLeechingGroup (list)
 * https://t.me/MirrorBots (list)
-
-***
-
-## Typing Lessons
-
-* ⭐ **[Monkey Type](https://monkeytype.com/)** - Customizable Typing Tests
-* [keybr](https://www.keybr.com/), [Typing.com](https://www.typing.com/), [Typing Club](https://www.typingclub.com/) or [typing.academy](https://www.typing.academy/) - Typing Tests
-* [TypeRacer](https://play.typeracer.com/), [ZType](https://zty.pe/) or [TypeRush](https://www.typerush.com/) - Typing Games
-* [Ttyper](https://github.com/max-niederman/ttyper) or [TermTyper](https://github.com/kraanzu/termtyper) - Terminal Typing Tests
-* [TypeLit.io](https://www.typelit.io/) - Book Typing Tests
-* [Colemak Academy](https://www.colemak.academy/) - Alt / Custom Keyboard Tests
-* [klavaro](https://klavaro.sourceforge.io/), [TypingStudy](https://www.typingstudy.com/) or [TypeFast](https://typefast.io/) - Multilingual Typing Tests
-* [10fastfingers](https://10fastfingers.com/) - Typing Competitions
 
 ***
 
