@@ -78,6 +78,7 @@
 
 * 🌐 **[Privacy Browser Comparisons](https://divestos.org/pages/browsers)**
 * ⭐ **[Mull](https://f-droid.org/packages/us.spotco.fennec_dos/)**
+* ⭐ **[Tor](https://tb-manual.torproject.org/mobile-tor/)** - Onion-Routed Browser
 * [DuckDuckGo Privacy Browser](https://duckduckgo.com/app)
 * [SmartCookieWeb](https://smartcookieweb.com/)
 * [Privacy Browser](https://www.stoutner.com/privacy-browser-android/)
