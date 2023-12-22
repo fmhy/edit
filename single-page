@@ -9607,7 +9607,7 @@
 * ⭐ **[serverless-dns](https://github.com/serverless-dns/serverless-dns)** - Serverless DNS
 * [Adguard DNS](https://adguard-dns.io/), [AlternateDNS](https://alternate-dns.com/index.php), [LibreDNS](https://libredns.gr/) or [Diversion](https://diversion.ch/) - DNS Adblocking
 * [Pi-Hole](https://pi-hole.net/) - DNS Adblocking / Self-Hosted
-* Pi-Hole Tools - [Install Script](https://github.com/DesktopECHO/Pi-Hole-for-WSL1) / [Filter](https://firebog.net/) / [Firefox](https://addons.mozilla.org/en-US/firefox/addon/alanine/) / [Chrome](https://chromewebstore.google.com/webstore/detail/alanine/lohlpbknpcngpjifmofkidennikljlfi) / [Docker](https://hub.docker.com/repository/docker/kulda22/alanine) / [Antitelemetry](https://github.com/MoralCode/pihole-antitelemetry)
+* Pi-Hole Tools - [Install Script](https://github.com/DesktopECHO/Pi-Hole-for-WSL1) / [Filter](https://firebog.net/) / [Firefox](https://addons.mozilla.org/en-US/firefox/addon/alanine/) / [Chrome](https://chromewebstore.google.com/detail/alanine/lohlpbknpcngpjifmofkidennikljlfi) / [Docker](https://hub.docker.com/repository/docker/kulda22/alanine) / [Antitelemetry](https://github.com/MoralCode/pihole-antitelemetry)
 * [TBlock](https://tblock.me/) - DNS Adblocking / [Filters](https://codeberg.org/tblock/filters)
 * [dog](https://dns.lookup.dog/) - DNS CLI
 * [Quad9](https://quad9.net/) - Malware, Phishing, Spyware & Botnet DNS Protection
@@ -9870,10 +9870,10 @@
 * [SocialSharePrivacy](https://panzi.github.io/SocialSharePrivacy/) - Turn Off Social Sharing Buttons
 * [Firefox Privacy Settings](https://addons.mozilla.org/en-US/firefox/addon/privacy-settings/) - Firefox Privacy Settings Manager
 * [WebRTC Control](https://mybrowseraddon.com/webrtc-control.html) or [WebRTC](https://addons.mozilla.org/en-GB/firefox/addon/happy-bonobo-disable-webrtc/) - Enable / Disable WebRTC 
-* [WebRTC Network Limiter](https://chromewebstore.google.com/detail/webrtc-network-limiter/npeicpdbkakmehahjeeohfdhnlpdklia) - WebRTC Network Traffic Config 
+* [WebRTC Network Limiter](https://chromewebstore.google.com/detail/webrtc-network-limiter/npeicpdbkakmehahjeeohfdhnlpdkliaen) - WebRTC Network Traffic Config 
 * [Forget Me Not](https://addons.mozilla.org/en-US/firefox/addon/forget_me_not/) - Only keeps website data for sites you choose
 * [Private Bookmarks](https://pastebin.com/H8vnQqiY) - Password Protected Bookmarks
-* [eCleaner](https://add0n.com/ecleaner.html) or [History & Cache Cleaner](https://chromewebstore.google.comdetail/history-cache-cleaner/oiecpgbfcchalgdchgoplichofjadhmk/related) - History & Cache Cleaner
+* [eCleaner](https://add0n.com/ecleaner.html) or [History & Cache Cleaner](https://chromewebstore.google.com/detail/history-cache-cleaner/oiecpgbfcchalgdchgoplichofjadhmk/related) - History & Cache Cleaner
 * [WhatsApp Privacy Extension](https://pfwa.lukaslen.com/) - Hide WhatsApp Messages Until Hovered Over / [GitHub](https://github.com/LukasLen/Privacy-Extension-For-WhatsApp-Web)
 * [Temporary Containers](https://addons.mozilla.org/en-US/firefox/addon/temporary-containers/) - Disposable Containers 
 * [WAIncognito](https://chromewebstore.google.com/detail/waincognito/alhmbbnlcggfcjjfihglopfopcbigmil) - Disable WhatsApps Read Receipts & Presence Updates 
