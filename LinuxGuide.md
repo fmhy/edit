@@ -292,13 +292,11 @@
 * [Wayland](https://wayland.freedesktop.org/) - Linux Display Server Protocol / [Tools](https://arewewaylandyet.com/)
 * [river](https://github.com/riverwm/river/), [LabWC](https://github.com/labwc/labwc), [Hyprland](https://hyprland.org/), [kiwmi](https://github.com/buffet/kiwmi), [picom](https://github.com/yshui/picom), [wayfire](https://github.com/WayfireWM/wayfire/) or [sway](https://swaywm.org/) - Wayland Compositors
 * [Compix](https://github.com/xeome/compix) - Xorg Compositor
-* [/r/linuxupskillchallenge](https://www.reddit.com/r/linuxupskillchallenge/) - How-to Sysadmin a Remote Server
 * [Free Cloud Linux Server](https://github.com/nbats/FMHYedit/blob/main/base64.md#free-cloud-linux-server) - Free Cloud Server Guide
 * [yet another bench script](https://github.com/masonr/yet-another-bench-script) - Server Performance Script
 * [Bandwhich](https://github.com/imsnif/bandwhich) - Terminal Bandwidth Utilization Tool 
 * [Rang3r](https://github.com/floriankunushevci/rang3r) - IP / Port Scanner
 * [sttr](https://github.com/abhimanyu003/sttr) - Base64 Encryption / Decryption TUI
-* [PeerVPN](https://peervpn.net/) - P2P VPN
 * [Knapsu](https://knapsu.eu/plex/) or [Cloudbox](https://cloudbox.works/) - Media Server
 * [ansible-hms-docker](https://github.com/ahembree/ansible-hms-docker) - Automated Media Server Setup
 * [Netflix Proxy](https://github.com/ab77/netflix-proxy/) - Streaming Service Proxy
@@ -307,22 +305,14 @@
 * [rtinst](https://github.com/arakasi72/rtinst) - Seedbox Installation Script for Ubuntu / Debian
 * [SeedSync](https://github.com/ipsingh06/seedsync) - Sync your Seedbox
 * [GNU Social](https://gnusocial.network/) - Self-Hosted Social Networking Platform
-* [Hexchat](https://hexchat.github.io/), [Adium](https://adium.im/), [Polari](https://wiki.gnome.org/Apps/Polari), [Irssi](https://github.com/irssi/irssi), [KVIrc](https://www.kvirc.net/) or [Weechat](https://weechat.org/) - IRC Clients
+* [Hexchat](https://hexchat.github.io/), [Adium](https://adium.im/), [Polari](https://wiki.gnome.org/Apps/Polari), [Irssi](https://github.com/irssi/irssi) or [Weechat](https://weechat.org/) - IRC Clients
 * [gurk-rs](https://github.com/boxdot/gurk-rs) - Signal Client
 * [YouTube-Viewer](https://github.com/trizen/youtube-viewer) - YouTube Linux Client / [Fork](https://github.com/trizen/pipe-viewer) 
-* [Gnome-Twitch](https://github.com/vinszent/gnome-twitch) - Twitch Desktop Client
-* [Whatsdesk](https://zerkc.gitlab.io/whatsdesk/) or [ZapZap](https://github.com/rafatosta/zapzap) - WhatsApp Client
-* [Giara](https://aur.archlinux.org/packages/giara/) or [Headlines](https://gitlab.com/caveman250/Headlines) - Reddit Client
-* [reddio](https://gitlab.com/aaronNG/reddio) - Reddit CLI
-* [Giara](https://gitlab.com/gabmus/giara) - GTK Reddit App
-* [rainbowstream](https://github.com/orakaro/rainbowstream) - Twitter CLI
-* [LiMP](https://git.coom.tech/eternal-coomer/LiMP) - Local Booru
+* [Giara](https://aur.archlinux.org/packages/giara/) - Reddit Client
 * [Nextcord](https://github.com/nextcord/nextcord) - Discord API Wrapper
 * [Discover](https://github.com/trigg/Discover) - Discord Overlay
 * [dvm](https://github.com/diced/dvm) - Discord Version Manager
-* [Discord RPM](https://github.com/RPM-Outpost/discord ) - Automated Discord Update Script
-* [emoj](https://www.npmjs.com/package/emoj), [Rofimoji](https://github.com/fdw/rofimoji), [Shmoji](https://github.com/biox/shmoji) - Emoji CLI's
-* [wikit](https://github.com/KorySchneider/wikit) - Wikipedia Summaries
+* [Rofimoji](https://github.com/fdw/rofimoji), [Shmoji](https://github.com/biox/shmoji) - Emoji CLI's
 
 ***
 
@@ -382,7 +372,6 @@
 * [atuin](https://github.com/ellie/atuin) - Shell History Management
 * [cbonsai](https://gitlab.com/jallbrit/cbonsai) - Generate Bonsai Trees in Terminal
 * [pipes.sh](https://github.com/pipeseroni/pipes.sh) or [pipes-rs](https://github.com/lhvy/pipes-rs) - Animated Pipes in Terminal
-* [Neo Matrix Git](https://aur.archlinux.org/packages/neo-matrix-git/) - Simulate Matrix Digital Rain
 * [Terminal Locomotive Train](https://pastebin.com/ayrFjrh6) - Train Terminal Easter Egg
 * [ASCIIQuarium](https://robobunny.com/projects/asciiquarium/html/) - Fish in Terminal
 
