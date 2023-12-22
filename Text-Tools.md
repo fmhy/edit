@@ -60,6 +60,8 @@
 * [centos](https://paste.centos.org/)
 * [blankslate](https://blankslate.io/)
 * [microbin](https://microbin.eu/)
+* [MarkdownPastebin](https://markdownpastebin.com/) - Markdown Pastebin
+* [Mystb.in](https://mystb.in/), [codeshare](https://codeshare.io/), [paste.mod](https://paste.mod.gg/) or [snippet.host](https://snippet.host/) - Code Pastebins
 
 ***
 
