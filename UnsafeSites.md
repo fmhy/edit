@@ -90,7 +90,7 @@
 
 ### How-to Send Reports
 
-* To suggest something for the list, please leave a comment on [this thread](https://www.reddit.com/r/FREEMEDIAHECKYEAH/comments/10bh0h9/unsafe_sites_software_thread/), or contact us via [Divolt](https://redd.it/uto5vw).
+* To suggest something for the list, please leave a comment on [this thread](https://www.reddit.com/r/FREEMEDIAHECKYEAH/comments/10bh0h9/unsafe_sites_software_thread/), or contact us via [Discord](https://discord.gg/Stz6y6NgNg).
 
 * Never include a URL, just the name of the site / software, and the reason you feel people should avoid it. 
 
