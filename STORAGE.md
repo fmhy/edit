@@ -465,10 +465,8 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://70.88.180.169:8
 * https://www.zoneedit.com/free-dns/
 * https://www.dnsabr.com/
 * https://dns.sb/
-* https://github.com/dns-sb/dns.sb
 * https://www.bestdns.org/
 * https://public-dns.info/
-* https://rentry.org/bestdnsservers
 
 ***
 
