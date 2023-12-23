@@ -126,10 +126,6 @@ export default defineConfig({
       { text: "🐧 Linux / MacOS", link: "/linuxguide" },
       { text: "🌍 Non-English", link: "/non-english" },
       { text: "📂 Miscellaneous", link: "/miscguide" },
-      { text: "🔞 NSFW", link: "/nsfwpiracy" },
-      { text: "⚠️ Unsafe Sites", link: "/unsafesites" },
-      { text: "🔑 Base64", link: "/base64" },
-      { text: "📦 Storage", link: "/storage" },
       {
         text: "🔧 Tools",
         collapsed: false,
@@ -145,6 +141,16 @@ export default defineConfig({
           { text: "🔊 Audio Tools", link: "/audio-tools" },
           { text: "🍎 Educational Tools", link: "/edupiracyguide#educational-tools" },
           { text: "👨‍💻 Developer Tools", link: "/devtools" },
+        ],
+      },
+      {
+        text: "More",
+        collapsed: false,
+        items: [
+          { text: "🔞 NSFW", link: "/nsfwpiracy" },
+          { text: "⚠️ Unsafe Sites", link: "/unsafesites" },
+          { text: "🔑 Base64", link: "/base64" },
+          { text: "📦 Storage", link: "/storage" },
         ],
       },
     ],
