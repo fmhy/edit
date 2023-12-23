@@ -1677,6 +1677,7 @@
 * [HHKungfu](https://hhhkungfu.tv/) - Chinese Animation
 * [HHTQvip](https://hhtq.vip/) - Chinese Animation
 * [VuiGhe](https://vuigher.com/) - Anime
+* [animevietsub](https://animevietsub.fan/) - Anime
 * [Ani4u](https://ani4u.org/) - Anime
 * [AnimeHay](https://animehay.fan/) - Anime
 * [AnimeTVN](https://animetvn.com/) - Anime
@@ -1717,11 +1718,13 @@
 * [DichTruyen](https://dichtruyenpro05.com/) - Manga / Manhwa / Manhua / [Facebook](https://www.facebook.com/dichtruyenteam/)
 * [cuutruyen](https://cuutruyen.net/) - Manga
 * [teamlanhlung](https://teamlanhlung.com/) - Manga
-* [truyenvn](https://truyenvnhot.tv/) - Manga
+* [blogtruyen](https://blogtruyen.vn/) - Manga
+* [truyenvn](https://truyenvnhay.tv/) - Manga/ Manhwa/ Manhua
 * [truyengihay](https://truyengihotne.com/) - Manga
-* [NetTruyen](https://www.nettruyento.com/) - Manga / Manhwa / Manhua
+* [NetTruyen](https://www.nettruyenus.com/) - Manga / Manhwa / Manhua
 * [TruyenFull](https://truyenfull.vn/) - Manga / Light Novels
 * [Hako](https://docln.net/), [2](https://novelvn.net/) - Light Novels / [Facebook](https://www.facebook.com/groups/hako.group)
+* [Sonako](https://sonako.fandom.com/vi/wiki/Sonako_Light_Novel) - Light Novels / [Facebook](https://www.facebook.com/SonakoWiki/)
 * [Babla](https://www.babla.vn/) - Dictionary
 * [VDict](https://vdict.com/) - Dictionary
 * [VTuDien](https://vtudien.com/) - Dictionary
