@@ -21,14 +21,6 @@
 
 ***
 
-## 4chan Archives
-
-* ⭐ **[boards.4channel](https://boards.4channel.org/search)**, [2](https://boards.4chan.org/search)
-
-[4GBs of 4chan Threads](https://archive.org/details/4chan-threads-2009-2012), [Ten Billion](https://archive.org/details/4chan_threads_archive_10_billion), [old.sage](https://old.sage.moe/), [BibAnon](https://vyrd.bibanon.org/), [4Museum](https://4museum.neocities.org/), [Archive.4plebs](https://archive.4plebs.org/), [arch.b4k](https://arch.b4k.co/), [Sup/tg/](https://suptg.thisisnotatrueending.com/), [4chanSearch](https://4chansearch.com/), [4search](https://4search.neocities.org/), [palanq](https://archive.palanq.win/), [desuarchive](https://desuarchive.org/), [neet.tv](https://catalog.neet.tv/), [archived.moe](https://archived.moe/) / [2](https://thebarchive.com/)
-
-***
-
 ## Alternative Search Engines
 
 * ⭐ **[Privacy Focused Engines](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25B7_search_engines)**
@@ -364,19 +356,6 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://70.88.180.169:8
 * [Outlook](https://outlook.live.com/owa/) - [Tools](https://github.com/eksperience/KnockOutlook)
 
 [Betterbird](https://www.betterbird.eu/), [ElectronMail](https://github.com/vladimiry/ElectronMail), [Claws Mail](https://www.claws-mail.org/), [eM Client](https://www.emclient.com/), [RainLoop](https://www.rainloop.net/), [Roundcube](https://roundcube.net/), [Spike](https://www.spikenow.com/), [Canary](https://canarymail.io/), [Twobird](https://www.twobird.com/), [Kanmail](https://kanmail.io/), [Gmail Desktop](https://github.com/timche/gmail-desktop), [Wino](https://www.winomail.app/)
-
-***
-
-## Encode / Decode URLs
-
-* ⭐ **[Ciphey](https://github.com/Ciphey/Ciphey)** - Automated Decryption Tool
-* ⭐ **[CyberChef](https://gchq.github.io/CyberChef/)** - Encode / Decode Text
-* ⭐ **[Universal Encoding Tool](https://unenc.com/)** - Encode / Convert Text
-* ⭐ **[Base64 Decode](https://www.base64decode.org/) / [Encode](https://www.base64encode.org/)** / [Dynamic](https://apps.maximelafarie.com/base64/) / [Chrome](https://chromewebstore.google.com/detail/base64-encoderdecoder/afdannbjainhcddbjjlhamdgnojibeoi), [2](https://chromewebstore.google.com/detail/base64-decode-copy/llcfmnginbnmkeddkjjellcimmffjdcf), [3](https://chromewebstore.google.com/detail/clip64-base64-decoder/hdneaoibdfdmifgfjjlkbkceanhjmgch) / [Firefox](https://addons.mozilla.org/en-US/firefox/addon/base64-decoder/) / [Opera](https://addons.opera.com/en/extensions/details/base64-encode-and-decode/)
-* [Txtmoji](https://txtmoji.com/) - Text to Emoji Encryption / Decryption
-* [cryptii](https://cryptii.com/), [DenCode](https://dencode.com/) - Text / URL Encoding
-* [Online Tools](https://emn178.github.io/online-tools/index.html) - Text / URL Encoding and Decoding
-* [URL Decode](https://url-decode.com/) / [Encode](https://url-decode.com/tool/url-encode) - URL Encoding / Decoding
 
 ***
 
@@ -734,15 +713,6 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://70.88.180.169:8
 ### Animal Cams
 
 [Monterey Bay Aquarium](https://www.montereybayaquarium.org/animals/live-cams), [Curlie Webcam Animals](https://curlie.org/en/Computers/Internet/On_the_Web/Webcams/Animals), [San Diego Zoo](https://zoo.sandiegozoo.org/live-cams), [Zqoo.org](https://www.zoo.org/webcams), [AnimalsLife](https://animalslife.net/), [Africam](https://www.africam.com/wildlife/live-african-wildlife-safari-streams), [NationalZoo](https://nationalzoo.si.edu/webcams), [BirdCams](https://birdcams.live/), [CritterYard](https://critteryard.com/), [AquariumOfPacific](https://www.aquariumofpacific.org/exhibits/webcams)
-
-***
-
-## Lyric Sites
-
-* ⭐ **[dumb](https://github.com/rramiachraf/dumb)** - Genius Lyrics Frontend
-* [AZLyrics](https://www.azlyrics.com/), [FindMusicByLyrics](https://findmusicbylyrics.com/) or [Lyrics.com](https://www.lyrics.com/) - Lyric Search
-* [Versefy](https://versefy.app/) or [Lyrics-In-Terminal](https://github.com/Jugran/lyrics-in-terminal) - Lyrics Finder for Spotify, Tidal & VLC
-* [Lyrist](https://lyrist.app) - Write Lyrics w/ Beats
 
 ***
 
