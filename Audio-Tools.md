@@ -8,7 +8,6 @@
 
 * 🌐 **[AudioMarx](https://audiomarx.mixa.site/)** - Audio Resource Index
 * ↪️ **[Album Artwork](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_covers_.2F_posters)**
-* ↪️ **[Lyric Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_lyric_sites)**
 * ↪️ **[Voice Change / Clone](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/ai#wiki_.25B7_voice_change_.2F_clone)**
 * ↪️ **[Text to Speech](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/ai#wiki_.25B7_text_to_speech)**
 * ⭐ **[FFmpeg](https://ffmpeg.org/)**, [fre:ac](https://www.freac.org/), [FlicFlac](https://github.com/DannyBen/FlicFlac) or [LameXP](https://sourceforge.net/projects/lamexp/) - Audio Converters
@@ -41,6 +40,15 @@
 * [FolkTuneFinder](https://www.folktunefinder.com/) - Folk Tunes
 * [Dejavu](https://github.com/worldveil/dejavu) - Python
 * [Audd](https://audd.io/) - API
+
+***
+
+## Lyric Sites
+
+* ⭐ **[dumb](https://github.com/rramiachraf/dumb)** - Genius Lyrics Frontend
+* [AZLyrics](https://www.azlyrics.com/), [FindMusicByLyrics](https://findmusicbylyrics.com/) or [Lyrics.com](https://www.lyrics.com/) - Lyric Search
+* [Versefy](https://versefy.app/) or [Lyrics-In-Terminal](https://github.com/Jugran/lyrics-in-terminal) - Lyrics Finder for Spotify / Tidal / VLC
+* [Lyrist](https://lyrist.app) - Write Lyrics w/ Beats
 
 ***
 
