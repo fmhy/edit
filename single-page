@@ -116,66 +116,6 @@
 
 ***
 
-# ► Audio Download
-
-* ⭐ **[YTMDL](https://ytmdl.deepjyoti30.dev/)**, [MPS-YouTube](https://github.com/mps-youtube/yewtube) or [YT-DLP](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video-tools#wiki_.25B7_youtube_download) - YouTube Audio Downloaders
-* [you-get](https://you-get.org/) or [irs](https://github.com/cooperhammond/irs) - Audio Command Line Download Tool
-* [Orpheus](https://github.com/yarrm80s/orpheusdl) - Music Ripper
-* [streamrip](https://github.com/nathom/streamrip) - Deezer, TIDAL, Qobuz, YouTube, and SoundCloud Downloader / [Colab](https://github.com/r-piratedgames/rip)
-* [GamDL](https://github.com/glomatico/gamdl) - Apple Music Downloader
-* [FreyrJS](https://github.com/miraclx/freyr-js) - Spotify, Deezer and Apple Music Downloader
-* [orpheusdl-deezer](https://github.com/uhwot/orpheusdl-deezer), [d-fi](https://notabug.org/sayem314/d-fi), [deezer-downloader](https://github.com/kmille/deezer-downloader) or [DL-Spt](https://notabug.org/dlspt/dl-spt) - Deezer Downloaders
-* [Song_downloaderbot](https://t.me/Song_downloaderbot), [DeezerMusicBot](https://t.me/DeezerMusicBot), [DeezloaderAn0n_bot](https://t.me/DeezloaderAn0n_bot) or [deezload2bot](https://t.me/deezload2bot) - Telegram Deezer Bots
-* [RedSea](https://github.com/Dniel97/RedSea), [Hifi-Tui](https://github.com/sachinsenal0x64/Hifi-Tui), [Tidal Media Downloader](https://github.com/yaronzz/Tidal-Media-Downloader) / [Pro](https://github.com/yaronzz/Tidal-Media-Downloader-PRO) or [orpheusdl-tidal](https://github.com/Dniel97/orpheusdl-tidal) - Tidal Music Downloaders
-* [BandCamp-DL](https://github.com/iheanyi/bandcamp-dl), [Download Bandcamp](https://downloadmusicschool.com/bandcamp/), [bcdl](https://github.com/daot/bcdl) or [Bandcamp Downloader](https://github.com/Otiel/BandcampDownloader) - Bandcamp Downloaders
-* [Librescore Downloader](https://github.com/LibreScore/dl-librescore) - Librescore Downloader
-* [Orpheus Qobuz](https://github.com/yarrm80s/orpheusdl-qobuz), [QobuzDownloaderX-MOD](https://github.com/DJDoubleD/QobuzDownloaderX-MOD) or [qobuz-dl](https://github.com/vitiko98/qobuz-dl) - Qobuz Downloaders
-* [YADG](https://yadg.cc/) - Scrape Music Release Date Info / [API](https://yadg.cc/api/)
-* [Sharky's EAC Guide](https://docs.google.com/document/d/1b1JJsuZj2TdiXs--XDvuKdhFUdKCdB_1qrmOMGkyveg) - CD Audio Ripping Guide
-* [Exact Audio Copy](https://www.exactaudiocopy.de/) or [Whipper](https://github.com/whipper-team/whipper) - CD / DVD Audio Ripper
-* [AccurateRip](http://www.accuraterip.com/) - Verify Ripped Tracks are Error Free
-
-***
-
-## ▷ Spotify Download
-
-* 🌐 **[Spotify Downloader Index](https://github.com/topics/spotify-downloader)**
-* ⭐ **[DoubleDouble](https://doubledouble.top/)** - Direct Downloader
-* ⭐ **[Soggfy](https://github.com/Rafiuth/Soggfy)** - Direct Downloader
-* [Spotify to Deezer Transfer Method](https://i.ibb.co/hC3c0Gs/69f9179b5bfe.png)
-* [Spytify](https://jwallet.github.io/spy-spotify/overview.html) - Spotify Recorder
-* [DownOnSpot](https://github.com/oSumAtrIX/DownOnSpot) - Direct Downloader
-* [CLSpotify](https://agent255.github.io/clspotifyweb/) / [GitHub](https://github.com/agent255/clspotify) - Direct Downloader
-* [spotify_sync](https://github.com/jbh-cloud/spotify_sync) - Direct Downloader
-* [OnTheSpot](https://github.com/casualsnek/onthespot) - Direct Downloader
-* [SpotifyDown](https://spotifydown.com/) - Direct Downloader
-* [Zotify](https://zotify.xyz/zotify/zotify) - Direct Downloader
-* [Savify](https://github.com/LaurenceRawlings/savify) - YT Downloader
-* [Spotify-DL](https://github.com/SathyaBhat/spotify-dl) - YT Downloader
-* [spotDL](https://github.com/spotDL/spotify-downloader) - YT Downloader
-* [FreyrJS](https://github.com/miraclx/freyr-js) - YT Downloader
-* [SpotiFlyer](https://github.com/Shabinder/SpotiFlyer) - YT Downloader
-* [Spotdlrobot](https://t.me/Spotdlrobot) - Telegram Bot
-* [Spotify Music Downloader](https://t.me/joinchat/DdR2SUvJPBouSW4QlbJU4g) - Telegram Bot
-* [spotify-dl](https://github.com/SwapnilSoni1999/spotify-dl) - Telegram Bot
-* [Spotify_downloa_bot](https://t.me/Spotify_downloa_bot) - Telegram Bot
-* [Music_Downloader_Bot_Spotify](https://t.me/Music_Downloader_Bot_Spotify) - Telegram Bot
-* [Motreeb](https://t.me/motreb_downloader_bot) - Telegram Bot
-* [telegvc_bot](https://t.me/telegvc_bot) - Telegram Bot
-
-***
-
-## ▷ Soundcloud Download
-
-* [SoundCloud Downloader](https://github.com/NotTobi/soundcloud-dl)
-* [Klickaud](https://www.klickaud.co/)
-* [Local SoundCloud Downloader](https://greasyfork.org/en/scripts/394837)
-* [SCDL](https://addons.mozilla.org/pl/firefox/addon/scdl-soundcloud-downloader/) / [Git](https://github.com/flyingrub/scdl), [sclouddownloader](https://sclouddownloader.net/)
-* [SoundcloudMP3](https://soundcloudmp3.cc/)
-* [soundcloudaudiodownloader](https://t.me/soundcloudaudiodownloader)
-
-***
-
 # ► Audio Editing
 
 * 🌐 **[Awesome Music Production](https://github.com/ad-si/awesome-music-production)**, [Awesome Music](https://github.com/noteflakes/awesome-music) or [AFreeStudio](https://www.afreestudio.com/) - Music Production Indexes
