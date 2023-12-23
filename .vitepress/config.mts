@@ -128,7 +128,7 @@ export default defineConfig({
       { text: "📂 Miscellaneous", link: "/miscguide" },
       {
         text: "🔧 Tools",
-        collapsed: false,
+        collapsed: true,
         items: [
           { text: "💻 System Tools", link: "/system-tools" },
           { text: "🗃️ File Tools", link: "/file-tools" },
@@ -145,7 +145,7 @@ export default defineConfig({
       },
       {
         text: "More",
-        collapsed: false,
+        collapsed: true,
         items: [
           { text: "🔞 NSFW", link: "/nsfwpiracy" },
           { text: "⚠️ Unsafe Sites", link: "/unsafesites" },
