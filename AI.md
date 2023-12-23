@@ -13,6 +13,7 @@
 
 # ► Proprietary LLMs
 
+* 🌐 **[Chatbot Arena](https://huggingface.co/spaces/lmsys/chatbot-arena-leaderboard)** - Chatbot Leaderboard
 * 🌐 **[Awesome-GPT4](https://gpt4.tools/)** - ChatGPT Resources
 * 🌐 **[LifeArchitect](https://lifearchitect.ai/models-table/)** - Chatbot Index
 * 🌐 **[Free AI Stuff](https://github.com/zukixa/cool-ai-stuff)** - AI APIs and Sites
@@ -40,7 +41,7 @@
 
 # ► Open-Source LLMs
 
-* 🌐 **[Chatbot Arena](https://huggingface.co/spaces/lmsys/chatbot-arena-leaderboard)** or **[Open LLM Leaderboard](https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard)** - LLM Leaderboards
+* 🌐 **[Open LLM Leaderboard](https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard)** - LLM Leaderboard
 * ⭐ **[seait](https://github.com/diStyApps/seait)** - AI Installation Manager
 * ⭐ **[SillyTavern](https://github.com/SillyTavern/SillyTavern)** - Front-end for LLMs
 * ⭐ **[Mixtral 8x7b](https://huggingface.co/docs/transformers/model_doc/mixtral)** - Open Source LLM / [Guide](https://rentry.org/HowtoMixtral)
