@@ -204,7 +204,7 @@
 * ⭐ **[Automate The Boring Stuff](https://automatetheboringstuff.com/)** - Python Automation Book
 * [30 Days Of Python](https://github.com/Asabeneh/30-Days-Of-Python) - Python Guide
 * [Python AI](https://community.uuki.live/course/tdb3Vsl1/python-course/aitutor) - AI Python Tutor
-* [CodingBat](https://codingbat.com/) or [PyQuickie](https://chrome.google.com/webstore/detail/pyquickie/okpdnfgpbpifbncoleieajiblmebbkci) - Python / Java Practice
+* [CodingBat](https://codingbat.com/) or [PyQuickie](https://chromewebstore.google.com/detail/pyquickie/okpdnfgpbpifbncoleieajiblmebbkci) - Python / Java Practice
 * [AmigosCode](https://www.youtube.com/@amigoscode) - Java Tutorials
 * [Python4Everyone](https://py4e.com/), [A Byte of Python](https://python.swaroopch.com/), [Hypermodern Python](https://cjolowicz.github.io/posts/hypermodern-python-01-setup/), [DataCamp](https://www.datacamp.com/), [Learn Python](https://www.learnpython.org/), [Learn-Python](https://github.com/trekhleb/learn-python) or [Magical Universe](https://github.com/zotroneneis/magical_universe) - Learn Python
 * [High Performance Python: The Code](https://github.com/mynameisfiber/high_performance_python) - Python Lessons
@@ -307,11 +307,11 @@
 * [URLPages](https://github.com/jstrieb/urlpages) - Store Entire Pages in URLs
 * [Shoelace](https://shoelace.style/) or [Elix](https://component.kitchen/elix) - Web Component libraries
 * [Package Web](https://github.com/rsc/web) - Basic Site Serving Framework
-* [Web Developer](https://chrome.google.com/webstore/detail/web-developer/bfbameneiokkgbdmiekhjnmfkcnldhhm) - Web Developer Toolbar Extension
+* [Web Developer](https://chromewebstore.google.com/detail/web-developer/bfbameneiokkgbdmiekhjnmfkcnldhhm) - Web Developer Toolbar Extension
 * [ElasticSearch](https://github.com/elastic/elasticsearch) - Search & Analytics Engine
 * [SerPreview](https://serpreviewtool.com/) - Site Search Results Preview
 * [Schema Markup Testing Tools](https://developers.google.com/search/docs/appearance/structured-data) - Test Sites Google Results
-* [Robots.txt Tester](https://support.google.com/webmasters/answer/6062598?hl=en) - Test Your robots.txt
+* [Robots.txt Tester](https://support.google.com/webmasters/answer/6062598) - Test Your robots.txt
 * [Charles 3](https://www.charlesproxy.com/download/previous-release/) / [Activation](https://github.com/fmhy/FMHYedit/blob/main/base64.md#charles-activate) or [ProxyMan](https://proxyman.io/) - Web Debugging Proxy Apps
 * [CORS Proxy](https://corsproxy.github.io/) - Free CORS Proxy
 * [Tabler](https://tabler.io/) - Site Admin Dashboard
@@ -415,7 +415,7 @@
 * [NConfig](https://www.digitalocean.com/community/tools/nginx) - [NGINX](https://nginx.org/) Server Config
 * [tengine](https://github.com/alibaba/tengine) - NGINX with Extra Features
 * [Nginx-Admins-Handbook](https://github.com/trimstray/nginx-admins-handbook) - Improve NGINX Performance
-* [Visual CSS Editor](https://chrome.google.com/webstore/detail/visual-css-editor/cibffnhhlfippmhdmdkcfecncoaegdkh) - WordPress Site Designer
+* [Visual CSS Editor](https://chromewebstore.google.com/detail/visual-css-editor/cibffnhhlfippmhdmdkcfecncoaegdkh) - WordPress Site Designer
 * [Mantiq](https://wpmantiq.com/) - Wordpress Visual Backend
 * [WPSQLite](https://github.com/hasinhayder/wpsqlite) or [LocalWP](https://localwp.com) - Wordpress Site Deployment Tools
 * [Nulled Scripts](https://www.null-scripts.net/), [NullJungle](https://nulljungle.com/) or [Null PHP Script](https://nullphpscript.com/) - Nulled Scripts
@@ -579,9 +579,9 @@
 * [Prometheus](https://prometheus.io/) - Site Metrics / [Setup](https://thanos.io/)
 * [Carbon Calculator](https://www.websitecarbon.com/) - Estimate Sites Carbon Footprint
 * [Site Inspector](https://www.getsiteinspector.com/) - Check Site for Spelling / Grammatical Errors
-* [UX Check](https://chrome.google.com/webstore/detail/ux-check/giekhiebdpmljgchjojblnekkcgpdobp) - Site Heuristic Evaluation
+* [UX Check](https://chromewebstore.google.com/detail/ux-check/giekhiebdpmljgchjojblnekkcgpdobp) - Site Heuristic Evaluation
 * [Testmail](https://testmail.app/) - Site Signup Test
-* [Responsive Viewer](https://responsiveviewer.org/) - Test Site on Multiple Screen Types / [Chrome](https://chrome.google.com/webstore/detail/responsive-viewer/inmopeiepgfljkpkidclfgbgbmfcennb?hl=en)
+* [Responsive Viewer](https://responsiveviewer.org/) - Test Site on Multiple Screen Types / [Chrome](https://chromewebstore.google.com/detail/responsive-viewer/inmopeiepgfljkpkidclfgbgbmfcennb)
 * [Responsively](https://responsively.app/), [ResponsiveTestTool](https://responsivetesttool.com/), [Responsivize](https://virejdasani.github.io/Responsivize/) or [Am I Responsive](https://ui.dev/amiresponsive) - Website Responsiveness Tests
 * [LightHouse](https://github.com/GoogleChrome/lighthouse) - Web App Performance Test
 
@@ -1315,10 +1315,10 @@
 * [Phaser](https://phaser.io/) - Mobile HTML5 Game Framework
 * [PlayCanvas](https://playcanvas.com/) - Build HTML5 Visualizations / Games
 * [pup](https://github.com/ericchiang/pup) - HTML Processing CLI
-* [CSS Scan](https://chrome.google.com/webstore/detail/css-scan/gieabiemggnpnminflinemaickipbebg?hl=en) - CSS Editor
+* [CSS Scan](https://chromewebstore.google.com/detail/css-scan/gieabiemggnpnminflinemaickipbebgen) - CSS Editor
 * [CSS Protips](https://github.com/AllThingsSmitty/css-protips) or [CSS Reference](https://cssreference.io/) - CSS Guide
 * [AutoPrefixer](https://autoprefixer.github.io/) - CSS Prefixer
-* [Pesticide for Chrome](https://chrome.google.com/webstore/detail/pesticide-for-chrome-with/neonnmencpneifkhlmhmfhfiklgjmloi) - CSS Element Outline Extension
+* [Pesticide for Chrome](https://chromewebstore.google.com/detail/pesticide-for-chrome-with/neonnmencpneifkhlmhmfhfiklgjmloi) - CSS Element Outline Extension
 * [Water.css](https://watercss.kognise.dev/) - CSS Styles
 * [Style Stage](https://stylestage.dev/) - Modern CSS Styles
 * [USA.css](https://bennettfeely.com/usacss/) - USA CSS Style

@@ -1028,7 +1028,7 @@
 * [Thorium](https://www.edrlab.org/software/thorium-reader/) - Ebook Reader / PC / Mac / Linux
 * [CoolReader](https://github.com/buggins/coolreader) - Ebook Reader / PC / Linux
 * [Icecream eBook Reader](https://icecreamapps.com/Ebook-Reader/) - Ebook Reader / PC
-* [Aquile](https://apps.microsoft.com/store/detail/aquile-reader-modern-epub-ebook-reader/9P08T4JLTQNK?hl=en) - Ebook Reader / PC
+* [Aquile](https://apps.microsoft.com/store/detail/aquile-reader-modern-epub-ebook-reader/9P08T4JLTQNKen) - Ebook Reader / PC
 * [Eplee](https://github.com/Janglee123/eplee) - Ebook Reader / PC
 * [Okular](https://okular.kde.org/) - PDF / Linux / PC / Mac
 * [Foliate](https://johnfactotum.github.io/foliate/) - Ebook Reader / Linux

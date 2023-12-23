@@ -258,7 +258,7 @@
 * [Helix](https://helix-editor.com/) / [GitHub](https://github.com/helix-editor/helix)
 * [Textreme](https://ash-k.itch.io/textreme) / [GitHub](https://github.com/cis-ash/TEXTREME)
 * [Tiddly](https://tiddlywiki.com/) / [Desktop](https://github.com/tiddly-gittly/TidGi-Desktop)
-* [Joplin](https://joplinapp.org/) / [Firefox](https://addons.mozilla.org/en-US/firefox/addon/joplin-web-clipper/) / [Chrome](https://chrome.google.com/webstore/detail/joplin-web-clipper/alofnhikmmkdbbbgpnglcpdollgjjfek?hl=en-GB)
+* [Joplin](https://joplinapp.org/) / [Firefox](https://addons.mozilla.org/en-US/firefox/addon/joplin-web-clipper/) / [Chrome](https://chromewebstore.google.com/detail/joplin-web-clipper/alofnhikmmkdbbbgpnglcpdollgjjfeken-GB)
 * [GoogleKeepClone](https://github.com/anselm94/googlekeepclone)
 * [TinyList](https://tinylist.app/)
 * [Simplenote](https://simplenote.com/)

@@ -266,7 +266,7 @@
 * [wal.ee](https://wal.ee/) - `wal.ee/zluqo`
 * [n9.cl](https://n9.cl/) - `n9.cl/6gjfj`
 * [xy2.eu](https://xy2.eu/) - `xy2.eu/p7YP`
-* [goo.su](https://goo.su/) - `goo.su/7pNRjy7` / [Extension](https://chrome.google.com/webstore/detail/free-link-shortener-goosu/clcoifeibkncgnegebeehkodandleohn)
+* [goo.su](https://goo.su/) - `goo.su/7pNRjy7` / [Extension](https://chromewebstore.google.com/detail/free-link-shortener-goosu/clcoifeibkncgnegebeehkodandleohn)
 * [tny.im](https://tny.im) - `tny.im/rw-`
 * [ai6.net](https://ai6.net/) - `ai6.net/nm3tyz`
 * [SmartLinks](https://smartlnks.com/) - `smartlnks.com/Vjr0m`
@@ -406,7 +406,7 @@
 * ⭐ **[BrowserBench](https://browserbench.org/)** or [WPT](https://wpt.fyi) - Browser Benchmark Tests
 * ⭐ **[Browserling](https://www.browserling.com/)** - Browser Emulators
 * ⭐ **[Firefox Keyboard Shortcuts](https://support.mozilla.org/en-US/kb/keyboard-shortcuts-perform-firefox-tasks-quickly)** 
-* ⭐ **[Chrome Keyboard Shortcuts](https://support.google.com/chrome/answer/157179?hl=en&co=GENIE.Platform%3DDesktop)**
+* ⭐ **[Chrome Keyboard Shortcuts](https://support.google.com/chrome/answer/157179en&co=GENIE.Platform%3DDesktop)**
 * ⭐ **[rrweb](https://www.rrweb.io/)**, [Huginn](https://github.com/huginn/huginn) or [Selenium](https://www.selenium.dev/) - Browser Automation
 * [VsyncTester](https://vsynctester.com/) - Browser VSYNC Test
 * [NeverInstall](https://neverinstall.com/) - Use Apps in Browser
@@ -486,7 +486,7 @@
 * [HyperSearch](https://github.com/abhinavsharma/hypersearch) - Search Result Sidebar
 * [Magnifying Glass](https://mybrowseraddon.com/magnifying-glass.html) - Magnify Webpages
 * [Print Edit WE](https://pastebin.com/LJeT3NyB) - Edit Pages to Make them Printable
-* WebFont Changer - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/web-font-changer/) / [Chrome](https://chrome.google.com/webstore/detail/font-changer/obgkjikcnonokgaiablbenkgjcdbknna)
+* WebFont Changer - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/web-font-changer/) / [Chrome](https://chromewebstore.google.com/detail/font-changer/obgkjikcnonokgaiablbenkgjcdbknna)
 * [Grammarly](https://www.grammarly.com/) - Grammar Checker
 * [PageZipper](https://www.printwhatyoulike.com/pagezipper) or [AutoPagerize](http://autopagerize.net/) - Merges a Sites "Next" Pages
 * [Don't Bug Me](https://github.com/vantezzen/dontbugme) - Find / Share Site Logins
@@ -622,87 +622,87 @@
 
 *** 
 
-* 🌐 **[Chrome Web Store](https://chrome.google.com/webstore/category/extensions?hl=en)**, [Chrome-Extension](https://github.com/harshita214/Chrome-Extension) or [Crx4Chrome](https://www.crx4chrome.com/) - Chrome Addon Stores
-* ⭐ **[Extensity](https://chrome.google.com/webstore/detail/extensity/jjmflmamggggndanpgfnpelongoepncg)** or [Extension Manager](https://chrome.google.com/webstore/detail/extension-manager/gjldcdngmdknpinoemndlidpcabkggco) - Extension Managers
+* 🌐 **[Chrome Web Store](https://chromewebstore.google.com/category/extensionsen)**, [Chrome-Extension](https://github.com/harshita214/Chrome-Extension) or [Crx4Chrome](https://www.crx4chrome.com/) - Chrome Addon Stores
+* ⭐ **[Extensity](https://chromewebstore.google.com/detail/extensity/jjmflmamggggndanpgfnpelongoepncg)** or [Extension Manager](https://chromewebstore.google.com/detail/extension-manager/gjldcdngmdknpinoemndlidpcabkggco) - Extension Managers
 * ⭐ **[chromium-web-store](https://github.com/NeverDecaf/chromium-web-store)** - Add Extensions to Ungoogled Chromium 
 * ⭐ **[Foxified](https://foxified.org/)** - Use Firefox Extensions in Chrome
 * ⭐ **[Edge Chrome](https://greasyfork.org/en/scripts/439922)** - Use Edge Extensions in Chrome
 * [WebCRX](https://webcrx.io/) - Install Chrome CRX Files
 * [ChromeStats](https://chrome-stats.com/) - Compare / Analyze Chrome Extensions
-* [Extension Source Downloader](https://chrome.google.com/webstore/detail/extension-source-download/dlbdalfhhfecaekoakmanjflmdhmgpea) - View Extension Source Code / [Guide](https://gist.github.com/paulirish/78d6c1406c901be02c2d)
-* [MarvellousSuspender](https://chrome.google.com/webstore/detail/the-marvellous-suspender/noogafoofpebimajpfpamcfhoaifemoa) - Tab Suspender
+* [Extension Source Downloader](https://chromewebstore.google.com/detail/extension-source-download/dlbdalfhhfecaekoakmanjflmdhmgpea) - View Extension Source Code / [Guide](https://gist.github.com/paulirish/78d6c1406c901be02c2d)
+* [MarvellousSuspender](https://chromewebstore.google.com/detail/the-marvellous-suspender/noogafoofpebimajpfpamcfhoaifemoa) - Tab Suspender
 * [Darkness](https://darkness.app/) - Dark Mode
 * [Picture-in-Picture](https://github.com/GoogleChromeLabs/picture-in-picture-chrome-extension) - Picture-in-Picture Mode
-* [OVC](https://chrome.google.com/webstore/detail/ovc-one-video-control/analeldnikfgekckpcppegfekineelbb) - Video Controller
+* [OVC](https://chromewebstore.google.com/detail/ovc-one-video-control/analeldnikfgekckpcppegfekineelbb) - Video Controller
 * [Say Play](https://thanesh.dev/say-play) - Video Control Voice Commands
-* [Smart Mute](https://chrome.google.com/webstore/detail/smart-mute/apadglapdamclpaedknbefnbcajfebgh) - Tab Mute Manager
+* [Smart Mute](https://chromewebstore.google.com/detail/smart-mute/apadglapdamclpaedknbefnbcajfebgh) - Tab Mute Manager
 * [Audio Capture](https://github.com/arblast/Chrome-Audio-Capturer) - Audio Recorder
-* [Volume Master](https://chrome.google.com/webstore/detail/volume-master/jghecgabfgfdldnmbfkhmffcabddioke) - Increase Browser Volume
+* [Volume Master](https://chromewebstore.google.com/detail/volume-master/jghecgabfgfdldnmbfkhmffcabddioke) - Increase Browser Volume
 * [Audion](https://github.com/GoogleChrome/audion) - Web Audio Graph Visualizer
 * [Compose](https://www.compose.ai/) - Text Autocomplete AI
 * [Text Blaze](https://blaze.today/) - Create Text Snippets
-* [Blackbox](https://chrome.google.com/webstore/detail/blackbox-select-copy-past/mcgbeeipkmelnpldkobichboakdfaeon) - Copy Text from Videos and Images
-* [Copy Text Easily](https://chrome.google.com/webstore/detail/copy-text-easily/fagmaopcbeobbfhkeodicjekiniefdlo) - Simple Text Copy
-* [Email Extractor](https://chrome.google.com/webstore/detail/email-extractor/jdianbbpnakhcmfkcckaboohfgnngfcc?hl=en) - Extract Email ID's from Webpages
-* [Simple Mass Downloader](https://chrome.google.com/webstore/detail/simple-mass-downloader/abdkkegmcbiomijcbdaodaflgehfffed) - Download Multiple Links at Once
-* [Download Sorter](https://chrome.google.com/webstore/detail/download-sorter/mebfblkahpknogabckmdjcmjbnpfdpcj/related) - Sort Downloads into Folders
-* [Hover](https://chrome.google.com/webstore/detail/hover/eiiibfemcfcehadokcldlcdljfdlmolj) - Link Previews
+* [Blackbox](https://chromewebstore.google.com/detail/blackbox-select-copy-past/mcgbeeipkmelnpldkobichboakdfaeon) - Copy Text from Videos and Images
+* [Copy Text Easily](https://chromewebstore.google.com/detail/copy-text-easily/fagmaopcbeobbfhkeodicjekiniefdlo) - Simple Text Copy
+* [Email Extractor](https://chromewebstore.google.com/detail/email-extractor/jdianbbpnakhcmfkcckaboohfgnngfccen) - Extract Email ID's from Webpages
+* [Simple Mass Downloader](https://chromewebstore.google.com/detail/simple-mass-downloader/abdkkegmcbiomijcbdaodaflgehfffed) - Download Multiple Links at Once
+* [Download Sorter](https://chromewebstore.google.com/detail/download-sorter/mebfblkahpknogabckmdjcmjbnpfdpcj/related) - Sort Downloads into Folders
+* [Hover](https://chromewebstore.google.com/detail/hover/eiiibfemcfcehadokcldlcdljfdlmolj) - Link Previews
 * [Fetcher](https://fetcher.page/) - Feed Grabber
 * [Multimedia Search](https://multimediasearchapp.com/) - Browser File Search
-* [Suggesty](https://chrome.google.com/webstore/detail/suggesty/hbiphmiliockggpepniplkkfmnhdihjh) - Human Like Search Results
-* [Query Side-By-Side](https://chrome.google.com/webstore/detail/double-shot-search-query/kddlkbpbepnaepdleclhdnfdpdogdhop) - Search Google & Bing at the Same Time
-* [SessionBox](https://chrome.google.com/webstore/detail/sessionbox-multi-login-to/megbklhjamjbcafknkgmokldgolkdfig?hl=en) - Multi-Account Login for any Site
-* [Selectable](https://chrome.google.com/webstore/detail/selectable-for-fanfiction/jcidlhgdoojamkbpmhbpgldmajnobefd?ucbcb=1) - Force Enable Select Text
+* [Suggesty](https://chromewebstore.google.com/detail/suggesty/hbiphmiliockggpepniplkkfmnhdihjh) - Human Like Search Results
+* [Query Side-By-Side](https://chromewebstore.google.com/detail/double-shot-search-query/kddlkbpbepnaepdleclhdnfdpdogdhop) - Search Google & Bing at the Same Time
+* [SessionBox](https://chromewebstore.google.com/detail/sessionbox-multi-login-to/megbklhjamjbcafknkgmokldgolkdfigen) - Multi-Account Login for any Site
+* [Selectable](https://chromewebstore.google.com/detail/selectable-for-fanfiction/jcidlhgdoojamkbpmhbpgldmajnobefd?ucbcb=1) - Force Enable Select Text
 * [CrxMouse (chrome)](https://crxmouse.com/) - Mouse Gestures
 * [Night Shift Redux](https://nightshift.lu/) - Adapts Display Color to Time of Day
 * [SmoothKeyScroll](https://www.smoothkeyscroll.com/) - Smooth Key Scrolling
-* [Wheel Smooth Scroller](https://chrome.google.com/webstore/detail/chromium-wheel-smooth-scr/khpcanbeojalbkpgpmjpdkjnkfcgfkhb?hl=en) - Smooth Scrolling
-* [NudgeWare](https://nudgeware.io/), [Minto](https://chrome.google.com/webstore/detail/minto/hcgkjlalkeaekjkelpilagbjcengeebl), [GoGo Productivity](https://chrome.google.com/webstore/detail/gogo-productivity/mgefagaoblmbfcjoaiibbmobmkgoljia), [UnDistracted](https://www.undistracted.app/) or [HabitLab](https://habitlab.github.io/) - Productivity Managers / Site Blockers
-* [Web Activity Time Tracker](https://chrome.google.com/webstore/detail/web-activity-time-tracker/hhfnghjdeddcfegfekjeihfmbjenlomm?hl=en) - Track Browser Activity
-* [Simple Todo](https://chrome.google.com/webstore/detail/simple-todo/kobeijgkgkcgknodjkganceliljepmjf) or [Todoist](https://chrome.google.com/webstore/detail/todoist-for-chrome/jldhpllghnbhlbpcmnajkpdmadaolakh?hl=en) - To-Do List
-* [Blueticks](https://chrome.google.com/webstore/detail/blueticks/adgnjhngogijkkppficiiepmjebijinl) - WhatsApp Scheduler
-* [Beanote](https://chrome.google.com/webstore/detail/beanote-note-taking-on-we/nikccehomlnjkmgmhnieecolhgdafajb) or [Page Pad](https://chrome.google.com/webstore/detail/page-pad-make-quick-notes/igobdfagkcadgcfooegonbbeeggagakn) - Web Page Note Taking
-* [ProjectNaptha](https://chrome.google.com/webstore/detail/project-naptha/molncoemjfmpgdkbdlbjmhlcgniigdnf) - Manipulate Browser Image Text
-* [Text to Image](https://chrome.google.com/webstore/detail/text-to-image/nkljaohokglebeljcgchmehnhdieakda) - Text to Image
-* [A+ Font Size Changer](https://chrome.google.com/webstore/detail/a%20-fontsize-changer-lite/ckihgechpahhpompcinglebkgcdgpkil) - Change Browser Font Size & Color
+* [Wheel Smooth Scroller](https://chromewebstore.google.com/detail/chromium-wheel-smooth-scr/khpcanbeojalbkpgpmjpdkjnkfcgfkhben) - Smooth Scrolling
+* [NudgeWare](https://nudgeware.io/), [Minto](https://chromewebstore.google.com/detail/minto/hcgkjlalkeaekjkelpilagbjcengeebl), [GoGo Productivity](https://chromewebstore.google.com/detail/gogo-productivity/mgefagaoblmbfcjoaiibbmobmkgoljia), [UnDistracted](https://www.undistracted.app/) or [HabitLab](https://habitlab.github.io/) - Productivity Managers / Site Blockers
+* [Web Activity Time Tracker](https://chromewebstore.google.com/detail/web-activity-time-tracker/hhfnghjdeddcfegfekjeihfmbjenlommen) - Track Browser Activity
+* [Simple Todo](https://chromewebstore.google.com/detail/simple-todo/kobeijgkgkcgknodjkganceliljepmjf) or [Todoist](https://chromewebstore.google.com/detail/todoist-for-chrome/jldhpllghnbhlbpcmnajkpdmadaolakhen) - To-Do List
+* [Blueticks](https://chromewebstore.google.com/detail/blueticks/adgnjhngogijkkppficiiepmjebijinl) - WhatsApp Scheduler
+* [Beanote](https://chromewebstore.google.com/detail/beanote-note-taking-on-we/nikccehomlnjkmgmhnieecolhgdafajb) or [Page Pad](https://chromewebstore.google.com/detail/page-pad-make-quick-notes/igobdfagkcadgcfooegonbbeeggagakn) - Web Page Note Taking
+* [ProjectNaptha](https://chromewebstore.google.com/detail/project-naptha/molncoemjfmpgdkbdlbjmhlcgniigdnf) - Manipulate Browser Image Text
+* [Text to Image](https://chromewebstore.google.com/detail/text-to-image/nkljaohokglebeljcgchmehnhdieakda) - Text to Image
+* [A+ Font Size Changer](https://chromewebstore.google.com/detail/a%20-fontsize-changer-lite/ckihgechpahhpompcinglebkgcdgpkil) - Change Browser Font Size & Color
 * [Sticky Notes](https://www.getstickynotes.com/) - Browser Sticky Notes
-* [Toby](https://www.gettoby.com/), [SuperTab](https://chromewebstore.google.com/detail/supatabs-onetab-on-steroi/icbcnjlaegndjabnjbaeihnnmidbfigk), [Prune](https://chrome.google.com/webstore/detail/prune/gblddboefgbljpngfhgekbpoigikbenh), [Freezetab](https://freezetab.com/), [Tab Modifier](https://github.com/furybee/chrome-tab-modifier) or [Tabs Outliner](https://chrome.google.com/webstore/detail/tabs-outliner/eggkanocgddhmamlbiijnphhppkpkmkl) - Tab Managers
-* [Dualless](https://chrome.google.com/webstore/detail/dualless/bgdpkilkheacbboffppjgceiplijhfpd) or [Tab Resize](https://chrome.google.com/webstore/detail/tab-resize-split-screen-l/bkpenclhmiealbebdopglffmfdiilejc) - Split Browser Window 
-* [Rearrange Tabs](https://chrome.google.com/webstore/detail/rearrange-tabs/ccnnhhnmpoffieppjjkhdakcoejcpbga?hl=en) - Rearrange Tabs
+* [Toby](https://www.gettoby.com/), [SuperTab](https://chromewebstore.google.com/detail/supatabs-onetab-on-steroi/icbcnjlaegndjabnjbaeihnnmidbfigk), [Prune](https://chromewebstore.google.com/detail/prune/gblddboefgbljpngfhgekbpoigikbenh), [Freezetab](https://freezetab.com/), [Tab Modifier](https://github.com/furybee/chrome-tab-modifier) or [Tabs Outliner](https://chromewebstore.google.com/detail/tabs-outliner/eggkanocgddhmamlbiijnphhppkpkmkl) - Tab Managers
+* [Dualless](https://chromewebstore.google.com/detail/dualless/bgdpkilkheacbboffppjgceiplijhfpd) or [Tab Resize](https://chromewebstore.google.com/detail/tab-resize-split-screen-l/bkpenclhmiealbebdopglffmfdiilejc) - Split Browser Window 
+* [Rearrange Tabs](https://chromewebstore.google.com/detail/rearrange-tabs/ccnnhhnmpoffieppjjkhdakcoejcpbgaen) - Rearrange Tabs
 * [chromewm](https://gitlab.com/EduCampi/chromewm) - Tile Windows / Emulate Workspaces
-* [Better OneTab](https://chrome.google.com/webstore/detail/better-onetab/eookhngofldnbnidjlbkeecljkfpmfpg) - Merge & Organize Tabs
-* [Share Tabs](https://chrome.google.com/webstore/detail/share-tabs/dneibnomihlihbnibiblbmeppafmeacg) - Share Tabs Other Browser
-* [Popup Tab Switcher](https://chrome.google.com/webstore/detail/popup-tab-switcher/cehdjppppegalmaffcdffkkpmoflfhkc) - Improved Tab Switching
+* [Better OneTab](https://chromewebstore.google.com/detail/better-onetab/eookhngofldnbnidjlbkeecljkfpmfpg) - Merge & Organize Tabs
+* [Share Tabs](https://chromewebstore.google.com/detail/share-tabs/dneibnomihlihbnibiblbmeppafmeacg) - Share Tabs Other Browser
+* [Popup Tab Switcher](https://chromewebstore.google.com/detail/popup-tab-switcher/cehdjppppegalmaffcdffkkpmoflfhkc) - Improved Tab Switching
 * [Relative Bookmarks](https://github.com/duiker101/relative_bookmarks) - Add Relative Bookmarks
 * [Remarkable](https://github.com/samueldobbie/remarkable-extension) - Remove Dead Bookmarks / Refresh Icons
 * [Mercury Reader](https://reader.postlight.com/) - Clear Clutter From Articles / [GitHub](https://github.com/postlight/parser)
 * [OpenDyslexic](https://opendyslexic.org/) - Increase Page Readability
 * [Amino](https://aminoeditor.com/) - Customize Webpage CSS
 * [NFT to Silly JPEG](https://github.com/k-wong/nft-to-silly-jpeg) - Replace NFT Images
-* [DownAlbum](https://chrome.google.com/webstore/detail/downalbum/cgjnhhjpfcdhbhlcmmjppicjmgfkppok?hl=en) - Image / Video Album Downloader / [Script](https://openuserjs.org/scripts/indream/DownAlbum) 
+* [DownAlbum](https://chromewebstore.google.com/detail/downalbum/cgjnhhjpfcdhbhlcmmjppicjmgfkppoken) - Image / Video Album Downloader / [Script](https://openuserjs.org/scripts/indream/DownAlbum) 
 * [BetterViewer](https://github.com/Ademking/Betterviewer) - Improved Image Viewer
 * [Resizing](https://resizing.app/) - Resize Images
-* [Vasai](https://chrome.google.com/webstore/detail/vasai-free-screen-recorde/ppbdhdggkcfgcghiaimfknmfemkegleo) - Screen Recorder
-* [Eye Dropper](https://chrome.google.com/webstore/detail/eye-dropper/hmdcmlfkchdmnmnmheododdhjedfccka?hl=en) - Color Picker
-* [SiteScrubber](https://chrome.google.com/webstore/detail/sitescrubber/ffadalgofahhohaciekjchkikcglcpla) - Hide Offensive / Swear Words on Sites
-* [Show Keys](https://chrome.google.com/webstore/detail/show-keys/bkcpmidbgmfbbeanejhepkjakagfaaon) - Show Keys As You Type
-* [ShowPassword](https://chrome.google.com/webstore/detail/showpassword/bbiclfnbhommljbjcoelobnnnibemabl?hl=en) - Show Passwords on Hover
-* [Typio Form Recovery](https://typiorecovery.github.io/), [2](https://chrome.google.com/webstore/detail/typio-form-recovery/djkbihbnjhkjahbhjaadbepppbpoedaa) - Autosave Input Data in Forms
+* [Vasai](https://chromewebstore.google.com/detail/vasai-free-screen-recorde/ppbdhdggkcfgcghiaimfknmfemkegleo) - Screen Recorder
+* [Eye Dropper](https://chromewebstore.google.com/detail/eye-dropper/hmdcmlfkchdmnmnmheododdhjedfcckaen) - Color Picker
+* [SiteScrubber](https://chromewebstore.google.com/detail/sitescrubber/ffadalgofahhohaciekjchkikcglcpla) - Hide Offensive / Swear Words on Sites
+* [Show Keys](https://chromewebstore.google.com/detail/show-keys/bkcpmidbgmfbbeanejhepkjakagfaaon) - Show Keys As You Type
+* [ShowPassword](https://chromewebstore.google.com/detail/showpassword/bbiclfnbhommljbjcoelobnnnibemablen) - Show Passwords on Hover
+* [Typio Form Recovery](https://typiorecovery.github.io/), [2](https://chromewebstore.google.com/detail/typio-form-recovery/djkbihbnjhkjahbhjaadbepppbpoedaa) - Autosave Input Data in Forms
 * [Spoiled](https://lucasrowe.github.io/spoiled/) - Customizable Phrase / Spoiler Blocker
-* [Flip This](https://chrome.google.com/webstore/detail/flip-this/donljlliiecjcagcenoeohjmabfegkph?hl=en) - Rotate Page & HTML Elements
-* [adam:ONE Assistant](https://chrome.google.com/webstore/detail/adamone%C2%AE-assistant/fdmpekabnlekabjlimjkfmdjajnddgpc?hl=en) - Find Site Dependencies
+* [Flip This](https://chromewebstore.google.com/detail/flip-this/donljlliiecjcagcenoeohjmabfegkphen) - Rotate Page & HTML Elements
+* [adam:ONE Assistant](https://chromewebstore.google.com/detail/adamone%C2%AE-assistant/fdmpekabnlekabjlimjkfmdjajnddgpcen) - Find Site Dependencies
 * [Check My Links](https://chromewebstore.google.com/detail/check-my-links/ojkcdipcgfaekbeaelaapakgnjflfglf)
 * [IPvFoo](https://github.com/pmarks-net/ipvfoo) - View Site IP Address
 * [Pip](https://www.getpip.com/pip-extension) - Web3 Payment Extension
-* [Fake Profile Detector](https://chrome.google.com/webstore/detail/fake-profile-detector-dee/jbpcgcnnhmjmajjkgdaogpgefbnokpcc) - Detect Fake Online Profiles
+* [Fake Profile Detector](https://chromewebstore.google.com/detail/fake-profile-detector-dee/jbpcgcnnhmjmajjkgdaogpgefbnokpcc) - Detect Fake Online Profiles
 * [Source Downloader](https://mybrowseraddon.com/extension-source-downloader.html) - View Extension Source Code
 * [EveryComment](https://everycomment.top/) - Add Comments to All Sites
 * [NicoNico SPEENYA](https://github.com/chimerast/niconico-speenya) - Presentation Style Comments
-* [Current Moon Phase](https://chrome.google.com/webstore/detail/current-moon-phase/ippnbhhbamibfpljlfmgogaondodicgi) - Current Moon Phases
+* [Current Moon Phase](https://chromewebstore.google.com/detail/current-moon-phase/ippnbhhbamibfpljlfmgogaondodicgi) - Current Moon Phases
 * [Nicosapo](https://github.com/yurafuca/nicosapo) - Add Features to Nico Nico
-* [N-Bot](https://chrome.google.com/webstore/detail/n-bot-google-meet-online/cpcenjbkciljcgglpgcmghcphjcbkffg?hl=en%E2%80%8E) - Bot to Attend Your Meetings / Classes
+* [N-Bot](https://chromewebstore.google.com/detail/n-bot-google-meet-online/cpcenjbkciljcgglpgcmghcphjcbkffgen%E2%80%8E) - Bot to Attend Your Meetings / Classes
 * [Zoom Scheduler](https://zoom.us/download#chrome_ext) - Zoom Meeting Scheduler
-* [Typewriter](https://chrome.google.com/webstore/detail/typewriter/jfghikfjnjkjkdpndeecjheealfoabhc) - Typing Typewriter Sounds
+* [Typewriter](https://chromewebstore.google.com/detail/typewriter/jfghikfjnjkjkdpndeecjheealfoabhc) - Typing Typewriter Sounds
 * [Extpose](https://extpose.com/) - Track Performance of your own Extensions
 
 ***
