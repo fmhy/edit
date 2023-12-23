@@ -1676,12 +1676,14 @@
 * [HHNinja](https://hhninja.tv/) - Chinese Animation
 * [HHKungfu](https://hhhkungfu.tv/) - Chinese Animation
 * [HHTQvip](https://hhtq.vip/) - Chinese Animation
-* [VuiGhe](https://vuigher.com/) - Anime
-* [animevietsub](https://animevietsub.fan/) - Anime
+* [VuiGhe](https://vuighe2.com/) - Anime
+* [AnimeTVN](https://animetvn2.com/) - Anime
+* [animevietsub](https://animevietsub.fan/) - Anime / [Discord](https://discord.gg/animevsub-462138449055711232)
 * [Ani4u](https://ani4u.org/) - Anime
 * [AnimeHay](https://animehay.fan/) - Anime
 * [AnimeTVN](https://animetvn.com/) - Anime
 * [Anime47](https://anime47.com/) - Anime
+* [POPS](https://pops.vn/) - Anime / Cartoon
 * [VietToons](https://viettoons.tv/) - Cartoons
 * [Tokuvn](https://tokuvn.com/) - Tokusatsu
 * [Mocha](https://video.mocha.com.vn/) - Video
