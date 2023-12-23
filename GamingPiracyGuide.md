@@ -58,7 +58,7 @@
 * [FS-Repacks](https://www.fluxyrepacks.site/) - Download / [Discord](https://discord.gg/sSA3S3kZZn)
 * [ScOOt3r Repacks](https://discord.gg/xe3Fys8Upy) - Download / Torrent
 * [Elamigos](https://elamigos.site/) - Download
-* [Gnarly Repacks](https://www.gnarly-repacks.site/) - Download
+* [Gnarly Repacks](https://rentry.org/gnarly_repacks) - Download
 * [Tiny-Repacks](https://www.tiny-repacks.win) - Torrent
 * [Magipack](https://www.magipack.games), [CollectionChamber](https://collectionchamber.blogspot.com/) or [ClassicPCGames](https://archive.org/details/classicpcgames) - Retro PC Games
 * [~archive](https://websites.umich.edu/~archive/) - Retro PC / Mac Games
