@@ -19332,11 +19332,26 @@ Use [this](https://bitbucket.org/magnolia1234/bypass-paywalls-firefox-clean/src/
 # ► Audio Downloading
 
 * 🌐 **[Music Ripping Guide](https://ori5000.github.io/musicripping.html)**, **[Firehawk52](https://rentry.org/firehawk52)** or [Florin](https://rentry.org/florinsmusicrippingguide) - Downloading / Ripping Guides
-* ↪️ **[Audio Download Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/audio-tools#wiki_.25BA_audio_download)** - Spotify, YouTube, Deezer etc. Downloaders
+* ⭐ **[YTMDL](https://ytmdl.deepjyoti30.dev/)**, [MPS-YouTube](https://github.com/mps-youtube/yewtube) or [YT-DLP](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video-tools#wiki_.25B7_youtube_download) - YouTube Audio Downloaders
 * ⭐ **[YouTube Ripping Guide](https://redd.it/vv27dy)**
 * ⭐ **[Slavart](https://discord.gg/nTUd5cCf)** - Multi-Site Audio Download App / [Divolt](https://slavart.divolt.xyz) / [Telegram](https://t.me/+9znaxmYJB5lkNzA8) / [Qobuz Copy](https://rentry.co/qobuz-slavart)
 * ⭐ **[Soulseek](https://slsknet.org/)** or [Nicotine+](https://nicotine-plus.org/) - Download App / [Stats](https://github.com/mrusse/Slsk-Upload-Stats-Tracker) / [Server App](https://github.com/slskd/slskd)
 * [/r/xTrill](https://reddit.com/r/xTrill) - Download App / [Backup](https://reddit.com/r/xTrillBackup)
+* [you-get](https://you-get.org/) or [irs](https://github.com/cooperhammond/irs) - Audio Command Line Download Tool
+* [Orpheus](https://github.com/yarrm80s/orpheusdl) - Music Ripper
+* [streamrip](https://github.com/nathom/streamrip) - Deezer, TIDAL, Qobuz, YouTube, and SoundCloud Downloader / [Colab](https://github.com/r-piratedgames/rip)
+* [GamDL](https://github.com/glomatico/gamdl) - Apple Music Downloader
+* [FreyrJS](https://github.com/miraclx/freyr-js) - Spotify, Deezer and Apple Music Downloader
+* [orpheusdl-deezer](https://github.com/uhwot/orpheusdl-deezer), [d-fi](https://notabug.org/sayem314/d-fi), [deezer-downloader](https://github.com/kmille/deezer-downloader) or [DL-Spt](https://notabug.org/dlspt/dl-spt) - Deezer Downloaders
+* [Song_downloaderbot](https://t.me/Song_downloaderbot), [DeezerMusicBot](https://t.me/DeezerMusicBot), [DeezloaderAn0n_bot](https://t.me/DeezloaderAn0n_bot) or [deezload2bot](https://t.me/deezload2bot) - Telegram Deezer Bots
+* [RedSea](https://github.com/Dniel97/RedSea), [Hifi-Tui](https://github.com/sachinsenal0x64/Hifi-Tui), [Tidal Media Downloader](https://github.com/yaronzz/Tidal-Media-Downloader) / [Pro](https://github.com/yaronzz/Tidal-Media-Downloader-PRO) or [orpheusdl-tidal](https://github.com/Dniel97/orpheusdl-tidal) - Tidal Music Downloaders
+* [BandCamp-DL](https://github.com/iheanyi/bandcamp-dl), [Download Bandcamp](https://downloadmusicschool.com/bandcamp/), [bcdl](https://github.com/daot/bcdl) or [Bandcamp Downloader](https://github.com/Otiel/BandcampDownloader) - Bandcamp Downloaders
+* [Librescore Downloader](https://github.com/LibreScore/dl-librescore) - Librescore Downloader
+* [Orpheus Qobuz](https://github.com/yarrm80s/orpheusdl-qobuz), [QobuzDownloaderX-MOD](https://github.com/DJDoubleD/QobuzDownloaderX-MOD) or [qobuz-dl](https://github.com/vitiko98/qobuz-dl) - Qobuz Downloaders
+* [YADG](https://yadg.cc/) - Scrape Music Release Date Info / [API](https://yadg.cc/api/)
+* [Sharky's EAC Guide](https://docs.google.com/document/d/1b1JJsuZj2TdiXs--XDvuKdhFUdKCdB_1qrmOMGkyveg) - CD Audio Ripping Guide
+* [Exact Audio Copy](https://www.exactaudiocopy.de/) or [Whipper](https://github.com/whipper-team/whipper) - CD / DVD Audio Ripper
+* [AccurateRip](http://www.accuraterip.com/) - Verify Ripped Tracks are Error Free
 
 ***
 
@@ -19453,6 +19468,45 @@ Use [this](https://bitbucket.org/magnolia1234/bypass-paywalls-firefox-clean/src/
 * [Tabletop Audio](https://tabletopaudio.com/) - Ambient Audio for Tabletop Games 
 * [Free Music Archive](https://www.freemusicarchive.org/), [Unminus](https://www.unminus.com/), [BenSound](https://www.bensound.com/), [HookSounds](https://www.hooksounds.com/), [UppBeat](https://uppbeat.io/), [Soundimage](https://soundimage.org/), [free stock music](https://www.free-stock-music.com/) or [Fugue](https://icons8.com/music) - Royalty Free Music
 * [Music Hoarders](https://discord.gg/d4hgc7GCAj) - Music Hoarding Community
+
+***
+
+## ▷ Spotify Download
+
+* 🌐 **[Spotify Downloader Index](https://github.com/topics/spotify-downloader)**
+* ⭐ **[DoubleDouble](https://doubledouble.top/)** - Direct Downloader
+* ⭐ **[Soggfy](https://github.com/Rafiuth/Soggfy)** - Direct Downloader
+* [Spotify to Deezer Transfer Method](https://i.ibb.co/hC3c0Gs/69f9179b5bfe.png)
+* [Spytify](https://jwallet.github.io/spy-spotify/overview.html) - Spotify Recorder
+* [DownOnSpot](https://github.com/oSumAtrIX/DownOnSpot) - Direct Downloader
+* [CLSpotify](https://agent255.github.io/clspotifyweb/) / [GitHub](https://github.com/agent255/clspotify) - Direct Downloader
+* [spotify_sync](https://github.com/jbh-cloud/spotify_sync) - Direct Downloader
+* [OnTheSpot](https://github.com/casualsnek/onthespot) - Direct Downloader
+* [SpotifyDown](https://spotifydown.com/) - Direct Downloader
+* [Zotify](https://zotify.xyz/zotify/zotify) - Direct Downloader
+* [Savify](https://github.com/LaurenceRawlings/savify) - YT Downloader
+* [Spotify-DL](https://github.com/SathyaBhat/spotify-dl) - YT Downloader
+* [spotDL](https://github.com/spotDL/spotify-downloader) - YT Downloader
+* [FreyrJS](https://github.com/miraclx/freyr-js) - YT Downloader
+* [SpotiFlyer](https://github.com/Shabinder/SpotiFlyer) - YT Downloader
+* [Spotdlrobot](https://t.me/Spotdlrobot) - Telegram Bot
+* [Spotify Music Downloader](https://t.me/joinchat/DdR2SUvJPBouSW4QlbJU4g) - Telegram Bot
+* [spotify-dl](https://github.com/SwapnilSoni1999/spotify-dl) - Telegram Bot
+* [Spotify_downloa_bot](https://t.me/Spotify_downloa_bot) - Telegram Bot
+* [Music_Downloader_Bot_Spotify](https://t.me/Music_Downloader_Bot_Spotify) - Telegram Bot
+* [Motreeb](https://t.me/motreb_downloader_bot) - Telegram Bot
+* [telegvc_bot](https://t.me/telegvc_bot) - Telegram Bot
+
+***
+
+## ▷ Soundcloud Download
+
+* [SoundCloud Downloader](https://github.com/NotTobi/soundcloud-dl)
+* [Klickaud](https://www.klickaud.co/)
+* [Local SoundCloud Downloader](https://greasyfork.org/en/scripts/394837)
+* [SCDL](https://addons.mozilla.org/pl/firefox/addon/scdl-soundcloud-downloader/) / [Git](https://github.com/flyingrub/scdl), [sclouddownloader](https://sclouddownloader.net/)
+* [SoundcloudMP3](https://soundcloudmp3.cc/)
+* [soundcloudaudiodownloader](https://t.me/soundcloudaudiodownloader)
 
 ***
 
