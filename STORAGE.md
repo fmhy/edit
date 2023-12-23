@@ -580,7 +580,7 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://70.88.180.169:8
 
 ## Game Soundtracks
 
-* [Khinsider](https://downloads.khinsider.com/) - [Downloader](https://forgejo.sny.sh/sun/VGMLoader) / [2](https://github.com/obskyr/khinsider) / [3](https://github.com/weespin/KhinsiderDownloader)
+* [Khinsider](https://downloads.khinsider.com/) - [Downloader](https://github.com/obskyr/khinsider) / [2](https://github.com/weespin/KhinsiderDownloader)
 
 [Duke4 SC-55](https://sc55.duke4.net/games.php), [Project2612](https://project2612.org/index.php), [retro.sx](https://retro.sx/), [GameOST](https://gameost.net/), [VGMRips](https://vgmrips.net/packs/), [VGMPF](https://www.vgmpf.com/Wiki/index.php), [Zophar's](https://www.zophar.net/music)
 
