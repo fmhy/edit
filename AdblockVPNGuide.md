@@ -230,7 +230,6 @@
 * 🌐 **[Awesome Web Security](https://github.com/qazbnm456/awesome-web-security)** - Web Security Resources
 * 🌐 **[de-google](https://www.reddit.com/r/privacy/wiki/de-google)**, [De-google-ify](https://degooglisons-internet.org/en/), [Degoogle](https://github.com/tycrek/degoogle), [Google Alt List](https://www.techspot.com/news/80729-complete-list-alternatives-all-google-products.html), [/r/DeGoogle](https://www.reddit.com/r/degoogle) or [No More Google](https://nomoregoogle.com/) - Google App Alternatives
 * 🌐 **[Awesome I2P](https://github.com/mikalv/awesome-i2p)** - I2P Resources
-* ↪️ **[Encode / Decode URLs](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_encode_.2F_decode_urls)**
 * ↪️ **[Encrypted Messaging Apps](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_encrypted_messengers)** / [2](https://docs.google.com/spreadsheets/d/1-UlA4-tslROBDS9IqHalWVztqZo7uxlCeKPQ-8uoFOU) / [3](https://www.securemessagingapps.com/)
 * ↪️ **[Encrypted XMPP Servers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_encrypted_xmpp_servers)**
 * ⭐ **[Vytal.io](https://vytal.io/)**, [FirstPartySimulator](https://firstpartysimulator.org/), [PersonalData](https://personaldata.info/) or [WEBKAY](https://webkay.robinlinus.com/) - Browser Tracking Tests
@@ -374,6 +373,19 @@
 * [ekoru](https://ekoru.org/)
 * [Gibiru](https://gibiru.com/)
 * [Whoogle](https://github.com/benbusby/whoogle-search) - Self-Hosted Encrypted Search Engine
+
+***
+
+## ▷ Encode / Decode Text
+
+* ⭐ **[Ciphey](https://github.com/Ciphey/Ciphey)** - Automated Decryption Tool
+* ⭐ **[CyberChef](https://gchq.github.io/CyberChef/)** - Encode / Decode Text
+* ⭐ **[Universal Encoding Tool](https://unenc.com/)** - Encode / Convert Text
+* ⭐ **[Base64 Decode](https://www.base64decode.org/) / [Encode](https://www.base64encode.org/)** / [Dynamic](https://apps.maximelafarie.com/base64/) / [Chrome](https://chromewebstore.google.com/detail/base64-encoderdecoder/afdannbjainhcddbjjlhamdgnojibeoi), [2](https://chromewebstore.google.com/detail/base64-decode-copy/llcfmnginbnmkeddkjjellcimmffjdcf), [3](https://chromewebstore.google.com/detail/clip64-base64-decoder/hdneaoibdfdmifgfjjlkbkceanhjmgch) / [Firefox](https://addons.mozilla.org/en-US/firefox/addon/base64-decoder/) / [Opera](https://addons.opera.com/en/extensions/details/base64-encode-and-decode/)
+* [Txtmoji](https://txtmoji.com/) - Text to Emoji Encryption / Decryption
+* [cryptii](https://cryptii.com/), [DenCode](https://dencode.com/) - Text / URL Encoding
+* [Online Tools](https://emn178.github.io/online-tools/index.html) - Text / URL Encoding and Decoding
+* [URL Decode](https://url-decode.com/) / [Encode](https://url-decode.com/tool/url-encode) - URL Encoding / Decoding
 
 ***
 
