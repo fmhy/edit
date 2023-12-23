@@ -508,7 +508,7 @@
 * [Reface](https://reface.app/) - Create Face Swap Videos
 * [Alibi](https://github.com/Myzel394/Alibi) - Mobile Dashcam
 * [SmoothAction](https://play.google.com/store/apps/details?id=com.danielkorgel.SmoothActionCamSlowmo) - Slow Motion Video Recorder
-* [IRuin](https://iriun.com/), [Reincubate Camo](https://reincubate.com/camo/), [DroidCam](https://github.com/dev47apps/droidcam) or [Dev47Apps](https://www.dev47apps.com/) - Use Android as Webcam
+* [IRuin](https://iriun.com/), [Reincubate Camo](https://reincubate.com/camo/) or [DroidCam](https://github.com/dev47apps/droidcam) - Use Android as Webcam
 * [LeafPic](https://gitlab.com/HoraApps/LeafPic) - Image Viewer
 * [PhotoSync](https://www.photosync-app.com/home.html) - Transfer Photos Between Devices
 * [ImageToolbox](https://github.com/T8RIN/ImageToolbox) or [Pixomatic](https://pixomatic.us/) - Image Editors
