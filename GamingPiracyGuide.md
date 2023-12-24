@@ -31,7 +31,6 @@
 * ⭐ **[Game Download CSE](https://cse.google.com/cse?cx=006516753008110874046:cbjowp5sdqg)**, [Game Torrent CSE](https://cse.google.com/cse?cx=006516753008110874046:pobnsujblyx), [Rezi Search](https://rezi.one/), [Rave Search](https://idleendeavor.github.io/gamesearch/) / [2](https://ravegamesearch.pages.dev/) or [/r/PiratedGames CSE](https://cse.google.com/cse?cx=20c2a3e5f702049aa) - Multi-Site Search Engines
 * [g4u](https://g4u.to/) - Download / pw: 404
 * [GLoad](https://gload.to/), [Leeching Hell](http://www.leechinghell.pw/) or [GamePCFull](https://gamepcfull.com/) - Download
-* [Seven Gamers](https://www.seven-gamers.com/) - Download / Torrent
 * [Xatab Repacks](https://byxatab.com/), [2](https://otxatabs.net/) - Torrent
 * [IRC Games](https://redd.it/x804wg) - Download Games via IRC
 * [Gamdie](https://gamdie.com/) / [Discord](https://discord.gg/hH9sedx4de), [itch.io](https://itch.io/games/new-and-popular/featured/free) / [Downloader](https://github.com/Emersont1/itchio), [DigiPen](https://games.digipen.edu/) or [Game Jolt](https://gamejolt.com/games?price=free) - Indie Games
