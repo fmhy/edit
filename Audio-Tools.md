@@ -43,7 +43,7 @@
 
 ***
 
-## Lyric Sites
+## ▷ Lyric Sites
 
 * ⭐ **[dumb](https://github.com/rramiachraf/dumb)** - Genius Lyrics Frontend
 * [AZLyrics](https://www.azlyrics.com/), [FindMusicByLyrics](https://findmusicbylyrics.com/) or [Lyrics.com](https://www.lyrics.com/) - Lyric Search
