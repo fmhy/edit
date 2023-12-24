@@ -1636,16 +1636,15 @@
 * [ClickTest](https://clicktest.vn/) - Mouse Click Test
 * [TestMic](https://testmic.vn/) - Test Microphone
 * [TestCam](https://testcamera.vn/), [CamTest](https://cameratest.vn/) - Test Camera
-* [VNTyping](https://vntyping.com/), [VietnameseTyping](https://vietnamesetyping.com/), [VNKeys](https://www.vnkeys.net/), [Unikey](https://www.unikey.org/) - Vietnamese Typing
+* [VNTyping](https://vntyping.com/), [VietnameseTyping](https://vietnamesetyping.com/), [VNKeys](https://www.vnkeys.net/) or [Unikey](https://www.unikey.org/) - Vietnamese Typing
 * [Mail1s](https://mail1s.com/) - Temp Email
 * [BeeCost](https://beecost.vn/) - E-commerce Price Tracker
-* [TaoAnhDep](https://taoanhdep.com/) - Image Tools
 * [FBVN](https://chromewebstore.google.com/detail/hlnhbiajcpmjpgpedgfdigiccejengbi), [L.O.C](https://chromewebstore.google.com/detail/eojdckfcadamkapabechhbnkleligand) or [MonokaiToolkit](https://chromewebstore.google.com/detail/monokaitoolkit-extension/dagbggkfgebkmlmnlidioknbhilfnngn) - Friends Filter for Facebook
 * [J2TEAM](https://home.j2team.dev/) - browser extensions & web applications / [Facebook](https://www.facebook.com/groups/364997627165697) / [Discord](https://discord.com/invite/j2team) / [Telegram](https://t.me/joinchat/Ka7yRUkq63VwdxjJ85v9CA)
 * [123Note](https://123note.net/), [Notepad](https://notepad.vn/), [GhiChu](https://ghichu.vn/) - Notepad Tools
 * [Random](https://random.com.vn/), [QuaySo](https://quayso.vn/) or [NgauNhien](https://ngaunhien.vn/) - Random Tools
 * [FPT.AI](https://fpt.ai/vi/tts) or [vbee](https://www.vbee.vn/) - Text to Speech
-* [EPhoto360](https://ephoto360.com/), [ThiepMung](https://thiepmung.com/), [HieuUngAnh](https://hieuunganh.com/), [ThiepHay](https://thiephay.com/), [KhungAnh](https://khunganhonline.com/) or [TaoCover](https://taocover.com/) - Photo Effects
+* [EPhoto360](https://ephoto360.com/), [ThiepMung](https://thiepmung.com/), [HieuUngAnh](https://hieuunganh.com/), [ThiepHay](https://thiephay.com/), [KhungAnh](https://khunganhonline.com/), [TaoCover](https://taocover.com/) or [TaoAnhDep](https://taoanhdep.com/) - Photo Effects
 * [KiemTraIP](https://kiemtraip.com/), [IPCuaToi](https://ipcuatoi.com/) - IP Checkers
 * [hostsVN](https://bigdargon.github.io/hostsVN/), [iBlockAds](https://iblockads.net/), [FMSF2](https://nmtrung.com/fmsf-2/) or [ABPVN](https://abpvn.com/) - Vietnamese Adblock Filters
 
@@ -1672,11 +1671,13 @@
 * [BiluTV](https://bilutv.link/) - Movies / TV / Anime
 * [MotChill](https://motchill.tv/) - Movies / TV
 * [PhimMoi](https://phimmoiyyy.net/) - Movies / TV
+* [Danet](https://danet.vn/) - Movies / TV
+* [TVHay](https://tvhayb.net/) -Movie
 * [XemPhim](https://xemphim.app/) - Movies / TV
 * [XemPhimPlus](https://xemphim.fun/) - Movies / TV
 * [LokLok](https://loklok.com/vi) - Movies / TV / Anime
 * [LuotPhim](https://luotphimtv1.com/) - Movies / TV
-* [NguonPhim](http://nguonphim.live/)
+* [NguonPhim](http://nguonphim.one/) - Movies
 * [Phim1080](https://xem1080.com/) - Movies / TV
 * [HoatHinhTQ](https://hoathinhtrungquoc.top/) - Chinese Animation
 * [HHPanda](https://hhpanda.net/) - Chinese Animation
@@ -1698,6 +1699,12 @@
 * [MyClip](https://myclip.vn/) - Video
 * [TVOnline](https://tvtructuyen.vn/) - Live TV
 * [VTVGo](https://vtvgo.vn/) - Live TV
+* [TV360](https://tv360.vn/) - Live TV
+* [TVHayHD](http://xemtv.tvhayhd.com/) - Live TV
+* [Xtv](https://xemtiviviet.net/) - Live TV
+* [6SVN](https://xem.6svn.com/) - Live TV
+* [vieon](https://vieon.vn/) - Live TV / TV show / Anime / Cartoon / Movie
+* [FPTplay](https://fptplay.vn/) - Live TV / TV show / Anime / Cartoon / Movie
 * [HPlus](https://hplus.com.vn/), [2](https://htvc.com.vn/) - Live TV / TV Show
 * [THVL](https://www.thvli.vn/), - Live TV / TV Show
 * [VTC](https://portal.vtc.gov.vn/live), - Live TV
@@ -1707,6 +1714,7 @@
 * [Nhacvn](https://nhac.vn/) - Music
 * [Keeng](https://keeng.vn/) - Music
 * [Imuzik](https://imuzik.com.vn/) - Music
+* [Nhac.vn](https://nhac.vn/) - Music
 
 ## ▷ Reading
 
