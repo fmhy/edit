@@ -43,7 +43,7 @@
 * ⭐ **[Squidify](https://www.squidify.org)** - Game / Anime Soundtracks / [Resources](https://wotaku.pages.dev/guides/squidify/)
 * ⭐ **[hate5six](https://hate5six.com/)** - Concert Recordings
 * [OperaOnVideo](https://www.operaonvideo.com/) - Opera Recordings
-* [Last.fm](https://www.last.fm/), [ccMixter](https://dig.ccmixter.org/), [Audiomack](https://audiomack.com/), [xprm](https://xprm.net/), [Pandora](https://www.pandora.com/), [Jango](https://jango.com/), [Jamendo](https://www.jamendo.com/), [SoundClick](https://www.soundclick.com/default.cfm), [Cliggo](https://music.cliggo.com/) or [Mixupload](https://mixupload.com/) - Browser Music
+* [Last.fm](https://www.last.fm/), [ccMixter](https://dig.ccmixter.org/), [Audiomack](https://audiomack.com/), [xprm](https://xprm.net/), [Pandora](https://www.pandora.com/), [Jango](https://jango.com/), [Jamendo](https://www.jamendo.com/), [SoundClick](https://www.soundclick.com/default.cfm) or [Mixupload](https://mixupload.com/) - Browser Music
 * [Tancpol](https://tancpol.net/) - Browser Music
 * [musify](https://musify.club/) - Browser Music
 * [DMO](https://dance-music.org/) - Electronic
@@ -237,41 +237,41 @@
 
 * ↪️ **[Video Game Soundtracks](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_game_soundtracks)**
 * ↪️ **[Royalty Free Music](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_royalty_free_music)**
-* ⭐ **[DoubleDouble](https://doubledouble.top/)** - Multi-Site Audio Download Web App
-* ⭐ **[Free MP3 Download](https://free-mp3-download.net/)** - Search / MP3 / FLAC
+* ⭐ **[DoubleDouble](https://doubledouble.top/)** - Multi-Site Audio Download / 320kb / MP3
+* ⭐ **[Free MP3 Download](https://free-mp3-download.net/)** - Search / 320kb / MP3 / FLAC
 * ⭐ **[SittingOnClouds](https://www.sittingonclouds.net/)** / [Discord](https://discord.com/invite/x23SFbE) - Anime / Game Soundtracks
 * ⭐ **[Audio Download CSE](https://cse.google.com/cse?cx=006516753008110874046:ibmyuhh72io)** / [CSE 2](https://cse.google.com/cse?cx=006516753008110874046:ohobg3wvr_w) / [CSE 3](https://cse.google.com/cse?cx=32d85b41e2feacd3f) - Multi-Site Search
-* [The Last Disaster](https://thelastdisaster.vip/) - Metal / Hardcore / Rock / MP3 / FLAC
+* [The Last Disaster](https://thelastdisaster.vip/) - Metal / Hardcore / Rock / 320kb / MP3 / FLAC
 * [VK::MP3](https://metacpan.org/pod/VK::MP3) - VK MP3 Search Tool
-* [Ezhevika](https://ezhevika.blogspot.com/) - MP3
-* [nodata](https://nodata.tv/) - MP3
-* [Black Organization](https://blackorganizationmp3.wixsite.com/music) - MP3
+* [musify](https://musify.club/) - 320kb / MP3
+* [Black Organization](https://blackorganizationmp3.wixsite.com/music) - 320kb / MP3
+* [ccMixter](https://ccmixter.org/) - DL / Stream / 320kb / MP3 
+* [ShareMania](https://sharemania.us/) - 320kb / MP3
+* [RockDownload](https://www.rockdownload.org/) - 320kb / MP3
+* [SongsLover](https://songslover.vip/) - MP3 / 256kb
+* [24naijamuzic](https://www20.24naijamuzic.com/) - 256kb / MP3
+* [Freemp3cloud](https://freemp3cloud.com) - 256kb / MP3
+* [Ezhevika](https://ezhevika.blogspot.com/) - 192kb / MP3
+* [Rhapsody](https://github.com/nbats/FMHYedit/blob/main/base64.md#rhapsody) - 128kb / MP3
+* [Tyler](https://github.com/nbats/FMHYedit/blob/main/base64.md#tyler) - 128kb / MP3
 * [SoundClick](https://www.soundclick.com/default.cfm) - MP3
+* [nodata](https://nodata.tv/) - MP3
 * [z1.fm](https://z2.fm/) - MP3
-* [PandaCD](https://pandacd.io/) - MP3
 * [Tancpol](https://tancpol.net/) - MP3
-* [ccMixter](https://ccmixter.org/) - DL / Stream / MP3 
 * [Digital Meltd0wn](https://digitalmeltd0wn.blogspot.com/) - MP3
 * [Music Blogtrotter](https://musicblogtrotter.blogspot.com/) - MP3
 * [New Album Releases](https://newalbumreleases.net/) - MP3
 * [mp3db](https://mp3db.pro/) - MP3
-* [ShareMania](https://sharemania.us/) - MP3
-* [RockDownload](https://www.rockdownload.org/) - MP3
 * [DeadPulpit](https://www.deadpulpit.com/) - MP3
 * [CannaPower](https://canna-power.to) - MP3 / [Telegram](https://t.me/cannapower)
-* [24NaiJamMuzic](https://www10.24naijamuzic.com/) - MP3
-* [musify](https://musify.club/) - MP3
 * [GloryBeats](https://glorybeats.com/) - MP3
-* [SongsLover](https://songslover.vip/) - MP3 / 256kbps
 * [Funky Souls](https://forum.funkysouls.org/), [2](https://funkysouls.org/) - MP3
 * [Cliggo](https://music.cliggo.com/) - MP3
 * [rildi](https://rilds.com/) - MP3
-* [Freemp3cloud](https://freemp3cloud.com) - MP3
-* [MartinRadio](https://www.martinradio.com/) - MP3
 * [Mixupload](https://mixupload.com/) - MP3
-* [Rhapsody](https://github.com/nbats/FMHYedit/blob/main/base64.md#rhapsody) - MP3
-* [Tyler](https://github.com/nbats/FMHYedit/blob/main/base64.md#tyler) - MP3
-* [24naijamuzic](https://www11.24naijamuzic.com/album/) - MP3
+
+
+* [MartinRadio](https://www.martinradio.com/) - FLAC
 * [FLAC Attack](https://flacattack.net/) or [Lossless-Music](https://lossless-music.org/) - FLAC
 * [Losslessma](https://losslessma.net/) - FLAC
 * [LosslessBest](https://flacdl.com/) - FLAC
@@ -449,7 +449,7 @@
 * [The Joe Rogan Experience](https://pastebin.com/gqwPPRL6) - Joe Rogan Podcast
 * [MixtapeTorrent](http://www.mixtapetorrent.com/) - Mixtapes / MP3
 * [TribalMixed](https://www.tribalmixes.com/) - DJ Mixes / MP3
-* [PandaCD](https://pandacd.io/) - User-Made Music
+* [PandaCD](https://pandacd.io/) - User-Made Music / MP3
 * [ZOMB Torrents](http://zombtracker.the-zomb.com/) - Forum
 * [bt.etree](https://bt.etree.org/) or [DreamingTree](https://dreamingtree.org/) - Live Concert Recordings
 * [NFO db](https://nfodb.ru/) - MP3 NFO Database
