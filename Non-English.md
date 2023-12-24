@@ -1730,6 +1730,14 @@
 * [teamlanhlung](https://teamlanhlung.com/) - Manga
 * [blogtruyen](https://blogtruyen.vn/) - Manga
 * [truyenvn](https://truyenvnhay.tv/) - Manga/ Manhwa/ Manhua
+* [A3manga](https://www.a3manga.info/) - Manga/ Manhwa/ Manhua
+* [SStruyen](https://sstruyen.vn/) - Manga/ Manhwa/ Manhua
+* [Dtruyen](https://dtruyen.com/) - Manga/ Manhwa/ Manhua
+* [Thichdoctruyen](https://thichdoctruyen.vip/) - Manga/ Manhwa/ Manhua
+* [Truyensieuhay](https://truyensieuhay.com/) - Manga/ Manhwa/ Manhua
+* [Goctruyen](https://goctruyentranhvui.com/trang-chu) - Manga/ Manhwa/ Manhua
+* [Vietwriter](https://vietwriter.vn/) - Manga/ Manhwa/ Manhua / Novel
+* [Doctruyen5s](https://doctruyen5s.top/) - Manga/ Manhwa/ Manhua
 * [truyengihay](https://truyengihotne.com/) - Manga
 * [NetTruyen](https://www.nettruyenus.com/) - Manga / Manhwa / Manhua
 * [TruyenFull](https://truyenfull.vn/) - Manga / Light Novels
