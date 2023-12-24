@@ -1636,10 +1636,10 @@
 * [ClickTest](https://clicktest.vn/) - Mouse Click Test
 * [TestMic](https://testmic.vn/) - Test Microphone
 * [TestCam](https://testcamera.vn/), [CamTest](https://cameratest.vn/) - Test Camera
-* [VNTyping](https://vntyping.com/), [VietnameseTyping](https://vietnamesetyping.com/) or [VNKeys](https://www.vnkeys.net/) - Vietnamese Typing
+* [VNTyping](https://vntyping.com/), [VietnameseTyping](https://vietnamesetyping.com/), [VNKeys](https://www.vnkeys.net/), [Unikey](https://www.unikey.org/) - Vietnamese Typing
 * [Mail1s](https://mail1s.com/) - Temp Email
 * [BeeCost](https://beecost.vn/) - E-commerce Price Tracker
-* [TaoAnhDep](https://taoanhdep.com/) - image tools
+* [TaoAnhDep](https://taoanhdep.com/) - Image Tools
 * [FBVN](https://chromewebstore.google.com/detail/hlnhbiajcpmjpgpedgfdigiccejengbi), [L.O.C](https://chromewebstore.google.com/detail/eojdckfcadamkapabechhbnkleligand) or [MonokaiToolkit](https://chromewebstore.google.com/detail/monokaitoolkit-extension/dagbggkfgebkmlmnlidioknbhilfnngn) - Friends Filter for Facebook
 * [J2TEAM](https://home.j2team.dev/) - browser extensions & web applications / [Facebook](https://www.facebook.com/groups/364997627165697) / [Discord](https://discord.com/invite/j2team) / [Telegram](https://t.me/joinchat/Ka7yRUkq63VwdxjJ85v9CA)
 * [123Note](https://123note.net/), [Notepad](https://notepad.vn/), [GhiChu](https://ghichu.vn/) - Notepad Tools
