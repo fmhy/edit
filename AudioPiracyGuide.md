@@ -258,16 +258,12 @@
 * [nodata](https://nodata.tv/) - MP3
 * [z1.fm](https://z2.fm/) - MP3
 * [Tancpol](https://tancpol.net/) - MP3
-* [Digital Meltd0wn](https://digitalmeltd0wn.blogspot.com/) - MP3
-* [Music Blogtrotter](https://musicblogtrotter.blogspot.com/) - MP3
 * [New Album Releases](https://newalbumreleases.net/) - MP3
 * [mp3db](https://mp3db.pro/) - MP3
 * [DeadPulpit](https://www.deadpulpit.com/) - MP3
 * [CannaPower](https://canna-power.to) - MP3 / [Telegram](https://t.me/cannapower)
 * [GloryBeats](https://glorybeats.com/) - MP3
-* [Funky Souls](https://forum.funkysouls.org/), [2](https://funkysouls.org/) - MP3
 * [Cliggo](https://music.cliggo.com/) - MP3
-* [rildi](https://rilds.com/) - MP3
 * [Mixupload](https://mixupload.com/) - MP3
 * [MartinRadio](https://www.martinradio.com/) - FLAC
 * [FLAC Attack](https://flacattack.net/) or [Lossless-Music](https://lossless-music.org/) - FLAC
