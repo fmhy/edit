@@ -15,7 +15,6 @@
 * [socid_extractor](https://github.com/soxoj/socid-extractor) - Extract Social Media User Info from Pages
 * [tumblr-utils](https://github.com/bbolli/tumblr-utils) - Tumblr Utilities
 * [Tumblr Savior](https://bjornstar.com/tumblr-savior) - Tumblr Dashboard Filter
-* [Telescope](https://telescope.ac/) - Publishing Platform
 
 ***
 
@@ -172,8 +171,9 @@
 
 ## ▷ Reddit Alternatives
 
-* ⭐ **[Lemmy](https://join-lemmy.org/)**
-* ⭐ **[Raddle](https://raddle.me/)** / [.onion](http://c32zjeghcp5tj3kb72pltz56piei66drc63vkhn5yixiyk4cmerrjtid.onion/)  - Reddit Alt
+* ⭐ **[Lemmy](https://join-lemmy.org/)** / [Stats](https://the-federation.info/), [2](https://fedidb.org/) - Federated Reddit Alternative
+* ⭐ **[Lemmy Explorer](https://lemmyverse.net/)**, [Community-Browser](https://browse.feddit.de/) or [Awesome Instances](https://github.com/maltfield/awesome-lemmy-instances) - Lemmy Instances
+* ⭐ **[Raddle](https://raddle.me/)** / [.onion](http://c32zjeghcp5tj3kb72pltz56piei66drc63vkhn5yixiyk4cmerrjtid.onion/) - Reddit Alt
 * ⭐ **[Saidit](https://saidit.net/)** - Reddit Alt
 * [/r/RedditAlternatives](https://reddit.com/r/RedditAlternatives) - Find Reddit Alternatives
 * [Sqwok](https://sqwok.im/) - Reddit Alt
@@ -482,13 +482,13 @@
 
 ## ▷ Twitch Adblockers
 
-* ⭐ **[TwitchAdSolutions](https://github.com/pixeltris/TwitchAdSolutions)**
-* ⭐ **[Purple AdBlock](https://addons.mozilla.org/en-US/firefox/addon/purpleadblock/)**
-* ⭐ **[TTV LOL](https://ttv.lol/)** / [Pro](https://github.com/younesaassila/ttv-lol-pro) / [Video Guide](https://rentry.co/tavy3)
-* [VideoAdBlockForTwitch](https://github.com/cleanlock/VideoAdBlockForTwitch)
-* [luminous-ttv](https://github.com/AlyoshaVasilieva/luminous-ttv)
-* [Adblocker for Twitch - Edge](https://microsoftedge.microsoft.com/addons/detail/adblocker-for-twitch%E2%84%A2/glgpmlmjlaljaddimbgekaepkgbojjdn)
-* [Xtra](https://github.com/crackededed/Xtra) or [PurpleTV](https://purpletv.aeong.one/) - Ad Free Android Apps
+* 🌐 **[TwitchAdSolutions](https://github.com/pixeltris/TwitchAdSolutions)** - Solutions / Scripts for Blocking Twitch Ads
+* ⭐ **[Purple AdBlock](https://addons.mozilla.org/en-US/firefox/addon/purpleadblock/)** - Twitch Adblocker
+* ⭐ **[TTV LOL](https://ttv.lol/)** / [Pro](https://github.com/younesaassila/ttv-lol-pro) / [Video Guide](https://rentry.co/tavy3) - Twitch Adblocker
+* [VideoAdBlockForTwitch](https://github.com/cleanlock/VideoAdBlockForTwitch) - Twitch Adblocker
+* [luminous-ttv](https://github.com/AlyoshaVasilieva/luminous-ttv) - Twitch Adblocker
+* [Adblocker for Twitch](https://microsoftedge.microsoft.com/addons/detail/adblocker-for-twitch%E2%84%A2/glgpmlmjlaljaddimbgekaepkgbojjdn) - Edge Twitch Adblocker
+* [Xtra](https://github.com/crackededed/Xtra) or [PurpleTV](https://purpletv.aeong.one/) - Ad Free Twitch APKs
 
 ***
 
@@ -589,8 +589,8 @@
 
 * 🌐 **[Awesome Fediverse](https://github.com/emilebosch/awesome-fediverse)** - Fediverse Resources
 * ⭐ **[Fediverse](https://fediverse.party/)**, [Fediverse.space](https://fediverse.space/), [sub.rehab](https://sub.rehab/) or [Fediverse Observer](https://mastodon.fediverse.observer/) - Fediverse Instance Search
-* ⭐ **[Lemmy Explorer](https://lemmyverse.net/)**, [Community-Browser](https://browse.feddit.de/) or [Awesome Instances](https://github.com/maltfield/awesome-lemmy-instances) - Lemmy Instances
 * ⭐ **[Lemmy](https://join-lemmy.org/)** / [Stats](https://the-federation.info/), [2](https://fedidb.org/) - Federated Reddit Alternative
+* ⭐ **[Lemmy Explorer](https://lemmyverse.net/)**, [Community-Browser](https://browse.feddit.de/) or [Awesome Instances](https://github.com/maltfield/awesome-lemmy-instances) - Lemmy Instances
 * ⭐ **[Pleroma](https://pleroma.social/)** - Federated Microblogging
 * ⭐ **[Pixelfed](https://pixelfed.org/)** - Federated Microblogging
 * ⭐ **[diaspora*](https://diasporafoundation.org/)**, [2](https://diasp.org/) - Federated Microblogging
@@ -607,20 +607,17 @@
 
 ## ▷ Mastodon Tools
 
-* ⭐ **[Mastodon](https://joinmastodon.org/)** - Federated Microblogging
-* [Tuba](https://tuba.geopjr.dev/) - Viewer
-* [Kaiteki](https://kaiteki.app/) - Viewer
-* [Mastodon Scheduler](https://scheduler.mastodon.tools/) - Schedule when to send post
-* [Mastodon Instances](https://instances.social/) - Instances Index 
-* [MastoVue](https://mastovue.glitch.me/) - View public timelines or hashtags
+* ⭐ **[Mastodon](https://joinmastodon.org/)** - Federated Twitter Alternative
+* 🌐 **[Mastodon Instances](https://instances.social/)** - Mastodon Instances Index
+* [Tuba](https://tuba.geopjr.dev/) or [Kaiteki](https://kaiteki.app/) - Mastodon Viewers
+* [Mastodon Scheduler](https://scheduler.mastodon.tools/) - Schedule Sending Posts
+* [MastoVue](https://mastovue.glitch.me/) - View Public Timelines / Hashtags
 * [Cheap Bots, Toot Sweet!](https://cheapbotstootsweet.com/) - Create Bots
 
 ***
 
 # ► 4chan Tools
 
-* ↪️ **[4chan Archives](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_4chan_archives)**
-* ⭐ **[4chan](https://4chan.org/)** - [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools/#wiki_.25B7_4chan_tools)
 * ⭐ **[LuckyChan](https://luckychan.app/)** - Modern 4chan Frontend
 * ⭐ **[4chan X](https://www.4chan-x.net/)**, [SpookyX](https://github.com/Fiddlekins/SpookyX), [4Chan XT](https://github.com/TuxedoTako/4chan-xt) or [Dollchan](https://dollchan.net/) - Enhancement Extensions
 * [Lurka](https://github.com/AdamSalma/Lurka) - 4chan Desktop Client
@@ -636,6 +633,20 @@
 * [Bypass Deferer](https://greasyfork.org/en/scripts/451259) - Remove Link Deferer
 * [Extra Flags for 4chan](https://gitlab.com/flagtism/Extra-Flags-for-4chan) - Add More Flags to 4chan
 * [ss21](https://github.com/saxamaphone69/ss21), [OneeChan](https://github.com/KevinParnell/OneeChan) or [4cheddit](https://greasyfork.org/en/scripts/16672) - 4chan Themes
+
+***
+
+## ▷ 4chan Archives
+
+* ⭐ **[boards.4channel](https://boards.4channel.org/search)**, [2](https://boards.4chan.org/search) - 4chan Archives
+* [4chanSearch](https://4chansearch.com/) or [4search](https://4search.neocities.org/) - Search 4chan Archives
+* [Oldfriend Archive](https://old.sage.moe/) - 2004 - 2014 Archive
+* [Ten Billion](https://archive.org/details/4chan_threads_archive_10_billion) or [4Museum](https://4museum.neocities.org/) - 2006 - 2008 Archive
+* [4GBs of 4chan Threads](https://archive.org/details/4chan-threads-2009-2012) - 2009 - 2012 Archive
+* [Archive.4plebs](https://archive.4plebs.org/) - 2013 - 2023 Archive
+* [BibAnon](https://vyrd.bibanon.org/) - Vyrd's Archive
+* [Yotsuba Catalog](https://catalog.neet.tv/) - Yotsuba Archive
+* [Sup/tg/](https://suptg.thisisnotatrueending.com/), [arch.b4k](https://arch.b4k.co/), [palanq](https://archive.palanq.win/), [desuarchive](https://desuarchive.org/) or [archived.moe](https://archived.moe/) / [2](https://thebarchive.com/) - Misc 4chan Archives
 
 ***
 
