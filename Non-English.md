@@ -1676,11 +1676,14 @@
 * [HHNinja](https://hhninja.tv/) - Chinese Animation
 * [HHKungfu](https://hhhkungfu.tv/) - Chinese Animation
 * [HHTQvip](https://hhtq.vip/) - Chinese Animation
-* [VuiGhe](https://vuigher.com/) - Anime
+* [VuiGhe](https://vuighe2.com/) - Anime
+* [AnimeTVN](https://animetvn2.com/) - Anime
+* [animevietsub](https://animevietsub.fan/) - Anime / [Discord](https://discord.gg/animevsub-462138449055711232)
 * [Ani4u](https://ani4u.org/) - Anime
 * [AnimeHay](https://animehay.fan/) - Anime
 * [AnimeTVN](https://animetvn.com/) - Anime
 * [Anime47](https://anime47.com/) - Anime
+* [POPS](https://pops.vn/) - Anime / Cartoon
 * [VietToons](https://viettoons.tv/) - Cartoons
 * [Tokuvn](https://tokuvn.com/) - Tokusatsu
 * [Mocha](https://video.mocha.com.vn/) - Video
@@ -1717,11 +1720,13 @@
 * [DichTruyen](https://dichtruyenpro05.com/) - Manga / Manhwa / Manhua / [Facebook](https://www.facebook.com/dichtruyenteam/)
 * [cuutruyen](https://cuutruyen.net/) - Manga
 * [teamlanhlung](https://teamlanhlung.com/) - Manga
-* [truyenvn](https://truyenvnhot.tv/) - Manga
+* [blogtruyen](https://blogtruyen.vn/) - Manga
+* [truyenvn](https://truyenvnhay.tv/) - Manga/ Manhwa/ Manhua
 * [truyengihay](https://truyengihotne.com/) - Manga
-* [NetTruyen](https://www.nettruyento.com/) - Manga / Manhwa / Manhua
+* [NetTruyen](https://www.nettruyenus.com/) - Manga / Manhwa / Manhua
 * [TruyenFull](https://truyenfull.vn/) - Manga / Light Novels
 * [Hako](https://docln.net/), [2](https://novelvn.net/) - Light Novels / [Facebook](https://www.facebook.com/groups/hako.group)
+* [Sonako](https://sonako.fandom.com/vi/wiki/Sonako_Light_Novel) - Light Novels / [Facebook](https://www.facebook.com/SonakoWiki/)
 * [Babla](https://www.babla.vn/) - Dictionary
 * [VDict](https://vdict.com/) - Dictionary
 * [VTuDien](https://vtudien.com/) - Dictionary
