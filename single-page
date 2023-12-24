@@ -8,7 +8,6 @@
 
 * 🌐 **[AudioMarx](https://audiomarx.mixa.site/)** - Audio Resource Index
 * ↪️ **[Album Artwork](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_covers_.2F_posters)**
-* ↪️ **[Lyric Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_lyric_sites)**
 * ↪️ **[Voice Change / Clone](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/ai#wiki_.25B7_voice_change_.2F_clone)**
 * ↪️ **[Text to Speech](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/ai#wiki_.25B7_text_to_speech)**
 * ⭐ **[FFmpeg](https://ffmpeg.org/)**, [fre:ac](https://www.freac.org/), [FlicFlac](https://github.com/DannyBen/FlicFlac) or [LameXP](https://sourceforge.net/projects/lamexp/) - Audio Converters
@@ -41,6 +40,15 @@
 * [FolkTuneFinder](https://www.folktunefinder.com/) - Folk Tunes
 * [Dejavu](https://github.com/worldveil/dejavu) - Python
 * [Audd](https://audd.io/) - API
+
+***
+
+## Lyric Sites
+
+* ⭐ **[dumb](https://github.com/rramiachraf/dumb)** - Genius Lyrics Frontend
+* [AZLyrics](https://www.azlyrics.com/), [FindMusicByLyrics](https://findmusicbylyrics.com/) or [Lyrics.com](https://www.lyrics.com/) - Lyric Search
+* [Versefy](https://versefy.app/) or [Lyrics-In-Terminal](https://github.com/Jugran/lyrics-in-terminal) - Lyrics Finder for Spotify / Tidal / VLC
+* [Lyrist](https://lyrist.app) - Write Lyrics w/ Beats
 
 ***
 
@@ -4348,7 +4356,6 @@
 * [socid_extractor](https://github.com/soxoj/socid-extractor) - Extract Social Media User Info from Pages
 * [tumblr-utils](https://github.com/bbolli/tumblr-utils) - Tumblr Utilities
 * [Tumblr Savior](https://bjornstar.com/tumblr-savior) - Tumblr Dashboard Filter
-* [Telescope](https://telescope.ac/) - Publishing Platform
 
 ***
 
@@ -4505,8 +4512,9 @@
 
 ## ▷ Reddit Alternatives
 
-* ⭐ **[Lemmy](https://join-lemmy.org/)**
-* ⭐ **[Raddle](https://raddle.me/)** / [.onion](http://c32zjeghcp5tj3kb72pltz56piei66drc63vkhn5yixiyk4cmerrjtid.onion/)  - Reddit Alt
+* ⭐ **[Lemmy](https://join-lemmy.org/)** / [Stats](https://the-federation.info/), [2](https://fedidb.org/) - Federated Reddit Alternative
+* ⭐ **[Lemmy Explorer](https://lemmyverse.net/)**, [Community-Browser](https://browse.feddit.de/) or [Awesome Instances](https://github.com/maltfield/awesome-lemmy-instances) - Lemmy Instances
+* ⭐ **[Raddle](https://raddle.me/)** / [.onion](http://c32zjeghcp5tj3kb72pltz56piei66drc63vkhn5yixiyk4cmerrjtid.onion/) - Reddit Alt
 * ⭐ **[Saidit](https://saidit.net/)** - Reddit Alt
 * [/r/RedditAlternatives](https://reddit.com/r/RedditAlternatives) - Find Reddit Alternatives
 * [Sqwok](https://sqwok.im/) - Reddit Alt
@@ -4815,13 +4823,13 @@
 
 ## ▷ Twitch Adblockers
 
-* ⭐ **[TwitchAdSolutions](https://github.com/pixeltris/TwitchAdSolutions)**
-* ⭐ **[Purple AdBlock](https://addons.mozilla.org/en-US/firefox/addon/purpleadblock/)**
-* ⭐ **[TTV LOL](https://ttv.lol/)** / [Pro](https://github.com/younesaassila/ttv-lol-pro) / [Video Guide](https://rentry.co/tavy3)
-* [VideoAdBlockForTwitch](https://github.com/cleanlock/VideoAdBlockForTwitch)
-* [luminous-ttv](https://github.com/AlyoshaVasilieva/luminous-ttv)
-* [Adblocker for Twitch - Edge](https://microsoftedge.microsoft.com/addons/detail/adblocker-for-twitch%E2%84%A2/glgpmlmjlaljaddimbgekaepkgbojjdn)
-* [Xtra](https://github.com/crackededed/Xtra) or [PurpleTV](https://purpletv.aeong.one/) - Ad Free Android Apps
+* 🌐 **[TwitchAdSolutions](https://github.com/pixeltris/TwitchAdSolutions)** - Solutions / Scripts for Blocking Twitch Ads
+* ⭐ **[Purple AdBlock](https://addons.mozilla.org/en-US/firefox/addon/purpleadblock/)** - Twitch Adblocker
+* ⭐ **[TTV LOL](https://ttv.lol/)** / [Pro](https://github.com/younesaassila/ttv-lol-pro) / [Video Guide](https://rentry.co/tavy3) - Twitch Adblocker
+* [VideoAdBlockForTwitch](https://github.com/cleanlock/VideoAdBlockForTwitch) - Twitch Adblocker
+* [luminous-ttv](https://github.com/AlyoshaVasilieva/luminous-ttv) - Twitch Adblocker
+* [Adblocker for Twitch](https://microsoftedge.microsoft.com/addons/detail/adblocker-for-twitch%E2%84%A2/glgpmlmjlaljaddimbgekaepkgbojjdn) - Edge Twitch Adblocker
+* [Xtra](https://github.com/crackededed/Xtra) or [PurpleTV](https://purpletv.aeong.one/) - Ad Free Twitch APKs
 
 ***
 
@@ -4922,8 +4930,8 @@
 
 * 🌐 **[Awesome Fediverse](https://github.com/emilebosch/awesome-fediverse)** - Fediverse Resources
 * ⭐ **[Fediverse](https://fediverse.party/)**, [Fediverse.space](https://fediverse.space/), [sub.rehab](https://sub.rehab/) or [Fediverse Observer](https://mastodon.fediverse.observer/) - Fediverse Instance Search
-* ⭐ **[Lemmy Explorer](https://lemmyverse.net/)**, [Community-Browser](https://browse.feddit.de/) or [Awesome Instances](https://github.com/maltfield/awesome-lemmy-instances) - Lemmy Instances
 * ⭐ **[Lemmy](https://join-lemmy.org/)** / [Stats](https://the-federation.info/), [2](https://fedidb.org/) - Federated Reddit Alternative
+* ⭐ **[Lemmy Explorer](https://lemmyverse.net/)**, [Community-Browser](https://browse.feddit.de/) or [Awesome Instances](https://github.com/maltfield/awesome-lemmy-instances) - Lemmy Instances
 * ⭐ **[Pleroma](https://pleroma.social/)** - Federated Microblogging
 * ⭐ **[Pixelfed](https://pixelfed.org/)** - Federated Microblogging
 * ⭐ **[diaspora*](https://diasporafoundation.org/)**, [2](https://diasp.org/) - Federated Microblogging
@@ -4940,20 +4948,17 @@
 
 ## ▷ Mastodon Tools
 
-* ⭐ **[Mastodon](https://joinmastodon.org/)** - Federated Microblogging
-* [Tuba](https://tuba.geopjr.dev/) - Viewer
-* [Kaiteki](https://kaiteki.app/) - Viewer
-* [Mastodon Scheduler](https://scheduler.mastodon.tools/) - Schedule when to send post
-* [Mastodon Instances](https://instances.social/) - Instances Index 
-* [MastoVue](https://mastovue.glitch.me/) - View public timelines or hashtags
+* ⭐ **[Mastodon](https://joinmastodon.org/)** - Federated Twitter Alternative
+* 🌐 **[Mastodon Instances](https://instances.social/)** - Mastodon Instances Index
+* [Tuba](https://tuba.geopjr.dev/) or [Kaiteki](https://kaiteki.app/) - Mastodon Viewers
+* [Mastodon Scheduler](https://scheduler.mastodon.tools/) - Schedule Sending Posts
+* [MastoVue](https://mastovue.glitch.me/) - View Public Timelines / Hashtags
 * [Cheap Bots, Toot Sweet!](https://cheapbotstootsweet.com/) - Create Bots
 
 ***
 
 # ► 4chan Tools
 
-* ↪️ **[4chan Archives](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_4chan_archives)**
-* ⭐ **[4chan](https://4chan.org/)** - [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools/#wiki_.25B7_4chan_tools)
 * ⭐ **[LuckyChan](https://luckychan.app/)** - Modern 4chan Frontend
 * ⭐ **[4chan X](https://www.4chan-x.net/)**, [SpookyX](https://github.com/Fiddlekins/SpookyX), [4Chan XT](https://github.com/TuxedoTako/4chan-xt) or [Dollchan](https://dollchan.net/) - Enhancement Extensions
 * [Lurka](https://github.com/AdamSalma/Lurka) - 4chan Desktop Client
@@ -4969,6 +4974,20 @@
 * [Bypass Deferer](https://greasyfork.org/en/scripts/451259) - Remove Link Deferer
 * [Extra Flags for 4chan](https://gitlab.com/flagtism/Extra-Flags-for-4chan) - Add More Flags to 4chan
 * [ss21](https://github.com/saxamaphone69/ss21), [OneeChan](https://github.com/KevinParnell/OneeChan) or [4cheddit](https://greasyfork.org/en/scripts/16672) - 4chan Themes
+
+***
+
+## ▷ 4chan Archives
+
+* ⭐ **[boards.4channel](https://boards.4channel.org/search)**, [2](https://boards.4chan.org/search) - 4chan Archives
+* [4chanSearch](https://4chansearch.com/) or [4search](https://4search.neocities.org/) - Search 4chan Archives
+* [Oldfriend Archive](https://old.sage.moe/) - 2004 - 2014 Archive
+* [Ten Billion](https://archive.org/details/4chan_threads_archive_10_billion) or [4Museum](https://4museum.neocities.org/) - 2006 - 2008 Archive
+* [4GBs of 4chan Threads](https://archive.org/details/4chan-threads-2009-2012) - 2009 - 2012 Archive
+* [Archive.4plebs](https://archive.4plebs.org/) - 2013 - 2023 Archive
+* [BibAnon](https://vyrd.bibanon.org/) - Vyrd's Archive
+* [Yotsuba Catalog](https://catalog.neet.tv/) - Yotsuba Archive
+* [Sup/tg/](https://suptg.thisisnotatrueending.com/), [arch.b4k](https://arch.b4k.co/), [palanq](https://archive.palanq.win/), [desuarchive](https://desuarchive.org/) or [archived.moe](https://archived.moe/) / [2](https://thebarchive.com/) - Misc 4chan Archives
 
 ***
 
@@ -9727,7 +9746,6 @@
 * 🌐 **[Awesome Web Security](https://github.com/qazbnm456/awesome-web-security)** - Web Security Resources
 * 🌐 **[de-google](https://www.reddit.com/r/privacy/wiki/de-google)**, [De-google-ify](https://degooglisons-internet.org/en/), [Degoogle](https://github.com/tycrek/degoogle), [Google Alt List](https://www.techspot.com/news/80729-complete-list-alternatives-all-google-products.html), [/r/DeGoogle](https://www.reddit.com/r/degoogle) or [No More Google](https://nomoregoogle.com/) - Google App Alternatives
 * 🌐 **[Awesome I2P](https://github.com/mikalv/awesome-i2p)** - I2P Resources
-* ↪️ **[Encode / Decode URLs](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_encode_.2F_decode_urls)**
 * ↪️ **[Encrypted Messaging Apps](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_encrypted_messengers)** / [2](https://docs.google.com/spreadsheets/d/1-UlA4-tslROBDS9IqHalWVztqZo7uxlCeKPQ-8uoFOU) / [3](https://www.securemessagingapps.com/)
 * ↪️ **[Encrypted XMPP Servers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_encrypted_xmpp_servers)**
 * ⭐ **[Vytal.io](https://vytal.io/)**, [FirstPartySimulator](https://firstpartysimulator.org/), [PersonalData](https://personaldata.info/) or [WEBKAY](https://webkay.robinlinus.com/) - Browser Tracking Tests
@@ -9871,6 +9889,19 @@
 * [ekoru](https://ekoru.org/)
 * [Gibiru](https://gibiru.com/)
 * [Whoogle](https://github.com/benbusby/whoogle-search) - Self-Hosted Encrypted Search Engine
+
+***
+
+## ▷ Encode / Decode Text
+
+* ⭐ **[Ciphey](https://github.com/Ciphey/Ciphey)** - Automated Decryption Tool
+* ⭐ **[CyberChef](https://gchq.github.io/CyberChef/)** - Encode / Decode Text
+* ⭐ **[Universal Encoding Tool](https://unenc.com/)** - Encode / Convert Text
+* ⭐ **[Base64 Decode](https://www.base64decode.org/) / [Encode](https://www.base64encode.org/)** / [Dynamic](https://apps.maximelafarie.com/base64/) / [Chrome](https://chromewebstore.google.com/detail/base64-encoderdecoder/afdannbjainhcddbjjlhamdgnojibeoi), [2](https://chromewebstore.google.com/detail/base64-decode-copy/llcfmnginbnmkeddkjjellcimmffjdcf), [3](https://chromewebstore.google.com/detail/clip64-base64-decoder/hdneaoibdfdmifgfjjlkbkceanhjmgch) / [Firefox](https://addons.mozilla.org/en-US/firefox/addon/base64-decoder/) / [Opera](https://addons.opera.com/en/extensions/details/base64-encode-and-decode/)
+* [Txtmoji](https://txtmoji.com/) - Text to Emoji Encryption / Decryption
+* [cryptii](https://cryptii.com/), [DenCode](https://dencode.com/) - Text / URL Encoding
+* [Online Tools](https://emn178.github.io/online-tools/index.html) - Text / URL Encoding and Decoding
+* [URL Decode](https://url-decode.com/) / [Encode](https://url-decode.com/tool/url-encode) - URL Encoding / Decoding
 
 ***
 
@@ -13439,14 +13470,6 @@ Use a **[Base64 Decoder](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage
 
 ***
 
-## 4chan Archives
-
-* ⭐ **[boards.4channel](https://boards.4channel.org/search)**, [2](https://boards.4chan.org/search)
-
-[4GBs of 4chan Threads](https://archive.org/details/4chan-threads-2009-2012), [Ten Billion](https://archive.org/details/4chan_threads_archive_10_billion), [old.sage](https://old.sage.moe/), [BibAnon](https://vyrd.bibanon.org/), [4Museum](https://4museum.neocities.org/), [Archive.4plebs](https://archive.4plebs.org/), [arch.b4k](https://arch.b4k.co/), [Sup/tg/](https://suptg.thisisnotatrueending.com/), [4chanSearch](https://4chansearch.com/), [4search](https://4search.neocities.org/), [palanq](https://archive.palanq.win/), [desuarchive](https://desuarchive.org/), [neet.tv](https://catalog.neet.tv/), [archived.moe](https://archived.moe/) / [2](https://thebarchive.com/)
-
-***
-
 ## Alternative Search Engines
 
 * ⭐ **[Privacy Focused Engines](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25B7_search_engines)**
@@ -13782,19 +13805,6 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://70.88.180.169:8
 * [Outlook](https://outlook.live.com/owa/) - [Tools](https://github.com/eksperience/KnockOutlook)
 
 [Betterbird](https://www.betterbird.eu/), [ElectronMail](https://github.com/vladimiry/ElectronMail), [Claws Mail](https://www.claws-mail.org/), [eM Client](https://www.emclient.com/), [RainLoop](https://www.rainloop.net/), [Roundcube](https://roundcube.net/), [Spike](https://www.spikenow.com/), [Canary](https://canarymail.io/), [Twobird](https://www.twobird.com/), [Kanmail](https://kanmail.io/), [Gmail Desktop](https://github.com/timche/gmail-desktop), [Wino](https://www.winomail.app/)
-
-***
-
-## Encode / Decode URLs
-
-* ⭐ **[Ciphey](https://github.com/Ciphey/Ciphey)** - Automated Decryption Tool
-* ⭐ **[CyberChef](https://gchq.github.io/CyberChef/)** - Encode / Decode Text
-* ⭐ **[Universal Encoding Tool](https://unenc.com/)** - Encode / Convert Text
-* ⭐ **[Base64 Decode](https://www.base64decode.org/) / [Encode](https://www.base64encode.org/)** / [Dynamic](https://apps.maximelafarie.com/base64/) / [Chrome](https://chromewebstore.google.com/detail/base64-encoderdecoder/afdannbjainhcddbjjlhamdgnojibeoi), [2](https://chromewebstore.google.com/detail/base64-decode-copy/llcfmnginbnmkeddkjjellcimmffjdcf), [3](https://chromewebstore.google.com/detail/clip64-base64-decoder/hdneaoibdfdmifgfjjlkbkceanhjmgch) / [Firefox](https://addons.mozilla.org/en-US/firefox/addon/base64-decoder/) / [Opera](https://addons.opera.com/en/extensions/details/base64-encode-and-decode/)
-* [Txtmoji](https://txtmoji.com/) - Text to Emoji Encryption / Decryption
-* [cryptii](https://cryptii.com/), [DenCode](https://dencode.com/) - Text / URL Encoding
-* [Online Tools](https://emn178.github.io/online-tools/index.html) - Text / URL Encoding and Decoding
-* [URL Decode](https://url-decode.com/) / [Encode](https://url-decode.com/tool/url-encode) - URL Encoding / Decoding
 
 ***
 
@@ -14152,15 +14162,6 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://70.88.180.169:8
 ### Animal Cams
 
 [Monterey Bay Aquarium](https://www.montereybayaquarium.org/animals/live-cams), [Curlie Webcam Animals](https://curlie.org/en/Computers/Internet/On_the_Web/Webcams/Animals), [San Diego Zoo](https://zoo.sandiegozoo.org/live-cams), [Zqoo.org](https://www.zoo.org/webcams), [AnimalsLife](https://animalslife.net/), [Africam](https://www.africam.com/wildlife/live-african-wildlife-safari-streams), [NationalZoo](https://nationalzoo.si.edu/webcams), [BirdCams](https://birdcams.live/), [CritterYard](https://critteryard.com/), [AquariumOfPacific](https://www.aquariumofpacific.org/exhibits/webcams)
-
-***
-
-## Lyric Sites
-
-* ⭐ **[dumb](https://github.com/rramiachraf/dumb)** - Genius Lyrics Frontend
-* [AZLyrics](https://www.azlyrics.com/), [FindMusicByLyrics](https://findmusicbylyrics.com/) or [Lyrics.com](https://www.lyrics.com/) - Lyric Search
-* [Versefy](https://versefy.app/) or [Lyrics-In-Terminal](https://github.com/Jugran/lyrics-in-terminal) - Lyrics Finder for Spotify, Tidal & VLC
-* [Lyrist](https://lyrist.app) - Write Lyrics w/ Beats
 
 ***
 
