@@ -266,6 +266,7 @@
 * [PeakFinder](https://www.peakfinder.org/) - Mountain Maps
 * [topo maps](https://onlinetopomaps.net/) - Topographic Maps
 * [MetroOrbits](https://mic-ro.com/metro/index.html) - Subway Maps / Data
+* [Mapnificent](https://www.mapnificent.net/) - Transit Time Reachability Map
 * [WikiRoutes](https://wikiroutes.info/) - Public Transport Routes
 * [MiniTokyo3D](https://minitokyo3d.com/) - Tokyo Public Transport Map
 * [OpenRailwayMap](https://www.openrailwaymap.org/), [Trains.fyi](https://trains.fyi/) or [AmtrakExplorer](https://amtrakexplorer.com/) - Train Maps
