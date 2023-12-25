@@ -134,7 +134,6 @@
 * ⭐ **[OneHack](https://onehack.us/)** - Courses
 * ⭐ **[HackNation](https://hacksnation.com/)** - Courses
 * [Course Download CSE](https://cse.google.com/cse?cx=a02efb0346a176b46) - Multi-Site Course Search
-* [Reks Drive](https://github.com/nbats/FMHYedit/blob/main/base64.md#reks-drive) - Courses
 * [CourseDL](https://github.com/nbats/FMHYedit/blob/main/base64.md#coursedl) - Courses
 * [OpenDirectory](https://github.com/nbats/FMHYedit/blob/main/base64.md#opendirectory) - Courses
 * [Revival](https://github.com/nbats/FMHYedit/blob/main/base64.md#revival) - Courses
@@ -952,7 +951,6 @@
 * [IELTS69](https://www.ielts69.com/) - IELTS Cambridge Practice Tests
 * [anthropology](https://t.me/anthropology) - UPSC Telegram Channel
 * [GaryChamberlainLectureNotes](https://github.com/paulgp/GaryChamberlainLectureNotes) - Econometrics Lecture Notes
-* [GCE Guide](https://gceguide.com/) - Cambridge Assessment Guide
 * [ITExams](https://www.itexams.com/) - IT Exam Collection
 * [Lecture Links for Placement Preparation in Computer Science](https://github.com/riti2409/Resources-for-preparation-Of-Placements)
 * [Science Career General](https://sciencecareergeneral.neocities.org/) - PhD / Stem Career Study Guides
