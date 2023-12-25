@@ -228,8 +228,3 @@
     transform: rotate(360deg);
   }
 }
-
-.VPSidebar .group+.group {
-  border-top: 0px solid transparent;
-  padding-top: 0px;
-}
