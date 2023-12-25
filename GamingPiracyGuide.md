@@ -479,7 +479,6 @@
 * [mitos.is](https://store.steampowered.com/app/389570/Mitosis_The_Game/) - Become the Biggest Cell 
 * [agar.io](https://agar.io/) - Become the Biggest Circle 
 * [Hole.io](https://hole-io.com/) - Become the Biggest Hole / [Discord](https://discord.gg/UA2HdpT) 
-* [Manygolf](https://manygolf.club/) - Multiplayer Golf
 * [Tanki](https://tankionline.com/) - Online Team VS Team Tank Game
 * [Pulsus](https://www.pulsus.cc/play/) - 3x3 Tile Board Rhythm Game
 * [Plink](http://labs.dinahmoe.com/plink/) - Music Game
@@ -876,7 +875,7 @@
 * ⭐ **[HowLongToBeat](https://howlongtobeat.com/)** - Find Average Game Lengths
 * ⭐ **[r/tipofmyjoystick](https://www.reddit.com/r/tipofmyjoystick/)** - Find Games via Screenshot or Description
 * ⭐ **[Game Pauser](https://madebyjase.com/game-pauser/)** - Pause Unpausable Cutscenes
-* ⭐ **[DS4Windows](https://github.com/Ryochan7/DS4Windows)**, [AntiMicroX](https://github.com/AntiMicroX/antimicroX), [DualSenseX](https://github.com/Paliverse/DualSenseX), [Input Remapper](https://github.com/sezanzeb/input-remapper) or [InputMapper](https://inputmapper.com/) - Gamepad Input Tools
+* ⭐ **[DS4Windows](https://github.com/Ryochan7/DS4Windows)**, [AntiMicroX](https://github.com/AntiMicroX/antimicroX), [DualSenseX](https://github.com/Paliverse/DualSenseX) or [Input Remapper](https://github.com/sezanzeb/input-remapper) - Gamepad Input Tools
 * ⭐ **[Valve Archive](https://valvearchive.com/)** - Rare Valve Data Archive
 * [The Outdated Arcade](https://discord.gg/SPZpMpntj9) - Game Preservation Server
 * [Play Old PC Games](https://www.play-old-pc-games.com/) - Retro PC Game Setup Guides
