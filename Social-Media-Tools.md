@@ -549,7 +549,7 @@
 * ⭐ **[Caprine](https://sindresorhus.com/caprine/)** - Facebook Desktop Messenger / [GitHub](https://github.com/sindresorhus/caprine)
 * ⭐ **[Social Fixer](https://socialfixer.com/)** or [FBPurity](https://www.fbpurity.com/) - Facebook Enhancement Extensions
 * ⭐ **[Facebook Ad Filters](https://www.reddit.com/r/uBlockOrigin/wiki/solutions#wiki_facebook)** - Facebook Filters
-* [Social Tools](https://chromewebstore.google.com/detail/social-tools/llbdoljkknpjgfcnbnoiehjcgancpjmd/related) - Block "Sending" & "Seen" Facebook Chat Indicators 
+* [Social Tools](https://chromewebstore.google.com/detail/social-tools/llbdoljkknpjgfcnbnoiehjcgancpjmd) - Block "Sending" & "Seen" Facebook Chat Indicators 
 * [Messenger Dark Theme](https://github.com/jerry1100/messenger-dark-theme) or [Charcoal Dark Mode](https://chromewebstore.google.com/detail/charcoal-dark-mode-for-me/aaekanoannlhnajolbijaoflfhikcgng) - Facebook Messenger Dark Mode
 * [FDown](https://fdown.net/), [GetFVid](https://www.getfvid.com/) or [Facebook DL](https://github.com/sdushantha/facebook-dl) - Facebook Video Downloaders
 * [Story Saver](https://chromewebstore.google.com/detail/story-saver/mafcolokinicfdmlidhaebadidhdehpk) - Facebook Story Downloader
@@ -594,7 +594,7 @@
 * ⭐ **[Pleroma](https://pleroma.social/)** - Federated Microblogging
 * ⭐ **[Pixelfed](https://pixelfed.org/)** - Federated Microblogging
 * ⭐ **[diaspora*](https://diasporafoundation.org/)**, [2](https://diasp.org/) - Federated Microblogging
-* [Misskey](https://join.misskey.page/en/) - Federated Microblogging
+* [Misskey](https://misskey-hub.net/en/) - Federated Microblogging
 * [Friendica](https://friendi.ca/) - Federated Microblogging
 * [Hubzilla](https://zotlabs.org/page/hubzilla/hubzilla-project) - Federated Microblogging
 * [GoToSocial](https://docs.gotosocial.org/en/latest/) - Federated Microblogging
