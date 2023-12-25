@@ -145,7 +145,7 @@ export default defineConfig({
       },
       {
         text: "➕️ More",
-        collapsed: false,
+        collapsed: true,
         items: [
           { text: "🔞 NSFW", link: "/nsfwpiracy" },
           { text: "⚠️ Unsafe Sites", link: "/unsafesites" },
