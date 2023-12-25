@@ -1616,11 +1616,10 @@
 * [Speedtest](https://speedtest.vn/), [Vinahost](https://speedtest.vinahost.vn/) - Internet Speed Test
 * [Baomoi](https://baomoi.com/) - News Aggregator / [Mobile](https://play.google.com/store/apps/details?id=com.epi&hl=en_US)
 * [BizTime](https://biztime.com.vn/), [HahaLolo](https://www.hahalolo.com/) or [Lotus](https://lotus.vn/) - Social Networks
-* [Zalo](https://zalo.me/pc) - Messaging Application
 * [Forumvi](https://www.forumvi.com/) - Create a Forum
 * [SapTet](https://www.saptet.com/) - New Year Countdown
 * [LichAm](https://licham.net/), [XemLichAm](https://www.xemlicham.com/), [LichAmHomNay](https://licham.com.vn/), - Lunar Calendar
-* [TraCuuThanSoHoc](https://tracuuthansohoc.com/), [ThanSoHocOnline](https://thansohoconline.com/), [ThanSoVietnam](https://thansovietnam.com/) - Numerology
+* [TraCuuThanSoHoc](https://tracuuthansohoc.com/), [ThanSoHocOnline](https://thansohoconline.com/) or [ThanSoVietnam](https://thansovietnam.com/) - Numerology
 * [MayTinhOnline](https://maytinhonline.com/) - Calculator
 * [BusMap](https://busmap.vn/) - Bus Journey
 * [BeenLoveMemory](https://beenlovememory.app/) - Love Days Counter
@@ -1644,7 +1643,6 @@
 * [123Note](https://123note.net/), [Notepad](https://notepad.vn/), [GhiChu](https://ghichu.vn/) - Notepad Tools
 * [Random](https://random.com.vn/), [QuaySo](https://quayso.vn/) or [NgauNhien](https://ngaunhien.vn/) - Random Tools
 * [FPT.AI](https://fpt.ai/vi/tts) or [vbee](https://www.vbee.vn/) - Text to Speech
-* [EPhoto360](https://ephoto360.com/), [ThiepMung](https://thiepmung.com/), [HieuUngAnh](https://hieuunganh.com/), [ThiepHay](https://thiephay.com/), [KhungAnh](https://khunganhonline.com/), [TaoCover](https://taocover.com/) or [TaoAnhDep](https://taoanhdep.com/) - Photo Effects
 * [KiemTraIP](https://kiemtraip.com/), [IPCuaToi](https://ipcuatoi.com/) - IP Checkers
 * [hostsVN](https://bigdargon.github.io/hostsVN/), [iBlockAds](https://iblockads.net/), [FMSF2](https://nmtrung.com/fmsf-2/) or [ABPVN](https://abpvn.com/) - Vietnamese Adblock Filters
 
