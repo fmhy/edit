@@ -19,6 +19,7 @@
 * ⭐ **[FMovies](https://fmoviesz.to/)** - Movies / TV / Anime / 1080p / [Mirrors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_fmovies_clones)
 * ⭐ **[cinehub.wtf](https://cinehub.wtf)** - Movies / TV / 1080p / [Discord](https://discord.com/invite/wJhG4aEAbs)
 * ⭐ **[SusFlix](https://susflix.tv/)**, [2](https://www.susmovies.lol/), [3](https://sushbo.com/), [4](https://hbosus.com) - Movies / TV / Anime / 4K / 1080p / [Discord](https://discord.gg/BE7kTVezBN)
+* ⭐ **[Streamflix](https://watch.streamflix.one/)**  - Movies / TV / Anime / 1080p / Use Adblock / [Discord](https://discord.gg/C8fyfz5pYz)
 * ⭐ **[FlixHQ](https://flixhq.click/)** - Movies / TV / Anime / 1080p
 * ⭐ **[Ask4Movies](https://ask4movie.li/)** - Movies / TV / 1080p / Use Adblock / [Script](https://pastebin.com/uJUc5ah5)
 * ⭐ **[SFlix](https://sflix.to/)** - Movies / TV / Anime / 1080p / [Mirrors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_sflix_clones)
@@ -28,7 +29,6 @@
 * [Seez](https://seez.su/), [2](https://flixerplus.com/) - Movies / TV / 1080p
 * [M4uFree](https://ww2.m4ufree.com/) - Movies / TV / Anime / 1080p / [Mirrors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_m4ufree_clones)
 * [AnyMovie](https://anymovie.cc/) - Movies / TV / 4K / 1080p
-* [Streamflix](https://watch.streamflix.one/)  - Movies / TV / Anime / 1080p / Use Adblock / [Discord](https://discord.gg/C8fyfz5pYz)
 * [MovieScene](https://moviescene.cc/) - Movies / TV / 1080p
 * [Filmxy](https://www.filmxy.vip/) - Movies / TV / Anime / 1080p
 * [NetFilm](https://netfilm.app/) - Movies / TV / Anime / 1080p / [Discord](https://discord.gg/g37Fc8u4ks)
@@ -223,7 +223,7 @@
 * [Historic Films](https://www.historicfilms.com/) or [National Film Preservation Foundation](https://www.filmpreservation.org/) - Historic Footage / Films
 * [Imperial War Museums](https://www.iwm.org.uk/) - Historic War Footage
 * [Prelinger Archives](https://www.panix.com/~footage/) - Ephemeral Films [Archive](https://archive.org/details/prelinger)
-* [StageDork](https://stagedork.com/), [/r/MusicalBootlegs](https://www.reddit.com/r/MusicalBootlegs) or ["Slime Tutorials"](https://youtube.com/playlist?list=PLsIt5G4GJ27lxWP9Qi5N70zRSkJAT0ntc) - Broadway Show Recordings
+* [/r/MusicalBootlegs](https://www.reddit.com/r/MusicalBootlegs) or ["Slime Tutorials"](https://youtube.com/playlist?list=PLsIt5G4GJ27lxWP9Qi5N70zRSkJAT0ntc) - Broadway Show Recordings
 * [GlobalShakespeares](https://globalshakespeares.mit.edu/) - Shakespeare Performance Recordings
 * [SidePlusLeaks](https://sideplusleaks.com/) or [Titan The Pirate](https://titan-the-pirate.com/) - Sidemen Content
 * [Unus Annus](https://archive.org/details/unus-annus) - Unus Annus Archive
@@ -248,7 +248,7 @@
 * ⭐ **[Taskmaster](https://www.youtube.com/@Taskmaster/playlists?view=50&sort=dd&shelf_id=1)** - Taskmaster Episodes / [International](https://www.youtube.com/@Taskmaster/playlists?view=50&shelf_id=6)
 * [GDrivePlayer](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_google_drive_search) - TV / Anime / 1080p
 * [Teleisodes](https://www1.telepisodes.org/) - TV / 1080p
-* [FZTVSeries](https://fztvseries.mobi/), [MobileTVShows](https://www.mobiletvshows.net/) or [TVSeries](https://www.tvseries.in/) - TV / Anime / 720p
+* [TVSeries](https://www.tvseries.in/) - TV / Anime / 720p
 * [Watch-TvSeries](https://www1.watch-tvseries.net/) - TV / 1080p
 * [play.history](https://play.history.com/channel) - Full History / A+E Episodes
 * [Adult Swim](https://www.adultswim.com/videos/) - Full Adult Swim Episodes
@@ -291,7 +291,6 @@
 * [Kaguya](https://kaguya.app/) - Sub / 1080p / [Discord](https://discord.gg/382BEFfER6)
 * [Genoanime](https://genoanime.com/) - Sub / Dub / 1080p / [Discord](https://discord.com/invite/TMe9eVs2YY)
 * [Animeflix](https://animeflix.live/) - Sub / Dub / 1080p
-* [Playtaku](https://anihdplay.com/) - Sub / Dub / 1080p
 * [AnimeHeaven](https://animeheaven.me/) - Sub / 1080p
 * [AnimeNana](https://animenana.com/) - Sub / 1080p
 * [Animension](https://animension.to/) - Sub / Dub / 1080p
@@ -574,7 +573,6 @@
 * [My Duck Is Dead](https://www.myduckisdead.org/) - Rare Movies / NSFW / 1080p
 * [StagaTV](https://www.stagatv.com/) - Movies / TV / 1080p
 * [movie-web](https://movie-web.app/) - Movies / TV / 1080p / [Discord](https://discord.gg/vXsRvye8BS)
-* [Medeberiyaa](https://medeberiyas.com/) - Movies / TV / Anime / 1080p
 * [HDMP4Mania](https://hdmp4mania2.com/) - Movies / 1080p
 * [StarsDDL](https://starsddl.me/) - Movies / TV / 1080p
 * [Movies Ni Pipay](https://moviesnipipay.me/) - Movies / TV / 1080p
@@ -636,7 +634,6 @@
 
 * ⭐ **[moo](https://github.com/nbats/FMHYedit/blob/main/base64.md#moo)** - Movies / TV
 * ⭐ **[Media](https://github.com/nbats/FMHYedit/blob/main/base64.md#media)** - Movies / TV / Anime
-* ⭐ **[Rek's Drive](https://github.com/nbats/FMHYedit/blob/main/base64.md#reks-drive)** - Movies / Anime
 * ⭐ **[Dhokla](https://dhokla.net)** - Movies / TV / Anime / [Discord](https://discord.gg/QtAwpdFKU5)
 * [188.165.227.112](https://github.com/nbats/FMHYedit/blob/main/base64.md#188165227112) - Movies / TV
 * [Extreme Mirror](https://github.com/nbats/FMHYedit/blob/main/base64.md#extreme-mirror) - Movies / TV / Anime
