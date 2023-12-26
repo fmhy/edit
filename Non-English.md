@@ -31,7 +31,6 @@
 
 * ⭐ **[FaselHD](https://www.faselhd.express/)** - Movies / TV / Anime / Sub / 1080p
 * [ArabLionz](https://arlionztv.click/) - Movies / TV / Sub / 1080p
-* [aflaam](https://aflaam.com/) - Movies / TV / Sub / 1080p
 * [LODYNET](https://lodynet.link/) - Movies / TV / Sub / 1080p
 * [egydead](https://a23.egydead.live/) - Movies / TV / Anime / Sub / 1080p
 * [akwam](https://ak.sv/) - Movies / TV / Sub / 1080p
@@ -396,7 +395,6 @@
 * [hd-source](https://hd-source.to/) or [DDL-Warez](https://ddl-warez.cc/) - Video / NSFW
 * [serienjunkies](https://serienjunkies.org/) - TV
 * [MLCBoard](https://mlcboard.com/) - Movies
-* [Deutsche Filme](https://t.me/deutsche_filme_german_movies) or [GERMAN MOVIES](https://t.me/german_movie_channel) - Movies / Telegram
 * [Animes.so](https://www.animes.so/) - Anime
 * [CannaPower](https://canna-power.to/) - Audio
 
@@ -497,12 +495,12 @@
 * [BollyMaza](https://ww3.bollymaza.click/) - Movies / TV / Sub / Dub / 1080p / 4K
 * [MoviesMod](https://moviesmod.shop) - Movies / TV / Sub / Dub / 1080p / [Telegram](https://telegram.dog/moviesmodorg)
 * [Mallumv](https://mallumv.buzz/) - Movies / Sub / Dub / 1080p / [Telegram](https://t.me/MalluMvoff)
-* [SSR Movies](https://ssrmovies.dad/) - Movies / TV / Sub / Dub / 1080p / [Telegram](https://t.me/SSRmovies2022), [2](https://telegram1.cyou/)
+* [SSR Movies](https://ssrmovies.dad/) - Movies / TV / Sub / Dub / 1080p
 * [MkvMoviesPoint](https://mkvmoviespoint.boo/) - Movies / TV / Sub / Dub / 1080p / [Telegram](https://telegram.me/mkvpoint1)
 * [MKV Mad](https://www.mkvmad.space/) - Movies / TV / Sub / Dub / 1080p / [Telegram](https://t.me/mkvmadofficial)
 * [DudeFilms](https://dudefilms.vip/) - Movies / TV / Sub / Dub / 1080p / [Telegram](https://telegram.dog/dudefilmsofficial)
-* [KatMovieHD](https://katmoviehd.dev/) - Movies / TV / Anime / Sub / Dub / 1080p / [Telegram](https://t.me/+lY88WXVDmsFiYTJk), [2](https://t.me/joinchat/TMuzf8VYH7M1YWVh)
-* [MKVHub](https://www.mkvhub.space/) - Movies / TV / Sub / Dub / 1080p / [Telegram](https://t.me/MkvHubCOM)
+* [KatMovieHD](https://katmoviehd.dev/) - Movies / TV / Anime / Sub / Dub / 1080p
+* [MKVHub](https://www.mkvhub.space/) - Movies / TV / Sub / Dub / 1080p
 * [FilmyMeet](https://filmyfly2.com.in/) - Movies / TV / Dub / 1080p / [Telegram](https://telegram.dog/+VV_6NFqFLTc1N2E1)
 * [Movies Counter](https://moviescounter.lat/) - Movies / TV / Sub / Dub / 1080p
 * [MoviesNation](https://moviesnation.wiki/) - Movies / TV / Sub / Dub / 1080p / [Telegram](https://t.me/+CQizt5B7q880ZDQ9/)
@@ -1630,7 +1628,7 @@
 * [Mail1s](https://mail1s.com/) - Temp Email
 * [BeeCost](https://beecost.vn/) - E-commerce Price Tracker
 * [FBVN](https://chromewebstore.google.com/detail/hlnhbiajcpmjpgpedgfdigiccejengbi), [L.O.C](https://chromewebstore.google.com/detail/eojdckfcadamkapabechhbnkleligand) or [MonokaiToolkit](https://chromewebstore.google.com/detail/monokaitoolkit-extension/dagbggkfgebkmlmnlidioknbhilfnngn) - Friends Filter for Facebook
-* [J2TEAM](https://home.j2team.dev/) - browser extensions & web applications / [Facebook](https://www.facebook.com/groups/364997627165697) / [Discord](https://discord.com/invite/j2team) / [Telegram](https://t.me/joinchat/Ka7yRUkq63VwdxjJ85v9CA)
+* [J2TEAM](https://home.j2team.dev/) - browser extensions & web applications / [Facebook](https://www.facebook.com/groups/364997627165697) / [Discord](https://discord.com/invite/j2team)
 * [123Note](https://123note.net/), [Notepad](https://notepad.vn/), [GhiChu](https://ghichu.vn/) - Notepad Tools
 * [Random](https://random.com.vn/), [QuaySo](https://quayso.vn/) or [NgauNhien](https://ngaunhien.vn/) - Random Tools
 * [FPT.AI](https://fpt.ai/vi/tts) or [vbee](https://www.vbee.vn/) - Text to Speech
@@ -1752,7 +1750,7 @@
 * [Keyman](https://keyman.com/) - Multilingual / Keyboard Files
 * [Jainism Library of Jain Literature](https://www.atmadharma.com/index.html) - Multilingual / Sacred Texts
 * [Filma24](https://www.filma24.gd/) - Albanian / Movies / TV / 1080p
-* [Ethio Terka](https://t.me/ethio_terka), [amharicbookss](https://t.me/amharicbookss) or [GeezLibraryMembers](https://t.me/GeezLibraryMembers) - Amharic / Books
+* [Ethio Terka](https://t.me/ethio_terka) or [amharicbookss](https://t.me/amharicbookss) - Amharic / Books
 * [channelmyanmar](https://channelmyanmar.org) - Burmese / Movies / TV / Cartoons / 1080p / 4K
 * [lupiteam](https://lupiteam.net/) - Corsican / Manga
 * [BalkanDownload](https://balkandownload.org/) - Croatian / Download / Video / Audio / Games / Books / Comics
