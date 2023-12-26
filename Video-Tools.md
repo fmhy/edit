@@ -401,7 +401,6 @@
 * [VideoCoPilot](https://www.videocopilot.net/)
 * [IntroHD](https://intro-hd.net/)
 * [VFXmed](https://www.vfxmed.com/)
-* [cgmasalaa](https://t.me/cgmasalaa)
 * [flex_cg_vfx](https://t.me/flex_cg_vfx)
 * [vfxdownload](https://vfxdownload.com)
 * [ShareAE](https://www.shareae.com/) - After Effects
