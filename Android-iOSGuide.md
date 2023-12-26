@@ -462,7 +462,6 @@
 * [You Have Mail](https://github.com/LeanderBB/you-have-mail) - Email Notifications
 * [Delta Lab](https://github.com/adbenitez/deltalab-android) - Email Based Messenger
 * [Endless](https://kaangiray26.github.io/endless/) - Combine Social Media Apps
-
 * [Eruda](https://pastebin.com/7qSZXjDS) - Mobile Browser Console / [Userscript](https://greasyfork.org/en/scripts/400760-console-for-mobile-browsers-eruda) / [Github](https://github.com/liriliri/eruda)
 * [Andure](https://github.com/leohku/andure) - Android Chrome Dev Tools
 * [MobiDevTools](https://addons.mozilla.org/en-US/firefox/addon/mobidevtools/) - Firefox Inspect Element
