@@ -28,7 +28,7 @@
 * [AudioBooksBee](https://audiobooksbee.com/)
 * [Audiobookable](https://audiobookable.com/), [2](https://audiobookss.com/)
 * [LearnOutLoud](https://www.learnoutloud.com/Free-Audiobooks)
-* [Golden Audiobooks](https://goldenaudiobook.com/)
+* [Golden Audiobooks](https://goldenaudiobook.co/)
 * [Read For Me](https://www.readsforme.com/)
 * [DigitalBook](https://www.digitalbook.io/)
 * [Librivox](https://librivox.org/)
@@ -73,7 +73,7 @@
 * IRC Book Tools - [Guide](https://www.reddit.com/r/Piracy/comments/2oftbu/guide_the_idiot_proof_guide_to_downloading_ebooks/), [2](https://encyclopediadramatica.online/Bookz) / [mIRC](https://redd.it/znprct) / [Downloader](https://github.com/aghayes/rusty_book_pirate/), [2](https://github.com/evan-buss/openbooks), [3](https://github.com/Footsiefat/Openbooks-Downloader)
 * [BookSee](https://en.booksee.org/), [2](https://bookree.org/) - Books
 * [Bookstagram](https://vk.com/bookstagram_eng) - Books / Magazines
-* [ebook3000.co](https://www.ebook3000.co/) - Books / Magazines / NSFW
+* [WOW! eBook](https://www.wowebook.org/) - Books / Magazines / NSFW
 * [openlibrary](https://openlibrary.org/) - Books
 * [standardebooks](https://standardebooks.org) - Books
 * [Manybooks](https://manybooks.net/) - Books
@@ -101,7 +101,7 @@
 * [FullBooks](http://www.fullbooks.com/) - Books
 * [e-Book Mecca](https://ebook-mecca.com/) - Books
 * [ReadOnlineFreeBook](https://readonlinefreebook.com/) - Books
-* [All Books Hub](https://allbookshub.com/) - Books
+* [Ur Books Hub](https://urbookshub.com/) - Books
 * [ebooksz](https://ebooksz.net/) - Books
 * [English E-Reader](https://english-e-reader.net/) - Books
 * [BookPDF](https://en.bookpdf.org/) - Books
@@ -115,7 +115,7 @@
 * [JustFreeBooks](https://www.justfreebooks.info/) - Books
 * [DigitalBook](https://www.digitalbook.io/) - Books
 * [Avalon Library](https://avalonlibrary.net/) - Books
-* [EReads](https://ereads.net/) - Books
+* [Gray City](https://graycity.net/) - Books
 * [CentslessBooks](https://centslessbooks.com/) - Books
 * [Litgu.ru](https://litgu.ru/) - Books
 * [BookFrom.net](https://www.bookfrom.net/) - Books
@@ -148,7 +148,7 @@
 * [pdfroom](https://pdfroom.com/) - Books / Comics
 * [Ebook PDF](https://ebookpdf.com/) - Books
 * [KuPDF](https://kupdf.net/) - Books
-* [ePDF](https://epdf.tips/) - Books
+* [ePDF](https://epdf.mx/) - Books
 * [PDFCoffee](https://pdfcoffee.com) - Books
 * [Moam](https://moam.info/) - Books
 * [PDFCookie](https://pdfcookie.com/) - Books
@@ -176,7 +176,7 @@
 
 ## ▷ Religion / Esoterica
 
-* 🌐 **[Sacred Text Archive](https://www.sacred-texts.com/index.htm)** - Religion / Mythology / Folklore / Esoterica
+* 🌐 **[Sacred Text Archive](https://sacred-texts.com/)** - Religion / Mythology / Folklore / Esoterica
 * 🌐 **[ARCHIVES](https://discord.gg/occult)** - Occult / Witchcraft / Religion
 * 🌐 **[/r/Echerdex](https://www.reddit.com/r/Echerdex/)** - Esoterica / [Repository](https://github.com/nbats/FMHYedit/blob/main/base64.md#echerdex-repository) / [Discord](https://discord.gg/dS5X3d7ype)
 * 🌐 **[WiLd's Occult Ebook Sources](https://github.com/nbats/FMHYedit/blob/main/base64.md#wilds-occult-ebook-sources)** - Occult / Esoterica
