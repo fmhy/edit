@@ -106,7 +106,6 @@
 * [Format Factory](http://www.pcfreetime.com/formatfactory/index.php?language=en)
 * [File-Coversion](https://www.files-conversion.com/)
 * [PPT Online](https://www.aspose.app/)
-* [File-Conversion](https://www.files-conversion.com/)
 * [AnyConvert](https://anyconv.com/)
 * [Converter 365](https://www.converter365.com/)
 * [MiConv](https://miconv.com/)
@@ -458,4 +457,3 @@
 * [Mega-Downloader](https://github.com/ZonD80/mega-downloader) - Mega Download Script
 * [Mega.nz-Rclone-Index-Heroku](https://github.com/developeranaz/Mega-index-heroku) - Mega to HTTP
 * [MegaKeep](https://github.com/maybecryptic/MegaKeep) - Login to Multiple Mega Accounts
-* [Mega-index-heroku](https://github.com/developeranaz/Mega-index-heroku) - Serve Mega to HTTP via Heroku

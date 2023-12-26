@@ -381,7 +381,6 @@
 * [TTS](https://github.com/coqui-ai/tts)
 * [Clash](https://clash.me/)
 * [Moe TTS](https://huggingface.co/spaces/skytnt/moe-tts)
-* [FakeYou](https://fakeyou.com/)
 * [TTS Paper](https://github.com/coqui-ai/TTS-papers) - Text to Speech Papers
 
 ***

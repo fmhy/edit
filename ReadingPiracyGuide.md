@@ -352,7 +352,6 @@
 * [eBookRoom](https://t.me/eBookRoom)
 * [Directory of Open Access Books](https://www.doabooks.org/)
 * [BookGoldMine](https://www.bookgoldmine.com/)
-* [Penn Libraries](https://onlinebooks.library.upenn.edu/)
 * [BitDL](https://github.com/nbats/FMHYedit/blob/main/base64.md#bitdl)
 * [SuperKuh](http://erewhon.superkuh.com/library/)
 * [Non_Fic](https://vk.com/non_fic)

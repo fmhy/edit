@@ -359,7 +359,6 @@
 * [iogames.space](https://iogames.space/), [itch.io](https://graebor.itch.io/), [Kindanice](https://kindanice.itch.io/), [Jezzamon](https://jezzamon.itch.io/) or [Kevin Games](https://kevin.games/)- .io Games
 * [Games on GitHub](https://github.com/leereilly/games) - GitHub Hosted Games
 * [SpacebarCounter](https://spacebarcounter.io/spacebar-games.html) - Spacebar Games
-* [ArcadePrehacks](https://www.arcadeprehacks.com/) - Hacked Games
 * [Lego Games](https://www.lego.com/en-us/kids/games) - Lego Browser Games
 * [WBKidsGo](https://www.wbkidsgo.com/) or [PBS Kids Games](https://pbskids.org/games/) - Kids Browser Games
 * [RobotStreamer](https://robotstreamer.com/) - Live Control Robots
@@ -559,7 +558,7 @@
 * [PuzzlePrime](https://www.puzzleprime.com/) - Problems / Puzzles
 * [HoverCats](https://hovercats.gg/) - Multiplayer Crosswords
 * [Regex Cross­word](https://regexcrossword.com/) - Regex Cross­words
-* [eWordChallenge](https://www.ewordchallenge.net/) - Boggle
+* [eWordChallenge](https://www.ewordchallenge.net/) - Boggle Online
 * [ChessGuessr](https://www.chessguessr.com/) - Chess Style Wordle
 * [Game for the Brain](https://www.gamesforthebrain.com/) - Puzzles / Quizzes
 * [MasasGames](https://masasgames.com/) - Virtual Escape Rooms
@@ -585,7 +584,6 @@
 * [RobinWords](https://www.robinwords.com/) - Word Ladder Game
 * [Divergent Association Task](https://www.datcreativity.com/task) - Unrelated Word Game
 * [Oh, My Dots!](https://www.ohmydots.com/) - Connect the Dots Game
-* [eWordChallenge](https://www.ewordchallenge.net/) - Multiplayer Boggle
 * [Click Click Click](https://clickclickclick.click/) - Browser Based Clicking Puzzle
 * [WordPlays](https://www.wordplays.com/), [Unscramble](https://unscramble.me/) or [WorduUnscrambler](https://www.wordunscrambler.net/) - Cheat at Scrabble / Words with Friends / Crossword Puzzles
 

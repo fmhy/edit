@@ -148,7 +148,6 @@
 * [Just Not Sorry](https://justnotsorry.com/) - Undermining Word Detection
 * [Rewrite Tool](https://rewritetool.net/) - Text Rephrasing
 * [Paraphraz](https://paraphraz.it/) - Text Rephrasing
-* [Paraphrasing Tool](https://paraphrasetool.com/) - Text Rephrasing
 * [Rephrasely](https://rephrasely.com/) - Text Rephrasing
 * [Paraphraser](https://www.paraphraser.io/) - Text Rephrasing
 * [Paraphrase-Online](https://paraphrase-online.com/) - Text Rephrasing
@@ -384,7 +383,6 @@
 
 * ⭐ **[TAAG](https://patorjk.com/software/taag/)**
 * [Text Smileys](https://lenny-face-generator.textsmilies.com/)
-* [ASCII art creator](https://github.com/CherryPill/ASCII-art-creator)
 * [ASCII Today](https://ascii.today/)
 * [REXPaint](https://www.gridsagegames.com/rexpaint/)
 * [PabloDraw](https://picoe.ca/products/pablodraw/)

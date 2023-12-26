@@ -39,7 +39,7 @@
 * [Discord Backup](https://github.com/itschasa/Discord-Backup) - Backup / Restore Discord Accounts
 * [Wumpus Central](https://discord.gg/wumpus-central-1087801778365546556) - Discord Experimental Server Hub
 * [SimpleDiscordCrypt](https://gitlab.com/An0/SimpleDiscordCrypt) - Discord Message Encryption
-* [Undiscord](https://victornpb.github.io/undiscord/) or [deleteDiscordMessages](https://victornpb.github.io/undiscord/) - Delete Discord Messages / [Warning](https://i.ibb.co/pdg4hRr/0b0d78219f05.png)
+* [Undiscord](https://victornpb.github.io/undiscord/) - Delete Discord Messages / [Warning](https://i.ibb.co/pdg4hRr/0b0d78219f05.png)
 * [Permissions Calculator](https://discordapi.com/permissions.html) - Generate Discord OAuth Invites
 * [dsc.gg](https://dsc.gg/) - Create Custom Discord Invites
 * [Discord Previews](https://discord.gg/QMw7gQGMHj) - New Discord Builds / Changes
@@ -364,7 +364,7 @@
 
 * 🌐 **[/r/YouTubeDL](https://www.reddit.com/r/youtubedl/wiki/info-guis)** YT-DL GUI's Index
 * 🌐 **[TheFrenchGhosty's Ultimate YouTube-DL Scripts Collection](https://github.com/TheFrenchGhosty/TheFrenchGhostys-Ultimate-YouTube-DL-Scripts-Collection)** - YouTube Download Scripts Index
-* ⭐ **[YT-DLP](https://github.com/yt-dlp/yt-dlp) / [GUI](https://github.com/kazukikasama/youtube-dlp-gui-installer) / [Easy Installer](https://github.com/kazukikasama/youtube-dlp-gui-installer)** or [YTDL-PATCHED](https://github.com/ytdl-patched/ytdl-patched) - YouTube Downloaders
+* ⭐ **[YT-DLP](https://github.com/yt-dlp/yt-dlp) / [GUI](https://github.com/kazukikasama/youtube-dlp-gui-installer)** or [YTDL-PATCHED](https://github.com/ytdl-patched/ytdl-patched) - YouTube Downloaders
 * [YoutubeDownloader](https://github.com/Tyrrrz/YoutubeDownloader) or [YoutubeDL-Material](https://github.com/Tzahi12345/YoutubeDL-Material) - YouTube Downloaders
 * [Local Youtube Downloader](https://greasyfork.org/en/scripts/369400) - Userscript for Downloading Videos
 * [YouTube Qualities Size](https://greasyfork.org/en/scripts/404953-youtube-qualities-size) - Show YouTube File Sizes 
@@ -598,7 +598,6 @@
 * [Hubzilla](https://zotlabs.org/page/hubzilla/hubzilla-project) - Federated Microblogging
 * [GoToSocial](https://docs.gotosocial.org/en/latest/) - Federated Microblogging
 * [Fedi Tips](https://fedi.tips/) - Fediverse Guide
-* [Fediverse Stats](https://the-federation.info/) or [FediDB](https://fedidb.org/) - Fediverse statistics
 * [Fediverser](https://portal.alien.top/) - Reddit to Lemmy Community Auto-Sync
 * [LemmyTools](https://github.com/howdy-tsc/LemmyTools) - Lemmy Improvement Extension
 

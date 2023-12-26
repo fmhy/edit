@@ -106,7 +106,6 @@
 * 🌐 **[Best VTuber](https://gist.github.com/emilianavt/cbf4d6de6f7fb01a42d4cce922795794)** or [VTuber References](https://docs.google.com/spreadsheets/d/15UpI8GEqv22T45AD3L1EgcPB4l2Tvr64aDgLq7xZfMA/htmlview) - VTuber Tool Indexes
 * ⭐ **[OBS](https://obsproject.com/)** - Live Stream Manager
 * ⭐ **OBS Tools** - [Virtual Cam](https://obsproject.com/forum/resources/obs-virtualcam.949/) / [Tweaks](https://discord.gg/CTT) / [Effects](https://github.com/Xaymar/obs-StreamFX) / [Background Remover](https://github.com/occ-ai/obs-backgroundremoval) / [Phone Controller](https://github.com/Kounex/obs_blade) / [WebRTC Server](https://github.com/GRVYDEV/Project-Lightspeed)
-* [VDO.Ninja](https://vdo.ninja/) - Remote Camera Video Production
 * [Stream Elements](https://streamelements.com/) - Streaming Service Manager
 * [Streamlabs-OBS](https://github.com/stream-labs/desktop) - Live Stream Manager
 * [SteamLabs](https://streamlabs.com/) - Live Stream Manager
@@ -290,7 +289,7 @@
 * ↪️ **[YouTube Video Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/social-media#wiki_.25B7_youtube_downloaders)**
 * ↪️ **[Twitch Video Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/social-media#wiki_.25B7_twitch_downloaders)**
 * ⭐ **[Download Helper](https://www.downloadhelper.net/)**, [AddonCrop Downloader](https://addoncrop.com/v25/youtube-downloader/), [Cococut](https://cococut.net/), [FetchV](https://fetchv.net/) or [MPMux](https://mpmux.com/) - Extensions
-* ⭐ **[YT-DLP](https://github.com/yt-dlp/yt-dlp) / [GUI](https://github.com/kazukikasama/youtube-dlp-gui-installer) / [Easy Installer](https://github.com/kazukikasama/youtube-dlp-gui-installer)** - Multi-Site
+* ⭐ **[YT-DLP](https://github.com/yt-dlp/yt-dlp) / [GUI](https://github.com/kazukikasama/youtube-dlp-gui-installer)** - Multi-Site
 * ⭐ **[cobalt](https://cobalt.tools/)** - Multi-Site
 * ⭐ **[9xbuddy](https://9xbuddy.xyz/)**, [2](https://9xbuddy.com/) - Multi-Site
 * ⭐ **[Lux](https://github.com/iawia002/lux)** - Multi-Site
@@ -303,7 +302,6 @@
 * [Yout](https://yout.com/) - Multi-Site - Multi-Site
 * [pastedownload](https://pastedownload.com/)
 * [weibomiaopai](https://weibomiaopai.com/download-video-parser.php) - Multi-Site
-* [Lux](https://github.com/iawia002/lux) - Multi-Site
 * [SCrawler](https://github.com/AAndyProgram/SCrawler) - Multi-Site
 * [webvideo-downloader](https://github.com/jaysonlong/webvideo-downloader) - Multi-Site
 * [TikTok Scraper](https://github.com/drawrowfly/tiktok-scraper), [myfaveTT](https://myfavett.com/) or [SnapTik](https://snaptik.app/) - TikTok
@@ -399,7 +397,6 @@
 * [FootageCrate](https://footagecrate.com/)
 * [FreeVideoEffect](https://freevideoeffect.com/)
 * [VideoCoPilot](https://www.videocopilot.net/)
-* [IntroHD](https://intro-hd.net/)
 * [VFXmed](https://www.vfxmed.com/)
 * [flex_cg_vfx](https://t.me/flex_cg_vfx)
 * [vfxdownload](https://vfxdownload.com)
