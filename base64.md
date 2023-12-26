@@ -909,3 +909,9 @@ Use a **[Base64 Decoder](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock
 #### Occult Rentry
 
 `aHR0cHM6Ly9yZW50cnkuY28vT2NjdWx0LVJlcG8=`
+
+***
+
+#### Course Drive
+
+aHR0cHM6Ly9haXBsZXgubG9sLzE6Lw==
