@@ -645,20 +645,20 @@
 * ⭐ **[ReadComicsOnline](https://readcomiconline.li/)**
 * ⭐ **[ReadAllComics](https://readallcomics.com/)**
 * ⭐ **[GetComics](https://getcomics.org/)** - Download Comics / [Discord](https://discord.gg/bSvFhwJ)
-* ⭐ **[ComicExtra](https://comicextra.net/)** or [Comic Online Free](https://comiconlinefree.net/)
+* ⭐ **[ComicExtra](https://comicextra.me/)** or [Comic Online Free](https://comiconlinefree.org/)
 * ⭐ **[ComicBookPlus](https://comicbookplus.com/)** - Golden Age Comics
 * ⭐ **[Explosm](https://explosm.net/rcg)** - Cyanide & Happiness Web Comics
 * ⭐ **[xkcd](https://xkcd.com/)** or [findxkcd](https://xkcd-search.typesense.org/) - xkcd Web Comics / [Explanations](https://www.explainxkcd.com/wiki/index.php/Main_Page)
 * ⭐ **[Comic CSE](https://cse.google.com/cse?cx=006516753008110874046:p4hgytyrohg)** - Multi-Site Comic Search
 * [XOXO Comics](https://xoxocomics.net/)
-* [View Comics](https://viewcomics.co/)
+* [View Comics](https://viewcomics.org/)
 * [Read Comics Online](https://readcomicsonline.ru/)
 * [Comix-Load](https://comix-load.in/) - Downloads
 * [Zip Comic](https://www.zipcomic.com/) - Downloads
 * [BookGN](http://www.bookgn.com/) - Downloads
 * [NewComic](https://www.newcomic.info/) - Downloads
 * [4chan /co/](https://boards.4channel.org/co/catalog#s=official%20win) - Weekly Downloads
-* [readcomicsfree](https://readcomicsfree.net/)
+* [readcomicsfree](https://readcomicfree.org/)
 * [Comic Castle](https://comicastle.org/)
 * [WallComic](https://wallcomic.com/)
 * [Comics Online](https://www.comicsonline.io/)
