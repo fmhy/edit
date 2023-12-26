@@ -389,7 +389,6 @@
 * [bassmuzic](https://t.me/bassmuzic) - MP3
 * [MusicsHunterbot](https://t.me/MusicsHunterbot) - MP3
 * [flacmusics](https://t.me/flacmusics/) - FLAC
-* [flacmusicalbumfree](https://t.me/flacmusicalbumfree/) - FLAC
 * [FLACSong](https://t.me/FLACSong) - FLAC
 * [flacmu5ic](https://t.me/flacmu5ic/) - FLAC
 * [SACDandDSD](https://t.me/SACDandDSD) - FLAC
@@ -470,7 +469,6 @@
 * ⭐ **[/r/ifyoulikeblank](https://www.reddit.com/r/ifyoulikeblank/)** - Artist Recommendations
 * ⭐ **[Tunefind](https://www.tunefind.com/)** - Find Music from Movies / TV 
 * ⭐ **[Discover Quickly](https://discoverquickly.com/)** - Discover Spotify Songs Easily
-* ⭐ **[Every Noise at Once](https://everynoise.com/)** - Music Genre Samples
 * [Kworb](https://kworb.net/) - Music Top Charts
 * [TokBoard](https://tokboard.com/) or [TokChart](https://tokchart.com/) - TikTok Song Charts
 * [ClassicRockHistory](https://www.classicrockhistory.com/classic-rock-bands-list-and-directory/) - Classic Rock Band Archive
