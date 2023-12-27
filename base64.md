@@ -9,13 +9,7 @@ Use a **[Base64 Decoder](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock
 * https://fmhy.pages.dev/base64/
 * https://github.com/nbats/FMHYedit/blob/main/base64.md
 * https://rentry.co/FMHYBase64
-
-***
-
-#### Rek's Drive
-
-`aHR0cHM6Ly9tZWdhLm56L2ZvbGRlci9pWVEzU1liQSNfbzllTzRvMWVpQ2Q4UXNDVFU3aVV3`
-
+* 
 ***
 
 #### 17TB Mega Drive
