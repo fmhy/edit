@@ -35,7 +35,6 @@
 * [Snips.sh](https://snips.sh/) - Self-Hosted
 * [paste](https://paste.ee/)
 * [pst.moe](https://pst.moe/)
-* [paste2](https://paste2.org/)
 * [p.ip.fi](https://p.ip.fi/)
 * [paste.mozilla](https://paste.mozilla.org/)
 * [pastebin](https://pastebin.com/)
