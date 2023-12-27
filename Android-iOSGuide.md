@@ -617,7 +617,6 @@
 * [PGS](https://www.pgsharp.com/) - Modded Pokémon GO
 * [UniteAPI](https://uniteapi.dev/) - Pokémon UNITE Leaderboards
 * [HMCL-PE](https://github.com/huanghongxun/HMCL-PE) or [Pojav](https://pojavlauncherteam.github.io/) - Mobile Minecraft Launchers
-* [PojavLauncher](https://github.com/PojavLauncherTeam/PojavLauncher_iOS) - Minecraft Java Edition Launcher
 * [SMAPI](https://github.com/ZaneYork/SMAPI-Android-Installer) - Multiplayer Stardew Valley
 * [JoiPlay](https://joiplay.cyou/) - RPG Maker Game Interpreter
 * [Pinball for Android](https://github.com/fexed/Pinball-on-Android) - Space Cadet Pinball
