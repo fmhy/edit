@@ -684,7 +684,6 @@
 * [Spitfire Panorama](https://www.haraldjoergens.com/panoramas/spitfire-td314/files/) - Spitfire Mark IX Cockpit Interactve Panorama
 * [Virtual Vist Tours](https://www.virtualvisittours.com/) - Ireland Virtual Tours
 * [Matterport](https://matterport.com/discover) - Explore Real Places Digitally
-* [Outside Simulator](https://outsidesimulator.com/) - Simulate Being Outside
 * [Hashima Island](https://www.hashima-island.co.uk/) - Hashima Island Virtual Tour
 * [Zhijianshang](https://www.zhijianshang.com/) - 360VR Images
 * [Smithsonian 3D](https://3d.si.edu/) - Smithsonian 3D Digitization Museum
@@ -722,7 +721,6 @@
 * [youglish](https://youglish.com/) - YouTube Word Pronunciations
 * [Forvo](https://forvo.com/) or [HowJSay](https://howjsay.com/) - Pronunciation Dictionary
 * [Language Roadmap](https://languageroadmap.com/) - Foreign Language Media Difficulty Guide
-* [WordReference](https://www.wordreference.com/), [Glosbe](https://glosbe.com/) or [Reverso](https://reverso.net/) - Translation Dictionary
 * [Hey! Lingo](https://www.heylingo.com/) or [LearnWithOliver](https://www.learnwitholiver.com/) - Language Learning Flashcards
 * [MyLanguages](https://mylanguages.org/) - Grammar / Vocabulary Language Learning
 * [Vocatra](https://esite.ch/vocatra/) - Vocabulary Trainer
@@ -965,7 +963,7 @@
 ## ▷ World Data
 
 * 🌐 **[Awesome Datasets](https://github.com/awesomedata/awesome-public-datasets)** - Public Datasets
-* ⭐ **[Worldometer](https://www.worldometers.info/)**, [Internet World Stats](https://www.internetworldstats.com/), [WorldBank](https://databank.worldbank.org/), [Soar](https://soar.earth/) or [UN Data](https://data.un.org/) - World Data & Statistics
+* ⭐ **[Worldometer](https://www.worldometers.info/)**, [Internet World Stats](https://www.internetworldstats.com/), [WorldBank](https://databank.worldbank.org/) or [UN Data](https://data.un.org/) - World Data & Statistics
 * ⭐ **[Our World in Data](https://ourworldindata.org/)** - World Problem Database
 * ⭐ **[The Atlas of Economic Complexity](https://atlas.cid.harvard.edu/)** - Global Economic Growth Data
 * ⭐ **[Soar](https://soar.earth/)** - Digital Atlas

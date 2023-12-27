@@ -225,7 +225,6 @@
 * [ijjjxs](http://www.ijjjxs.net/) - Light-Novels
 * [qinkan](https://www.qinkan.net/) - Light-Novels
 * [ffxs8](https://ffxs8.com/) - Light-Novels
-* [Piaotian](https://www.ptwxz.com/) - Light-Novels
 * [Baozimh](https://www.baozimh.com/) - Webtoons
 * [AC.QQ](https://ac.qq.com/) - Manga
 * [BiliBili](https://manga.bilibili.com/) - Manga
@@ -1700,7 +1699,6 @@
 * [Nhacvn](https://nhac.vn/) - Music
 * [Keeng](https://keeng.vn/) - Music
 * [Imuzik](https://imuzik.com.vn/) - Music
-* [Nhac.vn](https://nhac.vn/) - Music
 
 ## ▷ Reading
 

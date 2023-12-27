@@ -533,7 +533,8 @@
 
 * 🌐 **[Common Q&As](https://www.indeed.com/career-advice/interviewing/top-interview-questions-and-answers)** - Interview Questions Index
 * ↪️ **[Collaboration Platforms](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_collaboration_platforms)**
-* ⭐ **[5000 Best Job Sites](http://5000best.com/websites/Jobs/)**, [4DayWeek](https://4dayweek.io/) or [Indeed](https://www.indeed.com/) - Job Search Sites
+* ⭐ **[5000 Best Job Sites](http://5000best.com/websites/Jobs/)** or [Indeed](https://www.indeed.com/) - Job Search Sites
+* ⭐ **[4 day week](https://4dayweek.io/) - Find Jobs with 4 Day Weeks
 * ⭐ **[Comparably](https://www.comparably.com/)** or [GoodFirms](https://www.goodfirms.co/) - Compare Companies / Salaries
 * ⭐ **[Reverse Interview](https://github.com/viraptor/reverse-interview)** or [job-interview-questions](https://github.com/lkostrowski/job-interview-questions-to-ask-companies) - Questions to Ask Potential Employers
 * ⭐ **[Kimai](https://www.kimai.org/)** - Working Hours Tracker
@@ -543,7 +544,6 @@
 * [/r/careerguidance](https://www.reddit.com/r/careerguidance/) - Career Guidance Subreddit
 * [Science Career General](https://sciencecareergeneral.neocities.org/) - PhD / STEM Career Study Guides
 * [JustLanded](https://www.justlanded.com/) - Working & Living Abroad Guides
-* [4 day week](https://4dayweek.io/) - Find Jobs with 4 Day Weeks
 * [Space Crew](https://spacecrew.com/) - Find Space Related Jobs
 * [EconJobRumors](https://www.econjobrumors.com/) - Economic Job Market Forum
 * [SocJobRumors](https://www.socjobrumors.com/) - Sociology Job Market Forum
