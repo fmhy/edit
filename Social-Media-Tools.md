@@ -90,6 +90,7 @@
 * ⭐ **[CustomRP](https://www.customrp.xyz/)** - Customizable Rich Presence
 * [Adobe Discord RPC](https://github.com/teeteeteeteetee/adobe-discord-rpc) - Adobe Rich Presence 
 * [discord-vscode](https://marketplace.visualstudio.com/items?itemName=icrawl.discord-vscode) - VSCode Rich Presence / [GitHub](https://github.com/iCrawl/discord-vscode)
+* [Old Layout](https://gist.github.com/aamiaa/fbf6e51dbb8875a781a3d8d76fc3f3e7) - Revert New Discord Layout
 * [ChromaDiscordApp](https://github.com/tgraupmann/ChromaDiscordApp) - Chroma Light for Discord
 * [Overlayed](https://overlayed.dev/) - Alternative Discord VC Overlay / [Github](https://github.com/Hacksore/overlayed)
 * [Acrylic](https://github.com/uwu/Acrylic) - Glass Theme
