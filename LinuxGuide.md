@@ -11,7 +11,9 @@
 
 # ► Linux Distros
 
-**Note** - We don't keep or curate individual linux distros, just guide you to places where you might find the distro you like.
+**Note** - We don't keep or curate individual linux distros ourselves, as we feel the indexes below are high enough quality on their own.
+
+***
 
 * ⭐ **[Linux Difficulty Chart](https://i.ibb.co/kXJdBrF/98e87fc317dd.png)**
 * ⭐ **[Beginner Distros](https://ash.fail/distros.html)**
