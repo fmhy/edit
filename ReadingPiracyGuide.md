@@ -658,7 +658,6 @@
 * [NewComic](https://www.newcomic.info/) - Downloads
 * [4chan /co/](https://boards.4channel.org/co/catalog#s=official%20win) - Weekly Downloads
 * [readcomicsfree](https://readcomicfree.org/)
-* [Comic Castle](https://comicastle.org/)
 * [WallComic](https://wallcomic.com/)
 * [Comics Online](https://www.comicsonline.io/)
 * [Read Full Comic](https://readfullcomic.com/) / [2](https://viewcomiconline.com/)
@@ -714,7 +713,6 @@
 * [MangaFire](https://mangafire.to/) - [Discord](https://discord.com/invite/KRQQKzQ6CS)
 * [BATO.TO](https://bato.to/) - [Discord](https://discord.com/invite/batoto) / [Proxies](https://rentry.co/batoto)
 * [MangaReader](https://mangareader.to/) - [Discord](https://discord.com/invite/Bvc5mVcUqE) / [Subreddit](https://www.reddit.com/r/MangaReaderOfficial/)
-* [TCB Scans](https://onepiecechapters.com/) - [Discord](https://discord.com/invite/tcbscans)
 * [Atsumaru](https://atsu.moe/) - [Discord](https://discord.gg/Tj4QmEF4uV)
 * [MangaHub](https://mangahub.io/)
 * [MangaList](https://mangalist.com/)
@@ -969,6 +967,7 @@
 * [Readow](https://readow.ai/) - Book Recommendations
 * [Readgeek](https://www.readgeek.com/) - Book Recommendations
 * [Shepherd](https://shepherd.com/) - Book Recommendations
+* [GoodBooks](https://www.goodbooks.io/) - Book Recommendations
 * [Literature-Map](https://www.literature-map.com/) - Book Recommendations
 * [Break the Bubble!](https://abooklike.foo/escape) - Book Recommendations
 * [Most Recommended Books](https://www.mostrecommendedbooks.com/) - Book Recommendations
