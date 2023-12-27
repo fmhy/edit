@@ -1044,7 +1044,8 @@
 * ⭐ **[Couleur Tweak Tips](https://discord.gg/CTT)** - Minecraft Tweaks / Tips
 * ⭐ **[paper-optimization](https://paper-chan.moe/paper-optimization/)** or [minecraft-optimization](https://github.com/YouHaveTrouble/minecraft-optimization) - Server Optimization Guides
 * ⭐ **[Villager Trading Cheatsheet](https://i.ibb.co/sKBjbzg/e9f8d80e2376.png)**
-* [Charm](https://svenhjol.github.io/Charm/), [Essential](https://essential.gg/), [Quark](https://quarkmod.net/) or [Vanillatweaks](https://www.vanillatweaks.net/) - Mincraft Quality of Life Mods
+* [Charm](https://svenhjol.github.io/Charm/), [Essential](https://essential.gg/) or [Quark](https://quarkmod.net/) - Mincraft Quality of Life Mods
+* [Vanillatweaks](https://www.vanillatweaks.net/) - Minecraft Resources / Data Pack
 * [MCPEDL](https://mcpedl.com/) - Minecraft PE/Bedrock Mods, Maps & Resources
 * [modsman](https://github.com/sargunv/modsman), [Pax](https://github.com/froehlichA/pax) or [Mod Manager](https://github.com/kaniol-lck/modmanager) - Minecraft Mod Managers
 * [r/feedthebeast](https://reddit.com/r/feedthebeast/) - Minecraft Mod Discussion Subreddit
