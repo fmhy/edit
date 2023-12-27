@@ -590,6 +590,40 @@
 
 ***
 
+## ▷ Palette Generators
+
+* ⭐ **[supercolorpalette](https://supercolorpalette.com/)** - Color Palette Generator
+* [ColorSpace](https://mycolor.space/) - Generate Gradient Color Palettes
+* [ColorsWall](https://colorswall.com/) or [ColorKit](https://colorkit.co/color-palette-generator/) - Generate Random Color Palettes
+* [Color Palette Generator](https://www.degraeve.com/color-palette) or [Color Picker](https://imagecolorpicker.com/) - Generate Color Palettes from Images
+* [ColorKit](https://colorkit.io/) - Generate Color Palettes by Mixing 2 Colors
+* [Pigment](https://pigment.shapefactory.co/), [Eva Design System](https://colors.eva.design/), [Scale](https://hihayk.github.io/scale/), [copypalette](https://copypalette.app/) or [Huey](https://huey.design/) - Simple Color Palette Generators
+* [ColorBox](https://colorbox.io/), [hue.tools](https://hue.tools/), [Randoma11y](https://randoma11y.com/), [accessiblepalette](https://accessiblepalette.com/) or [colorcolor](https://colorcolor.in/) - Advanced Color Palette Generators
+* [goodpalette](https://goodpalette.io/), [Huemint](https://huemint.com/), [AI Colors](https://aicolors.co/) or [PaletteMaker](https://palettemaker.com/) - Generate UI Color Palettes
+* [couleur.io](https://couleur.io/) - CSS Color Palettes Generator
+* [UI Colors](https://uicolors.app/create) - Tailwind CSS Color Generator
+* [Poolors](https://poolors.com/) - Generate Most / Least Used Color Palettes
+
+***
+
+## ▷ Color Pickers
+
+* 🌐 **[React Color](https://casesandberg.github.io/react-color/)** - Color Pickers Index
+* 🌐 **[BrandColors](https://brandcolors.net/)** - Brand Color Palettes Index
+* [Material UI](https://materialui.co/colors/), [Color Deck](https://color.obscuredetour.com/), [cccolor](https://fffuel.co/cccolor/), [Picular](https://picular.co/) or [ColorKit's Color Picker](https://colorkit.co/color-picker/) - Color Pickers
+* [Colorpicker](https://colorpicker.fr/), [Just Color Picker](https://annystudio.com/software/colorpicker/) or [epick](https://github.com/vv9k/epick) - Color Picker Desktop Apps
+* [Colorscales](https://www.colorscales.com/en/start) - Find Colors in Color Space
+* [ColourCode](https://www.toptal.com/designers/colourcode/) or [Colordot](https://color.hailpixel.com/) - Find Colors by Moving Mouse
+* [Geenes](https://geenes.app/welcome) or [Leonardo](https://leonardocolor.io/) - Find UI Color Palettes
+* [Sorted CSS Colors](https://enes.in/sorted-colors/) - Find Similar CSS Colors
+* [Color Hunt](https://colorhunt.co/), [COLOURlovers](https://www.colourlovers.com/), [SchemeColor](https://www.schemecolor.com/), [Culrs](https://culrs.com/) or [Colorffy](https://colorffy.com/) - Find Color Palettes
+* [Adobe Color](https://color.adobe.com/) - Find Color Palettes with Color Wheel
+* [Color Lisa](https://colorlisa.com/) - Find Art Based Color Palettes
+* [Color Leap](https://colorleap.app/) - Find Historical Color Palettes
+* [COLORWISE](https://colorwise.io/) - Find Color Palettes from Product Hunt Products
+
+***
+
 ## ▷ Photo Forensics
 
 * 🌐 **[Photo OSINT](https://start.me/p/0PgzqO/photo-osint)** - Image OSINT Resources
