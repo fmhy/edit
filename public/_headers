@@ -1,9 +1,0 @@
-/assets/*
-  cache-control: max-age=31536000
-  cache-control: immutable
-
-/*
-    X-Robots-Tag: noarchive
-
-/manifest.webmanifest
-    Content-Type: application/manifest+json
