@@ -177,6 +177,23 @@
 
 ***
 
+## ▷ Image Colorization
+
+* [AnimeColorDeOldify](https://github.com/Dakini/AnimeColorDeOldify) - Anime Image Colorization
+* [style2paints](https://github.com/lllyasviel/style2paints) - Lineart Colorization
+[Petalica Paint](https://petalica.com/)
+* [MyHeritage In Color](https://www.myheritage.com/incolor)
+* [9Mail Restoration](https://9may.mail.ru/restoration/)
+* [DeOldify](https://github.com/jantic/DeOldify)
+* [playback](https://playback.fm/colorize-photo)
+* [cutout](https://www.cutout.pro/photo-colorizer-black-and-white)
+* [colorize.cc](https://colorize.cc/)
+* [hotpot](https://hotpot.ai/colorize-picture)
+* [Colorizer](https://deepai.org/machine-learning-model/colorizer)
+* [imagecolorizer](https://imagecolorizer.com/)
+
+***
+
 # ► Image Generation
 
 * ↪️ **[AI Image Generators](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/ai/#wiki_.25BA_image_generation)**
@@ -358,7 +375,7 @@
 
 ***
 
-##  ▷ Stock Photos
+## ▷ Stock Photos
 
 * 🌐 **[Awesome Stock Resources](https://github.com/neutraltone/awesome-stock-resources#photography)** - Stock Photo Index
 * ⭐ **[EveryPixel](https://www.everypixel.com/)** or [LibreStock](https://librestock.com/) - Stock Photo Search Engines
@@ -618,6 +635,26 @@
 * [Limus](https://limus.netlify.app/) or [Screenstab](https://www.screenstab.com/editor/) - Change Screenshot Angles
 * [Screenshot Comparison](https://screenshotcomparison.com/) - Compare Screenshots
 * [Screenshot Tutorial](https://www.take-a-screenshot.org/) - Multi Platform Screenshot Guides 
+
+***
+
+## ▷ Image OCR
+
+* ⭐ **[Capture2Text](https://capture2text.sourceforge.net/)**
+* ⭐ **[Text Grab](https://github.com/TheJoeFin/Text-Grab)**
+* ⭐ **[i2ocr](https://www.i2ocr.com/)** - Online OCR
+* ⭐ **[OCR.SPACE](https://ocr.space/)** - Online OCR
+* [TextShot](https://github.com/ianzhao05/textshot)
+* [OnlineOCR](https://onlineocr.org/)
+* [NewOCR](https://www.newocr.com/)
+* [Project Naptha](https://projectnaptha.com/)
+* [Extract text from image](https://brandfolder.com/workbench/extract-text-from-image)
+* [2ocr](https://2ocr.com/)
+* [ImageToText](https://www.imagetotext.info/)
+* [OnlineOCR](https://www.onlineocr.net/)
+* [ImageScanOCR](https://github.com/ttop32/ImageScanOCR)
+* [iblogbox OCR](https://imagetotext.iblogbox.com/)
+* [Pomodoro](https://pomodoro.semlab.io/)
 
 ***
 

@@ -604,15 +604,6 @@ http://104.131.175.196:8080/, http://70.88.180.169:8088/, http://207.237.122.161
 
 ***
 
-## Image Colorization
-
-* [AnimeColorDeOldify](https://github.com/Dakini/AnimeColorDeOldify) - Anime Image Colorization
-* [style2paints](https://github.com/lllyasviel/style2paints) - Lineart Colorization
-
-[Petalica Paint](https://petalica.com/), [MyHeritage In Color](https://www.myheritage.com/incolor), [9Mail Restoration](https://9may.mail.ru/restoration/), [DeOldify](https://github.com/jantic/DeOldify), [playback](https://playback.fm/colorize-photo), [cutout](https://www.cutout.pro/photo-colorizer-black-and-white), [colorize.cc](https://colorize.cc/), [hotpot](https://hotpot.ai/colorize-picture), [Colorizer](https://deepai.org/machine-learning-model/colorizer), [imagecolorizer](https://imagecolorizer.com/)
-
-***
-
 ## Image Design Resources
 
 * ⭐ **[FreePreset](https://freepreset.net/)**
@@ -624,17 +615,6 @@ http://104.131.175.196:8080/, http://70.88.180.169:8088/, http://207.237.122.161
 ## Image Download Extensions
 
 [Download all Images](https://add0n.com/save-images.html), [Cute Save Button](https://github.com/Dezaimasu/cute-button), [DownAlbum](https://chromewebstore.google.com/detail/downalbum/cgjnhhjpfcdhbhlcmmjppicjmgfkppoken), [Save Images](https://github.com/belaviyo/save-images/), [svgexport](https://svgexport.io/), [svg-grabber](https://chromewebstore.google.com/detail/svg-grabber-get-all-the-s/ndakggdliegnegeclmfgodmgemdokdmg), [SVG Gobbler](https://github.com/rossmoody/svg-gobbler), [Image Picka](https://github.com/eight04/image-picka)
-
-***
-
-## Image to Text
-
-* ⭐ **[Capture2Text](https://capture2text.sourceforge.net/)**
-* ⭐ **[Text Grab](https://github.com/TheJoeFin/Text-Grab)**
-* ⭐ **[i2ocr](https://www.i2ocr.com/)** - Online OCR
-* ⭐ **[OCR.SPACE](https://ocr.space/)** - Online OCR
-
-[TextShot](https://github.com/ianzhao05/textshot), [OnlineOCR](https://onlineocr.org/), [NewOCR](https://www.newocr.com/), [Project Naptha](https://projectnaptha.com/), [Extract text from image](https://brandfolder.com/workbench/extract-text-from-image), [2ocr](https://2ocr.com/), [ImageToText](https://www.imagetotext.info/), [OnlineOCR](https://www.onlineocr.net/), [ImageScanOCR](https://github.com/ttop32/ImageScanOCR), [iblogbox OCR](https://imagetotext.iblogbox.com/), [Pomodoro](https://pomodoro.semlab.io/)
 
 ***
 
