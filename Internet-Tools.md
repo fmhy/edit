@@ -755,7 +755,7 @@
 
 ***
 
-## Browser Startpages
+## ▷ Browser Startpages
 
 * ⭐ **[WebOasis](https://weboasis.app/)**, [2](https://ndsamuelson.github.io/weboas-is/) - [Source Code](https://pastebin.com/CczqreS4)
 * ⭐ **[MONKNOW](https://www.monknow.com/)**
@@ -786,7 +786,7 @@
 
 ***
 
-## Customizable New Tab Page
+## ▷ Customizable New Tab Page
 
 * ⭐ **[Tabiverse](https://tabiverse.com/)** - Universe New Tab Page / [Discord](https://discord.gg/MUgRGwE)
 * ⭐ **[Tab with A view](https://www.withaview.co/ext/)** - Virtual Sights New Tab Page
