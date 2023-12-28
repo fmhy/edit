@@ -27,6 +27,7 @@
 * ⭐ **[Bard](https://bard.google.com/)** - Google's Chatbot
 * [FastGPT](https://labs.kagi.com/fastgpt) - Claude Based Q&A AI
 * [SydneyQt](https://github.com/juzeon/SydneyQt) - Jailbroken Bing AI Chatbot
+* [Khoj](https://khoj.dev/) - AI Assistant
 * [Leon](https://getleon.ai/) - AI Assistant
 * [Pi](https://pi.ai/talk) - AI Assistant
 * [AiryChat](https://airychat.com/) - AI Assistants
@@ -61,7 +62,7 @@
 * [Petals](https://petals.dev/) - Self-Host / [GitHub](https://github.com/bigscience-workshop/petals)
 * [FreedomGPT](https://freedomgpt.com/) - Alpaca Based Chatbot / [Github](https://github.com/ohmplatform/FreedomGPT/) / [Discord](https://discord.com/invite/h77wvJS4ga)
 * [Ollama](https://ollama.ai/) / [Discord](https://discord.gg/ollama) - Run LLMs
-* [LlamaFile](https://github.com/Mozilla-Ocho/llamafile) -  Run LLMs w/ Single File
+* [LlamaFile](https://github.com/Mozilla-Ocho/llamafile) - Run LLMs w/ Single File
 * [LlamaChat](https://www.llamachat.app/) - Mac Llama AI
 * [DiffusionBee](https://diffusionbee.com/) - Mac Local AI Frontend / [Github](https://github.com/divamgupta/diffusionbee-stable-diffusion-ui) / [Discord](https://discord.com/invite/t6rC5RaJQn)
 * [Kajiwoto](https://kajiwoto.ai/), [Miku](https://docs.miku.gg/) / [Discord](https://discord.gg/3XPdpUdGgV) or [Agnai](https://agnai.chat/) - AI Builders
@@ -114,7 +115,7 @@
 * [ChatGPT File Uploader](https://chromewebstore.google.com/detail/chatgpt-file-uploader/oaogphgfdbdbmhkiplemgehihiiececj) - File Upload Extension
 * [ChatGPT Advanced](https://tools.zmo.ai/webchatgpt) - Add Search Results to ChatGPT
 * [SublimeGPT](https://chromewebstore.google.com/detail/sublimegpt-chatgpt-everyw/eecockeebhenbihmkaamjlgoehkngjea), [DuckDuckGPT](https://github.com/kudoai/duckduckgpt) or [GPTGO](https://gptgo.ai/) - Add ChatGPT to Search Results
-* [ChatGPTBox](https://github.com/josStorer/chatGPTBox), [ChatGPT Apps](https://github.com/adamlui/chatgpt-apps), [KeepChatGPT](https://github.com/xcanwin/KeepChatGPT/blob/main/docs/README_EN.md) or [Merlin](https://merlin.foyer.work/) / [Unlimited](https://rentry.co/MerlinAI-Unlim) - ChatGPT Extensions
+* [ChatGPTBox](https://github.com/josStorer/chatGPTBox), [ChatGPT Apps](https://github.com/adamlui/chatgpt-apps), [KeepChatGPT](https://github.com/xcanwin/KeepChatGPT/blob/main/docs/README_EN.md), [Walles](https://walles.ai/) or [Merlin](https://merlin.foyer.work/) / [Unlimited](https://rentry.co/MerlinAI-Unlim) - ChatGPT Extensions
 * [Harpa](https://harpa.ai/) or [Glimpse](https://glimpse.surf/) - ChatGPT Chrome Extensions
 * [/r/ChatGPT](https://www.reddit.com/r/ChatGPT/) - ChatGPT Subreddit
 * [Andi](https://andisearch.com/) - AI Powered Search
