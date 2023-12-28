@@ -1223,56 +1223,6 @@ http://104.131.175.196:8080/, http://70.88.180.169:8088/, http://207.237.122.161
 
 * [SCMD](https://github.com/BerdyAlexei/SCMD-Workshop-Downloader-2), [steamworkshopdownloader](https://github.com/shadoxxhd/steamworkshopdownloader)
 
-
-***
-
-## Stock Photo Sites
-
-* 🌐 **[Awesome Stock Resources](https://github.com/neutraltone/awesome-stock-resources#photography)** - Stock Photo Index
-* ⭐ **[EveryPixel](https://www.everypixel.com/)** or [LibreStock](https://librestock.com/) - Stock Photo Search Engines
-* ⭐ **[GetPaidStock](https://getpaidstock.com/)**, **[Downloader.la](https://downloader.la/)**, [VisualHunt](https://visualhunt.com/) or [istock](https://istock.7xm.xyz/) - Download Paid Stock Photos for Free
-* [Smithsonian Open Access](https://www.si.edu/OpenAccess) - Smithsonian High Quality Photos
-* [desirefx](https://desirefx.me/category/stock_images/) - Stock Photo Overlays
-* [creativity103](https://creativity103.com/) - Abstract Background Photos
-* [freenaturestock](https://freenaturestock.com/) - Nature Photos
-* [Warren Photographic](https://www.warrenphotographic.co.uk/index.php) - Animal Photos
-* [diverseui](https://diverseui.com/) - Human Face Photos
-* [Foodiesfeed](https://www.foodiesfeed.com/) - Food Photos
-* [iwaria](https://iwaria.com/) - African Photos
-* [Freely Photos](https://www.freelyphotos.com/) - Christian Photos
-* [twnsnd](https://nos.twnsnd.co/) - Vintage Photos
-* [PNGIMG](https://pngimg.com/) or [stickpng](https://www.stickpng.com/) - PNG Photos
-* [gfxmountain](https://gfxmountain.com/stock-photos/) - Stock Photo Collections
-* [Flickr Commons](https://www.flickr.com/commons) / [Downloader](https://github.com/beaufour/flickr-download) - Public Photo Archives
-* [Shutterstock Premium](https://t.me/shutterstockpremium), [freestockphotos](https://t.me/freestockphotos) or [Shutter](https://t.me/Shutter) - Shutterstock Telegram Downloaders
-* [themeisle](https://mystock.themeisle.com/), [burst](https://burst.shopify.com/), [focastock](https://focastock.com/), [4freephotos](https://www.4freephotos.com/) or [Pikwizard](https://pikwizard.com/) - Misc Stock Photos
-* [Nohat](https://nohat.cc/), [FreeImages](https://www.freeimages.com/), [cgispread](https://cgispread.com/), [Vecteezy](https://www.vecteezy.com/) or [FreeDesignFile](https://freedesignfile.com/) - Misc Stock Photos / Vectors
-* [argfx](https://argfx.co/), [publicdomainvectors](https://publicdomainvectors.org/), [Free Vector](https://www.freevector.com/), [freevectors](https://www.freevectors.net/) or [vector4free](https://www.vector4free.com/) - Misc Vectors
-* [VectorPortal](https://www.vectorportal.com/) - Vector Collections
-* [123freevectors](https://www.123freevectors.com/) - Background Vectors
-
-### Illustration Sites
-
-* [icons8](https://icons8.com/illustrations), [3D Illustrations](https://3d.khagwal.co/), [3dbay](https://clouddevs.com/3dbay/) or [NS-illustration-pack](https://github.com/nsobolewart/NS-illustration-pack) - 3D Illustrations
-* [StorySet](https://storyset.com/), [unDraw](https://undraw.co/illustrations), [blush](https://blush.design/) or [Humaaans](https://www.humaaans.com/) - Customizable Illustrations
-* [Pastel](https://usepastel.com/marker-illustrations) - Marker Illustrations
-* [Fresh Folk](https://fresh-folk.com/) - Illustrations of People
-* [free-gophers-pack](https://github.com/MariaLetta/free-gophers-pack) - Gophers Illustrations
-* [reshot](https://www.reshot.com/), [freeillustrations](https://freeillustrations.xyz/), [DrawKit](https://www.drawkit.io/), [NiceIllustrations](https://niceillustrations.com/free-illustrations/) or [manypixels](https://www.manypixels.co/gallery) - Misc Illustrations
-
-***
-
-## Stock Video Sites
-
-* 🌐 **[Awesome Stock Resources](https://github.com/neutraltone/awesome-stock-resources#videos)** or **[CuteStockFootage](https://cutestockfootage.com/free/video)** - Stock Video Indexes
-* ⭐ **[VidsPlay](https://www.vidsplay.com/)** - Stock Videos
-* [4K Media](https://4kmedia.org/), [Dareful](https://dareful.com/) or [Monzoom](https://www.monzoom.com/) - 4K Quality Stock Videos
-* [BeachFrontBroll](https://www.beachfrontbroll.com/), [Videvo](https://www.videvo.net/), [veed.io](https://www.veed.io/videos) or [MitchMartinez](https://mitchmartinez.com/free-4k-red-epic-stock-footage/) - Misc Stock Videos
-* [MotionPlaces](https://www.motionplaces.com/) - Worldwide Stock Videos
-* [DroneStock](https://dronestock.com/) - Drone Video Footage
-* [MovieTools](https://movietools.info/) - Video Loops
-* [ineedfx](https://ineedfx.com/) - VFX
-
 ***
 
 ## Survival
