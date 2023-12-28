@@ -12470,12 +12470,16 @@ Use a **[Base64 Decoder](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock
 * [SmartLauncher](https://www.smartlauncher.net/) - Minimalist / Clean Launcher
 * [Discreet Launcher](https://github.com/falzonv/discreet-launcher) - Minimalist / Clean Launcher
 * [Lunar Launcher](https://github.com/iamrasel/lunar-launcher) - Minimalist / Clean Launcher
+* [Olauncher](https://github.com/tanujnotes/Olauncher) - Minimalist / Clean Launcher
+* [ReZ Launcher](https://play.google.com/store/apps/details?id=com.perryoncrack.rez) - Minimalist / Clean Launcher
 * [KISS](https://kisslauncher.com/) - Low-Memory Usage Launcher
 * [NeoLauncher](https://github.com/NeoApplications/Neo-Launcher) - Customizable Launcher
-* [Olauncher](https://github.com/tanujnotes/Olauncher) - Minimalist Ad-Free Launcher
 * [Unlauncher](https://github.com/jkuester/unlauncher) - Distraction-Free Launcher
 * [Kvaesitso](https://kvaesitso.mm20.de/) - Search-Focused Launcher
 * [TermuxLauncher](https://github.com/amsitlab/termuxlauncher) - Termux Launcher
+* [PixelLauncherMods](https://github.com/KieronQuinn/PixelLauncherMods) - Enable Features in Stock App Launcher
+* [QuickSwitch](https://github.com/skittles9823/QuickSwitch) - Enable Quickstep in Launchers 
+* [Activity Launcher](https://github.com/butzist/ActivityLauncher) - Activity Launch Shortcuts
 
 ***
 
@@ -12485,7 +12489,6 @@ Use a **[Base64 Decoder](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock
 
 * 🌐 **[Manufacturer Specific](https://rentry.org/ekrw4)** - Manufacturer Specific Mobile Tools
 * ↪️ **[Device Comparisons](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25BA_shopping)**
-* ↪️ **[App Launchers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_app_launchers)**
 * ↪️ **[File Explorers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_android_file_explorers)**
 * ⭐ **[XDA](https://forum.xda-developers.com/)** - Android Discussion Forum
 * ⭐ **[Octi](https://github.com/d4rken-org/octi)** or [ADBAppControl](https://adbappcontrol.com/en/) - Android Device Managers / Root Tool / [Features](https://i.ibb.co/ZYysg2c/5546649b4d89.png)
@@ -12502,9 +12505,6 @@ Use a **[Base64 Decoder](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock
 * [AVNC](https://github.com/gujjwal00/avnc) - Remote Desktop Client for Android
 * [ApkShellExt2](https://www.apkshellext.com/) - Desktop App Manager
 * [ClassicPowerMenu](https://github.com/KieronQuinn/ClassicPowerMenu) - Android Power Menu Replacement
-* [PixelLauncherMods](https://github.com/KieronQuinn/PixelLauncherMods) - Enable Features in Stock App Launcher
-* [QuickSwitch](https://github.com/skittles9823/QuickSwitch) - Enable Quickstep in Launchers 
-* [Activity Launcher](https://github.com/butzist/ActivityLauncher) - Activity Launch Shortcuts
 * [Android Debloat Guide](https://rentry.co/debloatandroid), [debloat-android](https://christitus.com/debloat-android/) or [Uninstall Bloatware](https://www.xda-developers.com/uninstall-carrier-oem-bloatware-without-root-access/) - Android Debloating Guides
 * [Canta](https://github.com/samolego/Canta), [Universal Android Debloater](https://forum.xda-developers.com/t/script-2020-10-04-v2-7-universal-android-debloater.4069209/) / [GUI](https://github.com/Universal-Debloater-Alliance/universal-android-debloater) or [De-Bloater](https://sunilpaulmathew.github.io/De-Bloater/) - Android Debloaters
 * [DetoxDroid](https://github.com/flxapps/DetoxDroid) - Make Your Phone Less Distracting
@@ -12520,7 +12520,7 @@ Use a **[Base64 Decoder](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock
 * [Red Moon](https://github.com/LibreShift/red-moon) or [NightOwl](https://play.google.com/store/apps/details?id=com.evezzon.nightowl) - Screen Brightness Control
 * [BlueLight Filter](https://play.google.com/store/apps/details?id=jp.ne.hardyinfinity.bluelightfilter.free) - Screen Bluelight Filter
 * [OLEDBuddy](https://play.google.com/store/apps/details?id=me.mikecroall.oledbuddy) - Fix OLED Images
-* [Electron](https://play.google.com/store/apps/details?id=com.mahersafadi.electron), [SaverTuner](https://codeberg.org/s1m/savertuner), [Charge Meter](https://play.google.com/store/apps/details?id=dev.km.android.chargemeter), [BatteryGuru](https://github.com/nbats/FMHYedit/blob/main/base64.md#battery-guru), [Batt](https://gitlab.com/narektor/batt) or [AccuBattery](https://play.google.com/store/apps/details?id=com.digibites.accubattery) - Battery Monitors / Managers
+* [Electron](https://play.google.com/store/apps/details?id=com.mahersafadi.electron), [SaverTuner](https://codeberg.org/s1m/savertuner), [Charge Meter](https://play.google.com/store/apps/details?id=dev.km.android.chargemeter), [BatteryGuru](https://github.com/nbats/FMHYedit/blob/main/base64.md#battery-guru), [Batt](https://gitlab.com/narektor/batt), [aBattery](https://play.google.com/store/apps/details?id=me.linshen.abattery) or [AccuBattery](https://play.google.com/store/apps/details?id=com.digibites.accubattery) - Battery Monitors / Managers
 * [BatteryChargeLimiter](https://github.com/MuntashirAkon/BatteryChargeLimiter) - Charging Control
 * [Pixoff](https://play.google.com/store/apps/details?id=com.urysoft.pixelfilter) - Save Battery by Turning Off Pixels
 * [DataMonitor](https://github.com/itsdrnoob/DataMonitor) - Data Usage Monitor
@@ -12839,6 +12839,7 @@ Use a **[Base64 Decoder](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock
 * [ShareX](https://github.com/akanshSirohi/ShareX) - File Sync
 * [Save n Device](https://github.com/lmj0011/save-on-device) - File Sync
 * [Nearby Share](https://www.android.com/better-together/nearby-share-app/) - File Sync
+* [DriveSync](https://play.google.com/store/apps/details?id=com.ttxapps.drivesync) - Google Drive Sync
 
 ***
 
@@ -13036,7 +13037,7 @@ Use a **[Base64 Decoder](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock
 * [Moosync](https://github.com/Moosync/Moosync) - Stream Audio from YouTube, Spotify and more / [Discord](https://discord.com/invite/HsbqbRune3)
 * [Spowlo](https://github.com/BobbyESP/Spowlo/) - Spotify Audio Downloader
 * [YouTubeDL Android](https://github.com/yausername/youtubedl-android), [ytdlnis](https://github.com/deniscerri/ytdlnis), [Seal](https://github.com/JunkFood02/Seal) or [SongTube](https://github.com/SongTube/SongTube-App) - YouTube Audio Downloaders
-* [Shazam](https://www.shazam.com/), [SoundHound](https://www.soundhound.com/soundhound) or [AmbientMusicMod](https://github.com/KieronQuinn/AmbientMusicMod) - Song Identification
+* [Shazam](https://www.shazam.com/), [SoundHound](https://www.soundhound.com/soundhound), [MusicRecognizer](https://github.com/aleksey-saenko/MusicRecognizer) or [AmbientMusicMod](https://github.com/KieronQuinn/AmbientMusicMod) - Song Identification
 * [Finamp](https://github.com/jmshrv/finamp) - Jellyfin Music Player
 * [Ultrasonic](https://gitlab.com/ultrasonic/ultrasonic) or [SubTune](https://github.com/TaylorKunZhang/SubTune) - Subsonic Client
 * [Sound1](https://play.google.com/store/apps/details?id=com.soundcloud.android&amp;hl=us) - Streaming
@@ -13117,8 +13118,17 @@ Use a **[Base64 Decoder](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock
 * [PopcornTime](https://github.com/popcorn-official/popcorn-android) - Torrent Streaming / Chromecast / Use [VPN](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_vpn_guide)
 * [BeeTV](https://beetvapp.me/), [VivaTV](https://www.vivatv.io/) or [NovaTV](https://novatv.app/) - Movies / TV / Anime / Chromecast
 * [WiWiCenter](https://cinema.wiwicenter.com/) / [Anime](https://anime.wiwicenter.com/) - Movies / TV / Anime / Use Adblocker
-* [Aniyomi](https://aniyomi.org/) / [GitHub](https://github.com/jmir1/aniyomi) or [NoFasel](https://github.com/N0-0NE-Dev/NoFasel) - Movies / TV / Anime
-* [FilmPlus](https://filmplus.app/), [PikaShow](https://pikashows.com/), [Upflix](https://www.upflix.net/), [CyberFlix](https://cyberflix.me/), [CinemaHD](https://cinemahdapkapp.com/v2-apkd4/), [Movies Cave](https://github.com/nbats/FMHYedit/blob/main/base64.md#movies-cave-app), [LokLok](https://loklok.com/download) or [Tuner Radio](https://www.downloader.world/) - Movies / TV
+* [Aniyomi](https://aniyomi.org/) / [GitHub](https://github.com/jmir1/aniyomi) - Movies / TV / Anime
+* [NoFasel](https://github.com/N0-0NE-Dev/NoFasel) - Movies / TV / Anime
+* [FilmPlus](https://filmplus.app/) - Movies / TV
+* [PikaShow](https://pikashows.com/) - Movies / TV
+* [Upflix](https://www.upflix.net/) - Movies / TV
+* [CyberFlix](https://cyberflix.me/) - Movies / TV
+* [CinemaHD](https://cinemahdapkapp.com/v2-apkd4/) - Movies / TV
+* [Movies Cave](https://github.com/nbats/FMHYedit/blob/main/base64.md#movies-cave-app) - Movies / TV
+* [LokLok](https://loklok.com/download) - Movies / TV
+* [Tuner Radio](https://www.downloader.world/) - Movies / TV
+* [FlixQuest](https://github.com/BeamlakAschalew/flixquest) - Movies / TV
 * [Rokkr](https://www.rokkr.net/) - Movies / TV / Add "huhu.to", "bs.to" or "oha.to"
 * [Moviesy](https://github.com/KaustubhPatange/Moviesy) - YTS Torrents 
 * [EncoreTVB](https://play.google.com/store/apps/details?id=com.tvbusa.english&amp;hl=en_US) - Chinese Drama 
