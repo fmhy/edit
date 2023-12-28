@@ -424,7 +424,6 @@
 * [3DText2GIF](https://3dtext2gif.com/) or [TextsStudio](https://textstudio.co/) - Animated 3D Text Generator
 * [Batname](https://batname.vercel.app/) - Batman (2022) Font Generator
 * [Codeface](https://github.com/chrissimpkins/codeface) - Fonts for Coding
-* [Metropolis](https://github.com/dw5/Metropolis) - Modern Typeface
 * [FiraCode](https://github.com/tonsky/FiraCode), [Cascadia Code](https://github.com/microsoft/cascadia-code) or [Maple Font](https://github.com/subframe7536/Maple-font) - Monospace Fonts
 * [NFG's Arcade Font Maker](https://nfggames.com/games/fontmaker/) or [Arcade Font Writer](https://arcade.photonstorm.com/) - Arcade Font Engine
 * [Glitch](https://glitchtextgenerator.com/) - Glitch Text Generator
