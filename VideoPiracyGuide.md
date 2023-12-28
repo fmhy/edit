@@ -124,6 +124,7 @@
 * [MP4Mania](https://mp4mania1.net/) - Movies / 360p / [How to Use](https://i.imgur.com/CdFCNWA.mp4)
 * [JustWatch](https://www.justwatch.com/) - Search Legal Streaming Hosts
 * [Manually Scrape Sites](https://rentry.co/uxw6u)
+* [Movies Universe](https://movies-universe.obinode.app/) - Movies / TV / 1080p 
 
 ***
 
