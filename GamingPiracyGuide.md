@@ -954,11 +954,11 @@
 * ⭐ **[Nexus Mods](https://www.nexusmods.com/)** / [Manager](https://github.com/Nexus-Mods/Nexus-Mod-Manager) / [Redirect Skip](https://greasyfork.org/en/scripts/394039)
 * ⭐ **[Modrinth](https://modrinth.com/)** / [Redirector](https://github.com/devBoi76/modrinthify)
 * [ProAsm](http://www.proasm.com/) - Retro Game Mods
-* [ZagruzkaMods](https://zagruzkamods.com/), 
-* [NextGenUpdate](https://www.nextgenupdate.com/), 
-* [ModWorkshop](https://modworkshop.net/), 
-* [Video Game Mods](https://videogamemods.com/), 
-* [Silent's Blog](https://cookieplmonster.github.io/mods/index/), 
+* [ZagruzkaMods](https://zagruzkamods.com/)
+* [NextGenUpdate](https://www.nextgenupdate.com/)
+* [ModWorkshop](https://modworkshop.net/) 
+* [Video Game Mods](https://videogamemods.com/)
+* [Silent's Blog](https://cookieplmonster.github.io/mods/index/)
 * [WabbaJack](https://www.wabbajack.org/) / [Discord](https://discord.com/invite/wabbajack), 
 * [GameFront](https://gamefront.com/)
 * [GameJunkie](https://www.gamejunkie.pro/)
