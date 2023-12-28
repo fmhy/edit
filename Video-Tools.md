@@ -317,7 +317,6 @@
 
 * 🌐 **[Paper2GUI](https://github.com/Baiyuetribe/paper2gui/blob/main/README_en.md)** - AI Video Tools Index
 * 🌐 **[Codecs and Containers](https://www.reddit.com/r/VideoEditing/wiki/codecsandcontainers)** or [Free-Codecs](https://www.free-codecs.com/) - Video Editing Codecs
-* ↪️ **[Stock Videos](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_stock_video_sites)**
 * ⭐ **[EyeCndy](https://eycndy.co/)** - Visual Technique Examples
 * [MotionFactory](https://www.motionfactory.io/) - Video Editing Workflow Manager
 * [VideoHelp Forum](https://forum.videohelp.com/forums/2-Video) - Video Editing Forums
@@ -439,3 +438,16 @@
 * [MMHuman3D](https://github.com/open-mmlab/mmhuman3d) - 3D Human Model Creator
 * [Talking Face Avatar](https://github.com/saba99/Talking_Face_Avatar) - Talking Avatar Generator
 * [Blender Open Movies](https://youtube.com/playlist?list=PLav47HAVZMjnTFVZL-aImCQIC0uLZtNCz) - CGI Assets
+
+***
+
+## ▷ Stock Videos
+
+* 🌐 **[Awesome Stock Resources](https://github.com/neutraltone/awesome-stock-resources#videos)** or **[CuteStockFootage](https://cutestockfootage.com/free/video)** - Stock Video Indexes
+* ⭐ **[VidsPlay](https://www.vidsplay.com/)** - Stock Videos
+* [4K Media](https://4kmedia.org/), [Dareful](https://dareful.com/) or [Monzoom](https://www.monzoom.com/) - 4K Quality Stock Videos
+* [BeachFrontBroll](https://www.beachfrontbroll.com/), [Videvo](https://www.videvo.net/), [veed.io](https://www.veed.io/videos) or [MitchMartinez](https://mitchmartinez.com/free-4k-red-epic-stock-footage/) - Misc Stock Videos
+* [MotionPlaces](https://www.motionplaces.com/) - Worldwide Stock Videos
+* [DroneStock](https://dronestock.com/) - Drone Video Footage
+* [MovieTools](https://movietools.info/) - Video Loops
+* [ineedfx](https://ineedfx.com/) - VFX
