@@ -517,36 +517,6 @@ http://104.131.175.196:8080/, http://70.88.180.169:8088/, http://207.237.122.161
 
 ***
 
-## Game Libraries / Launcher
-
-* ⭐ **[Playnite](https://playnite.link/)** / [Extensions](https://github.com/darklinkpower/PlayniteExtensionsCollection) / [Achievements](https://github.com/Lacro59/playnite-successstory-plugin)
-* ⭐ **[GoG Galaxy](https://www.gog.com/galaxy)**
-* ⭐ **[Project GLD](https://github.com/Y0URD34TH/Project-GLD/)**
-* [Black Pearl Origin](https://github.com/BlackPearlOrigin/blackpearlorigin) / [Plugins](https://bpo-store.github.io/)
-
-[Launchbox](https://www.launchbox-app.com/), [GameHub](https://tkashkin.github.io/projects/gamehub/), [Arc](https://www.arcgames.com/en/about/client), [Gnome Games](https://wiki.gnome.org/Apps/Games), [GameVault](https://gamevau.lt)
-
-***
-
-## Game Mods
-
-* ⭐ **[ModDB](https://moddb.com/)**
-* ⭐ **[Nexus Mods](https://www.nexusmods.com/)** / [Manager](https://github.com/Nexus-Mods/Nexus-Mod-Manager) / [Redirect Skip](https://greasyfork.org/en/scripts/394039)
-* ⭐ **[Modrinth](https://modrinth.com/)** / [Redirector](https://github.com/devBoi76/modrinthify)
-* [ProAsm](http://www.proasm.com/) - Retro Game Mods
-
-[ZagruzkaMods](https://zagruzkamods.com/), [NextGenUpdate](https://www.nextgenupdate.com/), [ModWorkshop](https://modworkshop.net/), [Video Game Mods](https://videogamemods.com/), [Silent's Blog](https://cookieplmonster.github.io/mods/index/), [WabbaJack](https://www.wabbajack.org/) / [Discord](https://discord.com/invite/wabbajack), [GameFront](https://gamefront.com/), [GameJunkie](https://www.gamejunkie.pro/), [VIP Mods](https://www.vip-mods.com/), [top-mods.ru](https://top-mods.ru/), [vip-mods.ru](https://vip-mods.ru/), [Top Mods](https://www.top-mods.com/), [GameJunkie](https://gamejunkie.ru/), [mod.io](https://www.mod.io/), [GameBanana](https://gamebanana.com/)
-
-***
-
-## Game Soundtracks
-
-* [Khinsider](https://downloads.khinsider.com/) - [Downloader](https://github.com/obskyr/khinsider) / [2](https://github.com/weespin/KhinsiderDownloader)
-
-[Duke4 SC-55](https://sc55.duke4.net/games.php), [Project2612](https://project2612.org/index.php), [retro.sx](https://retro.sx/), [GameOST](https://gameost.net/), [VGMRips](https://vgmrips.net/packs/), [VGMPF](https://www.vgmpf.com/Wiki/index.php), [Zophar's](https://www.zophar.net/music)
-
-***
-
 ## GDrive File Sharing
 
 * https://filepress.click/
@@ -604,15 +574,6 @@ http://104.131.175.196:8080/, http://70.88.180.169:8088/, http://207.237.122.161
 
 ***
 
-## Image Colorization
-
-* [AnimeColorDeOldify](https://github.com/Dakini/AnimeColorDeOldify) - Anime Image Colorization
-* [style2paints](https://github.com/lllyasviel/style2paints) - Lineart Colorization
-
-[Petalica Paint](https://petalica.com/), [MyHeritage In Color](https://www.myheritage.com/incolor), [9Mail Restoration](https://9may.mail.ru/restoration/), [DeOldify](https://github.com/jantic/DeOldify), [playback](https://playback.fm/colorize-photo), [cutout](https://www.cutout.pro/photo-colorizer-black-and-white), [colorize.cc](https://colorize.cc/), [hotpot](https://hotpot.ai/colorize-picture), [Colorizer](https://deepai.org/machine-learning-model/colorizer), [imagecolorizer](https://imagecolorizer.com/)
-
-***
-
 ## Image Design Resources
 
 * ⭐ **[FreePreset](https://freepreset.net/)**
@@ -624,17 +585,6 @@ http://104.131.175.196:8080/, http://70.88.180.169:8088/, http://207.237.122.161
 ## Image Download Extensions
 
 [Download all Images](https://add0n.com/save-images.html), [Cute Save Button](https://github.com/Dezaimasu/cute-button), [DownAlbum](https://chromewebstore.google.com/detail/downalbum/cgjnhhjpfcdhbhlcmmjppicjmgfkppoken), [Save Images](https://github.com/belaviyo/save-images/), [svgexport](https://svgexport.io/), [svg-grabber](https://chromewebstore.google.com/detail/svg-grabber-get-all-the-s/ndakggdliegnegeclmfgodmgemdokdmg), [SVG Gobbler](https://github.com/rossmoody/svg-gobbler), [Image Picka](https://github.com/eight04/image-picka)
-
-***
-
-## Image to Text
-
-* ⭐ **[Capture2Text](https://capture2text.sourceforge.net/)**
-* ⭐ **[Text Grab](https://github.com/TheJoeFin/Text-Grab)**
-* ⭐ **[i2ocr](https://www.i2ocr.com/)** - Online OCR
-* ⭐ **[OCR.SPACE](https://ocr.space/)** - Online OCR
-
-[TextShot](https://github.com/ianzhao05/textshot), [OnlineOCR](https://onlineocr.org/), [NewOCR](https://www.newocr.com/), [Project Naptha](https://projectnaptha.com/), [Extract text from image](https://brandfolder.com/workbench/extract-text-from-image), [2ocr](https://2ocr.com/), [ImageToText](https://www.imagetotext.info/), [OnlineOCR](https://www.onlineocr.net/), [ImageScanOCR](https://github.com/ttop32/ImageScanOCR), [iblogbox OCR](https://imagetotext.iblogbox.com/), [Pomodoro](https://pomodoro.semlab.io/)
 
 ***
 
@@ -660,14 +610,14 @@ http://104.131.175.196:8080/, http://70.88.180.169:8088/, http://207.237.122.161
 
 ***
 
-## LibGen  Mirrors
+## LibGen Mirrors
 
 * https://libgen.rs/ - main
 * https://libgen.is/ - main
 * https://libgen.st/ - main
 * https://libgen.fun/ - fork by original dev
 * https://libgen.li/ - clone
-* https://libgen.gs/  - clone
+* https://libgen.gs/ - clone
 * https://libgen.vg/ - clone
 * https://libgen.pm/ - clone
 * https://rentry.co/fmhy-libgen - Differences between the mirrors
@@ -869,7 +819,7 @@ http://104.131.175.196:8080/, http://70.88.180.169:8088/, http://207.237.122.161
 * ⭐ **[AsINT_Collection](https://start.me/p/b5Aow7/asint_collection)**
 * [Osintracker](https://www.osintracker.com/) - OSINT Investigations Tracker
 
-[OSINT All](https://bin.disroot.org/?4e0f2f4f714641d1##GsU9NwvyyqUFmgLv2f5s6dtBZJYFARzwzdDMDk3tnkSD) / [2](https://start.me/p/0PwOGl/osint-all),  [OSINT Essentials](https://www.osintessentials.com/), [OSINT Collection](https://github.com/Ph055a/OSINT_Collection), [OSINT Sources](https://github.com/imuledx/OSINT_sources), [Investigator Tools](https://start.me/p/gyaOJz/investigator-tools), [geoint](https://start.me/p/W1kDAj/geoint), [OSINT Tools](https://start.me/p/wMdQMQ/tools), [Sector035](https://sector035.nl/), [Nixintel's OSINT](https://start.me/p/rx6Qj8/nixintel-s-osint-resource-list), [UK-OSINT](https://www.uk-osint.net/index.html), [OSINTGeek](https://osintgeek.de/tools), [Awesome-Telegram-OSINT](https://github.com/ItIsMeCall911/Awesome-Telegram-OSINT), [Hackers Arise OSINT](https://www.hackers-arise.com/osint), [osinttechniques](https://www.osinttechniques.com/osint-tools.html), [whatisosint](https://securitytrails.com/blog/what-is-osint-how-can-i-make-use-of-it), [osintdojo](https://www.osintdojo.com/resources/), [300m](https://300m.com/osint/), [einvestigator](https://www.einvestigator.com/open-source-intelligence-tools/), [researchclinic](https://researchclinic.net/), [toddington](https://www.toddington.com/resources/free-osint-resources-open-source-intelligence-search-tools-research-tools-online-investigation/), [reuser](https://rr.reuser.biz/), [booleanstrings](https://booleanstrings.com/tools/), [coreysdigs](https://www.coreysdigs.com/take-action/must-have-tools-for-digging-videos-podcasts/), [Bellingcat](https://docs.google.com/spreadsheets/d/18rtqh8EG2q1xBo2cLNyhIDuK9jrPGwYr9DI2UncoqJQ/), [cProject Owl](https://discord.gg/projectowl), [RedTeam-Resources](https://github.com/J0hnbX/RedTeam-Resources), [Awesome Forensics Tools](https://github.com/ivbeg/awesome-forensicstools), [OSINT Collection](https://rentry.co/o89dd), [cipher387](https://github.com/cipher387), [osint4all](https://start.me/p/L1rEYQ/osint4all), [OSINT Tools](https://pastebin.com/CJ9ExTn5), [osint](https://bin.disroot.org/?191675922ac1cbac##Dc6GZQUviM5mfQhoUsYhaBykx9RQAJkDp8yDAe8QqB1m), [asint_collection](https://bin.disroot.org/?5524218c228099ec##G6BxBj17tFtZhhGuYBfSRceFppigZyt8abJtqVceMgcN), [dig intel](https://start.me/p/ZME8nR/osint), [inteltechniques](https://inteltechniques.com/tools/Communities.html), [Social Media](https://start.me/p/4K0DXg/social-media), [midasearch](https://midasearch.org/), [osint-resources](https://start.me/p/1kAP0b/osint-resources), [Malfrat's Industries Map](https://map.malfrats.industries/), [OSHINT](https://ohshint.gitbook.io/oh-shint-its-a-blog/)
+[OSINT All](https://bin.disroot.org/?4e0f2f4f714641d1##GsU9NwvyyqUFmgLv2f5s6dtBZJYFARzwzdDMDk3tnkSD) / [2](https://start.me/p/0PwOGl/osint-all), [OSINT Essentials](https://www.osintessentials.com/), [OSINT Collection](https://github.com/Ph055a/OSINT_Collection), [OSINT Sources](https://github.com/imuledx/OSINT_sources), [Investigator Tools](https://start.me/p/gyaOJz/investigator-tools), [geoint](https://start.me/p/W1kDAj/geoint), [OSINT Tools](https://start.me/p/wMdQMQ/tools), [Sector035](https://sector035.nl/), [Nixintel's OSINT](https://start.me/p/rx6Qj8/nixintel-s-osint-resource-list), [UK-OSINT](https://www.uk-osint.net/index.html), [OSINTGeek](https://osintgeek.de/tools), [Awesome-Telegram-OSINT](https://github.com/ItIsMeCall911/Awesome-Telegram-OSINT), [Hackers Arise OSINT](https://www.hackers-arise.com/osint), [osinttechniques](https://www.osinttechniques.com/osint-tools.html), [whatisosint](https://securitytrails.com/blog/what-is-osint-how-can-i-make-use-of-it), [osintdojo](https://www.osintdojo.com/resources/), [300m](https://300m.com/osint/), [einvestigator](https://www.einvestigator.com/open-source-intelligence-tools/), [researchclinic](https://researchclinic.net/), [toddington](https://www.toddington.com/resources/free-osint-resources-open-source-intelligence-search-tools-research-tools-online-investigation/), [reuser](https://rr.reuser.biz/), [booleanstrings](https://booleanstrings.com/tools/), [coreysdigs](https://www.coreysdigs.com/take-action/must-have-tools-for-digging-videos-podcasts/), [Bellingcat](https://docs.google.com/spreadsheets/d/18rtqh8EG2q1xBo2cLNyhIDuK9jrPGwYr9DI2UncoqJQ/), [cProject Owl](https://discord.gg/projectowl), [RedTeam-Resources](https://github.com/J0hnbX/RedTeam-Resources), [Awesome Forensics Tools](https://github.com/ivbeg/awesome-forensicstools), [OSINT Collection](https://rentry.co/o89dd), [cipher387](https://github.com/cipher387), [osint4all](https://start.me/p/L1rEYQ/osint4all), [OSINT Tools](https://pastebin.com/CJ9ExTn5), [osint](https://bin.disroot.org/?191675922ac1cbac##Dc6GZQUviM5mfQhoUsYhaBykx9RQAJkDp8yDAe8QqB1m), [asint_collection](https://bin.disroot.org/?5524218c228099ec##G6BxBj17tFtZhhGuYBfSRceFppigZyt8abJtqVceMgcN), [dig intel](https://start.me/p/ZME8nR/osint), [inteltechniques](https://inteltechniques.com/tools/Communities.html), [Social Media](https://start.me/p/4K0DXg/social-media), [midasearch](https://midasearch.org/), [osint-resources](https://start.me/p/1kAP0b/osint-resources), [Malfrat's Industries Map](https://map.malfrats.industries/), [OSHINT](https://ohshint.gitbook.io/oh-shint-its-a-blog/)
 
 ***
 
@@ -1213,7 +1163,7 @@ http://104.131.175.196:8080/, http://70.88.180.169:8088/, http://207.237.122.161
 
 * ⭐ **[ggntw](https://ggntw.com/steam)**
 
-* [Steamworkshop.download](http://steamworkshop.download/), [steam-workshop-downloader.com](https://steam-workshop-downloader.com), [steamworkshopdownloader.ru](https://steamworkshopdownloader.ru), [steam-workshop-downloader](https://gramvio.com/steam-workshop-downloader/),  [Workshop Script](https://greasyfork.org/en/scripts/449046), [steamworkshopdownloader.ru](https://steamworkshopdownloader.ru/), [Workshop Downloader](https://4hub.app/workshop-downloader),
+* [Steamworkshop.download](http://steamworkshop.download/), [steam-workshop-downloader.com](https://steam-workshop-downloader.com), [steamworkshopdownloader.ru](https://steamworkshopdownloader.ru), [steam-workshop-downloader](https://gramvio.com/steam-workshop-downloader/), [Workshop Script](https://greasyfork.org/en/scripts/449046), [steamworkshopdownloader.ru](https://steamworkshopdownloader.ru/), [Workshop Downloader](https://4hub.app/workshop-downloader),
 
 ### Programs
 
@@ -1406,7 +1356,7 @@ http://104.131.175.196:8080/, http://70.88.180.169:8088/, http://207.237.122.161
 
 ## Waifu2x Tools
 
-[Guide](https://i.ibb.co/1MXJNPB/2eb637667b02.png) / [Colab](https://colab.research.google.com/drive/1RjyCk30cc24ez1-a1Qa3CP3g_yk9AJwq) / [GUI](https://github.com/YukihoAA/waifu2x_snowshell/releases), [2](https://github.com/nihui/waifu2x-ncnn-vulkan),  [3](https://github.com/AaronFeng753/Waifu2x-Extension-GUI) / [WebUI](https://unlimited.waifu2x.net/), [2](https://waifu2x.booru.pics/), [3](https://waifu2x.pro/), [4](https://waifu2x.udp.jp/), [5](https://waifu2x.org/), [6](https://waifuxl.com/)
+[Guide](https://i.ibb.co/1MXJNPB/2eb637667b02.png) / [Colab](https://colab.research.google.com/drive/1RjyCk30cc24ez1-a1Qa3CP3g_yk9AJwq) / [GUI](https://github.com/YukihoAA/waifu2x_snowshell/releases), [2](https://github.com/nihui/waifu2x-ncnn-vulkan), [3](https://github.com/AaronFeng753/Waifu2x-Extension-GUI) / [WebUI](https://unlimited.waifu2x.net/), [2](https://waifu2x.booru.pics/), [3](https://waifu2x.pro/), [4](https://waifu2x.udp.jp/), [5](https://waifu2x.org/), [6](https://waifuxl.com/)
 
 ***
 
