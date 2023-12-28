@@ -752,3 +752,56 @@
 * [Pagetual](https://hoothin.github.io/PagetualGuide/en/) - Merges a Sites "Next" Pages
 * [Mouseover Popup Image Viewer](https://greasyfork.org/en/scripts/394820-mouseover-popup-image-viewer) - Shows Images & Videos Behind Links & Thumbnails
 * [DisableAMP](https://github.com/AdguardTeam/DisableAMP) - Disable Google AMP Links
+
+***
+
+## Browser Startpages
+
+* ⭐ **[WebOasis](https://weboasis.app/)**, [2](https://ndsamuelson.github.io/weboas-is/) - [Source Code](https://pastebin.com/CczqreS4)
+* ⭐ **[MONKNOW](https://www.monknow.com/)**
+* [8bitdash](https://www.8bitdash.com/)
+* [8 Bit Dashboard](https://8bitdashboard.com/)
+* [Startpage Emporium](https://startpages.github.io/)
+* [Awesome Startpage](https://github.com/jnmcfly/awesome-startpage)
+* [StartTree](https://github.com/Paul-Houser/StartTree)
+* [Clippingmini](https://www.clippingmini.com/)
+* [Draggo](https://draggo.com/)
+* [Atavi](https://atavi.com/)
+* [Homepage Ninja](https://homepage.ninja/)
+* [Bookmarkee](https://www.bookmarkee.com/)
+* [Pearltrees](https://www.pearltrees.com/)
+* [Lasso](https://www.lasso.net/)
+* [Nextcloud](https://apps.nextcloud.com/apps/bookmarks)
+* [Cling](https://cling.com/)
+* [Symbaloo](https://www.symbaloo.com/)
+* [Tixio](https://tixio.io/)
+* [Bento](https://github.com/migueravila/Bento)
+* [ez.lol](https://ez.lol/)
+* [nightly](https://github.com/damnitharshit/nightly)
+* [Protopage](https://www.protopage.com/)
+* [tilde](https://github.com/xvvvyz/tilde)
+* [Homepage](https://github.com/Jaredk3nt/homepage)
+* [Fluidity](https://github.com/PrettyCoffee/fluidity)
+* [AllMyFaves](https://allmyfaves.com/)
+
+***
+
+## Customizable New Tab Page
+
+* ⭐ **[Tabiverse](https://tabiverse.com/)** - Universe New Tab Page / [Discord](https://discord.gg/MUgRGwE)
+* ⭐ **[Tab with A view](https://www.withaview.co/ext/)** - Virtual Sights New Tab Page
+* ⭐ **[MineWeather](https://github.com/sawyerpollard/MineWeather)** - Weather-Based Minecraft New Tab Page
+* [Minimal Startpage](https://github.com/deepjyoti30/startpage)
+* [nightTab](https://github.com/zombieFox/nightTab)
+* [hexagonTab](https://github.com/zombieFox/hexagonTab)
+* [CaretTab](https://www.carettab.com/)
+* [mesmerized](https://mesmerized.me/)
+* [Bonjourr](https://bonjourr.fr/)
+* [Perfect Home](https://github.com/perfect-things/perfect-home)
+* [Yet Another Speed Dial](https://github.com/conceptualspace/yet-another-speed-dial)
+* [Tabliss](https://tabliss.io/)
+* [Epiboard](https://github.com/Alexays/Epiboard)
+* [Infinity New Tab](https://en.infinitynewtab.com/)
+* [b2ntp](https://d3ward.github.io/b2ntp/)
+* [Terminal-style new tab page](https://github.com/midnitefox/Nord-Theme-Ports-and-Assets/tree/main/custom-start-page)
+
