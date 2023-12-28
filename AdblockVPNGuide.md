@@ -483,6 +483,7 @@
 * [VPN Book](https://www.vpnbook.com/webproxy)
 * [Hidester](https://hidester.com/proxy/)
 * [CroxyProxy](https://www.croxyproxy.com/)
+* [SSLSecureProxy](https://www.sslsecureproxy.com/)
 * [ProxyPx](https://www.proxypx.com/)
 * [ProxySite](https://www.proxysite.cc/) 
 * [ProxyOf2](https://proxyof2.com/)
