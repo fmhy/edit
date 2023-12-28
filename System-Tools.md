@@ -24,6 +24,7 @@
 * [SuperF4](https://stefansundin.github.io/superf4/), [KillProcess](https://www.tgmdev.be/applications/killprocess/killprocess.php) or [FKill](https://github.com/sindresorhus/fkill-cli) - Process Killers
 * [Dependencies](https://github.com/lucasg/Dependencies) - View Application Dependencies
 * [RegExp](https://github.com/zodiacon/TotalRegistry), [ripgrep-all](https://github.com/phiresky/ripgrep-all) or [Registry-Finder](https://registry-finder.com/) - Registry Explorers
+* [WinbIndex](https://winbindex.m417z.com/) - Windows System Files / Binaries
 * [OfflineInsiderEnroll](https://github.com/abbodi1406/offlineinsiderenroll) - Enable Windows Insider without Account
 * [OpenHab](https://www.openhab.org/) - Home Automation / [Setup](https://github.com/openhab/openhabian) / [Mobile](https://github.com/openhab/openhab-android)
 * [Google Assistant Desktop Client](https://github.com/Melvin-Abraham/Google-Assistant-Unofficial-Desktop-Client) or [Home Assistant](https://www.home-assistant.io/) - Home Assistant Client / [GUI](https://github.com/LAB02-Research/HASS.Agent)
@@ -99,7 +100,6 @@
 * [Silent Install](https://www.silentinstall.org/) - Build Multi-Program Installers
 * [Patch My PC](https://patchmypc.com/home-updater)
 * [WinInstall](https://winstall.app/)
-* [Scoop The Installer](https://github.com/couleur-tweak-tips/the-installer)
 * [RuckZuck](https://ruckzuck.tools/)
 * [0Install](https://0install.net/)
 * [portableapps](https://portableapps.com/download)
@@ -312,7 +312,7 @@
 * [ICM](https://rentry.co/ICM) or [ICC Profiles](https://tftcentral.co.uk/articles/icc_profiles) - ICC Profiles and Monitor Calibration
 * [Dimmer](https://www.nelsonpires.com/software/dimmer) or [Monitorian](https://github.com/emoacht/Monitorian) - Multi-Monitor Brightness Control
 * [Twinkle Tray](https://twinkletray.com/) - System Tray Brightness Slider
-* [All Black Screen](https://allblackscreen.com/) - Make Screen Black
+* [WhiteScreen](https://www.whitescreen.online/) - Screen Color Test
 * [Dead.Pixel](https://lcdtech.info/en/tests/dead.pixel.htm) - Dead Pixel Test
 * [JScreenFix](https://www.jscreenfix.com/) - Repair Stuck Pixels
 * [CenterOfMyScreen](https://centerofmyscreen.com/) - Find Center of Monitor
