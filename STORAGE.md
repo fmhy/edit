@@ -1113,7 +1113,6 @@ http://104.131.175.196:8080/, http://70.88.180.169:8088/, http://207.237.122.161
 * https://bingewatch.to/
 * https://www.divicast.com/
 * https://theflixer.tv/
-* https://myflixer.link/
 * https://myflixer.pw/
 * https://myflixertv.to/
 * https://ainiesta.com/
