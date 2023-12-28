@@ -148,7 +148,7 @@
 * [HTML5 video player enhanced script](https://greasyfork.org/en/scripts/381682-html5)
 * [Plyr](https://plyr.io/) - Online HTML5, YouTube and Vimeo Player / [GitHub](https://github.com/sampotts/plyr)
 * [PiP-Tool](https://github.com/LionelJouin/PiP-Tool) - Use Picture-in-Picture on All Videos
-* [Marauder](https://github.com/Makeshift/Marauder) or [PlayVideo](https://playvideos.pages.dev/) - GDrive Video Players
+* [PlayVideo](https://playvideos.pages.dev/) - GDrive Video Players
 * [MotionMonkey](https://omega.gg/MotionMonkey/) - Stream Online Videos in Player
 * [StreamLink](https://streamlink.github.io/) - Extract Videos from Sites to Players / [Twitch Adblock](https://github.com/2bc4/streamlink-ttvlol)
 * [Hohoema](https://github.com/tor4kichi/Hohoema) - Nico Nico Video Player
