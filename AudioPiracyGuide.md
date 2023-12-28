@@ -350,7 +350,7 @@
 * [spotify_sync](https://github.com/jbh-cloud/spotify_sync) - Direct Downloader
 * [OnTheSpot](https://github.com/casualsnek/onthespot) - Direct Downloader
 * [SpotifyDown](https://spotifydown.com/) - Direct Downloader
-* [Zotify](https://zotify.xyz/zotify/zotify) - Direct Downloader
+* [Zotify](https://zotify.xyz/) - Direct Downloader
 * [Savify](https://github.com/LaurenceRawlings/savify) - YT Downloader
 * [Spotify-DL](https://github.com/SathyaBhat/spotify-dl) - YT Downloader
 * [spotDL](https://github.com/spotDL/spotify-downloader) - YT Downloader
