@@ -249,7 +249,7 @@ Use a **[Base64 Decoder](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock
 
 #### Math and Physics Books
 
-`aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMVozMC05RU82QjBvRXVGSFlNS1V6enpFTzZwODItZFlV==`
+`aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMVozMC05RU82QjBvRXVGSFlNS1V6enpFTzZwODItZFlV`
 `aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMWprRm5WbzcyUjgxQlM1TFptVlMxSkF6bWZ3MVFwSkE2`
 
 ***
@@ -262,7 +262,7 @@ Use a **[Base64 Decoder](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock
 
 #### BitDL
 
-`aHR0cHM6Ly9wYXN0ZWJpbi5jb20vdHJKdVE2aGQ==`
+`aHR0cHM6Ly9wYXN0ZWJpbi5jb20vdHJKdVE2aGQ`
 
 ***
 
@@ -352,7 +352,7 @@ Use a **[Base64 Decoder](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock
 
 #### Course Megadrives
 
-`aHR0cHM6Ly9tZWdhLm56L2ZvbGRlci9wQWwwd1JLSyNGSVp6Yllqa1RfMDlxUlQ1QlMyR1hR==`
+`aHR0cHM6Ly9tZWdhLm56L2ZvbGRlci9wQWwwd1JLSyNGSVp6Yllqa1RfMDlxUlQ1QlMyR1hR`
 `aHR0cHM6Ly9tZWdhLm56L2ZvbGRlci9pSXNFa2I0QiM0dGROSFVZVEtUSkRlSXhJMkZaRTNB`
 `aHR0cHM6Ly9tZWdhLm56L2ZvbGRlci9zaHB6MEFDUSN0ZHlhUWk5SGNWTS1vS0g5TnhWZXdB`
 `aHR0cHM6Ly9tZWdhLm56L2ZvbGRlci9sbTVsZ1F4VCNRaDUyWXFFMC1rd1BfLWVXb2hNQmJ3`
@@ -530,7 +530,7 @@ Use a **[Base64 Decoder](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock
 
 #### Winrar Licenses
 
-`aHR0cHM6Ly9yZW50cnkuY28veDMtUmF3cg===`
+`aHR0cHM6Ly9yZW50cnkuY28veDMtUmF3cg==`
 `aHR0cHM6Ly9naXRodWIuY29tL0FuZXF1aXQvd2lucmFyLWFjdGl2YXRvcg==`
 `aHR0cHM6Ly9naXRodWIuY29tL2JpdGNvb2tpZXMvd2lucmFyLWtleWdlbg==`
 
@@ -581,7 +581,7 @@ Use a **[Base64 Decoder](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock
 
 #### Microsoft Office DL Guides
 
-`aHR0cHM6Ly9yZW50cnkuY28vb2ZmaWNlLWd1aWRl==`
+`aHR0cHM6Ly9yZW50cnkuY28vb2ZmaWNlLWd1aWRl`
 `aHR0cHM6Ly9yZW50cnkub3JnL0NMRUFOLUlOU1RBTEwtTUlDUk9TT0ZULU9GRklDRQ==`
 
 ***
@@ -670,7 +670,7 @@ Use a **[Base64 Decoder](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock
 
 #### Revival
 
-`aHR0cHM6Ly9yZXZpdmFsLmF3ZXN0cnVjay53b3JrZXJzLmRldi8==`
+`aHR0cHM6Ly9yZXZpdmFsLmF3ZXN0cnVjay53b3JrZXJzLmRldi8=`
 `aHR0cHM6Ly9yZXZpdmFsLmF3ZXN0cnVjay53b3JrZXJzLmRldi8wOi8=`
 
 ***
@@ -713,7 +713,7 @@ Use a **[Base64 Decoder](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock
 
 #### r/moviegod
 
-`aHR0cHM6Ly93d3cucmVkZGl0LmNvbS9yL2E6dDVfZ2pnODcvdG9wLz90PWFsbCA==`
+`aHR0cHM6Ly93d3cucmVkZGl0LmNvbS9yL2E6dDVfZ2pnODcvdG9wLz90PWFsbCA`
 `aHR0cHM6Ly9wYXN0ZWJpbi5jb20vS0NNbVdXTEY=`
 
 ***
@@ -871,7 +871,7 @@ Use a **[Base64 Decoder](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock
 
 #### Colorize Images
 
-`aHR0cHM6Ly9mb3J1bS5tb2JpbGlzbS5vcmcvc2VhcmNoLnBocD9rZXl3b3Jkcz1jb2xvcml6ZStpbWFnZXMrJnRlcm1zPWFsbCZhdXRob3I9JnNjPTEmc2Y9dGl0bGVvbmx5JnNyPXRvcGljcyZzaz10JnNkPWQmc3Q9MCZjaD0zMDAmdD0wJnN1Ym1pdD1TZWFyY2g==`
+`aHR0cHM6Ly9mb3J1bS5tb2JpbGlzbS5vcmcvc2VhcmNoLnBocD9rZXl3b3Jkcz1jb2xvcml6ZStpbWFnZXMrJnRlcm1zPWFsbCZhdXRob3I9JnNjPTEmc2Y9dGl0bGVvbmx5JnNyPXRvcGljcyZzaz10JnNkPWQmc3Q9MCZjaD0zMDAmdD0wJnN1Ym1pdD1TZWFyY2g`
 
 ***
 
