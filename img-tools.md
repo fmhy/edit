@@ -181,7 +181,7 @@
 
 * [AnimeColorDeOldify](https://github.com/Dakini/AnimeColorDeOldify) - Anime Image Colorization
 * [style2paints](https://github.com/lllyasviel/style2paints) - Lineart Colorization
-[Petalica Paint](https://petalica.com/)
+* [Petalica Paint](https://petalica.com/)
 * [MyHeritage In Color](https://www.myheritage.com/incolor)
 * [9Mail Restoration](https://9may.mail.ru/restoration/)
 * [DeOldify](https://github.com/jantic/DeOldify)
