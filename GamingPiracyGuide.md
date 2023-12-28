@@ -935,6 +935,44 @@
 
 ***
 
+## ▷ Game Libraries / Launcher
+
+* ⭐ **[Playnite](https://playnite.link/)** / [Extensions](https://github.com/darklinkpower/PlayniteExtensionsCollection) / [Achievements](https://github.com/Lacro59/playnite-successstory-plugin)
+* ⭐ **[GoG Galaxy](https://www.gog.com/galaxy)**
+* ⭐ **[Project GLD](https://github.com/Y0URD34TH/Project-GLD/)**
+* [Black Pearl Origin](https://github.com/BlackPearlOrigin/blackpearlorigin) / [Plugins](https://bpo-store.github.io/)
+* [Launchbox](https://www.launchbox-app.com/)
+* [GameHub](https://tkashkin.github.io/projects/gamehub/)
+* [Arc](https://www.arcgames.com/en/about/client)
+* [Gnome Games](https://wiki.gnome.org/Apps/Games)
+* [GameVault](https://gamevau.lt)
+
+***
+
+## ▷ Game Mods
+
+* ⭐ **[ModDB](https://moddb.com/)**
+* ⭐ **[Nexus Mods](https://www.nexusmods.com/)** / [Manager](https://github.com/Nexus-Mods/Nexus-Mod-Manager) / [Redirect Skip](https://greasyfork.org/en/scripts/394039)
+* ⭐ **[Modrinth](https://modrinth.com/)** / [Redirector](https://github.com/devBoi76/modrinthify)
+* [ProAsm](http://www.proasm.com/) - Retro Game Mods
+* [ZagruzkaMods](https://zagruzkamods.com/), 
+* [NextGenUpdate](https://www.nextgenupdate.com/), 
+* [ModWorkshop](https://modworkshop.net/), 
+* [Video Game Mods](https://videogamemods.com/), 
+* [Silent's Blog](https://cookieplmonster.github.io/mods/index/), 
+* [WabbaJack](https://www.wabbajack.org/) / [Discord](https://discord.com/invite/wabbajack), 
+* [GameFront](https://gamefront.com/)
+* [GameJunkie](https://www.gamejunkie.pro/)
+* [VIP Mods](https://www.vip-mods.com/)
+* [top-mods.ru](https://top-mods.ru/)
+* [vip-mods.ru](https://vip-mods.ru/)
+* [Top Mods](https://www.top-mods.com/)
+* [GameJunkie](https://gamejunkie.ru/)
+* [mod.io](https://www.mod.io/)
+* [GameBanana](https://gamebanana.com/)
+
+***
+
 ## ▷ Optimization Tools
 
 * 🌐 **[PCGamingWiki](https://www.pcgamingwiki.com/)** - Game Optimization Resources / Fixes
