@@ -97,7 +97,6 @@
 * [Chocolatey](https://chocolatey.org/) / [GUI](https://github.com/chocolatey/ChocolateyGUI)
 * [Spinel](https://spinel.ovh/) - Multi-Program Install Script Generator 
 * [Silent Install](https://www.silentinstall.org/) - Build Multi-Program Installers
-* [CouleursToolbox](https://github.com/couleurm/couleurstoolbox)
 * [Patch My PC](https://patchmypc.com/home-updater)
 * [WinInstall](https://winstall.app/)
 * [Scoop The Installer](https://github.com/couleur-tweak-tips/the-installer)
@@ -123,7 +122,6 @@
 * [Alacritty](https://github.com/alacritty/alacritty), [yakuake](https://apps.kde.org/yakuake/), [Fluent Terminal](https://github.com/felixse/FluentTerminal), [Tabby](https://eugeny.github.io/tabby/), [Wives](https://github.com/KRTirtho/wives), [ExtraTerm](https://extraterm.org/) or [Terminus](https://github.com/Eugeny/tabby) - Terminal Emulators
 * [XTerm](https://invisible-island.net/xterm/) - X Window System Terminal Emulator
 * [Mintty](https://mintty.github.io/) - Cygwin Terminal Emulator 
-* [eDEX-UI](https://github.com/GitSquared/edex-ui) - Sci-Fi Terminal Emulator / System Monitor
 * [termbin](https://termbin.com/) - Terminal Output Pastebin
 * [GetDNote](https://www.getdnote.com/) - Command Line Notebook
 * [cmder](https://cmder.app) - Console Emulator Package / [Github](https://github.com/cmderdev/cmder)
@@ -195,7 +193,6 @@
 * [nog](https://github.com/TimUntersberger/nog)
 * [bug.n](https://github.com/fuhsjr00/bug.n)
 * [GridMove](https://www.dcmembers.com/jgpaiva/)
-* [Amethyst Windows](https://github.com/glsorre/amethystwindows)
 * [WorkSpacer](https://workspacer.org/)
 * [TileMe](https://gitlab.com/slavoutich/tileme)
 * [GlazeWM](https://github.com/lars-berger/GlazeWM)
@@ -209,7 +206,7 @@
 
 * ⭐ **[VirtualBox](https://www.virtualbox.org/)** / [Portable](https://www.vbox.me/), [Looking Glass](https://looking-glass.io/), [Qemu](https://gitlab.com/qemu-project/qemu), [Hyper-V](https://learn.microsoft.com/en-us/virtualization/hyper-v-on-windows//), [fvwm](https://www.fvwm.org/), [Denodo Test](https://www.denodo.com/en/denodo-platform/test-drives?utm_source=homepage&utm_medium=bn) or [VMware Workstation Player](https://www.vmware.com/products/workstation-player/workstation-player-evaluation.html) - Virtual Machines / [Preinstalled VMS](https://www.osboxes.org/)
 * ⭐ **[Hackintosh](https://hackintosh.com/)**, [Emaculation](https://www.emaculation.com/), [felixrieseberg](https://github.com/felixrieseberg/macintosh.js/) or [OneClick-macOS](https://github.com/notAperson535/OneClick-macOS-Simple-KVM) - MacOS Virtual Machines
-* ⭐ **Hackintosh Tools** - [Guide](https://github.com/dortania/macOS-VMware-Guide), [2](https://www.tonymacx86.com/) / [AMD Guide](https://chefkissinc.github.io/guide) / [Installer](https://github.com/huangyz0918/Hackintosh-Installer-University) / [Ryzen](https://github.com/mikigal/ryzen-hackintosh) / [XiaoMi](https://github.com/daliansky/XiaoMi-Pro-Hackintosh)
+* ⭐ **Hackintosh Tools** - [Guide](https://github.com/dortania/macOS-VMware-Guide), [2](https://www.tonymacx86.com/) / [AMD Guide](https://chefkissinc.github.io/guide) / [Ryzen](https://github.com/mikigal/ryzen-hackintosh) / [XiaoMi](https://github.com/daliansky/XiaoMi-Pro-Hackintosh)
 * [Virt-Manager](https://virt-manager.org/) or [Vagrantup](https://www.vagrantup.com/) - Virtual Machine Managers
 * [CollabVM](https://computernewb.com/collab-vm/) - Online Virtual Machines
 * [Virtual PC](https://www.microsoft.com/en-us/download/details.aspx?id=3243) - Windows XP Virtual Machine
@@ -381,7 +378,7 @@
 
 * ⭐ **[ChangeWindows](https://www.changewindows.org/timeline)** - Latest Windows Update Info
 * ⭐ **[VCRedist](https://github.com/abbodi1406/vcredist)** - AIO Repack for Microsoft Visual C++ Redists
-* [Wu10Man](https://github.com/WereDev/Wu10Man), [stopupdates10](https://greatis.com/stopupdates10/), [InControl](https://www.grc.com/incontrol.htm) or [windows-update-blocker](https://www.sordum.org/9470/windows-update-blocker-v1-7/) - Enable / Disable Windows 10 Updates
+* [stopupdates10](https://greatis.com/stopupdates10/), [InControl](https://www.grc.com/incontrol.htm) or [windows-update-blocker](https://www.sordum.org/9470/windows-update-blocker-v1-7/) - Enable / Disable Windows 10 Updates
 * [LegacyUpdate](https://legacyupdate.net/) - Fix Windows Updates for Legacy Editions
 * [Extended Win 7 Updates](https://forums.mydigitallife.net/threads/bypass-windows-7-extended-security-updates-eligibility.80606) - Extended Windows 7 Updates
 * [WUReset](https://wureset.com/) - Reset Windows Update Components
@@ -471,7 +468,7 @@
 * [SecuredUxTheme](https://github.com/namazso/SecureUxTheme) or [UltraUXThemePatcher](https://mhoefs.eu/software_uxtheme.php?ref=syssel&lang=en) - Ux Theme Patcher
 * [7TSP GUI](https://www.deviantart.com/devillnside/art/7TSP-GUI-2019-Edition-804769422) - Theme Source Patcher
 * [Windows 11 for Windows 10](https://www.deviantart.com/niivu/art/Windows-11-for-Windows-10-882819383) - Windows 11 Theme / [Icons](https://www.deviantart.com/niivu/art/Windows-11-Icon-Themes-874289797)
-* [ClassicServ](https://discord.com/invite/GqFJs2cXDQ) or [SimpleClassicTheme](https://simpleclassictheme.nl/) - Classic Windows Theme
+* [SimpleClassicTheme](https://simpleclassictheme.nl/) - Classic Windows Theme
 * [BasicThemer2](https://github.com/Ingan121/BasicThemer2) - Windows 7 Theme
 * [Winmoes](https://winmoes.com/) - Anime Windows Themes / Wallpapers
 * [Desktops](https://deskto.ps/) - OS Theme Examples
@@ -479,7 +476,6 @@
 * [Macdows11](https://redd.it/pd5ha6) - Windows 11 Mac Theme Guide
 * [macOS-cursors-for-Windows](https://github.com/antiden/macOS-cursors-for-Windows) - MacOS Cursors for Windows
 * [AccentColorizer](https://github.com/krlvm/AccentColorizer) - Custom Windows Accent Color
-* [Accent Applicator](https://github.com/mcdenis/AccentApplicator) - Applies Win 10 Accent Color to OS
 * [TranslucentFlyouts](https://github.com/ALTaleX531/TranslucentFlyouts) - Translucent Context Menus
 * [TranslucentTB](https://github.com/TranslucentTB/TranslucentTB) - Translucent Windows Taskbar
 * [RetroBar](https://github.com/dremin/RetroBar) - Retro Classic Taskbars
