@@ -11,7 +11,7 @@
 
 # ► Linux Distros
 
-**Note** - We don't keep or curate individual linux distros ourselves, as we feel the indexes below are high enough quality on their own.
+**Note** - We don't curate individual distros ourselves as we feel the indexes listed are good enough to stand on their own. 
 
 ***
 
