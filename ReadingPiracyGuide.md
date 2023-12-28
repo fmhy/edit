@@ -177,7 +177,6 @@
 ## ▷ Religion / Esoterica
 
 * 🌐 **[Sacred Text Archive](https://sacred-texts.com/)** - Religion / Mythology / Folklore / Esoterica
-* 🌐 **[ARCHIVES](https://discord.gg/occult)** - Occult / Witchcraft / Religion
 * 🌐 **[/r/Echerdex](https://www.reddit.com/r/Echerdex/)** - Esoterica / [Repository](https://github.com/nbats/FMHYedit/blob/main/base64.md#echerdex-repository) / [Discord](https://discord.gg/dS5X3d7ype)
 * 🌐 **[WiLd's Occult Ebook Sources](https://github.com/nbats/FMHYedit/blob/main/base64.md#wilds-occult-ebook-sources)** - Occult / Esoterica
 * ↪️ **[Esoterica Archive](https://github.com/nbats/FMHYedit/blob/main/base64.md#archive)**
@@ -643,7 +642,7 @@
 
 * ⭐ **[ReadComicsOnline](https://readcomiconline.li/)**
 * ⭐ **[ReadAllComics](https://readallcomics.com/)**
-* ⭐ **[GetComics](https://getcomics.org/)** - Download Comics / [Discord](https://discord.gg/bSvFhwJ)
+* ⭐ **[GetComics](https://getcomics.org/)** - Download Comics
 * ⭐ **[ComicExtra](https://comicextra.me/)** or [Comic Online Free](https://comiconlinefree.org/)
 * ⭐ **[ComicBookPlus](https://comicbookplus.com/)** - Golden Age Comics
 * ⭐ **[Explosm](https://explosm.net/rcg)** - Cyanide & Happiness Web Comics
@@ -1022,7 +1021,6 @@
 * [Thorium](https://www.edrlab.org/software/thorium-reader/) - Ebook Reader / PC / Mac / Linux
 * [CoolReader](https://github.com/buggins/coolreader) - Ebook Reader / PC / Linux
 * [Icecream eBook Reader](https://icecreamapps.com/Ebook-Reader/) - Ebook Reader / PC
-* [Eplee](https://github.com/Janglee123/eplee) - Ebook Reader / PC
 * [Okular](https://okular.kde.org/) - PDF / Linux / PC / Mac
 * [Foliate](https://johnfactotum.github.io/foliate/) - Ebook Reader / Linux
 * [Buka](https://github.com/oguzhaninan/Buka) - Ebook Reader / Linux
