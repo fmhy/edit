@@ -12,7 +12,7 @@
 * [Rollideo](https://rollideo.com/) - Text to Subbed Video
 * [Video Llava](https://replicate.com/nateraw/video-llava) - Video Description AI
 * [Anime4K](https://github.com/bloc97/Anime4K) - Anime Video Upscaler
-* [VideoSmaller](https://www.videosmaller.com/), [Compress Video Online](https://compress-video-online.com/), [8mb.video](https://8mb.video/) or [MP4Compress](https://www.mp4compress.com/) - Video Compressors
+* [TinyVid](https://kamua.com/tinyvid), [VideoSmaller](https://www.videosmaller.com/), [Compress Video Online](https://compress-video-online.com/), [8mb.video](https://8mb.video/) or [MP4Compress](https://www.mp4compress.com/) - Video Compressors
 * [videoduplicatefinder](https://github.com/0x90d/videoduplicatefinder) - Duplicate Video Finder
 * [SimSwap](https://github.com/neuralchen/SimSwap) or [Roop](https://github.com/s0md3v/roop) - Video Face Swap Tools
 * [deepware](https://scanner.deepware.ai/) - Detect Deepfake Videos
