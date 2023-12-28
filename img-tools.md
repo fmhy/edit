@@ -202,7 +202,7 @@
 * [NoiseDeck](https://noisedeck.app/) - Art Generator
 * [Hugin](https://hugin.sourceforge.io/) - Panorama Image Generator
 * [PhotoEphemeris](https://photoephemeris.com/) - Photography Sunlight Calculator
-* [SuperDesigner](https://superdesigner.co/) - Background / Pattern Designer
+* [SuperDesigner](https://superdesigner.co/) or [Pattern Ninja](https://patterninja.com/) - Background / Pattern Designers
 * [Noise & Gradient](https://www.noiseandgradient.com/), [Gradient Designer](https://gradient-designer.csspost.com/), [BGJar](https://bgjar.com/), [MeshGradient](https://meshgradient.in/) or [BGGenerator](https://bggenerator.com/) - Background / Gradient Generators
 * [MakeTintAndShade](https://maketintsandshades.com/) - Tint and Shade Generator
 * [Rarebit](https://rarebit.neocities.org/) - Webcomics Template
@@ -354,7 +354,7 @@
 * [MariaLetta](https://github.com/MariaLetta/mega-doodles-pack) - Free Doodles
 * [Watercolor Collection](https://github.com/nbats/FMHYedit/blob/main/base64.md#watercolor-collection) - Download Watercolor Pictures
 * [googleimagerestored](https://git.sr.ht/~fanfare/googleimagesrestored) - Old Google Image Search 
-* [Block Posters](https://www.blockposters.com/) - Create Printable Posters
+* [Block Posters](https://www.blockposters.com/) or [Rasterbator](https://rasterbator.net/) - Create Printable Posters
 
 ***
 
@@ -479,6 +479,7 @@
 * ⭐ **[ImgOps](https://imgops.com/)** - Image Operations Meta-Tool
 * ⭐ **[AntiDupl](https://github.com/ermig1979/AntiDupl)** or [cbird](https://github.com/scrubbbbs/cbird) - Duplicate Image Removers
 * ⭐ **[Muzli](https://search.muz.li/)** - Design Inspiration Search
+* [PhotoFeeler](https://www.photofeeler.com/) - Get Photo Feedback
 * [Picviewer CE+](https://github.com/hoothin/UserScripts/tree/master/Picviewer%20CE+) - Turn Webpages into Image Galleries
 * [Binternet](https://github.com/Ahwxorg/Binternet) - Pinterest Frontend
 * [DataFilm](http://datafilm.io/) - Notebook for Film Photographers
@@ -494,7 +495,7 @@
 * [Lithophane](https://3dp.rocks/lithophane) - Image to Lithophane Converter
 * [Handwriting-OCR](https://github.com/Breta01/handwriting-ocr) - Handwriting Image to Text
 * [WhatTheFont](https://www.myfonts.com/) - Find Font from Image
-* [Watermarkly](https://watermarkly.com/) or [Watermarkup](https://watermarkup.com/watermark.html) - Image Watermarking
+* [RemoveWatermark](https://removewatermark.ai/), [Watermarkly](https://watermarkly.com/) or [Watermarkup](https://watermarkup.com/watermark.html) - Image Watermarking
 * [Watermark Remover Online](https://www.aiseesoft.com/watermark-remover-online/) or [Watermark Remover](https://www.watermarkremover.io/) - Watermark Removal
 * [Glaze](https://glaze.cs.uchicago.edu/index.html) - Protect Digital Art from AI Copies
 * [FPNG](https://github.com/richgel999/fpng) - PNG Reader / Writer
@@ -509,7 +510,6 @@
 * [Camera Wiki](http://camera-wiki.org/) - Camera Model Wiki
 * [Canon Camera Museum](https://global.canon/en/c-museum/camera-series.html) - History of Canon Cameras
 * [Something to Draw](https://something-to-draw.com/) - Find Things to Draw
-* [narrative](https://narrative.so/)
 * [3D Printed Mirror Array](https://github.com/bencbartlett/3D-printed-mirror-array) - Sunlight Pattern Mirror Array
 * [Make Photo Gallery](https://makephotogallery.net/) - Collage Creator
 * [The Slideshow](https://theslideshow.net/) - Google Image Slideshow
@@ -532,6 +532,7 @@
 * [Fragment](https://www.fragmentapp.info/)
 * [HoneyView](https://en.bandisoft.com/honeyview/)
 * [picturama](https://picturama.github.io/)
+* [narrative](https://narrative.so/)
 * [BeeRef](https://beeref.org/) - Reference Image Viewer
 * [HDRView](https://github.com/wkjarosz/hdrview) - HDR Image Viewer
 * [FlipFlip](https://github.com/ififfy/flipflip/) - Image Slideshow
