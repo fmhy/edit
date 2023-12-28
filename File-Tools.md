@@ -171,6 +171,26 @@
 
 ***
 
+## ▷ File Encryption
+
+* [Yubikey Full Disk Encryption](https://github.com/agherzan/yubikey-full-disk-encryption) - Use YubiKey to unlock a LUKS partition
+* [VeraCrypt](https://www.veracrypt.fr/en/Home.html)
+* [CryptSetup](https://gitlab.com/cryptsetup/cryptsetup)
+* [EncFS MP](https://encfsmp.sourceforge.io/index.html) 
+* [Hat](https://hat.sh/)
+* [GNUPG](https://gnupg.org/)
+* [GPG4Win](https://www.gpg4win.org/)
+* [Encrypto](https://macpaw.com/encrypto)
+* [FreeCrypt](https://freecrypt.org/)
+* [Vmola](https://vmola.com/)
+* [Kryptor](https://www.kryptor.co.uk/)
+* [SecureFolderFS](https://github.com/securefolderfs-community/SecureFolderFS)
+* [wdcrypt](https://github.com/stefins/wdcrypt)
+* [Picocrypt](https://github.com/HACKERALERT/Picocrypt)
+* [age](https://github.com/FiloSottile/age)
+
+***
+
 ## ▷ Backup / Recovery
 
 * ⭐ **[TestDisk](https://www.cgsecurity.org/wiki/TestDisk)** - File Recovery
@@ -198,6 +218,22 @@
 * [Windows File Recovery](https://apps.microsoft.com/store/detail/windows-file-recovery/9N26S50LN705) - File Recovery
 * [DMDE](https://dmde.com/download.html) - File Recovery
 * [Recuva](https://www.ccleaner.com/recuva) - File Recovery
+
+***
+
+## ▷ File Deletion
+
+* **Note** - These just delete files, if you're looking for security and to leave no file traces, its best to encypt the whole disk instead.
+
+* ⭐ **[SDelete](https://learn.microsoft.com/en-us/sysinternals/downloads/sdelete)**
+* [Eraser](https://eraser.heidi.ie/)
+* [File Shredder](https://fileshredder.org/)
+* [SSuite File Shredder and Burner](https://www.ssuiteoffice.com/software/ssuitefileshredder.htm)
+* [Low Level Format](https://www.lowlevelformat.info/)
+* [Alternate File Shredder](https://www.alternate-tools.com/pages/c_fileshredder.php?lang=ENG)
+* [Permadelete](https://developerstree.github.io/permadelete/)
+* [nwipe](https://github.com/martijnvanbrummelen/nwipe)
+* [ShredOS](https://github.com/PartialVolume/shredos.x86_64)
 
 ***
 
