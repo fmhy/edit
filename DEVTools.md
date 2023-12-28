@@ -1031,7 +1031,7 @@
 * 🌐 **[Awesome-Discord-Communities](https://github.com/mhxion/awesome-discord-communities)** - Discord Communities 
 * 🌐 **[Programming-Telegram-Group](https://github.com/hendisantika/List-All-Programming-Telegram-Group)** - Telegram Communities
 * 🌐 **[Awesome Twitter Accounts](https://github.com/yask123/AwesomeTwitterAccounts)** or [Awesome Twitter Communities](https://github.com/mattn/awesome-twitter-communities) - Twitter Communities
-* ⭐ **[Starcoder](https://huggingface.co/spaces/bigcode/bigcode-playground)**, [TurboPilot](https://github.com/ravenscroftj/turbopilot) or [Safurai](https://www.safurai.com/) / [Discord](https://discord.com/invite/JYXue8DD4w) - Auto-Code Completion
+* ⭐ **[Starcoder](https://huggingface.co/spaces/bigcode/bigcode-playground)** or [Safurai](https://www.safurai.com/) / [Discord](https://discord.com/invite/JYXue8DD4w) - Auto-Code Completion
 * ⭐ **[Literally Anything](https://www.literallyanything.io/)** - Generate Code via Prompts
 * ⭐ **[RevShells](https://www.revshells.com/)** - Reverse Shell Generator
 * ⭐ **[JSON Hero](https://jsonhero.io/)**, [Jayson](https://apps.apple.com/us/app/jayson/id1447750768) or [JSONView](https://jsonview.com/) - JSON Viewers / Editors
@@ -1062,7 +1062,6 @@
 * [Shell Cloud](https://shell.cloud.google.com/) - Google Cloud Shell Environment
 * [BrickHub](https://brickhub.dev/) - Share Code Brick Templates
 * [ShellcodeTemplate](https://github.com/Cracked5pider/ShellcodeTemplate) - Modifiable Shellcode Template 
-* [Spork](https://github.com/atek-cloud/spork) - P2P Sockets CLI / [Discord](https://discord.gg/UUCVrFYksv)
 * [egui](https://github.com/emilk/egui) - Rust GUI
 * [This Week in Rust](https://this-week-in-rust.org/) - Rust News / Updates
 * [Diskord](https://gitlab.com/diskord/diskord) - Kotlin API Client for Discord
