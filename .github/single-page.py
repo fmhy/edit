@@ -1,18 +1,20 @@
 import glob
 import time
 
+
 def output():
     read = glob.glob("*.md")
     content = ""
     nsfw_content = ""
     for file in read:
-        if file != "README.md":
+        if file != "README.md" or file != "feedback.md":
             with open(file, "r") as f:
-                if "nsfw" in file.lower():
+                if "NSFWPiracy.md" == file:
                     nsfw_content += f.read()
                     continue
                 content += f.read()
     return content + nsfw_content
+
 
 def main():
     content = output()

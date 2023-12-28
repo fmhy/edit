@@ -1,7 +1,7 @@
 import { defineConfig } from "vitepress";
 import UnoCSS from "unocss/vite";
 import { presetUno, presetAttributify, presetIcons } from "unocss";
-import { commitRef, meta, socials } from "./constants";
+import { commitRef, feedback, meta, socials } from "./constants";
 import { generateImages, generateMeta } from "./hooks";
 import { toggleStarredPlugin } from "./markdown/toggleStarred";
 import { base64DecodePlugin } from "./markdown/base64";
@@ -101,7 +101,7 @@ export default defineConfig({
       provider: "local",
     },
     footer: {
-      message: `Made with ❤️ (rev: ${commitRef})`,
+      message: `${feedback} (rev: ${commitRef})`,
     },
     outline: "deep",
     logo: "/fmhy.ico",
