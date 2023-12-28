@@ -1315,12 +1315,6 @@ http://104.131.175.196:8080/, http://70.88.180.169:8088/, http://207.237.122.161
 
 ***
 
-## Waifu2x Tools
-
-[Guide](https://i.ibb.co/1MXJNPB/2eb637667b02.png) / [Colab](https://colab.research.google.com/drive/1RjyCk30cc24ez1-a1Qa3CP3g_yk9AJwq) / [GUI](https://github.com/YukihoAA/waifu2x_snowshell/releases), [2](https://github.com/nihui/waifu2x-ncnn-vulkan),  [3](https://github.com/AaronFeng753/Waifu2x-Extension-GUI) / [WebUI](https://unlimited.waifu2x.net/), [2](https://waifu2x.booru.pics/), [3](https://waifu2x.pro/), [4](https://waifu2x.udp.jp/), [5](https://waifu2x.org/), [6](https://waifuxl.com/)
-
-***
-
 ## Website Creators
 
 [vitepress](https://vitepress.dev/), [retype](https://retype.com/), [codeberg](https://codeberg.page/), [GoHugo](https://gohugo.io/), [SouPalt](https://soupault.app/), [Barly](https://github.com/charludo/barely), [Zola](https://www.getzola.org/), [Jamstack Generators](https://jamstack.org/generators/), [Jekyll](https://jekyllrb.com/), [Tails](https://devdojo.com/tails), [vveb](https://www.vvveb.com/), [Potion](https://potion.so/), [8b](https://8b.com/), [WebFlow](https://webflow.com/), [EasyLogic](https://www.easylogic.studio/), [Universe](https://onuniverse.com/), [Website.com](https://www.website.com/), [GrapeDrop](https://grapedrop.com/), [Specctr](https://specctr.com/cloud/home), [Astro](https://astro.build/), [TypeDream](https://typedream.com/), [Processwire](https://processwire.com/), [Google Sites](https://sites.google.com/new), [AngelFire](https://www.angelfire.lycos.com/)

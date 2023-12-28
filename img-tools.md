@@ -93,6 +93,7 @@
 ## ▷ Upscale / Restore
 
 * ⭐ **[Waifu2x](https://github.com/nagadomi/waifu2x)** - Anime Image Upscaling / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_waifu2x_tools)
+* ⭐ **Waifu2x Tools** - [GUI](https://github.com/YukihoAA/waifu2x_snowshell/releases), [2](https://github.com/nihui/waifu2x-ncnn-vulkan),  [3](https://github.com/AaronFeng753/Waifu2x-Extension-GUI) / [WebUI](https://unlimited.waifu2x.net/), [2](https://waifu2x.booru.pics/), [3](https://waifu2x.pro/), [4](https://waifu2x.udp.jp/), [5](https://waifu2x.org/), [6](https://waifuxl.com/) / [Colab](https://colab.research.google.com/drive/1RjyCk30cc24ez1-a1Qa3CP3g_yk9AJwq)
 * ⭐ **[chaiNNer](https://github.com/chaiNNer-org/chaiNNer)** - Image Upscaling
 * ⭐ **[Upscale Wiki](https://upscale.wiki/wiki/Main_Page)** - Image Upscaling Wiki
 * ⭐ **[OpenModelDB](https://openmodeldb.info/)** - AI Upscaling Model Database
