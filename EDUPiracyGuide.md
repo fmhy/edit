@@ -6,6 +6,7 @@
 
 # ► Documentaries
 
+* ⭐ **[IHaveNoTV](https://ihavenotv.com)**
 * ⭐ **[DocumentaryArea](https://www.documentaryarea.tv/)**
 * ⭐ **[1337x Documentaries](https://1337x.to/top-100-documentaries)**
 * [LearnOutLoud](https://www.learnoutloud.com/)
@@ -253,7 +254,6 @@
 * [masterWiki](https://masterwiki.how/) - MasterClass Classes Republished as wikiHow Articles
 * [Listenable](https://apps.apple.com/us/app/listenable-learn-with-audio/id1492810539) - 5-Minute Audio Lessons / iOS
 * [LabXchange](https://www.labxchange.org/) or [EduMedia](https://www.edumedia-sciences.com/en/) - Interactive Science Simulations
-* [Answers.com](https://www.answers.com/) or [Quora](https://www.quora.com/) / [Bypass](https://redd.it/ywml2b) / [Frontend](https://github.com/zyachel/quetre) - Q&A Communities
 * [Plickers](https://get.plickers.com/) - Q&A Results App
 * [AnswerSocrates](https://answersocrates.com/) - Most Asked Questions on Google
 * [Kialo](https://www.kialo.com/) or [Level Point](https://levelpoint.app/) - Debates / Discussion
@@ -718,8 +718,6 @@
 * [clozemaster](https://www.clozemaster.com/) - Context Based Language Learning
 * [Sounter](https://sounter.com/), [LingoClip](https://lingoclip.com/) or [LyricFluent](https://lyricfluent.com/) - Learn Languages via Music
 * [IPA Reader](http://ipa-reader.xyz/) - International Phonetic Alphabet Reader
-* [youglish](https://youglish.com/) - YouTube Word Pronunciations
-* [Forvo](https://forvo.com/) or [HowJSay](https://howjsay.com/) - Pronunciation Dictionary
 * [Language Roadmap](https://languageroadmap.com/) - Foreign Language Media Difficulty Guide
 * [Hey! Lingo](https://www.heylingo.com/) or [LearnWithOliver](https://www.learnwitholiver.com/) - Language Learning Flashcards
 * [MyLanguages](https://mylanguages.org/) - Grammar / Vocabulary Language Learning
@@ -728,13 +726,14 @@
 * [wehewehe](https://wehewehe.org/) - Hawaiian Dictionary
 * [Polyglot](https://polyglotclub.com/) - Offline Language Exchange
 
-
 ***
 
 ## ▷ English
 
 * 🌐 **[Many Things](http://www.manythings.org/)** - ESL Resources
 * 🌐 **[ESOL](https://www.esolcourses.com/)** - English Learning Resources
+* [youglish](https://youglish.com/) or [YouDict](https://youdict.co/) - YouTube Word Pronunciations
+* [Forvo](https://forvo.com/) or [HowJSay](https://howjsay.com/) - Pronunciation Dictionary
 * [The Internet TESL Journal](http://iteslj.org/) - Resources for EFL and ESL Teachers
 * [EFSET](https://www.efset.org/) - English Proficiency Test
 * [Learn English Online](https://www.learn-english-online.org/), [ESLFast](https://www.eslfast.com/), [AntiMoon](https://www.antimoon.com/), [Oxford Online](https://www.oxfordonlineenglish.com/free-english-lessons) or [Cambridge Online](https://www.cambridgeenglish.org/learning-english/) - English Lessons
@@ -981,6 +980,7 @@
 * [Netblocks](https://netblocks.org/cost/) - Find Impact of Internet Shutdown on Economy
 * [LittleSis](https://littlesis.org/) - Business / Government Connections Data
 * [World Births and Deaths](https://worldbirthsanddeaths.com/) - World Birth / Death Rates Visualization
+* [MalaCards](https://www.malacards.org/) - Human Disease Database
 * [DataUNODC](https://dataunodc.un.org/) - Drug / Crime Statistics
 * [Gun Violence Archive](https://www.gunviolencearchive.org/) - Gun Violence Information Database
 * [Incarceration in Real Numbers](https://mkorostoff.github.io/incarceration-in-real-numbers/) - Incarceration Visualization / Facts
