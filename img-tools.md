@@ -327,7 +327,6 @@
 * ↪️ **[Image Download Extensions](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_image_download_extensions)**
 * ↪️ **[Reverse Image Search](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_reverse_image_search)**
 * ↪️ **[Random Images](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_random_generators)**
-* ↪️ **[Stock Photo Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_stock_photo_sites)** - [Multi-Site Search](https://chromewebstore.google.com/detail/stocks-house/mpdkicmbmbljbgncgphonhgjebnapfop)
 * ↪️ **[AI Galleries](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/ai#wiki_.25B7_prompts_.2F_galleries)**
 * ↪️ **[Icon Download Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_icon_download_sites)**
 * ↪️ **[Media Covers / Posters](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_covers_.2F_posters)**
@@ -360,7 +359,34 @@
 
 ***
 
-## ▷ Artwork
+##  ▷ Stock Photo Sites
+
+* 🌐 **[Awesome Stock Resources](https://github.com/neutraltone/awesome-stock-resources#photography)** - Stock Photo Index
+* ⭐ **[EveryPixel](https://www.everypixel.com/)** or [LibreStock](https://librestock.com/) - Stock Photo Search Engines
+* ⭐ **[GetPaidStock](https://getpaidstock.com/)**, **[Downloader.la](https://downloader.la/)**, [VisualHunt](https://visualhunt.com/) or [istock](https://istock.7xm.xyz/) - Download Paid Stock Photos for Free
+* [Smithsonian Open Access](https://www.si.edu/OpenAccess) - Smithsonian High Quality Photos
+* [desirefx](https://desirefx.me/category/stock_images/) - Stock Photo Overlays
+* [creativity103](https://creativity103.com/) - Abstract Background Photos
+* [freenaturestock](https://freenaturestock.com/) - Nature Photos
+* [Warren Photographic](https://www.warrenphotographic.co.uk/index.php) - Animal Photos
+* [diverseui](https://diverseui.com/) - Human Face Photos
+* [Foodiesfeed](https://www.foodiesfeed.com/) - Food Photos
+* [iwaria](https://iwaria.com/) - African Photos
+* [Freely Photos](https://www.freelyphotos.com/) - Christian Photos
+* [twnsnd](https://nos.twnsnd.co/) - Vintage Photos
+* [PNGIMG](https://pngimg.com/) or [stickpng](https://www.stickpng.com/) - PNG Photos
+* [gfxmountain](https://gfxmountain.com/stock-photos/) - Stock Photo Collections
+* [Flickr Commons](https://www.flickr.com/commons) / [Downloader](https://github.com/beaufour/flickr-download) - Public Photo Archives
+* [Shutterstock Premium](https://t.me/shutterstockpremium), [freestockphotos](https://t.me/freestockphotos) or [Shutter](https://t.me/Shutter) - Shutterstock Telegram Downloaders
+* [themeisle](https://mystock.themeisle.com/), [burst](https://burst.shopify.com/), [focastock](https://focastock.com/), [4freephotos](https://www.4freephotos.com/) or [Pikwizard](https://pikwizard.com/) - Misc Stock Photos
+* [Nohat](https://nohat.cc/), [FreeImages](https://www.freeimages.com/), [cgispread](https://cgispread.com/), [Vecteezy](https://www.vecteezy.com/) or [FreeDesignFile](https://freedesignfile.com/) - Misc Stock Photos / Vectors
+* [argfx](https://argfx.co/), [publicdomainvectors](https://publicdomainvectors.org/), [Free Vector](https://www.freevector.com/), [freevectors](https://www.freevectors.net/) or [vector4free](https://www.vector4free.com/) - Misc Vectors
+* [VectorPortal](https://www.vectorportal.com/) - Vector Collections
+* [123freevectors](https://www.123freevectors.com/) - Background Vectors
+
+***
+
+## ▷ Art / Illustrations
 
 * ⭐ **[Kemono](https://kemono.su/)** - Patreon Content / Some NSFW / Use Adblock
 * ⭐ **[DeviantArt](https://www.deviantart.com/)** - Western Fanart / [Downloader](https://github.com/NC22/KellyC-Image-Downloader)
@@ -371,8 +397,12 @@
 * ⭐ **[booruwf](https://booru.pixiv.pics/)** - Booru Aggregator / [Alternate Layout](https://moeview.pixiv.pics/) / [Github](https://github.com/asadahimeka/booruwf-web)
 * [ArtStation](https://www.artstation.com/) / [Downloader](https://github.com/findix/ArtStationDownloader)
 * [Gelbooru](https://gelbooru.com/), [Safebooru](https://safebooru.org/) or [TBIB](https://tbib.org/) - Image Boorus
-* [Anime Pictures](https://anime-pictures.net/), [ZeroChan](https://zerochan.net/) or [/w/](http://catalog.neet.tv/w/) - Anime Wallpapers
-* [Studio Ghibli Wallapers](https://www.ghibli.jp/info/013772/) - Studio Ghibli Wallapers
+* [icons8](https://icons8.com/illustrations), [3D Illustrations](https://3d.khagwal.co/), [3dbay](https://clouddevs.com/3dbay/) or [NS-illustration-pack](https://github.com/nsobolewart/NS-illustration-pack) - 3D Illustrations
+* [StorySet](https://storyset.com/), [unDraw](https://undraw.co/illustrations), [blush](https://blush.design/) or [Humaaans](https://www.humaaans.com/) - Customizable Illustrations
+* [Pastel](https://usepastel.com/marker-illustrations) - Marker Illustrations
+* [Fresh Folk](https://fresh-folk.com/) - Illustrations of People
+* [free-gophers-pack](https://github.com/MariaLetta/free-gophers-pack) - Gophers Illustrations
+* [reshot](https://www.reshot.com/), [freeillustrations](https://freeillustrations.xyz/), [DrawKit](https://www.drawkit.io/), [NiceIllustrations](https://niceillustrations.com/free-illustrations/) or [manypixels](https://www.manypixels.co/gallery) - Misc Illustrations
 * [OldBookIllustrations](https://www.oldbookillustrations.com/) - Illustrations from Old Books
 * [Plant Illustrations](http://www.plantillustrations.org/) - Plant Illustrations
 * [Flexbooru](https://github.com/flexbooru/flexbooru), [BooruSphere](https://github.com/nullxception/boorusphere), [Yummybooru](https://github.com/Yochyo/Yummybooru) or [Animes Boxes](https://animebox.es/) - Booru Clients / [Telegram](https://t.me/Flexbooru/161)
