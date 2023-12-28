@@ -1228,33 +1228,50 @@ http://104.131.175.196:8080/, http://70.88.180.169:8088/, http://207.237.122.161
 
 ## Stock Photo Sites
 
-⭐ **[EveryPixel](https://www.everypixel.com/)**
+* 🌐 **[Awesome Stock Resources](https://github.com/neutraltone/awesome-stock-resources#photography)** - Stock Photo Index
+* ⭐ **[EveryPixel](https://www.everypixel.com/)** or [LibreStock](https://librestock.com/) - Stock Photo Search Engines
+* ⭐ **[GetPaidStock](https://getpaidstock.com/)**, **[Downloader.la](https://downloader.la/)**, [VisualHunt](https://visualhunt.com/) or [istock](https://istock.7xm.xyz/) - Download Paid Stock Photos for Free
+* [Smithsonian Open Access](https://www.si.edu/OpenAccess) - Smithsonian High Quality Photos
+* [desirefx](https://desirefx.me/category/stock_images/) - Stock Photo Overlays
+* [creativity103](https://creativity103.com/) - Abstract Background Photos
+* [freenaturestock](https://freenaturestock.com/) - Nature Photos
+* [Warren Photographic](https://www.warrenphotographic.co.uk/index.php) - Animal Photos
+* [diverseui](https://diverseui.com/) - Human Face Photos
+* [Foodiesfeed](https://www.foodiesfeed.com/) - Food Photos
+* [iwaria](https://iwaria.com/) - African Photos
+* [Freely Photos](https://www.freelyphotos.com/) - Christian Photos
+* [twnsnd](https://nos.twnsnd.co/) - Vintage Photos
+* [PNGIMG](https://pngimg.com/) or [stickpng](https://www.stickpng.com/) - PNG Photos
+* [gfxmountain](https://gfxmountain.com/stock-photos/) - Stock Photo Collections
+* [Flickr Commons](https://www.flickr.com/commons) / [Downloader](https://github.com/beaufour/flickr-download) - Public Photo Archives
+* [Shutterstock Premium](https://t.me/shutterstockpremium), [freestockphotos](https://t.me/freestockphotos) or [Shutter](https://t.me/Shutter) - Shutterstock Telegram Downloaders
+* [themeisle](https://mystock.themeisle.com/), [burst](https://burst.shopify.com/), [focastock](https://focastock.com/), [4freephotos](https://www.4freephotos.com/) or [Pikwizard](https://pikwizard.com/) - Misc Stock Photos
+* [Nohat](https://nohat.cc/), [FreeImages](https://www.freeimages.com/), [cgispread](https://cgispread.com/), [Vecteezy](https://www.vecteezy.com/) or [FreeDesignFile](https://freedesignfile.com/) - Misc Stock Photos / Vectors
+* [argfx](https://argfx.co/), [publicdomainvectors](https://publicdomainvectors.org/), [Free Vector](https://www.freevector.com/), [freevectors](https://www.freevectors.net/) or [vector4free](https://www.vector4free.com/) - Misc Vectors
+* [VectorPortal](https://www.vectorportal.com/) - Vector Collections
+* [123freevectors](https://www.123freevectors.com/) - Background Vectors
 
-[Awesome Stock Resources](https://github.com/neutraltone/awesome-stock-resources), [Unsplash](https://unsplash.com), [Nohat](https://nohat.cc/), [Pexels](https://www.pexels.com/), [PixaBay](https://pixabay.com/), [PNGIMG (png)](https://pngimg.com/), [StockSnap](https://stocksnap.io/), [allthefreestock](https://allthefreestock.com/), [altphotos](https://altphotos.com/), [goodfreephotos](https://www.goodfreephotos.com/), [morguefile](https://morguefile.com/photos), [desirefx](https://desirefx.me/category/stock_images/), [icons8](https://icons8.com/illustrations) / [2](https://icons8.com/photos), [gfxmountain](https://gfxmountain.com/stock-photos/), [all-free-download](https://all-free-download.com/free-photos/), [freepik](https://www.freepik.com/) / [Drive](https://drive.google.com/drive/folders/1PlgpG_QVXYK82eZgqAxT4I_8UsRUgTa5), [creativity103](https://creativity103.com/), [photos8](https://photos8.com/), [reshot](https://www.reshot.com/), [creativecommons](https://search.creativecommons.org/), [DreamsTime](https://www.dreamstime.com/free-photos), [OpenAccess](https://www.si.edu/OpenAccess), [LibreStock](https://librestock.com/), [FreeImages](https://www.freeimages.com/), [PixelMob](https://pixelmob.co/), [StorySet](https://storyset.com/), [behance](https://www.behance.net/), [barnimages](https://barnimages.com/blog/freebies/), [gratisography](https://gratisography.com/), [freeillustrations](https://freeillustrations.xyz/), [kaboompics](https://kaboompics.com/), [picjumbo](https://picjumbo.com/), [negativespace](https://negativespace.co/), [burst](https://burst.shopify.com/), [barnimages](https://barnimages.com/), [skuawk](https://skuawk.com/index.html), [undraw](https://undraw.co/), [rawpixel](https://www.rawpixel.com/), [drawkit](https://www.drawkit.io/), [cgispread](https://cgispread.com/), [unblast](https://www.unblast.com/), [freedesignfile](https://freedesignfile.com/), [argfx](https://argfx.co/), [skitterphoto](https://skitterphoto.com/), [copyrightfreephotos](https://www.copyrightfreephotos.com/), [libreshot](https://libreshot.com/), [themeisle](https://mystock.themeisle.com/), [pxfuel](https://www.pxfuel.com/), [depositphotos](https://depositphotos.com/), [foodiesfeed](https://www.foodiesfeed.com/) (Food), [Illustrations](https://mega.nz/file/d8ES0RxT#r6WMKTc8kdthij76J8f2p0fsTHQZ0GvUxs82olNDLqU), [Objects](https://mega.nz/file/A9ciGb6J#ZermRxtupsNMdFT7JS3myfRKOTuyByqRZpOWWwY-nOM), [Humaaans](https://www.humaaans.com/), [blush](https://blush.design/), [cupcake](https://cupcake.nilssonlee.se/), [magdeleine](https://magdeleine.co/), [littlevisuals](https://littlevisuals.co/), [picography](https://picography.co/), [stickpng](https://www.stickpng.com/), [lifeofpix](https://www.lifeofpix.com/), [diverseui](https://diverseui.com/) (Human Faces), [designerspics](http://www.designerspics.com/), [travelcoffeebook](https://travelcoffeebook.com/), [publicdomainarchive](https://publicdomainarchive.com/), [twnsnd](https://nos.twnsnd.co/), [moveast](https://moveast.me/), [focastock](https://focastock.com/), [jeshoots](https://jeshoots.com/), [isorepublic](https://isorepublic.com/), [digitalcollections](https://digitalcollections.nypl.org/), [flickr](https://www.flickr.com/commons) / [Downloader](https://github.com/beaufour/flickr-download), [startupstockphotos](https://startupstockphotos.com/), [shutteroo](https://shutteroo.com/), [photostockeditor](https://photostockeditor.com/), [photober](https://www.photober.com/), [freerangestock](https://freerangestock.com/), [stockified](https://www.stockified.com/), [snappygoat](https://snappygoat.com/), [realisticshots](https://realisticshots.com/), [pickupimage](https://pickupimage.com/), [jaymantri](https://jaymantri.com/), [freelyphotos](https://www.freelyphotos.com/), [crowthestone](https://crowthestone.tumblr.com/), [cc0](https://cc0.photo/), [photoeverywhere](https://photoeverywhere.co.uk/), [freejpg](https://en.freejpg.com.ar/), [getrefe](https://getrefe.tumblr.com/), [titania](https://www.titania-foto.com/), [opendoodles](https://www.opendoodles.com/), [thestocks](https://thestocks.im/), [sitebuilderreport](https://stockup.sitebuilderreport.com/), [avopix](https://avopix.com/), [openverse](https://openverse.org/), [drawkit](https://drawkit.com/), [3D Illustrations](https://3d.khagwal.co/), [3dbay](https://clouddevs.com/3dbay/), [pixeltrue](https://www.pixeltrue.com/free-illustrations), [marker-illustrations](https://usepastel.com/marker-illustrations), [free-gophers-pack](https://github.com/MariaLetta/free-gophers-pack), [vecteezy](https://www.vecteezy.com/free-photos), [warrenphotographic](https://www.warrenphotographic.co.uk/index.php) (Animals), [freenaturestock](https://freenaturestock.com/) (Nature), [4freephotos](https://www.4freephotos.com/), [niceillustrations](https://niceillustrations.com/free-illustrations/), [NS-illustration-pack](https://github.com/nsobolewart/NS-illustration-pack), [manypixels](https://www.manypixels.co/gallery), [fresh-folk](https://fresh-folk.com/), [iwaria](https://iwaria.com/), [stockvault](https://www.stockvault.net/), [slon.pics](https://www.slon.pics/), [pikwizard](https://pikwizard.com/), [aerophotostock](https://www.aerophotostock.com/), [freestocks](https://freestocks.org/)
+### Illustration Sites
 
-### Vectors
-
-[vectorportal](https://www.vectorportal.com/), [publicdomainvectors](https://publicdomainvectors.org/), [vecteezy](https://www.vecteezy.com/), [123freevectors](https://www.123freevectors.com/), [freevector](https://www.freevector.com/), [freevectors](https://www.freevectors.net/), [free-vectors](https://free-vectors.com/), [vector4free](https://www.vector4free.com/)
-
-### Telegrams
-
-[Shutterstock Premium](https://t.me/shutterstockpremium), [Free Shutterstock](https://t.me/freeshutter), [freestockphotos](https://t.me/freestockphotos), [Shutter](https://t.me/Shutter)
-
-### Downloaders
-
-* ⭐ **[GetPaidStock](https://getpaidstock.com/)**
-* ⭐ **[Downloader.la](https://downloader.la/)**
-
-[visualhunt](https://visualhunt.com/), [istock](https://istock.7xm.xyz/), [ChkCut](https://t.me/+1Sv-rAmiqwVkZTE0)
+* [icons8](https://icons8.com/illustrations), [3D Illustrations](https://3d.khagwal.co/), [3dbay](https://clouddevs.com/3dbay/) or [NS-illustration-pack](https://github.com/nsobolewart/NS-illustration-pack) - 3D Illustrations
+* [StorySet](https://storyset.com/), [unDraw](https://undraw.co/illustrations), [blush](https://blush.design/) or [Humaaans](https://www.humaaans.com/) - Customizable Illustrations
+* [Pastel](https://usepastel.com/marker-illustrations) - Marker Illustrations
+* [Fresh Folk](https://fresh-folk.com/) - Illustrations of People
+* [free-gophers-pack](https://github.com/MariaLetta/free-gophers-pack) - Gophers Illustrations
+* [reshot](https://www.reshot.com/), [freeillustrations](https://freeillustrations.xyz/), [DrawKit](https://www.drawkit.io/), [NiceIllustrations](https://niceillustrations.com/free-illustrations/) or [manypixels](https://www.manypixels.co/gallery) - Misc Illustrations
 
 ***
 
 ## Stock Video Sites
 
-* ⭐ **[VidsPlay](https://www.vidsplay.com/)**
-* [4K Media](https://4kmedia.org/) - 4K
-
-[Awesome Stock Resources](https://github.com/neutraltone/awesome-stock-resources), [Mixkit](https://mixkit.co/), [Coverr](https://coverr.co/), [BeachFrontBroll](https://www.beachfrontbroll.com/), [Videvo](https://www.videvo.net/), [CuteStockFootage](https://cutestockfootage.com/), [VidEezy](https://www.videezy.com/), [Vecteezy](https://www.vecteezy.com/), [Mazwai](https://mazwai.com/), [Pexels Video](https://www.pexels.com/videos/), [Life of Vids](https://www.lifeofvids.com/), [FreeHD](https://vimeo.com/groups/freehd/), [veed.io](https://www.veed.io/videos), [DroneStock](https://dronestock.com/), [MotionPlaces](https://www.motionplaces.com/), [cutestockfootage](https://cutestockfootage.com/free), [motionarray](https://motionarray.com/browse/stock-video/?free=true), [mitchmartinez](https://mitchmartinez.com/free-4k-red-epic-stock-footage/), [Dareful](https://dareful.com/), [CuteStock](https://ineedfx.com/), [Monzoom](https://www.monzoom.com/), [MovieTools](https://movietools.info/)
+* 🌐 **[Awesome Stock Resources](https://github.com/neutraltone/awesome-stock-resources#videos)** or **[CuteStockFootage](https://cutestockfootage.com/free/video)** - Stock Video Indexes
+* ⭐ **[VidsPlay](https://www.vidsplay.com/)** - Stock Videos
+* [4K Media](https://4kmedia.org/), [Dareful](https://dareful.com/) or [Monzoom](https://www.monzoom.com/) - 4K Quality Stock Videos
+* [BeachFrontBroll](https://www.beachfrontbroll.com/), [Videvo](https://www.videvo.net/), [veed.io](https://www.veed.io/videos) or [MitchMartinez](https://mitchmartinez.com/free-4k-red-epic-stock-footage/) - Misc Stock Videos
+* [MotionPlaces](https://www.motionplaces.com/) - Worldwide Stock Videos
+* [DroneStock](https://dronestock.com/) - Drone Video Footage
+* [MovieTools](https://movietools.info/) - Video Loops
+* [ineedfx](https://ineedfx.com/) - VFX
 
 ***
 
