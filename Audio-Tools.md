@@ -37,7 +37,6 @@
 * [Mousai](https://github.com/SeaDve/Mousai)
 * [AudioTag](https://audiotag.info/)
 * [WatZatSong](https://www.watzatsong.com/en)
-* [FolkTuneFinder](https://www.folktunefinder.com/) - Folk Tunes
 * [Dejavu](https://github.com/worldveil/dejavu) - Python
 * [Audd](https://audd.io/) - API
 
