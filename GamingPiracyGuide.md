@@ -686,8 +686,6 @@
 
 ## ▷ Mod Indexes
 
-* 🌐 **[FlingTrainer](https://flingtrainer.com/)** - Game Mods / Trainers Index
-* 🌐 **[Otis_Inf Camera Mods](https://redd.it/hvttbd)** - Game Camera Mods Index
 * ⭐ **[ModDB](https://moddb.com/)** - Game Mods
 * ⭐**[Nexus Mods](https://www.nexusmods.com/)** - Game Mods / [Manager](https://github.com/Nexus-Mods/Nexus-Mod-Manager) / [Redirect Skip](https://greasyfork.org/en/scripts/394039)
 * [NextGenUpdate](https://www.nextgenupdate.com/) - Game Mods
@@ -696,6 +694,8 @@
 * [Video Game Mods](https://videogamemods.com/) - Game Mods
 * [GameBanana](https://gamebanana.com/) - Game Mods
 * [Silent's Blog](https://cookieplmonster.github.io/mods/index/) - Game Mods / Patches
+* [FlingTrainer](https://flingtrainer.com/) - Game Mods / Trainers
+* [Otis_Inf Camera Mods](https://redd.it/hvttbd) - Game Camera Mods Index
 * [ProAsm](http://www.proasm.com/) - Retro Game Mods
 * [Top Mods](https://www.top-mods.com/) - PC Game Mods
 * [Realm667](https://www.realm667.com/index.php/en/) - Doom Mods
