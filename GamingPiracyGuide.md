@@ -267,7 +267,7 @@
 * [Ship of Harkinian](https://github.com/HarbourMasters/Shipwright) - Ocarina of Time PC Port
 * [Super Mario Bros Crossover](https://archive.org/details/SuperMarioCrossoverOffline) - Play SMB with Alternative Characters
 * [perfect_dark](https://github.com/fgsfdsfgs/perfect_dark), [2](https://github.com/n64decomp/perfect_dark) - Perfect Dark Decompilation
-* [sm64](https://github.com/n64decomp/sm64) - Super Mario 64 Decompilation / [Guide](https://youtu.be/rQVpfWYT0eg) 
+* [sm64](https://github.com/n64decomp/sm64) - Super Mario 64 Decompilation
 * [wide-snes](https://github.com/VitorVilela7/wide-snes) - Widescreen Super Mario World
 * [Dats.site](https://dats.site/) or [No Intro](https://no-intro.org/) - ROM .dat Files
 * [Dat-O-Matic](https://datomatic.no-intro.org/index.php) - ROM Datasets
@@ -506,7 +506,6 @@
 * [AllBad.Cards](https://bad.cards/) or [CardsAgainstFormality](https://cardsagainstformality.io/) - Cards Against Humanity Online 
 * [Wikidata Card Game Generator](https://cardgame.blinry.org/) - Generate "Top Trumps" Cards with Wikidata
 * [Solitaired](https://solitaired.com/) or [Solitr](https://www.solitr.com/) - Solitaire
-* [Free Spider Solitaire](https://freespidersolitaire.io/) - Spider Solitaire
 * [Mah-Jongg](https://www.mah-jongg.ch/) or [Mahjong4Friends](https://mahjong4friends.com/) - Mahjong Games
 * [Blackjack Break](https://blackjackbreak.com/) or [HTML5 Blackjack](https://www.html5blackjack.net/) - Browser Blackjack
 * [Poker Now](https://www.pokernow.club/) or [247 Free Poker](https://www.247freepoker.com/) - Multiplayer Poker
