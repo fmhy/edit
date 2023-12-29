@@ -135,7 +135,6 @@
 * [EmbyCrack](https://github.com/ultranijia/EmbyCrack) - Lift Emby Restrictions
 * [Bangumi](https://bangumi.tv/), [2](https://chii.in/) - Media Database / [Android Client](https://github.com/czy0729/Bangumi)
 * [TopHub](https://tophub.today/) or [Chinadaily](https://cn.chinadaily.com.cn/) - News
-* [SooPAT](http://www2.soopat.com/) - Patent Search
 * [Diaosi Forum](https://assbbs.com/) - Piracy Discussion Forum
 * [V2EX](https://v2ex.com/) or [ZongScan](https://www.zongscan.com/) - Programming Forum
 * [FE Hunter](https://github.com/BetaSu/fe-hunter) - Programming Question Bounties
@@ -315,7 +314,6 @@
 * [FilesSeekr](https://w7w.files-seekr.com/) - Search Warez Sites
 * [WawaCity](https://www.wawacity.fit/) - Video / Audio / Books / Games / Use Adblocker
 * [BookDDL](http://www.bookddl.com/) - Books / Magazines / Newspapers / Audiobooks
-* [DBFree](https://dbfree.me/) - Books
 * [FRDownMags](https://fr.downmagaz.net/) - Magazines
 * [Abandonware France](https://www.abandonware-france.org/index.php) - Abandonware
 * [TousLesDrivers](https://www.touslesdrivers.com/) - Drivers
