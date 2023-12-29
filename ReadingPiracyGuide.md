@@ -104,7 +104,6 @@
 * [Ur Books Hub](https://urbookshub.com/) - Books
 * [ebooksz](https://ebooksz.net/) - Books
 * [English E-Reader](https://english-e-reader.net/) - Books
-* [BookPDF](https://en.bookpdf.org/) - Books
 * [E-Books Directory](https://www.e-booksdirectory.com/) - Books
 * [Free-eBooks](https://www.free-ebooks.net/best-books) - Books
 * [eBookHunter.net](https://www.ebookhunter.net/) - Books
@@ -823,7 +822,6 @@
 * [Henkan Epubs](https://henkanepubs.wordpress.com/)
 * [LNWNCentral](https://lnwncentral.wordpress.com/)
 * [WebNovel.com](https://www.webnovel.com/)
-* [Octiopii](https://octopii.co/)
 * [AsianHobbyist](https://www.asianhobbyist.com/)
 * [Read Light Novel](https://www.readlightnovel.me/)
 * [List Novel](https://listnovel.com/)
@@ -1059,7 +1057,7 @@
 * ↪️ **[Summary Generators](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools#wiki_.25B7_text_rephrasing)**
 * ⭐ **[ChatPDF](https://www.chatpdf.com/)**, [PaperBrain](https://www.paperbrain.study/) or [Ask Your PDF](https://askyourpdf.com/) - Turn PDFs into Chatbots
 * ⭐ **[Talk to Books](https://books.google.com/talktobooks/)** - AI Book Quote Search
-* ⭐ **[PlayText](https://playtext.app/)**, [AccelaReader](https://accelareader.com/), [Jiffy](https://www.jiffyreader.com/), [SwiftRead](https://swiftread.com/), [Notation](https://github.com/numanzamandipuu/Notation) or [SpeedRead](https://github.com/pasky/speedread) - Speed Reading Tools
+* ⭐**[Spreeder](https://www.spreeder.com/app.php?intro=1)**, [PlayText](https://playtext.app/), [AccelaReader](https://accelareader.com/), [Jiffy](https://www.jiffyreader.com/), [SwiftRead](https://swiftread.com/), [Notation](https://github.com/numanzamandipuu/Notation) or [SpeedRead](https://github.com/pasky/speedread) - Speed Reading Tools
 * ⭐ **[arch1ve](https://rentry.org/arch1ve)** or [Borrowing Picture Books](https://redd.it/fm1xpw) - Download Borrow Only Archive.org Books / [Script](https://redd.it/ofcqds)
 * ⭐ **[Kindle Comic Converter](https://github.com/ciromattia/kcc)** - Multi-Format Converter
 * ⭐ **[papeer](https://papeer.tech/)** or [epub-creator](https://github.com/NiklasGollenstede/epub-creator) - Webpage to EPUB Converter
