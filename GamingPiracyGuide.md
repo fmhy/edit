@@ -640,7 +640,7 @@
 * [GeoArtwork](https://artsandculture.google.com/experiment/geo-artwork/wgEPVBAUiRVlEQ) - Guess Origins of Cultural Artifacts 
 * [English Sandwhich](https://englishsandwich.github.io/) - Guess Where Dishes are From
 * [FlightGuesser](https://flightguesser.com/) - Flight Path Guessing Game
-* [WTM](https://whatthemovie.com/), [RT Daily](https://www.rottentomatoes.com/daily/) or [Framed](https://framed.wtf/)
+* [WTM](https://whatthemovie.com/), [RT Daily](https://www.rottentomatoes.com/daily/) or [Framed](https://framed.wtf/) - Movie Guessing Games
 * [Music Challenge](https://pudding.cool/2020/04/music-challenge/) - Song Guessing Games
 * [DanceMusic](http://dancemusic.wtf/) - Electronic Music Genre Guessing Game
 * [Guess My Rank](https://guessmyrank.com/) - Guess Player Game Ranks
