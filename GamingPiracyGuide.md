@@ -135,6 +135,15 @@
 
 ***
 
+## ▷ Game Soundtracks
+
+* [Khinsider](https://downloads.khinsider.com/) / [Downloader](https://github.com/obskyr/khinsider), [2](https://github.com/weespin/KhinsiderDownloader) - Game Soundtracks / MP3
+* [RetroTracks](https://retro.sx/) or [VGMPF](https://www.vgmpf.com/Wiki/index.php) - Retro Game Soundtracks / MP3
+* [VGMRips](https://vgmrips.net/packs/) or [Zophar's](https://www.zophar.net/music) - Retro Game Music Rips / VGM
+* [GameOST](https://gameost.net/) or [Roland SC-55](https://sc55.duke4.net/games.php) - Misc Game Soundtracks / MP3
+
+***
+
 ## ▷ [Linux Games](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/linux#wiki_.25B7_linux_gaming)
 
 ***
@@ -785,25 +794,33 @@
 
 # ► Game Mods
 
-* 🌐 **[FlingTrainer](https://flingtrainer.com/)** - Game Mods / Trainers
-* 🌐 **[Otis_Inf Camera Mods](https://redd.it/hvttbd)** - Game Camera Mods
-* ↪️ **[Game Mod Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_game_mods)**
+* 🌐 **[FlingTrainer](https://flingtrainer.com/)** - Game Mods / Trainers Index
+* 🌐 **[Otis_Inf Camera Mods](https://redd.it/hvttbd)** - Game Camera Mods Index
 * ⭐ **[ChronoCrash](https://www.chronocrash.com/forum/)** - Game Modding Forum
+* ⭐ **[ModDB](https://moddb.com/)** or **[Nexus Mods](https://www.nexusmods.com/)** / [Manager](https://github.com/Nexus-Mods/Nexus-Mod-Manager) / [Redirect Skip](https://greasyfork.org/en/scripts/394039) - Misc Game Mods
+* ⭐ **[Modrinth](https://modrinth.com/)** / [Redirector](https://github.com/devBoi76/modrinthify) - Minecraft Mods
+* [ProAsm](http://www.proasm.com/) - Retro Game Mods
+* [Top Mods](https://www.top-mods.com/) - PC Game Mods
+* [ZagruzkaMods](https://zagruzkamods.com/) or [GameJunkie](https://www.gamejunkie.pro/) - Simulator Game Mods
+* [mod.io](https://www.mod.io/) - Cross Platform Game Mods Support
+* [WabbaJack](https://www.wabbajack.org/) / [Discord](https://discord.com/invite/wabbajack) - Automated Modlist Installer
+* [NextGenUpdate](https://www.nextgenupdate.com/), [ModWorkshop](https://modworkshop.net/), [GameFront](https://gamefront.com/), [Video Game Mods](https://videogamemods.com/) or [GameBanana](https://gamebanana.com/) - Misc Game Mods
+* [Silent's Blog](https://cookieplmonster.github.io/mods/index/) - Misc Game Mods / Patches
 * [HedgeModManager](https://github.com/thesupersonic16/HedgeModManager) - Sonic Game Mod Manager
 * [Hidden Fallout 4 Mods](https://rentry.co/89gads), [2](https://docs.google.com/document/d/1Im5Mg-l2btRsYVOjaJa0slrjDcXNvi41J5pHw_Zuwqw/edit?usp=sharing) - Fallout 4 Mods Removed from Nexus
 * [OpenFortress](https://openfortress.fun/) - Team Fortress 2 Mod
 * [TF2 Classic](https://tf2classic.com/) - Team Fortress 2 Classic Mod
 * [Rekt](https://discord.com/invite/HqjQFCp) - Black Ops 1 Mod Projects
-* [Plutonium](https://plutonium.pw/) - Black Ops 2 & MW3 Mod Project / [Discord](https://discord.gg/d95y8ah)
+* [Plutonium](https://plutonium.pw/) - Black Ops 2 / MW3 Mod Project / [Discord](https://discord.gg/d95y8ah)
 * [UGX Mods](https://www.ugx-mods.com/) - COD Zombies Mods / [Discord](https://discord.gg/g9S2nSp)
 * [Project Reality](https://www.realitymod.com/about) - BF2 & ARMA 2 Realism Mod
 * [BF3Reality](https://bf3reality.com/) - BF3 Realism Mod
-* [VeniceUnleashed](https://veniceunleashed.net/) (BF3) and [Warsaw-Revamped](https://warsaw-revamped.com/) (BF4) - Battlefield Mod Projects
+* [VeniceUnleashed - BF3](https://veniceunleashed.net/) or [Warsaw-Revamped - BF4](https://warsaw-revamped.com/) - Battlefield Mod Projects
 * [Open Carnage](https://opencarnage.net/) / [Discord](https://discord.com/invite/2pf3Yjb), [Reclaimers](https://reclaimers.net/) or [Halo Mods](https://discord.com/invite/WuurKwr) - Halo Modding Community
 * [Halo 3](https://store.steampowered.com/app/1695791/Halo_3_Mod_Tools__MCC/), [Halo 2](https://store.steampowered.com/app/1613450/Halo_2_Mod_Tools__MCC/) or [Halo CE](https://store.steampowered.com/app/1532190/Halo_CE_Mod_Tools__MCC/) - Halo Modding Tools
 * [H2Maps](https://www.h2maps.net/) - Custom Halo 2 Maps
 * [HaloMaps](http://www.halomaps.org/) - Halo CE Maps
-* [Flatout 2 Fan Patch](https://steamcommunity.com/sharedfiles/filedetails/?id=2414295888) - Patch for Flatout 2
+* [Flatout 2 Fan Patch](https://steamcommunity.com/sharedfiles/filedetails/?id=2414295888) - Flatout 2 Patches
 * [SWAT: Elite Force](https://www.moddb.com/mods/swat-elite-force) - Swat 4 Enhancement Mod
 * [Realm667](https://www.realm667.com/index.php/en/) - Doom Mods
 * [SLADE](https://slade.mancubus.net/) - Doom Modding Tool / [GitHub](https://github.com/sirjuddington/SLADE)
@@ -867,7 +884,6 @@
 
 # ► Gaming Tools
 
-* ↪️ **[Game Libraries / Launchers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_game_libraries_.2F_launcher)**
 * ↪️ **[Media Posters / Covers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_covers_.2F_posters)**
 * ⭐ **[Library of Codexes](https://libraryofcodexes.com/)** - Game Codex Library
 * ⭐ **[HowLongToBeat](https://howlongtobeat.com/)** - Find Average Game Lengths
@@ -932,6 +948,18 @@
 * [Arcade Controls](http://arcadecontrols.com/arcade.htm) - DIY Arcade Controls
 * [AltCtrls](https://altctrls.info/) - Custom Controller Crafting Resources
 * [How Denuvo Works](https://rentry.co/denuvo) or [Reverse Engineer Denuvo V4](https://drive.google.com/file/d/1CupcQMOyxbtNUGGSnq8xhIZIxhDzToFT/)
+
+***
+
+## ▷ Game Libraries / Launchers
+
+* ⭐ **[Playnite](https://playnite.link/)** / [Extensions](https://github.com/darklinkpower/PlayniteExtensionsCollection) / [Achievements](https://github.com/Lacro59/playnite-successstory-plugin) - Game Library / Launcher
+* ⭐ **[GoG Galaxy](https://www.gog.com/galaxy)** or **[Project GLD](https://github.com/Y0URD34TH/Project-GLD/)** - Game Libraries / Launchers
+* [Black Pearl Origin](https://github.com/BlackPearlOrigin/blackpearlorigin) / [Plugins](https://bpo-store.github.io/) - Cross Platform Game Library / Launcher
+* [Launchbox](https://www.launchbox-app.com/) - Retro / Console Game Library / Launcher
+* [GameHub](https://tkashkin.github.io/projects/gamehub/) or [Gnome Games](https://wiki.gnome.org/Apps/Games) - Linux Game Libraries / Launchers
+* [Arc](https://www.arcgames.com/en/about/client) - Gearbox Game Launcher / Library
+* [GameVault](https://gamevau.lt) - Self-hosted Gaming Platform
 
 ***
 

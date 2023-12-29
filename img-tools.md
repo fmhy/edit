@@ -92,7 +92,6 @@
 
 ## ▷ Upscale / Restore
 
-* ↪️ **[Colorize Images](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_image_colorization)** - Image Colorization Tools
 * ⭐ **[Waifu2x](https://github.com/nagadomi/waifu2x)** - Anime Image Upscaling / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_waifu2x_tools)
 * ⭐ **[chaiNNer](https://github.com/chaiNNer-org/chaiNNer)** - Image Upscaling
 * ⭐ **[Upscale Wiki](https://upscale.wiki/wiki/Main_Page)** - Image Upscaling Wiki
@@ -125,6 +124,16 @@
 * [QualityScaler](https://github.com/Djdefrag/QualityScaler) - Image Upscaling
 * [GFPGAN](https://github.com/TencentARC/GFPGAN) - Face Upscaling
 * [resdet](https://github.com/0x09/resdet) - Detect if an Image is Upscaled
+
+***
+
+## ▷ Image Colorization
+
+* [AnimeColorDeOldify](https://github.com/Dakini/AnimeColorDeOldify) - Anime / Manga Image Colorization
+* [style2paints](https://github.com/lllyasviel/style2paints) - Lineart Colorization
+* [Petalica Paint](https://petalica.com/), [playback](https://playback.fm/colorize-photo), [cutout](https://www.cutout.pro/photo-colorizer-black-and-white), [hotpot](https://hotpot.ai/colorize-picture) or [Colorizer](https://deepai.org/machine-learning-model/colorizer) - Online Image Colorization
+* [DeOldify](https://github.com/jantic/DeOldify) - Image / Video Colorization
+* [imagecolorizer](https://imagecolorizer.com/) - Image Colorization / Restoration
 
 ***
 
@@ -473,7 +482,6 @@
 * 🌐 **[Creator Resources](https://www.newgrounds.com/wiki/creator-resources/)** - Art / Animation Resources
 * 🌐 **[Awesome Colab Notebooks](https://github.com/amrzv/awesome-colab-notebooks)** - Image Colab Resources
 * ↪️ **[Multi-Tool Image Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_multi_image_tool_sites)**
-* ↪️ **[Image Text Extraction](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_image_to_text)**
 * ↪️ **[Color Scheme Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/dev-tools#wiki_.25B7_color_schemes)** -  [Guide](https://i.ibb.co/cCRn3y1/5eb0a8de7dac.jpg)
 * ↪️ **[Color Pickers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_color_pickers)**
 * ⭐ **[ImgOps](https://imgops.com/)** - Image Operations Meta-Tool
@@ -493,7 +501,6 @@
 * [behind!](https://github.com/kubuzetto/behind) - View Background Images
 * [Visual Center](https://javier.xyz/visual-center/) - Find the Visual Center of an Image
 * [Lithophane](https://3dp.rocks/lithophane) - Image to Lithophane Converter
-* [Handwriting-OCR](https://github.com/Breta01/handwriting-ocr) - Handwriting Image to Text
 * [WhatTheFont](https://www.myfonts.com/) - Find Font from Image
 * [RemoveWatermark](https://removewatermark.ai/), [Watermarkly](https://watermarkly.com/) or [Watermarkup](https://watermarkup.com/watermark.html) - Image Watermarking
 * [Watermark Remover Online](https://www.aiseesoft.com/watermark-remover-online/) or [Watermark Remover](https://www.watermarkremover.io/) - Watermark Removal
@@ -513,6 +520,19 @@
 * [3D Printed Mirror Array](https://github.com/bencbartlett/3D-printed-mirror-array) - Sunlight Pattern Mirror Array
 * [Make Photo Gallery](https://makephotogallery.net/) - Collage Creator
 * [The Slideshow](https://theslideshow.net/) - Google Image Slideshow
+
+***
+
+## ▷ Image to Text / OCR
+
+* ⭐ **[Capture2Text](https://capture2text.sourceforge.net/)** - OCR Desktop App
+* ⭐ **[Text Grab](https://github.com/TheJoeFin/Text-Grab)** - Minimal OCR Windows Tool
+* ⭐ **[i2ocr](https://www.i2ocr.com/)** or **[OCR.SPACE](https://ocr.space/)** - Online OCRs
+* [TextShot](https://github.com/ianzhao05/textshot) - Cross Platform OCR
+* [ImageScanOCR](https://github.com/ttop32/ImageScanOCR) - Windows OCR Tool
+* [Handwriting-OCR](https://github.com/Breta01/handwriting-ocr) - Handwriting OCR
+* [Project Naptha](https://projectnaptha.com/) - Automatic OCR while Browsing Images
+* [2OCR](https://2ocr.com/), [OnlineOCR](https://onlineocr.org/), [NewOCR](https://www.newocr.com/), [Extract Text from Image](https://brandfolder.com/workbench/extract-text-from-image), [ImageToText](https://www.imagetotext.info/) or [OnlineOCR](https://www.onlineocr.net/) - Online OCRs
 
 ***
 
