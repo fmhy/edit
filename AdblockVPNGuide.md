@@ -156,7 +156,6 @@
 * [PasswordsGenerator](https://passwordsgenerator.net/) - Secure Password Generator
 * [Authenticator](https://authenticator.cc/) - Generate Two-Factor QR Codes / [GitHub](https://gitlab.gnome.org/World/Authenticator)
 * [Authy Migration](https://github.com/token2/authy-migration) - Export Tokens from Authy
-* [Privacy Settings](https://github.com/StellarSand/privacy-settings) - Privacy Setting Guides
 * [Frigate](https://frigate.video/), [Smart Sec Cam](https://github.com/scottbarnesg/smart-sec-cam) or [ZoneMinder](https://zoneminder.com/) - Security Camera Systems
 * [Team Elite](https://www.te-home.net/) or [Technet24](https://technet24.ir/) - Security Software / [Translator](https://github.com/FilipePS/Traduzir-paginas-web)
 * [No Thought is a Crime](https://ntc.party/) - Internet Censorship Discussion
@@ -195,9 +194,11 @@
 * ⭐ **[Surveillance Self-Defense](https://ssd.eff.org/)** - Educational Guide
 * ⭐ **[The New Oil](https://thenewoil.org/)** - Educational Guide
 * [Defensive Computing Checklist](https://defensivecomputingchecklist.com/) - Privacy Guide
+* [Ken Harris](https://cyber.kenharris.io/) - Privacy Guide
 * [AvoidTheHack](https://avoidthehack.com/) - Privacy Blog
 * [Privacy Tools List](https://privacytoolslist.com/) - Privacy Tools
 * [Hostux](https://hostux.network/) - Privacy Tools
+* [Privacy Settings](https://github.com/StellarSand/privacy-settings) - Privacy Setting Guides
 * [Alternative Internet](https://github.com/redecentralize/alternative-internet) - Collection of Decentralised Tools
 * [EncryptedList](https://encryptedlist.xyz/) - List of Encrypted Services/Apps
 * [ProductivePrivacy](https://productiveprivacy.com/) - Privacy-Focused Productivity Apps 
