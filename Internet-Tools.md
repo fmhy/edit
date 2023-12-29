@@ -192,7 +192,6 @@
 * [AlsoAsked](https://alsoasked.com/) - Related Search Tool
 * [Wiby](https://wiby.org/), [2](https://wiby.me/) - Search Engine for Lightweight Web Pages
 * [Search My Site](https://searchmysite.net/) - Search Engine for Independent and Personal websites / Open Source
-* [Tor Search Engines](https://rentry.co/OnionDirectories#search-engines) - Search Tor
 * [TorBot](https://github.com/DedSecInside/TorBot), [TorCrawl](https://github.com/MikeMeliz/TorCrawl.py), [OnionIngestor](https://github.com/danieleperera/OnionIngestor), [OnionSearch](https://github.com/megadose/OnionSearch) or [VigilantOnion](https://github.com/andreyglauzer/VigilantOnion) - TOR Network Crawlers
 * [Intelligence X](https://intelx.io/tools) or [Aware-Online](https://www.aware-online.com/en/osint-tools/) - Multiple Search Tools 
 * [Marginalia Search](https://search.marginalia.nu/) - Text Based Search Engine
@@ -394,7 +393,7 @@
 * [RSSMail](https://git.panda-roux.dev/rssmail/about/) or [FeedButler](https://feedbutler.app/en) - RSS to Email
 * [Sift RSS](https://siftrss.com/) - RSS Feed Filters
 * [Spinner](https://spinner.fullcontentrss.com/) - RSS Article Rewriter
-* [RSS.app](https://rss.app/) or [RSS Search Hub](https://www.rsssearchhub.com/) - RSS Search
+* [RSS.app](https://rss.app/) - RSS Search
 * [Kill the Newsletter](https://kill-the-newsletter.com/) - Convert email newsletters into Atom Feeds
 
 ***
