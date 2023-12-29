@@ -3,11 +3,6 @@
 ***
 ***
 
-**[Table of Contents](https://ibb.co/YTSPfKm)** - For mobile users
-
-***
-***
-
 # ► Audio Streaming
 
 ## ▷ Streaming Apps
@@ -32,7 +27,6 @@
 
 ## ▷ Streaming Sites
 
-* ↪️ **[Video Game Soundtracks](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/games#wiki_.25BA_game_soundtracks)**
 * ⭐ **[Spotify](https://open.spotify.com/)** - Browser Music
 * ⭐ **Spotify Browser Tools** - [Adblocker](https://gist.github.com/Simonwep/24f8cdcd6d32d86e929004013bd660ae) / [Mute Ads](https://github.com/guihkx/spotishush) / [Customize](https://github.com/Darkempire78/Spotify-Customizer) / [Lyrics](https://github.com/mantou132/Spotify-Lyrics)
 * ⭐ **[YouTube Music](https://music.youtube.com/)**, **[YTMP](https://ytmp.itsvg.in/)**, [Hyperpipe](https://hyperpipe.surge.sh), [Beatbump](https://beatbump.io/), [Nonoki](https://nonoki.com/) or [Spotify One](https://spotfy.one/) - YouTube Music WebUIs
@@ -229,7 +223,6 @@
 
 ***
 
-* ↪️ **[Video Game Soundtracks](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/games#wiki_.25BA_game_soundtracks)**
 * ↪️ **[Royalty Free Music](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_royalty_free_music)**
 * ⭐ **[DoubleDouble](https://doubledouble.top/)** - Multi-Site Audio Download / 320kb / MP3 / FLAC
 * ⭐ **[Free MP3 Download](https://free-mp3-download.net/)** - Search / 320kb / MP3 / FLAC
@@ -440,6 +433,30 @@
 * [ZOMB Torrents](http://zombtracker.the-zomb.com/) - Forum
 * [bt.etree](https://bt.etree.org/) or [DreamingTree](https://dreamingtree.org/) - Live Concert Recordings
 * [NFO db](https://nfodb.ru/) - MP3 NFO Database
+
+***
+
+# ► Game Soundtracks
+
+* [Khinsider](https://downloads.khinsider.com/) / [Downloader](https://github.com/obskyr/khinsider), [2](https://github.com/weespin/KhinsiderDownloader) - Game Soundtracks / MP3
+* [RetroTracks](https://retro.sx/) - Retro Game Soundtracks / MP3
+* [VGMPF](https://www.vgmpf.com/Wiki/index.php) - Retro Game Soundtracks / MP3
+* [VGMRips](https://vgmrips.net/packs/) - Retro Game Music Rips / VGM
+* [Zophar's](https://www.zophar.net/music) - Retro Game Music Rips / VGM
+* [GameOST](https://gameost.net/) - Game Soundtracks / MP3
+* [Roland SC-55](https://sc55.duke4.net/games.php) - Game Soundtracks / MP3
+* [retro.sx](https://retro.sx/) - Game Music Radio
+* [VIP VGM](https://www.vipvgm.net/) - Game Music Radio
+* [Cirrus Retro](https://cirrusretro.com/) - Game Music Radio
+* [Rainwave](https://rainwave.cc/) - Game Music Radio
+* [RPGGamers Radio](http://www.rpgamers.net/radio/) - Game Music Radio
+* [VGMRadio](https://vgmradio.com/) - Game Music Radio
+* [VGM](https://vgm.mmosvc.com/) - Game Music Radio
+* [VGMStream](https://vgmstream.org/) - Stream Local Video Game Audio Files
+* [mood.gg](https://mood.gg/) - League of Legends Character Based Playlists
+* [NSF j](https://nsf.nesbbs.com/) - NES Game Music
+* [Exotica](https://www.exotica.org.uk/) - Retro Gaming Music Wiki
+* [VGMdb](https://vgmdb.net/) - Video Game Music Database
 
 *** 
 
