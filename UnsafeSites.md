@@ -86,7 +86,7 @@
 
 ### [Fake Windows Activators](https://i.imgur.com/Lv2FYbw.png)
 
-### [The Alliance for Creativity (ACE) Protects Scam Artists](https://i.imgur.com/IWCr6Px.png)
+### [The Alliance for Creativity (ACE) Protects Scammers](https://i.imgur.com/srBsOBE.png)
 
 ***
 
