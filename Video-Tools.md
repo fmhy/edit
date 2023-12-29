@@ -55,9 +55,9 @@
 ## ▷ Screen Recording
 
 * ⭐ **[OBS](https://obsproject.com/)**
+* ⭐ **[gifcap](https://gifcap.dev/)** / [GitHub](https://github.com/joaomoreno/gifcap), [screengif](https://github.com/dergachev/screengif) or [licecap](https://www.cockos.com/licecap/) - Turn Screencasts into GIFs
 * [Shinobi](https://shinobi.video/) - Network Video Recorder
 * [MythTV](https://www.mythtv.org/) - Digital Video Recorder (DVR)
-* [screengif](https://github.com/dergachev/screengif), [gifcap](https://gifcap.dev/) / [GitHub](https://github.com/joaomoreno/gifcap) or [licecap](https://www.cockos.com/licecap/) - Turn Screencasts into GIFs
 * [tldv](https://tldv.io/) or [ZoomRec](https://github.com/kastldratza/zoomrec) - Record Google Meets / Zoom Calls
 * [FFmpeg](https://ffmpeg.org/)
 * [Vileo](https://lukasbach.github.io/vileo/)
@@ -290,7 +290,7 @@
 * ↪️ **[YouTube Video Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/social-media#wiki_.25B7_youtube_downloaders)**
 * ↪️ **[Twitch Video Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/social-media#wiki_.25B7_twitch_downloaders)**
 * ⭐ **[Download Helper](https://www.downloadhelper.net/)**, [AddonCrop Downloader](https://addoncrop.com/v25/youtube-downloader/), [Cococut](https://cococut.net/), [FetchV](https://fetchv.net/) or [MPMux](https://mpmux.com/) - Extensions
-* ⭐ **[YT-DLP](https://github.com/kazukikasama/youtube-dlp-gui-installer), [2](https://github.com/StefanLobbenmeier/youtube-dl-gui) - Multi-Site / [GitHub](https://github.com/yt-dlp/yt-dlp)
+* ⭐ **[YT-DLP](https://github.com/kazukikasama/youtube-dlp-gui-installer)**, [2](https://github.com/StefanLobbenmeier/youtube-dl-gui) - Multi-Site / [GitHub](https://github.com/yt-dlp/yt-dlp)
 * ⭐ **[cobalt](https://cobalt.tools/)** - Multi-Site
 * ⭐ **[9xbuddy](https://9xbuddy.xyz/)**, [2](https://9xbuddy.com/) - Multi-Site
 * ⭐ **[Lux](https://github.com/iawia002/lux)** - Multi-Site
