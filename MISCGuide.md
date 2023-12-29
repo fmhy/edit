@@ -435,7 +435,6 @@
 * [osh](https://www.osh.net/) - Occupational Health and Safety Resources
 * [CancerFactFinder](https://cancerfactfinder.org/) - Cancer Fact Search
 * [INCIDecoder](https://incidecoder.com/) - Skincare Ingredient Lists
-* [Liam Rosen's Fitness Guide](https://liamrosen.com/fitness.html) - Beginners Health & Fitness Guide
 * [AMMFitness](https://www.ammfitness.co.uk/) - Fitness / Nutrition Info 
 * [The Fitness Wiki](https://thefitness.wiki/) - Fitness Information Wiki
 * [Google Fit](https://www.google.com/fit/) - Activity Coach
@@ -584,7 +583,7 @@
 
 ## ▷ Resume Makers
 
-* ⭐ **[CareerCup](https://www.careercup.com/resume)** or [Masters](https://hwpi.harvard.edu/files/ocs/files/masters_resume_cover_letters.pdf) - Resume / Cover Letter Guides
+* ⭐ **[CareerCup](https://www.careercup.com/resume)** - Resume / Cover Letter Guide
 * ⭐ **[KickResume](https://www.kickresume.com/en/help-center/resume-samples/)** or [ThisResumeDoesNotExist](https://thisresumedoesnotexist.com/) - Resume Samples
 * ⭐ **[RX Resume](https://rxresu.me/)**
 * [ResumeMatcher](https://www.resumematcher.fyi/)
