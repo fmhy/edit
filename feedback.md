@@ -1,4 +1,6 @@
 ---
+name: Feedback
+description: Anonymous comments, taken from reddit, discord, twitter, and our feedback system.
 next: false
 prev: false
 lastUpdated: false
@@ -27,3 +29,7 @@ outline: false
 * *"This wiki is one of the best out there, seriously. Keep up the great work!"*
 
 * *"I love having an extreme amount of privacy. And it's not just for piracy, so this is REALLY useful. Thanks!"*
+
+- *"thank you so much for this effort, guys you are amazing, i stopped searching on google for stuff and got addicted to your website, keep going :)"*
+
+- *"Ever since i find out fmhy exist, i have been using it for a long time now. The website is very good and i love the community so much, pls keep making more"*

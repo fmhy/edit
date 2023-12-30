@@ -85,7 +85,7 @@ export default defineConfig({
             // @ts-ignore
             boostDocument: (_, term, storedFields: Record<string, string | string[]>) => {
               const titles = (storedFields?.titles as string[])
-                .filter((t) => !!t)
+                .filter((t) => Boolean(t))
                 .map((t) => t.toLowerCase());
               // Uprate if term appears in titles. Add bonus for higher levels (i.e. lower index)
               const titleIndex =
@@ -138,7 +138,7 @@ export default defineConfig({
           { text: "👾 Gaming Tools", link: "/gamingpiracyguide#gaming-tools" },
           { text: "📷 Image Tools", link: "/img-tools" },
           { text: "📼 Video Tools", link: "/video-tools" },
-          { text: "🔊 Audio Tools", link: "/audio-tools" },
+          { text: "🔊 Audio Tools", link: "/audiopiracyguide#audio-tools" },
           { text: "🍎 Educational Tools", link: "/edupiracyguide#educational-tools" },
           { text: "👨‍💻 Developer Tools", link: "/devtools" },
         ],
