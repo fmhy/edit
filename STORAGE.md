@@ -142,15 +142,6 @@
 
 ***
 
-## Browser Startpages
-
-* ⭐ **[WebOasis](https://weboasis.app/)**, [2](https://ndsamuelson.github.io/weboas-is/) - [Source Code](https://pastebin.com/CczqreS4)
-* ⭐ **[MONKNOW](https://www.monknow.com/)**
-
-[8bitdash](https://www.8bitdash.com/), [8 Bit Dashboard](https://8bitdashboard.com/), [Startpage Emporium](https://startpages.github.io/), [Awesome Startpage](https://github.com/jnmcfly/awesome-startpage), [StartTree](https://github.com/Paul-Houser/StartTree), [New Tab Addons](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_customizable_new_tab_page), [Clippingmini](https://www.clippingmini.com/), [Draggo](https://draggo.com/), [Atavi](https://atavi.com/), [Homepage Ninja](https://homepage.ninja/), [Bookmarkee](https://www.bookmarkee.com/), [Pearltrees](https://www.pearltrees.com/), [Lasso](https://www.lasso.net/), [Nextcloud](https://apps.nextcloud.com/apps/bookmarks), [Cling](https://cling.com/), [Symbaloo](https://www.symbaloo.com/), [Tixio](https://tixio.io/), [Bento](https://github.com/migueravila/Bento), [ez.lol](https://ez.lol/), [nightly](https://github.com/damnitharshit/nightly), [Protopage](https://www.protopage.com/), [tilde](https://github.com/xvvvyz/tilde), [Homepage](https://github.com/Jaredk3nt/homepage), [Fluidity](https://github.com/PrettyCoffee/fluidity), [AllMyFaves](https://allmyfaves.com/)
-
-***
-
 ## Calendars
 
 * ⭐ **[Cal.com](https://cal.com/)** - [GitHub](https://github.com/calcom/cal.com)
