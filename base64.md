@@ -1,6 +1,6 @@
 #### How-to Decode Links
 
-Use a **[Base64 Decoder](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25B7_encode_.2F_decode)** or if you're on our site use this [script](https://pastebin.com/0wvfVVut).
+Use a **[Base64 Decoder](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25B7_encode_.2F_decode)** or if you're on our site use this [script](https://pastebin.com/mQi74Pzv).
 
 ***
 
