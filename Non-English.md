@@ -485,7 +485,7 @@
 
 ## ▷ Downloading
 
-* ⭐ **[OlaMovies](https://olamovies.beauty/)** - Movies / TV / Sub / Dub / 1080p / 4K / [Telegram](https://telegram.me/olamovies_official_v3)
+* ⭐ **[OlaMovies](http://olamovies.yachts/)** - Movies / TV / Sub / Dub / 1080p / 4K / [Telegram](https://telegram.me/olamovies_official_v3)
 * ⭐ **[Full4Movies](https://www.full4movies.mobi/)** - Movies / TV / Sub / Dub / 1080p / [Telegram](https://t.me/+esNoIP2HG30yMjlk)
 * [MkvCinemas](https://mkvcinemas.mov/) - Movies / TV / Anime / Sub / Dub / 1080p / 4K / [Telegram](https://t.me/+WzLYNDSawQk1MTk1)
 * [MLWBD](https://mlwbd.run/) - Movies / TV / Anime / Sub / Dub / 1080p / 4K / [Telegram](https://t.me/mlwbdnew)
