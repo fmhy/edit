@@ -782,7 +782,7 @@
 * ⭐ **[Hacks.Guide](https://hacks.guide/)**, **[CFW Guide](https://cfw.guide/)**, [ConsoleMods.org](https://consolemods.org/) / [Discord](https://discord.gg/x5vEnkR4C8), [Digiex](https://digiex.net/forums/), [Homebrew Guides](https://rentry.co/Guides), [Homebrew General](https://www.homebrewgeneral.net/) or [Gamebrew](https://www.gamebrew.org/) - Homebrew Guides
 * ⭐ **[GBATemp](https://gbatemp.net/)** - Homebrew Forum
 * ⭐ **[Nintendo Homebrew](https://discord.gg/C29hYvh)** - Nintendo Homebrew Discord
-* ⭐ **[Wii Guide](https://wii.guide/)**, [WiiBrew](https://wiibrew.org/) or [Wii Softmod Guide](https://sites.google.com/site/completesg) - Wii Homebrew Guides
+* ⭐ **[Wii Guide](https://wii.hacks.guide/)**, [WiiBrew](https://wiibrew.org/) or [Wii Softmod Guide](https://sites.google.com/site/completesg) - Wii Homebrew Guides
 * ⭐ **[Wiimmfi](https://wiimmfi.de/)** or [Kaeru Team](https://kaeru.world/) - Wii / DS Multiplayer Servers
 * ⭐ **[CTGP Revolution](https://www.chadsoft.co.uk/)** or [Wiki Tockdom](https://wiki.tockdom.com/wiki/Main_Page) - Mario Kart Wii Custom Tracks / Multiplayer
 * [/r/SwitchPirates](https://www.reddit.com/r/SwitchPirates/), [/r/SwitchHaxing](https://reddit.com/r/SwitchHaxing) or [/r/SwitchHacks](https://reddit.com/r/SwitchHacks) - Switch Homebrew Subreddits
@@ -831,7 +831,6 @@
 * [ModMyClassic](https://modmyclassic.com/) - Classic Console Mods
 * [/r/360Hacks Guide](https://redd.it/8y9jql) - Xbox 360 Modding Guide
 * [C-Xbox Tool](https://gbatemp.net/download/c-xbox-tool.7615/) - .XBE to ISO File Converter
-* [RetroArch Xbox Retail Mode](https://youtu.be/dV9GyKicrAg) - RetroArch Xbox Retail Mode Guide
 * [NASOS](https://download.digiex.net/Consoles/GameCube/Apps/NASOSbeta1.rar) - Gamecube iso.dec to ISO Converter
 * [WBFStoISO](https://www.wbfstoiso.com/) - WBFS to ISO 
 * [hakchi2 CE](https://github.com/TeamShinkansen/Hakchi2-CE) - Add More Roms to NES/SNES Classic Mini
