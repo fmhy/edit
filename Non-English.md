@@ -1635,7 +1635,6 @@
 
 ## ▷ Downloading
 
-* [Download.com.vn](https://download.com.vn/) - Software / Game
 * [Fshare](https://timfshare.com/) - Video / Audio
 * [PhimDidibkk](https://phim.didibkk.com/) - Movies / TV / Anime
 * [CineTV](https://thuviencine.com/) - Movies / TV / Anime
