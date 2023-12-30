@@ -343,24 +343,6 @@ http://104.131.175.196:8080/, http://70.88.180.169:8088/, http://207.237.122.161
 
 ***
 
-## Flash Player Tools
-
-* [How to Download & Play Flash Games](https://i.ibb.co/PFBJHT9/ae04fde6fe0b.png), [2](https://www.wikihow.com/Download-a-Flash-Game)
-* [Ruffle](https://ruffle.rs/) or [AwayFL](https://github.com/awayfl) - Flash Emulators
-* [swf2js](https://swf2js.com/en/) - JavaScript Flash Player Emulator
-* [Flash Browser](https://flash.pm/) / [Git](https://github.com/radubirsan/FlashBrowser) / [Discord](https://discord.com/invite/aeaq4Vbqr6) or [Basilisk](https://archive.org/details/basilisk-portable-with-flash) - Flash Player Browser
-* [SuperNova](https://www.getsupernova.com/) or [VidKidz](https://vidkidz.github.io/) - Browser Flash Player
-* [Lightspark](https://lightspark.github.io/) - Open-Source Flash Player
-* [flashplayer](https://github.com/chandler-stimson/flashplayer)
-* [CleanFlash](https://gitlab.com/cleanflash/installer) - Open-Source Flash Player
-* [FlashPatch](https://github.com/darktohka/FlashPatch) - Adobe Flash Fix
-* [Animate Archive](https://animatearchive.neocities.org/), [Flash Player 32](https://archive.org/details/flashplayer_old), [Clean Flash Builds](https://github.com/darktohka/clean-flash-builds) or [FlashPlayerArchive](https://archive.org/details/flashplayerarchive) - Flash Player Archive
-* [JPEXS Decompiler](https://github.com/jindrapetrik/jpexs-decompiler) - Flash Decompiler
-* [FlashPlayer](https://add0n.com/flashplayer.html) - SWF to HTML Extension
-* [swf2exe](https://sourceforge.net/projects/swf2exe/) - SWF to EXE Converter
-
-***
-
 ## Fun Indexes
 
 [Neal.fun](https://neal.fun/), [AIDN](https://aidn.jp/), [Neave](https://codepen.io/neave) / [2](https://neave.com/), [BoredHumans](https://boredhumans.com/), [puissant](https://sandwichpuissant.net/), [ThisIsMyWebsiteNow](https://www.thisismywebsitenow.com/), [Mr.doob](https://mrdoob.com/), [Bimble Space](https://in.bimble.space/toys), [Creative Tech Guy](https://creativetechguy.com/), [Just For Fun](https://justforfun.io/), [Andrew Marsh](https://andrewmarsh.com/software), [JenniferDewalt](https://jenniferdewalt.com/), [Chrome Experiments](https://experiments.withgoogle.com/collection/chrome), [0x2a](https://0x2a.re/), [yezi](https://yezi.itch.io/), [topster](https://topster.net/), [p5aholic](https://experiments.p5aholic.me/), [vole.wtf](https://vole.wtf/), [WilliamHoza](https://williamhoza.com/misc/), [Rinkworks](http://www.rinkworks.com/), [Orteil](https://orteil.dashnet.org/), [funwebsite](https://funwebsite.fun/)
