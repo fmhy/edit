@@ -195,7 +195,6 @@
 * [duplicity](https://duplicity.gitlab.io/) - File Backup
 * [R-Undelete](https://www.r-undelete.com/Download.shtml) - File Recovery
 * [PhotoRec](https://www.cgsecurity.org/wiki/PhotoRec) - File Recovery
-* [Windows File Recovery](https://apps.microsoft.com/store/detail/windows-file-recovery/9N26S50LN705) - File Recovery
 * [DMDE](https://dmde.com/download.html) - File Recovery
 * [Recuva](https://www.ccleaner.com/recuva) - File Recovery
 
