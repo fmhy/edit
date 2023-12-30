@@ -313,16 +313,6 @@ http://104.131.175.196:8080/, http://70.88.180.169:8088/, http://207.237.122.161
 
 ***
 
-## Drive Formatting / File Deletion
-
-* **Note** - These just delete files, if you're looking for security and to leave no file traces, its best to encypt the whole disk instead.
-
-* ⭐ **[SDelete](https://learn.microsoft.com/en-us/sysinternals/downloads/sdelete)**
-
-[Eraser](https://eraser.heidi.ie/), [File Shredder](https://fileshredder.org/), [SSuite File Shredder and Burner](https://www.ssuiteoffice.com/software/ssuitefileshredder.htm), [Low Level Format](https://www.lowlevelformat.info/), [Alternate File Shredder](https://www.alternate-tools.com/pages/c_fileshredder.php?lang=ENG), [Permadelete](https://developerstree.github.io/permadelete/), [nwipe](https://github.com/martijnvanbrummelen/nwipe), [ShredOS](https://github.com/PartialVolume/shredos.x86_64)
-
-***
-
 ## Email Aliasing
 
 * ⭐ **[SimpleLogin](https://simplelogin.io/)**
