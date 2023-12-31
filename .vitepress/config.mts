@@ -110,7 +110,6 @@ export default defineConfig({
       { text: "Glossary", link: "https://rentry.org/The-Piracy-Glossary" },
       { text: "Guides", link: "https://rentry.co/fmhy-guides" },
       { text: "Backups", link: "https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/backups" },
-      { text: "Updates", link: "https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/updates/" },
     ],
     sidebar: [
       { text: "📛 Adblocking / Privacy", link: "/adblockvpnguide" },
