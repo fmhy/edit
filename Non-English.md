@@ -1721,6 +1721,10 @@
 * [DocTaiLieu](https://doctailieu.com/) - Educational Books / Documents
 * [Fecomic](https://fecomic.com/) - Manga / Manhwa / Manhua
 * [Truyencc](https://truyencc.com/) - Manga / Manhwa / Manhua
+* [KhoTruyen](https://khotruyenmoi.net/) - Manga / Manhwa / Manhua
+* [HanulTruyen](https://hanultruyen.net/) - Manga / Manhwa / Manhua
+* [ThichTruyen](https://thichtruyen.vn/) - Manga / Manhwa / Manhua
+* [CongTruyen](https://congtruyen.org/) - Manga / Manhwa / Manhua
 * [OCuMeo](https://www.ocumoe.com/) - Manga / Manhwa / Manhua
 * [HanulTruyen](https://hanultruyen.com/) - Manga / Manhwa / Manhua
 * [TruyenQQ](https://truyenqqvn.com/) - Manga / Manhwa / Manhua
