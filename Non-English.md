@@ -1620,7 +1620,8 @@
 * [ClickTest](https://clicktest.vn/) - Mouse Click Test
 * [TestMic](https://testmic.vn/) - Test Microphone
 * [TestCam](https://testcamera.vn/), [CamTest](https://cameratest.vn/) - Test Camera
-* [VNTyping](https://vntyping.com/), [VietnameseTyping](https://vietnamesetyping.com/), [VNKeys](https://www.vnkeys.net/) or [Unikey](https://www.unikey.org/) - Vietnamese Typing
+* [VNTyping](https://vntyping.com/), [VietnameseTyping](https://vietnamesetyping.com/) or [VNKeys](https://www.vnkeys.net/) - Vietnamese Typing
+* [Unikey](https://www.unikey.org/), [Vietkey](https://vietkey.com.vn/) or [EVkey](https://evkeyvn.com/)  - Vietnamese Typing Software
 * [Mail1s](https://mail1s.com/) - Temp Email
 * [BeeCost](https://beecost.vn/) - E-commerce Price Tracker
 * [FBVN](https://chromewebstore.google.com/detail/hlnhbiajcpmjpgpedgfdigiccejengbi), [L.O.C](https://chromewebstore.google.com/detail/eojdckfcadamkapabechhbnkleligand) or [MonokaiToolkit](https://chromewebstore.google.com/detail/monokaitoolkit-extension/dagbggkfgebkmlmnlidioknbhilfnngn) - Friends Filter for Facebook
@@ -1698,13 +1699,22 @@
 
 ## ▷ Reading
 
-* [SachVui](https://sachvui.cc/) - Books
+* [SachVui](https://sachvuii.com/) - Books
 * [WebDocSach](https://webdocsach.net/) - Books
 * [MeTaiSach](https://metaisach.com/) - Books
+* [DocSachHay](https://docsachhay.net/) - Books
+* [AnyBooks](https://anybooks.vn/) - Books
+* [GacSach](https://gacsach.online/) - Books
+* [SachHay24H](https://sachhay24h.com/) - Books
+* [TramDoc](https://tramdoc.vn/) - Books
+* [Waka](https://waka.vn/) - Books
+* [SachTot](https://sachtot.vn/) - Books
+* [Reader](https://www.reader.com.vn/) - Books
 * [NhaSach](https://nhasachmienphi.com/) - Books
 * [TaiSach](https://taisachmienphi.com/) - Books
 * [DocSach24](https://docsach24.co/) - Books
 * [SachHay](https://www.sachhayonline.com/) - Books
+* [TruyenPlus](Truyenplus.vn) - Books / Novel
 * [VNDoc](https://vndoc.com/) - Educational Books / Documents
 * [LoiGiaiHay](https://loigiaihay.com/) - Educational Books / Documents
 * [VietJack](https://vietjack.com/) - Educational Books / Documents
