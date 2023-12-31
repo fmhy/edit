@@ -983,12 +983,6 @@ http://104.131.175.196:8080/, http://70.88.180.169:8088/, http://207.237.122.161
 
 ***
 
-## Searx Instances
-
-[Fuck Off Google](https://search.fuckoffgoogle.net/) / [nixnet](https://searx.nixnet.services/) / [Instance Index](https://searx.space/), [Instance Index 2](https://www.startpage.com/sp/search?q=%22powered%20by%20Searx%22), [searx](https://searx.be/), [tiekoetter](https://searx.tiekoetter.com/), [monocles](https://monocles.de/)
-
-***
-
 ## Send Anonymous Emails
 
 [secure-email](https://www.secure-email.org/), [5ymail](https://www.5ymail.com/), [anonymousemail](https://anonymousemail.me/), [anonymouse](http://anonymouse.org/anonemail.html), [sendanonymousemail](http://www.sendanonymousemail.net/), [send-email](https://send-email.org/), [gilc](https://gilc.org/speech/anonymous/remailer.html), [Remailer](https://remailer.paranoici.org/index.php), [MixMaster](https://mixmaster.sourceforge.net/), [mailfreeonline](https://www.mailfreeonline.com/home)
