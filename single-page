@@ -8161,6 +8161,7 @@ outline: false
 * [Streets of Rage Remake](https://sorr.forumotion.net/t838-new-streets-of-rage-remake-v5-2-download-and-info) - Streets of Rage Remake
 * [OpenSA](https://github.com/Dzierzan/OpenSA) - Swarm Assault Recreation / [OpenRA Required](https://www.moddb.com/mods/opensa) / [Non OpenRA Version](https://dzierzan.itch.io/opensa)
 * [EDuke32](https://www.eduke32.com/) - Duke Nukem 3D Source Port
+* [SP Tarkov](https://www.sp-tarkov.com/) - Escape From Tarkov Single Player Mod
 * [Arx Libertatis](https://arx-libertatis.org/) - Arx Fatalis PC Port
 * [Mars 3D](https://mars3d-game.wixsite.com/index) - Mars 3D Translation & Remake
 * [Unciv](https://github.com/yairm210/Unciv) - Civ V Remake
@@ -8978,6 +8979,7 @@ outline: false
 * [osu trainer](https://github.com/FunOrange/osu-trainer) - Osu! Trainer
 * [Half Life Project Beta](https://hl2-beta.ru/) - Unreleased / Cut Half-Life Content
 * [Textractor](https://github.com/Artikash/Textractor) - Extract Text from Games / Visual Novels
+* [GARbro](https://github.com/morkt/GARbro/) - Browse / Extract Visual Novel Resources
 * [SpinShare](https://spinsha.re/) - Spin Rhythm XD Custom Charts
 * [Oculess](https://github.com/basti564/Oculess) - Remove Oculus Quest Account Requirements & Telemetry
 * [ALVR](https://github.com/alvr-org/ALVR) - Stream VR Games from PC to Headset
@@ -9026,6 +9028,7 @@ outline: false
 * [dgVoodoo2](http://dege.freeweb.hu/dgVoodoo2/) - Glide & DirectX Graphics Wrapper
 * [VibranceGUI](https://vibrancegui.com/) - Automate Digital Vibrance Control
 * [ReShade](https://reshade.me/) - Generic Post-Processing Injector / [GitHub](https://github.com/crosire/reshade) / [Shaders](https://github.com/BlueSkyDefender/Depth3D)
+* [DLSSG to FSR3](https://github.com/Nukem9/dlssg-to-fsr3) - AMD FSR3 Frame Generation for NVIDIA
 * [WindowedBorderlessGaming](https://westechsolutions.net/sites/WindowedBorderlessGaming/), [Borderless Gaming](https://github.com/Codeusa/Borderless-Gaming) or [FullScreenizer](http://runtimeterror.com/tools/fullscreenizer/) - Borderless Windows for All Games
 * [Lossless Scaling](https://github.com/nbats/FMHYedit/blob/main/base64.md#lossless-scaling) - Windowed Game Scaling
 * [DxWnd](https://sourceforge.net/projects/dxwnd/) - Play Fullscreen Only Games in Window
