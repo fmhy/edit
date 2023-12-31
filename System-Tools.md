@@ -191,7 +191,6 @@
 ## ▷ Window Managers
 
 * ⭐ **[Komorebi](https://github.com/LGUG2Z/komorebi)**
-* ⭐ **[rofi](https://github.com/davatorium/rofi)** / [Emoji Selector](https://github.com/Mange/rofi-emoji)
 * [nog](https://github.com/TimUntersberger/nog)
 * [bug.n](https://github.com/fuhsjr00/bug.n)
 * [GridMove](https://www.dcmembers.com/jgpaiva/)
