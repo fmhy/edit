@@ -9901,6 +9901,18 @@ outline: false
 *** 
 
 [Wayback Machine Links](https://rentry.co/ue9qk)
+---
+sidebar: false
+editLink: false
+outline: false
+next: false
+---
+
+<script setup>
+import Index from './.vitepress/theme/Posts.vue'
+</script>
+
+<Index/>
 ***
 ***
 **[◄◄ Back to Wiki Index](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/index)**
@@ -16849,13 +16861,13 @@ Emoji Legend:
 * [ML-Youtube-Courses](https://github.com/dair-ai/ML-YouTube-Courses) - Machine Learning Courses on YouTube
 * [Cyberbotics](https://cyberbotics.com/) - Robot Simulator
 ---
-title: "Welcome"
+title: Welcome
 layout: home
 description: The largest collection of free stuff on the internet!
 
 hero:
-  name: "FMHY"
-  text: "freemediaheckyeah"
+  name: FMHY
+  text: freemediaheckyeah
   tagline: The largest collection of free stuff on the internet!
   prelink:
     title: ❄️ Monthly Updates [Dec]
@@ -16867,6 +16879,9 @@ hero:
     - theme: brand
       text: Browse Collection
       link: /adblockvpnguide
+    - theme: brand
+      text: Posts
+      link: /posts
     - theme: alt
       text: Discord
       link: https://discord.gg/Stz6y6NgNg
