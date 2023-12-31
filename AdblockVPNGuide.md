@@ -194,9 +194,9 @@
 * ⭐ **[Privacy Guides](https://www.privacyguides.org/)** - Educational Guide
 * ⭐ **[Surveillance Self-Defense](https://ssd.eff.org/)** - Educational Guide
 * ⭐ **[The New Oil](https://thenewoil.org/)** - Educational Guide
-* [Defensive Computing Checklist](https://defensivecomputingchecklist.com/) - Privacy Guide
-* [Ken Harris](https://cyber.kenharris.io/) - Privacy Guide
-* [AvoidTheHack](https://avoidthehack.com/) - Privacy Blog
+* [Defensive Computing Checklist](https://defensivecomputingchecklist.com/) - Educational Guide
+* [Ken Harris](https://cyber.kenharris.io/) - Educational Guide
+* [AvoidTheHack](https://avoidthehack.com/) - Educational Blog
 * [Privacy Tools List](https://privacytoolslist.com/) - Privacy Tools
 * [Hostux](https://hostux.network/) - Privacy Tools
 * [Privacy Settings](https://github.com/StellarSand/privacy-settings) - Privacy Setting Guides
