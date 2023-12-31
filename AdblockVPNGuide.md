@@ -361,6 +361,7 @@
 * ⭐ **[Metager](https://metager.org/)**
 * ⭐ **[Stract](https://trystract.com/)**
 * ⭐ **[DuckDuckGo](https://duckduckgo.com/)** - [Shortcuts](https://duckduckgo.com/bangs)
+* [whoogle.fmhy](https://whoogle.fmhy.net/) - Whoogle Instance
 * [searx-qt](https://notabug.org/CYBERDEViL/searx-qt) - Searx Desktop App
 * [Fuck Off Google](https://search.fuckoffgoogle.net/) - Searx Instance
 * [searx](https://searx.be/) - Searx Instance
