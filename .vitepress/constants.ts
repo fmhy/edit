@@ -3,7 +3,7 @@ import type { DefaultTheme } from "vitepress";
 export const meta = {
   name: "FreeMediaHeckYeah",
   description: "The largest collection of free stuff on the internet!",
-  hostname: "https://fmhy.pages.dev",
+  hostname: "https://fmhy.net",
   keywords: ["stream", "movies", "gaming", "reading", "anime"],
 };
 

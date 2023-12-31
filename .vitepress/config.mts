@@ -1,8 +1,9 @@
 import { defineConfig } from "vitepress";
 import UnoCSS from "unocss/vite";
 import { presetUno, presetAttributify, presetIcons } from "unocss";
+import consola from "consola";
 import { commitRef, feedback, meta, socials } from "./constants";
-import { generateImages, generateMeta } from "./hooks";
+import { generateImages, generateMeta, generateFeed } from "./hooks";
 import { toggleStarredPlugin } from "./markdown/toggleStarred";
 import { base64DecodePlugin } from "./markdown/base64";
 
@@ -35,7 +36,9 @@ export default defineConfig({
   ],
   transformHead: async (context) => generateMeta(context, meta.hostname),
   buildEnd: async (context) => {
-    generateImages(context);
+    generateImages(context)
+      .then(() => generateFeed(context))
+      .finally(() => consola.success("Success!"));
   },
   vite: {
     plugins: [

@@ -16,6 +16,12 @@ const formatDate = (raw: string): string => {
     <section>
       <h1 class="flex items-center gap-2">Posts</h1>
       <p>Everything from Monthly Updates to fmhy updates.</p>
+
+      We also have a
+      <a href="/feed.rss" title="RSS feed" class="VPBadge tip">
+        <div class="i-carbon-rss" />
+        RSS feed </a
+      >.
     </section>
     <template v-for="year in Object.keys(posts).reverse()" :key="year">
       <h2>{{ year }}</h2>
@@ -35,3 +41,24 @@ const formatDate = (raw: string): string => {
     </template>
   </div>
 </template>
+
+<style scoped>
+.VPBadge {
+  border: 1px solid transparent;
+  border-radius: 8px;
+  display: inline-flex;
+  margin-left: 2px;
+  padding: 0 10px;
+  line-height: 22px;
+  font-size: 12px;
+  font-weight: 500;
+  transform: translateY(-2px);
+  align-items: center;
+  gap: 0.2rem;
+  padding-right: 10px;
+  vertical-align: middle;
+  color: var(--vp-badge-tip-text);
+  background-color: var(--vp-custom-block-info-bg);
+  border-color: var(--vp-custom-block-tip-outline);
+}
+</style>

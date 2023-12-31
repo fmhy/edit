@@ -5,6 +5,7 @@ import { createContentLoader } from "vitepress";
 import type { ContentData, SiteConfig } from "vitepress";
 import { type SatoriOptions, satoriVue } from "x-satori/vue";
 import { renderAsync } from "@resvg/resvg-js";
+import consola from "consola";
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
 const __fonts = resolve(__dirname, "../fonts");
@@ -48,6 +49,7 @@ export async function generateImages(config: SiteConfig): Promise<void> {
       fonts,
     });
   }
+  return consola.info("Generated opengraph images.");
 }
 
 interface GenerateImagesOptions {
@@ -90,5 +92,5 @@ async function generateImage({
 
   await mkdir(outputFolder, { recursive: true });
 
-  return await writeFile(outputFile, render.asPng());
+  await writeFile(outputFile, render.asPng());
 }

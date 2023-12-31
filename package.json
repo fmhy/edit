@@ -11,13 +11,14 @@
     "api:build": "nitropack build",
     "api:preview": "node .output/server/index.mjs",
     "og:dev": "x-satori -t ./.vitepress/hooks/Template.vue -c ./.vitepress/hooks/satoriConfig.ts --dev",
-    "format": "prettier -w --cache .",
+    "format": "prettier -w --cache --check .",
     "lint": "eslint .vitepress -f pretty --cache",
     "postinstall": "nitropack prepare"
   },
   "dependencies": {
     "@headlessui/vue": "^1.7.16",
     "@resvg/resvg-js": "^2.6.0",
+    "consola": "^3.2.3",
     "feed": "^4.2.2",
     "fs-extra": "^11.2.0",
     "itty-fetcher": "^0.9.4",
