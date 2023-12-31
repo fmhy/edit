@@ -1720,15 +1720,18 @@
 * [VietJack](https://vietjack.com/) - Educational Books / Documents
 * [DocTaiLieu](https://doctailieu.com/) - Educational Books / Documents
 * [Fecomic](https://fecomic.com/) - Manga / Manhwa / Manhua
+* [Truyencc](https://truyencc.com/) - Manga / Manhwa / Manhua
 * [OCuMeo](https://www.ocumoe.com/) - Manga / Manhwa / Manhua
 * [HanulTruyen](https://hanultruyen.com/) - Manga / Manhwa / Manhua
 * [TruyenQQ](https://truyenqqvn.com/) - Manga / Manhwa / Manhua
-* [DichTruyen](https://dichtruyenpro05.com/) - Manga / Manhwa / Manhua / [Facebook](https://www.facebook.com/dichtruyenteam/)
+* [DichTruyen](https://dichtruyen.pro/) - Manga / Manhwa / Manhua / [Facebook](https://www.facebook.com/dichtruyenteam/)
+* [COMI](https://comi.mobi/) - Manga / Manhwa / Manhua / Novel
 * [cuutruyen](https://cuutruyen.net/) - Manga
 * [teamlanhlung](https://teamlanhlung.com/) - Manga
 * [blogtruyen](https://blogtruyen.vn/) - Manga
 * [truyenvn](https://truyenvnhay.tv/) - Manga/ Manhwa/ Manhua
 * [A3manga](https://www.a3manga.info/) - Manga/ Manhwa/ Manhua
+* [PheTruyen](https://phetruyen.pro/) - Manga/ Manhwa/ Manhua
 * [SStruyen](https://sstruyen.vn/) - Manga/ Manhwa/ Manhua
 * [Dtruyen](https://dtruyen.com/) - Manga/ Manhwa/ Manhua
 * [Thichdoctruyen](https://thichdoctruyen.vip/) - Manga/ Manhwa/ Manhua
