@@ -735,7 +735,6 @@
 * [/r/NameThatSong](https://reddit.com/r/NameThatSong) - Song Identification Subreddit
 * [Midomi](https://www.midomi.com/)
 * [Aha Music](https://www.aha-music.com/identify-songs-music-recognition-online)
-* [Mousai](https://github.com/SeaDve/Mousai)
 * [AudioTag](https://audiotag.info/)
 * [WatZatSong](https://www.watzatsong.com/en)
 * [Dejavu](https://github.com/worldveil/dejavu) - Python
