@@ -26,6 +26,7 @@
 ***
 
 * 🌐 **[DiscordTools](https://discordtools.io/)** or [awesome-discord](https://github.com/jacc/awesome-discord) - Discord Tools Indexes
+* ⭐ **[x266.mov](https://x266.mov/discord-embed)**, [Stolen Shoes](https://stolen.shoes/), [embeds.video](https://embeds.video/), [autocompressor](https://autocompressor.net/) or [Discord Embedder](https://discord.nfp.is/) - Embed Videos on Discord
 * ⭐ **[Revolt](https://revolt.chat/)** / [Bots](https://rvlt.gg/discover/bots) / [Resources](https://github.com/insertish/awesome-revolt) / [Divolt Resources](https://github.com/ggtylerr/awesome-divolt) or **[Guilded](https://www.guilded.gg/)** / [Mod](https://github.com/ReGuilded/ReGuilded/) - Discord Alternatives
 * [Multi-Accounts 1 Email](https://rentry.co/altmethod) - Create Multiple Accounts on One Email
 * [AnswersOverflow](https://www.answeroverflow.com/) - Discord Search Engine
@@ -59,7 +60,6 @@
 * [Embed Visualizer](https://embed.discord.website/) - Preview Embeds
 * [FixTweet](https://github.com/FixTweet/FixTweet) - Fix Twitter Embeds
 * [InstaFix](https://ddinstagram.com/) - Fix Instagram Embeds
-* [Stolen Shoes](https://stolen.shoes/), [x266.mov](https://x266.mov/discord-embed), [embeds.video](https://embeds.video/), [autocompressor](https://autocompressor.net/) or [Discord Embedder](https://discord.nfp.is/) - Embed Videos on Discord
 * [8mbvideo](https://8mb.video/) or [@Snooober's Script](https://redd.it/o7vqm4) - Encode Videos to <8MB
 * [Hammertime](https://hammertime.cyou/), [Dank.tools](https://dank.tools/), [Timestamp Maker](https://pokemonworkshop.neocities.org/timestamp/) or [discordtimestampgenerator](https://discordtimestampgenerator.netlify.app/) - Generate Timestamps
 * [TagMap](https://tagmap.io/) - Meet People with Similar Interests
