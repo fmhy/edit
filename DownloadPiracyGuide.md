@@ -143,7 +143,6 @@
 
 * ⭐ **[LRepacks](https://lrepacks.net/)**
 * ⭐ **[Mobilism](https://forum.mobilism.org/)** - [Mobile App](https://forum.mobilism.org/app/)
-* ⭐ **[YasDL](https://yasdl.com/)** - Use [translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)
 * ⭐ **[nsane.down](https://www.nsaneforums.com/)** - Signup Required
 * ⭐ **[Software CSE](https://cse.google.com/cse?cx=ae17d0c72fa6cbcd4)** - Multi-Site Software Search
 * [4MirrorLink](https://4mirrorlink.com/)
