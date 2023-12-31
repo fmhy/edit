@@ -292,7 +292,7 @@ http://104.131.175.196:8080/, http://70.88.180.169:8088/, http://207.237.122.161
 * ⭐ **[Images](https://hub.docker.com/)**, [2](https://linuxserver.io/), [3](https://hotio.dev/)
 * ⭐ **[Compose Files](https://www.composerize.com/)**, [2](https://github.com/irbigdata/data-dockerfiles)
 
-[Desktop](https://www.docker.com/products/docker-desktop/), [TUI](https://github.com/jesseduffield/lazydocker), [Analyze Images](https://github.com/wagoodman/dive), [Container Automation](https://containrrr.dev/watchtower/), [Port Forwarding](https://github.com/ruoshan/autoportforward), [Log Viewer](https://dozzle.dev/), [Disk Usage Manager](https://docker-disk.space/), [Image Linter](https://github.com/goodwithtech/dockle), [Container Monitor](https://github.com/willfarrell/docker-autoheal), [Notifications](https://crazymax.dev/diun/), [Podman Compose](https://github.com/containers/podman-compose)
+[Desktop](https://www.docker.com/products/docker-desktop/), [TUI](https://github.com/jesseduffield/lazydocker), [Analyze Images](https://github.com/wagoodman/dive), [Container Automation](https://containrrr.dev/watchtower/), [Port Forwarding](https://github.com/ruoshan/autoportforward), [Log Viewer](https://dozzle.dev/), [Disk Usage Manager](https://docker-disk.space/), [Image Linter](https://github.com/goodwithtech/dockle), [Container Monitor](https://github.com/willfarrell/docker-autoheal), [Notifications](https://crazymax.dev/diun/), [Podman Compose](https://github.com/containers/podman-compose) / [Playground](https://labs.play-with-docker.com/)
 
 ***
 
@@ -369,24 +369,6 @@ http://104.131.175.196:8080/, http://70.88.180.169:8088/, http://207.237.122.161
 ## Encrypted XMPP Servers
 
 [Server List](https://xmpp.404.city/), [Hot Chilli](https://www.hot-chilli.eu/jabber/), [XMPP.jp](https://xmpp.jp/) / [xmpp.is](https://xmpp.is/), [dismail](https://dismail.de/), [blah](https://blah.im/), [xabber](https://www.xabber.com/), [Gajim](https://gajim.org/), [404.city](https://404.city/)
-
-***
-
-## Flash Player Tools
-
-* [How to Download & Play Flash Games](https://i.ibb.co/PFBJHT9/ae04fde6fe0b.png), [2](https://www.wikihow.com/Download-a-Flash-Game)
-* [Ruffle](https://ruffle.rs/) or [AwayFL](https://github.com/awayfl) - Flash Emulators
-* [swf2js](https://swf2js.com/en/) - JavaScript Flash Player Emulator
-* [Flash Browser](https://flash.pm/) / [Git](https://github.com/radubirsan/FlashBrowser) / [Discord](https://discord.com/invite/aeaq4Vbqr6) or [Basilisk](https://archive.org/details/basilisk-portable-with-flash) - Flash Player Browser
-* [SuperNova](https://www.getsupernova.com/) or [VidKidz](https://vidkidz.github.io/) - Browser Flash Player
-* [Lightspark](https://lightspark.github.io/) - Open-Source Flash Player
-* [flashplayer](https://github.com/chandler-stimson/flashplayer)
-* [CleanFlash](https://gitlab.com/cleanflash/installer) - Open-Source Flash Player
-* [FlashPatch](https://github.com/darktohka/FlashPatch) - Adobe Flash Fix
-* [Animate Archive](https://animatearchive.neocities.org/), [Flash Player 32](https://archive.org/details/flashplayer_old), [Clean Flash Builds](https://github.com/darktohka/clean-flash-builds) or [FlashPlayerArchive](https://archive.org/details/flashplayerarchive) - Flash Player Archive
-* [JPEXS Decompiler](https://github.com/jindrapetrik/jpexs-decompiler) - Flash Decompiler
-* [FlashPlayer](https://add0n.com/flashplayer.html) - SWF to HTML Extension
-* [swf2exe](https://sourceforge.net/projects/swf2exe/) - SWF to EXE Converter
 
 ***
 
@@ -729,7 +711,7 @@ http://104.131.175.196:8080/, http://70.88.180.169:8088/, http://207.237.122.161
 * [Playit.gg](https://playit.gg/) - [Discord](https://discord.gg/AXAbujx)
 * [FreeMCServer](https://freemcserver.net/) - [uBO Filter](https://pastebin.com/C2aiXG8p)
 
-[MineFort](https://minefort.com/), [Minehut](https://minehut.com/), [Aternos](https://aternos.org/) / [AntiAntiAdblock](https://gist.github.com/DvilMuck/f2b14f3f65e8f22974d781277158f82a), [Cuberite](https://cuberite.org/)
+[MineFort](https://minefort.com/), [Minehut](https://minehut.com/), [Aternos](https://aternos.org/) / [AntiAntiAdblock](https://gist.github.com/DvilMuck/f2b14f3f65e8f22974d781277158f82a), [Cuberite](https://cuberite.org/), [Free-Minecraft-Hosts](https://github.com/Myuui/Free-Minecraft-Hosts)
 
 ***
 
@@ -760,15 +742,6 @@ http://104.131.175.196:8080/, http://70.88.180.169:8088/, http://207.237.122.161
 ## Multi Image Tool Sites
 
 [WebOasis Editors](https://weboasis.app/editors/), [Hotot](https://hotpot.ai/), [RedKetchup](https://redketchup.io/), [VertexShare](https://vertexshare.com/), [ImageConvert](https://imageconvert.org/), [MyPhotoFilter](https://www.myphotofilter.com/), [Img2Go](https://www.img2go.com/), [BrandFolder](https://brandfolder.com/workbench-suite), [fffuel](https://fffuel.co/), [ImgLarger](https://imglarger.com/), [Convertmyimage](https://convert-my-image.com/), [Mara](https://mara.photos/), [StitchTool](https://www.jdeploy.com/~stitchtool) / [GitHub](https://github.com/Aeonss/StitchTool/), [Bloggif](https://en.bloggif.com/video), [BatchWatermark](https://batchwatermark.com/), [FastStone](https://www.faststone.org/index.htm), [ConvertImage](https://convertimage.net/), [PicWish](https://picwish.com/), [onlinejpgtools](https://onlinejpgtools.com/), [OnlinePNGTools](https://onlinepngtools.com/), [imageamigo](https://imageamigo.com), [AI Lab](https://ailab.wondershare.com/tools/), [clipdrop](https://clipdrop.co/tools), [photoaid](https://photoaid.com/en/tools/), [ImageTool](https://imagestool.com/)
-
-***
-
-## Multiplayer Fixes
-
-* ⭐ **[Online Fix](https://online-fix.me/)** / [Discord](https://discord.gg/yExgFYncMD)
-* [Playit.gg](https://playit.gg/) - [Discord](https://discord.gg/AXAbujx)
-
-[zerotier](https://www.zerotier.com/), [Radmin](https://www.radmin-vpn.com/), [Hamachi](https://vpn.net/), [XTag](https://www.teamxlink.co.uk/), [Blu-Games](https://blu-games.tk/), [softether](https://www.softether.org/), [ZLOEmu](https://zloemu.net/)
 
 ***
 
@@ -1274,7 +1247,7 @@ http://104.131.175.196:8080/, http://70.88.180.169:8088/, http://207.237.122.161
 
 ## Text Adventures
 
-[iFiction](https://www.ifiction.org/) (Index), [IFDB](https://ifdb.org/) (Index), [Ifarchive](https://ifarchive.org/if-archive/games/) (drive), [Pac-Txt](http://www.pactxt.com/), [AI Dungeon](https://play.aidungeon.io/main/landing), [A Dark Room](https://adarkroom.doublespeakgames.com/), [The Never Ending Quest](https://www.sir-toby.com/extend-a-story/story-1/code/read.php), [The Text Adventure](https://kevan.org/wikitext/), [Seedship](https://philome.la/johnayliff/seedship/play/index.html), [TextAventures](http://textadventures.co.uk/), [Crank](https://faedine.com/games/crank/b39/), [Umbra](https://umbra.avalon-rpg.com/), [Web Adventures](https://www.web-adventures.org/), [WrittenRealms](https://writtenrealms.com/), [MUDII](http://www.mudii.co.uk/), [doublespeak](https://doublespeak.chat/), [Genesis](https://www.genesismud.org/), [Fateful Quest](https://fateful.quest/)
+[iFiction](https://www.ifiction.org/) (Index), [IFDB](https://ifdb.org/) (Index), [Ifarchive](https://ifarchive.org/if-archive/games/) (drive), [Pac-Txt](http://www.pactxt.com/), [AI Dungeon](https://play.aidungeon.io/main/landing), [A Dark Room](https://adarkroom.doublespeakgames.com/), [The Never Ending Quest](https://www.sir-toby.com/extend-a-story/story-1/code/read.php), [The Text Adventure](https://kevan.org/wikitext/), [Seedship](https://philome.la/johnayliff/seedship/play/index.html), [TextAventures](http://textadventures.co.uk/), [Crank](https://faedine.com/games/crank/b39/), [Umbra](https://umbra.avalon-rpg.com/), [Web Adventures](https://www.web-adventures.org/), [WrittenRealms](https://writtenrealms.com/), [MUDII](http://www.mudii.co.uk/), [doublespeak](https://doublespeak.chat/), [Genesis](https://www.genesismud.org/), [Fateful Quest](https://fateful.quest/), [Level 13](https://nroutasuo.github.io/level13/)
 
 
 ***
