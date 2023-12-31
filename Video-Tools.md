@@ -398,7 +398,6 @@
 * [VideoCoPilot](https://www.videocopilot.net/)
 * [VFXmed](https://www.vfxmed.com/)
 * [flex_cg_vfx](https://t.me/flex_cg_vfx)
-* [vfxdownload](https://vfxdownload.com)
 * [ShareAE](https://www.shareae.com/) - After Effects
 * [HunterAE](https://hunterae.com/) - After Effects
 * [AERiver](https://aeriver.com/) - After Effects
