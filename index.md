@@ -7,6 +7,9 @@ hero:
   name: FMHY
   text: freemediaheckyeah
   tagline: The largest collection of free stuff on the internet!
+  prelink:
+    title: ❄️ Monthly Updates [Dec]
+    link: https://redd.it/1889rxh
   image:
     src: /test.png
     alt: FMHY Icon
