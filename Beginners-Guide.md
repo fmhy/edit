@@ -13,7 +13,7 @@ Still feel unsure? Reach out to us via [Discord](https://redd.it/17f8msf) & make
 
 > I don't know what seeding means or *insert other term*...
 You will find almost all terms related to piracy & more on [The Piracy Glossary](https://rentry.org/the-piracy-glossary)
-Didn't find it and still confused? Reach out to us via [Divolt](https://redd.it/uto5vw).
+Didn't find it and still confused? Reach out to us via [Discord](https://redd.it/17f8msf).
 
 > How do I download Photoshop/Adobe Products for free?
 You can download pre-cracked Adobe products from [M0nkrus](https://w14.monkrus.ws/) | [How to download from M0nkrus](https://rentry.co/adobesoftware) or Patch it yourself following these guides [here](https://www.reddit.com/r/GenP/wiki/index/) & for MacOS go [here](#macos)
