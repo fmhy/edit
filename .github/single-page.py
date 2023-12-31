@@ -7,7 +7,7 @@ def output():
     content = ""
     nsfw_content = ""
     for file in read:
-        if file != "README.md" or file != "feedback.md":
+        if file != "README.md" or file != "feedback.md" or file != "posts.md":
             with open(file, "r") as f:
                 if "NSFWPiracy.md" == file:
                     nsfw_content += f.read()
