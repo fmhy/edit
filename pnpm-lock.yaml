@@ -36,8 +36,8 @@ dependencies:
     specifier: ^0.57.1
     version: 0.57.1(postcss@8.4.32)(vite@4.5.1)
   vitepress:
-    specifier: latest
-    version: 1.0.0-rc.34(@types/node@20.8.9)(nprogress@0.2.0)(postcss@8.4.32)(search-insights@2.13.0)(typescript@5.3.3)
+    specifier: npm:@taskylizard/vitepress@1.0.4
+    version: /@taskylizard/vitepress@1.0.4(@types/node@20.8.9)(nprogress@0.2.0)(postcss@8.4.32)(search-insights@2.13.0)(typescript@5.3.3)
   vue:
     specifier: ^3.3.7
     version: 3.3.7(typescript@5.3.3)
@@ -1722,6 +1722,62 @@ packages:
       - jest
       - supports-color
     dev: true
+
+  /@taskylizard/vitepress@1.0.4(@types/node@20.8.9)(nprogress@0.2.0)(postcss@8.4.32)(search-insights@2.13.0)(typescript@5.3.3):
+    resolution: {integrity: sha512-sYoG2KEvIVE3na69TyUbLs91/0AO7geVmlev4AaxGNqZPEqXBz1otKbtMLVMkBr9oOZH3YreRZ4Lb5VSWueXWQ==}
+    hasBin: true
+    peerDependencies:
+      markdown-it-mathjax3: ^4.3.2
+      postcss: ^8.4.32
+    peerDependenciesMeta:
+      markdown-it-mathjax3:
+        optional: true
+      postcss:
+        optional: true
+    dependencies:
+      '@docsearch/css': 3.5.2
+      '@docsearch/js': 3.5.2(search-insights@2.13.0)
+      '@types/markdown-it': 13.0.7
+      '@vitejs/plugin-vue': 5.0.2(vite@5.0.10)(vue@3.4.3)
+      '@vue/devtools-api': 6.5.1
+      '@vueuse/core': 10.7.1(vue@3.4.3)
+      '@vueuse/integrations': 10.7.1(focus-trap@7.5.4)(nprogress@0.2.0)(vue@3.4.3)
+      focus-trap: 7.5.4
+      mark.js: 8.11.1
+      minisearch: 6.3.0
+      mrmime: 2.0.0
+      postcss: 8.4.32
+      shikiji: 0.9.15
+      shikiji-transformers: 0.9.15
+      vite: 5.0.10(@types/node@20.8.9)
+      vue: 3.4.3(typescript@5.3.3)
+    transitivePeerDependencies:
+      - '@algolia/client-search'
+      - '@types/node'
+      - '@types/react'
+      - '@vue/composition-api'
+      - async-validator
+      - axios
+      - change-case
+      - drauu
+      - fuse.js
+      - idb-keyval
+      - jwt-decode
+      - less
+      - lightningcss
+      - nprogress
+      - qrcode
+      - react
+      - react-dom
+      - sass
+      - search-insights
+      - sortablejs
+      - stylus
+      - sugarss
+      - terser
+      - typescript
+      - universal-cookie
+    dev: false
 
   /@types/eslint@8.44.7:
     resolution: {integrity: sha512-f5ORu2hcBbKei97U73mf+l9t4zTGl74IqZ0GQk4oVea/VS8tQZYkUveSYojk+frraAVYId0V2WC9O4PTNru2FQ==}
@@ -7264,63 +7320,6 @@ packages:
       rollup: 4.9.1
     optionalDependencies:
       fsevents: 2.3.3
-    dev: false
-
-  /vitepress@1.0.0-rc.34(@types/node@20.8.9)(nprogress@0.2.0)(postcss@8.4.32)(search-insights@2.13.0)(typescript@5.3.3):
-    resolution: {integrity: sha512-TUbTiSdAZFni2XlHlpx61KikgkQ5uG4Wtmw2R0SXhIOG6qGqzDJczAFjkMc4i45I9c3KyatwOYe8oEfCnzVYwQ==}
-    hasBin: true
-    peerDependencies:
-      markdown-it-mathjax3: ^4.3.2
-      postcss: ^8.4.32
-    peerDependenciesMeta:
-      markdown-it-mathjax3:
-        optional: true
-      postcss:
-        optional: true
-    dependencies:
-      '@docsearch/css': 3.5.2
-      '@docsearch/js': 3.5.2(search-insights@2.13.0)
-      '@types/markdown-it': 13.0.7
-      '@vitejs/plugin-vue': 5.0.2(vite@5.0.10)(vue@3.4.3)
-      '@vue/devtools-api': 6.5.1
-      '@vueuse/core': 10.7.1(vue@3.4.3)
-      '@vueuse/integrations': 10.7.1(focus-trap@7.5.4)(nprogress@0.2.0)(vue@3.4.3)
-      focus-trap: 7.5.4
-      mark.js: 8.11.1
-      minisearch: 6.3.0
-      mrmime: 2.0.0
-      postcss: 8.4.32
-      shikiji: 0.9.15
-      shikiji-core: 0.9.15
-      shikiji-transformers: 0.9.15
-      vite: 5.0.10(@types/node@20.8.9)
-      vue: 3.4.3(typescript@5.3.3)
-    transitivePeerDependencies:
-      - '@algolia/client-search'
-      - '@types/node'
-      - '@types/react'
-      - '@vue/composition-api'
-      - async-validator
-      - axios
-      - change-case
-      - drauu
-      - fuse.js
-      - idb-keyval
-      - jwt-decode
-      - less
-      - lightningcss
-      - nprogress
-      - qrcode
-      - react
-      - react-dom
-      - sass
-      - search-insights
-      - sortablejs
-      - stylus
-      - sugarss
-      - terser
-      - typescript
-      - universal-cookie
     dev: false
 
   /vue-demi@0.14.6(vue@3.4.3):
