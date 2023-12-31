@@ -119,7 +119,7 @@
 
 ## ▷ Linux Audio
 
-* ⭐ **[SongRec](https://github.com/marin-m/SongRec)** - Song Identifier
+* ⭐ **[SongRec](https://github.com/marin-m/SongRec)** or [Mousai](https://github.com/SeaDve/Mousai) - Song Identifiers
 * [cmus](https://cmus.github.io/) - Audio Player
 * [Tauon Music Box](https://tauonmusicbox.rocks/) - Audio Player
 * [Lollypop](https://wiki.gnome.org/Apps/Lollypop), [2](https://gitlab.gnome.org/World/lollypop) - Audio Player 
