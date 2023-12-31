@@ -25,8 +25,8 @@
 * ⭐ **[Call Annie](https://callannie.ai/)** - GPT-3.5 Based Chatbot with Real-Time Voice / [Discord](https://discord.gg/Rfbzet5R3v)
 * ⭐ **[Claude](https://claude.ai/)** - Anthropic's Chatbot
 * ⭐ **[Bard](https://bard.google.com/)** - Google's Chatbot
+* ⭐ **[SydneyQt](https://github.com/juzeon/SydneyQt)** - Jailbroken Bing AI Chatbot
 * [FastGPT](https://labs.kagi.com/fastgpt) - Claude Based Q&A AI
-* [SydneyQt](https://github.com/juzeon/SydneyQt) - Jailbroken Bing AI Chatbot
 * [Khoj](https://khoj.dev/) - AI Assistant
 * [Leon](https://getleon.ai/) - AI Assistant
 * [Pi](https://pi.ai/talk) - AI Assistant
