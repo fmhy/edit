@@ -142,7 +142,7 @@
 ## ▷ Text Rephrasing
 
 * ⭐ **[QuillBot AI](https://quillbot.com/)** - Text Rephrasing
-* ⭐ **QuillBot  Tools** - [Premium Unlock](https://github.com/blueagler/QuillBot-Premium-Crack), [2](https://github.com/Raguggg/quillbot-premium-for-free) / [Token](https://pastebin.com/ezkjxWd1) / [Script](https://pastebin.com/Wj3cuKvJ)
+* ⭐ **QuillBot  Tools** - [Premium Unlock](https://greasyfork.org/en/scripts/465276), [2](https://github.com/Raguggg/quillbot-premium-for-free) / [Token](https://pastebin.com/ezkjxWd1) / [Script](https://pastebin.com/Wj3cuKvJ)
 * ⭐ **[paraphrasetool](https://paraphrasetool.com/)** - Text Rephrasing
 * [Just Not Sorry](https://justnotsorry.com/) - Undermining Word Detection
 * [Rewrite Tool](https://rewritetool.net/) - Text Rephrasing
