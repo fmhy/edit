@@ -9,7 +9,7 @@ import { renderAsync } from "@resvg/resvg-js";
 const __dirname = dirname(fileURLToPath(import.meta.url));
 const __fonts = resolve(__dirname, "../fonts");
 
-export async function generateImages(config: SiteConfig) {
+export async function generateImages(config: SiteConfig): Promise<void> {
   const pages = await createContentLoader("**/*.md", { excerpt: true }).load();
   const template = await readFile(resolve(__dirname, "./Template.vue"), "utf-8");
 
@@ -57,7 +57,12 @@ interface GenerateImagesOptions {
   fonts: SatoriOptions["fonts"];
 }
 
-async function generateImage({ page, template, outDir, fonts }: GenerateImagesOptions) {
+async function generateImage({
+  page,
+  template,
+  outDir,
+  fonts,
+}: GenerateImagesOptions): Promise<void> {
   const { frontmatter, url } = page;
 
   const options: SatoriOptions = {

@@ -1,11 +1,11 @@
 ---
-title: "Welcome"
+title: Welcome
 layout: home
 description: The largest collection of free stuff on the internet!
 
 hero:
-  name: "FMHY"
-  text: "freemediaheckyeah"
+  name: FMHY
+  text: freemediaheckyeah
   tagline: The largest collection of free stuff on the internet!
   prelink:
     title: ❄️ Monthly Updates [Dec]
@@ -17,6 +17,9 @@ hero:
     - theme: brand
       text: Browse Collection
       link: /adblockvpnguide
+    - theme: brand
+      text: Posts
+      link: /posts
     - theme: alt
       text: Discord
       link: https://discord.gg/Stz6y6NgNg
