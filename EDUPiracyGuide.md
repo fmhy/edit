@@ -391,7 +391,7 @@
 * [Algodoo](http://www.algodoo.com/) - Interactive Physics Tool
 * [QPaths](https://qpaths.deqart.com/) - Learn Basic Quantum Terms
 * [quantum](https://play.google.com/store/apps/details?id=brychta.stepan.quantum_en) - Quantum Physics Learning App
-* [arXiv](https://arxiv.org/) - Science / Math / Physics / [Search](https://arxiv-sanity-lite.com/)
+* [arXiv](https://arxiv.org/) - Science / Math / Physics / [Search](https://arxiv-sanity-lite.com/) / [Chatbot](https://github.com/evanhu1/talk2arxiv)
 * [Physics forums](https://www.physicsforums.com/) - Forum / Physics / Science Forum
 * [Physics Olympiads](https://discord.gg/phods) - Physics Discord Community
 * [Quantum Web Directory](https://qntm2017.github.io/qntm/OV.html) - Science / Tech / Math / Physics
@@ -926,6 +926,7 @@
 * [ForgetMeNot](https://github.com/tema6120/ForgetMeNot) - Flashcard Mobile App
 * [Edgibot](https://www.edgilearning.com/), [Tutorly](https://tutorly.ai), [Caktus](https://www.caktus.ai/), [Get Unstuck](https://socratic.org/), [sarthaks](https://www.sarthaks.com/) or [Brainly](https://brainly.com/) - Homework Help Bots / Communities
 * [Toppr](https://www.toppr.com/), [FreeOnlineTest](https://www.freeonlinetest.in/) or [AE Old](https://discord.gg/VCXGudY) - Test Practice & Homework Help
+* [DoubtNut](https://www.doubtnut.com/) - Exam Solutions / Help
 * [StudyStream](https://www.studystream.live/) - Online Study Groups
 * [Stuack](https://github.com/isanchop/stuhack) - Premium Study Notes
 * [Course-Notes](https://course-notes.org/) - Course Notes
