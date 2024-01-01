@@ -401,7 +401,7 @@
 * ⭐ **[internxt](https://internxt.com/)** - 10GB Free / ~4.85 for 1TB
 * ⭐ **[Cyberduck](https://cyberduck.io/)** - Libre Server / Cloud Storage Browser
 * [Cloud Storage Archiving Guide](https://pastebin.com/kLhLHsXg) - How-to Safely Archive Files on Cloud Storage Sites
-* [terabox](https://terabox.com/) - 1TB Free / $1.5 for 1TB
+* [terabox](https://terabox.com/) - 1TB Free / $3.50 for 2TB
 * [CyberFile](https://cyberfile.me/) - 1TB Free
 * [dropbox](https://www.dropbox.com/) - 5GB Free / ~$5 for 1TB / [Client](https://github.com/SamSchott/maestral)
 * [mediafire](https://www.mediafire.com/) - 10GB Free / $5.83 for 1TB
