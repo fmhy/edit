@@ -148,7 +148,6 @@
 * [Myrtille](https://cedrozor.github.io/myrtille/)
 * [Aspia](https://aspia.org/)
 * [ChromeRemoteDesktop](https://remotedesktop.google.com/)
-* [Aspia](https://aspia.org/doku.php)
 * [TightVNC](https://www.tightvnc.com/)
 * [remoteutilities](https://www.remoteutilities.com/)
 * [p2p](https://github.com/miroslavpejic85/p2p)
