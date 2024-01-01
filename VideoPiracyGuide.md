@@ -416,8 +416,8 @@
 * ⭐ **[Sportsurge](https://sportsurge.net/)**- Sports / Stream Locator
 * ⭐ **[EasyWebTV](https://zhangboheng.github.io/Easy-Web-TV-M3u8/routes/countries.html)** - TV / Sports / 1080p
 * ⭐ **[FreeSports](https://freesports.to/)** - Sports
-* ⭐ **[FSL](https://fsl-stream.lu/)** - Sports / 720p
-* ⭐ **[IPTV Web](https://dev-iptv.web.app/)** - TV / Sports
+* ⭐ **[FSL](https://a.fsl-stream.im/)** - Sports / 720p / [Discord](https://discord.gg/eXXJzDPchU)
+* ⭐ **[IPTV Web](https://iptv-web.app/)** - TV / Sports
 * ⭐ **[RBTV](https://www.rbtv77.com/)**, [2](https://www.rbtv77.tattoo/), [3](https://www.rbtv77.website/) - Sports
 * ⭐ **[OlympicStreams](https://olympicstreams.me/)** - Sports
 * [Braflix](https://www.braflix.app/) - TV / Sports / [Discord](https://discord.gg/wWKmxARaWH)
@@ -427,12 +427,12 @@
 * [TheTVApp](https://thetvapp.to/) - TV / Sports
 * [DaddyLive](https://dlhd.sx/) - TV / Sport
 * [MrGamingStreams](https://mrgamingstreams.com/) - TV / Sports
-* [XUMO](https://www.xumo.tv/channels) - TV
+* [Xumo Play](https://play.xumo.com/networks) - TV / US only
 * [Sportsurge.club](https://sportsurge.club/) - Sports
 * [1Stream](https://1stream.eu/) - Sports
 * [s365](https://www.s365.live/) - Sports
 * [First Row Sports](https://firstsrowsports.tv/) - Sports
-* [VIP League](https://vipleague.im/), [2](https://www.vipleague.st/) - Sports
+* [VIP League](https://vipleague.im/), [2](https://www.vipleague.la/) - Sports
 * [WeakStream](https://weakstream.org/) - Sports
 * [StreamEast](https://streameast.app/) - Sports
 * [AESports](https://aesport.tv/) - Sports
@@ -447,16 +447,16 @@
 * [TV247](https://tv247.us/) - TV / Sports
 * [TvFlix](https://tvflix.netlify.app/) - TV / Sports
 * [FreeInterTV](http://www.freeintertv.com/) - TV / Sports
-* [Stream4Free Live](https://www.stream4free.live/) - TV / Sports
+* [Stream4Free Live](https://www.infinite-streaming.live/) - TV / Sports
 * [vipotv](https://vipotv.com/) - TV / Sports
 * [WwiTv](https://wwitv.com/) - TV
 * [SquidTV](https://www.squidtv.net/) - TV
 * [PhotoCall](https://photocall.tv/) - TV
-* [WorldCupFootball](http://hd.worldcupfootball.me/) - Sports
+* [WorldCupFootball](https://sportshd.sx/) - Sports
 * [SoccerWorldCup](https://soccerworldcup.me/) - Sports
 * [Icelz](https://icelz.newsrade.com/) - Sports
 * [Sports Plus](https://en12.sportplus.live/) - Sports
-* [livetv](https://livetv743.me/enx/) - Sports
+* [livetv](https://livetv747.me/enx/) - Sports
 * [VIP Box Sports](https://www.viprow.nu/) - Sports
 * [VIP Box](https://www.vipbox.lc/) - Sports
 * [Pepper Live](https://pepperlive.info/) - Sports
@@ -475,12 +475,12 @@
 * [p2pstreams](https://p2pstreams.live/) - Sports
 * [StrikeOut](https://strikeout.im/) - Sports
 * [BestSolaris](https://bestsolaris.com/) - Sports
-* [Strumyk](https://strims.top/) - Sports
+* [Strims](https://strims.in/) - Sports
 * [DudeStream](https://www.dudestream.com/) - Sports
 * [CricHD](https://v4.crichd.tv/) - Sports
 * [UFCKhabib](https://sportsurge.stream/) - Sports
 * [TotalSportek](https://totalsportek.pro/), [2](https://www.totalsportek.to/) - Sports
-* [Rojadirecta](https://www.rojadirecta.direct/) - Sports
+* [Rojadirecta](https://www.rojadirecta.tube/) - Sports
 * [BoxingStreams100](https://boxings.boxingstreams100.com/) - Boxing
 * [Boxing Stream](https://boxingstream.ai/) - Boxing
 * [/r/WWEstreams/](https://www.reddit.com/r/WWEstreams/) - Wrestling
