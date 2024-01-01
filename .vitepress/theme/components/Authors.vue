@@ -27,6 +27,10 @@ const data = [
     name: "zinklog",
     github: "https://github.com/zinklog2",
   },
+  {
+    name: "Q",
+    github: "https://github.com/qiracy",
+  },
 ] satisfies Author[];
 
 const authors = computed(() => data.filter((author) => props.authors.includes(author.name)));
