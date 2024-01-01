@@ -1539,7 +1539,6 @@
 * [KayiFamily](https://kayifamily.com/), [KayiFamilyTV](https://kayifamilytv.com/v11/) - TV / Documentaries
 * [TurkAnime](https://www.turkanime.co/) - Anime
 * [anizm](https://anizm.net/) - Anime
-* [tafdi2](https://www.tafdi2.com) - Movies
 * [filmizlesene](https://www.filmizlesene.pro) - Movies
 * [pifilmizle](https://www.pifilmizle.net/) - Movies
 
@@ -1620,7 +1619,7 @@
 * [ClickTest](https://clicktest.vn/) - Mouse Click Test
 * [TestMic](https://testmic.vn/) - Test Microphone
 * [TestCam](https://testcamera.vn/), [CamTest](https://cameratest.vn/) - Test Camera
-* [VNTyping](https://vntyping.com/), [VietnameseTyping](https://vietnamesetyping.com/) or [VNKeys](https://www.vnkeys.net/) - Vietnamese Typing
+* [VNTyping](https://vntyping.com/), [VietnameseTyping](https://vietnamesetyping.com/) - Vietnamese Typing
 * [Unikey](https://www.unikey.org/), [Vietkey](https://vietkey.com.vn/) or [EVkey](https://evkeyvn.com/)  - Vietnamese Typing Software
 * [Mail1s](https://mail1s.com/) - Temp Email
 * [BeeCost](https://beecost.vn/) - E-commerce Price Tracker
