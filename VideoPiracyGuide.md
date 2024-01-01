@@ -113,7 +113,6 @@
 * [Mov.onl](https://www.mov.onl/) - Movies / TV / 720p
 * [SpaceMov](https://spacemov.site/) - Movies / TV / 720p
 * [Pluto](https://pluto.tv/) - Movies / TV / 720p
-* [GDrivePlayer](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_google_drive_search) - Movies / TV / Anime / 720p
 * [Vumoo](https://vumoo.to/) or [9PM](https://9pm.to/) - Movies / TV / 720p
 * [Vidlink](https://vidlink.org/) - Movies / 720p
 * [VidStore](https://stream.vidzstore.com/) - Movies / 720p
@@ -247,8 +246,8 @@
 * ⭐ **[Best Series](https://bstsrs.one/)** - TV / Anime / 1080p
 * ⭐ **[NOXX](https://noxx.to/)** - TV / 1080p
 * ⭐ **[Taskmaster](https://www.youtube.com/@Taskmaster/playlists?view=50&sort=dd&shelf_id=1)** - Taskmaster Episodes / [International](https://www.youtube.com/@Taskmaster/playlists?view=50&shelf_id=6)
-* [GDrivePlayer](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_google_drive_search) - TV / Anime / 1080p
 * [Teleisodes](https://www1.telepisodes.org/) - TV / 1080p
+* [databasegdriveplayer](https://databasegdriveplayer.co/series.php) - TV / Anime / 720p
 * [TVSeries](https://www.tvseries.in/) - TV / Anime / 720p
 * [Watch-TvSeries](https://www1.watch-tvseries.net/) - TV / 1080p
 * [play.history](https://play.history.com/channel) - Full History / A+E Episodes
