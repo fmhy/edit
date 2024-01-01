@@ -590,7 +590,6 @@
 * [UBIRA eTheses](https://etheses.bham.ac.uk/) - Theses
 * [Theses.fr](https://www.theses.fr/en/accueil.jsp) - Theses
 * [oatd](https://oatd.org/) - Theses / Dissertations
-* [Shodhganga](https://shodhganga.inflibnet.ac.in/) - Indian Theses / Dissertations
 * [lolmythesis](https://lolmythesis.com/) - Summarized Theses
 * [WorldBank](https://www.worldbank.org/en/home) - Poverty Solution Research Data
 * [Einstein Papers](https://einsteinpapers.press.princeton.edu/) - Albert Einsteins Collected Papers Archive
@@ -743,7 +742,6 @@
 * [Manga Home](https://www.mangahome.com/)
 * [Mangaski](https://www.mangasaki.net//)
 * [DeathTollScans](https://www.deathtollscans.net/)
-* [Tritinia](https://tritinia.com/)
 * [MangaJar](https://mangajar.pro/)
 * [NineManga](https://www.ninemanga.com)
 * [Mangahasu](https://mangahasu.se/)
