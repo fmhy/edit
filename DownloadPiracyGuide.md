@@ -137,7 +137,7 @@
 
 # ► Software Sites
 
-* **Note** - Remember to always scan software before installing with tools like **[VirusTotal](https://www.virustotal.com/)** / [VToncolab](https://rentry.org/vtoncolab) or use it in **[Sandboxie](https://rentry.co/sandboxie-guide)**.
+* **Note** - Remember to always scan software before installing with tools like **[VirusTotal](https://www.virustotal.com/)** or use it in **[Sandboxie](https://rentry.co/sandboxie-guide)**.
 
 ***
 
