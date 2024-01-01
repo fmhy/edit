@@ -496,7 +496,7 @@
 
 ## ▷ Unicode Fonts
 
-* [ShapeCatcher](https://shapecatcher.com/) or [WhatIsIt](https://babelstone.co.uk/Unicode/whatisit.html) - Unicode Identification
+* [WhatIsIt](https://babelstone.co.uk/Unicode/whatisit.html) - Unicode Identification
 * [coolfont](https://coolfont.org/)
 * [Font Meme](https://fontmeme.com/)
 * [Font Generator Online](https://www.fontgeneratoronline.com/)
