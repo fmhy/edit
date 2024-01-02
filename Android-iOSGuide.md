@@ -33,7 +33,6 @@
 
 ## ▷ Modded APKs
 
-* 🌐 **[/r/ApkApps Mega](https://apksapps.notion.site/apksapps/096ef38f452342ba99b4e1509a449729?v=9970360b443643789c333bd2c7180009)** / [Subreddit](https://www.reddit.com/r/ApksApps) / [Discord](https://discord.gg/Kr5EWKZU5Y)
 * ⭐ **[Mobilism](https://forum.mobilism.org/viewforum.php?f=398)** / [App](https://forum.mobilism.org/app/)
 * ⭐ **[Modyolo](https://modyolo.com/)**
 * ⭐ **[Androeed](https://androeed.store/)**
