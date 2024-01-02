@@ -330,6 +330,7 @@ Linux Gaming Guide
 * [gurk-rs](https://github.com/boxdot/gurk-rs) - Signal Client
 * [YouTube-Viewer](https://github.com/trizen/youtube-viewer) - YouTube Linux Client / [Fork](https://github.com/trizen/pipe-viewer) 
 * [Giara](https://aur.archlinux.org/packages/giara/) - Reddit Client
+* [BetterDiscordctl](https://github.com/bb010g/betterdiscordctl) - Modded Discord Client / [Guide](https://gist.github.com/ObserverOfTime/d7e60eb9aa7fe837545c8cb77cf31172)
 * [Nextcord](https://github.com/nextcord/nextcord) - Discord API Wrapper
 * [Discover](https://github.com/trigg/Discover) - Discord Overlay
 * [dvm](https://github.com/diced/dvm) - Discord Version Manager
