@@ -40,16 +40,15 @@
 
 ## ▷ Download Managers
 
-* ⭐ **[JDownloader](https://jdownloader.org/jdownloader2)** / [Dark Theme](https://github.com/Vinylwalk3r/JDownloader-2-Dark-Theme/), [2](https://redd.it/q3xrgj), [3](https://draculatheme.com/jdownloader2) / [Debloat](https://rentry.org/jdownloader2), [2](https://rentry.org/jdownloader2opt) / [Captcha Solver](https://github.com/cracker0dks/CaptchaSolver)
-* ⭐ **[IDM](https://massgrave.dev/idm-activation-script.html)**
-* ⭐ **[XDM](https://xtremedownloadmanager.com/)**, [2](https://github.com/subhra74/xdm)
-* [Motrix](https://www.motrix.app/) / [Firefox](https://addons.mozilla.org/en-US/firefox/addon/motrixwebextension/) / [Chrome](https://github.com/gautamkrishnar/motrix-webextension/) / [GitHub](https://github.com/agalwood/Motrix)
-* [pyLoad](https://pyload.net/)
-* [Mipony](https://www.mipony.net/)
-* [FileCXX](https://filecxx.com/)
-* [HTTP Downloader](https://erickutcher.github.io/#HTTP_Downloader/)
-* [download](https://github.com/kevva/download) / [CLI](https://github.com/kevva/download-cli), [downloader](https://downloader.la/) or [Hitomi](https://github.com/KurtBestor/Hitomi-Downloader) - File Download Tools
-* [mf-dl](https://gitgud.io/Pyxia/mf-dl/) or [mediafire_bulk_downloader](https://github.com/NicKoehler/mediafire_bulk_downloader) - Mediafire File Downloader
+* ⭐ **[JDownloader](https://jdownloader.org/jdownloader2)** / [Dark Theme](https://redd.it/q3xrgj) / [Dracula Theme](https://draculatheme.com/jdownloader2) / [Debloat](https://rentry.org/jdownloader2), [2](https://rentry.org/jdownloader2opt) / [Captcha Solver](https://github.com/cracker0dks/CaptchaSolver) - Download Manager
+* ⭐ **[IDM](https://massgrave.dev/idm-activation-script.html)** - IDM Activation Script
+* ⭐ **[XDM](https://xtremedownloadmanager.com/)** / [GitHub](https://github.com/subhra74/xdm) - Download Manager
+* [Motrix](https://www.motrix.app/) / [Web Extensions](https://github.com/gautamkrishnar/motrix-webextension/) / [GitHub](https://github.com/agalwood/Motrix) or [Mipony](https://www.mipony.net/) - Download Managers
+* [pyLoad](https://pyload.net/) - Lightweight Download Manager
+* [File Centipede](https://filecxx.com/) - Upload / Download Manager
+* [HTTP Downloader](https://erickutcher.github.io/#HTTP_Downloader/) - Download Manager for HTTP(S) / FTP(S) / SFTP Protocols
+* [Downloader](https://downloader.la/) or [Hitomi](https://github.com/KurtBestor/Hitomi-Downloader) - File Download Tools
+* [mf-dl](https://gitgud.io/Pyxia/mf-dl/) or [mediafire_bulk_downloader](https://github.com/NicKoehler/mediafire_bulk_downloader) - Mediafire File Downloaders
 * [One Leaf](https://oneleaf.icu/) or [PanDownload](https://baidu.gamesdrive.net/) - Baidu Netdisk Downloaders
 * [WhatsLink](https://whatslink.info/) - View File Download Metadata
 
@@ -57,71 +56,57 @@
 
 ## ▷ File Archivers
 
-* ⭐ **[7-Zip](https://www.7-zip.org/)**  - [Colab](https://github.com/dropcreations/7zip-in-Google-Colab) / [Dark Mode](https://github.com/huanrenfeng/7zipDarkmode) / [Benchmarks](https://s1.hoffart.de/7zip-bench/)
-* ⭐ **[NanaZip](https://github.com/M2Team/NanaZip)**
-* ⭐ **[PeaZip](https://peazip.github.io/)**
-* [Fileforums](https://fileforums.com/), [Krinkels](https://krinkels.org/) or [Encode](https://encode.su/) - Data Compression Forums
+* ⭐ **[7-Zip](https://www.7-zip.org/)** / [Colab](https://github.com/dropcreations/7zip-in-Google-Colab) / [Dark Mode](https://github.com/huanrenfeng/7zipDarkmode) / [Benchmarks](https://s1.hoffart.de/7zip-bench/) / [Additional Codecs](https://github.com/mcmilk/7-Zip-zstd) - File Archiver
+* ⭐ **[NanaZip](https://github.com/M2Team/NanaZip)** - File Archiver
+* ⭐ **[PeaZip](https://peazip.github.io/)** - Cross Platform File Archiver
+* [Fileforums](https://fileforums.com/) or [Encode](https://encode.su/) - Data Compression Forums
 * [Compression.ru](https://compression.ru/index_en.htm) - Data Compression Wiki
 * [TurboBench](https://github.com/powturbo/TurboBench) - Compression Benchmark
 * [unzip-http](https://github.com/saulpw/unzip-http) - Unzip via HTTP Without Downloading
 * [CompactGUI](https://github.com/IridiumIO/CompactGUI) or [Compactor](https://github.com/Freaky/Compactor) - Transparent Compression
 * [ProtectedZip](https://protectedzip.com/) - Encrypt Zip Files
-* [WinRAR](https://www.win-rar.com/) - [Licenses](https://github.com/nbats/FMHYedit/blob/main/base64.md#winrar-licenses)
-* [SuperCompression](https://supercompression.ru/)
-* [Hamster ZIP Archiver](https://hamstersoft.com/)
-* [unzip-online](https://unzip-online.com/en)
-* [pigz](https://zlib.net/pigz/)
-* [GNU Gzip](https://www.gnu.org/software/gzip/)
-* [ezyZip](https://www.ezyzip.com/)
-* [UltraARC](https://www.fileforums.com/showpost.php?p=476660&postcount=1135)
-* [p7zip-zstd](https://github.com/jinfeihan57/p7zip)
-* [RazorX 2](https://fileforums.com/showthread.php?t=103577&highlight=Razorx)
-* [FileOptimizer](https://nikkhokkho.sourceforge.io/static.php?page=FileOptimizer)
-* [bzip2](https://sourceware.org/bzip2/)
-* [Bandizip](https://www.bandisoft.com/bandizip/)
-* [7-Zip ZS](https://github.com/mcmilk/7-Zip-zstd)
-* [Unrar.online](https://unrar.online/)
-* [IZArc](https://www.izarc.org/)
-* [ZIP Extractor](https://zipextractor.app/)
-* [Efficient Compression Tool](https://github.com/fhanau/Efficient-Compression-Tool)
-* [Minuimus](https://birds-are-nice.me/software/minuimus.html)
+* [WinRAR](https://www.win-rar.com/) / [Licenses](https://github.com/nbats/FMHYedit/blob/main/base64.md#winrar-licenses), [Hamster ZIP Archiver](https://hamstersoft.com/), [bzip2](https://sourceware.org/bzip2/), [Bandizip](https://www.bandisoft.com/bandizip/) or [IZArc](https://www.izarc.org/) - File Archivers
+* [FileOptimizer](https://nikkhokkho.sourceforge.io/static.php?page=FileOptimizer), [Efficient Compression Tool](https://github.com/fhanau/Efficient-Compression-Tool) or [Minuimus](https://birds-are-nice.me/software/minuimus.html) - File Archivers / Optimizers
+* [GNU Gzip](https://www.gnu.org/software/gzip/) - GNU File Archiver
+* [pigz](https://zlib.net/pigz/) - Parallel Implementation of Gzip
+* [ZIP Extractor](https://zipextractor.app/) - Google Drive / Gmail File Archiver
+* [ezyZip](https://www.ezyzip.com/) - Zip Files Online
+* [unzip-online](https://unzip-online.com/en) - Unzip Files Online
+* [Unrar online](https://unrar.online/) - Unrar Files Online
 
 ***
 
 ## ▷ File Converters
 
-* ⭐ **[File Converter](https://file-converter.org/)** / [GitHub](https://github.com/Tichau/FileConverter)
-* ⭐ **[CloudConvert](https://cloudconvert.com/)**
+* 🌐 **[.to Sites](https://rentry.co/nsq29)** - File Converters Index
+* ⭐ **[File Converter](https://file-converter.org/)** / [GitHub](https://github.com/Tichau/FileConverter) - Convert / Compress Files
+* ⭐ **[CloudConvert](https://cloudconvert.com/)** - Convert Files / 1 GB Limit
 * [Pandoc](https://pandoc.org/) - Document Converter
 * [ConvertCSV](https://www.convertcsv.com/) - CSV Data Conversion
 * [Encoding Converter](https://encoding-converter.netlify.app/) - File Encoding Converter
 * [Deark](https://entropymine.com/deark/) - Decode and Convert Files / [GitHub](https://github.com/jsummers/deark)
 * [text2img](https://master.ayra.ch/text2img/) - NFO Files to Image Converter
-* [Bear File Converter](https://www.ofoct.com/)
-* [FreeConvert](https://www.freeconvert.com/)
-* [Online Convert](https://www.online-convert.com/)
-* [Convertio](https://convertio.co/)
-* [Zamzar](https://www.zamzar.com/)
-* [Online Converter](https://www.onlineconverter.com/)
-* [Format Factory](http://www.pcfreetime.com/formatfactory/index.php?language=en)
-* [File-Coversion](https://www.files-conversion.com/)
-* [PPT Online](https://www.aspose.app/)
-* [AnyConvert](https://anyconv.com/)
-* [Converter 365](https://www.converter365.com/)
-* [MiConv](https://miconv.com/)
-* [11zon](https://www.11zon.com/)
-* [Convert Town](https://convert.town/)
-* [ACConvert](https://www.aconvert.com/)
-* [ConvertFiles](https://www.convertfiles.com/)
-* [.to Sites](https://rentry.co/nsq29)
-* [Better Converter](https://better-converter.com/) 
-* [xConvert](https://www.xconvert.com/)
-* [conversion-tool](https://www.conversion-tool.com/)
-* [onlineconvertfree](https://onlineconvertfree.com/)
-* [go4convert](https://go4convert.com/)
-* [videoutils](https://www.videoutils.com/) 
-* [101convert](https://www.101convert.com/)
-* [FormatSwap](https://formatswap.com/)
+* [FreeConvert](https://www.freeconvert.com/) - File Converter / 1 GB Limit
+* [videoutils](https://www.videoutils.com/) - File Converter / 500 MB
+* [ConvertFiles](https://www.convertfiles.com/) - File Converter / 250 MB Limit
+* [Convertio](https://convertio.co/) - File Converter / 100 MB Limit
+* [AnyConvert](https://anyconv.com/) - File Converter / 100 MB Limit
+* [onlineconvertfree](https://onlineconvertfree.com/) - File Converter / 100 MB Limit
+* [MiConv](https://miconv.com/) - File Converter / 75 MB Limit
+* [Converter 365](https://www.converter365.com/) - File Converter / 50 MB Limit
+* [ACConvert](https://www.aconvert.com/) - File Converter / 40 MB Limit
+* [PPT Online](https://www.aspose.app/) - File Converter / 35 MB Limit
+* [Online Convert](https://www.online-convert.com/) - File Converter
+* [Zamzar](https://www.zamzar.com/) - File Converter
+* [Online Converter](https://www.onlineconverter.com/) - File Converter
+* [File-Coversion](https://www.files-conversion.com/) - File Converter
+* [11zon](https://www.11zon.com/) - File Converter
+* [Convert Town](https://convert.town/) - File Converter
+* [Better Converter](https://better-converter.com/) - File Converter
+* [conversion-tool](https://www.conversion-tool.com/) - File Converter
+* [go4convert](https://go4convert.com/) - File Converter
+* [101convert](https://www.101convert.com/) - File Converter
+* [FormatSwap](https://formatswap.com/) - File Converter
 
 ***
 
@@ -434,7 +419,7 @@
 * ⭐ **[SA Drive](https://github.com/jsmsj/sa-drive/)** - Service Account Drive Manager
 * [Any File to GDrive](https://github.com/menukaonline/Any-file-to-Google-Drive) - DDL to GDrive Tool
 * [DriveUploader](https://driveuploader.com/) - Receive Files via GDrive
-* [GDrive CLI](https://github.com/glotlabs/gdrive) -  Google Drive CLI Client
+* [GDrive CLI](https://github.com/glotlabs/gdrive) - Google Drive CLI Client
 * [gogdl-ng](https://github.com/gogdl-ng/gogdl-ng) - Google Drive Bulk Downloader
 * [GDrive Downloader](https://github.com/Akianonymus/gdrive-downloader) - Google Drive Folder Downloader
 * [gdrivedl](https://github.com/matthuisman/gdrivedl) - Google Drive Python Download Script
