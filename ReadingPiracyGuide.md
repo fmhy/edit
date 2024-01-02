@@ -837,6 +837,7 @@
 * [MyBoxNovel](https://myboxnovel.com/)
 * [MTLReader](https://mtlreader.com/)
 * [Foxaholic](https://www.foxaholic.com/)
+* [Translated Light Novels](https://github.com/fmhy/FMHYedit/blob/main/base64.md#translated-light-novels)
 * [Comrade Mao](https://comrademao.com/)
 * [NovelNext](https://novelnext.com/)
 * [InfiniteNovelTranslations](https://infinitenoveltranslations.net/)
