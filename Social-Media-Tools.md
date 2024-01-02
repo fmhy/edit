@@ -194,7 +194,7 @@
 * [Subreddit Tabs](https://greasyfork.org/en/scripts/460086) - Subreddit Icon Tabs
 * [Reddit Comment Highlights](https://github.com/aesy/reddit-comment-highlights) - Highlight New Comments
 * [Reddit Spoiler Blur Remover](https://greasyfork.org/en/scripts/416091-reddit-spoiler-blur-remover) - Remove Reddit Spoiler Blur
-* [Photon](https://photon-reddit.com/) - Reddit Frontend
+* [Photon](https://photon-reddit.com/) or [redlib](https://github.com/redlib-org/redlib) - Reddit Frontends
 * [3D for Reddit](https://3dforreddit.com/) - 3D Reddit Browser
 * [SO Reddit](https://dutzi.github.io/so-reddit/) - Stack Overflow Style Viewer
 * [Pholder](https://pholder.com/) - Article Style Viewer
@@ -226,7 +226,7 @@
 * [/r/findareddit](https://www.reddit.com/r/findareddit/) - Get Subreddit Suggestions
 * [Subreddit Calculator](https://trevor.shinyapps.io/subalgebra/) or [redsim](https://anvaka.github.io/redsim/) - Find Similar Subreddits
 * [sayit](https://anvaka.github.io/sayit/), [Vizit](https://redditstuff.github.io/sna/vizit/), [subreddit_map](https://www.jacobsilterra.com/subreddit_map/network/index.html) or [SubredditMentionsGraph](https://dmarx.github.io/SubredditMentionsGraph/network/) - Visualize Related Subreddits
-* [Map of Reddit](https://anvaka.github.io/map-of-reddit) - Map of Subreddits
+* [Map of Reddit](https://anvaka.github.io/map-of-reddit) or [Reddit Map](https://redditmap.social/) - Subreddit Maps
 * [subreddits](https://subreddits.org/) - Find Random Subreddits
 * [/r/Serendipity](https://www.reddit.com/r/Serendipity) - Posts from Random Subreddits
 * [/r/wowthissubexists](https://www.reddit.com/r/wowthissubexists/) - Find Niche Subreddits
