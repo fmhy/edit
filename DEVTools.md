@@ -1227,6 +1227,7 @@
 * ⭐ **[Bluefish](https://bluefish.openoffice.nl/index.html)** - [Templates](https://templates.openoffice.org/en)
 * ⭐ **[Competitive Editor](https://cpeditor.org/)** - Competitive Programming Editor
 * ⭐ **[WebDen](https://webden.dev/)**, [Sharplab](https://sharplab.io/), [tech.io](https://tech.io/), [CodingGround](https://www.tutorialspoint.com/codingground.htm) or [Online Tools](https://onlinetool.io/) - Code Playgrounds
+* [Heynote](https://heynote.com/) - Code Editor / Notepad
 * [JetBrains](https://education.github.com/pack) - Code Editor
 * [CudaText](https://cudatext.github.io/) - Code Editor
 * [Lapce](https://lapce.dev/) - Code Editor
