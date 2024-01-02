@@ -911,6 +911,6 @@ Use a **[Base64 Decoder](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock
 
 ***
 
-#### 
+#### Translated Light Novels 
 
 `aHR0cHM6Ly9zZXJ2ZXIuZWxzY2lvbmUuY29tL09mZmljaWFsbHklMjBUcmFuc2xhdGVkJTIwTGlnaHQlMjBOb3ZlbHMv`
