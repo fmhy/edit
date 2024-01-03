@@ -57,22 +57,19 @@
 
 ## ▷ System Tweaks
 
-* ⭐ **[EverythingToolbar](https://github.com/srwi/EverythingToolbar)**, [Hyper](https://github.com/hyperts/Hyper), [uTaskManager](https://www.microsoft.com/en-us/p/utaskmanager/9nhvdhfbxrsv), [yasb](https://github.com/denBot/yasb), [Awesome](https://github.com/nodgear/Awesome) or [Smart Taskbar](https://github.com/ChanpleCai/SmartTaskbar) - Improved Taskbars
+* ⭐ **[EverythingToolbar](https://github.com/srwi/EverythingToolbar)**, [Hyper](https://github.com/hyperts/Hyper), [yasb](https://github.com/denBot/yasb) or [Smart Taskbar](https://github.com/ChanpleCai/SmartTaskbar) - Improved Taskbars
 * ⭐ **[EarTrumpet](https://eartrumpet.app/)**, [Volumey](https://github.com/G-Stas/Volumey) or [Volume2](https://github.com/irzyxa/Volume2) - Improved Volume Mixer
 * [Couleur Tweak Tips](https://discord.gg/CTT) - Windows Tweaking Guides
 * [MajorGeeks Windows Tweaks](https://www.majorgeeks.com/files/details/majorgeeks_registry_tweaks.html), [Winaero](https://winaero.com/), [QuickBoost](https://github.com/SanGraphic/QuickBoost) - System Tweaking Tools / **[Warning](https://pastebin.com/vMYCiAGE)**
 * [Awesome Scripts](https://github.com/Py-Contributors/awesomeScripts), [abbodi1406](https://forums.mydigitallife.net/posts/1343297/), [BatUtil](https://github.com/abbodi1406/BatUtil) or [TechNet-Gallery](https://github.com/MScholtes/TechNet-Gallery) - System Scripts
-* [bget](https://github.com/jahwi/bget) - Windows Scripts Manager
-* [Windows-Hacks](https://github.com/LazoCoder/Windows-Hacks) - Windows API Tricks
 * [Win10 Widgets](https://win10widgets.com/), [BeWidgets](https://apps.microsoft.com/store/detail/bewidgets/9NQ07FG50H2Q) or [Eww](https://github.com/elkowar/eww) - Widgets for Windows
-* [Wintoys](https://apps.microsoft.com/store/detail/wintoys/9P8LTPGCBZXD) or [Control UWP](https://github.com/builtbybel/control-uwp) - Improved Control Panels
+* [Wintoys](https://apps.microsoft.com/store/detail/wintoys/9P8LTPGCBZXD) - Improved Control Panels
 * [Hunt and Peck](https://github.com/zsims/hunt-and-peck/), [Cerebro App](https://cerebroapp.com/) or [Zazu App](https://zazuapp.org/) - Improved System Navigation
 * [SmartSystemMenu](https://github.com/AlexanderPro/SmartSystemMenu) - Improved System Menu
-* [Recoll](https://www.lesbonscomptes.com/recoll/), [grepWin](https://github.com/stefankueng/grepWin) or [AnyTXT](https://anytxt.net/) - Improved Windows Search / [Site Indexer](https://addons.mozilla.org/en-US/firefox/addon/recoll-we/)
 * [EasyContextMenu](https://www.sordum.org/7615/easy-context-menu-v1-6/) or [Context Menu Shell](https://nilesoft.org/) - Improved Context Menus
-* [OpenWith++](https://github.com/stax76/OpenWithPlusPlus) or [Custom Context Menu](https://www.microsoft.com/store/productId/9PC7BZZ28G0X) - Customize Context Menu
+* [OpenWith++](https://github.com/stax76/OpenWithPlusPlus) - Customize Context Menu
 * [RCWM](https://github.com/GChuf/RCWM) - Context Menu Tools
-* [Open Shell](https://open-shell.github.io/Open-Shell-Menu/), [2](https://github.com/Open-Shell/Open-Shell-Menu), [ValliStart](https://github.com/Jax-Core/ValliStart) or [SystemTrayMenu](http://hofknecht.eu/systemtraymenu) / [GitHub](https://github.com/Hofknecht/SystemTrayMenu) - Improved Start Menus
+* [Open Shell](https://open-shell.github.io/Open-Shell-Menu/), [ValliStart](https://github.com/Jax-Core/ValliStart) or [SystemTrayMenu](http://hofknecht.eu/systemtraymenu) / [GitHub](https://github.com/Hofknecht/SystemTrayMenu) - Improved Start Menus
 * [Spencer](https://www.the-sz.com/products/spencer/) or [Fluent-Metro](https://github.com/bonzibudd/Fluent-Metro) - Classic Start Menu
 * [Taskbar Tweaker](https://ramensoftware.com/7-taskbar-tweaker) - Taskbar Advanced Features
 * [Taskbar Groups](https://github.com/tjackenpacken/taskbar-groups) - Create Groups in Taskbar
@@ -225,6 +222,7 @@
 
 * ↪️ **[PC Building / Shopping](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25BA_shopping)**
 * ⭐ **[PSU Calculator](https://www.newegg.com/tools/power-supply-calculator/)** or [Power Supply Calculator](https://outervision.com/power-supply-calculator) - Find Compatible Power Supplies
+* [SnappyDrivers](https://www.snappy-driver-installer.org/), [Drivers Collection](https://driverscollection.com/) or [DriverStoreExplorer](https://github.com/lostindark/DriverStoreExplorer) - Update / Install Missing Drivers
 * [DeviceTests](https://devicetests.com/) - Multiple Device Tests
 * [NotCPUCores](https://github.com/rcmaehl/NotCPUCores), [ParkControl](https://bitsum.com/parkcontrol/), [QuickCPU](https://coderbag.com/product/quickcpu) or [Process Lasso](https://bitsum.com/) - CPU Optimizer
 * [Ozone3D](https://www.ozone3d.net/index_softwares.php) - System Benchmarking
@@ -383,7 +381,6 @@
 * [Extended Win 7 Updates](https://forums.mydigitallife.net/threads/bypass-windows-7-extended-security-updates-eligibility.80606) - Extended Windows 7 Updates
 * [WUReset](https://wureset.com/) - Reset Windows Update Components
 * [UUP Dump](https://uupdump.net/) - Download Unified Update Platform Files
-* [SnappyDrivers](https://www.snappy-driver-installer.org/), [Drivers Collection](https://driverscollection.com/) or [DriverStoreExplorer](https://github.com/lostindark/DriverStoreExplorer) - Update / Install Missing Drivers
 * [OcxDump](https://ocxdump.com/) - .ocx Files
 
 ***
@@ -524,12 +521,5 @@
 * [UHD Wallpaper](https://www.uhdpaper.com/) - Wallpapers
 * [WallpapersCraft](https://wallpaperscraft.com/) - Wallpapers
 * [wallha](https://wallha.com/) - Wallpapers
-* [wallpapers](https://t.me/wallpapers/) - TG Wallpapers
-* [WallpapersGram](https://t.me/WallpapersGram/) - TG Wallpapers
-* [allwallpaper](https://t.me/allwallpaper) - TG Wallpapers
-* [Wallpaper](https://t.me/Wallpaper) - TG Wallpapers
-* [wallpaperselection](https://t.me/wallpaperselection) - TG Wallpapers
-* [Hk3To](https://t.me/Hk3To) - TG Wallpapers
 * [G_Walls](https://t.me/G_Walls) - TG Wallpapers
-* [EZwalls](https://t.me/EZwalls) - TG Wallpapers
 * [pengwyn](https://t.me/pengwyn) - TG Wallpapers
