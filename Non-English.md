@@ -1296,8 +1296,8 @@
 * [Mega1080](https://www.mega1080.com/) - Movies / Documentaries / Latino
 * [mirandopeliculas](https://www.mirandopeliculas.com/) - Movies / TV / Latino
 * [TodoPelisHD](https://todopelishd.com/) - Movies / Latino
-* [Hackstore.me](https://www.hackstore.me/) - Movies / TV / Anime
-* [Hackstore.rs](https://hackstore.rs/) - Movies / TV / Anime / [Bypasser script](https://greasyfork.org/en/scripts/431691)
+* [Hackstore.me](https://www.hackstore.me/) - Movies / TV / Anime / Latino
+* [Hackstore.rs](https://hackstore.rs/) - Movies / TV / Anime / Latino / [Bypasser script](https://greasyfork.org/en/scripts/431691)
 * [ProgramasVirtualesPC](https://www.programasvirtualespc.net/category/peliculas/) - Movies / TV / Latino / [Bypasser script](https://greasyfork.org/en/scripts/462492)
 * [MegaPeliculasRip](https://www.megapeliculasrip.net/) - Movies / Classics / TV / Animation / Latino
 * [BajarPelisGratis](https://www.bajarpelisgratis.com/) - Movies / Latino
