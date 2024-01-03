@@ -261,22 +261,21 @@
 
 * ⭐ **[takenote](https://takenote.dev/)** - Local Saves
 * ⭐ **[Zen](https://zen.unit.ms/)** - Local Saves
+* [Text Mechanic](https://textmechanic.com/) - Local Saves
+* [Browserpad](https://browserpad.org/) - Local Saves
+* [Notepad](https://notepad.js.org/) - Local Saves
+* [onlinenotepad](https://onlinenotepad.org/) - Local Saves
+* [notepad-online.net](https://notepad-online.net/) - Local Saves
+* [notepad-online.com](https://notepad-online.com/) - Local Saves
+* [JustNotePad](https://justnotepad.com/) - Local Saves
+* [Shrib](https://shrib.com/) - Local / Cloud Saves
+* [MemOnNotepad](https://www.memonotepad.com/) - Local / Cloud Saves
+* [Write Box](https://write-box.appspot.com/) - Local / Cloud Saves
+* [NimbleText](https://nimbletext.com/Live) - Cloud Saves
+* [ZippyJot](https://www.zippyjot.com/) - Cloud Saves
 * [TextSlave](https://www.textslave.com/)
-* [Text Mechanic](https://textmechanic.com/)
 * [GhostText](https://ghosttext.fregante.com/)
-* [MemOnNotepad](https://www.memonotepad.com/)
-* [NimbleText](https://nimbletext.com/Live)
-* [Browserpad](https://browserpad.org/)
-* [Shrib](https://shrib.com/)
-* [Notepad](https://notepad.js.org/)
-* [onlinenotepad](https://onlinenotepad.org/)
-* [notepad-online.net](https://notepad-online.net/)
 * [AnyTextEditor](https://anytexteditor.com/)
-* [ZippyJot](https://www.zippyjot.com/)
-* [notepad-online.com](https://notepad-online.com/)
-* [JustNotePad](https://justnotepad.com/)
-* [Write Box](https://write-box.appspot.com/)
-* [Org](https://orgmode.org/)
 * [KiloDoc](https://www.kilodoc.com/), [Edit-Document](https://edit-document.com/) or [GroupDocs](https://products.groupdocs.app/viewer/total) - Online Document Editors
 
 ***
