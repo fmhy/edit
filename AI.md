@@ -4,11 +4,6 @@
 ***
 ***
 
-**[Table of Contents](https://ibb.co/0fpQjy7)** - For mobile users
-
-***
-***
-
 # ► AI Chatbots
 
 # ► Proprietary LLMs
@@ -194,7 +189,7 @@
 * [Chat GPTPhantom](https://chatgpt-phantom.vercel.app/) - Article Writing AI
 * [GPT4Chat](https://gpt4chat.net/) or [ChatGPT Writer](https://chatgptwriter.ai/) - Email Reply AI
 * [TextFX](https://textfx.withgoogle.com/) - AI Creative Writing Tools
-* [Novel.sh](https://novel.sh/), [TextSynth](https://textsynth.com/playground.html) or [Basaran](https://github.com/hyperonym/basaran) - Text Autocomplete AI
+* [Novel.sh](https://novel.sh/), [TextSynth](https://textsynth.com/playground.html) - Text Autocomplete AI
 * [Compose](https://www.compose.ai/) - Text Autocomplete AI Extension
 * [NumerousAI](https://workspace.google.com/marketplace/app/numerousai/575253125118) or [FormulaBot](https://formulabot.com/) - Excel AI Tools
 * [Auto Text Expander](https://pastebin.com/TFPRieVN) - Shortcuts to Expand & Replace Text as you Type
