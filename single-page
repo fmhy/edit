@@ -112,7 +112,7 @@
 ## ▷ Grammar Check
 
 * ⭐ **[Scribens](https://www.scribens.com/)**
-* ⭐ **[Jenni](https://jenni.ai/)** / [Free Method](https://i.ibb.co/CwzQyzF/4c2af2db3adf.png)
+* ⭐ **[Jenni](https://jenni.ai/)**
 * [Wordtune](https://www.wordtune.com/)
 * [HemingwayApp](https://hemingwayapp.com/)
 * [Grammark](https://grammark.org/)
