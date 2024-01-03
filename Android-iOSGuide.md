@@ -4,11 +4,6 @@
 ***
 ***
 
-**[Table of Contents](https://ibb.co/zST3HSy)** - For mobile users
-
-***
-***
-
 # ► Android APKs
 
 * ⭐ **[AppManager](https://github.com/MuntashirAkon/AppManager/)** - Package Manager
@@ -162,7 +157,6 @@
 * [Blocker](https://github.com/lihenggui/blocker) - Component Controller
 * [Jdownloader](https://my.jdownloader.org/), [MZDownloadManager](https://github.com/mzeeshanid/MZDownloadManager), [1DM](https://play.google.com/store/apps/details?id=idm.internet.download.manager.adm.lite), [FDM](https://play.google.com/store/apps/details?id=org.freedownloadmanager.fdm) or [Navi](https://github.com/TachibanaGeneralLaboratories/download-navi) - Download File Managers
 * [Marc Files](https://play.google.com/store/apps/details?id=com.marc.files) - File Manager Shortcut
-* [Aethersx2](https://www.aethersx2.com/archive/) - File Directory Lister
 * [DeDuplicate](https://deduplicate.app/) - Duplicate File Remover
 * [Adebar](https://codeberg.org/izzy/Adebar), [Android-DataBackup](https://github.com/XayahSuSuSu/Android-DataBackup), [Swift Backup](https://swiftapps.org/), [Neo Backup](https://github.com/NeoApplications/Neo-Backup) - Device Backup Tools
 * [shouko](https://github.com/ivaniskandar/shouko) or [Tweaker](https://github.com/zacharee/Tweaker) - Android System Tweaks / Features
