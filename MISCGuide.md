@@ -8,7 +8,7 @@
 
 * 🌐 **[/r/Piracy Megathread](https://www.reddit.com/r/Piracy/wiki/megathread)** - Piracy Index / [Rentry](https://rentry.co/megathread), [2](https://rentry.org/megathread)
 * 🌐 **[BOOKMRKS-MTHRFCKR](https://github.com/whoisdsmith/BOOKMRKS-MTHRFCKR)** - Site / Tool Index
-* 🌐 **[Champagne Wiki](https://champagne.pages.dev/)** - Piracy Index / [Discord](https://discord.gg/cH3ZkVc3Gd) / [Guides](https://rentry.org/champagne_guides/)
+* 🌐 **[Champagne Wiki](https://champagne.pages.dev/)** - Piracy Index / [Discord](https://discord.gg/cH3ZkVc3Gd)
 * 🌐 **[Ripped](https://ripped.guide/)** - Piracy Index / [Discord](https://discord.ripped.guide/)
 * 🌐 **[Esoterica Avenue](https://ori5000.github.io/)** - Piracy Index / [Site List](https://rentry.org/EsotericaSiteList) / [Discord](https://discord.gg/enMG8bXUbn)
 * 🌐 **[/r/PiratedGames Mega](https://rentry.org/pgames)** / [Discord](https://discord.gg/dZWwhUy) - Game Piracy Index
