@@ -332,6 +332,7 @@
 ## ▷ Streaming
 
 * ⭐ **[Sadisflix](https://sadisflix.bid/)** - Movies / TV / Anime / Dub / 1080p / [Telegram](https://t.me/sadisflix)
+* [Hotstream](https://hotstream.me) - Movies / TV Shows / Cartoons / Anime / Live Television / 1080p
 * [MesFilms](https://mesfilms.top/) - Movies / TV / Cartoons / Anime / Sub / Dub / 1080p
 * [VoirFilmsHD](https://flashfilms-hd.top/) - Movies / TV / Cartoons / Anime / Sub / Dub / 720p
 * [Cinematheque](https://www.cinematheque-bretagne.bzh/) - Classic / Amateur Movies
