@@ -10692,7 +10692,6 @@ Linux Gaming Guide
 * ⭐ **[PhotoMosh](https://photomosh.com/)**, [jpg-glitch-electron](https://snorpey.github.io/jpg-glitch-electron/), [glitch-this!](https://github.com/TotallyNotChase/glitch-this), [GlitchyImage](https://glitchyimage.com/) or [Image Glitch Tool](https://github.com/snorpey/jpg-glitch) - Glitch Images
 * [PhotoFunia](https://photofunia.com/) or [Designify](https://designify.com/) - Photo Effects / Filters
 * [distort-grid](https://github.com/snorpey/distort-grid) - Grid Based Image Distortion
-* [Beadifier](https://www.beadifier.com/editor/) - Bead Based Image Distortion
 * [Picmunge](https://picmunge.cvservant.com/) - Image Transformer
 * [Tinter](https://tinter.uxie.io/) - Image Hue Editor
 * [ordered-dither-maker](https://seleb.github.io/ordered-dither-maker/) - Image Dithering
@@ -10712,7 +10711,7 @@ Linux Gaming Guide
 
 * ↪️ **[AI Image Generators](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/ai/#wiki_.25BA_image_generation)**
 * [more.graphics](https://more.graphics/) - Graphic Generators
-* [FontIcon](https://gauger.io/fonticon/), [PFPMaker](https://pfpmaker.com/), [IconsFlow](https://iconsflow.com/), [Flat-Icon-Surge](https://flat-icon.surge.sh/), [favicon.software](https://www.favicon.software/), [favicon.io](https://favicon.io/) or [Favic-o-Matic](https://favicomatic.com/) - Icon / Logo Generators
+* [FontIcon](https://gauger.io/fonticon/), [PFPMaker](https://pfpmaker.com/), [IconsFlow](https://iconsflow.com/), [Flat-Icon-Surge](https://flat-icon.surge.sh/), [favicon.io](https://favicon.io/) or [Favic-o-Matic](https://favicomatic.com/) - Icon / Logo Generators
 * [Logo Makr](https://logomakr.com/), [Hatchful](https://www.shopify.com/tools/logo-maker), [Logomak](https://logomak.com/), [The Logo Wizard](https://www.thelogowizard.com/), [DesignEvo](https://designevo.com/), [LogoFreeway](https://logofreeway.com/logos.php), [Logoshi](https://www.logoshi.com/), [OnlineLogoMaker](https://www.onlinelogomaker.com/), [Free Logo Maker](https://freelogomaker.net/), [LogoMaker](https://www.namecheap.com/logo-maker/app/new/) or [ACME](https://acme.com/labelmaker/) - Logo Creators / [Note](https://i.ibb.co/B3Mn3Hq/b7a4cf526ad1.png)
 * [JSLogo](https://www.calormen.com/jslogo/) - Logo Interpreter
 * [ArtFlow](https://app.artflow.ai/), [Avatar Mixer](https://kenney.itch.io/avatar-mixer), [Bitmoji](https://www.bitmoji.com/), [Avatar Maker](https://avatarmaker.com/), [Pravatar](https://pravatar.cc/), [MultiAvatar](https://multiavatar.com/), [Personas](https://personas.draftbit.com/), [react-nice-avatar](https://github.com/dapi-labs/react-nice-avatar) or [Avataaars](https://getavataaars.com/) - Face / Avatar Creators
@@ -10892,7 +10891,7 @@ Linux Gaming Guide
 
 * 🌐 **[Awesome Stock Resources](https://github.com/neutraltone/awesome-stock-resources#photography)** - Stock Photo Index
 * ⭐ **[EveryPixel](https://www.everypixel.com/)** or [LibreStock](https://librestock.com/) - Stock Photo Search Engines
-* ⭐ **[GetPaidStock](https://getpaidstock.com/)**, **[Downloader.la](https://new.downloader.la/)**, [VisualHunt](https://visualhunt.com/) or [istock](https://istock.7xm.xyz/) - Download Paid Stock Photos for Free
+* ⭐ **[GetPaidStock](https://getpaidstock.com/)**, **[Downloader.la](https://downloader.la/)**, [VisualHunt](https://visualhunt.com/) or [istock](https://istock.7xm.xyz/) - Download Paid Stock Photos for Free
 * [Smithsonian Open Access](https://www.si.edu/OpenAccess) - Smithsonian High Quality Photos
 * [desirefx](https://desirefx.me/category/stock_images/) - Stock Photo Overlays
 * [creativity103](https://creativity103.com/) - Abstract Background Photos
@@ -11205,7 +11204,8 @@ Linux Gaming Guide
 * [Image Identification Project](https://www.imageidentify.com/) - Image Identification Tool
 * [CryptoStego](https://github.com/zeruniverse/CryptoStego), [StegOnline](https://stegonline.georgeom.net/image), [OpenStego](https://www.openstego.com/), [OpenPuff](https://embeddedsw.net/OpenPuff_Steganography_Home.html), [Steganography-PNG](https://pedrooaugusto.github.io/steganography-png/) / [GitHub](https://github.com/pedrooaugusto/steganography-png), [ImSter](https://github.com/DJayalath/ImSter), [stegano](https://bztsrc.gitlab.io/stegano/) or [stegpy](https://github.com/dhsdshdhk/stegpy) - Images Steganography Tools
 * [Aperisolve](https://aperisolve.fr/), [2](https://www.aperisolve.com/) - Steganography Analysis Tool
-* [Unredacter](https://github.com/BishopFox/unredacter) - Crack Pixelated Images 
+* [Unredacter](https://github.com/BishopFox/unredacter) - Crack Pixelated Images
+* [Redacted](https://redacted.app/)  - Blur, Pixelate or Blackout parts of Images
 * [Image Scrubber](https://everestpipkin.github.io/image-scrubber/)- Blur Images / Scrub Metadata
 * [Schizoware](https://sourceforge.net/projects/schizoware/) - Image Name / Hash Randomizer
 * [BetterCensorship](https://bc.betterrepack.com/) - Censor and De-censor Images
