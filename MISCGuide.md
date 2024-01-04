@@ -731,7 +731,6 @@
 * [Amazon International Links](https://greasyfork.org/en/scripts/38639-amazon-international-links) - International Amazon Products
 * [Facebook Ad Library](https://www.facebook.com/ads/library/) - Find Deals via Facebook Ad Search
 * [AllCraigslistSearch](https://allcraigslistsearch.com/) or [Craigs List Search](https://craigs-list-search.com/) - Craigslist Search
-* [SearchAllJunk](https://searchalljunk.com/) - Multi-Classifieds Search
 * [PicFlick](https://picclick.com/) - Ebay Quick Search
 * [Type Hound](https://typohound.com/) - Ebay Typo Search
 * [BTOD](https://www.btod.com/blog/category/buying-guides/) - Office Chair Buying Guides / Reviews
@@ -893,7 +892,6 @@
 * ↪️ **[AI Chatbots](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/ai#wiki_.25BA_ai_chatbots)**
 * ⭐ **[Knockout](https://knockout.chat/)** / [Discord](https://discord.gg/wjWpapC), [SheepishPatio](https://sheepishpatio.net/) or [SomethingAwful](https://forums.somethingawful.com/) - General Forums
 * ⭐ **[Our World of Text](https://ourworldoftext.com/)** or [Your World of Text](https://www.yourworldoftext.com/) - Infinite Community Text Grid
-* [Doodle Place](https://doodle-place.glitch.me/) - Virtual Drawing World
 * [Posting.Cool](https://posting.cool/) - Random Topic Forum
 * [Earth Reviews](https://neal.fun/earth-reviews/) - Help Improve the Simulation
 * [Virtual World List](https://virtualworldslist.neocities.org/) - Virtual World List
@@ -1072,7 +1070,6 @@
 * 🌐 **[Awesome Lego](https://github.com/ad-si/awesome-lego)** - Lego Resources
 * ↪️ **[Online Virtual Tours](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu#wiki_.25BA_virtual_tours)**
 * ⭐ **[Iceberg Charts](https://icebergcharts.com/)** - Explore Obscure Topics / [/r/IcebergCharts](https://www.reddit.com/r/IcebergCharts/)
-* ⭐ **[Conspiracy Theory Iceberg](https://ipfs.io/ipfs/QmWszAAzXjaD6hQZXbfhF9qBFWpnPwZVWU131HVf42WZej)** - Conspiracies / Occult / Mythology / [Video Playlist](https://www.youtube.com/watch?v=7I2KJL-gJPU&list=PLfeWBGty_481haNoS_ozOVdIyOpyXMjUC)
 * ⭐ **[InfiniteConversation](https://infiniteconversation.com/)** - Never-Ending Werner Herzog / Slavoj Žižek Conversation
 * ⭐ **[Ranker](https://www.ranker.com/)**, [Listography](https://listography.com/), [hero](https://hero.page/), [FlexLists](https://flexlists.com/), [TheTopsTens](https://www.thetoptens.com/), [CopyPasteList](https://copypastelist.co/) or [ListVerse](https://listverse.com/) - Create / Explore Lists
 * ⭐ **[The Lost Media Wiki](https://lostmediawiki.com/)** / [Forum](https://forums.lostmediawiki.com/)
