@@ -541,6 +541,7 @@
 * [cinemakick](https://www.cinemakick.com/) - Movies / TV / Dub / 720p
 * [IndianCine](https://indiancine.ma/) - Indian Short / Classic Movies
 * [mxplayer](https://www.mxplayer.in) - Movies
+* [Animerulz](https://animerulz.in/) - Anime
 * [DesiTellyBox](https://www.desitellybox.me/) - South Asian TV / Dub / 720p
 * [Bollyfunserial](https://freewatchserialonline.com/) - South Asian TV / Dub / 720p
 * [PakBcn](http://www.pakbcn.one/) - South Asian TV / Live / Dub / 720p
@@ -1296,15 +1297,13 @@
 * [Mega1080](https://www.mega1080.com/) - Movies / Documentaries / Latino
 * [mirandopeliculas](https://www.mirandopeliculas.com/) - Movies / TV / Latino
 * [TodoPelisHD](https://todopelishd.com/) - Movies / Latino
+* [Hackstore.me](https://www.hackstore.me/) - Movies / TV / Anime
+* [ProgramasVirtualesPC](https://www.programasvirtualespc.net/category/peliculas/) - Movies / TV / Latino / [Bypasser script](https://greasyfork.org/en/scripts/462492)
 * [MegaPeliculasRip](https://www.megapeliculasrip.net/) - Movies / Classics / TV / Animation / Latino
 * [BajarPelisGratis](https://www.bajarpelisgratis.com/) - Movies / Latino
 * [Bajalo Gratis](https://bajalogratis.com/) - Movies / Latino
 * [Relampago Movies](https://relampagomovies.com/) - Movies / Latino
-* [Hackstore.me](https://www.hackstore.me/) - Movies / TV / Anime / Latino
-* [Hackstore.rs](https://hackstore.rs/) - Movies / TV / Anime / Latino / [Bypasser script](https://greasyfork.org/en/scripts/431691)
-* [ProgramasVirtualesPC](https://www.programasvirtualespc.net/category/peliculas/) - Movies / TV / Latino / [Bypasser script](https://greasyfork.org/en/scripts/462492)
 * [SeiresHD](https://serieslandia.com/), [2](https://seireshd.com/) - Movies / TV / Animation / Latino / [Bypasser script](https://greasyfork.org/en/scripts/477591)
-* [Don Pelis](https://donpelis.org/), [2](https://granpirata.com/) - Movies / TV / Animation / Latino / [Bypasser script](https://greasyfork.org/en/scripts/477591)
 * [La Comunidad](https://t.me/s/la_comunidad) - Movies / TV / Telegram / Castilian
 * [Peliculas 480p](https://t.me/cinema480p) - Movies / Telegram / Latino
 * [DramasEmisiones](https://t.me/dramasemisiones), [2](https://t.me/Imundodoramas) - Asian Drama / Telegram
