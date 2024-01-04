@@ -102,7 +102,7 @@
 
 ## ▷ Aggregators
 
-* **Danger** - Aggregators include many sources, so it's best to avoid using them for software and games.(If their names are included in the uploader list in the [Unsafe sites](https://fmhy.net/unsafesites) and [Untrusted uploaders](https://rentry.org/pgames#untrusted-uploaders) lists, they should definitely not be trusted!)
+* **Danger** - Aggregators include many sources, so it's best to avoid using them for software and games. (If the names of the uploaders on the sites are listed in [Unsafe sites](https://fmhy.net/unsafesites) and [Untrusted uploaders](https://rentry.org/pgames#untrusted-uploaders), these uploaders should not be trusted!)
 
 ***
 
