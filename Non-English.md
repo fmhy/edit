@@ -1154,7 +1154,6 @@
 * [PB.wtf](https://pb.wtf/) - Video / Audio / Books / Comics / Magazines / NSFW
 * [Riper.AM](https://riperam.org/) - Video / Audio / Books / Magazines / NSFW
 * [rustorka](https://rustorka.com/forum/index.php) - Video / Audio / Books / ROMs / Games / Magazines
-* [Tapochek](https://tapochek.net/) - Video / Audio / Books
 * [Korsars](http://korsars.pro/) - Video / Audio / Books
 * [nionDHT](https://uniondht.org/) - Video / Audio / Books / NSFW
 * [SeedOff](https://seedoff.zannn.top/) - Video / Audio / Books
