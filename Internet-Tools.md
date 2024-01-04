@@ -651,7 +651,6 @@
 * [Multimedia Search](https://multimediasearchapp.com/) - Browser File Search
 * [Suggesty](https://chromewebstore.google.com/detail/suggesty/hbiphmiliockggpepniplkkfmnhdihjh) - Human Like Search Results
 * [Query Side-By-Side](https://chromewebstore.google.com/detail/double-shot-search-query/kddlkbpbepnaepdleclhdnfdpdogdhop) - Search Google & Bing at the Same Time
-* [SessionBox](https://chromewebstore.google.com/detail/sessionbox-multi-login-to/megbklhjamjbcafknkgmokldgolkdfigen) - Multi-Account Login for any Site
 * [Selectable](https://chromewebstore.google.com/detail/selectable-for-fanfiction/jcidlhgdoojamkbpmhbpgldmajnobefd?ucbcb=1) - Force Enable Select Text
 * [CrxMouse (chrome)](https://crxmouse.com/) - Mouse Gestures
 * [Night Shift Redux](https://nightshift.lu/) - Adapts Display Color to Time of Day
