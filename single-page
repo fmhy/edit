@@ -11,7 +11,7 @@
 * [Count Duplicates](https://www.somacon.com/p568.php) or [DuplicateWord](https://duplicateword.com/) - Count / Remove Duplicates in a List
 * [Count Wordsworth](https://countwordsworth.com/) - Count Words in a List
 * [Delim](https://delim.co/) - Comma Separating Tool
-* [Dictation](https://dictation.io/speech), [SpeechTexter](https://www.speechtexter.com/), [SpeechNotes](https://speechnotes.co/), [LilySpeech](https://lilyspeech.com/), [VoiceToText](https://voicetotext.org/), [TalkTyper](https://talktyper.com/) or [VoiceNotebook](https://voicenotebook.com/) - Speech to Text
+* [SpeechTexter](https://www.speechtexter.com/), [SpeechNotes](https://speechnotes.co/), [LilySpeech](https://lilyspeech.com/), [VoiceToText](https://voicetotext.org/), [TalkTyper](https://talktyper.com/) or [VoiceNotebook](https://voicenotebook.com/) - Speech to Text
 * [WindowTextExtractor](https://github.com/AlexanderPro/WindowTextExtractor) - Extract Text From Any Window
 * [Content Parser](https://content-parser.com/) - Extract Markdown, HTML and Text from Sites
 * [Textify](https://ramensoftware.com/textify) - Copy Text from Any Dialog
@@ -369,6 +369,7 @@
 * [DeepAA](https://github.com/OsciiArt/DeepAA)
 * [Kakikun](https://github.com/file-acomplaint/kakikun)
 * [Playscii](https://jp.itch.io/playscii)
+* [Kammerl](https://www.kammerl.de/ascii/AsciiSignature.php) - ASCII Text Generator
 * [ascii-art-generator](https://www.ascii-art-generator.org/), [ascii-generator](https://ascii-generator.site/), [asciiart](https://asciiart.club/), [ascii-image-converter](https://github.com/TheZoraiz/ascii-image-converter) or [ASCII-art-creator](https://github.com/CherryPill/ASCII-art-creator) - Image to ASCII Art
 * [Love ASCII](http://loveascii.com/), [16colors](https://16colo.rs/), [ascii.co](https://ascii.co.uk/art) or [RoySAC](http://www.roysac.com/sitemap.html) - Copy ASCII Art
 * [ASCII Flow](https://asciiflow.com/) or [Tree](https://tree.nathanfriend.io/) - Create ASCII Diagrams
