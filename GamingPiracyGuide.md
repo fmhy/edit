@@ -1157,7 +1157,7 @@
 
 * 🌐 **[Roblox Archive](https://archive.roblonium.com/)** - Roblox Client Archive
 * ⭐ **[Roblox Account Manager](https://github.com/ic3w0lf22/Roblox-Account-Manager)** - Roblox Account Manager
-* ⭐ **[Roblox Performance](https://rentry.co/roblox-player-studio-performance)**, [Mr. Goose's Guide](https://docs.google.com/document/d/1_XH3IMpaCtoKR1U38Zh08kbJr-WwptsxHSza-G7UKGU/), [Notes on Rendering](https://rentry.co/truth-about-rendering), and [TBROGE's Optimization Guide](https://rentry.co/TBROGE) - Roblox Optimization Guides
+* ⭐ **[Roblox Performance](https://rentry.co/roblox-player-studio-performance)**, [Mr. Goose](https://docs.google.com/document/d/1_XH3IMpaCtoKR1U38Zh08kbJr-WwptsxHSza-G7UKGU/) ([Note](https://rentry.co/truth-about-rendering)), or [TBROGE](https://rentry.co/TBROGE) - Guides for Optimizing Roblox.
 * ⭐ **[Rolimon's](https://www.rolimons.com/games)** or [RoMonitor Stats](https://romonitorstats.com/) - Roblox Experience Stats
 * ⭐ **[Bloxstrap](https://github.com/pizzaboxer/bloxstrap)** - Roblox Player Bootstrapper
 * [RBXFPSUnlocker](https://github.com/axstin/rbxfpsunlocker) - Unlock Roblox FPS Cap / [Note](https://pastebin.com/rB4BEf5b)
