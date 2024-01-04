@@ -162,7 +162,7 @@
 * [JAVdb](https://javdb.com/) - JAV
 * [My JAV Bay](https://myjavbay.com/) - JAV
 * [JAVJunkies](https://javjunkies.org/main/) - JAV
-* [Cheggit](https://www.cheggit.me/register.php), [BitSexy](https://bitsexy.org/signup.php) or [HappyFappy](https://www.happyfappy.org/users/register) - Private Trackers / Open-Signups
+* [Cheggit](https://www.cheggit.me/register.php) or [HappyFappy](https://www.happyfappy.org/users/register) - Private Trackers / Open-Signups
 * [srrXXX](https://www.srrxxx.com/) - Scene Release Tracker
 
 ***
