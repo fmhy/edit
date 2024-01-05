@@ -194,7 +194,7 @@
 ## ▷ PDF Tools
 
 * ⭐ **[Sejda](https://www.sejda.com/)** or [SimplePDF](https://simplepdf.eu/) - Online PDF Toolkit
-* [xPDFReader](https://www.xpdfreader.com/), [PDFBox](https://pdfbox.apache.org/) or [OpenPDF](https://github.com/LibrePDF/OpenPDF) - PDF Editors / Toolkits
+* [xPDFReader](https://www.xpdfreader.com/), [PrivatePDF](https://github.com/photown/private-pdf), [PDFBox](https://pdfbox.apache.org/) or [OpenPDF](https://github.com/LibrePDF/OpenPDF) - PDF Editors / Toolkits
 * [PDFGrep](https://pdfgrep.org/) - PDF Text Search
 * [invert-pdf.club](https://invert-pdf.club/) - Invert PDF Color / [Github](https://github.com/keotl/invert-pdf)
 * [View-only PDF](https://rentry.co/cm4b7) - Download View-Only PDF on GDrive
@@ -374,6 +374,7 @@
 * [Cloud Storage Archiving Guide](https://pastebin.com/kLhLHsXg) - How-to Safely Archive Files on Cloud Storage Sites
 * [terabox](https://terabox.com/) - 1TB Free / $3.50 for 2TB
 * [CyberFile](https://cyberfile.me/) - 1TB Free
+* [HelURL(https://helurl.com/) - 50GB Free
 * [dropbox](https://www.dropbox.com/) - 5GB Free / ~$5 for 1TB / [Client](https://github.com/SamSchott/maestral)
 * [mediafire](https://www.mediafire.com/) - 10GB Free / $5.83 for 1TB
 * [icedrive](https://icedrive.net/) - 10GB Free / $5 for 1TB
