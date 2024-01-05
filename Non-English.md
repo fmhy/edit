@@ -1711,7 +1711,7 @@
 * [TaiSach](https://taisachmienphi.com/) - Books
 * [DocSach24](https://docsach24.co/) - Books
 * [SachHay](https://www.sachhayonline.com/) - Books
-* [TruyenPlus](Truyenplus.vn) - Books / Novel
+* [TruyenPlus](https://Truyenplus.vn) - Books / Novel
 * [VNDoc](https://vndoc.com/) - Educational Books / Documents
 * [LoiGiaiHay](https://loigiaihay.com/) - Educational Books / Documents
 * [VietJack](https://vietjack.com/) - Educational Books / Documents
