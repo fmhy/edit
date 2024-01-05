@@ -73,7 +73,7 @@
 
 # ► Torrent Sites
 
-**Note** - It's best to avoid sites that allow anyone to upload without consequence (like TPB) when getting both software and games. Avoid users in the [Unsafe](https://fmhy.net/unsafesites) or [Untrusted](https://rentry.org/pgames#untrusted-uploaders) lists.
+**Warning** - It's best to avoid sites that allow anyone to upload without consequence (like TPB) when getting both software and games. Avoid users in the [Unsafe](https://fmhy.net/unsafesites) or [Untrusted](https://rentry.org/pgames#untrusted-uploaders) lists.
 
 ***
 
