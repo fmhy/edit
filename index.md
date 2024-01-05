@@ -17,7 +17,7 @@ hero:
     - theme: brand
       text: Browse Collection
       link: /adblockvpnguide
-    - theme: brand
+    - theme: alt
       text: Posts
       link: /posts
     - theme: alt

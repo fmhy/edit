@@ -227,3 +227,9 @@
     transform: rotate(360deg);
   }
 }
+
+.VPHero .action:not(:last-child) a.VPButton.alt {
+  background-color: transparent;
+  border-color: var(--vp-c-brand-soft) !important;
+  color: var(--vp-button-alt-text) !important;
+}
