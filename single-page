@@ -81,6 +81,7 @@
 * [OmegaT](https://omegat.org/) - Translation Memory Tool
 * [Translate-Images](https://translate-image.com/) - Translate Image Text
 * [FastHub](https://fasthub.net/) - Text to Speech Translation Tool
+* [ASR Leaderboard](https://huggingface.co/spaces/hf-audio/open_asr_leaderboard) - Speech Recognition AI Leaderboard
 * [Useless-Translator](https://vcjhwebdev.github.io/useless-translator/), [Morsecode World](https://morsecode.world/) or [MorseDecoder](https://morsedecoder.com/) - Morse Code / Binary Translators
 * [The Pirate Translator](https://pirate.monkeyness.com/translate) - Translate Text to Pirate
 * [Emojify](https://madelinemiller.dev/apps/emojify/) - Emojify Text
@@ -426,6 +427,7 @@
 
 * ⭐ **[Font Download Guide](https://redd.it/8tqfg6)**
 * ⭐ **[Font Drives](https://github.com/nbats/FMHYedit/blob/main/base64.md#font-collections)**
+* ⭐ **[FontSource](https://fontsource.org/)**
 * [Coollabs](https://fonts.coollabs.io/) - Google Font Alternative / [GitHub](https://github.com/coollabsio/fonts)
 * [Google Fonts](https://fonts.google.com/)
 * [GooFonts](https://goofonts.com/)
