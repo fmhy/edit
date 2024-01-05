@@ -12524,8 +12524,7 @@ Use a **[Base64 Decoder](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock
 * [AnySoftKeyboard](https://anysoftkeyboard.github.io/) / [Git](https://github.com/AnySoftKeyboard/AnySoftKeyboard) or [Florisboard](https://github.com/florisboard/florisboard) - Incognito Keyboard
 * [Matsuri](https://github.com/MatsuriDayo/NekoBoxForAndroid) - Proxy Toolchains
 * [Silence](https://silence.im/) or [Partisan SMS](https://github.com/wrwrabbit/Partisan-SMS) - Encrypt SMS/MMS Messages
-* [Jami](https://jami.net/), [Syphon](https://syphon.org/), [Mesibo](https://play.google.com/store/apps/details?id=com.mesibo.mesiboapplication) or [Element](https://schildi.chat/android/) / [2](https://play.google.com/store/apps/details?id=im.vector.app) - Encrypted Messaging / Video Calls
-* [SmallTalk](https://github.com/ouchadam/small-talk) - Matrix Client
+* [Jami](https://jami.net/), [Syphon](https://syphon.org/), [Mesibo](https://play.google.com/store/apps/details?id=com.mesibo.mesiboapplication), [SmallTalk](https://github.com/ouchadam/small-talk) or [Element](https://schildi.chat/android/) / [2](https://play.google.com/store/apps/details?id=im.vector.app) - Encrypted Messaging / Video Calls
 * [adb-clear-packages](https://gist.github.com/noseratio/e3b136401965289c4aab40fa60f3be41) - Clear Android Packages Data
 * [AntiStalker](https://www.mallocprivacy.com/) or [Privacy Indicator App](https://github.com/NitishGadangi/Privacy-Indicator-App) - Camera / Mic Access Indication
 * [PilferShushJammer](https://github.com/kaputnikGo/PilferShushJammer) - Microphone Jamming Techniques
@@ -13155,9 +13154,9 @@ Use a **[Base64 Decoder](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock
 * [Brave](https://apps.apple.com/us/app/brave-private-web-browser-vpn/id1052879175), [Firefox Focus](https://apps.apple.com/us/app/firefox-focus-privacy-browser/id1055677337) or [DuckDuckGo Privacy Browser](https://duckduckgo.com/app) - Privacy Based Browsers
 * [Lockdown iOS](https://apps.apple.com/dk/app/lockdown-apps/id1469783711) - iOS Firewall / [GitHub](https://github.com/confirmedcode/Lockdown-iOS)
 * [ProtonVPN](https://protonvpn.com/download-ios) - Free VPN
-* [ElementPotatso Lite](https://apps.apple.com/us/app/potatso-lite/id1239860606) - Proxy App
-* [](https://apps.apple.com/us/app/element-messenger/id1083446067), [FluffyChat](https://apps.apple.com/us/app/fluffychat/id1551469600) or [Syphon](https://syphon.org/) - Matrix Clients
-* [Wickr](https://apps.apple.com/us/app/wickr-pro/id1200926568), [Jami](https://jami.net/), [MySudo](https://mysudo.com/) or [Element](https://apps.apple.com/app/vector/id1083446067) - Encrypted Messaging / Video Calls
+* [Potatso Lite](https://apps.apple.com/us/app/potatso-lite/id1239860606) - Proxy App
+* [Element](https://apps.apple.com/us/app/element-messenger/id1083446067), [FluffyChat](https://apps.apple.com/us/app/fluffychat/id1551469600) or [Syphon](https://syphon.org/) - Matrix Clients
+* [Wickr](https://apps.apple.com/us/app/wickr-pro/id1200926568), [Jami](https://jami.net/) or [MySudo](https://mysudo.com/) - Encrypted Messaging / Video Calls
 * [ProtonMail](https://apps.apple.com/us/app/protonmail-encrypted-email/id979659905) - Encrypted Emailing Service
 * [PrivacyBlur](https://privacyblur.app/) - Blur Sensitive Parts of Photos / [GitHub](https://github.com/MATHEMA-GmbH/privacyblur)
 
