@@ -60,7 +60,7 @@
 * ⭐ **[EverythingToolbar](https://github.com/srwi/EverythingToolbar)**, [Hyper](https://github.com/hyperts/Hyper), [yasb](https://github.com/denBot/yasb) or [Smart Taskbar](https://github.com/ChanpleCai/SmartTaskbar) - Improved Taskbars
 * ⭐ **[EarTrumpet](https://eartrumpet.app/)**, [Volumey](https://github.com/G-Stas/Volumey) or [Volume2](https://github.com/irzyxa/Volume2) - Improved Volume Mixer
 * [Couleur Tweak Tips](https://discord.gg/CTT) - Windows Tweaking Guides
-* [MajorGeeks Windows Tweaks](https://www.majorgeeks.com/files/details/majorgeeks_registry_tweaks.html), [Winaero](https://winaero.com/), [QuickBoost](https://github.com/SanGraphic/QuickBoost) - System Tweaking Tools / **[Warning](https://pastebin.com/vMYCiAGE)**
+* [MajorGeeks Windows Tweaks](https://www.majorgeeks.com/files/details/majorgeeks_registry_tweaks.html), [Winaero](https://winaero.com/), [QuickBoost](https://github.com/SanGraphic/QuickBoost) or [Windhawk](https://windhawk.net/) - System Tweaking Tools / **[Warning](https://pastebin.com/vMYCiAGE)**
 * [Awesome Scripts](https://github.com/Py-Contributors/awesomeScripts), [abbodi1406](https://forums.mydigitallife.net/posts/1343297/), [BatUtil](https://github.com/abbodi1406/BatUtil) or [TechNet-Gallery](https://github.com/MScholtes/TechNet-Gallery) - System Scripts
 * [Win10 Widgets](https://win10widgets.com/), [BeWidgets](https://apps.microsoft.com/store/detail/bewidgets/9NQ07FG50H2Q) or [Eww](https://github.com/elkowar/eww) - Widgets for Windows
 * [Wintoys](https://apps.microsoft.com/store/detail/wintoys/9P8LTPGCBZXD) - Improved Control Panels
@@ -335,6 +335,7 @@
 * [Launchy](https://launchy.net/), [FlowLauncher](https://www.flowlauncher.com/), [Keypirinha](https://keypirinha.com/), [Ueli](https://ueli.app/) / [GitHub](https://github.com/oliverschwendener/ueli) - Keystroke Launchers
 * [KeyViz](https://github.com/mulaRahul/keyviz) - Keystroke Visualizer
 * [WhatPulse](https://whatpulse.org/) - Mouse / Keyboard Usage Analyzer
+* [Deskhop](https://github.com/hrvach/deskhop) - Quickly Switch Devices between Computers
 * [SharpKeys](https://github.com/randyrants/sharpkeys/), [Vial](https://github.com/vial-kb/vial-gui), [Ergogen](https://ergogen.xyz/) or [Persistence](https://github.com/NtQuerySystemInformation/CustomKeyboardLayoutPersistence) - Custom Keyboard Layouts
 * [DreyMaR's](https://dreymar.colemak.org/) - Keyboard Tips and Resources
 * [Keyboard University](https://keyboard.university/) or [KDB](http://xahlee.info/kbd/keyboarding.html) - Mechanical Keyboard Building Guides
