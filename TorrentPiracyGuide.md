@@ -73,7 +73,7 @@
 
 # ► Torrent Sites
 
-**Note** - It's best to avoid sites that allow anyone to upload without consequence (like TPB) when getting both software and games.
+**Note** - It's best to avoid sites that allow anyone to upload without consequence (like TPB) when getting both software and games. Avoid users in the [Unsafe](https://fmhy.net/unsafesites) or [Untrusted](https://rentry.org/pgames#untrusted-uploaders) lists.
 
 ***
 
@@ -102,7 +102,7 @@
 
 ## ▷ Aggregators
 
-* **Danger** - Aggregators include many sources, so it's best to avoid using them for software and games. (If the names of the uploaders on the sites are listed in [Unsafe sites](https://fmhy.net/unsafesites) and [Untrusted uploaders](https://rentry.org/pgames#untrusted-uploaders), these uploaders should not be trusted!)
+* **Warning** - Aggregators include many sources, so it's best to avoid using them for software and games. Avoid users in the [Unsafe](https://fmhy.net/unsafesites) or [Untrusted](https://rentry.org/pgames#untrusted-uploaders) lists.
 
 ***
 
