@@ -694,6 +694,7 @@
 * [98.css](https://jdan.github.io/98.css/) - Build Windows 98 Themed Interfaces / [GitHub](https://github.com/jdan/98.css)
 * [Kubeorbit](https://github.com/teamcode-inc/kubeorbit) - Application Testing / Debugging
 * [Inno Setup](https://jrsoftware.org/isinfo.php) or [InstallForge](https://www.installforge.net/) - Create Installation Programs
+* [Jina](https://github.com/jina-ai/jina) - Create AI Applications
 * [Amplication](https://amplication.com/) - Create Node.js Apps
 * [Ink](https://github.com/vadimdemedes/ink) - Create Interactive CLI Apps
 * [smenu](https://github.com/p-gen/smenu) - Create CLI Menus
@@ -983,6 +984,7 @@
 * [Install from GitHub](https://github.com/MaxGyver83/install-from-github) or [Eget](https://github.com/zyedidia/eget) - Install Packages / Binaries Directly from GitHub 
 * [useful-forks](https://useful-forks.github.io/) or [GitPop3](https://andremiras.github.io/gitpop3/) - GitHub Fork Search 
 * [Active-Forks](https://techgaun.github.io/active-forks/index.html) - Find Active GitHub Forks / [GitHub](https://github.com/techgaun/active-forks)
+* [PR Agent](https://github.com/Codium-ai/pr-agent) - Automated Pull Requests
 * [StarGrab](https://github.com/zekroTJA/stargrab) - Mirror GitHub Repositories
 * [OctoLinker](https://octolinker.vercel.app/) - Make GitHub Code References Clickable
 * [Octotree](https://www.octotree.io/) - GitHub Repo File Tree View
@@ -1197,6 +1199,7 @@
 * [WDTCD?](https://whatdoesthiscodedo.com/) - Coding AI
 * [Cody](https://about.sourcegraph.com/cody) - Coding AI
 * [CodiumAI](https://www.codium.ai/) - Coding AI
+* [continue](https://continue.dev/) - Coding AI
 * [Bito AI](https://bito.ai/) - Coding AI
 * [Blackbox](https://www.blackbox.ai/) - Coding AI
 * [CollectivAI](https://chat.collectivai.com/) - Coding AI
@@ -1257,7 +1260,7 @@
 * [TidalCycles](https://tidalcycles.org/) - Live Algorithmic Coding Environment / [Discord](https://discord.com/invite/ugFq7KfGnB)
 * [Thonny](https://thonny.org/) - Python IDE
 * [SciTE](https://www.scintilla.org/SciTE.html) - Source Code Editor for Win32 and X
-* [OpenChakra](https://openchakra.app/) - Visual Editor & Code Generator for React / [GitHub](https://github.com/premieroctet/openchakra)
+* [OpenChakra](https://openchakra.app/) or [Plate](https://platejs.org/) - React Code Editors
 * [Package Control](https://packagecontrol.io/) - Sublime Text Package Manager
 * [editorcornfig](https://editorconfig.org/) - Maintain Code Styles Across Editors
 * [Dracula](https://draculatheme.com/) - Dark Theme for Code Editors / Terminal Emulators
@@ -1456,7 +1459,7 @@
 
 ## ▷ Machine Learning
 
-* 🌐 **[Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)**, [Caffee](https://caffe.berkeleyvision.org/) / [Git](https://github.com/BVLC/caffe), [SuperAGI](https://github.com/TransformerOptimus/SuperAGI) or [OpenNN](https://www.opennn.net/) / [Git](https://github.com/Artelnics/OpenNN) - Machine Learning Frameworks
+* 🌐 **[Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)**, [Caffee](https://caffe.berkeleyvision.org/) / [Git](https://github.com/BVLC/caffe), [SuperAGI](https://github.com/TransformerOptimus/SuperAGI), [Rasa](https://github.com/RasaHQ/rasa) or [OpenNN](https://www.opennn.net/) / [Git](https://github.com/Artelnics/OpenNN) - Machine Learning Frameworks
 * 🌐 **[Awesome-List-of-Awesomes](https://github.com/Nachimak28/awesome-list-of-awesomes)**, [awesome-marketing-datascience](https://github.com/underlines/awesome-marketing-datascience/), [awesome-decentralized-llm](https://github.com/imaurer/awesome-decentralized-llm), [CyberCowboy](https://local-llm.cybercowboy.de) or [ML_Resources](https://github.com/tunguz/ML_Resources) - Machine Learning Resources
 * 🌐 **[Awesome-Google-Colab](https://github.com/firmai/awesome-google-colab)** - Machine Learning Colabs
 * 🌐 **[Awesome Machine Learning Art](https://github.com/vibertthio/awesome-machine-learning-art)** - Machine Learning Art Resources
