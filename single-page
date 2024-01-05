@@ -8367,7 +8367,7 @@ outline: false
 * [Flash by Night](http://flashbynight.com/), [FlashMuseum](https://flashmuseum.org/), [FlashGamesArchive](http://www.flashgamearchive.com/playable/), [Flash Arch](https://flasharch.com/en) or [AlbinoBlackSheep](https://www.albinoblacksheep.com/games/) - Flash Games
 * [Arcade Prehacks](https://www.arcadeprehacks.com/), [SamsHackedGames](https://www.samshackedgames.com/) or [KongHack](https://konghack.com/) - Flash Game Hacks
 * [HTML5 Games](https://html5games.com/) / [Browser](https://html5.thebestarcadescript.com/) - HTML5 Games
-* [iogames.space](https://iogames.space/), [itch.io](https://graebor.itch.io/), [Kindanice](https://kindanice.itch.io/), [Jezzamon](https://jezzamon.itch.io/) or [Kevin Games](https://kevin.games/)- .io Games
+* [iogames.space](https://iogames.space/), [itch.io](https://graebor.itch.io/), [Kindanice](https://kindanice.itch.io/), [Jezzamon](https://jezzamon.itch.io/), [Modd.io](https://www.modd.io/) or [Kevin Games](https://kevin.games/)- .io Games
 * [Games on GitHub](https://github.com/leereilly/games) - GitHub Hosted Games
 * [SpacebarCounter](https://spacebarcounter.io/spacebar-games.html) - Spacebar Games
 * [Lego Games](https://www.lego.com/en-us/kids/games) - Lego Browser Games
@@ -8513,6 +8513,7 @@ outline: false
 * 🌐 **[Awesome Go/Baduk/Weiqi](https://github.com/yanchick/awesome-GoBadukWeiqi)** - Go/Baduk/Weiqi Resources
 * ⭐ **[WorldOfCardGames](https://worldofcardgames.com/)**, [247Games](https://www.247games.com/), [CardzMania](https://www.cardzmania.com/) or [World of Solitaire](https://worldofsolitaire.com/) - Card Games
 * [Richup](https://richup.io/) - Monopoly-Style Board Game
+* [Rally The Troops](https://www.rally-the-troops.com/) - Historical Board Games / [Discord](https://discord.gg/CBrTh8k84A)
 * [AllBad.Cards](https://bad.cards/) or [CardsAgainstFormality](https://cardsagainstformality.io/) - Cards Against Humanity Online 
 * [Wikidata Card Game Generator](https://cardgame.blinry.org/) - Generate "Top Trumps" Cards with Wikidata
 * [Solitaired](https://solitaired.com/) or [Solitr](https://www.solitr.com/) - Solitaire
@@ -8688,6 +8689,7 @@ outline: false
 * [Forza Painter](https://github.com/forza-painter/forza-painter) - Import Images to Forza
 * [Open Planet](https://openplanet.dev/) - Trackmania Extension Platform
 * [Geode](https://github.com/geode-sdk/geode) - Geometry Dash Mod Loader
+* [Lethal Wiki](https://lethal.wiki/) - Lethal Company Modding Wiki
 * [Superblt](https://superblt.znix.xyz/) - Payday 2 Modding Tool
 * [Payday 2 FPS Boost](https://steamcommunity.com/sharedfiles/filedetails/?id=1933473710) - Payday 2 FPS Boost
 * [Guitar Hero World Tour: Definitive Edition](https://ghwt.de/) - Guitar Hero: World Tour Mod
@@ -8699,7 +8701,7 @@ outline: false
 ## ▷ Mod Indexes
 
 * ⭐ **[ModDB](https://moddb.com/)** - Game Mods
-* ⭐ **[Nexus Mods](https://www.nexusmods.com/)** - Game Mods / [Manager](https://github.com/Nexus-Mods/Nexus-Mod-Manager) / [Redirect Skip](https://greasyfork.org/en/scripts/394039)
+* ⭐ **[Nexus Mods](https://www.nexusmods.com/)** - Game Mods / [Manager](https://github.com/Nexus-Mods/Nexus-Mod-Manager) / [Bulk Downloader](https://greasyfork.org/en/scripts/483337) / [Redirect Skip](https://greasyfork.org/en/scripts/394039)
 * [NextGenUpdate](https://www.nextgenupdate.com/) - Game Mods
 * [ModWorkshop](https://modworkshop.net/) - Game Mods
 * [GameFront](https://gamefront.com/) - Game Mods
@@ -8777,6 +8779,7 @@ outline: false
 * [Wishlist Removals](https://steamcommunity.com/sharedfiles/filedetails/?id=1746978201) - Remove Hidden Items from Steam Wishlist
 * [Steam Inventory Helper](https://steaminventoryhelper.com/) - Steam Inventory Enhancement Extension
 * [ArchiFarm](https://github.com/JustArchiNET/ArchiSteamFarm) - Farm Steam Trading Cards
+* [Bazzite](https://github.com/ublue-os/bazzite) - Alt Steam Deck OS
 * [Decky Loader](https://deckbrew.xyz/ ) - Steam Deck Plugin Loader / [GitHub](https://github.com/SteamDeckHomebrew/decky-loader)
 * [Steam Deck Tools](https://github.com/ayufan/steam-deck-tools) - Fan Overlay, Power Control and Steam Controller
 * [great-on-deck-search](https://github.com/cptpiepmatz/great-on-deck-search) - Verified Steam Deck Game Search
@@ -8854,7 +8857,7 @@ outline: false
 
 # ► Tracking / Discovery
 
-* ⭐ **[Grouvee](https://www.grouvee.com/)**, **[Glitchwave](https://glitchwave.com/)** or **[Backloggd](https://www.backloggd.com/)** - Game Tracker
+* ⭐ **[Glitchwave](https://glitchwave.com/)**, [Grouvee](https://www.grouvee.com/), [InfiniteBacklog](https://infinitebacklog.net/) or [Backloggd](https://www.backloggd.com/) - Game Trackers
 * ⭐ **[IGDB](https://www.igdb.com/)** or **[GiantBomb](https://www.giantbomb.com/games/)** - Game Database
 * ⭐ **[TasteDive](https://tastedive.com/games )**, [50GamesLike](https://www.50gameslike.com/) or [/r/ifyoulikeblank](https://www.reddit.com/r/ifyoulikeblank/) - Game Recommendations
 * [Rec Charts](https://mega.nz/folder/kj5hWI6J#0cyw0-ZdvZKOJW3fPI6RfQ) - Game Recommendation Guides
@@ -8976,9 +8979,8 @@ outline: false
 * ⭐ **[ProSettings](https://prosettings.net/)**, [Share Gaming Tweaks](https://www.tenforums.com/gaming/117377-share-gaming-tweaks-chec-my-comprehensive-list-will-blow-your-mind.html), [SweetFX](https://sfx.thelazy.net/), [ENBSeries](http://enbdev.com) or [Use Gaming Tweaks](https://github.com/PrincessAkira/Use-Gaming-Tweaks) - Settings Optimization Guides
 * ⭐ **[DisplayMagician](https://github.com/terrymacdonald/DisplayMagician)** or [AutoActions](https://github.com/Codectory/AutoActions) - Per-Game Display Profiles
 * ⭐ **[Magpie](https://github.com/Blinue/Magpie)** - Enable AMD FSR on Any Game or Any Device
-* [PC-Tuning](https://github.com/amitxv/PC-Tuning), [RagnoTech Optimization Catalog](https://ragnos1997.com/optimization-catalog/), [TroubleChute](https://www.youtube.com/c/TroubleChute/featured) or [GamingPCSetup](https://github.com/djdallmann/GamingPCSetup) - Gaming Optimization Guides
+* [PC-Tuning](https://github.com/amitxv/PC-Tuning), [RagnoTech Optimization Catalog](https://ragnos1997.com/optimization-catalog/) or [TroubleChute](https://www.youtube.com/c/TroubleChute/featured) - Gaming Optimization Guides
 * [Calypto’s Latency Guide](https://docs.google.com/document/d/1c2-lUJq74wuYK1WrA_bIvgb89dUN0sj8-hO3vqmrau4/), [cancerogenoslab](https://sites.google.com/view/cancerogenoslab/) or [MikeMartin](https://www.mikemartin.co/) - FPS / Latency Guides
-* [LatencyFleX](https://github.com/ishitatsuyuki/LatencyFleX) or [HoneCtrl](https://github.com/auraside/HoneCtrl) - Latency Reduction / FPS Fixes
 * [OCAT](https://gpuopen.com/ocat/) / [GitHub](https://github.com/GPUOpen-Tools/ocat), [Rivatuner Statistics Server](https://www.guru3d.com/files-details/rtss-rivatuner-statistics-server-download.html), [CapFrameX](https://www.capframex.com/) or [Xbox Game Bar](https://rentry.co/WindowsFPS) - FPS Benchmarking
 * [SSTap](https://github.com/FQrabbit/SSTap-Rule) - Decrease Ping
 * [Overclock](https://www.overclock.net/) - Overclocking Forum
@@ -9105,13 +9107,13 @@ outline: false
 * [NameMC](https://namemc.com/) - Minecraft Name Availability Tracker
 * [Setup.md](https://setup.md/) - Server Admin Guides
 * [mcsrvstat](https://mcsrvstat.us/) - Server Status Updates
-* [LazyMc](https://github.com/timvisee/lazymc) - Idle Minecraft Server 
+* [LazyMc](https://github.com/timvisee/lazymc) - Idle Minecraft Server
 * [Forge](https://files.minecraftforge.net/), [Quilt](https://quiltmc.org/) or [Fabric](https://fabricmc.net/) / [Discord](https://discord.gg/VDGnGsFeuy) - Minecraft Modding API 
 * [PVPRP](https://pvprp.com/) - Minecraft Texture Packs
 * [Iris Shaders](https://modrinth.com/mod/iris) - Fabric Shadermod for Minecraft
 * [Nova Skin](https://minecraft.novaskin.me/) or [Blockbench](https://www.blockbench.net/)- Minecraft Skin Editor
 * [MinecraftCapes](https://minecraftcapes.net/) or [Capes](https://modrinth.com/mod/capes) - Minecraft Capes
-* [VoxelSphereGenerator](https://oranj.io/blog/VoxelSphereGenerator) or [Minecraft Shapes](https://minecraftshapes.com/) - Minecraft Shape Tools
+* [VoxelSphereGenerator](https://oranj.io/blog/VoxelSphereGenerator), [Voxelize](https://docs.voxelize.io/) or [Minecraft Shapes](https://minecraftshapes.com/) - Minecraft Shape Tools / Voxel Editors
 * [Amidst](https://github.com/toolbox4minecraft/amidst) - Minecraft World Overview Display Tool
 * [The Minecraft Archive Project](https://map.crummy.com/) - Minecraft World Archive
 * [Amulet](https://www.amuletmc.com/) or [uNmINeD](https://unmined.net/) - Minecraft Map Editor / Viewer
@@ -9165,7 +9167,7 @@ outline: false
 
 * 🌐 **[Roblox Archive](https://archive.roblonium.com/)** - Roblox Client Archive
 * ⭐ **[Roblox Account Manager](https://github.com/ic3w0lf22/Roblox-Account-Manager)** - Roblox Account Manager
-* ⭐ **[Roblox Performance](https://rentry.co/roblox-player-studio-performance)**, [TBROGE](https://rentry.co/TBROGE) or [Mr.Goose](https://docs.google.com/document/d/1_XH3IMpaCtoKR1U38Zh08kbJr-WwptsxHSza-G7UKGU/) / [Note](https://pastebin.com/Da0XgGSP) - Roblox Optimization Guides
+* ⭐ **[Roblox Performance](https://rentry.co/roblox-player-studio-performance)** or [TBROGE](https://rentry.co/TBROGE) - Roblox Optimization Guides
 * ⭐ **[Rolimon's](https://www.rolimons.com/games)** or [RoMonitor Stats](https://romonitorstats.com/) - Roblox Experience Stats
 * ⭐ **[Bloxstrap](https://github.com/pizzaboxer/bloxstrap)** - Roblox Player Bootstrapper
 * [RBXFPSUnlocker](https://github.com/axstin/rbxfpsunlocker) - Unlock Roblox FPS Cap / [Note](https://pastebin.com/rB4BEf5b)
