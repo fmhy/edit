@@ -184,6 +184,7 @@
 * [GearJail](https://gearjail.neocities.org/) or [LunarEclipseCode](https://lunareclipsecode.github.io/engrc-3500-team2/content/intro.html) - Android Guides / Resources
 * [GSMHosting](https://forum.gsmhosting.com/vbb/) - GSM Discussion Forum
 * [VMOS](https://www.vmos.com/) or [x8sb](https://x8sb.com/) - Android on Android Virtual Machines
+* [qPython](https://github.com/qpython-android/qpython) - Python for Android
 * [EtchDroid](https://etchdroid.depau.eu/) - Write OS Images to USB Drive
 * [Winlator](https://github.com/brunodev85/winlator) - Android Windows Emulators
 * [Root Checker](https://play.google.com/store/apps/details?id=com.joeykrim.rootcheck) - Root Checker
@@ -523,6 +524,7 @@
 * [Upscaler](https://play.google.com/store/apps/details?id=com.ethanzone.upscaler&hl=en_US&gl=QA), [MintAI](https://play.google.com/store/apps/details?id=com.mingkun.mintAI) or [Galaxy Enhance-X](https://www.apkmirror.com/apk/samsung-electronics-co-ltd/galaxy-enhance-x/) - Image Upscalers
 * [LosesslessJpgCrop](https://github.com/k3b/LosslessJpgCrop) - Lossless Image Cropper
 * [EasyWatermark](https://github.com/rosuH/EasyWatermark) - Add Watermark to Images
+* [Tidy](https://github.com/slavabarkov/tidy) - Text-to-Image / Image-to-Image search 
 * [Image Searcher](https://play.google.com/store/apps/details?id=sansunsen3.imagesearcher) - Image Search App
 * [AppMockUp](https://app-mockup.com/) - Screenshot Builder
 * [Scrambled Exif](https://gitlab.com/juanitobananas/scrambled-exif/tree/HEAD) or [exif-eraser](https://github.com/Tommy-Geenexus/exif-eraser) - Remove Image Metadata
@@ -954,6 +956,7 @@
 * ⭐ **[Sideloading Beginners Guide](https://redd.it/orqzau)** or [Noob Guide to Sideloading](https://www.reddit.com/r/Piracy/comments/pt5uv9/noob_guide_to_sideloading_in_ios/) - Sideloading Guide
 * ⭐ **[/r/sideloaded](https://reddit.com/r/sideloaded)** - Sideloading Subreddit / [Wiki](https://www.reddit.com/r/sideloaded/wiki/index)
 * [Sideloadly](https://sideloadly.io/) or [SignTools](https://github.com/SignTools/SignTools) - Sideloading Tool
+* [MacDirtyCow](https://faq.altstore.io/how-to-use-altstore/macdirtycow) - Remove 3-app limit
 * [IPSW](https://ipsw.me/) - Provides Jailbreak Firmware
 * [checkra1n](https://checkra.in/) - 5s - X Jailbreak (12.0 - 14.8.1) / [Discord](https://discord.gg/NAxRYvysuc)
 * [palera1n](https://github.com/palera1n/palera1n) - 15.0-17.1 Jailbreak
@@ -1021,8 +1024,8 @@
 * [Brave](https://apps.apple.com/us/app/brave-private-web-browser-vpn/id1052879175), [Firefox Focus](https://apps.apple.com/us/app/firefox-focus-privacy-browser/id1055677337) or [DuckDuckGo Privacy Browser](https://duckduckgo.com/app) - Privacy Based Browsers
 * [Lockdown iOS](https://apps.apple.com/dk/app/lockdown-apps/id1469783711) - iOS Firewall / [GitHub](https://github.com/confirmedcode/Lockdown-iOS)
 * [ProtonVPN](https://protonvpn.com/download-ios) - Free VPN
-* [Potatso Lite](https://apps.apple.com/us/app/potatso-lite/id1239860606) - Proxy App
-* [Syphon](https://syphon.org/) - Matrix Client
+* [ElementPotatso Lite](https://apps.apple.com/us/app/potatso-lite/id1239860606) - Proxy App
+* [](https://apps.apple.com/us/app/element-messenger/id1083446067), [FluffyChat](https://apps.apple.com/us/app/fluffychat/id1551469600) or [Syphon](https://syphon.org/) - Matrix Clients
 * [Wickr](https://apps.apple.com/us/app/wickr-pro/id1200926568), [Jami](https://jami.net/), [MySudo](https://mysudo.com/) or [Element](https://apps.apple.com/app/vector/id1083446067) - Encrypted Messaging / Video Calls
 * [ProtonMail](https://apps.apple.com/us/app/protonmail-encrypted-email/id979659905) - Encrypted Emailing Service
 * [PrivacyBlur](https://privacyblur.app/) - Blur Sensitive Parts of Photos / [GitHub](https://github.com/MATHEMA-GmbH/privacyblur)
