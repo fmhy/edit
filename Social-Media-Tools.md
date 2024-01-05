@@ -236,7 +236,7 @@
 
 # ► Telegram Tools
 
-* 🌐 **[TDirectory](https://tdirectory.me/)**, **[Telegram Channels](https://telegramchannels.me/)**, **[Awesome-Telegram](https://github.com/ebertti/awesome-telegram)** or **[Telegramic](https://telegramic.org/)** - Telegram Resources Indexes
+* 🌐 **[TDirectory](https://tdirectory.me/)**, [Telemetr](https://telemetr.io/en), [Telegram Channels](https://telegramchannels.me/), [Awesome-Telegram](https://github.com/ebertti/awesome-telegram) or [Telegramic](https://telegramic.org/) - Telegram Channel Indexes
 * 🌐 **[ComBot Groups](https://combot.org/top/telegram/groups)** - Top Telegram Groups Index
 * [Telegago](https://cse.google.com/cse?&cx=006368593537057042503:efxu7xprihg#gsc.tab=0), [2](https://cse.google.com/cse?cx=006249643689853114236:a3iibfpwexa), [Lyzem](https://lyzem.com/), [xTea](https://xtea.io/ts_en.html) or [TG-ME](https://www.tg-me.com/) - Telegram CSE's
 * [GetMediaBot](https://t.me/getmediabot) - Media Download Bot
@@ -401,13 +401,15 @@
 * [Thumbnail Rating Bar](https://github.com/elliotwaite/thumbnail-rating-bar-for-youtube) - Display Like / Dislike Ratio on Thumbnails
 * [youtube-like-dislike-shortcut](https://github.com/avi12/youtube-like-dislike-shortcut) - Video Like / Dislike Hotkeys
 * [YT Not Interested Button on Hover](https://greasyfork.org/en/scripts/396936-yt-not-interested-in-one-click) - Easily Display Not Interested Button
-* [ImprovedTube](https://improvedtube.com/), [Nova YouTube](https://greasyfork.org/en/scripts/433360) or [Magic Actions](https://www.chromeactions.com/) - YouTube Enhancement Extensions
+* [ImprovedTube](https://improvedtube.com/), [Enhancer for YT](https://chromewebstore.google.com/detail/enhancer-for-youtube/ponfpcnoihfmfllpaingbgckeeldkhle), [Nova YouTube](https://greasyfork.org/en/scripts/433360) or [Magic Actions](https://www.chromeactions.com/) - YouTube Enhancement Extensions
+
+
 * [Focused YouTube](https://github.com/makaroni4/focused_youtube) - Minimalist YouTube
 * [YouTube Redux](https://github.com/omnidevZero/YouTubeRedux) - Restore Classic YouTube Layout
 * [Disable Rounded Buttons](https://greasyfork.org/en/scripts/453802) - Disable Rounded YouTube Buttons
 * [YouTube WideScreen](https://greasyfork.org/en/scripts/409893) - Improved YouTube Cinema Mode
 * [Ultrawidify](https://github.com/tamius-han/ultrawidify) - Fix YouTube Aspect Ratio
-* [Unhook](https://unhook.app/), [Less Addictive Youtube](https://github.com/AlexisDrain/Less-Addictive-YouTube) or [YourTube](https://github.com/rahgurung/YourTube) - Distraction Free YouTube
+* [Unhook](https://unhook.app/), [Untrap](https://untrap.app/), [Less Addictive Youtube](https://github.com/AlexisDrain/Less-Addictive-YouTube) or [YourTube](https://github.com/rahgurung/YourTube) - Distraction-Free YouTube
 * [Audio Only YouTube](https://chromewebstore.google.com/detail/audio-only-youtube/pkocpiliahoaohbolmkelakpiphnllog) - Audio Only YouTube
 * [Feed Remover](https://github.com/kwkr/feed-remover) - Remove YouTube Homepage Feed
 * [FreshTube](https://porjo.github.io/freshtube/) - Display Latest Videos from Subscriptions
@@ -592,7 +594,7 @@
 # ► Fediverse Tools
 
 * 🌐 **[Awesome Fediverse](https://github.com/emilebosch/awesome-fediverse)** - Fediverse Resources
-* ⭐ **[Fediverse](https://fediverse.party/)**, [Fediverse.space](https://fediverse.space/), [sub.rehab](https://sub.rehab/) or [Fediverse Observer](https://mastodon.fediverse.observer/) - Fediverse Instance Search
+* ⭐ **[Fediverse](https://fediverse.party/)**, [Fediverse.space](https://fediverse.space/), [sub.rehab](https://sub.rehab/), [Fediverser](https://fediverser.network/) or [Fediverse Observer](https://mastodon.fediverse.observer/) - Fediverse Instance Search
 * ⭐ **[Lemmy](https://join-lemmy.org/)** / [Stats](https://the-federation.info/), [2](https://fedidb.org/) - Federated Reddit Alternative
 * ⭐ **[Lemmy Explorer](https://lemmyverse.net/)**, [Community-Browser](https://browse.feddit.de/) or [Awesome Instances](https://github.com/maltfield/awesome-lemmy-instances) - Lemmy Instances
 * ⭐ **[Pleroma](https://pleroma.social/)** - Federated Microblogging
