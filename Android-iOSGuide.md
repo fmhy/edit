@@ -752,7 +752,6 @@
 
 # ► Android Streaming
 
-* 🌐 **[AllTVApps](https://alltvapps.com/)** - Streaming App Index
 * ↪️ **[Video Players](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_android_video_players)**
 * ↪️ **[Smart TV Apps](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video#wiki_.25BA_smart_tv_.2F_firestick)**
 * ⭐ **[Stremio](https://www.stremio.com/)** - Torrent Streaming / [Addons](https://stremio-addons.netlify.app/) / Chromecast / Use [VPN](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_vpn_guide)
@@ -760,7 +759,7 @@
 * ⭐ **[CloudStream](https://dweb.link/ipns/cloudstream.on.fleek.co/)** - Movies / TV / Anime / [GitHub](https://github.com/recloudstream/cloudstream) / [2](https://github.com/hexated/cloudstream-extensions-hexated/) / [Mirrors](https://rentry.org/cs3-repos) / [Docs](https://recloudstream.github.io/csdocs/) 
 * ⭐ **[Miru](https://miru.js.org/en/download)** - Movies / TV / Anime / [GitHub](https://github.com/miru-project/miru-app) / [Docs](https://miru.js.org/en/developer/) 
 * ⭐ **[Kodi](https://kodi.tv/)** - [/r/Addons4Kodi](https://www.reddit.com/r/Addons4Kodi/) / [Tracker](https://kinkeadtech.com/best-kodi-streaming-addons/) / [Trending](https://kodiapps.com/addons-chart) / [Real-Debrid](https://real-debrid.com/)
-* ⭐ **[Syncler](https://syncler.net/)** - Movies / TV / [How-To](https://pastebin.com/VsiKV9rm) / [Providers](https://www.reddit.com/r/providers4syncler/)
+* ⭐ **[Syncler](https://syncler.net/)** - Movies / TV / [Providers](https://www.reddit.com/r/providers4syncler/)
 * ⭐ **[BubblesUPNP](https://play.google.com/store/apps/details?id=com.bubblesoft.android.bubbleupnp&gl=US)**, [DMS](https://github.com/anacrolix/dms), [Macast](https://github.com/xfangfang/Macast) or [Cinema Box](https://www.cinema-box.co.uk/) - Media Servers / Chromecast
 * ⭐ **[Trakt](https://play.google.com/store/apps/details?id=tv.trakt.trakt)**, [Showly 2.0](https://github.com/1RandomDev/showly-oss),  [SeriesGuide](https://seriesgui.de/) - Movie / TV Tracker
 * [Streamflix](https://watch.streamflix.one/static/app/releases/v2.5.3/app-release.apk) - Movies / TV / Anime
