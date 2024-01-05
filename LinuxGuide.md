@@ -90,6 +90,7 @@
 * [SnapCraft](https://snapcraft.io/store) - Snap Repository
 * [GearLever](https://flathub.org/apps/it.mijorus.gearlever) or [AppImageLauncher](https://github.com/TheAssassin/AppImageLauncher) - Appimage Managers
 * [NixOS](https://nixos.org/) / [Manager](https://github.com/nix-community/home-manager), [AppImagePool](https://github.com/prateekmedia/appimagepool), [Zap](https://github.com/srevinsaju/zap), [AM-Application-Manager](https://github.com/ivan-hc/AM-Application-Manager) or [Homebrew](https://brew.sh/) - Package Managers
+* [cheat.sh](http://cheat.sh/) - App Repos
 * [AppImageHub](https://www.appimagehub.com/), [AppImages](https://appimage.github.io/) or [Get AppImage](https://g.srev.in/get-appimage/) - Download Appimages
 * [yay](https://github.com/Jguer/yay), [paru](https://github.com/morganamilo/paru) or [aura](https://github.com/fosskers/aura) - Arch User Repository Helpers
 * [Apps for GNOME](https://apps.gnome.org/) - GNOME Apps
@@ -277,6 +278,7 @@ Linux Gaming Guide
 * [kmon](https://kmon.cli.rs/) - Kernel Manager and Activity Monitor
 * [Kernel Map](https://makelinux.github.io/kernel/map/) - Interactive Linux Kernel Map
 * [UbuntuCleaner](https://github.com/gerardpuig/ubuntu-cleaner) - Easily clean Ubuntu(-based) Systems
+* [TimeShift](https://github.com/linuxmint/timeshift) - System Restore / Backup
 * [SystemRescue](https://www.system-rescue.org/) or [Super Grub2 Disk](https://www.supergrubdisk.org/super-grub2-disk/) - Bootable System Rescue Toolkits
 * [Boot-Repair](https://help.ubuntu.com/community/Boot-Repair) - Grub Repair Guide for Linux Systems
 * [sbupdate](https://github.com/andreyv/sbupdate) - Generate & Sign kernel images for UEFI Secure Boot Arch Linux
