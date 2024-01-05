@@ -102,7 +102,7 @@
 
 ## ▷ Aggregators
 
-* **Warning** - Aggregators include many sources, so it's best to avoid using them for software and games. Avoid users in the [Unsafe](https://fmhy.net/unsafesites) or [Untrusted](https://rentry.org/pgames#untrusted-uploaders) lists.
+**Warning** - Aggregators include many sources, so it's best to avoid using them for software and games. Avoid users in the [Unsafe](https://fmhy.net/unsafesites) or [Untrusted](https://rentry.org/pgames#untrusted-uploaders) lists.
 
 ***
 
