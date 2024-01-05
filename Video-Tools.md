@@ -47,6 +47,7 @@
 * [vidoza](https://vidoza.net/)
 * [fileone](https://fileone.tv/)
 * [uqload](https://uqload.co/)
+* [media.cm](https://media.cm/)
 * [sendvid](https://sendvid.com/)
 * [WebMShare](https://webmshare.com/) - WebM Hosting
 
@@ -171,6 +172,7 @@
 * [Caracal Club](https://caracal.club/)
 * [CyTube](https://cytu.be/)
 * [baked.live](https://baked.live/)
+* [Rave.io](https://rave.io/)
 * [twoseven](https://twoseven.xyz/)
 * [WatchPubs](https://watchpubs.com/)
 * [MovieNight](https://github.com/zorchenhimer/MovieNight)
