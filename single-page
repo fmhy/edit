@@ -547,7 +547,6 @@
 * [Forefront](https://chat.forefront.ai/) - GPT-3.5 Based Chatbots / [Discord](https://discord.com/invite/Wbc5cPPYSs)
 * [Teach Anything](https://www.teach-anything.com/) - GPT-3.5 Q&A AI
 * [Ethio Tech](https://gpt3.ethio-tech.com/) - GPT-3 Based Chatbot
-* [JackChat](https://www.jackchat.ai/) - GPT-3 Based Chatbot
 * [iAsk](https://iask.ai/) - GPT-3 Q&A AI
 
 ***
@@ -611,6 +610,7 @@
 
 ## ▷ ChatGPT Tools
 
+* 🌐 **[Awesome ChatGPT](https://github.com/uhub/awesome-chatgpt)** - ChatGPT Resources
 * 🌐 **[Awesome Free ChatGPT](https://github.com/LiLittleCat/awesome-free-chatgpt/blob/main/README_en.md)** or **[FOFA](https://en.fofa.info/result?qbase64=ImxvYWRpbmctd3JhcCIgJiYgImJhbGxzIiAmJiAiY2hhdCIgJiYgaXNfZG9tYWluPXRydWU%3D)** / [2](https://en.fofa.info/result?qbase64=dGl0bGU9PSJDaGF0R1BUIFdlYiI%3D) - ChatGPT WebUIs
 * ⭐ **[AI Playground](https://play.vercel.ai/)**, [h2oGPT](https://gpt.h2o.ai/) or [ChatHub](https://chathub.gg/) - Compare AI Responses
 * ⭐ **[ChatPDF](https://www.chatpdf.com/)**, [PaperBrain](https://www.paperbrain.study/) or [Ask Your PDF](https://askyourpdf.com/) - Turn PDFs into Chatbots
@@ -671,6 +671,7 @@
 * [FutureTools](https://www.futuretools.io/?pricing-model=free) - AI Directory
 * [ToolScoutAI](https://toolscout.ai/) - AI Directory
 * [ListedAI](https://www.listedai.co/) - AI Directory
+* [ManyTools](https://manytools.ai/) - AI Directory
 * [AI Creator Tools](https://library.phygital.plus/) - AI Directory
 * [topai](https://topai.tools/) - AI Directory
 * [TheresAnAIForThat](https://theresanaiforthat.com/) - AI Directory
@@ -684,6 +685,7 @@
 * [Toolify](https://www.toolify.ai/) - AI Directory
 * [intersys](https://intersys.ai/) - AI Directory
 * [NaNAI.tools](https://nanai.tools) - AI Directory
+* [PowerUsers](https://powerusers.ai/) - AI Directory
 * [SuperTools](https://supertools.therundown.ai/) - AI Directory
 * [GPTE](https://gpte.ai/) - AI Directory
 * [EasyWithAI](https://easywithai.com/) - AI Directory
@@ -907,6 +909,8 @@
 * ⭐ **[Replay](https://www.tryreplay.io/)** - RVC Desktop App
 * ⭐ **[voice-changer](https://github.com/w-okada/voice-changer)** - Realtime Voice Changer
 * [NeuralSVB](https://github.com/MoonInTheRiver/NeuralSVB) - Singing Voice Enhancer
+* [Bark w/ Voice Clone](https://huggingface.co/spaces/kevinwang676/Bark-with-Voice-Cloning) - Voice Cloning
+* [OpenVoice](https://github.com/myshell-ai/OpenVoice) - Voice Cloning / [Web UI](https://huggingface.co/spaces/myshell-ai/OpenVoice)
 
 ***
 
