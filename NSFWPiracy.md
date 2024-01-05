@@ -220,7 +220,7 @@
 
 ## ▷ TikTok
 
-* ⭐ **[FlixFap](https://fikfap.com/)** - NSFW TikTok
+* ⭐ **[FikFap](https://fikfap.com/)** - NSFW TikTok
 * ⭐ **[fyptt](https://fyptt.to/)** - NSFW TikTok
 * [xxxtik](https://xxxtik.com/) - NSFW TikTok
 * [Tik.porn](https://tik.porn/) - NSFW TikTok
