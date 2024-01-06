@@ -634,6 +634,9 @@
 * [hastateam](https://ddt.hastateam.com/) - Manga
 * [Slumberland](https://www.slumberland.it/) - Comic Encyclopedia
 
+## ▷ Educational
+
+*[Ovovideo](http://ovovideo.com/) - Video Encyclopedia
 
 ***
 
