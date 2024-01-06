@@ -232,7 +232,7 @@
 ***
 
 * ⭐ **[Archive.org](https://archive.org/create/)** - Signup Required
-* ⭐ **[Pixeldrain](https://pixeldrain.com/)** - 20GB / 90 days / [Speedtest File](https://pixeldrain.com/api/misc/speedtest) / [Bypass Transfer Limit](https://pixeldrain-bypass.cybar.xyz)
+* ⭐ **[Pixeldrain](https://pixeldrain.com/)** - 20GB / 90 days / [Speedtest File](https://pixeldrain.com/api/misc/speedtest) / [Bypass Transfer Limit](https://pixeldrain-bypass.cybar.xyz) (It reaches full speed after 10 minutes.)
 * ⭐ **[Gofile](https://gofile.io/)** - Unlimited / 10 days
 * ⭐ **[FileDitch](https://fileditch.com/)** - 15GB / Forever
 * ⭐ **[1fichier](https://1fichier.com/)** - 300GB / 15 days (30 days if you sign-up)
