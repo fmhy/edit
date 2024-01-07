@@ -4,11 +4,6 @@
 ***
 ***
 
-**[Table of Contents](https://ibb.co/X7BwjDn)** - For mobile users
-
-***
-***
-
 # ► Linux Distros
 
 **Note** - We don't curate individual distros ourselves as we feel the indexes listed are good enough to stand on their own. 
@@ -24,6 +19,7 @@
 * [Linux Live Kit](https://www.linux-live.org/) - Live Distro Creator
 * [DotShare](http://dotshare.it/) - Distro Config Index
 * [ArchiveOS](https://archiveos.org/)
+* [OS.click](https://os.click/en)
 * [LinuxTracker](https://linuxtracker.org/)
 * [OpenSourceFeed](https://www.opensourcefeed.org/)
 * [Pkgs](https://pkgs.org/)
