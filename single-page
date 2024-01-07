@@ -9430,9 +9430,8 @@ outline: false
 * ⭐ **[Privacy.Sexy](https://privacy.sexy/)** - Privacy Scripts 
 * ⭐ **[Password Strength Chart](https://i.ibb.co/vZdqMvm/6728c7ef02e9.png)**
 * ⭐ **[Tails](https://tails.net/)**, [whonix](https://www.whonix.org/) or [Qubes](https://www.qubes-os.org/) - Privacy-Based Operating Systems
-* [ShutUp10](https://www.oo-software.com/en/shutup10) - Antispy Tool
-* [W10Privacy](https://www.w10privacy.de/english-home/) - Antispy Tool
-* [private-secure-windows](https://github.com/troennes/private-secure-windows) - Antispy Tool
+* [ShutUp10](https://www.oo-software.com/en/shutup10), [W10Privacy](https://www.w10privacy.de/english-home/) or [private-secure-windows](https://github.com/troennes/private-secure-windows) - Antispy Tools
+* [Telemetry.md](https://gist.github.com/ave9858/a2153957afb053f7d0e7ffdd6c3dcb89) - Disable Windows 10/11 Telemetry
 * [Yubioath](https://developers.yubico.com/yubioath-flutter/), [AuthMe](https://github.com/Levminer/authme), [Protecc](https://github.com/FireCubeStudios/Protecc), [2FAuth](https://github.com/Bubka/2FAuth) or [Tauthy](https://github.com/pwltr/tauthy) - Two-Factor Authentication
 * [PaP](https://trypap.com/) or [PasswordMonster](https://www.passwordmonster.com/) - Password Strength Check
 * [PasswordsGenerator](https://passwordsgenerator.net/) - Secure Password Generator
@@ -9551,7 +9550,6 @@ outline: false
 * [Data Removal Guide](https://inteltechniques.com/workbook.html) - Remove Online Data
 * [GPGTools](https://gpgtools.org/) - Encrypt & Sign Data / Communications 
 * [PeerTube](https://joinpeertube.org/) / [2](https://search.joinpeertube.org/) / [3](https://sepiasearch.org/) - Decentralized Video Hosting / [Instances](https://instances.joinpeertube.org/instances)
-* [Telemetry.md](https://gist.github.com/ave9858/a2153957afb053f7d0e7ffdd6c3dcb89) - Disable Telemetry Guide
 * [IKnowWhatYouDownload](https://iknowwhatyoudownload.com/) - Track Torrent Download Leaks
 * [Safing Portmaster](https://safing.io/) - Monitor Network / Block Trackers / [GitHub](https://github.com/Safing/portmaster)
 * [Undiscord](https://github.com/victornpb/undiscord), [discord-delete](https://github.com/cedws/discord-delete), or [QuickDeleteMessages](https://u.nu/9i9jk) - Delete Discord Messages / [Warning](https://i.ibb.co/pdg4hRr/0b0d78219f05.png)
