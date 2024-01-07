@@ -173,7 +173,7 @@
 * [MyAnonaMouse](https://www.myanonamouse.net/) - Open Applications
 * [hdvinnie](https://hdvinnie.github.io/Private-Trackers-Spreadsheet/) - Open Tracker Invites
 * [Tracker Tracker](https://docs.google.com/spreadsheets/d/1zYZ2107xOZwQ37AjLTc5A4dUJl0ilg8oMrZyA0BGvc0/) - Open Tracker Invites
-* [Open for Signup](https://t.me/opensignup) - Open Signups Private Trackers / Telegram
+* [OpenSignups](https://t.me/trackersignup) - Open Signups Private Trackers / Telegram
 * [Upload-Assistant](https://github.com/L4GSP1KE/Upload-Assistant) - Private Tracker Auto-Upload
 * [Bemaniso](https://bemaniso.ws/) - Torrent Tracker
 * [TrackerScreenshot](https://github.com/KlevGG/TrackerScreenshot) - Auto Screenshot Tracker Stats
@@ -193,6 +193,7 @@
 * [TorrentTags](https://torrenttags.com/) - Check Torrents for Copyright Claims
 * [MagLit](https://maglit.me/) - Magnet Link Shorteners
 * [Magnet Link Generator](https://magnetlinkgenerator.com/) - Magnet Link Generator
+* [magnet2list](https://hutstep.github.io/magnet2list/) - Convert Magnets to Tracker Lists
 * [RSSFeedz](https://t.me/rssfeedz) - Torrent RSS Feed
 * [OpenWebTorrent](https://openwebtorrent.com/) - Free Webtorrent Tracker
 * [AutoDL-Irssi](https://autodl-community.github.io/autodl-irssi/) - IRC Channel Monitor / Autodownload / [Slack Notifications](https://gist.github.com/Igglybuff/00d5e91274a562ac724d358bbbc8bc7b)
