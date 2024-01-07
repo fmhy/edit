@@ -8,7 +8,7 @@ hero:
   text: freemediaheckyeah
   tagline: The largest collection of free stuff on the internet!
   prelink:
-    title: Happy New Year! 🎉
+    title: Monthly Updates [Jan 2024]
     link: /posts/jan-2024
   image:
     src: /test.png
