@@ -216,6 +216,7 @@
 * [uukanshu](https://www.uukanshu.com/) - Light-Novels
 * [vvbiquge](http://www.vvbiquge.cc/) - Light-Novels
 * [lightnovel.us](https://www.lightnovel.us/) - Light-Novels
+* [blwenla](https://blwenla.com/) - Light-Novels
 * [txt900](https://www.txt990.org/) - Light-Novels
 * [69shu](https://www.69shu.com) - Light-Novels
 * [beqege](https://www.beqege.cc/) - Light-Novels
