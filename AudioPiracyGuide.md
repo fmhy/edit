@@ -731,6 +731,8 @@
 * [Audioz](https://audioz.download/)
 * [VST Torrents](https://vsttorrentz.net/)
 * [SPARTA](https://leomccormack.github.io/sparta-site/)
+* [PluginTorrent](https://plugintorrent.com/)
+* [AudioTools](https://audiotools.in/)
 * [IEM Plug-in Suite](https://plugins.iem.at/)
 * [HQVst](https://t.me/HQVst) - Telegram
 
