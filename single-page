@@ -4773,7 +4773,6 @@ outline: false
 * [SmartLinks](https://smartlinks.org/index.html) - Website Directory
 * [Archive-It](https://archive-it.org/) - Archive.org Collections
 * [Wikimedia](https://www.wikimedia.org/) - All Wikimedia Sources
-* [Useful Interweb](https://usefulinterweb.com/) - Daily Websites
 * [Clone Wars](https://gourav.io/clone-wars) - Site Clone Index / [GitHub](https://github.com/GorvGoyl/Clone-Wars) 
 * [Open Sustainable Technology](https://opensustain.tech/) - Sustainable Tech Project Index
 * [href.cool](https://href.cool/) - List of Old / Weird Sites
@@ -5450,7 +5449,7 @@ outline: false
 * [WalletExplorer](https://www.walletexplorer.com/) or [OXT](https://oxt.me/) - Bitcoin Block Explorers
 * [Quiver Quantitative](https://www.quiverquant.com/) - Stock Trading Research
 * [neostox](https://neostox.com/) - Practice Stock Trading
-* [BlockChain](https://www.blockchain.com/explorer), [BlockChair](https://blockchair.com/) or [LiveCoinWatch](https://www.livecoinwatch.com/) - Live Cryptocurrency Prices
+* [BlockChain](https://www.blockchain.com/explorer), [CoinWatch](https://github.com/shorthouse/CoinWatch), [BlockChair](https://blockchair.com/) or [LiveCoinWatch](https://www.livecoinwatch.com/) - Live Cryptocurrency Prices
 * [TradingView Webhook Bot](https://github.com/fabston/TradingView-Webhook-Bot) / [Index](https://github.com/pAulseperformance/awesome-pinescript) - Send TradingView Alerts to Various Apps
 * [ETFDB](https://etfdb.com/) - ETF Research / Analysis Platform
 * [DeFi Derivative Landscape](https://github.com/0xperp/defi-derivatives) - DeFi Derivative Guide 
