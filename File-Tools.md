@@ -40,10 +40,11 @@
 
 ## ▷ Download Managers
 
-* ⭐ **[IDM](https://massgrave.dev/idm-activation-script.html)** - IDM Activation Script
-* ⭐ **[JDownloader](https://jdownloader.org/jdownloader2)** / [Dark Theme](https://redd.it/q3xrgj) / [Dracula Theme](https://draculatheme.com/jdownloader2) / [Debloat](https://rentry.org/jdownloader2), [2](https://rentry.org/jdownloader2opt) / [Captcha Solver](https://github.com/cracker0dks/CaptchaSolver) - Download Manager
-* ⭐ **[XDM](https://xtremedownloadmanager.com/)** / [GitHub](https://github.com/subhra74/xdm) - Download Manager
-* [Motrix](https://www.motrix.app/) / [Web Extensions](https://github.com/gautamkrishnar/motrix-webextension/) / [GitHub](https://github.com/agalwood/Motrix) or [Mipony](https://www.mipony.net/) - Download Managers
+* ⭐ **[IDM](https://massgrave.dev/idm-activation-script.html)** - Download Manager
+* ⭐ **[JDownloader](https://jdownloader.org/jdownloader2)** - Download Manager / [Dark Theme](https://redd.it/q3xrgj) / [Dracula Theme](https://draculatheme.com/jdownloader2) / [Debloat](https://rentry.org/jdownloader2), [2](https://rentry.org/jdownloader2opt) / [Captcha Solver](https://github.com/cracker0dks/CaptchaSolver)
+* ⭐ **[XDM](https://xtremedownloadmanager.com/)** - Download Manager / [GitHub](https://github.com/subhra74/xdm) 
+* [Motrix](https://www.motrix.app/) - Download Manager / [Web Extensions](https://github.com/gautamkrishnar/motrix-webextension/) / [GitHub](https://github.com/agalwood/Motrix)
+* [Mipony](https://www.mipony.net/) - Download Manager
 * [pyLoad](https://pyload.net/) - Lightweight Download Manager
 * [File Centipede](https://filecxx.com/) - Upload / Download Manager
 * [HTTP Downloader](https://erickutcher.github.io/#HTTP_Downloader/) - Download Manager for HTTP(S) / FTP(S) / SFTP Protocols
