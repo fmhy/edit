@@ -20,6 +20,7 @@
 * [APK Editor Studio](https://qwertycube.com/apk-editor-studio/) - APK Editor
 * [APKTool](https://github.com/iBotPeaches/Apktool) - APK Reverse Engineering Tool
 * [BlackDex](https://github.com/CodingGay/BlackDex) - APK Unpacking Tool
+* [Zygisk Detach](https://github.com/j-hc/zygisk-detach) - Detach APKs from Google Play Store
 * [UpgradeAll](https://github.com/DUpdateSystem/UpgradeAll), [APKUpdater](https://github.com/rumboalla/apkupdater) or [APKGrabber](https://github.com/hemker/apkgrabber) or [Obtainium](https://github.com/ImranR98/Obtainium/) - APK Updaters
 * [Let Me Downgrade](https://github.com/DavidBerdik/Let-Me-Downgrade) - Downgrade Apps on Android 12/13
 * [APKAdmin](https://apkadmin.com/) - APK Hosting Site
@@ -139,7 +140,7 @@
 * ⭐ **[scrcpy](https://github.com/Genymobile/scrcpy)**, [PlainApp](https://github.com/ismartcoding/plain-app), [anl.ink](https://anl.ink/), [WebADB](https://app.webadb.com/) or [QtScrcpy](https://github.com/barry-ran/QtScrcpy) - Control Android via Desktop / [GUI](https://guiscrcpy.srev.in/)
 * ⭐ **[ntfy](https://ntfy.sh/)** or [Notification Maker](https://play.google.com/store/apps/details?id=com.wagner.valentin.notificationmaker2) - Custom Push Notifications
 * ⭐ **[Magisk](https://github.com/topjohnwu/Magisk)**, **[KernelSU](https://kernelsu.org/)**, [Magisk Monet](https://github.com/datnerdguy/Magisk-Monet), [MagiskOnWSALocal](https://github.com/LSPosed/MagiskOnWSALocal), [Pixel Launcher](https://github.com/saitamasahil/Pixel-Launcher-Extended) or [Mtk Easy Su](https://github.com/JunioJsv/mtk-easy-su) - Android Root Tools
-* ⭐ **Magisk Tools** - [Mods](https://t.me/magiskmod_update) / [Support Layer](https://github.com/axonasif/rusty-magisk) / [SafetyNet Fix](https://github.com/kdrag0n/safetynet-fix) / [Modules](https://www.androidacy.com/magisk-modules-repository/) / [Alt Repo](https://github.com/Magisk-Modules-Alt-Repo)
+* ⭐ **Magisk Tools** - [Manager](https://github.com/MRepoApp/MRepo/) / [Mods](https://t.me/magiskmod_update) / [Support Layer](https://github.com/axonasif/rusty-magisk) / [SafetyNet Fix](https://github.com/kdrag0n/safetynet-fix) / [Modules](https://www.androidacy.com/magisk-modules-repository/) / [Alt Repo](https://github.com/Magisk-Modules-Alt-Repo)
 * ⭐ **[Termux](https://termux.com/)**, [Limbo](https://github.com/limboemu/limbo) or [TermOne Plus](https://termoneplus.com/) - Terminal Emulators / OS Environments
 * ⭐ **Termux Tools** - [YT-DL](https://github.com/OzakIOne/termux-youtube-dl), [2](https://github.com/khansaad1275/Termux-YTD) / [Video Downloader](https://github.com/AbirHasan2005/LR-YTDL) / [GUI](https://github.com/termux/termux-gui) / [ADB / Fastboot Tools](https://github.com/MasterDevX/Termux-ADB) / [Beautify](https://github.com/mayTermux/myTermux)
 * [Ubuntu on Android](https://github.com/RandomCoderOrg/ubuntu-on-android) - Ubuntu Android Emulator
@@ -441,7 +442,7 @@
 * [Updoot](https://updoot.app/) - Reddit Saved Post / Comment Manager
 * [MobiChan](https://github.com/Rukkaitto/mobichan), [Kuroba](https://github.com/K1rakishou/Kuroba-Experimental) / [2](https://github.com/Adamantcheese/Kuroba) or [Chan](https://github.com/moffatman/chan) - 4Chan Apps
 * [Instander](https://thedise.me/instander/) or [MyInsta](https://redd.it/1598xgk) / [Telegram](https://t.me/instasmashrepo) - Modded Instagram Clients / [Telegram](https://t.me/instander) / [Tools](https://play.google.com/store/apps/details?id=com.dageek.socialtoolbox_android) / [Secrets](https://ngl.link/) 
-* [Frost for Facebook](https://github.com/AllanWang/Frost-for-Facebook) or [LC_Reborn](https://t.me/s/Facebook_LC_Reborn) - Facebook Clients
+* [LC_Reborn](https://t.me/s/Facebook_LC_Reborn) - Facebook Clients
 * [MessengerPro](https://github.com/Mino260806/MessengerPro) - Modded Facebook Messenger
 * [Nekogram X](https://github.com/NekoX-Dev/NekoX), [Nekogram](https://nekogram.app/), [TelegramAndroid](https://github.com/Forkgram/TelegramAndroid), [Nagram](https://github.com/nextalone/nagram), [Telegraher](https://github.com/nikitasius/Telegraher/), [exteraGram](https://github.com/exteraSquad/exteraGram) / [2](https://github.com/AyuGram/AyuGram4A), [Cherrygram](https://github.com/arsLan4k1390/Cherrygram), [Nullgram](https://github.com/qwq233/Nullgram/), [MDGramYou](https://play.google.com/store/apps/details?id=org.telegram.mdgram), [Octogram](https://octogram.site/) or [Telegram-FOSS](https://github.com/Telegram-FOSS-Team/Telegram-FOSS) - Telegram Clients
 * [Telegram Monet](https://github.com/mi-g-alex/Telegram-Monet) - Telegram Theme Creator
@@ -666,6 +667,7 @@
 * [Perfect Viewer](https://github.com/nbats/FMHYedit/blob/main/base64.md#perfect-viewer), [MangaDLR](https://bitbucket.org/cylonu87/mangadlr/downloads/), [Manga Reader](https://flathub.org/apps/details/com.georgefb.mangareader), [Manga Tag](https://www.mangatag.com/), [Meow](https://github.com/neverfelly/Meow), [AnimeChicken](https://animechicken.app/), [Kinoko](https://github.com/gsioteam/kinoko) or [Atsumaru](https://github.com/TheUndo/Atsumaru) - Manga File Viewers
 * [IsManga Translator](https://ismanga.com/) - Manga Translator
 * [ComicScreen](https://play.google.com/store/apps/details?id=com.viewer.comicscreen) or [Seeneva](https://seeneva.app/) - Comic Readers
+* [OpenComicVine](https://github.com/proninyaroslav/OpenComicVine) - Comic Tracker
 * [Shosetsu](https://shosetsu.app/) - Light Novels / [GitHub](https://gitlab.com/shosetsuorg/shosetsu) / [Dev Builds](https://github.com/shosetsuorg/shosetsu-preview) / [Discord](https://discord.gg/ttSX7gB) 
 * [NovelLibrary](https://github.com/gmathi/NovelLibrary) - Light Novels / [Discord](https://discord.gg/qFZX4vdEdF)
 * [LNReader](https://github.com/LNReader/lnreader), [Baruch](https://github.com/adreeeyan/baruch), [Ranobe](https://github.com/ranobe-org/ranobe), [IReader](https://github.com/IReaderorg/IReader) or [QuickNovel](https://apt.izzysoft.de/fdroid/index/apk/com.lagradost.quicknovel) - Light Novels
@@ -774,7 +776,6 @@
 * [BeeTV](https://beetvapp.me/), [VivaTV](https://www.vivatv.io/) or [NovaTV](https://novatv.app/) - Movies / TV / Anime / Chromecast
 * [WiWiCenter](https://cinema.wiwicenter.com/) / [Anime](https://anime.wiwicenter.com/) - Movies / TV / Anime / Use Adblocker
 * [Aniyomi](https://aniyomi.org/) / [GitHub](https://github.com/jmir1/aniyomi) - Movies / TV / Anime
-* [NoFasel](https://github.com/N0-0NE-Dev/NoFasel) - Movies / TV / Anime
 * [FilmPlus](https://filmplus.app/) - Movies / TV
 * [PikaShow](https://pikashows.com/) - Movies / TV
 * [Upflix](https://www.upflix.net/) - Movies / TV
@@ -933,7 +934,6 @@
 * [Polycam](https://poly.cam/) - 3D Capture Tool
 * [CamScanner](https://apps.apple.com/us/app/camscanner-pdf-scanner-app/id388627783) or [Microsoft Lens](https://apps.apple.com/us/app/microsoft-lens-pdf-scanner/id975925059) - Scan & Digitize Documents
 * [Paperless](https://github.com/astubenbord/paperless-mobile) - Document Manager
-* [ILPDFKit](https://github.com/derekblair/ILPDFKit) - PDF Form Fill Toolkit
 * [Ringtones](https://apps.apple.com/us/app/ringtones-for-iphone-ringtune/id1036141497) - Custom Ringtone Creator
 * [Imgur](https://testflight.apple.com/join/Qd42y5Pw) - Meme & GIF Maker
 * [Mematic](https://www.mematic.net/) - Meme Creator
