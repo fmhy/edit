@@ -171,7 +171,7 @@
 * [Xbox Emulation Hub](https://discord.com/invite/7pcAbZzpXj) - Xbox Emulation Discord
 * [EmuDeck](https://www.emudeck.com/) or [GameImage](https://gitlab.com/formigoni/gameimage) - Steam Deck Emulator
 * [Motion Support Bypass](https://redd.it/gobcne) - Fix Cemu BOTW Motion Shrines / [DL](https://mega.nz/file/1Uo3BI6L#X5m-bPK27-X-IijzJH1o4MloivkUqP33zsUJE_kpOdc)
-* [Pineappleea](https://pineappleea.github.io/), [128Bit Yuzu](https://mostlywhat.github.io/128Bit-Yuzu-Installer/) or [Yuzu-Updater](https://github.com/sinscove/Yuzu-Updater) - Yuzu Updater
+* [EzYuzu](https://github.com/amakvana/EzYuzu), [Pineappleea](https://pineappleea.github.io/) or [128Bit Yuzu](https://mostlywhat.github.io/128Bit-Yuzu-Installer/) - Yuzu Updaters
 * [YuzuModDownloader](https://github.com/amakvana/YuzuModDownloader) - Yuzu Mod Downloader
 * [LiftInstall](https://github.com/pineappleEA/liftinstall) - Yuzu App Installer
 * [RyuSAK](https://github.com/Ecks1337/RyuSAK) - Ryujinx Installation Manager
@@ -787,6 +787,7 @@
 * 🌐 **[FlagBrew](https://flagbrew.org/)** - Switch / 3DS Homebrew Resources / [Discord](https://discord.com/invite/4Rv8DTzGFa)
 * 🌐 **[DS Homebrew](https://ds-homebrew.com/)** - DS Homebrew Resources / [Wiki](https://wiki.ds-homebrew.com/) / [Discord](https://discord.com/invite/yD3spjv)
 * 🌐 **[Emulators on Consoles](https://emulation.gametechwiki.com/index.php/Category:Emulators_on_consoles)** - List of Emulators for Consoles
+* ⭐ **[PS4 Modding](https://youtu.be/yVFbo23BCK4)**, [PSX Hax](https://www.psxhax.com/), [PSDevWiki](https://www.psdevwiki.com/) or [Wololo](https://wololo.net/) - Playstation Modding Guides
 * ⭐ **[Hacks.Guide](https://hacks.guide/)**, **[CFW Guide](https://cfw.guide/)**, [ConsoleMods.org](https://consolemods.org/) / [Discord](https://discord.gg/x5vEnkR4C8), [Digiex](https://digiex.net/forums/), [Homebrew Guides](https://rentry.co/Guides), [Homebrew General](https://www.homebrewgeneral.net/) or [Gamebrew](https://www.gamebrew.org/) - Homebrew Guides
 * ⭐ **[GBATemp](https://gbatemp.net/)** - Homebrew Forum
 * ⭐ **[Nintendo Homebrew](https://discord.gg/C29hYvh)** - Nintendo Homebrew Discord
@@ -824,10 +825,9 @@
 * [GameBoy Tech Page](https://web.archive.org/web/19990209041732/http://home.hiwaay.net/%7Ejfrohwei/gameboy/home.html) - Gameboy Tools
 * [GameBoy Book Reader](https://www.mqp.com/fun/) - Gameboy Book Reader
 * [NESC-SNESC-Modifications](https://github.com/KMFDManic/NESC-SNESC-Modifications) - NES, SNES & Playstation Mods
-* [PSX Hax](https://www.psxhax.com/), [PSDevWiki](https://www.psdevwiki.com/) or [Wololo](https://wololo.net/) - Playstation Modding Guides
 * [Chiaki](https://git.sr.ht/~thestr4ng3r/chiaki) - PS4 / PS5 Remote Play Client
 * [PS4Homebrew](https://www.reddit.com/r/ps4homebrew/) - PS4 Homebrew Subreddits
-* [Exploit Host](https://github.com/Al-Azif/ps4-exploit-host) - PS4 Exploit Hosting PS4
+* [Exploit Host](https://github.com/Al-Azif/ps4-exploit-host) - PS4 Exploit Hosting
 * [DarkSoftware](https://www.darksoftware.xyz/) - PS4 / PS3 Firmware
 * [/r/ps3homebrew](https://reddit.com/r/ps3homebrew) - PS3 Homebrew Subreddit
 * [PS3 Game Updater](https://www.psx-place.com/threads/ps3-game-updater-v1-5-psn-liberator-v0-96b-rudi-rastelli-adds-ps3p-pkg-ripper-support.3766/) or [Manually Updated](http://demo.aldostools.org/updates.html) - Update PS3 Games
