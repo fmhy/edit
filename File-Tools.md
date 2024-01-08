@@ -41,7 +41,7 @@
 ## ▷ Download Managers
 
 * ⭐ **[IDM](https://massgrave.dev/idm-activation-script.html)** - Download Manager
-* ⭐ **[JDownloader](https://jdownloader.org/jdownloader2)** - Download Manager / [Dark Theme](https://redd.it/q3xrgj) / [Dracula Theme](https://draculatheme.com/jdownloader2) / [Debloat](https://rentry.org/jdownloader2), [2](https://rentry.org/jdownloader2opt) / [Captcha Solver](https://github.com/cracker0dks/CaptchaSolver)
+* ⭐ **[JDownloader](https://jdownloader.org/jdownloader2)** - Download Manager / [Dark Theme](https://redd.it/q3xrgj) / [Dracula Theme](https://draculatheme.com/jdownloader2) / [Debloat](https://rentry.org/jdownloader2) / [Captcha Solver](https://github.com/cracker0dks/CaptchaSolver)
 * ⭐ **[XDM](https://xtremedownloadmanager.com/)** - Download Manager / [GitHub](https://github.com/subhra74/xdm) 
 * [Motrix](https://www.motrix.app/) - Download Manager / [Web Extensions](https://github.com/gautamkrishnar/motrix-webextension/) / [GitHub](https://github.com/agalwood/Motrix)
 * [Mipony](https://www.mipony.net/) - Download Manager
