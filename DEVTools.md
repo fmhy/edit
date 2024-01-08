@@ -995,12 +995,12 @@
 * [Gitstar Ranking](https://gitstar-ranking.com/) - Git Repo Star Rankings
 * [Whats New GitHub](https://github.com/flawyte/whats-new-github) or [GithubReleasesBot](https://telegram.me/GithubReleasesBot) - Repository Change Feeds 
 * [GitHub Markdown Preview](https://aviaryan.github.io/javascripts/github.md/) - Preview Markdown
-* [ReadmeGallery](https://felixhayashi.github.io/ReadmeGalleryCreatorForGitHub/) - GitHub Remdme Gallery Creator
-* [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats) - Dynamically Generated GitHub Readme Stats 
+* [ReadmeGallery](https://felixhayashi.github.io/ReadmeGalleryCreatorForGitHub/) - GitHub ReadMe Gallery Creator
+* [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats) - Dynamically Generated GitHub ReadMe Stats 
 * [GitHub Contribution Graph](https://github.com/ez4o/github-contribution-graph) - Add GitHub ReadMe Contribution / Commit Graph
-* [Github Readme Quotes](https://github.com/shravan20/github-readme-quotes) - GitHub Readme Quote Generator
-* [Shields.io](https://shields.io/) - Metadata badges for GitHub Readmes
-* [SkillIcons](https://skillicons.dev/) - Skill Badges for GitHub Readmes / Resumes
+* [Github Readme Quotes](https://github.com/shravan20/github-readme-quotes) - GitHub ReadMe Quote Generator
+* [Shields.io](https://shields.io/) - Metadata badges for GitHub ReadMes
+* [SkillIcons](https://skillicons.dev/) - Skill Badges for GitHub ReadMes / Resumes
 * [GitHub Spray](https://github.com/Annihil/github-spray) - Draw on Github Contribution Page
 * [GitHub Snake](https://dev.to/mishmanners/how-to-enable-github-actions-on-your-profile-readme-for-a-contribution-graph-4l66) - Enable Snake Game on GitHub Readme
 * [GitHub Profile README Generator](https://rahuldkjain.github.io/gh-profile-readme-generator/) or [GPRM](https://gprm.itsvg.in/) - Generate Git Profile Readme
