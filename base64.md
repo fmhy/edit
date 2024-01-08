@@ -579,13 +579,6 @@ Use a **[Base64 Decoder](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock
 
 ***
 
-#### Microsoft Office DL Guides
-
-`aHR0cHM6Ly9yZW50cnkuY28vb2ZmaWNlLWd1aWRl`
-`aHR0cHM6Ly9yZW50cnkub3JnL0NMRUFOLUlOU1RBTEwtTUlDUk9TT0ZULU9GRklDRQ==`
-
-***
-
 #### Wallpaper Engine
 
 `aHR0cHM6Ly9jcy5yaW4ucnUvZm9ydW0vdmlld3RvcGljLnBocD9mPTEwJnQ9NzYwMTkmaGlsaXQ9d2FsbHBhcGVyK2VuZ2luZQ==`
