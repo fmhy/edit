@@ -220,8 +220,9 @@
 * ⭐ **Obsidian Tools** - [Resources](https://github.com/kmaasrud/awesome-obsidian) / [Share Notes](https://noteshare.space/) / [Live Sync](https://github.com/vrtmrz/obsidian-livesync) / [Backup](https://github.com/denolehov/obsidian-git)
 * ⭐ **[Notion](https://www.notion.so/)**
 * ⭐ **Notion Tools** - [Themes](https://notionthemes.yudax.me/) / [Templates](https://notionpages.com/) / [Resources](https://www.notioneverything.com/notion-world), [2](https://chief-ease-8ab.notion.site/List-of-200-Notion-Resources-e1b46cd365094265bd47b8a2b25bb41e) / [Guide](https://easlo.notion.site/Notion-Beginner-to-Advanced-8a492960b049433289c4a8d362204d20)
+
 * ⭐ **[Microsoft Office](https://massgrave.dev/office_c2r_links.html)**, [Custom Office](https://massgrave.dev/office_c2r_custom.html), [LibreOffice](https://www.libreoffice.org/) or [Calligra](https://calligra.org/) - Office Suites
-* ⭐ **Microsoft Office Tools** - [Activation](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/system-tools#wiki_.25B7_windows_activation) / [DL Guides](https://github.com/nbats/FMHYedit/blob/main/base64.md#microsoft-office-dl-guides) / [Hot Keys](https://i.ibb.co/0m9t95b/ebacd47bf83b.png) / [File Search](https://sourceforge.net/projects/office-search/)
+* ⭐ **Microsoft Office Tools** - [Activation](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/system-tools#wiki_.25B7_windows_activation) / [DL Guide](https://rentry.co/office-guide) / [Hot Keys](https://i.ibb.co/0m9t95b/ebacd47bf83b.png) / [File Search](https://sourceforge.net/projects/office-search/)
 * ⭐ **[Kludd](https://kludd.co/)** - Collaborative Editor
 * ⭐ **[AnyType](https://anytype.io/)**
 * [Calculist](https://calculist.io/) - Note Taking for Problem Solving
