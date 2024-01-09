@@ -511,6 +511,7 @@
 * [Arachne](https://arachne.dainst.org/) - Ancient Sculpture Image Archive
 * [CARI](https://cari.institute/) - Design Aesthetics History
 * [Historical Fashion](https://docs.google.com/document/d/1R8eulTsb9Zlc7h2H917dNJZS9s0rIq9OAu7LpSS9F2k/) - Historical Fashion History
+* [PessimistsArchive](https://pessimistsarchive.org/) - Historical Technological Pessimism Archive
 * [BetaWiki](https://betawiki.net/wiki/Main_Page) - Operating System / Software History / [Discord](https://discord.com/invite/XPz5Zm42tR)
 * [InfoMesh](https://infomesh.org/) - Web History / Info
 * [VersionMuseum](https://www.versionmuseum.com/) - Website History / Info
@@ -927,7 +928,7 @@
 * [Wisdolia](https://www.wisdolia.com/) - Create Flashcards from YouTube, Webpages or PDFs
 * [SearchifyX](https://github.com/daijro/SearchifyX) - Search Flashcards
 * [ForgetMeNot](https://github.com/tema6120/ForgetMeNot) - Flashcard Mobile App
-* [Edgibot](https://www.edgilearning.com/), [Tutorly](https://tutorly.ai), [Caktus](https://www.caktus.ai/), [Get Unstuck](https://socratic.org/), [sarthaks](https://www.sarthaks.com/) or [Brainly](https://brainly.com/) - Homework Help Bots / Communities
+* [Edgibot](https://www.edgilearning.com/), [Tutorly](https://tutorly.ai), [Get Unstuck](https://socratic.org/), [sarthaks](https://www.sarthaks.com/) or [Brainly](https://brainly.com/) - Homework Help Bots / Communities
 * [Toppr](https://www.toppr.com/), [FreeOnlineTest](https://www.freeonlinetest.in/) or [AE Old](https://discord.gg/VCXGudY) - Test Practice & Homework Help
 * [DoubtNut](https://www.doubtnut.com/) - Exam Solutions / Help
 * [StudyStream](https://www.studystream.live/) or [StudyTogether](https://www.studytogether.com/) - Online Study Groups
@@ -1006,6 +1007,7 @@
 * ⭐ **[UrbanDictionary](https://www.urbandictionary.com/)** / [Frontends](https://codeberg.org/zortazert/rural-dictionary/) or [Slangit](https://slang.net/) - Slang Word / Phrase Dictionaries
 * ⭐ **[OneLook](https://onelook.com/)** - Multi Dictionary Search
 * ⭐ **[Wolfram Alpha](https://www.wolframalpha.com/)** - Searchable Knowledgebase / [API Access](https://wolfreealpha.gitlab.io)
+* ⭐ **[NGrams](https://books.google.com/ngrams/)** - Book Word Usage Tracker
 * [Phrases.org](https://phrases.org.uk/) - Phrase Dictionary
 * [NinjaWords](https://ninjawords.com/) - Dictionary
 * [Wordnik](https://www.wordnik.com/) - Dictionary
@@ -1045,7 +1047,7 @@
 * [Synonym.com](https://www.synonym.com/) - Synonyms
 * [Feeels](https://feelu.vercel.app/) - Emotion Synonym Chart
 * [WikiDiff](https://wikidiff.com/) - Difference Between Any Words
-* [DoesNotTranslate](https://doesnottranslate.com/) - Words with No Translation
+* [DoesNotTranslate](https://doesnottranslate.com/) or [Eunoia](https://eunoia.world/) - Words with No Translation
 * [Tip of my Tounge](https://chir.ag/projects/tip-of-my-tongue/) - Find Words you Can't Remember
 * [Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/index.html), [IEP](https://iep.utm.edu/) or [nLab](https://ncatlab.org/) - Philosophy Encyclopedias / [Search](https://www.visualizingsep.com/)
 * [TheIdioms](https://www.theidioms.com/) - Idiom Dictionary
