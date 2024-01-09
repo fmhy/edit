@@ -1,116 +1,70 @@
 :root {
-  --vp-c-teal-1: #287f94;
-  --vp-c-teal-2: #1e6b80;
-  --vp-c-teal-3: #459db2;
+  /* Colors: Brand */
+  --vp-c-brand-1: #7bc5e4;
+  --vp-c-brand-2: #c4e2f2;
+  --vp-c-brand-3: #4882a7;
+  --vp-c-brand-soft: #a4d5ec;
 
-  --vp-c-teal-soft: rgba(100, 237, 255, 0.14);
-}
-
-.dark {
-  --vp-c-teal-1: #a8efff;
-  --vp-c-teal-2: #5cd4e7;
-  --vp-c-teal-3: #3eb8dd;
-  --vp-c-teal-soft: rgba(100, 229, 255, 0.16);
-}
-
-:root {
-  --vp-c-default-1: var(--vp-c-gray-1);
-  --vp-c-default-2: var(--vp-c-gray-2);
-  --vp-c-default-3: var(--vp-c-gray-3);
-  --vp-c-default-soft: var(--vp-c-gray-soft);
-
-  --vp-c-brand-1: var(--vp-c-teal-1);
-  --vp-c-brand-2: var(--vp-c-teal-2);
-  --vp-c-brand-3: var(--vp-c-teal-3);
-  --vp-c-brand-soft: var(--vp-c-teal-soft);
-
-  --vp-c-tip-1: var(--vp-c-brand-1);
-  --vp-c-tip-2: var(--vp-c-brand-2);
-  --vp-c-tip-3: var(--vp-c-brand-3);
-  --vp-c-tip-soft: var(--vp-c-brand-soft);
-
-  --vp-c-warning-1: var(--vp-c-yellow-1);
-  --vp-c-warning-2: var(--vp-c-yellow-2);
-  --vp-c-warning-3: var(--vp-c-yellow-3);
-  --vp-c-warning-soft: var(--vp-c-yellow-soft);
-
-  --vp-c-danger-1: var(--vp-c-red-1);
-  --vp-c-danger-2: var(--vp-c-red-2);
-  --vp-c-danger-3: var(--vp-c-red-3);
-  --vp-c-danger-soft: var(--vp-c-red-soft);
-}
-
-:root {
-  -vp-c-text-1: rgba(42, 40, 47);
-  -vp-c-text-2: rgba(42, 40, 47, 0.78);
-  -vp-c-text-3: rgba(42, 40, 47, 0.56);
-  --black-text-1: rgba(42, 40, 47);
-}
-
-.dark {
-  --vp-c-text-1: rgba(255, 255, 245, 0.86);
-  --vp-c-text-2: rgba(235, 235, 245, 0.6);
-  --vp-c-text-3: rgba(235, 235, 245, 0.38);
-}
-
-/**
- * Component: Button
- * -------------------------------------------------------------------------- */
-
-:root {
-  --vp-button-brand-border: transparent;
-  --vp-button-brand-text: var(--vp-c-white);
+  /* Colors: Button */
   --vp-button-brand-bg: var(--vp-c-brand-1);
-  --vp-button-brand-hover-border: transparent;
-  --vp-button-brand-hover-text: var(--vp-c-white);
-  --vp-button-brand-hover-bg: var(--vp-c-brand-2);
-  --vp-button-brand-active-border: transparent;
-  --vp-button-brand-active-text: var(--vp-c-white);
-  --vp-button-brand-active-bg: var(--vp-c-brand-1);
+  --vp-button-brand-border: var(--vp-c-brand-soft);
+  --vp-button-brand-text: rgba(42, 40, 47);
+  --vp-button-brand-hover-border: var(--vp-c-brand-soft);
+  --vp-button-brand-hover-text: rgba(42, 40, 47);
+  --vp-button-brand-hover-bg: var(--vp-c-brand-soft);
+  --vp-button-brand-active-border: var(--vp-c-brand-soft);
+  --vp-button-brand-active-text: rgba(42, 40, 47);
+  --vp-button-brand-active-bg: var(--vp-button-brand-bg);
+  --vp-button-alt-bg: #484848;
+  --vp-button-alt-text: #f0eeee;
+  --vp-button-alt-hover-bg: #484848;
+  --vp-button-alt-hover-text: #f0eeee;
+
+  --vp-c-bg-elv: rgba(255, 255, 255, 0.7);
+  --vp-c-bg-mark: rgb(232, 232, 232);
+
+  /* Colors: Custom Block */
+  --vp-custom-block-info-bg: rgba(171, 210, 244, 0.05);
+  --vp-custom-block-info-border: #60c4fa;
+  --vp-custom-block-info-text: rgb(39, 115, 145);
+  --vp-custom-block-info-text-deep: rgb(18, 121, 162);
+  --vp-custom-block-tip-bg: rgba(137, 202, 176, 0.05);
+  --vp-custom-block-tip-border: rgba(34, 197, 94, 1);
+  --vp-custom-block-tip-text: rgb(10, 128, 90);
+  --vp-custom-block-tip-text-deep: rgb(11, 133, 94);
+  --vp-custom-block-warning-bg: rgba(250, 204, 21, 0.05);
+  --vp-custom-block-warning-border: rgba(245, 158, 11, 1);
+  --vp-custom-block-warning-text: rgb(166, 114, 35);
+  --vp-custom-block-warning-text-deep: rgb(199, 109, 6);
+  --vp-custom-block-danger-bg: rgba(220, 38, 38, 0.05);
+  --vp-custom-block-danger-border: rgba(248, 113, 113, 1);
+  --vp-custom-block-danger-text: rgb(196, 46, 46);
+  --vp-custom-block-danger-text-deep: rgba(220, 38, 38, 1);
 }
 
 .dark {
-  --vp-button-brand-text: var(--black-text-1);
-  --vp-button-brand-bg: var(--vp-c-brand-2);
-  --vp-button-brand-hover-text: var(--black-text-1);
-  --vp-button-brand-hover-bg: var(--vp-c-brand-1);
-  --vp-button-brand-active-text: var(--black-text-1);
-  --vp-button-brand-active-bg: var(--vp-c-brand-3);
-}
+  /* Colors: Background */
+  --vp-c-bg: rgb(26, 26, 26);
+  --vp-c-bg-alt: rgb(23, 23, 23);
+  --vp-c-bg-elv: rgba(23, 23, 23, 0.8);
 
-/**
- * Component: Home
- * -------------------------------------------------------------------------- */
-
-:root {
-  --vp-home-hero-name-color: transparent;
-  --vp-home-hero-name-background: -webkit-linear-gradient(120deg, #3374e4 30%, #47fff6);
-
-  --vp-home-hero-image-background-image: linear-gradient(-45deg, #3374e4 50%, #47fff6 50%);
-  --vp-home-hero-image-filter: blur(40px);
-}
-
-@media (min-width: 640px) {
-  :root {
-    --vp-home-hero-image-filter: blur(56px);
-  }
-}
-
-@media (min-width: 960px) {
-  :root {
-    --vp-home-hero-image-filter: blur(72px);
-  }
-}
-
-/**
- * Component: Custom Block
- * -------------------------------------------------------------------------- */
-
-:root {
-  --vp-custom-block-tip-border: transparent;
-  --vp-custom-block-tip-text: var(--vp-c-text-1);
-  --vp-custom-block-tip-bg: var(--vp-c-brand-soft);
-  --vp-custom-block-tip-code-bg: var(--vp-c-brand-soft);
+  /* Colors: Custom Block */
+  --vp-custom-block-info-bg: rgba(84, 110, 155, 0.1);
+  --vp-custom-block-info-border: #3686b1;
+  --vp-custom-block-info-text: #52b0e3;
+  --vp-custom-block-info-text-deep: #00b7ff;
+  --vp-custom-block-tip-bg: rgba(51, 130, 118, 0.1);
+  --vp-custom-block-tip-border: rgba(4, 120, 87, 1);
+  --vp-custom-block-tip-text: rgb(25, 190, 129);
+  --vp-custom-block-tip-text-deep: rgba(52, 211, 153, 1);
+  --vp-custom-block-warning-bg: rgba(253, 224, 71, 0.1);
+  --vp-custom-block-warning-border: rgba(202, 138, 4, 1);
+  --vp-custom-block-warning-text: rgba(234, 179, 8, 1);
+  --vp-custom-block-warning-text-deep: rgba(250, 204, 21, 1);
+  --vp-custom-block-danger-bg: rgba(239, 68, 68, 0.1);
+  --vp-custom-block-danger-border: rgba(127, 29, 29, 1);
+  --vp-custom-block-danger-text: rgba(248, 113, 113, 1);
+  --vp-custom-block-danger-text-deep: rgba(248, 113, 113, 1);
 }
 
 .vp-doc a {
@@ -159,6 +113,29 @@
   border-end-end-radius: 14px;
   border-start-end-radius: 14px;
   inline-size: 4px;
+}
+
+/**
+ * Component: Home
+*/
+:root {
+  --vp-home-hero-name-color: transparent;
+  --vp-home-hero-name-background: -webkit-linear-gradient(120deg, #c4b5fd 30%, #7bc5e4);
+
+  --vp-home-hero-image-background-image: linear-gradient(-45deg, #c4b5fd 50%, #47caff 50%);
+  --vp-home-hero-image-filter: blur(44px);
+}
+
+@media (min-width: 640px) {
+  :root {
+    --vp-home-hero-image-filter: blur(56px);
+  }
+}
+
+@media (min-width: 960px) {
+  :root {
+    --vp-home-hero-image-filter: blur(68px);
+  }
 }
 
 .base64 {

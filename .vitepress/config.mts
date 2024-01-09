@@ -67,6 +67,13 @@ export default defineConfig({
       { text: "Glossary", link: "https://rentry.org/The-Piracy-Glossary" },
       { text: "Guides", link: "https://rentry.co/fmhy-guides" },
       { text: "Backups", link: "https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/backups" },
+      {
+        text: "About",
+        items: [
+          { text: "Posts", link: "/posts" },
+          { text: "Feedback", link: "/feedback" },
+        ],
+      },
     ],
     sidebar,
     socialLinks,
