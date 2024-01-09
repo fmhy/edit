@@ -40,7 +40,7 @@
 * [xpWatch](https://xpwatch-v2.pages.dev/) - Movies / TV / Anime / 1080p
 * [EMovies](https://emovies.si/) - Movies / TV / Anime / 1080p
 * [ISDB](https://isdb.pl/ ) - Movies / TV / 1080p
-* [PrimeFlix](https://primeflix-liard.vercel.app/) - Movies / TV / Anime / 1080p / [Discord](https://discord.gg/xSUceYpr)
+* [PrimeFlix](https://primeflix-liard.vercel.app/) - Movies / TV / Anime / 1080p
 * [Goojara](https://www.goojara.to/) - Movies / TV / Anime / 1080p
 * [Kinos](https://www.kinos.to/) - Movies / TV / 1080p / [Switch Language](https://i.ibb.co/n1Kb14T/64d0fb9444e1.png) (in options)
 * [Downloads-Anymovies](https://www.downloads-anymovies.co/) - Movies / 1080p
