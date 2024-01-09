@@ -398,7 +398,7 @@
 * [Intel BIOS Guide](https://docs.google.com/document/d/1s43_3YGJIy3zs0ZIksoOmxgrDKnu4ZNhhnXW_NiJZ0I/edit) - Intel BIOS Settings Explanation
 * [BiOSBug](https://www.biosbug.com/) - Remove / Reset BiOS Password / [Tutorial](https://www.youtube.com/watch?v=GolIjI2HS5w)
 * [BIOS-PW](https://bios-pw.org/) - System Password Recovery Tools
-* [PC Health Check](https://aka.ms/GetPCHealthCheckApp), [WhyNotWin11](https://github.com/rcmaehl/WhyNotWin11) or [ReadySunValley](https://github.com/builtbybel/ReadySunValley) - Identify why your PC isn't Windows 11 ready
+* [PC Health Check](https://aka.ms/GetPCHealthCheckApp) or [WhyNotWin11](https://github.com/rcmaehl/WhyNotWin11) - Identify why your PC isn't Windows 11 ready
 
 ***
 
