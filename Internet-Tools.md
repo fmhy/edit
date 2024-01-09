@@ -24,6 +24,7 @@
 
 * ⭐ **[fast](https://fast.com/)** / [CLI](https://github.com/sindresorhus/fast-cli) - Speed Test
 * ⭐ **[Cloudflare Speed Test](https://speed.cloudflare.com/)** - Speed Test
+* ⭐ **[LibreSpeed](https://librespeed.org/)** - Speed Test
 * [Pinging](https://www.pinging.net/) - Internet Uptime Monitor
 * [NetBlocks](https://api.webprobe.org/) or [OpenNetMeter](https://github.com/Ashfaaq18/OpenNetMeter) - Internet Performance Monitor
 * [WiFi Analyzer](https://apps.microsoft.com/store/detail/wifi-analyzer/9NBLGGH33N0N) - WiFi Analyzer
@@ -41,7 +42,6 @@
 * [PacketSender](https://packetsender.com/) - Packet Sender
 * [OpenSpeedTest](https://github.com/openspeedtest/Speed-Test) - Speed Test
 * [Packet Loss Test](https://packetlosstest.com/) - Speed Test
-* [LibreSpeed](https://librespeed.org/) - Speed Test
 * [Bandwidth Place](https://www.bandwidthplace.com/) - Speed Test
 * [Speedtest](https://www.speedtest.net/) - Speed Test
 * [speedcheck](https://www.speedcheck.org/) - Speed Test
