@@ -643,12 +643,6 @@ Use a **[Base64 Decoder](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock
 
 ***
 
-#### Ninja Warrior
-
-`aHR0cHM6Ly9yZW50cnkuY28vTmluamFXYXJyaW9y`
-
-***
-
 #### Free Courses By Xemu
 
 `aHR0cHM6Ly9yZW50cnkub3JnL0ZyZWVDb3Vyc2VzQnlYZW0g`
