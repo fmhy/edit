@@ -369,7 +369,7 @@
 * [Hypatia](https://gitlab.com/divested-mobile/hypatia) - Antivirus
 * [QUAD9 Connect](https://play.google.com/store/apps/details?id=com.quad9.aegis) - DNS Encryption 
 * [AFWall+](https://github.com/ukanth/afwall/), [Rethink App](https://github.com/celzero/rethink-app), [Karma](https://github.com/StarGW-net/karma-firewall) or [NoRoot Firewall](https://play.google.com/store/apps/details?id=app.greyshirts.firewall) - Firewalls
-* [URL Scanner](https://f-droid.org/en/packages/com.trianguloy.urlchecker/) - URL Checker
+* [UrlChecker](https://github.com/TrianguloY/UrlChecker) - URL Checker
 * [PCAPdroid](https://github.com/emanuele-f/PCAPdroid) - Network Monitor
 * [v2rayNG](https://github.com/2dust/v2rayNG) - Build Privacy Network
 * [Open SSTP Client](https://github.com/kittoku/Open-SSTP-Client) - SSTP Client
@@ -644,7 +644,7 @@
 * ⭐ **[Librera](https://librera.mobi/)** or **[Lithium](https://play.google.com/store/apps/details?id=com.faultexception.reader)** - Ebook Reader
 * ⭐ **[Readera](https://play.google.com/store/apps/details?id=org.readera)** - PDF Reader
 * ⭐ **[Tachiyomi](https://tachiyomi.org/)** / [2](https://github.com/Saud-97/TachiyomiS97) or **[Kotatsu](https://kotatsu.app/)** - Online Manga Readers
-* ⭐ **Tachiyomi Tools** - [Github Releases](https://github.com/tachiyomiorg/tachiyomi) / [Forks](https://tachiyomi.org/forks/#forks) / [Discord](https://discord.com/invite/tachiyomi) / [Open Local Files](https://tachiyomi.org/help/guides/local-manga/)
+* ⭐ **Tachiyomi Tools** - [Extensions](https://github.com/keiyoushi/extensions) / [Github Releases](https://github.com/tachiyomiorg/tachiyomi) / [Forks](https://tachiyomi.org/forks/#forks) / [Discord](https://discord.com/invite/tachiyomi) / [Open Local Files](https://tachiyomi.org/help/guides/local-manga/)
 * [Openreads](https://github.com/mateusz-bak/openreads-android), [NeverTooManyBooks](https://github.com/tfonteyn/NeverTooManyBooks) or [Basmo](https://basmo.app/) - Book Managers / Trackers
 * [KafkaArchives](https://www.kafkaarchives.com/) - Archive.org Books / Audiobooks
 * [Wikipedia](https://play.google.com/store/apps/details?id=org.wikipedia) - Wikipedia App / [Beta](https://play.google.com/store/apps/details?id=org.wikipedia.beta)
@@ -897,7 +897,7 @@
 * [ToonMe](https://toonme.com/) - Turn Photos into Cartoons
 * [Fimo](https://apps.apple.com/us/app/fimo-analog-camera/id1454219307) - Vintage Image Filters
 * [Lightme](https://apps.apple.com/app/id1509033790) - Light Meter
-* [Luma AI](https://lumalabs.ai/) - Capture 3D Images
+* [Luma AI](https://lumalabs.ai/) - Capture 3D Images / [Discord](https://discord.gg/lumaai)
 * [Bright Eye](https://apps.apple.com/us/app/bright-eye/id1593932475) - AI Image Generator
 * [Universal Control](https://apps.apple.com/us/app/tv-remote-universal-control/id1539090879) - Universal Remote
 * [NetClicker](https://netclicker.tv/) - Phone Browser Controller
