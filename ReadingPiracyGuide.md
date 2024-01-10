@@ -482,16 +482,13 @@
 * [Free Ebooks Download List](https://free-ebook-download-links.blogspot.com/)
 * [EbookFoundation Programming Books](https://github.com/EbookFoundation/free-programming-books/)
 * [free-python-books](https://github.com/pamoroso/free-python-books)
-* [ApressOpen](https://www.apress.com/us/apress-open/apressopen-titles) - Computer Science
-* [AllITBooks](https://allitebook.xyz/) - Computer Science
 * [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/) - Python Data Science / [GitHub](https://github.com/jakevdp/PythonDataScienceHandbook)
 * [Go Books](https://github.com/dariubs/GoBooks) - GoLang Books
 * [JSBooks](https://jsbooks.revolunet.com/) - Javascript Books
 * [DevDocs](https://devdocs.io/) - API Documentation
 * [Bzdnbot](https://t.me/Bzdnbot) - Telegram
 * [X-Files](https://doc.lagout.org/) - Tech / Programming
-* [#/g/sicp](https://g.sicp.me/books/) - Programming / Computer Science / Tech (35gb Torrent)
-* [TeachYourselfComputerScience](https://teachyourselfcs.com/) - Computer Science Book Recommendations
+* [#/g/sicp](https://g.sicp.me/books/) - Programming / Tech (35gb Torrent)
 * [ChessProgramming](https://www.chessprogramming.org/) - Chess Programming Wiki
 
 ***
@@ -523,7 +520,6 @@
 * [SciAlert](https://scialert.net/) - Research Papers
 * [Zenodo](https://zenodo.org/) - Research Papers
 * [Science.gov](https://www.science.gov/) - Scientific Paper Search
-* [Papers We Love](https://paperswelove.org/) - Computer Science Research Papers
 * [Awesome Detection Transformer](https://github.com/IDEA-Research/awesome-detection-transformer) - Computer Vision Research Papers
 * [IDEAS](https://ideas.repec.org/) or [RePEc](http://repec.org/) - Economic Research Papers
 * [PsyArXiv](https://psyarxiv.com/) - Psychology Research Papers
