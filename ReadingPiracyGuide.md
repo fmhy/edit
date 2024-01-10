@@ -733,6 +733,7 @@
 * [Mangaski](https://www.mangasaki.net//)
 * [DeathTollScans](https://www.deathtollscans.net/)
 * [MangaJar](https://mangajar.pro/)
+* [GodManga](https://godamanga.art/)
 * [NineManga](https://www.ninemanga.com)
 * [Mangahasu](https://mangahasu.se/)
 * [MangaForest](https://mangaforest.me/) / [2](https://mangamirror.com/)
@@ -875,10 +876,6 @@
 * ⭐ **[PDFMagazines](https://pdfmagazines.club/)**
 * ⭐ **[DownMagaz](https://downmagaz.net/)**
 * ⭐ **[MagazineLib](https://magazinelib.com/)**
-
-Magazine Archive (russian ui but has english content)
-http://magzdb.org/j
-
 * [ENMagazine](https://t.me/enmagazine) - Telegram
 * [newspaper_archive](https://t.me/newspaper_archive) - Telegram
 * [World Mags](https://www.worldmags.net/)
