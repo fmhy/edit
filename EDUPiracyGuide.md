@@ -90,17 +90,6 @@
 * [NYU-DLSP21](https://atcold.github.io/NYU-DLSP21/) - Deep Learning Course
 * [BillNye](https://billnye.com/) - Bill Nye Science Videos
 * [pad.ma](https://pad.ma/) - Text-annotated Videos
-* [Code.org](https://code.org/) - Computer Science Courses
-* [How to Become a Computer Science Engineer](https://laconicml.com/computer-science-engineer-mit-university/) - Computer Science Courses
-* [Open Source CS Degree](https://github.com/mvillaloboz/open-source-cs-degree) - Computer Science Courses
-* [cs-video-courses](https://github.com/Developer-Y/cs-video-courses) - Computer Science Courses
-* [Open Source Society University](https://github.com/ossu/computer-science) - Computer Science Courses / [GitHub](https://github.com/ossu) / [Discord](https://discord.gg/wuytwK5s9h)
-* [Modern Computer Science Curriculum](https://functionalcs.github.io/curriculum/) - Computer Science Courses
-* [Learn Computer Science in 1k Videos](https://laconicml.com/computer-science-curriculum-youtube-videos/) - Computer Science Courses
-* [CS50](https://cs50.harvard.edu/x/) - Harvard Computer Science Course
-* [CollegeComendium](https://collegecompendium.org/) - Computer Science Courses
-* [Computerphile](https://www.youtube.com/@Computerphile/), [CSDojo](https://www.youtube.com/@CSDojo) or [t v nagaraju Technical](https://www.youtube.com/@tvnagarajutechnical9978) - Computer Science YouTube Channels
-* [CSDIY](https://csdiy.wiki/en/) or [LearnAIFromScratch](https://learnaifromscratch.github.io/ ) - Computer Science Learning Guides
 * [Bioinformatics](https://github.com/ossu/bioinformatics) - Bioinformatics Courses
 * [sha256_project](https://github.com/oconnor663/sha256_project) - Applied Cryptography Course
 * [Sapience Institute](https://learn.sapienceinstitute.org/) - Religious Courses
@@ -252,7 +241,7 @@
 * [Listenable](https://apps.apple.com/us/app/listenable-learn-with-audio/id1492810539) - 5-Minute Audio Lessons / iOS
 * [LabXchange](https://www.labxchange.org/) or [EduMedia](https://www.edumedia-sciences.com/en/) - Interactive Science Simulations
 * [Plickers](https://get.plickers.com/) - Q&A Results App
-* [CuriousCat](https://curiouscat.live/) - Q&A Community
+* [CuriousCat](https://curiouscat.live/) or [RetroSpring](https://retrospring.net/ ) - Q&A Communities
 * [AnswerSocrates](https://answersocrates.com/) - Most Asked Questions on Google
 * [Kialo](https://www.kialo.com/) or [Level Point](https://levelpoint.app/) - Debates / Discussion
 * [Tabby Cat](https://github.com/TabbycatDebate/tabbycat) - Debate Tournament Tabulation Software
@@ -294,7 +283,7 @@
 * [Ray Optics Simulation](https://phydemo.app/ray-optics/) - Light Reflection / Refraction Simulator
 * [Lights and Shadows](https://ciechanow.ski/lights-and-shadows/) - Light and Shadow Lesson
 * [Interactive 4D Handbook](https://baileysnyder.com/interactive-4d/) - Interactive Fourth Dimension
-* [British & Exotic Mineralogy](https://www.c82.net/mineralogy/) or [Mindat](https://www.mindat.org/) - Mineralogy Database
+* [British & Exotic Mineralogy](https://www.c82.net/mineralogy/) - Mineralogy Database
 * [Camopedia](https://www.camopedia.org/) - Camouflage Wiki
 * [AirVectors](https://www.airvectors.net/) - Aircraft Wiki
 * [Robot Shop](https://community.robotshop.com/) - Robotics Forum
@@ -361,7 +350,7 @@
 * [BetterExplained](https://betterexplained.com/) - Math Guides / Courses
 * [Math is Fun](https://www.mathsisfun.com/games/index.html) - Math Games
 * [Mathlets](https://mathlets.org/), [GeoGebra](https://www.geogebra.org/) or [Mathspad](https://www.mathspad.co.uk/resources.php?interactives=1) - Interactive Math Sites
-* [Countle](https://www.countle.org/) or [Cut The Knot](https://cut-the-knot.org/) - Math Equations
+* [Cut The Knot](https://cut-the-knot.org/) - Math Equations
 * [IXL Learning](https://au.ixl.com/math/) - Math Practice / Quizzes
 * [Math Exercises](https://www.math-exercises.com/) or [MathBitsNotebook](https://mathbitsnotebook.com/) - Math Practice
 * [Pauls Online Math Notes](https://tutorial.math.lamar.edu/) - Math Practice / Guides
@@ -384,7 +373,7 @@
 * ↪️ **[Math and Physics Books](https://github.com/nbats/FMHYedit/blob/main/base64.md#math-and-physics-books)**
 * ⭐ **[phys](https://phys.org/)** - Latest / News / Article / Physics
 * ⭐ **[The Feynman Lectures](https://www.feynmanlectures.caltech.edu/)** - Physics Lectures
-* ⭐ **[Physics Simulations](https://www.csun.edu/science/software/simulations/physics.html)**, [Mujoco](https://github.com/deepmind/mujoco), [Physics Animations](https://www.animations.physics.unsw.edu.au/), [oPhysics](https://ophysics.com/index.html) or [MyPhysicsLab](https://www.myphysicslab.com/index-en.html) - Physics Simulations / Animations
+* ⭐ **[Physics Simulations](https://www.csun.edu/science/software/simulations/physics.html)**, [Mujoco](https://github.com/google-deepmind/mujoco), [Physics Animations](https://www.animations.physics.unsw.edu.au/), [oPhysics](https://ophysics.com/index.html) or [MyPhysicsLab](https://www.myphysicslab.com/index-en.html) - Physics Simulations / Animations
 * [PhysicsClassroom](https://www.physicsclassroom.com/) - Physics Lessons
 * [PhysicsTravelGuide](https://physicstravelguide.com/) - Physics Explanations
 * [Physics and Maths Tutor](https://www.physicsandmathstutor.com/) - UK High School Notes & Papers
@@ -421,11 +410,6 @@
 * [BatteryUniversity](https://batteryuniversity.com/articles) - Learn About Batteries
 * [Electronics Tutorials](https://www.electronics-tutorials.ws/) - Electronic Guides
 * [EasyEDA](https://easyeda.com/editor) - Electronic Circuit Design Tool
-* [FliteTest](https://www.flitetest.com/) - DIY Drone Guides
-* [NandGame](https://nandgame.com/) - Computer Building Puzzle
-* [From Nand To Tetris](https://www.nand2tetris.org/course) - Computer Building Lesson
-* [Copetti](https://www.copetti.org/) - In-depth Console Architecture Analysis / [GitHub](https://github.com/flipacholas/Architecture-of-consoles)
-* [CPU Land](https://cpu.land/) - What Happens when you run Programs
 
 ***
 
@@ -475,7 +459,7 @@
 * [name-reaction](https://www.name-reaction.com) - List of Name Reactions
 * [ChemTube3D](https://www.chemtube3d.com) - Interactive 3D Chemistry Animations
 * [ChemSpider](https://www.chemspider.com/) - Chemical Structures
-* [Merck Index](https://www.rsc.org/Merck-Index/) - Online Merck Index
+* [Merck Index](https://merckindex.rsc.org/) - Online Merck Index
 * [Organic Chemistry Data](https://organicchemistrydata.org/) - Organic Chemistry Data
 * [IGOC](https://www.chem.ucla.edu/~harding/IGOC/IGOC.html) - Illustrated Glossary of Organic Chemistry
 * [Colorado Chemistry Simulations](https://phet.colorado.edu/en/simulations/filter?subjects=chemistry&type=html%2Cprototype) - Chemistry Animations
@@ -675,6 +659,10 @@
 
 ***
 
+## ▷ [Computer Science](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/dev-tools#wiki_.25B7_computer_science)
+
+***
+
 ## ▷ Virtual Tours
 
 * 🌐 **[Virtual Museum Resources](https://mcn.edu/a-guide-to-virtual-museum-resources/)** - Online Museums
@@ -860,7 +848,6 @@
 # ► Educational Tools
 
 * 🌐 **[NCES](https://nces.ed.gov/)** or [MyAssignmentHelp](https://myassignmenthelp.com/free-tools.php) - Educational Tools
-* 🌐 **[CompSciLib](https://www.compscilib.com/)** - Computer Science Tools
 * 🌐 **[nanoHUB](https://nanohub.org/)** - Nanotechnology Tools
 * 🌐 **[5th STAAR Resource Curation](https://docs.google.com/document/d/1vxxEKhZe_7dd1XIxl_sETsqP__Rf-yPAnBhtwf8huKU/edit?usp=drivesdk)** - Grade School Tools
 * 🌐 **[ScienceTrek](https://sciencetrek.org/)** - Teaching Resources
@@ -907,7 +894,7 @@
 * [Desklamp](https://desklamp.io/) - Reading / Note Taking / Highlighting Tool / [Guide](https://app.desklamp.io/read?id=46b203c6-d8df-453d-b546-95a8fa7a44b9&mode=explore)
 * [Lurnby](https://github.com/Roznoshchik/Lurnby) or [StringMark](https://www.stringmark.com/) - Save & Mark Research in Browser
 * [Catma](https://catma.de/) - Research Markup & Analysis Tool
-* [Lyx](https://www.lyx.org/), [Typst](https://typst.app/home) / [Discord](https://discord.gg/typst-1054443721975922748), [TeXStudio](https://texstudio.org/) or [Papeeria](https://papeeria.com/) - LaTeX Editors / [Guide](https://www.learnlatex.org/)
+* [Lyx](https://www.lyx.org/), [Typst](https://typst.app/home), [TeXStudio](https://texstudio.org/) or [Papeeria](https://papeeria.com/) - LaTeX Editors / [Guide](https://www.learnlatex.org/)
 * [latex_paper_writing_tips](https://github.com/guanyingc/latex_paper_writing_tips) - Latex Research Paper Tips
 * [OpenPaper](https://openpaper.work/en/), [papis](https://github.com/papis/papis), [Paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) or [DataShare](https://datashare.icij.org/) - Document Managers
 * [Taguette](https://app.taguette.org/) - Data Analysis Document Tagging
@@ -952,7 +939,6 @@
 * [anthropology](https://t.me/anthropology) - UPSC Telegram Channel
 * [GaryChamberlainLectureNotes](https://github.com/paulgp/GaryChamberlainLectureNotes) - Econometrics Lecture Notes
 * [ITExams](https://www.itexams.com/) - IT Exam Collection
-* [Lecture Links for Placement Preparation in Computer Science](https://github.com/riti2409/Resources-for-preparation-Of-Placements)
 * [Science Career General](https://sciencecareergeneral.neocities.org/) - PhD / Stem Career Study Guides
 * [HamExam](https://hamexam.org/), [AA9PW](https://www.aa9pw.com/) or [HamStudy](https://hamstudy.org/) - Ham Radio Practice Exams
 * [Cheatography](https://cheatography.com/) - Educational Cheat Sheets
