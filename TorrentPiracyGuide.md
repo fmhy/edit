@@ -4,11 +4,6 @@
 ***
 ***
 
-**[Table of Contents](https://i.ibb.co/FKJVvHf/36473600b651.png)** - For mobile users
-
-***
-***
-
 # ► [VPN Guide](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25BA_vpn)
 
 ***
@@ -122,7 +117,6 @@
 * [BTMET](https://btmet.com/)
 * [BT4G](https://bt4gprx.com/)
 * [Torlock](https://www.torlock.com/), [2](https://www.torlock2.com/)
-* [TorrentFunk](https://www.torrentfunk.com/)
 * [TorrentProject2](https://torrentproject2.com/), [2](https://torrentproject2.net/)
 * [0Mag](https://www.0mag.net/), [2](https://16mag.net/)
 * [TorrentDownloads](https://www.torrentdownloads.pro/)
