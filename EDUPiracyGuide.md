@@ -964,8 +964,8 @@
 * [Internet Live Stats](https://www.internetlivestats.com/) - Live Internet Statistics
 * [Stat Counter](https://gs.statcounter.com/) - Search Engine, Browser and OS Statistics
 * [US Debt Clock](https://www.usdebtclock.org/) - US Debt Clock
-* [Statista](https://www.statista.com/) - Market Statistics
 * [OEC](https://oec.world/en) or [UN Comtrade](https://comtradeplus.un.org/) - Global Trade Data
+* [Statista](https://www.statista.com/) - Market Statistics
 * [Netblocks](https://netblocks.org/cost/) - Find Impact of Internet Shutdown on Economy
 * [LittleSis](https://littlesis.org/) - Business / Government Connections Data
 * [World Births and Deaths](https://worldbirthsanddeaths.com/) - World Birth / Death Rates Visualization
