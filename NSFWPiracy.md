@@ -452,32 +452,6 @@
   
 ***
 
-## ▷ AI Generated
-
-* [eHentai.ai](https://ehentai.ai/) / [Discord](https://ehentai.ai/)
-* [Made.Porn](https://made.porn/) / [Discord](https://discord.com/invite/TE5eUxU2mz)
-* [Dopamine Girl](https://dopaminegirl.com/)
-* [PromptChan](https://promptchan.ai/)
-* [Pornstars.ai](https://www.pornstars.ai/)
-* [Nonolo.ai](https://no.nolo.ai/)
-* [DreamGF](https://dreamgf.ai/)
-* [AIPorn](https://www.aiporn.net/)
-* [pornpen.ai](https://pornpen.ai/feed)
-* [Pornshow](https://app.pornshow.ai/)
-* [OnlyFakes](https://onlyfakes.app/feed)
-* [Pornify](https://pornify.cc/)
-* [AIHentai.co](https://aihentai.co/)
-* [PornSword.io](https://pornsword.io/)
-* [TryNectar](https://trynectar.ai/)
-* [Spicy Porn](https://spicy.porn/)
-* [Seduced.ai](https://www.seduced.ai/)
-* [Pornderful](https://pornderful.ai/)
-* [PornAI.tv](https://pornai.tv/)
-* [sexy.ai](https://sexy.ai/)
-* [r/AIpornhub](https://www.reddit.com/r/AIpornhub/) - NSFW AI Subreddit
-
-***
-
 # ► Magazines
 
 * [SpicyMags](https://spicymags.xyz/)
