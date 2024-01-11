@@ -310,6 +310,7 @@
 * ⭐ **[Microsoft Math Solver](https://math.microsoft.com/)**, [SpeedCrunch](https://speedcrunch.org/) or [MathPapa](https://www.mathpapa.com/algebra-calculator.html) - Advanced Calculator
 * ⭐ **[Cymath](https://www.cymath.com/)**, [MathGPT](https://mathgpt.streamlit.app/), [PhotoMath](https://github.com/nbats/FMHYedit/blob/main/base64.md#photomath) / [iOS](https://apps.apple.com/us/app/photomath/id919087726), [Mathway](https://www.mathway.com/), [EverydayCalculation](https://answers.everydaycalculation.com/), [Math Solver](https://mathsolver.microsoft.com/en), [Tiger Algebra](https://www.tiger-algebra.com/) or [Symbolab](https://www.symbolab.com/) - Math Problem Solvers
 * ⭐ **[AoPS Alcumus](https://artofproblemsolving.com/)** - Interactive Math Site
+* ⭐ **[BetterExplained](https://betterexplained.com/)** - Math Guides / Courses
 * ⭐ **[Wolfram|Alpha](https://www.wolframalpha.com/examples/mathematics)** - Calculator
 * ⭐ **[Omni Calculator](https://www.omnicalculator.com/)** - Calculator
 * [CalculatorSoup](https://www.calculatorsoup.com/) - Calculator
@@ -347,7 +348,6 @@
 * [Online Math Tools](https://onlinemathtools.com/) - Multiple Math Tools
 * [3b1b](https://github.com/3b1b/videos) / [2](https://github.com/3b1b/manim) - Generate Explanatory Math Videos
 * [MathOnline](http://mathonline.wikidot.com/) or [Mathigon](https://mathigon.org/) - Math / Courses
-* [BetterExplained](https://betterexplained.com/) - Math Guides / Courses
 * [Math is Fun](https://www.mathsisfun.com/games/index.html) - Math Games
 * [Mathlets](https://mathlets.org/), [GeoGebra](https://www.geogebra.org/) or [Mathspad](https://www.mathspad.co.uk/resources.php?interactives=1) - Interactive Math Sites
 * [Cut The Knot](https://cut-the-knot.org/) - Math Equations
