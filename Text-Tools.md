@@ -115,6 +115,7 @@
 * ⭐ **[Scribens](https://www.scribens.com/)**
 * [LanguageTool](https://languagetool.org/) - 9997 character limit
 * [Grammarly](https://www.grammarly.com/grammar-check)
+* [ProWritingAid](https://prowritingaid.com/grammar-checker)
 * [QuillBot](https://quillbot.com/grammar-check)
 * [DeepL Write](https://www.deepl.com/write) - 2000 character limit; 3000 if you signup
 
