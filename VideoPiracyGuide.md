@@ -604,7 +604,7 @@
 * [SeriesWay](https://seriesway.com/) - Movies / TV / 720p
 * [TV Shows](https://tvshows.me/) - TV / 720p
 * [TVSBoy](https://tvsboy.com/) - TV / 720p
-* [nKiri](https://nkiri.com/) - Movies / TV / 720p / [Telegram](https://t.me/nkiridotcomchannel)
+* [nKiri](https://nkiri.com/) - Movies / TV / 720p
 * [TodayTVSeries](https://www.todaytvseries2.com/) - TV / 720p
 * [TvShows4Mobile](https://tvshows4mobile.com/) - TV / Anime / 480p / [Telegram](https://t.me/o2tvseries_official)
 * [NetNaija](https://netnaija.xyz/) - Movies / 480p
@@ -708,7 +708,6 @@
 * [VLC-Bittorrent](https://github.com/johang/vlc-bittorrent) or [StreamTim](https://streamtim.com/) - Stream Torrents in VLC
 * [webtorrent-mpv-hook](https://github.com/mrxdst/webtorrent-mpv-hook) - Stream Torrents in MPV
 * [Requestrr](https://github.com/darkalfx/requestrr) or [PepperTorrent](https://github.com/husnuljahneer/PepperTorrent) - Discord Torrent Bots
-* [MovieTorrents_bot](https://t.me/MovieTorrents_bot) - Telegram Torrent Search Bot
 * [Iceetime](https://github.com/diericx/bevy) or [RapidBay](https://github.com/hauxir/rapidbay) - Self-Hosted Torrent Streaming 
 
 ***
