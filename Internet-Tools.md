@@ -33,7 +33,7 @@
 * [mRemoteNG](https://mremoteng.org/) - Remote Connections Manager
 * [Netbalancer](https://netbalancer.com/) - Internet Traffic Control
 * [Arcai](https://arcai.com/) - WiFi Speed Control
-* [NeverSSL](http://neverssl.com/) or [HTTP Forever](http://httpforever.com/) - Fix Public WiFi Login Pages
+* [NeverSSL](http://neverssl.com/) or [HTTP Forever](http://httpforever.com/) - Fix Public Wi-Fi Login Pages
 * [WiFi-Password](https://github.com/sdushantha/wifi-password) - Fetch WiFi Password / Generate QR Code
 * [Hosts File Editor](https://hostsfileeditor.com/) or [HostsDock](https://eshengsky.github.io/HostsDock/) - Windows Hosts File Editors
 * [MAC Address](https://mac-address.alldatafeeds.com/mac-address-lookup) - Check MAC Address
@@ -56,7 +56,7 @@
 * ⭐ **[KeePass XC](https://keepassxc.org/)**, [2](https://keepass.info/) - [Ports](https://keepass.info/download.html) / [Plugins](https://keepass.info/plugins.html) / [Read-Only Functionality](https://subdavis.com/Tusk/) / [CLI](https://github.com/rebkwok/kpcli)
 * ⭐ **[Bitwarden](https://bitwarden.com/)** - [bitwarden_gcloud](https://github.com/dadatuputi/bitwarden_gcloud) / [GUI](https://github.com/Sife-ops/dmenu_bw)
 * [TeamPass](https://teampass.net/) - Collaborative Password Manager
-* [Password Safe](https://www.pwsafe.org/) or [KDE Wallet Manager](https://userbase.kde.org/KDE_Wallet_Manager) - Password Managing Software
+* [Password Safe](https://www.pwsafe.org/) or [KDE Wallet Manager](https://userbase.kde.org/KDE_Wallet_Manager) - Password-Managing Software
 * [Passbolt](https://www.passbolt.com/) or [PSONO](https://psono.com/) - Self-Hosted Password Manager
 * [Pashword](https://pashword.app/)
 * [LessPass](https://lesspass.com/)
@@ -67,7 +67,7 @@
 * [KeeWeb](https://keeweb.info/) / [GitHub](https://github.com/keeweb/keeweb)
 * [Proton Pass](https://proton.me/pass)
 * [Spectre](https://spectre.app/)
-* [VaultWarden](https://github.com/dani-garcia/vaultwarden) - Self-hosted
+* [VaultWarden](https://github.com/dani-garcia/vaultwarden) - Self-Hosted
 
 ***
 
@@ -195,7 +195,7 @@
 * [Wiby](https://wiby.org/), [2](https://wiby.me/) - Search Engine for Lightweight Web Pages
 * [Search My Site](https://searchmysite.net/) - Search Engine for Independent and Personal websites / Open Source
 * [Intelligence X](https://intelx.io/tools) or [Aware-Online](https://www.aware-online.com/en/osint-tools/) - Multiple Search Tools 
-* [Marginalia Search](https://search.marginalia.nu/) - Text Based Search Engine
+* [Marginalia Search](https://search.marginalia.nu/) - Text-Based Search Engine
 * [TheOldNet](https://theoldnet.com/) - Retro Search Engine
 * [LumenDatabase](https://lumendatabase.org/) - Search DMCA Takedown Requests
 * [Refseek](https://www.refseek.com/) - Academic Search Engine 
@@ -287,7 +287,7 @@
 * [SpyOffers](https://www.spyoffers.com/) - Affiliate Link Checker
 * [Link-Lock](https://rekulous.github.io/link-lock/) - Encrypt & Decrypt Links with Passwords
 * [dcrypt.it](https://dcrypt.it/) - Decrypt Link Containers
-* [Linkify Plus Plus](https://greasyfork.org/scripts/4255) - [Core](https://github.com/eight04/linkify-plus-plus-core) / Turn Plain txt URL's into Links
+* [Linkify Plus Plus](https://greasyfork.org/scripts/4255) - [Core](https://github.com/eight04/linkify-plus-plus-core) / Turn Plain txt URLs into Links
 * [Perma](https://perma.cc/) - Permanent URLs 
 * [Temporary-Url](https://www.temporary-url.com/) - Temporary URLs / QR Codes 
 * [scrt.link](https://scrt.link/) - Single Use Links
@@ -304,7 +304,7 @@
 * [pyfuzz](https://github.com/AyoobAli/pyfuzz) - URL Fuzzing Tool 
 * [Backlink Tool](https://backlinktool.io/) or [Index Kings](http://www.indexkings.com/) - URL Indexer 
 * [Blocked](https://www.blocked.org.uk/) - UK ISP Site Blocking Test
-* [loooo...ng](https://loooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo.ng/) - Make URL's Longer
+* [loooo...ng](https://loooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo.ng/) - Make URLs Longer
 
 ***
 
@@ -320,7 +320,7 @@
 * [Atlus](https://github.com/amanharwara/altus) or [WAO](https://dedg3.com/wao/) - Whatsapp Clients
 * [Skype Exports for Humans](https://becausecurious.me/skype_exports_for_humans) - Export Skype Chat Data to Readable Text
 * [TikTok Chat Reader](https://tiktok-chat-reader.zerody.one/) - Live TikTok Chat Reader
-* [Urlebird](https://urlebird.com/) - 3rd Party TikTok with better UI
+* [Urlebird](https://urlebird.com/) - Third-Party TikTok with better UI
 * [Jam](https://jam.systems/), [TeaSpeak](https://teaspeak.de/gb/), [TeamSpeak](https://www.teamspeak.com/) / [Warning](https://pastebin.com/479TbKq5), [Mumble](https://www.mumble.info/), [Zoiper](https://www.zoiper.com/) or [Google Voice](https://voice.google.com/) - Voice Chat 
 * [IMumble](https://www.imumble.nl/) or [Guildbit](https://guildbit.com/) - Voice Chat Servers
 * [DJ3D](https://dj3d.io/), [Gather](https://gather.town/) - Virtual World Server
@@ -353,7 +353,7 @@
 * [BeFree](https://beefree.io/templates/free/) or [Briskine](https://www.briskine.com/) - Email Templates
 * [Boomerang](https://www.boomeranggmail.com/), [NudgeMail](https://nudgemail.com/) or [FollowupThen](https://www.followupthen.com/) - Scheduled Email Sending & Reminders 
 * [Email Tracker](https://snov.io/email-tracker), [GetNotify](https://www.getnotify.com/) or [Mailtrack](https://mailtrack.io/) - Email Engagement 
-* [UnsubScan](https://github.com/LGUG2Z/unsubscan) - Easily Unsubscribe from Emails
+* [UnsubScan](https://github.com/LGUG2Z/unsubscan) - Unsubscribe from Emails
 * [Epieos](https://epieos.com/) - Retrieve Info Linked to Email Address
 * [zMail](https://zmail.sourceforge.net/) or [Emkei's Fake Mailer](https://emkei.cz/) - Send Fake Emails
 * [MailBait](https://mailbait.info/) - Fill Inbox with Mail 
@@ -364,16 +364,16 @@
 * [Docker Mailserver](https://docker-mailserver.github.io/docker-mailserver/edge/) or [Mail-in a Box](https://mailinabox.email/) - Self-Hosted Email Servers
 * [Gmail Desktop](https://github.com/timche/gmail-desktop) - Gmail Desktop Client
 * [Got Your Back](https://github.com/GAM-team/got-your-back) - Backup Gmail Messages
-* [ExtractMailAddress](https://extractemailaddress.com/) - Extract Email's, URLs and Numbers from Text
+* [ExtractMailAddress](https://extractemailaddress.com/) - Extract Emails, URLs and Numbers from Text
 * [Hunter.io](https://hunter.io/) - Business Email Address Search
 
 ***
 
 ## ▷ RSS Tools
 
-* ⭐  **[All about RSS](https://github.com/AboutRSS/ALL-about-RSS)**, [RSSTango](https://rentry.org/rrstango), [To RSS](https://www.to-rss.xyz/), [Awesome RSS Feeds](https://github.com/plenaryapp/awesome-rss-feeds) or [RSS](https://gist.github.com/thefranke/63853a6f8c499dc97bc17838f6cedcc2) - RSS Feeds / Tools
+* ⭐ **[All about RSS](https://github.com/AboutRSS/ALL-about-RSS)**, [RSSTango](https://rentry.org/rrstango), [To RSS](https://www.to-rss.xyz/), [Awesome RSS Feeds](https://github.com/plenaryapp/awesome-rss-feeds) or [RSS](https://gist.github.com/thefranke/63853a6f8c499dc97bc17838f6cedcc2) - RSS Feeds / Tools
 * ⭐ **[Feedly](https://feedly.com/)** - Feed Reader
-* ⭐ **[Feedless](https://feedless.org/)**, [MoRSS](https://morss.it/), [RSSHub](https://github.com/DIYgod/RSSHub), [Open RSS](https://openrss.org/), [rsspls](https://github.com/wezm/rsspls), [FetchRSS](https://fetchrss.com/),  [Politepol](https://politepol.com/en/), [Janicek](https://feed.janicek.co/) or [FiveFilters](https://createfeed.fivefilters.org/) - RSS Feed Generators
+* ⭐ **[Feedless](https://feedless.org/)**, [MoRSS](https://morss.it/), [RSSHub](https://github.com/DIYgod/RSSHub), [Open RSS](https://openrss.org/), [rsspls](https://github.com/wezm/rsspls), [FetchRSS](https://fetchrss.com/), [Politepol](https://politepol.com/en/), [Janicek](https://feed.janicek.co/) or [FiveFilters](https://createfeed.fivefilters.org/) - RSS Feed Generators
 * ⭐ **[RSS Bridge](https://github.com/RSS-Bridge/rss-bridge)** - RSS Feed for Sites Missing It
 * [TheFeedReaderBot](https://thefeedreaderbot.com/) or [NewsBoat](https://newsboat.org/) - Console RSS Readers
 * [WebFeed](https://taoshu.in/webfeed/turn-browser-into-feed-reader.html) or [tt-rss](https://tt-rss.org/) - Web RSS Readers
@@ -411,7 +411,7 @@
 * [VsyncTester](https://vsynctester.com/) - Browser VSYNC Test
 * [NeverInstall](https://neverinstall.com/) - Use Apps in Browser
 * [QuteBrowser](https://qutebrowser.org/) - Keyboard Focused Browser 
-* [Browsh](https://www.brow.sh/) - Text Based Browser
+* [Browsh](https://www.brow.sh/) - Text-Based Browser
 * [MinBrowser](https://minbrowser.org/) - Minimalist Browser
 * [Vieb](https://vieb.dev/) - Vim Inspired Browser
 * [woob](https://woob.tech/) - Use Sites Without a Browser
@@ -420,7 +420,7 @@
 * [Gemini Software](https://gemini.circumlunar.space/software/) - Tools & Software for Gemini
 * [Gemini Portal](https://portal.mozz.us/gemini/gemini.circumlunar.space/), [2](https://yesterweb.org/gemini) - Gemini to https Web Proxy Service
 * [StockBrowser](https://stackbrowser.com/), [Rambox](https://rambox.app/), [Kera](https://desktop.kerahq.com/) or [Tangram](https://github.com/sonnyp/Tangram) - Web App Browsers
-* [n.eko](https://neko.m1k1o.net) / [Github](https://github.com/m1k1o/neko) - Self-Hosted Virtual Browser
+* [n.eko](https://neko.m1k1o.net) / [GitHub](https://github.com/m1k1o/neko) - Self-Hosted Virtual Browser
 * [Chrome Theme Studio](https://chrometheme.studio/) - Create Chrome Theme
 * [Betterfox](https://github.com/yokoffing/Betterfox) - Firefox user.js Tweaks
 * [Firemin](https://www.rizonesoft.com/downloads/firemin/) or `about:memory` - Reduce Firefox Memory Usage
@@ -433,7 +433,7 @@
 * [ThemeBeta](https://www.themebeta.com/) - Change Chrome Theme
 * [BrowserParrot](https://www.browserparrot.com/) - Browser History Search Engine
 * [Hurl](https://github.com/U-C-S/Hurl) - Select Browser on URL Clicks
-* [Edge-Remover](https://rentry.co/uninstall_edge) - Microsof1t Edge Removal Script
+* [Edge-Remover](https://rentry.co/uninstall_edge) - Microsoft Edge Removal Script
 * [NoMoreEdge](https://github.com/KodeByWrath/NoMoreEdge), [Edge_Removal.bat](https://github.com/AveYo/fox/blob/main/Edge_Removal.bat) or [MSEdgeRedirect](https://github.com/rcmaehl/MSEdgeRedirect) - Redirect Microsoft Edge
 * [Floccus](https://floccus.org/) - Browser Bookmark Sync / [GitHub](https://github.com/floccusaddon/floccus)
 * [WhatIsMyBrowser](https://developers.whatismybrowser.com/) - User Agent Archive
@@ -518,12 +518,12 @@
 * [CopyFish](https://ocr.space/copyfish) or [Image Reader](https://mybrowseraddon.com/image-reader.html) - Grab Text from Images 
 * [Text to Image](https://mybrowseraddon.com/text-to-image.html) - Format & Save Text as a Image
 * [Talkie](https://joelpurra.com/projects/talkie/) or [Offline Text to Speech](https://virejdasani.github.io/OfflineTextToSpeech-Extension/) - Text to Speech
-* [Text Link](https://piro.sakura.ne.jp/xul/textlink/index.html.en) - Make Non-Hyperlinked URL's Clickable 
+* [Text Link](https://piro.sakura.ne.jp/xul/textlink/index.html.en) - Make Non-Hyperlinked URLs Clickable 
 * [Link Alert](https://www.cwesson.net/projects/LinkAlert/) - Link Type Indicator 
 * [Mitaka](https://github.com/ninoseki/mitaka) - Domain Info Lookup Tool
 * [I still don't care about cookies](https://github.com/OhMyGuus/I-Still-Dont-Care-About-Cookies), [Cookie-AutoDelete](https://github.com/Cookie-AutoDelete/Cookie-AutoDelete) or [Consentomatic](https://consentomatic.au.dk/) - Auto Delete Cookies
 * [Cookie Quick Manager](https://github.com/ysard/cookie-quick-manager), [EditThisCookie](https://www.editthiscookie.com/) or [Cookie-Editor](https://cookie-editor.cgagnier.ca/) - Cookies Managers
-* [Get-cookies.txt](https://github.com/kairi003/Get-cookies.txt-LOCALLY) or [ExportCookies](https://github.com/rotemdan/ExportCookies) - Cookies Exporter
+* [Get-cookies.txt](https://github.com/kairi003/Get-cookies.txt-LOCALLY) or [ExportCookies](https://github.com/rotemdan/ExportCookies) - Cookies Exporters
 * [Google Unblocked](https://github.com/Ibit-to/google-unlocked) - Uncensored Google Search
 * [Google search link fix](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_google_search_link_fix) - Prevent Search Pages from Modifying Result Links 
 * [Restore Classic Google Icons](https://pastebin.com/7iU4Qidx)
@@ -556,7 +556,7 @@
 * [ViewImage](https://github.com/bijij/ViewImage) - Adds Back "View Image" Button to Google Image Search
 * [GoFullPage](https://gofullpage.com/), [Easy Screenshot](https://webextension.org/listing/screenshot.html) or [FireShot](https://addons.mozilla.org/en-GB/firefox/addon/fireshot/) - Full Page Screenshots
 * [NooBox](https://github.com/AInoob/NooBox) - Reverse Image Search, Extract Images, Screenshot & Search 
-* [Bulk URL Opener](https://bulkurlopener.com/) or [Open-Multiple-URLs](https://github.com/htrinter/Open-Multiple-URLs/) - Open Multiple URL's in One Click 
+* [Bulk URL Opener](https://bulkurlopener.com/) or [Open-Multiple-URLs](https://github.com/htrinter/Open-Multiple-URLs/) - Open Multiple URLs in One Click 
 * [PronounDB](https://pronoundb.org/) - Pronoun Addon
 * [XKit](https://github.com/new-xkit/XKit) - Make Tumblr More Usable
 * [Tab Session Manager](https://tab-session-manager.sienori.com/), [Sessionic](https://github.com/navorite/sessionic) or [Session Buddy](https://sessionbuddy.com/) - Session Managers 
@@ -582,20 +582,20 @@
 * [New Tab Override](https://www.soeren-hentzschel.at/firefox-webextensions/new-tab-override/) - Pick Site that Opens in New Tabs 
 * [Keep or Delete Bookmarks](https://www.soeren-hentzschel.at/firefox-webextensions/keep-or-delete-bookmarks/) - Keep Bookmark Folder Clean 
 * [Default Bookmark Folder](https://github.com/teddy-gustiaux/default-bookmark-folder) - Change Default Bookmark Folder
-* [Multi Tabs](https://addons.mozilla.org/en-US/firefox/addon/search-multi-tabs/) - Multi Tab Word Search Search 
+* [Multi Tabs](https://addons.mozilla.org/en-US/firefox/addon/search-multi-tabs/) - Multi Tab Word Search 
 * [Search Site WE](https://addons.mozilla.org/en-US/firefox/addon/search-site-we/) - Search Current Domain 
 * [Firefox Color](https://color.firefox.com/) or [SwiftTheme](https://addons.mozilla.org/en-US/firefox/addon/swifttheme/) - Custom Firefox Theme Creation
 * [OnelineProton](https://github.com/newmanls/OnelineProton) - Proton Theme for Firefox
 * [Dark Background for Firefox New Tabs](https://fedidat.com/640-dark-newtab-firefox/)
 [FoxyGestures](https://github.com/marklieberman/foxygestures), [Simple Gesture](https://github.com/utubo/firefox-simple_gesture) or [Gesturefy](https://github.com/Robbendebiene/Gesturefy) - Mouse Gestures
 * [Happy Right-Click](https://addons.mozilla.org/en-US/firefox/addon/%E5%BF%AB%E4%B9%90%E5%8F%B3%E9%94%AE/) - Force Enable Right Click
-* [Linkificator](https://addons.mozilla.org/en-US/firefox/addon/linkificator/) - Make Non-Hyperlinked URL's Clickable
+* [Linkificator](https://addons.mozilla.org/en-US/firefox/addon/linkificator/) - Make Non-Hyperlinked URLs Clickable
 * [Firefox Translations](https://addons.mozilla.org/en-US/firefox/addon/firefox-translations/) - Translator
 * [hide-scrollbars](https://github.com/quinton-ashley/firefox-hide-scrollbars) - Hide Browser Scrollbar
 * [AutoPagerize Advanced](https://addons.mozilla.org/en-US/firefox/addon/autopagerizeadvanced/) - Merge Multiple Pages
 * [Profile Switcher](https://github.com/null-dev/firefox-profile-switcher) - Profile Manager
 * [Consent-O-Matic](https://github.com/cavi-au/Consent-O-Matic) - Non-Avast Fork / Block Cookie Consent Popups
-* [SoundFixer](https://github.com/valpackett/soundfixer) - Fixes Audio Playing in 1 Channel
+* [SoundFixer](https://github.com/valpackett/soundfixer) - Fixes Audio Playing in one Channel
 * [Volume Control Tabs](https://github.com/vzze/volume-control) - Control Individual Tab Volume
 * [Mute Sites By Default](https://github.com/abba23/mute-sites-by-default) - Mute All Sites by Default 
 * [Read Aloud](https://readaloud.app/) - Text to Speech
@@ -639,7 +639,6 @@
 * [Text Blaze](https://blaze.today/) - Create Text Snippets
 * [Blackbox](https://chromewebstore.google.com/detail/blackbox-select-copy-past/mcgbeeipkmelnpldkobichboakdfaeon) - Copy Text from Videos and Images
 * [Copy Text Easily](https://chromewebstore.google.com/detail/copy-text-easily/fagmaopcbeobbfhkeodicjekiniefdlo) - Simple Text Copy
-* [Email Extractor](https://chromewebstore.google.com/detail/email-extractor/jdianbbpnakhcmfkcckaboohfgnngfccen) - Extract Email ID's from Webpages
 * [Simple Mass Downloader](https://chromewebstore.google.com/detail/simple-mass-downloader/abdkkegmcbiomijcbdaodaflgehfffed) - Download Multiple Links at Once
 * [Download Sorter](https://chromewebstore.google.com/detail/download-sorter/mebfblkahpknogabckmdjcmjbnpfdpcj) - Sort Downloads into Folders
 * [Hover](https://chromewebstore.google.com/detail/hover/eiiibfemcfcehadokcldlcdljfdlmolj) - Link Previews
@@ -652,10 +651,9 @@
 * [Night Shift Redux](https://nightshift.lu/) - Adapts Display Color to Time of Day
 * [SmoothKeyScroll](https://www.smoothkeyscroll.com/) - Smooth Key Scrolling
 * [NudgeWare](https://nudgeware.io/), [Minto](https://chromewebstore.google.com/detail/minto/hcgkjlalkeaekjkelpilagbjcengeebl), [GoGo Productivity](https://chromewebstore.google.com/detail/gogo-productivity/mgefagaoblmbfcjoaiibbmobmkgoljia), [UnDistracted](https://www.undistracted.app/) or [HabitLab](https://habitlab.github.io/) - Productivity Managers / Site Blockers
-* [Web Activity Time Tracker](https://chromewebstore.google.com/detail/web-activity-time-tracker/hhfnghjdeddcfegfekjeihfmbjenlommen) - Track Browser Activity
 * [Simple Todo](https://chromewebstore.google.com/detail/simple-todo/kobeijgkgkcgknodjkganceliljepmjf) or [Todoist](https://chromewebstore.google.com/detail/todoist-for-chrome/jldhpllghnbhlbpcmnajkpdmadaolakhen) - To-Do List
 * [Blueticks](https://chromewebstore.google.com/detail/blueticks/adgnjhngogijkkppficiiepmjebijinl) - WhatsApp Scheduler
-* [Beanote](https://chromewebstore.google.com/detail/beanote-note-taking-on-we/nikccehomlnjkmgmhnieecolhgdafajb) or [Page Pad](https://chromewebstore.google.com/detail/page-pad-make-quick-notes/igobdfagkcadgcfooegonbbeeggagakn) - Web Page Note Taking
+* [Beanote](https://chromewebstore.google.com/detail/beanote-note-taking-on-we/nikccehomlnjkmgmhnieecolhgdafajb) or [Page Pad](https://chromewebstore.google.com/detail/page-pad-make-quick-notes/igobdfagkcadgcfooegonbbeeggagakn) - Web Page Note-Taking
 * [ProjectNaptha](https://chromewebstore.google.com/detail/project-naptha/molncoemjfmpgdkbdlbjmhlcgniigdnf) - Manipulate Browser Image Text
 * [Text to Image](https://chromewebstore.google.com/detail/text-to-image/nkljaohokglebeljcgchmehnhdieakda) - Text to Image
 * [A+ Font Size Changer](https://chromewebstore.google.com/detail/a%20-fontsize-changer-lite/ckihgechpahhpompcinglebkgcdgpkil) - Change Browser Font Size & Color
@@ -703,9 +701,9 @@
 
 ## ▷ Safari Extensions
 
-* [‎Momentum](https://apps.apple.com/us/app/momentum/id1564329434) - Custom New Tab Page
+* [Momentum](https://apps.apple.com/us/app/momentum/id1564329434) - Custom New Tab Page
 * [NightLight](https://apps.apple.com/us/app/nightlight-for-safari/id1429386865?mt=12), [Night Eye](https://apps.apple.com/us/app/night-eye-for-safari/id1450504903?mt=12), [Dark Reader Script](https://gist.github.com/kfur/266c456dd69072eb7533f457ee5f18a0) - Dark Mode
-* [‎StartPage.ai](https://apps.apple.com/us/app/startpage-ai/id1584727895) - Tab Manager
+* [StartPage.ai](https://apps.apple.com/us/app/startpage-ai/id1584727895) - Tab Manager
 * [Amerigo](https://apps.apple.com/us/app/amerigo-file-manager/id605569663) - File Download Manager
 * [PiPifier](https://apps.apple.com/us/app/pipifier/id1234771095) - Picture in Picture Mode
 * [Web Inspector](https://apps.apple.com/us/app/web-inspector/id1584825745) - Inspect Element Tools for Safari
@@ -744,6 +742,6 @@
 * [Endless Google](https://openuserjs.org/scripts/tumpio/Endless_Google) - Google Search Endless Scrolling 
 * [Extra Search Buttons](https://greasyfork.org/en/scripts/7543-google-search-extra-buttons) - Extra Google Search Buttons
 * [Google Bangs](https://greasyfork.org/en/scripts/424160) - DDG !bangs in Google
-* [Pagetual](https://hoothin.github.io/PagetualGuide/en/) - Merges a Sites "Next" Pages
+* [Pagetual](https://hoothin.github.io/PagetualGuide/en/) - Merge Sites "Next" Pages
 * [Mouseover Popup Image Viewer](https://greasyfork.org/en/scripts/394820-mouseover-popup-image-viewer) - Shows Images & Videos Behind Links & Thumbnails
 * [DisableAMP](https://github.com/AdguardTeam/DisableAMP) - Disable Google AMP Links

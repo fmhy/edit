@@ -49,17 +49,17 @@
 * [ChatRWKV](https://huggingface.co/spaces/BlinkDL/ChatRWKV-gradio) - RWKV Based Chatbot / [Discord](https://discord.com/invite/bDSBUMeFpc)
 * [GlobalGPT](https://www.globalgpt.nspiketech.com/#/) - Modularized Chatbot
 * [LLaVA](https://llava.hliu.cc/) - Chatbot with Image Support / [GitHub](https://github.com/haotian-liu/LLaVA)
-* [StableLM](https://colab.research.google.com/github/Stability-AI/StableLM/blob/main/notebooks/stablelm-alpha.ipynb) - StabilityAI's Chatbot / [Github](https://github.com/stability-AI/stableLM/)
+* [StableLM](https://colab.research.google.com/github/Stability-AI/StableLM/blob/main/notebooks/stablelm-alpha.ipynb) - StabilityAI's Chatbot / [GitHub](https://github.com/stability-AI/stableLM/)
 * [Open Assistant](https://open-assistant.io/) - LAION's Chatbot / [Github](https://github.com/LAION-AI/Open-Assistant) / [Discord](https://discord.com/invite/H769HxZyb5)
-* [OpenChatKit](https://huggingface.co/spaces/togethercomputer/OpenChatKit) - Together's Chatbot / [Github](https://github.com/togethercomputer/OpenChatKit) / [Discord](https://discord.com/invite/9Rk6sSeWEG)
-* [HuggingChat](https://huggingface.co/chat/) - HuggingFace's Chatbot / [Github](https://github.com/huggingface/chat-ui)
+* [OpenChatKit](https://huggingface.co/spaces/togethercomputer/OpenChatKit) - Together's Chatbot / [GitHub](https://github.com/togethercomputer/OpenChatKit) / [Discord](https://discord.com/invite/9Rk6sSeWEG)
+* [HuggingChat](https://huggingface.co/chat/) - HuggingFace's Chatbot / [GitHub](https://github.com/huggingface/chat-ui)
 * [Petals](https://petals.dev/) - Self-Hosted / [GitHub](https://github.com/bigscience-workshop/petals)
 * [Jan.ai](https://jan.ai/) - Self-Hosted / [GitHub](https://github.com/janhq/jan) / [Discord](https://discord.gg/5rQ2zTv3be)
-* [FreedomGPT](https://freedomgpt.com/) - Alpaca Based Chatbot / [Github](https://github.com/ohmplatform/FreedomGPT/) / [Discord](https://discord.com/invite/h77wvJS4ga)
+* [FreedomGPT](https://freedomgpt.com/) - Alpaca-Based Chatbot / [GitHub](https://github.com/ohmplatform/FreedomGPT/) / [Discord](https://discord.com/invite/h77wvJS4ga)
 * [Ollama](https://ollama.ai/) / [Discord](https://discord.gg/ollama) - Run LLMs
 * [LlamaFile](https://github.com/Mozilla-Ocho/llamafile) - Run LLMs w/ Single File
 * [LlamaChat](https://www.llamachat.app/) - Mac Llama AI
-* [DiffusionBee](https://diffusionbee.com/) - Mac Local AI Frontend / [Github](https://github.com/divamgupta/diffusionbee-stable-diffusion-ui) / [Discord](https://discord.com/invite/t6rC5RaJQn)
+* [DiffusionBee](https://diffusionbee.com/) - Mac Local AI Frontend / [GitHub](https://github.com/divamgupta/diffusionbee-stable-diffusion-ui) / [Discord](https://discord.com/invite/t6rC5RaJQn)
 * [Kajiwoto](https://kajiwoto.ai/), [Miku](https://docs.miku.gg/) / [Discord](https://discord.gg/3XPdpUdGgV) or [Agnai](https://agnai.chat/) - AI Builders
 * [Dify](https://dify.ai/) - Create AI Apps
 * [AgentRunner](https://www.agentrunner.ai/) - Create Autonomous AI Agents
@@ -127,7 +127,7 @@
 
 ## ▷ ChatGPT Prompts
 
-* 🌐 **[Awesome ChatGPT Prompts](https://prompts.chat/)**  - Prompt Directory
+* 🌐 **[Awesome ChatGPT Prompts](https://prompts.chat/)** - Prompt Directory
 * 🌐 **[jailbreakchat](https://www.jailbreakchat.com/)** or **[jamessawyer](http://www.jamessawyer.co.uk/pub/gpt_jb.html)** - Jailbreak Prompts
 * ⭐ **[Prompt Engineering Guide](https://www.promptingguide.ai)**, [prompt-engineering](https://platform.openai.com/docs/guides/prompt-engineering), [LearningPrompt](https://learningprompt.wiki/) or [Jailbreaking ChatGPT](https://arxiv.org/pdf/2305.13860) - Prompting Guides
 * ⭐ **[quickref](https://quickref.me/chatgpt)** - Prompt Cheatsheets
@@ -175,9 +175,9 @@
 * [EasyWithAI](https://easywithai.com/) - AI Directory
 * [Toolspedia](https://www.toolspedia.io/) - AI Directory
 * [Hayo](https://www.hayo.com/tools) - AI Directory
-* [iLib](https://www.ilib.com/) -  AI Directory
+* [iLib](https://www.ilib.com/) - AI Directory
 * [WikiGPT3](https://www.wikigpt3.com/) - AI Directory
-* [ArtificialStudio](https://www.artificialstudio.ai/tools) - Browser Based AI
+* [ArtificialStudio](https://www.artificialstudio.ai/tools) - Browser-Based AI
 * [Experiments with Google](https://labs.withgoogle.com/) - AI Experiments
 
 ***
@@ -214,11 +214,11 @@
 
 # ► Image Generation
 
-* **Note** - Because Stable Diffusion works so well most innovation in image generation is happening using it as the base model. As such, almost all sections and links are based on SD, unless stated otherwise.
+* **Note** - Because Stable Diffusion works so well, most innovation in image generation is happening using it as the base model. As such, almost all sections and links are based on SD, unless stated otherwise.
 
 ***
 
-* ⭐ **[Stable Diffusion](https://huggingface.co/spaces/stabilityai/stable-diffusion)** / [Github](https://github.com/Stability-AI/stablediffusion) / [Discord](https://discord.com/invite/stablediffusion)
+* ⭐ **[Stable Diffusion](https://huggingface.co/spaces/stabilityai/stable-diffusion)** / [GitHub](https://github.com/Stability-AI/stablediffusion) / [Discord](https://discord.com/invite/stablediffusion)
 * [Kandinsky2](https://fusionbrain.ai/diffusion) / [Github](https://github.com/ai-forever/ru-dalle) / [Demo](https://rudalle.ru/kandinsky2)
 * [Adobe Firefly](https://firefly.adobe.com/) / [Discord](https://discord.com/invite/dJnsV5s8PZ) / Sign-Up Required
 * [Craiyon](https://www.craiyon.com/) / [Github](https://github.com/borisdayma/dalle-mini) / [Colab](https://colab.research.google.com/github/borisdayma/dalle-mini/blob/main/tools/inference/inference_pipeline.ipynb)

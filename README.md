@@ -6,7 +6,7 @@
 * If you're adding a new site, please [search](https://raw.githubusercontent.com/nbats/FMHYedit/main/single-page) first to make sure we don't already have it.
 * Approved changes will be applied to the [site](https://fmhy.net) and all [🔒 backups](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/backups).
 * You can send us stuff directly via [💬 Discord](https://redd.it/17f8msf).
-* You can also checkout our subreddit, [r/FREEMEDIAHECKYEAH](https://www.reddit.com/r/FREEMEDIAHECKYEAH/) to know about any major updates to the wiki.
+* You can also check out our subreddit, [r/FREEMEDIAHECKYEAH](https://www.reddit.com/r/FREEMEDIAHECKYEAH/) to know about any major updates to the wiki.
 
 ***
 
@@ -15,3 +15,4 @@ Emoji Legend:
 * 🌐 - 3rd Party Indexes
 * ↪️ - Storage Page Links
 * ⭐ - Community Recommendations
+

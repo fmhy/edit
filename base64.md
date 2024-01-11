@@ -1,6 +1,6 @@
 #### How-to Decode Links
 
-Use a **[Base64 Decoder](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25B7_encode_.2F_decode)** or if you're on our site use this [script](https://pastebin.com/mQi74Pzv).
+Use a **[Base64 Decoder](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25B7_encode_.2F_decode)** or if you're on our site, use this [script](https://pastebin.com/mQi74Pzv).
 
 ***
 
@@ -365,7 +365,7 @@ Use a **[Base64 Decoder](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock
 
 *** 
 
-#### Top Linux Interview Q&A'S
+#### Top Linux Interview Q&A's
 
 `aHR0cHM6Ly9tZWdhLm56LyNGIUsxTW5sU3pKIWZ5TGhOQTdWX20xejlKWmZQVzBhbGc=`
 
@@ -580,7 +580,7 @@ Use a **[Base64 Decoder](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock
 
 ***
 
-#### Wordpress Themes
+#### WordPress Themes
 
 `aHR0cHM6Ly9tZWdhLm56L2ZvbGRlci9hSm9ERmFvSSN0dEdRd0cyb3BGOFlVVDZGWWlDSVB3`
 
@@ -862,7 +862,7 @@ Use a **[Base64 Decoder](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock
 
 ***
 
-#### ‎MegaFlix
+#### MegaFlix
 
 `aHR0cHM6Ly9hcHBzLmFwcGxlLmNvbS9hcHAvaWQ2NDczNjAzNzIx`
 
