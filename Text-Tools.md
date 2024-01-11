@@ -113,11 +113,9 @@
 ## ▷ Grammar Check
 
 * ⭐ **[Scribens](https://www.scribens.com/)**
-* [LanguageTool](https://languagetool.org/)
+* [LanguageTool](https://languagetool.org/) - 9997 character limit
 * [Grammarly](https://www.grammarly.com/grammar-check)
-* [Scribbr](https://www.scribbr.com/grammar-checker/)
-* [spellcheckplus](https://spellcheckplus.com/) - 2000 character limit
-* [GrammarCheck](https://www.grammarcheck.net/editor)
+* [Scribbr](https://quillbot.com/grammar-check)
 * [DeepL Write](https://www.deepl.com/write) - 2000 character limit; 3000 if you signup
 
 ***
