@@ -393,7 +393,7 @@
 
 ***
 
-## ▷AI Generated Images
+## ▷ AI Generated Images
 
 * [Made.Porn](https://made.porn/) / [Discord](https://discord.com/invite/TE5eUxU2mz) - AI Generated Images
 * [Dopamine Girl](https://dopaminegirl.com/) - AI Generated Images
