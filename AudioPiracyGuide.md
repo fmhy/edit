@@ -50,12 +50,11 @@
 * [Classical Music Only](https://classicalmusiconly.com/) or [musopen](https://musopen.org/music/) - Classical Music
 * [Bandcamp](https://bandcamp.com/tag/free-music?tab=all_releases) - Free Bandcamp Music 
 * [Audius](https://audius.co/) - User Made Music Platform
-* [AudionautiX](https://audionautix.com/) - Mood Based Streaming
+* [AudionautiX](https://audionautix.com/) - Mood-Based Streaming
 * [MusicDex](https://musicdex.org/) - Anime Soundtracks / [Discord](https://discord.gg/yCXJkbdCHt)
 * [Neko Network](https://live.neko-network.net/) - Anime Music Videos
 * [Musicmap](https://musicmap.info/) - Genealogy / History of Music Genres
 * [Samplette](https://samplette.io/) - Random Songs
-* [The Nostalgia Machine](http://thenostalgiamachine.com/) - Random Songs by Year
 * [Map of Metal](https://mapofmetal.com/) - Interactive Map of Metal History
 * [LostMyspace](http://lostmyspace.com/) - Lost Myspace Songs
 * [Mideastunes](https://mideastunes.com/) - Underground Music
@@ -88,7 +87,7 @@
 * [Podchaser](https://podchaser.com/), [Rephonic](https://rephonic.com/graph) or [Listen Notes](https://www.listennotes.com/) - Podcast Databases / Trackers
 * [iHeartRadio](https://www.iheart.com/), [Mixcloud](https://www.mixcloud.com/), [myTuner](https://mytuner-radio.com/), [TuneIn](https://tunein.com/) or [Zeno](https://zeno.fm/) - Podcasts / Radio
 * [PodParadise](https://www.podparadise.com/), [Podbean](https://www.podbean.com/), [Podbay](https://podbay.fm/), [Google Podcasts](https://podcasts.google.com/), [podcastindex](https://podcastindex.org/), [player.fm](https://player.fm/), [Podcast Republic](https://www.podcastrepublic.net/), [Relay.fm](https://www.relay.fm/) or [BlogTalkRadio](https://www.blogtalkradio.com/popular) - Podcasts
-* [Maps.fm](https://maps.fm/) - Find Podcasts about Anywhere
+* [Maps.fm](https://maps.fm/) - Find Podcasts from Anywhere
 * [podcast-dl](https://github.com/lightpohl/podcast-dl), [PodFetch](https://github.com/SamTV12345/PodFetch) or [PodGrab](https://github.com/akhilrex/podgrab) - Podcast Downloaders
 * [CPod](https://github.com/z-------------/CPod) - Podcast App
 * [Odesli](https://odesli.co/) - Podcast Search
@@ -140,7 +139,7 @@
 * ⭐ **[CityHop](https://www.cityhop.cafe/)** or [Japan Walkaround](https://thatguyedd.github.io/) - Lofi Radio / City Walks
 * ⭐ **[LifeAt](https://lifeat.io/)** - Virtual Study / Work Spaces
 * ⭐ **[Coding Cat](https://hostrider.com/)** - Lofi Radio / Nyan Cat's Cousin
-* ⭐ **[HaloMe.nu](https://halome.nu/)** - Halo Menu Screens
+* ⭐ **[HaloMe](https://halome.nu/)** - Halo Menu Screens
 * [Ambicular](https://ambicular.com/), [DevTunes FM](https://radio.madza.dev/), [Lofi Music](https://lofimusic.app/), [Lofi Player](https://lofi-players.netlify.app/), [Lofi Club](https://loficlub.vercel.app/), [Lofi Limo](https://lofi.limo/) or [Lofi Generator](https://lofigenerator.com/) - Lofi Radio
 * [lofi-player](https://magenta.tensorflow.org/lofi-player), [2](https://magenta.github.io/lofi-player/) - Create Room / Lofi Player
 * [Music For Programming](https://musicforprogramming.net/latest/) or [Wisdom Tree](https://github.com/HACKER097/wisdom-tree/) - Music for Focus
@@ -178,7 +177,7 @@
 * [August Ambiance](https://augustambience.com/) - Ambient Summer Sounds / Relaxation 
 * [ASMRion](https://asmrion.com/), [2](https://defonic.com) - Ambient Noise Generator
 * [NoisyLoop](https://noisyloop.com/) - Ambient Urban Sounds
-* [Coffitivity](https://coffitivity.com/) or [Hipstersound](https://hipstersound.com/) - Ambient Cafe Sounds / Relaxation 
+* [Coffitivity](https://coffitivity.com/) or [Hipstersound](https://hipstersound.com/) - Ambient Café Sounds / Relaxation 
 * [Sound Of Colleagues](https://soundofcolleagues.com/) - Ambient Office Sounds
 * [I Miss My Bar](http://imissmybar.com/) - Ambient Bar Sounds 
 * [HomeSick](https://scoreascore.com/homesick) - Ambient Home Sounds
@@ -213,7 +212,7 @@
 * [YADG](https://yadg.cc/) - Scrape Music Release Date Info / [API](https://yadg.cc/api/)
 * [Sharky's EAC Guide](https://docs.google.com/document/d/1b1JJsuZj2TdiXs--XDvuKdhFUdKCdB_1qrmOMGkyveg) - CD Audio Ripping Guide
 * [Exact Audio Copy](https://www.exactaudiocopy.de/) or [Whipper](https://github.com/whipper-team/whipper) - CD / DVD Audio Ripper
-* [AccurateRip](http://www.accuraterip.com/) - Verify Ripped Tracks are Error Free
+* [AccurateRip](http://www.accuraterip.com/) - Verify Ripped Tracks are Error-Free
 
 ***
 
@@ -453,7 +452,7 @@
 * [VGMRadio](https://vgmradio.com/) - Game Music Radio
 * [VGM](https://vgm.mmosvc.com/) - Game Music Radio
 * [VGMStream](https://vgmstream.org/) - Stream Local Video Game Audio Files
-* [mood.gg](https://mood.gg/) - League of Legends Character Based Playlists
+* [mood.gg](https://mood.gg/) - League of Legends Character-Based Playlists
 * [NSF j](https://nsf.nesbbs.com/) - NES Game Music
 * [Exotica](https://www.exotica.org.uk/) - Retro Gaming Music Wiki
 * [VGMdb](https://vgmdb.net/) - Video Game Music Database
@@ -553,8 +552,8 @@
 * ⭐ **[AIMP](https://www.aimp.ru/)**
 * ⭐ **[VOX Music Player](https://vox.rocks/windows-music-player)**
 * ⭐ **[MusicBee](https://getmusicbee.com/)**
-* [TimeStetch](https://29a.ch/timestretch/) - Web Baseed
-* [MusikCube](https://musikcube.com/) - Terminal Based
+* [TimeStetch](https://29a.ch/timestretch/) - Web Based
+* [MusikCube](https://musikcube.com/) - Terminal-Based
 * [Auddly](https://auddly.app/) or [Music Player Daemon](https://www.musicpd.org/) - Self-Hosted
 * [XMPlay](https://www.un4seen.com/) - Chiptune-Friendly
 * [Butterchurn Visualizer](https://butterchurnviz.com/), [MusicVid](https://musicvid.org/), [Vizzy](https://vizzy.io/) or [CatNip](https://github.com/noriah/catnip) - Audio Visualizers
@@ -616,7 +615,7 @@
 
 * ⭐ **[dumb](https://github.com/rramiachraf/dumb)** - Genius Lyrics Frontend
 * [AZLyrics](https://www.azlyrics.com/), [FindMusicByLyrics](https://findmusicbylyrics.com/) or [Lyrics.com](https://www.lyrics.com/) - Lyric Search
-* [Versefy](https://versefy.app/) or [Lyrics-In-Terminal](https://github.com/Jugran/lyrics-in-terminal) - Lyrics Finder for Spotify / Tidal / VLC
+* [Versefy](https://versefy.app/) or [Lyrics-In-Terminal](https://github.com/Jugran/lyrics-in-terminal) - Lyric Finder for Spotify / Tidal / VLC
 * [Lyrist](https://lyrist.app) - Write Lyrics w/ Beats
 
 ***
@@ -683,8 +682,8 @@
 * [BeatMachine](https://beatmachine.branchpanic.me/) or [SongSurgeon](https://songsurgeon.com/engine/ssweb/) - Audio Tempo Editors
 * [Audovia Music](https://audovia.co.uk/) - Classical Music Creator
 * [danielx](https://danielx.net/composer/) or [AMS](https://flyx.org/ams/) - Mario Paint Audio Composers / [Archive](https://archive.org/details/mariopaintcomposer_201609)
-* [Famistudio](https://bleubleu.itch.io/famistudio) - NES / Famicon Audio Composers
-* [LittleSoundDJ](https://www.littlesounddj.com/lsd/index.php) - Gameboy Audio Editor
+* [Famistudio](https://bleubleu.itch.io/famistudio) - NES / Famicom Audio Composers
+* [LittleSoundDJ](https://www.littlesounddj.com/lsd/index.php) - Game Boy Audio Editor
 * [Open Note Block Studio](https://opennbs.org/) - Minecraft Note Block Song Editor
 * [Viano](https://github.com/isaaclyman/Viano) - Create Songs with Vue
 * [madeon](https://adventuremachine.4thfloorcreative.co.uk/) - Create Music with Madeon Samples
@@ -743,8 +742,8 @@
 ## ▷ SFX / Loops
 
 * [EXP Soundboard](https://sourceforge.net/projects/expsoundboard/), [Soundux](https://soundux.rocks/) or [Resanance](https://resanance.com/) - Soundboard Programs
-* [MyInstants](https://www.myinstants.com/index/us/), [Thirtydollar.website](https://thirtydollar.website/), [InternetsFun](https://instantsfun.es/), [101soundboards](https://www.101soundboards.com/), [MeowPad](https://meowpad.me/) or [Soundboard.com](https://www.soundboard.com/) - Online Soundboards
-* [SampleBrain](https://gitlab.com/then-try-this/samplebrain), [rFXGen](https://raylibtech.itch.io/rfxgen), [Bfxr](https://iznaut.itch.io/bfxr), [ChipTone](https://sfbgames.itch.io/chiptone) or [SFXR](https://sfxr.me/) - Sounds Effect Creators
+* [MyInstants](https://www.myinstants.com/index/us/), [Thirtydollar](https://thirtydollar.website/), [InternetsFun](https://instantsfun.es/), [101soundboards](https://www.101soundboards.com/), [MeowPad](https://meowpad.me/) or [Soundboard.com](https://www.soundboard.com/) - Online Soundboards
+* [SampleBrain](https://gitlab.com/then-try-this/samplebrain), [rFXGen](https://raylibtech.itch.io/rfxgen), [Bfxr](https://iznaut.itch.io/bfxr), [ChipTone](https://sfbgames.itch.io/chiptone) or [SFXR](https://sfxr.me/) - Sound Effect Creators
 * [/r/LoopKits](https://www.reddit.com/r/loopkits/)
 * [Adobe Audition Downloads](https://www.adobe.com/products/audition/offers/audition_dlc.html)
 * [BBC Sound Effects](https://sound-effects.bbcrewind.co.uk/) / [Downloader](https://github.com/FThompson/BBCSoundDownloader)

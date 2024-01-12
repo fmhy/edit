@@ -10,26 +10,26 @@
 > How can I tell if a site or download link is safe? Any tips? 
 Check out the [Booty Guard](https://rentry.org/bootyguard), our basic safety guide. You should also avoid using the sites / software we've listed as unsafe [here](https://fmhy.net/unsafesites). Still feel unsure? Feel free to reach out to us via [Discord](https://discord.gg/5W9QJKuPkD).
 
-> I don't know what seeding or *insert other term* means...
+> I don't know what seeding or *insert another term* means...
 You will find almost all terms related to piracy and more in [The Piracy Glossary](https://rentry.org/the-piracy-glossary). Didn't find what you're looking for or still confused? Reach out to us via [Discord](https://discord.gg/5W9QJKuPkD).
 
 > How can I download Photoshop / Adobe Products for free?
 You can download pre-cracked Adobe products from [M0nkrus](https://w14.monkrus.ws/) by following [this guide](https://rentry.co/adobesoftware). Alternatively, you could patch them yourself by following [these guides](https://www.reddit.com/r/GenP/wiki/index/).
-!!!info M0nkrus is a well trusted and reputable source for Adobe software in the piracy community. 
+!!!info M0nkrus is a well-trusted and reputable source for Adobe software in the piracy community. 
 
 > How can I download / activate Windows or Microsoft Office for free?
 For Windows check out this [section](#windows-piracy), and for Microsoft Office check out this [guide](https://massgrave.dev/office_c2r_links.html).
 
 > Where can I find *insert game title / movie title*?
-You can use [WhereYouWatch](https://whereyouwatch.com) for finding movies, and for new movies it's a good idea to keep an eye on [r/movieleaks](https://reddit.com/r/movieleaks) as well. You should also be able to find most movies you're looking for in the [streaming section](#streaming). For games you can use [Rezi](https://rezi.one) or any other site listed [here](https://fmhy.net/gamingpiracyguide#download-games), and for newly released games check out [r/crackwatch](https://reddit.com/r/crackwatch).
-!!!info Pirated movie releases generally happen after a movie is digitally released or released via Blu-Ray / DVD, which can take 3+ months after initially playing in theaters.
+You can use [WhereYouWatch](https://whereyouwatch.com) for finding movies, and for new movies it's a good idea to keep an eye on [r/movieleaks](https://reddit.com/r/movieleaks) as well. You should also be able to find most movies you're looking for in the [streaming section](#streaming). For games, you can use [Rezi](https://rezi.one) or any other site listed [here](https://fmhy.net/gamingpiracyguide#download-games), and for newly released games check out [r/crackwatch](https://reddit.com/r/crackwatch).
+!!!info Pirated movie releases generally happen after a movie is digitally released or released via Blu-ray / DVD, which can take 3+ months after initially playing in theaters.
 
 !!!warning Please avoid downloading games from The Pirate Bay or any other site listed [here](https://fmhy.net/unsafesites) as they're very likely to contain malicious links.
 
 > How can I unlock *insert random game title* DLCs?
 Use the tools listed [here](https://fmhy.net/gamingpiracyguide#steam-epic) to unlock DLCs.
 
-> Should I install and use *insert random anti-virus software* instead of using Windows Defender?
+> Should I install and use *insert random antivirus software* instead of using Windows Defender?
 No, don't do that. Windows Defender is more than enough to keep you safe, but if you're still set on installing a secondary AV, the only one worth installing is Malwarebytes. Please read the note [here](#anti-virus). 
 !!!warning Stay away from Avast, Norton, and McAfee, as these are "bloatware" and generally unsafe software.
 
@@ -44,7 +44,7 @@ Use [this](https://bitbucket.org/magnolia1234/bypass-paywalls-firefox-clean/src/
 
 **[Windows ISOs](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/system-tools#wiki_.25BA_windows_isos)** - Download Windows
 **[Windows Activation](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/system-tools#wiki_.25B7_windows_activation)** - Activate Windows 
-**[Windows Piracy Guide](https://rentry.org/windows_piracy)** - How-to Pirate windows
+**[Windows Piracy Guide](https://rentry.org/windows_piracy)** - How to Pirate windows
 
 ***
 
@@ -60,7 +60,7 @@ Use [this](https://bitbucket.org/magnolia1234/bypass-paywalls-firefox-clean/src/
 
 ### MacOS Piracy
 
-**[Torrminatorr](https://forum.torrminatorr.com/)** - Download MacOS Games
+**[Torrminatorr](https://forum.torrminatorr.com/)** - Download macOS Games
  
 ***
 
@@ -109,7 +109,7 @@ Use [this](https://bitbucket.org/magnolia1234/bypass-paywalls-firefox-clean/src/
 **[VPN List](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25BA_vpn)** - VPN index
 **[File Encryption Tools](https://fmhy.pages.dev/storage/#file-encryption-tools)** - File encryption apps / tools
 
-!!!note Note that a VPN is not needed outside of torrenting. You can avoid the need for one altogether by sticking to direct download and streaming sites.
+!!!note Note that a VPN is not needed outside torrenting. You can avoid the need for one altogether by sticking to direct download and streaming sites.
 
 ***
 
