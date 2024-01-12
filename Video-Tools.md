@@ -17,8 +17,8 @@
 * [SimSwap](https://github.com/neuralchen/SimSwap) or [Roop](https://github.com/s0md3v/roop) - Video Face Swap Tools
 * [deepware](https://scanner.deepware.ai/) - Detect Deepfake Videos
 * [ImgBurn](https://www.majorgeeks.com/files/details/imgburn.html), [DVDStyler](https://www.dvdstyler.org/en/), [DeepBurner](https://www.deepburner.com/) or [Alcohol Soft](https://www.alcohol-soft.com/) - CD / DVD Burning
-* [MakeMKV](https://www.makemkv.com/) - Create MKV From Blu-Ray / DVD
-* [VidCoder](https://vidcoder.net/) or [DVDDecrypter](http://dvddecrypter.org.uk/) - DVD / Blu-Ray Ripping
+* [MakeMKV](https://www.makemkv.com/) - Create MKV From Blu-ray / DVD
+* [VidCoder](https://vidcoder.net/) or [DVDDecrypter](http://dvddecrypter.org.uk/) - DVD / Blu-ray Ripping
 * [BatchGuy](https://github.com/yaboy58/BatchGuy) - Blu-Ray Ripping
 * [VHS Decode](https://github.com/oyvindln/vhs-decode) - VHS Decoder
 
@@ -116,7 +116,7 @@
 * [FBX](https://fbx.gg/) - Live Stream Manager
 * [XSplit](https://www.xsplit.com/) - Live Stream Manager
 * [TwitchChat](https://twitchat.fr/) - Live Stream Manager
-* [LiveStreamDVR](https://github.com/MrBrax/LiveStreamDVR) / [Display Chat](https://github.com/MrBrax/twitch-vod-chat)- Live Stream Recorders
+* [LiveStreamDVR](https://github.com/MrBrax/LiveStreamDVR) / [Display Chat](https://github.com/MrBrax/twitch-vod-chat) - Live Stream Recorders
 * [Owncast](https://owncast.online/) or [OpenStreamingPlatform](https://openstreamingplatform.com/) - Self-Hosted Live Streaming 
 * [WDFlat](https://www.wdflat.com/) - Stream Elements
 * [Strem](https://github.com/strem-app/strem) - Stream Automation
@@ -416,7 +416,7 @@
 * [OpenToonz](https://opentoonz.github.io/e/), [Wick Editor](https://www.wickeditor.com/editor/), [Clipnote Studio](https://calcium-chan.itch.io/clipnote) or [Pencil2D](https://www.pencil2d.org/) - Animation Tools
 * [Animaker](https://www.animaker.com/) - Animated Video Creator
 * [cg_tuts](https://t.me/cg_tuts) - CG Tutorials
-* [AMV101](https://www.amv101.com/) - Animated Music Video Making Guides
+* [AMV101](https://www.amv101.com/) - Animated Music Video-Making Guides
 * [MoonRay](https://openmoonray.org/), [Unreal Engine](https://www.unrealengine.com/), [cgsoftbox](https://t.me/cgsoftbox), [SketchUp](https://www.sketchup.com/) or [Twinmotion](https://www.twinmotion.com/en-US) - 3D Creation Tools
 * [Mega Scans](https://quixel.com/megascans) - 3D Scans
 * [Mixer](https://quixel.com/mixer) - 3D Texture Creation Tool
@@ -424,7 +424,7 @@
 * [cgplugdump](https://t.me/cgplugdump) - CG Software Plugins
 * [AnimeEffects](https://github.com/AnimeEffectsDevs/AnimeEffects), [enve](https://maurycyliebner.github.io/), [Expressive](https://www.expressivesuite.com/), [Cavalry](https://cavalry.scenegroup.co/), [TupiTube](https://tupitube.com/) or [Synfig](https://www.synfig.org/) - 2D Animation Tools
 * [ScribbleDiffusion](https://scribblediffusion.com/) - Turn Doodles into Artwork
-* [MonsterMash](https://monstermash.zone/) - Sketch Based Modeling & Animation Tool
+* [MonsterMash](https://monstermash.zone/) - Sketch-Based Modeling & Animation Tool
 * [Storyboarder](https://wonderunit.com/storyboarder/) - Quickly Visualize & Test Animations / [GitHub](https://github.com/wonderunit/storyboarder) 
 * [Stable Diffusion Videos](https://github.com/nateraw/stable-diffusion-videos) - Create Videos using Stable Diffusion
 * [LuxCoreRender](https://luxcorerender.org/) - Rendering Engine

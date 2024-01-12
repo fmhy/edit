@@ -171,7 +171,7 @@
 
 ## ▷ Specialty Streaming
 
-* ↪️ **[How-to Find Rare Movies](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/find-rare-movies)**
+* ↪️ **[How To Find Rare Movies](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/find-rare-movies)**
 * ↪️ **[Documentary Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu#wiki_.25BA_documentaries)**
 * ⭐ **[RareFilmm](https://rarefilmm.com/)** - Rare Movies
 * ⭐ **[JP-Films](https://jp-films.com/)** - Japanese Movies / TV / Select ["Watch Free"](https://i.ibb.co/B6q61nN/237c097d5e66.jpg)
@@ -273,7 +273,7 @@
 * ⭐ **[AniWave](https://aniwave.to/)** or [Anix](https://anix.to/), [2](https://animesuge.to/), [3](https://gogoanimex.to/home), [4](https://zorox.to/) - Sub / Dub / 1080p / [Lite](https://lite.aniwave.to) / [Binge Script](https://greasyfork.org/en/scripts/401339-9anime-bingewatcher) / [Ad Scripts](https://redd.it/c330dx)
 * ⭐ **[KickAssAnime](https://kickassanime.am/)** - Sub / Dub / 1080p / [Mirrors](https://kickassanimes.info/) / [Discord](https://discord.gg/qduzrvTG6p)
 * ⭐ **[AniWatch](https://aniwatch.to/)**, [2](https://4anime.gg/), [3](https://kaido.to/), [4](https://9animetv.to/), [5](https://anicrush.to/) - Sub / Dub / 1080p / [Discord](https://discord.com/invite/RRaf5JkkKu) / [Auto-Focus](https://greasyfork.org/en/scripts/464019) / [Mirrors](https://aniwatch.gg/)
-* ⭐ **[AnimePahe](https://animepahe.com/)** - Sub / 1080p / Mini Encoded Blu-Ray / [Downloader](https://github.com/KevCui/animepahe-dl)
+* ⭐ **[AnimePahe](https://animepahe.com/)** - Sub / 1080p / Mini Encoded Blu-ray / [Downloader](https://github.com/KevCui/animepahe-dl)
 * ⭐ **[AllAnime](https://allanime.to/)** - Sub / Dub / 1080p
 * ⭐ **[Japanese Animated Film Classics](https://animation.filmarchives.jp/index.html)** - Japanese Animated Film Archive
 * ⭐ **[Anime Streaming CSE](https://cse.google.com/cse?cx=006516753008110874046:vzcl7wcfhei)** / [CSE 2](https://cse.google.com/cse?cx=006516753008110874046:mrfarx7-dxu) or [Kuroiru](https://kuroiru.co/) - Multi-Site Anime Search
@@ -435,7 +435,7 @@
 * [BuffStream](https://buffstream.io/) - Sports
 * [SportSala](https://www.sportsala.cc/) or [123Cric](https://123cric.com/) - Sports
 * [Pluto](https://pluto.tv/live-tv), [2](https://app-lgwebos.pluto.tv/live-tv) - TV / Sports
-* [Time4TV](https://time4tv.online/) -  TV / Sports
+* [Time4TV](https://time4tv.online/) - TV / Sports
 * [CXtv](https://www.cxtvlive.com/) - TV / Sports
 * [ProLive](https://prolive.tv/) - TV / Sports
 * [TV247](https://tv247.us/) - TV / Sports
@@ -536,7 +536,7 @@
 * [smart-tv-telegram](https://github.com/andrew-ld/smart-tv-telegram) - Stream Media from iOS to Smart TV
 * [Zank Remote](https://apps.apple.com/kr/app/zank-remote-for-android-tv-box/id1567602430?1=en) - Control Android TV via iOS
 * [ChanSort](https://github.com/PredatH0r/ChanSort) - TV Channel List Editor for Samsung, LG etc.
-* [Blackb0x](https://github.com/NSSpiral/Blackb0x) - Apple TV Jailbreaking
+* [Blackb0x](https://github.com/NSSpiral/Blackb0x) - Apple TV Jailbreak
 
 ***
 
@@ -594,7 +594,7 @@
 * [SeriezLoaded NG](https://www.seriezloaded.com.ng/) - Movies / TV / 1080p
 * [ShareMania](https://sharemania.us/) - Movies / TV / 4K
 * [GdriveMovies](https://gdrivemovies.xyz/) - Movies / 4K / [Telegram](https://t.me/+VJeqrXLHsHsg8JzI)
-* [Google Drive Movies](https://databasegdriveplayer.co/movie.php), [TV](https://databasegdriveplayer.co/series.php), [Anime](https://databasegdriveplayer.co/anime.php), [KDrama](https://databasegdriveplayer.co/drama.php) -  Movies / TV / Anime / 720p
+* [Google Drive Movies](https://databasegdriveplayer.co/movie.php), [TV](https://databasegdriveplayer.co/series.php), [Anime](https://databasegdriveplayer.co/anime.php), [KDrama](https://databasegdriveplayer.co/drama.php) - Movies / TV / Anime / 720p
 * [ShareBB](https://sharebb.me/) - Movies / TV / 1080p
 * [TwitchDL](https://dl2.twitchdl.us/) - Movies / TV / Anime / 1080p
 * [Privatemoviez](https://privatemoviez.quest/) - Movies / TV / 1080p / [Telegram](https://t.me/PMZOfficial)
@@ -635,7 +635,7 @@
 * [r/moviegod](https://github.com/nbats/FMHYedit/blob/main/base64.md#rmoviegod) - Movies
 * [iPapkornBot](https://t.me/iPapkornBot) or [ProSearch4Bot](https://t.me/ProSearch4Bot) - Movies
 * [Mobile movies request bot](https://t.me/cc_mmrequestbot) - Movies / 480p
-* [مسلسلات اجنبية‬‎](https://github.com/nbats/FMHYedit/blob/main/base64.md#%D9%85%D8%B3%D9%84%D8%B3%D9%84%D8%A7%D8%AA-%D8%A7%D8%AC%D9%86%D8%A8%D9%8A%D8%A9) - TV
+* [مسلسلات اجنبية‬](https://github.com/nbats/FMHYedit/blob/main/base64.md#%D9%85%D8%B3%D9%84%D8%B3%D9%84%D8%A7%D8%AA-%D8%A7%D8%AC%D9%86%D8%A8%D9%8A%D8%A9) - TV
 * [Remux Collection](https://github.com/nbats/FMHYedit/blob/main/base64.md#17tb-mega-drive) - HD Movies
 * [4K Collection](https://github.com/nbats/FMHYedit/blob/main/base64.md#4k-movie-collection) - HD Movies
 * [Unbeatable Banzuke](https://github.com/nbats/FMHYedit/blob/main/base64.md#unbeatable-banzuke) - Unbeatable Banzuke
@@ -657,7 +657,7 @@
 * ⭐ **[hi10anime](https://hi10anime.com/)** - Sub / [Discord](https://discord.gg/uZ85cbAg4T)
 * ⭐ **[Kayoanime](https://kayoanime.com/)** - Sub / Dub / [Telegram](https://t.me/AnimeKayo)
 * ⭐ **[Anime Download CSE](https://cse.google.com/cse?cx=006516753008110874046:osnah6w0yw8)**
-* ⭐ **[HakuNeko](https://hakuneko.download/) / [Github](https://github.com/manga-download/hakuneko)** or [Senpwai](https://github.com/SenZmaKi/Senpwai) - Anime Download Apps
+* ⭐ **[HakuNeko](https://hakuneko.download/) / [GitHub](https://github.com/manga-download/hakuneko)** or [Senpwai](https://github.com/SenZmaKi/Senpwai) - Anime Download Apps
 * [Anime-Sharing](https://www.anime-sharing.com/) - Sub / Dub / Anime / Manga Download Forum
 * [Anime2Enjoy](https://www.anime2enjoy.com/) - Sub / [Discord](https://discord.gg/PxSmumS)
 * [DameDesuYo](https://damedesuyo.com/) - Sub / [Discord](https://discord.com/invite/zyzT4Sy6yJ)
@@ -819,7 +819,7 @@
 * [rate.house](https://rate.house/) - Media Tracker
 * [FlickChart](https://www.flickchart.com/) - Rank your movies
 * [Box Office Mojo](https://www.boxofficemojo.com/) - Box Office Earnings
-* [Tastoid](https://www.tastoid.com/) - Mood Based Recommendations
+* [Tastoid](https://www.tastoid.com/) - Mood-Based Recommendations
 * [Autum](https://autum.com/) - Movie / TV Recommendations
 * [Suggestream](https://suggestream.com/) - Movies / TV Recommendations 
 * [BestSimilar](https://bestsimilar.com/) - Movie Recommendations
@@ -874,7 +874,7 @@
 * [Internet Movie Cars Database](https://www.imcdb.org/) - Movie Vehicle Database
 * [IMFDB](https://www.imfdb.org/) - Movie Firearms Database / [Discord](https://discord.com/invite/FDHEkQ6szt)
 * [ProductPlacementBlog](https://productplacementblog.com/) - Product Placement Database
-* [Releases.com](https://www.releases.com/) or [DVDReleaseDates](https://www.dvdsreleasedates.com/) - DVD / Blu-Ray Release Dates
+* [Releases.com](https://www.releases.com/) or [DVDReleaseDates](https://www.dvdsreleasedates.com/) - DVD / Blu-ray Release Dates
 * [TVTropes](https://tvtropes.org/) - TV Tropes Wiki
 * [Bechdel Test](https://bechdeltest.com/ ) - Movie Bechdel Test Check
 * [MovieMap](http://www.themoviemap.com/), [Movie-Locations](https://www.movie-locations.com/), [MovieLoci](https://www.movieloci.com/), [AtlasOfWonders](https://www.atlasofwonders.com/), [WhereDidTheyFilmThat](https://www.wheredidtheyfilmthat.co.uk/) - Film Location Maps
@@ -908,8 +908,8 @@
 * [kitsuneko](https://kitsunekko.net/) - Anime Subtitles
 * [DownSub](https://downsub.com/) - Download Subs from Video Sites
 * [Loadtup](https://loadtup.com/), [FrogBase](https://github.com/hayabhay/frogbase) or [Whisper](https://huggingface.co/spaces/BatuhanYilmaz/Whisper-Auto-Subtitled-Video-Generator) - YouTube Video Transcribers
-* [YT Sub Downloader](https://greasyfork.org/en/scripts/5368) or [youtube_subtitle_downloader](https://t.me/youtube_subtitle_downloader_bot) - Download Subs from YouTube Videos
-* [amara](https://amara.org/en/) or [SubtitlesForYoutube](https://github.com/yashagarwal1411/SubtitlesForYoutube) - Add Subs to Youtube Videos / [Edge](https://microsoftedge.microsoft.com/addons/detail/subtitles-for-youtube/gfjcoflghpdkddjnpegonjhnbngeocfi)
+* [YT Sub Downloader](https://greasyfork.org/en/scripts/5368) or [YouTube_subtitle_downloader](https://t.me/youtube_subtitle_downloader_bot) - Download Subs from YouTube Videos
+* [amara](https://amara.org/en/) or [SubtitlesForYoutube](https://github.com/yashagarwal1411/SubtitlesForYoutube) - Add Subs to YouTube Videos / [Edge](https://microsoftedge.microsoft.com/addons/detail/subtitles-for-youtube/gfjcoflghpdkddjnpegonjhnbngeocfi)
 * [YouTube Subtitle Position](https://addons.mozilla.org/en-US/firefox/addon/youtube-subtitle-position/) - Change Position of YouTube Subtitles
 * [LiveTL](https://kentonishi.github.io/LiveTL/) - YouTube Live Stream
 * [YTSubConverter](https://github.com/arcusmaximus/YTSubConverter) - Styled YouTube Subtitles
@@ -928,7 +928,7 @@
 * [subtitle.js](https://github.com/gsantiago/subtitle.js) - Parse and manipulate SRT (SubRip)
 * [TranslatesSubtitles](https://translatesubtitles.com/), [FreeSubtitles](https://freesubtitles.org/) or [SubtitleTranslate](https://github.com/mepeichun/SubtitleTranslate) - Translate Subtitles
 * [Auto Synced & Translated Dubs](https://github.com/ThioJoe/Auto-Synced-Translated-Dubs) - Create Translated Dubs
-* [DualSub](https://github.com/bonigarcia/dualsub) - Bilingual Subtitles Maker
+* [DualSub](https://github.com/bonigarcia/dualsub) - Bilingual Subtitle Maker
 * [asbplayer](https://killergerbah.github.io/asbplayer/) - Subtitle Sentence Mining
 * [SaveSubs](https://www.savesubs.com/) - Extract Subtitles from Online Videos
 * [PlayPhrase](https://github.com/kelciour/playphrase) - Subtitle Phrase Search

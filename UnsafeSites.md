@@ -4,11 +4,11 @@
 
 ### Game Sites
 
-**Note** - Scene groups do not have their own sites, so its best to avoid anything claiming to represent one.
+**Note** - Scene groups do not have their own sites, so it's best to avoid anything claiming to represent one.
 
 * OceanOfGames - Caught with malware multiple times
 * CrackingPatching - Caught with [malware](https://redd.it/qy6z3c)
-* IGG / LoadGames  - Added DRM to uploads, doxxed member
+* IGG / LoadGamesmember
 * AGFY - Malicious redirect ads
 * AimHaven - Malicious redirect ads
 * SteamUnlocked - Malicious redirect ads, slow file host, IGG / nosteam uploads
@@ -38,7 +38,7 @@
 * CracksHash - Caught with [malware](https://redd.it/lklst7)
 * haxNode - Caught with [malware](https://www.virustotal.com/gui/file/e6318aa4432c304b234df65f5d87bf2577b930ed68ac7e68efcb76b465dc0784)
 * IGI30 - Caught with malware
-* MainRepo / MRepo - Caught with [malware](https://rentry.co/zu3i6) / Note the the Magisk Module MRepo is unrelated 
+* MainRepo / MRepo - Caught with [malware](https://rentry.co/zu3i6) / Note that Magisk Module MRepo is unrelated 
 * AppValley / TutuBox / Ignition - History of [ddos attacks](https://github.com/nbats/FMHYedit/pull/307)
 * CNET / Download.com / ZDNET - History of [adware](https://www.reddit.com/r/software/comments/9s7wyb/whats_the_deal_with_sites_like_cnet_softonic_and/e8mtye9/)
 
@@ -49,9 +49,9 @@
 **Note** - Some aggregators search sites like TPB, so it's recommended to avoid using them for software and games.
 
 * Kickass Torrents - Official site is long gone, all that remain are sketchy copycats
-* The Pirate Bay / TPB - Site is no longer moderated, so its very risky for software and games
+* The Pirate Bay / TPB - Site is no longer moderated, so it's very risky for software and games
 * VSTorrent - Caught with [malware](https://redd.it/x66rz2)
-* uTorrent - Considered [adware](https://www.theverge.com/2015/3/6/8161251/utorrents-secret-bitcoin-miner-adware-malware), pre-adware versions exist, but its best to use [open source](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent#wiki_.25BA_torrent_clients) clients
+* uTorrent - Considered [adware](https://www.theverge.com/2015/3/6/8161251/utorrents-secret-bitcoin-miner-adware-malware), pre-adware versions exist, but it's best to use [open source](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent#wiki_.25BA_torrent_clients) clients
 * BitTorrent / BitComet - Adware
 * Frostwire - [Adware](https://www.virustotal.com/gui/file/6a501792717fd86635d80fb258979b823fd53000c6d683904e2fb2407f1706fd)
 * BitLord - Adware
@@ -69,7 +69,7 @@
 * AVG - Owned by Avast
 * Gen Digital / Norton - Owned by Avast
 * Avira - Owned by Gen Digital
-* CCleaner - Owned by Avast, best to use built in win 11 tool or bleachbit
+* CCleaner - Owned by Avast, best to use built-in win 11 tool or bleachbit
 * Private Internet Access / ExpressVPN / ZenMate / CyberGhost - Owned by [malware distributor Kape](https://redd.it/q3lepv)
 * Acord (discord mod) - Has remote eval backdoor
 * BlueKik / Bluecord (chat mods) - History of [spam](https://redd.it/12h2v6n) / [spying](https://rentry.co/tvrnw)
@@ -93,7 +93,7 @@
 
 * Never include a URL, just the name of the site / software, and the reason you feel people should avoid it. 
 
-* Note that our goal is to track things that should be avoided but still get recommended often, such as ThePirateBay.
+* Note that our goal is to track things that should be avoided but still get often recommended, such as ThePirateBay.
 
 *** 
 

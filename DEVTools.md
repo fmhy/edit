@@ -88,7 +88,7 @@
 * [90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps) - Learn DevOps
 * [Learn SQL](https://sqlbolt.com/) - SQL Lessons
 * [SQL PD](https://sqlpd.com/) - SQL Learning Game
-* [PostgreSQL Tutorial](https://www.postgresqltutorial.com/) - PostgresSQL Tutorial
+* [PostgreSQL Tutorial](https://www.postgresqltutorial.com/) - PostgreSQL Tutorial
 * [MySQL Tutorial](https://www.mysqltutorial.org/) - MySQL Tutorial
 * [Hasura](https://hasura.io/learn/) - GraphQL Courses
 * [systemd-by-example](https://systemd-by-example.com/) - Systemd Learning

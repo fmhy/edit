@@ -120,7 +120,7 @@
 ## ▷ Text Rephrasing
 
 * ⭐ **[QuillBot AI](https://quillbot.com/)** - Text Rephrasing
-* ⭐ **QuillBot  Tools** - [Premium Unlock](https://github.com/Raguggg/quillbot-premium-for-free) / [Token](https://pastebin.com/ezkjxWd1) / [Script](https://pastebin.com/Wj3cuKvJ)
+* ⭐ **QuillBot Tools** - [Premium Unlock](https://github.com/Raguggg/quillbot-premium-for-free) / [Token](https://pastebin.com/ezkjxWd1) / [Script](https://pastebin.com/Wj3cuKvJ)
 * ⭐ **[paraphrasetool](https://paraphrasetool.com/)** - Text Rephrasing
 * [Just Not Sorry](https://justnotsorry.com/) - Undermining Word Detection
 * [Rewrite Tool](https://rewritetool.net/) - Text Rephrasing
@@ -202,7 +202,7 @@
 * ⭐ **Microsoft Office Tools** - [Activation](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/system-tools#wiki_.25B7_windows_activation) / [Hot Keys](https://i.ibb.co/0m9t95b/ebacd47bf83b.png) / [File Search](https://sourceforge.net/projects/office-search/)
 * ⭐ **[Kludd](https://kludd.co/)** - Collaborative Editor
 * ⭐ **[AnyType](https://anytype.io/)**
-* [Calculist](https://calculist.io/) - Note Taking for Problem Solving
+* [Calculist](https://calculist.io/) - Note-Taking for Problem-Solving
 * [EncryptPad](https://evpo.net/encryptpad/) - Encrypted Text Editor
 * [Xournal++](https://xournalpp.github.io/) / [GitHub](https://github.com/xournalpp/xournalpp)
 * [Notepads](https://www.notepadsapp.com/)
@@ -278,7 +278,7 @@
 
 ## ▷ Spreadsheet Editors
 
-* [TinySheet](https://tinysheet.com/), [Tree Sheets](https://strlen.com/treesheets/), [Gnumeric](http://www.gnumeric.org/), [Quadratic](https://www.quadratichq.com/) or [EtherCalc](https://ethercalc.net/) - Spreadsheets Editors
+* [TinySheet](https://tinysheet.com/), [Tree Sheets](https://strlen.com/treesheets/), [Gnumeric](http://www.gnumeric.org/), [Quadratic](https://www.quadratichq.com/) or [EtherCalc](https://ethercalc.net/) - Spreadsheet Editors
 * [Baserow](https://gitlab.com/baserow/baserow), [Framacalc](https://framacalc.org/), [NocoDB](https://github.com/nocodb/nocodb) or [AirTable](https://airtable.com/) - Collaborative Spreadsheets
 * [Jamovi](https://www.jamovi.org/) - Statistical Spreadsheets
 * [Diagram.codes](https://www.diagram.codes/) - Convert Text to Diagrams

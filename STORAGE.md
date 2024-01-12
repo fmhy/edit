@@ -249,7 +249,7 @@ http://104.131.175.196:8080/, http://70.88.180.169:8088/, http://207.237.122.161
 * [Bar Graph Maker](https://www.bargraphmaker.net/) - Create Bar Graphs
 * [Vinnslu](https://maltsev.github.io/vinnslu/) - Tabular Data Parser
 
-[Data GIF Maker](https://datagifmaker.withgoogle.com/), [Flourish](https://flourish.studio/), [Datawrapper](https://www.datawrapper.de/), [chartd](https://www.chartd.co/), [Chart.xkcd](https://timqian.com/chart.xkcd/), [QuickChart](https://quickchart.io/), [Percival](https://percival.ink/), [amCharts](https://live.amcharts.com/), [ACME Chartmaker](https://acme.com/chartmaker/), [ParaView](https://www.paraview.org/), [app.diagrams](https://app.diagrams.net/) / [Git](https://github.com/jgraph/drawio), [Dia](http://dia-installer.de/), [RawGraphs](https://rawgraphs.io/), [Draw](https://www.drawio.com/), [yEd Live](https://www.yworks.com/yed-live/), [Mermaid](https://mermaid.live/), [LineGraphMaker](https://linegraphmaker.co/), [SwimLanes](https://swimlanes.io/), [Quiver](https://q.uiver.app/), [Gephi](https://gephi.org/), [Graphviz](https://graphviz.org/) / [Editor](https://edotor.net/), [graphonline](https://graphonline.ru/en/), [Diagramify](https://diagramify.agiliq.com/), [Charts Builder](https://charts.hohli.com/), [diagramgpt](https://www.eraser.io/diagramgpt)
+[Data GIF Maker](https://datagifmaker.withgoogle.com/), [Flourish](https://flourish.studio/), [Datawrapper](https://www.datawrapper.de/), [chartd](https://www.chartd.co/), [Chart.xkcd](https://timqian.com/chart.xkcd/), [QuickChart](https://quickchart.io/), [Percival](https://percival.ink/), [amCharts](https://live.amcharts.com/), [ACME Chartmaker](https://acme.com/chartmaker/), [ParaView](https://www.paraview.org/), [Draw](https://www.drawio.com/) / [GitHub](https://github.com/jgraph/drawio), [Dia](http://dia-installer.de/), [RawGraphs](https://rawgraphs.io/), [yEd Live](https://www.yworks.com/yed-live/), [Mermaid](https://mermaid.live/), [LineGraphMaker](https://linegraphmaker.co/), [SwimLanes](https://swimlanes.io/), [Quiver](https://q.uiver.app/), [Gephi](https://gephi.org/), [Graphviz](https://graphviz.org/) / [Editor](https://edotor.net/), [graphonline](https://graphonline.ru/en/), [Diagramify](https://diagramify.agiliq.com/), [Charts Builder](https://charts.hohli.com/), [diagramgpt](https://www.eraser.io/diagramgpt)
 
 ***
 
@@ -315,7 +315,7 @@ http://104.131.175.196:8080/, http://70.88.180.169:8088/, http://207.237.122.161
 
 ## Drive Formatting / File Deletion
 
-* **Note** - These just delete files, if you're looking for security and to leave no file traces, its best to encypt the whole disk instead.
+* **Note** - These just delete files, if you're looking for security and to leave no file traces, it's best to encrypt the whole disk instead.
 
 * ⭐ **[SDelete](https://learn.microsoft.com/en-us/sysinternals/downloads/sdelete)**
 
@@ -450,7 +450,7 @@ http://104.131.175.196:8080/, http://70.88.180.169:8088/, http://207.237.122.161
 * ⭐ **[pages.cloudflare](https://pages.cloudflare.com/)**
 * [is-a.dev](https://www.is-a.dev/) - Developer Homepages
 
-[profreehost](https://profreehost.com/), [000webhost](https://www.000webhost.com/), [infinityfree](https://infinityfree.net/), [openshift](https://www.redhat.com/en/technologies/cloud-computing/openshift), [vercel](https://vercel.com/), [cloudaccess](https://www.cloudaccess.net/), [Gitlab Pages](https://docs.gitlab.com/ee/user/project/pages/index.html), [glitch](https://glitch.com/), [biz.nf](https://www.biz.nf/), [coolify](https://coolify.io/), [wix](https://www.wix.com/), [byet.host](https://byet.host/free-hosting), [webs](https://www.webs.com/), [weebly](https://www.weebly.com/in), [yola](https://www.yola.com/), [wordpress](https://wordpress.com/) / [2](https://wordpress.org/), [jimdo](https://www.jimdo.com/), [awardspace](https://www.awardspace.com/), [pythonanywhere](https://www.pythonanywhere.com/), [droppages](https://droppages.com/), [Zeronet](https://cheapskatesguide.org/articles/zeronet-site.html), [Zeronet 2](https://zeronet.io/docs/site_development/getting_started/), [ibm cloud](https://www.ibm.com/cloud/free), [hubzilla](https://zotlabs.org/page/zotlabs/home), [site123](https://www.site123.com/), [hostbreak](https://hostbreak.com/web-hosting/free), [tilda](https://tilda.cc/), [BitBucket](https://support.atlassian.com/bitbucket-cloud/docs/publishing-a-website-on-bitbucket-cloud/), [repl.it](https://docs.replit.com/hosting/hosting-web-pages), [render](https://render.com/), [Fleek](https://fleek.co/), [stormkit](https://www.stormkit.io/), [freehosting](https://freehosting.host/), [freewebhostingarea](https://www.freewebhostingarea.com/), [freenom](https://freenom.com/), [milkshake](https://milkshake.app/), [ikoula](https://www.ikoula.com/), [fanspace](http://www.fanspace.com/), [dotera](https://dotera.net/), [fc2](https://web.fc2.com/en/), [w3schools](https://www.w3schools.com/spaces/), [freehostia](https://www.freehostia.com/), [olitt](https://www.olitt.com/), [uhostfull](https://www.uhostfull.com/), [x10hosting](https://x10hosting.com/), [lenyxo](https://lenyxo.com/freehosting/), [yunohost](https://yunohost.org/), [1freehosting](https://www.1freehosting.net/), [5gb.club](http://www.5gb.club/free-hosting.php?i=1), [ultifreehosting](https://ultifreehosting.com/), [aeonfree](https://aeonfree.com/), [bravenet](https://www.bravenet.com/), [atspace](https://www.atspace.com/), [aava](https://aava.dy.fi/), [netlib](https://netlib.re/)
+[profreehost](https://profreehost.com/), [000webhost](https://www.000webhost.com/), [infinityfree](https://infinityfree.net/), [openshift](https://www.redhat.com/en/technologies/cloud-computing/openshift), [vercel](https://vercel.com/), [cloudaccess](https://www.cloudaccess.net/), [Gitlab Pages](https://docs.gitlab.com/ee/user/project/pages/index.html), [glitch](https://glitch.com/), [biz.nf](https://www.biz.nf/), [coolify](https://coolify.io/), [wix](https://www.wix.com/), [byet.host](https://byet.host/free-hosting), [webs](https://www.webs.com/), [weebly](https://www.weebly.com/in), [yola](https://www.yola.com/), [WordPress](https://wordpress.com/) / [2](https://wordpress.org/), [jimdo](https://www.jimdo.com/), [awardspace](https://www.awardspace.com/), [pythonanywhere](https://www.pythonanywhere.com/), [droppages](https://droppages.com/), [Zeronet](https://cheapskatesguide.org/articles/zeronet-site.html), [Zeronet 2](https://zeronet.io/docs/site_development/getting_started/), [ibm cloud](https://www.ibm.com/cloud/free), [hubzilla](https://zotlabs.org/page/zotlabs/home), [site123](https://www.site123.com/), [hostbreak](https://hostbreak.com/web-hosting/free), [tilda](https://tilda.cc/), [BitBucket](https://support.atlassian.com/bitbucket-cloud/docs/publishing-a-website-on-bitbucket-cloud/), [repl.it](https://docs.replit.com/hosting/hosting-web-pages), [render](https://render.com/), [Fleek](https://fleek.co/), [stormkit](https://www.stormkit.io/), [freehosting](https://freehosting.host/), [freewebhostingarea](https://www.freewebhostingarea.com/), [freenom](https://freenom.com/), [milkshake](https://milkshake.app/), [ikoula](https://www.ikoula.com/), [fanspace](http://www.fanspace.com/), [dotera](https://dotera.net/), [fc2](https://web.fc2.com/en/), [w3schools](https://www.w3schools.com/spaces/), [freehostia](https://www.freehostia.com/), [olitt](https://www.olitt.com/), [uhostfull](https://www.uhostfull.com/), [x10hosting](https://x10hosting.com/), [lenyxo](https://lenyxo.com/freehosting/), [yunohost](https://yunohost.org/), [1freehosting](https://www.1freehosting.net/), [5gb.club](http://www.5gb.club/free-hosting.php?i=1), [ultifreehosting](https://ultifreehosting.com/), [aeonfree](https://aeonfree.com/), [bravenet](https://www.bravenet.com/), [atspace](https://www.atspace.com/), [aava](https://aava.dy.fi/), [netlib](https://netlib.re/)
 
 ***
 
@@ -513,7 +513,7 @@ http://104.131.175.196:8080/, http://70.88.180.169:8088/, http://207.237.122.161
 ## Git Projects
 
 * [GitHub Rankings](https://evanli.github.io/Github-Ranking/) - Git Project Rankings
-* [Active Github Forks](https://techgaun.github.io/active-forks/) - List of Active GitHub Forks
+* [Active GitHub Forks](https://techgaun.github.io/active-forks/) - List of Active GitHub Forks
 * [Lovely Forks](https://github.com/musically-ut/lovely-forks) - View Repository Forks
 * [Git Search Engine](https://zzollo.co/) - Search GitHub, GitLab etc.
 
@@ -828,7 +828,7 @@ http://104.131.175.196:8080/, http://70.88.180.169:8088/, http://207.237.122.161
 
 ## Presentation Tools
 
-* [Slides](https://maaslalani.com/slides/) / [GitHub](https://github.com/maaslalani/slides) - Terminal Based Presentation Tool
+* [Slides](https://maaslalani.com/slides/) / [GitHub](https://github.com/maaslalani/slides) - Terminal-Based Presentation Tool
 * [PPTX](https://github.com/AmNotAGoose/Python-PPTX-ChatGPT-Presentation-Generator) - AI Presentation Generator
 * [GSlides Maker](https://github.com/vilmacio/gslides-maker) - Turn Wiki Pages into Google Slides
 
@@ -1106,7 +1106,7 @@ http://104.131.175.196:8080/, http://70.88.180.169:8088/, http://207.237.122.161
 
 ### Spotify Themes
 
-[Colorize](https://colorify.live/) / [Spicetify](https://spicetify.app/) / [CLI](https://github.com/spicetify/spicetify-cli) / [Addons](https://github.com/3raxton/spicetify-custom-apps-and-extensions) / [Discord](https://discord.gg/VnevqPp2Rr) / [Easy Install](https://github.com/OhItsTom/spicetify-easyinstall/) / [Fluent](https://github.com/williamckha/spicetify-fluent), [2](https://github.com/nimsandu/spicetify-bloom)
+[Colorize](https://colorify.live/) / [Spicetify](https://spicetify.app/) / [CLI](https://github.com/spicetify/spicetify-cli) / [Addons](https://github.com/3raxton/spicetify-custom-apps-and-extensions) / [Discord](https://discord.gg/VnevqPp2Rr) / [Easy Installation](https://github.com/OhItsTom/spicetify-easyinstall/) / [Fluent](https://github.com/williamckha/spicetify-fluent), [2](https://github.com/nimsandu/spicetify-bloom)
 
 ***
 
@@ -1304,7 +1304,7 @@ http://104.131.175.196:8080/, http://70.88.180.169:8088/, http://207.237.122.161
 
 ### Simple Site Creators
 
-[Straw.Page](https://straw.page/), [Own Free Website](https://www.own-free-website.com), [itty.bitty](https://itty.bitty.site/), [mmm](https://build.mmm.page/), [cargo](https://cargo.site/), [Talium](https://talium.co/), [Jigsy](https://jigsy.com/), [Temper](https://temper.one/), [Neocities](https://neocities.org/), [Mobirise](https://mobirise.com/), [Silex](https://www.silex.me/), [Publii](https://getpublii.com/), [11ty](https://11ty.dev/)
+[Straw.Page](https://straw.page/), [Own Free Website](https://www.own-free-website.com), [itty.bitty](https://itty.bitty.site/), [mmm](https://build.mmm.page/), [cargo](https://cargo.site/), [Talium](https://talium.co/), [Jigsy](https://jigsy.com/), [Temper](https://temper.one/), [Neocities](https://neocities.org/), [Mobirise](https://mobirise.com/), [Silex](https://www.silex.me/), [Publii](https://getpublii.com/), [Eleventy](https://11ty.dev/)
 
 ***
 
@@ -1367,7 +1367,7 @@ http://104.131.175.196:8080/, http://70.88.180.169:8088/, http://207.237.122.161
 
 ***
 
-## Wordpress Themes
+## WordPress Themes
 
 [gpldl](https://gpldl.com/), [wplocker](https://www.wplocker.com/), [Weadown](https://weadown.com/), [FreeNulledCode](https://freenulledcode.com/), [crackthemes](https://www.crackthemes.com/), [Mega Drive](https://github.com/nbats/FMHYedit/blob/main/base64.md#wordpress-themes), [babiato](https://babia.to/), [newtemplate](https://newtemplate.net/), [justfreewpthemes](https://justfreewpthemes.com/), [themesplugins](https://themesplugins.club/)
 

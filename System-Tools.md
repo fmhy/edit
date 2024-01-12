@@ -11,7 +11,7 @@
 * ↪️ **[Gaming Optimization](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/games#wiki_.25B7_optimization_tools)**
 * ⭐ **[PowerToys](https://learn.microsoft.com/en-us/windows/powertoys/)**, [Sysinternals](https://learn.microsoft.com/en-us/sysinternals/) / [Suite](https://apps.microsoft.com/store/detail/sysinternals-suite/9P7KNL5RWT25) or [JaxCore](https://jaxcore.app/) - System Tools
 * ⭐ **[CPU-Z](https://www.cpuid.com/softwares/cpu-z.html)**, [winfetch](https://github.com/lptstr/winfetch) or [GPU-Z](https://www.techpowerup.com/download/techpowerup-gpu-z/) - System Information Tools
-* ⭐ **[AutoHotkey](https://www.autohotkey.com/)**,  [AutoIt](https://www.autoitscript.com/) / [Resources](https://github.com/J2TEAM/awesome-AutoIt), [Power Automate](https://learn.microsoft.com/en-us/power-automate/desktop-flows/install), [sikulix](http://sikulix.com/) or [ChoEazyCopy](https://github.com/Cinchoo/ChoEazyCopy) - Task Automation
+* ⭐ **[AutoHotkey](https://www.autohotkey.com/)**, [AutoIt](https://www.autoitscript.com/) / [Resources](https://github.com/J2TEAM/awesome-AutoIt), [Power Automate](https://learn.microsoft.com/en-us/power-automate/desktop-flows/install), [sikulix](http://sikulix.com/) or [ChoEazyCopy](https://github.com/Cinchoo/ChoEazyCopy) - Task Automation
 * ⭐ **AutoHotkey Tools** - [Script Gen](https://www.ahkgen.com/) / [Resources](https://github.com/ahkscript/awesome-AutoHotkey)
 * [Windows-11-Guide](https://github.com/mikeroyal/Windows-11-Guide), [Pastas](https://rentry.org/pastas#guides), [Eleven Forums Guides](https://www.elevenforum.com/tutorials/) or [Ten Forums Guides](https://www.tenforums.com/tutorials/) - Windows Guides
 * [NanaRun](https://github.com/M2Team/NanaRun) - System Admin Tools
@@ -38,7 +38,7 @@
 
 ## ▷ System Debloating
 
-* **Warning** - Its not recommended to use debloaters unless you know what you're doing. Always research first, never just "Apply All" randomly.
+* **Warning** - It's not recommended to use debloaters unless you know what you're doing. Always research first, never just "Apply All" randomly.
 
 ***
 
@@ -121,7 +121,7 @@
 * [Mintty](https://mintty.github.io/) - Cygwin Terminal Emulator 
 * [termbin](https://termbin.com/) - Terminal Output Pastebin
 * [GetDNote](https://www.getdnote.com/) - Command Line Notebook
-* [cmder](https://cmder.app) - Console Emulator Package / [Github](https://github.com/cmderdev/cmder)
+* [cmder](https://cmder.app) - Console Emulator Package / [GitHub](https://github.com/cmderdev/cmder)
 * [PowerShell](https://github.com/powershell/powershell) - PC / Mac / Linux PowerShell
 * [PowershellMenu](https://github.com/Mike-Branham/PowershellMenu), [Write-Menu](https://github.com/QuietusPlus/Write-Menu) or [ps-menu](https://github.com/chrisseroka/ps-menu) - PowerShell Console Menu
 * [LeanandMean](https://github.com/AveYo/LeanAndMean) - Powershell Snippets / Use with Caution
@@ -202,7 +202,7 @@
 ## ▷ Virtual Machines
 
 * ⭐ **[VirtualBox](https://www.virtualbox.org/)** / [Portable](https://www.vbox.me/), [Looking Glass](https://looking-glass.io/), [Qemu](https://gitlab.com/qemu-project/qemu), [Hyper-V](https://learn.microsoft.com/en-us/virtualization/hyper-v-on-windows//), [fvwm](https://www.fvwm.org/), [Denodo Test](https://www.denodo.com/en/denodo-platform/test-drives?utm_source=homepage&utm_medium=bn) or [VMware Workstation Player](https://www.vmware.com/products/workstation-player/workstation-player-evaluation.html) - Virtual Machines / [Preinstalled VMS](https://www.osboxes.org/)
-* ⭐ **[Hackintosh](https://hackintosh.com/)**, [Emaculation](https://www.emaculation.com/), [felixrieseberg](https://github.com/felixrieseberg/macintosh.js/) or [OneClick-macOS](https://github.com/notAperson535/OneClick-macOS-Simple-KVM) - MacOS Virtual Machines
+* ⭐ **[Hackintosh](https://hackintosh.com/)**, [Emaculation](https://www.emaculation.com/), [felixrieseberg](https://github.com/felixrieseberg/macintosh.js/) or [OneClick-macOS](https://github.com/notAperson535/OneClick-macOS-Simple-KVM) - macOS Virtual Machines
 * ⭐ **Hackintosh Tools** - [Guide](https://github.com/dortania/macOS-VMware-Guide), [2](https://www.tonymacx86.com/) / [AMD Guide](https://chefkissinc.github.io/guide) / [Ryzen](https://github.com/mikigal/ryzen-hackintosh) / [XiaoMi](https://github.com/daliansky/XiaoMi-Pro-Hackintosh)
 * [Virt-Manager](https://virt-manager.org/) or [Vagrantup](https://www.vagrantup.com/) - Virtual Machine Managers
 * [CollabVM](https://computernewb.com/collab-vm/) - Online Virtual Machines
@@ -247,7 +247,7 @@
 * [btop](https://github.com/aristocratos/btop)
 * [Glances](https://nicolargo.github.io/glances/)
 * [Taskbar Stats](https://openhoangnc.github.io/taskbar-stats/)
-* [FanControl](https://getfancontrol.com/) / [Github](https://github.com/Rem0o/FanControl.Releases)
+* [FanControl](https://getfancontrol.com/) / [GitHub](https://github.com/Rem0o/FanControl.Releases)
 * [SidebarDiagnostics](https://github.com/ArcadeRenegade/SidebarDiagnostics)
 * [LibreHardwareMonitor](https://github.com/LibreHardwareMonitor/LibreHardwareMonitor)
 * [TrafficMonitor](https://github.com/zhongyang219/TrafficMonitor)
@@ -318,7 +318,7 @@
 * [Deskreen](https://deskreen.com/) or [SpaceDesk](https://www.spacedesk.net/) - Use Mobile Device as Monitor / [GitHub](https://github.com/pavlobu/deskreen)
 * [ShaderGlass](https://github.com/mausimus/ShaderGlass) - Custom Screen Shaders
 * [DaltonLens](https://daltonlens.org/) or [Toptal](https://www.toptal.com/designers/colorfilter) - Color Blindness Filters
-* [NVDA](https://www.nvaccess.org/download/) - Screen Reader for Blind Users / [Github](https://github.com/nvaccess/nvda)
+* [NVDA](https://www.nvaccess.org/download/) - Screen Reader for Blind Users / [GitHub](https://github.com/nvaccess/nvda)
 
 ***
 
@@ -417,7 +417,7 @@
 * [Windows 1.01](https://classicreload.com/Windows-1-01.html) - Windows 1.01 Browser Emulator
 * [RebornXP](https://rebornxp.js.org/) - Windows XP Browser Emulator
 * [AaronOS](https://aaronos.dev/), [Whimsy](https://whimsy.space/), [OS.JS](https://www.os-js.org/), [X-WebDesktop](https://oxoyo.co/X-WebDesktop-Vue/), [Orb](https://gitlab.com/hsleisink/orb) or [jQuery Desktop](https://desktop.sonspring.com/) - OS Browser Emulator
-* [PCE Macplus](https://jamesfriend.com.au/pce-js/pce-js-apps/) or [Infinite Mac](https://infinitemac.org/) - MacOS Browser Emulators
+* [PCE Macplus](https://jamesfriend.com.au/pce-js/pce-js-apps/) or [Infinite Mac](https://infinitemac.org/) - macOS Browser Emulators
 * [PCE.js](https://jamesfriend.com.au/pce-js/ibmpc-games/) - PCDOS 5 Emulator
 * [Quantum Playground](https://www.quantumplayground.net/#/home) - Quantum Computer Simulator
 * [Win11.vercel](https://win11.vercel.app/), [Rajaniraiyn](https://rajaniraiyn.github.io/windows11/) or [Win11 in React](https://win11.blueedge.me/)/ [GitHub](https://github.com/blueedgetechno/win11React) - Online Windows 11 Emulator
@@ -469,9 +469,9 @@
 * [BasicThemer2](https://github.com/Ingan121/BasicThemer2) - Windows 7 Theme
 * [Winmoes](https://winmoes.com/) - Anime Windows Themes / Wallpapers
 * [Desktops](https://deskto.ps/) - OS Theme Examples
-* [MyDockFinder](https://www.mydockfinder.com/) - MacOS Theme for Windows 10
+* [MyDockFinder](https://www.mydockfinder.com/) - macOS Theme for Windows 10
 * [Macdows11](https://redd.it/pd5ha6) - Windows 11 Mac Theme Guide
-* [macOS-cursors-for-Windows](https://github.com/antiden/macOS-cursors-for-Windows) - MacOS Cursors for Windows
+* [macOS-cursors-for-Windows](https://github.com/antiden/macOS-cursors-for-Windows) - macOS Cursors for Windows
 * [AccentColorizer](https://github.com/krlvm/AccentColorizer) - Custom Windows Accent Color
 * [TranslucentFlyouts](https://github.com/ALTaleX531/TranslucentFlyouts) - Translucent Context Menus
 * [TranslucentTB](https://github.com/TranslucentTB/TranslucentTB) - Translucent Windows Taskbar
@@ -490,7 +490,7 @@
 
 ## ▷ Wallpapers
 
-* ⭐ **[Wallpaper Engine](https://github.com/nbats/FMHYedit/blob/main/base64.md#wallpaper-engine)** - Wallpaper Manager /  [PKG to Zip](https://github.com/TheRioMiner/Wallpaper-Engine-Pkg-to-Zip) / [Collections](https://www.wallpaperengine.space/collections), [2](https://steamcommunity.com/sharedfiles/filedetails/?id=2801058904)
+* ⭐ **[Wallpaper Engine](https://github.com/nbats/FMHYedit/blob/main/base64.md#wallpaper-engine)** - Wallpaper Manager / [PKG to Zip](https://github.com/TheRioMiner/Wallpaper-Engine-Pkg-to-Zip) / [Collections](https://www.wallpaperengine.space/collections), [2](https://steamcommunity.com/sharedfiles/filedetails/?id=2801058904)
 * ⭐ **[wallhaven](https://wallhaven.cc/)** / [Downloader](https://github.com/eramdam/WallbaseDirectDownloader) - Wallpapers
 * ⭐ **[Wallpaper Abyss](https://wall.alphacoders.com/)** - Wallpapers
 * ⭐ **[Studio Ghibli Wallpapers](https://www.ghibli.jp/info/013772)**
