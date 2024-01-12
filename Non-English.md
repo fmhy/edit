@@ -519,11 +519,11 @@
 
 * ⭐ **[OlaMovies](http://olamovies.yachts/)** - Movies / TV / Sub / Dub / 1080p / 4K / [Telegram](https://telegram.me/olamovies_official_v3)
 * ⭐ **[Full4Movies](https://www.full4movies.mobi/)** - Movies / TV / Sub / Dub / 1080p / [Telegram](https://t.me/+esNoIP2HG30yMjlk)
+* ⭐ **[MoviesMod](https://moviesmod.dev/)** - Movies / TV / Sub / Dub / 1080p / [Telegram](https://telegram.dog/moviesmodorg)
 * ⭐ **[Free Lossless Desi Music](https://hindi-lossless.blogspot.com/)** - Music / FLAC
 * [MkvCinemas](https://mkvcinemas.mov/) - Movies / TV / Anime / Sub / Dub / 1080p / 4K / [Telegram](https://t.me/+WzLYNDSawQk1MTk1)
 * [MLWBD](https://mlwbd.run/) - Movies / TV / Anime / Sub / Dub / 1080p / 4K / [Telegram](https://t.me/mlwbdnew)
 * [BollyMaza](https://ww3.bollymaza.click/) - Movies / TV / Sub / Dub / 1080p / 4K
-* [MoviesMod](https://moviesmod.shop) - Movies / TV / Sub / Dub / 1080p / [Telegram](https://telegram.dog/moviesmodorg)
 * [Mallumv](https://mallumv.buzz/) - Movies / Sub / Dub / 1080p / [Telegram](https://t.me/MalluMvoff)
 * [SSR Movies](https://ssrmovies.dad/) - Movies / TV / Sub / Dub / 1080p
 * [MkvMoviesPoint](https://mkvmoviespoint.boo/) - Movies / TV / Sub / Dub / 1080p / [Telegram](https://telegram.me/mkvpoint1)
