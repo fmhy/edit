@@ -115,7 +115,7 @@
 # ► Chinese
 
 * 🌐 **[heji](https://233heji.com/)**, **[BestXTools](https://discuss-cn.bestxtools.com/)** or **[bajins](https://www.bajins.com/)** - Chinese Sites / Tools Indexes
-* 🌐 **[Awesome Github Repo](https://github.com/Wechat-ggGitHub/Awesome-GitHub-Repo)** - Programming Resources Index
+* 🌐 **[Awesome GitHub Repo](https://github.com/Wechat-ggGitHub/Awesome-GitHub-Repo)** - Programming Resources Index
 * [Anti-Ad](https://anti-ad.net/) - Adblock Filters
 * [GameLoop](https://syzs.qq.com/) - Android Emulator
 * [Thanox](https://github.com/Tornaco/Thanox) - Android System Manager
@@ -214,13 +214,13 @@
 * [BooksThatMakeYouThink](https://t.me/BooksThatMakeYouThink) - Nonfiction
 * [AutumnWindBookstore](https://www.qiufengshuwu.com/) - Fiction
 * [ixdzs](https://ixdzs.tw/) - Fiction
-* [ijjxs.net](http://ijjxs.net/)- Fiction
+* [ijjxs.net](http://ijjxs.net/) - Fiction
 * [69shuba.com](https://69shuba.com/) Fiction
-* [99csw.com](https://99csw.com/)- Fiction / Non-fiction
+* [99csw.com](https://99csw.com/) - Fiction / Non-fiction
 * [3gfk](https://www.3gfk.com/)- Fiction 
-* [nunubook.com](https://nunubook.com/)- Fiction / Non-fiction
-* [69shuba.com](https://www.69shuba.com/)- Fiction
-* [qianyege.com](https://www.qianyege.com/)- Fiction
+* [nunubook.com](https://nunubook.com/) - Fiction / Non-fiction
+* [69shuba.com](https://www.69shuba.com/) - Fiction
+* [qianyege.com](https://www.qianyege.com/) - Fiction
 * [haodoo](https://haodoo.net/) - Fiction
 * [shuhai](https://www.shuhai.vip/) - Fiction
 * [xxbiqudu](https://www.xxbiqudu.com/) - Fiction
@@ -1159,22 +1159,22 @@
 * ⭐ **[РосКомСвобода](https://t.me/roskomsvoboda_discuss)** / [roskomsvoboda](https://t.me/roskomsvoboda) / [rks_legal_talk](https://t.me/rks_legal_talk) / [rks_org_Bot](https://t.me/rks_org_bot) / [rks_tech_talk](https://t.me/rks_tech_talk) or [Ru.Board](https://forum.ru-board.com/) - Piracy Discussion Telegram
 * [FreeBrowser](https://freebrowser.org/) / [GitHub](https://github.com/greatfire/freebrowser) - Internet Censorship Circumvention
 * [rublacklist](https://reestr.rublacklist.net/en/) - Blocked Sites List
-* [DXP](https://dxp.ru/) - Russian Subtitles Tracker
+* [DXP](https://dxp.ru/) - Subtitles Tracker
 * [Proxy-Checker](https://proxy-checker.net/) - Proxy Checker
-* [RKN Dump Check](https://t.me/u2ckbot) - Russian Censorship Check
+* [RKN Dump Check](https://t.me/u2ckbot) - Censorship Check
 * [Mail.ru](https://mail.ru/) or [r0.ru](https://r0.ru/) - Search Engines
 * [Kribrum](https://kribrum.io/search) - Social Media Search Engine
-* [tgstat](https://tgstat.ru/) - Russian Telegram Channel Stats
+* [tgstat](https://tgstat.ru/) - Telegram Channel Stats
 * [EDA](https://eda.ru/) - Recipes
 * [Songs Pro](https://songspro.pro/) - Lyrics
 * [WASM](https://www.wasm.in/) - Web Assembly Forum
 * [Ok.ru](https://ok.ru/), [VK](https://vk.com/), [MyMail](https://my.mail.ru/), [TenChat](https://tenchat.ru/) or [RUTube](https://rutube.ru/) - Russian Social Networks
-* [GitFlic](https://gitflic.ru/) - Russian Github
+* [GitFlic](https://gitflic.ru/) - GitHub Alternative
 * [ScreenChat](https://screenchat.live/) - Create Fake Texts
-* [RG.RU](https://rg.ru/) - Russian News / [Telegram](https://t.me/rgrunews)
-* [Kremlin News](https://t.me/news_kremlin) - Russian Government News
+* [RG.RU](https://rg.ru/) - News / [Telegram](https://t.me/rgrunews)
+* [Kremlin News](https://t.me/news_kremlin) - Government News
 * [Ovd-info](https://t.me/ovdinfolive) - Protestor Prosecution News / [Telegram](https://t.me/ovdinfo)
-* [government_rus](https://t.me/government_rus) - Official Russian Government Telegram
+* [government_rus](https://t.me/government_rus) - Official Government Telegram
 * [zakupki_time](https://t.me/zakupki_time) - Government Procurement Watch
 * [Што за шрифт?](https://t.me/+lZD1qlHA3sFhMzQy) - Fonts
 * [3DArchive](https://t.me/ArchiveStl) - 3D Models
@@ -1190,7 +1190,6 @@
 * [Allmults](https://allmults.org/) - Cartoons / Sub / Dub / 1080p
 * [tancpol](https://tancpol.net/) - Music / MP3
 * [z2.fm](https://z2.fm/) - Music / MP3
-* [Shazam music](https://t.me/shazam_music_uz) - Music / MP3
 * [Musify](https://musify.club/) - Music / MP3
 * [MetalArea](https://metalarea.org/) or [MDCORE](https://vk.com/mdcore) - Metal / MP3
 * [MDROCK](https://vk.com/mdrock) - Rock / MP3
@@ -1357,7 +1356,7 @@
 * ⭐ **[eMule](https://www.emule-project.com/home/perl/help.cgi?l=17&rm=show_topic&topic_id=586)** - Video / Audio / Reading / NSFW / Castilian
 * [identi](https://identi.io/) - Video / Audio / Reading / Latino / Castilian
 * [ExVagos](https://www.exvagos.org/) - Video / Audio / Reading / Castilian
-* [Guns's Cave](https://lacuevadeguns.com/forum/index.php?action=forum) - Video / Audio / Reading / Castilian
+* [Gun's Cave](https://lacuevadeguns.com/forum/index.php?action=forum) - Video / Audio / Reading / Castilian
 * [Cultura Para Todos](https://culturaparatodos.eu/) - Video / Audio / Reading
 * [Flipax2](https://flipax2.me/) - Video / Audio / Reading / Castilian
 * [Fiuxy2](https://fiuxy2.co/) - Video / Audio / Reading / NSFW / [Bypasser script](https://greasyfork.org/en/scripts/477591)
@@ -1691,7 +1690,7 @@
 * [TestMic](https://testmic.vn/) - Test Microphone
 * [TestCam](https://testcamera.vn/), [CamTest](https://cameratest.vn/) - Test Camera
 * [VNTyping](https://vntyping.com/), [VietnameseTyping](https://vietnamesetyping.com/) - Vietnamese Typing
-* [Unikey](https://www.unikey.org/), [Vietkey](https://vietkey.com.vn/) or [EVkey](https://evkeyvn.com/)  - Vietnamese Typing Software
+* [Unikey](https://www.unikey.org/), [Vietkey](https://vietkey.com.vn/) or [EVkey](https://evkeyvn.com/) - Vietnamese Typing Software
 * [Mail1s](https://mail1s.com/) - Temp Email
 * [BeeCost](https://beecost.vn/) - E-commerce Price Tracker
 * [FBVN](https://chromewebstore.google.com/detail/hlnhbiajcpmjpgpedgfdigiccejengbi), [L.O.C](https://chromewebstore.google.com/detail/eojdckfcadamkapabechhbnkleligand) or [MonokaiToolkit](https://chromewebstore.google.com/detail/monokaitoolkit-extension/dagbggkfgebkmlmnlidioknbhilfnngn) - Friends Filter for Facebook
@@ -1761,8 +1760,8 @@
 * [vieon](https://vieon.vn/) - Live TV / TV show / Anime / Cartoon / Movie
 * [FPTplay](https://fptplay.vn/) - Live TV / TV show / Anime / Cartoon / Movie
 * [HPlus](https://hplus.com.vn/), [2](https://htvc.com.vn/) - Live TV / TV Show
-* [THVL](https://www.thvli.vn/), - Live TV / TV Show
-* [VTC](https://portal.vtc.gov.vn/live), - Live TV
+* [THVL](https://www.thvli.vn/) - Live TV / TV Show
+* [VTC](https://portal.vtc.gov.vn/live) - Live TV
 * [ZingMP3](https://zingmp3.vn/) - Music
 * [NhacCuaTui](https://www.nhaccuatui.com/) - Music
 * [Muvi](https://muvi.vn/) - Music
@@ -1854,7 +1853,7 @@
 * [Najdi.si](https://www.najdi.si/) - Slovene / Search
 * [BSF](https://bsf.si/) - Slovene Film Database
 * [Einthusan](https://einthusan.tv/intro/) - South Asian / Movie Archive
-* [iptv-ch.github](https://iptv-ch.github.io/) - Swiss / IPTV Resources
+* [iptv-ch](https://iptv-ch.github.io/) - Swiss / IPTV Resources
 * [tagalogdubbed](https://tagalogdubbed.com/) - Tagalog / Streaming / Movies / TV
 * [Segoideas](https://segoideas.com/) - Taiwanese / Streaming / TV
 * [wlext](https://wlext.is/) - Turkish / Filipino / Thai / Streaming / Movies

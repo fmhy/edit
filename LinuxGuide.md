@@ -34,9 +34,9 @@
 * ⭐ **[AppImageLauncher](https://github.com/TheAssassin/AppImageLauncher)** - Integrate AppImages to your App Launcher
 * ⭐ **[winetricks](https://github.com/Winetricks/winetricks)** - Wine Fixes
 * ⭐ **[rofi](https://github.com/davatorium/rofi)** / [Emoji Selector](https://github.com/Mange/rofi-emoji) or [Ulauncher](https://ulauncher.io/) - App Launchers
-* [winapps](https://github.com/Fmstrat/winapps), [Cassowary](https://github.com/casualsnek/cassowary) - Interface Windows apps in a VM
+* [winapps](https://github.com/Fmstrat/winapps), [Cassowary](https://github.com/casualsnek/cassowary) - Interface Windows apps on a VM
 * [wslu](https://github.com/wslutilities/wslu) - Utilities for Windows 10 Linux Subsystem
-* [Darling](https://www.darlinghq.org/) - Run MacOS Apps on Linux
+* [Darling](https://www.darlinghq.org/) - Run macOS Apps on Linux
 * [DeskCut](https://github.com/NayamAmarshe/DeskCut) - Desktop Shortcuts App
 * [nativefier_tauri](https://github.com/hamza72x/web2app) - Turn Webpages into Desktop Apps
 * [Autokey](https://github.com/autokey/autokey) - Linux Automation Utility
@@ -197,7 +197,7 @@ Linux Gaming Guide
 * [Bloxstrap](https://discord.com/invite/nKjV3mGq6R) - Roblox Launcher
 * [Anime Game Launcher](https://github.com/an-anime-team/an-anime-game-launcher) - Genshin Impact Launcher
 * [among-sus](https://git.sr.ht/~martijnbraam/among-sus) - Play Among Us in your Terminal (Recreation)
-* [Gameboy.live](https://github.com/HFO4/gameboy.live) - Terminal Gameboy Emulator
+* [Gameboy.live](https://github.com/HFO4/gameboy.live) - Terminal Game Boy Emulator
 * [Gambit](https://github.com/maaslalani/gambit) - Terminal Chess
 * [Sssnake](https://github.com/AngelJumbo/sssnake) - Terminal Snake
 
@@ -269,7 +269,7 @@ Linux Gaming Guide
 * [Boxes](https://wiki.gnome.org/Apps/Boxes) - Virtual Machine Manager
 * [Linux-KVM](https://www.linux-kvm.org/page/Downloads) - Kernel-Based Virtual Machine
 * [Ubuntu VNC](https://web.archive.org/web/20230729065457/https://cdn.discordapp.com/attachments/787671932957884416/787672107848302612/guicolab.ipynb) - Free Ubuntu VNC
-* [OSX-KVM](https://github.com/kholia/OSX-KVM), [OneClick-macOS-Simple-KVM](https://github.com/notAperson535/OneClick-macOS-Simple-KVM) or [macOS-Simple-KVM](https://github.com/foxlet/macOS-Simple-KVM) - MacOS Virtual
+* [OSX-KVM](https://github.com/kholia/OSX-KVM), [OneClick-macOS-Simple-KVM](https://github.com/notAperson535/OneClick-macOS-Simple-KVM) or [macOS-Simple-KVM](https://github.com/foxlet/macOS-Simple-KVM) - macOS Virtual
 * [kmon](https://kmon.cli.rs/) - Kernel Manager and Activity Monitor
 * [Kernel Map](https://makelinux.github.io/kernel/map/) - Interactive Linux Kernel Map
 * [UbuntuCleaner](https://github.com/gerardpuig/ubuntu-cleaner) - Easily clean Ubuntu(-based) Systems
@@ -419,7 +419,7 @@ Linux Gaming Guide
 
 # ► Mac Apps
 
-* ⭐ **[gibMacOS](https://github.com/corpnewt/gibMacOS)** or [OldSchoolOS](https://www.oldschoolos.com/) - Download MacOS
+* ⭐ **[gibMacOS](https://github.com/corpnewt/gibMacOS)** or [OldSchoolOS](https://www.oldschoolos.com/) - Download macOS
 * ⭐ **[Readdle](https://readdle.com/documents)** - Multipurpose File Tool
 * ⭐ **[PeaZip](https://peazip.github.io/peazip-macos.html)**, [The Unarchiver](https://theunarchiver.com/), [unxip](https://github.com/saagarjha/unxip) or [Keka](https://www.keka.io/) - File Archivers
 * ⭐ **[qBittorrent](https://www.qbittorrent.org/)** - Torrent Client / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_qbitorrent_tools)
@@ -430,12 +430,12 @@ Linux Gaming Guide
 * ⭐ **[CustomShortcuts](https://www.houdah.com/customShortcuts/)**, [Karabiner-Elements](https://karabiner-elements.pqrs.org/) or [ShortcutKeeper](https://shortcutkeeper.com/) - Custom Keyboard Shortcuts
 * ⭐ **[alt-tab-macos](https://alt-tab-macos.netlify.app/)** - Alt-Tab for Mac
 * ⭐ **[Fantastical](https://flexibits.com/fantastical)** - Calendar
-* [Advanced MacOS Commands](https://saurabhs.org/advanced-macos-commands) - Advanced Command-Line Tools
+* [Advanced macOS Commands](https://saurabhs.org/advanced-macos-commands) - Advanced Command-Line Tools
 * [Novee](https://github.com/ZhichGaming/Novee) - Anime Streaming App
 * [DMHY](https://github.com/yaqinking/DMHY) - Anime Torrent Autodownloader 
 * [Swiftcord](https://github.com/SwiftcordApp/Swiftcord) or [Accord](https://github.com/evelyneee/accord) - Discord Clients
 * [Ice Cubes](https://apps.apple.com/us/app/ice-cubes-for-mastodon/id6444915884) - Mastodon Client
-* [Beta Profiles](https://betaprofiles.com/) - Download Pre-Release Versions MacOS
+* [Beta Profiles](https://betaprofiles.com/) - Download Pre-Release Versions macOS
 * [Asahi Linux](https://asahilinux.org/) - Run Linux OS on macOS Silicon (M1 only)
 * [CloverBootloader](https://github.com/CloverHackyColor/CloverBootloader/) - Windows, Mac & Linux Bootloader / [Config](https://mackie100projects.altervista.org/)
 * [Boot Camp](https://support.apple.com/boot-camp) - Windows Bootloader / [DL Script](https://github.com/timsutton/brigadier)
@@ -450,7 +450,7 @@ Linux Gaming Guide
 * [Nuage](https://github.com/lbrndnr/nuage-macos) - Soundcloud Client
 * [Subsonic](https://github.com/twostraws/Subsonic) - SwiftUI Audio Player
 * [Bookshelf](https://apps.apple.com/us/app/bookshelf-reading-tracker/id1469372414) - Book Tracker
-* [LimaVM](https://github.com/lima-vm/lima) - Linux VM on MacOS
+* [LimaVM](https://github.com/lima-vm/lima) - Linux VM
 * [PortingKit](https://www.portingkit.com/) or [PlayOnMac](https://www.playonmac.com/en/) - Run Windows Games / Programs on Mac
 * [OpenCore](https://github.com/acidanthera/OpenCorePkg) - Mac Bootloader / [Config](https://mackie100projects.altervista.org/opencore-configurator/) / [Guide](https://dortania.github.io/OpenCore-Install-Guide/)
 * [PlayCover](https://github.com/PlayCover/PlayCover) - Run iOS Apps on Apple Silicon Macs
@@ -469,14 +469,14 @@ Linux Gaming Guide
 * [AirDrop to Windows](https://redd.it/vthltc) - AirDrop to Windows Guide
 * [Adobe Creative Cloud](https://github.com/nbats/FMHYedit/blob/main/base64.md#mac-adobe-cc) - Adobe CC Guides
 * [Adobe Packager](https://github.com/Drovosek01/adobe-packager) - Adobe Portable Installer Script
-* [ss64 OSX](https://ss64.com/osx/) - MacOS Bash Commands
+* [ss64 OSX](https://ss64.com/osx/) - macOS Bash Commands
 * [Browserosaurus](https://browserosaurus.com/) - Browser Prompter
 * [Orion](https://browser.kagi.com/) - Lightweight Browser w/ Chrome & Firefox Extensions / [Discord](https://discord.com/invite/gKh5E6ys6D)
 * [Strongbox](https://strongboxsafe.com/) - Password Manager
 * [Maccy](https://maccy.app/) or [TRex](https://trex.ameba.co/) - Clipboard Managers
 * [Left on Read](https://leftonread.me/) or [PyPush](https://github.com/JJTech0130/pypush) /[Discord](https://discord.gg/BVvNukmfTC) - iMessage Clients
 * [LlamaChat](https://www.llamachat.app/) - Llama AI Chat
-* [DiffusionBee](https://diffusionbee.com/) - Local AI Frontend / [Github](https://github.com/divamgupta/diffusionbee-stable-diffusion-ui) / [Discord](https://discord.com/invite/t6rC5RaJQn)
+* [DiffusionBee](https://diffusionbee.com/) - Local AI Frontend / [GitHub](https://github.com/divamgupta/diffusionbee-stable-diffusion-ui) / [Discord](https://discord.com/invite/t6rC5RaJQn)
 * [MacBing](https://goodsnooze.gumroad.com/l/macbing) - Bing Chat
 * [ViennaRSS](https://www.vienna-rss.com/) - RSS Feed Reader
 * [Dialect](https://github.com/dialect-app/dialect) - Translator
@@ -507,10 +507,10 @@ Linux Gaming Guide
 * [xbar](https://xbarapp.com/) - Manage Menu Bar Items / [GitHub](https://github.com/matryer/xbar)
 * [MacLaunch](https://github.com/hazcod/maclaunch) - Manage Startup Items
 * [OnlySwitch](https://github.com/jacklandrin/OnlySwitch) - Menu Bar Toggle Switches
-* [Sloth](https://github.com/sveinbjornt/Sloth) - MacOS Process Manager
+* [Sloth](https://github.com/sveinbjornt/Sloth) - Process Manager
 * [pongoOS](https://github.com/checkra1n/pongoOS) - Mac Pre-Boot Executor
 * [Yabai](https://github.com/koekeishiya/yabai), [Amethyst](https://github.com/ianyh/Amethyst), [1Piece](https://app1piece.com/), [Spaces](https://spacesformac.xyz/), [AeroSpace](https://github.com/nikitabobko/AeroSpace), [Phoenix](https://github.com/kasper/phoenix) or [Rectangle](https://rectangleapp.com/) - Window Managers
-* [AlDente](https://github.com/davidwernhart/AlDente-Charge-Limiter) - MacOS Charging Manager
+* [AlDente](https://github.com/davidwernhart/AlDente-Charge-Limiter) - Charging Manager
 * [Unlocker](https://github.com/paolo-projects/unlocker) - VMware Unlocker
 * [USBMap](https://github.com/corpnewt/USBMap) - Map MacOS USB Ports
 * [MacVim](https://macvim.org/), [CodeEdit](https://www.codeedit.app/) or [AuroraEditor](https://auroraeditor.com/)
@@ -523,7 +523,7 @@ Linux Gaming Guide
 * [Pictogram](https://pictogramapp.com/) or [IconChamp](https://www.macenhance.com/iconchamp.html) - Custom App Icons
 * [IconSet](https://github.com/tale/iconset) or [IconChamp](https://www.macenhance.com/iconchamp.html) - Custom System Icons
 * [Manila](https://github.com/neilsardesai/Manila) - Change Folder Colors
-* [Dynamic Wallpaper Club](https://dynamicwallpaper.club/) - MacOS Dynamic Wallpaper App
+* [Dynamic Wallpaper Club](https://dynamicwallpaper.club/) - Dynamic Wallpaper App
 * [wallpapper](https://github.com/mczachurski/wallpapper) - Dynamic Wallpaper Creator
 * [Plash](https://github.com/sindresorhus/Plash) - Use Website as Wallpaper
 * [100 macOS Screensavers](https://github.com/bjdehang/100-macos-screensavers) - Minimalist Screensavers
@@ -564,7 +564,7 @@ Linux Gaming Guide
 * [Comet](https://apps.apple.com/us/app/comet-for-reddit/id1146204813) or [RedditOS](https://github.com/Dimillian/RedditOS) - Reddit Client
 * [Manta](https://github.com/hql287/Manta) - Invoice Manager
 * [Grayscale Mode](https://github.com/rkbhochalya/grayscale-mode) - Grayscale Control
-* [MacOSIcons](https://macosicons.com/) - MacOS Icons
+* [MacOSIcons](https://macosicons.com/) - Icons
 * [equinux](https://equinux.github.io/) - OS X Certificate Fix
 * [Lilu](https://github.com/acidanthera/Lilu) - Kext / Process Patcher
 * [JenV](https://www.jenv.be/) - Java Environment Manager / [GitHub](https://github.com/jenv/jenv)

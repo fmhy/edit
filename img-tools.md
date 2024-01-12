@@ -230,10 +230,10 @@
 * 🌐 **[Awesome GIF](https://rentry.co/ccuz3)** - GIF Resources / [GitHub](https://github.com/davisonio/awesome-gif)
 * 🌐 **[Online GIF Tools](https://onlinegiftools.com/)** - GIF Tools
 * [Giphy](https://giphy.com/), [Gifer](https://gifer.com/en), [Curlie GIFs](https://curlie.org/en/Computers/Graphics/Web/Free/Animated_GIFs), [GIFs Paradise](https://www.gifs-paradise.com/), [GifCities](https://gifcities.org/), [LottieFiles](https://lottiefiles.com/), [reactiongifs](https://www.reactiongifs.us/), [reactiongifs](https://reactiongifs.me/), [reactiongifs](http://www.reactiongifs.com/), [bestanimations](https://bestanimations.com/), [Animations](https://bleuje.com/animationsite/), [GIFBin](https://gifbin.com/), [ForGIFs](http://forgifs.com/) or [Animated Images](https://www.animatedimages.org/) - View / Download GIFs 
-* [/r/HighQualityAnimeGifs](https://www.reddit.com/r/HighQualityAnimeGifs/) or [/r/animegifs](https://www.reddit.com/r/animegifs/) -  View / Download Anime GIFs 
+* [/r/HighQualityAnimeGifs](https://www.reddit.com/r/HighQualityAnimeGifs/) or [/r/animegifs](https://www.reddit.com/r/animegifs/) - View / Download Anime GIFs 
 * [Glittereyez](http://ge.silentears.net/) - Glitter GIFs
 * [EZGif](https://ezgif.com/), [GIFCurry](https://lettier.github.io/gifcurry/) / [GitHub](https://github.com/lettier/gifcurry), [Giflr](https://giflr.com/), [QGifer](https://sourceforge.net/projects/qgifer/), [GIFMemes](https://gifmemes.io/), [GIFnText](https://www.gifntext.com/), [makeagif](https://makeagif.com/), [Gifsicle](http://www.lcdf.org/gifsicle/) or [Pixteller](https://pixteller.com/) - GIF Creators / Editors
-* [EatMyArt](https://www.eatmy.art/), [DrawIsland](https://drawisland.com/) or  [Sketch Machine](https://sketchmachine.net/) - Create GIFs from Drawings
+* [EatMyArt](https://www.eatmy.art/), [DrawIsland](https://drawisland.com/) or [Sketch Machine](https://sketchmachine.net/) - Create GIFs from Drawings
 * [Kinegram](https://kinegram.app/) - Kinegram GIF Creator
 * [gifify](https://github.com/vvo/gifify) - Video to GIF Converter
 * [GifRun](https://gifrun.com/) - Make GIFs from Online Videos
@@ -254,7 +254,7 @@
 * [ImgFlip](https://imgflip.com/memegenerator), [Meme Generator](https://www.memegenerator.top/), [Meme Town](https://meme.town/), [MemeBetter](https://memebetter.com/), [meme-generator](https://newfastuff.com/meme-generator/) or [Emacs Meme Generator](https://github.com/larsmagne/meme) - Meme Creators
 * [MemeCam](https://www.memecam.io/) - AI Meme Generator
 * [Memegine](https://memegine.com/) - Meme Search Engine
-* [MemeAtlas](https://www.memeatlas.com/) or [Templates](https://drive.google.com/drive/folders/1Z4PSi2XmZ6x8I891xZSg5Cl4oNEOIRhh)  - Meme Templates
+* [MemeAtlas](https://www.memeatlas.com/) or [Templates](https://drive.google.com/drive/folders/1Z4PSi2XmZ6x8I891xZSg5Cl4oNEOIRhh) - Meme Templates
 * [iFake](https://ifaketextmessage.com/) - Make Fake Text Conversation
 * [Wojak Paradise](https://wojakparadise.net/) - Wojak Gallery
 * [Frinkiac](https://frinkiac.com/) - Simpsons Meme Generator 
@@ -289,7 +289,7 @@
 * [Noodle](https://hundredrabbits.itch.io/noodle) - 1bit Sketch Tool
 * [HeavyPaint](https://www.heavypaint.com/) - Water Color Painting
 * [ScribbleDiffusion](https://scribblediffusion.com/) - Turn Doodles into Artwork
-* [MonsterMash](https://monstermash.zone/) - Sketch Based Modeling & Animation Tool
+* [MonsterMash](https://monstermash.zone/) - Sketch-Based Modeling & Animation Tool
 * [Perfect Freehand](https://perfect-freehand-example.vercel.app/) - Draw Free Hand Lines / [GitHub](https://github.com/steveruizok/perfect-freehand)
 * [minimator](https://minimator.app/) - Create Grid Based Drawings
 * [JacksonPollock](https://www.jacksonpollock.org/) - Splatter Painting / Click to Change Color
@@ -339,10 +339,10 @@
 * [Dezoomify](https://dezoomify.ophir.dev/) - Download Zoomable Images
 * [Have I Been Trained?](https://haveibeentrained.com/) - AI Image Search
 * [Clip Retrieval](https://rom1504.github.io/clip-retrieval/) - Clip Retrieval System
-* [RootAbout](https://rootabout.com/) - Archive / OpenlLibrary Reverse Image Search
+* [RootAbout](https://rootabout.com/) - Archive / OpenLibrary Reverse Image Search
 * [PicTriev](http://www.pictriev.com/) - Find Look-Alike Images
 * [PimEyes](https://pimeyes.com/en/) - Reverse Face Image Search
-* [Multicolr](https://labs.tineye.com/multicolr/) - Color Based Reverse Image Search
+* [Multicolr](https://labs.tineye.com/multicolr/) - Color-Based Reverse Image Search
 * [pfps.gg](https://pfps.gg/) - Profile Picture Index
 * [OpenMoji](https://openmoji.org/) - Emojis
 * [PixelJoint](https://pixeljoint.com/) - Pixel Art
@@ -368,7 +368,7 @@
 * 🌐 **[Awesome Stock Resources](https://github.com/neutraltone/awesome-stock-resources#photography)** - Stock Photo Index
 * ⭐ **[EveryPixel](https://www.everypixel.com/)** or [LibreStock](https://librestock.com/) - Stock Photo Search Engines
 * ⭐ **[GetPaidStock](https://getpaidstock.com/)**, **[Downloader.la](https://downloader.la/)**, [VisualHunt](https://visualhunt.com/) or [istock](https://istock.7xm.xyz/) - Download Paid Stock Photos for Free
-* [Smithsonian Open Access](https://www.si.edu/OpenAccess) - Smithsonian High Quality Photos
+* [Smithsonian Open Access](https://www.si.edu/OpenAccess) - Smithsonian High-Quality Photos
 * [desirefx](https://desirefx.me/category/stock_images/) - Stock Photo Overlays
 * [creativity103](https://creativity103.com/) - Abstract Background Photos
 * [freenaturestock](https://freenaturestock.com/) - Nature Photos
@@ -397,8 +397,8 @@
 * ⭐ **[Pixiv](https://www.pixiv.net/)** - Japanese Fanart
 * ⭐ **Pixiv Tools** - [Downloader](https://chromewebstore.google.com/detail/pixiv-toolkit/ajlcnbbeidbackfknkgknjefhmbngdnjen), [2](https://github.com/Nandaka/PixivUtil2), [3](https://github.com/xuejianxianzun/PixivBatchDownloader), [4](https://greasyfork.org/en/scripts/432150-pixiv-downloader) / [Mobile App](https://github.com/alphasp/pxview) / [Rankings](https://pixiv.navirank.com/) / [Viewer](https://pixiv.pics/) / [Preview](https://github.com/NightLancer/PixivPreview), [2](https://github.com/ppixiv/ppixiv)
 * ⭐ **[Danbooru](https://danbooru.donmai.us/)** / [SFW Only](https://safebooru.donmai.us/), [Sankaku Complex](https://chan.sankakucomplex.com/) or [yande.re](https://yande.re/) - Anime-Style Image Booru / [Donwloader](https://github.com/kuanyui/BooruShinshi)
-* ⭐ **[hydrus](https://hydrusnetwork.github.io/hydrus/)** - Booru-Style Media Tagger / [Github](https://github.com/hydrusnetwork/hydrus)
-* ⭐ **[booruwf](https://booru.pixiv.pics/)** - Booru Aggregator / [Alternate Layout](https://moeview.pixiv.pics/) / [Github](https://github.com/asadahimeka/booruwf-web)
+* ⭐ **[hydrus](https://hydrusnetwork.github.io/hydrus/)** - Booru-Style Media Tagger / [GitHub](https://github.com/hydrusnetwork/hydrus)
+* ⭐ **[booruwf](https://booru.pixiv.pics/)** - Booru Aggregator / [Alternate Layout](https://moeview.pixiv.pics/) / [GitHub](https://github.com/asadahimeka/booruwf-web)
 * [ArtStation](https://www.artstation.com/) / [Downloader](https://github.com/findix/ArtStationDownloader)
 * [Gelbooru](https://gelbooru.com/), [Safebooru](https://safebooru.org/) or [TBIB](https://tbib.org/) - Image Boorus
 * [icons8](https://icons8.com/illustrations), [3D Illustrations](https://3d.khagwal.co/), [3dbay](https://clouddevs.com/3dbay/) or [NS-illustration-pack](https://github.com/nsobolewart/NS-illustration-pack) - 3D Illustrations
@@ -664,7 +664,7 @@
 * [Sorted CSS Colors](https://enes.in/sorted-colors/) - Find Similar CSS Colors
 * [Color Hunt](https://colorhunt.co/), [COLOURlovers](https://www.colourlovers.com/), [SchemeColor](https://www.schemecolor.com/), [Culrs](https://culrs.com/) or [Colorffy](https://colorffy.com/) - Find Color Palettes
 * [Adobe Color](https://color.adobe.com/) - Find Color Palettes with Color Wheel
-* [Color Lisa](https://colorlisa.com/) - Find Art Based Color Palettes
+* [Color Lisa](https://colorlisa.com/) - Find Art-Based Color Palettes
 * [Color Leap](https://colorleap.app/) - Find Historical Color Palettes
 * [COLORWISE](https://colorwise.io/) - Find Color Palettes from Product Hunt Products
 
@@ -680,7 +680,7 @@
 * [CryptoStego](https://github.com/zeruniverse/CryptoStego), [StegOnline](https://stegonline.georgeom.net/image), [OpenStego](https://www.openstego.com/), [OpenPuff](https://embeddedsw.net/OpenPuff_Steganography_Home.html), [Steganography-PNG](https://pedrooaugusto.github.io/steganography-png/) / [GitHub](https://github.com/pedrooaugusto/steganography-png), [ImSter](https://github.com/DJayalath/ImSter), [stegano](https://bztsrc.gitlab.io/stegano/) or [stegpy](https://github.com/dhsdshdhk/stegpy) - Images Steganography Tools
 * [Aperisolve](https://aperisolve.fr/), [2](https://www.aperisolve.com/) - Steganography Analysis Tool
 * [Unredacter](https://github.com/BishopFox/unredacter) - Crack Pixelated Images
-* [Redacted](https://redacted.app/)  - Blur, Pixelate or Blackout parts of Images
+* [Redacted](https://redacted.app/) - Blur, Pixelate or Blackout parts of Images
 * [Image Scrubber](https://everestpipkin.github.io/image-scrubber/)- Blur Images / Scrub Metadata
 * [Schizoware](https://sourceforge.net/projects/schizoware/) - Image Name / Hash Randomizer
 * [BetterCensorship](https://bc.betterrepack.com/) - Censor and De-censor Images

@@ -22,7 +22,7 @@
 * [Vim Cheatsheet](https://i.ibb.co/FbdMMHN/460e75dd8543.png) or [rTorr](https://vim.rtorr.com/) - Vim Editor Cheat Sheets
 * [VimTip](https://vim.fandom.com/wiki/Category:VimTip) - Vim Editor Tips
 * [Underdash](https://surma.github.io/underdash/) - JS Snippets
-* [Github Cheat Sheet](https://github.com/tiimgreen/github-cheat-sheet) - GitHub Cheat Sheet
+* [GitHub Cheat Sheet](https://github.com/tiimgreen/github-cheat-sheet) - GitHub Cheat Sheet
 * [HTML.com](https://html.com/) - HTML Guide / Cheat Sheet
 * [SEO Cheet Sheet](https://seo-cheat-sheet.9elements.com/) - SEO Cheet Sheet
 
@@ -45,7 +45,7 @@
 * [DZone](https://dzone.com/) - Developer Tutorials
 * [RedHat](https://developers.redhat.com/) - Development Tutorials
 * [Dev.tube](https://dev.tube/) - Developer Talks
-* [Roadmap](https://roadmap.sh/) - Developer Roadmaps / [Github](https://github.com/kamranahmedse/developer-roadmap)
+* [Roadmap](https://roadmap.sh/) - Developer Roadmaps / [GitHub](https://github.com/kamranahmedse/developer-roadmap)
 * [Programming Challenges](https://i.ibb.co/J3ppPQ3/5bdea0d754ac.png), [DevPost](https://devpost.com/), [HackTheEarth](https://www.hackerearth.com/challenges/), [EMKC](https://emkc.org/challenges) or [Code Golf](https://codegolf.stackexchange.com/) - Programming Challenges
 * [AtCoder](https://atcoder.jp/) or [Toph.co](https://toph.co/) - Programming Competitions
 * [Coding Problems](https://github.com/MTrajK/coding-problems) or [Rosetta Code](https://rosettacode.org/wiki/Rosetta_Code) - Solutions for Coding Problems
@@ -81,14 +81,14 @@
 * [Learn Perl](https://www.learn-perl.org/) - Learn Perl
 * [Rust Learning](https://github.com/ctjhoa/rust-learning) - Rust Learning Resources
 * [explaine.rs](https://jrvidal.github.io/explaine.rs/) - Rust Syntax Explanation
-*  [Simple Regex](https://simple-regex.com/), [learn-regex](https://github.com/ziishaned/learn-regex), [ReFrF](https://refrf.dev/), [Regex.info](http://regex.info/), [ReGexOne](https://regexone.com/), [RegExr](https://regexr.com/) or [RegexLearn](https://regexlearn.com/) - Learn Regex
+* [Simple Regex](https://simple-regex.com/), [learn-regex](https://github.com/ziishaned/learn-regex), [ReFrF](https://refrf.dev/), [Regex.info](http://regex.info/), [ReGexOne](https://regexone.com/), [RegExr](https://regexr.com/) or [RegexLearn](https://regexlearn.com/) - Learn Regex
 * [High Assurance Rust](https://highassurance.rs/) - Software Development Guide
 * [LearnOpenGL](https://learnopengl.com/) - Learn OpenGL
 * [Devops Exercises](https://github.com/bregman-arie/devops-exercises) - DevOps Exercises
 * [90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps) - Learn DevOps
 * [Learn SQL](https://sqlbolt.com/) - SQL Lessons
 * [SQL PD](https://sqlpd.com/) - SQL Learning Game
-* [PostgreSQL Tutorial](https://www.postgresqltutorial.com/) - PostgreSQL Tutorial
+* [PostgreSQL Tutorial](https://www.postgresqltutorial.com/) - PostgresSQL Tutorial
 * [MySQL Tutorial](https://www.mysqltutorial.org/) - MySQL Tutorial
 * [Hasura](https://hasura.io/learn/) - GraphQL Courses
 * [systemd-by-example](https://systemd-by-example.com/) - Systemd Learning
@@ -375,7 +375,7 @@
 * [DNSDumpster](https://dnsdumpster.com/), [DNS Watch](https://dnswatch.info) or [WhatsMyDNS](https://whatsmydns.net/) - DNS Lookup / Security
 * [Plow](https://github.com/six-ddc/plow) - HTTP Benchmarking
 * [IPv6 Leak Test](https://ip6.nl/), [Test-IPv6](https://test-ipv6.com/) or [IPv6 Test](https://ipv6-test.com/) - IPV6 Test
-* [How-To Turn off IPv6](https://www.itechguides.com/disable-ipv6-windows-10/) - Prevent IPv6 Leaks
+* [How To Turn off IPv6](https://www.itechguides.com/disable-ipv6-windows-10/) - Prevent IPv6 Leaks
 * [Flounder](https://flounder.online/) - Gemini Website Builder
 * [Transform](https://transform.tools/) - Polyglot Web Converter
 * [Framer](https://www.framer.com/) - Interactive Site / App Design Tool
@@ -450,12 +450,12 @@
 * [tengine](https://github.com/alibaba/tengine) - NGINX with Extra Features
 * [Nginx-Admins-Handbook](https://github.com/trimstray/nginx-admins-handbook) - Improve NGINX Performance
 * [Visual CSS Editor](https://chromewebstore.google.com/detail/visual-css-editor/cibffnhhlfippmhdmdkcfecncoaegdkh) - WordPress Site Designer
-* [Mantiq](https://wpmantiq.com/) - Wordpress Visual Backend
-* [WPSQLite](https://github.com/hasinhayder/wpsqlite) or [LocalWP](https://localwp.com) - Wordpress Site Deployment Tools
+* [Mantiq](https://wpmantiq.com/) - WordPress Visual Backend
+* [WPSQLite](https://github.com/hasinhayder/wpsqlite) or [LocalWP](https://localwp.com) - WordPress Site Deployment Tools
 * [Nulled Scripts](https://www.null-scripts.net/), [NullJungle](https://nulljungle.com/) or [Null PHP Script](https://nullphpscript.com/) - Nulled Scripts
-* [faustjs](https://github.com/wpengine/faustjs) - Wordpress Framework
+* [faustjs](https://github.com/wpengine/faustjs) - WordPress Framework
 * [Timber](https://upstatement.com/timber/) - WordPress Theme Creator / [GitHub](https://github.com/timber/timber)
-* [KokoAnalytics](https://www.kokoanalytics.com/) - Wordpress Analytics
+* [KokoAnalytics](https://www.kokoanalytics.com/) - WordPress Analytics
 * [UUID Tools](https://www.uuidtools.com/) - UUID Generator
 
 ***
@@ -656,7 +656,7 @@
 * [Read the Docs](https://about.readthedocs.com/), [MkDocs](https://www.mkdocs.org/), [Mintlify](https://mintlify.com/) or [mkdocstrings](https://github.com/mkdocstrings/mkdocstrings) - Documentation Creators / [Theme](https://github.com/squidfunk/mkdocs-material)
 * [ZealDocs](https://zealdocs.org/) - Offline Document Viewer
 * [Changie](https://changie.dev/) - Automated Changelog / [GitHub](https://github.com/miniscruff/changie)
-* [ChooseALicense](https://choosealicense.com/) - List of Open Source License's & Help Choosing Them 
+* [ChooseALicense](https://choosealicense.com/) - List of Open Source Licenses & Help Choose Them 
 * [PrivacyPolicyTemplate](https://www.privacypolicytemplate.net/) or [PrivacyLabel](https://www.privacylabel.org/) - Generate Privacy Policies
 * [OpenSSH](https://www.openssh.com/) or [Eternal Terminal](https://eternalterminal.dev/) - SSH Clients / Server
 * [PuTTY](https://www.putty.org/), [2](https://www.chiark.greenend.org.uk/~sgtatham/putty/) - SSH & Telnet Client / [Multi-Tab](https://ttyplus.com/) / [Fork](https://www.9bis.net/kitty/#!index.md) / [GitHub](https://github.com/cyd01/KiTTY/)
@@ -986,7 +986,7 @@
 
 * 🌐 **[GitHub Awesome](https://app.polymersearch.com/discover/github-awesome)**, [OSS Insight](https://ossinsight.io/), [grep.app](https://grep.app/), [awesome-lis](https://github.com/topics/awesome-list), or [awesome-github](https://github.com/fffaraz/awesome-github) - GitHub Project Indexes
 * 🌐 **[Awesome First PR Oppotunities](https://github.com/MunGell/awesome-for-beginners)** - Beginner FOSS Project Index
-* 🌐 **[Awesome Actions](https://github.com/sdras/awesome-actions)** - Github Action Resources
+* 🌐 **[Awesome Actions](https://github.com/sdras/awesome-actions)** - GitHub Action Resources
 * 🌐 **[Awesome Browser Extensions](https://stefanbuck.com/awesome-browser-extensions-for-github)** - GitHub Browser Extensions
 * 🌐 **[Awesome Badges](https://dev.to/envoy_/150-badges-for-github-pnk)** - GitHub Badge Resources
 * 🌐 **[GitHub-Userscripts](https://github.com/Mottie/GitHub-userscripts)** - GitHub Userscripts
@@ -1026,10 +1026,10 @@
 * [ReadmeGallery](https://felixhayashi.github.io/ReadmeGalleryCreatorForGitHub/) - GitHub ReadMe Gallery Creator
 * [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats) - Dynamically Generated GitHub ReadMe Stats 
 * [GitHub Contribution Graph](https://github.com/ez4o/github-contribution-graph) - Add GitHub ReadMe Contribution / Commit Graph
-* [Github Readme Quotes](https://github.com/shravan20/github-readme-quotes) - GitHub ReadMe Quote Generator
+* [GitHub Readme Quotes](https://github.com/shravan20/github-readme-quotes) - GitHub ReadMe Quote Generator
 * [Shields.io](https://shields.io/) - Metadata badges for GitHub ReadMes
 * [SkillIcons](https://skillicons.dev/) - Skill Badges for GitHub ReadMes / Resumes
-* [GitHub Spray](https://github.com/Annihil/github-spray) - Draw on Github Contribution Page
+* [GitHub Spray](https://github.com/Annihil/github-spray) - Draw on GitHub Contribution Page
 * [GitHub Snake](https://dev.to/mishmanners/how-to-enable-github-actions-on-your-profile-readme-for-a-contribution-graph-4l66) - Enable Snake Game on GitHub Readme
 * [GitHub Profile README Generator](https://rahuldkjain.github.io/gh-profile-readme-generator/) or [GPRM](https://gprm.itsvg.in/) - Generate Git Profile Readme
 * [GitStalk](https://gitstalk.netlify.app/) - GitHub Profile Info Search
@@ -1039,7 +1039,7 @@
 * [github-material-icons-extension](https://github.com/Claudiohbsantos/github-material-icons-extension) - Material Icons
 * [gist.io](https://gist.io/) - Git Blog Platform
 * [OpenHub](https://github.com/ThirtyDegreesRay/OpenHub), [diohub](https://github.com/NamanShergill/diohub), [Fasthub-Libre](https://github.com/thermatk/FastHub-Libre), [FastHub-RE](https://github.com/LightDestory/FastHub-RE), or [OctoDroid](https://github.com/slapperwan/gh4a) - Android GitHub Clients
-* [GithubVisualizer](https://github.com/DheerajKotwani/GithubVisualizer) - Track Github User Activity on Android
+* [GithubVisualizer](https://github.com/DheerajKotwani/GithubVisualizer) - Track GitHub User Activity on Android
 
 ***
 ***
@@ -1094,7 +1094,7 @@
 * [OneLang IDE](https://ide.onelang.io/) - Convert Code to Multiple Languages
 * [Autosaved](https://github.com/nikochiko/autosaved) - Autosave Code / [GitHub](https://github.com/tkellogg/dura)
 * [Tasuku](https://github.com/privatenumber/tasuku) - Node.js Task Runner
-* [OctoLinker](https://octolinker.vercel.app/) - Turn Code Statements into Links / [Github](https://github.com/OctoLinker/OctoLinker)
+* [OctoLinker](https://octolinker.vercel.app/) - Turn Code Statements into Links / [GitHub](https://github.com/OctoLinker/OctoLinker)
 * [Qovery](https://www.qovery.com/) - AWS Development Platform
 * [I run code](https://github.com/engineer-man/piston-bot) - Evaluate Code Snippets via Discord
 * [Shell Cloud](https://shell.cloud.google.com/) - Google Cloud Shell Environment
@@ -1197,7 +1197,7 @@
 * [WiredJS](https://wiredjs.github.io/designer/) - Wireframe Designer
 * [pueue](https://github.com/Nukesor/pueue) - Shell Command Manager
 * [Melody](https://yoav-lavi.github.io/melody/book/) - Programming Language to compile Regex / [GitHub](https://github.com/yoav-lavi/melody)
-* [Emojicode](https://www.emojicode.org/) - Emoji Based Programming Language
+* [Emojicode](https://www.emojicode.org/) - Emoji-Based Programming Language
 * [Crystalline](https://github.com/elbywan/crystalline) - Crystal Language Server
 * [icr](https://github.com/crystal-community/icr) - REPL for Crystal
 * [QBasic](https://www.qbasic.net/) - QBasic / QuickBASIC Programming Language Resources
@@ -1512,7 +1512,7 @@
 * [GPTCache](https://github.com/zilliztech/GPTCache) - LLM Response Cache
 * [OpenCog](https://opencog.org/) or [AForge](https://github.com/andrewkirillov/AForge.NET) - Artificial Intelligence Frameworks
 * [Nixified](https://nixified.ai/) - Nix Flake for AI Projects
-* [Approaching (Almost) Any Machine Learning Problem](https://github.com/abhishekkrthakur/approachingalmost/blob/master/AAAMLP.pdf) - Machine Learning Problem Solving Book
+* [Approaching (Almost) Any Machine Learning Problem](https://github.com/abhishekkrthakur/approachingalmost/blob/master/AAAMLP.pdf) - Machine Learning Problem-Solving Book
 * [MetaAcademy](https://metacademy.org/), [Beginner Guides](https://microsoft.github.io/generative-ai-for-beginners/) or [HF Learn](https://huggingface.co/learn) - Machine Learning Guides
 * [ML Course Notes](https://github.com/dair-ai/ML-Course-Notes) - Machine Learning Course Notes
 * [100-Days-Of-ML-Code](https://github.com/Avik-Jain/100-Days-Of-ML-Code) or [Practical Deep Learning](https://course.fast.ai/) - Machine Learning Coding Lessons 

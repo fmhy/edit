@@ -121,7 +121,7 @@
 * [Recipe Search](https://recipe-search.typesense.org/) - Recipe Search
 * [RecipeRadar](https://www.reciperadar.com/) - Recipe Search
 * [Yummly](https://www.yummly.com/) - Recipe Search
-* [Recipeeper](https://www.recipeeper.com/) - Dietary Based Recipes
+* [Recipeeper](https://www.recipeeper.com/) - Dietary-Based Recipes
 * [TasteAtlas](https://www.tasteatlas.com/) - Recipe Map
 * [CookingForEngineers](https://www.cookingforengineers.com/) - Recipes / Cooking Tests
 * [Dish Dragon AI](https://www.dishdragon.ai/) - Find Ingredients That Go Well Together
@@ -130,7 +130,7 @@
 * [Cheese.com](https://cheese.com/) - Cheese Resources
 * [AmazingRibs](https://amazingribs.com/) - Rib Recipes
 * [The Bread Code Manifesto](https://github.com/hendricius/the-sourdough-framework) - Bread Baking Recipes 
-* [Coffee or Bust!](https://www.coffeeorbust.com/) - Coffee Making Guides
+* [Coffee or Bust!](https://www.coffeeorbust.com/) - Coffee-Making Guides
  * [NahBucks](https://nahbucks.com/) - Find Local Non-Starbucks Coffee Shops
 * [Coffee Flavor Wheel](https://notbadcoffee.com/flavor-wheel-en/) - Interactive Coffee Flavor Wheel
 * [DrinNnation](https://www.drinknation.com/bar) or [MyBar](https://makemeacocktail.com/mybar/) - Cocktail Builders
@@ -344,7 +344,7 @@
 * [CBM](https://comicbookmovie.com/) - Comic / Movie / TV News
 * [Anime News Network](https://www.animenewsnetwork.com/) - Anime News
 * [Anime Corner](https://animecorner.me/) - Anime / Manga News
-* [Interactive News Map](https://usa.liveuamap.com/) or [Atlas Politica](https://www.atlaspolitica.com/) - Geolocated News Alerts / Headlines U.S
+* [Interactive News Map](https://usa.liveuamap.com/) or [Atlas Politica](https://www.atlaspolitica.com/) - Geolocated News Alerts / Headlines U.S.
 * [MedicineNet](https://www.medicinenet.com/), [MedPageToday](https://www.medpagetoday.com/), [EverydayHealth](https://www.everydayhealth.com/), [Medscape](https://www.medscape.com/), [healthline](https://www.healthline.com/) or [WebMD](https://www.webmd.com/) - Health News
 * [SciURLs](https://sciurls.com/), [NewScientist](https://www.newscientist.com/), [Nature](https://www.nature.com/), [Science](https://www.science.org/), [PopSci](https://www.popsci.com/), [Useful Science](https://usefulscience.org/), [ScienceDaily](https://www.sciencedaily.com/), [EurekAlert](https://www.eurekalert.org/) or [LiveScience](https://livescience.com/) - Science News
 * [MathURLs](https://mathurls.com/) - Math News
@@ -405,7 +405,7 @@
 * 🌐 **[Awesome Mental Health](https://github.com/dreamingechoes/awesome-mental-health)** or [mentalillnessmouse](https://mentalillnessmouse.wordpress.com/helpfulresources/) - Mental Health Resources
 * ⭐ **[The Integral Guide to Well-Being](https://integralguide.com/)** - Mental Health Guide
 * [Nomie](https://v5.nomie.app/), [Koduko](https://github.com/Mazahir26/koduko) or [Respawn](https://respawn.pro/) - Habit / Mood Trackers
-* [You feel like shit.](https://philome.la/jace_harr/you-feel-like-shit-an-interactive-self-care-guide/play/index.html) - Interactive Self Care Guide
+* [You feel like shit.](https://philome.la/jace_harr/you-feel-like-shit-an-interactive-self-care-guide/play/index.html) - Interactive Self-Care Guide
 * [deskspace](https://npckc.itch.io/deskspace) - Self-Care App
 * [Mindfulness Coach](https://mobile.va.gov/app/mindfulness-coach) - Mindfulness / Stress Reduction Tips
 * [Coping Skills Masterlist](https://docs.google.com/document/d/1KI1kzj6Bjx_O3ggYXfgEuTtOsLiCW0V-JeWpTyX5OOU/) - Mental Health Coping Skills
@@ -538,7 +538,7 @@
 * 🌐 **[Common Q&As](https://www.indeed.com/career-advice/interviewing/top-interview-questions-and-answers)** - Interview Questions Index
 * ↪️ **[Collaboration Platforms](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_collaboration_platforms)**
 * ⭐ **[5000 Best Job Sites](http://5000best.com/websites/Jobs/)** or [Indeed](https://www.indeed.com/) - Job Search Sites
-* ⭐ **[4 day week](https://4dayweek.io/) - Find Jobs with 4 Day Weeks
+* ⭐ **[4-day week](https://4dayweek.io/) - Find Jobs with 4-Day Weeks
 * ⭐ **[Comparably](https://www.comparably.com/)** or [GoodFirms](https://www.goodfirms.co/) - Compare Companies / Salaries
 * ⭐ **[Reverse Interview](https://github.com/viraptor/reverse-interview)** or [job-interview-questions](https://github.com/lkostrowski/job-interview-questions-to-ask-companies) - Questions to Ask Potential Employers
 * ⭐ **[Kimai](https://www.kimai.org/)** - Working Hours Tracker
@@ -553,7 +553,7 @@
 * [Space Crew](https://spacecrew.com/) - Find Space Related Jobs
 * [EconJobRumors](https://www.econjobrumors.com/) - Economic Job Market Forum
 * [SocJobRumors](https://www.socjobrumors.com/) - Sociology Job Market Forum
-* [Side Hustle Stack](https://sidehustlestack.co/) - Find Platform Based Side Work
+* [Side Hustle Stack](https://sidehustlestack.co/) - Find Platform-Based Side Work
 * [The Dots](https://the-dots.com/events/search) - Online Workshops / Courses / Meetups
 * [MedusaJS](https://medusajs.com/) - Open Source Commerce Store
 * [Contact Card](https://contact-card.vercel.app/) - Contact Card Generator
@@ -658,7 +658,7 @@
 * [RailsDevs](https://railsdevs.com/) - Reverse Job Board / Rails
 * [ReallyConfused](https://reallyconfused.co/) - Tech Career Roadmaps
 * [Levels.fyi](https://www.levels.fyi/) - Tech Career Salaries
-* [LeetFree](https://doocs.github.io/leetcode/#/README_EN) / [Github](https://github.com/doocs/leetcode/blob/main/README_EN.md) - Leaked Google / Facebook / Amazon Interview Questions
+* [LeetFree](https://doocs.github.io/leetcode/#/README_EN) / [GitHub](https://github.com/doocs/leetcode/blob/main/README_EN.md) - Leaked Google / Facebook / Amazon Interview Questions
 * [Interviews.school](https://interviews.school/) or [InterviewThis](https://github.com/Twipped/InterviewThis) - Interview Preparation Guides
 * [yangshun](https://github.com/yangshun/tech-interview-handbook) - Interview Handbook
 * [Interview Warmup](https://grow.google/certificates/interview-warmup/) - Interview Practice
@@ -667,7 +667,7 @@
 * [Data.gov Resources](https://resources.data.gov/) - Data Management Tools / Training
 * [AWS re/Start](https://aws.amazon.com/training/restart/) or [AWS Training](https://www.aws.training/) - Cloud Career Training
 * [9Tut](https://www.9tut.com/) - CCNA Certification Training
-* [VCEGuide](https://vceguide.com/) - Tech Certifications Practice Tests
+* [VCEGuide](https://vceguide.com/) - Tech Certifications, Practice Tests
 * [Comptia](https://www.comptia.org/), [Cisco Training](https://www.cisco.com/c/en/us/training-events/training-certifications/certifications.html) or [UI.com](https://www.ui.com/training/) - Training / Certifications
 * [web3.career](https://web3.career/) or [FindWeb3](https://findweb3.com/) - Find Web3 Jobs
 
@@ -987,7 +987,7 @@
 * [Useless Certifications](https://uselesscertifications.com/) - Useless Certifications
 * [AwesomeCars](https://awesomecars.neocities.org/) - Drip Car Memes
 * [Anime Girls Holding Programming Books](https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books/)
-* [webgbcam](https://maple.pet/webgbcam/) - Gameboy Camera in Browser
+* [webgbcam](https://maple.pet/webgbcam/) - Game Boy Camera in Browser
 * [Terminal Video Player](https://github.com/TheRealOrange/terminalvideoplayer) - Cursed Terminal Video Player
 
 ***
@@ -1116,7 +1116,7 @@
 * [Game a-b-street](https://github.com/a-b-street/abstreet) - Traffic Simulation
 * [Kalmany](https://www.kalmany.org/) - Mock Elections
 * [Talksmi](https://talksmi.com/) - Conversation Ideas
-* [Pros 'n Cons](https://pros-cons.io/) or [Moral Machine](https://www.moralmachine.net/) - Decision Making AIs
+* [Pros 'n Cons](https://pros-cons.io/) or [Moral Machine](https://www.moralmachine.net/) - Decision-Making AIs
 * [Absurd Trolley Problems](https://neal.fun/absurd-trolley-problems/) - Vote on Different Trolley Problem Versions
 * [WhereShouldILive?](https://www.whereshouldilive.co/) - Find Out Where You Should Live
 * [Chirper](https://chirper.ai/) - AI Generated Twitter
@@ -1200,7 +1200,7 @@
 * [Deep Fried Web](https://deepfriedweb.mschfmag.com/) - Deep Fry Web Pages
 * [Skynet](https://pierrepapierciseaux.net/.skynet/?lang=en) - View Websites like they're from the 90's
 * [CameronsWorld](https://www.cameronsworld.net/) - 90's Themed Website
-* [Worlds Highest Website](https://worlds-highest-website.com/) - Worlds Longest Website
+* [World's Highest Website](https://worlds-highest-website.com/) - World's Longest Website
 * [Classic GTA Sites](https://classicgtasites.com/) - Original GTA Site
 * [Space Jam 1996](https://www.spacejam.com/1996/) - Original Space Jam Site
 * [Mario Mayhem](https://www.mariomayhem.com/) - Mario Fansite
@@ -1215,7 +1215,7 @@
 * [CSS Puns](https://saijogeorge.com/css-puns/) - CSS Puns
 * [Peter Answers](https://www.peteranswers.com/) - Create Fake Questions & Answers / [Tutorial](https://peteranswers.info/peter-answers-hack)
 * [The Santa Tracker](https://www.thesantatracker.com/) - Track Santa during Christmas
-* [April Fools Day On The Web](https://aprilfoolsdayontheweb.com/) - Find April Fools Pranks Played by Websites 
+* [April Fools Day On The Web](https://aprilfoolsdayontheweb.com/) - Find April Fools' Pranks Played by Websites 
 * [PrankHotline](https://prankhotline.com/) or [Fake All](https://apps.apple.com/us/app/fake-all-call-chat-message/id1518594150) - Phone Pranks
 * [GeekPrank](https://geekprank.com/) - Windows Pranks
 * [Update Faker](https://updatefaker.com/) - Fake System Update Prank
@@ -1249,4 +1249,4 @@
 * [Typewaiter](https://oisinmoran.com/typewaiter) - Endlessly Moving Typewriter
 * [Fontbutts](https://fontbutts.netlify.app/) - Create Butts with Different Fonts
 * [Do not open the door](http://mexicans.eu/) - Don't you dare...
-* [Dial Up Sound](https://www.dialupsound.com/) - Dial Up Sounds
+* [Dial-Up Sound](https://www.dialupsound.com/) - Dial-Up Sounds
