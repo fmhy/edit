@@ -506,10 +506,9 @@
 * [Simple Desktops](http://simpledesktops.com/), [Positron Dream](https://www.positrondream.com/) or [SetAsWall](https://www.setaswall.com/) - Minimalistic Wallpapers
 * [/r/LivingBackgrounds](https://reddit.com/r/LivingBackgrounds), [WALLegend](https://wallegend.net/en/) or [MoeWalls](https://moewalls.com/) - Animated Wallpapers
 * [DualMonitorBackgrounds](https://www.dualmonitorbackgrounds.com/) or [WallpaperFusion](https://www.wallpaperfusion.com/) - Dual Monitor Wallpapers
-* [ScreenCapped](https://screencapped.net/), [Movie Screncaps](https://movie-screencaps.com/) or [shot.cafe](https://shot.cafe/) - Movie / TV Wallpapers
+* [ScreenCapped](https://screencapped.net/), [Screencaps](https://screencaps.us/) or [shot.cafe](https://shot.cafe/) - Movie / TV Wallpapers
 * [Xbox Wallpapers](https://www.xbox.com/en-us/wallpapers/) - Game Wallpapers
 * [Anime Pictures](https://anime-pictures.net/), [N0va](https://n0vadp.hoyoverse.com), [Anime_WallpapersHD](https://t.me/Anime_WallpapersHD/), [WallpaperWaifu](https://wallpaperwaifu.com/) or [MyLiveWallpapers](https://mylivewallpapers.com/) - Anime Wallpapers
-* [AnimationScreencaps](https://animationscreencaps.com/) - Animation Wallpapers
 * [99images](https://www.99images.com/) - Celebrity Wallpapers
 * [Dracula Wallpapers](https://draculatheme.com/wallpaper) - Dracula Wallpapers
 * [Mac Walls](https://goo.gl/photos/HjY1hmo6p3jfFz8a7), [2](https://photos.google.com/share/AF1QipNNQyeVrqxBdNmBkq9ILswizuj-RYJFNt5GlxJZ90Y6hx0okrVSLKSnmFFbX7j5Mg?key=RV8tSXVJVGdfS1RIQUI0Q3RZZVhlTmw0WmhFZ2V3) - Mac Wallpapers
