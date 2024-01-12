@@ -664,35 +664,10 @@
 # ► Game Mods
 
 * ⭐ **[ChronoCrash](https://www.chronocrash.com/forum/)** - Game Modding Forum
-* [mod.io](https://www.mod.io/) - Cross Platform Game Mods Support
-* [WabbaJack](https://www.wabbajack.org/) / [Discord](https://discord.com/invite/wabbajack) - Automated Modlist Installer
-* [HedgeModManager](https://github.com/thesupersonic16/HedgeModManager) - Sonic Game Mod Manager
-* [Project Reality](https://www.realitymod.com/about) - BF2 & ARMA 2 Realism Mod
-* [BF3Reality](https://bf3reality.com/) - BF3 Realism Mod
-* [Open Carnage](https://opencarnage.net/) / [Discord](https://discord.com/invite/2pf3Yjb), [Reclaimers](https://reclaimers.net/) or [Halo Mods](https://discord.com/invite/WuurKwr) - Halo Modding Community
-* [Halo 3](https://store.steampowered.com/app/1695791/Halo_3_Mod_Tools__MCC/), [Halo 2](https://store.steampowered.com/app/1613450/Halo_2_Mod_Tools__MCC/) or [Halo CE](https://store.steampowered.com/app/1532190/Halo_CE_Mod_Tools__MCC/) - Halo Modding Tools
-* [H2Maps](https://www.h2maps.net/) - Custom Halo 2 Maps
-* [HaloMaps](http://www.halomaps.org/) - Halo CE Maps
-* [Flatout 2 Fan Patch](https://steamcommunity.com/sharedfiles/filedetails/?id=2414295888) - Flatout 2 Patches
-* [SWAT: Elite Force](https://www.moddb.com/mods/swat-elite-force) - Swat 4 Enhancement Mod
-* [SLADE](https://slade.mancubus.net/) - Doom Modding Tool / [GitHub](https://github.com/sirjuddington/SLADE)
-* [Synergy2k](https://synergy2k.net/) - NBA 2K MyCareer Mod Tool
-* [Forza Painter](https://github.com/forza-painter/forza-painter) - Import Images to Forza
-* [Open Planet](https://openplanet.dev/) - Trackmania Extension Platform
-* [Geode](https://github.com/geode-sdk/geode) - Geometry Dash Mod Loader
-* [Lethal Wiki](https://lethal.wiki/) - Lethal Company Modding Wiki
-* [Superblt](https://superblt.znix.xyz/) - Payday 2 Modding Tool
-* [Payday 2 FPS Boost](https://steamcommunity.com/sharedfiles/filedetails/?id=1933473710) - Payday 2 FPS Boost
-* [Guitar Hero World Tour: Definitive Edition](https://ghwt.de/) - Guitar Hero: World Tour Mod
-* [Audiosurf 2 Community Patch](https://audiosurf2.info/) - Audiosurf 2 Mod
-* [NFS Most Wanted AI](https://github.com/LupascuAndrei/nfs_most_wanted) - Need for Speed: Most Wanted AI / [Video](https://youtu.be/UkYxKu2pllw)
-
-***
-
-## ▷ Mod Indexes
-
 * ⭐ **[ModDB](https://moddb.com/)** - Game Mods
 * ⭐ **[Nexus Mods](https://www.nexusmods.com/)** - Game Mods / [Manager](https://github.com/Nexus-Mods/Nexus-Mod-Manager) / [Bulk Downloader](https://greasyfork.org/en/scripts/483337) / [Redirect Skip](https://greasyfork.org/en/scripts/394039)
+* [mod.io](https://www.mod.io/) - Cross Platform Game Mods Support
+* [WabbaJack](https://www.wabbajack.org/) / [Discord](https://discord.com/invite/wabbajack) - Automated Modlist Installer
 * [NextGenUpdate](https://www.nextgenupdate.com/) - Game Mods
 * [ModWorkshop](https://modworkshop.net/) - Game Mods
 * [GameFront](https://gamefront.com/) - Game Mods
