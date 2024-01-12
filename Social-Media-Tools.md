@@ -21,14 +21,14 @@
 
 # ► Discord Tools
 
-**Warning** - Misuse of chat archivers, deleters, mods & 3rd party clients is against Discords TOS, so use them at your own risk. 
+**Warning** - Misuse of chat archivers, deleters, mods & third-party clients is against Discords TOS, so use them at your own risk. 
 
 ***
 
 * 🌐 **[DiscordTools](https://discordtools.io/)** or [awesome-discord](https://github.com/jacc/awesome-discord) - Discord Tools Indexes
 * ⭐ **[x266.mov](https://x266.mov/discord-embed)**, [Stolen Shoes](https://stolen.shoes/), [autocompressor](https://autocompressor.net/) or [Discord Embedder](https://discord.nfp.is/) - Embed Videos on Discord
 * ⭐ **[Revolt](https://revolt.chat/)** / [Bots](https://rvlt.gg/discover/bots) / [Resources](https://github.com/insertish/awesome-revolt) / [Divolt Resources](https://github.com/ggtylerr/awesome-divolt) or **[Guilded](https://www.guilded.gg/)** / [Mod](https://github.com/ReGuilded/ReGuilded/) - Discord Alternatives
-* [Multi-Accounts 1 Email](https://rentry.co/altmethod) - Create Multiple Accounts on One Email
+* [Multi-Accounts 1 Email](https://rentry.co/altmethod) - Create Multiple Accounts with One Email
 * [AnswersOverflow](https://www.answeroverflow.com/) - Discord Search Engine
 * [DiscordFS](https://github.com/dhrumilp15/haystackfs) - Discord File Search
 * [Discord Downloader Go](https://github.com/get-got/discord-downloader-go) - Discord File Downloader
@@ -50,7 +50,7 @@
 * [discord-badges](https://github.com/mezotv/discord-badges) - Discord Badges Image Files
 * [SunnyDiscord](https://gist.github.com/TheSunCat/58fedaa19d6154ef3e4b2b676c286906) or [Discord Adblock](https://github.com/CroissantDuNord/discord-adblock) - Hide Nitro / Boost Upsells
 * [Discord Creation Date Check](https://hugo.moe/discord/discord-id-creation-date.html) / [GitHub](https://github.com/hugonun/discordid2date) - Check Creation Date of User / Channel / Server
-* [Discord Lookup](https://discord.id/) - Lookup a Discord User or Bot ID
+* [Discord Lookup](https://discord.id/) - Look up a Discord User or Bot ID
 * [Guild Counter](https://rauf.wtf/guildcount) - Check How Many Servers You're In
 * [Discord Dev Badges](https://pastebin.com/JzrckCix), [active-developer-badge](https://github.com/hackermondev/discord-active-developer-badge) or [GiveMeBadge](https://github.com/AlexFlipnote/GiveMeBadge) - Unlock Discord Dev Badges / [Script](https://gist.github.com/Raraph84/cff3ff908a1f2692b9a8452d2f49c2bf)
 * [Discord-Api](https://discord.gg/discord-api) - Discord API Chat
@@ -94,10 +94,10 @@
 * [discord-vscode](https://marketplace.visualstudio.com/items?itemName=icrawl.discord-vscode) - VSCode Rich Presence / [GitHub](https://github.com/iCrawl/discord-vscode)
 * [Old Layout](https://gist.github.com/aamiaa/fbf6e51dbb8875a781a3d8d76fc3f3e7) - Revert New Discord Layout
 * [ChromaDiscordApp](https://github.com/tgraupmann/ChromaDiscordApp) - Chroma Light for Discord
-* [Overlayed](https://overlayed.dev/) - Alternative Discord VC Overlay / [Github](https://github.com/Hacksore/overlayed)
+* [Overlayed](https://overlayed.dev/) - Alternative Discord VC Overlay / [GitHub](https://github.com/Hacksore/overlayed)
 * [Acrylic](https://github.com/uwu/Acrylic) - Glass Theme
 * [WinClassic](https://github.com/SlippingGittys-Discord-Themes/WinClassic) - Classic Windows Theme
-* [PreMiD](https://premid.app/) - Display Web Activity in Discord Status / [Github](https://github.com/PreMiD/PreMiD) / [Discord](https://discord.premid.app/)
+* [PreMiD](https://premid.app/) - Display Web Activity in Discord Status / [GitHub](https://github.com/PreMiD/PreMiD) / [Discord](https://discord.premid.app/)
 * [BeautifulDiscord](https://github.com/leovoel/BeautifulDiscord) - Custom CSS Support 
 * [ansi-colors-discord.md](https://gist.github.com/kkrypt0nn/a02506f3712ff2d1c8ca7c9e0aed7c06) - Discord ANSI Text Guide
 * [Coloured-Text-Generator](https://rebane2001.com/discord-colored-text-generator/) - Discord ANSI Text Generator
@@ -315,7 +315,7 @@
 * ⭐ **[Fast Forward YouTube Shorts](https://greasyfork.org/en/scripts/466438)** - Add Skip Keys to Shorts
 * [youtube-shorts](https://letsblock.it/filters/youtube-shorts), [shorts-deflector](https://github.com/attituding/shorts-deflector), [Remove YouTube Shorts](https://github.com/raven0230/Remove-Youtube-Shorts) or [youtube-shorts-block](https://github.com/doma-itachi/Youtube-shorts-block) - Hide YouTube Shorts
 * [uBO-bypass-yt](https://drhyperion451.github.io/does-uBO-bypass-yt/) - Check if uBlock Filters are Bypassing YouTube Anti-Adblock
-* [Youtube_Subs_Bot](https://t.me/youtube_subs_bot) - Sub to Channels Without Account
+* [YouTube_Subs_Bot](https://t.me/youtube_subs_bot) - Sub to Channels Without Account
 * [YouTube Spammer Purge](https://github.com/ThioJoe/YT-Spammer-Purge) - Delete All YouTube Spam Comments / [Domain List](https://github.com/ThioJoe/YT-Spam-Lists)
 * [Age Restriction Bypass](https://github.com/zerodytrash/Simple-YouTube-Age-Restriction-Bypass) / [2](https://greasyfork.org/en/scripts/423851-simple-youtube-age-restriction-bypass) - Bypass YouTube Age Restrictions
 * [BlockTube](https://github.com/amitbl/blocktube) - YouTube Content Blocker
@@ -332,9 +332,9 @@
 * [YouTube Metadata](https://mattw.io/youtube-metadata/) - YouTube Video Metadata Viewer
 * [YouTube Upload Time](https://chromewebstore.google.com/detail/youtube-upload-time/nenoecmaibjcahoahnmeinahlapheblg) - Check YouTube Upload Date
 * [TubeSync](https://github.com/meeb/tubesync) - Sync YouTube Channels / Playlists to a Media Server
-* [Playlist Creator for YouTube](https://chromewebstore.google.com/detail/drag-drop-playlist-creato/aklnkkbopjjemjlkffhamaepagbmblbg) or [Playlists at YouTube](https://playlists.at/youtube/) - Easily Create Playlists
+* [Playlist Creator for YouTube](https://chromewebstore.google.com/detail/drag-drop-playlist-creato/aklnkkbopjjemjlkffhamaepagbmblbg) or [Playlists at YouTube](https://playlists.at/youtube/) - Playlists Creators
 * [ytcc](https://github.com/woefe/ytcc) - Playlist Manager
-* [Playlist Randomizer](https://playlist-randomizer.com/) - Youtube Playlist Randomizer
+* [Playlist Randomizer](https://playlist-randomizer.com/) - YouTube Playlist Randomizer
 * [YT Playlist Length](https://ytplaylist-len.sharats.dev/) - Playlist Length Checker
 * [YouTube Region Checker](https://polsy.org.uk/stuff/ytrestrict.cgi) - YouTube Region Restrictions Check
 * [YouTube Web Tweaks](https://greasyfork.org/en/scripts/447802) - Speed Up YouTube
@@ -357,9 +357,9 @@
 * [Kament](https://kament.io/) - Add Comments on Comment Disabled Videos
 * [ChatReplay](https://chatreplay.stream/) - YouTube Live Stream Chat Replay
 * [LiveTL](https://kentonishi.com/LiveTL/) - YouTube Live Stream Translator
-* [YoutubeLiveChatFlusher](https://github.com/ys-j/YoutubeLiveChatFlusher) - YouTube Live Bullet Chatting (Danmaku)
+* [YouTubeLiveChatFlusher](https://github.com/ys-j/YoutubeLiveChatFlusher) - YouTube Live Bullet Chatting (Danmaku)
 * [YTArchive](https://github.com/Kethsar/ytarchive) - YouTube Livestream Recorder
-* [Youtube Livestream Theatre](https://gitlab.com/-/snippets/2099898) - Twitch-style Theater Mode for YouTube Live
+* [YouTube Livestream Theatre](https://gitlab.com/-/snippets/2099898) - Twitch-style Theater Mode for YouTube Live
 
 ***
 
@@ -369,7 +369,7 @@
 * 🌐 **[TheFrenchGhosty's Ultimate YouTube-DL Scripts Collection](https://github.com/TheFrenchGhosty/TheFrenchGhostys-Ultimate-YouTube-DL-Scripts-Collection)** - YouTube Download Scripts Index
 * ⭐ **[YT-DLP](https://github.com/kazukikasama/youtube-dlp-gui-installer)**, [2](https://github.com/StefanLobbenmeier/youtube-dl-gui) - Multi-Site / [GitHub](https://github.com/yt-dlp/yt-dlp) or [YTDL-PATCHED](https://github.com/ytdl-patched/ytdl-patched) - YouTube Downloaders
 * [YoutubeDownloader](https://github.com/Tyrrrz/YoutubeDownloader) or [YoutubeDL-Material](https://github.com/Tzahi12345/YoutubeDL-Material) - YouTube Downloaders
-* [Local Youtube Downloader](https://greasyfork.org/en/scripts/369400) - Userscript for Downloading Videos
+* [Local YouTube Downloader](https://greasyfork.org/en/scripts/369400) - Userscript for Downloading Videos
 * [YouTube Qualities Size](https://greasyfork.org/en/scripts/404953-youtube-qualities-size) - Show YouTube File Sizes 
 * [totalsize](https://pypi.org/project/totalsize/) - Calculate Size of All Videos in a Playlist
 * [YouTubePlaylist](https://youtubeplaylist.cc/) - Playlist Downloader
@@ -386,8 +386,8 @@
 ## ▷ YouTube Frontends
 
 * ⭐ **[Invidious](https://invidious.io/)** / [Instances](https://api.invidious.io/), [2](https://redirect.invidious.io/) / [Alt Frontend](https://github.com/bocchilorenzo/invuedious) / [TUI](https://github.com/darkhz/invidtui) or **[CloudTube](https://tube.cadence.moe/)** - FOSS YouTube Frontends
-* ⭐ **[FreeTube](https://freetubeapp.io/)** - Privacy Based YouTube Client / [Github](https://github.com/FreeTubeApp/FreeTube)
-* [YouTube Notes](https://instadeq.com/youtube-notes/) - YouTube Note Taking Frontend
+* ⭐ **[FreeTube](https://freetubeapp.io/)** - Privacy-Based YouTube Client / [GitHub](https://github.com/FreeTubeApp/FreeTube)
+* [YouTube Notes](https://instadeq.com/youtube-notes/) - YouTube Note-Taking Frontend
 * [ViewTube](https://github.com/ViewTube/viewtube), [Piped](https://github.com/TeamPiped/Piped) / [2](https://piped.kavin.rocks/) / [3](https://piped-material.১.net/), [PSTube](https://github.com/prateekmedia/pstube), [Youtube-local](https://github.com/user234683/youtube-local), [yt.d0.cx](https://yt.d0.cx/) or [PokeTube](https://github.com/ashley0143/poketube) - Alternative YouTube Frontends
 
 ***
@@ -405,7 +405,7 @@
 * [Disable Rounded Buttons](https://greasyfork.org/en/scripts/453802) - Disable Rounded YouTube Buttons
 * [YouTube WideScreen](https://greasyfork.org/en/scripts/409893) - Improved YouTube Cinema Mode
 * [Ultrawidify](https://github.com/tamius-han/ultrawidify) - Fix YouTube Aspect Ratio
-* [Unhook](https://unhook.app/), [Untrap](https://untrap.app/), [Less Addictive Youtube](https://github.com/AlexisDrain/Less-Addictive-YouTube) or [YourTube](https://github.com/rahgurung/YourTube) - Distraction-Free YouTube
+* [Unhook](https://unhook.app/), [Untrap](https://untrap.app/), [Less Addictive YouTube](https://github.com/AlexisDrain/Less-Addictive-YouTube) or [YourTube](https://github.com/rahgurung/YourTube) - Distraction-Free YouTube
 * [Audio Only YouTube](https://chromewebstore.google.com/detail/audio-only-youtube/pkocpiliahoaohbolmkelakpiphnllog) - Audio Only YouTube
 * [Feed Remover](https://github.com/kwkr/feed-remover) - Remove YouTube Homepage Feed
 * [FreshTube](https://porjo.github.io/freshtube/) - Display Latest Videos from Subscriptions
@@ -509,7 +509,7 @@
 * ⭐ **[Nitter](https://nitter.net/)** - Twitter Frontend
 * ⭐ **[Trends24](https://trends24.in/)** or [Hashtagify](https://hashtagify.me/) - Trending Hashtags Trackers
 * ⭐ **[/r/Twitter](https://reddit.com/r/Twitter)** - Twitter Subreddit
-* [TumblThree](https://github.com/TumblThreeApp/TumblThree) or [Thread Safe](https://github.com/dkaslovsky/thread-safe) - Twitter / Tumbl Backup Tools
+* [TumblThree](https://github.com/TumblThreeApp/TumblThree) or [Thread Safe](https://github.com/dkaslovsky/thread-safe) - Twitter / Tumblr Backup Tools
 * [TwitLonger](https://www.twitlonger.com/) - Make Longer Tweets
 * [Typefully](https://typefully.com/) - Schedule Tweets
 * [TwitHelper](https://twithelper.com/) - Create Twitter Post Images
@@ -521,7 +521,7 @@
 * [GetVideoBot](https://twitsave.com/), [DownloadTwitterVideo](https://www.downloadtwittervideo.com/), [TwitterVid](https://twittervid.com/) or [sssTwitter](https://ssstwitter.com/) - Download Twitter Videos
 * [memory.lol](https://github.com/travisbrown/memory.lol/) - Twitter Account Archive
 * [Twitter Archive Parser](https://github.com/timhutton/twitter-archive-parser) - Tweet Archiving
-* [Twayback Machine](https://staringispolite.github.io/twayback-machine/) - View a Users Old Tweets
+* [Twayback Machine](https://staringispolite.github.io/twayback-machine/) - View Users' Old Tweets
 * [Hoaxy](https://hoaxy.osome.iu.edu/) - Twitter Info Spread Data
 * [tinfoleak](https://tinfoleak.com/) - View Your Geosocial Footprint 
 * [Unfollow All](https://chromewebstore.google.com/detail/twitter-unfollow-all/mgehkbclkipppdjiemnhmnledicalkld) - Twitter Unfollower
@@ -653,12 +653,12 @@
 # ► Blogging Tools
 
 * [Telescope](https://telescope.ac/) - Publishing Platform
-* [Bear Blog](https://bearblog.dev/) - Privacy Based Blogging Platform
+* [Bear Blog](https://bearblog.dev/) - Privacy-Based Blogging Platform
 * [Arbital](https://arbital.com/) - Hybrid Blogging / Wiki Platform
 * [Haven](https://havenweb.org/) or [WriteFreely](https://writefreely.org/) - Self-hosted Blogging Platforms
 * [Multiverse](https://multiverse.plus/) - Make Highly Customizable Blogs
 * [Mataroa](https://mataroa.blog/), [Notepin](https://notepin.co/) or [smol.pub](https://smol.pub/) / [Key](https://m15o.ichi.city/smolpub/key-request.html) - Minimalist Blogging Platforms
 * [twtxt](https://github.com/buckket/twtxt) - Decentralized Minimalist Microblogging Service
-* [Emanates Docs](https://emanates.deepjyoti30.dev/) - Make GitHub Based Blogs
+* [Emanates Docs](https://emanates.deepjyoti30.dev/) - Make GitHub-Based Blogs
 * [You Don't Need WP](https://www.youdontneedwp.com/) - Make Blogs with Google Docs
 * [CoverView](https://coverview.vercel.app/) - Blog Banner Creator
