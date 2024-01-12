@@ -907,3 +907,9 @@ Use a **[Base64 Decoder](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock
 #### gnarly_repacks
 
 `aHR0cHM6Ly9yZW50cnkub3JnL2duYXJseV9yZXBhY2tz`
+
+***
+
+#### EDU Book Drive
+
+`https://1drv.ms/f/s!Apbk-hpIyhzgovE4q9-u_QR5Mbxy_Q`
