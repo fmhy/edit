@@ -876,6 +876,7 @@
 * ⭐ **[PDFMagazines](https://pdfmagazines.club/)**
 * ⭐ **[DownMagaz](https://downmagaz.net/)**
 * ⭐ **[MagazineLib](https://magazinelib.com/)**
+* ⭐ **[MagzDB](http://magzdb.org/j)**
 * [ENMagazine](https://t.me/enmagazine) - Telegram
 * [newspaper_archive](https://t.me/newspaper_archive) - Telegram
 * [World Mags](https://www.worldmags.net/)
