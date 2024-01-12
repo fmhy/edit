@@ -32,7 +32,7 @@
 * [StatsCrop](https://www.statscrop.com/websites/top-sites/), [DirtyWarez](https://dirtywarez.org/), [HypeStat](https://hypestat.com/alexa-rank), [TopMillion](https://www.topmillion.net/) or [CuteStat](https://www.cutestat.com/) - Site Rankings & Stats
 * [blooem](https://blooem.pages.dev/) / [2](https://blooem.its.moe) - Piracy Guides
 * [pilssken](https://pilssken.neocities.org/warez/) or [The Pirate List](https://thepiratelist.com/) - Piracy Index
-* [Delightful Creative Tools](https://codeberg.org/ADHDefy/delightful-creative-tools), [The More You Know](https://marckoxx.github.io/), [Size of Cat](https://sizeof.cat/links/), [RefDesk](https://www.refdesk.com/facts.html), [Cool Websites](https://rentry.co/cool_websites), [iBiblio](https://www.ibiblio.org/) or [5000 Best](http://5000best.com/websites/) / [Tools](http://5000best.com/tools/) - Site / Tool Indexes
+* [Pixelated Pathways](https://rentry.org/Pixelated_Pathways), [Delightful Creative Tools](https://codeberg.org/ADHDefy/delightful-creative-tools), [The More You Know](https://marckoxx.github.io/), [Size of Cat](https://sizeof.cat/links/), [RefDesk](https://www.refdesk.com/facts.html), [Cool Websites](https://rentry.co/cool_websites), [iBiblio](https://www.ibiblio.org/) or [5000 Best](http://5000best.com/websites/) / [Tools](http://5000best.com/tools/) - Site / Tool Indexes
 * [itch.io Tools](https://itch.io/tools/free) - Tool Index
 * [num's link list](https://soda.privatevoid.net/num/links/) - Site Index
 * [Simple Tools](https://simpletools.info/doku.php) - Simple Programs Index 
