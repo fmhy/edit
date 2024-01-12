@@ -224,11 +224,15 @@
 * 🌐 **[Awesome I2P](https://github.com/mikalv/awesome-i2p)** - I2P Resources
 * ↪️ **[Encrypted Messaging Apps](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_encrypted_messengers)** / [2](https://docs.google.com/spreadsheets/d/1-UlA4-tslROBDS9IqHalWVztqZo7uxlCeKPQ-8uoFOU) / [3](https://www.securemessagingapps.com/)
 * ↪️ **[Encrypted XMPP Servers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_encrypted_xmpp_servers)**
+* ⭐ **[Tor Browser](https://www.torproject.org/)** - Onion-Routed Browser
+* ⭐ **[Mullvad Browser](https://mullvad.net/en/browser)** - Tor Browser Fork (w/o Tor network)
+* ⭐ **[arkenfox](https://github.com/arkenfox/user.js)**- Firefox Privacy Tweak / [Video](https://youtu.be/F7-bW2y6lcI)
 * ⭐ **[PrivacySpy](https://privacyspy.org/)** or [Terms of Service; Didn't Read](https://tosdr.org/) - Sites Privacy Policies 
 * ⭐ **[2FA Directory](https://2fa.directory/)** - List of Sites with 2FA Support
-* ⭐ **[simplewall](https://www.henrypp.org/product/simplewall)**, [WFC](https://www.binisoft.org/wfc.php), [pfSense](https://www.pfsense.org/) / [How-to](https://youtu.be/am7xT-zU1Q0) or [Tinywall](https://tinywall.pados.hu/) - Firewall / Network Monitors
+* ⭐ **[simplewall](https://github.com/henrypp/simplewall)**, [WFC](https://www.binisoft.org/wfc.php), [pfSense](https://www.pfsense.org/) / [How-to](https://youtu.be/am7xT-zU1Q0) or [Tinywall](https://tinywall.pados.hu/) - Firewall / Network Monitors
 * ⭐ **[Cryptomator](https://cryptomator.org/)**, [Boxcryptor](https://www.boxcryptor.com/en/) or [Tahoe-LAFS](https://tahoe-lafs.org/trac/tahoe-lafs) - Cloud File Encryption
 * ⭐ **[GameIndustry](https://gameindustry.eu/en/)** - Block Trackers in Desktop / Mobile Games
+* [Librewolf](https://librewolf.net/)- Pre-tweaked Firefox Fork / **[Use Auto-Updater](https://github.com/ltguillaume/librewolf-winupdater)**
 * [How Secure is My Password](https://www.security.org/how-secure-is-my-password/) - Password Strength Checker
 * [h8Mail](https://github.com/khast3x/h8mail) or [FirefoxMonitor](https://monitor.firefox.com/) - Data Breach Check
 * [BreachDirectory](https://breachdirectory.org), [Snusbase](https://snusbase.com/), [Leak Lookup](https://leak-lookup.com/), [Trufflehog](https://github.com/trufflesecurity/trufflehog), [Database Search](https://search.0t.rocks/) or [leakpeek](https://leakpeek.com/) - Data Breach Search Engines
@@ -275,16 +279,6 @@
 * [SecLists](https://seclists.org/) - Security Mailing List Archive 
 * [Panopticlick](https://coveryourtracks.eff.org/) - Test if your Browser Blocks Tracking 
 * [Yggdrasil](https://yggdrasil-network.github.io/), [2](https://github.com/yggdrasil-network) - IPv6 Network / [yggdrasil-go](https://github.com/yggdrasil-network/yggdrasil-go/)
-
-***
-
-## ▷ Privacy Browsers
-
-* ⭐ **[Tor Browser](https://www.torproject.org/)** - Onion-Routed Browser
-* ⭐ **[Mullvad Browser](https://mullvad.net/en/browser)** - Tor Browser Fork (w/o Tor network)
-* ⭐ **[Librewolf](https://librewolf.net/)**- Pre-tweaked Firefox Fork / **[Use Auto-Updater](https://github.com/ltguillaume/librewolf-winupdater)**
-* ⭐ **[arkenfox](https://github.com/arkenfox/user.js)**- Firefox Privacy Tweak / [Video](https://youtu.be/F7-bW2y6lcI)
-* [Brave](https://brave.com/) - Chromium-Based Browser
 
 ***
 
