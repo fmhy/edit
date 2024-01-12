@@ -8,51 +8,44 @@
 
 # ► Proprietary LLMs
 
-* 🌐 **[Chatbot Arena](https://huggingface.co/spaces/lmsys/chatbot-arena-leaderboard)** - Chatbot Leaderboard
+* 🌐 **[LMSYS Arena](https://huggingface.co/spaces/lmsys/chatbot-arena-leaderboard)** - Chatbot Leaderboard with Elo rating
 * 🌐 **[Awesome-GPT4](https://gpt4.tools/)** - ChatGPT Resources
-* 🌐 **[LifeArchitect](https://lifearchitect.ai/models-table/)** - Chatbot Index
 * 🌐 **[Free AI Stuff](https://github.com/zukixa/cool-ai-stuff)** - AI APIs and Sites
-* ⭐ **[ChatGPT](https://chat.openai.com/)** - GPT Based Chatbot / [Discord](https://discord.com/invite/openai)
-* ⭐ **[Phind](https://www.phind.com/)** - GPT-4 Q&A AI / [Discord](https://discord.com/invite/S25yW8TebZ)
-* ⭐ **[Perplexity](https://www.perplexity.ai/)** - GPT-3.5 Q&A AI / [Llama Version](https://labs.perplexity.ai/)
-* ⭐ **[Ora](https://ora.ai/openai/chatgpt)** - GPT-3.5 Based Chatbots / [Discord](https://discord.com/invite/G8W5VHZhTR)
-* ⭐ **[BAI](https://beta.theb.ai/)** - GPT-3.5 Based Chatbot
-* ⭐ **[Call Annie](https://callannie.ai/)** - GPT-3.5 Based Chatbot with Real-Time Voice / [Discord](https://discord.gg/Rfbzet5R3v)
-* ⭐ **[Claude](https://claude.ai/)** - Anthropic's Chatbot
+* 🌐 **[LifeArchitect](https://lifearchitect.ai/models-table/)** - Chatbot Index
+* ⭐ **[Microsoft Copilot](https://copilot.microsoft.com)** - GPT-4 with Search and Image Generation / [SydneyQT Jailbreak](https://github.com/juzeon/SydneyQt)
+* ⭐ **[ChatGPT](https://chat.openai.com/)** - GPT-3.5 Chatbot / [Discord](https://discord.com/invite/openai)
+* ⭐ **[Perplexity](https://www.perplexity.ai/)** - GPT-3.5 Powered Search / [Mixtral, Llama](https://labs.perplexity.ai/) / [Discord](https://discord.com/invite/perplexity-ai)
+* ⭐ **[Phind](https://www.phind.com/)** - GPT-4/3.5 Powered Search / [Discord](https://discord.com/invite/S25yW8TebZ)
+* ⭐ **[Ora](https://ora.ai/start)** - GPT-3.5 Based Chatbots / [Discord](https://discord.com/invite/G8W5VHZhTR)
+* ⭐ **[LMSYS Chat](https://chat.lmsys.org/) - Two Chatbots at Once, Including GPT-4-Turbo, Latest Claude, Bard and Mistral
 * ⭐ **[Bard](https://bard.google.com/)** - Google's Chatbot
-* ⭐ **[SydneyQt](https://github.com/juzeon/SydneyQt)** - Jailbroken Bing AI Chatbot
-* [FastGPT](https://labs.kagi.com/fastgpt) - Claude Based Q&A AI
-* [Khoj](https://khoj.dev/) - AI Assistant
-* [Leon](https://getleon.ai/) - AI Assistant
-* [Pi](https://pi.ai/talk) - AI Assistant
-* [AiryChat](https://airychat.com/) - AI Assistants
-* [OSSChat](https://osschat.io/) - GPT-4 Q&A AI
-* [Forefront](https://chat.forefront.ai/) - GPT-3.5 Based Chatbots / [Discord](https://discord.com/invite/Wbc5cPPYSs)
-* [Teach Anything](https://www.teach-anything.com/) - GPT-3.5 Q&A AI
-* [Ethio Tech](https://gpt3.ethio-tech.com/) - GPT-3 Based Chatbot
-* [iAsk](https://iask.ai/) - GPT-3 Q&A AI
+* ⭐ **[Claude](https://claude.ai/)** - Anthropic's Chatbot
+* ⭐ **[Call Annie](https://callannie.ai/)** - GPT-3.5 Chatbot with Real-Time Voice and Video/ [Discord](https://discord.gg/Rfbzet5R3v)
+* [Forefront](https://www.forefront.ai/) - GPT-3.5 / Claude-Instant Chatbot / [Discord](https://discord.com/invite/Wbc5cPPYSs)
+* [Pi](https://pi.ai/talk) - AI Chatbot
+* [Andi](https://andisearch.com/), [iAsk](https://iask.ai/) - AI Powered Search 
 
 ***
 
 # ► Open-Source LLMs
 
 * 🌐 **[Open LLM Leaderboard](https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard)** - LLM Leaderboard
-* ⭐ **[seait](https://github.com/diStyApps/seait)** - AI Installation Manager
+* ⭐ **[Pinokio](https://pinokio.computer/)** - Single Click AI Model Installer / [Discord](https://discord.gg/TQdNwadtE4)
 * ⭐ **[SillyTavern](https://github.com/SillyTavern/SillyTavern)** - Front-end for LLMs
 * ⭐ **[Mixtral 8x7b](https://huggingface.co/docs/transformers/model_doc/mixtral)** - Open Source LLM / [Guide](https://rentry.org/HowtoMixtral)
 * ⭐ **[llama.cpp](https://github.com/ggerganov/llama.cpp)** - Self-Host Transformer Based LLMs / [Guide](https://rentry.org/llama-mini-guide)
 * ⭐ **[kobold.cpp](https://github.com/LostRuins/koboldcpp)** - llama.cpp with API + GUI / [rocM](https://github.com/YellowRoseCx/koboldcpp-rocm) / [Colab](https://colab.research.google.com/github/LostRuins/koboldcpp/blob/concedo/colab.ipynb)
 * ⭐ **[Oobabooga Text Generation WebUI](https://github.com/oobabooga/text-generation-webui)** - Self-Host Models / [Colab](https://colab.research.google.com/github/pcrii/Philo-Colab-Collection/blob/main/4bit_TextGen_Gdrive.ipynb)
+* [Transfer Models Timeline](https://ai.v-gar.de/ml/transformer/timeline/) - LLM Timeline
 * [Aphrodite Engine](https://github.com/PygmalionAI/aphrodite-engine) - Serve LLMs at scale with Kobold, Ooba & OpenAI APIs / [Colab](https://colab.research.google.com/github/AlpinDale/misc-scripts/blob/main/Aphrodite.ipynb)
 * [SecondBrain](https://secondbrain.sh/) or [OnPrem](https://amaiya.github.io/onprem/) - LLM Desktop Apps
-* [Transfer Models Timeline](https://ai.v-gar.de/ml/transformer/timeline/) - LLM Timeline
 * [ChatRWKV](https://huggingface.co/spaces/BlinkDL/ChatRWKV-gradio) - RWKV Based Chatbot / [Discord](https://discord.com/invite/bDSBUMeFpc)
 * [GlobalGPT](https://www.globalgpt.nspiketech.com/#/) - Modularized Chatbot
+* [BAI](https://theb.ai/) - LLama Chatbot
 * [LLaVA](https://llava.hliu.cc/) - Chatbot with Image Support / [GitHub](https://github.com/haotian-liu/LLaVA)
 * [StableLM](https://colab.research.google.com/github/Stability-AI/StableLM/blob/main/notebooks/stablelm-alpha.ipynb) - StabilityAI's Chatbot / [GitHub](https://github.com/stability-AI/stableLM/)
-* [Open Assistant](https://open-assistant.io/) - LAION's Chatbot / [Github](https://github.com/LAION-AI/Open-Assistant) / [Discord](https://discord.com/invite/H769HxZyb5)
 * [OpenChatKit](https://huggingface.co/spaces/togethercomputer/OpenChatKit) - Together's Chatbot / [GitHub](https://github.com/togethercomputer/OpenChatKit) / [Discord](https://discord.com/invite/9Rk6sSeWEG)
-* [HuggingChat](https://huggingface.co/chat/) - HuggingFace's Chatbot / [GitHub](https://github.com/huggingface/chat-ui)
+* [HuggingChat](https://huggingface.co/chat/) - Chatbot with Mixtral, Llama / [GitHub](https://github.com/huggingface/chat-ui)
 * [Petals](https://petals.dev/) - Self-Hosted / [GitHub](https://github.com/bigscience-workshop/petals)
 * [Jan.ai](https://jan.ai/) - Self-Hosted / [GitHub](https://github.com/janhq/jan) / [Discord](https://discord.gg/5rQ2zTv3be)
 * [FreedomGPT](https://freedomgpt.com/) - Alpaca-Based Chatbot / [GitHub](https://github.com/ohmplatform/FreedomGPT/) / [Discord](https://discord.com/invite/h77wvJS4ga)
@@ -105,7 +98,6 @@
 * [ChatGPT DeMod](https://github.com/4as/ChatGPT-DeMod) - Block ChatGPT Moderation Checks
 * [TGPT](https://github.com/aandrew-me/tgpt) - ChatGPT in TUIs
 * [LibreChat](https://github.com/danny-avila/LibreChat), [SmolAI](https://github.com/smol-ai/menubar/), [Chatbot-UI](https://github.com/mckaywrigley/chatbot-ui) or [yakGPT](https://github.com/yakGPT/yakGPT) - Desktop Apps / GUIs
-* [Pinokio](https://pinokio.computer/) - Single Click AI Model Installer / [Discord](https://discord.gg/TQdNwadtE4)
 * [docGPT](https://github.com/cesarhuret/docGPT) - ChatGPT Google Docs Addon
 * [ParallelGPT](https://www.parallelgpt.ai/) - Data Processing AI
 * [ChatGPT File Uploader](https://chromewebstore.google.com/detail/chatgpt-file-uploader/oaogphgfdbdbmhkiplemgehihiiececj) - File Upload Extension
@@ -114,7 +106,6 @@
 * [ChatGPTBox](https://github.com/josStorer/chatGPTBox), [ChatGPT Apps](https://github.com/adamlui/chatgpt-apps), [KeepChatGPT](https://github.com/xcanwin/KeepChatGPT/blob/main/docs/README_EN.md), [Walles](https://walles.ai/) or [Merlin](https://merlin.foyer.work/) / [Unlimited](https://rentry.co/MerlinAI-Unlim) - ChatGPT Extensions
 * [Harpa](https://harpa.ai/) or [Glimpse](https://glimpse.surf/) - ChatGPT Chrome Extensions
 * [/r/ChatGPT](https://www.reddit.com/r/ChatGPT/) - ChatGPT Subreddit
-* [Andi](https://andisearch.com/) - AI Powered Search
 * [ShareGPT](https://sharegpt.com/) or [ChatGPT Exporter](https://greasyfork.org/en/scripts/456055) - Export Chats
 * [VizGPT](https://www.vizgpt.ai/) - Chat Data Visualization
 * [DeepSheet](https://deepsheet.dylancastillo.co/) - Data Visualization AI

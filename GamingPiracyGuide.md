@@ -930,7 +930,7 @@
 * [Launchbox](https://www.launchbox-app.com/) - Retro / Console Game Library / Launcher
 * [GameHub](https://tkashkin.github.io/projects/gamehub/) or [Gnome Games](https://wiki.gnome.org/Apps/Games) - Linux Game Libraries / Launchers
 * [Arc](https://www.arcgames.com/en/about/client) - Gearbox Game Launcher / Library
-* [GameVault](https://gamevau.lt) - Self-hosted Gaming Platform
+* [GameVault](https://gamevau.lt) - Self-Hosted Gaming Platform
 
 ***
 
@@ -1137,7 +1137,7 @@
 * ⭐ **[Bloxstrap](https://github.com/pizzaboxer/bloxstrap)** - Roblox Player Bootstrapper
 * [RBXFPSUnlocker](https://github.com/axstin/rbxfpsunlocker) - Unlock Roblox FPS Cap / [Note](https://pastebin.com/rB4BEf5b)
 * [Roblox Client Tracker](https://github.com/MaximumADHD/Roblox-Client-Tracker) - Roblox Update Tracker
-* [Novetus](https://bitl.itch.io/novetus) - Self-hosted Multi-version Roblox Client
+* [Novetus](https://bitl.itch.io/novetus) - Self-Hosted Multi-version Roblox Client
 * [Roblox Studio Mod Manager](https://github.com/MaximumADHD/Roblox-Studio-Mod-Manager) - Roblox Studio Bootstrapper
 * [RoSeal](https://www.roseal.live/) - Roblox Enhancement Extension
 * [RoPro](https://ropro.io/), [Roblox+](https://chromewebstore.google.com/detail/roblox%20/jfbnmfgkohlfclfnplnlenbalpppohkm), [BTRoblox](https://twitter.com/AntiBoomz/status/1378597179556823040) or [RoGold](https://discord.gg/XMHn9zV3UA) - Enhance Roblox Website
