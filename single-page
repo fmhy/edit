@@ -101,7 +101,7 @@
 * [collinsdictionary](https://www.collinsdictionary.com/translator)
 * [online-translator](https://www.online-translator.com/translation)
 * [translatedict](https://www.translatedict.com/)
-* [Systrane Translate](https://www.systran.net/en/translate/)
+* [Systrane Translate](https://www.systransoft.com/translate/)
 * [Translator.eu](https://www.translator.eu/)
 
 ***
