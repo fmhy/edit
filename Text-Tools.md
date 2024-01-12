@@ -100,13 +100,9 @@
 * [Apertium](https://apertium.org/)
 * [collinsdictionary](https://www.collinsdictionary.com/translator)
 * [online-translator](https://www.online-translator.com/translation)
-* [translation](https://translation.babylon-software.com/)
 * [translatedict](https://www.translatedict.com/)
 * [Systrane Translate](https://www.systran.net/en/translate/)
 * [Translator.eu](https://www.translator.eu/)
-* [worldlingo](https://www.worldlingo.com/en/)
-* [Translatelocally](https://translatelocally.com/)
-* [Translation Sensagent](https://translation.sensagent.com/)
 
 ***
 
