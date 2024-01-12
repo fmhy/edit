@@ -819,6 +819,7 @@
 * ↪️ **[Textures / Patterns](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_.25B7_textures_.2F_patterns)**
 * ↪️ **[Free Game Engines](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_game_engines)**
 * ↪️ **[3D Models / Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/img-tools#wiki_.25B7_3d_models)**
+* ⭐ **[SpriteFusion](https://www.spritefusion.com/)** - Tilemap Editor / [Discord](https://discord.gg/8sCEAspmBV)
 * [HiddenPalace](https://hiddenpalace.org/) - Game Development Media Archive
 * [Tommti Systems](https://www.tommti-systems.de/go.html?http://www.tommti-systems.de/main-Dateien/files.html) - 3D Benchmark Tools
 * [XeSS](https://github.com/intel/xess) - Increase Framerate of Game
