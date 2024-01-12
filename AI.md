@@ -17,13 +17,12 @@
 * ⭐ **[Perplexity](https://www.perplexity.ai/)** - GPT-3.5 Powered Search / [Mixtral, Llama](https://labs.perplexity.ai/) / [Discord](https://discord.com/invite/perplexity-ai)
 * ⭐ **[Phind](https://www.phind.com/)** - GPT-4/3.5 Powered Search / [Discord](https://discord.com/invite/S25yW8TebZ)
 * ⭐ **[Ora](https://ora.ai/start)** - GPT-3.5 Based Chatbots / [Discord](https://discord.com/invite/G8W5VHZhTR)
-* ⭐ **[LMSYS Chat](https://chat.lmsys.org/) - Two Chatbots at Once, Including GPT-4-Turbo, Latest Claude, Bard and Mistral
+* ⭐ **[LMSYS Chat](https://chat.lmsys.org/)** - Multi-Chatbots, GPT-4-Turbo, Claude, Bard and Mistral
 * ⭐ **[Bard](https://bard.google.com/)** - Google's Chatbot
 * ⭐ **[Claude](https://claude.ai/)** - Anthropic's Chatbot
 * ⭐ **[Call Annie](https://callannie.ai/)** - GPT-3.5 Chatbot with Real-Time Voice and Video/ [Discord](https://discord.gg/Rfbzet5R3v)
 * [Forefront](https://www.forefront.ai/) - GPT-3.5 / Claude-Instant Chatbot / [Discord](https://discord.com/invite/Wbc5cPPYSs)
 * [Pi](https://pi.ai/talk) - AI Chatbot
-* [Andi](https://andisearch.com/), [iAsk](https://iask.ai/) - AI Powered Search 
 
 ***
 
