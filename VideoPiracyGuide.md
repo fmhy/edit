@@ -75,10 +75,11 @@
 * ⭐ **[Cinewave](https://discord.gg/8HBf5SRK77)** - Movies / TV / Anime / 1080p
 * ⭐ **[UpMovies](https://upmovies.to/)** - Movies / TV / Anime / 1080p / Use Adblock
 * ⭐ **[BFLIX](https://bflix.gs/)** - Movies / TV / 1080p
+* ⭐ **[FSonic](https://www.fsonic.net/)** - Movies / 1080p
 * ⭐ **[Watch A Movie](https://watcha.movie/)** - Movies / TV / 1080p
 * ⭐ **[EE3](https://ee3.me/)** or [RIPS](https://rips.cc/) - Movies / 1080p / Invite Code: mpgh or 1hack
 * ⭐ **[PressPlay](https://www.pressplay.top/)** - Movies / TV / 1080p / [Discord](https://discord.gg/r4QrghF4B9)
-* ⭐ **[FshareTV](https://fsharetv.co/)**, [2](https://fsharetv.io/) - Movies / 1080p
+* [FshareTV](https://fsharetv.co/), [2](https://fsharetv.io/) - Movies / 1080p
 * [RidoMovies](https://ridomovies.tv/) - Movies / 1080p
 * [Ling.online](https://ling-online.net/en/videos/films/) - Movies / TV / 1080p
 * [LookMovie](https://lookmovie2.to/) - Movies / TV / 720p / [Mirrors](https://proxymirrorlookmovie.github.io/)
