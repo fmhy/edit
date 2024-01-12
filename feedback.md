@@ -22,6 +22,8 @@ outline: false
 
 * *"No bullshit, and has all the info I need to gain free access to media."*
 
+* *"Y'all have helped not only me but my friends through college and the pandemic in ways you all probably don't even realize."*
+
 * *"thank you so much for this effort, guys, you are amazing, I stopped searching on google for stuff and got addicted to your website, keep going :)"*
 
 * *"Literally, when I need something, all I need to do is check here first! thank you for being here, for being access to everyone and anyone, I really really appreciate it!"*
