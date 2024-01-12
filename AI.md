@@ -23,10 +23,7 @@
 * ⭐ **[Call Annie](https://callannie.ai/)** - GPT-3.5 Chatbot with Real-Time Voice and Video/ [Discord](https://discord.gg/Rfbzet5R3v)
 * [Forefront](https://www.forefront.ai/) - GPT-3.5 / Claude-Instant Chatbot / [Discord](https://discord.com/invite/Wbc5cPPYSs)
 * [Pi](https://pi.ai/talk) - AI Chatbot
-* [FastGPT](https://labs.kagi.com/fastgpt) - Claude Powered Search
-* [Ethio Tech](https://gpt3.ethio-tech.com/) - GPT-3 Based Chatbot
-* [Andi](https://andisearch.com/) - AI Powered Search
-* [iAsk](https://iask.ai/) - GPT-3 Powered Search 
+* [Andi](https://andisearch.com/), [iAsk](https://iask.ai/) - AI Powered Search 
 
 ***
 
