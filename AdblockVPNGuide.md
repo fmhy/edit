@@ -352,7 +352,6 @@
 * [Swisscows](https://swisscows.com/)
 * [YaCy](https://yacy.net/) 
 * [Startpage](https://www.startpage.com/)
-* [Brave Search](https://search.brave.com/)
 * [Search Encrypt](https://www.searchencrypt.com/)
 * [ekoru](https://ekoru.org/)
 * [Gibiru](https://gibiru.com/)
