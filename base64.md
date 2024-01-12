@@ -912,4 +912,4 @@ Use a **[Base64 Decoder](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock
 
 #### EDU Book Drive
 
-`https://1drv.ms/f/s!Apbk-hpIyhzgovE4q9-u_QR5Mbxy_Q`
+`aHR0cHM6Ly8xZHJ2Lm1zL2YvcyFBcGJrLWhwSXloemdvdkU0cTktdV9RUjVNYnh5X1E=`
