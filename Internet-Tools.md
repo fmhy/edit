@@ -334,7 +334,6 @@
 * [Noysi Meet](https://meet.noysi.com/) - Video Chat
 * [iqc](https://icq.com/) - Video Chat
 * [Briefing](https://brie.fi/ng) - Video Chat
-* [Brave Talk](https://talk.brave.com/) - Video Chat
 * [Talky](https://talky.io/) - Video Chat
 * [Pyrite](https://github.com/garage44/pyrite) - Video Chat
 * [GoTeam](https://goteam.video/) - Video Chat
