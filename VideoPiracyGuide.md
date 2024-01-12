@@ -929,7 +929,7 @@
 * [Subvert](https://subvert.dev/), [pyTranscriber](https://pytranscriber.github.io/), [Auto-Subtitle](https://www.veed.io/tools/auto-subtitle-generator-online), [FreeSubtitlesAI](https://freesubtitles.ai/), [ecoute](https://github.com/SevaSk/ecoute) or [autosub](https://github.com/agermanidis/autosub), [2](https://github.com/BingLingGroup/autosub) - Video Transcribers
 * [CCaptioner](https://github.com/gorhill/ccaptioner) - Add Subtitles to Videos / Extension
 * [subtitle.js](https://github.com/gsantiago/subtitle.js) - Parse and manipulate SRT (SubRip)
-* [TranslatesSubtitles](https://translatesubtitles.com/), [FreeSubtitles](https://freesubtitles.org/) or [SubtitleTranslate](https://github.com/mepeichun/SubtitleTranslate) - Translate Subtitles
+* [TranslatesSubtitles](https://translatesubtitles.com/) or [FreeSubtitles](https://freesubtitles.org/)- Translate Subtitles
 * [Auto Synced & Translated Dubs](https://github.com/ThioJoe/Auto-Synced-Translated-Dubs) - Create Translated Dubs
 * [DualSub](https://github.com/bonigarcia/dualsub) - Bilingual Subtitle Maker
 * [asbplayer](https://killergerbah.github.io/asbplayer/) - Subtitle Sentence Mining
