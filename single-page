@@ -16288,7 +16288,7 @@ Emoji Legend:
 * 🌐 **[Awesome Regex](https://github.com/aloisdg/awesome-regex)** - Regex Resources
 * 🌐 **[Awesome-Discord-Communities](https://github.com/mhxion/awesome-discord-communities)** - Discord Communities 
 * 🌐 **[Programming-Telegram-Group](https://github.com/hendisantika/List-All-Programming-Telegram-Group)** - Telegram Communities
-* 🌐 **[Awesome Twitter Accounts](https://github.com/yask123/AwesomeTwitterAccounts)** or [Awesome Twitter Communities](https://github.com/mattn/awesome-twitter-communities) - Twitter Communities
+* 🌐 **[Awesome Twitter Communities](https://github.com/mattn/awesome-twitter-communities)** - Twitter Communities
 * ⭐ **[Starcoder](https://huggingface.co/spaces/bigcode/bigcode-playground)** or [Safurai](https://www.safurai.com/) / [Discord](https://discord.com/invite/JYXue8DD4w) - Auto-Code Completion
 * ⭐ **[Literally Anything](https://www.literallyanything.io/)** - Generate Code via Prompts
 * ⭐ **[RevShells](https://www.revshells.com/)** - Reverse Shell Generator
@@ -16362,7 +16362,6 @@ Emoji Legend:
 * [sed.js](https://sed.js.org/) - GNU sed Live Editor
 * [asdf](https://asdf-vm.com/) - Multi-Runtime Management CLI
 * [The SHA-256 Project](https://github.com/oconnor663/sha256_project) - Develop SHA-256 from Scratch
-* [substitute](https://github.com/comex/substitute) - Free Runtime Modification Library
 * [Sourcegraph](https://sourcegraph.com/), [SeaGOAT](https://github.com/kantord/SeaGOAT) or [Ag](https://geoff.greer.fm/ag/) / [GitHub](https://github.com/ggreer/the_silver_searcher) - Code Searching
 * [CodeGrepper](https://www.grepper.com/) - Code Search Extension
 * [searchcode](https://searchcode.com/) or [PublicWWW](https://publicwww.com/) - Source Code Search
