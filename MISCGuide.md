@@ -62,7 +62,7 @@
 * ⭐ **[IsThereAnyDeal](https://isthereanydeal.com/#/filter:&price/0/0)** - Games
 * [Free Games Claimer](https://github.com/vogler/free-games-claimer) - Auto-Claim Free Epic, Amazon, and GOG Games
 * [epicgames-freegames-node](https://github.com/claabs/epicgames-freegames-node) - Auto-Claim Free Epic Games
-* [SteamGifts](https://www.steamgifts.com/) / [Auto Join](https://chromewebstore.google.com/detail/autojoin-for-steamgifts/bchhlccjhoedhhegglilngpbnldfcidcen), [/r/FreeGamesOnSteam](https://reddit.com/r/FreeGamesOnSteam) or [SteamDB](https://steamdb.info/upcoming/free/) - Steam Games
+* [SteamGifts](https://www.steamgifts.com/), [/r/FreeGamesOnSteam](https://reddit.com/r/FreeGamesOnSteam) or [SteamDB](https://steamdb.info/upcoming/free/) - Steam Games
 * [IndieGala](https://freebies.indiegala.com/) - Games
 * [FreeGameCodes](https://freegames.codes/) - Games / [Discord](https://discord.gg/ZmUbRcp)
 * [FreeToKeep](https://freetokeep.gg/) - Games
@@ -619,7 +619,6 @@
 * [/r/WorkOnline](https://www.reddit.com/r/WorkOnline/) - Online Working Subreddit
 * [/r/freelance](https://www.reddit.com/r/freelance/) - Freelance Subreddit
 * [MTurk](https://www.mturk.com/) - Online Task Work
-* [Nomad List](https://nomadlist.com/) - Remote Job Listings
 * [RemoteWide](https://remotewide.co/) or [NoCummute](https://nocommute.substack.com/) - Remote Job Notifications
 * [Jobspresso](https://jobspresso.co/) - Remote Jobs
 * [Remote Jobs](https://remotejobs.com/) - Remote Jobs
