@@ -8,7 +8,7 @@
 
 ## ▷ Multi Server
 
-* ⭐ **[movie-web](https://movie-web.app/)** - Movies / TV / 1080p / [Discord](https://discord.gg/vXsRvye8BS)
+* ⭐ **[movie-web](https://movie-web.app/)** - Movies / TV / 1080p / 4K / [Discord](https://discord.gg/vXsRvye8BS) / [Showbox Proxy](https://rentry.co/moviewebguide)
 * ⭐ **[watch.lonelil](https://watch.lonelil.com/)** - Movies / TV / Anime / 4K / 1080p / [Discord](https://discord.com/invite/BKts6Jb5sA)
 * ⭐ **[Streamflix](https://watch.streamflix.one/)**, [2](https://watchamovie.today/), [3](https://streamflix.space/)  - Movies / TV / Anime / 1080p / [Discord](https://discord.gg/C8fyfz5pYz)
 * ⭐ **[FMovies](https://fmoviesz.to/)** - Movies / TV / Anime / 1080p / [Mirrors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_fmovies_clones)
@@ -573,6 +573,7 @@
 * [StarsDDL](https://starsddl.me/) - Movies / TV / 1080p
 * [Movies Ni Pipay](https://moviesnipipay.me/) - Movies / TV / 1080p
 * [FilmDuty](https://filmduty.com/) - Movies / TV / Anime / 1080p
+* [Downloads-Anymovies](https://www.downloads-anymovies.co/) - Movies / 1080p
 * [Reqzone](https://reqzone.com/) - Movies / TV / 1080p
 * [RLSXTVT](https://rlsxtvt.icu/) - Movies / TV / 1080p
 * [MegaDDL](https://megaddl.co/) - Movies / TV / 1080p / Some Paywalled
@@ -592,6 +593,7 @@
 * [SSR Movies](https://www.ssrmovies.hair/) - Movies / TV / 1080p
 * [Best-MovieZ](https://www.best-moviez.ws/) - Movies / TV / 1080p
 * [SeriezLoaded NG](https://www.seriezloaded.com.ng/) - Movies / TV / 1080p
+* [MoviesMod](https://moviesmod.dev/movies/hollywood/english-movies/) - Movies / TV / 1080p
 * [ShareMania](https://sharemania.us/) - Movies / TV / 4K
 * [GdriveMovies](https://gdrivemovies.xyz/) - Movies / 4K / [Telegram](https://t.me/+VJeqrXLHsHsg8JzI)
 * [Google Drive Movies](https://databasegdriveplayer.co/movie.php), [TV](https://databasegdriveplayer.co/series.php), [Anime](https://databasegdriveplayer.co/anime.php), [KDrama](https://databasegdriveplayer.co/drama.php) -  Movies / TV / Anime / 720p
