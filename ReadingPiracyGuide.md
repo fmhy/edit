@@ -326,6 +326,7 @@
 * ⭐ **[AcademicTorrents](https://academictorrents.com/)**
 * [Institutional Access](https://www.facebook.com/groups/850609558335839) - Request Institutional Access PDFs
 * [Library Drive](https://github.com/nbats/FMHYedit/blob/main/base64.md#library-drive)
+* [Edu Book Drive](https://github.com/fmhy/FMHYedit/blob/main/base64.md#edu-book-drive)
 * [Openstax](https://openstax.org/)
 * [Online Books Page](https://onlinebooks.library.upenn.edu/)
 * [The Literature Network](https://www.online-literature.com/)
