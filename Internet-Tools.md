@@ -10,7 +10,6 @@
 * ⭐ **[ntfy](https://ntfy.sh/)** or [PingMe](https://github.com/kha7iq/pingme) - Custom Push Notifications
 * [WebCatalog](https://webcatalog.io/) or [Pake](https://github.com/tw93/Pake) - Turn Webpages into Desktop Apps
 * [LocalHost](https://localhost.run/) - Connect Web Apps to Internet
-* [Yandex Disk](https://disk.yandex.com/), [VK WorkSpace](https://biz.mail.ru/) or [OpenDesktop](https://www.opendesktop.org/) - Google Cloud Service Alternatives
 * [deploy-your-own-saas](https://github.com/Atarity/deploy-your-own-saas) - Self-Hosted Cloud Services
 * [Namechk](https://namechk.com/), [NameCheckr](https://www.namecheckr.com/), [NameCheckup](https://namecheckup.com/) or [IUS](https://instantusername.com/) - Check Username Availability
 * [SiteExplainer](https://www.siteexplainer.com/) - AI Site Explanations
@@ -73,6 +72,7 @@
 
 ## ▷ Bookmark Managers
 
+* ⭐ **[Raindrop.io](https://raindrop.io/)**
 * [Saved.io](https://saved.io/)
 * [Pilgrim](https://pilgrim.are.na/) - Tree Style Path Bookmarking
 * [Bort](https://bort.io/) - Bookmark Manager that Syncs with Dropbox 
@@ -85,7 +85,6 @@
 * [start.me](https://start.me/start/int/startpage)
 * [buku](https://github.com/jarun/buku)
 * [booky](https://booky.io/)
-* [Raindrop.io](https://raindrop.io/)
 * [WebCrate](https://webcrate.app/)
 * [Unmark](https://unmark.it/)
 * [Diigo](https://diigo.com/)
