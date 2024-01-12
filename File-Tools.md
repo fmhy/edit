@@ -301,6 +301,7 @@
 * [Transfernow](https://www.transfernow.net/en)
 * [send-anywhere](https://send-anywhere.com/)
 * [onionshare](https://onionshare.org/)
+* [Horizon Send](https://send.hrzn.cool/)
 * [OwnCloud](https://owncloud.com/)
 * [MLDonkey](https://github.com/ygrek/mldonkey)
 * [etesync](https://www.etesync.com/)
