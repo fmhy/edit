@@ -797,6 +797,7 @@
 * ⭐ **[GG.deals](https://gg.deals/)**
 * ⭐ **[IsThereAnyDeal](https://isthereanydeal.com/)** 
 * ⭐ **[SteamDB](https://steamdb.info/sales/)**
+* [CheapShark](https://www.cheapshark.com/) / [Discord](https://discord.com/invite/cheapshark)
 * [AllKeyShop](https://www.allkeyshop.com/blog/) or [PSPrices](https://psprices.com/)
 * [EpicGamesDC](https://epicgamesdb.info/) - Epic Store Price Tracker
 * [PriceCharting](https://www.pricecharting.com/) - Game, Comic & Trading Card Price Tracker
@@ -1175,6 +1176,7 @@
 * [rrrather](https://rrrather.com/) - Would You Rather
 * [Scattergories](https://swellgarfo.com/scattergories) - Scattergories List Generator
 * [Gizoogle](https://www.gizoogle.net/) - Google Shiznit
+* [Mystery Search](https://www.mysterysearch.lol/) - Google, but you get last person's search
 * [Presence](https://presence.mrarich.com/) - Unwrap Presents Remotely
 * [WindowSwap](https://window-swap.com/window) or [VisualVacation](https://virtualvacation.us/window) - Open Random Windows
 * [Land Lines](https://lines.chromeexperiments.com/) - Explore Google Earth via Gestures
