@@ -80,9 +80,11 @@
 
 ## Android File Explorers
 
-* ⭐ **[MiXplorer](https://mixplorer.com/)**, [2](https://forum.xda-developers.com/t/app-2-2-mixplorer-v6-x-released-fully-featured-file-manager.1523691/) - [Themes](https://play.google.com/store/apps/details?id=de.dertyp7214.mixplorerthemecreator)
-
-[Amaze File Manager](https://teamamaze.xyz/), [Ghost Commander](https://sourceforge.net/projects/ghostcommander/), [Material Files](https://github.com/zhanghai/MaterialFiles), [Cx File Explorer](https://play.google.com/store/apps/details?id=com.cxinventor.file.explorer), [IrkFM](https://github.com/lfuelling/lrkFM)
+* ⭐ **[MiXplorer](https://mixplorer.com/)**, [2](https://forum.xda-developers.com/t/app-2-2-mixplorer-v6-x-released-fully-featured-file-manager.1523691/) - [Themes](https://play.google.com/store/apps/details?id=de.dertyp7214.mixplorerthemecreator) - Advanced Root File Explorer
+* [Ghost Commander](https://sourceforge.net/projects/ghostcommander/) - Classic Dual-Panel Android File Explorer
+* [Material Files](https://github.com/zhanghai/MaterialFiles) - Lightweight And Linux-Aware File Explorer 
+* [Cx File Explorer](https://play.google.com/store/apps/details?id=com.cxinventor.file.explorer) - Full Feature App For Local And Cloud Storage
+* [IrkFM](https://github.com/lfuelling/lrkFM) - Open Source File Explorer
 
 ***
 
