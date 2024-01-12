@@ -9,7 +9,7 @@
 
 * ↪️ **[Spotify Adblock / Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_spotify_tools)**
 * ⭐ **[Spotify Client](https://www.spotify.com/us/download/)**, [Lofi Rocks](https://www.lofi.rocks/), [ncspot](https://github.com/hrkfdn/ncspot), [Strix](https://www.strixmusic.com/), [Ruurd](https://github.com/RuurdBijlsma/Music) or [SpoTube](https://spotube.netlify.app/) - Spotify Clients / [Android TV](https://github.com/nbats/FMHYedit/blob/main/base64.md#android-tv-spotify)
-* ⭐ **[MoonSync](https://moosync.app/)**, [yewtube](https://github.com/mps-youtube/yewtube), [YTMDesktop](https://ytmdesktop.app/) / [2](https://github.com/Venipa/ytmdesktop2), [Youtube-Music](https://github.com/th-ch/youtube-music) or [Headset](https://headsetapp.co) - YouTube Music Clients
+* ⭐ **[MooSync](https://moosync.app/)**, [yewtube](https://github.com/mps-youtube/yewtube), [YTMDesktop](https://ytmdesktop.app/) / [2](https://github.com/Venipa/ytmdesktop2), [Youtube-Music](https://github.com/th-ch/youtube-music) or [Headset](https://headsetapp.co) - YouTube Music Clients
 * [nuclear](https://nuclear.js.org/) - Streaming / [GitHub](https://github.com/nukeop/nuclear) / [Discord](https://discord.com/invite/JqPjKxE)
 * [FunkWhale](https://funkwhale.audio/) - Streaming
 * [MP3Jam](https://www.mp3jam.org/) - Streaming
