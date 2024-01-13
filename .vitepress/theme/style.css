@@ -40,6 +40,10 @@
   --vp-custom-block-danger-border: rgba(248, 113, 113, 1);
   --vp-custom-block-danger-text: rgb(196, 46, 46);
   --vp-custom-block-danger-text-deep: rgba(220, 38, 38, 1);
+
+  /* Scrollbar */
+  scroll-behavior: smooth;
+  scrollbar-width: 4px;
 }
 
 .dark {
@@ -226,4 +230,8 @@
   100% {
     transform: rotate(360deg);
   }
+}
+
+#VPContent strong > a {
+  font-weight: bold;
 }
