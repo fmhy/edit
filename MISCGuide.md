@@ -851,7 +851,7 @@
 * [StageTimer](https://stagetimer.io/) - Event Timer
 * [Countdowns](https://www.countdowns.live/) - Create Custom Countdowns
 * [A Bra That Fits](https://www.abrathatfits.org/calculator.php) - Bra Size Calculator
-* [Cold Turkey](https://getcoldturkey.com/) - Site Blocker / Productivity Booster / [Premium Unlock](https://github.com/nbats/FMHYedit/blob/main/base64.md#cold-turkey-premium)
+* [Cold Turkey](https://getcoldturkey.com/) - Site Blocker / Productivity Booster / [Premium Unlock](https://rentry.co/FMHYBase64#cold-turkey-premium)
 * [FigureRealm](https://www.figurerealm.com/) - Track Action Figure Collection
 * [AllBadges](https://allbadges.net/en) - Track Badge Collection
 * [Wheel Decide](https://wheeldecide.com/), [PickerWheel](https://pickerwheel.com/), [HeySpinner](https://heyspinner.com/) or [Wheel of Names](https://wheelofnames.com/) - Wheel Randomizers
