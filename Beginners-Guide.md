@@ -91,7 +91,7 @@ Use [this](https://bitbucket.org/magnolia1234/bypass-paywalls-firefox-clean/src/
 
 **[VirusTotal](https://www.virustotal.com) / [Kaspersky Cloud](https://opentip.kaspersky.com/)** - Test the safety of files
 **[Guide for VirusTotal](https://rentry.org/Guide4VirusTotal)** - Virus scan results guide
-**[Malwarebytes Premium](https://fmhy.net/base64#malwarebytes-prem)** - Antivirus software
+**[Malwarebytes Premium](https://rentry.co/FMHYBase64#malwarebytes-prem)** - Antivirus software
 
 !!!note Antivirus software is usually bloatware. Stick to trusted sources for games and software and you will be fine with nothing but Windows Defender and an occasional Malwarebytes scan. Remember to always scan software before installing it with tools like **[VirusTotal](https://www.virustotal.com/)** or use it in **[Sandboxie](https://rentry.co/sandboxie-guide)**.
 
@@ -132,7 +132,7 @@ Use [this](https://bitbucket.org/magnolia1234/bypass-paywalls-firefox-clean/src/
 **[LRepacks](https://lrepacks.net/)** - Trusted software site
 **[OlaMovies](http://olamovies.yachts/)** - Fast video downloads
 **[FitGirl Repacks](https://fitgirl-repacks.site/) / [SteamRIP](https://steamrip.com/) / [GOG-Games](https://gog-games.to/)** - Game download sites / [FitGirl Discord](https://discord.gg/Up3YARe4RW)
-**[Vimms Lair](https://vimm.net/) / [No-Intro](https://github.com/fmhy/FMHYedit/blob/main/base64.md#no-intro)** - ROM download sites / [Emulators](https://emulation.gametechwiki.com/)
+**[Vimms Lair](https://vimm.net/) / [No-Intro](https://rentry.co/FMHYBase64#no-intro)** - ROM download sites / [Emulators](https://emulation.gametechwiki.com/)
 **[Firehawk52](https://rentry.org/firehawk52)** - Music ripping guide
 **[Slavart](https://discord.gg/EwvEHgqmsn) / [DoubleDouble](https://doubledouble.top/)** - Multi-Site audio download
 **[Free MP3 Download](https://free-mp3-download.net/)** - MP3 / FLAC downloads
@@ -178,8 +178,8 @@ Use [this](https://bitbucket.org/magnolia1234/bypass-paywalls-firefox-clean/src/
 
 ### Mobile Piracy
 
-**[Android AdGuard Premium](https://github.com/nbats/FMHYedit/blob/main/base64.md#adguard-premium)** / **[iOS AdGuard Premium](https://github.com/fmhy/FMHYedit/blob/main/base64.md#adguard-pro-ios)** - Adblocking app
-**[Android Modded Spotify](https://github.com/nbats/FMHYedit/blob/main/base64.md#modded-spotify-apk)** / **[iOS Modded Spotify](https://github.com/nbats/FMHYedit/blob/main/base64.md#spotify)** - Modded Spotify
+**[Android AdGuard Premium](https://rentry.co/FMHYBase64#adguard-premium)** / **[iOS AdGuard Premium](https://rentry.co/FMHYBase64#adguard-pro-ios))** - Adblocking app
+**[Android Modded Spotify](https://rentry.co/FMHYBase64#modded-spotify-apk)** / **[iOS Modded Spotify](https://rentry.co/FMHYBase64#spotify)** - Modded Spotify
 **[Cromite](https://github.com/uazo/cromite) / [Firefox](https://www.mozilla.org/en-US/firefox/browsers/mobile/android/) / [Kiwi](https://play.google.com/store/apps/details?id=com.kiwibrowser.browser&hl=en_US&gl=US)** - Android web browsers
 **[Brave](https://apps.apple.com/us/app/brave-private-web-browser-vpn/id1052879175)** - iOS web browser / [Improve Safari](https://hyperweb.app/)
 **[Mobilism](https://forum.mobilism.org/viewforum.php?f=398)** - Modded APKs
