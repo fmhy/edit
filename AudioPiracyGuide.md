@@ -8,7 +8,7 @@
 ## ▷ Streaming Apps
 
 * ↪️ **[Spotify Adblock / Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_spotify_tools)**
-* ⭐ **[Spotify Client](https://www.spotify.com/us/download/)**, [Lofi Rocks](https://www.lofi.rocks/), [ncspot](https://github.com/hrkfdn/ncspot), [Strix](https://www.strixmusic.com/), [Ruurd](https://github.com/RuurdBijlsma/Music) or [SpoTube](https://spotube.netlify.app/) - Spotify Clients / [Android TV](https://github.com/nbats/FMHYedit/blob/main/base64.md#android-tv-spotify)
+* ⭐ **[Spotify Client](https://www.spotify.com/us/download/)**, [Lofi Rocks](https://www.lofi.rocks/), [ncspot](https://github.com/hrkfdn/ncspot), [Strix](https://www.strixmusic.com/), [Ruurd](https://github.com/RuurdBijlsma/Music) or [SpoTube](https://spotube.netlify.app/) - Spotify Clients / [Android TV](https://rentry.co/FMHYBase64#android-tv-spotify)
 * ⭐ **[MooSync](https://moosync.app/)**, [yewtube](https://github.com/mps-youtube/yewtube), [YTMDesktop](https://ytmdesktop.app/) / [2](https://github.com/Venipa/ytmdesktop2), [Youtube-Music](https://github.com/th-ch/youtube-music) or [Headset](https://headsetapp.co) - YouTube Music Clients
 * [nuclear](https://nuclear.js.org/) - Streaming / [GitHub](https://github.com/nukeop/nuclear) / [Discord](https://discord.com/invite/JqPjKxE)
 * [FunkWhale](https://funkwhale.audio/) - Streaming
@@ -238,8 +238,8 @@
 * [24naijamuzic](https://www20.24naijamuzic.com/) - 256kb / MP3
 * [Freemp3cloud](https://freemp3cloud.com) - 256kb / MP3
 * [Ezhevika](https://ezhevika.blogspot.com/) - 192kb / MP3
-* [Rhapsody](https://github.com/nbats/FMHYedit/blob/main/base64.md#rhapsody) - 128kb / MP3
-* [Tyler](https://github.com/nbats/FMHYedit/blob/main/base64.md#tyler) - 128kb / MP3
+* [Rhapsody](https://rentry.co/FMHYBase64#rhapsody) - 128kb / MP3
+* [Tyler](https://rentry.co/FMHYBase64#tyler) - 128kb / MP3
 * [SoundClick](https://www.soundclick.com/default.cfm) - MP3
 * [nodata](https://nodata.tv/) - MP3
 * [z1.fm](https://z2.fm/) - MP3
@@ -271,7 +271,7 @@
 * [Core Radio](https://coreradio.online/) - MP3 / FLAC 
 * [AlterPortal](https://alterportal.net/) - MP3 / FLAC
 * [#BATCAVE](https://pastebin.com/TzK2G963) - MP3 / FLAC
-* [Moe:81](https://github.com/nbats/FMHYedit/blob/main/base64.md#moe81) - MP3 / FLAC
+* [Moe:81](https://rentry.co/FMHYBase64#moe81) - MP3 / FLAC
 * [Plastinka](https://plastinka.org/) - MP3 / FLAC
 * [Exystence](https://exystence.net/) - MP3 / FLAC
 * [ThemFire](https://themfire.pro/) - MP3 / FLAC 
@@ -312,7 +312,7 @@
 * [Guitars101](https://www.guitars101.com/) - Live Audio / Video
 * [Download-Soundtracks](https://download-soundtracks.com/), [3ost](https://3ost.ru/), [joshw](https://pc.joshw.info/) / [Search](https://vgm.hcs64.com/) or [tanikal](https://www.tanikal.com/) - Soundtracks 
 * [RenovationRecords](https://renovatiorecords.blogspot.com/) - HQ Movies Soundtracks
-* [GTA Radio Stations Music](https://github.com/nbats/FMHYedit/blob/main/base64.md#gta-radio-stations) - GTA Radio Stations
+* [GTA Radio Stations Music](https://rentry.co/FMHYBase64#gta-radio-stations) - GTA Radio Stations
 * [AniPlaylist](https://aniplaylist.com/), [SakuraOST](https://www.sakuraost.com/), [HiyoriOST](https://www.hiyoriost.com/), [OSAnime](https://osanime.com/) or [Anime Sharing](https://koe.anime-sharing.com/) - Anime Soundtracks 
 * [OtakuOst](https://otakuost.net/) - Anime Soundtracks & Japanese Music 
 * [KDramaOST](https://kdramaost.com/en) - Asian Drama Soundtracks
@@ -413,7 +413,7 @@
 * ⭐ **[Redacted](https://interviewfor.red/)** - MP3 / FLAC
 * ⭐ **[New-Team](https://new-team.org/)** - MP3 / FLAC
 * ⭐ **[Orpheus](https://orpheus.network/)** - MP3 / FLAC / [Interviews](https://interview.orpheus.network/)
-* ⭐ **[Redtopia](https://github.com/nbats/FMHYedit/blob/main/base64.md#redtopia)** - Redtopia Repository / FLAC
+* ⭐ **[Redtopia](https://rentry.co/FMHYBase64#redtopia)** - Redtopia Repository / FLAC
 * ⭐ **[Lidarr](https://github.com/Lidarr/Lidarr)** or [Headphones](https://github.com/rembo10/headphones) - Audio Torrent Autodownload
 * ⭐ **[Audio Torrent CSE](https://cse.google.com/cse?cx=006516753008110874046:v75cyb4ci55)** - Multi-Site Search
 * [DimeADozen](http://www.dimeadozen.org/) - MP3 / FLAC
@@ -727,8 +727,8 @@
 * ⭐ **[/r/CrackedPluginsX](https://www.reddit.com/r/CrackedPluginsX/)** or [/r/PluggnB](https://www.reddit.com/r/PluggnB/) - Plugin Subreddits
 * ⭐ **[PLUGG SUPPLY](https://t.me/pluggsupply)** - Telegram / [VK](https://vk.com/pluggsupply)
 * ⭐ **[Plugin Clouds](https://t.me/joinchat/eBPFLPGucTU5YjQ9)** - [Archive](https://t.me/plugincloudsarchive)
-* [Producer Plug Sheet](https://github.com/nbats/FMHYedit/blob/main/base64.md#producer-plug-sheet)
-* [Free DAW plugins](https://docs.google.com/spreadsheets/d/1wr0RjPfQvD_VrIivi4U4tsnqMdL78sWOaDUI2Z95R9U/htmlview?fbclid=IwAR3jUwxfkL7aMruLKomutJZ7-H3xjM1X4JX422mSbCgECdt5ugkHtGWlsF8##gid=0) or [/u/BitterApple69 Plugins](https://github.com/nbats/FMHYedit/blob/main/base64.md#ubitterapple69-plugins) - Plugin Documents
+* [Producer Plug Sheet](https://rentry.co/FMHYBase64#producer-plug-sheet)
+* [Free DAW plugins](https://docs.google.com/spreadsheets/d/1wr0RjPfQvD_VrIivi4U4tsnqMdL78sWOaDUI2Z95R9U/htmlview?fbclid=IwAR3jUwxfkL7aMruLKomutJZ7-H3xjM1X4JX422mSbCgECdt5ugkHtGWlsF8##gid=0) or [/u/BitterApple69 Plugins](https://rentry.co/FMHYBase64#ubitterapple69-plugins) - Plugin Documents
 * [Audioz](https://audioz.download/)
 * [VST Torrents](https://vsttorrentz.net/)
 * [SPARTA](https://leomccormack.github.io/sparta-site/)
