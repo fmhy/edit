@@ -86,7 +86,6 @@ export const sidebar: DefaultTheme.Sidebar = [
     items: [
       { text: "🔞 NSFW", link: "/nsfwpiracy" },
       { text: "⚠️ Unsafe Sites", link: "/unsafesites" },
-      { text: "🔑 Base64", link: "/base64" },
       { text: "📦 Storage", link: "/storage" },
     ],
   },
