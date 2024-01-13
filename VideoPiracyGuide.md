@@ -74,7 +74,7 @@
 
 * ⭐ **[Cinewave](https://discord.gg/8HBf5SRK77)** - Movies / TV / Anime / 1080p
 * ⭐ **[UpMovies](https://upmovies.to/)** - Movies / TV / Anime / 1080p / Use Adblock
-* ⭐ **[BFLIX](https://bflix.gs/)** - Movies / TV / 1080p
+* ⭐ **[Nites](https://ww4.nites.is/)** - Movies / TV / 1080p
 * ⭐ **[FSonic](https://www.fsonic.net/)** - Movies / 1080p
 * ⭐ **[Watch A Movie](https://watcha.movie/)** - Movies / TV / 1080p
 * ⭐ **[EE3](https://ee3.me/)** or [RIPS](https://rips.cc/) - Movies / 1080p / Invite Code: mpgh or 1hack
@@ -89,7 +89,6 @@
 * [English Movies](https://m.vk.com/english_movies) - Movies / 1080p
 * [StreamLord](http://www.streamlord.com/) - Movies / TV / 1080p
 * [VidCloud](https://vidcloud1.com/) - Movies / TV / 1080p
-* [Nites](https://ww4.nites.is/) - Movies / TV / 1080p
 * [MoviehdKH](https://www.moviehdkh.com/) - Movies / 1080p
 * [Show Flix](https://showflix.in/lan/movie/English) - Movies / TV / 1080p / Switch Audio Source in Settings
 * [GotyTV](https://gotytv.com/) - Movies / TV / 1080p / Requires Signup
