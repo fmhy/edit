@@ -96,64 +96,35 @@
 * [Autoclear ChatGPT History](https://github.com/adamlui/userscripts/tree/master/chatgpt/autoclear-chatgpt-history) - Autoclear Chats
 * [EditGPT](https://www.editgpt.app/) - Proofread Chats
 * [RepeatGPT](https://repeatgpt.com/) - Schedule Chats
-* [ChatGPT-Matrix-Style](https://github.com/lvwzhen/ChatGPT-Matrix-Style) - Matrix Theme
 
 ***
 
 ## ▷ ChatGPT Prompts
 
-* 🌐 **[Awesome ChatGPT Prompts](https://prompts.chat/)** - Prompt Directory
-* 🌐 **[jailbreakchat](https://www.jailbreakchat.com/)** or **[jamessawyer](http://www.jamessawyer.co.uk/pub/gpt_jb.html)** - Jailbreak Prompts
-* ⭐ **[Prompt Engineering Guide](https://www.promptingguide.ai)**, [prompt-engineering](https://platform.openai.com/docs/guides/prompt-engineering), [LearningPrompt](https://learningprompt.wiki/) or [Jailbreaking ChatGPT](https://arxiv.org/pdf/2305.13860) - Prompting Guides
+* ⭐ **[Awesome ChatGPT Prompts](https://prompts.chat/)** - Prompt Directory
+* ⭐ **[Prompt Engineering Guide](https://www.promptingguide.ai)**, [OpenAI Guide](https://platform.openai.com/docs/guides/prompt-engineering), [LearningPrompt](https://learningprompt.wiki/) or [Jailbreaking ChatGPT](https://arxiv.org/pdf/2305.13860) - Prompting Guides
+* ⭐ **[jailbreakchat](https://www.jailbreakchat.com/)** or **[jamessawyer](http://www.jamessawyer.co.uk/pub/gpt_jb.html)** - Jailbreak Prompts
 * ⭐ **[quickref](https://quickref.me/chatgpt)** - Prompt Cheatsheets
-* ⭐ **[Leaked Prompts](https://github.com/linexjlin/GPTs)**, [500 Best Prompts](https://puzzle-jute-202.notion.site/500-Best-ChatGPT-Prompts-f5b4ad65deec4b6385316fdb8740af74), [flowgpt](https://flowgpt.com/), [Prompts Hub](https://docs.google.com/spreadsheets/d/1Y-xQwFkQFCKhPB3nOMyTMNPZ-vaFiof2-vWGBAeupTo/edit#gid=0), [DataFit](https://datafit.ai/top-chatgpt-prompts), [ChainBrain AI](https://www.chainbrainai.com/), [AwesomeGPTPrompts](https://www.awesomegptprompts.com/), [OrdinaryPeoplePrompts](https://www.ordinarypeopleprompts.com/), [UseThisPrompt](https://www.usethisprompt.io/) or [SnackPrompt](https://snackprompt.com/) - Prompt Directories
-* [GPTea](https://gptea.io/) - Trending Prompts
-* [SD Dynamic Prompts](https://github.com/adieyal/sd-dynamic-prompts) or [PromptBot](https://www.messengerx.io/promptbot) - Prompt Generators
+* ⭐ **[flowgpt](https://flowgpt.com/)**, **[Leaked Prompts](https://github.com/linexjlin/GPTs)**, [500 Best Prompts](https://puzzle-jute-202.notion.site/500-Best-ChatGPT-Prompts-f5b4ad65deec4b6385316fdb8740af74), [UseThisPrompt](https://www.usethisprompt.io/), [GPTea](https://gptea.io/) or [SnackPrompt](https://snackprompt.com/) - Prompt Directories
 * [PromptPerfect](https://promptperfect.jina.ai/) - Prompt Optimization
 * [promptfoo](https://github.com/typpo/promptfoo) or [PromptKnit](https://promptknit.com/) - Prompt Playgrounds
-* [botprompts](https://botprompts.net/) - Fun Prompts
 * [Marketing 2099](https://sintralabs.notion.site/Marketing-2099-Ultimate-ChatGPT-Marketing-Prompts-To-Copy-Paste-200-tasks-fc22c9142d6a4a4286a3fe755be932e6) - ChatGPT Marketing Prompts
-* [ChatGPT-History](https://github.com/benf2004/ChatGPT-Prompt-Genius) - Prompt Management Extensions
 
 ***
 ***
 
 # ► AI Indexes
 
-* 🌐 **[Futurepedia](https://www.futurepedia.io/)** - AI Directory
-* 🌐 **[AI-MF](https://whoisdsmith.gitbook.io/ai-mf/)** - AI Directory / [GitHub](https://github.com/whoisdsmith/AI-MTHRFCKR)
-* 🌐 **[AI Collection](https://www.thataicollection.com/)** - AI Directory
-* 🌐 **[AI Scout](https://aiscout.net/)** - AI Directory
-* 🌐 **[AIcyclopedia](https://www.aicyclopedia.com/)** - AI Directory
-* [Awesome-GPTs](https://github.com/ai-boost/Awesome-GPTs) - AI Directory
-* [Favird](https://favird.com/) - AI Directory
-* [FutureTools](https://www.futuretools.io/?pricing-model=free) - AI Directory
-* [ToolScoutAI](https://toolscout.ai/) - AI Directory
-* [ListedAI](https://www.listedai.co/) - AI Directory
-* [ManyTools](https://manytools.ai/) - AI Directory
-* [AI Creator Tools](https://library.phygital.plus/) - AI Directory
-* [topai](https://topai.tools/) - AI Directory
-* [TheresAnAIForThat](https://theresanaiforthat.com/) - AI Directory
-* [AI-Infinity](https://aiinfinity-meetpatel.notion.site/AI-Infinity-AI-Tools-Directory-0da673c487124ea2b6f8ebe59b75a231) - AI Directory
-* [AI Center](https://aicenter.ai/) - AI Directory
-* [Wiki AI Tools](https://www.wikiaitools.com/) - AI Directory
-* [TopApps.Ai](https://topapps.ai/) - AI Directory
-* [MangoAI](https://mangoai.co/) - AI Directory
+* ⭐ **[Toolify](https://www.toolify.ai/)** - AI Directory
+* ⭐ **[Phygital Library](https://library.phygital.plus/)** - AI Directory / Workflow Builder
+* ⭐ **[AI-MF](https://whoisdsmith.gitbook.io/ai-mf/)** - AI Directory / [GitHub](https://github.com/whoisdsmith/AI-MTHRFCKR)
 * [ToolDirectory](https://www.tooldirectory.ai/) - AI Directory
-* [Foundr](https://foundr.ai/) - AI Directory
-* [Toolify](https://www.toolify.ai/) - AI Directory
-* [intersys](https://intersys.ai/) - AI Directory
-* [NaNAI.tools](https://nanai.tools) - AI Directory
+* [Futurepedia](https://www.futurepedia.io/) - AI Directory 
 * [PowerUsers](https://powerusers.ai/) - AI Directory
-* [SuperTools](https://supertools.therundown.ai/) - AI Directory
-* [GPTE](https://gpte.ai/) - AI Directory
-* [EasyWithAI](https://easywithai.com/) - AI Directory
-* [Toolspedia](https://www.toolspedia.io/) - AI Directory
-* [Hayo](https://www.hayo.com/tools) - AI Directory
-* [iLib](https://www.ilib.com/) - AI Directory
-* [WikiGPT3](https://www.wikigpt3.com/) - AI Directory
-* [ArtificialStudio](https://www.artificialstudio.ai/tools) - Browser-Based AI
-* [Experiments with Google](https://labs.withgoogle.com/) - AI Experiments
+* [TheresAnAIForThat](https://theresanaiforthat.com/) - AI Directory
+* [FutureTools](https://www.futuretools.io/?pricing-model=free) - AI Directory
+* [ArtificialStudio](https://www.artificialstudio.ai/tools) - Multi-Tool Browser AI
+* [Google Labs](https://labs.withgoogle.com/) - AI Experiments
 
 ***
 ***
@@ -169,7 +140,7 @@
 * [TextFX](https://textfx.withgoogle.com/) - AI Creative Writing Tools
 * [Novel.sh](https://novel.sh/) or [TextSynth](https://textsynth.com/playground.html) - Text Autocomplete AI
 * [Compose](https://www.compose.ai/) - Text Autocomplete AI Extension
-* [NumerousAI](https://workspace.google.com/marketplace/app/numerousai/575253125118) or [FormulaBot](https://formulabot.com/) - Excel AI Tools
+* [NumerousAI](https://numerous.ai/) or [FormulaBot](https://formulabot.com/) - Excel AI Tools
 * [Auto Text Expander](https://pastebin.com/TFPRieVN) - Shortcuts to Expand & Replace Text as you Type
 
 ***
@@ -217,6 +188,7 @@
 * [Maze.guru](https://maze.guru/gallery)
 * [ArtHub.ai](https://arthub.ai/)
 * [Vitalentum](https://vitalentum.net/)
+* [SD Dynamic Prompts](https://github.com/adieyal/sd-dynamic-prompts)
 * [POKEIT](https://pokeit.ai/)
 * [Krea](https://search.krea.ai/) / [Discord](https://discord.gg/rJurUAR8Kz)
 * [Prompt Book](https://openart.ai/discovery) / [Discord](https://discord.com/invite/yTMNvk5z97)
