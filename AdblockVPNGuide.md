@@ -444,7 +444,7 @@
 * [CensorTracker](https://github.com/roskomsvoboda/censortracker), [FoxyProxy](https://getfoxyproxy.org/) or [SwitchyOmega](https://github.com/FelisCatus/SwitchyOmega) - Proxy Extensions
 * [Acrylic](https://mayakron.altervista.org/) - DNS Cache Local Proxy
 * [SimpleDnsCrypt](https://github.com/instantsc/SimpleDnsCrypt) - DNS Encryption Local Proxy
-* [Proxifier](https://www.proxifier.com/) - Add proxy functionality to applications / [Keys](https://github.com/nbats/FMHYedit/blob/main/base64.md#proxifier-keys)
+* [Proxifier](https://www.proxifier.com/) - Add proxy functionality to applications / [Keys](https://rentry.co/FMHYBase64#proxifier-keys)
 * [Hiddify](https://hiddify.com/) - Auto-Proxy Client
 * [NginxProxyManager](https://github.com/NginxProxyManager/nginx-proxy-manager) - Self-Hosted Proxy Server
 * [Shadowsocks](https://shadowsocks.org/) / [Free Servers](https://github.com/ruanfei/cross), [2](https://github.com/learnhard-cn/free_proxy_ss) / [Client](https://github.com/shadowsocks/shadowsocks-windows) - Proxy Client and Self-Hosted Server
