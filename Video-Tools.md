@@ -406,7 +406,7 @@
 * [AERiver](https://aeriver.com/) - After Effects
 * [Intro HD](https://intro-hd.net/) - After Effects
 * [AEDownloadPro](https://aedownloadpro.com/) - After Effects
-* [Adobe After Effects Collection](https://github.com/nbats/FMHYedit/blob/main/base64.md#adobe-after-effects-collection) - After Effects
+* [Adobe After Effects Collection](https://rentry.co/FMHYBase64#adobe-after-effects-collection) - After Effects
 
 ***
 
