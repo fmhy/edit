@@ -405,7 +405,7 @@
 ## ▷ Download Fonts
 
 * ⭐ **[Font Download Guide](https://redd.it/8tqfg6)**
-* ⭐ **[Font Drives](https://github.com/nbats/FMHYedit/blob/main/base64.md#font-collections)**
+* ⭐ **[Font Drives](https://rentry.co/FMHYBase64#font-collections)**
 * ⭐ **[FontSource](https://fontsource.org/)**
 * [Coollabs](https://fonts.coollabs.io/) - Google Font Alternative / [GitHub](https://github.com/coollabsio/fonts)
 * [Google Fonts](https://fonts.google.com/)
