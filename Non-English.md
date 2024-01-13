@@ -71,7 +71,6 @@
 
 ## ▷ Reading
 
-* ↪️ **[Quran Course](https://github.com/nbats/FMHYedit/blob/main/base64.md#quran-course)**
 * [24livenewspaper](https://www.24livenewspaper.com/bangla-newspaper) or [allbanglanewspaper](https://www.allbanglanewspaper.xyz/) - Bangla Newspapers
 * [IQGAW](https://t.me/IQGamer_PDFStore) - PDF Library for BD HSC Candidates
 * [BanglaBookshelf](https://www.banglabookshelf.com/) - Fiction / Islamic / Tech Books
@@ -81,9 +80,9 @@
 
 ## ▷ Streaming
 
-* ↪️ **[Bangla English Course](https://github.com/nbats/FMHYedit/blob/main/base64.md#bangla-english-course)**
-* ↪️ **[Bangla Freelancing Course](https://github.com/nbats/FMHYedit/blob/main/base64.md#bangla-freelancing)**
-* ↪️ **[Bangla Excel Course](https://github.com/nbats/FMHYedit/blob/main/base64.md#bangla-excel)**
+* ↪️ **[Bangla English Course](https://rentry.co/FMHYBase64#bangla-english-course)**
+* ↪️ **[Bangla Freelancing Course](https://rentry.co/FMHYBase64#bangla-freelancing)**
+* ↪️ **[Bangla Excel Course](https://rentry.co/FMHYBase64#bangla-excel)**
 
 ***
 
@@ -645,7 +644,7 @@
 
 ## ▷ Downloading
 
-* ↪️ **[BMZone](https://github.com/nbats/FMHYedit/blob/main/base64.md#bmzone)** - Anime / Sub / 1080p
+* ↪️ **[BMZone](https://rentry.co/FMHYBase64#bmzone)** - Anime / Sub / 1080p
 * [eurekaddl](https://eurekaddl.sbs/) - Video / Audio / Books / Magazines / Comics / NSFW / Sub / 1080p
 * [OverDay](https://overday.info/) - Courses / Books
 * [HD4Me](https://hd4me.net/) - Movies / TV / Sub / 720p
