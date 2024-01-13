@@ -9529,7 +9529,7 @@ Linux Gaming Guide
 * rTorrent Tools - [Extended](https://github.com/pyroscope/rtorrent-ps) / [Tools](https://github.com/pyroscope/pyrocore) / [Mods](https://calomel.org/rtorrent_mods.html)
 * [Luakit](https://luakit.github.io/) - Lightweight Linux Browser 
 * [browsh](https://www.brow.sh/) - Text Based Browser
-* [aerc](https://aerc-mail.org/), [ElectronMail](https://github.com/vladimiry/ElectronMail) or [dodo](https://github.com/akissinger/dodo) - Email Clients
+* [ElectronMail](https://github.com/vladimiry/ElectronMail) or [dodo](https://github.com/akissinger/dodo) - Email Clients
 * [Akregator](https://apps.kde.org/akregator/) - RSS Feed Reader
 * [pass](https://www.passwordstore.org/) - Unix Password Manager 
 * [Seahorse](https://gitlab.gnome.org/GNOME/seahorse) or [GnomeKeyring](https://wiki.gnome.org/Projects/GnomeKeyring) - GNOME Password Manager
