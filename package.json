@@ -26,9 +26,9 @@
     "nitropack": "latest",
     "nprogress": "^0.2.0",
     "pathe": "^1.1.1",
-    "unocss": "^0.57.1",
-    "vitepress": "npm:@taskylizard/vitepress@1.0.7",
-    "vue": "^3.3.7",
+    "unocss": "^0.58.3",
+    "vitepress": "npm:@taskylizard/vitepress@1.0.8",
+    "vue": "^3.4.13",
     "x-satori": "^0.1.5",
     "zod": "^3.22.4"
   },
@@ -40,6 +40,6 @@
     "@types/node": "^20.8.9",
     "@types/nprogress": "^0.2.3",
     "eslint": "^8.53.0",
-    "prettier": "^3.1.1"
+    "prettier": "^3.2.1"
   }
 }
