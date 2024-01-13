@@ -73,7 +73,6 @@
 * [Graphics Workshop](https://github.com/ekzhang/graphics-workshop) - Learn Computer Graphics
 * [SchoolOfHaskell](https://www.schoolofhaskell.com/) - Haskell Tutorials
 * [LearnYouHaskell](http://learnyouahaskell.com/chapters) - Haskell Guide
-* [RubyMonk](https://rubymonk.com/) - Ruby Tutorials
 * [Learn to Program](https://pine.fm/LearnToProgram/) - Ruby Tutorials
 * [LearnGo](https://github.com/inancgumus/learngo) or [play-with-go](https://play-with-go.dev/) - Learn Go Programming
 * [Official Go Tutorial](https://go.dev/doc/tutorial/getting-started) or [Tutorial Edge Go](https://github.com/TutorialEdge/Go) - Go Programming Tutorials
