@@ -690,7 +690,6 @@
 * [NicoNico SPEENYA](https://github.com/chimerast/niconico-speenya) - Presentation Style Comments
 * [Current Moon Phase](https://chromewebstore.google.com/detail/current-moon-phase/ippnbhhbamibfpljlfmgogaondodicgi) - Current Moon Phases
 * [Nicosapo](https://github.com/yurafuca/nicosapo) - Add Features to Nico Nico
-* [N-Bot](https://chromewebstore.google.com/detail/n-bot-google-meet-online/cpcenjbkciljcgglpgcmghcphjcbkffgen%E2%80%8E) - Bot to Attend Your Meetings / Classes
 * [Zoom Scheduler](https://zoom.us/download#chrome_ext) - Zoom Meeting Scheduler
 * [Typewriter](https://chromewebstore.google.com/detail/typewriter/jfghikfjnjkjkdpndeecjheealfoabhc) - Typing Typewriter Sounds
 * [Extpose](https://extpose.com/) - Track Performance of your own Extensions
@@ -700,7 +699,7 @@
 ## ▷ Safari Extensions
 
 * [Momentum](https://apps.apple.com/us/app/momentum/id1564329434) - Custom New Tab Page
-* [NightLight](https://apps.apple.com/us/app/nightlight-for-safari/id1429386865?mt=12), [Night Eye](https://apps.apple.com/us/app/night-eye-for-safari/id1450504903?mt=12), [Dark Reader Script](https://gist.github.com/kfur/266c456dd69072eb7533f457ee5f18a0) - Dark Mode
+* [Night Eye](https://apps.apple.com/us/app/night-eye-for-safari/id1450504903?mt=12), [Dark Reader Script](https://gist.github.com/kfur/266c456dd69072eb7533f457ee5f18a0) - Dark Mode
 * [StartPage.ai](https://apps.apple.com/us/app/startpage-ai/id1584727895) - Tab Manager
 * [Amerigo](https://apps.apple.com/us/app/amerigo-file-manager/id605569663) - File Download Manager
 * [PiPifier](https://apps.apple.com/us/app/pipifier/id1234771095) - Picture in Picture Mode
