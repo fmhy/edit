@@ -529,7 +529,6 @@ http://104.131.175.196:8080/, http://70.88.180.169:8088/, http://207.237.122.161
 * https://groups.google.com/g/torrent-drive
 * https://groups.google.com/forum/#!forum/sammytorrents
 * https://groups.google.com/g/team-drive99
-* https://groups.google.com/g/roshanstgbot
 * https://groups.google.com/g/rdrivelinks
 * https://groups.google.com/g/mirrordrive-index
 * https://groups.google.com/g/torrentleech-gdrive
@@ -1335,7 +1334,7 @@ http://104.131.175.196:8080/, http://70.88.180.169:8088/, http://207.237.122.161
 * ⭐ **[Wayback Machine](https://web.archive.org/)**
 * ⭐ **Wayback Machine Tools** - [ArchiveTeam Contribute](https://tracker.archiveteam.org/) / [Downloader](https://github.com/hartator/wayback-machine-downloader), [2](https://github.com/jsvine/waybackpack) / [Classic Frontend](https://wayback-classic.net/) / [Extension](https://github.com/internetarchive/wayback-machine-webextension), [2](https://vegetableman.github.io/vandal/) / [Addon](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_wayback_machine_extension) / [Script](https://github.com/overcast07/wayback-machine-spn-scripts) / [Toolkit](https://github.com/wabarc/wayback) / [Multi-URL](https://liamswayne.github.io/Super-Archiver/)
 * ⭐ **[Archive.is](https://archive.is/)** / [.li](https://archive.li/) / [.ph](https://archive.ph/) / [.vn](https://archive.vn/) / [.fo](https://archive.fo/) / [.md](https://archive.md/)
-* ⭐ **[cachedview](https://cachedview.nl/)**, **[Web Archives](https://github.com/dessant/web-archives)**, [CachedView](https://cachedview.com/), [resurrect-pages](https://github.com/arantius/resurrect-pages) / [2](https://github.com/Albirew/resurrect-pages-isup-edition) - Aggregate Cache Results
+* ⭐ **[cachedview](https://cachedview.nl/)**, **[Web Archives](https://github.com/dessant/web-archives)**, [CachedView](https://cachedview.com/), [resurrect-pages](https://github.com/Albirew/resurrect-pages-isup-edition) - Aggregate Cache Results
 * [Perma.cc](https://perma.cc/)
 * [ghostarchive](https://ghostarchive.org/)
 * [Arquivo.pt](https://arquivo.pt/?l=en)
