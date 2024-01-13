@@ -39,6 +39,9 @@
 * haxNode - Caught with [malware](https://www.virustotal.com/gui/file/e6318aa4432c304b234df65f5d87bf2577b930ed68ac7e68efcb76b465dc0784)
 * IGI30 - Caught with malware
 * MainRepo / MRepo - Caught with [malware](https://rentry.co/zu3i6) / Note that Magisk Module MRepo is unrelated 
+* YASDL - Uploaded versions of stardock / jetbrains with malware
+* AllPCWorld - Uploaded KMS Matrix which is known malware
+* RSLOAD - Uploaded the same version of malwarebytes that got FileCR in trouble
 * AppValley / TutuBox / Ignition - History of [ddos attacks](https://github.com/nbats/FMHYedit/pull/307)
 * CNET / Download.com / ZDNET - History of [adware](https://www.reddit.com/r/software/comments/9s7wyb/whats_the_deal_with_sites_like_cnet_softonic_and/e8mtye9/)
 
