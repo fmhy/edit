@@ -49,7 +49,7 @@
 
 * ⭐ **[KaOsKrew](https://www.kaoskrew.org/)** - Download / Torrent
 * ⭐ **[FitGirl Repacks](https://fitgirl-repacks.site/)** - Download / Torrent / [Discord](https://discord.gg/Up3YARe4RW)
-* ⭐ **[Gnarly Repacks](https://github.com/fmhy/FMHYedit/blob/main/base64.md#gnarly_repacks)** - Download
+* ⭐ **[Gnarly Repacks](https://rentry.co/FMHYBase64#gnarly_repacks)** - Download
 * ⭐ **[M4CKD0GE Repacks](https://m4ckd0ge-repacks.site/)** - Download / [Discord](https://discord.gg/693hNBdymb)
 * [FS-Repacks](https://www.fluxyrepacks.site/) - Download / [Discord](https://discord.gg/sSA3S3kZZn)
 * [ScOOt3r Repacks](https://discord.gg/xe3Fys8Upy) - Download / Torrent
@@ -81,7 +81,7 @@
 * [VETUSWARE](https://vetusware.com/category/Games/?cat=7) - Abandonware
 * [GamesNostalgia](https://gamesnostalgia.com/), [lemon64](https://www.lemon64.com/), [whdload](https://www.whdload.de/), [lemonamiga](https://www.lemonamiga.com/), [exotica](http://www.exotica.org.uk/), [hol abime](https://hol.abime.net/) or [C64](https://www.c64.com/) - Amiga / Commodore 64 Games
 * [World of Spectrum](https://worldofspectrum.org/) or [SpectrumComputing](https://spectrumcomputing.co.uk/) - Sinclair ZX Spectrum Games
-* [pc-98](https://github.com/nbats/FMHYedit/blob/main/base64.md#pc-98) - PC-98 Games
+* [pc-98](https://rentry.co/FMHYBase64#pc-98) - PC-98 Games
 * [Necromanthus](https://necromanthus.com/) - 3D Shockwave Games
 * [NBlood](https://github.com/nukeykt/NBlood) - Reverse-Engineered Ports of Build Games
 * [LegendsWorld](https://www.legendsworld.net/) - Retro PC Adventure Games
@@ -124,7 +124,7 @@
 * [Pixel Gun X](https://discord.com/invite/8796Fs9tZm) - Pixel Gun 3D Revival Project
 * [SpaceCadetPinball](https://github.com/k4zmu2a/SpaceCadetPinball) - Space Cadet Pinball
 * [Visual Pinball](https://github.com/vpinball/vpinball) - Pinball Table Editor / Simulator / [Tables](https://www.vpforums.org/)
-* [Clone Hero](https://clonehero.net/) - Guitar Hero Clone / [Setlists](https://github.com/nbats/FMHYedit/blob/main/base64.md#setlists), [2](https://customsongscentral.com/), [3](https://github.com/fmhy/FMHYedit/blob/main/base64.md#frif-drive) / [Wii Controller Support](https://github.com/Meowmaritus/WiitarThing) / [Custom Client](https://clonehero.scorespy.online)
+* [Clone Hero](https://clonehero.net/) - Guitar Hero Clone / [Setlists](https://rentry.co/FMHYBase64#setlists), [2](https://customsongscentral.com/), [3](https://rentry.co/FMHYBase64#frif-drive) / [Wii Controller Support](https://github.com/Meowmaritus/WiitarThing) / [Custom Client](https://clonehero.scorespy.online)
 * [YARC-Official](https://github.com/YARC-Official) - Rock Band Clone / [Launcher](https://github.com/YARC-Official/YARC-Launcher/releases)
 * [ITGmania](https://www.itgmania.com/) - DDR Clone
 * [beatoraja](https://mocha-repository.info/) - BMS Player as Alternative to IIDX / [beatoraja English Guide](https://github.com/wcko87/beatoraja-english-guide/wiki)
@@ -167,7 +167,7 @@
 * ⭐ **[Cemu Guide](https://cemu.cfw.guide/)** or [/r/CemuPiracy Tutorial](https://www.reddit.com/r/CemuPiracy/wiki/tutorial/) - WiiU / BOTW Setup Guides
 * ⭐ **[Switch Emu Guide](https://github.com/Abd-007/Switch-Emulators-Guide)**, [Yuzu Guide](https://docs.google.com/document/d/13mr48D9voqouyS-Dk4CnMpuQm4nN5y5h8uLmHmuULf4/edit) / [2](https://docs.google.com/document/d/1weVLWey3RePzn8LubFRFHRVkoczCbLkvSf8fNfp1yZ0/edit) / [3](https://github.com/PrincessAkira/road-to-yuzu-without-switch) / [4](https://rentry.org/128bb) or [Ryujinx Guide](https://docs.google.com/document/d/1prxOJaE4WhPeYNHW17W5UaWZxDgB8e5wNHxt2O4FKvs/edit) - Switch Emulator Setup Guides
 * ⭐ **[RAZE](https://github.com/ZDoom/Raze)** or [BuildGDX](https://m210.duke4.net/) - Oldschool Shooter Engine / [Discord](https://discord.gg/zZw2eq3n7G)
-* [TOSEC](https://github.com/nbats/FMHYedit/blob/main/base64.md#tosec) - The Old School Emulation Center
+* [TOSEC](https://rentry.co/FMHYBase64#tosec) - The Old School Emulation Center
 * [Xbox Emulation Hub](https://discord.com/invite/7pcAbZzpXj) - Xbox Emulation Discord
 * [EmuDeck](https://www.emudeck.com/) or [GameImage](https://gitlab.com/formigoni/gameimage) - Steam Deck Emulator
 * [Motion Support Bypass](https://redd.it/gobcne) - Fix Cemu BOTW Motion Shrines / [DL](https://mega.nz/file/1Uo3BI6L#X5m-bPK27-X-IijzJH1o4MloivkUqP33zsUJE_kpOdc)
@@ -194,15 +194,15 @@
 * 🌐 **[ROM Managers](https://emulation.gametechwiki.com/index.php/ROM_managers)** - List of ROM Managers
 * ↪️ **[Switch ROMs](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_switch_roms)**
 * ⭐ **[Vimms Lair](https://vimm.net/)** - Emulators / ROMs
-* ⭐ **[Rom Center](https://r-roms.github.io/)**, [2](https://r-roms.gitlab.io/megathread/), [3](https://pastelink.net/24dhn) - ROMs / [Pastebins](https://github.com/nbats/FMHYedit/blob/main/base64.md#romcenter)
+* ⭐ **[Rom Center](https://r-roms.github.io/)**, [2](https://r-roms.gitlab.io/megathread/), [3](https://pastelink.net/24dhn) - ROMs / [Pastebins](https://rentry.co/FMHYBase64#romcenter)
 * ⭐ **[Myrient](https://myrient.erista.me/)** - ROMs
-* ⭐ **[AlvRo](https://github.com/nbats/FMHYedit/blob/main/base64.md#alvro)** - ROMs / pw: ByAlvRo
-* ⭐ **[No-Intro](https://github.com/nbats/FMHYedit/blob/main/base64.md#no-intro)** - ROMs / [Downloader](https://github.com/silverlays/NoIntro-Roms-Downloader)
+* ⭐ **[AlvRo](https://rentry.co/FMHYBase64#alvro)** - ROMs / pw: ByAlvRo
+* ⭐ **[No-Intro](https://rentry.co/FMHYBase64#no-intro)** - ROMs / [Downloader](https://github.com/silverlays/NoIntro-Roms-Downloader)
 * ⭐ **[BlueRoms](https://www.blueroms.ws/)** - Emulators / ROMs
 * ⭐ **[CrocDB](https://crocdb.net/)** - Emulators / ROMs
 * ⭐ **[CDRomance](https://cdromance.com/)** - ROMs
 * ⭐ **[Ziperto](https://ziperto.com/)** - ROMs
-* ⭐ **[Gnarly Repacks](https://github.com/fmhy/FMHYedit/blob/main/base64.md#gnarly_repacks)** - ROMs / Emulator Repacks
+* ⭐ **[Gnarly Repacks](https://rentry.co/FMHYBase64#gnarly_repacks)** - ROMs / Emulator Repacks
 * ⭐ **[ROMhacking](https://www.romhacking.net/)** or [Reality Incorporated](https://sites.google.com/view/bonmarioinc/rom-hacks/released-rom-hacks) - ROM Fan Translations
 * ⭐ **[WiiUDownloader](https://github.com/Xpl0itU/WiiUDownloader)**, [WiiUSBHelper](https://github.com/FailedShack/USBHelperInstaller/releases), [WiiU ROMs](https://wiiuroms.net/) or [JNUSTool](https://gbatemp.net/threads/jnustool-nusgrabber-and-cdecrypt-combined.413179/) - ROMs / Wii U
 * [/r/ROMs](https://www.reddit.com/r/ROMs/) - Discussion Sub
@@ -211,10 +211,10 @@
 * [Edge Emulation](https://edgeemu.net/) - ROMs
 * [Zophar's Domain](https://www.zophar.net/) - Emulators / ROM Hacks
 * [TheRomDepot](https://theromdepot.com/) - ROMs
-* [Squid Proxy](https://github.com/nbats/FMHYedit/blob/main/base64.md#squid-proxy) - ROMs
-* [Rom GDrive](https://github.com/nbats/FMHYedit/blob/main/base64.md#rom-gdrive) - ROMs
-* [Arquivista ROMs](https://github.com/nbats/FMHYedit/blob/main/base64.md#arquivista) - ROMs
-* [FinalBurn Neo](https://github.com/nbats/FMHYedit/blob/main/base64.md#finalburn-neo) - ROMs / Zip 
+* [Squid Proxy](https://rentry.co/FMHYBase64#squid-proxy) - ROMs
+* [Rom GDrive](https://rentry.co/FMHYBase64#rom-gdrive) - ROMs
+* [Arquivista ROMs](https://rentry.co/FMHYBase64#arquivista) - ROMs
+* [FinalBurn Neo](https://rentry.co/FMHYBase64#finalburn-neo) - ROMs / Zip 
 * [Retrostic](https://www.retrostic.com/) - Emulators / ROMs
 * [ROMsie](https://romzie.com/) - Emulators / ROMs
 * [Romsever](https://romsever.com) - Emulators / ROMs
@@ -223,7 +223,7 @@
 * [HexRom](https://hexrom.com/) - Emulators / ROMs
 * [GameGinie](https://gameginie.com/) - Emulators / ROMs
 * [Technosagar](https://roms.technosagar.com/) - ROMs
-* [80s](https://github.com/nbats/FMHYedit/blob/main/base64.md#80s) - Emulators / ROMs 
+* [80s](https://rentry.co/FMHYBase64#80s) - Emulators / ROMs 
 * [The Old Computer](https://www.theoldcomputer.com/) - Emulators / ROMs
 * [Emulator Games](https://www.emulatorgames.net/) or [FreeROMsDownload](https://freeromsdownload.com/) - Emulators / ROMs
 * [Emuparadise](https://www.emuparadise.me/) - Emulators / ROMs / [Forum](https://www.epforums.org/) / [Workaround Script](https://web.archive.org/web/20230115181306/https://gist.github.com/byzantium225/484101c7846ce18e514b7b10bf4815c2)
@@ -261,7 +261,7 @@
 * [AtariMania](http://www.atarimania.com/index.html) - ROMs / Emulators / Atari Consoles
  [NesFiles](https://www.nesfiles.com/) - ROMs / NES
 * [ROMs For MAME](https://www.romsformame.com/), [PleasureDome](https://pleasuredome.github.io/pleasuredome/mame/), [MAME World](https://mameworld.info/) or [Arcade Database](http://adb.arcadeitalia.net/default.php?lang=en) - Arcade MAME ROMs
-* [Marios Alternative](https://github.com/nbats/FMHYedit/blob/main/base64.md#hacked-super-mario) - Hacked Super Mario ROMs
+* [Marios Alternative](https://rentry.co/FMHYBase64#hacked-super-mario) - Hacked Super Mario ROMs
 * [SMWCentral](https://smwcentral.net/) - Hacked Super Mario World ROMs
 * [Wario Land Hack Vault](https://wario-land.github.io/HackVault/index.html) - Hacked Wario Land ROMs
 * [DoomsHack](https://doomshack.org/), [Doom Pastebin](https://pastebin.com/3DWF3Msq) or [Doom Wad Station](https://www.doomwadstation.net/) - Doom WADs
@@ -326,7 +326,7 @@
 * 🌐 **[Browser Games Rentry](https://rentry.org/zn79z)** - Browser Game Site Index
 * 🌐 **[Discord Games Lab](https://discord.gg/discordgameslab)** - Discord Games
 * 🌐 **[chat-gpt-games](https://github.com/AdmTal/chat-gpt-games)** - ChatGPT Games
-* 🌐 **[Flashpoint](https://flashpointarchive.org/)** / [Discord](https://discord.gg/Z4gGtJvvn8) or [Flash Library](https://github.com/nbats/FMHYedit/blob/main/base64.md#software-library-flash) - Flash Game Archives 
+* 🌐 **[Flashpoint](https://flashpointarchive.org/)** / [Discord](https://discord.gg/Z4gGtJvvn8) or [Flash Library](https://rentry.co/FMHYBase64#software-library-flash) - Flash Game Archives 
 * ↪️ **[Interactive Text Adventures](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_text_adventures)**
 * ⭐ **[Newgrounds](https://www.newgrounds.com/games)** - Browser Games
 * ⭐ **[Ninjakiwi](https://ninjakiwi.com/archive)** - Bloons / Multiplayer / Steam Needed
@@ -958,7 +958,7 @@
 * [ReShade](https://reshade.me/) - Generic Post-Processing Injector / [GitHub](https://github.com/crosire/reshade) / [Shaders](https://github.com/BlueSkyDefender/Depth3D)
 * [DLSSG to FSR3](https://github.com/Nukem9/dlssg-to-fsr3) - AMD FSR3 Frame Generation for NVIDIA
 * [WindowedBorderlessGaming](https://westechsolutions.net/sites/WindowedBorderlessGaming/), [Borderless Gaming](https://github.com/Codeusa/Borderless-Gaming) or [FullScreenizer](http://runtimeterror.com/tools/fullscreenizer/) - Borderless Windows for All Games
-* [Lossless Scaling](https://github.com/nbats/FMHYedit/blob/main/base64.md#lossless-scaling) - Windowed Game Scaling
+* [Lossless Scaling](https://rentry.co/FMHYBase64#lossless-scaling) - Windowed Game Scaling
 * [DxWnd](https://sourceforge.net/projects/dxwnd/) - Play Fullscreen Only Games in Window
 * [Widescreen Fixes Pack](https://thirteenag.github.io/wfp) / [GitHub](https://github.com/ThirteenAG/WidescreenFixesPack), [Widescreen Fixer v3.4](https://community.pcgamingwiki.com/files/file/1754-widescreen-fixer-v34-r737/) or [Flawless Widescreen](https://www.flawlesswidescreen.org/) - Widescreen Fixes
 * [Genshin Impact FPS Unlocker](https://github.com/34736384/genshin-fps-unlock) - Unlock Genshin Impact FPS Cap
@@ -1211,7 +1211,7 @@
 * ⭐ **[Aim Lab](https://aimlab.gg/)**, [Aim400kg](https://aim400kg.com/), [3D Aim Trainer](https://www.3daimtrainer.com/), [Aiming.Pro](https://aiming.pro/) or [AimTrainer](https://aimtrainer.io/) - Aim Training
 * ⭐ **[CPSCounter](https://cpscounter.org/)**, [ClickSpeeder](https://clickspeeder.com/) or [ClickSpeedTester](https://www.clickspeedtester.com/) - Click Speed Training
 * ⭐ **[Momentum](https://momentum-mod.org/)** - Movement Training
-* [GameGuides](https://www.gamerguides.com/), [Retro Guides](https://github.com/nbats/FMHYedit/blob/main/base64.md#retro-game-strategy-guides), [Game8](https://game8.co/), [StrategyWiki](https://strategywiki.org/), [Samurai Gamers](https://samurai-gamers.com/), [UHS Hints](https://www.uhs-hints.com/) or [Kirklands](https://archive.org/details/kirklands-manual-labor-sony-playstation-2-usa-4k-version) - Game Guides
+* [GameGuides](https://www.gamerguides.com/), [Retro Guides](https://rentry.co/FMHYBase64#retro-game-strategy-guides), [Game8](https://game8.co/), [StrategyWiki](https://strategywiki.org/), [Samurai Gamers](https://samurai-gamers.com/), [UHS Hints](https://www.uhs-hints.com/) or [Kirklands](https://archive.org/details/kirklands-manual-labor-sony-playstation-2-usa-4k-version) - Game Guides
 * [Piper](https://github.com/libratbag/piper) - Gaming Mouse Config Tool
 * [ArminC-AutoExec](https://github.com/ArmynC/ArminC-AutoExec) - ArminC's CS:GO Config
 * [Use ESDF](http://www.use-esdf.org/) - OG FPS Control Combo
