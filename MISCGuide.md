@@ -56,6 +56,7 @@
 
 # ► Free Stuff
 
+* ⭐ **[Give & Away](https://discord.gg/j9fvrxedkX)** - Giveaway Discord Server
 * ⭐ **[OneHack](https://onehack.us/)** - Giveaway Community
 * ⭐ **[Free Packages](https://steamdb.info/freepackages/)** - Mass Activate All Free Steam Games / [Guide](https://youtu.be/svbdw-pYNT8)
 * ⭐ **[Unlimited Trials](https://rentry.co/unlimited-trials)** - Unlimited Free Trials Guide
