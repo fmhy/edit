@@ -33,7 +33,7 @@
 * [MWMBL](https://mwmbl.org/) - [GitHub](https://github.com/mwmbl/mwmbl)
 * [Presearch](https://presearch.com/) - [GitHub](https://github.com/presearchofficial)
 
-[Bing](https://www.bing.com/), [OceanHero](https://oceanhero.today/), [Lycos](https://www.lycos.com/), [WebCrawler](https://www.webcrawler.com/), [Million Short](https://millionshort.com/), [Wiby](https://www.wiby.me/), [Andi](https://andisearch.com/), [Excite](https://search.excite.com/), [search](https://www.search.com/), [Metacrawler](https://www.metacrawler.com/), [fefoo](https://fefoo.com/), [entireweb](https://www.entireweb.com/), [ChatNoir](https://www.chatnoir.eu/), [Exalead](https://www.exalead.com/search/), [Carrot2](https://search.carrot2.org/#/web), [4Search](https://www.4search.com/), [Info.com](https://www.info.com/), [Yahoo](https://www.yahoo.com/), [FrogFind!](http://frogfind.com/), [Visymo Search](https://search.visymo.com/), [AOL](https://search.aol.com/), [All in One](https://all-io.net/), [All the Internet](https://www.alltheinternet.com/), [eTools.ch](https://www.etools.ch/), [BizNar](https://biznar.com/biznar/desktop/en/search.html), [WorldWideScience](https://worldwidescience.org/), [ZincSearch](https://github.com/zincsearch/zincsearch), [Whoogle Search](https://benbusby.com/projects/whoogle-search/), [infospace](https://www.infospace.com/), [2lingual](https://www.2lingual.com/)
+[Bing](https://www.bing.com/), [OceanHero](https://oceanhero.today/), [Lycos](https://www.lycos.com/), [WebCrawler](https://www.webcrawler.com/), [Million Short](https://millionshort.com/), [Andi](https://andisearch.com/), [Excite](https://search.excite.com/), [Metacrawler](https://www.metacrawler.com/), [fefoo](https://fefoo.com/), [entireweb](https://www.entireweb.com/), [ChatNoir](https://www.chatnoir.eu/), [Exalead](https://www.exalead.com/search/), [Carrot2](https://search.carrot2.org/#/web), [4Search](https://www.4search.com/), [Info.com](https://www.info.com/), [Yahoo](https://www.yahoo.com/), [FrogFind!](http://frogfind.com/), [Visymo Search](https://search.visymo.com/), [AOL](https://search.aol.com/), [All in One](https://all-io.net/), [All the Internet](https://www.alltheinternet.com/), [eTools.ch](https://www.etools.ch/), [BizNar](https://biznar.com/biznar/desktop/en/search.html), [WorldWideScience](https://worldwidescience.org/), [ZincSearch](https://github.com/zincsearch/zincsearch), [Whoogle Search](https://benbusby.com/projects/whoogle-search/), [infospace](https://www.infospace.com/), [2lingual](https://www.2lingual.com/)
 
 ***
 
@@ -203,12 +203,6 @@ http://104.131.175.196:8080/, http://70.88.180.169:8088/, http://207.237.122.161
 ## Collaboration Platforms
 
 [Doozy](https://doozy.live/), [Zulip](https://zulip.com/), [Miro](https://miro.com/), [Mattermost](https://mattermost.com/), [Twake](https://twake.app/), [Asana](https://asana.com/), [Freedcamp](https://freedcamp.com/), [Lumeer](https://www.lumeer.io/), [Slab](https://slab.com/), [Focalboard](https://www.focalboard.com/), [WeKan](https://wekan.github.io/), [Kanboard](https://kanboard.org/), [Skiff](https://skiff.com/), [Mural](https://www.mural.co/), [Dendron](https://www.dendron.so/), [Lucidchart](https://www.lucidchart.com/), [Trello](https://trello.com/), [Planka](https://planka.app/), [Taskcafe](https://github.com/JordanKnott/taskcafe), [Room](https://room.sh/), [Atlassian](https://www.atlassian.com/), [linear](https://linear.app/)
-
-***
-
-## Cooking YouTube Channels
-
-[Babish Culinary Universe](https://www.youtube.com/channel/UCJHA_jMfCvEnv-3kRjTCQXw), [Jamie Oliver](https://www.youtube.com/user/JamieOliver), [Kenji López-Alt](https://www.youtube.com/@JKenjiLopezAlt), [Bon Appétit](https://www.youtube.com/user/BonAppetitDotCom), [Mythical Kitchen](https://www.youtube.com/user/rhettandlink4), [Peaceful Cuisine](https://www.youtube.com/user/ryoya1983), [Seonkyoung Longest](https://www.youtube.com/user/SeonkyoungLongest), [You Suck At Cooking](https://youtube.com/c/yousuckatcooking), [Nino's Home](https://www.youtube.com/c/NinosHome/), [Adam Ragusea](https://youtube.com/user/aragusea), [조꽁드Joconde's baking](https://m.youtube.com/c/%EC%A1%B0%EA%BD%81%EB%93%9CJocondesbaking), [Ruby Ka Kitchen](https://www.youtube.com/channel/UCMhx-uS3O-G_6_lTrYmDKLw)
 
 ***
 
@@ -714,7 +708,7 @@ http://104.131.175.196:8080/, http://70.88.180.169:8088/, http://207.237.122.161
 * [Playit.gg](https://playit.gg/) - [Discord](https://discord.gg/AXAbujx)
 * [FreeMCServer](https://freemcserver.net/) - [uBO Filter](https://pastebin.com/C2aiXG8p)
 
-[MineFort](https://minefort.com/), [Minehut](https://minehut.com/), [Aternos](https://aternos.org/) / [AntiAntiAdblock](https://gist.github.com/DvilMuck/f2b14f3f65e8f22974d781277158f82a), [Cuberite](https://cuberite.org/), [Free-Minecraft-Hosts](https://github.com/Myuui/Free-Minecraft-Hosts)
+[MineFort](https://minefort.com/), [Minehut](https://minehut.com/), [Aternos](https://aternos.org/), [Cuberite](https://cuberite.org/), [Free-Minecraft-Hosts](https://github.com/Myuui/Free-Minecraft-Hosts)
 
 ***
 
