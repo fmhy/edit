@@ -4,21 +4,13 @@
 
 ### Game Sites
 
-**Note** - Scene groups do not have their own sites, so it's best to avoid anything claiming to represent one.
-
 * OceanOfGames - Caught with malware multiple times
 * CrackingPatching - Caught with [malware](https://redd.it/qy6z3c)
-* IGG / LoadGames  - Added DRM to uploads, doxxed member
-* AGFY - Malicious redirect ads
-* AimHaven - Malicious redirect ads
-* SteamUnlocked - Malicious redirect ads, slow file host, IGG / nosteam uploads
-* GoGUnlocked / ROMsUnlocked - SteamUnlocked sister sites
 * xGIROx - Caught with malware
 * BBRepacks - Caught with malware
 * Seyter / Qoob - Caught with malware, tried to [switch names](https://rentry.co/qoobrepacker)
 * cracked-games - Caught with malware
 * Wifi4Games - Caught with malware
-* GameFabrique - IGG uploads + [adware installers](https://rentry.co/GameFabrique_Adware/)
 * [Untrusted Uploaders](https://rentry.org/pgames#untrusted-uploaders)
 * [Fake FitGirl Sites](https://rentry.co/FakeFitgirlwebsites)
 
@@ -52,7 +44,6 @@
 **Note** - Some aggregators search sites like TPB, so it's recommended to avoid using them for software and games.
 
 * Kickass Torrents - Official site is long gone, all that remain are sketchy copycats
-* The Pirate Bay / TPB - Site is no longer moderated, so it's very risky for software and games
 * VSTorrent - Caught with [malware](https://redd.it/x66rz2)
 * uTorrent - Considered [adware](https://www.theverge.com/2015/3/6/8161251/utorrents-secret-bitcoin-miner-adware-malware), pre-adware versions exist, but it's best to use [open source](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent#wiki_.25BA_torrent_clients) clients
 * BitTorrent / BitComet - Adware
