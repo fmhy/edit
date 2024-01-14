@@ -24,7 +24,7 @@ For Windows check out this [section](#windows-piracy), and for Microsoft Office 
 You can use [WhereYouWatch](https://whereyouwatch.com) for finding movies, and for new movies it's a good idea to keep an eye on [r/movieleaks](https://reddit.com/r/movieleaks) as well. You should also be able to find most movies you're looking for in the [streaming section](#streaming). For games, you can use [Rezi](https://rezi.one) or any other site listed [here](https://fmhy.net/gamingpiracyguide#download-games), and for newly released games check out [r/crackwatch](https://reddit.com/r/crackwatch).
 !!!info Pirated movie releases generally happen after a movie is digitally released or released via Blu-ray / DVD, which can take 3+ months after initially playing in theaters.
 
-!!!warning Please avoid downloading games from The Pirate Bay or any other site listed [here](https://fmhy.net/unsafesites) as they're very likely to contain malicious links.
+!!!warning Please avoid downloading games from any site listed [here](https://fmhy.net/unsafesites) as they're very likely to contain malicious links.
 
 > How can I unlock *insert random game title* DLCs?
 Use the tools listed [here](https://fmhy.net/gamingpiracyguide#steam-epic) to unlock DLCs.
