@@ -181,7 +181,7 @@ Use [this](https://bitbucket.org/magnolia1234/bypass-paywalls-firefox-clean/src/
 **[Android AdGuard Premium](https://rentry.co/FMHYBase64#adguard-premium)** / **[iOS AdGuard Premium](https://rentry.co/FMHYBase64#adguard-pro-ios))** - Adblocking app
 **[Android Modded Spotify](https://rentry.co/FMHYBase64#modded-spotify-apk)** / **[iOS Modded Spotify](https://rentry.co/FMHYBase64#spotify)** - Modded Spotify
 **[Cromite](https://github.com/uazo/cromite) / [Firefox](https://www.mozilla.org/en-US/firefox/browsers/mobile/android/) / [Kiwi](https://play.google.com/store/apps/details?id=com.kiwibrowser.browser&hl=en_US&gl=US)** - Android web browsers
-**[Brave](https://apps.apple.com/us/app/brave-private-web-browser-vpn/id1052879175)** - iOS web browser / [Improve Safari](https://hyperweb.app/)
+**[Brave](https://apps.apple.com/us/app/brave-private-web-browser-vpn/id1052879175)** - iOS web browser / [Improve Safari](https://apps.apple.com/us/app/hyperweb/id1581824571)
 **[Mobilism](https://forum.mobilism.org/viewforum.php?f=398)** - Modded APKs
 **[/r/ApkApps Megathread](https://apksapps.notion.site/apksapps/096ef38f452342ba99b4e1509a449729?v=9970360b443643789c333bd2c7180009)** - Updated list of modded APKs / [Subreddit](https://www.reddit.com/r/ApksApps) / [Discord](https://discord.gg/Kr5EWKZU5Y)
 **[APKMirror](https://www.apkmirror.com/)** - Untouched APKs
