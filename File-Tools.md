@@ -282,7 +282,7 @@
 
 ***
 
-## ▷ File / Network Sync
+## ▷ P2P File Transfer
 
 * ⭐ **[SyncThing](https://syncthing.net/)**
 * ⭐ **[ToffeeShare](https://toffeeshare.com/)**
