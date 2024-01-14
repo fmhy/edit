@@ -641,7 +641,7 @@
 * ⭐ **[Mobilism](https://forum.mobilism.org/app/)**, [Openlib](https://github.com/dstark5/Openlib) or [Project Gutenberg](https://github.com/Pool-Of-Tears/Myne) - Ebook Site Apps
 * ⭐ **[Librera](https://librera.mobi/)** or **[Lithium](https://play.google.com/store/apps/details?id=com.faultexception.reader)** - Ebook Reader
 * ⭐ **[Readera](https://play.google.com/store/apps/details?id=org.readera)** - PDF Reader
-* ⭐ **[Tachiyomi](https://tachiyomi.org/)** - Manga Reader / [Forks](https://tachiyomi.org/forks/) / [Extensions](https://keiyoushi.github.io/extensions/) / [Discord](https://discord.com/invite/tachiyomi)
+* ⭐ **[TachiyomiJ2K](https://tachiyomi.org/forks/TachiyomiJ2K/)** - Manga Reader / [Forks](https://tachiyomi.org/forks/) / [Extensions](https://keiyoushi.github.io/extensions/) / [Discord](https://discord.com/invite/tachiyomi)
 * ⭐ **[Kotatsu](https://kotatsu.app/)** - Manga Reader
 * [Openreads](https://github.com/mateusz-bak/openreads-android), [NeverTooManyBooks](https://github.com/tfonteyn/NeverTooManyBooks) or [Basmo](https://basmo.app/) - Book Managers / Trackers
 * [KafkaArchives](https://www.kafkaarchives.com/) - Archive.org Books / Audiobooks
