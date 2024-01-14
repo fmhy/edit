@@ -708,7 +708,7 @@ http://104.131.175.196:8080/, http://70.88.180.169:8088/, http://207.237.122.161
 * [Playit.gg](https://playit.gg/) - [Discord](https://discord.gg/AXAbujx)
 * [FreeMCServer](https://freemcserver.net/) - [uBO Filter](https://pastebin.com/C2aiXG8p)
 
-[MineFort](https://minefort.com/), [Minehut](https://minehut.com/), [Aternos](https://aternos.org/), [Cuberite](https://cuberite.org/), [Free-Minecraft-Hosts](https://github.com/Myuui/Free-Minecraft-Hosts)
+[MineFort](https://minefort.com/), [Minehut](https://minehut.com/), [Aternos](https://aternos.org/), [Cuberite](https://cuberite.org/), [Free-Minecraft-Hosts](https://github.com/Myuui/Free-Minecraft-Hosts), [Pufferfish](https://github.com/pufferfish-gg/Pufferfish), [Paper](https://papermc.io/software/paper)
 
 ***
 
