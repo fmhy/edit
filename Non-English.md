@@ -608,7 +608,6 @@
 * [PhysicsWallah](https://www.youtube.com/c/PhysicsWallah/) - Physics Lessons
 * [GateSmashers](https://www.youtube.com/@GateSmashers) - Gate Preparation / Educational
 
-
 ## ▷ Reading
 
 * [BDEBooks](https://bdebooks.com/) - Books
@@ -1392,7 +1391,6 @@
 * [Mega1080](https://www.mega1080.com/) - Movies / Documentaries / Latino
 * [mirandopeliculas](https://www.mirandopeliculas.com/) - Movies / TV / Latino
 * [TodoPelisHD](https://todopelishd.com/) - Movies / Latino
-
 * [Maxcine](https://www.maxcine.net/) - Movies / Sub / Dub / 720p
 * [Cine24h](https://cine24h.online/) - Movies / TV / Sub / Dub / 720p
 * [Peliculas 1k](https://www.peliculasmega1k.com/) - Movies / 720p
@@ -1434,6 +1432,7 @@
 * [N+2](https://nmasmas2.blogspot.com/) - Animated Movies / Cartoons
 * [Niroqui](https://niroqui.com/) - Courses
 * [Cursos En Mega](https://t.me/s/cursosenmega) - Courses
+* [Hello-Python](https://github.com/mouredev/Hello-Python) or [https://github.com/mouredev/python-web](python-web) - Python Courses
 
 ## ▷ Torrenting
 
