@@ -593,7 +593,7 @@
 * [SSR Movies](https://www.ssrmovies.hair/) - Movies / TV / 1080p
 * [Best-MovieZ](https://www.best-moviez.ws/) - Movies / TV / 1080p
 * [SeriezLoaded NG](https://www.seriezloaded.com.ng/) - Movies / TV / 1080p
-* [MoviesMod](https://moviesmod.dev/movies/hollywood/english-movies/) - Movies / TV / 1080p
+* [MoviesMod](https://moviesmod.dev/movies/hollywood/english-movies/) - Movies / TV / 1080p / [Bypass](https://greasyfork.org/en/scripts/474747)
 * [ShareMania](https://sharemania.us/) - Movies / TV / 4K
 * [GdriveMovies](https://gdrivemovies.xyz/) - Movies / 4K / [Telegram](https://t.me/+VJeqrXLHsHsg8JzI)
 * [Google Drive Movies](https://databasegdriveplayer.co/movie.php), [TV](https://databasegdriveplayer.co/series.php), [Anime](https://databasegdriveplayer.co/anime.php), [KDrama](https://databasegdriveplayer.co/drama.php) - Movies / TV / Anime / 720p
