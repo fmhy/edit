@@ -242,7 +242,7 @@
 * ⭐ **[Wiki Shortener](https://meta.wikimedia.org/wiki/Special:UrlShortener)** - Wiki URL Shortener
 * ⭐ **[t.ly](https://t.ly/)** - `t.ly/qqH6`
 * ⭐ **[is.gd](https://www.is.gd/)** - `is.gd/9dkISG`
-* ⭐ **[Reduced](https://reduced.to/)** - `reduced.to/6u38a`
+* ⭐ **[Reduced](https://reduced.to/)** - `reduced.to/nuwad`
 * [v.gd](https://v.gd/) - `v.gd/Gj8oLR`
 * [gg.gg](https://gg.gg/) - `gg.gg/oggp7`
 * [Teknik](https://shorten.teknik.io/) - `tknk.io/GH5X` 
