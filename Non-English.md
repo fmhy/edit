@@ -209,16 +209,15 @@
 
 ## ▷ Reading
 
+* ⭐ **[69xinshu](https://www.69xinshu.com/)** - Fiction
 * [Jiumo](https://www.jiumodiary.com/) - Book Search Engine
 * [BooksThatMakeYouThink](https://t.me/BooksThatMakeYouThink) - Nonfiction
 * [AutumnWindBookstore](https://www.qiufengshuwu.com/) - Fiction
 * [ixdzs](https://ixdzs.tw/) - Fiction
 * [ijjxs.net](http://ijjxs.net/) - Fiction
-* [69shuba.com](https://69shuba.com/) Fiction
 * [99csw.com](https://99csw.com/) - Fiction / Non-fiction
 * [3gfk](https://www.3gfk.com/)- Fiction 
 * [nunubook.com](https://nunubook.com/) - Fiction / Non-fiction
-* [69shuba.com](https://www.69shuba.com/) - Fiction
 * [qianyege.com](https://www.qianyege.com/) - Fiction
 * [haodoo](https://haodoo.net/) - Fiction
 * [shuhai](https://www.shuhai.vip/) - Fiction
@@ -235,7 +234,6 @@
 * [lightnovel.us](https://www.lightnovel.us/) - Light-Novels
 * [blwenla](https://blwenla.com/) - Light-Novels
 * [txt900](https://www.txt990.org/) - Light-Novels
-* [69shu](https://www.69shu.com) - Light-Novels
 * [beqege](https://www.beqege.cc/) - Light-Novels
 * [Zongheng](https://www.zongheng.com/) - Light-Novels
 * [Bixiange](https://www.bixiange.top/) - Light-Novels
@@ -1319,6 +1317,7 @@
 * [alleng](https://www.alleng.org/) - Textbooks
 * [rusneb](https://rusneb.ru/) - Books
 * [royallib](https://royallib.com/) - Books
+* [obuchalka.org](https://obuchalka.org/) - Books / Homework solutions
 * [Filibusta](https://flibusta.site/) - Books
 * [coollib](https://coollib.xyz/) - Books
 * [libking](https://libking.ru/) - Books
