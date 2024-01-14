@@ -531,7 +531,6 @@
 * [Send Files to TV](https://play.google.com/store/apps/details?id=com.yablio.sendfilestotv) or [AllCast](https://play.google.com/store/apps/details?id=com.koushikdutta.cast) - Send Files to Android TV
 * [Apps2Fire](https://play.google.com/store/apps/details?id=mobi.koni.appstofiretv) - Upload Apps to FireTV
 * [FLauncher](https://play.google.com/store/apps/details?id=me.efesser.flauncher) or [Spocky](https://play.google.com/store/apps/details?id=com.spocky.projengmenu) - Android TV Launchers
-* [RootMyTV](https://github.com/RootMyTV/RootMyTV.github.io) - LG WebOS TV Root
 * [smart-tv-telegram](https://github.com/andrew-ld/smart-tv-telegram) - Stream Media from iOS to Smart TV
 * [Zank Remote](https://apps.apple.com/kr/app/zank-remote-for-android-tv-box/id1567602430?1=en) - Control Android TV via iOS
 * [ChanSort](https://github.com/PredatH0r/ChanSort) - TV Channel List Editor for Samsung, LG etc.
@@ -695,6 +694,7 @@
 * ⭐ **[Jackett](https://github.com/Jackett/Jackett)**, [nefarious](https://lardbit.github.io/nefarious/), [Traktarr](https://github.com/l3uddz/traktarr) or [Watcher](https://nosmokingbandit.github.io/) - Autodownload Torrents
 * ⭐ **[Radarr](https://radarr.video/)** - Autodownload Movie Torrents / [GitHub](https://github.com/Radarr/Radarr)
 * ⭐ **[Sonarr](https://sonarr.tv/)** / [GitHub](https://github.com/Sonarr/Sonarr), [SickGear](https://github.com/SickGear/SickGear), [SiCKRAGE](https://github.com/SiCKRAGE/SiCKRAGE), [DuckieTV](https://schizoduckie.github.io/DuckieTV/) or [Medusa](https://pymedusa.com/) - Autodownload TV Torrents / [Guide](https://wiki.servarr.com/)
+* ⭐ **[Requestrr](https://github.com/thomst08/requestrr)** or [PepperTorrent](https://github.com/husnuljahneer/PepperTorrent) - Discord Torrent Bots
 * [Powder](https://powder.media/) - Torrent Streaming App
 * [Popcorn Time](https://github.com/popcorn-official/popcorn-desktop/) - Torrent Streaming App
 * [Ace Stream](https://acestream.org/) - Torrent Streaming App / [Channels](https://acestreamid.com/), [2](https://acestreamsearch.net/en/) / [Modded APK](https://rentry.co/FMHYBase64#modded-acestream-apk) / [Docker Image](https://github.com/magnetikonline/docker-acestream-server) / [Mpv Script](https://github.com/Digitalone1/mpv-acestream)
@@ -708,7 +708,6 @@
 * [Unpackerr](https://unpackerr.zip/) - Automated Archive Extraction
 * [VLC-Bittorrent](https://github.com/johang/vlc-bittorrent) or [StreamTim](https://streamtim.com/) - Stream Torrents in VLC
 * [webtorrent-mpv-hook](https://github.com/mrxdst/webtorrent-mpv-hook) - Stream Torrents in MPV
-* [Requestrr](https://github.com/thomst08/requestrr) or [PepperTorrent](https://github.com/husnuljahneer/PepperTorrent) - Discord Torrent Bots
 * [Iceetime](https://github.com/diericx/bevy) or [RapidBay](https://github.com/hauxir/rapidbay) - Self-Hosted Torrent Streaming 
 
 ***
