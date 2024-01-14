@@ -421,7 +421,6 @@
 * [TOTV](http://totv.org/) - TV / Sport
 * [TheTVApp](https://thetvapp.to/) - TV / Sports
 * [DaddyLive](https://dlhd.sx/) - TV / Sport
-* [MrGamingStreams](https://mrgamingstreams.com/) - TV / Sports
 * [Xumo Play](https://play.xumo.com/networks) - TV / US only
 * [Sportsurge.club](https://sportsurge.club/) - Sports
 * [1Stream](https://1stream.eu/) - Sports
