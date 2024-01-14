@@ -4,6 +4,7 @@
 
 ### Game Sites
 
+* IGG / LoadGames  - Caught with [malware](https://redd.it/bzczk6) / [2](https://i.imgur.com/jyFj8Kh.png) / [3](https://i.imgur.com/9w5dyTU.png), doxxed member, added DRM to games
 * OceanOfGames - Caught with malware multiple times
 * CrackingPatching - Caught with [malware](https://redd.it/qy6z3c)
 * xGIROx - Caught with malware
@@ -11,6 +12,7 @@
 * Seyter / Qoob - Caught with malware, tried to [switch names](https://rentry.co/qoobrepacker)
 * cracked-games - Caught with malware
 * Wifi4Games - Caught with malware
+* GameFabrique - IGG uploads + [adware installers](https://rentry.co/GameFabrique_Adware/)
 * [Untrusted Uploaders](https://rentry.org/pgames#untrusted-uploaders)
 * [Fake FitGirl Sites](https://rentry.co/FakeFitgirlwebsites)
 
