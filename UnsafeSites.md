@@ -4,6 +4,8 @@
 
 ### Game Sites
 
+**Note** - Scene groups do not have their own sites, so it's best to avoid anything claiming to represent one.
+
 * IGG / LoadGames  - Caught with [malware](https://redd.it/bzczk6) / [2](https://i.imgur.com/jyFj8Kh.png) / [3](https://i.imgur.com/9w5dyTU.png), doxxed member, added DRM to games
 * OceanOfGames - Caught with malware multiple times
 * CrackingPatching - Caught with [malware](https://redd.it/qy6z3c)
