@@ -254,6 +254,8 @@
 * [DMZJ](https://www.dmzj.com/) - Manga
 * [Laimanhua](https://www.laimanhua8.com/) - Manga
 * [Mangabz](https://www.mangabz.com/) - Manga
+* [isanyin.com](https://isanyin.com/) - Manga / Manhua
+* [kanmanhuala.cc/](https://www.kanmanhuala.cc/) - Danmei / Manhua
 * [Doujin Fiction Network](https://www.trxs.me/) or [Readfine](https://t.me/Readfine) / [Discussion](https://t.me/ReadfineChat) - FanFiction
 * [ishare.iask](https://ishare.iask.sina.com.cn/) - Educational Documents
 * [shuge](https://www.shuge.org/) - Rare / Ancient Books
@@ -476,6 +478,8 @@
 
 # ► Greek
 
+* [Subs4series](https://www.subs4series.com/) - Greek Subtitles
+
 ## ▷ Streaming
 
 * [Greek-Movies](https://greek-movies.com/) - Movies / TV / Live / Courses / Dub / 720p
@@ -517,8 +521,11 @@
 ## ▷ Downloading
 
 * ⭐ **[OlaMovies](http://olamovies.yachts/)** - Movies / TV / Sub / Dub / 1080p / 4K / [Telegram](https://telegram.me/olamovies_official_v3)
+* ⭐ **[MultiMovies](https://multimovies.uno/)** - Movies / TV / Anime / Sub / Dub / 1080p / [Telegram](https://telegram.me/multimoviesfun)
 * ⭐ **[Full4Movies](https://www.full4movies.mobi/)** - Movies / TV / Sub / Dub / 1080p / [Telegram](https://t.me/+esNoIP2HG30yMjlk)
-* ⭐ **[MoviesMod](https://moviesmod.dev/)** - Movies / TV / Sub / Dub / 1080p / [Telegram](https://telegram.dog/moviesmodorg)
+* ⭐ **[MoviesMod](https://moviesmod.dev/)** - Movies / TV / Sub / Dub / 1080p / [Telegram](https://telegram.dog/moviesmodorg) / [Bypass](https://greasyfork.org/en/scripts/474747)
+* ⭐ **[Filmycity](https://filmycity.monster/)** - Movies / TV / Anime / 1080p
+* ⭐ **[AToZ Cartoonist](https://www.atozcartoonist.com/)** - Cartoons / Anime / Sub / Dub / 1080p / [Discord](https://discord.com/invite/EpQn49C4jX)
 * ⭐ **[Free Lossless Desi Music](https://hindi-lossless.blogspot.com/)** - Music / FLAC
 * [MkvCinemas](https://mkvcinemas.mov/) - Movies / TV / Anime / Sub / Dub / 1080p / 4K / [Telegram](https://t.me/+WzLYNDSawQk1MTk1)
 * [MLWBD](https://mlwbd.run/) - Movies / TV / Anime / Sub / Dub / 1080p / 4K / [Telegram](https://t.me/mlwbdnew)
@@ -530,6 +537,13 @@
 * [DudeFilms](https://dudefilms.vip/) - Movies / TV / Sub / Dub / 1080p / [Telegram](https://telegram.dog/dudefilmsofficial)
 * [KatMovieHD](https://katmoviehd.ac/) - Movies / TV / Anime / Sub / Dub / 1080p
 * [MoviesFD](https://moviesfd.beauty/) - Movies / Sub / Dub / 1080p
+* [Paidnaija](https://paidnaija.com/) - Movies / Sub / 720p / [Telegram](https://t.me/joinchat/E9cst-5oQDA5MzRk)
+* [mkvAnime](https://ww1.mkvanime.site/) - Movies / Shows / Anime / Sub / Dub / 1080p / [Telegram](https://t.me/+t90Seng2e0QzNzhl)
+* [HDHub4u](https://hdhub4u.ist/) - Movies / TV / 1080p
+* [Moviespapa](https://moviespapa.ing/) - Movies / TV / 1080p
+* [36Vibes](https://www.the36vibes.com/) - Movies / TV / 480p / [Telegram](https://t.me/vibesmoviez)
+* [Fimyzilla.tech](https://filmyzillla.xyz/) - Movies / TV / 1080p / [Telegram](https://t.me/+wCxPxH9L7_00MzZl)
+* [Hiidude](https://6hiidude.pro/) - Movies / TV / 720p / [Telegram](https://telegram.me/hiidudemoviez)
 * [MKVHub](https://www.mkvhub.space/) - Movies / TV / Sub / Dub / 1080p
 * [FilmyMeet](https://filmyfly2.com.in/) - Movies / TV / Dub / 1080p / [Telegram](https://telegram.dog/+VV_6NFqFLTc1N2E1)
 * [Movies Counter](https://moviescounter.lat/) - Movies / TV / Sub / Dub / 1080p
@@ -550,6 +564,7 @@
 ## ▷ Torrenting
 
 * ⭐ **[TamilBlasters](https://www.1tamilblasters.info/)** - Movies / [Proxy](https://tamilblasters.unblockit.vegas/)
+* ⭐ **[1tamilmv](https://www.1tamilmv.world/)** - Movies
 
 ## ▷ Streaming
 
@@ -566,6 +581,9 @@
 * [Bolly2Tolly](https://www.bolly2tolly.net/), [2](https://www.bolly2tolly.com/) - Movies / TV / Sub / Dub / 720p
 * [Piratop](https://piratop.com/) - Movies / TV / Sub / Dub / 720p
 * [OnlineMoviesHindi](https://111.90.159.132/) - Movies / TV / Sub / Dub / 720p
+* [Mp4Moviez](https://www.mp4moviez.gs/) - Movies / TV / 480p / [Telegram](https://t.me/mp4moviezofficial1)
+* [aFimlyWap](https://www.afilmywap.gd/) - Movies / TV / 480p / [Telegram](https://telegram.me/+QkTcitP80VplMzhl)
+* [TodayPK](https://ww7.1todaypk.xyz/) - Movies / TV / / 720p
 * [NamasteSerials](https://namasteserials.com/) - TV / Sub / Dub / 720p
 * [Cloudy](https://cloudy.pk/) - Movies / TV / Cartoons / Sub / Dub / 720p / [Telegram](https://t.me/cloudy_pk)
 * [MovieHDPlus](https://www.moviehdplus.com/) - South Asian Movies / TV / Sub / Dub / 720p
@@ -589,6 +607,7 @@
 * [jiosaavn](https://www.jiosaavn.com/) - Music / [API](https://github.com/cyberboysumanjay/JioSaavnAPI)
 * [PhysicsWallah](https://www.youtube.com/c/PhysicsWallah/) - Physics Lessons
 * [GateSmashers](https://www.youtube.com/@GateSmashers) - Gate Preparation / Educational
+
 
 ## ▷ Reading
 
@@ -1126,6 +1145,11 @@
 
 ## ▷ Downloading
 
+* [FilmeSerialHD.Biz](https://filmeserialehd.biz/) - Movies / TV / Anime / Sub / 720p
+* [xCinema.ro](https://www.xcinema.ro/) - Movies / TV / Sub / 720p 
+* [FilmePeAlese](https://www.filmepealese.com/) - Movies / TV / Sub / 720p
+* [Filmeonline](https://filmeonline.uno/) - TV / 720p
+* [Clicksud](https://clicksude.net/) - Movies / TV / Sub / 720p
 * [Anime Kage](https://ak613.anime-kage.eu/) - Anime / Manga
 
 ## ▷ Streaming
@@ -1190,6 +1214,7 @@
 * [tancpol](https://tancpol.net/) - Music / MP3
 * [z2.fm](https://z2.fm/) - Music / MP3
 * [Musify](https://musify.club/) - Music / MP3
+* [muzmo](https://rux.muzmo.cc/) - Music / MP3
 * [MetalArea](https://metalarea.org/) or [MDCORE](https://vk.com/mdcore) - Metal / MP3
 * [MDROCK](https://vk.com/mdrock) - Rock / MP3
 * [KinoSoundtrack](https://www.kinosoundtrack.com/) - Soundtracks / MP3
@@ -1273,11 +1298,12 @@
 * [Glaz.tv](https://www.glaz.tv/) - Live TV
 * [DomaTV](http://vip.domatv.net/) - Live TV
 * [VIP-TV](https://vip-tv.online/) - IPTV Playlists
-* [myzuka](https://myzuka.club/) - Music / MP3
-* [Tancpol](https://tancpol.net/) - Music / MP3
-* [z2.fm](https://z2.fm/) - Music / MP3
-* [E:/Music/](https://vk.com/e_music) - Music / MP3
-* [MDCORE](https://vk.com/mdcore) - Metal / MP3
+* [myzuka](https://myzuka.club/) - Music
+* [Tancpol](https://tancpol.net/) - Music
+* [z2.fm](https://z2.fm/) - Music
+* [E:/Music/](https://vk.com/e_music) - Music
+* [muzmo](https://rux.muzmo.cc/) - Music
+* [MDCORE](https://vk.com/mdcore) - Metal
 * [Russian Records](https://www.russian-records.com/) - Russian Record Recordings
 * [Top Radio](https://top-radio.ru/) - Radio
 * [OpenEDU](https://openedu.ru/) - Courses
@@ -1366,6 +1392,12 @@
 * [Mega1080](https://www.mega1080.com/) - Movies / Documentaries / Latino
 * [mirandopeliculas](https://www.mirandopeliculas.com/) - Movies / TV / Latino
 * [TodoPelisHD](https://todopelishd.com/) - Movies / Latino
+
+* [Maxcine](https://www.maxcine.net/) - Movies / Sub / Dub / 720p
+* [Cine24h](https://cine24h.online/) - Movies / TV / Sub / Dub / 720p
+* [Peliculas 1k](https://www.peliculasmega1k.com/) - Movies / 720p
+* [subtituladas.com](https://subtituladas.com/) - Movies / Sub / 720p 
+* [EsmeraldaTorrent](https://esmeraldatorrent.com/) - Movies / 720p 
 * [Hackstore.me](https://www.hackstore.me/) - Movies / TV / Anime
 * [ProgramasVirtualesPC](https://www.programasvirtualespc.net/category/peliculas/) - Movies / TV / Latino / [Bypasser script](https://greasyfork.org/en/scripts/462492)
 * [MegaPeliculasRip](https://www.megapeliculasrip.net/) - Movies / Classics / TV / Animation / Latino
@@ -1389,6 +1421,7 @@
 * [ivanime](https://www.ivanime.com/) - Anime / Sub / Dub / Latino
 * [Dw-anime](https://dw-anime.net/) - Anime / Sub / Dub / Latino
 * [Animegafirex](https://www.animegafirex.com/) - Anime / Sub
+* [CrisAnime](https://crisanimex.com/) - Anime / Sub / Dub
 * [TioDonghua](https://anime.tiodonghua.com/) - Anime / Sub
 * [Japan Paw!](https://japan-paw.net/) - Anime / Sub
 * [Fukou-Da!](https://fukou-da.net/) - Anime / Sub / Light Novels
@@ -1848,7 +1881,7 @@
 * [DJPunjab](https://djpunjab.is/) - Punjabi / Download / MP3
 * [animesrbija](https://www.animesrbija.com/) - Serbian / Streaming / Anime
 * [Anime Balkan](https://animebalkan.gg/) - Serbian / Streaming / Anime / 1080p 
-* [zoom.lk](https://zoom.lk/) - Sinhalese / Subtitles
+* [zoom.lk](https://zoom.lk/) or [Cineru.lk](https://cineru.lk/) - Sinhalese / Subtitles
 * [Najdi.si](https://www.najdi.si/) - Slovene / Search
 * [BSF](https://bsf.si/) - Slovene Film Database
 * [Einthusan](https://einthusan.tv/intro/) - South Asian / Movie Archive
