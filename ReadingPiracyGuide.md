@@ -515,9 +515,12 @@
 * [dimensions](https://app.dimensions.ai/discover/publication) - Research Papers / Patents Database
 * [Academia](https://www.academia.edu/) - Academic Papers
 * [FreeFullPDF](https://freefullpdf.com/) - Academic Papers
+* [Zooniverse](https://www.zooniverse.org/) - Crowdsourced Research
 * [Clarivate](https://mjl.clarivate.com/) - Research Papers / Publications
 * [MyScienceWork](https://www.mysciencework.com/) - Research Papers
 * [SciAlert](https://scialert.net/) - Research Papers
+* [Springer](https://www.springer.com/) - Research Papers
+* [Biomed Central](https://www.biomedcentral.com/) - Research Papers
 * [Zenodo](https://zenodo.org/) - Research Papers
 * [Science.gov](https://www.science.gov/) - Scientific Paper Search
 * [Awesome Detection Transformer](https://github.com/IDEA-Research/awesome-detection-transformer) - Computer Vision Research Papers
@@ -655,6 +658,7 @@
 * [Marvel.com](https://www.marvel.com/comics/list/623/get_started_with_free_issues?&options%5Boffset%5D=0&totalcount=76) - Free Marvel Comics
 * [British Comics](https://britishcomics.wordpress.com/) - Classic British Comics
 * [Comic Museum](https://digitalcomicmuseum.com/index.php) - Golden Age Comics
+* [OldComicsWorld](https://oldcomicsworld.blogspot.com/) - Golden Age Comic Downloads
 * [GoComics](https://www.gocomics.com/) - Comics Strips
 * [Comics Kingdom](https://comicskingdom.com/) - Comics Strips
 * [Zahard](https://zahard.xyz/) - Web Comics / [Telegram](https://t.me/fast_pass)
