@@ -331,7 +331,6 @@
 * ↪️ **[Reverse Image Search](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_reverse_image_search)**
 * ↪️ **[Random Images](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_random_generators)**
 * ↪️ **[AI Galleries](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/ai#wiki_.25B7_prompts_.2F_galleries)**
-* ↪️ **[Icon Download Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_icon_download_sites)**
 * ↪️ **[Media Covers / Posters](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_covers_.2F_posters)**
 * ⭐ **[Search Anything](https://search.anything.io/)**, [Yandex Images](https://yandex.ru/images) or [Google Images](https://images.google.com/) - Image Search Engines
 * ⭐ **[gallery-dl](https://github.com/mikf/gallery-dl)**, [RipMe](https://github.com/RipMeApp/ripme), [ImgDownloader](https://imgdownloader.com/), [SCrawler](https://github.com/AAndyProgram/SCrawler) or [Image Extractor](https://extract.pics/) - Image Download Tools
@@ -413,7 +412,30 @@
 * [imgbrd-grabber](https://github.com/Bionus/imgbrd-grabber) - Booru Image Downloader
 * [trace.moe](https://trace.moe/) or [Saucekudasai](https://saucekudasai.com/) - Anime Reverse Image Search
 * [Artbreeder](https://artbreeder.com/) - Image Discovery / Combining
-  
+
+***
+
+***
+
+## ▷ Icons / SVGs
+
+* 🌐 **[Awesome Icons](https://github.com/notlmn/awesome-icons)**, **[Awesome Stock Resources](https://github.com/neutraltone/awesome-stock-resources#icons)** or **[Free Icons](https://www.iconshock.com/freeicons/)** - Icon Indexes
+* ↪️ **[Icon Drives](https://rentry.co/FMHYBase64#icon-drives)** - Icon Drives 
+* ⭐ **[SVG Repo](https://www.svgrepo.com/)** - Customizable SVG Icons / Vectors
+* ⭐ **[icons8](https://icons8.com/icons)**, [Flaticon](https://www.flaticon.com/), [Devicon](https://devicon.dev/) or [Glyphs](https://glyphs.fyi/) - Customizable Icons
+* ⭐ **[Alphacoders Avatars](https://avatars.alphacoders.com/)** - PFP Icons / GIFs
+* [IconArchive](https://iconarchive.com/), [IconDuck](https://iconduck.com/), [icon icons](https://icon-icons.com/), [Icons-For-Free](https://icons-for-free.com/), [Streamline](https://www.streamlinehq.com/), [Dryicons](https://dryicons.com/) or [Icones](https://icones.js.org/) - Icon Packs
+* [IconPacks](https://www.iconpacks.net/), [svgmix](https://svgmix.com/), [Iconbuddy](https://iconbuddy.app/), [Noun Project](https://thenounproject.com/) or [cappuccicons](https://cappuccicons.com/) - SVG / PNG Icons
+* [Icofont](https://icofont.com/icons), [Polaris](https://polaris.shopify.com/icons), [Phosphor Icons](https://phosphoricons.com/), [Ant Design](https://ant.design/components/icon/) or [Orion](https://www.orioniconlibrary.com/) - SVG Icons
+* [GrommetIcons](https://icons.grommet.io/) - SVG Icons for React
+* [CaptainIconWeb](https://mariodelvalle.github.io/CaptainIconWeb/), [Iconify](https://iconify.design/) or [IconHunt](https://www.iconhunt.site/) - Vector Icons
+* [StyledIcons](https://styled-icons.dev/) - Import Icons as Styled Components
+* [Teenyicons](https://teenyicons.com/) - Minimal 1px Icons
+* [awsicons](https://awsicons.dev/) - AWS Icons
+* [Game-icons](https://game-icons.net/) - Game Icons
+* [HealthIcons](https://healthicons.org/) - Medical Icons
+* [RealFaviconGenerator](https://realfavicongenerator.net/) - Favicon Generator
+
 ***
 
 ## ▷ [Wallpapers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/system-tools#wiki_.25B7_wallpapers)
