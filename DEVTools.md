@@ -485,7 +485,7 @@
 ## ▷ Frontend Tools
 
 * 🌐 **[Awesome Web Animation](https://github.com/sergey-pimenov/awesome-web-animation)** - Web Animation Resources
-* ↪️ **[Icon Download Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_icon_download_sites)**
+* ↪️ **[Icon Download Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/img-tools#wiki_.25B7_icons_.2F_svgs)**
 * ↪️ **[Design Resources](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_design_resources)** or [Open Source Design](https://opensourcedesign.net/)
 * ↪️ **[Website Templates](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_website_templates)**
 * ↪️ **[Wordpress Themes](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_wordpress_themes)**
