@@ -180,6 +180,7 @@
 * [typing.academy](https://www.typing.academy/) - Typing Tests
 * [TypeRacer](https://play.typeracer.com/) - Typing Games
 * [ZType](https://zty.pe/) - Typing Games
+* [Brevity500](https://brevity500.com/) - Typing Games
 * [TypeRush](https://www.typerush.com/) - Typing Games
 * [Ttyper](https://github.com/max-niederman/ttyper) or [TermTyper](https://github.com/kraanzu/termtyper) - Terminal Typing Tests
 * [TypeLit.io](https://www.typelit.io/) - Book Typing Tests
