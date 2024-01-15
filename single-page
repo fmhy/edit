@@ -4743,21 +4743,17 @@ outline: false
 
 # ► Food
 
-* 🌐 **[Awesome Food](https://github.com/jzarca01/awesome-food)** - Cooking Resources
 * 🌐 **[/m/food](https://www.reddit.com/user/Siryonkee/m/food/)** - Food Multireddit
-* 🌐 **[50 Best Restaurants](https://www.theworlds50best.com/list/1-50)** or [MapOfTheBest](https://mapofthebest.com/) - Top Restaurant Lists
+* 🌐 **[MapOfTheBest](https://mapofthebest.com/)** - Top Restaurant List
 * ↪️ **[Food Storage Tips](https://i.redd.it/qmcas4yuc2w81.png)** / [2](https://i.ibb.co/SKq3GT7/ca6f633c898b.png)
-* ⭐ **[Tandoor Recipes](https://docs.tandoor.dev/)**, [Whisk](https://whisk.com/), [Pestle](https://apps.apple.com/au/app/pestle-kitchen-recipe-manager/id1574776971) or [Spoonacular](https://spoonacular.com/food-api) - Recipe Managers
+* ⭐ **[Tandoor Recipes](https://docs.tandoor.dev/)** or [Pestle](https://apps.apple.com/au/app/pestle-kitchen-recipe-manager/id1574776971) - Recipe Managers
 * ⭐ **[Just the Recipe](https://www.justtherecipe.com/)**, [Copy Me That](https://www.copymethat.com/), [PlainOldRecipe](https://www.plainoldrecipe.com/) or [Recipe Filter](https://addons.mozilla.org/en-US/firefox/addon/recipe-filter/) - Extract Ingredients from Recipe Pages
 * ⭐ **[Baking Calculators](https://bakingcalculators.com/)** - Measurement System Conversion Calculators
 * ⭐ **[Grocy](https://grocy.info/)** / [Android](https://github.com/patzly/grocy-android) or [Kitchen Owl](https://f-droid.org/en/packages/com.tombursch.kitchenowl/) - Grocery Managers
-* ⭐ **[Superbetize](https://superbetize.com/)** - Auto-Categorize Grocery List
 * ⭐ **[Sporked](https://sporked.com/)** - Packaged Food Reviews
 * ⭐ **[Still Tasty](https://www.stilltasty.com/)** or [EatByDate](https://www.eatbydate.com/) - Shelf Life Guides
 * ⭐ **[OpenTable](https://www.opentable.com/)** - Restaurant Reservation Search
 * [KitchenConfidentials](https://kitchenconfidentials.com/) - Anonymous Food & Restaurant Reviews / [Subreddit](https://www.reddit.com/r/KitchenConfidential/)
-* [Mealime](https://www.mealime.com/) or [Calories In](https://calories-in.com/) - Meal Planning
-* [Nosh](https://nosh.tech/) - Food Management App
 * [FoodExpirationDates](https://github.com/lorenzovngl/FoodExpirationDates) - Food Expiration Tracker
 * [cookEbooks](https://cookebooks.info/) - Cookbooks
 * [PunchFork](https://www.punchfork.com/) - Recipes
@@ -4772,8 +4768,6 @@ outline: false
 * [TasteAtlas](https://www.tasteatlas.com/) - Recipe Map
 * [CookingForEngineers](https://www.cookingforengineers.com/) - Recipes / Cooking Tests
 * [Dish Dragon AI](https://www.dishdragon.ai/) - Find Ingredients That Go Well Together
-* [Edamam](https://developer.edamam.com/) - Food-Related APIs
-* [Child Nutrition](https://www.coursera.org/learn/childnutrition) - Child Nutrition / Cooking Course
 * [Cheese.com](https://cheese.com/) - Cheese Resources
 * [AmazingRibs](https://amazingribs.com/) - Rib Recipes
 * [The Bread Code Manifesto](https://github.com/hendricius/the-sourdough-framework) - Bread Baking Recipes 
@@ -5132,6 +5126,7 @@ outline: false
 
 ## ▷ Nutritional Health
 
+* ⭐ **[Nutritionix](https://www.nutritionix.com/)** - Nutrition Tracker App
 * ⭐ **[/r/Nutrition](https://www.reddit.com/r/nutrition/)** - Nutrition Subreddit
 * ⭐ **[Caffeine Calculator](https://caffeineinformer.com/death-by-caffeine)** - Caffeine Intake Calculator
 * ⭐ **[Dehydration Chart](https://i.ibb.co/b3YxZzr/921f6c843cf0.png)** - Dehydration Color Chart
@@ -5143,10 +5138,13 @@ outline: false
 * [Liquid Drink](https://play.google.com/store/apps/details?id=com.xpp.drink) - Liquid Intake Tracker
 * [Daily Dozen](https://github.com/nutritionfactsorg/daily-dozen-android) - Daily Diet Recommendations / Android
 * [EatThisMuch](https://www.eatthismuch.com/), [FitMenCook](https://fitmencook.com/) or [MealPrePro](https://mealpreppro.com/) - Diet Tool / iOS / Android 
+* [Mealime](https://www.mealime.com/) or [Calories In](https://calories-in.com/) - Meal Planning
+* [Nosh](https://nosh.tech/) - Food Management App
+* [Edamam](https://developer.edamam.com/) - Food-Related APIs
+* [Child Nutrition](https://www.coursera.org/learn/childnutrition) - Child Nutrition / Cooking Course
 * [Examine.com](https://examine.com/) - Supplement & Nutrition Analysis
 * [Cronometer](https://cronometer.com/), [Energize](https://codeberg.org/epinez/Energize/) or [Waistline](https://github.com/davidhealey/waistline) - Track Nutrition & Calories
 * [MyFoodData](https://www.myfooddata.com) - Food Nutrition Tools
-* [Nutritionix](https://www.nutritionix.com/) - Nutrition Tracker App
 * [FoodStruct](https://foodstruct.com/) - Food Encyclopedia & Comparison
 * [Tellspecopedia](http://www.tellspecopedia.com/) - Find Healthy Food
 * [Soosee](https://play.google.com/store/apps/details?id=com.goodsnooze.soosee) or [Yuka](https://play.google.com/store/apps/details?id=io.yuka.android) - Scan Ingredient Lists
