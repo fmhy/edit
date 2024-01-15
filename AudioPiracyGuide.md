@@ -303,6 +303,7 @@
 * [Kiddie Records](http://www.kiddierecords.com/) - Classic Children's Records
 * [HQ Hip Hop](https://94hiphop.com/) or [GoldHipHop](https://goldhiphop.pro/) - Hip Hop / MP3 / FLAC
 * [Rapload](https://rapload.org/) or [HipHopa](https://hiphopa.net/) - Hip Hop / MP3
+* [Rap War](https://rap-war-fam.blogspot.com/) - Hip Hop / MP3
 * [The Noise-Arch Archive](https://archive.org/details/noise-arch) - Underground Cassette Tapes
 * [MusicRepublic](https://music-republic-world-traditional.blogspot.com/) - World / MP3 / FLAC
 * [KPopMusicDownload](https://kpopdownloadscmm.blogspot.com/) - K-Pop / MP3
@@ -429,7 +430,7 @@
 * [TribalMixed](https://www.tribalmixes.com/) - DJ Mixes / MP3
 * [PandaCD](https://pandacd.io/) - User-Made Music / MP3
 * [ZOMB Torrents](http://zombtracker.the-zomb.com/) - Forum
-* [bt.etree](https://bt.etree.org/) or [DreamingTree](https://dreamingtree.org/) - Live Concert Recordings
+* [bt.etree](https://bt.etree.org/), [LiveBootlegConcert](https://livebootlegconcert.blogspot.com/) or [DreamingTree](https://dreamingtree.org/) - Live Concert Recordings
 * [NFO db](https://nfodb.ru/) - MP3 NFO Database
 
 ***
