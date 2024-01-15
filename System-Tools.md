@@ -43,6 +43,7 @@
 ***
 
 * ⭐ **[Bulk Crap Uninstaller](https://www.bcuninstaller.com/)** - Bulk Uninstallation Tool
+* ⭐ **[WinUtil](https://github.com/ChrisTitusTech/winutil)** - Chris Titus Tech's Windows Utility
 * ⭐ **[BleachBit](https://www.bleachbit.org/)** - Clean System Memory
 * ⭐ **[SophiApp](https://github.com/Sophia-Community/SophiApp)** / [Script](https://github.com/farag2/Sophia-Script-for-Windows) - Debloater
 * [GhostBuster](https://bitbucket.org/wvd-vegt/ghostbuster/src/master/) or [Device Cleanup Tool](https://www.majorgeeks.com/files/details/device_cleanup_tool.html) - Remove Non-Present Devices
