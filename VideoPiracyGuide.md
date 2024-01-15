@@ -475,7 +475,8 @@
 * [CricHD](https://v4.crichd.tv/) - Sports
 * [UFCKhabib](https://sportsurge.stream/) - Sports
 * [TotalSportek](https://totalsportek.pro/), [2](https://www.totalsportek.to/) - Sports
-* [Rojadirecta](http://www.rojadirecta.eu/) - Sports / [Forum](http://forum.rojadirecta.es/)
+* [Rojadirecta.eu](http://www.rojadirecta.eu/) - Sports / [Forum](http://forum.rojadirecta.es/)
+* [Rojadirecta.tube](https://www.rojadirecta.tube/) - Sports
 * [BoxingStreams100](https://boxings.boxingstreams100.com/) - Boxing
 * [Boxing Stream](https://boxingstream.ai/) - Boxing
 * [/r/WWEstreams/](https://www.reddit.com/r/WWEstreams/) - Wrestling
