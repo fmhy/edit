@@ -1390,11 +1390,9 @@
 * [Mega1080](https://www.mega1080.com/) - Movies / Documentaries / Latino
 * [mirandopeliculas](https://www.mirandopeliculas.com/) - Movies / TV / Latino
 * [TodoPelisHD](https://todopelishd.com/) - Movies / Latino
-* [Maxcine](https://www.maxcine.net/) - Movies / Sub / Dub / 720p
 * [Cine24h](https://cine24h.online/) - Movies / TV / Sub / Dub / 720p
 * [Peliculas 1k](https://www.peliculasmega1k.com/) - Movies / 720p
 * [subtituladas.com](https://subtituladas.com/) - Movies / Sub / 720p 
-* [EsmeraldaTorrent](https://esmeraldatorrent.com/) - Movies / 720p 
 * [Hackstore.me](https://www.hackstore.me/) - Movies / TV / Anime
 * [ProgramasVirtualesPC](https://www.programasvirtualespc.net/category/peliculas/) - Movies / TV / Latino / [Bypasser script](https://greasyfork.org/en/scripts/462492)
 * [MegaPeliculasRip](https://www.megapeliculasrip.net/) - Movies / Classics / TV / Animation / Latino
@@ -1440,6 +1438,7 @@
 * ⭐ **[Grantorrent.wtf](https://grantorrent.wtf/)** - Movies / TV / Documentaries / Castilian
 * ⭐ **[Elitetorrent](https://www.elitetorrent.wf/)** - Movies / TV / Anime / Castilian / Latino / VOSE
 * [Descargas2020](https://descargas2020.net/) - Movies / TV
+* [EsmeraldaTorrent](https://esmeraldatorrent.com/) - Movies / TV / Castilian
 * [CalidadTorrent](https://calidadtorrent.com/) - Movies / TV / Documentaries / Castilian
 * [PediaTorrent](https://pediatorrent.com/) - Movies / TV / Documentaries / Castilian
 * [MoviesDVDR](https://www.moviesdvdr.co/) - Movies / Castilian
@@ -1478,6 +1477,7 @@
 * [PelisPlusHD.nz](https://pelisplushd.nz/) - Movies / TV / Anime / Latino / [Telegram](https://t.me/pelisplushd_nu)
 * [PelisPlusHD](https://pelisplusgo.vip/) - Movies / TV / Latino
 * [PelisxD](https://www.pelisxd.com/) - Movies / TV / Latino
+* [Maxcine](https://www.maxcine.net/) - Movies / Sub / Dub / 720p / Latino
 * [Cuevana8](https://ww3.cuevana8.com/) - Movies / TV
 * [PelisPedia.is](https://pelispedia.is/) - Movies / TV
 * [Gnula.se](https://gnula.se/) - TV / Anime
