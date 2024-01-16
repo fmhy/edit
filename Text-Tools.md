@@ -29,7 +29,7 @@
 * ⭐ **[Rentry](https://rentry.co/)** / [CLI](https://github.com/radude/rentry)
 * ⭐ **[Bundles](https://sentrytwo.com/)** / [Source](https://codeberg.org/SentryTwo/bundles)
 * ⭐ **[disroot](https://bin.disroot.org/)**, [privatebin](https://privatebin.net/), [TextBin](https://textbin.xyz/), [bin.idrix](https://bin.idrix.fr/) or [RIN Privatebin](https://privatebin.rinuploads.org/)
-* ⭐ **[PrivateBin](https://privatebin.info/directory/)**
+* ⭐ **[PrivateBin Instances](https://privatebin.info/directory/)**
 * ⭐ **[katb](https://katb.in/)**
 * ⭐ **[WriteXO](https://writexo.com/)**
 * [Snips.sh](https://snips.sh/) - Self-Hosted
