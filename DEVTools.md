@@ -1201,7 +1201,6 @@
 * [icr](https://github.com/crystal-community/icr) - REPL for Crystal
 * [QBasic](https://www.qbasic.net/) - QBasic / QuickBASIC Programming Language Resources
 * [XAMPP](https://www.apachefriends.org/) - PHP Development Environment 
-* [PHP Decoder](http://ddecode.com/phpdecoder/) - PHP Decoder
 * [PHP Beautifier](https://phpbeautifier.com/) - PHP Formatter
 * [Clean Code PHP](https://github.com/piotrplenik/clean-code-php) - Clean Code for PHP
 * [Valinor](https://github.com/CuyZ/Valinor) - PHP Object Mapper
@@ -1298,7 +1297,7 @@
 
 * 🌐 **[cloud](https://gist.github.com/imba-tjd/d73258f0817255dbe77d64d40d985e76#file-cloud-md)** - Cloud Platform Index
 * ↪️ **[Code Collaboration Platforms](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools#wiki_.25B7_text_.2F_code_collaboration)**
-* ⭐ **[goormIDE](https://ide.goorm.io/)**, [Fleet](https://www.jetbrains.com/fleet/), [CodeTasty](https://codetasty.com/), [Replit](https://replit.com/), [BoostNote](https://boostnote.io/), [Aither](https://github.com/enoki-inc/aither), [Deta](https://deta.space/), [TerraForm](https://www.terraform.io/), [Atheos](https://www.atheos.io/) / [GitHub](https://github.com/Atheos/Atheos), [Datalore](https://datalore.jetbrains.com/), [DeepNote](https://deepnote.com/), [FireMonkeyX](http://www.firemonkeyx.com/), [Cloud9](https://aws.amazon.com/cloud9/) or [Glitch](https://glitch.com/) / [Replit Import](https://replit.com/glitch) / [GitHub](https://github.com/m3o/m3o) - Cloud IDEs
+* ⭐ **[goormIDE](https://ide.goorm.io/)**, [Fleet](https://www.jetbrains.com/fleet/), [CodeTasty](https://codetasty.com/), [Replit](https://replit.com/), [BoostNote](https://boostnote.io/), [Aither](https://github.com/enoki-inc/aither), [Deta](https://deta.space/), [TerraForm](https://www.terraform.io/), [Atheos](https://www.atheos.io/) / [GitHub](https://github.com/Atheos/Atheos), [Datalore](https://datalore.jetbrains.com/), [DeepNote](https://deepnote.com/), [Cloud9](https://aws.amazon.com/cloud9/) or [Glitch](https://glitch.com/) / [Replit Import](https://replit.com/glitch) / [GitHub](https://github.com/m3o/m3o) - Cloud IDEs
 * ⭐ **[CodeSandbox](https://codesandbox.io/)**, [StackBlitz](https://stackblitz.com/) or [GitPod](https://www.gitpod.io/) - VSCode Cloud IDE
 * [JSFiddle](https://jsfiddle.net/) - Online Code Editor
 * [Collabedit](https://collabedit.com/) - Online Code Editor
@@ -1333,7 +1332,7 @@
 * 🌐 **[Awesome CSS](https://github.com/awesome-css-group/awesome-css)** - CSS Resources
 * 🌐 **[Awesome CSS Frameworks](https://github.com/troxler/awesome-css-frameworks)**, [Tailwind](https://tailwindcss.com/), [Terminal CSS](https://terminalcss.xyz/), [Bulma](https://bulma.io/) or [SimpleCSS](https://simplecss.org/) - CSS Framework Resources
 * 🌐 **[Awesome TailwindCSS](https://github.com/aniftyco/awesome-tailwindcss)** - Tailwind CSS Resources
-* ⭐ **[HedgeDoc](https://hedgedoc.envs.net/)**, [zettlr](https://www.zettlr.com/), [Dillinger](https://dillinger.io/), [Notable](https://notable.app/), [vnote](https://github.com/vnotex/vnote), [MarkdownTools](https://www.markdowntools.com/), [StackEdit](https://stackedit.io/), [MarkdownPad](http://markdownpad.com/), [Markdownify](https://markdownify.js.org/), [Apostrophe](https://github.com/ApostropheEditor/Apostrophe), [Glow](https://github.com/charmbracelet/glow), [MarkdownLivePreview](https://markdownlivepreview.com/), [Proton](https://steventhanna.github.io/proton/), [Vrite](https://editor.vrite.io/) or [Mark Text](https://github.com/marktext/marktext) - Markdown Editors
+* ⭐ **[HedgeDoc](https://hedgedoc.envs.net/)**, [zettlr](https://www.zettlr.com/), [Dillinger](https://dillinger.io/), [Notable](https://notable.app/), [vnote](https://github.com/vnotex/vnote), [MarkdownTools](https://www.markdowntools.com/), [StackEdit](https://stackedit.io/), [Markdownify](https://markdownify.js.org/), [Apostrophe](https://github.com/ApostropheEditor/Apostrophe), [Glow](https://github.com/charmbracelet/glow), [MarkdownLivePreview](https://markdownlivepreview.com/), [Proton](https://steventhanna.github.io/proton/), [Vrite](https://editor.vrite.io/) or [Mark Text](https://github.com/marktext/marktext) - Markdown Editors
 * ⭐ **[HTML Reference](https://htmlreference.io/)** - HTML Guide
 * ⭐ **[GenerateData](https://generatedata.com/)** - Generate Test Data
 * [KeyFrames](https://keyframes.app/) - CSS Tools
