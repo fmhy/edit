@@ -370,7 +370,7 @@
 * [AFWall+](https://github.com/ukanth/afwall/), [Rethink App](https://github.com/celzero/rethink-app), [Karma](https://github.com/StarGW-net/karma-firewall) or [NoRoot Firewall](https://play.google.com/store/apps/details?id=app.greyshirts.firewall) - Firewalls
 * [UrlChecker](https://github.com/TrianguloY/UrlChecker) - URL Checker
 * [PCAPdroid](https://github.com/emanuele-f/PCAPdroid) - Network Monitor
-* [v2rayNG](https://github.com/2dust/v2rayNG) - Build Privacy Network
+* [v2rayNG](https://github.com/2dust/v2rayNG) or [V2Ray Proxy](https://play.google.com/store/apps/details?id=free.v2ray.proxy.VPN) - Build Privacy Network
 * [Open SSTP Client](https://github.com/kittoku/Open-SSTP-Client) - SSTP Client
 * [SimpleLogin](https://github.com/simple-login/Simple-Login-Android) or [Anonaddy](https://gitlab.com/Stjin/anonaddy-android) - Email Forwarding
 * [Guerilla Mail](https://f-droid.org/en/packages/cf.theonewiththebraid.guerrilla_mail/), [Temp Mail](https://play.google.com/store/apps/details?id=temporary.disposable.mail), [InstAddr](https://apps.apple.com/us/app/instaddr/id806157957), [Ten Minute Mail](https://play.google.com/store/apps/details?id=com.tenminutemail) or [InstAddr](https://play.google.com/store/apps/details?id=air.kukulive.mailnow) - Temp Mail Apps
@@ -547,7 +547,7 @@
 * [Substratum Tweaks](https://github.com/luisbocanegra/substratum-tweaks) - System Theme
 * [HomeScreens](https://homescreens.org/) - Custom Phone Home Screen Examples
 * [iFont](https://play.google.com/store/apps/details?id=com.kapp.ifont) - Android Font Installer
-* [Candybar](https://github.com/zixpo/candybar) or [Iconify](https://github.com/Mahmud0808/Iconify) - Custom App Icons
+* [Candybar](https://github.com/zixpo/candybar) or [Iconify](https://github.com/kyutefox/Iconify) - Custom App Icons
 * [Arcticons](https://arcticons.onnno.nl/) - Monotone Icon Pack
 * [Giga Icon](https://play.google.com/store/apps/details?id=it.mirko.gigaicon&hl=en_IN&gl=US) - Make Icons Bigger
 * [IconRequest](https://github.com/Kaiserdragon2/IconRequest) - Find Missing Icons
@@ -660,7 +660,7 @@
 * [LNReader](https://github.com/LNReader/lnreader), [Baruch](https://github.com/adreeeyan/baruch), [Ranobe](https://github.com/ranobe-org/ranobe), [IReader](https://github.com/IReaderorg/IReader) or [QuickNovel](https://apt.izzysoft.de/fdroid/index/apk/com.lagradost.quicknovel) - Light Novels
 * [SoftGoods](https://softgoods.app/) - Fan Fiction
 * [Libby](https://apps.apple.com/us/app/libby-by-overdrive/id1076402606) - Borrow Digital Library Books
-* [Bionic Reading](https://bionic-reading.com/) - Reading Fixation Points
+* [Bionic Reading](https://play.google.com/store/apps/details?id=com.bionic_reading_app) - Reading Fixation Points
 * [Adobe Scanner](https://www.adobe.com/acrobat/mobile/scanner-app.html), [CleanScan](https://github.com/clean-apps/CleanSCAN), [vFLat Scan](https://play.google.com/store/apps/details?id=com.voyagerx.scanner) or [OpenScan](https://github.com/ethereal-developers/OpenScan) - Document Scanners
 * [OpenDocument](https://opendocument.app/) - Document Reader
 * [Paperless](https://github.com/astubenbord/paperless-mobile) - Document Manager
