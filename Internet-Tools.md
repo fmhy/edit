@@ -473,6 +473,7 @@
 * [Bookmark Search Plus 2](https://github.com/aaFn/Bookmark-search-plus-2) - Search Bookmarks 
 * [WebMemex](https://blog.webmemex.org/) - Organize & Store Webpages 
 * [Bandwidth Hero](https://bandwidth-hero.com/) - Reduce Browsing Data Usage
+* [User Agent Switcher](https://add0n.com/useragent-switcher.html) - Switch your User-Agent
 * [Auto Tab Discard](https://add0n.com/tab-discard.html), [Tab Wrangler](https://github.com/tabwrangler/tabwrangler), [UnloadTabs](https://github.com/NiklasGollenstede/unload-tabs) or [The Marvellous Suspender](https://gioxx.org/chromeaddons/the-marvellous-suspender/) - Discard Inactive Tabs
 * [Snooze Tabs](https://github.com/bwinton/SnoozeTabs) - Temporarily Snooze Tabs
 * [AutoRefresh](https://autorefresh.io/) or [Tab Auto Refresh](https://mybrowseraddon.com/tab-auto-refresh.html) - Refresh Tabs
