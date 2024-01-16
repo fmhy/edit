@@ -1428,7 +1428,7 @@
 * [Animegafirex](https://www.animegafirex.com/) - Anime / Sub
 * [CrisAnime](https://crisanimex.com/) - Anime / Sub / Dub
 * [TioDonghua](https://anime.tiodonghua.com/) - Anime / Sub
-* [Japan Paw!](https://japan-paw.net/) - Anime / Sub
+* [Japan Paw!](https://japan-paw.net/) - Anime / Sub / [Bypass](https://greasyfork.org/en/scripts/485015)
 * [Fukou-Da!](https://fukou-da.net/) - Anime / Sub / Light Novels
 * [Animes480pFinalizados](https://t.me/Animes480pFinalizados) - Anime / Telegram
 * [AndrossElLegado](https://t.me/AndrossElLegado) - Anime / Telegram
