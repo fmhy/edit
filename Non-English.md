@@ -1406,6 +1406,7 @@
 * [Peliculas Google Drive](https://www.peliculasgd.net/) - Movies / Latino / [Bypasser script](https://greasyfork.org/en/scripts/484943)
 * [TodoDVDFull](https://www.tododvdfull.com/) - Movies / Latino / [Bypasser script](https://greasyfork.org/en/scripts/484488)
 * [Don Pelis](https://donpelis.org/), [2](https://granpirata.com/) - Movies / TV / Animation / Latino / [Bypasser script](https://greasyfork.org/en/scripts/477591)
+* [Mega Descargas](https://mega-descargas-serie.blogspot.com/) - TV / Latino
 * [La Comunidad](https://t.me/s/la_comunidad) - Movies / TV / Telegram / Castilian
 * [Peliculas 480p](https://t.me/cinema480p) - Movies / Telegram / Latino
 * [DramasEmisiones](https://t.me/dramasemisiones), [2](https://t.me/Imundodoramas) - Asian Drama / Telegram
