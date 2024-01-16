@@ -299,6 +299,7 @@
 * [Studio Flow](https://studiofow.com/movies/) - 3D Porn / [Discord](https://discord.com/invite/zUgDe3B)
 * [SFM Compile](https://sfmcompile.club/) - 3D Porn
 * [HentaiLA](https://www4.hentaila.com/) - Spanish
+* [MandraHentai](https://mandrahentai.com/) - Spanish / [Bypasser](https://greasyfork.org/en/scripts/484990)
 * [Fapservice](https://fapservice.com/) - Compilation of Echhi Anime Scenes / [Discord](https://discord.com/invite/sTaEawE)
 
 ***
