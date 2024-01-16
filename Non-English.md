@@ -1475,8 +1475,8 @@
 * [PelisPedia](https://ww1.pelispedia.asia/) - Movies / TV / Latino
 * [PelisPedia3](https://io.pelispedia.io/) - Movies / TV / Anime / Latino
 * [Gnula.uno](https://gnula.uno/) - Movies / TV / Anime / Latino
-* [Cinecalidad.tel](https://w1.cinecalidad.tel/) - Movies / Latino
 * [Cinecalidad.gg](https://vwv.cinecalidad.gg/) - Movies / TV / Animation / Latino / [Telegram](https://t.me/cinecalidadchat)
+* [Cinecalidad.tel](https://w1.cinecalidad.tel/) - Movies / Latino
 * [Cuevana2](https://www.cuevana2espanol.net/) - Movies / TV / Latino
 * [Cuevana3.biz](https://cuevana.biz/) - Movies / TV / Latino
 * [Cuevana3.ch](https://cuevana3.ch/) - Movies / TV / Latino
