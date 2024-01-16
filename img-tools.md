@@ -428,7 +428,7 @@
 * [IconPacks](https://www.iconpacks.net/), [svgmix](https://svgmix.com/), [Iconbuddy](https://iconbuddy.app/), [Noun Project](https://thenounproject.com/) or [cappuccicons](https://cappuccicons.com/) - SVG / PNG Icons
 * [Icofont](https://icofont.com/icons), [Polaris](https://polaris.shopify.com/icons), [Phosphor Icons](https://phosphoricons.com/), [Ant Design](https://ant.design/components/icon/) or [Orion](https://www.orioniconlibrary.com/) - SVG Icons
 * [GrommetIcons](https://icons.grommet.io/) - SVG Icons for React
-* [CaptainIconWeb](https://mariodelvalle.github.io/CaptainIconWeb/), [Iconify](https://iconify.design/) or [IconHunt](https://www.iconhunt.site/) - Vector Icons
+* [CaptainIconWeb](https://mariodelvalle.github.io/CaptainIconWeb/), [Iconify](https://github.com/kyutefox/Iconify) or [IconHunt](https://www.iconhunt.site/) - Vector Icons
 * [StyledIcons](https://styled-icons.dev/) - Import Icons as Styled Components
 * [Teenyicons](https://teenyicons.com/) - Minimal 1px Icons
 * [awsicons](https://awsicons.dev/) - AWS Icons
