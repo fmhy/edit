@@ -1418,7 +1418,7 @@
 * [exploradoresp2p](https://exploradoresp2p.com/) - Movies / Classics / TV / Documentaries / ED2K Links / [Telegram](https://t.me/+fLbhvUbvrZwzYmI0)
 * [HispaMula](https://www.hispamula.club/) - Movies / Classics / TV / Documentaries / ED2K Links / [Telegram](https://t.me/HispaMulaCLUB) / Castilian
 * [Descargar videos de la tele](https://eljaviero.com/descargarvideosdelatele/) - TV / [Telegram](https://t.me/joinchat/DVUy6EgTA_kZnc3KAaVItg) / Castilian
-* [SphinxAnime](https://sphinxanime.com/) - Anime / Sub / Dub
+* [SphinxAnime](https://sphinxanime.com/) - Anime / Sub / Dub / [Bypass](https://greasyfork.org/en/scripts/485014)
 * [animesgd](https://animesgd.net/) - Anime / Sub / Dub / Latino / Cartoons
 * [Daemon Anime](https://www.daemonanime.net/) - Anime / Sub / Dub / Latino
 * [Anime4Mega](https://anime4mega.net/) - Anime / Sub / Dub / Latino
