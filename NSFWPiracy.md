@@ -495,9 +495,6 @@
 * [PBC](https://pbc.xxx/) - Gay Porn Encyclopedia
 * [MyReadingManga](https://myreadingmanga.info/) - LGBTQ+ Hentai
 * [BLCollection](https://blcollection.co/) - Boys Love Manga
-* [ShemaleVids.org](https://shemalevids.org/) - Trans Streaming
-* [Shemale777.org](https://shemale777.com/) - Trans Streaming
-* [TransPorn](https://transporn.cc/) - Trans DDL
 
 ***
 
