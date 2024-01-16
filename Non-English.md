@@ -1401,6 +1401,7 @@
 * [Hackstore.rs](https://hackstore.rs/) - Movies / TV / Anime / Latino / [Bypasser script](https://greasyfork.org/en/scripts/484944)
 * [ProgramasVirtualesPC](https://www.programasvirtualespc.net/category/peliculas/) - Movies / TV / Latino / [Bypasser script](https://greasyfork.org/en/scripts/462492), [2](https://greasyfork.org/en/scripts/477591)
 * [SeiresHD](https://serieslandia.com/), [2](https://seireshd.com/) - Movies / TV / Animation / Latino / [Bypasser script](https://greasyfork.org/en/scripts/477591)
+* [Gatonplayseries](https://gatonplayseries.com/) - Movies / TV / Latino / Anime / [Bypasser script](https://greasyfork.org/en/scripts/477591), [2](https://greasyfork.org/en/scripts/484488)
 * [LatinoMegaHD](https://www.latinomegahd.net/) - Movies / TV / Latino / [Bypasser script](https://greasyfork.org/en/scripts/484486)
 * [Peliculas Google Drive](https://www.peliculasgd.net/) - Movies / Latino / [Bypasser script](https://greasyfork.org/en/scripts/484943)
 * [TodoDVDFull](https://www.tododvdfull.com/) - Movies / Latino / [Bypasser script](https://greasyfork.org/en/scripts/484488)
