@@ -1439,7 +1439,7 @@
 * [N+2](https://nmasmas2.blogspot.com/) - Animated Movies / Cartoons
 * [Niroqui](https://niroqui.com/) - Courses
 * [Cursos En Mega](https://t.me/s/cursosenmega) - Courses
-* [Hello-Python](https://github.com/mouredev/Hello-Python) or [https://github.com/mouredev/python-web](python-web) - Python Courses
+* [Hello-Python](https://github.com/mouredev/Hello-Python) or [python-web](https://github.com/mouredev/python-web) - Python Courses
 
 ## ▷ Torrenting
 
