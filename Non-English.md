@@ -1396,6 +1396,7 @@
 * [MegaPeliculasRip](https://www.megapeliculasrip.net/) - Movies / Classics / TV / Animation / Latino
 * [BajarPelisGratis](https://www.bajarpelisgratis.com/) - Movies / Latino
 * [Bajalo Gratis](https://bajalogratis.com/) - Movies / Latino
+* [Peliculas-HD](https://peliculas-hd.org/) - Movies / Latino
 * [Relampago Movies](https://relampagomovies.com/) - Movies / Latino
 * [Hackstore.me](https://www.hackstore.me/) - Movies / TV / Anime
 * [Hackstore.rs](https://hackstore.rs/) - Movies / TV / Anime / Latino / [Bypasser script](https://greasyfork.org/en/scripts/484944)
