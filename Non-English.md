@@ -1423,6 +1423,7 @@
 * [Anime4Mega](https://anime4mega.net/) - Anime / Sub / Dub / Latino
 * [ivanime](https://www.ivanime.com/) - Anime / Sub / Dub / Latino
 * [Dw-anime](https://dw-anime.net/) - Anime / Sub / Dub / Latino
+* [MandraAnime](https://mandranime.com/) - Anime / Sub / [Bypasser script](https://greasyfork.org/en/scripts/484990)
 * [Animegafirex](https://www.animegafirex.com/) - Anime / Sub
 * [CrisAnime](https://crisanimex.com/) - Anime / Sub / Dub
 * [TioDonghua](https://anime.tiodonghua.com/) - Anime / Sub
