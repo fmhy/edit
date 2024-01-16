@@ -1419,6 +1419,7 @@
 * [Descargar videos de la tele](https://eljaviero.com/descargarvideosdelatele/) - TV / [Telegram](https://t.me/joinchat/DVUy6EgTA_kZnc3KAaVItg) / Castilian
 * [SphinxAnime](https://sphinxanime.com/) - Anime / Sub / Dub
 * [animesgd](https://animesgd.net/) - Anime / Sub / Dub / Latino / Cartoons
+* [Daemon Anime](https://www.daemonanime.net/) - Anime / Sub / Dub / Latino
 * [Anime4Mega](https://anime4mega.net/) - Anime / Sub / Dub / Latino
 * [ivanime](https://www.ivanime.com/) - Anime / Sub / Dub / Latino
 * [Dw-anime](https://dw-anime.net/) - Anime / Sub / Dub / Latino
