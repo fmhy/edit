@@ -184,8 +184,8 @@
 * [Softpedia](https://www.softpedia.com/) - Freeware Index
 * [Realityripple](https://realityripple.com/) - Freeware Index
 * [Software Informer](https://software.informer.com/) - Freeware Index
-[Awesome Windows](https://github.com/Awesome-Windows/Awesome) - Freeware Index
-[Major Geeks](https://www.majorgeeks.com/content/page/top_freeware_picks.html) - Freeware Index
+* [Awesome Windows](https://github.com/Awesome-Windows/Awesome) - Freeware Index
+* [Major Geeks](https://www.majorgeeks.com/content/page/top_freeware_picks.html) - Freeware Index
 * [SourceForge](https://sourceforge.net/)- FOSS Index
 * [FossHub](https://www.fosshub.com/)- FOSS Index
 * [Fossies](https://fossies.org/all.html)- FOSS Index
