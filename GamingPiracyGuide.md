@@ -31,7 +31,7 @@
 * [Xatab Repacks](https://byxatab.com/), [2](https://otxatabs.net/) - Torrent
 * [FreeGOGPCGames](https://freegogpcgames.com/) - GOG Games Torrent Uploads
 * [IRC Games](https://redd.it/x804wg) - Download Games via IRC
-* [Gamdie](https://gamdie.com/), [itch.io](https://itch.io/games/new-and-popular/featured/free) / [Downloader](https://github.com/Emersont1/itchio), [DigiPen](https://games.digipen.edu/) or [Game Jolt](https://gamejolt.com/games?price=free) - Indie Games
+* [Gamdie](https://gamdie.com/), [itch.io](https://itch.io/games/new-and-popular/featured/free) / [Desktop](https://github.com/itchio/itch) / [Claim free games](https://github.com/Smart123s/ItchClaim) / [Downloader](https://github.com/Emersont1/itchio), [DigiPen](https://games.digipen.edu/) or [Game Jolt](https://gamejolt.com/games?price=free) - Indie Games
 * [Alpha Beta Gamer](https://alphabetagamer.com/) - Play Games in Alpha / Beta Testing
 * [RPG Maker Games](https://rpgmaker.net/games/?name_filter=&amp;engine=&amp;status=&amp;rating=&amp;commercial=exclude&amp;sort=&amp;portal=None) - Games made via RPG Maker
 * [DoujinStyle](https://discord.com/invite/z2QDFdA) - Doujin Games
