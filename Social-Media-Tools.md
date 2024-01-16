@@ -45,7 +45,6 @@
 * [dsc.gg](https://dsc.gg/) - Create Custom Discord Invites
 * [Discord Previews](https://discord.gg/QMw7gQGMHj) - New Discord Builds / Changes
 * [instaparty](https://instaparty.gg/) - Temporary Discord Servers
-* [Discord Templates](https://discordtemplates.me/) - Discord Server Templates
 * [Discord UI Mockup](https://www.figma.com/community/file/994323951589690341/Discord-Desktop-UI) - Discord UI Mockups
 * [discord-badges](https://github.com/mezotv/discord-badges) - Discord Badges Image Files
 * [SunnyDiscord](https://gist.github.com/TheSunCat/58fedaa19d6154ef3e4b2b676c286906) or [Discord Adblock](https://github.com/CroissantDuNord/discord-adblock) - Hide Nitro / Boost Upsells
