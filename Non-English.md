@@ -1393,13 +1393,18 @@
 * [Cine24h](https://cine24h.online/) - Movies / TV / Sub / Dub / 720p
 * [Peliculas 1k](https://www.peliculasmega1k.com/) - Movies / 720p
 * [subtituladas.com](https://subtituladas.com/) - Movies / Sub / 720p 
-* [Hackstore.me](https://www.hackstore.me/) - Movies / TV / Anime
-* [ProgramasVirtualesPC](https://www.programasvirtualespc.net/category/peliculas/) - Movies / TV / Latino / [Bypasser script](https://greasyfork.org/en/scripts/462492)
 * [MegaPeliculasRip](https://www.megapeliculasrip.net/) - Movies / Classics / TV / Animation / Latino
 * [BajarPelisGratis](https://www.bajarpelisgratis.com/) - Movies / Latino
 * [Bajalo Gratis](https://bajalogratis.com/) - Movies / Latino
 * [Relampago Movies](https://relampagomovies.com/) - Movies / Latino
+* [Hackstore.me](https://www.hackstore.me/) - Movies / TV / Anime
+* [Hackstore.rs](https://hackstore.rs/) - Movies / TV / Anime / Latino / [Bypasser script](https://greasyfork.org/en/scripts/484944)
+* [ProgramasVirtualesPC](https://www.programasvirtualespc.net/category/peliculas/) - Movies / TV / Latino / [Bypasser script](https://greasyfork.org/en/scripts/462492), [2](https://greasyfork.org/en/scripts/477591)
 * [SeiresHD](https://serieslandia.com/), [2](https://seireshd.com/) - Movies / TV / Animation / Latino / [Bypasser script](https://greasyfork.org/en/scripts/477591)
+* [LatinoMegaHD](https://www.latinomegahd.net/) - Movies / TV / Latino / [Bypasser script](https://greasyfork.org/en/scripts/484486)
+* [Peliculas Google Drive](https://www.peliculasgd.net/) - Movies / Latino / [Bypasser script](https://greasyfork.org/en/scripts/484943)
+* [TodoDVDFull](https://www.tododvdfull.com/) - Movies / Latino / [Bypasser script](https://greasyfork.org/en/scripts/484488)
+* [Don Pelis](https://donpelis.org/), [2](https://granpirata.com/) - Movies / TV / Animation / Latino / [Bypasser script](https://greasyfork.org/en/scripts/477591)
 * [La Comunidad](https://t.me/s/la_comunidad) - Movies / TV / Telegram / Castilian
 * [Peliculas 480p](https://t.me/cinema480p) - Movies / Telegram / Latino
 * [DramasEmisiones](https://t.me/dramasemisiones), [2](https://t.me/Imundodoramas) - Asian Drama / Telegram
