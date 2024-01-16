@@ -570,6 +570,7 @@
 * ⭐ **[Firefox Containers](https://addons.mozilla.org/en-US/firefox/addon/multi-account-containers/)**, [Container Tab Groups](https://addons.mozilla.org/en-US/firefox/addon/container-tab-groups/) or [Temporary Containers](https://github.com/stoically/temporary-containers) - Separate Firefox Sessions / [Guide](https://www.thechiefmeat.com/guides/containers.html)
 * ⭐ **[FoxyTab](https://addons.mozilla.org/en-US/firefox/addon/foxytab/)** - Multiple Tab Related Actions
 * ⭐ **[Context Search](https://addons.mozilla.org/en-US/firefox/addon/contextsearch-web-ext/)** - Search Selected Text / Multi Site Search
+* ⭐ **[User Agent Switcher](https://addons.mozilla.org/en-GB/firefox/addon/user-agent-string-switcher/)** - Change What Websites See Your Browser As 
 * [PWAsForFirefox](https://github.com/filips123/PWAsForFirefox) - Install Progressive Web Apps
 * [FoxyLink](https://addons.mozilla.org/en-US/firefox/addon/foxylink/) - Multiple Link Related Actions 
 * [Firefox Download Managers](https://addons.mozilla.org/en-US/firefox/search/?category=download-management&recommended=true&sort=recommended%2Cusers&type=extension) - Download Managers for Firefox
