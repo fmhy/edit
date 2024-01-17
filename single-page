@@ -11147,6 +11147,7 @@ Linux Gaming Guide
 * [PDALife](https://pdalife.com/)
 * [APKVision](https://apkvision.org/)
 * [APK Home](https://apkhome.io/)
+* [Release APK](https://forum.release-apk.com/)
 * [RockMods](https://www.rockmods.net/) - [Telegram](https://t.me/RBMods)
 * [DL King](https://dl.king2net.com/soft%20android/)
 * [AKMods](https://www.akmods.in/)
@@ -11175,7 +11176,6 @@ Linux Gaming Guide
 * [APKamp](https://apkamp.com/)
 * [APKSum](https://www.apksum.com/)
 * [Material-You-app-list](https://github.com/nyas1/Material-You-app-list)
-* [Mitch](https://sr.ht/~gardenapple/mitch/) - .io Games Storefront
 * [Shelf](https://play.google.com/store/apps/details?id=com.shelf.app) - App Recommendations
 
 ***
@@ -11197,7 +11197,7 @@ Linux Gaming Guide
 
 ***
 
-## ▷ TG Channels
+## ▷ Telegram Channels
 
 * ⭐ **[Modded Central](https://t.me/+MYR2XRdK3_pmZDRl)** / [Backup](https://t.me/moddedcentralbackup)
 * [alexstranniklite](https://t.me/alexstranniklite)
@@ -11252,22 +11252,18 @@ Linux Gaming Guide
 * [Plexus](https://plexus.techlore.tech/) - De-googled Device Compatibility
 * [Automate](https://llamalab.com/automate/) or [AutomateIt](https://www.automateitapp.com/) - Android Automation
 * [AVNC](https://github.com/gujjwal00/avnc) or [DroidVNC-NG](https://github.com/bk138/droidVNC-NG) - Remote Desktop Clients / VNC
-* [ApkShellExt2](https://www.apkshellext.com/) - Desktop App Manager
-* [ClassicPowerMenu](https://github.com/KieronQuinn/ClassicPowerMenu) - Android Power Menu Replacement
+* [ClassicPowerMenu](https://github.com/KieronQuinn/ClassicPowerMenu) - Android Power Menu Replacement / Needs Root
 * [Android Debloat Guide](https://rentry.co/debloatandroid), [debloat-android](https://christitus.com/debloat-android/) or [Uninstall Bloatware](https://www.xda-developers.com/uninstall-carrier-oem-bloatware-without-root-access/) - Android Debloating Guides
 * [Canta](https://github.com/samolego/Canta), [Universal Android Debloater](https://forum.xda-developers.com/t/script-2020-10-04-v2-7-universal-android-debloater.4069209/) / [GUI](https://github.com/Universal-Debloater-Alliance/universal-android-debloater) or [De-Bloater](https://sunilpaulmathew.github.io/De-Bloater/) - Android Debloaters
 * [DetoxDroid](https://github.com/flxapps/DetoxDroid) - Make Your Phone Less Distracting
-* [Hail](https://github.com/aistra0528/Hail) - Auto-Deactivate Unused Apps
+* [Hail](https://github.com/aistra0528/Hail) - Auto-Deactivate Unused Apps / Needs Root
 * [Blocker](https://github.com/lihenggui/blocker) - Component Controller
 * [Jdownloader](https://my.jdownloader.org/), [MZDownloadManager](https://github.com/mzeeshanid/MZDownloadManager), [1DM](https://play.google.com/store/apps/details?id=idm.internet.download.manager.adm.lite), [FDM](https://play.google.com/store/apps/details?id=org.freedownloadmanager.fdm) or [Navi](https://github.com/TachibanaGeneralLaboratories/download-navi) - Download File Managers
-* [Marc Files](https://play.google.com/store/apps/details?id=com.marc.files) - File Manager Shortcut
-* [DeDuplicate](https://deduplicate.app/) - Duplicate File Remover
 * [Adebar](https://codeberg.org/izzy/Adebar), [Android-DataBackup](https://github.com/XayahSuSuSu/Android-DataBackup), [Swift Backup](https://swiftapps.org/), [Neo Backup](https://github.com/NeoApplications/Neo-Backup) - Device Backup Tools
 * [shouko](https://github.com/ivaniskandar/shouko) or [Tweaker](https://github.com/zacharee/Tweaker) - Android System Tweaks / Features
 * [DiskUsage](https://play.google.com/store/apps/details?id=com.google.android.diskusage) - Disk Usage Analyzer
 * [FreezeYou](https://www.freezeyou.net/en-US/), [SuperFreezZ](https://superfreezz.gitlab.io/), [BatteryTool](https://github.com/Domi04151309/BatteryTool) or [Drowser](https://gitlab.com/juanitobananas/drowser) - Freeze App Background Activities
 * [Red Moon](https://github.com/LibreShift/red-moon) or [NightOwl](https://play.google.com/store/apps/details?id=com.evezzon.nightowl) - Screen Brightness Control
-* [BlueLight Filter](https://play.google.com/store/apps/details?id=jp.ne.hardyinfinity.bluelightfilter.free) - Screen Bluelight Filter
 * [OLEDBuddy](https://play.google.com/store/apps/details?id=me.mikecroall.oledbuddy) - Fix OLED Images
 * [G-CPU](https://play.google.com/store/apps/details?id=com.insideinc.gcpu) - Hardware Monitor
 * [Electron](https://play.google.com/store/apps/details?id=com.mahersafadi.electron), [SaverTuner](https://codeberg.org/s1m/savertuner), [Charge Meter](https://play.google.com/store/apps/details?id=dev.km.android.chargemeter), [BatteryGuru](https://rentry.co/FMHYBase64#battery-guru), [Batt](https://gitlab.com/narektor/batt), [aBattery](https://play.google.com/store/apps/details?id=me.linshen.abattery) or [AccuBattery](https://play.google.com/store/apps/details?id=com.digibites.accubattery) - Battery Monitors / Managers
@@ -11276,14 +11272,16 @@ Linux Gaming Guide
 * [DataMonitor](https://github.com/itsdrnoob/DataMonitor) - Data Usage Monitor
 * [Compass QS Tile](https://github.com/WSTxda/Compass-QS-Tile) or [QuickTiles](https://gitlab.com/asdoi/quick-tiles) - Quick Setting Tiles
 * [auto-auto-rotate](https://gitlab.com/juanitobananas/auto-auto-rotate) - Per App Rotation Settings
+* [ApkShellExt2](https://www.apkshellext.com/) - Desktop App Manager
+* [Marc Files](https://play.google.com/store/apps/details?id=com.marc.files) - File Manager Shortcut
 * [Gesture Suite](https://play.google.com/store/apps/details?id=com.gesture.suite) or [Fluid Gestures](https://play.google.com/store/apps/details?id=com.fb.fluid) - Android Gestures
 * [Smartspacer](https://github.com/KieronQuinn/Smartspacer) - Custom Android at a Glance Widget
-* [Tap Tap Double Tap](https://forum.xda-developers.com/t/app-beta-0-10-1-tap-tap-double-tap-on-back-of-device-gesture-from-android-11-port.4140573/) or [TapTap](https://github.com/KieronQuinn/TapTap) - Android Back Gesture Controls
+* [Tap Tap Double Tap](https://forum.xda-developers.com/t/app-beta-0-10-1-tap-tap-double-tap-on-back-of-device-gesture-from-android-11-port.4140573/) or [TapTap](https://github.com/KieronQuinn/TapTap) - Android Back Gesture Controls / Needs Root
 * [Quick Cursor](https://play.google.com/store/apps/details?id=com.quickcursor) - Cursor for Large Smartphones
 * [Caffeine](https://lab.zhs.moe/caffeine/) - Keep Screen On
 * [FakeStandby](https://fakestandby.jonasbernard.de/) or [Extinguish](https://play.google.com/store/apps/details?id=own.moderpach.extinguish) - Turn Off Screen While App is Running
 * [WaveUp](https://gitlab.com/juanitobananas/wave-up) - Turn On Display via Waving
-* [Pinnit](https://github.com/msasikanth/pinnit) - Notification History / Pinning
+* [Pinnit](https://github.com/msasikanth/pinnit) - Notification Pinning
 * [B.D.T](https://bdt.jepfa.de/) - Time with Between Time Notifications
 * [TidyPanel](https://play.google.com/store/apps/details?id=com.dharmapoudel.tidypanel) - Notification Blocker
 * [Inware](https://play.google.com/store/apps/details?id=com.evo.inware) - Device Specifications
@@ -11715,6 +11713,9 @@ Linux Gaming Guide
 * [HMCL-PE](https://github.com/huanghongxun/HMCL-PE) or [Pojav](https://pojavlauncherteam.github.io/) - Mobile Minecraft Launchers
 * [SMAPI](https://github.com/ZaneYork/SMAPI-Android-Installer) - Stardew Valley Modding API
 * [JoiPlay](https://joiplay.cyou/) - RPG Maker Game Interpreter
+* [Mitch](https://sr.ht/~gardenapple/mitch/) - Mobile Frontend for itch.io
+* [LibreSudoku](https://f-droid.org/packages/com.kaajjo.libresudoku/) - FOSS Sudoku
+* [Nonocross](https://f-droid.org/packages/com.picross.nonocross/) - FOSS Nonogram
 * [Pinball for Android](https://github.com/fexed/Pinball-on-Android) - Space Cadet Pinball
 * [FlashLite](https://flashlite.games/) - Flash Emulator / [Discord](https://discord.gg/F2dsGhTX6y)
 
