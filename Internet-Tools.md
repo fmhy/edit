@@ -407,8 +407,7 @@
 * ⭐ **[Chrome Keyboard Shortcuts](https://support.google.com/chrome/answer/157179)**
 * ⭐ **[rrweb](https://www.rrweb.io/)**, [Huginn](https://github.com/huginn/huginn) or [Selenium](https://www.selenium.dev/) - Browser Automation
 * [VsyncTester](https://vsynctester.com/) - Browser VSYNC Test
-* [NeverInstall](https://neverinstall.com/) - Use Apps in Browser
-* [QuteBrowser](https://qutebrowser.org/) - Keyboard Focused Browser 
+* [QuteBrowser](https://qutebrowser.org/) - Keyboard Focused Browser
 * [Browsh](https://www.brow.sh/) - Text-Based Browser
 * [MinBrowser](https://minbrowser.org/) - Minimalist Browser
 * [Vieb](https://vieb.dev/) - Vim Inspired Browser
