@@ -1382,7 +1382,7 @@
 * [Gun's Cave](https://lacuevadeguns.com/forum/index.php?action=forum) - Video / Audio / Reading / Castilian
 * [Cultura Para Todos](https://culturaparatodos.eu/) - Video / Audio / Reading
 * [Flipax2](https://flipax2.me/) - Video / Audio / Reading / Castilian
-* [Fiuxy2](https://fiuxy2.co/) - Video / Audio / Reading / NSFW / [Bypasser script](https://greasyfork.org/en/scripts/477591)
+* [Fiuxy2](https://fiuxy2.co/) - Video / Audio / Reading / NSFW / [Bypass](https://greasyfork.org/en/scripts/477591)
 * [La Taberna Del Cangrejo](http://www.latabernadelcangrejo.eu/) - Video / Audio
 * [Descargandoxmega](https://www.descargandoxmega.com/) - Movies / TV / Animation / Latino / Castilian
 * [SomosMovies](https://somosmovies.com/) - Movies / TV
@@ -1399,14 +1399,14 @@
 * [Peliculas-HD](https://peliculas-hd.org/) - Movies / Latino
 * [Relampago Movies](https://relampagomovies.com/) - Movies / Latino
 * [Hackstore.me](https://www.hackstore.me/) - Movies / TV / Anime
-* [Hackstore.rs](https://hackstore.rs/) - Movies / TV / Anime / Latino / [Bypasser script](https://greasyfork.org/en/scripts/484944)
-* [ProgramasVirtualesPC](https://www.programasvirtualespc.net/category/peliculas/) - Movies / TV / Latino / [Bypasser script](https://greasyfork.org/en/scripts/462492), [2](https://greasyfork.org/en/scripts/477591)
-* [SeiresHD](https://serieslandia.com/), [2](https://seireshd.com/) - Movies / TV / Animation / Latino / [Bypasser script](https://greasyfork.org/en/scripts/477591)
-* [Gatonplayseries](https://gatonplayseries.com/) - Movies / TV / Latino / Anime / [Bypasser script](https://greasyfork.org/en/scripts/477591), [2](https://greasyfork.org/en/scripts/484488)
-* [LatinoMegaHD](https://www.latinomegahd.net/) - Movies / TV / Latino / [Bypasser script](https://greasyfork.org/en/scripts/484486)
-* [Peliculas Google Drive](https://www.peliculasgd.net/) - Movies / Latino / [Bypasser script](https://greasyfork.org/en/scripts/484943)
-* [TodoDVDFull](https://www.tododvdfull.com/) - Movies / Latino / [Bypasser script](https://greasyfork.org/en/scripts/484488)
-* [Don Pelis](https://donpelis.org/), [2](https://granpirata.com/) - Movies / TV / Animation / Latino / [Bypasser script](https://greasyfork.org/en/scripts/477591)
+* [Hackstore.rs](https://hackstore.rs/) - Movies / TV / Anime / Latino / [Bypass](https://greasyfork.org/en/scripts/484944)
+* [ProgramasVirtualesPC](https://www.programasvirtualespc.net/category/peliculas/) - Movies / TV / Latino / [Bypass](https://greasyfork.org/en/scripts/462492), [2](https://greasyfork.org/en/scripts/477591)
+* [SeiresHD](https://serieslandia.com/), [2](https://seireshd.com/) - Movies / TV / Animation / Latino / [Bypass](https://greasyfork.org/en/scripts/477591)
+* [Gatonplayseries](https://gatonplayseries.com/) - Movies / TV / Latino / Anime / [Bypass](https://greasyfork.org/en/scripts/477591), [2](https://greasyfork.org/en/scripts/484488)
+* [LatinoMegaHD](https://www.latinomegahd.net/) - Movies / TV / Latino / [Bypass](https://greasyfork.org/en/scripts/484486)
+* [Peliculas Google Drive](https://www.peliculasgd.net/) - Movies / Latino / [Bypass](https://greasyfork.org/en/scripts/484943)
+* [TodoDVDFull](https://www.tododvdfull.com/) - Movies / Latino / [Bypass](https://greasyfork.org/en/scripts/484488)
+* [Don Pelis](https://donpelis.org/), [2](https://granpirata.com/) - Movies / TV / Animation / Latino / [Bypass](https://greasyfork.org/en/scripts/477591)
 * [Mega Descargas](https://mega-descargas-serie.blogspot.com/) - TV / Latino
 * [La Comunidad](https://t.me/s/la_comunidad) - Movies / TV / Telegram / Castilian
 * [Peliculas 480p](https://t.me/cinema480p) - Movies / Telegram / Latino
@@ -1418,17 +1418,17 @@
 * [exploradoresp2p](https://exploradoresp2p.com/) - Movies / Classics / TV / Documentaries / ED2K Links / [Telegram](https://t.me/+fLbhvUbvrZwzYmI0)
 * [HispaMula](https://www.hispamula.club/) - Movies / Classics / TV / Documentaries / ED2K Links / [Telegram](https://t.me/HispaMulaCLUB) / Castilian
 * [Descargar videos de la tele](https://eljaviero.com/descargarvideosdelatele/) - TV / [Telegram](https://t.me/joinchat/DVUy6EgTA_kZnc3KAaVItg) / Castilian
-* [SphinxAnime](https://sphinxanime.com/) - Anime / Sub / Dub
-* [animesgd](https://animesgd.net/) - Anime / Sub / Dub / Latino / Cartoons
+* [SphinxAnime](https://sphinxanime.com/) - Anime / Sub / Dub / [Bypass](https://greasyfork.org/en/scripts/485014)
+* [animesgd](https://animesgd.net/) - Anime / Sub / Dub / Latino / Cartoons / [Bypass](https://greasyfork.org/en/scripts/477591)
 * [Daemon Anime](https://www.daemonanime.net/) - Anime / Sub / Dub / Latino
 * [Anime4Mega](https://anime4mega.net/) - Anime / Sub / Dub / Latino
 * [ivanime](https://www.ivanime.com/) - Anime / Sub / Dub / Latino
-* [Dw-anime](https://dw-anime.net/) - Anime / Sub / Dub / Latino
-* [MandraAnime](https://mandranime.com/) - Anime / Sub / [Bypasser script](https://greasyfork.org/en/scripts/484990)
+* [Dw-anime](https://dw-anime.net/) - Anime / Sub / Dub / Latino / [Bypass](https://greasyfork.org/en/scripts/477591)
+* [MandraAnime](https://mandranime.com/) - Anime / Sub / [Bypass](https://greasyfork.org/en/scripts/484990)
 * [Animegafirex](https://www.animegafirex.com/) - Anime / Sub
 * [CrisAnime](https://crisanimex.com/) - Anime / Sub / Dub
 * [TioDonghua](https://anime.tiodonghua.com/) - Anime / Sub
-* [Japan Paw!](https://japan-paw.net/) - Anime / Sub
+* [Japan Paw!](https://japan-paw.net/) - Anime / Sub / [Bypass](https://greasyfork.org/en/scripts/485015)
 * [Fukou-Da!](https://fukou-da.net/) - Anime / Sub / Light Novels
 * [Animes480pFinalizados](https://t.me/Animes480pFinalizados) - Anime / Telegram
 * [AndrossElLegado](https://t.me/AndrossElLegado) - Anime / Telegram
@@ -1438,8 +1438,8 @@
 * [AnimeDark17](https://t.me/AnimeDark17) - Anime / Telegram
 * [N+2](https://nmasmas2.blogspot.com/) - Animated Movies / Cartoons
 * [Niroqui](https://niroqui.com/) - Courses
-* [Cursos En Mega](https://t.me/s/cursosenmega) - Courses
-* [Hello-Python](https://github.com/mouredev/Hello-Python) or [https://github.com/mouredev/python-web](python-web) - Python Courses
+* [Cursos En Mega](https://t.me/s/cursosenmega) - Courses / [Bypass](https://greasyfork.org/en/scripts/462492)
+* [Hello-Python](https://github.com/mouredev/Hello-Python) or [python-web](https://github.com/mouredev/python-web) - Python Courses
 
 ## ▷ Torrenting
 
@@ -1456,7 +1456,7 @@
 * [VivaTorrents](https://www.vivatorrents.org/) - Movies / TV / Castilian
 * [PasateaTorrent](https://pasateatorrent.org/) - Movies / TV / Castilian
 * [DiXvA](https://www.dixva.com/), [2](https://www.sinsitio.site/) - Movies / TV / Music / NSFW / [Telegram](https://t.me/+YSdB1y9VdjAzNDkx)
-* [Zonatorrent](https://zonatorrent.in/) - Movies / TV / Castilian / [Bypasser script](https://greasyfork.org/en/scripts/462510-spanish-torrent-sites-short-link-bypasser)
+* [Zonatorrent](https://zonatorrent.in/) - Movies / TV / Castilian / [Bypass](https://greasyfork.org/en/scripts/462510-spanish-torrent-sites-short-link-bypasser)
 * [Unionfansub](https://foro.unionfansub.com/index.php) - Anime
 * [Akiba-kei](http://akiba-team.org/) - Anime
 * [Animextremist](http://animextremist.com/) - Anime / Manga
