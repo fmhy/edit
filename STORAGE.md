@@ -97,7 +97,16 @@
 
 ### To-Do Apps
 
-[Tasks](https://tasks.org/), [Any.do](https://www.any.do/), [Simpletask](https://github.com/mpcjanssen/simpletask-android), [Orgzly](https://github.com/orgzly/orgzly-android), [Tasky](https://github.com/thatsmanmeet/Tasky), [Alkaa](https://github.com/igorescodro/alkaa), [EverydayTasks](https://everydaytasks.jepfa.de/), [Taskito](https://taskito.io/), [discipline](https://discipline.io/), [noterly](https://play.google.com/store/apps/details?id=uk.co.tdsstudios.noterly)
+* [Tasks](https://tasks.org/) - Open source, supports synchronization with CalDav and other platforms.
+* [Any.do](https://www.any.do/) - Freemium task management app, supports synchronization through the platform and has CalDav support
+* [doable](https://doable.app/) - Open-source to-do list app, has extensions for markdown support, and supports synchronization including Nextcloud and WebDAV
+* [Simpletask](https://github.com/mpcjanssen/simpletask-android) - Simple and straightforward open source to-do app, supports synchronization with Nextcloud and WebDAV if you get those versions
+* [Orgzly-revived](https://github.com/orgzly/orgzly-android): Open source maintained fork of Orgzly. Nice Org-Mode layout with a good interface. It has synchronization with WebDAV
+* [organice](https://organice.200ok.ch/) - PWA implementation of Org-Mode with a great layout. Requires an account. WebDAV support and synchronization options available.
+* [Tasky](https://github.com/thatsmanmeet/Tasky) - Nice minimalist design and is open source but doesn't support synchronization
+* [Alkaa](https://github.com/igorescodro/alkaa) - Open source task management app with search functionality, but without synchronization
+* [EverydayTasks](https://everydaytasks.jepfa.de/) - Really good scheduling functionality and is open source, no synchronization
+* [Taskito](https://taskito.io/) - Really nice layout but many features locked behind in-app purchases, no synchronization in free tier
 
 ***
 
