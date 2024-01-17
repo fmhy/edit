@@ -15,7 +15,7 @@
 
 ***
 
-* 🌐 **[/r/opendirectories](https://www.reddit.com/r/opendirectories/)** - Open Directories Subreddit / [Telegram](https://t.me/r_OpenDirectories) / /u/ODScanner
+* 🌐 **[/r/opendirectories](https://www.reddit.com/r/opendirectories/)** - Open Directories Subreddit / [Telegram](https://t.me/r_OpenDirectories) / [/u/ODScanner](https://reddit.com/u/ODScanner)
 * 🌐 **[smolOD](https://rentry.co/FMHYBase64#smolod)** - Small Open Directories
 * ↪️ **[Open Directory Indexes](https://rentry.co/FMHYBase64#open-directory-indexes)**
 * ↪️ **[Open Directory Search String Builders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_open_directory_search_string_builder)**, [2](https://redd.it/933pzm), [3](https://redd.it/g4kfem), [4](https://redd.it/lj0a1e)
@@ -43,7 +43,7 @@
 ***
 
 * ⭐ **[Archive.org](https://archive.org/)** - Video / Audio / Magazines / Newspapers / ROMs / [Downloader](https://github.com/MiniGlome/Archive.org-Downloader) / [CLI](https://github.com/jjjake/internetarchive)
-* ⭐ **[The Eye](https://beta.the-eye.eu/)** - Audio / ROMs / Books / Comics / Magazines / [Discord](https://discord.com/invite/the-eye)
+* ⭐ **[The Eye](https://beta.the-eye.eu/)** - Audio / Books / Comics / Magazines / [Discord](https://discord.com/invite/the-eye)
 * ⭐ **[DownloadHa](https://www.downloadha.com)** - Video / Use [Translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)
 * ⭐ **[DirtyWarez](https://forum.dirtywarez.com/)** - Video / Audio / Books / Comics
 * ⭐ **[/r/DataHoarder](https://reddit.com/r/DataHoarder)**, [Data Horde](https://datahorde.org/), [Archive Team](https://wiki.archiveteam.org/) / [Subreddit](https://www.reddit.com/r/Archiveteam/), [Gnutella Forums](https://www.gnutellaforums.com/) or [FileSharingTalk](https://filesharingtalk.com/forum.php) - File Hoarding Forums
@@ -232,8 +232,6 @@
 * [eMule](https://www.emule-project.net/), [Fopnu](https://fopnu.com/), [Shareaza](https://shareaza.sourceforge.net/) or [eMule Plus](https://sourceforge.net/projects/emuleplus/) - File Sharing App
 * [WinMX](https://patch.winmxconex.com/) - File Sharing App / [Forum](https://forum.winmxworld.com/)
 * [WireShare](https://sourceforge.net/projects/wireshare/) - File Sharing App / LimeWire Fork
-* [Real-Debrid](https://real-debrid.com/) - File Download App / Paid / [Torrent Client](https://github.com/rogerfar/rdt-client) / [Movies / TV](https://hdencode.org/)
-* [Debrid-Link](https://debrid-link.com) - Debrid w/ Free Tier / [Limits](https://i.imgur.com/vZtlvtA.png)
 
 ***
 
@@ -299,13 +297,15 @@
 
 ***
 
-# ► File Leeches
+# ► File Leeches (Debrid Services)
 
 * 🌐 **[Free Premium Leech Wiki](https://filehostlist.miraheze.org/wiki/Main_Page)** or [leechlisting](https://www.leechlisting.com/) - Leech Lists
 * [@Transload](https://t.me/transload) - Telegram Leech Bots
 * [Multi-OCH Helper](https://greasyfork.org/en/scripts/13884-multi-och-helper) - Send Premium Files to Leeches / 2 Hosts Only
 * [RapidGrab](https://rapidgrab.pl/) or [Newscon](https://www.newscon.net/d1/) - Leech
-
+* [Real-Debrid](https://real-debrid.com/) - Paid Debrid service / [Torrent Client](https://github.com/rogerfar/rdt-client)
+* [Debrid-Link](https://debrid-link.com) - Debrid w/ Free Tier / [Limits](https://i.imgur.com/vZtlvtA.png)
+* [AllDebrid](https://alldebrid.com/) - Paid Debrid service with seven day free trial
 ***
 
 # ► [File Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/file-tools)
