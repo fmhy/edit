@@ -35,11 +35,11 @@
   "devDependencies": {
     "@iconify-json/carbon": "^1.1.21",
     "@iconify-json/twemoji": "^1.1.12",
-    "@taskylizard/eslint-config": "^1.1.0",
+    "@taskylizard/eslint-config": "^1.1.1",
     "@types/fs-extra": "^11.0.4",
     "@types/node": "^20.8.9",
     "@types/nprogress": "^0.2.3",
-    "eslint": "^8.53.0",
+    "eslint": "^8.56.0",
     "prettier": "^3.2.1"
   }
 }
