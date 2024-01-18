@@ -3689,7 +3689,7 @@ outline: false
 
 ***
 
-* 🌐 **[/r/opendirectories](https://www.reddit.com/r/opendirectories/)** - Open Directories Subreddit / [Telegram](https://t.me/r_OpenDirectories) / /u/ODScanner
+* 🌐 **[/r/opendirectories](https://www.reddit.com/r/opendirectories/)** - Open Directories Subreddit / [Telegram](https://t.me/r_OpenDirectories) / [/u/ODScanner](https://reddit.com/u/ODScanner)
 * 🌐 **[smolOD](https://rentry.co/FMHYBase64#smolod)** - Small Open Directories
 * ↪️ **[Open Directory Indexes](https://rentry.co/FMHYBase64#open-directory-indexes)**
 * ↪️ **[Open Directory Search String Builders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_open_directory_search_string_builder)**, [2](https://redd.it/933pzm), [3](https://redd.it/g4kfem), [4](https://redd.it/lj0a1e)
@@ -3717,7 +3717,7 @@ outline: false
 ***
 
 * ⭐ **[Archive.org](https://archive.org/)** - Video / Audio / Magazines / Newspapers / ROMs / [Downloader](https://github.com/MiniGlome/Archive.org-Downloader) / [CLI](https://github.com/jjjake/internetarchive)
-* ⭐ **[The Eye](https://beta.the-eye.eu/)** - Audio / ROMs / Books / Comics / Magazines / [Discord](https://discord.com/invite/the-eye)
+* ⭐ **[The Eye](https://beta.the-eye.eu/)** - Audio / Books / Comics / Magazines / [Discord](https://discord.com/invite/the-eye)
 * ⭐ **[DownloadHa](https://www.downloadha.com)** - Video / Use [Translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)
 * ⭐ **[DirtyWarez](https://forum.dirtywarez.com/)** - Video / Audio / Books / Comics
 * ⭐ **[/r/DataHoarder](https://reddit.com/r/DataHoarder)**, [Data Horde](https://datahorde.org/), [Archive Team](https://wiki.archiveteam.org/) / [Subreddit](https://www.reddit.com/r/Archiveteam/), [Gnutella Forums](https://www.gnutellaforums.com/) or [FileSharingTalk](https://filesharingtalk.com/forum.php) - File Hoarding Forums
@@ -3906,8 +3906,6 @@ outline: false
 * [eMule](https://www.emule-project.net/), [Fopnu](https://fopnu.com/), [Shareaza](https://shareaza.sourceforge.net/) or [eMule Plus](https://sourceforge.net/projects/emuleplus/) - File Sharing App
 * [WinMX](https://patch.winmxconex.com/) - File Sharing App / [Forum](https://forum.winmxworld.com/)
 * [WireShare](https://sourceforge.net/projects/wireshare/) - File Sharing App / LimeWire Fork
-* [Real-Debrid](https://real-debrid.com/) - File Download App / Paid / [Torrent Client](https://github.com/rogerfar/rdt-client) / [Movies / TV](https://hdencode.org/)
-* [Debrid-Link](https://debrid-link.com) - Debrid w/ Free Tier / [Limits](https://i.imgur.com/vZtlvtA.png)
 
 ***
 
@@ -3973,13 +3971,15 @@ outline: false
 
 ***
 
-# ► File Leeches
+# ► File Leeches (Debrid Services)
 
 * 🌐 **[Free Premium Leech Wiki](https://filehostlist.miraheze.org/wiki/Main_Page)** or [leechlisting](https://www.leechlisting.com/) - Leech Lists
 * [@Transload](https://t.me/transload) - Telegram Leech Bots
 * [Multi-OCH Helper](https://greasyfork.org/en/scripts/13884-multi-och-helper) - Send Premium Files to Leeches / 2 Hosts Only
 * [RapidGrab](https://rapidgrab.pl/) or [Newscon](https://www.newscon.net/d1/) - Leech
-
+* [Real-Debrid](https://real-debrid.com/) - Paid Debrid service / [Torrent Client](https://github.com/rogerfar/rdt-client)
+* [Debrid-Link](https://debrid-link.com) - Debrid w/ Free Tier / [Limits](https://i.imgur.com/vZtlvtA.png)
+* [AllDebrid](https://alldebrid.com/) - Paid Debrid service with seven day free trial
 ***
 
 # ► [File Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/file-tools)
@@ -6466,6 +6466,7 @@ outline: false
 * ⭐ **[Video Download CSE](https://cse.google.com/cse?cx=006516753008110874046:wevn3lkn9rr)** / [CSE 2](https://cse.google.com/cse?cx=89f2dfcea452fc451) / [CSE 3](https://cse.google.com/cse?cx=aab218d0aa53e3578)
 * [TvSeriesnMovies](https://www.tvseriesnmovies.com/) - Movies / TV / Anime / 4K / 1080p
 * [DDLBase](https://ddlbase.net/) - Movies / TV / 4K
+* [HDEncode](https://hdencode.org) - Movies / TV / 4K
 * [KatMovieHD](https://katmoviehd.ac/) - Movies / TV / Anime / 1080p / [Telegram](https://t.me/joinchat/TMuzf8VYH7M1YWVh)
 * [RareLust](https://rarelust.com/) - Rare Movies / NSFW / 1080p
 * [My Duck Is Dead](https://www.myduckisdead.org/) - Rare Movies / NSFW / 1080p
@@ -12345,7 +12346,16 @@ Linux Gaming Guide
 
 ### To-Do Apps
 
-[Tasks](https://tasks.org/), [Any.do](https://www.any.do/), [Simpletask](https://github.com/mpcjanssen/simpletask-android), [Orgzly](https://github.com/orgzly/orgzly-android), [Tasky](https://github.com/thatsmanmeet/Tasky), [Alkaa](https://github.com/igorescodro/alkaa), [EverydayTasks](https://everydaytasks.jepfa.de/), [Taskito](https://taskito.io/), [discipline](https://discipline.io/), [noterly](https://play.google.com/store/apps/details?id=uk.co.tdsstudios.noterly)
+* [Tasks](https://tasks.org/) - Open source, supports synchronization with CalDav and other platforms.
+* [Any.do](https://www.any.do/) - Freemium task management app, supports synchronization through the platform and has CalDav support
+* [doable](https://doable.app/) - Open-source to-do list app, has extensions for markdown support, and supports synchronization including Nextcloud and WebDAV
+* [Simpletask](https://github.com/mpcjanssen/simpletask-android) - Simple and straightforward open source to-do app, supports synchronization with Nextcloud and WebDAV if you get those versions
+* [Orgzly-revived](https://github.com/orgzly/orgzly-android): Open source maintained fork of Orgzly. Nice Org-Mode layout with a good interface. It has synchronization with WebDAV
+* [organice](https://organice.200ok.ch/) - PWA implementation of Org-Mode with a great layout. Requires an account. WebDAV support and synchronization options available.
+* [Tasky](https://github.com/thatsmanmeet/Tasky) - Nice minimalist design and is open source but doesn't support synchronization
+* [Alkaa](https://github.com/igorescodro/alkaa) - Open source task management app with search functionality, but without synchronization
+* [EverydayTasks](https://everydaytasks.jepfa.de/) - Really good scheduling functionality and is open source, no synchronization
+* [Taskito](https://taskito.io/) - Really nice layout but many features locked behind in-app purchases, no synchronization in free tier
 
 ***
 
