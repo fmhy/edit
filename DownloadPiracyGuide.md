@@ -4,11 +4,6 @@
 ***
 ***
 
-**[Table of Contents](https://ibb.co/KrWLvXD)** - For mobile users
-
-***
-***
-
 # ► Download Directories
 
 * **Note** - Some Open Directories grab IP's, so use a VPN or Tor when accessing them.
@@ -297,15 +292,16 @@
 
 ***
 
-# ► File Leeches (Debrid Services)
+# ► Leeches / Debrid
 
 * 🌐 **[Free Premium Leech Wiki](https://filehostlist.miraheze.org/wiki/Main_Page)** or [leechlisting](https://www.leechlisting.com/) - Leech Lists
 * [@Transload](https://t.me/transload) - Telegram Leech Bots
 * [Multi-OCH Helper](https://greasyfork.org/en/scripts/13884-multi-och-helper) - Send Premium Files to Leeches / 2 Hosts Only
 * [RapidGrab](https://rapidgrab.pl/) or [Newscon](https://www.newscon.net/d1/) - Leech
-* [Real-Debrid](https://real-debrid.com/) - Paid Debrid service / [Torrent Client](https://github.com/rogerfar/rdt-client)
+* [Real-Debrid](https://real-debrid.com/) - Paid Debrid service / [Torrent Client](https://github.com/rogerfar/rdt-client) / [Movies / TV](https://hdencode.org/)
 * [Debrid-Link](https://debrid-link.com) - Debrid w/ Free Tier / [Limits](https://i.imgur.com/vZtlvtA.png)
-* [AllDebrid](https://alldebrid.com/) - Paid Debrid service with seven day free trial
+* [AllDebrid](https://alldebrid.com/) - Paid Debrid service with seven day trial
+
 ***
 
 # ► [File Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/file-tools)
