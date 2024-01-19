@@ -69,7 +69,6 @@
 * [IMG online](https://www.imgonline.com.ua/eng/)
 * [BitMappery](https://www.igorski.nl/application/bitmappery/)
 * [Kapwing](https://www.kapwing.com/)
-* [Photoshop.adobe](https://photoshop.adobe.com/)
 * [ILoveImg](https://www.iloveimg.com/photo-editor)
 * [Panzoid](https://panzoid.com/)
 * [Stet](https://stet.io/)
