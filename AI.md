@@ -42,6 +42,7 @@
 * [Petals](https://petals.dev/) - Self-Hosted 
 * [Jan.ai](https://jan.ai/) - Self-Hosted
 * [Ollama](https://ollama.ai/) - Self-Hosted
+* [GPT4All](https://gpt4all.io/) - Self-Hosted / [Github](https://github.com/nomic-ai/gpt4all) / [Discord](https://discord.com/invite/mGZE39AS3e)
 * [LlamaFile](https://github.com/Mozilla-Ocho/llamafile) - Run LLMs w/ Single File
 * [Dify](https://dify.ai/) - Create AI Apps
 * [PlugBear](https://plugbear.io/) - Connect LLMs to Apps
