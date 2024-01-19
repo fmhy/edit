@@ -280,7 +280,7 @@
 * [Archive.org](https://archive.org/) - MP3 
 * [xprm](https://xprm.net/) - MP3 / DL / Stream / Requests
 * [Jimmy R](https://jimmyr.com/mp3_search.php) or [Musgle](http://www.musgle.com/) - Google Directory Search / MP3
-* [Take Metal](https://takemetal.org/), [DTS-Metal](https://dts-metal.com/), [Me-4U](https://me-4u.com/index.php), [Metalminos](https://metalminos.net/) or [HeavyMetalRarities](https://heavymetalrarities.com/) - Metal / MP3
+* [Take Metal](https://takemetal.org/), [DTS-Metal](https://dts-metal.com/), [Me-4U](https://me-4u.com/index.php), [Metalminos](https://metalminos.net/), [TechnicalDeathMetal](https://technicaldeathmetal.org/) or [HeavyMetalRarities](https://heavymetalrarities.com/) - Metal / MP3
 * [GetMetal Club](https://getmetal.club/) - Metal / MP3 / FLAC 
 * [Nuclear Holocaust]( https://nuclear-holocaust.blogspot.com/) - Metal / FLAC
 * [The Last Disaster](https://thelastdisaster.org/) - Metal / Hardcore / Rock / MP3 / FLAC
