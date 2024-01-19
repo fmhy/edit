@@ -14863,17 +14863,13 @@ Emoji Legend:
 * [redirect.name](https://redirect.name/) - URL Forwarding
 * [StatPing](https://github.com/statping/statping), [checkthe.website](https://checkthe.website/), [Uptime](https://betterstack.com/uptime), [CheckServer](https://check-host.net/), [Uptime Kuma](https://github.com/louislam/uptime-kuma), [AreWeDown?](https://github.com/shukriadams/arewedown), [UptimeRobot](https://uptimerobot.com/) or [24x7](https://www.site24x7.com/tools.html) - Site Uptime Monitors
 * [UseMe](https://useme.org/) or [PingDom](https://tools.pingdom.com) - Ping Website
-* [HandShake](https://handshake.org/) - Decentralized Certificate Authority & Naming
 * [Hitch](https://hitch-tls.org/) - SSL / TLS Proxy
 * [Let's Encrypt](https://letsencrypt.org/) - Free TLS Certificates
 * [SSL for Free](https://www.sslforfree.com/) or [ZeroSSL](https://zerossl.com/) - Free SSL Certificates
 * [CertAlert](https://certalert.net/) - Alerts you when a TLS/SSL Certificate Expires
 * [mkcert](https://github.com/FiloSottile/mkcert) - Locally Trusted Development Certificates
-* [TrainCertPoster](https://aka.ms/TrainCertPoster) - Microsoft Certifications Roadmap
-* [AWS Certifications](https://d1.awsstatic.com/training-and-certification/docs/AWS_certification_paths.pdf) - AWS Certifications Roadmap
-* [OpenSSL](https://www.openssl.org/) - SSL / TLS Toolkit
 * [SSL Config Generator](https://ssl-config.mozilla.org/) - Generate SSL Configurations
-* [Sandstorm](https://sandstorm.io/), [Cosmos](https://cosmos-cloud.io/) or [CloudRon](https://www.cloudron.io/) - Web App Hosts
+* [Sandstorm](https://sandstorm.org/), [Cosmos](https://cosmos-cloud.io/) or [CloudRon](https://www.cloudron.io/) - Web App Hosts
 * [vichan](https://github.com/vichan-devel/vichan) or [overscript](https://overscript.net/) - Imageboard Hosting
 * [ProBoards](https://www.proboards.com/) - Forum & Imageboard Hosting
 * [MyBB](https://www.mybb.com/), [FreeFlarum](https://freeflarum.com/) or [PHPBB](https://www.phpbb.com/) - Forum Hosting
@@ -15201,24 +15197,17 @@ Emoji Legend:
 
 ## ▷ Database Tools
 
+* 🌐 **[DB Engines](https://db-engines.com/en/ranking)** - Database Rankings
 * 🌐 **[Awesome Opensource Data Engineering](https://github.com/gunnarmorling/awesome-opensource-data-engineering)** - Data Engineering Resources
 * 🌐 **[Awesome Big Data](https://github.com/newTendermint/awesome-bigdata)** - Big Data Resources
-* [Grafana](https://grafana.com/), [Tigris Data](https://www.tigrisdata.com/) or [MongoDB](https://www.mongodb.com/) - Dev Data Dashboards
+* [Grafana](https://grafana.com/) - Dev Data Dashboard
 * [DBeaver](https://dbeaver.io/) - Universal Database Tool
 * [HeidiSQL](https://www.heidisql.com/) - SQL Manager
 * [QueryStorm](https://querystorm.com/) - SQL and .NET programming in Excel
-* [Adminer](https://www.adminer.org/) - Database Manager
-* [RemoteMySQL](https://www.remotemysql.com/) - Remote MySQL Database
-* [DoIt](https://github.com/dolthub/dolt) - SQL Database
-* [DB4Free](https://db4free.net/), [sqlime](https://sqlime.org/) or [SQLFIddle](http://sqlfiddle.com/) / [2](https://www.db-fiddle.com/) - SQL Testing
-* [AI2SQL](https://app.ai2sql.io/) or [BlazeSQL](https://www.blazesql.com/) - SQL Generators
 * [SQLTranslate](https://www.sqltranslate.app/) - SQL Translator
 * [franchise](https://franchise.cloud/) - SQL Notebook
-* [OceanBase](https://open.oceanbase.com/) - Relational Database / [GitHub](https://github.com/oceanbase/oceanbase)
 * [NocoDB](https://www.nocodb.com/) - Turn Database into Smart Spreadsheet / [GitHub](https://github.com/nocodb/nocodb)
-* [GalleryProject](https://galleryrevival.com/) - Manage / Host Photos on Website
 * Generate Fake Data - [Ruby](https://github.com/faker-ruby/faker) / [Swift](https://github.com/vadymmarkov/Fakery)
-* [Redis](https://redis.io/) - Key-Value Database
 
 ***
 
@@ -15261,8 +15250,6 @@ Emoji Legend:
 * [GIT Quick Stats](https://git-quick-stats.sh/) - View Git Statistics / [GitHub](https://github.com/arzzen/git-quick-stats)
 * [Langits](https://langits.davejudd.dev/) - See Most Used Programming Languages User
 * [gitignore.io](https://www.toptal.com/developers/gitignore/) - Gitignore Templates / [GitHub](https://github.com/github/gitignore)
-* [MGit](https://github.com/maks/MGit) - Git client for Android
-* [GitNex](https://codeberg.org/gitnex/GitNex/) - Forgejo and Gitea client for Android
 * [Gitea](https://about.gitea.com/) / [2](https://gittea.dev/), [Forgejo](https://forgejo.org/) or [Drift](https://drift.lol/) - Self-Hosted Git Services / Forge
 
 ***
