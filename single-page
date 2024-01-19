@@ -1108,12 +1108,14 @@
 
 ***
 
-# ► File Hosting
+# ► File Backup / Sync
 
-* **Note** - Size is per file and time is after the last time someone downloaded that file unless specified.
+**Note** - Size is per file and time is after the last time someone downloaded that file unless specified.
   
 ***
 
+* ⭐ **[SyncThing](https://syncthing.net/)**
+* ⭐ **[KDEConnect](https://kdeconnect.kde.org/)**
 * ⭐ **[Archive.org](https://archive.org/create/)** - Signup Required
 * ⭐ **[Pixeldrain](https://pixeldrain.com/)** - 20GB / 90 days / [Speedtest File](https://pixeldrain.com/api/misc/speedtest)
 * ⭐ **[Gofile](https://gofile.io/)** - Unlimited / 10 days
@@ -1126,6 +1128,13 @@
 * ⭐ **[Qiwi](https://qiwi.gg)** - [Warning](https://pastebin.com/jn90QMEt) / Signup Required
 * ⭐ **[Catbox.moe](https://catbox.moe/)** - 200MB / Forever
 * [MultiUp](https://multiup.io/), [Z-o-o-m](https://z-o-o-m.eu/), [MirrorAce](https://mirrorace.com/) or [Mirrorcreator](https://www.mirrored.to/) - Multi Host Uploaders
+* [MyPhoneExplorer](https://www.fjsoft.at/) - Phone / Desktop Sync
+* [etesync](https://www.etesync.com/) - File Sync
+* [allwaysync](https://allwaysync.com/) - File Sync
+* [Resilio](https://www.resilio.com/individuals/) - File Sync
+* [SmartFTP](https://www.smartftp.com/) - File Sync
+* [rsync](https://github.com/WayneD/rsync) - File Sync
+* [Unison](https://github.com/bcpierce00/unison) - File Sync
 * [send](https://send.vis.ee/) / [instances](https://gitlab.com/timvisee/send-instances)
 * [File.cm](https://file.cm/) - 100GB / 30 days / Signup Required
 * [edisk](https://www.edisk.cz/) - 10GB / 30 days
@@ -1167,17 +1176,14 @@
 
 ## ▷ P2P File Transfer
 
-* ⭐ **[SyncThing](https://syncthing.net/)**
 * ⭐ **[ToffeeShare](https://toffeeshare.com/)**
 * ⭐ **[Transfer.sh](https://transfer.sh/)**
 * ⭐ **[Blaze](https://blaze.vercel.app/)** / [GitHub](https://github.com/blenderskool/blaze)
 * ⭐ **[wormhole](https://wormhole.app/)**
 * ⭐ **[justbeamit](https://justbeamit.com/)**
-* ⭐ **[KDEConnect](https://kdeconnect.kde.org/)**
 * ⭐ **[LocalSend](https://localsend.org/)** - Phone / Desktop Sync / [Platforms](https://i.ibb.co/nsfMf04/8010dd28ed2d.png)
 * [Warpinator](https://github.com/linuxmint/warpinator) - Phone / Desktop Sync
 * [QRServ](https://github.com/uintdev/qrserv) - Phone / Desktop Sync
-* [MyPhoneExplorer](https://www.fjsoft.at/) - Phone / Desktop Sync
 * [pairdrop](https://pairdrop.net/)
 * [sharedrop](https://www.sharedrop.io/)
 * [new.space](https://new.space/)
@@ -1186,11 +1192,8 @@
 * [onionshare](https://onionshare.org/)
 * [Horizon Send](https://send.hrzn.cool/)
 * [OwnCloud](https://owncloud.com/)
-* [etesync](https://www.etesync.com/)
 * [WinSCP](https://winscp.net/eng/index.php)
-* [allwaysync](https://allwaysync.com/)
 * [FileBrowser](https://filebrowser.org/)
-* [Resilio](https://www.resilio.com/individuals/)
 * [croc](https://github.com/howeyc/crocgui)
 * [landrop](https://landrop.app/)
 * [Surge](https://getsurge.io/)
@@ -1206,7 +1209,6 @@
 * [Sprend](https://sprend.com/)
 * [JumboMail](https://www.jumbomail.me/)
 * [PlusTransfer](https://www.plustransfer.com/)
-* [SmartFTP](https://www.smartftp.com/)
 * [Wing FTP](https://www.wftpserver.com/)
 * [Xlight](https://xlightftpd.com/)
 * [uschovna](https://www.uschovna.cz/)
@@ -1218,8 +1220,6 @@
 * [filepress](https://new.filepress.store/)
 * [sharrr](https://www.sharrr.com/)
 * [Photon](https://photondev.netlify.app/)
-* [rsync](https://github.com/WayneD/rsync)
-* [Unison](https://github.com/bcpierce00/unison)
 * [ffsend](https://github.com/timvisee/ffsend)
 * [File.love](https://file.love/)
 * [spacedrop](https://spacedrop.app/)
