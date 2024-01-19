@@ -568,7 +568,7 @@
 
 * ⭐ **[BanglaPlex](https://banglaplex.fun/)** - Movies / Sub / Dub / 1080p / [Telegram](https://t.me/banglaplex)
 * ⭐ **[Einthusan](https://einthusan.tv/)** - South Asian Movies / Sub / Dub / 1080p
-* ⭐ **[Anime Saga](https://www.animesaga.in/)** - Anime / Dub / 1080p
+* ⭐ **[AnPlay](https://anplay.in/)** - Anime / Dub / 1080p
 * [9xmovies](https://9xmovies.forsale/), [2](https://9kmovies.monster/) - Movies / TV / Sub / Dub / 1080p / 4K
 * [5movierulz](https://ww7.5movierulz.gd/) - South Asian Movies / Sub / Dub / 1080p
 * [HHDMovies](https://hhdmovies.mom/) - Movies / TV / Sub / Dub / 1080p
