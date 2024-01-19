@@ -81,7 +81,7 @@ Use [this](https://bitbucket.org/magnolia1234/bypass-paywalls-firefox-clean/src/
 **[SponsorBlock](https://sponsor.ajay.app/)** - Skip sponsored YouTube ads
 **[Spotify Adblockers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_spotify_tools)** - Block Spotify ads
 **[Twitch Adblockers](https://fmhy.net/social-media-tools#twitch-adblockers)** - Block Twitch ads
-**[Redirect Skippers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_skip_redirect)** - Bypass redirect sites
+**[Redirect Skippers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25B7_redirect_bypass)** - Bypass redirect sites
 
 !!!note Piracy sites have ads, so it's highly recommended to install uBlock Origin. Also note that it's not recommended to use more than one adblocker at a time.
 
