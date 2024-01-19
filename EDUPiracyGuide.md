@@ -554,6 +554,7 @@ https://cari.institute/
 * [Space Object Comparison](https://mr21.github.io/space-object-comparison/) - Compare Sizes Of Celestial Objects
 * [Sky-Map](http://sky-map.org/) or [Sky Map Online](https://skymaponline.net/) - Interactive Star Maps
 * [100,000 Stars](https://stars.chromeexperiments.com/) - Interactive 3D Star Visualization
+* [AndroidPlanisphere](https://github.com/tengel/AndroidPlanisphere) - Android Star Chart
 * [Aladin](https://aladin.u-strasbg.fr/) - Astronomical Image Viewer / [Lite Version](https://aladin.u-strasbg.fr/AladinLite/)
 * [Siril](https://siril.org/) - Astronomical Image Processor
 * [Stellarium-Web](https://stellarium-web.org/) or [Stellarium](https://stellarium.org/) - Virtual Stellariums
