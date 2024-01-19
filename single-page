@@ -11313,9 +11313,7 @@ Linux Gaming Guide
 * ↪️ **[Note / To-Do Apps](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_android_note_apps)**
 * ⭐ **[OpenCalc](https://github.com/Darkempire78/OpenCalc)**, [Calculator++](https://play.google.com/store/apps/details?id=org.solovyev.android.calculator), [microMathematics](https://github.com/mkulesh/microMathematics) or [Calculator-inator](https://github.com/prathameshmm02/Calculator-inator) - Calculator Apps
 * ⭐ **[AutomaTag](http://automatag.com/)** or [AutoTagger](https://autotagger.ru/) - Metadata Organizers
-* ⭐ **[BoringReport](https://www.boringreport.org/)**, [Arts & Culture](https://play.google.com/store/apps/details?id=com.google.android.apps.cultural) or [Volv](https://volvmedia.com/) - Android News Apps
 * ⭐ **[Android Docker](https://gist.github.com/FreddieOliveira/efe850df7ff3951cb62d74bd770dce27)** - Run Docker on Android
-* [Free Basics](https://play.google.com/store/apps/details?id=com.freebasics) - Use Apps via SMS
 * [ConnectYou](https://github.com/Bnyro/ConnectYou) - Contacts App
 * [Loyalty Card Locker](https://github.com/brarcher/loyalty-card-locker) or [Catima](https://catima.app/) - Loyalty Card Managers
 * [Folder in Folder](https://play.google.com/store/apps/details?id=com.ss.folderinfolder) - Create Subfolders
@@ -11326,6 +11324,7 @@ Linux Gaming Guide
 * [openboard](https://github.com/openboard-team/openboard), [Thumb-Key](https://github.com/dessalines/thumb-key) or [Unexpected Keyboard](https://github.com/Julow/Unexpected-Keyboard) - Keyboard Apps
 * [Sayboard](https://github.com/ElishaAz/Sayboard) - AI Voice Keyboard
 * [Grammarly](https://rentry.co/FMHYBase64#grammarly-keyboard-premium) - Grammarly Keyboard Premium
+* [Volv](https://volvmedia.com/) - Android News App
 * [icq](https://icq.com/) - Messaging App
 * [TextFree](https://www.textfree.us/) - Free Texting App
 * [TextMeUp](https://www.textmeup.com/) - Multi-Number App
@@ -11342,6 +11341,7 @@ Linux Gaming Guide
 * [Smart AutoClicker](https://github.com/Nain57/Smart-AutoClicker) - Auto Clicker
 * [DoForMe](https://play.google.com/store/apps/details?id=com.aj.dfm) - Location-Based Automation
 * [Pluma](https://plumareader.com/), [Feeder](https://f-droid.org/en/packages/com.nononsenseapps.feeder/), [Twine](https://github.com/msasikanth/twine), [FeedMe](https://github.com/seazon/FeedMe), [news](https://github.com/bubelov/news) or [ReadYou](https://github.com/Ashinch/ReadYou) - RSS Readers
+* [Arts & Culture](https://play.google.com/store/apps/details?id=com.google.android.apps.cultural) - Explore Art
 * [UnicodePad](https://github.com/Ryosuke839/UnicodePad) or [Kaomoji](https://play.google.com/store/apps/details?id=ru.kaomoji.kaomojiapp) - Emoji / Unicode Manager
 * [emojimix](https://play.google.com/store/apps/details?id=net.tikolu.emojimix) - Combine Emojis
 * [Memory Guardian](https://github.com/hashemi-hossein/memory-guardian), [Clipboard CopyPaste](https://www.evvasoft.com/ccp.html) or [Clipboard History](https://play.google.com/store/apps/details?id=com.rubbishcollector.clipboardhistory) - Clipboard Managers
@@ -11402,6 +11402,8 @@ Linux Gaming Guide
 * [Luna Sea](https://www.lunasea.app/) - Self-Hosted Media Controller
 * [HexViewer](https://github.com/Keidan/HexViewer) - Hex Viewer
 * [FlutterMarkdownEditor](https://github.com/adityar224/FlutterMarkdownEditor) - Markdown Editor
+* [MGit](https://github.com/maks/MGit) - Git client for Android
+* [GitNex](https://codeberg.org/gitnex/GitNex/) - Forgejo and Gitea client for Android
 * [markdownr](https://github.com/sanzoghenzo/markdownr) - Webpage to Markdown Converter
 * [Get Unstuck](https://socratic.org/) - Homework Answers / Help
 
@@ -11688,25 +11690,17 @@ Linux Gaming Guide
 * [LDPlayer](https://www.ldplayer.net/) - [Screenshot](https://i.ibb.co/CHKb40V/184625995e15.png)
 * [Genymotion](https://www.genymotion.com/download/) - [Screenshot](https://i.ibb.co/6W7BXJn/6a291e5b5ac9.jpg) 
 * [Wakuoo](https://wakuoo.com) - [Screenshot](https://i.ibb.co/tMkxvQr/cfaea91031d7.png)
-* [Now.gg](https://now.gg/) - Online Android Gaming Emulator
 
 ***
 
 # ► Android Gaming
 
 * 🌐 **[Awesome Pokemon](https://github.com/tobiasbueschel/awesome-pokemon)** - PokemonGO Resources
-* ⭐ **[Now.gg](https://now.gg/)** - Online Gaming Emulator
-* [Mogul](https://play.google.com/store/apps/details?id=com.mogul.flutte&hl=en&gl=US) or [Chikii](https://play.google.com/store/apps/details?id=com.dianyun.chikii&hl=en&gl=US) - Cloud Gaming Android Apps
 * [GameEye](https://play.google.com/store/apps/details?id=com.hairyharri.gameye) - Video Game Tracking App
 * [PlatinMods](https://platinmods.com/) - Modded / Private Game Servers
-* [PGS](https://www.pgsharp.com/) - Modded Pokémon GO
-* [UniteAPI](https://uniteapi.dev/) - Pokémon UNITE Leaderboards
-* [HMCL-PE](https://github.com/huanghongxun/HMCL-PE) or [Pojav](https://pojavlauncherteam.github.io/) - Mobile Minecraft Launchers
-* [SMAPI](https://github.com/ZaneYork/SMAPI-Android-Installer) - Stardew Valley Modding API
+* [Pojav](https://pojavlauncherteam.github.io/) - Mobile Minecraft Launchers
 * [JoiPlay](https://joiplay.cyou/) - RPG Maker Game Interpreter
 * [Mitch](https://sr.ht/~gardenapple/mitch/) - Mobile Frontend for itch.io
-* [LibreSudoku](https://f-droid.org/packages/com.kaajjo.libresudoku/) - FOSS Sudoku
-* [Nonocross](https://f-droid.org/packages/com.picross.nonocross/) - FOSS Nonogram
 * [Pinball for Android](https://github.com/fexed/Pinball-on-Android) - Space Cadet Pinball
 * [FlashLite](https://flashlite.games/) - Flash Emulator / [Discord](https://discord.gg/F2dsGhTX6y)
 
@@ -11919,7 +11913,7 @@ Linux Gaming Guide
 
 ***
 
-## ▷ Youtube Apps
+## ▷ YouTube Apps
 
 * ⭐ **[ReVanced Manager](https://revanced.app/download)** - Patch YouTube, Reddit, X and other Apps / [Discord](https://discord.com/invite/rF2YcEjcrT) / [Guide](https://redd.it/xlcny9) 
 * ⭐ **[LibreTube](https://libretube.dev/)** or **[NewPipe](https://newpipe.net/)** - Ad-free YouTube Frontends
