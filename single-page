@@ -1013,8 +1013,17 @@
 
 ## ▷ Backup / Recovery
 
+* ⭐ **[SyncThing](https://syncthing.net/)** - File Sync
+* ⭐ **[KDEConnect](https://kdeconnect.kde.org/)** - File Sync
 * ⭐ **[TestDisk](https://www.cgsecurity.org/wiki/TestDisk)** - File Recovery
 * ⭐ **[freefilesync](https://freefilesync.org/)** - File Backup
+* [MyPhoneExplorer](https://www.fjsoft.at/) - Phone / Desktop Sync
+* [etesync](https://www.etesync.com/) - File Sync
+* [allwaysync](https://allwaysync.com/) - File Sync
+* [Resilio](https://www.resilio.com/individuals/) - File Sync
+* [SmartFTP](https://www.smartftp.com/) - File Sync
+* [rsync](https://github.com/WayneD/rsync) - File Sync
+* [Unison](https://github.com/bcpierce00/unison) - File Sync
 * [MultiPar](https://github.com/Yutaka-Sawada/MultiPar) - Prevent File Corruption / [Guide](https://youtu.be/5TsExiAsCXA)
 * [ShadowExplorer](https://www.shadowexplorer.com/) or [ShadowCopyView](https://www.nirsoft.net/utils/shadow_copy_view.html/) - Shadow Copy Explorers
 * [FolderClone](https://www.folderclone.com/) - Clone / Backup Folders
@@ -1108,14 +1117,12 @@
 
 ***
 
-# ► File Backup / Sync
+# ► File Hosts
 
 **Note** - Size is per file and time is after the last time someone downloaded that file unless specified.
   
 ***
 
-* ⭐ **[SyncThing](https://syncthing.net/)** - File Sync
-* ⭐ **[KDEConnect](https://kdeconnect.kde.org/)** - File Sync
 * ⭐ **[Archive.org](https://archive.org/create/)** - Signup Required
 * ⭐ **[Pixeldrain](https://pixeldrain.com/)** - 20GB / 90 days / [Speedtest File](https://pixeldrain.com/api/misc/speedtest)
 * ⭐ **[Gofile](https://gofile.io/)** - Unlimited / 10 days
@@ -1128,13 +1135,6 @@
 * ⭐ **[Qiwi](https://qiwi.gg)** - [Warning](https://pastebin.com/jn90QMEt) / Signup Required
 * ⭐ **[Catbox.moe](https://catbox.moe/)** - 200MB / Forever
 * [MultiUp](https://multiup.io/), [Z-o-o-m](https://z-o-o-m.eu/), [MirrorAce](https://mirrorace.com/) or [Mirrorcreator](https://www.mirrored.to/) - Multi Host Uploaders
-* [MyPhoneExplorer](https://www.fjsoft.at/) - Phone / Desktop Sync
-* [etesync](https://www.etesync.com/) - File Sync
-* [allwaysync](https://allwaysync.com/) - File Sync
-* [Resilio](https://www.resilio.com/individuals/) - File Sync
-* [SmartFTP](https://www.smartftp.com/) - File Sync
-* [rsync](https://github.com/WayneD/rsync) - File Sync
-* [Unison](https://github.com/bcpierce00/unison) - File Sync
 * [send](https://send.vis.ee/) / [instances](https://gitlab.com/timvisee/send-instances)
 * [File.cm](https://file.cm/) - 100GB / 30 days / Signup Required
 * [edisk](https://www.edisk.cz/) - 10GB / 30 days
