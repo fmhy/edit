@@ -78,16 +78,6 @@
 
 ***
 
-## Android File Explorers
-
-* ⭐ **[MiXplorer](https://mixplorer.com/)**, [2](https://forum.xda-developers.com/t/app-2-2-mixplorer-v6-x-released-fully-featured-file-manager.1523691/) - [Themes](https://play.google.com/store/apps/details?id=de.dertyp7214.mixplorerthemecreator) - Advanced Root File Explorer
-* [Ghost Commander](https://sourceforge.net/projects/ghostcommander/) - Classic Dual-Panel Android File Explorer
-* [Material Files](https://github.com/zhanghai/MaterialFiles) - Lightweight And Linux-Aware File Explorer 
-* [Cx File Explorer](https://play.google.com/store/apps/details?id=com.cxinventor.file.explorer) - Full Feature App For Local And Cloud Storage
-* [IrkFM](https://github.com/lfuelling/lrkFM) - Open Source File Explorer
-
-***
-
 ## Android Note Apps
 
 * ⭐ **[Notewise](https://play.google.com/store/apps/details?id=com.yygg.note.app)** - [Mod](https://rentry.co/FMHYBase64#notewise)
@@ -317,16 +307,6 @@ http://104.131.175.196:8080/, http://70.88.180.169:8088/, http://207.237.122.161
 
 ***
 
-## Drive Formatting / File Deletion
-
-* **Note** - These just delete files, if you're looking for security and to leave no file traces, it's best to encrypt the whole disk instead.
-
-* ⭐ **[SDelete](https://learn.microsoft.com/en-us/sysinternals/downloads/sdelete)**
-
-[Eraser](https://eraser.heidi.ie/), [File Shredder](https://fileshredder.org/), [SSuite File Shredder and Burner](https://www.ssuiteoffice.com/software/ssuitefileshredder.htm), [Low Level Format](https://www.lowlevelformat.info/), [Alternate File Shredder](https://www.alternate-tools.com/pages/c_fileshredder.php?lang=ENG), [Permadelete](https://developerstree.github.io/permadelete/), [nwipe](https://github.com/martijnvanbrummelen/nwipe), [ShredOS](https://github.com/PartialVolume/shredos.x86_64)
-
-***
-
 ## Email Aliasing
 
 * ⭐ **[SimpleLogin](https://simplelogin.io/)**
@@ -455,14 +435,6 @@ http://104.131.175.196:8080/, http://70.88.180.169:8088/, http://207.237.122.161
 * [is-a.dev](https://www.is-a.dev/) - Developer Homepages
 
 [profreehost](https://profreehost.com/), [000webhost](https://www.000webhost.com/), [infinityfree](https://infinityfree.net/), [openshift](https://www.redhat.com/en/technologies/cloud-computing/openshift), [vercel](https://vercel.com/), [cloudaccess](https://www.cloudaccess.net/), [Gitlab Pages](https://docs.gitlab.com/ee/user/project/pages/index.html), [glitch](https://glitch.com/), [biz.nf](https://www.biz.nf/), [coolify](https://coolify.io/), [wix](https://www.wix.com/), [byet.host](https://byet.host/free-hosting), [webs](https://www.webs.com/), [weebly](https://www.weebly.com/in), [yola](https://www.yola.com/), [WordPress](https://wordpress.com/) / [2](https://wordpress.org/), [jimdo](https://www.jimdo.com/), [awardspace](https://www.awardspace.com/), [pythonanywhere](https://www.pythonanywhere.com/), [droppages](https://droppages.com/), [Zeronet](https://cheapskatesguide.org/articles/zeronet-site.html), [Zeronet 2](https://zeronet.io/docs/site_development/getting_started/), [ibm cloud](https://www.ibm.com/cloud/free), [hubzilla](https://zotlabs.org/page/zotlabs/home), [site123](https://www.site123.com/), [hostbreak](https://hostbreak.com/web-hosting/free), [tilda](https://tilda.cc/), [BitBucket](https://support.atlassian.com/bitbucket-cloud/docs/publishing-a-website-on-bitbucket-cloud/), [repl.it](https://docs.replit.com/hosting/hosting-web-pages), [render](https://render.com/), [Fleek](https://fleek.co/), [stormkit](https://www.stormkit.io/), [freehosting](https://freehosting.host/), [freewebhostingarea](https://www.freewebhostingarea.com/), [freenom](https://freenom.com/), [milkshake](https://milkshake.app/), [ikoula](https://www.ikoula.com/), [fanspace](http://www.fanspace.com/), [dotera](https://dotera.net/), [fc2](https://web.fc2.com/en/), [w3schools](https://www.w3schools.com/spaces/), [freehostia](https://www.freehostia.com/), [olitt](https://www.olitt.com/), [uhostfull](https://www.uhostfull.com/), [x10hosting](https://x10hosting.com/), [lenyxo](https://lenyxo.com/freehosting/), [yunohost](https://yunohost.org/), [1freehosting](https://www.1freehosting.net/), [5gb.club](http://www.5gb.club/free-hosting.php?i=1), [ultifreehosting](https://ultifreehosting.com/), [aeonfree](https://aeonfree.com/), [bravenet](https://www.bravenet.com/), [atspace](https://www.atspace.com/), [aava](https://aava.dy.fi/), [netlib](https://netlib.re/)
-
-***
-
-## File Encryption Tools
-
-* [Yubikey Full Disk Encryption](https://github.com/agherzan/yubikey-full-disk-encryption) - Use YubiKey to unlock a LUKS partition
-
-[VeraCrypt](https://www.veracrypt.fr/en/Home.html), [CryptSetup](https://gitlab.com/cryptsetup/cryptsetup), [EncFS MP](https://encfsmp.sourceforge.io/index.html), [Hat](https://hat.sh/), [GNUPG](https://gnupg.org/), [GPG4Win](https://www.gpg4win.org/), [Encrypto](https://macpaw.com/encrypto), [FreeCrypt](https://freecrypt.org/), [Vmola](https://vmola.com/), [Kryptor](https://www.kryptor.co.uk/), [SecureFolderFS](https://github.com/securefolderfs-community/SecureFolderFS), [wdcrypt](https://github.com/stefins/wdcrypt), [Picocrypt](https://github.com/HACKERALERT/Picocrypt), [age](https://github.com/FiloSottile/age)
 
 ***
 
