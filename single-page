@@ -6,7 +6,7 @@
 
 # ► Text Tools
 
-* ⭐ **[TextCleanr](https://www.textcleanr.com/)**, [TextFixer](https://www.textfixer.com/), [OnlineTextTools](https://onlinetexttools.com/), [SoftMyList](https://sortmylist.com/) or [The Alphabetizer](https://alphabetizer.flap.tv/) - Organize / Format Text
+* ⭐ **[TextCleanr](https://www.textcleanr.com/)**, [Text Mechanic](https://textmechanic.com/), [TextFixer](https://www.textfixer.com/), [OnlineTextTools](https://onlinetexttools.com/), [SoftMyList](https://sortmylist.com/) or [The Alphabetizer](https://alphabetizer.flap.tv/) - Organize / Format Text
 * [diffr](https://loilo.github.io/diffr/), [TextCompare](https://www.textcompare.org/), [Text-Compare](https://text-compare.com/) or [DiffNow](https://www.diffnow.com/) - Compare Text
 * [Count Duplicates](https://www.somacon.com/p568.php) or [DuplicateWord](https://duplicateword.com/) - Count / Remove Duplicates in a List
 * [Count Wordsworth](https://countwordsworth.com/) - Count Words in a List
@@ -27,6 +27,7 @@
 
 * ⭐ **[Pastebin Search](https://cse.google.com/cse?cx=0cd79b819f26af9d0)**
 * ⭐ **[snowbin](https://pastes.fmhy.net/)**
+* ⭐ **[Linqbin](https://linqbin.cc/)** - Temp Pastebin
 * ⭐ **[Rentry](https://rentry.co/)** / [CLI](https://github.com/radude/rentry)
 * ⭐ **[Bundles](https://sentrytwo.com/)** / [Source](https://codeberg.org/SentryTwo/bundles)
 * ⭐ **[disroot](https://bin.disroot.org/)**, [privatebin](https://privatebin.net/), [TextBin](https://textbin.xyz/), [bin.idrix](https://bin.idrix.fr/) or [RIN Privatebin](https://privatebin.rinuploads.org/)
@@ -242,11 +243,11 @@
 
 * ⭐ **[takenote](https://takenote.dev/)** - Local Saves
 * ⭐ **[Zen](https://zen.unit.ms/)** - Local Saves
-* [Text Mechanic](https://textmechanic.com/) - Local Saves
 * [Browserpad](https://browserpad.org/) - Local Saves
 * [Notepad](https://notepad.js.org/) - Local Saves
 * [onlinenotepad](https://onlinenotepad.org/) - Local Saves
 * [notepad-online.net](https://notepad-online.net/) - Local Saves
+* [ssavr](https://www.ssavr.com/) - Local Saves
 * [notepad-online.com](https://notepad-online.com/) - Local Saves
 * [JustNotePad](https://justnotepad.com/) - Local Saves
 * [Shrib](https://shrib.com/) - Local / Cloud Saves
