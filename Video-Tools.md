@@ -325,7 +325,6 @@
 * [VideoHelp Forum](https://forum.videohelp.com/forums/2-Video) - Video Editing Forums
 * [VideoTuts](https://videotuts.ru/) - Video Design Tutorials / [Translator](https://github.com/FilipePS/Traduzir-paginas-web)
 * [Blaine's Movie Maker Blog](https://movies.blainesville.com/p/wmm-60-on-windows-7.html) - Windows Movie Maker Tutorials
-* [broCodeCourse](https://t.me/broCodeCourse) - Video Editing Courses
 
 ***
 
