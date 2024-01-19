@@ -46,6 +46,7 @@
 * [123MoviesFree](https://ww2.123moviesfree.net/) - Movies / TV / Anime / 1080p
 * [NetMovies](https://netmovies.to/) - Movies / TV / 1080p
 * [MovGoTV](https://movgotv.net/) - Movies / TV / Anime / 1080p
+* [TVids](https://www.tvids.net/) - Movies / TV / Anime / 1080p
 * [Lovemovie](https://lovemovie.org/) - Movies / TV / 1080p
 * [Yesmovies.pm](https://yesmovies.pm/) - Movies / TV / Anime / 1080p
 * [OnionPlay](https://onionplay.se/) - Movies / TV / 1080p / [Mirrors](https://onionplay.network/)
@@ -403,6 +404,7 @@
 * [AllTheBestFights](https://www.allthebestfights.com/) - MMA / Boxing / K1
 * [TNA / Impact Replays](https://www.youtube.com/playlist?list=PLSadBNbijyoGV44wd96Fda7-GDYh9UktC) - TNA / Impact Wrestling
 * [/r/MotorsportsReplays](https://reddit.com/r/MotorsportsReplays) - Motorsports
+* [FullMatchSports](https://fullmatchsports.cc/) - Motorsports
 * [F1 Full Races](https://f1fullraces.com/) - F1
 
 ***
