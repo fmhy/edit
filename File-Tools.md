@@ -332,9 +332,9 @@
 * ⭐ **[Blaze](https://blaze.vercel.app/)** / [GitHub](https://github.com/blenderskool/blaze)
 * ⭐ **[wormhole](https://wormhole.app/)**
 * ⭐ **[justbeamit](https://justbeamit.com/)**
-* ⭐ **[LocalSend](https://localsend.org/)** - Phone / Desktop Sync / [Platforms](https://i.ibb.co/nsfMf04/8010dd28ed2d.png)
-* [Warpinator](https://github.com/linuxmint/warpinator) - Phone / Desktop Sync
-* [QRServ](https://github.com/uintdev/qrserv) - Phone / Desktop Sync
+* ⭐ **[LocalSend](https://localsend.org/)** - Phone / Desktop Transfer / [Platforms](https://i.ibb.co/nsfMf04/8010dd28ed2d.png)
+* [Warpinator](https://github.com/linuxmint/warpinator) - Phone / Desktop Transfer
+* [QRServ](https://github.com/uintdev/qrserv) - Phone / Desktop Transfer
 * [pairdrop](https://pairdrop.net/)
 * [sharedrop](https://www.sharedrop.io/)
 * [new.space](https://new.space/)
