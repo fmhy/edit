@@ -4,7 +4,7 @@
 ***
 ***
 
-**Use [redirect bypassers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_skip_redirect) to skip link shorteners**
+**Use [redirect bypassers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25B7_redirect_bypass) to skip link shorteners**
 
 ***
 
@@ -982,7 +982,6 @@
 * [Hamachi](https://vpn.net/) - Multiplayer Fix
 * [XTag](https://www.teamxlink.co.uk/) - Multiplayer Fix
 * [Blu-Games](https://blu-games.tk/) - Multiplayer Fix
-* [softether](https://www.softether.org/) - Multiplayer Fix
 * [ZLOEmu](https://zloemu.net/) - Multiplayer Fix
 * [Blitz.gg](https://blitz.gg/) - Post Match Performance Analyzer
 * [DiIiS](https://github.com/blizzless/blizzless-diiis) - Open-Source Diablo III Local Server
@@ -995,7 +994,6 @@
 * [Simple Radar](https://readtldr.gg/simpleradar) - Improved CS:GO Radar
 * [CSGO Trader](https://csgotrader.app/) - CS:GO Trading Enhancements
 * [Northstar](https://northstar.thunderstore.io/), [2](https://northstar.tf/) - Titanfall 2 Server Hosting & Modding / [GitHub](https://github.com/R2Northstar/Northstar/releases) / [Guide](https://rentry.org/northstar-guide) / [Discord](https://discord.gg/CEszSguY3A)
-* [Titanfall2HudToggle](https://www.mediafire.com/file/q3tld2cm31znu2z/Titanfall2HudToggle.rar/file) - Toggle Titanfall 2 Hud
 * [CnCNet](https://cncnet.org/) - Multiplayer Command & Conquer 
 * [Rusticaland](https://rusticaland.net/) - Rust Cracked Client / Servers
 * [Factorio.zone](https://factorio.zone/) - Free Factorio Servers
