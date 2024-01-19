@@ -265,8 +265,8 @@
   
 ***
 
-* ⭐ **[SyncThing](https://syncthing.net/)**
-* ⭐ **[KDEConnect](https://kdeconnect.kde.org/)**
+* ⭐ **[SyncThing](https://syncthing.net/)** - File Sync
+* ⭐ **[KDEConnect](https://kdeconnect.kde.org/)** - File Sync
 * ⭐ **[Archive.org](https://archive.org/create/)** - Signup Required
 * ⭐ **[Pixeldrain](https://pixeldrain.com/)** - 20GB / 90 days / [Speedtest File](https://pixeldrain.com/api/misc/speedtest)
 * ⭐ **[Gofile](https://gofile.io/)** - Unlimited / 10 days
