@@ -914,10 +914,10 @@
 * [unzip-http](https://github.com/saulpw/unzip-http) - Unzip via HTTP Without Downloading
 * [CompactGUI](https://github.com/IridiumIO/CompactGUI) or [Compactor](https://github.com/Freaky/Compactor) - Transparent Compression
 * [ProtectedZip](https://protectedzip.com/) - Encrypt Zip Files
-* [WinRAR](https://www.win-rar.com/) / [Licenses](https://rentry.co/FMHYBase64#winrar-licenses), [Hamster ZIP Archiver](https://hamstersoft.com/), [bzip2](https://sourceware.org/bzip2/), [Bandizip](https://www.bandisoft.com/bandizip/) or [IZArc](https://www.izarc.org/) - File Archivers
+* [WinRAR](https://www.win-rar.com/) - File Archiver / [Licenses](https://rentry.co/FMHYBase64#winrar-licenses)
+* [Bandizip](https://www.bandisoft.com/bandizip/) - File Archiver
+* [IZArc](https://www.izarc.org/) - File Archiver
 * [FileOptimizer](https://nikkhokkho.sourceforge.io/static.php?page=FileOptimizer), [Efficient Compression Tool](https://github.com/fhanau/Efficient-Compression-Tool) or [Minuimus](https://birds-are-nice.me/software/minuimus.html) - File Archivers / Optimizers
-* [GNU Gzip](https://www.gnu.org/software/gzip/) - GNU File Archiver
-* [pigz](https://zlib.net/pigz/) - Parallel Implementation of Gzip
 * [ZIP Extractor](https://zipextractor.app/) - Google Drive / Gmail File Archiver
 * [ezyZip](https://www.ezyzip.com/) - Zip Files Online
 * [unzip-online](https://unzip-online.com/en) - Unzip Files Online
@@ -1109,6 +1109,7 @@
 * [doodrive](https://doodrive.com/) - 2GB / 30 days / Signup Required
 * [sfile](https://sfile.mobi/) - 100MB / 5gb total / Forever
 * [krakenfiles](https://krakenfiles.com/) - 1GB / 90 days
+* [Imagenetz](https://www.imagenetz.de/) - 2GB / 90 days
 * [filelu](https://filelu.com/) - ?GB / 10 days
 * [fileconvoy](https://www.fileconvoy.com/) - 3GB / 21 days total
 * [filetransfer](https://filetransfer.io/) - 6GB / 21 days total / 50 download limit
@@ -1137,38 +1138,29 @@
 * ⭐ **[Transfer.sh](https://transfer.sh/)**
 * ⭐ **[Blaze](https://blaze.vercel.app/)** / [GitHub](https://github.com/blenderskool/blaze)
 * ⭐ **[wormhole](https://wormhole.app/)**
-* ⭐ **[LocalSend](https://localsend.org/)** / [Platforms](https://i.ibb.co/nsfMf04/8010dd28ed2d.png), [Warpinator](https://github.com/linuxmint/warpinator), [QRServ](https://github.com/uintdev/qrserv) or [MyPhoneExplorer](https://www.fjsoft.at/) - Sync Files Between Phone / Desktop
+* ⭐ **[justbeamit](https://justbeamit.com/)**
+* ⭐ **[KDEConnect](https://kdeconnect.kde.org/)**
+* ⭐ **[LocalSend](https://localsend.org/)** - Phone / Desktop Sync / [Platforms](https://i.ibb.co/nsfMf04/8010dd28ed2d.png)
+* [Warpinator](https://github.com/linuxmint/warpinator) - Phone / Desktop Sync
+* [QRServ](https://github.com/uintdev/qrserv) - Phone / Desktop Sync
+* [MyPhoneExplorer](https://www.fjsoft.at/) - Phone / Desktop Sync
 * [pairdrop](https://pairdrop.net/)
-* [Linux Reader](https://www.diskinternals.com/linux-reader/) - Access Linux Files on Windows
-* [dropbox](https://www.dropbox.com/) / [Client](https://github.com/SamSchott/maestral)
-* [keybase](https://book.keybase.io/docs/files)
 * [sharedrop](https://www.sharedrop.io/)
 * [new.space](https://new.space/)
-* [justbeamit](https://justbeamit.com/)
 * [file.pizza](https://file.pizza/)
 * [Transfernow](https://www.transfernow.net/en)
-* [send-anywhere](https://send-anywhere.com/)
 * [onionshare](https://onionshare.org/)
 * [Horizon Send](https://send.hrzn.cool/)
 * [OwnCloud](https://owncloud.com/)
-* [MLDonkey](https://github.com/ygrek/mldonkey)
 * [etesync](https://www.etesync.com/)
 * [WinSCP](https://winscp.net/eng/index.php)
 * [allwaysync](https://allwaysync.com/)
-* [sharik](https://github.com/marchellodev/sharik)
-* [Simple.Savr](https://www.ssavr.com/)
 * [FileBrowser](https://filebrowser.org/)
-* [KDEConnect](https://kdeconnect.kde.org/)
 * [Resilio](https://www.resilio.com/individuals/)
 * [croc](https://github.com/howeyc/crocgui)
-* [Ziggs](https://ziggs.io/)
-* [dsynchronize](http://www.dimio.altervista.org/eng/dsynchronize/dsynchronize.html)
 * [landrop](https://landrop.app/)
 * [Surge](https://getsurge.io/)
-* [odin](https://github.com/odinapp/odin)
-* [brig](https://github.com/sahib/brig)
 * [saladroom](https://saladroom.net/)
-* [passfile](https://passfile.me/)
 * [blymp.io](https://blymp.io/) / [GitHub](https://github.com/vantezzen/blymp-io)
 * [drop.lol](https://drop.lol/) / [GitHub](https://github.com/mat-sz/filedrop-web)
 * [sendfiles](https://sendfiles.online/)
