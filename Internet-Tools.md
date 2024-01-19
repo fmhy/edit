@@ -121,11 +121,9 @@
 * ⭐ **[Linktree](https://linktr.ee/)**
 * ⭐ **[Linkstack](https://linkstack.org)** / [2](https://linksta.cc)
 * [Ichi](https://ichi.city)
-* [Bento](https://bento.me/)
 * [Beacon](https://beacons.ai/)
 * [Carrd](https://carrd.co/)
 * [Bio.link](https://bio.link/)
-* [Linktopus](https://linktopus.co/)
 * [Seamless](https://www.linkinbio.website/)
 * [FlowCode](https://www.flowcode.com/page)
 * [Solo.to](https://solo.to/)
@@ -240,12 +238,12 @@
 * ⭐ **[Flagfox](https://flagfox.wordpress.com/)** - Displays Country's Flag on Sites / [Adds Many URL Tools](https://i.ibb.co/N7Mq56Q/889730aa3863.png)
 * ⭐ **[HTTPStatus](https://httpstatus.io/)** - Check URL Status Codes / Redirect Chains
 * ⭐ **[Wiki Shortener](https://meta.wikimedia.org/wiki/Special:UrlShortener)** - Wiki URL Shortener
+* ⭐ **[Linqbin](https://linqbin.cc/)** - Temp Link Shortener
 * ⭐ **[t.ly](https://t.ly/)** - `t.ly/qqH6`
 * ⭐ **[is.gd](https://www.is.gd/)** - `is.gd/9dkISG`
 * ⭐ **[Reduced](https://reduced.to/)** - `reduced.to/nuwad`
 * [v.gd](https://v.gd/) - `v.gd/Gj8oLR`
 * [gg.gg](https://gg.gg/) - `gg.gg/oggp7`
-* [Teknik](https://shorten.teknik.io/) - `tknk.io/GH5X` 
 * [Linkify](https://creator.linkify.cz/) - `linkify.cz/1a0O`
 * [bitly](https://bitly.com/) - `bit.ly/3cmqPIu` / [Reveal URL](https://i.ibb.co/tQVKYRq/3a97e5dd64b2.png)
 * [TinyUrl](https://tinyurl.com/) - `tinyurl.com/twgf2ks` / [Reveal URL](https://i.ibb.co/Wv90gT4/0d2992342fc7.png)
@@ -303,7 +301,6 @@
 * [pyfuzz](https://github.com/AyoobAli/pyfuzz) - URL Fuzzing Tool 
 * [Backlink Tool](https://backlinktool.io/) or [Index Kings](http://www.indexkings.com/) - URL Indexer 
 * [Blocked](https://www.blocked.org.uk/) - UK ISP Site Blocking Test
-* [loooo...ng](https://loooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo.ng/) - Make URLs Longer
 
 ***
 
@@ -316,7 +313,7 @@
 * [Twist](https://twist.com/) - Collaboration Chat Manager
 * [Cabal](https://cabal.chat/) - P2P Chat / [GitHub](https://github.com/cabal-club)
 * [BlueBubbles](https://bluebubbles.app/) - iMessage Client
-* [Atlus](https://github.com/amanharwara/altus) or [WAO](https://dedg3.com/wao/) - Whatsapp Clients
+* [Atlus](https://github.com/amanharwara/altus) or [WAO](https://dedg3.com/wao/) - WhatsApp Clients
 * [Skype Exports for Humans](https://becausecurious.me/skype_exports_for_humans) - Export Skype Chat Data to Readable Text
 * [TikTok Chat Reader](https://tiktok-chat-reader.zerody.one/) - Live TikTok Chat Reader
 * [Urlebird](https://urlebird.com/) - Third-Party TikTok with better UI
