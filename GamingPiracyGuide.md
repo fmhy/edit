@@ -455,7 +455,6 @@
 * [PlayingCards](https://playingcards.io/)
 * [FlyOrDie](https://www.flyordie.com/) 
 * [JKLM.FUN](https://jklm.fun/) 
-* [JackBox.tv](https://jackbox.tv/)
 * [Gidd.io](https://gidd.io/)
 * [Playok](https://www.playok.com/)
 * [PaperGames](https://papergames.io/)
