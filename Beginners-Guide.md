@@ -60,8 +60,12 @@ Use [this](https://bitbucket.org/magnolia1234/bypass-paywalls-firefox-clean/src/
 
 ### MacOS Piracy
 
+**[gibMacOS](https://github.com/corpnewt/gibMacOS)** - Download macOS
 **[Torrminatorr](https://forum.torrminatorr.com/)** - Download macOS Games
- 
+**[qBittorrent](https://www.qbittorrent.org/)** - macOS Torrent Client
+**[Homebrew](https://brew.sh/)** / [GUI](https://corkmac.app/) - macOS Package Manager
+**[SpotX Bash](https://github.com/jetfir3/SpotX-Bash)** - macOS Spotify Adblocker
+
 ***
 
 ### Browser
