@@ -8,11 +8,10 @@
 
 * ⭐ **[AppManager](https://github.com/MuntashirAkon/AppManager/)** - Package Manager
 * ⭐ **[Lucky Patcher](https://chelpus.com/download/LuckyPatchers.com_Official_Installer_10.9.9.apk)** - App Patcher / [Avoid "LP Downloader"](https://pastebin.com/UXxaVqX9)
-* ⭐ **Lucky Patcher Tools** - [Guide](https://flixbox.github.io/lp-compat/docs/intro), [2](https://latestechnews.com/how-to-use-lucky-patcher/) / [Compatibility](https://flixbox.github.io/lp-compat/) / [Subreddit](https://www.reddit.com/r/luckypatcher/) / [Discord](https://discord.com/invite/RS5ddYf7mw)
+* ⭐ **Lucky Patcher Tools** - [Guide](https://flixbox.github.io/lp-compat/docs/intro) / [Compatibility](https://flixbox.github.io/lp-compat/) / [Subreddit](https://www.reddit.com/r/luckypatcher/) / [Discord](https://discord.com/invite/RS5ddYf7mw)
 * ⭐ **[Android APK CSE](https://cse.google.com/cse?cx=e0d1769ccf74236e8)** / [CSE 2](https://cse.google.com/cse?cx=73948689c2c206528) / [CSE 3](https://cse.google.com/cse?cx=a805854b6a196d6a6), [App Finder](https://play.google.com/store/apps/details?id=scadica.aq) or [ShowAppsLike](https://showappslike.com/) - APK Search Engines
 * [Direct Download From Google Play](https://greasyfork.org/en/scripts/33005-direct-download-from-google-play/) - Add Direct DL Links to Google Play
 * [GBox](https://www.gboxlab.com/) - GMS Google Box
-* [APK Installer](https://play.google.com/store/apps/details?id=com.uptodown.installer&hl=en&gl=US) - APK Installer
 * [Split App Installer](https://github.com/Aefyr/SAI) - Split APK Installer
 * [Raccoon](https://raccoon.onyxbits.de/) - Private APK Downloader
 * [APKeep](https://github.com/EFForg/apkeep) - APK Download CLIs
@@ -21,7 +20,7 @@
 * [APKTool](https://github.com/iBotPeaches/Apktool) - APK Reverse Engineering Tool
 * [BlackDex](https://github.com/CodingGay/BlackDex) - APK Unpacking Tool
 * [Zygisk Detach](https://github.com/j-hc/zygisk-detach) - Detach APKs from Google Play Store
-* [UpgradeAll](https://github.com/DUpdateSystem/UpgradeAll), [APKUpdater](https://github.com/rumboalla/apkupdater) or [APKGrabber](https://github.com/hemker/apkgrabber) or [Obtainium](https://github.com/ImranR98/Obtainium/) - APK Updaters
+* [UpgradeAll](https://github.com/DUpdateSystem/UpgradeAll), [APKUpdater](https://github.com/rumboalla/apkupdater) or [Obtainium](https://github.com/ImranR98/Obtainium/) - APK Updaters
 * [Let Me Downgrade](https://github.com/DavidBerdik/Let-Me-Downgrade) - Downgrade Apps on Android 12/13
 * [APKAdmin](https://apkadmin.com/) - APK Hosting Site
 
@@ -45,7 +44,6 @@
 * [Release APK](https://forum.release-apk.com/)
 * [RockMods](https://www.rockmods.net/) - [Telegram](https://t.me/RBMods)
 * [DL King](https://dl.king2net.com/soft%20android/)
-* [AKMods](https://www.akmods.in/)
 * [APKKit](https://apkkit.com/)
 * [Aero Apps](https://t.me/aerolla) - Modded Social Media Apps
 
@@ -58,11 +56,9 @@
 * ⭐ **[UpToDown](https://en.uptodown.com/android)**
 * ⭐ **[APKPure](https://apkpure.net/)**, [2](https://apkpure.com/)
 * [Android Ultimate Collection](https://xdaforums.com/t/android-ultimate-collection-guides.4513231/)
-* [Aurora Store](https://auroraoss.com/) - Alt App Store / [Bypass Limits](https://youtu.be/L5RrtxQUtVE) / [GitLab](https://gitlab.com/AuroraOSS/AuroraStore)
+* [Aurora Store](https://auroraoss.com/) - Alt App Store / [GitLab](https://gitlab.com/AuroraOSS/AuroraStore)
 * [Accrescent](https://accrescent.app/) - Alt App Store
-* [Android App](https://techy-transistor.notion.site/5359aca6d9494ed893e57823f55499e5?v=4a68e3958c1b443fa61e25c87f96d384)
 * [APKCombo](https://apkcombo.com/)
-* [APKBe](https://www.apkbe.com/)
 * [Top Androids](https://top-androids.com/)
 * [APK Thing](https://www.apkthing.com/)
 * [APKGit](https://apkgit.co/)
