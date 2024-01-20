@@ -54,7 +54,7 @@
 * ↪️ **[DNS Filters](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_dns_filters)**
 * ↪️ **[Free DNS Servers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_free_dns_servers)**
 * ⭐ **[AdGuard Home](https://github.com/AdguardTeam/AdGuardHome/wiki/Docker)** - DNS Adblocking / Self-Hosted / [Setup](https://github.com/klutchell/balena-adguard) / [Filters](https://github.com/hl2guide/AdGuard-Home-Whitelist)
-* ⭐ **[AhaDNS](https://ahadns.com/)** - DNS Adblocking / [Guide](https://champagne.pages.dev/before-you-begin/important-tools/#free-system-wide-adblocking-for-ios-mac-android--windows)
+* ⭐ **[AhaDNS](https://ahadns.com/)** - DNS Adblocking
 * ⭐ **[BlahDNS](https://blahdns.com/)**, **[YogaDNS](https://yogadns.com/)** or **[Mullvad DNS](https://mullvad.net/en/help/dns-over-https-and-dns-over-tls/)** - DNS Adblocking
 * ⭐ **[serverless-dns](https://github.com/serverless-dns/serverless-dns)** - Serverless DNS
 * [ControlD](https://controld.com/) - DNS Manager
@@ -473,7 +473,6 @@
 
 * ↪️ **[Proxy Lists](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_proxy_lists)**
 * ↪️ **[Piracy Site Proxies](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_piracy_site_proxies)**
-* ⭐ **[Cloudflare Workers Proxy](https://champagne.pages.dev/non-piracy-stuff/proxy-websites/)** - Proxy Any Site
 * ⭐ **[HolyUnblocker](https://www.holyubofficial.net/)**
 * [ProxySite](https://www.proxysite.com/)
 * [GenMirror](https://www.genmirror.com/)
