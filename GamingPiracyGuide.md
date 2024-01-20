@@ -706,7 +706,6 @@
 * ↪️ **[Steam Workshop Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_steam_workshop_downloaders)**
 * ⭐ **[Koalageddon](https://github.com/acidicoala/Koalageddon/)** / [v2](https://github.com/acidicoala/Koalageddon2) - DLC Unlocker for Steam, Epic, Origin, EA and Uplay
 * ⭐ **[SmokeAPI](https://github.com/acidicoala/SmokeAPI)** - Steam DLC Unlocker / [Auto Installer](https://github.com/pointfeev/CreamInstaller)
-* ⭐ **[Goldberg](https://github.com/otavepto/gbe_fork)**, [2](https://gitlab.com/Mr_Goldberg/goldberg_emulator) / [GUI](https://cs.rin.ru/forum/viewtopic.php?f=29&t=111152&hilit=goldberg) / [Guide](https://rentry.co/goldberg_emulator), [SmartSteamEmu](https://cs.rin.ru/forum/viewtopic.php?p=2009102#p2009102), [GreenLuma](https://cs.rin.ru/forum/viewtopic.php?f=29&t=103709) or [Steamtools](https://github.com/st2024/Steamtools/releases) / [Guide](https://rentry.co/Steamtools) - Steam Multiplayer Client Emulators
 * ⭐ **[Steamless](https://github.com/atom0s/Steamless)** - Steam DRM Remover
 * ⭐ **[Steam-Auto-Crack](https://github.com/oureveryday/Steam-auto-crack)** or [SteamAutoCracker](https://github.com/BigBoiCJ/SteamAutoCracker) - Auto Apply Goldberg + Steamless / [Guide](https://codeberg.org/fernbacher/How-To-Crack)
 * ⭐ **[SteamDB](https://steamdb.info/)** - Steam Insights Tool / [Extension](https://steamdb.info/extension/)
@@ -714,6 +713,19 @@
 * ⭐ **[Heroic Games Launcher](https://heroicgameslauncher.com/)**, [LEGENDARY](https://github.com/derrod/legendary) or [Rare](https://github.com/Dummerle/Rare) - Epic Games Launcher 
 * ⭐ **[Nemirtingas Epic Emulator](https://cs.rin.ru/forum/viewtopic.php?f=29&t=105551)** - Epic Online Service Emulator
 * ⭐ **[TCNO](https://github.com/TCNOco/TcNo-Acc-Switcher)** - Platform Account Switcher / [Tutorial](https://youtu.be/0h-xjiW9M7Y)
+## Software to crack the game.
+
+### Offline
+* ⭐ **[Goldberg](https://github.com/otavepto/gbe_fork)**, [2](https://gitlab.com/Mr_Goldberg/goldberg_emulator) / [GUI](https://cs.rin.ru/forum/viewtopic.php?f=29&t=111152&hilit=goldberg) / [Guide](https://rentry.co/goldberg_emulator)
+
+* [SmartSteamEmu](https://cs.rin.ru/forum/viewtopic.php?p=2009102#p2009102)
+
+#### Additionally, can be used to open dlcs of original games.
+* [GreenLuma](https://cs.rin.ru/forum/viewtopic.php?f=29&t=103709) or [Steamtools](https://github.com/st2024/Steamtools/releases) / [Guide](https://rentry.co/Steamtools)
+
+### Online
+* ⭐ **[Unsteam](https://cs.rin.ru/forum/viewtopic.php?f=20&t=134707&hilit=unsteam)**
+
 * [CreamAPI](https://cs.rin.ru/forum/viewtopic.php?t=70576) - Steam DLC Unlocker / [Auto Setup](https://cs.rin.ru/forum/viewtopic.php?p=2013521)
 * [DreamAPI](https://cs.rin.ru/forum/viewtopic.php?f=10&t=111520) - DLC Unlocker for Epic, Origin and EA
 * [DLC Unlocker](https://cs.rin.ru/forum/viewtopic.php?t=104412) - DLC Unlocker for EA and Origin
