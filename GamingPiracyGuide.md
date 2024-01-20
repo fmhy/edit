@@ -706,9 +706,9 @@
 * ↪️ **[Steam Workshop Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_steam_workshop_downloaders)**
 * ⭐ **[Koalageddon](https://github.com/acidicoala/Koalageddon/)** / [v2](https://github.com/acidicoala/Koalageddon2) - DLC Unlocker for Steam, Epic, Origin, EA and Uplay
 * ⭐ **[SmokeAPI](https://github.com/acidicoala/SmokeAPI)** - Steam DLC Unlocker / [Auto Installer](https://github.com/pointfeev/CreamInstaller)
-* ⭐ **[Goldberg](https://github.com/otavepto/gbe_fork)**, [2](https://gitlab.com/Mr_Goldberg/goldberg_emulator) / [GUI](https://cs.rin.ru/forum/viewtopic.php?f=29&t=111152&hilit=goldberg) / [Guide](https://rentry.co/goldberg_emulator) / [SmartSteamEmu](https://cs.rin.ru/forum/viewtopic.php?p=2009102#p2009102) - Offline steam drm bypass
-* ⭐ **[Steamtools](https://github.com/st2024/Steamtools/releases)** / [Guide](https://rentry.co/Steamtools) or [GreenLuma](https://cs.rin.ru/forum/viewtopic.php?f=29&t=103709) - Additionally, can be used to open dlcs of original games.
-* ⭐ **[Unsteam](https://cs.rin.ru/forum/viewtopic.php?f=20&t=134707&hilit=unsteam)** - Online steam drm bypass. To crack online servers (you can only play with cracked people)
+* ⭐ **[Goldberg](https://github.com/otavepto/gbe_fork)**, [2](https://gitlab.com/Mr_Goldberg/goldberg_emulator) / [GUI](https://cs.rin.ru/forum/viewtopic.php?f=29&t=111152&hilit=goldberg) / [Guide](https://rentry.co/goldberg_emulator) / [SmartSteamEmu](https://cs.rin.ru/forum/viewtopic.php?p=2009102#p2009102) - Offline Steam DRM Bypass / Multiplayer Emulator
+* ⭐ **[Steamtools](https://github.com/st2024/Steamtools/releases)** / [Guide](https://rentry.co/Steamtools) or [GreenLuma](https://cs.rin.ru/forum/viewtopic.php?f=29&t=103709) - Multiplayer Emulator / Original DLC Unlocker
+* ⭐ **[Unsteam](https://cs.rin.ru/forum/viewtopic.php?f=20&t=134707&hilit=unsteam)** - Online Steam DRM Bypass / Cracked Servers Only / Multiplayer Emulator
 * ⭐ **[Steamless](https://github.com/atom0s/Steamless)** - Steam DRM Remover
 * ⭐ **[Steam-Auto-Crack](https://github.com/oureveryday/Steam-auto-crack)** or [SteamAutoCracker](https://github.com/BigBoiCJ/SteamAutoCracker) - Auto Apply Goldberg + Steamless / [Guide](https://codeberg.org/fernbacher/How-To-Crack)
 * ⭐ **[SteamDB](https://steamdb.info/)** - Steam Insights Tool / [Extension](https://steamdb.info/extension/)
@@ -870,7 +870,6 @@
 * [humble-cli](https://github.com/smbl64/humble-cli) - Humble Bundle CLI
 * [Gog To Free](https://greasyfork.org/en/scripts/481134) - Add Piracy Site Links to GOG Store
 * [Moonlight Stream](https://moonlight-stream.org/) / [Server](https://github.com/LizardByte/Sunshine) - Remote Desktop Client
-* [Geforce Now](https://www.nvidia.com/en-gb/geforce-now/) - Game Streaming / [Web App](https://play.geforcenow.com/mall/)
 * [Remotly](https://remotly.com/) - Cloud Gaming Apps
 * [Google Play Games](https://play.google.com/googleplaygames) - Play Mobile Games on Windows
 * [SaveLocation](https://savelocation.net/) - Game Save Locations
