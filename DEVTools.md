@@ -1208,7 +1208,6 @@
 * [ImageCook](https://github.com/imgcook/imgcook) - Coding AI
 * [CodeWhisperer](https://aws.amazon.com/codewhisperer/) - Coding AI
 * [Telosys](https://www.telosys.org/) - Coding AI
-* [Copilot](https://github.com/features/copilot/) / [Docs](https://github.com/github/copilot-docs) - Coding AI
 * [WDTCD?](https://whatdoesthiscodedo.com/) - Coding AI
 * [Cody](https://about.sourcegraph.com/cody) - Coding AI
 * [CodiumAI](https://www.codium.ai/) - Coding AI
