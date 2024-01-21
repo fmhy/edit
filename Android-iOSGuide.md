@@ -55,6 +55,7 @@
 * ⭐ **[APKMirror](https://www.apkmirror.com/)** / [Playstore Links](https://pastebin.com/TcsAJib6)
 * ⭐ **[UpToDown](https://en.uptodown.com/android)**
 * ⭐ **[APKPure](https://apkpure.net/)**, [2](https://apkpure.com/)
+* [Play Search](https://playsearch.kaki87.net/) - Advanced Playstore Search
 * [Android Ultimate Collection](https://xdaforums.com/t/android-ultimate-collection-guides.4513231/)
 * [Aurora Store](https://auroraoss.com/) - Alt App Store / [GitLab](https://gitlab.com/AuroraOSS/AuroraStore)
 * [Accrescent](https://accrescent.app/) - Alt App Store
