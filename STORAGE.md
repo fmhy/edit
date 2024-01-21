@@ -282,16 +282,6 @@ http://104.131.175.196:8080/, http://70.88.180.169:8088/, http://207.237.122.161
 
 ***
 
-## Docker Tools
-
-* ⭐ **[portainer](https://portainer.io/)**, [sudobox](https://sudobox.io/) / [Discord](https://discord.gg/Ebh9rKQ5Ws), [yacht](https://yacht.sh/), [moncho](https://moncho.github.io/dry/) or [podman](https://podman.io/) - Container Managers
-* ⭐ **[Images](https://hub.docker.com/)**, [2](https://linuxserver.io/), [3](https://hotio.dev/)
-* ⭐ **[Compose Files](https://www.composerize.com/)**, [2](https://github.com/irbigdata/data-dockerfiles)
-
-[Desktop](https://www.docker.com/products/docker-desktop/), [TUI](https://github.com/jesseduffield/lazydocker), [Analyze Images](https://github.com/wagoodman/dive), [Container Automation](https://containrrr.dev/watchtower/), [Port Forwarding](https://github.com/ruoshan/autoportforward), [Log Viewer](https://dozzle.dev/), [Disk Usage Manager](https://docker-disk.space/), [Image Linter](https://github.com/goodwithtech/dockle), [Container Monitor](https://github.com/willfarrell/docker-autoheal), [Notifications](https://crazymax.dev/diun/), [Podman Compose](https://github.com/containers/podman-compose) / [Playground](https://labs.play-with-docker.com/)
-
-***
-
 ## DOS Games
 
 [DOS Games Archive](https://www.dosgamesarchive.com/), [DOSBox](https://www.dosbox.com/), [DOS HAVEN](https://www.doshaven.eu/), [The Software Library](https://archive.org/details/softwarelibrary_msdos), [Best Old Games](https://www.bestoldgames.net/), [DOSGames](https://dosgames.com/), [PlayDOSGames](https://www.playdosgames.com/), [RGB Classic Games](https://www.classicdosgames.com/), [Abandonware DOS](https://www.abandonwaredos.com/), [Online DOS games](https://dos.zczc.cz/), [Classic Games](https://classicdosgames.com/)
