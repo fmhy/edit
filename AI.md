@@ -9,11 +9,11 @@
 * 🌐 **[LMSYS Arena](https://huggingface.co/spaces/lmsys/chatbot-arena-leaderboard)** - Chatbot Leaderboard with Elo rating
 * 🌐 **[Free AI Stuff](https://github.com/zukixa/cool-ai-stuff)** - AI APIs and Sites
 * ⭐ **[Microsoft Copilot](https://copilot.microsoft.com)** - GPT-4/3.5 Powered Search / [SydneyQT Jailbreak](https://github.com/juzeon/SydneyQt)
+* ⭐ **[LMSYS Chat](https://chat.lmsys.org/)** - GPT-4, Claude, Bard, Mistral and others, Multi-Chatbots
 * ⭐ **[ChatGPT](https://chat.openai.com/)** - GPT-3.5 Chatbot / [Discord](https://discord.com/invite/openai)
 * ⭐ **[Perplexity](https://www.perplexity.ai/)** - AI Powered Search / [Multiple Chatbots](https://labs.perplexity.ai/)
 * ⭐ **[Phind](https://www.phind.com/)** - GPT-3.5/4 Powered Search
 * ⭐ **[Ora](https://ora.ai/start)** - GPT-3.5 Based Chatbots
-* ⭐ **[LMSYS Chat](https://chat.lmsys.org/)** - Multi-Chatbots, GPT-4-Turbo, Claude, Bard and Mistral
 * ⭐ **[Bard](https://bard.google.com/)** - Google's Chatbot
 * ⭐ **[Claude](https://claude.ai/)** - Anthropic's Chatbot
 * ⭐ **[Call Annie](https://callannie.ai/)** - GPT-3.5 Chatbot with Real-Time Voice and Video / [Discord](https://discord.gg/Rfbzet5R3v)
