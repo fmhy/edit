@@ -151,7 +151,6 @@
 * [Jdownloader](https://my.jdownloader.org/), [1DM](https://play.google.com/store/apps/details?id=idm.internet.download.manager.adm.lite), [FDM](https://play.google.com/store/apps/details?id=org.freedownloadmanager.fdm) or [Navi](https://github.com/TachibanaGeneralLaboratories/download-navi) - Download File Managers
 * [Adebar](https://codeberg.org/izzy/Adebar), [Android-DataBackup](https://github.com/XayahSuSuSu/Android-DataBackup), [Swift Backup](https://swiftapps.org/), [Neo Backup](https://github.com/NeoApplications/Neo-Backup) - Device Backup Tools
 * [shouko](https://github.com/ivaniskandar/shouko) or [Tweaker](https://github.com/zacharee/Tweaker) - Android System Tweaks / Features
-* [DiskUsage](https://play.google.com/store/apps/details?id=com.google.android.diskusage) - Disk Usage Analyzer
 * [FreezeYou](https://www.freezeyou.net/en-US/), [SuperFreezZ](https://superfreezz.gitlab.io/), [BatteryTool](https://github.com/Domi04151309/BatteryTool) or [Drowser](https://gitlab.com/juanitobananas/drowser) - Freeze App Background Activities
 * [Red Moon](https://github.com/LibreShift/red-moon) or [NightOwl](https://play.google.com/store/apps/details?id=com.evezzon.nightowl) - Screen Brightness Control
 * [OLEDBuddy](https://play.google.com/store/apps/details?id=me.mikecroall.oledbuddy) - Fix OLED Images
