@@ -504,19 +504,16 @@
 ***
 ***
 
-# ► AI Chatbots
-
-# ► Proprietary LLMs
+# ► Proprietary AI Chatbots
 
 * 🌐 **[LMSYS Arena](https://huggingface.co/spaces/lmsys/chatbot-arena-leaderboard)** - Chatbot Leaderboard with Elo rating
 * 🌐 **[Free AI Stuff](https://github.com/zukixa/cool-ai-stuff)** - AI APIs and Sites
-* 🌐 **[LifeArchitect](https://lifearchitect.ai/models-table/)** - Chatbot Index
-* ⭐ **[Microsoft Copilot](https://copilot.microsoft.com)** - GPT-4 with Search and Image Generation / [SydneyQT Jailbreak](https://github.com/juzeon/SydneyQt)
+* ⭐ **[Microsoft Copilot](https://copilot.microsoft.com)** - GPT-4/3.5 Powered Search / [SydneyQT Jailbreak](https://github.com/juzeon/SydneyQt)
+* ⭐ **[LMSYS Chat](https://chat.lmsys.org/)** - GPT-4, Claude, Bard, Mistral and others, Multi-Chatbots
 * ⭐ **[ChatGPT](https://chat.openai.com/)** - GPT-3.5 Chatbot / [Discord](https://discord.com/invite/openai)
 * ⭐ **[Perplexity](https://www.perplexity.ai/)** - AI Powered Search / [Multiple Chatbots](https://labs.perplexity.ai/)
 * ⭐ **[Phind](https://www.phind.com/)** - GPT-3.5/4 Powered Search
 * ⭐ **[Ora](https://ora.ai/start)** - GPT-3.5 Based Chatbots
-* ⭐ **[LMSYS Chat](https://chat.lmsys.org/)** - Multi-Chatbots, GPT-4-Turbo, Claude, Bard and Mistral
 * ⭐ **[Bard](https://bard.google.com/)** - Google's Chatbot
 * ⭐ **[Claude](https://claude.ai/)** - Anthropic's Chatbot
 * ⭐ **[Call Annie](https://callannie.ai/)** - GPT-3.5 Chatbot with Real-Time Voice and Video / [Discord](https://discord.gg/Rfbzet5R3v)
@@ -526,7 +523,7 @@
 
 ***
 
-# ► Open-Source LLMs
+# ► Open-Source AI Chatbots
 
 * 🌐 **[LLM Leaderboard](https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard)** - Open Source Chatbot Benchmark
 * 🌐 **[Transferormer Models Timeline](https://ai.v-gar.de/ml/transformer/timeline/)** - LLM Timeline
@@ -549,7 +546,7 @@
 
 ***
 
-## ▷ Roleplaying Bots
+## ▷ Roleplaying Chatbots
 
 * 🌐 **[Ayumi LLM](http://ayumi.m8geil.de/ayumi_bench_v3_results.html)** or [BestERP](https://besterp.ai/) - Roleplaying LLM Lists
 * 🌐 **[Img-Resources](https://rentry.org/lmg-resources)** - LLM Character Resources / [Templates](https://rentry.org/lmg_template)
@@ -619,6 +616,7 @@
 * ⭐ **[Toolify](https://www.toolify.ai/)** - AI Directory
 * ⭐ **[Phygital Library](https://library.phygital.plus/)** - AI Directory / Workflow Builder
 * ⭐ **[AI-MF](https://whoisdsmith.gitbook.io/ai-mf/)** - AI Directory / [GitHub](https://github.com/whoisdsmith/AI-MTHRFCKR)
+* **[LifeArchitect](https://lifearchitect.ai/models-table/)** - LLM Index
 * [ToolDirectory](https://www.tooldirectory.ai/) - AI Directory
 * [Futurepedia](https://www.futurepedia.io/) - AI Directory 
 * [PowerUsers](https://powerusers.ai/) - AI Directory
