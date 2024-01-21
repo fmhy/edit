@@ -3477,7 +3477,8 @@ outline: false
 * [Text Link](https://piro.sakura.ne.jp/xul/textlink/index.html.en) - Make Non-Hyperlinked URLs Clickable 
 * [Link Alert](https://www.cwesson.net/projects/LinkAlert/) - Link Type Indicator 
 * [Mitaka](https://github.com/ninoseki/mitaka) - Domain Info Lookup Tool
-* [I still don't care about cookies](https://github.com/OhMyGuus/I-Still-Dont-Care-About-Cookies), [Cookie-AutoDelete](https://github.com/Cookie-AutoDelete/Cookie-AutoDelete) or [Consentomatic](https://consentomatic.au.dk/) - Auto Delete Cookies
+* [Cookie-AutoDelete](https://github.com/Cookie-AutoDelete/Cookie-AutoDelete) - Auto Delete Cookies
+* [I still don't care about cookies](https://github.com/OhMyGuus/I-Still-Dont-Care-About-Cookies) or [Consent-O-matic](https://consentomatic.au.dk/) / [2](https://github.com/cavi-au/Consent-O-Matic) - Block Cookie Consent Popups
 * [Cookie Quick Manager](https://github.com/ysard/cookie-quick-manager), [EditThisCookie](https://www.editthiscookie.com/) or [Cookie-Editor](https://cookie-editor.cgagnier.ca/) - Cookies Managers
 * [Get-cookies.txt](https://github.com/kairi003/Get-cookies.txt-LOCALLY) or [ExportCookies](https://github.com/rotemdan/ExportCookies) - Cookies Exporters
 * [Google Unblocked](https://github.com/Ibit-to/google-unlocked) - Uncensored Google Search
@@ -3551,7 +3552,6 @@ outline: false
 * [hide-scrollbars](https://github.com/quinton-ashley/firefox-hide-scrollbars) - Hide Browser Scrollbar
 * [AutoPagerize Advanced](https://addons.mozilla.org/en-US/firefox/addon/autopagerizeadvanced/) - Merge Multiple Pages
 * [Profile Switcher](https://github.com/null-dev/firefox-profile-switcher) - Profile Manager
-* [Consent-O-Matic](https://github.com/cavi-au/Consent-O-Matic) - Non-Avast Fork / Block Cookie Consent Popups
 * [SoundFixer](https://github.com/valpackett/soundfixer) - Fixes Audio Playing in one Channel
 * [Volume Control Tabs](https://github.com/vzze/volume-control) - Control Individual Tab Volume
 * [Mute Sites By Default](https://github.com/abba23/mute-sites-by-default) - Mute All Sites by Default 
