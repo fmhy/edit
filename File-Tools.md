@@ -274,7 +274,6 @@
   
 ***
 
-* ⭐ **[Archive.org](https://archive.org/create/)** - Signup Required
 * ⭐ **[Pixeldrain](https://pixeldrain.com/)** - 20GB / 90 days / [Speedtest File](https://pixeldrain.com/api/misc/speedtest) / [Bypass](https://pixeldrain-bypass.cybar.xyz) / [Bypass Note](https://pastebin.com/Ab1mZXXV)
 * ⭐ **[Gofile](https://gofile.io/)** - Unlimited / 10 days
 * ⭐ **[FileDitch](https://fileditch.com/)** - 15GB / Forever
@@ -287,6 +286,7 @@
 * ⭐ **[Catbox.moe](https://catbox.moe/)** - 200MB / Forever
 * [MultiUp](https://multiup.io/), [MirrorAce](https://mirrorace.com/) or [Mirrorcreator](https://www.mirrored.to/) - Multi Host Uploaders
 * [Z-o-o-m](https://z-o-o-m.eu/) - Multi-Host Upload Desktop App
+* [Archive.org](https://archive.org/create/) - Signup Required
 * [send](https://send.vis.ee/) / [instances](https://gitlab.com/timvisee/send-instances)
 * [File.cm](https://file.cm/) - 100GB / 30 days / Signup Required
 * [edisk](https://www.edisk.cz/) - 10GB / 30 days
