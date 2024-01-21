@@ -641,6 +641,7 @@
 * [iPapkornBot](https://t.me/iPapkornBot) or [ProSearch4Bot](https://t.me/ProSearch4Bot) - Movies
 * [Mobile movies request bot](https://t.me/cc_mmrequestbot) - Movies / 480p
 * [مسلسلات اجنبية‬](https://rentry.co/FMHYBase64#%D9%85%D8%B3%D9%84%D8%B3%D9%84%D8%A7%D8%AA-%D8%A7%D8%AC%D9%86%D8%A8%D9%8A%D8%A9) - TV
+* [SolidarityCinema](https://www.solidaritycinema.com/) - Movies / [List](https://boxd.it/g0L)
 * [Remux Collection](https://rentry.co/FMHYBase64#17tb-mega-drive) - HD Movies
 * [4K Collection](https://rentry.co/FMHYBase64#4k-movie-collection) - HD Movies
 * [Unbeatable Banzuke](https://rentry.co/FMHYBase64#unbeatable-banzuke) - Unbeatable Banzuke
