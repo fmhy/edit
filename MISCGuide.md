@@ -321,7 +321,6 @@
 
 # ► News
 
-* 🌐 **[5000 Best News Sites](http://5000best.com/websites/News/)** - News Sites Index
 * 🌐 **[AllYouCanRead](https://www.allyoucanread.com/), [W3Newspapers.com](https://www.w3newspapers.com/), [World-Newspapers](https://world-newspapers.com/), [OnlineNewspapers](https://www.onlinenewspapers.com), [4IMN](https://www.4imn.com/) or [newspapersglobal](https://www.newspapersglobal.com/)** - Worldwide News Sites Indexes
 * 🌐 **[Current Events Wiki](https://en.m.wikipedia.org/wiki/Portal:Current_events)** or [Slower News](https://www.slowernews.com/) - Breaking News
 * ⭐ **[/m/news](https://www.reddit.com/user/nbatman/m/news/)** - News Multireddit
