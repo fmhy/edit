@@ -418,7 +418,7 @@
 * [BBTV](https://github.com/bttv-android/bttv) or [Frosty](https://www.frostyapp.io/) - Twitch Apps
 * [DankChat](https://github.com/flex3r/DankChat) - Talk in Multiple Twitch Chats at Once
 * [Viddit](https://play.google.com/store/apps/details?id=aculix.viddit.downloader) - Reddit Video Downloader
-* [Geddit](https://kaangiray26.github.io/geddit-app/), [Infinity Fork](https://github.com/KhoalaS/Infinity-For-Reddit), [FatBird](https://play.google.com/store/apps/details?id=com.niven.reddit&hl=en_US) - Reddit Clients
+*  [Infinity Fork](https://github.com/KhoalaS/Infinity-For-Reddit), [FatBird](https://play.google.com/store/apps/details?id=com.niven.reddit&hl=en_US) - Reddit Clients
 * [Offline Reddit](https://play.google.com/store/apps/details?id=yy.offlinereader) - Offline Reddit Client
 * [RedditOldResponsive](https://git.kaki87.net/KaKi87/userscripts/src/branch/master/redditOldResponsive) - Old Reddit Script
 * [Updoot](https://updoot.app/) - Reddit Saved Post / Comment Manager
