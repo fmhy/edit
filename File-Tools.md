@@ -456,7 +456,7 @@
 
 * ⭐ **[Mega-to-Google-Drive](https://github.com/menukaonline/Mega-to-Google-Drive)** - Transfer Files from Mega to GDrive
 * ⭐ **[Megabasterd](https://github.com/tonikelope/megabasterd)** - MEGA Quota Bypass / [Note](https://pastebin.com/BpS2mwKX)
-* ⭐ **[Mega_account_generator](https://github.com/qtchaos/py_mega_account_generator)** - Unlimited Upload Size / [Note](https://pastebin.com/mBax6WiG)
+* ⭐ **[Mega_account_generator](https://github.com/qtchaos/py_mega_account_generator)** - Unlimited Upload Size / [Note](https://pastebin.com/Jwuc5Tpf)
 * ⭐ **[MegaDoctor](https://github.com/tonikelope/megadoctor)** - Mega Upload Manager
 * [MEGASync](https://mega.io/desktop) - Mega Desktop App
 * [MegaCMD](https://mega.io/cmd) or [megatools](https://megatools.megous.com/) - Mega CLIs
