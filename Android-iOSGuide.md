@@ -42,10 +42,10 @@
 * [APKVision](https://apkvision.org/)
 * [APK Home](https://apkhome.io/)
 * [Release APK](https://forum.release-apk.com/)
-* [RockMods](https://www.rockmods.net/) - [Telegram](https://t.me/RBMods)
+* [RockMods](https://www.rockmods.net/) / [Telegram](https://t.me/RBMods)
 * [DL King](https://dl.king2net.com/soft%20android/)
 * [APKKit](https://apkkit.com/)
-* [Aero Apps](https://t.me/aerolla) - Modded Social Media Apps
+* [WhatsApp Aero](https://whatsaero.com) / [Instagram Aero](https://aeroinsta.com) / [Twitter (X) Aero](https://aerowitter.com) / [Telegram](https://t.me/aerolla) - Modded Social Media Apps
 
 ***
 
