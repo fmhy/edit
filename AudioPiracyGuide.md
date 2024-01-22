@@ -66,6 +66,8 @@
 * [Versefy](https://versefy.app/) - Lyrics
 * [SpotifyTools](https://spotifytools.romanello.xyz/) - Spotify Companion
 * [Playlist Randomizer](https://stevenaleong.com/tools/spotifyplaylistrandomizer) - Playlist Randomizer
+* [Playlist Sorter](https://www.playlistsorter.com/) - Sort Playlists
+* [Timelineify](https://www.timelineify.com/) - Sort Playlists by Release
 * [Trikatuka](http://trikatuka.aknakn.eu/) - Playlist Transfer
 * [Skiley](https://skiley.net/) - Playlist Manager
 * [Spotlistr](https://www.spotlistr.com/) - Playlist Converter
@@ -77,7 +79,6 @@
 * [Opslagify](https://opslagify.deruever.nl/) - Library Size
 * [awesome-spotify-stats](https://github.com/rimsiw/awesome-spotify-stats) - Listening Stats
 * [Tierify](https://davitg.com/projects/tierify/) - Tier Lists
-* [Timelineify](https://www.timelineify.com/) - Discog Timelines
 * [Kira](https://kira.vercel.app/) - Song Country Search
 * [spotify-account-generator](https://github.com/davide-acanfora/spotify-account-generator), [2](https://github.com/ALIILAPRO/spotify-account-creator) - Account Gen
 * [spotify-github-profile](https://github.com/kittinan/spotify-github-profile) - GitHub Display
