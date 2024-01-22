@@ -366,7 +366,7 @@
 * ⭐ **[Hotstream](https://hotstream.me/)** - Movies / Series / Anime / Live TV / Dub / 1080p / [Discord](https://hotstream.me/discord)
 * [MesFilms](https://mesfilms.top/) - Movies / TV / Cartoons / Anime / Sub / Dub / 1080p
 * [VoirFilmsHD](https://flashfilms-hd.top/) - Movies / TV / Cartoons / Anime / Sub / Dub / 720p
-* [Cinematheque](https://www.cinematheque-bretagne.bzh/) - Classic / Amateur Movies
+* [Cinémathèque de Bretagne](https://www.cinematheque-bretagne.bzh/) - Classic / Amateur Movies
 * [OtakuFR](https://otakufr.co/) - Anime / Sub / 1080p
 * [universanime](https://www.universanime.club/) - Anime / Sub / 1080p
 * [mavanimes](https://mavanimes.cc/) - Anime / Sub / 1080p
