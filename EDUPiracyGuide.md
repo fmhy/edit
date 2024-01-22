@@ -217,7 +217,7 @@
 
 # ► Learning Sites
 
-* 🌐 **[The Free Learning List](https://freelearninglist.org/)**, **[LearnAwesome](https://learnawesome.org/),** [Learn Anything](https://learn-anything.xyz/), [Learning Lab](https://learn.uno/), [Quester](https://quester.io/), [TutorAI](https://www.tutorai.me/), [Learney](https://maps.joindeltaacademy.com/), [WISC](https://www.wisc-online.com/) or [/sci/ guide](https://sites.google.com/site/scienceandmathguide/) - Learning Resources
+* 🌐 **[The Free Learning List](https://freelearninglist.org/)**, **[LearnAwesome](https://learnawesome.org/),** [Learning Lab](https://learn.uno/), [Quester](https://quester.io/), [TutorAI](https://www.tutorai.me/), [Learney](https://maps.joindeltaacademy.com/), [WISC](https://www.wisc-online.com/) or [/sci/ guide](https://sites.google.com/site/scienceandmathguide/) - Learning Resources
 * 🌐 **[Untools](https://untools.co/)** - Better Thinking Tools
 * 🌐 **[Awesome Educational Games](https://github.com/yrgo/awesome-educational-games)** - Educational Games Index
 * ↪️ **[Typing Tests / Games](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools#wiki_.25B7_typing_lessons)**
