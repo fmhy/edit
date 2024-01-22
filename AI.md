@@ -26,7 +26,7 @@
 # ► Open-Source Chatbots
 
 * 🌐 **[LLM Leaderboard](https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard)** - Open Source Chatbot Benchmark
-* 🌐 **[Transferormer Models Timeline](https://ai.v-gar.de/ml/transformer/timeline/)** - LLM Timeline
+* 🌐 **[Transformer Models Timeline](https://ai.v-gar.de/ml/transformer/timeline/)** - LLM Timeline
 * ⭐ **[HuggingChat](https://huggingface.co/chat/)** - Multi-Chatbots / [GitHub](https://github.com/huggingface/chat-ui)
 * ⭐ **[Pinokio](https://pinokio.computer/)** - Single Click AI Model Installer / [Discord](https://discord.gg/TQdNwadtE4)
 * ⭐ **[SillyTavern](https://github.com/SillyTavern/SillyTavern)** - Front-end for LLMs
