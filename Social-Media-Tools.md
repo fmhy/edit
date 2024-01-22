@@ -386,7 +386,7 @@
 * ⭐ **[Invidious](https://invidious.io/)** / [Instances](https://api.invidious.io/), [2](https://redirect.invidious.io/) / [Alt Frontend](https://github.com/bocchilorenzo/invuedious) / [TUI](https://github.com/darkhz/invidtui) or **[CloudTube](https://tube.cadence.moe/)** - FOSS YouTube Frontends
 * ⭐ **[FreeTube](https://freetubeapp.io/)** - Privacy-Based YouTube Client / [GitHub](https://github.com/FreeTubeApp/FreeTube)
 * [YouTube Notes](https://instadeq.com/youtube-notes/) - YouTube Note-Taking Frontend
-* [ViewTube](https://github.com/ViewTube/viewtube), [Piped](https://github.com/TeamPiped/Piped) / [2](https://piped.kavin.rocks/) / [3](https://piped-material.১.net/), [PSTube](https://github.com/prateekmedia/pstube), [Youtube-local](https://github.com/user234683/youtube-local), [yt.d0.cx](https://yt.d0.cx/) or [PokeTube](https://github.com/ashley0143/poketube) - Alternative YouTube Frontends
+* [ViewTube](https://github.com/ViewTube/viewtube), [Piped](https://github.com/TeamPiped/Piped) / [2](https://piped.kavin.rocks/) / [3](https://piped-material.১.net/), [PSTube](https://github.com/prateekmedia/pstube), [Youtube-local](https://github.com/user234683/youtube-local), [YouT-ube](https://www.yout-ube.com/), [yt.d0.cx](https://yt.d0.cx/) or [PokeTube](https://github.com/ashley0143/poketube) - Alternative YouTube Frontends
 
 ***
 
@@ -419,7 +419,7 @@
 
 * ⭐ **[Favoree](https://www.favoree.io/)** - Search / Discover YouTube Channels
 * ⭐ **[YouTube Advanced Search](https://playlists.at/youtube/search/)** - Search Engine
-* ⭐ **[Filmot](https://filmot.com/)** or [ytks](https://ytks.app/) - Search within YouTube Transcripts
+* ⭐ **[Filmot](https://filmot.com/)** or [ytks](https://ytks.app/) - Search within YouTube Transcripts / [Firefox](https://addons.mozilla.org/en-US/firefox/addon/youtube-captions-search/) / [Chrome](https://chromewebstore.google.com/detail/youtube-captions-search/kimbeggjgnmckoikpckibeoaocafcpbg)
 * [YouTube Search Fixer Suite](https://addons.mozilla.org/en-US/firefox/addon/youtube-suite-search-fixer/) - Fix YouTube Search / Declutter Homepage
 * [Channel Crawler](https://channelcrawler.com/eng) or [YT-FTS](https://github.com/NotJoeMartinez/yt-fts) - Channel Search Tools
 * [Comment Viewer](https://commentviewer.com/), [Hadzy](https://hadzy.com/), [YCS](https://chromewebstore.google.com/detail/ycs-youtube-comment-searc/pmfhcilikeembgbiadjiojgfgcfbcoaaen) or [YCF](https://ytcomment.kmcat.uk/) - YouTube Comment Search
@@ -444,8 +444,7 @@
 * [HypeTrigger](https://hypetrigger.io/) - Automatically Create Clips
 * [Twitch Previews](https://github.com/MarkM-dev/Previews-client) or [Previews](https://previews-app.com/) - Twitch Video Previews
 * [Walrus](https://joinwalrus.tv/) - Make Twitch Watch Parties
-* [Twitch Replay](https://www.twitch-replay.com/), [Multi](https://multi.raredrop.co/), [MultiStre.am](https://multistre.am/) or [TwitchTheater](https://twitchtheater.tv/) - Sync Twitch Videos w/ Friends
-* [VodSync](https://vodsync.tv/) - Sync Streamer Perspectives
+* [VodSync](https://vodsync.tv/), [MuliTwitch.tv](https://multitwitch.tv/), [MultiTwitch.co](https://multitwitch.co/), [Twitch Replay](https://www.twitch-replay.com/), [Multi](https://multi.raredrop.co/), [MultiStre.am](https://multistre.am/) or [TwitchTheater](https://twitchtheater.tv/) - Sync Twitch Videos w/ Friends
 * [Twitch Lurker](https://github.com/mikeyaworski/Twitch-Lurker) - Twitch Stream Auto-Open
 * [Unwanted Twitch](https://github.com/kwaschny/unwanted-twitch) - Hide Twitch Categories / Channels
 * [Ultrawidify](https://github.com/tamius-han/ultrawidify) - Fix Twitch Aspect Ratio
