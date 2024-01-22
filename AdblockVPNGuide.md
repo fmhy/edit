@@ -10,7 +10,6 @@
 * ↪️ **[Spotify Adblockers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/audio#wiki_.25B7_spotify_adblockers)**
 * ⭐ **[Adblock Tester](https://adblock-tester.com/)** or [AdBlocker Test](https://d3ward.github.io/toolz/adblock.html) - Adblocking Tests
 * [uBO-bypass-yt](https://drhyperion451.github.io/does-uBO-bypass-yt/) - Check if uBlock Filters are bypassing YouTube Anti-Adblock
-* [YouT-ube](https://www.yout-ube.com/) - Ad-Free YouTube Web Player
 
 ***
 
@@ -25,7 +24,6 @@
 * [fadblock](https://github.com/0x48piraj/fadblock) or [Disable YT Video Ads](https://greasyfork.org/en/scripts/32626) - YouTube Adblockers
 * [Adguard](https://github.com/AdguardTeam/AdguardBrowserExtension#installation) - Adblocker
 * [AdNauseam](https://adnauseam.io/) - Adblocker / Fakes Clicks to Confuse Tracking
-* [JustRead](https://justread.link/) - Ad-Free Article Viewer
 
 ***
 
@@ -66,7 +64,7 @@
 * [Quad9](https://quad9.net/) - Malware, Phishing, Spyware & Botnet DNS Protection
 * [Stubby](https://github.com/getdnsapi/stubby) - DNS Stub Resolver
 * [NextDNS](https://nextdns.io) - DNS Adblocking / [Leak Warning](https://redd.it/jt28e8) / [Guide](https://github.com/yokoffing/NextDNS-Config) / [Video](https://youtu.be/WUG57ynLb8I)
-* [DuckDNS](https://www.duckdns.org/), [FreeDNS](https://freedns.afraid.org/), [NoIP](https://www.noip.com/), [FreeMyIP](https://freemyip.com/) or [Desec](https://desec.io/) - Dynamic DNS Service
+* [DuckDNS](https://www.duckdns.org/), [FreeDNS](https://freedns.afraid.org/), [NoIP](https://www.noip.com/) or [Desec](https://desec.io/) - Dynamic DNS Service
 * [Phishing Army](https://phishing.army/) - DNS Phishing Blocklist
 * [BIND](https://gitlab.isc.org/isc-projects/bind9) - Portable DNS Protocol
 * [Maza](https://maza-ad-blocking.andros.dev/) - Local DNS Adblocking 
@@ -105,9 +103,9 @@
 * ⭐ **[How to Avoid Malware](https://www.reddit.com/r/Piracy/wiki/browsing_and_downloading_guide)** - Malware Avoidance Guide
 * ⭐ **[Guide4VirusTotal](https://rentry.org/Guide4VirusTotal)** - Virus Scan Results Guide / [Source](https://www.reddit.com/r/Piracy/comments/n62da6/comment/gx4whhz/)
 * ⭐ **[Sandboxie Plus](https://sandboxie-plus.com/)**, [Windows Sandbox](https://learn.microsoft.com/en-us/windows/security/application-security/application-isolation/windows-sandbox/windows-sandbox-overview) or [Virtual Machines](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/system-tools#wiki_.25B7_virtual_machines) - Sandbox Environments / [Guide](https://rentry.co/sandboxie-guide)
-* ⭐ **[AdwCleaner](https://www.malwarebytes.com/adwcleaner/)** or [Ultra Adware Killer](https://www.carifred.com/ultra_adware_killer/) - Anti-Adware
+* ⭐ **[AdwCleaner](https://www.malwarebytes.com/adwcleaner/)** - Anti-Adware
 * ⭐ **[Malwarebytes Premium](https://rentry.co/fmhybase64#malwarebytes-prem)** / [Unlimited Trials](https://rentry.co/mbforever) - Antivirus
-* ⭐ **[Security / Antivirus Multireddit](https://old.reddit.com/user/goretsky/m/security/)**
+* ⭐ **[Security / Antivirus Multireddit](https://www.reddit.com/user/goretsky/m/security/)**
 * [BleepingComputer Forums](https://www.bleepingcomputer.com/forums/f/22/virus-trojan-spyware-and-malware-removal-help/), [Malwarebytes Forums](https://forums.malwarebytes.com/forum/7-windows-malware-removal-help-support/) or [Sysnative Forums](https://www.sysnative.com/forums/forums/security-arena.66/) - Malware Removal Help Forums / [Note](https://pastebin.com/0mrmPXgz)
 * [RevealQR](https://revealqr.app/) - Scan QR Codes
 * [Pi.Alert](https://github.com/pucherot/Pi.Alert), [Zeek](https://zeek.org/), [Nmap](https://nmap.org/) / [Results](https://nmap.org/ndiff/), [Kismet](https://www.kismetwireless.net/), [ntop](https://www.ntop.org/), [Sniffnet](https://www.sniffnet.net/) or [Rotty](https://github.com/RoseSecurity/Rotty.py) - Network Monitors
@@ -315,7 +313,7 @@
 ## ▷ Frontends
 
 * 🌐 **[Alt Frontends](https://github.com/mendel5/alternative-front-ends)** / [2](https://rentry.co/8kqrrn), [Farside](https://farside.link/) or [alternative-frontends](https://github.com/digitalblossom/alternative-frontends) - Frontend Indexes
-* ↪️ **[YouTube Frontends](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_youtube_frontends)**
+* ↪️ **[YouTube Frontends](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/social-media#wiki_.25B7_youtube_frontends)**
 * ⭐ **[LibreDirect](https://libredirect.github.io/)** / [2](https://github.com/libredirect/libredirect), [Predirect](https://github.com/libreom/predirect) or [Proxy Redirect](https://openuserjs.org/scripts/sjehuda/Proxy_Redirect) - Frontend Redirect Extensions
 * [Numblr](https://github.com/heyLu/numblr) - Self-Hosted Frontend Redirect
 * [Photon](https://photon-reddit.com/) or [redlib](https://github.com/redlib-org/redlib) - Reddit Frontends
