@@ -127,7 +127,7 @@
 
 ## ▷ Video Hosts
 
-* **Note** - These are good for finding classic, obscure and short films
+**Note** - These are good for finding classic, obscure and short films
 
 ***
 
@@ -553,7 +553,7 @@
 
 # ► Download Sites
 
-* **Note** - Use **[redirect bypassers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25B7_redirect_bypass)** to skip link shorteners
+**Note** - Use **[redirect bypassers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25B7_redirect_bypass)** to skip link shorteners
 
 ***
 
@@ -563,6 +563,7 @@
 * ⭐ **[Pahe](https://pahe.me/)** - Movies / TV / Anime / 4K / [Discord](https://discord.gg/4AvaCsd2J4) / [Redirect Buttons](https://greasyfork.org/en/scripts/443277)
 * ⭐ **[PSARips](https://psa.wf/)** - Movies / TV / 4K
 * ⭐ **[LightDLMovies](https://lightdl.xyz/)**, [2](https://lightdlmovies.blogspot.com/) - Movies / TV / 1080p
+* ⭐ **[VegaMovies](https://vegamovies.dad/)** - Movies / TV / Anime / 1080p / 4K / [Telegram](https://telegram.dog/VegamoviesTo_Official)
 * ⭐ **[Worlds Cinema](https://worldscinema.org/)** - Classic / Cult Films / 1080p
 * ⭐ **[MovieParadise](https://movieparadise.org/)** - Movies / TV / 1080p / Account Required for 1ficher links / [DM for Invite](https://www.reddit.com/message/compose?to=nbatman)
 * ⭐ **[Drama Day](https://dramaday.me/)** - Asian Drama / 1080p
@@ -652,7 +653,7 @@
 
 ## ▷ Anime Downloading
 
-* **Note** - Use **[redirect bypassers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25B7_redirect_bypass)** to skip link shorteners
+**Note** - Use **[redirect bypassers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25B7_redirect_bypass)** to skip link shorteners
 
 ***
 
@@ -691,7 +692,7 @@
 
 # ► Torrent Apps
 
-* **Note** - Remember to get a [VPN](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25BA_vpn) before torrenting
+**Note** - Remember to get a [VPN](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25BA_vpn) before torrenting
 
 ***
 
