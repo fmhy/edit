@@ -510,13 +510,13 @@
 * 🌐 **[Free AI Stuff](https://github.com/zukixa/cool-ai-stuff)** - AI APIs and Sites
 * ⭐ **[Microsoft Copilot](https://copilot.microsoft.com)** - GPT-4/3.5 Powered Search / [SydneyQT Jailbreak](https://github.com/juzeon/SydneyQt)
 * ⭐ **[LMSYS Chat](https://chat.lmsys.org/)** - GPT-4, Claude, Bard, Mistral and others, Multi-Chatbots
+* ⭐ **[Claude](https://claude.ai/)** - Anthropic's Chatbot
 * ⭐ **[ChatGPT](https://chat.openai.com/)** - GPT-3.5 Chatbot / [Discord](https://discord.com/invite/openai)
 * ⭐ **[Perplexity](https://www.perplexity.ai/)** - AI Powered Search / [Multiple Chatbots](https://labs.perplexity.ai/)
-* ⭐ **[Phind](https://www.phind.com/)** - GPT-3.5/4 Powered Search
 * ⭐ **[Ora](https://ora.ai/start)** - GPT-3.5 Based Chatbots
 * ⭐ **[Bard](https://bard.google.com/)** - Google's Chatbot
-* ⭐ **[Claude](https://claude.ai/)** - Anthropic's Chatbot
 * ⭐ **[Call Annie](https://callannie.ai/)** - GPT-3.5 Chatbot with Real-Time Voice and Video / [Discord](https://discord.gg/Rfbzet5R3v)
+* [Phind](https://www.phind.com/) - GPT-3.5 Powered Search
 * [Forefront](https://www.forefront.ai/) - GPT-3.5 / Claude-Instant Chatbot / [Discord](https://discord.com/invite/Wbc5cPPYSs)
 * [Pi](https://pi.ai/talk) - AI Chatbot
 * [GlobalGPT](https://www.globalgpt.nspiketech.com/#/) - AI Chatbot with Document Support
@@ -528,13 +528,13 @@
 * 🌐 **[LLM Leaderboard](https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard)** - Open Source Chatbot Benchmark
 * 🌐 **[Transformer Models Timeline](https://ai.v-gar.de/ml/transformer/timeline/)** - LLM Timeline
 * ⭐ **[HuggingChat](https://huggingface.co/chat/)** - Multi-Chatbots / [GitHub](https://github.com/huggingface/chat-ui)
-* ⭐ **[Pinokio](https://pinokio.computer/)** - Single Click AI Model Installer / [Discord](https://discord.gg/TQdNwadtE4)
 * ⭐ **[SillyTavern](https://github.com/SillyTavern/SillyTavern)** - Front-end for LLMs
 * ⭐ **[Mixtral 8x7b](https://huggingface.co/docs/transformers/model_doc/mixtral)** - Open Source LLM / [Guide](https://rentry.org/HowtoMixtral)
 * ⭐ **[llama.cpp](https://github.com/ggerganov/llama.cpp)** - Self-Host Transformer Based LLMs / [Guide](https://rentry.org/llama-mini-guide)
 * ⭐ **[kobold.cpp](https://github.com/LostRuins/koboldcpp)** - llama.cpp with API + GUI / [rocM](https://github.com/YellowRoseCx/koboldcpp-rocm) / [Colab](https://colab.research.google.com/github/LostRuins/koboldcpp/blob/concedo/colab.ipynb)
+* ⭐ **[Pinokio](https://pinokio.computer/)** - Single Click AI Model Installer / [Discord](https://discord.gg/TQdNwadtE4)
 * ⭐ **[Oobabooga Text Generation WebUI](https://github.com/oobabooga/text-generation-webui)** - Self-Host Models / [Colab](https://colab.research.google.com/github/pcrii/Philo-Colab-Collection/blob/main/4bit_TextGen_Gdrive.ipynb)
-* [Aphrodite Engine](https://github.com/PygmalionAI/aphrodite-engine) - Serve LLMs at Scale with Kobold, Ooba & OpenAI APIs / [Colab](https://colab.research.google.com/github/AlpinDale/misc-scripts/blob/main/Aphrodite.ipynb)
+* ⭐ **[Aphrodite Engine](https://github.com/PygmalionAI/aphrodite-engine)** - Serve LLMs at Scale with Kobold, Ooba & OpenAI APIs / [Colab](https://colab.research.google.com/github/AlpinDale/misc-scripts/blob/main/Aphrodite.ipynb)
 * [LLaVA](https://llava.hliu.cc/) - Chatbot with Image Support
 * [Petals](https://petals.dev/) - Self-Hosted 
 * [Jan.ai](https://jan.ai/) - Self-Hosted
