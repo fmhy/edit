@@ -1,7 +1,7 @@
 {
   "name": "fmhy",
   "type": "module",
-  "packageManager": "pnpm@8.7.6",
+  "packageManager": "pnpm@8.14.2",
   "scripts": {
     "docs:dev": "vitepress dev",
     "docs:build": "vitepress build",
@@ -16,8 +16,9 @@
     "postinstall": "nitropack prepare"
   },
   "dependencies": {
-    "@headlessui/vue": "^1.7.16",
+    "@headlessui/vue": "^1.7.17",
     "@resvg/resvg-js": "^2.6.0",
+    "vitepress": "npm:@taskylizard/vitepress@1.0.8",
     "consola": "^3.2.3",
     "feed": "^4.2.2",
     "fs-extra": "^11.2.0",
@@ -25,21 +26,20 @@
     "nitro-cors": "^0.7.0",
     "nitropack": "latest",
     "nprogress": "^0.2.0",
-    "pathe": "^1.1.1",
+    "pathe": "^1.1.2",
     "unocss": "^0.58.3",
-    "vitepress": "npm:@taskylizard/vitepress@1.0.8",
-    "vue": "^3.4.13",
+    "vue": "^3.4.15",
     "x-satori": "^0.1.5",
     "zod": "^3.22.4"
   },
   "devDependencies": {
-    "@iconify-json/carbon": "^1.1.21",
-    "@iconify-json/twemoji": "^1.1.12",
+    "@iconify-json/carbon": "^1.1.28",
+    "@iconify-json/twemoji": "^1.1.15",
     "@taskylizard/eslint-config": "^1.1.1",
     "@types/fs-extra": "^11.0.4",
-    "@types/node": "^20.8.9",
+    "@types/node": "^20.11.5",
     "@types/nprogress": "^0.2.3",
     "eslint": "^8.56.0",
-    "prettier": "^3.2.1"
+    "prettier": "^3.2.4"
   }
 }
