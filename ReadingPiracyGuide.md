@@ -885,6 +885,7 @@
 * [PDF Magazines Download](https://pdf-magazines-download.com/)
 * [PDF Magaz](https://www.pdfmagaz.in/)
 * [FreePDFMagazine](https://www.freepdfmagazine.com/)
+* [AEBooks](https://aebook.net/)
 * [freemagazines](https://freemagazines.top/)
 * [Calameo](https://calameo.com/)
 * [FreeMagazinePDF](https://freemagazinespdf.com/)
@@ -920,12 +921,15 @@
 * [dailynewspaper88](https://t.me/dailynewspaper88) - Telegram
 * [Chronicling America](https://chroniclingamerica.loc.gov/newspapers/)
 * [Kiosko](https://en.kiosko.net/)
+* [AEBooks](https://aebook.net/)
+* [EurekaDDL](https://eurekaddl.hair/newspapers/)
 * [Newspapers com](https://newspapers.com/)
 * [ThoughtCo](https://www.thoughtco.com/us-historical-newspapers-online-by-state-1422215)
 * [Library of Congress Newspapers](https://guides.loc.gov/foreign-newspapers/digital-resources)
 * [Archive.org Newspapers](https://rentry.co/FMHYBase64#archiveorg-newspapers)
 * [World-Newspapers](https://world-newspapers.com/), [NewsPaperIndex](https://www.newspaperindex.com/) or [Paperboy](https://www.thepaperboy.com/) - Online Newspaper Indexes
 * [LA Times](https://latimes.newspapers.com/)
+* [Front Pages](https://www.frontpages.com/) - Newspaper Front Pages
 * [NYTimes-Compose](https://github.com/akshay2211/NYTimes-Compose) - NY Times Top Story App
 * [Europeana Newspapers](https://www.europeana.eu/en/collections/topic/18-newspapers) - European Historical Newspapers
 * [Newspaper Map](https://newspapermap.com/) - Find / Translate Worldwide Newspapers
