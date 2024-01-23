@@ -390,7 +390,7 @@
 * [mebm](https://bwasti.github.io/mebm/)
 * [Crop Video](https://crop-video.com/) - Crop Videos
 * [LoopVid](https://loopvid.kastden.org/) - Loop Videos
-* [Croosfade](https://crossfade.io/) - Video and Audio Crossfading
+* [Crossfade](https://crossfade.io/) - Video and Audio Crossfading
 * [VidLouder](https://www.videolouder.com/) - Increase Video Volume
 
 ***
