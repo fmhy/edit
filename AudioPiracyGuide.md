@@ -6,11 +6,9 @@
 # ► Spotify Clients
 
 * ⭐ **[Spotify Desktop](https://www.spotify.com/us/download/)**
-* [Lofi Rocks](https://www.lofi.rocks/)
-* [ncspot](https://github.com/hrkfdn/ncspot)
-* [Strix](https://www.strixmusic.com/)
-* [Ruurd](https://github.com/RuurdBijlsma/Music)
-* [SpoTube](https://spotube.netlify.app/)
+* [Ruurd](https://github.com/RuurdBijlsma/Music) - Feature-Rich / Ad-Free Client
+* [SpoTube](https://spotube.netlify.app/) - Lightweight / Ad-Free Client
+* [Lofi Rocks](https://www.lofi.rocks/) - Tiny / Minimal Client
 * [Android TV Spotify](https://rentry.co/FMHYBase64#android-tv-spotify)
 * [Spotify Web Client](https://open.spotify.com/) / [Adblocker](https://gist.github.com/Simonwep/24f8cdcd6d32d86e929004013bd660ae) / [Mute Ads](https://github.com/guihkx/spotishush) / [Customize](https://github.com/Darkempire78/Spotify-Customizer) / [Lyrics](https://github.com/mantou132/Spotify-Lyrics)
 
@@ -20,7 +18,7 @@
 
 * ⭐ **[SpotX](https://github.com/amd64fox/SpotX)** - [Telegram](https://t.me/SpotxCommunity)
 * ⭐ **[BlockTheSpot](https://github.com/mrpond/BlockTheSpot)** - [Discord](https://discord.gg/9tCNMFESuC)
-* [spotify-ad-blocker-ezblocker](https://www.ericzhang.me/projects/spotify-ad-blocker-ezblocker/)
+* [spotify-ezblocker](https://www.ericzhang.me/projects/spotify-ad-blocker-ezblocker/)
 * [Unspotify](https://git.tcp.direct/dg/Unspotify)
 * [BurntSushi](https://github.com/OpenByteDev/burnt-sushi)
 * [Block Ad Host Files](https://gist.github.com/opus-x/3e673a9d5db2a214df05929a4eee6a57), [2](https://github.com/AlfonsoVergara-github/Host-to-block-ads-for-spotify)
