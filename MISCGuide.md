@@ -192,6 +192,7 @@
 * [Misery Map](https://flightaware.com/miserymap/) - Flight Delay Map
 * [FlightConnections](https://www.flightconnections.com/) - Interactive Flight Routes
 * [SkyVector](https://skyvector.com/) - Flight Planner
+* [FlyerTalk](https://www.flyertalk.com/forum/trending.php) - Frequent Flyers Forum
 * [SitInShade](https://sitinshade.com/) - Avoid the Sun While Traveling
 * [The International Dialects of English Archive](https://www.dialectsarchive.com/globalmap) - Dialect Map
 * [JoinUS World](https://www.joinusworld.org/) - Korean Culture Q&A Site
@@ -1228,6 +1229,7 @@
 * [FOAAS](https://github.com/tomdionysus/foaas) - Automate Telling People to F Off
 * [Busy Simulator](https://busysimulator.com/) - Pretend You're Busy
 * [PointerPointer](https://pointerpointer.com/) - Get Your Pointer Pointed At
+* [Splits](https://mana.works/splits) - Split or Fall
 * [Moments of Happiness](https://moments.epic.net/) - Animated WebGL Animals
 * [Pablo The Flamingo](https://pablotheflamingo.com/) - Party with Pablo
 * [The Pug in the Rug](https://puginarug.com/) - Watch the Pug be in the Rug
