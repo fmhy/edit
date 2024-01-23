@@ -30,25 +30,22 @@
 
 # ► Courses / Tutorials
 
+* 🌐 [Awesome Certificates](https://github.com/PanXProject/awesome-certificates), [Learn For Free](https://github.com/aviaryan/learn-for-free) or [Awesome Learning Dev](https://www.learndev.info/en) - Dev Course Indexes
 * 🌐 **[ProgrammingLearningResources](https://rentry.co/ProgrammingLearningResources)** or [A-to-Z-Resources-for-Students](https://github.com/dipakkr/A-to-Z-Resources-for-Students) - Programming Learning Resources
-* 🌐 **[Awesome Certificates](https://github.com/PanXProject/awesome-certificates)**, [Learn For Free](https://github.com/aviaryan/learn-for-free) or [Awesome Learning Dev](https://www.learndev.info/en) - Dev Course Indexes
-* 🌐 **[Audio Dev](https://audiodev.blog/newbie-resources/)** - Audio Programming Learning Resources
-* 🌐 **[Awesome Podcasts](https://github.com/rShetty/awesome-podcasts)** - Podcasts for Software Engineers
 * 🌐 **[Awesome YouTubers](https://github.com/JoseDeFreitas/awesome-youtubers)**, [Awesome-Youtube-Channels](https://github.com/epoyraz/Awesome-Youtube-Channels) or [Awesome YouTube Channels](https://github.com/benthecoder/yt-channels-DS-AI-ML-CS) - YouTube Dev Channels Indexes
-* 🌐 **[Awesome Microservices DotNet](https://github.com/mjebrahimi/Awesome-Microservices-DotNet)** - .Net Microservice Guides
+* ↪️ **[Programming Book Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/reading#wiki_.25B7_programming_books)** - Read / Download Programming Books
 * ↪️ **[Programming / Coding Tutorials](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_coding_tutorials)**
-* ⭐ **[O'Reilly](https://www.oreilly.com/)** - Tech / Programming / Courses / [Infinite Trial](https://pastebin.com/aJ4v55ae)
 * ⭐ **[freeCodeCamp](https://www.freecodecamp.org/)** - Programming / Courses / Interactive / [Odin Project](https://www.freecodecamp.org/learn/the-odin-project/)
-* ⭐ **[Free Courses by Xemu](https://rentry.co/FMHYBase64#free-courses-by-xemu)** - Programming Course Drives
-* ⭐ **[Programming Book Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/reading#wiki_.25B7_programming_books)** - Read / Download Programming Books
 * ⭐ **[StackOverflow](https://stackoverflow.com/)** / [Frontend](https://code.whatever.social/), [DecodingDevOps](https://www.decodingdevops.com/) or [Stack Roboflow](https://stackroboflow.com/) - Developer Q&A
+* [Audio Dev](https://audiodev.blog/newbie-resources/) - Audio Programming Learning Resources
+* [Awesome Podcasts](https://github.com/rShetty/awesome-podcasts) - Podcasts for Software Engineers
+* [Awesome Microservices DotNet](https://github.com/mjebrahimi/Awesome-Microservices-DotNet) - .Net Microservice Guides
 * [DZone](https://dzone.com/) - Developer Tutorials
 * [RedHat](https://developers.redhat.com/) - Development Tutorials
 * [Dev.tube](https://dev.tube/) - Developer Talks
 * [Roadmap](https://roadmap.sh/) - Developer Roadmaps / [GitHub](https://github.com/kamranahmedse/developer-roadmap)
-* [Programming Challenges](https://i.ibb.co/J3ppPQ3/5bdea0d754ac.png), [DevPost](https://devpost.com/), [HackTheEarth](https://www.hackerearth.com/challenges/), [EMKC](https://emkc.org/challenges) or [Code Golf](https://codegolf.stackexchange.com/) - Programming Challenges
-* [AtCoder](https://atcoder.jp/) or [Toph.co](https://toph.co/) - Programming Competitions
-* [Coding Problems](https://github.com/MTrajK/coding-problems) or [Rosetta Code](https://rosettacode.org/wiki/Rosetta_Code) - Solutions for Coding Problems
+* [Programming Challenges](https://i.ibb.co/J3ppPQ3/5bdea0d754ac.png) or [Code Golf](https://codegolf.stackexchange.com/) - Programming Challenges
+* [Rosetta Code](https://rosettacode.org/wiki/Rosetta_Code) - Solutions for Coding Problems
 * [RoboMind](https://www.robomind.net/) or [Checki0](https://checkio.org/) - Code Learning Games
 * [mimo](https://mimo.org/) - Coding Tutorial App
 * [Curated Programming Resources](https://github.com/Michael0x2a/curated-programming-resources) - Programming Courses
@@ -60,23 +57,15 @@
 * [Codecademy](https://www.codecademy.com/) - Coding Lessons 
 * [CodinGame](https://www.codingame.com/) - Games to Practice Coding / Programming 
 * [Advent of Code](https://adventofcode.com/) - Programming Puzzles
-* [Stack Exchange](https://stackexchange.com/) - Programming Q&A / [App](https://play.google.com/store/apps/details?id=me.tylerbwong.stack)
 * [Learn X in Y minutes](https://learnxinyminutes.com/), [2](https://github.com/adambard/learnxinyminutes-docs) - Programming Language Rundowns
-* [HEAD](https://htmlhead.dev/) - HTML head Element Guide
-* [Typing.io](https://typing.io/) - Typing Practice for Programmers 
 * [Karel The Robot](https://github.com/fredoverflow/karel) - Basic Programming Teaching Environment
 * [Project Based Learning](https://github.com/practical-tutorials/project-based-learning) - Collection of Project-Based Tutorials
-* [pointers-for-software-engineers](https://github.com/vicoyeh/pointers-for-software-engineers) or [Interview University](https://github.com/jwasham/coding-interview-university) - Software Engineer Study Guides
+* [Interview University](https://github.com/jwasham/coding-interview-university) - Software Engineer Study Guides
 * [soft-eng-interview-prep](https://github.com/orrsella/soft-eng-interview-prep) - Software Engineer Interview Preparation
-* [VSCode.one](https://vscode.one/) - VS Code Tutorials
-* [system-design-primer](https://github.com/donnemartin/system-design-primer) or [System Design](https://leanpub.com/systemdesign) / [GitHub](https://github.com/karanpratapsingh/system-design) - Large Scale System Design Guides
-* [Graphics Workshop](https://github.com/ekzhang/graphics-workshop) - Learn Computer Graphics
-* [SchoolOfHaskell](https://www.schoolofhaskell.com/) - Haskell Tutorials
+* [cs1000](https://cs1000.surge.sh/) - CS / Software Engineering
+* [system-design-primer](https://github.com/donnemartin/system-design-primer) - Large Scale System Design Guides
 * [LearnYouHaskell](http://learnyouahaskell.com/chapters) - Haskell Guide
-* [Learn to Program](https://pine.fm/LearnToProgram/) - Ruby Tutorials
 * [LearnGo](https://github.com/inancgumus/learngo) or [play-with-go](https://play-with-go.dev/) - Learn Go Programming
-* [Official Go Tutorial](https://go.dev/doc/tutorial/getting-started) or [Tutorial Edge Go](https://github.com/TutorialEdge/Go) - Go Programming Tutorials
-* [HowIStart Go](https://howistart.org/posts/go/1/) - Go Setup Guide
 * [Learn Perl](https://www.learn-perl.org/) - Learn Perl
 * [Rust Learning](https://github.com/ctjhoa/rust-learning) - Rust Learning Resources
 * [explaine.rs](https://jrvidal.github.io/explaine.rs/) - Rust Syntax Explanation
@@ -126,6 +115,7 @@
 * [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript) - Javascript Style Guide
 * [Javascript Today](https://blog.javascripttoday.com/) - Javascript Blog
 * [Untrusted](https://alexnisnevich.github.io/untrusted/) - Javascript Learning Game
+* [HEAD](https://htmlhead.dev/) - HTML head Element Guide
 * [DOM Events](https://domevents.dev/) - Learn about DOM Events
 * [backendlore](https://github.com/fpereiro/backendlore) - Backend Coding Guide
 * [backend-challenges](https://github.com/CollabCodeTech/backend-challenges) - Backend Challenges for Practice
@@ -154,6 +144,7 @@
 * [ProFantasy](https://rpgmaps.profantasy.com/) - Fantasy Map Making Tutorials
 * [Game Math](https://gamemath.com/book/intro.html) - Mathematics Lessons for Game Devs
 * [CHIP-8 Research](https://chip-8.github.io/) - CHIP-8 Research
+* [Graphics Workshop](https://github.com/ekzhang/graphics-workshop) - Learn Computer Graphics
 
 ***
 
@@ -184,6 +175,8 @@
 * [LintCode](https://www.lintcode.com/) or [CodeWars](https://www.codewars.com/) - Coding Practice
 * [Coding Questions](https://platform.stratascratch.com/coding) - Coding Interview Questions
 * [NeetCode](https://neetcode.io/) - Coding Interview Practice
+* [DevPost](https://devpost.com/), [HackTheEarth](https://www.hackerearth.com/challenges/), [EMKC](https://emkc.org/challenges), [AtCoder](https://atcoder.jp/) or [Toph.co](https://toph.co/) - Hackathon / Challenge Communities
+* [Coding Problems](https://github.com/MTrajK/coding-problems) - Coding Problems / Solutions
 * [Exercism](https://exercism.org/), [HackerRank](https://www.hackerrank.com/) or [CS Circles](https://cscircles.cemc.uwaterloo.ca/) - Programming Lessons
 * [CSES Problemset](https://cses.fi/problemset/) - Collection of Algorithmic Programming Problems
 
@@ -248,6 +241,7 @@
 * [Pentesting Bible](https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE) or [Juice Shop](https://owasp.org/www-project-juice-shop/) - Learn Pentesting
 * [iRed](https://www.ired.team/) - Red Teaming and Offensive Security
 * [Hacksplaining](https://www.hacksplaining.com/) - Developer Security Lessons
+* [sha256_project](https://github.com/oconnor663/sha256_project) - Applied Cryptography Course
 * [John Hammond](https://www.youtube.com/@_JohnHammond) or [LowLevelLearning](https://www.youtube.com/@LowLevelLearning/) - Cybersecurity YouTube Tutorials
 * [ClassyShark](https://github.com/google/android-classyshark) - Android/Java Bytecode Viewer
 
@@ -1106,6 +1100,7 @@
 * [ShellcodeTemplate](https://github.com/Cracked5pider/ShellcodeTemplate) - Modifiable Shellcode Template 
 * [egui](https://github.com/emilk/egui) - Rust GUI
 * [This Week in Rust](https://this-week-in-rust.org/) - Rust News / Updates
+* [CLI.rs](https://cli.rs/) - Free Domains for Rust Projects
 * [Diskord](https://gitlab.com/diskord/diskord) - Kotlin API Client for Discord
 * [lo](https://github.com/samber/lo) - Go Library
 * [py-modindex](https://docs.python.org/3/py-modindex.html) - Python Modules List / Tutorials
