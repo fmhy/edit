@@ -11279,7 +11279,7 @@ Linux Gaming Guide
 * ⭐ **[scrcpy](https://github.com/Genymobile/scrcpy)**, [PlainApp](https://github.com/ismartcoding/plain-app), [anl](https://anl.ink/), [WebADB](https://app.webadb.com/) or [QtScrcpy](https://github.com/barry-ran/QtScrcpy) - Control Android via Desktop / [GUI](https://guiscrcpy.srev.in/)
 * ⭐ **[ntfy](https://ntfy.sh/)** or [Notification Maker](https://play.google.com/store/apps/details?id=com.wagner.valentin.notificationmaker2) - Custom Push Notifications
 * ⭐ **[Magisk](https://github.com/topjohnwu/Magisk)**, [Magisk Monet](https://github.com/datnerdguy/Magisk-Monet), [MagiskOnWSALocal](https://github.com/LSPosed/MagiskOnWSALocal), [Pixel Launcher](https://github.com/saitamasahil/Pixel-Launcher-Extended) or [Mtk Easy Su](https://github.com/JunioJsv/mtk-easy-su) - Android Root Tools
-* ⭐ **Magisk Tools** - [Manager](https://github.com/MRepoApp/MRepo/) / [Mods](https://t.me/magiskmod_update) / [Support Layer](https://github.com/axonasif/rusty-magisk) / [SafetyNet Fix](https://github.com/kdrag0n/safetynet-fix) / [Modules](https://www.androidacy.com/magisk-modules-repository/) / [Alt Repo](https://github.com/Magisk-Modules-Alt-Repo)
+* ⭐ **Magisk Tools** - [Manager](https://github.com/MRepoApp/MRepo/) / [Mods](https://t.me/magiskmod_update) / [Support Layer](https://github.com/axonasif/rusty-magisk) / [SafetyNet Fix](https://github.com/chiteroman/PlayIntegrityFix) / [SafetyNet Fix Guide](https://xdaforums.com/t/module-play-integrity-fix-safetynet-fix.4607985/page-177#post-89189572) / [Modules](https://www.androidacy.com/magisk-modules-repository/) / [Alt Repo](https://github.com/Magisk-Modules-Alt-Repo)
 * ⭐ **[Termux](https://termux.com/)**, [Limbo](https://github.com/limboemu/limbo) or [TermOne Plus](https://termoneplus.com/) - Terminal Emulators / OS Environments
 * ⭐ **Termux Tools** - [YT-DL](https://github.com/OzakIOne/termux-youtube-dl), [2](https://github.com/khansaad1275/Termux-YTD) / [Video Downloader](https://github.com/AbirHasan2005/LR-YTDL) / [GUI](https://github.com/termux/termux-gui) / [ADB / Fastboot Tools](https://github.com/MasterDevX/Termux-ADB) / [Beautify](https://github.com/mayTermux/myTermux)
 * [Ubuntu on Android](https://github.com/RandomCoderOrg/ubuntu-on-android) - Ubuntu Android Emulator
@@ -11454,7 +11454,7 @@ Linux Gaming Guide
 ## ▷ Android Adblocking
 
 * ↪️ **[Twitch Adblockers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/social-media#wiki_.25B7_twitch_adblockers)**
-* ⭐ **[System Wide Adblocking](https://redd.it/oyfmr1) - System Wide Adblocking Guide
+* ⭐ **[System Wide Adblocking](https://redd.it/oyfmr1)** - System Wide Adblocking Guide
 * ⭐ **[AdGuard Premium](https://rentry.co/FMHYBase64#adguard-premium)** - Adblocking App
 * ⭐ **[Cromite](https://github.com/uazo/cromite)** or [jQuarks](https://f-droid.org/packages/com.oF2pks.jquarks/) - Adblocking Browser / [Filter](https://github.com/xarantolus/filtrite)
 * ⭐ **[RedReader](https://github.com/QuantumBadger/RedReader)** or [Stealth](https://f-droid.org/packages/com.cosmos.unreddit/) / [2](https://gitlab.com/cosmosapps/stealth) - Ad Free Reddit Clients
@@ -11565,6 +11565,7 @@ Linux Gaming Guide
 * [Geddit](https://kaangiray26.github.io/geddit-app/), [Infinity Fork](https://github.com/KhoalaS/Infinity-For-Reddit), [FatBird](https://play.google.com/store/apps/details?id=com.niven.reddit&hl=en_US) - Reddit Clients
 * [Offline Reddit](https://play.google.com/store/apps/details?id=yy.offlinereader) - Offline Reddit Client
 * [RedditOldResponsive](https://git.kaki87.net/KaKi87/userscripts/src/branch/master/redditOldResponsive) - Old Reddit Script
+* [OldLander](https://github.com/OctoNezd/oldlander) - Improve Old Reddit
 * [Updoot](https://updoot.app/) - Reddit Saved Post / Comment Manager
 * [MobiChan](https://github.com/Rukkaitto/mobichan), [Kuroba](https://github.com/K1rakishou/Kuroba-Experimental) / [2](https://github.com/Adamantcheese/Kuroba) or [Chan](https://github.com/moffatman/chan) - 4Chan Apps
 * [Instander](https://thedise.me/instander/) or [MyInsta](https://redd.it/1598xgk) / [Telegram](https://t.me/instasmashrepo) - Modded Instagram Clients / [Telegram](https://t.me/instander) / [Tools](https://play.google.com/store/apps/details?id=com.dageek.socialtoolbox_android) / [Secrets](https://ngl.link/) 
@@ -11588,6 +11589,7 @@ Linux Gaming Guide
 * [Endless](https://kaangiray26.github.io/endless/) - Combine Social Media Apps
 * [Eruda](https://pastebin.com/7qSZXjDS) - Mobile Browser Console / [Userscript](https://greasyfork.org/en/scripts/400760-console-for-mobile-browsers-eruda) / [GitHub](https://github.com/liriliri/eruda)
 * [Andure](https://github.com/leohku/andure) - Android Chrome Dev Tools
+* [GMS-Flags](https://github.com/polodarb/GMS-Flags) - Turn Google Flags On/Off
 * [MobiDevTools](https://addons.mozilla.org/en-US/firefox/addon/mobidevtools/) - Firefox Inspect Element
 * [FreeBrowser](https://freebrowser.org/) - Internet Censorship Circumvention / [Wiki](https://github.com/greatfire/wiki)
 * [Gnirehtet](https://github.com/Genymobile/gnirehtet) - Reverse Tethering
@@ -11688,8 +11690,6 @@ Linux Gaming Guide
 * [RBoard](https://forum.xda-developers.com/t/app-rboard-theme-manager.4331445/) / [GitHub](https://github.com/DerTyp7214/RboardThemeManagerV3), [Repainter](https://play.google.com/store/apps/details?id=dev.kdrag0n.dyntheme) or [Substratum](https://www.xda-developers.com/substratum-hub/) - Theme Managers
 * [AlwaysOnEdge](http://www.aoeapps.com/) or [Dashbud](https://dashbud.dev/) / [Discord](https://discord.com/invite/78h7xgj) - Android Customization Apps
 * [VirtualXposed](https://github.com/android-hacker/VirtualXposed) or [LSPosed](https://github.com/LSPosed/LSPosed) - Xposed Frameworks
-* [Palette](https://play.google.com/store/apps/details?id=com.ald.devs47.sam.beckman.palettesetups) - Custom Home Screens
-* [Codo Dodo](https://www.codododo.com/) - Navigation Bar Customization
 * [Panels](https://play.google.com/store/apps/details?id=com.fossor.panels&hl=en_US&gl=QA) or [1 Edge](https://play.google.com/store/apps/details?id=com.hiruffy.controller) - Android Sidebar Panel
 * [Statusbar Icon Hider](https://play.google.com/store/apps/details?id=com.cooliehat.statusbariconhider) - Hide Status Bar Items
 * [Substratum Tweaks](https://github.com/luisbocanegra/substratum-tweaks) - System Theme
@@ -11784,8 +11784,7 @@ Linux Gaming Guide
 * ⭐ **[Mobilism](https://forum.mobilism.org/app/)**, [Openlib](https://github.com/dstark5/Openlib) or [Project Gutenberg](https://github.com/Pool-Of-Tears/Myne) - Ebook Site Apps
 * ⭐ **[Librera](https://librera.mobi/)** or **[Lithium](https://play.google.com/store/apps/details?id=com.faultexception.reader)** - Ebook Reader
 * ⭐ **[Readera](https://play.google.com/store/apps/details?id=org.readera)** - PDF Reader
-* ⭐ **[Mihon](https://git.mihon.dev/)**, [TachiyomiJ2K](https://github.com/Jays2Kings/tachiyomiJ2K), [TachiyomiSY](https://github.com/jobobby04/TachiyomiSY), [TachiyomiAZ](https://github.com/az4521/TachiyomiAZ) or [Neko](https://github.com/nekomangaorg/Neko) - Manga Readers
-* ⭐ **Mihon Tools** - [Discord](https://discord.gg/mihon) / [Github](https://github.com/mihonapp/mihon) / [Extensions](https://keiyoushi.github.io/extensions/), [2](https://discord.gg/3FbCpdKbdY)
+* ⭐ **[Mihon](https://mihon.app/)** - Manga Reader / [Extensions](https://keiyoushi.github.io/extensions/), [2](https://discord.gg/3FbCpdKbdY) / [Forks](https://mihon.app/forks/)
 * ⭐ **[Kotatsu](https://kotatsu.app/)** - Manga Reader
 * [Openreads](https://github.com/mateusz-bak/openreads-android), [NeverTooManyBooks](https://github.com/tfonteyn/NeverTooManyBooks) or [Basmo](https://basmo.app/) - Book Managers / Trackers
 * [KafkaArchives](https://www.kafkaarchives.com/) - Archive.org Books / Audiobooks
@@ -11794,6 +11793,7 @@ Linux Gaming Guide
 * [Sav PDF Viewer Pro](https://github.com/Sav22999/sav-pdf-viewer-pro) or [Secure PDF Viewer](https://github.com/GrapheneOS/PdfViewer) - PDF Reader
 * [K2pdfopt](https://willus.com/k2pdfopt/) - Optimize PDF/DJVU Files for Mobile E-Readers
 * [Voice](https://github.com/PaulWoitaschek/Voice), [Smart Audiobook Player](https://play.google.com/store/apps/details?id=ak.alizandro.smartaudiobookplayer), [AudioAnchor](https://github.com/flackbash/AudioAnchor) or [eStories](https://play.google.com/store/apps/details?id=com.estories) - Audiobook Players
+* [Neko](https://github.com/nekomangaorg/Neko) - Manga Reader
 * [Perfect Viewer](https://rentry.co/FMHYBase64#perfect-viewer), [MangaDLR](https://bitbucket.org/cylonu87/mangadlr/downloads/), [Manga Reader](https://flathub.org/apps/details/com.georgefb.mangareader), [Manga Tag](https://www.mangatag.com/), [AnimeChicken](https://animechicken.app/), [Kinoko](https://github.com/gsioteam/kinoko) or [Atsumaru](https://github.com/TheUndo/Atsumaru) - Manga File Viewers
 * [IsManga Translator](https://ismanga.com/) - Manga Translator
 * [ComicScreen](https://play.google.com/store/apps/details?id=com.viewer.comicscreen) or [Seeneva](https://seeneva.app/) - Comic Readers
