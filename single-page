@@ -176,6 +176,7 @@
 ## ▷ Typing Lessons
 
 * ⭐ **[Monkey Type](https://monkeytype.com/)** - Customizable Typing Tests
+* [Typing.io](https://typing.io/) - Typing Tests
 * [keybr](https://www.keybr.com/) - Typing Tests 
 * [Typing.com](https://www.typing.com/) - Typing Tests 
 * [Typing Club](https://www.typingclub.com/) - Typing Tests 
