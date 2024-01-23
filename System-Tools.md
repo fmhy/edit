@@ -129,7 +129,7 @@
 * [PSReadLine](https://github.com/PowerShell/PSReadLine) - PowerShell Readline Implementation
 * [SystemNightware](https://github.com/GossiTheDog/SystemNightmare) - Instant System Command Prompt
 * [Starship](https://starship.rs/) - Cross-Shell Prompt
-* [GNU Parallelel](https://www.gnu.org/software/parallel/) - Execute Commands / Scripts in Parallel using Multiple Computers
+* [GNU Parallel](https://www.gnu.org/software/parallel/) - Execute Commands / Scripts in Parallel using Multiple Computers
 * [Command Not Found](https://command-not-found.com/) - Install Missing Commands
 * [Nushell](https://www.nushell.sh/) - Alt Shell
 * [GSudo](https://github.com/gerardog/gsudo) - Sudo Alternative for Windows
