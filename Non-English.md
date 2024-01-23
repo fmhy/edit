@@ -431,6 +431,7 @@
 
 ## ▷ Streaming
 
+* ⭐ **[HDFilme(https://hdfilme.best/)** - Movies / TV / Anime / Dub / 1080p
 * ⭐ **[kinoking](https://kinoking.cc/)** - Movies / TV / Anime / Dub / 1080p
 * [Kino](https://wwv.kino.ws/) - Movies / TV / Dub / 720p
 * [streamkiste](https://streamkiste.fan/) - Movies / TV / Dub / 1080p
@@ -666,7 +667,7 @@
 ## ▷ Downloading
 
 * ↪️ **[BMZone](https://rentry.co/FMHYBase64#bmzone)** - Anime / Sub / 1080p
-* [eurekaddl](https://eurekaddl.sbs/) - Video / Audio / Books / Magazines / Comics / NSFW / Sub / 1080p
+* [eurekaddl](https://eurekaddl.hair/) - Video / Audio / Books / Magazines / Newspapers / Comics / NSFW / Sub / 1080p
 * [OverDay](https://overday.info/) - Courses / Books
 * [HD4Me](https://hd4me.net/) - Movies / TV / Sub / 720p
 * [XDCC Mule](https://www.xdccmule.org/) - IRC Download Search
@@ -942,6 +943,7 @@
 
 ## ▷ Streaming
 
+* ⭐ **[wbijam](https://wbijam.pl/)** - Anime / Sub / 1080p
 * [FilmPolski](https://filmpolski.pl/fp/index.php) - Polish Video Archive
 * [Kinomoc](https://kinomoc.com/) - Movies / TV / Dub / 1080p
 * [Virpe](https://virpe.cc/) - Movies / TV
