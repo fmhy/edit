@@ -205,7 +205,6 @@
 * [Photovisi](https://www.photovisi.com/) or [PhotoJoiner](https://www.photojoiner.com/) - Collage Generators
 * [Tiler](https://github.com/nuno-faria/tiler) - Make Images out of Images
 * [NoiseDeck](https://noisedeck.app/) - Art Generator
-* [IllusionDiffusion](https://huggingface.co/spaces/AP123/IllusionDiffusion) - Illusion Artwork Generator
 * [Hugin](https://hugin.sourceforge.io/) - Panorama Image Generator
 * [PhotoEphemeris](https://photoephemeris.com/) - Photography Sunlight Calculator
 * [SuperDesigner](https://superdesigner.co/) or [Pattern Ninja](https://patterninja.com/) - Background / Pattern Designers
@@ -364,7 +363,7 @@
 
 * 🌐 **[Awesome Stock Resources](https://github.com/neutraltone/awesome-stock-resources#photography)** - Stock Photo Index
 * ⭐ **[EveryPixel](https://www.everypixel.com/)** or [LibreStock](https://librestock.com/) - Stock Photo Search Engines
-* ⭐ **[GetPaidStock](https://getpaidstock.com/)**, **[Downloader.la](https://downloader.la/)**, [VisualHunt](https://visualhunt.com/) or [istock](https://istock.7xm.xyz/) - Download Paid Stock Photos for Free
+* ⭐ **[GetPaidStock](https://getpaidstock.com/)**, **[Downloader.la](https://downloader.la/)**, [VisualHunt](https://visualhunt.com/), [SystemErrorStock](https://t.me/SystemErrorStock) or [istock](https://istock.7xm.xyz/) - Download Paid Stock Photos for Free
 * [Smithsonian Open Access](https://www.si.edu/OpenAccess) - Smithsonian High-Quality Photos
 * [desirefx](https://desirefx.me/category/stock_images/) - Stock Photo Overlays
 * [creativity103](https://creativity103.com/) - Abstract Background Photos
