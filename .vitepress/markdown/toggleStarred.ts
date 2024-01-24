@@ -8,10 +8,11 @@ export function toggleStarredPlugin(md: MarkdownRenderer) {
     if (
       !excluded.includes(env.frontmatter.title) &&
       contentToken &&
-      contentToken.content.startsWith("⭐")
+      contentToken.content.startsWith(":star:")
     ) {
       return `<li class="starred">`;
+    } else {
+      return self.renderToken(tokens, index, options);
     }
-    return self.renderToken(tokens, index, options);
   };
 }

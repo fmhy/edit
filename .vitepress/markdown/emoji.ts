@@ -11,6 +11,9 @@ export const defs = {
 
 export function emojiRender(md: MarkdownRenderer) {
   md.renderer.rules.emoji = (tokens, idx) => {
+    if (tokens[idx].markup.startsWith("star")) {
+      return `<span class="i-twemoji-${tokens[idx].markup} starred"></span>`;
+    }
     return `<span class="i-twemoji-${tokens[idx].markup}"></span>`;
   };
 }
