@@ -685,6 +685,7 @@
 * [namelix](https://namelix.com/) or [looka](https://looka.com/business-name-generator) - Business Name Generators
 * [AcronymCreator](https://acronymcreator.net/) - Business Acronym Generator
 * [Business Card Generator](https://business-card-generator.vercel.app/) - Business Card Generator
+* [Business Generator](https://business-generator.vercel.app/) -  AI business generator from requirements
 * [BS Generator](https://www.atrixnet.com/bs-generator.html) - Corporate Phrases Generator
 * [Recrooit](https://app.recrooit.com/job-description-generator) - Job Description Generator
 
