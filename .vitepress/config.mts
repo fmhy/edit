@@ -5,6 +5,7 @@ import { commitRef, feedback, meta, search, sidebar, socialLinks } from "./const
 import { generateImages, generateMeta, generateFeed } from "./hooks";
 import { toggleStarredPlugin } from "./markdown/toggleStarred";
 import { base64DecodePlugin } from "./markdown/base64";
+import { movePlugin, emojiRender, defs } from "./markdown/emoji";
 
 const baseUrl = process.env.GITHUB_ACTIONS ? "/FMHYedit" : "/";
 export default defineConfig({
@@ -41,10 +42,17 @@ export default defineConfig({
       .finally(() => consola.success("Success!"));
   },
   vite: {
+    optimizeDeps: { exclude: ["workbox-window"] },
     plugins: [
       UnoCSS({
         configFile: "../unocss.config.ts",
       }),
+      {
+        name: "custom:adjust-order",
+        configResolved(c) {
+          movePlugin(c.plugins as any, "vitepress", "before", "unocss:transformers:pre");
+        },
+      },
     ],
     build: {
       // Shut the fuck up
@@ -52,7 +60,9 @@ export default defineConfig({
     },
   },
   markdown: {
+    emoji: { defs },
     config(md) {
+      md.use(emojiRender);
       md.use(toggleStarredPlugin);
       md.use(base64DecodePlugin);
     },

@@ -53,6 +53,10 @@ def general(text: str):
     text = re.sub("## ▷", "###", text)
     text = re.sub("####", "###", text)
 
+    text = re.sub("⭐", ":star:", text)
+    text = re.sub("🌐", ":globe-with-meridians: ", text)
+    text = re.sub("↪️ ", ":repeat-button: ", text)
+
     text = re.sub(
         r"^\*\*Note\*\* - (.+)$", r":::tip\n\1\n:::", text, flags=re.MULTILINE
     )
