@@ -91,7 +91,7 @@
 * [The Interactive Fiction Page](https://www.cs.cmu.edu/~wsr/IF/) - Interactive Fiction Games
 * [VGPErson](https://vgperson.com/games/) or [Japanese PC Compendium](https://japanesepccompendium.blogspot.com/) - Japanese PC Games
 * [Minetest](https://www.minetest.net/) or [Cassicube](https://www.classicube.net/) - Open-Source Minecraft Alternatives
-* [Grasscutter](https://github.com/Grasscutters/Grasscutter) - Private Genshin Impact Servers
+* [Grasscutter](https://github.com/Grasscutters/Grasscutter) - Private Genshin Impact Servers / [Discord](https://discord.gg/T5vZU6UyeG)
 * [LunarCore](https://github.com/Melledy/LunarCore) - Private Honkai: Star Rail Servers
 * [OpenFortress](https://openfortress.fun/) - Team Fortress 2 Mod
 * [TF2 Classic](https://tf2classic.com/) - Team Fortress 2 Classic Mod
