@@ -6,6 +6,7 @@ import { generateImages, generateMeta, generateFeed } from "./hooks";
 import { toggleStarredPlugin } from "./markdown/toggleStarred";
 import { base64DecodePlugin } from "./markdown/base64";
 
+const baseUrl = process.env.GITHUB_ACTIONS ? "/FMHYedit" : "/";
 export default defineConfig({
   title: "FMHY",
   description: meta.description,
@@ -14,7 +15,7 @@ export default defineConfig({
   lastUpdated: false,
   cleanUrls: true,
   appearance: "dark",
-  base: process.env.GITHUB_ACTIONS ? "/FMHYEdit" : "/",
+  base: baseUrl,
   srcExclude: ["readme.md", "single-page"],
   ignoreDeadLinks: true,
   sitemap: {
