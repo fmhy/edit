@@ -22,6 +22,7 @@
 * [filebrowser](https://github.com/filebrowser/filebrowser/) or [Filext](https://filext.com/) - Online File Viewers
 * [File-Examples](https://file-examples.com/) - Dummy File Examples
 * [What](https://github.com/bee-san/pyWhat) - File Analyzer
+* [OpenHashTab](https://github.com/namazso/OpenHashTab) - Compare / Display File Hashes
 * [FilesMerge](https://www.filesmerge.com/) - Online File Merger
 * [WinMerge](https://winmerge.org/) - Compare / Merge Files & Folders
 * [Attribute Changer](https://www.petges.lu/) - Edit File & Folder Properties
