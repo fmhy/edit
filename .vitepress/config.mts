@@ -14,6 +14,7 @@ export default defineConfig({
   lastUpdated: true,
   cleanUrls: true,
   appearance: "dark",
+  base: process.env.GITHUB_ACTIONS ? "/fmhyedit" : "/",
   srcExclude: ["readme.md", "single-page"],
   ignoreDeadLinks: true,
   sitemap: {
