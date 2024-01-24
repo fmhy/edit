@@ -11,10 +11,10 @@ export default defineConfig({
   description: meta.description,
   titleTemplate: ":title • freemediaheckyeah",
   lang: "en-US",
-  lastUpdated: true,
+  lastUpdated: false,
   cleanUrls: true,
   appearance: "dark",
-  base: process.env.GITHUB_ACTIONS ? "/fmhyedit" : "/",
+  base: process.env.GITHUB_ACTIONS ? "/FMHYEdit" : "/",
   srcExclude: ["readme.md", "single-page"],
   ignoreDeadLinks: true,
   sitemap: {
