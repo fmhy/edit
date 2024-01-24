@@ -812,6 +812,7 @@
 * [Kokoa](https://kokoatv.net/) - Movies / TV / Sub / 1080p
 * [OnDemandKorean](https://www.ondemandkorea.com/) - Korean Movies / TV / 720p
 * [AQ Stream](https://aqstream.com/) - Live TV
+* [naver](https://chzzk.naver.com/) - Live Streams
 
 ## ▷ Reading
 
