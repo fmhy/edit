@@ -431,7 +431,7 @@
 
 ## ▷ Streaming
 
-* ⭐ **[HDFilme(https://hdfilme.best/)** - Movies / TV / Anime / Dub / 1080p
+* ⭐ **[HDFilme](https://hdfilme.best/)** - Movies / TV / Anime / Dub / 1080p
 * ⭐ **[kinoking](https://kinoking.cc/)** - Movies / TV / Anime / Dub / 1080p
 * [Kino](https://wwv.kino.ws/) - Movies / TV / Dub / 720p
 * [streamkiste](https://streamkiste.fan/) - Movies / TV / Dub / 1080p
