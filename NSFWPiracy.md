@@ -142,7 +142,7 @@
 * [Pornoslon](http://pornoslon.me/)
 * [PornBBS](https://pornbbs.org/)
 * [PornBB](https://www.pornbb.org/forum)
-* [Eroticity](https://eroticity.net/forum.php) - [Telegram](https://t.me/+tsnDzTFK30A5NTc0)
+* [Eroticity](https://eroticity.net/forum.php)
 * [CyberLeaks](https://cyberleaks.org/)
 * [PlanetSuzy](http://www.planetsuzy.org/)
 * [xFobo](https://xfobo.com/index.php)
