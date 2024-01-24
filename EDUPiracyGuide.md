@@ -113,7 +113,6 @@
 * ⭐ **[TutFlix](https://tutflix.org/)** - Courses / Drives
 * ⭐ **[OneHack](https://onehack.us/)** - Courses
 * ⭐ **[HackNation](https://hacksnation.com/)** - Courses
-* [OpenDir](https://rentry.co/FMHYBase64#course-drive) - Course Drive
 * [Course Download CSE](https://cse.google.com/cse?cx=a02efb0346a176b46) - Multi-Site Course Search
 * [CourseDL](https://rentry.co/FMHYBase64#coursedl) - Courses
 * [OpenDirectory](https://rentry.co/FMHYBase64#opendirectory) - Courses
@@ -157,15 +156,10 @@
 * [udemy-downloader](https://github.com/Puyodead1/udemy-downloader) - Udemy Downloader
 * [Udemy Download Guide](https://docs.google.com/document/d/1W91OS9rj7h9DBp5UwR68lA2zMEtqNmxdGaNVmBktIaw/) - [Discord](https://discord.gg/tMzrSxQ)
 * [LinkedIn_Learning](https://t.me/linkedin_learning) - LinkedIn Courses
-* [LinkedIn Learning Ripper](https://github.com/AKhilRaghav0/Linkedin_Learning_Ripper) - LinkedIn Course Ripper
 * [TheSecMaster](https://nitter.net/TheSecMaster1) - IT Courses
 * [CertCommunity](https://www.certcommunity.org/forum/) - IT Cert Courses
 * [Linux Interview Q&A's](https://rentry.co/FMHYBase64#top-linux-interview-qas) - Linux Interview Q&A
 * [Coursera-dl](https://github.com/coursera-dl/coursera-dl) - Download videos from Coursera
-* [avdshare](https://www.avdshare.com/udemy-downloader) - Download videos from Udemy
-* [Udemy Paid Courses Grabber](https://github.com/AmmeySaini/Udemy-Paid-Courses-Grabber) - Udemy Course Grabber
-* [UdemyCourseGrabber](https://github.com/keethesh/UdemyCourseGrabber) - Find Udemy Course Download Links
-* [Udacimak](https://github.com/udacimak/udacimak) - Udacity Nanodegree / Course Downloader
 * [firerip](https://github.com/lem6ns/firerip) - Fireship.io Course Grabber / [Script](https://greasyfork.org/en/scripts/455330-freeship)
 
 *** 
@@ -182,7 +176,6 @@
 * [DownloadFreeCourse](https://downloadfreecourse.com/) - Courses
 * [FreeCoursesOnline](https://freecoursesonline.me/) - Courses
 * [Docspedia](https://docspedia.world/) - Courses / Signup Required
-* [Paid Courses for Free](https://paidcoursesforfree.com/) - Udemy Courses
 * [Giga Course](https://gigacourse.com/) - Udemy Courses
 
 ***
