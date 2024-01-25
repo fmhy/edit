@@ -330,7 +330,7 @@
 
 * 🌐 **[Browser Games Rentry](https://rentry.org/zn79z)** - Browser Game Site Index
 * 🌐 **[Discord Games Lab](https://discord.gg/discordgameslab)** - Discord Games
-* 🌐 **[chat-gpt-games](https://github.com/AdmTal/chat-gpt-games)** - ChatGPT Games
+* 🌐 **[chat-gpt-games](https://github.com/AdmTal/chat-gpt-games)** - ChatGPT Games / [/r/ChatGPTGaming/](https://www.reddit.com/r/ChatGPTGaming/)
 * 🌐 **[Flashpoint](https://flashpointarchive.org/)** / [Discord](https://discord.gg/Z4gGtJvvn8) or [Flash Library](https://rentry.co/FMHYBase64#software-library-flash) - Flash Game Archives 
 * ↪️ **[Interactive Text Adventures](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_text_adventures)**
 * ⭐ **[Newgrounds](https://www.newgrounds.com/games)** - Browser Games
