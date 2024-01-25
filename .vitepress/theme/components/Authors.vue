@@ -1,39 +1,41 @@
 <script setup lang="ts">
-import { computed } from "vue";
+import { computed } from 'vue'
 
 const props = defineProps<{
-  authors: string[];
-}>();
+  authors: string[]
+}>()
 
 interface Author {
-  name: string;
-  github: string;
+  name: string
+  github: string
 }
 
 const data = [
   {
-    name: "nbats",
-    github: "https://github.com/nbats",
+    name: 'nbats',
+    github: 'https://github.com/nbats'
   },
   {
-    name: "Kai",
-    github: "https://github.com/Kai-FMHY",
+    name: 'Kai',
+    github: 'https://github.com/Kai-FMHY'
   },
   {
-    name: "taskylizard",
-    github: "https://github.com/taskylizard",
+    name: 'taskylizard',
+    github: 'https://github.com/taskylizard'
   },
   {
-    name: "zinklog",
-    github: "https://github.com/zinklog2",
+    name: 'zinklog',
+    github: 'https://github.com/zinklog2'
   },
   {
-    name: "Q",
-    github: "https://github.com/qiracy",
-  },
-] satisfies Author[];
+    name: 'Q',
+    github: 'https://github.com/qiracy'
+  }
+] satisfies Author[]
 
-const authors = computed(() => data.filter((author) => props.authors.includes(author.name)));
+const authors = computed(() =>
+  data.filter((author) => props.authors.includes(author.name))
+)
 </script>
 
 <template>
@@ -41,7 +43,7 @@ const authors = computed(() => data.filter((author) => props.authors.includes(au
     <div v-for="(c, index) of authors" class="flex gap-2 items-center">
       <img :src="`${c.github}.png`" class="w-8 h-8 rounded-full" />
       <a :href="c.github">{{ c.name }}</a>
-      <span v-if="index < authors.length - 1"> • </span>
+      <span v-if="index < authors.length - 1">•</span>
     </div>
   </div>
 </template>

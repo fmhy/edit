@@ -1,7 +1,8 @@
 <script setup lang="ts">
-import Switch from "./Switch.vue";
+import Switch from './Switch.vue'
 
-const toggleStarred = () => document.documentElement.classList.toggle("starred-only");
+const toggleStarred = () =>
+  document.documentElement.classList.toggle('starred-only')
 </script>
 
 <template>

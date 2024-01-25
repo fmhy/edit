@@ -1,15 +1,20 @@
 <script setup lang="ts">
-defineProps<{ title: string; description?: string }>();
+defineProps<{ title: string; description?: string }>()
 </script>
 
 <template>
   <div
     tw="w-full h-full bg-black flex flex-col"
-    style="background-image: url(https://fmhy.pages.dev/og.png)">
-    <div tw="p-10 w-full min-h-0 grow flex flex-col items-center justify-between">
+    style="background-image: url(https://fmhy.pages.dev/og.png)"
+  >
+    <div
+      tw="p-10 w-full min-h-0 grow flex flex-col items-center justify-between"
+    >
       <div tw="w-full flex justify-between items-center text-5xl font-medium">
         <div tw="flex items-center">
-          <div tw="text-zinc-100 ml-2 mt-1 font-semibold">freemediaheckyeah</div>
+          <div tw="text-zinc-100 ml-2 mt-1 font-semibold">
+            freemediaheckyeah
+          </div>
         </div>
       </div>
       <div tw="w-full pr-56 flex flex-col items-start justify-end">

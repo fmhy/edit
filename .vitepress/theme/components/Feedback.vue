@@ -1,48 +1,52 @@
 <script setup lang="ts">
-import { reactive, ref } from "vue";
-import { useRouter } from "vitepress";
-import { type FeedbackType, getFeedbackOption, feedbackOptions } from "../../types/Feedback";
+import { reactive, ref } from 'vue'
+import { useRouter } from 'vitepress'
+import {
+  type FeedbackType,
+  getFeedbackOption,
+  feedbackOptions
+} from '../../types/Feedback'
 
-const loading = ref<boolean>(false);
-const error = ref<unknown>(null);
-const success = ref<boolean>(false);
+const loading = ref<boolean>(false)
+const error = ref<unknown>(null)
+const success = ref<boolean>(false)
 
-const router = useRouter();
+const router = useRouter()
 
-const feedback = reactive<FeedbackType>({ message: "" });
+const feedback = reactive<FeedbackType>({ message: '' })
 
-async function handleSubmit(type?: FeedbackType["type"]) {
-  if (type) feedback.type = type;
-  loading.value = true;
+async function handleSubmit(type?: FeedbackType['type']) {
+  if (type) feedback.type = type
+  loading.value = true
 
   const body: FeedbackType = {
     message: feedback.message,
     type: feedback.type,
-    page: router.route.path,
-  };
+    page: router.route.path
+  }
 
   try {
-    const response = await fetch("https://feedback.tasky.workers.dev", {
-      method: "POST",
+    const response = await fetch('https://feedback.tasky.workers.dev', {
+      method: 'POST',
       headers: {
-        "Content-Type": "application/json",
+        'Content-Type': 'application/json'
       },
-      body: JSON.stringify(body),
-    });
+      body: JSON.stringify(body)
+    })
 
-    const data = await response.json();
+    const data = await response.json()
 
     if (data.error) {
-      error.value = data.error;
-      return;
+      error.value = data.error
+      return
     }
-    if (data.status === "ok") {
-      success.value = true;
+    if (data.status === 'ok') {
+      success.value = true
     }
   } catch (error) {
-    error.value = error;
+    error.value = error
   } finally {
-    loading.value = false;
+    loading.value = false
   }
 }
 </script>
@@ -61,7 +65,8 @@ async function handleSubmit(type?: FeedbackType["type"]) {
             v-for="item in feedbackOptions"
             :key="item.value"
             class="btn"
-            @click="handleSubmit(item.value as FeedbackType['type'])">
+            @click="handleSubmit(item.value as FeedbackType['type'])"
+          >
             <span>{{ item.label }}</span>
           </button>
         </div>
@@ -71,7 +76,11 @@ async function handleSubmit(type?: FeedbackType["type"]) {
           <p class="desc">Page: {{ router.route.path }}</p>
           <div>
             <span>{{ getFeedbackOption(feedback.type)?.label }}</span>
-            <button style="margin-left: 0.5rem" class="btn" @click="feedback.type = undefined">
+            <button
+              style="margin-left: 0.5rem"
+              class="btn"
+              @click="feedback.type = undefined"
+            >
               <span class="i-carbon-close-large">close</span>
             </button>
           </div>
@@ -80,19 +89,27 @@ async function handleSubmit(type?: FeedbackType["type"]) {
           v-model="feedback.message"
           autofocus
           class="input"
-          placeholder="What a lovely wiki!" />
+          placeholder="What a lovely wiki!"
+        />
         <p class="desc mb-2">
-          If you'd prefer to be contacted through another platform, feel free to mention it in the
-          message or join our
-          <a class="text-primary font-semibold text-underline" href="https://discord.gg/Stz6y6NgNg"
-            >Discord</a
-          >.
+          If you'd prefer to be contacted through another platform, feel free to
+          mention it in the message or join our
+          <a
+            class="text-primary font-semibold text-underline"
+            href="https://discord.gg/Stz6y6NgNg"
+          >
+            Discord
+          </a>
+          .
         </p>
         <button
           type="submit"
           class="btn btn-primary"
-          :disabled="feedback.message.length < 5 || feedback.message.length > 1000"
-          @click="handleSubmit()">
+          :disabled="
+            feedback.message.length < 5 || feedback.message.length > 1000
+          "
+          @click="handleSubmit()"
+        >
           Submit
         </button>
       </div>

@@ -19,10 +19,10 @@ jobs:
       - name: Setup Python
         uses: actions/setup-python@v4
         with:
-          python-version: "3.10"
+          python-version: '3.10'
 
       - name: Create local changes
         run: python .github/single-page.py
       - uses: stefanzweifel/git-auto-commit-action@v4
         with:
-          commit_message: "♻️ update single page"
+          commit_message: '♻️ update single page'

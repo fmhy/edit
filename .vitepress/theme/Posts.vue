@@ -1,14 +1,14 @@
 <!-- eslint-disable vue/require-v-for-key -->
 <script setup lang="ts">
-import { data as posts } from "./posts.data";
+import { data as posts } from './posts.data'
 
 const formatDate = (raw: string): string => {
-  const date = new Date(raw);
-  return date.toLocaleDateString("en-US", {
-    month: "short",
-    day: "numeric",
-  });
-};
+  const date = new Date(raw)
+  return date.toLocaleDateString('en-US', {
+    month: 'short',
+    day: 'numeric'
+  })
+}
 </script>
 
 <template>
@@ -28,11 +28,14 @@ const formatDate = (raw: string): string => {
       <ul>
         <li v-for="post of posts[year]" :key="post.url">
           <article>
-            <a :href="post.url" class="border-none">{{ post.title }}</a> -
+            <a :href="post.url" class="border-none">{{ post.title }}</a>
+            -
             <dl class="m-0 inline">
               <dt class="sr-only">Published on</dt>
               <dd class="m-0 inline">
-                <time :datetime="post.date" class="font-bold">{{ formatDate(post.date) }}</time>
+                <time :datetime="post.date" class="font-bold">
+                  {{ formatDate(post.date) }}
+                </time>
               </dd>
             </dl>
           </article>

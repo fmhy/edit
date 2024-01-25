@@ -1,20 +1,20 @@
 <script setup lang="ts">
-import { useData } from "vitepress";
-import Authors from "./components/Authors.vue";
+import { useData } from 'vitepress'
+import Authors from './components/Authors.vue'
 
 const props = defineProps<{
-  authors: string[];
-}>();
+  authors: string[]
+}>()
 
 const formatDate = (raw: string): string => {
-  const date = new Date(raw);
-  return date.toLocaleDateString("en-US", {
-    month: "short",
-    day: "numeric",
-  });
-};
+  const date = new Date(raw)
+  return date.toLocaleDateString('en-US', {
+    month: 'short',
+    day: 'numeric'
+  })
+}
 
-const { frontmatter } = useData();
+const { frontmatter } = useData()
 </script>
 
 <template>
@@ -22,6 +22,8 @@ const { frontmatter } = useData();
     {{ frontmatter.title }}
   </h3>
 
-  <span>{{ frontmatter.description }} • {{ formatDate(frontmatter.date) }}</span>
+  <span>
+    {{ frontmatter.description }} • {{ formatDate(frontmatter.date) }}
+  </span>
   <Authors :authors="props.authors" />
 </template>

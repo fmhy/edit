@@ -1,3 +1,3 @@
 export default eventHandler(() => {
-  return { nitro: "works" };
-});
+  return { nitro: 'works' }
+})

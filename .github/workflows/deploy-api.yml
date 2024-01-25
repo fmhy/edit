@@ -20,7 +20,7 @@ jobs:
       - uses: actions/setup-node@v3
         with:
           node-version: 18
-          cache: "pnpm"
+          cache: 'pnpm'
 
       - run: pnpm install --no-frozen-lockfile
 

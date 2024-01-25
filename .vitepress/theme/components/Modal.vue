@@ -1,12 +1,15 @@
 <script setup lang="ts">
-import { ref } from "vue";
-import Feedback from "./Feedback.vue";
+import { ref } from 'vue'
+import Feedback from './Feedback.vue'
 
-const showModal = ref(false);
+const showModal = ref(false)
 </script>
 
 <template>
-  <button class="p-[4px 8px] text-xl i-carbon:user-favorite-alt-filled" @click="showModal = true" />
+  <button
+    class="p-[4px 8px] text-xl i-carbon:user-favorite-alt-filled"
+    @click="showModal = true"
+  />
 
   <Teleport to="body">
     <Transition name="modal">
@@ -14,7 +17,9 @@ const showModal = ref(false);
         <div class="modal-container">
           <Feedback />
           <div class="model-footer">
-            <button class="modal-button" @click="showModal = false">Close</button>
+            <button class="modal-button" @click="showModal = false">
+              Close
+            </button>
           </div>
         </div>
       </div>
