@@ -76,11 +76,11 @@
 
 ## ▷ Single Server
 
+* ⭐ **[EE3](https://ee3.me/)** or [RIPS](https://rips.cc/) - Movies / 1080p / Invite Code: fmhy
 * ⭐ **[Nites](https://ww4.nites.is/)** - Movies / TV / 1080p
 * ⭐ **[KipFlix](https://kipflix.vercel.app/)** - Movies / TV / Anime / 1080p / [Discord](https://discord.gg/vNaRPZc75q)
 * ⭐ **[FSonic](https://www.fsonic.net/)** - Movies / 1080p
 * ⭐ **[Watch A Movie](https://watcha.movie/)** - Movies / TV / 1080p
-* ⭐ **[EE3](https://ee3.me/)** or [RIPS](https://rips.cc/) - Movies / 1080p / Invite Code: fmhy
 * ⭐ **[PressPlay](https://www.pressplay.top/)** - Movies / TV / 1080p / [Discord](https://discord.gg/r4QrghF4B9)
 * [FshareTV](https://fsharetv.co/), [2](https://fsharetv.io/) - Movies / 1080p
 * [RidoMovies](https://ridomovies.tv/) - Movies / 1080p
