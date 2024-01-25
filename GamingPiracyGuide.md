@@ -386,7 +386,6 @@
 * [PROXX](https://proxx.app/) - A Game of Proximity
 * [Universal paperclips](https://www.decisionproblem.com/paperclips/index2.html) - A Paperclip Creation Simulator 
 * [The Founder](https://thefounder.biz/) - Run a Start-Up
-* [PopTropica](https://www.poptropica.com/) - Browser Adventure Game
 * [TotalJerkFace](https://totaljerkface.com/) - Happy Wheels & Other Games
 * [ConnectTheStars](https://connectthestars.xyz/) or [Movie To Movie](https://movietomovie.com/) - Connect Stars through Movies
 * [Startup Simulator](https://toggl.com/startup-simulator/) - Startup Simulation Game
