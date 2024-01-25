@@ -471,7 +471,7 @@
 * [uiGradients](https://uigradients.com/) - Hex Gradients
 * [ShaderToy](https://www.shadertoy.com/browse) - User-Made Shaders
 * [Alphredo](https://alphredo.app/) - Create Translucent Colors
-* [Contrast Checker](https://contrast-checker.glitch.me/) or [contrastchecker](https://webaim.org/resources/contrastchecker/) - Background / Text Contrast Checker
+* [contrastchecker](https://webaim.org/resources/contrastchecker/) - Background / Text Contrast Checker
 
 ***
 
