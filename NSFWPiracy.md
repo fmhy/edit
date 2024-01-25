@@ -47,6 +47,7 @@
 * [Porndoe](https://porndoe.com/)
 * [Porndig](https://www.porndig.com/)
 * [anysex.com](https://anysex.com/)
+* [PreFap](https://prefap.com/)
 * [PornXpert](https://www.pornxpert.com/)
 * [PornHD3x](https://www.pornhd3x.tv/)
 * [FreeOnes](https://www.freeones.com/)
@@ -252,6 +253,7 @@
 * [OnlyFans420](https://rentry.co/OnlyFans420) / [2](https://rentry.org/OnlyFans421) - OnlyFans
 * [MissingToofff](https://missingtoofff.com/) - OnlyFans Leak Site List
 * [Thothub](https://thothub.to/), [2](https://thothub.is/) - OnlyFans
+* [OF-Scraper](https://github.com/datawhores/OF-Scraper) or [OF-DL](https://github.com/sim0n00ps/OF-DL) - OnlyFans Scrapers
 
 ***
 
@@ -379,6 +381,7 @@
 * [M-Hentai](https://m-hentai.net/) - Hentai Manga
 * [Doujins.com](https://doujins.com/) - Hentai Manga / [Discord](https://discord.com/invite/EPnJqPf7xh)
 * [Doujin.sexy](https://doujin.sexy/) - Hentai Manga
+* [177pica](http://www.177pica.com/) - Hentai Raws
 * [Hentaifromhell](https://hentaifromhell.org/) - Hentai Manga / Comics
 * [EggPornComics](https://eggporncomics.com/) - Hentai / Comics
 * [MyHentaiGallery](https://myhentaigallery.com/) - Comics
@@ -426,6 +429,7 @@
 * [Manhwas](https://www.manhwas.net/) - Spanish Pornhwa
 * [Mihentai](https://mihentai.com/) - Indo Hentai Manga
 * [TachiyomiSY](https://tachiyomi.org/forks/TachiyomiSY/) - Android Hentai
+* [Hentaiser](https://hentaiser.com/en/) - Android Hentai
 * [Violet](https://github.com/project-violet/violet) - Android Hentai/ [Discord](https://discord.com/invite/fqrtRxC)
 * [Hentoid](https://github.com/avluis/Hentoid) - Android Hentai / [Discord](https://discord.com/invite/QEZ3qk9)
 * [GalleryCherry](https://github.com/RobbWatershed/GalleryCherry) - Android Hentai / [Discord](https://discord.com/invite/waTF8vw)
@@ -500,6 +504,7 @@
 * [TheFetLibrary](https://www.thefetlibrary.com/) - Fictional
 * [Adult-Fanfiction](https://www.adult-fanfiction.org/) - Fanfiction
 * [HyperDreams](https://www.hyperdreams.com/) - Fictional / Interactive
+* [EroFights](https://erofights.com/) - Fictional / Chat-Based
 * [StoriesOnline](https://storiesonline.net/) - Fictional / Non-Fic
 * [IndianSexStories](https://www.indiansexstories2.net/) - Fictional / Non-Fic
 * [Sex Stories](https://www.sexstories.com/) - Fictional / Non-Fic
@@ -538,12 +543,12 @@
 
 # ► Tools
 
+* ⭐ **[Stash](https://stashapp.cc/)**, [Fapel System](https://github.com/pronopython/fapel-system), [Porn Vault](https://gitlab.com/porn-vault/porn-vault) or [AdultMediaManager](https://github.com/adultmm/AdultMediaManager) - Porn File Managers
 * ⭐ **[PornStarByFace](https://pornstarbyface.com/)** - NSFW Image Reverse Search
 * ⭐ **[SauceNao](https://saucenao.com/)** - Fictional NSFW Reverse Image Search / [Extension](https://saucenao.com/tools/)
 * ⭐ **[Internet Adult Film Database](https://www.iafd.com/)** or [MyPornStarBook](https://www.mypornstarbook.net/) - Adult Film Databases / Reviews
 * ⭐ **[NameThatPorn](https://namethatporn.com/)**, [NameThatPornstar](https://namethatpornstar.com/), [r/pornID](https://www.reddit.com/r/pornID/) or [r/tipofmypenis](https://www.reddit.com/r/tipofmypenis/) - Porn Identification Communities
 * ⭐ **[Vibemate PC](https://vibemate.com/)** - Feature-Rich Porn Browser
-* ⭐ **[Stash](https://stashapp.cc/)**, [Porn Vault](https://gitlab.com/porn-vault/porn-vault) or [AdultMediaManager](https://github.com/adultmm/AdultMediaManager) - Porn File Managers
 * ⭐ **[Bypass Subreddit Blocks](https://pastebin.com/gAAEQnqn)**
 * [Panic Button](https://pastebin.com/mDWBZ7fQ) - Quickly Close All Tabs
 * [Javinizer](https://github.com/javinizer/Javinizer) - JAV File Organizer
@@ -552,8 +557,9 @@
 * [Bypass Age Verification](https://greasyfork.org/en/scripts/393525-bypass-age-verification-deviantart-com) - Bypass Deviantart Age Restriction
 * [Sleazy Fork](https://sleazyfork.org/en/scripts) - Adult User Scripts
 * [Anal Sex Guide](https://github.com/regdude/anal) - Anal Sex Guide / Safety
-* [FapInstructor](https://fapinstructor.com/) - Fap Instructor Tool
+* [FapInstructor](https://fapinstructor.com/) or [Joi.how](https://joi.how/) - Fap Instructor Tools
 * [BDSM Tools](https://www.bdsmtools.org/) - BDSM Tools
+* [WallTalker](https://walltaker.joi.how/) - Control Wallpapers
 * [Awesome-Buttplug](https://github.com/buttplugio/awesome-buttplug) - Buttplug Project Index
 * [Buttplug.io](https://buttplug.io/) - Sex Toy Control Software
 * [Thunder's Place](https://thunders.place/) - Penis Enlargement Discussion & Safety
@@ -564,7 +570,8 @@
 
 # ► Porn Quitting
 
-* ⭐ **[EasyPeasy](https://easypeasymethod.org/)** - Painlessly Quit Pornography
+* 🌐 **[Awesome-Adult-Content-Filtering](https://github.com/wesinator/awesome-Adult-Content-Filtering)** - Porn Quitting Tools Index
+* ⭐ **[EasyPeasy](https://easypeasymethod.org/)**, [2](https://gitlab.com/snuggy/easypeasy) - Painlessly Quit Pornography
 * ⭐ **[NoFap Forums](https://forum.nofap.com/index.php)** or [Your Brain Rebalanced](https://yourbrainrebalanced.com/) - Forums
 * [beta-censoring](https://github.com/silveredgold/beta-censoring), [beta-protection](https://github.com/silveredgold/beta-protection) or [Wingman](https://github.com/wingman-jr-addon/wingman_jr) - Porn Blocking Extensions
 * [Block Site](https://add0n.com/block-site.html), [LeechBlock](https://www.proginosko.com/leechblock), [uBlacklist](https://iorate.github.io/ublacklist/docs), [TabWave](https://www.tabwave.app/), [Forest](https://pastebin.com/rYuAivA0), [StayFocused](https://www.stayfocusd.com/) or [Tomato Clock](https://github.com/samueljun/tomato-clock) - Site Blockers
