@@ -898,7 +898,7 @@
 * [Virtual World List](https://virtualworldslist.neocities.org/) - Virtual World List
 * [Hubs by Mozzila](https://hubs.mozilla.com/) - VRChat-like hangout room (PC & PCVR)
 * [Flat.Social](https://flat.social/f/hn-virtual-xmas) - Virtual Christmas Party
-* [Monkey](https://www.monkey.app/) or [Chatiw](https://www.chatiw.me/) - Random Chat Rooms
+* [Monkey](https://www.monkey.app/) - Random Chat Rooms
 * [Wireclub](https://www.wireclub.com/) - Topic Chat Rooms
 * [FandomPost](https://fandompost.vbulletin.net/) - Fandom Discussions
 * [AnimeSuki](https://forums.animesuki.com/) or [Fanverse](https://www.fanverse.org/) - Anime Discussion
