@@ -64,6 +64,10 @@ headers = {
     "UnsafeSites.md": ["Unsafe Sites", "Unsafe/harmful sites to avoid."],
 }
 
+title = '<div class="space-y-2 not-prose"><h1 class="text-4xl font-extrabold tracking-tight lg:text-5xl lg:leading-[3.5rem]">'
+
+description = '<p class="text-gray-500 dark:text-gray-400">'
+
 
 def getHeader(page: str):
     data = headers[page]
@@ -71,8 +75,8 @@ def getHeader(page: str):
     header += f'title: "{data[0]}"\n'
     header += f"description: {data[1]}\n"
     header += "---\n"
-    header += f"# {data[0]}\n"
-    header += f"{data[1]}\n\n"
+    header += f"{title}{data[0]}</h1>\n"
+    header += f"{description}{data[1]}</p></div>\n\n"
     return header
 
 

@@ -1,16 +1,15 @@
 import type { DefaultTheme } from 'vitepress'
 
 export const meta = {
-  name: 'FreeMediaHeckYeah',
+  name: 'freemediaheckyeah',
   description: 'The largest collection of free stuff on the internet!',
   hostname: 'https://fmhy.net',
   keywords: ['stream', 'movies', 'gaming', 'reading', 'anime']
 }
 
 export const commitRef = process.env.CF_PAGES
-  ? `<a href="https://github.com/fmhy/FMHYEdit/commit/${
-      process.env.CF_PAGES_COMMIT_SHA
-    }">${process.env.CF_PAGES_COMMIT_SHA.slice(0, 8)}</a>`
+  ? `<a href="https://github.com/fmhy/FMHYEdit/commit/${process.env.CF_PAGES_COMMIT_SHA
+  }">${process.env.CF_PAGES_COMMIT_SHA.slice(0, 8)}</a>`
   : 'dev'
 
 export const feedback = `<a href="/feedback" class="feedback-footer">Made with ❤️</a>`
@@ -55,7 +54,7 @@ export const socialLinks: DefaultTheme.SocialLink[] = [
   }
 ]
 
-export const sidebar: DefaultTheme.Sidebar = [
+export const sidebar: DefaultTheme.Sidebar | DefaultTheme.NavItemWithLink[] = [
   { text: '📛 Adblocking / Privacy', link: '/adblockvpnguide' },
   { text: '🤖 Artificial Intelligence', link: '/ai' },
   { text: '📺 Movies / TV / Anime', link: '/videopiracyguide' },
