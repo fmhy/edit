@@ -43,6 +43,7 @@
 * [LlamaFile](https://github.com/Mozilla-Ocho/llamafile) - Run LLMs w/ Single File
 * [Dify](https://dify.ai/) - Create AI Apps
 * [PlugBear](https://plugbear.io/) - Connect LLMs to Apps
+* [Generative AI for Beginners](https://github.com/microsoft/generative-ai-for-beginners) - Generative AI Guides
 
 ***
 
