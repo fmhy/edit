@@ -8634,7 +8634,7 @@ https://cari.institute/
 * 🌐 **[Manufacturer Specific](https://rentry.org/ekrw4)** - Manufacturer Specific Mobile Tools
 * ↪️ **[Device Comparisons](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25BA_shopping)**
 * ⭐ **[XDA](https://forum.xda-developers.com/)** - Android Discussion Forum
-* ⭐ **[Octi](https://github.com/d4rken-org/octi)** or [ADBAppControl](https://adbappcontrol.com/en/) - Android Device Managers / Root Tool / [Features](https://i.ibb.co/ZYysg2c/5546649b4d89.png)
+* ⭐ [ADBAppControl](https://adbappcontrol.com/en/) - Android Device Manager / Root Tool
 * ⭐ **[scrcpy](https://github.com/Genymobile/scrcpy)**, [PlainApp](https://github.com/ismartcoding/plain-app), [anl](https://anl.ink/), [WebADB](https://app.webadb.com/) or [QtScrcpy](https://github.com/barry-ran/QtScrcpy) - Control Android via Desktop / [GUI](https://guiscrcpy.srev.in/)
 * ⭐ **[ntfy](https://ntfy.sh/)** or [Notification Maker](https://play.google.com/store/apps/details?id=com.wagner.valentin.notificationmaker2) - Custom Push Notifications
 * ⭐ **[Magisk](https://github.com/topjohnwu/Magisk)**, [Magisk Monet](https://github.com/datnerdguy/Magisk-Monet), [MagiskOnWSALocal](https://github.com/LSPosed/MagiskOnWSALocal), [Pixel Launcher](https://github.com/saitamasahil/Pixel-Launcher-Extended) or [Mtk Easy Su](https://github.com/JunioJsv/mtk-easy-su) - Android Root Tools
@@ -8642,7 +8642,7 @@ https://cari.institute/
 * ⭐ **[Termux](https://termux.com/)**, [Limbo](https://github.com/limboemu/limbo) or [TermOne Plus](https://termoneplus.com/) - Terminal Emulators / OS Environments
 * ⭐ **Termux Tools** - [YT-DL](https://github.com/OzakIOne/termux-youtube-dl), [2](https://github.com/khansaad1275/Termux-YTD) / [Video Downloader](https://github.com/AbirHasan2005/LR-YTDL) / [GUI](https://github.com/termux/termux-gui) / [ADB / Fastboot Tools](https://github.com/MasterDevX/Termux-ADB) / [Beautify](https://github.com/mayTermux/myTermux)
 * [Ubuntu on Android](https://github.com/RandomCoderOrg/ubuntu-on-android) - Ubuntu Android Emulator
-* [MobileSpectrum](https://mobilespectrum.org/) or [Spectrum Ownership Map](https://specmap.sequence-omega.net/) - Mobile Network Comparisons
+* [Spectrum Ownership Map](https://specmap.sequence-omega.net/) - Mobile Network Comparisons
 * [Plexus](https://plexus.techlore.tech/) - De-googled Device Compatibility
 * [Automate](https://llamalab.com/automate/) or [AutomateIt](https://www.automateitapp.com/) - Android Automation
 * [AVNC](https://github.com/gujjwal00/avnc) or [DroidVNC-NG](https://github.com/bk138/droidVNC-NG) - Remote Desktop Clients / VNC
@@ -8660,7 +8660,6 @@ https://cari.institute/
 * [OLEDBuddy](https://play.google.com/store/apps/details?id=me.mikecroall.oledbuddy) - Fix OLED Images
 * [G-CPU](https://play.google.com/store/apps/details?id=com.insideinc.gcpu) - Hardware Monitor
 * [Electron](https://play.google.com/store/apps/details?id=com.mahersafadi.electron), [SaverTuner](https://codeberg.org/s1m/savertuner), [Charge Meter](https://play.google.com/store/apps/details?id=dev.km.android.chargemeter), [BatteryGuru](https://rentry.co/FMHYBase64#battery-guru), [Batt](https://gitlab.com/narektor/batt), [aBattery](https://play.google.com/store/apps/details?id=me.linshen.abattery) or [AccuBattery](https://play.google.com/store/apps/details?id=com.digibites.accubattery) - Battery Monitors / Managers
-* [BatteryChargeLimiter](https://github.com/MuntashirAkon/BatteryChargeLimiter) - Charging Control
 * [Pixoff](https://play.google.com/store/apps/details?id=com.urysoft.pixelfilter) - Save Battery by Turning Off Pixels
 * [DataMonitor](https://github.com/itsdrnoob/DataMonitor) - Data Usage Monitor
 * [Compass QS Tile](https://github.com/WSTxda/Compass-QS-Tile) or [QuickTiles](https://gitlab.com/asdoi/quick-tiles) - Quick Setting Tiles
@@ -8964,6 +8963,7 @@ https://cari.institute/
 
 * ⭐ **[SyncThing](https://github.com/Catfriend1/syncthing-android)** - File Sync
 * ⭐ **[Snapdrop Android](https://github.com/fm-sys/snapdrop-android)** - File Sync
+* ⭐ **[Octi](https://github.com/d4rken-org/octi)** - File Sync
 * [UnLim](https://play.google.com/store/apps/details?id=com.kratosle.unlim&gl=US) - Cloud Storage
 * [Round Sync](https://github.com/newhinton/Round-Sync), [MetaCTRL](https://metactrl.com/), [extRact](https://github.com/newhinton/extRact) or [FolderSync](https://www.tacit.dk/) - Multi-Site Cloud Storage File Managers
 * [dropbox](https://www.dropbox.com/) / [Sync](https://play.google.com/store/apps/details?id=com.ttxapps.dropsync) / [GUI](https://github.com/howeyc/crocgui) - Cloud Storage
