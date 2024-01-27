@@ -8,8 +8,9 @@ export const meta = {
 }
 
 export const commitRef = process.env.CF_PAGES
-  ? `<a href="https://github.com/fmhy/FMHYEdit/commit/${process.env.CF_PAGES_COMMIT_SHA
-  }">${process.env.CF_PAGES_COMMIT_SHA.slice(0, 8)}</a>`
+  ? `<a href="https://github.com/fmhy/FMHYEdit/commit/${
+      process.env.CF_PAGES_COMMIT_SHA
+    }">${process.env.CF_PAGES_COMMIT_SHA.slice(0, 8)}</a>`
   : 'dev'
 
 export const feedback = `<a href="/feedback" class="feedback-footer">Made with ❤️</a>`
