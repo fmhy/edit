@@ -7,7 +7,7 @@
 
 * ⭐ **[Spotify Desktop](https://www.spotify.com/us/download/)**
 * [Ruurd](https://github.com/RuurdBijlsma/Music) - Feature-Rich / Ad-Free Client
-* [SpoTube](https://spotube.netlify.app/) - Lightweight / Ad-Free Client
+* [SpoTube](https://spotube.netlify.app/), [2](https://spotube.krtirtho.dev/) - Lightweight / Ad-Free Client
 * [Lofi Rocks](https://www.lofi.rocks/) - Tiny / Minimal Client
 * [Android TV Spotify](https://rentry.co/FMHYBase64#android-tv-spotify)
 * [Spotify Web Client](https://open.spotify.com/) / [Adblocker](https://gist.github.com/Simonwep/24f8cdcd6d32d86e929004013bd660ae) / [Mute Ads](https://github.com/guihkx/spotishush) / [Customize](https://github.com/Darkempire78/Spotify-Customizer) / [Lyrics](https://github.com/mantou132/Spotify-Lyrics)
@@ -265,6 +265,7 @@
 # ► Audio Downloading
 
 * 🌐 **[Music Ripping Guide](https://ori5000.github.io/musicripping.html)**, **[Firehawk52](https://rentry.org/firehawk52)**, [MusicDL](https://rentry.org/musicdl) or [Florin](https://rentry.org/florinsmusicrippingguide) - Downloading / Ripping Guides
+* ⭐ **[DoubleDouble](https://doubledouble.top/)** - Multi-Site Downloader / 320kb / MP3 / FLAC / [Telegram](https://t.me/+AuKfQGOOLrFlOTZk)
 * ⭐ **[YTMDL](https://ytmdl.deepjyoti30.dev/)**, [MPS-YouTube](https://github.com/mps-youtube/yewtube) or [YT-DLP](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/social-media#wiki_.25B7_youtube_downloaders) - YouTube Audio Downloaders
 * ⭐ **[YouTube Ripping Guide](https://redd.it/vv27dy)**
 * ⭐ **[Slavart](https://discord.gg/EwvEHgqmsn)** - Multi-Site Audio Download App / [Divolt](https://slavart.divolt.xyz) / [Telegram](https://t.me/+9znaxmYJB5lkNzA8) / [Qobuz Copy](https://rentry.co/qobuz-slavart)
@@ -273,7 +274,8 @@
 * [/r/xTrill](https://reddit.com/r/xTrill) - Download App / [Backup](https://reddit.com/r/xTrillBackup)
 * [you-get](https://you-get.org/) or [irs](https://github.com/cooperhammond/irs) - Audio Command Line Download Tool
 * [Orpheus](https://github.com/yarrm80s/orpheusdl) - Music Ripper
-* [streamrip](https://github.com/nathom/streamrip) - Deezer, TIDAL, Qobuz, YouTube, and SoundCloud Downloader / [Colab](https://github.com/r-piratedgames/rip)
+* [streamrip](https://github.com/nathom/streamrip) - Multi-Site Downloader / [Colab](https://github.com/r-piratedgames/rip)
+* [SoundLoaders](https://www.soundloaders.com/) - Multi-Site Downloader
 * [GamDL](https://github.com/glomatico/gamdl) - Apple Music Downloader
 * [FreyrJS](https://github.com/miraclx/freyr-js) - Spotify, Deezer and Apple Music Downloader
 * [Song_downloaderbot](https://t.me/Song_downloaderbot), [DeezerMusicBot](https://t.me/DeezerMusicBot), [DeezloaderAn0n_bot](https://t.me/DeezloaderAn0n_bot) or [deezload2bot](https://t.me/deezload2bot) - Telegram Deezer Bots
@@ -296,7 +298,6 @@
 
 * 🌐 **[Music Education Masterlist](https://rentry.co/FMHYBase64#music-education-masterlist)**
 * ↪️ **[Royalty Free Music](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_royalty_free_music)**
-* ⭐ **[DoubleDouble](https://doubledouble.top/)** - Multi-Site Audio Download / 320kb / MP3 / FLAC / [Telegram](https://t.me/+AuKfQGOOLrFlOTZk)
 * ⭐ **[Free MP3 Download](https://free-mp3-download.net/)** - Search / 320kb / MP3 / FLAC
 * ⭐ **[Audio Download CSE](https://cse.google.com/cse?cx=006516753008110874046:ibmyuhh72io)** / [CSE 2](https://cse.google.com/cse?cx=006516753008110874046:ohobg3wvr_w) / [CSE 3](https://cse.google.com/cse?cx=32d85b41e2feacd3f) - Multi-Site Search
 * [The Last Disaster](https://thelastdisaster.vip/) - Metal / Hardcore / Rock / 320kb / MP3 / FLAC
@@ -537,7 +538,9 @@
 * [45Cat](https://www.45cat.com/) - Vinyl Ratings / Reviews
 * [TapeFear](https://www.tapefear.com/) or [SongsLikeX](https://songslikex.com/) - Spotify Song Discovery
 * [Spotalike](https://spotalike.com/), [playlist-generator](https://www.playlist-generator.com/), [Chat Jams](https://www.chatjams.ai/), [ChatGPTify](https://github.com/idilsulo/ChatGPTify), [MagicPlaylist](https://magicplaylist.co/), [Vibesition](https://vibesition.jordantwells.com/), [NautrualLanguage](https://www.naturallanguageplaylist.com/), [Highlights2SPotify](https://highlights2spotify.com/), [Ripple](https://ripple.orcas.land/) or [RadioNewify](https://radionewify.com/) - Spotify Playlist Generators
+* [Spoqify](https://spoqify.com/) - Anonymous Playlist Generator
 * [TuneMunk](https://www.tunemunk.com/) - Spotify Playlist Sharing
+* [Forgotify](https://forgotify.com/) - Songs w/ No Plays on Spotify
 * [MusitcTo](https://www.musicto.com/) - Musician Curated Playlists
 * [BoilTheFrog](http://boilthefrog.playlistmachinery.com/) - Create Playlist from 2 Artists
 * [UpcomingPlaylists](https://www.upcomingplaylists.com/) - Playlists of Artists Playing Live Near You
