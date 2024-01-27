@@ -52,6 +52,7 @@
 * [Music_Downloader_Bot_Spotify](https://t.me/Music_Downloader_Bot_Spotify) - Telegram Bot
 * [Motreeb](https://t.me/motreb_downloader_bot) - Telegram Bot
 * [telegvc_bot](https://t.me/telegvc_bot) - Telegram Bot
+* [spotifydownloadrobot](https://t.me/spotifydownloadrobot) - Telegram Bot
 * [spotifysavebot](https://t.me/spotifysavebot) - Telegram Bot
 * [SpotifyRipBot](https://t.me/SpotifyRipBot) - Telegram Bot
 
@@ -430,11 +431,11 @@
 
 ## ▷ Telegram Bots
 
-* ⭐ **[musicaiocloud](https://t.me/musicaiocloud)**, [MP3 downloader](https://t.me/TG_mp3downloader_bot), [scdlbot](https://t.me/scdlbot) or [Murglar](https://telegra.ph/murglar-en-05-12), [JioDLBot](https://t.me/JioDLBot) - Multi Site
-* [LyBot](https://t.me/LyBot), [YouTube Audio Bot](https://t.me/YtbAudioBot) or [YouTube Audio Download](https://t.me/YoutubeAudioDownloadBot) - YouTube
+* ⭐ **[musicaiocloud](https://t.me/musicaiocloud)**, [MP3 downloader](https://t.me/TG_mp3downloader_bot), [scdlbot](https://t.me/scdlbot) or [Murglar](https://telegra.ph/murglar-en-05-12), [BeatSpotBot](https://t.me/BeatSpotBot) or [JioDLBot](https://t.me/JioDLBot) - Multi Site
+* [LyBot](https://t.me/LyBot), [YouTube Audio Bot](https://t.me/YtbAudioBot), [ivkmbot](https://t.me/ivkmbot) or [YouTube Audio Download](https://t.me/YoutubeAudioDownloadBot) - YouTube
 * [Glomatico](https://t.me/GlomaticoAmazonMusicBot) - Amazon
 * [TidalMusic_DLbot](https://t.me/TidalMusic_DLbot) - Tidal
-* [VK Bot](https://t.me/vkmsaverbot) or [Meph Bot](https://t.me/mephbot) - VK
+* [VK Bot](https://t.me/vkmsaverbot), [vkmusbot](https://t.me/vkmusbot) or [Meph Bot](https://t.me/mephbot) - VK
 * [GlomaticoAppleMusicBot](https://t.me/GlomaticoAppleMusicBot) - Apple Music
 * [yamdbot](https://t.me/yamdbot) - Yandex
 * [Song ID](https://t.me/SongIDbot) - Shazam Alike
