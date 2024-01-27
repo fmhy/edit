@@ -724,6 +724,7 @@ https://cari.institute/
 * [Forvo](https://forvo.com/) or [HowJSay](https://howjsay.com/) - Pronunciation Dictionary
 * [The Internet TESL Journal](http://iteslj.org/) - Resources for EFL and ESL Teachers
 * [EFSET](https://www.efset.org/) - English Proficiency Test
+* [Spellcheck](https://spellcheck.xyz) - English Spelling Game
 * [Learn English Online](https://www.learn-english-online.org/), [ESLFast](https://www.eslfast.com/), [AntiMoon](https://www.antimoon.com/), [Oxford Online](https://www.oxfordonlineenglish.com/free-english-lessons) or [Cambridge Online](https://www.cambridgeenglish.org/learning-english/) - English Lessons
 * [EnglishCentral](https://www.englishcentral.com/) or [Voscreen](https://voscreen.com/) - English Video Lessons
 * [elllo](https://www.elllo.org/) or [Listening Lab](https://www.esl-lab.com/) - English Listening Lessons / Practice
