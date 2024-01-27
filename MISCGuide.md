@@ -702,6 +702,7 @@
 * [/r/BeerMoney](https://www.reddit.com/r/beermoney/) - Online Money Making Community
 * [Compound Interest Calculator](https://www.investor.gov/financial-tools-calculators/calculators/compound-interest-calculator) - Determine Compound Interest Money Growth
 * [GamestonkTerminal](https://github.com/OpenBB-finance/OpenBBTerminal), [OpenBB Terminal](https://openbb.co/) or [KoyFin](https://www.koyfin.com/) - Investment Research Tools
+* [YieldFinder](https://yieldfinder.app/) - Rates for Savings Accounts, Market Funds, and Treasuries
 * [WalletScrutiny](https://walletscrutiny.com/) - Verify Crypto Wallets are Open-Source / Secure
 * [Crypto Ecosystem 2021](https://docs.google.com/document/d/1RM7AoUKbXEqZ2qATTxGYLMexu3Jxrf3oYiwbsrXOXUQ) - Beginner's Guide to Crypto Ecosystem
 * [Cryptopedia](https://www.gemini.com/cryptopedia) or [Crypto Canon](https://a16zcrypto.com/posts/article/crypto-readings-resources/) - Crypto Learning Resources
@@ -733,7 +734,7 @@
 * [Facebook Ad Library](https://www.facebook.com/ads/library/) - Find Deals via Facebook Ad Search
 * [AllCraigslistSearch](https://allcraigslistsearch.com/) or [Craigs List Search](https://craigs-list-search.com/) - Craigslist Search
 * [PicFlick](https://picclick.com/) - Ebay Quick Search
-* [Type Hound](https://typohound.com/) - Ebay Typo Search
+* [Type Hound](https://typohound.com/) or [FatFingers](https://fatfingers.com/) - Ebay Typo Search
 * [BTOD](https://www.btod.com/blog/category/buying-guides/) - Office Chair Buying Guides / Reviews
 * [Mousepad Mastersheet](https://docs.google.com/spreadsheets/d/1RAnmZxDNduaGV8kB-GCvZ0MO6d9-0j9jmrU2f8dp0Ww/) - Mousepad Buying Guide / Reviews
 * [Cars.com](https://www.cars.com/research/compare/), [Vehicle Rankings](https://cars.usnews.com/cars-trucks/rankings), [Motor1](https://www.motor1.com/reviews/) or [Edmunds](https://www.edmunds.com/car-reviews/) - Vehicle Reviews / Comparisons
