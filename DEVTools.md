@@ -1442,6 +1442,7 @@
 * [ipinfo.io](https://ipinfo.io/) - IP Data API
 * [TheCatAPI](https://thecatapi.com/) - Cat Rating API
 * [SWAPI](https://pipedream.com/apps/swapi) - Star Wars APIs
+* [Sunrise sunset API](https://sunrise-sunset.org/api) - API to get sunrise and sunset times
 
 ***
 
