@@ -156,9 +156,7 @@
 
 ## ▷ Unicode Characters
 
-* [WinCompose](http://wincompose.info/) - Unicode Compose Key / [GitHub](https://github.com/samhocevar/wincompose)
-* [FastEmoji](https://www.fastemoji.com/) or [textfac.es](https://textfac.es/) - Unicode Emojis
-* [BlankText](https://blanktext.net/) - Copy / Paste Blank Spaces
+* ⭐ **[Amp What](https://www.amp-what.com/)**
 * [CopyChar](https://copychar.cc/)
 * [Unicode Table](https://symbl.cc/)
 * [Copy Paste Dump](https://c.r74n.com/)
@@ -171,6 +169,9 @@
 * [Alt Codes](https://alt-codes.net/)
 * [Unifoundry](https://unifoundry.com/)
 * [Cool Symbol](https://coolsymbol.com/)
+* [WinCompose](http://wincompose.info/) - Unicode Compose Key / [GitHub](https://github.com/samhocevar/wincompose)
+* [FastEmoji](https://www.fastemoji.com/) or [textfac.es](https://textfac.es/) - Unicode Emojis
+* [BlankText](https://blanktext.net/) - Copy / Paste Blank Spaces
 
 ***
 
@@ -483,7 +484,7 @@
 
 ## ▷ Unicode Fonts
 
-* [WhatIsIt](https://babelstone.co.uk/Unicode/whatisit.html) - Unicode Identification
+* [WhatIsIt](https://babelstone.co.uk/Unicode/whatisit.html) or [ShapeCatcher](https://shapecatcher.com/) - Unicode Identification
 * [coolfont](https://coolfont.org/)
 * [Font Meme](https://fontmeme.com/)
 * [Font Generator Online](https://www.fontgeneratoronline.com/)
