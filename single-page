@@ -156,6 +156,7 @@ features:
 * [Shiori](https://github.com/go-shiori/shiori)
 * [LinkSnatch](https://linksnatch.pages.dev/)
 * [KeepThisSite](https://keepthis.site/)
+* [ln.ht](https://ln.ht/), [link.horse](https://link.horse/), [currl](https://currl.io/) or [tinygem](https://tinygem.org/) - Social Bookmarking
 
 ***
 
@@ -191,6 +192,7 @@ features:
 * 🌐 **[CSE Utopia](https://start.me/p/EL84Km/cse-utopia)**, [Awesome CSEs](https://github.com/davzoku/awesome-custom-search-engines) or [Boolean Strings](https://booleanstrings.com/all-the-40-forty-custom-search-engines/) - Custom Search Engine Indexes
 * ↪️ **[Alt Search Engines](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_alternative_search_engines)** - Google Alternatives
 * ⭐ **[Swurl](https://swurl.com/)**, [pSearch](https://serjsx.github.io/wpSearch/), [Search All](https://www.searchall.net/), [CombinedSearch](https://combinedsearch.io/) or [AIO Search](https://www.aiosearch.com/) - Multi-Site Search
+* ⭐ **[TheGigaBrain](https://thegigabrain.com/)** - Reddit Search AI
 * ⭐ **[The Search Engine Map](https://www.searchenginemap.com/)** - View Search Engine Connections
 * ⭐ **[Streaming CSE](https://cse.google.com/cse?cx=006516753008110874046:cfdhwy9o57g##gsc.tab=0)**, [2](https://cse.google.com/cse?cx=006516753008110874046:o0mf6t-ugea##gsc.tab=0), [3](https://cse.google.com/cse?cx=98916addbaef8b4b6), [4](https://cse.google.com/cse?cx=0199ade0b25835f2e)
 * ⭐ **[Video Streaming CSE](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video#wiki_.25B7_video_hosts)** - Search YouTube-Like Video Sites
@@ -498,6 +500,7 @@ features:
 * [Buster](https://github.com/dessant/buster) or [JKCS](https://git.coom.tech/araragi/JKCS) - Auto Captcha Solvers
 * [myMark.me](https://www.mymark.me/), [Sidebery](https://addons.mozilla.org/en-US/firefox/addon/sidebery/), [Save to Bookmark OS](https://addons.mozilla.org/en-US/firefox/addon/bookmarkos/), [Bookmarks Organizer](https://github.com/cadeyrn/bookmarks-organizer) or [Centroly](https://centroly.com/) - Bookmark Extensions
 * [CRX Viewer](https://robwu.nl/crxviewer/) - View Extension Source Code
+* [Browserboost](https://browserboost.org/) - Add Features to Browsers
 * [Extensions CSE](https://cse.google.com/cse?cx=86d64a73544824102) - Multi-Site Extension Search
 * [Into The Black Hole](https://pastebin.com/sTMkqJWD) - Dark Mode Browser Theme
 * [Omni](https://github.com/alyssaxuu/omni) - Bookmark, Tab & History Manager
@@ -574,7 +577,7 @@ features:
 * [Survol](https://survol.me/) - Preview Links 
 * [Distil](https://distill.io/) or [Update Scanner](https://sneakypete81.github.io/updatescanner/) - Page Change Detection / Notification
 * [Plucky](https://pluckyfilter.com/) - Content Filter
-* [Block Site](https://add0n.com/block-site.html), [LeechBlock](https://www.proginosko.com/leechblock), [uBlacklist](https://iorate.github.io/ublacklist/docs), [TabWave](https://www.tabwave.app/), [Forest](https://pastebin.com/rYuAivA0), [StayFocused](https://www.stayfocusd.com/) or [Tomato Clock](https://github.com/samueljun/tomato-clock) - Site Blockers
+* [Block Site](https://add0n.com/block-site.html), [LeechBlock](https://www.proginosko.com/leechblock), [uBlacklist](https://iorate.github.io/ublacklist/docs),  [Forest](https://pastebin.com/rYuAivA0) or [Tomato Clock](https://github.com/samueljun/tomato-clock) - Site Blockers
 * [Block Image Video](https://mybrowseraddon.com/block-image-video.html) - Block All Images & Videos
 * [Offline Mode](https://mybrowseraddon.com/offline-mode.html) - Disconnect Browser from the Internet
 * [WaybackEverywhere](https://gitlab.com/gkrishnaks/WaybackEverywhere-Firefox) - Auto Load Archived Versions of Dead Pages
@@ -691,7 +694,7 @@ features:
 * [CrxMouse (chrome)](https://crxmouse.com/) - Mouse Gestures
 * [Night Shift Redux](https://nightshift.lu/) - Adapts Display Color to Time of Day
 * [SmoothKeyScroll](https://www.smoothkeyscroll.com/) - Smooth Key Scrolling
-* [NudgeWare](https://nudgeware.io/), [Minto](https://chromewebstore.google.com/detail/minto/hcgkjlalkeaekjkelpilagbjcengeebl), [GoGo Productivity](https://chromewebstore.google.com/detail/gogo-productivity/mgefagaoblmbfcjoaiibbmobmkgoljia), [UnDistracted](https://www.undistracted.app/) or [HabitLab](https://habitlab.github.io/) - Productivity Managers / Site Blockers
+* [NudgeWare](https://nudgeware.io/), [Minto](https://chromewebstore.google.com/detail/minto/hcgkjlalkeaekjkelpilagbjcengeebl), [GoGo Productivity](https://chromewebstore.google.com/detail/gogo-productivity/mgefagaoblmbfcjoaiibbmobmkgoljia), [UnDistracted](https://www.undistracted.app/), [Focus-ToDo](https://chromewebstore.google.com/detail/ngceodoilcgpmkijopinlkmohnfifjfb) or [HabitLab](https://habitlab.github.io/) - Productivity Managers
 * [Simple Todo](https://chromewebstore.google.com/detail/simple-todo/kobeijgkgkcgknodjkganceliljepmjf) or [Todoist](https://chromewebstore.google.com/detail/todoist-for-chrome/jldhpllghnbhlbpcmnajkpdmadaolakhen) - To-Do List
 * [Blueticks](https://chromewebstore.google.com/detail/blueticks/adgnjhngogijkkppficiiepmjebijinl) - WhatsApp Scheduler
 * [Beanote](https://chromewebstore.google.com/detail/beanote-note-taking-on-we/nikccehomlnjkmgmhnieecolhgdafajb) or [Page Pad](https://chromewebstore.google.com/detail/page-pad-make-quick-notes/igobdfagkcadgcfooegonbbeeggagakn) - Web Page Note-Taking
