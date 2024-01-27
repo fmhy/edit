@@ -829,7 +829,6 @@
 
 * ⭐ **[ReVanced Manager](https://revanced.app/download)** - Patch YouTube, Reddit, X and other Apps / [Discord](https://discord.com/invite/rF2YcEjcrT) / [Guide](https://redd.it/xlcny9) 
 * ⭐ **[LibreTube](https://libretube.dev/)**, **[NewPipe](https://newpipe.net/)** or [Tubular](https://github.com/polymorphicshade/Tubular) - Ad-free YouTube Frontends
-* [ReVanced-Extended Manager](https://github.com/inotia00/revanced-manager/releases/latest) / [Guide](https://www.reddit.com/r/revancedextended/comments/12vxggr/revanced_extended_guide_for_beginners/) - Extended patches for YT, YTMusic and Reddit
 * [revanced-magisk-module](https://github.com/j-hc/revanced-magisk-module/releases), [revanced-apks](https://github.com/revanced-apks/build-apps/releases), [docker-py-revanced](https://github.com/nikhilbadyal/docker-py-revanced/releases) or [AT-YT](https://github.com/Zelooooo/AT-YT/releases) - Automated Patchers
 * [revanced-cli](https://github.com/ReVanced/revanced-cli/), [Revancify](https://github.com/decipher3114/Revancify) or [revanced-creator](https://github.com/XDream8/revanced-creator) - CLI Patchers
 * [Clipious](https://github.com/lamarios/clipious) - YouTube Frontend
