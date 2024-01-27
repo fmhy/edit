@@ -12356,7 +12356,7 @@ Linux Gaming Guide
 * [Gamemode](https://github.com/FeralInteractive/gamemode) - Linux System Optimizer
 * [LibreGaming](https://github.com/Ahmed-Al-Balochi/LibreGaming) - Linux Game Package Downloader
 * [mcpelauncher](https://github.com/minecraft-linux/mcpelauncher-manifest) - Minecraft Android Bedrock Edition Launcher for Linux
-* [Grapejuice](https://gitlab.com/brinkervii/grapejuice) - Roblox Manager
+* [VinegarHQ](https://vinegarhq.org/) - Bootstrapper for Roblox Player / Studio
 * [Bloxstrap](https://discord.com/invite/nKjV3mGq6R) - Roblox Launcher
 * [Anime Game Launcher](https://github.com/an-anime-team/an-anime-game-launcher) - Genshin Impact Launcher
 * [among-sus](https://git.sr.ht/~martijnbraam/among-sus) - Play Among Us in your Terminal (Recreation)
@@ -12371,6 +12371,7 @@ Linux Gaming Guide
 ## ▷ Adblock / Privacy
 
 * ⭐ **[SpoofDPI](https://github.com/xvzc/SpoofDPI)** or [zapret](https://github.com/bol-van/zapret) - DPI circumvention
+* ↪️ **[Linux 2FA](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25B7_two-factor_authentication)**
 * [Linux Hardening](https://vez.mrsk.me/linux-hardening.html) / [2](https://madaidans-insecurities.github.io/guides/linux-hardening.html) or [How to Secure a Linux Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server) - Linux Hardening Guides
 * [JShielder](https://github.com/Jsitech/JShielder) - Hardening Script for Linux Servers
 * [SShuttle](https://github.com/sshuttle/sshuttle) - Proxy
@@ -12768,11 +12769,11 @@ Linux Gaming Guide
 # ► Mac Adblock / Privacy
 
 * 🌐 **[Awesome OSX Security](https://github.com/ashishb/osx-and-ios-security-awesome)** - Mac Security Resources
+* ↪️ **[Mac 2FA](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25B7_two-factor_authentication)**
 * ⭐ **[Malwarebytes](https://www.malwarebytes.com/mac-download)**, [BlockBlock](https://objective-see.org/products/blockblock.html) or [KnockKnock](https://objective-see.org/products/knockknock.html) - Antivirus
 * ⭐ **[SpotX-Bash](https://github.com/jetfir3/SpotX-Bash)**, [Spotify Adblock Guide](https://redd.it/y2zt58) or [Mac_Spotify_Adblock](https://github.com/Devanshu-17/Mac_Spotify_Adblock) - Spotify Adblockers
 * [Ka-Block!](https://apps.apple.com/us/app/ka-block/id1037173557), [BlockBear](https://apps.apple.com/ca/app/blockbear/id1023924541) or [Adblock Plus for iOS](https://gitlab.com/eyeo/adblockplus/adblock-plus-for-safari) - Safari Adblockers
 * [MacOS Privacy Guide](https://github.com/drduh/macOS-Security-and-Privacy-Guide) - Mac Privacy & Security Guides
-* [Sentinel](https://getsentinel.io/) - Two-Factor Authentication
 * [Gas Mask](https://github.com/2ndalpha/gasmask) - Block Ads via Host Files
 * [Adguard DNS](https://1fichier.com/?ef26ks4abjzct7o1k8os) - DNS Adlocker
 * [1Blocker](https://1blocker.com/) - DNS Adlocker
