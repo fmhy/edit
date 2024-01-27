@@ -365,6 +365,8 @@
 
 ***
 
+## ▷ Two-Factor Authentication
+
 * 🌐 **[2FA Directory](https://2fa.directory/)** - List of Sites with 2FA Support
 * ⭐ **[Aegis](https://getaegis.app/)** - Android 2FA
 * ⭐ **[Ente](https://github.com/ente-io/auth/)** - Android 2FA / [Audit](https://ente.io/blog/cryptography-audit/)
