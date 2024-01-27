@@ -85,6 +85,47 @@ async function handleSubmit(type?: FeedbackType['type']) {
             </button>
           </div>
         </div>
+        <div v-if="feedback.type === 'suggestion'" class="text-sm mb-2">
+          <strong>🕹️ Emulators</strong>
+          <p class="desc">
+            They're already on the
+            <a
+              class="text-primary font-bold text-underline"
+              href="https://emulation.gametechwiki.com/index.php/Main_Page"
+            >
+              Game Tech Wiki.
+            </a>
+          </p>
+          <strong>🔻 Leeches</strong>
+          <p class="desc">
+            They're already on the
+            <a
+              class="text-primary font-bold text-underline"
+              href="https://filehostlist.miraheze.org/wiki/Free_Premium_Leeches"
+            >
+              File Hosting Wiki.
+            </a>
+          </p>
+          <strong>🐧 Distros</strong>
+          <p class="desc">
+            They're already on
+            <a
+              class="text-primary font-bold text-underline"
+              href="https://distrowatch.com/"
+            >
+              DistroWatch.
+            </a>
+          </p>
+          <strong>🎲 Mining / Betting Sites</strong>
+          <p class="desc">
+            Don't post anything related to betting, mining, BINs, CCs, etc.
+          </p>
+          <strong>🎮 Multiplayer Game Hacks</strong>
+          <p class="desc">
+            Don't post any hacks/exploits that give unfair advantages in
+            multiplayer games.
+          </p>
+        </div>
         <textarea
           v-model="feedback.message"
           autofocus
@@ -92,15 +133,14 @@ async function handleSubmit(type?: FeedbackType['type']) {
           placeholder="What a lovely wiki!"
         />
         <p class="desc mb-2">
-          If you'd prefer to be contacted through another platform, feel free to
-          mention it in the message or join our
+          If you want a reply to your feedback, feel free to mention a contact
+          in the message or join our
           <a
             class="text-primary font-semibold text-underline"
             href="https://discord.gg/Stz6y6NgNg"
           >
-            Discord
+            Discord.
           </a>
-          .
         </p>
         <button
           type="submit"
