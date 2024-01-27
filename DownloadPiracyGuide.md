@@ -6,7 +6,7 @@
 
 # ► Download Directories
 
-* **Note** - Some Open Directories grab IP's, so use a VPN or Tor when accessing them.
+**Note** - Some Open Directories grab IP's, so use a VPN or Tor when accessing them.
 
 ***
 
@@ -33,7 +33,7 @@
 
 # ► Download Sites
 
-* **Note** - General DDL sites use a lot of different sources, so it's best to avoid them for anything you install, like software, games or APKs. You can also use **[redirect bypassers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25B7_redirect_bypass)** to skip link shorteners.
+**Note** - General DDL sites use a lot of different sources, so it's best to avoid them for anything you install, like software, games or APKs. You can also use **[redirect bypassers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25B7_redirect_bypass)** to skip link shorteners.
 
 ***
 
@@ -93,7 +93,7 @@
 
 ## ▷ Search Sites
 
-* **Note** - These aggregate from multiple sources, so it's best to avoid them for software / games.
+**Note** - These aggregate from multiple sources, so it's best to avoid them for software / games.
 
 ***
 
@@ -107,6 +107,7 @@
 * [Linktury](https://www.linktury.com/)
 * [WarezOmen](https://warezomen.com/) - Indexer / Search Engine
 * [SunXDCC](https://sunxdcc.com/) or [XDCC.EU](https://www.xdcc.eu/) - XDCC / Search Engine
+* [Find Rare Files Online](https://forums.lostmediawiki.com/thread/10861/find-rare-files-online) - How-to Find Rare Files
 
 ***
 
@@ -132,7 +133,7 @@
 
 # ► Software Sites
 
-* **Note** - Remember to always scan software before installing with tools like **[VirusTotal](https://www.virustotal.com/)** or use it in **[Sandboxie](https://rentry.co/sandboxie-guide)**.
+**Note** - Remember to always scan software before installing with tools like **[VirusTotal](https://www.virustotal.com/)** or use it in **[Sandboxie](https://rentry.co/sandboxie-guide)**.
 
 ***
 
@@ -191,6 +192,7 @@
 * [Awesome Open Source](https://awesomeopensource.com/) - FOSS Index
 * [Open-Source Alternatives](https://github.com/btw-so/open-source-alternatives) - FOSS Index
 * [Opensource Builders](https://opensource.builders/) - FOSS Index
+* [Gadgeteer](https://gadgeteer.co.za/opensourcesoftware/) - FOSS Index
 * [LO4D](https://www.lo4d.com/) - Freeware Index
 * [FilePuma](https://www.filepuma.com/) - Freeware Index
 * [GRC](https://www.grc.com/freepopular.htm) - Freeware Index
