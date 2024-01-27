@@ -580,7 +580,7 @@
 * [SelfControlApp](https://selfcontrolapp.com/) - Mac Site Blocker
 * [CleanBrowsing](https://cleanbrowsing.org/filters/) - Family DNS Filters
 * [cringeMDb](https://cringemdb.com/), [Age Rating JuJu](https://www.ageratingjuju.com/), [CommonSenseMedia](https://www.commonsensemedia.org/) or [unconsenting media](https://www.unconsentingmedia.org) - Find SFW Movies
-* [movie-parser](https://github.com/dynamite-ready/movie-parser) or [practical-ai-autodetecting-nsfw](https://raskie.com/post/practical-ai-autodetecting-nsfw) - Detect NSFW Scenes in Movies
+* [Movie Parser](https://raskie.com/post/practical-ai-autodetecting-nsfw) - Detect NSFW Scenes in Movies / [GitHub](https://github.com/dynamite-ready/movie-parser)
 * [Puri.fy](https://pury.fi/) or [NSFW-Filter](https://nsfw-filter.com/) - Block NSFW Images
 * [Fortify](https://www.joinfortify.com/) - Porn Quitting Community
 * [SAA Recovery](https://saa-recovery.org/), [Cosa Recovery](https://cosa-recovery.org/) or [Smart Recovery](https://www.smartrecovery.org/) - Find Sex Addition Meetings
