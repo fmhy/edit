@@ -191,7 +191,8 @@
 * [R for Data Science](https://r4ds.had.co.nz/) - R Data Science Guide
 * [ggplot2: Elegant Graphics for Data Analysis](https://ggplot2-book.org/index.html) - ggplot2 Guide
 * [Data Science Ipython Notebooks](https://github.com/donnemartin/data-science-ipython-notebooks), [Scipy Lectures](https://lectures.scientific-python.org/) or [Virgilio](https://virgili0.github.io/Virgilio/) / [GitHub](https://github.com/virgili0/Virgilio) - Learn DataScience
-* [Data Engineering Practice Problems](https://github.com/danielbeach/data-engineering-practice) - Data Engineering Practice 
+* [Data Engineering Zoomcamp](https://github.com/DataTalksClub/data-engineering-zoomcamp) - Data Engineering Course
+* [Data Engineering Practice Problems](https://github.com/danielbeach/data-engineering-practice) - Data Engineering Practice
 * [Learn to Make Netflix Clone](https://github.com/kubowania/netflix-clone-graphql-datastax)
 
 ***
@@ -420,6 +421,7 @@
 * [mitmproxy](https://mitmproxy.org/) / [GitHub](https://github.com/mitmproxy/mitmproxy) - Analyze and modify HTTPS traffic
 * [Traefik](https://traefik.io/traefik/), [frp](https://github.com/fatedier/frp) or [reverse-proxy](https://github.com/microsoft/reverse-proxy) - Reverse Proxies
 * [Certbot](https://certbot.eff.org/) - Enable HTTPS Automatically
+* [WhatPWACanDo](https://whatpwacando.today/) - PWA Examples
 * [Bubble](https://bubble.io/), [opensilver](https://opensilver.net/), [Anvil](https://anvil.works/), [Symfony](https://symfony.com/) / [CLI](https://github.com/symfony-cli/symfony-cli), [Create-react-app](https://github.com/facebook/create-react-app), [Lowdefy](https://lowdefy.com/) or [Sktch.io](https://sktch.io/) - Web App Creators
 * [Blazor](https://dotnet.microsoft.com/en-us/apps/aspnet/web-apps/blazor) - Web App UI Creators
 * [Laravel](https://laravel.com/) or [Lona](https://lona-web.org/1.x/) - Web App Framework
@@ -820,7 +822,6 @@
 * [Doshaven Programming List](https://www.doshaven.eu/programming-tools/) - DOS Game Creator Tools
 * [QB64SourceCode](https://www.qb64tutorial.com/) - QB64 Game Programming Tutorials
 * [Fantasy Consoles / Computers](https://github.com/paladin-t/fantasy) - List of Fantasy Consoles and Computers
-* [stencyl](https://www.stencyl.com/) - Codeless Game Engine
 * [Kaboomjs](https://kaboomjs.com/) - Quickly Make Games with Javascript
 * [Superpowers](https://sparklinlabs.itch.io/superpowers). [2](https://superpowers-html5.com/index.en.html) - Collaborative HTML5 Game Creator
 * [Phaser](https://phaser.io/) - Mobile HTML5 Game Framework 
@@ -1438,11 +1439,9 @@
 * [Plaid](https://plaid.com/) - Financial Account API / [GitHub](https://github.com/plaid)
 * [PDF Bot](https://github.com/esbenp/pdf-bot) - A Node queue API for generating PDFs
 * [aftership](https://www.aftership.com/) - Shipment Tracking API
-* [SunriseSunset.io](https://sunrisesunset.io/api/) - Sunrise and Sunset Times API
 * [ipinfo.io](https://ipinfo.io/) - IP Data API
 * [TheCatAPI](https://thecatapi.com/) - Cat Rating API
 * [SWAPI](https://pipedream.com/apps/swapi) - Star Wars APIs
-* [Sunrise sunset API](https://sunrise-sunset.org/api) - API to get sunrise and sunset times
 
 ***
 
