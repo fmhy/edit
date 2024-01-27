@@ -4669,10 +4669,8 @@ features:
 * ⭐ **[Tails](https://tails.net/)**, [whonix](https://www.whonix.org/) or [Qubes](https://www.qubes-os.org/) - Privacy-Based Operating Systems
 * [ShutUp10](https://www.oo-software.com/en/shutup10), [W10Privacy](https://www.w10privacy.de/english-home/) or [private-secure-windows](https://github.com/troennes/private-secure-windows) - Antispy Tools
 * [Telemetry.md](https://gist.github.com/ave9858/a2153957afb053f7d0e7ffdd6c3dcb89) - Disable Windows 10/11 Telemetry
-* [Yubioath](https://developers.yubico.com/yubioath-flutter/), [AuthMe](https://github.com/Levminer/authme), [Protecc](https://github.com/FireCubeStudios/Protecc), [2FAuth](https://github.com/Bubka/2FAuth) or [Tauthy](https://github.com/pwltr/tauthy) - Two-Factor Authentication
 * [PasswordMonster](https://www.passwordmonster.com/) - Password Strength Check
 * [PasswordsGenerator](https://passwordsgenerator.net/) - Secure Password Generator
-* [Authenticator](https://authenticator.cc/) - Generate Two-Factor QR Codes / [GitHub](https://gitlab.gnome.org/World/Authenticator)
 * [Frigate](https://frigate.video/), [Smart Sec Cam](https://github.com/scottbarnesg/smart-sec-cam) or [ZoneMinder](https://zoneminder.com/) - Security Camera Systems
 * [Team Elite](https://www.te-home.net/) or [Technet24](https://technet24.ir/) - Security Software / [Translator](https://github.com/FilipePS/Traduzir-paginas-web)
 * [No Thought is a Crime](https://ntc.party/) - Internet Censorship Discussion
@@ -4746,7 +4744,6 @@ features:
 * ⭐ **[Mullvad Browser](https://mullvad.net/en/browser)** - Tor Browser Fork (w/o Tor network)
 * ⭐ **[arkenfox](https://github.com/arkenfox/user.js)**- Firefox Privacy Tweak / [Video](https://youtu.be/F7-bW2y6lcI)
 * ⭐ **[PrivacySpy](https://privacyspy.org/)** or [Terms of Service; Didn't Read](https://tosdr.org/) - Sites Privacy Policies 
-* ⭐ **[2FA Directory](https://2fa.directory/)** - List of Sites with 2FA Support
 * ⭐ **[simplewall](https://github.com/henrypp/simplewall)**, [WFC](https://www.binisoft.org/wfc.php), [pfSense](https://www.pfsense.org/) / [How-to](https://youtu.be/am7xT-zU1Q0) or [Tinywall](https://tinywall.pados.hu/) - Firewall / Network Monitors
 * ⭐ **[Cryptomator](https://cryptomator.org/)**, [Boxcryptor](https://www.boxcryptor.com/en/) or [Tahoe-LAFS](https://tahoe-lafs.org/trac/tahoe-lafs) - Cloud File Encryption
 * ⭐ **[GameIndustry](https://gameindustry.eu/en/)** - Block Trackers in Desktop / Mobile Games
@@ -4785,7 +4782,7 @@ features:
 * [Data Removal Guide](https://inteltechniques.com/workbook.html) - Remove Online Data
 * [GPGTools](https://gpgtools.org/) - Encrypt & Sign Data / Communications 
 * [PeerTube](https://joinpeertube.org/) / [2](https://search.joinpeertube.org/) / [3](https://sepiasearch.org/) - Decentralized Video Hosting / [Instances](https://instances.joinpeertube.org/instances)
-* [Safing Portmaster](https://safing.io/) - Monitor Network / Block Trackers / [GitHub](https://github.com/Safing/portmaster)
+* [Safing Portmaster](https://safing.io/) - Monitor Network / Block Trackers / [Discord](https://discord.com/invite/safing) / [GitHub](https://github.com/Safing/portmaster)
 * [Undiscord](https://github.com/victornpb/undiscord), [discord-delete](https://github.com/cedws/discord-delete), or [QuickDeleteMessages](https://u.nu/9i9jk) - Delete Discord Messages / [Warning](https://i.ibb.co/pdg4hRr/0b0d78219f05.png)
 * [Social Amnesia](https://github.com/Nick-Gottschlich/Social-Amnesia) - Reddit / Twitter Auto Post Delete
 * [delete-likes-from-twitter](https://gist.github.com/aymericbeaumet/d1d6799a1b765c3c8bc0b675b1a1547d) - Delete Twitter Likes / Favorites 
@@ -4875,6 +4872,27 @@ features:
 * [Gibiru](https://gibiru.com/)
 * [SearXNG](https://docs.searxng.org/) - Self-Hosted
 * [Whoogle](https://github.com/benbusby/whoogle-search) - Self-Hosted
+
+***
+
+* 🌐 **[2FA Directory](https://2fa.directory/)** - List of Sites with 2FA Support
+* ⭐ **[Aegis](https://getaegis.app/)** - Android 2FA
+* ⭐ **[Ente](https://github.com/ente-io/auth/)** - Android 2FA / [Audit](https://ente.io/blog/cryptography-audit/)
+* [2FAS](https://2fas.com/) - Android 2FA
+* [AuthenticatorPro](https://github.com/jamie-mh/AuthenticatorPro) - Android 2FA
+* [Mauth](https://github.com/X1nto/Mauth) - Android 2FA
+* [AuthMe](https://github.com/Levminer/authme) - Windows / Mac / Linux 2FA
+* [Tauthy](https://github.com/pwltr/tauthy) - Windows / Mac / Linux 2FA
+* [Yubioath](https://developers.yubico.com/yubioath-flutter/) - Windows / Android 2FA / YubiKeys
+* [Protecc](https://github.com/FireCubeStudios/Protecc) - Windows 2FA
+* [2FAuth](https://github.com/Bubka/2FAuth) - Web App 2FA / Self-hosted
+* [Sentinel](https://getsentinel.io/) - iOS / Mac 2FA
+* [Raivo OTP](https://raivo-otp.com) - iOS 2FA
+* [OTP Auth](https://apps.apple.com/ca/app/otp-auth/id659877384) - iOS 2FA
+* [Tofu](https://www.tofuauth.com/) - iOS 2FA
+* [Authenticator](https://authenticator.cc/) - Generate Two-Factor QR Codes / [GitHub](https://gitlab.gnome.org/World/Authenticator)
+* [Android OTP Extractor](https://github.com/puddly/android-otp-extractor) or [OTP Helper](https://github.com/jd1378/otphelper) - Extract OTP Tokens
+* [SteamGuard](https://github.com/dyc3/steamguard-cli) - Generate Steam 2FA Codes
 
 ***
 
