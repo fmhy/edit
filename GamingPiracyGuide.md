@@ -987,7 +987,6 @@
 * [XTag](https://www.teamxlink.co.uk/) - Multiplayer Fix
 * [Blu-Games](https://blu-games.tk/) - Multiplayer Fix
 * [ZLOEmu](https://zloemu.net/) - Multiplayer Fix
-* [Blitz.gg](https://blitz.gg/) - Post Match Performance Analyzer
 * [DiIiS](https://github.com/blizzless/blizzless-diiis) - Open-Source Diablo III Local Server
 * [Server.pro](https://server.pro/) - Game Server Hosting
 * [Tilted Online](https://github.com/tiltedphoques/TiltedEvolution) - Multiplayer Skyrim & Fallout 4 / [Discord](https://discord.gg/skyrimtogether) / [Setup Guide](https://youtu.be/ytSftFoQQHA)
