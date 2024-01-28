@@ -245,7 +245,6 @@
 * [Memory Guardian](https://github.com/hashemi-hossein/memory-guardian), [Clipboard CopyPaste](https://www.evvasoft.com/ccp.html) or [Clipboard History](https://play.google.com/store/apps/details?id=com.rubbishcollector.clipboardhistory) - Clipboard Managers
 * [Irregular Expressions](https://play.google.com/store/apps/details?id=mf.asciitext.lite) - Text Font Generator
 * [Botify AI](https://botif.ai/) or [Chai](https://www.chai-research.com/) - Roleplaying Chatbots
-* [hellohistory](https://www.hellohistory.ai/) - Historical Roleplaying Chatbot
 * [DeepLAndroid](https://github.com/sakusaku3939/DeepLAndroid), [Arna Translate](https://github.com/MahanRahmati/translate), [Instalate](https://gitlab.com/concept1tech/instalate), [TranslateYou](https://github.com/Bnyro/TranslateYou) or [SimplyTranslate](https://github.com/ManeraKai/simplytranslate_mobile) - Translation Apps
 * [FUTO](https://voiceinput.futo.org/) or [Dicio](https://github.com/Stypox/dicio-android) - Voice Assistants
 * [android-call-recorder](https://gitlab.com/axet/android-call-recorder) - Call Recorder
@@ -499,8 +498,6 @@
 * [Alibi](https://github.com/Myzel394/Alibi) - Mobile Dash Cam
 * [SmoothAction](https://play.google.com/store/apps/details?id=com.danielkorgel.SmoothActionCamSlowmo) - Slow Motion Video Recorder
 * [IRuin](https://iriun.com/), [Reincubate Camo](https://reincubate.com/camo/) or [DroidCam](https://github.com/dev47apps/droidcam) - Use Android as Webcam
-* [LeafPic](https://gitlab.com/HoraApps/LeafPic) - Image Viewer
-* [PhotoSync](https://www.photosync-app.com/home.html) - Transfer Photos Between Devices
 * [Locket Widget](https://play.google.com/store/apps/details?id=com.locket.Locket&hl=en&gl=US) - Real-time Photo Sharing
 * [ImageToolbox](https://github.com/T8RIN/ImageToolbox) or [Pixomatic](https://pixomatic.us/) - Image Editors
 * [Mematic](https://www.mematic.net/) or [Memetastic](https://github.com/gsantner/memetastic) - Meme Creators
@@ -696,7 +693,6 @@
 * [MusicSpeedChanger](https://musicspeedchanger.com/) - Music Speed Changer
 * [Video to MP3 Converter](https://play.google.com/store/apps/details?id=mp3videoconverter.videotomp3.videotomp3converter) - Video to MP3
 * [AudioSwitch](https://play.google.com/store/apps/details?id=com.nordskog.LesserAudioSwitch) - Switch Audio to Different Outputs Lesser
-* [Soundiiz](https://play.google.com/store/apps/details?id=fr.brickoft.soundiiz) - Transfer Playlists Between Streaming Platforms
 * [MP3 Tagger](https://play.google.com/store/apps/details?id=com.fillobotto.mp3tagger) - Automatic Audio ID3 Tagging
 * [Super Sound](https://play.google.com/store/apps/details?id=com.tianxingjian.supersound&hl) - Audio Editor
 * [Music Maker JAM](https://www.loudly.com/musicmakerjam) - Music Creator / Mixer
@@ -710,8 +706,7 @@
 * [Flip DND](https://play.google.com/store/apps/details?id=com.urbandroid.dnd) - Flip to Activate Do Not Disturb Mode
 * [Audify](https://play.google.com/store/apps/details?id=in.codeseed.audify) - Reduce Notification Distractions
 * [skipTrackLongPressVolume](https://github.com/Cilenco/skipTrackLongPressVolume) or [Volumee](https://maslanka.app/volumee/) - Volume Button Track Control
-* [OpenPods](https://github.com/adolfintel/OpenPods) - Monitor AirPods
-* [MaterialPods](https://play.google.com/store/apps/details?id=com.pryshedko.materialpods) - AirPods Battery Tracker
+* [OpenPods](https://github.com/adolfintel/OpenPods), [MaterialPods](https://play.google.com/store/apps/details?id=com.pryshedko.materialpods) or [CApod](https://github.com/d4rken-org/capod) - AirPod Monitors / Battery Trackers
 * [MImport](https://julioverne.github.io/description.html?id=com.julioverne.mimport) - Audio Import Tool
 * [Musekit](https://github.com/Kwasow/Musekit) - Tuning Fork / Metronome
 * [SongSync](https://github.com/Lambada10/SongSync) - Download Lyrics
@@ -828,9 +823,11 @@
 ## ▷ YouTube Apps
 
 * ⭐ **[ReVanced Manager](https://revanced.app/download)** - Patch YouTube, Reddit, X and other Apps / [Discord](https://discord.com/invite/rF2YcEjcrT) / [Guide](https://redd.it/xlcny9) 
-* ⭐ **[LibreTube](https://libretube.dev/)**, **[NewPipe](https://newpipe.net/)** or [Tubular](https://github.com/polymorphicshade/Tubular) - Ad-free YouTube Frontends
+* ⭐ **[LibreTube](https://libretube.dev/)** - Ad-free YouTube Frontend
+* ⭐ **[NewPipe](https://newpipe.net/)** - Ad-free YouTube Frontend
+* ⭐ **[Tubular](https://github.com/polymorphicshade/Tubular)** - Ad-free YouTube Frontend
 * [revanced-magisk-module](https://github.com/j-hc/revanced-magisk-module/releases), [revanced-apks](https://github.com/revanced-apks/build-apps/releases), [docker-py-revanced](https://github.com/nikhilbadyal/docker-py-revanced/releases) or [AT-YT](https://github.com/Zelooooo/AT-YT/releases) - Automated Patchers
-* [revanced-cli](https://github.com/ReVanced/revanced-cli/), [Revancify](https://github.com/decipher3114/Revancify) or [revanced-creator](https://github.com/XDream8/revanced-creator) - CLI Patchers
+* [revanced-cli](https://github.com/ReVanced/revanced-cli/), [Auto-CLI](https://github.com/taku-nm/auto-cli/), [Revancify](https://github.com/decipher3114/Revancify) or [revanced-creator](https://github.com/XDream8/revanced-creator) - CLI Patchers
 * [Clipious](https://github.com/lamarios/clipious) - YouTube Frontend
 * [Hyperion](https://github.com/zt64/Hyperion) - YouTube Frontend
 * [VueTube](https://github.com/VueTubeApp/VueTube)
