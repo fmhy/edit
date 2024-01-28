@@ -355,6 +355,7 @@
 * ⭐ **[3Hentai](https://3hentai.net/)** - Hentai Manga
 * ⭐ **[Multporn](https://multporn.net/)** - Hentai Manga / Comics
 * ⭐ **[AllPornComic](https://allporncomic.com/)** - Comics
+* ⭐ **[ILikeComix](https://ilikecomix.com/)** - Comics
 * ⭐ **[Toonily](https://toonily.me/)** - Hentai Manga
 * ⭐ **[Manhwa18](https://manhwa18.net/)** / [2](https://manhwa18.com/) / [3](https://pornwa.club/) - Pornhwa
 * ⭐ **[Nyaa Sukebei](https://sukebei.nyaa.si/)** - Hentai Manga Torrents
@@ -404,7 +405,6 @@
 * [BondageComixxx](https://bondagecomixxx.net/) - Comics
 * [Xcomics](https://xcomics.se/) - Comics
 * [Porn Comics](https://porncomics.to/) - Comics
-* [ILikeComix](https://ilikecomix.com/all-porncomic-com/) - Comics
 * [XYZ Porn Comics](https://xyzcomics.com/) - Comics
 * [Manhwa18.cc](https://manhwa18.cc/) - Hentai Manga
 * [manhwas.men](https://manhwas.men/) - Hentai Manga / [Discord](https://discord.com/invite/7t4DfpG)
