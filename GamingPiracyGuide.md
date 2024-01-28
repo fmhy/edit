@@ -901,7 +901,7 @@
 * [Scanlines for Windows](https://s4windows.itch.io/scanlines-for-windows) - Add Scanlines to Games / [Discord](https://discord.gg/MqxMj8MT55)
 * [Keystrokes](https://www.deviantart.com/jaxoriginals/art/Keystrokes-v1-3-889349339) - Keystrokes Overlay
 * [LP Archives](https://lparchive.org/) - Let's Play Archive
-* [Medal](https://medal.tv/) - Nvidia Shadowplay for non Nicosia cards
+* [Medal](https://medal.tv/) - Nvidia Shadowplay for non Nvidia cards
 * [Super Steam Packer](https://cs.rin.ru/forum/viewtopic.php?f=29&t=131328&hilit=super+steam+packer) - Pack and share your Steam games
 * [Achievement Watcher](https://github.com/xan105/Achievement-Watcher) - Achievement File Parser, Notifications & Playtime Tracker
 * [Shmuplations](https://shmuplations.com/) - Japanese Developer Interviews
