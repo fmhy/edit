@@ -1791,7 +1791,6 @@
 * [Danet](https://danet.vn/) - Movies / TV
 * [TVHay](https://tvhayb.net/) -Movie
 * [XemPhim](https://xemphim.app/) - Movies / TV
-* [XemPhimPlus](https://xemphim.fun/) - Movies / TV
 * [LokLok](https://loklok.com/vi) - Movies / TV / Anime
 * [LuotPhim](https://luotphimtv1.com/) - Movies / TV
 * [NguonPhim](http://nguonphim.one/) - Movies
