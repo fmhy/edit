@@ -747,15 +747,15 @@
 * ⭐ **[Stremio](https://www.stremio.com/)** - Torrent Streaming / [Addons](https://stremio-addons.netlify.app/) / Chromecast / Use [VPN](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_vpn_guide)
 * ⭐ **[HDO Box](https://forum.mobilism.org/search.php?st=0&sk=t&sd=d&sr=topics&keywords=hdo+box&sf=titleonly)** - Movies / TV
 * ⭐ **[CloudStream](https://dweb.link/ipns/cloudstream.on.fleek.co/)** - Movies / TV / Anime / [GitHub](https://github.com/recloudstream/cloudstream) / [2](https://github.com/hexated/cloudstream-extensions-hexated/) / [Mirrors](https://rentry.org/cs3-repos) / [Docs](https://recloudstream.github.io/csdocs/) 
+* ⭐ **[Kuukiyomi](https://github.com/LuftVerbot/kuukiyomi/)** or [Aniyomi](https://aniyomi.org/) - Movies / TV / Anime / [Extensions](https://aniyomi.org/extensions/) / [GitHub](https://github.com/jmir1/aniyomi)
 * ⭐ **[Miru](https://miru.js.org/en/download)** - Movies / TV / Anime / [GitHub](https://github.com/miru-project/miru-app) / [Docs](https://miru.js.org/en/developer/) 
 * ⭐ **[Kodi](https://kodi.tv/)** - [/r/Addons4Kodi](https://www.reddit.com/r/Addons4Kodi/) / [Tracker](https://kinkeadtech.com/best-kodi-streaming-addons/) / [Trending](https://kodiapps.com/addons-chart) / [Real-Debrid](https://real-debrid.com/)
 * ⭐ **[Syncler](https://syncler.net/)** - Movies / TV / [Providers](https://www.reddit.com/r/providers4syncler/)
 * ⭐ **[BubblesUPNP](https://play.google.com/store/apps/details?id=com.bubblesoft.android.bubbleupnp&gl=US)**, [DMS](https://github.com/anacrolix/dms), [Macast](https://github.com/xfangfang/Macast) or [Cinema Box](https://www.cinema-box.co.uk/) - Media Servers / Chromecast
-* ⭐ **[Trakt](https://play.google.com/store/apps/details?id=tv.trakt.trakt)**, [Showly 2.0](https://github.com/1RandomDev/showly-oss),  [SeriesGuide](https://seriesgui.de/) - Movie / TV Tracker
+* ⭐ **[Trakt](https://play.google.com/store/apps/details?id=tv.trakt.trakt)**, [Showly 2.0](https://github.com/1RandomDev/showly-oss) or [SeriesGuide](https://seriesgui.de/) - Movie / TV Tracker
 * [PopcornTime](https://github.com/popcorn-official/popcorn-android) - Torrent Streaming / Chromecast / Use [VPN](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_vpn_guide)
 * [BeeTV](https://beetvapp.me/), [VivaTV](https://www.vivatv.io/) or [NovaTV](https://novatv.app/) - Movies / TV / Anime / Chromecast
 * [WiWiCenter](https://cinema.wiwicenter.com/) / [Anime](https://anime.wiwicenter.com/) - Movies / TV / Anime / Use Adblocker
-* [Aniyomi](https://aniyomi.org/) / [GitHub](https://github.com/jmir1/aniyomi) - Movies / TV / Anime
 * [FilmPlus](https://filmplus.app/) - Movies / TV
 * [PikaShow](https://pikashows.com/) - Movies / TV
 * [Upflix](https://www.upflix.net/) - Movies / TV
