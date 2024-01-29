@@ -123,8 +123,7 @@
 
 ## ▷ Text Rephrasing
 
-* ⭐ **[QuillBot AI](https://quillbot.com/)** - Text Rephrasing
-* ⭐ **QuillBot Tools** - [Premium Unlock](https://github.com/Raguggg/quillbot-premium-for-free) / [Token](https://pastebin.com/ezkjxWd1) / [Script](https://pastebin.com/Wj3cuKvJ)
+* ⭐ **[QuillBot AI](https://quillbot.com/)** - Text Rephrasing / [Token](https://pastebin.com/ezkjxWd1)
 * ⭐ **[paraphrasetool](https://paraphrasetool.com/)** - Text Rephrasing
 * [Just Not Sorry](https://justnotsorry.com/) - Undermining Word Detection
 * [Rewrite Tool](https://rewritetool.net/) - Text Rephrasing
