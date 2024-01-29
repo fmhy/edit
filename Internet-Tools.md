@@ -454,7 +454,7 @@
 * ⭐ **[Feedbro](https://nodetics.com/feedbro/)**, [Brief](https://github.com/brief-rss/brief), [Smart-RSS](https://github.com/SmartRSS/Smart-RSS) or [Fraidycat](https://fraidyc.at/) - RSS Feed Readers
 * ⭐ **[Translate Web Pages](https://github.com/FilipePS/Traduzir-paginas-web)**, [OpenAI Translator](https://github.com/yetone/openai-translator), [Simple Translate](https://simple-translate.sienori.com/), [Saladict](https://saladict.crimx.com/), [Linguist Translator](https://github.com/translate-tools/linguist), [S3Translator](https://www.s3blog.org/s3translator.html), [Mate Translate](https://gikken.co/mate-translate) or [ImTranslator](https://imtranslator.net/) - Translation Extensions
 * [Buster](https://github.com/dessant/buster) or [JKCS](https://git.coom.tech/araragi/JKCS) - Auto Captcha Solvers
-* [myMark.me](https://www.mymark.me/), [Sidebery](https://addons.mozilla.org/en-US/firefox/addon/sidebery/), [Save to Bookmark OS](https://addons.mozilla.org/en-US/firefox/addon/bookmarkos/), [Bookmarks Organizer](https://github.com/cadeyrn/bookmarks-organizer) or [Centroly](https://centroly.com/) - Bookmark Extensions
+* [Sidebery](https://addons.mozilla.org/en-US/firefox/addon/sidebery/), [Save to Bookmark OS](https://addons.mozilla.org/en-US/firefox/addon/bookmarkos/), [Bookmarks Organizer](https://github.com/cadeyrn/bookmarks-organizer) or [Centroly](https://centroly.com/) - Bookmark Extensions
 * [CRX Viewer](https://robwu.nl/crxviewer/) - View Extension Source Code
 * [Browserboost](https://browserboost.org/) - Add Features to Browsers
 * [Extensions CSE](https://cse.google.com/cse?cx=86d64a73544824102) - Multi-Site Extension Search
@@ -473,7 +473,7 @@
 * [WebMemex](https://blog.webmemex.org/) - Organize & Store Webpages 
 * [Bandwidth Hero](https://bandwidth-hero.com/) - Reduce Browsing Data Usage
 * [User Agent Switcher](https://add0n.com/useragent-switcher.html) - Switch your User-Agent
-* [Auto Tab Discard](https://add0n.com/tab-discard.html), [Tab Wrangler](https://github.com/tabwrangler/tabwrangler), [UnloadTabs](https://github.com/NiklasGollenstede/unload-tabs) or [The Marvellous Suspender](https://gioxx.org/chromeaddons/the-marvellous-suspender/) - Discard Inactive Tabs
+* [Auto Tab Discard](https://add0n.com/tab-discard.html), [Tab Wrangler](https://github.com/tabwrangler/tabwrangler), [The Marvellous Suspender](https://gioxx.org/chromeaddons/the-marvellous-suspender/) - Discard Inactive Tabs
 * [Snooze Tabs](https://github.com/bwinton/SnoozeTabs) - Temporarily Snooze Tabs
 * [AutoRefresh](https://autorefresh.io/) or [Tab Auto Refresh](https://mybrowseraddon.com/tab-auto-refresh.html) - Refresh Tabs
 * [Tab for a Cause](https://tab.gladly.io/) - New Tabs = Charity Donation
