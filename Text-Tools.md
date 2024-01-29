@@ -28,7 +28,6 @@
 
 * ⭐ **[Pastebin Search](https://cse.google.com/cse?cx=0cd79b819f26af9d0)**
 * ⭐ **[snowbin](https://pastes.fmhy.net/)**
-* ⭐ **[Paster](https://paster.so)**
 * ⭐ **[Linqbin](https://linqbin.cc/)** - Temp Pastebin
 * ⭐ **[Rentry](https://rentry.co/)** / [CLI](https://github.com/radude/rentry)
 * ⭐ **[Bundles](https://sentrytwo.com/)** / [Source](https://codeberg.org/SentryTwo/bundles)
@@ -37,6 +36,7 @@
 * ⭐ **[katb](https://katb.in/)**
 * ⭐ **[WriteXO](https://writexo.com/)**
 * [Snips.sh](https://snips.sh/) - Self-Hosted
+* [Paster](https://paster.so)
 * [paste](https://paste.ee/)
 * [pst.moe](https://pst.moe/)
 * [p.ip.fi](https://p.ip.fi/)
