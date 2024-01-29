@@ -365,6 +365,7 @@
 * ⭐ **[QotNews](https://news.t0.vc/)** - Hacker News / Reddit / Lobsters / Tildes
 * [RealClearPolitics](https://www.realclearpolitics.com/), [Ground News](https://ground.news/), [SPIDR](https://spidr.today/) or [LegibleNews](https://legiblenews.com/) - Political News / World Events
 * [NewsMinimalist](https://www.newsminimalist.com/) - News Curated by AI
+* [Brief](https://www.brief.news/) - News Curated by AI
 * [AllSides](https://www.allsides.com/) - Left / Center / Right News
 * [AlDaily](https://www.aldaily.com/) - Art / Philosophy / Literature News
 * [Newsfeed](https://newsfeed.one/) - Google / Reddit / Crypto News
