@@ -186,13 +186,13 @@
 
 ## ▷ Window Managers
 
+* ⭐ **[GlazeWM](https://github.com/glzr-io/glazewm)**
 * ⭐ **[Komorebi](https://github.com/LGUG2Z/komorebi)**
 * [nog](https://github.com/TimUntersberger/nog)
 * [bug.n](https://github.com/fuhsjr00/bug.n)
 * [GridMove](https://www.dcmembers.com/jgpaiva/)
 * [WorkSpacer](https://workspacer.org/)
 * [TileMe](https://gitlab.com/slavoutich/tileme)
-* [GlazeWM](https://github.com/lars-berger/GlazeWM)
 * [MiguruWM](https://github.com/imawizard/MiguruWM)
 * [WindowsGrid](http://windowgrid.net/)
 * [AltSnap](https://github.com/RamonUnch/AltSnap) - Improved Windows Dragging
