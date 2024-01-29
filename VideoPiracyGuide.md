@@ -903,7 +903,6 @@
 * [SubDL](https://subdl.com/) - Subtitles
 * [Addic7ed](https://www.addic7ed.com/) - Subtitles
 * [Podnapisi](https://www.podnapisi.net/) - Subtitles
-* [Subsplease](https://subsplease.org/) - Subtitles 
 * [opensubtitles.com](https://www.opensubtitles.com/) - Subtitles
 * [Subs4Free](https://www.subs4free.info/) - Subtitles 
 * [English-Subtitles](https://english-subtitles.org/) - Subtitles
