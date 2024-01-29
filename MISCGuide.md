@@ -233,6 +233,7 @@
 * [1940's.nyc](https://1940s.nyc/) - Explore 1940's New York
 * [Snap Map](https://map.snapchat.com/) - Snap Chat Map
 * [Flickr Map](https://www.flickr.com/map/) - Flickr Map
+* [What3Words](https://what3words.com/) - Word Based Locations
 * [U Meet Me Here!](https://www.umeetmehere.com/) or [WhatIsHalfway](https://www.whatshalfway.com/) - Find Closest Point Between Two Locations
 * [AntipodesMap](https://www.antipodesmap.com/) - Find Antipodes
 * [Maps We Love](https://www.esri.com/en-us/maps-we-love/gallery), [CoolMaps](https://coolmaps.esri.com/#0), [SoGeografia](https://www.sogeografia.com.br/Mapas/) or [/r/MapPorn](https://reddit.com/r/MapPorn) - Multiple Maps 
