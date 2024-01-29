@@ -1059,7 +1059,7 @@ http://104.131.175.196:8080/, http://70.88.180.169:8088/, http://207.237.122.161
 
 * [ROMSLAB](https://romslab.com/)
 * [NXBrew](https://nxbrew.com/) - (Scroll past Download Setup buttons)
-* [nsw2u](https://nsw2u.com/)
+* [nsw2u](https://nsw2u.com/), [2](https://nsw2u.net/)
 * [NswRoms](https://nswrom.com/)
 * [ROMSim](https://romsim.com/) - [Discord](https://discord.gg/Zgdhq7xDcd)
 * [taodung](https://taodung.com/)
