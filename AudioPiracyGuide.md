@@ -92,7 +92,6 @@
 * [nuclear](https://nuclear.js.org/) - Streaming / [GitHub](https://github.com/nukeop/nuclear) / [Discord](https://discord.com/invite/JqPjKxE)
 * [FunkWhale](https://funkwhale.audio/) - Streaming
 * [MP3Jam](https://www.mp3jam.org/) - Streaming
-* [Resso](https://www.resso.com/in/) - Streaming
 * [Musify](https://github.com/gokadzev/Musify) - Streaming
 * [MellowPlayer](https://colinduquesnoy.gitlab.io/MellowPlayer/) - Streaming
 * [Muffon](https://github.com/staniel359/muffon) - Streaming
@@ -552,6 +551,7 @@
 * [Acclaimed Music](https://www.acclaimedmusic.net/) - Discover Acclaimed Music of the Times
 * [Best Ever Albums](https://www.besteveralbums.com/index.php) or [AlbumByMood](https://www.albumbymood.com/) - Discover Albums
 * [MusicGenreTree](https://www.musicgenretree.org/chart.html) - Discover New Music by Genre
+* [EveryNoise](https://everynoise.com/) - Discover Music Genres
 * [SecondHandSongs](https://secondhandsongs.com/) or [WhoSampled](https://www.whosampled.com/) - Cover / Remix Databases
 * [SoundtrackTracklist](https://soundtracktracklist.com/) - Soundtrack Song Lists
 * [generasia](https://www.generasia.com/) - Asian Music Wiki
@@ -705,7 +705,7 @@
 
 ## ▷ Audio Editors
 
-* ⭐ **[G-MEH](https://g-meh.com/vst/)** - Audio Editor
+* ⭐ **[G-MEH](https://g-meh.com/vst/)** - Audio Editors
 * ⭐ **[Tenacity](https://tenacityaudio.org/)**, [2](https://www.audacityteam.org/) - Audio Editor
 * ⭐ **[Audioalter](https://audioalter.com/)** - Online Editor
 * ⭐ **[WavaCity](https://wavacity.com/)** - Online Editor
@@ -779,6 +779,7 @@
 ## ▷ Audio Plugins
 
 * 🌐 **[Open-Source Audio Plugins](https://github.com/webprofusion/OpenAudio)** - Plugin Projects Index
+* ⭐ **[G-MEH](https://g-meh.com/vst/)**
 * ⭐ **[/r/CrackedPluginsX](https://www.reddit.com/r/CrackedPluginsX/)** or [/r/PluggnB](https://www.reddit.com/r/PluggnB/) - Plugin Subreddits
 * ⭐ **[PLUGG SUPPLY](https://t.me/pluggsupply)** - Telegram / [VK](https://vk.com/pluggsupply)
 * ⭐ **[Plugin Clouds](https://t.me/joinchat/eBPFLPGucTU5YjQ9)** - [Archive](https://t.me/plugincloudsarchive)
