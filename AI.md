@@ -11,10 +11,10 @@
 * ⭐ **[Microsoft Copilot](https://copilot.microsoft.com)** - GPT-4/3.5 Powered Search / [SydneyQT Jailbreak](https://github.com/juzeon/SydneyQt)
 * ⭐ **[LMSYS Chat](https://chat.lmsys.org/)** - GPT-4, Claude, Bard, Mistral and others, Multi-Chatbots
 * ⭐ **[Claude](https://claude.ai/)** - Anthropic's Chatbot
+* ⭐ **[Bard](https://bard.google.com/)** - Google's Chatbot
 * ⭐ **[ChatGPT](https://chat.openai.com/)** - GPT-3.5 Chatbot / [Discord](https://discord.com/invite/openai)
 * ⭐ **[Perplexity](https://www.perplexity.ai/)** - AI Powered Search / [Multiple Chatbots](https://labs.perplexity.ai/)
 * ⭐ **[Ora](https://ora.ai/start)** - GPT-3.5 Based Chatbots
-* ⭐ **[Bard](https://bard.google.com/)** - Google's Chatbot
 * ⭐ **[Call Annie](https://callannie.ai/)** - GPT-3.5 Chatbot with Real-Time Voice and Video / [Discord](https://discord.gg/Rfbzet5R3v)
 * [Phind](https://www.phind.com/) - GPT-3.5 Powered Search
 * [Forefront](https://www.forefront.ai/) - GPT-3.5 / Claude-Instant Chatbot / [Discord](https://discord.com/invite/Wbc5cPPYSs)
