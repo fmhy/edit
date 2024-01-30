@@ -780,7 +780,7 @@
 * [Scarbir](https://www.scarbir.com/) or [Crinacle](https://crinacle.com/) - Headset & Earphone Comparisons
 * [MechGroupBuys](https://www.mechgroupbuys.com/) - Group Mechanical Keyboard Buying / [Discord](https://discord.com/invite/mechgroupbuys) / [Reddit](https://www.reddit.com/r/MechGroupBuys/)
 * [PSU Tier List](https://cultists.network/140/psu-tier-list/) - PSU Buying Guide
-* [PC Monitors](https://pcmonitors.info/),  [Monitor Hunter](https://docs.google.com/document/d/1illeNLsUfZ4KuJ9cIWKwTDUEXUVpplhUYHAiom-FaDo/), [DisplaySpecifications](https://www.displayspecifications.com/), [Monitor Spreadsheet](https://pastebin.com/tkmakRNW) or [DisplayNinja](https://www.displayninja.com/) - Monitor Buying Guides
+* [PC Monitors](https://pcmonitors.info/), [Monitor Hunter](https://docs.google.com/document/d/1illeNLsUfZ4KuJ9cIWKwTDUEXUVpplhUYHAiom-FaDo/), [DisplaySpecifications](https://www.displayspecifications.com/), [Monitor Spreadsheet](https://pastebin.com/tkmakRNW) or [DisplayNinja](https://www.displayninja.com/) - Monitor Buying Guides
 * [sven dpi](https://www.sven.de/dpi/) or [Screen Sizes](https://screensiz.es/) - Screen Size Comparisons
 * [Erin's Audio Corner](https://www.erinsaudiocorner.com/), [Speakerzilla](https://speakerzilla.com/) or [Equipboard](https://equipboard.com/) - Audio Equipment Comparisons
 * [InStockAlert_DataLover](https://discord.gg/jd6KaBUHG4) or [Fixitfixitfixit](https://discord.gg/gpu) - GPU / Xbox / PS5 Drop Notifications / [Guide](https://youtu.be/2cBRW9FeQ3A)
