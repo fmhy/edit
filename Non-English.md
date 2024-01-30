@@ -1299,12 +1299,9 @@
 * [TurkRu.TV](https://turkru.tv/) - Turkish TV / Sub / 720p
 * [Dokonlin](https://www.dokonlin.online/) - Documentaries / Dub / 1080p
 * [TVRF](https://tvrf.online/) - Live TV
-* [OnTVTime](https://www.ontvtime.ru/) - Live TV
 * [Viks](http://ip.viks.tv/) - Live TV
 * [Telik](https://telik.top/) - Live TV
-* [OnlineTV](https://onlinetv.one/) - Live TV
 * [ontivi](https://ip.ontivi.net/) - Live TV
-* [SPB TV](https://spbtvonline.ru/) - Live TV
 * [Glaz.tv](https://www.glaz.tv/) - Live TV
 * [DomaTV](http://vip.domatv.net/) - Live TV
 * [VIP-TV](https://vip-tv.online/) - IPTV Playlists
