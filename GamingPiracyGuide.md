@@ -640,7 +640,7 @@
 
 * ⭐ **[skribbl](https://skribbl.io/)**, [Sketchful](https://sketchful.io/), [Drawize](https://www.drawize.com/), [Pictioner](https://www.pictioner.com/) or [Gartic](https://gartic.io/) - Drawing / Guessing Game / Multiplayer
 * ⭐ **[GuessTheGame](https://guessthe.game/)** - Game Guessing Game
-* ⭐ **[GeoGuessr](https://www.geoguessr.com/)**, [Globle](https://globle-game.com/), [City Guesser](https://virtualvacation.us/guess), [Quizzity](https://david-peter.de/quizzity/), [Where Am I?](https://whereami.io/) or [Geotastic](https://geotastic.de/) - Location Guessing Game / [Guide](https://somerandomstuff1.wordpress.com/2019/02/08/geoguessr-the-top-tips-tricks-and-techniques/)
+* ⭐ **[GeoGuessr](https://www.geoguessr.com/)**, [Globle](https://globle-game.com/), [City Guesser](https://virtualvacation.us/guess), [Quizzity](https://david-peter.de/quizzity/), [Where Am I?](https://whereami.io/) or [Geotastic](https://geotastic.de/) - Location Guessing Game 
 * [20Q](http://www.20q.net/) or [Akinator](https://en.akinator.com/) - 20 Questions
 * [ChatGuessr](https://chatguessr.com/) - GeoGuessr for Twitch
 * [GTA V GeoGuesser](https://gta-geoguesser.com/) - GTA V GeoGuessr
