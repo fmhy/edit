@@ -569,7 +569,6 @@
 * [DBpedia](https://www.dbpedia.org/) - Datasets
 * [GBIF](https://www.gbif.org/) - Biodiversity Datasets
 * [DOAJ](https://doaj.org/) - Journals / Articles
-* [AcademicJournals](https://academicjournals.org/) - Journals / Articles
 * [mdpi](https://www.mdpi.com/) - Articles
 * [longdom](https://www.longdom.org/) - Articles
 * [Typewriter](https://tetw.org/) - Educational Articles & Essays The Electric
