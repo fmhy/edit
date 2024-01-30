@@ -308,7 +308,6 @@
 * [ShareMania](https://sharemania.us/) - 320kb / MP3
 * [RockDownload](https://www.rockdownload.org/) - 320kb / MP3
 * [SongsLover](https://songslover.vip/) - 256kb / MP3
-* [24naijamuzic](https://www20.24naijamuzic.com/) - 256kb / MP3
 * [Freemp3cloud](https://freemp3cloud.com) - 256kb / MP3
 * [Ezhevika](https://ezhevika.blogspot.com/) - 192kb / MP3
 * [Rhapsody](https://rentry.co/FMHYBase64#rhapsody) - 128kb / MP3
