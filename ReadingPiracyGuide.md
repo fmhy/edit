@@ -956,7 +956,6 @@
 * [RecommendMeABook](https://recommendmeabook.com/) - Book Recommendations
 * [WhichBook](https://www.whichbook.net/) - Book Recommendations
 * [Readow](https://readow.ai/) - Book Recommendations
-* [Readgeek](https://www.readgeek.com/) - Book Recommendations
 * [Shepherd](https://shepherd.com/) - Book Recommendations
 * [GoodBooks](https://www.goodbooks.io/) - Book Recommendations
 * [Literature-Map](https://www.literature-map.com/) - Book Recommendations
