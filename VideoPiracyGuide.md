@@ -264,7 +264,7 @@
 * [cytube](https://cytu.be/) - TV / Chat
 * [VaughnLive](https://vaughn.live/browse/misc) - TV / Chat
 * [Baked](https://baked.live/) - TV / Chat
-* [fun.cube](https://funcube.space/) - TV / Chat / [Backup](https://backup.funcube.space/)
+* [fun.cube](https://funcube.space/) - TV / Chat
 
 ***
 
