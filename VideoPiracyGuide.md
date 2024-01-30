@@ -351,7 +351,6 @@
 * [AsianCrush](https://www.asiancrush.com/) - TV / Movies
 * [KissKH](https://kisskh.co/) - TV
 * [ivdrama](https://ivdrama.me/) - TV / Movies
-* [NewTVDrama](https://www.newtvdrama.com/) - TV / Movies
 * [ADrama](https://www1.adrama.to/) - TV / Movies
 * [Viki](https://www.viki.com/) - TV / Movies
 * [KDramaHood](https://kdramahood.com/home2/) - TV / Movies
