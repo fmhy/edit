@@ -668,7 +668,6 @@
 * [Anime-Sharing](https://www.anime-sharing.com/) - Sub / Dub / Anime / Manga Download Forum
 * [Anime2Enjoy](https://www.anime2enjoy.com/) - Sub / [Discord](https://discord.gg/PxSmumS)
 * [DameDesuYo](https://damedesuyo.com/) - Sub / [Discord](https://discord.com/invite/zyzT4Sy6yJ)
-* [RIP Crabby Time](https://ripcrabbyanime.in/) - Sub / Dub
 * [AnimeLand](https://w4.animeland.tv/) - Dub
 * [CoolsAnime](https://coolsanime.me/a-to-z-index-of-anime-in-english-subbed/) - Sub
 * [Mix Bag of Anime](https://rentry.co/FMHYBase64#mix-bag-of-anime) - Sub / Dub
