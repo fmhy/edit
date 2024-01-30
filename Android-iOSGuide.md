@@ -219,7 +219,7 @@
 * [Touch The Notch](https://play.google.com/store/apps/details?id=com.notch.touch) - Use Camera Notch as Button
 * [Shelter](https://gitea.angry.im/PeterCxy/Shelter) or [Insular](https://gitlab.com/secure-system/Insular) - Isolate / Clone Apps
 * [AppBrain](https://www.appbrain.com/) - Analyze Android App Changes
-* [Thumb-Key](https://github.com/dessalines/thumb-key) or [Unexpected Keyboard](https://github.com/Julow/Unexpected-Keyboard) - Keyboard Apps
+* [openboard](https://github.com/openboard-team/openboard), [Thumb-Key](https://github.com/dessalines/thumb-key) or [Unexpected Keyboard](https://github.com/Julow/Unexpected-Keyboard) - Keyboard Apps
 * [Sayboard](https://github.com/ElishaAz/Sayboard) - AI Voice Keyboard
 * [Grammarly](https://rentry.co/FMHYBase64#grammarly-keyboard-premium) - Grammarly Keyboard Premium
 * [Volv](https://volvmedia.com/) - Android News App
