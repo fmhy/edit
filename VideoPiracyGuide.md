@@ -182,7 +182,6 @@
 * ⭐ **[Ubu](https://ubu.com/film/)** - Short Films / Avant-Garde
 * [Classic Cinema Online](https://classiccinemaonline.com/), [ClassixApp](https://www.classixapp.com/), [BnWMovies](https://bnwmovies.com/), [The Classic Movies](https://www.the-classic-movies.com/), [RetroFlix](https://retroflix.org/) or [Dumb Classic Movies](https://www.dumb.com/movies/) - Classic Films
 * [TheFilmDetective](https://www.thefilmdetective.com/) - Classic Films / TV
-* [RetroVision Media](https://www.retrovisionmedia.com/) - Retro / Classic Films
 * [RetroStrange](https://live.retrostrange.com/) - Live Retro Streams
 * [horror.watch](https://horror.watch/) - Classic Horror Films / May Need [OpenVideo](https://openvideofs.github.io)
 * [Silent Hall of Fame](https://silent-hall-of-fame.org/) - Silent Films
