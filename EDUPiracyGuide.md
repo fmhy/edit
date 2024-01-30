@@ -92,7 +92,6 @@
 * [/r/udemyfreebies](https://reddit.com/r/udemyfreebies) - Udemy Courses
 * [Automatic-Udemy-Course-Enroller](https://github.com/aapatre/Automatic-Udemy-Course-Enroller-GET-PAID-UDEMY-COURSES-for-FREE) or [Discounted-Udemy-Course-Enroller](https://github.com/techtanic/Discounted-Udemy-Course-Enroller) - Auto Udemy Course Enrollment
 * [Online Courses Tracker](https://comidoc.net/) - Udemy Courses
-* [SmartyBro](https://smartybro.com/) - Udemy Courses
 * [Techlinks](https://www.techlinks.in/udemy-free-coupons) - Udemy Courses
 * [course_drive](https://t.me/course_drive) - Udemy Courses / Telegram
 * [freecourseweb](https://t.me/freecourseweb) - Udemy Courses / Telegram
