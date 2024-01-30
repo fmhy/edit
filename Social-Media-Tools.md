@@ -469,7 +469,7 @@
 
 ## ▷ Twitch Clients
 
-* ⭐ **[Chatterino](https://chatterino.com/)**, [Chatsen](https://chatsen.app/), [Chatterino Homies](https://chatterinohomies.com/) or [Chatty](https://chatty.github.io/) - Twitch Chat Clients
+* ⭐ **[Chatterino](https://chatterino.com/)**, [Chatterino Homies](https://chatterinohomies.com/) or [Chatty](https://chatty.github.io/) - Twitch Chat Clients
 * [Orion](https://alamminsalo.github.io/orion/), [Twitch App](https://gitlab.com/twitch-application/application) or [Tress](https://gitlab.com/Ignamarte/tress) - Twitch Desktop Clients
 * [SpeechChat](https://speechchat.com/) - Twitch Text to Speech Client
 * [Twitch Lite](https://thavixt.github.io/twitch-lite/) - Lightweight Twitch Webplayer
