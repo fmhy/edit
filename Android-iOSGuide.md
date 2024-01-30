@@ -672,7 +672,7 @@
 * ⭐ **[Seeker](https://play.google.com/store/apps/details?id=com.companyname.andriodapp1)** - Audio Download App / Soulseek Frontend
 * ⭐ **[AudioRelay](https://audiorelay.net/)** - Stream PC Audio to Phone
 * ⭐ **[Pano Scrobbler](https://github.com/kawaiiDango/pano-scrobbler)** - Android Scrobbler
- * [ListenBrainsz](https://github.com/metabrainz/listenbrainz-android) - Music Tracking / Rating
+* [ListenBrainsz](https://github.com/metabrainz/listenbrainz-android) - Music Tracking / Rating
 * [Spowlo](https://github.com/BobbyESP/Spowlo/) - Spotify Audio Downloader
 * [YouTubeDL Android](https://github.com/yausername/youtubedl-android), [ytdlnis](https://github.com/deniscerri/ytdlnis), [Seal](https://github.com/JunkFood02/Seal) or [SongTube](https://github.com/SongTube/SongTube-App) - YouTube Audio Downloaders
 * [Shazam](https://www.shazam.com/), [SoundHound](https://www.soundhound.com/soundhound), [MusicRecognizer](https://github.com/aleksey-saenko/MusicRecognizer), [Audire](https://github.com/alexmercerind/audire) or [AmbientMusicMod](https://github.com/KieronQuinn/AmbientMusicMod) - Song Identification
@@ -796,14 +796,12 @@
 ## ▷ Android Anime
 
 * ⭐ **[Aniyomi](https://aniyomi.org/)** or [Animiru](https://github.com/Quickdesh/Animiru) - Movies / TV / Anime / [GitHub](https://github.com/jmir1/aniyomi)
-* [ZAnime](https://github.com/linkkader/zanime) / [Discord](https://rebrand.ly/linkkaderdiscord)
 * [Dantotsu](https://github.com/rebelonion/Dantotsu)
 * [Kaguya App](https://github.com/hoangvu12/kaguya-app/)
 * [Kazahana](https://github.com/yukino-org/kazahana)
 * [AniLab](https://anilab.to/)
 * [Akiyama](https://github.com/Fmaldonado6/Akiyama)
 * [AnimeChicken](https://animechicken.app/)
-* [Kaizoyu](https://github.com/astarivi/Kaizoyu)
 * [animity](https://github.com/kl3jvi/animity) / [Discord](https://discord.com/invite/eNuX9U57SM)
 * [AnimeScrap](https://github.com/fakeyatogod/AnimeScrap) - Anime Download App
 * [MALClient](https://github.com/Drutol/MALClient), [MyAnimeList Client](https://play.google.com/store/apps/details?id=net.myanimelist.app), [AL-chan](https://zend10.github.io/AL-chan/), [Nekome](https://github.com/Chesire/Nekome), [Otraku](https://play.google.com/store/apps/details?id=com.otraku.app), [Moelist](https://moelist.net/), [AniTrend](https://anitrend.co/) / [GitHub](https://github.com/AniTrend/anitrend-app) or [AniLib](https://anilib.onrender.com/) - Anime Trackers
@@ -851,6 +849,8 @@
 * [Offline File Browser](https://apps.apple.com/us/app/offline-files-browser-docs/id1557618225) or [Santander](https://github.com/SerenaKit/Santander) - File Managers
 * [Dropbox](https://testflight.apple.com/join/LBZaRq4I) - Cloud Storage
 * [DeDuplicate](https://deduplicate.app/) - Duplicate File Remover
+* [Should I Answer?](https://www.shouldianswer.net/) - Block Spam Calls
+* [The National Do Not Call Registry](https://www.donotcall.gov/) - Opt Out of Telemarketing Calls 
 * [touchHLE](https://github.com/hikari-no-yume/touchHLE) - iOS App Desktop Emulator
 * [Downgrade Apps](https://github.com/qnblackcat/How-to-Downgrade-apps-on-AppStore-with-iTunes-and-Charles-Proxy/) - How-to Downgrade Apps
 * [Drafts](https://getdrafts.com/), [FreeNotes](https://apps.apple.com/in/app/freenotes-note-taking/id6464237904) or [Bear](https://apps.apple.com/us/app/bear/id1016366447) - Note-Taking Apps
@@ -985,15 +985,12 @@
 
 * ⭐ **[AdGuard Pro](https://rentry.co/FMHYBase64#adguard-pro-ios)** - Adblocker / [Config](https://1fichier.com/?ef26ks4abjzct7o1k8os) / [Remote](https://apps.apple.com/app/apple-store/id1543143740)
 * [AdGuard Safari](https://adguard.com/en/adguard-safari/overview.html) - AdGuard for Safari
-* [Hyperweb](https://hyperweb.app/) - iOS Safari Adblock
 * [KF Panda-Player](https://apps.apple.com/us/app/kfpanda-player/id1460792262) - Turn any site into an App, without Ads 
 * [1Blocker](https://1blocker.com/), [Ka-Block!](http://kablock.com/) or [BlockParty](https://github.com/krishkumar/BlockParty) - Adblocker
 * [DNSCloak](https://apps.apple.com/us/app/dnscloak-secure-dns-client/id1452162351), [Naka AdBlocker](https://apps.apple.com/ca/app/naka-adblocker/id1525185489) or [NextDNS](https://apps.apple.com/ca/app/nextdns/id1463342498) - DNS Adblockers
 * [Video Lite](https://apps.apple.com/sa/app/video-lite-no-ads/id1598997500) - Video Browser w/Adblock
 * [iSponsorBlock](https://github.com/Galactic-Dev/iSponsorBlock) - Skip YouTube Sponsorships 
 * [Tweebot 6](https://apps.apple.com/us/app/tweetbot-6-for-twitter/id1527500834) - Ad-Free Twitter
-* [Should I Answer?](https://www.shouldianswer.net/) - Block Spam Calls
-* [The National Do Not Call Registry](https://www.donotcall.gov/) - Opt Out of Telemarketing Calls 
 
 ***
 
