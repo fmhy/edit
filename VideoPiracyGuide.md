@@ -154,7 +154,6 @@
 * [bitchute](https://www.bitchute.com/)
 * [V-S Mobi](https://v-s.mobi/)
 * [Videa](https://videa.hu/)
-* [krasview](https://oveg.ru/)
 * [Aparat](https://www.aparat.com/)
 * [NewTube](https://newtube.app/)
 * [tudou](https://www.tudou.com/)
