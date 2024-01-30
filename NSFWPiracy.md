@@ -428,7 +428,6 @@
 * [TMOHentai](https://tmohentai.com/) - Spanish Hentai Manga
 * [Manhwas](https://www.manhwas.net/) - Spanish Pornhwa
 * [Mihentai](https://mihentai.com/) - Indo Hentai Manga
-* [TachiyomiSY](https://tachiyomi.org/forks/TachiyomiSY/) - Android Hentai
 * [Hentaiser](https://hentaiser.com/en/) - Android Hentai
 * [Violet](https://github.com/project-violet/violet) - Android Hentai/ [Discord](https://discord.com/invite/fqrtRxC)
 * [Hentoid](https://github.com/avluis/Hentoid) - Android Hentai / [Discord](https://discord.com/invite/QEZ3qk9)
