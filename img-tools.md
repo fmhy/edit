@@ -25,6 +25,7 @@
 
 ## ▷ Editing Software
 
+* ⭐ **[Photoshop](https://w14.monkrus.ws/)**
 * ⭐ **[Gimp](https://www.gimp.org/)**, [2](https://github.com/cttynul/gimpshop-reloaded)
 * ⭐ **Gimp Tools** - [Photoshop UI](https://github.com/Diolinux/PhotoGIMP) / [Texture Synthesizer](https://github.com/bootchk/resynthesizer) / [Batch Editor](https://github.com/alessandrofrancesconi/gimp-plugin-bimp)
 * [darktable](https://www.darktable.org/) - Virtual Lighttable & Darkroom
