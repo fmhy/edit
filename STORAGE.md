@@ -937,6 +937,7 @@ http://104.131.175.196:8080/, http://70.88.180.169:8088/, http://207.237.122.161
 
 * https://www3.himovies.to/
 * https://solarmovies.win/
+* https://solarmovie.pe/
 * https://www2.6movies.net/
 * https://gomovies.sx/
 * https://www2.movieorca.com/
