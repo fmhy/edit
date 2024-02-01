@@ -1607,7 +1607,7 @@
 * [daprob](https://daprob.com/) - Manga
 * [scambertraslator](https://scambertraslator.com/) - Manga
 * [Leer Manga](https://r2.leermanga.xyz/) - Manga
-* [MangaCrab](https://manga-crab.com/) - Manga
+* [MangaCrab](https://httpmangacrab2.com/) - Manga
 * [Nova](https://novelasligeras.net/) - Manga / Light Novels
 * [Izicomics](https://www.izicomics.com/) - Manga / Comics
 * [MegaComicsTV3](https://megacomicstv3.blogspot.com/) - Comics
