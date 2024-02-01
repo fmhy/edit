@@ -181,7 +181,7 @@ Use [this](https://bitbucket.org/magnolia1234/bypass-paywalls-firefox-clean/src/
 
 ### Mobile Piracy
 
-**[Android AdGuard Premium](https://rentry.co/FMHYBase64#adguard-premium)** / **[iOS AdGuard Premium](https://rentry.co/FMHYBase64#adguard-pro-ios))** - Adblocking app
+**[Android AdGuard Premium](https://rentry.co/FMHYBase64#adguard-premium)** / **[iOS AdGuard Premium](https://rentry.co/FMHYBase64#adguard-pro-ios)** - Adblocking app
 **[Android Modded Spotify](https://rentry.co/FMHYBase64#modded-spotify-apk)** / **[iOS Modded Spotify](https://rentry.co/FMHYBase64#spotify)** - Modded Spotify
 **[Cromite](https://github.com/uazo/cromite) / [Firefox](https://www.mozilla.org/en-US/firefox/browsers/mobile/android/) / [Kiwi](https://play.google.com/store/apps/details?id=com.kiwibrowser.browser&hl=en_US&gl=US)** - Android web browsers
 **[Brave](https://apps.apple.com/us/app/brave-private-web-browser-vpn/id1052879175)** - iOS web browser / [Improve Safari](https://apps.apple.com/us/app/hyperweb/id1581824571)
