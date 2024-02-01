@@ -980,6 +980,7 @@
 * [Sileo](https://cydia.saurik.com/api/share#?source=https://repo.getsileo.app) or [Zebra](https://getzbra.com/) -  iOS Package Managers
 * [Repo Updates](https://www.ios-repo-updates.com/) - App Repository Updates
 * [CyDown](https://julio.hackyouriphone.org/description.html?id=com.julioverne.cydown) - Cracked Jailbreak Tweaks
+* [iDownloadBlog](https://www.idownloadblog.com) - Jailbreak News
 
 ***
 
@@ -1022,17 +1023,18 @@
 * ⭐ **[TrollStore](https://github.com/opa334/TrollStore)** or [TrollApps](https://github.com/TheResonanceTeam/TrollApps/) - Non-Appstore Apps / No-Jailbreak / 14.0-17.0 / [IPAs](https://github.com/swaggyP36000/TrollStore-IPAs)
 * [Streamiza](https://t.me/streamiza) - Tweaked Apps / Telegram / [Discord](https://linktr.ee/Streamiza)
 * [fnd](https://fnd.io/) - App Store Search
-* [AppDB](https://appdb.to) - App Library
+* [Cydia](https://cydia.saurik.com/) - App Store
+* [AppDB](https://appdb.to) - App Library 
 * [Mobilism iOS Apps](https://forum.mobilism.org/viewforum.php?f=312) - App Library / [User Ranks](https://pastebin.com/pZuuMxYm)
 * [App Cake](https://www.iphonecake.com/) - App Library
 * [iosninja](https://iosninja.io/ipa-library) - App Library
-* [Jailbreaks.app](https://jailbreaks.app/) - Library for Jailbreak Apps
+* [Jailbreaks.app](https://jailbreaks.app/) - App Library
 * [AppStore](https://t.me/iOSAppsFree) - Tweaked Apps
 * [AltStore](https://altstore.io/) or [SideStore](https://github.com/SideStore/SideStore) - App Store / [Repo Viewer](https://altsource.by.lao.sb/browse/) / [Alt Server](https://github.com/NyaMisty/AltServer-Linux)
 * [iOSObscura](https://archive.org/details/iOSObscura) - Old App Archive
 * [TestFlight](https://testflight.apple.com/) - Test Beta Apps / [Links](https://docs.google.com/spreadsheets/d/1Uej3AQPxRcLRXnmthUXR-7oGkNV_GsMFgCoNnuPtSwI/)
 * [AppleCensorship](https://applecensorship.com/) - Censored App Store Apps
-* [Decrypt.day](https://decrypt.day/) - Decrypt iOS Apps from the Appstore
+* [decrypt.day](https://decrypt.day/) - Decrypt iOS Apps
 
 ***
 
