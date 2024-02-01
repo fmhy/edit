@@ -186,8 +186,7 @@
 * [Esteroids](https://esteroids.eth.limo/#) - Decentralized Web Search Engine
 * [BoardReader](https://boardreader.com/), [CrowdView](https://crowdview.ai/) or [FindAForum](https://www.findaforum.net/Home/Search/) - Forum Search Engine 
 * [Blog Search Engine](https://www.blogsearchengine.org/), [Blog-Search](https://www.blog-search.com/), [BlogErnity](http://www.bloggernity.com/) or [SearchBlogspot](https://www.searchblogspot.com/) - Blog Search
-* [4chanSearch](https://4chansearch.com/) - 4chan Search
-* [Git Search Engine](https://zzollo.co/) - Search GitHub, GitLab etc.
+* [4chanSearch](https://4chansearch.com/) or [4search](https://4search.neocities.org/) - 4chan Search
 * [TikTok Quick Search](https://www.osintcombine.com/tiktok-quick-search) or [TikTok CSE](https://cse.google.com/cse?cx=c42f6b58703f83683) - TikTok Search 
 * [tumbex](https://www.tumbex.com/) - Tumblr Search
 * [AlsoAsked](https://alsoasked.com/) - Related Search Tool
@@ -333,7 +332,6 @@
 * [iqc](https://icq.com/) - Video Chat
 * [Briefing](https://brie.fi/ng) - Video Chat
 * [Talky](https://talky.io/) - Video Chat
-* [Pyrite](https://github.com/garage44/pyrite) - Video Chat
 * [GoTeam](https://goteam.video/) - Video Chat
 
 ***
@@ -443,6 +441,7 @@
 * ↪️ **[Adblocking](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25B7_adblocking_extensions) / [Privacy](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25B7_privacy_extensions) Extensions**
 * ↪️ **[Video Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video-tools#wiki_.25BA_video_download)**
 * ↪️ **[Image Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_image_download_extensions)**
+* ↪️ **[Productivity / Site Blocking](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25B7_productivity_tools)**
 * ↪️ **[Reverse Image Search](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_reverse_image_search)**
 * ↪️ **[Tab Managers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_tab_managers)**
 * ↪️ **[Customizable New Tab Page](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_browser_startpages)**
@@ -533,7 +532,6 @@
 * [Survol](https://survol.me/) - Preview Links 
 * [Distil](https://distill.io/) or [Update Scanner](https://sneakypete81.github.io/updatescanner/) - Page Change Detection / Notification
 * [Plucky](https://pluckyfilter.com/) - Content Filter
-* [Block Site](https://add0n.com/block-site.html), [LeechBlock](https://www.proginosko.com/leechblock), [uBlacklist](https://iorate.github.io/ublacklist/docs),  [Forest](https://pastebin.com/rYuAivA0) or [Tomato Clock](https://github.com/samueljun/tomato-clock) - Site Blockers
 * [Block Image Video](https://mybrowseraddon.com/block-image-video.html) - Block All Images & Videos
 * [Offline Mode](https://mybrowseraddon.com/offline-mode.html) - Disconnect Browser from the Internet
 * [WaybackEverywhere](https://gitlab.com/gkrishnaks/WaybackEverywhere-Firefox) - Auto Load Archived Versions of Dead Pages
@@ -602,7 +600,6 @@
 * [Sage-Like](https://addons.mozilla.org/en-US/firefox/addon/sage-like/) - RSS Feed Reader
 * [Want My RSS](https://github.com/Reeywhaar/want-my-rss) - Restores Firefox RSS Features
 * [Morning Coffee Quantum](https://addons.mozilla.org/en-US/firefox/addon/morning-coffee-quantum/) - Open Custom Website Lists 
-* [Wiper](https://github.com/davidahmed/wiper) - Block Sites
 * [Resurrect Pages](https://github.com/arantius/resurrect-pages) - View Archived / Cached Webpages
 * [Canvas](https://addons.mozilla.org/en-US/firefox/addon/canvas-google-images/) - View & Edit Google Images 
 * [Sitemod](https://sitemod.io/) - Inspect Element Changes to a Website
@@ -650,7 +647,6 @@
 * [CrxMouse (chrome)](https://crxmouse.com/) - Mouse Gestures
 * [Night Shift Redux](https://nightshift.lu/) - Adapts Display Color to Time of Day
 * [SmoothKeyScroll](https://www.smoothkeyscroll.com/) - Smooth Key Scrolling
-* [NudgeWare](https://nudgeware.io/), [Minto](https://chromewebstore.google.com/detail/minto/hcgkjlalkeaekjkelpilagbjcengeebl), [GoGo Productivity](https://chromewebstore.google.com/detail/gogo-productivity/mgefagaoblmbfcjoaiibbmobmkgoljia), [UnDistracted](https://www.undistracted.app/), [Focus-ToDo](https://chromewebstore.google.com/detail/ngceodoilcgpmkijopinlkmohnfifjfb) or [HabitLab](https://habitlab.github.io/) - Productivity Managers
 * [Simple Todo](https://chromewebstore.google.com/detail/simple-todo/kobeijgkgkcgknodjkganceliljepmjf) or [Todoist](https://chromewebstore.google.com/detail/todoist-for-chrome/jldhpllghnbhlbpcmnajkpdmadaolakhen) - To-Do List
 * [Blueticks](https://chromewebstore.google.com/detail/blueticks/adgnjhngogijkkppficiiepmjebijinl) - WhatsApp Scheduler
 * [Beanote](https://chromewebstore.google.com/detail/beanote-note-taking-on-we/nikccehomlnjkmgmhnieecolhgdafajb) or [Page Pad](https://chromewebstore.google.com/detail/page-pad-make-quick-notes/igobdfagkcadgcfooegonbbeeggagakn) - Web Page Note-Taking
