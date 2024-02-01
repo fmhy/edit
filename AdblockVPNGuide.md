@@ -372,6 +372,7 @@
 * [2FAS](https://2fas.com/) - Android / iOS 2FA / [Discord](https://discord.gg/q4cP6qh2g5)
 * [AuthenticatorPro](https://github.com/jamie-mh/AuthenticatorPro) - Android 2FA
 * [Mauth](https://github.com/X1nto/Mauth) - Android 2FA
+* [KeePassXC](https://keepassxc.org/) - Windows / Mac / Linux 2FA / [Guide](https://youtu.be/ckWPHaQwft8)
 * [AuthMe](https://github.com/Levminer/authme) - Windows / Mac / Linux 2FA
 * [Tauthy](https://github.com/pwltr/tauthy) - Windows / Mac / Linux 2FA
 * [Yubioath](https://developers.yubico.com/yubioath-flutter/) - Windows / Android 2FA / YubiKeys
