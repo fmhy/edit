@@ -299,8 +299,10 @@
 * [Film Books](https://rentry.co/FMHYBase64#film-books) - Books about Films
 * [HypnosisChatBooks](https://t.me/HypnosisChatBooks) - Hypnosis / Telegram
 * [diyhpluswiki](https://diyhpl.us/wiki/) - DIY Biohacking
+* [Fanfiction.net](https://fanfiction.net/), [Wattpad](https://wattpad.com/), [Royal Road](https://royalroad.com/) or [fiction.live](https://fiction.live/) - Fanfiction Sites
 * [Archive of Our Own](https://archiveofourown.org/) - Fanfiction Archive / [Enhancements](https://github.com/jsmnbom/ao3-enhancements/)
 * [Potions and Snitches](https://www.potionsandsnitches.org/) - Harry Potter Fanfiction
+* [Fim Fiction](https://www.fimfiction.net/) - MLP Fanfiction
 * [SCP Foundation](https://scp-wiki.wikidot.com/) / [Wiki](https://en.wikipedia.org/wiki/SCP_Foundation) / [Subreddit](https://www.reddit.com/r/SCPDeclassified/) or [OrionsArm](https://www.orionsarm.com/) - Fictional Story Colabs 
 * [Projectrho](https://www.projectrho.com/public_html/rocket/) - Fantasy Rocket Encyclopedia
 * [The Trove](https://web.archive.org/web/20210614215400/https://thetrove.is/) - Books / Fantasy / TTRPG
