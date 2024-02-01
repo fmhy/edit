@@ -542,7 +542,7 @@
 * [Phonetones](http://onj3.andrelouis.com/phonetones/) or [RingtoneRobot](https://t.me/RingtoneRobot) - Ringtones Directories
 * [RBoard](https://forum.xda-developers.com/t/app-rboard-theme-manager.4331445/) / [GitHub](https://github.com/DerTyp7214/RboardThemeManagerV3), [Repainter](https://play.google.com/store/apps/details?id=dev.kdrag0n.dyntheme) or [Substratum](https://www.xda-developers.com/substratum-hub/) - Theme Managers
 * [AlwaysOnEdge](http://www.aoeapps.com/) or [Dashbud](https://dashbud.dev/) / [Discord](https://discord.com/invite/78h7xgj) - Android Customization Apps
-* [VirtualXposed](https://github.com/android-hacker/VirtualXposed) or [LSPosed](https://github.com/LSPosed/LSPosed) - Xposed Frameworks
+* [VirtualXposed](https://github.com/android-hacker/VirtualXposed) - Xposed Frameworks
 * [Panels](https://play.google.com/store/apps/details?id=com.fossor.panels&hl=en_US&gl=QA) or [1 Edge](https://play.google.com/store/apps/details?id=com.hiruffy.controller) - Android Sidebar Panel
 * [Statusbar Icon Hider](https://play.google.com/store/apps/details?id=com.cooliehat.statusbariconhider) - Hide Status Bar Items
 * [Substratum Tweaks](https://github.com/luisbocanegra/substratum-tweaks) - System Theme
@@ -600,7 +600,6 @@
 
 # ► Android Gaming
 
-* 🌐 **[Awesome Pokemon](https://github.com/tobiasbueschel/awesome-pokemon)** - PokemonGO Resources
 * [GameEye](https://play.google.com/store/apps/details?id=com.hairyharri.gameye) - Video Game Tracking App
 * [PlatinMods](https://platinmods.com/) - Modded / Private Game Servers
 * [Pojav](https://pojavlauncherteam.github.io/) - Mobile Minecraft Launchers
