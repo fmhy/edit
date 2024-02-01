@@ -306,7 +306,7 @@
 * [ccMixter](https://ccmixter.org/) - DL / Stream / 320kb / MP3 
 * [ShareMania](https://sharemania.us/) - 320kb / MP3
 * [RockDownload](https://www.rockdownload.org/) - 320kb / MP3
-* [SongsLover](https://songslover.vip/) - 256kb / MP3
+* [SongsLover](https://songslover.me/) - 256kb / MP3 / [Telegram](https://t.me/SongsLoverin)
 * [Freemp3cloud](https://freemp3cloud.com) - 256kb / MP3
 * [Ezhevika](https://ezhevika.blogspot.com/) - 192kb / MP3
 * [Rhapsody](https://rentry.co/FMHYBase64#rhapsody) - 128kb / MP3
