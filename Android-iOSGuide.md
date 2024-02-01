@@ -977,7 +977,7 @@
 * [Sileo](https://cydia.saurik.com/api/share#?source=https://repo.getsileo.app) or [Zebra](https://getzbra.com/) -  iOS Package Managers
 * [Repo Updates](https://www.ios-repo-updates.com/) - App Repository Updates
 * [CyDown](https://julio.hackyouriphone.org/description.html?id=com.julioverne.cydown) - Cracked Jailbreak Tweaks
-
+* [iDownloadBlog](https://www.idownloadblog.com) - Jailbreak News
 ***
 
 ## ▷ iOS Adblocking
