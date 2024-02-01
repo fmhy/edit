@@ -15,6 +15,10 @@
 
 ## ▷ Adblocking Extensions
 
+**Note** - Don't run multiple general adblockers like ublock and adblock plus at the same time. Running more than one can cause breakage. This only applies to general adblockers, so running things like ublock and sponsorblock at the same time is fine.
+
+***
+
 * ↪️ **[Twitch Adblockers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/social-media#wiki_.25B7_twitch_adblockers)**
 * ⭐ **[uBlock Origin](https://github.com/gorhill/uBlock#installation)** - Adblocker / [Guide](https://addons.mozilla.org/blog/ublock-origin-everything-you-need-to-know-about-the-ad-blocker/) / [Advanced](https://youtu.be/2lisQQmWQkY)
 * ⭐ **[SponsorBlock](https://sponsor.ajay.app/)** - Skip Sponsored YouTube Ads / [Script](https://github.com/mchangrh/sb.js), [2](https://greasyfork.org/en/scripts/453320)
