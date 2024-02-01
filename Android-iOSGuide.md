@@ -1023,7 +1023,6 @@
 * ⭐ **[TrollStore](https://github.com/opa334/TrollStore)** or [TrollApps](https://github.com/TheResonanceTeam/TrollApps/) - Non-Appstore Apps / No-Jailbreak / 14.0-17.0 / [IPAs](https://github.com/swaggyP36000/TrollStore-IPAs)
 * [Streamiza](https://t.me/streamiza) - Tweaked Apps / Telegram / [Discord](https://linktr.ee/Streamiza)
 * [fnd](https://fnd.io/) - App Store Search
-* [Cydia](https://cydia.saurik.com/) - App Store
 * [AppDB](https://appdb.to) - App Library 
 * [Mobilism iOS Apps](https://forum.mobilism.org/viewforum.php?f=312) - App Library / [User Ranks](https://pastebin.com/pZuuMxYm)
 * [App Cake](https://www.iphonecake.com/) - App Library
