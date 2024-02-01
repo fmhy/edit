@@ -11375,7 +11375,6 @@ outline: false
 * [Gooey](https://github.com/chriskiehl/Gooey) - Convert Python Command Line to GUI
 * [mitmproxy](https://github.com/mitmproxy/mitmproxy) - HTTP Proxy
 * [BugSnag](https://www.bugsnag.com/) - Application Stability Monitor
-* [98.css](https://jdan.github.io/98.css/) - Build Windows 98 Themed Interfaces / [GitHub](https://github.com/jdan/98.css)
 * [Kubeorbit](https://github.com/teamcode-inc/kubeorbit) - Application Testing / Debugging
 * [Inno Setup](https://jrsoftware.org/isinfo.php) or [InstallForge](https://www.installforge.net/) - Create Installation Programs
 * [Jina](https://github.com/jina-ai/jina) - Create AI Applications
@@ -11717,6 +11716,7 @@ outline: false
 * [WNIX](https://gitlab.com/gokhanettin/wnix) - UNIX-like Windows Development Environment
 * [ripgrep](https://github.com/BurntSushi/ripgrep) or [Sift](https://sift-tool.org/) - grep Alternatives
 * [Edbrowse](https://edbrowse.org/) - Command Line Editor / Browser / Mail Client
+* [Atuin](https://atuin.sh/) - Sync, search and backup shell history
 * [Zoxide](https://github.com/ajeetdsouza/zoxide) - Improved CD Command
 * [YQ](https://github.com/mikefarah/yq) - Portable YAML Processor
 * [yoctocolors](https://github.com/sindresorhus/yoctocolors) - Command Line Coloring Package
