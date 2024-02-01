@@ -111,8 +111,7 @@
 * ⭐ **[Pingo](https://css-ig.net/pingo)** / [GUI](https://css-ig.net/pinga), [RIOT](https://riot-optimizer.com/), [YOGA](https://yoga.flozz.org/) or [ImageFoo](https://imagefoo.com/) - Image Optimization Tools
 * [imverter](https://www.imverter.com/), [Raw Pics](https://raw.pics.io/), [Converseen](https://converseen.fasterland.net/), [Vector Magic](https://vectormagic.com/) or [WebP Converter](https://webp-converter.com/) - Image Converters 
 * [svgco](https://svgco.de/) - Image to SVG Converter
-* [ImageWorsener](https://entropymine.com/imageworsener/)
-* [G'MIC](https://gmic.eu/)
+* [ImageWorsener](https://entropymine.com/imageworsener/) - Image Filters / Blur / Resizing
 * [AnsiLove](https://www.ansilove.org/downloads.html) or [convert-ascii-to-image](https://onlinetools.com/ascii/convert-ascii-to-image) - ANSI / ASCII Art to PNG Converters
 * [Vector Express](https://vector.express/) - Vector Converter
 * [Vectorizer](https://www.vectorizer.io/) or [AutoTracer](https://www.autotracer.org/) - Image Vectorizer 
@@ -570,6 +569,7 @@
 * [HoneyView](https://en.bandisoft.com/honeyview/)
 * [picturama](https://picturama.github.io/)
 * [narrative](https://narrative.so/)
+* [G'MIC](https://gmic.eu/)
 * [BeeRef](https://beeref.org/) - Reference Image Viewer
 * [HDRView](https://github.com/wkjarosz/hdrview) - HDR Image Viewer
 * [FlipFlip](https://github.com/ififfy/flipflip/) - Image Slideshow
