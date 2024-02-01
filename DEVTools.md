@@ -1492,10 +1492,11 @@
 * 🌐 **[Awesome-Instruction-Dataset](https://github.com/yaodongC/awesome-instruction-dataset)** or [Dataset Card for Alpaca](https://huggingface.co/datasets/tatsu-lab/alpaca) - Language Model Training Datasets
 * ⭐ **[Hugging Face](https://huggingface.co/)** or [OpenML](https://www.openml.org/) - Machine Learning Datasets
 * ⭐ **[Deep playground](http://playground.tensorflow.org/)** - Neural Networks Playground
+* ⭐ **[LLM Visualization](https://bbycroft.net/llm)** - Learn how LLMs Work
 * [Machine Learning Roadmap](https://rentry.org/machine-learning-roadmap) - Learn Machine Learning
 * [LLM Training](https://rentry.org/llm-training) - LLM Training Guide
 * [TeachableMachine](https://teachablemachine.withgoogle.com/) or [TensorFlow](https://www.tensorflow.org/) - Create Machine Learning Models
-* [OpenAIPlayground](https://github.com/nat/openplayground)
+* [OpenAIPlayground](https://github.com/nat/openplayground) - LLM Playground
 * [DVC](https://dvc.org/) - Machine Learning Version Control
 * [DeepSpeed](https://github.com/microsoft/DeepSpeed) - Deep Learning Optimization Library
 * [FlowiseAI](https://flowiseai.com/) - LLM Flow Visualization
