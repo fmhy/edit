@@ -3340,7 +3340,6 @@ Emoji Legend:
 * [AndroidFaker](https://github.com/Android1500/AndroidFaker) - Device ID Spoofing
 * [TrustDevice-Android](https://github.com/trustdecision/trustdevice-android) - Create Device Identifiers
 * [Keyoxide](https://codeberg.org/Berker/keyoxide-flutter) - Verify Decentralized Cryptographic Identities
-* [Fritter](https://fritter.cc/) or [Squawker](https://github.com/j-fbriere/squawker) - Privacy-Based Twitter Clients / [Redirect](https://github.com/AucT/twitter2nitter)
 * [Intra](https://play.google.com/store/apps/details?id=app.intra&amp;hl=en_US) - System Wide DoH for Android
 * [AnySoftKeyboard](https://anysoftkeyboard.github.io/) / [Git](https://github.com/AnySoftKeyboard/AnySoftKeyboard) or [Florisboard](https://github.com/florisboard/florisboard) - Incognito Keyboard
 * [Matsuri](https://github.com/MatsuriDayo/NekoBoxForAndroid) - Proxy Toolchains
@@ -3603,7 +3602,7 @@ Emoji Legend:
 * ⭐ **[Mobilism](https://forum.mobilism.org/app/)** / [User Ranks](https://pastebin.com/pZuuMxYm), [Openlib](https://github.com/dstark5/Openlib) or [Project Gutenberg](https://github.com/Pool-Of-Tears/Myne) - Ebook Site Apps
 * ⭐ **[Librera](https://librera.mobi/)** or **[Lithium](https://play.google.com/store/apps/details?id=com.faultexception.reader)** - Ebook Reader
 * ⭐ **[Readera](https://play.google.com/store/apps/details?id=org.readera)** - PDF Reader
-* ⭐ **[Mihon](https://mihon.app/)** - Manga Reader / [Extensions](https://keiyoushi.github.io/extensions/), [2](https://discord.gg/3FbCpdKbdY) / [Forks](https://mihon.app/forks/)
+* ⭐ **[Mihon](https://mihon.app/)** - Manga Reader / [Extensions](https://keiyoushi.github.io/extensions/), [2](https://discord.gg/3FbCpdKbdY) / [Official Forks](https://mihon.app/forks/), [2](https://github.com/null2264/yokai), [3](https://github.com/nekomangaorg/Neko)
 * ⭐ **[Kotatsu](https://kotatsu.app/)** - Manga Reader
 * [Openreads](https://github.com/mateusz-bak/openreads-android), [NeverTooManyBooks](https://github.com/tfonteyn/NeverTooManyBooks) or [Basmo](https://basmo.app/) - Book Managers / Trackers
 * [KafkaArchives](https://www.kafkaarchives.com/) - Archive.org Books / Audiobooks
@@ -3980,7 +3979,7 @@ Emoji Legend:
 
 # ► iOS Apps
 
-* 🌐 **[CyPwn](https://ipa.cypwn.xyz/)** - Tweaked App Library / [Discord](https://discord.gg/cypwn)
+* 🌐 **[CyPwn](https://ipa.cypwn.xyz/)** - Tweaked App Library
 * 🌐 **[ReJail](https://rejail.ru/)** - Cracked Tweaks Repository
 * 🌐 **[Open-Source iOS Apps](https://github.com/dkhamsing/open-source-ios-apps)** - Open-Source Apps
 * ⭐ **[TrollStore](https://github.com/opa334/TrollStore)** or [TrollApps](https://github.com/TheResonanceTeam/TrollApps/) - Non-Appstore Apps / No-Jailbreak / 14.0-17.0 / [IPAs](https://github.com/swaggyP36000/TrollStore-IPAs)
