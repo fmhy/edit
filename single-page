@@ -3614,8 +3614,8 @@ Emoji Legend:
 * [K2pdfopt](https://willus.com/k2pdfopt/) - Optimize PDF/DJVU Files for Mobile E-Readers
 * [Voice](https://github.com/PaulWoitaschek/Voice), [Smart Audiobook Player](https://play.google.com/store/apps/details?id=ak.alizandro.smartaudiobookplayer), [AudioAnchor](https://github.com/flackbash/AudioAnchor) or [eStories](https://play.google.com/store/apps/details?id=com.estories) - Audiobook Players
 * [Neko](https://github.com/nekomangaorg/Neko) - Manga Reader
-* [Perfect Viewer](https://rentry.co/FMHYBase64#perfect-viewer), [MangaDLR](https://bitbucket.org/cylonu87/mangadlr/downloads/), [Manga Reader](https://flathub.org/apps/details/com.georgefb.mangareader), [Manga Tag](https://www.mangatag.com/), [AnimeChicken](https://animechicken.app/), [Kinoko](https://github.com/gsioteam/kinoko) or [Atsumaru](https://github.com/TheUndo/Atsumaru) - Manga File Viewers
-* [IsManga Translator](https://ismanga.com/) - Manga Translator
+* [Perfect Viewer](https://rentry.co/FMHYBase64#perfect-viewer), [MangaDLR](https://bitbucket.org/cylonu87/mangadlr/downloads/), [Manga Tag](https://www.mangatag.com/), [AnimeChicken](https://animechicken.app/), [Kinoko](https://github.com/gsioteam/kinoko) or [Atsumaru](https://github.com/TheUndo/Atsumaru) - Manga File Viewers
+* [IsManga Translator](https://ismanga.com/) or [lingshot](https://github.com/CharlesMoreira1/lingshot) - Manga Translators
 * [ComicScreen](https://play.google.com/store/apps/details?id=com.viewer.comicscreen) or [Seeneva](https://seeneva.app/) - Comic Readers
 * [OpenComicVine](https://github.com/proninyaroslav/OpenComicVine) - Comic Tracker
 * [Shosetsu](https://shosetsu.app/) - Light Novels / [GitHub](https://gitlab.com/shosetsuorg/shosetsu) / [Dev Builds](https://github.com/shosetsuorg/shosetsu-preview) / [Discord](https://discord.gg/ttSX7gB) 
@@ -3871,7 +3871,7 @@ Emoji Legend:
 * [Walkie-Talkie](https://walkie-talkie.io/) - Walkie-Talkie App
 * [ZX81](https://apps.apple.com/us/app/zx81/id1180117434) - Sinclair ZX81 Emulator
 * [iMessage Exporter](https://github.com/ReagentX/imessage-exporter) - Export iMessage Chats
-* [Nicegram](https://nicegram.app/) - Telegram App
+* [Nicegram](https://nicegram.app/) or [Swiftgram](https://apps.apple.com/us/app/swiftgram/id6471879502) - Telegram Apps
 * [ipamagnatios](https://t.me/ipamagnatios) - Modded TikTok App
 * [Conversations](https://f-droid.org/en/packages/eu.siacs.conversations/) - XMPP Client
 * [Watusi](https://watusi.fouadraheb.com/) - Modded WhatsApp
