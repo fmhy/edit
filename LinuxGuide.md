@@ -59,8 +59,10 @@
 * [Meteo](https://gitlab.com/bitseater/meteo) - Weather App
 * [Client Evolution](https://help.gnome.org/users/evolution/stable/) - Calendar
 * [todo](https://github.com/sioodmy/todo/) - To-Do Apps
+* [Timestrap](https://timestrap.bythewood.me/) or [Mindfulness at the Computer](https://mindfulness-at-the-computer.gitlab.io/) - Productivity Managers
 * [SafeEyes](https://slgobinath.github.io/SafeEyes/) - Break Reminders
 * [Dijo](https://github.com/NerdyPepper/dijo) - Activity Tracker
+* [Manga Reader](https://flathub.org/apps/details/com.georgefb.mangareader) - Manga Reader
 * [dunst](https://dunst-project.org/) - Customizable Notification Daemon / [GitHub](https://github.com/dunst-project/dunst)
 * [A2LN](https://github.com/patri9ck/a2ln-app) - Display Android Notifications on Linux
 * [Breathing](https://github.com/SeaDve/Breathing) - Relaxation / Breathing Tool
@@ -281,7 +283,7 @@ Linux Gaming Guide
 * [Hardcode Tray](https://github.com/bilelmoussaoui/Hardcode-Tray) - Hardcoded Tray Icon Fix
 * [open-gpu-kernel-modules](https://github.com/NVIDIA/open-gpu-kernel-modules) - NVIDIA Linux Open GPU Kernel Module
 * [nosystemd](https://nosystemd.org/) - Alternatives to Systemd
-* [Pinn](https://github.com/procount/pinn) - Rasberry Pi OS Installer / [Resources](https://rpi.thibmaek.com/)
+* [Pinn](https://github.com/procount/pinn) - Rasberry Pi OS Installer
 * [Raspberry Pi 4 Bootloader USB Mass Storage Boot Guide](https://jamesachambers.com/new-raspberry-pi-4-bootloader-usb-network-boot-guide/) - How-to Boot Raspberry Pi from USB
 
 ***
@@ -490,7 +492,7 @@ Linux Gaming Guide
 * [KeyPad](https://apps.apple.com/in/app/keypad-bluetooth-keyboard/id1491684442) - Connect Mac Keyboard to Mobile Devices
 * [Pinch](https://github.com/danqing/Pinch) - Trackpad Pinch to Zoom Gesture
 * [LinearMouse](https://linearmouse.app/) - Custom Mouse / Trackpad Options
-* [CheatSheet](https://www.mediaatelier.com/CheatSheet/) or [KeyClu](https://sergii.tatarenkov.name/keyclu/support/) - Shortcut CheatSheet for Current Application
+* [KeyClu](https://sergii.tatarenkov.name/keyclu/support/) - Shortcut CheatSheet for Current Application
 * [KeyCastr](https://github.com/keycastr/keycastr) - Keystroke Visualizer
 * [MonitorControl](https://monitorcontrol.app/) - External Monitor Brightness / Volume Control
 * [BackgroundMusic](https://github.com/kyleneideck/BackgroundMusic) - Volume Mixer / Auto-Pause
