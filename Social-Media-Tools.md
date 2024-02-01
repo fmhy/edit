@@ -55,6 +55,7 @@
 * [Discord-Datamining](https://github.com/Discord-Datamining/Discord-Datamining) - Discord Datamining via JS Files
 * [Discord TTS Bot](https://github.com/moonstar-x/discord-tts-bot) - Text to Speech for Discord
 * [Discord Webhooks Guide](https://birdie0.github.io/discord-webhooks-guide/) - Webhooks Guide
+* [Webhooker](https://xdfnleaks.github.io/webhooker/) - Simple Webhooks App
 * [Embed Visualizer](https://embed.discord.website/) - Preview Embeds
 * [FixTweet](https://github.com/FixTweet/FixTweet) - Fix Twitter Embeds
 * [InstaFix](https://ddinstagram.com/) - Fix Instagram Embeds
@@ -366,7 +367,6 @@
 * 🌐 **[TheFrenchGhosty's Ultimate YouTube-DL Scripts Collection](https://github.com/TheFrenchGhosty/TheFrenchGhostys-Ultimate-YouTube-DL-Scripts-Collection)** - YouTube Download Scripts Index
 * ⭐ **[YT-DLP](https://github.com/kazukikasama/youtube-dlp-gui-installer)**, [2](https://github.com/StefanLobbenmeier/youtube-dl-gui) - Multi-Site / [GitHub](https://github.com/yt-dlp/yt-dlp) or [YTDL-PATCHED](https://github.com/ytdl-patched/ytdl-patched) - YouTube Downloaders
 * [YoutubeDownloader](https://github.com/Tyrrrz/YoutubeDownloader) or [YoutubeDL-Material](https://github.com/Tzahi12345/YoutubeDL-Material) - YouTube Downloaders
-* [Local YouTube Downloader](https://greasyfork.org/en/scripts/369400) - Userscript for Downloading Videos
 * [YouTube Qualities Size](https://greasyfork.org/en/scripts/404953-youtube-qualities-size) - Show YouTube File Sizes 
 * [totalsize](https://pypi.org/project/totalsize/) - Calculate Size of All Videos in a Playlist
 * [YouTubePlaylist](https://youtubeplaylist.cc/) - Playlist Downloader
