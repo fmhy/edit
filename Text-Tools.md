@@ -334,7 +334,6 @@
 * [ToDoZero](https://todozero.com/)
 * [LifeAt](https://lifeat.io/)
 * [DoNotes](https://donotes.co.uk/)
-* [Planner](https://useplanner.com/)
 * [Super Productivity](https://super-productivity.com/)
 * [Tasks](https://github.com/BaldissaraMatheus/Tasks.md)
 * [Taskwarrior](https://taskwarrior.org/)
