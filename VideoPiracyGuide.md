@@ -9,7 +9,7 @@
 ## ▷ Multi Server
 
 * ⭐ **[watch.lonelil](https://watch.lonelil.com/)**, [2](https://12131989.xyz/) - Movies / TV / Anime / 4K / 1080p / [Proxy Fix (Important)](https://watch.lonelil.com/onboarding) / [Discord](https://discord.com/invite/BKts6Jb5sA)
-* ⭐ **[movie-web](https://movie-web.app/)** - Movies / TV / 1080p / 4K / [Proxy Fix (Important)](https://movie-web.app/onboarding) / [Discord](https://discord.gg/vXsRvye8BS)
+* ⭐ **[movie-web](https://movie-web.app/)** - Movies / TV / 4K / 1080p / [Proxy Fix (Important)](https://movie-web.app/onboarding) / [Discord](https://discord.gg/vXsRvye8BS)
 * ⭐ **[Braflix](https://www.braflix.app/)** - Movies / TV / Anime / 4K / 1080p / [Discord](https://discord.gg/wWKmxARaWH)
 * ⭐ **[FMovies](https://fmoviesz.to/)** - Movies / TV / Anime / 1080p / [Mirrors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_fmovies_clones)
 * ⭐ **[FlixHQ](https://flixhq.click/)** - Movies / TV / Anime / 1080p
