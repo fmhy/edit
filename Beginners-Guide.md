@@ -75,7 +75,6 @@ Use [this](https://bitbucket.org/magnolia1234/bypass-paywalls-firefox-clean/src/
 **[Browser Extensions](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools#wiki_.25B7_browser_extensions) / [Userscripts](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools#wiki_.25B7_userscripts)** - Add features & functionality to browsers
 **[Dark Reader](https://darkreader.org/)** - Dark mode for all sites
 **[ReturnYoutubeDislikes](https://returnyoutubedislike.com/)** - View YouTube dislikes
-**[Translate Web Pages](https://github.com/FilipePS/Traduzir-paginas-web)** - Translate sites
 
 ***
 
