@@ -4,7 +4,9 @@
 ***
 ***
 
-# ► Editing Software
+# ► Image Editing
+
+## ▷ Editing Software
 
 * ⭐ **[Photoshop](https://w14.monkrus.ws/)**
 * ⭐ **[Gimp](https://www.gimp.org/)**, [2](https://github.com/cttynul/gimpshop-reloaded)
