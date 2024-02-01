@@ -600,7 +600,7 @@
 ## ▷ Mastodon Tools
 
 * ⭐ **[Mastodon](https://joinmastodon.org/)** - Federated Twitter Alternative
-* 🌐 **[Mastodon Instances](https://instances.social/)** - Mastodon Instances Index
+* 🌐 **[Mastodon Instances](https://instances.social/)** or [Mastodon Near Me](http://mastodon-near.me/) - Mastodon Instance Indexes
 * [Tuba](https://tuba.geopjr.dev/) or [Kaiteki](https://kaiteki.app/) - Mastodon Viewers
 * [Mastodon Scheduler](https://scheduler.mastodon.tools/) - Schedule Sending Posts
 * [MastoVue](https://mastovue.glitch.me/) - View Public Timelines / Hashtags
