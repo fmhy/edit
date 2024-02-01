@@ -8,7 +8,6 @@ const { frontmatter } = useData()
   <a
     v-if="frontmatter.hero.prelink"
     :href="frontmatter.hero.prelink.link"
-    target="_blank"
     class="inline-flex items-center rounded-lg bg-[var(--vp-c-default-soft)] px-4 py-1 text-sm font-semibold mb-3"
   >
     {{ frontmatter.hero.prelink.title }}
