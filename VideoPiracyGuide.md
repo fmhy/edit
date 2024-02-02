@@ -388,7 +388,7 @@
 * [Sport Video](https://www.sport-video.org.ua/) - Multiple Sports / Torrents
 * [WatchWrestling.ae](https://watchwrestling.ae/) - MMA / Wrestling
 * [WatchWrestling.wtf](https://watchwrestling.wtf/) - MMA / Wrestling
-* [WatchWrestlingOnline](https://watchwrestlingonline.net/) - MMA / Wrestling
+* [Watch-Wrestling.eu](https://watch-wrestling.eu/) - MMA / Wrestling
 * [FullFights](https://fullfights.net/) - MMA / Wrestling
 * [MMA High Kick](https://www.mmahighkick.com/) - MMA / Boxing
 * [Hula8](https://www.hula8.net/) - MMA
