@@ -768,7 +768,6 @@
 * [Tuner Radio](https://www.downloader.world/) - Movies / TV
 * [StreamFlix](https://github.com/stantanasi/streamflix) - Movies / TV
 * [FlixQuest](https://github.com/BeamlakAschalew/flixquest) - Movies / TV
-* [OnStream](https://onstream.so/) - Movies / TV
 * [Rokkr](https://www.rokkr.net/) - Movies / TV / Add "huhu.to", "bs.to" or "oha.to"
 * [Moviesy](https://github.com/KaustubhPatange/Moviesy) - YTS Torrents 
 * [EncoreTVB](https://play.google.com/store/apps/details?id=com.tvbusa.english&amp;hl=en_US) - Chinese Drama 
