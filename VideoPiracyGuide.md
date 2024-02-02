@@ -182,7 +182,6 @@
 * [Classic Cinema Online](https://classiccinemaonline.com/), [ClassixApp](https://www.classixapp.com/), [BnWMovies](https://bnwmovies.com/), [The Classic Movies](https://www.the-classic-movies.com/), [RetroFlix](https://retroflix.org/) or [Dumb Classic Movies](https://www.dumb.com/movies/) - Classic Films
 * [TheFilmDetective](https://www.thefilmdetective.com/) - Classic Films / TV
 * [RetroStrange](https://live.retrostrange.com/) - Live Retro Streams
-* [horror.watch](https://horror.watch/) - Classic Horror Films / May Need [OpenVideo](https://openvideofs.github.io)
 * [Silent Hall of Fame](https://silent-hall-of-fame.org/) - Silent Films
 * [Wu Tang Collection](https://www.thewutangcollection.com/) - Martial Arts Films
 * [tokuzilla](https://tokuzilla.net/) - Tokuzilla Movies / Shows
