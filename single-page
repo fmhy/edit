@@ -8045,7 +8045,8 @@ Emoji Legend:
 ## ▷ ChatGPT Tools
 
 * 🌐 **[Awesome ChatGPT](https://github.com/uhub/awesome-chatgpt)** - ChatGPT Resources
-* 🌐 **[Awesome Free ChatGPT](https://github.com/LiLittleCat/awesome-free-chatgpt/blob/main/README_en.md)** or **[FOFA](https://en.fofa.info/result?qbase64=ImxvYWRpbmctd3JhcCIgJiYgImJhbGxzIiAmJiAiY2hhdCIgJiYgaXNfZG9tYWluPXRydWU%3D)** / [2](https://en.fofa.info/result?qbase64=dGl0bGU9PSJDaGF0R1BUIFdlYiI%3D) - ChatGPT WebUIs
+* 🌐 **[Awesome Free ChatGPT](https://github.com/LiLittleCat/awesome-free-chatgpt/blob/main/README_en.md)** or **[FOFA](https://en.fofa.info/result?qbase64=ImxvYWRpbmctd3JhcCIgJiYgImJhbGxzIiAmJiAiY2hhdCIgJiYgaXNfZG9tYWluPXRydWU%3D)** / [2](https://en.fofa.info/result?qbase64=dGl0bGU9PSJDaGF0R1BUIFdlYiI%3D) - ChatGPT WebUI Indexes
+* ⭐ **[wrtn](https://wrtn.ai/)** (ask for english), [Vitalentum](https://vitalentum.net/free-chat-gpt) or [AnonChatGPT](https://anonchatgpt.com/) - ChatGPT WebUIs
 * ⭐ **[AI Playground](https://play.vercel.ai/)**, [h2oGPT](https://gpt.h2o.ai/) or [ChatHub](https://chathub.gg/) - Compare AI Responses
 * ⭐ **[ChatPDF](https://www.chatpdf.com/)** or [Ask Your PDF](https://askyourpdf.com/) - Turn PDFs into Chatbots
 * [Erin](https://erin.ac/) or [SallyBot](https://github.com/DeSinc/SallyBot/) - ChatGPT Discord Bots
@@ -8053,7 +8054,7 @@ Emoji Legend:
 * [PrivateGPT](https://github.com/imartinez/privateGPT/) or [ChatDocs](https://github.com/marella/chatdocs) - Offline Document Chatbots
 * [ChatGPT DeMod](https://github.com/4as/ChatGPT-DeMod) - Block ChatGPT Moderation Checks
 * [TGPT](https://github.com/aandrew-me/tgpt) - ChatGPT in TUIs
-* [LibreChat](https://github.com/danny-avila/LibreChat), [SmolAI](https://github.com/smol-ai/menubar/), [Chatbot-UI](https://github.com/mckaywrigley/chatbot-ui) or [yakGPT](https://github.com/yakGPT/yakGPT) - Desktop Apps / GUIs
+* [LibreChat](https://github.com/danny-avila/LibreChat),  [HemulGM](https://github.com/HemulGM/ChatGPT), [SmolAI](https://github.com/smol-ai/menubar/), [Chatbot-UI](https://github.com/mckaywrigley/chatbot-ui) or [yakGPT](https://github.com/yakGPT/yakGPT) - Desktop Apps / GUIs
 * [ParallelGPT](https://www.parallelgpt.ai/) - Data Processing AI
 * [ChatGPT File Uploader](https://chromewebstore.google.com/detail/chatgpt-file-uploader/oaogphgfdbdbmhkiplemgehihiiececj) - File Upload Extension
 * [ChatGPT Advanced](https://tools.zmo.ai/webchatgpt) - Add Search Results to ChatGPT
@@ -8178,7 +8179,6 @@ Emoji Legend:
 * [DiffusionBee](https://diffusionbee.com/) - Mac Local AI Frontend / [GitHub](https://github.com/divamgupta/diffusionbee-stable-diffusion-ui) / [Discord](https://discord.com/invite/t6rC5RaJQn)
 * [StableStudio](https://github.com/Stability-AI/StableStudio)
 * [Easy Diffusion](https://stable-diffusion-ui.github.io/)
-* [HemulGM](https://github.com/HemulGM/ChatGPT)
 * [Makeayo](https://makeayo.com) / [Discord](https://discord.gg/FbdSxdeV8m)
 * [Sygil WebUI](https://github.com/Sygil-Dev/sygil-webui) / [Discord](https://discord.com/invite/ttM8Tm6wge)
 * [Radiata](https://github.com/ddPn08/Radiata)
