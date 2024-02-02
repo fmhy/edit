@@ -409,11 +409,11 @@
 * ↪️ **[Email Aliasing](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_email_aliasing)**
 * ↪️ **[Anon Emails](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_send_anonymous_emails)**
 * ⭐ **[Proton Mail](https://proton.me/mail)** - Encrypted Email
+* ⭐ **[Tutanota](https://tutanota.com/)** - Encrypted Email
 * ⭐ **[Skiff Mail](https://skiff.com/mail)** - Encrypted Email
-* ⭐ **[EmailPrivacyTester](https://www.emailprivacytester.com/)** - Email Privacy Test
 * ⭐ **[Have I been Pwned?](https://haveibeenpwned.com/)** or [GhostProject](https://ghostproject.fr/) - Monitor Email Breaches
+* [EmailPrivacyTester](https://www.emailprivacytester.com/) - Email Privacy Test
 * [OpenPGP](https://www.openpgp.org/) - Email Encryption / [Guide](https://riseup.net/en/security/message-security/openpgp/best-practices)
-* [Tutanota](https://tutanota.com/) - Encrypted Email
 * [/r/emailprivacy](https://reddit.com/r/emailprivacy) - Discussion of Email Privacy / Security / Anonymity
 
 ***
