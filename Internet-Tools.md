@@ -54,6 +54,7 @@
 
 * ⭐ **[KeePass XC](https://keepassxc.org/)**, [2](https://keepass.info/) - [Ports](https://keepass.info/download.html) / [Plugins](https://keepass.info/plugins.html) / [Read-Only Functionality](https://subdavis.com/Tusk/) / [CLI](https://github.com/rebkwok/kpcli)
 * ⭐ **[Bitwarden](https://bitwarden.com/)** - [bitwarden_gcloud](https://github.com/dadatuputi/bitwarden_gcloud) / [Server](https://github.com/dani-garcia/vaultwarden) / [GUI](https://github.com/Sife-ops/dmenu_bw)
+* ⭐ **[Proton Pass](https://proton.me/pass)** - [Chrome](https://chromewebstore.google.com/detail/proton-pass-free-password/ghmbeldphafepmbegfdlkpapadhbakde) / [Firefox](https://addons.mozilla.org/en-US/firefox/addon/proton-pass/) / [iOS](https://apps.apple.com/us/app/proton-pass-password-manager/id6443490629) / [Play Store](https://play.google.com/store/apps/details?id=proton.android.pass)
 * [TeamPass](https://teampass.net/) - Collaborative Password Manager
 * [Password Safe](https://www.pwsafe.org/) or [KDE Wallet Manager](https://userbase.kde.org/KDE_Wallet_Manager) - Password Managing Software
 * [Passbolt](https://www.passbolt.com/) or [PSONO](https://psono.com/) - Self-Hosted Password Manager
