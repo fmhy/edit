@@ -347,6 +347,7 @@
 * ⭐ **[Stract](https://trystract.com/)**
 * ⭐ **[DuckDuckGo](https://duckduckgo.com/)** - [Shortcuts](https://duckduckgo.com/bangs)
 * [whoogle.fmhy](https://whoogle.fmhy.net/) - Whoogle Instance
+* [Alexandria](https://www.alexandria.org/) - non-profit, ad-free search engine.
 * [searx-qt](https://notabug.org/CYBERDEViL/searx-qt) - Searx Desktop App
 * [Fuck Off Google](https://search.fuckoffgoogle.net/) - Searx Instance
 * [searx](https://searx.be/) - Searx Instance
@@ -355,14 +356,16 @@
 * [4get](https://4get.ca/)
 * [Mojeek](https://www.mojeek.com/)
 * [Qwant](https://www.qwant.com/)
-* [Swisscows](https://swisscows.com/)
 * [YaCy](https://yacy.net/) 
-* [Startpage](https://www.startpage.com/)
-* [Search Encrypt](https://www.searchencrypt.com/)
+* [Araa](https://araa.extravi.dev/)
+* [eTools.ch](https://www.etools.ch/)
+* [mwmbl](https://mwmbl.org/)
 * [ekoru](https://ekoru.org/)
-* [Gibiru](https://gibiru.com/)
+* [Brave Search](https://search.brave.com/)
 * [SearXNG](https://docs.searxng.org/) - Self-Hosted
 * [Whoogle](https://github.com/benbusby/whoogle-search) - Self-Hosted
+* [Marginalia Search](https://search.marginalia.nu/) - Independent search engine that focuses on non-commercial content
+*  [Wiby](https://wiby.me/) - Non-commercial content
 
 ***
 
@@ -409,9 +412,9 @@
 * ↪️ **[Email Aliasing](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_email_aliasing)**
 * ↪️ **[Anon Emails](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_send_anonymous_emails)**
 * ⭐ **[Proton Mail](https://proton.me/mail)** - Encrypted Email
+* ⭐ **[Tutanota](https://tutanota.com/)** - Encrypted Email
 * ⭐ **[Skiff Mail](https://skiff.com/mail)** - Encrypted Email
 * ⭐ **[Have I been Pwned?](https://haveibeenpwned.com/)** or [GhostProject](https://ghostproject.fr/) - Monitor Email Breaches
-* [Tutanota](https://tutanota.com/) - Encrypted Email
 * [EmailPrivacyTester](https://www.emailprivacytester.com/) - Email Privacy Test
 * [OpenPGP](https://www.openpgp.org/) - Email Encryption / [Guide](https://riseup.net/en/security/message-security/openpgp/best-practices)
 * [/r/emailprivacy](https://reddit.com/r/emailprivacy) - Discussion of Email Privacy / Security / Anonymity
