@@ -76,7 +76,7 @@
 * ⭐ **[TorrentGalaxy](https://torrentgalaxy.to/)** - Video / Audio / NSFW / [Mirrors](https://proxygalaxy.me/)
 * ⭐ **[m0nkrus](https://w14.monkrus.ws/)** - Adobe Software Archive / [How-to](https://rentry.co/adobesoftware)
 * ⭐ **[Torrent CSE](https://cse.google.com/cse?cx=006516753008110874046:0led5tukccj)** / [CSE 2](https://cse.google.com/cse?cx=006516753008110874046:kh3piqxus6n) / [librex](https://github.com/hnhx/librex) - Multi Site Search
-* [1337x](https://1337x.to/) - Video / Audio / NSFW / **[Avoid Software / Games](https://pastebin.com/Rc9MYMZ7)**
+* [1337x](https://1337x.to/) - Video / Audio / NSFW / [Avoid Software](https://pastebin.com/Rc9MYMZ7)
 * 1337x Tools - [Mirrors](https://1337x.to/about) / [User Ranks](https://i.ibb.co/WfNhvtB/ebc2def26433.png) / [Discord Bot](https://github.com/brandongallagher1999/1337x-Bot) / [Telegram Bot](https://t.me/search_content_bot), [2](https://github.com/xbIm/1337x-torrent-telegram-bot) / [IMDb Ratings](https://github.com/kotylo/1337imdb) / [Proxy](https://redd.it/tz7nyx), [2](https://pastebin.com/3n5K0QrP) / [Enhancements](https://greasyfork.org/en/scripts/33379) / [Magnets](https://greasyfork.org/en/scripts/373230) / [Subtitles](https://greasyfork.org/en/scripts/29467) / [Timezone Fix](https://greasyfork.org/en/scripts/421635)
 * [GloTorrents](https://glodls.to) - Video / Audio / Books / NSFW
 * [MagnetDL](https://www.magnetdl.com/), [2]( https://www.magnetdl.org/) - Video / Audio / Books / [Onion](http://r5cena7erxpnxomyvoybuxh6fkgs55qqdg7bobf6yjx4j6vmywrqvlid.onion/)
