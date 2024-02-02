@@ -27,8 +27,8 @@
 * ⭐ **[neporn](https://neporn.com/)**
 * ⭐ **[Noodlemagazine](https://noodlemagazine.com)**, [2](https://mat6tube.com/), [3](https://18.tyler-brown.com/), [4](https://waterdamagesandiego.org/), [5](https://hot.exporntoons.net/), [6](https://actionviewphotography.com/), [7](https://ukdevilz.com/) - Search Engine
 * ⭐ **[iXXX](https://www.ixxx.com/)** - Aggregator
-* ⭐ **[Archivebate](https://archivebate.com/)**, **[CamCaps](https://camcaps.ac/)**, **[Peachurbate](https://peachurbate.com/en)**, [OnCam](https://oncam.me/), [Cam Show Download](https://camshowdownload.com/), [Curbate](https://curbate.tv/), [Mobile Porn](https://www.mobilepornmovies.com/) or [CamSmut](https://camsmut.com/) - Cam Video Archives
 * ⭐ **[PornFreeX](https://pornfreex.app/)**, [Porn App](https://porn-app.com/) or [NsfwBox](https://github.com/Kisspeace/NsfwBox)  - Android Porn Apps
+* ⭐ **[Archivebate](https://archivebate.com/)**, **[CamCaps](https://camcaps.ac/)**, **[Peachurbate](https://peachurbate.com/en)**, [OnCam](https://oncam.me/), [Cam Show Download](https://camshowdownload.com/), [Curbate](https://curbate.tv/), [Mobile Porn](https://www.mobilepornmovies.com/) or [CamSmut](https://camsmut.com/) - Cam Video Archives
 * [Full Length Porn CSE](https://cse.google.com/cse?cx=6c02fb377e50d493c) - Aggregators CSE
 * [FindTubes](https://www.findtubes.com/) - Aggregator
 * [xHamster](https://xhamster.com/)
