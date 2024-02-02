@@ -122,7 +122,7 @@
 
 ## ▷ Cam Models
 
-* ⭐ **[Archivebate](https://archivebate.com/)*
+* ⭐ **[Archivebate](https://archivebate.com/)**
 * ⭐ **[CamCaps](https://camcaps.ac/)**
 * ⭐ **[Peachurbate](https://peachurbate.com/en)**
 * [OnCam](https://oncam.me/)
