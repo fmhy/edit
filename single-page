@@ -4754,7 +4754,8 @@ Emoji Legend:
 * [ChatGuessr](https://chatguessr.com/) - GeoGuessr for Twitch
 * [LostGamer](https://lostgamer.io/) - Video Game GeoGuessr / [Discord](https://discord.com/invite/lostgamer-io-980552171747680266)
 * [GTA V GeoGuesser](https://gta-geoguesser.com/) - GTA V GeoGuessr
-* [GeoArtwork](https://artsandculture.google.com/experiment/geo-artwork/wgEPVBAUiRVlEQ) - Guess Origins of Cultural Artifacts 
+* [GeoArtwork](https://artsandculture.google.com/experiment/geo-artwork/wgEPVBAUiRVlEQ) - Guess Origins of Cultural Artifacts
+* [TimeGuessr](https://timeguessr.com/) - Historical GeoGuessr
 * [English Sandwhich](https://englishsandwich.github.io/) - Guess Where Dishes are From
 * [FlightGuesser](https://flightguesser.com/) - Flight Path Guessing Game
 * [WTM](https://whatthemovie.com/), [RT Daily](https://www.rottentomatoes.com/daily/) or [Framed](https://framed.wtf/) - Movie Guessing Games
@@ -5005,11 +5006,11 @@ Emoji Legend:
 * [PC Remote](https://play.google.com/store/apps/details?id=com.monect.portable) - Use Phone as Controller
 * [Gamepad-Tester](https://gamepad-tester.com/) or [AresLuna](https://aresluna.org/gamepad-tester/) - Controller Connectivity Testers
 * [HidHide](https://github.com/ViGEm/HidHide) - Input Device Firewall
+* [Medal](https://medal.tv/) - Shadowplay for non Nvidia Cards / [Premium Bypass](https://medalbypass.vercel.app/)
 * [Moments](https://steelseries.com/gg/moments) - Game Clip Tool
 * [Scanlines for Windows](https://s4windows.itch.io/scanlines-for-windows) - Add Scanlines to Games / [Discord](https://discord.gg/MqxMj8MT55)
 * [Keystrokes](https://www.deviantart.com/jaxoriginals/art/Keystrokes-v1-3-889349339) - Keystrokes Overlay
 * [LP Archives](https://lparchive.org/) - Let's Play Archive
-* [Medal](https://medal.tv/) - Nvidia Shadowplay for non Nvidia cards
 * [Super Steam Packer](https://cs.rin.ru/forum/viewtopic.php?f=29&t=131328&hilit=super+steam+packer) - Pack and share your Steam games
 * [Achievement Watcher](https://github.com/xan105/Achievement-Watcher) - Achievement File Parser, Notifications & Playtime Tracker
 * [Shmuplations](https://shmuplations.com/) - Japanese Developer Interviews
@@ -5120,6 +5121,7 @@ Emoji Legend:
 * [TrueGameData](https://truegamedata.com/) - COD Leaderboards
 * [Warzone Loadout](https://warzoneloadout.games/) - Warzone Loadouts and Builds
 * [Braytech](https://bray.tech/) - Destiny 2 Stats
+* [PUBG Damage Sheet](https://www.wackyjacky101.com/damage-sheet) - PUBG Battlegrounds Damage Sheet
 * [Leaf](https://leafapp.co/) or [HaloDataHive](https://halodatahive.com/) - Halo Infinite Leaderboards / Stats
 * [DMZ Calculator](https://sebranly.github.io/dmz/) - DMZ Currency to Cooldown Converter
 * [u.gg](https://u.gg/), [MobaFire](https://www.mobafire.com/), [ProBuilds](https://www.probuilds.net/) or [LoLalytics](https://lolalytics.com/) - League of Legends Build Guides & Tiers
@@ -5194,7 +5196,7 @@ Emoji Legend:
 * [VoxelSphereGenerator](https://oranj.io/blog/VoxelSphereGenerator), [Voxelize](https://docs.voxelize.io/) or [Minecraft Shapes](https://minecraftshapes.com/) - Minecraft Shape Tools / Voxel Editors
 * [Amidst](https://github.com/toolbox4minecraft/amidst) - Minecraft World Overview Display Tool
 * [The Minecraft Archive Project](https://map.crummy.com/) - Minecraft World Archive
-* [Amulet](https://www.amuletmc.com/) or [uNmINeD](https://unmined.net/) - Minecraft Map Editor / Viewer
+* [Amulet](https://www.amuletmc.com/), [MCA Selector](https://github.com/Querz/mcaselector) or [uNmINeD](https://unmined.net/) - Minecraft Map Editors / Viewers
 * [MinecraftSeeds](https://minecraftseeds.io/) - Minecraft Seeds
 * [MineAtlas](http://mineatlas.com/), [Cubiomes Viewer](https://github.com/cubitect/cubiomes-viewer) or [MCSeeder](https://mcseeder.com/) - Minecraft Seed Maps
 * [TerraForged](https://github.com/TerraForged/TerraForged) - Improved Biomes Mod
