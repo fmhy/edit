@@ -145,6 +145,7 @@
 * [AIOWares](https://www.aiowares.com/)
 * [TheMicroTech](https://programs.themicrotech.net/)
 * [soft98](https://soft98.ir/) - Use [translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)
+* [Patoghu](https://patoghu.com/) - Use [translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)
 * [Softlay](https://www.softlay.com/downloads/)
 * [Mutaz.net](https://www.mutaz.net/)
 * [Heidoc](https://www.heidoc.net/joomla/)
