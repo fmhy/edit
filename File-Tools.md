@@ -240,7 +240,6 @@
 * ⭐ **[Sejda](https://www.sejda.com/)** or [SimplePDF](https://simplepdf.eu/) - Online PDF Toolkit
 * ⭐ **[PDFGear](https://www.pdfgear.com/)**, [xPDFReader](https://www.xpdfreader.com/), [PrivatePDF](https://github.com/photown/private-pdf), [PDFBox](https://pdfbox.apache.org/) or [OpenPDF](https://github.com/LibrePDF/OpenPDF) - PDF Editors / Toolkits
 * [PDFGrep](https://pdfgrep.org/) - PDF Text Search
-* [invert-pdf.club](https://invert-pdf.club/) - Invert PDF Color / [GitHub](https://github.com/keotl/invert-pdf)
 * [View-only PDF](https://rentry.co/cm4b7) - Download View-Only PDF on GDrive
 * [online2pdf](https://online2pdf.com/) or [2PDFConverter](https://www.2pdfconverter.com/) - Convert Files to PDF
 * [PDFConverter](https://www.pdfconverter.com/) or [PDFconvert](https://docupub.com/pdfconvert/) - PDF File Converters 
