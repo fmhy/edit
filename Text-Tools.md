@@ -71,6 +71,7 @@
 ## ▷ Translators
 
 * ⭐ **[DeepL](https://www.deepl.com/translator)**
+* ⭐ **[Google Translate](https://translate.google.com/)**
 * [Crow Translate](https://github.com/crow-translate/crow-translate) or [Argos](https://github.com/argosopentech/argos-translate) - Translation Apps
 * [Translate Shell](https://www.soimort.org/translate-shell/) - Translation CLI / [GitHub](https://github.com/soimort/translate-shell)
 * [OnlineDocTranslator](https://www.onlinedoctranslator.com/en/) - Document Translator
