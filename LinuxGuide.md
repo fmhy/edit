@@ -208,8 +208,9 @@ Linux Gaming Guide
 
 ## ▷ Adblock / Privacy
 
-* ⭐ **[SpoofDPI](https://github.com/xvzc/SpoofDPI)** or [zapret](https://github.com/bol-van/zapret) - DPI circumvention
 * ↪️ **[Linux 2FA](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25B7_two-factor_authentication)**
+* ⭐ **[SpoofDPI](https://github.com/xvzc/SpoofDPI)** or [zapret](https://github.com/bol-van/zapret) - DPI circumvention
+* ⭐ **[CryptSetup](https://gitlab.com/cryptsetup/cryptsetup)** or [Tomb](https://dyne.org/software/tomb//) - File Encryption
 * [Linux Hardening](https://vez.mrsk.me/linux-hardening.html) / [2](https://madaidans-insecurities.github.io/guides/linux-hardening.html) or [How to Secure a Linux Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server) - Linux Hardening Guides
 * [JShielder](https://github.com/Jsitech/JShielder) - Hardening Script for Linux Servers
 * [SShuttle](https://github.com/sshuttle/sshuttle) - Proxy
@@ -226,7 +227,6 @@ Linux Gaming Guide
 * [vnStat](https://github.com/vergoh/vnstat) - Network Monitor
 * [Howdy](https://github.com/boltgolt/howdy) - Linux Facial Authentication
 * [ShuffleStacks](https://shufflecake.net/) - Create Hidden Volumes
-* [Tomb](https://dyne.org/software/tomb//) - File Encryption
 * [Collision](https://flathub.org/apps/details/dev.geopjr.Collision) - Check File Hashes
 * [WhoAmI Project](https://github.com/owerdogan/whoami-project) - Privacy / Anonymity Tool
 * [Yubikey Full Disk Encryption](https://github.com/agherzan/yubikey-full-disk-encryption) - Use YubiKey to unlock a LUKS Partition
