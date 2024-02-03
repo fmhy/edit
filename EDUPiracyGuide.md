@@ -16,7 +16,6 @@
 * [DocumentaryHeaven](https://documentaryheaven.com/)
 * [ARTE](https://www.arte.tv/)
 * [Documentary Network](https://documentary.net/)
-* [Documentary Mania](https://www.documentarymania.com/)
 * [Documentary Storm](https://www.documentarystorm.com/)
 * [Documentary Tube](https://www.documentarytube.com/)
 * [Rocumentaries](https://rocumentaries.com/)
@@ -158,7 +157,6 @@
 * [udemy-downloader](https://github.com/Puyodead1/udemy-downloader) - Udemy Downloader
 * [Udemy Download Guide](https://docs.google.com/document/d/1W91OS9rj7h9DBp5UwR68lA2zMEtqNmxdGaNVmBktIaw/) - [Discord](https://discord.gg/tMzrSxQ)
 * [LinkedIn_Learning](https://t.me/linkedin_learning) - LinkedIn Courses
-* [TheSecMaster](https://nitter.net/TheSecMaster1) - IT Courses
 * [CertCommunity](https://www.certcommunity.org/forum/) - IT Cert Courses
 * [Linux Interview Q&A's](https://rentry.co/FMHYBase64#top-linux-interview-qas) - Linux Interview Q&A
 * [Coursera-dl](https://github.com/coursera-dl/coursera-dl) - Download videos from Coursera
