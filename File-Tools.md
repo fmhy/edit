@@ -146,9 +146,9 @@
 
 ## ▷ File Encryption
 
+* ⭐ **[VeraCrypt](https://www.veracrypt.fr/en/Home.html)**
+* ⭐ **[Picocrypt](https://github.com/HACKERALERT/Picocrypt)**
 * [Yubikey Full Disk Encryption](https://github.com/agherzan/yubikey-full-disk-encryption) - Use YubiKey to unlock a LUKS partition
-* [VeraCrypt](https://www.veracrypt.fr/en/Home.html)
-* [CryptSetup](https://gitlab.com/cryptsetup/cryptsetup)
 * [EncFS MP](https://encfsmp.sourceforge.io/index.html)
 * [Hat](https://hat.sh/), [GNUPG](https://gnupg.org/)
 * [GPG4Win](https://www.gpg4win.org/)
@@ -158,7 +158,6 @@
 * [Kryptor](https://www.kryptor.co.uk/)
 * [SecureFolderFS](https://github.com/securefolderfs-community/SecureFolderFS)
 * [wdcrypt](https://github.com/stefins/wdcrypt)
-* [Picocrypt](https://github.com/HACKERALERT/Picocrypt)
 * [age](https://github.com/FiloSottile/age)
 
 ***
