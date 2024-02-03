@@ -9,7 +9,6 @@
 * [Ruurd](https://github.com/RuurdBijlsma/Music) - Feature-Rich / Ad-Free Client
 * [SpoTube](https://spotube.netlify.app/), [2](https://spotube.krtirtho.dev/) - Lightweight / Ad-Free Client
 * [Lofi Rocks](https://www.lofi.rocks/) - Tiny / Minimal Client
-* [Android TV Spotify](https://rentry.co/FMHYBase64#android-tv-spotify)
 * [Spotify Web Client](https://open.spotify.com/) / [Adblocker](https://gist.github.com/Simonwep/24f8cdcd6d32d86e929004013bd660ae) / [Mute Ads](https://github.com/guihkx/spotishush) / [Customize](https://github.com/Darkempire78/Spotify-Customizer) / [Lyrics](https://github.com/mantou132/Spotify-Lyrics)
 
 ***
