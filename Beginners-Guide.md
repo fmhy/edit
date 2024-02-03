@@ -200,7 +200,7 @@ Use [this](https://bitbucket.org/magnolia1234/bypass-paywalls-firefox-clean/src/
 ### Useful Stuff
 
 **[Video Players](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video-tools#wiki_.25BA_video_players) / [Servers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video-tools#wiki_.25BA_media_servers)** - Host & play videos
-**[Audio Players](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/audio-tools#wiki_.25BA_audio_players) / [Servers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/audio-tools#wiki_.25BA_audio_servers)** - Host & play audio
+**[Audio Players](https://fmhy.net/audiopiracyguide#audio-players) / [Servers](https://fmhy.net/audiopiracyguide#audio-servers)** - Host & play audio
 **[Android Emulators](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25BA_android_emulators)** - Use android apps on desktop
 **[Hosting / Cloud Storage](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/file-tools#wiki_.25BA_file_hosting)** - Share, store & sync files
 **[Download Managers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/file-tools#wiki_.25B7_download_managers)** - Manage file downloads
