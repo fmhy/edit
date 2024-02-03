@@ -349,7 +349,7 @@ http://104.131.175.196:8080/, http://70.88.180.169:8088/, http://207.237.122.161
 
 ## Encrypted XMPP Servers
 
-[Server List](https://xmpp.404.city/), [Hot Chilli](https://www.hot-chilli.eu/jabber/), [XMPP.jp](https://xmpp.jp/) / [xmpp.is](https://xmpp.is/), [dismail](https://dismail.de/), [blah](https://blah.im/), [xabber](https://www.xabber.com/), [Gajim](https://gajim.org/), [404.city](https://404.city/)
+[Server List](https://xmpp.404.city/), [Hot Chilli](https://www.hot-chilli.eu/jabber/), [XMPP.jp](https://xmpp.jp/) / [xmpp.is](https://xmpp.is/), [dismail](https://dismail.de/), [blah](https://blah.im/), [404.city](https://404.city/)
 
 ***
 
