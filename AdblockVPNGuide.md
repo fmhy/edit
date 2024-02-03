@@ -242,6 +242,8 @@
 * ⭐ **[simplewall](https://github.com/henrypp/simplewall)**, [WFC](https://www.binisoft.org/wfc.php), [pfSense](https://www.pfsense.org/) / [How-to](https://youtu.be/am7xT-zU1Q0) or [Tinywall](https://tinywall.pados.hu/) - Firewall / Network Monitors
 * ⭐ **[Cryptomator](https://cryptomator.org/)**, [Boxcryptor](https://www.boxcryptor.com/en/) or [Tahoe-LAFS](https://tahoe-lafs.org/trac/tahoe-lafs) - Cloud File Encryption
 * ⭐ **[GameIndustry](https://gameindustry.eu/en/)** - Block Trackers in Desktop / Mobile Games
+* ⭐ **[Proton Mail](https://proton.me/mail)**, **[Skiff Mail](https://skiff.com/mail)** or [Tutanota](https://tutanota.com/) - Encrypted Email
+* ⭐ **[Have I been Pwned?](https://haveibeenpwned.com/)** or [GhostProject](https://ghostproject.fr/) - Monitor Email Breaches
 * [Librewolf](https://librewolf.net/)- Pre-tweaked Firefox Fork / **[Use Auto-Updater](https://github.com/ltguillaume/librewolf-winupdater)**
 * [How Secure is My Password](https://www.security.org/how-secure-is-my-password/) - Password Strength Checker
 * [h8Mail](https://github.com/khast3x/h8mail) or [FirefoxMonitor](https://monitor.firefox.com/) - Data Breach Check
@@ -251,6 +253,9 @@
 * [Whack](https://lcamtuf.coredump.cx/whack/) or [Earthling](https://earthlng.github.io/testpages/visited_links.html) - Browser History Leak Example Games
 * [FirstPartySimulator](https://firstpartysimulator.org/) or [PersonalData](https://personaldata.info/) - Browser Tracking Tests
 * [Voidsec](https://ip.voidsec.com/) - WebRTC Leak Tests
+* [EmailPrivacyTester](https://www.emailprivacytester.com/) - Email Privacy Test
+* [OpenPGP](https://www.openpgp.org/) - Email Encryption / [Guide](https://riseup.net/en/security/message-security/openpgp/best-practices)
+* [/r/emailprivacy](https://reddit.com/r/emailprivacy) - Discussion of Email Privacy / Security / Anonymity
 * [JustGetMyData](https://justgetmydata.com/) - Links to Obtain Your Data from Websites 
 * [Privacy Score](https://privacyscore.org/) - Website Privacy Score Rankings
 * [WhoTracksMe](https://whotracks.me/) or [Trackography](https://trackography.org/) - Site Tracking Info 
