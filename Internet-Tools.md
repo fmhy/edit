@@ -339,7 +339,7 @@
 
 ## ▷ Email Tools
 
-**Note** - Encrypted email services retain certain metadata, including subject and sender info. This means that the content of your email may be encrypted, but key details like who you're communicating with, and what what you're communicating about, may still be accessible by third-parties.
+**Note** - Encrypted email services retain certain metadata, including subject and sender info. This means that the content of your email may be encrypted, but key details like who you're communicating with, and what you're communicating about may still be accessible by third-parties.
 
 ***
 
