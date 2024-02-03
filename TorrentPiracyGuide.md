@@ -104,6 +104,7 @@
 * ⭐ **[BTDigg](https://btdig.com/index.htm)** - [.onion](http://btdigggink2pdqzqrik3blmqemsbntpzwxottujilcdjfz56jumzfsyd.onion/), [2](https://btdigggink2pdqzqrik3blmqemsbntpzwxottujilcdjfz56jumzfsyd.onion.ly/) / [i2p](http://btdigg.i2p/)
 * ⭐ **[snowfl](https://snowfl.com/)** 
 * ⭐ **[Knaben](https://knaben.eu/)**
+* ⭐ **[SolidTorrents](https://solidtorrents.to/)** - [/r/SolidTorrents](https://reddit.com/r/SolidTorrents)
 * [iDope](https://idope.se)
 * [Bitsearch](https://bitsearch.to/)
 * [Torrent Finder](https://torrent-finder.com/)
@@ -123,7 +124,6 @@
 * [concen](https://www.concen.org/torrents)
 * [BTSearch](https://www.btsearch.love/en)
 * [EXT Torrents](https://extranet.torrentbay.to/)
-* [SolidTorrents](https://solidtorrents.to/) - [/r/SolidTorrents](https://reddit.com/r/SolidTorrents)
 * [TorrentSeeker](https://torrentseeker.com)
 * [Torrentzeta](https://www.torrentzeta.com/)
 * [Veoble](https://veoble.com/torrent/)
