@@ -168,7 +168,7 @@ Use [this](https://bitbucket.org/magnolia1234/bypass-paywalls-firefox-clean/src/
 ### Reading
 
 **[Mobilism](https://forum.mobilism.org) / [Library Genesis](https://libgen.rs/) / [Z-Library](https://singlelogin.re/) / [Annas Archive](https://annas-archive.org/)** - Books, audiobooks, comics & more
-**[Audiobook Bay](http://audiobookbay.ws/)** - Audiobook torrents / Avoid fake DL links, use [Torrents / Magnets](https://i.ibb.co/8sV2061/0fa8159b11bb.png)
+**[Audiobook Bay](https://audiobookbay.is/)** - Audiobook torrents / Avoid fake DL links, use [Torrents / Magnets](https://i.ibb.co/8sV2061/0fa8159b11bb.png)
 **[ReadComicsOnline](https://readcomiconline.li/)** - Read comics online
 **[MangaReader](https://mangareader.to/)** - Read manga online
 **[Reading CSE](https://cse.google.com/cse?cx=006516753008110874046:s9ddesylrm8) / [2](https://cse.google.com/cse?cx=006516753008110874046:rc855wetniu) / [3](https://cse.google.com/cse?cx=e9657e69c76480cb8) / [4](https://cse.google.com/cse?cx=c46414ccb6a943e39) / [5](https://ravebooksearch.com/)** - Multi-site book search
