@@ -431,7 +431,6 @@
 * [Perseus Digital Library](https://www.perseus.tufts.edu/hopper/) - Classic / Greek / Roman / Arabic / Germanic
 * [Athena](https://athena.unige.ch/athena/) - Greek / History
 * [Encyclopedia Of The Ancient Greek World](https://archive.org/details/EncyclopediaOfTheAncientGreekWorld/) - Ancient Greece Encyclopedia
-* [Sarantakos](https://www.sarantakos.com/keimena.html) - Greek (Modern)
 * [biblior](https://biblior.net/) - French / English / Geography / History / Tales
 * [In Parenthesis](https://www.yorku.ca/inpar/) - Historic Tales
 * [EyewitnesstoHistory](http://www.eyewitnesstohistory.com/index.html) - Historical Eyewitness Testimonies
