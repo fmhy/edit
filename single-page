@@ -431,7 +431,6 @@
 * [Perseus Digital Library](https://www.perseus.tufts.edu/hopper/) - Classic / Greek / Roman / Arabic / Germanic
 * [Athena](https://athena.unige.ch/athena/) - Greek / History
 * [Encyclopedia Of The Ancient Greek World](https://archive.org/details/EncyclopediaOfTheAncientGreekWorld/) - Ancient Greece Encyclopedia
-* [Sarantakos](https://www.sarantakos.com/keimena.html) - Greek (Modern)
 * [biblior](https://biblior.net/) - French / English / Geography / History / Tales
 * [In Parenthesis](https://www.yorku.ca/inpar/) - Historic Tales
 * [EyewitnesstoHistory](http://www.eyewitnesstohistory.com/index.html) - Historical Eyewitness Testimonies
@@ -598,7 +597,7 @@
 * [Cryptome](https://cryptome.org/) - Leaked Documents
 * [snowden-archive](https://github.com/iamcryptoki/snowden-archive) - Leaked Snowden Documents
 * [Constitute Project](https://www.constituteproject.org/) - World Constitutions Database
-* [ArmyPubs](https://armypubs.army.mil/) or [US Military Manual Collection](https://archive.org/details/military-manuals) - Military Documents / Manuals
+* [US Military Manual Collection](https://archive.org/details/military-manuals) - Military Documents / Manuals
 * [NASA NTRS](https://ntrs.nasa.gov/collections/pubspace) - NASA Documents
 * [PapalEncyclicals](https://www.papalencyclicals.net/) - Catholic Church Documents
 * [Aesthetics Archive](https://contempaesthetics.org/) - Aesthetics Articles / Notes Contemporary
@@ -766,7 +765,6 @@
 * [Bibi Manga](https://bibimanga.com/)
 * [Elarc Toon](https://elarctoon.com/)
 * [Coffee Manga](https://coffeemanga.io/)
-* [Pian Manga](https://pianmanga.me/)
 * [Manga347](https://manga347.com/)
 * [ZinManga](https://zinmanga.io/)
 * [Toomics](https://toomics.com/)
