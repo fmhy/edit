@@ -766,7 +766,6 @@
 * [Bibi Manga](https://bibimanga.com/)
 * [Elarc Toon](https://elarctoon.com/)
 * [Coffee Manga](https://coffeemanga.io/)
-* [Pian Manga](https://pianmanga.me/)
 * [Manga347](https://manga347.com/)
 * [ZinManga](https://zinmanga.io/)
 * [Toomics](https://toomics.com/)
