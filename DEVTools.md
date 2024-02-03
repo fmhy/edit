@@ -1149,7 +1149,7 @@
 * [magic-string](https://github.com/Rich-Harris/magic-string) - String Editor
 * [ShortCode](https://shortcode.dev/), [Google Code Archive](https://code.google.com/archive/) or [CodeList](https://codelist.cc/v3/) - Script / Code Indexes
 * [MoonScript](https://moonscript.org/) - Dynamic Scripting Language
-* [Carbon](https://dreamy-ptolemy-eb4e80.netlify.app/) / [2](https://carbon.now.sh/), [CodeImage](https://codeimage.dev/), [ray.so](https://ray.so/), [Chalk](https://chalk.ist/), [CodePNG](https://www.codepng.app/), [Snapartify](https://snapartify.com) or [Show Code](https://showcode.app/) - Code Screenshots
+* [Carbon](https://dreamy-ptolemy-eb4e80.netlify.app/) / [2](https://carbon.now.sh/), [CodeImage](https://codeimage.dev/), [ray.so](https://ray.so/), [Chalk](https://chalk.ist/), [CodePNG](https://www.codepng.app/) or [Show Code](https://showcode.app/) - Code Screenshots
 * [thefuck](https://github.com/nvbn/thefuck) - Corrects Previous Console Command
 * [DelphiTools](https://www.delphitools.info/) - Code Profiler / Delphi Tools
 * [OhMyPosh](https://ohmyposh.dev/) - Terminal Theme Engine
