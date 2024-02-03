@@ -70,7 +70,7 @@
 * Avira - Owned by Gen Digital
 * CCleaner - Owned by Avast, best to use built-in win 11 tool or bleachbit
 * Private Internet Access / ExpressVPN / ZenMate / CyberGhost - Owned by [malware distributor Kape](https://redd.it/q3lepv)
-* Acord (discord mod) - Has remote eval backdoor
+* Acord (discord mod) - Has remote eval backdoor [backdoor](https://gist.github.com/Vendicated/fef37323939e930b52a0e5ec379052bc)
 * BlueKik / Bluecord (chat mods) - History of [spam](https://redd.it/12h2v6n) / [spying](https://rentry.co/tvrnw)
 * Kik (messaging app) - App used by mostly [predators / scammers](https://youtu.be/9sPaJxRmIPc)
 * TLauncher (minecraft launcher) - [Shady](https://redd.it/zmzzrt) business practices / Note that TLauncher Legacy is unrelated
