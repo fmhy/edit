@@ -299,7 +299,7 @@
 ## ▷ Privacy Extensions
 
 * ⭐ **[uBlock Origin](https://github.com/gorhill/uBlock#installation)** - Privacy Extension / Adblock / [Guide](https://addons.mozilla.org/blog/ublock-origin-everything-you-need-to-know-about-the-ad-blocker/) / [Advanced](https://youtu.be/2lisQQmWQkY)
-* ⭐ **[ClearURLs](https://docs.clearurls.xyz)** - Remove Tracking Elements from URLs
+* ⭐ **[ClearURLs](https://docs.clearurls.xyz)** - Remove Tracking Elements from URLs / [Features](https://i.imgur.com/sqzfmLD.png), [2](https://www.reddit.com/r/uBlockOrigin/comments/rttrbp/no_longer_any_need_for_the_clearurl_extension/hqxddko/)
 * ⭐ **[CanvasBlocker](https://github.com/kkapsner/CanvasBlocker)** - Prevent Canvas Fingerprinting
 * [TrackMeNot](https://www.trackmenot.io/) - Tracking Protection
 * [JShelter](https://jshelter.org/) - Prevent Fingerprinting / [Warning](https://github.com/arkenfox/user.js/issues/1729#issuecomment-1739135479)
