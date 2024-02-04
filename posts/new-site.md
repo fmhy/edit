@@ -1,9 +1,12 @@
 ---
 title: New Website
-description: Our brand new site, (which you're on currently)
+description: Our brand new site (which you're on currently)
 date: 2023-11-12
-
+next: false
+aside: left
 prev: false
+sidebar: false
+footer: true
 ---
 <Post authors="['taskylizard']" />
 

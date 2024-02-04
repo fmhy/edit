@@ -18,12 +18,7 @@ const { frontmatter } = useData()
 </script>
 
 <template>
-  <h3>
-    {{ frontmatter.title }}
-  </h3>
-
-  <span>
-    {{ frontmatter.description }} • {{ formatDate(frontmatter.date) }}
-  </span>
+  <h1>{{ frontmatter.title }}</h1>
+  <div>{{ frontmatter.description }} • {{ formatDate(frontmatter.date) }}</div>
   <Authors :authors="props.authors" />
 </template>

@@ -2,8 +2,11 @@
 title: How-to Search FMHY
 description: Various tools to help you query FMHY.
 date: 2023-01-07
-
+next: false
+aside: left
 prev: false
+sidebar: false
+footer: true
 ---
 <Post authors="['nbats']" />
 
