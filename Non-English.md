@@ -1655,11 +1655,12 @@
 ## ▷ Streaming
 
 * [Fullhdfilmizlesene](https://www.fullhdfilmizlesene.pw) - Movies / Cartoons
-* [JetFilmizle](https://jetfilmizle.video/) - Movies / TV
-* [hdfilmcehennemi](https://www.hdfilmcehennemi.life) - Movies / TV
+* [Yabancıdizi](https://yabancidizi.pro) - Movies / TV
+* [Hdfilmcehennemi](https://www.hdfilmcehennemi.life) - Movies / TV
+* [JetFilmizle](https://jetfilmizle.video/) - Movies
 * [FilmIzle](https://filmizle2022.info/) - Movies
-* [FilmMom](https://www.filmmom1.com/) - Movies
 * [4kfilmizlesene](https://www.4kfilmizlesene.xyz/) - Movies
+* [Dizilab](https://dizilab.com/) - TV
 * [turkish123](https://turkish123.com/) - TV
 * [yoturkish](https://www.yoturkish.com) - TV
 * [expressdizi](https://www.expressdizi.com/) - TV
