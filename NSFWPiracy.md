@@ -162,7 +162,6 @@
 * [AdultDVDTalk](https://www.adultdvdtalk.com/)
 * [jdc](https://discord.gg/jdc) - Asian Porn Discord
 * [SEGNECK](https://discord.gg/jP5BHAUbeu) - Asian Porn Discord
-* [Lion's Hub](https://discord.gg/4CHxqPWyWn) 
   
 ***
 
