@@ -263,7 +263,6 @@
 * [Pixelicious](https://www.pixelicious.xyz/) - Image to Pixel Art Converter
 * [Pal](https://pal.constraint.systems/) - Apply 8-bit Terminal Color Palettes to Images
 * [Nasu](https://hundredrabbits.itch.io/nasu) - Spritesheet Editor
-* [Curve](https://iseenbaas.nl/curve/) - Create Pixelated Curve
 * [Petmate](https://nurpax.github.io/petmate/) - C64 PETSCII Image Editor
 * [Pixel Art Scaler](https://lospec.com/pixel-art-scaler/) - Scale Pixel Art w/o Quality Loss
 
