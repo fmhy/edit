@@ -360,8 +360,9 @@
 
 ## ▷ Streaming
 
-* ⭐ **[Sadisflix](https://sadisflix.bid/)** - Movies / TV / Anime / Dub / 1080p / [Telegram](https://t.me/sadisflix)
-* ⭐ **[Hotstream](https://hotstream.me/)** - Movies / Series / Anime / Live TV / Dub / 1080p / [Discord](https://hotstream.me/discord)
+* ⭐ **[Hotstream](https://hotstream.me/)** - Movies / Series / Live TV / Dub / 1080p / [Discord](https://hotstream.me/discord)
+* ⭐ **[Animeo TV](https://animeovf.fr)** - Anime / Sub / 1080p
+* [Sadisflix](https://sadisflix.fun/) - Movies / TV / Anime / Dub / 1080p / [Telegram](https://t.me/sadisflix) / Use Adblocker
 * [MesFilms](https://mesfilms.top/) - Movies / TV / Cartoons / Anime / Sub / Dub / 1080p
 * [VoirFilmsHD](https://flashfilms-hd.top/) - Movies / TV / Cartoons / Anime / Sub / Dub / 720p
 * [Cinémathèque de Bretagne](https://www.cinematheque-bretagne.bzh/) - Classic / Amateur Movies
@@ -372,7 +373,6 @@
 * [French Anime](https://french-anime.com/) - Anime / Sub / 1080p
 * [VoirAnime](https://voiranime.com/) - Anime / Sub / 1080p
 * [Neko-sama](https://www.neko-sama.fr/) - Anime / Sub / 1080p
-* [Animeo TV](https://animeovf.fr) - Anime / Sub / 1080p
 * [sekai](https://sekai.one/) - Anime / Sub / 1080p
 * [Streaming-integrale](https://streaming-integrale.com/) - Anime Sub / Dub / 1080p / [Discord](https://discord.com/invite/wrUSW4AWfy)
 * [vostanime](https://vostanime.fr/) - Anime / Sub / 1080p
