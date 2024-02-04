@@ -642,7 +642,6 @@
 * [Simple Mass Downloader](https://chromewebstore.google.com/detail/simple-mass-downloader/abdkkegmcbiomijcbdaodaflgehfffed) - Download Multiple Links at Once
 * [Download Sorter](https://chromewebstore.google.com/detail/download-sorter/mebfblkahpknogabckmdjcmjbnpfdpcj) - Sort Downloads into Folders
 * [Hover](https://chromewebstore.google.com/detail/hover/eiiibfemcfcehadokcldlcdljfdlmolj) - Link Previews
-* [Fetcher](https://fetcher.page/) - Feed Grabber
 * [Multimedia Search](https://multimediasearchapp.com/) - Browser File Search
 * [Suggesty](https://chromewebstore.google.com/detail/suggesty/hbiphmiliockggpepniplkkfmnhdihjh) - Human Like Search Results
 * [Query Side-By-Side](https://chromewebstore.google.com/detail/double-shot-search-query/kddlkbpbepnaepdleclhdnfdpdogdhop) - Search Google & Bing at the Same Time
