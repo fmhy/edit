@@ -604,7 +604,7 @@
 * [cinemakick](https://www.cinemakick.com/) - Movies / TV / Dub / 720p
 * [IndianCine](https://indiancine.ma/) - Indian Short / Classic Movies
 * [mxplayer](https://www.mxplayer.in) - Movies
-* [Animerulz](https://animerulz.in/) - Anime
+* [Animerulz](https://animerulz.pro/) - Anime
 * [DesiTellyBox](https://www.desitellybox.me/) - South Asian TV / Dub / 720p
 * [Bollyfunserial](https://freewatchserialonline.com/) - South Asian TV / Dub / 720p
 * [PakBcn](http://www.pakbcn.one/) - South Asian TV / Live / Dub / 720p
