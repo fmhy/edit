@@ -164,7 +164,6 @@
 
 * ⭐ **[SyncThing](https://syncthing.net/)** - File Sync
 * ⭐ **[KDEConnect](https://kdeconnect.kde.org/)** - Phone / File Sync
-* ⭐ **[TestDisk](https://www.cgsecurity.org/wiki/TestDisk)** - File Recovery
 * ⭐ **[freefilesync](https://freefilesync.org/)** - File Backup
 * [MyPhoneExplorer](https://www.fjsoft.at/) - Phone / Desktop Sync
 * [etesync](https://www.etesync.com/) - File Sync
@@ -194,6 +193,7 @@
 
 ## ▷ File Recovery
 
+* ⭐ **[TestDisk](https://www.cgsecurity.org/wiki/TestDisk)** - File Recovery
 * [R-Undelete](https://www.r-undelete.com/Download.shtml) - File Recovery
 * [PhotoRec](https://www.cgsecurity.org/wiki/PhotoRec) - File Recovery
 * [DMDE](https://dmde.com/download.html) - File Recovery
