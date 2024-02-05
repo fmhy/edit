@@ -1489,7 +1489,7 @@
 * ⭐ **[LaQuay TDT Channels](https://github.com/LaQuay/TDTChannels)** - Live TV / Live Radio / IPTV / Castilian
 * ⭐ **[El Plan](https://www.reddit.com/user/No_Land656)** - Live Sports Acestream IDs
 * ⭐ **[Flipax](https://flipax.es/)** - Live Sports
-* [PlayDede](https://dominiosplaydede.com/) - Movies / TV / Anime / 1080p / [Telegram](https://t.me/s/playdedeinformacion) / Castilian / Spain Only
+* [PlayDede](https://dominiosplaydede.com/) - Movies / TV / Anime / 1080p / [Telegram](https://t.me/s/playdedeinformacion) / Spain Only
 * [Zonaleros](https://www.zona-leros.com/peliculas-hd-online-lat) - Movies / TV / 1080p / Latino
 * [Solo Latino](https://sololatino.net/) - Movies / TV / Anime / 1080p / Latino
 * [Repelis24](https://www1.repelis24.yt/) - Movies / TV / Latino
