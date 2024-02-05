@@ -3642,6 +3642,7 @@ Emoji Legend:
 * [Finamp](https://github.com/jmshrv/finamp) - Jellyfin Music Player
 * [Audio Share](https://github.com/mkckr0/audio-share) - Audio Server Streaming
 * [Ultrasonic](https://gitlab.com/ultrasonic/ultrasonic) or [SubTune](https://github.com/TaylorKunZhang/SubTune) - Subsonic Client
+* [Redomi](https://github.com/acszo/Redomi/) - Multi-Platform Streaming
 * [Sound1](https://play.google.com/store/apps/details?id=com.soundcloud.android&amp;hl=us) - Streaming
 * [Modded Tidal](https://forum.mobilism.org/search.php?keywords=tidal&sr=topics&sf=titleonly) - Steaming / Download
 * [Seeker](https://github.com/jackBonadies/SeekerAndroid), [Datmusic](https://github.com/alashow/datmusic-android) or [AIDS](https://forum.mobilism.org/search.php?st=0&sk=t&sd=d&sr=topics&keywords=aids&sf=titleonly) - Download / MP3
@@ -3786,6 +3787,7 @@ Emoji Legend:
 * ⭐ **[Tubular](https://github.com/polymorphicshade/Tubular)** - Ad-free YouTube Frontend
 * [revanced-magisk-module](https://github.com/j-hc/revanced-magisk-module/releases), [revanced-apks](https://github.com/revanced-apks/build-apps/releases), [docker-py-revanced](https://github.com/nikhilbadyal/docker-py-revanced/releases) or [AT-YT](https://github.com/Zelooooo/AT-YT/releases) - Automated Patchers
 * [revanced-cli](https://github.com/ReVanced/revanced-cli/), [Auto-CLI](https://github.com/taku-nm/auto-cli/), [Revancify](https://github.com/decipher3114/Revancify) or [revanced-creator](https://github.com/XDream8/revanced-creator) - CLI Patchers
+* [ReVanced Patcher 6.0-7.1](https://github.com/kitadai31/revanced-patches-android6-7) - 6.0-7.1 Patcher
 * [Clipious](https://github.com/lamarios/clipious) - YouTube Frontend
 * [Hyperion](https://github.com/zt64/Hyperion) - YouTube Frontend
 * [VueTube](https://github.com/VueTubeApp/VueTube)
