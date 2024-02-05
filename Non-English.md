@@ -136,7 +136,7 @@
 * [Diaosi Forum](https://assbbs.com/) - Piracy Discussion Forum
 * [V2EX](https://v2ex.com/) or [ZongScan](https://www.zongscan.com/) - Programming Forum
 * [FE Hunter](https://github.com/BetaSu/fe-hunter) - Programming Question Bounties
-* [Baidu](https://www.baidu.com/), [Toutiao](https://www.toutiao.com/), [sogou](https://www.sogou.com/) or [yisou](http://yisou.com/) - Search Engines
+* [Baidu](https://www.baidu.com/) / [2](http://hk.baidu.com/), [Toutiao](https://www.toutiao.com/), [sogou](https://www.sogou.com/) or [yisou](http://yisou.com/) - Search Engines
 * [IT Home](https://www.ithome.com/) - Tech News
 * [jialezi](https://blog.jialezi.net/) - Tech Tutorials
 * [BlockedInChina](https://www.comparitech.com/privacy-security-tools/blockedinchina/) or [China Firewall Test](http://www.chinafirewalltest.com/) - Test if Site is Blocked in China
@@ -221,8 +221,10 @@
 * [shuhai](https://www.shuhai.vip/) - Fiction
 * [xxbiqudu](https://www.xxbiqudu.com/) - Fiction
 * [lingjingxingzhe](https://lingjingxingzhe.com/) - Fiction
+* [guoxuedashi.net](https://www.guoxuedashi.net/) - Fiction / Non-fiction
 * [huibooks.com](https://www.huibooks.com/) - Fiction / Non-fiction
 * [5165.org](https://5165.org/) - Fiction / Nonfiction
+* [zhonghuadiancang](https://www.zhonghuadiancang.com/)  - Classic Books
 * [52shuku](https://www.52shuku.vip/) - Books / Light-Novels
 * [ttkan](https://www.ttkan.co) - Books / Light-Novels
 * [Huangdizhijia](https://www.huangdizhijia.com/index.html) - Books / Light-Novels
@@ -1487,6 +1489,9 @@
 * [Solo Latino](https://sololatino.net/) - Movies / TV / Anime / 1080p / Latino
 * [Repelis24](https://www1.repelis24.yt/) - Movies / TV / Latino
 * [PlusHD](https://ww3.pelisplus.to/) - Movies / TV / Anime / Latino
+* [PelisPlusHD.nz](https://pelisplushd.nz/) - Movies / TV / Anime / Latino / [Telegram](https://t.me/pelisplushd_nu)
+* [PelisPlusHD](https://pelisplusgo.vip/) - Movies / TV / Latino
+* [PelisxD](https://www.pelisxd.com/) - Movies / TV / Latino
 * [PelisPedia](https://ww1.pelispedia.asia/) - Movies / TV / Latino
 * [PelisPedia3](https://io.pelispedia.io/) - Movies / TV / Anime / Latino
 * [Gnula.uno](https://gnula.uno/) - Movies / TV / Anime / Latino
@@ -1497,9 +1502,6 @@
 * [Cuevana3.ch](https://cuevana3.ch/) - Movies / TV / Latino
 * [Locopelis](https://www.locopelis.com/), [2](https://www.repelis.net/) - Movies / NSFW / Latino
 * [Fanpelis](https://fanpelis.mx/) - Movies / TV / Anime / Latino
-* [PelisPlusHD.nz](https://pelisplushd.nz/) - Movies / TV / Anime / Latino / [Telegram](https://t.me/pelisplushd_nu)
-* [PelisPlusHD](https://pelisplusgo.vip/) - Movies / TV / Latino
-* [PelisxD](https://www.pelisxd.com/) - Movies / TV / Latino
 * [Maxcine](https://www.maxcine.net/) - Movies / Sub / Dub / 720p / Latino
 * [Cuevana8](https://ww3.cuevana8.com/) - Movies / TV
 * [PelisPedia.is](https://pelispedia.is/) - Movies / TV
