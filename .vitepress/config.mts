@@ -94,7 +94,7 @@ export default defineConfig({
       { text: 'Guides', link: 'https://rentry.co/fmhy-guides' },
       {
         text: 'Backups',
-        link: 'https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/backups'
+        link: 'https://github.com/fmhy/FMHY/wiki/Backups'
       },
       {
         text: 'Ecosystem',
