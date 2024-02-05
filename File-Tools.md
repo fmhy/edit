@@ -438,6 +438,7 @@
 * [Any File to GDrive](https://github.com/menukaonline/Any-file-to-Google-Drive) - DDL to GDrive Tool
 * [DriveUploader](https://driveuploader.com/) - Receive Files via GDrive
 * [GDrive CLI](https://github.com/glotlabs/gdrive) - Google Drive CLI Client
+* [goodls](https://github.com/tanaikech/goodls) - Google Drive Downloader
 * [gogdl-ng](https://github.com/gogdl-ng/gogdl-ng) - Google Drive Bulk Downloader
 * [GDrive Downloader](https://github.com/Akianonymus/gdrive-downloader) - Google Drive Folder Downloader
 * [gdrivedl](https://github.com/matthuisman/gdrivedl) - Google Drive Python Download Script
@@ -449,7 +450,6 @@
 * [CloneBot](https://github.com/MsGsuite/CloneBot_Heroku) - Copy GDrive to TeamDrive
 * [GD-EFC Link Encryptor](https://rekulous.github.io/gd-efc-encryptor/) - Google Drive Link Encryptor for GD-EFC
 * [gd-efc](https://anadius.github.io/gd-efc/) - Copy Encrypted Google Drive 
-* [goodls](https://github.com/tanaikech/goodls) - Google Drive Downloader
 * [gdurl](https://gdurl.com/), [google-drive-direct-link-generator/](https://www.wonderplugin.com/online-tools/google-drive-direct-link-generator/) - Direct GDrive Link Generators
 * [Gdrive Guide-Noob Friendly](https://telegra.ph/Gdrive-Guide-Noob-Friendly-04-10) - GDrive Guide
 
