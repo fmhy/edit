@@ -17,7 +17,7 @@
 * ⭐ **[Ora](https://ora.ai/start)** - GPT-3.5 Based Chatbots
 * [Phind](https://www.phind.com/) - GPT-3.5 Powered Search
 * [Pi](https://pi.ai/talk) - Inflection AI's Chatbot
-* [Poe.com](https://poe.com/) - GPT-3.5 and Claude Chatbot / [Discord](https://discord.com/invite/joinpoe)
+* [Poe](https://poe.com/) - GPT-3.5 and Claude Chatbot / [Discord](https://discord.com/invite/joinpoe)
 * [Vitalentum](https://vitalentum.net/free-chat-gpt) - GPT-3 Chatbot
 * [AnonChatGPT](https://anonchatgpt.com/) - GPT-3 Chatbot
 * [TGPT](https://github.com/aandrew-me/tgpt) - ChatGPT TUI
@@ -219,7 +219,7 @@ pare AI Responses
 
 ## ▷ Online Generators
 
-* ⭐ **[Poe.com](https://poe.com/)** - 100 Daily / [Discord](https://discord.com/invite/joinpoe)
+* ⭐ **[Poe](https://poe.com/)** - 100 Daily / [Discord](https://discord.com/invite/joinpoe)
 * ⭐ **[PlaygroundAI](https://playgroundai.com/)** / 1K Images Daily
 * ⭐ **[Dezgo](https://dezgo.com/)** / [Discord](https://discord.com/invite/RQrGpUhPhx) / Unlimited
 * ⭐ **[Mage](https://www.mage.space/)** / [Discord](https://discord.com/invite/GT9bPgxyFP) / Unlimited
