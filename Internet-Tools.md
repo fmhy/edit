@@ -402,22 +402,20 @@
 * 🌐 **[Browser Comparisons](https://avoidthehack.com/util/browser-comparison)**
 * ↪️ **[Browser Privacy Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25BA_web_privacy)**
 * ⭐ **[BrowserBench](https://browserbench.org/)** or [WPT](https://wpt.fyi) - Browser Benchmark Tests
-* ⭐ **[Browserling](https://www.browserling.com/)** - Browser Emulators
 * ⭐ **[Firefox Keyboard Shortcuts](https://support.mozilla.org/en-US/kb/keyboard-shortcuts-perform-firefox-tasks-quickly)** 
 * ⭐ **[Chrome Keyboard Shortcuts](https://support.google.com/chrome/answer/157179)**
-* ⭐ **[rrweb](https://www.rrweb.io/)**, [Huginn](https://github.com/huginn/huginn) or [Selenium](https://www.selenium.dev/) - Browser Automation
+* [Selenium](https://www.selenium.dev/) or [Huginn](https://github.com/huginn/huginn) - Browser Automation
 * [VsyncTester](https://vsynctester.com/) - Browser VSYNC Test
 * [QuteBrowser](https://qutebrowser.org/) - Keyboard Focused Browser
 * [Browsh](https://www.brow.sh/) - Text-Based Browser
-* [MinBrowser](https://minbrowser.org/) - Minimalist Browser
 * [Vieb](https://vieb.dev/) - Vim Inspired Browser
 * [woob](https://woob.tech/) - Use Sites Without a Browser
+* [Browserling](https://www.browserling.com/) - Browser Emulators
 * [NYXT](https://nyxt.atlas.engineer/ ) - Information Extraction Browser
 * [Gemini Clients](https://geminiprotocol.net/clients.html), [Lagrange](https://github.com/skyjake/lagrange) or [Amfora](https://github.com/makew0rld/amfora) - Gemini Browsers
 * [Gemini Software](https://gemini.circumlunar.space/software/) - Tools & Software for Gemini
 * [Gemini Portal](https://portal.mozz.us/gemini/gemini.circumlunar.space/), [2](https://yesterweb.org/gemini) - Gemini to https Web Proxy Service
 * [StockBrowser](https://stackbrowser.com/), [Rambox](https://rambox.app/), [Kera](https://desktop.kerahq.com/) or [Tangram](https://github.com/sonnyp/Tangram) - Web App Browsers
-* [n.eko](https://neko.m1k1o.net) / [GitHub](https://github.com/m1k1o/neko) - Self-Hosted Virtual Browser
 * [Chrome Theme Studio](https://chrometheme.studio/) - Create Chrome Theme
 * [Betterfox](https://github.com/yokoffing/Betterfox) - Firefox user.js Tweaks
 * [Firemin](https://www.rizonesoft.com/downloads/firemin/) or `about:memory` - Reduce Firefox Memory Usage
@@ -512,7 +510,6 @@
 * [Clippings](https://aecreations.io/clippings/index.php) or [Quick Copy](https://github.com/ramitmittal/quick-copy) - Clipboard Manager
 * [Emoji](https://github.com/Sav22999/emoji) - Quickly Copy / Paste Emojis
 * [Auto Text Expander](https://pastebin.com/TFPRieVN) - Create Shortcuts to Expand & Replace Text as you Type 
-* [DontFuckWithPaste](https://github.com/jswanner/DontF-WithPaste) - Prevents the Blocking of Pasting into Input Fields
 * [Absolute Enable Right Click](https://pastebin.com/G7Juu6xc) or [Allow Right Click](https://add0n.com/allow-right-click.html) / [GitHub](https://github.com/lunu-bounir/allow-right-click) - Force Enable Right Click
 * [Copycat](https://github.com/BlackGlory/Copycat) - Copy Content in Multiple Formats & Markdowns 
 * [Copy Selection as Markdown](https://github.com/0x6b/copy-selection-as-markdown) - Copy Text as Markdown 
@@ -574,7 +571,6 @@
 * ⭐ **[Context Search](https://addons.mozilla.org/en-US/firefox/addon/contextsearch-web-ext/)** - Search Selected Text / Multi Site Search
 * [PWAsForFirefox](https://github.com/filips123/PWAsForFirefox) - Install Progressive Web Apps
 * [FoxyLink](https://addons.mozilla.org/en-US/firefox/addon/foxylink/) - Multiple Link Related Actions 
-* [Firefox Download Managers](https://addons.mozilla.org/en-US/firefox/search/?category=download-management&recommended=true&sort=recommended%2Cusers&type=extension) - Download Managers for Firefox
 * [Multithreaded Download Manager](https://addons.mozilla.org/en-US/firefox/addon/multithreaded-download-manager/) - Download Manager
 * [cliget](https://github.com/zaidka/cliget) - Download Files from Command Line
 * [ShadowFox](https://overdodactyl.github.io/ShadowFox/) or [Dark Background and Light Text](https://github.com/m-khvoinitsky/dark-background-light-text-extension) - Dark Mode
@@ -608,7 +604,6 @@
 * [Sitemod](https://sitemod.io/) - Inspect Element Changes to a Website
 * [Plasma Integration](https://addons.mozilla.org/en-US/firefox/addon/plasma-integration/) - Control Browser via Plasma 
 * [Session Sync](https://addons.mozilla.org/en-US/firefox/addon/session-sync/) - Session Manager 
-* [DelayWebpage](https://github.com/OskarDamkjaer/FirefoxDelayWebpage) - Set Webpage Loading Delays
 
 ***
 
