@@ -410,6 +410,7 @@
 
 ## ▷ Download Fonts
 
+* ⭐ **[Fonts CSE](https://cse.google.com/cse?cx=82154ebab193e493d)** - Multi-site Font Search
 * ⭐ **[Font Download Guide](https://redd.it/8tqfg6)**
 * ⭐ **[Font Drives](https://rentry.co/FMHYBase64#font-collections)**
 * ⭐ **[FontSource](https://fontsource.org/)**
