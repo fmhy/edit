@@ -50,7 +50,6 @@
 * [BRU](https://github.com/arcadesdude/BRU) - Debloater
 * [Win10Debloat](https://github.com/Raphire/Win10Debloat) - Debloater
 * [Adobe Debloater](https://github.com/FlickyOs/Adobe-Debloater) - Debloat Adobe Apps
-* [CCStopper](https://github.com/eaaasun/CCStopper) - Stop Background Adobe Apps
 * [BloatyNosy](https://github.com/builtbybel/BloatyNosy) - Windows 11 Debloaters
 
 ***
@@ -364,8 +363,7 @@
 * ⭐ **[MAS](https://massgrave.dev/#Method_1_-_PowerShell)** / [GitHub](https://github.com/massgravel/Microsoft-Activation-Scripts/) / [Discord](https://discord.gg/gjJEfq7ux8)
 * ⭐ **[KMS_VL_ALL_AIO](https://github.com/abbodi1406/KMS_VL_ALL_AIO)**
 * [MyDigitalLife](https://forums.mydigitallife.net/)
-* [CMWTAT_Digital_Edition](https://github.com/TGSAN/CMWTAT_Digital_Edition)
-* [EzWindSLIC](https://github.com/Dir3ctr1x/EzWindSLIC) (Vista/7/Server 2008)
+* [EzWindSLIC](https://github.com/Dir3ctr1x/EzWindSLIC) - Vista / 7 / Server 2008
 * [OfficeRTool](https://forums.mydigitallife.net/threads/how-to-support-chat-office-c2r-download-install-activation.62571/) - Office 2016 Activation
 * [Office Activation Fix](https://massgrave.dev/office-license-is-not-genuine.html)
 
