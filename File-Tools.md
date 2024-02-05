@@ -160,7 +160,7 @@
 
 ***
 
-## ▷ File Backup
+## ▷ File Backup / Sync
 
 * ⭐ **[SyncThing](https://syncthing.net/)** - File Sync
 * ⭐ **[KDEConnect](https://kdeconnect.kde.org/)** - Phone / File Sync
