@@ -363,6 +363,7 @@
 
 * ⭐ **[BoringReport](https://www.boringreport.org/)**, [NewsNow](https://www.newsnow.co.uk/), [Google News](https://news.google.com/) / [HTML](http://68k.news/), [Readspike](https://readspike.com/), [sumi.news](https://sumi.news/), [Upstract](https://upstract.com/) or [AllTop](https://alltop.com/) - Misc News
 * ⭐ **[QotNews](https://news.t0.vc/)** - Hacker News / Reddit / Lobsters / Tildes
+* ⭐ **[Anime Blog Tracker](https://aniblogtracker.com/)** - Anime News Blogs
 * [RealClearPolitics](https://www.realclearpolitics.com/), [Ground News](https://ground.news/), [SPIDR](https://spidr.today/) or [LegibleNews](https://legiblenews.com/) - Political News / World Events
 * [NewsMinimalist](https://www.newsminimalist.com/) - News Curated by AI
 * [Brief](https://www.brief.news/) - News Curated by AI
