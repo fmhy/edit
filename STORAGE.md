@@ -256,18 +256,6 @@ http://104.131.175.196:8080/, http://70.88.180.169:8088/, http://207.237.122.161
 
 ***
 
-## Discord Server / Bot Lists
-
-### Servers / Bots
-
-[DISBOARD](https://disboard.org/), [Discord Servers](https://discordservers.com/), [Discadia](https://discadia.com/), [Discords.com](https://discords.com/), [Discord Me](https://discord.me/), [Disforge](https://disforge.com/), [Find a Discord](https://findadiscord.com/), [Open Source Projects](https://discord.com/open-source)
-
-### Bots Only
-
-[BotBlock](https://botblock.org/), [Top.gg](https://top.gg/), [Bots on Discord](https://bots.ondiscord.xyz/), [Discord Bots](https://discord.bots.gg/), [Top Bots](https://gist.github.com/advaith1/451dcbca2d7c3503d4f48d63eb918cb0), [Infinity Bot List](https://infinitybots.gg/), [Discord Services](https://discordservices.net/), [DiscordBots](https://discordbots.co/), [Discord Bot List](https://discordbotlist.com/), [Carbon Bot List](https://www.carbonitex.net/discord/bots), [Botlist.me](https://botlist.me/), [Void Bots](https://voidbots.net/), [Discord Botlist](https://discord-botlist.eu/)
-
-***
-
 ## DNS Filters
 
 * ⭐ **[1Hosts](https://o0.pages.dev/)**
