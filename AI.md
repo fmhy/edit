@@ -223,6 +223,7 @@ pare AI Responses
 * ⭐ **[Mage](https://www.mage.space/)** / [Discord](https://discord.com/invite/GT9bPgxyFP) / Unlimited
 * ⭐ **[ComfyUI Web](https://comfyuiweb.com/)** / Unlimited
 * ⭐ **[Meta AI](https://imagine.meta.com/)** / Unlimited
+* ⭐ **[ComfyUI Cloud](https://www.runcomfy.com/)** / Unlimited
 * [Prodia](https://app.prodia.com/) / [Discord](https://discord.com/invite/495hz6vrFN) / Unlimited
 * [GetIMG.ai](https://getimg.ai/) / [Discord](https://discord.com/invite/5KsUXSzVwS) / 100 Images Monthly
 * [OpenArt](https://openart.ai/home) / [Discord](https://discord.com/invite/yTMNvk5z97) / Unlimited
