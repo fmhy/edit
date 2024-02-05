@@ -160,7 +160,7 @@
 
 ***
 
-## ▷ Backup / Recovery
+## ▷ File Backup
 
 * ⭐ **[SyncThing](https://syncthing.net/)** - File Sync
 * ⭐ **[KDEConnect](https://kdeconnect.kde.org/)** - Phone / File Sync
@@ -173,8 +173,6 @@
 * [SmartFTP](https://www.smartftp.com/) - File Sync
 * [rsync](https://github.com/WayneD/rsync) - File Sync
 * [Unison](https://github.com/bcpierce00/unison) - File Sync
-* [MultiPar](https://github.com/Yutaka-Sawada/MultiPar) - Prevent File Corruption / [Guide](https://youtu.be/5TsExiAsCXA)
-* [ShadowExplorer](https://www.shadowexplorer.com/) or [ShadowCopyView](https://www.nirsoft.net/utils/shadow_copy_view.html/) - Shadow Copy Explorers
 * [FolderClone](https://www.folderclone.com/) - Clone / Backup Folders
 * [BackupPC](https://backuppc.github.io/backuppc/) - File Backup
 * [TeraCopy](https://www.codesector.com/teracopy) - File Backup
@@ -191,10 +189,17 @@
 * [Toucan](https://github.com/PortableApps/Toucan) - File Backup
 * [Kopia](https://kopia.io/) - File Backup
 * [duplicity](https://duplicity.gitlab.io/) - File Backup
+
+***
+
+## ▷ File Recovery
+
 * [R-Undelete](https://www.r-undelete.com/Download.shtml) - File Recovery
 * [PhotoRec](https://www.cgsecurity.org/wiki/PhotoRec) - File Recovery
 * [DMDE](https://dmde.com/download.html) - File Recovery
 * [Recuva](https://www.ccleaner.com/recuva) - File Recovery
+* [MultiPar](https://github.com/Yutaka-Sawada/MultiPar) - Prevent File Corruption / [Guide](https://youtu.be/5TsExiAsCXA)
+* [ShadowExplorer](https://www.shadowexplorer.com/) or [ShadowCopyView](https://www.nirsoft.net/utils/shadow_copy_view.html/) - Shadow Copy Explorers
 
 ***
 
