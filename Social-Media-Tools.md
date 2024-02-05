@@ -117,10 +117,7 @@
 
 ## ▷ Discord Bots
 
-* ⭐ **[Alternatives to MEE6](https://alternativestomee6.com/)** - MEE6 Alternatives / [Discord](https://discord.gg/WrbMdWHfNd)
 * ⭐ **[FreeStuff Bot](https://freestuffbot.xyz/)** - Free Games Alert Bot
-* ↪️ **[Discord Server / Bot Lists](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_discord_server_.2F_bot_lists)**
-* ↪️ **[Discord ChatGPT Bots](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/ai#wiki_.25B7_chatgpt_tools)**
 * [fmbot](https://fmbot.xyz/) - Discord Voice Chat Scrobbling
 * [Chuu](https://github.com/ishwi/Chuu) - Last.fm Discord Bot
 * [Craig](https://craig.chat/) - Voice Channel Recorder Bot / [Backup](https://craig.chat/giarc/)
@@ -133,6 +130,34 @@
 * [Automod Config](https://docs.google.com/spreadsheets/d/1pUGVAARMBadmNqQW6cPKhSaT-uYDgQlRBnlQ9TMDXTI/edit#gid=730346323) - Automod Bot Config
 * [Modmail](https://github.com/modmail-dev/modmail) - Discord Modmail Bot
 * [Discord-Linux](https://discord-linux.com/) - Linux Container Bot 
+
+***
+
+## ▷ Server / Bot Indexes
+
+* 🌐 **[Alternatives to MEE6](https://alternativestomee6.com/)** - MEE6 Alternatives / [Discord](https://discord.gg/WrbMdWHfNd)
+* ↪️ **[Discord ChatGPT Bots](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/ai#wiki_.25B7_chatgpt_tools)**
+* [DISBOARD](https://disboard.org/) - Server / Bot Index
+* [Discord Servers](https://discordservers.com/) - Server / Bot Index
+* [Discadia](https://discadia.com/) - Server / Bot Index
+* [Discords.com](https://discords.com/) - Server / Bot Index
+* [Discord Me](https://discord.me/) - Server / Bot Index
+* [Disforge](https://disforge.com/) - Server / Bot Index
+* [Find a Discord](https://findadiscord.com/) - Server / Bot Index
+* [Open Source Projects](https://discord.com/open-source) - Server / Bot Index
+* [BotBlock](https://botblock.org/) - Bot Index
+* [Top.gg](https://top.gg/) - Bot Index
+* [Bots on Discord](https://bots.ondiscord.xyz/) - Bot Index
+* [Discord Bots](https://discord.bots.gg/) - Bot Index
+* [Top Bots](https://gist.github.com/advaith1/451dcbca2d7c3503d4f48d63eb918cb0) - Bot Index
+* [Infinity Bot List](https://infinitybots.gg/) - Bot Index
+* [Discord Services](https://discordservices.net/) - Bot Index
+* [DiscordBots](https://discordbots.co/) - Bot Index
+* [Discord Bot List](https://discordbotlist.com/) - Bot Index
+* [Carbon Bot List](https://www.carbonitex.net/discord/bots) - Bot Index
+* [Botlist.me](https://botlist.me/) - Bot Index
+* [Void Bots](https://voidbots.net/) - Bot Index
+* [Discord Botlist](https://discord-botlist.eu/) - Bot Index
 
 ***
 
