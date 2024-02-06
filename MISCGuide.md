@@ -589,7 +589,6 @@
 * ⭐ **[RX Resume](https://rxresu.me/)** - Resume maker 
 * ⭐ **[CareerCup](https://www.careercup.com/resume)** - Resume / Cover Letter Guide
 * ⭐ **[KickResume](https://www.kickresume.com/en/help-center/resume-samples/)** or [ThisResumeDoesNotExist](https://thisresumedoesnotexist.com/) - Resume Samples
-* [Resume Analyzer](https://resume-analyzer.ploomberapp.io/) - AI Resume Analyzer
 * [ResumeMatcher](https://www.resumematcher.fyi/)
 * [cvmkr](https://cvmkr.com/)
 * [resumonk](https://www.resumonk.com/)
@@ -620,7 +619,7 @@
 * [/r/WorkOnline](https://www.reddit.com/r/WorkOnline/) - Online Working Subreddit
 * [/r/freelance](https://www.reddit.com/r/freelance/) - Freelance Subreddit
 * [MTurk](https://www.mturk.com/) - Online Task Work
-* [RemoteWide](https://remotewide.co/) or [NoCummute](https://nocommute.substack.com/) - Remote Job Notifications
+* [NoCummute](https://nocommute.substack.com/) - Remote Job Notifications
 * [Jobspresso](https://jobspresso.co/) - Remote Jobs
 * [Remote Jobs](https://remotejobs.com/) - Remote Jobs
 * [himalayas](https://himalayas.app/) - Remote Jobs
