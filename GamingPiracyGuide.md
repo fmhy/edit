@@ -1082,7 +1082,7 @@
 * [Iris Shaders](https://modrinth.com/mod/iris) - Fabric Shadermod for Minecraft
 * [Nova Skin](https://minecraft.novaskin.me/) or [Blockbench](https://www.blockbench.net/)- Minecraft Skin Editor
 * [MinecraftCapes](https://minecraftcapes.net/) or [Capes](https://modrinth.com/mod/capes) - Minecraft Capes
-* [VoxelSphereGenerator](https://oranj.io/blog/VoxelSphereGenerator), [Voxelize](https://docs.voxelize.io/) or [Minecraft Shapes](https://minecraftshapes.com/) - Minecraft Shape Tools / Voxel Editors
+* [VoxelSphereGenerator](https://oranj.io/blog/VoxelSphereGenerator) or [Minecraft Shapes](https://minecraftshapes.com/) - Minecraft Shape Tools / Voxel Editors
 * [Amidst](https://github.com/toolbox4minecraft/amidst) - Minecraft World Overview Display Tool
 * [The Minecraft Archive Project](https://map.crummy.com/) - Minecraft World Archive
 * [Amulet](https://www.amuletmc.com/), [MCA Selector](https://github.com/Querz/mcaselector) or [uNmINeD](https://unmined.net/) - Minecraft Map Editors / Viewers
