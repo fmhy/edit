@@ -1407,6 +1407,7 @@
 * [Relampago Movies](https://relampagomovies.com/) - Movies / Latino
 * [Hackstore.me](https://www.hackstore.me/) - Movies / TV / Anime
 * [Hackstore.rs](https://hackstore.rs/) - Movies / TV / Anime / Latino / [Bypass](https://greasyfork.org/en/scripts/484944)
+* [PelisEnHD](https://pelisenhd.org/) - Movies / TV / Anime / Latino / Castilian / [Bypass](https://greasyfork.org/en/scripts/486337)
 * [Mega-Mkv](https://mega-mkv.com/) - Movies / TV / Latino / Castilian / [Bypass](https://greasyfork.org/en/scripts/477591)
 * [Mega DVDRip](https://peliculas-dvdrip.com/) - Movies / TV / Latino / Castilian / [Bypass](https://greasyfork.org/en/scripts/477591)
 * [Mega 1 Link](https://mega1link.com/) - Movies / TV / Latino / Castilian / [Bypass](https://greasyfork.org/en/scripts/477591)
@@ -1417,6 +1418,7 @@
 * [Peliculas Google Drive](https://www.peliculasgd.net/) - Movies / Latino / [Bypass](https://greasyfork.org/en/scripts/484943)
 * [TodoDVDFull](https://www.tododvdfull.com/) - Movies / Latino / [Bypass](https://greasyfork.org/en/scripts/484488)
 * [Don Pelis](https://donpelis.org/), [2](https://granpirata.com/) - Movies / TV / Animation / Latino / [Bypass](https://greasyfork.org/en/scripts/477591)
+* [Peli Series HD](https://www.peliserieshd.com/) - Movies / TV / Latino
 * [GDriveDescarga](https://gdrivedescarga.com/) - Movies / TV / Latino
 * [GDRIVELatino](https://gdrivelatino.net/) - Movies / TV / Latino
 * [Mega Descargas](https://mega-descargas-serie.blogspot.com/) - TV / Latino
@@ -1474,7 +1476,8 @@
 * [Akiba-kei](http://akiba-team.org/) - Anime
 * [Animextremist](http://animextremist.com/) - Anime / Manga
 * [epublibre](https://www.epublibre.org/) - Books
-* [elcano](https://sg.hideip.co/direct/aHR0cDovL2VsY2Fuby50b3Av), [2](https://sg.4everproxy.com/direct/aHR0cDovL2VsY2Fuby50b3Av) - Live Sports Acestream IDs / [Matrix](https://matrix.to/#/!zrcckivBbqZjmykTPi:sibnsk.net?via=matrix.org&via=sibnsk.net) / [Link Scraper](https://github.com/ddgarciad03/IDS-Export)
+* [elcano.top](https://sg.hideip.co/direct/aHR0cDovL2VsY2Fuby50b3Av), [2](https://sg.4everproxy.com/direct/aHR0cDovL2VsY2Fuby50b3Av) - Live Sports Acestream IDs / [Matrix](https://matrix.to/#/!zrcckivBbqZjmykTPi:sibnsk.net?via=matrix.org&via=sibnsk.net) / [Link Scraper](https://github.com/ddgarciad03/IDS-Export)
+* [eventos-liart](https://eventos-liart.vercel.app/) - Live Sports Acestream IDs
 
 ## ▷ Streaming
 
@@ -1503,6 +1506,7 @@
 * [Locopelis](https://www.locopelis.com/), [2](https://www.repelis.net/) - Movies / NSFW / Latino
 * [Fanpelis](https://fanpelis.mx/) - Movies / TV / Anime / Latino
 * [Maxcine](https://www.maxcine.net/) - Movies / Sub / Dub / 720p / Latino
+* [VerSeries](https://www.verseries.cloud/) - Movies / TV
 * [Cuevana8](https://ww3.cuevana8.com/) - Movies / TV
 * [PelisPedia.is](https://pelispedia.is/) - Movies / TV
 * [Gnula.se](https://gnula.se/) - TV / Anime
