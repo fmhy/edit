@@ -1486,7 +1486,7 @@
 * ⭐ **[Cuevana](https://cuevana.si/)** - Movies / TV / Anime / 1080p / Latino
 * ⭐ **[LaQuay TDT Channels](https://github.com/LaQuay/TDTChannels)** - Live TV / Live Radio / IPTV / Castilian
 * ⭐ **[El Plan](https://www.reddit.com/user/No_Land656)** - Live Sports Acestream IDs
-* ⭐ **[Flipax](https://hurtotudra1.foroactivo.com/h1-agenda)** - Live Sports
+* ⭐ **[Flipax](https://www.flipax.es/)** - Live Sports
 * [PlayDede](https://dominiosplaydede.com/) - Movies / TV / Anime / 1080p / [Telegram](https://t.me/s/playdedeinformacion) / Spain Only
 * [Zonaleros](https://www.zona-leros.com/peliculas-hd-online-lat) - Movies / TV / 1080p / Latino
 * [Solo Latino](https://sololatino.net/) - Movies / TV / Anime / 1080p / Latino
