@@ -543,7 +543,6 @@
 * [mkvAnime](https://ww1.mkvanime.site/) - Movies / Shows / Anime / Sub / Dub / 1080p / [Telegram](https://t.me/+t90Seng2e0QzNzhl)
 * [HDHub4u](https://hdhub4u.ist/) - Movies / TV / 1080p
 * [Moviespapa](https://moviespapa.ing/) - Movies / TV / 1080p
-* [36Vibes](https://www.the36vibes.com/) - Movies / TV / 480p / [Telegram](https://t.me/vibesmoviez)
 * [Fimyzilla.tech](https://filmyzillla.xyz/) - Movies / TV / 1080p / [Telegram](https://t.me/+wCxPxH9L7_00MzZl)
 * [Hiidude](https://6hiidude.vip/) - Movies / TV / 720p / [Telegram](https://telegram.me/hiidudemoviez)
 * [MKVHub](https://www.mkvhub.space/) - Movies / TV / Sub / Dub / 1080p
@@ -581,7 +580,6 @@
 * ⭐ **[AnPlay](https://anplay.in/)** - Anime / Dub / 1080p
 * ⭐ **[ToonStream](https://toonstream.in/)** - Cartoons / 1080p / [Telegram](https://telegram.me/toonstream)
 * [9xmovies](https://9xmovies.forsale/), [2](https://9kmovies.monster/) - Movies / TV / Sub / Dub / 1080p / 4K
-* [5movierulz](https://ww7.5movierulz.gd/) - South Asian Movies / Sub / Dub / 1080p
 * [HHDMovies](https://hhdmovies.website/) - Movies / TV / Sub / Dub / 1080p
 * [Desi Serials](https://www.desi-serials.cc/), [2](https://playdesi.net/) - South Asian Movies / TV / Live / Sub / Dub / 1080p
 * [HindiMoviesTV](https://www.hindimoviestv.com/) - Movies / Dub / 1080p
@@ -685,7 +683,6 @@
 * ⭐ **[CB01](https://cb01.charity/)** - Movies / TV / Sub / Dub / 1080p / 4K
 * 🌐 **[Streaming Improved](https://rentry.co/ItalianStreamingImproved)** - Streaming Sites List
 * [Altaefinizione](https://altadefinizione01.delivery/) - Movies / Sub / Dub / 1080p / 4K
-* [Il Genio dello Streaming](https://ilgeniodellostreaming.asia/) - Movies / TV / Anime / Sub / Dub / 1080p / 4K
 * [CasaCinema](https://casacinema.media/) - Movies / TV / Anime / Sub / Dub / 1080p / 4K
 * [filmsenzalimiti](https://filmsenzalimiti.name/) - Movies / TV / Sub / Dub / 1080p / 4K
 * [SerieHD](https://www.seriehd.sbs/) - TV / Dub / 1080p
@@ -980,7 +977,6 @@
 
 * [wolnelektury](https://wolnelektury.pl/) - Books / Fiction / Audiobooks
 * [Audiobook PL](https://audiobookpl.tumblr.com/) - Audiobooks
-* [Doci.pl](https://doci.pl/) - Educational / Documents
 * [Academica](https://academica.edu.pl/) - Online Library
 
 ***
@@ -1015,7 +1011,6 @@
 
 ## ▷ Torrenting
 
-* ⭐ **[Download Cursos Grátis](https://downloadcursos.top)** - Courses / Use Adblock
 * [Rei dos Torrents](https://reidostorrents.com) - Video / Audio/ Books
 * [OnTorrent](https://ontorrent.org/) - Movies / TV
 * [Torrent dos Filmes](https://torrentdosfilmes.se) - Movies / TV
@@ -1484,7 +1479,6 @@
 * ⭐ **[LaQuay TDT Channels](https://github.com/LaQuay/TDTChannels)** - Live TV / Live Radio / IPTV / Castilian
 * ⭐ **[El Plan](https://www.reddit.com/user/No_Land656)** - Live Sports Acestream IDs
 * ⭐ **[Flipax](https://hurtotudra1.foroactivo.com/h1-agenda)** - Live Sports
-* [PlayDede](https://dominiosplaydede.com/) - Movies / TV / Anime / 1080p / [Telegram](https://t.me/s/playdedeinformacion) / Spain Only
 * [Zonaleros](https://www.zona-leros.com/peliculas-hd-online-lat) - Movies / TV / 1080p / Latino
 * [Solo Latino](https://sololatino.net/) - Movies / TV / Anime / 1080p / Latino
 * [Repelis24](https://www1.repelis24.yt/) - Movies / TV / Latino
