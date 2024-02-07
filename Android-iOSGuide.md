@@ -91,7 +91,7 @@
 
 ## ▷ Telegram Channels
 
-* ⭐ **[Modded Central](https://t.me/+MYR2XRdK3_pmZDRl)** / [Backup](https://t.me/moddedcentralbackup)
+* ⭐ **[Modded Central](https://t.me/+ilCkWkm0e39hZTQ1)** / [2](https://t.me/moddedcentralbackup)
 * [alexstranniklite](https://t.me/alexstranniklite)
 * [AMRTSOFFICIAL](https://t.me/AMRTSOFFICIAL)
 * [ANiK555_Mods](https://t.me/ANiK555_Mods)
@@ -1021,7 +1021,7 @@
 * 🌐 **[ReJail](https://rejail.ru/)** - Cracked Tweaks Repository
 * 🌐 **[Open-Source iOS Apps](https://github.com/dkhamsing/open-source-ios-apps)** - Open-Source Apps
 * ⭐ **[TrollStore](https://github.com/opa334/TrollStore)** or [TrollApps](https://github.com/TheResonanceTeam/TrollApps/) - Non-Appstore Apps / No-Jailbreak / 14.0-17.0 / [IPAs](https://github.com/swaggyP36000/TrollStore-IPAs)
-* [Sideloadly](https://sideloadly.io/) or [SignTools](https://github.com/SignTools/SignTools) - Sideloading Tool
+* [Sideloadly](https://sideloadly.io/), [AltStore](https://altstore.io/) / [Repo Viewer](https://altsource.by.lao.sb/browse/) / [Alt Server](https://github.com/NyaMisty/AltServer-Linux), [SideStore](https://github.com/SideStore/SideStore) or [SignTools](https://github.com/SignTools/SignTools) - Non-Jailbreak Sideloading Tool
 * [Streamiza](https://t.me/streamiza) - Tweaked Apps / Telegram / [Discord](https://linktr.ee/Streamiza)
 * [fnd](https://fnd.io/) - App Store Search
 * [AppDB](https://appdb.to) - App Library 
@@ -1030,7 +1030,6 @@
 * [iosninja](https://iosninja.io/ipa-library) - App Library
 * [Jailbreaks.app](https://jailbreaks.app/) - App Library
 * [AppStore](https://t.me/iOSAppsFree) - Tweaked Apps
-* [AltStore](https://altstore.io/) or [SideStore](https://github.com/SideStore/SideStore) - App Store / [Repo Viewer](https://altsource.by.lao.sb/browse/) / [Alt Server](https://github.com/NyaMisty/AltServer-Linux)
 * [iOSObscura](https://archive.org/details/iOSObscura) - Old App Archive
 * [TestFlight](https://testflight.apple.com/) - Test Beta Apps / [Links](https://docs.google.com/spreadsheets/d/1Uej3AQPxRcLRXnmthUXR-7oGkNV_GsMFgCoNnuPtSwI/)
 * [AppleCensorship](https://applecensorship.com/) - Censored App Store Apps
@@ -1084,6 +1083,7 @@
 
 * ⭐ **[Kodi](https://kodi.tv/)** - /r/Addons4Kodi / [Tracker](https://kinkeadtech.com/best-kodi-streaming-addons/) / [Trending](https://kodiapps.com/addons-chart)
 * ⭐ **[Trakt](https://apps.apple.com/app/id1514873602?at=10l4Ht)** - Movies / TV Tracker
+* ⭐ **[Yattee](https://github.com/yattee/yattee)**, [Pretub](https://apps.apple.com/in/app/pretub-no-ads-in-video/id1603057438) or [Video Lite](https://apps.apple.com/in/app/video-lite/id1598997500) - YouTube Players
 * [FlixHub](https://rentry.co/FMHYBase64#flixhub) or [MegaFlix](https://rentry.co/FMHYBase64#megaflix) - Movies / TV / [How-to Use](https://i.imgur.com/zD6MAE0.jpg)
 * [Stremio](https://pastebin.com/Gy5xZny2) - Movies / TV / Anime / Use VPN / [Alt Method](https://i.imgur.com/0U3HIcN.mp4)
 * [Swiftfin](https://apps.apple.com/us/app/swiftfin/id1604098728) - Jellyfin Client
@@ -1095,7 +1095,6 @@
 * [EncoreTVD](https://apps.apple.com/us/app/encoretvb-english/id1191642382) - Chinese Drama
 * [VLC](https://apps.apple.com/ca/app/vlc-for-mobile/id650377962), [SPlayer](https://splayer.dev/), [Loader](https://apps.apple.com/us/app/documents-loader/id1442498151), [Pojobox](https://apps.apple.com/us/app/pojo-4k-hd-video-music-player/id1454098557) or [Infuse 6](https://apps.apple.com/us/app/infuse-6/id1136220934) - Video Players
 * [YTLitePlus](https://github.com/Balackburn/YTLitePlus/), [YT Tweaked](https://rentry.co/FMHYBase64#yt-tweaked-ipas) or [Cercube](https://rejail.ru/pack/cercube) - Modded YouTube iPAs / [Reddit Post](https://redd.it/olsxri)
-* [Yattee](https://github.com/yattee/yattee), [Pretub](https://apps.apple.com/in/app/pretub-no-ads-in-video/id1603057438) or [Video Lite](https://apps.apple.com/in/app/video-lite/id1598997500) - YouTube Players
 * [Tunity](https://tunity.com/) - Hear Any Muted TV
 * [Pipifier](https://apps.apple.com/us/app/pipifier/id1234771095) - Picture in Picture
 
