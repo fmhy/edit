@@ -18229,7 +18229,7 @@ Linux Gaming Guide
 
 ***
 
-## ▷ Finance / Crypto
+## ▷ Finance / Savings
 
 * 🌐 **[KYCNOT.ME](https://kycnot.me/)** - Non-KYC Exchanges / Services
 * ⭐ **[TradingView](https://www.tradingview.com/)**, [Candle](https://gitlab.com/cosmosapps/candle), [finviz](https://finviz.com/), [Markets.sh](https://markets.sh/) or [Screener](https://www.screener.in/) - Stock Market Trackers
@@ -18241,22 +18241,29 @@ Linux Gaming Guide
 * [Compound Interest Calculator](https://www.investor.gov/financial-tools-calculators/calculators/compound-interest-calculator) - Determine Compound Interest Money Growth
 * [GamestonkTerminal](https://github.com/OpenBB-finance/OpenBBTerminal), [OpenBB Terminal](https://openbb.co/) or [KoyFin](https://www.koyfin.com/) - Investment Research Tools
 * [YieldFinder](https://yieldfinder.app/) - Rates for Savings Accounts, Market Funds, and Treasuries
-* [WalletScrutiny](https://walletscrutiny.com/) - Verify Crypto Wallets are Open-Source / Secure
-* [Crypto Ecosystem 2021](https://docs.google.com/document/d/1RM7AoUKbXEqZ2qATTxGYLMexu3Jxrf3oYiwbsrXOXUQ) - Beginner's Guide to Crypto Ecosystem
-* [Cryptopedia](https://www.gemini.com/cryptopedia) or [Crypto Canon](https://a16zcrypto.com/posts/article/crypto-readings-resources/) - Crypto Learning Resources
-* [IQ.Wiki](https://iq.wiki/) - Crypto Encyclopedia
-* [protocol-reading-list](https://github.com/b-chiang/protocol-reading-list) - Crypto Protocols
-* [Traders Video Library](https://t.me/TradersVideo_Library) - Crypto Trading Courses
-* [BTCPay](https://btcpayserver.org/) - FOSS Bitcoin Payment Processor
-* [Wasabi](https://wasabiwallet.io/) or [Shapeshift](https://app.shapeshift.com/) - FOSS Bitcoin Wallets
-* [WalletExplorer](https://www.walletexplorer.com/) or [OXT](https://oxt.me/) - Bitcoin Block Explorers
 * [Quiver Quantitative](https://www.quiverquant.com/) - Stock Trading Research
 * [neostox](https://neostox.com/) - Practice Stock Trading
-* [BlockChain](https://www.blockchain.com/explorer), [CoinWatch](https://github.com/shorthouse/CoinWatch), [BlockChair](https://blockchair.com/) or [LiveCoinWatch](https://www.livecoinwatch.com/) - Live Cryptocurrency Prices
 * [TradingView Webhook Bot](https://github.com/fabston/TradingView-Webhook-Bot) / [Index](https://github.com/pAulseperformance/awesome-pinescript) - Send TradingView Alerts to Various Apps
 * [ETFDB](https://etfdb.com/) - ETF Research / Analysis Platform
 * [DeFi Derivative Landscape](https://github.com/0xperp/defi-derivatives) - DeFi Derivative Guide 
 * [MortgageCalculator](https://www.mortgagecalculator.site/) - Mortgage Calculator
+
+***
+
+## ▷ Crypto / Bitcoin
+
+* [Electrum](https://electrum.org/), [Wasabi](https://wasabiwallet.io/) or [Shapeshift](https://app.shapeshift.com/) - Bitcoin Wallets
+* [Rabby](https://rabby.io/) or [MetaMask](https://metamask.io/) - Multi-Crypto Wallets
+* [Talisman](https://www.talisman.xyz/) - Polkadot Wallet
+* [BTCPay](https://btcpayserver.org/) - FOSS Bitcoin Payment Processor
+* [WalletScrutiny](https://walletscrutiny.com/) - Verify Crypto Wallets are Open-Source / Secure
+* [BitcoinWhosWho](https://www.bitcoinwhoswho.com/) - Bitcoin Address Scanner
+* [BlockChain](https://www.blockchain.com/explorer), [CoinWatch](https://github.com/shorthouse/CoinWatch), [BlockChair](https://blockchair.com/) or [LiveCoinWatch](https://www.livecoinwatch.com/) - Live Cryptocurrency Prices
+* [WalletExplorer](https://www.walletexplorer.com/) or [OXT](https://oxt.me/) - Bitcoin Block Explorers
+* [Cryptopedia](https://www.gemini.com/cryptopedia) or [Crypto Canon](https://a16zcrypto.com/posts/article/crypto-readings-resources/) - Crypto Learning Resources
+* [IQ.Wiki](https://iq.wiki/) - Crypto Encyclopedia
+* [protocol-reading-list](https://github.com/b-chiang/protocol-reading-list) - Crypto Protocols
+* [Traders Video Library](https://t.me/TradersVideo_Library) - Crypto Trading Courses
 
 ***
 
