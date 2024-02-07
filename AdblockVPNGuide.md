@@ -229,7 +229,7 @@
 # ► Web Privacy
 
 * 🌐 **[Awesome Web Security](https://github.com/qazbnm456/awesome-web-security)** - Web Security Resources
-* 🌐 **[Awesome Anti Censorship](https://github.com/danoctavian/awesome-anti-censorship)**, [Your Freedom](https://www.your-freedom.net/) or [Geneva](https://geneva.cs.umd.edu/), - Anti-Censorship Resources
+* 🌐 **[Awesome Anti Censorship](https://github.com/danoctavian/awesome-anti-censorship)** or [Geneva](https://geneva.cs.umd.edu/), - Anti-Censorship Resources
 * 🌐 **[de-google](https://www.reddit.com/r/privacy/wiki/de-google)**, [De-google-ify](https://degooglisons-internet.org/en/), [Degoogle](https://github.com/tycrek/degoogle), [Google Alt List](https://www.techspot.com/news/80729-complete-list-alternatives-all-google-products.html), [/r/DeGoogle](https://www.reddit.com/r/degoogle) or [No More Google](https://nomoregoogle.com/) - Google App Alternatives
 * 🌐 **[Awesome I2P](https://github.com/mikalv/awesome-i2p)** - I2P Resources
 * ↪️ **[Encrypted Messaging Apps](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_encrypted_messengers)** / [2](https://docs.google.com/spreadsheets/d/1-UlA4-tslROBDS9IqHalWVztqZo7uxlCeKPQ-8uoFOU) / [3](https://www.securemessagingapps.com/)
