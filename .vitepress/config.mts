@@ -87,8 +87,6 @@ export default defineConfig({
     outline: 'deep',
     logo: '/fmhy.ico',
     nav: [
-      // @ts-expect-error
-      { text: 'Collection', items: sidebar },
       { text: 'Beginners Guide', link: '/beginners-guide' },
       { text: 'Glossary', link: 'https://rentry.org/The-Piracy-Glossary' },
       { text: 'Guides', link: 'https://rentry.co/fmhy-guides' },
