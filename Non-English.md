@@ -1647,9 +1647,10 @@
 
 ## ▷ Streaming
 
-* [Fullhdfilmizlesene](https://www.fullhdfilmizlesene.pw) - Movies / Cartoons
+* [Dizilla](https://dizilla.club) - Movies / TV 
 * [Yabancıdizi](https://yabancidizi.pro) - Movies / TV
 * [Hdfilmcehennemi](https://www.hdfilmcehennemi.life) - Movies / TV
+* [Fullhdfilmizlesene](https://www.fullhdfilmizlesene.pw) - Movies / Cartoons
 * [JetFilmizle](https://jetfilmizle.video/) - Movies
 * [FilmIzle](https://filmizle2022.info/) - Movies
 * [4kfilmizlesene](https://www.4kfilmizlesene.xyz/) - Movies
