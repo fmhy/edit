@@ -125,7 +125,7 @@
 * [AmazingRibs](https://amazingribs.com/) - Rib Recipes
 * [The Bread Code Manifesto](https://github.com/hendricius/the-sourdough-framework) - Bread Baking Recipes 
 * [Coffee or Bust!](https://www.coffeeorbust.com/) - Coffee-Making Guides
- * [NahBucks](https://nahbucks.com/) - Find Local Non-Starbucks Coffee Shops
+* [NahBucks](https://nahbucks.com/) - Find Local Non-Starbucks Coffee Shops
 * [Coffee Flavor Wheel](https://notbadcoffee.com/flavor-wheel-en/) - Interactive Coffee Flavor Wheel
 * [DrinNnation](https://www.drinknation.com/bar) or [MyBar](https://makemeacocktail.com/mybar/) - Cocktail Builders
 * [Drinkable](https://github.com/MOIMOB/drinkable) - Create Cocktails from Home Ingredients
