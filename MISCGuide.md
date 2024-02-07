@@ -714,6 +714,10 @@
 
 ## ▷ Crypto / Bitcoin
 
+**Note** - Its best to avoid wallets connected to the internet as they are less secure and more prone to hacks.
+
+***
+
 * [Rabby](https://rabby.io/) or [MetaMask](https://metamask.io/) - Multi-Crypto Wallets / Hardware Wallets
 * [Electrum](https://electrum.org/), [Wasabi](https://wasabiwallet.io/) or [Shapeshift](https://app.shapeshift.com/) - Bitcoin Wallets
 * [Talisman](https://www.talisman.xyz/) - Polkadot Wallet
