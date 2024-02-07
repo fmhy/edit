@@ -718,11 +718,11 @@
 
 ***
 
+* ⭐ **[WalletScrutiny](https://walletscrutiny.com/)** - Verify Crypto Wallets are Open-Source / Secure
 * [Rabby](https://rabby.io/) or [MetaMask](https://metamask.io/) - Multi-Crypto / Hardware Wallets
 * [Electrum](https://electrum.org/), [Wasabi](https://wasabiwallet.io/) or [Shapeshift](https://app.shapeshift.com/) - Bitcoin Wallets
 * [Talisman](https://www.talisman.xyz/) - Polkadot Wallet
 * [BTCPay](https://btcpayserver.org/) - FOSS Bitcoin Payment Processor
-* [WalletScrutiny](https://walletscrutiny.com/) - Verify Crypto Wallets are Open-Source / Secure
 * [BitcoinWhosWho](https://www.bitcoinwhoswho.com/) - Bitcoin Address Scanner
 * [BlockChain](https://www.blockchain.com/explorer), [CoinWatch](https://github.com/shorthouse/CoinWatch), [BlockChair](https://blockchair.com/) or [LiveCoinWatch](https://www.livecoinwatch.com/) - Live Cryptocurrency Prices
 * [WalletExplorer](https://www.walletexplorer.com/) or [OXT](https://oxt.me/) - Bitcoin Block Explorers
