@@ -1654,20 +1654,21 @@
 * [JetFilmizle](https://jetfilmizle.video/) - Movies
 * [FilmIzle](https://filmizle2022.info/) - Movies
 * [4kfilmizlesene](https://www.4kfilmizlesene.xyz/) - Movies
+* [Filmizlesene](https://www.filmizlesene.pro) - Movies
+* [Pifilmizle](https://www.pifilmizle.net) - Movies
 * [FilmMom](https://www.filmmom.de/) - Movies
 * [Dizilab](https://dizilab.com/) - TV
 * [turkish123](https://turkish123.com/) - TV
-* [yoturkish](https://www.yoturkish.com) - TV
-* [expressdizi](https://www.expressdizi.com/) - TV
-* [makkitv](https://makkitv.co/) - TV
+* [Yoturkish](https://www.yoturkish.com) - TV
+* [Expressdizi](https://www.expressdizi.com/) - TV
+* [Makkitv](https://makkitv.co/) - TV
 * [OsmanOnline.pk](https://osmanonline.pk/) - TV
 * [AR Dirilis Ertugrul](https://ardirilisertugrul.net/) - TV
 * [OsmanOnline.co](https://osmanonline.co.uk/) - TV
-* [KayiFamily](https://kayifamily.com/), [KayiFamilyTV](https://kayifamilytv.com/v11/) - TV / Documentaries
+* [KayiFamily](https://kayifamily.com/), [KayiFamilyTV](https://kayifamilytv.com) - TV / Documentaries
 * [TurkAnime](https://www.turkanime.co/) - Anime
-* [anizm](https://anizm.net/) - Anime
-* [filmizlesene](https://www.filmizlesene.pro) - Movies
-* [pifilmizle](https://www.pifilmizle.net/) - Movies
+* [Anizm](https://anizm.net/) - Anime
+* [TRanimeizle](https://www.tranimeizle.co) - Anime
 
 ## ▷ Reading
 
