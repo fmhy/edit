@@ -718,7 +718,7 @@
 
 ***
 
-* [Rabby](https://rabby.io/) or [MetaMask](https://metamask.io/) - Multi-Crypto Wallets / Hardware Wallets
+* [Rabby](https://rabby.io/) or [MetaMask](https://metamask.io/) - Multi-Crypto / Hardware Wallets
 * [Electrum](https://electrum.org/), [Wasabi](https://wasabiwallet.io/) or [Shapeshift](https://app.shapeshift.com/) - Bitcoin Wallets
 * [Talisman](https://www.talisman.xyz/) - Polkadot Wallet
 * [BTCPay](https://btcpayserver.org/) - FOSS Bitcoin Payment Processor
