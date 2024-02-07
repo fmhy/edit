@@ -9723,16 +9723,16 @@ Use [this](https://bitbucket.org/magnolia1234/bypass-paywalls-firefox-clean/src/
 
 ## ▷ YouTube Downloaders
 
-* 🌐 **[/r/YouTubeDL](https://www.reddit.com/r/youtubedl/wiki/info-guis)** YT-DL GUI's Index
 * 🌐 **[TheFrenchGhosty's Ultimate YouTube-DL Scripts Collection](https://github.com/TheFrenchGhosty/TheFrenchGhostys-Ultimate-YouTube-DL-Scripts-Collection)** - YouTube Download Scripts Index
 * ↪️ **[Multi-Site Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video-tools#wiki_.25BA_video_download)**
-* ⭐ **[YT-DLP](https://github.com/yt-dlp/yt-dlp)** or [YTDL-PATCHED](https://github.com/ytdl-patched/ytdl-patched) - YouTube Downloaders / [Easy Installer](https://github.com/kazukikasama/youtube-dlp-gui-installer), [2](https://github.com/StefanLobbenmeier/youtube-dl-gui)
-* [YoutubeDownloader](https://github.com/Tyrrrz/YoutubeDownloader) or [YoutubeDL-Material](https://github.com/Tzahi12345/YoutubeDL-Material) - YouTube Downloaders
+* ⭐ **[YT-DLP](https://github.com/yt-dlp/yt-dlp)** or [YTDL-PATCHED](https://github.com/ytdl-patched/ytdl-patched) - YouTube Downloader / [Easy Installer](https://github.com/kazukikasama/youtube-dlp-gui-installer), [2](https://github.com/StefanLobbenmeier/youtube-dl-gui) / [GUI Index](https://www.reddit.com/r/youtubedl/wiki/info-guis)
 * [YouTube Qualities Size](https://greasyfork.org/en/scripts/404953-youtube-qualities-size) - Show YouTube File Sizes 
 * [totalsize](https://pypi.org/project/totalsize/) - Calculate Size of All Videos in a Playlist
+* [YoutubeDL-Material](https://github.com/Tzahi12345/YoutubeDL-Material) - YouTube Downloader
+* [YoutubeDownloader](https://github.com/Tyrrrz/YoutubeDownloader) - YouTube Downloader
 * [YouTubePlaylist](https://youtubeplaylist.cc/) - Playlist Downloader
 * [metube](https://github.com/alexta69/metube) or [yt-dlp-web-ui](https://github.com/marcopeocchi/yt-dlp-web-ui) - YT-DL Web UIs
-* [Gropple](https://github.com/tardisx/gropple), [Tartube](https://github.com/axcore/tartube), [media-downloader](https://github.com/mhogomchungu/media-downloader), [stacher](https://stacher.io/) or [youtube-dl-gui](https://github.com/oleksis/youtube-dl-gui) - YT-DL GUI
+* [Gropple](https://github.com/tardisx/gropple), [Tartube](https://github.com/axcore/tartube), [media-downloader](https://github.com/mhogomchungu/media-downloader), [stacher](https://stacher.io/) or [youtube-dl-gui](https://github.com/oleksis/youtube-dl-gui) - YT-DL GUIs
 * [Cube YouTube Downloader](https://github.com/database64128/youtube-dl-wpf) - WPF YT-DL GUI
 * [Videomass](https://jeanslack.github.io/Videomass/) - YT-DL / FFmpeg GUI
 * [YouTube Thumbnail Grabber](https://boingboing.net/features/getthumbs), [YTI](https://youtubethumbnailimage.com/), [thumbnailsave](https://thumbnailsave.com/), [thumbnail-download](https://thumbnail-download.com/) or [Get YT Thumbnail](https://www.get-youtube-thumbnail.com/) - Download YouTube Thumbnails
