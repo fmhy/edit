@@ -1437,7 +1437,7 @@
 * [MandraAnime](https://mandranime.com/) - Anime / Sub / [Bypass](https://greasyfork.org/en/scripts/484990)
 * [Animegafirex](https://www.animegafirex.com/) - Anime / Sub
 * [CrisAnime](https://crisanimex.com/) - Anime / Sub / Dub
-* [TioDonghua](https://kiriasian.com/) - Anime / Sub
+* [Kiri Asian](https://kiriasian.com/) - Anime / Sub
 * [Japan Paw!](https://japan-paw.net/) - Anime / Sub / [Bypass](https://greasyfork.org/en/scripts/485015)
 * [Fukou-Da!](https://fukou-da.net/) - Anime / Sub / Light Novels
 * [Animes480pFinalizados](https://t.me/Animes480pFinalizados) - Anime / Telegram
@@ -1587,7 +1587,7 @@
 * [InManga](https://inmanga.com/) - Manga
 * [manhuako](https://manhuako.com/) - Manga
 * [lexmangas](https://www.lexmangas.com/) - Manga
-* [yugenmangas](https://ikigaimangas.com/) - Manga
+* [Ikigai Mangas](https://ikigaimangas.com/) - Manga
 * [miauscan](https://miauscan.com/) - Manga
 * [Mangaesp](https://mangaesp.co/) - Manga
 * [senpaiediciones](https://senpaiediciones.com/) - Manga
