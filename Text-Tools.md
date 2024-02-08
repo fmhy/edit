@@ -46,6 +46,7 @@
 * [blackhost](https://blackhost.xyz/?id=pst)
 * [protectedtext](https://www.protectedtext.com/)
 * [shortbin](http://bin.shortbin.eu:8080/)
+* [paste.fo](https://paste.fo/)
 * [throwbin](https://throwbin.in/)
 * [dpaste](https://dpaste.com/) / [2](https://dpaste.org/)
 * [copydock](https://copydock.vercel.app/paste)
