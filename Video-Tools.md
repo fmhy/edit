@@ -308,7 +308,7 @@
 * [weibomiaopai](https://weibomiaopai.com/download-video-parser.php) - Multi-Site
 * [SCrawler](https://github.com/AAndyProgram/SCrawler) - Multi-Site
 * [webvideo-downloader](https://github.com/jaysonlong/webvideo-downloader) - Multi-Site
-* [TikTok Scraper](https://github.com/drawrowfly/tiktok-scraper), [myfaveTT](https://myfavett.com/) or [SnapTik](https://snaptik.app/) - TikTok
+* [TikTok Scraper](https://github.com/drawrowfly/tiktok-scraper), [myfaveTT](https://myfavett.com/), [SnapTik](https://snaptik.app/), [tiktok-to-ytdlp](https://github.com/Dinoosauro/tiktok-to-ytdlp) or [urlescraper](https://github.com/Tomeriko96/urlescraper) - TikTok
 * [DMVideo](https://dmvideo.download/) - DailyMotion
 * [PinCase](https://pincase.xyz/) - Pinterest
 * [kmttg](https://www.videohelp.com/software/kmttg) - TivoToGo Download Manager
