@@ -80,7 +80,7 @@
 
 * 🌐 **[.to Sites](https://rentry.co/nsq29)** - File Converters Index
 * ⭐ **[File Converter](https://file-converter.org/)** / [GitHub](https://github.com/Tichau/FileConverter) - Convert / Compress Files
-* ⭐ **[Xconvert](https://www.xconvert.com)** - Multi-featured.
+* ⭐ **[Xconvert](https://www.xconvert.com)** - Convert Files / 1 GB Limit
 * ⭐ **[CloudConvert](https://cloudconvert.com/)** - Convert Files / 1 GB Limit
 * [Pandoc](https://pandoc.org/) - Document Converter
 * [ConvertCSV](https://www.convertcsv.com/) - CSV Data Conversion
