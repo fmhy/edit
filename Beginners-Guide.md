@@ -133,7 +133,7 @@ Use [this](https://bitbucket.org/magnolia1234/bypass-paywalls-firefox-clean/src/
 ### Downloading
 
 **[LRepacks](https://lrepacks.net/)** or **[CRACKSurl](https://cracksurl.com/)** - Trusted software sites
-**[OlaMovies](http://olamovies.yachts/)** - Fast video downloads
+**[OlaMovies](https://olamovies.autos/)** - Fast video downloads
 **[FitGirl Repacks](https://fitgirl-repacks.site/) / [SteamRIP](https://steamrip.com/) / [GOG-Games](https://gog-games.to/)** - Game download sites / [FitGirl Discord](https://discord.gg/Up3YARe4RW)
 **[Vimms Lair](https://vimm.net/) / [No-Intro](https://rentry.co/FMHYBase64#no-intro)** - ROM download sites / [Emulators](https://emulation.gametechwiki.com/)
 **[Firehawk52](https://rentry.org/firehawk52)** - Music ripping guide
