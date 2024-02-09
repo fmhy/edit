@@ -4,8 +4,15 @@
 ***
 ***
 
-**Use [redirect bypassers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25B7_redirect_bypass) to skip link shorteners**
+# ► Required Components
 
+* [DirectX](https://www.microsoft.com/en-us/download/details.aspx?id=35)
+* [VisualCppRedist AIO](https://github.com/abbodi1406/vcredist/releases)
+* [XNA Framework](https://www.microsoft.com/en-us/download/details.aspx?id=27598)
+* [.NET](https://dotnet.microsoft.com/en-us/download/dotnet/8.0)
+
+***
+**Use [redirect bypassers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25B7_redirect_bypass) to skip link shorteners**
 ***
 
 # ► Download Games
