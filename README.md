@@ -6,7 +6,7 @@
 * If you're adding a new site, please [search](https://raw.githubusercontent.com/fmhy/FMHYedit/main/single-page) first to make sure we don't already have it.
 * Approved changes will be applied to the [site](https://fmhy.net) and all [🔒 backups](https://github.com/fmhy/FMHY/wiki/Backups).
 * You can send us stuff directly via [💬 Discord](https://discord.gg/5W9QJKuPkD).
-* You can also check out our [website](https://fmhy.net) and the [Posts](https://fmhy.net/posts) section to know about any major updates to the wiki.
+* You can also check out our [website](https://fmhy.net) and the [posts](https://fmhy.net/posts) section to know about any major updates to the wiki.
 
 ***
 
