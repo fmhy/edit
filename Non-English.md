@@ -1402,7 +1402,6 @@
 * [Relampago Movies](https://relampagomovies.com/) - Movies / Latino
 * [Hackstore.me](https://www.hackstore.me/) - Movies / TV / Anime
 * [Hackstore.rs](https://hackstore.rs/) - Movies / TV / Anime / Latino / [Bypass](https://greasyfork.org/en/scripts/484944)
-* [PelisEnHD](https://pelisenhd.org/) - Movies / TV / Anime / Latino / Castilian / [Bypass](https://greasyfork.org/en/scripts/486337)
 * [Mega-Mkv](https://mega-mkv.com/) - Movies / TV / Latino / Castilian / [Bypass](https://greasyfork.org/en/scripts/477591)
 * [Mega DVDRip](https://peliculas-dvdrip.com/) - Movies / TV / Latino / Castilian / [Bypass](https://greasyfork.org/en/scripts/477591)
 * [Mega 1 Link](https://mega1link.com/) - Movies / TV / Latino / Castilian / [Bypass](https://greasyfork.org/en/scripts/477591)
