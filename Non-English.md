@@ -1387,20 +1387,22 @@
 * [Flipax2](https://flipax2.me/) - Video / Audio / Reading / Castilian
 * [Fiuxy2](https://fiuxy2.co/) - Video / Audio / Reading / NSFW / [Bypass](https://greasyfork.org/en/scripts/477591)
 * [La Taberna Del Cangrejo](http://www.latabernadelcangrejo.eu/) - Video / Audio
+* [Descargandoxmega](https://www.descargandoxmega.com/) - Movies / TV / Animation / 1080p / 4K / Latino / Castilian
 * [PelisEnHD](https://pelisenhd.org/) - Movies / TV / Anime / 4K / Latino / Castilian / [Partial Bypass](https://greasyfork.org/en/scripts/486337)
-* [Descargandoxmega](https://www.descargandoxmega.com/) - Movies / TV / Animation / Latino / Castilian
-* [SomosMovies](https://somosmovies.com/) - Movies / TV
-* [VerePeliculas](https://wvw.verepeliculas.com/) - Movies / TV / Latino
-* [Mega1080](https://www.mega1080.com/) - Movies / Documentaries / Latino
+* [SomosMovies](https://somosmovies.com/) - Movies / TV / 1080p / 4K / Latino
+* [LatinoMegaHD](https://www.latinomegahd.net/) - Movies / TV / 1080p / 4K / Latino / [Bypass](https://greasyfork.org/en/scripts/484486)
+* [GDRIVELatino](https://gdrivelatino.net/) - Movies / TV / 1080p / 4K / Latino
+* [VerePeliculas](https://wvw.verepeliculas.com/) - Movies / TV / 1080p / Latino
+* [Mega1080](https://www.mega1080.com/) - Movies / Documentaries / 1080p / Latino
+* [TodoPelisHD](https://todopelishd.com/) - Movies / 1080p / Latino
+* [MegaPeliculasRip](https://www.megapeliculasrip.net/) - Movies / Classics / TV / Animation / 1080p / Latino
+* [Peliculas-HD](https://peliculas-hd.org/) - Movies / 1080p / Latino
 * [mirandopeliculas](https://www.mirandopeliculas.com/) - Movies / TV / Latino
-* [TodoPelisHD](https://todopelishd.com/) - Movies / Latino
 * [Cine24h](https://cine24h.online/) - Movies / TV / Sub / Dub / 720p
 * [Peliculas 1k](https://www.peliculasmega1k.com/) - Movies / 720p
 * [subtituladas.com](https://subtituladas.com/) - Movies / Sub / 720p 
-* [MegaPeliculasRip](https://www.megapeliculasrip.net/) - Movies / Classics / TV / Animation / Latino
 * [BajarPelisGratis](https://www.bajarpelisgratis.com/) - Movies / Latino
 * [Bajalo Gratis](https://bajalogratis.com/) - Movies / Latino
-* [Peliculas-HD](https://peliculas-hd.org/) - Movies / Latino
 * [Relampago Movies](https://relampagomovies.com/) - Movies / Latino
 * [Hackstore.me](https://www.hackstore.me/) - Movies / TV / Anime
 * [Hackstore.rs](https://hackstore.rs/) - Movies / TV / Anime / Latino / [Bypass](https://greasyfork.org/en/scripts/484944)
@@ -1410,13 +1412,11 @@
 * [ProgramasVirtualesPC](https://www.programasvirtualespc.net/category/peliculas/) - Movies / TV / Latino / [Bypass](https://greasyfork.org/en/scripts/462492), [2](https://greasyfork.org/en/scripts/477591)
 * [SeiresHD](https://serieslandia.com/), [2](https://seireshd.com/) - Movies / TV / Animation / Latino / [Bypass](https://greasyfork.org/en/scripts/477591)
 * [Gatonplayseries](https://gatonplayseries.com/) - Movies / TV / Latino / Anime / [Bypass](https://greasyfork.org/en/scripts/477591), [2](https://greasyfork.org/en/scripts/484488)
-* [LatinoMegaHD](https://www.latinomegahd.net/) - Movies / TV / Latino / [Bypass](https://greasyfork.org/en/scripts/484486)
 * [Peliculas Google Drive](https://www.peliculasgd.net/) - Movies / Latino / [Bypass](https://greasyfork.org/en/scripts/484943)
 * [TodoDVDFull](https://www.tododvdfull.com/) - Movies / Latino / [Bypass](https://greasyfork.org/en/scripts/484488)
 * [Don Pelis](https://donpelis.org/), [2](https://granpirata.com/) - Movies / TV / Animation / Latino / [Bypass](https://greasyfork.org/en/scripts/477591)
 * [Peli Series HD](https://www.peliserieshd.com/) - Movies / TV / Latino
 * [GDriveDescarga](https://gdrivedescarga.com/) - Movies / TV / Latino
-* [GDRIVELatino](https://gdrivelatino.net/) - Movies / TV / Latino
 * [Mega Descargas](https://mega-descargas-serie.blogspot.com/) - TV / Latino
 * [La Comunidad](https://t.me/s/la_comunidad) - Movies / TV / Telegram / Castilian
 * [Peliculas 480p](https://t.me/cinema480p) - Movies / Telegram / Latino
