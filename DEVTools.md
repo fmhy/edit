@@ -624,7 +624,6 @@
 * 🌐 **[Awesome DataScience](https://github.com/academic/awesome-datascience)** or [Best Data Science Resources](https://github.com/Mohitkr95/Best-Data-Science-Resources) - Data Science Resources
 * 🌐 **[Awesome Bug Bounty Builder](https://github.com/0xJin/awesome-bugbounty-builder)** or [Bug Bounty](https://github.com/sehno/Bug-bounty) - Bug Bounty Resources
 * ↪️ **[Multi-Tool Dev Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_multi_dev_tool_sites)**
-* ⭐ **[List.community](https://list.community/)** - Programming / Development GitHub Lists
 * [Open Source Alternatives](https://www.btw.so/open-source-alternatives) - Open Source Development Software
 * [DevToys](https://github.com/ObuchiYuki/DevToysMac) or [DevUtils](https://devutils.com/) - Mac Dev Tools
 * [Student Developer Pack](https://education.github.com/pack) - Free Developer Tools for Students
