@@ -194,6 +194,7 @@
 * [TileMe](https://gitlab.com/slavoutich/tileme)
 * [MiguruWM](https://github.com/imawizard/MiguruWM)
 * [WindowsGrid](http://windowgrid.net/)
+* [United Sets](https://github.com/Windows-Apps-Hub/UnitedSets) - Group Windows Into Tabs
 * [AltSnap](https://github.com/RamonUnch/AltSnap) - Improved Windows Dragging
 
 ***
