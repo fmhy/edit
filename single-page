@@ -11011,15 +11011,16 @@ https://cari.institute/
 * ⭐ **[JustGetMyData](https://justgetmydata.com/)** - Links to Obtain Your Data from Websites
 * ⭐ **[simplewall](https://github.com/henrypp/simplewall)**, [WFC](https://www.binisoft.org/wfc.php), [pfSense](https://www.pfsense.org/) / [How-to](https://youtu.be/am7xT-zU1Q0) or [Tinywall](https://tinywall.pados.hu/) - Firewall / Network Monitors
 * ⭐ **[Cryptomator](https://cryptomator.org/)**, [Boxcryptor](https://www.boxcryptor.com/en/) or [Tahoe-LAFS](https://tahoe-lafs.org/trac/tahoe-lafs) - Cloud File Encryption
-* ⭐ **[Proton Mail](https://proton.me/mail)**, [Skiff Mail](https://skiff.com/mail) or [Tuta](https://tuta.com/) - Encrypted Email
 * ⭐ **[Have I been Pwned?](https://haveibeenpwned.com/)** or [GhostProject](https://ghostproject.fr/) - Monitor Email Breaches
+* ⭐ **[Proton Mail](https://proton.me/mail)** - Encrypted Email
+* [Skiff Mail](https://skiff.com/mail) - Encrypted Email
+* [Tuta](https://tuta.com/) - Encrypted Email
 * [How Secure is My Password](https://www.security.org/how-secure-is-my-password/) - Password Strength Checker
 * [h8Mail](https://github.com/khast3x/h8mail) or [FirefoxMonitor](https://monitor.firefox.com/) - Data Breach Check
 * [BreachDirectory](https://breachdirectory.org), [Snusbase](https://snusbase.com/), [Leak Lookup](https://leak-lookup.com/), [Trufflehog](https://github.com/trufflesecurity/trufflehog), [Database Search](https://search.0t.rocks/) or [leakpeek](https://leakpeek.com/) - Data Breach Search Engines
 * [EmailPrivacyTester](https://www.emailprivacytester.com/) - Email Privacy Test
 * [OpenPGP](https://www.openpgp.org/) - Email Encryption / [Guide](https://riseup.net/en/security/message-security/openpgp/best-practices)
 * [/r/emailprivacy](https://reddit.com/r/emailprivacy) - Discussion of Email Privacy / Security / Anonymity
-* [No Thought is a Crime](https://ntc.party/) - Internet Censorship Discussion
 * [I2P](https://geti2p.net/en/) - Encrypted Private Network Layer / [Guide](https://rentry.co/CBGI2P)
 *  [JustDeleteMe](https://justdeleteme.xyz/) - Find / Terminate Old Accounts
 * [OpenPhish](https://openphish.com/), [Netcraft Report](https://report.netcraft.com/report), [PhishStats](https://phishstats.info/) or [PhishTank](https://phishtank.org/) - Report Phishing Sites
@@ -11105,7 +11106,6 @@ https://cari.institute/
 * [SafeTwitch](https://codeberg.org/SafeTwitch/safetwitch) or [Twineo](https://codeberg.org/CloudyyUw/twineo) - Twitch Frontends
 * [Whoogle](https://benbusby.com/projects/whoogle-search/) - Google Search Frontend
 * [Lingva Translate](https://github.com/TheDavidDelta/lingva-translate) - Google Translate Frontend
-* [Wikiless](https://wikiless.org/) - Wikipedia Frontend
 * [Scribe](https://sr.ht/~edwardloveall/Scribe/), [medium.rip](https://medium.rip/) or [LibMedium](https://github.com/realaravinth/libmedium) - Medium Frontends
 * [Quetre](https://github.com/zyachel/quetre) - Quora Frontend
 * [Rimgo](https://codeberg.org/rimgo/rimgo) - Imgur Frontend
@@ -11129,6 +11129,7 @@ https://cari.institute/
 * ⭐ **[searx.fmhy](https://searx.fmhy.net/)** - Searx Instance
 * ⭐ **[Metager](https://metager.org/)**
 * ⭐ **[Stract](https://trystract.com/)**
+* ⭐ **[Araa](https://araa.extravi.dev/)**
 * ⭐ **[DuckDuckGo](https://duckduckgo.com/)** - [Shortcuts](https://duckduckgo.com/bangs)
 * [whoogle.fmhy](https://whoogle.fmhy.net/) - Whoogle Instance
 * [searx-qt](https://notabug.org/CYBERDEViL/searx-qt) - Searx Desktop App
@@ -11136,11 +11137,12 @@ https://cari.institute/
 * [searx](https://searx.be/) - Searx Instance
 * [tiekoetter](https://searx.tiekoetter.com/) - Searx Instance
 * [monocles](https://monocles.de/) - Searx Instance
+* [LibreY](https://github.com/Ahwxorg/librey) or [LibreX](https://github.com/hnhx/librex)
 * [4get](https://4get.ca/)
 * [Mojeek](https://www.mojeek.com/)
 * [Qwant](https://www.qwant.com/)
 * [Swisscows](https://swisscows.com/)
-* [YaCy](https://yacy.net/) 
+* [YaCy](https://yacy.net/)
 * [Startpage](https://www.startpage.com/)
 * [Search Encrypt](https://www.searchencrypt.com/)
 * [ekoru](https://ekoru.org/)
@@ -11234,6 +11236,7 @@ https://cari.institute/
 * ⭐ **[Lantern](https://lantern.io/)** or **[Psiphon](https://psiphon.ca/)** / [Bypass Blocks](https://media.discordapp.net/attachments/953145730736996382/953730963735707719/Screenshot_20220316220604.png) - Free Proxy / VPN
 * ⭐ **[SecureDNSClient](https://github.com/msasanmh/SecureDNSClient)** - DNS Proxy GUI / [Guide](https://rentry.co/SecureDNSClient)
 * ⭐ **[Bypass ISP Blocks](https://rentry.co/enable-ech)** - Bypass ISP censorship with Firefox
+* [No Thought is a Crime](https://ntc.party/) - Internet Censorship Discussion
 * [GoodbyeDPI](https://github.com/ValdikSS/GoodbyeDPI/) / [GUI](https://github.com/mguludag/GUI-for-GoodbyeDPI), [PowerTunnel](https://github.com/krlvm/PowerTunnel), [Green Tunnel](https://github.com/SadeghHayeri/GreenTunnel) or [GFW-knocker](https://github.com/GFW-knocker/gfw_resist_tls_proxy) / [Test](https://www.howsmyssl.com/) - DPI Circumvention Local Proxies
 * [Hola Proxy](https://github.com/Snawoot/hola-proxy) - Alternative Client for Hola Free Proxy Service
 * [Hide.me Firefox](https://addons.mozilla.org/en-US/firefox/addon/hide-me-vpn-free-proxy/) / [Chrome](https://chromewebstore.google.com/detail/hideme-proxy/ohjocgmpmlfahafbipehkhbaacoemojp) or [anonymoX](https://anonymox.net/en) - Free Proxy Service Browser Extension
