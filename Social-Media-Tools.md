@@ -246,7 +246,6 @@
 ## ▷ Subreddit Discovery
 
 * 🌐 **[/r/ListOfSubreddits](https://www.reddit.com/r/ListOfSubreddits/)** - Subreddits Index
-* 🌐 **[/r/DiscoverReddit Index](https://www.reddit.com/r/DiscoverReddit/wiki/index)** - Discovery Subreddits Index
 * ↪️ **[Multireddit Indexes](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_multireddits)** or [/r/multihub](https://www.reddit.com/r/multihub/top/?sort=top&t=all)
 * [/r/findareddit](https://www.reddit.com/r/findareddit/) - Get Subreddit Suggestions
 * [Subreddit Calculator](https://trevor.shinyapps.io/subalgebra/) or [redsim](https://anvaka.github.io/redsim/) - Find Similar Subreddits
