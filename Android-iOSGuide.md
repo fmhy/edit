@@ -832,7 +832,7 @@
 * [Float Tube](https://play.google.com/store/apps/details?id=com.xpp.tubeAssistant) - Floating YouTube Player
 * [YouTubeAdAway](https://github.com/wanam/YouTubeAdAway) - YouTube Adblocker
 * [Revanced CLI Troubleshooting](https://sodawithoutsparkles.github.io/revanced-troubleshooting-guide/06-revanced-cli/)
-* [YouTubeDL Android](https://github.com/yausername/youtubedl-android), [Seal](https://github.com/JunkFood02/Seal) or [SongTube](https://github.com/SongTube/SongTube-App) - YouTube Audio / Video Downloaders
+* [YouTubeDL Android](https://github.com/yausername/youtubedl-android), [Seal](https://github.com/JunkFood02/Seal), [ytdlnis](https://github.com/deniscerri/ytdlnis) or [SongTube](https://github.com/SongTube/SongTube-App) - YouTube Audio / Video Downloaders
 
 ***
 
