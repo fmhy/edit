@@ -792,6 +792,7 @@
 ## ▷ Light Novels
 
 * 🌐 **[The Index](https://theindex.moe/library/novels)** - Light Novel Site Index / [Discord](https://discord.gg/Snackbox) / [Wiki](https://thewiki.moe/)
+* ⭐ **[server.elscione](https://server.elscione.com/)**
 * ⭐ **[Novel OneDrive Index](https://novel-indx.vercel.app/)**
 * ⭐ **[Novel Updates](https://www.novelupdates.com/)**
 * ⭐ **[jnovels](https://jnovels.com/)** or [MP4DIRECTS](https://mp4directs.com/)
