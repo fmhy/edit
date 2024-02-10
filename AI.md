@@ -98,6 +98,7 @@ pare AI Responses
 * [Autoclear ChatGPT History](https://github.com/adamlui/userscripts/tree/master/chatgpt/autoclear-chatgpt-history) - Autoclear Chats
 * [EditGPT](https://www.editgpt.app/) - Proofread Chats
 * [RepeatGPT](https://repeatgpt.com/) - Schedule Chats
+* [ChatGPT Old Style](https://greasyfork.org/en/scripts/486909-openai-chat-old-colors) - Old ChatGPT Colors
 
 ***
 
@@ -221,24 +222,25 @@ pare AI Responses
 ## ▷ Online Generators
 
 * ⭐ **[Poe](https://poe.com/)** - 100 Daily / [Discord](https://discord.com/invite/joinpoe)
-* ⭐ **[PlaygroundAI](https://playgroundai.com/)** / 1K Images Daily
+* ⭐ **[PlaygroundAI](https://playgroundai.com/)** / 1K Daily
 * ⭐ **[Dezgo](https://dezgo.com/)** / [Discord](https://discord.com/invite/RQrGpUhPhx) / Unlimited
 * ⭐ **[Mage](https://www.mage.space/)** / [Discord](https://discord.com/invite/GT9bPgxyFP) / Unlimited
 * ⭐ **[ComfyUI Web](https://comfyuiweb.com/)** / Unlimited
 * ⭐ **[Meta AI](https://imagine.meta.com/)** / Unlimited
+* ⭐ **[Tensor.art](https://tensor.art/)** - 100 Daily
 * [Prodia](https://app.prodia.com/) / [Discord](https://discord.com/invite/495hz6vrFN) / Unlimited
-* [GetIMG.ai](https://getimg.ai/) / [Discord](https://discord.com/invite/5KsUXSzVwS) / 100 Images Monthly
+* [GetIMG.ai](https://getimg.ai/) / [Discord](https://discord.com/invite/5KsUXSzVwS) / 100 Monthly
 * [OpenArt](https://openart.ai/home) / [Discord](https://discord.com/invite/yTMNvk5z97) / Unlimited
 * [SD 2.1 Demo](https://huggingface.co/spaces/stabilityai/stable-diffusion) / Unlimited
 * [StableDiffusionWeb](https://stablediffusionweb.com/) / Unlimited
 * [Fast Stable Diffusion](https://huggingface.co/spaces/prodia/fast-stable-diffusion) / Unlimited
 * [ImageLabs](https://editor.imagelabs.net/) / Unlimited
 * [VectorArt.ai](https://vectorart.ai/) - Unlimited / SVGs
-* [Leonardo.ai](https://app.leonardo.ai/) / 30 Images Daily
+* [Leonardo.ai](https://app.leonardo.ai/) / 30 Daily
 * [AITurbo](https://app.aitubo.ai/) / 25 Daily / [Discord](https://discord.gg/qTu6YsRn7F)
 * [Ideogram](https://ideogram.ai/) / 25 Daily
-* [Artsio](https://artsio.xyz/) / 20 Images Daily
-* [DreamLike](https://dreamlike.art) / [Discord](https://discord.com/invite/QyGR2FxsKU) / 12 Images Daily
+* [Artsio](https://artsio.xyz/) / 20 Daily
+* [DreamLike](https://dreamlike.art) / [Discord](https://discord.com/invite/QyGR2FxsKU) / 12 Daily
 * [Stable Horde](https://stablehorde.net/) - Distributed Network of GPUs running Stable Diffusion / [Interface](https://aqualxx.github.io/stable-ui/), [2](https://tinybots.net/artbot), [3](https://artificial-art.eu/)
 * [DeepAI](https://deepai.org/machine-learning-model/stable-diffusion) / [2](https://deepai.org/machine-learning-model/text2img)
 * [Uranus AI](https://uranus.ai/)
