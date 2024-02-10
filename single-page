@@ -15845,6 +15845,7 @@ Use [this](https://bitbucket.org/magnolia1234/bypass-paywalls-firefox-clean/src/
 * [ColorZilla](https://www.colorzilla.com/) - Color Picker, Gradient Generator & more
 * [uiGradients](https://uigradients.com/) - Hex Gradients
 * [ShaderToy](https://www.shadertoy.com/browse) - User-Made Shaders
+* [MakeTintAndShade](https://maketintsandshades.com/) - Tint and Shade Generator
 * [Alphredo](https://alphredo.app/) - Create Translucent Colors
 * [contrastchecker](https://webaim.org/resources/contrastchecker/) - Background / Text Contrast Checker
 
@@ -15854,7 +15855,7 @@ Use [this](https://bitbucket.org/magnolia1234/bypass-paywalls-firefox-clean/src/
 
 * 🌐 **[Awesome Web Animation](https://github.com/sergey-pimenov/awesome-web-animation)** - Web Animation Resources
 * ↪️ **[Icon Download Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/img-tools#wiki_.25B7_icons_.2F_svgs)**
-* ↪️ **[Design Resources](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_design_resources)** or [Open Source Design](https://opensourcedesign.net/)
+* ↪️ **[Design Resources](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/img-tools#wiki_.25BA_design_resources)** or [Open Source Design](https://opensourcedesign.net/)
 * ↪️ **[Website Templates](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_website_templates)**
 * ↪️ **[Wordpress Themes](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_wordpress_themes)**
 * ⭐ **[Design Checklist](https://www.checklist.design/)** or [Front-End Checklist](https://frontendchecklist.io/) - Front-End Development Checklist
@@ -15871,6 +15872,7 @@ Use [this](https://bitbucket.org/magnolia1234/bypass-paywalls-firefox-clean/src/
 * [Icon Shelf](https://icon-shelf.github.io/) - Icon Manager
 * [Favicon Maker](https://formito.com/tools/favicon) or [Favicon Generator](https://www.favicon-generator.org/) - Create Favicons
 * [Icon Horse](https://icon.horse/) - Download a Sites Favicon
+* [Meta-Mapper](https://meta-mapper.com/) - Website Metadata Thumbnails
 * [SREWorks](https://github.com/alibaba/SREWorks) - Operation & Maintenance Platform
 * [the component gallery](https://component.gallery/) - Design Components Gallery
 * [Scrollbar.app](https://scrollbar.app/) - Design Custom Scrollbars
@@ -15885,7 +15887,6 @@ Use [this](https://bitbucket.org/magnolia1234/bypass-paywalls-firefox-clean/src/
 * [Daft Page](https://daftpage.com/) - Landing Page Creator
 * [LandingPage](https://landingpage.fyi/index.html) - Landing Page Tool Index
 * [SaaS Pages](https://saaspages.xyz/), [SaaS Landing Page](https://saaslandingpage.com/) or [lapa](https://www.lapa.ninja/) - Landing Page Templates / Ideas
-* [Canva](https://www.canva.com/) - Design Templates / [Premium Apk](https://rentry.co/FMHYBase64#canva-premium) 
 * [Zeplin](https://zeplin.io/) - Design Templates / Editor
 * [Codebases](https://github.com/reacttips-dev/codebases) - ReactJS Project Source Codes
 * [vite](https://vitejs.dev/) or [layoutit](https://layoutit.com/) - Frontend Development Tools
@@ -16282,6 +16283,7 @@ Use [this](https://bitbucket.org/magnolia1234/bypass-paywalls-firefox-clean/src/
 * 🌐 **[Awesome Big Data](https://github.com/newTendermint/awesome-bigdata)** - Big Data Resources
 * [Grafana](https://grafana.com/) - Dev Data Dashboard
 * [DBeaver](https://dbeaver.io/) - Universal Database Tool
+* [Text-to-SQL](https://datalynx.ai/text-to-sql) - AI Generated SQL Queries 
 * [HeidiSQL](https://www.heidisql.com/) - SQL Manager
 * [QueryStorm](https://querystorm.com/) - SQL and .NET programming in Excel
 * [SQLTranslate](https://www.sqltranslate.app/) - SQL Translator
@@ -16729,6 +16731,7 @@ Use [this](https://bitbucket.org/magnolia1234/bypass-paywalls-firefox-clean/src/
 * [CSS Protips](https://github.com/AllThingsSmitty/css-protips) or [CSS Reference](https://cssreference.io/) - CSS Guide
 * [AutoPrefixer](https://autoprefixer.github.io/) - CSS Prefixer
 * [Pesticide for Chrome](https://chromewebstore.google.com/detail/pesticide-for-chrome-with/neonnmencpneifkhlmhmfhfiklgjmloi) - CSS Element Outline Extension
+* [classless-css](https://github.com/dbohdan/classless-css) - Classless CSS Frameworks
 * [Water.css](https://watercss.kognise.dev/) - CSS Styles
 * [Style Stage](https://stylestage.dev/) - Modern CSS Styles
 * [USA.css](https://bennettfeely.com/usacss/) - USA CSS Style
@@ -16870,6 +16873,7 @@ Use [this](https://bitbucket.org/magnolia1234/bypass-paywalls-firefox-clean/src/
 * [LLM Training](https://rentry.org/llm-training) - LLM Training Guide
 * [TeachableMachine](https://teachablemachine.withgoogle.com/) or [TensorFlow](https://www.tensorflow.org/) - Create Machine Learning Models
 * [OpenAIPlayground](https://github.com/nat/openplayground) - LLM Playground
+* [infermatic](https://infermatic.ai/) - Run LLMs Online / [Discord](https://discord.gg/9GUXmDx9GF)
 * [DVC](https://dvc.org/) - Machine Learning Version Control
 * [DeepSpeed](https://github.com/microsoft/DeepSpeed) - Deep Learning Optimization Library
 * [FlowiseAI](https://flowiseai.com/) - LLM Flow Visualization
