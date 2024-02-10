@@ -171,44 +171,38 @@
 
 ***
 
-# ► Graphic Design
+# ► Design Resources
 
-* 🌐 **[Awesome Design Tools](https://github.com/goabstract/Awesome-Design-Tools)**, [2](https://pilssken.neocities.org/gainz/), [3](https://rentry.co/FMHYBase64#design-tool-zip) - Design Resources
+* 🌐 **[Awesome Design](https://github.com/goabstract/Awesome-Design-Tools)**, [Design Resources](https://github.com/MohamedYoussouf/Design-Resources) or [pilssken](https://pilssken.neocities.org/gainz/) - Design Resources
 * 🌐 **[archives.design](https://archives.design/)** - Graphic Design Books
-* ↪️ **[Image Design Resources](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_image_design_resources)** 
-* [CanvaPro365](https://t.me/canvapro365free) or [sharecanvaprofree](https://t.me/sharecanvaprofree) - Free Canva Pro Telegram Channels
 * [calltoidea](https://www.calltoidea.com/), [onepagelove](https://onepagelove.com/), [awwwards](https://www.awwwards.com/websites), [thedesigninspiration](https://thedesigninspiration.com/), [theinspirationgrid](https://theinspirationgrid.com/) or [inspirationde](https://www.inspirationde.com/) - Graphic Design Inspirations
-* [IRA Design](https://iradesign.io/) - Illustration Creator
+* [PSDcovers](https://www.psdcovers.com/), [mockups-design](https://mockups-design.com/), [zippypixels](https://zippypixels.com/), [Mockups](https://mockups.pixeltrue.com/), [medialoot](https://medialoot.com/free-mockups/) or [MockupsForFree](https://mockupsforfree.com/) - Product Mockups
+
+***
+
+## ▷ Design Apps
+
+* ⭐ **[Canva](https://www.canva.com/)** - Design App/ [Premium Apk](https://rentry.co/FMHYBase64#canva-premium) / [Free Giveaways](https://t.me/canvapro365free), [2](https://t.me/sharecanvaprofree)
+* ⭐ **[Figma](https://www.figma.com/)** - Design Colab App
+* [lunacy](https://icons8.com/lunacy) - Design App
+* [ArtBoard](https://artboard.studio/) - Design App
+* [VistaCreate](https://create.vista.com/) - Design App
+* [PosterMyWall](https://www.postermywall.com/) - Design App
+* [Venngage](https://venngage.com/) - Infographic Design
+* [Bannery](https://bannery.app/) - Banner Design
+* [Mind Your Banners](https://www.mindyourbanners.com/) - Social Media Banner Design
+* [CoverView](https://coverview.vercel.app/) - Blog Banner Design
+* [blush](https://blush.design/) or [IRA Design](https://iradesign.io/) - Illustration Design
+* [SuperDesigner](https://superdesigner.co/) or [Pattern Ninja](https://patterninja.com/) - Background / Pattern Design
+* [Custom Ink](https://www.customink.com/ndx/#/) - Create T-Shirt Design 
+* [Quote Maker](https://quotescover.com/) - Quote Picture Design 
+* [Pixelied](https://pixelied.com/) - Online Design Tool
+* [Evernote.Design](https://www.evernote.design/) - Online Design Tools
+* [Design Tool Zip](https://rentry.co/FMHYBase64#design-tool-zip) - Design App Zip File
 * [Graphite](https://graphite.rs/) or [Recraft](https://app.recraft.ai/) - Vector Editors
-* [Method](https://editor.method.ac/) - SVG Editor
-* [SVGFilters](https://svgfilters.com/) - SVG Filter Builder
-* [Crayon](https://designstripe.com/crayon) or [SVGArtista](https://svgartista.net/) - SVG Animation Tools
 * [Glaxnimate](https://glaxnimate.mattbas.org/) - Vector Animation Tool
 * [MagicaVoxel](https://ephtracy.github.io/) or [Goxel](https://goxel.xyz/) - Voxel Art Editor / Interactive Path Tracing Renderer
 * [Vectr](https://vectr.com/) or [VectorInk](https://vectorink.io/) - Vector Graphics Editor
-* [more.graphics](https://more.graphics/) - Graphic Generators
-* [Logo Makr](https://logomakr.com/), [Logo Fast](https://shipfa.st/tools/logo-fast), [Hatchful](https://www.shopify.com/tools/logo-maker), [Logomak](https://logomak.com/), [The Logo Wizard](https://www.thelogowizard.com/), [DesignEvo](https://designevo.com/), [LogoFreeway](https://logofreeway.com/logos.php), [Logoshi](https://www.logoshi.com/), [OnlineLogoMaker](https://www.onlinelogomaker.com/), [Free Logo Maker](https://freelogomaker.net/), [LogoMaker](https://www.namecheap.com/logo-maker/app/new/) or [ACME](https://acme.com/labelmaker/) - Logo Creators / [Note](https://i.ibb.co/B3Mn3Hq/b7a4cf526ad1.png)
-* [JSLogo](https://www.calormen.com/jslogo/) - Logo Interpreter
-* [ArtFlow](https://app.artflow.ai/), [Avatar Mixer](https://kenney.itch.io/avatar-mixer), [Bitmoji](https://www.bitmoji.com/), [Avatar Maker](https://avatarmaker.com/), [Pravatar](https://pravatar.cc/), [MultiAvatar](https://multiavatar.com/), [Personas](https://personas.draftbit.com/), [react-nice-avatar](https://github.com/dapi-labs/react-nice-avatar) or [Avataaars](https://getavataaars.com/) - Face / Avatar Creators
-* [CharacterCreator](https://charactercreator.org/)- Character Generator
-* [PixelMe](https://xsgames.co/pixelme/) - 8bit Avatar Creator
-* [FontIcon](https://gauger.io/fonticon/), [PFPMaker](https://pfpmaker.com/), [IconsFlow](https://iconsflow.com/), [Flat-Icon-Surge](https://flat-icon.surge.sh/), [favicon.io](https://favicon.io/) or [Favic-o-Matic](https://favicomatic.com/) - Icon / Logo Generators
-* [Mirro-Ai](https://mirror-ai.com/) - Get Stickers With Your Face
-* [EmojiMix](https://tikolu.net/emojimix) or [Emoji Kitchen](https://emojikitchen.dev/) - Combine Emojis
-* [Emojination](https://www.emojination.io/), [EmoteStud](https://emotestud.io/), [Emoji Factory](https://codepen.io/oliviale/full/qLYNbE) or [Ccclaymoji](https://fffuel.co/ccclaymoji/) - Emoji Creators
-* [SuperDesigner](https://superdesigner.co/) or [Pattern Ninja](https://patterninja.com/) - Background / Pattern Designers
-* [Noise & Gradient](https://www.noiseandgradient.com/), [Gradient Designer](https://gradient-designer.csspost.com/), [BGJar](https://bgjar.com/), [MeshGradient](https://meshgradient.in/) or [BGGenerator](https://bggenerator.com/) - Background / Gradient Generators
-* [MakeTintAndShade](https://maketintsandshades.com/) - Tint and Shade Generator
-* [Rarebit](https://rarebit.neocities.org/) - Webcomics Template
-* [Bannery](https://bannery.app/) - Create Custom Banners
-* [Mind Your Banners](https://www.mindyourbanners.com/) - Social Media Banner Creator
-* [CoverView](https://coverview.vercel.app/) - Blog Banner Creator
-* [Meta-Mapper](https://meta-mapper.com/) - Website Metadata Thumbnails
-* [Custom Ink](https://www.customink.com/ndx/#/) - Create T-Shirt Designs
-* [Unsell](https://www.unsell.design/) - Portfolio / Magazine Templates
-* [PSDcovers](https://www.psdcovers.com/), [mockups-design](https://mockups-design.com/), [zippypixels](https://zippypixels.com/), [Mockups](https://mockups.pixeltrue.com/), [medialoot](https://medialoot.com/free-mockups/) or [MockupsForFree](https://mockupsforfree.com/) - Product Mockups
-* [Venngage](https://venngage.com/) - Infographic Maker
-* [Quote Maker](https://quotescover.com/) - Quote Picture Generator
 
 ***
 
@@ -275,6 +269,14 @@
 * ⭐ **[SVG Repo](https://www.svgrepo.com/)** - Customizable SVG Icons / Vectors
 * ⭐ **[icons8](https://icons8.com/icons)**, [Flaticon](https://www.flaticon.com/), [Devicon](https://devicon.dev/) or [Glyphs](https://glyphs.fyi/) - Customizable Icons
 * ⭐ **[Alphacoders Avatars](https://avatars.alphacoders.com/)** - PFP Icons / GIFs
+* [FontIcon](https://gauger.io/fonticon/), [PFPMaker](https://pfpmaker.com/), [IconsFlow](https://iconsflow.com/), [Flat-Icon-Surge](https://flat-icon.surge.sh/), [favicon.io](https://favicon.io/) or [Favic-o-Matic](https://favicomatic.com/) - Icon / Logo Generators
+* [Logo Makr](https://logomakr.com/), [Logo Fast](https://shipfa.st/tools/logo-fast), [Hatchful](https://www.shopify.com/tools/logo-maker), [Logomak](https://logomak.com/), [The Logo Wizard](https://www.thelogowizard.com/), [DesignEvo](https://designevo.com/), [LogoFreeway](https://logofreeway.com/logos.php), [Logoshi](https://www.logoshi.com/), [OnlineLogoMaker](https://www.onlinelogomaker.com/), [Free Logo Maker](https://freelogomaker.net/), [LogoMaker](https://www.namecheap.com/logo-maker/app/new/) or [ACME](https://acme.com/labelmaker/) - Logo Creators / [Note](https://i.ibb.co/B3Mn3Hq/b7a4cf526ad1.png)
+* [JSLogo](https://www.calormen.com/jslogo/) - Logo Interpreter
+* [ArtFlow](https://app.artflow.ai/), [Avatar Mixer](https://kenney.itch.io/avatar-mixer), [Bitmoji](https://www.bitmoji.com/), [Avatar Maker](https://avatarmaker.com/), [Pravatar](https://pravatar.cc/), [MultiAvatar](https://multiavatar.com/), [Personas](https://personas.draftbit.com/), [react-nice-avatar](https://github.com/dapi-labs/react-nice-avatar) or [Avataaars](https://getavataaars.com/) - Face / Avatar Creators
+* [Method](https://editor.method.ac/) - SVG Editor
+* [SVGFilters](https://svgfilters.com/) - SVG Filter Builder
+* [Crayon](https://designstripe.com/crayon) or [SVGArtista](https://svgartista.net/) - SVG Animation Tools
+* [PixelMe](https://xsgames.co/pixelme/) - 8bit Avatar Creator
 * [IconArchive](https://iconarchive.com/), [IconDuck](https://iconduck.com/), [icon icons](https://icon-icons.com/), [Icons-For-Free](https://icons-for-free.com/), [Streamline](https://www.streamlinehq.com/), [Dryicons](https://dryicons.com/) or [Icones](https://icones.js.org/) - Icon Packs
 * [IconPacks](https://www.iconpacks.net/), [svgmix](https://svgmix.com/), [Iconbuddy](https://iconbuddy.app/), [Noun Project](https://thenounproject.com/) or [cappuccicons](https://cappuccicons.com/) - SVG / PNG Icons
 * [Icofont](https://icofont.com/icons), [Polaris](https://polaris.shopify.com/icons), [Phosphor Icons](https://phosphoricons.com/), [Ant Design](https://ant.design/components/icon/) or [Orion](https://www.orioniconlibrary.com/) - SVG Icons
@@ -286,6 +288,37 @@
 * [Game-icons](https://game-icons.net/) - Game Icons
 * [HealthIcons](https://healthicons.org/) - Medical Icons
 * [RealFaviconGenerator](https://realfavicongenerator.net/) - Favicon Generator
+
+***
+
+## ▷ Free Assets
+
+* ⭐ **[FreePreset](https://freepreset.net/)**
+* [psdkeys](https://psdkeys.com/)
+* [AvaxGFX](https://avxgfx.com/)
+* [Freeject](https://www.freeject.net/)
+* [PDFTree](https://pngtree.com/)
+* [NitroGFX](https://nitrogfx.pro/)
+* [Designer Candies](https://designercandies.net/category/freebies/)
+* [GraphixTree](https://graphixtree.com/)
+* [PSDLY](https://www.psdly.com/)
+* [Heroturko](https://heroturko1.com/)
+* [CGArchives](https://cgarchives.com/)
+* [SearchGFX](https://searchgfx.com/)
+* [Quasual](https://m.vk.com/quasual)
+* [designersgan9](https://m.vk.com/designersgan9)
+* [WockupWorld](https://m.vk.com/mockupworld)
+* [The GFX](https://m.vk.com/the_gfx)
+* [Graphics Materials](https://vk.com/topic-178186634_39330245) 
+* [desiignertm](https://vk.com/desiignertm)
+* [all_psd](https://vk.com/all_psd)
+* [designbloody](https://vk.com/designbloody)
+* [designarchiv](https://t.me/designarchiv)
+* [grphc dsgn](https://t.me/+xx1YjI6DC4RiZjJk)
+* [freepsdvn](https://freepsdvn.com/)
+* [graphicex](https://graphicex.com/)
+* [ae-project](https://ae-project.su/)
+* [godownloads](https://godownloads.net/)
 
 ***
 
@@ -347,7 +380,11 @@
 # ► Image Generation
 
 * ↪️ **[AI Image Generators](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/ai/#wiki_.25BA_image_generation)**
+* [Noise & Gradient](https://www.noiseandgradient.com/), [Gradient Designer](https://gradient-designer.csspost.com/), [BGJar](https://bgjar.com/), [MeshGradient](https://meshgradient.in/) or [BGGenerator](https://bggenerator.com/) - Background / Gradient Generators
+* [more.graphics](https://more.graphics/) - Graphic Generators
 * [imgsli](https://imgsli.com/) - Before & After Slider Generator
+* [Hugin](https://hugin.sourceforge.io/) - Panorama Image Generator
+* [CharacterCreator](https://charactercreator.org/) - Character Generator
 * [DCGAN](http://mattya.github.io/chainer-DCGAN/) - Anime Icon Generator 
 * [99 Avatars](https://99avatars.com/) - Create Doodle Avatar
 * [Girl Friend Factory](https://hiroshiba.github.io/girl_friend_factory/) or [MakeGirlsMoe](https://make.girls.moe/) - Female Anime Icon Generator 
@@ -357,8 +394,7 @@
 * [Photovisi](https://www.photovisi.com/) or [PhotoJoiner](https://www.photojoiner.com/) - Collage Generators
 * [Tiler](https://github.com/nuno-faria/tiler) - Make Images out of Images
 * [NoiseDeck](https://noisedeck.app/) - Art Generator
-* [Hugin](https://hugin.sourceforge.io/) - Panorama Image Generator
-* [PhotoEphemeris](https://photoephemeris.com/) - Photography Sunlight Calculator
+* [Mirro-Ai](https://mirror-ai.com/) - Get Stickers w/ Your Face
 
 ***
 
@@ -506,6 +542,7 @@
 * [PhotoFeeler](https://www.photofeeler.com/) - Get Photo Feedback
 * [Picviewer CE+](https://github.com/hoothin/UserScripts/tree/master/Picviewer%20CE+) - Turn Webpages into Image Galleries
 * [Binternet](https://github.com/Ahwxorg/Binternet) - Pinterest Frontend
+* [PhotoEphemeris](https://photoephemeris.com/) - Photography Sunlight Calculator
 * [DataFilm](http://datafilm.io/) - Notebook for Film Photographers
 * [GlanceBack](https://glanceback.info/) - Daily Webcam Photo Journal
 * [Image Color Summarizer](http://mkweb.bcgsc.ca/color-summarizer/) - Image Color Summarizer
