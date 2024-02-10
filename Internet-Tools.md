@@ -148,7 +148,7 @@
 
 * 🌐 **[CSE Utopia](https://start.me/p/EL84Km/cse-utopia)**, [Awesome CSEs](https://github.com/davzoku/awesome-custom-search-engines) or [Boolean Strings](https://booleanstrings.com/all-the-40-forty-custom-search-engines/) - Custom Search Engine Indexes
 * ↪️ **[Alt Search Engines](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_alternative_search_engines)** - Google Alternatives
-* ⭐ **[Swurl](https://swurl.com/)**, [pSearch](https://serjsx.github.io/wpSearch/), [Search All](https://www.searchall.net/), [CombinedSearch](https://combinedsearch.io/) or [AIO Search](https://www.aiosearch.com/) - Multi-Site Search
+* ⭐ **[pSearch](https://serjsx.github.io/wpSearch/)**, [Search All](https://www.searchall.net/), [CombinedSearch](https://combinedsearch.io/) or [AIO Search](https://www.aiosearch.com/) - Multi-Site Search
 * ⭐ **[TheGigaBrain](https://thegigabrain.com/)** - Reddit Search AI
 * ⭐ **[The Search Engine Map](https://www.searchenginemap.com/)** - View Search Engine Connections
 * ⭐ **[Streaming CSE](https://cse.google.com/cse?cx=006516753008110874046:cfdhwy9o57g##gsc.tab=0)**, [2](https://cse.google.com/cse?cx=006516753008110874046:o0mf6t-ugea##gsc.tab=0), [3](https://cse.google.com/cse?cx=98916addbaef8b4b6), [4](https://cse.google.com/cse?cx=0199ade0b25835f2e)
@@ -161,7 +161,7 @@
 * ⭐ **[Anime Download CSE](https://cse.google.com/cse?cx=006516753008110874046:osnah6w0yw8)** - Search Anime Download Sites
 * ⭐ **[Game Download CSE](https://cse.google.com/cse?cx=006516753008110874046:cbjowp5sdqg)**, [Rezi Search](https://rezi.one/) or [/r/PiratedGames CSE](https://cse.google.com/cse?cx=20c2a3e5f702049aa) - Multi-Site Search Engines
 * ⭐ **[Software CSE](https://cse.google.com/cse?cx=ae17d0c72fa6cbcd4)** or [Rave Search](https://ravesoftwaresearch.pages.dev/) - Search Software Sites
-* ⭐ **[Torrent CSE](https://cse.google.com/cse?cx=006516753008110874046:0led5tukccj)**, [2](https://cse.google.com/cse?cx=006516753008110874046:kh3piqxus6n) / [librex](https://github.com/hnhx/librex) - Search General Torrent Sites
+* ⭐ **[Torrent CSE](https://cse.google.com/cse?cx=006516753008110874046:0led5tukccj)**, [2](https://cse.google.com/cse?cx=006516753008110874046:kh3piqxus6n) - Search General Torrent Sites
 * ⭐ **[Video Torrent CSE](https://cse.google.com/cse?cx=006516753008110874046:gaoebxgop7j)** - Search Video Torrent Sites
 * ⭐ **[Audio Torrent CSE](https://cse.google.com/cse?cx=006516753008110874046:v75cyb4ci55)** - Search Audio Torrent Sites
 * ⭐ **[Anime Torrent CSE]( https://cse.google.com/cse?cx=006516753008110874046:lamzt6ls4iz)** - Search Anime Torrent Sites
