@@ -350,6 +350,7 @@
 * [Nitrome](https://www.nitrome.com/) - Browser Games
 * [Y8](https://www.y8.com/) - Browser Games
 * [Crazy Games](https://www.crazygames.com/) - Browser Games
+* [Haha Games](https://www.hahagames.com/) - Browser Games
 * [GamezHero](https://www.gamezhero.com/) - Browser Games
 * [Yandex Games](https://yandex.com/games/) - Browser Games
 * [Nicky Case](https://ncase.me/) - Browser Games
@@ -984,7 +985,6 @@
 * [Hamachi](https://vpn.net/) - Multiplayer Fix
 * [NetMaker](https://www.netmaker.io/) - Multiplayer Fix
 * [XTag](https://www.teamxlink.co.uk/) - Multiplayer Fix
-* [Blu-Games](https://blu-games.tk/) - Multiplayer Fix
 * [ZLOEmu](https://zloemu.net/) - Multiplayer Fix
 * [DiIiS](https://github.com/blizzless/blizzless-diiis) - Open-Source Diablo III Local Server
 * [Server.pro](https://server.pro/) - Game Server Hosting
