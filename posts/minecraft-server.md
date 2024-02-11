@@ -39,3 +39,4 @@ Minecraft Dynmap: [Vanilla](<https://survival.dynmap.fmhy.net/>) / [Modded](<htt
 * If you can't break blocks or it's glitching, you are probably too close to the spawn and need to go farther.
 * (Modded) To set a skin, use the `/skin` command.
 * To hide yourself from being shown in Dynmap, run this command `/dynmap hide`.
+* Simple Voice Chat mod is supported on Modded and (optional) Vanilla servers.
