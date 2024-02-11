@@ -114,7 +114,6 @@
 * ⭐ **[OneHack](https://onehack.us/)** - Courses
 * ⭐ **[HackNation](https://hacksnation.com/)** - Courses
 * [CourseDL](https://rentry.co/FMHYBase64#coursedl) - Courses
-* [OpenDirectory](https://rentry.co/FMHYBase64#opendirectory) - Courses
 * [Revival](https://rentry.co/FMHYBase64#revival) - Courses
 * [HMDRIVE](https://t.me/HMDRIVE_OFFICIAL) - Courses
 * [Iit jee lectures](https://t.me/Iitjeeinveins2), [Rankers](https://t.me/+mcZ0RHaH9vRlM2Y1) or [Genetry](https://genetry.carrd.co/) - JEE Lectures
