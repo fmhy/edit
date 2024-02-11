@@ -17,7 +17,7 @@ Search engine hosted on Streamlit
 
 ---
 
-### [FMHY.pages Search](https://fmhy.pages.dev/)
+### [FMHY.pages Search](/)
 
 Search engine hosted on FMHY.pages
 

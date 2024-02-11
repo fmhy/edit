@@ -11,7 +11,7 @@ footer: true
 
 <Post authors="['taskylizard']" />
 
-# New URL: https://fmhy.net/
+# New URL: /
 
 Hey everyone, just wanted to let you all know that we're finally done with the
 new website, and are officially launching it today! I know a lot of different
