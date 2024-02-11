@@ -15,6 +15,7 @@
 * ⭐ **[FlixHQ](https://flixhq.click/)** - Movies / TV / Anime / 1080p
 * ⭐ **[SusFlix](https://susflix.tv/)**, [2](https://www.susmovies.lol/), [3](https://sushbo.com/), [4](https://hbosus.com) - Movies / TV / Anime / 4K / 1080p / [Discord](https://discord.gg/BE7kTVezBN)
 * ⭐ **[Streamflix](https://watch.streamflix.one/)**, [2](https://watchamovie.today/), [3](https://streamflix.space/)  - Movies / TV / Anime / 1080p / [Discord](https://discord.gg/C8fyfz5pYz)
+* ⭐ **[M4uFree](https://ww2.m4ufree.com/)** - Movies / TV / Anime / 1080p / [Mirrors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_m4ufree_clones)
 * ⭐ **[SFlix](https://sflix.to/)** - Movies / TV / Anime / 1080p / [Mirrors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_sflix_clones)
 * ⭐ **[UpMovies](https://upmovies.to/)** - Movies / TV / Anime / 1080p / Use Adblock
 * ⭐ **[The Movie Archive](https://themoviearchive.site/)**, [2](https://tma.lol) - Movies / TV / 4K / 1080p
@@ -28,7 +29,6 @@
 * [Seez](https://seez.su/), [2](https://flixerplus.com/) - Movies / TV / 1080p
 * [cinehub.wtf](https://cinehub.wtf) - Movies / TV / 1080p
 * [Cinetide](https://cinetide.glitch.me/browse.html) - Movies / TV / Anime / 1080p
-* [M4uFree](https://ww2.m4ufree.com/) - Movies / TV / Anime / 1080p / [Mirrors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_m4ufree_clones)
 * [AnyMovie](https://anymovie.cc/) - Movies / TV / 4K / 1080p
 * [MovieScene](https://moviescene.cc/) - Movies / TV / 1080p
 * [Filmxy](https://www.filmxy.vip/) - Movies / TV / Anime / 1080p
