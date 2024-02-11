@@ -92,8 +92,6 @@
 
 * Never include a URL, just the name of the site / software, and the reason you feel people should avoid it. 
 
-* Note that our goal is to track things that should be avoided but still get often recommended, such as ThePirateBay.
-
 *** 
 
 [Wayback Machine Links](https://rentry.co/ue9qk)
