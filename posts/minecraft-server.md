@@ -1,5 +1,5 @@
 ---
-title: Official Minecraft Server [Modded + Vanilla]
+title: Minecraft Server
 description: Minecraft Server
 date: 2024-02-11
 next: false
@@ -28,7 +28,7 @@ or you could use the [.mrpack files](https://discord.com/channels/95600610756487
 
 [Optional Modpack with QOL mods added](<https://qiwi.gg/file/cSee7776-FMHYServerPackClientPP>)
 
-Minecraft Dynmap: [Vanilla](<http://survival.dynmap.fmhy.net:25585/>) / [Modded](<http://modded.dynmap.fmhy.net:42069/>)
+Minecraft Dynmap: [Vanilla](<https://survival.dynmap.fmhy.net/>) / [Modded](<https://modded.dynmap.fmhy.net/>)
 
 ***
 
