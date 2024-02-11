@@ -29,7 +29,7 @@ or you could use the [.mrpack files](https://discord.com/channels/95600610756487
 
 [Optional Modpack with QOL mods added](https://qiwi.gg/file/cSee7776-FMHYServerPackClientPP)
 
-Minecraft Dynmap: [Vanilla](https://survival.dynmap.fmhy.net/)/ [Modded](https://modded.dynmap.fmhy.net/)
+Minecraft Dynmap: [Vanilla](https://survival.dynmap.fmhy.net) / [Modded](https://modded.dynmap.fmhy.net)
 
 ***
 
