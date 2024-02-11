@@ -24,7 +24,7 @@ footer: true
 
 **Attached is the mod pack for modded**: [RAR](<https://qiwi.gg/file/acC63146-mods>)
 
-or you could use the [.mrpack files](https://discord.com/channels/956006107564879872/1196460494106669106/1206143453013086279) and add it to Prism or other compatible launchers.
+or you could use the [.mrpack files](https://discord.com/channels/956006107564879872/1206145102217486366/1206145423689908224) and add it to Prism or other compatible launchers.
 
 [Optional Modpack with QOL mods added](<https://qiwi.gg/file/cSee7776-FMHYServerPackClientPP>)
 
