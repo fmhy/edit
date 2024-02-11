@@ -15567,7 +15567,8 @@ Use [this](https://bitbucket.org/magnolia1234/bypass-paywalls-firefox-clean/src/
 ## ▷ Data Structures
 
 * ⭐ **[Leetcode](https://leetcode.com/)** - Coding Practice
-* ⭐ **Leetcode Tools** - [Premium](https://github.com/31b4/Leetcode-Premium-Bypass), [Solutions](https://walkccc.me/LeetCode/), [2](https://leetcode.ca/) / [Company Questions](https://github.com/MysteryVaibhav/leetcode_company_wise_questions), [2](https://docs.google.com/document/d/1icaNSRq6XcWO3EOycEP9F9P8SLerBanpY3Ni_ZzCfFA/edit) / [Animations](https://github.com/MisterBooo/LeetCodeAnimation) / [Anki Cards](https://github.com/fspv/leetcode-anki) / [Videos](https://github.com/fishercoder1534/Leetcode)
+* ⭐ **Leetcode Tools** - [Solutions](https://walkccc.me/LeetCode/), [2](https://leetcode.ca/) / [Company Questions](https://github.com/MysteryVaibhav/leetcode_company_wise_questions), [2](https://docs.google.com/document/d/1icaNSRq6XcWO3EOycEP9F9P8SLerBanpY3Ni_ZzCfFA/edit) / [Animations](https://github.com/MisterBooo/LeetCodeAnimation) / [Anki Cards](https://github.com/fspv/leetcode-anki) / [Videos](https://github.com/fishercoder1534/Leetcode)
+* ⭐ **[NeetCode](https://neetcode.io/)** - Coding Interview Practice
 * [algorithms](https://prashantbarahi.com.np/docs/algorithms/intro) - Code Algorithms & Data Structures Tutorials
 * [VisualGo](https://visualgo.net/) - Data Structures & Algorithm Animations
 * [The Algorithms - C++](https://github.com/TheAlgorithms/C-Plus-Plus) - C++ Algorithms
@@ -15577,7 +15578,6 @@ Use [this](https://bitbucket.org/magnolia1234/bypass-paywalls-firefox-clean/src/
 * [CodeWell](https://www.codewell.cc/) - Coding Practice
 * [LintCode](https://www.lintcode.com/) or [CodeWars](https://www.codewars.com/) - Coding Practice
 * [Coding Questions](https://platform.stratascratch.com/coding) - Coding Interview Questions
-* [NeetCode](https://neetcode.io/) - Coding Interview Practice
 * [DevPost](https://devpost.com/), [HackTheEarth](https://www.hackerearth.com/challenges/), [EMKC](https://emkc.org/challenges), [AtCoder](https://atcoder.jp/) or [Toph.co](https://toph.co/) - Hackathon / Challenge Communities
 * [Coding Problems](https://github.com/MTrajK/coding-problems) - Coding Problems / Solutions
 * [Exercism](https://exercism.org/), [HackerRank](https://www.hackerrank.com/) or [CS Circles](https://cscircles.cemc.uwaterloo.ca/) - Programming Lessons
@@ -16733,9 +16733,10 @@ Use [this](https://bitbucket.org/magnolia1234/bypass-paywalls-firefox-clean/src/
 
 ## ▷ Markup Tools
 
-* 🌐 **[Awesome HTML5](https://github.com/diegocard/awesome-html5)** - HTML5 Resources
 * 🌐 **[Awesome CSS](https://github.com/awesome-css-group/awesome-css)** - CSS Resources
-* 🌐 **[Awesome CSS Frameworks](https://github.com/troxler/awesome-css-frameworks)**, [Tailwind](https://tailwindcss.com/), [Terminal CSS](https://terminalcss.xyz/), [Bulma](https://bulma.io/) or [SimpleCSS](https://simplecss.org/) - CSS Framework Resources
+* 🌐 **[Awesome HTML5](https://github.com/diegocard/awesome-html5)** - HTML5 Resources
+* 🌐 **[Awesome CSS Frameworks](https://github.com/troxler/awesome-css-frameworks)**, [Tailwind](https://tailwindcss.com/), [Terminal CSS](https://terminalcss.xyz/) or [Bulma](https://bulma.io/) - CSS Framework Resources
+* 🌐 **[classless-css](https://github.com/dbohdan/classless-css)** - Classless CSS Frameworks
 * 🌐 **[Awesome TailwindCSS](https://github.com/aniftyco/awesome-tailwindcss)** - Tailwind CSS Resources
 * ⭐ **[HedgeDoc](https://hedgedoc.envs.net/)**, [zettlr](https://www.zettlr.com/), [Dillinger](https://dillinger.io/), [Notable](https://notable.app/), [vnote](https://github.com/vnotex/vnote), [MarkdownTools](https://www.markdowntools.com/), [StackEdit](https://stackedit.io/), [Markdownify](https://markdownify.js.org/), [Apostrophe](https://github.com/ApostropheEditor/Apostrophe), [Glow](https://github.com/charmbracelet/glow), [MarkdownLivePreview](https://markdownlivepreview.com/), [Proton](https://steventhanna.github.io/proton/), [Vrite](https://editor.vrite.io/) or [Mark Text](https://github.com/marktext/marktext) - Markdown Editors
 * ⭐ **[HTML Reference](https://htmlreference.io/)** - HTML Guide
@@ -16761,7 +16762,6 @@ Use [this](https://bitbucket.org/magnolia1234/bypass-paywalls-firefox-clean/src/
 * [CSS Protips](https://github.com/AllThingsSmitty/css-protips) or [CSS Reference](https://cssreference.io/) - CSS Guide
 * [AutoPrefixer](https://autoprefixer.github.io/) - CSS Prefixer
 * [Pesticide for Chrome](https://chromewebstore.google.com/detail/pesticide-for-chrome-with/neonnmencpneifkhlmhmfhfiklgjmloi) - CSS Element Outline Extension
-* [classless-css](https://github.com/dbohdan/classless-css) - Classless CSS Frameworks
 * [Water.css](https://watercss.kognise.dev/) - CSS Styles
 * [Style Stage](https://stylestage.dev/) - Modern CSS Styles
 * [USA.css](https://bennettfeely.com/usacss/) - USA CSS Style
@@ -16772,6 +16772,7 @@ Use [this](https://bitbucket.org/magnolia1234/bypass-paywalls-firefox-clean/src/
 * [Hover.CSS](https://ianlunn.github.io/Hover/) - CSS Hover Effects
 * [Clippy](https://bennettfeely.com/clippy/) - CSS Clip Creator
 * [Zerodivs](https://zerodivs.com/) - CSS Illustration Creator
+* [SimpleCSS](https://simplecss.org/) - CSS Framework
 * [Chartscss](https://chartscss.org/) - CSS Data Visualization Framework
 * [PixelArtCSS](https://www.pixelartcss.com/) - Pixel Art to CSS
 * [Separator Generator](https://wweb.dev/resources/css-separator-generator/) - CSS Separator Generator CSS
