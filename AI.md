@@ -184,13 +184,13 @@ pare AI Responses
 
 * ⭐ **[Microsoft Designer](https://designer.microsoft.com/image-creator)**, [2](https://www.bing.com/images/create) / [Tips](https://rentry.co/bingimagecreatortips) / [Bulk Download](https://github.com/Richard-Weiss/Bing-Creator-Image-Downloader)
 * ⭐ **[Stable Diffusion](https://huggingface.co/spaces/stabilityai/stable-diffusion)** / [GitHub](https://github.com/Stability-AI/stablediffusion) / [Discord](https://discord.com/invite/stablediffusion)
-* ⭐ **[Poe](https://poe.com/)** - 100 Daily / [Discord](https://discord.com/invite/joinpoe)
+* ⭐ **[Poe](https://poe.com/)** / 100 Daily / [Discord](https://discord.com/invite/joinpoe)
 * ⭐ **[PlaygroundAI](https://playgroundai.com/)** / 1K Daily
 * ⭐ **[Dezgo](https://dezgo.com/)** / [Discord](https://discord.com/invite/RQrGpUhPhx) / Unlimited
 * ⭐ **[Mage](https://www.mage.space/)** / [Discord](https://discord.com/invite/GT9bPgxyFP) / Unlimited
 * ⭐ **[ComfyUI Web](https://comfyuiweb.com/)** / Unlimited
 * ⭐ **[Meta AI](https://imagine.meta.com/)** / Unlimited
-* ⭐ **[Tensor.art](https://tensor.art/)** - 100 Daily
+* ⭐ **[Tensor.art](https://tensor.art/)** / 100 Daily
 * ⭐ **[Lexica](https://lexica.art/)**
 * [Prodia](https://app.prodia.com/) / [Discord](https://discord.com/invite/495hz6vrFN) / Unlimited
 * [GetIMG.ai](https://getimg.ai/) / [Discord](https://discord.com/invite/5KsUXSzVwS) / 100 Monthly
