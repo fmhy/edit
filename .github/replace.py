@@ -34,7 +34,7 @@ def individual(text: str):
     text = re.sub("/base64/#do-k-ument", "/base64/#do_k_ument", text)
     text = re.sub("/devtools/#machine-learning2", "/devtools/#machine-learning-1", text)
     text = re.sub("/linuxguide#software-sites2", "/linuxguide#software-sites-1", text)
-    text = re.sub("/linuxguide#software_sites", "/linuxguide#software_sites", text)
+    text = re.sub("/linuxguide#software_sites", "/linuxguide#software-sites", text)
     text = re.sub("/non-english#reading10", "/non-english#reading-9", text)
     text = re.sub("/storage#satellite-.26amp.3B_street_view_maps", "/storage#satellite-street-view-maps", text)
 
