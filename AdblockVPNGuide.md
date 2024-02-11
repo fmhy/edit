@@ -110,7 +110,7 @@
 * [Pi.Alert](https://github.com/pucherot/Pi.Alert), [Zeek](https://zeek.org/), [Nmap](https://nmap.org/) / [Results](https://nmap.org/ndiff/), [Kismet](https://www.kismetwireless.net/), [ntop](https://www.ntop.org/), [Sniffnet](https://www.sniffnet.net/) or [Rotty](https://github.com/RoseSecurity/Rotty.py) - Network Monitors
 * [Waircut](https://sourceforge.net/projects/waircut/) - WPS Network Monitor
 * [Autoruns](https://learn.microsoft.com/en-us/sysinternals/downloads/autoruns) - Change Startup Programs
-* [EsetKeyRobot](https://t.me/EsetKeyRobot) - ESET Keys Generator
+* [ESET-KeyGen](https://github.com/rzc0d3r/ESET-KeyGen), [EsetKeyRobot](https://t.me/EsetKeyRobot) - ESET Keys Generator
 * [Emergency Kit](https://www.emsisoft.com/en/home/emergencykit/) - No Install Required Antivirus
 * [Should I Remove It?](https://www.shouldiremoveit.com/) - Easily Find & Remove Adware, Spyware etc.
 * [VT4Browsers](https://support.virustotal.com/hc/en-us/articles/115002700745-Browser-Extensions) - Easily Scan Downloads
