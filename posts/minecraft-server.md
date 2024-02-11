@@ -8,6 +8,7 @@ prev: false
 sidebar: false
 footer: true
 ---
+
 # Join at: `fmhy.net`
 
 ***
@@ -22,13 +23,13 @@ footer: true
 
 ### Mod Downloads
 
-**Attached is the mod pack for modded**: [RAR](<https://qiwi.gg/file/acC63146-mods>)
+**Attached is the mod pack for modded**: [RAR](https://qiwi.gg/file/acC63146-mods)
 
 or you could use the [.mrpack files](https://discord.com/channels/956006107564879872/1206145102217486366/1206145423689908224) and add it to Prism or other compatible launchers.
 
-[Optional Modpack with QOL mods added](<https://qiwi.gg/file/cSee7776-FMHYServerPackClientPP>)
+[Optional Modpack with QOL mods added](https://qiwi.gg/file/cSee7776-FMHYServerPackClientPP)
 
-Minecraft Dynmap: [Vanilla](<https://survival.dynmap.fmhy.net/>) / [Modded](<https://modded.dynmap.fmhy.net/>)
+Minecraft Dynmap: [Vanilla](https://survival.dynmap.fmhy.net/)/ [Modded](https://modded.dynmap.fmhy.net/)
 
 ***
 
@@ -40,3 +41,6 @@ Minecraft Dynmap: [Vanilla](<https://survival.dynmap.fmhy.net/>) / [Modded](<htt
 * (Modded) To set a skin, use the `/skin` command.
 * To hide yourself from being shown in Dynmap, run this command `/dynmap hide`.
 * Simple Voice Chat mod is supported on Modded and (optional) Vanilla servers.
+
+
+Have fun! ♥️
