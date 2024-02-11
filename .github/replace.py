@@ -33,6 +33,8 @@ def individual(text: str):
     )
     text = re.sub("/base64/#do-k-ument", "/base64/#do_k_ument", text)
     text = re.sub("/devtools/#machine-learning2", "/devtools/#machine-learning-1", text)
+    text = re.sub("/linuxguide#software-sites2", "/linuxguide#software-sites-1", text)
+    text = re.sub("/linuxguide#software_sites", "/linuxguide#software_sites", text)
 
     # Base64-decoder script link
     text = re.sub(
