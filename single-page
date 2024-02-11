@@ -9150,7 +9150,33 @@ https://cari.institute/
 ***
 ***
 
-# ► Spotify Clients
+# ► Spotify Tools
+
+* ⭐ **[Spicetify](https://spicetify.app/)** - Spotify Themes
+* ⭐ **Spicetify Tools** - [CLI](https://github.com/spicetify/spicetify-cli) / [Addons](https://github.com/3raxton/spicetify-custom-apps-and-extensions) / [Discord](https://discord.gg/VnevqPp2Rr) / [Easy Installation](https://github.com/OhItsTom/spicetify-easyinstall/) / [Fluent](https://github.com/williamckha/spicetify-fluent), [2](https://github.com/nimsandu/spicetify-bloom)
+* [Versefy](https://versefy.app/) - Lyrics
+* [SpotifyTools](https://spotifytools.romanello.xyz/) - Spotify Companion
+* [Playlist Randomizer](https://stevenaleong.com/tools/spotifyplaylistrandomizer) - Playlist Randomizer
+* [Playlist Sorter](https://www.playlistsorter.com/) - Sort Playlists
+* [Timelineify](https://www.timelineify.com/) - Sort Playlists by Release
+* [Trikatuka](http://trikatuka.aknakn.eu/) - Playlist Transfer
+* [Skiley](https://skiley.net/) - Playlist Manager
+* [Spotlistr](https://www.spotlistr.com/) - Playlist Converter
+* [Playlistor](https://playlistor.io/) - Apple Music Playlist Converter
+* [Spotr](https://github.com/XDGFX/spotr) - Export Tracks as Deezer Playlists
+* [SpotifyCloud](https://spotifycloud.zamar-roura.com/) - Playlist Words
+* [Spotify Dedup](https://spotify-dedup.com/) - Playlist Song Dedup
+* [SpotMyBackup](http://www.spotmybackup.com/), [2](https://github.com/watsonbox/exportify) - Playlist Backup
+* [Opslagify](https://opslagify.deruever.nl/) - Library Size
+* [awesome-spotify-stats](https://github.com/rimsiw/awesome-spotify-stats) - Listening Stats
+* [Tierify](https://davitg.com/projects/tierify/) - Tier Lists
+* [Kira](https://kira.vercel.app/) - Song Country Search
+* [spotify-account-generator](https://github.com/davide-acanfora/spotify-account-generator), [2](https://github.com/ALIILAPRO/spotify-account-creator) - Account Gen
+* [spotify-github-profile](https://github.com/kittinan/spotify-github-profile) - GitHub Display
+
+***
+
+## ▷ Spotify Clients
 
 * ⭐ **[Spotify Desktop](https://www.spotify.com/us/download/)**
 * [Ruurd](https://github.com/RuurdBijlsma/Music) - Feature-Rich / Ad-Free Client
@@ -9200,32 +9226,6 @@ https://cari.institute/
 * [spotifydownloadrobot](https://t.me/spotifydownloadrobot) - Telegram Bot
 * [spotifysavebot](https://t.me/spotifysavebot) - Telegram Bot
 * [SpotifyRipBot](https://t.me/SpotifyRipBot) - Telegram Bot
-
-***
-
-## ▷ Spotify Tools
-
-* ⭐ **[Spicetify](https://spicetify.app/)** - Spotify Themes
-* ⭐ **Spicetify Tools** - [CLI](https://github.com/spicetify/spicetify-cli) / [Addons](https://github.com/3raxton/spicetify-custom-apps-and-extensions) / [Discord](https://discord.gg/VnevqPp2Rr) / [Easy Installation](https://github.com/OhItsTom/spicetify-easyinstall/) / [Fluent](https://github.com/williamckha/spicetify-fluent), [2](https://github.com/nimsandu/spicetify-bloom)
-* [Versefy](https://versefy.app/) - Lyrics
-* [SpotifyTools](https://spotifytools.romanello.xyz/) - Spotify Companion
-* [Playlist Randomizer](https://stevenaleong.com/tools/spotifyplaylistrandomizer) - Playlist Randomizer
-* [Playlist Sorter](https://www.playlistsorter.com/) - Sort Playlists
-* [Timelineify](https://www.timelineify.com/) - Sort Playlists by Release
-* [Trikatuka](http://trikatuka.aknakn.eu/) - Playlist Transfer
-* [Skiley](https://skiley.net/) - Playlist Manager
-* [Spotlistr](https://www.spotlistr.com/) - Playlist Converter
-* [Playlistor](https://playlistor.io/) - Apple Music Playlist Converter
-* [Spotr](https://github.com/XDGFX/spotr) - Export Tracks as Deezer Playlists
-* [SpotifyCloud](https://spotifycloud.zamar-roura.com/) - Playlist Words
-* [Spotify Dedup](https://spotify-dedup.com/) - Playlist Song Dedup
-* [SpotMyBackup](http://www.spotmybackup.com/), [2](https://github.com/watsonbox/exportify) - Playlist Backup
-* [Opslagify](https://opslagify.deruever.nl/) - Library Size
-* [awesome-spotify-stats](https://github.com/rimsiw/awesome-spotify-stats) - Listening Stats
-* [Tierify](https://davitg.com/projects/tierify/) - Tier Lists
-* [Kira](https://kira.vercel.app/) - Song Country Search
-* [spotify-account-generator](https://github.com/davide-acanfora/spotify-account-generator), [2](https://github.com/ALIILAPRO/spotify-account-creator) - Account Gen
-* [spotify-github-profile](https://github.com/kittinan/spotify-github-profile) - GitHub Display
 
 ***
 
@@ -9764,7 +9764,7 @@ https://cari.institute/
 * [Audacious](https://audacious-media-player.org/) 
 * [Strawberry](https://www.strawberrymusicplayer.org/)
 * [Exaile](https://exaile.org/)
-* [JakJuk](https://www.jajuk.info/)
+* [Jajuk](https://www.jajuk.info/)
 * [quodlibet](https://github.com/quodlibet/quodlibet/)
 * [deadbeef](https://deadbeef.sourceforge.io/)
 * [groovebasin](https://github.com/andrewrk/groovebasin)
