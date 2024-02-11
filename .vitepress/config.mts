@@ -76,7 +76,6 @@ export default defineConfig({
     config(md) {
       md.use(emojiRender)
       md.use(toggleStarredPlugin)
-      md.use(base64DecodePlugin)
     }
   },
   themeConfig: {
