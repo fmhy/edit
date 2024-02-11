@@ -10,7 +10,6 @@
 * 🌐 **[LMSYS Arena](https://huggingface.co/spaces/lmsys/chatbot-arena-leaderboard)** - Chatbot Leaderboard with Elo rating
 * ⭐ **[Microsoft Copilot](https://copilot.microsoft.com)** - GPT-4/3.5 Powered Search / [SydneyQT Jailbreak](https://github.com/juzeon/SydneyQt)
 * ⭐ **[wrtn](https://wrtn.ai/)** - GPT-4 Chatbot (ask for english)
-* ⭐ **[Claude](https://claude.ai/)** - Anthropic's Chatbot
 * ⭐ **[Gemini](https://gemini.google.com/)** - Google's Chatbot
 * ⭐ **[ChatGPT](https://chat.openai.com/)** - GPT-3.5 Chatbot / [Discord](https://discord.com/invite/openai)
 * ⭐ **[Perplexity](https://www.perplexity.ai/)** - AI Powered Search / [Multiple Chatbots](https://labs.perplexity.ai/)
@@ -20,6 +19,7 @@
 * [Poe](https://poe.com/) - GPT-3.5 and Claude Chatbot / [Discord](https://discord.com/invite/joinpoe)
 * [Vitalentum](https://vitalentum.net/free-chat-gpt) - GPT-3 Chatbot
 * [AnonChatGPT](https://anonchatgpt.com/) - GPT-3 Chatbot
+* [Claude](https://claude.ai/) - Anthropic's Chatbot
 * [TGPT](https://github.com/aandrew-me/tgpt) - ChatGPT TUI
 * [GlobalGPT](https://www.globalgpt.nspiketech.com/#/) - AI Chatbot with Document Support
 * [LibreChat](https://github.com/danny-avila/LibreChat),  [HemulGM](https://github.com/HemulGM/ChatGPT), [SmolAI](https://github.com/smol-ai/menubar/), [Chatbot-UI](https://github.com/mckaywrigley/chatbot-ui) or [yakGPT](https://github.com/yakGPT/yakGPT) - ChatGPT Desktop Apps / GUIs
