@@ -199,7 +199,7 @@ pare AI Responses
 * [StableDiffusionWeb](https://stablediffusionweb.com/) / Unlimited
 * [Fast Stable Diffusion](https://huggingface.co/spaces/prodia/fast-stable-diffusion) / Unlimited
 * [ImageLabs](https://editor.imagelabs.net/) / Unlimited
-* [VectorArt.ai](https://vectorart.ai/) - Unlimited / SVGs
+* [VectorArt.ai](https://vectorart.ai/) / Unlimited / SVGs
 * [Leonardo.ai](https://app.leonardo.ai/) / 30 Daily
 * [AITurbo](https://app.aitubo.ai/) / 25 Daily / [Discord](https://discord.gg/qTu6YsRn7F)
 * [Ideogram](https://ideogram.ai/) / 25 Daily
