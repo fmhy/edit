@@ -3,85 +3,6 @@
 ***
 ***
 
-# ► Spotify Tools
-
-* ⭐ **[Spicetify](https://spicetify.app/)** - Spotify Themes
-* ⭐ **Spicetify Tools** - [CLI](https://github.com/spicetify/spicetify-cli) / [Addons](https://github.com/3raxton/spicetify-custom-apps-and-extensions) / [Discord](https://discord.gg/VnevqPp2Rr) / [Easy Installation](https://github.com/OhItsTom/spicetify-easyinstall/) / [Fluent](https://github.com/williamckha/spicetify-fluent), [2](https://github.com/nimsandu/spicetify-bloom)
-* [Versefy](https://versefy.app/) - Lyrics
-* [SpotifyTools](https://spotifytools.romanello.xyz/) - Spotify Companion
-* [Playlist Randomizer](https://stevenaleong.com/tools/spotifyplaylistrandomizer) - Playlist Randomizer
-* [Playlist Sorter](https://www.playlistsorter.com/) - Sort Playlists
-* [Timelineify](https://www.timelineify.com/) - Sort Playlists by Release
-* [Trikatuka](http://trikatuka.aknakn.eu/) - Playlist Transfer
-* [Skiley](https://skiley.net/) - Playlist Manager
-* [Spotlistr](https://www.spotlistr.com/) - Playlist Converter
-* [Playlistor](https://playlistor.io/) - Apple Music Playlist Converter
-* [Spotr](https://github.com/XDGFX/spotr) - Export Tracks as Deezer Playlists
-* [SpotifyCloud](https://spotifycloud.zamar-roura.com/) - Playlist Words
-* [Spotify Dedup](https://spotify-dedup.com/) - Playlist Song Dedup
-* [SpotMyBackup](http://www.spotmybackup.com/), [2](https://github.com/watsonbox/exportify) - Playlist Backup
-* [Opslagify](https://opslagify.deruever.nl/) - Library Size
-* [awesome-spotify-stats](https://github.com/rimsiw/awesome-spotify-stats) - Listening Stats
-* [Tierify](https://davitg.com/projects/tierify/) - Tier Lists
-* [Kira](https://kira.vercel.app/) - Song Country Search
-* [spotify-account-generator](https://github.com/davide-acanfora/spotify-account-generator), [2](https://github.com/ALIILAPRO/spotify-account-creator) - Account Gen
-* [spotify-github-profile](https://github.com/kittinan/spotify-github-profile) - GitHub Display
-
-***
-
-## ▷ Spotify Clients
-
-* ⭐ **[Spotify Desktop](https://www.spotify.com/us/download/)**
-* [Ruurd](https://github.com/RuurdBijlsma/Music) - Feature-Rich / Ad-Free Client
-* [SpoTube](https://spotube.netlify.app/), [2](https://spotube.krtirtho.dev/) - Lightweight / Ad-Free Client
-* [Lofi Rocks](https://www.lofi.rocks/) - Tiny / Minimal Client
-* [Spotify Web Client](https://open.spotify.com/) / [Adblocker](https://gist.github.com/Simonwep/24f8cdcd6d32d86e929004013bd660ae) / [Mute Ads](https://github.com/guihkx/spotishush) / [Customize](https://github.com/Darkempire78/Spotify-Customizer) / [Lyrics](https://github.com/mantou132/Spotify-Lyrics)
-
-***
-
-## ▷ Spotify Adblockers
-
-* ⭐ **[SpotX](https://github.com/amd64fox/SpotX)** - [Telegram](https://t.me/SpotxCommunity)
-* ⭐ **[BlockTheSpot](https://github.com/mrpond/BlockTheSpot)** - [Discord](https://discord.gg/9tCNMFESuC)
-* [spotify-ezblocker](https://www.ericzhang.me/projects/spotify-ad-blocker-ezblocker/)
-* [BurntSushi](https://github.com/OpenByteDev/burnt-sushi)
-* [Block Ad Host Files](https://gist.github.com/opus-x/3e673a9d5db2a214df05929a4eee6a57), [2](https://github.com/AlfonsoVergara-github/Host-to-block-ads-for-spotify)
-* [Spotify Adblock Guide](https://redd.it/yme7pf)
-
-***
-
-## ▷ Spotify Download
-
-* 🌐 **[Spotify Downloader Index](https://github.com/topics/spotify-downloader)**
-* ⭐ **[DoubleDouble](https://doubledouble.top/)** - Direct Downloader / [Telegram](https://t.me/+AuKfQGOOLrFlOTZk)
-* ⭐ **[Soggfy](https://github.com/Rafiuth/Soggfy)** - Direct Downloader
-* [Spotify to Deezer Transfer Method](https://i.ibb.co/hC3c0Gs/69f9179b5bfe.png)
-* [Spytify](https://jwallet.github.io/spy-spotify/overview.html) - Spotify Recorder
-* [DownOnSpot](https://github.com/oSumAtrIX/DownOnSpot) - Direct Downloader
-* [CLSpotify](https://agent255.github.io/clspotifyweb/) / [GitHub](https://github.com/agent255/clspotify) - Direct Downloader
-* [spotify_sync](https://github.com/jbh-cloud/spotify_sync) - Direct Downloader
-* [OnTheSpot](https://github.com/casualsnek/onthespot) - Direct Downloader
-* [SpotifyDown](https://spotifydown.com/) - Direct Downloader
-* [Zotify](https://zotify.xyz/) - Direct Downloader
-* [FreyrJS](https://github.com/miraclx/freyr-js) - Direct Downloader
-* [Savify](https://github.com/LaurenceRawlings/savify) - YT Downloader
-* [Spotify-DL](https://github.com/SathyaBhat/spotify-dl) - YT Downloader
-* [spotDL](https://github.com/spotDL/spotify-downloader) - YT Downloader
-* [FreyrJS](https://github.com/miraclx/freyr-js) - YT Downloader
-* [SpotiFlyer](https://github.com/Shabinder/SpotiFlyer) - YT Downloader
-* [Spotdlrobot](https://t.me/Spotdlrobot) - Telegram Bot
-* [Spotify Music Downloader](https://t.me/joinchat/DdR2SUvJPBouSW4QlbJU4g) - Telegram Bot
-* [spotify-dl](https://github.com/SwapnilSoni1999/spotify-dl) - Telegram Bot
-* [Spotify_downloa_bot](https://t.me/Spotify_downloa_bot) - Telegram Bot
-* [Music_Downloader_Bot_Spotify](https://t.me/Music_Downloader_Bot_Spotify) - Telegram Bot
-* [Motreeb](https://t.me/motreb_downloader_bot) - Telegram Bot
-* [telegvc_bot](https://t.me/telegvc_bot) - Telegram Bot
-* [spotifydownloadrobot](https://t.me/spotifydownloadrobot) - Telegram Bot
-* [spotifysavebot](https://t.me/spotifysavebot) - Telegram Bot
-* [SpotifyRipBot](https://t.me/SpotifyRipBot) - Telegram Bot
-
-***
-
 # ► Audio Streaming
 
 ## ▷ Streaming Apps
@@ -465,6 +386,85 @@
 * [ZOMB Torrents](http://zombtracker.the-zomb.com/) - Forum
 * [bt.etree](https://bt.etree.org/), [LiveBootlegConcert](https://livebootlegconcert.blogspot.com/) or [DreamingTree](https://dreamingtree.org/) - Live Concert Recordings
 * [NFO db](https://nfodb.ru/) - MP3 NFO Database
+
+***
+
+# ► Spotify Tools
+
+* ⭐ **[Spicetify](https://spicetify.app/)** - Spotify Themes
+* ⭐ **Spicetify Tools** - [CLI](https://github.com/spicetify/spicetify-cli) / [Addons](https://github.com/3raxton/spicetify-custom-apps-and-extensions) / [Discord](https://discord.gg/VnevqPp2Rr) / [Easy Installation](https://github.com/OhItsTom/spicetify-easyinstall/) / [Fluent](https://github.com/williamckha/spicetify-fluent), [2](https://github.com/nimsandu/spicetify-bloom)
+* [Versefy](https://versefy.app/) - Lyrics
+* [SpotifyTools](https://spotifytools.romanello.xyz/) - Spotify Companion
+* [Playlist Randomizer](https://stevenaleong.com/tools/spotifyplaylistrandomizer) - Playlist Randomizer
+* [Playlist Sorter](https://www.playlistsorter.com/) - Sort Playlists
+* [Timelineify](https://www.timelineify.com/) - Sort Playlists by Release
+* [Trikatuka](http://trikatuka.aknakn.eu/) - Playlist Transfer
+* [Skiley](https://skiley.net/) - Playlist Manager
+* [Spotlistr](https://www.spotlistr.com/) - Playlist Converter
+* [Playlistor](https://playlistor.io/) - Apple Music Playlist Converter
+* [Spotr](https://github.com/XDGFX/spotr) - Export Tracks as Deezer Playlists
+* [SpotifyCloud](https://spotifycloud.zamar-roura.com/) - Playlist Words
+* [Spotify Dedup](https://spotify-dedup.com/) - Playlist Song Dedup
+* [SpotMyBackup](http://www.spotmybackup.com/), [2](https://github.com/watsonbox/exportify) - Playlist Backup
+* [Opslagify](https://opslagify.deruever.nl/) - Library Size
+* [awesome-spotify-stats](https://github.com/rimsiw/awesome-spotify-stats) - Listening Stats
+* [Tierify](https://davitg.com/projects/tierify/) - Tier Lists
+* [Kira](https://kira.vercel.app/) - Song Country Search
+* [spotify-account-generator](https://github.com/davide-acanfora/spotify-account-generator), [2](https://github.com/ALIILAPRO/spotify-account-creator) - Account Gen
+* [spotify-github-profile](https://github.com/kittinan/spotify-github-profile) - GitHub Display
+
+***
+
+## ▷ Spotify Clients
+
+* ⭐ **[Spotify Desktop](https://www.spotify.com/us/download/)**
+* [Ruurd](https://github.com/RuurdBijlsma/Music) - Feature-Rich / Ad-Free Client
+* [SpoTube](https://spotube.netlify.app/), [2](https://spotube.krtirtho.dev/) - Lightweight / Ad-Free Client
+* [Lofi Rocks](https://www.lofi.rocks/) - Tiny / Minimal Client
+* [Spotify Web Client](https://open.spotify.com/) / [Adblocker](https://gist.github.com/Simonwep/24f8cdcd6d32d86e929004013bd660ae) / [Mute Ads](https://github.com/guihkx/spotishush) / [Customize](https://github.com/Darkempire78/Spotify-Customizer) / [Lyrics](https://github.com/mantou132/Spotify-Lyrics)
+
+***
+
+## ▷ Spotify Adblockers
+
+* ⭐ **[SpotX](https://github.com/amd64fox/SpotX)** - [Telegram](https://t.me/SpotxCommunity)
+* ⭐ **[BlockTheSpot](https://github.com/mrpond/BlockTheSpot)** - [Discord](https://discord.gg/9tCNMFESuC)
+* [spotify-ezblocker](https://www.ericzhang.me/projects/spotify-ad-blocker-ezblocker/)
+* [BurntSushi](https://github.com/OpenByteDev/burnt-sushi)
+* [Block Ad Host Files](https://gist.github.com/opus-x/3e673a9d5db2a214df05929a4eee6a57), [2](https://github.com/AlfonsoVergara-github/Host-to-block-ads-for-spotify)
+* [Spotify Adblock Guide](https://redd.it/yme7pf)
+
+***
+
+## ▷ Spotify Download
+
+* 🌐 **[Spotify Downloader Index](https://github.com/topics/spotify-downloader)**
+* ⭐ **[DoubleDouble](https://doubledouble.top/)** - Direct Downloader / [Telegram](https://t.me/+AuKfQGOOLrFlOTZk)
+* ⭐ **[Soggfy](https://github.com/Rafiuth/Soggfy)** - Direct Downloader
+* [Spotify to Deezer Transfer Method](https://i.ibb.co/hC3c0Gs/69f9179b5bfe.png)
+* [Spytify](https://jwallet.github.io/spy-spotify/overview.html) - Spotify Recorder
+* [DownOnSpot](https://github.com/oSumAtrIX/DownOnSpot) - Direct Downloader
+* [CLSpotify](https://agent255.github.io/clspotifyweb/) / [GitHub](https://github.com/agent255/clspotify) - Direct Downloader
+* [spotify_sync](https://github.com/jbh-cloud/spotify_sync) - Direct Downloader
+* [OnTheSpot](https://github.com/casualsnek/onthespot) - Direct Downloader
+* [SpotifyDown](https://spotifydown.com/) - Direct Downloader
+* [Zotify](https://zotify.xyz/) - Direct Downloader
+* [FreyrJS](https://github.com/miraclx/freyr-js) - Direct Downloader
+* [Savify](https://github.com/LaurenceRawlings/savify) - YT Downloader
+* [Spotify-DL](https://github.com/SathyaBhat/spotify-dl) - YT Downloader
+* [spotDL](https://github.com/spotDL/spotify-downloader) - YT Downloader
+* [FreyrJS](https://github.com/miraclx/freyr-js) - YT Downloader
+* [SpotiFlyer](https://github.com/Shabinder/SpotiFlyer) - YT Downloader
+* [Spotdlrobot](https://t.me/Spotdlrobot) - Telegram Bot
+* [Spotify Music Downloader](https://t.me/joinchat/DdR2SUvJPBouSW4QlbJU4g) - Telegram Bot
+* [spotify-dl](https://github.com/SwapnilSoni1999/spotify-dl) - Telegram Bot
+* [Spotify_downloa_bot](https://t.me/Spotify_downloa_bot) - Telegram Bot
+* [Music_Downloader_Bot_Spotify](https://t.me/Music_Downloader_Bot_Spotify) - Telegram Bot
+* [Motreeb](https://t.me/motreb_downloader_bot) - Telegram Bot
+* [telegvc_bot](https://t.me/telegvc_bot) - Telegram Bot
+* [spotifydownloadrobot](https://t.me/spotifydownloadrobot) - Telegram Bot
+* [spotifysavebot](https://t.me/spotifysavebot) - Telegram Bot
+* [SpotifyRipBot](https://t.me/SpotifyRipBot) - Telegram Bot
 
 ***
 
