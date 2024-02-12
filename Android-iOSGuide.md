@@ -845,7 +845,7 @@
 * ⭐ **[Bitwarden](https://apps.apple.com/app/bitwarden-free-password-manager/id1137397744)**, [Keepassium](https://keepassium.com/), [AuthPass](https://authpass.app/), [Strongbox](https://strongboxsafe.com/) or [PasswordStore](https://passwordstore.app/) - Password Managers
 * ⭐ **[PairVPN Hotspot](https://pairvpn.com/hotspot)** - Create Mobile Hotspots
 * [Das Image](https://apps.apple.com/ca/app/das-image-search-and-explore/id1464079804), [iPhone11papers](https://iphone11papers.com/), [FreshWalls](https://apps.apple.com/in/app/freshwalls-4k-hd-wallpapers/id1627085956) or [iOS Wallpapers](https://goo.gl/photos/ZVpabTtcezd35XBa9/) - iOS Wallpapers
-* [OpenAI-ChatGPT](https://apps.apple.com/us/app/openai-chatgpt/id6448311069) or [Kai](https://trykai.app/) - ChatGPT Apps
+* [wrtn](https://apps.apple.com/us/app/%EB%A4%BC%ED%8A%BC-%EB%AA%A8%EB%91%90%EB%A5%BC-%EC%9C%84%ED%95%9C-ai-%ED%8F%AC%ED%84%B8/id6448556170), [OpenAI-ChatGPT](https://apps.apple.com/us/app/openai-chatgpt/id6448311069) or [Kai](https://trykai.app/) - ChatGPT Apps
 * [Offline File Browser](https://apps.apple.com/us/app/offline-files-browser-docs/id1557618225) or [Santander](https://github.com/SerenaKit/Santander) - File Managers
 * [Dropbox](https://testflight.apple.com/join/LBZaRq4I) - Cloud Storage
 * [DeDuplicate](https://deduplicate.app/) - Duplicate File Remover
