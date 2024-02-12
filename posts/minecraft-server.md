@@ -20,7 +20,7 @@ footer: true
 ### Mod Downloads
 
 **Attached is the mod pack for modded**:
-[RAR](https://qiwi.gg/file/acC63146-mods)
+[RAR](https://qiwi.gg/file/acC63146-mods) + [Guide](https://rentry.org/fmhy-modded)
 
 or you could use the
 [`.mrpack files`](https://discord.com/channels/956006107564879872/1206145102217486366/1206145423689908224)
