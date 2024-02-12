@@ -756,6 +756,8 @@
 * [great-on-deck-search](https://github.com/cptpiepmatz/great-on-deck-search) - Verified Steam Deck Game Search
 * [Steam-Deck.Force](https://github.com/scawp/Steam-Deck.Force-SteamOS-On-Boot) - Force SteamOS Boot
 * [HoloISO](https://github.com/HoloISO/holoiso) - SteamOS 3 (Holo) Archiso Config
+* [Anadius](anadius.su) - Sims 4 Dlc Unlocker
+
 
 *** 
 
