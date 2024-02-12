@@ -358,24 +358,23 @@
 
 ## ▷ Hentai Manga / Comics
 
-* ⭐ **[NHentai](https://nhentai.net/)** - Hentai Manga
-* ⭐ **NHentai Tools** - [Android Client](https://github.com/Dar9586/NClientV2), [2](https://ttdyce.com/apps/nhviewer/) / [Downloader](https://github.com/RicterZ/nhentai), [2](https://github.com/Xwilarg/NHentaiDownloader)
 * ⭐ **[E-Hentai](https://e-hentai.org/)** or  [ExHentai](https://exhentai.org/) - Hentai Manga / Comics
 * ⭐ **E-Hentai Tools** - [Android Client](https://github.com/honjow/FEhViewer) / [Deleted Galleries](https://panda.chaika.moe/) / [Downloader](https://gitlab.com/squishydreams/pandaforever), [2](https://github.com/ccloli/E-Hentai-Downloader)
+* ⭐ **[IMHentai](https://imhentai.xxx/)** - Hentai Manga / Comics
+* ⭐ **[Hitomi](https://hitomi.la/)** - Hentai Manga
 * ⭐ **[Mihon](https://mihon.app/)** - Manga Reader
 * ⭐ **Mihon Tools** - [Extensions](https://keiyoushi.github.io/extensions/), [2](https://discord.gg/3FbCpdKbdY) / [Official Forks](https://mihon.app/forks/), [2](https://github.com/null2264/yokai), [3](https://github.com/nekomangaorg/Neko)
-* ⭐ **[3Hentai](https://3hentai.net/)** - Hentai Manga
 * ⭐ **[Anime-Sharing](https://www.anime-sharing.com/#downloads-requests)** - Hentai Manga DDL
 * ⭐ **[Nyaa Sukebei](https://sukebei.nyaa.si/)** - Hentai Manga Torrents
 * ⭐ **[Wholesome Hentai](https://wholesomelist.com/)** - Wholesome Manga Index / [Discord](https://discord.com/invite/cqAm6XWw)
 * ⭐ **[Hitomi Downloader](https://github.com/KurtBestor/Hitomi-Downloader)**, **[Hakuneko](https://hakuneko.download/)** or [NN Downloader](https://github.com/Official-Husko/NN-Downloader) - Multi-Site Manga Downloaders
-* [ILikeComix](https://ilikecomix.com/) - Comics
-* [Toonily](https://toonily.me/) - Hentai Manga
+* [NHentai](https://nhentai.net/) - Hentai Manga
+* NHentai Tools - [Android Client](https://github.com/Dar9586/NClientV2), [2](https://ttdyce.com/apps/nhviewer/) / [Downloader](https://github.com/RicterZ/nhentai), [2](https://github.com/Xwilarg/NHentaiDownloader)
+* [3Hentai](https://3hentai.net/) - Hentai Manga
+* [Toonily](https://toonily.me/) - Pornwha
 * [Manhwa18](https://manhwa18.net/) / [2](https://manhwa18.com/) / [3](https://pornwa.club/) - Pornhwa
 * [Multporn](https://multporn.net/) - Hentai Manga / Comics
 * [Hentai2Read](https://hentai2read.com/) or [HentaiHere](https://hentaihere.com/) - Hentai Manga
-* [IMHentai](https://imhentai.xxx/) - Hentai Manga / Comics
-* [Hitomi](https://hitomi.la/) - Hentai Manga
 * [Anchira](https://anchira.to/) - Hentai Manga
 * [HentaiFox](https://hentaifox.com/) - Hentai Manga
 * [Pururin](https://pururin.to/) - Hentai Manga / [Discord](https://discord.com/invite/PtrzM4aVFv)
@@ -399,6 +398,7 @@
 * [177pica](http://www.177pica.com/) - Hentai Raws
 * [Hentaifromhell](https://hentaifromhell.org/) - Hentai Manga / Comics
 * [EggPornComics](https://eggporncomics.com/) - Hentai / Comics
+* [ILikeComix](https://ilikecomix.com/) - Comics
 * [AllPornComic](https://allporncomic.com/) - Comics
 * [MyHentaiGallery](https://myhentaigallery.com/) - Comics
 * [FreeAdultComix](https://freeadultcomix.com/) - Comics
