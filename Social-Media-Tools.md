@@ -484,6 +484,7 @@
 * [TTV Favorites](https://github.com/jc9108/ttv-favorites) - Add Channel Favorites
 * [Streamlink Twitch GUI](https://github.com/streamlink/streamlink-twitch-gui) - Twitch Browser for Streamlink
 * [get stream](https://pwn.sh/tools/getstream.html) - Extract Twitch URLs
+* [lurker.tv](https://www.lurker.tv/) - Discord Server Based Twitch Stream Recs
 * [nobody.live](https://nobody.live/) or [Twitch Roulette](https://twitchroulette.net/) - Random Stream Roulette
 * [Twitch TV OBS Subtitles](https://github.com/stephenlb/twitch-tv-obs-subtitles/) - Add Subtitles to Twitch Stream
 * [StreamLadder](https://streamladder.com/) - Social Media Templates for Twitch Clips
