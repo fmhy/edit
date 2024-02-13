@@ -346,6 +346,7 @@
 * [new.space](https://new.space/)
 * [file.pizza](https://file.pizza/)
 * [Transfernow](https://www.transfernow.net/en)
+* [Magic Wormhole](https://github.com/magic-wormhole/magic-wormhole)
 * [onionshare](https://onionshare.org/)
 * [Horizon Send](https://send.hrzn.cool/)
 * [OwnCloud](https://owncloud.com/)
