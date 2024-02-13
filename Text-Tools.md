@@ -21,6 +21,7 @@
 * [StegCloak](https://stegcloak.surge.sh/) - Hide Messages in Text
 * [telescopictext](https://www.telescopictext.org/) - Write Text Within Text
 * [quipqiup](https://www.quipqiup.com/) or [dCode](https://www.dcode.fr/en) - Cryptogram Solvers
+* [DocuSeal](https://www.docuseal.co/) - Free Document Signing
 
 ***
 
