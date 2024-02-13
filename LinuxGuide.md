@@ -263,7 +263,7 @@ Linux Gaming Guide
 * [die.net](https://linux.die.net/) - Linux Documentation
 * [HowtoForge](https://www.howtoforge.com/), [Sindresorhus Guides](https://github.com/sindresorhus/guides), [Erik Dubois](https://www.youtube.com/c/ErikDubois), [LinuxJourney](https://linuxjourney.com/), [Mayfrost Guides](https://github.com/mayfrost/guides) or [Mental Outlaw](https://www.youtube.com/channel/UC7YOGHUfC1Tb6E4pudI9STA) - Linux Guides / Tutorials
 * [howtodebuntu](https://github.com/themagicalmammal/howtolinux) - Tweaks for Debian Based Distros
-* [winapps](https://github.com/Fmstrat/winapps) or [mobox](https://github.com/olegos2/mobox) - Run Windows Apps on Linux
+* [winapps](https://github.com/Fmstrat/winapps) - Run Windows Apps on Linux
 * [WoeUSB](https://github.com/WoeUSB/WoeUSB) or [Windows2USB](https://github.com/ValdikSS/windows2usb) - Create Bootable USB Windows Drives
 * [NetBoot](https://netboot.xyz/) - Distro Installer
 * [CloverBootloader](https://github.com/CloverHackyColor/CloverBootloader/) - Windows, Mac & Linux Bootloader / [Config](https://mackie100projects.altervista.org/)
