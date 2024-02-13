@@ -188,7 +188,7 @@
 ## ▷ Privacy Indexes
 
 * ⭐ **[Awesome Privacy](https://awesome-privacy.xyz/)** / [2](https://github.com/pluja/awesome-privacy) - List of Privacy Software & Services
-* ⭐ **[Digital Defense](https://digital-defense.io/)** - Personal Security Checklist
+* ⭐ **[Digital Defense](https://digital-defense.io/)** - Personal Checklist for Privacy & Security
 * ⭐ **[The Hitchhiker’s Guide](https://anonymousplanet.org/)** - Extensive Guide to Online Anonymity
 * ⭐ **[Privacy Guides](https://www.privacyguides.org/)** - Educational Guide
 * ⭐ **[Surveillance Self-Defense](https://ssd.eff.org/)** - Educational Guide
