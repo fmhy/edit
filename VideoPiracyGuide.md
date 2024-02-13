@@ -93,7 +93,6 @@
 * [MoviehdKH](https://www.moviehdkh.com/) - Movies / 1080p
 * [Show Flix](https://showflix.in/lan/movie/English) - Movies / TV / 1080p / Switch Audio Source in Settings
 * [GotyTV](https://gotytv.com/) - Movies / TV / 1080p / Requires Signup
-* [123Moviess](https://123moviess.net/) - Movies / TV / 1080p
 * [PopcornFlix](https://www.popcornflix.com/) - Movies / TV / 1080p
 * [Crackle](https://www.crackle.com/) - Movies / TV / 1080p
 * [Tubi](https://tubitv.com) - Movies / TV / 720p / Use Adblock / [Downloader](https://github.com/warren-bank/node-hls-downloader-tubitv) / US Only
@@ -411,6 +410,7 @@
 * ⭐ **[FreeSports](https://freesports.to/)** - Sports
 * ⭐ **[FSL](https://a.fsl-stream.im/)** - Sports / 720p / [Discord](https://discord.gg/eXXJzDPchU)
 * ⭐ **[IPTV Web](https://iptv-web.app/)** - TV / Sports
+* ⭐ **[MrGamingStreams](https://mrgamingstreams.com/)** - TV / Sports / [Discord](https://discord.com/invite/Rf2SFRtJFz)
 * ⭐ **[RBTV](https://www.rbtv77.com/)**, [2](https://www.rbtv77.tattoo/), [3](https://www.rbtv77.website/) - Sports
 * ⭐ **[OlympicStreams](https://olympicstreams.me/)** - Sports
 * watch.lonelil - [TV](https://watch.lonelil.com/tv) / [Sports](https://watch.lonelil.com/schedule)
@@ -784,6 +784,7 @@
 * ⭐ **[TasteDive](https://tastedive.com/)** - Recommendations
 * ⭐ **[DeepSearch](https://deepsearch.mycelebs.com/movie)**, [WhatsatMovie](https://whatsatmovie.com/) or [What is My Movie?](https://www.whatismymovie.com/) - Find Movies via Descriptions
 * ⭐ **[RatingsGraph](https://www.ratingraph.com/)** - Movie / TV Ratings Graphs
+* ⭐ **[RatS](https://github.com/StegSchreck/RatS)** - Transfer Ratings between Services
 * [TrailerPunk](https://trailerpunk.com/) - Newest Movie Trailers
 * [Rec Charts](https://mega.nz/folder/kj5hWI6J#0cyw0-ZdvZKOJW3fPI6RfQ) - Movie / TV / Anime Recommendation Guides
 * [IMDb](https://www.imdb.com/) - Movies / TV / Anime / [Advanced Search](https://www.imdb.com/search/)
