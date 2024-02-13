@@ -41,6 +41,6 @@ Minecraft Dynmap: [Vanilla](https://survival.dynmap.fmhy.net) or
 - (Modded) To set a skin, use the `/skin` command.
 - To hide yourself from being shown in Dynmap, run this command `/dynmap hide`.
 - Simple Voice Chat mod is supported on Modded and (optional) Vanilla servers.
-- 6GB+ RAM  required, 12GB+ recommended.
+- 6GB+ RAM  required, 12GB+ recommended for modded.
 
 Have fun! ♥️
