@@ -4,6 +4,10 @@
 ***
 ***
 
+* Note - Our [Discord](https://redd.it/17f8msf) has an AI bot with Llama, Mistral and Stable Diffusion. Feel free to join and try it out.
+
+***
+
 # ► Proprietary Chatbots
 
 * 🌐 **[Awesome Free ChatGPT](https://github.com/LiLittleCat/awesome-free-chatgpt/blob/main/README_en.md)** or **[FOFA](https://en.fofa.info/result?qbase64=ImxvYWRpbmctd3JhcCIgJiYgImJhbGxzIiAmJiAiY2hhdCIgJiYgaXNfZG9tYWluPXRydWU%3D)** / [2](https://en.fofa.info/result?qbase64=dGl0bGU9PSJDaGF0R1BUIFdlYiI%3D) - ChatGPT WebUI Indexes
