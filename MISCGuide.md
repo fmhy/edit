@@ -900,7 +900,7 @@
 * ↪️ **[To-Do Lists](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools#wiki_.25B7_to_do_lists)**
 * ⭐ **[Super-Productivity](https://github.com/johannesjo/super-productivity)** - Time Tacker / Productivity App / To-Do List
 * ⭐ **[Timeblocking](https://timeblocking.atomiclife.app/)** - Online Atomic Time Blocking 
-* [Cold Turkey](https://getcoldturkey.com/) - Site Blocker / Productivity App / [Premium](https://rentry.co/FMHYBase64#cold-turkey-premium)
+* [Cold Turkey](https://getcoldturkey.com/) - Site Blocker / Productivity App / [Premium (use python)](https://rentry.co/FMHYBase64#cold-turkey-premium)
 * [Tempus](https://tempus.keziahmoselle.fr/) - Tray Break Reminders / Time Tracker
 * [ActivityWatch](https://activitywatch.net/) - Device / App Time Tracker / [Extensions](https://github.com/ActivityWatch/aw-watcher-web)
 * [ProcrastiTracker](https://strlen.com/procrastitracker/) - Device / App Time Tracker
