@@ -479,6 +479,15 @@ http://104.131.175.196:8080/, http://70.88.180.169:8088/, http://207.237.122.161
 
 ***
 
+## Reddit Piracy Discussion Groups
+
+* [r/Piracy](https://www.reddit.com/r/Piracy) - General piracy
+* [r/CrackWatch](https://www.reddit.com/r/CrackWatch) - Subreddit for video game piracy news
+* [r/CrackSupport](https://www.reddit.com/r/CrackSupport) - Only video game support
+
+
+***
+
 ## Google Piracy Discussion Groups
 
 * https://techy-transistor.notion.site/Team-drives-ab7ebffc1e5040b5b5362e9d70fca4d5
