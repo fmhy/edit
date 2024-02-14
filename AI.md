@@ -4,7 +4,7 @@
 ***
 ***
 
-* Note - Our [Discord](https://redd.it/17f8msf) has an AI bot with Llama, Mistral and Stable Diffusion. Feel free to join and try it out.
+* **Note** - Our [Discord](https://redd.it/17f8msf) has an AI bot with Llama, Mistral and Stable Diffusion. Feel free to join and try it out.
 
 ***
 
