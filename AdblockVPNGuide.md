@@ -6,7 +6,7 @@
 
 # ► Adblocking
 
-**Note** - Don't run multiple general adblockers like ublock and adblock plus at the same time. Running more than one can cause breakage. This only applies to general adblockers, so running things like ublock and sponsorblock at the same time is fine.
+**Note** - Don't run multiple general adblockers like uBlock Origin and Adblock Plus at the same time. Running more than one can cause breakage. This only applies to general adblockers, so running things like uBO and SponsorBlock at the same time is fine.
 
 ***
 
@@ -17,7 +17,6 @@
 * ⭐ **[SponsorBlock](https://sponsor.ajay.app/)** - Skip Sponsored YouTube Ads / [Script](https://github.com/mchangrh/sb.js), [2](https://greasyfork.org/en/scripts/453320)
 * ⭐ **[BehindTheOverlay](https://github.com/NicolaeNMV/BehindTheOverlay)** - Hide Website Overlays 
 * ⭐ **[OpenVideo](https://openvideofs.github.io)** or [Stream-Bypass](https://github.com/ByteDream/stream-bypass) - Play Videos in Ad-Free Player
-* ⭐ **[Adblock Tester](https://adblock-tester.com/)** or [AdBlocker Test](https://d3ward.github.io/toolz/adblock.html) - Adblocking Tests
 * [fadblock](https://github.com/0x48piraj/fadblock) or [Disable YT Video Ads](https://greasyfork.org/en/scripts/32626) - YouTube Adblockers
 * [Popupblocker All](https://addons.mozilla.org/en-US/firefox/addon/popupblockerall/), [PopUpOFF](https://romanisthere.github.io/PopUpOFF-Website/index.html) or [PopupBlocker](https://github.com/AdguardTeam/PopupBlocker) - Popup / New Tab Blockers
 * [Adguard](https://github.com/AdguardTeam/AdguardBrowserExtension#installation) - Adblocker
