@@ -29,7 +29,7 @@
 
 ## ▷ Streaming
 
-* ⭐ **[FaselHD](https://www.faselhd.link/)** - Movies / TV / Anime / Sub / 1080p
+* ⭐ **[FaselHD](https://faselhd.center/)** - Movies / TV / Anime / Sub / 1080p
 * [ArabLionz](https://arlionztv.click/) - Movies / TV / Sub / 1080p
 * [LODYNET](https://lodynet.link/) - Movies / TV / Sub / 1080p
 * [egydead](https://egydead.space/) - Movies / TV / Anime / Sub / 1080p
