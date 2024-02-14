@@ -92,9 +92,9 @@
 ## ▷ Telegram Channels
 
 * ⭐ **[Modded Central](https://t.me/+ilCkWkm0e39hZTQ1)** / [2](https://t.me/moddedcentralbackup)
+* [ANiK555_Mods](https://t.me/ANiK555_Mods)
 * [alexstranniklite](https://t.me/alexstranniklite)
 * [AMRTSOFFICIAL](https://t.me/AMRTSOFFICIAL)
-* [ANiK555_Mods](https://t.me/ANiK555_Mods)
 * [EasyAPK](https://t.me/EasyAPK)
 * [Tech Day](https://t.me/s/tech_d4y)
 * [GoldenBoot_Mods_Re](https://t.me/GoldenBoot_Mods_Re)
@@ -489,7 +489,7 @@
 * [googlecameraport](https://www.celsoazevedo.com/files/android/google-camera), [Camator](https://gcamator.com/) or [DMGC](https://thedise.me/dmgc/) - Google Cam Downloads / [Telegram](https://t.me/googlecameraport) / [Mods](https://apkw.ru/) / [XML Configs](https://t.me/xmlshamimmod)
 * [Libre Camera](https://github.com/iakmds/librecamera), [ProofMode](https://gitlab.com/guardianproject/proofmode/proofmode-android) or [Open Camera](https://sourceforge.net/projects/opencamera/) - FOSS Camera Apps
 * [FreeDcam](https://github.com/KillerInk/FreeDcam) or [BlackMagic Camera](https://apps.apple.com/us/app/blackmagic-camera/id6449580241) - Extra Camera Features
-* [RecordYou](https://github.com/you-apps/RecordYou) or [AudioNote](https://github.com/certified84/AudioNote) - Video / Voice Recorders
+* [RecordYou](https://github.com/you-apps/RecordYou), [notesGPT](https://usenotesgpt.com/) or [AudioNote](https://github.com/certified84/AudioNote) - Video / Voice Recorders
 * [Jitsi](https://jitsi.org/) or [IMO](https://imo.im/) - Video Chat
 * [RemoteVideoCam](https://github.com/izivkov/RemoteVideoCam) - Video Lan
 * [Minutiae](https://play.google.com/store/apps/details?id=com.minutiae) or [1 Second Everyday](https://1se.co/) - Video-a-Day App
@@ -1027,6 +1027,9 @@
 * ⭐ **[TrollStore](https://github.com/opa334/TrollStore)** or [TrollApps](https://github.com/TheResonanceTeam/TrollApps/) - Non-Appstore Apps / No-Jailbreak / 14.0-17.0 / [IPAs](https://github.com/swaggyP36000/TrollStore-IPAs)
 * [Sideloadly](https://sideloadly.io/), [AltStore](https://altstore.io/) / [Repo Viewer](https://altsource.by.lao.sb/browse/) / [Alt Server](https://github.com/NyaMisty/AltServer-Linux), [SideStore](https://github.com/SideStore/SideStore) or [SignTools](https://github.com/SignTools/SignTools) - Non-Jailbreak Sideloading Tool
 * [Streamiza](https://t.me/streamiza) - Tweaked Apps / Telegram / [Discord](https://linktr.ee/Streamiza)
+* [You Are Finished Mods](https://t.me/youarefinished_mods) - Tweaked Apps / Telegram
+* [DPixel](https://t.me/dpixel) - Tweaked Apps / Telegram
+* [Ed0.ipa](https://t.me/+u1XVvmGu9ac3YTU0) - Tweaked Apps / Telegram
 * [fnd](https://fnd.io/) - App Store Search
 * [AppDB](https://appdb.to) - App Library 
 * [Mobilism iOS Apps](https://forum.mobilism.org/viewforum.php?f=312) - App Library / [User Ranks](https://pastebin.com/pZuuMxYm)
