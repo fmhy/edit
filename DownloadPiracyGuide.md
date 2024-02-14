@@ -10,6 +10,7 @@
 
 ***
 
+* 🌐 **[Piracy Index](https://rentry.co/megathread)**
 * 🌐 **[/r/opendirectories](https://www.reddit.com/r/opendirectories/)** - Open Directories Subreddit / [Telegram](https://t.me/r_OpenDirectories) / [/u/ODScanner](https://reddit.com/u/ODScanner)
 * 🌐 **[smolOD](https://rentry.co/FMHYBase64#smolod)** - Small Open Directories
 * ↪️ **[Open Directory Indexes](https://rentry.co/FMHYBase64#open-directory-indexes)**
