@@ -78,10 +78,10 @@
 ## ▷ Single Server
 
 * ⭐ **[EE3](https://ee3.me/)** or [RIPS](https://rips.cc/) - Movies / 1080p / Invite Code: fmhy
+* ⭐ **[YesMovies](https://yesmovies.ag/)**, [2](https://ww4.solarmovie.to/), [3](https://ww5.0123movie.net/), [4](https://ww1.putlocker.vip/) - Movies / TV / Anime / 1080p
 * ⭐ **[Nites](https://ww4.nites.is/)** - Movies / TV / 1080p
 * ⭐ **[PressPlay](https://www.pressplay.top/)** - Movies / TV / 1080p / [Discord](https://discord.gg/r4QrghF4B9)
 * ⭐ **[LookMovie](https://lookmovie2.to/)** - Movies / TV / 720p / [Mirrors](https://proxymirrorlookmovie.github.io/)
-* ⭐ **[YesMovies](https://yesmovies.ag/)**, [2](https://ww4.solarmovie.to/), [3](https://ww5.0123movie.net/), [4](https://ww1.putlocker.vip/) - Movies / TV / Anime / 1080p
 * [Cinewave](https://discord.gg/pwtj9X8BtE) - Movies / TV / Anime / 1080p
 * [FshareTV](https://fsharetv.co/), [2](https://fsharetv.io/) - Movies / 1080p
 * [RidoMovies](https://ridomovies.tv/) - Movies / 1080p
@@ -106,7 +106,7 @@
 * [Fawesome](https://fawesome.tv/) - Movies / TV / 1080p
 * [LokLok](https://loklok.com/) - Movies / TV / 1080p
 * [ARTE](https://www.arte.tv/en) - Movies / TV / 1080p
-* [BBC iPlayer](https://www.bbc.co.uk/iplayer) - Movies / TV / 1080p / [Downloader](https://github.com/get-iplayer/get_iplayer) / UK VPN required
+* [BBC iPlayer](https://www.bbc.co.uk/iplayer) - Movies / TV / 1080p / [Downloader](https://github.com/get-iplayer/get_iplayer) / UK VPN required / Windscribe has UK free
 * [Mov.onl](https://www.mov.onl/) - Movies / TV / 720p
 * [SpaceMov](https://spacemov.site/) - Movies / TV / 720p
 * [Pluto](https://pluto.tv/) - Movies / TV / 720p
@@ -179,7 +179,6 @@
 * ⭐ **[RiffTrax Twitch](https://www.twitch.tv/rifftrax)** or [RiffTrax Pluto](https://pluto.tv/live-tv/rifftrax) - RiffTrax Live Streams
 * ⭐ **[Ubu](https://ubu.com/film/)** - Short Films / Avant-Garde
 * [Classic Cinema Online](https://classiccinemaonline.com/), [ClassixApp](https://www.classixapp.com/), [BnWMovies](https://bnwmovies.com/), [The Classic Movies](https://www.the-classic-movies.com/), [RetroFlix](https://retroflix.org/) or [Dumb Classic Movies](https://www.dumb.com/movies/) - Classic Films
-* [TheFilmDetective](https://www.thefilmdetective.com/) - Classic Films / TV
 * [RetroStrange](https://live.retrostrange.com/) - Live Retro Streams
 * [Silent Hall of Fame](https://silent-hall-of-fame.org/) - Silent Films
 * [Wu Tang Collection](https://www.thewutangcollection.com/) - Martial Arts Films
