@@ -74,6 +74,7 @@
 * [Spotify_downloa_bot](https://t.me/Spotify_downloa_bot) - Telegram Bot
 * [Music_Downloader_Bot_Spotify](https://t.me/Music_Downloader_Bot_Spotify) - Telegram Bot
 * [Motreeb](https://t.me/motreb_downloader_bot) - Telegram Bot
+* [spotify_down_bot](https://t.me/spotify_down_bot) - Telegram Bot
 * [telegvc_bot](https://t.me/telegvc_bot) - Telegram Bot
 * [spotifydownloadrobot](https://t.me/spotifydownloadrobot) - Telegram Bot
 * [spotifysavebot](https://t.me/spotifysavebot) - Telegram Bot
@@ -115,6 +116,7 @@
 * [Mixing.dj](https://mixing.dj/) - DJ Mixes
 * [OldSkoolMP3](https://oldskoolmp3.com/OldSkool/) - Oldschool Electronic
 * [Vapor Archive](https://vaporarchive.neocities.org/) - Vaporwave
+* [Keygen Music](https://keygenmusic.tk/) - Keygen Music
 * [hypem](https://hypem.com/popular) - Rising
 * [datpiff](https://www.datpiff.com/) - Mixtapes
 * [CitizenFreak](https://citizenfreak.com/) - Canadian Music
@@ -587,6 +589,7 @@
 * [Online Mic Test](https://onlinemictest.com/), [Mic Tests](https://mictests.com/) or [Check Mic](https://webcammictest.com/check-mic.html) - Mic Test
 * [Sound Meter](https://mybrowseraddon.com/sound-meter.html) or [REW](https://www.roomeqwizard.com) - Measure Surrounding Sound Level
 * [Krisp](https://krisp.ai/) or [noise-suppression-for-voice](https://github.com/werman/noise-suppression-for-voice) - Noise Suppression Tools
+* [AI-coustics](https://ai-coustics.com/) - Voice Clarity Enhancement AI
 * [mp4grep](https://github.com/o-oconnell/mp4grep) - Audio Transcribing
 * [AirPods Dirty Secret](https://docs.kenp.io/) - AirPods Repair Directory
 * [Musicara](https://www.musicara.ml/) or [X-Minus](https://x-minus.pro/) - Create Karaoke Songs
