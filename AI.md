@@ -4,6 +4,10 @@
 ***
 ***
 
+* **Note** - Our [Discord](https://redd.it/17f8msf) has a AI bot with Llama, Mistral and Stable Diffusion. Feel free to join and try it out.
+
+***
+
 # ► Proprietary Chatbots
 
 * 🌐 **[Awesome Free ChatGPT](https://github.com/LiLittleCat/awesome-free-chatgpt/blob/main/README_en.md)** or **[FOFA](https://en.fofa.info/result?qbase64=ImxvYWRpbmctd3JhcCIgJiYgImJhbGxzIiAmJiAiY2hhdCIgJiYgaXNfZG9tYWluPXRydWU%3D)** / [2](https://en.fofa.info/result?qbase64=dGl0bGU9PSJDaGF0R1BUIFdlYiI%3D) - ChatGPT WebUI Indexes
@@ -123,7 +127,8 @@ pare AI Responses
 * ⭐ **[AI-MF](https://whoisdsmith.gitbook.io/ai-mf/)** - AI Directory / [GitHub](https://github.com/whoisdsmith/AI-MTHRFCKR)
 * ⭐ **[LifeArchitect](https://lifearchitect.ai/models-table/)** - LLM Index
 * [ToolDirectory](https://www.tooldirectory.ai/) - AI Directory
-* [Futurepedia](https://www.futurepedia.io/) - AI Directory 
+* [Futurepedia](https://www.futurepedia.io/) - AI Directory
+* [AI Search](https://ai-search.io/) - AI Directory
 * [PowerUsers](https://powerusers.ai/) - AI Directory
 * [TheresAnAIForThat](https://theresanaiforthat.com/) - AI Directory
 * [FutureTools](https://www.futuretools.io/?pricing-model=free) - AI Directory
@@ -168,8 +173,9 @@ pare AI Responses
 
 ***
 
+* 🌐 **[RentrySD](https://rentry.org/RentrySD/)**, **[Pharmapsychotic](https://pharmapsychotic.com/tools.html)**, [Paper2GUI](https://github.com/Baiyuetribe/paper2gui/blob/main/README_en.md), [LocalModelsLinks](https://rentry.org/LocalModelsLinks), [SD Goldmine](https://rentry.org/sdgoldmine), [Akashic](https://github.com/Maks-s/sd-akashic), [sdg-link](https://rentry.org/sdg-link), [SDTools](https://sdtools.org) or [AI Creation Tools](https://docs.google.com/spreadsheets/d/1zYJUM-srhgIA7wrj4Pe4QqepAsHIEC00DydoTPv4PWg/edit#gid=0) - AI Image Resources
 * 🌐 **[CivitAI](https://civitai.com/)** or [Stable Diffusion Models](https://cyberes.github.io/stable-diffusion-models/) - SD Models Index
-* 🌐 **[PromptMania](https://promptomania.com/)** or [PublicPrompts](https://publicprompts.art/) / [Discord](https://discord.com/invite/jvQJFFFx26) - Prompt Indexes
+* 🌐 **[PromptMania](https://promptomania.com/)**, [PTSearch](https://www.ptsearch.info/tags/list/) or [PublicPrompts](https://publicprompts.art/) / [Discord](https://discord.com/invite/jvQJFFFx26) - Prompt Indexes
 * ⭐ **[CLIP Interrogator](https://huggingface.co/spaces/pharma/CLIP-Interrogator)** / [2](https://huggingface.co/spaces/fffiloni/CLIP-Interrogator-2) - Determine Likely Used Image Prompts
 * [SD Dynamic Prompts](https://github.com/adieyal/sd-dynamic-prompts) - Dynamic Prompts Extension
 * [Stable Horde](https://stablehorde.net/) - Distributed Network of GPUs running Stable Diffusion / [Interface](https://aqualxx.github.io/stable-ui/), [2](https://tinybots.net/artbot), [3](https://artificial-art.eu/)
@@ -177,13 +183,15 @@ pare AI Responses
 * [MagicBrush](https://www.magicbru.sh/), [image-mixer-demo](https://huggingface.co/spaces/lambdalabs/image-mixer-demo), [AITransformer](https://aitransformer.net/) - AI Image Transformers
 * [SD Inpainting](https://huggingface.co/spaces/runwayml/stable-diffusion-inpainting), [Inpaint Anything](https://github.com/geekyutao/Inpaint-Anything) or [Lama Cleaner](https://github.com/Sanster/lama-cleaner) - Image Fill / Item Removal
 * [Glaze](https://glaze.cs.uchicago.edu/index.html) or [Nightshade](https://nightshade.cs.uchicago.edu/downloads.html) - Protect Digital Art from AI Copies
+* [Unstable Diffusion](https://discord.com/invite/unstablediffusion) - AI Image Community
+* [/r/sdforall](https://www.reddit.com/r/sdforall/) - Stable Diffusion Subreddit
 
 ***
 
 ## ▷ Online Generators
 
-* ⭐ **[Microsoft Designer](https://designer.microsoft.com/image-creator)**, [2](https://www.bing.com/images/create) / [Tips](https://rentry.co/bingimagecreatortips) / [Bulk Download](https://github.com/Richard-Weiss/Bing-Creator-Image-Downloader)
-* ⭐ **[Stable Diffusion](https://huggingface.co/spaces/stabilityai/stable-diffusion)** / [GitHub](https://github.com/Stability-AI/stablediffusion) / [Discord](https://discord.com/invite/stablediffusion)
+* ⭐ **[Microsoft Designer](https://designer.microsoft.com/image-creator)**, [2](https://www.bing.com/images/create) / Unlimited / [Tips](https://rentry.co/bingimagecreatortips) / [Bulk Download](https://github.com/Richard-Weiss/Bing-Creator-Image-Downloader)
+* ⭐ **[Stable Diffusion](https://huggingface.co/spaces/stabilityai/stable-diffusion)** / Unlimited / [GitHub](https://github.com/Stability-AI/stablediffusion) / [Discord](https://discord.com/invite/stablediffusion)
 * ⭐ **[Poe](https://poe.com/)** / 100 Daily / [Discord](https://discord.com/invite/joinpoe)
 * ⭐ **[PlaygroundAI](https://playgroundai.com/)** / 1K Daily
 * ⭐ **[Dezgo](https://dezgo.com/)** / [Discord](https://discord.com/invite/RQrGpUhPhx) / Unlimited
@@ -191,39 +199,38 @@ pare AI Responses
 * ⭐ **[ComfyUI Web](https://comfyuiweb.com/)** / Unlimited
 * ⭐ **[Meta AI](https://imagine.meta.com/)** / Unlimited
 * ⭐ **[Tensor.art](https://tensor.art/)** / 100 Daily
-* ⭐ **[Lexica](https://lexica.art/)**
+* ⭐ **[Lexica](https://lexica.art/)** / 48 Weekly
 * [Prodia](https://app.prodia.com/) / [Discord](https://discord.com/invite/495hz6vrFN) / Unlimited
-* [GetIMG.ai](https://getimg.ai/) / [Discord](https://discord.com/invite/5KsUXSzVwS) / 100 Monthly
 * [OpenArt](https://openart.ai/home) / [Discord](https://discord.com/invite/yTMNvk5z97) / Unlimited
 * [SD 2.1 Demo](https://huggingface.co/spaces/stabilityai/stable-diffusion) / Unlimited
 * [StableDiffusionWeb](https://stablediffusionweb.com/) / Unlimited
+* [AIGallery](https://aigallery.app/) / Unlimited
 * [Fast Stable Diffusion](https://huggingface.co/spaces/prodia/fast-stable-diffusion) / Unlimited
 * [ImageLabs](https://editor.imagelabs.net/) / Unlimited
+* [Pollinations](https://pollinations.ai/) / Unlimited / [Discord](https://discord.com/invite/8HqSRhJVxn)
+* [PicFinder](https://picfinder.ai/) / Unlimited 
+* [One More AI](https://onemoreai.flutterflow.app/) / Unlimited 
+* [Diffuse The Rest](https://huggingface.co/spaces/huggingface-projects/diffuse-the-rest) / Unlimited
+* [Openart.ai](https://openart.ai/discovery) / Unlimited / [Discord](https://discord.com/invite/yTMNvk5z97)
 * [VectorArt.ai](https://vectorart.ai/) / Unlimited / SVGs
+* [Kandinsky2](https://fusionbrain.ai/diffusion) / Unlimited / [Github](https://github.com/ai-forever/ru-dalle) / [Demo](https://rudalle.ru/kandinsky2)
+* [SeaArt](https://www.seaart.ai/) / 150 Daily
+* [GetIMG.ai](https://getimg.ai/) / [Discord](https://discord.com/invite/5KsUXSzVwS) / 100 Monthly
 * [Leonardo.ai](https://app.leonardo.ai/) / 30 Daily
+* [Adobe Firefly](https://firefly.adobe.com/) / 25 Monthly / [Discord](https://discord.com/invite/dJnsV5s8PZ) / Sign-Up Required
 * [AITurbo](https://app.aitubo.ai/) / 25 Daily / [Discord](https://discord.gg/qTu6YsRn7F)
 * [Ideogram](https://ideogram.ai/) / 25 Daily
 * [Artsio](https://artsio.xyz/) / 20 Daily
+* [Maze.guru](https://maze.guru/gallery) / 12 Daily
 * [DreamLike](https://dreamlike.art) / [Discord](https://discord.com/invite/QyGR2FxsKU) / 12 Daily
-* [Kandinsky2](https://fusionbrain.ai/diffusion) / [Github](https://github.com/ai-forever/ru-dalle) / [Demo](https://rudalle.ru/kandinsky2)
-* [Adobe Firefly](https://firefly.adobe.com/) / [Discord](https://discord.com/invite/dJnsV5s8PZ) / Sign-Up Required
-* [Craiyon](https://www.craiyon.com/) / [Github](https://github.com/borisdayma/dalle-mini) / [Colab](https://colab.research.google.com/github/borisdayma/dalle-mini/blob/main/tools/inference/inference_pipeline.ipynb)
-* [Pollinations](https://pollinations.ai/) / [Discord](https://discord.com/invite/8HqSRhJVxn)
-* [Dream by Wombo](https://dream.ai/)
-* [PicFinder](https://picfinder.ai/)
-* [SeaArt](https://www.seaart.ai/)
-* [PixAI](https://pixai.art/)
-* [One More AI](https://onemoreai.flutterflow.app/)
-* [Maze.guru](https://maze.guru/gallery)
-* [ArtHub.ai](https://arthub.ai/)
-* [Vitalentum](https://vitalentum.net/)
-* [POKEIT](https://pokeit.ai/)
+* [Craiyon](https://www.craiyon.com/) / 10 Daily / [Github](https://github.com/borisdayma/dalle-mini) / [Colab](https://colab.research.google.com/github/borisdayma/dalle-mini/blob/main/tools/inference/inference_pipeline.ipynb)
+* [POKEIT](https://pokeit.ai/) / 10 Daily
 * [DeepAI](https://deepai.org/machine-learning-model/stable-diffusion) / [2](https://deepai.org/machine-learning-model/text2img)
-* [Uranus AI](https://uranus.ai/)
-* [Diffuse The Rest](https://huggingface.co/spaces/huggingface-projects/diffuse-the-rest)
 * [Krea](https://search.krea.ai/) / [Discord](https://discord.gg/rJurUAR8Kz)
-* [Prompt Book](https://openart.ai/discovery) / [Discord](https://discord.com/invite/yTMNvk5z97)
-* [PTSearch](https://www.ptsearch.info/tags/list/)
+* [Uranus AI](https://uranus.ai/)
+* [ArtHub.ai](https://arthub.ai/)
+* [PixAI](https://pixai.art/)
+* [Dream by Wombo](https://dream.ai/)
 * [MemeCam](https://www.memecam.io/) - AI Meme Generator
 * [Genie](https://lumalabs.ai/genie), [Shap-e](https://github.com/openai/shap-e), [Stable Dreamfusion](https://github.com/ashawkey/stable-dreamfusion) or [ThreeStudio](https://github.com/threestudio-project/threestudio) - 3D Image Generators
 * [Insta-3D](https://huggingface.co/spaces/ilumine-AI/Insta-3D) - Turn 2D images into 3D spaces
@@ -250,9 +257,8 @@ pare AI Responses
 
 ***
 
-## ▷ Guides / Indexes
+## ▷ SD Guides
 
-* 🌐 **[RentrySD](https://rentry.org/RentrySD/)**, **[Pharmapsychotic](https://pharmapsychotic.com/tools.html)**, [Paper2GUI](https://github.com/Baiyuetribe/paper2gui/blob/main/README_en.md), [LocalModelsLinks](https://rentry.org/LocalModelsLinks), [SD Goldmine](https://rentry.org/sdgoldmine), [Akashic](https://github.com/Maks-s/sd-akashic), [sdg-link](https://rentry.org/sdg-link), [SDTools](https://sdtools.org) or [AI Creation Tools](https://docs.google.com/spreadsheets/d/1zYJUM-srhgIA7wrj4Pe4QqepAsHIEC00DydoTPv4PWg/edit#gid=0) - AI Image Resources
 * ⭐ **[A Traveler’s Guide to the Latent Space](https://sweet-hall-e72.notion.site/A-Traveler-s-Guide-to-the-Latent-Space-85efba7e5e6a40e5bd3cae980f30235f)** - AI Art Guide
 * ⭐ **[Voldy](https://rentry.org/voldy)**, [SD Quickstart](https://redd.it/xvhavo) or [1 Min Stable Diffusion](https://youtu.be/l3JjTDvyVdw) - Stable Diffusion Guides
 * [TheAlly's Guide](https://civitai.com/models/22881/) - Stable Diffusion Guide
@@ -263,8 +269,6 @@ pare AI Responses
 * [The Other](https://rentry.org/59xed3), [DummyLoRA](https://rentry.org/dummylora), [ezlora](https://rentry.org/ezlora), [Dreambooth](https://rentry.org/2chAI_LoRA_Dreambooth_guide_english), [ora_train](https://rentry.org/lora_train) - SD LoRA Guides
 * [SafeTensorsGuide](https://rentry.org/safetensorsguide) - How-to Convert .ckpt to .safetensors
 * [DummyControlNet](https://rentry.org/dummycontrolnet) - ControlNet Guide
-* [Unstable Diffusion](https://discord.com/invite/unstablediffusion) - AI Image Community
-* [/r/sdforall](https://www.reddit.com/r/sdforall/) - Stable Diffusion Subreddit
 
 ***
 
@@ -346,6 +350,7 @@ pare AI Responses
 * ⭐ **[voice-changer](https://github.com/w-okada/voice-changer)** - Realtime Voice Changer
 * [NeuralSVB](https://github.com/MoonInTheRiver/NeuralSVB) - Singing Voice Enhancer
 * [Bark w/ Voice Clone](https://huggingface.co/spaces/kevinwang676/Bark-with-Voice-Cloning) - Voice Cloning
+* [Kits.ai](https://www.kits.ai/) - Voice Cloning
 * [Retrieval-based-Voice-Conversion](https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI)
 * [OpenVoice](https://github.com/myshell-ai/OpenVoice) - Voice Cloning / [Web UI](https://huggingface.co/spaces/myshell-ai/OpenVoice)
 

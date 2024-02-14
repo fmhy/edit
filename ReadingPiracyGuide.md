@@ -880,9 +880,10 @@
 * [FlipHTML5](https://fliphtml5.com/exploring) - Online Reading
 * [Magazine Rack](https://archive.org/details/magazine_rack) - Archive.org
 * [Computer Magazines](https://archive.org/details/computermagazines) - Archive.org
+* [Docutr](https://www.docutr.com/) - VK 
 * [FreePDFMagazine](https://www.freepdfmagazine.com/) - VK 
 * [freemagazines](https://freemagazines.top/) - VK
-* [FreeMagazinePDF](https://freemagazinespdf.com/) - VK 
+* [FreeMagazinePDF](https://freemagazinespdf.com/) - VK
 * [AEBooks](https://aebook.net/) - FileSources
 * [ENMagazine](https://t.me/enmagazine) - Telegram
 * [newspaper_archive](https://t.me/newspaper_archive) - Telegram

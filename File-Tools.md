@@ -119,7 +119,7 @@
 * [ChromaFiler](https://chroma.zone/chromafiler/) - Column-based Windows File Manager
 * [ExplorerPatcher](https://github.com/valinet/ExplorerPatcher) - Improve Windows Explorer
 * [WinFile](https://github.com/microsoft/winfile) - Original Windows File Explorer
-* [Free Commander](https://freecommander.com/), [Q-Dir](https://www.softwareok.com/?seite=Freeware/Q-Dir), [Quick Access Popup](https://www.quickaccesspopup.com/), [One Commander](https://www.onecommander.com/) or [FileExplorer](https://github.com/omeryanar/FileExplorer) - Alternative Windows File Explorers
+*  [One Commander](https://www.onecommander.com/), [Free Commander](https://freecommander.com/), [Q-Dir](https://www.softwareok.com/?seite=Freeware/Q-Dir), [Quick Access Popup](https://www.quickaccesspopup.com/) or [FileExplorer](https://github.com/omeryanar/FileExplorer) - Alt Windows File Explorers
 * [Explorer++](https://explorerplusplus.com/) - Lightweight Windows File Manager
 * [Far Manager](https://www.farmanager.com/) - Windows File / Archive Manager
 * [Total Commander](https://www.ghisler.com/) - Shareware Windows File Manager
@@ -291,9 +291,10 @@
 * [MultiUp](https://multiup.io/), [MirrorAce](https://mirrorace.com/) or [Mirrorcreator](https://www.mirrored.to/) - Multi Host Uploaders
 * [Z-o-o-m](https://z-o-o-m.eu/) - Multi-Host Upload Desktop App
 * [Archive.org](https://archive.org/create/) - Signup Required
-* [send](https://send.vis.ee/) / [instances](https://gitlab.com/timvisee/send-instances)
+* [send](https://send.vis.ee/) / [instances](https://gitlab.com/timvisee/send-instances) - 2.5gb / 1 day
 * [File.cm](https://file.cm/) - 100GB / 30 days / Signup Required
 * [edisk](https://www.edisk.cz/) - 10GB / 30 days
+* [file.kiwi](https://file.kiwi/) - Unlimited / 3.5 Days
 * [easyupload](https://easyupload.io/) - 10GB / 50gb total / 30 days
 * [fastupload](https://fastupload.io/en) - 10GB / 30 days
 * [desiupload](https://desiupload.co/) or [uploadraja](https://uploadraja.com/) - 10GB / 15 days
@@ -346,6 +347,7 @@
 * [new.space](https://new.space/)
 * [file.pizza](https://file.pizza/)
 * [Transfernow](https://www.transfernow.net/en)
+* [Magic Wormhole](https://github.com/magic-wormhole/magic-wormhole)
 * [onionshare](https://onionshare.org/)
 * [Horizon Send](https://send.hrzn.cool/)
 * [OwnCloud](https://owncloud.com/)

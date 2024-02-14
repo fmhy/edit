@@ -11,7 +11,7 @@
 * ⭐ **[QuickRef.me](https://quickref.me/)**, [Dark Hamster](https://www.dark-hamster.com/) or [Devhints](https://devhints.io/) - Developer Cheat Sheets
 * ⭐ **[30 Seconds of Code](https://www.30secondsofcode.org/)**, [SnipIt](https://snipit.io/) or [HTML-Dom](https://phuoc.ng/collection/html-dom/) - Find Code Snippets
 * [Algorithms-Cheatsheet-Resources](https://github.com/starkblaze01/Algorithms-Cheatsheet-Resources) - Code Algorithm Cheat Sheets
-* [Python Cheatsheet](https://github.com/gto76/python-cheatsheet) or [SpeedSheet](https://speedsheet.io/) - Python Cheat Sheet
+* [Python Cheatsheet](https://github.com/gto76/python-cheatsheet) or [SpeedSheet](https://speedsheet.io/) or [python-cheatsheet](https://gto76.github.io/python-cheatsheet/) - Python Cheat Sheets
 * [cppreference](https://en.cppreference.com/w/) - C++ Cheat Sheets
 * [React Typescript Cheatsheet](https://react-typescript-cheatsheet.netlify.app) - React Typescript Cheat Sheets
 * [Regex Hub](https://projects.lukehaas.me/regexhub/) or [IHateRegex](https://ihateregex.io/) - Regex Cheat Sheets
@@ -53,6 +53,7 @@
 * [Interactive Tutorials](https://github.com/ronreiter/interactive-tutorials) - Programming Courses
 * [Learn to Program](https://github.com/karlhorky/learn-to-program) - Programming Courses
 * [FreeCourses](https://freecourses.github.io/) - Programming Courses
+* [Goldfish](https://goldfish-app-5igcw.ondigitalocean.app/) - Programming Courses
 * [LearnByExample](https://learnbyexample.github.io/) - Programming Guides
 * [HelloWorldCollection](http://helloworldcollection.de/) - Hello World Programming Collection
 * [Codecademy](https://www.codecademy.com/) - Coding Lessons 
@@ -121,7 +122,7 @@
 * [backendlore](https://github.com/fpereiro/backendlore) - Backend Coding Guide
 * [backend-challenges](https://github.com/CollabCodeTech/backend-challenges) - Backend Challenges for Practice
 * [Tackling TS](https://exploringjs.com/tackling-ts/toc.html) or [TypeScript Deep Drive](https://basarat.gitbook.io/typescript/getting-started) - TypeScript Guides
-* [TypeHero](https://typehero.dev/) - TypeScript Exercises
+* [TypeHero](https://typehero.dev/) or [Type Challenges](https://github.com/type-challenges/type-challenges) - TypeScript Exercises / Challenges
 * [Learn Next.js](https://nextjs.org/learn) / [Egghead](https://egghead.io/q/next) / [Production-Grade Next.js](https://frontendmasters.com/courses/production-next/) / [Learn by Examples](https://github.com/vercel/next.js/tree/canary/examples) - Next.js Learning Resources
 * [Node.js Best Practices](https://github.com/goldbergyoni/nodebestpractices) - Node.js Style Guide
 * [LandChad](https://landchad.net/) or [learn.sadgrl.online](https://learn.sadgrl.online/) - Site Development Guides
@@ -555,6 +556,7 @@
 * ↪️ **[Free DNS Servers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_free_dns_servers)**
 * ↪️ **[Domain Info Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_domain_info_tools)**
 * ⭐ **[Offshore.CAT](https://offshore.cat/)** - DMCA Ignoring Hosting List
+* ⭐ **[Check-Host](https://check-host.net/)**, [StatPing](https://github.com/statping/statping), [Uptime](https://betterstack.com/uptime), [Uptime Kuma](https://github.com/louislam/uptime-kuma), [AreWeDown?](https://github.com/shukriadams/arewedown), [UptimeRobot](https://uptimerobot.com/) or [24x7](https://www.site24x7.com/tools.html) - Site Uptime Monitors
 * [GoodBadISPs](https://gitlab.torproject.org/legacy/trac/-/wikis/doc/GoodBadISPs) - Best ISPs for Tor Hosting
 * [Server Hunter](https://www.serverhunter.com/) - Search / Compare Servers
 * [Sentora](https://sentora.org/) - Web Hosting Control Panel
@@ -572,8 +574,7 @@
 * [takingnames](https://takingnames.io/blog/instant-subdomains), [GetFreeDomain](https://www.getfreedomain.name/) or [EU.org](https://nic.eu.org/) / [2](https://nic.ua/en/domains/.pp.ua) - Free Subdomains 
 * [TheDev](https://thedev.id/) - Free Developer Subdomains
 * [redirect.name](https://redirect.name/) - URL Forwarding
-* [StatPing](https://github.com/statping/statping), [checkthe.website](https://checkthe.website/), [Uptime](https://betterstack.com/uptime), [CheckServer](https://check-host.net/), [Uptime Kuma](https://github.com/louislam/uptime-kuma), [AreWeDown?](https://github.com/shukriadams/arewedown), [UptimeRobot](https://uptimerobot.com/) or [24x7](https://www.site24x7.com/tools.html) - Site Uptime Monitors
-* [UseMe](https://useme.org/) or [PingDom](https://tools.pingdom.com) - Ping Website
+* [PingDom](https://tools.pingdom.com) - Ping Website
 * [Hitch](https://hitch-tls.org/) - SSL / TLS Proxy
 * [Let's Encrypt](https://letsencrypt.org/) - Free TLS Certificates
 * [SSL for Free](https://www.sslforfree.com/) or [ZeroSSL](https://zerossl.com/) - Free SSL Certificates
@@ -998,7 +999,7 @@
 * [OctoLinker](https://octolinker.vercel.app/) - Make GitHub Code References Clickable
 * [Octotree](https://www.octotree.io/) - GitHub Repo File Tree View
 * [Nightly.link](https://nightly.link/) - GitHub Sharable Nightly Links
-* [ActionFlow](https://actionsflow.github.io/) - Workflow Automation
+* [ActionFlow](https://actionsflow.github.io/) or [N8N](https://n8n.io/) - Workflow Automation
 * [shot-scraper-template](https://github.com/simonw/shot-scraper-template) - Take Automated Screenshots of Web Pages
 * [Star History](https://star-history.com/) - Repository Star History Graph
 * [Gitstar Ranking](https://gitstar-ranking.com/) - Git Repo Star Rankings
@@ -1094,6 +1095,7 @@
 * [0xacab](https://about.0xacab.org/) - Code Host
 * [Mockaroo](https://mockaroo.com/) - Generate Mock Data
 * [OneLang IDE](https://ide.onelang.io/) - Convert Code to Multiple Languages
+* [RTutor](https://rtutor.ai/) - Translate Natural Language to R code
 * [Autosaved](https://github.com/nikochiko/autosaved) - Autosave Code / [GitHub](https://github.com/tkellogg/dura)
 * [Tasuku](https://github.com/privatenumber/tasuku) - Node.js Task Runner
 * [OctoLinker](https://octolinker.vercel.app/) - Turn Code Statements into Links / [GitHub](https://github.com/OctoLinker/OctoLinker)
@@ -1145,7 +1147,7 @@
 * [sed.js](https://sed.js.org/) - GNU sed Live Editor
 * [asdf](https://asdf-vm.com/) - Multi-Runtime Management CLI
 * [The SHA-256 Project](https://github.com/oconnor663/sha256_project) - Develop SHA-256 from Scratch
-* [Sourcegraph](https://sourcegraph.com/), [SeaGOAT](https://github.com/kantord/SeaGOAT) or [Ag](https://geoff.greer.fm/ag/) / [GitHub](https://github.com/ggreer/the_silver_searcher) - Code Searching
+* [Sourcegraph](https://sourcegraph.com/search), [SeaGOAT](https://github.com/kantord/SeaGOAT) or [Ag](https://geoff.greer.fm/ag/) / [GitHub](https://github.com/ggreer/the_silver_searcher) - Code Searching
 * [CodeGrepper](https://www.grepper.com/) - Code Search Extension
 * [searchcode](https://searchcode.com/) or [PublicWWW](https://publicwww.com/) - Source Code Search
 * [Sourcecodester](https://www.sourcecodester.com/), [Code Projects](https://code-projects.org/), [Codastro](https://codeastro.com/), [Kashipara](https://www.kashipara.com/) or [ItSourceCode](https://www.itsourcecode.com/) - Source Code Projects
@@ -1233,8 +1235,9 @@
 * [Blackbox](https://www.blackbox.ai/) - Coding AI
 * [CollectivAI](https://chat.collectivai.com/) - Coding AI
 * [Denigma](https://denigma.app/#demo) - Coding AI
+* [Codacy](https://www.codacy.com/) or [AI Code Review](https://ai-code-reviewer.com/) - Code Fixing AIs
 * [v0](https://v0.dev/) - Text to Site Code
-* [AI Code Translator](https://ai-code-translator.vercel.app/) or [Source Code Converters](https://www.tangiblesoftwaresolutions.com/) - Code Converters
+* [AI Code Translator](https://ai-code-translator.vercel.app/), [AI Code Convert](https://aicodeconvert.com/) or [Source Code Converters](https://www.tangiblesoftwaresolutions.com/) - AI Code Converters
 * [GPT Engineer](https://github.com/AntonOsika/gpt-engineer) - AI Code Generator
 * [Gorilla](https://github.com/ShishirPatil/gorilla) - API to Code LLM
 
@@ -1278,7 +1281,7 @@
 * [Graviton](https://graviton.netlify.app/) - Code Editor
 * [BBEdit](https://www.barebones.com/) - Code Editor
 * [ecode](https://github.com/SpartanJ/ecode) - Code Editor
-* [Acode](https://github.com/deadlyjack/Acode) - FOSS Android Code Editor
+* [Acode](https://github.com/deadlyjack/Acode), [Sora](https://github.com/Rosemoe/sora-editor) or [Squircle-CE](https://github.com/massivemadness/Squircle-CE) - Android Code Editors
 * [Apache NetBeans](https://netbeans.apache.org/), [KDevelop](https://www.kdevelop.org/), [Lazarus](https://www.lazarus-ide.org/) or [OpenShift](https://developers.redhat.com/products/openshift-dev-spaces/overview) - Cross Platform IDEs
 * [RoslynPad](https://roslynpad.net/) - C# Editor
 * [DotNetFiddle](https://dotnetfiddle.net/) - C# Compiler
@@ -1501,7 +1504,7 @@
 * [LLM Training](https://rentry.org/llm-training) - LLM Training Guide
 * [TeachableMachine](https://teachablemachine.withgoogle.com/) or [TensorFlow](https://www.tensorflow.org/) - Create Machine Learning Models
 * [OpenAIPlayground](https://github.com/nat/openplayground) - LLM Playground
-* [infermatic](https://infermatic.ai/) - Run LLMs Online / [Discord](https://discord.gg/9GUXmDx9GF)
+* [infermatic](https://infermatic.ai/) / [Discord](https://discord.gg/9GUXmDx9GF) or [lollms-webui](https://github.com/ParisNeo/lollms-webui) - Run LLMs Online
 * [DVC](https://dvc.org/) - Machine Learning Version Control
 * [DeepSpeed](https://github.com/microsoft/DeepSpeed) - Deep Learning Optimization Library
 * [FlowiseAI](https://flowiseai.com/) - LLM Flow Visualization

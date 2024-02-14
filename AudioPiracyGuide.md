@@ -6,7 +6,7 @@
 # ► Spotify Clients
 
 * ⭐ **[Spotify Desktop](https://www.spotify.com/us/download/)**
-* [SpoTube](https://spotube.netlify.app/), [2](https://spotube.krtirtho.dev/) - Lightweight / Ad-Free Client
+* [SpoTube](https://spotube.netlify.app/), [2](https://spotube.krtirtho.dev/) - Lightweight / Ad-Free Client / [GitHub](https://github.com/KRTirtho/spotube)
 * [Lofi Rocks](https://www.lofi.rocks/) - Tiny / Minimal Client
 * [Spotify Web Client](https://open.spotify.com/) / [Adblocker](https://gist.github.com/Simonwep/24f8cdcd6d32d86e929004013bd660ae) / [Mute Ads](https://github.com/guihkx/spotishush) / [Customize](https://github.com/Darkempire78/Spotify-Customizer) / [Lyrics](https://github.com/mantou132/Spotify-Lyrics)
 
@@ -61,7 +61,7 @@
 * [spotify_sync](https://github.com/jbh-cloud/spotify_sync) - Direct Downloader
 * [OnTheSpot](https://github.com/casualsnek/onthespot) - Direct Downloader
 * [SpotifyDown](https://spotifydown.com/) - Direct Downloader
-* [Zotify](https://zotify.xyz/) - Direct Downloader
+* [Zotify](https://zotify.xyz/) - Direct Downloader / [Discord](https://discord.gg/Arpx9hunkm)
 * [FreyrJS](https://github.com/miraclx/freyr-js) - Direct Downloader
 * [Savify](https://github.com/LaurenceRawlings/savify) - YT Downloader
 * [Spotify-DL](https://github.com/SathyaBhat/spotify-dl) - YT Downloader
@@ -74,6 +74,7 @@
 * [Spotify_downloa_bot](https://t.me/Spotify_downloa_bot) - Telegram Bot
 * [Music_Downloader_Bot_Spotify](https://t.me/Music_Downloader_Bot_Spotify) - Telegram Bot
 * [Motreeb](https://t.me/motreb_downloader_bot) - Telegram Bot
+* [spotify_down_bot](https://t.me/spotify_down_bot) - Telegram Bot
 * [telegvc_bot](https://t.me/telegvc_bot) - Telegram Bot
 * [spotifydownloadrobot](https://t.me/spotifydownloadrobot) - Telegram Bot
 * [spotifysavebot](https://t.me/spotifysavebot) - Telegram Bot
@@ -115,6 +116,7 @@
 * [Mixing.dj](https://mixing.dj/) - DJ Mixes
 * [OldSkoolMP3](https://oldskoolmp3.com/OldSkool/) - Oldschool Electronic
 * [Vapor Archive](https://vaporarchive.neocities.org/) - Vaporwave
+* [Keygen Music](https://keygenmusic.tk/) - Keygen Music
 * [hypem](https://hypem.com/popular) - Rising
 * [datpiff](https://www.datpiff.com/) - Mixtapes
 * [CitizenFreak](https://citizenfreak.com/) - Canadian Music
@@ -131,7 +133,6 @@
 * [/r/PluggnB](https://www.reddit.com/r/PluggnB/) - User-Made PluggnB Songs
 * [Musico](https://www.musi-co.com/listen/) - AI Generated Songs
 * [BitMidi](https://bitmidi.com/) - Stream / Download MIDI Files
-* [keygenmusic.tk](https://keygenmusic.tk/) - Keygen Music
 * [Tasso Music](https://www.tassomusic.org/) - Early Modern Music
 * [i78s](https://i78s.org/), [UCSB Cylinders](https://cylinders.library.ucsb.edu/index.php), [CLPGS](https://www.clpgs.org.uk/), [Tinfoil](http://www.tinfoil.com/) or [Archeophone](https://www.archeophone.org/windex.php) - Phonograph / Gramophone Recordings
 * [FirstSounds](https://www.firstsounds.org/) - Oldest Music Recordings
@@ -588,6 +589,7 @@
 * [Online Mic Test](https://onlinemictest.com/), [Mic Tests](https://mictests.com/) or [Check Mic](https://webcammictest.com/check-mic.html) - Mic Test
 * [Sound Meter](https://mybrowseraddon.com/sound-meter.html) or [REW](https://www.roomeqwizard.com) - Measure Surrounding Sound Level
 * [Krisp](https://krisp.ai/) or [noise-suppression-for-voice](https://github.com/werman/noise-suppression-for-voice) - Noise Suppression Tools
+* [AI-coustics](https://ai-coustics.com/) - Voice Clarity Enhancement AI
 * [mp4grep](https://github.com/o-oconnell/mp4grep) - Audio Transcribing
 * [AirPods Dirty Secret](https://docs.kenp.io/) - AirPods Repair Directory
 * [Musicara](https://www.musicara.ml/) or [X-Minus](https://x-minus.pro/) - Create Karaoke Songs

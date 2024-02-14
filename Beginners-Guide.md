@@ -14,7 +14,7 @@ Check out the [Booty Guard](https://rentry.org/bootyguard), our basic safety gui
 You will find almost all terms related to piracy and more in [The Piracy Glossary](https://rentry.org/the-piracy-glossary). Didn't find what you're looking for or still confused? Reach out to us via [Discord](https://discord.gg/5W9QJKuPkD).
 
 > How can I download Photoshop / Adobe Products for free?
-You can download pre-cracked Adobe products from [M0nkrus](https://w14.monkrus.ws/) by following [this guide](https://rentry.co/adobesoftware). Alternatively, you could patch them yourself by following [these guides](https://www.reddit.com/r/GenP/wiki/index/).
+You can download pre-cracked Adobe products from [M0nkrus](https://w14.monkrus.ws/) by following [this guide](https://rentry.co/adobesoftware). Alternatively, you could patch them yourself by following [these guides](https://www.reddit.com/r/GenP/wiki/index/) / [2](https://genpguides.github.io/).
 !!!info M0nkrus is a well-trusted and reputable source for Adobe software in the piracy community. 
 
 > How can I download / activate Windows or Microsoft Office for free?
@@ -86,7 +86,7 @@ Use [this](https://bitbucket.org/magnolia1234/bypass-paywalls-firefox-clean/src/
 **[Twitch Adblockers](https://fmhy.net/social-media-tools#twitch-adblockers)** - Block Twitch ads
 **[Redirect Skippers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25B7_redirect_bypass)** - Bypass redirect sites
 
-!!!Note Don't run multiple general adblockers like ublock and adblock plus at the same time. Running more than one can cause breakage. This only applies to general adblockers, so running things like ublock and sponsorblock at the same time is fine.
+!!!note Don't run multiple general adblockers like ublock and adblock plus at the same time. Running more than one can cause breakage. This only applies to general adblockers, so running things like ublock and sponsorblock at the same time is fine.
 
 ***
 

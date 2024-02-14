@@ -184,6 +184,7 @@
 * [UniversalDynamicInput]( https://github.com/Venomalia/UniversalDynamicInput) - Custom Dolphin Button Pack
 * [RPCS3 Setup Guide](https://docs.google.com/document/d/1gdjNab-CtVS97jH2diPPP5tCrpBeof9-qPIRRB9-BrU/edit) - RPCS3 Emulator Setup Guide
 * [PCSX-Redux](https://github.com/grumpycoders/pcsx-redux) - PSCX Development Emulator
+* [Modernized PCSX2 Settings](https://mega.nz/folder/WdNAlY5Z#K6PmrQFyDm2k7BEV8KoAmg) - Premade PCSX2 Settings
 * [TeknoParrot](https://teknoparrot.com/) - Modern Arcade Client
 * [FightCade](https://www.fightcade.com/), [OpenBOR](https://github.com/DCurrent/openbor) or [Mugen](https://mugenarchive.com/forums/downloads.php?do=cat&id=39-mugen-builds) - Fighting Game Emulators
 * [ScummVM](https://www.scummvm.org/) - Classic Graphical Adventure Game Engines
@@ -359,6 +360,7 @@
 * [watabou](https://watabou.itch.io/) - Browser Games
 * [GameKB](https://www.gamekb.com/) - Browser Games
 * [DAN-BALL](https://dan-ball.jp/en/) - Browser Games
+* [CoolMathGames](https://www.coolmathgames.com/) - Browser Game Site (disguised as edu games)
 * [Spatial](https://www.spatial.io/) - 3D Browser Games
 * [Flash by Night](http://flashbynight.com/), [FlashMuseum](https://flashmuseum.org/), [FlashGamesArchive](http://www.flashgamearchive.com/playable/), [Flash Arch](https://flasharch.com/en) or [AlbinoBlackSheep](https://www.albinoblacksheep.com/games/) - Flash Games
 * [Arcade Prehacks](https://www.arcadeprehacks.com/), [SamsHackedGames](https://www.samshackedgames.com/) or [KongHack](https://konghack.com/) - Flash Game Hacks
@@ -847,6 +849,7 @@
 * [Co-Optimu](https://www.co-optimus.com/), [Squad Games](https://www.squadd.games/) or [PlayCo-opGame](https://playco-opgame.com/) - Co-Op Game Databases
 * [SvenEvils Playground](https://store.steampowered.com/curator/8485829/) or [Local Multiplayer List](https://docs.google.com/spreadsheets/d/14f6qS2GJy8C-b40Df3dNH_aZq7WfZ4jMggzEajUrX0w/) - Local Multiplayer Game Database
 * [HOTU](https://www.homeoftheunderdogs.net/) - Rare Game Database
+* [Delisted Games](https://delistedgames.com/) - Delisted Games Database
 * [GameClassification](https://gameclassification.com/) - Search Games by Classifications
 * [MoreGamesLike](https://www.moregameslike.com/) or [Games Like Finder](https://gameslikefinder.com/) - Find Similar Games
 * [Random Game Bookmark Script](https://pastebin.com/JtmBQZbL) - Find Random Games
@@ -878,6 +881,7 @@
 * [Save Game World](https://www.savegameworld.com/), [savegamedownload](https://www.savegamedownload.com/), [yoursavegames](https://www.yoursavegames.com/), [savesforgames](https://savesforgames.com/), [savegamefiles](https://www.savegamefiles.com/), [savegame-download](https://savegame-download.com/) or [savegame](https://savegame.pro/) - PC Game Save Downloads
 * [Save Editor Online](https://www.saveeditonline.com/) - Game Save Editor
 * [CyberCAT-SimpleGUI](https://github.com/Deweh/CyberCAT-SimpleGUI) - Cyberpunk 2077 Save Editor
+* [Anadius](https://rentry.co/FMHYBase64#anadius) - Sims 4 DLC Unlocker
 * [Kirigiri's Palword](https://rentry.co/FMHYBase64#kirigiris-palword) - Palworld Releases
 * [Palworld Host Save Fix](https://github.com/xNul/palworld-host-save-fix) - Palworld Save Bug Fix
 * [The Models Resource](https://www.models-resource.com/) - Game Models

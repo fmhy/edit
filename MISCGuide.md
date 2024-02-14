@@ -35,6 +35,7 @@
 * [Pixelated Pathways](https://rentry.org/Pixelated_Pathways), [Delightful Creative Tools](https://codeberg.org/ADHDefy/delightful-creative-tools), [The More You Know](https://marckoxx.github.io/), [Size of Cat](https://sizeof.cat/links/), [RefDesk](https://www.refdesk.com/facts.html), [Cool Websites](https://rentry.co/cool_websites), [iBiblio](https://www.ibiblio.org/) or [5000 Best](http://5000best.com/websites/) / [Tools](http://5000best.com/tools/) - Site / Tool Indexes
 * [itch.io Tools](https://itch.io/tools/free) - Tool Index
 * [num's link list](https://soda.privatevoid.net/num/links/) - Site Index
+* [ODP](http://odp.org/) - Site Index
 * [Simple Tools](https://simpletools.info/doku.php) - Simple Programs Index 
 * [Appscope](https://appsco.pe/), [findPWA](https://findpwa.com/), [SaaS Discovery](https://saasdiscovery.com/), [Electron](https://www.electronjs.org/apps) - Web App Indexes
 * [SmartLinks](https://smartlinks.org/index.html) - Website Directory
@@ -123,7 +124,9 @@
 * [Dish Dragon AI](https://www.dishdragon.ai/) - Find Ingredients That Go Well Together
 * [Cheese.com](https://cheese.com/) - Cheese Resources
 * [AmazingRibs](https://amazingribs.com/) - Rib Recipes
-* [The Bread Code Manifesto](https://github.com/hendricius/the-sourdough-framework) - Bread Baking Recipes 
+* [The Bread Code Manifesto](https://github.com/hendricius/the-sourdough-framework) - Bread Baking Recipes
+* [Tea Guide](https://pastebin.com/raw/80GeeXJV) - Tea Guide Masterlist
+* [Coffee Guide](https://pastebin.com/raw/UEzwuyLz) - Coffee Guide Masterlist
 * [Coffee or Bust!](https://www.coffeeorbust.com/) - Coffee-Making Guides
 * [NahBucks](https://nahbucks.com/) - Find Local Non-Starbucks Coffee Shops
 * [Coffee Flavor Wheel](https://notbadcoffee.com/flavor-wheel-en/) - Interactive Coffee Flavor Wheel
@@ -328,7 +331,7 @@
 * ⭐ **[/m/news](https://www.reddit.com/user/nbatman/m/news/)** - News Multireddit
 * ⭐ **[PublicAlerts](https://google.org/publicalerts)** - Important News / Disaster Alerts
 * ⭐ **[TorrentFreak](https://torrentfreak.com/)** / [Telegram](https://t.me/torrentfreaks) - Piracy News
-* ⭐ **[Good News Network](https://www.goodnewsnetwork.org/)** - Uplifting News
+* ⭐ **[Good News Network](https://www.goodnewsnetwork.org/)** or [Happy Daze](https://happydaze.io/) - Uplifting News
 * ⭐ **[JAMA Network](https://jamanetwork.com/)** - Health News
 * ↪️ **[Newspaper Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/reading#wiki_.25B7_newspapers)**
 * ↪️ **[Bypass Article Paywalls](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_read_paywalled_articles)**
@@ -361,7 +364,7 @@
 
 ## ▷ Aggregators
 
-* ⭐ **[BoringReport](https://www.boringreport.org/)**, [NewsNow](https://www.newsnow.co.uk/), [Google News](https://news.google.com/) / [HTML](http://68k.news/), [Readspike](https://readspike.com/), [sumi.news](https://sumi.news/), [Upstract](https://upstract.com/) or [AllTop](https://alltop.com/) - Misc News
+* ⭐ **[BoringReport](https://www.boringreport.org/)**, [NewsNow](https://www.newsnow.co.uk/), [Google News](https://news.google.com/) / [HTML](http://68k.news/), [Readspike](https://readspike.com/), [sumi.news](https://sumi.news/), [NewsCord](https://newscord.org/), [Upstract](https://upstract.com/) or [AllTop](https://alltop.com/) - Misc News
 * ⭐ **[QotNews](https://news.t0.vc/)** - Hacker News / Reddit / Lobsters / Tildes
 * ⭐ **[Anime Blog Tracker](https://aniblogtracker.com/)** - Anime News Blogs
 * [RealClearPolitics](https://www.realclearpolitics.com/), [Ground News](https://ground.news/), [SPIDR](https://spidr.today/) or [LegibleNews](https://legiblenews.com/) - Political News / World Events
@@ -897,7 +900,7 @@
 * ↪️ **[To-Do Lists](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools#wiki_.25B7_to_do_lists)**
 * ⭐ **[Super-Productivity](https://github.com/johannesjo/super-productivity)** - Time Tacker / Productivity App / To-Do List
 * ⭐ **[Timeblocking](https://timeblocking.atomiclife.app/)** - Online Atomic Time Blocking 
-* [Cold Turkey](https://getcoldturkey.com/) - Site Blocker / Productivity App / [Premium](https://rentry.co/FMHYBase64#cold-turkey-premium)
+* [Cold Turkey](https://getcoldturkey.com/) - Site Blocker / Productivity App / [Premium (use python)](https://rentry.co/FMHYBase64#cold-turkey-premium)
 * [Tempus](https://tempus.keziahmoselle.fr/) - Tray Break Reminders / Time Tracker
 * [ActivityWatch](https://activitywatch.net/) - Device / App Time Tracker / [Extensions](https://github.com/ActivityWatch/aw-watcher-web)
 * [ProcrastiTracker](https://strlen.com/procrastitracker/) - Device / App Time Tracker
@@ -1157,6 +1160,7 @@
 * [Kalmany](https://www.kalmany.org/) - Mock Elections
 * [Talksmi](https://talksmi.com/) - Conversation Ideas
 * [Pros 'n Cons](https://pros-cons.io/) or [Moral Machine](https://www.moralmachine.net/) - Decision-Making AIs
+* [Rank a Day](https://rankaday.com/) - Random Daily Topic Voting
 * [Absurd Trolley Problems](https://neal.fun/absurd-trolley-problems/) - Vote on Different Trolley Problem Versions
 * [WhereShouldILive?](https://www.whereshouldilive.co/) - Find Out Where You Should Live
 * [Chirper](https://chirper.ai/) - AI Generated Twitter

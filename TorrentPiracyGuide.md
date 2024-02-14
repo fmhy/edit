@@ -104,6 +104,7 @@
 * ⭐ **[snowfl](https://snowfl.com/)** 
 * ⭐ **[Knaben](https://knaben.eu/)**
 * ⭐ **[SolidTorrents](https://solidtorrents.to/)**
+* ⭐ **[Torrentz2](https://torrentz2.nz/)**
 * [iDope](https://idope.se)
 * [Bitsearch](https://bitsearch.to/)
 * [Torrent Finder](https://torrent-finder.com/)
