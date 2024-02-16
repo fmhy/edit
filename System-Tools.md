@@ -140,6 +140,7 @@
 * 🌐 **[VPS Comparison Chart](https://lowendstock.com/)** - VPS Comparisons
 * ⭐ **[RustDesk](https://rustdesk.com/)** / [GitHub](https://github.com/rustdesk/rustdesk)
 * ⭐ **[Parsec](https://parsec.app/)**
+* [AnyDesk](https://anydesk.com/)
 * [Ammyy](https://www.ammyy.com/en/)
 * [FreeRDP](https://www.freerdp.com/)
 * [Myrtille](https://cedrozor.github.io/myrtille/)
