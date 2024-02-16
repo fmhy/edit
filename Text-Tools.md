@@ -126,7 +126,7 @@
 
 ## ▷ Text Rephrasing
 
-* ⭐ **[QuillBot AI](https://quillbot.com/)** - Text Rephrasing / [Token](https://pastebin.com/ezkjxWd1)
+* ⭐ **[QuillBot AI](https://quillbot.com/)** - Text Rephrasing / [Token](https://rentry.co/FMHYBase64#quilbot-token)
 * ⭐ **[paraphrasetool](https://paraphrasetool.com/)** - Text Rephrasing
 * [Just Not Sorry](https://justnotsorry.com/) - Undermining Word Detection
 * [Rewrite Tool](https://rewritetool.net/) - Text Rephrasing
