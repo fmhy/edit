@@ -27,7 +27,6 @@
 * [Ask4Movies](https://ask4movie.li/) - Movies / TV / 1080p / Use Adblock / [Script](https://pastebin.com/uJUc5ah5)
 * [SmashyStream](https://embed.smashystream.com/) - Movies / TV / Anime / 1080p / [Telegram](https://t.me/+vekZX4KtMPtiYmRl)
 * [Seez](https://seez.su/), [2](https://flixerplus.com/) - Movies / TV / 1080p
-* [cinehub.wtf](https://cinehub.wtf) - Movies / TV / 1080p
 * [Cinetide](https://cinetide.glitch.me/browse.html) - Movies / TV / Anime / 1080p
 * [AnyMovie](https://anymovie.cc/) - Movies / TV / 4K / 1080p
 * [MovieScene](https://moviescene.cc/) - Movies / TV / 1080p
