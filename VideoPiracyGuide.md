@@ -8,6 +8,7 @@
 
 ## ▷ Multi Server
 
+* ⭐ **[FlixHQ.live](https://flixhq.live/)** - Movies / TV / 1080p / No Ads
 * ⭐ **[movie-web](https://movie-web.app/)** - Movies / TV / 4K / 1080p / [Proxy Fix (Important)](https://movie-web.app/onboarding) / [Discord](https://discord.gg/vXsRvye8BS)
 * ⭐ **[watch.lonelil](https://watch.lonelil.com/)**, [2](https://12131989.xyz/) - Movies / TV / Anime / 4K / 1080p / [Proxy Fix (Important)](https://watch.lonelil.com/onboarding) / [Discord](https://discord.com/invite/BKts6Jb5sA)
 * ⭐ **[Braflix](https://www.braflix.app/)** - Movies / TV / Anime / 4K / 1080p / [Discord](https://discord.gg/wWKmxARaWH)
