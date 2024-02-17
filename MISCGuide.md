@@ -691,6 +691,7 @@
 * [AcronymCreator](https://acronymcreator.net/) - Business Acronym Generator
 * [Business Card Generator](https://business-card-generator.vercel.app/) - Business Card Generator
 * [Recrooit](https://app.recrooit.com/job-description-generator) - Job Description Generator
+* [AvaDocs](https://www.avodocs.com/) - Generate Legal Documents for Startups
 
 ***
 
