@@ -140,6 +140,7 @@
 * [dialo](https://dialo.app/)
 * [linkr](https://linkr.com/)
 * [omg.lol](https://home.omg.lol/)
+* [LittleLink](https://littlelink.io/) - Self-Hosted
 * [Dashy](https://dashy.to/) / [GitHub](https://github.com/lissy93/dashy), [Homepage](https://github.com/benphelps/homepage), [Flame](https://github.com/pawelmalak/flame) or [Homer](https://github.com/bastienwirtz/homer) - Home Server Startpages
 
 ***
@@ -264,6 +265,7 @@
 * [Kutt](https://kutt.it/) - `kutt.it/sQnBLz`
 * [wal.ee](https://wal.ee/) - `wal.ee/zluqo`
 * [n9.cl](https://n9.cl/) - `n9.cl/6gjfj`
+* [upto](https://upto.site/) - `upto.site/3e04d1`
 * [xy2.eu](https://xy2.eu/) - `xy2.eu/p7YP`
 * [goo.su](https://goo.su/) - `goo.su/7pNRjy7` / [Extension](https://chromewebstore.google.com/detail/free-link-shortener-goosu/clcoifeibkncgnegebeehkodandleohn)
 * [tny.im](https://tny.im) - `tny.im/rw-`
