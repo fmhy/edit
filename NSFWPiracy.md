@@ -265,6 +265,7 @@
 * [MissingToofff](https://missingtoofff.com/) - OnlyFans Leak Site List
 * [Thothub](https://thothub.to/), [2](https://thothub.is/) - OnlyFans
 * [OF-Scraper](https://github.com/datawhores/OF-Scraper) or [OF-DL](https://github.com/sim0n00ps/OF-DL) - OnlyFans Scrapers
+* [VixenLeaks](https://vixenleaks.com/) - OnlyFans / Patreon
 
 ***
 
@@ -549,6 +550,7 @@
 * [BLCollection](https://blcollection.co/) - Boys Love Manga
 * [Nifty](https://www.nifty.org/nifty/) - LGBT / Fictional
 * [FictionMania](https://fictionmania.tv/) - Transgender / Fictional
+* [TransVids](https://transvids.wtf/) - OnlyFans / Patreon
 
 ***
 
