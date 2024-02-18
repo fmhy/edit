@@ -1082,6 +1082,7 @@ http://104.131.175.196:8080/, http://70.88.180.169:8088/, http://207.237.122.161
 * https://t.me/yourlibraries
 * https://t.me/Dao_Qigong_Taiji_TCM_ebooks
 * https://t.me/lib_of_dos_old_vk
+* https://t.me/ktphnme (Turkish)
 * [More Telegram eBook Channels](https://duckduckgo.com/?q=site%3At.me+books&ia=web)
 
 ***
