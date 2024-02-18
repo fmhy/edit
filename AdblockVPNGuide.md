@@ -142,6 +142,7 @@
 * [Antivirus Removal Tool](https://antivirus-removal-tool.com/) - Antivirus Software Removal Tool
 * [Malware Search+++](https://addons.mozilla.org/en-US/firefox/addon/malware-search-plusplusplus/) - Malware Search Extension 
 * [Malware Analysis Search](https://cse.google.com/cse?cx=011750002002865445766%3Apc60zx1rliu)
+* [The Second Opinion](https://rentry.co/thesecondopinion) - Compiled Portable Malware Scanner/Removal tools
 
 ***
 
