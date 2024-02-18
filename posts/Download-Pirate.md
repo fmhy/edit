@@ -15,7 +15,7 @@ For those of you who don't know, the VFX site Download Pirate was removed by /r/
 
 To test this we downloaded it and [checked the checksum](https://ibb.co/Q69K1pG) of each of the files compared to m0nkrus, and they match exactly. Its hard to say what happened to OP, but it seems pretty likely that they got the trojan from something other than Download Pirate.
 
-If someone has a virustotal scan, or some sort of proof Download Pirate is malicious please [let us know](https://redd.it/1atkloc). We've removed them for now to be safe, but if no one comes forward with evidence within the next few days, I don't think its fair to call them unsafe.
+If someone has a virustotal scan, or some sort of proof Download Pirate is malicious please [let us know](https://redd.it/1atkloc).
 
 *** 
 
@@ -35,4 +35,4 @@ If someone has a virustotal scan, or some sort of proof Download Pirate is malic
 
 **update 2** - We just scanned all of the [patched files](https://ibb.co/h1tg7PH) in virustotal and they came back clean too, so this is unlikely to have malware unless its hidden really well within the ISO. OP either got malware from an ad on the file host or already had the trojan before installing Acrobat.
 
-I'm still open to new evidence if someone comes forward with it, but for now I can't find any reason to think they're malicious so we're going to add them back to FMHY. The version OP downloaded is v23.8.20421 from 1cloudfile if someone wants to check it themselves.
+We're still open to new evidence if someone comes forward with it, but for now we can't find any reason to think they're malicious so we're going to keep them in FMHY.  The version OP downloaded is v23.8.20421 from 1cloudfile if someone wants to check it themselves.
