@@ -9,6 +9,8 @@ sidebar: false
 footer: true
 ---
 
+### Our stance on Download Pirate
+
 For those of you who don't know, the VFX site Download Pirate was removed by /r/Piracy and placed in their unsafe list following this [thread](https://redd.it/1aswsl7). According to the post, OP downloaded Adobe Acrobat and got a pretty nasty trojan. 
 
 To test this we downloaded it and [checked the checksum](https://ibb.co/Q69K1pG) of each of the files compared to m0nkrus, and they match exactly. Its hard to say what happened to OP, but it seems pretty likely that they got the trojan from something other than Download Pirate.
