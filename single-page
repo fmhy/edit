@@ -33,12 +33,11 @@ Emoji Legend:
 * [Windows-11-Guide](https://github.com/mikeroyal/Windows-11-Guide), [Pastas](https://rentry.org/pastas#guides), [Eleven Forums Guides](https://www.elevenforum.com/tutorials/) or [Ten Forums Guides](https://www.tenforums.com/tutorials/) - Windows Guides
 * [NanaRun](https://github.com/M2Team/NanaRun) - System Admin Tools
 * [Übersicht](https://tracesof.net/uebersicht/) - System Command Widgets
-* [SmartWindows](https://smartwindows.app/) - Create / Restore Windows Profiles
 * [PolicyPlus](https://github.com/Fleex255/PolicyPlus) - Local Group Policy Editor
 * [PowerPlanSwitcher](https://www.microsoft.com/en-us/p/powerplanswitcher/9nblggh556l3) - Quickly Change Power Schemes
 * [Scheduler](https://www.splinterware.com/products/scheduler.html) or [TaskRunner](https://www.keyefficiency.com/) - System Task Scheduler
 * [Process Explorer](https://learn.microsoft.com/en-us/sysinternals/downloads/process-explorer) or [Process Hacker](https://processhacker.sourceforge.io/) - Process Monitors
-* [SuperF4](https://stefansundin.github.io/superf4/), [KillProcess](https://www.tgmdev.be/applications/killprocess/killprocess.php) or [FKill](https://github.com/sindresorhus/fkill-cli) - Process Killers
+* [SuperF4](https://stefansundin.github.io/superf4/) or [FKill](https://github.com/sindresorhus/fkill-cli) - Process Killers
 * [Dependencies](https://github.com/lucasg/Dependencies) - View Application Dependencies
 * [RegExp](https://github.com/zodiacon/TotalRegistry), [ripgrep-all](https://github.com/phiresky/ripgrep-all) or [Registry-Finder](https://registry-finder.com/) - Registry Explorers
 * [WinbIndex](https://winbindex.m417z.com/) - Windows System Files / Binaries
@@ -63,8 +62,6 @@ Emoji Legend:
 * ⭐ **[BleachBit](https://www.bleachbit.org/)** - Clean System Memory
 * ⭐ **[SophiApp](https://github.com/Sophia-Community/SophiApp)** / [Script](https://github.com/farag2/Sophia-Script-for-Windows) - Debloater
 * [GhostBuster](https://bitbucket.org/wvd-vegt/ghostbuster/src/master/) or [Device Cleanup Tool](https://www.majorgeeks.com/files/details/device_cleanup_tool.html) - Remove Non-Present Devices
-* [Optimize-Offline](https://github.com/DrEmpiricism/Optimize-Offline) - Debloater
-* [BRU](https://github.com/arcadesdude/BRU) - Debloater
 * [Win10Debloat](https://github.com/Raphire/Win10Debloat) - Debloater
 * [Adobe Debloater](https://github.com/FlickyOs/Adobe-Debloater) - Debloat Adobe Apps
 * [BloatyNosy](https://github.com/builtbybel/BloatyNosy) - Windows 11 Debloaters
@@ -246,7 +243,6 @@ Emoji Legend:
 * [GoldMemory](https://www.goldmemory.cz/) or [Testmem5](https://www.overclock.net/threads/memory-testing-with-testmem5-tm5-with-custom-configs.1751608/) - Memory Benchmarking
 * [SnappyDrivers](https://glenn.delahoy.com/snappy-driver-installer-origin), [Drivers Collection](https://driverscollection.com/) or [DriverStoreExplorer](https://github.com/lostindark/DriverStoreExplorer) - Update / Install Missing Drivers
 * [PrintFriendly](https://www.printfriendly.com/) - Printer Formatting Tools
-* [DIY Laptop](https://www.olimex.com/Products/DIY-Laptop/) - Build a Laptop
 
 ***
 
@@ -301,8 +297,8 @@ Emoji Legend:
 * ⭐ **[GParted](https://gparted.org/)**, [Rescuezilla](https://rescuezilla.com/), [CloneZilla](https://clonezilla.org/) or [AOMEI](https://www.diskpart.com/) - Partition Managers
 * [TrueNAS](https://www.truenas.com/) - Storage System
 * [QDirStat](https://github.com/shundhammer/qdirstat) - Directory Statistics
+* [CrystalDiskInfo](https://crystalmark.info/en/software/crystaldiskinfo/) - S.M.A.R.T. Data Analyzer
 * [WinDirStat](https://windirstat.net/) - Disk Usage Analyzer
-* [CrystalDiskInfo](https://crystalmark.info/en/software/crystaldiskinfo/) - Disk Usage Analyzer
 * [Macrorit Partition Expert](https://macrorit.com/partition-magic-manager/partition-expert-download.html) - Disk Usage Analyzer
 * [Gdu](https://github.com/dundee/gdu) - Disk Usage Analyzer
 * [dua](https://github.com/Byron/dua-cli) - Disk Usage Analyzer
@@ -367,9 +363,12 @@ Emoji Legend:
 
 # ► Windows ISOs
 
-* ⭐ **[MAS ISO Index](https://massgrave.dev/genuine-installation-media.html)** / [ISO Request](https://discord.gg/Eq2dsgBkUJ) / [MSDL](https://massgrave.dev/msdl/), [OS.click](https://os.click/en), [AlicesWorld](https://msdn.alicesworld.tech/) or [Microsoft SD](https://www.microsoft.com/en-us/software-download/) - Windows ISOs
+* ⭐ **[MAS ISO Index](https://massgrave.dev/genuine-installation-media.html)** - Windows ISOs / [Discord](https://discord.gg/gjJEfq7ux8) / [MSDL](https://massgrave.dev/msdl/)
 * ⭐ **[Ventoy](https://www.ventoy.net/en/index.html)**, **[Rufus](https://rufus.ie/)**, [AIO Boot](https://www.aioboot.com/) or [MediaCreationTool](https://github.com/AveYo/MediaCreationTool.bat) - Create Bootable USB Drives
 * ⭐ **[Windows Piracy Guide](https://redd.it/192eqb5)** or [windows_piracy](https://rentry.org/windows_piracy) - ISO Information / Guide
+* [OS.click](https://os.click/en) - Windows ISOs
+* [AlicesWorld](https://msdn.alicesworld.tech/) - Windows ISOs
+* [Microsoft SD](https://www.microsoft.com/en-us/software-download/) - Windows ISOs
 * [OS Vault](https://osvault.weebly.com/directory.html), [VETUSWARE](https://vetusware.com/) or [WinWorldPC](https://winworldpc.com/) - Oldschool ISOs
 * [Fido](https://github.com/pbatard/Fido) - ISO Powershell Script
 * [MSDN Files](https://msdn.rg-adguard.net/) or [MVS dump](https://awuctl.github.io/mvs/) - Verify ISO Legitimacy
