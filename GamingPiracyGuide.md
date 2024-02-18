@@ -692,7 +692,6 @@
 * [ESO Addons](https://github.com/arviceblot/eso-addons) - Elder Scrolls Online Mod Manager
 * [Hidden Fallout 4 Mods](https://rentry.co/89gads), [2](https://docs.google.com/document/d/1Im5Mg-l2btRsYVOjaJa0slrjDcXNvi41J5pHw_Zuwqw/edit?usp=sharing) - Fallout 4 Mods Removed from Nexus
 * [UGX Mods](https://www.ugx-mods.com/) - COD Zombies Mods / [Discord](https://discord.gg/g9S2nSp)
-* [Small GD Mods](https://matcool.github.io/mods) - Geometry Dash Mods / [Discord](https://discord.com/invite/K9Kuh3hzTC)
 * [RimWorldBase](https://www.rimworldbase.com/) - RimWorld Mods
 * [StellarisMods](http://stellarismods.net/) - Stellaris Mods
 * [SMods](https://smods.ru/) - Cities: Skylines Mods
@@ -909,7 +908,6 @@
 * [CSDb](https://csdb.dk/) or [GB64](https://gb64.com/index.php) - Commodore 64 Resources
 * [Awesome Trackmania](https://github.com/EvoEsports/awesome-trackmania) - Trackmania Resources
 * [Trackmania Replay Viewer](https://gbx.bigbang1112.cz/tool/replay-viewer ) - View Trackmania Replays
-* [GD Song File Hub](https://songfilehub.com/) - Geometry Dash Songs / [Discord](https://discord.gg/maSgd4zpEF)
 * [ACPatterns](https://acpatterns.com/) - Animal Crossing Pattern Tool / [Discord](https://discord.com/invite/9rGkZNk)
 * [Hard Drop](https://harddrop.com/wiki/Tetris_Wiki) or [Tetris.wiki](https://tetris.wiki/) - Tetris Wikis
 * [Fumen](https://harddrop.com/fumen/) - Tetris Field Editor
@@ -1205,6 +1203,16 @@
 * [Tabletopy](https://tabletopy.com/) - Tabletop RPG Soundboard
 * [Map Generator](https://emptybuttons.itch.io/map-generator) - Tabletop Roleplaying Map Generator
 * [MOGG](http://img.mogg.fr/HIRES/) - Magic The Gathering Card Scans
+
+***
+
+## ▷ Geometry Dash Tools
+
+* [Geode](https://geode-sdk.org/) - Mod Menu & Modding Framework
+* [Mega Hack](https://absolllute.com/) - Mod Menu
+* [GDDP](https://gddp.pro/) - Practice & Improve Your Skills
+* [Song File Hub](https://songfilehub.com/home) - GD Songs & Mashups / [Discord](https://discord.com/invite/maSgd4zpEF)
+* [Soluble Texture Packs](https://solubletexturepacks.com/) - GD Texture Packs / [Manager]
 
 ***
 
