@@ -13,6 +13,7 @@
 * [ExportComments](https://exportcomments.com/) - Export Social Media Comments 
 * [EagleEye](https://github.com/ThoughtfulDev/EagleEye) - Find Social Media Profiles From Image
 * [socid_extractor](https://github.com/soxoj/socid-extractor) - Extract Social Media User Info from Pages
+* [Snapchat Memories](https://downloadmysnapchatmemories.com/) - Download Snapchat Photos
 * [tumblr-utils](https://github.com/bbolli/tumblr-utils) - Tumblr Utilities
 * [Tumblr Savior](https://bjornstar.com/tumblr-savior) - Tumblr Dashboard Filter
 
@@ -60,7 +61,7 @@
 * [FixTweet](https://github.com/FixTweet/FixTweet) - Fix Twitter Embeds
 * [InstaFix](https://ddinstagram.com/) - Fix Instagram Embeds
 * [8mbvideo](https://8mb.video/) or [@Snooober's Script](https://redd.it/o7vqm4) - Encode Videos to <8MB
-* [Hammertime](https://hammertime.cyou/), [Dank.tools](https://dank.tools/), [Timestamp Maker](https://pokemonworkshop.neocities.org/timestamp/) or [discordtimestampgenerator](https://discordtimestampgenerator.netlify.app/) - Generate Timestamps
+* [Hammertime](https://hammertime.cyou/), [Dank.tools](https://dank.tools/), [Timestamp Maker](https://pokemonworkshop.neocities.org/timestamp/), [discord-timestamps](https://r.3v.fi/discord-timestamps/) or [discordtimestampgenerator](https://discordtimestampgenerator.netlify.app/) - Generate Timestamps
 * [TagMap](https://tagmap.io/) - Meet People with Similar Interests
 
 ***
@@ -395,8 +396,8 @@
 * [YoutubeDL-Material](https://github.com/Tzahi12345/YoutubeDL-Material) - YouTube Downloader
 * [YoutubeDownloader](https://github.com/Tyrrrz/YoutubeDownloader) - YouTube Downloader
 * [YouTubePlaylist](https://youtubeplaylist.cc/) - Playlist Downloader
-* [metube](https://github.com/alexta69/metube) or [yt-dlp-web-ui](https://github.com/marcopeocchi/yt-dlp-web-ui) - YT-DL Web UIs
-* [Gropple](https://github.com/tardisx/gropple), [Tartube](https://github.com/axcore/tartube), [media-downloader](https://github.com/mhogomchungu/media-downloader), [stacher](https://stacher.io/) or [youtube-dl-gui](https://github.com/oleksis/youtube-dl-gui) - YT-DL GUIs
+* [metube](https://github.com/alexta69/metube), [ytdlp-interface](https://github.com/ErrorFlynn/ytdlp-interface) or [yt-dlp-web-ui](https://github.com/marcopeocchi/yt-dlp-web-ui) - YT-DL Web UIs
+* [Gropple](https://github.com/tardisx/gropple), [Tartube](https://tartube.sourceforge.io/), [media-downloader](https://github.com/mhogomchungu/media-downloader), [stacher](https://stacher.io/) or [youtube-dl-gui](https://github.com/oleksis/youtube-dl-gui) - YT-DL GUIs
 * [Cube YouTube Downloader](https://github.com/database64128/youtube-dl-wpf) - WPF YT-DL GUI
 * [Videomass](https://jeanslack.github.io/Videomass/) - YT-DL / FFmpeg GUI
 * [YouTube Thumbnail Grabber](https://boingboing.net/features/getthumbs), [YTI](https://youtubethumbnailimage.com/), [thumbnailsave](https://thumbnailsave.com/), [thumbnail-download](https://thumbnail-download.com/) or [Get YT Thumbnail](https://www.get-youtube-thumbnail.com/) - Download YouTube Thumbnails
@@ -468,9 +469,6 @@
 * [HypeTrigger](https://hypetrigger.io/) - Automatically Create Clips
 * [VODarchive](https://vodarchive.com/) - Twitch VOD Archive
 * [Twitch Previews](https://github.com/MarkM-dev/Previews-client) or [Previews](https://previews-app.com/) - Twitch Video Previews
-* [Walrus](https://joinwalrus.tv/) - Make Twitch Watch Parties
-* [MuliTwitch.tv](https://multitwitch.tv/), [MultiTwitch.co](https://multitwitch.co/), [Twitch Replay](https://www.twitch-replay.com/), [Multi](https://multi.raredrop.co/), [MultiStre.am](https://multistre.am/) or [TwitchTheater](https://twitchtheater.tv/) - Sync Twitch Videos w/ Friends
-* [Twitch Lurker](https://github.com/mikeyaworski/Twitch-Lurker) - Twitch Stream Auto-Open
 * [Unwanted Twitch](https://github.com/kwaschny/unwanted-twitch) - Hide Twitch Categories / Channels
 * [Ultrawidify](https://github.com/tamius-han/ultrawidify) - Fix Twitch Aspect Ratio
 * [Featured.chat](https://featured.chat/) - Twitch Chat Manager
@@ -495,14 +493,17 @@
 
 ***
 
-## ▷ Twitch Clients
+## ▷ Twitch Players
 
 * ⭐ **[Chatterino](https://chatterino.com/)**, [Chatterino Homies](https://chatterinohomies.com/) or [Chatty](https://chatty.github.io/) - Twitch Chat Clients
 * [Orion](https://alamminsalo.github.io/orion/), [Twitch App](https://gitlab.com/twitch-application/application) or [Tress](https://gitlab.com/Ignamarte/tress) - Twitch Desktop Clients
 * [SpeechChat](https://speechchat.com/) - Twitch Text to Speech Client
 * [Twitch Lite](https://thavixt.github.io/twitch-lite/) - Lightweight Twitch Webplayer
+* [Walrus](https://joinwalrus.tv/) - Make Twitch Watch Parties
+* [MuliTwitch.tv](https://multitwitch.tv/), [MultiTwitch.co](https://multitwitch.co/), [Twitch3D](https://hjjg200.github.io/twitch3d/), [Twitch Replay](https://www.twitch-replay.com/), [Multi](https://multi.raredrop.co/), [MultiStre.am](https://multistre.am/) or [TwitchTheater](https://twitchtheater.tv/) - Sync Twitch Videos w/ Friends / Mult-Stream
 * [Twitchls](https://twitchls.com/) - HTML5 Twitch Stream Player
 * [Alternate Player for Twitch.tv](https://pastebin.com/Z7NWxSfA) - Alternative Twitch Player
+* [Twitch Lurker](https://github.com/mikeyaworski/Twitch-Lurker) - Twitch Stream Auto-Open
 
 ***
 
