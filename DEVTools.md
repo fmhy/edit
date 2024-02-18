@@ -330,7 +330,7 @@
 * 🌐 **[Awesome-Tunneling](https://github.com/anderspitman/awesome-tunneling)** - Tunneling Resources
 * 🌐 **[Awesome list of secrets in environment variables](https://github.com/Puliczek/awesome-list-of-secrets-in-environment-variables)** - Environment Variables Secrets 
 * ↪️ **[Website Creators](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_website_creators)**
-* ↪️ **[Archive / Scrape / Crawl Webpages](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_web_scraping_.2F_archiving_tools)** 
+* ↪️ **[Archive / Scrape / Crawl Webpages](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_web_archiving)** 
 * ⭐ **[Ray.st](https://ray.st/)** or [Wappalyzer](https://www.wappalyzer.com/) - Identify Technologies on Websites / [Addons](https://www.wappalyzer.com/apps/)
 * ⭐ **[EmulatorJS](https://emulatorjs.org/)** - Embed Emulators on Websites
 * [Website Planet Tools](https://www.websiteplanet.com/webtools/), [Webdesign Assistant](https://webdesign-assistant.com/), [xWebTools](https://www.xwebtools.com/), [Tiny Helpers](https://tiny-helpers.dev/), [WebCode](https://webcode.tools/), [ToolCool](https://toolcool.org/) or [CSSAuthor](https://cssauthor.com/) - Site Development Tools
