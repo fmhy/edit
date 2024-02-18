@@ -19,17 +19,7 @@ If someone has a virustotal scan, or some sort of proof Download Pirate is malic
 
 *** 
 
-**update** - Here's setup scans thanks to /u/LichessLuvr, all five of these look clean as far as I can tell: 
-
-* [Adobe Acrobat Pro DC 2023 v23.8.20421 x64](https://www.virustotal.com/gui/file/04889538532f10f910029a5ef65068aed713019fb50462546e82ee8ced81350b)
-
-* [Adobe Acrobat Pro DC 2023 v23.6.20360 x64](https://www.virustotal.com/gui/file/04889538532f10f910029a5ef65068aed713019fb50462546e82ee8ced81350b)
-
-* [Adobe Acrobat Pro DC 2023 v23.6.20320 x64](https://www.virustotal.com/gui/file/04889538532f10f910029a5ef65068aed713019fb50462546e82ee8ced81350b)
-
-* [Adobe Acrobat Pro DC 2023 v23.3.20215 x64](https://www.virustotal.com/gui/file/04889538532f10f910029a5ef65068aed713019fb50462546e82ee8ced81350b/)
-
-* [Adobe Acrobat Pro DC 2023 v23.1.20174 x64](https://www.virustotal.com/gui/file/04889538532f10f910029a5ef65068aed713019fb50462546e82ee8ced81350b)
+**update** - Here's a setup scan thanks to /u/LichessLuvr which seems to be clean: [Adobe Acrobat Pro DC 2023 v23.8.20421 x64](https://www.virustotal.com/gui/file/04889538532f10f910029a5ef65068aed713019fb50462546e82ee8ced81350b)
 
 ***
 
