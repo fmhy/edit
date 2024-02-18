@@ -1672,6 +1672,7 @@
 ## ▷ Reading
 
 * [Kuflu](https://www.kuflu.com/forums/e-kitap.58/) - Books / Magazines
+* [ktphnme](https://t.me/ktphnme) - Books
 * [MangaDenizi](https://www.mangadenizi.net/) - Manga / [Discord](https://discord.com/invite/8zBMSGZ)
 * [Manga-TR](https://manga-tr.com/) - Manga
 * [manga-ay](https://manga-ay.com/) - Manga
