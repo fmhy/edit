@@ -601,6 +601,8 @@
 * [cvservant](https://cvservant.com/cv/)
 * [resume-nation](https://resume-nation.github.io/)
 * [sajilocv](https://sajilocv.com/)
+* [GotResumeBuilder](https://www.gotresumebuilder.com/)
+* [Resume.com](https://www.resume.com/)
 * [intelligentcv](https://www.intelligentcv.app/)
 * [cakeresume](https://www.cakeresume.com/)
 * [resumgo](https://www.resumgo.com/)
@@ -682,6 +684,7 @@
 * 🌐 **[Awesome Startup](https://github.com/Ibexoft/awesome-startup-tools-list)** or [Tools for Startups](https://docs.google.com/spreadsheets/d/1s6-hGBh0_tqa-jd23fsdYuwbmS8UPmElPqaH-Rnoa_A/htmlview) - Startup Resources Indexes
 * 🌐 **[moreThanFAANGM](https://github.com/Kaustubh-Natuskar/moreThanFAANGM)** - Good Companies / Startups Index
 * [BetaList](https://betalist.com/) or [IdeasAI](https://ideasai.com/) - Get Startup Ideas
+* [TheGrowthList](https://www.thegrowthlist.co/) - Startup Tips
 * [Business Generator](https://business-generator.vercel.app/) -  Generate Business Ideas
 * [Failory](https://www.failory.com/graveyard) - Learn Why Startups Failed
 * [280+ Websites to Submit Your Startup](https://airtable.com/shrwqaak73gy83w9A/tblu5RcUft9fYp9Ju/viwFHmIyMniXzlpK4?blocks=show) or [PlacesToPostYourStartup](https://www.placestopostyourstartup.com/) - Startup Submission Sites
@@ -942,6 +945,7 @@
 * [FandomPost](https://fandompost.vbulletin.net/) - Fandom Discussions
 * [AnimeSuki](https://forums.animesuki.com/) or [Fanverse](https://www.fanverse.org/) - Anime Discussion
 * [/r/Piracy](https://www.reddit.com/r/Piracy/) or [SuperBay](https://forum.suprbay.org/) - Piracy Discussion
+* [Resetera](https://www.resetera.com/) or [Neogaf](https://www.neogaf.com/) - Game Discussion
 * [DreamJournal](http://dreamjournal.net/) - Dream Sharing Community
 * [NotAlwaysRight](https://notalwaysright.com/) - Customer Service Stories
 * [Marijuana Subs](https://www.reddit.com/r/trees/wiki/entreddits_social) - Marijuana Subreddits
@@ -1265,7 +1269,7 @@
 * [April Fools Day On The Web](https://aprilfoolsdayontheweb.com/) - Find April Fools' Pranks Played by Websites 
 * [PrankHotline](https://prankhotline.com/) or [Fake All](https://apps.apple.com/us/app/fake-all-call-chat-message/id1518594150) - Phone Pranks
 * [GeekPrank](https://geekprank.com/) - Windows Pranks
-* [Update Faker](https://updatefaker.com/) - Fake System Update Prank
+* [Update Faker](https://updatefaker.com/) or [Fake Update](https://fakeupdate.net/) - Fake System Update Pranks
 * [DownloadHardware](https://downloadhardware.com/) - Download Computer Hardware
 * [DownloadMoreRam](https://downloadmoreram.com/) - Download More RAM
 * [The Restart Page](http://www.therestartpage.com/) - Vintage Operating System Reboots
