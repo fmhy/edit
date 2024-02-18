@@ -396,6 +396,7 @@
 
 ## ▷ VFX Sites
 
+* ⭐ **[Download Pirate](https://www.downloadpirate.com/)** / [Discord](https://discord.gg/ucTvVtBz9Z)
 * [FootageCrate](https://footagecrate.com/)
 * [FreeVideoEffect](https://freevideoeffect.com/)
 * [VideoCoPilot](https://www.videocopilot.net/)
