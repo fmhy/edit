@@ -33,6 +33,6 @@ If someone has a virustotal scan, or some sort of proof Download Pirate is malic
 
 ***
 
-**update 2** - We just scanned all of the [patched files](https://ibb.co/h1tg7PH) in virustotal and they came back clean too, so this is unlikely to have malware unless its hidden really well within the ISO. OP either got malware from an ad on the file host or already had the trojan before installing Acrobat.
+**update 2** - We just scanned all of the [patched files](https://ibb.co/h1tg7PH) and they came back clean too, so this is unlikely to have malware unless its hidden really well within the ISO. OP either got malware from an ad on the file host or already had the trojan before installing Acrobat.
 
 We're still open to new evidence if someone comes forward with it, but for now we can't find any reason to think they're malicious so we're going to keep them in FMHY. The version OP downloaded is v23.8.20421 from 1cloudfile if someone wants to check it themselves.
