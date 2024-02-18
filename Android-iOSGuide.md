@@ -56,9 +56,10 @@
 * ⭐ **[UpToDown](https://en.uptodown.com/android)**
 * ⭐ **[APKPure](https://apkpure.net/)**
 * [Play Search](https://playsearch.kaki87.net/) - Advanced Playstore Search
-* [Android Ultimate Collection](https://xdaforums.com/t/android-ultimate-collection-guides.4513231/)
 * [Aurora Store](https://auroraoss.com/) - Alt App Store / [GitLab](https://gitlab.com/AuroraOSS/AuroraStore)
 * [Accrescent](https://accrescent.app/) - Alt App Store
+* [Appteka](https://appteka.store/) - Alt App Store
+* [Android Ultimate Collection](https://xdaforums.com/t/android-ultimate-collection-guides.4513231/)
 * [APKCombo](https://apkcombo.com/)
 * [Top Androids](https://top-androids.com/)
 * [APK Thing](https://www.apkthing.com/)
@@ -74,7 +75,7 @@
 
 ## ▷ FOSS APKs
 
-* 🌐 **[Awesome Android](https://gitlab.com/linuxcafefederation/awesome-android/-/blob/main/README.md)**, [OS Apps](https://github.com/pcqpcq/open-source-android-apps), [AAA](https://github.com/Psyhackological/AAA), [Cool FOSS](https://albertomosconi.github.io/foss-apps/) or [Android FOSS](https://github.com/offa/android-foss) - FOSS App Indexes
+* 🌐 **[OS Apps](https://github.com/pcqpcq/open-source-android-apps)**, [AAA](https://github.com/Psyhackological/AAA), [Cool FOSS](https://albertomosconi.github.io/foss-apps/) or [Android FOSS](https://github.com/offa/android-foss) - FOSS App Indexes
 * 🌐 **[Awesome Kotlin](https://github.com/androiddevnotes/awesome-android-kotlin-apps)** - Kotlin App Index
 * 🌐 **[Awesome Shizuku](https://github.com/ThePBone/awesome-shizuku)** - Shizuku App Index
 * ⭐ **[F-Droid](https://f-droid.org/)** - FOSS App Installer
@@ -216,7 +217,7 @@
 * [Touch The Notch](https://play.google.com/store/apps/details?id=com.notch.touch) - Use Camera Notch as Button
 * [Shelter](https://gitea.angry.im/PeterCxy/Shelter) or [Insular](https://gitlab.com/secure-system/Insular) - Isolate / Clone Apps
 * [AppBrain](https://www.appbrain.com/) - Analyze Android App Changes
-* [openboard](https://github.com/openboard-team/openboard), [Thumb-Key](https://github.com/dessalines/thumb-key) or [Unexpected Keyboard](https://github.com/Julow/Unexpected-Keyboard) - Keyboard Apps
+* [openboard](https://github.com/openboard-team/openboard), [Flickboard](https://github.com/nightkr/flickboard), [Thumb-Key](https://github.com/dessalines/thumb-key) or [Unexpected Keyboard](https://github.com/Julow/Unexpected-Keyboard) - Keyboard Apps
 * [Sayboard](https://github.com/ElishaAz/Sayboard) - AI Voice Keyboard
 * [Grammarly](https://rentry.co/FMHYBase64#grammarly-keyboard-premium) - Grammarly Keyboard Premium
 * [Volv](https://volvmedia.com/) - Android News App
@@ -230,7 +231,7 @@
 * [Watomatic](https://watomatic.app/) / [Git](https://github.com/adeekshith/watomatic) or [AutoResponder](https://www.autoresponder.ai/) - Chat App Auto-Responders
 * [AndroidCupsPrint](https://github.com/BenoitDuffez/AndroidCupsPrint/) - Wireless Printing App
 * [PDF Maker](https://play.google.com/store/apps/details?id=opofficial.pdfmaker) - PDF Creator
-* [LightCut](https://play.google.com/store/apps/details?id=com.lightcut.videoeditor) or [Vaux](https://play.google.com/store/apps/details?id=com.vaux.vaux_editor) - Video Editors
+* [LightCut](https://play.google.com/store/apps/details?id=com.lightcut.videoeditor), [open-video-editor](https://github.com/devhyper/open-video-editor) or [Vaux](https://play.google.com/store/apps/details?id=com.vaux.vaux_editor) - Video Editors
 * [NotificationDictionary](https://github.com/tirkarthi/NotificationDictionary) - Dictionary App
 * [Counters](https://play.google.com/store/apps/details?id=rahmouni.neil.counters) - Count Anything
 * [Smart AutoClicker](https://github.com/Nain57/Smart-AutoClicker) - Auto Clicker
@@ -530,11 +531,12 @@
 * [Koncius](https://play.google.com/store/apps/details?id=com.koncius.video.wallpaper) - Android Video to Wallpaper
 * [WallpaperExport](https://github.com/cvzi/WallpaperExport) - Extract Current Wallpaper
 * [CanvasDownloader](https://www.canvasdownloader.com/) - Extract Spotify Canvas Walls
-* [/r/iWallpaper](https://www.reddit.com/r/iWallpaper/) or [/r/MobileWallpaper](https://www.reddit.com/r/MobileWallpaper/) - Mobile Wallpapers Subreddits
+* [/r/iWallpaper](https://www.reddit.com/r/iWallpaper/) or [/r/MobileWallpaper](https://www.reddit.com/r/MobileWallpaper/) - Mobile Wallpaper Subs
 * [wallhaven](https://wallhaven.cc/search?categories=110&purity=100&ratios=portrait) - Wallpapers
 * [Wallpaper Engine](https://www.wallpaperengine.io/android/en) - Wallpapers
 * [wallman](https://gitlab.com/colorata/wallman) - Wallpapers
 * [FreshWalls](https://play.google.com/store/apps/details?id=com.techburner.freshwalls) - Wallpapers
+* [Backdrops](https://www.backdrops.io/) - Wallpapers
 * [Vave BG](https://vavebg.com/) - AI Generated Wallpapers
 * [DarQ](https://github.com/KieronQuinn/DarQ) - Universal Dark Mode
 * [Phonetones](http://onj3.andrelouis.com/phonetones/) or [RingtoneRobot](https://t.me/RingtoneRobot) - Ringtones Directories
