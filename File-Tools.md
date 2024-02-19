@@ -215,6 +215,7 @@
 * [Permadelete](https://developerstree.github.io/permadelete/)
 * [nwipe](https://github.com/martijnvanbrummelen/nwipe)
 * [ShredOS](https://github.com/PartialVolume/shredos.x86_64)
+* [Delapp](https://github.com/differentrain/Delapp)
 
 ***
 
