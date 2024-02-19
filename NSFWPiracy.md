@@ -265,7 +265,6 @@
 * [MissingToofff](https://missingtoofff.com/) - OnlyFans Leak Site List
 * [Thothub](https://thothub.to/), [2](https://thothub.is/) - OnlyFans
 * [OF-Scraper](https://github.com/datawhores/OF-Scraper) or [OF-DL](https://github.com/sim0n00ps/OF-DL) - OnlyFans Scrapers
-* [VixenLeaks](https://vixenleaks.com/) - OnlyFans / Patreon
 
 ***
 
