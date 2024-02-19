@@ -267,8 +267,8 @@
 * ↪️ **[Quote Collections](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_quotes)**
 * ↪️ **[UFO Books](https://rentry.co/FMHYBase64#ufo-books)**
 * ↪️ **[Sheet Music Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_sheet_music_sites)**
-* ⭐ **[Short Stories](https://short-stories.co/)** or [Library of Short Stories](https://www.libraryofshortstories.com/) - Short Stories
-* ⭐ **[Poetry Foundation](https://www.poetryfoundation.org/)**, [PoemHunter](https://www.poemhunter.com/), [RUVerses](https://ruverses.com/) or [Poetry.com](https://www.poetry.com/) - Poetry
+* ⭐ **[Short Stories](https://short-stories.co/)**, [Vestal Review](https://www.vestalreview.net/) or [Library of Short Stories](https://www.libraryofshortstories.com/) - Short Stories
+* ⭐ **[Poetry Foundation](https://www.poetryfoundation.org/)**, [Poetry In Translation](https://www.poetryintranslation.com/), [PoemHunter](https://www.poemhunter.com/), [RUVerses](https://ruverses.com/) or [Poetry.com](https://www.poetry.com/) - Poetry
 * ⭐ **[SufficientVelocity](https://forums.sufficientvelocity.com/)** or [SpaceBattles](https://forums.spacebattles.com/) - Fanfiction Forums
 * ⭐ **[MorbidKuriosity](https://morbidkuriosity.com/)** - Conspiracies, Dark History, Crime, Myths etc.
 * ⭐ **[The Anarchist Library](https://theanarchistlibrary.org/special/index)** - Anarchism
@@ -310,7 +310,6 @@
 * [marxist.space](https://marxist.space/) - Communism
 * [Communism Essays / FAQs](https://github.com/dessalines/essays) - Communism
 * [Third World Traveler](https://thirdworldtraveler.com/) - Human Rights / Conspiracies / Anti-War
-* [China-Dictatorship](https://github.com/cirosantilli/china-dictatorship) - Anti-Chinese Authoritarianism
 * [Rookie Road]( https://www.rookieroad.com/) - Sport Guides
 
 ***
@@ -637,7 +636,7 @@
 * ⭐ **[Explosm](https://explosm.net/rcg)** - Cyanide & Happiness Web Comics
 * ⭐ **[xkcd](https://xkcd.com/)** or [findxkcd](https://xkcd-search.typesense.org/) - xkcd Web Comics / [Explanations](https://www.explainxkcd.com/wiki/index.php/Main_Page)
 * ⭐ **[Comic CSE](https://cse.google.com/cse?cx=006516753008110874046:p4hgytyrohg)** - Multi-Site Comic Search
-* [XOXO Comics](https://xoxocomics.net/)
+* [XOXO Comics](https://xoxocomic.com/)
 * [View Comics](https://viewcomics.org/)
 * [Read Comics Online](https://readcomicsonline.ru/)
 * [Comix-Load](https://comix-load.in/) - Downloads
@@ -705,7 +704,7 @@
 * [Disaster Scans](https://disasterscans.com/) - [Discord](https://discord.gg/JbcJCpv)
 * [MangaSail](https://www.sailmanga.com/)
 * [Taadd](https://www.taadd.com/)
-* [MangaFreak](https://w12.mangafreak.net/)
+* [MangaFreak](https://w15.mangafreak.net/)
 * [Mangageko](https://www.mgeko.com/)
 * [Mangairo](https://h.mangairo.com/)
 * [VyvyManga](https://vyvymanga.net/)
