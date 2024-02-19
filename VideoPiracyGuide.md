@@ -369,6 +369,7 @@
 
 ## ▷ Sports Streaming
 
+* ⭐ **[720Pier](https://720pier.ru/)** - Sports / Torrents / 1080p
 * ⭐ **[FullMatchTV](https://fullmatchtv.com/)** - Sports / 720p
 * ⭐ **[NBAHD](https://watchreplay.net/)** - Basketball / 720p
 * ⭐ **[NFL Replay](https://nflreplay.net/)** - Football / 720p
@@ -384,7 +385,7 @@
 * [Footballia](https://footballia.net/) - Soccer
 * [Footyfull](https://footyfull.com/) - Soccer
 * [/r/footballhighlights/](https://www.reddit.com/r/footballhighlights/) - Soccer
-* [Sport Video](https://www.sport-video.org.ua/) - Multiple Sports / Torrents
+* [Sport Video](https://www.sport-video.org.ua/) - Sports / Torrents
 * [WatchWrestling.ae](https://watchwrestling.ae/) - MMA / Wrestling
 * [WatchWrestling.wtf](https://watchwrestling.wtf/) - MMA / Wrestling
 * [FullFights](https://fullfights.net/) - MMA / Wrestling
@@ -393,11 +394,11 @@
 * [Bellator](https://www.bellator.com/video) - MMA
 * [MMACore](https://www.mma-core.com) - MMA
 * [BoxingBoxingvideoideo](https://boxingvideo.org/) - Boxing
-* [AllTheBestFights](https://www.allthebestfights.com/) - MMA / Boxing / K1
+* [AllTheBestFights](https://www.allthebestfights.com/) - MMA / Boxing / Kickboxing
 * [TNA / Impact Replays](https://www.youtube.com/playlist?list=PLSadBNbijyoGV44wd96Fda7-GDYh9UktC) - TNA / Impact Wrestling
 * [/r/MotorsportsReplays](https://reddit.com/r/MotorsportsReplays) - Motorsports
 * [FullMatchSports](https://fullmatchsports.cc/) - Motorsports
-* [F1 Full Races](https://f1fullraces.com/) - F1
+* [F1 Full Races](https://f1fullraces.com/) - Motorsports
 
 ***
 
@@ -481,22 +482,22 @@
 * [LaCasadelTikiTaka](https://www.lacasadeltikitaka.net/) - Soccer / MMA
 * [Football](https://socceronline.me/) - Soccer
 * [Footybite](https://www1.footybite.cc/) - Soccer
-* [NBA Streams](https://nbabox.tv/) - NBA
-* [NFL Streams](https://nflstreams.me/) - NFL
-* [NFLbite](https://www.nflbite.com/) - NFL
-* [MLB66](https://mlb66.ir/) - MLB
-* [/r/MLBStreams](https://www.reddit.com/r/MLBStreams/) - MLB
-* [MLB Streams](https://mlbstreams.me/) - MLB
-* [MLBshows](https://mlbshow.com/) - MLB
+* [NBA Streams](https://nbabox.tv/) - Basketball
+* [NFL Streams](https://nflstreams.me/) - Football
+* [NFLbite](https://www.nflbite.com/) - Football
+* [MLB66](https://mlb66.ir/) - Baseball
+* [/r/MLBStreams](https://www.reddit.com/r/MLBStreams/) - Baseball
+* [MLB Streams](https://mlbstreams.me/) - Baseball
+* [MLBshows](https://mlbshow.com/) - Baseball
 * [Aceztrims](https://aceztrims.pages.dev/) - Motorsports
 * [MotoGP](https://motogpstream.me/) - Motorsports
-* [DD12](https://dd12streams.com/) - Nascar
-* [F1Box](https://f1box.me/) - F1
-* [Formula 1 Streams](https://live1.formula1stream.cc/) - F1
-* [NHLstream](https://nhlstream.net/) - NHL
-* [NHL66](https://nhl66.ir/) - NHL
-* [NHLBox Streams](https://nhlstreams.me/) - NHL
-* [NHLbite](https://nhlbite.com/) - NHL
+* [DD12](https://dd12streams.com/) - Motorsports
+* [F1Box](https://f1box.me/) - Motorsports
+* [Formula 1 Streams](https://live1.formula1stream.cc/) - Motorsports
+* [NHLstream](https://nhlstream.net/) - Hockey
+* [NHL66](https://nhl66.ir/) - Hockey
+* [NHLBox Streams](https://nhlstreams.me/) - Hockey
+* [NHLbite](https://nhlbite.com/) - Hockey
 * [/r/rugbystreams](https://www.reddit.com/r/rugbystreams/) - Rugby
 * [Rugby Streams](https://rugbystreams.me/) - Rugby 
 * [PakCric](https://pakcric.net/) - Cricket
@@ -529,7 +530,7 @@
 * [hifi2007reviews](https://hifi2007reviews.com/) - IPTV / Firestick APKs
 * [Send Files to TV](https://play.google.com/store/apps/details?id=com.yablio.sendfilestotv) or [AllCast](https://play.google.com/store/apps/details?id=com.koushikdutta.cast) - Send Files to Android TV
 * [Apps2Fire](https://play.google.com/store/apps/details?id=mobi.koni.appstofiretv) - Upload Apps to FireTV
-* [FLauncher](https://play.google.com/store/apps/details?id=me.efesser.flauncher) or [Spocky](https://play.google.com/store/apps/details?id=com.spocky.projengmenu) - Android TV Launchers
+* [LeanbackLauncher](https://github.com/tsynik/LeanbackLauncher), [FLauncher](https://play.google.com/store/apps/details?id=me.efesser.flauncher) or [Spocky](https://play.google.com/store/apps/details?id=com.spocky.projengmenu) - Android TV Launchers
 * [smart-tv-telegram](https://github.com/andrew-ld/smart-tv-telegram) - Stream Media from iOS to Smart TV
 * [Zank Remote](https://apps.apple.com/kr/app/zank-remote-for-android-tv-box/id1567602430?1=en) - Control Android TV via iOS
 * [ChanSort](https://github.com/PredatH0r/ChanSort) - TV Channel List Editor for Samsung, LG etc.
