@@ -674,6 +674,7 @@
 * [Tesseract](https://tesseract-ocr.github.io/) - Open Source OCR Engine / [GitHub](https://github.com/tesseract-ocr/tesseract)
 * [CLIP-as-service](https://github.com/jina-ai/clip-as-service) - Embed Images / Sentences via CLIP Models
 * [devSwag](https://devswag.io/) - Developer Giveaways
+* [Hexedit](https://hexed.it/) - Online Hex Editor
 
 ***
 
