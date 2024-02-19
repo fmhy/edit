@@ -14930,7 +14930,7 @@ import Index from './.vitepress/theme/Posts.vue'
 * [ShaderToy](https://www.shadertoy.com/browse) - User-Made Shaders
 * [MakeTintAndShade](https://maketintsandshades.com/) - Tint and Shade Generator
 * [Alphredo](https://alphredo.app/) - Create Translucent Colors
-* [contrastchecker](https://webaim.org/resources/contrastchecker/) - Background / Text Contrast Checker
+* [Contrast Checker](https://webaim.org/resources/contrastchecker/) or [Colour Contrast](https://colourcontrast.cc/) - Background / Text Contrast Checkers
 
 ***
 
@@ -15027,6 +15027,7 @@ import Index from './.vitepress/theme/Posts.vue'
 * [TheDev](https://thedev.id/) - Free Developer Subdomains
 * [redirect.name](https://redirect.name/) - URL Forwarding
 * [PingDom](https://tools.pingdom.com) - Ping Website
+* [Kener](https://github.com/rajnandan1/kener) - Self-Hosted Status Page
 * [Hitch](https://hitch-tls.org/) - SSL / TLS Proxy
 * [Let's Encrypt](https://letsencrypt.org/) - Free TLS Certificates
 * [SSL for Free](https://www.sslforfree.com/) or [ZeroSSL](https://zerossl.com/) - Free SSL Certificates
@@ -15127,7 +15128,6 @@ import Index from './.vitepress/theme/Posts.vue'
 * [Tesseract](https://tesseract-ocr.github.io/) - Open Source OCR Engine / [GitHub](https://github.com/tesseract-ocr/tesseract)
 * [CLIP-as-service](https://github.com/jina-ai/clip-as-service) - Embed Images / Sentences via CLIP Models
 * [devSwag](https://devswag.io/) - Developer Giveaways
-* [Hexedit](https://hexed.it/) - Online Hex Editor
 
 ***
 
@@ -15444,6 +15444,7 @@ import Index from './.vitepress/theme/Posts.vue'
 * [Install from GitHub](https://github.com/MaxGyver83/install-from-github) or [Eget](https://github.com/zyedidia/eget) - Install Packages / Binaries Directly from GitHub 
 * [useful-forks](https://useful-forks.github.io/) or [GitPop3](https://andremiras.github.io/gitpop3/) - GitHub Fork Search 
 * [Active-Forks](https://techgaun.github.io/active-forks/index.html) - Find Active GitHub Forks / [GitHub](https://github.com/techgaun/active-forks)
+* [Graphite](https://graphite.dev/) or [Stacking](https://stacking.dev/) - Improve Pull Request Workflow
 * [PR Agent](https://github.com/Codium-ai/pr-agent) - Automated Pull Requests
 * [StarGrab](https://github.com/zekroTJA/stargrab) - Mirror GitHub Repositories
 * [OctoLinker](https://octolinker.vercel.app/) - Make GitHub Code References Clickable
@@ -15952,7 +15953,7 @@ import Index from './.vitepress/theme/Posts.vue'
 * ⭐ **[Hugging Face](https://huggingface.co/)** or [OpenML](https://www.openml.org/) - Machine Learning Datasets
 * ⭐ **[Deep playground](http://playground.tensorflow.org/)** - Neural Networks Playground
 * ⭐ **[LLM Visualization](https://bbycroft.net/llm)** - Learn how LLMs Work
-* [Machine Learning Roadmap](https://rentry.org/machine-learning-roadmap) - Learn Machine Learning
+* [Machine Learning Roadmap](https://rentry.org/machine-learning-roadmap) or [LLM Course](https://github.com/mlabonne/llm-course) - Learn Machine Learning
 * [LLM Training](https://rentry.org/llm-training) - LLM Training Guide
 * [TeachableMachine](https://teachablemachine.withgoogle.com/) or [TensorFlow](https://www.tensorflow.org/) - Create Machine Learning Models
 * [OpenAIPlayground](https://github.com/nat/openplayground) - LLM Playground
@@ -16486,11 +16487,11 @@ import Index from './.vitepress/theme/Posts.vue'
 
 ***
 
-## ▷ Stock Photos
+## ▷ Stock Images
 
 * 🌐 **[Awesome Stock Resources](https://github.com/neutraltone/awesome-stock-resources#photography)** - Stock Photo Index
 * ⭐ **[EveryPixel](https://www.everypixel.com/)** or [LibreStock](https://librestock.com/) - Stock Photo Search Engines
-* ⭐ **[GetPaidStock](https://getpaidstock.com/)**, **[Downloader.la](https://downloader.la/)**, [VisualHunt](https://visualhunt.com/), [SystemErrorStock](https://t.me/SystemErrorStock) or [istock](https://istock.7xm.xyz/) - Download Paid Stock Photos
+* ⭐ **[GetPaidStock](https://getpaidstock.com/)**, **[DownPic](https://downpic.cc)**, **[Downloader.la](https://downloader.la/)**, [VisualHunt](https://visualhunt.com/), [SystemErrorStock](https://t.me/SystemErrorStock) or [istock](https://istock.7xm.xyz/) - Download Paid Stock Photos
 * [Smithsonian Open Access](https://www.si.edu/OpenAccess) - Smithsonian High-Quality Photos
 * [desirefx](https://desirefx.me/category/stock_images/) - Stock Photo Overlays
 * [creativity103](https://creativity103.com/) - Abstract Background Photos
@@ -16503,6 +16504,7 @@ import Index from './.vitepress/theme/Posts.vue'
 * [twnsnd](https://nos.twnsnd.co/) - Vintage Photos
 * [PNGIMG](https://pngimg.com/) or [stickpng](https://www.stickpng.com/) - PNG Photos
 * [gfxmountain](https://gfxmountain.com/stock-photos/) - Stock Photo Collections
+* [FreePik Downloader](https://freepik-downloader.beatsnoop.com/) - FreePik Downloader
 * [Flickr Commons](https://www.flickr.com/commons) / [Downloader](https://github.com/beaufour/flickr-download) - Public Photo Archives
 * [Shutterstock Premium](https://t.me/shutterstockpremium), [freestockphotos](https://t.me/freestockphotos) or [Shutter](https://t.me/Shutter) - Shutterstock Telegram Downloaders
 * [PxHere](https://pxhere.com/), [themeisle](https://mystock.themeisle.com/), [burst](https://burst.shopify.com/), [focastock](https://focastock.com/), [4freephotos](https://www.4freephotos.com/) or [Pikwizard](https://pikwizard.com/) - Misc Stock Photos
@@ -16527,7 +16529,7 @@ import Index from './.vitepress/theme/Posts.vue'
 * [icons8](https://icons8.com/illustrations), [3D Illustrations](https://3d.khagwal.co/), [3dbay](https://clouddevs.com/3dbay/) or [NS-illustration-pack](https://github.com/nsobolewart/NS-illustration-pack) - 3D Illustrations
 * [StorySet](https://storyset.com/), [unDraw](https://undraw.co/illustrations), [blush](https://blush.design/) or [Humaaans](https://www.humaaans.com/) - Customizable Illustrations
 * [Pastel](https://usepastel.com/marker-illustrations) - Marker Illustrations
-* [Fresh Folk](https://fresh-folk.com/) - Illustrations of People
+* [Fresh Folk](https://fresh-folk.com/) or [lukaszadam](https://lukaszadam.com/illustrations ) - Illustrations of People
 * [free-gophers-pack](https://github.com/MariaLetta/free-gophers-pack) - Gophers Illustrations
 * [reshot](https://www.reshot.com/), [freeillustrations](https://freeillustrations.xyz/), [DrawKit](https://www.drawkit.io/), [NiceIllustrations](https://niceillustrations.com/free-illustrations/) or [manypixels](https://www.manypixels.co/gallery) - Misc Illustrations
 * [OldBookIllustrations](https://www.oldbookillustrations.com/) - Illustrations from Old Books
