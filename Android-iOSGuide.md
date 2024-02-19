@@ -421,10 +421,6 @@
 * [OldLander](https://github.com/OctoNezd/oldlander) - Improve Old Reddit
 * [Updoot](https://updoot.app/) - Reddit Saved Post / Comment Manager
 * [MobiChan](https://github.com/Rukkaitto/mobichan), [Kuroba](https://github.com/K1rakishou/Kuroba-Experimental) / [2](https://github.com/Adamantcheese/Kuroba) or [Chan](https://github.com/moffatman/chan) - 4Chan Apps
-
-https://myinsta.app/
-
-
 * [Instander](https://thedise.me/instander/) or [MyInsta](https://myinsta.app/) / [Telegram](https://t.me/instasmashrepo) - Modded Instagram Clients / [Telegram](https://t.me/instander) / [Tools](https://play.google.com/store/apps/details?id=com.dageek.socialtoolbox_android) / [Secrets](https://ngl.link/) 
 * [LC_Reborn](https://t.me/s/Facebook_LC_Reborn) - Facebook Clients
 * [MessengerPro](https://github.com/Mino260806/MessengerPro) - Modded Facebook Messenger
