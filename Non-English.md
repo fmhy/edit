@@ -409,6 +409,7 @@
 * [Metager](https://metager.de/) - Search Engine
 * [WiiDatabase](https://wiidatabase.de/) - Nintendo Homebrew
 * [F-Online](https://app.f-online.at/) - Driving License Learning App
+* [Cashback Optimizer](https://kolateeprojects.gitlab.io/cashback_optimizer/) - Cashback Checker
 
 ## ▷ Downloading
 
