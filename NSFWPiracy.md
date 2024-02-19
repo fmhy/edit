@@ -30,8 +30,9 @@
 * ⭐ **[PornFreeX](https://pornfreex.app/)** / [Discord]( https://discord.gg/uNa76ncX), [Porn App](https://porn-app.com/) or [NsfwBox](https://github.com/Kisspeace/NsfwBox)  - Android Porn Apps
 * [Full Length Porn CSE](https://cse.google.com/cse?cx=6c02fb377e50d493c) - Aggregators CSE
 * [FindTubes](https://www.findtubes.com/) - Aggregator
+* [Porn Guide](https://fapbuddies.net/porn-guide/) - How-to Find Porn
 * [xHamster](https://xhamster.com/)
-* [PornHub](https://www.pornhub.com/) / [Add Features](https://sleazyfork.org/en/scripts/380711) / [DL Script](https://gist.github.com/Riboe/58acabe04abe74421e88b4269cbdf41e)
+* [PornHub](https://www.pornhub.com/) / [Add Features](https://sleazyfork.org/en/scripts/380711), [2](https://codeberg.org/aolko/userscripts/wiki/PH-toolbox) / [DL Script](https://gist.github.com/Riboe/58acabe04abe74421e88b4269cbdf41e)
 * [TNAFlix](https://www.tnaflix.com/)
 * [PornXP](https://pornxp.org/)
 * [Youporn](https://www.youporn.com/)
@@ -259,10 +260,10 @@
 * ⭐ **[Coomer.Party](https://coomer.su/)** - OnlyFans
 * ⭐ **[SimpCity](https://simpcity.su/)** - OnlyFans / Patreon
 * [Bunkr Albums](https://bunkr-albums.io/) - OnlyFans
-* [PornLeaks](https://pornleaks.in/) - OnlyFans / Patreon
+* [PornLeaks](https://pornleaks.in/) or [Vixenleaks](https://vixenleaks.com/) - OnlyFans / Patreon
 * [NobodyHome](https://nobodyhome.tv/index.php) - OnlyFans
+* [Vlixa](https://vlixa.com/) - OnlyFans
 * [OnlyFans420](https://rentry.co/OnlyFans420) / [2](https://rentry.org/OnlyFans421) - OnlyFans
-* [MissingToofff](https://missingtoofff.com/) - OnlyFans Leak Site List
 * [Thothub](https://thothub.to/), [2](https://thothub.is/) - OnlyFans
 * [OF-Scraper](https://github.com/datawhores/OF-Scraper) or [OF-DL](https://github.com/sim0n00ps/OF-DL) - OnlyFans Scrapers
 
@@ -515,6 +516,7 @@
 * [TheFetLibrary](https://www.thefetlibrary.com/) - Fictional
 * [Adult-Fanfiction](https://www.adult-fanfiction.org/) - Fanfiction
 * [HyperDreams](https://www.hyperdreams.com/) - Fictional / Interactive
+* [Infaera](https://infaera.neocities.org/) - Fictional / Interactive
 * [EroFights](https://erofights.com/) - Fictional / Chat-Based
 * [StoriesOnline](https://storiesonline.net/) - Fictional / Non-Fic
 * [IndianSexStories](https://www.indiansexstories2.net/) - Fictional / Non-Fic
