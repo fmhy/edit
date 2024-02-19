@@ -15027,7 +15027,6 @@ import Index from './.vitepress/theme/Posts.vue'
 * [Accessibility Guide](https://accessibility.18f.gov/checklist/), [Pa11y](https://pa11y.org/), [Wave](https://wave.webaim.org/), [MagentaA11y](https://www.magentaa11y.com/), [Andi](https://www.ssa.gov/accessibility/andi/help/install.html) or [A11ygator](https://a11ygator.chialab.io/) - Accessibility Evaluation Tools
 * [Accessibility Insights](https://accessibilityinsights.io/) - Fix Accessibility Issues
 * [Accessibility Cheatsheet](https://moritzgiessmann.de/accessibility-cheatsheet/) or [A11Project](https://www.a11yproject.com/checklist) - Site Accessibility Guidelines
-* [Violating GDPR](https://www.violating-gdpr.com/) - GDPR Violation Test
 * [Color Oracle](https://colororacle.org/), [WhoCanUse](https://www.whocanuse.com/) or [Toptal](https://www.toptal.com/designers/colorfilter) - Color Blindness Simulator / Tests
 * [Web Vitals Leaderboard](https://vitals-leaderboard.pazguille.me/) or [Lighthouse Metrics](https://lighthouse-metrics.com/) - Website Performance Tests
 * [Prometheus](https://prometheus.io/) - Site Metrics / [Setup](https://thanos.io/)
@@ -15399,7 +15398,6 @@ import Index from './.vitepress/theme/Posts.vue'
 * 🌐 **[Awesome Badges](https://dev.to/envoy_/150-badges-for-github-pnk)** - GitHub Badge Resources
 * 🌐 **[GitHub-Userscripts](https://github.com/Mottie/GitHub-userscripts)** - GitHub Userscripts
 * ⭐ **[GitHub Desktop](https://desktop.github.com/)** / [Linux](https://github.com/shiftkey/desktop) - GitHub Desktop Client
-* ⭐ **[GotHub](https://codeberg.org/gothub/gothub)** - GitHub Frontend
 * ⭐ **[GitHub.Dev](https://github.dev/)** - GitHub Web App
 * [GitHubStatus](https://www.githubstatus.com/) - GitHub Outage Status
 * [Githut](https://githut.info/) or [Languish](https://tjpalmer.github.io/languish/) - GitHub Programming Language Stats
