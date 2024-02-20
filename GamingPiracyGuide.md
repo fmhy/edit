@@ -1208,10 +1208,11 @@
 ## ▷ Geometry Dash Tools
 
 * [Geode](https://geode-sdk.org/) - Mod Menu & Modding Framework
-* [Mega Hack](https://absolllute.com/) - Mod Menu
+* [Mega Hack](https://absolllute.com/) - Feature-rich Mod Menu
+* [Demon List](https://pointercrate.com/demonlist/) - Official Demon List
 * [GDDP](https://gddp.pro/) - Practice & Improve Your Skills
 * [Song File Hub](https://songfilehub.com/home) - GD Songs & Mashups / [Discord](https://discord.com/invite/maSgd4zpEF)
-* [Soluble Texture Packs](https://solubletexturepacks.com/) - GD Texture Packs / [Manager]
+* [Soluble Texture Packs](https://solubletexturepacks.com/) - GD Texture Packs / [Manager]()
 
 ***
 
