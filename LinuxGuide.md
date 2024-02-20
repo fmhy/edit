@@ -259,6 +259,7 @@ Linux Gaming Guide
 * [ScanMem](https://github.com/scanmem/scanmem) - Memory Scanner / Debugger
 * [Linux-dash](https://github.com/tariqbuilds/linux-dash) - Web-based System Dashboard
 * [pacwall](https://github.com/Kharacternyk/pacwall) - Live Wallpaper Dependency Graph / Package Status
+* [keyd](https://github.com/rvaiya/keyd) or [xremap](https://github.com/k0kubun/xremap) - Keyboard Remapping
 * [auto-cpufreq](https://github.com/AdnanHodzic/auto-cpufreq) - CPU Speed & Power Optimization Automation
 * [node-startup](https://github.com/ralyodio/node-startup) - Startup Script
 * [die.net](https://linux.die.net/) - Linux Documentation

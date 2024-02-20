@@ -119,16 +119,17 @@
 * [PromptPerfect](https://promptperfect.jina.ai/) - Prompt Optimization
 * [promptfoo](https://github.com/typpo/promptfoo) or [PromptKnit](https://promptknit.com/) - Prompt Playgrounds
 * [Marketing 2099](https://sintralabs.notion.site/Marketing-2099-Ultimate-ChatGPT-Marketing-Prompts-To-Copy-Paste-200-tasks-fc22c9142d6a4a4286a3fe755be932e6) - ChatGPT Marketing Prompts
+* [Tensor Trust](https://tensortrust.ai/) or [Gandalf](https://gandalf.lakera.ai/) - Prompting Skill Games
 
 ***
 ***
 
 # ► AI Indexes
 
-* ⭐ **[Toolify](https://www.toolify.ai/)** - AI Directory
-* ⭐ **[Phygital Library](https://library.phygital.plus/)** - AI Directory / Workflow Builder
-* ⭐ **[AI-MF](https://whoisdsmith.gitbook.io/ai-mf/)** - AI Directory / [GitHub](https://github.com/whoisdsmith/AI-MTHRFCKR)
-* ⭐ **[LifeArchitect](https://lifearchitect.ai/models-table/)** - LLM Index
+* 🌐 **[Toolify](https://www.toolify.ai/)** - AI Directory
+* 🌐 **[Phygital Library](https://library.phygital.plus/)** - AI Directory / Workflow Builder
+* 🌐 **[AI-MF](https://whoisdsmith.gitbook.io/ai-mf/)** - AI Directory / [GitHub](https://github.com/whoisdsmith/AI-MTHRFCKR)
+* 🌐 **[LifeArchitect](https://lifearchitect.ai/models-table/)** - LLM Index
 * [ToolDirectory](https://www.tooldirectory.ai/) - AI Directory
 * [Futurepedia](https://www.futurepedia.io/) - AI Directory
 * [AI Search](https://ai-search.io/) - AI Directory
