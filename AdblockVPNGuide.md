@@ -423,6 +423,7 @@
 
 ***
 
+* 🌐 **[Do you need vpn when downloading files from torrent ?](https://www.comparitech.com/blog/vpn-privacy/internet-censorship-map)**
 * 🌐 **[VPN Comparison Chart](https://redd.it/171h9qa)** or [Techlore Chart](https://techlore.tech/vpn)- VPN Comparisons
 * ⭐ **[/r/VPNs](https://www.reddit.com/r/vpns/)** - VPN Help and Discussion 
 * ⭐ **[AirVPN](https://airvpn.org/)** - [Pricing](https://i.ibb.co/8rVJ5JB/c4b813a6b6bc.png)
