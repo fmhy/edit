@@ -1620,12 +1620,27 @@
 
 # ► Thai
 
-## ▷ Streaming
+* [Overclockzone](https://forum.overclockzone.com/forums/), [Blognone](https://www.blognone.com/forum) - Tech Forums / Marketplaces
 
-* [moviehdfree]( https://moviehdfree.net/) - Movies / TV
-* [ThaiMovies&Shows](https://m.vk.com/thaimovies) - Movies / TV
-* [037hdmovie](https://www.037hdmovie.com/) - Movies
-* [movie11](https://movie11.com/) - Movies
+## ▷ Streaming
+**Note:** There a lot of Gambling Site Ads, Don't click anything on ads, And always use Adblock
+
+* [moviehdfree]( https://moviehdfree.net/) - Movies / TV / Sub / Dub
+* [ThaiMovies&Shows](https://m.vk.com/thaimovies) - Movies / TV / Sub / Dub
+* [037hdmovie](https://www.037hdmovie.com/) - Movies / Sub / Dub
+* [movie11](https://movie11.com/) - Movies / Sub / Dub
+* [AnimeYuzu](https://animeyuzu.com/) - Anime / Cartoons / Sub / Dub
+* [Alpha-Hen](https://www.alpha-hen.com/) - Anime / Hentai / **NSFW**
+
+## ▷ Downloading
+
+* [One2LoadUp](https://www.one2loadup.com/) - Movies / TV / Cartoons / Sub / Dub
+* [MawTo](https://mawtoload.com/) - Software / Games
+* [i-LoadZone](https://i-loadzone.com/) - Software
+
+## ▷ Torrenting
+
+* [TorrentDD](https://www.torrentdd.com/) - Video / Audio / Software / **NSFW** / Books
 
 ## ▷ Reading
 
