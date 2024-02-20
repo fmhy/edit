@@ -4,43 +4,44 @@
 ***
 ***
 
-* **Note** - Our [Discord](https://redd.it/17f8msf) has a AI bot with Llama, Mistral and Stable Diffusion. Feel free to join and try it out.
+* **Note** - Our [Discord](https://redd.it/17f8msf) has an AI bot with Llama, Mistral, and Stable Diffusion. Feel free to join and try it out.
 
 ***
 
-# ► Proprietary Chatbots
+# ► AI Chatbots
 
-* 🌐 **[Awesome Free ChatGPT](https://github.com/LiLittleCat/awesome-free-chatgpt/blob/main/README_en.md)** or **[FOFA](https://en.fofa.info/result?qbase64=ImxvYWRpbmctd3JhcCIgJiYgImJhbGxzIiAmJiAiY2hhdCIgJiYgaXNfZG9tYWluPXRydWU%3D)** / [2](https://en.fofa.info/result?qbase64=dGl0bGU9PSJDaGF0R1BUIFdlYiI%3D) - ChatGPT WebUI Indexes
 * 🌐 **[LMSYS Arena](https://huggingface.co/spaces/lmsys/chatbot-arena-leaderboard)** - Chatbot Leaderboard with Elo rating
+* 🌐 **[LLM Leaderboard](https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard)** - Open Source Chatbot Benchmark
+* 🌐 **[Transformer Models Timeline](https://ai.v-gar.de/ml/transformer/timeline/)** - LLM Timeline
+  
+***
+
+## ▷ Online Chatbots
+
 * ⭐ **[Microsoft Copilot](https://copilot.microsoft.com)** - GPT-4/3.5 Powered Search / [SydneyQT Jailbreak](https://github.com/juzeon/SydneyQt)
 * ⭐ **[wrtn](https://wrtn.ai/)** - GPT-4 Chatbot / [Android](https://play.google.com/store/apps/details?id=com.wrtn.app) / [iOS](https://apps.apple.com/us/app/%EB%A4%BC%ED%8A%BC-%EB%AA%A8%EB%91%90%EB%A5%BC-%EC%9C%84%ED%95%9C-ai-%ED%8F%AC%ED%84%B8/id6448556170) (ask for english)
 * ⭐ **[Gemini](https://gemini.google.com/)** - Google's Chatbot
 * ⭐ **[ChatGPT](https://chat.openai.com/)** - GPT-3.5 Chatbot / [Discord](https://discord.com/invite/openai)
-* ⭐ **[Perplexity](https://www.perplexity.ai/)** - AI Powered Search / [Multiple Chatbots](https://labs.perplexity.ai/)
-* ⭐ **[Ora](https://ora.ai/start)** - GPT-3.5 Based Chatbots
+* ⭐ **[Perplexity](https://www.perplexity.ai/)** - GPT-3.5 Powered Search / [Open Source Models](https://labs.perplexity.ai/)
+* ⭐ **[FlowGPT](https://flowgpt.com/chat)** - Multiple Chatbots / [Discord](https://discord.com/invite/tWZGzcpTkf)
+* ⭐ **[LMSYS Chat](https://chat.lmsys.org/)** - Chat and Compare Multiple Chatbots
 * [Phind](https://www.phind.com/) - GPT-3.5 Powered Search
+* [Ora](https://ora.ai/start) - GPT-3.5 Based Chatbots
+* [HuggingChat](https://huggingface.co/chat/) - Open Source Chatbots
 * [Pi](https://pi.ai/talk) - Inflection AI's Chatbot
-* [Poe](https://poe.com/) - GPT-3.5 and Claude Chatbot / [Discord](https://discord.com/invite/joinpoe)
-* [Vitalentum](https://vitalentum.net/free-chat-gpt) - GPT-3 Chatbot
-* [AnonChatGPT](https://anonchatgpt.com/) - GPT-3 Chatbot
+* [Poe](https://poe.com/) - Multiple Chatbots / 150 Daily / [Discord](https://discord.com/invite/joinpoe)
 * [Claude](https://claude.ai/) - Anthropic's Chatbot
-* [TGPT](https://github.com/aandrew-me/tgpt) - ChatGPT TUI
+* [AI Playground](https://play.vercel.ai/) - Compare Multiple Chatbots
 * [GlobalGPT](https://www.globalgpt.nspiketech.com/#/) - AI Chatbot with Document Support
-* [LibreChat](https://github.com/danny-avila/LibreChat),  [HemulGM](https://github.com/HemulGM/ChatGPT), [SmolAI](https://github.com/smol-ai/menubar/), [Chatbot-UI](https://github.com/mckaywrigley/chatbot-ui) or [yakGPT](https://github.com/yakGPT/yakGPT) - ChatGPT Desktop Apps / GUIs
 
 ***
 
-# ► Open-Source Chatbots
+## ▷ Self-Hosting Tools
 
-* 🌐 **[LLM Leaderboard](https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard)** - Open Source Chatbot Benchmark
-* 🌐 **[Transformer Models Timeline](https://ai.v-gar.de/ml/transformer/timeline/)** - LLM Timeline
-* ⭐ **[LMSYS Chat](https://chat.lmsys.org/)**, **[HuggingChat](https://huggingface.co/chat/)** or **[FlowGPT](https://flowgpt.com/chat)** - Multi-Chatbots / [GitHub](https://github.com/huggingface/chat-ui)
 * ⭐ **[SillyTavern](https://github.com/SillyTavern/SillyTavern)** - Front-end for LLMs
-* ⭐ **[Mixtral 8x7b](https://huggingface.co/docs/transformers/model_doc/mixtral)** - Open Source LLM / [Guide](https://rentry.org/HowtoMixtral)
 * ⭐ **[llama.cpp](https://github.com/ggerganov/llama.cpp)** - Self-Host Transformer Based LLMs / [Guide](https://rentry.org/llama-mini-guide)
 * ⭐ **[kobold.cpp](https://github.com/LostRuins/koboldcpp)** - llama.cpp with API + GUI / [rocM](https://github.com/YellowRoseCx/koboldcpp-rocm) / [Colab](https://colab.research.google.com/github/LostRuins/koboldcpp/blob/concedo/colab.ipynb)
 * ⭐ **[Pinokio](https://pinokio.computer/)** - Single Click AI Model Installer / [Discord](https://discord.gg/TQdNwadtE4)
-* ⭐ **[Mancer](https://mancer.tech)** - Uncensored LLMs / [Discord](https://discord.com/invite/6DZaU9Gv9F)
 * ⭐ **[Oobabooga Text Generation WebUI](https://github.com/oobabooga/text-generation-webui)** - Self-Host Models / [Colab](https://colab.research.google.com/github/pcrii/Philo-Colab-Collection/blob/main/4bit_TextGen_Gdrive.ipynb)
 * ⭐ **[Aphrodite Engine](https://github.com/PygmalionAI/aphrodite-engine)** - Serve LLMs at Scale with Kobold & OpenAI APIs / [Colab](https://colab.research.google.com/github/AlpinDale/misc-scripts/blob/main/Aphrodite.ipynb)
 * [LLaVA](https://llava.hliu.cc/) - Chatbot with Image Support
@@ -52,6 +53,8 @@
 * [Dify](https://dify.ai/) - Create AI Apps
 * [PlugBear](https://plugbear.io/) - Connect LLMs to Apps
 * [Generative AI for Beginners](https://github.com/microsoft/generative-ai-for-beginners) - Generative AI Guides
+* [TGPT](https://github.com/aandrew-me/tgpt) - ChatGPT TUI
+* [LibreChat](https://github.com/danny-avila/LibreChat),  [HemulGM](https://github.com/HemulGM/ChatGPT), [SmolAI](https://github.com/smol-ai/menubar/) or [Chatbot-UI](https://github.com/mckaywrigley/chatbot-ui)  - ChatGPT Desktop Apps / GUIs
 
 ***
 
@@ -81,8 +84,8 @@
 ## ▷ ChatGPT Tools
 
 * 🌐 **[Awesome ChatGPT](https://github.com/uhub/awesome-chatgpt)** - ChatGPT Resources
-* ⭐ **[AI Playground](https://play.vercel.ai/)**, [h2oGPT](https://gpt.h2o.ai/) or [ChatHub](https://chathub.gg/) - Com
-pare AI Responses
+* 🌐 **[Awesome Free ChatGPT](https://github.com/LiLittleCat/awesome-free-chatgpt/blob/main/README_en.md)** or **[FOFA](https://en.fofa.info/result?qbase64=ImxvYWRpbmctd3JhcCIgJiYgImJhbGxzIiAmJiAiY2hhdCIgJiYgaXNfZG9tYWluPXRydWU%3D)** / [2](https://en.fofa.info/result?qbase64=dGl0bGU9PSJDaGF0R1BUIFdlYiI%3D) - ChatGPT WebUI Indexes
+* ⭐ **[ChatHub](https://chathub.gg/)** - Compare AI Responses
 * ⭐ **[ChatPDF](https://www.chatpdf.com/)** or [Ask Your PDF](https://askyourpdf.com/) - Turn PDFs into Chatbots
 * ⭐ **[TypeSet](https://typeset.io/)** - Research Paper Chatbot
 * [Erin](https://erin.ac/) or [SallyBot](https://github.com/DeSinc/SallyBot/) - ChatGPT Discord Bots
@@ -116,16 +119,17 @@ pare AI Responses
 * [PromptPerfect](https://promptperfect.jina.ai/) - Prompt Optimization
 * [promptfoo](https://github.com/typpo/promptfoo) or [PromptKnit](https://promptknit.com/) - Prompt Playgrounds
 * [Marketing 2099](https://sintralabs.notion.site/Marketing-2099-Ultimate-ChatGPT-Marketing-Prompts-To-Copy-Paste-200-tasks-fc22c9142d6a4a4286a3fe755be932e6) - ChatGPT Marketing Prompts
+* [Tensor Trust](https://tensortrust.ai/) or [Gandalf](https://gandalf.lakera.ai/) - Prompting Skill Games
 
 ***
 ***
 
 # ► AI Indexes
 
-* ⭐ **[Toolify](https://www.toolify.ai/)** - AI Directory
-* ⭐ **[Phygital Library](https://library.phygital.plus/)** - AI Directory / Workflow Builder
-* ⭐ **[AI-MF](https://whoisdsmith.gitbook.io/ai-mf/)** - AI Directory / [GitHub](https://github.com/whoisdsmith/AI-MTHRFCKR)
-* ⭐ **[LifeArchitect](https://lifearchitect.ai/models-table/)** - LLM Index
+* 🌐 **[Toolify](https://www.toolify.ai/)** - AI Directory
+* 🌐 **[Phygital Library](https://library.phygital.plus/)** - AI Directory / Workflow Builder
+* 🌐 **[AI-MF](https://whoisdsmith.gitbook.io/ai-mf/)** - AI Directory / [GitHub](https://github.com/whoisdsmith/AI-MTHRFCKR)
+* 🌐 **[LifeArchitect](https://lifearchitect.ai/models-table/)** - LLM Index
 * [ToolDirectory](https://www.tooldirectory.ai/) - AI Directory
 * [Futurepedia](https://www.futurepedia.io/) - AI Directory
 * [AI Search](https://ai-search.io/) - AI Directory
@@ -140,7 +144,7 @@ pare AI Responses
 
 # ► Text Generators
 
-* ⭐ **[TextFX](https://textfx.withgoogle.com/)** - AI Creative Writing Tools
+* ⭐ **[TextFX](https://textfx.withgoogle.com/)** or [rytr](https://rytr.me/) - AI Creative Writing Tools
 * [Scrip AI](https://scripai.com/), [InkForAll](https://app.inkforall.com/tools), [QuickPenAI](https://quickpenai.com/) - Online AI Text Tools
 * [NovelAI](https://novelai.net/) - Story Writing AI / [Limit Bypass](https://pastebin.com/JDyvqZcz), [2](https://greasyfork.org/en/scripts/448926)
 * [Dreamily](https://dreamily.ai/) or [NightSaga](https://nightsaga.ai/) - Story Writing AIs
@@ -182,7 +186,6 @@ pare AI Responses
 * [NOP / WAS](https://colab.research.google.com/drive/1jUwJ0owjigpG-9m6AI_wEStwimisUE17) - AI Image Generation Colab
 * [MagicBrush](https://www.magicbru.sh/), [image-mixer-demo](https://huggingface.co/spaces/lambdalabs/image-mixer-demo), [AITransformer](https://aitransformer.net/) - AI Image Transformers
 * [SD Inpainting](https://huggingface.co/spaces/runwayml/stable-diffusion-inpainting), [Inpaint Anything](https://github.com/geekyutao/Inpaint-Anything) or [Lama Cleaner](https://github.com/Sanster/lama-cleaner) - Image Fill / Item Removal
-* [Glaze](https://glaze.cs.uchicago.edu/index.html) or [Nightshade](https://nightshade.cs.uchicago.edu/downloads.html) - Protect Digital Art from AI Copies
 * [Unstable Diffusion](https://discord.com/invite/unstablediffusion) - AI Image Community
 * [/r/sdforall](https://www.reddit.com/r/sdforall/) - Stable Diffusion Subreddit
 
@@ -307,6 +310,7 @@ pare AI Responses
 * [ttsMP3](https://ttsmp3.com/)
 * [Vall-e](https://github.com/enhuiz/vall-e)
 * [TextToMP3](https://www.texttomp3.online/)
+* [Listnr](https://listnr.ai/)
 * [FakeYou](https://fakeyou.com/)
 * [Woord](https://www.getwoord.com/)
 * [TTSMaker](https://ttsmaker.com/)

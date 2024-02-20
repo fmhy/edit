@@ -549,6 +549,7 @@
 * [OnSites](https://www.onsites.fyi/) - View / Share Interview Experiences
 * [JobBoardSearch](https://jobboardsearch.com/), [CyberCoders](https://www.cybercoders.com/), [whoishiring](https://whoishiring.io/), [Toby Tools](https://rentry.co/qnu6x), [The Muse](https://www.themuse.com/search/) or [EuroJobs](https://eurojobs.com/) - Job Search
 * [50WaysToGetAJob](https://50waystogetajob.com/) - Interactive Job Search Guide
+* [RolePad](https://rolepad.com/) - Job Search Manager
 * [80,000 Hours](https://80000hours.org/) - Explore Career Options
 * [/r/careerguidance](https://www.reddit.com/r/careerguidance/) - Career Guidance Subreddit
 * [Science Career General](https://sciencecareergeneral.neocities.org/) - PhD / STEM Career Study Guides
@@ -601,6 +602,8 @@
 * [cvservant](https://cvservant.com/cv/)
 * [resume-nation](https://resume-nation.github.io/)
 * [sajilocv](https://sajilocv.com/)
+* [GotResumeBuilder](https://www.gotresumebuilder.com/)
+* [Resume.com](https://www.resume.com/)
 * [intelligentcv](https://www.intelligentcv.app/)
 * [cakeresume](https://www.cakeresume.com/)
 * [resumgo](https://www.resumgo.com/)
@@ -682,6 +685,7 @@
 * 🌐 **[Awesome Startup](https://github.com/Ibexoft/awesome-startup-tools-list)** or [Tools for Startups](https://docs.google.com/spreadsheets/d/1s6-hGBh0_tqa-jd23fsdYuwbmS8UPmElPqaH-Rnoa_A/htmlview) - Startup Resources Indexes
 * 🌐 **[moreThanFAANGM](https://github.com/Kaustubh-Natuskar/moreThanFAANGM)** - Good Companies / Startups Index
 * [BetaList](https://betalist.com/) or [IdeasAI](https://ideasai.com/) - Get Startup Ideas
+* [TheGrowthList](https://www.thegrowthlist.co/) - Startup Tips
 * [Business Generator](https://business-generator.vercel.app/) -  Generate Business Ideas
 * [Failory](https://www.failory.com/graveyard) - Learn Why Startups Failed
 * [280+ Websites to Submit Your Startup](https://airtable.com/shrwqaak73gy83w9A/tblu5RcUft9fYp9Ju/viwFHmIyMniXzlpK4?blocks=show) or [PlacesToPostYourStartup](https://www.placestopostyourstartup.com/) - Startup Submission Sites
@@ -691,6 +695,7 @@
 * [AcronymCreator](https://acronymcreator.net/) - Business Acronym Generator
 * [Business Card Generator](https://business-card-generator.vercel.app/) - Business Card Generator
 * [Recrooit](https://app.recrooit.com/job-description-generator) - Job Description Generator
+* [AvaDocs](https://www.avodocs.com/) - Generate Legal Documents for Startups
 
 ***
 
@@ -940,7 +945,8 @@
 * [Wireclub](https://www.wireclub.com/) - Topic Chat Rooms
 * [FandomPost](https://fandompost.vbulletin.net/) - Fandom Discussions
 * [AnimeSuki](https://forums.animesuki.com/) or [Fanverse](https://www.fanverse.org/) - Anime Discussion
-* [SuperBay](https://forum.suprbay.org/) - Piracy Discussion
+* [/r/Piracy](https://www.reddit.com/r/Piracy/) or [SuperBay](https://forum.suprbay.org/) - Piracy Discussion
+* [Resetera](https://www.resetera.com/) or [Neogaf](https://www.neogaf.com/) - Game Discussion
 * [DreamJournal](http://dreamjournal.net/) - Dream Sharing Community
 * [NotAlwaysRight](https://notalwaysright.com/) - Customer Service Stories
 * [Marijuana Subs](https://www.reddit.com/r/trees/wiki/entreddits_social) - Marijuana Subreddits
@@ -1143,6 +1149,7 @@
 * [Roller Coaster Database](https://rcdb.com/) - World Roller Coaster Index
 * [FirstVersions](https://www.firstversions.com/) - Find First Versions of Anything
 * [SaveTheSounds](http://savethesounds.info/) - Museum of Endangered Sounds
+* [HelixChamber](https://helixchamber.com/) - Unused Pokémon Material
 * [Pokémon Fossil Museum](https://my.matterport.com/show/?m=P9WCbyCBGBM) - Explore Pokémon Fossil Museum
 * [DroneAwards](https://droneawards.photo/) - Drone Photo Awards
 * [Pushing Pixels](https://www.pushing-pixels.org/fui/) or [Saji8k](https://www.saji8k.com/kit-fui/) - Imaginary UI from Movies
@@ -1177,6 +1184,7 @@
 * [theOtaku](https://theotaku.com/quizzes) - Anime Personality Quizzes
 * [SexValues](https://sexvalues.github.io/) - Sexual Values Quiz
 * [Six Triangles](https://sixtriangles.github.io/), [9 Axes](https://9axes.github.io/), [8dreams](https://8dreams.github.io/), [ISideWith](https://www.isidewith.com/) or [8 Values](https://8values.github.io/) - Political Alignment Test
+* [Goody2](https://www.goody2.ai/chat) - Worlds Most Ethical AI
 * [HowNormalAmI?](https://www.hownormalami.eu/) - Face Judge A.I.
 * [OnThisDay](https://www.onthisday.com/) - What Happened on Specific Days
 * [What Happened in my Birthyear](http://whathappenedinmybirthyear.com/) - Find out what happened on your Birth Year
@@ -1264,7 +1272,7 @@
 * [April Fools Day On The Web](https://aprilfoolsdayontheweb.com/) - Find April Fools' Pranks Played by Websites 
 * [PrankHotline](https://prankhotline.com/) or [Fake All](https://apps.apple.com/us/app/fake-all-call-chat-message/id1518594150) - Phone Pranks
 * [GeekPrank](https://geekprank.com/) - Windows Pranks
-* [Update Faker](https://updatefaker.com/) - Fake System Update Prank
+* [Update Faker](https://updatefaker.com/) or [Fake Update](https://fakeupdate.net/) - Fake System Update Pranks
 * [DownloadHardware](https://downloadhardware.com/) - Download Computer Hardware
 * [DownloadMoreRam](https://downloadmoreram.com/) - Download More RAM
 * [The Restart Page](http://www.therestartpage.com/) - Vintage Operating System Reboots

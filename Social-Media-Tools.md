@@ -13,6 +13,7 @@
 * [ExportComments](https://exportcomments.com/) - Export Social Media Comments 
 * [EagleEye](https://github.com/ThoughtfulDev/EagleEye) - Find Social Media Profiles From Image
 * [socid_extractor](https://github.com/soxoj/socid-extractor) - Extract Social Media User Info from Pages
+* [Snapchat Memories](https://downloadmysnapchatmemories.com/) - Download Snapchat Photos
 * [tumblr-utils](https://github.com/bbolli/tumblr-utils) - Tumblr Utilities
 * [Tumblr Savior](https://bjornstar.com/tumblr-savior) - Tumblr Dashboard Filter
 
@@ -35,7 +36,7 @@
 * [Disbox](https://disboxapp.github.io/web/) - Discord Cloud Storage
 * [CloneCord](https://github.com/Rekulous/CloneCord-bot) - GClone Cloud Storage File Manager in Discord
 * [Discord Chat Exporter](https://github.com/Tyrrrz/DiscordChatExporter) / [Python](https://github.com/mahtoid/DiscordChatExporterPy) or [Discord History Tracker](https://dht.chylex.com/) / [GitHub](https://github.com/chylex/Discord-History-Tracker) - Archive / Export Discord Chats
-* [ddpe](https://ddpe.androz2091.fr/) - Discord Data Package Explorer / [GitHub](https://github.com/Androz2091/discord-data-package-explorer)
+* [Dumpus](https://dumpus.app/) - Discord Data Package Explorer
 * [Discord Backup](https://github.com/itschasa/Discord-Backup) - Backup / Restore Discord Accounts
 * [Wumpus Central](https://discord.gg/wumpus-central-1087801778365546556) - Discord Experimental Server Hub
 * [SimpleDiscordCrypt](https://gitlab.com/An0/SimpleDiscordCrypt) - Discord Message Encryption
@@ -60,7 +61,7 @@
 * [FixTweet](https://github.com/FixTweet/FixTweet) - Fix Twitter Embeds
 * [InstaFix](https://ddinstagram.com/) - Fix Instagram Embeds
 * [8mbvideo](https://8mb.video/) or [@Snooober's Script](https://redd.it/o7vqm4) - Encode Videos to <8MB
-* [Hammertime](https://hammertime.cyou/), [Dank.tools](https://dank.tools/), [Timestamp Maker](https://pokemonworkshop.neocities.org/timestamp/) or [discordtimestampgenerator](https://discordtimestampgenerator.netlify.app/) - Generate Timestamps
+* [Hammertime](https://hammertime.cyou/), [Dank.tools](https://dank.tools/), [Timestamp Maker](https://pokemonworkshop.neocities.org/timestamp/), [discord-timestamps](https://r.3v.fi/discord-timestamps/) or [discordtimestampgenerator](https://discordtimestampgenerator.netlify.app/) - Generate Timestamps
 * [TagMap](https://tagmap.io/) - Meet People with Similar Interests
 
 ***
@@ -165,16 +166,26 @@
 
 * ⭐ **[Reddit Enhancement Suite](https://redditenhancementsuite.com/)**, [Reddit Fix](https://greasyfork.org/en/scripts/404497-reddit-fix), [Reddit Extension](https://lawrenzo.com/p/reddit-extension) or [RedditMod2](https://greasyfork.org/en/scripts/29724-redditmod2) - Reddit Enhancement Extensions / Scripts
 * ⭐ **[Old Reddit Redirect](https://github.com/tom-james-watson/old-reddit-redirect)** - Redirect New Reddit to Old
+* [Photon](https://photon-reddit.com/) or [redlib](https://github.com/redlib-org/redlib) - Reddit Frontends
 * [Reddit Login Bypass Script](https://pastebin.com/raw/sU5tqwep) - Bypass Reddit Login
 * [Reddit Comber](https://redditcomber.com/) or [Sub Notification](https://redd.it/5mz9z5) - Reddit Keyword Notifications
 * [Unreadit](https://app.mailbrew.com/unreadit) - Reddit Newsletters
 * [Reddit Shadow Ban Info](https://redd.it/ptrm7u) - Check if You've been Shadowbanned
 * [Reddit Markdown Guide](https://www.reddit.com/wiki/markdown) - Learn Reddit Markdown
 * [Reddit Preview](https://redditpreview.com/) - Preview Reddit Posts
+* [Redirect Privated](https://greasyfork.org/en/scripts/468945) - Redirect Private Pages to Cached Versions
 * [Redinfinite](https://redinfinite.com/), [redditpx](https://www.redditpx.com/) or [Redditp](https://redditp.com/) - Reddit Image / Video Slideshows
 * [RedditRaffler](https://www.redditraffler.com/) - Reddit Raffle System
 * [PowerDeleteSuite](https://github.com/j0be/PowerDeleteSuite) - Reddit Auto Post Delete
 * [SubredditLog](https://gitlab.com/scallaway/SubredditLog) - Reddit Moderation Log
+* [Reddit Emojis](https://greasyfork.org/en/scripts/443011) - Emojis for Old Reddit
+* [Subreddit Tabs](https://greasyfork.org/en/scripts/460086) - Subreddit Icon Tabs
+* [Reddit Comment Highlights](https://github.com/aesy/reddit-comment-highlights) - Highlight New Comments
+* [Reddit Spoiler Blur Remover](https://greasyfork.org/en/scripts/416091-reddit-spoiler-blur-remover) - Remove Reddit Spoiler Blur
+* [3D for Reddit](https://3dforreddit.com/) - 3D Reddit Browser
+* [SO Reddit](https://dutzi.github.io/so-reddit/) - Stack Overflow Style Viewer
+* [Pholder](https://pholder.com/) - Article Style Viewer
+* [Load Reddit Images Directly](https://github.com/nopperl/load-reddit-images-directly) / [Chrome](https://github.com/MonsterMannen/reddit-load-images-directly-chrome) - Direct Image Viewer
 * [SocialGrep](https://socialgrep.com/) - Reddit Statistics
 * [UniversalScammerList](https://www.universalscammerlist.com/) - List of Reddit Scammers
 * [Piracy](https://www.reddit.com/user/nbatman/m/piracy/), [The Piracy Feed](https://www.reddit.com/user/rekuloustoad/m/the_piracy_feed/), [PiracyHub](https://www.reddit.com/user/nanomuto/m/piracyhub/) or [Piracy Counterfeit Goods](https://www.reddit.com/user/goretsky/m/piracy_counterfeit_goods/) - Piracy Multireddits
@@ -210,20 +221,6 @@
 * [Scored](https://communities.win/) - Reddit Alt
 * [Squabblr](https://squabblr.co/) - Reddit Alt
 * [Discuit](https://discuit.net/) - Reddit Alt
-
-***
-
-## ▷ Reddit Customization
-
-* [Reddit Emojis](https://greasyfork.org/en/scripts/443011) - Emojis for Old Reddit
-* [Subreddit Tabs](https://greasyfork.org/en/scripts/460086) - Subreddit Icon Tabs
-* [Reddit Comment Highlights](https://github.com/aesy/reddit-comment-highlights) - Highlight New Comments
-* [Reddit Spoiler Blur Remover](https://greasyfork.org/en/scripts/416091-reddit-spoiler-blur-remover) - Remove Reddit Spoiler Blur
-* [Photon](https://photon-reddit.com/) or [redlib](https://github.com/redlib-org/redlib) - Reddit Frontends
-* [3D for Reddit](https://3dforreddit.com/) - 3D Reddit Browser
-* [SO Reddit](https://dutzi.github.io/so-reddit/) - Stack Overflow Style Viewer
-* [Pholder](https://pholder.com/) - Article Style Viewer
-* [Load Reddit Images Directly](https://github.com/nopperl/load-reddit-images-directly) / [Chrome](https://github.com/MonsterMannen/reddit-load-images-directly-chrome) - Direct Image Viewer
 
 ***
 
@@ -280,7 +277,7 @@
 
 ## ▷ Telegram Clients
 
-* ⭐ **[web.telegram](https://web.telegram.org/)** / [2](https://webk.telegram.org/) / [3](https://weba.telegram.org/) or [telegram-tt](https://github.com/Ajaxy/telegram-tt) - Web Clients
+* ⭐ **[web.telegram](https://web.telegram.org/)** / [2](https://webk.telegram.org/) / [3](https://weba.telegram.org/)
 * ⭐ **[Unigram](https://github.com/UnigramDev/Unigram)**, [VideoGram](https://vidogram.org/) or [TDesktop](https://github.com/Forkgram/tdesktop) / [x64](https://github.com/TDesktop-x64/tdesktop) - Desktop Clients
 * ⭐ **[tg](https://github.com/paul-nameless/tg)** - Terminal Client
 * [Pyrogram](https://docs.pyrogram.org/) / [Session Strings](https://t.me/SessionStringGeneratorZBot) - Telegram API Client
@@ -342,6 +339,8 @@
 * [BlockTube](https://github.com/amitbl/blocktube) - YouTube Content Blocker
 * [TubeBuddy](https://www.tubebuddy.com/) - YouTube Channel Tools
 * [Playboard](https://playboard.co) - YouTube Channel Stats
+* [YouTube Watchmarker](https://github.com/sniklaus/youtube-watchmarker) - Fade Thumbnails of Watched Videos
+* [Video Resumer](https://addons.mozilla.org/en-US/firefox/addon/video-resumer/) - Resume Videos Where You Left Off / [Note](https://pastebin.com/Jd1DJW8w)
 * [vidIQ](https://chromewebstore.google.com/detail/vidiq-vision-for-youtube/pachckjkecffpdphbpmfolblodfkgbhl) - YouTube Viewership Data
 * [Video Recap](https://videorecap.viewodyssey.com/) - YouTube Year in Review Stats
 * [Campfire](https://campfire.gg), [Walrus](https://joinwalrus.tv/), [Sync-Tube](https://sync-tube.de/) or [Hergetto](https://hergetto.live/) - YouTube Watch Parties
@@ -395,8 +394,8 @@
 * [YoutubeDL-Material](https://github.com/Tzahi12345/YoutubeDL-Material) - YouTube Downloader
 * [YoutubeDownloader](https://github.com/Tyrrrz/YoutubeDownloader) - YouTube Downloader
 * [YouTubePlaylist](https://youtubeplaylist.cc/) - Playlist Downloader
-* [metube](https://github.com/alexta69/metube) or [yt-dlp-web-ui](https://github.com/marcopeocchi/yt-dlp-web-ui) - YT-DL Web UIs
-* [Gropple](https://github.com/tardisx/gropple), [Tartube](https://github.com/axcore/tartube), [media-downloader](https://github.com/mhogomchungu/media-downloader), [stacher](https://stacher.io/) or [youtube-dl-gui](https://github.com/oleksis/youtube-dl-gui) - YT-DL GUIs
+* [metube](https://github.com/alexta69/metube), [ytdlp-interface](https://github.com/ErrorFlynn/ytdlp-interface) or [yt-dlp-web-ui](https://github.com/marcopeocchi/yt-dlp-web-ui) - YT-DL Web UIs
+* [Gropple](https://github.com/tardisx/gropple), [Tartube](https://tartube.sourceforge.io/), [media-downloader](https://github.com/mhogomchungu/media-downloader), [stacher](https://stacher.io/) or [youtube-dl-gui](https://github.com/oleksis/youtube-dl-gui) - YT-DL GUIs
 * [Cube YouTube Downloader](https://github.com/database64128/youtube-dl-wpf) - WPF YT-DL GUI
 * [Videomass](https://jeanslack.github.io/Videomass/) - YT-DL / FFmpeg GUI
 * [YouTube Thumbnail Grabber](https://boingboing.net/features/getthumbs), [YTI](https://youtubethumbnailimage.com/), [thumbnailsave](https://thumbnailsave.com/), [thumbnail-download](https://thumbnail-download.com/) or [Get YT Thumbnail](https://www.get-youtube-thumbnail.com/) - Download YouTube Thumbnails
@@ -468,9 +467,6 @@
 * [HypeTrigger](https://hypetrigger.io/) - Automatically Create Clips
 * [VODarchive](https://vodarchive.com/) - Twitch VOD Archive
 * [Twitch Previews](https://github.com/MarkM-dev/Previews-client) or [Previews](https://previews-app.com/) - Twitch Video Previews
-* [Walrus](https://joinwalrus.tv/) - Make Twitch Watch Parties
-* [MuliTwitch.tv](https://multitwitch.tv/), [MultiTwitch.co](https://multitwitch.co/), [Twitch Replay](https://www.twitch-replay.com/), [Multi](https://multi.raredrop.co/), [MultiStre.am](https://multistre.am/) or [TwitchTheater](https://twitchtheater.tv/) - Sync Twitch Videos w/ Friends
-* [Twitch Lurker](https://github.com/mikeyaworski/Twitch-Lurker) - Twitch Stream Auto-Open
 * [Unwanted Twitch](https://github.com/kwaschny/unwanted-twitch) - Hide Twitch Categories / Channels
 * [Ultrawidify](https://github.com/tamius-han/ultrawidify) - Fix Twitch Aspect Ratio
 * [Featured.chat](https://featured.chat/) - Twitch Chat Manager
@@ -495,14 +491,17 @@
 
 ***
 
-## ▷ Twitch Clients
+## ▷ Twitch Players
 
 * ⭐ **[Chatterino](https://chatterino.com/)**, [Chatterino Homies](https://chatterinohomies.com/) or [Chatty](https://chatty.github.io/) - Twitch Chat Clients
 * [Orion](https://alamminsalo.github.io/orion/), [Twitch App](https://gitlab.com/twitch-application/application) or [Tress](https://gitlab.com/Ignamarte/tress) - Twitch Desktop Clients
 * [SpeechChat](https://speechchat.com/) - Twitch Text to Speech Client
 * [Twitch Lite](https://thavixt.github.io/twitch-lite/) - Lightweight Twitch Webplayer
+* [Walrus](https://joinwalrus.tv/) - Make Twitch Watch Parties
+* [MuliTwitch.tv](https://multitwitch.tv/), [MultiTwitch.co](https://multitwitch.co/), [Twitch3D](https://hjjg200.github.io/twitch3d/), [Twitch Replay](https://www.twitch-replay.com/), [Multi](https://multi.raredrop.co/), [MultiStre.am](https://multistre.am/) or [TwitchTheater](https://twitchtheater.tv/) - Sync Twitch Videos w/ Friends / Mult-Stream
 * [Twitchls](https://twitchls.com/) - HTML5 Twitch Stream Player
 * [Alternate Player for Twitch.tv](https://pastebin.com/Z7NWxSfA) - Alternative Twitch Player
+* [Twitch Lurker](https://github.com/mikeyaworski/Twitch-Lurker) - Twitch Stream Auto-Open
 
 ***
 

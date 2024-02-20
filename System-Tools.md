@@ -16,18 +16,18 @@
 * [Windows-11-Guide](https://github.com/mikeroyal/Windows-11-Guide), [Pastas](https://rentry.org/pastas#guides), [Eleven Forums Guides](https://www.elevenforum.com/tutorials/) or [Ten Forums Guides](https://www.tenforums.com/tutorials/) - Windows Guides
 * [NanaRun](https://github.com/M2Team/NanaRun) - System Admin Tools
 * [Übersicht](https://tracesof.net/uebersicht/) - System Command Widgets
-* [SmartWindows](https://smartwindows.app/) - Create / Restore Windows Profiles
 * [PolicyPlus](https://github.com/Fleex255/PolicyPlus) - Local Group Policy Editor
 * [PowerPlanSwitcher](https://www.microsoft.com/en-us/p/powerplanswitcher/9nblggh556l3) - Quickly Change Power Schemes
 * [Scheduler](https://www.splinterware.com/products/scheduler.html) or [TaskRunner](https://www.keyefficiency.com/) - System Task Scheduler
 * [Process Explorer](https://learn.microsoft.com/en-us/sysinternals/downloads/process-explorer) or [Process Hacker](https://processhacker.sourceforge.io/) - Process Monitors
-* [SuperF4](https://stefansundin.github.io/superf4/), [KillProcess](https://www.tgmdev.be/applications/killprocess/killprocess.php) or [FKill](https://github.com/sindresorhus/fkill-cli) - Process Killers
+* [SuperF4](https://stefansundin.github.io/superf4/) or [FKill](https://github.com/sindresorhus/fkill-cli) - Process Killers
 * [Dependencies](https://github.com/lucasg/Dependencies) - View Application Dependencies
 * [RegExp](https://github.com/zodiacon/TotalRegistry), [ripgrep-all](https://github.com/phiresky/ripgrep-all) or [Registry-Finder](https://registry-finder.com/) - Registry Explorers
 * [WinbIndex](https://winbindex.m417z.com/) - Windows System Files / Binaries
 * [OfflineInsiderEnroll](https://github.com/abbodi1406/offlineinsiderenroll) - Enable Windows Insider without Account
 * [OpenHab](https://www.openhab.org/) - Home Automation / [Setup](https://github.com/openhab/openhabian) / [Mobile](https://github.com/openhab/openhab-android)
 * [Google Assistant Desktop Client](https://github.com/Melvin-Abraham/Google-Assistant-Unofficial-Desktop-Client) or [Home Assistant](https://www.home-assistant.io/) - Home Assistant Client / [GUI](https://github.com/LAB02-Research/HASS.Agent)
+* [hOn](https://github.com/Andre0512/hOn) - Home Assistant Integration for Appliances
 * [CasaOS](https://casaos.io/) - Cloud Home System / [GitHub](https://github.com/IceWhaleTech/CasaOS)
 * [Leon](https://getleon.ai/) - AI Assistant
 * [Rhasspy](https://rhasspy.readthedocs.io/en/latest/) - Voice Assistant
@@ -43,11 +43,9 @@
 ***
 
 * ⭐ **[Bulk Crap Uninstaller](https://www.bcuninstaller.com/)** - Bulk Uninstallation Tool
-* ⭐ **[BleachBit](https://www.bleachbit.org/)** - Clean System Memory
+* ⭐ **[BleachBit](https://www.bleachbit.org/)** - Clean System Storage
 * ⭐ **[SophiApp](https://github.com/Sophia-Community/SophiApp)** / [Script](https://github.com/farag2/Sophia-Script-for-Windows) - Debloater
 * [GhostBuster](https://bitbucket.org/wvd-vegt/ghostbuster/src/master/) or [Device Cleanup Tool](https://www.majorgeeks.com/files/details/device_cleanup_tool.html) - Remove Non-Present Devices
-* [Optimize-Offline](https://github.com/DrEmpiricism/Optimize-Offline) - Debloater
-* [BRU](https://github.com/arcadesdude/BRU) - Debloater
 * [Win10Debloat](https://github.com/Raphire/Win10Debloat) - Debloater
 * [Adobe Debloater](https://github.com/FlickyOs/Adobe-Debloater) - Debloat Adobe Apps
 * [BloatyNosy](https://github.com/builtbybel/BloatyNosy) - Windows 11 Debloaters
@@ -66,7 +64,7 @@
 * [Hunt and Peck](https://github.com/zsims/hunt-and-peck/), [Cerebro App](https://cerebroapp.com/) or [Zazu App](https://zazuapp.org/) - Improved System Navigation
 * [SmartSystemMenu](https://github.com/AlexanderPro/SmartSystemMenu) - Improved System Menu
 * [EasyContextMenu](https://www.sordum.org/7615/easy-context-menu-v1-6/) or [Context Menu Shell](https://nilesoft.org/) - Improved Context Menus
-* [OpenWith++](https://github.com/stax76/OpenWithPlusPlus) - Customize Context Menu
+* [OpenWith++](https://github.com/stax76/OpenWithPlusPlus) or [ContextMenuManager](https://github.com/BluePointLilac/ContextMenuManager/blob/master/README-en.md) - Customize Context Menu
 * [RCWM](https://github.com/GChuf/RCWM) - Context Menu Tools
 * [Open Shell](https://open-shell.github.io/Open-Shell-Menu/) or [ValliStart](https://github.com/Jax-Core/ValliStart) - Improved Start Menus
 * [Spencer](https://www.the-sz.com/products/spencer/) or [Fluent-Metro](https://github.com/bonzibudd/Fluent-Metro) - Classic Start Menu
@@ -229,7 +227,6 @@
 * [GoldMemory](https://www.goldmemory.cz/) or [Testmem5](https://www.overclock.net/threads/memory-testing-with-testmem5-tm5-with-custom-configs.1751608/) - Memory Benchmarking
 * [SnappyDrivers](https://glenn.delahoy.com/snappy-driver-installer-origin), [Drivers Collection](https://driverscollection.com/) or [DriverStoreExplorer](https://github.com/lostindark/DriverStoreExplorer) - Update / Install Missing Drivers
 * [PrintFriendly](https://www.printfriendly.com/) - Printer Formatting Tools
-* [DIY Laptop](https://www.olimex.com/Products/DIY-Laptop/) - Build a Laptop
 
 ***
 
@@ -284,8 +281,8 @@
 * ⭐ **[GParted](https://gparted.org/)**, [Rescuezilla](https://rescuezilla.com/), [CloneZilla](https://clonezilla.org/) or [AOMEI](https://www.diskpart.com/) - Partition Managers
 * [TrueNAS](https://www.truenas.com/) - Storage System
 * [QDirStat](https://github.com/shundhammer/qdirstat) - Directory Statistics
+* [CrystalDiskInfo](https://crystalmark.info/en/software/crystaldiskinfo/) - S.M.A.R.T. Data Analyzer
 * [WinDirStat](https://windirstat.net/) - Disk Usage Analyzer
-* [CrystalDiskInfo](https://crystalmark.info/en/software/crystaldiskinfo/) - Disk Usage Analyzer
 * [Macrorit Partition Expert](https://macrorit.com/partition-magic-manager/partition-expert-download.html) - Disk Usage Analyzer
 * [Gdu](https://github.com/dundee/gdu) - Disk Usage Analyzer
 * [dua](https://github.com/Byron/dua-cli) - Disk Usage Analyzer
@@ -324,7 +321,7 @@
 
 ## ▷ Mouse / Keyboard
 
-* ⭐ **[Windows Keyboard Shortcuts](https://i.ibb.co/yNHRPfm/2147ec86baff.png)**, [2](https://i.ibb.co/XyWn2qc/075be8840d12.png) / [Course](https://keycombiner.com/), [HotkeyP](https://sourceforge.net/projects/hotkeyp/), [Clavier++](https://gryder.org/software/clavier-plus/) or [CheatKeys](https://cheatkeys.com/CheatSheet) - Keyboard Shortcuts
+* ⭐ **[Windows Keyboard Shortcuts](https://i.ibb.co/yNHRPfm/2147ec86baff.png)**, [2](https://i.ibb.co/XyWn2qc/075be8840d12.png) / [Course](https://keycombiner.com/), [Use The Keyboard](https://usethekeyboard.com/), [HotkeyP](https://sourceforge.net/projects/hotkeyp/), [Clavier++](https://gryder.org/software/clavier-plus/), [Kinto](https://github.com/rbreaves/kinto) or [CheatKeys](https://cheatkeys.com/CheatSheet) - Keyboard Shortcuts
 * ⭐ **[geekhack](https://geekhack.org/)** or [KeebTalk](https://www.keebtalk.com/) - Keyboard Forums
 * [X-Mouse Button Control](https://www.highrez.co.uk/downloads/XMouseButtonControl.htm) - Re-Map Mouse Buttons / Scroll Wheel
 * [MoveMouse](https://github.com/sw3103/movemouse/) or [MouseJiggler](https://github.com/arkane-systems/mousejiggler) - Simulate User Activity 
@@ -337,7 +334,7 @@
 * [WhatPulse](https://whatpulse.org/) - Mouse / Keyboard Usage Analyzer
 * [Kmonad](https://github.com/kmonad/kmonad) - Keyboard Manager
 * [Deskhop](https://github.com/hrvach/deskhop) - Quickly Switch Devices between Computers
-* [SharpKeys](https://github.com/randyrants/sharpkeys/), [Vial](https://github.com/vial-kb/vial-gui), [Ergogen](https://ergogen.xyz/) or [Persistence](https://github.com/NtQuerySystemInformation/CustomKeyboardLayoutPersistence) - Custom Keyboard Layouts
+* [SharpKeys](https://github.com/randyrants/sharpkeys/), [Kanata](https://github.com/jtroo/kanata), [Vial](https://github.com/vial-kb/vial-gui), [Ergogen](https://ergogen.xyz/) or [Persistence](https://github.com/NtQuerySystemInformation/CustomKeyboardLayoutPersistence) - Custom Keyboard Layouts / Remapping
 * [DreyMaR's](https://dreymar.colemak.org/) - Keyboard Tips and Resources
 * [Keyboard University](https://keyboard.university/) or [KDB](http://xahlee.info/kbd/keyboarding.html) - Mechanical Keyboard Building Guides
 * [Keyboard Simulator](https://keyboardsimulator.xyz/) - Design & Test Virtual Keyboards
@@ -350,9 +347,11 @@
 
 # ► Windows ISOs
 
-* ⭐ **[MAS ISO Index](https://massgrave.dev/genuine-installation-media.html)** / [ISO Request](https://discord.gg/Eq2dsgBkUJ) / [MSDL](https://massgrave.dev/msdl/), [OS.click](https://os.click/en), [AlicesWorld](https://msdn.alicesworld.tech/) or [Microsoft SD](https://www.microsoft.com/en-us/software-download/) - Windows ISOs
+* ⭐ **[MAS ISO Index](https://massgrave.dev/genuine-installation-media.html)** - Windows ISOs / [Discord](https://discord.gg/gjJEfq7ux8) / [MSDL](https://massgrave.dev/msdl/)
 * ⭐ **[Ventoy](https://www.ventoy.net/en/index.html)**, **[Rufus](https://rufus.ie/)**, [AIO Boot](https://www.aioboot.com/) or [MediaCreationTool](https://github.com/AveYo/MediaCreationTool.bat) - Create Bootable USB Drives
-* ⭐ **[Windows Piracy Guide](https://redd.it/192eqb5)** or [windows_piracy](https://rentry.org/windows_piracy) - ISO Information / Guide
+* [OS.click](https://os.click/en) - Windows ISOs
+* [AlicesWorld](https://msdn.alicesworld.tech/) - Windows ISOs
+* [Microsoft SD](https://www.microsoft.com/en-us/software-download/) - Windows ISOs
 * [OS Vault](https://osvault.weebly.com/directory.html), [VETUSWARE](https://vetusware.com/) or [WinWorldPC](https://winworldpc.com/) - Oldschool ISOs
 * [Fido](https://github.com/pbatard/Fido) - ISO Powershell Script
 * [MSDN Files](https://msdn.rg-adguard.net/) or [MVS dump](https://awuctl.github.io/mvs/) - Verify ISO Legitimacy
@@ -404,9 +403,9 @@
 
 ## ▷ OS Emulators
 
-* ⭐ **[Awesome Web Desktops](https://github.com/syxanash/awesome-web-desktops)** - Browser Emulator Index
+* 🌐 **[Awesome Web Desktops](https://github.com/syxanash/awesome-web-desktops)** - Browser Emulator Index
 * [Qemu](https://gitlab.com/qemu-project/qemu) - OS Emulator & Virtualization
-* [copy.sh](https://copy.sh/v86/), [OnWorks](https://www.onworks.net/), [simone.computer](https://simone.computer/#/webdesktops) or [Virtual Desktop](http://www.virtualdesktop.org/) - Multiple OS Emulators
+* [copy.sh](https://copy.sh/v86/), [PCJs](https://www.pcjs.org/), [OnWorks](https://www.onworks.net/), [simone.computer](https://simone.computer/#/webdesktops) or [Virtual Desktop](http://www.virtualdesktop.org/) - Multiple OS Emulators
 * [WinXP](https://winxp.vercel.app/), [Windows XP Netify](https://windows-xp.netlify.app/) - Windows XP Browser Emulators
 * [EmuOS](https://emupedia.org/beta/emuos/), [2](https://emupedia.net/beta/emuos/), [3](https://emuos.net/beta/emuos/), [4](https://emuos.org/beta/emuos/) - Windows 95, 98 & ME Emulator
 * [98.js](https://98.js.org/), [Rahul](https://rahul.io/) or [Packard Belle](https://packard-belle.netlify.app/) - Windows 98 Emulator

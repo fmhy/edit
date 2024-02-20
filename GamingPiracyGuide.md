@@ -229,6 +229,7 @@
 * [Emu-Land](https://www.emu-land.net/en) - Emulators / ROMs
 * [HexRom](https://hexrom.com/) - Emulators / ROMs
 * [GameGinie](https://gameginie.com/) - Emulators / ROMs
+* [LateGames](https://www.lategames.net/roms/) - Emulators / ROMs
 * [Technosagar](https://roms.technosagar.com/) - ROMs
 * [80s](https://rentry.co/FMHYBase64#80s) - Emulators / ROMs 
 * [The Old Computer](https://www.theoldcomputer.com/) - Emulators / ROMs
@@ -394,6 +395,7 @@
 * [Pulsus](https://www.pulsus.cc/play/) - 3x3 Tile Board Rhythm Game
 * [Prosperity](http://www.playprosperity.ca/) - Civilization Building RPG
 * [Amazeworld](https://www.amazeworld.com/) - Interactive Webmazes
+* [Gandalf](https://gandalf.lakera.ai/) - AI Prompting Skill Game
 * [Little Alchemy](https://littlealchemy.com/) or [Little Alchemy 2](https://littlealchemy2.com/) - Alchemy Game
 * [Short Trip](https://alexanderperrin.com.au/paper/shorttrip/) - Relaxing Cat Game
 * [Quick, Draw](https://quickdraw.withgoogle.com/) - Doodle Game
@@ -462,6 +464,7 @@
 * [Playok](https://www.playok.com/)
 * [PaperGames](https://papergames.io/)
 * [Foony](https://foony.com/)
+* [Tensor Trust](https://tensortrust.ai/) - AI Prompting Multiplayer Skill Game
 * [Venge](https://venge.io/), [LolShot](https://lolshot.io/) or [ShellShock](https://www.shellshock.io/) - PvP FPS
 * [Bruh.io](https://bruh.io/), [2](https://play.bruh.io/) or [Surviv.io](https://surviv.io/) - Top-Down Battle Royal
 * [ZombsRoyale.io](https://zombsroyale.io/) - Zombie Battle Royale 
@@ -540,7 +543,7 @@
 * [lichess4545](https://www.lichess4545.com/) - Lichess Leagues
 * [Chess Monitor](https://www.chessmonitor.com/) - Track Chess Analytics
 * [OpeningTree](https://www.openingtree.com/) - Download / Visualize Chess Games
-* [Decode Chess](https://app.decodechess.com/) or [Chess Vision](https://chessvision.ai/) - Chess Move Analyzers
+* [Game Report](https://chess.wintrcat.uk/), [Decode Chess](https://app.decodechess.com/), [En Croissant](https://encroissant.org/) or [Chess Vision](https://chessvision.ai/) - Chess Game / Move Analysis
 * [Bill Wall's Chess Page](http://billwall.phpwebhosting.com/) or [365Chess](https://www.365chess.com/) - Chess History / Lessons
 * [Chessable](https://www.chessable.com/ ) or [Chess Factor](https://www.chessfactor.com/) - Chess Courses
 * [Chess Base](https://chessbase.in/) / [2](https://en.chessbase.com/) - Indian Chess News
@@ -554,7 +557,7 @@
 
 ## ▷ Puzzle Games
 
-* ⭐ **[BestCrosswords](https://www.bestcrosswords.com/)**, [USAToday](https://games.usatoday.com/category/word), [TheWordSearch](https://thewordsearch.com/) or [Regex-Crossword](https://jimbly.github.io/regex-crossword/) - Crossword Puzzles / [Creator](https://puzzlemaker.discoveryeducation.com/), [2](https://www.xwords-generator.de/en) / [Solver](https://www.wordplays.com/), [2](https://www.dictionary.com/e/crosswordsolver/)
+* ⭐ **[BestCrosswords](https://www.bestcrosswords.com/)**, [USAToday](https://games.usatoday.com/category/word), [TheWordSearch](https://thewordsearch.com/) or [Regex-Crossword](https://jimbly.github.io/regex-crossword/) - Crossword Puzzles / [Creator](https://puzzlemaker.discoveryeducation.com/), [2](https://www.xwords-generator.de/en) / [Solver](https://www.wordplays.com/), [2](https://www.dictionary.com/e/crosswordsolver/), [3](https://crossword-solver.io/)
 * ⭐ **[KillerCrossword](https://killercrossword.com/)** - No Clue Crosswords
 * ⭐ **[MoreWords](https://www.morewords.com/)** or [WordHub](https://wordhub.com/) - Scrabble
 * ⭐ **[Rubik’s Cube Explorer](https://iamthecu.be/)** or [The Cube](https://bsehovac.github.io/the-cube/) - Online Rubix Cubes / [Solver](https://rubiksolve.com/), [2](https://rubiks-cube-solver.com/)
@@ -650,7 +653,7 @@
 * [English Sandwhich](https://englishsandwich.github.io/) - Guess Where Dishes are From
 * [FlightGuesser](https://flightguesser.com/) - Flight Path Guessing Game
 * [WTM](https://whatthemovie.com/), [Kino.wtf](https://www.kino.wtf/), [RT Daily](https://www.rottentomatoes.com/daily/) or [Framed](https://framed.wtf/) - Movie Guessing Games
-* [Music Challenge](https://pudding.cool/2020/04/music-challenge/) - Song Guessing Games
+* [Music Challenge](https://pudding.cool/2020/04/music-challenge/) or [MusicNerd](https://musicnerd.io/) - Music Guessing Games
 * [DanceMusic](http://dancemusic.wtf/) - Electronic Music Genre Guessing Game
 * [Guess My Rank](https://guessmyrank.com/) - Guess Player Game Ranks
 * [Poeltl](https://poeltl.dunk.town/) - NBA Guessing Game
@@ -687,6 +690,7 @@
 * [Unreal Archive](https://unrealarchive.org/index.html) - Unreal Tournament Mods, Maps, Skins etc.
 * [Quaddicted](https://www.quaddicted.com/) - Classic Quake Mods, Maps & Tools
 * [ZagruzkaMods](https://zagruzkamods.com/) or [GameJunkie](https://www.gamejunkie.pro/) - Simulator Game Mods
+* [ESO Addons](https://github.com/arviceblot/eso-addons) - Elder Scrolls Online Mod Manager
 * [Hidden Fallout 4 Mods](https://rentry.co/89gads), [2](https://docs.google.com/document/d/1Im5Mg-l2btRsYVOjaJa0slrjDcXNvi41J5pHw_Zuwqw/edit?usp=sharing) - Fallout 4 Mods Removed from Nexus
 * [UGX Mods](https://www.ugx-mods.com/) - COD Zombies Mods / [Discord](https://discord.gg/g9S2nSp)
 * [Small GD Mods](https://matcool.github.io/mods) - Geometry Dash Mods / [Discord](https://discord.com/invite/K9Kuh3hzTC)
@@ -721,7 +725,7 @@
 * ⭐ **[TCNO](https://github.com/TCNOco/TcNo-Acc-Switcher)** - Platform Account Switcher / [Tutorial](https://youtu.be/0h-xjiW9M7Y)
 * [CreamAPI](https://cs.rin.ru/forum/viewtopic.php?t=70576) - Steam DLC Unlocker / [Auto Setup](https://cs.rin.ru/forum/viewtopic.php?p=2013521)
 * [DreamAPI](https://cs.rin.ru/forum/viewtopic.php?f=10&t=111520) - DLC Unlocker for Epic, Origin and EA
-* [DLC Unlocker](https://cs.rin.ru/forum/viewtopic.php?t=104412) - DLC Unlocker for EA and Origin
+* [Anadius](https://rentry.co/FMHYBase64#anadius) - DLC Unlockers for EA and Origin
 * [ScreamAPI](https://github.com/acidicoala/ScreamAPI) - Epic DLC Unlocker 
 * [Steam DLC Data](https://cs.rin.ru/forum/viewtopic.php?f=10&t=71837) - Find SteamDB DLC Data / Create Configs / [GitHub](https://github.com/Sak32009/GetDataFromSteam-SteamDB)
 * [Depressurizer](https://github.com/Depressurizer/Depressurizer) - Steam Library Organizer
@@ -773,7 +777,6 @@
 * ⭐ **[Nintendo Homebrew](https://discord.gg/C29hYvh)** - Nintendo Homebrew Discord
 * ⭐ **[Wii Guide](https://wii.hacks.guide/)**, [WiiBrew](https://wiibrew.org/) or [Wii Softmod Guide](https://sites.google.com/site/completesg) - Wii Homebrew Guides
 * ⭐ **[Wiimmfi](https://wiimmfi.de/)** or [Kaeru Team](https://kaeru.world/) - Wii / DS Multiplayer Servers
-* ⭐ **[CTGP Revolution](https://www.chadsoft.co.uk/)** or [Wiki Tockdom](https://wiki.tockdom.com/wiki/Main_Page) - Mario Kart Wii Custom Tracks / Multiplayer
 * [/r/SwitchPirates](https://www.reddit.com/r/SwitchPirates/), [/r/SwitchHaxing](https://reddit.com/r/SwitchHaxing) or [/r/SwitchHacks](https://reddit.com/r/SwitchHacks) - Switch Homebrew Subreddits
 * [Switch Guide](https://nh-server.github.io/switch-guide/), [Switch Hacking Is Easy](https://rentry.org/SwitchHackingIsEasy) or [Switch.Homebrew](https://switch.homebrew.guide/) - Switch Homebrew Guide
 * [LAN Play Status](http://lan-play.com/) or [Switch-LAN-Play](https://github.com/spacemeowx2/switch-lan-play) / [Discord](https://discord.gg/PUEmfV4) - Multiplayer Switch Servers
@@ -786,11 +789,6 @@
 * [/r/WiiUHacks](https://www.reddit.com/r/WiiUHacks/) - WiiU Homebrew Subreddit
 * [/r/WiiHacks](https://www.reddit.com/r/WiiHacks/) - Wii Homebrew Subreddit
 * [LetterBomb](https://please.hackmii.com/) or [str2hax](https://gbatemp.net/threads/a-channel-less-sd-less-entry-point-str2hax.523210/) - Wii Homebrew Installer / [Find MAC](https://en-americas-support.nintendo.com/app/products/detail/p/604)
-* [Retro Rewind](https://wiki.tockdom.com/wiki/Retro_Rewind) - Every Retro Mario Kart Track for MKW
-* [RiiBalanced](https://drive.google.com/file/d/1AKJH3s0YpxQ09eud0EEd2YVFJ56f9VuO/view) - MKW Rebalanced Mod / [Discord](https://discord.gg/YZxyK4f3EU)
-* [MKW Texture Hacks](https://wiki.tockdom.com/wiki/Texture_Hack_Distribution) - Custom MKW Textures
-* [Custom Track Tutorial](https://wiki.tockdom.com/wiki/Custom_Track_Tutorial) - How To Make Custom MKW Tracks
-* [TTs Online](https://redd.it/ie6gi7) - MKW Online Time Trials Mod
 * [Open Shop Channel](https://oscwii.org/) - Wii Homebrew App Library
 * [RiiConnect24](https://rc24.xyz/) - WiiConnect24 Replacement
 * [3DS Hacks Guide](https://3ds.hacks.guide/) - 3DS Modding Guide
@@ -881,7 +879,6 @@
 * [Save Game World](https://www.savegameworld.com/), [savegamedownload](https://www.savegamedownload.com/), [yoursavegames](https://www.yoursavegames.com/), [savesforgames](https://savesforgames.com/), [savegamefiles](https://www.savegamefiles.com/), [savegame-download](https://savegame-download.com/) or [savegame](https://savegame.pro/) - PC Game Save Downloads
 * [Save Editor Online](https://www.saveeditonline.com/) - Game Save Editor
 * [CyberCAT-SimpleGUI](https://github.com/Deweh/CyberCAT-SimpleGUI) - Cyberpunk 2077 Save Editor
-* [Anadius](https://rentry.co/FMHYBase64#anadius) - Sims 4 DLC Unlocker
 * [Kirigiri's Palword](https://rentry.co/FMHYBase64#kirigiris-palword) - Palworld Releases
 * [Palworld Host Save Fix](https://github.com/xNul/palworld-host-save-fix) - Palworld Save Bug Fix
 * [The Models Resource](https://www.models-resource.com/) - Game Models
@@ -905,7 +902,7 @@
 * [Keystrokes](https://www.deviantart.com/jaxoriginals/art/Keystrokes-v1-3-889349339) - Keystrokes Overlay
 * [LP Archives](https://lparchive.org/) - Let's Play Archive
 * [Super Steam Packer](https://cs.rin.ru/forum/viewtopic.php?f=29&t=131328&hilit=super+steam+packer) - Pack and share your Steam games
-* [Achievement Watcher](https://rentry.co/FMHYBase64#achievement-watcher-mod) - Achievement File Parser, Notifications & Playtime Tracker
+* [Achievement Watcher](https://rentry.co/FMHYBase64#achievement-watcher-mod) - Achievement File Parser, Notifications & Playtime Tracker - [Note](https://pastebin.com/Sg1SJrRx)
 * [Shmuplations](https://shmuplations.com/) - Japanese Developer Interviews
 * [Wiki.gg](https://wiki.gg/wikis/) - Game Wikis / [Redirector](https://support.wiki.gg/wiki/Redirect_to_wiki.gg)
 * [CSDb](https://csdb.dk/) or [GB64](https://gb64.com/index.php) - Commodore 64 Resources
@@ -1076,6 +1073,7 @@
 * [ReplayMod](https://replaymod.com/) - Record Minecraft Game Sessions / [GitHub](https://github.com/ReplayMod/ReplayMod)
 * [GeyserMC](https://geysermc.org/) - Join Minecraft Java Servers with Bedrock Client / [Consoles](https://wiki.geysermc.org/geyser/using-geyser-with-consoles/)
 * [CraftyControl](https://craftycontrol.com/), [MCSManager](https://github.com/MCSManager/MCSManager) or [Fork](https://www.fork.gg/) - Minecraft Server Managers
+* [Minekube Connect](https://connect.minekube.com/) - Ingress Tunnel for Minecraft Servers
 * [Minecraft Server Scanner](https://github.com/Footsiefat/Minecraft-Server-Scanner) - Minecraft Server Info
 * [NameMC](https://namemc.com/) - Minecraft Name Availability Tracker
 * [Setup.md](https://setup.md/) - Server Admin Guides
@@ -1132,6 +1130,24 @@
 * [OpenIV](https://openiv.com/) - Rockstar Game Modding Tool
 * [D.E.P](https://www.definitive-edition-project.com/) - Fix GTA PC Port Bugs
 * [Vice City: Multiplayer](https://vc-mp.org/) - Mutiplayer GTAVC
+
+***
+
+## ▷ Mario Kart Tools
+
+* ⭐ **[CTGP Revolution](https://www.chadsoft.co.uk/)** - Custom MKW Tracks / Multiplayer
+* ⭐ **[Retro Rewind](https://wiki.tockdom.com/wiki/Retro_Rewind)** - Retro MKW Tracks / Multiplayer
+* ⭐ **[MKWRs](https://mkwrs.com)** or [MKLeaderboards](https://www.mkleaderboards.com/) - Mario Kart Records / Videos
+* ⭐ **[MKW Lobbies](https://wiimmfi.de/stats/mkw)** - Online MKW Lobbies
+* [Mario Kart Wii Tips](https://docs.google.com/document/u/1/d/e/2PACX-1vRZObe4loAptsyRU5Ba-k0WdNQPnT_1DhG_r4H7wKZFm6BsKs28aPREV_649xTRT2cPZdz26GOB3zbR/pub) - MKW Techniques, Glitches, & Exploits
+* [/r/MarioKart](https://www.reddit.com/r/mariokart/) or [/r/MarioKartWii](https://www.reddit.com/r/MarioKartWii/) - Mario Kart Subreddits
+* [RiiBalanced](https://drive.google.com/file/d/1AKJH3s0YpxQ09eud0EEd2YVFJ56f9VuO/view) - Rebalanced MKW Mod / [Discord](https://discord.gg/YZxyK4f3EU)
+* [TTs Online](https://redd.it/ie6gi7) - MKW Online Time Trials Mod
+* [CTGPRecords](https://www.youtube.com/@CTGPRecords) - Custom Track Records / Videos
+* [MaxVRList](https://maxvrlist.com/) - VR Leaderboards
+* Tockdom Wikis - [MKW](https://wiki.tockdom.com/wiki/Main_Page) / [MK8](https://mk8.tockdom.com/) / [MK3DS](https://mk3ds.com/) / [MKDS](https://wiki.dshack.org/) / [MKDD](https://mkdd.org/) - Custom Mario Kart Wikis
+* [Custom Track Tutorial](https://wiki.tockdom.com/wiki/Custom_Track_Tutorial) - How-to Make Custom MKW Tracks
+* [MKW Texture Hacks](https://wiki.tockdom.com/wiki/Texture_Hack_Distribution) - Custom MKW Textures
 
 ***
 
@@ -1201,6 +1217,7 @@
 * [SNES Maps](https://www.snesmaps.com/) - SNES Game Maps
 * [Forgehub](https://www.forgehub.com/) - Halo Maps
 * [Zelda BotW Street View](https://nassimsoftware.github.io/zeldabotwstreetview/) - Breath of The Wild Map
+* [Palworld Interactive](https://palworld.th.gl/) - Palworld Map
 * [Fortnite.gg](https://fortnite.gg/) - Fortnite Map, Guides, Skins etc.
 * [Hallownest](https://www.hallownest.net/) - Hollow Knight Map
 * [Hoyolab Teyvat Interactive Map](https://act.hoyolab.com/ys/app/interactive-map/index.html), [Mapgenie Teyvat Interactive Map](https://mapgenie.io/genshin-impact) or [Genshin Impact Map](https://genshin-impact-map.appsample.com/) - Genshin Impact Interactive Maps
@@ -1224,7 +1241,6 @@
 * [TASVideos](https://tasvideos.org/) - Watch and Publish Tool Assisted Speedruns
 * [Tomatoanus](https://www.youtube.com/@tomatoanus/) - Speedrun Breakdowns
 * [BakkesMod](https://bakkesmod.com/) - Rocket League Trainer
-* [Mario Kart Wii Tips](https://docs.google.com/document/u/1/d/e/2PACX-1vRZObe4loAptsyRU5Ba-k0WdNQPnT_1DhG_r4H7wKZFm6BsKs28aPREV_649xTRT2cPZdz26GOB3zbR/pub) - MKW Techniques, Glitches, & Exploits
 * [GamesDatabase](https://www.gamesdatabase.org/) - Game Manuals
 * [SNES Manuals](https://sites.google.com/view/snesmanuals) - SNES Game Manuals
 * [FOUR.lol](https://four.lol/) - Tetris Openers Wiki

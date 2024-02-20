@@ -215,6 +215,7 @@
 * [Permadelete](https://developerstree.github.io/permadelete/)
 * [nwipe](https://github.com/martijnvanbrummelen/nwipe)
 * [ShredOS](https://github.com/PartialVolume/shredos.x86_64)
+* [Delapp](https://github.com/differentrain/Delapp)
 
 ***
 
@@ -240,7 +241,7 @@
 
 ## ▷ PDF Tools
 
-* ⭐ **[Sejda](https://www.sejda.com/)** or [SimplePDF](https://simplepdf.eu/) - Online PDF Toolkit
+* ⭐ **[Sejda](https://www.sejda.com/)**, [ILovePDF](https://www.ilovepdf.com/) or [SimplePDF](https://simplepdf.eu/) - Online PDF Toolkits
 * ⭐ **[PDFGear](https://www.pdfgear.com/)**, [xPDFReader](https://www.xpdfreader.com/), [PrivatePDF](https://github.com/photown/private-pdf), [PDFBox](https://pdfbox.apache.org/) or [OpenPDF](https://github.com/LibrePDF/OpenPDF) - PDF Editors / Toolkits
 * [PDFGrep](https://pdfgrep.org/) - PDF Text Search
 * [View-only PDF](https://rentry.co/cm4b7) - Download View-Only PDF on GDrive
@@ -294,7 +295,7 @@
 * [send](https://send.vis.ee/) / [instances](https://gitlab.com/timvisee/send-instances) - 2.5gb / 1 day
 * [File.cm](https://file.cm/) - 100GB / 30 days / Signup Required
 * [edisk](https://www.edisk.cz/) - 10GB / 30 days
-* [file.kiwi](https://file.kiwi/) - Unlimited / 3.5 Days
+* [file.kiwi](https://file.kiwi/) - Unlimited / 3.5 Days / [Free Download Duration](https://ibb.co/85z9D1s)
 * [easyupload](https://easyupload.io/) - 10GB / 50gb total / 30 days
 * [fastupload](https://fastupload.io/en) - 10GB / 30 days
 * [desiupload](https://desiupload.co/) or [uploadraja](https://uploadraja.com/) - 10GB / 15 days

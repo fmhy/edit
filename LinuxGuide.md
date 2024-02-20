@@ -62,6 +62,7 @@
 * [Weylus](https://github.com/H-M-H/Weylus) - Use Mobile Device as Trackpad
 * [Ollama](https://ollama.ai/) / [Discord](https://discord.gg/ollama) - Run LLMs
 * [nyrna](https://github.com/Merrit/nyrna) - Suspend Apps / Games
+* [Solaar](https://github.com/pwr-Solaar/Solaar) - Logitech Device Manager
 * [bluetuith](https://github.com/darkhz/bluetuith) - Bluetooth Manager
 * [QR Scan](https://github.com/sayanarijit/qrscan) - QR Code Scanner
 * [libimobiledevice](https://github.com/libimobiledevice/libimobiledevice) - Communicate with iOS Devices
@@ -258,6 +259,7 @@ Linux Gaming Guide
 * [ScanMem](https://github.com/scanmem/scanmem) - Memory Scanner / Debugger
 * [Linux-dash](https://github.com/tariqbuilds/linux-dash) - Web-based System Dashboard
 * [pacwall](https://github.com/Kharacternyk/pacwall) - Live Wallpaper Dependency Graph / Package Status
+* [keyd](https://github.com/rvaiya/keyd) or [xremap](https://github.com/k0kubun/xremap) - Keyboard Remapping
 * [auto-cpufreq](https://github.com/AdnanHodzic/auto-cpufreq) - CPU Speed & Power Optimization Automation
 * [node-startup](https://github.com/ralyodio/node-startup) - Startup Script
 * [die.net](https://linux.die.net/) - Linux Documentation
@@ -352,6 +354,7 @@ Linux Gaming Guide
 * ⭐ **[Warpinator](https://github.com/linuxmint/warpinator)**, [Magic Wormhole](https://github.com/magic-wormhole/magic-wormhole), [syncthing](https://syncthing.net/), [portal](https://github.com/SpatiumPortae/portal) or [Sharing](https://github.com/parvardegr/sharing) - File Sync Apps
 * ⭐ **[Baobab](https://gitlab.gnome.org/GNOME/baobab)** - Disk Usage Analyzer
 * [ANGRYsearch](https://github.com/DoTheEvo/ANGRYsearch), [CatCLI](https://github.com/deadc0de6/catcli), [xplr](https://xplr.dev/) / [GitHub](https://github.com/sayanarijit/xplr) / [Discord](https://discord.com/invite/JmasSPCcz3), [logo-ls](https://github.com/Yash-Handa/logo-ls), [ugrep](https://github.com/Genivia/ugrep) or [Achoz](https://github.com/kcubeterm/achoz) - File Explorers
+* [Collector](https://mijorus.it/projects/collector/) - File Drag & Drop
 * [z](https://github.com/rupa/z) - Track Most used Directories
 * [Dolphin](https://userbase.kde.org/Dolphin) or [SpaceFM](https://ignorantguru.github.io/spacefm/) - File Managers
 * [p7zip](https://p7zip.sourceforge.net/), [GNU Gzip](https://www.gnu.org/software/gzip/) or [pigz](https://zlib.net/pigz/) - File Archivers / Unzippers

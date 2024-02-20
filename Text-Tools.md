@@ -126,7 +126,7 @@
 
 ## ▷ Text Rephrasing
 
-* ⭐ **[QuillBot AI](https://quillbot.com/)** - Text Rephrasing / [Token](https://pastebin.com/ezkjxWd1)
+* ⭐ **[QuillBot AI](https://quillbot.com/)** - Text Rephrasing
 * ⭐ **[paraphrasetool](https://paraphrasetool.com/)** - Text Rephrasing
 * [Just Not Sorry](https://justnotsorry.com/) - Undermining Word Detection
 * [Rewrite Tool](https://rewritetool.net/) - Text Rephrasing
@@ -287,8 +287,11 @@
 * [overleaf](https://www.overleaf.com/)
 * [RustPad](https://github.com/ekzhang/rustpad)
 
+***
+
 ## ▷ Spreadsheet Editors
 
+* 🌐 **[MTEB Leaderboard](https://huggingface.co/spaces/mteb/leaderboard)** - Text Embedding AI Leaderboard
 * [TinySheet](https://tinysheet.com/), [Tree Sheets](https://strlen.com/treesheets/), [Gnumeric](http://www.gnumeric.org/) or [Quadratic](https://www.quadratichq.com/)
 * [Baserow](https://gitlab.com/baserow/baserow), [Framacalc](https://framacalc.org/), [NocoDB](https://github.com/nocodb/nocodb) or [AirTable](https://airtable.com/) - Collaborative Spreadsheets
 * [Jamovi](https://www.jamovi.org/) - Statistical Spreadsheets
@@ -335,6 +338,7 @@
 * [Columns](https://columns.app/) or [ChecklistGenerator](https://checklistgenerator.co/) - Checklists
 * [Wonder](https://wonder-bot.com/) - Remember Things Easily
 * [YearCompass](https://yearcompass.com/) - New Years Resolution Booklet
+* [daily.place](https://www.daily.place/)
 * [Fokus](https://fokus-website.netlify.app/)
 * [OpenToDoList](https://gitlab.com/rpdev/opentodolist)
 * [Microsoft To Do](https://apps.microsoft.com/store/detail/microsoft-to-do-lists-tasks-reminders/9NBLGGH5R558)

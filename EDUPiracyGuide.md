@@ -105,7 +105,7 @@
 
 ## ▷ Downloading
 
-* **Note** - Use **[redirect bypassers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_skip_redirect)** to skip annoying link shorteners.
+* **Note** - Use **[redirect bypassers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25B7_redirect_bypass)** to skip annoying link shorteners.
 
 ***
 
@@ -224,7 +224,7 @@
 * [Listenable](https://apps.apple.com/us/app/listenable-learn-with-audio/id1492810539) - 5-Minute Audio Lessons / iOS
 * [LabXchange](https://www.labxchange.org/) or [EduMedia](https://www.edumedia-sciences.com/en/) - Interactive Science Simulations
 * [Plickers](https://get.plickers.com/) - Q&A Results App
-* [CuriousCat](https://curiouscat.live/) or [RetroSpring](https://retrospring.net/ ) - Q&A Communities
+* [CuriousCat](https://curiouscat.live/) or [RetroSpring](https://retrospring.net/) - Q&A Communities
 * [AnswerSocrates](https://answersocrates.com/) - Most Asked Questions on Google
 * [Kialo](https://www.kialo.com/) or [Level Point](https://levelpoint.app/) - Debates / Discussion
 * [Tabby Cat](https://github.com/TabbycatDebate/tabbycat) - Debate Tournament Tabulation Software
@@ -406,6 +406,7 @@
 * ⭐ **[Bioinformatics](https://github.com/ossu/bioinformatics)** - Bioinformatics Courses
 * [Alien](https://alien-project.org/) - Artificial Life Simulator / [GitHub](https://github.com/chrxh/alien) / [Video](https://youtu.be/w9R6zrdl6jM)
 * [Metazooa](https://metazooa.com/) - Species Connection Game
+* [UniProt](https://www.uniprot.org/) - Protein Database
 * [Ocearch](https://www.ocearch.org/?list) - Track Marine Life
 * [The Deep Sea](https://neal.fun/deep-sea/) - Interactive Deep Sea Life Guide
 * [TheAquariumWiki](https://www.theaquariumwiki.com/) - Aquarium Wiki
@@ -504,6 +505,7 @@ https://cari.institute/
 * ⭐ **[/r/Space](https://reddit.com/r/Space)** - Space Subreddit
 * ⭐ **[Space Dashboard](https://spacedashboard.com/)** - Space Live Stream Dashboard
 * ⭐ **[EarthData](https://worldview.earthdata.nasa.gov/)** - Daily Satellite Replays
+* ⭐ **[Visible Earth](https://visibleearth.nasa.gov/)**, [GOES-16 Satellite Imagery](https://rammb-slider.cira.colostate.edu/), [SpaceEye](https://spaceeye.app/) or [Sentinel Hub](https://www.sentinel-hub.com/) - Satellite Imagery
 * ⭐ **[NASA](https://www.nasa.gov/)** - National Aeronautics and Space Administration Website / [Images](https://images.nasa.gov/) / [Audio](https://www.nasa.gov/connect/sounds/index.html) / [Documents](https://ntrs.nasa.gov/search.jsp)
 * [ESA](https://www.esa.int/) - European Space Agency Website
 * [Space.com](https://www.space.com/) - Space News
@@ -515,7 +517,6 @@ https://cari.institute/
 * [SpaceX Media 2015](https://web.archive.org/web/20150328140645/http://www.spacex.com/media) / [2019](https://web.archive.org/web/20191122175115/https://www.spacex.com/media) - SpaceX Media Archive
 * [Leolabs Space](https://platform.leolabs.space/visualization) - Low Earth Orbit Simulator
 * [Gravity Points](https://codepen.io/akm2/full/rHIsa), [Hermann](https://www.hermann.is/gravity/) or [dmilin1](https://dmilin1.github.io/PrincipiaJS/build/index.html) - Gravity Simulators
-* [GOES-16 Satellite Imagery](https://rammb-slider.cira.colostate.edu/), [SpaceEye](https://spaceeye.app/) or [Sentinel Hub](https://www.sentinel-hub.com/) - Satellite Imagery
 * [Open Access Hub](https://scihub.copernicus.eu/) - Copernicus Satellite Data Copernicus
 * [Satellite Map](https://satellitemap.space/) - Satellite Orbit Map
 * [Find Starlink](https://findstarlink.com/) or [Look4Sat](https://github.com/rt-bishop/Look4Sat) - Satellite Trackers
@@ -553,6 +554,7 @@ https://cari.institute/
 * [HubbleSite](https://hubblesite.org/) - Hubble Telescope Site
 * [APOD](https://apod.nasa.gov/) - Daily NASA Astronomy Images
 * [Astrometry](https://nova.astrometry.net/) - View / Share Astronomy Images
+* [Meteor Showers](https://www.meteorshowers.org/) - 3D Meteor Shower Visualization
 * [Live Meteors](https://www.livemeteors.com/) - Live Meteor Radio Echoes
 * [Clear Dark Sky](https://cleardarksky.com/) - Star Gazing Weather Forecasts
 * [Dark Site Finder](https://darksitefinder.com/), [DarkSkyMap](https://darkskymap.com/) or [GoStarGazing](https://gostargazing.co.uk/) - Star Gazing Site Locators
@@ -746,7 +748,8 @@ https://cari.institute/
 * ⭐ **[Animelon](https://animelon.com/)** - Learn Japanese with Anime
 * [Minato](https://minato-jf.jp/) - Japanese Courses
 * [JapaneseTab](https://github.com/Anupya/JapaneseTab) - Japanese Learning Extension
-* [jidoujisho](https://github.com/lrorpilla/jidoujisho), [LearnNatively](https://learnnatively.com/) or [Manabi](https://reader.manabi.io/) - Learn Japanese via Books
+* [LearnNatively](https://learnnatively.com/) - Learn Japanese via Media
+* [jidoujisho](https://github.com/lrorpilla/jidoujisho) or [Manabi](https://reader.manabi.io/) - Learn Japanese via Books
 * [HayaiLearn](https://www.hayailearn.com/) - Learn Japanese via YouTube
 * [Memento](https://github.com/ripose-jp/Memento) - Japanese Learning Video Player
 * [JapaneseWithAnime](https://www.japanesewithanime.com/) - Learn Japanese with Anime / Manga
@@ -848,7 +851,6 @@ https://cari.institute/
 * 🌐 **[ScienceTrek](https://sciencetrek.org/)** - Teaching Resources
 * ↪️ **[Presentation Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_presentation_tools)**
 * ↪️ **[Data Visualization](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_data_visualization_tools)**
-* ↪️ **[Q&A Chatbots](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/ai#wiki_.25BA_ai_chatbots)**
 * ↪️ **[Grammar / Spell Check](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools#wiki_.25B7_grammar_check)**
 * ↪️ **[Text Rephrasing](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools#wiki_.25B7_text_rephrasing)**
 * ⭐ **[OpenBoard](https://openboard.ch/)** / [2](https://github.com/Helium314/openboard), [Witeboard](https://witeboard.com/), [NotebookCast](https://www.notebookcast.com/), [WebWhiteboard](https://webwhiteboard.com/), [Microsoft Whiteboard](https://apps.microsoft.com/detail/9MSPC6MP8FM4), [OurBoard](https://www.ourboard.io/), [Whiteboard.fi](https://whiteboard.fi/) or [Whiteboard Fox](https://r3.whiteboardfox.com/) - Whiteboards
@@ -877,6 +879,7 @@ https://cari.institute/
 * ↪️ **[Note Taking Apps](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools#wiki_.25BA_text_editors)**
 * ⭐ **[Note Garden](https://notegarden.web.app/)**, [2](https://notegarden.io/) - Note-Taking / Auto Courses
 * ⭐ **[StudyLion](https://github.com/StudyLions/StudyLion)** - Study Tracker / Productivity Discord Bot
+* ⭐ **[StudyKit](https://studykit.app/)**, [Knowt](https://knowt.io/), [Quizlet](https://quizlet.com/), [Shmoop](https://www.shmoop.com/) or [SparkNotes](https://www.sparknotes.com/) - Quizzes / Study Material / [Show Hidden](https://greasyfork.org/en/scripts/423872)
 * ⭐ **[Coursicle](https://www.coursicle.com/)** - Class Schedule Tracker / Android
 * ⭐ **[OpenSyllabus](https://opensyllabus.org/)** or [LanguageDrops](https://languagedrops.com/) - Syllabus Search / Info
 * [ExpertFile](https://expertfile.com/) or [ExpertiseFinder](https://expertisefinder.com/) - Industry / Academic Expert Search
@@ -895,8 +898,6 @@ https://cari.institute/
 * [BookStack](https://www.bookstackapp.com/) - Self-Hosted Information Manager
 * [General Index](https://archive.org/details/GeneralIndex) - Article Metadata Mining Project
 * [Graded](https://github.com/NightDreamGames/Graded) - Grades Tracker / Android
-* [Quizlet](https://quizlet.com/), [Shmoop](https://www.shmoop.com/) or [SparkNotes](https://www.sparknotes.com/) - Quizzes / Study Material / [Show Hidden](https://greasyfork.org/en/scripts/423872) / [Explanations](https://greasyfork.org/en/scripts/434972), [2](https://greasyfork.org/en/scripts/438663)
-* [Knowt](https://knowt.io/) - Free Quizlet Alternative / AP Study Guides
 * [Study Space](https://discord.gg/7Q7FPUVTm7) - Unlock Courses (Chegg, Bartleby, StuDocu etc.)
 * [guIHelp](https://discord.gg/rgF9jY8CpH) - Bartleby, Quizlet, Coursehero & Scribd Bot
 * [Quizizz](https://quizizz.com/) - Create Quizzes, Lessons, Flashcards & Presentations
@@ -943,7 +944,7 @@ https://cari.institute/
 ## ▷ World Data
 
 * 🌐 **[Awesome Datasets](https://github.com/awesomedata/awesome-public-datasets)** - Public Datasets
-* ⭐ **[Worldometer](https://www.worldometers.info/)**, [Internet World Stats](https://www.internetworldstats.com/), [WorldBank](https://databank.worldbank.org/), [US Census](https://data.census.gov/), [Ozymandias](https://population.ozymandias.so/) or [UN Data](https://data.un.org/) - World Data & Statistics
+* ⭐ **[Worldometer](https://www.worldometers.info/)**, [Internet World Stats](https://www.internetworldstats.com/), [WorldBank](https://databank.worldbank.org/), [US Census](https://data.census.gov/), [DataUSA](https://datausa.io/), [Ozymandias](https://population.ozymandias.so/) or [UN Data](https://data.un.org/) - World Data & Statistics
 * ⭐ **[Our World in Data](https://ourworldindata.org/)** - World Problem Database
 * ⭐ **[The Atlas of Economic Complexity](https://atlas.cid.harvard.edu/)** - Global Economic Growth Data
 * ⭐ **[Soar](https://soar.earth/)** - Digital Atlas
@@ -1001,7 +1002,6 @@ https://cari.institute/
 * [Webopedia](https://www.webopedia.com/) or [TechTerms](https://techterms.com/) - Tech Dictionary
 * [Why The Fluff](https://www.whythefluff.com/) - Common Jargon Dictionary
 * [EtymOnline](https://www.etymonline.com/) or [The Tower of Babel](https://starlingdb.org/) - Etymologies
-* [Fandom](https://www.fandom.com/) - Fan Wikis / [Frontend](https://docs.breezewiki.com/Links.html) / [Old Style](https://greasyfork.org/en/scripts/438194-hydralize-fix-fandom-com)
 * [LexiLogos](https://www.lexilogos.com/english/index.htm) - Multi Language Dictionary Index
 * [Britannica](https://www.britannica.com/) - Encyclopedia
 * [EverybodyWiki](https://en.everybodywiki.com/) - Encyclopedia

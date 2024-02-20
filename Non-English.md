@@ -408,6 +408,8 @@
 * [TrustScam](https://trustscam.de/) - Website Security Analysis
 * [Metager](https://metager.de/) - Search Engine
 * [WiiDatabase](https://wiidatabase.de/) - Nintendo Homebrew
+* [F-Online](https://app.f-online.at/) - Driving License Learning App
+* [Cashback Optimizer](https://kolateeprojects.gitlab.io/cashback_optimizer/) - Cashback Checker
 
 ## ▷ Downloading
 
@@ -522,12 +524,11 @@
 
 ## ▷ Downloading
 
-* ⭐ **[OlaMovies](https://olamovies.autos/)** - Movies / TV / Sub / Dub / 1080p / 4K / [Telegram](https://telegram.me/olamovies_official_v3)
+* ⭐ **[OlaMovies](https://olamovies.bar/)** - Movies / TV / Sub / Dub / 1080p / 4K / [Telegram](https://telegram.me/olamovies_official_v3)
 * ⭐ **[VegaMovies](https://vegamovies.ngo/)** - Movies / TV / Anime / 1080p / 4K / [Telegram](https://telegram.dog/VegamoviesTo_Official)
 * ⭐ **[MultiMovies](https://multimovies.uno/)** - Movies / TV / Anime / Sub / Dub / 1080p / [Telegram](https://telegram.me/multimoviesfun)
 * ⭐ **[Full4Movies](https://www.full4movies.mobi/)** - Movies / TV / Sub / Dub / 1080p / [Telegram](https://t.me/+esNoIP2HG30yMjlk)
 * ⭐ **[MkvCinemas](https://mkvcinemas.foo/)** - Movies / TV / Anime / Sub / Dub / 1080p / 4K / [Telegram](https://t.me/+WzLYNDSawQk1MTk1)
-* ⭐ **[MLWBD](https://mlwbd.run/)** - Movies / TV / Anime / Sub / Dub / 1080p / 4K / [Telegram](https://t.me/mlwbdnew)
 * ⭐ **[MoviesMod](https://moviesmod.dev/)** - Movies / TV / Sub / Dub / 1080p / [Telegram](https://telegram.dog/moviesmodorg) / [Bypass](https://greasyfork.org/en/scripts/474747)
 * ⭐ **[Filmycity](https://filmycity.monster/)** - Movies / TV / Anime / 1080p
 * ⭐ **[Rare Toons India](https://rareanimes.com/)** - Anime / 1080p / [Telegram](https://telegram.dog/rareanimesindia)
@@ -562,7 +563,6 @@
 * [Toonsouthindia](https://toonsouthindia.com/) - Anime / Cartoon / 1080p / [Telegram](https://telegram.me/+VQNviznAktwAxUv8)
 * [ToonWorld Tamil](https://toonworldtamil.com/) - Anime / Cartoon / 1080p / [Telegram](https://telegram.me/joinchat/AAAAAEDdWfKBosrNxtfy-Q)
 * [Toonhub4u](https://toonhub4u.net/) - Cartoons / 1080p / [Telegram](https://telegram.me/joinchat/uJ8k8_dvqhQwODE1)
-* [ToonWorld4All](https://toonworld4all.me/) - Cartoons / Anime / Sub / Dub / 1080p / [Discord](https://discord.com/invite/qp8RD4JEpf) / [Telegram](https://t.me/+GoVKCk6B6t84MmY1)
 * [TVToonsIndia](https://tvtoonsindia.com/) - Cartoons / Anime / Dub / 1080p / [Telegram](https://t.me/tvtoonsindiaofficial)
 * [New Hindi Animes](https://t.me/New_Hindi_Animes) - Anime Telegram Chat
 * [Indian Flac Songs](https://t.me/indianflacsongs) - Music / FLAC
@@ -580,7 +580,7 @@
 * ⭐ **[BanglaPlex](https://banglaplex.fun/)** - Movies / Sub / Dub / 1080p / [Telegram](https://t.me/banglaplex)
 * ⭐ **[Einthusan](https://einthusan.tv/)** - South Asian Movies / Sub / Dub / 1080p
 * ⭐ **[AnPlay](https://anplay.in/)** - Anime / Dub / 1080p
-* ⭐ **[ToonStream](https://toonstream.in/)** - Cartoons / 1080p / [Telegram](https://telegram.me/toonstream)
+* ⭐ **[ToonStream](https://toonstream.net/)** - Cartoons / 1080p / [Telegram](https://telegram.me/toonstream)
 * [9xmovies](https://9xmovies.forsale/), [2](https://9kmovies.monster/) - Movies / TV / Sub / Dub / 1080p / 4K
 * [HHDMovies](https://hhdmovies.website/) - Movies / TV / Sub / Dub / 1080p
 * [Desi Serials](https://www.desi-serials.cc/), [2](https://playdesi.net/) - South Asian Movies / TV / Live / Sub / Dub / 1080p
@@ -610,7 +610,6 @@
 * [Anime World India](https://anime-world.in/) - Cartoons / Anime / Sub / Dub / 1080p / [Discord](https://discord.com/invite/c3ete48q8H)
 * [kukufm.com](https://kukufm.com/) - Podcasts / Radio / Audiobooks
 * [OnlineFMRadio](https://www.onlinefmradio.in/) - Radio
-* [gaana](https://gaana.com/) - Music
 * [hungama](https://www.hungama.com/music/) - Music
 * [jiosaavn](https://www.jiosaavn.com/) - Music / [API](https://github.com/cyberboysumanjay/JioSaavnAPI)
 * [PhysicsWallah](https://www.pw.live/) - Physics Lessons / [YouTube](https://www.youtube.com/c/PhysicsWallah/)
@@ -1298,7 +1297,6 @@
 * [ontivi](https://ip.ontivi.net/) - Live TV
 * [Glaz.tv](https://www.glaz.tv/) - Live TV
 * [DomaTV](http://oktv.domatv.net/) - Live TV
-* [VIP-TV](https://vip-tv.online/) - IPTV Playlists
 * [myzuka](https://myzuka.club/) - Music
 * [Tancpol](https://tancpol.net/) - Music
 * [z2.fm](https://z2.fm/) - Music
@@ -1391,7 +1389,7 @@
 * [Descargandoxmega](https://www.descargandoxmega.com/) - Movies / TV / Animation / 1080p / 4K / Latino / Castilian
 * [PelisEnHD](https://pelisenhd.org/) - Movies / TV / Anime / 4K / Latino / Castilian / [Partial Bypass](https://greasyfork.org/en/scripts/486337)
 * [SomosMovies](https://somosmovies.com/) - Movies / TV / 1080p / 4K / Latino
-* [LatinoMegaHD](https://www.latinomegahd.net/) - Movies / TV / 1080p / 4K / Latino / [Bypass](https://greasyfork.org/en/scripts/484486)
+* [LatinoMegaHD](https://www.latinomegahd.net/) - Movies / TV / 1080p / 4K / Latino
 * [GDRIVELatino](https://gdrivelatino.net/) - Movies / TV / 1080p / 4K / Latino
 * [Hackstore.rs](https://hackstore.rs/) - Movies / TV / Anime / 1080p / Latino / [Bypass](https://greasyfork.org/en/scripts/484944)
 * [Mega-Mkv](https://mega-mkv.com/) - Movies / TV /  1080p / Latino / Castilian / [Bypass](https://greasyfork.org/en/scripts/477591)
@@ -1414,7 +1412,7 @@
 * [ProgramasVirtualesPC](https://www.programasvirtualespc.net/category/peliculas/) - Movies / TV / Latino / [Bypass](https://greasyfork.org/en/scripts/462492), [2](https://greasyfork.org/en/scripts/477591)
 * [Gatonplayseries](https://gatonplayseries.com/) - Movies / TV / Latino / Anime / [Bypass](https://greasyfork.org/en/scripts/477591), [2](https://greasyfork.org/en/scripts/484488)
 * [Peliculas Google Drive](https://www.peliculasgd.net/) - Movies / Latino / [Bypass](https://greasyfork.org/en/scripts/484943)
-* [TodoDVDFull](https://www.tododvdfull.com/) - Movies / Latino / [Bypass](https://greasyfork.org/en/scripts/484488)
+* [TodoDVDFull](https://www.tododvdfull.com/) - Movies / Latino
 * [Don Pelis](https://donpelis.org/), [2](https://granpirata.com/) - Movies / TV / Animation / Latino / [Bypass](https://greasyfork.org/en/scripts/477591)
 * [Peli Series HD](https://www.peliserieshd.com/) - Movies / TV / Latino
 * [GDriveDescarga](https://gdrivedescarga.com/) - Movies / TV / Latino
@@ -1675,6 +1673,7 @@
 ## ▷ Reading
 
 * [Kuflu](https://www.kuflu.com/forums/e-kitap.58/) - Books / Magazines
+* [ktphnme](https://t.me/ktphnme) - Books
 * [MangaDenizi](https://www.mangadenizi.net/) - Manga / [Discord](https://discord.com/invite/8zBMSGZ)
 * [Manga-TR](https://manga-tr.com/) - Manga
 * [manga-ay](https://manga-ay.com/) - Manga
