@@ -400,7 +400,7 @@
 # ► German
 
 * 🌐 **[Awesome German Piracy](https://github.com/SeppPenner/awesome-german-piracy)** - German / Piracy Site Index
-* ⭐ **[Tarnkappe](https://tarnkappe.info/forum/)** - Piracy Discussion + [Telegram](https://t.me/Tarnkappe_info)
+* ⭐ **[Tarnkappe](https://tarnkappe.info/forum/)** - Piracy Discussion / [Telegram](https://t.me/Tarnkappe_info)
 * [RR.Topliste](https://toplist.raidrush.ws/) - Piracy Site List
 * [xrel](https://www.xrel.to/) - Scene Release / P2P Tracker
 * [Boerse](https://boerse.am/) - German Data Sharing Discussion Forum
