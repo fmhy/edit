@@ -27,8 +27,9 @@
 * ⭐ **[LMSYS Chat](https://chat.lmsys.org/)** - Chat and Compare Multiple Chatbots
 * [Phind](https://www.phind.com/) - GPT-3.5 Powered Search
 * [Ora](https://ora.ai/start) - GPT-3.5 Based Chatbots
-* [HuggingChat](https://huggingface.co/chat/) - Open Source Chatbots
+* [HuggingChat](https://huggingface.co/chat/) - Open-Source Chatbots
 * [Pi](https://pi.ai/talk) - Inflection AI's Chatbot
+* [groq](https://groq.com/) - Multiple Chatbots
 * [Poe](https://poe.com/) - Multiple Chatbots / 150 Daily / [Discord](https://discord.com/invite/joinpoe)
 * [Claude](https://claude.ai/) - Anthropic's Chatbot
 * [AI Playground](https://play.vercel.ai/) - Compare Multiple Chatbots
