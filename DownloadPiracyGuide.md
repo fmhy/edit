@@ -71,7 +71,6 @@
 * [wJungle](https://wjungle.net/) - Video / Audio / Books / NSFW
 * [PuZo](https://www.puzo.org/) - Video / Audio / Books / Audiobooks / NSFW
 * [Warez-Serbia](https://www.warez-serbia.com/) - Video / Audio / Books / Magazines / NSFW
-* [OneDDL](https://oneddl.org/) - Video / Audio / Books
 * [Warez Heaven](https://www.warezheaven.com/index.php) - Video / Audio / ROMs / Books / NSFW
 * [Download.ir](https://download.ir/) - Video / ROMs
 * [SceneSource](https://www.scnsrc.me/), [2](https://www.scenesource.me/) - Video / Audio / ROMs / Books
