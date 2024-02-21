@@ -1,0 +1,21 @@
+name: Wiki
+description: "Help us improve FMHY for everyone"
+title: "Wiki: "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to fill out this issue! Please select your issue type.
+  - type: dropdown
+    id: type
+    attributes:
+      label: Type
+      description: Type that best describes this issue.
+      options:
+          - Bad sites
+          - Grammar / Markdown
+          - Site suggestion
+          - Wiki section suggestion
+      default: 0
+    validations:
+      required: true
