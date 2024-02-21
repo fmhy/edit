@@ -771,7 +771,7 @@
 * [GeoEstimation](https://labs.tib.eu/geoestimation) or [GeoSpy](https://geospy.web.app/) - Estimate Image Geolocation 
 * [Image Identification Project](https://www.imageidentify.com/) - Image Identification Tool
 * [CryptoStego](https://github.com/zeruniverse/CryptoStego), [StegOnline](https://stegonline.georgeom.net/image), [OpenStego](https://www.openstego.com/), [OpenPuff](https://embeddedsw.net/OpenPuff_Steganography_Home.html), [Steganography-PNG](https://pedrooaugusto.github.io/steganography-png/) / [GitHub](https://github.com/pedrooaugusto/steganography-png), [ImSter](https://github.com/DJayalath/ImSter), [stegano](https://bztsrc.gitlab.io/stegano/) or [stegpy](https://github.com/dhsdshdhk/stegpy) - Images Steganography Tools
-* [Aperisolve](https://aperisolve.fr/), [2](https://www.aperisolve.com/) - Steganography Analysis Tool
+* [Aperisolve](https://aperisolve.fr/) / [2](https://www.aperisolve.com/) or [stegextract](https://github.com/evyatarmeged/stegextract) - Steganography Analysis Tool
 * [Unredacter](https://github.com/BishopFox/unredacter) - Crack Pixelated Images
 * [Redacted](https://redacted.app/) - Blur, Pixelate or Blackout parts of Images
 * [Image Scrubber](https://everestpipkin.github.io/image-scrubber/)- Blur Images / Scrub Metadata
