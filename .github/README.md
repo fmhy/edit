@@ -28,5 +28,5 @@ Emoji Legend:
 ## Follow
 
 <p valign="center">
-  <a href="https://discord.gg/Stz6y6NgNg"><img width="20px" src="./.github/assets/discord.svg" alt="Discord"></a>&nbsp;&nbsp;<a href="https://github.com/fmhy"><img width="20px" src="./.github/assets/github.svg" alt="GitHub"></a>&nbsp;&nbsp;<a href="https://social.fmhy.net/@fmhy"><img width="20px" src="./.github/assets/firefish.svg" alt="Firefish"></a>
+  <a href="https://discord.gg/Stz6y6NgNg"><img width="20px" src="./assets/discord.svg" alt="Discord"></a>&nbsp;&nbsp;<a href="https://github.com/fmhy"><img width="20px" src="./assets/github.svg" alt="GitHub"></a>&nbsp;&nbsp;<a href="https://social.fmhy.net/@fmhy"><img width="20px" src="./assets/firefish.svg" alt="Firefish"></a>
 </p>
