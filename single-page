@@ -1909,9 +1909,9 @@ outline: false
 ## ▷ Redirect Bypass
 
 * ⭐ **[Bypass All Shortlinks](https://codeberg.org/Amm0ni4/bypass-all-shortlinks-debloated/)**
-* ⭐ **[FastForward](https://fastforward.team/)** / [Discord](https://discord.gg/RSAf7b5njt)
 * ⭐ **[bypass.city](https://bypass.city/)**, [2](https://adbypass.org/) / [krnl-and-linkvertise-bypasser](https://greasyfork.org/en/scripts/427869-krnl-and-linkvertise-bypasser) / [Discord](https://discord.com/invite/uMEtrpRvAf)
-* ⭐ **[bypass.vip](https://bypass.vip/)** / [Discord](https://bypass.vip/discord)
+* [FastForward](https://fastforward.team/) / [Discord](https://discord.gg/RSAf7b5njt)
+* [bypass.vip](https://bypass.vip/) / [Discord](https://bypass.vip/discord)
 * [AdsBypasser](https://adsbypasser.github.io/) / [2](https://github.com/adsbypasser/adsbypasser)
 * [TheBypasser](https://thebypasser.com/)
 * [Bypass-Links](https://github.com/amitsingh-007/bypass-links)
@@ -2002,7 +2002,7 @@ outline: false
 * [VT4Browsers](https://support.virustotal.com/hc/en-us/articles/115002700745-Browser-Extensions) - Easily Scan Downloads
 * [Safety Scanner](https://docs.microsoft.com/en-us/windows/security/threat-protection/intelligence/safety-scanner-download) - Malware Remover
 * [Al-Khaser](https://github.com/LordNoteworthy/al-khaser) - Anti-Malware Stress Test
-* [WireShark](https://www.wireshark.org/) - Network Protocol Analyzer
+* [WireShark](https://www.wireshark.org/) - Network Protocol Analyzer / [Profiles](https://github.com/amwalding/wireshark_profiles)
 * [Termshark](https://termshark.io/) - PCAP / Network Analysis
 * [Phish.ly](https://phish.ly/) - Scan Suspicious Emails
 * [Dangerzone](https://dangerzone.rocks/) - Convert dangerous PDF to safe PDF
@@ -2154,7 +2154,7 @@ outline: false
 
 ## ▷ Browser Privacy
 
-* ⭐ **[Tor Browser](https://www.torproject.org/)** - Onion-Routed Browser
+* ⭐ **[Tor Browser](https://www.torproject.org/)** - Onion-Routed Browser / [Default Gateway](https://github.com/htrgouvea/nipe)
 * ⭐ **[Mullvad Browser](https://mullvad.net/en/browser)** - Tor Browser Fork (w/o Tor network)
 * ⭐ **[arkenfox](https://github.com/arkenfox/user.js)**- Firefox Privacy Tweak / [Video](https://youtu.be/F7-bW2y6lcI)
 * [Librewolf](https://librewolf.net/)- Pre-tweaked Firefox Fork / [Use Auto-Updater](https://github.com/ltguillaume/librewolf-winupdater)
