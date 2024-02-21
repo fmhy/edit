@@ -35,6 +35,6 @@ body:
       description:
         A clear and concise description of what the issue is, as per your
         selected issue type.
-      placeholder: https;//fmhy.net is cool
+      placeholder: https://fmhy.net is cool and should be added
     validations:
       required: true
