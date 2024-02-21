@@ -4,11 +4,6 @@
 ***
 ***
 
-**[Table of Contents](https://ibb.co/BG5fKKR)** - For mobile users
-
-***
-***
-
 # ► Arabic
 
 * [Dawin](https://www.dawin.io/) - Markdown Editor
@@ -400,7 +395,7 @@
 # ► German
 
 * 🌐 **[Awesome German Piracy](https://github.com/SeppPenner/awesome-german-piracy)** - German / Piracy Site Index
-* ⭐ **[Tarnkappe](https://tarnkappe.info/forum/)** - Piracy Discussion + [Telegram](https://t.me/Tarnkappe_info)
+* ⭐ **[Tarnkappe](https://tarnkappe.info/forum/)** - Piracy Discussion / [Telegram](https://t.me/Tarnkappe_info)
 * [RR.Topliste](https://toplist.raidrush.ws/) - Piracy Site List
 * [xrel](https://www.xrel.to/) - Scene Release / P2P Tracker
 * [Boerse](https://boerse.am/) - German Data Sharing Discussion Forum
@@ -499,9 +494,17 @@
 ## ▷ Streaming
 
 * [Walla VODs](https://vod.walla.co.il/) - Movies / TV
+* [Watch It](https://israwatch.cc/), [2](https://wallaflix.com/) - Movies / TV
+* [TVFeel](https://tvfeel.cc/) - Movies / TV
+* [Sdarot](https://sdarot-flix.com/) - Movies / TV
 * [JFC](https://jfc.org.il/) - Israel Movie Archive
 * [Animeil-TV](https://www.animeil-tv.com/) - Anime / [Telegram](https://t.me/AnimeILTVDiscussion)
 * [GURUTV](https://gurutv.online/) - Live TV
+* [israelTV](https://israeltv.online/) - Live TV
+
+## ▷ Downloading
+
+* [ultsub](https://ultsub.co.il/) - Anime / Sub / [Discord](https://discord.gg/4Bc8b2W) / [Telegram](https://t.me/UltSub)
 
 ***
 
@@ -1609,6 +1612,7 @@
 # ► Swedish
 
 * [Eniro](https://www.eniro.se/) - Search
+* [CyberSkills](https://discord.com/invite/2tTwMvbSXu) - Cybersecurity Community
 
 ## ▷ Streaming
 
