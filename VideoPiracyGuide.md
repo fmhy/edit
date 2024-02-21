@@ -10,7 +10,7 @@
 
 * ⭐ **[movie-web](https://movie-web.app/)** - Movies / TV / 4K / 1080p / [Proxy Fix (Important)](https://movie-web.app/onboarding) / [Discord](https://discord.gg/vXsRvye8BS)
 * ⭐ **[watch.lonelil](https://watch.lonelil.com/)**, [2](https://12131989.xyz/) - Movies / TV / Anime / 4K / 1080p / [Proxy Fix (Important)](https://watch.lonelil.com/onboarding) / [Discord](https://discord.com/invite/BKts6Jb5sA)
-* ⭐ **[Braflix](https://www.braflix.app/)** - Movies / TV / Anime / 4K / 1080p / [Discord](https://discord.gg/wWKmxARaWH)
+* ⭐ **[Braflix](https://www.braflix.video/)** - Movies / TV / Anime / 4K / 1080p / [Discord](https://discord.gg/wWKmxARaWH)
 * ⭐ **[FMovies](https://fmoviesz.to/)** - Movies / TV / Anime / 1080p / [Mirrors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_fmovies_clones)
 * ⭐ **[FlixHQ](https://flixhq.click/)** - Movies / TV / Anime / 1080p
 * ⭐ **[SusFlix](https://susflix.tv/)**, [2](https://www.susmovies.lol/), [3](https://sushbo.com/), [4](https://hbosus.com) - Movies / TV / Anime / 4K / 1080p / [Discord](https://discord.gg/BE7kTVezBN)
