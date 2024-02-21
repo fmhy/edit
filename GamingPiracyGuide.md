@@ -636,6 +636,7 @@
 * [Tweakdle](https://tweakdle.chariz.com/)
 * [Wordlevs](https://wordlevs.com/)
 * [Octordle](https://www.britannica.com/games/octordle/)
+* [Minecraftle](https://minecraftle.zachmanson.com/) - Minecraft Crafting Style Wordle
 
 ***
 
@@ -814,6 +815,7 @@
 * [MemcardRex](https://shendosoft.blogspot.com/2014/01/memcardrex-18-released.html?m=1) - PS1 Save Transfer Tools / [Archive](https://archive.org/details/MemcardRex1.8)
 * [/r/VitaPiracy](https://www.reddit.com/r/VitaPiracy/) / [Discord](https://discord.gg/6Udcx2w) or [/r/VitaHacks](https://reddit.com/r/vitahacks/) - PSVita Homebrew Subreddits
 * [PSP Archive](https://psp-archive.github.io/) - PSP Homebrew Archive / [Discord](https://discord.gg/VZcjFvy3mT)
+* [VitaDB](https://vitadb.rinnegatamante.it/) - PS Vita Homebrews
 * [Vita Volume](https://gitlab.com/sinful-butterfly/vita-volume) - Set PS Vita Volume without Buttons
 * [ModMyClassic](https://modmyclassic.com/) - Classic Console Mods
 * [/r/360Hacks Guide](https://redd.it/8y9jql) - Xbox 360 Modding Guide
@@ -887,7 +889,7 @@
 * [MiiCharacters](https://www.miicharacters.com/) - Famous Mii Creation Guides
 * [Buzz In](https://buzzin.live/) - Online Buzzer System
 * [Challonge](https://challonge.com/) - Tournament Creator / Manager
-* [DS4Windows](https://github.com/Ryochan7/DS4Windows), [AntiMicroX](https://github.com/AntiMicroX/antimicroX), [DualSenseX](https://github.com/Paliverse/DualSenseX) or [Input Remapper](https://github.com/sezanzeb/input-remapper) - Gamepad Input Tools
+* [DS4Windows](https://github.com/Ryochan7/DS4Windows), [AntiMicroX](https://github.com/AntiMicroX/antimicroX), [DualSenseX](https://github.com/Paliverse/DualSenseX), [PCXSense](https://github.com/Denellyne/PCXSense) or [Input Remapper](https://github.com/sezanzeb/input-remapper) - Gamepad Input Tools
 * [x360ce](https://www.x360ce.com/) / [GitHub](https://github.com/x360ce/x360ce) - DS4 / 360 Controller Emulator
 * [XOutput](https://github.com/csutorasa/XOutput) - DirectInput to Xinput wrapper
 * [DsHidMini](https://github.com/ViGEm/DsHidMini) - Use PS3 Controllers on Windows
