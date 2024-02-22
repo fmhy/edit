@@ -194,7 +194,8 @@
 
 ***
 
-## ▷ [Manual Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/reading#wiki_.25B7_manual_sites)
+## ▷ [Manual Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/rising/
+https://www.reddit.com/r/FREEMEDIAHECKYEAH/controversial/)
 
 ***
 
