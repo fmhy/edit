@@ -426,7 +426,7 @@
 * 🌐 **[VPN Comparison Chart](https://redd.it/171h9qa)** or [Techlore Chart](https://techlore.tech/vpn)- VPN Comparisons
 * ⭐ **[/r/VPNs](https://www.reddit.com/r/vpns/)** - VPN Help and Discussion 
 * ⭐ **[AirVPN](https://airvpn.org/)** - [Pricing](https://i.ibb.co/8rVJ5JB/c4b813a6b6bc.png)
-* ⭐ **[Windscribe](https://windscribe.com)** - [Pricing](https://ibb.co/tPZZDhC) / Free Version Available / [Improved App](https://github.com/Windscribe/Desktop-App)
+* ⭐ **[Windscribe](https://windscribe.com)** - [Pricing](https://ibb.co/tPZZDhC) / Free Version Available
 * ⭐ **[Proton](https://protonvpn.com)** - [Pricing](https://ibb.co/gg4VCDR) / No Torrenting w/ Free Version
 * ⭐ **[Warp](https://1.1.1.1/)**, [2](https://1.0.0.1/) - Traffic Encryption VPN / [Client](https://github.com/ViRb3/wgcf) / [Warp+ Data](https://t.me/warpplus), [2](https://github.com/nxvvvv/warp-plus), [3](https://rentry.co/warp_plus_free), [4](https://github.com/totoroterror/warp-cloner), [5](https://t.me/generatewarpplusbot) / [Warp+ Warning](https://rentry.co/warpwarning) / [WireGuard Guide](https://rentry.co/foss-warp)
 * ⭐ **[Riseup](https://riseup.net/en/vpn)** - Free VPN
