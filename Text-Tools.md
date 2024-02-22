@@ -31,7 +31,7 @@
 * ⭐ **[snowbin](https://pastes.fmhy.net/)**
 * ⭐ **[Linqbin](https://linqbin.cc/)** - Temp Pastebin
 * ⭐ **[Rentry](https://rentry.co/)** / [CLI](https://github.com/radude/rentry)
-* ⭐ **[Bundles](https://sentrytwo.com/)** / [Source](https://codeberg.org/SentryTwo/bundles)
+* ⭐ **[Bundlrs](https://bundlrs.cc/)** / [Source](https://code.stellular.org/SentryTwo/bundlrs)
 * ⭐ **[disroot](https://bin.disroot.org/)**, [privatebin](https://privatebin.net/), [TextBin](https://textbin.xyz/), [bin.idrix](https://bin.idrix.fr/) or [RIN Privatebin](https://privatebin.rinuploads.org/)
 * ⭐ **[PrivateBin Instances](https://privatebin.info/directory/)**
 * ⭐ **[katb](https://katb.in/)**
