@@ -726,7 +726,7 @@
 * [AutoSubSync MPV](https://github.com/joaquintorres/autosubsync-mpv) - Sub Sync
 * [MPV SponsorBlock](https://github.com/po5/mpv_sponsorblock), [2](https://codeberg.org/jouni/mpv_sponsorblock_minimal) - SponsorBlock for MPV
 * [ThumbFast](https://github.com/po5/thumbfast) - MPV Thumbnails
-* [FSR](https://gist.github.com/agyild/82219c545228d70c5604f865ce0b0ce5), [NNEDI / Ravu](https://github.com/bjin/mpv-prescalers/) or [FSRCNNX ](https://github.com/igv/FSRCNN-TensorFlow/) - MPV Shaders
+* [FSR](https://gist.github.com/agyild/82219c545228d70c5604f865ce0b0ce5), [NNEDI / Ravu](https://github.com/bjin/mpv-prescalers/) or [FSRCNNX](https://github.com/igv/FSRCNN-TensorFlow/) - MPV Shaders
 
 ***
 
