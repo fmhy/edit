@@ -4,13 +4,13 @@
 ***
 ***
 
-# ► Arabic
+# ► Arabic /  العربية
 
 * [Dawin](https://www.dawin.io/) - Markdown Editor
 * [Wudooh](https://wudooh.app/) - Make Arabic Text Clearer
 * [At4RE](https://www.at4re.net/) - Reverse Engineering Forum
 
-## ▷ Downloading
+## ▷ Downloading /  تحميل
 
 * [arabseed](https://arabseed.show/) - Movies / TV / Sub / 1080p
 * [arteenz](https://www.arteenz.com/) - Cartoons / Anime / Dub / 720p
@@ -18,11 +18,11 @@
 * [Courses4Arab](https://courses4arab.com/) - Programming Courses
 * [ArabicFonts](https://arabicfonts.net/) - Fonts
 
-## ▷ Torrenting
+## ▷ Torrenting /  التورنت
 
 * [ArabP2P](https://www.arabp2p.net/) - Video / Private Tracker
 
-## ▷ Streaming
+## ▷ Streaming /  البث
 
 * ⭐ **[FaselHD](https://faselhd.center/)** - Movies / TV / Anime / Sub / 1080p
 * [ArabLionz](https://arlionztv.click/) - Movies / TV / Sub / 1080p
@@ -45,7 +45,7 @@
 * [fomny](https://fomny-tv.com/), [qayadat](https://live.qayadat.org/) or [elahmad](http://www.elahmad.com/tv/arabic-channel.php) - Live TV
 * [al-fann](https://www.al-fann.net/) - Music
 
-## ▷ Reading
+## ▷ Reading /  القراءة
 
 * [dopdfwn](https://www.dopdfwn.com/) - PDF Search Engine
 * [Noor Book](https://www.noor-book.com/) - Books
@@ -60,7 +60,7 @@
 
 ***
 
-# ► Bangla
+# ► Bangla / বাংলা 
 
 ## ▷ Reading
 
@@ -79,7 +79,7 @@
 
 ***
 
-# ► Bulgarian
+# ► Bulgarian / Български 
 
 * [Subsunacs](https://subsunacs.net/), [YavkA](https://yavka.net/) or  [subs.sab.bz](http://subs.sab.bz/) - Subtitles
 
@@ -104,7 +104,7 @@
 
 ***
 
-# ► Chinese
+# ► Chinese / 汉语方言
 
 * 🌐 **[heji](https://233heji.com/)**, **[BestXTools](https://discuss-cn.bestxtools.com/)** or **[bajins](https://www.bajins.com/)** - Chinese Sites / Tools Indexes
 * 🌐 **[Awesome GitHub Repo](https://github.com/Wechat-ggGitHub/Awesome-GitHub-Repo)** - Programming Resources Index
@@ -268,7 +268,7 @@
 
 ***
 
-# ► Czech
+# ► Czech / Čeština 
 
 * [Seznam](https://www.seznam.cz/), [Atlas](https://searchatlas.centrum.cz/) or [Centrum](https://search.centrum.cz/) - Search Engines
 * [CSFD](https://www.csfd.cz/) - Czech Film Database
@@ -300,7 +300,7 @@
 
 ***
 
-# ► Finnish
+# ► Finnish / Suomi 
 
 * [finna.fi](https://www.finna.fi/) - Media Archive / Library Card Required
 
@@ -315,7 +315,7 @@
 
 ***
 
-# ► French
+# ► French / Français
 
 * [P2PFR](https://forum.p2pfr.com/) - Piracy Discussion
 * [Emuline](https://www.emuline.org/) - ROM / Emulation Discussion
@@ -392,7 +392,7 @@
 
 ***
 
-# ► German
+# ► German / Deutsch
 
 * 🌐 **[Awesome German Piracy](https://github.com/SeppPenner/awesome-german-piracy)** - German / Piracy Site Index
 * ⭐ **[Tarnkappe](https://tarnkappe.info/forum/)** - Piracy Discussion / [Telegram](https://t.me/Tarnkappe_info)
@@ -460,7 +460,7 @@
 
 ***
 
-# ► Georgian
+# ► Georgian / ქართული ენა
 
 ## ▷ Downloading
 
@@ -473,7 +473,7 @@
 
 ***
 
-# ► Greek
+# ► Greek / ελληνικά 
 
 * [Subs4series](https://www.subs4series.com/) - Greek Subtitles
 
@@ -485,13 +485,13 @@
 
 ***
 
-# ► Hebrew
+# ► Hebrew / עברית
 
 * [AB-Maps](https://www.abmaps.com/) - Map Tool
 * [Walla](https://www.walla.co.il/) - News
 * [Ktuvit](https://www.ktuvit.me/) or [WizdomSubs](https://wizdom.xyz/) - Subtitles
 
-## ▷ Streaming
+## ▷ Streaming / הזרמה
 
 * [Walla VODs](https://vod.walla.co.il/) - Movies / TV
 * [Watch It](https://israwatch.cc/), [2](https://wallaflix.com/) - Movies / TV
@@ -502,13 +502,13 @@
 * [GURUTV](https://gurutv.online/) - Live TV
 * [israelTV](https://israeltv.online/) - Live TV
 
-## ▷ Downloading
+## ▷ Downloading / הורדה
 
 * [ultsub](https://ultsub.co.il/) - Anime / Sub / [Discord](https://discord.gg/4Bc8b2W) / [Telegram](https://t.me/UltSub)
 
 ***
 
-# ► Hungarian
+# ► Hungarian / Magyar
 
 * [TorrentEmpire](https://torrent-empire.me/) - Torrent Discussion
 * [Turistautak](https://turistautak.hu/) - Hungarian Maps
@@ -521,7 +521,7 @@
 
 ***
 
-# ► Indian Languages
+# ► Indian Languages / भारतीय भाषाएँ
 
 * [Indic-Keyboard](https://gitlab.com/indicproject/indic-keyboard) - Indian Android Keyboard
 
@@ -665,7 +665,7 @@
 
 ***
 
-# ► Italian
+# ► Italian / Italiano
 
 * 🌐 **[Italian Piracy Resources](https://rentry.co/italian-piracy-resources)** or **[The Italian Corsairs](https://rentry.co/the-italian-corsairs)** - Piracy Sites List
 * [PizzaGPT](https://www.pizzagpt.it/) - Italian ChatGPT Alternative
@@ -703,7 +703,7 @@
 
 ***
 
-# ► Japanese
+# ► Japanese / 日本語 
 
 * [MiniTokyo3D](https://minitokyo3d.com/) - Tokyo Public Transport Map
 * [lit.link](https://lit.link/) - Link All Your Sites on One Page
@@ -786,7 +786,7 @@
 
 ***
 
-# ► Korean
+# ► Korean / 한국어,
 
 * [dic.daum](https://dic.daum.net/) - Korean Translator / Spellchecker
 * [TakakTadak](https://tadaktadak.co.kr/) - Korean Practice / English Learning
@@ -826,7 +826,7 @@
 
 ***
 
-# ► Malay
+# ► Malay / Bahasa Melayu
 
 * [Lowyat](https://forum.lowyat.net/) - Tech Forum
 
@@ -840,7 +840,7 @@
 
 ***
 
-# ► Norwegian
+# ► Norwegian / Norsk
 
 ## ▷ Streaming
 
@@ -853,7 +853,7 @@
 
 ***
 
-# ► Persian
+# ► Persian / فارسی
 
 * 🌐 **[Awesome Freedom](https://github.com/hiddify/awesome-freedom)** - Tools Index
 * 🌐 **[Awesome AI channels](https://github.com/AminTaheri23/Awesome-AI-telegram-gp-and-channel)** - AI Telegram Channels / Groups Index
@@ -932,7 +932,7 @@
 
 ***
 
-# ► Polish
+# ► Polish / polski
 
 * [Napisy24](https://napisy24.pl/), [GrupaHatak](https://grupahatak.pl/) or [KickAssSubtitles](https://kickasssubtitles.com/pl)
 
@@ -985,7 +985,7 @@
 
 ***
 
-# ► Portuguese
+# ► Portuguese / Português
 
 * 🌐 **[Guia de Pirataria para Iniciantes](https://rentry.org/PiracyBG-PTBR)** - Portuguese Beginners Guide to Piracy
 * 🌐 **[Invertexto](https://www.invertexto.com)** - Online Tools Index
@@ -1148,7 +1148,7 @@
 
 ***
 
-# ► Romanian
+# ► Romanian / limba română
 
 ## ▷ Downloading
 
@@ -1181,7 +1181,7 @@
 
 ***
 
-# ► Russian
+# ► Russian / Русский
 
 * ⭐ **[Russian Internet Blackout Bypass Guide](https://telegra.ph/CHto-delat-pri-otklyuchenii-interneta-02-27), [2](https://www.the-village.ru/situation/howto/otklyuchenie-interneta)**
 * ⭐ **[РосКомСвобода](https://t.me/roskomsvoboda_discuss)** / [roskomsvoboda](https://t.me/roskomsvoboda) / [rks_legal_talk](https://t.me/rks_legal_talk) / [rks_org_Bot](https://t.me/rks_org_bot) / [rks_tech_talk](https://t.me/rks_tech_talk) or [Ru.Board](https://forum.ru-board.com/) - Piracy Discussion Telegram
@@ -1353,7 +1353,7 @@
 
 ***
 
-# ► Slovak
+# ► Slovak / slovenčina
 
 * [SKCinema](http://www.skcinema.sk/arl-sfu/cs/index/) - Slovak Film Database
 
@@ -1365,7 +1365,7 @@
 
 ***
 
-# ► Spanish
+# ► Spanish / Español 
 
 * 🌐 **[Awesome Telegram Redcarpet](https://listados.gitlab.io/awesome-telegram-redcarpet/)**, [2](https://gitlab.com/listados/awesome-telegram) - Telegram Channel Index
 * [Minijuegos](https://www.minijuegos.com/) - Browser Games
@@ -1622,7 +1622,7 @@
 
 ***
 
-# ► Thai
+# ► Thai / ไทย
 
 ## ▷ Streaming
 
@@ -1639,7 +1639,7 @@
 
 ***
 
-# ► Turkish
+# ► Turkish / Türkçe
 
 * [TurkceAltyazi](https://turkcealtyazi.org/index.php) - Subtitles
 * [Firmaa](http://www.firmaa.com/) - Company Directory
@@ -1690,7 +1690,7 @@
 
 ***
 
-# ► Ukrainian
+# ► Ukrainian / українська
 
 ## ▷ Torrenting
 
@@ -1708,7 +1708,7 @@
 
 ***
 
-# ► Uzbek
+# ► Uzbek / Ўзбек
 
 ## ▷ Downloading
 
@@ -1725,7 +1725,7 @@
 
 ***
 
-# ► Vietnamese
+# ► Vietnamese / Việt
 
 * ⭐ **[Voz.vn](https://voz.vn/)**, **[TECHRUM.VN](https://www.techrum.vn/)** or **[WhiteHat.vn](https://whitehat.vn/)** - Tech Forum
 * **[J2team](https://www.facebook.com/groups/j2team.community)** - Tech Community
