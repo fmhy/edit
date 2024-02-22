@@ -9,7 +9,7 @@ sidebar: false
 footer: true
 ---
 
-### Our stance on Download Pirate
+<Post authors="['nbats']" />
 
 For those of you who don't know, the VFX site Download Pirate was removed by /r/Piracy and placed in their unsafe list following this [thread](https://redd.it/1aswsl7). According to the post, OP downloaded Adobe Acrobat and got a pretty nasty trojan. 
 

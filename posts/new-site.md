@@ -11,7 +11,11 @@ footer: true
 
 <Post authors="['taskylizard']" />
 
-# New URL: /
+### New URL: https://fmhy.net/
+
+:::info Old frontend
+You can use https://old.fmhy.net if you'd like to use the original version.
+:::
 
 Hey everyone, just wanted to let you all know that we're finally done with the
 new website, and are officially launching it today! I know a lot of different
@@ -35,7 +39,3 @@ into the site.
 - Table of Content Sidebars
 - Storage URLs Direct to Site Rather than Reddit
 - NSFW Section
-
----
-
-#### Note that [fmhy.tk](https://fmhy.tk/) still works if you'd like to use the original version.
