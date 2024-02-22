@@ -459,6 +459,7 @@ Linux Gaming Guide
 * [OrbStack](https://orbstack.dev/) - Docker Client
 * [Cog](https://cogx.org/) or [Cider](https://cider.sh/) / [GitHub](https://github.com/ciderapp/Cider) - Audio Players
 * [Psst](https://github.com/jpochyla/psst) - Spotify Client
+* [WizTorrent](https://wiztorrent.com/) - Easy, Integrated player, WebShare (WebRTC) / [Screenshot](https://i.imgur.com/O3VbklP.jpg) / [Screenshot player](https://i.imgur.com/WipQ4xw.jpg) 
 * [Alfred Spotify Mini Player](https://alfred-spotify-mini-player.com/) - Spotify Mini Player
 * [Nuage](https://github.com/lbrndnr/nuage-macos) - Soundcloud Client
 * [Subsonic](https://github.com/twostraws/Subsonic) - SwiftUI Audio Player
