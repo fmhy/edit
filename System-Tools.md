@@ -140,6 +140,7 @@
 * ⭐ **[Parsec](https://parsec.app/)**
 * [Ammyy](https://www.ammyy.com/en/)
 * [FreeRDP](https://www.freerdp.com/)
+* [Remotly](https://remotly.com/) 
 * [Myrtille](https://cedrozor.github.io/myrtille/)
 * [Aspia](https://aspia.org/)
 * [ChromeRemoteDesktop](https://remotedesktop.google.com/)
