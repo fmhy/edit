@@ -620,6 +620,7 @@ http://104.131.175.196:8080/, http://70.88.180.169:8088/, http://207.237.122.161
 
 ## Minecraft Optimization Mods
 
+* ⭐ **[Simply Optimized](https://modrinth.com/modpack/sop)**
 * ⭐ **[Fabulously Optimised](https://github.com/Fabulously-Optimized/fabulously-optimized)**
 * [Sodium](https://modrinth.com/mod/sodium) / [Indium](https://github.com/comp500/Indium/) / [Extra](https://modrinth.com/mod/sodium-extra) / [Nvidia Rendering](https://github.com/MCRcortex/nvidium)
 
@@ -902,6 +903,7 @@ http://104.131.175.196:8080/, http://70.88.180.169:8088/, http://207.237.122.161
 
 * https://www3.himovies.to/
 * https://solarmovies.win/
+* https://huramovies.to/
 * https://solarmovie.pe/
 * https://www2.6movies.net/
 * https://gomovies.sx/
@@ -1196,6 +1198,7 @@ http://104.131.175.196:8080/, http://70.88.180.169:8088/, http://207.237.122.161
 * ⭐ **[cachedview](https://cachedview.nl/)**, **[Web Archives](https://github.com/dessant/web-archives)**, [resurrect-pages](https://github.com/Albirew/resurrect-pages-isup-edition) - Aggregate Cache Results
 * [Perma.cc](https://perma.cc/)
 * [ghostarchive](https://ghostarchive.org/)
+* [hozon](https://hozon.site/)
 * [Arquivo.pt](https://arquivo.pt/?l=en)
 
 ### Local Archiving
