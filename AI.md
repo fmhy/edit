@@ -339,11 +339,12 @@
 ## ▷ Voice Change / Clone
 
 * ⭐ **[RVC](https://github.com/IAHispano/Applio-RVC-Fork)** - Voice Cloning / [AI Hub's Documentation](https://docs.aihub.wtf/)
-* ⭐ **[Ilaria RVC](https://huggingface.co/spaces/TheStinger/Ilaria_RVC)**
+* ⭐ **[RVC HFv2](https://huggingface.co/spaces/r3gm/RVC_HFv2)** - Voice Cloning
 * ⭐ **[weights.gg](https://www.weights.gg/) / [Discord](https://discord.gg/A5rgNwDRd4) or [AI Hub](https://discord.gg/aihub)** - AI Voice Models and Guides
 * ⭐ **[Replay](https://www.tryreplay.io/)** - RVC Desktop App
 * ⭐ **[voice-changer](https://github.com/w-okada/voice-changer)** - Realtime Voice Changer
 * [NeuralSVB](https://github.com/MoonInTheRiver/NeuralSVB) - Singing Voice Enhancer
+* [Ilaria RVC](https://huggingface.co/spaces/TheStinger/Ilaria_RVC) - Voice Cloning
 * [Bark w/ Voice Clone](https://huggingface.co/spaces/kevinwang676/Bark-with-Voice-Cloning) - Voice Cloning
 * [Kits.ai](https://www.kits.ai/) - Voice Cloning
 * [Retrieval-based-Voice-Conversion](https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI)
