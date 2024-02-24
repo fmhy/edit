@@ -8,6 +8,7 @@
 
 ## ▷ Multi Server
 
+* ⭐ **[movie-web](https://erynith.github.io/movie-web-instances/)** - Movies / TV / Anime / 4K / 1080p
 * ⭐ **[watch.lonelil](https://watch.lonelil.com/)**, [2](https://12131989.xyz/) - Movies / TV / Anime / 4K / 1080p / [Proxy Fix (Important)](https://watch.lonelil.com/onboarding) / [Discord](https://discord.com/invite/BKts6Jb5sA)
 * ⭐ **[Braflix](https://www.braflix.video/)** - Movies / TV / Anime / 4K / 1080p / [Discord](https://discord.gg/wWKmxARaWH)
 * ⭐ **[FMovies](https://fmoviesz.to/)** - Movies / TV / Anime / 1080p / [Mirrors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_fmovies_clones)
@@ -19,7 +20,7 @@
 * ⭐ **[SFlix](https://sflix.to/)** - Movies / TV / Anime / 1080p / [Mirrors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_sflix_clones)
 * ⭐ **[UpMovies](https://upmovies.to/)** - Movies / TV / Anime / 1080p / Use Adblock
 * ⭐ **[The Movie Archive](https://themoviearchive.site/)**, [2](https://tma.lol) - Movies / TV / 4K / 1080p
-* ⭐ **[KipFlix](https://kipflix.vercel.app/)** - Movies / TV / Anime / 1080p / [Discord](https://discord.gg/vNaRPZc75q)
+* ⭐ **[KipFlix](https://kipflix.space/)**, [2](https://kipflix.vercel.app/) - Movies / TV / Anime / 1080p / [Discord](https://discord.gg/vNaRPZc75q)
 * ⭐ **[PrimeFlix](https://primeflix-web.vercel.app/)** - Movies / TV / Anime / 1080p / [Discord](https://discord.gg/GbW6gzAKgc)
 * ⭐ **[PrimeWire](https://www.primewire.tf/)** - Movies / TV / Anime / 1080p
 * ⭐ **[Streaming CSE](https://cse.google.com/cse?cx=006516753008110874046:cfdhwy9o57g##gsc.tab=0)**, [2](https://cse.google.com/cse?cx=006516753008110874046:o0mf6t-ugea##gsc.tab=0), [3](https://cse.google.com/cse?cx=98916addbaef8b4b6), [4](https://cse.google.com/cse?cx=0199ade0b25835f2e) - Multi-Site Search
@@ -84,6 +85,7 @@
 * [FossaTV](https://fossa.tv/) - Movies / TV / 1080p
 * [RidoMovies](https://ridomovies.tv/) - Movies / 1080p
 * [Ling.online](https://ling-online.net/en/videos/films/) - Movies / TV / 1080p
+* [NEPU](https://nepu.to/) - Movies / TV / Anime / 1080p / [Discord](https://discord.gg/nepu)
 * [UniqueStream](https://uniquestream.net/) - Movies / TV / 1080p
 * [English Movies](https://m.vk.com/english_movies) - Movies / 1080p
 * [StreamLord](http://www.streamlord.com/) - Movies / TV / 1080p
@@ -554,7 +556,7 @@
 * ↪️ **[General DDL Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/download)**
 * ↪️ **[Video Download Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video-tools#wiki_.25BA_video_download)**
 * ⭐ **[OlaMovies](https://olamovies.bar/)** - Movies / TV / 4K / 1080p / [Telegram](https://telegram.me/olamovies_officialv5)
-* ⭐ **[Pahe](https://pahe.ph/)** - Movies / TV / Anime / 4K / [Discord](https://discord.gg/4AvaCsd2J4) / [Redirect Buttons](https://greasyfork.org/en/scripts/443277)
+* ⭐ **[Pahe](https://pahe.ink/)** - Movies / TV / Anime / 4K / [Discord](https://discord.gg/4AvaCsd2J4) / [Redirect Buttons](https://greasyfork.org/en/scripts/443277)
 * ⭐ **[PSARips](https://psa.wf/)** - Movies / TV / 4K
 * ⭐ **[LightDLMovies](https://lightdl.xyz/)**, [2](https://lightdlmovies.blogspot.com/) - Movies / TV / 1080p
 * ⭐ **[VegaMovies](https://vegamovies.ngo/)** - Movies / TV / Anime / 1080p / 4K / [Telegram](https://telegram.dog/VegamoviesTo_Official)
