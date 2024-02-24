@@ -29,7 +29,7 @@
 ## ▷ Redirect Bypass
 
 * ⭐ **[Bypass All Shortlinks](https://codeberg.org/Amm0ni4/bypass-all-shortlinks-debloated/)**
-* ⭐ **[bypass.city](https://bypass.city/)**, [2](https://adbypass.org/) / [Discord](https://discord.com/invite/uMEtrpRvAf)
+* ⭐ **[bypass.city](https://bypass.city/)**, [2](https://adbypass.org/) / [krnl-and-linkvertise-bypasser](https://greasyfork.org/en/scripts/427869-krnl-and-linkvertise-bypasser) / [Discord](https://discord.com/invite/uMEtrpRvAf)
 * [FastForward](https://fastforward.team/) / [Discord](https://discord.gg/RSAf7b5njt)
 * [bypass.vip](https://bypass.vip/) / [Discord](https://bypass.vip/discord)
 * [AdsBypasser](https://adsbypasser.github.io/) / [2](https://github.com/adsbypasser/adsbypasser)
@@ -38,6 +38,7 @@
 * [Yuumari](https://yuumari.com/bypass/) / [Extension](https://chromewebstore.google.com/detail/auto-link-bypasser/doiagnjlaingkmdjlbfalakpnphfmnoh) / [Script](https://yuumari.com/m-links/#js-code)
 * [UploadHEaven](https://greasyfork.org/en/scripts/442019)
 * [Skip Script](https://greasyfork.org/en/scripts/473661)
+* [Adbypass.eu](https://adbypass.eu/) - Ad-maven Bypass
 
 ***
 
