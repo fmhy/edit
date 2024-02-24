@@ -11,8 +11,9 @@ import {
 } from './constants'
 import { generateImages, generateMeta, generateFeed } from './hooks'
 import { toggleStarredPlugin } from './markdown/toggleStarred'
-import { base64DecodePlugin } from './markdown/base64'
 import { movePlugin, emojiRender, defs } from './markdown/emoji'
+
+// @unocss-include
 
 const baseUrl = process.env.GITHUB_ACTIONS ? '/FMHYedit' : '/'
 export default defineConfig({
