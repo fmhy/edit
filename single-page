@@ -16946,7 +16946,7 @@ import Index from './.vitepress/theme/Posts.vue'
 * [Tap Tap Double Tap](https://forum.xda-developers.com/t/app-beta-0-10-1-tap-tap-double-tap-on-back-of-device-gesture-from-android-11-port.4140573/) or [TapTap](https://github.com/KieronQuinn/TapTap) - Android Back Gesture Controls / Needs Root
 * [Quick Cursor](https://play.google.com/store/apps/details?id=com.quickcursor) - Cursor for Large Smartphones
 * [Caffeine](https://lab.zhs.moe/caffeine/) - Keep Screen On
-* [FakeStandby](https://fakestandby.jonasbernard.de/) or [Extinguish](https://play.google.com/store/apps/details?id=own.moderpach.extinguish) - Turn Off Screen While App is Running
+* [FakeStandby](https://fakestandby.jonasbernard.de/) - Turn Off Screen While App is Running
 * [WaveUp](https://gitlab.com/juanitobananas/wave-up) - Turn On Display via Waving
 * [Pinnit](https://github.com/msasikanth/pinnit) - Notification Pinning
 * [B.D.T](https://bdt.jepfa.de/) - Time with Between Time Notifications
@@ -16999,25 +16999,17 @@ import Index from './.vitepress/theme/Posts.vue'
 * [openboard](https://github.com/openboard-team/openboard), [Flickboard](https://github.com/nightkr/flickboard), [Thumb-Key](https://github.com/dessalines/thumb-key) or [Unexpected Keyboard](https://github.com/Julow/Unexpected-Keyboard) - Keyboard Apps
 * [Sayboard](https://github.com/ElishaAz/Sayboard) - AI Voice Keyboard
 * [Grammarly](https://rentry.co/FMHYBase64#grammarly-keyboard-premium) - Grammarly Keyboard Premium
-* [Volv](https://volvmedia.com/) - Android News App
 * [icq](https://icq.com/) - Messaging App
-* [TextFree](https://www.textfree.us/) - Free Texting App
-* [TextMeUp](https://www.textmeup.com/) - Multi-Number App
 * [TxtEmNow](https://txtemnow.com/) - Send Anonymous Texts
-* [Kubool](https://www.gdpd.xyz/) - Anonymous Confession App / [Snapchat](https://play.google.com/store/apps/details?id=com.ignates.snapreply)
-* [Nomad](https://www.nomadapp.me/) - Turn Any Location Into Chat
 * [SMS-IE](https://github.com/tmo1/sms-ie) - Import / Export SMS Messages
 * [Watomatic](https://watomatic.app/) / [Git](https://github.com/adeekshith/watomatic) or [AutoResponder](https://www.autoresponder.ai/) - Chat App Auto-Responders
-* [AndroidCupsPrint](https://github.com/BenoitDuffez/AndroidCupsPrint/) - Wireless Printing App
-* [PDF Maker](https://play.google.com/store/apps/details?id=opofficial.pdfmaker) - PDF Creator
 * [LightCut](https://play.google.com/store/apps/details?id=com.lightcut.videoeditor), [open-video-editor](https://github.com/devhyper/open-video-editor) or [Vaux](https://play.google.com/store/apps/details?id=com.vaux.vaux_editor) - Video Editors
 * [NotificationDictionary](https://github.com/tirkarthi/NotificationDictionary) - Dictionary App
 * [Counters](https://play.google.com/store/apps/details?id=rahmouni.neil.counters) - Count Anything
 * [Smart AutoClicker](https://github.com/Nain57/Smart-AutoClicker) - Auto Clicker
-* [DoForMe](https://play.google.com/store/apps/details?id=com.aj.dfm) - Location-Based Automation
 * [Pluma](https://plumareader.com/), [Feeder](https://f-droid.org/en/packages/com.nononsenseapps.feeder/), [Twine](https://github.com/msasikanth/twine), [FeedMe](https://github.com/seazon/FeedMe), [news](https://github.com/bubelov/news) or [ReadYou](https://github.com/Ashinch/ReadYou) - RSS Readers
 * [Arts & Culture](https://play.google.com/store/apps/details?id=com.google.android.apps.cultural) - Explore Art
-* [PXView](https://github.com/alphasp/pxview) or [Pixez](https://github.com/Notsfsssf/pixez-flutter/blob/master/.github/README_en.md) - Japanese Fanart / Pixiv Apps
+* [Pixez](https://github.com/Notsfsssf/pixez-flutter/blob/master/.github/README_en.md) - Japanese Fanart / Pixiv Apps
 * [UnicodePad](https://github.com/Ryosuke839/UnicodePad) or [Kaomoji](https://play.google.com/store/apps/details?id=ru.kaomoji.kaomojiapp) - Emoji / Unicode Manager
 * [emojimix](https://play.google.com/store/apps/details?id=net.tikolu.emojimix) - Combine Emojis
 * [Memory Guardian](https://github.com/hashemi-hossein/memory-guardian), [Clipboard CopyPaste](https://www.evvasoft.com/ccp.html) or [Clipboard History](https://play.google.com/store/apps/details?id=com.rubbishcollector.clipboardhistory) - Clipboard Managers
@@ -17464,7 +17456,7 @@ import Index from './.vitepress/theme/Posts.vue'
 * [Audio Share](https://github.com/mkckr0/audio-share) - Audio Server Streaming
 * [Ultrasonic](https://gitlab.com/ultrasonic/ultrasonic) or [SubTune](https://github.com/TaylorKunZhang/SubTune) - Subsonic Client
 * [Redomi](https://github.com/acszo/Redomi/) - Multi-Platform Streaming
-* [Sound1](https://play.google.com/store/apps/details?id=com.soundcloud.android&amp;hl=us) - Streaming
+* [Soundcloud](https://play.google.com/store/apps/details?id=com.soundcloud.android&amp;hl=us) - Streaming
 * [Modded Tidal](https://forum.mobilism.org/search.php?keywords=tidal&sr=topics&sf=titleonly) - Steaming / Download
 * [Seeker](https://github.com/jackBonadies/SeekerAndroid), [Datmusic](https://github.com/alashow/datmusic-android) or [AIDS](https://forum.mobilism.org/search.php?st=0&sk=t&sd=d&sr=topics&keywords=aids&sf=titleonly) - Download / MP3
 * [Funkwhale](https://dev.funkwhale.audio/funkwhale/funkwhale-android), [Trebel](https://home.trebel.io/), [BlackHole](https://github.com/Sangwan5688/BlackHole), [VK X](https://vkx.app/) or [Deezer](https://play.google.com/store/apps/details?id=deezer.android.app) - Streaming
