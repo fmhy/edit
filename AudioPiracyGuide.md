@@ -97,7 +97,7 @@
 * [Deezer](https://www.deezer.com/) - Streaming / [Full Songs](https://git.uhwot.cf/uhwot/dzunlock.git)
 * [OdesliBot](https://t.me/odesli_bot) - Audio Stream Search Bot
 * [MusicBucket](https://musicbucket.net/) - Track / Share Music / Telegram
-* [JukeboxStar](https://jukeboxstar.com/) - Collaborative Playlist Streaming
+* [JukeboxStar](https://jukeboxstar.com/) or [JukeboxToday](https://jukebox.today/) - Collaborative Streaming / Listening Parties
 * [stemplayerplayer](https://github.com/nn9dev/stemplayerplayer), [StemPlayer](https://stemplayer.io/) or [stem-player-emulator](https://github.com/krystalgamer/stem-player-emulator) - Kanye West STEM Player Emulators
 
 ***
