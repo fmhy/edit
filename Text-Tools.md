@@ -55,7 +55,6 @@
 * [zPaste](https://zpaste.net/)
 * [bitbin](https://bitbin.it/)
 * [pastes.io](https://pastes.io/)
-* [txt](https://txt.fyi/)
 * [peeplink](https://peeplink.in/)
 * [paaster](https://paaster.io/)
 * [pastery](https://www.pastery.net/)
