@@ -487,7 +487,7 @@
 
 ## ▷ Wallpapers
 
-* ⭐ **[Wallpaper Engine](https://rentry.co/FMHYBase64#wallpaper-engine)** - Wallpaper Manager / [PKG to Zip](https://github.com/TheRioMiner/Wallpaper-Engine-Pkg-to-Zip) / [Collections](https://www.wallpaperengine.space/collections), [2](https://steamcommunity.com/sharedfiles/filedetails/?id=2801058904)
+* ⭐ **[Wallpaper Engine](https://rentry.co/FMHYBase64#wallpaper-engine)** - Wallpaper Manager / [PKG to Zip](https://github.com/TheRioMiner/Wallpaper-Engine-Pkg-to-Zip) / [Collections](https://www.wallpaperengine.space/collections), [2](https://steamcommunity.com/sharedfiles/filedetails/?id=2801058904) / [Workshop DL](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_steam_workshop_downloaders)
 * ⭐ **[wallhaven](https://wallhaven.cc/)** / [Downloader](https://github.com/eramdam/WallbaseDirectDownloader) - Wallpapers
 * ⭐ **[Wallpaper Abyss](https://wall.alphacoders.com/)** - Wallpapers
 * ⭐ **[Studio Ghibli Wallpapers](https://www.ghibli.jp/info/013772)**
