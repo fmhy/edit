@@ -357,7 +357,6 @@
 * [SSLMate CAA](https://sslmate.com/caa/) - CAA Record Helper
 * [free-website-translation](http://free-website-translation.com/), [transdict](http://transdict.com/meta/website.html) or [conveythis](https://www.conveythis.com/) - Website Translators
 * [Statically](https://statically.io/) - Load Websites Faster
-* [comepress](https://github.com/NayamAmarshe/comepress) - Optimize Sites Image Files
 * [Qdrant](https://qdrant.tech/) - Vector Database
 * [Rest Test Test](https://resttesttest.com/) - Test REST / CORS Services
 * [WebUI](https://webui.me/) - Embed WebUI Libaries in Project
