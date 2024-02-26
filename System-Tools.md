@@ -431,22 +431,20 @@
 * ⭐ **[WLED](https://kno.wled.ge/)**, [OpenRGB](https://openrgb.org/), [SignalRGB](https://www.signalrgb.com/), [LiquidCTL](https://github.com/liquidctl/liquidctl), [Artemis](https://artemis-rgb.com/), [RBGSync](https://rgbsync.com/), [FireLight](https://github.com/nicolasdeory/firelight) or [Aurora](https://github.com/antonpup/Aurora) - Lighting Control
 * [VirtualCustoms](https://virtualcustoms.net/) or [winthemers](https://discord.com/invite/8FFWAqdtc4) - Customization Communities 
 * [XDesktopSoft](https://www.xwidget.com/) - Desktop Customization
-* [LineStep](http://litestep.net/) - Customize Desktop Interface
+* [LiteStep](http://litestep.net/) - Customize Desktop Interface
 * [pyWinContext](https://github.com/VodBox/pyWinContext) - Custom Context Menu Manager
 * [Taskbar Tweaker](https://tweaker.ramensoftware.com/), [NiceTaskbar](https://www.microsoft.com/en-us/p/nicetaskbar/9pkl2s93xwb5) - Taskbar Customization Tools
-* [TaskbarXI](https://github.com/ChrisAnd1998/TaskbarXI) - Modify Windows 11 Taskbar
 * [msstyleEditor](https://github.com/nptr/msstyleEditor) or [WinPaletter](https://github.com/Abdelrhman-AK/WinPaletter) - Windows Visual Style Editors
 * [BeautySearch](https://github.com/krlvm/BeautySearch) - Windows 10 Search Appearance Tweaker
 * [ChromaDiscordApp](https://github.com/tgraupmann/ChromaDiscordApp) - Discord System Lighting Control
 * [KeyboardVisualizer](https://gitlab.com/CalcProgrammer1/KeyboardVisualizer) - Audio Visualizer / FX Engine for Keyboards, Mice & Accessories
 * [Mechvibes](https://mechvibes.com/), [Rackety](https://girkovarpa.itch.io/rackety) or [MechaKeys](https://mechakeys.robolab.io/) - Keyboard Sound Effects
-* [WindowFX](https://www.stardock.com/products/windowfx/) - System Animation Effects
 * [ElectricSheep](https://electricsheep.org/) - Collaborative Usergenerated Screensaver
 * [After Dark CSS](https://www.bryanbraun.com/after-dark-css/) - Browser Screensavers
 * [Cursors 4U](https://www.cursors-4u.com/), [Cursor Mania Archive](https://archive.org/details/cursormania), [Bibata Cursor](https://github.com/ful1e5/Bibata_Cursor), [Cursors Pastebin](https://pastebin.com/BrAbMy4n) or [rw-designer](http://rw-designer.com/cursor-library) - Cursors
 * [FolderMarker](https://foldermarker.com/) or [CustomFolder](https://www.gdzsoft.com/) - Custom Folders & Markers
 * [Recycle Bin Themes](https://github.com/sdushantha/recycle-bin-themes) - Custom Recycle Bin Icons
-* [ElevenClock](https://github.com/marticliment/ElevenClock) - Customize Windows 11 Clock 
+* [ElevenClock](https://www.marticliment.com/elevenclock/) - Customize Windows 11 Clock 
 
 ***
 
