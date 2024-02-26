@@ -139,6 +139,7 @@
 * [/r/recipes](https://reddit.com/r/recipes) - Share Recipes
 * [/r/AskCulinary](https://reddit.com/r/AskCulinary) - Get Cooking Advice
 * [FermenThings](https://wiki.fermenthings.be/) - Fermentation Wiki
+* [The Sad Bastard Cookbook: Food You Can Make So You Don't Die](https://archive.org/details/sad-bastards-last) - Simple and cheap recipes especially useful for those who struggle with cooking
 
 ***
 
