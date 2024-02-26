@@ -26,7 +26,7 @@
 ## ▷ Spotify Tools
 
 * ⭐ **[Spicetify](https://spicetify.app/)** - Spotify Themes
-* ⭐ **Spicetify Tools** - [CLI](https://github.com/spicetify/spicetify-cli) / [Addons](https://github.com/3raxton/spicetify-custom-apps-and-extensions) / [Discord](https://discord.gg/VnevqPp2Rr) / [Easy Installation](https://github.com/OhItsTom/spicetify-easyinstall/) / [Fluent](https://github.com/williamckha/spicetify-fluent), [2](https://github.com/nimsandu/spicetify-bloom)
+* ⭐ **Spicetify Tools** - [CLI](https://github.com/spicetify/spicetify-cli) / [Addons](https://github.com/3raxton/spicetify-custom-apps-and-extensions) / [Discord](https://discord.gg/VnevqPp2Rr) / [Fluent](https://github.com/williamckha/spicetify-fluent), [2](https://github.com/nimsandu/spicetify-bloom)
 * [Versefy](https://versefy.app/) - Lyrics
 * [SpotifyTools](https://spotifytools.romanello.xyz/) - Spotify Companion
 * [Playlist Randomizer](https://stevenaleong.com/tools/spotifyplaylistrandomizer) - Playlist Randomizer
@@ -264,7 +264,7 @@
 
 * 🌐 **[Music Ripping Guide](https://ori5000.github.io/musicripping.html)**, **[Firehawk52](https://rentry.org/firehawk52)**, [MusicDL](https://rentry.org/musicdl) or [Florin](https://rentry.org/florinsmusicrippingguide) - Downloading / Ripping Guides
 * ⭐ **[DoubleDouble](https://doubledouble.top/)** - Multi-Site Downloader / 320kb / MP3 / FLAC / [Telegram](https://t.me/+AuKfQGOOLrFlOTZk)
-* ⭐ **[yet another music server](https://redd.it/17f8msf)** - Multi-Site Downloader / FLAC / Check #Public-Invites in our Discord
+* ⭐ **[yet another music server](https://discord.gg/wPwqnVuert)** - Multi-Site Downloader / FLAC
 * ⭐ **[YTMDL](https://ytmdl.deepjyoti30.dev/)**, [Shira](https://github.com/KraXen72/shira), [MPS-YouTube](https://github.com/mps-youtube/yewtube) or [YT-DLP](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/social-media#wiki_.25B7_youtube_downloaders) - YouTube Audio Downloaders
 * ⭐ **[YouTube Ripping Guide](https://redd.it/vv27dy)**
 * ⭐ **[Soulseek](https://slsknet.org/)** or [Nicotine+](https://nicotine-plus.org/) - Download App / [Stats](https://github.com/mrusse/Slsk-Upload-Stats-Tracker) / [Server App](https://github.com/slskd/slskd)
