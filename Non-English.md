@@ -537,7 +537,6 @@
 * ⭐ **[Rare Toons India](https://rareanimes.com/)** - Anime / 1080p / [Telegram](https://telegram.dog/rareanimesindia)
 * ⭐ **[AToZ Cartoonist](https://www.atozcartoonist.com/)** - Cartoons / Anime / Sub / Dub / 1080p / [Discord](https://discord.com/invite/EpQn49C4jX) / [Link Bypasser](https://greasyfork.org/en/scripts/484907)
 * ⭐ **[Free Lossless Desi Music](https://hindi-lossless.blogspot.com/)** - Music / FLAC
-* [BollyMaza](https://ww3.bollymaza.click/) - Movies / TV / Sub / Dub / 1080p / 4K
 * [Mallumv](https://mallumv.buzz/) - Movies / Sub / Dub / 1080p / [Telegram](https://t.me/MalluMvoff)
 * [SSR Movies](https://ssrmovies.mov/) - Movies / TV / Sub / Dub / 1080p / [Telegram](https://telegram.dog/+MF2EXeitLjMxY2Ux)
 * [MkvMoviesPoint](https://mkvmoviespoint.boo/) - Movies / TV / Sub / Dub / 1080p / [Telegram](https://telegram.me/mkvpoint1)
