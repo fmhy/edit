@@ -279,7 +279,7 @@
   
 ***
 
-* ⭐ **[Pixeldrain](https://pixeldrain.com/)** - 20GB / 90 days / [Discord](https://discord.gg/TWKGvYAFvX) / [Speedtest File](https://pixeldrain.com/speedtest) / [Bypass](https://pixeldrain-bypass.cybar.xyz) / [Bypass Note](https://pastebin.com/Ab1mZXXV)
+* ⭐ **[Pixeldrain](https://pixeldrain.com/)** - 20GB / 90 days / [Discord](https://discord.gg/TWKGvYAFvX) / [Speedtest File](https://pixeldrain.com/speedtest) / [Bypass](https://pixeldrain-bypass.cybar.xyz) / [Bypass Note](https://pastebin.com/A9aJr8cE)
 * ⭐ **[Gofile](https://gofile.io/)** - Unlimited / 10 days
 * ⭐ **[1fichier](https://1fichier.com/)** - 300GB / 15 days (30 days if you sign up)
 * ⭐ **[Buzzheavier](https://buzzheavier.com/)** - Unlimited / Forever / [Discord](https://discord.gg/ttQjgC28WP)
