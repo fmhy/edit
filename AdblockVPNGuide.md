@@ -36,7 +36,6 @@
 * [Bypass-Links](https://github.com/amitsingh-007/bypass-links)
 * [Yuumari](https://yuumari.com/bypass/) / [Extension](https://chromewebstore.google.com/detail/auto-link-bypasser/doiagnjlaingkmdjlbfalakpnphfmnoh) / [Script](https://yuumari.com/m-links/#js-code)
 * [UploadHEaven](https://greasyfork.org/en/scripts/442019)
-* [Skip Script](https://greasyfork.org/en/scripts/473661)
 * [Adbypass.eu](https://adbypass.eu/) - Ad-maven Bypass
 
 ***
