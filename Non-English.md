@@ -58,6 +58,11 @@
 * [hijala](https://hijala.blogspot.com/) - Manga / [Discord](https://discord.com/invite/sGTBCDeE2J)
 * [Aldiwan](https://www.aldiwan.net/) - Poems / [Telegram](https://t.me/AldiwanNet)
 
+## ▷ Games Localization /  تعريب الألعاب
+
+* [Eternal Dream Arabization](https://www.etrdream.com/) - Modern / Official / Retro Games Arabic Localization
+* [Ataraxia](https://www.ataraxia-translations.com/) - Visual Novels / Fate/stay night Games Arabic Localization
+
 ***
 
 # ► Bangla / বাংলা 
