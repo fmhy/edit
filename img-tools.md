@@ -474,15 +474,11 @@
 * ↪️ **[Random Images](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_random_generators)**
 * ↪️ **[AI Galleries](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/ai#wiki_.25B7_prompts_.2F_galleries)**
 * ↪️ **[Media Covers / Posters](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_covers_.2F_posters)**
-* ⭐ **[Search Anything](https://search.anything.io/)**, [Yandex Images](https://yandex.ru/images) or [Google Images](https://images.google.com/) - Image Search Engines
+* ⭐ **[Search Anything](https://search.anything.io/)** - Image Search Engine
 * ⭐ **[gallery-dl](https://github.com/mikf/gallery-dl)**, [RipMe](https://github.com/RipMeApp/ripme), [ImgDownloader](https://imgdownloader.com/), [SCrawler](https://github.com/AAndyProgram/SCrawler) or [Image Extractor](https://extract.pics/) - Image Download Tools
 * [Dezoomify](https://dezoomify.ophir.dev/) - Download Zoomable Images
-* [Have I Been Trained?](https://haveibeentrained.com/) - AI Image Search
 * [Clip Retrieval](https://rom1504.github.io/clip-retrieval/) - Clip Retrieval System
-* [RootAbout](https://rootabout.com/) - Archive / OpenLibrary Reverse Image Search
 * [PicTriev](http://www.pictriev.com/) - Find Look-Alike Images
-* [PimEyes](https://pimeyes.com/en/) - Reverse Face Image Search
-* [Multicolr](https://labs.tineye.com/multicolr/) - Color-Based Reverse Image Search
 * [pfps.gg](https://pfps.gg/) - Profile Picture Index
 * [OpenMoji](https://openmoji.org/) - Emojis
 * [PixelJoint](https://pixeljoint.com/) - Pixel Art
@@ -509,9 +505,15 @@
 * ⭐ **[TinEye](https://tineye.com/)** - Fast Image Search / [Extension](https://tineye.com/extensions)
 * ⭐ **[same.energy](https://same.energy/)** - Visual Search Engine
 * ⭐ **[Yandex Images](https://yandex.com/images/)** - Image Search
+* [Google Images](https://images.google.com/) - Image Search
 * [VISE](https://www.robots.ox.ac.uk/~vgg/software/vise/) - Image Search with Search Queries
 * [SauceNao](https://saucenao.com/) - Multi Search / * [Extension](https://saucenao.com/tools/)
 * [SmartImage](https://github.com/Decimation/SmartImage) - Multi Search App
+* [Have I Been Trained?](https://haveibeentrained.com/) - AI Image Search
+* [RootAbout](https://rootabout.com/) - Archive / OpenLibrary Reverse Image Search
+* [PimEyes](https://pimeyes.com/en/) - Reverse Face Image Search
+* [Multicolr](https://labs.tineye.com/multicolr/) - Color-Based Image Search
+* [trace.moe](https://trace.moe/) or [Saucekudasai](https://saucekudasai.com/) - Anime Reverse Image Search
 * [iqdb](https://iqdb.org/) - Multi NSFW Search
 * [ascii2d](https://ascii2d.net/) - NSFW Search
 
@@ -567,7 +569,6 @@
 * [Flexbooru](https://github.com/flexbooru/flexbooru), [BooruSphere](https://github.com/nullxception/boorusphere), [Yummybooru](https://github.com/Yochyo/Yummybooru) or [Animes Boxes](https://animebox.es/) - Booru Clients / [Telegram](https://t.me/Flexbooru/161)
 * [Buhitter](https://buhitter.com/) - Twitter Illustration Search
 * [imgbrd-grabber](https://github.com/Bionus/imgbrd-grabber) - Booru Image Downloader
-* [trace.moe](https://trace.moe/) or [Saucekudasai](https://saucekudasai.com/) - Anime Reverse Image Search
 * [Artbreeder](https://artbreeder.com/) - Image Discovery / Combining
 
 ***
