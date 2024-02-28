@@ -1,6 +1,9 @@
 import { defineConfig, presetUno, presetAttributify, presetIcons } from 'unocss'
 
 export default defineConfig({
+  content: {
+    filesystem: ['.vitepress/config.mts', '.vitepress/constants.ts']
+  },
   theme: {
     colors: {
       primary: 'var(--vp-c-brand-1)',

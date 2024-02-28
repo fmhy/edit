@@ -9,7 +9,9 @@ sidebar: false
 footer: true
 ---
 
-# Join at: `fmhy.net`
+<Post authors="['nbats']" />
+
+### Join at: `fmhy.net`
 
 - You will be spawned at the hub.
 - To go to vanilla, head to the end portal.

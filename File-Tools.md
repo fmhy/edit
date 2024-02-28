@@ -128,6 +128,7 @@
 * [TablacusExplorer](https://tablacus.github.io/explorer_en.html) / [GitHub](https://github.com/tablacus/TablacusExplorer) - File Manager with Addon Support
 * [Multi Commander](https://multicommander.com/) or [ExplorerEx](https://github.com/DearVa/ExplorerEx) - Multi-Tabbed File Managers
 * [Vifm](https://vifm.info/) - Vim-based File Manager
+* [WinSetView](https://github.com/LesFerch/WinSetView) - Globally Set Explorer Folder Views
 
 ***
 
@@ -135,7 +136,7 @@
 
 * ⭐ **[Everything](https://voidtools.com/)** - File Search Engine
 * [Recoll](https://www.lesbonscomptes.com/recoll/) / [Addon](https://addons.mozilla.org/en-US/firefox/addon/recoll-we/), [Spyglass](https://github.com/spyglass-search/spyglass), [DocFetcher](https://docfetcher.sourceforge.net/) or [Orange](https://github.com/naaive/orange) - Cross Platform Search Engines
-* [AnyTXT](https://anytxt.net/) or [FluentSearch](https://fluentsearch.net/) - Windows Search Engines
+* [AnyTXT](https://anytxt.net/), [Listary](https://www.listary.com/) or [FluentSearch](https://fluentsearch.net/) - Windows Search Engines
 * [AstroGrep](https://sourceforge.net/projects/astrogrep/), [grepWin](https://github.com/stefankueng/grepWin) or [dnGrep](https://dngrep.github.io/) - Windows GUI Grep Utilities
 * [fselect](https://github.com/jhspetersson/fselect) - SQL-like Search Engine
 * [fd](https://github.com/sharkdp/fd) - User Friendly "find" Alternative
@@ -278,9 +279,8 @@
   
 ***
 
-* ⭐ **[Pixeldrain](https://pixeldrain.com/)** - 20GB / 90 days / [Discord](https://discord.gg/TWKGvYAFvX) / [Speedtest File](https://pixeldrain.com/api/misc/speedtest) / [Bypass](https://pixeldrain-bypass.cybar.xyz) / [Bypass Note](https://pastebin.com/Ab1mZXXV)
+* ⭐ **[Pixeldrain](https://pixeldrain.com/)** - 20GB / 90 days / [Discord](https://discord.gg/TWKGvYAFvX) / [Speedtest File](https://pixeldrain.com/speedtest) / [Bypass](https://pixeldrain-bypass.cybar.xyz) / [Bypass Note](https://pastebin.com/A9aJr8cE)
 * ⭐ **[Gofile](https://gofile.io/)** - Unlimited / 10 days
-* ⭐ **[FileDitch](https://fileditch.com/)** - 15GB / Forever
 * ⭐ **[1fichier](https://1fichier.com/)** - 300GB / 15 days (30 days if you sign up)
 * ⭐ **[Buzzheavier](https://buzzheavier.com/)** - Unlimited / Forever / [Discord](https://discord.gg/ttQjgC28WP)
 * ⭐ **[Send.cm](https://send.cm/)** - 100GB / 15 days
@@ -289,10 +289,11 @@
 * ⭐ **[Mixdrop](https://mixdrop.ag/)** - 2GB / 60 Days / Signup Required
 * ⭐ **[Qiwi](https://qiwi.gg)** - [Warning](https://pastebin.com/jn90QMEt) / Signup Required
 * ⭐ **[Catbox.moe](https://catbox.moe/)** - 200MB / Forever
-* [MultiUp](https://multiup.io/), [MirrorAce](https://mirrorace.com/) or [Mirrorcreator](https://www.mirrored.to/) - Multi Host Uploaders
+* [MultiUp](https://multiup.io/), [MirrorAce](https://mirrorace.com/) or [Mirrorcreator](https://www.mirrored.to/) / [Extract / Upload](https://github.com/Reddiepoint/MultiUp-Direct) - Multi Host Uploaders
 * [Z-o-o-m](https://z-o-o-m.eu/) - Multi-Host Upload Desktop App
 * [Archive.org](https://archive.org/create/) - Signup Required
 * [send](https://send.vis.ee/) / [instances](https://gitlab.com/timvisee/send-instances) - 2.5gb / 1 day
+* [FileDitch](https://fileditch.com/) - 15GB / 30 days
 * [File.cm](https://file.cm/) - 100GB / 30 days / Signup Required
 * [edisk](https://www.edisk.cz/) - 10GB / 30 days
 * [file.kiwi](https://file.kiwi/) - Unlimited / 3.5 Days / [Free Download Duration](https://ibb.co/85z9D1s)

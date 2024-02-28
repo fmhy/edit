@@ -75,7 +75,7 @@
 
 ## ▷ Convert / Encode
 
-* ⭐ **[Video Encoding Guide](https://sometimes-archives-things.github.io/archived-things/)** / [2](https://encoding-guide.neocities.org/) or [Disc Rip](https://nullish.cat/blog/disc-rip) / [2](https://rentry.org/disc-rip) - Learn how to Rip / Encode Videos
+* ⭐ **[Encoding Guide](https://sometimes-archives-things.github.io/archived-things/)** / [2](https://encoding-guide.neocities.org/), [MDbook](https://silentaperture.gitlab.io/mdbook-guide/) or [Disc Rip](https://nullish.cat/blog/disc-rip) / [2](https://rentry.org/disc-rip) - Video Encoding / Ripping Guides
 * ⭐ **[Basics to the Art of Remuxing](https://rentry.co/Remuxing)** or [fs927](https://rentry.org/fs927) - Learn how to Remux Videos
 * ⭐ **[MKVToolNix](https://mkvtoolnix.download/)** - MKV Editing Tools
 * ⭐ **[HandBrake](https://handbrake.fr/)** / [Guide](https://www.rapidseedbox.com/blog/guide-to-mastering-handbrake)
@@ -202,7 +202,7 @@
 * [AutoSubSync MPV](https://github.com/joaquintorres/autosubsync-mpv) - Sub Sync
 * [MPV SponsorBlock](https://github.com/po5/mpv_sponsorblock), [2](https://codeberg.org/jouni/mpv_sponsorblock_minimal) - SponsorBlock for MPV
 * [ThumbFast](https://github.com/po5/thumbfast) - MPV Thumbnails
-* [FSR.glsl](https://gist.github.com/agyild/82219c545228d70c5604f865ce0b0ce5) - FidelityFX for MPV
+* [FSR](https://gist.github.com/agyild/82219c545228d70c5604f865ce0b0ce5), [NNEDI / Ravu](https://github.com/bjin/mpv-prescalers/) or [FSRCNNX](https://github.com/igv/FSRCNN-TensorFlow/) - MPV Shaders
 
 ***
 
@@ -356,6 +356,7 @@
 * [Flowframes](https://nmkd.itch.io/flowframes) / [Beta](https://kemono.party/patreon/user/19695417) or [SVP](https://www.svp-team.com/) / [Guide](https://www.svp-team.com/wiki/Manual:SVPcode) - Video Interpolation / Increase FPS
 * [VideoColorizerColab](https://colab.research.google.com/github/jantic/DeOldify/blob/master/VideoColorizerColab.ipynb) - Video Colorization Colab
 * [OpenColorIO](https://opencolorio.org/) - Video Color Manager
+* [FreshLUTs](https://freshluts.com/) - Free LUTs (Color Filters)
 * [Avidemux](http://fixounet.free.fr/avidemux/) - Cut / Filter / Encode
 * [vidcutter](https://github.com/ozmartian/vidcutter) - Cut / Trim Videos
 * [Opus](https://www.opus.pro/) - Clip Creator

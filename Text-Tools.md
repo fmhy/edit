@@ -31,11 +31,12 @@
 * ⭐ **[snowbin](https://pastes.fmhy.net/)**
 * ⭐ **[Linqbin](https://linqbin.cc/)** - Temp Pastebin
 * ⭐ **[Rentry](https://rentry.co/)** / [CLI](https://github.com/radude/rentry)
-* ⭐ **[Bundles](https://sentrytwo.com/)** / [Source](https://codeberg.org/SentryTwo/bundles)
+* ⭐ **[Bundlrs](https://bundlrs.cc/)** / [Source](https://code.stellular.org/SentryTwo/bundlrs)
 * ⭐ **[disroot](https://bin.disroot.org/)**, [privatebin](https://privatebin.net/), [TextBin](https://textbin.xyz/), [bin.idrix](https://bin.idrix.fr/) or [RIN Privatebin](https://privatebin.rinuploads.org/)
 * ⭐ **[PrivateBin Instances](https://privatebin.info/directory/)**
 * ⭐ **[katb](https://katb.in/)**
 * ⭐ **[WriteXO](https://writexo.com/)**
+* [Rlim](https://rlim.com/)
 * [Snips.sh](https://snips.sh/) - Self-Hosted
 * [Paster](https://paster.so)
 * [paste](https://paste.ee/)
@@ -55,7 +56,6 @@
 * [zPaste](https://zpaste.net/)
 * [bitbin](https://bitbin.it/)
 * [pastes.io](https://pastes.io/)
-* [txt](https://txt.fyi/)
 * [peeplink](https://peeplink.in/)
 * [paaster](https://paaster.io/)
 * [pastery](https://www.pastery.net/)
@@ -191,6 +191,7 @@
 * [Brevity500](https://brevity500.com/) - Typing Games
 * [TypeRush](https://www.typerush.com/) - Typing Games
 * [ARRRType](https://www.arrrtype.com/) - Typing Games
+* [NGram Type](https://ranelpadon.github.io/ngram-type/), [Keyzen3](https://adamgradzki.com/keyzen3/) or [Keyzen Colmak](https://ranelpadon.github.io/keyzen-colemak-dh/) - Touch Typing Tests
 * [Ttyper](https://github.com/max-niederman/ttyper) or [TermTyper](https://github.com/kraanzu/termtyper) - Terminal Typing Tests
 * [TypeLit.io](https://www.typelit.io/) - Book Typing Tests
 * [Colemak Academy](https://www.colemak.academy/) - Alt / Custom Keyboard Tests
@@ -223,6 +224,7 @@
 * [BeefText](https://beeftext.org/)
 * [Quill](https://quilljs.com/)
 * [Helix](https://helix-editor.com/) / [GitHub](https://github.com/helix-editor/helix)
+* [BeaverNotes](https://beavernotes.com/)
 * [Textreme](https://ash-k.itch.io/textreme) / [GitHub](https://github.com/cis-ash/TEXTREME)
 * [Tiddly](https://tiddlywiki.com/) / [Desktop](https://github.com/tiddly-gittly/TidGi-Desktop)
 * [Joplin](https://joplinapp.org/) / [Firefox](https://addons.mozilla.org/en-US/firefox/addon/joplin-web-clipper/) / [Chrome](https://chromewebstore.google.com/detail/joplin-web-clipper/alofnhikmmkdbbbgpnglcpdollgjjfeken-GB)
