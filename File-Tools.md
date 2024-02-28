@@ -136,7 +136,7 @@
 
 * ⭐ **[Everything](https://voidtools.com/)** - File Search Engine
 * [Recoll](https://www.lesbonscomptes.com/recoll/) / [Addon](https://addons.mozilla.org/en-US/firefox/addon/recoll-we/), [Spyglass](https://github.com/spyglass-search/spyglass), [DocFetcher](https://docfetcher.sourceforge.net/) or [Orange](https://github.com/naaive/orange) - Cross Platform Search Engines
-* [AnyTXT](https://anytxt.net/) or [FluentSearch](https://fluentsearch.net/) - Windows Search Engines
+* [AnyTXT](https://anytxt.net/), [Listary](https://www.listary.com/) or [FluentSearch](https://fluentsearch.net/) - Windows Search Engines
 * [AstroGrep](https://sourceforge.net/projects/astrogrep/), [grepWin](https://github.com/stefankueng/grepWin) or [dnGrep](https://dngrep.github.io/) - Windows GUI Grep Utilities
 * [fselect](https://github.com/jhspetersson/fselect) - SQL-like Search Engine
 * [fd](https://github.com/sharkdp/fd) - User Friendly "find" Alternative
