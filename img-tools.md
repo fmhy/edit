@@ -514,8 +514,6 @@
 * [PimEyes](https://pimeyes.com/en/) - Reverse Face Image Search
 * [Multicolr](https://labs.tineye.com/multicolr/) - Color-Based Image Search
 * [trace.moe](https://trace.moe/) or [Saucekudasai](https://saucekudasai.com/) - Anime Reverse Image Search
-* [iqdb](https://iqdb.org/) - Multi NSFW Search
-* [ascii2d](https://ascii2d.net/) - NSFW Search
 
 ***
 
