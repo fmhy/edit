@@ -36,6 +36,7 @@
 * ⭐ **[PrivateBin Instances](https://privatebin.info/directory/)**
 * ⭐ **[katb](https://katb.in/)**
 * ⭐ **[WriteXO](https://writexo.com/)**
+* [Rlim](https://rlim.com/)
 * [Snips.sh](https://snips.sh/) - Self-Hosted
 * [Paster](https://paster.so)
 * [paste](https://paste.ee/)
