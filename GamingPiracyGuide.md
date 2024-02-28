@@ -633,6 +633,7 @@
 * [Tweakdle](https://tweakdle.chariz.com/)
 * [Wordlevs](https://wordlevs.com/)
 * [Octordle](https://www.britannica.com/games/octordle/)
+* [LoLdle](https://loldle.net/) - League of Legends Style Wordle
 * [Minecraftle](https://minecraftle.zachmanson.com/) - Minecraft Crafting Style Wordle
 
 ***
@@ -1079,6 +1080,7 @@
 * [Setup.md](https://setup.md/) - Server Admin Guides
 * [mcsrvstat](https://mcsrvstat.us/) - Server Status Updates
 * [LazyMc](https://github.com/timvisee/lazymc) - Idle Minecraft Server
+* [Minecraft Server Checker](https://moistcatawumpus.github.io/minecraft-server-checker/) - Simple Server Checker
 * [Forge](https://files.minecraftforge.net/), [Quilt](https://quiltmc.org/) or [Fabric](https://fabricmc.net/) / [Discord](https://discord.gg/VDGnGsFeuy) - Minecraft Modding API 
 * [PVPRP](https://pvprp.com/) - Minecraft Texture Packs
 * [Iris Shaders](https://modrinth.com/mod/iris) - Fabric Shadermod for Minecraft
