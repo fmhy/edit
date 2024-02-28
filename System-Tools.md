@@ -470,6 +470,7 @@
 * [Macdows11](https://redd.it/pd5ha6) - Windows 11 Mac Theme Guide
 * [macOS-cursors-for-Windows](https://github.com/antiden/macOS-cursors-for-Windows) - macOS Cursors for Windows
 * [AccentColorizer](https://github.com/krlvm/AccentColorizer) - Custom Windows Accent Color
+* [MicaForEveryone](https://github.com/MicaForEveryone/MicaForEveryone) - System Backdrop Customization
 * [TranslucentFlyouts](https://github.com/ALTaleX531/TranslucentFlyouts) - Translucent Context Menus
 * [TranslucentTB](https://github.com/TranslucentTB/TranslucentTB) - Translucent Windows Taskbar
 * [RetroBar](https://github.com/dremin/RetroBar) - Retro Classic Taskbars
