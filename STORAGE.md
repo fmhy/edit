@@ -847,16 +847,6 @@ http://104.131.175.196:8080/, http://70.88.180.169:8088/, http://207.237.122.161
 
 ***
 
-## Reverse Image Search
-
-* ⭐ **[Search by Image](https://github.com/dessant/search-by-image)**
-* ⭐ **[TinEye](https://tineye.com/)** / [Extension](https://tineye.com/extensions)
-* ⭐ **[same.energy](https://same.energy/)**
-
-[Duplichecker](https://www.duplichecker.com/reverse-image-search.php), [Image Raider](https://infringement.report/api/raider-reverse-image-search/), [ascii2d](https://ascii2d.net/), [iqdb](https://iqdb.org/), [Reverse Image Analyser](https://www.osintcombine.com/reverse-image-analyzer), [SauceNao](https://saucenao.com/) / [Extension](https://saucenao.com/tools/), [Yandex Images](https://yandex.com/images/), [VISE](https://www.robots.ox.ac.uk/~vgg/software/vise/), [SmartImage](https://github.com/Decimation/SmartImage), [berify](https://berify.com/), [Reverse Image Search](https://www.reverse-image-search.org/), [RevEye](https://github.com/steven2358/reveye), [immerse](https://www.immerse.zone/), [ReverseImageSearch](https://www.reverseimagesearch.com/), [MaxURL](https://qsniyg.github.io/maxurl/), [Labnol](https://www.labnol.org/reverse/), [Photo Sherlock](https://photosherlock.com/)
-
-***
-
 ## Royalty Free Music
 
 [Free Music Archive](https://freemusicarchive.org/), [freesoundtrackmusic](https://www.freesoundtrackmusic.com/), [joshwoodward](https://www.joshwoodward.com/), [wowsound](https://wowsound.com/), [epidemicsound](https://www.epidemicsound.com/), [Pixabay Music](https://pixabay.com/music/), [audiomicro](https://www.audiomicro.com/), [Starfrosch](https://starfrosch.com/), [senpai.tv](https://senpai.tv/), [Mubert](https://mubert.com/), [ccHound](https://cchound.com/), [MusicScreen](https://www.musicscreen.org/), [FilmMusic](https://filmmusic.io/), [Fugue](https://icons8.com/music), [EDMRF](https://edmroyaltyfree.net/), [chosic](https://www.chosic.com/free-music/all/), [Anttis Instrumentals](https://www.gamedev.net/news/2000-instrumental-pieces-released-by-anttis-instrumentals-r1135/) / [Torrent](https://drive.google.com/open?id=0ByvAPNATAYsBR0FUczYzWHk3NEU), [Sampld](https://open.sampld.app/), [BLueFoxMusic](https://bluefoxmusic.com/), [ScottBuckley](https://www.scottbuckley.com.au/library/), [Creative Commons Jazz](https://jazz.mixremix.cc/)
