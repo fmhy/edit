@@ -276,6 +276,7 @@
 ## ▷ Kodi Tools
 
 * ⭐ [Kodi Setup Guide](https://redd.it/zzfdtb)
+* [EverythingKodi](https://rumble.com/c/EverythingKodi) - Kodi Addon Tutorials
 * [Kodi Builds Chart](https://kodiapps.com/builds-chart)
 * [r/Addons4Kodi](https://www.reddit.com/r/Addons4Kodi/) / [Tracker](https://kinkeadtech.com/best-kodi-streaming-addons/) / [Trending](https://kodiapps.com/addons-chart) - Kodi Addons
 * [Plex For Kodi](https://github.com/plexinc/plex-for-kodi) or [Plex Kodi Connect](https://github.com/croneter/PlexKodiConnect) - Plex Connect
@@ -284,7 +285,6 @@
 * [Simkl](https://simkl.com/) - Media Tracker
 * [Elementum](https://elementum.surge.sh/) - Trakt Sync
 * [mediaelch](https://github.com/komet/mediaelch) - Media Manager
- 
 
 ***
 
