@@ -67,15 +67,3 @@ footer: true
 * Unstarred claude in chatbots as it requires email + phone number and doesn't give as good results as it used to.
 
 * Unstarred Harmanoid as its not longer being updated and has 100+ issues on github.
-
-***
-
-### [Previous Update Threads](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/updates)
-
-***
-
-### RSS Feed: https://fmhy.net/feed.rss
-
-***
-
-*Note - These update threads only contains major updates. If you're interested in seeing all minor changes you can follow our commits page on [GitHub](https://github.com/fmhy/FMHYedit/commits/main). Also keep in mind that this thread will be deleted and [archived](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/updates) at the end of the month.*
