@@ -328,6 +328,7 @@
 * [GoTo10](https://www.goto10.fr/) - BBS and Minitel Archives
 * [DropReference](https://dropreference.com/) - PC Building Site
 * [TrustScam](https://trustscam.fr/) - Website Security Analysis
+* [nuit-blanche](https://nuit-blanche.ch/) - Drug Detox Help
 
 ## ▷ Downloading
 
@@ -1271,6 +1272,9 @@
 * [KinoFlux](https://kinoflux.biz/) - Movies / TV / Dub / 1080p
 * [KinoKrad](https://kinokrad.cc/) - Movies / TV / Dub / 1080p
 * [baskino](https://baskino.film/) - Movies / Dub / 1080p
+* [gidonline](https://gidonline.eu/) -  Movies / TV / Anime / Sub / Dub / 1080p
+* [zetflix](https://zetflix.zone/) -  Movies / TV / Anime / Sub / Dub / 1080p
+* [filmix](https://filmix.ac/) -  Movies / TV / Anime / 720p
 * [Kinotochka](https://kinovibe.tv/) - Movies / TV / Anime / Dub / 720p
 * [seasonvar](http://seasonvar.ru/) - TV / Dub / 720p
 * [DarkLibria](https://darklibria.it/) - Anime / Dub / 1080p
@@ -1312,6 +1316,7 @@
 * [Top Radio](https://top-radio.ru/) - Radio
 * [OpenEDU](https://openedu.ru/) - Courses
 * [Teach.in](https://teach-in.ru/) - Lectures
+* [videotuts](https://videotuts.ru/) - Design Video Tutorials
 
 ## ▷ Reading
 
