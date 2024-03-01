@@ -15662,6 +15662,7 @@ import Index from './.vitepress/theme/Posts.vue'
 * [bytecode-viewer](https://github.com/Konloch/bytecode-viewer), [JDec](https://jdec.app/), [jd-gui](https://github.com/java-decompiler/jd-gui), [Krakatau](https://github.com/Storyyeller/Krakatau), [Luyten](https://github.com/deathmarine/Luyten) or [Fernflower](https://github.com/fesh0r/fernflower) - Java Decompilers
 * [JEnv For Windows](https://github.com/FelixSelter/JEnv-for-Windows) - Change Java Version
 * [Obfuscator](https://obfuscator.io/) or [js-confuser](https://js-confuser.com/) - JavaScript Obfuscators
+* [jsdfe](https://avotoko.github.io/javascript-deobfuscator/) - JavaScript Deobfuscator
 * [anime.js](https://animejs.com/) - JavaScript Animation Library / [GitHub](https://github.com/juliangarnier/anime/)
 * [randomcolor](https://randomcolor.lllllllllllllllll.com/) - Random Javascript Color Generator
 * [ASTExplorer](https://astexplorer.net/) - AST Viewer
@@ -15694,7 +15695,6 @@ import Index from './.vitepress/theme/Posts.vue'
 * [Valinor](https://github.com/CuyZ/Valinor) - PHP Object Mapper
 * [Spatie](https://github.com/spatie/fork) or [3v4l](https://3v4l.org) - Run PHP Concurrently
 * [Winddown](https://github.com/schneefux/vscode-winddown) or [Sandman](https://alexanderepstein.github.io/Sandman/) - Coding Break Reminders
-* [ThemesElection](https://themeselection.com/) - Programming UI Themes
 * [Monaspace](https://monaspace.githubnext.com/), [ProgrammingFonts](https://www.programmingfonts.org/) or [Dev Fonts](https://devfonts.gafi.dev/) - Coding Fonts
 * [Monocraft](https://github.com/IdreesInc/Monocraft) - Minecraft Coding Font
 
@@ -15778,7 +15778,7 @@ import Index from './.vitepress/theme/Posts.vue'
 * [OpenChakra](https://openchakra.app/) or [Plate](https://platejs.org/) - React Code Editors
 * [Package Control](https://packagecontrol.io/) - Sublime Text Package Manager
 * [editorcornfig](https://editorconfig.org/) - Maintain Code Styles Across Editors
-* [Dracula](https://draculatheme.com/) - Dark Theme for Code Editors / Terminal Emulators
+* [ThemesElection](https://themeselection.com/), [NordTheme](https://www.nordtheme.com/) or [Dracula](https://draculatheme.com/) - Code Editor Themes
 
 ***
 
@@ -15971,7 +15971,7 @@ import Index from './.vitepress/theme/Posts.vue'
 * [insiders.vscode](https://insiders.vscode.dev/) - Insider Build
 * [logos-vscode](https://github.com/tale/logos-vscode) - Logo Extension
 * [VSCodeThemes](https://vscodethemes.com/) or [VSColors](https://www.vscolors.com/) - VSCode Themes
-* [oslo](https://oslo-vsc.netlify.app/) Theme Generator
+* [oslo](https://oslo-vsc.netlify.app/) - Theme Generator
 
 ***
 
