@@ -118,7 +118,7 @@ Use [this](https://bitbucket.org/magnolia1234/bypass-paywalls-firefox-clean/src/
 
 ### Streaming
 
-**[lonelil](https://watch.lonelil.com/) / [Braflix](https://www.braflix.app/) / [FMovies](https://fmoviesz.to/)** - Fast movie / TV streaming
+**[movie-web](https://movie-web.github.io/docs/instances/) / [lonelil](https://watch.lonelil.com/) / [Braflix](https://www.braflix.app/) / [FMovies](https://fmoviesz.to/)** - Fast movie / TV streaming
 **[AniWatch](https://aniwatch.to/) / [AniWave](https://aniwave.to/)** - Fast anime streaming
 **[Dramacool](https://dramacool.cy/)** - Fast Asian drama streaming
 **[SportsSurge](https://sportsurge.net/)** - Live sports streaming
