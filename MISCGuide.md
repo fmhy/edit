@@ -32,12 +32,19 @@
 * [StatsCrop](https://www.statscrop.com/websites/top-sites/), [DirtyWarez](https://dirtywarez.org/), [HypeStat](https://hypestat.com/alexa-rank), [TopMillion](https://www.topmillion.net/) or [CuteStat](https://www.cutestat.com/) - Site Rankings & Stats
 * [blooem](https://blooem.pages.dev/) / [2](https://blooem.its.moe) - Piracy Guides
 * [pilssken](https://pilssken.neocities.org/warez/) or [The Pirate List](https://thepiratelist.com/) - Piracy Index
-* [Pixelated Pathways](https://rentry.org/Pixelated_Pathways), [Delightful Creative Tools](https://codeberg.org/ADHDefy/delightful-creative-tools), [The More You Know](https://marckoxx.github.io/), [Size of Cat](https://sizeof.cat/links/), [RefDesk](https://www.refdesk.com/facts.html), [Cool Websites](https://rentry.co/cool_websites), [iBiblio](https://www.ibiblio.org/) or [5000 Best](http://5000best.com/websites/) / [Tools](http://5000best.com/tools/) - Site / Tool Indexes
+* [Pixelated Pathways](https://courage-1984.github.io/pixelated-pathways/) / [2](https://rentry.org/Pixelated_Pathways) - Site / Tool Index
+* [Delightful Creative Tools](https://codeberg.org/ADHDefy/delightful-creative-tools) - Site / Tool Index
+* [The More You Know](https://marckoxx.github.io/) - Site / Tool Index
+* [Size of Cat](https://sizeof.cat/links/) - Site / Tool Index
+* [RefDesk](https://www.refdesk.com/facts.html) - Site / Tool Index
+* [Cool Websites](https://rentry.co/cool_websites) - Site / Tool Index
+* [iBiblio](https://www.ibiblio.org/) - Site / Tool Index
+* [5000 Best](http://5000best.com/websites/) / [Tools](http://5000best.com/tools/) - Site / Tool Index
 * [itch.io Tools](https://itch.io/tools/free) - Tool Index
 * [num's link list](https://soda.privatevoid.net/num/links/) - Site Index
 * [ODP](http://odp.org/) - Site Index
 * [Simple Tools](https://simpletools.info/doku.php) - Simple Programs Index 
-* [Appscope](https://appsco.pe/), [findPWA](https://findpwa.com/), [SaaS Discovery](https://saasdiscovery.com/), [Electron](https://www.electronjs.org/apps) - Web App Indexes
+* [Appscope](https://appsco.pe/), [findPWA](https://findpwa.com/), [SaaS Discovery](https://saasdiscovery.com/) or [Electron](https://www.electronjs.org/apps) - Web App Indexes
 * [SmartLinks](https://smartlinks.org/index.html) - Website Directory
 * [Archive-It](https://archive-it.org/) - Archive.org Collections
 * [Wikimedia](https://www.wikimedia.org/) - All Wikimedia Sources
@@ -1175,13 +1182,14 @@
 * [Tapology](https://www.tapology.com/) - Make MMA Fight Picks
 * [Michaelbach](https://michaelbach.de/ot/) - Optical Illusions
 * [Strobe Illusion](https://strobe.cool/) - Hallucination Illusion
-* [Fun Trivia](https://www.funtrivia.com/), [Factle](https://factle.app/), [TriviaPlaza](https://www.triviaplaza.com/), [BeanBeanBean](https://beanbeanbean.com/) or [Sporcle](https://www.sporcle.com/) - Trivia
-* [ARealMe](https://www.arealme.com/) - Quiz Collection
 * [Ridella](https://ridella.xyz/) - Daily Riddles
 * [Notpron](http://www.notpron.com/) - Worlds Hardest Internet Riddle
+* [Fun Trivia](https://www.funtrivia.com/), [Factle](https://factle.app/), [TriviaPlaza](https://www.triviaplaza.com/), [BeanBeanBean](https://beanbeanbean.com/) or [Sporcle](https://www.sporcle.com/) - Trivia
+* [ARealMe](https://www.arealme.com/) - Quiz Collection
 * [OpenPsychometrics](https://openpsychometrics.org/) or [16 Personalities](https://www.16personalities.com/) - Personality Tests
 * [theOtaku](https://theotaku.com/quizzes) - Anime Personality Quizzes
 * [SexValues](https://sexvalues.github.io/) - Sexual Values Quiz
+* [Bestiefy](https://bestiefy.com/) - Friend Quizzes
 * [Six Triangles](https://sixtriangles.github.io/), [9 Axes](https://9axes.github.io/), [8dreams](https://8dreams.github.io/), [ISideWith](https://www.isidewith.com/) or [8 Values](https://8values.github.io/) - Political Alignment Test
 * [Goody2](https://www.goody2.ai/chat) - Worlds Most Ethical AI
 * [HowNormalAmI?](https://www.hownormalami.eu/) - Face Judge A.I.
@@ -1238,6 +1246,7 @@
 * [see. hear. party.](http://www.seehearparty.com/) - List Things You Want to See... Party
 * [The Editing Room](https://www.the-editing-room.com/) - Funny Abridged Movie Scripts
 * [Gen-Z AI](https://openai-quickstart-node-1.vercel.app/) - AI Generated Urban Dictionary Definitions
+* [ShindanMaker](https://en.shindanmaker.com/) - Diagnoses / Fortune AI
 * [LMGTFY](https://lmgtfy2.com/), [LetMeGoogleThat](https://letmegooglethat.com/) or [GIYBF](https://giybf.com/) - Remind People that Google Exists
 * [AfterTheTone](https://afterthetone.com/) - Random Answering Machine Messages
 * [Talk Obama To Me](http://talkobamato.me/) - Make Obama Say Stuff
