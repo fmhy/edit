@@ -38,8 +38,10 @@
 * [PornXP](https://pornxp.org/)
 * [Youporn](https://www.youporn.com/)
 * [HQPorner](https://hqporner.com/)
+* [SomePorn](https://some.porn/)
 * [wapbold](https://wapbold.net/)
 * [Youjizz](https://www.youjizz.com/)
+* [Jizzbunker](https://www.jizzbunker.com/)
 * [pornken](https://pornken.com/)
 * [EroticMovies](https://eroticmoviesonline.me/)
 * [XNXX](https://www.xnxx.com/) / [Forum](https://forum.xnxx.com/)
@@ -66,7 +68,8 @@
 * [3movs](https://www.3movs.com/)
 * [Pornktube](https://www.pornktube.club/) or [TubXPorn](https://tubxporn.xxx/)
 * [pornktube](https://www.pornktube.tv/)
-* [Vid123](https://vid123.net/) 
+* [Vid123](https://vid123.net/)
+* [XXXDan](https://xxxdan.com/) - 200 adult categories, non hd
 * [PornHoarder](https://pornhoarder.tv/)
 * [Adultism](https://www.adultism.com/), [YourAmateurPorn](https://www.youramateurporn.com/), [Terk](https://www.terk.nl/) or [HClips](https://hclips.com/) - Amateur Porn
 * [PMV Haven](https://pmvhaven.com/) - Porn Music Videos
