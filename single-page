@@ -232,23 +232,22 @@
 
 ## ▷ Hardware Monitors
 
-* ⭐ **[HWiNFO](https://www.hwinfo.com/)**
+* ⭐ **[HWiNFO](https://www.hwinfo.com/)** - System Info & Monitoring
 * [Scrutiny](https://github.com/AnalogJ/scrutiny), [GSmartControl](https://gsmartcontrol.shaduri.dev/) or [smartmontools](https://www.smartmontools.org/) - Hard Drive Monitors
 * [CoolerControl](https://gitlab.com/coolercontrol/coolercontrol) - Cooling Device Monitor
 * [CoreTemp](https://www.alcpu.com/CoreTemp/) - Processor Temperature Monitor
 * [BatteryMode](https://github.com/tarcode-apps/BatteryMode) - System Tray Battery Percentage / Managers
-* [phwmon](https://gitlab.com/o9000/phwmon)
-* [HWRadar](https://coderbag.com/product/hwradar)
-* [Netdata](https://www.netdata.cloud/)
-* [bottom](https://github.com/ClementTsang/bottom)
-* [OpenHardwareMonitor](https://openhardwaremonitor.org/) / [GitHub](https://github.com/openhardwaremonitor/openhardwaremonitor)
-* [Glances](https://nicolargo.github.io/glances/)
-* [Taskbar Stats](https://openhoangnc.github.io/taskbar-stats/)
-* [FanControl](https://getfancontrol.com/) / [GitHub](https://github.com/Rem0o/FanControl.Releases)
-* [SidebarDiagnostics](https://github.com/ArcadeRenegade/SidebarDiagnostics)
-* [LibreHardwareMonitor](https://github.com/LibreHardwareMonitor/LibreHardwareMonitor)
-* [TrafficMonitor](https://github.com/zhongyang219/TrafficMonitor)
-* [tiptop](https://github.com/nschloe/tiptop)
+* [HWRadar](https://coderbag.com/product/hwradar) - Hardware Monitor
+* [Netdata](https://www.netdata.cloud/) - Cloud-based Monitoring
+* [Open Hardware Monitor](https://openhardwaremonitor.org/) - Portable Hardware Monitor / [GitHub](https://github.com/openhardwaremonitor/openhardwaremonitor)
+* [Libre Hardware Monitor](https://github.com/LibreHardwareMonitor/LibreHardwareMonitor) - Updated Fork of Open Hardware Monitor
+* [Taskbar Stats](https://openhoangnc.github.io/taskbar-stats/) - Display Stats on Windows Taskbar
+* [FanControl](https://getfancontrol.com/) - Control PC Fans / [GitHub](https://github.com/Rem0o/FanControl.Releases)
+* [Sidebar Diagnostics](https://github.com/ArcadeRenegade/SidebarDiagnostics) - Sidebar for Windows Desktop
+* [Traffic Monitor](https://github.com/zhongyang219/TrafficMonitor) - Network & Hardware Monitor
+* [bottom](https://github.com/ClementTsang/bottom) - Terminal Hardware Monitor
+* [Glances](https://nicolargo.github.io/glances/) - Terminal Hardware Monitor
+* [tiptop](https://github.com/nschloe/tiptop) - Terminal Hardware Monitor
 
 ***
 
@@ -5624,6 +5623,8 @@ features:
     link: /readingpiracyguide
     details: Whether you're a bookworm, otaku or comic book fan, you'll be able to find your favourite pieces of literature here for free!
 ---
+***
+
 # Untrusted Sites / Software
 
 ***
