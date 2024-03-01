@@ -67,3 +67,5 @@ footer: true
 * Unstarred claude in chatbots as it requires email + phone number and doesn't give as good results as it used to.
 
 * Unstarred Harmanoid as its not longer being updated and has 100+ issues on github.
+
+---
