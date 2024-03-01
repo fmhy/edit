@@ -273,7 +273,7 @@
 * [Orpheus](https://github.com/yarrm80s/orpheusdl) - Music Ripper
 * [streamrip](https://github.com/nathom/streamrip) - Multi-Site Downloader / [Colab](https://github.com/r-piratedgames/rip)
 * [SoundLoaders](https://www.soundloaders.com/) - Multi-Site Downloader
-* [YTiz](https://ytiz.xyz/) - Multi-Site Downloader
+* [YTiz](https://ytiz.xyz/) - Multi-Site Downloader / [GitHub](https://github.com/tizerk/ytiz)
 * [GamDL](https://github.com/glomatico/gamdl) - Apple Music Downloader
 * [FreyrJS](https://github.com/miraclx/freyr-js) - Spotify, Deezer and Apple Music Downloader
 * [Song_downloaderbot](https://t.me/Song_downloaderbot), [DeezerMusicBot](https://t.me/DeezerMusicBot), [DeezloaderAn0n_bot](https://t.me/DeezloaderAn0n_bot) or [deezload2bot](https://t.me/deezload2bot) - Telegram Deezer Bots
