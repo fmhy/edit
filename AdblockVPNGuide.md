@@ -6,7 +6,7 @@
 
 # ► Adblocking
 
-**Note** - Don't run multiple general adblockers like ublock and adblock plus at the same time. Running more than one can cause breakage. This only applies to general adblockers, so running things like ublock and sponsorblock at the same time is fine.
+**Note** - Don't run multiple general adblockers like uBlock Origin and Adblock Plus at the same time. Running more than one can cause breakage. This only applies to general adblockers, so running things like uBlock  Origin and SponsorBlock at the same time is fine.
 
 ***
 
@@ -22,7 +22,7 @@
 * [Adguard](https://github.com/AdguardTeam/AdguardBrowserExtension#installation) - Adblocker
 * [AdNauseam](https://adnauseam.io/) - Adblocker / Fakes Clicks to Confuse Tracking
 * [Adblock Tester](https://adblock-tester.com/) or [AdBlocker Test](https://d3ward.github.io/toolz/adblock.html) - Adblocking Tests 
-* [uBO-bypass-yt](https://drhyperion451.github.io/does-uBO-bypass-yt/) - Check if uBlock Filters are bypassing YouTube Anti-Adblock
+* [uBO-bypass-yt](https://drhyperion451.github.io/does-uBO-bypass-yt/) - Check if uBlock Origin filters are bypassing YouTube anti-adblock
 
 ***
 
@@ -42,7 +42,7 @@
 
 ## ▷ DNS Adblocking
 
-* **Note** - If your goal is to block browser ads, it's best to just stick with uBlock Origin, as additional filters can cause conflicts or antiadblock. 
+* **Note** - If your goal is to block browser ads, it's best to just stick with uBlock Origin, as additional filters can cause conflicts or anti-adblock. 
 
 ***
 
