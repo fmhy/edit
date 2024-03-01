@@ -244,7 +244,7 @@
 * [ROMsFun](https://ROMsfun.com/) - ROMs
 * [FreeROMs](https://www.freeROMs.com/) - ROMs
 * [RetroZone](https://retrozone.co/) - ROMs
-* [/1CC/](https://8kun.top/1cc/index.html) - ROMs 
+* [/1CC/](https://1cc.kr.eu.org/1cc/index.html) - Arcade ROMs / [Discord](https://discord.com/invite/e7xffWFf9p)
 * [DaROMs](http://daROMs.com/) - ROMs
 * [NGR](https://www.nextgenroms.com/) - ROMs
 * [FantasyAnime](https://fantasyanime.com/) - ROMs
