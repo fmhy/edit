@@ -1835,7 +1835,7 @@
 
 ## ▷ Reading
 
-* [SachVui](https://sachvuii.com/) - Books
+* [SachVui](https://sachvuii.com/) - Books / [Direct Links](https://greasyfork.org/en/scripts/488558)
 * [WebDocSach](https://webdocsach.net/) - Books
 * [MeTaiSach](https://metaisach.com/) - Books
 * [DocSachHay](https://docsachhay.net/) - Books
