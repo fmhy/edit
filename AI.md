@@ -209,10 +209,12 @@
 * ⭐ **[PlaygroundAI](https://playgroundai.com/)** / 500 Daily
 * ⭐ **[Dezgo](https://dezgo.com/)** / [Discord](https://discord.com/invite/RQrGpUhPhx) / Unlimited
 * ⭐ **[Meta AI](https://imagine.meta.com/)** / Unlimited
+* ⭐ **[Ideogram](https://ideogram.ai/)** / 100 Daily
 * ⭐ **[Tensor.art](https://tensor.art/)** / 100 Daily
 * ⭐ **[Lexica](https://lexica.art/)** / 48 Weekly
 * [Stable Diffusion](https://huggingface.co/spaces/stabilityai/stable-diffusion) / Unlimited / [GitHub](https://github.com/Stability-AI/stablediffusion) / [Discord](https://discord.com/invite/stablediffusion)
 * [Prodia](https://app.prodia.com/) / [Discord](https://discord.com/invite/495hz6vrFN) / [Huggingchat Demo](https://huggingface.co/spaces/prodia/fast-stable-diffusion) / Unlimited
+* [Unstability.ai](https://www.unstability.ai/) - 52 Daily
 * [SeaArt](https://www.seaart.ai/) / 40 Daily
 * [OpenArt](https://openart.ai/) / [Discord](https://discord.com/invite/yTMNvk5z97) / 50 Daily
 * [StableDiffusionWeb](https://stablediffusionweb.com/) / 10 Daily
@@ -225,7 +227,6 @@
 * [Leonardo.ai](https://app.leonardo.ai/) / 30 Daily
 * [Adobe Firefly](https://firefly.adobe.com/) / 25 Monthly / [Discord](https://discord.com/invite/dJnsV5s8PZ) / Sign-Up Required
 * [AITurbo](https://app.aitubo.ai/) / 25 Daily / [Discord](https://discord.gg/qTu6YsRn7F)
-* [Ideogram](https://ideogram.ai/) / 25 Daily
 * [Artsio](https://artsio.xyz/) / 20 Daily
 * [Maze.guru](https://maze.guru/gallery) / 12 Daily
 * [DreamLike](https://dreamlike.art) / [Discord](https://discord.com/invite/QyGR2FxsKU) / 12 Daily
