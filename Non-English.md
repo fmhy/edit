@@ -243,7 +243,6 @@
 * [BiliBili](https://manga.bilibili.com/) - Manga
 * [DM5](https://www.dm5.com/), [2](https://tel.1kkk.com/) - Manga / Manhua
 * [godamanga.site](https://godamanga.site/), [2](https://cocolamanhua.com/) - Manga 
-* [bq8.org](https://www.bq8.org/) - Manga / Manhua 
 * [xmanhua.com](https://xmanhua.com/)- Manga / NSFW
 * [comicabc.com](https://www.comicabc.com/)- Manga
 * [manhuagui](https://www.manhuagui.com/) - Manga
@@ -365,7 +364,6 @@
 * [MesFilms](https://mesfilms.net/) - Movies / TV / Cartoons / Anime / Sub / Dub / 1080p
 * [Cinémathèque de Bretagne](https://www.cinematheque-bretagne.bzh/) - Classic / Amateur Movies
 * [OtakuFR](https://otakufr.co/) - Anime / Sub / 1080p
-* [universanime](https://univers-animes.club/) - Anime / Sub / 1080p
 * [mavanimes](https://mavanimes.cc/) - Anime / Sub / 1080p
 * [FRAnime](https://franime.fr/) - Anime / Sub / 1080p
 * [French Anime](https://french-anime.com/) - Anime / Sub / 1080p
@@ -1223,7 +1221,6 @@
 * [tancpol](https://tancpol.net/) - Music / MP3
 * [z2.fm](https://z2.fm/) - Music / MP3
 * [Musify](https://musify.club/) - Music / MP3
-* [muzmo](https://rux.muzmo.cc/) - Music / MP3
 * [MetalArea](https://metalarea.org/) or [MDCORE](https://vk.com/mdcore) - Metal / MP3
 * [MDROCK](https://vk.com/mdrock) - Rock / MP3
 * [KinoSoundtrack](https://www.kinosoundtrack.com/) - Soundtracks / MP3
@@ -1279,7 +1276,6 @@
 * [seasonvar](http://seasonvar.ru/) - TV / Dub / 720p
 * [DarkLibria](https://darklibria.it/) - Anime / Dub / 1080p
 * [Shiza Project](https://shiza-project.com/) - Anime / Dub / 720p
-* [animang](https://animang.one/) - Anime / Dub / 720p
 * [AniFilm](https://anifilm.net/) - Anime / Sub / 1080p
 * [Anilibria](https://anilibria.best/) - Anime / Sub / 1080p
 * [Animebuff](https://animebuff.ru/) - Anime / Sub / 1080p
@@ -1328,7 +1324,6 @@
 * [studmed](https://www.studmed.ru/) - Books / Educational
 * [alleng](https://www.alleng.org/) - Textbooks
 * [rusneb](https://rusneb.ru/) - Books
-* [royallib](https://royallib.com/) - Books
 * [obuchalka.org](https://obuchalka.org/) - Books / Homework solutions
 * [Filibusta](https://flibusta.site/) - Books
 * [coollib](https://coollib.xyz/) - Books
@@ -1799,8 +1794,6 @@
 * [LokLok](https://loklok.com/vi) - Movies / TV / Anime
 * [LuotPhim](https://luotphimtv1.com/) - Movies / TV
 * [NguonPhim](http://nguonphim.one/) - Movies
-* [Phim1080](https://xem1080.com/) - Movies / TV
-* [HHPanda](https://hhpanda.net/) - Chinese Animation
 * [HoatHinh3D](https://hoathinh3d.biz/) - Chinese Animation
 * [HHNinja](https://hhninja.tv/) - Chinese Animation
 * [HHKungfu](https://hhhkungfu.tv/) - Chinese Animation
@@ -1816,7 +1809,6 @@
 * [Anime47](https://anime47.com/) - Anime
 * [HHTQ](https://hhtrungquoc.com/) - Chinese Anime / Sub / 720p
 * [POPS](https://pops.vn/) - Anime / Cartoon
-* [VietToons](https://viettoons.tv/) - Cartoons
 * [Tokuvn](https://tokuvn.com/) - Tokusatsu
 * [Mocha](https://video.mocha.com.vn/) - Video
 * [MyClip](https://myclip.vn/) - Video
@@ -1841,7 +1833,6 @@
 ## ▷ Reading
 
 * [SachVui](https://sachvuii.com/) - Books / [Direct Links](https://greasyfork.org/en/scripts/488558)
-* [WebDocSach](https://webdocsach.net/) - Books
 * [MeTaiSach](https://metaisach.com/) - Books
 * [DocSachHay](https://docsachhay.net/) - Books
 * [AnyBooks](https://anybooks.vn/) - Books
