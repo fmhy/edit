@@ -1217,7 +1217,7 @@
 * [Soluble Texture Packs](https://solubletexturepacks.com/) - GD Texture Packs / [Manager](https://geode-sdk.org/mods/geode.texture-loader/)
 * [Song File Hub](https://songfilehub.com/home) - GD Songs & Mashups / [Discord](https://discord.com/invite/maSgd4zpEF)
 * [4GB Patch](https://ntcore.com/?page_id=371) - Lets GD use 4GB of RAM
-
+* [Globed](https://github.com/dankmeme01/globed2) - Multiplayer Mod
 ***
 
 ## ▷ Game Maps
