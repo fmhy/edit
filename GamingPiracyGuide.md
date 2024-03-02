@@ -624,7 +624,6 @@
 * [Huedle](https://huedle.com/)
 * [Chessle](https://jackli.gg/chessle)
 * [BoxOfficeGA](https://boxofficega.me/)
-* [Wordversary](https://wordversary.com/)
 * [Alphabeticle](https://alphabeticle.xyz/)
 * [WordMaze](https://wordmaze.click/)
 * [Clidle](https://github.com/ajeetdsouza/clidle)
@@ -644,7 +643,7 @@
 * ⭐ **[skribbl](https://skribbl.io/)**, [Sketchful](https://sketchful.io/), [Drawize](https://www.drawize.com/), [Pictioner](https://www.pictioner.com/) or [Gartic](https://gartic.io/) - Drawing / Guessing Game / Multiplayer
 * ⭐ **[GuessTheGame](https://guessthe.game/)** - Game Guessing Game
 * ⭐ **[GeoGuessr](https://www.geoguessr.com/)**, [Globle](https://globle-game.com/), [City Guesser](https://virtualvacation.us/guess), [Quizzity](https://david-peter.de/quizzity/), [Where Am I?](https://whereami.io/) or [Geotastic](https://geotastic.de/) - Location Guessing Game / [Guide](https://somerandomstuff1.wordpress.com/2019/02/08/geoguessr-the-top-tips-tricks-and-techniques/)
-* [20Q](http://www.20q.net/) or [Akinator](https://en.akinator.com/) - 20 Questions
+* [Akinator](https://en.akinator.com/) - 20 Questions
 * [ChatGuessr](https://chatguessr.com/) - GeoGuessr for Twitch
 * [LostGamer](https://lostgamer.io/) - Video Game GeoGuessr
 * [GTA V GeoGuesser](https://gta-geoguesser.com/) - GTA V GeoGuessr
@@ -1212,11 +1211,14 @@
 ## ▷ Geometry Dash Tools
 
 * ⭐ **[Geode](https://geode-sdk.org/)** - Mod Menu & Modding Framework
-* ⭐ **[Demon List](https://pointercrate.com/demonlist/)** - Official Demon List
+* ⭐ **[Demon List](https://pointercrate.com/demonlist/) / [Challenge List](https://challengelist.gd/challenges/)** - Official Demon List and Challenge List
 * [GDDP](https://gddp.pro/) - Practice & Improve Your Skills
 * [Soluble Texture Packs](https://solubletexturepacks.com/) - GD Texture Packs / [Manager](https://geode-sdk.org/mods/geode.texture-loader/)
 * [Song File Hub](https://songfilehub.com/home) - GD Songs & Mashups / [Discord](https://discord.com/invite/maSgd4zpEF)
 * [4GB Patch](https://ntcore.com/?page_id=371) - Lets GD use 4GB of RAM
+* [Unrated Demon List](https://udl.pages.dev/#/) - Hardest Unrated Levels
+* [Globed](https://github.com/dankmeme01/globed2) - Multiplayer Mod
+* [GD Browser](https://gdbrowser.com/) - GD Level Browser
 
 ***
 
