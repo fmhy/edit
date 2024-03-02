@@ -73,7 +73,6 @@
 * [Canvas](https://www.canvas.net/) - Courses
 * [CourseF](https://www.coursef.com/) - Courses
 * [Study is wonderful](https://github.com/xioacd99/study-is-wonderful) - Courses
-* [Open HPI](https://open.hpi.de/) - Courses
 * [MindLuster](https://www.mindluster.com/) - Courses
 * [Free MOOCs](https://freemoocs.com/) - Courses
 * [CourseBuffet](https://www.coursebuffet.com/) - Search Engine
@@ -302,7 +301,6 @@
 * [EasyCalculation](https://www.easycalculation.com/) - Calculator
 * [Calculator.net](https://www.calculator.net/) - Calculator
 * [KeepFormula](https://keepformula.github.io/) - Calculator
-* [CalculatorHut](https://www.calculatorhut.com/) - Calculator
 * [GigaCalculator](https://www.gigacalculator.com/) - Calculator
 * [numbr.dev](https://numbr.dev/) - Calculator
 * [Qalculate](https://qalculate.github.io/) - Desktop Calculator
@@ -886,7 +884,7 @@ https://cari.institute/
 * ⭐ **[OpenSyllabus](https://opensyllabus.org/)** or [LanguageDrops](https://languagedrops.com/) - Syllabus Search / Info
 * [ExpertFile](https://expertfile.com/) or [ExpertiseFinder](https://expertisefinder.com/) - Industry / Academic Expert Search
 * [Remind](https://apps.apple.com/us/app/remind-school-communication/id522826277) - Educational Communication / iOS
-* [Mochi Cards](https://mochi.cards/), [Silicon](https://github.com/cu/silicon) or [MidTerm](https://midterm.pro/) - Note-Taking / Study Tool
+* [Mochi Cards](https://mochi.cards/) or [Silicon](https://github.com/cu/silicon) - Note-Taking / Study Tool
 * [Desklamp](https://desklamp.io/) - Reading / Note Taking / Highlighting Tool / [Guide](https://app.desklamp.io/read?id=46b203c6-d8df-453d-b546-95a8fa7a44b9&mode=explore)
 * [Lurnby](https://github.com/Roznoshchik/Lurnby) or [StringMark](https://www.stringmark.com/) - Save & Mark Research in Browser
 * [Catma](https://catma.de/) - Research Markup & Analysis Tool
@@ -1036,7 +1034,6 @@ https://cari.institute/
 * [RhymeZones](https://www.rhymezone.com/) or [Rhymer](https://rhymer.com/) - Rhyme Dictionary
 * [The Dictionary of Obscure Sorrows](https://www.dictionaryofobscuresorrows.com/) - Dictionary of Sorrows
 * [TheDevilsDictionary](https://www.thedevilsdictionary.com/) - Cynical Dictionary
-* [TagDef](https://tagdef.com/en/) - Social Media Tag Dictionary
 * [KnowYourMeme](https://knowyourmeme.com/) - Meme Database
 * [IEoP](https://iep.utm.edu/fallacy/) - Fallacy Encyclopaedia
 * [Time Traveler](https://www.merriam-webster.com/time-traveler) - See when a word was first used in print
