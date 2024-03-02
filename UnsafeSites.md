@@ -1,6 +1,6 @@
 ***
 
-## Game Sites
+### Game Sites
 
 **Note** - Scene groups do not have their own sites, so it's best to avoid anything claiming to represent one.
 
@@ -19,7 +19,7 @@
 
 ***
 
-## Software / App Sites
+### Software / App Sites
 
 **Note** - YouTube videos claiming to give away free software are nearly always scams.
 
@@ -42,7 +42,7 @@
 
 ***
 
-## Torrent Sites / Clients
+### Torrent Sites / Clients
 
 **Note** - Torrent aggregators pull results from multiple sites, so it's recommended to avoid using them for software and games.
 
@@ -56,7 +56,7 @@
 
 ***
 
-## Software / Apps
+### Software / Apps
 
 * Limewire - Dead for years, anything claiming to be them now should be avoided
 * Downloadly (video downloader) - Crypto miner
@@ -78,13 +78,13 @@
 
 ***
 
-## [Fake Z-Lib Sites](https://i.imgur.com/z4Ku77B.png)
+### [Fake Z-Lib Sites](https://i.imgur.com/z4Ku77B.png)
 
-## [Fake Windows Activators](https://i.imgur.com/Lv2FYbw.png)
+### [Fake Windows Activators](https://i.imgur.com/Lv2FYbw.png)
 
 ***
 
-## How-to Send Reports
+### How-to Send Reports
 
 * To suggest something for the list, please leave a comment on [this thread](https://www.reddit.com/r/FREEMEDIAHECKYEAH/comments/10bh0h9/unsafe_sites_software_thread/), or contact us via [Discord](https://discord.gg/Stz6y6NgNg).
 
@@ -92,4 +92,4 @@
 
 *** 
 
-## [Unsafe Wayback Machine Links](https://rentry.co/ue9qk)
+### [Unsafe Wayback Machine Links](https://rentry.co/ue9qk)
