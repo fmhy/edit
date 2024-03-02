@@ -192,18 +192,11 @@
 * [Theoi](https://www.theoi.com/) - Greek Mythology
 * [Germanic Mythology](https://www.germanicmythology.com/index.html) - Germanic Mythology
 * [Japanese Mythology](https://japanesemythology.wordpress.com/) - Japanese Mythology
-* [The Myths of Mexico](https://archive.org/details/cu31924020419275/) - Mexican Mythology
-* [A Chinese Bestiary](https://archive.org/details/AChineseBestiary/) - Chinese Mythology
 * [Inuit Myths](https://www.inuitmyths.com/index.htm) - Inuit Mythology
-* [Bane Theresa Encyclopedia](https://archive.org/details/BaneTheresaEncyclopediaOfDemonsInWorldReligionsAndCultures/) - Demon Encyclopedia
-* [Encyclopedia of Vampire Myths](https://archive.org/details/EncyclopediaOfVampireMythologypdf) - Vampire Encyclopedia
-* [Encyclopedia of the Undead](https://archive.org/details/EncyclopediaOfUndead/) - Undead Encyclopedia
 * [BlackDrago](https://www.blackdrago.com/) - Dragon Encyclopedia
-* [Encyclopedia Of Fairies](https://archive.org/details/BriggsKatharineMaryAnEncyclopediaOfFairies/) - Fairy Encyclopedia
 * [LeftHandPath](https://rentry.co/FMHYBase64#lefthandpath) - Luciferianism
 * [The Law of One](https://www.lawofone.info/) - The Law of One Sessions
 * [Esoteric Archive](http://esotericarchives.com/) - Esoterica
-* [/r/alexandria](https://www.reddit.com/r/alexandria/) - Esoteric / Occult
 * [Masonic Library](https://masonicshop.com/masonic-library/) - Esoterica / Freemasonry
 * [Darkbooks](https://darkbooks.org/collection/top250.html) - Occult
 * [Astrum Argenteum](https://www.astrumargenteum.org/library/) - Occult
@@ -216,7 +209,6 @@
 * [CraftStuff](https://rentry.co/FMHYBase64#craftstuff) - Witchcraft
 * [Witchcraft Library](https://rentry.co/FMHYBase64#witchcraft-library) - Witchcraft / Paganism
 * [Public Witchcraft Library](https://rentry.co/FMHYBase64#public-witchcraft-library) - Witchcraft / Paganism / Satanism
-* [SpellsOfMagic](https://www.spellsofmagic.com/) - Witchcraft / Magic
 * [Alchemy Drive](https://rentry.co/FMHYBase64#alchemy-drive) - Alchemy
 * [Hellenistic Theism Drive](https://rentry.co/FMHYBase64#hellenistic-theism) - Hellenistic Theism
 * [The Theosophical Society](https://www.theosociety.org/) - Theosophy
@@ -232,7 +224,6 @@
 * [Bible](https://apps.apple.com/us/app/bible/id282935706) - Christian Bible / iOS
 * [Classics Ethereal Library](https://www.ccel.org/) - Christianity
 * [TheBrickBible](https://thebrickbible.com/) - The Bible Recreated with Lego
-* [BibleEmoji](https://www.bibleemoji.com/) - Convert Bible Verses to Emojis
 * [Hidden Bible](http://www.hiddenbible.com/enoch/online.html) - Enoch Translation
 * [GodAlone](http://www.godalone.org/) or [Quran](https://quran.com/) / [2](https://beta.quran.com/en) - Quran Translations / [Mobile](https://github.com/quran/quran_android), [2](https://quran.alfaazplus.com/)
 * [Awesome Islam](https://github.com/AhmedKamal/awesome-Islam) - Islam Related Projects / Apps
@@ -279,7 +270,7 @@
 * [byGosh](https://bygosh.com), [StoryWhale](https://www.storywhale.com/), [Baldwin Library](https://ufdc.ufl.edu/juv) or [BookDash](https://github.com/bookdash/bookdash-android-app) - Children's Books
 * [BestArtbooks](https://t.me/BESTARTBOOKS) or [Daryl-Dixon](https://daryldixon.gala100.net/) - Artbooks
 * [VGArtbooks](https://vk.com/vgartbooks) - Video Game Artbooks
-* [PimpMyMind](https://pimpmymind.net/) or [Deep-Blue-Sea](http://library.deep-blue-sea.net/) - Self-Help
+* [Deep-Blue-Sea](http://library.deep-blue-sea.net/) - Self-Help
 * [The Eldritch Dark](http://www.eldritchdark.com/) - Clark Ashton Smith
 * [Appropedia](https://www.appropedia.org/) - Sustainability Wiki
 * [Auto-Brochures.com](https://www.auto-brochures.com/) - Auto Brochures
@@ -479,7 +470,6 @@
 * [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/) - Python Data Science / [GitHub](https://github.com/jakevdp/PythonDataScienceHandbook)
 * [Go Books](https://github.com/dariubs/GoBooks) - GoLang Books
 * [JSBooks](https://jsbooks.revolunet.com/) - Javascript Books
-* [DevDocs](https://devdocs.io/) - API Documentation
 * [Bzdnbot](https://t.me/Bzdnbot) - Telegram
 * [X-Files](https://doc.lagout.org/) - Tech / Programming
 * [#/g/sicp](https://g.sicp.me/books/) - Programming / Tech (35gb Torrent)
@@ -646,7 +636,6 @@
 * [BookGN](http://www.bookgn.com/) - Downloads
 * [NewComic](https://www.newcomic.info/) - Downloads
 * [4chan /co/](https://boards.4channel.org/co/catalog#s=official%20win) - Weekly Downloads
-* [readcomicsfree](https://readcomicfree.org/)
 * [WallComic](https://wallcomic.com/)
 * [Comics Online](https://www.comicsonline.io/)
 * [Read Full Comic](https://readfullcomic.com/) / [2](https://viewcomiconline.com/)
@@ -658,7 +647,6 @@
 * [Comics Kingdom](https://comicskingdom.com/) - Comics Strips
 * [Zahard](https://zahard.xyz/) - Web Comics / [Telegram](https://t.me/fast_pass)
 * [The Oatmeal](https://theoatmeal.com/) - Web Comics
-* [PenLab](https://penlab.ink/) - Filipino Comics
 * [Comic Book Library](https://nv3x2jozywh63fkohn5mwp2d73vasusjixn3im3ueof52fmbjsigw6ad.onion.ly/) / [.onion](http://nv3x2jozywh63fkohn5mwp2d73vasusjixn3im3ueof52fmbjsigw6ad.onion/) - Tor required
 * [ComicEater](https://github.com/kanjieater/ComicEater) - Comic Archiving Tools
 * [Omnibus](https://github.com/fireshaper/Omnibus), [Comics Downloader](https://github.com/Girbons/comics-downloader), [mylar3](https://github.com/mylar3/mylar3), [Comics-DL](https://github.com/The-Eye-Team/Comics-DL), [Comic-DL](https://github.com/Xonshiz/comic-dl) - Comic Downloaders
@@ -683,7 +671,7 @@
 * ↪️ **[Manga Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_manga_downloaders)**
 * ↪️ **[Raw Manga Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/non-eng#wiki_.25B7_reading10)**
 * ⭐ **[MangaDex](https://mangadex.org/)** - [Downloader](https://github.com/mansuf/mangadex-downloader) / [Script](https://github.com/frozenpandaman/mangadex-dl)
-* ⭐ **[ComicK](https://comick.cc/)** - [Discord](https://discord.gg/comick)
+* ⭐ **[ComicK](https://comick.cc/)**, [2](https://comick.io/) - [Discord](https://discord.gg/comick)
 * ⭐ **[MangaSee](https://mangasee123.com/)**, [2](https://manga4life.com/)
 * ⭐ **[MangaPark](https://mangapark.net/)** - [Discord](https://discord.gg/jctSzUBWyQ)
 * ⭐ **[MangaKatana](https://mangakatana.com/)**
@@ -828,13 +816,11 @@
 * [NovelNext](https://novelnext.com/)
 * [InfiniteNovelTranslations](https://infinitenoveltranslations.net/)
 * [NovelBuddy](https://novelbuddy.com/)
-* [KoreanMTL](https://www.koreanmtl.online/)
 * [NeoSekaiTranslations](https://www.neosekaitranslations.com/)
 * [Wuxia Blog](https://www.wuxia.blog)
 * [Wuxia Here](https://www.wuxiahere.com/)
 * [Novel Translations](https://lightnovelstranslations.com/)
 * [Readwn](https://www.readwn.com/)
-* [Nakimushitl](https://nakimushitl.wordpress.com/)
 * [LightNovelHeaven](https://lightnovelheaven.com)
 * [NovelCool](https://www.novelcool.com/)
 * [Novels.pl](https://www.novels.pl/)
@@ -844,11 +830,8 @@
 * [MTL Nation](https://mtlnation.com/)
 * [Novel Hall](https://www.novelhall.com/)
 * [Rekt Novel Compilations](https://rektnovelcompilations.wordpress.com/)
-* [VolareNovels](https://www.volarenovels.com/)
 * [WoopRead](https://woopread.com/)
 * [Light Novel Archive](https://t.me/LightNovelArchives) or [LN_Index](https://t.me/LN_Index)
-* [Void Translations](https://voidtranslations.wordpress.com/)
-* [RnDNovels](https://www.rndnovels.com/)
 * [MTL Novel](https://www.mtlnovel.com/)
 * [NovelFull](https://novelfull.com/)
 * [ExiledRebels](https://exiledrebelsscanlations.com/)
@@ -857,8 +840,7 @@
 * [Light Novel Archive](https://t.me/lightnovelarchive_bot) - Telegram / Bot
 * [Book Smelting Bot](https://t.me/epub_smelter_bot) - Telegram / Bot
 * [Baka-Tsuki](https://www.baka-tsuki.org/project/?title=Main_Page) - Novels / Audio Recordings
-* [NovelReader](https://github.com/Kevin-Umali/NovelReader) - Light Novel Reader
-* [LN-Crawler-Colab](https://colab.research.google.com/github/HongYue1/LightNovel-Crawler-Colab/blob/main/lightnovel_crawler.ipynb) / [GitHub](https://github.com/HongYue1/LightNovel-Crawler-Colab), [Lightnovel Crawler](https://github.com/dipu-bd/lightnovel-crawler/), [novel-downloader](https://greasyfork.org/en/scripts/406070), [QuickNovel](https://github.com/LagradOst/QuickNovel), [anime-dl](https://github.com/vrienstudios/anime-dl) or [Novel-Grabber](https://github.com/Flameish/Novel-Grabber) - Light Novel Downloaders
+* [LN-Crawler-Colab](https://colab.research.google.com/github/HongYue1/LightNovel-Crawler-Colab/blob/main/lightnovel_crawler.ipynb) / [GitHub](https://github.com/HongYue1/LightNovel-Crawler-Colab), [Lightnovel Crawler](https://github.com/dipu-bd/lightnovel-crawler/), [novel-downloader](https://greasyfork.org/en/scripts/406070), [QuickNovel](https://github.com/LagradOst/QuickNovel) or [anime-dl](https://github.com/vrienstudios/anime-dl) - Light Novel Downloaders
 * [WebToEpub](https://github.com/dteviot/WebToEpub) - Novel to EPUB Converter
 * [LNMTL](https://lnmtl.com/) - Light Novel Translator
 * [Scan Updates](https://www.scanupdates.com/) - Scan Release Updates
