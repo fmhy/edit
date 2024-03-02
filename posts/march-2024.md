@@ -40,7 +40,7 @@ footer: true
 
 * Starred [M4UFree + YesMovies](https://fmhy.net/videopiracyguide#streaming-sites) in Streaming. Both have huge libraries, fast 1080p, and have been around for over a decade. 
 
-* Starred [Poe](https://fmhy.net/ai#online-generators) in Image Generators. 100 Dall-e, 100 SDXL and 100 Playground Gens.
+* Starred [Poe](https://fmhy.net/ai#online-generators) in Image Generators. 100 SDXL and 100 Playground Gens.
 
 * Starred [Simply Optimized](https://fmhy.net/storage#minecraft-optimization-mods) in Minecraft Optimization. Some prefer this to Fabulously Optimized.
 
