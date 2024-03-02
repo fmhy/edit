@@ -188,7 +188,7 @@
 * ⭐ **[Refuge Restrooms](https://www.refugerestrooms.org/)** - Find Public Restrooms
 * [Best Times to Visit](https://www.thebesttimetovisit.com/) - Find Best Times to Visit Countries
 * [Roadside America](https://www.roadsideamerica.com/), [RoadTrippers](https://roadtrippers.com/) or [MakeMyDriveFun](https://makemydrivefun.com/) - Roadside Attraction Guides
-* [TheSalmons](https://www.thesalmons.org/lynn/whgmap.html) or [World Heritage Sites](https://world-heritage.mapspot.co/) - World Heritage Sites
+* [TheSalmons](https://www.thesalmons.org/lynn/whgmap.html) - World Heritage Sites
 * [SongKick](https://www.songkick.com/) or [FindYourFest](https://www.findyourfest.com/) - Concerts / Music Festival Search
 * [Retro Directory](https://retro.directory/) - Find Arcades / Vintage Shops
 * [AnimeCons](https://animecons.com/) - Find Anime Conventions
@@ -472,7 +472,7 @@
 * [MuscleWiki](https://musclewiki.com/) - Muscle / Exercise Information Tool
 * [SPSS Tutorials](https://www.spss-tutorials.com/) - SPSS Practice & Examples
 * [Fitness Blender](https://www.fitnessblender.com/videos?exclusive%5B%5D=0) - Workout Videos
-* [Fitocracy](https://www.fitocracy.com/) or [Workout.lol](https://workout.lol/) - Create Workout Plans
+* [Workout.lol](https://workout.lol/) - Create Workout Plans
 * [DAREBEE](https://darebee.com/) - Fitness Plans / Workouts
 * [Hevy](https://www.hevyapp.com/), [Iron](https://github.com/kabouzeid/Iron), [Massive](https://gitea.presley.nz/brandon.presley/Massive), [GymRoutines](https://codeberg.org/noahjutz/GymRoutines), [Boostcamp](https://www.boostcamp.app/) or [FitHero](https://fithero.app/) - Workout Trackers
 * [OpenTrack](https://opentracksapp.com/) - Sports Tracking App
@@ -602,7 +602,6 @@
 * ⭐ **[KickResume](https://www.kickresume.com/en/help-center/resume-samples/)** or [ThisResumeDoesNotExist](https://thisresumedoesnotexist.com/) - Resume Samples
 * [ResumeMatcher](https://www.resumematcher.fyi/)
 * [resumonk](https://www.resumonk.com/)
-* [ceev](https://ceev.io/) 
 * [creddle](http://creddle.io/)
 * [flowcv](https://flowcv.com/)
 * [cvservant](https://cvservant.com/cv/)
@@ -803,7 +802,7 @@
 * [MechGroupBuys](https://www.mechgroupbuys.com/) - Group Mechanical Keyboard Buying / [Discord](https://discord.com/invite/mechgroupbuys) / [Reddit](https://www.reddit.com/r/MechGroupBuys/)
 * [PSU Tier List](https://cultists.network/140/psu-tier-list/) - PSU Buying Guide
 * [PC Monitors](https://pcmonitors.info/), [Monitor Hunter](https://docs.google.com/document/d/1illeNLsUfZ4KuJ9cIWKwTDUEXUVpplhUYHAiom-FaDo/), [DisplaySpecifications](https://www.displayspecifications.com/), [Monitor Spreadsheet](https://pastebin.com/tkmakRNW) or [DisplayNinja](https://www.displayninja.com/) - Monitor Buying Guides
-* [sven dpi](https://www.sven.de/dpi/) or [Screen Sizes](https://screensiz.es/) - Screen Size Comparisons
+* [sven dpi](https://www.sven.de/dpi/) - Screen Size Comparisons
 * [Erin's Audio Corner](https://www.erinsaudiocorner.com/), [Speakerzilla](https://speakerzilla.com/) or [Equipboard](https://equipboard.com/) - Audio Equipment Comparisons
 * [InStockAlert_DataLover](https://discord.gg/jd6KaBUHG4) or [Fixitfixitfixit](https://discord.gg/gpu) - GPU / Xbox / PS5 Drop Notifications / [Guide](https://youtu.be/2cBRW9FeQ3A)
 * [PhoneDB](https://phonedb.net/), [GSMChoice](https://www.gsmchoice.com/en/), [Kimovil](https://www.kimovil.com/en/) or [GSMArena](https://www.gsmarena.com/) - Compare Phones / Prices
