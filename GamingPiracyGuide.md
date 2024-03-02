@@ -1212,7 +1212,7 @@
 ## ▷ Geometry Dash Tools
 
 * ⭐ **[Geode](https://geode-sdk.org/)** - Mod Menu & Modding Framework
-* ⭐ **[Demon List](https://pointercrate.com/demonlist/)** - Official Demon List
+* ⭐ **[Demon List](https://pointercrate.com/demonlist/) / [Challenge List](https://challengelist.gd/challenges/)** - Official Demon List and Challenge List
 * [GDDP](https://gddp.pro/) - Practice & Improve Your Skills
 * [Soluble Texture Packs](https://solubletexturepacks.com/) - GD Texture Packs / [Manager](https://geode-sdk.org/mods/geode.texture-loader/)
 * [Song File Hub](https://songfilehub.com/home) - GD Songs & Mashups / [Discord](https://discord.com/invite/maSgd4zpEF)
