@@ -29,7 +29,7 @@
 ## ▷ Redirect Bypass
 
 * ⭐ **[Bypass All Shortlinks](https://codeberg.org/Amm0ni4/bypass-all-shortlinks-debloated/)**
-* ⭐ **[bypass.city](https://bypass.city/)**, [2](https://adbypass.org/) / [krnl-and-linkvertise-bypasser](https://api2.adbypass.org/userscript/download/bypass.user.js) [2](https://greasyfork.org/tr/scripts/488231-working-linkvertise-and-krnl-bypasser) / [Discord](https://discord.com/invite/uMEtrpRvAf)
+* ⭐ **[bypass.city](https://bypass.city/)**, [2](https://adbypass.org/) / [krnl-and-linkvertise-bypasser](https://api2.adbypass.org/userscript/download/bypass.user.js) / [Discord](https://discord.com/invite/uMEtrpRvAf)
 * [FastForward](https://fastforward.team/) / [Discord](https://discord.gg/RSAf7b5njt)
 * [AdsBypasser](https://adsbypasser.github.io/) / [2](https://github.com/adsbypasser/adsbypasser)
 * [TheBypasser](https://thebypasser.com/)
@@ -279,7 +279,6 @@
 * ⭐ **[arkenfox](https://github.com/arkenfox/user.js)**- Firefox Privacy Tweak / [Video](https://youtu.be/F7-bW2y6lcI)
 * [Librewolf](https://librewolf.net/)- Pre-tweaked Firefox Fork / [Use Auto-Updater](https://github.com/ltguillaume/librewolf-winupdater)
 * [CookieStatus](https://www.cookiestatus.com/) or [PrivacyTests](https://privacytests.org/) - Browser Tracking Protection Comparisons
-* [Fingerprint Suite](https://github.com/apify/fingerprint-suite) - Browser Fingerprinting Tools / Scraping Anonymization 
 * [Whack](https://lcamtuf.coredump.cx/whack/) or [Earthling](https://earthlng.github.io/testpages/visited_links.html) - Browser History Leak Example Games
 * [SSL Labs](https://clienttest.ssllabs.com:8443/ssltest/viewMyClient.html) - SSL/TLS Browser Capabilities Test
 
@@ -290,7 +289,7 @@
 * ⭐ **[ClearURLs](https://docs.clearurls.xyz)** - Remove Tracking Elements from URLs / [Features](https://gitlab.com/ClearURLs/ClearUrls#features), [2](https://i.imgur.com/sqzfmLD.png)
 * ⭐ **[CanvasBlocker](https://github.com/kkapsner/CanvasBlocker)** - Prevent Canvas Fingerprinting
 * ⭐ **[GameIndustry](https://gameindustry.eu/en/)** - Block Trackers in Desktop / Mobile Games
-* ⭐ **[Creepjs](https://abrahamjuliot.github.io/creepjs)**, [BrowserRecon](https://www.computec.ch/projekte/browserrecon/?s=scan), [Device Info](https://www.deviceinfo.me/), [Unique Machine](https://uniquemachine.org/), [AmIUnique?](https://amiunique.org/), [CoverYourTracks](https://firstpartysimulator.org/) / [2](https://coveryourtracks.eff.org/) or [PersonalData](https://personaldata.info/) - Tracking / Fingerprinting Tests
+* ⭐ **[Creepjs](https://abrahamjuliot.github.io/creepjs)**, [BrowserRecon](https://www.computec.ch/projekte/browserrecon/?s=scan), [Device Info](https://www.deviceinfo.me/), [AmIUnique?](https://amiunique.org/), [CoverYourTracks](https://firstpartysimulator.org/) / [2](https://coveryourtracks.eff.org/) or [PersonalData](https://personaldata.info/) - Tracking / Fingerprinting Tests
 * [WhoTracksMe](https://whotracks.me/), [Privacy Score](https://privacyscore.org/), [dataskydd](https://webbkoll.dataskydd.net/), [Blacklight](https://themarkup.org/blacklight) or [Trackography](https://trackography.org/) - Site Tracking Info
 * [Data Removal Guide](https://inteltechniques.com/workbook.html) - Remove Online Data
 * [BrowserLeaks](https://browserleaks.com/), [Astrill](https://rentry.co/astrill), [Comparitech](https://www.comparitech.com/privacy-security-tools/dns-leak-test/), [Do I leak?](https://www.top10vpn.com/tools/do-i-leak/) or [IPLeak](https://ipleak.org/) / [2](https://ipleak.com/) / [3](https://ipleak.net) - IP Leak Tests
