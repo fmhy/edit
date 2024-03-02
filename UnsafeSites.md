@@ -1,9 +1,5 @@
 ***
 
-# Untrusted Sites / Software
-
-***
-
 ## Game Sites
 
 **Note** - Scene groups do not have their own sites, so it's best to avoid anything claiming to represent one.
