@@ -1092,7 +1092,7 @@
 
 ***
 
-## ▷ Counter-Srike Tools
+## ▷ Counter-Strike Tools
 
 * ⭐ **[CsWarzOnE](https://cswarzone.com/)** - Counter-Strike Downloads
 * ⭐ **[Play-CS](https://play-cs.com/)** - Browser Counter-Strike 1.6
