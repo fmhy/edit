@@ -134,7 +134,6 @@
 
 ## ▷  Remote Desktop
 
-* 🌐 **[VPS Comparison Chart](https://lowendstock.com/)** - VPS Comparisons
 * ⭐ **[RustDesk](https://rustdesk.com/)** / [GitHub](https://github.com/rustdesk/rustdesk)
 * ⭐ **[Parsec](https://parsec.app/)**
 * [Ammyy](https://www.ammyy.com/en/)
@@ -158,7 +157,6 @@
 * [CoScreen](https://www.coscreen.co/)
 * [TigerVNC](https://tigervnc.org/) - VNC
 * [noVNC](https://novnc.com/info.html) - JavaScript VNC
-* [Oracle VPS](https://rentry.co/oraclevps) - VPS
 * [InputDirector](https://www.inputdirector.com/) - Multi-Computer
 * [Barrier](https://github.com/debauchee/barrier) - Multi-Computer
 * [Mouse Without Borders](https://www.microsoft.com/en-us/garage/wall-of-fame/mouse-without-borders/) - Multi-Computer
