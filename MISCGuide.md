@@ -54,6 +54,7 @@
 * [National Archives](https://www.nationalarchives.gov.uk/webarchive/) - UK Government Site Archive
 * [The Hive Index](https://thehiveindex.com/) - Online Communities Index
 * [NetSplit](https://netsplit.de/) - IRC Channel Index
+* [Creative Commons](https://github.com/fmhy/FMHYedit/issues/1386#issuecomment-1906854653) - Creative Commons Content Sites
 * [Cyberlife](https://cyberpunk-life.neocities.org/) - Cyberpunk-Related Content / Sites Index
 * [Off-Grid](https://off-grid.net/links-directory/) - Off Grid Site Index
 * [sourcehut](https://sr.ht/) - Public Project Index
@@ -190,6 +191,7 @@
 * [Roadside America](https://www.roadsideamerica.com/), [RoadTrippers](https://roadtrippers.com/) or [MakeMyDriveFun](https://makemydrivefun.com/) - Roadside Attraction Guides
 * [TheSalmons](https://www.thesalmons.org/lynn/whgmap.html) - World Heritage Sites
 * [SongKick](https://www.songkick.com/) or [FindYourFest](https://www.findyourfest.com/) - Concerts / Music Festival Search
+* [DemoParty](https://www.demoparty.net/) - Find Demoscene Events
 * [Retro Directory](https://retro.directory/) - Find Arcades / Vintage Shops
 * [AnimeCons](https://animecons.com/) - Find Anime Conventions
 * [FreeCampSites](https://freecampsites.net/) - Free Camp Sites
