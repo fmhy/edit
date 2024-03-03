@@ -93,7 +93,7 @@ Use [this](https://bitbucket.org/magnolia1234/bypass-paywalls-firefox-clean/src/
 ### Anti-virus
 
 **[VirusTotal](https://www.virustotal.com) / [Kaspersky Cloud](https://opentip.kaspersky.com/)** - Test the safety of files
-**[Guide for VirusTotal](https://rentry.org/Guide4VirusTotal)** - Virus scan results guide
+**[VTGuide](https://rentry.co/VTGuide)** - Virus scan results guide
 **[Malwarebytes Premium](https://rentry.co/FMHYBase64#malwarebytes-prem)** - Antivirus software
 
 !!!note Antivirus software is usually bloatware. Stick to trusted sources for games and software and you will be fine with nothing but Windows Defender and an occasional Malwarebytes scan. Remember to always scan software before installing it with tools like **[VirusTotal](https://www.virustotal.com/)** or use it in **[Sandboxie](https://rentry.co/sandboxie-guide)**.
