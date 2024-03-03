@@ -1,6 +1,6 @@
-name: Wiki
+name: Create Issue
 description: 'Help us improve FMHY for everyone'
-title: 'Wiki: '
+title: '<title>'
 body:
   - type: markdown
     attributes:
