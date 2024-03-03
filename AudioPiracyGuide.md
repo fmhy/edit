@@ -35,6 +35,7 @@
 * [Trikatuka](http://trikatuka.aknakn.eu/) - Playlist Transfer
 * [Skiley](https://skiley.net/) - Playlist Manager
 * [Kotify](https://github.com/dzirbel/kotify) - Organize Spotify Music
+* [PlaylistProxy](https://playlistproxy.net/) - Create Anonymous Playlists
 * [Spotlistr](https://www.spotlistr.com/) - Playlist Converter
 * [Playlistor](https://playlistor.io/) - Apple Music Playlist Converter
 * [Spotr](https://github.com/XDGFX/spotr) - Export Tracks as Deezer Playlists
@@ -744,6 +745,7 @@
 * [Open Note Block Studio](https://opennbs.org/) - Minecraft Note Block Song Editor
 * [Viano](https://github.com/isaaclyman/Viano) - Create Songs with Vue
 * [madeon](https://adventuremachine.4thfloorcreative.co.uk/) - Create Music with Madeon Samples
+* [MilkyTracker](https://milkytracker.org/) - Create .MOD and .XM module files
 * [Melody Generator](https://dopeloop.ai/melody-generator), [Signal](https://signal.vercel.app/), [Rosegarden](https://rosegardenmusic.com/) or [Ariamaestosa](https://ariamaestosa.github.io/ariamaestosa/docs/index.html) - MIDI Editors
 * [MIDI City](https://midicity-2000.glitch.me/) - City Style MIDI Editor
 * [Basic Pitch](https://basicpitch.spotify.com/) - Create MIDI via Sound
