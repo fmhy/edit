@@ -1234,7 +1234,7 @@
 * [Zelda BotW Street View](https://nassimsoftware.github.io/zeldabotwstreetview/) - Breath of The Wild Map
 * [Palworld Interactive](https://palworld.th.gl/) - Palworld Map
 * [Fortnite.gg](https://fortnite.gg/) - Fortnite Map, Guides, Skins etc.
-* [Hallownest](https://www.hallownest.net/) - Hollow Knight Map
+* [Hallownest](https://www.hallownest.net/) / [Interactive Map with Markers](https://scripterswar.com/hollowknight/map) - Hollow Knight Maps
 * [Hoyolab Teyvat Interactive Map](https://act.hoyolab.com/ys/app/interactive-map/index.html), [Mapgenie Teyvat Interactive Map](https://mapgenie.io/genshin-impact) or [Genshin Impact Map](https://genshin-impact-map.appsample.com/) - Genshin Impact Interactive Maps
 
 ***
