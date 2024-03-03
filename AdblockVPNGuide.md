@@ -259,12 +259,14 @@
 * [ssh-chat](https://github.com/shazow/ssh-chat) or [Devzat](https://github.com/quackduck/devzat) - SSH Chat / [Info](https://shazow.net/posts/ssh-how-does-it-even/)
 * [GPGTools](https://gpgtools.org/) - Encrypt & Sign Data / Communications 
 * [PeerTube](https://joinpeertube.org/) / [2](https://search.joinpeertube.org/) / [3](https://sepiasearch.org/) - Decentralized Video Hosting / [Instances](https://instances.joinpeertube.org/instances)
+* [Redact](https://redact.dev/) - Delete Twitter / Reddit Posts
 * [Undiscord](https://github.com/victornpb/undiscord), [discord-delete](https://github.com/cedws/discord-delete), or [QuickDeleteMessages](https://u.nu/9i9jk) - Delete Discord Messages / [Warning](https://i.ibb.co/pdg4hRr/0b0d78219f05.png)
 * [Social Amnesia](https://github.com/Nick-Gottschlich/Social-Amnesia) - Reddit / Twitter Auto Post Delete
 * [delete-likes-from-twitter](https://gist.github.com/aymericbeaumet/d1d6799a1b765c3c8bc0b675b1a1547d) - Delete Twitter Likes / Favorites 
 * [Unfavinator](http://unfavinator.com/) - Delete Twitter Favorites
 * [TweetDelete](https://tweetdelete.net/) or [TweetEraser](https://www.tweeteraser.com/) - Delete Twitter Posts in Bulk
 * [PowerDeleteSuite](https://github.com/j0be/PowerDeleteSuite) - Reddit Auto Post Delete
+* [telegram-delete-all-messages](https://github.com/gurland/telegram-delete-all-messages) - Delete Telegram Message 
 * [Freenet Project](https://freenetproject.org/) - Browse / Publish Freenet Sites 
 * [Mat2](https://0xacab.org/jvoisin/mat2) / [Desktop](https://metadatacleaner.romainvigier.fr/), [2](https://0xacab.org/jvoisin/mat2-web), [metadata-cleaner](https://gitlab.com/rmnvgr/metadata-cleaner) - Remove Metadata from Files
 * [SecLists](https://seclists.org/) - Security Mailing List Archive
