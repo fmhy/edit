@@ -27,7 +27,7 @@
 * [groq](https://groq.com/) - LLama and Mixtral Chatbots
 * [HuggingChat](https://huggingface.co/chat/) - Open-Source Chatbots
 * [FlowGPT](https://flowgpt.com/chat) - Multiple Chatbots / [Discord](https://discord.com/invite/tWZGzcpTkf)
-* [Phind](https://www.phind.com/) - GPT-3.5 Powered Search
+* [Phind](https://www.phind.com/) - Llama Powered Search
 * [Komo](https://komo.ai/) - GPT-3.5 Powered Search
 * [iAsk](https://iask.ai/) - AI Search Engine
 * [Andi](https://andisearch.com/) - AI Search Engine
