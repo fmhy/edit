@@ -348,17 +348,13 @@
 
 ## ▷ Voice Change / Clone
 
-* ⭐ **[RVC](https://github.com/IAHispano/Applio-RVC-Fork)** - Voice Cloning / [AI Hub's Documentation](https://docs.aihub.wtf/)
-* ⭐ **[RVC HFv2](https://huggingface.co/spaces/r3gm/RVC_HFv2)** - Voice Cloning
-* ⭐ **[weights.gg](https://www.weights.gg/) / [Discord](https://discord.gg/A5rgNwDRd4) or [AI Hub](https://discord.gg/aihub)** - AI Voice Models and Guides
-* ⭐ **[Replay](https://www.tryreplay.io/)** - RVC Desktop App
-* ⭐ **[voice-changer](https://github.com/w-okada/voice-changer)** - Realtime Voice Changer
-* [NeuralSVB](https://github.com/MoonInTheRiver/NeuralSVB) - Singing Voice Enhancer
-* [Ilaria RVC](https://huggingface.co/spaces/TheStinger/Ilaria_RVC) - Voice Cloning
+* ⭐ **[Applio](https://github.com/IAHispano/Applio-RVC-Fork)** - Voice Cloning / [AI Hub's Documentation](https://aihubdocs.github.io/en/)
+* ⭐ **[weights.gg](https://www.weights.gg/) / [Discord](https://discord.gg/aihub)** - AI Voice Models and Guides
+* ⭐ **[RVC V2](https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI)** - RVC V2 Voice Cloning (locally)
+* ⭐ **[voice-changer](https://github.com/w-okada/voice-changer)** - Realtime Voice Changer (W-Okada) - [Guide](https://rentry.co/VoiceChangerGuide)
+* ⭐ **[Ilaria RVC](https://huggingface.co/spaces/TheStinger/Ilaria_RVC)** - RVC V2 Voice Cloning (Cloud/Colab) 
+* [Replay](https://www.tryreplay.io/)** - RVC Desktop App 
 * [Bark w/ Voice Clone](https://huggingface.co/spaces/kevinwang676/Bark-with-Voice-Cloning) - Voice Cloning
-* [Kits.ai](https://www.kits.ai/) - Voice Cloning
-* [Retrieval-based-Voice-Conversion](https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI)
-* [OpenVoice](https://github.com/myshell-ai/OpenVoice) - Voice Cloning / [Web UI](https://huggingface.co/spaces/myshell-ai/OpenVoice)
 
 ***
 
