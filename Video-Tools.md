@@ -122,6 +122,7 @@
 * [WDFlat](https://www.wdflat.com/) - Stream Elements
 * [Strem](https://github.com/strem-app/strem) - Stream Automation
 * [ppInk](https://github.com/PubPub-zz/ppInk/), [glnk](https://github.com/geovens/gInk), [Annotate Screen](https://annotatescreen.com/) or [Live Draw](https://github.com/antfu/live-draw) - Screen Annotation
+* [StreamPi](https://stream-pi.com/) or [ODeck](https://github.com/willianrod/ODeck) - ElGato Streamdeck Alternatives
 * [VTuber Kit](https://kyuppin.itch.io/vtuber-kit) or [Vtube Studio](https://denchisoft.com/) - VTuber Apps
 * [Kalidoface 3D](https://3d.kalidoface.com/), [VRoid](https://vroid.com/en/studio), [Animaze](https://www.animaze.us/) or [TransTube](https://girkovarpa.itch.io/transtube) - VTuber Characters
 * [avatarify-python](https://github.com/alievk/avatarify-python) or [veadotube](https://olmewe.itch.io/veadotube-mini) - Video Call Avatars
@@ -263,11 +264,11 @@
 
 ## ▷ Jellyfin Tools
 
+* ⭐ **[JellyPlayer](https://github.com/prayag17/JellyPlayer)** or [jellyfin-media-player](https://github.com/jellyfin/jellyfin-media-player) - Desktop Clients
 * [Jellyfin Setup Guide](https://www.fuzzygrim.com/posts/media-server)
 * [Jellyfin Customization Guide](https://youtu.be/F85qMyBeiDI)
 * [Jellyfin Themes](https://jellyfin.org/docs/general/clients/css-customization.html##community-themes)
 * [/r/JellyfinShares](https://www.reddit.com/r/JellyfinShares/) - Server Sharing
-* [jellyfin-media-player](https://github.com/jellyfin/jellyfin-media-player) or [JellyPlayer](https://github.com/prayag17/JellyPlayer) - Desktop Clients
 * [Jellyseerr](https://github.com/Fallenbagel/jellyseerr) - User Requests
 * [jellyfin-plugin-anime](https://github.com/jellyfin-archive/jellyfin-plugin-anime) - Anime Plugin
 
