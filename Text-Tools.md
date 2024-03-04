@@ -28,7 +28,7 @@
 ## ▷ Pastebins
 
 * ⭐ **[Pastebin Search](https://cse.google.com/cse?cx=0cd79b819f26af9d0)**
-* ⭐ **[snowbin](https://pastes.fmhy.net/)**
+* ⭐ **[snowbin](https://pastes.fmhy.net/)**, [2](https://paste.fmhy.net/) - Temp Pastebin
 * ⭐ **[Linqbin](https://linqbin.cc/)** - Temp Pastebin
 * ⭐ **[Rentry](https://rentry.co/)** / [CLI](https://github.com/radude/rentry)
 * ⭐ **[Bundlrs](https://bundlrs.cc/)** / [Source](https://code.stellular.org/SentryTwo/bundlrs)
