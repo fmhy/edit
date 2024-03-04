@@ -768,7 +768,7 @@
 * [RiiConnect24](https://rc24.xyz/) - WiiConnect24 Replacement
 * [3DS Hacks Guide](https://3ds.hacks.guide/) - 3DS Modding Guide
 * [Universal DB](https://db.universal-team.net/) - 3DS / DS Modding Apps
-* [/r/3DSPiracy](https://www.reddit.com/r/3dspiracy/) or [3SSHacks](https://reddit.com/r/3dshacks/) - 3DS Modding Subreddit
+* [/r/3DSPiracy](https://www.reddit.com/r/3dspiracy/) or [3DSHacks](https://reddit.com/r/3dshacks/) - 3DS Modding Subreddit
 * [Luma3DS](https://github.com/LumaTeam/Luma3DS) - 3DS Custom Firmware
 * [Theme Plaza](https://themeplaza.art/themes) - 3DS Themes / [Discord](https://discord.com/invite/Pz25PX5vr5)
 * [GodMode9](https://github.com/d0k3/GodMode9) - 3DS File Browser
@@ -975,7 +975,6 @@
 * [Tracker.gg](https://tracker.gg/) - Game Leaderboards / Stats
 * [FaceItFinder](https://faceitfinder.com/) - FaceIt Stats Search
 * [BF2142 Reclamation](https://battlefield2142.co/) - BF2142 Multiplayer Project / [Discord](https://discord.gg/MEwBW9U)
-* [Mobalytics](https://mobalytics.gg/) - Game Performance & Stats Analyzer
 * [StatsVerse](http://statsverse.com/) - Battlefield Leaderboards
 * [Sym.gg](https://sym.gg/) - Battlefield Info & Weapon Stats
 * [PaladinsGuru](https://paladins.guru/) - Paladins Leaderboards
@@ -1083,10 +1082,13 @@
 
 * ⭐ **[OP.GG](https://www.op.gg/)** - LoL Player Background Check
 * ⭐ **[U.GG](https://u.gg/)** - LoL Champion Builds / Tiers
+* ⭐ **[Gol.gg](https://gol.gg/esports/home/)** - LoL Competitive Stats, All Regions
+* ⭐ **[Tactics.tools](https://tactics.tools/)** / [Discord](https://discord.com/invite/K4Z6shucH8) or [MetaTFT](https://www.metatft.com/) / [Discord](https://discord.com/invite/RqN3qPy) - Team Fight Tactic Guides, Stats, Tools etc.
 * [MobaFire](https://www.mobafire.com/) - LoL Champion Guides
 * [ProBuilds](https://www.probuilds.net/) - LoL Pro Player Builds
 * [Zar](https://zar.gg) - LoL In-Game Coaching Overlay
 * [DraftGap](https://draftgap.com/) - LoL Draft Analysis Tool
+* [Mobalytics](https://mobalytics.gg/) - Game Performance & Stats Analyzer
 * [Porofessor](https://porofessor.gg/) - Live LoL Game Stats
 * [ProStreams](https://prostreams.gg/) - Watch Pro LoL Twitch Streams
 * [LoLdle](https://loldle.net/) - League of Legends Wordle
