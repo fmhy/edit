@@ -943,6 +943,7 @@
 * [WhichBook](https://www.whichbook.net/) - Book Recommendations
 * [Readow](https://readow.ai/) - Book Recommendations
 * [Shepherd](https://shepherd.com/) - Book Recommendations
+* [Newvella](https://newvella.com/) - Book Recommendations
 * [GoodBooks](https://www.goodbooks.io/) - Book Recommendations
 * [Literature-Map](https://www.literature-map.com/) - Book Recommendations
 * [Break the Bubble!](https://abooklike.foo/escape) - Book Recommendations
@@ -995,6 +996,7 @@
 * ⭐ **[EinkBro](https://github.com/plateaukao/einkbro)** - E-Ink Browser
 * [Librum](https://github.com/Librum-Reader/Librum) - Ebook Reader / PC / Linux / Mac
 * [EBook Reader](https://epub-reader.online/) - Ebook Reader / PC / Android / iOS / Mac
+* [LibrumReader](https://librumreader.com/ ) - Ebook Reader / PC 
 * [KoReader](https://koreader.rocks/) - Ebook Reader / PC / Android / [GitHub](https://github.com/koreader/koreader)
 * [FBReader](https://fbreader.org/) - Ebook Reader / PC / Android / iOS
 * [Thorium](https://www.edrlab.org/software/thorium-reader/) - Ebook Reader / PC / Mac / Linux
