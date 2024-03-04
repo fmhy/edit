@@ -50,7 +50,7 @@ Use [this](https://bitbucket.org/magnolia1234/bypass-paywalls-firefox-clean/src/
 
 ### Linux Piracy
 
-**[Linux Distros](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_linux_distros)** - Download Linux Distros 
+**[Linux Distros](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/linux#wiki_.25BA_linux_distros)** - Download Linux Distros 
 **[Linux Piracy](https://rentry.co/LinuxPiracy) / [Linux Gaming Guide](https://github.com/rimsiw/linux-gaming-omg)** - Piracy Guide for Linux 
 **[Torrminatorr](https://forum.torrminatorr.com/) / [Kapital Sin](https://kapitalsin.com/)** - Download Linux Games
 **[TorrFlix](https://github.com/infinity-plus/TorrFlix)** - Torrent Streaming CLI
