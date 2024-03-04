@@ -31,7 +31,6 @@
 * [Leon](https://getleon.ai/) - AI Assistant
 * [Rhasspy](https://rhasspy.readthedocs.io/en/latest/) - Voice Assistant
 * [Time.is](https://time.is/) - Check Accuracy of System Clock
-* [StreamPi](https://stream-pi.com/) - ElGato Streamdeck Alternative
 
 ***
 
@@ -184,13 +183,14 @@
 
 * ⭐ **[GlazeWM](https://github.com/glzr-io/glazewm)**
 * ⭐ **[Komorebi](https://github.com/LGUG2Z/komorebi)**
+* ⭐ **[WorkSpacer](https://workspacer.org/)**
 * [nog](https://github.com/TimUntersberger/nog)
 * [bug.n](https://github.com/fuhsjr00/bug.n)
 * [GridMove](https://www.dcmembers.com/jgpaiva/)
-* [WorkSpacer](https://workspacer.org/)
 * [TileMe](https://gitlab.com/slavoutich/tileme)
 * [MiguruWM](https://github.com/imawizard/MiguruWM)
 * [WindowsGrid](http://windowgrid.net/)
+* [DWM](https://github.com/prabirshrestha/dwm-win32)
 * [United Sets](https://github.com/Windows-Apps-Hub/UnitedSets) - Group Windows Into Tabs
 * [AltSnap](https://github.com/RamonUnch/AltSnap) - Improved Windows Dragging
 
@@ -276,6 +276,7 @@
 * ⭐ **[WizTree](https://www.diskanalyzer.com/)** - Disk Usage Analyzer
 * ⭐ **[CrystalDiskMark](https://crystalmark.info/en/software/crystaldiskmark/)** or [CCISOBench](https://ccsiobench.com/) - Disk Benchmarking Tools
 * ⭐ **[GParted](https://gparted.org/)**, [Rescuezilla](https://rescuezilla.com/), [CloneZilla](https://clonezilla.org/) or [AOMEI](https://www.diskpart.com/) - Partition Managers
+* ⭐ **[Validrive](https://www.grc.com/validrive.htm)** - Check True Storage Size of USB Devices
 * [TrueNAS](https://www.truenas.com/) - Storage System
 * [QDirStat](https://github.com/shundhammer/qdirstat) - Directory Statistics
 * [CrystalDiskInfo](https://crystalmark.info/en/software/crystaldiskinfo/) - S.M.A.R.T. Data Analyzer
