@@ -1257,6 +1257,7 @@
 * 🌐 **[Awesome-Kotlin](https://kotlin.link/)** - Kotlin Resources / [GitHub](https://github.com/KotlinBy/awesome-kotlin)
 * 🌐 **[Awesome Emacs](https://github.com/emacs-tw/awesome-emacs)** or [Melpa](https://melpa.org/) - Emacs Packages / [Tiling](https://github.com/ch11ng/exwm)
 * 🌐 **[Awesome VSC Extensions](https://hl2guide.github.io/Awesome-Visual-Studio-Code-Extensions/)** - Visual Studio Code Extensions
+* ↪️ **[Text Editors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools#wiki_.25BA_text_editors)**
 * ⭐ **[Visual Studio Code](https://code.visualstudio.com/)**
 * ⭐ **[VSCodium](https://vscodium.com/)** - Code Editor
 * ⭐ **[Neovim](https://neovim.io/)** - Code Editor
