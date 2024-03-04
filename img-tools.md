@@ -721,10 +721,9 @@
 
 ## ▷ Screenshot Tools
 
-* ⭐ **[ShareX](https://getsharex.com/)** 
-* ⭐ **ShareX Tools** - [Free Host](https://encrypting.host/), [2](https://sxcu.net/), [3](https://www.sharexhosting.com/) / [Self-Host](https://github.com/tycrek/ass) / [File Manager](https://xbackbone.app/)
-* ⭐ **[Flameshot](https://flameshot.org/)**
-* ⭐ **Flameshot Tools** - [GitHub](https://github.com/flameshot-org/flameshot) / [Imgur Upload](https://slproweb.com/products/Win32OpenSSL.html)
+* ⭐ **[ShareX](https://getsharex.com/)** / [Free Host](https://encrypting.host/), [2](https://sxcu.net/), [3](https://www.sharexhosting.com/) / [File Manager](https://xbackbone.app/)
+* ⭐ **[Zipline](https://zipline.diced.sh/)** / [GitHub](https://github.com/diced/zipline) or [ass](https://github.com/tycrek/ass)- Self-Hosted ShareX Server
+* ⭐ **[Flameshot](https://flameshot.org/)** / [GitHub](https://github.com/flameshot-org/flameshot) / [Imgur Upload](https://slproweb.com/products/Win32OpenSSL.html)
 * [Greenshot](https://getgreenshot.org/)
 * [Gyazo](https://gyazo.com/)
 * [KSnip](https://github.com/ksnip/ksnip)
@@ -753,8 +752,9 @@
 * [ColorBox](https://colorbox.io/), [hue.tools](https://hue.tools/), [Randoma11y](https://randoma11y.com/), [accessiblepalette](https://accessiblepalette.com/) or [colorcolor](https://colorcolor.in/) - Advanced Color Palette Generators
 * [goodpalette](https://goodpalette.io/), [Huemint](https://huemint.com/), [AI Colors](https://aicolors.co/) or [PaletteMaker](https://palettemaker.com/) - Generate UI Color Palettes
 * [couleur.io](https://couleur.io/) - CSS Color Palettes Generator
-* [UI Colors](https://uicolors.app/create) - Tailwind CSS Color Generator
+* [UI Colors](https://uicolors.app/create) or [Tints](https://www..dev/) - Tailwind CSS Color Generators
 * [Poolors](https://poolors.com/) - Generate Most / Least Used Color Palettes
+* [Cielab](https://cielab.io/) - Human Perception Color Tool
 
 ***
 
