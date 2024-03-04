@@ -80,6 +80,7 @@
 * [Unicord](https://github.com/UnicordDev/Unicord) - Discord Client for Windows / [Discord](https://discord.gg/64g7M5Y) 
 * [Spacebar](https://github.com/spacebarchat/spacebarchat) - Self-hostable Discord Client
 * [discord-PWA](https://github.com/NeverDecaf/discord-PWA) - Discord PWA Client
+* [Dorion](https://github.com/SpikeHD/Dorion) - Lightweight Discord Client
 * [GTKCord4](https://github.com/diamondburned/gtkcord4) - GTK4 Discord Client
 * [Discord Portable](https://portapps.io/app/discord-portable/) / [PTB PortApps](https://portapps.io/app/discord-ptb-portable/) - Portable Discord Stable
 * [litecord](https://gitlab.com/litecord/litecord) - Reimplementation of Discord's Backend / [Clients](https://gitlab.com/litecord/litecord/-/blob/master/docs/clients.md)
@@ -468,7 +469,7 @@
 * ⭐ **[Stream Scheme](https://www.streamscheme.com/)** - Livestreaming Guides / Resources
 * [Gumbo](https://github.com/seldszar/gumbo) - Twitch Stream Tracker
 * [HypeTrigger](https://hypetrigger.io/) - Automatically Create Clips
-* [VODarchive](https://vodarchive.com/) - Twitch VOD Archive
+* [VODarchive](https://vodarchive.com/) or [TwitchArchive](https://twitcharchive.com/)- Twitch Video Archives
 * [Twitch Previews](https://github.com/MarkM-dev/Previews-client) or [Previews](https://previews-app.com/) - Twitch Video Previews
 * [Unwanted Twitch](https://github.com/kwaschny/unwanted-twitch) - Hide Twitch Categories / Channels
 * [Ultrawidify](https://github.com/tamius-han/ultrawidify) - Fix Twitch Aspect Ratio
@@ -488,6 +489,7 @@
 * [StreamLadder](https://streamladder.com/) - Social Media Templates for Twitch Clips
 * [TwitchLeak](https://twitchleak.netlify.app/) - Twitch Top Earners Table
 * [TwitchQuotes](https://www.twitchquotes.com/) - Twitch Copypastas
+* [TwitchEmotes](https://twitchemotes.com/) - Global Twitch Emotes
 * [TwitchInsights](https://twitchinsights.net/), [StreamCharts](https://streamscharts.com/) or [TwitchTracker](https://twitchtracker.com/) - Twitch Stats
 * [Trovo](https://trovo.live/), [Glimesh](https://glimesh.tv/), [Kick](https://kick.com/), [dlive](https://dlive.tv/), [Caffeine](https://www.caffeine.tv/), [Lightspeed](https://lightspeed.tv/) or [Theta](https://www.theta.tv/) - Twitch Alternatives
 
