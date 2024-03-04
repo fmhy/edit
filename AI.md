@@ -36,7 +36,7 @@
 * [Pi](https://pi.ai/talk) - Inflection AI's Chatbot
 * [Poe](https://poe.com/) - Multiple Chatbots / 150 Daily / [Discord](https://discord.com/invite/joinpoe)
 * [Claude](https://claude.ai/) - Anthropic's Chatbot
-* [AI Playground](https://play.vercel.ai/) - Compare Multiple Chatbots
+* [play.vercel](https://play.vercel.ai/) - Compare Multiple Chatbots
 * [GlobalGPT](https://www.globalgpt.nspiketech.com/#/) - AI Chatbot with Document Support
 
 ***
@@ -120,8 +120,8 @@
 * ⭐ **[BlackFriday GPTs Prompts](https://github.com/friuns2/BlackFriday-GPTs-Prompts)** - Prompt Directory
 * ⭐ **[flowgpt](https://flowgpt.com/)** - Prompt Directory
 * ⭐ **[Leaked Prompts](https://github.com/linexjlin/GPTs)** - Prompt Directory
-* ⭐ **[Prompt Engineering Guide](https://www.promptingguide.ai)**, [OpenAI Guide](https://platform.openai.com/docs/guides/prompt-engineering), [LearningPrompt](https://learningprompt.wiki/) or [Jailbreaking ChatGPT](https://arxiv.org/pdf/2305.13860) - Prompting Guides
-* ⭐ **[jailbreakchat](https://www.jailbreakchat.com/)** or **[jamessawyer](http://www.jamessawyer.co.uk/pub/gpt_jb.html)** - Jailbreak Prompts
+* ⭐ **[Prompt Engineering Guide](https://www.promptingguide.ai)**, [LearnPrompting](https://learnprompting.org/docs/intro), [OpenAI Guide](https://platform.openai.com/docs/guides/prompt-engineering), [LearningPrompt](https://learningprompt.wiki/) or [Jailbreaking ChatGPT](https://arxiv.org/pdf/2305.13860) - Prompting Guides
+* ⭐ **[jailbreakchat](https://www.jailbreakchat.com/)** - Jailbreak Prompts
 * ⭐ **[quickref](https://quickref.me/chatgpt)** - Prompt Cheatsheets
 * [500 Best Prompts](https://puzzle-jute-202.notion.site/500-Best-ChatGPT-Prompts-f5b4ad65deec4b6385316fdb8740af74) - Prompt Directory
 * [UseThisPrompt](https://www.usethisprompt.io/) - Prompt Directory
