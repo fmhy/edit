@@ -218,7 +218,6 @@
 * ⭐ **[Raddle](https://raddle.me/)** / [.onion](http://c32zjeghcp5tj3kb72pltz56piei66drc63vkhn5yixiyk4cmerrjtid.onion/) - Reddit Alt
 * ⭐ **[Saidit](https://saidit.net/)** - Reddit Alt
 * [/r/RedditAlternatives](https://reddit.com/r/RedditAlternatives) - Find Reddit Alternatives
-* [Sqwok](https://sqwok.im/) - Reddit Alt
 * [tildes](https://tildes.net/) - Reddit Alt
 * [Upgoat](https://www.upgoat.net/) - Reddit Alt
 * [Scored](https://communities.win/) - Reddit Alt
