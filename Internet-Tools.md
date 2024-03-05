@@ -605,6 +605,7 @@
 * [Darkness](https://darkness.app/) - Dark Mode
 * [Picture-in-Picture](https://github.com/GoogleChromeLabs/picture-in-picture-chrome-extension) - Picture-in-Picture Mode
 * [OVC](https://chromewebstore.google.com/detail/ovc-one-video-control/analeldnikfgekckpcppegfekineelbb) - Video Controller
+* [Transpose](https://transpose.video/) - Online Video Pitch Shifter, Speed Changer and Looper
 * [Say Play](https://thanesh.dev/say-play) - Video Control Voice Commands
 * [Smart Mute](https://chromewebstore.google.com/detail/smart-mute/apadglapdamclpaedknbefnbcajfebgh) - Tab Mute Manager
 * [Audio Capture](https://github.com/arblast/Chrome-Audio-Capturer) - Audio Recorder
