@@ -15104,9 +15104,6 @@ import Index from './.vitepress/theme/Posts.vue'
 * [raylib technologie](https://raylibtech.itch.io/), [bookmarks](https://github.com/MorganGeek/bookmarks) or [Every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) - Software Development Tools
 * [Theos](https://theos.dev/) - Program Build System / [GitHub](https://github.com/theos/theos) / [Jailed Tweaks](https://github.com/kabiroberai/theos-jailed/wiki/Installation)
 * [New Software](https://github.com/ardalis/new-software-project-checklist) - Project Decision Checklist
-* [Servo](https://servo.org/) - Experimental Browser Engine
-* [Gummy](https://gummyjs.vercel.app/) - Easily Build Javascript Programs
-* [NASM](https://www.nasm.us/) - Program Assembler
 * [Radicle](https://radicle.xyz/) - P2P Software Development
 * [MSYS2](https://www.msys2.org/) - Windows Software Creator
 * [Pakkly](https://pakkly.com/) - Desktop App Deployment
@@ -15123,7 +15120,6 @@ import Index from './.vitepress/theme/Posts.vue'
 * [Gooey](https://github.com/chriskiehl/Gooey) - Convert Python Command Line to GUI
 * [mitmproxy](https://github.com/mitmproxy/mitmproxy) - HTTP Proxy
 * [BugSnag](https://www.bugsnag.com/) - Application Stability Monitor
-* [Kubeorbit](https://github.com/teamcode-inc/kubeorbit) - Application Testing / Debugging
 * [Inno Setup](https://jrsoftware.org/isinfo.php) or [InstallForge](https://www.installforge.net/) - Create Installation Programs
 * [Sparkle](https://github.com/sparkle-project/Sparkle) - MacOS Update Framework
 * [TextBase](https://www.textbase.ai/) - AI Chatbot Framework 
