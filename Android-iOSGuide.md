@@ -178,38 +178,6 @@
 * [FreezeYou](https://www.freezeyou.net/en-US/), [SuperFreezZ](https://superfreezz.gitlab.io/), [BatteryTool](https://github.com/Domi04151309/BatteryTool) or [Drowser](https://gitlab.com/juanitobananas/drowser) - Freeze App Background Activities
 * [Pixoff](https://play.google.com/store/apps/details?id=com.urysoft.pixelfilter) - Save Battery by Turning Off Pixels
 * [FreezeYou](https://www.freezeyou.net/en-US/), [SuperFreezZ](https://superfreezz.gitlab.io/), [BatteryTool](https://github.com/Domi04151309/BatteryTool) or [Drowser](https://gitlab.com/juanitobananas/drowser) - Freeze App Background Activities
- 
-***
-
-## ▷ File Tools
-
-* ⭐ **[MiXplorer](https://mixplorer.com/)**, [2](https://forum.xda-developers.com/t/app-2-2-mixplorer-v6-x-released-fully-featured-file-manager.1523691/)- Advanced Root File Explorer / [Themes](https://play.google.com/store/apps/details?id=de.dertyp7214.mixplorerthemecreator) 
-* ⭐ **[SyncThing](https://github.com/Catfriend1/syncthing-android)** - File Sync
-* ⭐ **[Snapdrop Android](https://github.com/fm-sys/snapdrop-android)** - File Sync
-* ⭐ **[Octi](https://github.com/d4rken-org/octi)** - File Sync
-* [Jdownloader](https://my.jdownloader.org/), [1DM](https://play.google.com/store/apps/details?id=idm.internet.download.manager.adm.lite), [FDM](https://play.google.com/store/apps/details?id=org.freedownloadmanager.fdm) or [Navi](https://github.com/TachibanaGeneralLaboratories/download-navi) - Download File Managers
-* [UnLim](https://play.google.com/store/apps/details?id=com.kratosle.unlim&gl=US) - Cloud Storage
-* [Round Sync](https://github.com/newhinton/Round-Sync), [MetaCTRL](https://metactrl.com/) or [FolderSync](https://www.tacit.dk/) - Multi-Site Cloud Storage File Managers
-* [dropbox](https://www.dropbox.com/) / [Sync](https://play.google.com/store/apps/details?id=com.ttxapps.dropsync) / [GUI](https://github.com/howeyc/crocgui) - Cloud Storage
-* [Clipt](https://play.google.com/store/apps/details?id=studio.onelab.clipboard) - File Sync
-* [InShare](https://play.google.com/store/apps/details?id=sharefiles.sharemusic.shareapps.filetransfer) - File Sync
-* [Arc](https://play.google.com/store/apps/details?id=com.quadren.arc) - File Sync
-* [syncopoli](https://gitlab.com/fengshaun/syncopoli) - File Sync
-* [ShareX](https://github.com/akanshSirohi/ShareX) - File Sync
-* [Save n Device](https://github.com/lmj0011/save-on-device) - File Sync
-* [Nearby Share](https://www.android.com/better-together/quick-share-app//) - File Sync
-* [DriveSync](https://play.google.com/store/apps/details?id=com.ttxapps.drivesync) - Google Drive Sync
-* [Ghost Commander](https://sourceforge.net/projects/ghostcommander/) - Classic Dual-Panel Android File Explorer
-* [Material Files](https://github.com/zhanghai/MaterialFiles) - Lightweight And Linux-Aware File Explorer 
-* [Cx File Explorer](https://play.google.com/store/apps/details?id=com.cxinventor.file.explorer) - Full Feature App For Local And Cloud Storage
-* [IrkFM](https://github.com/lfuelling/lrkFM) - Open Source File Explorer
-* [Adebar](https://codeberg.org/izzy/Adebar), [Android-DataBackup](https://github.com/XayahSuSuSu/Android-DataBackup), [Swift Backup](https://swiftapps.org/), [Neo Backup](https://github.com/NeoApplications/Neo-Backup) - Device Backup Tools
-* [Folder in Folder](https://play.google.com/store/apps/details?id=com.ss.folderinfolder) - Create Subfolders
-* [Marc Files](https://play.google.com/store/apps/details?id=com.marc.files) - File Manager Shortcut
-* [SD Maid SE](https://github.com/d4rken-org/sdmaid-se) - File Manager / Data Cleaner
-* [ZipXtract](https://github.com/WirelessAlien/ZipXtract) - Unrar / Zip File App
-* [Hash Droid](https://play.google.com/store/apps/details?id=com.hobbyone.HashDroid) or [Hask Checker](https://hash-checker.github.io/hash-checker.io/) - File Hash Checkers
-* [HexViewer](https://github.com/Keidan/HexViewer) - Hex Viewer
 
 ***
 
@@ -521,6 +489,38 @@
 * [WiFiman](https://play.google.com/store/apps/details?id=com.ubnt.usurvey), [WiFiAnalyzer](https://vremsoftwaredevelopment.github.io/WiFiAnalyzer/) or [WLANScanner](https://github.com/bewue/WLANScanner) - Network Scanners
 * [Fing](https://www.fing.com/products/fing-app) - Network Toolkit
 * [MACsposed](https://github.com/DavidBerdik/MACsposed) - Mac Address Spoofing
+
+***
+
+## ▷ File Tools
+
+* ⭐ **[MiXplorer](https://mixplorer.com/)**, [2](https://forum.xda-developers.com/t/app-2-2-mixplorer-v6-x-released-fully-featured-file-manager.1523691/)- Advanced Root File Explorer / [Themes](https://play.google.com/store/apps/details?id=de.dertyp7214.mixplorerthemecreator) 
+* ⭐ **[SyncThing](https://github.com/Catfriend1/syncthing-android)** - File Sync
+* ⭐ **[Snapdrop Android](https://github.com/fm-sys/snapdrop-android)** - File Sync
+* ⭐ **[Octi](https://github.com/d4rken-org/octi)** - File Sync
+* [Jdownloader](https://my.jdownloader.org/), [1DM](https://play.google.com/store/apps/details?id=idm.internet.download.manager.adm.lite), [FDM](https://play.google.com/store/apps/details?id=org.freedownloadmanager.fdm) or [Navi](https://github.com/TachibanaGeneralLaboratories/download-navi) - Download File Managers
+* [UnLim](https://play.google.com/store/apps/details?id=com.kratosle.unlim&gl=US) - Cloud Storage
+* [Round Sync](https://github.com/newhinton/Round-Sync), [MetaCTRL](https://metactrl.com/) or [FolderSync](https://www.tacit.dk/) - Multi-Site Cloud Storage File Managers
+* [dropbox](https://www.dropbox.com/) / [Sync](https://play.google.com/store/apps/details?id=com.ttxapps.dropsync) / [GUI](https://github.com/howeyc/crocgui) - Cloud Storage
+* [Clipt](https://play.google.com/store/apps/details?id=studio.onelab.clipboard) - File Sync
+* [InShare](https://play.google.com/store/apps/details?id=sharefiles.sharemusic.shareapps.filetransfer) - File Sync
+* [Arc](https://play.google.com/store/apps/details?id=com.quadren.arc) - File Sync
+* [syncopoli](https://gitlab.com/fengshaun/syncopoli) - File Sync
+* [ShareX](https://github.com/akanshSirohi/ShareX) - File Sync
+* [Save n Device](https://github.com/lmj0011/save-on-device) - File Sync
+* [Nearby Share](https://www.android.com/better-together/quick-share-app//) - File Sync
+* [DriveSync](https://play.google.com/store/apps/details?id=com.ttxapps.drivesync) - Google Drive Sync
+* [Ghost Commander](https://sourceforge.net/projects/ghostcommander/) - Classic Dual-Panel Android File Explorer
+* [Material Files](https://github.com/zhanghai/MaterialFiles) - Lightweight And Linux-Aware File Explorer 
+* [Cx File Explorer](https://play.google.com/store/apps/details?id=com.cxinventor.file.explorer) - Full Feature App For Local And Cloud Storage
+* [IrkFM](https://github.com/lfuelling/lrkFM) - Open Source File Explorer
+* [Adebar](https://codeberg.org/izzy/Adebar), [Android-DataBackup](https://github.com/XayahSuSuSu/Android-DataBackup), [Swift Backup](https://swiftapps.org/), [Neo Backup](https://github.com/NeoApplications/Neo-Backup) - Device Backup Tools
+* [Folder in Folder](https://play.google.com/store/apps/details?id=com.ss.folderinfolder) - Create Subfolders
+* [Marc Files](https://play.google.com/store/apps/details?id=com.marc.files) - File Manager Shortcut
+* [SD Maid SE](https://github.com/d4rken-org/sdmaid-se) - File Manager / Data Cleaner
+* [ZipXtract](https://github.com/WirelessAlien/ZipXtract) - Unrar / Zip File App
+* [Hash Droid](https://play.google.com/store/apps/details?id=com.hobbyone.HashDroid) or [Hask Checker](https://hash-checker.github.io/hash-checker.io/) - File Hash Checkers
+* [HexViewer](https://github.com/Keidan/HexViewer) - Hex Viewer
 
 ***
 
