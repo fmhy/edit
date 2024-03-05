@@ -127,61 +127,119 @@
 
 ***
 
-# ► Android Tools
-
-## ▷ Android Device
+# ► Android Device
 
 * 🌐 **[Manufacturer Specific](https://rentry.org/ekrw4)** - Manufacturer Specific Mobile Tools
-* ↪️ **[Device Comparisons](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25BA_shopping)**
 * ⭐ **[XDA](https://forum.xda-developers.com/)** - Android Discussion Forum
 * ⭐ [ADBAppControl](https://adbappcontrol.com/en/) - Android Device Manager / Root Tool
 * ⭐ **[scrcpy](https://github.com/Genymobile/scrcpy)**, [PlainApp](https://github.com/ismartcoding/plain-app), [anl](https://anl.ink/), [WebADB](https://app.webadb.com/) or [QtScrcpy](https://github.com/barry-ran/QtScrcpy) - Control Android via Desktop / [GUI](https://guiscrcpy.srev.in/)
-* ⭐ **[ntfy](https://ntfy.sh/)**, [AppRise](https://github.com/caronc/apprise), [PingMe](https://github.com/kha7iq/pingme) or [Notification Maker](https://play.google.com/store/apps/details?id=com.wagner.valentin.notificationmaker2) - Custom Push Notifications
-* ⭐ **[Magisk](https://github.com/topjohnwu/Magisk)**, [KernelSU](https://kernelsu.org/), [Magisk Monet](https://github.com/pranshoe/Magisk-Monet), [MagiskOnWSALocal](https://github.com/LSPosed/MagiskOnWSALocal), [Pixel Launcher](https://github.com/saitamasahil/Pixel-Launcher-Extended) or [Mtk Easy Su](https://github.com/JunioJsv/mtk-easy-su) - Android Root Tools
-* ⭐ **Magisk Tools** - [Manager](https://github.com/MRepoApp/MRepo/) / [Mods](https://t.me/magiskmod_update) / [Support Layer](https://github.com/axonasif/rusty-magisk) / [SafetyNet Fix](https://github.com/chiteroman/PlayIntegrityFix) / [SafetyNet Fix Guide](https://xdaforums.com/t/module-play-integrity-fix-safetynet-fix.4607985/page-177#post-89189572) / [Modules](https://www.androidacy.com/magisk-modules-repository/) / [Alt Repo](https://github.com/Magisk-Modules-Alt-Repo)
-* [Spectrum Ownership Map](https://specmap.sequence-omega.net/) - Mobile Network Comparisons
 * [Plexus](https://plexus.techlore.tech/) - De-googled Device Compatibility
 * [Automate](https://llamalab.com/automate/) or [AutomateIt](https://www.automateitapp.com/) - Android Automation
 * [AVNC](https://github.com/gujjwal00/avnc) or [DroidVNC-NG](https://github.com/bk138/droidVNC-NG) - Remote Desktop Clients / VNC
-* [ClassicPowerMenu](https://github.com/KieronQuinn/ClassicPowerMenu) - Android Power Menu Replacement / Needs Root
-* [debloat-android](https://christitus.com/debloat-android/) or [Uninstall Bloatware](https://www.xda-developers.com/uninstall-carrier-oem-bloatware-without-root-access/) - Android Debloating Guides
-* [Canta](https://github.com/samolego/Canta), [Universal Android Debloater](https://forum.xda-developers.com/t/script-2020-10-04-v2-7-universal-android-debloater.4069209/) / [GUI](https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation) or [De-Bloater](https://sunilpaulmathew.github.io/De-Bloater/) - Android Debloaters
 * [DetoxDroid](https://github.com/flxapps/DetoxDroid) - Make Your Phone Less Distracting
-* [Hail](https://github.com/aistra0528/Hail) - Auto-Deactivate Unused Apps / Needs Root
-* [Blocker](https://github.com/lihenggui/blocker) - Component Controller
-* [Jdownloader](https://my.jdownloader.org/), [1DM](https://play.google.com/store/apps/details?id=idm.internet.download.manager.adm.lite), [FDM](https://play.google.com/store/apps/details?id=org.freedownloadmanager.fdm) or [Navi](https://github.com/TachibanaGeneralLaboratories/download-navi) - Download File Managers
-* [Adebar](https://codeberg.org/izzy/Adebar), [Android-DataBackup](https://github.com/XayahSuSuSu/Android-DataBackup), [Swift Backup](https://swiftapps.org/), [Neo Backup](https://github.com/NeoApplications/Neo-Backup) - Device Backup Tools
-* [shouko](https://github.com/ivaniskandar/shouko) or [Tweaker](https://github.com/zacharee/Tweaker) - Android System Tweaks / Features
-* [FreezeYou](https://www.freezeyou.net/en-US/), [SuperFreezZ](https://superfreezz.gitlab.io/), [BatteryTool](https://github.com/Domi04151309/BatteryTool) or [Drowser](https://gitlab.com/juanitobananas/drowser) - Freeze App Background Activities
-* [Red Moon](https://github.com/LibreShift/red-moon) or [NightOwl](https://play.google.com/store/apps/details?id=com.evezzon.nightowl) - Screen Brightness Control
-* [OLEDBuddy](https://play.google.com/store/apps/details?id=me.mikecroall.oledbuddy) - Fix OLED Images
-* [G-CPU](https://play.google.com/store/apps/details?id=com.insideinc.gcpu) - Hardware Monitor
-* [Electron](https://play.google.com/store/apps/details?id=com.mahersafadi.electron), [SaverTuner](https://codeberg.org/s1m/savertuner), [Charge Meter](https://play.google.com/store/apps/details?id=dev.km.android.chargemeter), [BatteryGuru](https://rentry.co/FMHYBase64#battery-guru), [Batt](https://gitlab.com/narektor/batt), [aBattery](https://play.google.com/store/apps/details?id=me.linshen.abattery) or [AccuBattery](https://play.google.com/store/apps/details?id=com.digibites.accubattery) - Battery Monitors / Managers
-* [Pixoff](https://play.google.com/store/apps/details?id=com.urysoft.pixelfilter) - Save Battery by Turning Off Pixels
-* [DataMonitor](https://github.com/itsdrnoob/DataMonitor) - Data Usage Monitor
-* [Compass QS Tile](https://github.com/WSTxda/Compass-QS-Tile) or [QuickTiles](https://gitlab.com/asdoi/quick-tiles) - Quick Setting Tiles
-* [auto-auto-rotate](https://gitlab.com/juanitobananas/auto-auto-rotate) - Per App Rotation Settings
 * [ApkShellExt2](https://www.apkshellext.com/) - Desktop App Manager
-* [Marc Files](https://play.google.com/store/apps/details?id=com.marc.files) - File Manager Shortcut
-* [SD Maid SE](https://github.com/d4rken-org/sdmaid-se) - File Manager / Data Cleaner
-* [Gesture Suite](https://play.google.com/store/apps/details?id=com.gesture.suite) or [Fluid Gestures](https://play.google.com/store/apps/details?id=com.fb.fluid) - Android Gestures
-* [Smartspacer](https://github.com/KieronQuinn/Smartspacer) - Custom Android at a Glance Widget
-* [Tap Tap Double Tap](https://forum.xda-developers.com/t/app-beta-0-10-1-tap-tap-double-tap-on-back-of-device-gesture-from-android-11-port.4140573/) or [TapTap](https://github.com/KieronQuinn/TapTap) - Android Back Gesture Controls / Needs Root
-* [Quick Cursor](https://play.google.com/store/apps/details?id=com.quickcursor) - Cursor for Large Smartphones
-* [Caffeine](https://lab.zhs.moe/caffeine/) - Keep Screen On
-* [FakeStandby](https://fakestandby.jonasbernard.de/) - Turn Off Screen While App is Running
-* [WaveUp](https://gitlab.com/juanitobananas/wave-up) - Turn On Display via Waving
-* [Pinnit](https://github.com/msasikanth/pinnit) - Notification Pinning
-* [B.D.T](https://bdt.jepfa.de/) - Time with Between Time Notifications
-* [TidyPanel](https://play.google.com/store/apps/details?id=com.dharmapoudel.tidypanel) - Notification Blocker
-* [Inware](https://play.google.com/store/apps/details?id=com.evo.inware) - Device Specifications
-* [Castro](https://play.google.com/store/apps/details?id=com.itemstudio.castro), [Device Info HW](https://play.google.com/store/apps/details?id=ru.andr7e.deviceinfohw) or [SysLog](https://github.com/Tortel/SysLog) - View System Information
-* [GearJail](https://gearjail.neocities.org/), [Techbone](https://www.techbone.net/) or [LunarEclipseCode](https://lunareclipsecode.github.io/engrc-3500-team2/content/intro.html) - Android Guides / Resources
 * [GSMHosting](https://forum.gsmhosting.com/vbb/) - GSM Discussion Forum
 * [VMOS](https://www.vmos.com/) or [x8sb](https://x8sb.com/) - Android on Android Virtual Machines
 * [qPython](https://github.com/qpython-android/qpython) - Python for Android
 * [EtchDroid](https://etchdroid.app/) - Write OS Images to USB Drive
 * [Winlator](https://github.com/brunodev85/winlator) - Android Windows Emulators
+* [Fire Toolbox](https://forum.xda-developers.com/t/windows-tool-fire-toolbox-v12-0.3889604/) - Fire Tablet Tools
+
+***
+
+## ▷ Battery Tools
+
+* [Electron](https://play.google.com/store/apps/details?id=com.mahersafadi.electron), [SaverTuner](https://codeberg.org/s1m/savertuner), [Charge Meter](https://play.google.com/store/apps/details?id=dev.km.android.chargemeter), [BatteryGuru](https://rentry.co/FMHYBase64#battery-guru), [Batt](https://gitlab.com/narektor/batt), [aBattery](https://play.google.com/store/apps/details?id=me.linshen.abattery) or [AccuBattery](https://play.google.com/store/apps/details?id=com.digibites.accubattery) - Battery Monitors / Managers
+* [Pixoff](https://play.google.com/store/apps/details?id=com.urysoft.pixelfilter) - Save Battery by Turning Off Pixels
+* [FreezeYou](https://www.freezeyou.net/en-US/), [SuperFreezZ](https://superfreezz.gitlab.io/), [BatteryTool](https://github.com/Domi04151309/BatteryTool) or [Drowser](https://gitlab.com/juanitobananas/drowser) - Freeze App Background Activities
+ 
+***
+
+## ▷ File Tools
+
+* [Jdownloader](https://my.jdownloader.org/), [1DM](https://play.google.com/store/apps/details?id=idm.internet.download.manager.adm.lite), [FDM](https://play.google.com/store/apps/details?id=org.freedownloadmanager.fdm) or [Navi](https://github.com/TachibanaGeneralLaboratories/download-navi) - Download File Managers
+* [Adebar](https://codeberg.org/izzy/Adebar), [Android-DataBackup](https://github.com/XayahSuSuSu/Android-DataBackup), [Swift Backup](https://swiftapps.org/), [Neo Backup](https://github.com/NeoApplications/Neo-Backup) - Device Backup Tools
+* [Folder in Folder](https://play.google.com/store/apps/details?id=com.ss.folderinfolder) - Create Subfolders
+* [Marc Files](https://play.google.com/store/apps/details?id=com.marc.files) - File Manager Shortcut
+* [SD Maid SE](https://github.com/d4rken-org/sdmaid-se) - File Manager / Data Cleaner
+* [ZipXtract](https://github.com/WirelessAlien/ZipXtract) - Unrar / Zip File App
+* [Hash Droid](https://play.google.com/store/apps/details?id=com.hobbyone.HashDroid) or [Hask Checker](https://hash-checker.github.io/hash-checker.io/) - File Hash Checkers
+* [HexViewer](https://github.com/Keidan/HexViewer) - Hex Viewer
+
+***
+
+## ▷ Keyboard Tools
+
+* [openboard](https://github.com/openboard-team/openboard), [Flickboard](https://github.com/nightkr/flickboard), [Thumb-Key](https://github.com/dessalines/thumb-key) or [Unexpected Keyboard](https://github.com/Julow/Unexpected-Keyboard) - Keyboard Apps
+* [Sayboard](https://github.com/ElishaAz/Sayboard) - AI Voice Keyboard
+* [Grammarly](https://rentry.co/FMHYBase64#grammarly-keyboard-premium) - Grammarly Keyboard Premium
+* [UnicodePad](https://github.com/Ryosuke839/UnicodePad) or [Kaomoji](https://play.google.com/store/apps/details?id=ru.kaomoji.kaomojiapp) - Emoji / Unicode Manager
+* [emojimix](https://play.google.com/store/apps/details?id=net.tikolu.emojimix) - Combine Emojis
+* [Memory Guardian](https://github.com/hashemi-hossein/memory-guardian), [Clipboard CopyPaste](https://www.evvasoft.com/ccp.html) or [Clipboard History](https://play.google.com/store/apps/details?id=com.rubbishcollector.clipboardhistory) - Clipboard Managers
+* [Irregular Expressions](https://play.google.com/store/apps/details?id=mf.asciitext.lite) - Text Font Generator
+* [FlutterMarkdownEditor](https://github.com/adeeteya/FlutterMarkdownEditor) - Markdown Editor
+* [Take Notes](https://github.com/the-rebooted-coder/Take-Notes) - Convert Text to Handwritten Notes
+* [OpenNoteScanner](https://github.com/allgood/OpenNoteScanner) - Convert Handwritten Notes to Text
+
+***
+
+## ▷ Notification / Widgets Tools
+
+* ⭐ **[ntfy](https://ntfy.sh/)**, [AppRise](https://github.com/caronc/apprise), [PingMe](https://github.com/kha7iq/pingme) or [Notification Maker](https://play.google.com/store/apps/details?id=com.wagner.valentin.notificationmaker2) - Custom Push Notifications
+* [Compass QS Tile](https://github.com/WSTxda/Compass-QS-Tile) or [QuickTiles](https://gitlab.com/asdoi/quick-tiles) - Quick Setting Tiles
+* [Smartspacer](https://github.com/KieronQuinn/Smartspacer) - Custom Android at a Glance Widget
+* [Pinnit](https://github.com/msasikanth/pinnit) - Notification Pinning
+* [B.D.T](https://bdt.jepfa.de/) - Time with Between Time Notifications
+* [TidyPanel](https://play.google.com/store/apps/details?id=com.dharmapoudel.tidypanel) - Notification Blocker
+* [ClassicPowerMenu](https://github.com/KieronQuinn/ClassicPowerMenu) - Android Power Menu Replacement / Needs Root
+
+***
+
+## ▷ Screen Tools
+
+* [Red Moon](https://github.com/LibreShift/red-moon) or [NightOwl](https://play.google.com/store/apps/details?id=com.evezzon.nightowl) - Screen Brightness Control
+* [OLEDBuddy](https://play.google.com/store/apps/details?id=me.mikecroall.oledbuddy) - Fix OLED Images
+* [Quick Cursor](https://play.google.com/store/apps/details?id=com.quickcursor) - Cursor for Large Smartphones
+* [Caffeine](https://lab.zhs.moe/caffeine/) - Keep Screen On
+* [FakeStandby](https://fakestandby.jonasbernard.de/) - Turn Off the Screen While App is Running
+* [WaveUp](https://gitlab.com/juanitobananas/wave-up) - Turn On Display via Waving
+* [Gesture Suite](https://play.google.com/store/apps/details?id=com.gesture.suite) or [Fluid Gestures](https://play.google.com/store/apps/details?id=com.fb.fluid) - Android Gestures
+* [Tap Tap Double Tap](https://forum.xda-developers.com/t/app-beta-0-10-1-tap-tap-double-tap-on-back-of-device-gesture-from-android-11-port.4140573/) or [TapTap](https://github.com/KieronQuinn/TapTap) - Android Back Gesture Controls / Needs Root
+
+***
+
+## ▷ Android Optimization Tools
+
+* [debloat-android](https://christitus.com/debloat-android/) or [Uninstall Bloatware](https://www.xda-developers.com/uninstall-carrier-oem-bloatware-without-root-access/) - Android Debloating Guides
+* [Canta](https://github.com/samolego/Canta), [Universal Android Debloater](https://forum.xda-developers.com/t/script-2020-10-04-v2-7-universal-android-debloater.4069209/) / [GUI](https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation) or [De-Bloater](https://sunilpaulmathew.github.io/De-Bloater/) - Android Debloaters
+* [Hail](https://github.com/aistra0528/Hail) - Auto-Deactivate Unused Apps / Needs Root
+* [Blocker](https://github.com/lihenggui/blocker) - Component Controller
+* [shouko](https://github.com/ivaniskandar/shouko) or [Tweaker](https://github.com/zacharee/Tweaker) - Android System Tweaks / Features
+* [GearJail](https://gearjail.neocities.org/), [Techbone](https://www.techbone.net/) or [LunarEclipseCode](https://lunareclipsecode.github.io/engrc-3500-team2/content/intro.html) - Android Guides / Resources
+  
+***
+
+## ▷ Hardware Tools
+
+* ↪️ **[Device Comparisons](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25BA_shopping)**
+* [Spectrum Ownership Map](https://specmap.sequence-omega.net/) - Mobile Network Comparisons
+* [G-CPU](https://play.google.com/store/apps/details?id=com.insideinc.gcpu) - Hardware Monitor
+* [DataMonitor](https://github.com/itsdrnoob/DataMonitor) - Data Usage Monitor
+* [Inware](https://play.google.com/store/apps/details?id=com.evo.inware) - Device Specifications
+* [Castro](https://play.google.com/store/apps/details?id=com.itemstudio.castro), [Device Info HW](https://play.google.com/store/apps/details?id=ru.andr7e.deviceinfohw) or [SysLog](https://github.com/Tortel/SysLog) - View System Information
+* [Swappa](https://swappa.com/imei) or [SickW](https://www.sickw.com/) - IMEI, MEID, ESN Checker
+* [Fix My Speakers](https://fixmyspeakers.com/) - Eject Water from Phone Speakers
+* [Water Resistance Tester](https://play.google.com/store/apps/details?id=com.ray.waterresistancetester) - Test Phones Water Resistance
+* [Tiramisu](https://github.com/polodarb/Flashlight-Tiramisu) or [FlashDim](https://github.com/cyb3rko/flashdim) - Adjust Flashlight Brightness
+* [Prepaid SIM Cards](https://prepaid-data-sim-card.fandom.com/wiki/Prepaid_SIM_with_data) - Prepaid Data SIM Card Wiki
+  
+***
+
+## ▷ Advanced Tools
+
+* ⭐ **[Magisk](https://github.com/topjohnwu/Magisk)**, [KernelSU](https://kernelsu.org/), [Magisk Monet](https://github.com/pranshoe/Magisk-Monet), [MagiskOnWSALocal](https://github.com/LSPosed/MagiskOnWSALocal), [Pixel Launcher](https://github.com/saitamasahil/Pixel-Launcher-Extended) or [Mtk Easy Su](https://github.com/JunioJsv/mtk-easy-su) - Android Root Tools
+* ⭐ **Magisk Tools** - [Manager](https://github.com/MRepoApp/MRepo/) / [Mods](https://t.me/magiskmod_update) / [Support Layer](https://github.com/axonasif/rusty-magisk) / [SafetyNet Fix](https://github.com/chiteroman/PlayIntegrityFix) / [SafetyNet Fix Guide](https://xdaforums.com/t/module-play-integrity-fix-safetynet-fix.4607985/page-177#post-89189572) / [Modules](https://www.androidacy.com/magisk-modules-repository/) / [Alt Repo](https://github.com/Magisk-Modules-Alt-Repo)
+* ⭐ **[Android Docker](https://gist.github.com/FreddieOliveira/efe850df7ff3951cb62d74bd770dce27)** - Run Docker on Android
 * [Root Checker](https://play.google.com/store/apps/details?id=com.joeykrim.rootcheck) - Root Checker
 * [ADB-and-FastbootPlusPlus](https://github.com/K3V1991/ADB-and-FastbootPlusPlus) - ADB / Fastboot Programs
 * [LiveBoot](https://play.google.com/store/apps/details?id=eu.chainfire.liveboot&hl=en_IN) - Logcat / Dmesg Boot Animation
@@ -190,54 +248,40 @@
 * [TWRP Root](https://twrp.me/) / [Telegram](https://t.me/samsung_twrp_root/78379) or [UnofficialTWRP](https://unofficialtwrp.com/) - TWRP Root
 * [SkyHawk](https://skyhawkrecovery.github.io/) / [GitHub](https://github.com/SHRP), [PitchBlack](https://pitchblackrecovery.com/) or [OrangeFox](https://wiki.orangefox.tech/en/home) / [GitHub](https://gitlab.com/OrangeFox/misc/appdev/app) - Custom Recovery Firmware
 * [SmartPack-Kernel-Manager](https://github.com/SmartPack/SmartPack-Kernel-Manager) - Kernel Manager
-* [Swappa](https://swappa.com/imei) or [SickW](https://www.sickw.com/) - IMEI, MEID, ESN Checker
 * [SWAP](https://rentry.co/FMHYBase64#swap) - Create SWAP file without Root
 * [Smali Patcher](https://forum.xda-developers.com/t/module-smali-patcher-7-4.3680053/) - Android System Patcher
 * [Play Integrity API Checker](https://github.com/1nikolas/play-integrity-checker-app) - Device Integrity Checker
 * [Albastuz3d](https://albastuz3d.net/) - Stock Phone ROMs
-* [Bangle.js](https://codeberg.org/Freeyourgadget/Gadgetbridge) - Bridge Android to Bangle.js Smartwatches
-* [Fix My Speakers](https://fixmyspeakers.com/) - Eject Water from Phone Speakers
-* [Water Resistance Tester](https://play.google.com/store/apps/details?id=com.ray.waterresistancetester) - Test Phones Water Resistance
-* [Hash Droid](https://play.google.com/store/apps/details?id=com.hobbyone.HashDroid) or [Hask Checker](https://hash-checker.github.io/hash-checker.io/) - File Hash Checkers
 * [LADB Builds](https://github.com/hyperio546/ladb-builds) or [aShell](https://gitlab.com/sunilpaulmathew/ashell) - ADB Shell
 * [ConnectBOt](https://play.google.com/store/apps/details?id=org.connectbot) - SSH Client
-* [Fire Toolbox](https://forum.xda-developers.com/t/windows-tool-fire-toolbox-v12-0.3889604/) - Fire Tablet Tools
-* [Prepaid SIM Cards](https://prepaid-data-sim-card.fandom.com/wiki/Prepaid_SIM_with_data) - Prepaid Data SIM Card Wiki
 
 ***
+
+# ► Android Tools
 
 ## ▷ Android Utilities
 
 * ↪️ **[Text Editors / To-Do](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_android_note_apps)**
 * ⭐ **[OpenCalc](https://github.com/Darkempire78/OpenCalc)**, [Calculator++](https://play.google.com/store/apps/details?id=org.solovyev.android.calculator), [microMathematics](https://github.com/mkulesh/microMathematics) or [Calculator-inator](https://github.com/prathameshmm02/Calculator-inator) - Calculator Apps
 * ⭐ **[AutomaTag](http://automatag.com/)** or [AutoTagger](https://autotagger.ru/) - Metadata Organizers
-* ⭐ **[Android Docker](https://gist.github.com/FreddieOliveira/efe850df7ff3951cb62d74bd770dce27)** - Run Docker on Android
 * [ConnectYou](https://github.com/you-apps/ConnectYou) - Contacts App
+* [auto-auto-rotate](https://gitlab.com/juanitobananas/auto-auto-rotate) - Per App Rotation Settings
 * [Loyalty Card Locker](https://github.com/brarcher/loyalty-card-locker) or [Catima](https://catima.app/) - Loyalty Card Managers
-* [Folder in Folder](https://play.google.com/store/apps/details?id=com.ss.folderinfolder) - Create Subfolders
 * [Shortcut Maker](https://play.google.com/store/apps/details?id=rk.android.app.shortcutmaker) - Create App Shortcuts
 * [Touch The Notch](https://play.google.com/store/apps/details?id=com.notch.touch) - Use Camera Notch as Button
 * [Shelter](https://gitea.angry.im/PeterCxy/Shelter) or [Insular](https://gitlab.com/secure-system/Insular) - Isolate / Clone Apps
 * [AppBrain](https://www.appbrain.com/) - Analyze Android App Changes
-* [openboard](https://github.com/openboard-team/openboard), [Flickboard](https://github.com/nightkr/flickboard), [Thumb-Key](https://github.com/dessalines/thumb-key) or [Unexpected Keyboard](https://github.com/Julow/Unexpected-Keyboard) - Keyboard Apps
-* [Sayboard](https://github.com/ElishaAz/Sayboard) - AI Voice Keyboard
-* [Grammarly](https://rentry.co/FMHYBase64#grammarly-keyboard-premium) - Grammarly Keyboard Premium
 * [icq](https://icq.com/) - Messaging App
 * [TxtEmNow](https://txtemnow.com/) - Send Anonymous Texts
 * [SMS-IE](https://github.com/tmo1/sms-ie) - Import / Export SMS Messages
 * [Watomatic](https://watomatic.app/) / [Git](https://github.com/adeekshith/watomatic) or [AutoResponder](https://www.autoresponder.ai/) - Chat App Auto-Responders
 * [LightCut](https://play.google.com/store/apps/details?id=com.lightcut.videoeditor), [open-video-editor](https://github.com/devhyper/open-video-editor) or [Vaux](https://play.google.com/store/apps/details?id=com.vaux.vaux_editor) - Video Editors
 * [NotificationDictionary](https://github.com/tirkarthi/NotificationDictionary) - Dictionary App
-* [ZipXtract](https://github.com/WirelessAlien/ZipXtract) - Unrar / Zip File App
 * [Counters](https://play.google.com/store/apps/details?id=rahmouni.neil.counters) - Count Anything
 * [Smart AutoClicker](https://github.com/Nain57/Smart-AutoClicker) - Auto Clicker
 * [Pluma](https://plumareader.com/), [Feeder](https://f-droid.org/en/packages/com.nononsenseapps.feeder/), [Twine](https://github.com/msasikanth/twine), [FeedMe](https://github.com/seazon/FeedMe), [news](https://github.com/bubelov/news) or [ReadYou](https://github.com/Ashinch/ReadYou) - RSS Readers
 * [Arts & Culture](https://play.google.com/store/apps/details?id=com.google.android.apps.cultural) - Explore Art
 * [Pixez](https://github.com/Notsfsssf/pixez-flutter/blob/master/.github/README_en.md) - Japanese Fanart / Pixiv Apps
-* [UnicodePad](https://github.com/Ryosuke839/UnicodePad) or [Kaomoji](https://play.google.com/store/apps/details?id=ru.kaomoji.kaomojiapp) - Emoji / Unicode Manager
-* [emojimix](https://play.google.com/store/apps/details?id=net.tikolu.emojimix) - Combine Emojis
-* [Memory Guardian](https://github.com/hashemi-hossein/memory-guardian), [Clipboard CopyPaste](https://www.evvasoft.com/ccp.html) or [Clipboard History](https://play.google.com/store/apps/details?id=com.rubbishcollector.clipboardhistory) - Clipboard Managers
-* [Irregular Expressions](https://play.google.com/store/apps/details?id=mf.asciitext.lite) - Text Font Generator
 * [wrtn](https://play.google.com/store/apps/details?id=com.wrtn.app) - Free GPT-4 + turbo (ask to speak in english always)
 * [Botify AI](https://botif.ai/) or [Chai](https://www.chai-research.com/) - Roleplaying Chatbots
 * [DeepLAndroid](https://github.com/sakusaku3939/DeepLAndroid), [Arna Translate](https://github.com/MahanRahmati/translate), [Instalate](https://gitlab.com/concept1tech/instalate), [TranslateYou](https://github.com/you-apps/TranslateYou) or [SimplyTranslate](https://github.com/ManeraKai/simplytranslate_mobile) - Translation Apps
@@ -249,8 +293,6 @@
 * [Walkie-Talkie](https://walkie-talkie.io/) or [Codec2 Talkie](https://github.com/sh123/codec2_talkie) - Walkie-Talkie Apps
 * [Git Journal](https://gitjournal.io/) - Mobile Markdown Notes
 * [AndrOpen](https://www.andropenoffice.com/) - Office Suite
-* [Take Notes](https://github.com/the-rebooted-coder/Take-Notes) - Convert Text to Handwritten Notes
-* [OpenNoteScanner](https://github.com/allgood/OpenNoteScanner) - Convert Handwritten Notes to Text
 * [TouchDroid](https://github.com/vitaminncpp/TouchDroid) - Using Android as Mouse / Touch Pad
 * [Raise To Answer](https://github.com/TheLastProject/RaiseToAnswer) - Answer Phone by Raising to Ear
 * [Breezy Weather](https://github.com/breezy-weather/breezy-weather), [Clima](https://codeberg.org/Lacerte/clima), [Rain](https://github.com/DarkMooNight/Rain), [KWeather](https://invent.kde.org/utilities/kweather), [Flux](https://play.google.com/store/apps/details?id=de.bendix.flux) or [OMWeather](https://github.com/woheller69/omweather) - Weather Apps
@@ -275,7 +317,6 @@
 * [Deskreen](https://deskreen.com/lang-en) - Turn Any Device into Secondary Screen / [GitHub](https://github.com/pavlobu/deskreen) 
 * [GeorgieLabs](https://georgielabs.net/) - Use Phone as Wireless Speaker / Headphone Port
 * [WO Mic](https://wolicheng.com/womic/) - Use Phone as Mic
-* [Tiramisu](https://github.com/polodarb/Flashlight-Tiramisu) or [FlashDim](https://github.com/cyb3rko/flashdim) - Adjust Flashlight Brightness
 * [Trail Sense](https://github.com/kylecorry31/Trail-Sense) - Wilderness Survival App
 * [SensorServer](https://github.com/umer0586/SensorServer) - Use Phone as Accelerometer
 * [Haven](https://guardianproject.github.io/haven/) - Motion Detector
@@ -293,8 +334,6 @@
 * [Fuel.io](https://fuel.io/) - Vehicle Fuel Tracking
 * [Unified Remote](https://www.unifiedremote.com/) - Universal Remote
 * [Luna Sea](https://www.lunasea.app/) - Self-Hosted Media Controller
-* [HexViewer](https://github.com/Keidan/HexViewer) - Hex Viewer
-* [FlutterMarkdownEditor](https://github.com/adeeteya/FlutterMarkdownEditor) - Markdown Editor
 * [MGit](https://github.com/maks/MGit) - Git client for Android
 * [GitNex](https://codeberg.org/gitnex/GitNex/) - Forgejo and Gitea client for Android
 * [markdownr](https://github.com/sanzoghenzo/markdownr) - Webpage to Markdown Converter
