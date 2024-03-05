@@ -133,21 +133,18 @@
 * 🌐 **[Manufacturer Specific](https://rentry.org/ekrw4)** - Manufacturer Specific Mobile Tools
 * ↪️ **[Device Comparisons](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25BA_shopping)**
 * ⭐ **[XDA](https://forum.xda-developers.com/)** - Android Discussion Forum
-* ⭐ [ADBAppControl](https://adbappcontrol.com/en/) - Android Device Manager / Root Tool
+* ⭐ **[ADBAppControl](https://adbappcontrol.com/en/)** - Android Device Manager / Root Tool
 * ⭐ **[scrcpy](https://github.com/Genymobile/scrcpy)**, [PlainApp](https://github.com/ismartcoding/plain-app), [anl](https://anl.ink/), [WebADB](https://app.webadb.com/) or [QtScrcpy](https://github.com/barry-ran/QtScrcpy) - Control Android via Desktop / [GUI](https://guiscrcpy.srev.in/)
 * [Plexus](https://plexus.techlore.tech/) - De-googled Device Compatibility
+* [GSMHosting](https://forum.gsmhosting.com/vbb/) - GSM Discussion Forum
 * [Automate](https://llamalab.com/automate/) or [AutomateIt](https://www.automateitapp.com/) - Android Automation
 * [AVNC](https://github.com/gujjwal00/avnc) or [DroidVNC-NG](https://github.com/bk138/droidVNC-NG) - Remote Desktop Clients / VNC
 * [ApkShellExt2](https://www.apkshellext.com/) - Desktop App Manager
 * [Blocker](https://github.com/lihenggui/blocker) - Component Controller
-* [GSMHosting](https://forum.gsmhosting.com/vbb/) - GSM Discussion Forum
-
 * [VMOS](https://www.vmos.com/) or [x8sb](https://x8sb.com/) - Android on Android Virtual Machines
 * [Winlator](https://github.com/brunodev85/winlator) - Android Windows Emulators
-
 * [EtchDroid](https://etchdroid.app/) - Write OS Images to USB Drive
 * [Fire Toolbox](https://forum.xda-developers.com/t/windows-tool-fire-toolbox-v12-0.3889604/) - Fire Tablet Tools
-* [Spectrum Ownership Map](https://specmap.sequence-omega.net/) - Mobile Network Comparisons
 * [G-CPU](https://play.google.com/store/apps/details?id=com.insideinc.gcpu) - Hardware Monitor
 * [DataMonitor](https://github.com/itsdrnoob/DataMonitor) - Data Usage Monitor
 * [Inware](https://play.google.com/store/apps/details?id=com.evo.inware) - Device Specifications
@@ -156,7 +153,6 @@
 * [Fix My Speakers](https://fixmyspeakers.com/) - Eject Water from Phone Speakers
 * [Water Resistance Tester](https://play.google.com/store/apps/details?id=com.ray.waterresistancetester) - Test Phones Water Resistance
 * [Tiramisu](https://github.com/polodarb/Flashlight-Tiramisu) or [FlashDim](https://github.com/cyb3rko/flashdim) - Adjust Flashlight Brightness
-* [Prepaid SIM Cards](https://prepaid-data-sim-card.fandom.com/wiki/Prepaid_SIM_with_data) - Prepaid Data SIM Card Wiki
 
 ***
 
@@ -218,35 +214,7 @@
 
 ***
 
-## ▷ Keyboard Tools
-
-* [openboard](https://github.com/openboard-team/openboard), [Flickboard](https://github.com/nightkr/flickboard), [Thumb-Key](https://github.com/dessalines/thumb-key) or [Unexpected Keyboard](https://github.com/Julow/Unexpected-Keyboard) - Keyboard Apps
-* [Sayboard](https://github.com/ElishaAz/Sayboard) - AI Voice Keyboard
-* [Grammarly](https://rentry.co/FMHYBase64#grammarly-keyboard-premium) - Grammarly Keyboard Premium
-* [UnicodePad](https://github.com/Ryosuke839/UnicodePad) or [Kaomoji](https://play.google.com/store/apps/details?id=ru.kaomoji.kaomojiapp) - Emoji / Unicode Manager
-* [emojimix](https://play.google.com/store/apps/details?id=net.tikolu.emojimix) - Combine Emojis
-* [Memory Guardian](https://github.com/hashemi-hossein/memory-guardian), [Clipboard CopyPaste](https://www.evvasoft.com/ccp.html) or [Clipboard History](https://play.google.com/store/apps/details?id=com.rubbishcollector.clipboardhistory) - Clipboard Managers
-* [Irregular Expressions](https://play.google.com/store/apps/details?id=mf.asciitext.lite) - Text Font Generator
-* [FlutterMarkdownEditor](https://github.com/adeeteya/FlutterMarkdownEditor) - Markdown Editor
-* [Take Notes](https://github.com/the-rebooted-coder/Take-Notes) - Convert Text to Handwritten Notes
-* [OpenNoteScanner](https://github.com/allgood/OpenNoteScanner) - Convert Handwritten Notes to Text
-
-***
-
-## ▷ Screen Tools
-
-* [Red Moon](https://github.com/LibreShift/red-moon) or [NightOwl](https://play.google.com/store/apps/details?id=com.evezzon.nightowl) - Screen Brightness Control
-* [OLEDBuddy](https://play.google.com/store/apps/details?id=me.mikecroall.oledbuddy) - Fix OLED Images
-* [Quick Cursor](https://play.google.com/store/apps/details?id=com.quickcursor) - Cursor for Large Smartphones
-* [Caffeine](https://lab.zhs.moe/caffeine/) - Keep Screen On
-* [FakeStandby](https://fakestandby.jonasbernard.de/) - Turn Off the Screen While App is Running
-* [WaveUp](https://gitlab.com/juanitobananas/wave-up) - Turn On Display via Waving
-* [Gesture Suite](https://play.google.com/store/apps/details?id=com.gesture.suite) or [Fluid Gestures](https://play.google.com/store/apps/details?id=com.fb.fluid) - Android Gestures
-* [Tap Tap Double Tap](https://forum.xda-developers.com/t/app-beta-0-10-1-tap-tap-double-tap-on-back-of-device-gesture-from-android-11-port.4140573/) or [TapTap](https://github.com/KieronQuinn/TapTap) - Android Back Gesture Controls / Needs Root
-
-***
-
-## ▷ Android Camera
+## ▷ Camera Tools
 
 * 🌐 **[Google Lens](https://lens.google/)** - Multiple Camera Tools
 * ⭐ **[Aves](https://github.com/deckerst/aves)**, [Photok](https://github.com/leonlatsch/Photok), [Stingle Photos](https://stingle.org/), [Ente](https://ente.io/), [QuickPic](https://github.com/WSTxda/QP-Gallery-Releases), [UhuruPhotos](https://github.com/savvasdalkitsis/uhuruphotos-android), [Gallery](https://github.com/FossifyOrg/Gallery) or [IacobIonut01](https://github.com/IacobIonut01/Gallery) - Photo / Video Galleries
@@ -282,6 +250,52 @@
 * [Image Searcher](https://play.google.com/store/apps/details?id=sansunsen3.imagesearcher) - Image Search App
 * [AppMockUp](https://app-mockup.com/) - Screenshot Builder
 * [Scrambled Exif](https://gitlab.com/juanitobananas/scrambled-exif/tree/HEAD) or [exif-eraser](https://github.com/Tommy-Geenexus/exif-eraser) - Remove Image Metadata
+
+***
+
+## ▷ Keyboard Tools
+
+* [openboard](https://github.com/openboard-team/openboard), [Flickboard](https://github.com/nightkr/flickboard), [Thumb-Key](https://github.com/dessalines/thumb-key) or [Unexpected Keyboard](https://github.com/Julow/Unexpected-Keyboard) - Keyboard Apps
+* [Sayboard](https://github.com/ElishaAz/Sayboard) - AI Voice Keyboard
+* [Grammarly](https://rentry.co/FMHYBase64#grammarly-keyboard-premium) - Grammarly Keyboard Premium
+* [UnicodePad](https://github.com/Ryosuke839/UnicodePad) or [Kaomoji](https://play.google.com/store/apps/details?id=ru.kaomoji.kaomojiapp) - Emoji / Unicode Manager
+* [emojimix](https://play.google.com/store/apps/details?id=net.tikolu.emojimix) - Combine Emojis
+* [Memory Guardian](https://github.com/hashemi-hossein/memory-guardian), [Clipboard CopyPaste](https://www.evvasoft.com/ccp.html) or [Clipboard History](https://play.google.com/store/apps/details?id=com.rubbishcollector.clipboardhistory) - Clipboard Managers
+* [Irregular Expressions](https://play.google.com/store/apps/details?id=mf.asciitext.lite) - Text Font Generator
+* [FlutterMarkdownEditor](https://github.com/adeeteya/FlutterMarkdownEditor) - Markdown Editor
+* [Take Notes](https://github.com/the-rebooted-coder/Take-Notes) - Convert Text to Handwritten Notes
+* [OpenNoteScanner](https://github.com/allgood/OpenNoteScanner) - Convert Handwritten Notes to Text
+
+***
+
+## ▷ Screen Tools
+
+* [Red Moon](https://github.com/LibreShift/red-moon) or [NightOwl](https://play.google.com/store/apps/details?id=com.evezzon.nightowl) - Screen Brightness Control
+* [OLEDBuddy](https://play.google.com/store/apps/details?id=me.mikecroall.oledbuddy) - Fix OLED Images
+* [Quick Cursor](https://play.google.com/store/apps/details?id=com.quickcursor) - Cursor for Large Smartphones
+* [Caffeine](https://lab.zhs.moe/caffeine/) - Keep Screen On
+* [Red Moon](https://github.com/LibreShift/red-moon) or [NightOwl](https://play.google.com/store/apps/details?id=com.evezzon.nightowl) - Screen Brightness Control
+* [OLEDBuddy](https://play.google.com/store/apps/details?id=me.mikecroall.oledbuddy) - Fix OLED Images
+* [FakeStandby](https://fakestandby.jonasbernard.de/) - Turn Off the Screen While App is Running
+* [WaveUp](https://gitlab.com/juanitobananas/wave-up) - Turn On Display via Waving
+* [Gesture Suite](https://play.google.com/store/apps/details?id=com.gesture.suite) or [Fluid Gestures](https://play.google.com/store/apps/details?id=com.fb.fluid) - Android Gestures
+* [Tap Tap Double Tap](https://forum.xda-developers.com/t/app-beta-0-10-1-tap-tap-double-tap-on-back-of-device-gesture-from-android-11-port.4140573/) or [TapTap](https://github.com/KieronQuinn/TapTap) - Android Back Gesture Controls / Needs Root
+
+***
+
+## ▷ Number / SMS
+
+* [ConnectYou](https://github.com/you-apps/ConnectYou) - Contacts App
+* [android-call-recorder](https://gitlab.com/axet/android-call-recorder) - Call Recorder
+* [Should I Answer?](https://www.shouldianswer.net/), [Yet Another Call Blocker](https://f-droid.org/en/packages/dummydomain.yetanothercallblocker/) / [GitLab](https://gitlab.com/xynngh/YetAnotherCallBlocker), [Silence](https://f-droid.org/packages/me.lucky.silence), [NoPhoneSpam](https://gitlab.com/bitfireAT/NoPhoneSpam) or [Hiya](https://www.hiya.com/) - Block Spam Calls
+* [The National Do Not Call Registry](https://www.donotcall.gov/) - Opt Out of Telemarketing Calls 
+* [Scammer.Info](https://scammer.info/) / [Discord](https://discord.com/invite/nUThJjK) - Scam Numbers Database
+* [Spectrum Ownership Map](https://specmap.sequence-omega.net/) - Mobile Network Comparisons
+* [Prepaid SIM Cards](https://prepaid-data-sim-card.fandom.com/wiki/Prepaid_SIM_with_data) - Prepaid Data SIM Card Wiki
+* [Walkie-Talkie](https://walkie-talkie.io/) or [Codec2 Talkie](https://github.com/sh123/codec2_talkie) - Walkie-Talkie Apps
+* [Raise To Answer](https://github.com/TheLastProject/RaiseToAnswer) - Answer Phone by Raising to Ear
+* [TxtEmNow](https://txtemnow.com/) - Send Anonymous Texts
+* [SMS-IE](https://github.com/tmo1/sms-ie) - Import / Export SMS Messages
 
 ***
 
@@ -328,18 +342,15 @@
 ## ▷ Android Utilities
 
 * ⭐ **[OpenCalc](https://github.com/Darkempire78/OpenCalc)**, [Calculator++](https://play.google.com/store/apps/details?id=org.solovyev.android.calculator), [microMathematics](https://github.com/mkulesh/microMathematics) or [Calculator-inator](https://github.com/prathameshmm02/Calculator-inator) - Calculator Apps
-* ⭐ **[AutomaTag](http://automatag.com/)** or [AutoTagger](https://autotagger.ru/) - Metadata Organizers
-* [ConnectYou](https://github.com/you-apps/ConnectYou) - Contacts App
+* [Breezy Weather](https://github.com/breezy-weather/breezy-weather), [Clima](https://codeberg.org/Lacerte/clima), [Rain](https://github.com/DarkMooNight/Rain), [KWeather](https://invent.kde.org/utilities/kweather), [Flux](https://play.google.com/store/apps/details?id=de.bendix.flux) or [OMWeather](https://github.com/woheller69/omweather) - Weather Apps
+* [LightCut](https://play.google.com/store/apps/details?id=com.lightcut.videoeditor), [open-video-editor](https://github.com/devhyper/open-video-editor) or [Vaux](https://play.google.com/store/apps/details?id=com.vaux.vaux_editor) - Video Editors
 * [auto-auto-rotate](https://gitlab.com/juanitobananas/auto-auto-rotate) - Per App Rotation Settings
 * [Loyalty Card Locker](https://github.com/brarcher/loyalty-card-locker) or [Catima](https://catima.app/) - Loyalty Card Managers
 * [Shortcut Maker](https://play.google.com/store/apps/details?id=rk.android.app.shortcutmaker) - Create App Shortcuts
 * [Touch The Notch](https://play.google.com/store/apps/details?id=com.notch.touch) - Use Camera Notch as Button
 * [Shelter](https://gitea.angry.im/PeterCxy/Shelter) or [Insular](https://gitlab.com/secure-system/Insular) - Isolate / Clone Apps
 * [AppBrain](https://www.appbrain.com/) - Analyze Android App Changes
-* [TxtEmNow](https://txtemnow.com/) - Send Anonymous Texts
-* [SMS-IE](https://github.com/tmo1/sms-ie) - Import / Export SMS Messages
 * [Watomatic](https://watomatic.app/) / [Git](https://github.com/adeekshith/watomatic) or [AutoResponder](https://www.autoresponder.ai/) - Chat App Auto-Responders
-* [LightCut](https://play.google.com/store/apps/details?id=com.lightcut.videoeditor), [open-video-editor](https://github.com/devhyper/open-video-editor) or [Vaux](https://play.google.com/store/apps/details?id=com.vaux.vaux_editor) - Video Editors
 * [NotificationDictionary](https://github.com/tirkarthi/NotificationDictionary) - Dictionary App
 * [Counters](https://play.google.com/store/apps/details?id=rahmouni.neil.counters) - Count Anything
 * [Smart AutoClicker](https://github.com/Nain57/Smart-AutoClicker) - Auto Clicker
@@ -349,16 +360,11 @@
 * [Botify AI](https://botif.ai/) or [Chai](https://www.chai-research.com/) - Roleplaying Chatbots
 * [DeepLAndroid](https://github.com/sakusaku3939/DeepLAndroid), [Arna Translate](https://github.com/MahanRahmati/translate), [Instalate](https://gitlab.com/concept1tech/instalate), [TranslateYou](https://github.com/you-apps/TranslateYou) or [SimplyTranslate](https://github.com/ManeraKai/simplytranslate_mobile) - Translation Apps
 * [FUTO](https://voiceinput.futo.org/) or [Dicio](https://github.com/Stypox/dicio-android) - Voice Assistants
-* [android-call-recorder](https://gitlab.com/axet/android-call-recorder) - Call Recorder
 * [Audio-Recorder](https://gitlab.com/axet/android-audio-recorder/tree/HEAD), [android-audio-recorder](https://gitlab.com/axet/android-audio-recorder) or [Audio Recorder](https://github.com/vivekweb2013/audio-recorder) - Audio Recorders
 * [Noiseun Canceller](https://play.google.com/store/apps/details?id=com.jazibkhan.noiseuncanceller) - Audio Surrounding Recorder
 * [Voiceliner](https://a9.io/voiceliner/) - Voice Memos / [GitHub](https://github.com/maxkrieger/voiceliner)
-* [Walkie-Talkie](https://walkie-talkie.io/) or [Codec2 Talkie](https://github.com/sh123/codec2_talkie) - Walkie-Talkie Apps
 * [TouchDroid](https://github.com/vitaminncpp/TouchDroid) - Using Android as Mouse / Touch Pad
-* [Raise To Answer](https://github.com/TheLastProject/RaiseToAnswer) - Answer Phone by Raising to Ear
-* [Breezy Weather](https://github.com/breezy-weather/breezy-weather), [Clima](https://codeberg.org/Lacerte/clima), [Rain](https://github.com/DarkMooNight/Rain), [KWeather](https://invent.kde.org/utilities/kweather), [Flux](https://play.google.com/store/apps/details?id=de.bendix.flux) or [OMWeather](https://github.com/woheller69/omweather) - Weather Apps
 * [Aftership](https://play.google.com/store/apps/details?id=com.aftership.AfterShip&hl=en&gl=US) - Package Tracker
-* [Microsoft Edge Read Aloud](https://redd.it/l1fdh9) - How to use Microsoft Read Aloud TTS on Android
 * [SuntimesWidget](https://github.com/forrestguice/SuntimesWidget) - Sun / Moon Light Time App
 * [Listy](https://listy.is/) - Create Lists of Anything
 * [Julius.ai](https://julius.ai/) - Data Visualization AI
@@ -373,9 +379,6 @@
 * [FindMyDevice](https://gitlab.com/Nulide/findmydevice), [phonetrack](https://gitlab.com/eneiluj/phonetrack-oc) / [2](https://gitlab.com/eneiluj/phonetrack-android) or [AutoWhatsAppTriggers](https://play.google.com/store/apps/details?id=om.roitman.autowhatsapptriggers) - Track Phones Location
 * [OwnTracks](https://owntracks.org/), [Hauk](https://github.com/bilde2910/Hauk), [Positional](https://play.google.com/store/apps/details?id=app.simple.positional.lite), [GPSCockpit](https://github.com/woheller69/gpscockpit), [GPSTest](https://play.google.com/store/apps/details?id=com.android.gpstest) or [GnssLogger](https://play.google.com/store/apps/details?id=com.google.android.apps.location.gps.gnsslogger) - Track Own Location / GPS
 * [Locus](https://github.com/Myzel394/locus) - E2E Location Sharing
-* [Should I Answer?](https://www.shouldianswer.net/), [Yet Another Call Blocker](https://f-droid.org/en/packages/dummydomain.yetanothercallblocker/) / [GitLab](https://gitlab.com/xynngh/YetAnotherCallBlocker), [Silence](https://f-droid.org/packages/me.lucky.silence), [NoPhoneSpam](https://gitlab.com/bitfireAT/NoPhoneSpam) or [Hiya](https://www.hiya.com/) - Block Spam Calls
-* [The National Do Not Call Registry](https://www.donotcall.gov/) - Opt Out of Telemarketing Calls 
-* [Scammer.Info](https://scammer.info/) / [Discord](https://discord.com/invite/nUThJjK) - Scam Numbers Database
 * [MAPS.ME](https://maps.me/) / [GitHub](https://github.com/mapsme/omim), [Magic Earth](https://www.magicearth.com/) or [OsmAnd](https://osmand.net/) - Offline Maps
 * [EV-Map](https://ev-map.app/) - Electronic Vehicle Charging Map
 * [LavSeeker](https://github.com/woheller69/lavatories) - Public Toilet Map
@@ -700,6 +703,7 @@
 * ⭐ **xManager Tools** - [Friend Activity](https://spotivity.me//) / [Mute Ads](https://play.google.com/store/apps/details?id=live.teekamsuthar.mutify), [2](https://github.com/aghontpi/ad-silence) / [Stats](https://stats.fm/)
 * ⭐ **[InnerTune](https://github.com/z-huang/InnerTune)**, [Namida](https://github.com/namidaco/namida), [RiMusic](https://github.com/fast4x/RiMusic), [Harmony Music](https://github.com/anandnet/Harmony-Music), [SimpMusic](https://simpmusic.tech/), [spmp](https://github.com/toasterofbread/spmp), [ViMusic](https://github.com/vfsfitvnm/ViMusic), [Gyawun](https://jhelumcorp.github.io/) or [Vibe You](https://github.com/SuhasDissa/VibeYou) - YouTube Music Players
 * ⭐ **[Seeker](https://play.google.com/store/apps/details?id=com.companyname.andriodapp1)** - Audio Download App / Soulseek Frontend
+* ⭐ **[AutomaTag](http://automatag.com/)** or [AutoTagger](https://autotagger.ru/) - Metadata Organizers
 * ⭐ **[AudioRelay](https://audiorelay.net/)** - Stream PC Audio to Phone
 * ⭐ **[Pano Scrobbler](https://github.com/kawaiiDango/pano-scrobbler)** - Android Scrobbler
 * [ListenBrainsz](https://github.com/metabrainz/listenbrainz-android) - Music Tracking / Rating
