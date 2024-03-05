@@ -345,7 +345,6 @@
 * [Smart AutoClicker](https://github.com/Nain57/Smart-AutoClicker) - Auto Clicker
 * [Pluma](https://plumareader.com/), [Feeder](https://f-droid.org/en/packages/com.nononsenseapps.feeder/), [Twine](https://github.com/msasikanth/twine), [FeedMe](https://github.com/seazon/FeedMe), [news](https://github.com/bubelov/news) or [ReadYou](https://github.com/Ashinch/ReadYou) - RSS Readers
 * [Arts & Culture](https://play.google.com/store/apps/details?id=com.google.android.apps.cultural) - Explore Art
-* [Pixez](https://github.com/Notsfsssf/pixez-flutter/blob/master/.github/README_en.md) - Japanese Fanart / Pixiv Apps
 * [wrtn](https://play.google.com/store/apps/details?id=com.wrtn.app) - Free GPT-4 + turbo (ask to speak in english always)
 * [Botify AI](https://botif.ai/) or [Chai](https://www.chai-research.com/) - Roleplaying Chatbots
 * [DeepLAndroid](https://github.com/sakusaku3939/DeepLAndroid), [Arna Translate](https://github.com/MahanRahmati/translate), [Instalate](https://gitlab.com/concept1tech/instalate), [TranslateYou](https://github.com/you-apps/TranslateYou) or [SimplyTranslate](https://github.com/ManeraKai/simplytranslate_mobile) - Translation Apps
@@ -478,7 +477,7 @@
 
 * ↪️ **[Android Browsers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_android_browsers)**
 * ⭐ **[Aliucord](https://github.com/Aliucord/Aliucord)** - Modded Discord Clients / [Rich Presence](https://kizzy.vercel.app/)
-* ⭐ **[Voyager](https://github.com/aeharding/voyager)**, [Jerboa](https://github.com/dessalines/jerboa), [LiftOff](https://github.com/liftoff-app/liftoff), [Eternity](https://codeberg.org/Bazsalanszky/Eternity), [Muffed](https://github.com/freshfieldreds/muffed) or [Thunder](https://github.com/thunder-app/thunder) - Lemmy Clients
+* ⭐ **[Voyager](https://github.com/aeharding/voyager)**, [Jerboa](https://github.com/dessalines/jerboa), [Eternity](https://codeberg.org/Bazsalanszky/Eternity), [Muffed](https://github.com/freshfieldreds/muffed) or [Thunder](https://github.com/thunder-app/thunder) - Lemmy Clients
 * ⭐ **[Tusky](https://tusky.app/),** [SubwayTooter](https://github.com/tateisu/SubwayTooter), [Megalodon](https://sk22.github.io/megalodon/) or [Dimett](https://github.com/MateriiApps/Dimett) - Mastodon Clients / [Improved Notifications](https://github.com/LucasGGamerM/moshidon)
 * ⭐ **[KeePassDX](https://www.keepassdx.com/)**, **[BitWarden](https://play.google.com/store/apps/details?id=com.x8bit.bitwarden)**, [Keyspace](https://keyspace.cloud/), [AuthPass](https://authpass.app/), [KeyPass](https://github.com/yogeshpaliyal/KeyPass) or [Keepass2Android](https://github.com/PhilippC/keepass2android) - Password Managers
 * ⭐ **[PairVPN Hotspot](https://pairvpn.com/hotspot)**, [Tetherfi](https://github.com/pyamsoft/tetherfi) or [NetShare](https://netshare.app/) - Create Wi-Fi Hotspots
@@ -501,9 +500,6 @@
 * [BBTV](https://github.com/bttv-android/bttv), [Twire](https://github.com/twireapp/Twire) or [Frosty](https://www.frostyapp.io/) - Twitch Apps
 * [DankChat](https://github.com/flex3r/DankChat) - Talk in Multiple Twitch Chats at Once
 * [Viddit](https://play.google.com/store/apps/details?id=aculix.viddit.downloader) - Reddit Video Downloader
-* [Geddit](https://kaangiray26.github.io/geddit-app/), [Infinity Fork](https://github.com/KhoalaS/Infinity-For-Reddit), [FatBird](https://play.google.com/store/apps/details?id=com.niven.reddit&hl=en_US) - Reddit Clients
-* [Offline Reddit](https://play.google.com/store/apps/details?id=yy.offlinereader) - Offline Reddit Client
-* [RedditOldResponsive](https://git.kaki87.net/KaKi87/userscripts/src/branch/master/redditOldResponsive) - Old Reddit Script
 * [OldLander](https://github.com/OctoNezd/oldlander) - Improve Old Reddit
 * [Updoot](https://updoot.app/) - Reddit Saved Post / Comment Manager
 * [MobiChan](https://github.com/Rukkaitto/mobichan), [Kuroba](https://github.com/K1rakishou/Kuroba-Experimental) / [2](https://github.com/Adamantcheese/Kuroba) or [Chan](https://github.com/moffatman/chan) - 4Chan Apps
