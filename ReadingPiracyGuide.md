@@ -673,7 +673,7 @@
 * ↪️ **[Manga Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_manga_downloaders)**
 * ↪️ **[Raw Manga Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/non-eng#wiki_.25B7_reading10)**
 * ⭐ **[MangaDex](https://mangadex.org/)** - [Downloader](https://github.com/mansuf/mangadex-downloader) / [Script](https://github.com/frozenpandaman/mangadex-dl)
-* ⭐ **[ComicK](https://comick.cc/)**, [2](https://comick.io/) - [Discord](https://discord.gg/comick)
+* ⭐ **[ComicK](https://comick.io/)**, [2](https://comick.cc/) - [Discord](https://discord.gg/comick)
 * ⭐ **[MangaSee](https://mangasee123.com/)**, [2](https://manga4life.com/)
 * ⭐ **[MangaPark](https://mangapark.net/)** - [Discord](https://discord.gg/jctSzUBWyQ)
 * ⭐ **[MangaKatana](https://mangakatana.com/)**
@@ -682,7 +682,7 @@
 * [Nyaa Manga / LNs](https://nyaa.si/?f=0&c=3_0&q=) - Torrents
 * [MangaPiracy](https://discord.gg/ZgMtAyxFSU) - Manga Piracy Server / [Subreddit](https://reddit.com/r/MangaPiracy)
 * [Great Discord Links](https://discord.gg/xAsyVb52a9) or [Mangadex Groups](https://mangadex.org/groups) - Manga Scanlation Groups
-* [Madokami Manga Archive](https://rentry.co/FMHYBase64#madokami)
+* [Madokami](https://wotaku.moe/guides/mado) / [Archive](https://rentry.co/FMHYBase64#madokami)
 * [The Manga Library](https://rentry.co/FMHYBase64#the-manga-library)
 * [MangaBuddy](https://mangabuddy.com)
 * [MangaHere](https://www.mangahere.cc/)
