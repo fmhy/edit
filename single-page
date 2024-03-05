@@ -17218,6 +17218,7 @@ import Index from './.vitepress/theme/Posts.vue'
 * [JustUseApp](https://justuseapp.com/) - Hide App Payments
 * [Amarok Hider](https://github.com/deltazefiro/Amarok-Hider/blob/main/README.md) - Hide Files / Apps
 * [PrivacyBlur](https://privacyblur.app/) - Blur Sensitive Parts of Photos / [GitHub](https://github.com/MATHEMA-GmbH/privacyblur)
+* [Pinball for Android](https://github.com/fexed/Pinball-on-Android) - Space Cadet Pinball
 
 ***
 
@@ -17230,6 +17231,8 @@ import Index from './.vitepress/theme/Posts.vue'
 * ⭐ **[KeePassDX](https://www.keepassdx.com/)**, **[BitWarden](https://play.google.com/store/apps/details?id=com.x8bit.bitwarden)**, [Keyspace](https://keyspace.cloud/), [AuthPass](https://authpass.app/), [KeyPass](https://github.com/yogeshpaliyal/KeyPass) or [Keepass2Android](https://github.com/PhilippC/keepass2android) - Password Managers
 * ⭐ **[PairVPN Hotspot](https://pairvpn.com/hotspot)**, [Tetherfi](https://github.com/pyamsoft/tetherfi) or [NetShare](https://netshare.app/) - Create Wi-Fi Hotspots
 * ⭐ **[Patch Reddit Clients](https://docs.google.com/document/u/0/d/1wHvqQwCYdJrQg4BKlGIVDLksPN0KpOnJWniT6PbZSrI/mobilebasic)** - How To Patch 3rd Party Reddit Clients
+* ⭐ **[Pojav](https://pojavlauncherteam.github.io/)** - Mobile Minecraft Launcher
+* [Mitch](https://sr.ht/~gardenapple/mitch/) - Mobile Frontend for itch.io
 * [PINCredible](https://github.com/cyb3rko/pincredible) - PIN Manager
 * [Link Manager](https://play.google.com/store/apps/details?id=com.michaelflisar.linkmanager) or [Omnivore](https://omnivore.app/) - Bookmark Managers
 * [Surfable](https://surfable.app/) - Install Any Website as App / [GitHub](https://github.com/sandoche/Surfable-app)
@@ -17349,7 +17352,8 @@ import Index from './.vitepress/theme/Posts.vue'
 
 ***
 
-* 🌐 **[Emulator Wiki](https://emulation.gametechwiki.com/index.php/Android_emulators)** - Android Emulator Index
+* 🌐 **[Android Emulators](https://emulation.gametechwiki.com/index.php/Android_emulators)** - Android Emulator Index
+* 🌐 **[Emulators on Android](https://emulation.gametechwiki.com/index.php/Emulators_on_Android)** - Emulators on Android
 * ⭐ **[Termux](https://termux.com/)**, [Limbo](https://github.com/limboemu/limbo) or [TermOne Plus](https://termoneplus.com/) - Terminal Emulators / OS Environments
 * ⭐ **Termux Tools** - [YT-DL](https://github.com/OzakIOne/termux-youtube-dl), [2](https://github.com/khansaad1275/Termux-YTD) / [Video Downloader](https://github.com/AbirHasan2005/LR-YTDL) / [GUI](https://github.com/termux/termux-gui) / [ADB / Fastboot Tools](https://github.com/MasterDevX/Termux-ADB) / [Beautify](https://github.com/mayTermux/myTermux)
 * ⭐ **[WSA](https://rentry.co/wsa)** - Windows Subsystem / [GUI](https://github.com/alesimula/wsa_pacman) / [Win10](https://github.com/cinit/WSAPatch) / [Win11](https://apps.microsoft.com/detail/9n4p75dxl6fg) / [Google Apps](https://github.com/WSA-Community/WSAGAScript)
@@ -17370,18 +17374,8 @@ import Index from './.vitepress/theme/Posts.vue'
 * [Wakuoo](https://wakuoo.com) - [Screenshot](https://i.ibb.co/tMkxvQr/cfaea91031d7.png)
 * [Ubuntu on Android](https://github.com/RandomCoderOrg/ubuntu-on-android) - Ubuntu Android Emulator
 * [mobox](https://github.com/olegos2/mobox) - Run Windows Apps on Android
-
-***
-
-# ► Android Gaming
-
-* 🌐 **[Android Emulators](https://emulation.gametechwiki.com/index.php/Emulators_on_Andr)**
-* ⭐ **[Pojav](https://pojavlauncherteam.github.io/)** - Mobile Minecraft Launcher
-* [GameEye](https://play.google.com/store/apps/details?id=com.hairyharri.gameye) - Video Game Tracking App
-* [JoiPlay](https://joiplay.cyou/) - RPG Maker Game Interpreter
-* [Mitch](https://sr.ht/~gardenapple/mitch/) - Mobile Frontend for itch.io
-* [Pinball for Android](https://github.com/fexed/Pinball-on-Android) - Space Cadet Pinball
 * [FlashLite](https://flashlite.games/) - Flash Emulator / [Discord](https://discord.gg/F2dsGhTX6y)
+* [JoiPlay](https://joiplay.cyou/) - RPG Maker Game Interpreter
 
 ***
 
