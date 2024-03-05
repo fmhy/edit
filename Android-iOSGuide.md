@@ -138,6 +138,7 @@
 * [AVNC](https://github.com/gujjwal00/avnc) or [DroidVNC-NG](https://github.com/bk138/droidVNC-NG) - Remote Desktop Clients / VNC
 * [DetoxDroid](https://github.com/flxapps/DetoxDroid) - Make Your Phone Less Distracting
 * [ApkShellExt2](https://www.apkshellext.com/) - Desktop App Manager
+* [Blocker](https://github.com/lihenggui/blocker) - Component Controller
 * [GSMHosting](https://forum.gsmhosting.com/vbb/) - GSM Discussion Forum
 * [VMOS](https://www.vmos.com/) or [x8sb](https://x8sb.com/) - Android on Android Virtual Machines
 * [qPython](https://github.com/qpython-android/qpython) - Python for Android
@@ -149,20 +150,11 @@
 
 ## ▷ Battery Tools
 
+* [Electron](https://play.google.com/store/apps/details?id=com.mahersafadi.electron), [SaverTuner](https://codeberg.org/s1m/savertuner), [Charge Meter](https://play.google.com/store/apps/details?id=dev.km.android.chargemeter), [BatteryGuru](https://rentry.co/FMHYBase64#battery-guru), [Batt](https://gitlab.com/narektor/batt), [aBattery](https://play.google.com/store/apps/details?id=me.linshen.abattery) or [AccuBattery](https://play.google.com/store/apps/details?id=com.digibites.accubattery) - Battery Monitors / Managers
 * [ClassicPowerMenu](https://github.com/KieronQuinn/ClassicPowerMenu) - Android Power Menu Replacement / Needs Root
-* [debloat-android](https://christitus.com/debloat-android/) or [Uninstall Bloatware](https://www.xda-developers.com/uninstall-carrier-oem-bloatware-without-root-access/) - Android Debloating Guides
-* [Canta](https://github.com/samolego/Canta), [Universal Android Debloater](https://forum.xda-developers.com/t/script-2020-10-04-v2-7-universal-android-debloater.4069209/) / [GUI](https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation) or [De-Bloater](https://sunilpaulmathew.github.io/De-Bloater/) - Android Debloaters
 * [Hail](https://github.com/aistra0528/Hail) - Auto-Deactivate Unused Apps / Needs Root
-* [Blocker](https://github.com/lihenggui/blocker) - Component Controller
-* [Jdownloader](https://my.jdownloader.org/), [1DM](https://play.google.com/store/apps/details?id=idm.internet.download.manager.adm.lite), [FDM](https://play.google.com/store/apps/details?id=org.freedownloadmanager.fdm) or [Navi](https://github.com/TachibanaGeneralLaboratories/download-navi) - Download File Managers
-* [Adebar](https://codeberg.org/izzy/Adebar), [Android-DataBackup](https://github.com/XayahSuSuSu/Android-DataBackup), [Swift Backup](https://swiftapps.org/), [Neo Backup](https://github.com/NeoApplications/Neo-Backup) - Device Backup Tools
 * [shouko](https://github.com/ivaniskandar/shouko) or [Tweaker](https://github.com/zacharee/Tweaker) - Android System Tweaks / Features
 * [FreezeYou](https://www.freezeyou.net/en-US/), [SuperFreezZ](https://superfreezz.gitlab.io/), [BatteryTool](https://github.com/Domi04151309/BatteryTool) or [Drowser](https://gitlab.com/juanitobananas/drowser) - Freeze App Background Activities
-* [Red Moon](https://github.com/LibreShift/red-moon) or [NightOwl](https://play.google.com/store/apps/details?id=com.evezzon.nightowl) - Screen Brightness Control
-* [OLEDBuddy](https://play.google.com/store/apps/details?id=me.mikecroall.oledbuddy) - Fix OLED Images
-* [G-CPU](https://play.google.com/store/apps/details?id=com.insideinc.gcpu) - Hardware Monitor
->>>>>>> main
-* [Electron](https://play.google.com/store/apps/details?id=com.mahersafadi.electron), [SaverTuner](https://codeberg.org/s1m/savertuner), [Charge Meter](https://play.google.com/store/apps/details?id=dev.km.android.chargemeter), [BatteryGuru](https://rentry.co/FMHYBase64#battery-guru), [Batt](https://gitlab.com/narektor/batt), [aBattery](https://play.google.com/store/apps/details?id=me.linshen.abattery) or [AccuBattery](https://play.google.com/store/apps/details?id=com.digibites.accubattery) - Battery Monitors / Managers
 * [Pixoff](https://play.google.com/store/apps/details?id=com.urysoft.pixelfilter) - Save Battery by Turning Off Pixels
 * [FreezeYou](https://www.freezeyou.net/en-US/), [SuperFreezZ](https://superfreezz.gitlab.io/), [BatteryTool](https://github.com/Domi04151309/BatteryTool) or [Drowser](https://gitlab.com/juanitobananas/drowser) - Freeze App Background Activities
  
@@ -170,7 +162,26 @@
 
 ## ▷ File Tools
 
+* ⭐ **[MiXplorer](https://mixplorer.com/)**, [2](https://forum.xda-developers.com/t/app-2-2-mixplorer-v6-x-released-fully-featured-file-manager.1523691/)- Advanced Root File Explorer / [Themes](https://play.google.com/store/apps/details?id=de.dertyp7214.mixplorerthemecreator) 
+* ⭐ **[SyncThing](https://github.com/Catfriend1/syncthing-android)** - File Sync
+* ⭐ **[Snapdrop Android](https://github.com/fm-sys/snapdrop-android)** - File Sync
+* ⭐ **[Octi](https://github.com/d4rken-org/octi)** - File Sync
 * [Jdownloader](https://my.jdownloader.org/), [1DM](https://play.google.com/store/apps/details?id=idm.internet.download.manager.adm.lite), [FDM](https://play.google.com/store/apps/details?id=org.freedownloadmanager.fdm) or [Navi](https://github.com/TachibanaGeneralLaboratories/download-navi) - Download File Managers
+* [UnLim](https://play.google.com/store/apps/details?id=com.kratosle.unlim&gl=US) - Cloud Storage
+* [Round Sync](https://github.com/newhinton/Round-Sync), [MetaCTRL](https://metactrl.com/) or [FolderSync](https://www.tacit.dk/) - Multi-Site Cloud Storage File Managers
+* [dropbox](https://www.dropbox.com/) / [Sync](https://play.google.com/store/apps/details?id=com.ttxapps.dropsync) / [GUI](https://github.com/howeyc/crocgui) - Cloud Storage
+* [Clipt](https://play.google.com/store/apps/details?id=studio.onelab.clipboard) - File Sync
+* [InShare](https://play.google.com/store/apps/details?id=sharefiles.sharemusic.shareapps.filetransfer) - File Sync
+* [Arc](https://play.google.com/store/apps/details?id=com.quadren.arc) - File Sync
+* [syncopoli](https://gitlab.com/fengshaun/syncopoli) - File Sync
+* [ShareX](https://github.com/akanshSirohi/ShareX) - File Sync
+* [Save n Device](https://github.com/lmj0011/save-on-device) - File Sync
+* [Nearby Share](https://www.android.com/better-together/quick-share-app//) - File Sync
+* [DriveSync](https://play.google.com/store/apps/details?id=com.ttxapps.drivesync) - Google Drive Sync
+* [Ghost Commander](https://sourceforge.net/projects/ghostcommander/) - Classic Dual-Panel Android File Explorer
+* [Material Files](https://github.com/zhanghai/MaterialFiles) - Lightweight And Linux-Aware File Explorer 
+* [Cx File Explorer](https://play.google.com/store/apps/details?id=com.cxinventor.file.explorer) - Full Feature App For Local And Cloud Storage
+* [IrkFM](https://github.com/lfuelling/lrkFM) - Open Source File Explorer
 * [Adebar](https://codeberg.org/izzy/Adebar), [Android-DataBackup](https://github.com/XayahSuSuSu/Android-DataBackup), [Swift Backup](https://swiftapps.org/), [Neo Backup](https://github.com/NeoApplications/Neo-Backup) - Device Backup Tools
 * [Folder in Folder](https://play.google.com/store/apps/details?id=com.ss.folderinfolder) - Create Subfolders
 * [Marc Files](https://play.google.com/store/apps/details?id=com.marc.files) - File Manager Shortcut
@@ -196,7 +207,7 @@
 
 ***
 
-## ▷ Notification / Widgets Tools
+## ▷ Notification / Widgets
 
 * ⭐ **[ntfy](https://ntfy.sh/)**, [AppRise](https://github.com/caronc/apprise), [PingMe](https://github.com/kha7iq/pingme) or [Notification Maker](https://play.google.com/store/apps/details?id=com.wagner.valentin.notificationmaker2) - Custom Push Notifications
 * [Compass QS Tile](https://github.com/WSTxda/Compass-QS-Tile) or [QuickTiles](https://gitlab.com/asdoi/quick-tiles) - Quick Setting Tiles
@@ -214,6 +225,8 @@
 * [OLEDBuddy](https://play.google.com/store/apps/details?id=me.mikecroall.oledbuddy) - Fix OLED Images
 * [Quick Cursor](https://play.google.com/store/apps/details?id=com.quickcursor) - Cursor for Large Smartphones
 * [Caffeine](https://lab.zhs.moe/caffeine/) - Keep Screen On
+* [Red Moon](https://github.com/LibreShift/red-moon) or [NightOwl](https://play.google.com/store/apps/details?id=com.evezzon.nightowl) - Screen Brightness Control
+* [OLEDBuddy](https://play.google.com/store/apps/details?id=me.mikecroall.oledbuddy) - Fix OLED Images
 * [FakeStandby](https://fakestandby.jonasbernard.de/) - Turn Off the Screen While App is Running
 * [WaveUp](https://gitlab.com/juanitobananas/wave-up) - Turn On Display via Waving
 * [Gesture Suite](https://play.google.com/store/apps/details?id=com.gesture.suite) or [Fluid Gestures](https://play.google.com/store/apps/details?id=com.fb.fluid) - Android Gestures
@@ -221,7 +234,7 @@
 
 ***
 
-## ▷ Android Optimization Tools
+## ▷ Android Optimization
 
 * [debloat-android](https://christitus.com/debloat-android/) or [Uninstall Bloatware](https://www.xda-developers.com/uninstall-carrier-oem-bloatware-without-root-access/) - Android Debloating Guides
 * [Canta](https://github.com/samolego/Canta), [Universal Android Debloater](https://forum.xda-developers.com/t/script-2020-10-04-v2-7-universal-android-debloater.4069209/) / [GUI](https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation) or [De-Bloater](https://sunilpaulmathew.github.io/De-Bloater/) - Android Debloaters
@@ -229,7 +242,7 @@
 * [Blocker](https://github.com/lihenggui/blocker) - Component Controller
 * [shouko](https://github.com/ivaniskandar/shouko) or [Tweaker](https://github.com/zacharee/Tweaker) - Android System Tweaks / Features
 * [GearJail](https://gearjail.neocities.org/), [Techbone](https://www.techbone.net/) or [LunarEclipseCode](https://lunareclipsecode.github.io/engrc-3500-team2/content/intro.html) - Android Guides / Resources
-  
+
 ***
 
 ## ▷ Hardware Tools
@@ -248,7 +261,7 @@
   
 ***
 
-## ▷ Advanced Tools
+## ▷ Root / Flash
 
 * ⭐ **[Magisk](https://github.com/topjohnwu/Magisk)**, [KernelSU](https://kernelsu.org/), [Magisk Monet](https://github.com/pranshoe/Magisk-Monet), [MagiskOnWSALocal](https://github.com/LSPosed/MagiskOnWSALocal), [Pixel Launcher](https://github.com/saitamasahil/Pixel-Launcher-Extended) or [Mtk Easy Su](https://github.com/JunioJsv/mtk-easy-su) - Android Root Tools
 * ⭐ **Magisk Tools** - [Manager](https://github.com/MRepoApp/MRepo/) / [Mods](https://t.me/magiskmod_update) / [Support Layer](https://github.com/axonasif/rusty-magisk) / [SafetyNet Fix](https://github.com/chiteroman/PlayIntegrityFix) / [SafetyNet Fix Guide](https://xdaforums.com/t/module-play-integrity-fix-safetynet-fix.4607985/page-177#post-89189572) / [Modules](https://www.androidacy.com/magisk-modules-repository/) / [Alt Repo](https://github.com/Magisk-Modules-Alt-Repo)
@@ -492,35 +505,6 @@
 
 ***
 
-## ▷ Android File Sharing
-
-* ⭐ **[SyncThing](https://github.com/Catfriend1/syncthing-android)** - File Sync
-* ⭐ **[Snapdrop Android](https://github.com/fm-sys/snapdrop-android)** - File Sync
-* ⭐ **[Octi](https://github.com/d4rken-org/octi)** - File Sync
-* [UnLim](https://play.google.com/store/apps/details?id=com.kratosle.unlim&gl=US) - Cloud Storage
-* [Round Sync](https://github.com/newhinton/Round-Sync), [MetaCTRL](https://metactrl.com/) or [FolderSync](https://www.tacit.dk/) - Multi-Site Cloud Storage File Managers
-* [dropbox](https://www.dropbox.com/) / [Sync](https://play.google.com/store/apps/details?id=com.ttxapps.dropsync) / [GUI](https://github.com/howeyc/crocgui) - Cloud Storage
-* [Clipt](https://play.google.com/store/apps/details?id=studio.onelab.clipboard) - File Sync
-* [InShare](https://play.google.com/store/apps/details?id=sharefiles.sharemusic.shareapps.filetransfer) - File Sync
-* [Arc](https://play.google.com/store/apps/details?id=com.quadren.arc) - File Sync
-* [syncopoli](https://gitlab.com/fengshaun/syncopoli) - File Sync
-* [ShareX](https://github.com/akanshSirohi/ShareX) - File Sync
-* [Save n Device](https://github.com/lmj0011/save-on-device) - File Sync
-* [Nearby Share](https://www.android.com/better-together/quick-share-app//) - File Sync
-* [DriveSync](https://play.google.com/store/apps/details?id=com.ttxapps.drivesync) - Google Drive Sync
-
-***
-
-## ▷ Android File Explorers
-
-* ⭐ **[MiXplorer](https://mixplorer.com/)**, [2](https://forum.xda-developers.com/t/app-2-2-mixplorer-v6-x-released-fully-featured-file-manager.1523691/)- Advanced Root File Explorer / [Themes](https://play.google.com/store/apps/details?id=de.dertyp7214.mixplorerthemecreator) 
-* [Ghost Commander](https://sourceforge.net/projects/ghostcommander/) - Classic Dual-Panel Android File Explorer
-* [Material Files](https://github.com/zhanghai/MaterialFiles) - Lightweight And Linux-Aware File Explorer 
-* [Cx File Explorer](https://play.google.com/store/apps/details?id=com.cxinventor.file.explorer) - Full Feature App For Local And Cloud Storage
-* [IrkFM](https://github.com/lfuelling/lrkFM) - Open Source File Explorer
-
-***
-
 ## ▷ Android Camera
 
 * 🌐 **[Google Lens](https://lens.google/)** - Multiple Camera Tools
@@ -560,7 +544,7 @@
 
 ***
 
-## ▷ Android Productivity
+## ▷ Productivity / Calendars
 
 * ↪️ **[Text Editors / To-Do](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_android_note_apps)**
 * [Git Journal](https://gitjournal.io/) - Mobile Markdown Notes
