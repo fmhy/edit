@@ -254,7 +254,7 @@
 * [Libre Camera](https://github.com/iakmds/librecamera), [ProofMode](https://gitlab.com/guardianproject/proofmode/proofmode-android) or [Open Camera](https://sourceforge.net/projects/opencamera/) - FOSS Camera Apps
 * [FreeDcam](https://github.com/KillerInk/FreeDcam) or [BlackMagic Camera](https://apps.apple.com/us/app/blackmagic-camera/id6449580241) - Extra Camera Features
 * [RecordYou](https://github.com/you-apps/RecordYou), [notesGPT](https://usenotesgpt.com/) or [AudioNote](https://github.com/certified84/AudioNote) - Video / Voice Recorders
-* [Jitsi](https://jitsi.org/) or [IMO](https://imo.im/) - Video Chat
+* [Jitsi](https://jitsi.org/) - Video Chat
 * [RemoteVideoCam](https://github.com/izivkov/RemoteVideoCam) - Video Lan
 * [Minutiae](https://play.google.com/store/apps/details?id=com.minutiae) or [1 Second Everyday](https://1se.co/) - Video-a-Day App
 * [Alibi](https://github.com/Myzel394/Alibi) - Mobile Dash Cam
@@ -336,7 +336,6 @@
 * [Touch The Notch](https://play.google.com/store/apps/details?id=com.notch.touch) - Use Camera Notch as Button
 * [Shelter](https://gitea.angry.im/PeterCxy/Shelter) or [Insular](https://gitlab.com/secure-system/Insular) - Isolate / Clone Apps
 * [AppBrain](https://www.appbrain.com/) - Analyze Android App Changes
-* [icq](https://icq.com/) - Messaging App
 * [TxtEmNow](https://txtemnow.com/) - Send Anonymous Texts
 * [SMS-IE](https://github.com/tmo1/sms-ie) - Import / Export SMS Messages
 * [Watomatic](https://watomatic.app/) / [Git](https://github.com/adeekshith/watomatic) or [AutoResponder](https://www.autoresponder.ai/) - Chat App Auto-Responders
@@ -360,7 +359,6 @@
 * [Raise To Answer](https://github.com/TheLastProject/RaiseToAnswer) - Answer Phone by Raising to Ear
 * [Breezy Weather](https://github.com/breezy-weather/breezy-weather), [Clima](https://codeberg.org/Lacerte/clima), [Rain](https://github.com/DarkMooNight/Rain), [KWeather](https://invent.kde.org/utilities/kweather), [Flux](https://play.google.com/store/apps/details?id=de.bendix.flux) or [OMWeather](https://github.com/woheller69/omweather) - Weather Apps
 * [Aftership](https://play.google.com/store/apps/details?id=com.aftership.AfterShip&hl=en&gl=US) - Package Tracker
-* [aiTTS](https://www.milmike.com/aitts-google-wavenet-voices-for-android-tts) - Text to Speech
 * [Microsoft Edge Read Aloud](https://redd.it/l1fdh9) - How to use Microsoft Read Aloud TTS on Android
 * [SuntimesWidget](https://github.com/forrestguice/SuntimesWidget) - Sun / Moon Light Time App
 * [Listy](https://listy.is/) - Create Lists of Anything
@@ -579,7 +577,7 @@
 * ↪️ **[Text Editors / To-Do](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_android_note_apps)**
 * [Git Journal](https://gitjournal.io/) - Mobile Markdown Notes
 * [AndrOpen](https://www.andropenoffice.com/) - Office Suite
-* [Smart Alarm](https://play.google.com/store/apps/details?id=com.urbandroid.sleep), [ClockYou](https://github.com/you-apps/ClockYou) or [AlarmClock](https://github.com/yuriykulikov/AlarmClock) - Clocks / Alarms
+* [Sleep as Android](https://sleep.urbandroid.org/), [ClockYou](https://github.com/you-apps/ClockYou) or [AlarmClock](https://github.com/yuriykulikov/AlarmClock) - Clocks / Alarms
 * [Etar](https://github.com/Etar-Group/Etar-Calendar), [JTX](https://jtx.techbee.at/), [digical](https://digibites.nl/digical) or [TimeTreeApp](https://timetreeapp.com/intl/en/) - Calendars
 * [QRAlarm](https://github.com/sweakpl/qralarm-android) - Scan QR Code to Turn Off Alarm
 * [Calendar Notifications](https://play.google.com/store/apps/details?id=com.tuogol.calendar.notification) - View Calendar as Notifications
