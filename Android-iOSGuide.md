@@ -46,6 +46,7 @@
 * [RockMods](https://www.rockmods.net/) / [Telegram](https://t.me/RBMods)
 * [DL King](https://dl.king2net.com/soft%20android/)
 * [APKKit](https://apkkit.com/)
+* [PlatinMods](https://platinmods.com/) - Modded Games
 
 ***
 
@@ -140,10 +141,11 @@
 * [ApkShellExt2](https://www.apkshellext.com/) - Desktop App Manager
 * [Blocker](https://github.com/lihenggui/blocker) - Component Controller
 * [GSMHosting](https://forum.gsmhosting.com/vbb/) - GSM Discussion Forum
+
 * [VMOS](https://www.vmos.com/) or [x8sb](https://x8sb.com/) - Android on Android Virtual Machines
-* [qPython](https://github.com/qpython-android/qpython) - Python for Android
-* [EtchDroid](https://etchdroid.app/) - Write OS Images to USB Drive
 * [Winlator](https://github.com/brunodev85/winlator) - Android Windows Emulators
+
+* [EtchDroid](https://etchdroid.app/) - Write OS Images to USB Drive
 * [Fire Toolbox](https://forum.xda-developers.com/t/windows-tool-fire-toolbox-v12-0.3889604/) - Fire Tablet Tools
 * [Spectrum Ownership Map](https://specmap.sequence-omega.net/) - Mobile Network Comparisons
 * [G-CPU](https://play.google.com/store/apps/details?id=com.insideinc.gcpu) - Hardware Monitor
@@ -538,7 +540,7 @@
 * ⭐ **[SyncThing](https://github.com/Catfriend1/syncthing-android)** - File Sync
 * ⭐ **[Snapdrop Android](https://github.com/fm-sys/snapdrop-android)** - File Sync
 * ⭐ **[Octi](https://github.com/d4rken-org/octi)** - File Sync
-* [Jdownloader](https://my.jdownloader.org/), [1DM](https://play.google.com/store/apps/details?id=idm.internet.download.manager.adm.lite), [FDM](https://play.google.com/store/apps/details?id=org.freedownloadmanager.fdm) or [Navi](https://github.com/TachibanaGeneralLaboratories/download-navi) - Download File Managers
+* ⭐ **[Aria2App](https://github.com/devgianlu/Aria2App)**, [Jdownloader](https://my.jdownloader.org/), [1DM](https://play.google.com/store/apps/details?id=idm.internet.download.manager.adm.lite), [FDM](https://play.google.com/store/apps/details?id=org.freedownloadmanager.fdm) or [Navi](https://github.com/TachibanaGeneralLaboratories/download-navi) - Download Managers
 * [UnLim](https://play.google.com/store/apps/details?id=com.kratosle.unlim&gl=US) - Cloud Storage
 * [Round Sync](https://github.com/newhinton/Round-Sync), [MetaCTRL](https://metactrl.com/) or [FolderSync](https://www.tacit.dk/) - Multi-Site Cloud Storage File Managers
 * [dropbox](https://www.dropbox.com/) / [Sync](https://play.google.com/store/apps/details?id=com.ttxapps.dropsync) / [GUI](https://github.com/howeyc/crocgui) - Cloud Storage
@@ -628,8 +630,8 @@
 # ► Android Gaming
 
 * ⭐ **[Pojav](https://pojavlauncherteam.github.io/)** - Mobile Minecraft Launcher
+* 🌐 **[Android Emulators](https://emulation.gametechwiki.com/index.php/Emulators_on_Andr)**
 * [GameEye](https://play.google.com/store/apps/details?id=com.hairyharri.gameye) - Video Game Tracking App
-* [PlatinMods](https://platinmods.com/) - Modded / Private Game Servers
 * [JoiPlay](https://joiplay.cyou/) - RPG Maker Game Interpreter
 * [Mitch](https://sr.ht/~gardenapple/mitch/) - Mobile Frontend for itch.io
 * [Pinball for Android](https://github.com/fexed/Pinball-on-Android) - Space Cadet Pinball
@@ -643,14 +645,12 @@
 
 ***
 
-* ⭐ **[Aria2App](https://github.com/devgianlu/Aria2App)** - [Screenshot](https://i.ibb.co/x646fcy/b3ec39ecb9e3.png)
 * ⭐ **[LibreTorrent](https://gitlab.com/proninyaroslav/libretorrent)** - [Screenshot](https://i.ibb.co/TgGChNM/2c57cb08ae0d.png)
 * ⭐ **[Flud](https://play.google.com/store/apps/details?id=com.delphicoder.flud)** - [Screenshot](https://i.ibb.co/z6GhkHc/bb30c0fd5553.png)
-* [tTorrent](https://play.google.com/store/apps/details?id=hu.tagsoft.ttorrent.lite) - [Screenshot](https://i.ibb.co/NZB2Yc4/21bfeb72049e.png)
-* [WeTorrent Pro](https://rentry.co/FMHYBase64#wetorrent-pro) - [Screenshot](https://i.ibb.co/MZXX136/f11425e5d8a7.png)
+* [tTorrent](https://ttorrent.org/) - [Screenshot](https://i.ibb.co/NZB2Yc4/21bfeb72049e.png)
 * [Torrent Client](https://gitlab.com/axet/android-torrent-client) - [Screenshot](https://gitlab.com/axet/android-torrent-client#screenshots)
 * [BiglyBT](https://android.biglybt.com/) - [Screenshot](https://i.ibb.co/6W9TXG1/074a0e98aa52.png) 
-* [Trireme](https://github.com/teal77/trireme) or [Barrage](https://github.com/maulik9898/barrage) - Deluge Clients
+* [Trireme](https://github.com/teal77/trireme) - Deluge Clients
 * [Transdroid](https://www.transdroid.org) - Manage BitTorrent Clients / [Github](https://github.com/erickok/transdroid) / [F-Droid](https://f-droid.org/packages/org.transdroid.full/)
 * [nzb360](https://play.google.com/store/apps/details?id=com.kevinforeman.nzb360) - NZB / Torrent Manager 
 * [Meoko](https://play.google.com/store/apps/details?id=com.app.meoko) - Anime Torrent Search
