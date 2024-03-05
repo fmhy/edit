@@ -169,6 +169,41 @@
 
 ***
 
+## ▷ Customization
+
+* ⭐ **[/r/AndroidThemes](https://www.reddit.com/r/androidthemes/)** - Android Themes Subreddit
+* ⭐ **[Mobile Abyss](https://mobile.alphacoders.com/)** - Wallpapers
+* [Darkinator](https://play.google.com/store/apps/details?id=com.tfuerholzer.darkmodewallpaper) or [DualWallpaper](https://github.com/Yanndroid/DualWallpaper) - Change Wallpaper Depending on System Theme
+* [Muzei](https://github.com/muzei/muzei), [Doodle](https://patrickzedler.com/doodle/) or [Amoled Backgrounds](https://play.google.com/store/apps/details?id=com.droidheat.amoledbackgrounds) - Live Android Wallpapers
+* [Koncius](https://play.google.com/store/apps/details?id=com.koncius.video.wallpaper) - Android Video to Wallpaper
+* [WallpaperExport](https://github.com/cvzi/WallpaperExport) - Extract Current Wallpaper
+* [CanvasDownloader](https://www.canvasdownloader.com/) - Extract Spotify Canvas Walls
+* [/r/iWallpaper](https://www.reddit.com/r/iWallpaper/) or [/r/MobileWallpaper](https://www.reddit.com/r/MobileWallpaper/) - Mobile Wallpaper Subs
+* [wallhaven](https://wallhaven.cc/search?categories=110&purity=100&ratios=portrait) - Wallpapers
+* [Wallpaper Engine](https://www.wallpaperengine.io/android/en) - Wallpapers
+* [wallman](https://gitlab.com/colorata/wallman) - Wallpapers
+* [FreshWalls](https://play.google.com/store/apps/details?id=com.techburner.freshwalls) - Wallpapers
+* [Backdrops](https://www.backdrops.io/) - Wallpapers
+* [Vave BG](https://vavebg.com/) - AI Generated Wallpapers
+* [Zedge](https://www.zedge.net/) - Wallpapers / Ringtones / Use Adblocker
+* [DarQ](https://github.com/KieronQuinn/DarQ) - Universal Dark Mode
+* [Phonetones](http://onj3.andrelouis.com/phonetones/) or [RingtoneRobot](https://t.me/RingtoneRobot) - Ringtones Directories
+* [RBoard](https://forum.xda-developers.com/t/app-rboard-theme-manager.4331445/) / [GitHub](https://github.com/DerTyp7214/RboardThemeManagerV3), [Repainter](https://play.google.com/store/apps/details?id=dev.kdrag0n.dyntheme) or [Substratum](https://www.xda-developers.com/substratum-hub/) - Theme Managers
+* [AlwaysOnEdge](http://www.aoeapps.com/) or [Dashbud](https://dashbud.dev/) / [Discord](https://discord.com/invite/78h7xgj) - Android Customization Apps
+* [VirtualXposed](https://github.com/android-hacker/VirtualXposed) - Xposed Frameworks
+* [Panels](https://play.google.com/store/apps/details?id=com.fossor.panels&hl=en_US&gl=QA) or [1 Edge](https://play.google.com/store/apps/details?id=com.hiruffy.controller) - Android Sidebar Panel
+* [Statusbar Icon Hider](https://play.google.com/store/apps/details?id=com.cooliehat.statusbariconhider) - Hide Status Bar Items
+* [Substratum Tweaks](https://github.com/luisbocanegra/substratum-tweaks) - System Theme
+* [HomeScreens](https://homescreens.org/) - Custom Phone Home Screen Examples
+* [iFont](https://play.google.com/store/apps/details?id=com.kapp.ifont) - Android Font Installer
+* [Candybar](https://github.com/zixpo/candybar) or [Iconify](https://github.com/kyutefox/Iconify) - Custom App Icons
+* [Arcticons](https://arcticons.onnno.nl/) - Monotone Icon Pack
+* [Giga Icon](https://play.google.com/store/apps/details?id=it.mirko.gigaicon&hl=en_IN&gl=US) - Make Icons Bigger
+* [IconRequest](https://github.com/Kaiserdragon2/IconRequest) - Find Missing Icons
+* [TabletFriend](https://github.com/Martenfur/TabletFriend) - Custom Tablet Toolbars
+
+***
+
 ## ▷ Battery Tools
 
 * [Electron](https://play.google.com/store/apps/details?id=com.mahersafadi.electron), [SaverTuner](https://codeberg.org/s1m/savertuner), [Charge Meter](https://play.google.com/store/apps/details?id=dev.km.android.chargemeter), [BatteryGuru](https://rentry.co/FMHYBase64#battery-guru), [Batt](https://gitlab.com/narektor/batt), [aBattery](https://play.google.com/store/apps/details?id=me.linshen.abattery) or [AccuBattery](https://play.google.com/store/apps/details?id=com.digibites.accubattery) - Battery Monitors / Managers
@@ -269,6 +304,22 @@
 * [Albastuz3d](https://albastuz3d.net/) - Stock Phone ROMs
 * [LADB Builds](https://github.com/hyperio546/ladb-builds) or [aShell](https://gitlab.com/sunilpaulmathew/ashell) - ADB Shell
 * [ConnectBOt](https://play.google.com/store/apps/details?id=org.connectbot) - SSH Client
+
+***
+
+## ▷ Operating Systems
+
+* 🌐 **[Android ROM Compaisons](https://eylenburg.github.io/android_comparison.htm)**
+* ⭐ **[CustomRomBay](https://customrombay.org/)** - ROMs Compatibility Search
+* ⭐ **[GrapheneOS](https://grapheneos.org/)** - Privacy-Based OS
+* [/e/](https://e.foundation/e-os/) - Privacy-Based OS
+* [Divestos](https://divestos.org/) - Privacy-Based OS
+* [LeoS](https://leos-gsi.de/) - Privacy-Based OS
+* [CalyXOS](https://calyxos.org/) - Privacy-Based OS
+* [LineageOS](https://www.lineageos.org/) - CyanogenMod Fork / [MicroG](https://lineage.microg.org/)
+* [ProtonAOSP](https://protonaosp.org) - Minimal / Open-Source OS
+* [BlissROMs](https://blissroms.org/) - Customizable / Open-Source OS
+* [PixelExperience](https://get.pixelexperience.org/) - AOSP ROM w/ Google Pixel Features
 
 ***
 
@@ -553,57 +604,6 @@
 * [B.D.T](https://bdt.jepfa.de/) - Time with Between Time Notifications
 * [TidyPanel](https://play.google.com/store/apps/details?id=com.dharmapoudel.tidypanel) - Notification Blocker
 * [ClassicPowerMenu](https://github.com/KieronQuinn/ClassicPowerMenu) - Android Power Menu Replacement / Needs Root
-
-***
-
-## ▷ Customization
-
-* ⭐ **[/r/AndroidThemes](https://www.reddit.com/r/androidthemes/)** - Android Themes Subreddit
-* ⭐ **[Mobile Abyss](https://mobile.alphacoders.com/)** - Wallpapers
-* [Darkinator](https://play.google.com/store/apps/details?id=com.tfuerholzer.darkmodewallpaper) or [DualWallpaper](https://github.com/Yanndroid/DualWallpaper) - Change Wallpaper Depending on System Theme
-* [Muzei](https://github.com/muzei/muzei), [Doodle](https://patrickzedler.com/doodle/) or [Amoled Backgrounds](https://play.google.com/store/apps/details?id=com.droidheat.amoledbackgrounds) - Live Android Wallpapers
-* [Koncius](https://play.google.com/store/apps/details?id=com.koncius.video.wallpaper) - Android Video to Wallpaper
-* [WallpaperExport](https://github.com/cvzi/WallpaperExport) - Extract Current Wallpaper
-* [CanvasDownloader](https://www.canvasdownloader.com/) - Extract Spotify Canvas Walls
-* [/r/iWallpaper](https://www.reddit.com/r/iWallpaper/) or [/r/MobileWallpaper](https://www.reddit.com/r/MobileWallpaper/) - Mobile Wallpaper Subs
-* [wallhaven](https://wallhaven.cc/search?categories=110&purity=100&ratios=portrait) - Wallpapers
-* [Wallpaper Engine](https://www.wallpaperengine.io/android/en) - Wallpapers
-* [wallman](https://gitlab.com/colorata/wallman) - Wallpapers
-* [FreshWalls](https://play.google.com/store/apps/details?id=com.techburner.freshwalls) - Wallpapers
-* [Backdrops](https://www.backdrops.io/) - Wallpapers
-* [Vave BG](https://vavebg.com/) - AI Generated Wallpapers
-* [Zedge](https://www.zedge.net/) - Wallpapers / Ringtones / Use Adblocker
-* [DarQ](https://github.com/KieronQuinn/DarQ) - Universal Dark Mode
-* [Phonetones](http://onj3.andrelouis.com/phonetones/) or [RingtoneRobot](https://t.me/RingtoneRobot) - Ringtones Directories
-* [RBoard](https://forum.xda-developers.com/t/app-rboard-theme-manager.4331445/) / [GitHub](https://github.com/DerTyp7214/RboardThemeManagerV3), [Repainter](https://play.google.com/store/apps/details?id=dev.kdrag0n.dyntheme) or [Substratum](https://www.xda-developers.com/substratum-hub/) - Theme Managers
-* [AlwaysOnEdge](http://www.aoeapps.com/) or [Dashbud](https://dashbud.dev/) / [Discord](https://discord.com/invite/78h7xgj) - Android Customization Apps
-* [VirtualXposed](https://github.com/android-hacker/VirtualXposed) - Xposed Frameworks
-* [Panels](https://play.google.com/store/apps/details?id=com.fossor.panels&hl=en_US&gl=QA) or [1 Edge](https://play.google.com/store/apps/details?id=com.hiruffy.controller) - Android Sidebar Panel
-* [Statusbar Icon Hider](https://play.google.com/store/apps/details?id=com.cooliehat.statusbariconhider) - Hide Status Bar Items
-* [Substratum Tweaks](https://github.com/luisbocanegra/substratum-tweaks) - System Theme
-* [HomeScreens](https://homescreens.org/) - Custom Phone Home Screen Examples
-* [iFont](https://play.google.com/store/apps/details?id=com.kapp.ifont) - Android Font Installer
-* [Candybar](https://github.com/zixpo/candybar) or [Iconify](https://github.com/kyutefox/Iconify) - Custom App Icons
-* [Arcticons](https://arcticons.onnno.nl/) - Monotone Icon Pack
-* [Giga Icon](https://play.google.com/store/apps/details?id=it.mirko.gigaicon&hl=en_IN&gl=US) - Make Icons Bigger
-* [IconRequest](https://github.com/Kaiserdragon2/IconRequest) - Find Missing Icons
-* [TabletFriend](https://github.com/Martenfur/TabletFriend) - Custom Tablet Toolbars
-
-***
-
-## ▷ Operating Systems
-
-* 🌐 **[Android ROM Compaisons](https://eylenburg.github.io/android_comparison.htm)**
-* ⭐ **[CustomRomBay](https://customrombay.org/)** - ROMs Compatibility Search
-* ⭐ **[GrapheneOS](https://grapheneos.org/)** - Privacy-Based OS
-* [/e/](https://e.foundation/e-os/) - Privacy-Based OS
-* [Divestos](https://divestos.org/) - Privacy-Based OS
-* [LeoS](https://leos-gsi.de/) - Privacy-Based OS
-* [CalyXOS](https://calyxos.org/) - Privacy-Based OS
-* [LineageOS](https://www.lineageos.org/) - CyanogenMod Fork / [MicroG](https://lineage.microg.org/)
-* [ProtonAOSP](https://protonaosp.org) - Minimal / Open-Source OS
-* [BlissROMs](https://blissroms.org/) - Customizable / Open-Source OS
-* [PixelExperience](https://get.pixelexperience.org/) - AOSP ROM w/ Google Pixel Features
 
 ***
 
