@@ -110,11 +110,8 @@
 * [Tiny Care Terminal](https://github.com/notwaldorf/tiny-care-terminal) - Terminal Dashboard That Cares
 * [Gradient Terminal](https://github.com/aurora-0025/gradient-terminal) - Display Terminal Output as Gradient
 * [Command Challenge](https://cmdchallenge.com/) - Command Line Learning
-* [Terminal Icons](https://github.com/devblackops/Terminal-Icons) - File and Folder Icons in Terminal
-* [Alacritty](https://github.com/alacritty/alacritty), [yakuake](https://apps.kde.org/yakuake/), [Fluent Terminal](https://github.com/felixse/FluentTerminal), [Tabby](https://eugeny.github.io/tabby/), [Wives](https://github.com/KRTirtho/wives), [ExtraTerm](https://extraterm.org/) or [Terminus](https://github.com/Eugeny/tabby) - Terminal Emulators
-* [XTerm](https://invisible-island.net/xterm/) - X Window System Terminal Emulator
+* [Alacritty](https://github.com/alacritty/alacritty), [Fluent Terminal](https://github.com/felixse/FluentTerminal), [Tabby](https://eugeny.github.io/tabby/), [Wives](https://github.com/KRTirtho/wives), [ExtraTerm](https://extraterm.org/) or [Terminus](https://github.com/Eugeny/tabby) - Terminal Emulators
 * [Mintty](https://mintty.github.io/) - Cygwin Terminal Emulator 
-* [termbin](https://termbin.com/) - Terminal Output Pastebin
 * [GetDNote](https://www.getdnote.com/) - Command Line Notebook
 * [cmder](https://cmder.app) - Console Emulator Package / [GitHub](https://github.com/cmderdev/cmder)
 * [PowerShell](https://github.com/powershell/powershell) - PC / Mac / Linux PowerShell
@@ -125,7 +122,6 @@
 * [SystemNightware](https://github.com/GossiTheDog/SystemNightmare) - Instant System Command Prompt
 * [Starship](https://starship.rs/) - Cross-Shell Prompt
 * [GNU Parallel](https://www.gnu.org/software/parallel/) - Execute Commands / Scripts in Parallel using Multiple Computers
-* [Command Not Found](https://command-not-found.com/) - Install Missing Commands
 * [Nushell](https://www.nushell.sh/) - Alt Shell
 * [GSudo](https://github.com/gerardog/gsudo) - Sudo Alternative for Windows
 
@@ -512,6 +508,7 @@
 * [WallpaperSafari](https://wallpapersafari.com/) - Wallpapers
 * [WallpaperCave](https://wallpapercave.com/) - Wallpapers
 * [Wallpaper Tip](https://wallpapertip.com/) - Wallpapers
+* [WallsPic](https://wallspic.com/) - Wallpapers
 * [WallpaperFlare](https://www.wallpaperflare.com/) - Wallpapers
 * [HDQwalls](https://hdqwalls.com/) - Wallpapers
 * [UHD Wallpaper](https://www.uhdpaper.com/) - Wallpapers
