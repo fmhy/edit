@@ -1629,27 +1629,38 @@
 
 # ► Turkish / Türkçe
 
-* [TurkceAltyazi](https://turkcealtyazi.org/index.php) - Subtitles
 * [Firmaa](http://www.firmaa.com/) - Company Directory
 * [Playstationhaber](https://playstationhaber.com/) - PlayStation Piracy Forum
 
 ## ▷ Downloading
 
 * [MP3 Indir](https://www.mp3indirdur.mobi/) - Music
+* [TurkceAltyazi](https://turkcealtyazi.org/index.php) - Subtitles
+* [TurkishAudioCenter](https://www.turkishaudiocenter.com) - Voiceovers
+* [Shareses](https://shareses.com) - Voiceovers
+* [TurkceSesİndir](https://www.turkcesesindir.com/) - Voiceovers
+* [DwForce](http://dwa-audio.blogspot.com/) - Voiceovers
+* [SinnerClown](https://sinnerclownceviri.com) - Game Localization / [Discord](https://discord.com/invite/nApvcT6Tt6)
+* [PixelSaga(Discord)](https://discord.gg/ZZER4w3Mmx) - Game Localization
+* [CalypsoÇeviri(Discord)](https://discord.gg/calypsoceviri) - Game Localization
+* [Hangar](https://www.hangarceviri.com) - Game Localization
+* [G-Point Adult](https://www.gpadult.com) - +18 Game Localization / [Discord](https://discord.com/invite/gpadult)
+* [YetişkinÇeviri](https://www.ademyurt.com/kategori/android/) - +18 Game Localization / [Discord](https://discord.com/invite/GQeQRzAKCR)
 
 ## ▷ Streaming
 
 * [Dizilla](https://dizilla.club) - Movies / TV 
-* [Yabancıdizi](https://yabancidizi.pro) - Movies / TV
-* [Hdfilmcehennemi](https://www.hdfilmcehennemi.life) - Movies / TV
-* [Fullhdfilmizlesene](https://www.fullhdfilmizlesene.pw) - Movies / Cartoons
+* [YabancıDizi](https://yabancidizi.pro) - Movies / TV
+* [HdfilmCehennemi](https://www.hdfilmcehennemi.life) - Movies / TV
+* [FullHDFilmİzlesene](https://www.fullhdfilmizlesene.pw) - Movies / Cartoons
 * [JetFilmizle](https://jetfilmizle.video/) - Movies
 * [FilmIzle](https://filmizle2022.info/) - Movies
-* [4kfilmizlesene](https://www.4kfilmizlesene.xyz/) - Movies
-* [Filmizlesene](https://www.filmizlesene.pro) - Movies
+* [4kFilmizlesene](https://www.4kfilmizlesene.xyz/) - Movies
+* [Filmİzlesene](https://www.filmizlesene.pro) - Movies
 * [Pifilmizle](https://www.pifilmizle.net) - Movies
 * [FilmMom](https://www.filmmom.de/) - Movies
 * [Dizilab](https://dizilab.com/) - TV
+* [Dizibox](https://www.dizibox.in) - TV
 * [turkish123](https://turkish123.com/) - TV
 * [Yoturkish](https://www.yoturkish.com) - TV
 * [Expressdizi](https://www.expressdizi.com/) - TV
@@ -1665,16 +1676,16 @@
 ## ▷ Reading
 
 * [Kuflu](https://www.kuflu.com/forums/e-kitap.58/) - Books / Magazines
-* [ktphnme](https://t.me/ktphnme) - Books
+* [Ktphnme](https://t.me/ktphnme) - Books
 * [MangaDenizi](https://www.mangadenizi.net/) - Manga / [Discord](https://discord.com/invite/8zBMSGZ)
 * [Manga-TR](https://manga-tr.com/) - Manga
-* [manga-ay](https://manga-ay.com/) - Manga
-* [mavimanga](https://mavimanga.com/) - Manga
-* [trwebtoon](https://trwebtoon.com/) - Manga
-* [nirvanamanga](https://nirvanamanga.com/) - Manga
-* [raindropteamfan](https://www.raindropteamfan.com/) - Manga
+* [Manga-ay](https://manga-ay.com/) - Manga
+* [Mavimanga](https://mavimanga.com/) - Manga
+* [Trwebtoon](https://trwebtoon.com/) - Manga
+* [Nirvanamanga](https://nirvanamanga.com/) - Manga
+* [Raindropteamfan](https://www.raindropteamfan.com/) - Manga
 * [Seri Manga](https://serimangas.com/) - Manga
-* [glorymanga](https://glorymanga.com/) - Manga
+* [Glorymanga](https://glorymanga.com/) - Manga
 
 ***
 
