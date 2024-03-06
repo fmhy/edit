@@ -841,7 +841,6 @@
 * [humble-cli](https://github.com/smbl64/humble-cli) - Humble Bundle CLI
 * [Gog To Free](https://greasyfork.org/en/scripts/481134) - Add Piracy Site Links to GOG Store
 * [Moonlight Stream](https://moonlight-stream.org/) / [Server](https://github.com/LizardByte/Sunshine) - Remote Desktop Client
-* [Google Play Games](https://play.google.com/googleplaygames) - Play Mobile Games on Windows
 * [SaveLocation](https://savelocation.net/) - Game Save Locations
 * [GameCopyWorld](https://www.gamecopyworld.com/games/index.php), [MegaGames](https://megagames.com/) or [GTrainers](https://gtrainers.com/) - Game Fixes, Saves and Patches
 * [Ludusavi](https://github.com/mtkennerly/ludusavi) or [GameSave Manager](https://www.gamesave-manager.com/) - Game Save Managers
@@ -1047,6 +1046,7 @@
 * [Fabric-Bedrock-Miner](https://github.com/LXYan2333/Fabric-Bedrock-Miner) - Minecraft Bedrock Miner
 * [Outvoted](https://modrinth.com/mod/outvoted) - Outvoted Minecraft Live Mobs
 * [Voyager](https://voyager.minedojo.org/) - Minecraft AI
+* [Enchant Order](https://iamcal.github.io/enchant-order/) - Minecraft Enchantment Ordering Tool
 * [Minecraft Wiki Redirect](https://greasyfork.org/en/scripts/488541) - Redirect Minecraft Fandoms to minecraft.wiki
 * [MCDF](https://mcdf.wiki.gg/) - Discontinued Minecraft Features Wiki
 
