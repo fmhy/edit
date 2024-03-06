@@ -422,15 +422,13 @@ http://104.131.175.196:8080/, http://70.88.180.169:8088/
 
 ## FMovies Clones
 
-* [FlixHQ](https://flixhq.id/)
+* [FlixHQ](https://flixhq.bz/)
 * [FBox](https://fbox.to/)
-* [Movies7](https://movies7.to/), [2](https://www2.movies7.to/)
-* [myflixer](https://myflixer.ru/)
-* [BFlix](https://bflix.to/), [2](https://hd.bflix.to/)
-* [SWatchseries.ru](https://swatchseries.ru/)
-* [yesmovies.at](https://yesmovies.at)
+* [Movies7](https://movies7.to/)
+* [myflixer](https://myflixer.nl/)
+* [BFlix](https://bflixz.to/), [2](https://hd.bflix.to/)
+* [swatchseries.mx](https://swatchseries.mx/)
 * [FlixWave](https://flixwave.to/)
-* [0123movie](https://0123movie.onl/)
 
 ***
 
@@ -890,56 +888,48 @@ http://104.131.175.196:8080/, http://70.88.180.169:8088/
 
 ## SFlix Clones
 
-* https://www3.himovies.to/
+* https://himovies.sx/
 * https://solarmovies.win/
 * https://huramovies.to/
 * https://solarmovie.pe/
 * https://www2.6movies.net/
 * https://gomovies.sx/
 * https://www2.movieorca.com/
-* https://xmovies8.fun/
 * https://swatchseries.is/
 * https://www1.freemoviesfull.com/
 * https://www.actvid.rs/
-* https://hdtoday.tv/
-* https://www.tikmovies.com/
+* https://hdtoday.to/
 * https://moviesjoy.plus/
 * https://dopebox.to/
 * https://fboxtv.com/
 * https://movies2watch.cc/
 * https://movies2watch.tv/
 * https://watchseriestv.top/
-* https://favhd.net/
 * https://hdtoday.cc/
-* https://tinyzonetv.to/
-* https://www4.musichq.net/
+* https://tinyzonetv.se/
+* https://musichq.pe/
 * https://www6.f2movies.to/
 * https://2kmovie.cc/
 * https://goku.sx/
-* https://cineb.net/
 * https://bingewatch.to/
 * https://www.divicast.com/
-* https://theflixer.tv/
+* https://theflixertv.to/
 * https://myflixer.pw/
 * https://myflixertv.to/
-* https://ainiesta.com/
 * https://www3.f2movies.to/
 * https://flixhd.cc/
 * https://www3.musichq.net/
 * https://zoechip.org/
 * https://zoechip.cc/
 * https://www3.zoechip.com/
-* https://quitt.net/
-* https://www6.123moviesgo.tv/
 * https://123moviestv.net/
 * https://moviecracker.net/
-* https://moviesjoy.to/
+* https://moviesjoy.is/
 * https://tinyzonetv.cc/
 * https://www.showboxmovies.net/
 * https://www.watch4freemovies.com/
 * https://www2.filmlicious.net/
 * https://www.moviekids.tv/
-* https://www.freemovies360.com/
 * https://yesmovies.mn/
 * https://fmovie.ws/
 * https://cataz.to
