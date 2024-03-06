@@ -50,9 +50,8 @@
 * [MoviesXK](https://moviexk.biz/) - Movies / TV / 1080p
 * [123MoviesFree](https://ww2.123moviesfree.net/) - Movies / TV / Anime / 1080p
 * [NetMovies](https://netmovies.to/) - Movies / TV / 1080p
-* [MovGoTV](https://movgotv.net/) - Movies / TV / Anime / 1080p
+* [MovGoTV](https://movgotv.site/) - Movies / TV / Anime / 1080p
 * [TVids](https://www.tvids.net/) - Movies / TV / Anime / 1080p
-* [Lovemovie](https://lovemovie.org/) - Movies / TV / 1080p
 * [Yesmovies.pm](https://yesmovies.pm/) - Movies / TV / Anime / 1080p
 * [OnionPlay](https://onionplay.se/) - Movies / TV / 1080p / [Mirrors](https://onionplay.network/)
 * [MKVKing](https://193.233.203.165/) - Movies / TV / Anime / 1080p
@@ -62,9 +61,8 @@
 * [uFlix](https://uflix.cc/) - Movies / TV / Anime / 720p
 * [SlideMovies](https://slidemovies.org/) - Movies / TV / Anime / 720p
 * [MovieUniverse](https://movieuniverse.se/) - Movies / TV / Anime / 720p
-* [ConTV](https://www.contv.com/) - Movies / 720p
+* [MidnightPulp](https://www.midnightpulp.com/) - Movies / 720p
 * [Afdah](https://afdah2.com/) - Movies / 720p
-* [FFilmClub](https://filmsclub.org/) - Movies / TV / 720p
 * [Flixtor](https://flixtor.to/) - Movies / TV / 720p / Movies Older Than 6 Months For Premium Only
 * [tvembed.cc](https://tvembed.cc/) - Movies / TV / Anime / API / 1080p
 * [GoMo](https://gomo.to/) - Movies / TV / Anime / API / 1080p
@@ -406,7 +404,6 @@
 * ↪️ **[IPTV Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_iptv_tools)** or [Awesome IPTV](https://github.com/iptv-org/awesome-iptv) - IPTV Resources / [Players](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_m3u_players) / [Playlists](https://rentry.co/FMHYBase64#iptv-playlists) / [Search](https://www.foodieguide.com/iptvsearch/)
 * ⭐ **[Sportsurge](https://sportsurge.net/)**- Sports / Stream Locator
 * ⭐ **[EasyWebTV](https://zhangboheng.github.io/Easy-Web-TV-M3u8/routes/countries.html)** - TV / Sports / 1080p
-* ⭐ **[FreeSports](https://freesports.to/)** - Sports
 * ⭐ **[FSL](https://a.fsl-stream.im/)** - Sports / 720p / [Discord](https://discord.gg/eXXJzDPchU)
 * ⭐ **[IPTV Web](https://iptv-web.app/)** - TV / Sports
 * ⭐ **[MrGamingStreams](https://mrgamingstreams.com/)** - TV / Sports / [Discord](https://discord.com/invite/Rf2SFRtJFz)
