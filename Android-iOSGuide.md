@@ -599,7 +599,7 @@
 
 # ► Android Emulators 
 
-**Warning** - Closed-source emulators (like Nox) contain intrusive ads and trackers, so it's best to use open-source options or android subsystems (like WSA or WayDroid).
+**Warning** - Closed-source emulators (like Nox) contain intrusive ads and trackers, so it's best to use open-source options or android subsystems (like WayDroid).
 
 ***
 
@@ -798,7 +798,6 @@
 * [Movies Cave](https://rentry.co/FMHYBase64#movies-cave-app) - Movies / TV
 * [LokLok](https://loklok.com/download) - Movies / TV
 * [FlixVision](https://flixvision.app/) - Movies / TV
-* [OnStream](https://rentry.co/FMHYBase64#onstream) - Movies / TV
 * [ShowBox](https://www.showbox.media/download) - Movies / TV
 * [Flixclusive](https://github.com/rhenwinch/Flixclusive) - Movies / TV
 * [StreamFlix](https://github.com/stantanasi/streamflix) - Movies / TV
