@@ -389,6 +389,8 @@ Linux Gaming Guide
 * [bash-it](https://github.com/Bash-it/bash-it) or [Bashly](https://bashly.dannyb.co/) - Bash Frameworks
 * [zx](https://github.com/google/zx) - Javascript Bash
 * [Basher](https://www.basher.it/) - Bash Script Package Manager
+* [yakuake](https://apps.kde.org/yakuake/) - Terminal Emulator
+* [XTerm](https://invisible-island.net/xterm/) - X Window System Terminal Emulator
 * [hush](https://github.com/hush-shell/hush) - Unix Shell
 * [Extension Manager](https://github.com/mjakeman/extension-manager) - GNOME Shell Extensions 
 * [Distrobox](https://github.com/89luca89/distrobox) - Use Distros via Terminal
