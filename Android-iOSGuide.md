@@ -18,6 +18,7 @@
 * [APKeep](https://github.com/EFForg/apkeep) - APK Download CLIs
 * [Kanade](https://github.com/alexrintt/kanade) - APK Extractors
 * [APK Editor Studio](https://qwertycube.com/apk-editor-studio/) - APK Editor
+* [AppBrain](https://www.appbrain.com/) - View APK Statistics
 * [APKTool](https://github.com/iBotPeaches/Apktool) - APK Reverse Engineering Tool
 * [BlackDex](https://github.com/CodingGay/BlackDex) - APK Unpacking Tool
 * [Zygisk Detach](https://github.com/j-hc/zygisk-detach) - Detach APKs from Google Play Store
@@ -260,7 +261,7 @@
 * [Grammarly](https://rentry.co/FMHYBase64#grammarly-keyboard-premium) - Grammarly Keyboard Premium
 * [UnicodePad](https://github.com/Ryosuke839/UnicodePad) or [Kaomoji](https://play.google.com/store/apps/details?id=ru.kaomoji.kaomojiapp) - Emoji / Unicode Manager
 * [emojimix](https://play.google.com/store/apps/details?id=net.tikolu.emojimix) - Combine Emojis
-* [Memory Guardian](https://github.com/hashemi-hossein/memory-guardian), [Clipboard CopyPaste](https://www.evvasoft.com/ccp.html) or [Clipboard History](https://play.google.com/store/apps/details?id=com.rubbishcollector.clipboardhistory) - Clipboard Managers
+* [Memory Guardian](https://github.com/hashemi-hossein/memory-guardian) or [Clipboard CopyPaste](https://www.evvasoft.com/ccp.html) - Clipboard Managers
 * [Irregular Expressions](https://play.google.com/store/apps/details?id=mf.asciitext.lite) - Text Font Generator
 * [FlutterMarkdownEditor](https://github.com/adeeteya/FlutterMarkdownEditor) - Markdown Editor
 * [Take Notes](https://github.com/the-rebooted-coder/Take-Notes) - Convert Text to Handwritten Notes
@@ -349,15 +350,13 @@
 * [Shortcut Maker](https://play.google.com/store/apps/details?id=rk.android.app.shortcutmaker) - Create App Shortcuts
 * [Touch The Notch](https://play.google.com/store/apps/details?id=com.notch.touch) - Use Camera Notch as Button
 * [Shelter](https://gitea.angry.im/PeterCxy/Shelter) or [Insular](https://gitlab.com/secure-system/Insular) - Isolate / Clone Apps
-* [AppBrain](https://www.appbrain.com/) - Analyze Android App Changes
 * [Watomatic](https://watomatic.app/) / [Git](https://github.com/adeekshith/watomatic) or [AutoResponder](https://www.autoresponder.ai/) - Chat App Auto-Responders
 * [NotificationDictionary](https://github.com/tirkarthi/NotificationDictionary) - Dictionary App
 * [Counters](https://play.google.com/store/apps/details?id=rahmouni.neil.counters) - Count Anything
 * [Smart AutoClicker](https://github.com/Nain57/Smart-AutoClicker) - Auto Clicker
 * [Pluma](https://plumareader.com/), [Feeder](https://f-droid.org/en/packages/com.nononsenseapps.feeder/), [Twine](https://github.com/msasikanth/twine), [FeedMe](https://github.com/seazon/FeedMe), [news](https://github.com/bubelov/news) or [ReadYou](https://github.com/Ashinch/ReadYou) - RSS Readers
 * [Arts & Culture](https://play.google.com/store/apps/details?id=com.google.android.apps.cultural) - Explore Art
-* [wrtn](https://play.google.com/store/apps/details?id=com.wrtn.app) - Free GPT-4 + turbo (ask to speak in english always)
-* [Botify AI](https://botif.ai/) or [Chai](https://www.chai-research.com/) - Roleplaying Chatbots
+* [Chai](https://www.chai-research.com/) - Roleplaying Chatbots
 * [DeepLAndroid](https://github.com/sakusaku3939/DeepLAndroid), [Arna Translate](https://github.com/MahanRahmati/translate), [Instalate](https://gitlab.com/concept1tech/instalate), [TranslateYou](https://github.com/you-apps/TranslateYou) or [SimplyTranslate](https://github.com/ManeraKai/simplytranslate_mobile) - Translation Apps
 * [FUTO](https://voiceinput.futo.org/) or [Dicio](https://github.com/Stypox/dicio-android) - Voice Assistants
 * [Audio-Recorder](https://gitlab.com/axet/android-audio-recorder/tree/HEAD), [android-audio-recorder](https://gitlab.com/axet/android-audio-recorder) or [Audio Recorder](https://github.com/vivekweb2013/audio-recorder) - Audio Recorders
@@ -367,7 +366,6 @@
 * [Aftership](https://play.google.com/store/apps/details?id=com.aftership.AfterShip&hl=en&gl=US) - Package Tracker
 * [SuntimesWidget](https://github.com/forrestguice/SuntimesWidget) - Sun / Moon Light Time App
 * [Listy](https://listy.is/) - Create Lists of Anything
-* [Julius.ai](https://julius.ai/) - Data Visualization AI
 * [Libra](https://github.com/markusfisch/Libra) - Pros v Cons App
 * [Deskreen](https://deskreen.com/lang-en) - Turn Any Device into Secondary Screen / [GitHub](https://github.com/pavlobu/deskreen) 
 * [GeorgieLabs](https://georgielabs.net/) - Use Phone as Wireless Speaker / Headphone Port
@@ -518,7 +516,6 @@
 * [Blabber.im](https://blabber.im/) or [Conversations](https://f-droid.org/en/packages/eu.siacs.conversations/) - XMPP Apps
 * [IRCCloud](https://github.com/irccloud/android) or [Revolution IRC](https://github.com/MCMrARM/revolution-irc) - IRC Clients
 * [SnapEnhance](https://github.com/rhunk/SnapEnhance) - Snapchat Client
-* [Nightsnap](https://t.me/nightsnap_for_android) - Snapchat Dark Mode
 * [Graysky](https://graysky.app/) - Bluesky Client
 * [SimpleMail](https://framagit.org/dystopia-project/simple-email), [Monocles](https://f-droid.org/packages/de.monocles.mail/), [k9mail](https://k9mail.app/) or [FairCode](https://email.faircode.eu/) - Email Clients
 * [You Have Mail](https://github.com/LeanderBB/you-have-mail) - Email Notifications
@@ -545,7 +542,6 @@
 * ⭐ **[Snapdrop Android](https://github.com/fm-sys/snapdrop-android)** - File Sync
 * ⭐ **[Octi](https://github.com/d4rken-org/octi)** - File Sync
 * ⭐ **[Aria2App](https://github.com/devgianlu/Aria2App)**, [Jdownloader](https://my.jdownloader.org/), [1DM](https://play.google.com/store/apps/details?id=idm.internet.download.manager.adm.lite), [FDM](https://play.google.com/store/apps/details?id=org.freedownloadmanager.fdm) or [Navi](https://github.com/TachibanaGeneralLaboratories/download-navi) - Download Managers
-* [UnLim](https://play.google.com/store/apps/details?id=com.kratosle.unlim&gl=US) - Cloud Storage
 * [Round Sync](https://github.com/newhinton/Round-Sync), [MetaCTRL](https://metactrl.com/) or [FolderSync](https://www.tacit.dk/) - Multi-Site Cloud Storage File Managers
 * [dropbox](https://www.dropbox.com/) / [Sync](https://play.google.com/store/apps/details?id=com.ttxapps.dropsync) / [GUI](https://github.com/howeyc/crocgui) - Cloud Storage
 * [Clipt](https://play.google.com/store/apps/details?id=studio.onelab.clipboard) - File Sync
@@ -611,9 +607,9 @@
 * 🌐 **[Emulators on Android](https://emulation.gametechwiki.com/index.php/Emulators_on_Android)** - Emulators on Android
 * ⭐ **[Termux](https://termux.com/)**, [Limbo](https://github.com/limboemu/limbo) or [TermOne Plus](https://termoneplus.com/) - Terminal Emulators / OS Environments
 * ⭐ **Termux Tools** - [YT-DL](https://github.com/OzakIOne/termux-youtube-dl), [2](https://github.com/khansaad1275/Termux-YTD) / [Video Downloader](https://github.com/AbirHasan2005/LR-YTDL) / [GUI](https://github.com/termux/termux-gui) / [ADB / Fastboot Tools](https://github.com/MasterDevX/Termux-ADB) / [Beautify](https://github.com/mayTermux/myTermux)
-* ⭐ **[WSA](https://rentry.co/wsa)** - Windows Subsystem / [GUI](https://github.com/alesimula/wsa_pacman) / [Win10](https://github.com/cinit/WSAPatch) / [Win11](https://apps.microsoft.com/detail/9n4p75dxl6fg) / [Google Apps](https://github.com/WSA-Community/WSAGAScript)
 * ⭐ **[WayDroid](https://waydro.id/)** / **[Git](https://github.com/waydroid)**, [Redroid](https://github.com/remote-android/redroid-doc), [PostmarketOS](https://www.postmarketos.org/), [Ubuntu Touch](https://ubuntu-touch.io/get-ubuntu-touch), [Plasma Mobile](https://plasma-mobile.org/), [Mobian](https://mobian-project.org/) or [Anbox](https://anbox.io/) / [Git](https://github.com/anbox/anbox) - Linux Subsystems
 * ⭐ **[Android Studio Emulator](https://developer.android.com/studio/run/managing-avds#createavd)**
+* ⭐ **[Google Play Games](https://play.google.com/googleplaygames)** - Play Mobile Games on Windows
 * [Android x86](https://www.android-x86.org/) - Android Desktop OS / [Installer](https://aopc.dev/r/advanced-android-x86-installer-for-windows.61/) / [Source](https://www.android-x86.org/source.html) / [Smart Dock](https://github.com/axel358/smartdock)
 * [BlissOS](https://blissos.org/) - Android Desktop OS / [Git](https://github.com/blissroms-x86)
 * [PhoenixOS - BR](https://discord.gg/BQ4td84) - Android Desktop OS
@@ -802,6 +798,7 @@
 * [Movies Cave](https://rentry.co/FMHYBase64#movies-cave-app) - Movies / TV
 * [LokLok](https://loklok.com/download) - Movies / TV
 * [FlixVision](https://flixvision.app/) - Movies / TV
+* [OnStream](https://rentry.co/FMHYBase64#onstream) - Movies / TV
 * [ShowBox](https://www.showbox.media/download) - Movies / TV
 * [Flixclusive](https://github.com/rhenwinch/Flixclusive) - Movies / TV
 * [StreamFlix](https://github.com/stantanasi/streamflix) - Movies / TV
