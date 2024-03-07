@@ -521,7 +521,7 @@
 * [TCL Browser](https://play.google.com/store/apps/details?id=com.tcl.browser) or [TV Bro](https://github.com/truefedex/tv-bro) - Ad Free Android TV Browsers
 * [YTCast](https://github.com/MarcoLucidi01/ytcast) - Cast YouTube Videos to Smart TV
 * [WebOS Youtube](https://github.com/webosbrew/youtube-webos) - Ad-Free YouTube for LG TVs
-* [LGTV YouTube](https://redd.it/wzs6hg) - Ad-Free YouTube Guide for LG TVs
+* [YouTube AdFree](https://youtu.be/Zoc9Bt9TuZA), [2](https://redd.it/wzs6hg) - Guide for Ad-Free YouTube on LG TVs
 * [LG SmartShare](https://www.lg.com/support/smart-share) - Share files to LGTV
 * [Serenity Android](https://github.com/NineWorlds/serenity-android) - Plex / Emby Android TV App
 * [AnimeTV](https://github.com/amarullz/AnimeTV) - Anime Android TV App
