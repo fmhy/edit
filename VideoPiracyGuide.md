@@ -425,7 +425,7 @@
 * [VIP League](https://vipleague.im/), [2](https://www.vipleague.la/) - Sports
 * [StreamEast](https://streameast.to/) - Sports
 * [AESports](https://aesport.tv/) - Sports
-* [720pStream](https://720pstream.nu//) - Sports
+* [720pStream](https://720pstream.nu/) - Sports
 * [CrackStreams](https://crackstreams.io/), [2](https://the.crackstreams.me/) - Sports
 * [BuffStream](https://buffstream.io/) - Sports
 * [SportSala](https://www.sportsala.cc/) or [123Cric](https://123cric.com/) - Sports
