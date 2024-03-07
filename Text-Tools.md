@@ -47,6 +47,7 @@
 * [telegra.ph](https://telegra.ph/)
 * [blackhost](https://blackhost.xyz/?id=pst)
 * [protectedtext](https://www.protectedtext.com/)
+* [pasteheaven](https://pasteheaven.com/)
 * [shortbin](http://bin.shortbin.eu:8080/)
 * [paste.fo](https://paste.fo/)
 * [throwbin](https://throwbin.in/)
