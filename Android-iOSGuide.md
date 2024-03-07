@@ -542,7 +542,7 @@
 * [syncopoli](https://gitlab.com/fengshaun/syncopoli) - File Sync
 * [ShareX](https://github.com/akanshSirohi/ShareX) - File Sync
 * [Save n Device](https://github.com/lmj0011/save-on-device) - File Sync
-* [Nearby Share](https://www.android.com/better-together/quick-share-app//) - File Sync
+* [Nearby Share](https://www.android.com/better-together/quick-share-app/) - File Sync
 * [DriveSync](https://play.google.com/store/apps/details?id=com.ttxapps.drivesync) - Google Drive Sync
 * [Ghost Commander](https://sourceforge.net/projects/ghostcommander/) - Classic Dual-Panel Android File Explorer
 * [Material Files](https://github.com/zhanghai/MaterialFiles) - Lightweight And Linux-Aware File Explorer 
@@ -704,7 +704,7 @@
 
 * ↪️ **[Android Audio Players](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_android_audio_players)**
 * ⭐ **[xManager](https://www.xmanagerapp.com/)** / [Discord](https://discord.com/invite/dnpKn5Wufm) or [Modded Spotify](https://rentry.co/FMHYBase64#modded-spotify-apk) - Ad Free Spotify
-* ⭐ **xManager Tools** - [Friend Activity](https://spotivity.me//) / [Mute Ads](https://play.google.com/store/apps/details?id=live.teekamsuthar.mutify), [2](https://github.com/aghontpi/ad-silence) / [Stats](https://stats.fm/)
+* ⭐ **xManager Tools** - [Friend Activity](https://spotivity.me/) / [Mute Ads](https://play.google.com/store/apps/details?id=live.teekamsuthar.mutify), [2](https://github.com/aghontpi/ad-silence) / [Stats](https://stats.fm/)
 * ⭐ **[InnerTune](https://github.com/z-huang/InnerTune)**, [Namida](https://github.com/namidaco/namida), [RiMusic](https://github.com/fast4x/RiMusic), [Harmony Music](https://github.com/anandnet/Harmony-Music), [SimpMusic](https://simpmusic.tech/), [spmp](https://github.com/toasterofbread/spmp), [ViMusic](https://github.com/vfsfitvnm/ViMusic), [Gyawun](https://jhelumcorp.github.io/) or [Vibe You](https://github.com/SuhasDissa/VibeYou) - YouTube Music Players
 * ⭐ **[Seeker](https://play.google.com/store/apps/details?id=com.companyname.andriodapp1)** - Audio Download App / Soulseek Frontend
 * ⭐ **[AutomaTag](http://automatag.com/)** or [AutoTagger](https://autotagger.ru/) - Metadata Organizers
@@ -723,7 +723,6 @@
 * [Modded Tidal](https://forum.mobilism.org/search.php?keywords=tidal&sr=topics&sf=titleonly) - Steaming / Download
 * [Seeker](https://github.com/jackBonadies/SeekerAndroid), [Datmusic](https://github.com/alashow/datmusic-android) or [AIDS](https://forum.mobilism.org/search.php?st=0&sk=t&sd=d&sr=topics&keywords=aids&sf=titleonly) - Download / MP3
 * [Funkwhale](https://dev.funkwhale.audio/funkwhale/funkwhale-android), [Trebel](https://home.trebel.io/), [BlackHole](https://github.com/Sangwan5688/BlackHole), [VK X](https://vkx.app/) or [Deezer](https://play.google.com/store/apps/details?id=deezer.android.app) - Streaming
-* [Cliggo](https://play.google.com/store/apps/details?id=com.cliggo.cliggo_music) - Streaming / Downloading
 * [Otter](https://github.com/apognu/otter) - Music Sharing App
 * [Music Time Travel](https://play.google.com/store/apps/details?id=com.zh.musictimetravel) - Music Discovery
 * [HZP](https://hzp.co/) - Solfeggio Frequency Player
@@ -786,7 +785,7 @@
 * ↪️ **[Smart TV Apps](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video#wiki_.25BA_smart_tv_.2F_firestick)**
 * ⭐ **[Stremio](https://www.stremio.com/)** - Torrent Streaming / [Addons](https://stremio-addons.netlify.app/) / Chromecast / Use [VPN](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_vpn_guide)
 * ⭐ **[HDO Box](https://forum.mobilism.org/search.php?st=0&sk=t&sd=d&sr=topics&keywords=hdo+box&sf=titleonly)** - Movies / TV
-* ⭐ **[CloudStream](https://cloudstream-on-fleek-co.ipns.dweb.link//)** - Movies / TV / Anime / [GitHub](https://github.com/recloudstream/cloudstream) / [2](https://github.com/hexated/cloudstream-extensions-hexated/) / [Mirrors](https://rentry.org/cs3-repos) / [Docs](https://recloudstream.github.io/csdocs/) 
+* ⭐ **[CloudStream](https://cloudstream-on-fleek-co.ipns.dweb.link/)** - Movies / TV / Anime / [GitHub](https://github.com/recloudstream/cloudstream) / [2](https://github.com/hexated/cloudstream-extensions-hexated/) / [Mirrors](https://rentry.org/cs3-repos) / [Docs](https://recloudstream.github.io/csdocs/) 
 * ⭐ **[Kuukiyomi](https://github.com/LuftVerbot/kuukiyomi/)** or [Aniyomi](https://aniyomi.org/) - Movies / TV / Anime / [Extensions](https://aniyomi.org/extensions/) / [GitHub](https://github.com/aniyomiorg/aniyomi)
 * ⭐ **[Miru](https://miru.js.org/en/download)** - Movies / TV / Anime / [GitHub](https://github.com/miru-project/miru-app) / [Docs](https://miru.js.org/en/developer/) 
 * ⭐ **[FlixQuest](https://github.com/BeamlakAschalew/flixquest)** - Movies / TV

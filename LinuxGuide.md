@@ -220,7 +220,7 @@ Linux Gaming Guide
 * ↪️ **[Linux 2FA](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25B7_two-factor_authentication)**
 * ⭐ **[Arch Security Wiki](https://wiki.archlinux.org/title/Security)**,  [Linux Hardening](https://vez.mrsk.me/linux-hardening.html) / [2](https://madaidans-insecurities.github.io/guides/linux-hardening.html) or [How to Secure a Linux Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server) - Linux Security Guides
 * ⭐ **[SpoofDPI](https://github.com/xvzc/SpoofDPI)** or [zapret](https://github.com/bol-van/zapret) - DPI circumvention
-* ⭐ **[CryptSetup](https://gitlab.com/cryptsetup/cryptsetup)** or [Tomb](https://dyne.org/software/tomb//) - File Encryption
+* ⭐ **[CryptSetup](https://gitlab.com/cryptsetup/cryptsetup)** or [Tomb](https://dyne.org/software/tomb/) - File Encryption
 * [Securely Wipe Disk](https://wiki.archlinux.org/title/Securely_wipe_disk) or [SSD Memory Cell Clearing](https://wiki.archlinux.org/title/Solid_state_drive/Memory_cell_clearing) - Linux Disk Wipe Guides
 * [JShielder](https://github.com/Jsitech/JShielder) - Hardening Script for Linux Servers
 * [SShuttle](https://github.com/sshuttle/sshuttle) - Proxy
