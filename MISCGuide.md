@@ -39,6 +39,7 @@
 * [RefDesk](https://www.refdesk.com/facts.html) - Site / Tool Index
 * [Cool Websites](https://rentry.co/cool_websites) - Site / Tool Index
 * [iBiblio](https://www.ibiblio.org/) - Site / Tool Index
+* [unapothecary's terminal](https://unapothecary.neocities.org/websites) - Site / Tool Index
 * [5000 Best](http://5000best.com/websites/) / [Tools](http://5000best.com/tools/) - Site / Tool Index
 * [itch.io Tools](https://itch.io/tools/free) - Tool Index
 * [num's link list](https://soda.privatevoid.net/num/links/) - Site Index
@@ -875,6 +876,7 @@
 * [Free-lookup](https://free-lookup.net/) - Phone # Lookup
 * [KittySplit](https://www.kittysplit.com/en/) - Group Expense Splitting Calculator
 * [StageTimer](https://stagetimer.io/) - Event Timer
+* [whena.re](https://whena.re/) - Friend / Team Timezone Viewer
 * [Countdowns](https://www.countdowns.live/) - Create Custom Countdowns
 * [A Bra That Fits](https://www.abrathatfits.org/calculator.php) - Bra Size Calculator
 * [FigureRealm](https://www.figurerealm.com/) - Track Action Figure Collection
