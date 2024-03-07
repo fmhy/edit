@@ -531,7 +531,7 @@
 
 # ► Twitter Tools
 
-* ⭐ **[Trends24](https://trends24.in/)** or [Hashtagify](https://hashtagify.me/) - Trending Hashtags Trackers
+* ⭐ **[Trends24](https://trends24.in/)**, [Sotwe](https://www.sotwe.com/) or [Hashtagify](https://hashtagify.me/) - Trending Hashtags Trackers
 * ⭐ **[/r/Twitter](https://reddit.com/r/Twitter)** - Twitter Subreddit
 * [TumblThree](https://github.com/TumblThreeApp/TumblThree) or [Thread Safe](https://github.com/dkaslovsky/thread-safe) - Twitter / Tumblr Backup Tools
 * [Typefully](https://typefully.com/) - Schedule Tweets
