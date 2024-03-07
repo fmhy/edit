@@ -254,7 +254,7 @@
 
 ***
 
-## ▷ Keyboard / Text Tools
+## ▷ Keyboard / Text
 
 * [openboard](https://github.com/openboard-team/openboard), [Flickboard](https://github.com/nightkr/flickboard), [Thumb-Key](https://github.com/dessalines/thumb-key) or [Unexpected Keyboard](https://github.com/Julow/Unexpected-Keyboard) - Keyboard Apps
 * [AnySoftKeyboard](https://anysoftkeyboard.github.io/) / [Git](https://github.com/AnySoftKeyboard/AnySoftKeyboard) or [Florisboard](https://github.com/florisboard/florisboard) - Incognito Keyboard
@@ -496,7 +496,7 @@
 
 ***
 
-## ▷ Android Social Media
+## ▷ Social Media Apps
 
 * ↪️ **[Social Media Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/social-media/)**
 * ↪️ **[Twitch Adblockers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/social-media#wiki_.25B7_twitch_adblockers)**
@@ -526,7 +526,6 @@
 * [FakeWhats](https://www.fakewhats.com/) or [FakeInfo](https://fakeinfo.net/fake-whatsapp-chat-generator) - Fake WhatsApp Messages
 * [SnapEnhance](https://github.com/rhunk/SnapEnhance) - Snapchat Client
 * [Graysky](https://graysky.app/) - Bluesky Client
-
 
 ***
 
@@ -592,7 +591,7 @@
 
 ***
 
-## ▷ Maps / Location Tracking
+## ▷ Maps / Location
 
 * [Breezy Weather](https://github.com/breezy-weather/breezy-weather), [Clima](https://codeberg.org/Lacerte/clima), [Rain](https://github.com/DarkMooNight/Rain), [KWeather](https://invent.kde.org/utilities/kweather), [Flux](https://play.google.com/store/apps/details?id=de.bendix.flux) or [OMWeather](https://github.com/woheller69/omweather) - Weather Apps
 * [FindMyDevice](https://gitlab.com/Nulide/findmydevice), [phonetrack](https://gitlab.com/eneiluj/phonetrack-oc) / [2](https://gitlab.com/eneiluj/phonetrack-android) or [AutoWhatsAppTriggers](https://play.google.com/store/apps/details?id=om.roitman.autowhatsapptriggers) - Track Phones Location
