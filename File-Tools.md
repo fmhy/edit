@@ -218,7 +218,6 @@
 * [nwipe](https://github.com/martijnvanbrummelen/nwipe)
 * [ShredOS](https://github.com/PartialVolume/shredos.x86_64)
 * [Delapp](https://github.com/differentrain/Delapp)
-* [nmuidi](https://github.com/Dillonb/nmuidi) - Quickly Delete Files
 
 ***
 
