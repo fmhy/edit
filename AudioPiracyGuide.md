@@ -32,7 +32,7 @@
 * [Playlist Randomizer](https://stevenaleong.com/tools/spotifyplaylistrandomizer) - Playlist Randomizer
 * [Playlist Sorter](https://www.playlistsorter.com/) - Sort Playlists
 * [Timelineify](https://www.timelineify.com/) - Sort Playlists by Release
-* [Trikatuka](http://trikatuka.aknakn.eu/) - Playlist Transfer
+* [Trikatuka](http://trikatuka.aknakn.eu/) or [playlists.cloud](https://playlists.cloud/) - Playlist Transfer Tools
 * [Skiley](https://skiley.net/) - Playlist Manager
 * [Kotify](https://github.com/dzirbel/kotify) - Organize Spotify Music
 * [PlaylistProxy](https://playlistproxy.net/) - Create Anonymous Playlists
@@ -701,6 +701,7 @@
 * [Demucs](https://github.com/adefossez/demucs) / [Colab](https://colab.research.google.com/drive/1dC9nVxk3V_VPjUADsnFu8EiT-xnU1tGH?usp=s), [Acapella-Extractor](https://www.acapella-extractor.com/), [splitmysong](https://www.splitmysong.com/), [free-music-demixer](https://freemusicdemixer.com/), [Mikrotakt](https://mikrotakt.app/), [ezstems](https://ezstems.com/) or [melody ml](https://melody.ml/) - Separate Voice from Instrumentals
 * [Adobe Enhance](https://podcast.adobe.com/enhance) - Speech Enhancer
 * [Chowdhury DSP](https://chowdsp.com/products.html) - Audio Signal Processing
+* [Oscilloscope](https://bummsn.de/osc_txt/) - Audio Oscillation Test (turn volume down)
 * [AudioAlter](https://audioalter.com/preset/8d-audio) - Create '8D' Audio
 * [MoFi](https://mofi.loud.red/) - Create Audio Loops
 
