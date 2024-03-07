@@ -260,48 +260,6 @@
 
 ***
 
-## ▷ Browser Emulators
-
-* 🌐 **[Browser Emulator Index](https://emulation.gametechwiki.com/index.php/Emulators_on_browsers)** - List of Browser Emulators
-* ↪️ **[Multi-Console Browser Emulators](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_multi-console_browser_emulators)**
-* [Telemelt](https://telemelt.com/) - Multiplayer Browser Emulator
-* [PSX Party](https://psxparty.kosmi.io/) - Multiplayer Playstation Browser Emulator
-* [PS1FUN](https://www.ps1fun.com/) - PS1 Browser Emulator
-* [LYR9C](https://lyr9c.weebly.com/gba-games.html) - GBA Browser Emulator
-* [LetsPlayGB](https://www.letsplaygb.com/) - Game Boy Browser Emulator
-* [SNESFun](https://www.snesfun.com/) - SNES Browser Emulator
-* [8bbit](https://www.8bbit.com/) or [Play NES](https://www.playnesonline.com/) - NES Browser Emulators
-* [QAOP](https://torinak.com/qaop/games) - Arcade Games
-* [SSega](https://www.ssega.com/) - Sega Browser Emulator
-* [Let's Play Sega](https://www.letsplaysega.com/) - Sega Genesis Browser Emulator
-* [Mega Drive Emulator](https://megadrive-emulator.com/) - Sega Megadrive Browser Emulator
-* [Capcom Town](https://captown.capcom.com/en/retro_games) - Capcom Browser Emulator
-* [DosGames](https://dosgames.com/), [DOSDeck](https://dosdeck.com/), [DOSZone](https://dos.zone/), [MSDOSGames](https://msdosgames.com/) or [PlayDOSGames](https://www.playdosgames.com/) - DOS Browser Emulators
-* [NeoGeoFun](https://www.neogeofun.com/) - Neo Geo Browser Emulator
-* [LCD Games](http://bdrgames.nl/lcdgames/) - Retro LCD Game Emulator
-* [File-Hunter](https://www.file-hunter.com/) - MSX / Amiga Browser Emulator
-* [MSXGamesWorld](https://www.msxgamesworld.com/) or [CheatMSX](https://www.cheatmsx.com/) - MSX Browser Emulators
-* [CommodoreGames](https://www.commodoregames.net/) or [C64Online](https://c64online.com/) - C64 Browser Emulators
-* [Super Mario Bros](https://supermariobros.io/), [SuperMarioBrosGames](https://supermariobrosgames.com/) or [SMBGames](https://smbgames.be/) - Super Mario Browser Emulators
-* [SMWGames](https://www.smwgames.com/) - Hacked Super Mario World Browser Emulators
-* [Jelly Mario](https://jellymar.io/) - Jelly Super Mario
-* [Mega Man Games](https://www.megamangames.net/) - Mega Man Browser Emulator
-* [Q1K3](https://js13kgames.com/games/q1k3/index.html) - Quake Inspired Browser Game
-* [Lain Game](https://laingame.net/) - Lain Game Browser Emulator
-* [OpenLara](http://xproger.info/projects/OpenLara/) - Classic Tomb Raider in Browser / [GitHub](https://github.com/XProger/OpenLara)
-* [You Have Not Died Of Dysentery](https://woe-industries.itch.io/you-have-not-died-of-dysentery) - Oregon Tail with Alt Dysentery Mechanics
-* [The World's Biggest Pac-Man](https://worldsbiggestpacman.com/) - Giant Pac-Man
-* [Tetris](https://tetris.com/), [Tetr.js](http://farter.cn/tetr.js/), [OpenTetris Classic](https://sourceforge.net/projects/opentetrisclassic/) or [NullpoMino](https://github.com/nullpomino/nullpomino) - Play Tetris
-* [TETR.IO](https://tetr.io/) - Multiplayer Tetris / [Plus](https://gitlab.com/UniQMG/tetrio-plus) / [Skin Database](https://you.have.fail/at/tetrioplus/) / [Stats](https://tetrio.team2xh.net/)
-* [Jstris](https://jstris.jezevec10.com/) - Multiplayer Tetris / [Plus](https://discord.gg/mtX8ek82xb) / [Skin Database](https://docs.google.com/spreadsheets/d/1xO8DTORacMmSJAQicpJscob7WUkOVuaNH0wzkR_X194/htmlview#)
-* [First-Person Tetris](https://firstpersontetris.com/) - Play Tetris in First Person 
-* [Play Snake](https://playsnake.org/) - Retro Snake 
-* [Google Maps Snake](https://snake.googlemaps.com/) - Google Snake
-* [Snake-Game](https://www.onemotion.com/snake-game/) - 3D Snake
-* [TENNIS!](https://snek-vunderkind.vercel.app/games/tennis.html) - JavaScript Pong
-
-***
-
 ## ▷ Homebrew
 
 * 🌐 **[Darthsternie](https://darthsternie.net/)** - Console Firmware / Exploit Archive
@@ -364,337 +322,45 @@
 
 ***
 
-# ► Browser Games
+## ▷ Browser Emulators
 
-* 🌐 **[Browser Games Rentry](https://rentry.org/zn79z)** - Browser Game Site Index
-* 🌐 **[Discord Games Lab](https://discord.gg/discordgameslab)** - Discord Games
-* 🌐 **[chat-gpt-games](https://github.com/AdmTal/chat-gpt-games)** - ChatGPT Games / [/r/ChatGPTGaming/](https://www.reddit.com/r/ChatGPTGaming/)
-* 🌐 **[Flashpoint](https://flashpointarchive.org/)** / [Discord](https://discord.gg/Z4gGtJvvn8) or [Flash Library](https://rentry.co/FMHYBase64#software-library-flash) - Flash Game Archives 
-* ↪️ **[Interactive Text Adventures](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_text_adventures)**
-* ⭐ **[Newgrounds](https://www.newgrounds.com/games)** - Browser Games
-* ⭐ **[Ninjakiwi](https://ninjakiwi.com/archive)** - Bloons / Multiplayer / Steam Needed
-* ⭐ **[Line Rider](https://www.linerider.com/)** - Draw Sled Tracks
-* ⭐ **[Cookie Consent Speed.Run](https://cookieconsentspeed.run/)** - Cookie Disabling Game
-* ⭐ **[QWOP](https://www.foddy.net/Athletics.html)** - Ragdoll Running Game
-* ⭐ **[Free Rice](https://freerice.com/)** - Earn Rice for the World Food Programme
-* [/r/WebGames](https://reddit.com/r/WebGames) - Browser Games Subreddit
-* [Armor Games](https://armorgames.com/) - Browser Games
-* [Kongregate](https://www.kongregate.com/) - Browser Games
-* [Addicting Games](https://www.addictinggames.com/) - Browser Games
-* [Y8](https://www.y8.com/) - Browser Games
-* [Crazy Games](https://www.crazygames.com/) - Browser Games
-* [GamezHero](https://www.gamezhero.com/) - Browser Games
-* [Nicky Case](https://ncase.me/) - Browser Games
-* [yell0wsuit](https://yell0wsuit.page/games.html) - Browser Games
-* [N-Arcade](https://n-arcade.io/) - Browser Games
-* [watabou](https://watabou.itch.io/) - Browser Games
-* [DAN-BALL](https://dan-ball.jp/en/) - Browser Games
-* [Yandex Games](https://yandex.com/games/) - Browser Games
-* [Spatial](https://www.spatial.io/) - 3D Browser Games
-* [CoolMathGames](https://www.coolmathgames.com/) - Browser Game Site (disguised as edu games)
-* [FlashMuseum](https://flashmuseum.org/), [Flash Arch](https://flasharch.com/en) or [AlbinoBlackSheep](https://www.albinoblacksheep.com/games/) - Flash Games
-* [Arcade Prehacks](https://www.arcadeprehacks.com/), [SamsHackedGames](https://www.samshackedgames.com/) or [KongHack](https://konghack.com/) - Flash Game Hacks
-* [HTML5 Games](https://html5games.com/) / [Browser](https://html5.thebestarcadescript.com/) - HTML5 Games
-* [iogames.space](https://iogames.space/), [itch.io](https://graebor.itch.io/), [Kindanice](https://kindanice.itch.io/), [Jezzamon](https://jezzamon.itch.io/), [Modd.io](https://www.modd.io/) or [Kevin Games](https://kevin.games/)- .io Games
-* [Games on GitHub](https://github.com/leereilly/games) - GitHub Hosted Games
-* [Lego Games](https://www.lego.com/en-us/kids/games) - Lego Browser Games
-* [Free Rider HD](https://www.freeriderhd.com/) - Draw / Race Bike Tracks
-* [BananaBread](https://kripken.github.io/misc-js-benchmarks/banana/index.html) - Browser Bot FPS
-* [Dynast](https://dynast.io/) - Survival Browser Game
-* [Mexican Train](https://mexicantrain.online/) - Domino Train Game
-* [Gridland](https://gridland.doublespeakgames.com/) - Grid Matching RPG
-* [Backpack Hero](https://thejaspel.itch.io/backpack-hero) - Turn-Based RPG
-* [Sans Fight](https://jcw87.github.io/c2-sans-fight/) - Undertale Fight Simulator
-* [Hacker Wars](https://hackerwars.io/) or [SlaveHack2](https://www.slavehack2.com/) - Hacking Game
-* [2020 Game](https://2020game.io/) - Play through 2020
-* [Flappy Bird](https://flappybird.io/) - HTML5 Flappy Bird
-* [Checkbox Olympics](https://checkbox.toys/) - Checkbox Browser Games
-* [Dino Swords](https://dinoswords.gg/) - Stay Alive by Jumping / Destroying Cacti
-* [The Circle](https://the-circle.app/) - Dodge Circles
-* [PROXX](https://proxx.app/) - A Game of Proximity
-* [Universal paperclips](https://www.decisionproblem.com/paperclips/index2.html) - A Paperclip Creation Simulator 
-* [The Founder](https://thefounder.biz/) - Run a Start-Up
-* [TotalJerkFace](https://totaljerkface.com/) - Happy Wheels & Other Games
-* [ConnectTheStars](https://connectthestars.xyz/) or [Movie To Movie](https://movietomovie.com/) - Connect Stars through Movies
-* [Startup Simulator](https://toggl.com/startup-simulator/) - Startup Simulation Game
-* [Friday Night Funkin](https://ninja-muffin24.itch.io/funkin) or [Bemuse](https://bemuse.ninja/) - Rhythm Game / [Prototype](https://ninja-muffin24.itch.io/friday-night-funkin)
-* [Pulsus](https://www.pulsus.cc/play/) - 3x3 Tile Board Rhythm Game
-* [Prosperity](http://www.playprosperity.ca/) - Civilization Building RPG
-* [Amazeworld](https://www.amazeworld.com/) - Interactive Webmazes
-* [Gandalf](https://gandalf.lakera.ai/) - AI Prompting Skill Game
-* [Little Alchemy](https://littlealchemy.com/) or [Little Alchemy 2](https://littlealchemy2.com/) - Alchemy Game
-* [Short Trip](https://alexanderperrin.com.au/paper/shorttrip/) - Relaxing Cat Game
-* [Quick, Draw](https://quickdraw.withgoogle.com/) - Doodle Game
-* [Raptjs](https://madebyevan.com/rapt/) or [Synesthesia in Space](http://synesthesiagame.com/) - Puzzle Platformer
-* [Tales of Dorime](https://dorime.udany.net/) or [Grimace’s Birthday](https://grimacesbirthday.com/) - 2D Platformer
-* [PrinceJS](https://princejs.com/) - Prince of Persia
-* [3rd World Farmer](https://3rdworldfarmer.org/) - Farm Sim
-* [Sim CB](https://benoitessiambre.com/macro.html) - Central Bank Sim
-* [Operius](https://mors-games.itch.io/operius) - Space Shooter
-* [Orbity](https://orbity.io/game.php) - Spaceship Launching Game 
-* [The Wiki Game](https://www.thewikigame.com/), [Six Degrees of Wikipedia](https://www.sixdegreesofwikipedia.com/) or [WikiRacer](https://wikiracer.io/) - Wiki Exploration Games / [Automation Tool](https://gitlab.com/johanbluecreek/wikiracer)
-* [GeoFS](https://www.geo-fs.com/geofs.php) - Plane Simulator
-* [Ehmorris](https://ehmorris.com/lander/) - Spaceship Landing Game
-* [Money Simulator](https://simulator.money) - Money Simulator
-* [Minecraft Classic](https://classic.minecraft.net/) - Play Minecraft Classic
-* [Marble Blast Gold Web](https://marbleblast.vani.ga/) - Marble Blast Gold in Browser
-* [The Multiverse](https://across-multiverse.com/) - Universe Exploration Game Across
-* [The Thorp of Woodstock](https://cheerfulghost.github.io/civ-clicker/index.html) - Build a Civilization
-* [FSHistory](https://s-macke.github.io/FSHistory/) - Play Classic Flight Simulator 
-* [Magnetic Scripts](https://msmemorial.if-legends.org/msa2/msa2.html) - Magnetic Scrolls 
-* [SpaceCadetPinball](https://alula.github.io/SpaceCadetPinball) - Browser Space Cadet Pinball
-* [Ski Free](https://archive.org/details/win3_SKIFREE) - Browser Ski Free
-* [Neopets](https://www.neopets.com/), [tamaNOTchi](https://tamanotchi.world/) or [Marapets](https://www.marapets.com) - Virtual Pet Game 
-* [Gaia Online](https://www.gaiaonline.com/) - Anime Virtual Pet 
-* [Super Auto Pets](https://teamwood.itch.io/super-auto-pets) - Pet Battle Game
-* [CrossCode](https://www.cross-code.com/en/home), [Forumwarz](https://www.forumwarz.com/) or [Dungeon Crawl](https://crawl.develz.org/) - Browser RPG
-* [Kingdom of Loathing](https://www.kingdomofloathing.com/) or [Frasier Fantasy](https://edward-la-barbera.itch.io/frasier-fantasy) - Comedy RPG
-* [Bruno-Simon](https://bruno-simon.com/) - Truck Driving Game
-* [racing-game](https://racing.pmnd.rs/) - Driving Game / [GitHub](https://github.com/pmndrs/racing-game) / [Discord](https://discord.gg/dQW7fDmaAG)
-* [slow roads](https://slowroads.io/) - Driving Game
-* [JoeDangerTheGame](https://joedangerthegame.com/) - Trials Inspired Game
-* [Polka Dot Game](https://www.polkadotgame.com/) - Dodge & Eat Dots
-* [Spinner](https://hyperspace-wizard.itch.io/spinner) - Spinner Timing Game
-* [SWOOOP](https://playcanv.as/p/JtL2iqIH) - Fly a Bi-Plane around an Island 
-* [Plane Food Simulator](https://sheepandram.itch.io/pfs2021) - Plane Food Eating Game
-* [Master Archer](https://playcanv.as/p/JERg21J8/) - Archery Game 
-* [Galaxies](https://playcanv.as/p/Ikq6Uk6A/) - Space Combat Game 
-* [Orbital Survival](https://playcanv.as/p/3G3RnfUz/) - Survive Waves of UFOs 
-* [Doodle Cricket](https://doodlecricket.github.io/index.html#/) - Play Cricket as a Cricket
-* [MousePoint](https://creativetechguy.com/mousepoint) - Mouse Pointing Game
-* [Spot the Differences](https://www.spotthedifference.com/) - Find the Differences
-* [Kuku Kube](https://kuku-kube.com/) - Find the Different Squares
-* [Alternate History Simulator](https://abw.blue/) - Write Alternate History 
-* [NationStates](https://www.nationstates.net/) - Nation Simulation Game 
-* [CandyBox](https://candybox2.github.io/) - Candy Eating Game 
-* [BTShip](https://github.com/hairarrow/btship) - Typescript Boat Game
-* [asciicker](https://asciicker.com/) - ASCII Browser Adventure
-* [Maze](https://www.epgsoft.com/maze/), [Daedalus](https://www.astrolog.org/labyrnth/daedalus.htm), [Amaze](https://sourceforge.net/projects/qtamaze/files/) or [MazeGenerator](https://www.mazegenerator.net/) - Maze Generators
-* [BrantSteele](https://brantsteele.net/) or [Simublast](https://www.simublast.com/) - Game Show Simulators
-* [Shooty Ship Pumpkin Smash](https://www.thepointless.com/apps/shooty-ship-pumpkin-smash/index.html) - Shoot Pumpkins
-* [Edu-Games](https://www.edu-games.org/) - Educational Games
-* [Gameload](https://www.gameload.top/) - Unity Browser Game Extension 
-
-***
-
-## ▷ Multiplayer
-
-* ⭐ **[Krunker.io](https://krunker.io/)**, [2](https://browserfps.com/) - PvP FPS / [Market Ping](https://yee.how/market-ping/) / [Client](https://client.cuffuffles.dev/)
-* ⭐ **[GarticPhone](https://garticphone.com/)** - Telephone Game
-* [skribbl](https://skribbl.io/), [Sketchful](https://sketchful.io/), [Drawize](https://www.drawize.com/) or [Gartic](https://gartic.io/) - Drawing / Guessing Game / Multiplayer
-* [Bloob.io](https://bloob.io/)
-* [PlayingCards](https://playingcards.io/)
-* [FlyOrDie](https://www.flyordie.com/) 
-* [JKLM.FUN](https://jklm.fun/) 
-* [Gidd.io](https://gidd.io/)
-* [Playok](https://www.playok.com/)
-* [PaperGames](https://papergames.io/)
-* [Foony](https://foony.com/)
-* [Tensor Trust](https://tensortrust.ai/) - AI Prompting Multiplayer Skill Game
-* [Venge](https://venge.io/), [LolShot](https://lolshot.io/) or [ShellShock](https://www.shellshock.io/) - PvP FPS
-* [Bruh.io](https://bruh.io/), [2](https://play.bruh.io/) or [Surviv.io](https://surviv.io/) - Top-Down Battle Royal
-* [ZombsRoyale.io](https://zombsroyale.io/) - Zombie Battle Royale 
-* [Yohoho.io](https://www.yohoho.io/) - Pirate Battle Royale
-* [1v1.LOL](https://1v1.lol/) - 1v1 Building / Battle Sim
-* [MiniRoyale](https://miniroyale.io/) - Battle Royal Game
-* [Wanderers](https://wanderers.io/) - Real-Time Strategy Game
-* [TagPro](https://koalabeast.com/) - Capture the Flag
-* [Wings.io](https://wings.io/) - Plane Battles
-* [Death by AI](https://deathbyai.gg/) - Survival Plan Game
-* [Gpop.io](https://gpop.io/) - Rhythm Game
-* [Curve Fever](https://curvefever.pro/) - Line Battles
-* [HoverCats](https://hovercats.gg/) - Multiplayer Crosswords
-* [LOLBeans](https://lolbeans.io/) - Fall Guys Clone
-* [Betrayal](https://betrayal.io/) - Among Us Clone
-* [TownOfSalem2](https://www.townofsalem2.com) - Role-Based Mystery-Solving MMO
-* [Slither.io](http://slither.io/) or [worm.is](https://store.steampowered.com/app/466910/Wormis_The_Game/) - Grow the Longest Worm
-* [diep.io](https://diep.io/) or [Scenexe.io](https://scenexe.io/) - Become the Strongest Tank 
-* [Hexar.io](http://www.hexar.io/), [splix.io](https://splix.io/) or [paper-io](https://paper-io.com/) - Control the Map 
-* [mitos.is](https://store.steampowered.com/app/389570/Mitosis_The_Game/) - Become the Biggest Cell 
-* [agar.io](https://agar.io/) - Become the Biggest Circle 
-* [Hole.io](https://hole-io.com/) - Become the Biggest Hole / [Discord](https://discord.gg/UA2HdpT) 
-* [Tanki](https://tankionline.com/) - Online Team VS Team Tank Game
-* [Plink](http://labs.dinahmoe.com/plink/) - Music Game
-* [Make It Meme](https://makeitmeme.com/) - Meme Party Game
-* [Rooms](https://rooms.xyz/) - Room Design Game / [Discord](https://discord.gg/rooms)
-* [Fishington](https://fishington.io/) - Fishing Game
-* [Too Many Chefs](https://www.toomanychefs.party/) - Text-Based Coop Cooking Game 
-* [Haxball](https://www.haxball.com/) - Physics-Based Soccer
-* [Powerline.io](https://powerline.io/) or [Games 1729](https://www.games1729.com/serpentron/) - Snake
-* [Bonk](https://bonk.io/) - Multiplayer Physics Game
-* [GPRO](https://www.gpro.net/gb/gpro.asp) - F1 Manager Game
-* [Miniconomy](https://www.miniconomy.com/) - Economy Game
-* [tix.tax](https://tix.tax/) or [PlayTicTacToe](https://playtictactoe.org/) - Tic-Tac-Toe
-
-***
-
-## ▷ Board / Card / Dice
-
-* 🌐 **[Curlie Board Games](https://curlie.org/en/Games/Video_Games/Recreation/Browser_Based/Board_Games)**, [Board Game Online](https://www.boardgame-online.com/), [Board Game Arena](https://en.boardgamearena.com/) or [FunNode](https://www.funnode.com/) - Board Game Indexes
-* 🌐 **[Curlie Cards](https://curlie.org/en/Games/Video_Games/Recreation/Browser_Based/Cards)** - Card Game Index
-* 🌐 **[Curlie Yahtzee](https://curlie.org/en/Games/Video_Games/Recreation/Browser_Based/Dice/Yahtzee)** - Yahtzee Game Index
-* 🌐 **[Awesome Go/Baduk/Weiqi](https://github.com/yanchick/awesome-GoBadukWeiqi)** - Go/Baduk/Weiqi Resources
-* ⭐ **[WorldOfCardGames](https://worldofcardgames.com/)**, [247Games](https://www.247games.com/), [CardzMania](https://www.cardzmania.com/) or [World of Solitaire](https://worldofsolitaire.com/) - Card Games
-* [Richup](https://richup.io/) - Monopoly-Style Board Game
-* [Rally The Troops](https://www.rally-the-troops.com/) - Historical Board Games / [Discord](https://discord.gg/CBrTh8k84A)
-* [AllBad.Cards](https://bad.cards/) or [CardsAgainstFormality](https://cardsagainstformality.io/) - Cards Against Humanity Online 
-* [Wikidata Card Game Generator](https://cardgame.blinry.org/) - Generate "Top Trumps" Cards with Wikidata
-* [Solitaired](https://solitaired.com/), [Solitr](https://www.solitr.com/) or [Solitaire Owl](https://solitaireowl.com/) - Solitaire
-* [Mah-Jongg](https://www.mah-jongg.ch/), [Mahjong4Friends](https://mahjong4friends.com/) or [Classic Mahjong](https://classic-mahjong.com/) - Mahjong Games
-* [Blackjack Break](https://blackjackbreak.com/) or [HTML5 Blackjack](https://www.html5blackjack.net/) - Browser Blackjack
-* [Poker Now](https://www.pokernow.club/) or [247 Free Poker](https://www.247freepoker.com/) - Multiplayer Poker
-* [KDice](https://www.kdice.com/) - Multiplayer Dice War
-* [Colonist](https://colonist.io/) - Multiplayer "Settlers of Catan" 
-* [Hexxagon](https://hexxagon.com/) - Hexagonal Board Game
-* [The Bafflement Fires](https://www.dpoetry.com/fires/) - 1950's Freemasonic Board Game
-
-***
-
-## ▷ Chess / Checkers
-
-* 🌐 **[Awesome Chess](https://github.com/hkirat/awesome-chess)** or [Chess Resources](https://redd.it/u43nrc) - Chess Resources
-* 🌐 **[/m/Chess](https://www.reddit.com/user/korfor/m/chess/)** or [/r/Chess](https://reddit.com/r/chess) - Chess Subreddits
-* 🌐 **[/r/Chess Books](https://reddit.com/r/chess/wiki/books)** - Recommended Chess Books
-* ⭐ **[lichess](https://lichess.org/)**, [WebChess](http://chess.delorie.com/), [GameKnot Chess](https://gameknot.com/), [SparkChess](https://www.sparkchess.com/) or [Chess.com](https://www.chess.com/) - Chess Platforms / [Customize](https://prettierlichess.github.io/)
-* ⭐ **[Scid vs. PC](https://scidvspc.sourceforge.net/)**, [TheChessWebsite](https://www.thechesswebsite.com/), [Chess Tempo](https://chesstempo.com/), [Chessercise](https://www.chessercise.xyz/), [Lucas Chess](https://lucaschess.pythonanywhere.com/) or [List Study](https://listudy.org/en) - Learn / Practice Chess
-* [ChessDVDBooksProg](https://t.me/ChessDVDBooksProg) - Chess Courses, Books, Programs etc.
-* [Chesses](https://pippinbarr.com/chesses/) or [Omnichess](https://omnichess.club/) - Multiple Styles of Chess
-* [The Kilobyte’s Gambit](https://vole.wtf/kilobytes-gambit/) - 1k Chess Game
-* [Kung Fu Chess](https://www.kfchess.com/) - Real-Time Chess w/o Turns
-* [PokemonChess](https://pokemonchess.com/) - Pokemon Style Chess / [Discord](https://discord.gg/fp5bcCqg8q)
-* [Real Board](https://github.com/karayaman/lichess-with-a-real-board) - Play Lichess w/ Real Chess Board
-* [Gambit](https://github.com/maaslalani/gambit) - Linux Terminal Chess
-* [Chess24](https://chess24.com/) - Real-Time Chess Tournaments
-* [Laser](https://playlaser.xyz/) - Alt Style Chess
-* [Star Wars Chess](https://archive.org/details/msdos_Star_Wars_Chess_1993) - Star Wars Style Chess / [Manual](https://archive.org/details/star-wars-chess-manual/)
-* [lichess4545](https://www.lichess4545.com/) - Lichess Leagues
-* [Chess Monitor](https://www.chessmonitor.com/) - Track Chess Analytics
-* [OpeningTree](https://www.openingtree.com/) - Download / Visualize Chess Games
-* [Game Report](https://chess.wintrcat.uk/), [Decode Chess](https://app.decodechess.com/), [En Croissant](https://encroissant.org/) or [Chess Vision](https://chessvision.ai/) - Chess Game / Move Analysis
-* [Bill Wall's Chess Page](http://billwall.phpwebhosting.com/) or [365Chess](https://www.365chess.com/) - Chess History / Lessons
-* [Chessable](https://www.chessable.com/ ) or [Chess Factor](https://www.chessfactor.com/) - Chess Courses
-* [Chess Base](https://chessbase.in/) / [2](https://en.chessbase.com/) - Indian Chess News
-* [ChessProgramming](https://www.chessprogramming.org/) - Chess Programming Wiki
-* [/r/Checkers](https://www.reddit.com/r/checkers/) - Checkers Subreddit
-* [Fly or Die](https://www.flyordie.com/checkers/) or [Lidraughts](https://lidraughts.org/) - Multiplayer Checkers
-* [Bloob Checkers](https://bloob.io/checkers) - 4 Player Checkers
-* [Checkers AI](https://checkers.ai-games.app/) - Play Checkers vs AI
-
-***
-
-## ▷ Puzzle Games
-
-* ⭐ **[BestCrosswords](https://www.bestcrosswords.com/)**, [USAToday](https://games.usatoday.com/category/word), [TheWordSearch](https://thewordsearch.com/) or [Regex-Crossword](https://jimbly.github.io/regex-crossword/) - Crossword Puzzles / [Creator](https://puzzlemaker.discoveryeducation.com/), [2](https://www.xwords-generator.de/en) / [Solver](https://www.wordplays.com/), [2](https://www.dictionary.com/e/crosswordsolver/), [3](https://crossword-solver.io/)
-* ⭐ **[KillerCrossword](https://killercrossword.com/)** - No Clue Crosswords
-* ⭐ **[MoreWords](https://www.morewords.com/)** or [WordHub](https://wordhub.com/) - Scrabble
-* ⭐ **[Rubik’s Cube Explorer](https://iamthecu.be/)** or [The Cube](https://bsehovac.github.io/the-cube/) - Online Rubix Cubes / [Solver](https://rubiksolve.com/), [2](https://rubiks-cube-solver.com/)
-* ⭐ **[jiggie](https://jiggie.fun/)** - Custom Puzzles + Multiplayer
-* [Puzzle Party](https://artsandculture.google.com/experiment/puzzle-party/EwGBPZlIzv0KRw) - Multiplayer Jigsaws
-* [PuzzlePrime](https://www.puzzleprime.com/) - Problems / Puzzles
-* [HoverCats](https://hovercats.gg/) - Multiplayer Crosswords
-* [Regex Cross­word](https://regexcrossword.com/) - Regex Cross­words
-* [eWordChallenge](https://www.ewordchallenge.net/) - Boggle Online
-* [ChessGuessr](https://www.chessguessr.com/) - Chess Style Wordle
-* [Game for the Brain](https://www.gamesforthebrain.com/) - Puzzles / Quizzes
-* [MasasGames](https://masasgames.com/) - Virtual Escape Rooms
-* [Sokoban Online](https://www.sokobanonline.com/) - Sokoban Puzzles
-* [Sokoban](https://suppilulemur.neocities.org/) - Zelda-Themed Sokoban Puzzles
-* [DuckDuckgo 2048](https://duckduckgo.com/?q=play+2048&amp;ia=answer), [Power](https://1024-game.netlify.app/) or [2048](https://play2048.co/) - 2048 Puzzles
-* [Flappy 2048](https://www.flappy-2048.com/) - Flappy Bird Style 2048
-* [JetHolt](https://jetholt.com/hacking/), [RebelWithoutACause](https://rebelwithoutarootcause.com/demos/terminal/) or [Aramor](http://aramor.epizy.com/fallout-terminal/main) - Fallout Terminal Hacking Game
-* [Vuesweeper](https://vuesweeper.netlify.app/) - Vue Minesweeper
-* [PROXX](https://proxx.app/) - Space Minesweeper
-* [Rockbasher](https://www.rockbasher.com/) - Retro Style Puzzle Game
-* [Treksit](https://treksit.com/index.html), [Game about Squares](http://gameaboutsquares.com/) or [Orion](https://orion.lukasbach.com/) - Puzzle Game
-* [Euclidea](https://www.euclidea.xyz/) - Geometric Puzzles
-* [Pixel Puzzler](https://pixel-puzzler.playcurious.games/) - Block Puzzle
-* [Menneske](https://www.menneske.no/eng/) - Number Puzzles
-* [Emozle](https://emozle.com/) - Emoji Puzzle
-* [Sudoku XV](https://keeri.place/sudoku-xv) - Sudoku
-* [Nerdle](https://nerdlegame.com/) - Number Guessing Game
-* [Cinenerdle2](https://www.cinenerdle2.app/) - Movie Puzzle
-* [picture dots](https://www.picturedots.com/) - Make & Play Dot Puzzles
-* [babble.xyz](https://babbl.xyz/) - Infinite Scrabble
-* [MakeAWordSearch](http://www.makeawordsearch.net/) - Word Search Creator
-* [RobinWords](https://www.robinwords.com/) - Word Ladder Game
-* [Divergent Association Task](https://www.datcreativity.com/task) - Unrelated Word Game
-* [Oh, My Dots!](https://www.ohmydots.com/) - Connect the Dots Game
-* [Click Click Click](https://clickclickclick.click/) - Clicking Puzzle
-* [WordPlays](https://www.wordplays.com/), [Unscramble](https://unscramble.me/) or [WorduUnscrambler](https://www.wordunscrambler.net/) - Cheat at Scrabble / Words with Friends / Crossword Puzzles
-
-***
-
-## ▷ Incremental / Idle
-
-* 🌐 **[/r/Incremental_Games](https://www.reddit.com/r/incremental_games/wiki/list_of_incremental_games)**, [Galaxy Click](https://galaxy.click/), [Incremental Game Plaza](https://plaza.dsolver.ca/), [IncrementalDB](https://www.incrementaldb.com/) or [Almost Idle](https://almostidle.com/) - Incremental Games Indexes
-* ⭐ **[Cookie Clicker](https://orteil.dashnet.org/cookieclicker/) / [2](https://orteil.dashnet.org/experiments/cookie/)** - Incremental Cookie Game
-* ⭐ **Cookie Clicker Tools** - [Multiple Tools](https://github.com/CookieMonsterTeam/CookieMonster) / [Calculator](https://coderpatsy.bitbucket.io/cookies/cookies.html) / [Mod](https://redd.it/7ogf45)
-* [The Monolith](http://monolith.greenpixel.ca/) - Incremental RPG
-* [BitBurner](https://danielyxie.github.io/bitburner/) - Incremental RPG
-* [Particle Clicker](https://particle-clicker.web.cern.ch/) - Incremental Particle Physics Games
-* [KittensGame](https://kittensgame.com/web/) - Incremental Kitten Maker
-* [WarClicks](https://warclicks.com/) - Incremental War Game
-* [Goblin Bet](https://goblin.bet/) - Bet on 1v1 Monster Fights
-* [The First Alkahistorian](https://nagshell.github.io/elemental-inception-incremental/) - Incremental Elemental Game
-* [Merry Clickmas](https://www.digitalchestnut.com/merryclickmas/) - Incremental Present Maker
-* [FactoryIdle](https://factoryidle.com/) - Factory Idle Sim
-* [Idlescape](https://www.play.idlescape.com/) - Idle MMORPG
-* [ProgressQuest](http://progressquest.com/) - Idle RPG
-* [Anti Matter Dimesions](https://ivark.github.io/) - Anti Matter Idle Game
-* [Theory of Magic](https://mathiashjelm.gitlab.io/arcanum/) - Magic Idle Game
-* [Succubox](https://www.glaielgames.com/succubox/) - Loot Box Idle Game
-* [Swarm Simulator](https://www.swarmsim.com/) - Idle Bug Swarm Game
-
-***
-
-## ▷ Wordle Games
-
-* 🌐 **[Awesome Worldle](https://github.com/prakhar897/awesome-wordle)** - Worlde Game Index
-* ⭐ **[Wordles of the World](https://rwmpelstilzchen.gitlab.io/wordles/)** - [Analyzer](https://wordle-analyzer.com/) / [Solver](https://github.com/jonhoo/roget)
-* [Wordle Unlimited](https://wordleunlimited.org/)
-* [Huedle](https://huedle.com/)
-* [Chessle](https://jackli.gg/chessle)
-* [BoxOfficeGA](https://boxofficega.me/)
-* [Alphabeticle](https://alphabeticle.xyz/)
-* [WordMaze](https://wordmaze.click/)
-* [Clidle](https://github.com/ajeetdsouza/clidle)
-* [WordleGame](https://wordlegame.org/)
-* [Squaredle](https://squaredle.app/)
-* [Tweakdle](https://tweakdle.chariz.com/)
-* [Wordlevs](https://wordlevs.com/)
-* [Octordle](https://www.britannica.com/games/octordle/)
-* [Wordless](https://lessgames.com/wordless) 
-* [Minecraftle](https://minecraftle.zachmanson.com/) - Minecraft Crafting Style Wordle
-
-***
-
-## ▷ Guessing Games
-
-* ⭐ **[skribbl](https://skribbl.io/)**, [Sketchful](https://sketchful.io/), [Drawize](https://www.drawize.com/), [Pictioner](https://www.pictioner.com/) or [Gartic](https://gartic.io/) - Drawing / Guessing Game / Multiplayer
-* ⭐ **[GuessTheGame](https://guessthe.game/)** - Game Guessing Game
-* ⭐ **[GeoGuessr](https://www.geoguessr.com/)**, [Globle](https://globle-game.com/), [City Guesser](https://virtualvacation.us/guess), [Quizzity](https://david-peter.de/quizzity/), [Where Am I?](https://whereami.io/) or [Geotastic](https://geotastic.de/) - Location Guessing Game / [Guide](https://somerandomstuff1.wordpress.com/2019/02/08/geoguessr-the-top-tips-tricks-and-techniques/)
-* [Akinator](https://en.akinator.com/) - 20 Questions
-* [ChatGuessr](https://chatguessr.com/) - GeoGuessr for Twitch
-* [LostGamer](https://lostgamer.io/) - Video Game GeoGuessr
-* [GTA V GeoGuesser](https://gta-geoguesser.com/) - GTA V GeoGuessr
-* [GeoArtwork](https://artsandculture.google.com/experiment/geo-artwork/wgEPVBAUiRVlEQ) - Guess Origins of Cultural Artifacts
-* [TimeGuessr](https://timeguessr.com/) - Historical GeoGuessr
-* [English Sandwhich](https://englishsandwich.github.io/) - Guess Where Dishes are From
-* [FlightGuesser](https://flightguesser.com/) - Flight Path Guessing Game
-* [WTM](https://whatthemovie.com/), [Kino.wtf](https://www.kino.wtf/), [RT Daily](https://www.rottentomatoes.com/daily/) or [Framed](https://framed.wtf/) - Movie Guessing Games
-* [Music Challenge](https://pudding.cool/2020/04/music-challenge/), [Songless](https://lessgames.com/songless) or [MusicNerd](https://musicnerd.io/) - Music Guessing Games
-* [DanceMusic](http://dancemusic.wtf/) - Electronic Music Genre Guessing Game
-* [Guess My Rank](https://guessmyrank.com/) - Guess Player Game Ranks
-* [Poeltl](https://poeltl.dunk.town/) - NBA Guessing Game
-* [The Higher Lower Game](https://www.higherlowergame.com/) or [GoogleFued](https://googlefeud.com/) - Guess What's Googled More
-* [Guess The Price](https://guesstheprice.net/) - Price Guessing Game
-* [Apparle](https://www.apparle.com/) - Apparel Price Guessing Game
-* [Metazooa](https://metazooa.com/) - Animal Guessing Game
-* [Guess The Year](https://guess-the-year.davjhan.com/) or [ChronoPhoto](https://www.chronophoto.app/) - Year Guessing Game
-* [Approved, or Not Approved?](https://approvednotapproved.com/) - Approved Advertising Guessing Game
-* [damn.dog](https://damn.dog/) - wikiHow Guessing Game
-* [Wikitrivia](https://wikitrivia.tomjwatson.com/) - Guess Which Event Came First
-* [AI Bingo](https://ai-bingo.lipsumar.io/) - AI Art Guessing Games
+* 🌐 **[Browser Emulator Index](https://emulation.gametechwiki.com/index.php/Emulators_on_browsers)** - List of Browser Emulators
+* ↪️ **[Multi-Console Browser Emulators](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_multi-console_browser_emulators)**
+* [Telemelt](https://telemelt.com/) - Multiplayer Browser Emulator
+* [PSX Party](https://psxparty.kosmi.io/) - Multiplayer Playstation Browser Emulator
+* [PS1FUN](https://www.ps1fun.com/) - PS1 Browser Emulator
+* [LYR9C](https://lyr9c.weebly.com/gba-games.html) - GBA Browser Emulator
+* [LetsPlayGB](https://www.letsplaygb.com/) - Game Boy Browser Emulator
+* [SNESFun](https://www.snesfun.com/) - SNES Browser Emulator
+* [8bbit](https://www.8bbit.com/) or [Play NES](https://www.playnesonline.com/) - NES Browser Emulators
+* [QAOP](https://torinak.com/qaop/games) - Arcade Games
+* [SSega](https://www.ssega.com/) - Sega Browser Emulator
+* [Let's Play Sega](https://www.letsplaysega.com/) - Sega Genesis Browser Emulator
+* [Mega Drive Emulator](https://megadrive-emulator.com/) - Sega Megadrive Browser Emulator
+* [Capcom Town](https://captown.capcom.com/en/retro_games) - Capcom Browser Emulator
+* [DosGames](https://dosgames.com/), [DOSDeck](https://dosdeck.com/), [DOSZone](https://dos.zone/), [MSDOSGames](https://msdosgames.com/) or [PlayDOSGames](https://www.playdosgames.com/) - DOS Browser Emulators
+* [NeoGeoFun](https://www.neogeofun.com/) - Neo Geo Browser Emulator
+* [LCD Games](http://bdrgames.nl/lcdgames/) - Retro LCD Game Emulator
+* [File-Hunter](https://www.file-hunter.com/) - MSX / Amiga Browser Emulator
+* [MSXGamesWorld](https://www.msxgamesworld.com/) or [CheatMSX](https://www.cheatmsx.com/) - MSX Browser Emulators
+* [CommodoreGames](https://www.commodoregames.net/) or [C64Online](https://c64online.com/) - C64 Browser Emulators
+* [Super Mario Bros](https://supermariobros.io/), [SuperMarioBrosGames](https://supermariobrosgames.com/) or [SMBGames](https://smbgames.be/) - Super Mario Browser Emulators
+* [SMWGames](https://www.smwgames.com/) - Hacked Super Mario World Browser Emulators
+* [Jelly Mario](https://jellymar.io/) - Jelly Super Mario
+* [Mega Man Games](https://www.megamangames.net/) - Mega Man Browser Emulator
+* [Q1K3](https://js13kgames.com/games/q1k3/index.html) - Quake Inspired Browser Game
+* [Lain Game](https://laingame.net/) - Lain Game Browser Emulator
+* [OpenLara](http://xproger.info/projects/OpenLara/) - Classic Tomb Raider in Browser / [GitHub](https://github.com/XProger/OpenLara)
+* [You Have Not Died Of Dysentery](https://woe-industries.itch.io/you-have-not-died-of-dysentery) - Oregon Tail with Alt Dysentery Mechanics
+* [The World's Biggest Pac-Man](https://worldsbiggestpacman.com/) - Giant Pac-Man
+* [Tetris](https://tetris.com/), [Tetr.js](http://farter.cn/tetr.js/), [OpenTetris Classic](https://sourceforge.net/projects/opentetrisclassic/) or [NullpoMino](https://github.com/nullpomino/nullpomino) - Play Tetris
+* [TETR.IO](https://tetr.io/) - Multiplayer Tetris / [Plus](https://gitlab.com/UniQMG/tetrio-plus) / [Skin Database](https://you.have.fail/at/tetrioplus/) / [Stats](https://tetrio.team2xh.net/)
+* [Jstris](https://jstris.jezevec10.com/) - Multiplayer Tetris / [Plus](https://discord.gg/mtX8ek82xb) / [Skin Database](https://docs.google.com/spreadsheets/d/1xO8DTORacMmSJAQicpJscob7WUkOVuaNH0wzkR_X194/htmlview#)
+* [First-Person Tetris](https://firstpersontetris.com/) - Play Tetris in First Person 
+* [Play Snake](https://playsnake.org/) - Retro Snake 
+* [Google Maps Snake](https://snake.googlemaps.com/) - Google Snake
+* [Snake-Game](https://www.onemotion.com/snake-game/) - 3D Snake
+* [TENNIS!](https://snek-vunderkind.vercel.app/games/tennis.html) - JavaScript Pong
 
 ***
 
@@ -1259,3 +925,337 @@
 * [Tabletopy](https://tabletopy.com/) - Tabletop RPG Soundboard
 * [Map Generator](https://emptybuttons.itch.io/map-generator) - Tabletop Roleplaying Map Generator
 * [MOGG](http://img.mogg.fr/HIRES/) - Magic The Gathering Card Scans
+
+***
+
+# ► Browser Games
+
+* 🌐 **[Browser Games Rentry](https://rentry.org/zn79z)** - Browser Game Site Index
+* 🌐 **[Discord Games Lab](https://discord.gg/discordgameslab)** - Discord Games
+* 🌐 **[chat-gpt-games](https://github.com/AdmTal/chat-gpt-games)** - ChatGPT Games / [/r/ChatGPTGaming/](https://www.reddit.com/r/ChatGPTGaming/)
+* 🌐 **[Flashpoint](https://flashpointarchive.org/)** / [Discord](https://discord.gg/Z4gGtJvvn8) or [Flash Library](https://rentry.co/FMHYBase64#software-library-flash) - Flash Game Archives 
+* ↪️ **[Interactive Text Adventures](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_text_adventures)**
+* ⭐ **[Newgrounds](https://www.newgrounds.com/games)** - Browser Games
+* ⭐ **[Ninjakiwi](https://ninjakiwi.com/archive)** - Bloons / Multiplayer / Steam Needed
+* ⭐ **[Line Rider](https://www.linerider.com/)** - Draw Sled Tracks
+* ⭐ **[Cookie Consent Speed.Run](https://cookieconsentspeed.run/)** - Cookie Disabling Game
+* ⭐ **[QWOP](https://www.foddy.net/Athletics.html)** - Ragdoll Running Game
+* ⭐ **[Free Rice](https://freerice.com/)** - Earn Rice for the World Food Programme
+* [/r/WebGames](https://reddit.com/r/WebGames) - Browser Games Subreddit
+* [Armor Games](https://armorgames.com/) - Browser Games
+* [Kongregate](https://www.kongregate.com/) - Browser Games
+* [Addicting Games](https://www.addictinggames.com/) - Browser Games
+* [Y8](https://www.y8.com/) - Browser Games
+* [Crazy Games](https://www.crazygames.com/) - Browser Games
+* [GamezHero](https://www.gamezhero.com/) - Browser Games
+* [Nicky Case](https://ncase.me/) - Browser Games
+* [yell0wsuit](https://yell0wsuit.page/games.html) - Browser Games
+* [N-Arcade](https://n-arcade.io/) - Browser Games
+* [watabou](https://watabou.itch.io/) - Browser Games
+* [DAN-BALL](https://dan-ball.jp/en/) - Browser Games
+* [Yandex Games](https://yandex.com/games/) - Browser Games
+* [Spatial](https://www.spatial.io/) - 3D Browser Games
+* [CoolMathGames](https://www.coolmathgames.com/) - Browser Game Site (disguised as edu games)
+* [FlashMuseum](https://flashmuseum.org/), [Flash Arch](https://flasharch.com/en) or [AlbinoBlackSheep](https://www.albinoblacksheep.com/games/) - Flash Games
+* [Arcade Prehacks](https://www.arcadeprehacks.com/), [SamsHackedGames](https://www.samshackedgames.com/) or [KongHack](https://konghack.com/) - Flash Game Hacks
+* [HTML5 Games](https://html5games.com/) / [Browser](https://html5.thebestarcadescript.com/) - HTML5 Games
+* [iogames.space](https://iogames.space/), [itch.io](https://graebor.itch.io/), [Kindanice](https://kindanice.itch.io/), [Jezzamon](https://jezzamon.itch.io/), [Modd.io](https://www.modd.io/) or [Kevin Games](https://kevin.games/)- .io Games
+* [Games on GitHub](https://github.com/leereilly/games) - GitHub Hosted Games
+* [Lego Games](https://www.lego.com/en-us/kids/games) - Lego Browser Games
+* [Free Rider HD](https://www.freeriderhd.com/) - Draw / Race Bike Tracks
+* [BananaBread](https://kripken.github.io/misc-js-benchmarks/banana/index.html) - Browser Bot FPS
+* [Dynast](https://dynast.io/) - Survival Browser Game
+* [Mexican Train](https://mexicantrain.online/) - Domino Train Game
+* [Gridland](https://gridland.doublespeakgames.com/) - Grid Matching RPG
+* [Backpack Hero](https://thejaspel.itch.io/backpack-hero) - Turn-Based RPG
+* [Sans Fight](https://jcw87.github.io/c2-sans-fight/) - Undertale Fight Simulator
+* [Hacker Wars](https://hackerwars.io/) or [SlaveHack2](https://www.slavehack2.com/) - Hacking Game
+* [2020 Game](https://2020game.io/) - Play through 2020
+* [Flappy Bird](https://flappybird.io/) - HTML5 Flappy Bird
+* [Checkbox Olympics](https://checkbox.toys/) - Checkbox Browser Games
+* [Dino Swords](https://dinoswords.gg/) - Stay Alive by Jumping / Destroying Cacti
+* [The Circle](https://the-circle.app/) - Dodge Circles
+* [PROXX](https://proxx.app/) - A Game of Proximity
+* [Universal paperclips](https://www.decisionproblem.com/paperclips/index2.html) - A Paperclip Creation Simulator 
+* [The Founder](https://thefounder.biz/) - Run a Start-Up
+* [TotalJerkFace](https://totaljerkface.com/) - Happy Wheels & Other Games
+* [ConnectTheStars](https://connectthestars.xyz/) or [Movie To Movie](https://movietomovie.com/) - Connect Stars through Movies
+* [Startup Simulator](https://toggl.com/startup-simulator/) - Startup Simulation Game
+* [Friday Night Funkin](https://ninja-muffin24.itch.io/funkin) or [Bemuse](https://bemuse.ninja/) - Rhythm Game / [Prototype](https://ninja-muffin24.itch.io/friday-night-funkin)
+* [Pulsus](https://www.pulsus.cc/play/) - 3x3 Tile Board Rhythm Game
+* [Prosperity](http://www.playprosperity.ca/) - Civilization Building RPG
+* [Amazeworld](https://www.amazeworld.com/) - Interactive Webmazes
+* [Gandalf](https://gandalf.lakera.ai/) - AI Prompting Skill Game
+* [Little Alchemy](https://littlealchemy.com/) or [Little Alchemy 2](https://littlealchemy2.com/) - Alchemy Game
+* [Short Trip](https://alexanderperrin.com.au/paper/shorttrip/) - Relaxing Cat Game
+* [Quick, Draw](https://quickdraw.withgoogle.com/) - Doodle Game
+* [Raptjs](https://madebyevan.com/rapt/) or [Synesthesia in Space](http://synesthesiagame.com/) - Puzzle Platformer
+* [Tales of Dorime](https://dorime.udany.net/) or [Grimace’s Birthday](https://grimacesbirthday.com/) - 2D Platformer
+* [PrinceJS](https://princejs.com/) - Prince of Persia
+* [3rd World Farmer](https://3rdworldfarmer.org/) - Farm Sim
+* [Sim CB](https://benoitessiambre.com/macro.html) - Central Bank Sim
+* [Operius](https://mors-games.itch.io/operius) - Space Shooter
+* [Orbity](https://orbity.io/game.php) - Spaceship Launching Game 
+* [The Wiki Game](https://www.thewikigame.com/), [Six Degrees of Wikipedia](https://www.sixdegreesofwikipedia.com/) or [WikiRacer](https://wikiracer.io/) - Wiki Exploration Games / [Automation Tool](https://gitlab.com/johanbluecreek/wikiracer)
+* [GeoFS](https://www.geo-fs.com/geofs.php) - Plane Simulator
+* [Ehmorris](https://ehmorris.com/lander/) - Spaceship Landing Game
+* [Money Simulator](https://simulator.money) - Money Simulator
+* [Minecraft Classic](https://classic.minecraft.net/) - Play Minecraft Classic
+* [Marble Blast Gold Web](https://marbleblast.vani.ga/) - Marble Blast Gold in Browser
+* [The Multiverse](https://across-multiverse.com/) - Universe Exploration Game Across
+* [The Thorp of Woodstock](https://cheerfulghost.github.io/civ-clicker/index.html) - Build a Civilization
+* [FSHistory](https://s-macke.github.io/FSHistory/) - Play Classic Flight Simulator 
+* [Magnetic Scripts](https://msmemorial.if-legends.org/msa2/msa2.html) - Magnetic Scrolls 
+* [SpaceCadetPinball](https://alula.github.io/SpaceCadetPinball) - Browser Space Cadet Pinball
+* [Ski Free](https://archive.org/details/win3_SKIFREE) - Browser Ski Free
+* [Neopets](https://www.neopets.com/), [tamaNOTchi](https://tamanotchi.world/) or [Marapets](https://www.marapets.com) - Virtual Pet Game 
+* [Gaia Online](https://www.gaiaonline.com/) - Anime Virtual Pet 
+* [Super Auto Pets](https://teamwood.itch.io/super-auto-pets) - Pet Battle Game
+* [CrossCode](https://www.cross-code.com/en/home), [Forumwarz](https://www.forumwarz.com/) or [Dungeon Crawl](https://crawl.develz.org/) - Browser RPG
+* [Kingdom of Loathing](https://www.kingdomofloathing.com/) or [Frasier Fantasy](https://edward-la-barbera.itch.io/frasier-fantasy) - Comedy RPG
+* [Bruno-Simon](https://bruno-simon.com/) - Truck Driving Game
+* [racing-game](https://racing.pmnd.rs/) - Driving Game / [GitHub](https://github.com/pmndrs/racing-game) / [Discord](https://discord.gg/dQW7fDmaAG)
+* [slow roads](https://slowroads.io/) - Driving Game
+* [JoeDangerTheGame](https://joedangerthegame.com/) - Trials Inspired Game
+* [Polka Dot Game](https://www.polkadotgame.com/) - Dodge & Eat Dots
+* [Spinner](https://hyperspace-wizard.itch.io/spinner) - Spinner Timing Game
+* [SWOOOP](https://playcanv.as/p/JtL2iqIH) - Fly a Bi-Plane around an Island 
+* [Plane Food Simulator](https://sheepandram.itch.io/pfs2021) - Plane Food Eating Game
+* [Master Archer](https://playcanv.as/p/JERg21J8/) - Archery Game 
+* [Galaxies](https://playcanv.as/p/Ikq6Uk6A/) - Space Combat Game 
+* [Orbital Survival](https://playcanv.as/p/3G3RnfUz/) - Survive Waves of UFOs 
+* [Doodle Cricket](https://doodlecricket.github.io/index.html#/) - Play Cricket as a Cricket
+* [MousePoint](https://creativetechguy.com/mousepoint) - Mouse Pointing Game
+* [Spot the Differences](https://www.spotthedifference.com/) - Find the Differences
+* [Kuku Kube](https://kuku-kube.com/) - Find the Different Squares
+* [Alternate History Simulator](https://abw.blue/) - Write Alternate History 
+* [NationStates](https://www.nationstates.net/) - Nation Simulation Game 
+* [CandyBox](https://candybox2.github.io/) - Candy Eating Game 
+* [BTShip](https://github.com/hairarrow/btship) - Typescript Boat Game
+* [asciicker](https://asciicker.com/) - ASCII Browser Adventure
+* [Maze](https://www.epgsoft.com/maze/), [Daedalus](https://www.astrolog.org/labyrnth/daedalus.htm), [Amaze](https://sourceforge.net/projects/qtamaze/files/) or [MazeGenerator](https://www.mazegenerator.net/) - Maze Generators
+* [BrantSteele](https://brantsteele.net/) or [Simublast](https://www.simublast.com/) - Game Show Simulators
+* [Shooty Ship Pumpkin Smash](https://www.thepointless.com/apps/shooty-ship-pumpkin-smash/index.html) - Shoot Pumpkins
+* [Edu-Games](https://www.edu-games.org/) - Educational Games
+* [Gameload](https://www.gameload.top/) - Unity Browser Game Extension 
+
+***
+
+## ▷ Multiplayer
+
+* ⭐ **[Krunker.io](https://krunker.io/)**, [2](https://browserfps.com/) - PvP FPS / [Market Ping](https://yee.how/market-ping/) / [Client](https://client.cuffuffles.dev/)
+* ⭐ **[GarticPhone](https://garticphone.com/)** - Telephone Game
+* [skribbl](https://skribbl.io/), [Sketchful](https://sketchful.io/), [Drawize](https://www.drawize.com/) or [Gartic](https://gartic.io/) - Drawing / Guessing Game / Multiplayer
+* [Bloob.io](https://bloob.io/)
+* [PlayingCards](https://playingcards.io/)
+* [FlyOrDie](https://www.flyordie.com/) 
+* [JKLM.FUN](https://jklm.fun/) 
+* [Gidd.io](https://gidd.io/)
+* [Playok](https://www.playok.com/)
+* [PaperGames](https://papergames.io/)
+* [Foony](https://foony.com/)
+* [Tensor Trust](https://tensortrust.ai/) - AI Prompting Multiplayer Skill Game
+* [Venge](https://venge.io/), [LolShot](https://lolshot.io/) or [ShellShock](https://www.shellshock.io/) - PvP FPS
+* [Bruh.io](https://bruh.io/), [2](https://play.bruh.io/) or [Surviv.io](https://surviv.io/) - Top-Down Battle Royal
+* [ZombsRoyale.io](https://zombsroyale.io/) - Zombie Battle Royale 
+* [Yohoho.io](https://www.yohoho.io/) - Pirate Battle Royale
+* [1v1.LOL](https://1v1.lol/) - 1v1 Building / Battle Sim
+* [MiniRoyale](https://miniroyale.io/) - Battle Royal Game
+* [Wanderers](https://wanderers.io/) - Real-Time Strategy Game
+* [TagPro](https://koalabeast.com/) - Capture the Flag
+* [Wings.io](https://wings.io/) - Plane Battles
+* [Death by AI](https://deathbyai.gg/) - Survival Plan Game
+* [Gpop.io](https://gpop.io/) - Rhythm Game
+* [Curve Fever](https://curvefever.pro/) - Line Battles
+* [HoverCats](https://hovercats.gg/) - Multiplayer Crosswords
+* [LOLBeans](https://lolbeans.io/) - Fall Guys Clone
+* [Betrayal](https://betrayal.io/) - Among Us Clone
+* [TownOfSalem2](https://www.townofsalem2.com) - Role-Based Mystery-Solving MMO
+* [Slither.io](http://slither.io/) or [worm.is](https://store.steampowered.com/app/466910/Wormis_The_Game/) - Grow the Longest Worm
+* [diep.io](https://diep.io/) or [Scenexe.io](https://scenexe.io/) - Become the Strongest Tank 
+* [Hexar.io](http://www.hexar.io/), [splix.io](https://splix.io/) or [paper-io](https://paper-io.com/) - Control the Map 
+* [mitos.is](https://store.steampowered.com/app/389570/Mitosis_The_Game/) - Become the Biggest Cell 
+* [agar.io](https://agar.io/) - Become the Biggest Circle 
+* [Hole.io](https://hole-io.com/) - Become the Biggest Hole / [Discord](https://discord.gg/UA2HdpT) 
+* [Tanki](https://tankionline.com/) - Online Team VS Team Tank Game
+* [Plink](http://labs.dinahmoe.com/plink/) - Music Game
+* [Make It Meme](https://makeitmeme.com/) - Meme Party Game
+* [Rooms](https://rooms.xyz/) - Room Design Game / [Discord](https://discord.gg/rooms)
+* [Fishington](https://fishington.io/) - Fishing Game
+* [Too Many Chefs](https://www.toomanychefs.party/) - Text-Based Coop Cooking Game 
+* [Haxball](https://www.haxball.com/) - Physics-Based Soccer
+* [Powerline.io](https://powerline.io/) or [Games 1729](https://www.games1729.com/serpentron/) - Snake
+* [Bonk](https://bonk.io/) - Multiplayer Physics Game
+* [GPRO](https://www.gpro.net/gb/gpro.asp) - F1 Manager Game
+* [Miniconomy](https://www.miniconomy.com/) - Economy Game
+* [tix.tax](https://tix.tax/) or [PlayTicTacToe](https://playtictactoe.org/) - Tic-Tac-Toe
+
+***
+
+## ▷ Board / Card / Dice
+
+* 🌐 **[Curlie Board Games](https://curlie.org/en/Games/Video_Games/Recreation/Browser_Based/Board_Games)**, [Board Game Online](https://www.boardgame-online.com/), [Board Game Arena](https://en.boardgamearena.com/) or [FunNode](https://www.funnode.com/) - Board Game Indexes
+* 🌐 **[Curlie Cards](https://curlie.org/en/Games/Video_Games/Recreation/Browser_Based/Cards)** - Card Game Index
+* 🌐 **[Curlie Yahtzee](https://curlie.org/en/Games/Video_Games/Recreation/Browser_Based/Dice/Yahtzee)** - Yahtzee Game Index
+* 🌐 **[Awesome Go/Baduk/Weiqi](https://github.com/yanchick/awesome-GoBadukWeiqi)** - Go/Baduk/Weiqi Resources
+* ⭐ **[WorldOfCardGames](https://worldofcardgames.com/)**, [247Games](https://www.247games.com/), [CardzMania](https://www.cardzmania.com/) or [World of Solitaire](https://worldofsolitaire.com/) - Card Games
+* [Richup](https://richup.io/) - Monopoly-Style Board Game
+* [Rally The Troops](https://www.rally-the-troops.com/) - Historical Board Games / [Discord](https://discord.gg/CBrTh8k84A)
+* [AllBad.Cards](https://bad.cards/) or [CardsAgainstFormality](https://cardsagainstformality.io/) - Cards Against Humanity Online 
+* [Wikidata Card Game Generator](https://cardgame.blinry.org/) - Generate "Top Trumps" Cards with Wikidata
+* [Solitaired](https://solitaired.com/), [Solitr](https://www.solitr.com/) or [Solitaire Owl](https://solitaireowl.com/) - Solitaire
+* [Mah-Jongg](https://www.mah-jongg.ch/), [Mahjong4Friends](https://mahjong4friends.com/) or [Classic Mahjong](https://classic-mahjong.com/) - Mahjong Games
+* [Blackjack Break](https://blackjackbreak.com/) or [HTML5 Blackjack](https://www.html5blackjack.net/) - Browser Blackjack
+* [Poker Now](https://www.pokernow.club/) or [247 Free Poker](https://www.247freepoker.com/) - Multiplayer Poker
+* [KDice](https://www.kdice.com/) - Multiplayer Dice War
+* [Colonist](https://colonist.io/) - Multiplayer "Settlers of Catan" 
+* [Hexxagon](https://hexxagon.com/) - Hexagonal Board Game
+* [The Bafflement Fires](https://www.dpoetry.com/fires/) - 1950's Freemasonic Board Game
+
+***
+
+## ▷ Chess / Checkers
+
+* 🌐 **[Awesome Chess](https://github.com/hkirat/awesome-chess)** or [Chess Resources](https://redd.it/u43nrc) - Chess Resources
+* 🌐 **[/m/Chess](https://www.reddit.com/user/korfor/m/chess/)** or [/r/Chess](https://reddit.com/r/chess) - Chess Subreddits
+* 🌐 **[/r/Chess Books](https://reddit.com/r/chess/wiki/books)** - Recommended Chess Books
+* ⭐ **[lichess](https://lichess.org/)**, [WebChess](http://chess.delorie.com/), [GameKnot Chess](https://gameknot.com/), [SparkChess](https://www.sparkchess.com/) or [Chess.com](https://www.chess.com/) - Chess Platforms / [Customize](https://prettierlichess.github.io/)
+* ⭐ **[Scid vs. PC](https://scidvspc.sourceforge.net/)**, [TheChessWebsite](https://www.thechesswebsite.com/), [Chess Tempo](https://chesstempo.com/), [Chessercise](https://www.chessercise.xyz/), [Lucas Chess](https://lucaschess.pythonanywhere.com/) or [List Study](https://listudy.org/en) - Learn / Practice Chess
+* [ChessDVDBooksProg](https://t.me/ChessDVDBooksProg) - Chess Courses, Books, Programs etc.
+* [Chesses](https://pippinbarr.com/chesses/) or [Omnichess](https://omnichess.club/) - Multiple Styles of Chess
+* [The Kilobyte’s Gambit](https://vole.wtf/kilobytes-gambit/) - 1k Chess Game
+* [Kung Fu Chess](https://www.kfchess.com/) - Real-Time Chess w/o Turns
+* [PokemonChess](https://pokemonchess.com/) - Pokemon Style Chess / [Discord](https://discord.gg/fp5bcCqg8q)
+* [Real Board](https://github.com/karayaman/lichess-with-a-real-board) - Play Lichess w/ Real Chess Board
+* [Gambit](https://github.com/maaslalani/gambit) - Linux Terminal Chess
+* [Chess24](https://chess24.com/) - Real-Time Chess Tournaments
+* [Laser](https://playlaser.xyz/) - Alt Style Chess
+* [Star Wars Chess](https://archive.org/details/msdos_Star_Wars_Chess_1993) - Star Wars Style Chess / [Manual](https://archive.org/details/star-wars-chess-manual/)
+* [lichess4545](https://www.lichess4545.com/) - Lichess Leagues
+* [Chess Monitor](https://www.chessmonitor.com/) - Track Chess Analytics
+* [OpeningTree](https://www.openingtree.com/) - Download / Visualize Chess Games
+* [Game Report](https://chess.wintrcat.uk/), [Decode Chess](https://app.decodechess.com/), [En Croissant](https://encroissant.org/) or [Chess Vision](https://chessvision.ai/) - Chess Game / Move Analysis
+* [Bill Wall's Chess Page](http://billwall.phpwebhosting.com/) or [365Chess](https://www.365chess.com/) - Chess History / Lessons
+* [Chessable](https://www.chessable.com/ ) or [Chess Factor](https://www.chessfactor.com/) - Chess Courses
+* [Chess Base](https://chessbase.in/) / [2](https://en.chessbase.com/) - Indian Chess News
+* [ChessProgramming](https://www.chessprogramming.org/) - Chess Programming Wiki
+* [/r/Checkers](https://www.reddit.com/r/checkers/) - Checkers Subreddit
+* [Fly or Die](https://www.flyordie.com/checkers/) or [Lidraughts](https://lidraughts.org/) - Multiplayer Checkers
+* [Bloob Checkers](https://bloob.io/checkers) - 4 Player Checkers
+* [Checkers AI](https://checkers.ai-games.app/) - Play Checkers vs AI
+
+***
+
+## ▷ Puzzle Games
+
+* ⭐ **[BestCrosswords](https://www.bestcrosswords.com/)**, [USAToday](https://games.usatoday.com/category/word), [TheWordSearch](https://thewordsearch.com/) or [Regex-Crossword](https://jimbly.github.io/regex-crossword/) - Crossword Puzzles / [Creator](https://puzzlemaker.discoveryeducation.com/), [2](https://www.xwords-generator.de/en) / [Solver](https://www.wordplays.com/), [2](https://www.dictionary.com/e/crosswordsolver/), [3](https://crossword-solver.io/)
+* ⭐ **[KillerCrossword](https://killercrossword.com/)** - No Clue Crosswords
+* ⭐ **[MoreWords](https://www.morewords.com/)** or [WordHub](https://wordhub.com/) - Scrabble
+* ⭐ **[Rubik’s Cube Explorer](https://iamthecu.be/)** or [The Cube](https://bsehovac.github.io/the-cube/) - Online Rubix Cubes / [Solver](https://rubiksolve.com/), [2](https://rubiks-cube-solver.com/)
+* ⭐ **[jiggie](https://jiggie.fun/)** - Custom Puzzles + Multiplayer
+* [Puzzle Party](https://artsandculture.google.com/experiment/puzzle-party/EwGBPZlIzv0KRw) - Multiplayer Jigsaws
+* [PuzzlePrime](https://www.puzzleprime.com/) - Problems / Puzzles
+* [HoverCats](https://hovercats.gg/) - Multiplayer Crosswords
+* [Regex Cross­word](https://regexcrossword.com/) - Regex Cross­words
+* [eWordChallenge](https://www.ewordchallenge.net/) - Boggle Online
+* [ChessGuessr](https://www.chessguessr.com/) - Chess Style Wordle
+* [Game for the Brain](https://www.gamesforthebrain.com/) - Puzzles / Quizzes
+* [MasasGames](https://masasgames.com/) - Virtual Escape Rooms
+* [Sokoban Online](https://www.sokobanonline.com/) - Sokoban Puzzles
+* [Sokoban](https://suppilulemur.neocities.org/) - Zelda-Themed Sokoban Puzzles
+* [DuckDuckgo 2048](https://duckduckgo.com/?q=play+2048&amp;ia=answer), [Power](https://1024-game.netlify.app/) or [2048](https://play2048.co/) - 2048 Puzzles
+* [Flappy 2048](https://www.flappy-2048.com/) - Flappy Bird Style 2048
+* [JetHolt](https://jetholt.com/hacking/), [RebelWithoutACause](https://rebelwithoutarootcause.com/demos/terminal/) or [Aramor](http://aramor.epizy.com/fallout-terminal/main) - Fallout Terminal Hacking Game
+* [Vuesweeper](https://vuesweeper.netlify.app/) - Vue Minesweeper
+* [PROXX](https://proxx.app/) - Space Minesweeper
+* [Rockbasher](https://www.rockbasher.com/) - Retro Style Puzzle Game
+* [Treksit](https://treksit.com/index.html), [Game about Squares](http://gameaboutsquares.com/) or [Orion](https://orion.lukasbach.com/) - Puzzle Game
+* [Euclidea](https://www.euclidea.xyz/) - Geometric Puzzles
+* [Pixel Puzzler](https://pixel-puzzler.playcurious.games/) - Block Puzzle
+* [Menneske](https://www.menneske.no/eng/) - Number Puzzles
+* [Emozle](https://emozle.com/) - Emoji Puzzle
+* [Sudoku XV](https://keeri.place/sudoku-xv) - Sudoku
+* [Nerdle](https://nerdlegame.com/) - Number Guessing Game
+* [Cinenerdle2](https://www.cinenerdle2.app/) - Movie Puzzle
+* [picture dots](https://www.picturedots.com/) - Make & Play Dot Puzzles
+* [babble.xyz](https://babbl.xyz/) - Infinite Scrabble
+* [MakeAWordSearch](http://www.makeawordsearch.net/) - Word Search Creator
+* [RobinWords](https://www.robinwords.com/) - Word Ladder Game
+* [Divergent Association Task](https://www.datcreativity.com/task) - Unrelated Word Game
+* [Oh, My Dots!](https://www.ohmydots.com/) - Connect the Dots Game
+* [Click Click Click](https://clickclickclick.click/) - Clicking Puzzle
+* [WordPlays](https://www.wordplays.com/), [Unscramble](https://unscramble.me/) or [WorduUnscrambler](https://www.wordunscrambler.net/) - Cheat at Scrabble / Words with Friends / Crossword Puzzles
+
+***
+
+## ▷ Incremental / Idle
+
+* 🌐 **[/r/Incremental_Games](https://www.reddit.com/r/incremental_games/wiki/list_of_incremental_games)**, [Galaxy Click](https://galaxy.click/), [Incremental Game Plaza](https://plaza.dsolver.ca/), [IncrementalDB](https://www.incrementaldb.com/) or [Almost Idle](https://almostidle.com/) - Incremental Games Indexes
+* ⭐ **[Cookie Clicker](https://orteil.dashnet.org/cookieclicker/) / [2](https://orteil.dashnet.org/experiments/cookie/)** - Incremental Cookie Game
+* ⭐ **Cookie Clicker Tools** - [Multiple Tools](https://github.com/CookieMonsterTeam/CookieMonster) / [Calculator](https://coderpatsy.bitbucket.io/cookies/cookies.html) / [Mod](https://redd.it/7ogf45)
+* [The Monolith](http://monolith.greenpixel.ca/) - Incremental RPG
+* [BitBurner](https://danielyxie.github.io/bitburner/) - Incremental RPG
+* [Particle Clicker](https://particle-clicker.web.cern.ch/) - Incremental Particle Physics Games
+* [KittensGame](https://kittensgame.com/web/) - Incremental Kitten Maker
+* [WarClicks](https://warclicks.com/) - Incremental War Game
+* [Goblin Bet](https://goblin.bet/) - Bet on 1v1 Monster Fights
+* [The First Alkahistorian](https://nagshell.github.io/elemental-inception-incremental/) - Incremental Elemental Game
+* [Merry Clickmas](https://www.digitalchestnut.com/merryclickmas/) - Incremental Present Maker
+* [FactoryIdle](https://factoryidle.com/) - Factory Idle Sim
+* [Idlescape](https://www.play.idlescape.com/) - Idle MMORPG
+* [ProgressQuest](http://progressquest.com/) - Idle RPG
+* [Anti Matter Dimesions](https://ivark.github.io/) - Anti Matter Idle Game
+* [Theory of Magic](https://mathiashjelm.gitlab.io/arcanum/) - Magic Idle Game
+* [Succubox](https://www.glaielgames.com/succubox/) - Loot Box Idle Game
+* [Swarm Simulator](https://www.swarmsim.com/) - Idle Bug Swarm Game
+
+***
+
+## ▷ Wordle Games
+
+* 🌐 **[Awesome Worldle](https://github.com/prakhar897/awesome-wordle)** - Worlde Game Index
+* ⭐ **[Wordles of the World](https://rwmpelstilzchen.gitlab.io/wordles/)** - [Analyzer](https://wordle-analyzer.com/) / [Solver](https://github.com/jonhoo/roget)
+* [Wordle Unlimited](https://wordleunlimited.org/)
+* [Huedle](https://huedle.com/)
+* [Chessle](https://jackli.gg/chessle)
+* [BoxOfficeGA](https://boxofficega.me/)
+* [Alphabeticle](https://alphabeticle.xyz/)
+* [WordMaze](https://wordmaze.click/)
+* [Clidle](https://github.com/ajeetdsouza/clidle)
+* [WordleGame](https://wordlegame.org/)
+* [Squaredle](https://squaredle.app/)
+* [Tweakdle](https://tweakdle.chariz.com/)
+* [Wordlevs](https://wordlevs.com/)
+* [Octordle](https://www.britannica.com/games/octordle/)
+* [Wordless](https://lessgames.com/wordless) 
+* [Minecraftle](https://minecraftle.zachmanson.com/) - Minecraft Crafting Style Wordle
+
+***
+
+## ▷ Guessing Games
+
+* ⭐ **[skribbl](https://skribbl.io/)**, [Sketchful](https://sketchful.io/), [Drawize](https://www.drawize.com/), [Pictioner](https://www.pictioner.com/) or [Gartic](https://gartic.io/) - Drawing / Guessing Game / Multiplayer
+* ⭐ **[GuessTheGame](https://guessthe.game/)** - Game Guessing Game
+* ⭐ **[GeoGuessr](https://www.geoguessr.com/)**, [Globle](https://globle-game.com/), [City Guesser](https://virtualvacation.us/guess), [Quizzity](https://david-peter.de/quizzity/), [Where Am I?](https://whereami.io/) or [Geotastic](https://geotastic.de/) - Location Guessing Game / [Guide](https://somerandomstuff1.wordpress.com/2019/02/08/geoguessr-the-top-tips-tricks-and-techniques/)
+* [Akinator](https://en.akinator.com/) - 20 Questions
+* [ChatGuessr](https://chatguessr.com/) - GeoGuessr for Twitch
+* [LostGamer](https://lostgamer.io/) - Video Game GeoGuessr
+* [GTA V GeoGuesser](https://gta-geoguesser.com/) - GTA V GeoGuessr
+* [GeoArtwork](https://artsandculture.google.com/experiment/geo-artwork/wgEPVBAUiRVlEQ) - Guess Origins of Cultural Artifacts
+* [TimeGuessr](https://timeguessr.com/) - Historical GeoGuessr
+* [English Sandwhich](https://englishsandwich.github.io/) - Guess Where Dishes are From
+* [FlightGuesser](https://flightguesser.com/) - Flight Path Guessing Game
+* [WTM](https://whatthemovie.com/), [Kino.wtf](https://www.kino.wtf/), [RT Daily](https://www.rottentomatoes.com/daily/) or [Framed](https://framed.wtf/) - Movie Guessing Games
+* [Music Challenge](https://pudding.cool/2020/04/music-challenge/), [Songless](https://lessgames.com/songless) or [MusicNerd](https://musicnerd.io/) - Music Guessing Games
+* [DanceMusic](http://dancemusic.wtf/) - Electronic Music Genre Guessing Game
+* [Guess My Rank](https://guessmyrank.com/) - Guess Player Game Ranks
+* [Poeltl](https://poeltl.dunk.town/) - NBA Guessing Game
+* [The Higher Lower Game](https://www.higherlowergame.com/) or [GoogleFued](https://googlefeud.com/) - Guess What's Googled More
+* [Guess The Price](https://guesstheprice.net/) - Price Guessing Game
+* [Apparle](https://www.apparle.com/) - Apparel Price Guessing Game
+* [Metazooa](https://metazooa.com/) - Animal Guessing Game
+* [Guess The Year](https://guess-the-year.davjhan.com/) or [ChronoPhoto](https://www.chronophoto.app/) - Year Guessing Game
+* [Approved, or Not Approved?](https://approvednotapproved.com/) - Approved Advertising Guessing Game
+* [damn.dog](https://damn.dog/) - wikiHow Guessing Game
+* [Wikitrivia](https://wikitrivia.tomjwatson.com/) - Guess Which Event Came First
+* [AI Bingo](https://ai-bingo.lipsumar.io/) - AI Art Guessing Games
