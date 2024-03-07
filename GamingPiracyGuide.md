@@ -147,19 +147,18 @@
 * 🌐 **[Multi System Emulators](https://emulation.gametechwiki.com/index.php/Multi-system_emulators)** / [Frontends](https://emulation.gametechwiki.com/index.php/Frontends) - Emulators w/ Multiple Consoles
 * 🌐 **[RedSquirrel Project List](https://www.redsquirrel87.altervista.org/doku.php/projects-list)** - Emulator Tools
 * 🌐 **[Multiplayer Emulation](https://emulation.gametechwiki.com/index.php/Netplay)** - Multiplayer Emulation Tools
-* 🌐 **[Switch Mods](https://github.com/yuzu-emu/yuzu/wiki/Switch-Mods)** - Switch Game Mods
 * ⭐ **[Recommended Emulator Specs](https://emulation.gametechwiki.com/index.php/Computer_specs)**
 * ⭐ **[Emulator BIOS Files](https://emulation.gametechwiki.com/index.php/Emulator_files)**
 * ⭐ **[Skraper](https://www.skraper.net/)** - ROM Cover / Metadata Scraper
 * ⭐ **[Dolphin Guide](https://github.com/shiiion/dolphin/wiki/Performance-Guide)** - Dolphin Setup Guide
 * ⭐ **[Cemu Guide](https://cemu.cfw.guide/)** or [/r/CemuPiracy Tutorial](https://www.reddit.com/r/CemuPiracy/wiki/tutorial/) - WiiU / BOTW Setup Guides
-* ⭐ **[Switch Emu Guide](https://github.com/Abd-007/Switch-Emulators-Guide)**, [Yuzu Guide](https://docs.google.com/document/d/13mr48D9voqouyS-Dk4CnMpuQm4nN5y5h8uLmHmuULf4/edit) / [2](https://docs.google.com/document/d/1weVLWey3RePzn8LubFRFHRVkoczCbLkvSf8fNfp1yZ0/edit) / [3](https://github.com/PrincessAkira/road-to-yuzu-without-switch) / [4](https://rentry.org/128bb) or [Ryujinx Guide](https://docs.google.com/document/d/1prxOJaE4WhPeYNHW17W5UaWZxDgB8e5wNHxt2O4FKvs/edit) - Switch Emulator Setup Guides
+* ⭐ **[Switch Emu Guide](https://github.com/Abd-007/Switch-Emulators-Guide)** or [Ryujinx Guide](https://docs.google.com/document/d/1prxOJaE4WhPeYNHW17W5UaWZxDgB8e5wNHxt2O4FKvs/edit) - Switch Emulator Setup Guides
 * ⭐ **[RAZE](https://github.com/ZDoom/Raze)** or [BuildGDX](https://m210.duke4.net/) - Oldschool Shooter Engine / [Discord](https://discord.gg/zZw2eq3n7G)
 * [TOSEC](https://rentry.co/FMHYBase64#tosec) - The Old School Emulation Center
 * [Xbox Emulation Hub](https://discord.com/invite/7pcAbZzpXj) - Xbox Emulation Discord
 * [EmuDeck](https://www.emudeck.com/) or [GameImage](https://gitlab.com/formigoni/gameimage) - Steam Deck Emulator
 * [Motion Support Bypass](https://redd.it/gobcne) - Fix Cemu BOTW Motion Shrines / [DL](https://mega.nz/file/1Uo3BI6L#X5m-bPK27-X-IijzJH1o4MloivkUqP33zsUJE_kpOdc)
-* [YuzuModDownloader](https://github.com/amakvana/YuzuModDownloader) - Yuzu Mod Downloader
+* [SwitchEmuModDownloader](https://github.com/amakvana/SwitchEmuModDownloader) - Download Switch Emulator Mods
 * [Green Leaf](https://discord.gg/m6z3ra8ssh) - Switch Saves
 * [UniversalDynamicInput]( https://github.com/Venomalia/UniversalDynamicInput) - Custom Dolphin Button Pack
 * [RPCS3 Setup Guide](https://docs.google.com/document/d/1gdjNab-CtVS97jH2diPPP5tCrpBeof9-qPIRRB9-BrU/edit) - RPCS3 Emulator Setup Guide
@@ -635,196 +634,6 @@
 * [Wikitrivia](https://wikitrivia.tomjwatson.com/) - Guess Which Event Came First
 * [AI Bingo](https://ai-bingo.lipsumar.io/) - AI Art Guessing Games
 
-*** 
-
-# ► Game Mods
-
-* ⭐ **[ChronoCrash](https://www.chronocrash.com/forum/)** - Game Modding Forum
-* ⭐ **[ModDB](https://moddb.com/)** - Game Mods
-* ⭐ **[Nexus Mods](https://www.nexusmods.com/)** - Game Mods / [Manager](https://github.com/Nexus-Mods/Nexus-Mod-Manager) / [Bulk Downloader](https://greasyfork.org/en/scripts/483337) / [Redirect Skip](https://greasyfork.org/en/scripts/394039)
-* [mod.io](https://www.mod.io/) - Cross Platform Game Mods Support
-* [WabbaJack](https://www.wabbajack.org/) / [Discord](https://discord.com/invite/wabbajack) - Automated Modlist Installer
-* [NextGenUpdate](https://www.nextgenupdate.com/) - Game Mods
-* [ModWorkshop](https://modworkshop.net/) - Game Mods
-* [GameFront](https://gamefront.com/) - Game Mods
-* [Video Game Mods](https://videogamemods.com/) - Game Mods
-* [GameBanana](https://gamebanana.com/) - Game Mods
-* [Silent's Blog](https://cookieplmonster.github.io/mods/index/) - Game Mods / Patches
-* [FlingTrainer](https://flingtrainer.com/) - Game Mods / Trainers
-* [Otis_Inf Camera Mods](https://redd.it/hvttbd) - Game Camera Mods Index
-* [ProAsm](http://www.proasm.com/) - Retro Game Mods
-* [Top Mods](https://www.top-mods.com/) - PC Game Mods
-* [Unreal Archive](https://unrealarchive.org/index.html) - Unreal Tournament Mods, Maps, Skins etc.
-* [Quaddicted](https://www.quaddicted.com/) - Classic Quake Mods, Maps & Tools
-* [ZagruzkaMods](https://zagruzkamods.com/) or [GameJunkie](https://www.gamejunkie.pro/) - Simulator Game Mods
-* [ESO Addons](https://github.com/arviceblot/eso-addons) - Elder Scrolls Online Mod Manager
-* [Hidden Fallout 4 Mods](https://rentry.co/89gads), [2](https://docs.google.com/document/d/1Im5Mg-l2btRsYVOjaJa0slrjDcXNvi41J5pHw_Zuwqw/edit?usp=sharing) - Fallout 4 Mods Removed from Nexus
-* [UGX Mods](https://www.ugx-mods.com/) - COD Zombies Mods / [Discord](https://discord.gg/g9S2nSp)
-* [RimWorldBase](https://www.rimworldbase.com/) - RimWorld Mods
-* [StellarisMods](http://stellarismods.net/) - Stellaris Mods
-* [SMods](https://smods.ru/) - Cities: Skylines Mods
-* [MDMC](https://mdmc.moe/) - Muse Dash Mods
-* [BSMG](https://bsmg.wiki/) - Beat Saber Mods
-* [NFSMods](https://nfsmods.xyz/) / [Discord](https://discord.gg/MuC3KKW) or [NFSAddons](https://www.nfsaddons.com/) - Need for Speed Mods
-* [SimPlaza](https://simplaza.org/) - Microsoft Flight Simulator Addons
-* [Thunderstore](https://northstar.thunderstore.io/) - Northstar Mods
-* [Modding-OpenMW](https://modding-openmw.com/) - Morrowind Mods
-
-***
-
-# ► Steam / Epic
-
-* 🌐 **[Steam Tool Collection](https://steamcommunity.com/sharedfiles/filedetails/?id=451698754)** or [SteamInternals](https://cs.rin.ru/forum/viewtopic.php?f=10&t=65887) - Steam Tool Indexes
-* 🌐 **[Steam Deck Mods](https://docs.google.com/document/d/1TWhN9nCorKxut5O7UbPQPDhXLb-8C-CIoesB01yfhmY/)** - Steam Deck Mods / [Discord](https://discord.com/invite/SteamDeck)
-* ↪️ **[Steam Workshop Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_steam_workshop_downloaders)**
-* ⭐ **[Koalageddon](https://github.com/acidicoala/Koalageddon/)** / [v2](https://github.com/acidicoala/Koalageddon2) - DLC Unlocker for Steam, Epic, Origin, EA and Uplay
-* ⭐ **[SmokeAPI](https://github.com/acidicoala/SmokeAPI)** - Steam DLC Unlocker / [Auto Installer](https://github.com/pointfeev/CreamInstaller)
-* ⭐ **[Goldberg](https://github.com/otavepto/gbe_fork)**, [2](https://gitlab.com/Mr_Goldberg/goldberg_emulator) / [GUI](https://cs.rin.ru/forum/viewtopic.php?f=29&t=111152&hilit=goldberg) / [Guide](https://rentry.co/goldberg_emulator) / [SmartSteamEmu](https://cs.rin.ru/forum/viewtopic.php?p=2009102#p2009102) - Offline Steam DRM Bypass / Multiplayer Emulator
-* ⭐ **[Steamtools](https://github.com/st2024/Steamtools/releases)** / [Guide](https://rentry.co/Steamtools) or [GreenLuma](https://cs.rin.ru/forum/viewtopic.php?f=29&t=103709) - Offline Steam DRM Bypass / DLC Unlockers
-* ⭐ **[Unsteam](https://cs.rin.ru/forum/viewtopic.php?f=20&t=134707&hilit=unsteam)** - Online Steam DRM Bypass / Cracked Servers Only / Multiplayer Emulator
-* ⭐ **[Steamless](https://github.com/atom0s/Steamless)** - Steam DRM Remover
-* ⭐ **[Steam-Auto-Crack](https://github.com/oureveryday/Steam-auto-crack)** or [SteamAutoCracker](https://github.com/BigBoiCJ/SteamAutoCracker) - Auto Apply Goldberg + Steamless / [Guide](https://codeberg.org/fernbacher/How-To-Crack)
-* ⭐ **[SteamDB](https://steamdb.info/)** - Steam Insights Tool / [Extension](https://steamdb.info/extension/)
-* ⭐ **[SDD GUI](https://github.com/mmvanheusden/SteamDepotDownloaderGUI)** or [DepotDownloader](https://github.com/SteamRE/DepotDownloader) - Steam Depot Downloaders
-* ⭐ **[RedAlt SteamUp](https://cs.rin.ru/forum/viewtopic.php?f=14&t=138413&p=3000090)** - Steam Depot Update Creator
-* ⭐ **[Heroic Games Launcher](https://heroicgameslauncher.com/)**, [LEGENDARY](https://github.com/derrod/legendary) or [Rare](https://github.com/Dummerle/Rare) - Epic Games Launcher 
-* ⭐ **[Nemirtingas Epic Emulator](https://cs.rin.ru/forum/viewtopic.php?f=29&t=105551)** - Epic Online Service Emulator
-* ⭐ **[TCNO](https://github.com/TCNOco/TcNo-Acc-Switcher)** - Platform Account Switcher / [Tutorial](https://youtu.be/0h-xjiW9M7Y)
-* [CreamAPI](https://cs.rin.ru/forum/viewtopic.php?t=70576) - Steam DLC Unlocker / [Auto Setup](https://cs.rin.ru/forum/viewtopic.php?p=2013521)
-* [DreamAPI](https://cs.rin.ru/forum/viewtopic.php?f=10&t=111520) - DLC Unlocker for Epic, Origin and EA
-* [Anadius](https://rentry.co/FMHYBase64#anadius) - DLC Unlockers for EA and Origin
-* [ScreamAPI](https://github.com/acidicoala/ScreamAPI) - Epic DLC Unlocker 
-* [GetDataFromSteam-SteamDB](https://github.com/Sak32009/GetDataFromSteam-SteamDB) - Find SteamDB DLC Data / Create Configs 
-* [SKSAppManifestGenerator](https://github.com/Sak32009/SKSAppManifestGenerator) - Create AppManifest Data
-* [Depressurizer](https://github.com/Depressurizer/Depressurizer) - Steam Library Organizer
-* [Steam Art Manager](https://github.com/Tormak9970/Steam-Art-Manager) - Find / Manage Game Art
-* [ColdAPI](https://github.com/Rat431/ColdAPI_Steam) - Offline Steam Emulator
-* [Steam Link](https://play.google.com/store/apps/details?id=com.valvesoftware.steamlink) - Stream Steam Library to TV
-* [Steam Mover](https://www.traynier.com/software/steammover) - Store Steam Games on Multiple Drives
-* [Steam Piracy](https://greasyfork.org/en/scripts/460862) or [Stream To Free](https://greasyfork.org/en/scripts/481139) - Add Piracy Site Links to Steam Store
-* [BoilR](https://github.com/PhilipK/BoilR) - Sync Game Platforms w/ Steam
-* [UWPHook](https://briano.dev/UWPHook/) - Add Windows Store Games to Steam
-* [Steam Rom Manager](https://github.com/SteamGridDB/steam-rom-manager) - Add ROMs to Steam
-* [The Wheelhaus](https://thewheelhaus.com/) - Find Random Steam Games
-* [Free Packages](https://steamdb.info/freepackages/) - Mass Activate All Free Steam Games / [Guide](https://youtu.be/svbdw-pYNT8)
-* [SteamDesktopAuthenticator](https://github.com/Jessecar96/SteamDesktopAuthenticator) - Desktop Implementation of Steam's Mobile Authenticator 
-* [Steam Python](https://github.com/ValvePython/steam) - Interact with Steam via Python
-* [Idle Master Extended](https://github.com/JonasNilson/idle_master_extended) or [IdleDaddy](https://play.google.com/store/apps/details?id=com.steevsapps.idledaddy) - Steam Card Automation
-* [SteamAchievementManager](https://github.com/gibbed/SteamAchievementManager) - Steam Achievement Manager 
-* [SteamRep](https://steamrep.com/), [SteamID](https://steamid.io/) / [2](https://steamid.uk/) or [SteamFinder](https://steamidfinder.com/) - Steam ID Lookup
-* [SteamGuard](https://github.com/dyc3/steamguard-cli) - Generate Steam 2FA Codes
-* [Steam++](https://steampp.net/) - Enhance Steam Functionality / [GitHub](https://github.com/BeyondDimension/SteamTools)
-* [AugmentedSteam](https://augmentedsteam.com/) - Steam Web Enhancement Extension
-* [Steam Auto Shutdown](https://github.com/diogomartino/steam-auto-shutdown) - Shutdown Steam after Downloads Finish
-* [Steam URL Opener](https://github.com/veteran29/steam-url-open-extension) - Open URLs Inside Steam Client
-* [Steam Age Bypass](https://greasyfork.org/en/scripts/18450-steam-bypass-age-confirmation-prompts) - Bypass Age Confirmation
-* [Adwaita for Steam](https://github.com/tkashkin/Adwaita-for-Steam) - Steam GNOME Skin
-* [Backgrounds.Gallery](https://backgrounds.gallery/) - Steam Backgrounds
-* [Steam.Design](https://steam.design/) - Steam Background Cropper
-* [Center.Steam](https://center.steam.design/) - Center Steam Text
-* [Wishlist Removals](https://steamcommunity.com/sharedfiles/filedetails/?id=1746978201) - Remove Hidden Items from Steam Wishlist
-* [Steam Inventory Helper](https://steaminventoryhelper.com/) - Steam Inventory Enhancement Extension
-* [ArchiFarm](https://github.com/JustArchiNET/ArchiSteamFarm) - Farm Steam Trading Cards
-* [Bazzite](https://github.com/ublue-os/bazzite) - Alt Steam Deck OS
-* [Decky Loader](https://deckbrew.xyz/ ) - Steam Deck Plugin Loader / [GitHub](https://github.com/SteamDeckHomebrew/decky-loader)
-* [Steam Deck Tools](https://github.com/ayufan/steam-deck-tools) - Fan Overlay, Power Control and Steam Controller
-* [great-on-deck-search](https://github.com/cptpiepmatz/great-on-deck-search) - Verified Steam Deck Game Search
-* [Steam-Deck.Force](https://github.com/scawp/Steam-Deck.Force-SteamOS-On-Boot) - Force SteamOS Boot
-* [HoloISO](https://github.com/HoloISO/holoiso) - SteamOS 3 (Holo) Archiso Config
-
-*** 
-
-# ► Homebrew
-
-* 🌐 **[Darthsternie](https://darthsternie.net/)** - Console Firmware / Exploit Archive
-* 🌐 **[FlagBrew](https://flagbrew.org/)** - Switch / 3DS Homebrew Resources / [Discord](https://discord.com/invite/4Rv8DTzGFa)
-* 🌐 **[DS Homebrew](https://ds-homebrew.com/)** - DS Homebrew Resources / [Wiki](https://wiki.ds-homebrew.com/) / [Discord](https://discord.com/invite/yD3spjv)
-* 🌐 **[Emulators on Consoles](https://emulation.gametechwiki.com/index.php/Category:Emulators_on_consoles)** - List of Emulators for Consoles
-* ⭐ **[PS4 Modding](https://youtu.be/yVFbo23BCK4)**, [PSX Hax](https://www.psxhax.com/), [PSDevWiki](https://www.psdevwiki.com/) or [Wololo](https://wololo.net/) - Playstation Modding Guides
-* ⭐ **[Hacks.Guide](https://hacks.guide/)**, **[CFW Guide](https://cfw.guide/)**, [ConsoleMods.org](https://consolemods.org/) / [Discord](https://discord.gg/x5vEnkR4C8), [Digiex](https://digiex.net/forums/), [Homebrew Guides](https://rentry.co/Guides), [Homebrew General](https://www.homebrewgeneral.net/) or [Gamebrew](https://www.gamebrew.org/) - Homebrew Guides
-* ⭐ **[GBATemp](https://gbatemp.net/)** - Homebrew Forum
-* ⭐ **[Nintendo Homebrew](https://discord.gg/C29hYvh)** - Nintendo Homebrew Discord
-* ⭐ **[Wii Guide](https://wii.hacks.guide/)**, [WiiBrew](https://wiibrew.org/) or [Wii Softmod Guide](https://sites.google.com/site/completesg) - Wii Homebrew Guides
-* ⭐ **[Wiimmfi](https://wiimmfi.de/)** or [Kaeru Team](https://kaeru.world/) - Wii / DS Multiplayer Servers
-* [/r/SwitchPirates](https://www.reddit.com/r/SwitchPirates/), [/r/SwitchHaxing](https://reddit.com/r/SwitchHaxing) or [/r/SwitchHacks](https://reddit.com/r/SwitchHacks) - Switch Homebrew Subreddits
-* [Switch Guide](https://nh-server.github.io/switch-guide/), [Switch Hacking Is Easy](https://rentry.org/SwitchHackingIsEasy) or [Switch.Homebrew](https://switch.homebrew.guide/) - Switch Homebrew Guide
-* [LAN Play Status](http://lan-play.com/) or [Switch-LAN-Play](https://github.com/spacemeowx2/switch-lan-play) / [Discord](https://discord.gg/PUEmfV4) - Multiplayer Switch Servers
-* [Switchway](https://discord.gg/switchway) - Switch Homebrew Discord Server
-* [NSP Forwarder](https://nsp-forwarder.n8.io/) - Switch NSP Forwarder
-* [SDSetup](https://github.com/noahc3/SDSetup) - Nintendo Switch SD Setup
-* [DeepSea](https://github.com/Team-Neptune/DeepSea) - Switch CFW Package 
-* [WiiU Exploit](https://wiiuexploit.xyz/) or [ModMii](https://modmii.github.io/) - WiiU Homebrew Installer
-* [Pretendo](https://pretendo.network/) - WiiU / 3DS Network Replacement
-* [/r/WiiUHacks](https://www.reddit.com/r/WiiUHacks/) - WiiU Homebrew Subreddit
-* [/r/WiiHacks](https://www.reddit.com/r/WiiHacks/) - Wii Homebrew Subreddit
-* [LetterBomb](https://please.hackmii.com/) or [str2hax](https://gbatemp.net/threads/a-channel-less-sd-less-entry-point-str2hax.523210/) - Wii Homebrew Installer / [Find MAC](https://en-americas-support.nintendo.com/app/products/detail/p/604)
-* [Open Shop Channel](https://oscwii.org/) - Wii Homebrew App Library
-* [RiiConnect24](https://rc24.xyz/) - WiiConnect24 Replacement
-* [3DS Hacks Guide](https://3ds.hacks.guide/) - 3DS Modding Guide
-* [Universal DB](https://db.universal-team.net/) - 3DS / DS Modding Apps
-* [/r/3DSPiracy](https://www.reddit.com/r/3dspiracy/) or [3DSHacks](https://reddit.com/r/3dshacks/) - 3DS Modding Subreddit
-* [Luma3DS](https://github.com/LumaTeam/Luma3DS) - 3DS Custom Firmware
-* [Theme Plaza](https://themeplaza.art/themes) - 3DS Themes / [Discord](https://discord.com/invite/Pz25PX5vr5)
-* [GodMode9](https://github.com/d0k3/GodMode9) - 3DS File Browser
-* [Batch CIA 3DS Decryptor](https://gbatemp.net/threads/batch-cia-3ds-decryptor-a-simple-batch-file-to-decrypt-cia-3ds.512385/) - Decrypt 3DS Files
-* [BootNTR](https://github.com/Nanquitas/BootNTR) - Stream 3DS to PC or Mac / [Instructions](https://gbatemp.net/threads/3ds-screen-recording-without-a-capture-card-ntr-cfw-method.423445/)
-* [Rverse](https://discord.gg/wCvJSCxf4G) - 3DS Miiverse Recreation
-* [Game Boy Tech Page](https://web.archive.org/web/19990209041732/http://home.hiwaay.net/%7Ejfrohwei/gameboy/home.html) - Game Boy Tools
-* [Game Boy Book Reader](https://www.mqp.com/fun/) - Game Boy Book Reader
-* [NESC-SNESC-Modifications](https://github.com/KMFDManic/NESC-SNESC-Modifications) - NES, SNES & Playstation Mods
-* [Chiaki](https://git.sr.ht/~thestr4ng3r/chiaki) - PS4 / PS5 Remote Play Client
-* [PS4Homebrew](https://www.reddit.com/r/ps4homebrew/) - PS4 Homebrew Subreddits
-* [Exploit Host](https://github.com/Al-Azif/ps4-exploit-host) - PS4 Exploit Hosting
-* [DarkSoftware](https://www.darksoftware.xyz/) - PS4 / PS3 Firmware
-* [/r/ps3homebrew](https://reddit.com/r/ps3homebrew) - PS3 Homebrew Subreddit
-* [PS3 Game Updater](https://www.psx-place.com/threads/ps3-game-updater-v1-5-psn-liberator-v0-96b-rudi-rastelli-adds-ps3p-pkg-ripper-support.3766/) or [Manually Updated](http://demo.aldostools.org/updates.html) - Update PS3 Games
-* [PS3Themes](http://www.ps3-themes.com/) - PS3 Themes
-* [PSXDev](https://www.psxdev.net/) - PS1 Development
-* [MemcardRex](https://shendosoft.blogspot.com/2014/01/memcardrex-18-released.html?m=1) - PS1 Save Transfer Tools / [Archive](https://archive.org/details/MemcardRex1.8)
-* [/r/VitaPiracy](https://www.reddit.com/r/VitaPiracy/) / [Discord](https://discord.gg/6Udcx2w) or [/r/VitaHacks](https://reddit.com/r/vitahacks/) - PSVita Homebrew Subreddits
-* [PSP Archive](https://psp-archive.github.io/) - PSP Homebrew Archive / [Discord](https://discord.gg/VZcjFvy3mT)
-* [VitaDB](https://vitadb.rinnegatamante.it/) - PS Vita Homebrews
-* [Vita Volume](https://gitlab.com/sinful-butterfly/vita-volume) - Set PS Vita Volume without Buttons
-* [ModMyClassic](https://modmyclassic.com/) - Classic Console Mods
-* [/r/360Hacks Guide](https://redd.it/8y9jql) - Xbox 360 Modding Guide
-* [C-Xbox Tool](https://gbatemp.net/download/c-xbox-tool.7615/) - .XBE to ISO File Converter
-* [NASOS](https://download.digiex.net/Consoles/GameCube/Apps/NASOSbeta1.rar) - Gamecube iso.dec to ISO Converter
-* [WBFStoISO](https://www.wbfstoiso.com/) - WBFS to ISO 
-* [hakchi2 CE](https://github.com/TeamShinkansen/Hakchi2-CE) - Add More Roms to NES/SNES Classic Mini
-* [emuiibo](https://github.com/XorTroll/emuiibo) - Amiibo Emulator
-* [Easy Guide to Making Amiibo](https://redd.it/5ywlol) - How to Make Your Own Amiibo
-
-***
-
-# ► Tracking / Discovery
-
-* ⭐ **[Glitchwave](https://glitchwave.com/)**, [Grouvee](https://www.grouvee.com/), [InfiniteBacklog](https://infinitebacklog.net/) or [Backloggd](https://www.backloggd.com/) - Game Trackers
-* ⭐ **[IGDB](https://www.igdb.com/)** or **[GiantBomb](https://www.giantbomb.com/games/)** - Game Database
-* ⭐ **[TasteDive](https://tastedive.com/games )**, [50GamesLike](https://www.50gameslike.com/) or [/r/ifyoulikeblank](https://www.reddit.com/r/ifyoulikeblank/) - Game Recommendations
-* [Rec Charts](https://mega.nz/folder/kj5hWI6J#0cyw0-ZdvZKOJW3fPI6RfQ) - Game Recommendation Guides
-* [Incendar](https://incendar.com/) - Game Release Date Tracker
-* [OpenCritic](https://opencritic.com/) - Critic Game Reviews / Ratings
-* [GG App](https://ggapp.io/), [Gamelib](https://gamelib.app/explore), [Backloggery](https://backloggery.com/) or [Exophase](https://www.exophase.com/) - Game Trackers
-* [LaunchBox Games Database](https://gamesdb.launchbox-app.com/), [GameFAQs](https://gamefaqs.gamespot.com/), [Steam Games](https://steam-games.org/), [Rawg](https://rawg.io/), [Moby Games](https://www.mobygames.com/), [rate.house](https://rate.house/chart/game), [listal](https://www.listal.com/), [Orcz](https://orcz.com/Main_Page) or [FrontierNav](https://frontiernav.net/) - Game Databases
-* [IMDb Advanced Search](https://www.imdb.com/search/) - Game Search
-* [Ethereal Games](https://wiki.etherealgames.com/) or [JRGPC](https://jrpgc.com/) - JRPG Databases
-* [RPGCodex](https://rpgcodex.net/forums/) - RPG Databse / Forum
-* [SteamPeek](https://steampeek.hu/) or [IndieDB](https://www.indiedb.com/) - Indie Game Databases
-* [RetroShowcase](https://www.retroshowcase.gr/), [Squakenet](https://www.squakenet.com/) or [The Good Old Days](https://www.goodolddays.net/) - Retro Game Databases
-* [Sega Retro](https://segaretro.org/) - Sega Game Database
-* [AtariAge](https://atariage.com/) - Atari Game Database
-* [Polish Pixels](https://polishpixels.com/) - Retro Polish Games Database
-* [Co-Optimu](https://www.co-optimus.com/), [Squad Games](https://www.squadd.games/) or [PlayCo-opGame](https://playco-opgame.com/) - Co-Op Game Databases
-* [SvenEvils Playground](https://store.steampowered.com/curator/8485829/) or [Local Multiplayer List](https://docs.google.com/spreadsheets/d/14f6qS2GJy8C-b40Df3dNH_aZq7WfZ4jMggzEajUrX0w/) - Local Multiplayer Game Database
-* [HOTU](https://www.homeoftheunderdogs.net/) - Rare Game Database
-* [Delisted Games](https://delistedgames.com/) - Delisted Games Database
-* [GameClassification](https://gameclassification.com/) - Search Games by Classifications
-* [MoreGamesLike](https://www.moregameslike.com/) or [Games Like Finder](https://gameslikefinder.com/) - Find Similar Games
-* [Random Game Bookmark Script](https://pastebin.com/JtmBQZbL) - Find Random Games
-* [awesome-engineering-games](https://github.com/arcataroger/awesome-engineering-games) - Engineering Game Recommendations
-* [DigitalDreamDoor](https://digitaldreamdoor.com/pages/games.html) or [5000 Best](http://5000best.com/games/) - List of the Best Games
-* [Unseen64](https://www.unseen64.net/) - Cancelled / Lost Games
-
 ***
 
 # ► Gaming Tools
@@ -895,6 +704,68 @@
 * [AltCtrls](https://altctrls.info/) - Custom Controller Crafting Resources
 * [FatmanTutorial](https://archive.org/details/fatmantutorial) - How-to Repack Games
 * [How Denuvo Works](https://rentry.co/denuvo) or [Reverse Engineer Denuvo V4](https://drive.google.com/file/d/1CupcQMOyxbtNUGGSnq8xhIZIxhDzToFT/)
+
+***
+
+## ▷ Steam / Epic
+
+* 🌐 **[Steam Tool Collection](https://steamcommunity.com/sharedfiles/filedetails/?id=451698754)** or [SteamInternals](https://cs.rin.ru/forum/viewtopic.php?f=10&t=65887) - Steam Tool Indexes
+* 🌐 **[Steam Deck Mods](https://docs.google.com/document/d/1TWhN9nCorKxut5O7UbPQPDhXLb-8C-CIoesB01yfhmY/)** - Steam Deck Mods / [Discord](https://discord.com/invite/SteamDeck)
+* ↪️ **[Steam Workshop Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_steam_workshop_downloaders)**
+* ⭐ **[Koalageddon](https://github.com/acidicoala/Koalageddon/)** / [v2](https://github.com/acidicoala/Koalageddon2) - DLC Unlocker for Steam, Epic, Origin, EA and Uplay
+* ⭐ **[SmokeAPI](https://github.com/acidicoala/SmokeAPI)** - Steam DLC Unlocker / [Auto Installer](https://github.com/pointfeev/CreamInstaller)
+* ⭐ **[Goldberg](https://github.com/otavepto/gbe_fork)**, [2](https://gitlab.com/Mr_Goldberg/goldberg_emulator) / [GUI](https://cs.rin.ru/forum/viewtopic.php?f=29&t=111152&hilit=goldberg) / [Guide](https://rentry.co/goldberg_emulator) / [SmartSteamEmu](https://cs.rin.ru/forum/viewtopic.php?p=2009102#p2009102) - Offline Steam DRM Bypass / Multiplayer Emulator
+* ⭐ **[Steamtools](https://github.com/st2024/Steamtools/releases)** / [Guide](https://rentry.co/Steamtools) or [GreenLuma](https://cs.rin.ru/forum/viewtopic.php?f=29&t=103709) - Offline Steam DRM Bypass / DLC Unlockers
+* ⭐ **[Unsteam](https://cs.rin.ru/forum/viewtopic.php?f=20&t=134707&hilit=unsteam)** - Online Steam DRM Bypass / Cracked Servers Only / Multiplayer Emulator
+* ⭐ **[Steamless](https://github.com/atom0s/Steamless)** - Steam DRM Remover
+* ⭐ **[Steam-Auto-Crack](https://github.com/oureveryday/Steam-auto-crack)** or [SteamAutoCracker](https://github.com/BigBoiCJ/SteamAutoCracker) - Auto Apply Goldberg + Steamless / [Guide](https://codeberg.org/fernbacher/How-To-Crack)
+* ⭐ **[SteamDB](https://steamdb.info/)** - Steam Insights Tool / [Extension](https://steamdb.info/extension/)
+* ⭐ **[SDD GUI](https://github.com/mmvanheusden/SteamDepotDownloaderGUI)** or [DepotDownloader](https://github.com/SteamRE/DepotDownloader) - Steam Depot Downloaders
+* ⭐ **[RedAlt SteamUp](https://cs.rin.ru/forum/viewtopic.php?f=14&t=138413&p=3000090)** - Steam Depot Update Creator
+* ⭐ **[Heroic Games Launcher](https://heroicgameslauncher.com/)**, [LEGENDARY](https://github.com/derrod/legendary) or [Rare](https://github.com/Dummerle/Rare) - Epic Games Launcher 
+* ⭐ **[Nemirtingas Epic Emulator](https://cs.rin.ru/forum/viewtopic.php?f=29&t=105551)** - Epic Online Service Emulator
+* ⭐ **[TCNO](https://github.com/TCNOco/TcNo-Acc-Switcher)** - Platform Account Switcher / [Tutorial](https://youtu.be/0h-xjiW9M7Y)
+* [CreamAPI](https://cs.rin.ru/forum/viewtopic.php?t=70576) - Steam DLC Unlocker / [Auto Setup](https://cs.rin.ru/forum/viewtopic.php?p=2013521)
+* [DreamAPI](https://cs.rin.ru/forum/viewtopic.php?f=10&t=111520) - DLC Unlocker for Epic, Origin and EA
+* [Anadius](https://rentry.co/FMHYBase64#anadius) - DLC Unlockers for EA and Origin
+* [ScreamAPI](https://github.com/acidicoala/ScreamAPI) - Epic DLC Unlocker 
+* [GetDataFromSteam-SteamDB](https://github.com/Sak32009/GetDataFromSteam-SteamDB) - Find SteamDB DLC Data / Create Configs 
+* [SKSAppManifestGenerator](https://github.com/Sak32009/SKSAppManifestGenerator) - Create AppManifest Data
+* [Depressurizer](https://github.com/Depressurizer/Depressurizer) - Steam Library Organizer
+* [Steam Art Manager](https://github.com/Tormak9970/Steam-Art-Manager) - Find / Manage Game Art
+* [ColdAPI](https://github.com/Rat431/ColdAPI_Steam) - Offline Steam Emulator
+* [Steam Link](https://play.google.com/store/apps/details?id=com.valvesoftware.steamlink) - Stream Steam Library to TV
+* [Steam Mover](https://www.traynier.com/software/steammover) - Store Steam Games on Multiple Drives
+* [Steam Piracy](https://greasyfork.org/en/scripts/460862) or [Stream To Free](https://greasyfork.org/en/scripts/481139) - Add Piracy Site Links to Steam Store
+* [BoilR](https://github.com/PhilipK/BoilR) - Sync Game Platforms w/ Steam
+* [UWPHook](https://briano.dev/UWPHook/) - Add Windows Store Games to Steam
+* [Steam Rom Manager](https://github.com/SteamGridDB/steam-rom-manager) - Add ROMs to Steam
+* [The Wheelhaus](https://thewheelhaus.com/) - Find Random Steam Games
+* [Free Packages](https://steamdb.info/freepackages/) - Mass Activate All Free Steam Games / [Guide](https://youtu.be/svbdw-pYNT8)
+* [SteamDesktopAuthenticator](https://github.com/Jessecar96/SteamDesktopAuthenticator) - Desktop Implementation of Steam's Mobile Authenticator 
+* [Steam Python](https://github.com/ValvePython/steam) - Interact with Steam via Python
+* [Idle Master Extended](https://github.com/JonasNilson/idle_master_extended) or [IdleDaddy](https://play.google.com/store/apps/details?id=com.steevsapps.idledaddy) - Steam Card Automation
+* [SteamAchievementManager](https://github.com/gibbed/SteamAchievementManager) - Steam Achievement Manager 
+* [SteamRep](https://steamrep.com/), [SteamID](https://steamid.io/) / [2](https://steamid.uk/) or [SteamFinder](https://steamidfinder.com/) - Steam ID Lookup
+* [SteamGuard](https://github.com/dyc3/steamguard-cli) - Generate Steam 2FA Codes
+* [Steam++](https://steampp.net/) - Enhance Steam Functionality / [GitHub](https://github.com/BeyondDimension/SteamTools)
+* [AugmentedSteam](https://augmentedsteam.com/) - Steam Web Enhancement Extension
+* [Steam Auto Shutdown](https://github.com/diogomartino/steam-auto-shutdown) - Shutdown Steam after Downloads Finish
+* [Steam URL Opener](https://github.com/veteran29/steam-url-open-extension) - Open URLs Inside Steam Client
+* [Steam Age Bypass](https://greasyfork.org/en/scripts/18450-steam-bypass-age-confirmation-prompts) - Bypass Age Confirmation
+* [Adwaita for Steam](https://github.com/tkashkin/Adwaita-for-Steam) - Steam GNOME Skin
+* [Backgrounds.Gallery](https://backgrounds.gallery/) - Steam Backgrounds
+* [Steam.Design](https://steam.design/) - Steam Background Cropper
+* [Center.Steam](https://center.steam.design/) - Center Steam Text
+* [Wishlist Removals](https://steamcommunity.com/sharedfiles/filedetails/?id=1746978201) - Remove Hidden Items from Steam Wishlist
+* [Steam Inventory Helper](https://steaminventoryhelper.com/) - Steam Inventory Enhancement Extension
+* [ArchiFarm](https://github.com/JustArchiNET/ArchiSteamFarm) - Farm Steam Trading Cards
+* [Bazzite](https://github.com/ublue-os/bazzite) - Alt Steam Deck OS
+* [Decky Loader](https://deckbrew.xyz/ ) - Steam Deck Plugin Loader / [GitHub](https://github.com/SteamDeckHomebrew/decky-loader)
+* [Steam Deck Tools](https://github.com/ayufan/steam-deck-tools) - Fan Overlay, Power Control and Steam Controller
+* [great-on-deck-search](https://github.com/cptpiepmatz/great-on-deck-search) - Verified Steam Deck Game Search
+* [Steam-Deck.Force](https://github.com/scawp/Steam-Deck.Force-SteamOS-On-Boot) - Force SteamOS Boot
+* [HoloISO](https://github.com/HoloISO/holoiso) - SteamOS 3 (Holo) Archiso Config
 
 ***
 
@@ -988,6 +859,199 @@
 * [Impostor](https://impostor.github.io/Impostor/) - Among Us Private Server
 * [VRCList](https://vrclist.com/) - Find VRChat Worlds
 
+*** 
+
+## ▷ Game Mods
+
+* ⭐ **[ChronoCrash](https://www.chronocrash.com/forum/)** - Game Modding Forum
+* ⭐ **[ModDB](https://moddb.com/)** - Game Mods
+* ⭐ **[Nexus Mods](https://www.nexusmods.com/)** - Game Mods / [Manager](https://github.com/Nexus-Mods/Nexus-Mod-Manager) / [Bulk Downloader](https://greasyfork.org/en/scripts/483337) / [Redirect Skip](https://greasyfork.org/en/scripts/394039)
+* [mod.io](https://www.mod.io/) - Cross Platform Game Mods Support
+* [WabbaJack](https://www.wabbajack.org/) / [Discord](https://discord.com/invite/wabbajack) - Automated Modlist Installer
+* [NextGenUpdate](https://www.nextgenupdate.com/) - Game Mods
+* [ModWorkshop](https://modworkshop.net/) - Game Mods
+* [GameFront](https://gamefront.com/) - Game Mods
+* [Video Game Mods](https://videogamemods.com/) - Game Mods
+* [GameBanana](https://gamebanana.com/) - Game Mods
+* [Silent's Blog](https://cookieplmonster.github.io/mods/index/) - Game Mods / Patches
+* [FlingTrainer](https://flingtrainer.com/) - Game Mods / Trainers
+* [Otis_Inf Camera Mods](https://redd.it/hvttbd) - Game Camera Mods Index
+* [ProAsm](http://www.proasm.com/) - Retro Game Mods
+* [Top Mods](https://www.top-mods.com/) - PC Game Mods
+* [Unreal Archive](https://unrealarchive.org/index.html) - Unreal Tournament Mods, Maps, Skins etc.
+* [Quaddicted](https://www.quaddicted.com/) - Classic Quake Mods, Maps & Tools
+* [ZagruzkaMods](https://zagruzkamods.com/) or [GameJunkie](https://www.gamejunkie.pro/) - Simulator Game Mods
+* [ESO Addons](https://github.com/arviceblot/eso-addons) - Elder Scrolls Online Mod Manager
+* [Hidden Fallout 4 Mods](https://rentry.co/89gads), [2](https://docs.google.com/document/d/1Im5Mg-l2btRsYVOjaJa0slrjDcXNvi41J5pHw_Zuwqw/edit?usp=sharing) - Fallout 4 Mods Removed from Nexus
+* [UGX Mods](https://www.ugx-mods.com/) - COD Zombies Mods / [Discord](https://discord.gg/g9S2nSp)
+* [RimWorldBase](https://www.rimworldbase.com/) - RimWorld Mods
+* [StellarisMods](http://stellarismods.net/) - Stellaris Mods
+* [SMods](https://smods.ru/) - Cities: Skylines Mods
+* [MDMC](https://mdmc.moe/) - Muse Dash Mods
+* [BSMG](https://bsmg.wiki/) - Beat Saber Mods
+* [NFSMods](https://nfsmods.xyz/) / [Discord](https://discord.gg/MuC3KKW) or [NFSAddons](https://www.nfsaddons.com/) - Need for Speed Mods
+* [SimPlaza](https://simplaza.org/) - Microsoft Flight Simulator Addons
+* [Thunderstore](https://northstar.thunderstore.io/) - Northstar Mods
+* [Modding-OpenMW](https://modding-openmw.com/) - Morrowind Mods
+
+***
+
+## ▷ Homebrew
+
+* 🌐 **[Darthsternie](https://darthsternie.net/)** - Console Firmware / Exploit Archive
+* 🌐 **[FlagBrew](https://flagbrew.org/)** - Switch / 3DS Homebrew Resources / [Discord](https://discord.com/invite/4Rv8DTzGFa)
+* 🌐 **[DS Homebrew](https://ds-homebrew.com/)** - DS Homebrew Resources / [Wiki](https://wiki.ds-homebrew.com/) / [Discord](https://discord.com/invite/yD3spjv)
+* 🌐 **[Emulators on Consoles](https://emulation.gametechwiki.com/index.php/Category:Emulators_on_consoles)** - List of Emulators for Consoles
+* ⭐ **[PS4 Modding](https://youtu.be/yVFbo23BCK4)**, [PSX Hax](https://www.psxhax.com/), [PSDevWiki](https://www.psdevwiki.com/) or [Wololo](https://wololo.net/) - Playstation Modding Guides
+* ⭐ **[Hacks.Guide](https://hacks.guide/)**, **[CFW Guide](https://cfw.guide/)**, [ConsoleMods.org](https://consolemods.org/) / [Discord](https://discord.gg/x5vEnkR4C8), [Digiex](https://digiex.net/forums/), [Homebrew Guides](https://rentry.co/Guides), [Homebrew General](https://www.homebrewgeneral.net/) or [Gamebrew](https://www.gamebrew.org/) - Homebrew Guides
+* ⭐ **[GBATemp](https://gbatemp.net/)** - Homebrew Forum
+* ⭐ **[Nintendo Homebrew](https://discord.gg/C29hYvh)** - Nintendo Homebrew Discord
+* ⭐ **[Wii Guide](https://wii.hacks.guide/)**, [WiiBrew](https://wiibrew.org/) or [Wii Softmod Guide](https://sites.google.com/site/completesg) - Wii Homebrew Guides
+* ⭐ **[Wiimmfi](https://wiimmfi.de/)** or [Kaeru Team](https://kaeru.world/) - Wii / DS Multiplayer Servers
+* [/r/SwitchPirates](https://www.reddit.com/r/SwitchPirates/), [/r/SwitchHaxing](https://reddit.com/r/SwitchHaxing) or [/r/SwitchHacks](https://reddit.com/r/SwitchHacks) - Switch Homebrew Subreddits
+* [Switch Guide](https://nh-server.github.io/switch-guide/), [Switch Hacking Is Easy](https://rentry.org/SwitchHackingIsEasy) or [Switch.Homebrew](https://switch.homebrew.guide/) - Switch Homebrew Guide
+* [LAN Play Status](http://lan-play.com/) or [Switch-LAN-Play](https://github.com/spacemeowx2/switch-lan-play) / [Discord](https://discord.gg/PUEmfV4) - Multiplayer Switch Servers
+* [Switchway](https://discord.gg/switchway) - Switch Homebrew Discord Server
+* [NSP Forwarder](https://nsp-forwarder.n8.io/) - Switch NSP Forwarder
+* [SDSetup](https://github.com/noahc3/SDSetup) - Nintendo Switch SD Setup
+* [DeepSea](https://github.com/Team-Neptune/DeepSea) - Switch CFW Package 
+* [WiiU Exploit](https://wiiuexploit.xyz/) or [ModMii](https://modmii.github.io/) - WiiU Homebrew Installer
+* [Pretendo](https://pretendo.network/) - WiiU / 3DS Network Replacement
+* [/r/WiiUHacks](https://www.reddit.com/r/WiiUHacks/) - WiiU Homebrew Subreddit
+* [/r/WiiHacks](https://www.reddit.com/r/WiiHacks/) - Wii Homebrew Subreddit
+* [LetterBomb](https://please.hackmii.com/) or [str2hax](https://gbatemp.net/threads/a-channel-less-sd-less-entry-point-str2hax.523210/) - Wii Homebrew Installer / [Find MAC](https://en-americas-support.nintendo.com/app/products/detail/p/604)
+* [Open Shop Channel](https://oscwii.org/) - Wii Homebrew App Library
+* [RiiConnect24](https://rc24.xyz/) - WiiConnect24 Replacement
+* [3DS Hacks Guide](https://3ds.hacks.guide/) - 3DS Modding Guide
+* [Universal DB](https://db.universal-team.net/) - 3DS / DS Modding Apps
+* [/r/3DSPiracy](https://www.reddit.com/r/3dspiracy/) or [3DSHacks](https://reddit.com/r/3dshacks/) - 3DS Modding Subreddit
+* [Luma3DS](https://github.com/LumaTeam/Luma3DS) - 3DS Custom Firmware
+* [Theme Plaza](https://themeplaza.art/themes) - 3DS Themes / [Discord](https://discord.com/invite/Pz25PX5vr5)
+* [GodMode9](https://github.com/d0k3/GodMode9) - 3DS File Browser
+* [Batch CIA 3DS Decryptor](https://gbatemp.net/threads/batch-cia-3ds-decryptor-a-simple-batch-file-to-decrypt-cia-3ds.512385/) - Decrypt 3DS Files
+* [BootNTR](https://github.com/Nanquitas/BootNTR) - Stream 3DS to PC or Mac / [Instructions](https://gbatemp.net/threads/3ds-screen-recording-without-a-capture-card-ntr-cfw-method.423445/)
+* [Rverse](https://discord.gg/wCvJSCxf4G) - 3DS Miiverse Recreation
+* [Game Boy Tech Page](https://web.archive.org/web/19990209041732/http://home.hiwaay.net/%7Ejfrohwei/gameboy/home.html) - Game Boy Tools
+* [Game Boy Book Reader](https://www.mqp.com/fun/) - Game Boy Book Reader
+* [NESC-SNESC-Modifications](https://github.com/KMFDManic/NESC-SNESC-Modifications) - NES, SNES & Playstation Mods
+* [Chiaki](https://git.sr.ht/~thestr4ng3r/chiaki) - PS4 / PS5 Remote Play Client
+* [PS4Homebrew](https://www.reddit.com/r/ps4homebrew/) - PS4 Homebrew Subreddits
+* [Exploit Host](https://github.com/Al-Azif/ps4-exploit-host) - PS4 Exploit Hosting
+* [DarkSoftware](https://www.darksoftware.xyz/) - PS4 / PS3 Firmware
+* [/r/ps3homebrew](https://reddit.com/r/ps3homebrew) - PS3 Homebrew Subreddit
+* [PS3 Game Updater](https://www.psx-place.com/threads/ps3-game-updater-v1-5-psn-liberator-v0-96b-rudi-rastelli-adds-ps3p-pkg-ripper-support.3766/) or [Manually Updated](http://demo.aldostools.org/updates.html) - Update PS3 Games
+* [PS3Themes](http://www.ps3-themes.com/) - PS3 Themes
+* [PSXDev](https://www.psxdev.net/) - PS1 Development
+* [MemcardRex](https://shendosoft.blogspot.com/2014/01/memcardrex-18-released.html?m=1) - PS1 Save Transfer Tools / [Archive](https://archive.org/details/MemcardRex1.8)
+* [/r/VitaPiracy](https://www.reddit.com/r/VitaPiracy/) / [Discord](https://discord.gg/6Udcx2w) or [/r/VitaHacks](https://reddit.com/r/vitahacks/) - PSVita Homebrew Subreddits
+* [PSP Archive](https://psp-archive.github.io/) - PSP Homebrew Archive / [Discord](https://discord.gg/VZcjFvy3mT)
+* [VitaDB](https://vitadb.rinnegatamante.it/) - PS Vita Homebrews
+* [Vita Volume](https://gitlab.com/sinful-butterfly/vita-volume) - Set PS Vita Volume without Buttons
+* [ModMyClassic](https://modmyclassic.com/) - Classic Console Mods
+* [/r/360Hacks Guide](https://redd.it/8y9jql) - Xbox 360 Modding Guide
+* [C-Xbox Tool](https://gbatemp.net/download/c-xbox-tool.7615/) - .XBE to ISO File Converter
+* [NASOS](https://download.digiex.net/Consoles/GameCube/Apps/NASOSbeta1.rar) - Gamecube iso.dec to ISO Converter
+* [WBFStoISO](https://www.wbfstoiso.com/) - WBFS to ISO 
+* [hakchi2 CE](https://github.com/TeamShinkansen/Hakchi2-CE) - Add More Roms to NES/SNES Classic Mini
+* [emuiibo](https://github.com/XorTroll/emuiibo) - Amiibo Emulator
+* [Easy Guide to Making Amiibo](https://redd.it/5ywlol) - How to Make Your Own Amiibo
+
+***
+
+## ▷ Game Maps
+
+* 🌐 **[Map Genie](https://mapgenie.io/)**, [GameMaps](https://www.gamemaps.com/) or [VGMaps](https://www.vgmaps.com/) - Game Map Indexes
+* [noclip](https://noclip.website/) - Explore Game Maps
+* [KudosPrime](https://www.kudosprime.com/) - Racing Game Maps
+* [bspview](https://github.com/sbuggay/bspview) - Explore Quake & GoldSRC Maps
+* [NES Maps](https://www.nesmaps.com/) - NES Game Maps 
+* [SNES Maps](https://www.snesmaps.com/) - SNES Game Maps
+* [Forgehub](https://www.forgehub.com/) - Halo Maps
+* [Zelda BotW Street View](https://nassimsoftware.github.io/zeldabotwstreetview/) - Breath of The Wild Map
+* [Palworld Interactive](https://palworld.th.gl/) - Palworld Map
+* [Fortnite.gg](https://fortnite.gg/) - Fortnite Map, Guides, Skins etc.
+* [Hallownest](https://www.hallownest.net/) or [Interactive HN Map](https://scripterswar.com/hollowknight/map) - Hollow Knight Maps
+* [Hoyolab Teyvat Interactive Map](https://act.hoyolab.com/ys/app/interactive-map/index.html), [Mapgenie Teyvat Interactive Map](https://mapgenie.io/genshin-impact) or [Genshin Impact Map](https://genshin-impact-map.appsample.com/) - Genshin Impact Interactive Maps
+
+***
+
+## ▷ Git Gud
+
+* 🌐 **[Mousepad Mastersheet](https://docs.google.com/spreadsheets/d/1RAnmZxDNduaGV8kB-GCvZ0MO6d9-0j9jmrU2f8dp0Ww/)** - Mousepad Comparison Chart
+* 🌐 **[Click Latencies](https://docs.google.com/spreadsheets/d/1-QI7-LY9Ul_DsVE4ZOqBQxqqqqrdJ04Ite8IY3AQMds/)** - Mouse Click Latency Chart
+* ⭐ **[Before I Play](https://beforeiplay.com/)** - Tips for any Game
+* ⭐ **[GamingSmart](https://gamingsmart.com/)** - Game Sensitivity Converters
+* ⭐ **[Aim Lab](https://aimlab.gg/)**, [Aim400kg](https://aim400kg.com/), [3D Aim Trainer](https://www.3daimtrainer.com/), [Aiming.Pro](https://aiming.pro/) or [AimTrainer](https://aimtrainer.io/) - Aim Training
+* ⭐ **[CPSCounter](https://cpscounter.org/)**, [ClickSpeeder](https://clickspeeder.com/) or [ClickSpeedTester](https://www.clickspeedtester.com/) - Click Speed Training
+* ⭐ **[Momentum](https://momentum-mod.org/)** - Movement Training
+* [GameGuides](https://www.gamerguides.com/), [Retro Guides](https://rentry.co/FMHYBase64#retro-game-strategy-guides), [Game8](https://game8.co/), [StrategyWiki](https://strategywiki.org/), [Samurai Gamers](https://samurai-gamers.com/), [UHS Hints](https://www.uhs-hints.com/) or [Kirklands](https://archive.org/details/kirklands-manual-labor-sony-playstation-2-usa-4k-version) - Game Guides
+* [Piper](https://github.com/libratbag/piper) - Gaming Mouse Config Tool
+* [Use ESDF](http://www.use-esdf.org/) - OG FPS Control Combo
+* [LiveSplit](https://livesplit.org/) - Customizable Speedrun Timer
+* [TASVideos](https://tasvideos.org/) - Watch and Publish Tool Assisted Speedruns
+* [Tomatoanus](https://www.youtube.com/@tomatoanus/) - Speedrun Breakdowns
+* [BakkesMod](https://bakkesmod.com/) - Rocket League Trainer
+* [GamesDatabase](https://www.gamesdatabase.org/) - Game Manuals
+* [SNES Manuals](https://sites.google.com/view/snesmanuals) - SNES Game Manuals
+* [FOUR.lol](https://four.lol/) - Tetris Openers Wiki
+* [Underdogs Cup Lounge](https://discord.gg/QCbC9cA) - Tetris Resources & Coaching
+* [Four-tris](https://github.com/fiorescarlatto/four-tris) - Tetris Training Client
+* [PuzzleGraph](https://runevision.itch.io/puzzlegraph) - Computer Puzzle Visualizer
+
+***
+
+## ▷ Tracking / Discovery
+
+* ⭐ **[Glitchwave](https://glitchwave.com/)**, [Grouvee](https://www.grouvee.com/), [InfiniteBacklog](https://infinitebacklog.net/) or [Backloggd](https://www.backloggd.com/) - Game Trackers
+* ⭐ **[IGDB](https://www.igdb.com/)** or **[GiantBomb](https://www.giantbomb.com/games/)** - Game Database
+* ⭐ **[TasteDive](https://tastedive.com/games )**, [50GamesLike](https://www.50gameslike.com/) or [/r/ifyoulikeblank](https://www.reddit.com/r/ifyoulikeblank/) - Game Recommendations
+* [Rec Charts](https://mega.nz/folder/kj5hWI6J#0cyw0-ZdvZKOJW3fPI6RfQ) - Game Recommendation Guides
+* [Incendar](https://incendar.com/) - Game Release Date Tracker
+* [OpenCritic](https://opencritic.com/) - Critic Game Reviews / Ratings
+* [GG App](https://ggapp.io/), [Gamelib](https://gamelib.app/explore), [Backloggery](https://backloggery.com/) or [Exophase](https://www.exophase.com/) - Game Trackers
+* [LaunchBox Games Database](https://gamesdb.launchbox-app.com/), [GameFAQs](https://gamefaqs.gamespot.com/), [Steam Games](https://steam-games.org/), [Rawg](https://rawg.io/), [Moby Games](https://www.mobygames.com/), [rate.house](https://rate.house/chart/game), [listal](https://www.listal.com/), [Orcz](https://orcz.com/Main_Page) or [FrontierNav](https://frontiernav.net/) - Game Databases
+* [IMDb Advanced Search](https://www.imdb.com/search/) - Game Search
+* [Ethereal Games](https://wiki.etherealgames.com/) or [JRGPC](https://jrpgc.com/) - JRPG Databases
+* [RPGCodex](https://rpgcodex.net/forums/) - RPG Databse / Forum
+* [SteamPeek](https://steampeek.hu/) or [IndieDB](https://www.indiedb.com/) - Indie Game Databases
+* [RetroShowcase](https://www.retroshowcase.gr/), [Squakenet](https://www.squakenet.com/) or [The Good Old Days](https://www.goodolddays.net/) - Retro Game Databases
+* [Sega Retro](https://segaretro.org/) - Sega Game Database
+* [AtariAge](https://atariage.com/) - Atari Game Database
+* [Polish Pixels](https://polishpixels.com/) - Retro Polish Games Database
+* [Co-Optimu](https://www.co-optimus.com/), [Squad Games](https://www.squadd.games/) or [PlayCo-opGame](https://playco-opgame.com/) - Co-Op Game Databases
+* [SvenEvils Playground](https://store.steampowered.com/curator/8485829/) or [Local Multiplayer List](https://docs.google.com/spreadsheets/d/14f6qS2GJy8C-b40Df3dNH_aZq7WfZ4jMggzEajUrX0w/) - Local Multiplayer Game Database
+* [HOTU](https://www.homeoftheunderdogs.net/) - Rare Game Database
+* [Delisted Games](https://delistedgames.com/) - Delisted Games Database
+* [GameClassification](https://gameclassification.com/) - Search Games by Classifications
+* [MoreGamesLike](https://www.moregameslike.com/) or [Games Like Finder](https://gameslikefinder.com/) - Find Similar Games
+* [Random Game Bookmark Script](https://pastebin.com/JtmBQZbL) - Find Random Games
+* [awesome-engineering-games](https://github.com/arcataroger/awesome-engineering-games) - Engineering Game Recommendations
+* [DigitalDreamDoor](https://digitaldreamdoor.com/pages/games.html) or [5000 Best](http://5000best.com/games/) - List of the Best Games
+* [Unseen64](https://www.unseen64.net/) - Cancelled / Lost Games
+
+***
+
+# ► Game Specific
+
+***
+
+## ▷ MOBA Tools
+
+* ⭐ **[OP.GG](https://www.op.gg/)** - LoL Player Background Check
+* ⭐ **[U.GG](https://u.gg/)** - LoL Champion Builds / Tiers
+* ⭐ **[Gol.gg](https://gol.gg/esports/home/)** - LoL Competitive Stats, All Regions
+* ⭐ **[Tactics.tools](https://tactics.tools/)** / [Discord](https://discord.com/invite/K4Z6shucH8) or [MetaTFT](https://www.metatft.com/) / [Discord](https://discord.com/invite/RqN3qPy) - Team Fight Tactic Guides, Stats, Tools etc.
+* [MobaFire](https://www.mobafire.com/) - LoL Champion Guides
+* [ProBuilds](https://www.probuilds.net/) - LoL Pro Player Builds
+* [Zar](https://zar.gg) - LoL In-Game Coaching Overlay
+* [DraftGap](https://draftgap.com/) - LoL Draft Analysis Tool
+* [Mobalytics](https://mobalytics.gg/) - Game Performance & Stats Analyzer
+* [Porofessor](https://porofessor.gg/) - Live LoL Game Stats
+* [ProStreams](https://prostreams.gg/) - Watch Pro LoL Twitch Streams
+* [LoLdle](https://loldle.net/) - League of Legends Wordle
+* [Dota2ProTracker](https://www.dota2protracker.com/) or [16-Bits](https://16-bits.org/) - Dota 2 Stats Tracker
+* [SmiteGuru](https://smite.guru/) - Smite Leaderboards
+
 ***
 
 ## ▷ Minecraft Tools
@@ -1072,25 +1136,6 @@
 
 ***
 
-## ▷ MOBA Tools
-
-* ⭐ **[OP.GG](https://www.op.gg/)** - LoL Player Background Check
-* ⭐ **[U.GG](https://u.gg/)** - LoL Champion Builds / Tiers
-* ⭐ **[Gol.gg](https://gol.gg/esports/home/)** - LoL Competitive Stats, All Regions
-* ⭐ **[Tactics.tools](https://tactics.tools/)** / [Discord](https://discord.com/invite/K4Z6shucH8) or [MetaTFT](https://www.metatft.com/) / [Discord](https://discord.com/invite/RqN3qPy) - Team Fight Tactic Guides, Stats, Tools etc.
-* [MobaFire](https://www.mobafire.com/) - LoL Champion Guides
-* [ProBuilds](https://www.probuilds.net/) - LoL Pro Player Builds
-* [Zar](https://zar.gg) - LoL In-Game Coaching Overlay
-* [DraftGap](https://draftgap.com/) - LoL Draft Analysis Tool
-* [Mobalytics](https://mobalytics.gg/) - Game Performance & Stats Analyzer
-* [Porofessor](https://porofessor.gg/) - Live LoL Game Stats
-* [ProStreams](https://prostreams.gg/) - Watch Pro LoL Twitch Streams
-* [LoLdle](https://loldle.net/) - League of Legends Wordle
-* [Dota2ProTracker](https://www.dota2protracker.com/) or [16-Bits](https://16-bits.org/) - Dota 2 Stats Tracker
-* [SmiteGuru](https://smite.guru/) - Smite Leaderboards
-
-***
-
 ## ▷ Counter-Strike Tools
 
 * ⭐ **[CsWarzOnE](https://cswarzone.com/)** - Counter-Strike Downloads
@@ -1156,7 +1201,6 @@
 * ⭐ **[Rolimon's](https://www.rolimons.com/games)** or [RoMonitor Stats](https://romonitorstats.com/) - Roblox Experience Stats
 * ⭐ **[Bloxstrap](https://github.com/pizzaboxer/bloxstrap)** - Roblox Player Bootstrapper
 * [RBXFPSUnlocker](https://github.com/axstin/rbxfpsunlocker) - Unlock Roblox FPS Cap / [Note](https://pastebin.com/rB4BEf5b)
-* [Roblox Client Tracker](https://github.com/MaximumADHD/Roblox-Client-Tracker) - Roblox Update Tracker
 * [Novetus](https://bitl.itch.io/novetus) - Self-Hosted Multi-version Roblox Client
 * [Roblox Studio Mod Manager](https://github.com/MaximumADHD/Roblox-Studio-Mod-Manager) - Roblox Studio Bootstrapper
 * [RoPro](https://ropro.io/), [Roblox+](https://chromewebstore.google.com/detail/roblox%20/jfbnmfgkohlfclfnplnlenbalpppohkm), [BTRoblox](https://twitter.com/AntiBoomz/status/1378597179556823040), [RoGold](https://rogold.live/) or [RoSeal](https://www.roseal.live/) - Enhance Roblox Website
@@ -1185,6 +1229,20 @@
 
 ***
 
+## ▷ Geometry Dash Tools
+
+* ⭐ **[Geode](https://geode-sdk.org/)** - Mod Menu & Modding Framework
+* ⭐ **[Demon List](https://pointercrate.com/demonlist/) / [Challenge List](https://challengelist.gd/challenges/)** - Official Demon List and Challenge List
+* [GDDP](https://gddp.pro/) - Practice & Improve Your Skills
+* [Soluble Texture Packs](https://solubletexturepacks.com/) - GD Texture Packs / [Manager](https://geode-sdk.org/mods/geode.texture-loader/)
+* [Song File Hub](https://songfilehub.com/home) - GD Songs & Mashups / [Discord](https://discord.com/invite/maSgd4zpEF)
+* [4GB Patch](https://ntcore.com/?page_id=371) - Lets GD use 4GB of RAM
+* [Unrated Demon List](https://udl.pages.dev/#/) - Hardest Unrated Levels
+* [Globed](https://github.com/dankmeme01/globed2) - Multiplayer Mod
+* [GD Browser](https://gdbrowser.com/) - GD Level Browser
+
+***
+
 ## ▷ Tabletop Tools
 
 * 🌐 **[Awesome TTRPG](https://github.com/Zireael07/awesome-tabletop-rpgs)** - Online TTRPGs / Resources
@@ -1201,59 +1259,3 @@
 * [Tabletopy](https://tabletopy.com/) - Tabletop RPG Soundboard
 * [Map Generator](https://emptybuttons.itch.io/map-generator) - Tabletop Roleplaying Map Generator
 * [MOGG](http://img.mogg.fr/HIRES/) - Magic The Gathering Card Scans
-
-***
-
-## ▷ Geometry Dash Tools
-
-* ⭐ **[Geode](https://geode-sdk.org/)** - Mod Menu & Modding Framework
-* ⭐ **[Demon List](https://pointercrate.com/demonlist/) / [Challenge List](https://challengelist.gd/challenges/)** - Official Demon List and Challenge List
-* [GDDP](https://gddp.pro/) - Practice & Improve Your Skills
-* [Soluble Texture Packs](https://solubletexturepacks.com/) - GD Texture Packs / [Manager](https://geode-sdk.org/mods/geode.texture-loader/)
-* [Song File Hub](https://songfilehub.com/home) - GD Songs & Mashups / [Discord](https://discord.com/invite/maSgd4zpEF)
-* [4GB Patch](https://ntcore.com/?page_id=371) - Lets GD use 4GB of RAM
-* [Unrated Demon List](https://udl.pages.dev/#/) - Hardest Unrated Levels
-* [Globed](https://github.com/dankmeme01/globed2) - Multiplayer Mod
-* [GD Browser](https://gdbrowser.com/) - GD Level Browser
-
-***
-
-## ▷ Game Maps
-
-* 🌐 **[Map Genie](https://mapgenie.io/)**, [GameMaps](https://www.gamemaps.com/) or [VGMaps](https://www.vgmaps.com/) - Game Map Indexes
-* [noclip](https://noclip.website/) - Explore Game Maps
-* [KudosPrime](https://www.kudosprime.com/) - Racing Game Maps
-* [bspview](https://github.com/sbuggay/bspview) - Explore Quake & GoldSRC Maps
-* [NES Maps](https://www.nesmaps.com/) - NES Game Maps 
-* [SNES Maps](https://www.snesmaps.com/) - SNES Game Maps
-* [Forgehub](https://www.forgehub.com/) - Halo Maps
-* [Zelda BotW Street View](https://nassimsoftware.github.io/zeldabotwstreetview/) - Breath of The Wild Map
-* [Palworld Interactive](https://palworld.th.gl/) - Palworld Map
-* [Fortnite.gg](https://fortnite.gg/) - Fortnite Map, Guides, Skins etc.
-* [Hallownest](https://www.hallownest.net/) or [Interactive HN Map](https://scripterswar.com/hollowknight/map) - Hollow Knight Maps
-* [Hoyolab Teyvat Interactive Map](https://act.hoyolab.com/ys/app/interactive-map/index.html), [Mapgenie Teyvat Interactive Map](https://mapgenie.io/genshin-impact) or [Genshin Impact Map](https://genshin-impact-map.appsample.com/) - Genshin Impact Interactive Maps
-
-***
-
-## ▷ Git Gud
-
-* 🌐 **[Mousepad Mastersheet](https://docs.google.com/spreadsheets/d/1RAnmZxDNduaGV8kB-GCvZ0MO6d9-0j9jmrU2f8dp0Ww/)** - Mousepad Comparison Chart
-* 🌐 **[Click Latencies](https://docs.google.com/spreadsheets/d/1-QI7-LY9Ul_DsVE4ZOqBQxqqqqrdJ04Ite8IY3AQMds/)** - Mouse Click Latency Chart
-* ⭐ **[Before I Play](https://beforeiplay.com/)** - Tips for any Game
-* ⭐ **[GamingSmart](https://gamingsmart.com/)** - Game Sensitivity Converters
-* ⭐ **[Aim Lab](https://aimlab.gg/)**, [Aim400kg](https://aim400kg.com/), [3D Aim Trainer](https://www.3daimtrainer.com/), [Aiming.Pro](https://aiming.pro/) or [AimTrainer](https://aimtrainer.io/) - Aim Training
-* ⭐ **[CPSCounter](https://cpscounter.org/)**, [ClickSpeeder](https://clickspeeder.com/) or [ClickSpeedTester](https://www.clickspeedtester.com/) - Click Speed Training
-* ⭐ **[Momentum](https://momentum-mod.org/)** - Movement Training
-* [GameGuides](https://www.gamerguides.com/), [Retro Guides](https://rentry.co/FMHYBase64#retro-game-strategy-guides), [Game8](https://game8.co/), [StrategyWiki](https://strategywiki.org/), [Samurai Gamers](https://samurai-gamers.com/), [UHS Hints](https://www.uhs-hints.com/) or [Kirklands](https://archive.org/details/kirklands-manual-labor-sony-playstation-2-usa-4k-version) - Game Guides
-* [Piper](https://github.com/libratbag/piper) - Gaming Mouse Config Tool
-* [Use ESDF](http://www.use-esdf.org/) - OG FPS Control Combo
-* [LiveSplit](https://livesplit.org/) - Customizable Speedrun Timer
-* [TASVideos](https://tasvideos.org/) - Watch and Publish Tool Assisted Speedruns
-* [Tomatoanus](https://www.youtube.com/@tomatoanus/) - Speedrun Breakdowns
-* [BakkesMod](https://bakkesmod.com/) - Rocket League Trainer
-* [GamesDatabase](https://www.gamesdatabase.org/) - Game Manuals
-* [SNES Manuals](https://sites.google.com/view/snesmanuals) - SNES Game Manuals
-* [FOUR.lol](https://four.lol/) - Tetris Openers Wiki
-* [Underdogs Cup Lounge](https://discord.gg/QCbC9cA) - Tetris Resources & Coaching
-* [Four-tris](https://github.com/fiorescarlatto/four-tris) - Tetris Training Client
-* [PuzzleGraph](https://runevision.itch.io/puzzlegraph) - Computer Puzzle Visualizer
