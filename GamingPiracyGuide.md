@@ -704,11 +704,12 @@
 ## ▷ MOBA Tools
 
 * ⭐ **[OP.GG](https://www.op.gg/)** - LoL Player Background Check
-* ⭐ **[U.GG](https://u.gg/)** - LoL Champion Builds / Tiers
+* ⭐ **[U.GG](https://u.gg/)** or [LoLAlytics](https://lolalytics.com/) / [Discord](https://discord.com/invite/zKyaZ6w) - LoL Champion Builds / Tiers
 * ⭐ **[Gol.gg](https://gol.gg/esports/home/)** - LoL Competitive Stats, All Regions
 * ⭐ **[Tactics.tools](https://tactics.tools/)** / [Discord](https://discord.com/invite/K4Z6shucH8) or [MetaTFT](https://www.metatft.com/) / [Discord](https://discord.com/invite/RqN3qPy) - Team Fight Tactic Guides, Stats, Tools etc.
 * [MobaFire](https://www.mobafire.com/) - LoL Champion Guides
 * [ProBuilds](https://www.probuilds.net/) - LoL Pro Player Builds
+* [LoL Math](https://lolmath.net/) - LoL Item Optimizer / [Discord](https://discord.com/invite/BpGpdzw)
 * [Zar](https://zar.gg) - LoL In-Game Coaching Overlay
 * [DraftGap](https://draftgap.com/) - LoL Draft Analysis Tool
 * [Mobalytics](https://mobalytics.gg/) - Game Performance & Stats Analyzer
@@ -747,6 +748,7 @@
 * [Data Pack Generators](https://misode.github.io/) - Minecraft Data Pack Generators 
 * [Distant Horizons](https://gitlab.com/jeseibel/minecraft-lod-mod) - Increased Minecraft Render Distance
 * [ViveCraft](https://www.vivecraft.org/) - VR Minecraft
+* [Skyclient](https://skyclient.co/) - Hypixel Asset Installer
 * [SkyCrypt](https://sky.shiiyu.moe/) - SkyBlock Stats
 * [Cubical](https://www.cubical.xyz/) - Minecraft Schematic Tool
 * [Pixelart Builder](https://play.google.com/store/apps/details?id=com.electricfoal.photocrafter&hl=en&gl=US) or [PixelStacker](https://taylorlove.info/pixelstacker/) - Turn Photos into Minecraft Art
@@ -955,6 +957,7 @@
 * [DAN-BALL](https://dan-ball.jp/en/) - Browser Games
 * [Yandex Games](https://yandex.com/games/) - Browser Games
 * [Spatial](https://www.spatial.io/) - 3D Browser Games
+* [Unblock KISD](https://sites.google.com/view/unblockkisd/) - Browser Games (unblocked at schools)
 * [CoolMathGames](https://www.coolmathgames.com/) - Browser Game Site (disguised as edu games)
 * [FlashMuseum](https://flashmuseum.org/), [Flash Arch](https://flasharch.com/en) or [AlbinoBlackSheep](https://www.albinoblacksheep.com/games/) - Flash Games
 * [Arcade Prehacks](https://www.arcadeprehacks.com/), [SamsHackedGames](https://www.samshackedgames.com/) or [KongHack](https://konghack.com/) - Flash Game Hacks
@@ -1111,6 +1114,7 @@
 * [Colonist](https://colonist.io/) - Multiplayer "Settlers of Catan" 
 * [Hexxagon](https://hexxagon.com/) - Hexagonal Board Game
 * [The Bafflement Fires](https://www.dpoetry.com/fires/) - 1950's Freemasonic Board Game
+* [Scorecard.gg](https://scorecard.gg/) - Board Game Scorecards
 
 ***
 
