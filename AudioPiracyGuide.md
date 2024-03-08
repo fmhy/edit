@@ -94,7 +94,7 @@
 * [MP3Jam](https://www.mp3jam.org/) - Streaming
 * [MellowPlayer](https://colinduquesnoy.gitlab.io/MellowPlayer/) - Streaming
 * [Muffon](https://github.com/staniel359/muffon) - Streaming
-* [Deezer](https://www.deezer.com/) - Streaming / [Full Songs](https://git.uhwot.cf/uhwot/dzunlock.git)
+* [Deezer](https://www.deezer.com/) - Streaming
 * [OdesliBot](https://t.me/odesli_bot) - Audio Stream Search Bot
 * [MusicBucket](https://musicbucket.net/) - Track / Share Music / Telegram
 * [JukeboxStar](https://jukeboxstar.com/) or [JukeboxToday](https://jukebox.today/) - Collaborative Streaming / Listening Parties
