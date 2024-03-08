@@ -209,7 +209,6 @@
 * [Tweaker](https://github.com/zacharee/Tweaker) - Android System Tweaks / Features
 * [FreezeYou](https://www.freezeyou.net/en-US/), [SuperFreezZ](https://superfreezz.gitlab.io/), [BatteryTool](https://github.com/Domi04151309/BatteryTool) or [Drowser](https://gitlab.com/juanitobananas/drowser) - Freeze App Background Activities
 * [Pixoff](https://play.google.com/store/apps/details?id=com.urysoft.pixelfilter) - Save Battery by Turning Off Pixels
-* [FreezeYou](https://www.freezeyou.net/en-US/), [SuperFreezZ](https://superfreezz.gitlab.io/), [BatteryTool](https://github.com/Domi04151309/BatteryTool) or [Drowser](https://gitlab.com/juanitobananas/drowser) - Freeze App Background Activities
 
 ***
 
