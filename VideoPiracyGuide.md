@@ -409,7 +409,7 @@
 * ⭐ **[MrGamingStreams](https://mrgamingstreams.com/)** - TV / Sports / [Discord](https://discord.com/invite/Rf2SFRtJFz)
 * ⭐ **[RBTV](https://www.rbtv77.com/)**, [2](https://www.rbtv77.tattoo/), [3](https://www.rbtv77.website/) - Sports
 * ⭐ **[OlympicStreams](https://olympicstreams.me/)** - Sports
-* watch.lonelil - [TV](https://watch.lonelil.com/tv) / [Sports](https://watch.lonelil.com/schedule)
+* watch.lonelil - [TV](https://watch.lonelil.ru/tv) / [Sports](https://watch.lonelil.ru/schedule)
 * [Braflix](https://www.braflix.app/) - TV / Sports / [Discord](https://discord.gg/wWKmxARaWH)
 * [SusFlix](https://susflix.tv/) - TV / Sports / [Discord](https://discord.gg/BE7kTVezBN)
 * [TNS-LIVE](https://live.tnsicn.com/) - TV / Sports / [Discord](https://discord.com/invite/mJyWFkGwQw)
