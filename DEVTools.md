@@ -37,7 +37,7 @@
 * ↪️ **[Programming / Coding Tutorials](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_coding_tutorials)**
 * ⭐ **[freeCodeCamp](https://www.freecodecamp.org/)** - Programming / Courses / Interactive
 * ⭐ **[Odin Project](https://www.freecodecamp.org/learn/the-odin-project/)**, [2](https://www.theodinproject.com/) - Programming / Courses / Interactive / [Discord](https://discord.com/invite/fbFCkYabZB)
-* ⭐ **[StackOverflow](https://stackoverflow.com/)** / [Frontend](https://code.whatever.social/), [DecodingDevOps](https://www.decodingdevops.com/) or [Stack Roboflow](https://stackroboflow.com/) - Developer Q&A
+* ⭐ **[StackOverflow](https://stackoverflow.com/)** / [Frontend](https://code.whatever.social/) or [DecodingDevOps](https://www.decodingdevops.com/) - Developer Q&A
 * [Audio Dev](https://audiodev.blog/newbie-resources/) - Audio Programming Learning Resources
 * [Awesome Podcasts](https://github.com/rShetty/awesome-podcasts) - Podcasts for Software Engineers
 * [Awesome Microservices DotNet](https://github.com/mjebrahimi/Awesome-Microservices-DotNet) - .Net Microservice Guides
@@ -93,7 +93,7 @@
 * 🌐 **[Frontend Developers](https://github.com/andrew--r/channels)** or [Web Dev / Programming YouTube Channels](https://rentry.co/cozqr) - Web Dev Youtube Channels Indexes
 * ⭐ **[FullStackOpen](https://fullstackopen.com/en/)** - Full Stack Course 
 * ⭐ **[Learn to Code HTML & CSS](https://learn.shayhowe.com/)** - HTML/CSS Course
-* ⭐ **[JavaScript.info](https://javascript.info/)**, [Patterns.dev](https://www.patterns.dev/), [30 Days Of JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript) or [Java5cript](https://www.java5cript.com/) - Javascript Learning Sites
+* ⭐ **[JavaScript.info](https://javascript.info/)**, [Patterns.dev](https://www.patterns.dev/) or [30 Days Of JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript) - Javascript Learning Sites
 * ⭐ **[mess with dns](https://messwithdns.net/)** - Experiment with DNS
 * ⭐ **[PHP: The Right Way](https://phptherightway.com/)**, [Learn PHP](https://odan.github.io/learn-php/) or [PHP Tutorial](https://www.phptutorial.net/) - Learn PHP
 * [Web Dev for Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) - Web Dev Course
@@ -313,7 +313,6 @@
 * [CollegeComendium](https://collegecompendium.org/) - Computer Science Courses
 * [Computerphile](https://www.youtube.com/@Computerphile/), [CSDojo](https://www.youtube.com/@CSDojo) or [t v nagaraju Technical](https://www.youtube.com/@tvnagarajutechnical9978) - Computer Science YouTube Channels
 * [ApressOpen](https://www.apress.com/us/apress-open/apressopen-titles) - Computer Science Books
-* [AllITBooks](https://allitebook.xyz/) - Computer Science Books
 * [Papers We Love](https://paperswelove.org/) - Computer Science Research Papers
 * [NandGame](https://nandgame.com/) - Computer Building Puzzle
 * [From Nand To Tetris](https://www.nand2tetris.org/course) - Computer Building Lesson
@@ -1424,7 +1423,6 @@
 * [Strapi](https://strapi.io/) or [Postman](https://www.postman.com/) - API Builders
 * [Bruno](https://www.usebruno.com/) - API Testing Client
 * [Siesta](https://github.com/bustoutsolutions/siesta) - Write REST API Clients for iOS / macOS
-* [Poll2Hook](https://poll2hook.com/) - REST API to Webhooks
 * [WebAuthn](https://webauthn.io/) - Data Security Authentication API
 * [APIKit](https://github.com/API-Security/APIKit) - API Security Tools
 * [ReDoc](https://github.com/Redocly/redoc) - Generate API Documentation
