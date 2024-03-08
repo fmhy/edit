@@ -188,7 +188,7 @@
 * [KeywordSheeter](https://keywordsheeter.com/) or [Spyfu](https://www.spyfu.com/) - Keyword Research Tools
 * [Esteroids](https://esteroids.eth.limo/#) - Decentralized Web Search Engine
 * [BoardReader](https://boardreader.com/), [CrowdView](https://crowdview.ai/) or [FindAForum](https://www.findaforum.net/Home/Search/) - Forum Search Engine 
-* [Blog Search Engine](https://www.blogsearchengine.org/), [Blog-Search](https://www.blog-search.com/), [BlogErnity](http://www.bloggernity.com/) or [SearchBlogspot](https://www.searchblogspot.com/) - Blog Search
+* [BlogErnity](http://www.bloggernity.com/) or [SearchBlogspot](https://www.searchblogspot.com/) - Blog Search
 * [4chanSearch](https://4chansearch.com/) or [4search](https://4search.neocities.org/) - 4chan Search
 * [TikTok Quick Search](https://www.osintcombine.com/tiktok-quick-search) or [TikTok CSE](https://cse.google.com/cse?cx=c42f6b58703f83683) - TikTok Search 
 * [tumbex](https://www.tumbex.com/) - Tumblr Search
@@ -219,7 +219,6 @@
 * [Is it big?](https://isitbig.org/) - Brand Corporation Connection Search
 * [Matrix](https://matrix.itasoftware.com/) - Airfare Search
 * [ImportYeti](https://www.importyeti.com/) - Search U.S. Customs Shipment Records 
-* [eShips](https://eships.net/) - World Shipping Register
 * [Social-Analyzer](https://github.com/qeeqbox/social-analyzer) - Profile Search CLI
 * [Justia](https://trademarks.justia.com/) - Trademark Search
 * [TMHunt](http://www.tmhunt.com/) - Clothing Trademark Search
