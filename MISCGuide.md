@@ -564,7 +564,6 @@
 * [/r/careerguidance](https://www.reddit.com/r/careerguidance/) - Career Guidance Subreddit
 * [Science Career General](https://sciencecareergeneral.neocities.org/) - PhD / STEM Career Study Guides
 * [JustLanded](https://www.justlanded.com/) - Working & Living Abroad Guides
-* [Teleport](https://teleport.org/) - Compare Salaries, Cities and Cost of Living
 * [Space Crew](https://spacecrew.com/) - Find Space Related Jobs
 * [EconJobRumors](https://www.econjobrumors.com/) - Economic Job Market Forum
 * [SocJobRumors](https://www.socjobrumors.com/) - Sociology Job Market Forum
