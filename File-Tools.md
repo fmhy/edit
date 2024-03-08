@@ -180,10 +180,6 @@
 * [TeraCopy](https://www.codesector.com/teracopy) - File Backup
 * [restic](https://restic.net/) / [GitHub](https://github.com/restic/restic) - File Backup
 * [UrBackup](https://www.urbackup.org/) - File Backup
-* [BlobBackup](https://github.com/BlobBackup/BlobBackup) - File Backup
-* [SafeCopy](https://www.elwinsoft.com/safecopy-free.html) - File Backup
-* [FastCopy](https://fastcopy.jp/) - File Backup
-* [OCCT](https://www.ocbase.com/) - File Backup
 * [Aomei](https://www.ubackup.com/) - File Backup
 * [Duplicati](https://www.duplicati.com/) - File Backup
 * [Borg](https://www.borgbackup.org/) - File Backup
