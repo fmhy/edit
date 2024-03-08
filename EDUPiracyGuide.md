@@ -518,7 +518,6 @@ https://cari.institute/
 * [SpaceX Media 2015](https://web.archive.org/web/20150328140645/http://www.spacex.com/media) / [2019](https://web.archive.org/web/20191122175115/https://www.spacex.com/media) - SpaceX Media Archive
 * [Leolabs Space](https://platform.leolabs.space/visualization) - Low Earth Orbit Simulator
 * [Gravity Points](https://codepen.io/akm2/full/rHIsa), [Hermann](https://www.hermann.is/gravity/) or [dmilin1](https://dmilin1.github.io/PrincipiaJS/build/index.html) - Gravity Simulators
-* [Open Access Hub](https://scihub.copernicus.eu/) - Copernicus Satellite Data Copernicus
 * [Satellite Map](https://satellitemap.space/) - Satellite Orbit Map
 * [Find Starlink](https://findstarlink.com/) or [Look4Sat](https://github.com/rt-bishop/Look4Sat) - Satellite Trackers
 * [Space Weather News](https://spaceweathernews.com/) or [SpaceWeather](https://spaceweather.com/) - Space Weather Updates / [Videos](https://www.youtube.com/user/Suspicious0bservers)
@@ -926,7 +925,7 @@ https://cari.institute/
 * [/r/APStudents Course Survey](https://docs.google.com/spreadsheets/u/6/d/1s-YM81RvD11h9UOTba_XsBKEy-NW8PEXim2UxSLwdRE/edit#gid=1924688511) - AP Exam Comparison Spreadsheet
 * [/r/JEENEETards Index](https://www.reddit.com/r/JEENEETards/wiki/index) - JEE / NEET Guides & Study Material
 * [/r/CATpreparation](https://www.reddit.com/r/CATpreparation/) - CAT Test Prep / [Discord](https://discord.gg/CAvHUZY6rH)
-* [Revisely](https://www.revisely.co.uk/) or [ChemAndBio](https://chemandbio.co.uk/) - GCSE Exam Help
+* [Revisely](https://www.revisely.co.uk/) - GCSE Exam Help
 * [CatchaScience](https://catchascience.wordpress.com/) - IGCSE Study Material
 * [IELTS69](https://www.ielts69.com/) - IELTS Cambridge Practice Tests
 * [anthropology](https://t.me/anthropology) - UPSC Telegram Channel
