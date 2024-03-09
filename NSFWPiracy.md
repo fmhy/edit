@@ -591,7 +591,7 @@
 * [DeepMosaics](https://github.com/HypoX64/DeepMosaics) - Remove Mosaics from Porn
 * [ThePornDB](https://metadataapi.net/) - Porn Metadata
 * [Bypass Age Verification](https://greasyfork.org/en/scripts/393525-bypass-age-verification-deviantart-com) - Bypass Deviantart Age Restriction
-* [Sleazy Fork](https://sleazyfork.org/en/scripts) - Adult User Scripts
+* [Sleazy Fork](https://sleazyfork.org/en/scripts) - Adult User Scripts / [Add to Greasyfork](https://greasyfork.org/en/scripts/23840)
 * [Anal Sex Guide](https://github.com/regdude/anal) - Anal Sex Guide / Safety
 * [FapInstructor](https://fapinstructor.com/) or [Joi.how](https://joi.how/) - Fap Instructor Tools
 * [BDSM Tools](https://www.bdsmtools.org/) - BDSM Tools
