@@ -53,7 +53,7 @@
 * ⭐ **[BlackPlayer EX](https://www.revdl.com/blackplayer-ex-apk-download.html/)**
 * ⭐ **[BlackHole](https://blackhole-music.com/)**
 * ⭐ **[Symphony](https://github.com/zyrouge/symphony)**
-* ⭐ **[Symfonium](https://www.symfonium.app/)** or [Audio Share](https://github.com/mkckr0/audio-share) - Media Server Streaming
+* [Audio Share](https://github.com/mkckr0/audio-share) - Media Server Streaming
 * [Finamp](https://github.com/jmshrv/finamp) - Jellyfin Music Player
 * [Ultrasonic](https://gitlab.com/ultrasonic/ultrasonic) or [SubTune](https://github.com/TaylorKunZhang/SubTune) - Subsonic Clients
 
