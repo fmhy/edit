@@ -35,7 +35,7 @@
 * [ProperTree](https://github.com/corpnewt/ProperTree) - GUI Plist Editor
 * [OpenBoardView](https://github.com/OpenBoardView/OpenBoardView) - View .brd Files
 * [pe_tree](https://github.com/blackberry/pe_tree) - PE File Tree View
-* [infekt](https://infekt.ws/) / [GitHub](https://github.com/syndicodefront/infekt), [nfoview](https://otsaloma.io/nfoview/) / [GitHub](https://github.com/otsaloma/nfoview) or [NFOmation](https://nfomation.net/) - NFO File Viewers
+* [infekt](https://infekt.ws/) / [GitHub](https://github.com/syndicodefront/infekt), [nfoview](https://otsaloma.io/nfoview/) / [GitHub](https://github.com/otsaloma/nfoview) or [NFOmation](https://nfomation.net/) - NFO Viewers
 
 ***
 
