@@ -49,11 +49,11 @@
 * [nativefier_tauri](https://github.com/hamza72x/web2app) - Turn Webpages into Desktop Apps
 * [Autokey](https://github.com/autokey/autokey) - Linux Automation Utility
 * [Touchégg](https://github.com/JoseExposito/touchegg) - Multi-Touch Gesture Recognizer
-* [Enlightment](https://www.enlightenment.org/), [worm](https://github.com/codic12/worm), [dwm](https://dwm.suckless.org/), [qtile](https://qtile.org/), [xmonad](https://xmonad.org/), [zentile](https://github.com/blrsn/zentile) or [bspwm](https://github.com/baskerville/bspwm) - Window Managers / [Sub](https://www.reddit.com/r/bspwm/) / [Binds](https://github.com/baskerville/sxhkd)
+* [Enlightment](https://www.enlightenment.org/), [PaperWM](https://github.com/paperwm/PaperWM), [worm](https://github.com/codic12/worm), [dwm](https://dwm.suckless.org/), [qtile](https://qtile.org/), [xmonad](https://xmonad.org/), [zentile](https://github.com/blrsn/zentile) or [bspwm](https://github.com/baskerville/bspwm) - Window Managers / [Sub](https://www.reddit.com/r/bspwm/) / [Binds](https://github.com/baskerville/sxhkd)
 * [Material Shell](https://material-shell.com/) or [Forge](https://github.com/forge-ext/forge) - GNOME Tiling Extension
 * [Bismuth](https://bismuth-forge.github.io/bismuth/) - KDE Tiling Extension / [GitHub](https://github.com/Bismuth-Forge/bismuth)
 * [Ghostwriter](https://ghostwriter.kde.org/) or [Remarkable](https://remarkableapp.github.io/) - Markdown Editor
-* [Gedit](https://wiki.gnome.org/Apps/Gedit), [Geany](https://www.geany.org/), [Leafpad](http://tarot.freeshell.org/leafpad/), [NotepadNext](https://github.com/dail8859/NotepadNext), [Featherpad](https://github.com/tsujan/FeatherPad), [Mousepad](https://github.com/codebrainz/mousepad) or [Notepadqq](https://notepadqq.com/) - Text Editor
+* [Gedit](https://wiki.gnome.org/Apps/Gedit), [Geany](https://www.geany.org/), [Leafpad](http://tarot.freeshell.org/leafpad/), [NotepadNext](https://github.com/dail8859/NotepadNext), [Featherpad](https://github.com/tsujan/FeatherPad), [nb](https://github.com/xwmx/nb), [Mousepad](https://github.com/codebrainz/mousepad) or [Notepadqq](https://notepadqq.com/) - Text Editor / Note Apps
 * [TextPieces](https://github.com/liferooter/textpieces) - Quick Text Transformations
 * [ly](https://github.com/fairyglade/ly) - Display Manager with Console UI
 * [GammaStep](https://gitlab.com/chinstrap/gammastep) - Adjust Screen Temperature
@@ -350,7 +350,7 @@ Linux Gaming Guide
 ## ▷ File Tools
 
 * 🌐 **[Linux File Backup](https://github.com/restic/others)** - File Backup App List
-* ⭐ **[Warpinator](https://github.com/linuxmint/warpinator)**, [Magic Wormhole](https://github.com/magic-wormhole/magic-wormhole), [syncthing](https://syncthing.net/), [portal](https://github.com/SpatiumPortae/portal) or [Sharing](https://github.com/parvardegr/sharing) - File Sync Apps
+* ⭐ **[Warpinator](https://github.com/linuxmint/warpinator)**, [Magic Wormhole](https://github.com/magic-wormhole/magic-wormhole), [syncthing](https://syncthing.net/), [portal](https://github.com/SpatiumPortae/portal), [Zrok](https://zrok.io/) or [Sharing](https://github.com/parvardegr/sharing) - File Sync Apps
 * ⭐ **[Baobab](https://gitlab.gnome.org/GNOME/baobab)** - Disk Usage Analyzer
 * [ANGRYsearch](https://github.com/DoTheEvo/ANGRYsearch), [CatCLI](https://github.com/deadc0de6/catcli), [xplr](https://xplr.dev/) / [GitHub](https://github.com/sayanarijit/xplr) / [Discord](https://discord.com/invite/JmasSPCcz3), [logo-ls](https://github.com/Yash-Handa/logo-ls), [ugrep](https://github.com/Genivia/ugrep) or [Achoz](https://github.com/kcubeterm/achoz) - File Explorers
 * [Collector](https://mijorus.it/projects/collector/) - File Drag & Drop
@@ -379,6 +379,7 @@ Linux Gaming Guide
 * ↪️ **[Bash / CLI Cheat Sheets](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_cli_cheat_sheets)**
 * ⭐ **[lf](https://github.com/gokcehan/lf)**, [ranger](https://github.com/ranger/ranger), [nnn](https://github.com/jarun/nnn), [clifm](https://github.com/leo-arch/clifm), [fm](https://github.com/mistakenelf/fm), [Joshuto](https://github.com/kamiyaa/joshuto), [gdu](https://github.com/dundee/gdu) or [NCDU](https://dev.yorhel.nl/ncdu) - Terminal File Manager / Disk Usage Analyzers
 * ⭐ **[Alacritty](https://github.com/alacritty/alacritty)**, **[Kitty](https://sw.kovidgoyal.net/kitty/overview/)**, [Simple Terminal](https://st.suckless.org/), [Wave](https://www.waveterm.dev/), [yakuake](https://apps.kde.org/yakuake/), [emacs-eat](https://codeberg.org/akib/emacs-eat) or [tabby](https://tabby.sh/) - Linux Terminals
+* ⭐ **[Shell GPT](https://github.com/TheR1D/shell_gpt)** - CLI AI
 * [utils](https://github.com/Loupeznik/utils) or [UsefulLinuxShellScripts](https://github.com/jackrabbit335/UsefulLinuxShellScripts) - Linux Shell Tool Scripts
 * [Gum](https://github.com/charmbracelet/gum) - Shell Script Creator
 * [ShellCheck](https://www.shellcheck.net/) - Shell Script Bug Check
@@ -387,7 +388,7 @@ Linux Gaming Guide
 * [Bash Crawl](https://gitlab.com/slackermedia/bashcrawl) - Linux Command Learning Game
 * [bash_loading_animations](https://github.com/Silejonu/bash_loading_animations) - Bash Loading Animations
 * [bash-it](https://github.com/Bash-it/bash-it) or [Bashly](https://bashly.dannyb.co/) - Bash Frameworks
-* [zx](https://github.com/google/zx) - Javascript Bash
+* [zx](https://github.com/google/zx) or [dax](https://github.com/dsherret/dax) - Write Complex Scripts
 * [Basher](https://www.basher.it/) - Bash Script Package Manager
 * [yakuake](https://apps.kde.org/yakuake/) - Terminal Emulator
 * [XTerm](https://invisible-island.net/xterm/) - X Window System Terminal Emulator
