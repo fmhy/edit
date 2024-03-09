@@ -23,6 +23,7 @@
 * [Cinetimes](https://cinetimes.org/en/)
 * [ThoughtMaybe](https://thoughtmaybe.com/)
 * [PBS](https://www.pbs.org/video/)
+* [Nat Geo](https://www.nationalgeographic.com/tv/browse/watch-free)
 * [Folkstreams](https://www.folkstreams.net/)
 * [Films For Action](https://www.filmsforaction.org/)
 * [/r/Documentaries](https://reddit.com/r/Documentaries)
@@ -78,6 +79,7 @@
 * [Stanford Courses](https://online.stanford.edu/free-content) - Free Stanford Courses
 * [LearnOutLoud](https://www.learnoutloud.com/) - Documentaries / Courses
 * [Class Central](https://www.classcentral.com/) - Search for Courses
+* [ProfessorMesser](https://www.professormesser.com/) - IT Courses
 * [media.ccc.de](https://media.ccc.de/) or [SlidePlayer](https://slideplayer.com/) - Educational Presentations
 * UC Berkeley Webcast Project - [Archive](https://archive.org/details/ucberkeley-webcast) or [lbry](https://odysee.com/@UCBerkeley)
 * [iTunes U](https://wiki.archiveteam.org/index.php/ITunes_U) - Lectures
@@ -522,7 +524,7 @@ https://cari.institute/
 * [Find Starlink](https://findstarlink.com/) or [Look4Sat](https://github.com/rt-bishop/Look4Sat) - Satellite Trackers
 * [Space Weather News](https://spaceweathernews.com/) or [SpaceWeather](https://spaceweather.com/) - Space Weather Updates / [Videos](https://www.youtube.com/user/Suspicious0bservers)
 * [Andegraf Rockets](https://rockets.andegraf.com/) - Rocket Diagrams
-* [nextrocket.space](https://nextrocket.space/) - List of Upcoming Rocket Launches
+* [nextrocket.space](https://nextrocket.space/) or [RocketLaunch](https://rocketlaunch.org/) - Rocket Launch Trackers
 * [openMotor](https://github.com/reilleya/openMotor) - Internal Ballistics Simulator
 * [Interactive Apollo Missions](https://apolloinrealtime.org/) or [FirstMenOnTheMoon](https://www.firstmenonthemoon.com/) - Apollo in Realtime
 * [Moon.Nasa](https://science.nasa.gov/moon/) - Explore the Moon
@@ -585,6 +587,7 @@ https://cari.institute/
 * [LilyPond](https://lilypond.org/) - Music Engraving Program
 * [Learning Music](https://learningmusic.ableton.com/) or [Musica](https://www.musicca.com/) - Music-Making Lessons
 * [Piano Trainer](https://zaneh.itch.io/piano-trainer) or [PianoCheetah](https://pianocheetah.app) - Piano Practice
+* [Keyboard Connect](https://keyboardconnect.com/) - Keyboard Tutoring App
 * [TrueToneGuitar](https://www.truetoneguitar.co.uk/tools/guitar-practice-routine-generator), [Songsterr](https://www.songsterr.com/), [FAChords](https://www.fachords.com/) or [ChordBook](https://chordbook.com/) - Guitar Tools
 * [FretFlip](https://fretflip.com/guitar-scales) or [GuitarScale](https://www.guitarscale.org/) - Guitar Scales
 * [#fretflip](https://fretflip.com/) - Create / Print Guitar Scales & Chord Charts 
@@ -634,6 +637,7 @@ https://cari.institute/
 * [PhotoshopTutorials.ws](https://www.photoshoptutorials.ws/) - Photoshop Tutorials
 * [DomDesigns](https://www.youtube.com/c/DomDesigns/) - Illustrator Tutorials
 * [PhotoshopTraining](https://www.youtube.com/@PhotoshopTrainingChannel), [Phlearn](https://www.youtube.com/@phlearn) or [PiXimperfect](https://www.youtube.com/@PiXimperfect) - Photoshop YouTube Tutorials
+* [The Book of Shaders](https://thebookofshaders.com/) - Fragment Shaders Guide
 * [The Bézier Game](https://bezier.method.ac/) - Pen Tool Practice
 * [ArtWithFlo](https://artwithflo.com/) - Procreate Tutorials
 * [Paintable](https://paintable.cc/blog-home-bootcamp/) - Digital Art Tutorials
@@ -833,6 +837,7 @@ https://cari.institute/
 ## ▷ Other Languages
 
 * [ASL Dictionary](https://www.signasl.org/), [BSL Dictionary](https://www.signbsl.com/), [SignSpaces](https://signspaces.com/) or [HandSpeak](https://www.handspeak.com/) - Learn American Sign Language
+* [SignLearner](https://signlearner.com/) - Learn Sign Language while Browsing Internet
 * [Learn BSL in SignWriting](https://ankiweb.net/shared/info/1502698119)
 * [LingYourLanguage](https://lingyourlanguage.com/) or [Language Squad](https://www.languagesquad.com/) - Language Identification Test
 * [LocalLingual](https://localingual.com/) or [DialectArchive](https://www.dialectsarchive.com/globalmap) - Listen to Accents
@@ -906,7 +911,7 @@ https://cari.institute/
 * [Wisdolia](https://www.wisdolia.com/) - Create Flashcards from YouTube, Webpages or PDFs
 * [SearchifyX](https://github.com/daijro/SearchifyX) - Search Flashcards
 * [ForgetMeNot](https://github.com/tema6120/ForgetMeNot) - Flashcard Mobile App
-* [Edgibot](https://www.edgilearning.com/), [Tutorly](https://tutorly.ai), [Get Unstuck](https://socratic.org/), [sarthaks](https://www.sarthaks.com/) or [Brainly](https://brainly.com/) - Homework Help Bots / Communities
+* [Edgibot](https://www.edgilearning.com/), [Homeworkify](https://homeworkify.st/), [Tutorly](https://tutorly.ai), [Get Unstuck](https://socratic.org/), [sarthaks](https://www.sarthaks.com/) or [Brainly](https://brainly.com/) / [Limit Bypass](https://greasyfork.org/en/scripts/430355) - Homework Help Bots / Communities
 * [Toppr](https://www.toppr.com/), [FreeOnlineTest](https://www.freeonlinetest.in/) or [AE Old](https://discord.gg/VCXGudY) - Test Practice & Homework Help
 * [DoubtNut](https://www.doubtnut.com/) - Exam Solutions / Help
 * [StudyStream](https://www.studystream.live/) or [StudyTogether](https://www.studytogether.com/) - Online Study Groups
@@ -931,12 +936,13 @@ https://cari.institute/
 * [anthropology](https://t.me/anthropology) - UPSC Telegram Channel
 * [GaryChamberlainLectureNotes](https://github.com/paulgp/GaryChamberlainLectureNotes) - Econometrics Lecture Notes
 * [ITExams](https://www.itexams.com/) - IT Exam Collection
+* [ITExamAnswers.net](https://www.itexamanswers.net/) - IT Exam Answers
 * [Science Career General](https://sciencecareergeneral.neocities.org/) - PhD / Stem Career Study Guides
 * [HamExam](https://hamexam.org/), [AA9PW](https://www.aa9pw.com/) or [HamStudy](https://hamstudy.org/) - Ham Radio Practice Exams
 * [Cheatography](https://cheatography.com/) - Educational Cheat Sheets
 * [LitSolutions](https://www.litsolutions.org/) - Textbook Solutions
 * [School Cheats](https://schoolcheats.net/) - School Platform Answers
-* [ITExamAnswers.net](https://www.itexamanswers.net/) - IT Exam Answers
+
 
 ***
 
