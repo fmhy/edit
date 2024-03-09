@@ -103,7 +103,7 @@
 
 * [AnimeColorDeOldify](https://github.com/Dakini/AnimeColorDeOldify) - Anime / Manga Image Colorization
 * [style2paints](https://github.com/lllyasviel/style2paints) - Lineart Colorization
-* [Petalica Paint](https://petalica.com/), [playback](https://playback.fm/colorize-photo), [cutout](https://www.cutout.pro/photo-colorizer-black-and-white), [hotpot](https://hotpot.ai/colorize-picture) or [Colorizer](https://deepai.org/machine-learning-model/colorizer) - Online Image Colorization
+* [Petalica Paint](https://petalica.com/), [playback](https://playback.fm/colorize-photo), [cutout](https://www.cutout.pro/photo-colorizer-black-and-white), [hotpot](https://hotpot.ai/colorize-picture), [9may](https://9may.mail.ru/restoration/?lang=en), [InColor](https://www.myheritage.com/incolor) or [Colorizer](https://deepai.org/machine-learning-model/colorizer) - Online Image Colorization
 * [DeOldify](https://github.com/jantic/DeOldify) - Image / Video Colorization
 * [imagecolorizer](https://imagecolorizer.com/) - Image Colorization / Restoration
 
@@ -282,9 +282,9 @@
 * [PixelMe](https://xsgames.co/pixelme/) - 8bit Avatar Creator
 * [IconArchive](https://iconarchive.com/), [IconDuck](https://iconduck.com/), [icon icons](https://icon-icons.com/), [Icons-For-Free](https://icons-for-free.com/), [Streamline](https://www.streamlinehq.com/), [Dryicons](https://dryicons.com/) or [Icones](https://icones.js.org/) - Icon Packs
 * [IconPacks](https://www.iconpacks.net/), [svgmix](https://svgmix.com/), [Iconbuddy](https://iconbuddy.app/), [Noun Project](https://thenounproject.com/) or [cappuccicons](https://cappuccicons.com/) - SVG / PNG Icons
-* [Icofont](https://icofont.com/icons), [xIcons](https://xicons.org), [Polaris](https://polaris.shopify.com/icons), [Phosphor Icons](https://phosphoricons.com/), [Ant Design](https://ant.design/components/icon/) or [Orion](https://www.orioniconlibrary.com/) - SVG Icons
+* [Icofont](https://icofont.com/icons), [SimpleIcons](https://simpleicons.org/), [xIcons](https://xicons.org), [Polaris](https://polaris.shopify.com/icons), [Phosphor Icons](https://phosphoricons.com/), [IconFinder](https://www.iconfinder.com/), [Ant Design](https://ant.design/components/icon/) or [Orion](https://www.orioniconlibrary.com/) - SVG Icons
 * [GrommetIcons](https://icons.grommet.io/) - SVG Icons for React
-* [CaptainIconWeb](https://mariodelvalle.github.io/CaptainIconWeb/), [Iconify](https://github.com/kyutefox/Iconify) or [IconHunt](https://www.iconhunt.site/) - Vector Icons
+* [CaptainIconWeb](https://mariodelvalle.github.io/CaptainIconWeb/), [IconNinja](https://www.iconninja.com/), [Iconify](https://github.com/kyutefox/Iconify) or [IconHunt](https://www.iconhunt.site/) - Vector Icons
 * [StyledIcons](https://styled-icons.dev/) - Import Icons as Styled Components
 * [Teenyicons](https://teenyicons.com/) - Minimal 1px Icons
 * [awsicons](https://awsicons.dev/) - AWS Icons
@@ -315,7 +315,8 @@
 * [ArmorLab](https://armorlab.org/), [Pixela](https://pixela.ai/) or [TextureLab](https://www.texturelab.io/) - Texture Generators
 * [Texture Lab](https://njbrown.itch.io/texturelab) - Procedural Texture Generator / [GitHub](https://github.com/njbrown/texturelab)
 * [Material Maker](https://rodzilla.itch.io/material-maker) - Procedural Texture Creator
-* [DoodDad](https://doodad.dev/pattern-generator), [Repeater](https://repeater.space/), [PatternPad](https://patternpad.com/), [patternico](https://patternico.com/), [Repeater](https://www.richardwestenra.com/repeater/), [Valentina](https://gitlab.com/smart-pattern/valentina), [tylify](https://tylify.app/) or [Haikei](https://app.haikei.app/) - Pattern Generators
+* [DoodDad](https://doodad.dev/pattern-generator), [Repeater](https://repeater.space/), [PatternPad](https://patternpad.com/), [patternico](https://patternico.com/), [Repeater](https://www.richardwestenra.com/repeater/), [more.graphics](https://more.graphics/), [Valentina](https://gitlab.com/smart-pattern/valentina), [tylify](https://tylify.app/) or [Haikei](https://app.haikei.app/) - Pattern Generators
+* [Noise & Gradient](https://www.noiseandgradient.com/), [Gradient Designer](https://gradient-designer.csspost.com/), [BGJar](https://bgjar.com/), [MeshGradient](https://meshgradient.in/) or [BGGenerator](https://bggenerator.com/) - Background / Gradient Generators
 * [Hide.Lizz](https://hide.lizz.website/) - Camouflage Pattern Generator
 * [Tabbied](https://tabbied.com/) or [Slopes](https://tinkersynth.com/slopes/) - Art Pattern Generators
 * [05x5](https://csh.bz/line/05x5.html) - Rainbow Pattern Generator
@@ -412,14 +413,10 @@
 # ► Image Generation
 
 * ↪️ **[AI Image Generators](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/ai#wiki_.25BA_image_generation)**
-* [Noise & Gradient](https://www.noiseandgradient.com/), [Gradient Designer](https://gradient-designer.csspost.com/), [BGJar](https://bgjar.com/), [MeshGradient](https://meshgradient.in/) or [BGGenerator](https://bggenerator.com/) - Background / Gradient Generators
-* [more.graphics](https://more.graphics/) - Graphic Generators
 * [imgsli](https://imgsli.com/) - Before & After Slider Generator
 * [Hugin](https://hugin.sourceforge.io/) - Panorama Image Generator
 * [CharacterCreator](https://charactercreator.org/) - Character Generator
-* [DCGAN](http://mattya.github.io/chainer-DCGAN/) - Anime Icon Generator 
 * [99 Avatars](https://99avatars.com/) - Create Doodle Avatar
-* [Girl Friend Factory](https://hiroshiba.github.io/girl_friend_factory/) or [MakeGirlsMoe](https://make.girls.moe/) - Female Anime Icon Generator 
 * [FontSVG](https://fontsvg.com/) - Convert Font, Icon, Glyph to SVG
 * [Mimi](https://mimi-panda.com/) - Create Coloring Pages from Photos
 * [Text-Image](https://www.text-image.com/) - Text Image Generator
@@ -435,10 +432,9 @@
 
 * 🌐 **[Awesome GIF](https://rentry.co/ccuz3)** - GIF Resources / [GitHub](https://github.com/davisonio/awesome-gif)
 * 🌐 **[Online GIF Tools](https://onlinegiftools.com/)** - GIF Tools
-* [Giphy](https://giphy.com/), [Gifer](https://gifer.com/en), [Curlie GIFs](https://curlie.org/en/Computers/Graphics/Web/Free/Animated_GIFs), [GIFs Paradise](https://www.gifs-paradise.com/), [GifCities](https://gifcities.org/), [LottieFiles](https://lottiefiles.com/), [reactiongifs](https://www.reactiongifs.us/), [reactiongifs](https://reactiongifs.me/), [reactiongifs](http://www.reactiongifs.com/), [bestanimations](https://bestanimations.com/), [Animations](https://bleuje.com/animationsite/), [GIFBin](https://gifbin.com/), [ForGIFs](http://forgifs.com/) or [Animated Images](https://www.animatedimages.org/) - View / Download GIFs 
-* [/r/HighQualityAnimeGifs](https://www.reddit.com/r/HighQualityAnimeGifs/) or [/r/animegifs](https://www.reddit.com/r/animegifs/) - View / Download Anime GIFs 
-* [Glittereyez](http://ge.silentears.net/) - Glitter GIFs
-* [EZGif](https://ezgif.com/), [GIFCurry](https://lettier.github.io/gifcurry/) / [GitHub](https://github.com/lettier/gifcurry), [Giflr](https://giflr.com/), [QGifer](https://sourceforge.net/projects/qgifer/), [GIFMemes](https://gifmemes.io/), [GIFnText](https://www.gifntext.com/), [makeagif](https://makeagif.com/), [Gifsicle](http://www.lcdf.org/gifsicle/) or [Pixteller](https://pixteller.com/) - GIF Creators / Editors
+* [Giphy](https://giphy.com/), [Gifer](https://gifer.com/en), [Curlie GIFs](https://curlie.org/en/Computers/Graphics/Web/Free/Animated_GIFs),  [GifCities](https://gifcities.org/), [Animations](https://bleuje.com/animationsite/) or [GIFBin](https://gifbin.com/) - View / Download GIFs 
+* [/r/animegifs](https://www.reddit.com/r/animegifs/) - View / Download Anime GIFs 
+* [EZGif](https://ezgif.com/), [GIFCurry](https://lettier.github.io/gifcurry/) / [GitHub](https://github.com/lettier/gifcurry), [Giflr](https://giflr.com/), [GIFMemes](https://gifmemes.io/), [GIFnText](https://www.gifntext.com/), [makeagif](https://makeagif.com/), [Gifsicle](http://www.lcdf.org/gifsicle/) or [Pixteller](https://pixteller.com/) - GIF Creators / Editors
 * [EatMyArt](https://www.eatmy.art/), [DrawIsland](https://drawisland.com/) or [Sketch Machine](https://sketchmachine.net/) - Create GIFs from Drawings
 * [Kinegram](https://kinegram.app/) - Kinegram GIF Creator
 * [GifRun](https://gifrun.com/) - Make GIFs from Online Videos
@@ -460,9 +456,6 @@
 * [Frinkiac](https://frinkiac.com/) - Simpsons Meme Generator 
 * [Morbotron](https://morbotron.com/) - Futurama Meme Generator
 * [BreakYourOwnNews](https://www.breakyourownnews.com/) - Breaking News Meme Generator
-* [MapMemes](https://www.mapmemes.com/) - Map Meme Generator
-* [WashYourLyrics](https://washyourlyrics.com/) - Hand Washing Meme Generator
-* [O RLY Cover Generator](https://dev.to/rly) - O RLY Meme Book Cover Generator
 * [AnimorphGenerator](https://animorphgenerator.com/) - Animorph Image Generator
 
 ***
@@ -491,7 +484,7 @@
 * [Artvee](https://artvee.com/) - Public Domain Artwork 
 * [Behance](https://behance.net/) - Design Projects
 * [Placeit](https://placeit.net/) - Image Templates
-* [Worldvectorlogo](https://worldvectorlogo.com/), [Logos & Badges Bundle](https://rentry.co/FMHYBase64#logos-badges-bundle), [Brands of the World](https://www.brandsoftheworld.com/), [Logos Download](https://logos-download.com/), [Logodust](https://logodust.com/), [Logowik](https://logowik.com/), [Logo Wine](https://www.logo.wine/), [logospire](https://logospire.com/), [LogoSearch](https://logosear.ch/), [logopond](https://logopond.com/), [logotouse](https://www.logotouse.com/), [logolounge](https://www.logolounge.com/), [logomoose](https://www.logomoose.com/) - Logo Designs
+* [Worldvectorlogo](https://worldvectorlogo.com/), [Logos & Badges Bundle](https://rentry.co/FMHYBase64#logos-badges-bundle), [Brands of the World](https://www.brandsoftheworld.com/), [Logos Download](https://logos-download.com/), [Logodust](https://logodust.com/), [Logowik](https://logowik.com/), [Logo Wine](https://www.logo.wine/), [seeklogo](https://seeklogo.net/), [logospire](https://logospire.com/), [LogoSearch](https://logosear.ch/), [logopond](https://logopond.com/), [logotouse](https://www.logotouse.com/), [brandeps](https://brandeps.com/), [logolounge](https://www.logolounge.com/), [logomoose](https://www.logomoose.com/) - Logo Designs
 * [MariaLetta](https://github.com/MariaLetta/mega-doodles-pack) - Free Doodles
 * [Watercolor Collection](https://rentry.co/FMHYBase64#watercolor-collection) - Download Watercolor Pictures
 * [googleimagerestored](https://git.sr.ht/~fanfare/googleimagesrestored) - Old Google Image Search 
@@ -506,6 +499,7 @@
 * ⭐ **[same.energy](https://same.energy/)** - Visual Search Engine
 * ⭐ **[Yandex Images](https://yandex.com/images/)** - Image Search
 * [Google Images](https://images.google.com/) - Image Search
+* [CopySeeker](https://copyseeker.net/) - Image Search
 * [VISE](https://www.robots.ox.ac.uk/~vgg/software/vise/) - Image Search with Search Queries
 * [SauceNao](https://saucenao.com/) - Multi Search / [Extension](https://saucenao.com/tools/)
 * [SmartImage](https://github.com/Decimation/SmartImage) - Multi Search App
