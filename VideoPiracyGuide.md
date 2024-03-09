@@ -388,7 +388,7 @@
 * [FullFights](https://fullfights.net/) - MMA / Wrestling
 * [MMA High Kick](https://www.mmahighkick.com/) - MMA / Boxing
 * [Hula8](https://www.hula8.net/) - MMA
-* [Bellator](https://www.bellator.com/video) - MMA
+* [Bellator](https://www.bellator.com/) - MMA
 * [MMACore](https://www.mma-core.com) - MMA
 * [BoxingBoxingvideoideo](https://boxingvideo.org/) - Boxing
 * [AllTheBestFights](https://www.allthebestfights.com/) - MMA / Boxing / Kickboxing
