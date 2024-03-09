@@ -279,7 +279,7 @@
 ## ▷ Telegram Clients
 
 * ⭐ **[web.telegram](https://web.telegram.org/)** / [2](https://webk.telegram.org/) / [3](https://weba.telegram.org/)
-* ⭐ **[Unigram](https://github.com/UnigramDev/Unigram)**, [VideoGram](https://vidogram.org/) or [TDesktop](https://github.com/Forkgram/tdesktop) / [x64](https://github.com/TDesktop-x64/tdesktop) - Desktop Clients
+* ⭐ **[Unigram](https://github.com/UnigramDev/Unigram)**, [VideoGram](https://vidogram.org/), [AyuGram](https://github.com/AyuGram/AyuGramDesktop) or [TDesktop](https://github.com/Forkgram/tdesktop) / [x64](https://github.com/TDesktop-x64/tdesktop) - Desktop Clients
 * ⭐ **[tg](https://github.com/paul-nameless/tg)** - Terminal Client
 * [Pyrogram](https://docs.pyrogram.org/) / [Session Strings](https://t.me/SessionStringGeneratorZBot) - Telegram API Client
 * [Telega.el](https://github.com/zevlg/telega.el) - Telegram Emacs Client
@@ -295,6 +295,7 @@
 * [MEGA Uploader X](https://t.me/MegaUploadXbot) or [Mega.nz-Bot](https://github.com/Itz-fork/Mega.nz-Bot) - Remote Mega File Upload Bot
 * [OneDrive X](https://t.me/onedrivexbot) - Remote OneDrive File Upload Bot
 * [AIO Uploader](https://t.me/aiouploaderbot), [LinkForFilebot](https://t.me/LinkForFilebot) or [MultiUpload-Bot](https://github.com/oVoIndia/MultiUpload-Bot) - Telegram to File Host Upload Bot
+ * [telegram-download-daemon](https://github.com/alfem/telegram-download-daemon/) - Download Large Telegram Files
 * [convrt_bot](https://t.me/convrt_bot), [FileConvertBot](https://t.me/FileConvertBot), [newfileconverterbot](https://t.me/newfileconverterbot), [SmartConverter_bot](https://t.me/SmartConverter_bot), [cloud_convert_bot](https://t.me/cloud_convert_bot), [wololopdfbot](https://t.me/wololopdfbot), [pdfbot](https://t.me/pdfbot) or [Gpdfbot](https://t.me/Gpdfbot) - File Converters
 * [ILovePDF](https://github.com/nabilanavab/ilovepdf) - Telegram File to PDF Converter
 * [Unzip Bot](https://github.com/EDM115/unzip-bot) - File Extractor / Unzipper
@@ -426,7 +427,8 @@
 * [youtube-like-dislike-shortcut](https://github.com/avi12/youtube-like-dislike-shortcut) - Video Like / Dislike Hotkeys
 * [YT Not Interested Button on Hover](https://greasyfork.org/en/scripts/396936-yt-not-interested-in-one-click) - Easily Display Not Interested Button
 * [Focused YouTube](https://github.com/makaroni4/focused_youtube) - Minimalist YouTube
-* [YouTube Redux](https://github.com/omnidevZero/YouTubeRedux) - Restore Classic YouTube Layout
+* [YouTube Redux](https://github.com/omnidevZero/YouTubeRedux) or [Cosmic Cat](https://github.com/cosmic-cat-yt/Cosmic-Cat) - Restore Classic YouTube Layout
+* [/r/OldYouTubeLayout](https://www.reddit.com/r/oldyoutubelayout/) - Classic YouTube Layout Subreddit
 * [Disable Rounded Buttons](https://greasyfork.org/en/scripts/453802) - Disable Rounded YouTube Buttons
 * [YouTube WideScreen](https://greasyfork.org/en/scripts/409893) - Improved YouTube Cinema Mode
 * [Ultrawidify](https://github.com/tamius-han/ultrawidify) - Fix YouTube Aspect Ratio
@@ -512,6 +514,7 @@
 
 * 🌐 **[TwitchAdSolutions](https://github.com/pixeltris/TwitchAdSolutions)** - Solutions / Scripts for Blocking Twitch Ads
 * ⭐ **[Purple AdBlock](https://addons.mozilla.org/en-US/firefox/addon/purpleadblock/)** - Twitch Adblocker
+* ⭐ **[TTV LOL PRO](https://github.com/younesaassila/ttv-lol-pro)** - Twitch Adblocker
 * [VideoAdBlockForTwitch](https://github.com/cleanlock/VideoAdBlockForTwitch) - Twitch Adblocker
 * [luminous-ttv](https://github.com/AlyoshaVasilieva/luminous-ttv) - Twitch Adblocker
 * [Adblocker for Twitch](https://microsoftedge.microsoft.com/addons/detail/adblocker-for-twitch%E2%84%A2/glgpmlmjlaljaddimbgekaepkgbojjdn) - Edge Twitch Adblocker
@@ -614,13 +617,14 @@
 * ⭐ **[Lemmy](https://join-lemmy.org/)** / [Stats](https://the-federation.info/), [2](https://fedidb.org/) - Federated Reddit Alternative
 * ⭐ **[Lemmy Explorer](https://lemmyverse.net/)**, [Community-Browser](https://browse.feddit.de/) or [Awesome Instances](https://github.com/maltfield/awesome-lemmy-instances) - Lemmy Instances
 * ⭐ **[Divisions by zero](https://lemmy.dbzer0.com/)** - Piracy Focused Instance
-* ⭐ **[Pleroma](https://pleroma.social/)** - Federated Microblogging
-* ⭐ **[Pixelfed](https://pixelfed.org/)** - Federated Microblogging
-* ⭐ **[diaspora*](https://diasporafoundation.org/)**, [2](https://diasp.org/) - Federated Microblogging
-* [Misskey](https://misskey-hub.net/en/) - Federated Microblogging
-* [Friendica](https://friendi.ca/) - Federated Microblogging
-* [Hubzilla](https://zotlabs.org/page/hubzilla/hubzilla-project) - Federated Microblogging
-* [GoToSocial](https://docs.gotosocial.org/en/latest/) - Federated Microblogging
+* ⭐ **[Pleroma](https://pleroma.social/)** - Federated Twitter Alt
+* ⭐ **[Pixelfed](https://pixelfed.org/)** - Federated Twitter Alt
+* ⭐ **[diaspora*](https://diasporafoundation.org/)**, [2](https://diasp.org/) - Federated Twitter Alt
+* [Misskey](https://misskey-hub.net/en/) - Federated Twitter Alt
+* [BlueSky](https://bsky.social/about) - Federated Twitter Alt / [Multi-Column](https://deck.blue/) / [Real-Time](https://skyfeed.app/)
+* [Friendica](https://friendi.ca/) - Federated Twitter Alt
+* [Hubzilla](https://zotlabs.org/page/hubzilla/hubzilla-project) - Federated Twitter Alt
+* [GoToSocial](https://docs.gotosocial.org/en/latest/) - Federated Twitter Alt
 * [Fedi Tips](https://fedi.tips/) - Fediverse Guide
 * [Fediverser](https://portal.alien.top/) - Reddit to Lemmy Community Auto-Sync
 * [LemmyTools](https://github.com/howdy-tsc/LemmyTools) - Lemmy Improvement Extension
@@ -629,7 +633,7 @@
 
 ## ▷ Mastodon Tools
 
-* ⭐ **[Mastodon](https://joinmastodon.org/)** - Federated Twitter Alternative
+* ⭐ **[Mastodon](https://joinmastodon.org/)** - Federated Twitter Alt
 * 🌐 **[Mastodon Instances](https://instances.social/)** or [Mastodon Near Me](http://mastodon-near.me/) - Mastodon Instance Indexes
 * [Tuba](https://tuba.geopjr.dev/) or [Kaiteki](https://kaiteki.app/) - Mastodon Viewers
 * [Mastodon Scheduler](https://scheduler.mastodon.tools/) - Schedule Sending Posts
@@ -640,11 +644,11 @@
 
 # ► 4chan Tools
 
-* ⭐ **[LuckyChan](https://luckychan.app/)** - Modern 4chan Frontend
+* ⭐ **[AnyChans](https://anychans.github.io/)** or [LuckyChan](https://luckychan.app/)  - 4chan Web Clients
 * ⭐ **[4chan X](https://www.4chan-x.net/)**, [SpookyX](https://github.com/Fiddlekins/SpookyX), [4Chan XT](https://github.com/TuxedoTako/4chan-xt) or [Dollchan](https://dollchan.net/) - Enhancement Extensions
-* [Lurka](https://github.com/AdamSalma/Lurka) - 4chan Desktop Client
-* [RedditChan](https://reddit-chan.vercel.app/) - Reddit Style 4chan Frontend
-* [4chanCode](https://4chancode.org/) - Code Style 4chan Frontend
+* [Lurka](https://github.com/AdamSalma/Lurka) - Desktop Client
+* [RedditChan](https://reddit-chan.vercel.app/) - Reddit Style 4chan Web Client
+* [4chanCode](https://4chancode.org/) - Code Style 4chan Web Client
 * [4Webm](https://www.4webm.org/) - Load All Webm Videos in 4Chan Thread
 * [4stats](https://4stats.io/) - 4chan Board / Thread Stats
 * [Mass Reply](https://github.com/HamletDuFromage/4chan-mass-reply) or [Reply All](https://gitlab.com/lucadou/4chan-reply-all) - Mass Reply on 4chan
