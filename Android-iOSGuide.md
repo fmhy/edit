@@ -418,7 +418,6 @@
 * [UntrackMe](https://fedilab.app/wiki/untrackme/) - Frontend Redirect / Unshorten Links / Cleanup URLs
 * [MastodonRedirect](https://github.com/zacharee/MastodonRedirect) - Fediverse Frontend Redirect
 * [Leon](https://github.com/svenjacobs/leon) or [Untracker](https://github.com/zhanghai/Untracker) - Remove URL Tracking
-* [XPrivacyLua](https://lua.xprivacy.eu/) - Privacy Manager
 * [LibChecker](https://github.com/LibChecker/LibChecker) - View App Third-Party Libraries
 * [OSS Release Tracker](https://github.com/jroddev/android-oss-release-tracker) - Open-Source App Update Tracker
 * [Sapio](https://github.com/jonathanklee/Sapio) - Scan Apps for Google Dependency
@@ -1170,7 +1169,10 @@
 
 ***
 
-* [iTorrent](https://github.com/XITRIX/iTorrent), [SwiftyTorrent](https://github.com/danylokos/SwiftyTorrent), [iOS-Torrent-Client](https://github.com/nneonneo/iOS-Torrent-Client) or [Torrentula](http://cydia.saurik.com/package/com.ichanti.torrentula/) - Torrent Client
+* [iTorrent](https://github.com/XITRIX/iTorrent) - Torrent Client
+* [SwiftyTorrent](https://github.com/danylokos/SwiftyTorrent) - Torrent Client
+* [iOS-Torrent-Client](https://github.com/nneonneo/iOS-Torrent-Client) - Torrent Client
+* [Torrentula](http://cydia.saurik.com/package/com.ichanti.torrentula/) - Torrent Client
 
 ***
 
