@@ -52,7 +52,7 @@
 * ⭐ **[Anna’s Archive](https://annas-archive.org/)**, [2](https://annas-archive.gs/), [3](https://annas-archive.se/) - Books / Comics / Educational
 * ⭐ **[Library Genesis](https://libgen.is)** - Books / Comics / Manga / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_libgen_tools) / [Mirrors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_libgen__mirrors)
 * ⭐ **[Z-Library](https://singlelogin.re/)** - Books / Comics / Educational
-* ⭐ **Z-Lib Tools** - [Desktop / Extensions](https://go-to-zlibrary.se/) / [Megathread](https://redd.it/zx6z62) / [.Onion](http://loginzlib2vrak5zzpcocc3ouizykn6k5qecgj2tzlnab5wcbqhembyd.onion/) / [Subreddit](https://www.reddit.com/r/zlibrary/) / [Telegram](https://t.me/zlibrary_official)
+* ⭐ **Z-Lib Tools** - [Desktop / Extensions](https://go-to-zlibrary.se/) / [.Onion](http://loginzlib2vrak5zzpcocc3ouizykn6k5qecgj2tzlnab5wcbqhembyd.onion/) / [Subreddit](https://www.reddit.com/r/zlibrary/) / [Telegram](https://t.me/zlibrary_official)
 * ⭐ **[Liber3](https://liber3.eth.limo/)** - Books
 * ⭐ **[Mobilism](https://forum.mobilism.org)** - Books / Audiobooks / Magazines / Newspapers / Comics / [User Ranks](https://pastebin.com/pZuuMxYm)
 * ⭐ **[Calibre](https://calibre-ebook.com/)** - Ebook Manager / Downloader / [Libraries / Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_calibre_tools)
@@ -166,25 +166,10 @@
 
 ## ▷ Religion / Esoterica
 
-* 🌐 **[Sacred Text Archive](https://sacred-texts.com/)** - Religion / Mythology / Folklore / Esoterica
-* 🌐 **[/r/Echerdex](https://www.reddit.com/r/Echerdex/)** - Esoterica / [Repository](https://rentry.co/FMHYBase64#echerdex-repository) / [Discord](https://discord.gg/dS5X3d7ype)
+* ⭐ **[Sacred Text Archive](https://sacred-texts.com/)** - Religion / Mythology / Folklore / Esoterica
+* ⭐ **[The Exerdex](https://rentry.co/FMHYBase64#echerdex-repository)** - Esoterica / [Discord](https://discord.gg/dS5X3d7ype) / [Subreddit](https://www.reddit.com/r/Echerdex/)
 * 🌐 **[WiLd's Occult Ebook Sources](https://rentry.co/FMHYBase64#wilds-occult-ebook-sources)** - Occult / Esoterica
-* ↪️ **[Esoterica Archive](https://rentry.co/FMHYBase64#archive)**
 * ↪️ **[Esoterica Telegram Channels](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_magic_.2F_esoteric_telegram_ebooks)**
-* [Grimoar.cz](http://english.grimoar.cz/?Loc=key&Lng=2) - Occult
-* [GodChecker](https://www.godchecker.com/) - Religion / Mythology
-* [Hermetic International](https://www.hermetics.net/) - Religion / Occult / Gnosticism / Hermetic / Philosophy
-* [Hermetics](https://www.hermetics.org/library.html) - Ancient Texts / Mythology / Occult
-* [Awakening-Intuition](https://www.awakening-intuition.com/ebooks.html) - Religion / Esoterica / Occult
-* [Summa Theologiae](https://drbo.org/summa/) - Religion / Sacred Doctrine / Christianity
-* [Biblioteca Pleyades](https://www.bibliotecapleyades.net/esp_tema.htm) - Mythology / Conspiracy / Esoterica
-* [Dhamma Talks](https://www.dhammatalks.org/) - Sacred Texts / Religion / Buddhism
-* [Sutta Central](https://suttacentral.net/) - Sacred Texts / Religion / Buddhism
-* [Gnostic Society Library](http://www.gnosis.org/library.html) - Gnosticism
-* [Logoi Library](https://logoilibrary.com/) - Gnosticism / Hermeticism
-* [Occult Rentry](https://rentry.co/FMHYBase64#occult-rentry) - Occult
-* [766 Occult Books](https://rentry.co/FMHYBase64#766-occult-books) - Occult
-* [Messy Occult Library](https://rentry.co/FMHYBase64#messy-occult-library) - Occult / Esoterica / Gnosticism
 * [ObscUrban Legend Wiki](https://obscurban-legend.fandom.com/) - Mythology / Urban Legends
 * [FairyTalez](https://fairytalez.com/) - Mythology / Folklore / Fairy Tales
 * [Encyclopedia Mythica](https://pantheon.org/) - Mythology / Folklore / Religion
@@ -195,25 +180,46 @@
 * [Japanese Mythology](https://japanesemythology.wordpress.com/) - Japanese Mythology
 * [Inuit Myths](https://www.inuitmyths.com/index.htm) - Inuit Mythology
 * [BlackDrago](https://www.blackdrago.com/) - Dragon Encyclopedia
-* [LeftHandPath](https://rentry.co/FMHYBase64#lefthandpath) - Luciferianism
-* [The Law of One](https://www.lawofone.info/) - The Law of One Sessions
+* [Grimoar.cz](http://english.grimoar.cz/?Loc=key&Lng=2), [Occult Rentry](https://rentry.co/FMHYBase64#occult-rentry), [766 Occult Books](https://rentry.co/FMHYBase64#766-occult-books), [Darkbooks](https://darkbooks.org/collection/top250.html) or [Astrum Argenteum](https://www.astrumargenteum.org/library/) - Occult Books
+* [Messy Occult Library](https://rentry.co/FMHYBase64#messy-occult-library) - Occult / Esoterica / Gnosticism
+* [Hermetic International](https://www.hermetics.net/) - Religion / Occult / Gnosticism / Hermetic / Philosophy
+* [Hermetics](https://www.hermetics.org/library.html) - Ancient Texts / Mythology / Occult
+* [Dhamma Talks](https://www.dhammatalks.org/) - Sacred Texts / Religion / Buddhism
+* [Sutta Central](https://suttacentral.net/) - Sacred Texts / Religion / Buddhism
+* [Jainism Library of Jain Literature](https://www.atmadharma.com/index.html) - Sacred Texts / Religion
+* [Awakening-Intuition](https://www.awakening-intuition.com/ebooks.html) - Religion / Esoterica / Occult
+* [Biblioteca Pleyades](https://www.bibliotecapleyades.net/esp_tema.htm) - Mythology / Conspiracy / Esoterica
+* [Gnostic Society Library](http://www.gnosis.org/library.html) - Gnosticism
+* [Logoi Library](https://logoilibrary.com/) - Gnosticism / Hermeticism
 * [Esoteric Archive](http://esotericarchives.com/) - Esoterica
+* [Esoterica Drive](https://rentry.co/FMHYBase64#archive) - Esoterica
 * [Masonic Library](https://masonicshop.com/masonic-library/) - Esoterica / Freemasonry
-* [Darkbooks](https://darkbooks.org/collection/top250.html) - Occult
-* [Astrum Argenteum](https://www.astrumargenteum.org/library/) - Occult
-* [Azrk's library](https://rentry.co/FMHYBase64#azrks-library) - Occult / Esoterica / Satanism / Religion / Ect.
+* [Azrk's library](https://rentry.co/FMHYBase64#azrks-library) - Occult / Esoterica / Satanism / Religion
+* [The Law of One](https://www.lawofone.info/) - The Law of One Sessions
 * [Rosicrucian Esotericism Lecture](https://rsarchive.org/) - Rosicrucian Esotericism
 * [Spirituality Megadrive](https://rentry.co/FMHYBase64#spirituality-megadrive)
 * [IAPSOP](http://iapsop.com/) - Spiritualist / Occult Periodicals
-* [Beyond Weird](https://www.beyondweird.com/) - Witchcraft / Conspiracies
 * [Dhushara Research](https://www.dhushara.com/index.htm) - Metaphysics / Conspiracies / Psychedelics
+* [Beyond Weird](https://www.beyondweird.com/) - Witchcraft / Conspiracies
 * [CraftStuff](https://rentry.co/FMHYBase64#craftstuff) - Witchcraft
 * [Witchcraft Library](https://rentry.co/FMHYBase64#witchcraft-library) - Witchcraft / Paganism
 * [Public Witchcraft Library](https://rentry.co/FMHYBase64#public-witchcraft-library) - Witchcraft / Paganism / Satanism
 * [Alchemy Drive](https://rentry.co/FMHYBase64#alchemy-drive) - Alchemy
+* [LeftHandPath](https://rentry.co/FMHYBase64#lefthandpath) - Luciferianism
 * [Hellenistic Theism Drive](https://rentry.co/FMHYBase64#hellenistic-theism) - Hellenistic Theism
 * [The Theosophical Society](https://www.theosociety.org/) - Theosophy
 * [Grimoire Drive](https://rentry.co/FMHYBase64#grimoires) - Grimoires
+* [GodChecker](https://www.godchecker.com/) - Religion / Mythology
+* [Sankaracharya](https://www.sankaracharya.org/index.php) - Hinduism
+* [Vedanta Shastras](https://www.shastras.com/) - Hinduism
+* [Siva.sh](https://siva.sh/) - Study Hindu Knowledge via Tech / AI
+* [Encyclopedia Of Hinduism](https://archive.org/details/ConstanceA.JonesJamesD.RyanEncyclopediaOfHinduism/) - Hinduism Encyclopedia
+* [BhagavadGitaApp](https://github.com/WirelessAlien/BhagavadGitaApp) - Bhagavad Gita App
+* [Vedabase](https://vedabase.io/en/) - Bhaktivedanta Swami / Books / Transcripts / Letters
+* [84000](https://read.84000.co/) - Buddhism
+* [BuddhaNet](https://www.buddhanet.net/) - Buddhism
+* [Encyclopedia Of Buddhism](https://archive.org/details/EdwardA.IronsEncyclopediaOfBuddhismEncyclopediaOfWorldReligions/) - Buddhist Encyclopedia
+* [Buddhism Dictionary](http://www.buddhism-dict.net/ddb/) - Buddhist Dictionary
 * [Early Christian Writings](https://www.earlychristianwritings.com/index.html) - Christianity / Gnosticism
 * [HolyBooks](https://holybooks.com/) - Religious Texts
 * [Sounding Spirit](https://library.soundingspirit.org/) - Religious Songbooks
@@ -224,7 +230,6 @@
 * [BibleTheLife](https://gitlab.com/hotlittlewhitedog/BibleTheLife) - Christian Bible / Android
 * [Bible](https://apps.apple.com/us/app/bible/id282935706) - Christian Bible / iOS
 * [Classics Ethereal Library](https://www.ccel.org/) - Christianity
-* [TheBrickBible](https://thebrickbible.com/) - The Bible Recreated with Lego
 * [Hidden Bible](http://www.hiddenbible.com/enoch/online.html) - Enoch Translation
 * [GodAlone](http://www.godalone.org/) or [Quran](https://quran.com/) / [2](https://beta.quran.com/en) - Quran Translations / [Mobile](https://github.com/quran/quran_android), [2](https://quran.alfaazplus.com/)
 * [Awesome Islam](https://github.com/AhmedKamal/awesome-Islam) - Islam Related Projects / Apps
@@ -238,16 +243,6 @@
 * [Five Prayers](https://github.com/Five-Prayers/five-prayers-android) - Muslim Tools App
 * [Questions on Islam](https://questionsonislam.com/) - Muslim Q&A
 * [Sunnah.com](https://sunnah.com/) - Hadith Translation
-* [84000](https://read.84000.co/) - Buddhism
-* [BuddhaNet](https://www.buddhanet.net/) - Buddhism
-* [Encyclopedia Of Buddhism](https://archive.org/details/EdwardA.IronsEncyclopediaOfBuddhismEncyclopediaOfWorldReligions/) - Buddhist Encyclopedia
-* [Buddhism Dictionary](http://www.buddhism-dict.net/ddb/) - Buddhist Dictionary
-* [Sankaracharya](https://www.sankaracharya.org/index.php) - Hinduism
-* [Vedanta Shastras](https://www.shastras.com/) - Hinduism
-* [Siva.sh](https://siva.sh/) - Study Hindu Knowledge via Tech / AI
-* [Encyclopedia Of Hinduism](https://archive.org/details/ConstanceA.JonesJamesD.RyanEncyclopediaOfHinduism/) - Hinduism Encyclopedia
-* [Jainism Library of Jain Literature](https://www.atmadharma.com/index.html) - Sacred Texts / Religion / Multi Language
-* [Vedabase](https://vedabase.io/en/) - Bhaktivedanta Swami / Books / Transcripts / Letters
 
 ***
 
@@ -284,7 +279,7 @@
 * [Film Books](https://rentry.co/FMHYBase64#film-books) - Books about Films
 * [HypnosisChatBooks](https://t.me/HypnosisChatBooks) - Hypnosis / Telegram
 * [diyhpluswiki](https://diyhpl.us/wiki/) - DIY Biohacking
-* [Fanfiction.net](https://fanfiction.net/), [Wattpad](https://wattpad.com/), [Royal Road](https://royalroad.com/) or [fiction.live](https://fiction.live/) - Fanfiction Sites
+* [Fanfiction.net](https://fanfiction.net/), [SquidgeWorld](https://squidgeworld.org/), [Wattpad](https://wattpad.com/), [Royal Road](https://royalroad.com/) or [fiction.live](https://fiction.live/) - Fanfiction Sites
 * [Archive of Our Own](https://archiveofourown.org/) - Fanfiction Archive / [Enhancements](https://github.com/jsmnbom/ao3-enhancements/)
 * [Potions and Snitches](https://www.potionsandsnitches.org/) - Harry Potter Fanfiction
 * [Fim Fiction](https://www.fimfiction.net/) - MLP Fanfiction
