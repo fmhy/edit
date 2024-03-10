@@ -356,6 +356,7 @@
 
 ## ▷ Streaming
 
+* ⭐ **[Braflix](https://www.braflix.video/)** - Movies / TV / Anime / Dub / 4K / 1080p / [Discord](https://discord.gg/wWKmxARaWH)
 * ⭐ **[Hotstream](https://hotstream.me/)** - Movies / Series / Live TV / Dub / 1080p / [Discord](https://hotstream.me/discord)
 * ⭐ **[Animeo TV](https://animeovf.fr)** - Anime / Sub / Dub / 1080p
 * [Sadisflix](https://sadisflix.wiki/) - Movies / TV / Anime / Dub / 1080p / [Telegram](https://t.me/sadisflix) / Use Adblocker
