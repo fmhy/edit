@@ -470,6 +470,7 @@
 * [Snap Links Plus](https://cpriest.github.io/SnapLinksPlus/) or [Link Clump](https://github.com/benblack86/linkclump) - Select & Open Multiple Links at Once 
 * [Glitter Drag](https://github.com/harytfw/glitterdrag) - Adds Actions on Dragging
 * [Scroll to Top](https://mybrowseraddon.com/scroll-to-top.html) - Scroll to Top Button on all Sites
+* [Custom Scrollbars](https://addons.wesleybranton.com/addon/custom-scrollbars/) - Custom Browser Scrollbars
 * [Quick Tabs](https://github.com/babyman/quick-tabs-chrome-extension) - Quickly Switch between Current & Recently Closed Tabs 
 * [Always Right](https://github.com/autonome/Always-Right/) - Always Open New Tabs to the Right
 * [Saka](https://saka.io/) - Tab, History & Bookmark Search
