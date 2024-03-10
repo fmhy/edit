@@ -39,6 +39,7 @@
 * [supervideo](https://supervideo.tv/)
 * [ydb](https://youdboox.com/)
 * [cloudvideo](https://cloudvideo.tv/)
+* [FileMoon](https://filemoon.sx/)
 * [powvideo](https://powvideo.net/)
 * [streamable](https://streamable.com/)
 * [abyss](https://abyss.to/)
