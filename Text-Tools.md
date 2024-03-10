@@ -42,7 +42,6 @@
 * [sparked](https://paste.sparked.host/)
 * [pst.moe](https://pst.moe/)
 * [p.ip.fi](https://p.ip.fi/)
-* [PasteePad](https://pasteepad.com/)
 * [paste.mozilla](https://paste.mozilla.org/)
 * [pastebin](https://pastebin.com/)
 * [telegra.ph](https://telegra.ph/)
@@ -269,6 +268,7 @@
 * [MemOnNotepad](https://www.memonotepad.com/) - Local / Cloud Saves
 * [Write Box](https://write-box.appspot.com/) - Local / Cloud Saves
 * [NimbleText](https://nimbletext.com/Live) - Cloud Saves
+* [PasteePad](https://pasteepad.com/)
 * [ZippyJot](https://www.zippyjot.com/) - Cloud Saves
 * [TextSlave](https://www.textslave.com/)
 * [GhostText](https://ghosttext.fregante.com/)
