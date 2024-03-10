@@ -196,7 +196,7 @@
 * [streamWriter](https://streamwriter.org/en/) - Internet Radio Audio Downloader
 * [castero](https://github.com/xgi/castero) - TUI Terminal Podcast Client
 * [Grover](https://www.microsoft.com/store/productId/9NBLGGH6C4BC) or [GPodder](https://gpodder.github.io/) - Podcast Client
-* [ListenLater](https://www.listenlater.fm/) - Turn Articles into Podcasts 
+* [ListenLater](https://www.listenlater.fm/) or [EchoWalk](https://www.echowalk.com/) - Turn Articles / Webpages into Podcasts 
 * [ListenBox](https://listenbox.app/) or [PodSync](https://github.com/mxpv/podsync) - Turn YouTube Video into Podcasts
 * [JRE Missing](https://www.jremissing.com/) - Tracks Missing JRE Podcasts
 * [Podcatalysts](https://podcatalysts.substack.com/) - Podcast Recommendation Newsletter
@@ -298,7 +298,8 @@
 
 * 🌐 **[Music Education Masterlist](https://rentry.co/FMHYBase64#music-education-masterlist)**
 * ↪️ **[Royalty Free Music](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_royalty_free_music)**
-* ⭐ **[Free MP3 Download](https://free-mp3-download.net/)** - Search / 320kb / MP3 / FLAC
+* ⭐ **[Slider](https://hayqbhgr.slider.kz/)** - 320kb / MP3
+* ⭐ **[Free MP3 Download](https://free-mp3-download.net/)** - 320kb / MP3 / FLAC
 * ⭐ **[Audio Download CSE](https://cse.google.com/cse?cx=006516753008110874046:ibmyuhh72io)** / [CSE 2](https://cse.google.com/cse?cx=006516753008110874046:ohobg3wvr_w) / [CSE 3](https://cse.google.com/cse?cx=32d85b41e2feacd3f) - Multi-Site Search
 * [The Last Disaster](https://thelastdisaster.vip/) - Metal / Hardcore / Rock / 320kb / MP3 / FLAC
 * [VK::MP3](https://metacpan.org/pod/VK::MP3) - VK MP3 Search Tool
@@ -672,7 +673,7 @@
 
 ## ▷ Lyric Sites
 
-* ⭐ **[dumb](https://github.com/rramiachraf/dumb)** - Genius Lyrics Frontend
+* ⭐ **[dumb](https://github.com/rramiachraf/dumb)** or [genius](https://genius.com/) - Lyric Explanations
 * [AZLyrics](https://www.azlyrics.com/), [FindMusicByLyrics](https://findmusicbylyrics.com/) or [Lyrics.com](https://www.lyrics.com/) - Lyric Search
 * [Versefy](https://versefy.app/) or [Lyrics-In-Terminal](https://github.com/Jugran/lyrics-in-terminal) - Lyric Finder for Spotify / Tidal / VLC
 * [Lyrist](https://lyrist.app) - Write Lyrics w/ Beats
