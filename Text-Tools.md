@@ -37,9 +37,9 @@
 * ⭐ **[katb](https://katb.in/)**
 * ⭐ **[WriteXO](https://writexo.com/)**
 * [Rlim](https://rlim.com/)
-* [Snips.sh](https://snips.sh/) - Self-Hosted
 * [Paster](https://paster.so)
 * [paste](https://paste.ee/)
+* [sparked](https://paste.sparked.host/)
 * [pst.moe](https://pst.moe/)
 * [p.ip.fi](https://p.ip.fi/)
 * [paste.mozilla](https://paste.mozilla.org/)
@@ -67,6 +67,7 @@
 * [centos](https://paste.centos.org/)
 * [blankslate](https://blankslate.io/)
 * [microbin](https://microbin.eu/)
+* [Snips.sh](https://snips.sh/) - Self-Hosted
 * [MarkdownPastebin](https://markdownpastebin.com/) - Markdown Pastebin
 * [Mystb.in](https://mystb.in/), [codeshare](https://codeshare.io/), [paste.mod](https://paste.mod.gg/) or [snippet.host](https://snippet.host/) - Code Pastebins
 
@@ -74,7 +75,7 @@
 
 ## ▷ Translators
 
-* ⭐ **[DeepL](https://www.deepl.com/translator)**
+* ⭐ **[DeepLX](https://github.com/OwO-Network/DeepLX)** or [DeepL](https://www.deepl.com/translator)
 * ⭐ **[Google Translate](https://translate.google.com/)**
 * [Crow Translate](https://github.com/crow-translate/crow-translate) or [Argos](https://github.com/argosopentech/argos-translate) - Translation Apps
 * [Translate Shell](https://www.soimort.org/translate-shell/) - Translation CLI / [GitHub](https://github.com/soimort/translate-shell)
