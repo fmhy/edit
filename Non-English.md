@@ -84,10 +84,6 @@
 * [MLSBD](https://mlsbd.shop/) - Movies / TV / WEB / Bangla Natok / Some NSFW / Adblocker Recomended / 1080p
 * [Bangla Song](https://www.music.com.bd/) - Bangla Song / Music / Radio / MP3
 
-## ▷ Torrenting / টরেন্টিং
-
-* [TorrentBD](https://www.torrentbd.net/) - Private Tracker / Invite-only / Movie
-
 ***
 
 # ► Bulgarian / Български 
