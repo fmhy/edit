@@ -214,6 +214,7 @@
 * [nwipe](https://github.com/martijnvanbrummelen/nwipe)
 * [ShredOS](https://github.com/PartialVolume/shredos.x86_64)
 * [Delapp](https://github.com/differentrain/Delapp)
+* [RED](https://www.jonasjohn.de/red.htm) - Remove Empty Directories
 
 ***
 
