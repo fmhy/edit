@@ -267,7 +267,7 @@
 * [MemOnNotepad](https://www.memonotepad.com/) - Local / Cloud Saves
 * [Write Box](https://write-box.appspot.com/) - Local / Cloud Saves
 * [NimbleText](https://nimbletext.com/Live) - Cloud Saves
-* [PasteePad](https://pasteepad.com/)
+* [PasteePad](https://pasteepad.com/) - Local Saves
 * [ZippyJot](https://www.zippyjot.com/) - Cloud Saves
 * [TextSlave](https://www.textslave.com/)
 * [GhostText](https://ghosttext.fregante.com/)
