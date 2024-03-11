@@ -142,7 +142,7 @@
 * ⭐ **[Vimeo](https://vimeo.com/)**
 * ⭐ **[Veoh](https://www.veoh.com/)**
 * ⭐ **[Video Search CSE](https://cse.google.com/cse?cx=006516753008110874046:6v9mqdaai6q#gsc.tab=0)** or [Moviez.space](https://moviez.space/) - Multi-Site Video Search
-* [NoodleMagazine](https://noodlemagazine.com), [2](https://mat6tube.com/), [3](https://tyler-brown.com/), [4](https://waterdamagesandiego.org/), [5](https://exporntoons.net/recent), [6](https://actionviewphotography.com/) - Lots of NSFW / 18+ only / [Note](https://pastebin.com/9U2vdRM2)
+* ⭐ **[Noodlemagazine](https://noodlemagazine.com)**, [2](https://mat6tube.com/), [3](https://18.tyler-brown.com/), [4](https://waterdamagesandiego.org/), [5](https://hot.exporntoons.net/), [6](https://actionviewphotography.com/), [7](https://ukdevilz.com/) - Search Engine
 * [YouTube Movie Hosts](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_youtube_movies)
 * [PeerTube](https://joinpeertube.org/), [2](https://search.joinpeertube.org/) / [Instances](https://instances.joinpeertube.org/instances)
 * [my.mail.ru](https://my.mail.ru/video)
