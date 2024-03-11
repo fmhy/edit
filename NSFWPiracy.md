@@ -25,7 +25,7 @@
 * ⭐ **[EPorner](https://www.eporner.com/)**
 * ⭐ **[goodporn](https://goodporn.to/)**, [2](https://goodporn.se/)
 * ⭐ **[neporn](https://neporn.com/)**
-* ⭐ **[Noodlemagazine](https://noodlemagazine.com)**, [2](https://mat6tube.com/), [3](https://18.tyler-brown.com/), [4](https://waterdamagesandiego.org/), [5](https://hot.exporntoons.net/), [6](https://actionviewphotography.com/), [7](https://ukdevilz.com/), [8](https://actionviewphotography.com/) - Search Engine
+* ⭐ **[Noodlemagazine](https://noodlemagazine.com)**, [2](https://mat6tube.com/), [3](https://18.tyler-brown.com/), [4](https://waterdamagesandiego.org/), [5](https://hot.exporntoons.net/), [6](https://actionviewphotography.com/), [7](https://ukdevilz.com/) - Search Engine
 * ⭐ **[iXXX](https://www.ixxx.com/)** - Aggregator
 * ⭐ **[PornFreeX](https://pornfreex.app/)**, [Porn App](https://porn-app.com/) or [NsfwBox](https://github.com/Kisspeace/NsfwBox)  - Android Porn Apps
 * [Full Length Porn CSE](https://cse.google.com/cse?cx=6c02fb377e50d493c) - Aggregators CSE
