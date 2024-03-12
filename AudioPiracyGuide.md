@@ -299,7 +299,6 @@
 * 🌐 **[Music Education Masterlist](https://rentry.co/FMHYBase64#music-education-masterlist)**
 * ↪️ **[Royalty Free Music](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_royalty_free_music)**
 * ⭐ **[Slider](https://hayqbhgr.slider.kz/)** - 320kb / MP3
-* ⭐ **[Free MP3 Download](https://free-mp3-download.net/)** - 320kb / MP3 / FLAC
 * ⭐ **[Audio Download CSE](https://cse.google.com/cse?cx=006516753008110874046:ibmyuhh72io)** / [CSE 2](https://cse.google.com/cse?cx=006516753008110874046:ohobg3wvr_w) / [CSE 3](https://cse.google.com/cse?cx=32d85b41e2feacd3f) - Multi-Site Search
 * [The Last Disaster](https://thelastdisaster.vip/) - Metal / Hardcore / Rock / 320kb / MP3 / FLAC
 * [VK::MP3](https://metacpan.org/pod/VK::MP3) - VK MP3 Search Tool
