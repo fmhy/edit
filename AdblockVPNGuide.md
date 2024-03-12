@@ -490,7 +490,6 @@
 
 * ↪️ **[Proxy Lists](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_proxy_lists)**
 * ↪️ **[Piracy Site Proxies](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_piracy_site_proxies)**
-* ⭐ **[HolyUnblocker](https://www.holyubofficial.net/)**
 * [ProxySite](https://www.proxysite.com/)
 * [GenMirror](https://www.genmirror.com/)
 * [Hide.me](https://hide.me/en/proxy)
