@@ -304,7 +304,7 @@ http://104.131.175.196:8080/, http://70.88.180.169:8088/
 * ⭐ **[Betterbird](https://www.betterbird.eu/)**
 * ⭐ **[Thunderbird](https://www.thunderbird.net/en-US/)** - [Tray Icon](https://github.com/Ximi1970/systray-x)
 * ⭐ **[Mailspring](https://getmailspring.com/)** - [Themes](https://github.com/topics/mailspring-theme)
-* [Outlook](https://outlook.live.com/owa/) - [Tools](https://github.com/eksperience/KnockOutlook)
+* [Outlook](https://outlook.live.com/owa/)
 
 [ElectronMail](https://github.com/vladimiry/ElectronMail), [Claws Mail](https://www.claws-mail.org/), [eM Client](https://www.emclient.com/), [RainLoop](https://www.rainloop.net/), [Roundcube](https://roundcube.net/), [Spike](https://www.spikenow.com/), [Canary](https://canarymail.io/), [Twobird](https://www.twobird.com/), [Kanmail](https://kanmail.io/), [Wino](https://www.winomail.app/)
 
