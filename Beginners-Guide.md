@@ -206,7 +206,6 @@ Use [this](https://bitbucket.org/magnolia1234/bypass-paywalls-firefox-clean/src/
 **[Download Managers](https://fmhy.net/file-tools#download-managers)** - Manage file downloads
 **[File Archivers](https://fmhy.net/file-tools#file-archivers)** - Unzip / Compress files
 **[OpenSubtitles](https://opensubtitles.org/)** - Most popular subtitles site
-**[HolyUnblocker](https://www.holyubofficial.net/)** - View sites blocked by ISP / school
 **[Unsafe Sites / Software](https://redd.it/10bh0h9)** - Things we recommend avoiding
 
 ***
