@@ -95,7 +95,7 @@
 * [multidiffusion-upscaler](https://github.com/pkuliyi2015/multidiffusion-upscaler-for-automatic1111) - Image Upscaling
 * [QualityScaler](https://github.com/Djdefrag/QualityScaler) - Image Upscaling
 * [GFPGAN](https://github.com/TencentARC/GFPGAN) - Face Upscaling
-* [resdet](https://github.com/0x09/resdet) - Detect if an Image is Upscaled
+* [resdet](https://github.com/0x09/resdet) - Detect Upscaled Images
 
 ***
 
