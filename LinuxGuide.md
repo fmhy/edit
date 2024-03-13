@@ -53,7 +53,7 @@
 * [Material Shell](https://material-shell.com/) or [Forge](https://github.com/forge-ext/forge) - GNOME Tiling Extension
 * [Bismuth](https://bismuth-forge.github.io/bismuth/) - KDE Tiling Extension / [GitHub](https://github.com/Bismuth-Forge/bismuth)
 * [Ghostwriter](https://ghostwriter.kde.org/) or [Remarkable](https://remarkableapp.github.io/) - Markdown Editor
-* [Gedit](https://wiki.gnome.org/Apps/Gedit), [Geany](https://www.geany.org/), [Leafpad](http://tarot.freeshell.org/leafpad/), [NotepadNext](https://github.com/dail8859/NotepadNext), [Featherpad](https://github.com/tsujan/FeatherPad), [nb](https://github.com/xwmx/nb), [Mousepad](https://github.com/codebrainz/mousepad) or [Notepadqq](https://notepadqq.com/) - Text Editor / Note Apps
+* [Gedit](https://wiki.gnome.org/Apps/Gedit), [Geany](https://www.geany.org/), [Leafpad](http://tarot.freeshell.org/leafpad/), [NotepadNext](https://github.com/dail8859/NotepadNext), [Featherpad](https://github.com/tsujan/FeatherPad), [nb](https://github.com/xwmx/nb), [Mousepad](https://github.com/codebrainz/mousepad) - Text Editor / Note Apps
 * [TextPieces](https://github.com/liferooter/textpieces) - Quick Text Transformations
 * [ly](https://github.com/fairyglade/ly) - Display Manager with Console UI
 * [GammaStep](https://gitlab.com/chinstrap/gammastep) - Adjust Screen Temperature
@@ -203,7 +203,7 @@ Linux Gaming Guide
 * [Gamemode](https://github.com/FeralInteractive/gamemode) - Linux System Optimizer
 * [LibreGaming](https://github.com/Ahmed-Al-Balochi/LibreGaming) - Linux Game Package Downloader
 * [mcpelauncher](https://github.com/minecraft-linux/mcpelauncher-manifest) - Minecraft Android Bedrock Edition Launcher for Linux
-* [VinegarHQ](https://vinegarhq.org/) - Bootstrapper for Roblox Player / Studio
+* [VinegarHQ](https://vinegarhq.org/) - Bootstrapper for Roblox Studio
 * [Bloxstrap](https://discord.com/invite/nKjV3mGq6R) - Roblox Launcher
 * [Anime Game Launcher](https://github.com/an-anime-team/an-anime-game-launcher) - Genshin Impact Launcher
 * [among-sus](https://git.sr.ht/~martijnbraam/among-sus) - Play Among Us in your Terminal (Recreation)

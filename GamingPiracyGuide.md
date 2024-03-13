@@ -684,7 +684,7 @@
 * [LaunchBox Games Database](https://gamesdb.launchbox-app.com/), [GameFAQs](https://gamefaqs.gamespot.com/), [Steam Games](https://steam-games.org/), [Rawg](https://rawg.io/), [Moby Games](https://www.mobygames.com/), [rate.house](https://rate.house/chart/game), [listal](https://www.listal.com/), [Orcz](https://orcz.com/Main_Page) or [FrontierNav](https://frontiernav.net/) - Game Databases
 * [IMDb Advanced Search](https://www.imdb.com/search/) - Game Search
 * [Ethereal Games](https://wiki.etherealgames.com/) or [JRGPC](https://jrpgc.com/) - JRPG Databases
-* [RPGCodex](https://rpgcodex.net/forums/) - RPG Databse / Forum
+* [RPGCodex](https://rpgcodex.net/forums/) - RPG Database / Forum
 * [SteamPeek](https://steampeek.hu/) or [IndieDB](https://www.indiedb.com/) - Indie Game Databases
 * [RetroShowcase](https://www.retroshowcase.gr/), [Squakenet](https://www.squakenet.com/) or [The Good Old Days](https://www.goodolddays.net/) - Retro Game Databases
 * [Sega Retro](https://segaretro.org/) - Sega Game Database
@@ -777,7 +777,6 @@
 * [Amidst](https://github.com/toolbox4minecraft/amidst) - Minecraft World Overview Display Tool
 * [The Minecraft Archive Project](https://map.crummy.com/) - Minecraft World Archive
 * [Amulet](https://www.amuletmc.com/), [MCA Selector](https://github.com/Querz/mcaselector) or [uNmINeD](https://unmined.net/) - Minecraft Map Editors / Viewers
-* [MinecraftSeeds](https://minecraftseeds.io/) - Minecraft Seeds
 * [MineAtlas](http://mineatlas.com/), [Cubiomes Viewer](https://github.com/cubitect/cubiomes-viewer) or [MCSeeder](https://mcseeder.com/) - Minecraft Seed Maps
 * [Chunker](https://chunker.app/) - Minecraft Format Converter (can corrupt worlds)
 * [TerraForged](https://github.com/TerraForged/TerraForged) - Improved Biomes Mod
@@ -994,7 +993,6 @@
 * [Startup Simulator](https://toggl.com/startup-simulator/) - Startup Simulation Game
 * [Friday Night Funkin](https://ninja-muffin24.itch.io/funkin) or [Bemuse](https://bemuse.ninja/) - Rhythm Game / [Prototype](https://ninja-muffin24.itch.io/friday-night-funkin)
 * [Pulsus](https://www.pulsus.cc/play/) - 3x3 Tile Board Rhythm Game
-* [Prosperity](http://www.playprosperity.ca/) - Civilization Building RPG
 * [Amazeworld](https://www.amazeworld.com/) - Interactive Webmazes
 * [Gandalf](https://gandalf.lakera.ai/) - AI Prompting Skill Game
 * [Little Alchemy](https://littlealchemy.com/) or [Little Alchemy 2](https://littlealchemy2.com/) - Alchemy Game
@@ -1140,7 +1138,6 @@
 * [PokemonChess](https://pokemonchess.com/) - Pokemon Style Chess / [Discord](https://discord.gg/fp5bcCqg8q)
 * [Real Board](https://github.com/karayaman/lichess-with-a-real-board) - Play Lichess w/ Real Chess Board
 * [Gambit](https://github.com/maaslalani/gambit) - Linux Terminal Chess
-* [Chess24](https://chess24.com/) - Real-Time Chess Tournaments
 * [Laser](https://playlaser.xyz/) - Alt Style Chess
 * [Star Wars Chess](https://archive.org/details/msdos_Star_Wars_Chess_1993) - Star Wars Style Chess / [Manual](https://archive.org/details/star-wars-chess-manual/)
 * [lichess4545](https://www.lichess4545.com/) - Lichess Leagues
@@ -1154,7 +1151,6 @@
 * [/r/Checkers](https://www.reddit.com/r/checkers/) - Checkers Subreddit
 * [Fly or Die](https://www.flyordie.com/checkers/) or [Lidraughts](https://lidraughts.org/) - Multiplayer Checkers
 * [Bloob Checkers](https://bloob.io/checkers) - 4 Player Checkers
-* [Checkers AI](https://checkers.ai-games.app/) - Play Checkers vs AI
 
 ***
 

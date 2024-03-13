@@ -119,7 +119,7 @@ Use [this](https://bitbucket.org/magnolia1234/bypass-paywalls-firefox-clean/src/
 ### Streaming
 
 **[movie-web](https://movie-web.github.io/docs/instances/) / [Fix](https://pastebin.com/8X5bbjeS) / [lonelil](https://watch.lonelil.ru/) / [Fix](https://watch.lonelil.ru/onboarding) / [Braflix](https://www.braflix.app/) / [FMovies](https://fmoviesz.to/)** - Fast movie / TV streaming
-**[AniWatch](https://aniwatch.to/) / [HiAnime](https://hianime.to/)** - Fast anime streaming
+**[HiAnime](https://hianime.to/)** - Fast anime streaming
 **[Dramacool](https://dramacool.cy/)** - Fast Asian drama streaming
 **[SportsSurge](https://sportsurge.net/)** - Live sports streaming
 **[Spotify](https://spotify.com/) / [YouTube Music](https://music.youtube.com/)** - Music & podcast streaming / [Spotify Adblock](https://github.com/amd64fox/SpotX)

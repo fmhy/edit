@@ -61,7 +61,7 @@
 * ⭐ **[Archive.org](https://archive.org/details/texts)** - Books / Audiobooks / Magazines / Newspapers / [Downloader](https://bookripper.neocities.org/)
 * ⭐ **[MyAnonaMouse](https://www.myanonamouse.net/)** - [Interviews](https://www.myanonamouse.net/inviteapp.php)
 * ⭐ **[Book Search Guide](https://docs.google.com/document/d/1ZwWs8JOrlkrrqiHwkQSwc4_NM85Zbzc9t9ifQ1rHZgM/mobilebasic)** - Guide to Finding Articles / Books
-* ⭐ **[Reading CSE](https://cse.google.com/cse?cx=006516753008110874046:s9ddesylrm8)** / [2](https://cse.google.com/cse?cx=006516753008110874046:rc855wetniu) / [3](https://cse.google.com/cse?cx=e9657e69c76480cb8) / [4](https://cse.google.com/cse?cx=c46414ccb6a943e39), [Rave](https://ravebooksearch.com/), [Recherche](https://recherche-ebook.fr/en/) or [Searcholic](https://searcholic.com/) - Multi-Site Book Search
+* ⭐ **[Reading CSE](https://cse.google.com/cse?cx=006516753008110874046:s9ddesylrm8)** / [2](https://cse.google.com/cse?cx=006516753008110874046:rc855wetniu) / [3](https://cse.google.com/cse?cx=e9657e69c76480cb8) / [4](https://cse.google.com/cse?cx=c46414ccb6a943e39), [Rave](https://ravebooksearch.com/), [Recherche](https://recherche-ebook.fr/en/) - Multi-Site Book Search
 * irc://irc.undernet.org/bookz
 * irc://irc.irchighway.net/ebooks / [Request Guide](https://i.ibb.co/3WcCF56/3574e36b1bb2.png)
 * IRC Book Tools - [Guide](https://www.reddit.com/r/Piracy/comments/2oftbu/guide_the_idiot_proof_guide_to_downloading_ebooks/), [2](https://encyclopediadramatica.online/Bookz) / [mIRC](https://redd.it/znprct) / [Downloader](https://github.com/aghayes/rusty_book_pirate/), [2](https://github.com/evan-buss/openbooks), [3](https://github.com/Footsiefat/Openbooks-Downloader)
@@ -231,7 +231,7 @@
 * [Bible](https://apps.apple.com/us/app/bible/id282935706) - Christian Bible / iOS
 * [Classics Ethereal Library](https://www.ccel.org/) - Christianity
 * [Hidden Bible](http://www.hiddenbible.com/enoch/online.html) - Enoch Translation
-* [GodAlone](http://www.godalone.org/) or [Quran](https://quran.com/) / [2](https://beta.quran.com/en) - Quran Translations / [Mobile](https://github.com/quran/quran_android), [2](https://quran.alfaazplus.com/)
+* [GodAlone](http://www.godalone.org/) or [Quran](https://quran.com/) / [2](https://beta.quran.com/en) - Quran Translations / [Mobile](https://github.com/quran/quran_android), [2](https://alfaazplus.com/)
 * [Awesome Islam](https://github.com/AhmedKamal/awesome-Islam) - Islam Related Projects / Apps
 * [OpenMaktaba](https://openmaktaba.com/) - Islamic Books
 * [TheIslam360](https://theislam360.com/) - Islamic Research App
@@ -563,7 +563,6 @@
 * [SecretCanada](https://www.secretcanada.com/) - Canadian Document Archive
 * [Pandora](https://pandora.nla.gov.au/) - Australian Document Archive
 * [ndltd](http://search.ndltd.org/) - Search Theses and Dissertations
-* [UBIRA eTheses](https://etheses.bham.ac.uk/) - Theses
 * [Theses.fr](https://www.theses.fr/en/accueil.jsp) - Theses
 * [oatd](https://oatd.org/) - Theses / Dissertations
 * [lolmythesis](https://lolmythesis.com/) - Summarized Theses
@@ -619,7 +618,7 @@
 * ⭐ **[ReadComicsOnline](https://readcomiconline.li/)**
 * ⭐ **[ReadAllComics](https://readallcomics.com/)**
 * ⭐ **[GetComics](https://getcomics.org/)** - Download Comics
-* ⭐ **[ComicExtra](https://comicextra.me/)** or [Comic Online Free](https://comiconlinefree.org/)
+* ⭐ **[ComicExtra](https://comicextra.me/)**
 * ⭐ **[ComicBookPlus](https://comicbookplus.com/)** - Golden Age Comics
 * ⭐ **[Explosm](https://explosm.net/rcg)** - Cyanide & Happiness Web Comics
 * ⭐ **[xkcd](https://xkcd.com/)** or [findxkcd](https://xkcd-search.typesense.org/) - xkcd Web Comics / [Explanations](https://www.explainxkcd.com/wiki/index.php/Main_Page)
@@ -696,7 +695,6 @@
 * [VyvyManga](https://vyvymanga.net/)
 * [ReadKomik](https://readkomik.com/) - [Discord](https://discord.gg/bvB7Hk3xWV)
 * [DogManga](https://dogemanga.com/)
-* [Bunko](https://bunko.in/)
 * [MangaOwl](https://mangaowl.to/)
 * [MangaReader](https://mangareader.mobi/)
 * [Mangarolls](https://mangarolls.net/)
@@ -1056,7 +1054,6 @@
 * [SmartStich](https://github.com/MechTechnology/SmartStitch) - Stitch Together Webtoons
 * [FanFicFare](https://github.com/JimmXinu/FanFicFare) - Generate Ebooks from Stories / Fanfiction
 * [HowLongToRead](https://howlongtoread.com/) - Average Book Reading Times
-* [Audiobook Speed Calculator](https://asc.pixelofink.com/) - Average Audiobook Listening Times
 * [BTW](https://booktriggerwarnings.com/) - Book Trigger Warnings
 * [DIY Book Scanner](https://diybookscanner.org/) - How-to Scan Books / [Example](https://i.ibb.co/YQLq42m/bdadbb08e5f7.png)
 * [The Submission Grinder](https://thegrinder.diabolicalplots.com/) - Find a Publisher

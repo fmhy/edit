@@ -475,7 +475,7 @@
 * [Acrylic](https://mayakron.altervista.org/) - DNS Cache Local Proxy
 * [SimpleDnsCrypt](https://github.com/instantsc/SimpleDnsCrypt) - DNS Encryption Local Proxy
 * [Proxifier](https://www.proxifier.com/) - Add Proxy Functionality to Apps / [Keys](https://rentry.co/FMHYBase64#proxifier-keys)
-* [wireproxy](https://github.com/pufferffish/wireproxy) - Use VPNs as proxys
+* [wireproxy](https://github.com/pufferffish/wireproxy) - Use VPNs as proxies
 * [Hiddify](https://hiddify.com/) - Auto-Proxy Client
 * [NginxProxyManager](https://github.com/NginxProxyManager/nginx-proxy-manager) - Self-Hosted Proxy Server
 * [Shadowsocks](https://shadowsocks.org/) / [Free Servers](https://github.com/ruanfei/cross), [2](https://github.com/learnhard-cn/free_proxy_ss), [3](https://shadowmere.akiel.dev/) / [Client](https://github.com/shadowsocks/shadowsocks-windows) - Proxy Client and Self-Hosted Server
@@ -501,7 +501,7 @@
 * [Blockaway](https://www.blockaway.net/)
 * [VPN Book](https://www.vpnbook.com/webproxy)
 * [CroxyProxy](https://www.croxyproxy.com/)
-* [ProxyPx](https://www.proxypx.com/)
+* [ProxyPx](https://croxyproxy.best/)
 * [ProxySite](https://www.proxysite.cc/) 
 * [ProxyOf2](https://proxyof2.com/)
 * [Proxy-URLs](https://www.proxy-urls.com/)

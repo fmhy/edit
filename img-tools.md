@@ -746,7 +746,7 @@
 * [ColorBox](https://colorbox.io/), [hue.tools](https://hue.tools/), [Randoma11y](https://randoma11y.com/), [accessiblepalette](https://accessiblepalette.com/) or [colorcolor](https://colorcolor.in/) - Advanced Color Palette Generators
 * [goodpalette](https://goodpalette.io/), [Huemint](https://huemint.com/), [AI Colors](https://aicolors.co/) or [PaletteMaker](https://palettemaker.com/) - Generate UI Color Palettes
 * [couleur.io](https://couleur.io/) - CSS Color Palettes Generator
-* [UI Colors](https://uicolors.app/create) or [Tints](https://www..dev/) - Tailwind CSS Color Generators
+* [UI Colors](https://uicolors.app/create) or [Tints](https://www.tints.dev/) - Tailwind CSS Color Generators
 * [Poolors](https://poolors.com/) - Generate Most / Least Used Color Palettes
 * [Cielab](https://cielab.io/) - Human Perception Color Tool
 

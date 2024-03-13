@@ -126,7 +126,6 @@
 * [FreeCourseDL](https://freecoursedl.com/) - Courses
 * [TutsNode](https://tutsnode.net/) - Courses
 * [Google Drive Links](https://googledrivelinks.com/) - Courses
-* [CryptoTips](https://www.cryptotips.us/) - Courses
 * [FCS](https://freecoursesites.com/) - Courses
 * [5G GYAN](https://www.5ggyan.com/) - Courses
 * [GameOfCourses](https://gameofcourses.com/) - Courses
@@ -300,7 +299,6 @@
 * ⭐ **[Omni Calculator](https://www.omnicalculator.com/)** - Calculator
 * [CalculatorSoup](https://www.calculatorsoup.com/) - Calculator
 * [Number Empire](https://www.numberempire.com/) - Calculator
-* [EasyCalculation](https://www.easycalculation.com/) - Calculator
 * [Calculator.net](https://www.calculator.net/) - Calculator
 * [KeepFormula](https://keepformula.github.io/) - Calculator
 * [GigaCalculator](https://www.gigacalculator.com/) - Calculator
@@ -308,7 +306,6 @@
 * [Qalculate](https://qalculate.github.io/) - Desktop Calculator
 * [QwikTape](https://github.com/4silvertooth/QwikTape) - Note Style Calculator
 * [MathB.in](https://mathb.in/) - Mathematics pastebin with LaTeX and Markdown
-* [FlowTeX](https://apps.microsoft.com/detail/9NT79075T86L) - Convert Handwritten Math to LaTeX
 * [All-In-One Calculator](https://play.google.com/store/apps/details?id=all.in.one.calculator) - Multi-Calculator App / Android
 * [MatrixCalc](https://matrixcalc.org/en/) or [MatrixOP](https://simplx.dev/matrixop/) - Matrix Calculator
 * [Mathcha](https://www.mathcha.io/) - Online Math Editor
@@ -510,7 +507,7 @@ https://cari.institute/
 * ⭐ **[/r/Space](https://reddit.com/r/Space)** - Space Subreddit
 * ⭐ **[Space Dashboard](https://spacedashboard.com/)** - Space Live Stream Dashboard
 * ⭐ **[EarthData](https://worldview.earthdata.nasa.gov/)** - Daily Satellite Replays
-* ⭐ **[Visible Earth](https://visibleearth.nasa.gov/)**, [GOES-16 Satellite Imagery](https://rammb-slider.cira.colostate.edu/), [SpaceEye](https://spaceeye.app/) or [Sentinel Hub](https://www.sentinel-hub.com/) - Satellite Imagery
+* ⭐ **[Visible Earth](https://visibleearth.nasa.gov/)**, [GOES-16 Satellite Imagery](https://rammb-slider.cira.colostate.edu/), [Sentinel Hub](https://www.sentinel-hub.com/) - Satellite Imagery
 * ⭐ **[NASA](https://www.nasa.gov/)** - National Aeronautics and Space Administration Website / [Images](https://images.nasa.gov/) / [Audio](https://www.nasa.gov/connect/sounds/index.html) / [Documents](https://ntrs.nasa.gov/search.jsp)
 * ⭐ **[In The Sky](https://in-the-sky.org/)** - Astronomy News / Interactive Guides
 * [ESA](https://www.esa.int/) - European Space Agency Website
@@ -703,7 +700,7 @@ https://cari.institute/
 * [ReverseDictionary](https://reversedictionary.org/) or [OneLook Reverse](https://onelook.com/reverse-dictionary.shtml) - Search for Words Using Their Meanings
 * [Languagelearning.site](https://languagelearning.site/) - Language Learning Torrents
 * [refold.la](https://refold.la/) - Language Learning Roadmap
-* [Memrise](https://www.memrise.com/), [InternetPolyglot](https://www.internetpolyglot.com/), [LingoDeer](https://www.lingodeer.com/) or [Busuu](https://www.busuu.com/en/) - Language Learning Lessons
+* [Memrise](https://www.memrise.com/), [LingoDeer](https://www.lingodeer.com/) or [Busuu](https://www.busuu.com/en/) - Language Learning Lessons
 * [Duolingo](https://www.duolingo.com/) - Language Learning Lessons / [Guide](https://rentry.co/FMHYBase64#duolingo-guide), [2](https://duome.eu/tips)
 * [Language Drops](https://languagedrops.com/) - Language Learning App / [Premium](https://rentry.co/FMHYBase64#language-drops-premium)
 * [10,000 Sentences](https://github.com/tkrajina/10000sentences) - Language Learning App
@@ -1041,7 +1038,7 @@ https://cari.institute/
 * [Feeels](https://feelu.vercel.app/) - Emotion Synonym Chart
 * [WikiDiff](https://wikidiff.com/) - Difference Between Any Words
 * [DoesNotTranslate](https://doesnottranslate.com/) or [Eunoia](https://eunoia.world/) - Words with No Translation
-* [Tip of my Tounge](https://chir.ag/projects/tip-of-my-tongue/) - Find Words you Can't Remember
+* [Tip of my Tongue](https://chir.ag/projects/tip-of-my-tongue/) - Find Words you Can't Remember
 * [Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/index.html), [IEP](https://iep.utm.edu/) or [nLab](https://ncatlab.org/) - Philosophy Encyclopedias / [Search](https://www.visualizingsep.com/)
 * [TheIdioms](https://www.theidioms.com/) - Idiom Dictionary
 * [Lexipedia](https://www.lexipedia.com/) or [WordWeb](https://wordwebs.app/) - Word Connections

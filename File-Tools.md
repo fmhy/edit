@@ -334,7 +334,6 @@
 ## ▷ P2P File Transfer
 
 * ⭐ **[ToffeeShare](https://toffeeshare.com/)**
-* ⭐ **[Transfer.sh](https://transfer.sh/)**
 * ⭐ **[Blaze](https://blaze.vercel.app/)** / [GitHub](https://github.com/blenderskool/blaze)
 * ⭐ **[wormhole](https://wormhole.app/)**
 * ⭐ **[justbeamit](https://justbeamit.com/)**
@@ -393,7 +392,7 @@
 
 ***
 
-* ⭐ **[Cloud Storage Comparisions](https://eylenburg.github.io/cloud_comparison.htm)** - Compare Cloud Storage Polices
+* ⭐ **[Cloud Storage Comparisons](https://eylenburg.github.io/cloud_comparison.htm)** - Compare Cloud Storage Polices
 * ⭐ **[RClone](https://rclone.org/)** - Cloud Storage Manager
 * ⭐ **RClone Tools** - [Guide](https://telegra.ph/Simple-rclone-usage-01-13) / [WebUI](https://github.com/rclone/rclone-webui-react), [2](https://github.com/MinorMole/RcloneBrowser-Portable) / [GUI](https://github.com/kapitainsky/RcloneBrowser) / [Colab](https://colab.research.google.com/github/szyha/RcloneLabArchive/blob/master/RcloneLab.ipynb) / [Telegram](https://t.me/rclonexbot) / [Transfer Tool](https://github.com/TheCaduceus/Multi-Cloud-Transfer-Tool)
 * ⭐ **[gclone](https://github.com/dogbutcat/gclone)**, [2](https://github.com/l3v11/gclone) - Cloud Storage Manager

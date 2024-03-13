@@ -138,7 +138,7 @@
 * [i78s](https://i78s.org/), [UCSB Cylinders](https://cylinders.library.ucsb.edu/index.php), [CLPGS](https://www.clpgs.org.uk/), [Tinfoil](http://www.tinfoil.com/), [Phonobase](http://www.phonobase.org/index.php?langue=en) or [Archeophone](https://www.archeophone.org/windex.php) - Phonograph / Gramophone Recordings
 * [FirstSounds](https://www.firstsounds.org/) - Oldest Music Recordings
 * [Russian Records](https://www.russian-records.com/) - Russian Record Recordings
-* [Measuring Polyphony](https://measuringpolyphony.org/) - Digital Encoding of Late Medeival Music
+* [Measuring Polyphony](https://measuringpolyphony.org/) - Digital Encoding of Late Medieval Music
 * [DigLib](https://diglib.library.vanderbilt.edu/ama-browse.pl) - East African Recordings
 * [Tabletop Audio](https://tabletopaudio.com/) - Ambient Audio for Tabletop Games
 * [Openwhyd](https://openwhyd.org/) - Music Sharing Community / [Chrome](https://chromewebstore.google.com/detail/openwhyd-%E2%9C%9A-track/foohaghobcolamikniehcnnijdjehfjk)

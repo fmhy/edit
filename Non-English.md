@@ -237,7 +237,6 @@
 * [uukanshu](https://www.uukanshu.com/) - Light-Novels
 * [lightnovel.us](https://www.lightnovel.us/) - Light-Novels
 * [blwenla](https://blwenla.com/) - Light-Novels
-* [txt900](https://www.txt990.org/) - Light-Novels
 * [beqege](https://www.beqege.cc/) - Light-Novels
 * [Zongheng](https://www.zongheng.com/) - Light-Novels
 * [Bixiange](https://www.bixiange.top/) - Light-Novels
@@ -552,7 +551,6 @@
 * [Moviespapa](https://moviespapa.zip/) - Movies / TV / 1080p
 * [MKVHub](https://www.mkvhub.bio/) - Movies / TV / Sub / Dub / 1080p
 * [FilmyMeet](https://filmyfly3.com.in/) - Movies / TV / Dub / 1080p / [Telegram](https://telegram.dog/+VV_6NFqFLTc1N2E1)
-* [Movies Counter](https://moviescounter.lat/) - Movies / TV / Sub / Dub / 1080p
 * [MoviesNation](https://moviesnation.app/) - Movies / TV / Sub / Dub / 1080p / [Telegram](https://t.me/+CQizt5B7q880ZDQ9/)
 * [DesireMovies](https://desiremovies.rodeo/) - Movies / TV / Sub / Dub / 1080p
 * [Moviehunt](https://moviehunt.us) - Movies / TV / Sub / Dub / 1080p
@@ -806,7 +804,6 @@
 
 ## ▷ Streaming
 
-* [Kokoa](https://kokoatv.net/) - Movies / TV / Sub / 1080p
 * [OnDemandKorean](https://www.ondemandkorea.com/) - Korean Movies / TV / 720p
 * [AQ Stream](https://aqstream.com/) - Live TV
 * [naver](https://chzzk.naver.com/) - Live Streams
@@ -1001,7 +998,6 @@
 * [Rei dos Torrents](https://reidostorrents.com) - Video / Audio / Books / Sub / Dub / 1080p
 * [Os Reformados](https://osreformados.com) - Video / Audio / Magazines / Sub / Dub / 1080p
 * [Baixar Séries MP4](https://baixarseriesmp4.pm) - Movies / TV / Anime / Sub / Dub / 1080p
-* [Séries Empire](https://seriesempire.com) - TV / Sub / Dub / 720p
 * [KSensei](https://karinsensei.com) - Anime / Sub / 720p
 * [Online Cursos Gratuitos](https://onlinecursosgratuitos.com) - Courses
 * [Escola Educação](https://escolaeducacao.com.br/estude-gratis) - Courses
@@ -1162,7 +1158,6 @@
 * [VeziSeriale](https://veziseriale.org) - Movies / TV / Anime / Sub / 720p
 * [ClickSub](https://clicksud.biz) - Movies / TV / Sub / 720p
 * [eFilm](https://efilme.net/) - Movies / Sub / 720p
-* [FilmeOnline.st](https://filmeonline.st/) - Movies / TV / Sub / 720p
 * [VoxFilmeOnline](https://voxfilmeonline.biz/) - Movies / TV / Sub / 720p
 * [FilmeOnline.biz](https://www.filmeonline.biz/) - Movies / Sub / 720p
 * [Pe4k](https://pe4k.net) - Movies / TV / Sub / 720p
@@ -1339,7 +1334,6 @@
 * [Manga-chan](https://manga-chan.me/) - Manga
 * [Manga Club](https://mangaclub.ru/) - Manga
 * [Manga Hub](https://mangahub.ru/) - Manga
-* [Read Manga](https://readmanga.live/) - Manga
 * [mmnt](https://www.mmnt.ru/) - Document Search
 * [Samlib](http://samlib.ru/) - Document Search
 * [militera](http://militera.org/) - Military History
@@ -1385,7 +1379,6 @@
 * [Cultura Para Todos](https://culturaparatodos.eu/) - Video / Audio / Reading
 * [Flipax2](https://flipax2.me/) - Video / Audio / Reading / Castilian
 * [Fiuxy2](https://fiuxy2.co/) - Video / Audio / Reading / NSFW / [Bypass](https://greasyfork.org/en/scripts/477591)
-* [La Taberna Del Cangrejo](http://www.latabernadelcangrejo.eu/) - Video / Audio
 * [Descargandoxmega](https://www.descargandoxmega.com/) - Movies / TV / Animation / 1080p / 4K / Latino / Castilian
 * [PelisEnHD](https://pelisenhd.org/) - Movies / TV / Anime / 4K / Latino / Castilian
 * [SomosMovies](https://somosmovies.com/) - Movies / TV / 1080p / 4K / Latino
@@ -1545,7 +1538,6 @@
 * [ytanime](https://ytanime.tv/) - Anime / Sub
 * [AnimeID](https://www.animeid.tv/) - Anime / Sub
 * [animeyt](https://animeyt.es/) - Anime / Sub
-* [animeblix](https://animeblix.xyz/) - Anime / Sub
 * [Anime Online Sub](https://www.animeonlinesub.com/) - Anime / Sub
 * [serieslan](https://serieslan.com/) - Cartoons
 * [LACartoons](https://www.lacartoons.com/) - Cartoons
@@ -1643,7 +1635,7 @@
 
 ## ▷ Downloading
 
-* [MP3 Indir](https://www.mp3indirdur.mobi/) - Music
+* [MP3 Indir](https://www.mp3indirdur.net/) - Music
 * [TurkceAltyazi](https://turkcealtyazi.org/index.php) - Subtitles
 * [TurkishAudioCenter](https://www.turkishaudiocenter.com) - Voiceovers
 * [Shareses](https://shareses.com) - Voiceovers
@@ -1662,7 +1654,7 @@
 * [YabancıDizi](https://yabancidizi.pro) - Movies / TV
 * [HdfilmCehennemi](https://www.hdfilmcehennemi.life) - Movies / TV
 * [FullHDFilmİzlesene](https://www.fullhdfilmizlesene.pw) - Movies / Cartoons
-* [JetFilmizle](https://jetfilmizle.video/) - Movies
+* [JetFilmizle](https://jetfilmizle.film/) - Movies
 * [FilmIzle](https://filmizle2022.info/) - Movies
 * [4kFilmizlesene](https://www.4kfilmizlesene.xyz/) - Movies
 * [Filmİzlesene](https://www.filmizlesene.pro) - Movies
@@ -1849,7 +1841,6 @@
 * [Waka](https://waka.vn/) - Books
 * [Reader](https://www.reader.com.vn/) - Books
 * [NhaSach](https://nhasachmienphi.com/) - Books
-* [TaiSach](https://taisachmienphi.com/) - Books
 * [DocSach24](https://docsach24.co/) - Books
 * [SachHay](https://www.sachhayonline.com/) - Books
 * [TruyenPlus](https://Truyenplus.vn) - Books / Novel
@@ -1863,8 +1854,6 @@
 * [HanulTruyen](https://hanultruyen.net/) - Manga / Manhwa / Manhua
 * [ThichTruyen](https://thichtruyen.vn/) - Manga / Manhwa / Manhua
 * [CongTruyen](https://congtruyen.org/) - Manga / Manhwa / Manhua
-* [OCuMeo](https://www.ocumeo.store/) - Manga / Manhwa / Manhua
-* [HanulTruyen](https://hanultruyen.com/) - Manga / Manhwa / Manhua
 * [TruyenQQ](https://truyenqqvn.com/) - Manga / Manhwa / Manhua
 * [DichTruyen](https://dichtruyenprone.com/) - Manga / Manhwa / Manhua / [Facebook](https://www.facebook.com/dichtruyenteam/)
 * [COMI](https://comi.mobi/) - Manga / Manhwa / Manhua / Novel
@@ -1875,7 +1864,6 @@
 * [blogtruyen](https://blogtruyenvn.com/) - Manga
 * [truyenvn](https://truyenvnhay.tv/) - Manga/ Manhwa/ Manhua
 * [PheTruyen](https://phetruyen.pro/) - Manga/ Manhwa/ Manhua
-* [SStruyen](https://sstruyen.vn/) - Manga/ Manhwa/ Manhua
 * [Dtruyen](https://dtruyen.com/) - Manga/ Manhwa/ Manhua
 * [Thichdoctruyen](https://thichdoctruyen.vip/) - Manga/ Manhwa/ Manhua
 * [Truyensieuhay](https://truyensieuhay.com/) - Manga/ Manhwa/ Manhua

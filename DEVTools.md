@@ -18,19 +18,19 @@
 * [SQL Cheat Sheet](https://i.ibb.co/Ctr0Tn8/e289a15e2246.jpg) - SQL Cheat Sheet
 * [CSS Cheat Sheet](https://docs.emmet.io/cheat-sheet/) or [CSS Tricks](https://css-tricks.com/snippets/) - CSS Cheat Sheet
 * [Easings](https://easings.net/) - CSS Animation Cheat Sheet
-* [BEM Cheat Sheet](https://bem-cheat-sheet.9elements.com/) - BEM Cheet Sheet 
+* [BEM Cheat Sheet](https://bem-cheat-sheet.9elements.com/) - BEM Cheat Sheet 
 * [Vim Cheatsheet](https://i.ibb.co/FbdMMHN/460e75dd8543.png) or [rTorr](https://vim.rtorr.com/) - Vim Editor Cheat Sheets
 * [VimTip](https://vim.fandom.com/wiki/Category:VimTip) - Vim Editor Tips
 * [Underdash](https://surma.github.io/underdash/) - JS Snippets
 * [GitHub Cheat Sheet](https://github.com/tiimgreen/github-cheat-sheet) - GitHub Cheat Sheet
 * [HTML.com](https://html.com/) - HTML Guide / Cheat Sheet
-* [SEO Cheet Sheet](https://seo-cheat-sheet.9elements.com/) - SEO Cheet Sheet
+* [SEO Cheat Sheet](https://seo-cheat-sheet.9elements.com/) - SEO Cheat Sheet
 
 ***
 
 # ► Courses / Tutorials
 
-* 🌐 [Awesome Certificates](https://github.com/PanXProject/awesome-certificates), [Learn For Free](https://github.com/aviaryan/learn-for-free) or [Awesome Learning Dev](https://www.learndev.info/en) - Dev Course Indexes
+* 🌐 [Awesome Certificates](https://github.com/PanXProject/awesome-certificates), [Learn For Free](https://github.com/aviaryan/learn-for-free) - Dev Course Indexes
 * 🌐 **[ProgrammingLearningResources](https://rentry.co/ProgrammingLearningResources)** or [A-to-Z-Resources-for-Students](https://github.com/dipakkr/A-to-Z-Resources-for-Students) - Programming Learning Resources
 * 🌐 **[Awesome YouTubers](https://github.com/JoseDeFreitas/awesome-youtubers)**, [Awesome-Youtube-Channels](https://github.com/epoyraz/Awesome-Youtube-Channels) or [Awesome YouTube Channels](https://github.com/benthecoder/yt-channels-DS-AI-ML-CS) - YouTube Dev Channels Indexes
 * ↪️ **[Programming Book Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/reading#wiki_.25B7_programming_books)** - Read / Download Programming Books
@@ -59,7 +59,7 @@
 * [Goldfish](https://goldfish-app-5igcw.ondigitalocean.app/) - Programming Courses
 * [Beej's Guides](https://www.beej.us/guide/) or [LearnByExample](https://learnbyexample.github.io/) - Programming Guides
 * [HelloWorldCollection](http://helloworldcollection.de/) - Hello World Programming Collection
-* [CodeWell](https://www.codewell.cc/) or [CodeTriage](https://www.codetriage.com/) - Learn Coding by Building Projects
+* [CodeTriage](https://www.codetriage.com/) - Learn Coding by Building Projects
 * [Codecademy](https://www.codecademy.com/) - Coding Lessons
 * [CodinGame](https://www.codingame.com/) - Games to Practice Coding / Programming 
 * [Advent of Code](https://adventofcode.com/) - Programming Puzzles
@@ -362,7 +362,7 @@
 * [Statically](https://statically.io/) - Load Websites Faster
 * [Qdrant](https://qdrant.tech/) - Vector Database
 * [Rest Test Test](https://resttesttest.com/) - Test REST / CORS Services
-* [WebUI](https://webui.me/) - Embed WebUI Libaries in Project
+* [WebUI](https://webui.me/) - Embed WebUI Libraries in Project
 * [Dagu](https://github.com/dagu-dev/dagu) - WebUI Job Manager
 * [httpbin](https://httpbin.org/) or [Requestbin](https://pipedream.com/requestbin) - HTTP Request & Response Service
 * [Hydra](https://github.com/ory/hydra) - OAuth 2.0 Server / OpenID Connect Provider
@@ -970,7 +970,7 @@
 ## ▷ GitHub Tools
 
 * 🌐 **[GitHub Awesome](https://app.polymersearch.com/discover/github-awesome)**, [OSS Insight](https://ossinsight.io/), [grep.app](https://grep.app/), [awesome-lis](https://github.com/topics/awesome-list), or [awesome-github](https://github.com/fffaraz/awesome-github) - GitHub Project Indexes
-* 🌐 **[Awesome First PR Oppotunities](https://github.com/MunGell/awesome-for-beginners)** - Beginner FOSS Project Index
+* 🌐 **[Awesome First PR Opportunities](https://github.com/MunGell/awesome-for-beginners)** - Beginner FOSS Project Index
 * 🌐 **[Awesome Actions](https://github.com/sdras/awesome-actions)** - GitHub Action Resources
 * 🌐 **[Awesome Browser Extensions](https://stefanbuck.com/awesome-browser-extensions-for-github)** - GitHub Browser Extensions
 * 🌐 **[Awesome Badges](https://dev.to/envoy_/150-badges-for-github-pnk)** - GitHub Badge Resources
@@ -1088,7 +1088,7 @@
 * [Regex101](https://regex101.com/), [Debuggex](https://www.debuggex.com/) or [Cyrilex](https://extendsclass.com/regex-tester.html) - Regex Editor / Debuggers
 * [AutoRegex](https://www.autoregex.xyz/) - AI-based Regex Generator
 * [AirBroke](https://airbroke.icorete.ch/) or [Glitchtip](https://glitchtip.com) - Error Tracking Platforms
-* [Algorithm Visualizer](https://algorithm-visualizer.org/) or [Sorting Algorithms Visuallizer](https://sadanandpai.github.io/sorting-visualizer/dist/) / [GitHub](https://github.com/sadanandpai/sorting-visualizer) - Visualize Code Algorithms 
+* [Algorithm Visualizer](https://algorithm-visualizer.org/) or [Sorting Algorithms Visuallizer](https://sadanandpai.github.io/algo-visualizers/#/sorting-visualizer/bubble) / [GitHub](https://github.com/sadanandpai/sorting-visualizer) - Visualize Code Algorithms 
 * [Code2Flow](https://app.code2flow.com/), [Flowchart.js](https://flowchart.js.org/) or [Flowchart Generator](https://github.com/MugilanGN/Flowchart-Generator) - Code to Flowchart Converter
 * [UMLet](https://www.umlet.com/) or [JDL Studio](https://start.jhipster.tech/jdl-studio/) - Create UML Diagrams
 * [Wasmer](https://wasmer.io/) - WebAssembly Apps / Libraries
@@ -1195,7 +1195,6 @@
 * [Microdiff](https://github.com/AsyncBanana/microdiff) - Object and Array Comparison Library
 * [Adoptium](https://adoptium.net/) - Download OpenJDK Binaries
 * [trzsz](https://github.com/trzsz/trzsz.js) - Make trzsz Compatible with tmux in Terminal
-* [Bundlephobia](https://bundlephobia.com/) - Find size cost of Adding npm Package
 * [quicktype](https://app.quicktype.io/) - JSON Parser
 * [JSON Formatter](https://jsonformatter.curiousconcept.com/) or [json-formatter](https://github.com/callumlocke/json-formatter) - JSON Formatting
 * [Transluna](https://transluna.net/) - JSON Translator
