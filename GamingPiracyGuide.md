@@ -897,7 +897,7 @@
 ## ▷ Geometry Dash Tools
 
 * ⭐ **[Geode](https://geode-sdk.org/)** - Mod Menu & Modding Framework
-* ⭐ **[Demon List](https://pointercrate.com/demonlist/) or [AREDL](https://aredl.pages.dev/) - Demon Lists
+* ⭐ **[Demon List](https://pointercrate.com/demonlist/)** or [AREDL](https://aredl.pages.dev/) - Demon Lists
 * [Unrated Demon List](https://udl.pages.dev/#/) or [GD Demon Ladder](https://gdladder.com/) - Demon Difficulty Ladders
 * [NC List](https://sites.google.com/view/nine-circles-demonlist/main-list) - Nine Circles Demon List
 * [Challenge List](https://challengelist.gd/challenges/) - Challenge List
