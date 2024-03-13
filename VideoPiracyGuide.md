@@ -113,7 +113,7 @@
 * [Mov.onl](https://www.mov.onl/) - Movies / TV / 720p
 * [SpaceMov](https://spacemov.site/) - Movies / TV / 720p
 * [Pluto](https://pluto.tv/) - Movies / TV / 720p
-* [Vumoo](https://vumoo.to/) or [9PM](https://9pm.to/) - Movies / TV / 720p
+* [9PM](https://9pm.to/) - Movies / TV / 720p
 * [Vidlink](https://vidlink.org/) - Movies / 720p
 * [VidStore](https://stream.vidzstore.com/) - Movies / 720p
 * [MovieXFilm](https://moviexfilm.com/) - Movies / TV / 720p
@@ -269,7 +269,7 @@
 * 🌐 **[Wotaku](https://wotaku.moe/)** - Japanese Piracy Index
 * 🌐 **[The Index](https://theindex.moe)** - Japanese Piracy Index / [Discord](https://discord.gg/Snackbox) / [Wiki](https://thewiki.moe/)
 * 🌐 **[EverythingMoe](https://everythingmoe.com/)** - Japanese Piracy Index / [Discord](https://discord.gg/GuueaDgKdS)
-* ⭐ **[AniWave](https://aniwave.to/)** or [Anix](https://anix.to/), [2](https://animesuge.to/), [3](https://gogoanimex.to/home), [4](https://zorox.to/) - Sub / Dub / 1080p / [Lite](https://lite.aniwave.to)
+* ⭐ **[AniWave](https://aniwave.to/)** or [Anix](https://anix.to/), [2](https://animesuge.to/), [3](https://gogoanimex.to/home) - Sub / Dub / 1080p / [Lite](https://lite.aniwave.to)
 * ⭐ **[KickAssAnime](https://kickassanime.mx/)** - Sub / Dub / 1080p / [Mirrors](https://kickassanimes.info/) / [Discord](https://discord.gg/qduzrvTG6p)
 * ⭐ **[HiAnime](https://hianime.to/)**, [2](https://4anime.gg/), [3](https://kaido.to/), [4](https://9animetv.to/), [5](https://anicrush.to/) - Sub / Dub / 1080p / [Auto-Focus](https://greasyfork.org/en/scripts/464019) / [Discord](https://discord.gg/hianime)
 * ⭐ **[AnimePahe](https://animepahe.com/)** - Sub / 1080p / [Downloader](https://github.com/KevCui/animepahe-dl)
@@ -330,7 +330,7 @@
 * [FunnierMoments](https://www.funniermoments.net/)
 * [b98](https://www.b98.tv/)
 * [South Park](https://www.southparkstudios.com/) - South Park Episodes / [Downloader](https://github.com/thepwrtank18/spdl)
-* [ToonamiAftermath](https://www.toonamiaftermath.com/) or [Twonami](https://twonspot.com/twonami/) - Toonami Streams
+* [ToonamiAftermath](https://www.toonamiaftermath.com/) - Toonami Streams
 
 ***
 
@@ -413,7 +413,6 @@
 * [Braflix](https://www.braflix.app/) - TV / Sports / [Discord](https://discord.gg/wWKmxARaWH)
 * [SusFlix](https://susflix.tv/) - TV / Sports / [Discord](https://discord.gg/BE7kTVezBN)
 * [TNS-LIVE](https://live.tnsicn.com/) - TV / Sports / [Discord](https://discord.com/invite/mJyWFkGwQw)
-* [TOTV](http://totv.org/) - TV / Sport
 * [TheTVApp](https://thetvapp.to/) - TV / Sports
 * [DaddyLive](https://dlhd.sx/) - TV / Sport
 * [Xumo Play](https://play.xumo.com/networks) - TV / US only
@@ -482,7 +481,6 @@
 * [Footybite](https://www1.footybite.cc/) - Soccer
 * [NBA Streams](https://nbabox.tv/) - Basketball
 * [NFL Streams](https://nflstreams.me/) - Football
-* [NFLbite](https://www.nflbite.com/) - Football
 * [MLB66](https://mlb66.ir/) - Baseball
 * [/r/MLBStreams](https://www.reddit.com/r/MLBStreams/) - Baseball
 * [MLB Streams](https://mlbstreams.me/) - Baseball
@@ -736,7 +734,6 @@
 * ⭐ **[Nyaa](https://nyaa.si/)**, [2](https://nyaa.iss.one/) [3](https://nyaa.iss.ink/) - Sub / Dub
 * ⭐ **Nyaa Tools** - [TUI](https://github.com/irevenko/koneko) / [CLI](https://github.com/johnvictorfs/nyaa-cli) / [Telegram Bot](https://github.com/ejnshtein/nyaasi-bot), [2](https://t.me/meow_in_japanese_bot) / [Python Wrapper](https://github.com/JuanjoSalvador/NyaaPy) / [Torrent Fetch](https://github.com/manintel/nyaabag), [2](https://github.com/Vivek-Kolhe/Nyaa-API) / [Downloader](https://github.com/marcpinet/nyaadownloader) / [Quality Guide](https://greasyfork.org/en/scripts/441017-nyaablue)
 * ⭐ **[AnimeTosho](https://animetosho.org/)** - Sub / Dub
-* ⭐ **[Anirena](https://www.anirena.com/)** - Sub / Dub
 * ⭐ **[TokyoTosho](https://www.tokyotosho.info/)** - Sub
 * ⭐ **[ShanaProject](https://www.shanaproject.com/)** - Sub
 * ⭐ **[Anidex](https://anidex.info/)** - Sub / Dub
@@ -790,7 +787,7 @@
 * [TMDb](https://www.themoviedb.org/) - Movies / TV / Anime
 * [5000 Best](http://5000best.com/movies/) - 5000 Best Movies
 * [TVDb](https://www.thetvdb.com/) - TV / Anime
-* [TVMaze](https://www.tvmaze.com/), [serializd](https://www.serializd.com/), [TrackSeries](https://www.trackseries.tv/) or [watched](https://watched.li/) - TV / Anime
+* [TVMaze](https://www.tvmaze.com/), [serializd](https://www.serializd.com/), [watched](https://watched.li/) - TV / Anime
 * [GCDb](https://www.grindhousedatabase.com/) - Grindhouse Cinema
 * [Class Real](https://www.classreal.com/) - Weird / Trippy Movies
 * [FFCritic](https://foundfootagecritic.com/) - Found Footage

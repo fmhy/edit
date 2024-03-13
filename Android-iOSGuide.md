@@ -104,7 +104,7 @@
 * [Tech Day](https://t.me/s/tech_d4y)
 * [GoldenBoot_Mods_Re](https://t.me/GoldenBoot_Mods_Re)
 * [AyraProject](https://t.me/AyraProject)
-* [Modules Repositor](https://t.me/modulesrepo)
+* [Modules Repository](https://t.me/modulesrepo)
 * [Android_hacked_games](https://t.me/Android_hacked_games) - Modded Games
 
 ***
@@ -183,7 +183,6 @@
 * [wallman](https://gitlab.com/colorata/wallman) - Wallpapers
 * [FreshWalls](https://play.google.com/store/apps/details?id=com.techburner.freshwalls) - Wallpapers
 * [Backdrops](https://www.backdrops.io/) - Wallpapers
-* [Vave BG](https://vavebg.com/) - AI Generated Wallpapers
 * [Zedge](https://www.zedge.net/) - Wallpapers / Ringtones / Use Adblocker
 * [DarQ](https://github.com/KieronQuinn/DarQ) - Universal Dark Mode
 * [Phonetones](http://onj3.andrelouis.com/phonetones/) or [RingtoneRobot](https://t.me/RingtoneRobot) - Ringtones Directories
