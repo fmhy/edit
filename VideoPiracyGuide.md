@@ -787,7 +787,7 @@
 * [TMDb](https://www.themoviedb.org/) - Movies / TV / Anime
 * [5000 Best](http://5000best.com/movies/) - 5000 Best Movies
 * [TVDb](https://www.thetvdb.com/) - TV / Anime
-* [TVMaze](https://www.tvmaze.com/), [serializd](https://www.serializd.com/), [watched](https://watched.li/) - TV / Anime
+* [TVMaze](https://www.tvmaze.com/), [serializd](https://www.serializd.com/) or [watched](https://watched.li/) - TV / Anime
 * [GCDb](https://www.grindhousedatabase.com/) - Grindhouse Cinema
 * [Class Real](https://www.classreal.com/) - Weird / Trippy Movies
 * [FFCritic](https://foundfootagecritic.com/) - Found Footage
