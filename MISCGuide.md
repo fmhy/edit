@@ -957,7 +957,7 @@
 * [Monkey](https://www.monkey.app/) - Random Chat Rooms
 * [Wireclub](https://www.wireclub.com/) - Topic Chat Rooms
 * [FandomPost](https://fandompost.vbulletin.net/) - Fandom Discussions
-* [AnimeSuki](https://forums.animesuki.com/) or [Fanverse](https://www.fanverse.org/) - Anime Discussion
+* [AnimeSuki](https://forums.animesuki.com/), [AnimeUKNews](https://forums.animeuknews.net/) or [Fanverse](https://www.fanverse.org/) - Anime Discussion
 * [/r/Piracy](https://www.reddit.com/r/Piracy/) or [SuperBay](https://forum.suprbay.org/) - Piracy Discussion
 * [Resetera](https://www.resetera.com/) or [Neogaf](https://www.neogaf.com/) - Game Discussion
 * [DreamJournal](http://dreamjournal.net/) - Dream Sharing Community
