@@ -112,6 +112,7 @@
 * [Mars 3D](https://mars3d-game.wixsite.com/index) - Mars 3D Translation & Remake
 * [Unciv](https://github.com/yairm210/Unciv) - Civ V Remake
 * [OpenTTD](https://www.openttd.org/) - Transport Tycoon Remake
+* [CannonBall](https://github.com/djyt/cannonball) - OutRun Remake / [Video](https://youtu.be/t-93kDC8Vac)
 * [OpenNox](https://github.com/noxworld-dev/opennox) - Nox Revival Project
 * [Pixel Gun X](https://discord.com/invite/8796Fs9tZm) - Pixel Gun 3D Revival Project
 * [SpaceCadetPinball](https://github.com/k4zmu2a/SpaceCadetPinball) - Space Cadet Pinball
@@ -896,18 +897,16 @@
 ## ▷ Geometry Dash Tools
 
 * ⭐ **[Geode](https://geode-sdk.org/)** - Mod Menu & Modding Framework
-* ⭐ **[Demon List](https://pointercrate.com/demonlist/) / [Challenge List](https://challengelist.gd/challenges/)** - Official Demon List and Challenge List
+* ⭐ **[Demon List](https://pointercrate.com/demonlist/) or [AREDL](https://aredl.pages.dev/) - Demon Lists
+* [Unrated Demon List](https://udl.pages.dev/#/) or [GD Demon Ladder](https://gdladder.com/) - Demon Difficulty Ladders
+* [NC List](https://sites.google.com/view/nine-circles-demonlist/main-list) - Nine Circles Demon List
+* [Challenge List](https://challengelist.gd/challenges/) - Challenge List
 * [GDDP](https://gddp.pro/) - Practice & Improve Your Skills
 * [Soluble Texture Packs](https://solubletexturepacks.com/) - GD Texture Packs / [Manager](https://geode-sdk.org/mods/geode.texture-loader/)
 * [Song File Hub](https://songfilehub.com/home) - GD Songs & Mashups / [Discord](https://discord.com/invite/maSgd4zpEF)
-* [4GB Patch](https://ntcore.com/?page_id=371) - Lets GD use 4GB of RAM
-* [Unrated Demon List](https://udl.pages.dev/#/) - Hardest Unrated Levels
-* [Globed](https://github.com/dankmeme01/globed2) - Multiplayer Mod
+* [Globed](https://github.com/dankmeme01/globed2) - GD Multiplayer Mod
 * [GD Browser](https://gdbrowser.com/) - GD Level Browser
-* [GdColon](https://gdcolon.com/) - Useful GD Tools
-* [GD Demon Ladder](https://gdladder.com/) - More Accurate Demon Difficulties
-* [AREDL](https://aredl.pages.dev/) - All Rated Extreme Demons List
-* [NC List](https://sites.google.com/view/nine-circles-demonlist/main-list) - Nine Circles Demon List
+* [4GB Patch](https://ntcore.com/?page_id=371) - Lets GD use 4GB of RAM
 
 ***
 
