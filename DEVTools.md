@@ -1238,6 +1238,7 @@
 * [Telosys](https://www.telosys.org/) - Coding AI
 * [WDTCD?](https://whatdoesthiscodedo.com/) - Coding AI
 * [Sourcery](https://sourcery.ai/) - Coding AI
+* [Devv](https://devv.ai/) - Coding AI
 * [Cody](https://about.sourcegraph.com/cody) - Coding AI
 * [CodiumAI](https://www.codium.ai/) - Coding AI
 * [continue](https://continue.dev/) - Coding AI
