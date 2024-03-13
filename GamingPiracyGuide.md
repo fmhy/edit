@@ -901,15 +901,15 @@
 ## ▷ Geometry Dash Tools
 
 * ⭐ **[Geode](https://geode-sdk.org/)** - Mod Menu & Modding Framework
-* ⭐ **[Demon List](https://pointercrate.com/demonlist/)** or [AREDL](https://aredl.pages.dev/) - Demon Lists
-* [Unrated Demon List](https://udl.pages.dev/#/) or [GD Demon Ladder](https://gdladder.com/) - Demon Difficulty Ladders
-* [NC List](https://sites.google.com/view/nine-circles-demonlist/main-list) - Nine Circles Demon List
-* [Challenge List](https://challengelist.gd/challenges/) - Challenge List
-* [GDDP](https://gddp.pro/) - Practice & Improve Your Skills
+* ⭐ **[Demon List](https://pointercrate.com/demonlist/)**, [Challenge List](https://challengelist.gd/challenges/), [Unrated Demon List](https://udl.pages.dev/#/), [Rated Extremes List](https://aredl.pages.dev/) or [Nine Circles List](https://sites.google.com/view/nine-circles-demonlist/main-list) - Demon Lists
+* ⭐ **[GDDP](https://gddp.pro/)** or [GD Demon Ladder](https://gdladder.com/) - Practice & Improve Your Skills
 * [Soluble Texture Packs](https://solubletexturepacks.com/) - GD Texture Packs / [Manager](https://geode-sdk.org/mods/geode.texture-loader/)
+* [Spritesheet Splitter](https://gdcolon.com/gdsplitter/) - Split & Merge GD Spritesheets
+* [GD Save Explorer](https://gdcolon.com/gdsave/) - View Detailed Stats & Data of Save Files
 * [Song File Hub](https://songfilehub.com/home) - GD Songs & Mashups / [Discord](https://discord.com/invite/maSgd4zpEF)
 * [Globed](https://github.com/dankmeme01/globed2) - GD Multiplayer Mod
 * [GD Browser](https://gdbrowser.com/) - GD Level Browser
+* [GD Font Generator](https://gdcolon.com/gdfont) - Generate Custom GD Logos & Messages
 * [4GB Patch](https://ntcore.com/?page_id=371) - Lets GD use 4GB of RAM
 
 ***
