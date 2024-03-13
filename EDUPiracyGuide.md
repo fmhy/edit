@@ -866,7 +866,7 @@ https://cari.institute/
 * [GradesFixer](https://www.gradesfixer.com/) - Essay Samples
 * [Citation Generator](https://www.citationgenerator.com/), [mybib](https://www.mybib.com/), [citemaker](https://www.citemaker.com/), [formatically](https://formatically.com/), [zbib](https://zbib.org/), [CitationMachine](https://citationmachine.net/), [CiteFast](https://www.citefast.com) or [Cite This For Me](https://www.citethisforme.com/) - Generate Citations / [Chrome](https://chromewebstore.google.com/detail/cite-this-for-me-web-cite/nnnmhgkokpalnmbeighfomegjfkklkle)
 * [Publish or Perish](https://harzing.com/resources/publish-or-perish) - Citation Analyzer
-* [cb2bib](https://www.molspaces.com/cb2bib/) - Reference Extractor / Manager
+* [Zotero](https://www.zotero.org/), [cb2bib](https://www.molspaces.com/cb2bib/) - Reference Extractor / Manager
 * [ImageJ](https://imagej.net/) or [Fiji](https://fiji.sc/) - Scientific Image Analyzers
 * [Altium](https://www.altium.com/viewer/) - Schematics Visualizer
 * [Wolfram Cloud](https://www.wolframcloud.com/) - Computational intelligence
