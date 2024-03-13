@@ -750,6 +750,7 @@
 
 ## ▷ Android Podcasts / Radio
 
+* ⭐ **[AntennaPod](https://antennapod.org/)** / [GitHub](https://github.com/AntennaPod/AntennaPod), [Snipd](https://www.snipd.com/) or [AudioAnchor](https://github.com/flackbash/AudioAnchor) - Podcast Players 
 * [Escapepod](https://codeberg.org/y20k/escapepod), [Podbean](https://play.google.com/store/apps/details?id=com.podbean.app.podcast), [PocketCasts](https://www.pocketcasts.com/) or [Podcast Addict](https://play.google.com/store/apps/details?id=com.bambuna.podcastaddict) - Podcasts
 * [IHeartRadio](https://play.google.com/store/apps/details?id=com.clearchannel.iheartradio.controller), [MixCloud](https://play.google.com/store/apps/details?id=com.mixcloud.player&amp;hl=en) or [TuneIn](https://play.google.com/store/apps/details?id=tunein.player&amp;hl=en) - Podcasts / Radio
 * [Transistor](https://codeberg.org/y20k/transistor), [DisasterRadio](https://f-droid.org/en/packages/tk.giesecke.disaster_radio/), [RadioUpnp](https://play.google.com/store/apps/details?id=com.watea.radio_upnp) or [RadioTime](https://play.google.com/store/apps/details?id=com.radiotime.app) - Radio
@@ -757,7 +758,6 @@
 * [DI.FM](https://play.google.com/store/apps/details?id=com.audioaddict.di) - Electronic Radio
 * [Nightwave Plaza](https://play.google.com/store/apps/details?id=one.plaza.nightwaveplaza) - Nightwave Radio
 * [LISTEN.moe](https://play.google.com/store/apps/details?id=me.echeung.moemoekyun) - K-Pop Radio
-* [AntennaPod](https://antennapod.org/) / [GitHub](https://github.com/AntennaPod/AntennaPod), [Snipd](https://www.snipd.com/) or [AudioAnchor](https://github.com/flackbash/AudioAnchor) - Podcast Players 
 * [Muviz](https://www.sparkine.com/muviz/) or [Muviz Edge](https://www.sparkine.com/muviz-edge/) - Navbar Audio Visualizer
 * [Inspod](https://play.google.com/store/apps/details?id=com.kdanmobile.android.podsnote) - Podcast Notes
 
