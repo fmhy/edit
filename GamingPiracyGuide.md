@@ -395,15 +395,6 @@
 * [MiiCharacters](https://www.miicharacters.com/) - Famous Mii Creation Guides
 * [Buzz In](https://buzzin.live/) - Online Buzzer System
 * [Challonge](https://challonge.com/) - Tournament Creator / Manager
-* [DS4Windows](https://github.com/Ryochan7/DS4Windows), [AntiMicroX](https://github.com/AntiMicroX/antimicroX), [DualSenseX](https://github.com/Paliverse/DualSenseX), [PCXSense](https://github.com/Denellyne/PCXSense) or [Input Remapper](https://github.com/sezanzeb/input-remapper) - Gamepad Input Tools
-* [x360ce](https://www.x360ce.com/) / [GitHub](https://github.com/x360ce/x360ce) - DS4 / 360 Controller Emulator
-* [XOutput](https://github.com/csutorasa/XOutput) - DirectInput to Xinput wrapper
-* [DsHidMini](https://github.com/ViGEm/DsHidMini) - Use PS3 Controllers on Windows
-* [JoyToKey](https://joytokey.net/) - Controller Emulator
-* [Spud Controller](https://sadwhale-studios.itch.io/) - Controller / Mouse Input Displays
-* [PC Remote](https://play.google.com/store/apps/details?id=com.monect.portable) - Use Phone as Controller
-* [Gamepad-Tester](https://gamepad-tester.com/) or [AresLuna](https://aresluna.org/gamepad-tester/) - Controller Connectivity Testers
-* [HidHide](https://github.com/ViGEm/HidHide) - Input Device Firewall
 * [Medal](https://medal.tv/) - Shadowplay for non Nvidia Cards / [Premium Bypass](https://medalbypass.vercel.app/)
 * [Moments](https://steelseries.com/gg/moments) - Game Clip Tool
 * [Scanlines for Windows](https://s4windows.itch.io/scanlines-for-windows) - Add Scanlines to Games / [Discord](https://discord.gg/MqxMj8MT55)
@@ -429,10 +420,6 @@
 * [Oculess](https://github.com/basti564/Oculess) - Remove Oculus Quest Account Requirements & Telemetry
 * [ALVR](https://github.com/alvr-org/ALVR) - Stream VR Games from PC to Headset
 * [ConceptArt](https://vk.com/conceptart) - Video Game Concept Art
-* [Whitescent Engine](https://apt.izzysoft.de/fdroid/index/apk/com.github.whitescent.engine) - Use Phone as Joy Stick / [GitHub](https://github.com/whitescent/Engine)
-* [JoystickGremlin](https://whitemagic.github.io/JoystickGremlin/) - Remap Joystick Devices
-* [Arcade Controls](http://arcadecontrols.com/arcade.htm) - DIY Arcade Controls
-* [AltCtrls](https://altctrls.info/) - Custom Controller Crafting Resources
 * [FatmanTutorial](https://archive.org/details/fatmantutorial) - How-to Repack Games
 * [How Denuvo Works](https://rentry.co/denuvo) or [Reverse Engineer Denuvo V4](https://drive.google.com/file/d/1CupcQMOyxbtNUGGSnq8xhIZIxhDzToFT/)
 
@@ -546,6 +533,24 @@
 
 ***
 
+## ▷ Controller Tools
+
+* [DS4Windows](https://github.com/Ryochan7/DS4Windows), [AntiMicroX](https://github.com/AntiMicroX/antimicroX), [DualSenseX](https://github.com/Paliverse/DualSenseX), [PCXSense](https://github.com/Denellyne/PCXSense) or [Input Remapper](https://github.com/sezanzeb/input-remapper) - Gamepad Input Tools
+* [x360ce](https://www.x360ce.com/) / [GitHub](https://github.com/x360ce/x360ce) - DS4 / 360 Controller Emulator
+* [XOutput](https://github.com/csutorasa/XOutput) - DirectInput to Xinput wrapper
+* [DsHidMini](https://github.com/ViGEm/DsHidMini) - Use PS3 Controllers on Windows
+* [JoyToKey](https://joytokey.net/) - Controller Emulator
+* [Spud Controller](https://sadwhale-studios.itch.io/) - Controller / Mouse Input Displays
+* [PC Remote](https://play.google.com/store/apps/details?id=com.monect.portable) - Use Phone as Controller
+* [Gamepad-Tester](https://gamepad-tester.com/) or [AresLuna](https://aresluna.org/gamepad-tester/) - Controller Connectivity Testers
+* [HidHide](https://github.com/ViGEm/HidHide) - Input Device Firewall
+* [Whitescent Engine](https://apt.izzysoft.de/fdroid/index/apk/com.github.whitescent.engine) - Use Phone as Joy Stick / [GitHub](https://github.com/whitescent/Engine)
+* [JoystickGremlin](https://whitemagic.github.io/JoystickGremlin/) - Remap Joystick Devices
+* [Arcade Controls](http://arcadecontrols.com/arcade.htm) - DIY Arcade Controls
+* [AltCtrls](https://altctrls.info/) - Custom Controller Crafting Resources
+
+***
+
 ## ▷ Multiplayer Tools
 
 * ⭐ **[Online Fix](https://online-fix.me/)** - Multiplayer Fix / [Discord](https://discord.gg/yExgFYncMD)
@@ -642,8 +647,9 @@
 * [Zelda BotW Street View](https://nassimsoftware.github.io/zeldabotwstreetview/) - Breath of The Wild Map
 * [Palworld Interactive](https://palworld.th.gl/) - Palworld Map
 * [Fortnite.gg](https://fortnite.gg/) - Fortnite Map, Guides, Skins etc.
+* [Hitmaps](https://www.hitmaps.com/) - Hitman Maps / [Discord](https://discord.gg/RssFsajjjX) 
 * [Hallownest](https://www.hallownest.net/) or [Interactive HN Map](https://scripterswar.com/hollowknight/map) - Hollow Knight Maps
-* [Hoyolab Teyvat Interactive Map](https://act.hoyolab.com/ys/app/interactive-map/index.html), [Mapgenie Teyvat Interactive Map](https://mapgenie.io/genshin-impact) or [Genshin Impact Map](https://genshin-impact-map.appsample.com/) - Genshin Impact Interactive Maps
+* [Hoyolab Teyvat Interactive Map](https://act.hoyolab.com/ys/app/interactive-map/index.html), [Mapgenie Teyvat Interactive Map](https://mapgenie.io/genshin-impact) or [Genshin Impact Map](https://genshin-impact-map.appsample.com/) - Genshin Impact Maps
 
 ***
 
@@ -1131,7 +1137,7 @@
 * 🌐 **[/r/Chess Books](https://reddit.com/r/chess/wiki/books)** - Recommended Chess Books
 * ⭐ **[lichess](https://lichess.org/)**, [WebChess](http://chess.delorie.com/), [GameKnot Chess](https://gameknot.com/), [SparkChess](https://www.sparkchess.com/) or [Chess.com](https://www.chess.com/) - Chess Platforms / [Customize](https://prettierlichess.github.io/)
 * ⭐ **[Scid vs. PC](https://scidvspc.sourceforge.net/)**, [TheChessWebsite](https://www.thechesswebsite.com/), [Chess Tempo](https://chesstempo.com/), [Chessercise](https://www.chessercise.xyz/), [Lucas Chess](https://lucaschess.pythonanywhere.com/) or [List Study](https://listudy.org/en) - Learn / Practice Chess
-* [ChessDVDBooksProg](https://t.me/ChessDVDBooksProg) - Chess Courses, Books, Programs etc.
+* ⭐ **[ChessDVDBooksProg](https://t.me/ChessDVDBooksProg)** - Chess Courses, Books, Programs etc.
 * [Chesses](https://pippinbarr.com/chesses/) or [Omnichess](https://omnichess.club/) - Multiple Styles of Chess
 * [The Kilobyte’s Gambit](https://vole.wtf/kilobytes-gambit/) - 1k Chess Game
 * [Kung Fu Chess](https://www.kfchess.com/) - Real-Time Chess w/o Turns
