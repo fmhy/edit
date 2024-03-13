@@ -704,7 +704,6 @@
 * [imgchest](https://imgchest.com/)
 * [upanhtv](https://upanh.tv/)
 * [sendpic](http://sendpic.org/)
-* [sm.ms](https://sm.ms/)
 * [Lutim](https://lutim.lagout.org/)
 * [prnt.sc](https://prnt.sc/)
 * [anhsieuviet](https://anhsieuviet.com/?lang=en)
