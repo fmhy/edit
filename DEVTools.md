@@ -30,7 +30,7 @@
 
 # ► Courses / Tutorials
 
-* 🌐 [Awesome Certificates](https://github.com/PanXProject/awesome-certificates), [Learn For Free](https://github.com/aviaryan/learn-for-free) - Dev Course Indexes
+* 🌐 [Awesome Certificates](https://github.com/PanXProject/awesome-certificates) or [Learn For Free](https://github.com/aviaryan/learn-for-free) - Dev Course Indexes
 * 🌐 **[ProgrammingLearningResources](https://rentry.co/ProgrammingLearningResources)** or [A-to-Z-Resources-for-Students](https://github.com/dipakkr/A-to-Z-Resources-for-Students) - Programming Learning Resources
 * 🌐 **[Awesome YouTubers](https://github.com/JoseDeFreitas/awesome-youtubers)**, [Awesome-Youtube-Channels](https://github.com/epoyraz/Awesome-Youtube-Channels) or [Awesome YouTube Channels](https://github.com/benthecoder/yt-channels-DS-AI-ML-CS) - YouTube Dev Channels Indexes
 * ↪️ **[Programming Book Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/reading#wiki_.25B7_programming_books)** - Read / Download Programming Books
@@ -159,7 +159,7 @@
 
 * 🌐 **[Mobile Design Resources](https://github.com/josephgoksu/mobile-design-resources)** - App Design Learning Resources
 * ⭐ **[Android Developer Roadmap](https://github.com/skydoves/android-developer-roadmap)**
-* [Official Android Courses](https://developer.android.com/courses) - App Dev Courses
+* [Official Android Courses](https://developer.android.com/courses) or [Windows App Development](https://learn.microsoft.com/en-us/windows/apps/) - App Dev Courses
 * [LearnCS](https://www.learncs.online/lessons) - Lean Java/Kotlin
 * [CocoaDevCentral](http://cocoadevcentral.com/) - Legacy OS X / Cocoa Programming Tutorials
 * [Swift Playgrounds](https://developer.apple.com/tutorials/swiftui) - Learn Swift UI / [Samples](https://developer.apple.com/tutorials/sample-apps)
