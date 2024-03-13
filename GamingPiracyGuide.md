@@ -904,6 +904,10 @@
 * [Unrated Demon List](https://udl.pages.dev/#/) - Hardest Unrated Levels
 * [Globed](https://github.com/dankmeme01/globed2) - Multiplayer Mod
 * [GD Browser](https://gdbrowser.com/) - GD Level Browser
+* [GdColon](https://gdcolon.com/) - Useful GD Tools
+* [GD Demon Ladder](https://gdladder.com/) - More Accurate Demon Difficulties
+* [AREDL](https://aredl.pages.dev/) - All Rated Extreme Demons List
+* [NC List](https://sites.google.com/view/nine-circles-demonlist/main-list) - Nine Circles Demon List
 
 ***
 
