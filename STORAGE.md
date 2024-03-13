@@ -51,7 +51,6 @@
 * ⭐ **[AIMP](https://www.aimp.ru/?do=download&os=android)**
 * ⭐ **[Musicolet Music Player](https://krosbits.in/musicolet/)**
 * ⭐ **[BlackPlayer EX](https://www.revdl.com/blackplayer-ex-apk-download.html/)**
-* ⭐ **[BlackHole](https://blackhole-music.com/)**
 * ⭐ **[Symphony](https://github.com/zyrouge/symphony)**
 * [Audio Share](https://github.com/mkckr0/audio-share) - Media Server Streaming
 * [Finamp](https://github.com/jmshrv/finamp) - Jellyfin Music Player
@@ -89,7 +88,6 @@
 * [Tasks](https://tasks.org/) - Sync Supported
 * [Any.do](https://www.any.do/) - Sync Supported
 * [doable](https://doable.at/) - Sync Supported / Extensions
-* [Simpletask](https://github.com/mpcjanssen/simpletask-android) - Sync Supported
 * [Orgzly-revived](https://github.com/orgzly-revived/orgzly-android-revived) - Sync Supported 
 * [organice](https://organice.200ok.ch/) - Sync Supported / Account Required
 * [Tasky](https://github.com/thatsmanmeet/Tasky)
