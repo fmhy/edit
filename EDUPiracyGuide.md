@@ -200,7 +200,7 @@
 
 # ► Learning Sites
 
-* 🌐 **[The Free Learning List](https://freelearninglist.org/)**, **[LearnAwesome](https://learnawesome.org/)**, [Learning Lab](https://learn.uno/), [Quester](https://quester.io/), [TutorAI](https://www.tutorai.me/), [Learney](https://maps.joindeltaacademy.com/), [WISC](https://www.wisc-online.com/) or [/sci/ guide](https://sites.google.com/site/scienceandmathguide/) - Learning Resources
+* 🌐 **[The Free Learning List](https://freelearninglist.org/)**, **[LearnAwesome](https://learnawesome.org/)**, [Learning Lab](https://learn.uno/), [Quester](https://quester.io/), [AFAIK](https://afaik.io/) / [Discord](https://discord.gg/mMNwRvWM8s), [TutorAI](https://www.tutorai.me/), [Learney](https://maps.joindeltaacademy.com/), [WISC](https://www.wisc-online.com/) or [/sci/ guide](https://sites.google.com/site/scienceandmathguide/) - Learning Resources
 * 🌐 **[Untools](https://untools.co/)** - Better Thinking Tools
 * 🌐 **[Awesome Educational Games](https://github.com/yrgo/awesome-educational-games)** - Educational Games Index
 * ↪️ **[Typing Tests / Games](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools#wiki_.25B7_typing_lessons)**
@@ -507,7 +507,7 @@ https://cari.institute/
 * ⭐ **[/r/Space](https://reddit.com/r/Space)** - Space Subreddit
 * ⭐ **[Space Dashboard](https://spacedashboard.com/)** - Space Live Stream Dashboard
 * ⭐ **[EarthData](https://worldview.earthdata.nasa.gov/)** - Daily Satellite Replays
-* ⭐ **[Visible Earth](https://visibleearth.nasa.gov/)**, [GOES-16 Satellite Imagery](https://rammb-slider.cira.colostate.edu/), [Sentinel Hub](https://www.sentinel-hub.com/) - Satellite Imagery
+* ⭐ **[Visible Earth](https://visibleearth.nasa.gov/)**, [GOES-16 Satellite Imagery](https://rammb-slider.cira.colostate.edu/) or [Sentinel Hub](https://www.sentinel-hub.com/) - Satellite Imagery
 * ⭐ **[NASA](https://www.nasa.gov/)** - National Aeronautics and Space Administration Website / [Images](https://images.nasa.gov/) / [Audio](https://www.nasa.gov/connect/sounds/index.html) / [Documents](https://ntrs.nasa.gov/search.jsp)
 * ⭐ **[In The Sky](https://in-the-sky.org/)** - Astronomy News / Interactive Guides
 * [ESA](https://www.esa.int/) - European Space Agency Website
@@ -866,7 +866,7 @@ https://cari.institute/
 * [GradesFixer](https://www.gradesfixer.com/) - Essay Samples
 * [Citation Generator](https://www.citationgenerator.com/), [mybib](https://www.mybib.com/), [citemaker](https://www.citemaker.com/), [formatically](https://formatically.com/), [zbib](https://zbib.org/), [CitationMachine](https://citationmachine.net/), [CiteFast](https://www.citefast.com) or [Cite This For Me](https://www.citethisforme.com/) - Generate Citations / [Chrome](https://chromewebstore.google.com/detail/cite-this-for-me-web-cite/nnnmhgkokpalnmbeighfomegjfkklkle)
 * [Publish or Perish](https://harzing.com/resources/publish-or-perish) - Citation Analyzer
-* [cb2bib](https://www.molspaces.com/cb2bib/) - Reference Extractor / Manager
+* [cb2bib](https://www.molspaces.com/cb2bib/) - Reference Extractors / Managers
 * [ImageJ](https://imagej.net/) or [Fiji](https://fiji.sc/) - Scientific Image Analyzers
 * [Altium](https://www.altium.com/viewer/) - Schematics Visualizer
 * [Wolfram Cloud](https://www.wolframcloud.com/) - Computational intelligence
