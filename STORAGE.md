@@ -611,7 +611,7 @@ http://104.131.175.196:8080/, http://70.88.180.169:8088/
 * ⭐ **[UsefulMods](https://github.com/TheUsefulLists/UsefulMods)**
 * ⭐ **[Modrinth](https://modrinth.com/)** / [Redirector](https://github.com/devBoi76/modrinthify)
 
-[Planet Minecraft](https://www.planetminecraft.com/), [MC Archive](https://mcarchive.net/), [Alternatives](https://microcontrollersdev.github.io/Alternatives/), [ModBay](https://modbay.org/), [9minecraft](https://www.9minecraft.net/)
+[Planet Minecraft](https://www.planetminecraft.com/), [MC Archive](https://mcarchive.net/), [Alternatives](https://microcontrollersdev.github.io/Alternatives/), [ModBay](https://modbay.org/)
 
 ***
 
