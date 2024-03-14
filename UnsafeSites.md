@@ -78,7 +78,7 @@
 
 ***
 
-### [Fake Z-Lib Sites](https://i.imgur.com/z4Ku77B.png)
+### [Fake Z-Lib Sites](https://redd.it/16xtm67) / [2](https://ibb.co/MhfGTWx)
 
 ### [Fake Windows Activators](https://i.imgur.com/Lv2FYbw.png)
 
