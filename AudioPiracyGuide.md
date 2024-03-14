@@ -786,7 +786,7 @@
 ## ▷ Audio Plugins
 
 * 🌐 **[Open-Source Audio Plugins](https://github.com/webprofusion/OpenAudio)** - Plugin Projects Index
-* ⭐ **[G-MEH](https://g-meh.com/vst/)**
+* ⭐ **[G-MEH](https://g-meh.com/vst/)** / [Premium Bypass](https://gmehpremium.pages.dev/)
 * ⭐ **[/r/CrackedPluginsX](https://www.reddit.com/r/CrackedPluginsX/)** or [/r/PluggnB](https://www.reddit.com/r/PluggnB/) - Plugin Subreddits
 * ⭐ **[PLUGG SUPPLY](https://t.me/pluggsupply)** - Telegram / [VK](https://vk.com/pluggsupply)
 * ⭐ **[Plugin Clouds](https://t.me/joinchat/eBPFLPGucTU5YjQ9)** - [Archive](https://t.me/plugincloudsarchive)
