@@ -911,6 +911,7 @@
 * [GD Browser](https://gdbrowser.com/) - GD Level Browser
 * [GD Font Generator](https://gdcolon.com/gdfont) - Generate Custom GD Logos & Messages
 * [4GB Patch](https://ntcore.com/?page_id=371) - Lets GD use 4GB of RAM
+* [Mobile Demon List](https://mobilepointercrate.com/) / [60hz Mobile List](https://sites.google.com/view/gd-mobile-lists/top-100-demons-completed?authuser=0) - Mobile Demon Lists
 
 ***
 
