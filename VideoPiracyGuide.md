@@ -80,7 +80,7 @@
 ## ▷ Single Server
 
 * ⭐ **[EE3](https://ee3.me/)** or [RIPS](https://rips.cc/) - Movies / 1080p / Invite Code: fmhy
-* ⭐ **[Nites](https://w1.nites.is/)** - Movies / TV / 1080p
+* ⭐ **[Nites](https://w1.nites.is/)** or [Lookmovie.plus](https://lookmovie.plus/) - Movies / TV / 1080p
 * ⭐ **[PressPlay](https://www.pressplay.top/)** - Movies / TV / 1080p / [Discord](https://discord.gg/r4QrghF4B9)
 * ⭐ **[YesMovies](https://yesmovies.ag/)**, [2](https://ww4.solarmovie.to/), [3](https://ww5.0123movie.net/), [4](https://ww1.putlocker.vip/) - Movies / TV / Anime / 1080p
 * ⭐ **[LookMovie](https://lookmovie2.to/)** - Movies / TV / 720p / [Mirrors](https://proxymirrorlookmovie.github.io/)
