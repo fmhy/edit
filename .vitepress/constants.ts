@@ -161,7 +161,7 @@ export const sidebar: DefaultTheme.Sidebar | DefaultTheme.NavItemWithLink[] = [
   },
   {
     text: '<span class="i-twemoji:plus"></span> More',
-    collapsed: true,
+    collapsed: false,
     items: [
       {
         text: '<span class="i-twemoji:no-one-under-eighteen"></span> NSFW',
