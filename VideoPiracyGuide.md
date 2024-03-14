@@ -85,7 +85,7 @@
 * ⭐ **[YesMovies](https://yesmovies.ag/)**, [2](https://ww4.solarmovie.to/), [3](https://ww5.0123movie.net/), [4](https://ww1.putlocker.vip/) - Movies / TV / Anime / 1080p
 * ⭐ **[LookMovie](https://lookmovie2.to/)** - Movies / TV / 720p / [Mirrors](https://proxymirrorlookmovie.github.io/)
 * [FshareTV](https://fsharetv.co/), [2](https://fsharetv.io/) - Movies / 1080p
-* [FossaTV](https://fossa.tv/) - Movies / TV / 1080p
+* [FossaTV](https://fossa.tv/) or [CrossTV](https://tv.cross.moe/)  - Movies / TV / 1080p
 * [RidoMovies](https://ridomovies.tv/) - Movies / 1080p
 * [Ling.online](https://ling-online.net/en/videos/films/) - Movies / TV / 1080p
 * [NEPU](https://nepu.to/) - Movies / TV / Anime / 1080p / [Discord](https://discord.gg/nepu)
