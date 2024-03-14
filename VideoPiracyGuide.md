@@ -336,9 +336,9 @@
 
 ## ▷ Drama Streaming
 
-* ⭐ **[DramaCool](https://dramacool.cy/)**, [2](https://www.dramacool9.co/), [3](https://www1.watchasian.id/), [4](https://www1.dramacool.do/) - TV / Movies / 1080p 
-* ⭐ **[KissAsian](https://kissasian.pe/)** - TV / 720p
-* ⭐ **[GoPlay](https://goplay.ml)** - TV / Movies / 1080p / Join [Discord](https://discord.com/invite/yY2P3DQR8S) for Code
+* ⭐ **[DramaCool](https://asianwiki.co/)**, [2](https://dramacool.pa/), [3](https://watchasian.ar/), [4](https://runasian.net/) - TV / Movies / 1080p 
+* ⭐ **[KissAsian](https://kissasian.lu/)** - TV / 720p
+* ⭐ **[GoPlay](https://goplay.pw)** [2](https://goplay.wtf/), [3](https://goplay.anontpp.com/) - TV / Movies / 1080p / Join [Discord](https://discord.com/invite/yY2P3DQR8S) for Code
 * [Chinese Drama Site Index](https://www.reddit.com/r/CDrama/wiki/streaming)
 * [GDrive KDrama](https://databasegdriveplayer.co/drama.php) - TV / Movies
 * [AsianCrush](https://www.asiancrush.com/) - TV / Movies
@@ -350,12 +350,13 @@
 * [DramaNice](https://dramanice.la/) - TV
 * [KissTVShow](https://kisstvshow.to/) - TV
 * [MyAsianTV](https://myasiantv.cx/) - TV / Movies
-* [OneTouchTV](https://onetouchtv.me/) - TV / Movies
+* [OneTouchTV](https://onetouchtv.co/) - TV / Movies
 * [OFWShow](https://ofwshow.ru/list/engsub/) - TV / Movies
 * [viewasian](https://viewasian.co/) - TV / Movies 
 * [NewAsianTV](https://www2.newasiantv.pro/) - TV / Movies
 * [bagikuy](https://bagikuy.com/) - TV / Movies
 * [Kissasian.video](https://kissasian.video/) - TV / Movies
+* [Kissasian.si](https://kissasian.si) - TV / Movies
 * [iFlix](https://www.iflix.com/) - TV / Movies
 * [WeTV](https://wetv.vip/) - TV / Movies
 * [Viu](https://www.viu.com/) - TV / Movies
