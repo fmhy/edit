@@ -656,11 +656,11 @@
 # ► Android Reading
 
 * ↪️ **[Android Ebook Readers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/reading#wiki_.25BA_ebook_readers)**
+* ⭐ **[Openlib](https://github.com/dstark5/Openlib)** - Free Books
 * ⭐ **[Mobilism](https://forum.mobilism.org/app/)** / [User Ranks](https://pastebin.com/pZuuMxYm) - Free Books
 * ⭐ **[KafkaArchives](https://www.kafkaarchives.com/)** - Archive.org Books / Audiobooks
 * ⭐ **[Librera](https://librera.mobi/)** or **[Lithium](https://play.google.com/store/apps/details?id=com.faultexception.reader)** - Ebook Reader
 * ⭐ **[Readera](https://play.google.com/store/apps/details?id=org.readera)** - PDF Reader
-* [Openlib](https://github.com/dstark5/Openlib) - Free Books
 * [Project Gutenberg](https://github.com/Pool-Of-Tears/Myne) - Free Books
 * [Openreads](https://github.com/mateusz-bak/openreads-android), [NeverTooManyBooks](https://github.com/tfonteyn/NeverTooManyBooks) or [Basmo](https://basmo.app/) - Book Managers / Trackers
 * [Wikipedia](https://play.google.com/store/apps/details?id=org.wikipedia) - Wikipedia App / [Beta](https://play.google.com/store/apps/details?id=org.wikipedia.beta)
