@@ -166,7 +166,7 @@
 * [GradientArt](https://gra.dient.art/) or [TailBlend](https://tailblend.vercel.app/) - Gradient Editor
 * [VeoLuz](https://jaredforsyth.com/veoluz/) - Photon Path Art Tool
 * [Canvas](https://www.nvidia.com/en-us/studio/canvas/) - Turn Simple Art into Photo Realistic Landscapes
-* [Lama Cleaner](https://lama-cleaner-docs.vercel.app/), [Inpaint](https://theinpaint.com/), [Magic Eraser](https://magicstudio.com/magiceraser), [Remover](https://remover.zmo.ai/), [Cleanup.pictures](https://cleanup.pictures/), [ObjectRemover](https://objectremover.com/), [Segment Anything](https://segment-anything.com/), [Samist](https://github.com/dibrale/samist) or [sd-webui-segment-anything](https://github.com/continue-revolution/sd-webui-segment-anything) - Image Segmentation Tools
+* [Lama Cleaner](https://lama-cleaner-docs.vercel.app/), [Inpaint](https://theinpaint.com/), [Magic Eraser](https://magicstudio.com/magiceraser), [Remover](https://remover.zmo.ai/), [IOPaint](https://github.com/Sanster/IOPaint), [Cleanup.pictures](https://cleanup.pictures/), [ObjectRemover](https://objectremover.com/), [Segment Anything](https://segment-anything.com/), [Samist](https://github.com/dibrale/samist) or [sd-webui-segment-anything](https://github.com/continue-revolution/sd-webui-segment-anything) - Image Segmentation / Object Removal
 * [Supershots](https://superblog.ai/supershots/) - Add Backgrounds to Images
 * [Image Splitter](https://ruyili.ca/image-splitter/) - Split Images into Tiles
 * [PicFont](https://picfont.com/) - Add Text to Images
@@ -432,7 +432,7 @@
 
 * 🌐 **[Awesome GIF](https://rentry.co/ccuz3)** - GIF Resources / [GitHub](https://github.com/davisonio/awesome-gif)
 * 🌐 **[Online GIF Tools](https://onlinegiftools.com/)** - GIF Tools
-* [Giphy](https://giphy.com/), [Gifer](https://gifer.com/en), [Curlie GIFs](https://curlie.org/en/Computers/Graphics/Web/Free/Animated_GIFs),  [GifCities](https://gifcities.org/), [Animations](https://bleuje.com/animationsite/) or [GIFBin](https://gifbin.com/) - View / Download GIFs 
+* [Giphy](https://giphy.com/), [Tenor](https://tenor.com/), [Gifer](https://gifer.com/en), [Curlie GIFs](https://curlie.org/en/Computers/Graphics/Web/Free/Animated_GIFs),  [GifCities](https://gifcities.org/), [Animations](https://bleuje.com/animationsite/) or [GIFBin](https://gifbin.com/) - View / Download GIFs 
 * [/r/animegifs](https://www.reddit.com/r/animegifs/) - View / Download Anime GIFs 
 * [EZGif](https://ezgif.com/), [GIFCurry](https://lettier.github.io/gifcurry/) / [GitHub](https://github.com/lettier/gifcurry), [Giflr](https://giflr.com/), [GIFMemes](https://gifmemes.io/), [GIFnText](https://www.gifntext.com/), [makeagif](https://makeagif.com/), [Gifsicle](http://www.lcdf.org/gifsicle/) or [Pixteller](https://pixteller.com/) - GIF Creators / Editors
 * [EatMyArt](https://www.eatmy.art/), [DrawIsland](https://drawisland.com/) or [Sketch Machine](https://sketchmachine.net/) - Create GIFs from Drawings
