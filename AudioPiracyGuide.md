@@ -248,7 +248,7 @@
 * [ASMRion](https://asmrion.com/), [2](https://defonic.com) - Ambient Noise Generator
 * [NoisyLoop](https://noisyloop.com/) - Ambient Urban Sounds
 * [Coffitivity](https://coffitivity.com/) or [Hipstersound](https://hipstersound.com/) - Ambient Café Sounds / Relaxation 
-* [Sound Of Colleagues](https://soundofcolleagues.com/) - Ambient Office Sounds
+* [Sound Of Colleagues](https://soundofcolleagues.com/) or [IMissTheOffice](https://imisstheoffice.eu/) - Ambient Office Sounds
 * [I Miss My Bar](http://imissmybar.com/) - Ambient Bar Sounds 
 * [HomeSick](https://scoreascore.com/homesick) - Ambient Home Sounds
 * [You are Listening To LA](http://youarelistening.to/) - Ambient City Sounds & Live LAPD Police Radio 
@@ -585,6 +585,7 @@
 * [Wave Link](https://help.elgato.com/hc/en-us/articles/360044566172-Wave-Link-First-Time-Setup-for-Windows-10) or [VoiceMeeter](https://vb-audio.com/Voicemeeter/index.htm) / [Banana](https://vb-audio.com/Voicemeeter/banana.htm) - Audio Mixers / Multi-Device Playback
 * [SoundSwitch](https://soundswitch.aaflalo.me/) - Switch Audio Device with Hotkey / [GitHub](https://github.com/Belphemur/SoundSwitch)
 * [AudioToolSet](https://audiotoolset.com/) or [Safeaudiokit](https://safeaudiokit.com/) - Audio Multi-Tool Sites
+* [Pillowcase](https://.su/) - Audio File Host
 * [Audiocheck](https://www.audiocheck.net/) - Audio Tests
 * [LowAudioLatency](https://github.com/spddl/LowAudioLatency/) - Reduce Audio Latency
 * [DigitalFeed](https://abx.digitalfeed.net/) - Lossless Audio Sound System Test
@@ -739,6 +740,7 @@
 * [editor.audio](https://editor.audio/) - Online Editor
 * [Efflux](https://www.igorski.nl/application/efflux/) - Online Editor
 * [TwistedWave](https://twistedwave.com/online) - Online Editor
+* [xAudioPro](https://www.xaudiopro.com/en/) - Online Editor
 * [BeatMachine](https://beatmachine.branchpanic.me/) or [SongSurgeon](https://songsurgeon.com/engine/ssweb/) - Audio Tempo Editors
 * [Audovia Music](https://audovia.co.uk/) - Classical Music Creator
 * [danielx](https://danielx.net/composer/) or [AMS](https://flyx.org/ams/) - Mario Paint Audio Composers / [Archive](https://archive.org/details/mariopaintcomposer_201609)
