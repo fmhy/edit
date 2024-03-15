@@ -30,11 +30,7 @@ or you could use the .mrpack filesand add it to Prism or other compatible launch
 * If you can't break blocks or it's glitching, you are probably too close to the spawn and need to go farther.
 * (Modded) To set a skin, use the `/skin` command.
 * To hide yourself from being shown in Dynmap, run this command `/dynmap hide`.
-* Simple Voice Chat mod is supported on Modded and (optional) Vanilla servers.
 * For modded 6GB+ RAM is required, but 12GB+ is recommended.
-- (Modded) To set a skin, use the `/skin` command.
-- To hide yourself from being shown in Dynmap, run this command `/dynmap hide`.
 - Simple Voice Chat mod is supported on Modded and (optional) Vanilla servers.
-- For modded 6GB+ RAM is required, but 12GB+ is recommended.
 
 Have fun! ♥️
