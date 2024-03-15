@@ -119,7 +119,7 @@
 * [BTMET](https://btmet.com/)
 * [BT4G](https://bt4gprx.com/)
 * [Torlock](https://www.torlock.com/), [2](https://www.torlock2.com/)
-* [TorrentProject2](https://torrentproject2.com/), [2](https://torrentproject2.net/)
+* [TorrentProject](https://torrentproject.cc/), [2](https://torrentproject2.net/)
 * [0Mag](https://www.0mag.net/), [2](https://16mag.net/)
 * [TorrentDownloads](https://www.torrentdownloads.pro/)
 * [concen](https://www.concen.org/torrents)
