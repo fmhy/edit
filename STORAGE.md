@@ -33,7 +33,7 @@
 * [MWMBL](https://mwmbl.org/) - [GitHub](https://github.com/mwmbl/mwmbl)
 * [Presearch](https://presearch.com/) - [GitHub](https://github.com/presearchofficial)
 
-[Bing](https://www.bing.com/), [Lycos](https://www.lycos.com/), [WebCrawler](https://www.webcrawler.com/), [Million Short](https://millionshort.com/), [Andi](https://andisearch.com/), [Excite](https://search.excite.com/), [Metacrawler](https://www.metacrawler.com/), [entireweb](https://www.entireweb.com/), [ChatNoir](https://www.chatnoir.eu/), [Exalead](https://www.exalead.com/search/), [Carrot2](https://search.carrot2.org/#/web), [4Search](https://www.4search.com/), [Info.com](https://www.info.com/), [Yahoo](https://www.yahoo.com/), [FrogFind!](http://frogfind.com/), [Visymo Search](https://search.visymo.com/), [AOL](https://search.aol.com/), [All in One](https://all-io.net/), [All the Internet](https://www.alltheinternet.com/), [eTools.ch](https://www.etools.ch/), [BizNar](https://biznar.com/biznar/desktop/en/search.html), [WorldWideScience](https://worldwidescience.org/), [ZincSearch](https://github.com/zincsearch/zincsearch), [Whoogle Search](https://benbusby.com/projects/whoogle-search/), [infospace](https://www.infospace.com/), [2lingual](https://www.2lingual.com/), [alexandria.org](https://www.alexandria.org/)
+[Bing](https://www.bing.com/), [Lycos](https://www.lycos.com/), [WebCrawler](https://www.webcrawler.com/), [Million Short](https://millionshort.com/), [Andi](https://andisearch.com/), [Excite](https://search.excite.com/), [Metacrawler](https://www.metacrawler.com/), [entireweb](https://www.entireweb.com/), [ChatNoir](https://www.chatnoir.eu/), [Carrot2](https://search.carrot2.org/#/web), [4Search](https://www.4search.com/), [Info.com](https://www.info.com/), [Yahoo](https://www.yahoo.com/), [FrogFind!](http://frogfind.com/), [Visymo Search](https://search.visymo.com/), [AOL](https://search.aol.com/), [All in One](https://all-io.net/), [All the Internet](https://www.alltheinternet.com/), [eTools.ch](https://www.etools.ch/), [BizNar](https://biznar.com/biznar/desktop/en/search.html), [WorldWideScience](https://worldwidescience.org/), [ZincSearch](https://github.com/zincsearch/zincsearch), [Whoogle Search](https://benbusby.com/projects/whoogle-search/), [infospace](https://www.infospace.com/), [2lingual](https://www.2lingual.com/), [alexandria.org](https://www.alexandria.org/)
 
 ***
 
@@ -387,16 +387,15 @@ http://104.131.175.196:8080/, http://70.88.180.169:8088/
 * https://pisovpn.com
 * https://www.lionssh.com/
 * https://www.sshocean.com/
-* https://www.vpnhack.com/
 * https://www.freevpn.us/
 * https://www.sshocean.net/
 * https://www.cloudssh.us/
 * https://starssh.com/
 * https://www.goodssh.com/
 * https://sshkit.com/
+* https://digitalssh.net/
 * https://www.jagoanssh.com/
 * https://dewassh.net/
-* https://digitalssh.net/
 * https://www.speedssh.com/
 * https://www.fastssh.com/
 * https://www.mytunneling.com/
@@ -541,7 +540,7 @@ http://104.131.175.196:8080/, http://70.88.180.169:8088/
 
 ### Animal Cams
 
-[Monterey Bay Aquarium](https://www.montereybayaquarium.org/animals/live-cams), [Curlie Webcam Animals](https://curlie.org/en/Computers/Internet/On_the_Web/Webcams/Animals), [San Diego Zoo](https://zoo.sandiegozoo.org/live-cams), [Zqoo.org](https://www.zoo.org/webcams), [AnimalsLife](https://animalslife.net/), [Africam](https://www.africam.com/wildlife/live-african-wildlife-safari-streams), [NationalZoo](https://nationalzoo.si.edu/webcams), [BirdCams](https://birdcams.live/), [CritterYard](https://critteryard.com/), [AquariumOfPacific](https://www.aquariumofpacific.org/exhibits/webcams)
+[Monterey Bay Aquarium](https://www.montereybayaquarium.org/animals/live-cams), [San Diego Zoo](https://zoo.sandiegozoo.org/live-cams), [Zqoo.org](https://www.zoo.org/webcams), [AnimalsLife](https://animalslife.net/), [Africam](https://www.africam.com/wildlife/live-african-wildlife-safari-streams), [NationalZoo](https://nationalzoo.si.edu/webcams), [BirdCams](https://birdcams.live/), [CritterYard](https://critteryard.com/), [AquariumOfPacific](https://www.aquariumofpacific.org/exhibits/webcams), [Curlie Webcam Animals](https://curlie.org/en/Computers/Internet/On_the_Web/Webcams/Animals)
 
 ***
 
@@ -968,7 +967,7 @@ http://104.131.175.196:8080/, http://70.88.180.169:8088/
 
 ## SMS Verification Sites
 
-[2ndline](https://www.2ndline.co/), [TextNow](https://www.textnow.com/), [SMS Online](https://sms-online.co/), [GetFreeSMSNUmber](https://getfreesmsnumber.com/), [SMS Receive](https://sms-receive.net/), [Receive SMS Online](https://www.receivesmsonline.net/), [receivesmsonline](https://receivesmsonline.in/), [1s2u](https://1s2u.com/), [My Trash Mobile](https://www.mytrashmobile.com/), [GlobFone](https://globfone.com/), [freesmsverification](http://freesmsverification.com/), [countrycode](https://countrycode.org/), [temp-sms](https://temp-sms.org/), [temporary-phone-number](https://temporary-phone-number.com/), [spoofbox](https://www.spoofbox.com/en/tool/trash-mobile/number), [receive-sms-online](https://www.receive-sms-online.info/), [smsfinders](https://smsfinders.com/), [mfreesms](https://mfreesms.com/), [yunjisms](https://yunjisms.xyz/), [smscodeonline](https://smscodeonline.com/), [mianfeijiema](https://mianfeijiema.com/), [jiemahao](https://jiemahao.com/), [storytrain](https://www.storytrain.info/), [Temp Number](https://temp-number.com/), [sms24](https://www.sms24.me/), [receive-smss](https://receive-smss.com), [freesmscenter](https://freesmscenter.com/), [receive-sms](https://receive-sms.cc/), [spytm](https://spytm.com/), [receive-sms-free](https://receive-sms-free.cc/), [sms-activation-service](https://sms-activation-service.com/), [burnerapp](https://www.burnerapp.com/), [tempsmss](https://tempsmss.com/), [quackr](https://quackr.io/), [freephonenum](https://freephonenum.com/), [smsnator](https://smsnator.online/), [InboxSMS](https://inboxsms.me/), [anonymsms](https://anonymsms.com/temporary-phone-number/), [onlinesim](https://onlinesim.io/), [ReceiveaSMS](https://receive-a-sms.com/), [Receive SMS Online Free](http://receivefreesms.com/), [smspool](https://www.smspool.net/free-sms-verification), [sms-activate](https://sms-activate.org/en/freeNumbers), [proovl](https://proovl.com/numbers), [receivefreesms](http://receivefreesms.net/), [receivesmsonline](http://receivesmsonline.in/), [hs3x](http://hs3x.com/), [receiveonlinesms](http://receiveonlinesms.biz/), [freereceivesmsonline](http://freereceivesmsonline.com/), [shejiinn](https://www.shejiinn.com/), [jiemadi](https://www.jiemadi.com/en)
+[2ndline](https://www.2ndline.co/), [TextNow](https://www.textnow.com/), [SMS Online](https://sms-online.co/), [GetFreeSMSNUmber](https://getfreesmsnumber.com/), [SMS Receive](https://sms-receive.net/), [Receive SMS Online](https://www.receivesmsonline.net/), [receivesmsonline](https://receivesmsonline.in/), [1s2u](https://1s2u.com/), [My Trash Mobile](https://www.mytrashmobile.com/), [GlobFone](https://globfone.com/), [freesmsverification](http://freesmsverification.com/), [countrycode](https://countrycode.org/), [temp-sms](https://temp-sms.org/), [temporary-phone-number](https://temporary-phone-number.com/), [spoofbox](https://www.spoofbox.com/en/tool/trash-mobile/number), [receive-sms-online](https://www.receive-sms-online.info/), [smsfinders](https://smsfinders.com/), [mfreesms](https://mfreesms.com/), [yunjisms](https://yunjisms.xyz/), [smscodeonline](https://smscodeonline.com/), [mianfeijiema](https://mianfeijiema.com/), [jiemahao](https://jiemahao.com/), [storytrain](https://www.storytrain.info/), [Temp Number](https://temp-number.com/), [sms24](https://www.sms24.me/), [receive-smss](https://receive-smss.com), [freesmscenter](https://freesmscenter.com/), [receive-sms](https://receive-sms.cc/), [spytm](https://spytm.com/), [receive-sms-free](https://receive-sms-free.cc/), [sms-activation-service](https://sms-activation-service.com/), [burnerapp](https://www.burnerapp.com/), [tempsmss](https://tempsmss.com/), [quackr](https://quackr.io/), [smsnator](https://smsnator.online/), [InboxSMS](https://inboxsms.me/), [anonymsms](https://anonymsms.com/temporary-phone-number/), [onlinesim](https://onlinesim.io/), [ReceiveaSMS](https://receive-a-sms.com/), [Receive SMS Online Free](http://receivefreesms.com/), [smspool](https://www.smspool.net/free-sms-verification), [sms-activate](https://sms-activate.org/en/freeNumbers), [proovl](https://proovl.com/numbers), [receivefreesms](http://receivefreesms.net/), [receivesmsonline](http://receivesmsonline.in/), [hs3x](http://hs3x.com/), [receiveonlinesms](http://receiveonlinesms.biz/), [freereceivesmsonline](http://freereceivesmsonline.com/), [shejiinn](https://www.shejiinn.com/), [jiemadi](https://www.jiemadi.com/en), [freephonenum](https://freephonenum.com/)
 
 ### No CC Required Trial Sites
 
