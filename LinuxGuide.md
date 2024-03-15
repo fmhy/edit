@@ -115,7 +115,7 @@
 * [Gromit MPX](https://github.com/bk138/gromit-mpx) - Screen Annotation
 * [Plumber](https://github.com/keshavbhatt/plumber) - Screen Recorder / Clipping
 * [AV Linux](https://www.bandshed.net/avlinux/) - Video / Audio Editor
-* [Flowblade](https://github.com/jliljebl/flowblade) - Video Editor
+* [Flowblade](https://jliljebl.github.io/flowblade/) - Video Editor
 * [Peek](https://github.com/phw/peek) - Simple Video / GIF recorder
 * [Linux-Fake-Background-Webcam](https://github.com/fangfufu/Linux-Fake-Background-Webcam/) - Fake Webcam Background
 * [fmedia](https://github.com/stsaz/fmedia) - Media Player and Converter
