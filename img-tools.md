@@ -497,12 +497,12 @@
 * ⭐ **[Search by Image](https://github.com/dessant/search-by-image)** - Browser Extension
 * ⭐ **[TinEye](https://tineye.com/)** - Fast Image Search / [Extension](https://tineye.com/extensions)
 * ⭐ **[same.energy](https://same.energy/)** - Visual Search Engine
+* ⭐ **[SmartImage](https://github.com/Decimation/SmartImage)** - Multi Search App
 * ⭐ **[Yandex Images](https://yandex.com/images/)** - Image Search
 * [Google Images](https://images.google.com/) - Image Search
 * [CopySeeker](https://copyseeker.net/) - Image Search
 * [VISE](https://www.robots.ox.ac.uk/~vgg/software/vise/) - Image Search with Search Queries
 * [SauceNao](https://saucenao.com/) - Multi Search / [Extension](https://saucenao.com/tools/)
-* [SmartImage](https://github.com/Decimation/SmartImage) - Multi Search App
 * [Have I Been Trained?](https://haveibeentrained.com/) - AI Image Search
 * [RootAbout](https://rootabout.com/) - Archive / OpenLibrary Reverse Image Search
 * [PimEyes](https://pimeyes.com/en/) - Reverse Face Image Search
