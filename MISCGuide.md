@@ -194,7 +194,8 @@
 * [Best Times to Visit](https://www.thebesttimetovisit.com/) - Find Best Times to Visit Countries
 * [Roadside America](https://www.roadsideamerica.com/), [RoadTrippers](https://roadtrippers.com/) or [MakeMyDriveFun](https://makemydrivefun.com/) - Roadside Attraction Guides
 * [TheSalmons](https://www.thesalmons.org/lynn/whgmap.html) - World Heritage Sites
-* [SongKick](https://www.songkick.com/) or [FindYourFest](https://www.findyourfest.com/) - Concerts / Music Festival Search
+* [SongKick](https://www.songkick.com/) or [FindYourFest](https://www.findyourfest.com/) - Find Concerts / Music Festivals
+* [Cadenza](http://www.cadenza.org/) - Find Classical / Contemporary Concerts
 * [DemoParty](https://www.demoparty.net/) - Find Demoscene Events
 * [Retro Directory](https://retro.directory/) - Find Arcades / Vintage Shops
 * [AnimeCons](https://animecons.com/) - Find Anime Conventions
@@ -299,7 +300,7 @@
 * [Infrapedia](https://www.infrapedia.com/) - Network / Datacenter Map
 * [CellMapper](https://www.cellmapper.net/) - Cell Tower Map
 * [Spectrum Ownership Map](https://specmap.sequence-omega.net/) - Cell Carrier FCC Spectrum Map
-* [Wigle](https://wigle.net/) - 802.11 Wireless Network Map
+* [Wigle](https://wigle.net/) - Wireless Network Mapping
 * [Broadband Map](https://broadbandmap.fcc.gov/) - Fixed Broadband Deployment Map
 * [KCG2](https://prop.kc2g.com/) - Ionospheric Conditions Map
 * [Sentinel Playground](https://apps.sentinel-hub.com/sentinel-playground/) - Vegetation and Moisture Map
@@ -879,7 +880,7 @@
 * [StageTimer](https://stagetimer.io/) - Event Timer
 * [whena.re](https://whena.re/) - Friend / Team Timezone Viewer
 * [Countdowns](https://www.countdowns.live/) - Create Custom Countdowns
-* [A Bra That Fits](https://www.abrathatfits.org/calculator.php) - Bra Size Calculator
+* [A Bra That Fits](https://www.abrathatfits.org/calculator.php) or [BraMetric](https://brametric.com/) - Bra Size Calculators
 * [FigureRealm](https://www.figurerealm.com/) - Track Action Figure Collection
 * [AllBadges](https://allbadges.net/en) - Track Badge Collection
 * [Wheel Decide](https://wheeldecide.com/), [PickerWheel](https://pickerwheel.com/), [HeySpinner](https://heyspinner.com/) or [Wheel of Names](https://wheelofnames.com/) - Wheel Randomizers
