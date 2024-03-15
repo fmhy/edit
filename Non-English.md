@@ -998,6 +998,7 @@
 * [Rei dos Torrents](https://reidostorrents.com) - Video / Audio / Books / Sub / Dub / 1080p
 * [Os Reformados](https://osreformados.com) - Video / Audio / Magazines / Sub / Dub / 1080p
 * [Baixar Séries MP4](https://baixarseriesmp4.pm) - Movies / TV / Anime / Sub / Dub / 1080p
+* [Filmes Mega](https://filmesmega.online/) -  Movies / TV / Anime / Sub / Dub / 1080p
 * [KSensei](https://karinsensei.com) - Anime / Sub / 720p
 * [Online Cursos Gratuitos](https://onlinecursosgratuitos.com) - Courses
 * [Escola Educação](https://escolaeducacao.com.br/estude-gratis) - Courses
@@ -1009,7 +1010,6 @@
 * [OnTorrent](https://ontorrent.org/) - Movies / TV
 * [Torrent dos Filmes](https://torrentdosfilmes.se) - Movies / TV
 * [Comando](https://comando.la) - Movies / TV
-* [Filmes Mega](https://filmesmega.online/) - Movies / TV
 * [Mega Torrents](https://megatorrents.co) - Movies / TV
 * [Filmes Épicos](http://www.filmesepicos.com) - Movies
 * [Download Cult](http://downloadcult.org) - Classic Movies
