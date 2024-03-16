@@ -404,7 +404,7 @@
 
 * ↪️ **[IPTV Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_iptv_tools)** or [Awesome IPTV](https://github.com/iptv-org/awesome-iptv) - IPTV Resources / [Players](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_m3u_players) / [Playlists](https://rentry.co/FMHYBase64#iptv-playlists) / [Search](https://www.foodieguide.com/iptvsearch/)
 * ⭐ **[Sportsurge](https://sportsurge.net/)**- Sports / Stream Locator
-* ⭐ **[Streamed](https://streamed.su/)** - Sports
+* ⭐ **[Streamed](https://streamed.su/)** - Sports / [](https://discord.gg/Q97qFv4D)
 * ⭐ **[EasyWebTV](https://zhangboheng.github.io/Easy-Web-TV-M3u8/routes/countries.html)** - TV / Sports / 1080p
 * ⭐ **[FSL](https://a.fsl-stream.im/)** - Sports / 720p / [Discord](https://discord.gg/eXXJzDPchU)
 * ⭐ **[IPTV Web](https://iptv-web.app/)** - TV / Sports
