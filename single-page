@@ -110,7 +110,6 @@
 * [Bitsearch](https://bitsearch.to/)
 * [Torrent Finder](https://torrent-finder.com/)
 * [TorrentDownload](https://www.torrentdownload.info/)
-* [Dirty Torrents](https://dirtytorrents.com/)
 * [TorrentQuest](https://torrentquest.com/)
 * [DaMag](https://damag.net/)
 * [Cleanbay](https://cleanbay.netlify.app/)
