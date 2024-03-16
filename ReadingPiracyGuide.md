@@ -152,6 +152,18 @@
 
 ***
 
+## ▷ Calibre Libraries
+
+* ⭐ **[Calishot](http://85.10.194.198:5001/index/summary)** - Calibre Library
+* ⭐ **[Ebook-Translator](https://github.com/bookfere/Ebook-Translator-Calibre-Plugin)** - Calibre Translators
+* [opencalibre](https://reddit.com/r/opencalibre) - Calibre Library / [Search](https://www.shodan.io/search?query=server%3A+calibre) / [Web App](https://github.com/janeczku/calibre-web)
+* [Calibre Library List](https://pastebin.com/LS39rWhM) - Calibre Libraries
+* [Demeter](https://github.com/gnur/demeter) - Calibre Scraper
+* [acsm-calibre-plugin](https://github.com/Leseratte10/acsm-calibre-plugin) - ACSM Plugin
+* [libgen-calibre-store-plugin](https://github.com/poochinski9/libgen-calibre-store-plugin) - Libre Plugin
+
+***
+
 ## ▷ Classic Books
 
 * [Page by Page Books](https://www.pagebypagebooks.com/)
