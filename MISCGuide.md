@@ -1314,6 +1314,7 @@
 * [Long Doge Challenge](https://longdogechallenge.com/) - Worlds Longest Doge
 * [Endless Horse](http://endless.horse/) - Worlds Longest Horse
 * [Money printer go BRRR](https://brrr.money/) - Print it, baby!
+* [Face Shape AI](https://www.detect-face-shape.com) - Face Shape Detector
 * [You wouldn't steal a website](https://youwouldntsteala.website/) - Steal a Website
 * [Shell Color Scripts](https://gitlab.com/dwt1/shell-color-scripts) - Terminal Color Scripts
 * [Bad Licenses](https://github.com/ErikMcClure/bad-licenses) - Funny Open Source Licenses Index
