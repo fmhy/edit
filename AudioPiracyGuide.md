@@ -634,7 +634,6 @@
 * [Melodie](https://feugy.github.io/melodie/)
 * [Dopamine](https://github.com/digimezzo/dopamine-windows)
 * [LED FX](https://www.ledfx.app/) - LED Music Sync
-* [Sunamu](https://github.com/NyaomiDEV/Sunamu) - Now Playing Songs Display
 * [VinylEngine](https://www.vinylengine.com/) - Record Player / Vinyl Info 
 
 ***
