@@ -151,36 +151,6 @@
 
 ***
 
-## Calendars
-
-* ⭐ **[Cal.com](https://cal.com/)** - [GitHub](https://github.com/calcom/cal.com)
-* [GanttProject](https://www.ganttproject.biz/) - Project Scheduling App
-* [Pick Time](https://pick-time.io/) - Easily Schedule Times with Friends
-
-[Tweek](https://tweek.so/), [TinyMonth](https://tinymonth.com/), [TOAST UI Calendar](https://github.com/nhn/tui.calendar), [Gantt](https://github.com/neuronetio/gantt-schedule-timeline-calendar), [Morgen](https://www.morgen.so/)
-
-### World Event Calendars
-
-[Office Holidays](https://www.officeholidays.com/), [Forekast](https://forekast.com/) 
-
-***
-
-## Calibre Libraries
-
-* ⭐ **[Calishot](http://85.10.194.198:5001/index/summary)**
-
-* [opencalibre](https://reddit.com/r/opencalibre) - [Search](https://www.shodan.io/search?query=server%3A+calibre) / [Web App](https://github.com/janeczku/calibre-web)
-
-http://104.131.175.196:8080/, http://70.88.180.169:8088/
-
-### Calibre Tools
-
-* ⭐ **[Ebook-Translator](https://github.com/bookfere/Ebook-Translator-Calibre-Plugin)**
-
-[ACSM Plugin](https://github.com/Leseratte10/acsm-calibre-plugin) / [Libre Plugin](https://github.com/poochinski9/libgen-calibre-store-plugin) / [Scraper](https://github.com/gnur/demeter)
-
-***
-
 ## CLI Cheat Sheets
 
 * ⭐ **[Linux Command Library](https://linuxcommandlibrary.com/)**
