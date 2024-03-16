@@ -981,13 +981,11 @@
 ## ▷ Image / Video
 
 * ↪️ **[Random Images](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_random_generators)**
-* ↪️ **[Random GIFs](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/img-tools#wiki_.25B7_gif_tools)**
+* ↪️ **[GIF Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/img-tools#wiki_.25B7_gif_tools)**
+* ↪️ **[Meme Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/img-tools#wiki_.25B7__meme_tools)**
 * ↪️ **[Random Webcams](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_live_webcams)**
-* ↪️ **[Meme Creators](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/img-tools#wiki_.25B7__meme_makers)**
 * ↪️ **[4chan Archives](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/social-media#wiki_.25B7_4chan_archives)**
 * ⭐ **[SakugaBooru](https://www.sakugabooru.com/)** - Anime Animation Booru / [Enhancements](https://chromewebstore.google.com/detail/sakuga-extended/khmnmdaghmhkcbooicndamlhkcmpklmc)
-* ⭐ **[KnowYourMeme](https://knowyourmeme.com/)** or [FndThatMeme](https://findthatmeme.com/) - Meme Databases
-* ⭐ **[TierMaker](https://tiermaker.com/)** - Tier List Image Creator
 * [z0r](https://z0r.de/) - Random Music GIFs / Some NSFW
 * [DreamWidth](https://www.dreamwidth.org/) - User-Made Images & Stories
 * [MSPFA](https://mspfa.com/) - MS Paint Fan Adventures
@@ -1044,7 +1042,6 @@
 * [Blue Ball Machine 2](https://blueballmachine2.ytmnd.com/) - Full Page Chain Reaction Image
 * [Magnet Poetry](https://sadgrl.online/magnet-poetry) - Magnet Poetry
 * [Useless Certifications](https://uselesscertifications.com/) - Useless Certifications
-* [AwesomeCars](https://awesomecars.neocities.org/) - Drip Car Memes
 * [Anime Girls Holding Programming Books](https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books/)
 * [webgbcam](https://maple.pet/webgbcam/) - Game Boy Camera in Browser
 * [Terminal Video Player](https://github.com/TheRealOrange/terminalvideoplayer) - Cursed Terminal Video Player
