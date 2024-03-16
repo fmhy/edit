@@ -446,8 +446,10 @@
 
 ***
 
-## ▷  Meme Makers
+## ▷  Meme Tools
 
+* ⭐ **[KnowYourMeme](https://knowyourmeme.com/)** or [FndThatMeme](https://findthatmeme.com/) - Meme Databases
+* ⭐ **[TierMaker](https://tiermaker.com/)** - Tier List Image Creator
 * [ImgFlip](https://imgflip.com/memegenerator), [Meme Generator](https://www.memegenerator.top/), [Meme Town](https://meme.town/), [MemeBetter](https://memebetter.com/), [meme-generator](https://newfastuff.com/meme-generator/) or [Emacs Meme Generator](https://github.com/larsmagne/meme) - Meme Creators
 * [MemeCam](https://www.memecam.io/) - AI Meme Generator
 * [Memegine](https://memegine.com/) - Meme Search Engine
@@ -457,6 +459,7 @@
 * [Morbotron](https://morbotron.com/) - Futurama Meme Generator
 * [BreakYourOwnNews](https://www.breakyourownnews.com/) - Breaking News Meme Generator
 * [AnimorphGenerator](https://animorphgenerator.com/) - Animorph Image Generator
+* [AwesomeCars](https://awesomecars.neocities.org/) - Drip Car Memes
 
 ***
 
