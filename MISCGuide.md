@@ -1193,6 +1193,7 @@
 * [Six Triangles](https://sixtriangles.github.io/), [9 Axes](https://9axes.github.io/), [8dreams](https://8dreams.github.io/), [ISideWith](https://www.isidewith.com/) or [8 Values](https://8values.github.io/) - Political Alignment Test
 * [Goody2](https://www.goody2.ai/chat) - Worlds Most Ethical AI
 * [HowNormalAmI?](https://www.hownormalami.eu/) - Face Judge A.I.
+* [Face Shape AI](https://www.detect-face-shape.com) - Face Shape Detector
 * [OnThisDay](https://www.onthisday.com/) - What Happened on Specific Days
 * [You're Getting Old](https://you.regettingold.com/) - Age Perspective
 * [DeathDate.info](https://deathdate.info/), [DeathDate.org](https://www.deathdate.org/), [Fortunteller Deathdate](https://www.free-fortuneteller.com/deathdate), [DeathClock.com](http://deathclock.com/) or [Death-Clock](https://www.death-clock.org/) - Calculate Your Day of *DEATH* (how fun!)
