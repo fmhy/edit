@@ -224,7 +224,7 @@
 # ► Maps
 
 * 🌐 **[Awesome Maps](https://github.com/simsieg/awesome-maps)** - Online Map Resources
-* 🌐 **[Historical Maps](https://history-maps.com/)**, [AP World History Notes Visual](https://worldmap.maps.arcgis.com/home/index.html), [Geacron](http://geacron.com/), [Cronobook](https://cronobook.com/), [EuraAtlas](https://euratlas.com/), [Historical City Maps]( https://redd.it/61fdp6), [GeoGarage](https://rumsey.geogarage.com/index.html), [Digital Collection](https://digitalcollections.nypl.org/search/index?filters[physicalLocation_mtxt_s][]=Map+Division), [Loc Maps](https://www.loc.gov/collections/general-maps/), [OpenHistoricalMap](https://www.openhistoricalmap.org/), [MapHistory](https://www.maphistory.info/index.html)
+* 🌐 **[Historical Maps](https://history-maps.com/)**, [AP World History Notes Visual](https://worldmap.maps.arcgis.com/home/index.html), [Geacron](http://geacron.com/), [Cronobook](https://cronobook.com/), [EuraAtlas](https://euratlas.com/), [Historical City Maps]( https://redd.it/61fdp6), [GeoGarage](https://rumsey.geogarage.com/index.html), [DavidRumsey](https://www.davidrumsey.com/), [Digital Collection](https://digitalcollections.nypl.org/search/index?filters[physicalLocation_mtxt_s][]=Map+Division), [Loc Maps](https://www.loc.gov/collections/general-maps/), [OpenHistoricalMap](https://www.openhistoricalmap.org/), [MapHistory](https://www.maphistory.info/index.html) - Historical Map Archives
 * ↪️ **[Satellite / Street View Maps](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_satellite_.26amp.3B_street_view_maps)**
 * ⭐ **[OpenStreetMap](https://www.openstreetmap.org/)** / [3D View](https://streets.gl/) / [Search](https://nominatim.openstreetmap.org/ui/search.html), [2](https://overpass-turbo.eu/), [KartaView](https://kartaview.org/landing), [Waze](https://www.waze.com/) / [Editor](https://www.waze.com/en-US/editor), [Open Infrastructure Map](https://openinframap.org/), [FacilMap](https://facilmap.org/), [OutdoorMaps](https://outdoormaps.eu/), [OSMapp](https://osmapp.org/), [ABC Map](https://abc-map.fr/) or [Mapillary](https://www.mapillary.com/) - Street Maps
 * ⭐ **[Routora](https://chromewebstore.google.com/detail/routora-google-maps-route/jdddfnfohdeaklgkpglonlofgapjgfbp)** - Google Maps Route Optimization
@@ -1191,6 +1191,7 @@
 * [theOtaku](https://theotaku.com/quizzes) - Anime Personality Quizzes
 * [Bestiefy](https://bestiefy.com/) - Friend Quizzes
 * [Six Triangles](https://sixtriangles.github.io/), [9 Axes](https://9axes.github.io/), [8dreams](https://8dreams.github.io/), [ISideWith](https://www.isidewith.com/) or [8 Values](https://8values.github.io/) - Political Alignment Test
+* [IDRlabs](https://www.idrlabs.com/sexual-orientation/test.php) - Sexual Orientation Test
 * [Goody2](https://www.goody2.ai/chat) - Worlds Most Ethical AI
 * [HowNormalAmI?](https://www.hownormalami.eu/) - Face Judge A.I.
 * [Face Shape AI](https://www.detect-face-shape.com) - Face Shape Detector
