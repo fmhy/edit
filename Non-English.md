@@ -498,6 +498,7 @@
 * [Watch It](https://israwatch.cc/), [2](https://wallaflix.com/) - Movies / TV
 * [TVFeel](https://tvfeel.cc/) - Movies / TV
 * [Sdarot](https://sdarot-flix.com/) - Movies / TV
+* [Zobi](https://zobi.pw/) - TV
 * [JFC](https://jfc.org.il/) - Israel Movie Archive
 * [Animeil-TV](https://www.animeil-tv.com/) - Anime / [Telegram](https://t.me/AnimeILTVDiscussion)
 * [GURUTV](https://gurutv.online/) - Live TV
