@@ -6,7 +6,7 @@
 
 # ► Android APKs
 
-* ⭐ **[AppManager](https://github.com/MuntashirAkon/AppManager/)** - Package Manager
+* ⭐ **[AppManager](https://muntashirakon.github.io/AppManager/)** - Package Manager
 * ⭐ **[Lucky Patcher](https://www.luckypatchers.com/download/)** - App Patcher / [Avoid "LP Downloader"](https://pastebin.com/UXxaVqX9)
 * ⭐ **Lucky Patcher Tools** - [Guide](https://flixbox.github.io/lp-compat/docs/intro) / [Compatibility](https://flixbox.github.io/lp-compat/) / [Subreddit](https://www.reddit.com/r/luckypatcher/) / [Discord](https://discord.com/invite/RS5ddYf7mw)
 * ⭐ **[Android APK CSE](https://cse.google.com/cse?cx=e0d1769ccf74236e8)** / [CSE 2](https://cse.google.com/cse?cx=73948689c2c206528) / [CSE 3](https://cse.google.com/cse?cx=a805854b6a196d6a6), [App Finder](https://play.google.com/store/apps/details?id=scadica.aq) or [ShowAppsLike](https://showappslike.com/) - APK Search Engines
@@ -16,7 +16,7 @@
 * [InstallWithOptions](https://github.com/zacharee/InstallWithOptions/) or [Geto](https://github.com/JackEblan/Geto) - Install APKs with Extra Options
 * [Raccoon](https://raccoon.onyxbits.de/) - Private APK Downloader
 * [APKeep](https://github.com/EFForg/apkeep) - APK Download CLIs
-* [Kanade](https://github.com/alexrintt/kanade) - APK Extractors
+* [Kanade](https://alexrintt.io/kanade/) - APK Extractor
 * [APK Editor Studio](https://qwertycube.com/apk-editor-studio/) - APK Editor
 * [AppBrain](https://www.appbrain.com/) - View APK Statistics
 * [APKTool](https://github.com/iBotPeaches/Apktool) - APK Reverse Engineering Tool
@@ -114,7 +114,7 @@
 * ⭐ **[Niagara Launcher](https://niagaralauncher.app/)** - Single-Hand Launcher
 * ⭐ **[Lawnchair](https://lawnchair.app/)** - Pixel-Based Launcher / [Feed](https://github.com/LawnchairLauncher/lawnfeed/releases/download/v3.0.0/Lawnfeed.3.apk) / [Icons](https://github.com/LawnchairLauncher/lawnicons/releases/download/v2.5.0/Lawnicons-2.5.0.apk)
 * [SmartLauncher](https://www.smartlauncher.net/) - Minimalist / Clean Launcher
-* [Discreet Launcher](https://github.com/falzonv/discreet-launcher) - Minimalist / Clean Launcher
+* [Discreet Launcher](https://vincent-falzon.com/) - Minimalist / Clean Launcher
 * [Lunar Launcher](https://github.com/iamrasel/lunar-launcher) - Minimalist / Clean Launcher
 * [Olauncher](https://github.com/tanujnotes/Olauncher) - Minimalist / Clean Launcher
 * [ReZ Launcher](https://play.google.com/store/apps/details?id=com.perryoncrack.rez) - Minimalist / Clean Launcher
@@ -493,7 +493,7 @@
 
 * ↪️ **[Social Media Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/social-media/)**
 * ↪️ **[Twitch Adblockers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/social-media#wiki_.25B7_twitch_adblockers)**
-* ⭐ **[Aliucord](https://github.com/Aliucord/Aliucord)** or [Revenge](https://github.com/revenge-mod/Revenge) - Modded Discord Clients / [Rich Presence](https://kizzy.vercel.app/)
+* ⭐ **[Aliucord](https://github.com/Aliucord/Aliucord)**, [Bunny](https://github.com/pyoncord/Bunny) or [Revenge](https://github.com/revenge-mod/Revenge) - Modded Discord Clients / [Rich Presence](https://kizzy.vercel.app/)
 * ⭐ **[Voyager](https://github.com/aeharding/voyager)**, [Jerboa](https://github.com/dessalines/jerboa), [Eternity](https://codeberg.org/Bazsalanszky/Eternity), [Muffed](https://github.com/freshfieldreds/muffed) or [Thunder](https://github.com/thunder-app/thunder) - Lemmy Clients
 * ⭐ **[Tusky](https://tusky.app/),** [SubwayTooter](https://github.com/tateisu/SubwayTooter), [Megalodon](https://sk22.github.io/megalodon/) or [Dimett](https://github.com/MateriiApps/Dimett) - Mastodon Clients / [Improved Notifications](https://github.com/LucasGGamerM/moshidon)
 * ⭐ **[Patch Reddit Clients](https://docs.google.com/document/u/0/d/1wHvqQwCYdJrQg4BKlGIVDLksPN0KpOnJWniT6PbZSrI/mobilebasic)** - How To Patch 3rd Party Reddit Clients
@@ -716,7 +716,7 @@
 * [Musify](https://gokadzev.github.io/Musify/) - Streaming
 * [Modded Tidal](https://forum.mobilism.org/search.php?keywords=tidal&sr=topics&sf=titleonly) - Steaming / Download
 * [Seeker](https://github.com/jackBonadies/SeekerAndroid), [Datmusic](https://github.com/alashow/datmusic-android) or [AIDS](https://forum.mobilism.org/search.php?st=0&sk=t&sd=d&sr=topics&keywords=aids&sf=titleonly) - Download / MP3
-* [Funkwhale](https://dev.funkwhale.audio/funkwhale/funkwhale-android), [Trebel](https://home.trebel.io/), [BlackHole](https://github.com/Sangwan5688/BlackHole), [VK X](https://vkx.app/) or [Deezer](https://play.google.com/store/apps/details?id=deezer.android.app) - Streaming
+* [Funkwhale](https://dev.funkwhale.audio/funkwhale/funkwhale-android), [Trebel](https://home.trebel.io/), [VK X](https://vkx.app/) or [Deezer](https://play.google.com/store/apps/details?id=deezer.android.app) - Streaming
 * [Otter](https://github.com/apognu/otter) - Music Sharing App
 * [Music Time Travel](https://play.google.com/store/apps/details?id=com.zh.musictimetravel) - Music Discovery
 * [HZP](https://hzp.co/) - Solfeggio Frequency Player
