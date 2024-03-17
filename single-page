@@ -2352,6 +2352,9 @@
 * [by.com.vn](https://by.com.vn/) - `by.com.vn/tKYeSo`
 * [sum.vn](https://sum.vn/) - `sum.vn/DTrXk`
 * [ref.vn](https://ref.vn/) - `ref.vn/czuqfm`
+* [picsee](https://picsee.io/) - `psee.io/5pye68`
+* [soo.run](https://soo.run) - `soo.run/e0j07`
+* [pxmd](https://pxmd.co/) - `pxmd.co/8HDku`
 * [jii.li](https://jii.li/) - `jii.li/hNFXP`
 * [Rebrandly](https://www.rebrandly.com/) - `rb.gy/4m25hq` / [Extension](https://mybrowseraddon.com/g-url-shortener.html)
 * [zws](https://zws.im/) - `zws.im/󠁡󠁷󠁴󠁪󠁷󠁫󠁯`
@@ -2388,7 +2391,7 @@
 * [Temporary-Url](https://www.temporary-url.com/) - Temporary URLs / QR Codes 
 * [scrt.link](https://scrt.link/) - Single Use Links
 * [AmputatorBot](https://www.amputatorbot.com/) - Remove AMP from URLs
-* [QR Code Generator](https://www.qr-code-generator.com/), [QRCode Monkey](https://www.qrcode-monkey.com/), [2qr](https://2qr.info/) or [link-to-qr](https://link-to-qr.com/) - QR Code Generator For URLs / Text 
+* [HoverCode](https://hovercode.com/), [QR Code Generator](https://www.qr-code-generator.com/), [QRCode Monkey](https://www.qrcode-monkey.com/), [2qr](https://2qr.info/) or [link-to-qr](https://link-to-qr.com/) - QR Code Generator For URLs / Text 
 * [AnyImage](https://anyimage.io/) - Create Social Card Links
 * [urlportal](https://raw.githubusercontent.com/gotbletu/shownotes/master/urlportal.sh) - Custom URL Handler
 * [Web Check](https://web-check.xyz/), [NSLookup](https://www.nslookup.io/) or [dog](https://github.com/ogham/dog) - DNS Information Tool
@@ -2595,7 +2598,6 @@
 * [Stylus](https://add0n.com/stylus.html) - Custom Website Color Schemes
 * [Stylebot](https://stylebot.dev/) - Modify Webpages
 * [Screen Color Temperature](https://mybrowseraddon.com/screen-color-temperature.html) - Adjust Screen Color Temperature
-* [Font Changer](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_webfont_changer) - WebFont Changer 
 * [ColorZilla](https://www.colorzilla.com/) or [ColorFish](https://ui.vision/colorfish) - Color Picker
 * [Clippings](https://aecreations.io/clippings/index.php) or [Quick Copy](https://github.com/ramitmittal/quick-copy) - Clipboard Manager
 * [Emoji Addon](https://www.emojiaddon.com/) - Quickly Copy / Paste Emojis
@@ -2604,7 +2606,7 @@
 * [Copy Selection as Markdown](https://github.com/0x6b/copy-selection-as-markdown) - Copy Text as Markdown 
 * [CopyFish](https://ocr.space/copyfish) - Grab Text from Images 
 * [Talkie](https://joelpurra.com/projects/talkie/) or [Offline Text to Speech](https://virejdasani.github.io/OfflineTextToSpeech-Extension/) - Text to Speech
-* [Text Link](https://piro.sakura.ne.jp/xul/textlink/index.html.en) - Make Non-Hyperlinked URLs Clickable
+* [Text Link](hhttps://github.com/piroor/textlink/) - Make Non-Hyperlinked URLs Clickable
 * [Cookie-AutoDelete](https://github.com/Cookie-AutoDelete/Cookie-AutoDelete) - Auto Delete Cookies
 * [I still don't care about cookies](https://github.com/OhMyGuus/I-Still-Dont-Care-About-Cookies) or [Consent-O-matic](https://consentomatic.au.dk/) / [2](https://github.com/cavi-au/Consent-O-Matic) - Block Cookie Consent Popups
 * [EditThisCookie](https://www.editthiscookie.com/) or [Cookie-Editor](https://cookie-editor.cgagnier.ca/) - Cookies Managers
@@ -2762,25 +2764,18 @@
 * 🌐 **[Awesome Userscripts](https://github.com/awesome-scripts/awesome-userscripts)**, [XIU2](https://github.com/XIU2/UserScript), [Scripts](https://gitlab.com/loopvid/scripts) or [Userscript.zone](https://www.userscript.zone/) - Userscript Indexes
 * ⭐ **[Violentmonkey](https://violentmonkey.github.io/)**, **[Tampermonkey](https://www.tampermonkey.net/)**, or [Firemonkey](https://addons.mozilla.org/en-US/firefox/addon/firemonkey/) - Userscript Managers
 * ⭐ **[Greasy Fork](https://greasyfork.org/)**, [OpenUserJS](https://openuserjs.org/) or [Userscripts](https://userscripts-mirror.org/) - Install Userscripts / [Git Install](https://greasyfork.org/en/scripts/6456)
-* ⭐ **Greasy Fork Tools** - [Enhancements](https://greasyfork.org/en/scripts/431584), [2](https://greasyfork.org/en/scripts/473830) / [Helper](https://greasyfork.org/en/scripts/393396) / [Tweaks](https://greasyfork.org/en/scripts/368183) / [Cleanup Script](https://greasyfork.org/en/scripts/12179) / [Themes](https://greasyfork.org/en/scripts/4336) / [Dark Theme](https://greasyfork.org/en/scripts/404443)
+* ⭐ **Greasy Fork Tools** - [Enhancements](https://greasyfork.org/en/scripts/473830) / [Helper](https://greasyfork.org/en/scripts/393396) / [Tweaks](https://greasyfork.org/en/scripts/368183) / [Cleanup Script](https://greasyfork.org/en/scripts/12179) / [Themes](https://greasyfork.org/en/scripts/4336) / [Dark Theme](https://greasyfork.org/en/scripts/404443)
 * ⭐ **[Userscripts Guide](https://rentry.co/userscript-guide)**
 * ⭐ **[Picviewer CE+](https://greasyfork.org/en/scripts/24204)** - Image Viewing Tool
-* [2ch-captcha-solver](https://gitgud.io/IeatMonkeysLOL/2ch-captcha-solver-plugin/-/tree/master/) - 2CH Captcha Solver
-* [Solved Media Plus](https://greasyfork.org/en/scripts/422074-solved-media-plus) - Image Captcha Solver
 * [Bypass Google Sorry](https://greasyfork.org/en/scripts/447130) - Bypass Google reCAPTCHA
 * [Remove Web Limits](https://greasyfork.org/en/scripts/28497) / [Mod](https://greasyfork.org/en/scripts/386908) - Force Enable Right Click
 * [Select text inside a link like Opera](https://greasyfork.org/en/scripts/789-select-text-inside-a-link-like-opera) - Select Text Inside Links
 * [Select All Checkboxes](https://greasyfork.org/en/scripts/22587) - Auto Check All Boxes
 * [Always Remember Me](https://openuserjs.org/scripts/Patabugen/Always_Remember_Me) - Always Tick "Remember Me" 
 * [Direct Links Out](https://openuserjs.org/scripts/nokeya/Direct_links_out) - Remove "You are Leaving" Site Popups
-* [Google Cleaner](https://greasyfork.org/en/scripts/33313-google-cleaner) - Minimalist Google
 * [Google Hit Hider](https://greasyfork.org/en/scripts/1682) - Hide Sites in Search Results
-* [altsearch links](https://greasyfork.org/en/scripts/13542-altsearch-links) - Adds General Search Engines to Results
 * [DownloadAllContent](https://greasyfork.org/en/scripts/25068) - Download Content from Pages
 * [Microsoft Store Direct Download](https://greasyfork.org/en/scripts/394420-microsoft-store-direct-download) - Microsoft Store Direct Downloads
-* [Sleek YouTube Downloader](https://greasyfork.org/en/scripts/438233) - Add Download Buttons to YouTube
-* [y2monkey](https://github.com/jijirae/y2monkey) - Download YouTube videos by pressing "SHIFT+D" (opens y2mate.com)
-* [r2monkey](https://github.com/jijirae/r2monkey) - Download Reddit videos by pressing "SHIFT+D" (opens RapidSave.com)
 * [Maximize Video](https://greasyfork.org/en/scripts/4870) - Maximize Playing Videos via Button
 * [HTML5 video player enhanced script](https://greasyfork.org/en/scripts/381682-html5)
 * [TimerHooker](https://timer.palerock.cn/en/) - YouTube Video Speed Control
