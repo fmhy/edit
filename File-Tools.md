@@ -104,6 +104,7 @@
 * [File-Coversion](https://www.files-conversion.com/) - File Converter
 * [11zon](https://www.11zon.com/) - File Converter
 * [Convert Town](https://convert.town/) - File Converter
+* [Docspal](https://www.docspal.com/) - File Converter
 * [Better Converter](https://better-converter.com/) - File Converter
 * [conversion-tool](https://www.conversion-tool.com/) - File Converter
 * [go4convert](https://go4convert.com/) - File Converter
@@ -240,7 +241,7 @@
 
 ## ▷ PDF Tools
 
-* ⭐ **[Sejda](https://www.sejda.com/)**, [ILovePDF](https://www.ilovepdf.com/) or [SimplePDF](https://simplepdf.eu/) - Online PDF Toolkits
+* ⭐ **[Sejda](https://www.sejda.com/)**, [ILovePDF](https://www.ilovepdf.com/), [PDF2Go](https://www.pdf2go.com/) or [SimplePDF](https://simplepdf.eu/) - Online PDF Toolkits
 * ⭐ **[PDFGear](https://www.pdfgear.com/)**, [xPDFReader](https://www.xpdfreader.com/), [PDF Arranger](https://github.com/pdfarranger/pdfarranger), [PrivatePDF](https://github.com/photown/private-pdf), [PDFBox](https://pdfbox.apache.org/) or [OpenPDF](https://github.com/LibrePDF/OpenPDF) - PDF Editors / Toolkits
 * [PDFGrep](https://pdfgrep.org/) - PDF Text Search
 * [View-only PDF](https://rentry.co/cm4b7) - Download View-Only PDF on GDrive
