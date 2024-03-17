@@ -8820,7 +8820,7 @@ Linux Gaming Guide
 * [Rollideo](https://rollideo.com/) - Text to Subbed Video
 * [Video Llava](https://replicate.com/nateraw/video-llava) - Video Description AI
 * [Anime4K](https://github.com/bloc97/Anime4K) - Anime Video Upscaler
-* [TinyVid](https://kamua.com/tinyvid), [VideoSmaller](https://www.videosmaller.com/), [Compress Video Online](https://compress-video-online.com/), [8mb.video](https://8mb.video/) or [MP4Compress](https://www.mp4compress.com/) - Video Compressors
+* [TinyVid](https://kamua.com/tinyvid), [VideoSmaller](https://www.videosmaller.com/), [YouCompress](https://www.youcompress.com/), [Compress Video Online](https://compress-video-online.com/), [8mb.video](https://8mb.video/) or [MP4Compress](https://www.mp4compress.com/) - Video Compressors
 * [videoduplicatefinder](https://github.com/0x90d/videoduplicatefinder) - Duplicate Video Finder
 * [SimSwap](https://github.com/neuralchen/SimSwap) or [Roop](https://github.com/s0md3v/roop) - Video Face Swap Tools
 * [deepware](https://scanner.deepware.ai/) - Detect Deepfake Videos
@@ -8998,6 +8998,7 @@ Linux Gaming Guide
 
 ## ▷ MPV Tools
 
+* ↪️  **[MPV Shaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_mpv_shaders)** -
 * [MPV Config Guide](http://thewiki.moe/tutorials/mpv/), [2](https://iamscum.wordpress.com/guides/videoplayback-guide/mpv-conf/), [3](https://kokomins.wordpress.com/2019/10/14/), [4](https://hooke007-github-io.translate.goog/unofficial/index.html?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en-US&_x_tr_pto=wapp)
 * [MPV Frontends](https://github.com/mpv-player/mpv/wiki/Applications-using-mpv)
 * [ModernX](https://github.com/cyl0/ModernX), [tethys](https://github.com/Zren/mpv-osc-tethys) or [uosc](https://github.com/tomasklaen/uosc) - Alt User Interfaces
@@ -9012,7 +9013,6 @@ Linux Gaming Guide
 * [AutoSubSync MPV](https://github.com/joaquintorres/autosubsync-mpv) - Sub Sync
 * [MPV SponsorBlock](https://github.com/po5/mpv_sponsorblock), [2](https://codeberg.org/jouni/mpv_sponsorblock_minimal) - SponsorBlock for MPV
 * [ThumbFast](https://github.com/po5/thumbfast) - MPV Thumbnails
-* [FSR](https://gist.github.com/agyild/82219c545228d70c5604f865ce0b0ce5), [NNEDI / Ravu](https://github.com/bjin/mpv-prescalers/) or [FSRCNNX](https://github.com/igv/FSRCNN-TensorFlow/) - MPV Shaders
 
 ***
 
@@ -9236,6 +9236,7 @@ Linux Gaming Guide
 * [Mixer](https://quixel.com/mixer) - 3D Texture Creation Tool
 * [PlanetSide](https://planetside.co.uk/) - CG Environment Generator
 * [cgplugdump](https://t.me/cgplugdump) - CG Software Plugins
+* [Physically Based](https://physicallybased.info/) - RGB Values of Elements
 * [AnimeEffects](https://github.com/AnimeEffectsDevs/AnimeEffects), [enve](https://maurycyliebner.github.io/), [Expressive](https://www.expressivesuite.com/), [Cavalry](https://cavalry.scenegroup.co/), [TupiTube](https://tupitube.com/) or [Synfig](https://www.synfig.org/) - 2D Animation Tools
 * [ScribbleDiffusion](https://scribblediffusion.com/) - Turn Doodles into Artwork
 * [MonsterMash](https://monstermash.zone/) - Sketch-Based Modeling & Animation Tool
