@@ -43,6 +43,7 @@
 * [Levidia](https://www.levidia.ch/) - Movies / TV / Anime / 1080p
 * [EuroPixHD](https://europixhd.pro/) - Movies / TV / Anime / 1080p
 * [xpWatch](https://xpwatch-v2.pages.dev/) - Movies / TV / Anime / 1080p
+* [WatchSeries](https://watchseries.bar/) - Movies / TV / Anime / 1080p
 * [EMovies](https://emovies.si/) - Movies / TV / Anime / 1080p
 * [ISDB](https://isdb.pl/ ) - Movies / TV / 1080p
 * [Goojara](https://www.goojara.to/) - Movies / TV / Anime / 1080p
@@ -65,7 +66,6 @@
 * [MidnightPulp](https://www.midnightpulp.com/) - Movies / 720p
 * [Afdah](https://afdah2.com/) - Movies / 720p
 * [Flixtor](https://flixtor.to/) - Movies / TV / 720p / Movies Older Than 6 Months For Premium Only
-* [tvembed.cc](https://tvembed.cc/) - Movies / TV / Anime / API / 1080p
 * [GoMo](https://gomo.to/) - Movies / TV / Anime / API / 1080p
 * [SuperEmbed](https://www.superembed.stream/) - Movies / TV / API / 1080p
 * [2embed](https://www.2embed.cc/) - Movies / TV / API / 1080p
@@ -247,7 +247,7 @@
 * [databasegdriveplayer](https://databasegdriveplayer.co/series.php) - TV / Anime / 720p
 * [TVSeries](https://www.tvseries.in/) - TV / Anime / 720p
 * [Watch-TvSeries](https://www1.watch-tvseries.net/) - TV / 1080p
-* [play.history](https://play.history.com/channel) - Full History / A+E Episodes
+* [play.history](https://play.history.com/) - Full History / A+E Episodes
 * [Adult Swim](https://www.adultswim.com/videos/) - Full Adult Swim Episodes
 * [Homestar Runner](https://homestarrunner.com/) - Web-Series / Games
 * [SFBTV](https://diva.sfsu.edu/collections/sfbatv) - Bay Area TV Archive
@@ -276,10 +276,11 @@
 * ⭐ **[AllAnime](https://allanime.to/)** - Sub / Dub / 1080p
 * ⭐ **[Japanese Animated Film Classics](https://animation.filmarchives.jp/index.html)** - Japanese Animated Film Archive
 * ⭐ **[Anime Streaming CSE](https://cse.google.com/cse?cx=006516753008110874046:vzcl7wcfhei)** / [CSE 2](https://cse.google.com/cse?cx=006516753008110874046:mrfarx7-dxu) or [Kuroiru](https://kuroiru.co/) - Multi-Site Anime Search
-* [GoGoAnime](https://gogoanime3.net/), [2](https://anitaku.to/) - Sub / Dub / 1080p
+* [GoGoAnime](https://gogoanime3.co/), [2](https://anitaku.to/) - Sub / Dub / 1080p
 * GoGoAnime Tools - [Mirrors](https://gogotaku.info/) / [Download Script](https://greasyfork.org/en/scripts/465970) / [DL Guide](https://rentry.org/gogodlscript) / [Discord](https://discord.gg/kyVfcGuCCQ)
 * [AnimeHub](https://animehub.ac/) - Sub / Dub / 1080p
 * [Animixplay](https://animixplay.tube/), [2](https://animixplay.name) - Sub / Dub / 1080p
+* [AnimeOwl](https://animeowl.us/) - Sub / Dub / 1080p / [Discord](https://discord.com/invite/xHYcvdMvZ2)
 * [123Anime](https://123animes.ru/) - Sub / Dub / 1080p
 * [Ryuk](https://ryuk.to/) - Sub / Dub / 1080p
 * [Kaguya](https://kaguya.app/) - Sub / 1080p / [Discord](https://discord.gg/382BEFfER6)
@@ -292,9 +293,8 @@
 * [YugenAnime](https://yugenanime.tv/) - Sub / Dub / 1080p / [Discord](https://discord.gg/MQqwQREyCz)
 * [AnimeParadise](https://www.animeparadise.moe/) - Sub / Dub / 1080p / [Discord](https://discord.com/invite/q3N6eWMMNP)
 * [AnimeLandTV](https://w4.animeland.tv/) - Dub / 1080p
-* [KissAnime](https://kissanime.help/) - Sub / Dub / 1080p / [Discord](https://discord.com/invite/w5ghWQG8uM)
+* [KissAnime](https://kissanime.com.ru/), [2](https://kissanime.org.ru/), [3](https://kissanime.co/), [4](https://kissanime.sx/) - Sub / Dub / 1080p / [Discord](https://discord.com/invite/w5ghWQG8uM) / [Mirrors](https://kissanime.help/)
 * [Animetake](https://animetake.tv/) - Sub / 1080p
-* [Anime OWL](https://anime-owl.net/) - Sub / Dub / 1080p / [Discord](https://discord.com/invite/xHYcvdMvZ2)
 * [AnimeFox](https://animefox.in/) - Sub / Dub / 1080p
 * [AnimeZia](https://www.animezia.com/) - Sub / Dub / 1080p / [Telegram](https://telegram.dog/anime_complex) 
 * [NAnime](https://www.nanime.one/) - Sub / Dub / 1080p
@@ -572,7 +572,6 @@
 * [Movies Ni Pipay](https://moviesnipipay.me/) - Movies / TV / 1080p
 * [FilmDuty](https://filmduty.com/) - Movies / TV / Anime / 1080p
 * [Downloads-Anymovies](https://www.downloads-anymovies.co/) - Movies / 1080p
-* [Reqzone](https://reqzone.com/) - Movies / TV / 1080p
 * [RLSXTVT](https://rlsxtvt.icu/) - Movies / TV / 1080p
 * [MegaDDL](https://megaddl.co/) - Movies / TV / 1080p / Some Paywalled
 * [UHDMovies](https://uhdmovies.us/) - Movies / 4K
@@ -628,7 +627,7 @@
 * [188.165.227.112](https://rentry.co/FMHYBase64#188165227112) - Movies / TV
 * [Extreme Mirror](https://rentry.co/FMHYBase64#extreme-mirror) - Movies / TV / Anime
 * [r/moviegod](https://rentry.co/FMHYBase64#rmoviegod) - Movies
-* [iPapkornBot](https://t.me/iPapkornBot) or [ProSearch4Bot](https://t.me/ProSearch4Bot) - Movies
+* [ProSearch4Bot](https://t.me/ProSearch4Bot) - Movies
 * [Mobile movies request bot](https://t.me/cc_mmrequestbot) - Movies / 480p
 * [مسلسلات اجنبية‬](https://rentry.co/FMHYBase64#%D9%85%D8%B3%D9%84%D8%B3%D9%84%D8%A7%D8%AA-%D8%A7%D8%AC%D9%86%D8%A8%D9%8A%D8%A9) - TV
 * [SolidarityCinema](https://www.solidaritycinema.com/) - Movies / [List](https://boxd.it/g0L)
@@ -746,7 +745,6 @@
 * [Fansubcar](https://index.fansubcar.tel/) - Fansubbers Index
 * [SubsPlease](https://subsplease.org/) - Sub
 * [DameDesuYo](https://damedesuyo.com/) - Sub 
-* [GoodJobMedia](https://www.goodjobmedia.com/) - Sub
 * [Chihiro](https://chihiro-subs.com/) - Sub
 * [AnimeRG](https://animereleasegroup.blogspot.com/) - Sub / Dub
 * [Some-Stuffs](https://some-stuffs.com/) - Sub / [Discord](https://discord.gg/wYgXer2)
