@@ -125,7 +125,6 @@
 * [Al-Khaser](https://github.com/LordNoteworthy/al-khaser) - Anti-Malware Stress Test
 * [WireShark](https://www.wireshark.org/) - Network Protocol Analyzer / [Profiles](https://github.com/amwalding/wireshark_profiles)
 * [Termshark](https://termshark.io/) - PCAP / Network Analysis
-* [Phish.ly](https://phish.ly/) - Scan Suspicious Emails
 * [Dangerzone](https://dangerzone.rocks/) - Convert dangerous PDF to safe PDF
 * [CVE Details](https://www.cvedetails.com/) - CVE Details
 * [ZScaler](https://zulu.zscaler.com/), [Talos](https://talosintelligence.com/), [Trend Micro](https://global.sitesafety.trendmicro.com/) or [ScamRate](https://www.scamrate.com/) - Check Website Safety 
@@ -241,15 +240,9 @@
 * ⭐ **[JustGetMyData](https://justgetmydata.com/)** - Links to Obtain Your Data from Websites
 * ⭐ **[simplewall](https://github.com/henrypp/simplewall)**, [WFC](https://www.binisoft.org/wfc.php), [pfSense](https://www.pfsense.org/) / [How-to](https://youtu.be/am7xT-zU1Q0) or [Tinywall](https://tinywall.pados.hu/) - Firewall / Network Monitors
 * ⭐ **[Cryptomator](https://cryptomator.org/)**, [Boxcryptor](https://www.boxcryptor.com/en/) or [Tahoe-LAFS](https://tahoe-lafs.org/trac/tahoe-lafs) - Cloud File Encryption
-* ⭐ **[Have I been Pwned?](https://haveibeenpwned.com/)** - Monitor Email Breaches
-* ⭐ **[Proton Mail](https://proton.me/mail)** - Encrypted Email
-* [Tuta](https://tuta.com/) - Encrypted Email
 * [How Secure is My Password](https://www.security.org/how-secure-is-my-password/) - Password Strength Checker
 * [h8Mail](https://github.com/khast3x/h8mail) or [FirefoxMonitor](https://monitor.firefox.com/) - Data Breach Check
 * [BreachDirectory](https://breachdirectory.org), [Snusbase](https://snusbase.com/), [Leak Lookup](https://leak-lookup.com/), [Trufflehog](https://github.com/trufflesecurity/trufflehog), [Database Search](https://search.0t.rocks/) or [leakpeek](https://leakpeek.com/) - Data Breach Search Engines
-* [EmailPrivacyTester](https://www.emailprivacytester.com/) - Email Privacy Test
-* [OpenPGP](https://www.openpgp.org/) - Email Encryption / [Guide](https://riseup.net/en/security/message-security/openpgp/best-practices)
-* [/r/emailprivacy](https://reddit.com/r/emailprivacy) - Discussion of Email Privacy / Security / Anonymity
 * [I2P](https://geti2p.net/en/) - Encrypted Private Network Layer / [Guide](https://rentry.co/CBGI2P)
 *  [JustDeleteMe](https://justdeleteme.xyz/) - Find / Terminate Old Accounts
 * [OpenPhish](https://openphish.com/), [Netcraft Report](https://report.netcraft.com/report), [PhishStats](https://phishstats.info/) or [PhishTank](https://phishtank.org/) - Report Phishing Sites
@@ -270,7 +263,6 @@
 * [telegram-delete-all-messages](https://github.com/gurland/telegram-delete-all-messages) - Delete Telegram Message 
 * [Freenet Project](https://freenetproject.org/) - Browse / Publish Freenet Sites 
 * [Mat2](https://0xacab.org/jvoisin/mat2) / [Desktop](https://metadatacleaner.romainvigier.fr/), [2](https://0xacab.org/jvoisin/mat2-web), [metadata-cleaner](https://gitlab.com/rmnvgr/metadata-cleaner) - Remove Metadata from Files
-* [SecLists](https://seclists.org/) - Security Mailing List Archive
 * [Yggdrasil](https://yggdrasil-network.github.io/), [2](https://github.com/yggdrasil-network) - IPv6 Network / [yggdrasil-go](https://github.com/yggdrasil-network/yggdrasil-go/)
 
 ***
@@ -284,6 +276,19 @@
 * [CookieStatus](https://www.cookiestatus.com/) or [PrivacyTests](https://privacytests.org/) - Browser Tracking Protection Comparisons
 * [Whack](https://lcamtuf.coredump.cx/whack/) or [Earthling](https://earthlng.github.io/testpages/visited_links.html) - Browser History Leak Example Games
 * [SSL Labs](https://clienttest.ssllabs.com:8443/ssltest/viewMyClient.html) - SSL/TLS Browser Capabilities Test
+
+***
+
+## ▷ Email Privacy
+
+* ⭐ **[Have I been Pwned?](https://haveibeenpwned.com/)** - Monitor Email Breaches
+* ⭐ **[Proton Mail](https://proton.me/mail)** - Encrypted Email
+* [Tuta](https://tuta.com/) - Encrypted Email
+* [EmailPrivacyTester](https://www.emailprivacytester.com/) - Email Privacy Test
+* [OpenPGP](https://www.openpgp.org/) - Email Encryption / [Guide](https://riseup.net/en/security/message-security/openpgp/best-practices)
+* [/r/emailprivacy](https://reddit.com/r/emailprivacy) - Discussion of Email Privacy / Security / Anonymity
+* [SecLists](https://seclists.org/) - Security Mailing List Archive
+* [Phish.ly](https://phish.ly/) - Scan Suspicious Emails
 
 ***
 
