@@ -490,6 +490,7 @@
 * [HDoomGuy](https://hdoomguy.newgrounds.com/) - NSFW Doom Mod
 * [FapCraft](https://fapcraft.org/) - NSFW Minecraft Mod
 * [Minegasm](https://www.minegasm.net/) - Connect Minecraft to Sex Toys
+* [AdultOyunÇeviri.](https://adultoyunceviri.com) - Turkish Games
 
 ***
 
