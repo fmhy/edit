@@ -320,7 +320,7 @@
 * ⭐ **[Writer](https://www.gibney.org/writer)**, [FocusWriter](https://gottcode.org/focuswriter/), [Writemonkey](https://writemonkey.com/) or [WriteNext](https://www.writenext.io/) - Distraction-Free Writing
 * ⭐ **[Manuskript](https://www.theologeek.ch/manuskript/)** - Writing Organizer / Planner
 * ⭐ **[NovelWriter](https://novelwriter.io/)** or [Bibisco](https://bibisco.com/) - Novel Editors
-* ⭐ **[Linked](https://uselinked.com/)**, [journaltxt](https://journaltxt.github.io/), [Gekri](https://gekri.com/), [Microsoft Journal](https://www.microsoft.com/en-us/garage/profiles/journal/), [Gemlog](https://gemlog.blue/) or [jrnl.sh](https://jrnl.sh/) - Journal Apps / [Songs](https://deardiary.ai/)
+* ⭐ **[Linked](https://uselinked.com/)**, [journaltxt](https://journaltxt.github.io/), [Gekri](https://gekri.com/), [Microsoft Journal](https://www.microsoft.com/en-us/garage/profiles/journal/), [Diarium](https://diariumapp.com/), [Gemlog](https://gemlog.blue/) or [jrnl.sh](https://jrnl.sh/) - Journal Apps / [Songs](https://deardiary.ai/)
 * ⭐ **[ChaoticShiny](http://chaoticshiny.com/)**, [Seventh Sanctum](https://www.seventhsanctum.com/), [Notebook.ai](https://www.notebook.ai/) or [WorldAnvil](https://www.worldanvil.com/) - Fantasy Writing Generators
 * [LanguageIsAVirus](https://www.languageisavirus.com/) - Writing Prompts
 * [Twinery](https://twinery.org/) - Interactive Non-Linear Story Creator
