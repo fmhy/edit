@@ -1408,7 +1408,6 @@
 * [TodoDVDFull](https://www.tododvdfull.com/) - Movies / Latino
 * [Don Pelis](https://donpelis.org/), [2](https://granpirata.com/) - Movies / TV / Animation / Latino / [Bypass](https://greasyfork.org/en/scripts/477591)
 * [Peli Series HD](https://www.peliserieshd.com/) - Movies / TV / Latino
-* [GDriveDescarga](https://gdrivedescarga.com/) - Movies / TV / Latino
 * [Mega Descargas](https://mega-descargas-serie.blogspot.com/) - TV / Latino
 * [La Comunidad](https://t.me/s/la_comunidad) - Movies / TV / Telegram / Castilian
 * [Peliculas 480p](https://t.me/cinema480p) - Movies / Telegram / Latino
@@ -1593,7 +1592,6 @@
 * [Nova](https://novelasligeras.net/) - Manga / Light Novels
 * [Izicomics](https://www.izicomics.com/) - Manga / Comics
 * [MegaComicsTV3](https://megacomicstv3.blogspot.com/) - Comics
-* [MangasEnPdf](https://t.me/MangasEnPdf) - Manga / Telegram
 * [tupropiaaventura_bot](https://t.me/tupropiaaventura_bot) - Books / Telegram
 
 ***
@@ -1645,8 +1643,6 @@
 * [PixelSaga(Discord)](https://discord.gg/ZZER4w3Mmx) - Game Localization
 * [CalypsoÇeviri(Discord)](https://discord.gg/calypsoceviri) - Game Localization
 * [Hangar](https://www.hangarceviri.com) - Game Localization
-* [G-Point Adult](https://www.gpadult.com) - +18 Game Localization / [Discord](https://discord.com/invite/gpadult)
-* [YetişkinÇeviri](https://www.ademyurt.com/kategori/android/) - +18 Game Localization / [Discord](https://discord.com/invite/GQeQRzAKCR)
 
 ## ▷ Streaming
 
