@@ -92,7 +92,7 @@
 * [FunkWhale](https://funkwhale.audio/) - Streaming
 * [MP3Jam](https://www.mp3jam.org/) - Streaming
 * [MellowPlayer](https://colinduquesnoy.gitlab.io/MellowPlayer/) - Streaming
-* [Muffon](https://github.com/staniel359/muffon) - Streaming
+* [Muffon](https://muffon.netlify.app/) - Streaming
 * [Deezer](https://www.deezer.com/) - Streaming
 * [OdesliBot](https://t.me/odesli_bot) - Audio Stream Search Bot
 * [MusicBucket](https://musicbucket.net/) - Track / Share Music / Telegram
