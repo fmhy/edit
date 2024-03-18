@@ -489,15 +489,14 @@
 # ► Hebrew / עברית
 
 * [AB-Maps](https://www.abmaps.com/) - Map Tool
-* [Walla](https://www.walla.co.il/) - News
 * [Ktuvit](https://www.ktuvit.me/) or [WizdomSubs](https://wizdom.xyz/) - Subtitles
 
 ## ▷ Streaming / הזרמה
 
 * [Walla VODs](https://vod.walla.co.il/) - Movies / TV
-* [Watch It](https://israwatch.cc/), [2](https://wallaflix.com/) - Movies / TV
+* [Watch It](https://israwatch.cc/), [2](https://wallaflix.com/) - TV
 * [TVFeel](https://tvfeel.cc/) - Movies / TV
-* [Sdarot](https://sdarot-flix.com/) - Movies / TV
+* [Sdarot (clone)](https://sdarot-flix.com/) - TV
 * [Zobi](https://zobi.pw/) - TV
 * [JFC](https://jfc.org.il/) - Israel Movie Archive
 * [Animeil-TV](https://www.animeil-tv.com/) - Anime / [Telegram](https://t.me/AnimeILTVDiscussion)
