@@ -605,7 +605,7 @@
 
 * ⭐ **[ChronoCrash](https://www.chronocrash.com/forum/)** - Game Modding Forum
 * ⭐ **[ModDB](https://moddb.com/)** - Game Mods
-* ⭐ **[Nexus Mods](https://www.nexusmods.com/)** - Game Mods / [Manager](https://github.com/Nexus-Mods/Nexus-Mod-Manager) / [Bulk Downloader](https://greasyfork.org/en/scripts/483337) / [Redirect Skip](https://greasyfork.org/en/scripts/394039)
+* ⭐ **[Nexus Mods](https://www.nexusmods.com/)** - Game Mods / [Bulk Downloader](https://greasyfork.org/en/scripts/483337) / [Redirect Skip](https://greasyfork.org/en/scripts/394039)
 * [mod.io](https://www.mod.io/) - Cross Platform Game Mods Support
 * [WabbaJack](https://www.wabbajack.org/) / [Discord](https://discord.com/invite/wabbajack) - Automated Modlist Installer
 * [NextGenUpdate](https://www.nextgenupdate.com/) - Game Mods
@@ -756,7 +756,7 @@
 * [Vanillatweaks](https://www.vanillatweaks.net/), [Smithed](https://smithed.net/) or [VoodooBeard](https://mc.voodoobeard.com/) / [Discord](https://discord.gg/SnJQcfq) - Minecraft Data Packs
 * [Minecraft Command Science](https://minecraftcommand.science/) or [MCStacker](https://mcstacker.net/) - Minecraft Command Generators
 * [spark](https://spark.lucko.me/) - Minecraft Performance Profiler
-* [Minecraft Performance Flags](https://github.com/brucethemoose/Minecraft-Performance-Flags-Benchmarks) - Java Minecraft Benchmarks
+* [Minecraft Performance Flags](https://github.com/Mukul1127/Minecraft-Performance-Flags-Benchmarks) - Java Minecraft Benchmarks
 * [No Telemetry](https://modrinth.com/mod/no-telemetry) - Disable Telemetry Data
 * [Data Pack Generators](https://misode.github.io/) - Minecraft Data Pack Generators 
 * [Distant Horizons](https://gitlab.com/jeseibel/minecraft-lod-mod) - Increased Minecraft Render Distance
