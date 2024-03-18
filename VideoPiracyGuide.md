@@ -102,7 +102,7 @@
 * [Freevee](https://www.amazon.com/gp/video/storefront/ref=atv_hm_hom_c_9zZ8D2_1_3?contentType=home&contentId=freetv) - Movies / TV / 1080p
 * [Roku](https://therokuchannel.roku.com/) - Movies / TV / 1080p
 * [Vudu](https://www.vudu.com/content/movies/uxpage/View-All-Free-Movies-TV/207) - Movies / TV / 1080p
-* [ShoutFactoryTV](https://www.shoutfactorytv.com/) - Movies / TV / 1080p
+* [ShoutFactoryTV](https://shout-tv.com/) - Movies / TV / 1080p
 * [Kanopy](https://kanopy.com/) or [Hoopla](https://www.hoopladigital.com/) - Movies / TV / 1080p / Library Card Required
 * [7+](https://7plus.com.au/) - Movies / TV / 1080p
 * [Playary](https://www.playary.com/) - Movies / TV / 1080p
@@ -110,8 +110,6 @@
 * [LokLok](https://loklok.com/) - Movies / TV / 1080p
 * [ARTE](https://www.arte.tv/en) - Movies / TV / 1080p
 * [BBC iPlayer](https://www.bbc.co.uk/iplayer) - Movies / TV / 1080p / [Downloader](https://github.com/get-iplayer/get_iplayer) / UK VPN required / Windscribe has UK free
-* [Mov.onl](https://www.mov.onl/) - Movies / TV / 720p
-* [SpaceMov](https://spacemov.site/) - Movies / TV / 720p
 * [Pluto](https://pluto.tv/) - Movies / TV / 720p
 * [9PM](https://9pm.to/) - Movies / TV / 720p
 * [Vidlink](https://vidlink.org/) - Movies / 720p
@@ -337,7 +335,7 @@
 ## ▷ Drama Streaming
 
 * ⭐ **[DramaCool](https://asianwiki.co/)**, [2](https://dramacool.pa/), [3](https://watchasian.ar/), [4](https://runasian.net/) - TV / Movies / 1080p 
-* ⭐ **[KissAsian](https://kissasian.lu/)** - TV / 720p
+* ⭐ **[KissAsian](https://kissasian.lu/)**, [2](https://kissasian.video/), [3](https://kissasian.si) - TV / Movies
 * ⭐ **[GoPlay](https://goplay.pw)** [2](https://goplay.wtf/), [3](https://goplay.anontpp.com/) - TV / Movies / 1080p / Join [Discord](https://discord.com/invite/yY2P3DQR8S) for Code
 * [Chinese Drama Site Index](https://www.reddit.com/r/CDrama/wiki/streaming)
 * [GDrive KDrama](https://databasegdriveplayer.co/drama.php) - TV / Movies
@@ -355,8 +353,6 @@
 * [viewasian](https://viewasian.co/) - TV / Movies 
 * [NewAsianTV](https://www2.newasiantv.pro/) - TV / Movies
 * [bagikuy](https://bagikuy.com/) - TV / Movies
-* [Kissasian.video](https://kissasian.video/) - TV / Movies
-* [Kissasian.si](https://kissasian.si) - TV / Movies
 * [iFlix](https://www.iflix.com/) - TV / Movies
 * [WeTV](https://wetv.vip/) - TV / Movies
 * [Viu](https://www.viu.com/) - TV / Movies
