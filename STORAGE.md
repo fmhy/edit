@@ -106,25 +106,6 @@
 
 ***
 
-## Awesome Lists
-
-* ⭐ **[Awesome List Index](https://github.com/topics/awesome)**
-* [Awesome Tech for Good](https://github.com/TechforgoodCAST/awesome-techforgood)
-* [Awesome OSS](https://github.com/RunaCapital/awesome-oss-alternatives)
-* [Awesome No-Login](https://github.com/aviaryan/awesome-no-login-web-apps)
-* [Awesome Piracy](https://github.com/Shakil-Shahadat/awesome-piracy)
-* [Awesome Anime Sources](https://github.com/anshumanv/awesome-anime-sources)
-* [Awesome DataHoarding](https://github.com/simon987/awesome-datahoarding)
-* [Awesome Uncopyright](https://github.com/johnjago/awesome-uncopyright)
-
-[Track Awesome](https://www.trackawesomelist.com/), [GitHub Awesome](https://app.polymersearch.com/discover/github-awesome), [Awesome Awesomeness](https://github.com/bayandin/awesome-awesomeness), [Generated Awesomeness](https://github.com/orsinium-labs/generated-awesomeness), [Awesome](https://github.com/sindresorhus/awesome)
-
-### Awesome List Tools
-
-[Search](https://awesomelists.top/) / [Stumble](https://github.com/basharovV/StumbleUponAwesome) / [CLI](https://github.com/umutphp/awesome-cli) / [Markdown Extractor](https://github.com/evilsh3ll/datahoarder-website-to-markdown)
-
-***
-
 ## Browser eBook Readers
 
 * ⭐ **[Reader View](https://webextension.org/listing/chrome-reader-view.html)**, [2](https://mybrowseraddon.com/reader-view.html)
@@ -935,12 +916,6 @@
 * [FluteTunes](https://www.flutetunes.com/) or [Flue Music](https://drive.google.com/drive/folders/1WMtVRNqLFdEQ4X39Dpof9o5aWGJsdtFe?usp=sharing) - Flute
 
 [IMSLP](https://imslp.org/wiki/Main_Page), [awesome-sheet-music](https://github.com/ad-si/awesome-sheet-music), [/r/sheetmusic](https://reddit.com/r/sheetmusic), [8notes](https://www.8notes.com/), [mutopiaproject](https://www.mutopiaproject.org/), [sheetmusiceden](https://sheetmusiceden.com/), [musopen](https://musopen.org/), [Sheet Music International](https://sheetmusicinternational.com/), [1230james](https://1230james.xyz/music/), [CosandScores](http://waltercosand.com/CosandScores/), [Free Scores](https://m.free-scores.com/), [torbybrand](https://torbybrand.com/sheet-music/), [SheetMusicForFree](https://sheetmusicforfree.com/), [bateristaspt](https://www.bateristaspt.com/membros/drumscores/), [tchunes](https://www.daev.ca/tchunes/), [Notes Box](https://notes-box.com/), [urresearch](https://urresearch.rochester.edu/viewInstitutionalCollection.action?collectionId=63), [escholarship](https://escholarship.org/uc/uclamusicscores), [dlib](https://dlib.indiana.edu/variations/scores/), [diamm](https://www.diamm.ac.uk/), [themorgan](https://www.themorgan.org/music), [unc](https://dc.lib.unc.edu/cdm/landingpage/collection/sheetmusic), [ucla](https://digital.library.ucla.edu/sheetmusic/), [brown](https://library.brown.edu/cds/sheetmusic/afam/about.html), [mozarteum](https://dme.mozarteum.at/DME/nma/nmapub_srch.php?l=2), [sfsma](https://www.sfsma.org/), [digital.library](https://digital.library.unt.edu/explore/collections/VRBR/browse/), [chopin](https://chopin.lib.uchicago.edu/), [Piano Sheet Music Drive](https://drive.google.com/drive/folders/0BxkQJMTuId4dfkxiM01GYnFBUFdDVmRHMGREM1JKYVdBajJtV2pVSExrS2txT1BOdXlfMUE?resourcekey=0-4uwizkHnsGLakmC-cA173A) / [2](https://drive.google.com/drive/folders/1-hieArroBCq1x6z4GQ_gdFuyEz_Ftvxg), [Anime Sheet Music Drive](https://drive.google.com/drive/folders/0B2k9HIXzBEfMVlgxTlhNWThzZkk?resourcekey=0-q0RdwD55Az5S3NigaliZEA), [sniff](http://sniff.numachi.com/), [cpdl](https://www.cpdl.org/wiki/index.php/Main_Page), [Ichigos](https://ichigos.com/), [free-scores](https://www.free-scores.com/free-sheet-music.php), [bandmusicpdf](https://bandmusicpdf.org/), [publicdomainsherpa](https://www.publicdomainsherpa.com/free-sheet-music.html), [scorser](http://en.scorser.com/D/Sheet+music.html)
-
-***
-
-## Similar Site Indexes
-
-[Similar Sites](https://www.similarsites.com/), [SimilarWeb](https://www.similarweb.com/), [xRanks](https://xranks.com/), [similarsitesearch](https://www.similarsitesearch.com/), [TopSimilarSites](https://www.topsimilarsites.com/), [odir.us](https://odir.us/), [Sitelike.org](https://www.sitelike.org/), [SitesLike](https://www.siteslike.com/)
 
 ***
 
