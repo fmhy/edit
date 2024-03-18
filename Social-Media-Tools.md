@@ -414,7 +414,7 @@
 * ⭐ **[Invidious](https://invidious.io/)** / [Instances](https://api.invidious.io/), [2](https://redirect.invidious.io/) / [Alt Frontend](https://github.com/bocchilorenzo/invuedious) / [TUI](https://github.com/darkhz/invidtui) or **[CloudTube](https://tube.cadence.moe/)** - FOSS YouTube Frontends
 * ⭐ **[FreeTube](https://freetubeapp.io/)** - Privacy-Based YouTube Client / [GitHub](https://github.com/FreeTubeApp/FreeTube)
 * [YouTube Notes](https://instadeq.com/youtube-notes/) - YouTube Note-Taking Frontend
-* [ViewTube](https://github.com/ViewTube/viewtube), [Piped](https://github.com/TeamPiped/Piped) / [2](https://piped.kavin.rocks/) / [3](https://piped-material.১.net/), [PSTube](https://github.com/prateekmedia/pstube), [Youtube-local](https://github.com/user234683/youtube-local), [YouT-ube](https://www.yout-ube.com/), [yt.d0.cx](https://yt.d0.cx/) or [PokeTube](https://github.com/ashley0143/poketube) - Alternative YouTube Frontends
+* [ViewTube](https://viewtube.wiki/), [Piped](https://github.com/TeamPiped/Piped) / [2](https://piped.kavin.rocks/) / [3](https://piped-material.১.net/), [PSTube](https://github.com/prateekmedia/pstube), [Youtube-local](https://github.com/user234683/youtube-local), [YouT-ube](https://www.yout-ube.com/), [yt.d0.cx](https://yt.d0.cx/) or [Poke](https://poketube.fun/) - Alternative YouTube Frontends
 
 ***
 
