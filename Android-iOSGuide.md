@@ -860,7 +860,6 @@
 * [ReVanced Patcher 6.0-7.1](https://github.com/kitadai31/revanced-patches-android6-7) - 6.0-7.1 Patcher
 * [Clipious](https://github.com/lamarios/clipious) - YouTube Frontend
 * [Hyperion](https://github.com/zt64/Hyperion) - YouTube Frontend
-* [VueTube](https://github.com/VueTubeApp/VueTube)
 * [SkyTube](https://github.com/SkyTubeTeam/SkyTube)
 * [FreeTubeCordova](https://github.com/MarmadileManteater/FreeTubeCordova)
 * [Float Tube](https://play.google.com/store/apps/details?id=com.xpp.tubeAssistant) - Floating YouTube Player
