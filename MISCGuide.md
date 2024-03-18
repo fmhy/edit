@@ -17,8 +17,6 @@
 * 🌐 **[Wotaku](https://wotaku.moe/)** - Japanese Piracy Index
 * 🌐 **[The Index](https://theindex.moe)** - Japanese Piracy Index / [Discord](https://discord.gg/Snackbox) / [Wiki](https://thewiki.moe/)
 * 🌐 **[EverythingMoe](https://everythingmoe.com/)** - Japanese Piracy Index
-* ↪️ **[Awesome List Indexes](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_awesome_lists)**
-* ↪️ **[Similar Site Indexes](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_similar_site_indexes)**
 * ↪️ **[AI Indexes](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/ai#wiki_.25BA_ai_indexes)**
 * ↪️ **[OSINT Indexes](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_open_source_intelligence_indexes)**
 * ⭐ **[FMHY Guides](https://rentry.co/fmhy-guides)** - Automated Rentry Guide List / [Script](https://gist.github.com/Rust1667/e21e92ae385e71f0d87e869bed90fff2) / [Download](https://gist.github.com/Rust1667/efc055debaf4876e4de39cc0d32f18c1) / [Backup Rar](https://mega.nz/file/ajgAnZRY#dQgzhwk0v8L9PyoiSGzw54n1bUC35Brq2QgcK5bglHw)
@@ -62,6 +60,29 @@
 * [sourcehut](https://sr.ht/) - Public Project Index
 * [PiracyBank](https://piracybank.org/websites) - Sites with Detected Copyright Infringement
 * [ImageBoards](https://imageboards.net/), [Chan List](https://archive.is/Npzwl) or [imageboards.json](https://github.com/ccd0/imageboards.json/blob/gh-pages/imageboards.json) - Imageboard Index
+* [Similar Sites](https://www.similarsites.com/), [SimilarWeb](https://www.similarweb.com/), [xRanks](https://xranks.com/), [similarsitesearch](https://www.similarsitesearch.com/), [TopSimilarSites](https://www.topsimilarsites.com/), [odir.us](https://odir.us/), [Sitelike.org](https://www.sitelike.org/), [SitesLike](https://www.siteslike.com/) - Similar Site Indexes
+
+***
+
+## ▷ Awesome Lists
+
+* 🌐 **[Awesome List Index](https://github.com/topics/awesome)**
+* [Awesome Tech for Good](https://github.com/TechforgoodCAST/awesome-techforgood)
+* [Awesome OSS](https://github.com/RunaCapital/awesome-oss-alternatives)
+* [Awesome No-Login](https://github.com/aviaryan/awesome-no-login-web-apps)
+* [Awesome Piracy](https://github.com/Shakil-Shahadat/awesome-piracy)
+* [Awesome Anime Sources](https://github.com/anshumanv/awesome-anime-sources)
+* [Awesome DataHoarding](https://github.com/simon987/awesome-datahoarding)
+* [Awesome Uncopyright](https://github.com/johnjago/awesome-uncopyright)
+* [Track Awesome](https://www.trackawesomelist.com/)
+* [GitHub Awesome](https://app.polymersearch.com/discover/github-awesome)
+* [Awesome Awesomeness](https://github.com/bayandin/awesome-awesomeness)
+* [Generated Awesomeness](https://github.com/orsinium-labs/generated-awesomeness)
+* [Awesome](https://github.com/sindresorhus/awesome)
+* [AwesomeLists](https://awesomelists.top/) - Awesome List Search
+* [StumbleUponAwesome](https://github.com/basharovV/StumbleUponAwesome) - Awesome List Stumble
+* [Awesome-CLI](https://github.com/umutphp/awesome-cli) - Awesome List CLI
+* [website-to-markdown](https://github.com/evilsh3ll/datahoarder-website-to-markdown) - Awesome List Markdown Extractor
 
 ***
 
