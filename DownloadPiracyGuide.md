@@ -100,7 +100,6 @@
 * ⭐ **[4Shared](https://www.4shared.com/)**
 * ⭐ **[Hatt](https://github.com/FrenchGithubUser/Hatt)** - File Search App
 * [File Host Search](https://cse.google.com/cse?cx=90a35b59cee2a42e1)
-* [scnlog](https://scnlog.me/)
 * [filesearch.link](https://filesearch.link/)
 * [Linktury](https://www.linktury.com/)
 * [WarezOmen](https://warezomen.com/) - Indexer / Search Engine
