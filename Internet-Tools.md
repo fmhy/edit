@@ -569,7 +569,7 @@
 * [Firefox Color](https://color.firefox.com/) or [SwiftTheme](https://addons.mozilla.org/en-US/firefox/addon/swifttheme/) - Custom Firefox Theme Creation
 * [OnelineProton](https://github.com/newmanls/OnelineProton) - Proton Theme for Firefox
 * [Dark Background for Firefox New Tabs](https://fedidat.com/640-dark-newtab-firefox/)
-[FoxyGestures](https://github.com/marklieberman/foxygestures), [Simple Gesture](https://github.com/utubo/firefox-simple_gesture) or [Gesturefy](https://github.com/Robbendebiene/Gesturefy) - Mouse Gestures
+* [FoxyGestures](https://github.com/marklieberman/foxygestures), [Simple Gesture](https://github.com/utubo/firefox-simple_gesture) or [Gesturefy](https://github.com/Robbendebiene/Gesturefy) - Mouse Gestures
 * [Happy Right-Click](https://addons.mozilla.org/en-US/firefox/addon/%E5%BF%AB%E4%B9%90%E5%8F%B3%E9%94%AE/) - Force Enable Right Click
 * [Linkificator](https://addons.mozilla.org/en-US/firefox/addon/linkificator/) - Make Non-Hyperlinked URLs Clickable
 * [Firefox Translations](https://addons.mozilla.org/en-US/firefox/addon/firefox-translations/) - Translator
