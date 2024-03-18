@@ -674,6 +674,8 @@
 * ⭐ **[Userscripts Guide](https://rentry.co/userscript-guide)**
 * ⭐ **[Picviewer CE+](https://greasyfork.org/en/scripts/24204)** - Image Viewing Tool
 * [Bypass Google Sorry](https://greasyfork.org/en/scripts/447130) - Bypass Google reCAPTCHA
+* [y2monkey](https://github.com/jijirae/y2monkey) - Download YouTube videos by pressing "SHIFT+D" / Use ViolentMonkey
+* [r2monkey](https://github.com/jijirae/r2monkey) - Download Reddit videos by pressing "SHIFT+D" /  Use ViolentMonkey
 * [Remove Web Limits](https://greasyfork.org/en/scripts/28497) / [Mod](https://greasyfork.org/en/scripts/386908) - Force Enable Right Click
 * [Select text inside a link like Opera](https://greasyfork.org/en/scripts/789-select-text-inside-a-link-like-opera) - Select Text Inside Links
 * [Select All Checkboxes](https://greasyfork.org/en/scripts/22587) - Auto Check All Boxes
