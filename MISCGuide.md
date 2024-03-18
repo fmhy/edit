@@ -1187,10 +1187,10 @@
 * [Notpron](http://www.notpron.com/) - Worlds Hardest Internet Riddle
 * [Fun Trivia](https://www.funtrivia.com/) or [Sporcle](https://www.sporcle.com/) - Trivia
 * [ARealMe](https://www.arealme.com/) - Quiz Collection
-* [OpenPsychometrics](https://openpsychometrics.org/), [IDRLabs](https://www.idrlabs.com/) or [16 Personalities](https://www.16personalities.com/) - Personality Tests
-* [theOtaku](https://theotaku.com/quizzes) - Anime Personality Quizzes
 * [Bestiefy](https://bestiefy.com/) - Friend Quizzes
-* [Six Triangles](https://sixtriangles.github.io/), [9 Axes](https://9axes.github.io/), [8dreams](https://8dreams.github.io/), [ISideWith](https://www.isidewith.com/) or [8 Values](https://8values.github.io/) - Political Alignment Test
+* [OpenPsychometrics](https://openpsychometrics.org/), [IDRLabs](https://www.idrlabs.com/) or [16 Personalities](https://www.16personalities.com/) - Personality Tests / [Note](https://pastebin.com/9DB0nMrT)
+* [Six Triangles](https://sixtriangles.github.io/), [9 Axes](https://9axes.github.io/), [8dreams](https://8dreams.github.io/), [ISideWith](https://www.isidewith.com/) or [8 Values](https://8values.github.io/) - Political Alignment Test / [Note](https://pastebin.com/9DB0nMrT)
+* [theOtaku](https://theotaku.com/quizzes) - Anime Personality Quizzes
 * [Goody2](https://www.goody2.ai/chat) - Worlds Most Ethical AI
 * [HowNormalAmI?](https://www.hownormalami.eu/) - Face Judge A.I.
 * [Face Shape AI](https://www.detect-face-shape.com) - Face Shape Detector
