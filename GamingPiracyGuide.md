@@ -828,7 +828,6 @@
 ## ▷ Counter-Strike Tools
 
 * ⭐ **[CsWarzOnE](https://cswarzone.com/)** - Counter-Strike Downloads
-* ⭐ **[Play-CS](https://play-cs.com/)** - Browser Counter-Strike 1.6
 * [csgo-mm-server-picker](https://github.com/Jyben/csgo-mm-server-picker) - CS:GO Server Picker
 * [Simple Radar](https://readtldr.gg/simpleradar) - Improved CS:GO Radar
 * [CSGO Trader](https://csgotrader.app/) - CS:GO Trading Enhancements
@@ -971,6 +970,7 @@
 * ⭐ **[Line Rider](https://www.linerider.com/)** - Draw Sled Tracks
 * ⭐ **[Allchemy](https://allchemy.io/)** or [Infinite Craft](https://neal.fun/infinite-craft/) - Infinite Item Crafting Games
 * ⭐ **[QWOP](https://www.foddy.net/Athletics.html)** - Ragdoll Running Game
+* ⭐ **[Play-CS](https://play-cs.com/)** - Browser Counter-Strike 1.6
 * ⭐ **[Free Rice](https://freerice.com/)** - Earn Rice for the World Food Programme
 * [/r/WebGames](https://reddit.com/r/WebGames) - Browser Games Subreddit
 * [Armor Games](https://armorgames.com/) - Browser Games
@@ -1242,7 +1242,7 @@
 
 ## ▷ Wordle Games
 
-* 🌐 **[Awesome Worldle](https://github.com/prakhar897/awesome-wordle)** - Worlde Game Index
+* 🌐 **[Awesome Wordle](https://github.com/prakhar897/awesome-wordle)** - Wordle Game Index
 * ⭐ **[Wordles of the World](https://rwmpelstilzchen.gitlab.io/wordles/)** - [Analyzer](https://wordle-analyzer.com/) / [Solver](https://github.com/jonhoo/roget)
 * [Wordle Unlimited](https://wordleunlimited.org/)
 * [Huedle](https://huedle.com/)
