@@ -13,7 +13,7 @@
 * cracked-games - Caught with malware
 * Wifi4Games - Caught with malware
 * GameFabrique - IGG uploads + [adware installers](https://rentry.co/GameFabrique_Adware/)
-* SteamUnlocked - [IGG uploads](https://i.imgur.com/YUnRNpN.png) + very slow file host
+* SteamUnlocked - [IGG uploads](https://i.ibb.co/VgW2ymY/YUnRNpN.png) + very slow file host
 * [Untrusted Uploaders](https://rentry.org/pgames#untrusted-uploaders)
 * [Fake FitGirl Sites](https://rentry.co/FakeFitgirlwebsites)
 
@@ -79,7 +79,7 @@
 
 ### [Fake Z-Lib Sites](https://redd.it/16xtm67) / [2](https://ibb.co/MhfGTWx)
 
-### [Fake Windows Activators](https://i.imgur.com/Lv2FYbw.png)
+### [Fake Windows Activators](https://i.ibb.co/4SKQbB9/Lv2FYbw.png)
 
 ### [Unsafe Wayback Machine Links](https://rentry.co/ue9qk)
 
