@@ -220,7 +220,6 @@
 * [HowStuffWorks](https://www.howstuffworks.com/) or [CoolMindMaps](https://www.coolmindmaps.com/) - Learn How Things Work
 * [Explorabl.es](https://explorabl.es/), [MinuteLabs](https://minutelabs.io/), [Kahoot](https://kahoot.com/), [Wikiversity](https://www.wikiversity.org/), [Learnamic](https://www.learnamic.com/) or [TurtleDiary](https://www.turtlediary.com/) - Quizzes / Guides / Games
 * [SoftSchools](https://www.softschools.com/) or [EnchantedLearning](https://www.enchantedlearning.com/) - Worksheets / Games / Quizzes
-* [Highbrow](https://gohighbrow.com/) - Daily Lessons
 * [FactSlides](https://www.factslides.com/) - Find Facts for all Topics
 * [masterWiki](https://masterwiki.how/) - MasterClass Classes Republished as wikiHow Articles
 * [Listenable](https://apps.apple.com/us/app/listenable-learn-with-audio/id1492810539) - 5-Minute Audio Lessons / iOS
