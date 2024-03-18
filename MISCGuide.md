@@ -1093,7 +1093,6 @@
 * [Fold & Cut](https://www.onemotion.com/fold-cut-paper/) - Make Digital Paper Snowflakes
 * [Iceberger](https://joshdata.me/iceberger.html) - Draw an Iceberg, See how it Floats
 * [BubblesPop](https://bubblespop.netlify.app/) - Pop Bubble Wrap
-* [Bubbles](https://oimo.io/works/bubbles/) - Blow Bubbles
 * [Fidget Page](https://www.fidgetpage.com/) - Play w/ Fidget Spinner
 * [Keep calm and poke me.](https://calm.ovh/) - Poke & Pull
 * [Elastic Man](https://www.adultswim.com/etcetera/elastic-man/) - Elastic Morty
@@ -1189,7 +1188,7 @@
 * [ARealMe](https://www.arealme.com/) - Quiz Collection
 * [Bestiefy](https://bestiefy.com/) - Friend Quizzes
 * [OpenPsychometrics](https://openpsychometrics.org/), [IDRLabs](https://www.idrlabs.com/) or [16 Personalities](https://www.16personalities.com/) - Personality Tests / [Note](https://pastebin.com/9DB0nMrT)
-* [Six Triangles](https://sixtriangles.github.io/), [9 Axes](https://9axes.github.io/), [8dreams](https://8dreams.github.io/), [ISideWith](https://www.isidewith.com/) or [8 Values](https://8values.github.io/) - Political Alignment Test / [Note](https://pastebin.com/9DB0nMrT)
+* [Six Triangles](https://sixtriangles.github.io/), [PoliticalCompass](https://www.politicalcompass.org/), [9 Axes](https://9axes.github.io/), [8dreams](https://8dreams.github.io/), [ISideWith](https://www.isidewith.com/) or [8 Values](https://8values.github.io/) - Political Alignment Test / [Note](https://pastebin.com/9DB0nMrT)
 * [theOtaku](https://theotaku.com/quizzes) - Anime Personality Quizzes
 * [Goody2](https://www.goody2.ai/chat) - Worlds Most Ethical AI
 * [HowNormalAmI?](https://www.hownormalami.eu/) - Face Judge A.I.
