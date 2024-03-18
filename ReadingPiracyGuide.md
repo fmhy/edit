@@ -7,7 +7,7 @@
 # ► Audiobooks
 
 * ⭐ **[Mobilism Audiobooks](https://forum.mobilism.org/viewforum.php?f=124)** / [User Ranks](https://pastebin.com/pZuuMxYm)
-* ⭐ **[Audiobook Bay](https://audiobookbay.is/)** - Torrents / Avoid Fake DL links, Use [Torrents / Magnets](https://i.ibb.co/8sV2061/0fa8159b11bb.png)
+* ⭐ **[Audiobook Bay](https://audiobookbay.lu/)** - Torrents / Avoid Fake DL links, Use [Torrents / Magnets](https://i.ibb.co/8sV2061/0fa8159b11bb.png)
 * ⭐ **[Tokybook](https://tokybook.com/)** - Listen Online
 * ⭐ **[Audiobook CSE](https://cse.google.com/cse?cx=006516753008110874046:cwbbza56vhd)** or **[Rave Search](https://ravebooksearch.com/index-audiobooks)** - Multi-Site Audiobook Search
 * [HDAudiobooks](https://hdaudiobooks.com/) - Listen Online
