@@ -75,7 +75,7 @@
 * [DuckDuckGo Privacy Browser](https://duckduckgo.com/app)
 * [SmartCookieWeb](https://smartcookieweb.com/)
 * [Privacy Browser](https://www.stoutner.com/privacy-browser-android/)
-* [Thor](https://gitlab.com/remmer.wilts/thor)
+* [Thor](https://gitlab.com/lp2p/thor)
 
 ***
 
@@ -138,7 +138,7 @@
 * ⭐ **[WebOasis](https://weboasis.app/)**, [2](https://ndsamuelson.github.io/weboas-is/) - [Source Code](https://pastebin.com/CczqreS4)
 * ⭐ **[MONKNOW](https://www.monknow.com/)**
 
-[8bitdash](https://www.8bitdash.com/), [8 Bit Dashboard](https://8bitdashboard.com/), [Startpage Emporium](https://startpages.github.io/), [Awesome Startpage](https://github.com/jnmcfly/awesome-startpage), [StartTree](https://github.com/Paul-Houser/StartTree), [New Tab Addons](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_customizable_new_tab_page), [Clippingmini](https://www.clippingmini.com/), [Draggo](https://draggo.com/), [Pearltrees](https://www.pearltrees.com/), [Nextcloud](https://apps.nextcloud.com/apps/bookmarks), [Cling](https://cling.com/), [Symbaloo](https://www.symbaloo.com/), [Tixio](https://tixio.io/), [Bento](https://github.com/migueravila/Bento), [ez.lol](https://ez.lol/), [nightly](https://github.com/damnitharshit/nightly), [Protopage](https://www.protopage.com/), [tilde](https://github.com/xvvvyz/tilde), [Homepage](https://github.com/Jaredk3nt/homepage), [Fluidity](https://github.com/PrettyCoffee/fluidity), [AllMyFaves](https://allmyfaves.com/)
+[8bitdash](https://www.8bitdash.com/), [8 Bit Dashboard](https://8bitdashboard.com/), [Startpage Emporium](https://startpages.github.io/), [Awesome Startpage](https://github.com/jnmcfly/awesome-startpage), [StartTree](https://github.com/Paul-Houser/StartTree), [Clippingmini](https://www.clippingmini.com/), [Draggo](https://draggo.com/), [Pearltrees](https://www.pearltrees.com/), [Nextcloud](https://apps.nextcloud.com/apps/bookmarks), [Cling](https://cling.com/), [Symbaloo](https://www.symbaloo.com/), [Tixio](https://tixio.io/), [Bento](https://github.com/migueravila/Bento), [ez.lol](https://ez.lol/), [nightly](https://github.com/damnitharshit/nightly), [Protopage](https://www.protopage.com/), [tilde](https://github.com/xvvvyz/tilde), [Fluidity](https://github.com/PrettyCoffee/fluidity), [AllMyFaves](https://allmyfaves.com/)
 
 **Customizable New Tab Page**
 
@@ -314,7 +314,7 @@
 
 ## Fun Indexes
 
-[Neal.fun](https://neal.fun/), [AIDN](https://aidn.jp/), [Neave](https://codepen.io/neave) / [2](https://neave.com/), [BoredHumans](https://boredhumans.com/), [puissant](https://sandwichpuissant.net/), [ThisIsMyWebsiteNow](https://www.thisismywebsitenow.com/), [Mr.doob](https://mrdoob.com/), [Bimble Space](https://in.bimble.space/toys), [Creative Tech Guy](https://creativetechguy.com/), [Just For Fun](https://justforfun.io/), [Andrew Marsh](https://andrewmarsh.com/software), [JenniferDewalt](https://jenniferdewalt.com/), [Chrome Experiments](https://experiments.withgoogle.com/collection/chrome), [0x2a](https://0x2a.re/), [yezi](https://yezi.itch.io/), [topster](https://topster.net/), [p5aholic](https://experiments.p5aholic.me/), [vole.wtf](https://vole.wtf/), [WilliamHoza](https://williamhoza.com/misc/), [Rinkworks](http://www.rinkworks.com/), [Orteil](https://orteil.dashnet.org/), [funwebsite](https://funwebsite.fun/)
+[Neal.fun](https://neal.fun/), [Oimo](https://oimo.io/works ), [AIDN](https://aidn.jp/), [Neave](https://codepen.io/neave) / [2](https://neave.com/), [BoredHumans](https://boredhumans.com/), [puissant](https://sandwichpuissant.net/), [ThisIsMyWebsiteNow](https://www.thisismywebsitenow.com/), [Mr.doob](https://mrdoob.com/), [Bimble Space](https://in.bimble.space/toys), [Creative Tech Guy](https://creativetechguy.com/), [Just For Fun](https://justforfun.io/), [Andrew Marsh](https://andrewmarsh.com/software), [JenniferDewalt](https://jenniferdewalt.com/), [Chrome Experiments](https://experiments.withgoogle.com/collection/chrome), [0x2a](https://0x2a.re/), [yezi](https://yezi.itch.io/), [topster](https://topster.net/), [p5aholic](https://experiments.p5aholic.me/), [vole.wtf](https://vole.wtf/), [WilliamHoza](https://williamhoza.com/misc/), [Rinkworks](http://www.rinkworks.com/), [Orteil](https://orteil.dashnet.org/), [funwebsite](https://funwebsite.fun/)
 
 ***
 
