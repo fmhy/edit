@@ -72,7 +72,6 @@
 * [XXXDan](https://xxxdan.com/) - 200 adult categories, non hd
 * [PornHoarder](https://pornhoarder.tv/)
 * [Adultism](https://www.adultism.com/), [YourAmateurPorn](https://www.youramateurporn.com/), [Terk](https://www.terk.nl/) or [HClips](https://hclips.com/) - Amateur Porn
-* [PMV Haven](https://pmvhaven.com/) - Porn Music Videos
 
 ***
 
@@ -358,7 +357,6 @@
 * [Hentai Upscales](https://t.me/+4zMgLbnhiF5hZGRk) - Hentai DDL
 * [AnimeTime](https://www.animetime.pw/) - Hentai DDL
 * [FapForFun](https://fapforfun.net/) - Hentai Torrents
-* [HMV Mania](https://hmvmania.com/) or [iwara](https://www.iwara.tv/) - Hentai Music Videos
 * [Rule34Video](https://rule34video.com/) - 3D Porn
 * [Rule34Porn](https://rule34porn.net/) - 3D Porn
 * [XAnimu](https://xanimu.com/) - 3D Porn
