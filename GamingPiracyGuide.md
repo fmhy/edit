@@ -79,7 +79,6 @@
 * [GamesNostalgia](https://gamesnostalgia.com/), [lemon64](https://www.lemon64.com/) or [C64.com](https://www.c64.com/) - Commodore 64
 * [whdload](https://www.whdload.de/), [lemonamiga](https://www.lemonamiga.com/), [exotica](http://www.exotica.org.uk/) or [hol abime](https://hol.abime.net/) - Amiga
 * [PC-98 Drive](https://rentry.co/FMHYBase64#pc-98) - PC-98
-* [Necromanthus](https://necromanthus.com/) - 3D Shockwave
 * [LegendsWorld](https://www.legendsworld.net/) - Retro PC Adventures
 * [Win7Games](https://win7games.com/) - Classic Windows Games
 
@@ -92,6 +91,7 @@
 * 🌐 **[Awesome Terminal Games](https://ligurio.github.io/awesome-ttygames/)** - ASCII Terminal Games
 * ⭐ **[OpenRCT2](https://openrct2.io/)**, [2](https://openrct2.org/) - Open-Source RollerCoaster Tycoon 2
 * [VGPErson](https://vgperson.com/games/) - Simple Japanese Games
+* [Necromanthus](https://necromanthus.com/) - 3D Shockwave Games
 * [Minetest](https://www.minetest.net/) or [Cassicube](https://www.classicube.net/) - Open-Source Minecraft Alternatives
 * [Grasscutter](https://github.com/Grasscutters/Grasscutter) - Private Genshin Impact Servers / [Discord](https://discord.gg/T5vZU6UyeG)
 * [LunarCore](https://github.com/Melledy/LunarCore) - Private Honkai: Star Rail Servers
