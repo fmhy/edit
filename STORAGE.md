@@ -1109,7 +1109,6 @@
 
 ###  Udemy TG Channels
 
-* [course_drive](https://t.me/course_drive)
 * [freecourseweb](https://t.me/freecourseweb)
 * [udemyforu](https://t.me/udemyforu)
 * [CGPERS](https://t.me/CGPERS)
