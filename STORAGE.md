@@ -417,6 +417,19 @@
 
 ***
 
+## Geometry Dash Demon Lists
+
+* ⭐ **[Official Demon List](https://pointercrate.com/demonlist/)**
+* [Challenge List](https://challengelist.gd/challenges/)
+* [Unrated Demons List](https://udl.pages.dev/#/)
+* [Rated Extremes List](https://aredl.pages.dev/)
+* [Impossible Levels List](https://docs.google.com/document/d/1byBf60vW_Tq7TjQPyniBxQ1Iw9CtSURJU4_Cl1IziqY/edit)
+* [Nine Circles List](https://sites.google.com/view/nine-circles-demonlist/main-list)
+* [HRR Mobile List](https://mobilepointercrate.com/)
+* [60hz Mobile List](https://sites.google.com/view/gd-mobile-lists/top-100-demons-completed?authuser=0)
+
+***
+
 ## Git Projects
 
 * [GitHub Rankings](https://evanli.github.io/Github-Ranking/) - Git Project Rankings
