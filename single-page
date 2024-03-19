@@ -178,10 +178,11 @@
 
 * 🌐 **[ngosang](https://ngosang.github.io/trackerslist/)** / [2](https://ngosang.github.io/trackerslist/trackers_all.txt), [trackerslist](https://trackerslist.com/) / [GitHub](https://github.com/XIU2/TrackersListCollection) or [NewTrackOn](https://newtrackon.com/list) - Tracker Lists
 * 🌐 **[Auto Torrent Tools List](https://redd.it/hbwnb2)** / [2](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video#wiki_.25BA_torrent_apps)
-* ⭐ **[PreDB.me](https://predb.me/)** / [PreDB.net](https://predb.de/), [Scnlog](https://scnlog.me), [M2V](https://m2v.ru/), [Milkie](https://milkie.cc/) / [Discord](https://discord.com/invite/E4khNy5dz3), [Xrel](https://www.xrel.to/) or [srrDB](https://www.srrdb.com/) - Scene Release Trackers
+* ⭐ **[Milkie](https://milkie.cc)** / [Discord](https://discord.com/invite/E4khNy5dz3), [Scnlog](https://scnlog.me), [PreDB.me](https://predb.me) - Scene Release Download
 * ⭐ **[T2M](https://nutbread.github.io/t2m/)** / [2](https://github.com/nutbread/t2m), [btsow](https://btsow.motorcycles/) or [Torrent Kitty](https://www.torrentkitty.tv/) / [2](https://www.torrentkitty.net/) / [3](https://www.torrentkitty.lol/) - Torrent to Magnet Converters
 * ⭐ **[Magnet2Torrent](https://magnet2torrent.com/)** - Magnet to Torrent Converter
 * ⭐ **[Torrent Legality](https://i.ibb.co/HHqC4V2/11e244ddbdfb.png)** - Torrenting Laws by Country
+* [Xrel](https://www.xrel.to), [PreDB.net](https://predb.de), [srrDB](https://www.srrdb.com), [M2V](https://m2v.ru) - Scene Release İnfo
 * [WarezBot](https://github.com/enzobes/WarezBot) - Discord Scene Release Tracker
 * [btcache](https://btcache.me/), [iTorrents](https://itorrents.org) or [Torrage](https://torrage.info/) - Torrent Storage Cache
 * [InfoTorrent](https://infotorrent.tnl.one/) or [Webtorrent Checker](https://checker.openwebtorrent.com/) - Check Torrent File Health
