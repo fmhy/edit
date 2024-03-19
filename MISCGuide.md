@@ -360,7 +360,7 @@
 # ► News
 
 * 🌐 **[5000 Best News Sites](http://5000best.com/websites/News/)** - News Sites Index
-* 🌐 **[AllYouCanRead](https://www.allyoucanread.com/), [W3Newspapers.com](https://www.w3newspapers.com/), [World-Newspapers](https://world-newspapers.com/), [OnlineNewspapers](https://www.onlinenewspapers.com), [4IMN](https://www.4imn.com/) or [newspapersglobal](https://www.newspapersglobal.com/)** - Worldwide News Sites Indexes
+* 🌐 **[AllYouCanRead](https://www.allyoucanread.com/)**, [W3Newspapers.com](https://www.w3newspapers.com/), [World-Newspapers](https://world-newspapers.com/), [OnlineNewspapers](https://www.onlinenewspapers.com), [4IMN](https://www.4imn.com/) or [newspapersglobal](https://www.newspapersglobal.com/) - Worldwide News Sites Indexes
 * 🌐 **[Current Events Wiki](https://en.m.wikipedia.org/wiki/Portal:Current_events)** or [Slower News](https://www.slowernews.com/) - Breaking News
 * ⭐ **[/m/news](https://www.reddit.com/user/nbatman/m/news/)** - News Multireddit
 * ⭐ **[PublicAlerts](https://google.org/publicalerts)** - Important News / Disaster Alerts
@@ -1025,7 +1025,7 @@
 * [Random Comic Generator 3.0](https://explosm.net/rcg) - Explosm Random Comic Generator
 * [Chris Shier](https://www.csh.bz/) - Canvas Animations / GIFs
 * [Three.js](https://threejs.org/) - JavaScript 3D library 
-* [88x31](https://cyber.dabamos.de/88x31/index.html) or [Web Badges World](https://web.badges.world/) - Oldschool Web Badges
+* [88x31](https://cyber.dabamos.de/88x31/index.html), [THE 88×31 ARCHIVE](https://hellnet.work/8831/) or [Web Badges World](https://web.badges.world/) - Oldschool Web Badges
 * [/r/Place Atlas](https://place-atlas.stefanocoding.me/) - /r/Place Info
 * [LameBook](https://www.lamebook.com/) - Funny Facebook Status'
 * [Kittenwar!](https://www.kittenwar.com/) - Rate Kittens
@@ -1207,8 +1207,6 @@
 * [Fun Trivia](https://www.funtrivia.com/) or [Sporcle](https://www.sporcle.com/) - Trivia
 * [ARealMe](https://www.arealme.com/) - Quiz Collection
 * [Bestiefy](https://bestiefy.com/) - Friend Quizzes
-* [OpenPsychometrics](https://openpsychometrics.org/), [IDRLabs](https://www.idrlabs.com/) or [16 Personalities](https://www.16personalities.com/) - Personality Tests / [Note](https://pastebin.com/9DB0nMrT)
-* [Six Triangles](https://sixtriangles.github.io/), [PoliticalCompass](https://www.politicalcompass.org/), [9 Axes](https://9axes.github.io/), [8dreams](https://8dreams.github.io/), [ISideWith](https://www.isidewith.com/) or [8 Values](https://8values.github.io/) - Political Alignment Test / [Note](https://pastebin.com/9DB0nMrT)
 * [theOtaku](https://theotaku.com/quizzes) - Anime Personality Quizzes
 * [Goody2](https://www.goody2.ai/chat) - Worlds Most Ethical AI
 * [HowNormalAmI?](https://www.hownormalami.eu/) - Face Judge A.I.
