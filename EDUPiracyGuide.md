@@ -62,7 +62,6 @@
 * [Hillsdale College](https://online.hillsdale.edu/) - Courses
 * [SelfSchool](https://selfschool.me/) - Courses
 * [Cursa](https://cursa.app/) - Courses
-* [NPTEL](https://nptel.ac.in/course.html) - Courses
 * [Real.Discount](https://www.real.discount/) - Courses
 * [Kadenze](https://www.kadenze.com/) - Courses
 * [OnlineTutorials](https://www.onlinetutorials.org/) - Courses
@@ -88,19 +87,6 @@
 * [Ted Talks](https://www.ted.com/) - Inspiring and Educational Talks
 * [NYU-DLSP21](https://atcold.github.io/NYU-DLSP21/) - Deep Learning Course
 * [pad.ma](https://pad.ma/) - Text-annotated Videos
-* [UdemyFreeCourses](https://udemyfreecourses.org/) - Udemy Courses
-* [Study Bullet](https://studybullet.com/) - Udemy Courses / [Telegram](https://telegram.me/joinchat/AAAAAFdxBDqPv7ZzVoUASw)
-* [TutsNode](https://tutsnode.org/) - Udemy Courses
-* [/r/udemyfreebies](https://reddit.com/r/udemyfreebies) - Udemy Courses
-* [Automatic-Udemy-Course-Enroller](https://github.com/aapatre/Automatic-Udemy-Course-Enroller-GET-PAID-UDEMY-COURSES-for-FREE) or [Discounted-Udemy-Course-Enroller](https://github.com/techtanic/Discounted-Udemy-Course-Enroller) - Auto Udemy Course Enrollment
-* [Online Courses Tracker](https://comidoc.net/) - Udemy Courses
-* [Techlinks](https://www.techlinks.in/udemy-free-coupons) - Udemy Courses
-* [course_drive](https://t.me/course_drive) - Udemy Courses / Telegram
-* [freecourseweb](https://t.me/freecourseweb) - Udemy Courses / Telegram
-* [udemyforu](https://t.me/udemyforu) - Udemy Courses / Telegram
-* [CGPERS](https://t.me/CGPERS) - Udemy Courses / Telegram
-* [UdemyBot](https://github.com/gautamajay52/UdemyBot), [UdemyScrapperZBot](https://t.me/UdemyScrapperZBot) or [UdemyPy](https://github.com/dylannalex/UdemyPy) - Udemy Course Bots
-* [GUdemyBot](https://t.me/GUdemyBot) - Udemy Coupon Bot
 * [CommSpeeches](https://commspeeches.softr.app/) - Famous Graduation Speeches
 
 ***
@@ -112,16 +98,12 @@
 ***
 
 * ↪️ **[Course Megadrives](https://rentry.co/FMHYBase64#course-megadrives)**
-* ⭐ **[TutFlix](https://tutflix.org/)** - Courses / Drives
 * ⭐ **[OneHack](https://onehack.us/)** - Courses
 * ⭐ **[HackNation](https://hacksnation.com/)** - Courses
 * [CourseDL](https://rentry.co/FMHYBase64#coursedl) - Courses
 * [Revival](https://rentry.co/FMHYBase64#revival) - Courses
-* [HMDRIVE](https://t.me/HMDRIVE_OFFICIAL) - Courses
-* [Iit jee lectures](https://t.me/Iitjeeinveins2), [Rankers](https://t.me/+mcZ0RHaH9vRlM2Y1) or [Genetry](https://genetry.carrd.co/) - JEE Lectures
+* [Genetry](https://genetry.carrd.co/) - JEE Lectures
 * [CoursesDaddy](https://coursesdaddy.com/) - Courses
-* [Super Huge Course Collection](https://babia.to/threads/%F0%9F%94%A5%F0%9F%94%A5-super-huge-course-collection-700-courses-3tb-data-%F0%9F%94%A5%F0%9F%94%A5.40041/) - Courses
-* [online-courses](https://online-courses.club/) - Courses
 * [Coursesghar](https://coursesghar.com/) - Courses
 * [FreeEducationWeb](https://freeeducationweb.com/) - Courses
 * [FreeCourseDL](https://freecoursedl.com/) - Courses
@@ -142,20 +124,9 @@
 * [CourseInDrive](https://t.me/CourseInDrive) - Courses / Telegram
 * [WEBCHARMERS](https://t.me/WEBCHARMERS) - Courses / Telegram
 * [FreebieCourses](https://t.me/freebiecourses) - Courses / Telegram
-* [Udemy_Courses_Free_Daily](https://t.me/Udemy_Courses_Free_Daily) - Courses / Telegram
 * [CourseBusters](https://t.me/coursebusters) - Courses / Telegram
 * [learningDL](https://learningdl.net/) - Courses / Leech required
 * [FreeTutsDownload.net](https://freetutsdownload.net/) - Courses / Tutorials
-* [Udemy Course Megadrives](https://rentry.co/FMHYBase64#udemy-course-drives)
-* [UdemyKing](https://t.me/udemyking1) - Udemy Courses
-* [CourseArray](https://t.me/udemycoursesfree) - Udemy Courses
-* [Downloadr](https://downloadr.in/) - Udacity & Udemy Courses
-* [Giga Course](https://gigacourse.com/) - Udemy Courses
-* [Udemy 24](https://udemy24.com/) - Udemy Courses
-* [FreeCourseWeb](https://freecourseweb.com/) - Udemy Courses
-* [Download Online Tutorials Free](https://www.howtofree.org/) - Udemy Courses
-* [udemy-downloader](https://github.com/Puyodead1/udemy-downloader) - Udemy Downloader
-* [Udemy Download Guide](https://docs.google.com/document/d/1W91OS9rj7h9DBp5UwR68lA2zMEtqNmxdGaNVmBktIaw/) - [Discord](https://discord.gg/tMzrSxQ)
 * [LinkedIn_Learning](https://t.me/linkedin_learning) - LinkedIn Courses
 * [CertCommunity](https://www.certcommunity.org/forum/) - IT Cert Courses
 * [Linux Interview Q&A's](https://rentry.co/FMHYBase64#top-linux-interview-qas) - Linux Interview Q&A
@@ -172,10 +143,8 @@
 
 * [Course Club](https://courseclub.me/) - Courses
 * [FreeCourseSite](https://freecoursesite.com/) - Courses
-* [DownloadFreeCourse](https://downloadfreecourse.com/) - Courses
 * [FreeCoursesOnline](https://freecoursesonline.me/) - Courses
 * [Docspedia](https://docspedia.world/) - Courses / Signup Required
-* [Giga Course](https://gigacourse.com/) - Udemy Courses
 
 ***
 
@@ -299,28 +268,20 @@
 * ⭐ **[Wolfram|Alpha](https://www.wolframalpha.com/examples/mathematics)** - Calculator
 * ⭐ **[Omni Calculator](https://www.omnicalculator.com/)** - Calculator
 * [CalculatorSoup](https://www.calculatorsoup.com/) - Calculator
-* [Number Empire](https://www.numberempire.com/) - Calculator
-* [Calculator.net](https://www.calculator.net/) - Calculator
-* [KeepFormula](https://keepformula.github.io/) - Calculator
 * [GigaCalculator](https://www.gigacalculator.com/) - Calculator
 * [numbr.dev](https://numbr.dev/) - Calculator
 * [Qalculate](https://qalculate.github.io/) - Desktop Calculator
 * [QwikTape](https://github.com/4silvertooth/QwikTape) - Note Style Calculator
 * [MathB.in](https://mathb.in/) - Mathematics pastebin with LaTeX and Markdown
-* [All-In-One Calculator](https://play.google.com/store/apps/details?id=all.in.one.calculator) - Multi-Calculator App / Android
-* [MatrixCalc](https://matrixcalc.org/en/), [Reshish](https://matrix.reshish.com/) or [MatrixOP](https://simplx.dev/matrixop/) - Matrix Calculators
-* [Matrix Multiplication](http://matrixmultiplication.xyz/) - Matrix Multiplication Calculator
+* [MatrixCalc](https://matrixcalc.org/en/) or [Reshish](https://matrix.reshish.com/) - Matrix Calculators
 * [Mathcha](https://www.mathcha.io/) - Online Math Editor
 * [EquatIO](https://chromewebstore.google.com/detail/equatio-math-made-digital/hjngolefdpdnooamgdldlkjgmdcmcjnc) - Math Equation Creator
 * [SequenceDB](https://sequencedb.net/) - Sequence Machine
 * [OEIS](https://oeis.org/) - Encyclopedia of Integer Sequences
 * [Giac/Xcas](https://www-fourier.ujf-grenoble.fr/~parisse/giac.html) - Algebra System
 * [Algebra Rules](https://algebrarules.com/) - Learn Algebra Rules
-* [Weboasis Convert](https://weboasis.app/convert/) - Conversion Calculators
-* [PecentageTools](https://percentagetools.com/) - Percentage Calculators
-* [CoolConversion](https://coolconversion.com/), [UnitConverters](https://www.unitconverters.net/), [Converter Pro](https://f-droid.org/packages/com.ferrarid.converterpro/), [OneConvert](https://oneconvert.com/), [ConvertUnits](https://www.convertunits.com/) or [ConvertAll](https://convertall.bellz.org/) - Unit Converters
-* [Derivative Calculator](https://www.derivative-calculator.net/) - Derivative Calculator
-* [Integral Calculator](https://www.integral-calculator.com/) - Integral Calculator
+* [CoolConversion](https://coolconversion.com/), [UnitConverters](https://www.unitconverters.net/), [Converter Pro](https://f-droid.org/packages/com.ferrarid.converterpro/), [OneConvert](https://oneconvert.com/) or [ConvertAll](https://convertall.bellz.org/) - Unit Converters
+* [Integral Calculator](https://www.integral-calculator.com/) or [Derivative Calculator](https://www.derivative-calculator.net/) - Integral / Derivative Calculators
 * [Desmos](https://www.desmos.com/) - Graphing Calculator
 * [TicCalc](https://www.ticalc.org/pub/) - TI Graphing Calculator Files
 * [TI-Basic Developer](http://tibasicdev.wikidot.com/) - TI-Basic Info Repository
@@ -328,18 +289,16 @@
 * [ISciDAVis](https://sourceforge.net/projects/scidavis/) - Scientific Data Plotter
 * [FreeFEM](https://freefem.org/) - Partial Differential Equations Solver
 * [Approach0](https://approach0.xyz/search/) - Math Formula Search
-* [Online Math Tools](https://onlinetools.com/math) - Multiple Math Tools
 * [3b1b](https://github.com/3b1b/videos) / [2](https://github.com/3b1b/manim) - Generate Explanatory Math Videos
 * [MathOnline](http://mathonline.wikidot.com/) or [Mathigon](https://mathigon.org/) - Math / Courses
 * [Professor Leonard](https://www.youtube.com/channel/UCoHhuummRZaIVX7bD4t2czg) or [MisterWootube](https://www.youtube.com/c/misterwootube) - YouTube Math Lessons
 * [Mathispower4u](https://www.mathispower4u.com/), [SchoolYourself](https://schoolyourself.org/), [mathhelp](https://www.mathhelp.com/), [MathPortal](https://www.mathportal.org/), [mathonline](http://mathonline.wikidot.com/) or [CoolMath](https://www.coolmath.com/) - Math Lessons / Practice
-* [Math is Fun](https://www.mathsisfun.com/games/index.html) or [CoolMathGames](https://www.coolmathgames.com/) - Math Games
+* [CoolMathGames](https://www.coolmathgames.com/) - Math Games
 * [Mathlets](https://mathlets.org/), [GeoGebra](https://www.geogebra.org/) or [Mathspad](https://www.mathspad.co.uk/resources.php?interactives=1) - Interactive Math Sites
 * [Cut The Knot](https://cut-the-knot.org/) - Math Equations
 * [IXL Learning](https://au.ixl.com/math/) - Math Practice / Quizzes
-* [Math Exercises](https://www.math-exercises.com/) or [MathBitsNotebook](https://mathbitsnotebook.com/) - Math Practice
 * [Pauls Online Math Notes](https://tutorial.math.lamar.edu/) - Math Practice / Guides
-* [ParkMath](https://parkmath.github.io/), [FreeMathHelp](https://freemathhelp.com/) or [Math2.org](http://math2.org/) - Math Guides
+* [ParkMath](https://parkmath.github.io/) or [FreeMathHelp](https://freemathhelp.com/) - Math Guides
 * [Fourier Transform](https://www.jezzamon.com/fourier/index.html) - Interactive Fourier Transform Guide
 * [Terence Tao Research](https://terrytao.wordpress.com/) - Mathematical Research
 * [Math is Fun](https://www.mathsisfun.com/) - Math Tutorials / Puzzles / Games
@@ -347,9 +306,7 @@
 * [Project Euler](https://projecteuler.net/) - Math / Programming Problems
 * [IMS](https://github.com/OpenIntroStat/ims) - Introduction to Modern Statistics
 * [Seeing Theory](https://seeing-theory.brown.edu/) or [Stat Trek](https://stattrek.com/) - Statistics & Probability Tutorials
-* [MathWords](https://www.mathwords.com/) - Math Term Dictionary
 * [arTIfiCE](https://yvantt.github.io/arTIfiCE/) - TI CE Calculator Jailbreak
-* [MathLeaks](https://mathleaks.com/) - Math Textbook Answers
 
 ***
 
@@ -362,7 +319,6 @@
 * ⭐ **[Physics Simulations](https://www.csun.edu/science/software/simulations/physics.html)**, [Mujoco](https://github.com/google-deepmind/mujoco), [Physics Animations](https://www.animations.physics.unsw.edu.au/), [oPhysics](https://ophysics.com/index.html) or [MyPhysicsLab](https://www.myphysicslab.com/index-en.html) - Physics Simulations / Animations
 * [PhysicsClassroom](https://www.physicsclassroom.com/) - Physics Lessons
 * [PhysicsTravelGuide](https://physicstravelguide.com/) - Physics Explanations
-* [Physics and Maths Tutor](https://www.physicsandmathstutor.com/) - UK High School Notes & Papers
 * [Algodoo](http://www.algodoo.com/) - Interactive Physics Tool
 * [QPaths](https://qpaths.deqart.com/) - Learn Basic Quantum Terms
 * [quantum](https://play.google.com/store/apps/details?id=brychta.stepan.quantum_en) - Quantum Physics Learning App
@@ -388,6 +344,7 @@
 * ⭐ **[/r/AskEngineers](https://www.reddit.com/r/AskEngineers/)** - Engineering Q&A Sub / [Library](https://www.reddit.com/r/AskEngineers/wiki/library) / [Acronyms](https://www.reddit.com/r/AskEngineers/wiki/acronyms) / [FAQ](https://www.reddit.com/r/AskEngineers/wiki/faq) / [Work Tips](https://www.reddit.com/r/AskEngineers/wiki/workexperience#wiki_work_experience)
 * ⭐ **[/m/engineering](https://www.reddit.com/user/nbatman/m/engineering/)** - Engineering Multireddit
 * ⭐ **[/r/engineering](https://www.reddit.com/r/engineering/)** or [/r/AutomotiveEngineering](https://www.reddit.com/r/AutomotiveEngineering/) - Engineering Subreddits
+* ⭐ **[NPTEL](https://nptel.ac.in/course.html)** - Engineering Courses
 * [fxSolver](https://www.fxsolver.com/), [Calculator++](https://f-droid.org/packages/org.solovyev.android.calculator/), [Kalker](https://kalker.xyz/) / [GitHub](https://github.com/PaddiM8/kalker) or [Calculatoria](https://www.calculatoria.com/) - Engineering Calculators
 * [Sanfoundry](https://www.sanfoundry.com/) - Engineering Questions & Answers
 * [CESDB](https://www.cesdb.com/) - Civil Engineering Software
@@ -626,6 +583,7 @@ https://cari.institute/
 * ⭐ **[Drawabox](https://drawabox.com/)**, [Croquis Cafe](https://croquis.cafe/), [Drawing Starter Pack Playlist](https://www.youtube.com/playlist?list=PL7KO8uN5A9PJsQIJzecnohhKjtMnSuFtR), [FarsiTuts](https://t.me/farsituts) or [Bill Martin's Guide to Drawing](https://www.guidetodrawing.com/) - Drawing Lessons
 * ⭐ **[Proko](https://www.youtube.com/user/ProkoTV/videos)** - Humanoid Figure Drawing Lesson
 * ⭐ **[PaintingTube](https://painting.tube)**, [MarcoBucci](https://www.youtube.com/@marcobucci), [Alphonso Dunn](https://www.youtube.com/c/ALPHONSODUNN/videos?view=0&sort=p&flow=grid), [Feng Zhu FZD](https://www.youtube.com/user/FZDSCHOOL/videos), [Art Fundamentals](https://www.youtube.com/playlist?list=PLVgLT-e3jXPDgeED0pD0BPq8kY1VAZAGa) or [Circle Line Art](https://www.youtube.com/user/circlelinemedia/videos) - Art Video Tutorials
+* [online-courses](https://online-courses.club/) - Art / Design Courses
 * [Curriculum for the Solo Artists](https://reddit.com/r/learnart/comments/dapk62/from_the_guy_who_made_the_most_comprehensive_list/) - Self-Taught Artist Curriculum / [PDF Version](https://mega.nz/file/sU0AxThb#m96_xISlS-5wtpSrauWFdh8mjhed7EitknQn_XIBaQc) / [Gallery Version](https://imgur.com/a/EZPc28m)
 * [TryDraw](https://www.trydraw.com/) - Improve Drawing Skills
 * [DoArtDaily](https://dad.gallery) - Daily Art Challenges
