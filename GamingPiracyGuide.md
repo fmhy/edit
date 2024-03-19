@@ -38,7 +38,6 @@
 * [RPG Maker Games](https://rpgmaker.net/games/?name_filter=&amp;engine=&amp;status=&amp;rating=&amp;commercial=exclude&amp;sort=&amp;portal=None) - Games made via RPG Maker
 * [DoujinStyle](https://discord.com/invite/z2QDFdA) - Doujin Games
 * [MoriyaShrine](https://moriyashrine.org/) - Touhou Games
-* [Win7Games](https://win7games.com/) - Classic Windows Games
 * [GrimReaper's Scene ISO Collection](https://archive.org/details/@waffess) - ISO Collection
 * [Redump Forum](http://forum.redump.org/) - Disc Preservation Project
 * [/r/CrackSupport](https://reddit.com/r/CrackSupport) - Cracking Discussion / [Matrix](https://matrix.to/#/!MFNtxvVWElrFNHWWRm:nitro.chat?via=nitro.chat&via=envs.net&via=matrix.org) / [Guilded](https://guilded.gg/crackwatch) / [FAQ](https://rentry.co/cracksupport)
@@ -82,6 +81,7 @@
 * [PC-98 Drive](https://rentry.co/FMHYBase64#pc-98) - PC-98
 * [Necromanthus](https://necromanthus.com/) - 3D Shockwave
 * [LegendsWorld](https://www.legendsworld.net/) - Retro PC Adventures
+* [Win7Games](https://win7games.com/) - Classic Windows Games
 
 ***
 
