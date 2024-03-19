@@ -607,27 +607,27 @@
 
 * 🌐 **[Android Emulators](https://emulation.gametechwiki.com/index.php/Android_emulators)** - Android Emulator Index
 * 🌐 **[Emulators on Android](https://emulation.gametechwiki.com/index.php/Emulators_on_Android)** - Emulators on Android
-* ⭐ **[Termux](https://termux.com/)**, [Limbo](https://github.com/limboemu/limbo) or [TermOne Plus](https://termoneplus.com/) - Terminal Emulators / OS Environments
+* ⭐ **[Termux](https://termux.com/)**, [Limbo](https://github.com/limboemu/limbo) or [TermOne Plus](https://termoneplus.com/) - Windows Emulator on Android / Terminal Emulators / OS Environments
 * ⭐ **Termux Tools** - [YT-DL](https://github.com/OzakIOne/termux-youtube-dl), [2](https://github.com/khansaad1275/Termux-YTD) / [Video Downloader](https://github.com/AbirHasan2005/LR-YTDL) / [GUI](https://github.com/termux/termux-gui) / [ADB / Fastboot Tools](https://github.com/MasterDevX/Termux-ADB) / [Beautify](https://github.com/mayTermux/myTermux)
-* ⭐ **[WSABuilds](https://github.com/MustardChef/WSABuilds)** - Windows Subsystem / Pre-built Binaries
+* ⭐ **[WSABuilds](https://github.com/MustardChef/WSABuilds)** - Android Emulator on Windows / Windows Subsystem / Pre-built Binaries
 * ⭐ **[WayDroid](https://waydro.id/)** / **[Git](https://github.com/waydroid)**, [Redroid](https://github.com/remote-android/redroid-doc), [PostmarketOS](https://www.postmarketos.org/), [Ubuntu Touch](https://ubuntu-touch.io/get-ubuntu-touch), [Plasma Mobile](https://plasma-mobile.org/) or [Mobian](https://mobian-project.org/) - Linux Subsystems
 * ⭐ **[Android Studio Emulator](https://developer.android.com/studio/run/managing-avds#createavd)**
-* ⭐ **[mobox](https://github.com/olegos2/mobox)** or [Winlator](https://github.com/brunodev85/winlator) - Android Windows Emulators
-* ⭐ **[Google Play Games](https://play.google.com/googleplaygames)** - Play Mobile Games on Windows
-* [Android x86](https://www.android-x86.org/) - Android Desktop OS / [Installer](https://aopc.dev/r/advanced-android-x86-installer-for-windows.61/) / [Source](https://www.android-x86.org/source.html) / [Smart Dock](https://github.com/axel358/smartdock)
-* [BlissOS](https://blissos.org/) - Android Desktop OS / [Git](https://github.com/blissroms-x86)
-* [PhoenixOS - BR](https://discord.gg/BQ4td84) - Android Desktop OS
-* [PhoenixOS Darkmatter](https://aopc.dev/r/phoenixos-darkmatter-supercharged-for-everyone.2/) - Android Desktop OS / [Discord](https://discord.com/invite/AcGAGrzZ4e)
+* ⭐ **[mobox](https://github.com/olegos2/mobox)** or [Winlator](https://github.com/brunodev85/winlator) -  Windows Emulator on Android
+* ⭐ **[Google Play Games](https://play.google.com/googleplaygames)** - Android Mobile Games on Windows
+* [Android x86](https://www.android-x86.org/) - Android Emulator on Windows / [Installer](https://aopc.dev/r/advanced-android-x86-installer-for-windows.61/) / [Source](https://www.android-x86.org/source.html) / [Smart Dock](https://github.com/axel358/smartdock)
+* [BlissOS](https://blissos.org/) - Android Emulator on Windows / [Git](https://github.com/blissroms-x86)
+* [PhoenixOS - BR](https://discord.gg/BQ4td84) - Android Emulator on Windows
+* [PhoenixOS Darkmatter](https://aopc.dev/r/phoenixos-darkmatter-supercharged-for-everyone.2/) - Android Emulator on Windows / [Discord](https://discord.com/invite/AcGAGrzZ4e)
 * [AOPC](https://aopc.dev/) - Android Desktop OS Forums
-* [Docker Android](https://github.com/budtmo/docker-android) - Android in Docker
-* [BareNox](https://forum.xda-developers.com/t/tool-guide-barenox-modded-nox-android-emulator.4468425/) or [Nox](https://www.bignox.com/) - [Screenshot](https://i.ibb.co/MkdmtYr/647f0f4f051c.jpg) / [Debloat Guide](https://gist.github.com/TameemS/72c4b92131977aced56e727d51599a48), [2](https://codefaq.org/emulator/how-to-remove-bloatware-on-nox-and-ldplayer-emulator/) / [Video](https://youtu.be/IjI_-pQUOhQ)
-* [GameLoop](https://www.gameloop.com/) - [Screenshot](https://i.ibb.co/WyggSQM/26828a9408f1.png)
-* [MuMu](https://www.mumuplayer.com/) - [Screenshot](https://i.ibb.co/vwBrY5M/bfa89c699ff7.png)
-* [MeMu](https://www.memuplay.com/) - [Screenshot](https://i.ibb.co/FsMfk68/6b4ce185773e.png) / [Debloater](https://gist.github.com/TameemS/603686cec857ff1f91e68607e374b0d8)
-* [LDPlayer](https://www.ldplayer.net/) - [Screenshot](https://i.ibb.co/CHKb40V/184625995e15.png)
-* [Genymotion](https://www.genymotion.com/download/) - [Screenshot](https://i.ibb.co/6W7BXJn/6a291e5b5ac9.jpg) 
-* [Wakuoo](https://wakuoo.com) - [Screenshot](https://i.ibb.co/tMkxvQr/cfaea91031d7.png)
-* [Ubuntu on Android](https://github.com/RandomCoderOrg/ubuntu-on-android) - Ubuntu Android Emulator
+* [Docker Android](https://github.com/budtmo/docker-android) - Android on Docker
+* [BareNox](https://forum.xda-developers.com/t/tool-guide-barenox-modded-nox-android-emulator.4468425/) or [Nox](https://www.bignox.com/) - Android Emulator on Windows [Screenshot](https://i.ibb.co/MkdmtYr/647f0f4f051c.jpg) / [Debloat Guide](https://gist.github.com/TameemS/72c4b92131977aced56e727d51599a48), [2](https://codefaq.org/emulator/how-to-remove-bloatware-on-nox-and-ldplayer-emulator/) / [Video](https://youtu.be/IjI_-pQUOhQ)
+* [GameLoop](https://www.gameloop.com/) - Android Emulator on Windows / [Screenshot](https://i.ibb.co/WyggSQM/26828a9408f1.png)
+* [MuMu](https://www.mumuplayer.com/) -  Android Emulator on Windows / [Screenshot](https://i.ibb.co/vwBrY5M/bfa89c699ff7.png)
+* [MeMu](https://www.memuplay.com/) - Android Emulator on Windows / [Screenshot](https://i.ibb.co/FsMfk68/6b4ce185773e.png) / [Debloater](https://gist.github.com/TameemS/603686cec857ff1f91e68607e374b0d8)
+* [LDPlayer](https://www.ldplayer.net/) - Android Emulator on Windows / [Screenshot](https://i.ibb.co/CHKb40V/184625995e15.png)
+* [Genymotion](https://www.genymotion.com/download/) - Android Emulator on Windows / [Screenshot](https://i.ibb.co/6W7BXJn/6a291e5b5ac9.jpg) 
+* [Wakuoo](https://wakuoo.com) - Android Emulator on Windows / [Screenshot](https://i.ibb.co/tMkxvQr/cfaea91031d7.png)
+* [Ubuntu on Android](https://github.com/RandomCoderOrg/ubuntu-on-android) - Ubuntu Emulator on Android 
 * [FlashLite](https://flashlite.games/) - Flash Emulator / [Discord](https://discord.gg/F2dsGhTX6y)
 * [JoiPlay](https://joiplay.cyou/) - RPG Maker Game Interpreter
 * [AdrenoToolsDrivers](https://github.com/K11MCH1/AdrenoToolsDrivers) - Adreno Drivers for Android Emulators / [Systemwide](https://github.com/SEGAINDEED/Adreno-ToolsDriversMagisk)
