@@ -741,25 +741,6 @@
 
 ***
 
-## ▷ Gacha Tools
-
-* 🌐 **[Paimon.moe](https://paimon.moe/)** or [Honey Impact](https://genshin.honeyhunterworld.com/) - Genshin Impact Resources / Tools
-* 🌐 **[Honkai.gg](https://honkai.gg/)** - Honkai Star Rail Resources / Tools
-* ⭐ **[Prydwen](https://www.prydwen.gg/)** - Gacha Game Guides / [Discord](https://discord.gg/prydwen)
-* ⭐ **[Keqingmains](https://keqingmains.com/)** - Genshin Guides
-* [/r/GachaGaming](https://www.reddit.com/r/gachagaming/) - Gacha Games Subreddit
-* [LunarCore](https://github.com/Melledy/LunarCore) - Private Honkai: Star Rail Servers
-* [Star Rail Station](https://starrailstation.com/) or [stardb.gg](https://stardb.gg/) - Honkai Star Rai Guides
-* [Seelie.me](https://seelie.me/) - Genshin / Star Rail Planner
-* [Genshin Center](https://genshin-center.com/) - Genshin Planner
-* [Genshin Helper Doc](https://docs.google.com/spreadsheets/d/1gNxZ2xab1J6o1TuNVWMeLOZ7TPOqrsf3SshP5DLvKzI/htmlview?pru=AAABdXYM80o*xMxXJdNbCCZ-v9FLVh6EXg) - Genshin Builds Guide
-* [Grasscutter](https://github.com/Grasscutters/Grasscutter) - Private Genshin Impact Servers / [Discord](https://discord.gg/T5vZU6UyeG)
-* [Genshin Impact FPS Unlocker](https://github.com/34736384/genshin-fps-unlock) - Unlock Genshin Impact FPS Cap
-* [Hoyolab Teyvat Interactive Map](https://act.hoyolab.com/ys/app/interactive-map/index.html), [Mapgenie Teyvat Interactive Map](https://mapgenie.io/genshin-impact) or [Genshin Impact Map](https://genshin-impact-map.appsample.com/) - Genshin Impact Maps
-
-
-***
-
 ## ▷ Minecraft Tools
 
 * 🌐 **[Awesome Minecraft](https://github.com/bs-community/awesome-minecraft)**, [Birdflop]( https://www.birdflop.com/resources/) or [Minecraft Tools](https://minecraft.tools/en/)- Minecraft Resources
@@ -964,6 +945,24 @@
 * [RBXServers](https://rbxservers.xyz/) - Roblox VIP Servers
 * [Roblox Studio](https://create.roblox.com/) - Roblox Dev Tool
 * [Roblox Web APIs](https://github.com/matthewdean/roblox-web-apis) - Roblox APIs
+
+***
+
+## ▷ Gacha Tools
+
+* 🌐 **[Paimon.moe](https://paimon.moe/)** or [Honey Impact](https://genshin.honeyhunterworld.com/) - Genshin Impact Resources / Tools
+* 🌐 **[Honkai.gg](https://honkai.gg/)** - Honkai Star Rail Resources / Tools
+* ⭐ **[Prydwen](https://www.prydwen.gg/)** - Gacha Game Guides / [Discord](https://discord.gg/prydwen)
+* ⭐ **[Keqingmains](https://keqingmains.com/)** - Genshin Guides
+* [/r/GachaGaming](https://www.reddit.com/r/gachagaming/) - Gacha Games Subreddit
+* [LunarCore](https://github.com/Melledy/LunarCore) - Private Honkai: Star Rail Servers
+* [Star Rail Station](https://starrailstation.com/) or [stardb.gg](https://stardb.gg/) - Honkai Star Rai Guides
+* [Seelie.me](https://seelie.me/) - Genshin / Star Rail Planner
+* [Genshin Center](https://genshin-center.com/) - Genshin Planner
+* [Genshin Helper Doc](https://docs.google.com/spreadsheets/d/1gNxZ2xab1J6o1TuNVWMeLOZ7TPOqrsf3SshP5DLvKzI/htmlview?pru=AAABdXYM80o*xMxXJdNbCCZ-v9FLVh6EXg) - Genshin Builds Guide
+* [Grasscutter](https://github.com/Grasscutters/Grasscutter) - Private Genshin Impact Servers / [Discord](https://discord.gg/T5vZU6UyeG)
+* [Genshin Impact FPS Unlocker](https://github.com/34736384/genshin-fps-unlock) - Unlock Genshin Impact FPS Cap
+* [Hoyolab Teyvat Interactive Map](https://act.hoyolab.com/ys/app/interactive-map/index.html), [Mapgenie Teyvat Interactive Map](https://mapgenie.io/genshin-impact) or [Genshin Impact Map](https://genshin-impact-map.appsample.com/) - Genshin Impact Maps
 
 ***
 
