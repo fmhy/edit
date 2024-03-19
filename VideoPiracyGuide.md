@@ -112,13 +112,13 @@
 * [BBC iPlayer](https://www.bbc.co.uk/iplayer) - Movies / TV / 1080p / [Downloader](https://github.com/get-iplayer/get_iplayer) / UK VPN required / Windscribe has UK free
 * [Pluto](https://pluto.tv/) - Movies / TV / 720p
 * [9PM](https://9pm.to/) - Movies / TV / 720p
-* [Vidlink](https://vidlink.org/) - Movies / 720p
+* [Vidlink](https://vidlink.org/) - Movies / 720p / Some NSFW Thumbnails
 * [VidStore](https://stream.vidzstore.com/) - Movies / 720p
 * [MovieXFilm](https://moviexfilm.com/) - Movies / TV / 720p
 * [VHMovies](https://vhmovies.to/) - Movies / TV / Anime / 720p
 * [Plex](https://watch.plex.tv/) - Movies / TV / 720p
 * [FreeTubeSpot](https://www.freetubespot.com/) - Movies / 480p
-* [MP4Mania](https://mp4mania1.net/) - Movies / 360p / [How to Use](https://i.imgur.com/CdFCNWA.mp4)
+* [MP4Mania](https://mp4mania1.net/) - Movies / 360p / [How to Use](https://files.catbox.moe/53xfma.mp4)
 * [JustWatch](https://www.justwatch.com/) - Search Legal Streaming Hosts
 * [Manually Scrape Sites](https://rentry.co/uxw6u)
 
@@ -413,7 +413,6 @@
 * [Xumo Play](https://play.xumo.com/networks) - TV / US only
 * [Sportsurge.club](https://sportsurge.club/) - Sports
 * [1Stream](https://1stream.eu/) - Sports
-* [s365](https://www.s365.live/) - Sports
 * [First Row Sports](https://firstsrowsports.tv/) - Sports
 * [VIP League](https://vipleague.im/), [2](https://www.vipleague.la/) - Sports
 * [StreamEast](https://streameast.to/) - Sports
