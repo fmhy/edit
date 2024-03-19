@@ -239,6 +239,7 @@
 * [Travel Safe](https://www.travelsafe-abroad.com/) - Travel Destination Safety Ratings
 * [Hate Map](https://www.splcenter.org/hate-map) - Hate Group Locations
 * [LiveUAMap](https://liveuamap.com/) - Ukraine Conflict Areas LiveFeed
+* [Packdensack](https://packdensack.com/) - Travel Packing List Generator
 
 ***
 
