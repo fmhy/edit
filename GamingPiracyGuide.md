@@ -70,17 +70,7 @@
 * 🌐 **[Awesome Open Source Games](https://github.com/michelpereira/awesome-open-source-games)** or [LibreGameWiki](https://libregamewiki.org/List_of_games) - Open-Source Games
 * 🌐 **[Awesome Game Remakes](https://github.com/radek-sprta/awesome-game-remakes)** or [Game Clones](https://osgameclones.com/) - Open-Source Remakes
 * 🌐 **[Awesome Terminal Games](https://ligurio.github.io/awesome-ttygames/)** - ASCII Terminal Games
-* ↪️ **[DOS](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_dos_games)** / **[MSX Games](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_msx_games)**
-* ⭐ **[My Abandonware](https://www.myabandonware.com/)** or **[AbandonwareGames](https://abandonwaregames.net/)** - Abandonware
 * ⭐ **[OpenRCT2](https://openrct2.io/)**, [2](https://openrct2.org/) - Open-Source RollerCoaster Tycoon 2
-* [PCGameAbandonware](https://www.pcgamesabandonware.com/), [Flashtro](https://flashtro.com/), [Zombs-Lair](https://www.zombs-lair.com/), [Old-Games.com](https://www.old-games.com/) or [VETUSWARE](https://vetusware.com/category/Games/) - Abandonware
-* [GamesNostalgia](https://gamesnostalgia.com/), [lemon64](https://www.lemon64.com/), [whdload](https://www.whdload.de/), [lemonamiga](https://www.lemonamiga.com/), [exotica](http://www.exotica.org.uk/), [hol abime](https://hol.abime.net/) or [C64](https://www.c64.com/) - Amiga / Commodore 64 Games
-* [World of Spectrum](https://worldofspectrum.org/) or [SpectrumComputing](https://spectrumcomputing.co.uk/) - Sinclair ZX Spectrum Games
-* [pc-98](https://rentry.co/FMHYBase64#pc-98) - PC-98 Games
-* [Necromanthus](https://necromanthus.com/) - 3D Shockwave Games
-* [NBlood](https://github.com/nukeykt/NBlood) - Reverse-Engineered Ports of Build Games
-* [LegendsWorld](https://www.legendsworld.net/) - Retro PC Adventure Games
-* [VGPErson](https://vgperson.com/games/) or [Japanese PC Compendium](https://japanesepccompendium.blogspot.com/) - Japanese PC Games
 * [Minetest](https://www.minetest.net/) or [Cassicube](https://www.classicube.net/) - Open-Source Minecraft Alternatives
 * [Grasscutter](https://github.com/Grasscutters/Grasscutter) - Private Genshin Impact Servers / [Discord](https://discord.gg/T5vZU6UyeG)
 * [LunarCore](https://github.com/Melledy/LunarCore) - Private Honkai: Star Rail Servers
@@ -107,6 +97,7 @@
 * [Streets of Rage Remake](https://sorr.forumotion.net/t838-new-streets-of-rage-remake-v5-2-download-and-info) - Streets of Rage Remake
 * [OpenSA](https://github.com/Dzierzan/OpenSA) - Swarm Assault Recreation / [OpenRA Required](https://www.moddb.com/mods/opensa) / [Non OpenRA Version](https://dzierzan.itch.io/opensa)
 * [EDuke32](https://www.eduke32.com/) - Duke Nukem 3D Source Port
+* [NBlood](https://github.com/nukeykt/NBlood) - Reverse-Engineered Duke Nukem Ports
 * [SP Tarkov](https://www.sp-tarkov.com/) - Escape From Tarkov Single Player Mod
 * [Arx Libertatis](https://arx-libertatis.org/) - Arx Fatalis PC Port
 * [Mars 3D](https://mars3d-game.wixsite.com/index) - Mars 3D Translation & Remake
@@ -129,6 +120,26 @@
 * [Rhythia](https://discord.gg/rhythia) - Sound Space Clone
 * [Cytoid](https://cytoid.io/) - Cytus Clone
 * [SweetPotato](https://wiki-en.purplepalette.net/home) - Project Sekai Clone
+
+***
+
+## ▷ Abandonware
+
+* ↪️ **[DOS](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_dos_games)** / **[MSX Games](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_msx_games)**
+* ⭐ **[My Abandonware](https://www.myabandonware.com/)** - Abandonware
+* ⭐ **[AbandonwareGames](https://abandonwaregames.net/)** - Abandonware
+* [PCGameAbandonware](https://www.pcgamesabandonware.com/) - Abandonware
+* [Flashtro](https://flashtro.com/) - Abandonware
+* [Zombs-Lair](https://www.zombs-lair.com/) - Abandonware
+* [Old-Games.com](https://www.old-games.com/) - Abandonware
+* [VETUSWARE](https://vetusware.com/category/Games/) - Abandonware
+* [VGPErson](https://vgperson.com/games/) or [Japanese PC Compendium](https://japanesepccompendium.blogspot.com/) - Japanese PC Games
+* [World of Spectrum](https://worldofspectrum.org/) or [SpectrumComputing](https://spectrumcomputing.co.uk/) - Sinclair ZX Spectrum
+* [GamesNostalgia](https://gamesnostalgia.com/), [lemon64](https://www.lemon64.com/) or [C64.com](https://www.c64.com/) - Commodore 64
+* [whdload](https://www.whdload.de/), [lemonamiga](https://www.lemonamiga.com/), [exotica](http://www.exotica.org.uk/) or [hol abime](https://hol.abime.net/) - Amiga
+* [PC-98 Drive](https://rentry.co/FMHYBase64#pc-98) - PC-98
+* [Necromanthus](https://necromanthus.com/) - 3D Shockwave
+* [LegendsWorld](https://www.legendsworld.net/) - Retro PC Adventures
 
 ***
 
