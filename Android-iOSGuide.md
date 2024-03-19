@@ -1124,7 +1124,7 @@
 * ⭐ **[Trakt](https://apps.apple.com/app/id1514873602?at=10l4Ht)** - Movies / TV Tracker
 * ⭐ **[Yattee](https://github.com/yattee/yattee)**, [Pretub](https://apps.apple.com/in/app/pretub-no-ads-in-video/id1603057438) or [Video Lite](https://apps.apple.com/in/app/video-lite/id1598997500) - YouTube Players
 * [FlixHub](https://rentry.co/FMHYBase64#flixhub) or [MegaFlix](https://rentry.co/FMHYBase64#megaflix) - Movies / TV / [How-to Use](https://i.ibb.co/fqB9bsQ/zD6MAE0.jpg)
-* [Stremio](https://pastebin.com/Gy5xZny2) - Movies / TV / Anime / Use VPN / [Alt Method](https://i.imgur.com/0U3HIcN.mp4)
+* [Stremio](https://pastebin.com/Gy5xZny2) - Movies / TV / Anime / Use VPN / [Alt Method](https://files.catbox.moe/dins97.mp4)
 * [Swiftfin](https://apps.apple.com/us/app/swiftfin/id1604098728) - Jellyfin Client
 * [Wako-TV](https://apps.apple.com/us/app/wako-tv/id1456393880) - Movies / TV / Anime / Real Debrid required
 * [Video Lite](https://apps.apple.com/sa/app/video-lite-no-ads/id1598997500) - Video Browser w/ Adblock
