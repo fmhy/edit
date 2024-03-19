@@ -1208,6 +1208,7 @@
 * [ARealMe](https://www.arealme.com/) - Quiz Collection
 * [Bestiefy](https://bestiefy.com/) - Friend Quizzes
 * [theOtaku](https://theotaku.com/quizzes) - Anime Personality Quizzes
+* [8dreams](https://8dreams.github.io/) - Political Alignment Test
 * [Goody2](https://www.goody2.ai/chat) - Worlds Most Ethical AI
 * [HowNormalAmI?](https://www.hownormalami.eu/) - Face Judge A.I.
 * [Face Shape AI](https://www.detect-face-shape.com) - Face Shape Detector
