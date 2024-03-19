@@ -907,18 +907,17 @@
 
 * 🌐 **[Cvolton Tools](https://github.com/Cvolton?tab=repositories)** - Multiple GD Tools
 * ⭐ **[Geode](https://geode-sdk.org/)** - Mod Menu & Modding Framework
-* ⭐ **[Demon List](https://pointercrate.com/demonlist/)**, [Challenge List](https://challengelist.gd/challenges/), [Unrated Demon List](https://udl.pages.dev/#/), [Rated Extremes List](https://aredl.pages.dev/) or [Impossible List](https://docs.google.com/document/d/1byBf60vW_Tq7TjQPyniBxQ1Iw9CtSURJU4_Cl1IziqY/edit) - Demon Lists
+* ⭐ **[Official Demon List](https://pointercrate.com/demonlist/)**, [Challenge List](https://challengelist.gd/challenges/), [Unrated Demons List](https://udl.pages.dev/#/), [Rated Extremes List](https://aredl.pages.dev/), [Impossible Levels List](https://docs.google.com/document/d/1byBf60vW_Tq7TjQPyniBxQ1Iw9CtSURJU4_Cl1IziqY/edit), [Nine Circles List](https://sites.google.com/view/nine-circles-demonlist/main-list), [HRR Mobile List](https://mobilepointercrate.com/), [60hz Mobile List](https://sites.google.com/view/gd-mobile-lists/top-100-demons-completed?authuser=0) - Demon Lists
 * ⭐ **[GDDP](https://gddp.pro/)** or [GD Demon Ladder](https://gdladder.com/) - Practice & Improve Your Skills
 * [Soluble Texture Packs](https://solubletexturepacks.com/) - GD Texture Packs / [Manager](https://geode-sdk.org/mods/geode.texture-loader/)
 * [Spritesheet Splitter](https://gdcolon.com/gdsplitter/) - Split & Merge GD Spritesheets
 * [GD Save Explorer](https://gdcolon.com/gdsave/) - View Detailed Stats & Data of Save Files
 * [Song File Hub](https://songfilehub.com/home) - GD Songs & Mashups / [Discord](https://discord.com/invite/maSgd4zpEF)
-* [Globed](https://github.com/dankmeme01/globed2) - GD Multiplayer Mod
+* [Globed](https://geode-sdk.org/mods/dankmeme.globed2/) - GD Multiplayer Mod
 * [GD Browser](https://gdbrowser.com/) - GD Level Browser
 * [GD Font Generator](https://gdcolon.com/gdfont) - Generate Custom GD Logos & Messages
 * [4GB Patch](https://ntcore.com/?page_id=371) - Lets GD use 4GB of RAM
-* [Nine Circles List](https://sites.google.com/view/nine-circles-demonlist/main-list) - NC Level List
-* [Mobile Demon List](https://mobilepointercrate.com/) / [60hz Mobile List](https://sites.google.com/view/gd-mobile-lists/top-100-demons-completed?authuser=0) - Mobile Demon Lists
+* [SPWN](https://spu7nix.net/spwn/#/) - GD Level Programming Language
 * [GD Docs](https://github.com/gd-programming/gd.docs) - GD Programming Documentation
 * [GD History](https://history.geometrydash.eu/) - GD Archival Project / [Downloader](https://github.com/Cvolton/GDHistory-Downloader)
 * [GMD Private Server](https://github.com/Cvolton/GMDprivateServer) - Private Server Maker
