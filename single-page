@@ -178,10 +178,11 @@
 
 * 🌐 **[ngosang](https://ngosang.github.io/trackerslist/)** / [2](https://ngosang.github.io/trackerslist/trackers_all.txt), [trackerslist](https://trackerslist.com/) / [GitHub](https://github.com/XIU2/TrackersListCollection) or [NewTrackOn](https://newtrackon.com/list) - Tracker Lists
 * 🌐 **[Auto Torrent Tools List](https://redd.it/hbwnb2)** / [2](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video#wiki_.25BA_torrent_apps)
-* ⭐ **[PreDB.me](https://predb.me/)** / [PreDB.net](https://predb.de/), [Scnlog](https://scnlog.me), [M2V](https://m2v.ru/), [Milkie](https://milkie.cc/) / [Discord](https://discord.com/invite/E4khNy5dz3), [Xrel](https://www.xrel.to/) or [srrDB](https://www.srrdb.com/) - Scene Release Trackers
+* ⭐ **[Milkie](https://milkie.cc)** / [Discord](https://discord.com/invite/E4khNy5dz3), [Scnlog](https://scnlog.me), [PreDB.me](https://predb.me) - Scene Release Download
 * ⭐ **[T2M](https://nutbread.github.io/t2m/)** / [2](https://github.com/nutbread/t2m), [btsow](https://btsow.motorcycles/) or [Torrent Kitty](https://www.torrentkitty.tv/) / [2](https://www.torrentkitty.net/) / [3](https://www.torrentkitty.lol/) - Torrent to Magnet Converters
 * ⭐ **[Magnet2Torrent](https://magnet2torrent.com/)** - Magnet to Torrent Converter
 * ⭐ **[Torrent Legality](https://i.ibb.co/HHqC4V2/11e244ddbdfb.png)** - Torrenting Laws by Country
+* [Xrel](https://www.xrel.to), [PreDB.net](https://predb.de), [srrDB](https://www.srrdb.com), [M2V](https://m2v.ru) - Scene Release İnfo
 * [WarezBot](https://github.com/enzobes/WarezBot) - Discord Scene Release Tracker
 * [btcache](https://btcache.me/), [iTorrents](https://itorrents.org) or [Torrage](https://torrage.info/) - Torrent Storage Cache
 * [InfoTorrent](https://infotorrent.tnl.one/) or [Webtorrent Checker](https://checker.openwebtorrent.com/) - Check Torrent File Health
@@ -4597,7 +4598,7 @@ features:
 # ► News
 
 * 🌐 **[5000 Best News Sites](http://5000best.com/websites/News/)** - News Sites Index
-* 🌐 **[AllYouCanRead](https://www.allyoucanread.com/), [W3Newspapers.com](https://www.w3newspapers.com/), [World-Newspapers](https://world-newspapers.com/), [OnlineNewspapers](https://www.onlinenewspapers.com), [4IMN](https://www.4imn.com/) or [newspapersglobal](https://www.newspapersglobal.com/)** - Worldwide News Sites Indexes
+* 🌐 **[AllYouCanRead](https://www.allyoucanread.com/)**, [W3Newspapers.com](https://www.w3newspapers.com/), [World-Newspapers](https://world-newspapers.com/), [OnlineNewspapers](https://www.onlinenewspapers.com), [4IMN](https://www.4imn.com/) or [newspapersglobal](https://www.newspapersglobal.com/) - Worldwide News Sites Indexes
 * 🌐 **[Current Events Wiki](https://en.m.wikipedia.org/wiki/Portal:Current_events)** or [Slower News](https://www.slowernews.com/) - Breaking News
 * ⭐ **[/m/news](https://www.reddit.com/user/nbatman/m/news/)** - News Multireddit
 * ⭐ **[PublicAlerts](https://google.org/publicalerts)** - Important News / Disaster Alerts
@@ -5262,7 +5263,7 @@ features:
 * [Random Comic Generator 3.0](https://explosm.net/rcg) - Explosm Random Comic Generator
 * [Chris Shier](https://www.csh.bz/) - Canvas Animations / GIFs
 * [Three.js](https://threejs.org/) - JavaScript 3D library 
-* [88x31](https://cyber.dabamos.de/88x31/index.html) or [Web Badges World](https://web.badges.world/) - Oldschool Web Badges
+* [88x31](https://cyber.dabamos.de/88x31/index.html), [THE 88×31 ARCHIVE](https://hellnet.work/8831/) or [Web Badges World](https://web.badges.world/) - Oldschool Web Badges
 * [/r/Place Atlas](https://place-atlas.stefanocoding.me/) - /r/Place Info
 * [LameBook](https://www.lamebook.com/) - Funny Facebook Status'
 * [Kittenwar!](https://www.kittenwar.com/) - Rate Kittens
@@ -5444,8 +5445,6 @@ features:
 * [Fun Trivia](https://www.funtrivia.com/) or [Sporcle](https://www.sporcle.com/) - Trivia
 * [ARealMe](https://www.arealme.com/) - Quiz Collection
 * [Bestiefy](https://bestiefy.com/) - Friend Quizzes
-* [OpenPsychometrics](https://openpsychometrics.org/), [IDRLabs](https://www.idrlabs.com/) or [16 Personalities](https://www.16personalities.com/) - Personality Tests / [Note](https://pastebin.com/9DB0nMrT)
-* [Six Triangles](https://sixtriangles.github.io/), [PoliticalCompass](https://www.politicalcompass.org/), [9 Axes](https://9axes.github.io/), [8dreams](https://8dreams.github.io/), [ISideWith](https://www.isidewith.com/) or [8 Values](https://8values.github.io/) - Political Alignment Test / [Note](https://pastebin.com/9DB0nMrT)
 * [theOtaku](https://theotaku.com/quizzes) - Anime Personality Quizzes
 * [Goody2](https://www.goody2.ai/chat) - Worlds Most Ethical AI
 * [HowNormalAmI?](https://www.hownormalami.eu/) - Face Judge A.I.
@@ -6401,9 +6400,9 @@ import Index from './.vitepress/theme/Posts.vue'
 * [NAnime](https://www.nanime.one/) - Sub / Dub / 1080p
 * [BestDubbedAnime](https://bestdubbedanime.com/) - Dub / 1080p / [Discord](https://discord.com/invite/f2pHvauUPu)
 * [DubbedAnime](https://dubbedanime.biz/) - Sub / Dub / 1080p
-* [Animeow](https://animeow.me/) - Sub / Dub / 720p
+* [Animeow](https://animeow.me/) - Sub / Dub / 720p / [Discord](https://discord.com/invite/FT5MnbcDWz)
 * [Kawaiifu](https://kawaiifu.com/) - Sub / Dub / 720p
-* [AnimeCross](https://anime.cross.moe/) - Sub / 720p
+* [AnimeCross](https://anime.cross.moe/) - Sub / 720p / [Discord](https://discord.com/invite/3AxZvGArdm)
 * [AnimeOnsen](https://animeonsen.xyz/) - Sub / 720p
 * [AnimeXin](https://animexin.vip/) - Chinese Anime / Sub / 1080p
 * [Lucifer Donghua](https://luciferdonghua.in/) - Chinese Anime / Sub / 1080p / [Telegram](https://telegram.me/luciferdonghuaz)
@@ -6466,16 +6465,14 @@ import Index from './.vitepress/theme/Posts.vue'
 
 ## ▷ Sports Streaming
 
+* ⭐ **[SportsReplay](https://linktr.ee/suisports)** - [Basketball](https://watchreplay.net/) / [Motorsports](https://watchf1full.com/) / [MMA / Wrestling](https://watchmmafull.com/) / [Discord](https://discord.com/invite/2r4pj67gCv)
 * ⭐ **[720Pier](https://720pier.ru/)** - Sports / Torrents / 1080p
 * ⭐ **[FullMatchTV](https://fullmatchtv.com/)** - Sports / 720p
-* ⭐ **[NBAHD](https://watchreplay.net/)** - Basketball / 720p
 * ⭐ **[NFL Replay](https://nflreplay.net/)** - Football / 720p
 * ⭐ **[Watch-Wrestling.eu](https://watch-wrestling.eu/)** - MMA / Wrestling / 1080p
 * ⭐ **[WatchWrestling24](https://watchwrestling24.net/)** - MMA / Wrestling / 720p
 * ⭐ **[WatchWrestlingUp](https://watchwrestlingup.org/)** or [RealFights](https://realfight.org/) - MMA / Wrestling / 720p
-* ⭐ **[Race Replay](https://racereplay.net/)** - Motorsports / 720p
 * ⭐ **[Nascar Classics](https://classics.nascar.com/)** - Nascar / 1080p
-* [SportsReplay](https://discord.com/invite/2r4pj67gCv) - Sports
 * [MLBLive](https://mlblive.net/) - Baseball
 * [FullReplays](https://www.fullreplays.com/) - Soccer
 * [FootballOrigin](https://www.footballorgin.com/) - Soccer
@@ -6485,7 +6482,6 @@ import Index from './.vitepress/theme/Posts.vue'
 * [Sport Video](https://www.sport-video.org.ua/) - Sports / Torrents
 * [WatchWrestling.ae](https://watchwrestling.ae/) - MMA / Wrestling
 * [WatchWrestling.wtf](https://watchwrestling.wtf/) - MMA / Wrestling
-* [FullFights](https://fullfights.net/) - MMA / Wrestling
 * [MMA High Kick](https://www.mmahighkick.com/) - MMA / Boxing
 * [Hula8](https://www.hula8.net/) - MMA
 * [Bellator](https://www.bellator.com/) - MMA
@@ -16874,18 +16870,17 @@ https://cari.institute/
 
 * 🌐 **[Cvolton Tools](https://github.com/Cvolton?tab=repositories)** - Multiple GD Tools
 * ⭐ **[Geode](https://geode-sdk.org/)** - Mod Menu & Modding Framework
-* ⭐ **[Demon List](https://pointercrate.com/demonlist/)**, [Challenge List](https://challengelist.gd/challenges/), [Unrated Demon List](https://udl.pages.dev/#/), [Rated Extremes List](https://aredl.pages.dev/) or [Impossible List](https://docs.google.com/document/d/1byBf60vW_Tq7TjQPyniBxQ1Iw9CtSURJU4_Cl1IziqY/edit) - Demon Lists
+* ⭐ **[Official Demon List](https://pointercrate.com/demonlist/)**, [Challenge List](https://challengelist.gd/challenges/), [Unrated Demons List](https://udl.pages.dev/#/), [Rated Extremes List](https://aredl.pages.dev/), [Impossible Levels List](https://docs.google.com/document/d/1byBf60vW_Tq7TjQPyniBxQ1Iw9CtSURJU4_Cl1IziqY/edit), [Nine Circles List](https://sites.google.com/view/nine-circles-demonlist/main-list), [HRR Mobile List](https://mobilepointercrate.com/), [60hz Mobile List](https://sites.google.com/view/gd-mobile-lists/top-100-demons-completed?authuser=0) - Demon Lists
 * ⭐ **[GDDP](https://gddp.pro/)** or [GD Demon Ladder](https://gdladder.com/) - Practice & Improve Your Skills
 * [Soluble Texture Packs](https://solubletexturepacks.com/) - GD Texture Packs / [Manager](https://geode-sdk.org/mods/geode.texture-loader/)
 * [Spritesheet Splitter](https://gdcolon.com/gdsplitter/) - Split & Merge GD Spritesheets
 * [GD Save Explorer](https://gdcolon.com/gdsave/) - View Detailed Stats & Data of Save Files
 * [Song File Hub](https://songfilehub.com/home) - GD Songs & Mashups / [Discord](https://discord.com/invite/maSgd4zpEF)
-* [Globed](https://github.com/dankmeme01/globed2) - GD Multiplayer Mod
+* [Globed](https://geode-sdk.org/mods/dankmeme.globed2/) - GD Multiplayer Mod
 * [GD Browser](https://gdbrowser.com/) - GD Level Browser
 * [GD Font Generator](https://gdcolon.com/gdfont) - Generate Custom GD Logos & Messages
 * [4GB Patch](https://ntcore.com/?page_id=371) - Lets GD use 4GB of RAM
-* [Nine Circles List](https://sites.google.com/view/nine-circles-demonlist/main-list) - NC Level List
-* [Mobile Demon List](https://mobilepointercrate.com/) / [60hz Mobile List](https://sites.google.com/view/gd-mobile-lists/top-100-demons-completed?authuser=0) - Mobile Demon Lists
+* [SPWN](https://spu7nix.net/spwn/#/) - GD Level Programming Language
 * [GD Docs](https://github.com/gd-programming/gd.docs) - GD Programming Documentation
 * [GD History](https://history.geometrydash.eu/) - GD Archival Project / [Downloader](https://github.com/Cvolton/GDHistory-Downloader)
 * [GMD Private Server](https://github.com/Cvolton/GMDprivateServer) - Private Server Maker

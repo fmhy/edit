@@ -298,9 +298,9 @@
 * [NAnime](https://www.nanime.one/) - Sub / Dub / 1080p
 * [BestDubbedAnime](https://bestdubbedanime.com/) - Dub / 1080p / [Discord](https://discord.com/invite/f2pHvauUPu)
 * [DubbedAnime](https://dubbedanime.biz/) - Sub / Dub / 1080p
-* [Animeow](https://animeow.me/) - Sub / Dub / 720p
+* [Animeow](https://animeow.me/) - Sub / Dub / 720p / [Discord](https://discord.com/invite/FT5MnbcDWz)
 * [Kawaiifu](https://kawaiifu.com/) - Sub / Dub / 720p
-* [AnimeCross](https://anime.cross.moe/) - Sub / 720p
+* [AnimeCross](https://anime.cross.moe/) - Sub / 720p / [Discord](https://discord.com/invite/3AxZvGArdm)
 * [AnimeOnsen](https://animeonsen.xyz/) - Sub / 720p
 * [AnimeXin](https://animexin.vip/) - Chinese Anime / Sub / 1080p
 * [Lucifer Donghua](https://luciferdonghua.in/) - Chinese Anime / Sub / 1080p / [Telegram](https://telegram.me/luciferdonghuaz)
@@ -363,16 +363,14 @@
 
 ## ▷ Sports Streaming
 
+* ⭐ **[SportsReplay](https://linktr.ee/suisports)** - [Basketball](https://watchreplay.net/) / [Motorsports](https://watchf1full.com/) / [MMA / Wrestling](https://watchmmafull.com/) / [Discord](https://discord.com/invite/2r4pj67gCv)
 * ⭐ **[720Pier](https://720pier.ru/)** - Sports / Torrents / 1080p
 * ⭐ **[FullMatchTV](https://fullmatchtv.com/)** - Sports / 720p
-* ⭐ **[NBAHD](https://watchreplay.net/)** - Basketball / 720p
 * ⭐ **[NFL Replay](https://nflreplay.net/)** - Football / 720p
 * ⭐ **[Watch-Wrestling.eu](https://watch-wrestling.eu/)** - MMA / Wrestling / 1080p
 * ⭐ **[WatchWrestling24](https://watchwrestling24.net/)** - MMA / Wrestling / 720p
 * ⭐ **[WatchWrestlingUp](https://watchwrestlingup.org/)** or [RealFights](https://realfight.org/) - MMA / Wrestling / 720p
-* ⭐ **[Race Replay](https://racereplay.net/)** - Motorsports / 720p
 * ⭐ **[Nascar Classics](https://classics.nascar.com/)** - Nascar / 1080p
-* [SportsReplay](https://discord.com/invite/2r4pj67gCv) - Sports
 * [MLBLive](https://mlblive.net/) - Baseball
 * [FullReplays](https://www.fullreplays.com/) - Soccer
 * [FootballOrigin](https://www.footballorgin.com/) - Soccer
@@ -382,7 +380,6 @@
 * [Sport Video](https://www.sport-video.org.ua/) - Sports / Torrents
 * [WatchWrestling.ae](https://watchwrestling.ae/) - MMA / Wrestling
 * [WatchWrestling.wtf](https://watchwrestling.wtf/) - MMA / Wrestling
-* [FullFights](https://fullfights.net/) - MMA / Wrestling
 * [MMA High Kick](https://www.mmahighkick.com/) - MMA / Boxing
 * [Hula8](https://www.hula8.net/) - MMA
 * [Bellator](https://www.bellator.com/) - MMA
