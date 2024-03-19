@@ -36,6 +36,8 @@
 * itch.io Tools - [Downloader](https://github.com/Emersont1/itchio) / [Desktop](https://github.com/itchio/itch) / [Auto-Claim](https://github.com/Smart123s/ItchClaim)
 * [Alpha Beta Gamer](https://alphabetagamer.com/) - Play Games in Alpha / Beta Testing
 * [RPG Maker Games](https://rpgmaker.net/games/?name_filter=&amp;engine=&amp;status=&amp;rating=&amp;commercial=exclude&amp;sort=&amp;portal=None) - Games made via RPG Maker
+* [Necromanthus](https://necromanthus.com/) - 3D Shockwave Games
+* [VGPErson](https://vgperson.com/games/) - Simple Japanese Games
 * [DoujinStyle](https://discord.com/invite/z2QDFdA) - Doujin Games
 * [MoriyaShrine](https://moriyashrine.org/) - Touhou Games
 * [GrimReaper's Scene ISO Collection](https://archive.org/details/@waffess) - ISO Collection
@@ -90,8 +92,6 @@
 * 🌐 **[Awesome Game Remakes](https://github.com/radek-sprta/awesome-game-remakes)** or [Game Clones](https://osgameclones.com/) - Open-Source Remakes
 * 🌐 **[Awesome Terminal Games](https://ligurio.github.io/awesome-ttygames/)** - ASCII Terminal Games
 * ⭐ **[OpenRCT2](https://openrct2.io/)**, [2](https://openrct2.org/) - Open-Source RollerCoaster Tycoon 2
-* [VGPErson](https://vgperson.com/games/) - Simple Japanese Games
-* [Necromanthus](https://necromanthus.com/) - 3D Shockwave Games
 * [Minetest](https://www.minetest.net/) or [Cassicube](https://www.classicube.net/) - Open-Source Minecraft Alternatives
 * [Grasscutter](https://github.com/Grasscutters/Grasscutter) - Private Genshin Impact Servers / [Discord](https://discord.gg/T5vZU6UyeG)
 * [LunarCore](https://github.com/Melledy/LunarCore) - Private Honkai: Star Rail Servers
