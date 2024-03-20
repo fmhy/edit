@@ -46,8 +46,8 @@
 * ⭐ **[edX](https://www.edx.org/)** - Courses / [Downloader](https://github.com/rehmatworks/edx-downloader)
 * ⭐ **[MitOpenCourseWare](https://ocw.mit.edu/index.htm)** - Courses
 * ⭐ **[Khan Academy](https://www.khanacademy.org/)** - Courses / [Downloader](https://github.com/rand-net/khan-dl)
-* ⭐ **[Git.ir](https://git.ir/)** - Courses
 * ⭐ **[O'Reilly](https://www.oreilly.com/)** - Tech / Programming / Infinite trial by clearing cookies & making a new account
+* [Git.ir](https://git.ir/) - Courses
 * [OpenLearn](https://www.open.edu/openlearn/) - Courses
 * [Alison](https://alison.com/) - Courses
 * [EbookFoundation Courses](https://github.com/EbookFoundation/free-programming-books#free-online-courses) - Courses
@@ -57,12 +57,9 @@
 * [Hillsdale College](https://online.hillsdale.edu/) - Courses
 * [SelfSchool](https://selfschool.me/) - Courses
 * [Cursa](https://cursa.app/) - Courses
-* [Real.Discount](https://www.real.discount/) - Courses
-* [OnlineTutorials](https://www.onlinetutorials.org/) - Courses
 * [Academic Earth](https://academicearth.org/) - Courses
 * [Yale.edu](https://oyc.yale.edu/) - Courses
 * [Stepik](https://stepik.org/) - Courses
-* [Study is wonderful](https://github.com/xioacd99/study-is-wonderful) - Courses
 * [Stanford Courses](https://online.stanford.edu/free-content) - Free Stanford Courses
 * [Crash Course](https://thecrashcourse.com/) - Topic Crash Courses
 * [LearnOutLoud](https://www.learnoutloud.com/) - Documentaries / Courses
@@ -72,8 +69,6 @@
 * UC Berkeley Webcast Project - [Archive](https://archive.org/details/ucberkeley-webcast) or [lbry](https://odysee.com/@UCBerkeley)
 * [Video Lectures](https://videolectures.net/) - Lectures
 * [Ted Talks](https://www.ted.com/) - Inspiring and Educational Talks
-* [NYU-DLSP21](https://atcold.github.io/NYU-DLSP21/) - Deep Learning Course
-* [CommSpeeches](https://commspeeches.softr.app/) - Famous Graduation Speeches
 
 ***
 
@@ -87,6 +82,8 @@
 * ⭐ **[TutFlix](https://tutflix.org/)** - Courses / Drives / Signup Opened Fridays
 * ⭐ **[OneHack](https://onehack.us/)** - Courses
 * ⭐ **[HackNation](https://hacksnation.com/)** - Courses
+* ⭐ **[TutsNode](https://tutsnode.net/)** - Courses
+* ⭐ **[tut4dl](https://tut4it.com/)** - Courses
 * [moo](https://rentry.co/FMHYBase64#moo) - Courses
 * [CourseDL](https://rentry.co/FMHYBase64#coursedl) - Courses
 * [Revival](https://rentry.co/FMHYBase64#revival) - Courses
@@ -94,9 +91,7 @@
 * [Coursesghar](https://coursesghar.com/) - Courses
 * [FreeEducationWeb](https://freeeducationweb.com/) - Courses
 * [FreeCourseDL](https://freecoursedl.com/) - Courses
-* [TutsNode](https://tutsnode.net/) - Courses
 * [FCS](https://freecoursesites.com/) - Courses
-* [tut4dl](https://tut4it.com/) - Courses
 * [technet24](https://technet24.ir/category/videos) - Courses
 * [AfraTafreeh](https://afratafreeh.com/) - Courses
 * [Free-Courses-For-Everyone](https://github.com/MasterBrian99/Free-Courses-For-Everyone) - Courses
@@ -376,7 +371,7 @@
 * [Cliffnotes Chemistry](https://www.cliffsnotes.com/study-guides/chemistry/chemistry/elements/discovery-and-similarity) / [Organic Chemistry I](https://www.cliffsnotes.com/study-guides/chemistry/organic-chemistry-i) / [Organic Chemistry II](https://www.cliffsnotes.com/study-guides/chemistry/organic-chemistry-ii), [Chem Wiki](https://wiki.ch.ic.ac.uk/wiki/), [chemhelper](https://chemhelper.com/) or [chemguide](https://www.chemguide.co.uk) - Study Guides
 * [ChemistryTalk](https://chemistrytalk.org/) - Tutorials / Experiments / Elements / Reference Articles
 * [Sciencenotes](https://sciencenotes.org) - Periodic Tables / Chemistry Projects and Questions
-* [Organic Chemistry](https://www.organic-chemistry.org) - Organic Reactions
+* [Organic Chemistry](https://www.organic-chemistry.org) or [Synarchive](https://synarchive.com/) - Organic Reactions
 * [CommonOrganicChemistry](https://www.commonorganicchemistry.com) - Common Reactions / Common Reagents
 * [name-reaction](https://www.name-reaction.com) - List of Name Reactions
 * [ChemTube3D](https://www.chemtube3d.com) - Interactive 3D Chemistry Animations
