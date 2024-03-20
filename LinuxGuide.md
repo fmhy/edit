@@ -118,7 +118,6 @@
 * [Flowblade](https://jliljebl.github.io/flowblade/) - Video Editor
 * [Peek](https://github.com/phw/peek) - Simple Video / GIF recorder
 * [Linux-Fake-Background-Webcam](https://github.com/fangfufu/Linux-Fake-Background-Webcam/) - Fake Webcam Background
-* [fmedia](https://github.com/stsaz/fmedia) - Media Player and Converter
 * [ani-cli](https://github.com/pystardust/ani-cli) - Anime Streaming Terminal
 * [Trackma](https://github.com/z411/trackma/) - Anime Tracking App
 * [LiveCaptions](https://github.com/abb128/LiveCaptions) - Real-time Captions
