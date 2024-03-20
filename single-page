@@ -1873,7 +1873,7 @@
 * [YouTube Search Fixer Suite](https://addons.mozilla.org/en-US/firefox/addon/youtube-suite-search-fixer/) - Fix YouTube Search / Declutter Homepage
 * [Channel Crawler](https://channelcrawler.com/eng) or [YT-FTS](https://github.com/NotJoeMartinez/yt-fts) - Channel Search Tools
 * [Comment Viewer](https://commentviewer.com/), [Hadzy](https://hadzy.com/), [YCS](https://chromewebstore.google.com/detail/ycs-youtube-comment-searc/pmfhcilikeembgbiadjiojgfgcfbcoaaen) or [YCF](https://ytcomment.kmcat.uk/) - YouTube Comment Search
-* [Petit tube](https://www.petittube.com/) - Find YouTube Videos with >100 Views
+* [petittube](https://petittube.com/) - Find YouTube Videos with >100 Views
 * [YouTube-Geofind](https://mattw.io/youtube-geofind/location) - Find Geotagged Videos
 * [QuiteAPlaylist](https://quiteaplaylist.com/) - Find Deleted YouTube Videos
 * [Unlisted Videos](https://unlistedvideos.com/) - Watch / Submit Unlisted YouTube Videos
@@ -6093,7 +6093,6 @@ features:
 * [Font Meme](https://fontmeme.com/)
 * [Font Generator Online](https://www.fontgeneratoronline.com/)
 * [Getfancy](https://getfancy.io/)
-* [Font Generator](https://www.toulr.com/)
 * [DiscordFonts](https://lingojam.com/DiscordFonts)
 * [MessLetters](https://www.messletters.com/)
 * [Fancy Text](https://fancy-text.net/)
@@ -6102,7 +6101,6 @@ features:
 * [lingojam](https://lingojam.com/WeirdTextGenerator)
 * [fSymbols](https://fsymbols.com/generators/)
 * [fontchangerguru](https://fontchangerguru.com/)
-* [fontgenerator](https://fontgenerator.in/)
 * [tell.wtf](https://tell.wtf/)
 * [fancytextdecorator](https://fancytextdecorator.com/)
 ---
@@ -10814,7 +10812,6 @@ https://cari.institute/
 
 ## ▷ Downloading /  تحميل
 
-* [arabseed](https://asd.homes/) - Movies / TV / Sub / 1080p
 * [arteenz](https://www.arteenz.com/) - Cartoons / Anime / Dub / 720p
 * [NullNoss](https://www.nullnoss.org/) - Courses
 * [Courses4Arab](https://courses4arab.com/) - Programming Courses
@@ -10851,7 +10848,6 @@ https://cari.institute/
 
 ## ▷ Reading /  القراءة
 
-* [dopdfwn](https://www.dopdfwn.com/) - PDF Search Engine
 * [Noor Book](https://www.noor-book.com/) - Books
 * [books-library](https://books-library.website/) - Books
 * [EbookSar](https://www.ebooksar.com/) - Books / [Telegram](https://t.me/ebooksar)
@@ -13264,15 +13260,15 @@ https://cari.institute/
 
 ## ▷ Data Science
 
-* [365Datascience](https://365datascience.com/) - Data Science Courses
 * [Quick-R](https://www.statmethods.net/index.html) - R Tutorials
 * [Advanced R](https://adv-r.hadley.nz/) - R Guide / [Solutions](https://advanced-r-solutions.rbind.io/)
 * [R Packages](https://r-pkgs.org/) - R Packages Guide
 * [R for Data Science](https://r4ds.had.co.nz/) - R Data Science Guide
 * [ggplot2: Elegant Graphics for Data Analysis](https://ggplot2-book.org/index.html) - ggplot2 Guide
-* [Data Science Ipython Notebooks](https://github.com/donnemartin/data-science-ipython-notebooks), [Scipy Lectures](https://lectures.scientific-python.org/) or [Virgilio](https://virgili0.github.io/Virgilio/) / [GitHub](https://github.com/virgili0/Virgilio) - Learn DataScience
+* [Scipy Lectures](https://lectures.scientific-python.org/) or [Virgilio](https://virgili0.github.io/Virgilio/) / [GitHub](https://github.com/virgili0/Virgilio) - Learn DataScience
 * [Data Engineering Zoomcamp](https://github.com/DataTalksClub/data-engineering-zoomcamp) - Data Engineering Course
 * [Data Engineering Practice Problems](https://github.com/danielbeach/data-engineering-practice) - Data Engineering Practice
+* [NYU-DLSP21](https://atcold.github.io/NYU-DLSP21/) - Deep Learning Course
 * [Learn to Make Netflix Clone](https://github.com/kubowania/netflix-clone-graphql-datastax)
 
 ***
@@ -13284,9 +13280,7 @@ https://cari.institute/
 * [30 Days Of Python](https://github.com/Asabeneh/30-Days-Of-Python) - Python Guide
 * [Python AI](https://community.uuki.live/course/tdb3Vsl1/python-course/aitutor) - AI Python Tutor
 * [CodingBat](https://codingbat.com/) or [PyQuickie](https://chromewebstore.google.com/detail/pyquickie/okpdnfgpbpifbncoleieajiblmebbkci) - Python / Java Practice
-* [AmigosCode](https://www.youtube.com/@amigoscode) - Java Tutorials
-* [Python4Everyone](https://py4e.com/), [A Byte of Python](https://python.swaroopch.com/), [Hypermodern Python](https://cjolowicz.github.io/posts/hypermodern-python-01-setup/), [DataCamp](https://www.datacamp.com/), [Learn Python](https://www.learnpython.org/), [Learn-Python](https://github.com/trekhleb/learn-python) or [Magical Universe](https://github.com/zotroneneis/magical_universe) - Learn Python
-* [High Performance Python: The Code](https://github.com/mynameisfiber/high_performance_python) - Python Lessons
+* [Python4Everyone](https://py4e.com/), [A Byte of Python](https://python.swaroopch.com/), [Learn Python](https://www.learnpython.org/), [Learn-Python](https://github.com/trekhleb/learn-python) or [Magical Universe](https://github.com/zotroneneis/magical_universe) - Learn Python
 * [Real Python](https://realpython.com/), [Reeborg](https://reeborg.ca/docs/en/) or [AskPython](https://www.askpython.com/) - Python Tutorials
 * [FutureCoder](https://futurecoder.io/), [CS50](https://cs50.harvard.edu/python/), [Python Full Course](https://youtu.be/XKHEtdqhLK8) or [A Practical Introduction to Python](https://www.brianheinold.net/python/python_book.html) - Python Course
 * [Modern Python 3 Bootcamp Courses](https://rentry.co/FMHYBase64#modern-python-3-bootcamp-courses)
@@ -15817,7 +15811,6 @@ https://cari.institute/
 * [PicoShare](https://github.com/mtlynch/picoshare)
 * [Up1](https://github.com/Upload/Up1)
 * [Chevereto](https://chevereto.com/)
-* [Pinry](https://docs.getpinry.com/)
 * [Photofield](https://github.com/SmilyOrg/photofield)
 * [Google Takeout](https://takeout.google.com/) - Export from Google Photos / [Script](https://github.com/TheLastGimbus/GooglePhotosTakeoutHelper)
 
@@ -15836,7 +15829,6 @@ https://cari.institute/
 * [WebOasis IPFS](https://weboasis.app/ipfs/)
 * [Shutterfly](https://www.shutterfly.com/)
 * [FreeImage.Host](https://freeimage.host/)
-* [snipboard](https://i.snipboard.io/)
 * [imgbox](https://imgbox.com/)
 * [pasteboard](https://www.pasteboard.co/)
 * [vgy](https://vgy.me/)
