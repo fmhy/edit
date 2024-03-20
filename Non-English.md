@@ -12,7 +12,6 @@
 
 ## ▷ Downloading /  تحميل
 
-* [arabseed](https://asd.homes/) - Movies / TV / Sub / 1080p
 * [arteenz](https://www.arteenz.com/) - Cartoons / Anime / Dub / 720p
 * [NullNoss](https://www.nullnoss.org/) - Courses
 * [Courses4Arab](https://courses4arab.com/) - Programming Courses
@@ -49,7 +48,6 @@
 
 ## ▷ Reading /  القراءة
 
-* [dopdfwn](https://www.dopdfwn.com/) - PDF Search Engine
 * [Noor Book](https://www.noor-book.com/) - Books
 * [books-library](https://books-library.website/) - Books
 * [EbookSar](https://www.ebooksar.com/) - Books / [Telegram](https://t.me/ebooksar)
