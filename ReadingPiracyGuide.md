@@ -731,6 +731,7 @@
 * [MangaFox](https://fanfox.net/)
 * [ReadM](https://readm.org/)
 * [mangapill](https://mangapill.com/)
+* [NineKon](https://app.ninekon.com/)
 * [Anime-Sharing](https://www.anime-sharing.com/) - Anime / Manga Download Forum
 * [MP4DIRECTS](https://mp4directs.com/) - Manga / Light Novels Download Forum
 * [Kaizoku](https://github.com/oae/kaizoku) - Self-Hosted Manga Downloader
