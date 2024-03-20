@@ -190,15 +190,15 @@
 
 ## ▷ Data Science
 
-* [365Datascience](https://365datascience.com/) - Data Science Courses
 * [Quick-R](https://www.statmethods.net/index.html) - R Tutorials
 * [Advanced R](https://adv-r.hadley.nz/) - R Guide / [Solutions](https://advanced-r-solutions.rbind.io/)
 * [R Packages](https://r-pkgs.org/) - R Packages Guide
 * [R for Data Science](https://r4ds.had.co.nz/) - R Data Science Guide
 * [ggplot2: Elegant Graphics for Data Analysis](https://ggplot2-book.org/index.html) - ggplot2 Guide
-* [Data Science Ipython Notebooks](https://github.com/donnemartin/data-science-ipython-notebooks), [Scipy Lectures](https://lectures.scientific-python.org/) or [Virgilio](https://virgili0.github.io/Virgilio/) / [GitHub](https://github.com/virgili0/Virgilio) - Learn DataScience
+* [Scipy Lectures](https://lectures.scientific-python.org/) or [Virgilio](https://virgili0.github.io/Virgilio/) / [GitHub](https://github.com/virgili0/Virgilio) - Learn DataScience
 * [Data Engineering Zoomcamp](https://github.com/DataTalksClub/data-engineering-zoomcamp) - Data Engineering Course
 * [Data Engineering Practice Problems](https://github.com/danielbeach/data-engineering-practice) - Data Engineering Practice
+* [NYU-DLSP21](https://atcold.github.io/NYU-DLSP21/) - Deep Learning Course
 * [Learn to Make Netflix Clone](https://github.com/kubowania/netflix-clone-graphql-datastax)
 
 ***
@@ -210,9 +210,7 @@
 * [30 Days Of Python](https://github.com/Asabeneh/30-Days-Of-Python) - Python Guide
 * [Python AI](https://community.uuki.live/course/tdb3Vsl1/python-course/aitutor) - AI Python Tutor
 * [CodingBat](https://codingbat.com/) or [PyQuickie](https://chromewebstore.google.com/detail/pyquickie/okpdnfgpbpifbncoleieajiblmebbkci) - Python / Java Practice
-* [AmigosCode](https://www.youtube.com/@amigoscode) - Java Tutorials
-* [Python4Everyone](https://py4e.com/), [A Byte of Python](https://python.swaroopch.com/), [Hypermodern Python](https://cjolowicz.github.io/posts/hypermodern-python-01-setup/), [DataCamp](https://www.datacamp.com/), [Learn Python](https://www.learnpython.org/), [Learn-Python](https://github.com/trekhleb/learn-python) or [Magical Universe](https://github.com/zotroneneis/magical_universe) - Learn Python
-* [High Performance Python: The Code](https://github.com/mynameisfiber/high_performance_python) - Python Lessons
+* [Python4Everyone](https://py4e.com/), [A Byte of Python](https://python.swaroopch.com/), [Learn Python](https://www.learnpython.org/), [Learn-Python](https://github.com/trekhleb/learn-python) or [Magical Universe](https://github.com/zotroneneis/magical_universe) - Learn Python
 * [Real Python](https://realpython.com/), [Reeborg](https://reeborg.ca/docs/en/) or [AskPython](https://www.askpython.com/) - Python Tutorials
 * [FutureCoder](https://futurecoder.io/), [CS50](https://cs50.harvard.edu/python/), [Python Full Course](https://youtu.be/XKHEtdqhLK8) or [A Practical Introduction to Python](https://www.brianheinold.net/python/python_book.html) - Python Course
 * [Modern Python 3 Bootcamp Courses](https://rentry.co/FMHYBase64#modern-python-3-bootcamp-courses)
