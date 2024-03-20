@@ -104,7 +104,7 @@
 * [Vudu](https://www.vudu.com/content/movies/uxpage/View-All-Free-Movies-TV/207) - Movies / TV / 1080p
 * [ShoutFactoryTV](https://shout-tv.com/) - Movies / TV / 1080p
 * [Kanopy](https://kanopy.com/) or [Hoopla](https://www.hoopladigital.com/) - Movies / TV / 1080p / Library Card Required
-* [7+](https://7plus.com.au/) - Movies / TV / 1080p
+* [7+](https://7plus.com.au/) - Movies / TV / 1080p / US + AU Only
 * [Playary](https://www.playary.com/) - Movies / TV / 1080p
 * [Fawesome](https://fawesome.tv/) - Movies / TV / 1080p
 * [LokLok](https://loklok.com/) - Movies / TV / 1080p
