@@ -44,12 +44,9 @@
 * ⭐ **[Course CSE](https://cse.google.com/cse?cx=f7a118c70d0804fc4)** or [CourseBuffet](https://www.coursebuffet.com/) - Multi-Site Course Search
 * ⭐ **[Coursera](https://www.coursera.org/)** - Courses / [Financial Aid](https://github.com/abdelrahmaan/Financial-aid-on-coursera-) / [Download](https://github.com/raffaem/cs-dlp), [2](https://github.com/raffaem/cs-dlp)
 * ⭐ **[edX](https://www.edx.org/)** - Courses / [Downloader](https://github.com/rehmatworks/edx-downloader)
-* ⭐ **[Future Learn](https://www.futurelearn.com/)** - Courses
-* ⭐ **[Udacity](https://www.udacity.com/)** - Courses
 * ⭐ **[MitOpenCourseWare](https://ocw.mit.edu/index.htm)** - Courses
 * ⭐ **[Khan Academy](https://www.khanacademy.org/)** - Courses / [Downloader](https://github.com/rand-net/khan-dl)
 * ⭐ **[Git.ir](https://git.ir/)** - Courses
-* ⭐ **[PluralSight](https://www.pluralsight.com/)** - Free for 1 Month
 * ⭐ **[O'Reilly](https://www.oreilly.com/)** - Tech / Programming / Infinite trial by clearing cookies & making a new account
 * [OpenLearn](https://www.open.edu/openlearn/) - Courses
 * [Alison](https://alison.com/) - Courses
@@ -61,30 +58,21 @@
 * [SelfSchool](https://selfschool.me/) - Courses
 * [Cursa](https://cursa.app/) - Courses
 * [Real.Discount](https://www.real.discount/) - Courses
-* [Kadenze](https://www.kadenze.com/) - Courses
 * [OnlineTutorials](https://www.onlinetutorials.org/) - Courses
-* [CourseSity](https://www.coursesity.com/) - Courses
 * [Academic Earth](https://academicearth.org/) - Courses
 * [Yale.edu](https://oyc.yale.edu/) - Courses
-* [My Great Learning](https://www.mygreatlearning.com/academy) - Courses
 * [Stepik](https://stepik.org/) - Courses
-* [Canvas](https://www.canvas.net/) - Courses
-* [CourseF](https://www.coursef.com/) - Courses
 * [Study is wonderful](https://github.com/xioacd99/study-is-wonderful) - Courses
-* [MindLuster](https://www.mindluster.com/) - Courses
-* [Free MOOCs](https://freemoocs.com/) - Courses
 * [Stanford Courses](https://online.stanford.edu/free-content) - Free Stanford Courses
 * [Crash Course](https://thecrashcourse.com/) - Topic Crash Courses
 * [LearnOutLoud](https://www.learnoutloud.com/) - Documentaries / Courses
 * [Class Central](https://www.classcentral.com/) - Search for Courses
 * [ProfessorMesser](https://www.professormesser.com/) - IT Courses
-* [media.ccc.de](https://media.ccc.de/) or [SlidePlayer](https://slideplayer.com/) - Educational Presentations
+* [media.ccc.de](https://media.ccc.de/) - Educational Presentations
 * UC Berkeley Webcast Project - [Archive](https://archive.org/details/ucberkeley-webcast) or [lbry](https://odysee.com/@UCBerkeley)
-* [iTunes U](https://wiki.archiveteam.org/index.php/ITunes_U) - Lectures
 * [Video Lectures](https://videolectures.net/) - Lectures
 * [Ted Talks](https://www.ted.com/) - Inspiring and Educational Talks
 * [NYU-DLSP21](https://atcold.github.io/NYU-DLSP21/) - Deep Learning Course
-* [pad.ma](https://pad.ma/) - Text-annotated Videos
 * [CommSpeeches](https://commspeeches.softr.app/) - Famous Graduation Speeches
 
 ***
@@ -103,32 +91,21 @@
 * [CourseDL](https://rentry.co/FMHYBase64#coursedl) - Courses
 * [Revival](https://rentry.co/FMHYBase64#revival) - Courses
 * [Genetry](https://genetry.carrd.co/) - JEE Lectures
-* [CoursesDaddy](https://coursesdaddy.com/) - Courses
 * [Coursesghar](https://coursesghar.com/) - Courses
 * [FreeEducationWeb](https://freeeducationweb.com/) - Courses
 * [FreeCourseDL](https://freecoursedl.com/) - Courses
 * [TutsNode](https://tutsnode.net/) - Courses
-* [Google Drive Links](https://googledrivelinks.com/) - Courses
 * [FCS](https://freecoursesites.com/) - Courses
-* [5G GYAN](https://www.5ggyan.com/) - Courses
-* [GameOfCourses](https://gameofcourses.com/) - Courses
-* [WSODownloads](https://www.wsodownloads.in/) - Courses
 * [tut4dl](https://tut4it.com/) - Courses
 * [technet24](https://technet24.ir/category/videos) - Courses
-* [course-collections](https://rentry.co/course-collections) - Courses
-* [Free Udacity Skillshare Coursera EDX](https://t.me/Free_Udacity_Skillshare_Coursera)
 * [AfraTafreeh](https://afratafreeh.com/) - Courses
 * [Free-Courses-For-Everyone](https://github.com/MasterBrian99/Free-Courses-For-Everyone) - Courses
-* [Open-Video](https://open-video.org/) - Courses / Documentaries
-* [CourseInDrive](https://t.me/CourseInDrive) - Courses / Telegram
 * [WEBCHARMERS](https://t.me/WEBCHARMERS) - Courses / Telegram
 * [FreebieCourses](https://t.me/freebiecourses) - Courses / Telegram
 * [CourseBusters](https://t.me/coursebusters) - Courses / Telegram
 * [learningDL](https://learningdl.net/) - Courses / Leech required
-* [FreeTutsDownload.net](https://freetutsdownload.net/) - Courses / Tutorials
 * [LinkedIn_Learning](https://t.me/linkedin_learning) - LinkedIn Courses
 * [CertCommunity](https://www.certcommunity.org/forum/) - IT Cert Courses
-* [Linux Interview Q&A's](https://rentry.co/FMHYBase64#top-linux-interview-qas) - Linux Interview Q&A
 * [Coursera-dl](https://github.com/coursera-dl/coursera-dl) - Download videos from Coursera
 * [firerip](https://github.com/lem6ns/firerip) - Fireship.io Course Grabber / [Script](https://greasyfork.org/en/scripts/455330-freeship)
 
