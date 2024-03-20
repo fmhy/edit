@@ -24,7 +24,7 @@
 * [CorePatch](https://github.com/LSPosed/CorePatch) - Disable Signature Verification / [Telegram](https://t.me/core_patch_chat)
 * [Zygisk Detach](https://github.com/j-hc/zygisk-detach) - Detach APKs from Google Play Store
 * [UpgradeAll](https://github.com/DUpdateSystem/UpgradeAll), [APKUpdater](https://github.com/rumboalla/apkupdater) or [Obtainium](https://github.com/ImranR98/Obtainium/) - APK Updaters
-* [Let Me Downgrade](https://github.com/DavidBerdik/Let-Me-Downgrade) - Downgrade Apps on Android 12/13
+* [Let Me Downgrade](https://github.com/DavidBerdik/Let-Me-Downgrade) - Downgrade Apps on Android 12/13 / Root
 * [APKAdmin](https://apkadmin.com/) - APK Hosting Site
 
 ***
@@ -1027,10 +1027,10 @@
 * [1Blocker](https://1blocker.com/), [Ka-Block!](http://kablock.com/) or [BlockParty](https://github.com/krishkumar/BlockParty) - Adblocker
 * [DNSCloak](https://apps.apple.com/us/app/dnscloak-secure-dns-client/id1452162351), [Naka AdBlocker](https://apps.apple.com/ca/app/naka-adblocker/id1525185489) or [NextDNS](https://apps.apple.com/ca/app/nextdns/id1463342498) - DNS Adblockers
 * [Video Lite](https://apps.apple.com/sa/app/video-lite-no-ads/id1598997500) - Video Browser w/Adblock
+* [Apollo](https://apps.apple.com/au/app/apollo-for-reddit/id979274575) - Adfree Reddit Client / Use [Artemis](https://chariz.com/get/artemis) or [Tweak](https://redd.it/14osa6i)
 * [iSponsorBlock](https://github.com/Galactic-Dev/iSponsorBlock) - Skip YouTube Sponsorships
 * [SponsorBlock for YT Music] - Skip Non-Music Segments in Youtube Music
 * [Tweebot 6](https://apps.apple.com/us/app/tweetbot-6-for-twitter/id1527500834) - Ad-Free Twitter
-* [Apollo](https://apps.apple.com/au/app/apollo-for-reddit/id979274575) - Adfree Reddit Client / Use [Artemis](https://chariz.com/get/artemis) or [Tweak](https://redd.it/14osa6i)
 
 ***
 
