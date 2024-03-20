@@ -676,7 +676,6 @@
 * [PicoShare](https://github.com/mtlynch/picoshare)
 * [Up1](https://github.com/Upload/Up1)
 * [Chevereto](https://chevereto.com/)
-* [Pinry](https://docs.getpinry.com/)
 * [Photofield](https://github.com/SmilyOrg/photofield)
 * [Google Takeout](https://takeout.google.com/) - Export from Google Photos / [Script](https://github.com/TheLastGimbus/GooglePhotosTakeoutHelper)
 
@@ -695,7 +694,6 @@
 * [WebOasis IPFS](https://weboasis.app/ipfs/)
 * [Shutterfly](https://www.shutterfly.com/)
 * [FreeImage.Host](https://freeimage.host/)
-* [snipboard](https://i.snipboard.io/)
 * [imgbox](https://imgbox.com/)
 * [pasteboard](https://www.pasteboard.co/)
 * [vgy](https://vgy.me/)
