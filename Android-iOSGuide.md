@@ -1030,7 +1030,8 @@
 * [iSponsorBlock](https://github.com/Galactic-Dev/iSponsorBlock) - Skip YouTube Sponsorships
 * [SponsorBlock for YT Music] - Skip Non-Music Segments in Youtube Music
 * [Tweebot 6](https://apps.apple.com/us/app/tweetbot-6-for-twitter/id1527500834) - Ad-Free Twitter
-* [Apollo](https://apps.apple.com/au/app/apollo-for-reddit/id979274575) - Adfree Reddit Client (Use [Artemis](https://chariz.com/get/artemis) or [Tweaked App](https://www.reddit.com/r/jailbreak/comments/14osa6i/tutorial_sideload_apollo_artemis_with_sideloadly/))
+* [Apollo](https://apps.apple.com/au/app/apollo-for-reddit/id979274575) - Adfree Reddit Client / Use [Artemis](https://chariz.com/get/artemis) or [Tweak](https://redd.it/14osa6i)
+
 ***
 
 ## ▷ iOS Privacy
