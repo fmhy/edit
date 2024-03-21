@@ -251,52 +251,6 @@
 
 ***
 
-## ▷ Video Hosts
-
-**Note** - These are good for finding classic, obscure and short films
-
-***
-
-* ⭐ **[VK](https://vk.com/video)** / [Enhancement Extension](https://vknext.net/)
-* ⭐ **[OK](https://ok.ru/video)**
-* ⭐ **[YouTube](https://www.youtube.com/)** / [Advanced](https://playlists.at/youtube/search/) / [Download Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video-tools#wiki_.25B7_youtube_download)
-* ⭐ **[Archive](https://archive.org/)** - Movies / TV
-* ⭐ **[Dailymotion](https://www.dailymotion.com/us)**
-* ⭐ **[BiliBili](https://www.bilibili.com/)**, [2](https://www.bilibili.tv/) / [Multi-Platform Client](https://github.com/xfangfang/wiliwili)
-* ⭐ **[Niconico](https://www.nicovideo.jp/)**
-* ⭐ **[Vimeo](https://vimeo.com/)**
-* ⭐ **[Veoh](https://www.veoh.com/)**
-* ⭐ **[Video Search CSE](https://cse.google.com/cse?cx=006516753008110874046:6v9mqdaai6q#gsc.tab=0)** or [Moviez.space](https://moviez.space/) - Multi-Site Video Search
-* ⭐ **[Noodlemagazine](https://noodlemagazine.com)**, [2](https://mat6tube.com/), [3](https://18.tyler-brown.com/), [4](https://waterdamagesandiego.org/), [5](https://hot.exporntoons.net/), [6](https://actionviewphotography.com/), [7](https://ukdevilz.com/) - Search Engine
-* [YouTube Movie Hosts](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_youtube_movies)
-* [PeerTube](https://joinpeertube.org/), [2](https://sepiasearch.org/) / [Instances](https://instances.joinpeertube.org/instances)
-* [my.mail.ru](https://my.mail.ru/video)
-* [Facebook Videos](https://www.facebook.com/watch/search/?query=fmhy)
-* [Ronemo](https://ronemo.com/)
-* [rutube](https://rutube.ru)
-* [cda.pl](https://www.cda.pl/)
-* [tilvids](https://tilvids.com/)
-* [bitchute](https://www.bitchute.com/)
-* [V-S Mobi](https://v-s.mobi/)
-* [Videa](https://videa.hu/)
-* [Aparat](https://www.aparat.com/)
-* [NewTube](https://newtube.app/)
-* [tudou](https://www.tudou.com/)
-* [BitView](https://www.bitview.net/)
-* [Vidlii](https://www.vidlii.com/)
-* [Naver](https://tv.naver.com/)
-* [ultimedia](https://www.ultimedia.com/)
-* [odysee](https://odysee.com/)
-* [Playeur](https://playeur.com/)
-* [Rumble](https://rumble.com/)
-* [tubidy](https://tubidy.net/) 
-* [Myspace Videos](https://myspace.com/search/videos) 
-* [Google Videos](https://www.google.com/?tbm=vid)
-* [Yandex Videos](https://yandex.ru/video)
-* [MotionBox](https://omega.gg/MotionBox/) - Online Video Aggregation App
-
-***
-
 ## ▷ Specialty Streaming
 
 * ↪️ **[How To Find Rare Movies](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/find-rare-movies)**
@@ -358,6 +312,52 @@
 ***
 
 ## ▷ [Educational Streaming](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu#wiki_.25B7_streaming)
+
+***
+
+## ▷ Video Hosts
+
+**Note** - These are good for finding classic, obscure and short films
+
+***
+
+* ⭐ **[VK](https://vk.com/video)** / [Enhancement Extension](https://vknext.net/)
+* ⭐ **[OK](https://ok.ru/video)**
+* ⭐ **[YouTube](https://www.youtube.com/)** / [Advanced](https://playlists.at/youtube/search/) / [Download Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video-tools#wiki_.25B7_youtube_download)
+* ⭐ **[Archive](https://archive.org/)** - Movies / TV
+* ⭐ **[Dailymotion](https://www.dailymotion.com/us)**
+* ⭐ **[BiliBili](https://www.bilibili.com/)**, [2](https://www.bilibili.tv/) / [Multi-Platform Client](https://github.com/xfangfang/wiliwili)
+* ⭐ **[Niconico](https://www.nicovideo.jp/)**
+* ⭐ **[Vimeo](https://vimeo.com/)**
+* ⭐ **[Veoh](https://www.veoh.com/)**
+* ⭐ **[Video Search CSE](https://cse.google.com/cse?cx=006516753008110874046:6v9mqdaai6q#gsc.tab=0)** or [Moviez.space](https://moviez.space/) - Multi-Site Video Search
+* ⭐ **[Noodlemagazine](https://noodlemagazine.com)**, [2](https://mat6tube.com/), [3](https://18.tyler-brown.com/), [4](https://waterdamagesandiego.org/), [5](https://hot.exporntoons.net/), [6](https://actionviewphotography.com/), [7](https://ukdevilz.com/) - Search Engine
+* [YouTube Movie Hosts](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_youtube_movies)
+* [PeerTube](https://joinpeertube.org/), [2](https://sepiasearch.org/) / [Instances](https://instances.joinpeertube.org/instances)
+* [my.mail.ru](https://my.mail.ru/video)
+* [Facebook Videos](https://www.facebook.com/watch/search/?query=fmhy)
+* [Ronemo](https://ronemo.com/)
+* [rutube](https://rutube.ru)
+* [cda.pl](https://www.cda.pl/)
+* [tilvids](https://tilvids.com/)
+* [bitchute](https://www.bitchute.com/)
+* [V-S Mobi](https://v-s.mobi/)
+* [Videa](https://videa.hu/)
+* [Aparat](https://www.aparat.com/)
+* [NewTube](https://newtube.app/)
+* [tudou](https://www.tudou.com/)
+* [BitView](https://www.bitview.net/)
+* [Vidlii](https://www.vidlii.com/)
+* [Naver](https://tv.naver.com/)
+* [ultimedia](https://www.ultimedia.com/)
+* [odysee](https://odysee.com/)
+* [Playeur](https://playeur.com/)
+* [Rumble](https://rumble.com/)
+* [tubidy](https://tubidy.net/) 
+* [Myspace Videos](https://myspace.com/search/videos) 
+* [Google Videos](https://www.google.com/?tbm=vid)
+* [Yandex Videos](https://yandex.ru/video)
+* [MotionBox](https://omega.gg/MotionBox/) - Online Video Aggregation App
 
 ***
 
