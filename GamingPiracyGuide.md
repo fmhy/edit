@@ -468,7 +468,7 @@
 * [Steam Auto Shutdown](https://github.com/diogomartino/steam-auto-shutdown) - Shutdown Steam after Downloads Finish
 * [Steam URL Opener](https://github.com/veteran29/steam-url-open-extension) - Open URLs Inside Steam Client
 * [Steam Age Bypass](https://greasyfork.org/en/scripts/18450-steam-bypass-age-confirmation-prompts) - Bypass Age Confirmation
-Steam Currency Converter - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/steam-currency-converter) / [Chrome](https://chromewebstore.google.com/detail/steam-currency-converter/ocabaebkfcojookdnihccpcngaaigfan) / [Note](https://pastebin.com/rjYe4kjT)
+* Steam Currency Converter - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/steam-currency-converter) / [Chrome](https://chromewebstore.google.com/detail/steam-currency-converter/ocabaebkfcojookdnihccpcngaaigfan) / [Note](https://pastebin.com/rjYe4kjT)
 * [Adwaita for Steam](https://github.com/tkashkin/Adwaita-for-Steam) - Steam GNOME Skin
 * [Backgrounds.Gallery](https://backgrounds.gallery/) - Steam Backgrounds
 * [Steam.Design](https://steam.design/) - Steam Background Cropper
