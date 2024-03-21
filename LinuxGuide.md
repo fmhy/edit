@@ -404,7 +404,7 @@ Linux Gaming Guide
 * [asciinema](https://asciinema.org/) - Terminal Recorder
 * [Electerm](https://electerm.github.io/electerm) - Terminal / SSH / STP Client
 * [fzf](https://github.com/junegunn/fzf) or [skim](https://github.com/lotabout/skim) - Fuzzy Finders
-* [atuin](https://github.com/ellie/atuin) - Shell History Management
+* [atuin](https://atuin.sh/) - Shell History Management / [GitHub](https://github.com/atuinsh/atuin)
 * [cbonsai](https://gitlab.com/jallbrit/cbonsai) - Generate Bonsai Trees in Terminal
 * [pipes.sh](https://github.com/pipeseroni/pipes.sh) or [pipes-rs](https://github.com/lhvy/pipes-rs) - Animated Pipes in Terminal
 * [Terminal Locomotive Train](https://pastebin.com/ayrFjrh6) - Train Terminal Easter Egg
