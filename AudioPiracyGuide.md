@@ -40,7 +40,7 @@
 * [Spotr](https://github.com/XDGFX/spotr) - Export Tracks as Deezer Playlists
 * [SpotifyCloud](https://spotifycloud.zamar-roura.com/) - Playlist Words
 * [Spotify Dedup](https://spotify-dedup.com/) - Playlist Song Dedup
-* [SpotMyBackup](http://www.spotmybackup.com/), [2](https://github.com/watsonbox/exportify) - Playlist Backup
+* [exportify](https://github.com/watsonbox/exportify) or [SpotMyBackup](http://www.spotmybackup.com/) - Playlist Backup
 * [Opslagify](https://opslagify.deruever.nl/) - Library Size
 * [awesome-spotify-stats](https://github.com/rimsiw/awesome-spotify-stats) - Listening Stats
 * [Tierify](https://davitg.com/projects/tierify/) - Tier Lists
