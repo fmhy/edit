@@ -319,11 +319,13 @@
 * [P2PFR](https://forum.p2pfr.com/) - Piracy Discussion
 * [Emuline](https://www.emuline.org/) - ROM / Emulation Discussion
 * [SubSynchro](https://www.subsynchro.com/), [Sous-Titres](https://www.sous-titres.eu/) or [SubFactory](https://subfactory.fr/) - Subtitles
+* [Wikiwix](https://wikiwix.com/) - Wikipedia Search
 * [Tseret](https://tseret.com/) - Game Guides
 * [BonPatron](https://bonpatron.com/) - Spelling and Grammar Check
 * [GoTo10](https://www.goto10.fr/) - BBS and Minitel Archives
 * [DropReference](https://dropreference.com/) - PC Building Site
 * [TrustScam](https://trustscam.fr/) - Website Security Analysis
+* [Wikiwix Archive](https://archive.wikiwix.com/) - Web Archive Site
 * [nuit-blanche](https://nuit-blanche.ch/) - Drug Detox Help
 
 ## ▷ Downloading
@@ -936,7 +938,7 @@
 
 ## ▷ Streaming
 
-* ⭐ **[wbijam](https://wbijam.pl/)** - Anime / Sub / 1080p
+* ⭐ **[Grupa Mirai](https://www.grupa-mirai.pl/)** - Anime / Sub / 1080p
 * [FilmPolski](https://filmpolski.pl/fp/index.php) - Polish Video Archive
 * [Kinomoc](https://kinomoc.com/) - Movies / TV / Dub / 1080p
 * [Virpe](https://virpe.cc/) - Movies / TV
