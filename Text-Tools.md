@@ -26,17 +26,18 @@
 
 ## ▷ Pastebins
 
-* ⭐ **[Pastebin Search](https://cse.google.com/cse?cx=0cd79b819f26af9d0)**
 * ⭐ **[snowbin](https://pastes.fmhy.net/)**, [2](https://paste.fmhy.net/) - Temp Pastebin
 * ⭐ **[Linqbin](https://linqbin.cc/)** - Temp Pastebin
-* ⭐ **[Rentry](https://rentry.co/)** / [CLI](https://github.com/radude/rentry)
-* ⭐ **[Bundlrs](https://bundlrs.cc/)** / [Source](https://code.stellular.org/SentryTwo/bundlrs)
+* ⭐ **[Github Gists](https://gist.github.com/)**
+* ⭐ **[Rentry](https://rentry.co/)** / [CLI](https://github.com/radude/rentry) / Markdown Support
+* ⭐ **[Stellular](https://bundlrs.cc/)** / [Source](https://code.stellular.org/SentryTwo/bundlrs) / Markdown Support
 * ⭐ **[disroot](https://bin.disroot.org/)**, [privatebin](https://privatebin.net/), [TextBin](https://textbin.xyz/), [bin.idrix](https://bin.idrix.fr/) or [RIN Privatebin](https://privatebin.rinuploads.org/)
 * ⭐ **[PrivateBin Instances](https://privatebin.info/directory/)**
 * ⭐ **[katb](https://katb.in/)**
 * ⭐ **[WriteXO](https://writexo.com/)**
+* ⭐ **[Pastebin Search](https://cse.google.com/cse?cx=0cd79b819f26af9d0)**
+* [Paster](https://paster.so) / Markdown Support
 * [Rlim](https://rlim.com/)
-* [Paster](https://paster.so)
 * [paste](https://paste.ee/)
 * [sparked](https://paste.sparked.host/)
 * [pst.moe](https://pst.moe/)
@@ -60,7 +61,7 @@
 * [paaster](https://paaster.io/)
 * [pastery](https://www.pastery.net/)
 * [pastebin.pl](https://pastebin.pl/)
-* [hasbin](https://hashb.in)
+* [hashbin](https://hashb.in)
 * [zerobin](https://zerobin.net/)
 * [paste.debian](https://paste.debian.net/)
 * [centos](https://paste.centos.org/)
@@ -194,7 +195,7 @@
 * [TypeRush](https://www.typerush.com/) - Typing Games
 * [ARRRType](https://www.arrrtype.com/) - Typing Games
 * [NGram Type](https://ranelpadon.github.io/ngram-type/), [Keyzen3](https://adamgradzki.com/keyzen3/) or [Keyzen Colmak](https://ranelpadon.github.io/keyzen-colemak-dh/) - Touch Typing Tests
-* [Ttyper](https://github.com/max-niederman/ttyper) or [TermTyper](https://github.com/kraanzu/termtyper) - Terminal Typing Tests
+* [Smassh](https://github.com/kraanzu/smassh), [Ttyper](https://github.com/max-niederman/ttyper) or [TermTyper](https://github.com/kraanzu/termtyper) - Terminal Typing Tests
 * [TypeLit.io](https://www.typelit.io/) - Book Typing Tests
 * [Colemak Academy](https://www.colemak.academy/) - Alt / Custom Keyboard Tests
 * [klavaro](https://klavaro.sourceforge.io/), [TypingStudy](https://www.typingstudy.com/) or [TypeFast](https://typefast.io/) - Multilingual Typing Tests
