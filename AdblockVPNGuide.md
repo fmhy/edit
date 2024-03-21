@@ -6,7 +6,7 @@
 
 # ► Adblocking
 
-**Note** - Don't run multiple general adblockers like uBlock Origin and Adblock Plus at the same time. Running more than one can cause breakage. This only applies to general adblockers, so running things like uBlock  Origin and SponsorBlock at the same time is fine.
+**Note** - Don't run multiple general adblockers like uBlock Origin and Adblock Plus at the same time. Running more than one can [cause breakage](https://twitter.com/gorhill/status/1033706103782170625). This only applies to general adblockers, so running things like uBlock  Origin and SponsorBlock at the same time is fine.
 
 ***
 
@@ -335,6 +335,7 @@
 * [Numblr](https://github.com/heyLu/numblr) - Self-Hosted Frontend Redirect
 * [Photon](https://photon-reddit.com/) or [redlib](https://github.com/redlib-org/redlib) - Reddit Frontends
 * [Invidious Redirect](https://addons.mozilla.org/en-US/firefox/addon/hooktube-redirect/?src=search) - YouTube Frontend Redirect
+* [twstalker](https://twstalker.com/) - Twitter Frontend
 * [Proxigram](https://codeberg.org/ThePenguinDev/Proxigram) or [Imginn](https://imginn.com) - Instagram Frontends
 * [Proxitok](https://github.com/pablouser1/ProxiTok) or [TikNot](https://tiknot.netlify.app/) / [Redirect](https://greasyfork.org/en/scripts/482683) - TikTok Frontends
 * [Tumlook](https://www.tumlook.com/) or [PriviBlur](https://github.com/syeopite/priviblur) - Tumblr Frontends
