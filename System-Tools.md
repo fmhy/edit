@@ -43,6 +43,7 @@
 * ⭐ **[Bulk Crap Uninstaller](https://www.bcuninstaller.com/)** - Bulk Uninstallation Tool
 * ⭐ **[BleachBit](https://www.bleachbit.org/)** - Clean System Storage
 * ⭐ **[SophiApp](https://github.com/Sophia-Community/SophiApp)** / [Script](https://github.com/farag2/Sophia-Script-for-Windows) - Debloater
+* [Privatezilla](https://github.com/builtbybel/privatezilla) - Debloater
 * [GhostBuster](https://bitbucket.org/wvd-vegt/ghostbuster/src/master/) or [Device Cleanup Tool](https://www.majorgeeks.com/files/details/device_cleanup_tool.html) - Remove Non-Present Devices
 * [Win10Debloat](https://github.com/Raphire/Win10Debloat) - Debloater
 * [Adobe Debloater](https://github.com/FlickyOs/Adobe-Debloater) - Debloat Adobe Apps
