@@ -72,7 +72,6 @@
 * [Taskbar Hide](https://www.eusing.com/hidewindows/bosskey.htm) - Easily Hide / Show Taskbar
 * [MinimizeToTray](https://github.com/sandwichdoge/MinimizeToTray), [Traymond](https://github.com/fcFn/traymond), [RBTray](https://github.com/benbuck/rbtray) or [minimize-to-tray](https://sourceforge.net/projects/minimize-to-tray/) - Minimize Windows to Tray
 * [QuickLook](https://github.com/QL-Win/QuickLook) - macOS Quick Look for Windows
-* [ModernFlyouts](https://apps.microsoft.com/detail/9mt60qv066rp?hl=en-us&gl=US) or [MediaFlyout](https://github.com/krlvm/MediaFlyout) - Media Control Taskbars
 * [BurntToast](https://github.com/Windos/BurntToast) - Create and display Toast Notifications
 * [TrayVolumeControl](https://github.com/krlvm/TrayVolumeControl) - Control Tray Volume via Scroll
 * [HideVolumeOSD](https://github.com/UnlimitedStack/HideVolumeOSD) - Hide Volume Bar
@@ -473,7 +472,7 @@
 * [RetroBar](https://github.com/dremin/RetroBar) - Retro Classic Taskbars
 * [StartAllBack](https://www.startallback.com/) - Restore Classic Start Menu in Windows 11
 * [Win98Icons](https://win98icons.alexmeub.com/) - Classic Win98 Icons
-* [Modern Flyouts](https://apps.microsoft.com/store/detail/modernflyouts-preview/9MT60QV066RP) - Modern Context Menus / [GitHub](https://github.com/ModernFlyouts-Community/ModernFlyouts)
+* [Modern Flyouts](https://apps.microsoft.com/store/detail/modernflyouts-preview/9MT60QV066RP) or [MediaFlyout](https://github.com/krlvm/MediaFlyout) - Modern Context Menus / [GitHub](https://github.com/ModernFlyouts-Community/ModernFlyouts)
 * [ModernWinver](https://github.com/torchgm/NewModernWinver) - Modernize the About Windows Screen
 * [Tabby](https://tabby.sh/) - Modern Terminal Theme
 * [linux-like-windows-terminal](https://github.com/Kyza/linux-like-windows-terminal) - Linux Terminal Theme
