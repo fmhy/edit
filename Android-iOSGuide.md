@@ -701,7 +701,7 @@
 * ↪️ **[Android Audio Players](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_android_audio_players)**
 * ⭐ **[xManager](https://www.xmanagerapp.com/)** / [Discord](https://discord.com/invite/dnpKn5Wufm) or [Modded Spotify](https://rentry.co/FMHYBase64#modded-spotify-apk) - Ad Free Spotify
 * ⭐ **xManager Tools** - [Friend Activity](https://spotivity.me/) / [Mute Ads](https://play.google.com/store/apps/details?id=live.teekamsuthar.mutify), [2](https://github.com/aghontpi/ad-silence) / [Stats](https://stats.fm/)
-* ⭐ **[InnerTune](https://github.com/z-huang/InnerTune)**, [Namida](https://github.com/namidaco/namida), [RiMusic](https://github.com/fast4x/RiMusic), [Harmony Music](https://github.com/anandnet/Harmony-Music), [SimpMusic](https://simpmusic.tech/), [spmp](https://github.com/toasterofbread/spmp), [ViMusic](https://github.com/vfsfitvnm/ViMusic), [Gyawun](https://jhelumcorp.github.io/) or [Vibe You](https://github.com/SuhasDissa/VibeYou) - YouTube Music Players
+* ⭐ **[InnerTune](https://github.com/z-huang/InnerTune)**, [Namida](https://github.com/namidaco/namida), [RiMusic](https://github.com/fast4x/RiMusic), [Harmony Music](https://github.com/anandnet/Harmony-Music), [SimpMusic](https://simpmusic.tech/), [spmp](https://github.com/toasterofbread/spmp), [ViMusic](https://github.com/25huizengek1/ViTune), [Gyawun](https://jhelumcorp.github.io/) or [Vibe You](https://github.com/SuhasDissa/VibeYou) - YouTube Music Players
 * ⭐ **[Seeker](https://play.google.com/store/apps/details?id=com.companyname.andriodapp1)** - Audio Download App / Soulseek Frontend
 * ⭐ **[AutomaTag](http://automatag.com/)** or [AutoTagger](https://autotagger.ru/) - Metadata Organizers
 * ⭐ **[AudioRelay](https://audiorelay.net/)** - Stream PC Audio to Phone
