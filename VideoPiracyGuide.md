@@ -370,7 +370,9 @@
 * [Hula8](https://www.hula8.net/) - MMA Replays 
 * [Bellator](https://www.bellator.com/) - MMA Replays 
 * [MMACore](https://www.mma-core.com) - MMA Replays 
-* [BoxingBoxingvideoideo](https://boxingvideo.org/) - Boxing Replays 
+* [BoxingBoxingvideoideo](https://boxingvideo.org/) - Boxing Replays
+* [Miselet](https://vk.com/video/@miselet) - Sumo Wrestling Replays
+* [NattoSumo](https://discord.gg/nattosumo) - Sumo Wrestling Highlights
 * [AllTheBestFights](https://www.allthebestfights.com/) - MMA / Boxing / Kickboxing Replays 
 * [TNA / Impact Replays](https://www.youtube.com/playlist?list=PLSadBNbijyoGV44wd96Fda7-GDYh9UktC) - TNA / Impact Wrestling Replays
 * [/r/MotorsportsReplays](https://reddit.com/r/MotorsportsReplays) - Motorsports Replays 
