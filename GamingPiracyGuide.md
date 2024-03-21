@@ -488,7 +488,7 @@
 
 ## ▷ Game Launchers
 
-* ⭐ **[Playnite](https://playnite.link/)** / [Extensions](https://playnite.link/addons.html) / [Achievements](https://github.com/Lacro59/playnite-successstory-plugin) / [SteamEmuUtility(Auto crack)](https://github.com/turusudiro/SteamEmuUtility) - Game Library / Launcher
+* ⭐ **[Playnite](https://playnite.link/)** / [Extensions](https://playnite.link/addons.html) / [Achievements](https://github.com/Lacro59/playnite-successstory-plugin) / [Auto-Crack](https://github.com/turusudiro/SteamEmuUtility) - Game Library / Launcher
 * ⭐ **[GoG Galaxy](https://www.gog.com/galaxy)** or **[Project GLD](https://github.com/Y0URD34TH/Project-GLD/)** - Game Libraries / Launchers
 * [Black Pearl Origin](https://github.com/BlackPearlOrigin/blackpearlorigin) / [Plugins](https://bpo-store.github.io/) - Cross Platform Game Library / Launcher
 * [Launchbox](https://www.launchbox-app.com/) - Retro / Console Game Library / Launcher
