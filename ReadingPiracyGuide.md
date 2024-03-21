@@ -711,18 +711,12 @@
 * [DogManga](https://dogemanga.com/)
 * [MangaOwl](https://mangaowl.to/)
 * [MangaReader](https://mangareader.mobi/)
-* [Mangarolls](https://mangarolls.net/)
-* [Mangabtt](https://mangabtt.com/)
-* [Murimscan](https://murimscan.run/)
 * [Tenmanga](https://www.tenmanga.com/)
 * [OniManga](https://onimanga.com)
 * [Mangago](https://www.mangago.me/)
 * [MangaBat](https://m.mangabat.com/)
-* [ReadOPM](https://ww3.readopm.com/read-manga/)
 * [MangaEffect](https://mangaeffect.com/)
-* [Manga Home](https://www.mangahome.com/)
 * [Mangaski](https://www.mangasaki.net/)
-* [DeathTollScans](https://www.deathtollscans.net/)
 * [MangaJar](https://mangajar.pro/)
 * [GodManga](https://godamanga.art/)
 * [NineManga](https://www.ninemanga.com)
@@ -731,7 +725,6 @@
 * [MangaFox](https://fanfox.net/)
 * [ReadM](https://readm.org/)
 * [mangapill](https://mangapill.com/)
-* [NineKon](https://app.ninekon.com/)
 * [Anime-Sharing](https://www.anime-sharing.com/) - Anime / Manga Download Forum
 * [MP4DIRECTS](https://mp4directs.com/) - Manga / Light Novels Download Forum
 * [Kaizoku](https://github.com/oae/kaizoku) - Self-Hosted Manga Downloader
@@ -739,7 +732,6 @@
 * [Webcomic Reader](https://openuserjs.org/scripts/anka-213/Webcomic_Reader) - Preloads Images, Remembers Progress and Keyboard Support
 * [MangaEditor](https://moeka.me/mangaEditor/) - Online Manga Editor
 * [manga-translator](https://github.com/cameronkinsella/manga-translator), [BallonsTranslator](https://github.com/dmMaze/BallonsTranslator/blob/master/README_EN.md), [Cotrans](https://cotrans.touhou.ai/) or [Scanlate](https://scanlate.io/) - Manga Translators
-* [TheJadedNetwork](https://thejadednetwork.com/sfx/) - Japanese SFX Translations / [PDF](https://drive.google.com/file/d/1ean3beoWJmz__yu67OqNa8CKNMlrvCSd/)
 * [Manga-Tagger](https://github.com/inpacchi/manga-tagger) or [Manga-Manager](https://github.com/MangaManagerORG/Manga-Manager) - Manga Managers
 
 ***
@@ -995,7 +987,7 @@
 * ↪️ **[Android](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25BA_android_reading) / [iOS](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25BA_ios_reading)** - Mobile Ebook Readers
 * ⭐ **[Google Play Books](https://play.google.com/books)** - Store Pirated Books / Get Metadata Automatically
 * ⭐ **[Foxit](https://www.foxit.com/pdf-reader/)** - PDF Reader / PC / Android / iOS / Linux / Mac
-* ⭐ **[Koodo](https://koodo.960960.xyz/)** - Ebook Reader / PC / Mac / Linux / [GitHub](https://github.com/troyeguo/koodo-reader)
+* ⭐ **[Koodo](https://www.koodoreader.com/)** - Ebook Reader / PC / Mac / Linux / [GitHub](https://github.com/troyeguo/koodo-reader)
 * ⭐ **[eBoox](https://eboox.ru/en/)** - Ebook Reader / Android / iOS
 * ⭐ **[SumatraPDFReader](https://www.sumatrapdfreader.org/free-pdf-reader)** - PDF / PC 
 * ⭐ **[Calibre](https://calibre-ebook.com/)** - Ebook Reader / PC / Android / iOS
@@ -1006,7 +998,7 @@
 * [LibrumReader](https://librumreader.com/ ) - Ebook Reader / PC 
 * [KoReader](https://koreader.rocks/) - Ebook Reader / PC / Android / [GitHub](https://github.com/koreader/koreader)
 * [FBReader](https://fbreader.org/) - Ebook Reader / PC / Android / iOS
-* [Thorium](https://www.edrlab.org/software/thorium-reader/) - Ebook Reader / PC / Mac / Linux
+* [Thorium](https://thorium.edrlab.org/) - Ebook Reader / PC / Mac / Linux
 * [CoolReader](https://github.com/buggins/coolreader) - Ebook Reader / PC / Linux
 * [Icecream eBook Reader](https://icecreamapps.com/Ebook-Reader/) - Ebook Reader / PC
 * [Okular](https://okular.kde.org/) - PDF / Linux / PC / Mac
