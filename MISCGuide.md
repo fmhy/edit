@@ -188,7 +188,7 @@
 * [Florae](https://github.com/aeri/Florae) - Plant Care Reminders
 * [WorldOfSucculents](https://worldofsucculents.com/) or [SucculentGuide](https://www.succulentguide.com/) - Succulent Database
 * [MyGarden](https://gitlab.com/m9712/mygarden) - Garden Management App
-* [Garden Design](https://www.gardendesign.com/) - Garden Design Guides
+* [Gardenia](https://www.gardenia.net/) or [Garden Design](https://www.gardendesign.com/) - Garden Design Resources
 * [/r/UrbanGardening](https://www.reddit.com/r/UrbanGardening/) - Urban Gardening Community
 * [/r/Farming](https://reddit.com/r/farming/) - Farming Community
 * [Composting](https://learn.eartheasy.com/guides/composting/) - Composting Guides
@@ -414,7 +414,8 @@
 ## ▷ Tech News
 
 * ⭐ **[KrebsOnSecurity](https://krebsonsecurity.com/)** - Security News
-* ⭐ **[Hacker News](https://news.ycombinator.com/)**, [2](https://www.hckrnws.com/) / [Highlighter](https://greasyfork.org/en/scripts/39311) / [Search](https://hn.algolia.com/), [2](https://hn-recommend.julienc.me/) / [AI Chatbot](https://chathn.vercel.app/) - Tech / Hacking News
+* ⭐ **[Hacker News](https://news.ycombinator.com/)**, [2](https://www.hckrnws.com/) - Tech / Hacking News
+* ⭐ **Hacker News Tools** - [Highlighter](https://greasyfork.org/en/scripts/39311) / [Search](https://hn.algolia.com/), [2](https://hn-recommend.julienc.me/) / [AI Chatbot](https://chathn.vercel.app/) / [Top Posts](https://hn.lindylearn.io/) / [Web App](https://hackerwebapp.com/) / [Mobile App](https://github.com/Livinglist/Hacki), [2](https://play.google.com/store/apps/details?id=com.simon.harmonichackernews), [3](https://apps.apple.com/us/app/hackers-for-hacker-news/id603503901), [4](https://github.com/Mosc/Glider) 
 * ⭐ **[Lobsters](https://lobste.rs/)** / [Highlighter](https://greasyfork.org/en/scripts/40906), [TechURLs](https://techurls.com/), [DevURLs](https://devurls.com/), [Techmeme](https://www.techmeme.com/m/), [The Brutalist Report](https://brutalist.report/) or [jimmyr](https://jimmyr.com/) - Tech / Programming News Aggregators
 * [HackerNoon](https://hackernoon.com/), [gHacks](https://www.ghacks.net/), [NeoWin](https://www.neowin.net/), [TweakTown](https://www.tweaktown.com/) or [TechSpot](https://www.techspot.com/) - Tech News
 * [TuxURLs](https://tuxurls.com/) - Linux News
@@ -423,8 +424,6 @@
 * [EmergentMind](https://www.emergentmind.com/), [Singularity Hub](https://singularityhub.com/) or [Dupple](https://www.dupple.com/techpresso-archives) - AI News
 * [xGamer](https://xgamer.gg/) - Gaming News
 * [Internet Society](https://pulse.internetsociety.org/blog) - Internet Infrastructure News
-* [Hacki](https://github.com/Livinglist/Hacki), [Harmonic](https://play.google.com/store/apps/details?id=com.simon.harmonichackernews), [Glider](https://github.com/Mosc/Glider) or [HackerWeb](https://hackerwebapp.com/) - Hacker News Clients
-* [Hackers](https://apps.apple.com/us/app/hackers-for-hacker-news/id603503901) - Hacker News iOS App
 * [Talos Blog](https://blog.talosintelligence.com/) or [IT Security Guru](https://www.itsecurityguru.org/) - Security News / Information
 * [RestorePrivacy](https://restoreprivacy.com/category/news-reports/) or [Privacy International](https://www.privacyinternational.org/) - Privacy / Security News
 * [Darknet Live News](http://darkzzx4avcsuofgfez5zq75cqc4mprjvfqywo45dfcaxrwqg6qrlfid.onion/), [Darknet Stats](https://www.darknetstats.com/) or [Tape News](http://tape6m4x7swc7lwx2n2wtyccu4lt2qyahgwinx563gqfzeedn5nb4gid.onion/) - Dark Web News
@@ -444,7 +443,6 @@
 * [Coping Skills Masterlist](https://docs.google.com/document/d/1KI1kzj6Bjx_O3ggYXfgEuTtOsLiCW0V-JeWpTyX5OOU/) - Mental Health Coping Skills
 * [Zen Habits](https://zenhabits.net/) - Develop Zen Habits
 * [Medito](https://github.com/meditohq/medito-app) or [Heartfulness](https://www.heartfulnessapp.org/) - Meditation App
-* [One Mind PsyberGuide](https://onemindpsyberguide.org/) - Mental Health App Reviews
 * [7 Cups](https://www.7cups.com/) - Free Counseling & Therapy
 * [Balance](https://balance.dvy.io/) - Challenge Anxious Thoughts w/ AI
 * [Plees Tracker](https://github.com/vmiklos/plees-tracker) - Sleep Tracker
@@ -779,7 +777,8 @@
 * [PartSouq](https://partsouq.com/) - Auto Parts Search
 * [Chipscribe](https://chipscribe.com/) - Split Service Subscription Costs Anonymously
 * [StockInformer](https://www.stockinformer.com/) - Product Stock Notifications
-* [GiftWhale](https://giftwhale.com/) or [Wishlephant](https://wishlephant.com/) - Wish-list Creators
+* [GiftWhale](https://giftwhale.com/) or [Wishlephant](https://wishlephant.com/) - Wishlist Generators
+* [Throne](https://throne.com/) - Wishlists for Creators
 * [Microsoft Rewards Generator](https://greasyfork.org/en/scripts/457702), [2](https://github.com/jack-mil/bing-rewards), [3](https://github.com/3kh0/bing-rewards) - Automate Microsoft Reward Points
 * [Wii Shop Extension](https://github.com/corbindavenport/wii-shop-extension) - Play Nintendo Shop Music on Shopping Sites
 * [Ooak Finder](https://www.ooakfinder.com/) - Product Reverse Image Search
@@ -831,15 +830,26 @@
 
 ## ▷ Games
 
-* ⭐ **[GG.deals](https://gg.deals/)**
 * ⭐ **[IsThereAnyDeal](https://isthereanydeal.com/)** 
 * ⭐ **[SteamDB](https://steamdb.info/sales/)**
 * [CheapShark](https://www.cheapshark.com/) / [Discord](https://discord.com/invite/cheapshark)
-* [AllKeyShop](https://www.allkeyshop.com/blog/) or [PSPrices](https://psprices.com/)
+* [PSPrices](https://psprices.com/)
 * [EpicGamesDC](https://epicgamesdb.info/) - Epic Store Price Tracker
 * [PriceCharting](https://www.pricecharting.com/) - Game, Comic & Trading Card Price Tracker
 * [DekuDeals](https://www.dekudeals.com/) or [NTDeals](https://ntdeals.net/) - Switch Game Price Trackers
 * [PS Deals](https://psdeals.net/) - PlayStation Game Price Tracker
+
+***
+
+## ▷ Toys / Figures
+
+* [Dinosaur Toy Blog](https://dinotoyblog.com/) or [Animal Toy Blog](https://animaltoyforum.com/blog/) - Animal Toy Reviews
+* [MyFigureCollection](https://myfigurecollection.net/) - Japanese Pop-Culture Merch Database
+* [Ty Collector](https://tycollector.com/) or [Beaniepedia](https://beaniepedia.com/) - Ty Collectibles Databases
+* [BreyerHorseRef](https://www.breyerhorseref.com/) - Breyer Horse Database
+* [The Toy Pool](https://thetoypool.com/) - Multi-Brand Toy & Doll Database
+* [Brickset](https://brickset.com/) - Lego Set Guide
+* [FigureRealm](https://www.figurerealm.com/) - Track Action Figure Collection
 
 ***
 
@@ -887,7 +897,6 @@
 * [whena.re](https://whena.re/) - Friend / Team Timezone Viewer
 * [Countdowns](https://www.countdowns.live/) - Create Custom Countdowns
 * [A Bra That Fits](https://www.abrathatfits.org/calculator.php) or [BraMetric](https://brametric.com/) - Bra Size Calculators
-* [FigureRealm](https://www.figurerealm.com/) - Track Action Figure Collection
 * [AllBadges](https://allbadges.net/en) - Track Badge Collection
 * [Wheel Decide](https://wheeldecide.com/), [PickerWheel](https://pickerwheel.com/), [HeySpinner](https://heyspinner.com/) or [Wheel of Names](https://wheelofnames.com/) - Wheel Randomizers
 * [SurveyHeart](https://surveyheart.com/) - Survey Creator
