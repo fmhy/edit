@@ -833,6 +833,7 @@
 * [GameBanana](https://gamebanana.com/mods/games/14783) - Pokémon Brilliant Diamond / Shining Pearl Mods
 * [Universal Pokémon Randomizer ZX](https://github.com/Ajarmar/universal-pokemon-randomizer-zx/) - Randomize Pokémon (works for GBA through 3DS)
 * [NYCPokeMap](https://nycpokemap.com/) - Real-time Pokémon Go Map for NYC
+* [PkmnCards](https://pkmncards.com/) - Pokémon Card Database
 
 ***
 
@@ -957,7 +958,7 @@
 * ⭐ **[Keqingmains](https://keqingmains.com/)** - Genshin Guides
 * [/r/GachaGaming](https://www.reddit.com/r/gachagaming/) - Gacha Games Subreddit
 * [LunarCore](https://github.com/Melledy/LunarCore) - Private Honkai: Star Rail Servers
-* [Star Rail Station](https://starrailstation.com/) or [stardb.gg](https://stardb.gg/) - Honkai Star Rai Guides
+* [Star Rail Station](https://starrailstation.com/), [Pokke's Library](https://pokkelibrary.com/) or [stardb.gg](https://stardb.gg/) - Honkai Star Rai Guides
 * [Seelie.me](https://seelie.me/) - Genshin / Star Rail Planner
 * [Genshin Center](https://genshin-center.com/) - Genshin Planner
 * [Genshin Helper Doc](https://docs.google.com/spreadsheets/d/1gNxZ2xab1J6o1TuNVWMeLOZ7TPOqrsf3SshP5DLvKzI/htmlview?pru=AAABdXYM80o*xMxXJdNbCCZ-v9FLVh6EXg) - Genshin Builds Guide
@@ -1142,7 +1143,7 @@
 * [Plink](http://labs.dinahmoe.com/plink/) - Music Game
 * [Make It Meme](https://makeitmeme.com/) - Meme Party Game
 * [Rooms](https://rooms.xyz/) - Room Design Game / [Discord](https://discord.gg/rooms)
-* [Fishington](https://fishington.io/) - Fishing Game
+* [Fishington](https://fishington.io/) or [fsh.zone](https://fsh.zone/) / [Discord](https://discord.com/invite/FKEzJSf) - Fishing Games
 * [Too Many Chefs](https://www.toomanychefs.party/) - Text-Based Coop Cooking Game 
 * [Haxball](https://www.haxball.com/) - Physics-Based Soccer
 * [Powerline.io](https://powerline.io/) or [Games 1729](https://www.games1729.com/serpentron/) - Snake
@@ -1166,6 +1167,7 @@
 * [Wikidata Card Game Generator](https://cardgame.blinry.org/) - Generate "Top Trumps" Cards with Wikidata
 * [Solitaired](https://solitaired.com/), [Solitr](https://www.solitr.com/) or [Solitaire Owl](https://solitaireowl.com/) - Solitaire
 * [Mah-Jongg](https://www.mah-jongg.ch/), [Mahjong4Friends](https://mahjong4friends.com/) or [Classic Mahjong](https://classic-mahjong.com/) - Mahjong Games
+* [lishogi](https://lishogi.org/) - Shogi
 * [Blackjack Break](https://blackjackbreak.com/) or [HTML5 Blackjack](https://www.html5blackjack.net/) - Browser Blackjack
 * [Poker Now](https://www.pokernow.club/) or [247 Free Poker](https://www.247freepoker.com/) - Multiplayer Poker
 * [KDice](https://www.kdice.com/) - Multiplayer Dice War
@@ -1225,9 +1227,10 @@
 * [Flappy 2048](https://www.flappy-2048.com/) - Flappy Bird Style 2048
 * [JetHolt](https://jetholt.com/hacking/), [RebelWithoutACause](https://rebelwithoutarootcause.com/demos/terminal/) or [Aramor](http://aramor.epizy.com/fallout-terminal/main) - Fallout Terminal Hacking Game
 * [Vuesweeper](https://vuesweeper.netlify.app/) - Vue Minesweeper
+* [Minesweeper Twist](https://polyreplay.com/minesweepertwist) - Irregular Grid Minesweeper
 * [PROXX](https://proxx.app/) - Space Minesweeper
 * [Rockbasher](https://www.rockbasher.com/) - Retro Style Puzzle Game
-* [Treksit](https://treksit.com/index.html), [Game about Squares](http://gameaboutsquares.com/) or [Orion](https://orion.lukasbach.com/) - Puzzle Game
+* [Treksit](https://treksit.com/), [Game about Squares](http://gameaboutsquares.com/) or [Orion](https://orion.lukasbach.com/) - Puzzle Game
 * [Euclidea](https://www.euclidea.xyz/) - Geometric Puzzles
 * [Pixel Puzzler](https://pixel-puzzler.playcurious.games/) - Block Puzzle
 * [Menneske](https://www.menneske.no/eng/) - Number Puzzles
@@ -1237,6 +1240,7 @@
 * [Cinenerdle2](https://www.cinenerdle2.app/) - Movie Puzzle
 * [picture dots](https://www.picturedots.com/) - Make & Play Dot Puzzles
 * [babble.xyz](https://babbl.xyz/) - Infinite Scrabble
+* [Dadagrams](https://dadagrams.com/) - Daily Scrabble vs Dad
 * [MakeAWordSearch](http://www.makeawordsearch.net/) - Word Search Creator
 * [RobinWords](https://www.robinwords.com/) - Word Ladder Game
 * [Divergent Association Task](https://www.datcreativity.com/task) - Unrelated Word Game
