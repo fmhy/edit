@@ -657,7 +657,6 @@
 * ⭐ **[GamingSmart](https://gamingsmart.com/)** - Game Sensitivity Converters
 * ⭐ **[Aim Lab](https://aimlab.gg/)**, [Aim400kg](https://aim400kg.com/), [3D Aim Trainer](https://www.3daimtrainer.com/), [Aiming.Pro](https://aiming.pro/) or [AimTrainer](https://aimtrainer.io/) - Aim Training
 * ⭐ **[CPSCounter](https://cpscounter.org/)**, [ClickSpeeder](https://clickspeeder.com/) or [ClickSpeedTester](https://www.clickspeedtester.com/) - Click Speed Training
-* ⭐ **[Momentum](https://momentum-mod.org/)** - Movement Training
 * [GameGuides](https://www.gamerguides.com/), [Retro Guides](https://rentry.co/FMHYBase64#retro-game-strategy-guides), [Game8](https://game8.co/), [StrategyWiki](https://strategywiki.org/), [Samurai Gamers](https://samurai-gamers.com/), [UHS Hints](https://www.uhs-hints.com/) or [Kirklands](https://archive.org/details/kirklands-manual-labor-sony-playstation-2-usa-4k-version) - Game Guides
 * [Piper](https://github.com/libratbag/piper) - Gaming Mouse Config Tool
 * [Use ESDF](http://www.use-esdf.org/) - OG FPS Control Combo
