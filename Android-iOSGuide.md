@@ -498,7 +498,7 @@
 * ⭐ **[Patch Reddit Clients](https://docs.google.com/document/u/0/d/1wHvqQwCYdJrQg4BKlGIVDLksPN0KpOnJWniT6PbZSrI/mobilebasic)** - How To Patch 3rd Party Reddit Clients
 * [Endless](https://kaangiray26.github.io/endless/) - Combine Social Media Apps
 * [Watomatic](https://watomatic.app/) / [GitHub](https://github.com/adeekshith/watomatic) or [AutoResponder](https://www.autoresponder.ai/) - Chat App Auto-Responders
-* [Aerowitter](https://aerowitter.com/) or [Twitter (X) Aero](https://aerowitter.com) - Ad-Free Twitter Apps
+* [Aerowitter](https://aerowitter.com/) - Ad-Free Twitter Apps
 * [MessengerEx](https://github.com/C10udburst/MessengerEx/) - Facebook Messenger Adblocker
 * [BBTV](https://github.com/bttv-android/bttv), [Twire](https://github.com/twireapp/Twire) or [Frosty](https://www.frostyapp.io/) - Twitch Apps
 * [DankChat](https://github.com/flex3r/DankChat) - Talk in Multiple Twitch Chats at Once
@@ -963,8 +963,7 @@
 
 ## ▷ iOS Jailbreaking
 
-* 🌐 **[Complete Jailbreak Chart](https://appledb.dev/)** / [Discord](https://discord.gg/rtfNDxnJfB), [CanIJailbreak?](https://canijailbreak.com/), [HackYouriPhone Repo](https://repo.hackyouriphone.org/) or [IPA Apps](https://ipa-apps.me/) - Jailbreaking Tool Indexes
-* ⭐ **[iOS Jailbreak Guide](https://ios.cfw.guide/)** - Jailbreaking Guide
+* 🌐 **[iOS Jailbreak Guide](https://ios.cfw.guide/)**, [CanIJailbreak?](https://canijailbreak.com/), [HackYouriPhone Repo](https://repo.hackyouriphone.org/) or [IPA Apps](https://ipa-apps.me/) - Jailbreaking Tool Indexes
 * ⭐ **[/r/jailbreak](https://reddit.com/r/jailbreak)** - Jailbreaking Subreddit / [Wiki](https://www.reddit.com/r/jailbreak/wiki/index)
 * ⭐ **[Sideloading Beginners Guide](https://redd.it/orqzau)** or [Noob Guide to Sideloading](https://www.reddit.com/r/Piracy/comments/pt5uv9/noob_guide_to_sideloading_in_ios/) - Sideloading Guide
 * ⭐ **[/r/sideloaded](https://reddit.com/r/sideloaded)** - Sideloading Subreddit / [Wiki](https://www.reddit.com/r/sideloaded/wiki/index)
