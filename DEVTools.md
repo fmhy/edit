@@ -1511,7 +1511,7 @@
 
 ## ▷ Machine Learning
 
-* 🌐 **[Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)**, [Caffee](https://caffe.berkeleyvision.org/) / [Git](https://github.com/BVLC/caffe), [SuperAGI](https://github.com/TransformerOptimus/SuperAGI), [Rasa](https://github.com/RasaHQ/rasa) or [OpenNN](https://www.opennn.net/) / [Git](https://github.com/Artelnics/OpenNN) - Machine Learning Frameworks
+* 🌐 **[Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)**, [Caffee](https://caffe.berkeleyvision.org/) / [Github](https://github.com/BVLC/caffe), [SuperAGI](https://github.com/TransformerOptimus/SuperAGI), [Rasa](https://github.com/RasaHQ/rasa) or [OpenNN](https://www.opennn.net/) / [Github](https://github.com/Artelnics/OpenNN) - Machine Learning Frameworks
 * 🌐 **[Awesome-List-of-Awesomes](https://github.com/Nachimak28/awesome-list-of-awesomes)**, [awesome-marketing-datascience](https://github.com/underlines/awesome-marketing-datascience/), [awesome-decentralized-llm](https://github.com/imaurer/awesome-decentralized-llm), [CyberCowboy](https://local-llm.cybercowboy.de) or [ML_Resources](https://github.com/tunguz/ML_Resources) - Machine Learning Resources
 * 🌐 **[Awesome-Google-Colab](https://github.com/firmai/awesome-google-colab)** - Machine Learning Colabs
 * 🌐 **[Awesome Machine Learning Art](https://github.com/vibertthio/awesome-machine-learning-art)** - Machine Learning Art Resources
