@@ -390,6 +390,7 @@
 * [mangascan](https://mangascan-fr.com/), [2](https://scansmangas.me/), [3](https://scanmanga-vf.me/) - Manga
 * [Bento Manga](https://www.bentomanga.com/) - Manga
 * [raijinscans](https://raijinscans.fr/) - Manga
+* [Theses.fr](https://www.theses.fr/) - Theses
 
 ***
 
