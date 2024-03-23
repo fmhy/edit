@@ -398,7 +398,6 @@
 * [HentaiHand](https://hentaihand.com/en/) - Hentai Manga
 * [HentaiZap](https://hentaizap.com/) - Hentai Manga
 * [akuma](https://akuma.moe/) - Hentai Manga
-* [Doujin.sexy](https://doujin.sexy/) - Hentai Manga
 * [MangaHentai](https://mangahentai.me/) - Hentai Manga
 * [Toonily](https://toonily.me/) - Pornhwa
 * [Manhwa18](https://manhwa18.net/) / [2](https://manhwa18.com/) / [3](https://pornwa.club/) - Pornhwa
