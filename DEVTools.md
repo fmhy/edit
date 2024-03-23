@@ -324,17 +324,15 @@
 
 * 🌐 **[Awesome Regex](https://github.com/aloisdg/awesome-regex)** - Regex Resources
 * ⭐ **[Regex Vis](https://regex-vis.com/)** - Regex Visualizer
-* ⭐ **[Regex Learn](https://regexlearn.com/)** or [refrf.dev](https://refrf.dev/) - Learn Regex
+* ⭐ **[Regex Learn](https://regexlearn.com/)**, [refrf.dev](https://refrf.dev/) or [learn-regex](https://github.com/ziishaned/learn-regex) - Learn Regex
 * ⭐ **[RegExr](https://regexr.com/)** or [Regex101](https://regex101.com/) - Regex Editors
-* ⭐ **[grex](https://pemistahl.github.io/grex-js/)** - Regex Generator
+* ⭐ **[grex](https://pemistahl.github.io/grex-js/)** or [Regex Generator](https://regex-generator.olafneumann.org/) - Regex Generator
 * [RegexOne](https://regexone.com/) - Regex Practice
 * [iHateRegex](https://ihateregex.io/) - Regex Patterns
-* [learn-regex](https://github.com/ziishaned/learn-regex) - Learn Regex
-* [Regex Generator](https://regex-generator.olafneumann.org/) - Regex Generator
 * [PyRegex](http://www.pyregex.com/) - Python Regex Test
 * [Melody](https://yoav-lavi.github.io/melody/book/) - Compile to Regex / [GitHub](https://github.com/yoav-lavi/melody)
-* [Regulex](https://jex.im/regulex/) - Regex Visualizers
-* [Regexper](https://regexper.com/) - Regex Visualizers
+* [Regulex](https://jex.im/regulex/) - Regex Visualizer
+* [Regexper](https://regexper.com/) - Regex Visualizer
 
 ***
 
