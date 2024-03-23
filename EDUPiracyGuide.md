@@ -338,6 +338,7 @@
 * [Alien](https://alien-project.org/) - Artificial Life Simulator / [GitHub](https://github.com/chrxh/alien) / [Video](https://youtu.be/w9R6zrdl6jM)
 * [Metazooa](https://metazooa.com/) - Species Connection Game
 * [UniProt](https://www.uniprot.org/) - Protein Database
+* [iNaturalist](https://www.inaturalist.org/) - Organism Identification
 * [Ocearch](https://www.ocearch.org/?list) - Track Marine Life
 * [The Deep Sea](https://neal.fun/deep-sea/) - Interactive Deep Sea Life Guide
 * [TheAquariumWiki](https://www.theaquariumwiki.com/) - Aquarium Wiki
@@ -383,7 +384,7 @@
 * [IGOC](https://www.chem.ucla.edu/~harding/IGOC/IGOC.html) - Illustrated Glossary of Organic Chemistry
 * [Colorado Chemistry Simulations](https://phet.colorado.edu/en/simulations/filter?subjects=chemistry&type=html%2Cprototype) - Chemistry Animations
 * [Chemical Forums](https://www.chemicalforums.com/) - Chemistry Forums
-* [Electronic Journals Library — University of Regensburg](https://ezb.ur.de/ezeit/fl.phtml?bibid=AAAAA&colors=7&lang=en&notation=V), [abc-chemistry](https://abc-chemistry.org/), [arkat-usa](https://www.arkat-usa.org/) - Journals
+* [Electronic Journals Library — University of Regensburg](https://ezb.ur.de/ezeit/fl.phtml?bibid=AAAAA&colors=7&lang=en&notation=V), [arkat-usa](https://www.arkat-usa.org/) - Journals
 * [Martindale's Virtual Chemistry Center](https://martindalecenter.com/calculators3b.html) - Calculators
 * [WebQC Balance Calculator](https://webqc.org/balance.php) - Chemical Equation Balance Calculator
 * [Chemexper Chemical Directory](https://www.chemexper.com/) - Chemical Directory
