@@ -393,7 +393,7 @@
 * [SoundCloud Downloader](https://github.com/NotTobi/soundcloud-dl)
 * [Klickaud](https://www.klickaud.co/)
 * [Local SoundCloud Downloader](https://greasyfork.org/en/scripts/394837)
-* [SCDL](https://addons.mozilla.org/pl/firefox/addon/scdl-soundcloud-downloader/) / [Git](https://github.com/flyingrub/scdl), [sclouddownloader](https://sclouddownloader.net/)
+* [SCDL](https://addons.mozilla.org/pl/firefox/addon/scdl-soundcloud-downloader/) / [Github](https://github.com/flyingrub/scdl), [sclouddownloader](https://sclouddownloader.net/)
 * [SoundcloudMP3](https://soundcloudmp3.cc/)
 * [soundcloudaudiodownloader](https://t.me/soundcloudaudiodownloader)
 
