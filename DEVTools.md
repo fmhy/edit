@@ -329,8 +329,8 @@
 * ⭐ **[grex](https://pemistahl.github.io/grex-js/)** or [Regex Generator](https://regex-generator.olafneumann.org/) - Regex Generators
 * [RegexOne](https://regexone.com/) - Regex Practice
 * [iHateRegex](https://ihateregex.io/) - Regex Patterns
-* [PyRegex](http://www.pyregex.com/) - Python Regex Test
 * [Melody](https://yoav-lavi.github.io/melody/book/) - Compile to Regex / [GitHub](https://github.com/yoav-lavi/melody)
+* [PyRegex](http://www.pyregex.com/) - Python Regex Test
 * [Regulex](https://jex.im/regulex/) - Regex Visualizer
 * [Regexper](https://regexper.com/) - Regex Visualizer
 
