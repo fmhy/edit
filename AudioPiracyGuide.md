@@ -7,6 +7,7 @@
 
 * ⭐ **[Spotify Desktop](https://www.spotify.com/us/download/)**
 * [Lofi Rocks](https://www.lofi.rocks/) - Tiny / Minimal Client
+* [MooSync](https://moosync.app/) - Feature-Rich Client
 * [Spotify Web Client](https://open.spotify.com/) 
 * Web Client Tools - [Adblocker](https://gist.github.com/Simonwep/24f8cdcd6d32d86e929004013bd660ae) / [Mute Ads](https://github.com/guihkx/spotishush) / [Enhanced UI](https://senpaihunters.github.io/SpotOn/) / [Customize](https://github.com/Darkempire78/Spotify-Customizer) / [Lyrics](https://github.com/mantou132/Spotify-Lyrics)
 
@@ -87,7 +88,7 @@
 
 ## ▷ Streaming Apps
 
-* ⭐ **[MooSync](https://moosync.app/)**, [SpoTube](https://spotube.krtirtho.dev/), [yewtube](https://github.com/mps-youtube/yewtube), [YTMDesktop](https://ytmdesktop.app/) / [2](https://youtube-music.app/), [Youtube-Music](https://github.com/th-ch/youtube-music) or [Headset](https://headsetapp.co) - YouTube Music Clients
+* ⭐ **[Youtube-Music](https://th-ch.github.io/youtube-music/)**, [MooSync](https://moosync.app/), [SpoTube](https://spotube.krtirtho.dev/), [yewtube](https://github.com/mps-youtube/yewtube) or [Headset](https://headsetapp.co) - YouTube Music Clients
 * [nuclear](https://nuclear.js.org/) - Streaming / [GitHub](https://github.com/nukeop/nuclear) / [Discord](https://discord.com/invite/JqPjKxE)
 * [FunkWhale](https://funkwhale.audio/) - Streaming
 * [MP3Jam](https://www.mp3jam.org/) - Streaming
