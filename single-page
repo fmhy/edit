@@ -1819,6 +1819,7 @@
 * ⭐ **[YT-DLP](https://github.com/yt-dlp/yt-dlp)** or [YTDL-PATCHED](https://github.com/ytdl-patched/ytdl-patched) - YouTube Downloader / [Easy Installer](https://github.com/kazukikasama/youtube-dlp-gui-installer), [2](https://github.com/StefanLobbenmeier/youtube-dl-gui) / [GUI Index](https://www.reddit.com/r/youtubedl/wiki/info-guis)
 * [YouTube Qualities Size](https://greasyfork.org/en/scripts/404953-youtube-qualities-size) - Show YouTube File Sizes 
 * [totalsize](https://pypi.org/project/totalsize/) - Calculate Size of All Videos in a Playlist
+* [Poke](https://poketube.fun/download) - YouTube Downloader
 * [YoutubeDL-Material](https://github.com/Tzahi12345/YoutubeDL-Material) - YouTube Downloader
 * [YoutubeDownloader](https://github.com/Tyrrrz/YoutubeDownloader) - YouTube Downloader
 * [YouTubePlaylist](https://youtubeplaylist.cc/) - Playlist Downloader
@@ -1835,9 +1836,9 @@
 ## ▷ YouTube Frontends
 
 * ⭐ **[Poke](https://poketube.fun/)** - YouTube Frontend
+* ⭐ **[FreeTube](https://freetubeapp.io/)** - YouTube Client / [GitHub](https://github.com/FreeTubeApp/FreeTube)
 * ⭐ **[Invidious](https://invidious.io/)** - YouTube Frontend
 * ⭐ **Invidious Tools** - [Instances](https://api.invidious.io/), [2](https://redirect.invidious.io/) / [Alt Frontend](https://github.com/bocchilorenzo/invuedious) / [TUI](https://github.com/darkhz/invidtui)
-* ⭐ **[FreeTube](https://freetubeapp.io/)** - YouTube Client / [GitHub](https://github.com/FreeTubeApp/FreeTube)
 * [YouTube Notes](https://instadeq.com/youtube-notes/) - YouTube Note-Taking Frontend
 * [CloudTube](https://tube.cadence.moe/) - YouTube Frontend
 * [ViewTube](https://viewtube.wiki/) - YouTube Frontend
