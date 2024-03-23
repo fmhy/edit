@@ -448,7 +448,7 @@
 * [Wiktenauer](https://wiktenauer.com/) - Historical European Martial Arts Wiki
 * [RadicalScatters](http://radicalscatters.unl.edu/indices.html ) - Emily Dickinson Fragments / Texts
 * [The History of Maritime Piracy](http://www.cindyvallar.com/pirates.html) - Piracy History Blog
-* [Van Gogh Letters](https://vangoghletters.org/vg/) or [VGGallery](http://vggallery.com/) - Vincent van Gogh Letters
+* [Van Gogh Letters](https://vangoghletters.org/vg/) - Vincent van Gogh Letters
 * [DigitalTransgenderArchive](https://www.digitaltransgenderarchive.net/) - Transgender History Archive
 * [AlternateHistory](https://www.alternatehistory.com/forum/) - Historical "What if?" Fiction
 
@@ -457,8 +457,8 @@
 ## ▷ Programming Books
 
 * ⭐ **[O'Reilly](https://www.oreilly.com/)** - Tech / Programming / [Downloader](https://github.com/lorenzodifuccia/safaribooks) / Infinite trial by clearing cookies & making a new account
-* ⭐ **[ForCoder](https://forcoder.su/)**, [ScanLibs](https://scanlibs.com/) or [CoderProg](https://coderprog.com/)
 * ⭐ **[Best-Books.dev](https://www.best-books.dev/)** - Developer Book Recommendations
+* ⭐ **[ScanLibs](https://scanlibs.com/)** or [CoderProg](https://coderprog.com/)
 * [IT eBooks](https://it-ebooks.info/)
 * [FreeTechBooks](https://www.freetechbooks.com/)
 * [FreeComputerEbooks](https://freecomputerbooks.com/)
@@ -577,7 +577,6 @@
 * [SecretCanada](https://www.secretcanada.com/) - Canadian Document Archive
 * [Pandora](https://pandora.nla.gov.au/) - Australian Document Archive
 * [ndltd](http://search.ndltd.org/) - Search Theses and Dissertations
-* [Theses.fr](https://www.theses.fr/en/accueil.jsp) - Theses
 * [oatd](https://oatd.org/) - Theses / Dissertations
 * [lolmythesis](https://lolmythesis.com/) - Summarized Theses
 * [WorldBank](https://www.worldbank.org/en/home) - Poverty Solution Research Data
@@ -717,7 +716,6 @@
 * [MangaBat](https://m.mangabat.com/)
 * [MangaEffect](https://mangaeffect.com/)
 * [Mangaski](https://www.mangasaki.net/)
-* [MangaJar](https://mangajar.pro/)
 * [GodManga](https://godamanga.art/)
 * [NineManga](https://www.ninemanga.com)
 * [Mangahasu](https://mangahasu.se/)
@@ -748,7 +746,6 @@
 * [Mangatoon](https://mangatoon.mobi/)
 * [MangaDig](https://mangadig.com/)
 * [Novelmic](https://novelmic.com)
-* [Bibi Manga](https://bibimanga.com/)
 * [Elarc Toon](https://elarctoon.com/)
 * [Coffee Manga](https://coffeemanga.io/)
 * [Manga347](https://manga347.com/)
