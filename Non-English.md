@@ -1657,7 +1657,7 @@
 
 * [Dizilla](https://dizilla.club) - Movies / TV 
 * [YabancıDizi](https://yabancidizi.pro) - Movies / TV
-* [HdfilmCehennemi](https://www.hdfilmcehennemi.life) - Movies / TV
+* [HdfilmCehennemi](https://www.hdfilmcehennemi.com) - Movies / TV
 * [FullHDFilmİzlesene](https://www.fullhdfilmizlesene.pw) - Movies / Cartoons
 * [JetFilmizle](https://jetfilmizle.film/) - Movies
 * [FilmIzle](https://filmizle2022.info/) - Movies
