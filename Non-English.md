@@ -377,6 +377,7 @@
 * [anime-sama](https://anime-sama.fr/) - Anime / Sub / 1080p
 * [VoirCartoon](https://voircartoon.com/) - Cartoons / Dub / 720p
 * [33rapmp3](https://www.33rapmp3.cc/) - Rap
+* [Lesics](https://youtube.com/@LesicsFR) - Engineering Courses
 
 ## ▷ Reading
 
@@ -613,6 +614,7 @@
 * [jiosaavn](https://www.jiosaavn.com/) - Music / [API](https://github.com/cyberboysumanjay/JioSaavnAPI)
 * [PhysicsWallah](https://www.pw.live/) - Physics Lessons / [YouTube](https://www.youtube.com/c/PhysicsWallah/)
 * [GateSmashers](https://www.youtube.com/@GateSmashers) - Gate Preparation / Educational
+* [Lesics](https://youtube.com/@LesicsHindi) - Engineering Courses
 
 ## ▷ Reading
 
@@ -642,6 +644,7 @@
 * [anoBoy](https://anoboy.baby/) - Anime / Sub / 720p
 * [Kuramanime](https://kuramanime.pro/) - Anime / Sub / 720p
 * [ANIsub](https://anisub.monster/) - Anime / Sub / 720p
+* [Lesics](https://youtube.com/@LesicsIndo) - Engineering Courses
 
 ## ▷ Reading
 
@@ -739,6 +742,7 @@
 * [JP-Films](https://jp-films.com/) - Classic Japanese Movies / TV / 1080p
 * [Abema](https://abema.tv/) - Live TV
 * [AQ Stream](https://aqstream.com/) - Live TV
+* [Lesics](https://youtube.com/@LesicsJPN) - Engineering Courses
 * [National Film Archive of Japan](https://meiji.filmarchives.jp/) - Japanese Movie Archive
 * [Japanese Animated Film Classics](https://animation.filmarchives.jp/index.html) - Japanese Animated Movie Archive
 * [kuukunen](https://touhou.kuukunen.net/) - Music
@@ -779,7 +783,7 @@
 
 ***
 
-# ► Korean / 한국어,
+# ► Korean / 한국어
 
 * [dic.daum](https://dic.daum.net/) - Korean Translator / Spellchecker
 * [TakakTadak](https://tadaktadak.co.kr/) - Korean Practice / English Learning
@@ -808,6 +812,7 @@
 * [OnDemandKorean](https://www.ondemandkorea.com/) - Korean Movies / TV / 720p
 * [AQ Stream](https://aqstream.com/) - Live TV
 * [naver](https://chzzk.naver.com/) - Live Streams
+* [Lesics](https://youtube.com/@Sabinz) - Engineering Courses
 
 ## ▷ Reading
 
@@ -1058,6 +1063,7 @@
 * [Escola Virtual Gov](https://www.escolavirtual.gov.br/catalogo) - Courses
 * [Escola Virtual](https://www.ev.org.br) - Courses
 * [Veduca](https://veduca.org) - Courses
+* [Lesics](https://youtube.com/@LesicsPOR) - Engineering Courses
 * [DIO](https://www.dio.me) - Development Courses
 * [Palco MP3](https://www.palcomp3.com.br) - Music / MP3
 * [Harpa Cristã](https://harpacrista.org), [2](https://play.google.com/store/apps/details?id=br.com.masterapps.harpacristagratis) - Christian Music / MP3
@@ -1544,6 +1550,7 @@
 * [LatinLucha](https://latinlucha.es/) - WWE / MMA Replays / Latino
 * [EventosHQ](https://www.eventoshq.me/) - WWE / MMA Replays / Latino
 * [Edutin Academy](https://edutin.com/) - Courses
+* [Lesics](https://youtube.com/@LesicsESP) - Engineering Courses
 * [Tele Gratis Online](https://telegratis.live/mira/) - Live TV
 * [Television Gratis](https://www.televisiongratishd.com/) - Live TV / Latino
 * [LaCasadelTikiTaka](https://www.lacasadeltikitaka.net/) - Live Soccer / MMA
@@ -1890,6 +1897,7 @@
 * [lupiteam](https://lupiteam.net/) - Corsican / Manga
 * [BalkanDownload](https://balkandownload.org/) - Croatian / Download / Video / Audio / Games / Books / Comics
 * [DR.DK](https://www.dr.dk/) - Danish / Movies / TV / Live
+* [Lesics](https://youtube.com/@LesicsDE) - Danish / Engineering Courses
 * [Deildu](https://deildu.net/) - Icelandic / Torrents
 * [KurdCinema](https://www.kurdcinama.com/) - Kurdish / Streaming / Movies / TV / Anime / Cartoons
 * [Kurdsubtitle](https://kurdsubtitle.net) - Kurdish / Subtitles
