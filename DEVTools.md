@@ -330,7 +330,7 @@
 * [RegexOne](https://regexone.com/) - Regex Practice
 * [iHateRegex](https://ihateregex.io/) - Regex Patterns
 * [Melody](https://yoav-lavi.github.io/melody/book/) - Compile to Regex / [GitHub](https://github.com/yoav-lavi/melody)
-* [PyRegex](http://www.pyregex.com/) - Python Regex Test
+* [PyRegex](http://www.pyregex.com/) - Python Regex Playground
 * [Regulex](https://jex.im/regulex/) - Regex Visualizer
 * [Regexper](https://regexper.com/) - Regex Visualizer
 
