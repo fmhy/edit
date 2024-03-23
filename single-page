@@ -9519,7 +9519,6 @@ Linux Gaming Guide
 * ⭐ **[HWiNFO](https://www.hwinfo.com/)** - System Info & Monitoring
 * [Scrutiny](https://github.com/AnalogJ/scrutiny), [GSmartControl](https://gsmartcontrol.shaduri.dev/) or [smartmontools](https://www.smartmontools.org/) - Hard Drive Monitors
 * [CoolerControl](https://gitlab.com/coolercontrol/coolercontrol) - Cooling Device Monitor
-* [CoreTemp](https://www.alcpu.com/CoreTemp/) - Processor Temperature Monitor
 * [BatteryMode](https://github.com/tarcode-apps/BatteryMode) - System Tray Battery Percentage / Managers
 * [HWRadar](https://coderbag.com/product/hwradar) - Hardware Monitor
 * [Netdata](https://www.netdata.cloud/) - Cloud-based Monitoring
