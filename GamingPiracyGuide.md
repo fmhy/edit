@@ -1116,7 +1116,7 @@
 * [PaperGames](https://papergames.io/)
 * [Foony](https://foony.com/)
 * [Tensor Trust](https://tensortrust.ai/) - AI Prompting Multiplayer Skill Game
-* [Venge](https://venge.io/), [kour.io] (https://kour.io/), [LolShot](https://lolshot.io/) or [ShellShock](https://www.shellshock.io/) - PvP FPS
+* [Venge](https://venge.io/), [kour.io](https://kour.io/), [LolShot](https://lolshot.io/) or [ShellShock](https://www.shellshock.io/) - PvP FPS
 * [Bruh.io](https://bruh.io/), [2](https://play.bruh.io/) or [Surviv.io](https://surviv.io/) - Top-Down Battle Royal
 * [ZombsRoyale.io](https://zombsroyale.io/) - Zombie Battle Royale 
 * [Yohoho.io](https://www.yohoho.io/) - Pirate Battle Royale
