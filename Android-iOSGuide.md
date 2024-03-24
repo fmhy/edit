@@ -327,6 +327,7 @@
 * 🌐 **[Android ROM Compaisons](https://eylenburg.github.io/android_comparison.htm)**
 * ⭐ **[CustomRomBay](https://customrombay.org/)** - ROMs Compatibility Search
 * ⭐ **[GrapheneOS](https://grapheneos.org/)** - Privacy-Based OS
+* ⭐ **[Renegade Project](https://github.com/edk2-porting)**, **[woa-msmnile](https://github.com/woa-msmnile)**, **[Project Mu](https://github.com/Robotix22/Mu-Qcom)**, **[Windows on ARM - Game/App test list](https://docs.google.com/spreadsheets/d/1XYuoySgYQE0HL573sA-0RGMX7I4lt5rWJuQ8Z8yRJNY/edit#gid=0)** - UEFI Porting / Windows On Arm For Qualcomm Snapdragon Devices 
 * [/e/](https://e.foundation/e-os/) - Privacy-Based OS
 * [Android ROM List](https://github.com/musabcel/android_rom_list) - List of all Android ROMs 
 * [Divestos](https://divestos.org/) - Privacy-Based OS
