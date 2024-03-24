@@ -327,6 +327,7 @@
 * ⭐ **[CustomRomBay](https://customrombay.org/)** - ROMs Compatibility Search
 * ⭐ **[GrapheneOS](https://grapheneos.org/)** - Privacy-Based OS
 * [/e/](https://e.foundation/e-os/) - Privacy-Based OS
+* [Android ROM List](https://github.com/musabcel/android_rom_list) - List of all Android ROMs 
 * [Divestos](https://divestos.org/) - Privacy-Based OS
 * [LeoS](https://leos-gsi.de/) - Privacy-Based OS
 * [CalyXOS](https://calyxos.org/) - Privacy-Based OS
