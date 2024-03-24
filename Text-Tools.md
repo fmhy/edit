@@ -81,7 +81,8 @@
 * [Translate Shell](https://www.soimort.org/translate-shell/) - Translation CLI / [GitHub](https://github.com/soimort/translate-shell)
 * [OnlineDocTranslator](https://www.onlinedoctranslator.com/en/) - Document Translator
 * [LegaleseDecoder](https://legalesedecoder.com/free-legal-document-to-plain-english-translator/) - Legal Document Translator
-* [Matecat](https://www.matecat.com) - File Translator
+* [Matecat](https://www.matecat.com) - Online Translation Editor 
+* [Eazy Po](http://www.eazypo.ca) - Localization app
 * [japReader](https://github.com/marisukukise/japReader) - Japanese Text Translator
 * [LyricsTranslate](https://lyricstranslate.com/) - Lyric Translator
 * [LingoJam](https://lingojam.com/) - Create Translator
