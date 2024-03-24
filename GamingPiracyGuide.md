@@ -19,7 +19,7 @@
 * ⭐ **[SteamRIP](https://steamrip.com/)** - Download / Torrent / Pre-Installs / [Discord](https://discord.gg/hj8dU5BFHE) / pw: 1234
 * ⭐ **[Torrminatorr](https://forum.torrminatorr.com/)** - Download
 * ⭐ **[Online Fix](https://online-fix.me/)** - Download / Torrent / Multiplayer / [Discord](https://discord.gg/yExgFYncMD)
-* ⭐ **[Game Bounty](https://gamebounty.world/)** - Download / [Discord](https://dsc.gg/gamebounty)
+* ⭐ **[GameBounty](https://gamebounty.world/)** - Download / [Discord](https://dsc.gg/gamebounty)
 * ⭐ **[Ova Games](https://www.ovagames.com/)** - Download / Use Adblocker
 * ⭐ **[FreeToGame](https://www.freetogame.com/games)**, [Acid Play](https://acid-play.com/) or [/v/ Recs](https://vsrecommendedgames.fandom.com/wiki/Freeware_Games) - F2P Games / [Trackers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25BA_free_stuff)
 * ⭐ **[VRPirates](https://t.me/vrpirates)** / [Wiki](https://wiki.vrpirates.club/), [VRCarena](https://www.vrcarena.com/), [ARMGDDN](https://t.me/ARMGDDNGames) / [Guide](https://streamable.com/7fvn4t) / [Install](https://github.com/KaladinDMP/AGBrowser/raw/main/AGBrowserInstall.bat) or [SidequestVR](https://sidequestvr.com/) - VR Games / [Guide](https://redd.it/jcvfzo)
