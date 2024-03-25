@@ -30,7 +30,7 @@
 ## ▷ Redirect Bypass
 
 * ⭐ **[Bypass All Shortlinks](https://codeberg.org/Amm0ni4/bypass-all-shortlinks-debloated/)**
-* ⭐ **[bypass.city](https://bypass.city/)**, [2](https://adbypass.org/) / [krnl-and-linkvertise-bypasser](https://api2.adbypass.org/userscript/download/bypass.user.js) / [Discord](https://discord.com/invite/uMEtrpRvAf)
+* ⭐ **[bypass.city](https://bypass.city/)**, [2](https://adbypass.org/) / [Userscript](https://bypass.city/how-to-install-userscript) / [Discord](https://discord.com/invite/uMEtrpRvAf)
 * [FastForward](https://fastforward.team/) / [Discord](https://discord.gg/RSAf7b5njt)
 * [AdsBypasser](https://adsbypasser.github.io/) / [2](https://github.com/adsbypasser/adsbypasser)
 * [TheBypasser](https://thebypasser.com/)
@@ -269,7 +269,7 @@
 
 ## ▷ Browser Privacy
 
-* ⭐ **[Tor Browser](https://www.torproject.org/)** - Onion-Routed Browser / [Default Gateway](https://github.com/htrgouvea/nipe)
+* ⭐ **[Tor Browser](https://www.torproject.org/)** - Onion-Routed Browser / [Default Gateway](https://github.com/htrgouvea/nipe) / [Gitlab](https://gitlab.torproject.org/tpo/applications/tor-browser)
 * ⭐ **[Mullvad Browser](https://mullvad.net/en/browser)** - Tor Browser Fork (w/o Tor network)
 * ⭐ **[arkenfox](https://github.com/arkenfox/user.js)**- Firefox Privacy Tweak / [Video](https://youtu.be/F7-bW2y6lcI)
 * [Librewolf](https://librewolf.net/)- Pre-tweaked Firefox Fork / [Use Auto-Updater](https://github.com/ltguillaume/librewolf-winupdater)
