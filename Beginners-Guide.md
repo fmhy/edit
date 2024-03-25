@@ -18,7 +18,7 @@ You can download pre-cracked Adobe products from [M0nkrus](https://w14.monkrus.w
 !!!info M0nkrus is a well-trusted and reputable source for Adobe software in the piracy community. 
 
 > How can I download / activate Windows or Microsoft Office for free?
-For Windows check out this [section](#windows-piracy), and for Microsoft Office check out this [guide](https://massgrave.dev/office_c2r_links.html).
+For Windows check out this [section](#windows-piracy), and for Microsoft Office check out this [guide](https://gravesoft.dev/download_windows_office/office_c2r_links/).
 
 > Where can I find *insert game title / movie title*?
 You can use [WhereYouWatch](https://whereyouwatch.com) for finding movies, and for new movies it's a good idea to keep an eye on [r/movieleaks](https://reddit.com/r/movieleaks) as well. You should also be able to find most movies you're looking for in the [streaming section](#streaming). For games, you can use [Rezi](https://rezi.one) or any other site listed [here](https://fmhy.net/gamingpiracyguide#download-games), and for newly released games check out [r/crackwatch](https://reddit.com/r/crackwatch).
