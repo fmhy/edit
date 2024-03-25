@@ -18682,7 +18682,7 @@ Linux Gaming Guide
 * [HTTP Downloader](https://erickutcher.github.io/#HTTP_Downloader/) - Download Manager for HTTP / FTP / SFTP Protocols
 * [Downloader](https://downloader.la/) or [Hitomi](https://github.com/KurtBestor/Hitomi-Downloader) - File Download Tools
 * [mf-dl](https://gitgud.io/Pyxia/mf-dl/) or [mediafire_bulk_downloader](https://github.com/NicKoehler/mediafire_bulk_downloader) - Mediafire File Downloaders
-* [One Leaf](https://oneleaf.icu/) or [PanDownload](https://baidu.gamesdrive.net/) - Baidu Netdisk Downloaders
+* [One Leaf](https://oneleaf.icu/) - Baidu Netdisk Downloaders
 * [WhatsLink](https://whatslink.info/) - View File Download Metadata
 
 ***
@@ -18758,8 +18758,7 @@ Linux Gaming Guide
 * [Total Commander](https://www.ghisler.com/) - Shareware Windows File Manager
 * [Organize](https://github.com/tfeldmann/organize) - Automated File Manager
 * [TrayDir](https://github.com/SamuelSVD/TrayDir) - System Tray File Manager
-* [TablacusExplorer](https://tablacus.github.io/explorer_en.html) / [GitHub](https://github.com/tablacus/TablacusExplorer) - File Manager with Addon Support
-* [Multi Commander](https://multicommander.com/) or [ExplorerEx](https://github.com/DearVa/ExplorerEx) - Multi-Tabbed File Managers
+* [TablacusExplorer](https://tablacus.github.io/explorer_en.html), [QTTabBar](https://github.com/indiff/qttabbar), [Multi Commander](https://multicommander.com/) or [ExplorerEx](https://github.com/DearVa/ExplorerEx) - Tab File Managers
 * [Vifm](https://vifm.info/) - Vim-based File Manager
 * [WinSetView](https://github.com/LesFerch/WinSetView) - Globally Set Explorer Folder Views
 
