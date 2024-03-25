@@ -136,7 +136,6 @@ Use [this](https://bitbucket.org/magnolia1234/bypass-paywalls-firefox-clean/src/
 **[Vimms Lair](https://vimm.net/) / [No-Intro](https://rentry.co/FMHYBase64#no-intro)** - ROM download sites / [Emulators](https://emulation.gametechwiki.com/)
 **[Firehawk52](https://rentry.org/firehawk52)** - Music ripping guide
 **[DoubleDouble](https://doubledouble.top/)** - Multi-Site audio download
-**[Free MP3 Download](https://free-mp3-download.net/)** - MP3 / FLAC downloads
 **[Soulseek](https://slsknet.org/)** or [Nicotine+](https://nicotine-plus.org/) - Audio download app
 **[Download CSE](https://cse.google.com/cse?cx=006516753008110874046:1ugcdt3vo7z) / [2](https://cse.google.com/cse?cx=006516753008110874046:reodoskmj7h)** - Multi-site download search
 **[Video Download CSE](https://cse.google.com/cse?cx=006516753008110874046:wevn3lkn9rr#gsc.tab=0) / [2](https://cse.google.com/cse?cx=89f2dfcea452fc451) / [3](https://cse.google.com/cse?cx=aab218d0aa53e3578#gsc.tab=0)** - Multi-site video download search
