@@ -163,6 +163,7 @@
 * [masterWiki](https://masterwiki.how/) - MasterClass Classes Republished as wikiHow Articles
 * [Listenable](https://apps.apple.com/us/app/listenable-learn-with-audio/id1492810539) - 5-Minute Audio Lessons / iOS
 * [LabXchange](https://www.labxchange.org/) or [EduMedia](https://www.edumedia-sciences.com/en/) - Interactive Science Simulations
+* [SenseBot](http://sensebot.com/) - Summarize any Topic
 * [Plickers](https://get.plickers.com/) - Q&A Results App
 * [CuriousCat](https://curiouscat.live/) or [RetroSpring](https://retrospring.net/) - Q&A Communities
 * [AnswerSocrates](https://answersocrates.com/) - Most Asked Questions on Google
@@ -179,6 +180,7 @@
 * [Debunking Skeptics](https://www.debunkingskeptics.com/) - Pseudo-Skeptical Fallacies
 * [YourBiasIs](https://yourbias.is/) - Learn about Biases
 * [LessWrong](https://www.lesswrong.com/) - Develop Rationality / [Frontend](https://www.greaterwrong.com/)
+* [Advanced Logic Calculators](https://pastebin.com/WFZwQw86) 
 * [SkillsYouNeed](https://www.skillsyouneed.com/) or [Art of Manliness](https://www.artofmanliness.com/) - Develop Life Skills
 * [VisualizeValue](https://archivve.visualizevalue.com/) - Life Lesson Visualizations
 * [Sketchplanations](https://www.sketchplanations.com/) - Explanation Sketches
@@ -407,6 +409,7 @@
 * [Persepolis Reimagined](https://persepolis.getty.edu/) - Explore Persepolis Recreation
 * [Letters of Note](https://news.lettersofnote.com/) - Historical Letters
 * [Shorpy](https://shorpy.com/) or [Old World](https://oldworld.cloud/) - Historical Photos
+* [EyewitnesstoHistory](http://www.eyewitnesstohistory.com/index.html) - Historical Eyewitness Testimonies
 * [ManuscriptMiniatures](https://manuscriptminiatures.com/) - Medieval Manuscript Images
 * [TimeGuessr](https://timeguessr.com/) - Historical GeoGuessr
 * [Sciphilos](https://sciphilos.info/) - Historical Discovery Timeline
