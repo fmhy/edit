@@ -10,7 +10,7 @@
 * ⭐ **[Shap-e](https://github.com/openai/shap-e)**
 * ⭐ **Blender Tools** - [Resources](https://github.com/agmmnn/awesome-blender) / [Tutorials](https://www.3dbestie.com/) / [Textures](https://github.com/carson-katri/dream-textures) / [Renderer](https://github.com/prman-pixar/RenderManForBlender) / [3D Nodes](https://t.me/geometrynodes) / [Plugins](https://t.me/blenderplugs) / [AI Render](https://github.com/benrugg/AI-Render)
 
-[Meshy.ai](https://www.meshy.ai/) / [Discord](https://discord.com/invite/KgD5yVM9Y4), [Spline](https://spline.design/), [Anim8or](https://www.anim8or.com/), [Wings 3D](http://www.wings3d.com/), [JustSketchMe](https://justsketch.me/), [Tinkercad](https://www.tinkercad.com/), [ChokokuCAD](https://github.com/itta611/ChokokuCAD), [POV-Ray](https://www.povray.org/), [FreeCAD](https://www.freecad.org/), [picoCAD](https://johanpeitz.itch.io/picocad), [Vectary](https://www.vectary.com/), [LibreCAD](https://librecad.org/), [Art of Illusion](https://aoi.sourceforge.net/), [BRL-CAD](https://brlcad.org/), [Posturize](https://get.posturize-app.com/), [Morflax](https://studio.morflax.com/), [Polycam](https://poly.cam/)
+[Meshy.ai](https://www.meshy.ai/) / [Discord](https://discord.com/invite/KgD5yVM9Y4), [Spline](https://spline.design/), [Anim8or](https://www.anim8or.com/), [Wings 3D](http://www.wings3d.com/), [JustSketchMe](https://justsketch.me/), [Tinkercad](https://www.tinkercad.com/), [ChokokuCAD](https://github.com/itta611/ChokokuCAD), [POV-Ray](https://www.povray.org/), [FreeCAD](https://www.freecad.org/), [Vectary](https://www.vectary.com/), [LibreCAD](https://librecad.org/), [Art of Illusion](https://aoi.sourceforge.net/), [BRL-CAD](https://brlcad.org/), [Posturize](https://get.posturize-app.com/), [Morflax](https://studio.morflax.com/), [Polycam](https://poly.cam/)
 
 ***
 
@@ -92,6 +92,7 @@
 * [organice](https://organice.200ok.ch/) - Sync Supported / Account Required
 * [Tasky](https://github.com/thatsmanmeet/Tasky)
 * [Alkaa](https://github.com/igorescodro/alkaa)
+* [SnapTick](https://github.com/vishal2376/snaptick)
 * [EverydayTasks](https://everydaytasks.jepfa.de/)
 * [Taskito](https://taskito.io/)
 
@@ -220,7 +221,9 @@
 
 ## Domain Info Tools
 
-[WhoisRequest](https://whoisrequest.com/), [Rankchart](https://rankchart.org/), [Harpoon](https://hakin9.org/harpoon-osint-cli-tool/), [MXToolBox](https://mxtoolbox.com/DNSLookup.aspx), [Whois Lookup](https://whois.domaintools.com/), [IPIP.NET](https://whois.ipip.net/), [WebStatsDomain](https://webstatsdomain.org/), [AtSameIP](https://atsameip.intercode.ca/), [DNSlytics](https://dnslytics.com/), [DNSTwister](https://dnstwister.report/), [AnalyzeID](https://analyzeid.com/), [LinkScope](https://accentusoft.com/)
+* [DNSTwist](https://dnstwist.it/) or [DNSTwister](https://dnstwister.report/) / [Github](https://github.com/elceef/dnstwist)
+
+[WhoisRequest](https://whoisrequest.com/), [Rankchart](https://rankchart.org/), [Harpoon](https://hakin9.org/harpoon-osint-cli-tool/), [MXToolBox](https://mxtoolbox.com/DNSLookup.aspx), [Whois Lookup](https://whois.domaintools.com/), [IPIP.NET](https://whois.ipip.net/), [WebStatsDomain](https://webstatsdomain.org/), [AtSameIP](https://atsameip.intercode.ca/), [DNSlytics](https://dnslytics.com/), [AnalyzeID](https://analyzeid.com/), [LinkScope](https://accentusoft.com/)
 
 ***
 
@@ -521,7 +524,7 @@
 
 ## M4UFree Clones
 
-[M4uFree](https://ww1.m4ufree.tv/), [Streamm4u](https://ww1.streamm4u.com/) / [2](https://streamm4u.ws/), [m4ufree.to](https://m4ufree.to/), [m4uhd](https://m4uhd.tv/) / [2](https://m4uhd.cc/), [m4umv](https://m4umv.org/)
+[M4uFree](https://ww1.m4ufree.tv/), [Streamm4u](https://streamm4u.ws/), [m4ufree.to](https://m4ufree.to/), [m4uhd](https://m4uhd.tv/) / [2](https://m4uhd.cc/), [m4umv](https://m4umv.org/)
 
 ***
 
