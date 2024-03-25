@@ -111,7 +111,7 @@
 
 # ► Chinese / 汉语方言
 
-* 🌐 **[heji](https://233heji.com/)**, **[BestXTools](https://discuss-cn.bestxtools.com/)** or **[bajins](https://www.bajins.com/)** - Chinese Sites / Tools Indexes
+* 🌐 **[heji](https://233heji.com/)** or [bajins](https://www.bajins.com/) - Chinese Sites / Tools Indexes
 * 🌐 **[Awesome GitHub Repo](https://github.com/Wechat-ggGitHub/Awesome-GitHub-Repo)** - Programming Resources Index
 * [Anti-Ad](https://anti-ad.net/) - Adblock Filters
 * [chat2ai](https://www.chat2ai.cn/) - AI Index
@@ -1895,6 +1895,7 @@
 * [channelmyanmar](https://channelmyanmar.org) - Burmese / Movies / TV / Cartoons / 1080p / 4K
 * [lupiteam](https://lupiteam.net/) - Corsican / Manga
 * [BalkanDownload](https://balkandownload.org/) - Croatian / Download / Video / Audio / Games / Books / Comics
+* [WarezHR](https://www.warezhr.org/) - Croatian / Download / Video / Audio / Games / Books / Comics 
 * [DR.DK](https://www.dr.dk/) - Danish / Movies / TV / Live
 * [Lesics](https://youtube.com/@LesicsDE) - Danish / Engineering Courses
 * [Deildu](https://deildu.net/) - Icelandic / Torrents
