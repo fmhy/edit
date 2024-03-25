@@ -15,6 +15,7 @@
 * [socid_extractor](https://github.com/soxoj/socid-extractor) - Extract Social Media User Info from Pages
 * [tumblr-utils](https://github.com/bbolli/tumblr-utils) - Tumblr Utilities
 * [Tumblr Savior](https://bjornstar.com/tumblr-savior) - Tumblr Dashboard Filter
+* [Pillowfort](https://www.pillowfort.social/) - Tumblr Alternative
 
 ***
 
@@ -273,7 +274,7 @@
 * [CloneChat](https://github.com/apenasrr/clonechat) - Clone Telegram Chats
 * [tasra](https://the-eye.eu/tasra/) - Telegram Channel Archive
 * [Telegram Email](https://t.me/etlgr_bot) - Send / Receive Emails via Telegram
-* [Stickers Cloud](https://stickers.cloud/en), [ComBot Stickers](https://combot.org/telegram/stickers) or [moe_sticker_bot](https://t.me/moe_sticker_bot) - Sticker Packs
+* [CHPic](https://chpic.su/),, [Stickers Cloud](https://stickers.cloud/en), [ComBot Stickers](https://combot.org/telegram/stickers) or [moe_sticker_bot](https://t.me/moe_sticker_bot) - Telegram Sticker / Emojis
 
 ***
 
@@ -296,7 +297,7 @@
 * [MEGA Uploader X](https://t.me/MegaUploadXbot) or [Mega.nz-Bot](https://github.com/Itz-fork/Mega.nz-Bot) - Remote Mega File Upload Bot
 * [OneDrive X](https://t.me/onedrivexbot) - Remote OneDrive File Upload Bot
 * [AIO Uploader](https://t.me/aiouploaderbot), [LinkForFilebot](https://t.me/LinkForFilebot) or [MultiUpload-Bot](https://github.com/oVoIndia/MultiUpload-Bot) - Telegram to File Host Upload Bot
- * [telegram-download-daemon](https://github.com/alfem/telegram-download-daemon/) - Download Large Telegram Files
+* [telegram-download-daemon](https://github.com/alfem/telegram-download-daemon/) - Download Large Telegram Files
 * [convrt_bot](https://t.me/convrt_bot), [FileConvertBot](https://t.me/FileConvertBot), [newfileconverterbot](https://t.me/newfileconverterbot), [SmartConverter_bot](https://t.me/SmartConverter_bot), [cloud_convert_bot](https://t.me/cloud_convert_bot), [wololopdfbot](https://t.me/wololopdfbot), [pdfbot](https://t.me/pdfbot) or [Gpdfbot](https://t.me/Gpdfbot) - File Converters
 * [ILovePDF](https://github.com/nabilanavab/ilovepdf) - Telegram File to PDF Converter
 * [Unzip Bot](https://github.com/EDM115/unzip-bot) - File Extractor / Unzipper
@@ -547,7 +548,6 @@
 
 * ⭐ **[Trends24](https://trends24.in/)**, [Sotwe](https://www.sotwe.com/) or [Hashtagify](https://hashtagify.me/) - Trending Hashtags Trackers
 * ⭐ **[/r/Twitter](https://reddit.com/r/Twitter)** - Twitter Subreddit
-* [twstalker](https://twstalker.com/) - Twitter Frontend
 * [TumblThree](https://github.com/TumblThreeApp/TumblThree) or [Thread Safe](https://github.com/dkaslovsky/thread-safe) - Twitter / Tumblr Backup Tools
 * [Typefully](https://typefully.com/) - Schedule Tweets
 * [Chirr App](https://getchirrapp.com/) - Turn Articles into Twitter Threads / [Firefox](https://addons.mozilla.org/en-US/firefox/addon/chirr-app/) / [Chrome](https://chromewebstore.google.com/detail/chirr-app/cmbconaimdngicdnbpjnjocbpkdpmfkg)
@@ -629,14 +629,14 @@
 * ⭐ **[Lemmy](https://join-lemmy.org/)** / [Stats](https://the-federation.info/), [2](https://fedidb.org/) - Federated Reddit Alternative
 * ⭐ **[Lemmy Explorer](https://lemmyverse.net/)**, [Community-Browser](https://browse.feddit.de/) or [Awesome Instances](https://github.com/maltfield/awesome-lemmy-instances) - Lemmy Instances
 * ⭐ **[Divisions by zero](https://lemmy.dbzer0.com/)** - Piracy Focused Instance
-* ⭐ **[Pleroma](https://pleroma.social/)** - Federated Twitter Alt
-* ⭐ **[Pixelfed](https://pixelfed.org/)** - Federated Twitter Alt
-* ⭐ **[diaspora*](https://diasporafoundation.org/)**, [2](https://diasp.org/) - Federated Twitter Alt
-* [Misskey](https://misskey-hub.net/en/) - Federated Twitter Alt
-* [BlueSky](https://bsky.social/about) - Federated Twitter Alt / [Multi-Column](https://deck.blue/) / [Real-Time](https://skyfeed.app/)
-* [Friendica](https://friendi.ca/) - Federated Twitter Alt
-* [Hubzilla](https://zotlabs.org/page/hubzilla/hubzilla-project) - Federated Twitter Alt
-* [GoToSocial](https://docs.gotosocial.org/en/latest/) - Federated Twitter Alt
+* ⭐ **[Pleroma](https://pleroma.social/)** - Fediverse Twitter Alt
+* ⭐ **[Pixelfed](https://pixelfed.org/)** - Fediverse Twitter Alt
+* ⭐ **[diaspora*](https://diasporafoundation.org/)**, [2](https://diasp.org/) - Fediverse Twitter Alt
+* [Misskey](https://misskey-hub.net/en/) - Fediverse Twitter Alt
+* [BlueSky](https://bsky.social/about) - Fediverse Twitter Alt / [Multi-Column](https://deck.blue/) / [Real-Time](https://skyfeed.app/)
+* [Friendica](https://friendi.ca/) - Fediverse Twitter Alt
+* [Hubzilla](https://zotlabs.org/page/hubzilla/hubzilla-project) - Fediverse Twitter Alt
+* [GoToSocial](https://docs.gotosocial.org/en/latest/) - Fediverse Twitter Alt
 * [Fedi Tips](https://fedi.tips/) - Fediverse Guide
 * [Fediverser](https://portal.alien.top/) - Reddit to Lemmy Community Auto-Sync
 * [LemmyTools](https://github.com/howdy-tsc/LemmyTools) - Lemmy Improvement Extension
@@ -645,7 +645,7 @@
 
 ## ▷ Mastodon Tools
 
-* ⭐ **[Mastodon](https://joinmastodon.org/)** - Federated Twitter Alt
+* ⭐ **[Mastodon](https://joinmastodon.org/)** - Fediverse Twitter Alt
 * 🌐 **[Mastodon Instances](https://instances.social/)** or [Mastodon Near Me](http://mastodon-near.me/) - Mastodon Instance Indexes
 * [Tuba](https://tuba.geopjr.dev/) or [Kaiteki](https://kaiteki.app/) - Mastodon Viewers
 * [Mastodon Scheduler](https://scheduler.mastodon.tools/) - Schedule Sending Posts
