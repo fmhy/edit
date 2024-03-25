@@ -28,7 +28,9 @@
 * [g4u](https://g4u.to/) - Download / pw: 404
 * [appnetica](https://appnetica.com/) - Download / Torrent / Pre-Installs
 * [AtopGames](https://atopgames.com/) - Download / Pre-Installs / [Discord](https://discord.gg/KSG9Tg2s7b)
-* [GLoad](https://gload.to/), [Leeching Hell](http://www.leechinghell.pw/) or [GamePCFull](https://gamepcfull.com/) - Download
+* [GLoad](https://gload.to/) - Download
+* [Leeching Hell](http://www.leechinghell.pw/) - Download
+* [GamePCFull](https://gamepcfull.com/) - Download
 * [Xatab Repacks](https://byxatab.com/), [2](https://otxatabs.net/) - Torrent
 * [FreeGOGPCGames](https://freegogpcgames.com/) - GOG Games Torrent Uploads
 * [IRC Games](https://redd.it/x804wg) - Download Games via IRC
@@ -126,6 +128,7 @@
 * [EDOPro](https://projectignis.github.io/) - Yu-Gi-Oh! TCG Fangame / [Discord](https://discord.com/invite/ygopro-percy)
 * [OpenNox](https://github.com/noxworld-dev/opennox) - Nox Revival Project
 * [Pixel Gun X](https://discord.com/invite/8796Fs9tZm) - Pixel Gun 3D Revival Project
+* [Infinity Blade PC](https://archive.org/details/infinity-blade-pc) - Infinity Blade PC Port
 * [SpaceCadetPinball](https://github.com/k4zmu2a/SpaceCadetPinball) - Space Cadet Pinball
 * [Visual Pinball](https://github.com/vpinball/vpinball) - Pinball Table Editor / Simulator / [Tables](https://www.vpforums.org/)
 * [Clone Hero](https://clonehero.net/) - Guitar Hero Clone / [Setlists](https://rentry.co/FMHYBase64#setlists), [2](https://customsongscentral.com/), [3](https://rentry.co/FMHYBase64#frif-drive) / [Wii Controller Support](https://github.com/Meowmaritus/WiitarThing) / [Custom Client](https://clonehero.scorespy.online)
@@ -244,12 +247,13 @@
 * [Rom Magnet Links](https://emulation.gametechwiki.com/index.php/ROM_%26_ISO_Sites#BitTorrent) - ROMs / Torrent
 * [ROM CSE](https://cse.google.com/cse?cx=f47f68e49301a07ac) / [CSE 2](https://cse.google.com/cse?cx=744926a50bd7eb010) - Multi-Site ROM Search
 * [Wad Archive](https://archive.org/details/wadarchive) - 83k WAD Files
-* [Cah4e3](https://cah4e3.shedevr.org.ru/) - Unlicensed ROMs / Bootlegs 
+* [Cah4e3](https://cah4e3.shedevr.org.ru/) - Unlicensed ROMs / Bootlegs
 * [Muds](https://muds.fandom.com/wiki/) - Text Adventure ROM Wiki
 * [MarioCube](https://mariocube.com/) - ROMs / Wii / Gamecube
 * [64DD.org](https://64dd.org/) - ROMs / 64DD
 * [3DS ROMS](https://3dsroms.org), [taodung](https://taodung.com/) or [hShop](https://hshop.erista.me/) - ROMs / 3DS
 * [NoPayStation](https://nopaystation.com/) or [SafeROMs](https://www.saferoms.com/) - ROMs / Playstation Consoles
+* [SuperPSX](https://www.superpsx.com/) -  ROMs / PS3 / PS4
 * [PKGPS4](https://www.pkgps4.click/) - ROMs / PS4
 * [/r/PkgLinks1](https://www.reddit.com/r/PkgLinks1/) - PS1 / PS2 Games for Modded PS4
 * [PSVitaVPK](https://psvitavpk.com/), [2](https://psvitagamesdd.com/) - ROMs / PSP
@@ -408,7 +412,7 @@
 * [Scanlines for Windows](https://s4windows.itch.io/scanlines-for-windows) - Add Scanlines to Games / [Discord](https://discord.gg/MqxMj8MT55)
 * [Keystrokes](https://www.deviantart.com/jaxoriginals/art/Keystrokes-v1-3-889349339) - Keystrokes Overlay
 * [LP Archives](https://lparchive.org/) - Let's Play Archive
-* [Super Steam Packer](https://cs.rin.ru/forum/viewtopic.php?f=29&t=131328&hilit=super+steam+packer) - Pack and share your Steam games
+* [PSNProfiles](https://psnprofiles.com/) - Trophy Guide / PSN Profile Viewer
 * [Achievement Watcher](https://rentry.co/FMHYBase64#achievement-watcher-mod) - Achievement File Parser, Notifications & Playtime Tracker - [Note](https://pastebin.com/Sg1SJrRx)
 * [Shmuplations](https://shmuplations.com/) - Japanese Developer Interviews
 * [Wiki.gg](https://wiki.gg/wikis/) - Game Wikis / [Redirector](https://support.wiki.gg/wiki/Redirect_to_wiki.gg)
@@ -450,6 +454,7 @@
 * [Depressurizer](https://github.com/Depressurizer/Depressurizer) - Steam Library Organizer
 * [Steam Art Manager](https://github.com/Tormak9970/Steam-Art-Manager) - Find / Manage Game Art
 * [ColdAPI](https://github.com/Rat431/ColdAPI_Steam) - Offline Steam Emulator
+* [Super Steam Packer](https://cs.rin.ru/forum/viewtopic.php?f=29&t=131328&hilit=super+steam+packer) - Pack and share your Steam games
 * [Steam Link](https://play.google.com/store/apps/details?id=com.valvesoftware.steamlink) - Stream Steam Library to TV
 * [Steam Mover](https://www.traynier.com/software/steammover) - Store Steam Games on Multiple Drives
 * [Steam Piracy](https://greasyfork.org/en/scripts/460862) or [Stream To Free](https://greasyfork.org/en/scripts/481139) - Add Piracy Site Links to Steam Store
@@ -919,6 +924,7 @@
 * ↪️ **[GD Demon Lists](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_geometry_dash_demon_lists)**
 * ⭐ **[Geode](https://geode-sdk.org/)** - Mod Menu & Modding Framework
 * ⭐ **[GDDP](https://gddp.pro/)** or [GD Demon Ladder](https://gdladder.com/) - Practice & Improve Your Skills
+* ⭐ **[GDMegaOverlay](https://github.com/maxnut/GDMegaOverlay)** - GD Mega Hack Alternative / [Discord](https://discord.com/invite/nbDjEg7SSU)
 * [Soluble Texture Packs](https://solubletexturepacks.com/) - GD Texture Packs / [Manager](https://geode-sdk.org/mods/geode.texture-loader/)
 * [Spritesheet Splitter](https://gdcolon.com/gdsplitter/) - Split & Merge GD Spritesheets
 * [GD Save Explorer](https://gdcolon.com/gdsave/) - View Detailed Stats & Data of Save Files
@@ -1183,7 +1189,7 @@
 * 🌐 **[Awesome Chess](https://github.com/hkirat/awesome-chess)** or [Chess Resources](https://redd.it/u43nrc) - Chess Resources
 * 🌐 **[/m/Chess](https://www.reddit.com/user/korfor/m/chess/)** or [/r/Chess](https://reddit.com/r/chess) - Chess Subreddits
 * 🌐 **[/r/Chess Books](https://reddit.com/r/chess/wiki/books)** - Recommended Chess Books
-* ⭐ **[lichess](https://lichess.org/)**, [WebChess](http://chess.delorie.com/), [GameKnot Chess](https://gameknot.com/), [SparkChess](https://www.sparkchess.com/) or [Chess.com](https://www.chess.com/) - Chess Platforms / [Customize](https://prettierlichess.github.io/)
+* ⭐ **[lichess](https://lichess.org/)**, [GameKnot Chess](https://gameknot.com/), [SparkChess](https://www.sparkchess.com/) or [Chess.com](https://www.chess.com/) - Chess Platforms / [Customize](https://prettierlichess.github.io/)
 * ⭐ **[Scid vs. PC](https://scidvspc.sourceforge.net/)**, [TheChessWebsite](https://www.thechesswebsite.com/), [Chess Tempo](https://chesstempo.com/), [Chessercise](https://www.chessercise.xyz/), [Lucas Chess](https://lucaschess.pythonanywhere.com/) or [List Study](https://listudy.org/en) - Learn / Practice Chess
 * [Chesses](https://pippinbarr.com/chesses/) or [Omnichess](https://omnichess.club/) - Multiple Styles of Chess
 * [The Kilobyte’s Gambit](https://vole.wtf/kilobytes-gambit/) - 1k Chess Game
@@ -1195,6 +1201,7 @@
 * [Star Wars Chess](https://archive.org/details/msdos_Star_Wars_Chess_1993) - Star Wars Style Chess / [Manual](https://archive.org/details/star-wars-chess-manual/)
 * [lichess4545](https://www.lichess4545.com/) - Lichess Leagues
 * [Chess Monitor](https://www.chessmonitor.com/) - Track Chess Analytics
+* [2700chess](https://2700chess.com/) - Live Chess Player Ratings
 * [OpeningTree](https://www.openingtree.com/) - Download / Visualize Chess Games
 * [Game Report](https://chess.wintrcat.uk/), [Decode Chess](https://app.decodechess.com/), [En Croissant](https://encroissant.org/) or [Chess Vision](https://chessvision.ai/) - Chess Game / Move Analysis
 * [Bill Wall's Chess Page](http://billwall.phpwebhosting.com/) or [365Chess](https://www.365chess.com/) - Chess History / Lessons
