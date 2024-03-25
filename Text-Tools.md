@@ -21,6 +21,7 @@
 * [telescopictext](https://www.telescopictext.org/) - Write Text Within Text
 * [quipqiup](https://www.quipqiup.com/) or [dCode](https://www.dcode.fr/en) - Cryptogram Solvers
 * [DocuSeal](https://www.docuseal.co/) - Free Document Signing
+* [Butterick’s Practical Typography](https://practicaltypography.com/) - Typography Guide Book
 
 ***
 
@@ -31,7 +32,7 @@
 * ⭐ **[Github Gists](https://gist.github.com/)** - Account Needed
 * ⭐ **[Rentry](https://rentry.co/)** / [CLI](https://github.com/radude/rentry) / Markdown Support
 * ⭐ **[Stellular](https://bundlrs.cc/)** / [Source](https://code.stellular.org/SentryTwo/bundlrs) / Markdown Support
-* ⭐ **[disroot](https://bin.disroot.org/)**, [privatebin](https://privatebin.net/), [TextBin](https://textbin.xyz/), [bin.idrix](https://bin.idrix.fr/) or [RIN Privatebin](https://privatebin.rinuploads.org/)
+* ⭐ **[disroot](https://bin.disroot.org/)**, [privatebin](https://privatebin.net/), [bin.idrix](https://bin.idrix.fr/) or [RIN Privatebin](https://privatebin.rinuploads.org/)
 * ⭐ **[PrivateBin Instances](https://privatebin.info/directory/)**
 * ⭐ **[katb](https://katb.in/)**
 * ⭐ **[WriteXO](https://writexo.com/)**
@@ -193,7 +194,6 @@
 * [typing.academy](https://www.typing.academy/) - Typing Tests
 * [TypeRacer](https://play.typeracer.com/) - Typing Games
 * [ZType](https://zty.pe/) - Typing Games
-* [Brevity500](https://brevity500.com/) - Typing Games
 * [TypeRush](https://www.typerush.com/) - Typing Games
 * [ARRRType](https://www.arrrtype.com/) - Typing Games
 * [NGram Type](https://ranelpadon.github.io/ngram-type/), [Keyzen3](https://adamgradzki.com/keyzen3/) or [Keyzen Colmak](https://ranelpadon.github.io/keyzen-colemak-dh/) - Touch Typing Tests
