@@ -66,6 +66,7 @@
 * [MidnightPulp](https://www.midnightpulp.com/) - Movies / 720p
 * [Afdah](https://afdah2.com/) - Movies / 720p
 * [Flixtor](https://flixtor.to/) - Movies / TV / 720p / Movies Older Than 6 Months For Premium Only
+* [JustBinge](https://justbinge.lol/) - Movies / TV / Anime / API / 1080p
 * [GoMo](https://gomo.to/) - Movies / TV / Anime / API / 1080p
 * [SuperEmbed](https://www.superembed.stream/) - Movies / TV / API / 1080p
 * [2embed](https://www.2embed.cc/) - Movies / TV / API / 1080p
@@ -210,8 +211,9 @@
 * [Adult Swim](https://www.adultswim.com/videos/) - Full Adult Swim Episodes
 * [Homestar Runner](https://homestarrunner.com/) - Web-Series / Games
 * [SFBTV](https://diva.sfsu.edu/collections/sfbatv) - Bay Area TV Archive
-* [HDClump](https://hdclump.com/) - Documentaries / Cooking / Gardening 
+* [HDClump](https://hdclump.com/) - Documentaries / Cooking / Gardening
 * [BrokenSilenze](https://www.brokensilenze.net/) - Reality TV
+* [/r/PanelShow](https://www.reddit.com/r/panelshow/) - Panel Shows / International Taskmaster Subs
 * [The Silent Library](https://thesilentlibrary.com/) - Japanese Game Shows
 * [MyRM](https://myrunningman.com/) - My Running Man Episodes / [Discord](https://discord.gg/TpSgC6b)
 * [No-Laughing Batsu Game List](https://redd.it/2fgm9p)
@@ -399,7 +401,7 @@
 ## ▷ Live Sports
 
 * ⭐ **[Sportsurge](https://sportsurge.net/)**- Sports / Stream Locator
-* ⭐ **[Streamed](https://streamed.su/)** - Sports / [Discord](https://discord.gg/Q97qFv4D)
+* ⭐ **[Streamed](https://streamed.su/)** - Sports
 * ⭐ **[FSL](https://freestreams-live1se.nu/)** - Sports / 720p / [Discord](https://discord.gg/eXXJzDPchU)
 * ⭐ **[MrGamingStreams](https://mrgamingstreams.com/)** - Sports / [Discord](https://discord.com/invite/Rf2SFRtJFz)
 * ⭐ **[RBTV](https://www.rbtv77.com/)**, [2](https://www.rbtv77.tattoo/), [3](https://www.rbtv77.website/) - Sports
@@ -462,26 +464,27 @@
 * ⭐ **[WatchWrestlingUp](https://watchwrestlingup.org/)** or [RealFights](https://realfight.org/) - MMA / Wrestling Replays / 720p
 * ⭐ **[Nascar Classics](https://classics.nascar.com/)** - Nascar Replays / 1080p
 * [MLBLive](https://mlblive.net/) - Baseball Replays
-* [FullReplays](https://www.fullreplays.com/) - Soccer Replays 
-* [FootballOrigin](https://www.footballorgin.com/) - Soccer Replays 
-* [Footballia](https://footballia.net/) - Soccer Replays 
-* [Footyfull](https://footyfull.com/) - Soccer Replays 
-* [/r/footballhighlights/](https://www.reddit.com/r/footballhighlights/) - Soccer Replays 
-* [Sport Video](https://www.sport-video.org.ua/) - Sports Replays  / Torrents 
-* [WatchWrestling.ae](https://watchwrestling.ae/) - MMA / Wrestling Replays 
-* [WatchWrestling.wtf](https://watchwrestling.wtf/) - MMA / Wrestling Replays 
-* [MMA High Kick](https://www.mmahighkick.com/) - MMA / Boxing Replays 
-* [Hula8](https://www.hula8.net/) - MMA Replays 
-* [Bellator](https://www.bellator.com/) - MMA Replays 
-* [MMACore](https://www.mma-core.com) - MMA Replays 
+* [FullReplays](https://www.fullreplays.com/) - Soccer Replays
+* [FootballOrigin](https://www.footballorgin.com/) - Soccer Replays
+* [Footballia](https://footballia.net/), [2](https://footballia.eu/) - Soccer Replays
+* [Footyfull](https://footyfull.com/) - Soccer Replays
+* [/r/footballhighlights/](https://www.reddit.com/r/footballhighlights/) - Soccer Replays
+* [Sport Video](https://www.sport-video.org.ua/) - Sports Replays  / Torrents
+* [WatchWrestling.ae](https://watchwrestling.ae/) - MMA / Wrestling Replays
+* [WatchWrestling.wtf](https://watchwrestling.wtf/) - MMA / Wrestling Replays
+* [MMA High Kick](https://www.mmahighkick.com/) - MMA / Boxing Replays
+* [Hula8](https://www.hula8.net/) - MMA Replays
+* [Bellator](https://www.bellator.com/) - MMA Replays
+* [MMACore](https://www.mma-core.com) - MMA Replays
 * [BoxingBoxingvideoideo](https://boxingvideo.org/) - Boxing Replays
 * [Miselet](https://vk.com/video/@miselet) - Sumo Wrestling Replays
 * [NattoSumo](https://discord.gg/nattosumo) - Sumo Wrestling Highlights
-* [AllTheBestFights](https://www.allthebestfights.com/) - MMA / Boxing / Kickboxing Replays 
+* [AllTheBestFights](https://www.allthebestfights.com/) - MMA / Boxing / Kickboxing Replays
 * [TNA / Impact Replays](https://www.youtube.com/playlist?list=PLSadBNbijyoGV44wd96Fda7-GDYh9UktC) - TNA / Impact Wrestling Replays
-* [/r/MotorsportsReplays](https://reddit.com/r/MotorsportsReplays) - Motorsports Replays 
-* [FullMatchSports](https://fullmatchsports.cc/) - Motorsports Replays 
+* [/r/MotorsportsReplays](https://reddit.com/r/MotorsportsReplays) - Motorsports Replays
+* [FullMatchSports](https://fullmatchsports.cc/) - Motorsports Replays
 * [F1 Full Races](https://f1fullraces.com/) - Motorsports Replays
+* [F1 Home](https://f1home.live/) - Motorsports Replays
 
 ***
 
@@ -568,7 +571,7 @@
 * [Google Drive Movies](https://databasegdriveplayer.co/movie.php), [TV](https://databasegdriveplayer.co/series.php), [Anime](https://databasegdriveplayer.co/anime.php), [KDrama](https://databasegdriveplayer.co/drama.php) - Movies / TV / Anime / 720p
 * [ShareBB](https://sharebb.me/) - Movies / TV / 1080p
 * [TwitchDL](https://dl2.twitchdl.us/) - Movies / TV / Anime / 1080p
-* [Privatemoviez](https://privatemoviez.quest/) - Movies / TV / 1080p / [Telegram](https://t.me/PMZOfficial)
+* [PrivateMovieZ](https://privatemoviez.homes/) - Movies / TV / 1080p / [Telegram](https://t.me/PMZOfficial)
 * [FilmGo](https://www.filmgo.live/) - Movies / TV / 720p
 * [FZMovies](https://fzmovies.host/) - Movies / 720p
 * [YourSerie](https://www.yourserie.com/) - Movies / TV / 720p
@@ -599,7 +602,6 @@
 * ⭐ **[Media](https://rentry.co/FMHYBase64#media)** - Movies / TV / Anime
 * ⭐ **[Vadapav](https://rentry.co/FMHYBase64#vadapav)** - Movies / TV / Anime
 * [188.165.227.112](https://rentry.co/FMHYBase64#188165227112) - Movies / TV
-* [Extreme Mirror](https://rentry.co/FMHYBase64#extreme-mirror) - Movies / TV / Anime
 * [ProSearch4Bot](https://t.me/ProSearch4Bot) - Movies
 * [Mobile movies request bot](https://t.me/cc_mmrequestbot) - Movies / 480p
 * [مسلسلات اجنبية‬](https://rentry.co/FMHYBase64#%D9%85%D8%B3%D9%84%D8%B3%D9%84%D8%A7%D8%AA-%D8%A7%D8%AC%D9%86%D8%A8%D9%8A%D8%A9) - TV
@@ -905,7 +907,7 @@
 # ► Helpful Sites / Tools
 
 * 🌐 **[/r/Animepiracy Wiki](https://thewiki.moe/)** or [Awesome ACG](https://github.com/soruly/awesome-acg) - Anime Tool Indexes
-* ↪️ **[General Video Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video-tools)**
+* ↪️ **[Video Players / Servers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video-tools)**
 * ↪️ **[Media Posters / Covers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_covers_.2F_posters)**
 * ↪️ **[Media Soundtracks](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/audio#wiki_.25BA_media_soundtracks)**
 * ↪️ **[File Data Automation](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/file-tools#wiki_.25B7_data_automation)**
