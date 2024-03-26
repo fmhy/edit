@@ -446,6 +446,7 @@
 * [PrivadoVPN](https://privadovpn.com/) - Free VPN / Unlimited Accounts via [Temp Mail](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_temp_email_sites)
 * [Leap VPN](https://leap.se/) - Free VPNs
 * [VPNBook](https://www.vpnbook.com/) - Free VPN Accounts
+* [Cloudflare Wrap](https://one.one.one.one/) - Free VPN by CloudFlare
 
 ***
 
