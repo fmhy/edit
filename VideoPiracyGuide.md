@@ -449,7 +449,6 @@
 * [NHL66](https://nhl66.ir/) - Hockey
 * [NHLbite](https://nhlbite.com/) - Hockey
 * [/r/rugbystreams](https://www.reddit.com/r/rugbystreams/) - Rugby
-* [PakCric](https://pakcric.net/) - Cricket
 
 ***
 
