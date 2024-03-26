@@ -287,7 +287,7 @@
 
 * ⭐ **[MusicGen](https://huggingface.co/spaces/facebook/MusicGen)** - Text to Music AI
 * ⭐ **[Riffusion](https://www.riffusion.com/)**
-* ⭐ **[Chirp](https://app.suno.ai/)**
+* ⭐ **[Suno](https://app.suno.ai/)**
 * [Wolfram Tones](https://tones.wolfram.com/)
 * [StableAudio](https://www.stableaudio.com/)
 * [audio visual generator](https://fredericbriolet.com/avg/)
