@@ -90,9 +90,8 @@
 * [We Love Codeberg](https://welove.codeberg.page/)
 * [OnyxBits](https://onyxbits.de/)
 * [FossifyOrg](https://github.com/FossifyOrg)
-* [OpenRepos](https://openrepos.net/) - Harmattan / Sailfish OS Apps
 * [Android Auto Apps Downloader](https://github.com/shmykelsa/aaad) - Android Vehicle Apps
-* 
+
 ***
 
 ## ▷ Telegram Channels
