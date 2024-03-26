@@ -759,7 +759,7 @@
 * [Fastlane](https://fastlane.tools/) - App Development Automation / [GitHub](https://github.com/fastlane/fastlane)
 * [Blisk](https://blisk.io/) - Cross-Device Testing
 * [Percy](https://percy.io/) - Visual App Review Platform
-* [Booster](https://github.com/didi/booster) - Mobile App Optimization
+* [Booster](https://booster.johnsonlee.io/) - Mobile App Optimization
 * [SpreadsheetView](https://github.com/bannzai/SpreadsheetView) - Spreadsheet UI for iOS Apps
 * [Xcode](https://developer.apple.com/xcode/) - Test and Build iOS / iPadOS Apps
 * [Xcodes App](https://github.com/XcodesOrg/XcodesApp) - Xcode Manager
@@ -771,7 +771,7 @@
 * [Android-Iconics](https://github.com/mikepenz/Android-Iconics) - Use Any Icon / Font as your Drawable App
 * [iOS Icon Gallery](https://www.iosicongallery.com/) - iOS Icon Examples
 * [Plank](https://launchpad.net/plank) - Simple Dock / [GitHub](https://github.com/ricotz/plank)
-* [Compose Samples](https://github.com/android/compose-samples) - App Samples
+* [Compose Samples](https://developer.android.com/develop/ui/compose) - App Samples
 * [TV Samples](https://github.com/android/tv-samples) - Android TV App Samples
 * [PrivacyFlash-Pro](https://github.com/privacy-tech-lab/privacyflash-pro) - Generate iOS Privacy Policies
 * [Appleshouter](https://github.com/kosmigramma/appleshouter) - iOS notifications for PWAs and Web apps
