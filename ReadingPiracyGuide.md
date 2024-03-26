@@ -336,7 +336,6 @@
 * [4chan /co/](https://boards.4channel.org/co/catalog#s=official%20win) - Weekly Downloads
 * [WallComic](https://wallcomic.com/)
 * [Read Full Comic](https://readfullcomic.com/) / [2](https://viewcomiconline.com/)
-* [Marvel.com](https://www.marvel.com/comics/list/623/get_started_with_free_issues?&options%5Boffset%5D=0&totalcount=76) - Free Marvel Comics
 * [British Comics](https://britishcomics.wordpress.com/) - Classic British Comics
 * [OldComicsWorld](https://oldcomicsworld.blogspot.com/) - Golden Age Comic Downloads
 * [DigitalComicMuseum](https://digitalcomicmuseum.com/) - Golden Age Comic Downloads
@@ -346,7 +345,7 @@
 * [The Oatmeal](https://theoatmeal.com/) - Web Comics
 * [Comic Book Library](https://nv3x2jozywh63fkohn5mwp2d73vasusjixn3im3ueof52fmbjsigw6ad.onion.ly/) / [.onion](http://nv3x2jozywh63fkohn5mwp2d73vasusjixn3im3ueof52fmbjsigw6ad.onion/) - Tor required
 * [ComicEater](https://github.com/kanjieater/ComicEater) - Comic Archiving Tools
-* [Omnibus](https://github.com/fireshaper/Omnibus), [Comics Downloader](https://github.com/Girbons/comics-downloader), [mylar3](https://github.com/mylar3/mylar3), [Comics-DL](https://github.com/The-Eye-Team/Comics-DL), [Comic-DL](https://github.com/Xonshiz/comic-dl) - Comic Downloaders
+* [Omnibus](https://github.com/fireshaper/Omnibus), [Comics Downloader](https://github.com/Girbons/comics-downloader), [mylar3](https://github.com/mylar3/mylar3), [Comic-DL](https://github.com/Xonshiz/comic-dl) - Comic Downloaders
 * [Tapastic Comic Downloader](https://github.com/TilCreator/Tapas-Comic-Downloader) - Tapas Comics Downloader
 * [Cover](https://frenchfrysoftware.com/cover/), [Komikku](https://gitlab.com/valos/Komikku), [MComix](https://sourceforge.net/projects/mcomix/), [CBR Reader](https://www.cdisplayex.com/), [comic-book-reader](https://github.com/binarynonsense/comic-book-reader), [OpenComic](https://github.com/ollm/OpenComic) or [YACReader](https://yacreader.com/) - Readers / Managers
 * [Free Dark Horse Digital Comics](https://digital.darkhorse.com/pages/free)
@@ -371,16 +370,14 @@
 * ⭐ **[ComicK](https://comick.io/)**, [2](https://comick.cc/) - [Discord](https://discord.gg/comick)
 * ⭐ **[MangaSee](https://mangasee123.com/)**, [2](https://manga4life.com/)
 * ⭐ **[MangaPark](https://mangapark.net/)** - [Discord](https://discord.gg/jctSzUBWyQ)
-* ⭐ **[MangaKatana](https://mangakatana.com/)**
-* ⭐ **[Cubari Proxy](https://proxy.cubari.moe/)** - Multi Site Web Client / [Discord](https://discord.com/invite/SavdUC45MS)
+* ⭐ **[Nyaa Manga / LNs](https://nyaa.si/?f=0&c=3_0&q=)** - Torrents
+* ⭐ **[MangaPiracy](https://discord.gg/ZgMtAyxFSU)** - Manga Piracy Server / [Subreddit](https://reddit.com/r/MangaPiracy)
 * ⭐ **[Manga CSE](https://cse.google.com/cse?cx=006516753008110874046:4im0fkhej3z)** / [CSE 2](https://cse.google.com/cse?cx=006516753008110874046:a5mavctjnsc#gsc.tab=0) - Multi-Site Manga Search
-* [Nyaa Manga / LNs](https://nyaa.si/?f=0&c=3_0&q=) - Torrents
-* [MangaPiracy](https://discord.gg/ZgMtAyxFSU) - Manga Piracy Server / [Subreddit](https://reddit.com/r/MangaPiracy)
+* [MangaKatana](https://mangakatana.com/)
+* [Cubari Proxy](https://proxy.cubari.moe/) - Multi Site Web Client / [Discord](https://discord.com/invite/SavdUC45MS)
 * [Great Discord Links](https://discord.gg/xAsyVb52a9) or [Mangadex Groups](https://mangadex.org/groups) - Manga Scanlation Groups
 * [Madokami](https://wotaku.moe/guides/mado) / [Archive](https://rentry.co/FMHYBase64#madokami)
 * [The Manga Library](https://rentry.co/FMHYBase64#the-manga-library)
-* [MangaBuddy](https://mangabuddy.com)
-* [MangaHere](https://www.mangahere.cc/)
 * [MangaNelo](https://m.manganelo.com/wwww), [Manganato](https://manganato.com/) or [Mangakakalot](https://mangakakalot.com/)
 * [MangaFire](https://mangafire.to/) - [Discord](https://discord.com/invite/KRQQKzQ6CS)
 * [BATO.TO](https://bato.to/) - [Discord](https://discord.com/invite/batoto) / [Proxies](https://rentry.co/batoto)
@@ -389,42 +386,34 @@
 * [MangaHub](https://mangahub.io/)
 * [MangaList](https://mangalist.com/)
 * [MangaTown](https://www.mangatown.com/)
-* [Disaster Scans](https://disasterscans.com/) - [Discord](https://discord.gg/JbcJCpv)
-* [MangaSail](https://www.sailmanga.com/)
-* [Taadd](https://www.taadd.com/)
-* [MangaFreak](https://w15.mangafreak.net/)
-* [Mangageko](https://www.mgeko.com/)
 * [Mangairo](https://h.mangairo.com/)
-* [VyvyManga](https://vyvymanga.net/)
-* [ReadKomik](https://readkomik.com/) - [Discord](https://discord.gg/bvB7Hk3xWV)
-* [DogManga](https://dogemanga.com/)
-* [MangaOwl](https://mangaowl.to/)
 * [MangaReader](https://mangareader.mobi/)
-* [Tenmanga](https://www.tenmanga.com/)
 * [OniManga](https://onimanga.com)
-* [Mangago](https://www.mangago.me/)
 * [MangaBat](https://m.mangabat.com/)
 * [MangaEffect](https://mangaeffect.com/)
-* [Mangaski](https://www.mangasaki.net/)
-* [GodManga](https://godamanga.art/)
-* [NineManga](https://www.ninemanga.com)
 * [Mangahasu](https://mangahasu.se/)
-* [MangaForest](https://mangaforest.me/) / [2](https://mangamirror.com/)
-* [MangaFox](https://fanfox.net/)
 * [ReadM](https://readm.org/)
 * [mangapill](https://mangapill.com/)
+* [GodManga](https://godamanga.art/)
+* [Mangageko](https://www.mgeko.com/)
+* [MangaSail](https://www.sailmanga.com/)
+* [MangaHere](https://www.mangahere.cc/) or [MangaFox](https://fanfox.net/)
+* [MangaBuddy](https://mangabuddy.com), [MangaForest](https://mangaforest.me/) or [MangaMirror](https://mangamirror.com/)
 * [Anime-Sharing](https://www.anime-sharing.com/) - Anime / Manga Download Forum
 * [MP4DIRECTS](https://mp4directs.com/) - Manga / Light Novels Download Forum
 * [Kaizoku](https://github.com/oae/kaizoku) - Self-Hosted Manga Downloader
 * [Manga APIs](https://rentry.co/manga-apis) - Manga Site API's
 * [Webcomic Reader](https://openuserjs.org/scripts/anka-213/Webcomic_Reader) - Preloads Images, Remembers Progress and Keyboard Support
-* [MangaEditor](https://moeka.me/mangaEditor/) - Online Manga Editor
-* [manga-translator](https://github.com/cameronkinsella/manga-translator), [BallonsTranslator](https://github.com/dmMaze/BallonsTranslator/blob/master/README_EN.md), [Cotrans](https://cotrans.touhou.ai/) or [Scanlate](https://scanlate.io/) - Manga Translators
+* [BallonsTranslator](https://github.com/dmMaze/BallonsTranslator/blob/master/README_EN.md), [Cotrans](https://cotrans.touhou.ai/) or [Scanlate](https://scanlate.io/) - Manga Translators
 * [Manga-Tagger](https://github.com/inpacchi/manga-tagger) or [Manga-Manager](https://github.com/MangaManagerORG/Manga-Manager) - Manga Managers
 
 ***
 
 ## ▷ Manhua / Manhwa
+
+Note - Keep in mind that sites in the manga section above also have manhua/manhwa. Comick and Botato for example both have official TLs.
+
+***
 
 * ⭐ **[Webtoon](https://www.webtoons.com/)**
 * ⭐ **[Toonily](https://toonily.com/)**
@@ -441,22 +430,15 @@
 * [Manga347](https://manga347.com/)
 * [ZinManga](https://zinmanga.io/)
 * [Toomics](https://toomics.com/)
-* [Tapas](https://tapas.io/)
 * [MangaKomi](https://mangakomi.io/)
 * [MangaWeebs](https://mangaweebs.in/)
 * [Dragon Tea](https://dragontea.ink/)
-* [Niadd](https://niadd.com/)
 * [Manhuafast](https://manhuafast.com/)
 * [Manhwasco](https://manhwasco.net/)
 * [ManhuaScan](https://manhuascan.io/)
 * [Manhwatop](https://manhwatop.com/)
-* [Manhwa68](https://manhwa68.com/)
-* [Comic Kiba](https://manhuagold.com/)
-* [ManhwaZ](https://manhwaz.com/)
 * [Manhwafull](https://manhwafull.com/)
 * [Top Manhua](https://www.topmanhua.com/)
-* [Manhau AZ](https://manhuaaz.com/)
-* [Manhua Zone](https://manhuazone.org/)
 
 ***
 
@@ -476,11 +458,8 @@
 * [Novel Online Free](https://novelonlinefree.com/homepage), [2](https://novelonlinefull.com/), [3](https://bestlightnovel.com/)
 * [ThatNovelCorner](https://thatnovelcorner.com/)
 * [English Light Novels](https://englishlightnovels.com)
-* [Tensai Translations](https://tensaitranslations.wordpress.com/)
 * [Shin Translations](https://shintranslations.com/)
 * [WuxiaWorld](https://www.wuxiaworld.com/)
-* [Henkan Epubs](https://henkanepubs.wordpress.com/)
-* [LNWNCentral](https://lnwncentral.wordpress.com/)
 * [LightNovelPub](https://www.lightnovelpub.com/)
 * [WebNovel.com](https://www.webnovel.com/)
 * [AsianHobbyist](https://www.asianhobbyist.com/)
