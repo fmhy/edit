@@ -427,7 +427,7 @@
 
 ## ▷ Telegram Bots
 
-* [MP3 downloader](https://t.me/TG_mp3downloader_bot), [aio_musics](https://t.me/aio_musics), [scdlbot](https://t.me/scdlbot) or [Murglar](https://telegra.ph/murglar-en-05-12), [BeatSpotBot](https://t.me/BeatSpotBot) or [JioDLBot](https://t.me/JioDLBot) - Multi Site
+* [MP3 downloader](https://t.me/TG_mp3downloader_bot), [aio_musics](https://t.me/aio_musics), [scdlbot](https://t.me/scdlbot), [Murglar](https://t.me/murglarnews), [BeatSpotBot](https://t.me/BeatSpotBot) or [JioDLBot](https://t.me/JioDLBot) - Multi Site
 * [LyBot](https://t.me/LyBot), [YouTube Audio Bot](https://t.me/YtbAudioBot), [ivkmbot](https://t.me/ivkmbot) or [YouTube Audio Download](https://t.me/YoutubeAudioDownloadBot) - YouTube
 * [Glomatico](https://t.me/GlomaticoAmazonMusicBot) - Amazon
 * [TidalMusic_DLbot](https://t.me/TidalMusic_DLbot) - Tidal
