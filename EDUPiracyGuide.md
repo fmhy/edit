@@ -819,23 +819,20 @@
 ## ▷ Study / Research
 
 * 🌐 **[Awesome Research](https://github.com/emptymalei/awesome-research)**, [Foam](https://github.com/foambubble/foam), [KausalFlow](https://tools.kausalflow.com/), [Zotero](https://www.zotero.org/), [ResearchRabbit](https://www.researchrabbit.ai/) or [Scrible](https://www.scrible.com/) - Research Tools
-* ↪️ **[Note Taking Apps](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools#wiki_.25BA_text_editors)**
-* ⭐ **[Note Garden](https://notegarden.web.app/)**, [2](https://notegarden.io/) - Note-Taking / Auto Courses
+* ↪️ **[Note Taking Apps](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools#wiki_.25BA_text_editors_.2F_notes)**
 * ⭐ **[StudyLion](https://github.com/StudyLions/StudyLion)** - Study Tracker / Productivity Discord Bot
 * ⭐ **[StudyKit](https://studykit.app/)**, [Knowt](https://knowt.com/), [Quizlet](https://quizlet.com/), [Shmoop](https://www.shmoop.com/) or [SparkNotes](https://www.sparknotes.com/) - Quizzes / Study Material / [Show Hidden](https://greasyfork.org/en/scripts/423872)
 * ⭐ **[Coursicle](https://www.coursicle.com/)** - Class Schedule Tracker / Android
 * ⭐ **[OpenSyllabus](https://opensyllabus.org/)** - Syllabus Search / Info
 * [ExpertFile](https://expertfile.com/) or [ExpertiseFinder](https://expertisefinder.com/) - Industry / Academic Expert Search
 * [Remind](https://apps.apple.com/us/app/remind-school-communication/id522826277) - Educational Communication / iOS
-* [Mochi Cards](https://mochi.cards/) or [Silicon](https://github.com/cu/silicon) - Note-Taking / Study Tool
-* [Desklamp](https://desklamp.io/) - Reading / Note Taking / Highlighting Tool / [Guide](https://app.desklamp.io/read?id=46b203c6-d8df-453d-b546-95a8fa7a44b9&mode=explore)
-* [Lurnby](https://github.com/Roznoshchik/Lurnby) or [StringMark](https://www.stringmark.com/) - Save & Mark Research in Browser
 * [Catma](https://catma.de/) - Research Markup & Analysis Tool
 * [Lyx](https://www.lyx.org/), [Typst](https://typst.app/home), [TeXStudio](https://texstudio.org/) or [Papeeria](https://papeeria.com/) - LaTeX Editors / [Guide](https://www.learnlatex.org/)
 * [latex_paper_writing_tips](https://github.com/guanyingc/latex_paper_writing_tips) - Latex Research Paper Tips
 * [OpenPaper](https://openpaper.work/en/), [papis](https://github.com/papis/papis), [Paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) or [DataShare](https://datashare.icij.org/) - Document Managers
 * [Taguette](https://app.taguette.org/) - Data Analysis Document Tagging
 * [Bonsai](https://bonsaibrowser.com/) - Research Web Browser
+* [Lurnby](https://github.com/Roznoshchik/Lurnby) or [StringMark](https://www.stringmark.com/) - Research Highlighting Tools
 * [Deepnote](https://deepnote.com/) - Data Science Notebook
 * [Papertag](https://www.papertag.app/) - Attach Digital Content to Paper
 * [BookStack](https://www.bookstackapp.com/) - Self-Hosted Information Manager
@@ -934,6 +931,7 @@
 * ⭐ **[Wolfram Alpha](https://www.wolframalpha.com/)** - Searchable Knowledgebase / [API Access](https://wolfreealpha.gitlab.io)
 * ⭐ **[NGrams](https://books.google.com/ngrams/)** or [Netspeak](https://netspeak.org/) - Word Usage Trackers
 * [Phrases.org](https://phrases.org.uk/) - Phrase Dictionary
+* [GoldenDict](https://github.com/xiaoyifang/goldendict-ng), [2](https://sourceforge.net/projects/goldendict/) - Dictionary
 * [NinjaWords](https://ninjawords.com/) - Dictionary
 * [Wordnik](https://www.wordnik.com/) - Dictionary
 * [OxfordLearnersDictionaries](https://www.oxfordlearnersdictionaries.com/) - Dictionary
