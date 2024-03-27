@@ -136,6 +136,7 @@
 * ↪️ **[Food Storage Tips](https://i.redd.it/qmcas4yuc2w81.png)** / [2](https://i.ibb.co/SKq3GT7/ca6f633c898b.png)
 * ⭐ **[Tandoor Recipes](https://docs.tandoor.dev/)** or [Pestle](https://pestlechef.app/) - Recipe Managers
 * ⭐ **[Just the Recipe](https://www.justtherecipe.com/)**, [Copy Me That](https://www.copymethat.com/) or [PlainOldRecipe](https://www.plainoldrecipe.com/) - Extract Ingredients Recipes / [Firefox](https://addons.mozilla.org/en-US/firefox/addon/recipe-filter/) / [Chrome](https://chromewebstore.google.com/detail/ahlcdjbkdaegmljnnncfnhiioiadakae)
+* ⭐ **[SuperCook](https://www.supercook.com/)** - Recipe Search
 * ⭐ **[Baking Calculators](https://bakingcalculators.com/)** - Measurement System Conversion Calculators
 * ⭐ **[Grocy](https://grocy.info/)** / [Android](https://patrickzedler.com/grocy/), [Listonic](https://new.app.listonic.com/en) or [Kitchen Owl](https://f-droid.org/en/packages/com.tombursch.kitchenowl/) - Grocery Managers
 * ⭐ **[Sporked](https://sporked.com/)** - Packaged Food Reviews
@@ -147,7 +148,6 @@
 * [PunchFork](https://www.punchfork.com/) - Recipes
 * [Search-22](https://search-22.com/recipe-search-tools) - Multi-Site Recipe Search
 * [Wikibook Recipes](https://en.wikibooks.org/wiki/Category:Cookbook) - Recipe Wiki
-* [SuperCook](https://www.supercook.com/) - Recipe Search
 * [Epicurious](https://www.epicurious.com/) - Recipe Search
 * [Recipe Search](https://recipe-search.typesense.org/) - Recipe Search
 * [RecipeRadar](https://www.reciperadar.com/) - Recipe Search
@@ -698,7 +698,7 @@
 
 * 🌐 **[Awesome Startup](https://github.com/Ibexoft/awesome-startup-tools-list)** or [Tools for Startups](https://docs.google.com/spreadsheets/d/1s6-hGBh0_tqa-jd23fsdYuwbmS8UPmElPqaH-Rnoa_A/htmlview) - Startup Resources Indexes
 * 🌐 **[moreThanFAANGM](https://github.com/Kaustubh-Natuskar/moreThanFAANGM)** - Good Companies / Startups Index
-* [BetaList](https://betalist.com/) or [IdeasAI](https://ideasai.com/) - Get Startup Ideas
+* [BetaList](https://betalist.com/) - Get Startup Ideas
 * [TheGrowthList](https://www.thegrowthlist.co/) - Startup Tips
 * [Business Generator](https://business-generator.vercel.app/) -  Generate Business Ideas
 * [Failory](https://www.failory.com/graveyard) - Learn Why Startups Failed
@@ -874,7 +874,7 @@
 # ► Useful Sites
 
 * ↪️ **[Multi-Tool Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_multi_tool_sites)**
-* ↪️ **[Mind Mapping](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_mind_mapping)**
+* ↪️ **[Mind Mapping](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools#wiki_.25B7_mind_mapping)**
 * ↪️ **[Collaboration Platforms](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_collaboration_platforms)**
 * ↪️ **[Presentation Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_presentation_tools)**
 * ↪️ **[Data Visualization](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_data_visualization_tools)**
