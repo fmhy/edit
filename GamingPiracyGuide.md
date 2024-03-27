@@ -214,7 +214,6 @@
 * [Arquivista ROMs](https://rentry.co/FMHYBase64#arquivista) - ROMs
 * [FinalBurn Neo](https://rentry.co/FMHYBase64#finalburn-neo) - ROMs / Zip 
 * [Retrostic](https://www.retrostic.com/) - Emulators / ROMs
-* [ROMsie](https://romzie.com/) - Emulators / ROMs
 * [Romsever](https://romsever.com) - Emulators / ROMs
 * [lategames](https://www.lategames.net/) - Emulators / ROMs
 * [ConsoleROMs](https://www.consoleROMs.com/) - Emulators / ROMs
@@ -293,7 +292,6 @@
 * [LAN Play Status](http://lan-play.com/) or [Switch-LAN-Play](https://github.com/spacemeowx2/switch-lan-play) / [Discord](https://discord.gg/PUEmfV4) - Multiplayer Switch Servers
 * [Switchway](https://discord.gg/switchway) - Switch Homebrew Discord Server
 * [NSP Forwarder](https://nsp-forwarder.n8.io/) - Switch NSP Forwarder
-* [SDSetup](https://github.com/noahc3/SDSetup) - Nintendo Switch SD Setup
 * [DeepSea](https://github.com/Team-Neptune/DeepSea) - Switch CFW Package 
 * [WiiU Exploit](https://wiiuexploit.xyz/) or [ModMii](https://modmii.github.io/) - WiiU Homebrew Installer
 * [Pretendo](https://pretendo.network/) - WiiU / 3DS Network Replacement
