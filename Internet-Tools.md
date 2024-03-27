@@ -139,6 +139,7 @@
 * [itsmy.fyi](https://itsmy.fyi/)
 * [Taplink](https://taplink.at/)
 * [Linkbun](https://linkbun.io)
+* [Mez.ink](https://mez.ink/)
 * [dialo](https://dialo.app/)
 * [linkr](https://linkr.com/)
 * [omg.lol](https://home.omg.lol/)
@@ -619,6 +620,7 @@
 * [Compose](https://www.compose.ai/) - Text Autocomplete AI
 * [Text Blaze](https://blaze.today/) - Create Text Snippets
 * [Copy Text Easily](https://chromewebstore.google.com/detail/copy-text-easily/fagmaopcbeobbfhkeodicjekiniefdlo) - Simple Text Copy
+* [TabCopy](https://github.com/hansifer/tab-copy) - Copy Tabs to Clipboard
 * [Simple Mass Downloader](https://chromewebstore.google.com/detail/simple-mass-downloader/abdkkegmcbiomijcbdaodaflgehfffed) - Download Multiple Links at Once
 * [Download Sorter](https://chromewebstore.google.com/detail/download-sorter/mebfblkahpknogabckmdjcmjbnpfdpcj) - Sort Downloads into Folders
 * [Hover](https://chromewebstore.google.com/detail/hover/eiiibfemcfcehadokcldlcdljfdlmolj) - Link Previews
