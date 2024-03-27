@@ -478,7 +478,7 @@
 * [Hola Proxy](https://github.com/Snawoot/hola-proxy) - Alternative Client for Hola Free Proxy Service
 * [Hide.me Firefox](https://addons.mozilla.org/en-US/firefox/addon/hide-me-vpn-free-proxy/) / [Chrome](https://chromewebstore.google.com/detail/hideme-proxy/ohjocgmpmlfahafbipehkhbaacoemojp) or [anonymoX](https://anonymox.net/en) - Free Proxy Service Browser Extension
 * [Snowflake](https://snowflake.torproject.org/) - Tor Proxy Browser Extension
-* [CensorTracker](https://github.com/roskomsvoboda/censortracker), [FoxyProxy](https://getfoxyproxy.org/) or [SwitchyOmega](https://github.com/FelisCatus/SwitchyOmega) - Proxy Extensions
+* [CensorTracker](https://censortracker.org/), [FoxyProxy](https://getfoxyproxy.org/) or [SwitchyOmega](https://github.com/FelisCatus/SwitchyOmega) - Proxy Extensions
 * [Acrylic](https://mayakron.altervista.org/) - DNS Cache Local Proxy
 * [SimpleDnsCrypt](https://github.com/instantsc/SimpleDnsCrypt) - DNS Encryption Local Proxy
 * [Proxifier](https://www.proxifier.com/) - Add Proxy Functionality to Apps / [Keys](https://rentry.co/FMHYBase64#proxifier-keys)
