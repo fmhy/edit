@@ -870,7 +870,6 @@ Note - Keep in mind that sites in the manga section above also have manhua/manhw
 * [Ownersman.com](https://ownersman.com/) - Car Owner Manuals
 * [PremierProduct](https://www.premierproducts-uk.co.uk/) or [Auto Manual](https://www.auto-manual.com/) - Vehicle Manuals
 * [David Kleinfeld Laboratory](https://neurophysics.ucsd.edu/Manuals/) - Lab Manuals
-* [Building Instructions](https://www.lego.com/en-us/service/buildinginstructions) - Lego Instructions
 
 ***
 
