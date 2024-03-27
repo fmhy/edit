@@ -28,7 +28,7 @@
 
 * ⭐ **[Spicetify](https://spicetify.app/)** - Spotify Themes
 * ⭐ **Spicetify Tools** - [CLI](https://github.com/spicetify/spicetify-cli) / [Addons](https://github.com/3raxton/spicetify-custom-apps-and-extensions) / [Discord](https://discord.gg/VnevqPp2Rr) / [Fluent](https://github.com/williamckha/spicetify-fluent), [2](https://github.com/nimsandu/spicetify-bloom)
-* [Versefy](https://versefy.app/) - Lyrics
+* [sptlrx](https://github.com/raitonoberu/sptlrx) or [Versefy](https://versefy.app/) - Lyric Apps
 * [Playlist Randomizer](https://stevenaleong.com/tools/spotifyplaylistrandomizer) - Playlist Randomizer
 * [Playlist Sorter](https://www.playlistsorter.com/) - Sort Playlists
 * [Timelineify](https://www.timelineify.com/) - Sort Playlists by Release
@@ -536,6 +536,7 @@
 * [45Cat](https://www.45cat.com/) - Vinyl Ratings / Reviews
 * [TapeFear](https://www.tapefear.com/) or [SongsLikeX](https://songslikex.com/) - Spotify Song Discovery
 * [Spotalike](https://spotalike.com/), [playlist-generator](https://www.playlist-generator.com/), [Chat Jams](https://www.chatjams.ai/), [ChatGPTify](https://github.com/idilsulo/ChatGPTify), [MagicPlaylist](https://magicplaylist.co/), [Vibesition](https://vibesition.jordantwells.com/), [NautrualLanguage](https://www.naturallanguageplaylist.com/), [Highlights2SPotify](https://highlights2spotify.com/) or [RadioNewify](https://radionewify.com/) - Spotify Playlist Generators
+* [Spotify Playlist Archive](https://spotifyplaylistarchive.com/) - Archive of Official Spotify Playlists
 * [Spoqify](https://spoqify.com/) - Anonymous Playlist Generator
 * [TuneMunk](https://www.tunemunk.com/) - Spotify Playlist Sharing
 * [Forgotify](https://forgotify.com/) - Songs w/ No Plays on Spotify
@@ -678,7 +679,7 @@
 
 ***
 
-## ▷ Spectrograms
+## ▷ Spectrum Analyzers
 
 * ⭐ **[Audio Quality Check Guide](https://redd.it/3l0yxp)**
 * ⭐ **[Comparison of Audio Compression](https://nigelcoldwell.co.uk/audio/)**
@@ -686,6 +687,7 @@
 * ⭐ **[Sonic Visualizer](https://www.sonicvisualiser.org/)**
 * ⭐ **[Spek](https://www.spek.cc/)**
 * [Lossless Audio Checker](https://losslessaudiochecker.com/)
+* [Visual Analyser](https://www.sillanumsoft.org/)
 * [DFT](https://webfft.net/dft/)
 * [Friture](https://friture.org/)
 * [Spectro](http://spectro.enpts.com/)
