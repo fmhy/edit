@@ -116,7 +116,6 @@
 * [Bulk Image Convert](https://bulkimageconvert.com), [imverter](https://www.imverter.com/), [Raw Pics](https://raw.pics.io/), [Converseen](https://converseen.fasterland.net/), [Vector Magic](https://vectormagic.com/) or [WebP Converter](https://webp-converter.com/) - Image Converters 
 * [svgco](https://svgco.de/) - Image to SVG Converter
 * [ImageWorsener](https://entropymine.com/imageworsener/) - Image Filters / Blur / Resizing
-* [AnsiLove](https://www.ansilove.org/downloads.html) or [convert-ascii-to-image](https://onlinetools.com/ascii/convert-ascii-to-image) - ANSI / ASCII Art to PNG Converters
 * [Vector Express](https://vector.express/) - Vector Converter
 * [Vectorizer](https://www.vectorizer.io/) or [AutoTracer](https://www.autotracer.org/) - Image Vectorizer 
 * [text2img](https://master.ayra.ch/text2img/) - Convert Text Screenshots to Images
@@ -137,7 +136,7 @@
 
 ## ▷ Image Effects
 
-* ⭐ **[PhotoMosh](https://photomosh.com/)**, [jpg-glitch-electron](https://snorpey.github.io/jpg-glitch-electron/), [glitch-this!](https://github.com/TotallyNotChase/glitch-this) or [GlitchyImage](https://glitchyimage.com/) - Glitch Images
+* ⭐ **[PhotoMosh](https://photomosh.com/)**, [jpg-glitch-electron](https://snorpey.github.io/jpg-glitch-electron/), [glitch-this!](https://github.com/TotallyNotChase/glitch-this), [glitch2](https://akx.github.io/glitch2/), [Image Glitcher](https://www.airtightinteractive.com/demos/js/imageglitcher/) or [GlitchyImage](https://glitchyimage.com/) - Glitch Images
 * [PhotoFunia](https://photofunia.com/) or [Designify](https://designify.com/) - Photo Effects / Filters
 * [distort-grid](https://github.com/snorpey/distort-grid) - Grid Based Image Distortion
 * [Tinter](https://tinter.uxie.io/) - Image Hue Editor
@@ -146,7 +145,8 @@
 * [Fotosketcher](https://fotosketcher.com/) or [PhotoMaker](https://huggingface.co/spaces/TencentARC/PhotoMaker) [Stylized](https://huggingface.co/spaces/TencentARC/PhotoMaker-Style) - Turn Photos into Artwork
 * [AnimeGAN](https://github.com/TachibanaYoshino/AnimeGANv3) - Turn Photos into Anime
 * [AIDraw](https://ai-draw.tokyo/en/) or [ArtLine](https://github.com/vijishmadhavan/ArtLine) - Turn Photos into Line Art
-* [Geometrize](https://www.geometrize.co.uk/) - Redraw Images with Geometric Shapes 
+* [Rutt-Etra-Izer](https://airtightinteractive.com/demos/js/ruttetra/) - Scanned-line Images
+* [Geometrize](https://www.geometrize.co.uk/) - Redraw Images with Geometric Shapes
 * [PBNify](https://pbnify.com/) - Paint by Number Tool
 * [Party-ify](https://nathanielw.github.io/party-ify/) - Party-ify Images
 * [PFP.LGBT](https://pfp.lgbt/) - LGBTQ+fy Images
@@ -248,7 +248,8 @@
 
 ## ▷ Pixel Art
 
-* 🌐 **[Awesome Pixel Art](https://github.com/Siilwyn/awesome-pixel-art)** - Pixel Art Resource Index 
+* 🌐 **[Awesome Pixel Art](https://github.com/Siilwyn/awesome-pixel-art)** - Pixel Art Resource Index
+* ↪️ **[ASCII Art](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools#wiki_.25B7_ascii_art)**
 * [Piskel](https://www.piskelapp.com/), [rx](https://rx.cloudhead.io/), [Pixelated](https://pixelated.vercel.app/), [PaintWith](https://paintwith.webflow.io/), [Aseprite](https://dacap.itch.io/aseprite), [PixelCraft](https://pixelcraft.web.app/) / [GitHub](https://github.com/rgab1508/PixelCraft), [Kleki](https://kleki.com/), [CSprite](https://csprite.github.io/) or [PixilArt](https://www.pixilart.com/draw) - Pixel Art Editors
 * [Strike](https://amorphous.itch.io/strike) - 1-Bit Pixel Art Editor
 * [Pixel Painter](https://jenniferdewalt.com/pixel_painter.html) or [Pixel Paint](https://codepen.io/quinlo/full/RvPPKG) - Paint with Pixels
@@ -261,7 +262,6 @@
 * [Pixelicious](https://www.pixelicious.xyz/) - Image to Pixel Art Converter
 * [Pal](https://pal.constraint.systems/) - Apply 8-bit Terminal Color Palettes to Images
 * [Nasu](https://hundredrabbits.itch.io/nasu) - Spritesheet Editor
-* [Petmate](https://nurpax.github.io/petmate/) - C64 PETSCII Image Editor
 * [Pixel Art Scaler](https://lospec.com/pixel-art-scaler/) - Scale Pixel Art w/o Quality Loss
 
 ***
@@ -285,7 +285,7 @@
 * [IconPacks](https://www.iconpacks.net/), [svgmix](https://svgmix.com/), [Iconbuddy](https://iconbuddy.app/), [Noun Project](https://thenounproject.com/) or [cappuccicons](https://cappuccicons.com/) - SVG / PNG Icons
 * [Icofont](https://icofont.com/icons), [SimpleIcons](https://simpleicons.org/), [xIcons](https://xicons.org), [Polaris](https://polaris.shopify.com/icons), [Phosphor Icons](https://phosphoricons.com/), [IconFinder](https://www.iconfinder.com/), [Ant Design](https://ant.design/components/icon/) or [Orion](https://www.orioniconlibrary.com/) - SVG Icons
 * [GrommetIcons](https://icons.grommet.io/) - SVG Icons for React
-* [CaptainIconWeb](https://mariodelvalle.github.io/CaptainIconWeb/), [IconNinja](https://www.iconninja.com/), [Iconify](https://github.com/kyutefox/Iconify) or [IconHunt](https://www.iconhunt.site/) - Vector Icons
+* [CaptainIconWeb](https://mariodelvalle.github.io/CaptainIconWeb/), [IconNinja](https://www.iconninja.com/) or [IconHunt](https://www.iconhunt.site/) - Vector Icons
 * [StyledIcons](https://styled-icons.dev/) - Import Icons as Styled Components
 * [Teenyicons](https://teenyicons.com/) - Minimal 1px Icons
 * [awsicons](https://awsicons.dev/) - AWS Icons
@@ -526,10 +526,10 @@
 * [creativity103](https://creativity103.com/) - Abstract Background Photos
 * [freenaturestock](https://freenaturestock.com/) - Nature Photos
 * [Warren Photographic](https://www.warrenphotographic.co.uk/index.php) - Animal Photos
+* [PhyloPic](https://www.phylopic.org/) - Animal Silhouettes
 * [diverseui](https://diverseui.com/) - Human Face Photos
 * [Foodiesfeed](https://www.foodiesfeed.com/) - Food Photos
 * [iwaria](https://iwaria.com/) - African Photos
-* [Freely Photos](https://www.freelyphotos.com/) - Christian Photos
 * [twnsnd](https://nos.twnsnd.co/) - Vintage Photos
 * [PNGIMG](https://pngimg.com/) or [stickpng](https://www.stickpng.com/) - PNG Photos
 * [gfxmountain](https://gfxmountain.com/stock-photos/) - Stock Photo Collections
