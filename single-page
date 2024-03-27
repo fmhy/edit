@@ -9587,7 +9587,7 @@ Linux Gaming Guide
 * [WinDirStat](https://windirstat.net/) - Disk Usage Analyzer
 * [Macrorit Partition Expert](https://macrorit.com/partition-magic-manager/partition-expert-download.html) - Disk Usage Analyzer
 * [Gdu](https://github.com/dundee/gdu) - Disk Usage Analyzer
-* [dua](https://github.com/Byron/dua-cli) - Disk Usage Analyzer
+* [dua](https://lib.rs/crates/dua-cli) - Disk Usage Analyzer
 * [Diskovery](https://diskovery.io/) - Disk Usage Analyzer
 * [DiskInfo](https://github.com/DiskTools/DiskInfo) - Disk Usage Analyzer
 * [Erdtree](https://github.com/solidiquis/erdtree) - Disk Usage Analyzer
@@ -9731,7 +9731,7 @@ Linux Gaming Guide
 
 * ⭐ **[Rainmeter](https://www.rainmeter.net/)** - Desktop Customization
 * ⭐ **Rainmeter Tools** - [Skins](https://visualskins.com/) / [Utilities](https://github.com/Jax-Core), [2](https://www.deviantart.com/jaxoriginals) / [Menu Bar / App Launcher](https://www.droptopfour.com/)
-* ⭐ **[OpenRGB](https://openrgb.org/)** / [Beta](https://pastebin.com/tgY55J4n), **[WLED](https://kno.wled.ge/)**, [SignalRGB](https://www.signalrgb.com/), [LiquidCTL](https://github.com/liquidctl/liquidctl), [Artemis](https://artemis-rgb.com/), [RBGSync](https://rgbsync.com/), [FireLight](https://github.com/nicolasdeory/firelight) or [Aurora](https://github.com/antonpup/Aurora) - Lighting Control
+* ⭐ **[OpenRGB](https://openrgb.org/)** / [Beta](https://pastebin.com/tgY55J4n), **[WLED](https://kno.wled.ge/)**, [SignalRGB](https://www.signalrgb.com/), [LiquidCTL](https://github.com/liquidctl/liquidctl), [Artemis](https://artemis-rgb.com/), [RBGSync](https://rgbsync.com/) or [FireLight](https://github.com/nicolasdeory/firelight) - Lighting Control
 * [VirtualCustoms](https://virtualcustoms.net/) or [winthemers](https://discord.com/invite/8FFWAqdtc4) - Customization Communities 
 * [XDesktopSoft](https://www.xwidget.com/) - Desktop Customization
 * [LiteStep](http://litestep.net/) - Customize Desktop Interface
