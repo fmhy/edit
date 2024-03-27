@@ -1101,6 +1101,10 @@
 
 ## Udemy Coupons
 
+* **Note** - If you're in the US you should be able to access Udemy courses for free using your library and looking for "Gale Presents Udemy."
+
+***
+
 * ⭐ **[Coursevania](https://coursevania.com/)** / [Telegram](https://t.me/Coursevania)
 * ⭐ **[CouponScorpion](https://couponscorpion.com/)**
 * ↪️ **[Udemy Course Megadrives](https://rentry.co/FMHYBase64#udemy-course-drives)**
