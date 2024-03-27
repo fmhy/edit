@@ -481,7 +481,7 @@
 
 ## ▷ Frontend Tools
 
-* 🌐 **[Awesome Web Animation](https://github.com/sergey-pimenov/awesome-web-animation)** - Web Animation Resources
+* 🌐 **[Awesome Web Animation](https://awesome-web-animation.netlify.app/)** - Web Animation Resources
 * ↪️ **[Icon Download Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/img-tools#wiki_.25B7_icons_.2F_svgs)**
 * ↪️ **[Design Resources](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/img-tools#wiki_.25BA_design_resources)** or [Open Source Design](https://opensourcedesign.net/)
 * ↪️ **[Website Templates](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_website_templates)**
@@ -904,14 +904,13 @@
 * [Security Onion Solutions](https://securityonionsolutions.com/), [Wazuh](https://wazuh.com/) or [Snyk](https://snyk.io/) / [GitHub](https://github.com/snyk/cli) - Site Security Monitor
 * [Greenbone](https://github.com/greenbone) - Vulnerability Management
 * [Evervault](https://evervault.com/) - Security / Compliance Infrastructure
-* [Teler](https://github.com/kitabisa/teler) - HTTP Intrusion Detection
 * [HTTPToolkit](https://httptoolkit.com/) - Debug, Test & Build with HTTP(S)
 * [IP Intelligence](https://getipintel.net/) - Malicious Web Traffic Protection
 * [HTTPLeaks](https://github.com/cure53/HTTPLeaks) - HTTP Sites Leak Information
 * [Cryptography](https://github.com/dint-dev/cryptography) - Dart and Flutter Cryptography Library
 * [Kali NetHunter](https://store.nethunter.com/en/) or [AndroGuard](https://github.com/androguard/androguard) - Penetration Testing / Forensics Apps
 * [MobileApp-Pentest-Cheatsheet](https://github.com/tanprathan/MobileApp-Pentest-Cheatsheet) - App Pentesting Cheatsheet
-* [Radare](https://rada.re/r/), [Reverse Engineer's Toolkit](https://github.com/mentebinaria/retoolkit), [Rizin](https://rizin.re/), [Frida](https://frida.re/), [GHIDRA](https://ghidra-sre.org/) or [Cutter](https://github.com/rizinorg/cutter) - Reverse Engineering 
+* [Radare](https://rada.re/r/), [Reverse Engineer's Toolkit](https://github.com/mentebinaria/retoolkit), [Rizin](https://rizin.re/), [Frida](https://frida.re/), [GHIDRA](https://ghidra-sre.org/) or [Cutter](https://cutter.re/) - Reverse Engineering 
 * [MSTG](https://github.com/OWASP/owasp-mastg) or [DVIA-v2](https://github.com/prateek147/DVIA-v2) - App Security Testing / Reverse Engineering
 * [challenges.re](https://challenges.re/) - Reverse Engineer Code
 * [ImHex](https://github.com/WerWolv/ImHex) - Hex Editor / [Web Version](https://web.imhex.werwolv.net/)
@@ -968,7 +967,7 @@
 * [git](https://git-scm.com/), [SCM](https://sapling-scm.com/) or [darcs](https://darcs.net/) - Version Control Systems
 * [multi-gitter](https://github.com/lindell/multi-gitter) - Bulk Repository Updater
 * [Meld](https://meldmerge.org/) - Git Visual Diff / Merge Tool
-* [Ugit](https://github.com/Bhupesh-V/ugit) - Undo Git Commands
+* [Ugit](https://bhupesh.me/undo-your-last-git-mistake-with-ugit/) - Undo Git Commands
 * [Onefetch](https://github.com/o2sh/onefetch) - Command-line Git information tool
 * [Sourcegraph](https://about.sourcegraph.com/) - Git Repository Sourcegraph Editor 
 * [Conventional Commits](https://www.conventionalcommits.org/) - Commit Message Specification
@@ -1081,7 +1080,6 @@
 * [YQ](https://github.com/mikefarah/yq) - Portable YAML Processor
 * [yoctocolors](https://github.com/sindresorhus/yoctocolors) - Command Line Coloring Package
 * [open](https://github.com/sindresorhus/open) - Open URLs, Files, Executables in CLI or Scripts
-* [Hopa](https://github.com/krasimir/hopa) - Zero config CLI for running JavaScript / TypeScript
 * [VisiData](https://www.visidata.org/) - Spreadsheet CLI Editor
 
 ***
@@ -1262,7 +1260,7 @@
 * [v0](https://v0.dev/) - Text to Site Code
 * [AI Code Translator](https://ai-code-translator.vercel.app/), [AI Code Convert](https://aicodeconvert.com/) or [Source Code Converters](https://www.tangiblesoftwaresolutions.com/) - AI Code Converters
 * [GPT Engineer](https://github.com/AntonOsika/gpt-engineer) - AI Code Generator
-* [Gorilla](https://github.com/ShishirPatil/gorilla) - API to Code LLM
+* [Gorilla](https://gorilla.cs.berkeley.edu/) - API to Code LLM
 
 ***
 
@@ -1542,7 +1540,6 @@
 * [MMDeploy](https://github.com/open-mmlab/mmdeploy) - Deep Learning Model Deployment Toolset 
 * [DeepSpeed](https://github.com/microsoft/DeepSpeed) - Deep Learning Optimization Library
 * [MLC LLM](https://github.com/mlc-ai/mlc-llm) - Native Language Model Deployment
-* [Shap](https://github.com/shap/shap) - Language Model Response Analyzer
 * [Langchain](https://github.com/langchain-ai/langchain) - Build Apps via LLM
 * [PlugBear](https://plugbear.io/) - Connect LLMs to Apps
 * [GPTCache](https://github.com/zilliztech/GPTCache) - LLM Response Cache
