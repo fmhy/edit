@@ -100,7 +100,6 @@
 * [RisingHub](https://risinghub.net/) - Battlefield Heroes Revival Project
 * [Plutonium](https://plutonium.pw/) - Black Ops 2 / MW3 Mod Project / [Discord](https://discord.gg/d95y8ah)
 * [VeniceUnleashed - BF3](https://veniceunleashed.net/) or [Warsaw-Revamped - BF4](https://warsaw-revamped.com/) - Battlefield Mod Projects
-* [The Peacock Project](https://thepeacockproject.org/) - Hitman 3 Replacement Servers
 * [Mega Man Arena](https://www.megamanarena.com/) or [Megaman 2.5D](https://petersjostrand.com/) - Multiplayer Mega Man
 * [OpenRA](https://openra.net/) - Command & Conquer Recreation
 * [NolfRevival](http://nolfrevival.tk/) - NOLF, NOLF 2 & Contract Jack
