@@ -710,9 +710,11 @@
 # ► Game Specific
 
 * 🌐 **[Awesome Trackmania](https://github.com/EvoEsports/awesome-trackmania)** - Trackmania Resources
+* ⭐ **[Super Mario Wiki](https://www.mariowiki.com/)** - Super Mario Wiki
 * [Half Life Project Beta](https://hl2-beta.ru/?language=english) - Unreleased / Cut Half-Life Content
 * [CyberCAT-SimpleGUI](https://github.com/Deweh/CyberCAT-SimpleGUI) - Cyberpunk 2077 Save Editor
 * [Kirigiri's Palword](https://rentry.co/FMHYBase64#kirigiris-palword) - Palworld Releases
+* [Palworld.gg](https://palworld.gg/), [PalworldTrainer.com](https://palworldtrainer.com/) or [Paldb.cc](https://paldb.cc/) - Palworld Databases
 * [Palworld Host Save Fix](https://github.com/xNul/palworld-host-save-fix) - Palworld Save Bug Fix
 * [The Halo Archive](https://discord.gg/feB7RgAHBh) or [405th](https://www.405th.com/) - Halo Assets Archive
 * [Stardew.app](https://stardew.app/) - Stardew Valley Progress Tracker
@@ -824,10 +826,12 @@
 
 ## ▷ Pokémon Tools
 
-* 🌐 **[Awesome PokemonGO](https://github.com/tobiasbueschel/awesome-pokemon)** - PokemonGO Resources
+* 🌐 **[Awesome Pokémon](https://github.com/tobiasbueschel/awesome-pokemon)** - Curated List of Pokémon Resources
+* ⭐ **[Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Main_Page)** - Pokémon Wiki
+* ⭐ **[Serebii.net](https://www.serebii.net/)**, [Pokémon Database](https://pokemondb.net/) or [PocketMonsters.net](https://pocketmonsters.net/) - Pokémon Databases
 * ⭐ **[PokeList](https://pokemonlist.netlify.app/)**, [Pokedex](https://github.com/skydoves/Pokedex) or [PokeAPI](https://pokeapi.co/) - Pokedexes
 * ⭐ **[Pokémon Typechart](https://pokemondb.net/type)** - Pokémon Type Charts / [Image](https://img.pokemondb.net/images/typechart.png)
-* ⭐ **[PokeMMO](https://pokemmo.com/en/)**, [DelugeRPG](https://www.delugerpg.com/), [Pokemon Legends](https://www.pokemongods.com/) or [PokemonRevolution](https://pokemonrevolution.net/) - Pokémon MMOs
+* ⭐ **[PokeMMO](https://pokemmo.com/en/)**, [DelugeRPG](https://www.delugerpg.com/), [Pokémon Legends Gods](https://www.pokemongods.com/) or [Pokémon Revolution Online](https://pokemonrevolution.net/) - Pokémon MMOs
 * ⭐ **[Pokémon Showdown](https://pokemonshowdown.com/)** - Online Pokémon Battles
 * [PokeCommunity](https://www.pokecommunity.com/) - Pokémon Community
 * [Project Pokémon](https://projectpokemon.org/) - Pokémon Tools, Exploits, Saves etc.
@@ -840,6 +844,7 @@
 * [Universal Pokémon Randomizer ZX](https://github.com/Ajarmar/universal-pokemon-randomizer-zx/) - Randomize Pokémon (works for GBA through 3DS)
 * [NYCPokeMap](https://nycpokemap.com/) - Real-time Pokémon Go Map for NYC
 * [PkmnCards](https://pkmncards.com/) - Pokémon Card Database
+* [unite-db](https://unite-db.com/) - Pokémon Unite Database
 
 ***
 
@@ -860,6 +865,7 @@
 * 🌐 **[GTAAll](https://www.gtaall.com/)**, [GTAInside](https://gtainside.com/), [GameModding](https://gamemodding.com/), [GTAGarage](https://gtagarage.com/) or [LibertyCity](https://libertycity.net/) - GTA Mods, Cheats, Walkthroughs & More
 * 🌐 **[GTA5-Mods](https://www.gta5-mods.com/)** - GTAV Mods
 * 🌐 **[MixMods](https://www.mixmods.com.br/)** - GTASA Mods
+* ⭐ **[Grand Theft Wiki](https://www.grandtheftwiki.com/Main_Page)** - GTA Wiki
 * ⭐ **[FiveM](https://fivem.net/)** - Modded GTAV Servers
 * ⭐ **[Rainbomizer](https://rainbomizer.com/)** - GTA Randomizer Mods
 * [GTA 5 Grand Roleplay](https://gta5grand.com/) - GTAV Roleplay Server
@@ -871,6 +877,7 @@
 
 ## ▷ Doom Tools
 
+* ⭐ **[Doom Wiki](https://doomwiki.org/wiki/Entryway)** - Doom Wiki
 * ⭐ **[ZDoom](https://www.zdoom.org/downloads)** - Doom Source Port
 * ⭐ **[ZDaemon](https://www.zdaemon.org/)**, **[Doomseeker](https://doomseeker.drdteam.org/)**, [oDamex](https://odamex.net/), [DoomUtils](http://doomutils.ucoz.com/) or [Zandronum](https://zandronum.com/) - Online Multiplayer Doom
 * [Realm667](https://www.realm667.com/index.php/en/) - Doom Mods
@@ -1302,6 +1309,7 @@
 * [Factle](https://factle.app/) - Fact Style Wordle
 * [LoLdle](https://loldle.net/) - League of Legends Wordle
 * [Minecraftle](https://minecraftle.zachmanson.com/) - Minecraft Crafting Style Wordle
+* [Squirdle](https://squirdle.fireblend.com/) - Pokémon Style Wordle
 
 ***
 
