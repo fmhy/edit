@@ -633,7 +633,7 @@
 * [Nora](https://github.com/Sandakan/Nora)
 * [Hyperchroma](https://hyperchroma.app/)
 * [Melodie](https://feugy.github.io/melodie/)
-* [Dopamine](https://github.com/digimezzo/dopamine-windows)
+* [Dopamine](https://digimezzo.github.io/site/)
 * [LED FX](https://www.ledfx.app/) - LED Music Sync
 * [VinylEngine](https://www.vinylengine.com/) - Record Player / Vinyl Info 
 
