@@ -632,7 +632,6 @@
 * [BSMG](https://bsmg.wiki/) - Beat Saber Mods
 * [NFSMods](https://nfsmods.xyz/) / [Discord](https://discord.gg/MuC3KKW) or [NFSAddons](https://www.nfsaddons.com/) - Need for Speed Mods
 * [SimPlaza](https://simplaza.org/) - Microsoft Flight Simulator Addons
-* [Thunderstore](https://thunderstore.io/c/northstar/) - Northstar Mods
 * [Modding-OpenMW](https://modding-openmw.com/) - Morrowind Mods
 
 ***
