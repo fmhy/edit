@@ -13787,6 +13787,7 @@ Linux Gaming Guide
 * [Inno Setup](https://jrsoftware.org/isinfo.php) or [InstallForge](https://www.installforge.net/) - Create Installation Programs
 * [Sparkle](https://github.com/sparkle-project/Sparkle) - MacOS Update Framework
 * [TextBase](https://www.textbase.ai/) - AI Chatbot Framework 
+* [Dify](https://dify.ai/) - Create AI Apps
 * [Jina](https://github.com/jina-ai/jina) - Create AI Applications
 * [Amplication](https://amplication.com/) - Create Node.js Apps
 * [Ink](https://github.com/vadimdemedes/ink) - Create Interactive CLI Apps
@@ -13986,6 +13987,7 @@ Linux Gaming Guide
 * 🌐 **[Awesome Big Data](https://github.com/newTendermint/awesome-bigdata)** - Big Data Resources
 * [Grafana](https://grafana.com/) - Dev Data Dashboard
 * [DBeaver](https://dbeaver.io/) - Universal Database Tool
+* [Ingestr](https://github.com/bruin-data/ingestr) - Transfer Data between Databases
 * [Text-to-SQL](https://datalynx.ai/text-to-sql) - AI Generated SQL Queries 
 * [HeidiSQL](https://www.heidisql.com/) - SQL Manager
 * [QueryStorm](https://querystorm.com/) - SQL and .NET programming in Excel
@@ -14242,6 +14244,8 @@ Linux Gaming Guide
 * [JavaScripting](https://www.javascripting.com/) or [Danfo.js](https://github.com/javascriptdata/danfojs) - JavaScript Libraries
 * [NodeJS](https://nodejs.org/en/) - JavaScript Runtime Environment
 * [LLRT](https://github.com/awslabs/llrt) - Lightweight JavaScript Runtime
+* [GraalVM](https://www.graalvm.org/) - Java Development Kit
+* [Adoptium](https://adoptium.net/) - Download OpenJDK Binaries
 * [Clean Code Javascript](https://github.com/ryanmcdermott/clean-code-javascript) - Clean Code for Javascript
 * [Vanilla List](https://vanillalist.top/) - Vanilla Javascript Repository
 * [RunKit](https://runkit.com/) - Browser Javascript Sandbox
@@ -14262,7 +14266,6 @@ Linux Gaming Guide
 * [randomcolor](https://randomcolor.lllllllllllllllll.com/) - Random Javascript Color Generator
 * [ASTExplorer](https://astexplorer.net/) - AST Viewer
 * [Microdiff](https://github.com/AsyncBanana/microdiff) - Object and Array Comparison Library
-* [Adoptium](https://adoptium.net/) - Download OpenJDK Binaries
 * [trzsz](https://github.com/trzsz/trzsz.js) - Make trzsz Compatible with tmux in Terminal
 * [quicktype](https://app.quicktype.io/) - JSON Parser
 * [JSON Formatter](https://jsonformatter.curiousconcept.com/) or [json-formatter](https://github.com/callumlocke/json-formatter) - JSON Formatting
@@ -14585,7 +14588,6 @@ Linux Gaming Guide
 * [LLM Training](https://rentry.org/llm-training) - LLM Training Guide
 * [TeachableMachine](https://teachablemachine.withgoogle.com/) or [TensorFlow](https://www.tensorflow.org/) - Create Machine Learning Models
 * [OpenAIPlayground](https://github.com/nat/openplayground) - LLM Playground
-* [infermatic](https://infermatic.ai/) / [Discord](https://discord.gg/9GUXmDx9GF) or [lollms-webui](https://github.com/ParisNeo/lollms-webui) - Run LLMs Online
 * [sdk.vercel](https://sdk.vercel.ai/) - LLM SDK
 * [LLMos](https://www.llmos.dev/) - LLM API / [Discord](https://discord.com/invite/38c5cxE4Zb)
 * [DVC](https://dvc.org/) - Machine Learning Version Control
@@ -14601,6 +14603,7 @@ Linux Gaming Guide
 * [MLC LLM](https://github.com/mlc-ai/mlc-llm) - Native Language Model Deployment
 * [Shap](https://github.com/shap/shap) - Language Model Response Analyzer
 * [Langchain](https://github.com/langchain-ai/langchain) - Build Apps via LLM
+* [PlugBear](https://plugbear.io/) - Connect LLMs to Apps
 * [GPTCache](https://github.com/zilliztech/GPTCache) - LLM Response Cache
 * [OpenCog](https://opencog.org/) or [AForge](https://github.com/andrewkirillov/AForge.NET) - Artificial Intelligence Frameworks
 * [Nixified](https://nixified.ai/) - Nix Flake for AI Projects
