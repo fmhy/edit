@@ -398,7 +398,7 @@
 * [AuthenticatorPro](https://github.com/jamie-mh/AuthenticatorPro) - Android 2FA
 * [Mauth](https://github.com/X1nto/Mauth) - Android 2FA
 * [KeePassXC](https://keepassxc.org/) - Windows / Mac / Linux 2FA / [Guide](https://youtu.be/ckWPHaQwft8)
-* [AuthMe](https://github.com/Levminer/authme) - Windows / Mac / Linux 2FA
+* [AuthMe](https://authme.levminer.com/) - Windows / Mac / Linux 2FA / [GitHub](https://github.com/Levminer/authme)
 * [Tauthy](https://github.com/pwltr/tauthy) - Windows / Mac / Linux 2FA
 * [Yubioath](https://developers.yubico.com/yubioath-flutter/) - Windows / Android 2FA / YubiKeys
 * [Protecc](https://github.com/FireCubeStudios/Protecc) - Windows 2FA
@@ -488,7 +488,7 @@
 * [Shadowsocks](https://shadowsocks.org/) / [Free Servers](https://github.com/ruanfei/cross), [2](https://github.com/learnhard-cn/free_proxy_ss), [3](https://shadowmere.akiel.dev/) / [Client](https://github.com/shadowsocks/shadowsocks-windows) - Proxy Client and Self-Hosted Server
 * [Hysteria](https://github.com/apernet/hysteria) - Proxy Client and Self-Hosted Server
 * [Xray](https://github.com/XTLS/Xray-core) - Proxy Client and Self-Hosted Server / [Telegram](https://t.me/projectXray)
-* [Ultraviolet](https://github.com/titaniumnetwork-dev/Ultraviolet) or [Tsunami](https://github.com/FogNetwork/Tsunami) - Self-Hosted Proxy Websites
+* [Ultraviolet](https://github.com/titaniumnetwork-dev/Ultraviolet) or [Metallic](https://github.com/cognetwork-dev/Metallic) - Self-Hosted Proxy Websites
 * [1337x Proxy](https://redd.it/tz7nyx) - 1337x Proxy Guide / [Example](https://pastebin.com/3n5K0QrP)
 
 ***
