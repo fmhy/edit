@@ -59,6 +59,7 @@
 * [GammaStep](https://gitlab.com/chinstrap/gammastep) - Adjust Screen Temperature
 * [VirtScreen](https://github.com/kbumsik/VirtScreen) - Use Mobile Device as Monitor
 * [Weylus](https://github.com/H-M-H/Weylus) - Use Mobile Device as Trackpad
+* [AudioSource](https://github.com/gdzx/audiosource) - Use Mobile Device as Microphone
 * [Ollama](https://ollama.ai/) / [Discord](https://discord.gg/ollama) - Run LLMs
 * [nyrna](https://github.com/Merrit/nyrna) - Suspend Apps / Games
 * [Solaar](https://github.com/pwr-Solaar/Solaar) - Logitech Device Manager
@@ -318,6 +319,7 @@ Linux Gaming Guide
 * [apt-fast](https://github.com/ilikenwf/apt-fast) - APT Download Accelerator
 * [Nala](https://gitlab.com/volian/nala) - APT Frontend
 * [aMule](https://www.amule.org/) - eMule-like P2P Client
+* [Linux Router](https://github.com/garywill/linux-router) - Set Linux as Router
 * [EasyPanel](https://easypanel.io/) - Server Control Panel
 * [Wayland](https://wayland.freedesktop.org/) - Linux Display Server Protocol / [Tools](https://arewewaylandyet.com/)
 * [river](https://github.com/riverwm/river/), [LabWC](https://github.com/labwc/labwc), [Hyprland](https://hyprland.org/), [kiwmi](https://github.com/buffet/kiwmi), [picom](https://github.com/yshui/picom), [wayfire](https://github.com/WayfireWM/wayfire/) or [sway](https://swaywm.org/) - Wayland Compositors
@@ -397,7 +399,7 @@ Linux Gaming Guide
 * [Extension Manager](https://github.com/mjakeman/extension-manager) - GNOME Shell Extensions 
 * [Distrobox](https://github.com/89luca89/distrobox) - Use Distros via Terminal
 * [htop](https://htop.dev/) - Interactive Process Viewer / [GitHub](https://github.com/htop-dev/htop)
-* [eza](https://github.com/eza-community/eza) - Modern ls replacement
+* [eza](https://eza.rocks/) - Modern ls replacement
 * [explainshell.com](https://explainshell.com/) - Match Command-Line Arguments to Help Text
 * [PowerShell](https://github.com/powershell/powershell) - PowerShell
 * [Tmux](https://github.com/tmux/tmux) - Terminal Multiplexer / [Cheatsheet](https://tmuxcheatsheet.com/)
