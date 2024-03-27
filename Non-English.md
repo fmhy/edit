@@ -311,6 +311,7 @@
 ## ▷ Reading
 
 * [Lonnrot](http://www.lonnrot.net/) - Books
+* [HistDoc](https://histdoc.net/) - Historical Finnish Documents
 
 ***
 
@@ -791,6 +792,7 @@
 * [Sldict](https://sldict.korean.go.kr/) - Sign Language Learning
 * [National Hangeul Museum](https://www.hangeul.go.kr/main.do) - Hangeul Museum Information
 * [NAVER](https://www.naver.com/) - Search
+* [Free Korean Fonts](https://www.freekoreanfont.com/) - Korean Fonts
 
 ## ▷ Downloading
 
