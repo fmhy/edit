@@ -90,7 +90,7 @@
 * [Coursesghar](https://coursesghar.com/) - Courses
 * [FreeEducationWeb](https://freeeducationweb.com/) - Courses
 * [FreeCourseDL](https://freecoursedl.com/) - Courses
-* [FCS](https://freecoursesites.com/) - Courses
+* [FreeCourseSite](https://freecoursesite.com/), [2](https://freecoursesites.com/) - Courses
 * [technet24](https://technet24.ir/category/videos) - Courses
 * [AfraTafreeh](https://afratafreeh.com/) - Courses
 * [Free-Courses-For-Everyone](https://github.com/MasterBrian99/Free-Courses-For-Everyone) - Courses
