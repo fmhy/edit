@@ -212,12 +212,11 @@
 * ⭐ **[Notepad++](https://notepad-plus-plus.org/)** / [Markdown](https://nea.github.io/MarkdownViewerPlusPlus/)
 * ⭐ **[Microsoft Office](https://gravesoft.dev/download_windows_office/office_c2r_links/)**, [Office Tool](https://github.com/YerongAI/Office-Tool), [Custom Office](https://gravesoft.dev/download_windows_office/office_c2r_custom/), [LibreOffice](https://www.libreoffice.org/) or [Calligra](https://calligra.org/) - Office Suites
 * ⭐ **Microsoft Office Tools** - [Guide](https://redd.it/1814gmp) / [Activation](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/system-tools#wiki_.25B7_windows_activation) / [Hot Keys](https://i.ibb.co/0m9t95b/ebacd47bf83b.png) / [File Search](https://sourceforge.net/projects/office-search/)
-* ⭐ **[Obsidian](https://obsidian.md/)**
-* ⭐ **Obsidian Tools** - [Resources](https://github.com/kmaasrud/awesome-obsidian) / [Share Notes](https://noteshare.space/) / [Live Sync](https://github.com/vrtmrz/obsidian-livesync) / [Backup](https://github.com/denolehov/obsidian-git) / [ChatGPT Addon](https://github.com/logancyang/obsidian-copilot), [2](https://github.com/vasilecampeanu/obsidian-weaver)
 * ⭐ **[Notion](https://www.notion.so/)**
 * ⭐ **Notion Tools** - [Themes](https://notionthemes.yudax.me/) / [Templates](https://notionpages.com/) / [Resources](https://www.notioneverything.com/notion-world), [2](https://chief-ease-8ab.notion.site/List-of-200-Notion-Resources-e1b46cd365094265bd47b8a2b25bb41e) / [Guide](https://easlo.notion.site/Notion-Beginner-to-Advanced-8a492960b049433289c4a8d362204d20)
 * ⭐ **[Note Garden](https://notegarden.web.app/)**, [2](https://notegarden.io/) - Note-Taking / Auto Courses
 * ⭐ **[AnyType](https://anytype.io/)**
+* ⭐ **[Logseq](https://logseq.com/)**
 * [Mochi Cards](https://mochi.cards/) or [Silicon](https://github.com/cu/silicon) - Note-Taking / Study Tools
 * [Desklamp](https://desklamp.io/) - Reading / Note Taking / Highlighting Tool / [Guide](https://app.desklamp.io/read?id=46b203c6-d8df-453d-b546-95a8fa7a44b9&mode=explore)
 * [Calculist](https://calculist.io/) - Note-Taking for Problem-Solving
@@ -236,7 +235,6 @@
 * [Textreme](https://ash-k.itch.io/textreme) / [GitHub](https://github.com/cis-ash/TEXTREME)
 * [Tiddly](https://tiddlywiki.com/) / [Desktop](https://github.com/tiddly-gittly/TidGi-Desktop)
 * [Joplin](https://joplinapp.org/) / [Firefox](https://addons.mozilla.org/en-US/firefox/addon/joplin-web-clipper/) / [Chrome](https://chromewebstore.google.com/detail/joplin-web-clipper/alofnhikmmkdbbbgpnglcpdollgjjfeken-GB)
-* [GoogleKeepClone](https://github.com/anselm94/googlekeepclone)
 * [TinyList](https://tinylist.app/)
 * [Simplenote](https://simplenote.com/)
 * [SilentNotes](https://www.martinstoeckli.ch/silentnotes/) / [GitHub](https://github.com/martinstoeckli/SilentNotes)
@@ -279,6 +277,34 @@
 * [GhostText](https://ghosttext.fregante.com/)
 * [AnyTextEditor](https://anytexteditor.com/)
 * [KiloDoc](https://www.kilodoc.com/), [Edit-Document](https://edit-document.com/) or [GroupDocs](https://products.groupdocs.app/viewer/total) - Online Document Editors
+
+***
+
+## ▷ Mind Mapping
+
+* ⭐ **[Obsidian](https://obsidian.md/)**
+* ⭐ **Obsidian Tools** - [Resources](https://github.com/kmaasrud/awesome-obsidian) / [Share Notes](https://noteshare.space/) / [Live Sync](https://github.com/vrtmrz/obsidian-livesync) / [Backup](https://github.com/denolehov/obsidian-git) / [ChatGPT Addon](https://github.com/logancyang/obsidian-copilot), [2](https://github.com/vasilecampeanu/obsidian-weaver)
+* ⭐ **[canvas](https://obsidian.md/canvas)**
+* [MindMup](https://www.mindmup.com/)
+* [FreeMind](https://freemind.sourceforge.net/)
+* [Kinopio](https://kinopio.club/)
+* [Mindomo](https://www.mindomo.com/)
+* [Yuque](https://www.yuque.com/)
+* [MindMapp](https://mindmapp.cedoor.dev/app)
+* [are.na](https://www.are.na/)
+* [Domino](https://kool.tools/domino)
+* [GitMind](https://gitmind.com/)
+* [xTiles](https://xtiles.app/en)
+* [Capacities](https://capacities.io/)
+* [bubbl](https://bubbl.us/)
+* [Heimer](https://github.com/juzzlin/Heimer)
+* [Cubox](https://cubox.cc/)
+* [vym](https://github.com/insilmaril/vym)
+* [Coggle](https://coggle.it/) - Collaborative Mind Mapping
+* [CardSmith](https://cardsmith.co/) - Collaborative Mind Mapping
+* [Memrey](https://www.memrey.com/) - Collaborative Mind Mapping
+* [MindMeister](https://www.mindmeister.com/) - Collaborative Mind Mapping
+* [Slatebox](https://slatebox.com/) - Collaborative Mind Mapping
 
 ***
 
