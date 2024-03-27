@@ -1477,17 +1477,18 @@
 
 ## ▷ Vim Tools
 
+* ⭐ **[Vim Bootstrap](https://vim-bootstrap.com/)** - Bootstrap Config for Vim
+* ⭐ **[NvChad](https://github.com/NvChad/NvChad)**, [AstroNvim](https://astronvim.com), [LazyVim](https://github.com/LazyVim/LazyVim) or [LunarVim](https://www.lunarvim.org/) - Neovim Configs
+* [DotFyle](https://dotfyle.com/) - Neovim Config Search
 * [Vim Plug](https://github.com/junegunn/vim-plug), [vim-pathogen](https://github.com/tpope/vim-pathogen) or [Shougo](https://github.com/Shougo/dein.vim) - Vim Plugin Managers
 * [VimAwesome](https://vimawesome.com/) - Vim Plugins
 * [nerdtree](https://github.com/preservim/nerdtree) - Vim Tree Explorer
 * [droidvim](https://github.com/shiftrot/droidvim) - Vim Android Frontend
 * [VimColorSchemes](https://vimcolorschemes.com/) - Vim Color Schemes
 * [The Ultimate vimrc](https://github.com/amix/vimrc) - Vim Config
-* [Vim Bootstrap](https://vim-bootstrap.com/) - Bootstrap Config for Vim
 * [Vim Markdown ](https://github.com/preservim/vim-markdown) or [Markdown Preview](https://github.com/iamcco/markdown-preview.nvim) - Markdown Plugin
 * [Lazy.nvim](https://github.com/folke/lazy.nvim) or [packer.nvim](https://github.com/wbthomason/packer.nvim) - Neovim Plugin Managers
 * [NeoVimCraft](https://neovimcraft.com/), [awesome-neovim##plugin](https://github.com/rockerBOO/awesome-neovim##plugin) - Neovim Plugins Collections
-* [AstroNvim](https://astronvim.com) [LazyVim](https://github.com/LazyVim/LazyVim), [DotFyle](https://dotfyle.com/), [NvChad](https://github.com/NvChad/NvChad), [LunarVim](https://www.lunarvim.org/) - Neovim Configs
 * [FireNVim](https://github.com/glacambre/firenvim) - Neovim in Browser
 * [neovide](https://github.com/neovide/neovide), [gnvim](https://github.com/vhakulinen/gnvim), [nvui](https://github.com/rohit-px2/nvui), [Neovim wiki##gui](https://github.com/neovim/neovim/wiki/Related-projects##gui) - Neovim GUIs
 * [instant.nvim](https://github.com/jbyuki/instant.nvim) - Collaborative Neovim Editing
