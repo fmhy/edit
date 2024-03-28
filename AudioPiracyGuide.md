@@ -88,7 +88,7 @@
 
 ## ▷ Streaming Apps
 
-* ⭐ **[Youtube-Music](https://th-ch.github.io/youtube-music/)**, [MooSync](https://moosync.app/), [SpoTube](https://spotube.krtirtho.dev/), [yewtube](https://github.com/mps-youtube/yewtube) or [Headset](https://headsetapp.co) - YouTube Music Clients
+* ⭐ **[Youtube-Music](https://th-ch.github.io/youtube-music/)**, [MooSync](https://moosync.app/), [SpoTube](https://spotube.krtirtho.dev/), [yewtube](https://github.com/mps-youtube/yewtube), [spmp](https://github.com/toasterofbread/spmp) or [Headset](https://headsetapp.co) - YouTube Music Clients
 * [nuclear](https://nuclear.js.org/) - Streaming / [GitHub](https://github.com/nukeop/nuclear) / [Discord](https://discord.com/invite/JqPjKxE)
 * [FunkWhale](https://funkwhale.audio/) - Streaming
 * [MP3Jam](https://www.mp3jam.org/) - Streaming
@@ -192,6 +192,7 @@
 * [RadioReference](https://www.radioreference.com/) or [morsecode.me](https://morsecode.me/) - Morse Code Radio / Communication
 * [Worldwide Radio](https://addons.mozilla.org/en-US/firefox/addon/worldwide-radio/) - Radio Extension
 * [Tempest](http://www.erikyyy.de/tempest/) - Use Monitor as AM Radio
+* [RadioSide](https://radioside.com/) - Internet Radio Receiver
 * [streamWriter](https://streamwriter.org/en/) - Internet Radio Audio Downloader
 * [castero](https://github.com/xgi/castero) - TUI Terminal Podcast Client
 * [Grover](https://www.microsoft.com/store/productId/9NBLGGH6C4BC) or [GPodder](https://gpodder.github.io/) - Podcast Client
@@ -801,6 +802,7 @@
 * [VST Torrents](https://vsttorrentz.net/)
 * [SPARTA](https://leomccormack.github.io/sparta-site/)
 * [PluginTorrent](https://plugintorrent.com/)
+* [Kits4Beats](https://kits4beats.com/) - [Telegram](https://t.me/kits4beats)
 * [AudioTools](https://audiotools.in/)
 * [IEM Plug-in Suite](https://plugins.iem.at/)
 * [HQVst](https://t.me/HQVst) - Telegram
