@@ -740,6 +740,9 @@
 * [NicoVideo](https://www.nicovideo.jp/) - Japanese YouTube Alternative
 * [momotheater](https://momotheater.com/) - Movies / Anime / Sub / 720p
 * [JP-Films](https://jp-films.com/) - Classic Japanese Movies / TV / 1080p
+* [Muse Asia](https://www.youtube.com/@MuseAsia) - Anime / Sub / Dub / 720p
+* [Ani-One Asia](https://www.youtube.com/@AniOneAsia) - Anime  / Sub / Dub / 1080p
+* [Pokémon Asia ENG](https://www.youtube.com/@PokemonAsiaENG) - Pokémon Anime / Dub / 1080p
 * [Abema](https://abema.tv/) - Live TV
 * [AQ Stream](https://aqstream.com/) - Live TV
 * [Lesics](https://youtube.com/@LesicsJPN) - Engineering Courses
