@@ -68,6 +68,7 @@
 * [BookSee](https://en.booksee.org/), [2](https://bookree.org/) - Books
 * [Bookstagram](https://vk.com/bookstagram_eng) - Books / Magazines
 * [WOW! eBook](https://www.wowebook.org/) - Books / Magazines / NSFW
+* [Docutr](https://www.docutr.com/) - Books / Magazines / Newspapers
 * [openlibrary](https://openlibrary.org/) - Books
 * [standardebooks](https://standardebooks.org) - Books
 * [Manybooks](https://manybooks.net/) - Books
@@ -722,7 +723,7 @@ Note - Keep in mind that sites in the manga section above also have manhua/manhw
 * [GoalKicker](https://books.goalkicker.com/)
 * [Flavio Copes](https://flaviocopes.com/)
 * [Free Ebooks Download List](https://free-ebook-download-links.blogspot.com/)
-* [EbookFoundation Programming Books](https://github.com/EbookFoundation/free-programming-books/)
+* [EbookFoundation Programming Books](https://ebookfoundation.github.io/free-programming-books/)
 * [free-python-books](https://github.com/pamoroso/free-python-books)
 * [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/) - Python Data Science / [GitHub](https://github.com/jakevdp/PythonDataScienceHandbook)
 * [Go Books](https://github.com/dariubs/GoBooks) - GoLang Books
