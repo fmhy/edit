@@ -395,16 +395,17 @@
 * 🌐 **[YT-DL GUI Index](https://www.reddit.com/r/youtubedl/wiki/info-guis)** - YouTube GUI Index
 * 🌐 **[YT-DL Script Index](https://github.com/TheFrenchGhosty/TheFrenchGhostys-Ultimate-YouTube-DL-Scripts-Collection)** - YouTube Download Scripts Index
 * ↪️ **[Multi-Site Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video-tools#wiki_.25BA_video_download)**
-* ⭐ **[YT-DLP](https://github.com/yt-dlp/yt-dlp)** or [YTDL-PATCHED](https://github.com/ytdl-patched/ytdl-patched) - YouTube Downloader
 * ⭐ **[Stacher](https://stacher.io/)** - YT-DL GUI
-* [Easy YT-DL Installer](https://github.com/kazukikasama/youtube-dlp-gui-installer) - YT-DL GUI
+* ⭐ **[YT-DLP](https://github.com/yt-dlp/yt-dlp)** or [YTDL-PATCHED](https://github.com/ytdl-patched/ytdl-patched) - YouTube Downloader
+* [yt-dlp-gui](https://github.com/kannagi0303/yt-dlp-gui) - YT-DL GUI / [Easy Installer](https://github.com/kazukikasama/youtube-dlp-gui-installer)
 * [Gropple](https://github.com/tardisx/gropple) - YT-DL GUI
 * [Tartube](https://tartube.sourceforge.io/) - YT-DL GUI
 * [media-downloader](https://github.com/mhogomchungu/media-downloader) - YT-DL GUI
+* [ytdlp-interface](https://github.com/ErrorFlynn/ytdlp-interface) - YT-DL GUI
 * [youtube-dl-gui](https://github.com/oleksis/youtube-dl-gui), [2](https://github.com/StefanLobbenmeier/youtube-dl-gui) - YT-DL GUI
-* [Cube YouTube Downloader](https://github.com/database64128/youtube-dl-wpf) - WPF YT-DL GUI
 * [Videomass](https://jeanslack.github.io/Videomass/) - YT-DL / FFmpeg GUI
-* [metube](https://github.com/alexta69/metube), [ytdlp-interface](https://github.com/ErrorFlynn/ytdlp-interface) or [yt-dlp-web-ui](https://github.com/marcopeocchi/yt-dlp-web-ui) - YT-DL Web UIs
+* [Cube YouTube Downloader](https://github.com/database64128/youtube-dl-wpf) - WPF YT-DL GUI
+* [metube](https://github.com/alexta69/metube) or [yt-dlp-web-ui](https://github.com/marcopeocchi/yt-dlp-web-ui) - Self-Hosted YT-DL WebUIs
 * [YouTube Qualities Size](https://greasyfork.org/en/scripts/404953-youtube-qualities-size) - Show YouTube File Sizes 
 * [totalsize](https://pypi.org/project/totalsize/) - Calculate Size of All Videos in a Playlist
 * [Poke](https://poketube.fun/download) - YouTube Downloader / [Discord](https://discord.gg/Kqdn8CHacP)
