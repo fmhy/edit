@@ -68,7 +68,7 @@
 * [TBlock](https://tblock.me/) - DNS Adblocking / [Filters](https://codeberg.org/tblock/filters)
 * [dog](https://dns.lookup.dog/) - DNS CLI
 * [Stubby](https://github.com/getdnsapi/stubby) - DNS Stub Resolver
-* [NextDNS](https://nextdns.io) - DNS Adblocking / [Leak Warning](https://redd.it/jt28e8) / [Guide](https://github.com/yokoffing/NextDNS-Config) / [Video](https://youtu.be/WUG57ynLb8I)
+* ⭐ [NextDNS](https://nextdns.io) - DNS Adblocking / [Guide](https://github.com/yokoffing/NextDNS-Config) / [Video](https://youtu.be/WUG57ynLb8I)
 * [DuckDNS](https://www.duckdns.org/), [FreeDNS](https://freedns.afraid.org/), [NoIP](https://www.noip.com/) or [Desec](https://desec.io/) - Dynamic DNS Service
 * [Phishing Army](https://phishing.army/) - DNS Phishing Blocklist
 * [BIND](https://gitlab.isc.org/isc-projects/bind9) - Portable DNS Protocol
