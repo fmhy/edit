@@ -703,7 +703,7 @@
 * [Arbital](https://arbital.com/) - Hybrid Blogging / Wiki Platform
 * [Haven](https://havenweb.org/) or [WriteFreely](https://writefreely.org/) - Self-hosted Blogging Platforms
 * [Multiverse](https://multiverse.plus/) - Make Highly Customizable Blogs
-* [Mataroa](https://mataroa.blog/), [Notepin](https://notepin.co/) or [smol.pub](https://smol.pub/) / [Key](https://m15o.ichi.city/smolpub/key-request.html) - Minimalist Blogging Platforms
+* [Mataroa](https://mataroa.blog/), [Zonelets](https://zonelets.net/), [Notepin](https://notepin.co/) or [smol.pub](https://smol.pub/) / [Key](https://m15o.ichi.city/smolpub/key-request.html) - Minimalist Blogging Platforms
 * [twtxt](https://github.com/buckket/twtxt) - Decentralized Minimalist Microblogging Service
 * [Emanates Docs](https://emanates.deepjyoti30.dev/) - Make GitHub-Based Blogs
 * [You Don't Need WP](https://www.youdontneedwp.com/) - Make Blogs with Google Docs
