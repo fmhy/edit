@@ -6,7 +6,7 @@
 
 # ► File Tools
 
-* ⭐ **[OpenWith](https://www.openwith.org/)** or [OpenMyFiles](https://www.openmyfiles.com/) - File Extension Libraries
+* ⭐ **[Fileinfo](https://fileinfo.com/)**, [OpenWith](https://www.openwith.org/) or [OpenMyFiles](https://www.openmyfiles.com/) - File Extension Libraries
 * ⭐ **[czkawka](https://github.com/qarmin/czkawka)** or [dupeGuru](https://dupeguru.voltaicideas.net/) - Duplicate File Finders
 * [horsicq](https://horsicq.github.io/) - File Tools / [GitHub](https://github.com/horsicq/)
 * [Beyond Compare](https://www.scootersoftware.com/) - File / Directory Comparison Tool / [Crack](https://rentry.co/FMHYBase64#beyond-compare-crack)
