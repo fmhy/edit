@@ -166,7 +166,7 @@
 * [GradientArt](https://gra.dient.art/) or [TailBlend](https://tailblend.vercel.app/) - Gradient Editor
 * [VeoLuz](https://jaredforsyth.com/veoluz/) - Photon Path Art Tool
 * [Canvas](https://www.nvidia.com/en-us/studio/canvas/) - Turn Simple Art into Photo Realistic Landscapes
-* [Lama Cleaner](https://lama-cleaner-docs.vercel.app/), [Inpaint](https://theinpaint.com/), [Magic Eraser](https://magicstudio.com/magiceraser), [Remover](https://remover.zmo.ai/), [IOPaint](https://github.com/Sanster/IOPaint), [Cleanup.pictures](https://cleanup.pictures/), [ObjectRemover](https://objectremover.com/), [Segment Anything](https://segment-anything.com/),  [ImageCleanr](https://www.imagecleanr.com), [Samist](https://github.com/dibrale/samist) or [sd-webui-segment-anything](https://github.com/continue-revolution/sd-webui-segment-anything) - Image Segmentation / Object Removal
+* [Lama Cleaner](https://lama-cleaner-docs.vercel.app/), [Inpaint](https://theinpaint.com/), [Magic Eraser](https://magicstudio.com/magiceraser), [Remover](https://remover.zmo.ai/), [IOPaint](https://github.com/Sanster/IOPaint), [Cleanup.pictures](https://cleanup.pictures/), [ObjectRemover](https://objectremover.com/), [Segment Anything](https://segment-anything.com/),  [ImageCleanr](https://www.imagecleanr.com), [Samist](https://github.com/dibrale/samist), [hama](https://www.hama.app/) or [sd-webui-segment-anything](https://github.com/continue-revolution/sd-webui-segment-anything) - Image Segmentation / Object Removal
 * [Supershots](https://superblog.ai/supershots/) - Add Backgrounds to Images
 * [Image Splitter](https://ruyili.ca/image-splitter/) - Split Images into Tiles
 * [PicFont](https://picfont.com/) - Add Text to Images
@@ -276,7 +276,7 @@
 * [FontIcon](https://gauger.io/fonticon/), [PFPMaker](https://pfpmaker.com/), [IconsFlow](https://iconsflow.com/), [Flat-Icon-Surge](https://flat-icon.surge.sh/), [favicon.io](https://favicon.io/) or [Favic-o-Matic](https://favicomatic.com/) - Icon / Logo Generators
 * [Logo Makr](https://logomakr.com/), [Logo Fast](https://shipfa.st/tools/logo-fast), [Hatchful](https://www.shopify.com/tools/logo-maker), [Logomak](https://logomak.com/), [The Logo Wizard](https://www.thelogowizard.com/), [DesignEvo](https://designevo.com/), [LogoFreeway](https://logofreeway.com/logos.php), [Logoshi](https://www.logoshi.com/), [OnlineLogoMaker](https://www.onlinelogomaker.com/), [Free Logo Maker](https://freelogomaker.net/), [LogoMaker](https://www.namecheap.com/logo-maker/app/new/) or [ACME](https://acme.com/labelmaker/) - Logo Creators / [Note](https://i.ibb.co/B3Mn3Hq/b7a4cf526ad1.png)
 * [JSLogo](https://www.calormen.com/jslogo/) - Logo Interpreter
-* [ArtFlow](https://app.artflow.ai/), [Photo A2E](https://photo.a2e.ai) [Avatar Mixer](https://kenney.itch.io/avatar-mixer), [Bitmoji](https://www.bitmoji.com/), [Avatar Maker](https://avatarmaker.com/), [Pravatar](https://pravatar.cc/), [MultiAvatar](https://multiavatar.com/), [Personas](https://personas.draftbit.com/), [react-nice-avatar](https://github.com/dapi-labs/react-nice-avatar) or [Avataaars](https://getavataaars.com/) - Face / Avatar Creators
+* [ArtFlow](https://app.artflow.ai/), [Photo A2E](https://photo.a2e.ai) [Avatar Mixer](https://kenney.itch.io/avatar-mixer), [Bitmoji](https://www.bitmoji.com/), [Avatar Maker](https://avatarmaker.com/), [Pravatar](https://pravatar.cc/), [MultiAvatar](https://multiavatar.com/), [Personas](https://personas.draftbit.com/), [react-nice-avatar](https://nice-avatar.dapi.to/) or [Avataaars](https://getavataaars.com/) - Face / Avatar Creators
 * [Method](https://editor.method.ac/) - SVG Editor
 * [SVGFilters](https://svgfilters.com/) - SVG Filter Builder
 * [Crayon](https://designstripe.com/crayon) or [SVGArtista](https://svgartista.net/) - SVG Animation Tools
@@ -455,7 +455,7 @@
 * [MemeCam](https://www.memecam.io/) - AI Meme Generator
 * [Memegine](https://memegine.com/) - Meme Search Engine
 * [MemeAtlas](https://www.memeatlas.com/) or [Templates](https://drive.google.com/drive/folders/1Z4PSi2XmZ6x8I891xZSg5Cl4oNEOIRhh) - Meme Templates
-* [iFake](https://ifaketextmessage.com/) - Make Fake Text Conversation
+* [iFake](https://ifaketextmessage.com/) or [Chat Animator](https://chat-animator.com/) - Make Fake Text Conversations
 * [Frinkiac](https://frinkiac.com/) - Simpsons Meme Generator 
 * [Morbotron](https://morbotron.com/) - Futurama Meme Generator
 * [BreakYourOwnNews](https://www.breakyourownnews.com/) - Breaking News Meme Generator
@@ -595,7 +595,7 @@
 * [FontAwesomePS](http://creativedo.co/FontAwesomePS) - Photoshop Icon Manager
 * [Adobe Bridge](https://adobe.com/products/bridge.html) - Adobe Assets Manager
 * [Image Colors](https://franciscouzo.github.io/image_colors/) - Image Color Scatter Plot 
-* [detectron2](https://github.com/facebookresearch/detectron2) - Object / Human Detection
+* [detectron2](https://detectron2.readthedocs.io/) - Object / Human Detection
 * [behind!](https://github.com/kubuzetto/behind) - View Background Images
 * [Visual Center](https://javier.xyz/visual-center/) - Find the Visual Center of an Image
 * [Lithophane](https://3dp.rocks/lithophane) - Image to Lithophane Converter
@@ -643,7 +643,7 @@
 * [nomacs](https://github.com/nomacs/nomacs)
 * [qimgv](https://github.com/easymodo/qimgv)
 * [PhotoQt](https://github.com/luspi/photoqt)
-* [PicView](https://github.com/Ruben2776/PicView)
+* [PicView](https://picview.org/)
 * [Image Eye](https://www.fmjsoft.com/imageeye.html)
 * [qView](https://interversehq.com/qview/)
 * [Quick Picture Viewer](https://moduleart.github.io/quick-picture-viewer/)
