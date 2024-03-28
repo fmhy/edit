@@ -5668,6 +5668,7 @@ features:
 * [blackhost](https://blackhost.xyz/?id=pst)
 * [protectedtext](https://www.protectedtext.com/)
 * [pasteheaven](https://pasteheaven.com/)
+* [bin.gy](https://bin.gy/)
 * [shortbin](http://bin.shortbin.eu:8080/)
 * [paste.fo](https://paste.fo/)
 * [throwbin](https://throwbin.in/)
@@ -5687,6 +5688,7 @@ features:
 * [centos](https://paste.centos.org/)
 * [blankslate](https://blankslate.io/)
 * [microbin](https://microbin.eu/)
+* [cryptgeon](https://cryptgeon.org/) - Single View Pastebin
 * [Snips.sh](https://snips.sh/) - Self-Hosted
 * [MarkdownPastebin](https://markdownpastebin.com/) - Markdown Pastebin
 * [Mystb.in](https://mystb.in/), [codeshare](https://codeshare.io/), [paste.mod](https://paste.mod.gg/) or [snippet.host](https://snippet.host/) - Code Pastebins
@@ -5697,7 +5699,7 @@ features:
 
 * ⭐ **[DeepLX](https://github.com/OwO-Network/DeepLX)** or [DeepL](https://www.deepl.com/translator)
 * ⭐ **[Google Translate](https://translate.google.com/)**
-* [Crow Translate](https://github.com/crow-translate/crow-translate) or [Argos](https://github.com/argosopentech/argos-translate) - Translation Apps
+* [Crow Translate](https://crow-translate.github.io/) or [Argos](https://github.com/argosopentech/argos-translate) - Translation Apps
 * [Translate Shell](https://www.soimort.org/translate-shell/) - Translation CLI / [GitHub](https://github.com/soimort/translate-shell)
 * [OnlineDocTranslator](https://www.onlinedoctranslator.com/en/) - Document Translator
 * [LegaleseDecoder](https://legalesedecoder.com/free-legal-document-to-plain-english-translator/) - Legal Document Translator
