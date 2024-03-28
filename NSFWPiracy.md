@@ -488,7 +488,7 @@
 * [FapCraft](https://fapcraft.org/) - NSFW Minecraft Mod
 * [Minegasm](https://www.minegasm.net/) - Connect Minecraft to Sex Toys
 * [AdultOyunÇeviri](https://adultoyunceviri.com) - Turkish Game Localizations
-* [G-Point Adult](https://www.gpadult.com) - Turkish Game Localizations / [Discord](https://discord.com/invite/gpadult)
+* [G-Point Adult](https://www.gpadult.com) - Turkish Game Localizations
 * [YetişkinÇeviri](https://www.ademyurt.com/kategori/android/) - Turkish Game Localizations / [Discord](https://discord.com/invite/GQeQRzAKCR)
 
 ***
