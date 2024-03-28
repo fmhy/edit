@@ -290,7 +290,7 @@
 * ⭐ **[phys](https://phys.org/)** - Latest / News / Article / Physics
 * ⭐ **[The Feynman Lectures](https://www.feynmanlectures.caltech.edu/)** - Physics Lectures
 * ⭐ **[Physics Simulations](https://www.csun.edu/science/software/simulations/physics.html)**, [Mujoco](https://github.com/google-deepmind/mujoco), [Physics Animations](https://www.animations.physics.unsw.edu.au/), [oPhysics](https://ophysics.com/index.html) or [MyPhysicsLab](https://www.myphysicslab.com/index-en.html) - Physics Simulations / Animations
-* [PhysicsClassroom](https://www.physicsclassroom.com/) - Physics Lessons
+* [PhysicsClassroom](https://www.physicsclassroom.com/) or [Splung](https://www.splung.com/) - Physics Lessons
 * [PhysicsTravelGuide](https://physicstravelguide.com/) - Physics Explanations
 * [Algodoo](http://www.algodoo.com/) - Interactive Physics Tool
 * [QPaths](https://qpaths.deqart.com/) - Learn Basic Quantum Terms
@@ -942,12 +942,14 @@
 * [Vocabulary](https://www.vocabulary.com/) - Dictionary
 * [TheFreeDictionary](https://www.thefreedictionary.com/) - Dictionary
 * [WordSense](https://www.wordsense.eu/) - Dictionary
+* [Dictionary](https://www.dictionary.com/) - Dictionary / Thesaurus
 * [Spellcheck](https://www.spellcheck.net/) - Dictionary / Spell Check
 * [Webopedia](https://www.webopedia.com/) or [TechTerms](https://techterms.com/) - Tech Dictionary
 * [Why The Fluff](https://www.whythefluff.com/) - Common Jargon Dictionary
 * [Phrontistery](https://phrontistery.info/) - Obscure Word Dictionary
 * [EtymOnline](https://www.etymonline.com/) or [The Tower of Babel](https://starlingdb.org/) - Etymologies
 * [LexiLogos](https://www.lexilogos.com/english/index.htm) - Multi Language Dictionary Index
+* [EncycloReader](https://encycloreader.org/) - Encyclopedia Search
 * [Britannica](https://www.britannica.com/) - Encyclopedia
 * [EverybodyWiki](https://en.everybodywiki.com/) - Encyclopedia
 * [Encyclopedia](https://www.encyclopedia.com/) - Encyclopedia
@@ -957,13 +959,12 @@
 * [Conze.pt](https://conze.pt/) - Encyclopedia
 * [InfoPlease](https://www.infoplease.com/) - Encyclopedia
 * [Refdesk](https://www.refdesk.com/factency.html) - Encyclopedias
-* [Unionpedia](https://en.unionpedia.org/) - Word Relationships
 * [Words to Use](https://www.words-to-use.com/) - Find Alternative Words 
 * [Abbreviations](https://www.abbreviations.com/) - Abbreviations
 * [AcronymFinder](https://www.acronymfinder.com/) - Abbreviations / Acronyms
 * [Chat Words Dictionary](https://chatworddictionary.com/) - Chat Abbreviations
 * [lengusa](https://lengusa.com/) or [Fraze.it](https://fraze.it/) - Sentence Search
-* [Dictionary](https://www.dictionary.com/) - Dictionary / Thesaurus
+* [Word Hippo](https://www.wordhippo.com/) - Thesaurus
 * [Thesaurus.com](https://www.thesaurus.com/) - Thesaurus
 * [PowerThesaurus](https://www.powerthesaurus.org/) - Thesaurus
 * [VisualThesaurus](https://www.visualthesaurus.com/) - Thesaurus
@@ -972,11 +973,11 @@
 * [Synonym.com](https://www.synonym.com/) - Synonyms
 * [Feeels](https://feelu.vercel.app/) - Emotion Synonym Chart
 * [WikiDiff](https://wikidiff.com/) - Difference Between Any Words
+* [Unionpedia](https://en.unionpedia.org/), [Lexipedia](https://www.lexipedia.com/), [VisuWords](https://visuwords.com/)  or [WordWeb](https://wordwebs.app/) - Word Connections / Visualizers
 * [DoesNotTranslate](https://doesnottranslate.com/) or [Eunoia](https://eunoia.world/) - Words with No Translation
 * [Tip of my Tongue](https://chir.ag/projects/tip-of-my-tongue/) - Find Words you Can't Remember
 * [Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/index.html), [IEP](https://iep.utm.edu/) or [nLab](https://ncatlab.org/) - Philosophy Encyclopedias / [Search](https://www.visualizingsep.com/)
 * [TheIdioms](https://www.theidioms.com/) - Idiom Dictionary
-* [Lexipedia](https://www.lexipedia.com/) or [WordWeb](https://wordwebs.app/) - Word Connections
 * [RhymeZones](https://www.rhymezone.com/) or [Rhymer](https://rhymer.com/) - Rhyme Dictionary
 * [The Dictionary of Obscure Sorrows](https://www.dictionaryofobscuresorrows.com/) - Dictionary of Sorrows
 * [TheDevilsDictionary](https://www.thedevilsdictionary.com/) - Cynical Dictionary
