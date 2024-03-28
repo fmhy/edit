@@ -1812,19 +1812,26 @@
 
 ## ▷ YouTube Downloaders
 
-* 🌐 **[YouTube-DL Scripts](https://github.com/TheFrenchGhosty/TheFrenchGhostys-Ultimate-YouTube-DL-Scripts-Collection)** - YouTube Download Scripts Index
+* 🌐 **[YT-DL GUI Index](https://www.reddit.com/r/youtubedl/wiki/info-guis)** - YouTube GUI Index
+* 🌐 **[YT-DL Script Index](https://github.com/TheFrenchGhosty/TheFrenchGhostys-Ultimate-YouTube-DL-Scripts-Collection)** - YouTube Download Scripts Index
 * ↪️ **[Multi-Site Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video-tools#wiki_.25BA_video_download)**
-* ⭐ **[YT-DLP](https://github.com/yt-dlp/yt-dlp)** or [YTDL-PATCHED](https://github.com/ytdl-patched/ytdl-patched) - YouTube Downloader / [Easy Installer](https://github.com/kazukikasama/youtube-dlp-gui-installer), [2](https://github.com/StefanLobbenmeier/youtube-dl-gui) / [GUI Index](https://www.reddit.com/r/youtubedl/wiki/info-guis)
+* ⭐ **[YT-DLP](https://github.com/yt-dlp/yt-dlp)** or [YTDL-PATCHED](https://github.com/ytdl-patched/ytdl-patched) - YouTube Downloader
+* ⭐ **[stacher](https://stacher.io/)** - YT-DL GUI
+* [Easy YT-DL Installer](https://github.com/kazukikasama/youtube-dlp-gui-installer) - YT-DL GUI
+* [youtube-dl-gui](https://github.com/StefanLobbenmeier/youtube-dl-gui) - YT-DL GUI
+* [Gropple](https://github.com/tardisx/gropple) - YT-DL GUI
+* [Tartube](https://tartube.sourceforge.io/) - YT-DL GUI
+* [media-downloader](https://github.com/mhogomchungu/media-downloader) - YT-DL GUI
+* [youtube-dl-gui](https://github.com/oleksis/youtube-dl-gui) - YT-DL GUI
+* [Cube YouTube Downloader](https://github.com/database64128/youtube-dl-wpf) - WPF YT-DL GUI
+* [Videomass](https://jeanslack.github.io/Videomass/) - YT-DL / FFmpeg GUI
+* [metube](https://github.com/alexta69/metube), [ytdlp-interface](https://github.com/ErrorFlynn/ytdlp-interface) or [yt-dlp-web-ui](https://github.com/marcopeocchi/yt-dlp-web-ui) - YT-DL Web UIs
 * [YouTube Qualities Size](https://greasyfork.org/en/scripts/404953-youtube-qualities-size) - Show YouTube File Sizes 
 * [totalsize](https://pypi.org/project/totalsize/) - Calculate Size of All Videos in a Playlist
 * [Poke](https://poketube.fun/download) - YouTube Downloader / [Discord](https://discord.gg/Kqdn8CHacP)
 * [YoutubeDL-Material](https://github.com/Tzahi12345/YoutubeDL-Material) - YouTube Downloader
 * [YoutubeDownloader](https://github.com/Tyrrrz/YoutubeDownloader) - YouTube Downloader
 * [YouTubePlaylist](https://youtubeplaylist.cc/) - Playlist Downloader
-* [metube](https://github.com/alexta69/metube), [ytdlp-interface](https://github.com/ErrorFlynn/ytdlp-interface) or [yt-dlp-web-ui](https://github.com/marcopeocchi/yt-dlp-web-ui) - YT-DL Web UIs
-* [Gropple](https://github.com/tardisx/gropple), [Tartube](https://tartube.sourceforge.io/), [media-downloader](https://github.com/mhogomchungu/media-downloader), [stacher](https://stacher.io/) or [youtube-dl-gui](https://github.com/oleksis/youtube-dl-gui) - YT-DL GUIs
-* [Cube YouTube Downloader](https://github.com/database64128/youtube-dl-wpf) - WPF YT-DL GUI
-* [Videomass](https://jeanslack.github.io/Videomass/) - YT-DL / FFmpeg GUI
 * [YouTube Thumbnail Grabber](https://boingboing.net/features/getthumbs), [YTI](https://youtubethumbnailimage.com/), [thumbnailsave](https://thumbnailsave.com/), [thumbnail-download](https://thumbnail-download.com/) or [Get YT Thumbnail](https://www.get-youtube-thumbnail.com/) - Download YouTube Thumbnails
 * [YouTube Comment Downloader](https://github.com/egbertbouman/youtube-comment-downloader) - YouTube Comment Download Script
 * [DL YouTube Videos without Extensions](https://onehack.us/t/how-to-download-youtube-videos-without-external-tools-or-extensions/)
@@ -1968,7 +1975,7 @@
 
 * ⭐ **[Trends24](https://trends24.in/)**, [Sotwe](https://www.sotwe.com/) or [Hashtagify](https://hashtagify.me/) - Trending Hashtags Trackers
 * ⭐ **[/r/Twitter](https://reddit.com/r/Twitter)** - Twitter Subreddit
-* [TumblThree](https://github.com/TumblThreeApp/TumblThree) or [Thread Safe](https://github.com/dkaslovsky/thread-safe) - Twitter / Tumblr Backup Tools
+* [TumblThree](https://tumblthreeapp.github.io/TumblThree/) or [Thread Safe](https://github.com/dkaslovsky/thread-safe) - Twitter / Tumblr Backup Tools
 * [Typefully](https://typefully.com/) - Schedule Tweets
 * [Chirr App](https://getchirrapp.com/) - Turn Articles into Twitter Threads / [Firefox](https://addons.mozilla.org/en-US/firefox/addon/chirr-app/) / [Chrome](https://chromewebstore.google.com/detail/chirr-app/cmbconaimdngicdnbpjnjocbpkdpmfkg)
 * [OneMillionTweetMap](https://onemilliontweetmap.com/) - Real-Time Tweet Map 
