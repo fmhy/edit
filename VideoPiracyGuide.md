@@ -174,6 +174,7 @@
 * [Tezuka Productions Official](https://www.youtube.com/@tezukaproductions-en) - Osamu Tezuka Anime
 * [Crunchyroll](https://www.crunchyroll.com/videos/anime) - Sub / Dub / [US Proxy](https://addons.mozilla.org/en-US/firefox/addon/crunchy-unblocker/) / [Intro Skip](https://github.com/aniskip/aniskip-extension)
 * [Themes.moe](https://themes.moe/) or [AnimeThemes](https://animethemes.moe/) - Anime Themes
+* [Miu](https://discord.gg/pwkuanXBJh) - WIP Anime OPs Site
 * [AnimeMusicVideos](https://www.animemusicvideos.org/) - Fan-Made Anime Music Videos
 * [Anime Clips](https://discord.gg/5UXfcJf4Hj) - Anime Clips
 * [Muse Asia](https://www.youtube.com/@MuseAsia) - Sub / Dub / 720p / Asia Only
