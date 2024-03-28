@@ -586,7 +586,7 @@
 * [Airtable](https://www.airtable.com/) - Build Collaborative Apps
 * [WhoPaysWriters](http://whopayswriters.com/) - Freelance Writing Publications
 * [Gerev](https://github.com/GerevAI/gerev) - Search Within Workplace Apps
-* [Pimp My Money](https://pimpmymoney.net/) - Digital Marketing Course Torrents
+* [Pimp My Money](https://pimpmymoney.net/) (torrent) or [HubSpot Academy](https://academy.hubspot.com/) - Digital Marketing Courses
 * [Statista](https://statista.com/) - Market Statistic Search
 * [Systeme](https://systeme.io/) or [SendPulse](https://sendpulse.com/) - Marketing Tools
 * [Marmof](https://marmof.com/) - Creator / Marketing AI
@@ -913,7 +913,7 @@
 * [Acoustic Gender](https://acousticgender.space/) - Measure Voice Pitch
 * [Forebears](https://forebears.io/) or [BehindTheName](https://www.behindthename.com/) - Name Etymologies
 * [Timeline Cascade](https://markwhen.com/) / [GitHub](https://github.com/mark-when/markwhen), [Timeline JS](https://timeline.knightlab.com/) or [Time.Graphics](https://time.graphics/) - Create Timelines
-* [Timeliner](https://github.com/mholt/timeliner) - Create Personal Digital Timeline
+* [Timeliner](https://timelinize.com/) - Create Personal Digital Timeline
 * [Familypedia](https://familypedia.fandom.com/), [Gramps](https://gramps-project.org/blog/) or [WikiTree](https://wikitree.com/) - Family Trees
 * [Ravelry](https://ravelry.com) - Fiber Artist Tools
 * [ThistoThat](https://www.thistothat.com/) - How to Glue Anything to Anything
