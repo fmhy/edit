@@ -449,6 +449,7 @@
 * [2ix2](https://www.2ix2.com/) - Live TV
 * [tvpinto](https://www.tvpinto.com/) - Live TV
 * [dtvd](https://dtvd.net/) - Live TV
+* [Studyflix](https://studyflix.de/) - Courses
 * [mediathekviewweb](https://mediathekviewweb.de/) - IPTV 
 * [hoerspielprojekt](https://www.hoerspielprojekt.de/) - Radio
 
@@ -538,6 +539,7 @@
 * ⭐ **[MoviesMod](https://moviesmod.zip/)** - Movies / TV / Sub / Dub / 1080p / [Telegram](https://telegram.dog/moviesmodorg) / [Bypass](https://greasyfork.org/en/scripts/474747)
 * ⭐ **[Filmycity](https://filmycity.beauty/)** - Movies / TV / Anime / 1080p
 * ⭐ **[AToZ Cartoonist](https://www.atozcartoonist.com/)** - Cartoons / Anime / Sub / Dub / 1080p / [Discord](https://discord.com/invite/EpQn49C4jX) / [Link Bypasser](https://greasyfork.org/en/scripts/484907)
+* ⭐ **[ToonsHub](https://www.toonshub.xyz/)** - Anime / Dub / 1080p / [Telegram](https://t.me/s/toonshubupdates) / [Discord](https://discord.com/invite/2mPFKykW4j)
 * ⭐ **[Free Lossless Desi Music](https://hindi-lossless.blogspot.com/)** - Music / FLAC
 * [Mallumv](https://mallumv.rent/) - Movies / Sub / Dub / 1080p / [Telegram](https://t.me/MalluMvoff)
 * [SSR Movies](https://ssrmovies.golf/) - Movies / TV / Sub / Dub / 1080p / [Telegram](https://telegram.dog/+MF2EXeitLjMxY2Ux)
