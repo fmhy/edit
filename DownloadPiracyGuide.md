@@ -284,7 +284,7 @@
 
 * ⭐ **[sabnzbd](https://sabnzbd.org/)** / [Grabber](https://github.com/lem6ns/sabgrab) / [Firefox](https://addons.mozilla.org/en-US/firefox/addon/nzb-unity/) / [Chrome](https://chromewebstore.google.com/detail/nzb-unity/mpejfoghnejnbfkpbiafklkmlhebkapb)
 * ⭐ **[NZBUnity](https://github.com/tumblfeed/nzbunity)** - Send Usenet Files to Client
-* [nzbget](https://github.com/nzbgetcom/nzbget), [2](https://nzbget.com/download/)
+* [nzbget](https://nzbget.com/) / [GitHub](https://github.com/nzbgetcom/nzbget)
 * [Usenet File Hashes](https://gist.github.com/4chenz/de3a3490aff19fd72e4fdd9b7dafc8f4) - Link File Hashes
 * [Tg-UsenetBot](https://github.com/sanjit-sinha/Tg-UsenetBot) - Usenet Telegram Bot
 
