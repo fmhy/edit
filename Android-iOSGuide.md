@@ -62,7 +62,6 @@
 * ⭐ **[APKPure](https://apkpure.net/)**
 * [Play Search](https://playsearch.kaki87.net/) - Advanced Playstore Search
 * [Aurora Store](https://auroraoss.com/) - Alt App Store / [GitLab](https://gitlab.com/AuroraOSS/AuroraStore)
-* [Accrescent](https://accrescent.app/) - Alt App Store
 * [Appteka](https://appteka.store/) - Alt App Store
 * [Android Ultimate Collection](https://xdaforums.com/t/android-ultimate-collection-guides.4513231/)
 * [APKCombo](https://apkcombo.com/)
@@ -218,7 +217,7 @@
 * [googlecameraport](https://www.celsoazevedo.com/files/android/google-camera) or [Camator](https://gcamator.com/) - Google Cam Downloads / [Telegram](https://t.me/googlecameraport) / [Mods](https://apkw.ru/) / [XML Configs](https://t.me/xmlshamimmod)
 * [Libre Camera](https://github.com/iakmds/librecamera), [ProofMode](https://gitlab.com/guardianproject/proofmode/proofmode-android) or [Open Camera](https://sourceforge.net/projects/opencamera/) - FOSS Camera Apps
 * [FreeDcam](https://github.com/KillerInk/FreeDcam) - Extra Camera Features
-* [RecordYou](https://github.com/you-apps/RecordYou), [notesGPT](https://usenotesgpt.com/) or [AudioNote](https://github.com/certified84/AudioNote) - Video / Voice Recorders
+* [RecordYou](https://github.com/you-apps/RecordYou), [notesGPT](https://usenotesgpt.com/) or [AudioNote](https://certified84.github.io/AudioNote/) - Video / Voice Recorders
 * [Jitsi](https://jitsi.org/) - Video Chat
 * [RemoteVideoCam](https://github.com/izivkov/RemoteVideoCam) - Video Lan
 * [Minutiae](https://play.google.com/store/apps/details?id=com.minutiae) or [1 Second Everyday](https://1se.co/) - Video-a-Day App
@@ -290,7 +289,7 @@
 * [android-call-recorder](https://gitlab.com/axet/android-call-recorder) - Call Recorder
 * [Should I Answer?](https://www.shouldianswer.net/), [Yet Another Call Blocker](https://f-droid.org/en/packages/dummydomain.yetanothercallblocker/) / [GitLab](https://gitlab.com/xynngh/YetAnotherCallBlocker), [Silence](https://f-droid.org/packages/me.lucky.silence), [NoPhoneSpam](https://gitlab.com/bitfireAT/NoPhoneSpam) or [Hiya](https://www.hiya.com/) - Block Spam Calls
 * [The National Do Not Call Registry](https://www.donotcall.gov/) - Opt Out of Telemarketing Calls 
-* [Scammer.Info](https://scammer.info/) / [Discord](https://discord.com/invite/nUThJjK) - Scam Numbers Database
+* [Scammer.Info](https://scammer.info/) - Scam Numbers Database
 * [Spectrum Ownership Map](https://specmap.sequence-omega.net/) - Mobile Network Comparisons
 * [Prepaid SIM Cards](https://prepaid-data-sim-card.fandom.com/wiki/Prepaid_SIM_with_data) - Prepaid Data SIM Card Wiki
 * [Walkie-Talkie](https://walkie-talkie.io/) or [Codec2 Talkie](https://github.com/sh123/codec2_talkie) - Walkie-Talkie Apps
@@ -303,7 +302,7 @@
 ## ▷ Root / Flash
 
 * ⭐ **[Magisk](https://github.com/topjohnwu/Magisk)**, [KernelSU](https://kernelsu.org/), [Magisk Monet](https://github.com/pranshoe/Magisk-Monet), [MagiskOnWSALocal](https://github.com/LSPosed/MagiskOnWSALocal), [Pixel Launcher](https://github.com/saitamasahil/Pixel-Launcher-Extended) or [Mtk Easy Su](https://github.com/JunioJsv/mtk-easy-su) - Android Root Tools
-* ⭐ **Magisk Tools** - [Manager](https://github.com/MRepoApp/MRepo/) / [Mods](https://t.me/magiskmod_update) / [Support Layer](https://github.com/axonasif/rusty-magisk) / [SafetyNet Fix](https://github.com/chiteroman/PlayIntegrityFix) / [SafetyNet Fix Guide](https://xdaforums.com/t/module-play-integrity-fix-safetynet-fix.4607985/page-177#post-89189572) / [Modules](https://www.androidacy.com/magisk-modules-repository/) / [Alt Repo](https://github.com/Magisk-Modules-Alt-Repo)
+* ⭐ **Magisk Tools** - [Manager](https://github.com/MRepoApp/MRepo/) / [Mods](https://t.me/magiskmod_update) / [Support Layer](https://github.com/axonasif/rusty-magisk) / [PlayIntegrity Fix](https://github.com/chiteroman/PlayIntegrityFix) / [Fix Guide](https://xdaforums.com/t/module-play-integrity-fix-safetynet-fix.4607985/page-177#post-89189572) / [Modules](https://www.androidacy.com/magisk-modules-repository/) / [Alt Repo](https://github.com/Magisk-Modules-Alt-Repo)
 * ⭐ **[Android Docker](https://gist.github.com/FreddieOliveira/efe850df7ff3951cb62d74bd770dce27)** - Run Docker on Android
 * [Root Checker](https://play.google.com/store/apps/details?id=com.joeykrim.rootcheck) - Root Checker
 * [ADB-and-FastbootPlusPlus](https://github.com/K3V1991/ADB-and-FastbootPlusPlus) - ADB / Fastboot Programs
@@ -478,7 +477,7 @@
 * [FreeBrowser](https://freebrowser.org/) - Internet Censorship Circumvention / [Wiki](https://github.com/greatfire/wiki)
 * [Gnirehtet](https://github.com/Genymobile/gnirehtet) - Reverse Tethering
 * [Gugal](https://gitlab.com/narektor/gugal) - Web Search App
-* [SubX](https://play.google.com/store/apps/details?id=com.alkapps.subx), [Billbot](https://play.google.com/store/apps/details?id=com.billbot) or [SubscriptionManager](https://play.google.com/store/apps/details?id=de.simolation.subscriptionmanager) - Track Subscription Services
+* [SubX](https://play.google.com/store/apps/details?id=com.alkapps.subx) or [SubscriptionManager](https://play.google.com/store/apps/details?id=de.simolation.subscriptionmanager) - Track Subscription Services
 * [WiFiman](https://play.google.com/store/apps/details?id=com.ubnt.usurvey), [WiFiAnalyzer](https://vremsoftwaredevelopment.github.io/WiFiAnalyzer/) or [WLANScanner](https://github.com/bewue/WLANScanner) - Network Scanners
 * [Fing](https://www.fing.com/products/fing-app) - Network Toolkit
 * [MACsposed](https://github.com/DavidBerdik/MACsposed) - Mac Address Spoofing / Root
@@ -528,6 +527,7 @@
 * ⭐ **[Aria2App](https://github.com/devgianlu/Aria2App)**, [Jdownloader](https://my.jdownloader.org/), [1DM](https://play.google.com/store/apps/details?id=idm.internet.download.manager.adm.lite), [FDM](https://play.google.com/store/apps/details?id=org.freedownloadmanager.fdm) or [Navi](https://github.com/TachibanaGeneralLaboratories/download-navi) - Download Managers
 * [Round Sync](https://github.com/newhinton/Round-Sync), [MetaCTRL](https://metactrl.com/) or [FolderSync](https://www.tacit.dk/) - Multi-Site Cloud Storage File Managers
 * [dropbox](https://www.dropbox.com/) / [Sync](https://play.google.com/store/apps/details?id=com.ttxapps.dropsync) / [GUI](https://github.com/howeyc/crocgui) - Cloud Storage
+* [aQRoss](https://aqross.app/) - QR Code File Sharing
 * [Clipt](https://play.google.com/store/apps/details?id=studio.onelab.clipboard) - File Sync / Sharing
 * [InShare](https://play.google.com/store/apps/details?id=sharefiles.sharemusic.shareapps.filetransfer) - File Sync / Sharing
 * [Arc](https://play.google.com/store/apps/details?id=com.quadren.arc) - File Sync / Sharing
@@ -561,7 +561,6 @@
 * [Calendar Notifications](https://play.google.com/store/apps/details?id=com.tuogol.calendar.notification) - View Calendar as Notifications
 * [Birday](https://github.com/m-i-n-a-r/birday) - Birthday Reminders / Calendar
 * [Sectograph](https://play.google.com/store/apps/details?id=prox.lab.calclock) - Daily Planner
-* [Treep](https://play.google.com/store/apps/details?id=ai.treep) - Find Things To Do
 * [unhabits](https://github.com/iSoron/uhabits), [HabitBuilder](https://github.com/ofalvai/HabitBuilder), [MoreDays](https://gitlab.com/wuapps/moredays), [Goals](https://play.google.com/store/apps/details?id=io.rosenpin.goals) or [MiindLeak](https://www.mindleak.app/) - Habit Trackers
 * [Farhan](https://github.com/tahaak67/Farhan) - Control Phone Addiction
 * [Forest](https://forestapp.cc/), [MyBrain](https://github.com/mhss1/MyBrain), [Time Cop](https://timecop.app/), [Success](https://eveningkid.com/success/), [Goodtime](https://github.com/adrcotfas/Goodtime) or [Mind Leak](https://play.google.com/store/apps/details?id=de.mdiener.android.mindleak) - Productivity Trackers
@@ -608,7 +607,7 @@
 * ⭐ **[Termux](https://termux.com/)**, [Limbo](https://github.com/limboemu/limbo) or [TermOne Plus](https://termoneplus.com/) - Windows Emulator on Android / Terminal Emulators / OS Environments
 * ⭐ **Termux Tools** - [YT-DL](https://github.com/OzakIOne/termux-youtube-dl), [2](https://github.com/khansaad1275/Termux-YTD) / [Video Downloader](https://github.com/AbirHasan2005/LR-YTDL) / [GUI](https://github.com/termux/termux-gui) / [ADB / Fastboot Tools](https://github.com/MasterDevX/Termux-ADB) / [Beautify](https://github.com/mayTermux/myTermux)
 * ⭐ **[WSABuilds](https://github.com/MustardChef/WSABuilds)** - Android Emulator on Windows / Windows Subsystem / Pre-built Binaries
-* ⭐ **[WayDroid](https://waydro.id/)** / **[GitHub](https://github.com/waydroid)**, [Redroid](https://github.com/remote-android/redroid-doc), [PostmarketOS](https://www.postmarketos.org/), [Ubuntu Touch](https://ubuntu-touch.io/get-ubuntu-touch), [Plasma Mobile](https://plasma-mobile.org/) or [Mobian](https://mobian-project.org/) - Android Emulator on Linux 
+* ⭐ **[WayDroid](https://waydro.id/)** / **[GitHub](https://github.com/waydroid)**, [Redroid](https://github.com/remote-android/redroid-doc), [PostmarketOS](https://www.postmarketos.org/), [Ubuntu Touch](https://ubuntu-touch.io/get-ubuntu-touch), [Plasma Mobile](https://plasma-mobile.org/) or [Mobian](https://mobian-project.org/) - Android Emulator on Linux
 * ⭐ **[Android Studio Emulator](https://developer.android.com/studio/run/managing-avds#createavd)**
 * ⭐ **[mobox](https://github.com/olegos2/mobox)**, [Box64Droid](https://github.com/Ilya114/Box64Droid) or [Winlator](https://github.com/brunodev85/winlator) -  Windows Emulator on Android
 * ⭐ **[Google Play Games](https://play.google.com/googleplaygames)** - Android Mobile Games on Windows
@@ -616,6 +615,7 @@
 * [BlissOS](https://blissos.org/) - Android Emulator on Windows / [GitHub](https://github.com/blissroms-x86)
 * [PhoenixOS - BR](https://discord.gg/BQ4td84) - Android Emulator on Windows
 * [PhoenixOS Darkmatter](https://aopc.dev/r/phoenixos-darkmatter-supercharged-for-everyone.2/) - Android Emulator on Windows / [Discord](https://discord.com/invite/AcGAGrzZ4e)
+* [Andronix](https://andronix.app/) - Linux Emulator for Android
 * [AOPC](https://aopc.dev/) - Android Desktop OS Forums
 * [Docker Android](https://github.com/budtmo/docker-android) - Android on Docker
 * [BareNox](https://forum.xda-developers.com/t/tool-guide-barenox-modded-nox-android-emulator.4468425/) or [Nox](https://www.bignox.com/) - Android Emulator on Windows [Screenshot](https://i.ibb.co/MkdmtYr/647f0f4f051c.jpg) / [Debloat Guide](https://gist.github.com/TameemS/72c4b92131977aced56e727d51599a48), [2](https://codefaq.org/emulator/how-to-remove-bloatware-on-nox-and-ldplayer-emulator/) / [Video](https://youtu.be/IjI_-pQUOhQ)
@@ -669,7 +669,7 @@
 * [OpenComicVine](https://github.com/proninyaroslav/OpenComicVine) - Comic Tracker
 * [Shosetsu](https://shosetsu.app/) - Light Novels / [GitHub](https://gitlab.com/shosetsuorg/shosetsu) / [Dev Builds](https://github.com/shosetsuorg/shosetsu-preview) / [Discord](https://discord.gg/ttSX7gB) 
 * [NovelLibrary](https://github.com/gmathi/NovelLibrary) - Light Novels / [Discord](https://discord.gg/qFZX4vdEdF)
-* [LNReader](https://github.com/LNReader/lnreader), [Baruch](https://github.com/adreeeyan/baruch), [Ranobe](https://github.com/ranobe-org/ranobe), [IReader](https://github.com/IReaderorg/IReader) or [QuickNovel](https://apt.izzysoft.de/fdroid/index/apk/com.lagradost.quicknovel) - Light Novels
+* [LNReader](https://github.com/LNReader/lnreader), [Baruch](https://github.com/adreeeyan/baruch), [Ranobe](https://github.com/ranobe-org/ranobe), [IReader](https://ireaderorg.netlify.app/) or [QuickNovel](https://apt.izzysoft.de/fdroid/index/apk/com.lagradost.quicknovel) - Light Novels
 * [SoftGoods](https://softgoods.app/) - Fan Fiction
 * [Libby](https://apps.apple.com/us/app/libby-by-overdrive/id1076402606) - Borrow Digital Library Books
 * [Bionic Reading](https://play.google.com/store/apps/details?id=com.bionic_reading_app) - Reading Fixation Points
@@ -719,7 +719,7 @@
 * [HZP](https://hzp.co/) - Solfeggio Frequency Player
 * [Quorus](https://quorus.net/) - Collaborative Playlists
 * [Airbuds](https://play.google.com/store/apps/details?id=com.capp.poplive) - Friends Listening Activity
-* [UpNext GPT](https://github.com/dokar3/upnext-gpt) - Playlist Generator
+* [UpNext GPT](https://upnextgpt.vercel.app/) - Playlist Generator
 * [Vocal Remover](https://separatemusic.com/) - Remove Vocal Tracks
 * [MusicSpeedChanger](https://musicspeedchanger.com/) - Music Speed Changer
 * [Video to MP3 Converter](https://play.google.com/store/apps/details?id=mp3videoconverter.videotomp3.videotomp3converter) - Video to MP3
@@ -939,7 +939,7 @@
 * [Nicegram](https://nicegram.app/) or [Swiftgram](https://apps.apple.com/us/app/swiftgram/id6471879502) - Telegram Apps
 * [ipamagnatios](https://t.me/ipamagnatios) - Modded TikTok App
 * [Watusi](https://watusi.fouadraheb.com/) - Modded WhatsApp
-* [GoodLinks](https://goodlinks.app/), [Omnivore](https://github.com/omnivore-app/omnivore) or [DoMarks](https://www.domarks.app/) - Bookmark Managers
+* [GoodLinks](https://goodlinks.app/), [Omnivore](https://omnivore.app/) or [DoMarks](https://www.domarks.app/) - Bookmark Managers
 * [Audoir](https://audoir.com/) - Lyric Text Editor
 * [Group Transcribe](https://apps.apple.com/us/app/group-transcribe/id1527145885) - Real Time Transcribing
 * [TranslatedLabs](https://translatedlabs.com/) - Translation Apps
