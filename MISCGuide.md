@@ -464,7 +464,6 @@
 * [INCIDecoder](https://incidecoder.com/) - Skincare Ingredient Lists
 * [AMMFitness](https://www.ammfitness.co.uk/) - Fitness / Nutrition Info 
 * [The Fitness Wiki](https://thefitness.wiki/) - Fitness Information Wiki
-* [Huberman Protocols](https://www.hubermanprotocols.org/) - Andrew Huberman Protocols
 * [Google Fit](https://www.google.com/fit/) - Activity Coach
 * [Calistree](https://calistree.app/) - Exercise Search
 * [No Equipment Ab Exercises](https://i.ibb.co/YdNy3K2/12df795c3938.jpg) - Ab Exercise Diagram
@@ -494,6 +493,7 @@
 * [Fitness Blender](https://www.fitnessblender.com/videos?exclusive%5B%5D=0) - Workout Videos
 * [Workout.lol](https://workout.lol/) - Create Workout Plans
 * [DAREBEE](https://darebee.com/) - Fitness Plans / Workouts
+* [Huberman Protocols](https://www.hubermanprotocols.org/) - Health / Fitness Tips
 * [Hevy](https://www.hevyapp.com/), [Massive](https://gitea.presley.nz/brandon.presley/Massive), [GymRoutines](https://codeberg.org/noahjutz/GymRoutines), [Boostcamp](https://www.boostcamp.app/) or [FitHero](https://fithero.app/) - Workout Trackers
 * [OpenTrack](https://opentracksapp.com/) - Sports Tracking App
 * [GoldenCheetah](https://www.goldencheetah.org/), [AAT](https://bailu.ch/aat/) - Cycling / Biking Trackers
