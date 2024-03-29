@@ -742,6 +742,7 @@
 * [Musekit](https://github.com/Kwasow/Musekit) - Tuning Fork / Metronome
 * [SongSync](https://github.com/Lambada10/SongSync) - Download Lyrics
 * [FastLyrics](https://github.com/TecCheck/FastLyrics) - Find Lyrics for Playing Song
+* [Soundbound App](https://soundbound.app/) - Downloader & Streaming App [Telegram](https://t.me/soundboundofficial) [Playstore](https://play.google.com/store/apps/details?id=in.shabinder.soundbound) /  supports YT, Spotify, Saavn, Gaana, Soundcloud and more with lyrics.
 
 ***
 
