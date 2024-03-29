@@ -89,6 +89,7 @@
 ## ▷ Streaming Apps
 
 * ⭐ **[Youtube-Music](https://th-ch.github.io/youtube-music/)**, [MooSync](https://moosync.app/), [SpoTube](https://spotube.krtirtho.dev/), [yewtube](https://github.com/mps-youtube/yewtube), [spmp](https://github.com/toasterofbread/spmp) or [Headset](https://headsetapp.co) - YouTube Music Clients
+* [Soundbound App](https://t.me/soundboundofficial) - Downloader and Streaming App, supports YT, Spotify, Saavn, Gaana, Soundcloud and more.
 * [nuclear](https://nuclear.js.org/) - Streaming / [GitHub](https://github.com/nukeop/nuclear) / [Discord](https://discord.com/invite/JqPjKxE)
 * [FunkWhale](https://funkwhale.audio/) - Streaming
 * [MP3Jam](https://www.mp3jam.org/) - Streaming
