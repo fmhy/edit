@@ -18,7 +18,7 @@
 * [PolicyPlus](https://github.com/Fleex255/PolicyPlus) - Local Group Policy Editor
 * [PowerPlanSwitcher](https://www.microsoft.com/en-us/p/powerplanswitcher/9nblggh556l3) - Quickly Change Power Schemes
 * [Scheduler](https://www.splinterware.com/products/scheduler.html) or [TaskRunner](https://www.keyefficiency.com/) - System Task Scheduler
-* [Process Explorer](https://learn.microsoft.com/en-us/sysinternals/downloads/process-explorer) or [Process Hacker](https://processhacker.sourceforge.io/) - Process Monitors
+* [Process Explorer](https://learn.microsoft.com/en-us/sysinternals/downloads/process-explorer) or [System Informer](https://systeminformer.sourceforge.io/) - Process Monitors
 * [SuperF4](https://stefansundin.github.io/superf4/) or [FKill](https://github.com/sindresorhus/fkill-cli) - Process Killers
 * [Dependencies](https://github.com/lucasg/Dependencies) - View Application Dependencies
 * [RegExp](https://github.com/zodiacon/TotalRegistry), [ripgrep-all](https://github.com/phiresky/ripgrep-all) or [Registry-Finder](https://registry-finder.com/) - Registry Explorers
