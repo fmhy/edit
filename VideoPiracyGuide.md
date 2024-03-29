@@ -171,6 +171,9 @@
 * [MyAnime](https://myanime.live/) - Chinese Anime / Sub / 1080p
 * [Animekhor](https://animekhor.xyz/) - Chinese Anime / Sub / 1080p
 * [Crimsonfansubs](https://crimsonfansubs.com/) - Chinese Anime / Sub / 1080p / Sub / [Discord](https://discord.gg/PmYn97vtue)
+* [Muse Asia](https://www.youtube.com/@MuseAsia) - Anime / Sub / Dub / 720p / Asian VPN Needed
+* [Ani-One Asia](https://www.youtube.com/@AniOneAsia) - Anime  / Sub / Dub / 1080p / Asian VPN Needed
+* [Pokémon Asia ENG](https://www.youtube.com/@PokemonAsiaENG) - Pokémon Anime / Dub / 1080p / Asian VPN Needed
 * [Yuna](https://yuna.moe/), [Layendimator](https://github.com/Layendan/Layendanimator) or [Miru](https://miru.js.org/en/) - Anime Streaming Apps
 * [Tezuka Productions Official](https://www.youtube.com/@tezukaproductions-en) - Osamu Tezuka Anime
 * [Crunchyroll](https://www.crunchyroll.com/videos/anime) - Sub / Dub / [US Proxy](https://addons.mozilla.org/en-US/firefox/addon/crunchy-unblocker/) / [Intro Skip](https://github.com/aniskip/aniskip-extension)
@@ -714,15 +717,9 @@
 * ⭐ **[Anidex](https://anidex.info/)** - Sub / Dub
 * ⭐ **[Hi10Anime](https://hi10anime.com/)** - Sub
 * ⭐ **[bakabt](https://bakabt.me/)** - Sub / Dub / [Interviews](https://wiki.bakabt.me/index.php/Sign_up)
-* ⭐ **[Anime Torrent CSE](https://cse.google.com/cse?cx=006516753008110874046:lamzt6ls4iz)**
+* [Anime Torrent CSE](https://cse.google.com/cse?cx=006516753008110874046:lamzt6ls4iz)
 * [SneeDex](https://sneedex.moe/) or [SeaDex](https://releases.moe/) / [Discord](https://discord.com/invite/jPeeZewWRn) - Anime Video Quality Guides
 * [Fansubcar](https://index.fansubcar.tel/) - Fansubbers Index
-* [SubsPlease](https://subsplease.org/) - Sub
-* [DameDesuYo](https://damedesuyo.com/) - Sub 
-* [Chihiro](https://chihiro-subs.com/) - Sub
-* [AnimeRG](https://animereleasegroup.blogspot.com/) - Sub / Dub
-* [Some-Stuffs](https://some-stuffs.com/) - Sub / [Discord](https://discord.gg/wYgXer2)
-* [Erai-Raws](https://www.erai-raws.info/) - Sub
 * [Play Anime](http://127.0.0.1:43110/1AnimePihDhcbVdK1nvnbSEtH4oKU8RAYG/) - Sub / [ZeroNet Required](https://zeronet.io/)
 * [Miru](https://github.com/ThaUnknown/miru) - Stream Anime Torrents
 
