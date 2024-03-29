@@ -55,6 +55,7 @@
 * ⭐ **[BlahDNS](https://blahdns.com/)** - DNS Adblocking
 * ⭐ **[YogaDNS](https://yogadns.com/)**  - DNS Adblocking
 * ⭐ **[Mullvad DNS](https://mullvad.net/en/help/dns-over-https-and-dns-over-tls/)** - DNS Adblocking
+* ⭐ **[NextDNS](https://nextdns.io)** - DNS Adblocking / [Guide](https://github.com/yokoffing/NextDNS-Config) / [Video](https://youtu.be/WUG57ynLb8I)
 * ⭐ **[serverless-dns](https://github.com/serverless-dns/serverless-dns)** - Serverless DNS
 * [ControlD](https://controld.com/) - DNS Manager
 * [Adguard DNS](https://adguard-dns.io/) - DNS Adblocking
@@ -68,7 +69,6 @@
 * [TBlock](https://tblock.me/) - DNS Adblocking / [Filters](https://codeberg.org/tblock/filters)
 * [dog](https://dns.lookup.dog/) - DNS CLI
 * [Stubby](https://github.com/getdnsapi/stubby) - DNS Stub Resolver
-* ⭐ [NextDNS](https://nextdns.io) - DNS Adblocking / [Guide](https://github.com/yokoffing/NextDNS-Config) / [Video](https://youtu.be/WUG57ynLb8I)
 * [DuckDNS](https://www.duckdns.org/), [FreeDNS](https://freedns.afraid.org/), [NoIP](https://www.noip.com/) or [Desec](https://desec.io/) - Dynamic DNS Service
 * [Phishing Army](https://phishing.army/) - DNS Phishing Blocklist
 * [BIND](https://gitlab.isc.org/isc-projects/bind9) - Portable DNS Protocol
