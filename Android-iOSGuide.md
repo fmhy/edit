@@ -24,6 +24,7 @@
 * [CorePatch](https://github.com/LSPosed/CorePatch) - Disable Signature Verification / [Telegram](https://t.me/core_patch_chat)
 * [Zygisk Detach](https://github.com/j-hc/zygisk-detach) - Detach APKs from Google Play Store
 * [UpgradeAll](https://github.com/DUpdateSystem/UpgradeAll), [APKUpdater](https://github.com/rumboalla/apkupdater) or [Obtainium](https://github.com/ImranR98/Obtainium/) - APK Updaters
+* [Beta Maniac](https://play.google.com/store/apps/details?id=it.mirko.beta) - Beta Release Notifications
 * [Let Me Downgrade](https://github.com/DavidBerdik/Let-Me-Downgrade) - Downgrade Apps on Android 12/13 / Root
 * [APKAdmin](https://apkadmin.com/) - APK Hosting Site
 
@@ -201,7 +202,14 @@
 
 ## ▷ Battery Tools
 
-* [Electron](https://play.google.com/store/apps/details?id=com.mahersafadi.electron), [SaverTuner](https://codeberg.org/s1m/savertuner) (root), [Charge Meter](https://play.google.com/store/apps/details?id=dev.km.android.chargemeter), [BatteryGuru](https://rentry.co/FMHYBase64#battery-guru), [Batt](https://gitlab.com/narektor/batt), [aBattery](https://play.google.com/store/apps/details?id=me.linshen.abattery) or [AccuBattery](https://play.google.com/store/apps/details?id=com.digibites.accubattery) - Battery Monitors / Managers
+* [Electron](https://play.google.com/store/apps/details?id=com.mahersafadi.electron) - Battery Monitor / Manager
+* [SaverTuner](https://codeberg.org/s1m/savertuner) - Battery Monitor / Manager / Root
+* [Charge Meter](https://play.google.com/store/apps/details?id=dev.km.android.chargemeter) - Battery Monitor / Manager
+* [BatteryGuru](https://rentry.co/FMHYBase64#battery-guru) - Battery Monitor / Manager
+* [Batt](https://gitlab.com/narektor/batt) - Battery Monitor / Manager
+* [aBattery](https://play.google.com/store/apps/details?id=me.linshen.abattery) - Battery Monitor / Manager
+* [AccuBattery](https://play.google.com/store/apps/details?id=com.digibites.accubattery) - Battery Monitor / Manager
+* [Battarang](https://github.com/ni554n/battarang-notifier-android) - Battery Monitor / Manager
 * [ClassicPowerMenu](https://github.com/KieronQuinn/ClassicPowerMenu) - Android Power Menu Replacement / Root
 * [Hail](https://github.com/aistra0528/Hail) - Auto-Deactivate Unused Apps / Root
 * [Tweaker](https://github.com/zacharee/Tweaker) - Android System Tweaks / Features
@@ -233,6 +241,7 @@
 * [Gcam-Services-Provider](https://github.com/lukaspieper/Gcam-Services-Provider) - Use Google Cam Without Google Play 
 * [Secure Camera](https://play.google.com/store/apps/details?id=app.grapheneos.camera.play), [BinaryEye](https://github.com/markusfisch/BinaryEye) or [Code Scanner](https://github.com/czlucius/code-scanner) - QR / Barcode Scanners
 * [Colorize Images](https://rentry.co/FMHYBase64#colorize-images), [Phototune](https://rentry.co/FMHYBase64#phototune) or [Remini](https://rentry.co/FMHYBase64#remini) - Colorize Images
+* [Color Camera](https://play.google.com/store/apps/details?id=theindusdeveloper.com.colorcamera) - Change Image Colors
 * [Photo Lab](https://ilixa.com/8bitphotolab.php) - Give Images a Retro Look 8Bit
 * [starryai](https://starryai.com/) - Generate Art from Text Prompt
 * [Inspiral](https://inspiral.nathanfriend.io/) - Create Spirograph Art
@@ -306,11 +315,11 @@
 * ⭐ **[Android Docker](https://gist.github.com/FreddieOliveira/efe850df7ff3951cb62d74bd770dce27)** - Run Docker on Android
 * [Root Checker](https://play.google.com/store/apps/details?id=com.joeykrim.rootcheck) - Root Checker
 * [ADB-and-FastbootPlusPlus](https://github.com/K3V1991/ADB-and-FastbootPlusPlus) - ADB / Fastboot Programs
-* [LiveBoot](https://play.google.com/store/apps/details?id=eu.chainfire.liveboot&hl=en_IN) - Logcat / Dmesg Boot Animation
+* [LiveBoot](https://play.google.com/store/apps/details?id=eu.chainfire.liveboot&hl=en_IN) - LogCat / Dmesg Boot Animation
 * [LogFox](https://github.com/F0x1d/LogFox) - LogCat Reader
 * [Amazing Temp Root](https://forum.xda-developers.com/t/amazing-temp-root-for-mediatek-armv8-2020-08-24.3922213/) - MediaTek Temp Root
 * [TWRP Root](https://twrp.me/) / [Telegram](https://t.me/samsung_twrp_root/78379) or [UnofficialTWRP](https://unofficialtwrp.com/) - TWRP Root
-* [SkyHawk](https://skyhawkrecovery.github.io/) / [GitHub](https://github.com/SHRP), [PitchBlack](https://pitchblackrecovery.com/) or [OrangeFox](https://wiki.orangefox.tech/en/home) / [GitHub](https://gitlab.com/OrangeFox/misc/appdev/app) - Custom Recovery Firmware
+* [SkyHawk](https://skyhawkrecovery.github.io/) / [GitHub](https://github.com/SHRP) or [OrangeFox](https://wiki.orangefox.tech/en/home) / [GitHub](https://gitlab.com/OrangeFox/misc/appdev/app) - Custom Recovery Firmware
 * [SmartPack-Kernel-Manager](https://github.com/SmartPack/SmartPack-Kernel-Manager) - Kernel Manager
 * [SWAP](https://rentry.co/FMHYBase64#swap) - Create SWAP file without Root
 * [Smali Patcher](https://forum.xda-developers.com/t/module-smali-patcher-7-4.3680053/) - Android System Patcher
@@ -327,6 +336,7 @@
 * ⭐ **[CustomRomBay](https://customrombay.org/)** - ROMs Compatibility Search
 * ⭐ **[GrapheneOS](https://grapheneos.org/)** - Privacy-Based OS
 * [CalyXOS](https://calyxos.org/) - Privacy-Based OS
+* [DivestOS](https://divestos.org/) - Privacy-Based OS
 * [LineageOS](https://www.lineageos.org/) - CyanogenMod Fork / [MicroG](https://lineage.microg.org/)
 * [BlissROMs](https://blissroms.org/) - Customizable / Open-Source OS
 * [PixelExperience](https://get.pixelexperience.org/) - AOSP ROM w/ Google Pixel Features
@@ -348,7 +358,7 @@
 * [Smart AutoClicker](https://github.com/Nain57/Smart-AutoClicker) - Auto Clicker
 * [Arts & Culture](https://play.google.com/store/apps/details?id=com.google.android.apps.cultural) - Explore Art
 * [Chai](https://www.chai-research.com/) - Roleplaying Chatbots
-* [FUTO](https://voiceinput.futo.org/) or [Dicio](https://github.com/Stypox/dicio-android) - Voice Assistants
+* [VoiceGPT](https://github.com/WSTxda/Plugin-VoiceGPT), [FUTO](https://voiceinput.futo.org/) or [Dicio](https://github.com/Stypox/dicio-android) - Voice Assistants
 * [Audio-Recorder](https://gitlab.com/axet/android-audio-recorder/tree/HEAD), [android-audio-recorder](https://gitlab.com/axet/android-audio-recorder) or [Audio Recorder](https://github.com/vivekweb2013/audio-recorder) - Audio Recorders
 * [Noiseun Canceller](https://play.google.com/store/apps/details?id=com.jazibkhan.noiseuncanceller) - Audio Surrounding Recorder
 * [Voiceliner](https://a9.io/voiceliner/) - Voice Memos / [GitHub](https://github.com/maxkrieger/voiceliner)
@@ -452,7 +462,7 @@
 * ⭐ **[KeePassDX](https://www.keepassdx.com/)**, **[BitWarden](https://play.google.com/store/apps/details?id=com.x8bit.bitwarden)**, [Keyspace](https://keyspace.cloud/), [AuthPass](https://authpass.app/), [KeyPass](https://github.com/yogeshpaliyal/KeyPass) or [Keepass2Android](https://github.com/PhilippC/keepass2android) - Password Managers
 * ⭐ **[PairVPN Hotspot](https://pairvpn.com/hotspot)**, [Tetherfi](https://github.com/pyamsoft/tetherfi) or [NetShare](https://netshare.app/) - Create Wi-Fi Hotspots
 * ⭐ **[Pojav](https://pojavlauncherteam.github.io/)** - Mobile Minecraft Launcher
-* [Feeder](https://f-droid.org/en/packages/com.nononsenseapps.feeder/), [Twine](https://github.com/msasikanth/twine), [FeedMe](https://github.com/seazon/FeedMe), [news](https://github.com/bubelov/news) or [ReadYou](https://github.com/Ashinch/ReadYou) - RSS Readers
+* [Feeder](https://f-droid.org/en/packages/com.nononsenseapps.feeder/), [Twine](https://github.com/msasikanth/twine), [FeedMe](https://github.com/seazon/FeedMe), [news](https://github.com/bubelov/news), [nunti](https://gitlab.com/ondrejfoltyn/nunti) or [ReadYou](https://github.com/Ashinch/ReadYou) - RSS Readers
 * [Mitch](https://sr.ht/~gardenapple/mitch/) - Mobile Frontend for itch.io
 * [PINCredible](https://github.com/cyb3rko/pincredible) - PIN Manager
 * [Link Manager](https://play.google.com/store/apps/details?id=com.michaelflisar.linkmanager), [Shiori](https://github.com/DesarrolloAntonio/Shiori-Android-Client) or [Omnivore](https://omnivore.app/) - Bookmark Managers
@@ -554,14 +564,13 @@
 
 * ↪️ **[Text Editors / To-Do](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_android_note_apps)**
 * [Git Journal](https://gitjournal.io/) - Mobile Markdown Notes
-* [AndrOpen](https://www.andropenoffice.com/) - Office Suite
 * [Sleep as Android](https://sleep.urbandroid.org/), [Chronos](https://github.com/meenbeese/Chronos), [ClockYou](https://github.com/you-apps/ClockYou) or [AlarmClock](https://github.com/yuriykulikov/AlarmClock) - Clocks / Alarms
 * [Etar](https://github.com/Etar-Group/Etar-Calendar), [JTX](https://jtx.techbee.at/), [digical](https://digibites.nl/digical) or [TimeTreeApp](https://timetreeapp.com/intl/en/) - Calendars
 * [QRAlarm](https://github.com/sweakpl/qralarm-android) - Scan QR Code to Turn Off Alarm
 * [Calendar Notifications](https://play.google.com/store/apps/details?id=com.tuogol.calendar.notification) - View Calendar as Notifications
 * [Birday](https://github.com/m-i-n-a-r/birday) - Birthday Reminders / Calendar
 * [Sectograph](https://play.google.com/store/apps/details?id=prox.lab.calclock) - Daily Planner
-* [unhabits](https://github.com/iSoron/uhabits), [HabitBuilder](https://github.com/ofalvai/HabitBuilder), [MoreDays](https://gitlab.com/wuapps/moredays), [Goals](https://play.google.com/store/apps/details?id=io.rosenpin.goals) or [MiindLeak](https://www.mindleak.app/) - Habit Trackers
+* [unhabits](https://github.com/iSoron/uhabits), [HabitBuilder](https://github.com/ofalvai/HabitBuilder), [MoreDays](https://gitlab.com/wuapps/moredays), [Goals](https://play.google.com/store/apps/details?id=io.rosenpin.goals), [TheFor](https://thefor.xyz/) or [MiindLeak](https://www.mindleak.app/) - Habit Trackers
 * [Farhan](https://github.com/tahaak67/Farhan) - Control Phone Addiction
 * [Forest](https://forestapp.cc/), [MyBrain](https://github.com/mhss1/MyBrain), [Time Cop](https://timecop.app/), [Success](https://eveningkid.com/success/), [Goodtime](https://github.com/adrcotfas/Goodtime) or [Mind Leak](https://play.google.com/store/apps/details?id=de.mdiener.android.mindleak) - Productivity Trackers
 * [DetoxDroid](https://github.com/flxapps/DetoxDroid) - Make Your Phone Less Distracting
@@ -609,7 +618,7 @@
 * ⭐ **[WSABuilds](https://github.com/MustardChef/WSABuilds)** - Android Emulator on Windows / Windows Subsystem / Pre-built Binaries
 * ⭐ **[WayDroid](https://waydro.id/)** / **[GitHub](https://github.com/waydroid)**, [Redroid](https://github.com/remote-android/redroid-doc), [PostmarketOS](https://www.postmarketos.org/), [Ubuntu Touch](https://ubuntu-touch.io/get-ubuntu-touch), [Plasma Mobile](https://plasma-mobile.org/) or [Mobian](https://mobian-project.org/) - Android Emulator on Linux
 * ⭐ **[Android Studio Emulator](https://developer.android.com/studio/run/managing-avds#createavd)**
-* ⭐ **[mobox](https://github.com/olegos2/mobox)**, [Box64Droid](https://github.com/Ilya114/Box64Droid) or [Winlator](https://github.com/brunodev85/winlator) -  Windows Emulator on Android
+* ⭐ **[mobox](https://github.com/olegos2/mobox)**, [Box64Droid](https://github.com/Ilya114/Box64Droid), [Vectras](https://github.com/epicstudios856/Vectras-VM-Android) or [Winlator](https://github.com/brunodev85/winlator) -  Windows Emulators on Android
 * ⭐ **[Google Play Games](https://play.google.com/googleplaygames)** - Android Mobile Games on Windows
 * [Android x86](https://www.android-x86.org/) - Android Emulator on Windows / [Installer](https://aopc.dev/r/advanced-android-x86-installer-for-windows.61/) / [Source](https://www.android-x86.org/source.html) / [Smart Dock](https://github.com/axel358/smartdock)
 * [BlissOS](https://blissos.org/) - Android Emulator on Windows / [GitHub](https://github.com/blissroms-x86)
@@ -653,13 +662,13 @@
 # ► Android Reading
 
 * ↪️ **[Android Ebook Readers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/reading#wiki_.25BA_ebook_readers)**
-* ⭐ **[Openlib](https://github.com/dstark5/Openlib)** - Free Books
+* ⭐ **[Openlib](https://github.com/dstark5/Openlib)** - Free Books / Anna’s Archive
 * ⭐ **[Mobilism](https://forum.mobilism.org/app/)** / [User Ranks](https://pastebin.com/pZuuMxYm) - Free Books
 * ⭐ **[KafkaArchives](https://www.kafkaarchives.com/)** - Archive.org Books / Audiobooks
 * ⭐ **[Librera](https://librera.mobi/)** or **[Lithium](https://play.google.com/store/apps/details?id=com.faultexception.reader)** - Ebook Reader
 * ⭐ **[Readera](https://play.google.com/store/apps/details?id=org.readera)** - PDF Reader
 * [Project Gutenberg](https://github.com/Pool-Of-Tears/Myne) - Free Books
-* [Openreads](https://github.com/mateusz-bak/openreads-android), [NeverTooManyBooks](https://github.com/tfonteyn/NeverTooManyBooks) or [Basmo](https://basmo.app/) - Book Managers / Trackers
+* [Openreads](https://github.com/mateusz-bak/openreads), [NeverTooManyBooks](https://github.com/tfonteyn/NeverTooManyBooks) or [Basmo](https://basmo.app/) - Book Managers / Trackers
 * [Wikipedia](https://play.google.com/store/apps/details?id=org.wikipedia) - Wikipedia App / [Beta](https://play.google.com/store/apps/details?id=org.wikipedia.beta)
 * [Moon+ Reader](https://www.moondownload.com/) / [Themes](https://rentry.co/moontheme), [CoolReader](https://apt.izzysoft.de/fdroid/index/apk/org.coolreader), [BookReader](https://gitlab.com/axet/android-book-reader) or [Prestigio](https://play.google.com/store/apps/details?id=com.prestigio.ereader) - Ebook Readers
 * [Sav PDF Viewer Pro](https://github.com/Sav22999/sav-pdf-viewer-pro) or [Secure PDF Viewer](https://github.com/GrapheneOS/PdfViewer) - PDF Reader
@@ -863,6 +872,7 @@
 * [FreeTubeCordova](https://github.com/MarmadileManteater/FreeTubeCordova)
 * [Float Tube](https://play.google.com/store/apps/details?id=com.xpp.tubeAssistant) - Floating YouTube Player
 * [YouTubeAdAway](https://github.com/wanam/YouTubeAdAway) - YouTube Adblocker
+* [VideoSummarizer](https://videosummarizer.net/) - YouTube Video Summaries
 * [Revanced CLI Troubleshooting](https://sodawithoutsparkles.github.io/revanced-troubleshooting-guide/06-revanced-cli/)
 * [YouTubeDL Android](https://github.com/yausername/youtubedl-android), [Seal](https://github.com/JunkFood02/Seal), [ytdlnis](https://github.com/deniscerri/ytdlnis) or [SongTube](https://github.com/SongTube/SongTube-App) - YouTube Audio / Video Downloaders
 
