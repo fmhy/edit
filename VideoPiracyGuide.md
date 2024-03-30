@@ -66,7 +66,6 @@
 * [MidnightPulp](https://www.midnightpulp.com/) - Movies / 720p
 * [Afdah](https://afdah2.com/) - Movies / 720p
 * [Flixtor](https://flixtor.to/) - Movies / TV / 720p / Movies Older Than 6 Months For Premium Only
-* [JustBinge](https://justbinge.lol/) - Movies / TV / Anime / API / 1080p
 * [GoMo](https://gomo.to/) - Movies / TV / Anime / API / 1080p
 * [SuperEmbed](https://www.superembed.stream/) - Movies / TV / API / 1080p
 * [2embed](https://www.2embed.cc/) - Movies / TV / API / 1080p
@@ -385,7 +384,6 @@
 * [Time4TV](https://time4tv.online/) - TV / Sports
 * [time4tv.top](https://time4tv.top/) - TV / Sports
 * [CXtv](https://www.cxtvlive.com/) - TV / Sports
-* [ProLive](https://prolive.tv/) - TV / Sports
 * [TV247](https://tv247.us/) - TV / Sports
 * [TvFlix](https://tvflix.netlify.app/) - TV / Sports
 * [FreeInterTV](http://www.freeintertv.com/) - TV / Sports
@@ -544,7 +542,6 @@
 * ⭐ **[MovieParadise](https://movieparadise.org/)** - Movies / TV / 1080p / **[DM for Invite](https://www.reddit.com/message/compose?to=nbatman)** / Invite is needed to unlock 1fichier links
 * ⭐ **[Drama Day](https://dramaday.me/)** - Asian Drama / 1080p
 * ⭐ **[Video Download CSE](https://cse.google.com/cse?cx=006516753008110874046:wevn3lkn9rr)** / [CSE 2](https://cse.google.com/cse?cx=89f2dfcea452fc451) / [CSE 3](https://cse.google.com/cse?cx=aab218d0aa53e3578)
-* [TvSeriesnMovies](https://www.tvseriesnmovies.com/) - Movies / TV / Anime / 4K / 1080p
 * [DDLBase](https://ddlbase.net/) - Movies / TV / 4K
 * [KatMovieHD](https://katmoviehd.ac/) - Movies / TV / Anime / 1080p / [Telegram](https://t.me/joinchat/TMuzf8VYH7M1YWVh)
 * [RareLust](https://rarelust.com/) - Rare Movies / NSFW / 1080p
