@@ -260,7 +260,7 @@
 
 ## ▷ Keyboard / Text
 
-* [openboard](https://github.com/openboard-team/openboard), [HeliBoard](https://github.com/Helium314/HeliBoard), [Flickboard](https://github.com/nightkr/flickboard), [Thumb-Key](https://github.com/dessalines/thumb-key) or [Unexpected Keyboard](https://github.com/Julow/Unexpected-Keyboard) - Keyboard Apps
+* [HeliBoard](https://github.com/Helium314/HeliBoard), [Flickboard](https://github.com/nightkr/flickboard), [Thumb-Key](https://github.com/dessalines/thumb-key) or [Unexpected Keyboard](https://github.com/Julow/Unexpected-Keyboard) - Keyboard Apps
 * [AnySoftKeyboard](https://anysoftkeyboard.github.io/) / [GitHub](https://github.com/AnySoftKeyboard/AnySoftKeyboard) or [Florisboard](https://github.com/florisboard/florisboard) - Incognito Keyboard
 * [NotificationDictionary](https://github.com/tirkarthi/NotificationDictionary) - Dictionary App
 * [DeepLAndroid](https://github.com/sakusaku3939/DeepLAndroid), [Arna Translate](https://github.com/MahanRahmati/translate), [Instalate](https://gitlab.com/concept1tech/instalate), [TranslateYou](https://github.com/you-apps/TranslateYou) or [SimplyTranslate](https://manerakai.github.io/simplytranslate_mobile/) - Translation Apps
