@@ -103,7 +103,7 @@
 * ⭐ **[Just Player](https://github.com/moneytoo/Player)**
 * [MX Player](https://rentry.co/FMHYBase64#mx-player) / [Codec](https://github.com/USBhost/MX_FFmpeg)
 
-[VLC](https://www.videolan.org/vlc/download-android.html), [mpv-android](https://github.com/mpv-android/mpv-android), [Nova Video Player](https://github.com/nova-video-player), [Fermata Media Player](https://github.com/AndreyPavlenko/Fermata), [ExoPlayer](https://github.com/google/ExoPlayer), [Aos AVP](https://github.com/nova-video-player/aos-AVP), [SPlayer](https://splayer.dev/), [Next Player](https://github.com/anilbeesetti/nextplayer), [M3UAndroid](https://github.com/realOxy/M3UAndroid)
+[VLC](https://www.videolan.org/vlc/download-android.html), [mpv-android](https://github.com/mpv-android/mpv-android), [Nova Video Player](https://github.com/nova-video-player), [Fermata Media Player](https://github.com/AndreyPavlenko/Fermata), [ExoPlayer](https://github.com/google/ExoPlayer), [Aos AVP](https://github.com/nova-video-player/aos-AVP), [SPlayer](https://splayer.dev/), [Next Player](https://github.com/anilbeesetti/nextplayer), [M3UAndroid](https://github.com/realOxy/M3UAndroid) / [Telegram](https://t.me/m3u_android)
 
 ***
 

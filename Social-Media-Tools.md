@@ -128,7 +128,7 @@
 * [Craig](https://craig.chat/) - Voice Channel Recorder Bot / [Backup](https://craig.chat/giarc/)
 * [MonitoRSS](https://monitorss.xyz/) - RSS Discord Bot
 * [Wallabot](https://github.com/FahadBinHussain/wallabot) - Wallabag Discord Bot
-* [Discord Music Bot](https://github.com/SudhanPlayz/Discord-MusicBot), [Music-bot](https://github.com/ZerioDev/Music-bot), [Chip](https://chipbot.gg/), [MusicBot](https://github.com/jagrosh/MusicBot) or [EvoBot](https://github.com/eritislami/evobot) - Music Bots
+* [Discord Music Bot](https://github.com/SudhanPlayz/Discord-MusicBot), [Music-bot](https://github.com/ZerioDev/Music-bot) / [Discord](https://discord.gg/Kqdn8CHacP), [Chip](https://chipbot.gg/), [MusicBot](https://github.com/jagrosh/MusicBot) or [EvoBot](https://github.com/eritislami/evobot) - Music Bots
 * [Red Discordbot](https://github.com/Cog-Creators/Red-DiscordBot), [Discord-Bot](https://github.com/CorwinDev/Discord-Bot) or [Loritta](https://github.com/LorittaBot/Loritta) - Self-hostable Discord Moderation Bots
 * [Wickbot](https://wickbot.com/) - Discord Security Bot
 * [anti-phishing-bot](https://github.com/Benricheson101/anti-phishing-bot) - Discord Anti Phishing Bot
@@ -282,7 +282,7 @@
 ## ▷ Telegram Clients
 
 * ⭐ **[web.telegram](https://web.telegram.org/)** / [2](https://webk.telegram.org/) / [3](https://weba.telegram.org/)
-* ⭐ **[Unigram](https://github.com/UnigramDev/Unigram)**, [VideoGram](https://vidogram.org/), [AyuGram](https://github.com/AyuGram/AyuGramDesktop) or [TDesktop](https://github.com/Forkgram/tdesktop) / [x64](https://github.com/TDesktop-x64/tdesktop) - Desktop Clients
+* ⭐ **[Unigram](https://github.com/UnigramDev/Unigram)**, [VideoGram](https://vidogram.org/), [AyuGram](https://github.com/AyuGram/AyuGramDesktop) or [TDesktop](https://github.com/Forkgram/tdesktop) / [x64](https://github.com/TDesktop-x64/tdesktop) / [Telegram](https://t.me/tg_x64) - Desktop Clients
 * ⭐ **[tg](https://github.com/paul-nameless/tg)** - Terminal Client
 * [Pyrogram](https://docs.pyrogram.org/) / [Session Strings](https://t.me/SessionStringGeneratorZBot) - Telegram API Client
 * [Telega.el](https://github.com/zevlg/telega.el) - Telegram Emacs Client
@@ -291,8 +291,8 @@
 
 ## ▷ Telegram File Tools
 
-* [teldrive](https://github.com/divyam234/teldrive), [File-Sharing-Bot](https://github.com/CodeXBotz/File-Sharing-Bot), [TelegramCloud](https://github.com/iw4p/telegram-cloud), [easy_share_bot](https://t.me/easy_share_bot) or [UploadBot](https://t.me/uploadbot) - Upload Files to Telegram
-* [GdriveXbot](https://t.me/TheGdriveXBot), [google-drive-telegram-bot](https://github.com/viperadnan-git/) or [Python Aria Mirror Bot](https://github.com/lzzy12/python-aria-mirror-bot) - GDrive Upload Bots
+* [teldrive](https://github.com/divyam234/teldrive), [File-Sharing-Bot](https://github.com/CodeXBotz/File-Sharing-Bot) / [Telegram](https://t.me/CodeXBotz), [TelegramCloud](https://github.com/iw4p/telegram-cloud), [easy_share_bot](https://t.me/easy_share_bot) or [UploadBot](https://t.me/uploadbot) - Upload Files to Telegram
+* [GdriveXbot](https://t.me/TheGdriveXBot), [google-drive-telegram-bot](https://github.com/viperadnan-git/) or [Python Aria Mirror Bot](https://github.com/lzzy12/python-aria-mirror-bot) / [Telegram](https://t.me/pythonmirrorsupport) - GDrive Upload Bots
 * [DrClonerBot](https://t.me/DrClonerBot) - GDrive Clone Bot
 * [SearchX](https://github.com/iamLiquidX/SearchX) - GDrive Search Bot
 * [MEGA Uploader X](https://t.me/MegaUploadXbot) or [Mega.nz-Bot](https://github.com/Itz-fork/Mega.nz-Bot) - Remote Mega File Upload Bot
@@ -301,7 +301,7 @@
 * [telegram-download-daemon](https://github.com/alfem/telegram-download-daemon/) - Download Large Telegram Files
 * [convrt_bot](https://t.me/convrt_bot), [FileConvertBot](https://t.me/FileConvertBot), [newfileconverterbot](https://t.me/newfileconverterbot), [SmartConverter_bot](https://t.me/SmartConverter_bot), [cloud_convert_bot](https://t.me/cloud_convert_bot), [wololopdfbot](https://t.me/wololopdfbot), [pdfbot](https://t.me/pdfbot) or [Gpdfbot](https://t.me/Gpdfbot) - File Converters
 * [ILovePDF](https://github.com/nabilanavab/ilovepdf) - Telegram File to PDF Converter
-* [Unzip Bot](https://github.com/EDM115/unzip-bot) - File Extractor / Unzipper
+* [Unzip Bot](https://t.me/unzip_edm115bot) / [Github](https://github.com/EDM115/unzip-bot) - File Extractor / Unzipper
 
 ***
 

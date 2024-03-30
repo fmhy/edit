@@ -176,7 +176,7 @@
 * [Rave.io](https://rave.io/)
 * [twoseven](https://twoseven.xyz/)
 * [WatchPubs](https://watchpubs.com/)
-* [MovieNight](https://github.com/zorchenhimer/MovieNight)
+* [MovieNight](https://github.com/zorchenhimer/MovieNight) / [Discord](https://discord.gg/F2VSgjJ)
 * [WatchParty](https://www.watchparty.me/)
 * [Kast](https://kast.gg/)
 * [Surge](https://surge.live/)
