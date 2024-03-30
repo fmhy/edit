@@ -13895,7 +13895,7 @@ Linux Gaming Guide
 * [useAnimations](https://useanimations.com/index.html) - Animated Icon Pack
 * [Redex](https://fbredex.com/) - Android Bytecode Optimizer
 * [Previewed](https://previewed.app/), [Mockup World](https://www.mockupworld.co/), [AniMockup](https://animockup.com/), [DeviceShots](https://deviceshots.com/), [DeviceFrames](https://deviceframes.com/), [shots.so](https://shots.so/), [medialoot](https://medialoot.com/free-mockups/), [MockMagic](https://www.mockmagic.com/), [MockupsForFree](https://mockupsforfree.com/), [zippypixels](https://zippypixels.com/), [Hishoot2i](https://github.com/hishoot2i/Hishoot2i) / [Templates](https://t.me/hishoot2imaterial), [TheMockupClub](https://themockup.club/), [RiseShot](https://www.riseshot.com/), [Upmock](https://www.upmock.io/) or [LS Graphics](https://www.ls.graphics/) - App / Site Mockups
-* [Mockoops](https://github.com/Just-Moh-it/Mockoops) - Animated Mockups
+* [Mockoops](hhttps://mockoops.mohitya.dev/) - Animated Mockups
 * [Really Good Emails](https://reallygoodemails.com/) - Product Email Mobile Designs and Templates
 * [Screen from Traction](https://screen.traction.one/) - Create App Screenshots
 
@@ -13928,7 +13928,7 @@ Linux Gaming Guide
 * [Phaser](https://phaser.io/) - Mobile HTML5 Game Framework 
 * [PlayCanvas](https://playcanvas.com/) - Build HTML5 Visualizations / Games
 * [APlayer](https://github.com/DIYgod/APlayer) - HTML Audio Player
-* [DPlayer](https://github.com/DIYgod/DPlayer) - HTML Video Player
+* [DPlayer](https://dplayer.diygod.dev/) - HTML Video Player
 * [xgplayer](https://github.com/bytedance/xgplayer) - HTML5 Video Player
 * [raylib](https://raysan5.itch.io/raylib) - Game Programming Library
 * [Yarn Spinner](https://yarnspinner.dev/) - Game Dialogue Writing Tool / [Discord](https://discord.gg/yarnspinner)
@@ -14045,7 +14045,7 @@ Linux Gaming Guide
 * [Git-notify](https://github.com/jevakallio/git-notify) - Embed Announcements into Git Commit Messages
 * [Allstar](https://github.com/ossf/allstar) - Git Repository Security App
 * [git-bug](https://github.com/MichaelMure/git-bug) - Git Embedded Bug Tracker
-* [Tara](https://tara.ai/), [Mercurial](https://www.mercurial-scm.org/), [Git Extensions](https://gitextensions.github.io/), [Railway](https://railway.app/) or [Thermal](https://thermal.codecarrot.net/) - Git Project / Repo Managers
+* [Mercurial](https://www.mercurial-scm.org/), [Git Extensions](https://gitextensions.github.io/) or [Thermal](https://thermal.codecarrot.net/) - Git Project / Repo Managers
 * [git-annex](https://git-annex.branchable.com/) - Manage Large Git Files (without Git)
 * [GitList](https://gitlist.org/) - Elegant Git Repository Viewer / [GitHub](https://github.com/klaussilveira/gitlist)
 * [Gittyup](https://murmele.github.io/Gittyup/) - Git Source Code History
@@ -14212,7 +14212,7 @@ Linux Gaming Guide
 * [Diskord](https://gitlab.com/diskord/diskord) - Kotlin API Client for Discord
 * [lo](https://github.com/samber/lo) - Go Library
 * [py-modindex](https://docs.python.org/3/py-modindex.html) - Python Modules List / Tutorials
-* [Python Mini Projects](https://github.com/Python-World/python-mini-projects) - Python Scripts
+* [Python Mini Projects](https://python-world.github.io/python-mini-projects/) - Python Scripts
 * [Python Patterns](https://python-patterns.guide/) - Python Design Patterns
 * [Dodgy](https://github.com/landscapeio/dodgy) - Find PWs & Diffs in Python Code
 * [pointers.py](https://github.com/ZeroIntensity/pointers.py) - Python Pointers
@@ -14225,14 +14225,14 @@ Linux Gaming Guide
 * [pipx](https://github.com/pypa/pipx) - Execute Python Binaries in Isolated Environments
 * [Pytrait](https://github.com/xrudelis/pytrait) - Python Interface Traits
 * [PyPy](https://www.pypy.org/) - Alternate Python Implementation
-* [RustPython](https://github.com/RustPython/RustPython/) - Python Interpreter
+* [RustPython](https://rustpython.github.io/) - Python Interpreter
 * [Doppler](https://www.doppler.com/) - Sync Environment Variables
 * [AutoCode](https://autocode.com/) - Instant Endpoints
 * [typejuice](https://github.com/galvez/typejuice) - Documentation Generator for TypeScript Declaration Files
 * [Boxed](https://github.com/swan-io/boxed) - TypeScript Utility Types / Functions
 * [Clean Code TypeScripts](https://github.com/labs42io/clean-code-typescript) - Clean Code for TypeScript
 * [Motion Canvas](https://motioncanvas.io/) - Animated Video TypeScript Library
-* [Ruff](https://github.com/astral-sh/ruff) - Python Linter
+* [Ruff](https://docs.astral.sh/ruff/) - Python Linter
 * [Trunk](https://trunk.io/) - Run Linters/Formatters/Checkers Simultaneously
 * [Mega Linter](https://github.com/oxsecurity/megalinter) or [TCA](https://github.com/Tencent/CodeAnalysis) - Code Analyzer
 * [FauxPilot](https://github.com/fauxpilot/fauxpilot) - Self-Hosted Copilot Server
@@ -14325,7 +14325,6 @@ Linux Gaming Guide
 ## ▷ Coding AIs
 
 * 🌐 **[EvalPlus Leaderboard](https://evalplus.github.io/leaderboard.html)** or [BigCode](https://huggingface.co/spaces/bigcode/bigcode-models-leaderboard) - Coding AI Leaderboards
-* ⭐ **[judge0](https://ide.judge0.com/)** - Coding AI / [Discord](https://discord.com/invite/GRc3v6n) (seems star-worthy)
 * [Cursor](https://cursor.sh/) - Coding AI
 * [Codeium](https://codeium.com/) - Coding AI
 * [Copilot](https://github.com/features/copilot) - Coding AI / Free Student Plan
@@ -14413,6 +14412,7 @@ Linux Gaming Guide
 * ↪️ **[Code Collaboration Platforms](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools#wiki_.25B7_text_.2F_code_collaboration)**
 * ⭐ **[goormIDE](https://ide.goorm.io/)**, [Fleet](https://www.jetbrains.com/fleet/), [CodeTasty](https://codetasty.com/), [Replit](https://replit.com/), [BoostNote](https://boostnote.io/), [Aither](https://github.com/enoki-inc/aither), [Deta](https://deta.space/), [TerraForm](https://www.terraform.io/), [Atheos](https://www.atheos.io/) / [GitHub](https://github.com/Atheos/Atheos), [Datalore](https://datalore.jetbrains.com/), [DeepNote](https://deepnote.com/), [Cloud9](https://aws.amazon.com/cloud9/) or [Glitch](https://glitch.com/) / [Replit Import](https://replit.com/glitch) / [GitHub](https://github.com/m3o/m3o) - Cloud IDEs
 * ⭐ **[CodeSandbox](https://codesandbox.io/)**, [StackBlitz](https://stackblitz.com/) or [GitPod](https://www.gitpod.io/) - VSCode Cloud IDE
+* ⭐ **[judge0](https://ide.judge0.com/)** - Online Code Editor / [Discord](https://discord.com/invite/GRc3v6n)
 * [JSFiddle](https://jsfiddle.net/) - Online Code Editor
 * [Collabedit](https://collabedit.com/) - Online Code Editor
 * [Portacode](https://portacode.com/) - Online Code Editor
@@ -14621,7 +14621,7 @@ Linux Gaming Guide
 * [DeepSpeed](https://github.com/microsoft/DeepSpeed) - Deep Learning Optimization Library
 * [FlowiseAI](https://flowiseai.com/) - LLM Flow Visualization
 * [Netron](https://github.com/lutzroeder/netron) - Visualizer for Neural Network, Deep Learning, and Machine Learning Models
-* [Scikit Learn](https://github.com/scikit-learn/scikit-learn) - Machine Learning Library for Python
+* [Scikit Learn](https://scikit-learn.org/) - Machine Learning Library for Python
 * [PyTorch](https://github.com/pytorch/pytorch) -  Tensor library for deep learning using GPUs and CPUs
 * [Kobra](https://kobra.dev/) - Visual Programming Language for Machine Learning
 * [DialoGPT](https://github.com/microsoft/DialoGPT) - Dialogue Machine Learning Model
