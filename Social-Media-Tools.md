@@ -538,7 +538,7 @@
 * [VideoAdBlockForTwitch](https://github.com/cleanlock/VideoAdBlockForTwitch) - Twitch Adblocker
 * [luminous-ttv](https://github.com/AlyoshaVasilieva/luminous-ttv) - Twitch Adblocker
 * [Adblocker for Twitch](https://microsoftedge.microsoft.com/addons/detail/adblocker-for-twitch%E2%84%A2/glgpmlmjlaljaddimbgekaepkgbojjdn) - Edge Twitch Adblocker
-* [Xtra](https://github.com/crackededed/Xtra) or [PurpleTV](https://purpletv.aeong.one/) / [Alpha](https://t.me/pubTwAlpha) - Ad Free Twitch APKs
+*  [PurpleTV](https://purpletv.aeong.one/) / [Alpha](https://t.me/pubTwAlpha) - Ad Free Twitch APK
 
 ***
 
