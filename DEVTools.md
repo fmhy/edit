@@ -1456,13 +1456,13 @@
 * [InstantAPIs](https://github.com/csharpfritz/InstantAPIs) - API Endpoint Generator 
 * [NativeScript](https://github.com/NativeScript/NativeScript) - Access APIs from JavaScript
 * [Stein](https://steinhq.com/) - Turn Google Sheets into Database API
-* [Lanyard](https://github.com/Phineas/lanyard) - Export Discord Rich Presence to API Endpoint / Websocket
+* [Lanyard](https://github.com/Phineas/lanyard) / [Discord](https://discord.gg/lanyard) - Export Discord Rich Presence to API Endpoint / Websocket
 * [CollectionConcurrencyKit](https://github.com/JohnSundell/CollectionConcurrencyKit) - Async & Concurrent Versions of Swift APIs
 * [Algolia](https://www.algolia.com/), [TypeSense](https://typesense.org/), [StorkSearch](https://stork-search.net/), [Solr](https://solr.apache.org/), [MeiliSearch](https://meilisearch.com/), [Sphinx](https://sphinxsearch.com/) or [FusionBot](https://www.fusionbot.com/) - Search API
 * [Reacher](https://reacher.email/) - Email Verification API
 * [BotScout](https://botscout.com/) - Bot Check API
 * [Telegram Bot API](https://github.com/tdlib/telegram-bot-api) or [PHP Telegram Bot](https://github.com/php-telegram-bot/core) - Telegram Bot API
-* [cf-workers-telegram-bot](https://github.com/codebam/cf-workers-telegram-bot) - Serverless Telegram Bot
+* [cf-workers-telegram-bot](https://t.me/TuxRobot) / [Github](https://github.com/codebam/cf-workers-telegram-bot) - Serverless Telegram Bot
 * [mqtt2telegram](https://zjor.github.io/mqtt2telegram/) - Telegram Messaging API
 * [instagrapi](https://github.com/subzeroid/instagrapi) - Unofficial Instagram API for Python
 * [TextNow API](https://github.com/leogomezz4t/PyTextNow_API) - Python Texting API 

@@ -206,7 +206,7 @@ Linux Gaming Guide
 * [mcpelauncher](https://github.com/minecraft-linux/mcpelauncher-manifest) - Minecraft Android Bedrock Edition Launcher for Linux
 * [VinegarHQ](https://vinegarhq.org/) - Bootstrapper for Roblox Studio
 * [Bloxstrap](https://discord.com/invite/nKjV3mGq6R) - Roblox Launcher
-* [Anime Game Launcher](https://github.com/an-anime-team/an-anime-game-launcher) - Genshin Impact Launcher
+* [Anime Game Launcher](https://github.com/an-anime-team/an-anime-game-launcher) / [Discord](https://discord.gg/ck37X6UWBp) - Genshin Impact Launcher
 * [among-sus](https://git.sr.ht/~martijnbraam/among-sus) - Play Among Us in your Terminal (Recreation)
 * [Gameboy.live](https://github.com/HFO4/gameboy.live) - Terminal Game Boy Emulator
 * [Gambit](https://github.com/maaslalani/gambit) - Terminal Chess

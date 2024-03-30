@@ -22,7 +22,7 @@
 * [APKTool](https://github.com/iBotPeaches/Apktool) - APK Reverse Engineering Tool
 * [BlackDex](https://github.com/CodingGay/BlackDex) - APK Unpacking Tool
 * [CorePatch](https://github.com/LSPosed/CorePatch) - Disable Signature Verification / [Telegram](https://t.me/core_patch_chat)
-* [Zygisk Detach](https://github.com/j-hc/zygisk-detach) - Detach APKs from Google Play Store
+* [Zygisk Detach](https://github.com/j-hc/zygisk-detach) / [Telegram](https://t.me/rv_magisk) - Detach APKs from Google Play Store
 * [UpgradeAll](https://github.com/DUpdateSystem/UpgradeAll), [APKUpdater](https://github.com/rumboalla/apkupdater) or [Obtainium](https://github.com/ImranR98/Obtainium/) - APK Updaters
 * [Beta Maniac](https://play.google.com/store/apps/details?id=it.mirko.beta) - Beta Release Notifications
 * [Let Me Downgrade](https://github.com/DavidBerdik/Let-Me-Downgrade) - Downgrade Apps on Android 12/13 / Root
@@ -237,7 +237,7 @@
 * [Mematic](https://www.mematic.net/) or [Memetastic](https://github.com/gsantner/memetastic) - Meme Creators
 * [VES](https://github.com/VincentEngel/VES-Image-Compare) - Compare Two Images
 * [PhotoRoom](https://www.photoroom.com/) - Background Removers
-* [Pixelify](https://github.com/BaltiApps/Pixelify-Google-Photos), [2](https://github.com/Kingsman44/Pixelify) - Add Google Pixel Photo Features to non-Google Devices
+* [Pixelify](https://github.com/BaltiApps/Pixelify-Google-Photos) / [Telegram](https://t.me/pixelifyGooglePhotos), [2](https://github.com/Kingsman44/Pixelify) - Add Google Pixel Photo Features to non-Google Devices
 * [Gcam-Services-Provider](https://github.com/lukaspieper/Gcam-Services-Provider) - Use Google Cam Without Google Play 
 * [Secure Camera](https://play.google.com/store/apps/details?id=app.grapheneos.camera.play), [BinaryEye](https://github.com/markusfisch/BinaryEye) or [Code Scanner](https://github.com/czlucius/code-scanner) - QR / Barcode Scanners
 * [Colorize Images](https://rentry.co/FMHYBase64#colorize-images), [Phototune](https://rentry.co/FMHYBase64#phototune) or [Remini](https://rentry.co/FMHYBase64#remini) - Colorize Images
@@ -517,13 +517,13 @@
 * [LC_Reborn](https://t.me/s/Facebook_LC_Reborn) - Facebook Clients
 * [MessengerPro](https://github.com/Mino260806/MessengerPro) - Modded Facebook Messenger
 * [Nekogram](https://nekogram.app/), [TelegramAndroid](https://github.com/Forkgram/TelegramAndroid), [Nagram](https://github.com/nextalone/nagram), [exteraGram](https://exteragram.app/), [Cherrygram](https://github.com/arsLan4k1390/Cherrygram), [Nullgram](https://github.com/qwq233/Nullgram/), [Octogram](https://octogram.site/), [TelegramAndroid](https://github.com/forkgram/TelegramAndroid) or [Telegram-FOSS](https://github.com/Telegram-FOSS-Team/Telegram-FOSS) - Telegram Clients
-* [Telegram Monet](https://github.com/mi-g-alex/Telegram-Monet) - Telegram Theme Creator
+* [Telegram Monet](https://github.com/mi-g-alex/Telegram-Monet) / [Telegram](https://t.me/tgmonet) - Telegram Theme Creator
 * [Tellurium](https://play.google.com/store/apps/details?id=com.quadren.tellurium) - Number Free WhatsApp Chat
 * [WhatsappWebToGo](https://github.com/92lleo/WhatsappWebToGo) - Mobile WhatsApp Web Client
 * [WhatsAppPatcher](https://github.com/Schwartzblat/WhatsAppPatcher) - WhatsApp Patcher
 * [Whatsapp Backup Reader](https://whatsappbr.netlify.app/) - Read Exported Whatsapp Chats
 * [FakeWhats](https://www.fakewhats.com/) or [FakeInfo](https://fakeinfo.net/fake-whatsapp-chat-generator) - Fake WhatsApp Messages
-* [SnapEnhance](https://github.com/rhunk/SnapEnhance) - Snapchat Client
+* [SnapEnhance](https://github.com/rhunk/SnapEnhance) / [Telegram](https://t.me/snapenhance) - Snapchat Client
 * [Graysky](https://graysky.app/) - Bluesky Client
 
 ***
@@ -714,8 +714,8 @@
 * ⭐ **[AudioRelay](https://audiorelay.net/)** - Stream PC Audio to Phone
 * ⭐ **[Pano Scrobbler](https://github.com/kawaiiDango/pano-scrobbler)** - Android Scrobbler
 * [ListenBrainsz](https://github.com/metabrainz/listenbrainz-android) - Music Tracking / Rating
-* [Spowlo](https://github.com/BobbyESP/Spowlo/) - Spotify Audio Downloader
-* [YouTubeDL Android](https://github.com/yausername/youtubedl-android), [ytdlnis](https://github.com/deniscerri/ytdlnis), [Seal](https://github.com/JunkFood02/Seal) or [SongTube](https://github.com/SongTube/SongTube-App) - YouTube Audio Downloaders
+* [Spowlo](https://github.com/BobbyESP/Spowlo/) / [Telegram](https://t.me/spowlo_chatroom) - Spotify Audio Downloader
+* [YouTubeDL Android](https://github.com/yausername/youtubedl-android), [ytdlnis](https://github.com/deniscerri/ytdlnis), [Seal](https://github.com/JunkFood02/Seal) or [SongTube](https://github.com/SongTube/SongTube-App) / [Telegram](https://t.me/songtubechannel) - YouTube Audio Downloaders
 * [Shazam](https://www.shazam.com/), [SoundHound](https://www.soundhound.com/soundhound), [MusicRecognizer](https://github.com/aleksey-saenko/MusicRecognizer), [Audire](https://github.com/alexmercerind/audire) or [AmbientMusicMod](https://github.com/KieronQuinn/AmbientMusicMod) - Song Identification
 * [Redomi](https://github.com/acszo/Redomi/) - Multi-Platform Streaming
 * [Soundcloud](https://play.google.com/store/apps/details?id=com.soundcloud.android&amp;hl=us) - Streaming
@@ -775,7 +775,7 @@
 * [Rainy Mood](https://play.google.com/store/apps/details?id=com.TailoredMusic.RainyMood), [Raining.fm](https://play.google.com/store/apps/details?id=fm.raining.rainingfm&amp;hl=en) or [Rain Sounds](https://sleeprelaxapps.github.io/rainsounds/) - Ambient Rain
 * [Noizio](https://play.google.com/store/apps/details?id=com.noizio&amp;hl=en_US) - Nature Sounds / Relaxation 
 * [A Soft Murmur](https://play.google.com/store/apps/details?id=com.gabemart.asoftmurmur) - Mix Ambient Sounds
-* [Tide.fm](https://pics.tide.moreless.io/site/tide.apk), [Serenity](https://github.com/YajanaRao/Serenity) or [Noice](https://trynoice.com/) - Meditation / Sleep Sounds
+* [Tide.fm](https://pics.tide.moreless.io/site/tide.apk), [Serenity](https://github.com/YajanaRao/Serenity) / [Telegram](https://t.me/serenityapp) or [Noice](https://trynoice.com/) - Meditation / Sleep Sounds
 * [myNoise](https://play.google.com/store/apps/details?id=com.mynoise.mynoise&amp;hl=en) - Background Noises & Interactive Soundscapes
 * [Chroma Doze](https://github.com/pmarks-net/chromadoze) - White Noise Generator
 
@@ -788,7 +788,7 @@
 * ⭐ **[Stremio](https://www.stremio.com/)** - Torrent Streaming / [Addons](https://stremio-addons.netlify.app/) / Chromecast / Use [VPN](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_vpn_guide)
 * ⭐ **[HDO Box](https://hdo.app/)** - Movies / TV / [Discord](https://discord.gg/VPRJVExUVD)
 * ⭐ **[CloudStream](https://cloudstream-on-fleek-co.ipns.dweb.link/)** - Movies / TV / Anime / [GitHub](https://github.com/recloudstream/cloudstream) / [2](https://github.com/hexated/cloudstream-extensions-hexated/) / [Mirrors](https://rentry.org/cs3-repos) / [Docs](https://recloudstream.github.io/csdocs/) 
-* ⭐ **[Kuukiyomi](https://github.com/LuftVerbot/kuukiyomi/)** or [Aniyomi](https://aniyomi.org/) - Movies / TV / Anime / [Extensions](https://aniyomi.org/extensions/) / [GitHub](https://github.com/aniyomiorg/aniyomi)
+* ⭐ **[Kuukiyomi](https://github.com/LuftVerbot/kuukiyomi/)**  / [Discord](https://discord.gg/s82Vu589Ya) or [Aniyomi](https://aniyomi.org/) - Movies / TV / Anime / [Extensions](https://aniyomi.org/extensions/) / [GitHub](https://github.com/aniyomiorg/aniyomi)
 * ⭐ **[Miru](https://miru.js.org/en/download)** - Movies / TV / Anime / [GitHub](https://github.com/miru-project/miru-app) / [Docs](https://miru.js.org/en/developer/) 
 * ⭐ **[FlixQuest](https://github.com/BeamlakAschalew/flixquest)** - Movies / TV
 * ⭐ **[Kodi](https://kodi.tv/)** - [/r/Addons4Kodi](https://www.reddit.com/r/Addons4Kodi/) / [Tracker](https://kinkeadtech.com/best-kodi-streaming-addons/) / [Trending](https://kodiapps.com/addons-chart) / [Real-Debrid](https://real-debrid.com/)
@@ -863,7 +863,7 @@
 * ⭐ **[LibreTube](https://libretube.dev/)** - Ad-free YouTube Frontend
 * ⭐ **[NewPipe](https://newpipe.net/)** - Ad-free YouTube Frontend
 * ⭐ **[Tubular](https://github.com/polymorphicshade/Tubular)** - Ad-free YouTube Frontend
-* [revanced-magisk-module](https://github.com/j-hc/revanced-magisk-module/releases), [revanced-apks](https://github.com/revanced-apks/build-apps/releases), [docker-py-revanced](https://github.com/nikhilbadyal/docker-py-revanced/releases) or [AT-YT](https://github.com/Zenlua/AT-YT) - Automated Patchers
+* [revanced-magisk-module](https://github.com/j-hc/revanced-magisk-module/releases) / [Telegram](https://t.me/rvc_magisk), [revanced-apks](https://github.com/revanced-apks/build-apps/releases), [docker-py-revanced](https://github.com/nikhilbadyal/docker-py-revanced/releases) or [AT-YT](https://github.com/Zenlua/AT-YT) - Automated Patchers
 * [revanced-cli](https://github.com/ReVanced/revanced-cli/), [Auto-CLI](https://github.com/taku-nm/auto-cli/), [Revancify](https://github.com/decipher3114/Revancify) or [revanced-creator](https://github.com/XDream8/revanced-creator) - CLI Patchers
 * [ReVanced Patcher 6.0-7.1](https://github.com/kitadai31/revanced-patches-android6-7) - 6.0-7.1 Patcher
 * [Clipious](https://github.com/lamarios/clipious) - YouTube Frontend
@@ -1066,7 +1066,7 @@
 * 🌐 **[CyPwn](https://ipa.cypwn.xyz/)** - Tweaked App Library / [Discord](https://discord.gg/cypwn)
 * 🌐 **[ReJail](https://rejail.ru/)** - Cracked Tweaks Repository
 * 🌐 **[Open-Source iOS Apps](https://github.com/dkhamsing/open-source-ios-apps)** - Open-Source Apps
-* ⭐ **[TrollStore](https://github.com/opa334/TrollStore)** or [TrollApps](https://github.com/TheResonanceTeam/TrollApps/) - Non-Appstore Apps / No-Jailbreak / 14.0-17.0 / [IPAs](https://github.com/swaggyP36000/TrollStore-IPAs) / [Decrypt](https://github.com/donato-fiore/TrollDecrypt)
+* ⭐ **[TrollStore](https://github.com/opa334/TrollStore)** or [TrollApps](https://github.com/TheResonanceTeam/TrollApps/) / [Discord](https://discord.gg/PrF6XqpGgX) - Non-Appstore Apps / No-Jailbreak / 14.0-17.0 / [IPAs](https://github.com/swaggyP36000/TrollStore-IPAs) / [Decrypt](https://github.com/donato-fiore/TrollDecrypt)
 * [Sideloadly](https://sideloadly.io/), [AltStore](https://altstore.io/) / [Repo Viewer](https://altsource.by.lao.sb/browse/) / [Alt Server](https://github.com/NyaMisty/AltServer-Linux), [SideStore](https://github.com/SideStore/SideStore) or [SignTools](https://github.com/SignTools/SignTools) - Non-Jailbreak Sideloading Tool
 * [Cydia](https://cydia.saurik.com/) - Jailbroken App Store
 * [Streamiza](https://t.me/streamiza) - Tweaked Apps / Telegram / [Discord](https://linktr.ee/Streamiza)

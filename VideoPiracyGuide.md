@@ -695,7 +695,7 @@
 * [Vuze](https://www.vuze.com/content/) - Movies / TV
 * [YAPs](https://yaps.cc/) - Movies / TV / [GitHub](https://github.com/the-rarbg/yaps)
 * [Public Domain Movie Torrents](https://www.publicdomaintorrents.info/) - Movies
-* [YTS](https://yts.mx/) or [YifyMovies](https://yifymovies.xyz/) - Movies / [Google Buttons](https://github.com/cotnw/muvi) / [Mirrors](https://www.yifystatus.com/) / [Search](https://yify.netlify.app/) / Do [NOT](https://web.archive.org/web/20230729051829/https://thetechzone.online/do-not-register-on-this-torrent-website-filter-your-data-to-hollywood/) Make Account
+* [YTS](https://yts.mx/) or [YifyMovies](https://yifymovies.xyz/) - Movies / [Google Buttons](https://github.com/cotnw/muvi) / [Discord](https://discord.gg/GwDraJjMga) / [Mirrors](https://www.yifystatus.com/) / [Search](https://yify.netlify.app/) / Do [NOT](https://web.archive.org/web/20230729051829/https://thetechzone.online/do-not-register-on-this-torrent-website-filter-your-data-to-hollywood/) Make Account
 * [JapaneseTorrents](https://japanesetorrents.wordpress.com/) - Asian Drama
 * [TV-Nihon](https://tracker.tvnihon.com/) - Japanese Commercial Archive
 * [XtremeWrestlingTorrents](https://xtremewrestlingtorrents.net/) - Wrestling Private Tracker / Open Registrations
