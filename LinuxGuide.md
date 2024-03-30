@@ -234,6 +234,7 @@ Linux Gaming Guide
 * [OpenVPN Wrapper](https://github.com/slingamn/namespaced-openvpn) - VPN Tunnel
 * [Openconnect VPN Server](https://ocserv.gitlab.io/www/index.html) - Linux SSL VPN Server
 * [arch-delugevpn](https://github.com/binhex/arch-delugevpn) - Docker with Torrent client and VPN on Arch Linux base
+* [DSVPN](https://github.com/jedisct1/dsvpn) - Self-Hosted VPN
 * [wireguird](https://github.com/UnnoTed/wireguird) - Wireguard GUI
 * [vnStat](https://github.com/vergoh/vnstat) - Network Monitor
 * [Howdy](https://github.com/boltgolt/howdy) - Linux Facial Authentication
