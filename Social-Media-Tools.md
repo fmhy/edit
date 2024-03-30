@@ -93,7 +93,8 @@
 * ⭐ **[CustomRP](https://www.customrp.xyz/)** - Customizable Rich Presence
 * [AMWin-RP](https://github.com/PKBeam/AMWin-RP) - Apple Music Rich Presence
 * [Foo Discord](https://github.com/s0hv/foo_discord_rich) - Foobar Rich Presence 
-* [Adobe Discord RPC](https://github.com/teeteeteeteetee/adobe-discord-rpc) - Adobe Rich Presence 
+* [Adobe Discord RPC](https://github.com/teeteeteeteetee/adobe-discord-rpc) - Adobe Rich Presence
+* [PS3 Rich](https://github.com/zorua98741/PS3-Rich-Presence-for-Discord) - PS3 Rich Presence
 * [discord-vscode](https://marketplace.visualstudio.com/items?itemName=icrawl.discord-vscode) - VSCode Rich Presence / [GitHub](https://github.com/iCrawl/discord-vscode)
 * [Old Layout](https://gist.github.com/aamiaa/fbf6e51dbb8875a781a3d8d76fc3f3e7) - Revert New Discord Layout
 * [ChromaDiscordApp](https://github.com/tgraupmann/ChromaDiscordApp) - Chroma Light for Discord
@@ -614,7 +615,6 @@
 * [InstaFix](https://ddinstagram.com/) - Fix Instagram Embeds on Discord
 * [Proxigram](https://codeberg.org/ThePenguinDev/Proxigram) or [Imginn](https://imginn.com) - Instagram Frontends
 * [imgsed](https://imgsed.com/), [Picuki](https://www.picuki.com/), [InstaNavigation](https://instanavigation.com/), [Instafreeview](https://instafreeview.com/), [profile-picture-viewer](https://github.com/Ademking/profile-picture-viewer), [Dumpor](https://dumpoir.com/) or [GreatFon](https://greatfon.com/) - Instagram Viewers
-* [Instagram-Explorer](https://www.osintcombine.com/instagram-explorer) - Explore Pictures by Location 
 * [StoriesDown](https://storiesdown.com/), [instasaved](https://instasaved.net/en) or [insta-stories-viewer](https://insta-stories-viewer.com/) - Story Downloaders
 * [SaveFromWeb](https://www.savefromweb.com/), [Downloadgram](https://downloadgram.org/) - Video / Picture / Story Downloaders 
 * [Picnob](https://www.picnob.com/) or [Instagram PHP Scraper](https://github.com/postaddictme/instagram-php-scraper) - Picture / Story Downloaders
