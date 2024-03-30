@@ -461,7 +461,7 @@
 * [Gluetun](https://github.com/qdm12/gluetun) - Tunnel your Docker containers through a VPN
 * [Pritunl](https://pritunl.com/) - VPN Server
 * [Algo VPN](https://github.com/trailofbits/algo) - Cloud VPN
-* [Amnezia](https://github.com/amnezia-vpn/amnezia-client) - Self-hosted VPN
+* [Amnezia](https://amnezia.org/) - Self-hosted VPN
 * [VPNHotspot](https://github.com/Mygod/VPNHotspot) - Share VPN Connection over Hotspot
 
 ***
