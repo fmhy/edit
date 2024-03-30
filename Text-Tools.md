@@ -85,7 +85,7 @@
 * [OnlineDocTranslator](https://www.onlinedoctranslator.com/en/) - Document Translator
 * [LegaleseDecoder](https://legalesedecoder.com/free-legal-document-to-plain-english-translator/) - Legal Document Translator
 * [Matecat](https://www.matecat.com) - Online Translation Editor 
-* [Qt Linguist](https://github.com/lelegard/qtlinguist-installers), [Eazy Po](http://www.eazypo.ca) - Localization app
+* [Qt Linguist](https://github.com/lelegard/qtlinguist-installers) or [Eazy Po](http://www.eazypo.ca) - Localization Apps
 * [japReader](https://github.com/marisukukise/japReader) - Japanese Text Translator
 * [LyricsTranslate](https://lyricstranslate.com/) - Lyric Translator
 * [LingoJam](https://lingojam.com/) - Create Translator
