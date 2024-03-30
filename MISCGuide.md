@@ -71,7 +71,7 @@
 * [Awesome OSS](https://github.com/RunaCapital/awesome-oss-alternatives)
 * [Awesome No-Login](https://github.com/aviaryan/awesome-no-login-web-apps)
 * [Awesome Piracy](https://github.com/Shakil-Shahadat/awesome-piracy)
-* [Awesome Anime Sources](https://github.com/anshumanv/awesome-anime-sources)
+* [Awesome Anime Sources](https://anshumanv.github.io/awesome-anime-sources/)
 * [Awesome DataHoarding](https://github.com/simon987/awesome-datahoarding)
 * [Awesome Uncopyright](https://github.com/johnjago/awesome-uncopyright)
 * [Track Awesome](https://www.trackawesomelist.com/)
@@ -92,7 +92,7 @@
 * ⭐ **[OneHack](https://onehack.us/)** - Giveaway Community
 * ⭐ **[Free Packages](https://steamdb.info/freepackages/)** - Mass Activate All Free Steam Games / [Guide](https://youtu.be/svbdw-pYNT8)
 * ⭐ **[Unlimited Trials](https://rentry.co/unlimited-trials)** - Unlimited Free Trials Guide
-* ⭐ **[IsThereAnyDeal](https://isthereanydeal.com/#/filter:&price/0/0)** - Games
+* ⭐ **[IsThereAnyDeal](https://isthereanydeal.com/giveaways/)** - Games
 * [Free Games Claimer](https://github.com/vogler/free-games-claimer) - Auto-Claim Free Epic, Amazon, and GOG Games
 * [epicgames-freegames-node](https://github.com/claabs/epicgames-freegames-node) - Auto-Claim Free Epic Games
 * [SteamGifts](https://www.steamgifts.com/), [/r/FreeGamesOnSteam](https://reddit.com/r/FreeGamesOnSteam) or [SteamDB](https://steamdb.info/upcoming/free/) - Steam Games
@@ -1208,7 +1208,7 @@
 * [Fold N Fly](https://www.foldnfly.com/) - Paper Airplane Guides
 * [Paper Plotter](https://felixboiii.github.io/paper-plotter/) - Create 3D Plots out of Paper
 * [TwistyPuzzles](https://twistypuzzles.com/) or [HyperCubing](https://hypercubing.xyz/) - Twisty Puzzle Wikis
-* [Game a-b-street](https://github.com/a-b-street/abstreet) - Traffic Simulation
+* [Game a-b-street](https://a-b-street.github.io/docs/) - Traffic Simulation
 * [Talksmi](https://talksmi.com/) - Conversation Ideas
 * [Pros 'n Cons](https://pros-cons.io/) or [Moral Machine](https://www.moralmachine.net/) - Decision-Making AIs
 * [Rank a Day](https://rankaday.com/) - Random Daily Topic Voting
