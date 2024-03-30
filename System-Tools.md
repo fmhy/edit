@@ -167,7 +167,7 @@
 * [CopyQ](https://hluk.github.io/CopyQ/)
 * [Free Clipboard Viewer](https://freeclipboardviewer.com/)
 * [ClipAngel](https://sourceforge.net/projects/clip-angel/)
-* [XClipper](https://github.com/KaustubhPatange/XClipper)
+* [XClipper](https://kaustubhpatange.github.io/XClipper/)
 * [MultiClipBoardSlots](https://www.softwareok.com/?seite=Microsoft/MultiClipBoardSlots)
 * [Clipboard Canvas](https://github.com/d2dyno1/ClipboardCanvas)
 * [Xtra Clipboard](https://xtra-clipboard.com/)
