@@ -373,7 +373,6 @@
 * [Sensify](https://junkielabs.in/products/apps/sensify) - Sensor Visualizers
 * [Unified Remote](https://www.unifiedremote.com/) - Universal Remote
 * [Luna Sea](https://www.lunasea.app/) - Self-Hosted Media Controller
-* [MGit](https://github.com/maks/MGit) - Git client for Android
 * [GitNex](https://codeberg.org/gitnex/GitNex/) - Forgejo and Gitea client for Android
 * [Get Unstuck](https://socratic.org/) - Homework Answers / Help
 
@@ -506,7 +505,7 @@
 * [Watomatic](https://watomatic.app/) / [GitHub](https://github.com/adeekshith/watomatic) or [AutoResponder](https://www.autoresponder.ai/) - Chat App Auto-Responders
 * [Aerowitter](https://aerowitter.com/) - Ad-Free Twitter Apps
 * [MessengerEx](https://github.com/C10udburst/MessengerEx/) - Facebook Messenger Adblocker
-* [BBTV](https://github.com/bttv-android/bttv), [Twire](https://github.com/twireapp/Twire) or [Frosty](https://www.frostyapp.io/) - Twitch Apps
+* [Xtra](https://github.com/crackededed/Xtra), [BBTV](https://github.com/bttv-android/bttv), [Twire](https://github.com/twireapp/Twire) or [Frosty](https://www.frostyapp.io/) - Twitch Clients
 * [DankChat](https://github.com/flex3r/DankChat) - Talk in Multiple Twitch Chats at Once
 * [Viddit](https://play.google.com/store/apps/details?id=aculix.viddit.downloader) - Reddit Video Downloader
 * [OldLander](https://github.com/OctoNezd/oldlander) - Improve Old Reddit
@@ -530,7 +529,8 @@
 
 ## ▷ Android File Tools
 
-* ⭐ **[MiXplorer](https://mixplorer.com/)**, [2](https://forum.xda-developers.com/t/app-2-2-mixplorer-v6-x-released-fully-featured-file-manager.1523691/)- Advanced Root File Explorer / [Themes](https://play.google.com/store/apps/details?id=de.dertyp7214.mixplorerthemecreator) 
+* ⭐ **[MiXplorer](https://mixplorer.com/)**, [2](https://forum.xda-developers.com/t/app-2-2-mixplorer-v6-x-released-fully-featured-file-manager.1523691/)- Advanced Root File Explorer / [Themes](https://play.google.com/store/apps/details?id=de.dertyp7214.mixplorerthemecreator)
+* ⭐ **[SD Maid](https://github.com/d4rken-org/sdmaid-se)** - File Manager / Data Cleaner / [Discord](https://discord.com/invite/8Fjy6PTfXu)
 * ⭐ **[SyncThing](https://github.com/Catfriend1/syncthing-android)** - File Sync / Sharing
 * ⭐ **[Snapdrop Android](https://github.com/fm-sys/snapdrop-android)** - File Sync / Sharing
 * ⭐ **[Octi](https://github.com/d4rken-org/octi)** - File Sync / Sharing
@@ -551,7 +551,6 @@
 * [Adebar](https://codeberg.org/izzy/Adebar), [Android-DataBackup](https://github.com/XayahSuSuSu/Android-DataBackup) (root), [Swift Backup](https://swiftapps.org/), [Neo Backup](https://github.com/NeoApplications/Neo-Backup) (root) - Device Backup Tools
 * [Folder in Folder](https://play.google.com/store/apps/details?id=com.ss.folderinfolder) - Create Subfolders
 * [Cx File Explorer](https://play.google.com/store/apps/details?id=com.cxinventor.file.explorer) or [FileNavigator](https://github.com/w2sv/FileNavigator) - File Managers
-* [SD Maid SE](https://github.com/d4rken-org/sdmaid-se) - File Manager / Data Cleaner
 * [Marc Files](https://play.google.com/store/apps/details?id=com.marc.files) - File Manager Shortcut
 * [ZipXtract](https://github.com/WirelessAlien/ZipXtract) - Unrar / Zip File App
 * [PDF2Images](https://codeberg.org/oparaskos/android-pdf2images) - PDF to Image Converter
@@ -793,7 +792,7 @@
 * ⭐ **[FlixQuest](https://github.com/BeamlakAschalew/flixquest)** - Movies / TV
 * ⭐ **[Kodi](https://kodi.tv/)** - [/r/Addons4Kodi](https://www.reddit.com/r/Addons4Kodi/) / [Tracker](https://kinkeadtech.com/best-kodi-streaming-addons/) / [Trending](https://kodiapps.com/addons-chart) / [Real-Debrid](https://real-debrid.com/)
 * ⭐ **[Syncler](https://syncler.net/)** - Movies / TV / [Providers](https://www.reddit.com/r/providers4syncler/)
-* ⭐ **[BubblesUPNP](https://play.google.com/store/apps/details?id=com.bubblesoft.android.bubbleupnp&gl=US)**, [DMS](https://github.com/anacrolix/dms), [Macast](https://github.com/xfangfang/Macast) or [Cinema Box](https://www.cinema-box.co.uk/) - Media Servers / Chromecast
+* ⭐ **[BubblesUPNP](https://play.google.com/store/apps/details?id=com.bubblesoft.android.bubbleupnp&gl=US)**, [DMS](https://github.com/anacrolix/dms), [Macast](https://xfangfang.github.io/Macast/) or [Cinema Box](https://www.cinema-box.co.uk/) - Media Servers / Chromecast
 * ⭐ **[Trakt](https://play.google.com/store/apps/details?id=tv.trakt.trakt)**, [Showly 2.0](https://github.com/1RandomDev/showly-oss) or [SeriesGuide](https://seriesgui.de/) - Movie / TV Tracker
 * [PopcornTime](https://github.com/popcorn-official/popcorn-android) - Torrent Streaming / Chromecast / Use [VPN](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_vpn_guide)
 * [BeeTV](https://beetvapp.me/), [VivaTV](https://www.vivatv.io/) or [NovaTV](https://novatv.app/) - Movies / TV / Anime / Chromecast
