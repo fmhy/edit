@@ -69,7 +69,6 @@
 * [Spotify-DL](https://github.com/SathyaBhat/spotify-dl) - YT Downloader
 * [spotDL](https://github.com/spotDL/spotify-downloader) - YT Downloader
 * [FreyrJS](https://github.com/miraclx/freyr-js) - YT Downloader
-* [SpotiFlyer](https://github.com/Shabinder/SpotiFlyer) - YT Downloader
 * [Spotdlrobot](https://t.me/Spotdlrobot) - Telegram Bot
 * [Spotify Music Downloader](https://t.me/joinchat/DdR2SUvJPBouSW4QlbJU4g) - Telegram Bot
 * [spotify-dl](https://github.com/SwapnilSoni1999/spotify-dl) - Telegram Bot
@@ -243,7 +242,7 @@
 * [VibeOcean](https://defonic.com/vibeocean.html) or [VirtCcean](https://virtocean.com/) - Ambient Ocean Sounds
 * [Calm](https://www.calm.com/app) - Meditation / Sleep Music 
 * [Tide.fm](https://tide.fm/) - Meditation / Sleep Sounds
-* [Ambie](https://github.com/jenius-apps/ambie) - White Noise Generators
+* [Ambie](https://ambieapp.com/) - White Noise Generators
 * [ChillOuts](http://www.chillouts.com/) - Meditation Aid
 * [August Ambiance](https://augustambience.com/) - Ambient Summer Sounds / Relaxation 
 * [ASMRion](https://asmrion.com/), [2](https://defonic.com) - Ambient Noise Generator
@@ -279,7 +278,7 @@
 * [GamDL](https://github.com/glomatico/gamdl) - Apple Music Downloader
 * [FreyrJS](https://github.com/miraclx/freyr-js) - Spotify, Deezer and Apple Music Downloader
 * [Song_downloaderbot](https://t.me/Song_downloaderbot), [DeezerMusicBot](https://t.me/DeezerMusicBot), [DeezloaderAn0n_bot](https://t.me/DeezloaderAn0n_bot) or [deezload2bot](https://t.me/deezload2bot) - Telegram Deezer Bots
-* [RedSea](https://github.com/Dniel97/RedSea), [Hifi-Tui](https://github.com/sachinsenal0x64/Hifi-Tui), [Tidal Media Downloader](http://doc.yaronzz.com/post/tidal_dl_installation/) / [Pro](https://github.com/yaronzz/Tidal-Media-Downloader-PRO) or [orpheusdl-tidal](https://github.com/Dniel97/orpheusdl-tidal) - Tidal Music Downloaders
+* [RedSea](https://github.com/Dniel97/RedSea), [Tidal Media Downloader](http://doc.yaronzz.com/post/tidal_dl_installation/) / [Pro](https://github.com/yaronzz/Tidal-Media-Downloader-PRO) or [orpheusdl-tidal](https://github.com/Dniel97/orpheusdl-tidal) - Tidal Music Downloaders
 * [BandCamp-DL](https://github.com/iheanyi/bandcamp-dl), [Download Bandcamp](https://downloadmusicschool.com/bandcamp/), [bcdl](https://github.com/daot/bcdl) or [Bandcamp Downloader](https://github.com/Otiel/BandcampDownloader) - Bandcamp Downloaders
 * [Librescore Downloader](https://github.com/LibreScore/dl-librescore) - Librescore Downloader
 * [Orpheus Qobuz](https://github.com/yarrm80s/orpheusdl-qobuz), [QobuzDownloaderX-MOD](https://github.com/DJDoubleD/QobuzDownloaderX-MOD) or [qobuz-dl](https://github.com/vitiko98/qobuz-dl) - Qobuz Downloaders
@@ -790,7 +789,7 @@
 
 ## ▷ Audio Plugins
 
-* 🌐 **[Open-Source Audio Plugins](https://github.com/webprofusion/OpenAudio)** - Plugin Projects Index
+* 🌐 **[Open-Source Audio Plugins](https://openaudio.webprofusion.com/)** - Plugin Projects Index
 * ⭐ **[G-MEH](https://g-meh.com/)** / [Premium Bypass](https://gmehpremium.pages.dev/)
 * ⭐ **[bobdule](https://bobdule999.wixsite.com/bob-dule-factory-2)** - Kontakt / Native Instruments Plugins & Tools
 * ⭐ **[/r/CrackedPluginsX](https://www.reddit.com/r/CrackedPluginsX/)** or [/r/PluggnB](https://www.reddit.com/r/PluggnB/) - Plugin Subreddits
