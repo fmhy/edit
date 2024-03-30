@@ -242,7 +242,7 @@
 * ⭐ **[Cryptomator](https://cryptomator.org/)**, [Boxcryptor](https://www.boxcryptor.com/en/) or [Tahoe-LAFS](https://tahoe-lafs.org/trac/tahoe-lafs) - Cloud File Encryption
 * [How Secure is My Password](https://www.security.org/how-secure-is-my-password/) - Password Strength Checker
 * [h8Mail](https://github.com/khast3x/h8mail) or [FirefoxMonitor](https://monitor.firefox.com/) - Data Breach Check
-* [BreachDirectory](https://breachdirectory.org), [Snusbase](https://snusbase.com/), [Leak Lookup](https://leak-lookup.com/), [Trufflehog](https://github.com/trufflesecurity/trufflehog) or [leakpeek](https://leakpeek.com/) - Data Breach Search Engines
+* [BreachDirectory](https://breachdirectory.org), [Snusbase](https://snusbase.com/), [Leak Lookup](https://leak-lookup.com/), [Trufflehog](https://trufflesecurity.com/trufflehog) or [leakpeek](https://leakpeek.com/) - Data Breach Search Engines
 * [I2P](https://geti2p.net/en/) - Encrypted Private Network Layer / [Guide](https://rentry.co/CBGI2P)
 *  [JustDeleteMe](https://justdeleteme.xyz/) - Find / Terminate Old Accounts
 * [OpenPhish](https://openphish.com/), [Netcraft Report](https://report.netcraft.com/report), [PhishStats](https://phishstats.info/) or [PhishTank](https://phishtank.org/) - Report Phishing Sites
@@ -343,7 +343,7 @@
 * [SafeTwitch](https://codeberg.org/SafeTwitch/safetwitch) or [Twineo](https://codeberg.org/CloudyyUw/twineo) - Twitch Frontends
 * [Whoogle](https://benbusby.com/projects/whoogle-search/) - Google Search Frontend
 * [Lingva Translate](https://github.com/TheDavidDelta/lingva-translate) - Google Translate Frontend
-* [Scribe](https://sr.ht/~edwardloveall/Scribe/), [medium.rip](https://medium.rip/) or [LibMedium](https://github.com/realaravinth/libmedium) - Medium Frontends
+* [Scribe](https://sr.ht/~edwardloveall/Scribe/), [medium.rip](https://medium.rip/) or [LibMedium](https://libmedium.batsense.net/) - Medium Frontends
 * [Quetre](https://github.com/zyachel/quetre) - Quora Frontend
 * [Rimgo](https://codeberg.org/rimgo/rimgo) - Imgur Frontend
 * [Binternet](https://github.com/Ahwxorg/Binternet) - Pinterest Frontend
@@ -393,7 +393,7 @@
 
 * 🌐 **[2FA Directory](https://2fa.directory/)** - List of Sites with 2FA Support
 * ⭐ **[Aegis](https://getaegis.app/)** - Android 2FA
-* ⭐ **[Ente Auth](https://github.com/ente-io/ente/tree/main/auth#readme)** - Windows / Mac / Android / iOS 2FA / [Audit](https://ente.io/blog/cryptography-audit/)
+* ⭐ **[Ente Auth](https://github.com/ente-io/ente#ente-auth)** - Windows / Mac / Android / iOS 2FA / [Audit](https://ente.io/blog/cryptography-audit/)
 * [2FAS](https://2fas.com/) - Android / iOS 2FA / [Discord](https://discord.gg/q4cP6qh2g5)
 * [AuthenticatorPro](https://github.com/jamie-mh/AuthenticatorPro) - Android 2FA
 * [Mauth](https://github.com/X1nto/Mauth) - Android 2FA
@@ -474,7 +474,7 @@
 * ⭐ **[SecureDNSClient](https://github.com/msasanmh/SecureDNSClient)** - DNS Proxy GUI / [Guide](https://rentry.co/SecureDNSClient)
 * ⭐ **[Bypass ISP Blocks](https://rentry.co/enable-ech)** - Bypass ISP censorship with Firefox
 * [No Thought is a Crime](https://ntc.party/) - Internet Censorship Discussion
-* [GoodbyeDPI](https://github.com/ValdikSS/GoodbyeDPI/) / [GUI](https://github.com/mguludag/GUI-for-GoodbyeDPI), [PowerTunnel](https://github.com/krlvm/PowerTunnel), [Green Tunnel](https://github.com/SadeghHayeri/GreenTunnel) or [GFW-knocker](https://github.com/GFW-knocker/gfw_resist_tls_proxy) / [Test](https://www.howsmyssl.com/) - DPI Circumvention Local Proxies
+* [GoodbyeDPI](https://github.com/ValdikSS/GoodbyeDPI/) / [GUI](https://github.com/mguludag/GUI-for-GoodbyeDPI), [PowerTunnel](https://github.com/krlvm/PowerTunnel) or [Green Tunnel](https://github.com/SadeghHayeri/GreenTunnel) - DPI Circumvention Local Proxies
 * [Hola Proxy](https://github.com/Snawoot/hola-proxy) - Alternative Client for Hola Free Proxy Service
 * [Hide.me Firefox](https://addons.mozilla.org/en-US/firefox/addon/hide-me-vpn-free-proxy/) / [Chrome](https://chromewebstore.google.com/detail/hideme-proxy/ohjocgmpmlfahafbipehkhbaacoemojp) or [anonymoX](https://anonymox.net/en) - Free Proxy Service Browser Extension
 * [Snowflake](https://snowflake.torproject.org/) - Tor Proxy Browser Extension
