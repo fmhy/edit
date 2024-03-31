@@ -332,7 +332,7 @@
 
 ## ▷ Operating Systems
 
-* 🌐 **[Android ROM List](https://github.com/musabcel/android_rom_list)**
+* 🌐 **[Android ROM Comparisons](https://eylenburg.github.io/android_comparison.htm)** or [Android ROM List](https://github.com/musabcel/android_rom_list)
 * ⭐ **[CustomRomBay](https://customrombay.org/)** - ROMs Compatibility Search
 * ⭐ **[GrapheneOS](https://grapheneos.org/)** - Privacy-Based OS
 * [CalyXOS](https://calyxos.org/) - Privacy-Based OS
