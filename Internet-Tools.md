@@ -675,6 +675,7 @@
 * ⭐ **Greasy Fork Tools** - [Enhancements](https://greasyfork.org/en/scripts/473830) / [Helper](https://greasyfork.org/en/scripts/393396) / [Tweaks](https://greasyfork.org/en/scripts/368183) / [Cleanup Script](https://greasyfork.org/en/scripts/12179) / [Themes](https://greasyfork.org/en/scripts/4336) / [Dark Theme](https://greasyfork.org/en/scripts/404443)
 * ⭐ **[Userscripts Guide](https://rentry.co/userscript-guide)**
 * ⭐ **[Picviewer CE+](https://greasyfork.org/en/scripts/24204)** - Image Viewing Tool
+* [FileCrypt Direct Links](https://greasyfork.org/en/scripts/403170-bypass-filecrypt) - FileCrypt Direct Links
 * [Bypass Google Sorry](https://greasyfork.org/en/scripts/447130) - Bypass Google reCAPTCHA
 * [y2monkey](https://github.com/jijirae/y2monkey) - Download YouTube videos by pressing "SHIFT+D"
 * [r2monkey](https://github.com/jijirae/r2monkey) - Download Reddit videos by pressing "SHIFT+D"
