@@ -62,7 +62,7 @@
 * [ScOOt3r Repacks](https://discord.gg/xe3Fys8Upy) - Download / Torrent
 * [Elamigos](https://elamigos.site/) - Download
 * [Tiny-Repacks](https://www.tiny-repacks.win) - Torrent
-* [FreeGOGPCGames](https://freegogpcgames.com/) - GOG Games Torrent Uploads / [Hash Note](https://pastebin.com/SZgjEyGT), [2](https://ibb.co/0qcfpFM)
+* [FreeGOGPCGames](https://freegogpcgames.com/) - GOG Games Torrent Uploads / [Hash Note](https://pastebin.com/aQKJ5pfB), [2](https://ibb.co/ZLnYGc3)
 * [Magipack](https://www.magipack.games), [CollectionChamber](https://collectionchamber.blogspot.com/) or [ClassicPCGames](https://archive.org/details/classicpcgames) - Retro PC Games
 * [~archive](https://websites.umich.edu/~archive/) - Retro PC / Mac Games
 
