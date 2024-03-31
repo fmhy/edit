@@ -277,7 +277,7 @@
 * ⭐ **[file.haus](https://filehaus.top/)**, [2](https://filehaus.pk/), [3](https://filehaus.su/) - 200GB / Forever / [onion](http://fileha3hjvudqs2moembtaegnpjo5ptec3tomf5dlxx6ydwtajkkahyd.onion/) / [i2p](http://xr256v4weabr3rdz3nqzb27bv3gkwjisuf2d57urqtmh3gx3w7da.b32.i2p/) / [loki ](http://nipqehne9zrtpryw6ig5y9gu7c8gwt8ymrrncufxg1g8wf5t4rqo.loki/)
 * ⭐ **[Gofile](https://gofile.io/)** - Unlimited / 10 days
 * ⭐ **[1fichier](https://1fichier.com/)** - 300GB / 15 days (30 days if you sign up)
-* ⭐ **[Pixeldrain](https://pixeldrain.com/)** - 20GB / 120 days / [Discord](https://discord.gg/TWKGvYAFvX) / [Speedtest File](https://pixeldrain.com/speedtest) / [Bypass](https://pixeldrain-bypass.cybar.xyz)
+* ⭐ **[Pixeldrain](https://pixeldrain.com/)** - 20GB / 120 days / [Discord](https://discord.gg/TWKGvYAFvX) / [Speedtest File](https://pixeldrain.com/speedtest) / [Bypass](https://pixeldrain-bypass.cybar.xyz) / [Bypass Userscript](https://greasyfork.org/en/scripts/491326-pixeldrain-download-bypass)
 * ⭐ **[Send.cm](https://send.cm/)** - 100GB / 15 days
 * ⭐ **[Oshi](https://oshi.at/)** - 5GB / 90 days
 * ⭐ **[Hexupload](https://www.hexupload.net/)** - 15GB / 60 days
