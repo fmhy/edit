@@ -576,7 +576,7 @@
 
 ## ▷ Streaming
 
-* ⭐ **[BanglaPlex](https://banglaplex.art/)** - Movies / Sub / Dub / 1080p / [Telegram](https://t.me/banglaplex)
+* ⭐ **[BanglaPlex](https://banglaplex.art/)** - Movies / Sub / Dub / 1080p
 * ⭐ **[Einthusan](https://einthusan.tv/)** - South Asian Movies / Sub / Dub / 1080p
 * ⭐ **[AnPlay](https://anplay.in/)** - Anime / Dub / 1080p
 * ⭐ **[ToonStream](https://toonstream.net/)** - Cartoons / 1080p / [Telegram](https://telegram.me/toonstream)
@@ -1424,7 +1424,6 @@
 * [Animes480pFinalizados](https://t.me/Animes480pFinalizados) - Anime / Telegram
 * [AndrossElLegado](https://t.me/AndrossElLegado) - Anime / Telegram
 * [animes_kawais](https://t.me/animes_kawais) - Anime / Telegram
-* [SimplementeAnime](https://t.me/SimplementeAnime) - Anime / Telegram
 * [animesfinalizadoLSHD](https://t.me/animesfinalizadoLSHD) - Anime / Telegram
 * [AnimeDark17](https://t.me/AnimeDark17) - Anime / Telegram
 * [N+2](https://nmasmas2.blogspot.com/) - Animated Movies / Cartoons
