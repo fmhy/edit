@@ -65,8 +65,6 @@ footer: true
  
 # Things Removed
 
-- Removed GOG-Games as they've gone [private](https://ibb.co/TLcffcT).
-
 - Removed free-mp3-download as they've shutdown.
 
 - Removed HolyUnblocker as they've [shutdown](https://github.com/QuiteAFancyEmerald/Holy-Unblocker?tab=readme-ov-file#important-message-original).
@@ -74,6 +72,8 @@ footer: true
 - Removed WSA as support for it has been [dropped](https://ibb.co/zxB565S).
 
 - Unstarred FlixHQ in Streaming. This used to be good but seems to be a lot slower recently.
+
+- Removed GOG-Games as they went private, but according to the [message](https://i.ibb.co/qWm3MBT/image.png) on their site they may come back.
 
 ***
 
