@@ -429,7 +429,7 @@
 ## ▷ Streaming
 
 * ⭐ **[Braflix](https://www.braflix.video/)** - Movies / TV / Anime / Dub / 4K / 1080p / [Discord](https://discord.gg/wWKmxARaWH)
-* ⭐ **[HDFilme](https://hdfilme.best/)** - Movies / TV / Anime / Dub / 1080p
+* ⭐ **[HDFilme](https://hdfilme.plus/)** - Movies / TV / Anime / Dub / 1080p
 * ⭐ **[Kinoking](https://kinoking.cc/)** - Movies / TV / Anime / Dub / 1080p
 * ⭐ **[Kinokiste](https://kinokiste.live/)** -  Movies / TV / Dub / 1080p
 * [streamkiste](https://streamkiste.taxi/) - Movies / TV / Dub / 1080p
@@ -1354,7 +1354,7 @@
 * [TheToolBox](https://thetoolbox.es/) - Websites Index
 * [AIfindy](https://aifindy.com/) - AI Tools Index
 * [Diccionario RAE en un clic](https://chromewebstore.google.com/detail/diccionario-rae-en-un-cli/gejdeepcjkfbepfkcfdgiodgoglakiii) - Dictionary Extension
-* [El Museo de los 8 bits](https://museo8bits.com/) / [2](http://www.museo8bits.es/) - History of Computing
+* [El Museo de los 8 bits](https://museo8bits.com/) - History of Computing
 * [TrustScam](https://trustscam.es/) - Website Security Analysis
 * [Steamcito](https://emilianog94.github.io/Steamcito-Precios-Steam-Argentina-Impuestos-Incluidos/landing/index.html) - Converts Steam Prices to Argentine Pesos
 
