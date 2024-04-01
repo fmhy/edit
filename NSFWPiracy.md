@@ -67,7 +67,6 @@
 * [txxx](https://txxx.com/)
 * [3movs](https://www.3movs.com/)
 * [Pornktube](https://www.pornktube.club/) or [TubXPorn](https://tubxporn.xxx/)
-* [pornktube](https://www.pornktube.tv/)
 * [Vid123](https://vid123.net/)
 * [XXXDan](https://xxxdan.com/) - 200 adult categories, non hd
 * [PornHoarder](https://pornhoarder.tv/)
@@ -254,7 +253,6 @@
 * [Nonolo.ai](https://no.nolo.ai/)
 * [AIPorn](https://www.aiporn.net/)
 * [pornpen.ai](https://pornpen.ai/feed)
-* [Pornshow](https://app.pornshow.ai/)
 * [Pornify](https://pornify.cc/)
 * [AIHentai.co](https://aihentai.co/)
 * [Spicy Porn](https://spicy.porn/)
@@ -349,9 +347,7 @@
 * [HentaiCloud](https://www.hentaicloud.com/) - Hentai Streaming
 * [HentaisTube](https://www.hentais.tube/) - Hentai Streaming
 * [Watch Hentai](https://watchhentai.net/) - Hentai Streaming
-* [HentaiDude](https://hentaidude.com/) - Hentai Streaming
-* [HentaiPulse](https://hentaipulse.com/) - Hentai Streaming
-* [LatestHentai](https://latesthentai.com/) - Hentai Streaming
+* [HentaiDude](https://hentaidude.com/) - Hentai Streaming* [LatestHentai](https://latesthentai.com/) - Hentai Streaming
 * [CartoonPornVideos](https://www.cartoonpornvideos.com/) - Hentai Streaming
 * [Hentai2w](https://hentai2w.com/) - Hentai Streaming
 * [sakuracircle](https://sakuracircle.com/) - Hentai DDL 
@@ -431,20 +427,16 @@
 * [Erofus](https://www.erofus.com/) - Comics / [Discord](https://discord.com/invite/ZKCV4CmhaD)
 * [SVSComics](https://svscomics.com/) - Comics
 * [BestPornComix](https://bestporncomix.com/) - Comics
-* [NXTComics](https://nxt-comics.net/) - Comics
-* [KingComicX](https://kingcomix.com/) - Comics
-* [GoldenComics](https://goldencomics.art/) - Comics
+* [NXTComics](https://nxt-comics.net/) - Comics* [GoldenComics](https://goldencomics.art/) - Comics
 * [Porn Comics](https://porncomics.to/) - Comics
 * [BondageComixxx](https://bondagecomixxx.net/) - Comics
 * [Xcomics](https://xcomics.se/) - Comics
 * [Porn Comics](https://porncomics.to/) - Comics
 * [XYZ Porn Comics](https://xyzcomics.com/) - Comics
 * [Manhwa18.cc](https://manhwa18.cc/) - Hentai Manga
-* [manhwas.men](https://manhwas.men/) - Hentai Manga / [Discord](https://discord.com/invite/7t4DfpG)
 * [Mangadass](https://mangadass.com/) - Hentai Manga
 * [Hentaidexy](https://hentaidexy.net/) - Hentai Manga
 * [Hentaiwebtoon](https://hentaiwebtoon.com/) - Hentai Manga
-* [MangaGenki](https://mangagenki.com/) - Hentai Manga
 * [OmegaScans](https://omegascans.org/) - Hentai Manga / [Discord](https://discord.com/invite/BrkUm8jeng)
 * [MadaraDex](https://madaradex.org/) - Hentai Manga / [Discord](https://discord.com/invite/mubnYvjFEY)
 * [Mikocon](https://www.mikocon.com/forum.php?mod=forumdisplay&fid=46) - Hentai Manga
