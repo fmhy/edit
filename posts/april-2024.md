@@ -8,16 +8,6 @@ prev: false
 sidebar: false
 footer: true
 ---
----
-title: Monthly Updates [April 2024]
-description: April 2024 updates
-date: 2024-04-01
-next: false
-aside: left
-prev: false
-sidebar: false
-footer: true
----
 
 # Wiki Updates
 
