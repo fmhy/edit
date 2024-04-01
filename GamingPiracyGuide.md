@@ -890,7 +890,7 @@
 
 ## ▷ Mario Kart Tools
 
-* **Note** - Some track distributions like Retro Rewind and Mario Kart Midnight can be played online via Dolphin emulator.
+* **Note** - Some track distributions like Retro Rewind and Mario Kart Midnight can be played online without a wii via Dolphin emulator.
 
 ***
 
