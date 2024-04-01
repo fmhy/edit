@@ -18,7 +18,7 @@
 * ⭐ **[Deluge](https://www.deluge-torrent.org/)** - [Screenshot](https://i.ibb.co/HdwCH5Q/678a01f3b439.png) / [Plugins](https://dev.deluge-torrent.org/wiki/Plugins) / [Config](https://github.com/ratanakvlun/deluge-ltconfig/releases) / [Telegram Plugin](https://github.com/noam09/deluge-telegramer)
 * ⭐ **[Transmission](https://transmissionbt.com/)** - [Screenshot](https://i.ibb.co/z550kRy/571b08f4981e.png)
 * ⭐ **[torrent-control](https://github.com/Mika-/torrent-control)** or [Remote Torrent Adder](https://github.com/bogenpirat/remote-torrent-adder) - Easily Send Torrents to Client 
-* [Tixati](https://tixati.com/) - [Screenshot](https://i.ibb.co/tPfyPRQ/b0683ce2eb49.png) 
+* ⭐ **[Tixati](https://tixati.com/)** - [Screenshot](https://i.ibb.co/tPfyPRQ/b0683ce2eb49.png) 
 * [Motrix](https://motrix.app/) - [Screenshot](https://i.ibb.co/SQqrdpW/2950c09df08a.png) / [GitHub](https://github.com/agalwood/Motrix)
 * [WizTorrent](https://wiztorrent.com/) - [Screenshot](https://i.ibb.co/7zbQ9Yt/O3VbklP.jpg) / Torrent Player / WebShare
 * [Picotorrent](https://picotorrent.org/) - [Screenshot](https://i.ibb.co/Pz4qb8Q/df96c0ff3912.png)
