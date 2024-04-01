@@ -6,30 +6,6 @@
 
 # ► Android APKs
 
-* ⭐ **[AppManager](https://muntashirakon.github.io/AppManager/)** - Package Manager
-* ⭐ **[Lucky Patcher](https://www.luckypatchers.com/download/)** - App Patcher / [Avoid "LP Downloader"](https://pastebin.com/UXxaVqX9)
-* ⭐ **Lucky Patcher Tools** - [Guide](https://flixbox.github.io/lp-compat/docs/intro) / [Compatibility](https://flixbox.github.io/lp-compat/) / [Subreddit](https://www.reddit.com/r/luckypatcher/) / [Discord](https://discord.com/invite/RS5ddYf7mw)
-* ⭐ **[Android APK CSE](https://cse.google.com/cse?cx=e0d1769ccf74236e8)** / [CSE 2](https://cse.google.com/cse?cx=73948689c2c206528) / [CSE 3](https://cse.google.com/cse?cx=a805854b6a196d6a6), [App Finder](https://play.google.com/store/apps/details?id=scadica.aq) or [ShowAppsLike](https://showappslike.com/) - APK Search Engines
-* [Direct Download From Google Play](https://greasyfork.org/en/scripts/33005-direct-download-from-google-play/) - Add Direct DL Links to Google Play
-* [GBox](https://www.gboxlab.com/) - GMS Google Box
-* [Split App Installer](https://github.com/Aefyr/SAI) - Split APK Installer
-* [InstallWithOptions](https://github.com/zacharee/InstallWithOptions/) or [Geto](https://github.com/JackEblan/Geto) - Install APKs with Extra Options
-* [Raccoon](https://raccoon.onyxbits.de/) - Private APK Downloader
-* [APKeep](https://github.com/EFForg/apkeep) - APK Download CLIs
-* [Kanade](https://alexrintt.io/kanade/) - APK Extractor
-* [APK Editor Studio](https://qwertycube.com/apk-editor-studio/) - APK Editor
-* [AppBrain](https://www.appbrain.com/) - View APK Statistics
-* [APKTool](https://github.com/iBotPeaches/Apktool) - APK Reverse Engineering Tool
-* [BlackDex](https://github.com/CodingGay/BlackDex) - APK Unpacking Tool
-* [CorePatch](https://github.com/LSPosed/CorePatch) - Disable Signature Verification / [Telegram](https://t.me/core_patch_chat)
-* [Zygisk Detach](https://github.com/j-hc/zygisk-detach) / [Telegram](https://t.me/rv_magisk) - Detach APKs from Google Play Store
-* [UpgradeAll](https://github.com/DUpdateSystem/UpgradeAll), [APKUpdater](https://github.com/rumboalla/apkupdater) or [Obtainium](https://github.com/ImranR98/Obtainium/) - APK Updaters
-* [Beta Maniac](https://play.google.com/store/apps/details?id=it.mirko.beta) - Beta Release Notifications
-* [Let Me Downgrade](https://github.com/DavidBerdik/Let-Me-Downgrade) - Downgrade Apps on Android 12/13 / Root
-* [APKAdmin](https://apkadmin.com/) - APK Hosting Site
-
-***
-
 ## ▷ Modded APKs
 
 * ⭐ **[Mobilism](https://forum.mobilism.org/viewforum.php?f=398)** / [App](https://forum.mobilism.org/app/) / [User Ranks](https://pastebin.com/pZuuMxYm)
@@ -128,6 +104,32 @@
 * [PixelLauncherMods](https://github.com/KieronQuinn/PixelLauncherMods) - Enable Features in Stock App Launcher / Root
 * [QuickSwitch](https://github.com/skittles9823/QuickSwitch) - Enable Quickstep in Launchers 
 * [Activity Launcher](https://github.com/butzist/ActivityLauncher) - Activity Launch Shortcuts
+
+***
+
+## ▷ APK Tools
+
+* ⭐ **[AppManager](https://muntashirakon.github.io/AppManager/)** - Package Manager
+* ⭐ **[Lucky Patcher](https://www.luckypatchers.com/download/)** - App Patcher / [Avoid "LP Downloader"](https://pastebin.com/UXxaVqX9)
+* ⭐ **Lucky Patcher Tools** - [Guide](https://flixbox.github.io/lp-compat/docs/intro) / [Compatibility](https://flixbox.github.io/lp-compat/) / [Subreddit](https://www.reddit.com/r/luckypatcher/) / [Discord](https://discord.com/invite/RS5ddYf7mw)
+* ⭐ **[Android APK CSE](https://cse.google.com/cse?cx=e0d1769ccf74236e8)** / [CSE 2](https://cse.google.com/cse?cx=73948689c2c206528) / [CSE 3](https://cse.google.com/cse?cx=a805854b6a196d6a6), [App Finder](https://play.google.com/store/apps/details?id=scadica.aq) or [ShowAppsLike](https://showappslike.com/) - APK Search Engines
+* [Direct Download From Google Play](https://greasyfork.org/en/scripts/33005-direct-download-from-google-play/) - Add Direct DL Links to Google Play
+* [GBox](https://www.gboxlab.com/) - GMS Google Box
+* [Split App Installer](https://github.com/Aefyr/SAI) - Split APK Installer
+* [InstallWithOptions](https://github.com/zacharee/InstallWithOptions/) or [Geto](https://github.com/JackEblan/Geto) - Install APKs with Extra Options
+* [Raccoon](https://raccoon.onyxbits.de/) - Private APK Downloader
+* [APKeep](https://github.com/EFForg/apkeep) - APK Download CLIs
+* [Kanade](https://alexrintt.io/kanade/) - APK Extractor
+* [APK Editor Studio](https://qwertycube.com/apk-editor-studio/) - APK Editor
+* [AppBrain](https://www.appbrain.com/) - View APK Statistics
+* [APKTool](https://github.com/iBotPeaches/Apktool) - APK Reverse Engineering Tool
+* [BlackDex](https://github.com/CodingGay/BlackDex) - APK Unpacking Tool
+* [CorePatch](https://github.com/LSPosed/CorePatch) - Disable Signature Verification / [Telegram](https://t.me/core_patch_chat)
+* [Zygisk Detach](https://github.com/j-hc/zygisk-detach) / [Telegram](https://t.me/rv_magisk) - Detach APKs from Google Play Store
+* [UpgradeAll](https://github.com/DUpdateSystem/UpgradeAll), [APKUpdater](https://github.com/rumboalla/apkupdater) or [Obtainium](https://github.com/ImranR98/Obtainium/) - APK Updaters
+* [Beta Maniac](https://play.google.com/store/apps/details?id=it.mirko.beta) - Beta Release Notifications
+* [Let Me Downgrade](https://github.com/DavidBerdik/Let-Me-Downgrade) - Downgrade Apps on Android 12/13 / Root
+* [APKAdmin](https://apkadmin.com/) - APK Hosting Site
 
 ***
 
@@ -451,7 +453,6 @@
 * [JustUseApp](https://justuseapp.com/) - Hide App Payments
 * [Amarok Hider](https://github.com/deltazefiro/Amarok-Hider/blob/main/README.md) - Hide Files / Apps
 * [PrivacyBlur](https://privacyblur.app/) - Blur Sensitive Parts of Photos / [GitHub](https://github.com/MATHEMA-GmbH/privacyblur)
-* [Pinball for Android](https://github.com/fexed/Pinball-on-Android) - Space Cadet Pinball
 
 ***
 
