@@ -41,7 +41,7 @@
 * ⭐ **[JDownloader](https://jdownloader.org/jdownloader2)** - Download Manager / [Debloat](https://rentry.org/jdownloader2) / [Captcha Solver](https://github.com/cracker0dks/CaptchaSolver) / [Dark Theme](https://redd.it/q3xrgj) / [Dracula Theme](https://draculatheme.com/jdownloader2)
 * ⭐ **[IDM](https://www.internetdownloadmanager.com/)** - Download Manager / [Activation](https://github.com/WindowsAddict/IDM-Activation-Script)
 * ⭐ **[XDM](https://xtremedownloadmanager.com/)** - Download Manager / [GitHub](https://github.com/subhra74/xdm) 
-* [Motrix](https://www.motrix.app/) - Download Manager / [Web Extensions](https://github.com/gautamkrishnar/motrix-webextension/) / [GitHub](https://github.com/agalwood/Motrix)
+* ⭐ **[Motrix](https://www.motrix.app/)** - Download Manager / [Web Extensions](https://github.com/gautamkrishnar/motrix-webextension/) / [GitHub](https://github.com/agalwood/Motrix)
 * [pyLoad](https://pyload.net/) - Lightweight Download Manager
 * [File Centipede](https://filecxx.com/) - Upload / Download Manager
 * [DownThemAll](https://www.downthemall.org/) or [Turbo Download Manager](https://add0n.com/turbo-download-manager-v2.html) / [GitHub](https://github.com/inbasic/turbo-download-manager-v2/) - Download Management Extensions
@@ -164,6 +164,7 @@
 * ⭐ **[SyncThing](https://syncthing.net/)** - File Sync
 * ⭐ **[KDEConnect](https://kdeconnect.kde.org/)** - Phone / File Sync
 * ⭐ **[freefilesync](https://freefilesync.org/)** - File Backup
+* ⭐ **[Kopia](https://kopia.io/)** - File Backup
 * [MyPhoneExplorer](https://www.fjsoft.at/) - Phone / Desktop Sync
 * [etesync](https://www.etesync.com/) - File Sync
 * [allwaysync](https://allwaysync.com/) - File Sync
@@ -181,7 +182,6 @@
 * [Borg](https://www.borgbackup.org/) - File Backup
 * [USBImager](https://bztsrc.gitlab.io/usbimager/) - File Backup
 * [Toucan](https://github.com/PortableApps/Toucan) - File Backup
-* [Kopia](https://kopia.io/) - File Backup
 * [duplicity](https://duplicity.gitlab.io/) - File Backup
 
 ***
