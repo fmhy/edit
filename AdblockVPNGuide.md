@@ -34,7 +34,7 @@
 * [FastForward](https://fastforward.team/) / [Discord](https://discord.gg/RSAf7b5njt)
 * [AdsBypasser](https://adsbypasser.github.io/) / [2](https://github.com/adsbypasser/adsbypasser)
 * [TheBypasser](https://thebypasser.com/)
-* [Bypass-Links](https://github.com/amitsingh-007/bypass-links)
+* [Bypass-Links](https://bypass-links.vercel.app) / [GitHub](https://github.com/amitsingh-007/bypass-links)
 * [Yuumari](https://yuumari.com/bypass/) / [Extension](https://chromewebstore.google.com/detail/auto-link-bypasser/doiagnjlaingkmdjlbfalakpnphfmnoh) / [Script](https://yuumari.com/m-links/#js-code)
 * [UploadHEaven](https://greasyfork.org/en/scripts/442019)
 * [Bypass FileCrypt](https://greasyfork.org/en/scripts/403170) - FileCrypt Bypass
@@ -57,7 +57,7 @@
 * ⭐ **[YogaDNS](https://yogadns.com/)**  - DNS Adblocking
 * ⭐ **[Mullvad DNS](https://mullvad.net/en/help/dns-over-https-and-dns-over-tls/)** - DNS Adblocking
 * ⭐ **[NextDNS](https://nextdns.io)** - DNS Adblocking / [Guide](https://github.com/yokoffing/NextDNS-Config) / [Video](https://youtu.be/WUG57ynLb8I)
-* ⭐ **[serverless-dns](https://github.com/serverless-dns/serverless-dns)** - Serverless DNS
+* ⭐ **[serverless-dns](https://rethinkdns.com/configure)** - Serverless DNS
 * [ControlD](https://controld.com/) - DNS Manager
 * [Adguard DNS](https://adguard-dns.io/) - DNS Adblocking
 * [AlternateDNS](https://alternate-dns.com/index.php) - DNS Adblocking
@@ -69,7 +69,7 @@
 * Pi-Hole Tools - [Install Script](https://github.com/DesktopECHO/Pi-Hole-for-WSL1) / [Filter](https://firebog.net/) / [Firefox](https://addons.mozilla.org/en-US/firefox/addon/alanine/) / [Chrome](https://chromewebstore.google.com/detail/alanine/lohlpbknpcngpjifmofkidennikljlfi) / [Docker](https://hub.docker.com/repository/docker/kulda22/alanine) / [Antitelemetry](https://github.com/MoralCode/pihole-antitelemetry)
 * [TBlock](https://tblock.me/) - DNS Adblocking / [Filters](https://codeberg.org/tblock/filters)
 * [dog](https://dns.lookup.dog/) - DNS CLI
-* [Stubby](https://github.com/getdnsapi/stubby) - DNS Stub Resolver
+* [Stubby](https://dnsprivacy.org/dns_privacy_daemon_-_stubby/) - DNS Stub Resolver
 * [DuckDNS](https://www.duckdns.org/), [FreeDNS](https://freedns.afraid.org/), [NoIP](https://www.noip.com/) or [Desec](https://desec.io/) - Dynamic DNS Service
 * [Phishing Army](https://phishing.army/) - DNS Phishing Blocklist
 * [BIND](https://gitlab.isc.org/isc-projects/bind9) - Portable DNS Protocol
@@ -186,7 +186,7 @@
 * [Facebook Doc Stories](https://docs.google.com/document/d/1QYqmJsifBjf_xA23Ea7AdeMFyjGWaF_dvhi5EZdNUf4/edit) - Facebook Malpractices Index
 * [Privacy.com](https://privacy.com/) - Make Secure Payments / US only 
 * [OTPClient](https://github.com/paolostivanin/OTPClient) - One-Time Password Client 
-* [image-scrubber](https://github.com/everestpipkin/image-scrubber) - Anonymize Protest Photos
+* [image-scrubber](https://everestpipkin.github.io/image-scrubber) / [GitHub](https://github.com/everestpipkin/image-scrubber) - Anonymize Protest Photos
 * [Mobile Verification Toolkit](https://www.privacyguides.org/en/device-integrity/) - Test for Potential Compromises on Android / iOS
 * [GoFOSS](https://gofoss.net/) - Why You Should Use FOSS Alternatives
 * [If An Agent Knocks](https://docs.google.com/document/d/176Yds1p63Q3iaKilw0luChMzlJhODdiPvF2I4g9eIXo/) - Best Practices if Contacted by Agents
@@ -255,7 +255,7 @@
 * [GPGTools](https://gpgtools.org/) - Encrypt & Sign Data / Communications 
 * [PeerTube](https://joinpeertube.org/) / [2](https://search.joinpeertube.org/) / [3](https://sepiasearch.org/) - Decentralized Video Hosting / [Instances](https://instances.joinpeertube.org/instances)
 * [Redact](https://redact.dev/) - Delete Twitter / Reddit Posts
-* [Undiscord](https://github.com/victornpb/undiscord), [discord-delete](https://github.com/cedws/discord-delete), or [QuickDeleteMessages](https://u.nu/9i9jk) - Delete Discord Messages / [Warning](https://i.ibb.co/pdg4hRr/0b0d78219f05.png)
+* [Undiscord](https://victornpb.github.io/undiscord), [discord-delete](https://github.com/cedws/discord-delete), or [QuickDeleteMessages](https://u.nu/9i9jk) - Delete Discord Messages / [Warning](https://i.ibb.co/pdg4hRr/0b0d78219f05.png)
 * [Social Amnesia](https://github.com/Nick-Gottschlich/Social-Amnesia) - Reddit / Twitter Auto Post Delete
 * [delete-likes-from-twitter](https://gist.github.com/aymericbeaumet/d1d6799a1b765c3c8bc0b675b1a1547d) - Delete Twitter Likes / Favorites 
 * [Unfavinator](http://unfavinator.com/) - Delete Twitter Favorites
@@ -309,7 +309,7 @@
 * [Safing Portmaster](https://safing.io/) - Monitor Network / Block Trackers / [Discord](https://discord.com/invite/safing) / [GitHub](https://github.com/Safing/portmaster)
 * [TrackMeNot](https://www.trackmenot.io/) - Tracking Protection
 * [JShelter](https://jshelter.org/) - Prevent Fingerprinting / [Warning](https://github.com/arkenfox/user.js/issues/1729#issuecomment-1739135479)
-* [Extension Detector](https://github.com/z0ccc/extension-detector) - Extension Fingerprinting Tests
+* [Extension Detector](https://z0ccc.github.io/extension-detector) / [GitHub](https://github.com/z0ccc/extension-detector) - Extension Fingerprinting Tests
 * [NoScriptFingerprint](https://noscriptfingerprint.com/) - Non-JavaScript Fingerprinting
 * [AnonymousRedirect](https://adguardteam.github.io/AnonymousRedirect/) - Anonymize Links
 * [Simple Opt Out](https://simpleoptout.com/) - Turn off Targeted Ads
@@ -321,7 +321,7 @@
 ## ▷ Privacy Extensions
 
 * ⭐ **[uBlock Origin](https://github.com/gorhill/uBlock#installation)** - Privacy Extension / Adblock / [Guide](https://addons.mozilla.org/blog/ublock-origin-everything-you-need-to-know-about-the-ad-blocker/) / [Advanced](https://youtu.be/2lisQQmWQkY)
-* [Language Switcher](https://github.com/locale-switcher/locale-switcher), [2](https://addons.mozilla.org/en-US/firefox/addon/languageswitch) - Change Language Identifier
+* [Language Switcher](https://chrome.google.com/webstore/detail/locale-switcher/kngfjpghaokedippaapkfihdlmmlafcc) / [GitHub](https://github.com/locale-switcher/locale-switcher), [2](https://addons.mozilla.org/en-US/firefox/addon/languageswitch) - Change Language Identifier
 * [SocialSharePrivacy](https://panzi.github.io/SocialSharePrivacy/) - Turn Off Social Sharing Buttons
 * [WhatsApp Privacy Extension](https://pfwa.lukaslen.com/) - Hide WhatsApp Messages Until Hovered Over / [GitHub](https://github.com/LukasLen/Privacy-Extension-For-WhatsApp-Web)
 * [WAIncognito](https://chromewebstore.google.com/detail/waincognito/alhmbbnlcggfcjjfihglopfopcbigmil) - Disable WhatsApps Read Receipts & Presence Updates 
@@ -345,19 +345,19 @@
 * [Whoogle](https://benbusby.com/projects/whoogle-search/) - Google Search Frontend
 * [Lingva Translate](https://github.com/TheDavidDelta/lingva-translate) - Google Translate Frontend
 * [Scribe](https://sr.ht/~edwardloveall/Scribe/), [medium.rip](https://medium.rip/) or [LibMedium](https://libmedium.batsense.net/) - Medium Frontends
-* [Quetre](https://github.com/zyachel/quetre) - Quora Frontend
+* [Quetre](https://quetre.iket.me) / [GitHub](https://github.com/zyachel/quetre) - Quora Frontend
 * [Rimgo](https://codeberg.org/rimgo/rimgo) - Imgur Frontend
 * [Binternet](https://github.com/Ahwxorg/Binternet) - Pinterest Frontend
 * [Pixivfe](https://codeberg.org/VnPower/pixivfe) - Pixiv Frontend
 * [Gothub](https://codeberg.org/gothub/gothub) - GitHub Frontend
-* [AnonymousOverflow](https://github.com/httpjamesm/AnonymousOverflow) - StackOverflow Frontend
+* [AnonymousOverflow](https://code.whatever.social) - StackOverflow Frontend
 * [BreezeWiki](https://breezewiki.com/) - Fandom Frontend
 * [Tent](https://codeberg.org/sun/Tent) - Bandcamp Frontend
 * [Dumb](https://codeberg.org/rramiachraf/dumb) or [Intellectual](https://github.com/Insprill/intellectual) - Genius Frontend
 * [Rural Dictionary](https://codeberg.org/zortazert/rural-dictionary) - Urban Dictionary Frontend
 * [BiblioReads](https://codeberg.org/nesaku/BiblioReads) - Goodreads Frontend
-* [LibreMDb](https://github.com/zyachel/libremdb) - IMDb Frontend
-* [Neuters](https://github.com/HookedBehemoth/neuters) - Reuters Frontend
+* [LibreMDb](https://libremdb.iket.me - IMDb Frontend
+* [Neuters](https://neuters.de/) - Reuters Frontend
 
 ***
 
@@ -386,7 +386,7 @@
 * [ekoru](https://ekoru.org/)
 * [Gibiru](https://gibiru.com/)
 * [SearXNG](https://docs.searxng.org/) - Self-Hosted
-* [Whoogle](https://github.com/benbusby/whoogle-search) - Self-Hosted
+* [Whoogle](https://pypi.org/project/whoogle-search/) - Self-Hosted
 
 ***
 
@@ -396,14 +396,14 @@
 * ⭐ **[Aegis](https://getaegis.app/)** - Android 2FA
 * ⭐ **[Ente Auth](https://github.com/ente-io/ente#ente-auth)** - Windows / Mac / Android / iOS 2FA / [Audit](https://ente.io/blog/cryptography-audit/)
 * [2FAS](https://2fas.com/) - Android / iOS 2FA / [Discord](https://discord.gg/q4cP6qh2g5)
-* [AuthenticatorPro](https://github.com/jamie-mh/AuthenticatorPro) - Android 2FA
+* [AuthenticatorPro](https://authenticatorpro.jmh.me) - Android 2FA
 * [Mauth](https://github.com/X1nto/Mauth) - Android 2FA
 * [KeePassXC](https://keepassxc.org/) - Windows / Mac / Linux 2FA / [Guide](https://youtu.be/ckWPHaQwft8)
 * [AuthMe](https://authme.levminer.com/) - Windows / Mac / Linux 2FA / [GitHub](https://github.com/Levminer/authme)
 * [Tauthy](https://github.com/pwltr/tauthy) - Windows / Mac / Linux 2FA
 * [Yubioath](https://developers.yubico.com/yubioath-flutter/) - Windows / Android 2FA / YubiKeys
-* [Protecc](https://github.com/FireCubeStudios/Protecc) - Windows 2FA
-* [2FAuth](https://github.com/Bubka/2FAuth) - Web App 2FA / Self-hosted
+* [Protecc](https://apps.microsoft.com/store/detail/protecc-2fa-client/9PJX91M06TZS) / [GitHub](https://github.com/FireCubeStudios/Protecc) - Windows 2FA
+* [2FAuth](https://docs.2fauth.app/) - Web App 2FA / Self-hosted
 * [Sentinel](https://getsentinel.io/) - iOS / Mac 2FA
 * [Raivo OTP](https://raivo-otp.com) - iOS 2FA
 * [OTP Auth](https://apps.apple.com/ca/app/otp-auth/id659877384) - iOS 2FA
@@ -459,9 +459,9 @@
 * [WireHole](https://github.com/IAmStoxe/wirehole) - Wireguard VPN w/ Adblocking Capabilities 
 * [Syntropy](https://www.syntropystack.com/vpn), [Self Hosted VPN](https://github.com/rajannpatel/Pi-Hole-on-Google-Compute-Engine-Free-Tier-with-Full-Tunnel-and-Split-Tunnel-Wireguard-VPN-Configs), [VpnHood](https://github.com/vpnhood/VpnHood), [n2n](https://github.com/ntop/n2n), [ipsec-vpn](https://github.com/hwdsl2/setup-ipsec-vpn) or [Outline](https://getoutline.org/) - Self-Hosted VPN
 * [OpenConnect](https://www.infradead.org/openconnect/) - SSL VPN / [GUI](https://openconnect.github.io/openconnect-gui/)
-* [Gluetun](https://github.com/qdm12/gluetun) - Tunnel your Docker containers through a VPN
+* [Gluetun](https://hub.docker.com/r/qmcgaw/gluetun) / [GitHub](https://github.com/qdm12/gluetun) - Tunnel your Docker containers through a VPN
 * [Pritunl](https://pritunl.com/) - VPN Server
-* [Algo VPN](https://github.com/trailofbits/algo) - Cloud VPN
+* [Algo VPN](https://blog.trailofbits.com/2016/12/12/meet-algo-the-vpn-that-works/) / [GitHub](https://github.com/trailofbits/algo) - Cloud VPN
 * [Amnezia](https://amnezia.org/) - Self-hosted VPN
 * [VPNHotspot](https://github.com/Mygod/VPNHotspot) - Share VPN Connection over Hotspot
 
@@ -485,11 +485,11 @@
 * [Proxifier](https://www.proxifier.com/) - Add Proxy Functionality to Apps / [Keys](https://rentry.co/FMHYBase64#proxifier-keys)
 * [wireproxy](https://github.com/pufferffish/wireproxy) - Use VPNs as proxies
 * [Hiddify](https://hiddify.com/) - Auto-Proxy Client
-* [NginxProxyManager](https://github.com/NginxProxyManager/nginx-proxy-manager) - Self-Hosted Proxy Server
+* [NginxProxyManager](https://nginxproxymanager.com) / [GitHub](https://github.com/NginxProxyManager/nginx-proxy-manager) - Self-Hosted Proxy Server
 * [Shadowsocks](https://shadowsocks.org/) / [Free Servers](https://github.com/ruanfei/cross), [2](https://github.com/learnhard-cn/free_proxy_ss), [3](https://shadowmere.akiel.dev/) / [Client](https://github.com/shadowsocks/shadowsocks-windows) - Proxy Client and Self-Hosted Server
-* [Hysteria](https://github.com/apernet/hysteria) - Proxy Client and Self-Hosted Server
+* [Hysteria](https://v2.hysteria.network/) - Proxy Client and Self-Hosted Server
 * [Xray](https://github.com/XTLS/Xray-core) - Proxy Client and Self-Hosted Server / [Telegram](https://t.me/projectXray)
-* [Ultraviolet](https://github.com/titaniumnetwork-dev/Ultraviolet) or [Metallic](https://github.com/cognetwork-dev/Metallic) - Self-Hosted Proxy Websites
+* [Ultraviolet](https://docs.titaniumnetwork.org/proxies/ultraviolet) or [Metallic](https://github.com/cognetwork-dev/Metallic) - Self-Hosted Proxy Websites
 * [1337x Proxy](https://redd.it/tz7nyx) - 1337x Proxy Guide / [Example](https://pastebin.com/3n5K0QrP)
 
 ***
@@ -519,6 +519,6 @@
 * [Proxy Site](https://proxysite.cloud/)
 * [Google Translate](https://translate.google.com/) - [How to use](https://redd.it/fawkjy)
 * [Proxy Scrape](https://github.com/JaredLGillespie/proxyscrape) - Python Library for Retrieving Free Proxies
-* [Proxy-Checker](https://proxy-checker.net/), [proxy-scraper](https://github.com/iw4p/proxy-scraper), [What is my Proxy](http://www.whatismyproxy.com/), [proxy-scraper-checker](https://github.com/monosans/proxy-scraper-checker), [Socker](https://github.com/TheSpeedX/socker) or [Unfx Proxy Checker](https://github.com/openproxyspace/unfx-proxy-checker) - Proxy Scrapers / Checkers
+* [Proxy-Checker](https://proxy-checker.net/), [proxy-scraper](https://github.com/iw4p/proxy-scraper), [What is my Proxy](http://www.whatismyproxy.com/), [proxy-scraper-checker](https://github.com/monosans/proxy-scraper-checker), [Socker](https://github.com/TheSpeedX/socker) or [Unfx Proxy Checker](https://openproxy.space/software/proxy-checker) / [GitHub](https://github.com/openproxyspace/unfx-proxy-checker) - Proxy Scrapers / Checkers
 * [CheckSocks5](https://checksocks5.com/) - Socks5 Proxy Checker
 * [Proxynova](https://www.proxynova.com/proxy-server-list/country-ir/) - Iranian Proxies
