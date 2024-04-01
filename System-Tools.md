@@ -83,7 +83,7 @@
 
 * ⭐ **[Scoop](https://scoop.sh/)**
 * ⭐ **[Ninite](https://ninite.com/)**
-* ⭐ **[WingetUI](https://github.com/marticliment/WingetUI)** or [winget-cli](https://github.com/microsoft/winget-cli)
+* ⭐ **[UniGetUI](https://github.com/marticliment/WingetUI)** or [winget-cli](https://github.com/microsoft/winget-cli)
 * ⭐ **WinGet Tools** - [Tools](https://github.com/jdhitsolutions/WingetTools)  / [Packages](https://github.com/microsoft/winget-pkgs), [2](https://winget.run/) / [Automation](https://github.com/topgrade-rs/topgrade) / [Pac-Man](https://github.com/rami3l/pacaptr)
 * [NirLauncher](https://launcher.nirsoft.net/)
 * [Chocolatey](https://chocolatey.org/) / [GUI](https://github.com/chocolatey/ChocolateyGUI)
