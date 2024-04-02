@@ -316,6 +316,7 @@
 * [NandGame](https://nandgame.com/) - Computer Building Puzzle
 * [From Nand To Tetris](https://www.nand2tetris.org/course) - Computer Building Lesson
 * [Copetti](https://www.copetti.org/) - In-depth Console Architecture Analysis / [GitHub](https://github.com/flipacholas/Architecture-of-consoles)
+* [Web Browser Engineering](https://browser.engineering/) - Learn about Browser Engineering
 * [CPU Land](https://cpu.land/) - What Happens when you run Programs
 * [Computer Science Lecture Links](https://github.com/riti2409/Resources-for-preparation-Of-Placements)
 
@@ -401,6 +402,9 @@
 * [http-server](https://github.com/http-party/http-server) - No Config HTTP Server
 * [Apache](https://httpd.apache.org/) - HTTP Server
 * [h5ai](https://larsjung.de/h5ai/) - HTTP Web Server Index / [GitHub](https://github.com/lrsjng/h5ai)
+* [webri.ng](https://webri.ng/) - Webring Host / [GitHub](https://github.com/webri-ng/webri.ng)
+* [onionring.js](https://garlic.garden/onionring/) - Webring Script
+* [Webring List](https://brisray.com/web/webring-list.htm) - Webring Directory
 * [SyAgent](https://syagent.com/), [TA Vivo](https://github.com/ta-vivo/ta-vivo) or [HertzBeat](https://hertzbeat.com/) - Server Monitors
 * [BawkBox](https://bawkbox.com/) - Website Widgets
 * [LibreCaptcha](https://github.com/librecaptcha/lc-core) or [mCaptcha](https://mcaptcha.org/) - Captcha Systems
@@ -518,6 +522,7 @@
 * [Codebases](https://github.com/reacttips-dev/codebases) - ReactJS Project Source Codes
 * [vite](https://vitejs.dev/) or [layoutit](https://layoutit.com/) - Frontend Development Tools
 * [Frontend Development](https://github.com/dypsilon/frontend-dev-bookmarks) - Frontend Development Resources
+* [BoxCoding](https://www.avabucks.it/) - Frontend CSS Components
 * [Hydrogen](https://github.com/Shopify/hydrogen) - Online Store Templates
 * [MicroCopy](https://www.microcopy.me) - Copy Common Website Text
 * [RoughAnnotations](https://roughnotation.com/) - Webpage Annotations / Animations
@@ -538,8 +543,6 @@
 * [Cursor Effects](https://tholman.com/cursor-effects/) - 90's Style Cursors
 * [RV's Free Effects](https://www.mf2fm.com/rv/) - Site / Cursor Effects
 * [NakerApp](https://app.naker.io/back/) - Interactive Background Maker
-* [Box-Shadow](https://box-shadow.art/) - Box Shadow Generator
-* [Shadow Palette Generator](https://www.joshwcomeau.com/shadow-palette/) - CSS Shadow Generator
 * [Error404](https://error404.fun/) - Free 404 Pages
 * [HTTP Cats](https://http.cat/) - Put Cat Pictures in Your Status Codes
 
@@ -564,7 +567,7 @@
 * [DNS over HTTPS](https://github.com/curl/curl/wiki/DNS-over-HTTPS) - HTTPS DoH Queries
 * [DNS Propagation](https://dnspropagation.net/) - DNS Checker
 * [Meta Tag Gen](https://lewdev.github.io/apps/meta-tag-gen/), [OpenGraph](https://www.opengraph.xyz/) or [MetaTags](https://metatags.io/) - Meta Tag Generators
-* [BrandSnap](https://brandsnap.ai/), [atlaq](https://atlaq.com/), [AIconicDomain](https://aiconicdomain.com/), [namy.ai](https://namy.ai/), [Pyfunceble](https://pyfunceble.github.io/#/), [realtime.at](https://www.realtime.at/), [Host.io](https://host.io/), [Whois.com](https://www.whois.com/), [instantdomainsearch](https://instantdomainsearch.com/), [IWantMyName](https://iwantmyname.com/), [expireddomains](https://www.expireddomains.net/) or [Domainr](https://domainr.com/) - Domain Availability Checkers
+* [BrandSnap](https://brandsnap.ai/), [atlaq](https://atlaq.com/), [namy.ai](https://namy.ai/), [Pyfunceble](https://pyfunceble.github.io/#/), [realtime.at](https://www.realtime.at/), [Host.io](https://host.io/), [Whois.com](https://www.whois.com/), [instantdomainsearch](https://instantdomainsearch.com/), [IWantMyName](https://iwantmyname.com/), [expireddomains](https://www.expireddomains.net/) or [Domainr](https://domainr.com/) - Domain Availability Checkers
 * [DNForum](https://www.dnforum.com/) - Domain Name Forum
 * [WorthBuck](https://worthbuck.com/) or [SitePriace](https://www.siteprice.org/) - Domain Price Estimations
 * [HaveIBeenSquatted](https://haveibeensquatted.com) - Typosquatting Discovery Tool
@@ -585,7 +588,7 @@
 * [vichan](https://github.com/vichan-devel/vichan) or [overscript](https://overscript.net/) - Imageboard Hosting
 * [ProBoards](https://www.proboards.com/) - Forum & Imageboard Hosting
 * [MyBB](https://www.mybb.com/), [FreeFlarum](https://freeflarum.com/) or [PHPBB](https://www.phpbb.com/) - Forum Hosting
-* [Media Wiki](https://www.mediawiki.org/), [xWiki](https://www.xwiki.org/xwiki/bin/view/Main/), [tWiki](https://twiki.org/), [DokuWiki](https://www.dokuwiki.org/dokuwiki), [Miraheze](https://miraheze.org/) or [Fandom](https://www.fandom.com/) - Host Free Wiki
+* [Media Wiki](https://www.mediawiki.org/), [xWiki](https://www.xwiki.org/xwiki/bin/view/Main/), [DokuWiki](https://www.dokuwiki.org/dokuwiki), [Miraheze](https://miraheze.org/) or [Fandom](https://www.fandom.com/) - Host Free Wiki
 * [HumHub](https://www.humhub.com) or [scuttlebutt](https://scuttlebutt.nz/) - Self-Hosted Social Network
 * [UNIT3D Community Edition](https://github.com/HDInnovations/UNIT3D-Community-Edition) - Private Tracker Hosting
 
@@ -1390,7 +1393,10 @@
 * [Water.css](https://watercss.kognise.dev/) - CSS Styles
 * [Style Stage](https://stylestage.dev/) - Modern CSS Styles
 * [USA.css](https://bennettfeely.com/usacss/) - USA CSS Style
-* [CSSLayout](https://phuoc.ng/collection/css-layout/), [CSS Layout Generator](https://layout.bradwoods.io/), [BoxBox](https://seansleblanc.itch.io/boxboxhtml) or [CSSGridGenerator](https://cssgrid-generator.netlify.app/) - CSS Layout /Grid Generators
+* [CSSLayout](https://phuoc.ng/collection/css-layout/), [CSS Layout Generator](https://layout.bradwoods.io/), [BoxBox](https://seansleblanc.itch.io/boxboxhtml) or [CSSGridGenerator](https://cssgrid-generator.netlify.app/) - CSS Layout / Grid Generators
+* [Box-Shadow](https://box-shadow.art/) - CSS Box Shadow Generator
+* [Shadow Palette Generator](https://www.joshwcomeau.com/shadow-palette/) - CSS Shadow Generator
+* [css.glass](https://css.glass/) - CSS Glass Effect Generator
 * [ClassyFont](https://www.classyfont.com/) - CSS Font Generator
 * [Modern Fonts Stacks](https://modernfontstacks.com/) - CSS Fonts
 * [Leon's CSS](https://leonarnott.neocities.org/) or [Wordart](https://codepen.io/kathykato/details/omxPap) - CSS Text Styles
