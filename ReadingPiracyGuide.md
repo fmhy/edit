@@ -190,7 +190,7 @@
 * [ABookOfCreatures](https://abookofcreatures.com/), [Demons of the Deep](https://seademons.weebly.com/) or [Bestiary](https://bestiary.ca/beasts.htm) - Mythological Encyclopedias
 * [Theoi](https://www.theoi.com/) - Greek Mythology
 * [Germanic Mythology](https://www.germanicmythology.com/index.html) - Germanic Mythology
-* [Japanese Mythology](https://japanesemythology.wordpress.com/) - Japanese Mythology
+* [Japanese Mythology](https://japanesemythology.wordpress.com/) or [Yokai](https://yokai.com/) - Japanese Mythology / Folklore
 * [Inuit Myths](https://www.inuitmyths.com/index.htm) - Inuit Mythology
 * [BlackDrago](https://www.blackdrago.com/) - Dragon Encyclopedia
 * [Grimoar.cz](http://english.grimoar.cz/?Loc=key&Lng=2), [Occult Rentry](https://rentry.co/FMHYBase64#occult-rentry), [766 Occult Books](https://rentry.co/FMHYBase64#766-occult-books), [Darkbooks](https://darkbooks.org/collection/top250.html) or [Astrum Argenteum](https://www.astrumargenteum.org/library/) - Occult Books
@@ -292,6 +292,7 @@
 * [Film Books](https://rentry.co/FMHYBase64#film-books) - Books about Films
 * [HypnosisChatBooks](https://t.me/HypnosisChatBooks) - Hypnosis / Telegram
 * [diyhpluswiki](https://diyhpl.us/wiki/) - DIY Biohacking
+* [Project Aon](https://www.projectaon.org/en/Main/Home) - Lone Wolf Gamebooks
 * [Fanfiction.net](https://fanfiction.net/), [SquidgeWorld](https://squidgeworld.org/), [Wattpad](https://wattpad.com/), [Royal Road](https://royalroad.com/) or [fiction.live](https://fiction.live/) - Fanfiction Sites
 * [Archive of Our Own](https://archiveofourown.org/) - Fanfiction Archive / [Enhancements](https://github.com/jsmnbom/ao3-enhancements/)
 * [Potions and Snitches](https://www.potionsandsnitches.org/) - Harry Potter Fanfiction
@@ -895,7 +896,7 @@ Note - Keep in mind that sites in the manga section above also have manhua/manhw
 * [CandlApp](https://www.candlapp.com/) - Books
 * [Anobii](https://www.anobii.com/) - Books
 * [Reddit Reads](https://www.redditreads.com/) - Book Recommendations
-* [GNOD](https://www.gnod.com/) - Book Recommendations
+* [Gnooks](https://www.gnooks.com/) - Book Recommendations
 * [RecommendMeABook](https://recommendmeabook.com/) - Book Recommendations
 * [WhichBook](https://www.whichbook.net/) - Book Recommendations
 * [Readow](https://readow.ai/) - Book Recommendations
@@ -909,9 +910,7 @@ Note - Keep in mind that sites in the manga section above also have manhua/manhw
 * [The Greatest Books](https://www.thegreatestbooks.org/) - Book Recommendations
 * [Hacker Recommended Books](https://hacker-recommended-books.vercel.app/) - Book Recommendations
 * [PagePundit](https://pagepundit.com/) - Book Recommendations
-* [findyournextbook](https://www.findyournextbook.ai/) - Book Recommendations
 * [Mind Expanding Books](https://github.com/hackerkid/Mind-Expanding-Books) - Book Recommendations
-* [myAIbrary](https://myaibrary.com/) - Book Recommendations
 * [Litsy](https://www.litsy.com/) - Book Recommendation / Photo Sharing Community
 * [Bookmarks Review](https://bookmarks.reviews/) - Book Review Aggregator
 * [5000 Best](http://5000best.com/books/) - Top 5000 Books
