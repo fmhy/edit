@@ -10,9 +10,9 @@
 
 ***
 
-* ↪️ **[Adblock Filters](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_ublock_filters)** / [Test Filters](http://raymondhill.net/ublock/adbox.html)
-* ↪️ **[Twitch Adblockers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/social-media#wiki_.25B7_twitch_adblockers)**
 * ↪️ **[Spotify Adblockers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/audio#wiki_.25B7_spotify_adblockers)**
+* ↪️ **[Twitch Adblockers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/social-media#wiki_.25B7_twitch_adblockers)**
+* ↪️ **[Bypass Article Paywalls](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_read_paywalled_articles)**
 * ⭐ **[uBlock Origin](https://github.com/gorhill/uBlock#installation)** - Adblocker / [Guide](https://addons.mozilla.org/blog/ublock-origin-everything-you-need-to-know-about-the-ad-blocker/) / [Advanced](https://youtu.be/2lisQQmWQkY)
 * ⭐ **[SponsorBlock](https://sponsor.ajay.app/)** - Skip Sponsored YouTube Ads / [Script](https://github.com/mchangrh/sb.js), [2](https://greasyfork.org/en/scripts/453320)
 * ⭐ **[BehindTheOverlay](https://github.com/NicolaeNMV/BehindTheOverlay)** - Hide Website Overlays 
@@ -22,8 +22,24 @@
 * [Popupblocker All](https://addons.mozilla.org/en-US/firefox/addon/popupblockerall/), [PopUpOFF](https://romanisthere.github.io/PopUpOFF-Website/index.html) or [PopupBlocker](https://github.com/AdguardTeam/PopupBlocker) - Popup / New Tab Blockers
 * [Adguard](https://github.com/AdguardTeam/AdguardBrowserExtension#installation) - Adblocker
 * [AdNauseam](https://adnauseam.io/) - Adblocker / Fakes Clicks to Confuse Tracking
-* [Adblock Tester](https://adblock-tester.com/) or [AdBlocker Test](https://d3ward.github.io/toolz/adblock.html) - Adblocking Tests 
-* [uBO-bypass-yt](https://drhyperion451.github.io/does-uBO-bypass-yt/) - Check if uBlock Origin filters are bypassing YouTube anti-adblock
+* [Adblock Tester](https://adblock-tester.com/) or [AdBlocker Test](https://d3ward.github.io/toolz/adblock.html) - Adblocking Tests
+* [uBO-bypass-yt](https://drhyperion451.github.io/does-uBO-bypass-yt/) - YouTube Anti-Adblock Bypass Test
+
+***
+
+## ▷ Adblock Filters
+
+* ⭐ **[yokoffing's Recommended Filters](https://github.com/yokoffing/filterlists)**
+* ⭐ **[LegitimateURLShortener](https://github.com/DandelionSprout/adfilt/blob/master/LegitimateURLShortener.txt)**
+* [FilterLists.com](https://filterlists.com/) - Filters Search 
+* [Adbox](http://raymondhill.net/ublock/adbox.html) - Test Filters
+* [DandelionSprout adlift](https://github.com/DandelionSprout/adfilt)
+* [Facebook Filters](https://www.reddit.com/r/uBlockOrigin/wiki/solutions#wiki_facebook)
+* [Clear URLs for uBO](https://github.com/DandelionSprout/adfilt/blob/master/ClearURLs%20for%20uBo/clear_urls_uboified.txt)
+* [webannoyances](https://github.com/yourduskquibbles/webannoyances)
+* [NoADS_RU](https://raw.githubusercontent.com/Zalexanninev15/NoADS_RU/main/ads_list.txt)
+* [Anifiltrs](https://github.com/Karmesinrot/Anifiltrs)
+* [FilterStalker](https://rentry.co/FilterStalker)
 
 ***
 
@@ -351,7 +367,6 @@
 * [Pixivfe](https://codeberg.org/VnPower/pixivfe) - Pixiv Frontend
 * [Gothub](https://codeberg.org/gothub/gothub) - GitHub Frontend
 * [AnonymousOverflow](https://code.whatever.social) - StackOverflow Frontend
-* [BreezeWiki](https://breezewiki.com/) - Fandom Frontend
 * [Tent](https://codeberg.org/sun/Tent) - Bandcamp Frontend
 * [Dumb](https://codeberg.org/rramiachraf/dumb) or [Intellectual](https://github.com/Insprill/intellectual) - Genius Frontend
 * [Rural Dictionary](https://codeberg.org/zortazert/rural-dictionary) - Urban Dictionary Frontend
