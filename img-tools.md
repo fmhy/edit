@@ -705,7 +705,6 @@
 * [talaikis](https://ipfs.talaikis.com/upload)
 * [imgchest](https://imgchest.com/)
 * [upanhtv](https://upanh.tv/)
-* [sendpic](http://sendpic.org/)
 * [Lutim](https://lutim.lagout.org/)
 * [prnt.sc](https://prnt.sc/)
 * [anhsieuviet](https://anhsieuviet.com/?lang=en)
