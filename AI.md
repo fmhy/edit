@@ -214,6 +214,7 @@
 * ⭐ **[Poe](https://poe.com/)** / 100 Daily / [Discord](https://discord.com/invite/joinpoe)
 * ⭐ **[Dezgo](https://dezgo.com/)** / [Discord](https://discord.com/invite/RQrGpUhPhx) / Unlimited
 * ⭐ **[Meta AI](https://imagine.meta.com/)** / Unlimited
+* ⭐ **[Shakker](https://www.shakker.ai/)** / Unlimited
 * ⭐ **[Playground](https://playground.com/)** / 100 Daily
 * ⭐ **[Ideogram](https://ideogram.ai/)** / 100 Daily
 * ⭐ **[Tensor.art](https://tensor.art/)** / 100 Daily
@@ -236,7 +237,7 @@
 * [AITurbo](https://app.aitubo.ai/) / 25 Daily / [Discord](https://discord.gg/qTu6YsRn7F)
 * [Artsio](https://artsio.xyz/) / 20 Daily
 * [Maze.guru](https://maze.guru/gallery) / 12 Daily
-* [DreamLike](https://dreamlike.art) / [Discord](https://discord.com/invite/QyGR2FxsKU) / 12 Daily
+* [DreamLike](https://dreamlike.art) / 12 Daily
 * [Craiyon](https://www.craiyon.com/) / 10 Daily / [Github](https://github.com/borisdayma/dalle-mini) / [Colab](https://colab.research.google.com/github/borisdayma/dalle-mini/blob/main/tools/inference/inference_pipeline.ipynb)
 * [POKEIT](https://pokeit.ai/) / 10 Daily
 * [PixAI](https://pixai.art/) / 10 Daily
