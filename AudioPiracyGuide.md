@@ -165,7 +165,7 @@
 * [PodScripts](https://podscripts.co/) or [PodText](https://podtext.ai/) - Podcast Transcript Search
 * [OpenPodcast](https://openpodcast.dev) - Podcast Analytics
 * [Archive.org](https://archive.org/details/audio?&sort=-downloads&page=1) - News / Classic Radio / Podcasts
-* [Dumb Old Time Radio](https://www.dumb.com/oldtimeradio/) or [Old Time Radio](https://oldtime.radio/) - Classic Radio
+* [Dumb Old Time Radio](https://www.dumb.com/oldtimeradio/), [Relic Radio](https://www.relicradio.com/) or [Old Time Radio](https://oldtime.radio/) - Classic Radio
 * [Old Time Radio Downloads](https://www.oldtimeradiodownloads.com/) - Classic Radio Downloads
 * [Braggoscope](https://www.braggoscope.com/) - BBC In Our Time Archive
 * [radiobot](https://t.me/radiobot) - Radio / Telegram
@@ -324,7 +324,6 @@
 * [MartinRadio](https://www.martinradio.com/) - FLAC
 * [FLAC Attack](https://flacattack.net/) or [Lossless-Music](https://lossless-music.org/) - FLAC
 * [Losslessma](https://losslessma.net/) - FLAC
-* [LosslessBest](https://flacdl.com/) - FLAC
 * [FlacMusic](https://www.flacmusic.info/) - FLAC
 * [Music HiRes](https://music-hires.blogspot.com/) - FLAC
 * [FLAC.xyz](https://flac.xyz/) - FLAC
@@ -335,7 +334,6 @@
 * [LosslessAlbums](https://losslessalbums.club/) or [HDMusic](https://hdmusic.cc/) - FLAC
 * [DocOverBlog](https://docoverblog.blogspot.com/) - FLAC
 * [Creamusic](https://creamusic.net/) - FLAC / Bypass Limit w/ VPN
-* [ubdn](https://ubdn.me/) - MP3 / FLAC
 * [IntMusic](https://intmusic.net/) - MP3 / FLAC
 * [Gangster](https://gangster.su/) - MP3 / FLAC
 * [GetRockMusic](https://getrockmusic.net/) - MP3 / FLAC
@@ -505,6 +503,7 @@
 * [VGMStream](https://vgmstream.org/) - Stream Local Video Game Audio Files
 * [mood.gg](https://mood.gg/) - League of Legends Character-Based Playlists
 * [NSF j](https://nsf.nesbbs.com/) - NES Game Music
+* [Goldenrod Radio](https://www.youtube.com/@GoldenrodRadio251) - Pokémon Game Music
 * [Exotica](https://www.exotica.org.uk/) - Retro Gaming Music Wiki
 * [VGMdb](https://vgmdb.net/) - Video Game Music Database
 
@@ -774,6 +773,7 @@
 * [Surge XT](https://surge-synthesizer.github.io/)
 * [VCV Rack 2](https://vcvrack.com/Rack)
 * [Dexed](https://asb2m10.github.io/dexed/)
+* [NoiseCraft](https://noisecraft.app/)
 * [Bespoke](https://www.bespokesynth.com/)
 * [Helm](https://tytel.org/helm/)
 * [SunVox](https://warmplace.ru/soft/sunvox/)
