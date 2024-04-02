@@ -19,6 +19,8 @@
 * [ImgBurn](https://www.majorgeeks.com/files/details/imgburn.html), [DVDStyler](https://www.dvdstyler.org/en/), [DeepBurner](https://www.deepburner.com/) or [Alcohol Soft](https://www.alcohol-soft.com/) - CD / DVD Burning
 * [MakeMKV](https://www.makemkv.com/) - Create MKV From Blu-ray / DVD
 * [VidCoder](https://vidcoder.net/) or [DVDDecrypter](http://dvddecrypter.org.uk/) - DVD / Blu-ray Ripping
+* [DGDemux](https://www.rationalqm.us/dgdemux/dgdemux.html) - Blu-Ray/UHD Disk Demuxer
+* [PgcDemux](https://www.videohelp.com/software/PgcDemux) - DVD Disk Demuxer
 * [BatchGuy](https://github.com/yaboy58/BatchGuy) - Blu-Ray Ripping
 * [VHS Decode](https://github.com/oyvindln/vhs-decode) - VHS Decoder
 
@@ -26,9 +28,9 @@
 
 ## ▷ Video Hosting
 
-* ⭐ **[doodstream](https://doodstream.com/)**
+* ⭐ **[doodstream](https://doodstream.com/)** - No Limit / 1080p / 60 Days
 * ⭐ **[mixdrop](https://mixdrop.ag/)** - No Limit / 720p / 60 Days
-* ⭐ **[voe.sx](https://voe.sx/)**
+* ⭐ **[voe.sx](https://voe.sx/)** - No Limit / 720p / 60 Days
 * ⭐ **[catbox](https://catbox.moe/)** - 200MB
 * ⭐ **[streamtape](https://streamtape.com/)** / [2](https://streamtape.to/)
 * ⭐ **[upstream](https://upstream.to/)**
