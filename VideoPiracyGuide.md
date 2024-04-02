@@ -564,7 +564,6 @@
 * [MovieSeriesTV](https://www.movieseriestv.net/) - Movies / TV / 1080p
 * [SeriesVault](https://seriesvault.win/) - TV / Anime / 1080p
 * [FilmFans](https://filmfans.org/) - Movies / 4K
-* [ShowBox](https://www.showbox.media/) - Movies / TV / 4K / [How-to](https://rentry.co/febbox)
 * [WorldFree4u](https://worldfree4u.dad/) - Movies / 1080p
 * [SSR Movies](https://ssrmovies.golf/) - Movies / TV / 1080p
 * [Best-MovieZ](https://www.best-moviez.ws/) - Movies / TV / 1080p
