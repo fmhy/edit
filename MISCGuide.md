@@ -11,7 +11,7 @@
 * 🌐 **[Ripped](https://ripped.guide/)** - Piracy Index / [Discord](https://discord.ripped.guide/)
 * 🌐 **[Esoterica Avenue](https://ori5000.github.io/)** - Piracy Index / [Site List](https://rentry.org/EsotericaSiteList) / [Discord](https://discord.gg/enMG8bXUbn)
 * 🌐 **[BOOKMRKS-MTHRFCKR](https://github.com/whoisdsmith/BOOKMRKS-MTHRFCKR-II)** - Site / Tool Index
-* 🌐 **[/r/PiratedGames Mega](https://rentry.org/pgames)** / [Discord](https://discord.gg/dZWwhUy) - Game Piracy Index
+* 🌐 **[/r/PiratedGames Mega](https://rentry.org/pgames)** - Game Piracy Index / [Discord](https://discord.gg/dZWwhUy)
 * 🌐 **[CS.RIN Mega](https://cs.rin.ru/forum/viewtopic.php?f=10&t=95461)** - Game Piracy Index
 * 🌐 **[privateersclub](https://megathread.pages.dev/)** - Game Piracy Index / [Discord](https://discord.gg/jz8dUnnD6Q)
 * 🌐 **[Wotaku](https://wotaku.moe/)** - Japanese Piracy Index
@@ -391,7 +391,6 @@
 * [Dutchsinse](https://www.twitch.tv/dutchsinseofficial) - Live 24/7 Earthquake Updates / [YouTube](https://www.youtube.com/user/dutchsinse)
 * [USGS Earthquake Map](https://earthquake.usgs.gov/earthquakes/map/) - Earthquake Activity Map
 * [VolcanoDiscovery](https://www.volcanodiscovery.com/erupting_volcanoes.html) - Volcano Activity Map
-* [LiveScore](https://www.livescores.com/) - Live Sports Scores
 * [Read Something Interesting](https://readsomethinginteresting.com/) or [BoredReading](https://boredreading.com/) - Random Articles / Blog Posts
 * [Media Bias Fact Check](https://drmikecrowe.github.io/mbfcext/), [ground.news](https://ground.news/extension) or [HonestyMeter](https://www.honestymeter.com/) - Media Bias Checkers
 * [PressMob](https://pressmob.ai/) - Journalist Search
@@ -400,16 +399,22 @@
 
 ## ▷ Aggregators
 
-* ⭐ **[BoringReport](https://www.boringreport.org/)**, [NewsNow](https://www.newsnow.co.uk/), [Google News](https://news.google.com/) / [HTML](http://68k.news/), [Readspike](https://readspike.com/), [sumi.news](https://sumi.news/), [NewsCord](https://newscord.org/), [Upstract](https://upstract.com/) or [AllTop](https://alltop.com/) - Misc News
+* ⭐ **[BoringReport](https://www.boringreport.org/)**
 * ⭐ **[QotNews](https://news.t0.vc/)** - Hacker News / Reddit / Lobsters / Tildes
 * ⭐ **[Anime Blog Tracker](https://aniblogtracker.com/)** - Anime News Blogs
+* [NewsMinimalist](https://www.newsminimalist.com/), [AllAINews](https://allainews.com/) or [Brief](https://www.brief.news/) - AI News Aggregators
 * [RealClearPolitics](https://www.realclearpolitics.com/), [Ground News](https://ground.news/), [AllSides](https://www.allsides.com/), [SPIDR](https://spidr.today/) or [LegibleNews](https://legiblenews.com/) - Political News / World Events
-* [NewsMinimalist](https://www.newsminimalist.com/) or [Brief](https://www.brief.news/) - AI-Curated News
 * [Fark](https://www.fark.com/) - User-Curated News
 * [AlDaily](https://www.aldaily.com/) - Art / Philosophy / Literature News
 * [Newsfeed](https://newsfeed.one/) - Google / Reddit / Crypto News
-* [FlipBoard](https://flipboard.com/) - Personalized News
 * [freepost](https://freepo.st/) - Freepost News
+[NewsNow](https://www.newsnow.co.uk/)
+[Google News](https://news.google.com/) / [HTML](http://68k.news/)
+[Readspike](https://readspike.com/)
+[sumi.news](https://sumi.news/)
+[NewsCord](https://newscord.org/)
+[Upstract](https://upstract.com/)
+[AllTop](https://alltop.com/)
 
 ***
 
@@ -714,6 +719,7 @@
 
 ## ▷ Finance / Savings
 
+* 🌐 **[/r/PersonalFinance Wiki](https://old.reddit.com/r/personalfinance/wiki/index)** or [UK Personal Finance](https://ukpersonal.finance/) - Financial Advice / Resources
 * 🌐 **[KYCNOT.ME](https://kycnot.me/)** - Non-KYC Exchanges / Services
 * ⭐ **[TradingView](https://www.tradingview.com/)**, [Candle](https://gitlab.com/cosmosapps/candle), [finviz](https://finviz.com/), [Markets.sh](https://markets.sh/) or [Screener](https://www.screener.in/) - Stock Market Trackers
 *  [Maybe](https://hello.maybe.co/), [Ghostfolio](https://ghostfol.io/), [HomeBank](https://www.gethomebank.org/en/index.php), [Firefly III](https://firefly-iii.org/), [Money Manager EX](https://moneymanagerex.org/), [Paisa](https://github.com/RetroMusicPlayer/Paisa) or [Actual](https://github.com/actualbudget/actual) - Finance Managers
@@ -927,7 +933,7 @@
 * [BlockLayer](https://www.blocklayer.com/) - Construction / Remodeling Calculators
 * [TemplateMaker](https://www.templatemaker.nl/) - Package / Box Templates
 * [/r/Assistance](https://www.reddit.com/r/Assistance/), [/r/borrow](https://www.reddit.com/r/borrow/), [/r/Random_Acts_Of_Pizza](https://www.reddit.com/r/Random_Acts_Of_Pizza/) or [/r/Homeless](https://www.reddit.com/r/homeless/) - Assistance / Donation Subreddits
-* [CharityNavigator](https://www.charitynavigator.org/), [CharityWatch](https://www.charitywatch.org/) or [GiveWell](https://www.givewell.org) - Charity Ratings and Donor Resources
+* [CharityNavigator](https://www.charitynavigator.org/), [CharityWatch](https://www.charitywatch.org/), [ProPublica](https://projects.propublica.org/nonprofits/) or [GiveWell](https://www.givewell.org) - Charity Ratings and Donor Resources
 
 ***
 
@@ -1026,6 +1032,7 @@
 * [stringers.live](https://stringers.live/) - Live Freelance Journalist Streams
 * [Retro TV Simulator](https://www.myretrotvs.com/) - Simulate Oldschool TV Channels
 * [BumpWorthy](https://www.bumpworthy.com/) - Adult Swim Bumps 
+* [Sudomemo](https://www.sudomemo.net/) or [Kaeru Gallery](https://gallery.kaeru.world/) - DS Flipnote Studio Galleries
 * [Toonami Remastered](https://www.toonamiremastered.com/) - Remastered Toonami Content
 * [ThisXDoesNotExist](https://thisxdoesnotexist.com/) - Realistic-Looking Fake Versions of Things
 * [NotRealCats](https://notrealcats.com/) - Cats That Don't Exist
@@ -1169,7 +1176,6 @@
 * ⭐ **[InfiniteConversation](https://infiniteconversation.com/)** - Never-Ending Werner Herzog / Slavoj Žižek Conversation
 * ⭐ **[Ranker](https://www.ranker.com/)**, [Listography](https://listography.com/), [hero](https://hero.page/), [FlexLists](https://flexlists.com/), [TheTopsTens](https://www.thetoptens.com/), [CopyPasteList](https://copypastelist.co/) or [ListVerse](https://listverse.com/) - Create / Explore Lists
 * ⭐ **[The Lost Media Wiki](https://lostmediawiki.com/)** / [Forum](https://forums.lostmediawiki.com/)
-* [Fandom](https://www.fandom.com/) - Fan Wikis / [Frontend](https://docs.breezewiki.com/Links.html) / [Old Style](https://greasyfork.org/en/scripts/438194-hydralize-fix-fandom-com) / [Search](https://getindie.wiki/) / [Cleaner](https://greasyfork.org/en/scripts/431706)
 * [Internet Map](https://internet-map.net/) - Map of the Internet
 * [Wikiverse](https://wikiverse.io/) - 3D Wiki Visualizer
 * [DamnInteresting](https://www.damninteresting.com/) - Interesting Stories
