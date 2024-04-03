@@ -356,6 +356,7 @@
 * [Proxigram](https://codeberg.org/ThePenguinDev/Proxigram) or [Imginn](https://imginn.com) - Instagram Frontends
 * [Proxitok](https://github.com/pablouser1/ProxiTok) or [TikNot](https://tiknot.netlify.app/) / [Redirect](https://greasyfork.org/en/scripts/482683) - TikTok Frontends
 * [Tumlook](https://www.tumlook.com/) or [PriviBlur](https://github.com/syeopite/priviblur) - Tumblr Frontends
+* [BreezeWiki](https://breezewiki.com/) - Fandom Frontend / [Mirrors](https://docs.breezewiki.com/Links.html#(part._.Mirrors)
 * [MikuInvidious](https://0xacab.org/johnxina/mikuinvidious) - BiliBili Frontend
 * [SafeTwitch](https://codeberg.org/SafeTwitch/safetwitch) or [Twineo](https://codeberg.org/CloudyyUw/twineo) - Twitch Frontends
 * [Whoogle](https://benbusby.com/projects/whoogle-search/) - Google Search Frontend
