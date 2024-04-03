@@ -67,7 +67,6 @@
 * [txxx](https://txxx.com/)
 * [3movs](https://www.3movs.com/)
 * [Pornktube](https://www.pornktube.club/) or [TubXPorn](https://tubxporn.xxx/)
-* [pornktube](https://www.pornktube.tv/)
 * [Vid123](https://vid123.net/)
 * [XXXDan](https://xxxdan.com/) - 200 adult categories, non hd
 * [PornHoarder](https://pornhoarder.tv/)
@@ -86,6 +85,7 @@
 * [MangoPorn](https://mangoporn.net/)
 * [EroticMV](https://eroticmv.com/)
 * [EroticMV](https://eroticmv.com/)
+* [itseroma](https://t.me/itseroma)
 * [EroGarga](https://www.erogarga.com/)
 * [EroticAge](https://www.eroticage.net/)
 * [VintageClassix](http://www.vintageclassix.com/)
@@ -253,7 +253,6 @@
 * [Nonolo.ai](https://no.nolo.ai/)
 * [AIPorn](https://www.aiporn.net/)
 * [pornpen.ai](https://pornpen.ai/feed)
-* [Pornshow](https://app.pornshow.ai/)
 * [Pornify](https://pornify.cc/)
 * [AIHentai.co](https://aihentai.co/)
 * [Spicy Porn](https://spicy.porn/)
@@ -348,9 +347,7 @@
 * [HentaiCloud](https://www.hentaicloud.com/) - Hentai Streaming
 * [HentaisTube](https://www.hentais.tube/) - Hentai Streaming
 * [Watch Hentai](https://watchhentai.net/) - Hentai Streaming
-* [HentaiDude](https://hentaidude.com/) - Hentai Streaming
-* [HentaiPulse](https://hentaipulse.com/) - Hentai Streaming
-* [LatestHentai](https://latesthentai.com/) - Hentai Streaming
+* [HentaiDude](https://hentaidude.com/) - Hentai Streaming* [LatestHentai](https://latesthentai.com/) - Hentai Streaming
 * [CartoonPornVideos](https://www.cartoonpornvideos.com/) - Hentai Streaming
 * [Hentai2w](https://hentai2w.com/) - Hentai Streaming
 * [sakuracircle](https://sakuracircle.com/) - Hentai DDL 
@@ -381,7 +378,7 @@
 * ⭐ **[3Hentai](https://3hentai.net/)** - Hentai Manga
 * ⭐ **[NHentai](https://nhentai.net/)** - Hentai Manga
 * ⭐ **[Anchira](https://anchira.to/)** - Official Fakku/Irodori Rips
-* ⭐ **NHentai Tools** - [Android Client](https://github.com/Dar9586/NClientV2), [2](https://ttdyce.com/apps/nhviewer/) / [Downloader](https://github.com/RicterZ/nhentai), [2](https://github.com/Xwilarg/NHentaiDownloader)
+* ⭐ **NHentai Tools** - [Android Client](https://github.com/Dar9586/NClientV2), [2](https://ttdyce.com/apps/nhviewer/) / [Downloader](https://github.com/RicterZ/nhentai), [2](https://nhentaidownloader.zirk.eu/)
 * ⭐ **[Mihon](https://mihon.app/)** - Manga Reader
 * ⭐ **Mihon Tools** - [Extensions](https://keiyoushi.github.io/extensions/), [2](https://discord.gg/3FbCpdKbdY) / [Official Forks](https://mihon.app/forks/), [2](https://github.com/null2264/yokai), [3](https://github.com/nekomangaorg/Neko)
 * ⭐ **[Anime-Sharing](https://www.anime-sharing.com/#downloads-requests)** - Hentai Manga DDL
@@ -430,20 +427,16 @@
 * [Erofus](https://www.erofus.com/) - Comics / [Discord](https://discord.com/invite/ZKCV4CmhaD)
 * [SVSComics](https://svscomics.com/) - Comics
 * [BestPornComix](https://bestporncomix.com/) - Comics
-* [NXTComics](https://nxt-comics.net/) - Comics
-* [KingComicX](https://kingcomix.com/) - Comics
-* [GoldenComics](https://goldencomics.art/) - Comics
+* [NXTComics](https://nxt-comics.net/) - Comics* [GoldenComics](https://goldencomics.art/) - Comics
 * [Porn Comics](https://porncomics.to/) - Comics
 * [BondageComixxx](https://bondagecomixxx.net/) - Comics
 * [Xcomics](https://xcomics.se/) - Comics
 * [Porn Comics](https://porncomics.to/) - Comics
 * [XYZ Porn Comics](https://xyzcomics.com/) - Comics
 * [Manhwa18.cc](https://manhwa18.cc/) - Hentai Manga
-* [manhwas.men](https://manhwas.men/) - Hentai Manga / [Discord](https://discord.com/invite/7t4DfpG)
 * [Mangadass](https://mangadass.com/) - Hentai Manga
 * [Hentaidexy](https://hentaidexy.net/) - Hentai Manga
 * [Hentaiwebtoon](https://hentaiwebtoon.com/) - Hentai Manga
-* [MangaGenki](https://mangagenki.com/) - Hentai Manga
 * [OmegaScans](https://omegascans.org/) - Hentai Manga / [Discord](https://discord.com/invite/BrkUm8jeng)
 * [MadaraDex](https://madaradex.org/) - Hentai Manga / [Discord](https://discord.com/invite/mubnYvjFEY)
 * [Mikocon](https://www.mikocon.com/forum.php?mod=forumdisplay&fid=46) - Hentai Manga
@@ -488,7 +481,7 @@
 * [FapCraft](https://fapcraft.org/) - NSFW Minecraft Mod
 * [Minegasm](https://www.minegasm.net/) - Connect Minecraft to Sex Toys
 * [AdultOyunÇeviri](https://adultoyunceviri.com) - Turkish Game Localizations
-* [G-Point Adult](https://www.gpadult.com) - Turkish Game Localizations / [Discord](https://discord.com/invite/gpadult)
+* [G-Point Adult](https://www.gpadult.com) - Turkish Game Localizations
 * [YetişkinÇeviri](https://www.ademyurt.com/kategori/android/) - Turkish Game Localizations / [Discord](https://discord.com/invite/GQeQRzAKCR)
 
 ***
@@ -611,7 +604,7 @@
 * 🌐 **[Awesome-Adult-Content-Filtering](https://github.com/wesinator/awesome-Adult-Content-Filtering)** - Porn Quitting Tools Index
 * ↪️ **[Site Blocking](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25B7_productivity_tools)**
 * ⭐ **[EasyPeasy](https://easypeasymethod.org/)**, [2](https://gitlab.com/snuggy/easypeasy) - Painlessly Quit Pornography
-* ⭐ **[NoFap Forums](https://forum.nofap.com/index.php)** or [Your Brain Rebalanced](https://yourbrainrebalanced.com/) - Forums
+* ⭐ **[NoFap Forums](https://forum.nofap.com/index.php)** - Forums
 * [beta-censoring](https://github.com/silveredgold/beta-censoring), [beta-protection](https://github.com/silveredgold/beta-protection) or [Wingman](https://github.com/wingman-jr-addon/wingman_jr) - Porn Blocking Extensions
 * [Plucky](https://pluckyfilter.com/) - Content Filter
 * [Brainbuddy](https://www.brainbuddyapp.com/) - Porn Blocker / Android / iOS
@@ -621,4 +614,4 @@
 * [Movie Parser](https://raskie.com/post/practical-ai-autodetecting-nsfw) - Detect NSFW Scenes in Movies / [GitHub](https://github.com/dynamite-ready/movie-parser)
 * [Puri.fy](https://pury.fi/) or [NSFW-Filter](https://nsfw-filter.com/) - Block NSFW Images
 * [Fortify](https://www.joinfortify.com/) - Porn Quitting Community
-* [SAA Recovery](https://saa-recovery.org/), [Cosa Recovery](https://cosa-recovery.org/) or [Smart Recovery](https://www.smartrecovery.org/) - Find Sex Addition Meetings
+* [SAA Recovery](https://saa-recovery.org/), [Cosa Recovery](https://cosa-recovery.org/) or [Smart Recovery](https://www.smartrecovery.org/) - Find Sex Addiction Meetings

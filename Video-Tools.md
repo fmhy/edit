@@ -12,7 +12,6 @@
 * [Synthesis Colab](https://github.com/camenduru/text-to-video-synthesis-colab), [text-to-video](https://text-to-video.vercel.app), [Text2Video-Zero](https://github.com/Picsart-AI-Research/Text2Video-Zero), [LensGo](https://lensgo.ai/), [Pika Labs](https://www.pika.art/) or [Damo](https://huggingface.co/spaces/damo-vilab/modelscope-text-to-video-synthesis) - Text to Video AIs
 * [Rollideo](https://rollideo.com/) - Text to Subbed Video
 * [Video Llava](https://replicate.com/nateraw/video-llava) - Video Description AI
-* [Anime4K](https://github.com/bloc97/Anime4K) - Anime Video Upscaler
 * [TinyVid](https://kamua.com/tinyvid), [VideoSmaller](https://www.videosmaller.com/), [YouCompress](https://www.youcompress.com/), [Compress Video Online](https://compress-video-online.com/), [8mb.video](https://8mb.video/) or [MP4Compress](https://www.mp4compress.com/) - Video Compressors
 * [videoduplicatefinder](https://github.com/0x90d/videoduplicatefinder) - Duplicate Video Finder
 * [SimSwap](https://github.com/neuralchen/SimSwap) or [Roop](https://github.com/s0md3v/roop) - Video Face Swap Tools
@@ -20,6 +19,8 @@
 * [ImgBurn](https://www.majorgeeks.com/files/details/imgburn.html), [DVDStyler](https://www.dvdstyler.org/en/), [DeepBurner](https://www.deepburner.com/) or [Alcohol Soft](https://www.alcohol-soft.com/) - CD / DVD Burning
 * [MakeMKV](https://www.makemkv.com/) - Create MKV From Blu-ray / DVD
 * [VidCoder](https://vidcoder.net/) or [DVDDecrypter](http://dvddecrypter.org.uk/) - DVD / Blu-ray Ripping
+* [DGDemux](https://www.rationalqm.us/dgdemux/dgdemux.html) - Blu-Ray/UHD Disk Demuxer
+* [PgcDemux](https://www.videohelp.com/software/PgcDemux) - DVD Disk Demuxer
 * [BatchGuy](https://github.com/yaboy58/BatchGuy) - Blu-Ray Ripping
 * [VHS Decode](https://github.com/oyvindln/vhs-decode) - VHS Decoder
 
@@ -27,29 +28,29 @@
 
 ## ▷ Video Hosting
 
-* ⭐ **[doodstream](https://doodstream.com/)**
-* ⭐ **[mixdrop](https://mixdrop.ag/)**
-* ⭐ **[voe.sx](https://voe.sx/)**
-* ⭐ **[catbox](https://catbox.moe/)**
+* ⭐ **[doodstream](https://doodstream.com/)** - No Limit / 1080p / 60 Days
+* ⭐ **[mixdrop](https://mixdrop.ag/)** - No Limit / 720p / 60 Days
+* ⭐ **[voe.sx](https://voe.sx/)** - No Limit / 720p / 60 Days
+* ⭐ **[catbox](https://catbox.moe/)** - 200MB
 * ⭐ **[streamtape](https://streamtape.com/)** / [2](https://streamtape.to/)
 * ⭐ **[upstream](https://upstream.to/)**
-* [HoraHora](https://github.com/horahoradev/horahora) or [minv](https://sr.ht/~thecashewtrader/minv/) - Self-Hosted
+* [vidyard](https://www.vidyard.com/) - No Limit / 25 Videos only
+* [sendvid](https://sendvid.com/) - 1GB / 720p
 * [vudeo](https://vudeo.ws/)
-* [vidyard](https://www.vidyard.com/)
 * [supervideo](https://supervideo.cc/)
 * [youdbox](https://youdbox.site/)
-* [FileMoon](https://filemoon.sx/)
 * [powvideo](https://powvideo.net/)
-* [streamable](https://streamable.com/)
 * [abyss](https://abyss.to/)
 * [videy](https://videy.co/)
 * [wolfstream](https://wolfstream.tv/)
 * [vidoza](https://vidoza.net/)
 * [fileone](https://fileone.tv/)
 * [uqload](https://uqload.co/)
-* [media.cm](https://media.cm/)
-* [sendvid](https://sendvid.com/)
-* [WebMShare](https://webmshare.com/) - WebM Hosting
+* [media.cm](https://media.cm/) - 300mb / 720p
+* [streamable](https://streamable.com/) - 250MB / 720p / 90 Days
+* [FileMoon](https://filemoon.sx/) - 100MB
+* [WebMShare](https://webmshare.com/) - WebM Hosting / 20MB
+* [HoraHora](https://github.com/horahoradev/horahora) or [minv](https://sr.ht/~thecashewtrader/minv/) - Self-Hosted
 
 ***
 
@@ -115,7 +116,7 @@
 * [Twitch Studio](https://www.twitch.tv/broadcast/studio) - Live Stream Manager
 * [FBX](https://fbx.gg/) - Live Stream Manager
 * [XSplit](https://www.xsplit.com/) - Live Stream Manager
-* [TwitchChat](https://twitchat.fr/) - Live Stream Manager
+* [TwitchChat](https://twitchat.fr/) - Live Stream Manager / [Discord](https://discord.com/invite/fmqD2xUYvP)
 * [LiveStreamDVR](https://github.com/MrBrax/LiveStreamDVR) / [Display Chat](https://github.com/MrBrax/twitch-vod-chat) - Live Stream Recorders
 * [Owncast](https://owncast.online/) or [OpenStreamingPlatform](https://openstreamingplatform.com/) - Self-Hosted Live Streaming 
 * [WDFlat](https://www.wdflat.com/) - Stream Elements
@@ -135,7 +136,7 @@
 * 🌐 **[Awesome Video](https://github.com/krzemienski/awesome-video)** - Video Streaming Resources
 * 🌐 **[Video Help](https://www.videohelp.com/software/sections/video-players?orderby=Rating)** - Video Player Index
 * ⭐ **[MPC-HC](https://github.com/clsid2/mpc-hc/)** or [MPC-BE](https://sourceforge.net/projects/mpcbe/) - Video Player
-* ⭐ **[MPV](https://mpv.io/)** / [2](https://mpv-net.github.io/mpv.net-web-site/), [MPV-EASY-Player](https://github.com/422658476/MPV-EASY-Player) - Video Player / [GUI](https://github.com/mpvnet-player/mpv.net)
+* ⭐ **[MPV](https://mpv.io/)** / [2](https://mpv-net.github.io/mpv.net-web-site/), [MPV-EASY-Player](https://github.com/422658476/MPV-EASY-Player) - Video Player / [GUI](https://github.com/mpvnet-player/mpv.net) / [Frontends](https://github.com/mpv-player/mpv/wiki/Applications-using-mpv)
 * ⭐ **[VLC](https://www.videolan.org/)** - Video Player
 * ⭐ **[Screenbox](https://github.com/huynhsontung/Screenbox)** - Video Player
 * [Video Player Codecs](https://www.codecguide.com/)
@@ -177,10 +178,9 @@
 * [Rave.io](https://rave.io/)
 * [twoseven](https://twoseven.xyz/)
 * [WatchPubs](https://watchpubs.com/)
-* [MovieNight](https://github.com/zorchenhimer/MovieNight)
+* [MovieNight](https://github.com/zorchenhimer/MovieNight) / [Discord](https://discord.gg/F2VSgjJ)
 * [WatchParty](https://www.watchparty.me/)
 * [Kast](https://kast.gg/)
-* [Surge](https://surge.live/)
 * [Screen Share Party](https://ba.net/screen/)
 * [TurtleTV](https://turtletv.app/)
 * [OpenTogetherTube](https://opentogethertube.com/)
@@ -191,7 +191,6 @@
 
 * ↪️  **[MPV Shaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_mpv_shaders)** -
 * [MPV Config Guide](http://thewiki.moe/tutorials/mpv/), [2](https://iamscum.wordpress.com/guides/videoplayback-guide/mpv-conf/), [3](https://kokomins.wordpress.com/2019/10/14/), [4](https://hooke007-github-io.translate.goog/unofficial/index.html?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en-US&_x_tr_pto=wapp)
-* [MPV Frontends](https://github.com/mpv-player/mpv/wiki/Applications-using-mpv)
 * [ModernX](https://github.com/cyl0/ModernX), [tethys](https://github.com/Zren/mpv-osc-tethys) or [uosc](https://github.com/tomasklaen/uosc) - Alt User Interfaces
 * [Simple MPV WebUI](https://github.com/open-dynaMIX/simple-mpv-webui) - WebUI Controller
 * [MPV Context Menu](https://gitlab.com/carmanaught/mpvcontextmenu)
@@ -221,11 +220,12 @@
 * 🌐 **[Auto Download Tool Index](https://redd.it/hbwnb2)**
 * ⭐ **[Plex](https://www.plex.tv/)** - Media Server
 * ⭐ **[Jellyfin](https://jellyfin.org/)** - Media Server
+* ⭐ **[Kodi](https://kodi.tv/)** - Media Server
 * [TRaSH Guides](https://trash-guides.info/) / [Discord](https://discord.com/invite/4K2kdvwzFh) or [The Complete Guide](https://redd.it/pqsomd) - Server Setup Guides
+* [Self-hosted Anime](https://github.com/shyonae/selfhosted-anime/wiki) - Anime Server Setup Guides
 * [Prowlarr](https://github.com/Prowlarr/Prowlarr), [FlexGet](https://flexget.com/) or [/r/softwarr](https://reddit.com/r/softwarr) - Autodownload Tools
 * [Organizr](https://github.com/causefx/Organizr), [Reiverr](https://github.com/aleksilassila/reiverr) or [Homarr](https://github.com/ajnart/homarr) - Media Server Managers
 * [HTPC Download Box](https://github.com/sebgl/htpc-download-box) - Media Server Automation
-* [Kodi](https://kodi.tv/) - Media Server
 * [Emby](https://emby.media/) - Media Server
 * [Universal Media Server](https://www.universalmediaserver.com/) - Media Server
 * [OSMC](https://osmc.tv/) - Media Server
@@ -248,7 +248,7 @@
 
 ## ▷ Plex Tools
 
-* [Plxplainers](https://www.plxplainers.xyz/), [Hoarding.me](https://hoarding.me/) or [Reddit Guide](https://redd.it/ma1hlm) - Plex Setup Guides
+* [Plxplainers](https://www.plxplainers.xyz/) or [Reddit Guide](https://redd.it/ma1hlm) - Plex Setup Guides
 * [Tautulli](https://tautulli.com/) - Server Monitor
 * [Free Plex Server](https://discord.gg/8Jv792Rs7m)
 * [SuperPlex](https://normantheidiot.neocities.org/superplex/) - Plex Plugins
@@ -337,7 +337,7 @@
 * [Auto-Editor](https://auto-editor.com/) - CLI Editor
 * [MoviePy](https://zulko.github.io/moviepy/) - Python Editor
 * [Webm Generator](https://github.com/dfaker/WebmGenerator) - Webm Editor
-* [avisynth](http://avisynth.nl/index.php/Main_Page) - Video Processor
+* [avisynth](http://avisynth.nl/index.php/Main_Page) or [VapourSynth](https://www.vapoursynth.com/) - Video Processors
 * [Source Filmmaker](https://store.steampowered.com/app/1840/Source_Filmmaker/) - Steam Movie-Making Tool / [Resources](https://sfmlab.com/)
 * [OpenRV](https://github.com/AcademySoftwareFoundation/OpenRV) or [xSTUDIO](https://www.dneg.com/xstudio/) - Image / Sequence Playback Review
 * [Remotion](https://www.remotion.dev/)  - Video Editor

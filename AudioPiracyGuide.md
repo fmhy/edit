@@ -28,7 +28,7 @@
 
 * ⭐ **[Spicetify](https://spicetify.app/)** - Spotify Themes
 * ⭐ **Spicetify Tools** - [CLI](https://github.com/spicetify/spicetify-cli) / [Addons](https://github.com/3raxton/spicetify-custom-apps-and-extensions) / [Discord](https://discord.gg/VnevqPp2Rr) / [Fluent](https://github.com/williamckha/spicetify-fluent), [2](https://github.com/nimsandu/spicetify-bloom)
-* [Versefy](https://versefy.app/) - Lyrics
+* [sptlrx](https://github.com/raitonoberu/sptlrx) or [Versefy](https://versefy.app/) - Lyric Apps
 * [Playlist Randomizer](https://stevenaleong.com/tools/spotifyplaylistrandomizer) - Playlist Randomizer
 * [Playlist Sorter](https://www.playlistsorter.com/) - Sort Playlists
 * [Timelineify](https://www.timelineify.com/) - Sort Playlists by Release
@@ -69,10 +69,9 @@
 * [Spotify-DL](https://github.com/SathyaBhat/spotify-dl) - YT Downloader
 * [spotDL](https://github.com/spotDL/spotify-downloader) - YT Downloader
 * [FreyrJS](https://github.com/miraclx/freyr-js) - YT Downloader
-* [SpotiFlyer](https://github.com/Shabinder/SpotiFlyer) - YT Downloader
+* [spotify-dl](https://github.com/SwapnilSoni1999/spotify-dl) - Terminal YT Downloader
 * [Spotdlrobot](https://t.me/Spotdlrobot) - Telegram Bot
 * [Spotify Music Downloader](https://t.me/joinchat/DdR2SUvJPBouSW4QlbJU4g) - Telegram Bot
-* [spotify-dl](https://github.com/SwapnilSoni1999/spotify-dl) - Telegram Bot
 * [Spotify_downloa_bot](https://t.me/Spotify_downloa_bot) - Telegram Bot
 * [Music_Downloader_Bot_Spotify](https://t.me/Music_Downloader_Bot_Spotify) - Telegram Bot
 * [Motreeb](https://t.me/motreb_downloader_bot) - Telegram Bot
@@ -88,7 +87,7 @@
 
 ## ▷ Streaming Apps
 
-* ⭐ **[Youtube-Music](https://th-ch.github.io/youtube-music/)**, [MooSync](https://moosync.app/), [SpoTube](https://spotube.krtirtho.dev/), [yewtube](https://github.com/mps-youtube/yewtube) or [Headset](https://headsetapp.co) - YouTube Music Clients
+* ⭐ **[Youtube-Music](https://th-ch.github.io/youtube-music/)**, [MooSync](https://moosync.app/), [SpoTube](https://spotube.krtirtho.dev/), [yewtube](https://github.com/mps-youtube/yewtube), [spmp](https://github.com/toasterofbread/spmp) or [Headset](https://headsetapp.co) - YouTube Music Clients
 * [nuclear](https://nuclear.js.org/) - Streaming / [GitHub](https://github.com/nukeop/nuclear) / [Discord](https://discord.com/invite/JqPjKxE)
 * [FunkWhale](https://funkwhale.audio/) - Streaming
 * [MP3Jam](https://www.mp3jam.org/) - Streaming
@@ -166,7 +165,7 @@
 * [PodScripts](https://podscripts.co/) or [PodText](https://podtext.ai/) - Podcast Transcript Search
 * [OpenPodcast](https://openpodcast.dev) - Podcast Analytics
 * [Archive.org](https://archive.org/details/audio?&sort=-downloads&page=1) - News / Classic Radio / Podcasts
-* [Dumb Old Time Radio](https://www.dumb.com/oldtimeradio/) or [Old Time Radio](https://oldtime.radio/) - Classic Radio
+* [Dumb Old Time Radio](https://www.dumb.com/oldtimeradio/), [Relic Radio](https://www.relicradio.com/) or [Old Time Radio](https://oldtime.radio/) - Classic Radio
 * [Old Time Radio Downloads](https://www.oldtimeradiodownloads.com/) - Classic Radio Downloads
 * [Braggoscope](https://www.braggoscope.com/) - BBC In Our Time Archive
 * [radiobot](https://t.me/radiobot) - Radio / Telegram
@@ -192,6 +191,7 @@
 * [RadioReference](https://www.radioreference.com/) or [morsecode.me](https://morsecode.me/) - Morse Code Radio / Communication
 * [Worldwide Radio](https://addons.mozilla.org/en-US/firefox/addon/worldwide-radio/) - Radio Extension
 * [Tempest](http://www.erikyyy.de/tempest/) - Use Monitor as AM Radio
+* [RadioSide](https://radioside.com/) - Internet Radio Receiver
 * [streamWriter](https://streamwriter.org/en/) - Internet Radio Audio Downloader
 * [castero](https://github.com/xgi/castero) - TUI Terminal Podcast Client
 * [Grover](https://www.microsoft.com/store/productId/9NBLGGH6C4BC) or [GPodder](https://gpodder.github.io/) - Podcast Client
@@ -242,7 +242,7 @@
 * [VibeOcean](https://defonic.com/vibeocean.html) or [VirtCcean](https://virtocean.com/) - Ambient Ocean Sounds
 * [Calm](https://www.calm.com/app) - Meditation / Sleep Music 
 * [Tide.fm](https://tide.fm/) - Meditation / Sleep Sounds
-* [Ambie](https://github.com/jenius-apps/ambie) - White Noise Generators
+* [Ambie](https://ambieapp.com/) - White Noise Generators
 * [ChillOuts](http://www.chillouts.com/) - Meditation Aid
 * [August Ambiance](https://augustambience.com/) - Ambient Summer Sounds / Relaxation 
 * [ASMRion](https://asmrion.com/), [2](https://defonic.com) - Ambient Noise Generator
@@ -278,7 +278,7 @@
 * [GamDL](https://github.com/glomatico/gamdl) - Apple Music Downloader
 * [FreyrJS](https://github.com/miraclx/freyr-js) - Spotify, Deezer and Apple Music Downloader
 * [Song_downloaderbot](https://t.me/Song_downloaderbot), [DeezerMusicBot](https://t.me/DeezerMusicBot), [DeezloaderAn0n_bot](https://t.me/DeezloaderAn0n_bot) or [deezload2bot](https://t.me/deezload2bot) - Telegram Deezer Bots
-* [RedSea](https://github.com/Dniel97/RedSea), [Hifi-Tui](https://github.com/sachinsenal0x64/Hifi-Tui), [Tidal Media Downloader](http://doc.yaronzz.com/post/tidal_dl_installation/) / [Pro](https://github.com/yaronzz/Tidal-Media-Downloader-PRO) or [orpheusdl-tidal](https://github.com/Dniel97/orpheusdl-tidal) - Tidal Music Downloaders
+* [RedSea](https://github.com/Dniel97/RedSea), [Tidal Media Downloader](http://doc.yaronzz.com/post/tidal_dl_installation/) / [Pro](https://github.com/yaronzz/Tidal-Media-Downloader-PRO) or [orpheusdl-tidal](https://github.com/Dniel97/orpheusdl-tidal) - Tidal Music Downloaders
 * [BandCamp-DL](https://github.com/iheanyi/bandcamp-dl), [Download Bandcamp](https://downloadmusicschool.com/bandcamp/), [bcdl](https://github.com/daot/bcdl) or [Bandcamp Downloader](https://github.com/Otiel/BandcampDownloader) - Bandcamp Downloaders
 * [Librescore Downloader](https://github.com/LibreScore/dl-librescore) - Librescore Downloader
 * [Orpheus Qobuz](https://github.com/yarrm80s/orpheusdl-qobuz), [QobuzDownloaderX-MOD](https://github.com/DJDoubleD/QobuzDownloaderX-MOD) or [qobuz-dl](https://github.com/vitiko98/qobuz-dl) - Qobuz Downloaders
@@ -324,7 +324,6 @@
 * [MartinRadio](https://www.martinradio.com/) - FLAC
 * [FLAC Attack](https://flacattack.net/) or [Lossless-Music](https://lossless-music.org/) - FLAC
 * [Losslessma](https://losslessma.net/) - FLAC
-* [LosslessBest](https://flacdl.com/) - FLAC
 * [FlacMusic](https://www.flacmusic.info/) - FLAC
 * [Music HiRes](https://music-hires.blogspot.com/) - FLAC
 * [FLAC.xyz](https://flac.xyz/) - FLAC
@@ -335,7 +334,6 @@
 * [LosslessAlbums](https://losslessalbums.club/) or [HDMusic](https://hdmusic.cc/) - FLAC
 * [DocOverBlog](https://docoverblog.blogspot.com/) - FLAC
 * [Creamusic](https://creamusic.net/) - FLAC / Bypass Limit w/ VPN
-* [ubdn](https://ubdn.me/) - MP3 / FLAC
 * [IntMusic](https://intmusic.net/) - MP3 / FLAC
 * [Gangster](https://gangster.su/) - MP3 / FLAC
 * [GetRockMusic](https://getrockmusic.net/) - MP3 / FLAC
@@ -427,7 +425,7 @@
 
 ## ▷ Telegram Bots
 
-* [MP3 downloader](https://t.me/TG_mp3downloader_bot), [aio_musics](https://t.me/aio_musics), [scdlbot](https://t.me/scdlbot) or [Murglar](https://telegra.ph/murglar-en-05-12), [BeatSpotBot](https://t.me/BeatSpotBot) or [JioDLBot](https://t.me/JioDLBot) - Multi Site
+* [MP3 downloader](https://t.me/TG_mp3downloader_bot), [aio_musics](https://t.me/aio_musics), [scdlbot](https://t.me/scdlbot), [Murglar](https://t.me/murglarnews), [BeatSpotBot](https://t.me/BeatSpotBot) or [JioDLBot](https://t.me/JioDLBot) - Multi Site
 * [LyBot](https://t.me/LyBot), [YouTube Audio Bot](https://t.me/YtbAudioBot), [ivkmbot](https://t.me/ivkmbot) or [YouTube Audio Download](https://t.me/YoutubeAudioDownloadBot) - YouTube
 * [Glomatico](https://t.me/GlomaticoAmazonMusicBot) - Amazon
 * [TidalMusic_DLbot](https://t.me/TidalMusic_DLbot) - Tidal
@@ -505,6 +503,7 @@
 * [VGMStream](https://vgmstream.org/) - Stream Local Video Game Audio Files
 * [mood.gg](https://mood.gg/) - League of Legends Character-Based Playlists
 * [NSF j](https://nsf.nesbbs.com/) - NES Game Music
+* [Goldenrod Radio](https://www.youtube.com/@GoldenrodRadio251) - Pokémon Game Music
 * [Exotica](https://www.exotica.org.uk/) - Retro Gaming Music Wiki
 * [VGMdb](https://vgmdb.net/) - Video Game Music Database
 
@@ -532,10 +531,11 @@
 * [DAHR](https://adp.library.ucsb.edu/index.php) - American Historical Recordings Database
 * [IDM Discovery](https://www.idmdiscovery.com/) - IDM Artist Archive
 * [Rec Charts](https://mega.nz/folder/kj5hWI6J#0cyw0-ZdvZKOJW3fPI6RfQ) - Music Recommendation Guides
-* [Music-Map](https://www.music-map.com/), [Panther](http://panther.audio/), [Musicroamer](https://www.musicroamer.com/), [Gnoosic](https://www.gnoosic.com/), [Music Galaxy](https://galaxy.spotifytrack.net/), [SAGE](https://hate5six.com/sage), [LivePlasma](https://liveplasma.com/) or [GNOD](https://www.gnod.com/) - Artist Discovery Tools
+* [Music-Map](https://www.music-map.com/), [Musicroamer](https://www.musicroamer.com/), [Gnoosic](https://www.gnoosic.com/), [Music Galaxy](https://galaxy.spotifytrack.net/), [SAGE](https://hate5six.com/sage), [LivePlasma](https://liveplasma.com/) or [GNOD](https://www.gnod.com/) - Artist Discovery Tools
 * [45Cat](https://www.45cat.com/) - Vinyl Ratings / Reviews
 * [TapeFear](https://www.tapefear.com/) or [SongsLikeX](https://songslikex.com/) - Spotify Song Discovery
-* [Spotalike](https://spotalike.com/), [playlist-generator](https://www.playlist-generator.com/), [Chat Jams](https://www.chatjams.ai/), [ChatGPTify](https://github.com/idilsulo/ChatGPTify), [MagicPlaylist](https://magicplaylist.co/), [Vibesition](https://vibesition.jordantwells.com/), [NautrualLanguage](https://www.naturallanguageplaylist.com/), [Highlights2SPotify](https://highlights2spotify.com/) or [RadioNewify](https://radionewify.com/) - Spotify Playlist Generators
+* [Spotalike](https://spotalike.com/), [playlist-generator](https://www.playlist-generator.com/), [Chat Jams](https://www.chatjams.ai/), [ChatGPTify](https://github.com/idilsulo/ChatGPTify), [MagicPlaylist](https://magicplaylist.co/), [Vibesition](https://vibesition.jordantwells.com/), [NautrualLanguage](https://www.naturallanguageplaylist.com/), [Groovifi](https://groovifi.com/), [Highlights2SPotify](https://highlights2spotify.com/) or [RadioNewify](https://radionewify.com/) - Spotify Playlist Generators
+* [Spotify Playlist Archive](https://spotifyplaylistarchive.com/) - Archive of Official Spotify Playlists
 * [Spoqify](https://spoqify.com/) - Anonymous Playlist Generator
 * [TuneMunk](https://www.tunemunk.com/) - Spotify Playlist Sharing
 * [Forgotify](https://forgotify.com/) - Songs w/ No Plays on Spotify
@@ -632,7 +632,7 @@
 * [Nora](https://github.com/Sandakan/Nora)
 * [Hyperchroma](https://hyperchroma.app/)
 * [Melodie](https://feugy.github.io/melodie/)
-* [Dopamine](https://github.com/digimezzo/dopamine-windows)
+* [Dopamine](https://digimezzo.github.io/site/)
 * [LED FX](https://www.ledfx.app/) - LED Music Sync
 * [VinylEngine](https://www.vinylengine.com/) - Record Player / Vinyl Info 
 
@@ -659,11 +659,16 @@
 
 ## ▷ Song Identification
 
+* ⭐ **[Shazam](https://www.shazam.com/)** - Android
+* ⭐ **[WatZatSong](https://www.watzatsong.com/en)** - Song Identification Forum
 * [/r/NameThatSong](https://reddit.com/r/NameThatSong) - Song Identification Subreddit
 * [Midomi](https://www.midomi.com/)
 * [Aha Music](https://www.aha-music.com/identify-songs-music-recognition-online)
 * [AudioTag](https://audiotag.info/)
-* [WatZatSong](https://www.watzatsong.com/en)
+* [SoundHound](https://www.soundhound.com/soundhound) - Android
+* [MusicRecognizer](https://github.com/aleksey-saenko/MusicRecognizer) - Android
+* [Audire](https://github.com/alexmercerind/audire) - Android
+* [AmbientMusicMod](https://github.com/KieronQuinn/AmbientMusicMod) - Android
 * [Dejavu](https://github.com/worldveil/dejavu) - Python
 * [Audd](https://audd.io/) - API
 
@@ -678,7 +683,7 @@
 
 ***
 
-## ▷ Spectrograms
+## ▷ Spectrum Analyzers
 
 * ⭐ **[Audio Quality Check Guide](https://redd.it/3l0yxp)**
 * ⭐ **[Comparison of Audio Compression](https://nigelcoldwell.co.uk/audio/)**
@@ -686,6 +691,7 @@
 * ⭐ **[Sonic Visualizer](https://www.sonicvisualiser.org/)**
 * ⭐ **[Spek](https://www.spek.cc/)**
 * [Lossless Audio Checker](https://losslessaudiochecker.com/)
+* [Visual Analyser](https://www.sillanumsoft.org/)
 * [DFT](https://webfft.net/dft/)
 * [Friture](https://friture.org/)
 * [Spectro](http://spectro.enpts.com/)
@@ -702,15 +708,14 @@
 * [Adobe Enhance](https://podcast.adobe.com/enhance) - Speech Enhancer
 * [Chowdhury DSP](https://chowdsp.com/products.html) - Audio Signal Processing
 * [Oscilloscope](https://bummsn.de/osc_txt/) - Audio Oscillation Test (turn volume down)
-* [AudioAlter](https://audioalter.com/preset/8d-audio) - Create '8D' Audio
 * [MoFi](https://mofi.loud.red/) - Create Audio Loops
 
 ***
 
 ## ▷ Audio Editors
 
-* ⭐ **[G-MEH](https://g-meh.com/)** - Audio Editors
-* ⭐ **[Tenacity](https://tenacityaudio.org/)**, [2](https://www.audacityteam.org/) - Audio Editor
+* ⭐ **[G-MEH](https://g-meh.com/)** - Audio Editors / [Discord](https://discord.com/invite/xqPBaXUg7p)
+* ⭐ **[Tenacity](https://tenacityaudio.org/)** or [Audacity](https://www.audacityteam.org/) - Audio Editor
 * ⭐ **[Audioalter](https://audioalter.com/)** - Online Editor
 * ⭐ **[WavaCity](https://wavacity.com/)** - Online Editor
 * ⭐ **[Team V.R releases](https://codec.kiev.ua/releases.html)** - Audio Editors, Adobe Software, Plugins etc.
@@ -742,6 +747,7 @@
 * [xAudioPro](https://www.xaudiopro.com/en/) - Online Editor
 * [BeatMachine](https://beatmachine.branchpanic.me/) or [SongSurgeon](https://songsurgeon.com/engine/ssweb/) - Audio Tempo Editors
 * [Audovia Music](https://audovia.co.uk/) - Classical Music Creator
+* [WubMachine](https://the.wubmachine.com/) - Dubstep Music Creator
 * [danielx](https://danielx.net/composer/) or [AMS](https://flyx.org/ams/) - Mario Paint Audio Composers / [Archive](https://archive.org/details/mariopaintcomposer_201609)
 * [Famistudio](https://bleubleu.itch.io/famistudio) - NES / Famicom Audio Composers
 * [LittleSoundDJ](https://www.littlesounddj.com/lsd/index.php) - Game Boy Audio Editor
@@ -761,7 +767,7 @@
 
 ## ▷ Audio Synthesizers
 
-* ⭐ **[Drumha](https://www.drumha.us/)**, [iO-808](https://io808.com/), [Sequencer64](https://www.sequencer64.com/), [Drummy](https://drummy.io/), [Hammmerhead](http://www.threechords.com/hammerhead/), [orDrumbox](https://www.ordrumbox.com/), [Peel](https://peel.fm/) or [Hydrogen](http://hydrogen-music.org/) - Virtual Drum Machines
+* ⭐ **[Drumha](https://www.drumha.us/)**, [iO-808](https://io808.com/), [Sequencer64](https://www.sequencer64.com/), [Drummy](https://drummy.io/), [Hammmerhead](http://www.threechords.com/hammerhead/), [DrumBit](https://drumbit.app/), [orDrumbox](https://www.ordrumbox.com/), [Peel](https://peel.fm/) or [Hydrogen](http://hydrogen-music.org/) - Virtual Drum Machines
 * [/r/SynthRecipes](https://www.reddit.com/r/synthrecipes/) - Synth Request Subreddit
 * [samplv1](https://samplv1.sourceforge.io/) - Voice Synth
 * [WebSynths](https://www.websynths.com/) - Collection of browser-based musical instruments
@@ -771,6 +777,7 @@
 * [Surge XT](https://surge-synthesizer.github.io/)
 * [VCV Rack 2](https://vcvrack.com/Rack)
 * [Dexed](https://asb2m10.github.io/dexed/)
+* [NoiseCraft](https://noisecraft.app/)
 * [Bespoke](https://www.bespokesynth.com/)
 * [Helm](https://tytel.org/helm/)
 * [SunVox](https://warmplace.ru/soft/sunvox/)
@@ -786,7 +793,7 @@
 
 ## ▷ Audio Plugins
 
-* 🌐 **[Open-Source Audio Plugins](https://github.com/webprofusion/OpenAudio)** - Plugin Projects Index
+* 🌐 **[Open-Source Audio Plugins](https://openaudio.webprofusion.com/)** - Plugin Projects Index
 * ⭐ **[G-MEH](https://g-meh.com/)** / [Premium Bypass](https://gmehpremium.pages.dev/)
 * ⭐ **[bobdule](https://bobdule999.wixsite.com/bob-dule-factory-2)** - Kontakt / Native Instruments Plugins & Tools
 * ⭐ **[/r/CrackedPluginsX](https://www.reddit.com/r/CrackedPluginsX/)** or [/r/PluggnB](https://www.reddit.com/r/PluggnB/) - Plugin Subreddits
@@ -799,6 +806,7 @@
 * [VST Torrents](https://vsttorrentz.net/)
 * [SPARTA](https://leomccormack.github.io/sparta-site/)
 * [PluginTorrent](https://plugintorrent.com/)
+* [Kits4Beats](https://kits4beats.com/) - [Telegram](https://t.me/kits4beats)
 * [AudioTools](https://audiotools.in/)
 * [IEM Plug-in Suite](https://plugins.iem.at/)
 * [HQVst](https://t.me/HQVst) - Telegram

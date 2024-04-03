@@ -5,10 +5,14 @@
 [TOC2]
 
 ***
+
 ### FAQ
 
 > How can I tell if a site or download link is safe? Any tips? 
-Check out the [Booty Guard](https://rentry.org/bootyguard), our basic safety guide. You should also avoid using the sites / software we've listed as unsafe [here](https://fmhy.net/unsafesites). Still feel unsure? Feel free to reach out to us via [Discord](https://discord.gg/5W9QJKuPkD).
+Check out the [Booty Guard](https://rentry.org/bootyguard), our basic safety guide and. avoid using the sites / software we've listed as unsafe [here](https://fmhy.net/unsafesites). If you still feel unsure feel free to reach out to us via [Discord](https://discord.gg/5W9QJKuPkD).
+
+> How can I improve my privacy online? 
+We'd recommend checking out privacy guides like [SSD](https://ssd.eff.org/) and [The New Oil](https://thenewoil.org/).
 
 > I don't know what seeding or *insert another term* means...
 You will find almost all terms related to piracy and more in [The Piracy Glossary](https://rentry.org/the-piracy-glossary). Didn't find what you're looking for or still confused? Reach out to us via [Discord](https://discord.gg/5W9QJKuPkD).
@@ -18,7 +22,7 @@ You can download pre-cracked Adobe products from [M0nkrus](https://w14.monkrus.w
 !!!info M0nkrus is a well-trusted and reputable source for Adobe software in the piracy community. 
 
 > How can I download / activate Windows or Microsoft Office for free?
-For Windows check out this [section](#windows-piracy), and for Microsoft Office check out this [guide](https://massgrave.dev/office_c2r_links.html).
+For Windows check out this [section](#windows-piracy), and for Microsoft Office check out this [guide](https://gravesoft.dev/download_windows_office/office_c2r_links/).
 
 > Where can I find *insert game title / movie title*?
 You can use [WhereYouWatch](https://whereyouwatch.com) for finding movies, and for new movies it's a good idea to keep an eye on [r/movieleaks](https://reddit.com/r/movieleaks) as well. You should also be able to find most movies you're looking for in the [streaming section](#streaming). For games, you can use [Rezi](https://rezi.one) or any other site listed [here](https://fmhy.net/gamingpiracyguide#download-games), and for newly released games check out [r/crackwatch](https://reddit.com/r/crackwatch).
@@ -38,6 +42,7 @@ Use [this](https://bitbucket.org/magnolia1234/bypass-paywalls-firefox-clean/src/
 
 > How can I download an image from *insert stock image site*?
  You can use [this downloader](https://downloader.la/), and if it doesn't work you can find other stock image downloaders [here](https://fmhy.net/img-tools#stock-photos).
+
 ***
 
 ### Windows Piracy 
@@ -51,7 +56,7 @@ Use [this](https://bitbucket.org/magnolia1234/bypass-paywalls-firefox-clean/src/
 
 **[Linux Distros](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/linux#wiki_.25BA_linux_distros)** - Download Linux Distros 
 **[Linux Gaming Guide](https://github.com/rimsiw/linux-gaming-omg)** - Piracy Guide for Linux 
-**[Torrminatorr](https://forum.torrminatorr.com/) / [Kapital Sin](https://kapitalsin.com/)** - Download Linux Games
+**[Torrminatorr](https://forum.torrminatorr.com/)** / **[Kapital Sin](https://kapitalsin.com/)** - Download Linux Games
 **[TorrFlix](https://github.com/infinity-plus/TorrFlix)** - Torrent Streaming CLI
 **[ani-cli](https://github.com/pystardust/ani-cli)** - Anime Streaming Terminal
 
@@ -116,7 +121,7 @@ Use [this](https://bitbucket.org/magnolia1234/bypass-paywalls-firefox-clean/src/
 
 ### Streaming
 
-**[movie-web](https://movie-web.github.io/docs/instances/) / [Fix](https://pastebin.com/8X5bbjeS) / [lonelil](https://watch.lonelil.ru/) / [Fix](https://watch.lonelil.ru/onboarding) / [Braflix](https://www.braflix.app/) / [FMovies](https://fmoviesz.to/)** - Fast movie / TV streaming
+**[movie-web](https://movie-web.github.io/docs/instances) / [Fix](https://pastebin.com/8X5bbjeS) / [lonelil](https://watch.lonelil.ru/) / [Fix](https://watch.lonelil.ru/onboarding) / [Braflix](https://www.braflix.app/) / [FMovies](https://fmoviesz.to/)** - Fast movie / TV streaming
 **[HiAnime](https://hianime.to/)** - Fast anime streaming
 **[Dramacool](https://dramacool.cy/)** - Fast Asian drama streaming
 **[SportsSurge](https://sportsurge.net/)** - Live sports streaming
@@ -130,13 +135,12 @@ Use [this](https://bitbucket.org/magnolia1234/bypass-paywalls-firefox-clean/src/
 
 ### Downloading
 
-**[LRepacks](https://lrepacks.net/)** or **[CRACKSurl](https://cracksurl.com/)** - Trusted software sites
-**[OlaMovies](https://olamovies.bar/)** - Fast video downloads
-**[FitGirl Repacks](https://fitgirl-repacks.site/) / [SteamRIP](https://steamrip.com/) - Game download sites / [FitGirl Discord](https://discord.gg/Up3YARe4RW)
+**[LRepacks](https://lrepacks.net/) / [CRACKSurl](https://cracksurl.com/)** - Trusted software sites
+**[OlaMovies](https://olamovies.icu/)** - Fast video downloads
+**[FitGirl Repacks](https://fitgirl-repacks.site/) / [SteamRIP](https://steamrip.com/)** - Game download sites / [FitGirl Discord](https://discord.gg/Up3YARe4RW)
 **[Vimms Lair](https://vimm.net/) / [No-Intro](https://rentry.co/FMHYBase64#no-intro)** - ROM download sites / [Emulators](https://emulation.gametechwiki.com/)
 **[Firehawk52](https://rentry.org/firehawk52)** - Music ripping guide
 **[DoubleDouble](https://doubledouble.top/)** - Multi-Site audio download
-**[Free MP3 Download](https://free-mp3-download.net/)** - MP3 / FLAC downloads
 **[Soulseek](https://slsknet.org/)** or [Nicotine+](https://nicotine-plus.org/) - Audio download app
 **[Download CSE](https://cse.google.com/cse?cx=006516753008110874046:1ugcdt3vo7z) / [2](https://cse.google.com/cse?cx=006516753008110874046:reodoskmj7h)** - Multi-site download search
 **[Video Download CSE](https://cse.google.com/cse?cx=006516753008110874046:wevn3lkn9rr#gsc.tab=0) / [2](https://cse.google.com/cse?cx=89f2dfcea452fc451) / [3](https://cse.google.com/cse?cx=aab218d0aa53e3578#gsc.tab=0)** - Multi-site video download search
