@@ -612,7 +612,7 @@
 * ⭐ **[Console Living Room](https://archive.org/details/consolelivingroom)**
 * ⭐ **[My Abandonware](https://www.myabandonware.com/)**
 
-[WebRCade](https://www.webrcade.com/), [RetroGames](https://www.retrogames.cz/), [retrogames.cc](https://www.retrogames.cc/), [ClassicReload](https://classicreload.com/), [Retro Games Bot](https://retrogamesbot.com/), [Vizzed](https://www.vizzed.com/), [Free80sArcade](https://www.free80sarcade.com/), [Retro Uprising](https://www.retrouprising.com/), [Retro Games](https://www.retrogames.onl/), [Play Classic Games](https://playclassic.games/), [ClassicGames](https://www.classicgames.me/), [Emulator.Games](https://www.emugames.net/), [GamulatoR](https://www.gamulator.com/ROMs), [AfterPlay](https://afterplay.io/), [Aurora](https://skitty.xyz/aurora/). [Emulator.online](http://emulator.online/), [Online.OldGames](https://online.oldgames.sk/), [Retro Games Online](https://www.playretrogames.com/), [PlayEmulator](https://playemulator.online/), [2](https://www.playemulator.io/games/), [Emulator Games Online](https://gamesfrog.com/), [Virtual Consoles](https://virtualconsoles.com/), [OldGameShelf](https://oldgameshelf.com/), [Emulator Online](https://emulatoronline.com/), [PlayRetroGames](https://playretrogames.net/), [MyEmulator](https://myemulator.online/), [NESNinja](https://nesninja.com/), [Retro Games Free](https://retrogamesfree.com/), [PlayRetroGames](https://playretrogames.com/), [Piepacker](https://piepacker.com/), [Tiny8bit](https://floooh.github.io/tiny8bit/), [ClassicGame](https://www.classicgame.com/), [ClassicGamesArcade](https://classicgamesarcade.com/), [Radyolojinet](https://www.radyolojinet.com/retro/), [WePlayOld](https://www.weplayold.com/)
+[WebRCade](https://www.webrcade.com/), [RetroGames](https://www.retrogames.cz/), [retrogames.cc](https://www.retrogames.cc/), [ClassicReload](https://classicreload.com/), [Retro Games Bot](https://retrogamesbot.com/), [Vizzed](https://www.vizzed.com/), [Free80sArcade](https://www.free80sarcade.com/), [Retro Uprising](https://www.retrouprising.com/), [Retro Games](https://www.retrogames.onl/), [Play Classic Games](https://playclassic.games/), [ClassicGames](https://www.classicgames.me/), [Emulator.Games](https://www.emugames.net/), [GamulatoR](https://www.gamulator.com/ROMs), [AfterPlay](https://afterplay.io/), [Aurora](https://skitty.xyz/aurora/). [Emulator.online](http://emulator.online/), [Online.OldGames](https://online.oldgames.sk/), [Retro Games Online](https://www.playretrogames.com/), [PlayEmulator](https://playemulator.online/), [2](https://www.playemulator.io/games/), [Emulator Games Online](https://gamesfrog.com/), [Virtual Consoles](https://virtualconsoles.com/), [OldGameShelf](https://oldgameshelf.com/), [Emulator Online](https://emulatoronline.com/), [PlayRetroGames](https://playretrogames.net/), [MyEmulator](https://myemulator.online/), [Retro Games Free](https://retrogamesfree.com/), [PlayRetroGames](https://playretrogames.com/), [Piepacker](https://piepacker.com/), [Tiny8bit](https://floooh.github.io/tiny8bit/), [ClassicGame](https://www.classicgame.com/), [ClassicGamesArcade](https://classicgamesarcade.com/), [Radyolojinet](https://www.radyolojinet.com/retro/), [WePlayOld](https://www.weplayold.com/)
 
 ***
 
@@ -811,7 +811,7 @@
 * [PressReader](https://greasyfork.org/en/scripts/39936) - Bypass PressReader Paywall
 * [Ladder](https://github.com/everywall/ladder) - Self-Hosted
 
-[Burles](https://burles.co/en/), [Paywall Bypass Index](https://redd.it/rs9ej1), [bypass-paywalls](https://github.com/iamadamdev/bypass-paywalls-chrome##bypass-paywalls), [pocket](https://getpocket.com/), [1ft.io](https://1ft.io/), [Hover Paywalls](https://github.com/nathan-149/hover-paywalls-browser-extension), [medium-unlocker](https://github.com/und3fined/medium-unlocker), [OpenAccessButton](https://openaccessbutton.org/), [RemovePaywalls](https://www.removepaywall.com/), [PaywallBypasser](https://github.com/SybronH/PaywallBypasser), [Freedium](https://freedium.cfd/), [12ft.io](https://12ft.io/), [Smry.ai](https://www.smry.ai/), [Readium](https://sugoidesune.github.io/readium/), [shacklefree](https://www.shacklefree.in/)
+[Burles](https://burles.co/en/), [Paywall Bypass Index](https://redd.it/rs9ej1), [bypass-paywalls](https://github.com/iamadamdev/bypass-paywalls-chrome##bypass-paywalls), [pocket](https://getpocket.com/), [1ft.io](https://1ft.io/), [Hover Paywalls](https://github.com/nathan-149/hover-paywalls-browser-extension), [medium-unlocker](https://github.com/und3fined/medium-unlocker), [OpenAccessButton](https://openaccessbutton.org/), [RemovePaywalls](https://www.removepaywall.com/), [PaywallBypasser](https://github.com/SybronH/PaywallBypasser), [12ft.io](https://12ft.io/), [Smry.ai](https://www.smry.ai/), [Readium](https://sugoidesune.github.io/readium/), [shacklefree](https://www.shacklefree.in/)
 
 ***
 
@@ -1047,7 +1047,7 @@
 
 ## Text Adventures
 
-[iFiction](https://www.ifiction.org/) (Index), [IFDB](https://ifdb.org/) (Index), [Ifarchive](https://ifarchive.org/if-archive/games/) (drive), [Pac-Txt](http://www.pactxt.com/), [AI Dungeon](https://play.aidungeon.io/main/landing), [A Dark Room](https://adarkroom.doublespeakgames.com/), [The Never Ending Quest](https://www.sir-toby.com/extend-a-story/story-1/code/read.php), [The Text Adventure](https://kevan.org/wikitext/), [Seedship](https://philome.la/johnayliff/seedship/play/index.html), [TextAventures](http://textadventures.co.uk/), [Crank](https://faedine.com/games/crank/b39/), [Web Adventures](https://www.web-adventures.org/), [WrittenRealms](https://writtenrealms.com/), [MUDII](http://www.mudii.co.uk/), [doublespeak](https://doublespeak.chat/), [Genesis](https://www.genesismud.org/), [Fateful Quest](https://fateful.quest/), [Level 13](https://nroutasuo.github.io/level13/)
+[iFiction](https://www.ifiction.org/) (Index), [IFDB](https://ifdb.org/) (Index), [Ifarchive](https://ifarchive.org/if-archive/games/) (drive), [Pac-Txt](http://www.pactxt.com/), [AI Dungeon](https://play.aidungeon.io/main/landing), [A Dark Room](https://adarkroom.doublespeakgames.com/), [The Never Ending Quest](https://www.sir-toby.com/extend-a-story/story-1/code/read.php), [The Text Adventure](https://kevan.org/wikitext/), [Seedship](https://philome.la/johnayliff/seedship/play/index.html), [TextAventures](http://textadventures.co.uk/), [Web Adventures](https://www.web-adventures.org/), [WrittenRealms](https://writtenrealms.com/), [MUDII](http://www.mudii.co.uk/), [doublespeak](https://doublespeak.chat/), [Genesis](https://www.genesismud.org/), [Fateful Quest](https://fateful.quest/), [Level 13](https://nroutasuo.github.io/level13/)
 
 ***
 
@@ -1111,12 +1111,6 @@
 * ⭐ **[CheckShortURL](https://checkshorturl.com/)**
 
 [ExpandURL](https://www.expandurl.net/), [Unshorten.it](https://unshorten.it/), [WhereGoes](https://wheregoes.com/), [urlxray](http://urlxray.com/), [unshorten](https://unshorten.me/)
-
-***
-
-## Waifu2x Tools
-
-[Guide](https://i.ibb.co/1MXJNPB/2eb637667b02.png) / [Colab](https://colab.research.google.com/drive/1RjyCk30cc24ez1-a1Qa3CP3g_yk9AJwq) / [GUI](https://github.com/YukihoAA/waifu2x_snowshell/releases), [2](https://github.com/nihui/waifu2x-ncnn-vulkan), [3](https://github.com/AaronFeng753/Waifu2x-Extension-GUI) / [WebUI](https://unlimited.waifu2x.net/), [2](https://waifu2x.booru.pics/), [3](https://waifu2x.pro/), [4](https://waifu2x.udp.jp/), [5](https://waifu2x.org/), [6](https://waifuxl.com/)
 
 ***
 
