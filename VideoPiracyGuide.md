@@ -16,6 +16,7 @@
 * ⭐ **[Watching Zone](https://www.watching.zone/)** - Movies / TV / Anime / 1080p
 * ⭐ **[Binged](https://binged.live/)**, [2](https://binged.in/), [3](https://binge.lol/) - Movies / TV / Anime / 1080p
 * ⭐ **[The Movie Archive](https://themoviearchive.site/)**, [2](https://tma.lol) - Movies / TV / 4K / 1080p
+* ⭐ **[SusFlix](https://susflix.tv/)**, [2](https://www.susmovies.lol/), [3](https://sushbo.com/), [4](https://hbosus.com) - Movies / TV / Anime / 4K / 1080p / [Discord](https://discord.gg/BE7kTVezBN)
 * ⭐ **[SFlix](https://sflix.to/)** - Movies / TV / Anime / 1080p / [Mirrors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_sflix_clones)
 * ⭐ **[M4uFree](https://ww2.m4ufree.com/)** - Movies / TV / Anime / 1080p / [Mirrors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_m4ufree_clones)
 * ⭐ **[MovieBeams](https://moviebeamz.com/)** - Movies / TV / Anime / 4K / 1080p
@@ -31,7 +32,6 @@
 * [HollyMovieHD](https://hollymoviehd.cc/), [YesHD](https://yeshd.net/) or [NovaMovie](https://novamovie.net/) - Movies / TV / Anime / 1080p / [Mirrors](https://hollymoviehd-official.com/)
 * [Flixta](https://flixta.cc/) - Movies / TV / Anime / 1080p
 * [FlixHQ](https://flixhq.click/) - Movies / TV / Anime / 1080p
-* [SusFlix](https://susflix.tv/), [2](https://www.susmovies.lol/), [3](https://sushbo.com/), [4](https://hbosus.com) - Movies / TV / Anime / 4K / 1080p / [Discord](https://discord.gg/BE7kTVezBN)
 * [Seez](https://seez.su/) - Movies / TV / 1080p
 * [CriaFlix](https://criaflix.live/) - Movies / TV / Anime / 1080p
 * [Movierr](https://ww3.movierr.site/) - Movies / TV / Anime / [Discord](https://discord.gg/sxKN424ZYK)
@@ -572,6 +572,7 @@
 * [Google Drive Movies](https://databasegdriveplayer.co/movie.php), [TV](https://databasegdriveplayer.co/series.php), [Anime](https://databasegdriveplayer.co/anime.php), [KDrama](https://databasegdriveplayer.co/drama.php) - Movies / TV / Anime / 720p
 * [ShareBB](https://sharebb.me/) - Movies / TV / 1080p
 * [TwitchDL](https://dl2.twitchdl.us/) - Movies / TV / Anime / 1080p
+* [SD Toons](https://sdtoons.in) - Movies / TV / Anime / 1080p
 * [PrivateMovieZ](https://privatemoviez.homes/) - Movies / TV / 1080p / [Telegram](https://t.me/PMZOfficial)
 * [FilmGo](https://www.filmgo.live/) - Movies / TV / 720p
 * [FZMovies](https://fzmovies.host/) - Movies / 720p
@@ -631,7 +632,6 @@
 * [Anime2Enjoy](https://www.anime2enjoy.com/) - Sub / [Discord](https://discord.gg/PxSmumS)
 * [DameDesuYo](https://damedesuyo.com/) - Sub / [Discord](https://discord.com/invite/zyzT4Sy6yJ)
 * [AnimeLand](https://w4.animeland.tv/) - Dub
-* [SD Toons](https://sdtoons.in) - Dub
 * [CoolsAnime](https://coolsanime.me/a-to-z-index-of-anime-in-english-subbed/) - Sub
 * [Mix Bag of Anime](https://rentry.co/FMHYBase64#mix-bag-of-anime) - Sub / Dub
 * [Chiby](https://www.animechiby.com/) - Sub / [Discord](https://discord.com/invite/WagHbBz)
