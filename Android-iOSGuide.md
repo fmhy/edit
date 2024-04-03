@@ -17,7 +17,7 @@
 * [RevDL](https://www.revdl.com/)
 * [AndroidRepublic](https://androidrepublic.org/)
 * [ApkModsApp](https://apkmodsapp.com/)
-* [LiteAPK](https://liteapks.com/)
+* [LiteAPKs](https://liteapks.com/) / [App](https://liteapks.com/app.html)
 * [Android1](https://an1.com/)
 * [PDALife](https://pdalife.com/)
 * [APKVision](https://apkvision.org/)
@@ -707,6 +707,7 @@
 # ► Android Audio
 
 * ↪️ **[Android Audio Players](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_android_audio_players)**
+* ↪️ **[Song Identification Apps](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/audio#wiki_.25B7_song_identification)**
 * ⭐ **[xManager](https://www.xmanagerapp.com/)** / [Discord](https://discord.com/invite/dnpKn5Wufm) or [Modded Spotify](https://rentry.co/FMHYBase64#modded-spotify-apk) - Ad Free Spotify
 * ⭐ **xManager Tools** - [Friend Activity](https://spotivity.me/) / [Mute Ads](https://play.google.com/store/apps/details?id=live.teekamsuthar.mutify), [2](https://github.com/aghontpi/ad-silence) / [Stats](https://stats.fm/)
 * ⭐ **[InnerTune](https://github.com/z-huang/InnerTune)**, **[Namida](https://github.com/namidaco/namida)**, [RiMusic](https://rimusic.xyz) / [GitHub](https://github.com/fast4x/RiMusic), [Harmony Music](https://github.com/anandnet/Harmony-Music), [SimpMusic](https://simpmusic.tech/), [spmp](https://github.com/toasterofbread/spmp), [ViMusic](https://vitune.app) / [GitHub](https://github.com/25huizengek1/ViTune), [Gyawun](https://jhelumcorp.github.io/) or [Vibe You](https://github.com/SuhasDissa/VibeYou) - YouTube Music Players
@@ -717,7 +718,6 @@
 * [ListenBrainsz](https://github.com/metabrainz/listenbrainz-android) - Music Tracking / Rating
 * [Spowlo](https://github.com/BobbyESP/Spowlo/) / [Telegram](https://t.me/spowlo_chatroom) - Spotify Audio Downloader
 * [YouTubeDL Android](https://github.com/yausername/youtubedl-android), [ytdlnis](https://github.com/deniscerri/ytdlnis), [Seal](https://github.com/JunkFood02/Seal) or [SongTube](https://github.com/SongTube/SongTube-App) / [Telegram](https://t.me/songtubechannel) - YouTube Audio Downloaders
-* [Shazam](https://www.shazam.com/), [SoundHound](https://www.soundhound.com/soundhound), [MusicRecognizer](https://github.com/aleksey-saenko/MusicRecognizer), [Audire](https://github.com/alexmercerind/audire) or [AmbientMusicMod](https://github.com/KieronQuinn/AmbientMusicMod) - Song Identification
 * [Redomi](https://github.com/acszo/Redomi/) - Multi-Platform Streaming
 * [Soundcloud](https://play.google.com/store/apps/details?id=com.soundcloud.android&amp;hl=us) - Streaming
 * [Musify](https://gokadzev.github.io/Musify/) - Streaming
