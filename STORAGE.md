@@ -979,12 +979,12 @@
 ## Switch ROMs
 
 * [ROMSLAB](https://romslab.com/)
-* [NXBrew](https://nxbrew.com/) - (Scroll past Download Setup buttons)
+* [NXBrew](https://nxbrew.com/) (Scroll past Download Setup buttons)
 * [nsw2u](https://nsw2u.com/), [2](https://nsw2u.net/)
 * [NswRoms](https://nswrom.com/)
-* [ROMSim](https://romsim.com/) - [Discord](https://discord.gg/Zgdhq7xDcd)
+* [ROMSim](https://romsim.com/) / [Discord](https://discord.gg/Zgdhq7xDcd)
 * [taodung](https://taodung.com/)
-
+* [softcobra](https://softcobra.com/ntdo/ntdo-swh/) / [Decoder](https://nin10news.com/decode/) / [Discord](https://discord.com/invite/gweeJNzQ)
 ***
 
 ## Tab Managers
