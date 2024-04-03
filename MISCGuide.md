@@ -1122,11 +1122,8 @@
 * [OpenScope](https://www.openscope.co/) - Air Traffic Control Simulator
 * [cnnix-steership](https://edition.cnn.com/interactive/2021/03/cnnix-steership/) - Steer through the Suez Canal
 * [Ballooning](https://alexanderperrin.com.au/triangles/ballooning/) - Procedurally Generated Balloon Simulator
-* [The Fed](https://thefed.app/) - Central Banking Game
 * [Tamajoji](https://aericode.itch.io/tamajoji) - Browser Tamagotchi
-* [Gifypet](https://gifypet.neocities.org/) - Create Your Own Cute Pet
 * [Koi Pond](https://koipond.fish/) - Feed Koi
-* [xrDinosaurs](https://www.xrdinosaurs.com/) - VR Dino Park
 * [This Is Sand](https://thisissand.com/) - Make Sand Art
 * [Orb.Farm](https://orb.farm/) - Virtual Aquatic Ecosystem
 * [Generativeplanets](https://zehfernandes.com/generativeplanets/builder) or [Planet](https://oskarstalberg.com/game/planet/planet.html) - Planet Generators
@@ -1174,7 +1171,7 @@
 * ↪️ **[Online Virtual Tours](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu#wiki_.25BA_virtual_tours)**
 * ⭐ **[Iceberg Charts](https://icebergcharts.com/)** - Explore Obscure Topics / [/r/IcebergCharts](https://www.reddit.com/r/IcebergCharts/)
 * ⭐ **[InfiniteConversation](https://infiniteconversation.com/)** - Never-Ending Werner Herzog / Slavoj Žižek Conversation
-* ⭐ **[Ranker](https://www.ranker.com/)**, [Listography](https://listography.com/), [hero](https://hero.page/), [FlexLists](https://flexlists.com/), [TheTopsTens](https://www.thetoptens.com/), [CopyPasteList](https://copypastelist.co/) or [ListVerse](https://listverse.com/) - Create / Explore Lists
+* ⭐ **[Ranker](https://www.ranker.com/)**, [Listography](https://listography.com/), [hero](https://hero.page/), [TheTopsTens](https://www.thetoptens.com/), [CopyPasteList](https://copypastelist.co/) or [ListVerse](https://listverse.com/) - Create / Explore Lists
 * ⭐ **[The Lost Media Wiki](https://lostmediawiki.com/)** / [Forum](https://forums.lostmediawiki.com/)
 * [Internet Map](https://internet-map.net/) - Map of the Internet
 * [Wikiverse](https://wikiverse.io/) - 3D Wiki Visualizer
@@ -1188,44 +1185,26 @@
 * [UFO Casebook](https://www.ufocasebook.com/), [UFO Discovery](https://app.polymersearch.com/polymerexamples/UFO_Sightings) or [UFO Sighting Chart](https://i.redd.it/0l9ugv9kz4091.jpg) - UFO Sighting Lists / Tracking
 * [BFRO](https://bfro.net/) - Bigfoot Research Site
 * [TheShadowlands](https://theshadowlands.net/) - Oldschool Paranormal Research Site
-* [Spec Wiki](https://speculativeevolution.fandom.com/wiki/Main_Page) - Speculative Evolution Wiki
 * [FutureTimeline](https://www.futuretimeline.net/) - Timeline of Future Predictions
-* [Nested](https://orteil.dashnet.org/nested) - Explore the Universe in a File System
 * [Letters of Note](https://news.lettersofnote.com/) - Historical Letters
 * [CommSpeeches](https://commspeeches.softr.app/) - Famous Graduation Speeches
-* [Unsent Letter](https://unsent-letters.netlify.app/) - Read Random Unsent Letters
-* [Endless Summer Times](https://times.endlessvmmer.com/) - Retro Summer Vibe News Archive
 * [Roadside America](https://www.roadsideamerica.com/) - Roadside Attraction Index
 * [Roller Coaster Database](https://rcdb.com/) - World Roller Coaster Index
 * [FirstVersions](https://www.firstversions.com/) - Find First Versions of Anything
-* [SaveTheSounds](http://savethesounds.info/) - Museum of Endangered Sounds
-* [HelixChamber](https://helixchamber.com/) - Unused Pokémon Material
-* [Pokémon Fossil Museum](https://my.matterport.com/show/?m=P9WCbyCBGBM) - Explore Pokémon Fossil Museum
-* [DroneAwards](https://droneawards.photo/) - Drone Photo Awards
 * [Pushing Pixels](https://www.pushing-pixels.org/fui/) or [Saji8k](https://www.saji8k.com/kit-fui/) - Imaginary UI from Movies
 * [Nestflix](https://nestflix.fun/) - Fictional Media in Media Database
-* [TheFoodPlace](https://thefoodplace.cafe/) - Food / Beverages from The Good Place
-* [MadeHow](http://www.madehow.com/) - How Products Are Made
 * [BrickLink Studio](https://www.bricklink.com/v2/build/studio.page) - Lego Building Software
-* [Brickit](https://brickit.app/) - Scan Lego Collection for Build Ideas
-* [Building Instructions](https://www.lego.com/en-us/service/buildinginstructions) - Download Lego Instructions
 * [Instructables](https://www.instructables.com/) - Free Projects / Crafts
 * [Toys from Trash](https://www.arvindguptatoys.com/toys.html) - Use Everyday Items to Make Toys 
 * [Fold N Fly](https://www.foldnfly.com/) - Paper Airplane Guides
-* [Paper Plotter](https://felixboiii.github.io/paper-plotter/) - Create 3D Plots out of Paper
 * [TwistyPuzzles](https://twistypuzzles.com/) or [HyperCubing](https://hypercubing.xyz/) - Twisty Puzzle Wikis
 * [Game a-b-street](https://a-b-street.github.io/docs/) - Traffic Simulation
-* [Talksmi](https://talksmi.com/) - Conversation Ideas
-* [Pros 'n Cons](https://pros-cons.io/) or [Moral Machine](https://www.moralmachine.net/) - Decision-Making AIs
-* [Rank a Day](https://rankaday.com/) - Random Daily Topic Voting
-* [Absurd Trolley Problems](https://neal.fun/absurd-trolley-problems/) - Vote on Different Trolley Problem Versions
-* [WhereShouldILive?](https://www.whereshouldilive.co/) - Find Out Where You Should Live
+* [Moral Machine](https://www.moralmachine.net/) - Decision-Making AIs
 * [Chirper](https://chirper.ai/) - AI Generated Twitter
 * [Judge My Music](https://pudding.cool/2021/10/judge-my-music/) - Have an AI Judge Your Taste in Music
 * [Common Voice](https://www.saveriomorelli.com/commonvoice/) - Help Teach a Machine How to Talk 
 * [Michaelbach](https://michaelbach.de/ot/) - Optical Illusions
 * [Strobe Illusion](https://strobe.cool/) - Hallucination Illusion
-* [Ridella](https://ridella.xyz/) - Daily Riddles
 * [Notpron](http://www.notpron.com/) - Worlds Hardest Internet Riddle
 * [Fun Trivia](https://www.funtrivia.com/) or [Sporcle](https://www.sporcle.com/) - Trivia
 * [ARealMe](https://www.arealme.com/) - Quiz Collection
