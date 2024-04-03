@@ -79,7 +79,7 @@
 
 * ↪️ **[Course Megadrives](https://rentry.co/FMHYBase64#course-megadrives)**
 * ⭐ **[TutFlix](https://tutflix.org/)** - Courses / Drives / Signup Opened Fridays
-* ⭐ **[OneHack](https://onehack.us/)** - Courses
+* ⭐ **[OneHack](https://onehack.us/)** - Courses / [Telegram](https://t.me/Official_OneHack)
 * ⭐ **[HackNation](https://hacksnation.com/)** - Courses
 * ⭐ **[TutsNode](https://tutsnode.net/)** - Courses
 * ⭐ **[tut4dl](https://tut4it.com/)** - Courses
