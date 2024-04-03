@@ -111,8 +111,8 @@
 
 ## ▷ File Explorers
 
+* ⭐**[Files](https://files.community/)** - Customizable Windows File Manager
 * [Xplorer](https://xplorer.space/) / [GitHub](https://github.com/kimlimjustin/xplorer) / [Discord](https://discord.com/invite/MHGtSWvfUS), [DoubleCMD](https://github.com/doublecmd/doublecmd) or [muCommander](https://www.mucommander.com/) - Cross Platform File Explorers
-* [Files](https://files.community/) - Customizable Windows File Manager
 * [Sigma](https://github.com/aleksey-hoffman/sigma-file-manager) - Modern File Manager for Windows / Linux
 * [ChromaFiler](https://chroma.zone/chromafiler/) - Column-based Windows File Manager
 * [ExplorerPatcher](https://github.com/valinet/ExplorerPatcher) - Improve Windows Explorer
