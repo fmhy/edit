@@ -62,40 +62,49 @@
 
 ## ▷ Upscale / Restore
 
-* ⭐ **[Waifu2x](https://github.com/nagadomi/waifu2x)** - Anime Image Upscaling / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_waifu2x_tools)
+* ⭐ **[Waifu2x](https://github.com/nagadomi/nunif)** - Anime Image Upscaling / [WebUI](https://www.waifu2x.net/), [2](https://unlimited.waifu2x.net/), [3](https://waifu2x.booru.pics/), [4](https://waifu2x.pro/)
+* ⭐ **[WaifuXL](https://waifuxl.com/)** - Anime Image Upscaling
 * ⭐ **[Upscayl](https://www.upscayl.org/)** - Image Upscaling
 * ⭐ **[chaiNNer](https://github.com/chaiNNer-org/chaiNNer)** - Image Upscaling
-* ⭐ **[Upscale Wiki](https://upscale.wiki/wiki/Main_Page)** - Image Upscaling Wiki
 * ⭐ **[OpenModelDB](https://openmodeldb.info/)** - AI Upscaling Model Database
-* [Real-ESRGAN](https://github.com/xinntao/Real-ESRGAN) - Image Restoration Algorithms
-* [FenoPhoto](https://www.fenophoto.com/) - Image Restoration Tools
+* [Real-ESRGAN](https://github.com/xinntao/Real-ESRGAN) - Image Restoration Algorithms / [Face Restoration](https://github.com/TencentARC/GFPGAN)
 * [/r/estoration](https://www.reddit.com/r/estoration/) - Photo Restoration Requests
 * [Photo Face Restorer](https://www.restorephotos.io/) - Face Restoration / Colorization Tool
-* [Deep Nostalgia](https://www.myheritage.com/deep-nostalgia) - Animate Family Photos
 * [upscaler](https://icons8.com/upscaler) - Image Upscaling
 * [Bigjpg](https://bigjpg.com/) - Image Upscaling
 * [Ilaria Upscaler](https://huggingface.co/spaces/TheStinger/Ilaria_Upscaler) - Image Upscaling
 * [Crunch](https://github.com/chrissimpkins/Crunch) - Image Upscaling
 * [PNG-Upscale](https://github.com/Araxeus/PNG-Upscale) - Image Upscaling
-* [Cupscale](https://github.com/n00mkrad/cupscale) - Image Upscaling
 * [Superimage](https://superimage.io/) - Image Upscaling
 * [ImageScaler](https://github.com/RoanH/ImageScaler/) - Image Upscaling
 * [Upscaler Stockphotos](https://upscaler.stockphotos.com/) - Image Upscaling
-* [ImageUpscaler](https://imageupscaler.com/), [2](https://image-upscaler.beatsnoop.com/) - Image Upscaling
-* [Upscale Media](https://www.upscale.media/) - Image Upscaling
 * [Zyro Upscaler](https://zyro.com/tools/image-upscaler) - Image Upscaling
 * [Nicescaler](https://github.com/Djdefrag/NiceScaler) - Image Upscaling
-* [DFDNet](https://github.com/csxmli2016/DFDNet) - Image Upscaling
-* [Nero AI](https://ai.nero.com/image-upscaler) - Image Upscaling
-* [SDUpscale](https://rentry.org/sdupscale) - Image Upscaling
 * [JPEG Quantsmooth](https://github.com/ilyakurdyukov/jpeg-quantsmooth) - Image Upscaling
 * [imgupscaler](https://imgupscaler.com/) - Image Upscaling
 * [torch-srgan](https://deepai.org/machine-learning-model/torch-srgan) - Image Upscaling
-* [ultimate-upscale](https://github.com/Coyote-A/ultimate-upscale-for-automatic1111) - Image Upscaling
-* [multidiffusion-upscaler](https://github.com/pkuliyi2015/multidiffusion-upscaler-for-automatic1111) - Image Upscaling
 * [QualityScaler](https://github.com/Djdefrag/QualityScaler) - Image Upscaling
-* [GFPGAN](https://github.com/TencentARC/GFPGAN) - Face Upscaling
 * [resdet](https://github.com/0x09/resdet) - Detect Upscaled Images
+
+***
+
+## ▷ Compress / Resize
+
+* ⭐ **[ImageMagick](https://imagemagick.org/index.php)** / [Scripts](https://www.fmwconcepts.com/imagemagick/index.php)
+* ⭐ **[Pingo](https://css-ig.net/pingo)** / [GUI](https://css-ig.net/pinga), [RIOT](https://riot-optimizer.com/), [YOGA](https://yoga.flozz.org/) or [ImageFoo](https://imagefoo.com/) - Image Optimization Tools
+* ⭐ **[Squoosh](https://squoosh.app/)**, [CompressOrDie](https://compress-or-die.com/), [TinyJPG](https://tinyjpg.com/), [ImageCompresser](https://imagecompresser.com/), [Caesium](https://saerasoft.com/caesium/), [ImageSmaller](https://www.imagesmaller.com/), [Compress JPEG](https://compressjpeg.com/), [CompressImage](https://compressimage.io/), [CrushImage](https://crushimage.com/), [ShrinkMe](https://shrinkme.app/), [Crushee](https://crushee.app/), [Compressor](https://compressor.io/) or [Batch Compress](https://batchcompress.com/en) - Image Compressors 
+* [Bulk Image Convert](https://bulkimageconvert.com), [imverter](https://www.imverter.com/), [Raw Pics](https://raw.pics.io/) or [Converseen](https://converseen.fasterland.net/) - Image Converters 
+* [ImageWorsener](https://entropymine.com/imageworsener/) - Image Filters / Blur / Resizing
+* [tiny.pictures](https://tiny.pictures/) - Optimize Images
+* [Bulk Image Resize](https://bulkimageresize.com/) - Resize Images / [Crop](https://bulkimagecrop.com/) / [Compress](https://imagecompressr.com/) 
+* [Croppola](https://croppola.com/) or [Avatar Cropper](https://avatarcropper.com/) - Cropping Tools
+* [Seopix](https://www.seopix.io/) - Resize / Compress Images
+* [Simple Image Resizer](https://www.simpleimageresizer.com/), [ImageResizer](https://imageresizer.com/), [PicResize](https://picresize.com/), [Birme](https://www.birme.net/) or [ResizeNow](https://www.resizenow.com/en), [BulkResizePhotos](https://bulkresizephotos.com/) - Resize Images
+* [Resize App Icon](https://resizeappicon.com/) - Resize Square Images
+* [PixelHunter](https://pixelhunter.io/) - Resize Images for Different Sites
+* [TinyPNG](https://tinypng.com/), [Compress PNG](https://compresspng.com/), [OxiPNG](https://github.com/shssoichiro/oxipng) or [PNGQuant](https://pngquant.org/) - PNG Compressors
+* [JPEG.rocks](https://jpeg.rocks/) - JPEG Re-Encoder
+* [Innocenzi](https://avatar.innocenzi.dev/) - Create Round Avatars
 
 ***
 
@@ -108,31 +117,6 @@
 * [imagecolorizer](https://imagecolorizer.com/) - Image Colorization / Restoration
 
 ***
-
-## ▷ Resize / Convert
-
-* ⭐ **[ImageMagick](https://imagemagick.org/index.php)** / [Scripts](https://www.fmwconcepts.com/imagemagick/index.php)
-* ⭐ **[Pingo](https://css-ig.net/pingo)** / [GUI](https://css-ig.net/pinga), [RIOT](https://riot-optimizer.com/), [YOGA](https://yoga.flozz.org/) or [ImageFoo](https://imagefoo.com/) - Image Optimization Tools
-* [Bulk Image Convert](https://bulkimageconvert.com), [imverter](https://www.imverter.com/), [Raw Pics](https://raw.pics.io/), [Converseen](https://converseen.fasterland.net/), [Vector Magic](https://vectormagic.com/) or [WebP Converter](https://webp-converter.com/) - Image Converters 
-* [svgco](https://svgco.de/) - Image to SVG Converter
-* [ImageWorsener](https://entropymine.com/imageworsener/) - Image Filters / Blur / Resizing
-* [Vector Express](https://vector.express/) - Vector Converter
-* [Vectorizer](https://www.vectorizer.io/) or [AutoTracer](https://www.autotracer.org/) - Image Vectorizer 
-* [text2img](https://master.ayra.ch/text2img/) - Convert Text Screenshots to Images
-* [CloudImage](https://www.cloudimage.io/), [tiny.pictures](https://tiny.pictures/) - Optimize Images
-* [Bulk Image Resize](https://bulkimageresize.com/) - Resize Images / [Crop](https://bulkimagecrop.com/) / [Compress](https://imagecompressr.com/) 
-* [Croppola](https://croppola.com/) or [Avatar Cropper](https://avatarcropper.com/) - Cropping Tools
-* [Seopix](https://www.seopix.io/) - Resize / Compress Images
-* [Simple Image Resizer](https://www.simpleimageresizer.com/), [ImageResizer](https://imageresizer.com/), [PicResize](https://picresize.com/), [Birme](https://www.birme.net/), [ImageResizeOnline](https://www.imageresizeonline.com/), [OnlineResizeImage](https://www.onlineresizeimage.com/) or [ResizeNow](https://www.resizenow.com/en), [BulkResizePhotos](https://bulkresizephotos.com/) - Resize Images
-* [Resize App Icon](https://resizeappicon.com/) - Resize Square Images
-* [PixelHunter](https://pixelhunter.io/) - Resize Images for Different Sites
-* [SVGO](https://github.com/svg/svgo) or [SVGCrop](https://svgcrop.com/) - SVG Optimization / [GUI](https://jakearchibald.github.io/svgomg/)
-* [CompressOrDie](https://compress-or-die.com/), [TinyJPG](https://tinyjpg.com/), [ImageCompresser](https://imagecompresser.com/), [Caesium](https://saerasoft.com/caesium/), [ImageSmaller](https://www.imagesmaller.com/), [Compress JPEG](https://compressjpeg.com/), [CompressImage](https://compressimage.io/), [CrushImage](https://crushimage.com/), [ShrinkMe](https://shrinkme.app/), [Crushee](https://crushee.app/), [Compressor](https://compressor.io/) or [Batch Compress](https://batchcompress.com/en) - Image Compressors 
-* [TinyPNG](https://tinypng.com/), [Compress PNG](https://compresspng.com/), [OxiPNG](https://github.com/shssoichiro/oxipng) or [PNGQuant](https://pngquant.org/) - PNG Compressors
-* [JPEG.rocks](https://jpeg.rocks/) - JPEG Re-Encoder
-* [Innocenzi](https://avatar.innocenzi.dev/) - Create Round Avatars
-
-*** 
 
 ## ▷ Image Effects
 
@@ -292,6 +276,10 @@
 * [Game-icons](https://game-icons.net/) - Game Icons
 * [HealthIcons](https://healthicons.org/) - Medical Icons
 * [RealFaviconGenerator](https://realfavicongenerator.net/) - Favicon Generator
+* [SVGO](https://github.com/svg/svgo) or [SVGCrop](https://svgcrop.com/) - SVG Optimization / [GUI](https://jakearchibald.github.io/svgomg/)
+* [svgco](https://svgco.de/) - Image to SVG Converter
+* [Vector Express](https://vector.express/) or [Vector Magic](https://vectormagic.com/) - Vector Converters
+* [Vectorizer](https://www.vectorizer.io/) or [AutoTracer](https://www.autotracer.org/) - Image Vectorizer 
 
 ***
 
@@ -325,7 +313,6 @@
 * [Mixer](https://quixel.com/mixer) - 3D Texture Creation Software
 * [The Textures Resource](https://www.textures-resource.com/) - Game Textures
 * [Trianglify.io](https://trianglify.io/) - Low-Poly Texture Generator
-* [Replacement Sky](https://replacement-sky.com/) - Skies for Photoshop
 
 ***
 
@@ -499,14 +486,14 @@
 ## ▷ Reverse Image Search
 
 * ⭐ **[Search by Image](https://github.com/dessant/search-by-image)** - Browser Extension
-* ⭐ **[TinEye](https://tineye.com/)** - Fast Image Search / [Extension](https://tineye.com/extensions)
+* ⭐ **[SauceNao](https://saucenao.com/)** - Multi Search / [Extension](https://saucenao.com/tools/)
 * ⭐ **[same.energy](https://same.energy/)** - Visual Search Engine
 * ⭐ **[SmartImage](https://github.com/Decimation/SmartImage)** - Multi Search App
 * ⭐ **[Yandex Images](https://yandex.com/images/)** - Image Search
 * [Google Images](https://images.google.com/) - Image Search
 * [CopySeeker](https://copyseeker.net/) - Image Search
+* [TinEye](https://tineye.com/) - Image Search / [Extension](https://tineye.com/extensions)
 * [VISE](https://www.robots.ox.ac.uk/~vgg/software/vise/) - Image Search with Search Queries
-* [SauceNao](https://saucenao.com/) - Multi Search / [Extension](https://saucenao.com/tools/)
 * [Have I Been Trained?](https://haveibeentrained.com/) - AI Image Search
 * [RootAbout](https://rootabout.com/) - Archive / OpenLibrary Reverse Image Search
 * [PimEyes](https://pimeyes.com/en/) - Reverse Face Image Search
@@ -776,9 +763,9 @@
 * 🌐 **[Photo OSINT](https://start.me/p/0PgzqO/photo-osint)** - Image OSINT Resources
 * ⭐ **[Fawkes](http://sandlab.cs.uchicago.edu/fawkes/)** or **[Lowkey](https://lowkey.umiacs.umd.edu/)** - Facial Cloaking
 * ⭐ **[FotoForensics](https://www.fotoforensics.com/)**, [Forensically](https://29a.ch/photo-forensics/) or [Ghiro](http://www.getghiro.org/) - Photo Forensics Tool
-* [GeoEstimation](https://labs.tib.eu/geoestimation) or [GeoSpy](https://geospy.web.app/) - Estimate Image Geolocation 
+* ⭐ **[GeoSpy](https://geospy.web.app/)** or [GeoEstimation](https://labs.tib.eu/geoestimation) - Estimate Image Geolocation 
 * [Image Identification Project](https://www.imageidentify.com/) - Image Identification Tool
-* [CryptoStego](https://github.com/zeruniverse/CryptoStego), [StegOnline](https://stegonline.georgeom.net/image), [OpenStego](https://www.openstego.com/), [OpenPuff](https://embeddedsw.net/OpenPuff_Steganography_Home.html), [Steganography-PNG](https://pedrooaugusto.github.io/steganography-png/) / [GitHub](https://github.com/pedrooaugusto/steganography-png), [ImSter](https://github.com/DJayalath/ImSter), [stegano](https://bztsrc.gitlab.io/stegano/) or [stegpy](https://github.com/dhsdshdhk/stegpy) - Images Steganography Tools
+* [StegOnline](https://stegonline.georgeom.net/image), [OpenStego](https://www.openstego.com/), [OpenPuff](https://embeddedsw.net/OpenPuff_Steganography_Home.html), [Steganography-PNG](https://pedrooaugusto.github.io/steganography-png/) / [GitHub](https://github.com/pedrooaugusto/steganography-png), [ImSter](https://github.com/DJayalath/ImSter), [stegano](https://bztsrc.gitlab.io/stegano/) or [stegpy](https://github.com/dhsdshdhk/stegpy) - Images Steganography Tools
 * [Aperisolve](https://aperisolve.fr/) / [2](https://www.aperisolve.com/) or [stegextract](https://github.com/evyatarmeged/stegextract) - Steganography Analysis Tool
 * [Unredacter](https://github.com/BishopFox/unredacter) - Crack Pixelated Images
 * [Redacted](https://redacted.app/) - Blur, Pixelate or Blackout parts of Images
@@ -790,10 +777,9 @@
 * [Pic2Map](https://www.pic2map.com/) - Image EXIF data viewer with GPS support
 * [TheExifer](https://www.thexifer.net/index.php), [Photini](https://github.com/jim-easterbrook/Photini) - Image EXIF Data Editors 
 * [Base64 Image](https://www.base64-image.de/) - Encrypt / Decrypt Images 
-* [BetaFace](https://www.betaface.com/demo.html) or [Face Recognition](https://github.com/ageitgey/face_recognition) - Facial Recognition
+* [BetaFace](https://www.betaface.com/demo.html) - Facial Recognition
 * [FaceCheck](https://facecheck.id/) or [Faceagle](https://faceagle.com/) - Face Recognition Search Engines
 * [Shoop](https://colab.research.google.com/drive/1AQ0XSKWjzJBhGXXJ0XrA4DckFdv6Ul5N) - Detect if Image is Photoshopped
-* [Squoosh](https://squoosh.app/) - Image Codec Comparison
 
 ***
 
