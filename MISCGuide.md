@@ -449,7 +449,6 @@
 * [Coping Skills Masterlist](https://docs.google.com/document/d/1KI1kzj6Bjx_O3ggYXfgEuTtOsLiCW0V-JeWpTyX5OOU/) - Mental Health Coping Skills
 * [Zen Habits](https://zenhabits.net/) - Develop Zen Habits
 * [Medito](https://github.com/meditohq/medito-app) or [Heartfulness](https://www.heartfulnessapp.org/) - Meditation App
-* [7 Cups](https://www.7cups.com/) - Free Counseling & Therapy
 * [Balance](https://balance.dvy.io/) - Challenge Anxious Thoughts w/ AI
 * [Plees Tracker](https://github.com/vmiklos/plees-tracker) - Sleep Tracker
 
@@ -950,6 +949,7 @@
 * [ManicTime](https://www.manictime.com/) - Device / App Time Tracker
 * [Bytetrack](https://bytetrack-app.bytebeacon.com/) - Online Activity Tracker
 * [Furtherance](https://github.com/lakoliu/Furtherance) - Time Tracker
+* [VisualizeHabit](https://visualizehabit.com/) - Habit Tracking
 * [Pro Modoro](https://pro-modoro.xyz/) / [2](https://pomofocus.io/) - Time Tracker / Break Reminders
 * [wnr](https://getwnr.com/) - Time Tracker / Break Reminders
 * [BreakTimer](https://breaktimer.app/) - Break Reminders
