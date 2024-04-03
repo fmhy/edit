@@ -181,7 +181,6 @@
 * [MovieNight](https://github.com/zorchenhimer/MovieNight) / [Discord](https://discord.gg/F2VSgjJ)
 * [WatchParty](https://www.watchparty.me/)
 * [Kast](https://kast.gg/)
-* [Surge](https://surge.live/)
 * [Screen Share Party](https://ba.net/screen/)
 * [TurtleTV](https://turtletv.app/)
 * [OpenTogetherTube](https://opentogethertube.com/)
@@ -249,7 +248,7 @@
 
 ## ▷ Plex Tools
 
-* [Plxplainers](https://www.plxplainers.xyz/), [Hoarding.me](https://hoarding.me/) or [Reddit Guide](https://redd.it/ma1hlm) - Plex Setup Guides
+* [Plxplainers](https://www.plxplainers.xyz/) or [Reddit Guide](https://redd.it/ma1hlm) - Plex Setup Guides
 * [Tautulli](https://tautulli.com/) - Server Monitor
 * [Free Plex Server](https://discord.gg/8Jv792Rs7m)
 * [SuperPlex](https://normantheidiot.neocities.org/superplex/) - Plex Plugins
