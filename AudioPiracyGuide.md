@@ -69,9 +69,9 @@
 * [Spotify-DL](https://github.com/SathyaBhat/spotify-dl) - YT Downloader
 * [spotDL](https://github.com/spotDL/spotify-downloader) - YT Downloader
 * [FreyrJS](https://github.com/miraclx/freyr-js) - YT Downloader
+* [spotify-dl](https://github.com/SwapnilSoni1999/spotify-dl) - Terminal YT Downloader
 * [Spotdlrobot](https://t.me/Spotdlrobot) - Telegram Bot
 * [Spotify Music Downloader](https://t.me/joinchat/DdR2SUvJPBouSW4QlbJU4g) - Telegram Bot
-* [spotify-dl](https://github.com/SwapnilSoni1999/spotify-dl) - Telegram Bot
 * [Spotify_downloa_bot](https://t.me/Spotify_downloa_bot) - Telegram Bot
 * [Music_Downloader_Bot_Spotify](https://t.me/Music_Downloader_Bot_Spotify) - Telegram Bot
 * [Motreeb](https://t.me/motreb_downloader_bot) - Telegram Bot
@@ -659,11 +659,16 @@
 
 ## ▷ Song Identification
 
+* ⭐ **[Shazam](https://www.shazam.com/)** - Android
+* ⭐ **[WatZatSong](https://www.watzatsong.com/en)** - Song Identification Forum
 * [/r/NameThatSong](https://reddit.com/r/NameThatSong) - Song Identification Subreddit
 * [Midomi](https://www.midomi.com/)
 * [Aha Music](https://www.aha-music.com/identify-songs-music-recognition-online)
 * [AudioTag](https://audiotag.info/)
-* [WatZatSong](https://www.watzatsong.com/en)
+* [SoundHound](https://www.soundhound.com/soundhound) - Android
+* [MusicRecognizer](https://github.com/aleksey-saenko/MusicRecognizer) - Android
+* [Audire](https://github.com/alexmercerind/audire) - Android
+* [AmbientMusicMod](https://github.com/KieronQuinn/AmbientMusicMod) - Android
 * [Dejavu](https://github.com/worldveil/dejavu) - Python
 * [Audd](https://audd.io/) - API
 
@@ -703,15 +708,14 @@
 * [Adobe Enhance](https://podcast.adobe.com/enhance) - Speech Enhancer
 * [Chowdhury DSP](https://chowdsp.com/products.html) - Audio Signal Processing
 * [Oscilloscope](https://bummsn.de/osc_txt/) - Audio Oscillation Test (turn volume down)
-* [AudioAlter](https://audioalter.com/preset/8d-audio) - Create '8D' Audio
 * [MoFi](https://mofi.loud.red/) - Create Audio Loops
 
 ***
 
 ## ▷ Audio Editors
 
-* ⭐ **[G-MEH](https://g-meh.com/)** - Audio Editors
-* ⭐ **[Tenacity](https://tenacityaudio.org/)**, [2](https://www.audacityteam.org/) - Audio Editor
+* ⭐ **[G-MEH](https://g-meh.com/)** - Audio Editors / [Discord](https://discord.com/invite/xqPBaXUg7p)
+* ⭐ **[Tenacity](https://tenacityaudio.org/)** or [Audacity](https://www.audacityteam.org/) - Audio Editor
 * ⭐ **[Audioalter](https://audioalter.com/)** - Online Editor
 * ⭐ **[WavaCity](https://wavacity.com/)** - Online Editor
 * ⭐ **[Team V.R releases](https://codec.kiev.ua/releases.html)** - Audio Editors, Adobe Software, Plugins etc.
