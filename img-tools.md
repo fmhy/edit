@@ -490,9 +490,9 @@
 * ⭐ **[same.energy](https://same.energy/)** - Visual Search Engine
 * ⭐ **[SmartImage](https://github.com/Decimation/SmartImage)** - Multi Search App
 * ⭐ **[Yandex Images](https://yandex.com/images/)** - Image Search
+* ⭐ **[TinEye](https://tineye.com/)** - Image Search / [Extension](https://tineye.com/extensions)
 * [Google Images](https://images.google.com/) - Image Search
 * [CopySeeker](https://copyseeker.net/) - Image Search
-* [TinEye](https://tineye.com/) - Image Search / [Extension](https://tineye.com/extensions)
 * [VISE](https://www.robots.ox.ac.uk/~vgg/software/vise/) - Image Search with Search Queries
 * [Have I Been Trained?](https://haveibeentrained.com/) - AI Image Search
 * [RootAbout](https://rootabout.com/) - Archive / OpenLibrary Reverse Image Search
