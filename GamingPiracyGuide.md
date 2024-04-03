@@ -18,6 +18,7 @@
 * ⭐ **[CS.RIN.RU](https://cs.rin.ru/forum)** - Download / Forum / [Status](https://csrinstaff.writeas.com/) / [Enhancement Mod](https://github.com/SubZeroPL/cs-rin-ru-enhanced-mod) / [Steam Buttons](https://github.com/Altansar69/CS.RIN.RU-Enhanced-external) / [Onion](http://csrinrutkb3tshptdctl5lyei4et35itl22qvk5ktdcat6aeavy6nhid.onion/forum)
 * ⭐ **[SteamRIP](https://steamrip.com/)** - Download / Torrent / Pre-Installs / [Discord](https://discord.gg/hj8dU5BFHE) / pw: 1234
 * ⭐ **[Torrminatorr](https://forum.torrminatorr.com/)** - Download
+* ⭐ **[GOG Games](https://gog-games.to/)** - Download / [.onion](http://goggamespyi7b6ybpnpnlwhb4md6owgbijfsuj6z5hesqt3yfyz42rad.onion/)
 * ⭐ **[Online Fix](https://online-fix.me/)** - Download / Torrent / Multiplayer / [Discord](https://discord.gg/yExgFYncMD)
 * ⭐ **[GameBounty](https://gamebounty.world/)** - Download / [Discord](https://dsc.gg/gamebounty)
 * ⭐ **[Ova Games](https://www.ovagames.com/)** - Download / Use Adblocker
@@ -844,6 +845,8 @@
 * [NYCPokeMap](https://nycpokemap.com/) - Real-time Pokémon Go Map for NYC
 * [PkmnCards](https://pkmncards.com/) - Pokémon Card Database
 * [unite-db](https://unite-db.com/) - Pokémon Unite Database
+* [HelixChamber](https://helixchamber.com/) - Unused Pokémon Material
+* [Pokémon Fossil Museum](https://my.matterport.com/show/?m=P9WCbyCBGBM) - Explore Pokémon Fossil Museum
 
 ***
 
@@ -1279,6 +1282,7 @@
 * [BitBurner](https://danielyxie.github.io/bitburner/) - Incremental RPG
 * [Particle Clicker](https://particle-clicker.web.cern.ch/) - Incremental Particle Physics Games
 * [KittensGame](https://kittensgame.com/web/) - Incremental Kitten Maker
+* [The Fed](https://thefed.app/) - Incremental Banking Game
 * [WarClicks](https://warclicks.com/) - Incremental War Game
 * [Goblin Bet](https://goblin.bet/) - Bet on 1v1 Monster Fights
 * [The First Alkahistorian](https://nagshell.github.io/elemental-inception-incremental/) - Incremental Elemental Game
@@ -1312,6 +1316,7 @@
 * [Wordless](https://lessgames.com/wordless) 
 * [Factle](https://factle.app/) - Fact Style Wordle
 * [Countle](https://www.countle.org/) - Math Style Wordle
+* [Ridella](https://ridella.xyz/) - Riddle Style Wordle
 * [ChessGuessr](https://www.chessguessr.com/) - Chess Style Wordle
 * [LoLdle](https://loldle.net/) - League of Legends Wordle
 * [Minecraftle](https://minecraftle.zachmanson.com/) - Minecraft Crafting Style Wordle
