@@ -247,6 +247,7 @@
 * [Wad Archive](https://archive.org/details/wadarchive) - 83k WAD Files
 * [Cah4e3](https://cah4e3.shedevr.org.ru/) - Unlicensed ROMs / Bootlegs
 * [Muds](https://muds.fandom.com/wiki/) - Text Adventure ROM Wiki
+* [softcobra](https://softcobra.com/ntdo/ntdo/) - ROMs / Switch / 3DS / WiiU / [Decoder](https://nin10news.com/decode/) / [Discord](https://discord.com/invite/gweeJNzQ)
 * [MarioCube](https://mariocube.com/) - ROMs / Wii / Gamecube
 * [64DD.org](https://64dd.org/) - ROMs / 64DD
 * [3DS ROMS](https://3dsroms.org), [taodung](https://taodung.com/) or [hShop](https://hshop.erista.me/) - ROMs / 3DS
