@@ -297,6 +297,7 @@
 * [fshare](https://www.fshare.vn/) - 10GB / 5 days
 * [megaup](https://megaup.net/) - 5GB / 60 days
 * [ufile](https://ufile.io/) - 5GB / 30 days
+* [Lufi](https://upload.disroot.org/) - 5GB / 30 Days
 * [sendbig](https://www.sendbig.com/) - 5GB / 7 days
 * [Smash](https://fromsmash.com/) - 2GB / 7Days
 * [alfafile](https://www.alfafile.net/) - 5GB / 30 days / Signup Required
