@@ -1110,7 +1110,7 @@
 * [Decompiler](https://www.decompiler.com/) - Online Decompiler
 * [core-plot](https://github.com/core-plot/core-plot) - Core Plot Source Code / Apps
 * [tuc](https://github.com/riquito/tuc) - Improved Code Cut
-* [Lepton](https://hackjutsu.com/Lepton/) or [Pieces](https://pieces.app/) - Code Snippet Managers
+* [Lepton](https://hackjutsu.com/Lepton/) - Code Snippet Managers
 * [0xacab](https://about.0xacab.org/) - Code Host
 * [Mockaroo](https://mockaroo.com/) - Generate Mock Data
 * [Mockium](https://softwium.com/mockium/) - Generate Test Data
@@ -1242,8 +1242,8 @@
 
 ## ▷ Coding AIs
 
-* ⭐ **[Pieces](https://pieces.app) / [Docs](https://docs.pieces.app)** - Multi-LLM Coding AI / GPT4 for Free
 * 🌐 **[EvalPlus Leaderboard](https://evalplus.github.io/leaderboard.html)** or [BigCode](https://huggingface.co/spaces/bigcode/bigcode-models-leaderboard) - Coding AI Leaderboards
+* ⭐ **[Pieces](https://pieces.app/) / [Docs](https://docs.pieces.app)** - Multi-LLM Coding AI / GPT4 for Free
 * [Cursor](https://cursor.sh/) - Coding AI
 * [Codeium](https://codeium.com/) - Coding AI
 * [Copilot](https://github.com/features/copilot) - Coding AI / Free Student Plan
