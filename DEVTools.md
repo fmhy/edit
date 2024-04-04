@@ -1242,6 +1242,7 @@
 
 ## ▷ Coding AIs
 
+* ⭐ **[Pieces](https://pieces.app) / [Docs](https://docs.pieces.app)** - Multi-LLM Coding AI / GPT4 for Free
 * 🌐 **[EvalPlus Leaderboard](https://evalplus.github.io/leaderboard.html)** or [BigCode](https://huggingface.co/spaces/bigcode/bigcode-models-leaderboard) - Coding AI Leaderboards
 * [Cursor](https://cursor.sh/) - Coding AI
 * [Codeium](https://codeium.com/) - Coding AI
