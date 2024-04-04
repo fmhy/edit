@@ -73,7 +73,6 @@
 * ⭐ **[Mull](http://gitlab.com/divested-mobile/mull-fenix)**
 * ⭐ **[Tor](https://tb-manual.torproject.org/mobile-tor/)** - Onion-Routed Browser
 * [DuckDuckGo Privacy Browser](https://duckduckgo.com/app)
-* [SmartCookieWeb](https://smartcookieweb.com/)
 * [Privacy Browser](https://www.stoutner.com/privacy-browser-android/)
 * [Thor](https://gitlab.com/lp2p/thor)
 
