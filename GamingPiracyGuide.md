@@ -32,6 +32,7 @@
 * [GLoad](https://gload.to/) - Download
 * [Leeching Hell](http://www.leechinghell.pw/) - Download
 * [GamePCFull](https://gamepcfull.com/) - Download
+* [Gamedrive](https://gamedrive.org) - Download / [Warning](https://pastebin.com/29dMMfnR)
 * [Xatab Repacks](https://byxatab.com/), [2](https://byxatab.org/) - Torrent
 * [IRC Games](https://redd.it/x804wg) - Download Games via IRC
 * [itch.io](https://itch.io/games/new-and-popular/featured/free), [Gamdie](https://gamdie.com/), [DigiPen](https://games.digipen.edu/) or [Game Jolt](https://gamejolt.com/games?price=free) - Indie Games
@@ -56,6 +57,7 @@
 
 * ⭐ **[KaOsKrew](https://www.kaoskrew.org/)** - Download / Torrent
 * ⭐ **[FitGirl Repacks](https://fitgirl-repacks.site/)** - Download / Torrent / [Discord](https://discord.gg/Up3YARe4RW)
+* ⭐ **[Game Repack](https://game-repack.site)** - Download / Torrent
 * ⭐ **[Gnarly Repacks](https://rentry.co/FMHYBase64#gnarly_repacks)** - Download
 * ⭐ **[M4CKD0GE Repacks](https://m4ckd0ge-repacks.site/)** - Download / [Discord](https://discord.gg/693hNBdymb)
 * [DODI Repacks](https://dodi-repacks.site/) - Torrent / [Discord](https://discord.gg/uE273qJ) / [Forum](https://dodi-forums.win/) / [Opera Bypass](https://rentry.co/lootlink)
