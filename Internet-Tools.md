@@ -408,7 +408,7 @@
 
 # ► Browser Tools
 
-* 🌐 **[Browser Comparisons](https://avoidthehack.com/util/browser-comparison)**
+* 🌐 **[Browser Comparisons](https://privacytests.org/)**
 * ↪️ **[Browser Privacy Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25BA_web_privacy)**
 * ⭐ **[BrowserBench](https://browserbench.org/)** or [WPT](https://wpt.fyi) - Browser Benchmark Tests
 * ⭐ **[Firefox Keyboard Shortcuts](https://support.mozilla.org/en-US/kb/keyboard-shortcuts-perform-firefox-tasks-quickly)** 
