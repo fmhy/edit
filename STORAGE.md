@@ -423,7 +423,7 @@
 
 ## Geometry Dash Demon Lists
 
-* ⭐ **[Official Demon List](https://pointercrate.com/demonlist/)**
+* ⭐ **[Original Demon List](https://pointercrate.com/demonlist/)**
 * [Challenge List](https://challengelist.gd/challenges/)
 * [Unrated Demons List](https://udl.pages.dev/#/)
 * [Rated Extremes List](https://aredl.pages.dev/)
