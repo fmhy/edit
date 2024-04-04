@@ -373,10 +373,10 @@
 * ↪️ **[IPTV Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_iptv_tools)** or [Awesome IPTV](https://github.com/iptv-org/awesome-iptv) - IPTV Resources / [Players](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_m3u_players) / [Playlists](https://rentry.co/FMHYBase64#iptv-playlists) / [Search](https://www.foodieguide.com/iptvsearch/)
 * ⭐ **[EasyWebTV](https://zhangboheng.github.io/Easy-Web-TV-M3u8/routes/countries.html)** - TV / Sports / 1080p
 * ⭐ **[IPTV Web](https://iptv-web.app/)** - TV / Sports
+* ⭐ **[TNSLIVE](https://tnslive.net/)** - TV / Sports / [Discord](https://discord.com/invite/mJyWFkGwQw)
 * ⭐ **[watch.lonelil](https://watch.lonelil.ru/tv)** - TV / Sports / [Schedule](https://watch.lonelil.ru/schedule)
 * [Braflix](https://www.braflix.app/) - TV / Sports / [Discord](https://discord.gg/wWKmxARaWH)
 * [SusFlix](https://susflix.tv/) - TV / Sports / [Discord](https://discord.gg/BE7kTVezBN)
-* [TNS-LIVE](https://live.tnsicn.com/) - TV / Sports / [Discord](https://discord.com/invite/mJyWFkGwQw)
 * [FlowStreams](https://flowstreams.cx/) -  TV / Sports / [Discord](https://discord.gg/thugstreams)
 * [TheTVApp](https://thetvapp.to/) - TV / Sports
 * [DaddyLive](https://daddylive.watch/), [2](https://dlhd.sx/) - TV / Sport
