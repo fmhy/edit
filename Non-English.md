@@ -334,8 +334,6 @@
 * [Ciné-Bis-Art](https://humungus-cinebisart.blogspot.com/) - Movies
 * [Warning Zone](https://stalkerjany.blogspot.com/) - Movies  
 * [mega-p2p](https://www.mega-p2p.net/) - Warez Lists
-* [FilesSeekr](https://w7w.files-seekr.com/) - Search Warez Sites
-* [WawaCity](https://www.wawacity.nl/) - Video / Audio / Books / Games / Use Adblocker
 * [FRDownMags](https://fr.downmagaz.net/) - Magazines
 * [French EPs](https://patsouloldies.blogspot.com/) - Classic French Music MP3 (192)
 * [Abandonware France](https://www.abandonware-france.org/index.php) - Abandonware
@@ -375,7 +373,6 @@
 * [animeko](https://animeko.co/) - Anime / Sub / 1080p
 * [anime-sama](https://anime-sama.fr/) - Anime / Sub / 1080p
 * [VoirCartoon](https://voircartoon.com/) - Cartoons / Dub / 720p
-* [33rapmp3](https://www.33rapmp3.cc/) - Rap
 * [Lesics](https://youtube.com/@LesicsFR) - Engineering Courses
 
 ## ▷ Reading
@@ -1557,7 +1554,6 @@
 * [Manuales de instrucciones](https://www.manualpdf.es/) - Manuals
 * [SciELO Chile](https://scielo.conicyt.cl/) - Scientific Journals
 * [albalearning](https://albalearning.com/) - Audiobooks
-* [mangadoor](https://mangadoor.com/) - Manga
 * [TuMangaOnline](https://visortmo.com/) - Manga
 * [Lector TMO](https://lectortmo.org/) - Manga
 * [Manga en Español](https://t.me/manga_es) - Manga
