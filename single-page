@@ -1684,9 +1684,12 @@
 
 ## ▷ Telegram Clients
 
-* ⭐ **[web.telegram](https://web.telegram.org/)** / [2](https://webk.telegram.org/) / [3](https://weba.telegram.org/)
-* ⭐ **[Unigram](https://github.com/UnigramDev/Unigram)**, [VideoGram](https://vidogram.org/), [AyuGram](https://github.com/AyuGram/AyuGramDesktop) or [TDesktop](https://github.com/Forkgram/tdesktop) / [x64](https://github.com/TDesktop-x64/tdesktop) / [Telegram](https://t.me/tg_x64) - Desktop Clients
+* ⭐ **[web.telegram](https://web.telegram.org/)** / [2](https://webk.telegram.org/) / [3](https://weba.telegram.org/) - Web Client
+* ⭐ **[Unigram](https://github.com/UnigramDev/Unigram)** - Desktop Client
 * ⭐ **[tg](https://github.com/paul-nameless/tg)** - Terminal Client
+[TDesktop](https://github.com/Forkgram/tdesktop) - Desktop Client / [x64](https://github.com/TDesktop-x64/tdesktop) / [Telegram](https://t.me/tg_x64)
+[VideoGram](https://vidogram.org/) - Desktop Client
+[AyuGram](https://github.com/AyuGram/AyuGramDesktop) - Desktop Client
 * [Pyrogram](https://docs.pyrogram.org/) / [Session Strings](https://t.me/SessionStringGeneratorZBot) - Telegram API Client
 * [Telega.el](https://github.com/zevlg/telega.el) - Telegram Emacs Client
 
@@ -1970,6 +1973,7 @@
 * [memory.lol](https://github.com/travisbrown/memory.lol/) - Twitter Account Archive
 * [Twitter Archive Parser](https://github.com/timhutton/twitter-archive-parser) - Tweet Archiving
 * [Twayback Machine](https://staringispolite.github.io/twayback-machine/) - View Users' Old Tweets
+* [Scoutzen](https://www.scoutzen.com/twitter-lists/search) - Search Twitter Use Lists
 * [Hoaxy](https://hoaxy.osome.iu.edu/) - Twitter Info Spread Data
 * [tinfoleak](https://tinfoleak.com/) - View Your Geosocial Footprint 
 * [Unfollow All](https://chromewebstore.google.com/detail/twitter-unfollow-all/mgehkbclkipppdjiemnhmnledicalkld) - Twitter Unfollower
