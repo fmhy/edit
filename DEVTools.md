@@ -1240,35 +1240,6 @@
 
 ***
 
-## ▷ Coding AIs
-
-* 🌐 **[EvalPlus Leaderboard](https://evalplus.github.io/leaderboard.html)** or [BigCode](https://huggingface.co/spaces/bigcode/bigcode-models-leaderboard) - Coding AI Leaderboards
-* ⭐ **[Pieces](https://pieces.app/) / [Docs](https://docs.pieces.app)** - Multi-LLM Coding AI / GPT4 for Free
-* [Cursor](https://cursor.sh/) - Coding AI
-* [Codeium](https://codeium.com/) - Coding AI
-* [Copilot](https://github.com/features/copilot) - Coding AI / Free Student Plan
-* [tabnine](https://www.tabnine.com/) - Coding AI
-* [ImageCook](https://imgcook.com) / [GitHub](https://github.com/imgcook/imgcook) - Coding AI
-* [CodeWhisperer](https://aws.amazon.com/codewhisperer/) - Coding AI
-* [Telosys](https://www.telosys.org/) - Coding AI
-* [WDTCD?](https://whatdoesthiscodedo.com/) - Coding AI
-* [Sourcery](https://sourcery.ai/) - Coding AI
-* [Devv](https://devv.ai/) - Coding AI
-* [Cody](https://about.sourcegraph.com/cody) - Coding AI
-* [CodiumAI](https://www.codium.ai/) - Coding AI
-* [continue](https://continue.dev/) - Coding AI
-* [Bito AI](https://bito.ai/) - Coding AI
-* [Blackbox](https://www.blackbox.ai/) - Coding AI
-* [CollectivAI](https://chat.collectivai.com/) - Coding AI
-* [Denigma](https://denigma.app/#demo) - Coding AI
-* [Codacy](https://www.codacy.com/) or [AI Code Review](https://ai-code-reviewer.com/) - Code Fixing AIs
-* [v0](https://v0.dev/) - Text to Site Code
-* [AI Code Translator](https://ai-code-translator.vercel.app/), [AI Code Convert](https://aicodeconvert.com/) or [Source Code Converters](https://www.tangiblesoftwaresolutions.com/) - AI Code Converters
-* [GPT Engineer](https://github.com/AntonOsika/gpt-engineer) - AI Code Generator
-* [Gorilla](https://gorilla.cs.berkeley.edu/) - API to Code LLM
-
-***
-
 ## ▷ IDEs / Code Editors
 
 * 🌐 **[Awesome-Livecoding](https://github.com/toplap/awesome-livecoding)** - Livecoding Resources
@@ -1356,6 +1327,10 @@
 * [Platform.uno](https://platform.uno/) or [Enact](https://enactjs.com/) - App Frameworks
 * [tio.run](https://tio.run/) - Programming Language Interpreters
 * [Online Python Compiler](https://www.onlinegdb.com/online_python_compiler) - Online Python Editor & Tester
+
+***
+
+## ▷ **[Coding AIs](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/ai#wiki_.25B7_coding_ais)**
 
 ***
 
