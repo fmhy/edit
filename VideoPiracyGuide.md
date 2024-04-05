@@ -317,6 +317,17 @@
 
 ***
 
+## ▷ Terminal Tools / CLIs
+* ⭐ **[mov-cli](https://mov-cli.github.io/)** - Extensible CLI based on [plugins](https://github.com/topics/mov-cli-plugin)
+* ⭐ **[ani-cli](https://github.com/pystardust/ani-cli)** - Anime
+* ⭐ **[lobster](https://github.com/justchokingaround/lobster)** - Movies / TV
+* [anime-dl](https://github.com/gabelluardo/anime-dl) / [Frontend](https://github.com/vrienstudios/anime-dl) or [anigrab](https://github.com/ngomile/anigrab) - Anime CLI Downloaders
+* [animdl](https://github.com/justfoolingaround/animdl) / [Wrapper](https://github.com/RaitaroH/adl) - Anime Scraper
+* [Crunchyroll Downloader](https://github.com/hama3254/Crunchyroll-Downloader-v3.0) - Non-Prem Crunchyroll Downloaders
+
+
+***
+
 ## ▷ [Educational Streaming](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu#wiki_.25B7_streaming)
 
 ***
@@ -593,8 +604,8 @@
 * [Toku.fun](https://toku.fun/) - Japanese Superhero Movies / 360p
 * [Jackass Vault](https://discord.gg/ZH5MjcKmJJ) - Jackass Media
 * [IRC Movie Channels](https://pastebin.com/2AeYizZK)
-* [mov-cli](https://mov-cli.github.io/) - Streaming / Downloading CLI
 * [IMDb-Scout-Mod](https://github.com/Purfview/IMDb-Scout-Mod) - Add Download Site Results to IMDb
+
 
 ***
 
@@ -640,10 +651,6 @@
 * [belia](https://rentry.co/FMHYBase64#belia) - Sub / Dub
 * [CartoonsArea](https://www.cartoonsarea.xyz/) - Sub / Dub
 * [nibl](https://nibl.co.uk/) - Sub / Dub / XDCC / [Discord](https://discord.com/invite/bUESsAg)
-* [Crunchyroll Downloader](https://github.com/hama3254/Crunchyroll-Downloader-v3.0) - Non-Prem Crunchyroll Downloaders
-* [anime-dl](https://github.com/gabelluardo/anime-dl) / [Frontend](https://github.com/vrienstudios/anime-dl) or [anigrab](https://github.com/ngomile/anigrab) - Anime CLI Downloaders
-* [animdl](https://github.com/justfoolingaround/animdl) / [Wrapper](https://github.com/RaitaroH/adl) - Anime Scraper
-
 
 ***
 
