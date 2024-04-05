@@ -456,6 +456,7 @@ Linux Gaming Guide
 * ↪️ **[Linux Themes](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_linux_themes)** - Themes for Linux
 * ⭐ **[Elkowar's Wacky Widgets](https://github.com/elkowar/eww)** - Widgeting system. Use on X11 WMs
 * ⭐ **[Aylur's GTK Shell](https://github.com/Aylur/ags)** - Powerful widgeting system for Wayland. Uses TypeScript for configuration/customization
+* [end-4's Hyprland Dots](https://end-4.github.io/dots-hyprland-wiki/en/) - Fantastic Hyprland configuration. Simple and good looking. Meant to help people get into Hyprland
 * [Nam's Ricing Guide](https://nam.is-a.dev/blog/ricing/) - Guide to ricing Linux from a well-known ricer
 * [Gradience](https://github.com/GradienceTeam/Gradience) - Customize GNOME's Adwaita theme and shell to your liking. / Use development (git) version
 * [wpgtk](https://deviantfero.github.io/wpgtk) - Fully Customizable Unix Color Schemer
