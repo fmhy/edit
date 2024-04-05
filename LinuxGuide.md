@@ -101,27 +101,19 @@
 
 ## ► Linux Window Managers
 
-**Note** - Most Window Managers have a rather steep learning curve (especially for users accustomed to Windows and Mac). Customization (or "ricing") is a requirement. [See below](https://old.reddit.com/r/FREEMEDIAHECKYEAH/wiki/linux#wiki_.25B7_customization) for some resources.
-
-## ▷ X11 Window Managers
-
-* ⭐ **[awesomewm](https://github.com/awesomeWM/awesome)** - Highly customizable dynamic window manager. Configured via Lua. / Use development (git) version / [Arch Wiki](https://wiki.archlinux.org/title/Awesome)
-* [dwm](https://dwm.suckless.org) - Lightweight dynamic window manager that follows the controversial [suckless](https://suckless.org) philosophy. Not recconmended for beginners. / [Arch Wiki](https://wiki.archlinux.org/title/Dwm)
-* [qtile](https://qtile.org/) - Simple and user-friendly dynamic window manager written and configured in Python. **Actually supports Wayland and X11 which is pretty rare.** / [Arch Wiki](https://wiki.archlinux.org/title/Qtile)
-* [xmonad](https://xmonad.org/) - Dynamic and tiling window manager written and configured in Haskell. / [Arch Wiki](https://wiki.archlinux.org/title/Xmonad)
-* [bspwm](https://github.com/baskerville/bspwm) - Tiling window manager with an impossible to say and remember name. / [Binds](https://github.com/baskerville/sxhkd) / [Arch Wiki](https://wiki.archlinux.org/title/Bspwm)
-
-**Note** - A full list of X11 window managers can be found [here.](https://wiki.archlinux.org/title/Window_manager) The ones listed above are the most commonly used.
+**Note** - Most Window Managers have a steep learning curve. Customization (or "ricing") is a requirement. [See below](https://old.reddit.com/r/FREEMEDIAHECKYEAH/wiki/linux#wiki_.25B7_customization) for some resources.
 
 ***
 
-## ▷ Wayland Compositors
-
-* ⭐ **[Hyprland](https://hyprland.org/)** -  A dynamic tiling Wayland compositor that does not sacrifice on its looks. / [Arch Wiki](https://wiki.archlinux.org/title/Hyprland)
-* [Sway](https://github.com/swaywm/sway) -  i3-compatible Wayland compositor based on wlroots or [SwayFx](https://github.com/WillPower3309/swayfx) - Sway, but with eye candy! / [Arch Wiki](https://wiki.archlinux.org/title/Sway)
-
-
-**Note** - A full list of Wayland Compositors can be found [here.](https://wiki.archlinux.org/title/Wayland#Compositors) The ones listed above are the most commonly used.
+* 🌐 **[Window Manager Index](https://wiki.archlinux.org/title/Window_manager)** - List of Window Managers
+* 🌐 **[Wayland Compositor Index](https://wiki.archlinux.org/title/Wayland#Compositors)** - List of Wayland Compositors
+* ⭐ **[awesomewm](https://github.com/awesomeWM/awesome)** - Window Manager / [Arch Wiki](https://wiki.archlinux.org/title/Awesome)
+* ⭐ **[Hyprland](https://hyprland.org/)** -  Wayland Compositor / [Arch Wiki](https://wiki.archlinux.org/title/Hyprland)
+* [dwm](https://dwm.suckless.org) - Window Manager / [Arch Wiki](https://wiki.archlinux.org/title/Dwm)
+* [qtile](https://qtile.org/) - Window Manager / [Arch Wiki](https://wiki.archlinux.org/title/Qtile)
+* [xmonad](https://xmonad.org/) - Window Manager / [Arch Wiki](https://wiki.archlinux.org/title/Xmonad)
+* [bspwm](https://github.com/baskerville/bspwm) - Tiling Window Manager / [Binds](https://github.com/baskerville/sxhkd) / [Arch Wiki](https://wiki.archlinux.org/title/Bspwm)
+* [Sway](https://github.com/swaywm/sway) or [SwayFx](https://github.com/WillPower3309/swayfx)-  i3-compatible Wayland Compositor  / [Arch Wiki](https://wiki.archlinux.org/title/Sway)
 
 ***
 
@@ -292,7 +284,7 @@ Linux Gaming Guide
 * [Gamemode](https://github.com/FeralInteractive/gamemode) - Linux System Optimizer
 * [LibreGaming](https://github.com/Ahmed-Al-Balochi/LibreGaming) - Linux Game Package Downloader
 * [mcpelauncher](https://github.com/minecraft-linux/mcpelauncher-manifest) - Minecraft Android Bedrock Edition Launcher for Linux
-* [VinegarHQ](https://vinegarhq.org/) - Bootstrapper for Roblox / [No longer works except for Studio](https://vinegarhq.org/Home/rol_faq.html) 
+* [VinegarHQ](https://vinegarhq.org/) - Bootstrapper for Roblox / [Studio Only](https://vinegarhq.org/Home/rol_faq.html) 
 * [Anime Game Launcher](https://github.com/an-anime-team/an-anime-game-launcher) / [Discord](https://discord.gg/ck37X6UWBp) - Genshin Impact Launcher
 * [among-sus](https://git.sr.ht/~martijnbraam/among-sus) - Play Among Us in your Terminal (Recreation)
 * [Gameboy.live](https://github.com/HFO4/gameboy.live) - Terminal Game Boy Emulator
@@ -450,19 +442,18 @@ Linux Gaming Guide
 
 ***
 
-## ▷ Customization (Ricing)
+## ▷ Ricing / Customization
 
 * 🌐 **[Ricepedia](https://rizonrice.club/Main_Page)** - Linux Ricing Tools
 * ↪️ **[Linux Themes](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_linux_themes)** - Themes for Linux
-* ⭐ **[Elkowar's Wacky Widgets](https://github.com/elkowar/eww)** - Widgeting system. Use on X11 WMs
-* ⭐ **[Aylur's GTK Shell](https://github.com/Aylur/ags)** - Powerful widgeting system for Wayland. Uses TypeScript for configuration/customization
-* [end-4's Hyprland Dots](https://end-4.github.io/dots-hyprland-wiki/en/) - Fantastic Hyprland configuration. Simple and good looking. Meant to help people get into Hyprland
-* [Nam's Ricing Guide](https://nam.is-a.dev/blog/ricing/) - Guide to ricing Linux from a well-known ricer
-* [Gradience](https://github.com/GradienceTeam/Gradience) - Customize GNOME's Adwaita theme and shell to your liking. / Use development (git) version
+* ⭐ **[Elkowar's Wacky Widgets](https://github.com/elkowar/eww)** or **[Aylur's GTK Shell](https://github.com/Aylur/ags)** - Widgeting Systems
+* [end-4's Hyprland Dots](https://end-4.github.io/dots-hyprland-wiki/en/) - Simple Hyprland Config
+* [Nam's Ricing Guide](https://nam.is-a.dev/blog/ricing/) - Ricing Guide
+* [Gradience](https://github.com/GradienceTeam/Gradience) - Customize GNOME's Adwaita
 * [wpgtk](https://deviantfero.github.io/wpgtk) - Fully Customizable Unix Color Schemer
 * [Akira](https://github.com/akiraux/Akira) - UI/UX Customization
 * [Kvantum](https://github.com/tsujan/Kvantum) - Linux QT / KDE Theme Engine
-* [Polybar (X11)](https://github.com/polybar/polybar) / [Waybar (Wayland)](https://github.com/Alexays/Waybar) Customizable Status Bar
+* [Polybar (X11)](https://github.com/polybar/polybar) or [Waybar (Wayland)](https://github.com/Alexays/Waybar) - Customizable Status Bars
 * [MacBuntu Transformation Pack](https://www.noobslab.com/2018/08/macbuntu-1804-transformation-pack-ready.html), [2](https://www.noobslab.com/2017/06/macbuntu-transformation-pack-ready-for.html) - Mac Theme
 * [Windows-10](https://b00merang.weebly.com/windows-10.html) - Windows 10 Theme
 * [La Capitaine](https://github.com/keeferrourke/la-capitaine-icon-theme), [Moka](https://snwh.org/moka), [Numix](https://github.com/numixproject/numix-icon-theme) or [Papirus](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) - Linux Icon Themes
