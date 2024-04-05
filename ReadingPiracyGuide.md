@@ -665,7 +665,6 @@ Note - Keep in mind that sites in the manga section above also have manhua/manhw
 
 ## ▷ History Books
 
-* ↪️ **[Historical Audiobooks Collection](https://rentry.co/FMHYBase64#historical-audiobooks-collection)**
 * ⭐ **[Project Gutenberg](https://www.gutenberg.org/)** - Historical Fiction / Nonfiction / [Australia](https://gutenberg.net.au/) / [Canada](https://gutenberg.ca/index.html) / [Nordic](http://runeberg.org/)
 * ⭐ **[Media History](https://mediahistoryproject.org/)** - Books / Magazines
 * ⭐ **[EarlyModernTexts](https://www.earlymoderntexts.com)** - Historical Texts
@@ -819,6 +818,7 @@ Note - Keep in mind that sites in the manga section above also have manhua/manhw
 * [GBIF](https://www.gbif.org/) - Biodiversity Datasets
 * [RPubs](https://rpubs.com/) - R Markdown Data Publishing
 * [DOAJ](https://doaj.org/) - Journals / Articles
+* [Proquest](https://www.proquest.com/) - Journals / Articles
 * [mdpi](https://www.mdpi.com/) - Articles
 * [longdom](https://www.longdom.org/) - Articles
 * [Typewriter](https://tetw.org/) - Educational Articles & Essays The Electric
