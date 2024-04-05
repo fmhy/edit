@@ -55,7 +55,8 @@
 * ⭐ **[Oobabooga Text Generation WebUI](https://github.com/oobabooga/text-generation-webui)** - Self-Host Models / [Colab](https://colab.research.google.com/github/pcrii/Philo-Colab-Collection/blob/main/4bit_TextGen_Gdrive.ipynb)
 * ⭐ **[Aphrodite Engine](https://github.com/PygmalionAI/aphrodite-engine)** - Serve LLMs at Scale with Kobold & OpenAI APIs / [Colab](https://colab.research.google.com/github/AlpinDale/misc-scripts/blob/main/Aphrodite.ipynb)
 * [LLaVA](https://llava.hliu.cc/) - Chatbot with Image Support
-* [Petals](https://petals.dev/) - Self-Hosted 
+* [Petals](https://petals.dev/) - Self-Hosted
+* [Mistral]https://chat.mistral.ai/chat) - Self-Hosted
 * [Ollama](https://ollama.ai/) - Self-Hosted
 * [LMStudio](https://lmstudio.ai/) - Self-Hosted
 * [GPT4All](https://gpt4all.io/) - Self-Hosted / [Github](https://github.com/nomic-ai/gpt4all) / [Discord](https://discord.com/invite/mGZE39AS3e)
