@@ -231,6 +231,7 @@
 * [MicroPad](https://getmicropad.com/)
 * [Xed](https://github.com/linuxmint/xed)
 * [Flotes](https://flotes.app/)
+* [Standard Notes](https://standardnotes.com/)
 * [Notes](https://www.get-notes.com/)
 * [Left](https://hundredrabbits.itch.io/left) / [GitHub](https://github.com/hundredrabbits/Left)
 * [BeefText](https://beeftext.org/)
