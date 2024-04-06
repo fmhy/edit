@@ -240,17 +240,6 @@
 
 ***
 
-## Email Aliasing
-
-* ⭐ **[SimpleLogin](https://simplelogin.io/)**
-* ⭐ **[addy.io](https://addy.io/)**
-* ⭐ **[DuckDuckGo Email Protection](https://duckduckgo.com/email/)**
-* [Mailvelope](https://mailvelope.com/) - Extension
-
-[Firefox Relay](https://relay.firefox.com/), [Burner Mail](https://burnermail.io/), [scr.im](http://scr.im/), [Mailsac](https://mailsac.com/), [altmails](https://altmails.com/), [Mail.cx](https://mail.cx/), [YOPmail](https://yopmail.com/en/), [Mailgw](https://mailgw.com/), [erine.email](https://erine.email/), [33mail](https://33mail.com/), [shitmail](https://shitmail.org/), [0wx](https://0wx.org/0wx/?show=email), [forwardemail](https://github.com/forwardemail/forwardemail.net), [anonaddy](https://github.com/anonaddy/anonaddy)
-
-***
-
 ## Email Clients
 
 * ⭐ **[Betterbird](https://www.betterbird.eu/)**
