@@ -302,6 +302,7 @@
 * [TubeOffline](https://www.tubeoffline.com/) - Multi-Site
 * [VideoFK](https://www.videofk.com/) - Multi-Site
 * [you-get](https://you-get.org/) - Multi-Site
+* [Hitomi Downloader](https://github.com/KurtBestor/Hitomi-Downloader) - Multi-Site
 * [Yout](https://yout.com/) - Multi-Site - Multi-Site
 * [pastedownload](https://pastedownload.com/)
 * [weibomiaopai](https://weibomiaopai.com/download-video-parser.php) - Multi-Site
