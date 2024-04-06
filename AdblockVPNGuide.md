@@ -170,7 +170,6 @@
 
 # ► Privacy
 
-* 🌐 **[Awesome Cryptography](https://github.com/sobolevn/awesome-cryptography)** - Cryptography Resources
 * 🌐 **[Awesome Vehicle Security](https://github.com/jaredthecoder/awesome-vehicle-security)** - Vehicle Security Resources
 * ↪️ **[SMS Verification Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_sms_verification_sites)**
 * ↪️ **[Password Data Breach Detection](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_password_data_breach_check)**
@@ -300,6 +299,9 @@
 
 * ⭐ **[Have I been Pwned?](https://haveibeenpwned.com/)** - Monitor Email Breaches
 * ⭐ **[Proton Mail](https://proton.me/mail)** - Encrypted Email
+* ⭐ **[SimpleLogin](https://simplelogin.io/)** - Email Aliasing
+* ⭐ **[addy.io](https://addy.io/)** - Email Aliasing
+* ⭐ **[DuckDuckGo Email Protection](https://duckduckgo.com/email/)** - Email Aliasing
 * [Tuta](https://tuta.com/) - Encrypted Email
 * [Disroot](https://disroot.org/en/services/email) - Encrypted Email
 * [EmailPrivacyTester](https://www.emailprivacytester.com/) - Email Privacy Test
@@ -307,6 +309,21 @@
 * [/r/emailprivacy](https://reddit.com/r/emailprivacy) - Discussion of Email Privacy / Security / Anonymity
 * [SecLists](https://seclists.org/) - Security Mailing List Archive
 * [Phish.ly](https://phish.ly/) - Scan Suspicious Emails
+* [Mailvelope](https://mailvelope.com/) - Email Aliasing Extension
+* [Firefox Relay](https://relay.firefox.com/) - Email Aliasing
+* [Burner Mail](https://burnermail.io/) - Email Aliasing
+* [scr.im](http://scr.im/) - Email Aliasing
+* [Mailsac](https://mailsac.com/) - Email Aliasing
+* [altmails](https://altmails.com/) - Email Aliasing
+* [Mail.cx](https://mail.cx/) - Email Aliasing
+* [YOPmail](https://yopmail.com/en/) - Email Aliasing
+* [Mailgw](https://mailgw.com/) - Email Aliasing
+* [erine.email](https://erine.email/) - Email Aliasing
+* [33mail](https://33mail.com/) - Email Aliasing
+* [shitmail](https://shitmail.org/) - Email Aliasing
+* [0wx](https://0wx.org/0wx/?show=email) - Email Aliasing
+* [forwardemail](https://github.com/forwardemail/forwardemail.net) - Email Aliasing
+* [anonaddy](https://github.com/anonaddy/anonaddy) - Email Aliasing
 
 ***
 
