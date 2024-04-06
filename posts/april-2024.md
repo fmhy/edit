@@ -72,7 +72,7 @@ footer: true
 - Removed WSA as support for it has been [dropped](https://ibb.co/zxB565S).
 
 - Unstarred FlixHQ in Streaming. This used to be good but seems to be a lot slower recently.
-- 
+ 
 ***
 
 ### [Previous Update Threads](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/updates)
