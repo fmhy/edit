@@ -8,11 +8,11 @@
 
 * ↪️ **[Image to Text](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/img-tools#wiki_.25B7_image_to_text_.2F_ocr)**
 * ↪️ **[Text to Speech](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/ai#wiki_.25B7_text_to_speech)**
+* ⭐ **[RambleFix](https://ramblefix.com/)**, [SpeechTexter](https://www.speechtexter.com/), [SpeechNotes](https://speechnotes.co/), [LilySpeech](https://lilyspeech.com/), [VoiceToText](https://voicetotext.org/), [TalkTyper](https://talktyper.com/), [Dictation](https://dictation.io/speech) or [VoiceNotebook](https://voicenotebook.com/) - Speech to Text
 * ⭐ **[TextCleanr](https://www.textcleanr.com/)**, [Text Mechanic](https://textmechanic.com/), [TextFixer](https://www.textfixer.com/), [OnlineTextTools](https://onlinetexttools.com/), [Convert Case](https://convertcase.net/), [TextCleaner](https://textcleaner.net/all-tools/), [SortMyList](https://sortmylist.com/) or [The Alphabetizer](https://alphabetizer.flap.tv/) - Organize / Format Text
 * [diffr](https://loilo.github.io/diffr/), [TextCompare](https://www.textcompare.org/), [Text-Compare](https://text-compare.com/) or [DiffNow](https://www.diffnow.com/) - Compare Text
 * [Count Duplicates](https://www.somacon.com/p568.php) or [DuplicateWord](https://duplicateword.com/) - Count / Remove Duplicates in a List
 * [Delim](https://delim.co/) - Comma Separating Tool
-* [SpeechTexter](https://www.speechtexter.com/), [SpeechNotes](https://speechnotes.co/), [LilySpeech](https://lilyspeech.com/), [VoiceToText](https://voicetotext.org/), [TalkTyper](https://talktyper.com/) or [VoiceNotebook](https://voicenotebook.com/) - Speech to Text
 * [WindowTextExtractor](https://github.com/AlexanderPro/WindowTextExtractor) - Extract Text From Any Window
 * [Textify](https://ramensoftware.com/textify) - Copy Text from Any Dialog
 * [Scanner](https://simon-knuth.github.io/scanner/index) or [NAPS2](https://www.naps2.com/) - Scanner Apps / [GitHub](https://github.com/simon-knuth/scanner)
