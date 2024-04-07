@@ -1390,7 +1390,6 @@
 * [BajarPelisGratis](https://www.bajarpelisgratis.com/) - Movies / Latino
 * [Bajalo Gratis](https://bajalogratis.com/) - Movies / Latino
 * [Relampago Movies](https://relampagomovies.com/) - Movies / Latino
-* [Hackstore.me](https://www.hackstore.me/) - Movies / TV / Anime
 * [Mega DVDRip](https://peliculas-dvdrip.com/) - Movies / TV / Latino / Castilian / [Bypass](https://greasyfork.org/en/scripts/477591)
 * [Mega 1 Link](https://mega1link.com/) - Movies / TV / Latino / Castilian / [Bypass](https://greasyfork.org/en/scripts/477591)
 * [ProgramasVirtualesPC](https://www.programasvirtualespc.net/category/peliculas/) - Movies / TV / Latino / [Bypass](https://greasyfork.org/en/scripts/462492), [2](https://greasyfork.org/en/scripts/477591)
@@ -1471,7 +1470,6 @@
 * [PelisxD](https://www.pelisxd.com/) - Movies / TV / Latino
 * [PelisPedia](https://ww1.pelispedia.asia/) - Movies / TV / Latino
 * [PelisPedia3](https://io.pelispedia.io/) - Movies / TV / Anime / Latino
-* [Gnula.uno](https://gnula.uno/) - Movies / TV / Anime / Latino
 * [Cinecalidad.gg](https://vwv.cinecalidad.gg/) - Movies / TV / Animation / Latino / [Telegram](https://t.me/cinecalidadchat)
 * [Cinecalidad.tel](https://w1.cinecalidad.tel/) - Movies / Latino
 * [Cuevana2](https://www.cuevana2espanol.net/) - Movies / TV / Latino
@@ -1492,7 +1490,6 @@
 * [PelisForte](https://pelisforte.nu/) - Movies / TV
 * [EntrePeliculasySeries](https://entrepeliculasyseries.nz/) - Movies / TV / Anime
 * [VerPeliculasUltra](https://verpeliculasultra.com/) - Movies
-* [Dilo](https://www.dilo.nu/) - Movies / TV / Anime / Castilian
 * [novelas360](https://novelas360.com/) - TV / Drama
 * [Tlnovelas](https://tlnovelas.net/) - TV / Drama
 * [MundoVideosHD](https://mundovideoshd.com/) - TV / Drama
