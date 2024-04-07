@@ -305,7 +305,7 @@
 * [ccMixter](https://ccmixter.org/) - DL / Stream / 320kb / MP3 
 * [ShareMania](https://sharemania.us/) - 320kb / MP3
 * [RockDownload](https://www.rockdownload.org/) - 320kb / MP3
-* [SongsLover](https://songslover.me/) - 256kb / MP3 / [Telegram](https://t.me/SongsLoverin)
+* [SongsLover](https://songslover.me/) - 256kb / MP3
 * [Freemp3cloud](https://freemp3cloud.com) - 256kb / MP3
 * [Ezhevika](https://ezhevika.blogspot.com/) - 192kb / MP3
 * [Rhapsody](https://rentry.co/FMHYBase64#rhapsody) - 128kb / MP3
@@ -730,7 +730,7 @@
 * [WD-1](https://www.worteldrie.com/WD5/) or [YOU.DJ](https://you.dj/) - Online DJ / Beat Creators
 * [RaveDJ](https://rave.dj/) - Easily Mix Songs Together
 * [plugdata](https://plugdata.org/) - Visual Audio Editor / [Discord](https://discord.com/invite/eT2RxdF9Nq)
-* [WebAssembly Music Experiment](https://petersalomonsen.com/webassemblymusic/livecodev2/) - Create Songs with Code
+* [WebAssembly Music Experiment](https://petersalomonsen.com/webassemblymusic/livecodev2/) or [WebChuck IDE](https://ccrma.stanford.edu/~tzfeng/webchuck-ide/) - Create Music with Code
 * [LMMS](https://lmms.io/) - Audio Editor
 * [FamiStudio](https://famistudio.org/) - Audio Editor
 * [Wavosaur](https://www.wavosaur.com/) - Audio Editor
