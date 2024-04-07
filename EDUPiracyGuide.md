@@ -63,6 +63,7 @@
 * [Stanford Courses](https://online.stanford.edu/free-content) - Free Stanford Courses
 * [Crash Course](https://thecrashcourse.com/) - Topic Crash Courses
 * [LearnOutLoud](https://www.learnoutloud.com/) - Documentaries / Courses
+* [Open Course](https://open-course.vercel.app/) - User-curated Courses
 * [Class Central](https://www.classcentral.com/) - Search for Courses
 * [ProfessorMesser](https://www.professormesser.com/) - IT Courses
 * [media.ccc.de](https://media.ccc.de/) - Educational Presentations
@@ -169,7 +170,7 @@
 * [CuriousCat](https://curiouscat.live/) or [RetroSpring](https://retrospring.net/) - Q&A Communities
 * [AnswerSocrates](https://answersocrates.com/) - Most Asked Questions on Google
 * [Kialo](https://www.kialo.com/) or [Level Point](https://levelpoint.app/) - Debates / Discussion
-* [Tabby Cat](https://github.com/TabbycatDebate/tabbycat) - Debate Tournament Tabulation Software
+* [Tabby Cat](https://tabbycat.readthedocs.io/) - Debate Tournament Tabulation Software
 * [LitCharts](https://www.litcharts.com/) - Literature Guides
 * [speaking](https://speaking.io/) - Public Speaking Tips
 * [Electromagnetic Radiation Spectrum Chart](https://i.ibb.co/XCyQNB7/01930032e368.jpg)
@@ -248,8 +249,9 @@
 * [Qalculate](https://qalculate.github.io/) - Desktop Calculator
 * [QwikTape](https://github.com/4silvertooth/QwikTape) - Note Style Calculator
 * [MathB.in](https://mathb.in/) - Mathematics pastebin with LaTeX and Markdown
+* [Math Scan](https://github.com/ekrem-qb/math_scan), [RapidLatexOCR](https://github.com/RapidAI/RapidLatexOCR) or [LaTeX-OCR](https://lukas-blecher.github.io/LaTeX-OCR/) - Extract Mathematical Expressions
 * [MatrixCalc](https://matrixcalc.org/en/) or [Reshish](https://matrix.reshish.com/) - Matrix Calculators
-* [Mathcha](https://www.mathcha.io/) - Online Math Editor
+* [Mathcha](https://www.mathcha.io/) or [Math Editor](https://math-editor.online/) - Online Math Editors
 * [EquatIO](https://chromewebstore.google.com/detail/equatio-math-made-digital/hjngolefdpdnooamgdldlkjgmdcmcjnc) - Math Equation Creator
 * [SequenceDB](https://sequencedb.net/) - Sequence Machine
 * [OEIS](https://oeis.org/) - Encyclopedia of Integer Sequences
@@ -486,13 +488,13 @@
 * [Stellarium-Web](https://stellarium-web.org/) or [Stellarium](https://stellarium.org/) - Virtual Stellariums
 * [Google Sky](https://www.google.com/sky) - View Stars, The Moon & Mars
 * [WorldwideTelescope](https://worldwidetelescope.org/) - Interactive Telescope Data
-* [Hubble Zoomable](https://esahubble.org/images/archive/zoomable/) or [ESO Zoomable](https://www.eso.org/public/images/archive/zoomable/) - Zoomable Telescope Photos
+* [Hubble Zoomable](https://esahubble.org/images/archive/zoomable/) - Zoomable Telescope Photos
 * [Webb Compare](https://www.webbcompare.com/) - Webb / Hubble Comparison Images
 * [Space Telescope Live](https://spacetelescopelive.org/) - Live Hubble Image Data
 * [James Webb Space Telescope](https://jwst.nasa.gov/index.html) or [ESAWebb](https://esawebb.org/) - Webb Space Telescope Site
 * [HubbleSite](https://hubblesite.org/) - Hubble Telescope Site
 * [APOD](https://apod.nasa.gov/) - Daily NASA Astronomy Images
-* [Astrometry](https://nova.astrometry.net/) or [Astrobin](https://www.astrobin.com/search/) - View / Share Astronomy Images
+* [Astrometry](https://nova.astrometry.net/), [ESO Images](https://www.eso.org/public/images/) or [Astrobin](https://www.astrobin.com/search/) - Astronomy Images
 * [Meteor Showers](https://www.meteorshowers.org/) - 3D Meteor Shower Visualization
 * [Live Meteors](https://www.livemeteors.com/) - Live Meteor Radio Echoes
 * [Clear Dark Sky](https://cleardarksky.com/) - Star Gazing Weather Forecasts
@@ -693,8 +695,8 @@
 * [LearnNatively](https://learnnatively.com/) - Learn Japanese via Media
 * [jidoujisho](https://github.com/lrorpilla/jidoujisho) or [Manabi](https://reader.manabi.io/) - Learn Japanese via Books
 * [HayaiLearn](https://www.hayailearn.com/) - Learn Japanese via YouTube
-* [Memento](https://github.com/ripose-jp/Memento) - Japanese Learning Video Player
-* [JapaneseWithAnime](https://www.japanesewithanime.com/) - Learn Japanese with Anime / Manga
+* [Memento](https://ripose-jp.github.io/Memento/) - Japanese Learning Video Player
+* [JapaneseWithAnime](https://www.japanesewithanime.com/) or [Immersion Kit](https://www.immersionkit.com/) - Learn Japanese with Anime / Manga
 * [Daily leisurely Japanese teacher](https://nihongonosensei.net/) - Japanese Practice Material
 * [Nihongo con Teppei](https://nihongoconteppei.com/) - Japanese Beginners Podcast
 * [Learn Japanese Grammar](https://kimallen.sheepdogdesign.net/) or [BunPro](https://bunpro.jp/) - Learn Japanese Grammar
@@ -820,9 +822,9 @@
 
 ## ▷ Study / Research
 
-* 🌐 **[Awesome Research](https://github.com/emptymalei/awesome-research)**, [Foam](https://github.com/foambubble/foam), [KausalFlow](https://tools.kausalflow.com/), [Zotero](https://www.zotero.org/), [ResearchRabbit](https://www.researchrabbit.ai/) or [Scrible](https://www.scrible.com/) - Research Tools
+* 🌐 **[Awesome Research](https://github.com/emptymalei/awesome-research)**, [KausalFlow](https://tools.kausalflow.com/), [Foam](https://github.com/foambubble/foam), [Zotero](https://www.zotero.org/), [ResearchRabbit](https://www.researchrabbit.ai/) or [Scrible](https://www.scrible.com/) - Research Tools
 * ↪️ **[Note Taking Apps](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools#wiki_.25BA_text_editors_.2F_notes)**
-* ⭐ **[StudyLion](https://github.com/StudyLions/StudyLion)** - Study Tracker / Productivity Discord Bot
+* ⭐ **[StudyLion](https://lionbot.org)** - Study Tracker / Productivity Discord Bot / [GitHub](https://github.com/StudyLions/StudyLion)
 * ⭐ **[StudyKit](https://studykit.app/)**, [Knowt](https://knowt.com/), [Quizlet](https://quizlet.com/), [Shmoop](https://www.shmoop.com/) or [SparkNotes](https://www.sparknotes.com/) - Quizzes / Study Material / [Show Hidden](https://greasyfork.org/en/scripts/423872)
 * ⭐ **[Coursicle](https://www.coursicle.com/)** - Class Schedule Tracker / Android
 * ⭐ **[OpenSyllabus](https://opensyllabus.org/)** - Syllabus Search / Info
@@ -831,15 +833,15 @@
 * [Catma](https://catma.de/) - Research Markup & Analysis Tool
 * [Lyx](https://www.lyx.org/), [Typst](https://typst.app/home), [TeXStudio](https://texstudio.org/) or [Papeeria](https://papeeria.com/) - LaTeX Editors / [Guide](https://www.learnlatex.org/)
 * [latex_paper_writing_tips](https://github.com/guanyingc/latex_paper_writing_tips) - Latex Research Paper Tips
-* [OpenPaper](https://openpaper.work/en/), [papis](https://github.com/papis/papis), [Paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) or [DataShare](https://datashare.icij.org/) - Document Managers
+* [OpenPaper](https://openpaper.work/en/), [papis](https://github.com/papis/papis), [Paperless-ngx](https://docs.paperless-ngx.com) or [DataShare](https://datashare.icij.org/) - Document Managers
 * [Taguette](https://app.taguette.org/) - Data Analysis Document Tagging
 * [Bonsai](https://bonsaibrowser.com/) - Research Web Browser
-* [Lurnby](https://github.com/Roznoshchik/Lurnby) or [StringMark](https://www.stringmark.com/) - Research Highlighting Tools
+* [Lurnby](https://www.lurnby.com) / [GitHub](https://github.com/Roznoshchik/Lurnby) or [StringMark](https://www.stringmark.com/) - Research Highlighting Tools
 * [Deepnote](https://deepnote.com/) - Data Science Notebook
 * [Papertag](https://www.papertag.app/) - Attach Digital Content to Paper
 * [BookStack](https://www.bookstackapp.com/) - Self-Hosted Information Manager
 * [General Index](https://archive.org/details/GeneralIndex) - Article Metadata Mining Project
-* [Graded](https://github.com/NightDreamGames/Graded) - Grades Tracker / Android
+* [Graded](https://nightdreamgames.com/graded) - Grades Tracker / Android / [GitHub](https://github.com/NightDreamGames/Graded)
 * [Study Space](https://discord.gg/7Q7FPUVTm7) - Unlock Courses (Chegg, Bartleby, StuDocu etc.)
 * [guIHelp](https://discord.gg/rgF9jY8CpH) - Bartleby, Quizlet, Coursehero & Scribd Bot
 * [Quizizz](https://quizizz.com/) - Create Quizzes, Lessons, Flashcards & Presentations
@@ -854,7 +856,7 @@
 * [DoubtNut](https://www.doubtnut.com/) - Exam Solutions / Help
 * [MammothMemory](https://mammothmemory.net/index.html) - Visual Memory Based Solutions
 * [StudyStream](https://www.studystream.live/) or [StudyTogether](https://www.studytogether.com/) - Online Study Groups
-* [tuDocu](https://www.studocu.com/) - Share Study Notes / [Premium Unlock](https://github.com/isanchop/stuhack)
+* [StuDocu](https://www.studocu.com/) - Share Study Notes / [Premium Unlock](https://github.com/isanchop/stuhack)
 * [Course-Notes](https://course-notes.org/) - Course Notes
 * [Papers.Xtreme](https://papers.xtremepape.rs/) - Test Revision Notes & Answers
 * [The SAT: Practice Tests](https://satsuite.collegeboard.org/sat/practice-preparation/practice-tests) - SAT Practice Exams
@@ -933,7 +935,7 @@
 * ⭐ **[Wolfram Alpha](https://www.wolframalpha.com/)** - Searchable Knowledgebase / [API Access](https://wolfreealpha.gitlab.io)
 * ⭐ **[NGrams](https://books.google.com/ngrams/)** or [Netspeak](https://netspeak.org/) - Word Usage Trackers
 * [Phrases.org](https://phrases.org.uk/) - Phrase Dictionary
-* [GoldenDict](https://github.com/xiaoyifang/goldendict-ng), [2](https://sourceforge.net/projects/goldendict/) - Dictionary
+* [GoldenDict](https://xiaoyifang.github.io/goldendict-ng/), [2](https://sourceforge.net/projects/goldendict/) - Dictionary
 * [NinjaWords](https://ninjawords.com/) - Dictionary
 * [Wordnik](https://www.wordnik.com/) - Dictionary
 * [OxfordLearnersDictionaries](https://www.oxfordlearnersdictionaries.com/) - Dictionary
