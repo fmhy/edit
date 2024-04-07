@@ -1653,11 +1653,14 @@
 * [TurkAnime](https://www.turkanime.co/) - Anime
 * [Anizm](https://anizm.net/) - Anime
 * [TRanimeizle](https://www.tranimeizle.co) - Anime
+* [AnimeWho](https://animewho.com) - Anime
+
 
 ## ▷ Reading
 
-* [Kuflu](https://www.kuflu.com/forums/e-kitap.58/) - Books / Magazines
-* [Ktphnme](https://t.me/ktphnme) - Books
+* [Kuflu e-kitap](https://www.kuflu.com/forums/e-kitap.58), [Kuflu manga](https://www.kuflu.com/forums/anime-ve-manga.28)- Books / Magazines
+* [Booksfer](https://booksfer.com) - Books
+* [Telegram Groups](https://t.me/addlist/SWhexU5B_hoxMTc8) - Books
 * [MangaDenizi](https://www.mangadenizi.net/) - Manga / [Discord](https://discord.com/invite/8zBMSGZ)
 * [Manga-TR](https://manga-tr.com/) - Manga
 * [Manga-ay](https://manga-ay.com/) - Manga
