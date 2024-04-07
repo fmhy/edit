@@ -104,6 +104,16 @@
 
 ***
 
+## App / Site Mockups
+
+* [Mockoops](https://mockoops.mohitya.dev/) - Animated Mockups
+* [Really Good Emails](https://reallygoodemails.com/) - Product Email Mobile Designs and Templates
+* [Screen from Traction](https://screen.traction.one/) - Create App Screenshots
+
+[Previewed](https://previewed.app/), [Mockup World](https://www.mockupworld.co/), [AniMockup](https://animockup.com/), [DeviceShots](https://deviceshots.com/), [DeviceFrames](https://deviceframes.com/), [shots.so](https://shots.so/), [medialoot](https://medialoot.com/free-mockups/), [MockMagic](https://www.mockmagic.com/), [MockupsForFree](https://mockupsforfree.com/), [zippypixels](https://zippypixels.com/), [Hishoot2i](https://github.com/hishoot2i/Hishoot2i) / [Templates](https://t.me/hishoot2imaterial), [Mockuphone](https://mockuphone.com/), [TheMockupClub](https://themockup.club/), [RiseShot](https://www.riseshot.com/), [Upmock](https://www.upmock.io/), [LS Graphics](https://www.ls.graphics/)
+
+***
+
 ## Browser eBook Readers
 
 * ⭐ **[Reader View](https://webextension.org/listing/chrome-reader-view.html)**, [2](https://mybrowseraddon.com/reader-view.html)
@@ -481,7 +491,7 @@
 
 ## LibGen Tools
 
-[Desktop](https://wiki.mhut.org/software:libgen_desktop) / [Mobile](https://github.com/manuelvargastapia/libgen_mobile_app), [2](https://github.com/FunkyMuse/Aurora) / [Search Extension](https://chromewebstore.google.com/detail/libgen-search/cbcehgllfaddbjidleabcdjpldlognad) / [Need Seeds](https://phillm.net/libgen-seeds-needed.php) / [Telegram Bot](https://t.me/amazingbookdownloaderbot) / [Convert to Text](https://github.com/VikParuchuri/libgen_to_txt) / [Backup](https://redd.it/edwi9b) / [/r/libgen](https://reddit.com/r/libgen)
+[Desktop](https://wiki.mhut.org/software:libgen_desktop) / [Search Extension](https://chromewebstore.google.com/detail/libgen-search/cbcehgllfaddbjidleabcdjpldlognad) / [Need Seeds](https://phillm.net/libgen-seeds-needed.php) / [Telegram Bot](https://t.me/amazingbookdownloaderbot) / [Convert to Text](https://github.com/VikParuchuri/libgen_to_txt) / [Backup](https://redd.it/edwi9b) / [/r/libgen](https://reddit.com/r/libgen)
 
 ***
 
@@ -583,7 +593,7 @@
 
 ## Modded Minecraft Launchers
 
-* ⭐ **[PrismLauncher](https://prismlauncher.org/)** / [GitHub](https://github.com/PrismLauncher/PrismLauncher) / [Free Method](https://rentry.co/Prism4Free) / [Offline Bypass](https://github.com/antunnitraj/Prism-Launcher-PolyMC-Offline-Bypass) - Feature-rich Launcher
+* ⭐ **[PrismLauncher](https://prismlauncher.org/)** / [GitHub](https://github.com/PrismLauncher/PrismLauncher) / [Free Method](https://rentry.co/Prism4Free) / [Offline Bypass](https://github.com/antunnitraj/Prism-Launcher-PolyMC-Offline-Bypass) / [Ely.by Version](https://github.com/Octol1ttle/ElyPrismLauncher) - Feature-rich Launcher
 * ⭐ **[SkLauncher](https://skmedix.pl/)** - User-friendly Launcher
 * ⭐ **[ATLauncher](https://atlauncher.com/)** - Modpack Launcher
 * [MC Version Launcher](https://github.com/MCMrARM/mc-w10-version-launcher) - Multi-Version Launcher
@@ -699,6 +709,12 @@
 
 ***
 
+## PNG Images / Clipart
+
+[CleanPNG](https://www.cleanpng.com/), [PNGWing](https://www.pngwing.com/), [PNGEgg](https://www.pngegg.com/), [AnyRGB](https://www.anyrgb.com/), [HiClipart](https://www.hiclipart.com/), [HDClipArtAll](https://hdclipartall.com/), [pngmart](https://www.pngmart.com/), [pngall](https://www.pngall.com/), [pngplay](https://www.pngplay.com/), [freepngimg](https://www.freepngimg.com/), [KindPNG](https://www.kindpng.com/), [FreePNGLogos](https://www.freepnglogos.com/), [PNGFind](https://www.pngfind.com), [PikPng](https://www.pikpng.com/), [PNGHero](https://pnghero.com/), [PlusPNG](https://pluspng.com/), [PNGHut](https://pnghut.com/), [pinpng](https://pinpng.com/)
+
+***
+
 ## Poll Sites
 
 [PollCode](https://pollcode.com/), [YoPolls](https://www.yopolls.com/), [Polls.fr](https://polls.fr/), [minipoll](https://minipoll.co/), [PickVote](https://pickvote.web.app/), [StrawPoll](https://strawpoll.com/), [framadate](https://framadate.org/), [mobpoll](https://quick.mobpoll.org/), [polltab](https://www.polltab.com/), [polling-app](https://xoyondo.com/polling-app), [poal.me](https://poal.me/), [poll.ly](https://poll.ly/), [matepoll](https://www.matepoll.com/index.html), [typeform](https://typeform.com/examples/polls/)
@@ -766,7 +782,7 @@
 
 ### Internet Radio
 
-[deep-cut.fm](https://deep-cut.fm/), [CoreRadio](https://coreradio.online/listen), [RadioParadise](https://radioparadise.com/), [IndieSHuffle](https://www.indieshuffle.com/), [You42](https://www.you42.com/), [Jango](https://www.jango.com/), [RadioTunes](https://www.radiotunes.com/), [Live365](https://live365.com/), [AccuraRadio](https://www.accuradio.com/), [Radio.dubbeh](https://radio.dubbeh.net/), [Tilderadio](https://tilderadio.org/), [AnonRadio](https://anonradio.net/), [UpBeat](https://upbeatradio.net/) / [Discord](https://upbeat.pw/discord), [Radios.yt](https://radios.yt/), [SomaFM](https://somafm.com/), [ShoutCast](https://directory.shoutcast.com/), [Internet-Radio](https://internet-radio.com/), [Radiolise](https://radiolise.gitlab.io/), [JetSetRadio](https://jetsetradio.live/), [Chiru.no](https://chiru.no/), [radio.uwu](https://radio.uwu.network/)
+[deep-cut.fm](https://deep-cut.fm/), [CoreRadio](https://coreradio.online/listen), [RadioParadise](https://radioparadise.com/), [IndieSHuffle](https://www.indieshuffle.com/), [You42](https://www.you42.com/), [Jango](https://www.jango.com/), [RadioTunes](https://www.radiotunes.com/), [Live365](https://live365.com/), [AccuraRadio](https://www.accuradio.com/), [Radio.dubbeh](https://radio.dubbeh.net/), [Tilderadio](https://tilderadio.org/), [AnonRadio](https://anonradio.net/), [UpBeat](https://upbeatradio.net/) / [Discord](https://upbeat.pw/discord), [Radios.yt](https://radios.yt/), [SomaFM](https://somafm.com/), [ShoutCast](https://directory.shoutcast.com/), [Internet-Radio](https://internet-radio.com/), [Radiolise](https://radiolise.gitlab.io/), [JetSetRadio](https://jetsetradio.live/), [Chiru.no](https://chiru.no/), [radio.uwu](https://radio.uwu.network/), [radcap](http://radcap.ru/)
 
 ***
 
@@ -989,7 +1005,7 @@
 * ⭐ **[inboxes](https://inboxes.com/)**
 * ⭐ **[Guerillamail](https://www.guerrillamail.com/)**
 
-[Adguard Temp Mail](https://adguard.com/en/adguard-temp-mail/overview.html), [10 Minute Mail](https://temp-mail.org/en/10minutemail), [tmail](https://tmail.io/), [Temp Mail](https://temp-mail.org/), [maildrop](https://maildrop.cc/), [mailinator](https://www.mailinator.com/), [mailnesia](https://mailnesia.com/), [anonbox](https://anonbox.net/), [Generator.email](https://generator.email/), [kuku](https://m.kuku.lu/), [Email on Deck](https://www.emailondeck.com/), [Mohmal](https://www.mohmal.com/en), [temporarymail](https://temporarymail.com/), [FakeMailGenerator](https://www.fakemailgenerator.com/), [emailfake](https://emailfake.com/), [tempmailo](https://tempmailo.com/), [10minutesemail](https://10minutesemail.net/), [tempm](https://tempm.com/), [tempail](https://tempail.com/), [eyepaste](https://www.eyepaste.com/), [mintemail](https://www.mintemail.com/), [sharklasers](https://www.sharklasers.com/), [yopmail](https://www.yopmail.com/en/), [mail.td](https://mail.td/), [dropmail](https://dropmail.me/en/), [cryptogmail](https://cryptogmail.com/), [inboxkitten](https://inboxkitten.com/), [anonymmail](https://anonymmail.net/), [tmailweb](https://tmailweb.com/), [one-off](https://one-off.email/), [another-temp-mail](https://www.another-temp-mail.com/), [tempr](https://tempr.email/en/), [fakemail](https://www.fakemail.net/), [email-generator](https://yopmail.com/en/email-generator), [moakt](https://www.moakt.com/), [linshi-email](https://www.linshi-email.com/en), [disposablemail](https://www.disposablemail.com/), [trashmail](https://trashmail.ws/), [fakermail](https://fakermail.com/), [10minutesmail](http://10minutesmail.com/), [mailtemp](https://mailtemp.top/), [temporary-email](https://temporary-email.com/), [tempmail.plus](https://tempmail.plus/en/), [mail-temp](https://mail-temp.com/), [easytrashmail](https://www.easytrashmail.com/), [1secmail](https://www.1secmail.com/), [fex](https://fex.plus/en/), [email-fake](https://email-fake.com/), [luxusmail](https://luxusmail.org/), [tempmail](https://tempmail.zone/), [spambox](https://spambox.xyz/), [tempmails](https://tempmails.net/), [receivemail](https://www.receivemail.org/), [rainmail](https://rainmail.xyz/), [tempemail](https://tempemail.co/), [burner](https://burner.kiwi/), [tempmail.altmails](https://tempmail.altmails.com/), [instant-email](https://instant-email.org/), [temp-mail.io](https://temp-mail.io/), [temp-inbox](https://temp-inbox.com/), [tempmaili](https://tempmaili.com/), [minuteinbox](https://minuteinbox.com/), [emailtemp](https://emailtemp.org/), [tempmailid](https://tempmailid.com/), [emaildrop](https://www.emaildrop.io/), [10minutemail](https://10minutemail.net/), [temprmail](https://temprmail.com/), [10minemail](https://10minemail.com/), [tempmail.email](https://tempmail.email/), [temps-mail.com](https://temps-mail.com/), [tempinbox](https://www.tempinbox.xyz/), [yopmail](https://yopmail.com/), [tmailor](https://tmailor.com/), [temp-mailbox](https://temp-mailbox.com/), [bottlemail](https://bottlemail.org/), [internxt](https://internxt.com/temporary-email), [tmail.gg](https://tmail.gg/en), [gettempemail](https://gettempemail.com/), [dispostable](https://www.dispostable.com/), [10minutemail](https://www.lite14.us/10minutemail/), [mailsweat.shop](https://mailsweat.shop), [trashmail](https://trashmail.com/), [10minutemail.com](https://10minutemail.com/), [email.ml](https://email.ml/), [edumail](https://edumail.icu/), [snapmail](https://www.snapmail.cc/), [mailcatch](http://mailcatch.com/), [email1](https://email1.io/), [cs.email](https://cs.email/), [haribu](https://haribu.net/)
+[Adguard Temp Mail](https://adguard.com/en/adguard-temp-mail/overview.html), [10 Minute Mail](https://temp-mail.org/en/10minutemail), [tmail](https://tmail.io/), [Temp Mail](https://temp-mail.org/), [maildrop](https://maildrop.cc/), [mailinator](https://www.mailinator.com/), [mailnesia](https://mailnesia.com/), [anonbox](https://anonbox.net/), [Generator.email](https://generator.email/), [kuku](https://m.kuku.lu/), [Email on Deck](https://www.emailondeck.com/), [Mohmal](https://www.mohmal.com/en), [temporarymail](https://temporarymail.com/), [FakeMailGenerator](https://www.fakemailgenerator.com/), [emailfake](https://emailfake.com/), [tempmailo](https://tempmailo.com/), [10minutesemail](https://10minutesemail.net/), [tempm](https://tempm.com/), [tempail](https://tempail.com/), [eyepaste](https://www.eyepaste.com/), [mintemail](https://www.mintemail.com/), [sharklasers](https://www.sharklasers.com/), [yopmail](https://www.yopmail.com/en/), [mail.td](https://mail.td/), [dropmail](https://dropmail.me/en/), [cryptogmail](https://cryptogmail.com/), [inboxkitten](https://inboxkitten.com/), [anonymmail](https://anonymmail.net/), [tmailweb](https://tmailweb.com/), [one-off](https://one-off.email/), [another-temp-mail](https://www.another-temp-mail.com/), [tempr](https://tempr.email/en/), [fakemail](https://www.fakemail.net/), [email-generator](https://yopmail.com/en/email-generator), [moakt](https://www.moakt.com/), [linshi-email](https://www.linshi-email.com/en), [disposablemail](https://www.disposablemail.com/), [trashmail](https://trashmail.ws/), [fakermail](https://fakermail.com/), [10minutesmail](http://10minutesmail.com/), [mailtemp](https://mailtemp.top/), [temporary-email](https://temporary-email.com/), [tempmail.plus](https://tempmail.plus/en/), [mail-temp](https://mail-temp.com/), [easytrashmail](https://www.easytrashmail.com/), [1secmail](https://www.1secmail.com/), [fex](https://fex.plus/en/), [email-fake](https://email-fake.com/), [luxusmail](https://luxusmail.org/), [tempmail](https://tempmail.zone/), [spambox](https://spambox.xyz/), [tempmails](https://tempmails.net/), [receivemail](https://www.receivemail.org/), [rainmail](https://rainmail.xyz/), [tempemail](https://tempemail.co/), [burner](https://burner.kiwi/), [tempmail.altmails](https://tempmail.altmails.com/), [instant-email](https://instant-email.org/), [temp-mail.io](https://temp-mail.io/), [temp-inbox](https://temp-inbox.com/), [tempmaili](https://tempmaili.com/), [minuteinbox](https://minuteinbox.com/), [emailtemp](https://emailtemp.org/), [tempmailid](https://tempmailid.com/), [emaildrop](https://www.emaildrop.io/), [10minutemail](https://10minutemail.net/), [temprmail](https://temprmail.com/), [10minemail](https://10minemail.com/), [tempmail.email](https://tempmail.email/), [temps-mail.com](https://temps-mail.com/), [tempinbox](https://www.tempinbox.xyz/), [yopmail](https://yopmail.com/), [tmailor](https://tmailor.com/), [temp-mailbox](https://temp-mailbox.com/), [bottlemail](https://bottlemail.org/), [internxt](https://internxt.com/temporary-email), [tmail.gg](https://tmail.gg/en), [gettempemail](https://gettempemail.com/), [dispostable](https://www.dispostable.com/), [10minutemail](https://www.lite14.us/10minutemail/), [mailsweat.shop](https://mailsweat.shop), [trashmail](https://trashmail.com/), [10minutemail.com](https://10minutemail.com/), [email.ml](https://email.ml/), [edumail](https://edumail.icu/), [snapmail](https://www.snapmail.cc/), [mailcatch](http://mailcatch.com/), [email1](https://email1.io/), [cs.email](https://cs.email/), [haribu](https://haribu.net/), [22.do](https://22.do/)
 
 ### Telegram Temp Mail Bots
 
@@ -1107,7 +1123,7 @@
 
 ### Simple Site Creators
 
-[Straw.Page](https://straw.page/), [Own Free Website](https://www.own-free-website.com), [itty.bitty](https://itty.bitty.site/), [mmm](https://build.mmm.page/), [cargo](https://cargo.site/), [Jigsy](https://jigsy.com/), [Temper](https://temper.one/), [Neocities](https://neocities.org/), [Mobirise](https://mobirise.com/), [Silex](https://www.silex.me/), [Publii](https://getpublii.com/), [Eleventy](https://11ty.dev/), [nekoweb](https://nekoweb.org/)
+[Straw.Page](https://straw.page/), [Own Free Website](https://www.own-free-website.com), [itty.bitty](https://itty.bitty.site/), [mmm](https://build.mmm.page/), [cargo](https://cargo.site/), [Jigsy](https://jigsy.com/), [Temper](https://temper.one/), [Neocities](https://neocities.org/), [Mobirise](https://mobirise.com/), [Silex](https://www.silex.me/), [Publii](https://getpublii.com/), [Eleventy](https://11ty.dev/), [nekoweb](https://nekoweb.org/), [Kinsta](https://kinsta.com/static-site-hosting/)
 
 ***
 
