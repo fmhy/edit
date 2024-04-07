@@ -146,7 +146,7 @@
 * [Ryuk](https://ryuk.to/) - Sub / Dub / 1080p
 * [Kaguya](https://kaguya.app/) - Sub / 1080p / [Discord](https://discord.gg/382BEFfER6)
 * [Genoanime](https://genoanime.com/) - Sub / Dub / 1080p / [Discord](https://discord.com/invite/TMe9eVs2YY)
-* [Animeflix](https://animeflix.live/) - Sub / Dub / 1080p / [Mirrors](https://animeflix.domains/)
+* [Animeflix](https://animeflix.live/), [2](https://animeflix.li/) - Sub / Dub / 1080p / [Mirrors](https://animeflix.domains/)
 * [AnimeHeaven](https://animeheaven.me/) - Sub / 1080p
 * [AnimeNana](https://animenana.com/) - Sub / 1080p
 * [Animension](https://animension.to/) - Sub / Dub / 1080p
@@ -810,7 +810,7 @@
 * [Horror Sub-Genre Guide](https://i.ibb.co/F8Hj3xm/a76eecc33d4c.png) - List of Horror Genres
 * [Based on the Book](https://www.mymcpl.org/books-movies-music/read/based-on-the-book) - List of Movies Based on Books
 * [Find Movie](https://find-movie.info/) or [QuoDB](https://www.quodb.com/) - Movie Quote Databases / Search
-* [SimplyScripts](https://www.simplyscripts.com/), [ScriptSlug](https://www.scriptslug.com/), [Scripts.com](https://www.scripts.com/), [IMSDB](https://imsdb.com/), [DailyScript](https://www.dailyscript.com/ ) or [SubsLikeScript](https://subslikescript.com/) - Movie / TV Scripts
+* [SimplyScripts](https://www.simplyscripts.com/), [ScriptSlug](https://www.scriptslug.com/), [Scripts Onscreen](https://scripts-onscreen.com/), [Scripts.com](https://www.scripts.com/), [IMSDB](https://imsdb.com/), [DailyScript](https://www.dailyscript.com/) or [SubsLikeScript](https://subslikescript.com/) - Movie / TV Scripts
 * [MediaTracker](https://github.com/bonukai/MediaTracker), [Ant Movie](https://www.antp.be/software/moviecatalog), [libib](https://www.libib.com/) or [Flox](https://github.com/devfake/flox) - Desktop Media Catalogs
 * [Seanime](https://seanime.rahim.app/) - Anime Desktop Catalog
 * [AniTrakt](https://anitrakt.huere.net/) - Trakt / MyAnimeList Sync
