@@ -426,8 +426,8 @@
 ## ▷ Two-Factor Authentication
 
 * 🌐 **[2FA Directory](https://2fa.directory/)** - List of Sites with 2FA Support
-* ⭐ **[Aegis](https://getaegis.app/)** - Android 2FA
 * ⭐ **[Ente Auth](https://github.com/ente-io/ente#ente-auth)** - Windows / Mac / Android / iOS 2FA / [Audit](https://ente.io/blog/cryptography-audit/)
+* ⭐ **[Aegis](https://getaegis.app/)** - Android 2FA
 * [2FAS](https://2fas.com/) - Android / iOS 2FA / [Discord](https://discord.gg/q4cP6qh2g5)
 * [AuthenticatorPro](https://authenticatorpro.jmh.me) - Android 2FA
 * [Mauth](https://github.com/X1nto/Mauth) - Android 2FA
