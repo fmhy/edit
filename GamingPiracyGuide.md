@@ -62,7 +62,7 @@
 * [ScOOt3r Repacks](https://discord.gg/xe3Fys8Upy) - Download / Torrent
 * [Elamigos](https://elamigos.site/) - Download
 * [Tiny-Repacks](https://www.tiny-repacks.win) - Torrent
-* [FreeGOGPCGames](https://freegogpcgames.com/) - GOG Games Torrent Uploads / [Hash Note](https://pastebin.com/vCy65evY), [2](https://ibb.co/zH4w6cb)
+* [FreeGOGPCGames](https://freegogpcgames.com/) - GOG Games Torrent Uploads / [Hash Note](https://pastebin.com/pNMj3nay), [2](https://i.ibb.co/XbF2dv1/image.png)
 * [Magipack](https://www.magipack.games), [CollectionChamber](https://collectionchamber.blogspot.com/) or [ClassicPCGames](https://archive.org/details/classicpcgames) - Retro PC Games
 * [~archive](https://websites.umich.edu/~archive/) - Retro PC / Mac Games
 
@@ -247,7 +247,7 @@
 * [Wad Archive](https://archive.org/details/wadarchive) - 83k WAD Files
 * [Cah4e3](https://cah4e3.shedevr.org.ru/) - Unlicensed ROMs / Bootlegs
 * [Muds](https://muds.fandom.com/wiki/) - Text Adventure ROM Wiki
-* [softcobra](https://softcobra.com/ntdo/ntdo/) - ROMs / Switch / 3DS / WiiU / [Decoder](https://nin10news.com/decode/) / [Discord](https://discord.com/invite/gweeJNzQ)
+* [softcobra](https://softcobra.com/ntdo/ntdo/) - ROMs / Switch / 3DS / WiiU / [Decoder](https://nin10news.com/decode/) / [Discord](https://discord.com/invite/hARptFej)
 * [MarioCube](https://mariocube.com/) - ROMs / Wii / Gamecube
 * [64DD.org](https://64dd.org/) - ROMs / 64DD
 * [3DS ROMS](https://3dsroms.org), [taodung](https://taodung.com/) or [hShop](https://hshop.erista.me/) - ROMs / 3DS
@@ -268,6 +268,7 @@
 * [Super Mario Bros Crossover](https://archive.org/details/SuperMarioCrossoverOffline) - Play SMB with Alternative Characters
 * [perfect_dark](https://github.com/fgsfdsfgs/perfect_dark), [2](https://github.com/n64decomp/perfect_dark) - Perfect Dark Decompilation
 * [sm64](https://github.com/n64decomp/sm64) / [Discord](https://discord.gg/DuYH3Fh) - Super Mario 64 Decompilation
+* [Dan's Palace](https://discord.gg/RqQeZwrP8k) - Android / PSVita PC Game Ports
 * [wide-snes](https://github.com/VitorVilela7/wide-snes) - Widescreen Super Mario World
 * [Dats.site](https://dats.site/) or [No Intro](https://no-intro.org/) - ROM .dat Files
 * [Dat-O-Matic](https://datomatic.no-intro.org/index.php) - ROM Datasets
@@ -391,7 +392,6 @@
 * ⭐ **[Game Pauser](https://madebyjase.com/game-pauser/)** - Pause Unpausable Cutscenes
 * ⭐ **[Valve Archive](https://valvearchive.com/)** - Rare Valve Data Archive
 * [Play Old PC Games](https://www.play-old-pc-games.com/) - Retro PC Game Setup Guides
-* [GameHUB Launcher](https://www.deviantart.com/not-finch/art/GameHUB-launcher-2-for-Rainmeter-785369648) - Rainmeter Game Launcher
 * [humble-cli](https://github.com/smbl64/humble-cli) - Humble Bundle CLI
 * [Gog To Free](https://greasyfork.org/en/scripts/481134) - Add Piracy Site Links to GOG Store
 * [Moonlight Stream](https://moonlight-stream.org/) / [Server](https://app.lizardbyte.dev/Sunshine/) - Remote Desktop Client
@@ -497,9 +497,10 @@
 * ⭐ **[GoG Galaxy](https://www.gog.com/galaxy)** or **[Project GLD](https://github.com/Y0URD34TH/Project-GLD/)** - Game Libraries / Launchers
 * [Black Pearl Origin](https://github.com/BlackPearlOrigin/blackpearlorigin) / [Plugins](https://bpo-store.github.io/) - Cross Platform Game Library / Launcher
 * [Launchbox](https://www.launchbox-app.com/) - Retro / Console Game Library / Launcher
-* [GameHub](https://tkashkin.github.io/projects/gamehub/) or [Gnome Games](https://wiki.gnome.org/Apps/Games) - Linux Game Libraries / Launchers
+* [GameHUB Launcher](https://www.deviantart.com/not-finch/art/GameHUB-launcher-2-for-Rainmeter-785369648) - Rainmeter Game Launcher
 * [Arc](https://www.arcgames.com/en/about/client) - Gearbox Game Launcher / Library
 * [GameVault](https://gamevau.lt) - Self-Hosted Gaming Platform
+* [XIVLauncher](https://goatcorp.github.io/) - Fixed FFXIV Launcher
 
 ***
 
@@ -629,6 +630,7 @@
 * [StellarisMods](http://stellarismods.net/) - Stellaris Mods
 * [SMods](https://smods.ru/) - Cities: Skylines Mods
 * [MDMC](https://mdmc.moe/) - Muse Dash Mods
+* [BS Manager](https://github.com/Zagrios/bs-manager) - Beat Saber Version / Mod Manager 
 * [BSMG](https://bsmg.wiki/) - Beat Saber Mods
 * [NFSMods](https://nfsmods.xyz/) / [Discord](https://discord.gg/MuC3KKW) or [NFSAddons](https://www.nfsaddons.com/) - Need for Speed Mods
 * [SimPlaza](https://simplaza.org/) - Microsoft Flight Simulator Addons
@@ -733,7 +735,7 @@
 ## ▷ MOBA Tools
 
 * ⭐ **[OP.GG](https://www.op.gg/)** - LoL Player Background Check
-* ⭐ **[U.GG](https://u.gg/)** or [LoLAlytics](https://lolalytics.com/) / [Discord](https://discord.com/invite/zKyaZ6w) - LoL Champion Builds / Tiers
+* ⭐ **[U.GG](https://u.gg/)**, [LoLTheory](https://loltheory.gg/ ) or [LoLAlytics](https://lolalytics.com/) / [Discord](https://discord.com/invite/zKyaZ6w) - LoL Champion Builds / Tiers
 * ⭐ **[Gol.gg](https://gol.gg/esports/home/)** - LoL Competitive Stats, All Regions
 * ⭐ **[Tactics.tools](https://tactics.tools/)** / [Discord](https://discord.com/invite/K4Z6shucH8) or [MetaTFT](https://www.metatft.com/) / [Discord](https://discord.com/invite/RqN3qPy) - Team Fight Tactic Guides, Stats, Tools etc.
 * [MobaFire](https://www.mobafire.com/) - LoL Champion Guides
@@ -1190,6 +1192,7 @@
 * [Solitaired](https://solitaired.com/), [Solitr](https://www.solitr.com/) or [Solitaire Owl](https://solitaireowl.com/) - Solitaire
 * [Mah-Jongg](https://www.mahjongfun.com/), [Mahjong4Friends](https://mahjong4friends.com/) or [Classic Mahjong](https://classic-mahjong.com/) - Mahjong Games
 * [lishogi](https://lishogi.org/) - Shogi
+* [Online GO](online-go.com) - Multiplayer GO
 * [Blackjack Break](https://blackjackbreak.com/) or [HTML5 Blackjack](https://www.html5blackjack.net/) - Browser Blackjack
 * [Poker Now](https://www.pokernow.club/) or [247 Free Poker](https://www.247freepoker.com/) - Multiplayer Poker
 * [KDice](https://www.kdice.com/) - Multiplayer Dice War
@@ -1278,7 +1281,7 @@
 
 * 🌐 **[/r/Incremental_Games](https://www.reddit.com/r/incremental_games/wiki/list_of_incremental_games)**, [Galaxy Click](https://galaxy.click/), [Incremental Game Plaza](https://plaza.dsolver.ca/), [IncrementalDB](https://www.incrementaldb.com/) or [Almost Idle](https://almostidle.com/) - Incremental Games Indexes
 * ⭐ **[Cookie Clicker](https://orteil.dashnet.org/cookieclicker/) / [2](https://orteil.dashnet.org/experiments/cookie/)** - Incremental Cookie Game
-* ⭐ **Cookie Clicker Tools** - [Multiple Tools](https://github.com/CookieMonsterTeam/CookieMonster) / [Calculator](https://coderpatsy.bitbucket.io/cookies/cookies.html) / [Mod](https://redd.it/7ogf45)
+* ⭐ **Cookie Clicker Tools** - [Multiple Tools](https://github.com/CookieMonsterTeam/CookieMonster) / [Calculator](https://coderpatsy.bitbucket.io/cookies/cookies.html) / [Mod](https://redd.it/7ogf45) / [Discord](https://discord.com/invite/cookie)
 * [The Monolith](http://monolith.greenpixel.ca/) - Incremental RPG
 * [BitBurner](https://danielyxie.github.io/bitburner/) - Incremental RPG
 * [Particle Clicker](https://particle-clicker.web.cern.ch/) - Incremental Particle Physics Games
@@ -1329,7 +1332,7 @@
 
 * ⭐ **[skribbl](https://skribbl.io/)**, [Sketchful](https://sketchful.io/), [Drawize](https://www.drawize.com/), [Pictioner](https://www.pictioner.com/) or [Gartic](https://gartic.io/) - Drawing / Guessing Game / Multiplayer
 * ⭐ **[GuessTheGame](https://guessthe.game/)** - Game Guessing Game
-* ⭐ **[Globle](https://globle-game.com/)**, [City Guesser](https://virtualvacation.us/guess), [Quizzity](https://david-peter.de/quizzity/), [Where Am I?](https://whereami.io/) or [Geotastic](https://geotastic.de/) - Location Guessing Gam
+* ⭐ **[Globle](https://globle-game.com/)**, [OpenGuessr](https://openguessr.netlify.app/), [City Guesser](https://virtualvacation.us/guess), [Quizzity](https://david-peter.de/quizzity/), [Where Am I?](https://whereami.io/) or [Geotastic](https://geotastic.de/) - Location Guessing Games
 * [GeoTips](https://geotips.net/) / [Discord](https://discord.gg/svhWzU7FMa) or [Top Tricks](https://somerandomstuff1.wordpress.com/2019/02/08/geoguessr-the-top-tips-tricks-and-techniques/) - GeoGuessr Guides
 * [Akinator](https://en.akinator.com/) - 20 Questions
 * [ChatGuessr](https://chatguessr.com/) - GeoGuessr for Twitch

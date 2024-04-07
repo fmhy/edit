@@ -128,7 +128,7 @@
 * [QuillBot](https://quillbot.com/grammar-check)
 * [DeepL Write](https://www.deepl.com/write)
 * [LanguageTool](https://languagetool.org/)
-*  [Scribens](https://www.scribens.com/)
+* [Scribens](https://www.scribens.com/)
 
 ***
 
@@ -215,6 +215,8 @@
 * ⭐ **[Notepad++](https://notepad-plus-plus.org/)** / [Markdown](https://nea.github.io/MarkdownViewerPlusPlus/)
 * ⭐ **[Microsoft Office](https://gravesoft.dev/download_windows_office/office_c2r_links/)**, [Office Tool](https://github.com/YerongAI/Office-Tool), [Custom Office](https://gravesoft.dev/download_windows_office/office_c2r_custom/), [LibreOffice](https://www.libreoffice.org/) or [Calligra](https://calligra.org/) - Office Suites
 * ⭐ **Microsoft Office Tools** - [Guide](https://redd.it/1814gmp) / [Activation](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/system-tools#wiki_.25B7_windows_activation) / [Hot Keys](https://i.ibb.co/0m9t95b/ebacd47bf83b.png) / [File Search](https://sourceforge.net/projects/office-search/)
+* ⭐ **[Obsidian](https://obsidian.md/)**
+* ⭐ **Obsidian Tools** - [Resources](https://github.com/kmaasrud/awesome-obsidian) / [Share Notes](https://noteshare.space/) / [Live Sync](https://github.com/vrtmrz/obsidian-livesync) / [Backup](https://github.com/denolehov/obsidian-git) / [ChatGPT Addon](https://github.com/logancyang/obsidian-copilot), [2](https://github.com/vasilecampeanu/obsidian-weaver)
 * ⭐ **[Notion](https://www.notion.so/)**
 * ⭐ **Notion Tools** - [Themes](https://notionthemes.yudax.me/) / [Templates](https://notionpages.com/) / [Resources](https://www.notioneverything.com/notion-world), [2](https://chief-ease-8ab.notion.site/List-of-200-Notion-Resources-e1b46cd365094265bd47b8a2b25bb41e) / [Guide](https://easlo.notion.site/Notion-Beginner-to-Advanced-8a492960b049433289c4a8d362204d20)
 * ⭐ **[Note Garden](https://notegarden.web.app/)**, [2](https://notegarden.io/) - Note-Taking / Auto Courses
@@ -229,6 +231,7 @@
 * [MicroPad](https://getmicropad.com/)
 * [Xed](https://github.com/linuxmint/xed)
 * [Flotes](https://flotes.app/)
+* [Standard Notes](https://standardnotes.com/)
 * [Notes](https://www.get-notes.com/)
 * [Left](https://hundredrabbits.itch.io/left) / [GitHub](https://github.com/hundredrabbits/Left)
 * [BeefText](https://beeftext.org/)
@@ -285,9 +288,7 @@
 
 ## ▷ Mind Mapping
 
-* ⭐ **[Obsidian](https://obsidian.md/)**
-* ⭐ **Obsidian Tools** - [Resources](https://github.com/kmaasrud/awesome-obsidian) / [Share Notes](https://noteshare.space/) / [Live Sync](https://github.com/vrtmrz/obsidian-livesync) / [Backup](https://github.com/denolehov/obsidian-git) / [ChatGPT Addon](https://github.com/logancyang/obsidian-copilot), [2](https://github.com/vasilecampeanu/obsidian-weaver)
-* ⭐ **[canvas](https://obsidian.md/canvas)**
+* ⭐ **[Obsidian Canvas](https://obsidian.md/canvas)**
 * [MindMup](https://www.mindmup.com/)
 * [FreeMind](https://freemind.sourceforge.net/)
 * [Kinopio](https://kinopio.club/)

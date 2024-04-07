@@ -55,7 +55,8 @@
 * ⭐ **[Oobabooga Text Generation WebUI](https://github.com/oobabooga/text-generation-webui)** - Self-Host Models / [Colab](https://colab.research.google.com/github/pcrii/Philo-Colab-Collection/blob/main/4bit_TextGen_Gdrive.ipynb)
 * ⭐ **[Aphrodite Engine](https://github.com/PygmalionAI/aphrodite-engine)** - Serve LLMs at Scale with Kobold & OpenAI APIs / [Colab](https://colab.research.google.com/github/AlpinDale/misc-scripts/blob/main/Aphrodite.ipynb)
 * [LLaVA](https://llava.hliu.cc/) - Chatbot with Image Support
-* [Petals](https://petals.dev/) - Self-Hosted 
+* [Petals](https://petals.dev/) - Self-Hosted
+* [Mistral]https://chat.mistral.ai/chat) - Self-Hosted
 * [Ollama](https://ollama.ai/) - Self-Hosted
 * [LMStudio](https://lmstudio.ai/) - Self-Hosted
 * [GPT4All](https://gpt4all.io/) - Self-Hosted / [Github](https://github.com/nomic-ai/gpt4all) / [Discord](https://discord.com/invite/mGZE39AS3e)
@@ -86,6 +87,35 @@
 * [TavernAI](https://tavernai.net/) - Roleplaying / Adventure Chatbot
 * [Broken Bear](https://www.brokenbear.com/) - Vent to AI Bear
 * [Kajiwoto](https://kajiwoto.ai/), [Miku](https://docs.miku.gg/) / [Discord](https://discord.gg/3XPdpUdGgV) or [Agnai](https://agnai.chat/) - Chatbot Builders
+
+***
+
+## ▷ Coding AIs
+
+* 🌐 **[EvalPlus Leaderboard](https://evalplus.github.io/leaderboard.html)** or [BigCode](https://huggingface.co/spaces/bigcode/bigcode-models-leaderboard) - Coding AI Leaderboards
+* ⭐ **[Pieces](https://pieces.app/) / [Docs](https://docs.pieces.app)** - Multi-LLM Coding AI / GPT4 for Free
+* [Cursor](https://cursor.sh/) - Coding AI
+* [Codeium](https://codeium.com/) - Coding AI
+* [Copilot](https://github.com/features/copilot) - Coding AI / Free Student Plan
+* [tabnine](https://www.tabnine.com/) - Coding AI
+* [ImageCook](https://imgcook.com) / [GitHub](https://github.com/imgcook/imgcook) - Coding AI
+* [CodeWhisperer](https://aws.amazon.com/codewhisperer/) - Coding AI
+* [Telosys](https://www.telosys.org/) - Coding AI
+* [WDTCD?](https://whatdoesthiscodedo.com/) - Coding AI
+* [Sourcery](https://sourcery.ai/) - Coding AI
+* [Devv](https://devv.ai/) - Coding AI
+* [Cody](https://about.sourcegraph.com/cody) - Coding AI
+* [CodiumAI](https://www.codium.ai/) - Coding AI
+* [continue](https://continue.dev/) - Coding AI
+* [Bito AI](https://bito.ai/) - Coding AI
+* [Blackbox](https://www.blackbox.ai/) - Coding AI
+* [CollectivAI](https://chat.collectivai.com/) - Coding AI
+* [Denigma](https://denigma.app/#demo) - Coding AI
+* [Codacy](https://www.codacy.com/) or [AI Code Review](https://ai-code-reviewer.com/) - Code Fixing AIs
+* [v0](https://v0.dev/) - Text to Site Code
+* [AI Code Translator](https://ai-code-translator.vercel.app/), [AI Code Convert](https://aicodeconvert.com/) or [Source Code Converters](https://www.tangiblesoftwaresolutions.com/) - AI Code Converters
+* [GPT Engineer](https://github.com/AntonOsika/gpt-engineer) - AI Code Generator
+* [Gorilla](https://gorilla.cs.berkeley.edu/) - API to Code LLM
 
 ***
 
@@ -153,7 +183,7 @@
 * [AI Tools](https://aitools.fyi/) - AI Directory
 * [FutureTools](https://www.futuretools.io/?pricing-model=free) - AI Directory
 * [ArtificialStudio](https://www.artificialstudio.ai/tools) - Multi-Tool Browser AI
-* [Google Labs](https://labs.google/) - AI Experiments
+* [Google Labs](https://labs.google/) or [AI Test Kitchen](https://aitestkitchen.withgoogle.com/) - Google AI Experiments
 
 ***
 ***
@@ -179,10 +209,6 @@
 ***
 
 ## ▷ [Grammar Check](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools#wiki_.25B7_grammar_check)
-
-***
-
-## ▷ [Coding AIs](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/dev-tools#wiki_.25B7_coding_ais)
 
 ***
 ***

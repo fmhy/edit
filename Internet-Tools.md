@@ -347,10 +347,10 @@
 ## ▷ Email Tools
 
 * 🌐 **[Email Providers](https://en.wikipedia.org/wiki/Comparison_of_webmail_providers)** - Provider Comparisons
+* ↪️ **[Email Privacy](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25B7_email_privacy)**
 * ↪️ **[Email Clients](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_email_clients)**
 * ↪️ **[Temp Emails](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_temp_email_sites)**
 * ↪️ **[Anon Emails](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_send_anonymous_emails)**
-* ↪️ **[Email Aliasing / Forwarding](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_email_aliasing)**
 * ⭐ **[cock.li](https://cock.li/)** - Simple Email Service
 * ⭐ **[InboxReads](https://inboxreads.co/)** or [Readsom](https://readsom.com/) - Email Newsletter Archive
 * [Delta Chat](https://delta.chat/en/) - Email Based Messenger
@@ -408,7 +408,7 @@
 
 # ► Browser Tools
 
-* 🌐 **[Browser Comparisons](https://avoidthehack.com/util/browser-comparison)**
+* 🌐 **[Browser Comparisons](https://privacytests.org/)**, [2](https://avoidthehack.com/util/browser-comparison)
 * ↪️ **[Browser Privacy Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25BA_web_privacy)**
 * ⭐ **[BrowserBench](https://browserbench.org/)** or [WPT](https://wpt.fyi) - Browser Benchmark Tests
 * ⭐ **[Firefox Keyboard Shortcuts](https://support.mozilla.org/en-US/kb/keyboard-shortcuts-perform-firefox-tasks-quickly)** 
@@ -421,8 +421,7 @@
 * [woob](https://woob.tech/) - Use Sites Without a Browser
 * [Browser.lol](https://browser.lol/) or [Browserling](https://www.browserling.com/) - Browser Emulators
 * [NYXT](https://nyxt.atlas.engineer/ ) - Information Extraction Browser
-* [Gemini Clients](https://geminiprotocol.net/clients.html), [Lagrange](https://gmi.skyjake.fi/lagrange/) or [Amfora](https://github.com/makew0rld/amfora) - Gemini Browsers
-* [Gemini Software](https://gemini.circumlunar.space/software/) - Tools & Software for Gemini
+* [Lagrange](https://gmi.skyjake.fi/lagrange/) or [Amfora](https://github.com/makew0rld/amfora) - Gemini Browsers
 * [Gemini Portal](https://portal.mozz.us/gemini/gemini.circumlunar.space/), [2](https://yesterweb.org/gemini) - Gemini to https Web Proxy Service
 * [Rambox](https://rambox.app/), [Kera](https://desktop.kerahq.com/) or [Tangram](https://github.com/sonnyp/Tangram) - Web App Browsers
 * [Chrome Theme Studio](https://chrometheme.studio/) - Create Chrome Theme

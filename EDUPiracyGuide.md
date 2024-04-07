@@ -56,6 +56,7 @@
 * [Hillsdale College](https://online.hillsdale.edu/) - Courses
 * [SelfSchool](https://selfschool.me/) - Courses
 * [Cursa](https://cursa.app/) - Courses
+* [OpenHPI](https://open.hpi.de/) - Courses
 * [Academic Earth](https://academicearth.org/) - Courses
 * [Yale.edu](https://oyc.yale.edu/) - Courses
 * [Stepik](https://stepik.org/) - Courses

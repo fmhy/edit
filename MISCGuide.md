@@ -449,7 +449,6 @@
 * [Coping Skills Masterlist](https://docs.google.com/document/d/1KI1kzj6Bjx_O3ggYXfgEuTtOsLiCW0V-JeWpTyX5OOU/) - Mental Health Coping Skills
 * [Zen Habits](https://zenhabits.net/) - Develop Zen Habits
 * [Medito](https://github.com/meditohq/medito-app) or [Heartfulness](https://www.heartfulnessapp.org/) - Meditation App
-* [7 Cups](https://www.7cups.com/) - Free Counseling & Therapy
 * [Balance](https://balance.dvy.io/) - Challenge Anxious Thoughts w/ AI
 * [Plees Tracker](https://github.com/vmiklos/plees-tracker) - Sleep Tracker
 
@@ -816,6 +815,7 @@
 * [Shucks](https://shucks.top/) - External Drive Price Tracker
 * [/r/SuggestALaptop](https://reddit.com/r/SuggestALaptop), [Jarrod's Tech](https://jarrods.tech/resources/) or [Noteb](https://noteb.com/) - Laptop Suggestions / [Discord](https://discord.gg/pes68JM)
 * [Laptop Wiki](https://laptopwiki.eu/) - Laptop Info Database
+* [EveryMac](https://everymac.com/) - Mac Info Database
 * [EloShapes](https://www.eloshapes.com/), [Sensor.fyi](https://sensor.fyi/info/), [RocketJumpNinja](https://www.rocketjumpninja.com/) or [/r/MouseReview Wiki](https://www.reddit.com/r/MouseReview/wiki/index/) - Mouse Buying Guides
 * [Hackerboards](https://hackerboards.com/) - Single-Board Computer Comparisons
 * [Click Latencies](https://docs.google.com/spreadsheets/d/1-QI7-LY9Ul_DsVE4ZOqBQxqqqqrdJ04Ite8IY3AQMds/) - Mouse Click Latency Chart
@@ -824,7 +824,7 @@
 * [MechGroupBuys](https://www.mechgroupbuys.com/) - Group Mechanical Keyboard Buying / [Discord](https://discord.com/invite/mechgroupbuys) / [Reddit](https://www.reddit.com/r/MechGroupBuys/)
 * [PSU Tier List](https://cultists.network/140/psu-tier-list/) - PSU Buying Guide
 * [PC Monitors](https://pcmonitors.info/), [Monitor Hunter](https://docs.google.com/document/d/1illeNLsUfZ4KuJ9cIWKwTDUEXUVpplhUYHAiom-FaDo/), [DisplaySpecifications](https://www.displayspecifications.com/), [Monitor Spreadsheet](https://pastebin.com/tkmakRNW) or [DisplayNinja](https://www.displayninja.com/) - Monitor Buying Guides
-* [sven dpi](https://www.sven.de/dpi/) - Screen Size Comparisons
+* [sven dpi](https://www.sven.de/dpi/) or [Screensiz.es](https://screensiz.es/) - Screen / Monitor Size Comparisons
 * [Erin's Audio Corner](https://www.erinsaudiocorner.com/), [Speakerzilla](https://speakerzilla.com/) or [Equipboard](https://equipboard.com/) - Audio Equipment Comparisons
 * [InStockAlert_DataLover](https://discord.gg/jd6KaBUHG4) or [Fixitfixitfixit](https://discord.gg/gpu) - GPU / Xbox / PS5 Drop Notifications / [Guide](https://youtu.be/2cBRW9FeQ3A)
 * [PhoneDB](https://phonedb.net/), [GSMChoice](https://www.gsmchoice.com/en/), [Kimovil](https://www.kimovil.com/en/) or [GSMArena](https://www.gsmarena.com/) - Compare Phones / Prices
@@ -950,6 +950,7 @@
 * [ManicTime](https://www.manictime.com/) - Device / App Time Tracker
 * [Bytetrack](https://bytetrack-app.bytebeacon.com/) - Online Activity Tracker
 * [Furtherance](https://github.com/lakoliu/Furtherance) - Time Tracker
+* [VisualizeHabit](https://visualizehabit.com/) - Habit Tracking
 * [Pro Modoro](https://pro-modoro.xyz/) / [2](https://pomofocus.io/) - Time Tracker / Break Reminders
 * [wnr](https://getwnr.com/) - Time Tracker / Break Reminders
 * [BreakTimer](https://breaktimer.app/) - Break Reminders

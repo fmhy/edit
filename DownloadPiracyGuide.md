@@ -258,7 +258,6 @@
 * [abnzb](https://www.abnzb.com/)
 * [NZB Index](https://www.nzbindex.com/), [2](https://www.nzbindex.nl/)
 * [Newznab](https://www.newznab.com/)
-* [NZBGrabit](https://www.nzbgrabit.xyz/)
 * [NZBStars](https://nzbstars.com/)
 * [GingaDaddy](https://www.gingadaddy.com/)
 * [NZBFinder](https://nzbfinder.ws/)

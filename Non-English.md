@@ -334,8 +334,6 @@
 * [Ciné-Bis-Art](https://humungus-cinebisart.blogspot.com/) - Movies
 * [Warning Zone](https://stalkerjany.blogspot.com/) - Movies  
 * [mega-p2p](https://www.mega-p2p.net/) - Warez Lists
-* [FilesSeekr](https://w7w.files-seekr.com/) - Search Warez Sites
-* [WawaCity](https://www.wawacity.nl/) - Video / Audio / Books / Games / Use Adblocker
 * [FRDownMags](https://fr.downmagaz.net/) - Magazines
 * [French EPs](https://patsouloldies.blogspot.com/) - Classic French Music MP3 (192)
 * [Abandonware France](https://www.abandonware-france.org/index.php) - Abandonware
@@ -375,7 +373,6 @@
 * [animeko](https://animeko.co/) - Anime / Sub / 1080p
 * [anime-sama](https://anime-sama.fr/) - Anime / Sub / 1080p
 * [VoirCartoon](https://voircartoon.com/) - Cartoons / Dub / 720p
-* [33rapmp3](https://www.33rapmp3.cc/) - Rap
 * [Lesics](https://youtube.com/@LesicsFR) - Engineering Courses
 
 ## ▷ Reading
@@ -536,6 +533,7 @@
 * ⭐ **[MkvCinemas](https://mkvcinemas.rsvp/)** - Movies / TV / Anime / Sub / Dub / 1080p / 4K / [Telegram](https://t.me/+WzLYNDSawQk1MTk1)
 * ⭐ **[MoviesMod](https://moviesmod.zip/)** - Movies / TV / Sub / Dub / 1080p / [Telegram](https://telegram.dog/moviesmodorg) / [Bypass](https://greasyfork.org/en/scripts/474747)
 * ⭐ **[Filmycity](https://filmycity.beauty/)** - Movies / TV / Anime / 1080p
+* ⭐ **[SD Toons](https://sdtoons.in)** - Movies / TV / Anime / 1080p
 * ⭐ **[AToZ Cartoonist](https://www.atozcartoonist.com/)** - Cartoons / Anime / Sub / Dub / 1080p / [Discord](https://discord.com/invite/EpQn49C4jX) / [Link Bypasser](https://greasyfork.org/en/scripts/484907)
 * ⭐ **[ToonsHub](https://www.toonshub.xyz/)** - Anime / Dub / 1080p / [Telegram](https://t.me/s/toonshubupdates) / [Discord](https://discord.com/invite/2mPFKykW4j)
 * ⭐ **[Free Lossless Desi Music](https://hindi-lossless.blogspot.com/)** - Music / FLAC
@@ -1556,7 +1554,6 @@
 * [Manuales de instrucciones](https://www.manualpdf.es/) - Manuals
 * [SciELO Chile](https://scielo.conicyt.cl/) - Scientific Journals
 * [albalearning](https://albalearning.com/) - Audiobooks
-* [mangadoor](https://mangadoor.com/) - Manga
 * [TuMangaOnline](https://visortmo.com/) - Manga
 * [Lector TMO](https://lectortmo.org/) - Manga
 * [Manga en Español](https://t.me/manga_es) - Manga

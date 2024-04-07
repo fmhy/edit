@@ -98,7 +98,7 @@
 
 ## ▷ Terminal / CLI
 
-* 🌐 **[terminals-are-sexy](https://github.com/k4m4/terminals-are-sexy)** - Terminal Resources
+* 🌐 **[terminals-are-sexy](https://terminalsare.sexy/)** - Terminal Resources
 * 🌐 **[awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps)** or [command-line-tools](https://github.com/learn-anything/command-line-tools) - Command Line Resources
 * ⭐ **[Clink](https://github.com/chrisant996/clink)** - Command Line Editing
 * ⭐ **[ss64](https://ss64.com/)** - Command Line Reference Index
@@ -268,7 +268,7 @@
 * 🌐 **[Awesome DataHoarding](https://github.com/simon987/awesome-datahoarding)** - DataHoarding Resources
 * ⭐ **[WizTree](https://www.diskanalyzer.com/)** - Disk Usage Analyzer
 * ⭐ **[CrystalDiskMark](https://crystalmark.info/en/software/crystaldiskmark/)** or [CCISOBench](https://ccsiobench.com/) - Disk Benchmarking Tools
-* ⭐ **[GParted](https://gparted.org/)**, [Rescuezilla](https://rescuezilla.com/), [CloneZilla](https://clonezilla.org/) or [AOMEI](https://www.diskpart.com/) - Partition Managers
+* ⭐ **[GParted](https://gparted.org/)**, [Rescuezilla](https://rescuezilla.com/), [CloneZilla](https://clonezilla.org/), [Partition Wizard](https://www.partitionwizard.com/) or [AOMEI](https://www.diskpart.com/) - Partition Managers
 * ⭐ **[Validrive](https://www.grc.com/validrive.htm)** - Check True Storage Size of USB Devices
 * [TrueNAS](https://www.truenas.com/) - Storage System
 * [QDirStat](https://github.com/shundhammer/qdirstat) - Directory Statistics
@@ -296,7 +296,8 @@
 * [LittleBigMouse](https://github.com/mgth/LittleBigMouse) - DPI Test
 * [Scalizer](https://github.com/wonmor/Scalizer-Windows) - Auto DPI Scaling / [YouTube](https://youtu.be/f_3XWlmyat4)
 * [ICM](https://rentry.co/ICM) or [ICC Profiles](https://tftcentral.co.uk/articles/icc_profiles) - ICC Profiles and Monitor Calibration
-* [Dimmer](https://www.nelsonpires.com/software/dimmer) or [Monitorian](https://github.com/emoacht/Monitorian) - Multi-Monitor Brightness Control
+* [Multi-Monitor Calculator](https://multimonitorcalculator.com/) - Dual-Monitor Setup Planning / Tests
+* [Dimmer](https://www.nelsonpires.com/software/dimmer) or [Monitorian](https://github.com/emoacht/Monitorian) - Dual-Monitor Brightness Control
 * [Twinkle Tray](https://twinkletray.com/) - System Tray Brightness Slider
 * [Wide Gamut](https://www.wide-gamut.com/) - Color Compatibility Test
 * [WhiteScreen](https://www.whitescreen.online/) - Screen Color Test
@@ -351,6 +352,7 @@
 * [CloverBootloader](https://github.com/CloverHackyColor/CloverBootloader/) or [EasyBCD](https://neosmart.net/EasyBCD/) - Bootloaders / [Config](https://mackie100projects.altervista.org/)
 * [balenaEtcher](https://etcher.balena.io/) - Flash OS Image SD / USB / Non-Windows OS
 * [Hiren’s BootCD PE](https://www.hirensbootcd.org/) or [Win10XPE](https://github.com/ChrisRfr/Win10XPE) - Preinstallation Environments
+* [CoolStar](https://coolstar.org/chromebook/windows-install.html) - Install Windows on Chromebook
 
 ***
 
@@ -466,6 +468,7 @@
 * [MicaForEveryone](https://github.com/MicaForEveryone/MicaForEveryone) - System Backdrop Customization
 * [TranslucentFlyouts](https://github.com/ALTaleX531/TranslucentFlyouts) - Translucent Context Menus
 * [TranslucentTB](https://github.com/TranslucentTB/TranslucentTB) - Translucent Windows Taskbar
+* [ExplorerBlurMica](https://github.com/Maplespe/ExplorerBlurMica) - Blur / Acrylic Effect for File Explorer
 * [RetroBar](https://github.com/dremin/RetroBar) - Retro Classic Taskbars
 * [StartAllBack](https://www.startallback.com/) - Restore Classic Start Menu in Windows 11
 * [Win98Icons](https://win98icons.alexmeub.com/) - Classic Win98 Icons

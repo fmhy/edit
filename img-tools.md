@@ -594,7 +594,7 @@
 * [APNG Maker](https://rukario.github.io/Schande/Uninteresting%20stuff/APNG%20Maker.html) - Create / Optimize APNG Images
 * [JPEGMedic ARWE](https://www.jpegmedic.com/tools/jpegmedic-arwe/) - Recover Ransomware-Encrypted Images
 * [CamScanner](https://apps.apple.com/us/app/camscanner-pdf-scanner-app/id388627783) or [Microsoft Lens](https://apps.apple.com/us/app/microsoft-lens-pdf-scanner/id975925059) - Scan & Digitize Documents / iOS
-* [Swapper](https://icons8.com/swapper) or [FaceFusion](https://github.com/facefusion/facefusion) - Face Swapping
+* [Swapface](https://swapface.org/) / [Discord](https://discord.com/invite/5yPew6Cy6a), [Swapper](https://icons8.com/swapper) or [FaceFusion](https://github.com/facefusion/facefusion) - Face Swapping
 * [WiseTagger](https://github.com/0xb8/WiseTagger) - Image Tagger
 * [BooruDatasetTagManager](https://github.com/starik222/BooruDatasetTagManager) - Booru Image Tagger
 * [Cluttr](https://gitlab.com/bearjaws/cluttr) - Automatically Organize & Tag Photos
@@ -725,15 +725,15 @@
 
 ## ▷ Palette Generators
 
-* ⭐ **[supercolorpalette](https://supercolorpalette.com/)** - Color Palette Generator
-* [ColorSpace](https://mycolor.space/) - Generate Gradient Color Palettes
-* [ColorsWall](https://colorswall.com/) or [ColorKit](https://colorkit.co/color-palette-generator/) - Generate Random Color Palettes
+* ⭐ **[Color Designer](https://colordesigner.io/gradient-generator)**, [Super Color Palette](https://supercolorpalette.com/) - Color Palette Generator
+* [Color Space](https://mycolor.space/) - Generate Gradient Color Palettes
+* [Colors Wall](https://colorswall.com/) or [ColorKit](https://colorkit.co/color-palette-generator/) - Generate Random Color Palettes
 * [Color Palette Generator](https://www.degraeve.com/color-palette) or [Color Picker](https://imagecolorpicker.com/) - Generate Color Palettes from Images
-* [ColorKit](https://colorkit.io/) - Generate Color Palettes by Mixing 2 Colors
+* [Color Kit](https://colorkit.io/) - Generate Color Palettes by Mixing 2 Colors
 * [Pigment](https://pigment.shapefactory.co/), [Eva Design System](https://colors.eva.design/), [Scale](https://hihayk.github.io/scale/), [copypalette](https://copypalette.app/) or [Huey](https://huey.design/) - Simple Color Palette Generators
 * [ColorBox](https://colorbox.io/), [hue.tools](https://hue.tools/), [Randoma11y](https://randoma11y.com/), [accessiblepalette](https://accessiblepalette.com/) or [colorcolor](https://colorcolor.in/) - Advanced Color Palette Generators
-* [goodpalette](https://goodpalette.io/), [Huemint](https://huemint.com/), [AI Colors](https://aicolors.co/) or [PaletteMaker](https://palettemaker.com/) - Generate UI Color Palettes
-* [couleur.io](https://couleur.io/) - CSS Color Palettes Generator
+* [Good Palette](https://goodpalette.io/), [Huemint](https://huemint.com/), [AI Colors](https://aicolors.co/) or [PaletteMaker](https://palettemaker.com/) - Generate UI Color Palettes
+* [Couleur.io](https://couleur.io/) - CSS Color Palettes Generator
 * [UI Colors](https://uicolors.app/create) or [Tints](https://www.tints.dev/) - Tailwind CSS Color Generators
 * [Poolors](https://poolors.com/) - Generate Most / Least Used Color Palettes
 * [Cielab](https://cielab.io/) - Human Perception Color Tool

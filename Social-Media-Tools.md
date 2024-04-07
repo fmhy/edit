@@ -281,9 +281,12 @@
 
 ## ▷ Telegram Clients
 
-* ⭐ **[web.telegram](https://web.telegram.org/)** / [2](https://webk.telegram.org/) / [3](https://weba.telegram.org/)
-* ⭐ **[Unigram](https://github.com/UnigramDev/Unigram)**, [VideoGram](https://vidogram.org/), [AyuGram](https://github.com/AyuGram/AyuGramDesktop) or [TDesktop](https://github.com/Forkgram/tdesktop) / [x64](https://github.com/TDesktop-x64/tdesktop) / [Telegram](https://t.me/tg_x64) - Desktop Clients
+* ⭐ **[web.telegram](https://web.telegram.org/)** / [2](https://webk.telegram.org/) / [3](https://weba.telegram.org/) - Web Client
+* ⭐ **[Unigram](https://github.com/UnigramDev/Unigram)** - Desktop Client
 * ⭐ **[tg](https://github.com/paul-nameless/tg)** - Terminal Client
+[TDesktop](https://github.com/Forkgram/tdesktop) - Desktop Client / [x64](https://github.com/TDesktop-x64/tdesktop) / [Telegram](https://t.me/tg_x64)
+[VideoGram](https://vidogram.org/) - Desktop Client
+[AyuGram](https://github.com/AyuGram/AyuGramDesktop) - Desktop Client
 * [Pyrogram](https://docs.pyrogram.org/) / [Session Strings](https://t.me/SessionStringGeneratorZBot) - Telegram API Client
 * [Telega.el](https://github.com/zevlg/telega.el) - Telegram Emacs Client
 
@@ -405,6 +408,8 @@
 * [ytdlp-interface](https://github.com/ErrorFlynn/ytdlp-interface) - YT-DL GUI
 * [youtube-dl-gui](https://github.com/oleksis/youtube-dl-gui), [2](https://github.com/StefanLobbenmeier/youtube-dl-gui) - YT-DL GUI
 * [Videomass](https://jeanslack.github.io/Videomass/) - YT-DL / FFmpeg GUI
+* [Hitomi Downloader](https://github.com/KurtBestor/Hitomi-Downloader) - YT-DL GUI
+* [ytDownloader](https://ytdn.netlify.app/) - YT-DL GUI
 * [Cube YouTube Downloader](https://github.com/database64128/youtube-dl-wpf) - WPF YT-DL GUI
 * [metube](https://github.com/alexta69/metube) or [yt-dlp-web-ui](https://github.com/marcopeocchi/yt-dlp-web-ui) - Self-Hosted YT-DL WebUIs
 * [Poke](https://poketube.fun/download) - YouTube Downloader / [Discord](https://discord.gg/Kqdn8CHacP)
@@ -510,7 +515,7 @@
 * [TwitchQuotes](https://www.twitchquotes.com/) - Twitch Copypastas
 * [TwitchEmotes](https://twitchemotes.com/) - Global Twitch Emotes
 * [TwitchInsights](https://twitchinsights.net/), [StreamCharts](https://streamscharts.com/) or [TwitchTracker](https://twitchtracker.com/) - Twitch Stats
-* [Trovo](https://trovo.live/), [Glimesh](https://glimesh.tv/), [Kick](https://kick.com/), [dlive](https://dlive.tv/), [Caffeine](https://www.caffeine.tv/), [Lightspeed](https://lightspeed.tv/) or [Theta](https://www.theta.tv/) - Twitch Alternatives
+* [Trovo](https://trovo.live/), [Kick](https://kick.com/), [dlive](https://dlive.tv/), [Caffeine](https://www.caffeine.tv/), [Lightspeed](https://lightspeed.tv/) or [Theta](https://www.theta.tv/) - Twitch Alternatives
 * [Ultrawidify](https://github.com/tamius-han/ultrawidify) - Fix Twitch Aspect Ratio
 
 ***
@@ -567,6 +572,7 @@
 * [memory.lol](https://github.com/travisbrown/memory.lol/) - Twitter Account Archive
 * [Twitter Archive Parser](https://github.com/timhutton/twitter-archive-parser) - Tweet Archiving
 * [Twayback Machine](https://staringispolite.github.io/twayback-machine/) - View Users' Old Tweets
+* [Scoutzen](https://www.scoutzen.com/twitter-lists/search) - Search Twitter Use Lists
 * [Hoaxy](https://hoaxy.osome.iu.edu/) - Twitter Info Spread Data
 * [tinfoleak](https://tinfoleak.com/) - View Your Geosocial Footprint 
 * [Unfollow All](https://chromewebstore.google.com/detail/twitter-unfollow-all/mgehkbclkipppdjiemnhmnledicalkld) - Twitter Unfollower
