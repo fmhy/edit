@@ -274,7 +274,7 @@
 * [tny.im](https://tny.im) - `tny.im/rw-`
 * [ai6.net](https://ai6.net/) - `ai6.net/nm3tyz`
 * [SmartLinks](https://smartlnks.com/) - `smartlnks.com/Vjr0m`
-* [Emojied](https://emojied.net/) - `emojied.net/😷😐🙁😀🙎😮`
+* [Emojied](https://emojied.net/), [vi8hl0c](https://xn--vi8hl0c.ws/ or [kn8h](https://xn--kn8h.to/)
 * [offf.to](https://offf.to/) - Short Links via Browser
 * [ShortShare](https://shortshare.app/) - Short Link App
 * [BR3F](https://www.br3f.com/) - Temporary Short Links
@@ -334,7 +334,7 @@
 * [VideoMail](https://www.videomail.io/) - Webcam to Email Tool
 * [VCam](https://www.xsplit.com/vcam) - Remove Webcam Background
 * [NVIDIA BROADCAST](https://www.nvidia.com/en-us/geforce/broadcasting/broadcast-app/), [Mini Video Me](https://github.com/maykbrito/mini-video-me) or [Webcamoid](https://webcamoid.github.io/) - Webcam Managers
-* [MiroTalk](https://mirotalk.up.railway.app/) - Video Chat
+* [MiroTalk](https://mirotalk.up.railway.app/) or [MiroTalk SFU](https://sfu.mirotalk.com/) - Video Chat
 * [Videolink2me](https://videolink2me.com/) - Video Chat
 * [TinyChat](https://tinychat.com/) - Video Chat
 * [Noysi Meet](https://meet.noysi.com/) - Video Chat
