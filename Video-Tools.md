@@ -8,7 +8,7 @@
 
 * ⭐ **[PixVerse](https://pixverse.ai/)** / [Discord](https://discord.com/invite/MXHErdJHMg) or [Stable Diffusion Videos](https://github.com/nateraw/stable-diffusion-videos) - AI Video Generators
 * ⭐ **[Video2x](https://github.com/k4yt3x/video2x/)** or [Enhancr](https://github.com/mafiosnik777/enhancr) - Video Upscalers
-* ⭐ **[PlayPhrase](https://playphrase.me/)**, [ClipBase](https://clipbase.xyz/), [Filmot](https://filmot.com/) or [Yarn](https://yarn.co/) / [2](https://getyarn.io/) - Internet Clip Quote Search
+* ⭐ **[PlayPhrase](https://playphrase.me/)**,  [clip.cafe](https://clip.cafe/), [ClipBase](https://clipbase.xyz/), [Filmot](https://filmot.com/) or [Yarn](https://yarn.co/) / [2](https://getyarn.io/) - Internet Clip Quote Search
 * [Synthesis Colab](https://github.com/camenduru/text-to-video-synthesis-colab), [text-to-video](https://text-to-video.vercel.app), [Text2Video-Zero](https://github.com/Picsart-AI-Research/Text2Video-Zero), [LensGo](https://lensgo.ai/), [Pika Labs](https://www.pika.art/) or [Damo](https://huggingface.co/spaces/damo-vilab/modelscope-text-to-video-synthesis) - Text to Video AIs
 * [Rollideo](https://rollideo.com/) - Text to Subbed Video
 * [Video Llava](https://replicate.com/nateraw/video-llava) - Video Description AI
@@ -298,6 +298,7 @@
 * ⭐ **[cobalt](https://cobalt.tools/)** - Multi-Site
 * ⭐ **[9xbuddy](https://9xbuddy.com/)**, [2](https://9xbuddy.online/) or [3](https://9xbuddy.in/) - Multi-Site
 * ⭐ **[Lux](https://github.com/iawia002/lux)** - Multi-Site
+* [VideoHelp DDL](https://forum.videohelp.com/forums/48-Video-Streaming-Downloading) - Video Downloading Forums
 * [CD(R)M-Project](https://discord.gg/SYyvPxVyyW) - StreamFab Downloader
 * [TubeOffline](https://www.tubeoffline.com/) - Multi-Site
 * [VideoFK](https://www.videofk.com/) - Multi-Site
