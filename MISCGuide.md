@@ -880,6 +880,7 @@
 # ► Useful Sites
 
 * ↪️ **[Multi-Tool Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_multi_tool_sites)**
+* ↪️ **[Manual Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/reading#wiki_.25B7_manuals)** - Repair Articles / Manuals
 * ↪️ **[Mind Mapping](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools#wiki_.25B7_mind_mapping)**
 * ↪️ **[Collaboration Platforms](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_collaboration_platforms)**
 * ↪️ **[Presentation Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_presentation_tools)**
@@ -888,7 +889,6 @@
 * ↪️ **[Random Generators](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_random_generators)**
 * ⭐ **[MiXLab](https://github.com/shirooo39/MiXLab)** - Multi-Tool Google Colab / Use Throwaways
 * ⭐ **[Versus](https://versus.com/)**, [SocialCompare](https://socialcompare.com/en) or [Diffen](https://www.diffen.com/) - Compare Anything
-* ⭐ **[Manual Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/reading#wiki_.25B7_manual_sites)** - Repair Articles / Manuals
 * ⭐ **[endoflife.date](https://endoflife.date/)** - Tools & Technologies' End of life Index
 * ⭐ **[USPS Shipping Supplies](https://store.usps.com/store/results/free-shipping-supplies/_/N-alnx4j)** - Free Shipping Supplies
 * ⭐ **[TurboTaxSucksAss](https://turbotaxsucksass.org/)**, [US Taxes](https://ustaxes.org/) or [FreeTaxUSA](https://www.freetaxusa.com/) - File Taxes for Free / [Get Pin](https://youtu.be/iPw8I-cZ1eY) / [Form Calc](https://opentaxsolver.sourceforge.net/)
