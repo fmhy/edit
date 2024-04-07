@@ -20,7 +20,7 @@
 
 * ⭐ **[Microsoft Copilot](https://copilot.microsoft.com)** - GPT-4/3.5 Powered Search / [SydneyQT Jailbreak](https://github.com/juzeon/SydneyQt)
 * ⭐ **[wrtn](https://wrtn.ai/)** - GPT-4 Chatbot / [Android](https://play.google.com/store/apps/details?id=com.wrtn.app) / [iOS](https://apps.apple.com/us/app/%EB%A4%BC%ED%8A%BC-%EB%AA%A8%EB%91%90%EB%A5%BC-%EC%9C%84%ED%95%9C-ai-%ED%8F%AC%ED%84%B8/id6448556170) (ask for english)
-* ⭐ **[Gemini](https://gemini.google.com/)** or [Gemma](https://github.com/google/gemma.cpp) - Google's Chatbot
+* ⭐ **[Gemini](https://gemini.google.com/)** or [Gemma](https://github.com/google/gemma.cpp), [2](https://ai.google.dev/gemma/) - Google's Chatbot
 * ⭐ **[Claude](https://claude.ai/)** - Anthropic's Chatbot
 * ⭐ **[Perplexity](https://www.perplexity.ai/)** - GPT-3.5 Powered Search / [Open Source Models](https://labs.perplexity.ai/)
 * ⭐ **[LMSYS Chat](https://chat.lmsys.org/)** - Chat and Compare Multiple Chatbots
@@ -78,6 +78,7 @@
 * [LLaMA + SillyTavern](https://rentry.org/llama_v2_sillytavern) - LLaMA + SillyTavern Roleplaying Setup Guide
 * [KoboldAI](https://github.com/henk717/KoboldAI) - GUI for Roleplaying Chatbots / [Web App](https://lite.koboldai.net/)
 * [GPT Call](https://gptcall.net/) - Roleplaying Chatbots / [Discord](https://discord.gg/88fQT5Bgfe)
+* [Figgs](https://www.figgs.ai/) - Roleplaying Chatbots
 * [Dreamshow](https://dreamshow.ai/) - Roleplaying Chatbots
 * [Spicychat.ai](https://spicychat.ai/) - Roleplaying Chatbots
 * [Epigon](https://epigon.ai/) - Roleplaying Chatbots
@@ -384,13 +385,14 @@
 
 ## ▷ Voice Change / Clone
 
-* ⭐ **[Applio](https://github.com/IAHispano/Applio-RVC-Fork)** - Voice Cloning / [AI Hub's Documentation](https://docs.aihub.wtf/)
+* ⭐ **[Applio](https://github.com/IAHispano/Applio-RVC-Fork)** - Voice Cloning / [Discord](https://discord.com/invite/iahispano) / [Docs](https://docs.aihub.wtf/)
 * ⭐ **[weights.gg](https://www.weights.gg/) / [Discord](https://discord.gg/aihub)** - AI Voice Models and Guides
 * ⭐ **[RVC V2](https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI/blob/main/docs/en/README.en.md)** - RVC V2 Voice Cloning (locally)
 * ⭐ **[voice-changer](https://github.com/w-okada/voice-changer)** - Realtime Voice Changer (W-Okada) - [Guide](https://rentry.co/VoiceChangerGuide)
 * ⭐ **[Ilaria RVC](https://huggingface.co/spaces/TheStinger/Ilaria_RVC)** - RVC V2 Voice Cloning (Cloud/Colab) 
 * [Replay](https://www.tryreplay.io/) - RVC Desktop App 
 * [Bark w/ Voice Clone](https://huggingface.co/spaces/kevinwang676/Bark-with-Voice-Cloning) - Voice Cloning
+* [RVC_HFv2](https://huggingface.co/spaces/r3gm/RVC_HFv2) - Voice Cloning
 
 ***
 
