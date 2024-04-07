@@ -16085,7 +16085,7 @@ Linux Gaming Guide
 
 ## ▷ Open-Source Games
 
-* 🌐 **[Awesome Open Source Games](https://github.com/michelpereira/awesome-open-source-games)** or [LibreGameWiki](https://libregamewiki.org/List_of_games) - Open-Source Games
+* 🌐 **[OSGL](https://trilarion.github.io/opensourcegames/)**, [Awesome Open Source Games](https://github.com/michelpereira/awesome-open-source-games) or [LibreGameWiki](https://libregamewiki.org/List_of_games) - Open-Source Games
 * 🌐 **[Awesome Game Remakes](https://github.com/radek-sprta/awesome-game-remakes)** or [Game Clones](https://osgameclones.com/) - Open-Source Remakes
 * 🌐 **[Awesome Terminal Games](https://ligurio.github.io/awesome-ttygames/)** - ASCII Terminal Games
 * ⭐ **[OpenRCT2](https://openrct2.io/)**, [2](https://openrct2.org/) - Open-Source RollerCoaster Tycoon 2
@@ -16291,7 +16291,7 @@ Linux Gaming Guide
 * [NSP Forwarder](https://nsp-forwarder.n8.io/) - Switch NSP Forwarder
 * [DeepSea](https://github.com/Team-Neptune/DeepSea) - Switch CFW Package 
 * [WiiU Exploit](https://wiiuexploit.xyz/) or [ModMii](https://modmii.github.io/) - WiiU Homebrew Installer
-* [Pretendo](https://pretendo.network/) - WiiU / 3DS Network Replacement
+* [Pretendo](https://pretendo.network/) - WiiU / 3DS Network Replacement / [Discord](https://invite.gg/pretendo)
 * [/r/WiiUHacks](https://www.reddit.com/r/WiiUHacks/) - WiiU Homebrew Subreddit
 * [/r/WiiHacks](https://www.reddit.com/r/WiiHacks/) - Wii Homebrew Subreddit
 * [LetterBomb](https://please.hackmii.com/) or [str2hax](https://gbatemp.net/threads/a-channel-less-sd-less-entry-point-str2hax.523210/) - Wii Homebrew Installer / [Find MAC](https://en-americas-support.nintendo.com/app/products/detail/p/604)
@@ -16510,7 +16510,7 @@ Linux Gaming Guide
 * ⭐ **[ProSettings](https://prosettings.net/)**, [Share Gaming Tweaks](https://www.tenforums.com/gaming/117377-share-gaming-tweaks-chec-my-comprehensive-list-will-blow-your-mind.html), [SweetFX](https://sfx.thelazy.net/), [ENBSeries](http://enbdev.com) or [Use Gaming Tweaks](https://github.com/PrincessAkira/Use-Gaming-Tweaks) - Settings Optimization Guides
 * ⭐ **[DisplayMagician](https://displaymagician.littlebitbig.com/)** or [AutoActions](https://github.com/Codectory/AutoActions) - Per-Game Display Profiles
 * ⭐ **[Magpie](https://github.com/Blinue/Magpie)**, [ModPiracy_V6](https://www.reddit.com/r/ModPiracy_V6), [Vuenxx](https://discord.gg/ASZjqrjWYf) / [Note](https://pastebin.com/DyQh6K0Q) or [The Falcons](https://discord.gg/8fh5BXxcjY) - Free FSR 3 Mods / [Guide](https://rentry.co/fsr3-mod-guide)
-* [PC-Tuning](https://github.com/amitxv/PC-Tuning) / [Discord](https://discord.com/invite/yrAnChXXZw), [RagnoTech Optimization Catalog](https://ragnos1997.com/optimization-catalog/) or [TroubleChute](https://www.youtube.com/c/TroubleChute/featured) - Gaming Optimization Guides
+* [PC-Tuning](https://github.com/amitxv/PC-Tuning) / [Discord](https://discord.com/invite/dFHejVVq), [RagnoTech Optimization Catalog](https://ragnos1997.com/optimization-catalog/) or [TroubleChute](https://www.youtube.com/c/TroubleChute/featured) - Gaming Optimization Guides
 * [Calypto’s Latency Guide](https://docs.google.com/document/d/1c2-lUJq74wuYK1WrA_bIvgb89dUN0sj8-hO3vqmrau4/), [cancerogenoslab](https://sites.google.com/view/cancerogenoslab/) or [MikeMartin](https://www.mikemartin.co/) - FPS / Latency Guides
 * [OCAT](https://gpuopen.com/ocat/) / [GitHub](https://github.com/GPUOpen-Tools/ocat), [Rivatuner Statistics Server](https://www.guru3d.com/files-details/rtss-rivatuner-statistics-server-download.html), [CapFrameX](https://www.capframex.com/) or [Xbox Game Bar](https://rentry.co/WindowsFPS) - FPS Benchmarking
 * [SSTap](https://github.com/FQrabbit/SSTap-Rule) - Decrease Ping
@@ -16553,6 +16553,7 @@ Linux Gaming Guide
 * ⭐ **[Online Fix](https://online-fix.me/)** - Multiplayer Fix / [Discord](https://discord.gg/yExgFYncMD)
 * ⭐ **[TrackyServer](https://www.trackyserver.com/)** - Find Private Multiplayer Servers
 * ⭐ **[Find-PlayDate](https://www.find-playdate.com/)** - Find People to Play Games With
+* [Liquipedia](https://liquipedia.net/) - Competitve Gaming / Esports Wiki
 * [Playit.gg](https://playit.gg/) - Multiplayer Fix / [Discord](https://discord.gg/AXAbujx)
 * [zerotier](https://www.zerotier.com/) - Multiplayer Fix
 * [Radmin](https://www.radmin-vpn.com/) - Multiplayer Fix
@@ -16938,7 +16939,6 @@ Linux Gaming Guide
 * ⭐ **[Geode](https://geode-sdk.org/)** - Mod Menu & Modding Framework
 * ⭐ **[GDDP](https://gddp.pro/)** or [GD Demon Ladder](https://gdladder.com/) - Practice & Improve Your Skills
 * ⭐ **[GDMegaOverlay](https://github.com/maxnut/GDMegaOverlay)** - GD Mega Hack Alternative / [Discord](https://discord.com/invite/nbDjEg7SSU)
-* [3Dash](https://delugedrop.itch.io/3dash) / [Patched Server](https://3dash.mg95.dev/) - Best 3D Geometry Dash Game / [Mod Menu](https://github.com/cgytrus/ThreeDashTools) / [Demon List](https://3dashdl.pages.dev/#/)/[Challenge List](https://3dashdemonlist.github.io/Challenge/)/[ILL](https://3dashdemonlist.github.io/ILL/)
 * [Soluble Texture Packs](https://solubletexturepacks.com/) - GD Texture Packs / [Manager](https://geode-sdk.org/mods/geode.texture-loader/)
 * [Spritesheet Splitter](https://gdcolon.com/gdsplitter/) - Split & Merge GD Spritesheets
 * [GD Save Explorer](https://gdcolon.com/gdsave/) - View Detailed Stats & Data of Save Files
@@ -16951,6 +16951,8 @@ Linux Gaming Guide
 * [GD Docs](https://github.com/gd-programming/gd.docs) - GD Programming Documentation
 * [GD History](https://history.geometrydash.eu/) - GD Archival Project / [Downloader](https://github.com/Cvolton/GDHistory-Downloader)
 * [GMD Private Server](https://github.com/Cvolton/GMDprivateServer) - Private Server Maker
+* [3Dash](https://delugedrop.itch.io/3dash) -  3D Geometry Dash Game
+* 3Dash Tools - [Patched Server](https://3dash.mg95.dev/) / [Mod Menu](https://github.com/cgytrus/ThreeDashTools) / [Demon List](https://3dashdl.pages.dev/#/) / [Challenge List](https://3dashdemonlist.github.io/Challenge/) / [Impossible Levels](https://3dashdemonlist.github.io/ILL/)
 
 ***
 
@@ -17180,7 +17182,7 @@ Linux Gaming Guide
 * 🌐 **[Curlie Cards](https://curlie.org/en/Games/Video_Games/Recreation/Browser_Based/Cards)** - Card Game Index
 * 🌐 **[Curlie Yahtzee](https://curlie.org/en/Games/Video_Games/Recreation/Browser_Based/Dice/Yahtzee)** - Yahtzee Game Index
 * 🌐 **[Awesome Go/Baduk/Weiqi](https://github.com/yanchick/awesome-GoBadukWeiqi)** - Go/Baduk/Weiqi Resources
-* ⭐ **[WorldOfCardGames](https://worldofcardgames.com/)**, [247Games](https://www.247games.com/), [CardzMania](https://www.cardzmania.com/) or [World of Solitaire](https://worldofsolitaire.com/) - Card Games
+* ⭐ **[WorldOfCardGames](https://worldofcardgames.com/)**, [CardGames.io](https://cardgames.io/), [247Games](https://www.247games.com/), [CardzMania](https://www.cardzmania.com/) or [World of Solitaire](https://worldofsolitaire.com/) - Multiplayer Card Games
 * [Richup](https://richup.io/) - Monopoly-Style Board Game
 * [Rally The Troops](https://www.rally-the-troops.com/) - Historical Board Games / [Discord](https://discord.gg/CBrTh8k84A)
 * [AllBad.Cards](https://bad.cards/) or [CardsAgainstFormality](https://cardsagainstformality.io/) - Cards Against Humanity Online 
@@ -17188,7 +17190,7 @@ Linux Gaming Guide
 * [Solitaired](https://solitaired.com/), [Solitr](https://www.solitr.com/) or [Solitaire Owl](https://solitaireowl.com/) - Solitaire
 * [Mah-Jongg](https://www.mahjongfun.com/), [Mahjong4Friends](https://mahjong4friends.com/) or [Classic Mahjong](https://classic-mahjong.com/) - Mahjong Games
 * [lishogi](https://lishogi.org/) - Shogi
-* [Online GO](online-go.com) - Multiplayer GO
+* [Online GO](https://online-go.com/) - Multiplayer GO
 * [Blackjack Break](https://blackjackbreak.com/) or [HTML5 Blackjack](https://www.html5blackjack.net/) - Browser Blackjack
 * [Poker Now](https://www.pokernow.club/) or [247 Free Poker](https://www.247freepoker.com/) - Multiplayer Poker
 * [KDice](https://www.kdice.com/) - Multiplayer Dice War
