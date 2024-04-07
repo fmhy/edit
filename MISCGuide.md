@@ -98,6 +98,7 @@
 * [epicgames-freegames-node](https://github.com/claabs/epicgames-freegames-node) - Auto-Claim Free Epic Games
 * [SteamGifts](https://www.steamgifts.com/), [/r/FreeGamesOnSteam](https://reddit.com/r/FreeGamesOnSteam) or [SteamDB](https://steamdb.info/upcoming/free/) - Steam Games
 * [IndieGala](https://freebies.indiegala.com/) - Games
+* [use Web Cookies](https://github.com/eyeblech/Web-c00k1es) - Learn how to use web cookies 
 * [FreeGameCodes](https://freegames.codes/) - Games / [Discord](https://discord.gg/ZmUbRcp)
 * [FreeToKeep](https://freetokeep.gg/) - Games
 * [/r/freegames](https://www.reddit.com/r/freegames/) - Games
