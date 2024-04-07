@@ -820,7 +820,7 @@
 
 ## ▷ Study / Research
 
-* 🌐 **[Awesome Research](https://tools.kausalflow.com/tools)**, [Foam](https://github.com/foambubble/foam), [Zotero](https://www.zotero.org/), [ResearchRabbit](https://www.researchrabbit.ai/) or [Scrible](https://www.scrible.com/) - Research Tools
+* 🌐 **[Awesome Research](https://github.com/emptymalei/awesome-research)**, [KausalFlow](https://tools.kausalflow.com/), [Foam](https://github.com/foambubble/foam), [Zotero](https://www.zotero.org/), [ResearchRabbit](https://www.researchrabbit.ai/) or [Scrible](https://www.scrible.com/) - Research Tools
 * ↪️ **[Note Taking Apps](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools#wiki_.25BA_text_editors_.2F_notes)**
 * ⭐ **[StudyLion](https://lionbot.org) / [GitHub](https://github.com/StudyLions/StudyLion)** - Study Tracker / Productivity Discord Bot
 * ⭐ **[StudyKit](https://studykit.app/)**, [Knowt](https://knowt.com/), [Quizlet](https://quizlet.com/), [Shmoop](https://www.shmoop.com/) or [SparkNotes](https://www.sparknotes.com/) - Quizzes / Study Material / [Show Hidden](https://greasyfork.org/en/scripts/423872)
