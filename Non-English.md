@@ -1418,7 +1418,7 @@
 * [MandraAnime](https://mandranime.com/) - Anime / Sub / [Bypass](https://greasyfork.org/en/scripts/484990)
 * [Animegafirex](https://www.animegafirex.com/) - Anime / Sub
 * [CrisAnime](https://crisanimex.com/) - Anime / Sub / Dub
-* [Kiri Asian](https://kiriasian.com/) - Anime / Sub
+* [Kiri Asian](https://tiodonghua.com/) - Anime / Sub / Light Novels
 * [Japan Paw!](https://japan-paw.net/) - Anime / Sub / [Bypass](https://greasyfork.org/en/scripts/485015)
 * [Fukou-Da!](https://fukou-da.net/) - Anime / Sub / Light Novels
 * [Animes480pFinalizados](https://t.me/Animes480pFinalizados) - Anime / Telegram
@@ -1433,7 +1433,7 @@
 
 ## ▷ Torrenting
 
-* ⭐ **[DonTorrent](https://dontorrent.band/)**, [2](https://donproxies.com/) / [.onion](https://dontorufwmbqhnoe2wvko5ynis6axf7bqod6wkmdvxmjyek64tantlqd.onion/) - Movies / TV / Documentaries / Castilian / [Telegram](https://t.me/s/DonTorrent)
+* ⭐ **[DonTorrent](https://dontorrent.directory/)**, [2](https://donproxies.com/) / [.onion](https://dontorufwmbqhnoe2wvko5ynis6axf7bqod6wkmdvxmjyek64tantlqd.onion/) - Movies / TV / Documentaries / Castilian / [Telegram](https://t.me/s/DonTorrent)
 * ⭐ **[MejorTorrent](https://www7.mejortorrent.rip/)** - Movies / TV / Documentaries / Castilian / [Telegram](https://t.me/s/MejorTorrentAp)
 * ⭐ **[Grantorrent.wtf](https://grantorrent.wtf/)** - Movies / TV / Documentaries / Castilian
 * ⭐ **[Elitetorrent](https://www.elitetorrent.wf/)** - Movies / TV / Anime / Castilian / Latino / VOSE
@@ -1468,7 +1468,7 @@
 * [PelisPlusHD.nz](https://pelisplushd.nz/) - Movies / TV / Anime / Latino / [Telegram](https://t.me/pelisplushd_nu)
 * [PelisPlusHD](https://pelisplusgo.vip/) - Movies / TV / Latino
 * [PelisxD](https://www.pelisxd.com/) - Movies / TV / Latino
-* [PelisPedia](https://ww1.pelispedia.asia/) - Movies / TV / Latino
+* [PelisPedia](https://pelispedia.mov/) - Movies / TV / Latino
 * [PelisPedia3](https://io.pelispedia.io/) - Movies / TV / Anime / Latino
 * [Cinecalidad.gg](https://vwv.cinecalidad.gg/) - Movies / TV / Animation / Latino / [Telegram](https://t.me/cinecalidadchat)
 * [Cinecalidad.tel](https://w1.cinecalidad.tel/) - Movies / Latino
@@ -1486,8 +1486,8 @@
 * [Movidy.lat](https://movidy.lat/) - Movies / TV / Anime
 * [PelisMaraton](https://pelismaraton.nu/) - Movies / TV / Anime
 * [CineHDPlus](https://cinehdplus.org/) - Movies / TV
-* [PelisFlix](https://pelisflix.media/), [2](https://pelisflix2.host/) - Movies / TV
-* [PelisForte](https://pelisforte.nu/) - Movies / TV
+* [PelisFlix](https://pelisflix.ceo/), [2](https://pelisflix2.design/) - Movies / TV
+* [PelisForte](https://pelisforte.se/) - Movies / TV
 * [EntrePeliculasySeries](https://entrepeliculasyseries.nz/) - Movies / TV / Anime
 * [VerPeliculasUltra](https://verpeliculasultra.com/) - Movies
 * [novelas360](https://novelas360.com/) - TV / Drama
@@ -1564,7 +1564,7 @@
 * [lexmangas](https://www.lexmangas.com/) - Manga
 * [Ikigai Mangas](https://ikigaimangas.com/) - Manga
 * [miauscan](https://miauscan.com/) - Manga
-* [Mangaesp](https://mangaesp.co/) - Manga
+* [Mangaesp](https://mangaesp.net/) - Manga
 * [senpaiediciones](https://senpaiediciones.com/) - Manga
 * [anzmangashd](https://www.anzmangashd.com/) - Manga
 * [vermanhwa](https://vermanhwa.com/) - Manga
