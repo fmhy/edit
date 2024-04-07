@@ -113,7 +113,7 @@
 
 * ⭐**[Files](https://files.community/)** - Customizable Windows File Manager
 * [Xplorer](https://xplorer.space/) / [GitHub](https://github.com/kimlimjustin/xplorer) / [Discord](https://discord.com/invite/MHGtSWvfUS), [DoubleCMD](https://github.com/doublecmd/doublecmd) or [muCommander](https://www.mucommander.com/) - Cross Platform File Explorers
-* [Sigma](https://github.com/aleksey-hoffman/sigma-file-manager) - Modern File Manager for Windows / Linux
+* [Sigma](https://sigma-file-manager.vercel.app) / [GitHub](https://github.com/aleksey-hoffman/sigma-file-manager) - Modern File Manager for Windows / Linux
 * [ChromaFiler](https://chroma.zone/chromafiler/) - Column-based Windows File Manager
 * [ExplorerPatcher](https://github.com/valinet/ExplorerPatcher) - Improve Windows Explorer
 * [WinFile](https://github.com/microsoft/winfile) - Original Windows File Explorer
@@ -121,7 +121,7 @@
 * [Explorer++](https://explorerplusplus.com/) - Lightweight Windows File Manager
 * [Far Manager](https://www.farmanager.com/) - Windows File / Archive Manager
 * [Total Commander](https://www.ghisler.com/) - Shareware Windows File Manager
-* [Organize](https://github.com/tfeldmann/organize) - Automated File Manager
+* [Organize](http://organize.readthedocs.io) - Automated File Manager
 * [TrayDir](https://github.com/SamuelSVD/TrayDir) - System Tray File Manager
 * [TablacusExplorer](https://tablacus.github.io/explorer_en.html), [QTTabBar](https://github.com/indiff/qttabbar), [Multi Commander](https://multicommander.com/) or [ExplorerEx](https://github.com/DearVa/ExplorerEx) - Tab File Managers
 * [Vifm](https://vifm.info/) - Vim-based File Manager
@@ -170,7 +170,7 @@
 * [allwaysync](https://allwaysync.com/) - File Sync
 * [Resilio](https://www.resilio.com/individuals/) - File Sync
 * [SmartFTP](https://www.smartftp.com/) - File Sync
-* [rsync](https://github.com/WayneD/rsync) - File Sync
+* [rsync](https://rsync.samba.org) / [GitHub](https://github.com/WayneD/rsync) - File Sync
 * [Unison](https://github.com/bcpierce00/unison) - File Sync
 * [FolderClone](https://www.folderclone.com/) - Clone / Backup Folders
 * [BackupPC](https://backuppc.github.io/backuppc/) - File Backup
@@ -237,7 +237,7 @@
 ## ▷ PDF Tools
 
 * ⭐ **[Sejda](https://www.sejda.com/)**, [ILovePDF](https://www.ilovepdf.com/), [DigiPDF](https://digipdf.app/?lang=en_US), [PDF2Go](https://www.pdf2go.com/) or [SimplePDF](https://simplepdf.eu/) - Online PDF Toolkits
-* ⭐ **[PDFGear](https://www.pdfgear.com/)**, [xPDFReader](https://www.xpdfreader.com/), [PDF Arranger](https://github.com/pdfarranger/pdfarranger), [PrivatePDF](https://github.com/photown/private-pdf), [PDFBox](https://pdfbox.apache.org/) or [OpenPDF](https://github.com/LibrePDF/OpenPDF) - PDF Editors / Toolkits
+* ⭐ **[PDFGear](https://www.pdfgear.com/)**, [xPDFReader](https://www.xpdfreader.com/), [PDF Arranger](https://github.com/pdfarranger/pdfarranger), [PrivatePDF](https://photown.github.io/private-pdf/), [PDFBox](https://pdfbox.apache.org/) or [OpenPDF](https://github.com/LibrePDF/OpenPDF) - PDF Editors / Toolkits
 * [PDFGrep](https://pdfgrep.org/) - PDF Text Search
 * [View-only PDF](https://rentry.co/cm4b7) - Download View-Only PDF on GDrive
 * [online2pdf](https://online2pdf.com/) or [2PDFConverter](https://www.2pdfconverter.com/) - Convert Files to PDF
@@ -337,7 +337,7 @@
 * ⭐ **[Tailscale](https://tailscale.com/)**
 * ⭐ **[LocalSend](https://localsend.org/)** - Phone / Desktop Transfer / [Platforms](https://i.ibb.co/nsfMf04/8010dd28ed2d.png)
 * [Warpinator](https://github.com/linuxmint/warpinator) - Phone / Desktop Transfer
-* [QRServ](https://github.com/uintdev/qrserv) - Phone / Desktop Transfer
+* [QRServ](https://play.google.com/store/apps/details?id=dev.uint.qrserv) / [GitHub](https://github.com/uintdev/qrserv) - Phone / Desktop Transfer
 * [pairdrop](https://pairdrop.net/)
 * [sharedrop](https://www.sharedrop.io/)
 * [new.space](https://new.space/)
@@ -414,7 +414,7 @@
 * [MrOwl](https://www.mrowl.com/) - 10GB Free / ~$16.67 for 1TB
 * [storj](https://www.storj.io/) - 25GB Free / ~$4 for 1TB
 * [Blomp](https://www.blomp.com/) - 20GB Free / ~$3 for 2TB
-* [xpipe](https://github.com/xpipe-io/xpipe) - Remote File Manager
+* [xpipe](https://xpipe.io) - Remote File Manager
 * [bookmarkfs](https://github.com/CoolElectronics/bookmarkfs) - Chrome's Profile Sync Cloud Storage
 * [InfiniDrive](https://github.com/nicomda/InfiniDrive) - Amazon Prime Photos Cloud Storage
 * [OneDriveFly](https://github.com/Tai7sy/OneDriveFly) or [OneDrive Vercel Index](https://ovi.swo.moe/) - OneDrive Indexes
@@ -425,7 +425,7 @@
 * [CarotDAV](http://rei.to/carotdav_en.html) - Cloud Storage Manager
 * [MultCloud](https://www.multcloud.com/) - Cloud Storage Manager
 * [MSP360](https://www.msp360.com/explorer.aspx) - Cloud Storage Manager
-* [AList](https://github.com/alist-org/alist) - Cloud Storage Manager
+* [AList](https://alist.nn.ci) - Cloud Storage Manager
 * [SeaFile](https://www.seafile.com/en/home/) or [FileStash](https://www.filestash.app/) - Self-Hosted Cloud Storage / [Fork](https://github.com/ZizzyDizzyMC/linx-server/)
 
 ***
