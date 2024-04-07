@@ -722,7 +722,6 @@
 * [puush](https://puush.me/) - Easily Share Screenshots
 * [Screenstab](https://screenstab.com/editor/) - Create Graphics from Screenshots
 * [Limus](https://limus.netlify.app/) or [Screenstab](https://www.screenstab.com/editor/) - Change Screenshot Angles
-* [Screenshot Comparison](https://screenshotcomparison.com/) - Compare Screenshots
 * [Screenshot Tutorial](https://www.take-a-screenshot.org/) - Multi Platform Screenshot Guides 
 
 ***
