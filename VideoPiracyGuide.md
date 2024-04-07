@@ -28,6 +28,7 @@
 * [NetFilm](https://netfilm.app/) - Movies / TV / Anime / 1080p / [Discord](https://discord.gg/g37Fc8u4ks)
 * [Ask4Movies](https://ask4movie.li/) - Movies / TV / 1080p / Use Adblock / [Script](https://pastebin.com/uJUc5ah5)
 * [SmashyStream](https://embed.smashystream.com/) - Movies / TV / Anime / 1080p / [Telegram](https://t.me/+vekZX4KtMPtiYmRl)
+* [NunFlix](https://nunflix.vercel.app/) - Movies / TV / Anime / 1080p
 * [HollyMovieHD](https://hollymoviehd.cc/), [YesHD](https://yeshd.net/) or [NovaMovie](https://novamovie.net/) - Movies / TV / Anime / 1080p / [Mirrors](https://hollymoviehd-official.com/)
 * [Flixta](https://flixta.cc/) - Movies / TV / Anime / 1080p
 * [FlixHQ](https://flixhq.click/) - Movies / TV / Anime / 1080p
@@ -808,7 +809,8 @@
 * [Film Genre Wiki](https://en.wikipedia.org/wiki/Template:Film_genres) - Movie Genre List
 * [Horror Sub-Genre Guide](https://i.ibb.co/F8Hj3xm/a76eecc33d4c.png) - List of Horror Genres
 * [Based on the Book](https://www.mymcpl.org/books-movies-music/read/based-on-the-book) - List of Movies Based on Books
-* [Find Movie](https://find-movie.info/) or [clip.cafe](https://clip.cafe/) - Movie Quote Databases / Search
+* [Find Movie](https://find-movie.info/) or [QuoDB](https://www.quodb.com/) - Movie Quote Databases / Search
+* [SimplyScripts](https://www.simplyscripts.com/), [ScriptSlug](https://www.scriptslug.com/), [Scripts.com](https://www.scripts.com/), [IMSDB](https://imsdb.com/), [DailyScript](https://www.dailyscript.com/ ) or [SubsLikeScript](https://subslikescript.com/) - Movie / TV Scripts
 * [MediaTracker](https://github.com/bonukai/MediaTracker), [Ant Movie](https://www.antp.be/software/moviecatalog), [libib](https://www.libib.com/) or [Flox](https://github.com/devfake/flox) - Desktop Media Catalogs
 * [Seanime](https://seanime.rahim.app/) - Anime Desktop Catalog
 * [AniTrakt](https://anitrakt.huere.net/) - Trakt / MyAnimeList Sync
