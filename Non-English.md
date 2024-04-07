@@ -4,6 +4,10 @@
 ***
 ***
 
+* **Note** - This section can be used to get movies, music, books, courses etc. but for anything you install, like games, software, or apks, its highly recommended to use the english sections instead. Keep in mind you can always change the language in the installers.
+
+***
+
 # ► Arabic /  العربية
 
 * [Dawin](https://www.dawin.io/) - Markdown Editor
@@ -173,7 +177,6 @@
 * 🌐 **[Tvlist-awesome-m3u-m3u8](https://github.com/imDazui/Tvlist-awesome-m3u-m3u8)** - IPTV Resources
 * 🌐 **[Chinese Drama Site Index](https://www.reddit.com/r/CDrama/wiki/streaming)** - Chinese Drama Sites Index
 * 🌐 **[Movie Forest](https://549.tv/)** or **[klyingshi](https://klyingshi.com/)** - Chinese Streaming Sites Index
-* [beyondHD](https://t.me/beyondHD) - Movies / Sub / 1080p / 4K
 * [ddrk](https://ddys.pro/), [2](https://ddys.info/) - Movies / TV / Anime / Sub / 1080p
 * [Tencent Video](https://v.qq.com/) - Movies / TV / Anime / Cartoons / Sub / Dub / 1080p / [Downloader](https://weibomiaopai.com/online-video-downloader/tencent)
 * [MoMoVOD](https://momovod.app/) - Movies / TV / Anime / Sub / 1080p
@@ -560,6 +563,7 @@
 * [Anilot.in](https://anilot.in/) - Anime / 1080p / [Telegram](https://t.me/Anilot_Anime)
 * [1xanime](https://www.1xanime.in/) - Anime / 1080p / [Telegram](https://t.me/onexanime2)
 * [Toonsouthindia](https://toonsouthindia.com/) - Anime / Cartoon / 1080p / [Telegram](https://telegram.me/+VQNviznAktwAxUv8)
+* [Toonhub4u](https://toonhub4u.net/) - Anime / Cartoon / Dub / 1080p / [Telegram](https://telegram.me/joinchat/uJ8k8_dvqhQwODE1)
 * [ToonWorld Tamil](https://toonworldtamil.net/) - Anime / Cartoon / 1080p / [Telegram](https://telegram.me/joinchat/AAAAAEDdWfKBosrNxtfy-Q)
 * [New Hindi Animes](https://t.me/New_Hindi_Animes) - Anime Telegram Chat
 * [Indian Flac Songs](https://t.me/indianflacsongs) - Music / FLAC
