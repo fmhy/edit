@@ -587,6 +587,7 @@
 * [Desi Serials](https://www.desi-serials.cc/), [2](https://playdesi.net/) - South Asian Movies / TV / Live / Sub / Dub / 1080p
 * [HindiMoviesTV](https://www.hindimoviestv.com/) - Movies / Dub / 1080p
 * [HindiMovie](https://m.vk.com/hindimovie) - Movies / Dub / 1080p
+* [Moviefuze](https://www.moviefuze.com/) - Movies / TV / Dub / 1080p
 * [Movi](https://www.movi.pk/) - Movies / TV / Dub / 1080p
 * [Bolly2Tolly](https://www.bolly2tolly.net/), [2](https://www.bolly2tolly.com/) - Movies / TV / Sub / Dub / 720p
 * [Piratop](https://piratop.com/) - Movies / TV / Sub / Dub / 720p
