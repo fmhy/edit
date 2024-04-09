@@ -685,7 +685,6 @@
 * [NovelLibrary](https://github.com/gmathi/NovelLibrary) - Light Novels / [Discord](https://discord.gg/qFZX4vdEdF)
 * [LNReader](https://github.com/LNReader/lnreader), [Baruch](https://github.com/adreeeyan/baruch), [Ranobe](https://github.com/ranobe-org/ranobe), [IReader](https://ireaderorg.netlify.app/) or [QuickNovel](https://apt.izzysoft.de/fdroid/index/apk/com.lagradost.quicknovel) - Light Novels
 * [SoftGoods](https://softgoods.app/) - Fan Fiction
-* [Libby](https://apps.apple.com/us/app/libby-by-overdrive/id1076402606) - Borrow Digital Library Books
 * [Bionic Reading](https://play.google.com/store/apps/details?id=com.bionic_reading_app) - Reading Fixation Points
 * [Adobe Scanner](https://www.adobe.com/acrobat/mobile/scanner-app.html), [CleanScan](https://github.com/clean-apps/CleanSCAN), [vFLat Scan](https://play.google.com/store/apps/details?id=com.voyagerx.scanner) or [OpenScan](https://github.com/ethereal-developers/OpenScan) - Document Scanners
 * [OpenDocument](https://opendocument.app/) - Document Reader
