@@ -60,6 +60,8 @@
 * [TeamPass](https://teampass.net/) - Collaborative Password Manager
 * [Password Safe](https://www.pwsafe.org/) or [KDE Wallet Manager](https://userbase.kde.org/KDE_Wallet_Manager) - Password-Managing Software
 * [Passbolt](https://www.passbolt.com/) or [PSONO](https://psono.com/) - Self-Hosted Password Manager
+* [KeepassXC](https://keepassxc.org)
+* [Keepass2](https://github.com/PhilippC/keepass2android)
 * [Pashword](https://pashword.app/)
 * [LessPass](https://lesspass.com/)
 * [Buttercup](https://buttercup.pw/)
