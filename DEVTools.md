@@ -226,7 +226,7 @@
 * [Modern C++ Programming](https://github.com/federico-busato/Modern-CPP-Programming) - Modern C++ Course
 * [Learn C++](https://www.learncpp.com/) - Learn C++
 * [CppDeveloperRoadmap](https://salmer.github.io/CppDeveloperRoadmap/) - Learn C++
-* [StudyPlan] (https://www.studyplan.dev/) - Learn C++
+* [StudyPlan](https://www.studyplan.dev/) - Learn C++
 * [HowIStart C++](https://howistart.org/posts/cpp/1/) - C++ Setup Guide
 * [modern-cpp-tricks](https://github.com/rachitiitr/modern-cpp-tricks) - C++ Tips
 * [Makefile Tutorial](https://makefiletutorial.com/) - Makefile Tutorial
@@ -472,6 +472,7 @@
 * ⭐ **[ColorHexa](https://www.colorhexa.com/)** - Color Hex Encyclopedia 
 * ⭐ **[Realtime Colors](https://realtimecolors.com/)** - Preview Color Palettes
 * ⭐ **[SpyColor](https://www.spycolor.com/)** or [Colouris](https://colouris.surge.sh/) - Color Model Conversions
+* ⭐ **[Color & Contrast](https://colorandcontrast.com/)** - Color / Contrast Guide
 * [ColorsAndFonts](https://www.colorsandfonts.com/) - Quickly Copy Colors & Typography Combinations 
 * [Paletton](https://paletton.com/) - Color Scheme Designer
 * [Palettte](https://palettte.app/) - Color Palette Editor
@@ -910,6 +911,9 @@
 * [Evervault](https://evervault.com/) - Security / Compliance Infrastructure
 * [HTTPToolkit](https://httptoolkit.com/) - Debug, Test & Build with HTTP(S)
 * [IP Intelligence](https://getipintel.net/) - Malicious Web Traffic Protection
+* [Al-Khaser](https://github.com/LordNoteworthy/al-khaser) - Anti-Malware Stress Test
+* [YARA](https://virustotal.github.io/yara/) - Malware Identification Tool
+* [Winitor](https://www.winitor.com/) - EXE Malware Assessment
 * [HTTPLeaks](https://github.com/cure53/HTTPLeaks) - HTTP Sites Leak Information
 * [Cryptography](https://pub.dev/packages/cryptography) - Dart and Flutter Cryptography Library
 * [Kali NetHunter](https://store.nethunter.com/en/) or [AndroGuard](https://github.com/androguard/androguard) - Penetration Testing / Forensics Apps
@@ -918,6 +922,7 @@
 * [Radare](https://rada.re/r/), [Reverse Engineer's Toolkit](https://github.com/mentebinaria/retoolkit), [Rizin](https://rizin.re/), [Frida](https://frida.re/), [GHIDRA](https://ghidra-sre.org/) or [Cutter](https://cutter.re/) - Reverse Engineering 
 * [MSTG](https://mas.owasp.org/) or [DVIA-v2](https://github.com/prateek147/DVIA-v2) - App Security Testing / Reverse Engineering
 * [challenges.re](https://challenges.re/) - Reverse Engineer Code
+* [CVE Details](https://www.cvedetails.com/) - CVE Details
 * [ImHex](https://imhex.werwolv.net) - Hex Editor / [Web Version](https://web.imhex.werwolv.net/)
 * [YASNAC](https://github.com/RikkaW/YASNAC) - SafetyNet Attestation Checker
 * [AllSafe](https://github.com/t0thkr1s/allsafe) - Intentionally Vulnerable Android App
@@ -1362,7 +1367,6 @@
 * [HTMLColorCodes](https://htmlcolorcodes.com/) - HTML Color Codes
 * [Checkbox Land](https://www.bryanbraun.com/checkboxland/) - Render Anything as HTML Checkboxes
 * [Capsaicin](https://gpuopen.com/capsaicin/) - Direct3D12 Framework
-* [Phaser](https://phaser.io/) - Mobile HTML5 Game Framework
 * [pup](https://github.com/ericchiang/pup) - HTML Processing CLI
 * [CSS Scan](https://chromewebstore.google.com/detail/css-scan/gieabiemggnpnminflinemaickipbebgen) - CSS Editor
 * [CSS Protips](https://github.com/AllThingsSmitty/css-protips) or [CSS Reference](https://cssreference.io/) - CSS Guide
