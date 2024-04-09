@@ -8571,7 +8571,6 @@ import Index from './.vitepress/theme/Posts.vue'
 * [NoScriptFingerprint](https://noscriptfingerprint.com/) - Non-JavaScript Fingerprinting
 * [AnonymousRedirect](https://adguardteam.github.io/AnonymousRedirect/) - Anonymize Links
 * [Simple Opt Out](https://simpleoptout.com/) - Turn off Targeted Ads
-* [AdNauseam](https://adnauseam.io/) - Adblocker / Fakes Clicks to Confuse Tracking
 * [Twitter Direct](https://greasyfork.org/en/scripts/404632) - Removes t.co Tracking from Twitter
 
 ***
