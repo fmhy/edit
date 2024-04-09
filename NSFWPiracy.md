@@ -425,7 +425,6 @@
 * [Porn Comics](https://porncomics.to/) - Comics
 * [BondageComixxx](https://bondagecomixxx.net/) - Comics
 * [Xcomics](https://xcomics.se/) - Comics
-* [Porn Comics](https://porncomics.to/) - Comics
 * [XYZ Porn Comics](https://xyzcomics.com/) - Comics
 * [Manhwa18.cc](https://manhwa18.cc/) - Hentai Manga
 * [Mangadass](https://mangadass.com/) - Hentai Manga
