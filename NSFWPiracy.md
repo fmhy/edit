@@ -84,7 +84,6 @@
 * ⭐ **[My Duck Is Dead](https://myduckisdead.org/)**
 * [MangoPorn](https://mangoporn.net/)
 * [EroticMV](https://eroticmv.com/)
-* [EroticMV](https://eroticmv.com/)
 * [itseroma](https://t.me/itseroma)
 * [UiiU Movies](https://uiiumovies.net/)
 * [EroGarga](https://www.erogarga.com/)
