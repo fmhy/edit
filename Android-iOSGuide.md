@@ -28,6 +28,7 @@
 * [RockMods](https://www.rockmods.net/) / [Telegram](https://t.me/RBMods)
 * [DL King](https://dl.king2net.com/soft%20android/)
 * [APKKit](https://apkkit.com/)
+* [ReXDL](https://rexdl.com/) - Use Adblocker / [Telegram](https://t.me/joinchat/AAAAAFVMhwX7IzS5hMc8OQ)
 * [PlatinMods](https://platinmods.com/) - Modded Games
 
 ***
@@ -863,9 +864,10 @@
 ## ▷ YouTube Apps
 
 * ⭐ **[ReVanced Manager](https://revanced.app/download)** - Ad-Free YouTube, Reddit, X etc. Patcher / [Discord](https://discord.com/invite/rF2YcEjcrT) / [Guide](https://redd.it/xlcny9) 
-* ⭐ **[LibreTube](https://libretube.dev/)** - Ad-free YouTube Frontend
-* ⭐ **[NewPipe](https://newpipe.net/)** - Ad-free YouTube Frontend
-* ⭐ **[Tubular](https://github.com/polymorphicshade/Tubular)** - Ad-free YouTube Frontend
+* ⭐ **[LibreTube](https://libretube.dev/)** - Ad-free YouTube
+* ⭐ **[NewPipe](https://newpipe.net/)** - Ad-free YouTube
+* ⭐ **[Tubular](https://github.com/polymorphicshade/Tubular)** - Ad-free YouTube
+* [ReVanced Auto-Update](https://rentry.co/revanced-auto-update) - Update ReVanced Apps Automatically
 * [revanced-magisk-module](https://github.com/j-hc/revanced-magisk-module/releases) / [Telegram](https://t.me/rvc_magisk), [revanced-apks](https://github.com/revanced-apks/build-apps/releases), [docker-py-revanced](https://github.com/nikhilbadyal/docker-py-revanced/releases) or [AT-YT](https://github.com/Zenlua/AT-YT) - Automated Patchers
 * [revanced-cli](https://github.com/ReVanced/revanced-cli/), [Auto-CLI](https://github.com/taku-nm/auto-cli/), [Revancify](https://github.com/decipher3114/Revancify) or [revanced-creator](https://github.com/XDream8/revanced-creator) - CLI Patchers
 * [ReVanced Patcher 6.0-7.1](https://github.com/kitadai31/revanced-patches-android6-7) - 6.0-7.1 Patcher
