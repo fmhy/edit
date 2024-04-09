@@ -27,6 +27,7 @@
 * [Pinging](https://www.pinging.net/) - Internet Uptime Monitor
 * [NetBlocks](https://api.webprobe.org/) or [OpenNetMeter](https://github.com/Ashfaaq18/OpenNetMeter) - Internet Performance Monitor
 * [WiFi Analyzer](https://apps.microsoft.com/store/detail/wifi-analyzer/9NBLGGH33N0N) - WiFi Analyzer
+* [WireShark](https://www.wireshark.org/) - Network Protocol Analyzer / [Profiles](https://github.com/amwalding/wireshark_profiles)
 * [Ethr](https://github.com/Microsoft/Ethr) - Network Performance Tool
 * [NETworkManager](https://github.com/BornToBeRoot/NETworkManager) or [WLan10](https://github.com/afit/wlan10) - Network Manager
 * [mRemoteNG](https://mremoteng.org/) - Remote Connections Manager
@@ -236,7 +237,7 @@
 
 * 🌐 **[URLS-MTHRFCKR](https://github.com/whoisdsmith/urls-mthrfckr)** - Python URL Scripts
 * ↪️ **[Check if Sites are Down](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_down_site_checkers)**
-* ↪️ **[Encode / Decode URLs](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25B7_encode_.2F_decode)**
+* ↪️ **[Encode / Decode URLs](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools#wiki_.25B7_encode_.2F_decode)**
 * ↪️ **[Reverse URL Search](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_domain_info_tools)**
 * ↪️ **[URL Unshorteners](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_url_unshorteners)**
 * ⭐ **[Flagfox](https://flagfox.wordpress.com/)** - Displays Country's Flag on Sites / [Adds Many URL Tools](https://i.ibb.co/N7Mq56Q/889730aa3863.png)
@@ -324,6 +325,7 @@
 * [BlueBubbles](https://bluebubbles.app/) - iMessage Client
 * [Atlus](https://github.com/amanharwara/altus) or [WAO](https://dedg3.com/wao/) - WhatsApp Clients
 * [WhatsApp-Chat-Exporter](https://wts.knugi.dev/) - WhatsApp Skype Chats
+* [WAIncognito](https://chromewebstore.google.com/detail/waincognito/alhmbbnlcggfcjjfihglopfopcbigmil) - Disable WhatsApps Read Receipts & Presence Updates
 * [Skype Exports for Humans](https://becausecurious.me/skype_exports_for_humans) - Export Skype Chats
 * [TikTok Chat Reader](https://tiktok-chat-reader.zerody.one/) - Live TikTok Chat Reader
 * [Urlebird](https://urlebird.com/) - Third-Party TikTok with better UI
