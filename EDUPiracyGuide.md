@@ -410,7 +410,6 @@
 * [NaturalHistory](https://naturalhistory.si.edu/visit/virtual-tour) - Natural History Museum Virtual Tour
 * [Museo](https://museo.app/) - Museum Search
 * [Wonderous](https://play.google.com/store/apps/details?id=com.gskinner.flutter.wonders) - Learn About Ancient Structures
-* [Persepolis Reimagined](https://persepolis.getty.edu/) - Explore Persepolis Recreation
 * [Letters of Note](https://news.lettersofnote.com/) - Historical Letters
 * [Shorpy](https://shorpy.com/) or [Old World](https://oldworld.cloud/) - Historical Photos
 * [EyewitnesstoHistory](http://www.eyewitnesstohistory.com/index.html) - Historical Eyewitness Testimonies
