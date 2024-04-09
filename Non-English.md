@@ -329,9 +329,7 @@
 * [TrustScam](https://trustscam.fr/) - Website Security Analysis
 * [Wikiwix Archive](https://archive.wikiwix.com/) - Web Archive Site
 * [nuit-blanche](https://nuit-blanche.ch/) - Drug Detox Help
-
-## ▷ Downloading
-
+* [Remonterletemps](https://remonterletemps.ign.fr) - France Geographic / Forestry Info and Maps
 * [Paradise lost.666](https://mfp666.blogspot.com/) - Classic French Movies / TV / Music
 * [Movie to Review](https://filmarevoirnad.blogspot.com/) - Classic French Movies
 * [Ciné-Bis-Art](https://humungus-cinebisart.blogspot.com/) - Movies
@@ -1536,7 +1534,6 @@
 ## ▷ Reading
 
 * ⭐ **[Spanish Reading CSE](https://cse.google.com/cse?cx=85e4a562f2abf40f6)** / [SMAGX](https://smagx.com/) - Multi-Site Book Search
-* [MundoEpubGratis](https://mundoepubgratis2.com/) - Books
 * [libronube](https://www.libronube.com/) - Books
 * [eBiblioteca](https://ebiblioteca.org/) - Books
 * [ePub Gratis](https://www.epubgratis.info/) - Books
