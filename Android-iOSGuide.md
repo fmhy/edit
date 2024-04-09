@@ -28,7 +28,7 @@
 * [RockMods](https://www.rockmods.net/) / [Telegram](https://t.me/RBMods)
 * [DL King](https://dl.king2net.com/soft%20android/)
 * [APKKit](https://apkkit.com/)
-* [ReXDL](https://rexdl.com/) - Use Adblocker / [Telegram](https://t.me/joinchat/AAAAAFVMhwX7IzS5hMc8OQ)
+* [ReXDL](https://rexdl.com/) / [Telegram](https://t.me/joinchat/AAAAAFVMhwX7IzS5hMc8OQ)
 * [PlatinMods](https://platinmods.com/) - Modded Games
 
 ***
