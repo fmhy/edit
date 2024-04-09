@@ -121,6 +121,7 @@
 * [Flibusta](https://flibusta.is/) - Books / [I2P](https://flibusta.i2p/), [2](http://zmw2cyw2vj7f6obx3msmdvdepdhnw2ctc4okza2zjxlukkdfckhq.b32.i2p/) / Account Required
 * [ExClassics](https://www.exclassics.com/) - Obscure Books
 * [The Free Book Library](https://ebooks.i2p/) - Books / I2P Required
+* [Find Books](https://www.findbooks.info/) - Books / IPFS Required
 * [FreeReadFeed](https://www.freereadfeed.com/) - Free Kindle Books
 * [Wikibooks](https://www.wikibooks.org/) - Wikimedia community
 * [Antilibrary](http://127.0.0.1:43110/Antilibrary.bit/) - ZeroNet Required
