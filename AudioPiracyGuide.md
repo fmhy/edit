@@ -255,7 +255,7 @@
 * [myNoise](https://mynoise.net/) - Background Noises & Interactive Soundscapes 
 * [Noisli](https://www.noisli.com/) - Background Sounds for Productivity & Focus 
 * [Ambient-Mixer](https://movies.ambient-mixer.com/) - Ambient Media Inspired Sounds 
-* [Listen to Wikipedia](http://listen.hatnote.com/) - Wikipedia Recent Changes Feed Sounds 
+* [Listen to Wikipedia](http://listen.hatnote.com/) - Wikipedia Recent Changes Feed Sounds
 
 ***
 
@@ -559,7 +559,6 @@
 * [Music.ishkur](https://music.ishkur.com/) - Electronic Music Guide
 * [This Is What You Listen To](https://tiwylt.musimap.io/) - Song Genre / Info Analyzer
 * [Identifying Music Genres](https://chunisama.github.io/Identifying-Music-Genres/) - Compare Music Genres
-* [SpotiFictional](https://spotifictional.com/) - Music from Fictional Artists
 * [Loudness War](https://dr.loudness-war.info/) - Albums Dynamic Range Database
 * [rate.house](https://rate.house/) - Media Tracker
 * [MediaTracker](https://github.com/bonukai/MediaTracker) - Self-Hosted Media Tracker
