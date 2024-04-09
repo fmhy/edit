@@ -40,7 +40,6 @@
 ## ▷ Download Managers
 
 * ⭐ **[JDownloader](https://jdownloader.org/jdownloader2)** - Download Manager / [Debloat](https://rentry.org/jdownloader2) / [Captcha Solver](https://github.com/cracker0dks/CaptchaSolver) / [Dark Theme](https://redd.it/q3xrgj) / [Dracula Theme](https://draculatheme.com/jdownloader2)
-* ⭐ **[IDM](https://www.internetdownloadmanager.com/)** - Download Manager / [Activation](https://github.com/WindowsAddict/IDM-Activation-Script)
 * ⭐ **[XDM](https://xtremedownloadmanager.com/)** - Download Manager / [GitHub](https://github.com/subhra74/xdm) 
 * ⭐ **[Motrix](https://www.motrix.app/)** - Download Manager / [Web Extensions](https://github.com/gautamkrishnar/motrix-webextension/) / [GitHub](https://github.com/agalwood/Motrix)
 * [pyLoad](https://pyload.net/) - Lightweight Download Manager
@@ -271,7 +270,7 @@
 
 # ► File Hosts
 
-**Note** - Size is per file and time is after the last time someone downloaded that file unless specified.
+* **Note** - Size is per file and time is after the last time someone downloaded that file unless specified.
   
 ***
 
