@@ -630,7 +630,7 @@
 * ⭐ **[JPEGView](https://github.com/sylikc/jpegview)**
 * ⭐ **[XnView MP](https://www.xnview.com/en/xnviewmp/)**
 * ⭐ **[Digikam](https://www.digikam.org/)**
-* [ImageGlass](https://imageglass.org/)
+* [ImageGlass](https://github.com/d2phap/ImageGlass)
 * [nomacs](https://github.com/nomacs/nomacs)
 * [qimgv](https://github.com/easymodo/qimgv)
 * [PhotoQt](https://github.com/luspi/photoqt)
