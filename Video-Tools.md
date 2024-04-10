@@ -408,6 +408,7 @@
 * [HunterAE](https://hunterae.com/) - After Effects
 * [AERiver](https://aeriver.com/) - After Effects
 * [AEDownloadPro](https://aedownloadpro.com/) - After Effects
+* [Intro HD](https://intro-hd.net/) - After Effects
 * [Adobe After Effects Collection](https://rentry.co/FMHYBase64#adobe-after-effects-collection) - After Effects
 
 ***
