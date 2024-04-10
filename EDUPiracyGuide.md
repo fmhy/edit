@@ -143,7 +143,6 @@
 # ► Learning Sites
 
 * 🌐 **[The Free Learning List](https://freelearninglist.org/)**, **[LearnAwesome](https://learnawesome.org/)**, [Learning Lab](https://learn.uno/), [Quester](https://quester.io/), [AFAIK](https://afaik.io/) / [Discord](https://discord.gg/mMNwRvWM8s), [TutorAI](https://www.tutorai.me/), [Learney](https://maps.joindeltaacademy.com/) or [WISC](https://www.wisc-online.com/) - Learning Resources
-* 🌐 **[Untools](https://untools.co/)** - Better Thinking Tools
 * 🌐 **[Awesome Educational Games](https://github.com/yrgo/awesome-educational-games)** - Educational Games Index
 * ↪️ **[Typing Tests / Games](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools#wiki_.25B7_typing_lessons)**
 * ⭐ **[PhET](https://phet.colorado.edu/)**, [Oak National Academy](https://teachers.thenational.academy/), [Academo](https://academo.org/) or [Runestone Interactive](https://runestone.academy/) - Interactive Lessons
@@ -166,30 +165,8 @@
 * [Listenable](https://apps.apple.com/us/app/listenable-learn-with-audio/id1492810539) - 5-Minute Audio Lessons / iOS
 * [LabXchange](https://www.labxchange.org/) or [EduMedia](https://www.edumedia-sciences.com/en/) - Interactive Science Simulations
 * [CuriousCat](https://curiouscat.live/) or [RetroSpring](https://retrospring.net/) - Q&A Communities
-* [Kialo](https://www.kialo.com/) - Debates / Discussion
 * [LitCharts](https://www.litcharts.com/) - Literature Guides
-* [Philosophy Bro](https://www.philosophybro.com/), [Reasoned](https://www.reasoned.org/dir/) or [PhilosophyBasics](https://www.philosophybasics.com/) - Learn about Philosophy
-* [Social Engineers](https://web.archive.org/web/20221208021915/https://www.socialengineers.net) - Social Engineering Guides
-* [Brainkit](https://www.braink.it/) - Learn Helpful Principles
-* [RationalWiki](https://rationalwiki.org/) - Pseudoscience Refutation Wiki
-* [YouLogicalFallacyIs](https://yourlogicalfallacyis.com/), [FallacyFiles](https://fallacyfiles.org/index.html) or [LogicalFallacies](https://www.logicalfallacies.org/) - Learn about Logical Fallacies
-* [YourBiasIs](https://yourbias.is/) - Learn about Biases
-* [LessWrong](https://www.lesswrong.com/) - Develop Rationality / [Frontend](https://www.greaterwrong.com/)
-* [Advanced Logic Calculators](https://pastebin.com/WFZwQw86) 
-* [Art of Manliness](https://www.artofmanliness.com/) - Develop Life Skills
-* [VisualizeValue](https://archivve.visualizevalue.com/) - Life Lesson Visualizations
-* [Sketchplanations](https://www.sketchplanations.com/) - Explanation Sketches
-* [WikEnigma](https://wikenigma.org.uk/) - 'Known Unknowns' Wiki
-* [The Trolley Problem Game](https://newfastuff.com/the-trolley-problem-game/) - The Trolley Problem
-* [LizardPoint](https://lizardpoint.com/) - Geography Quizzes
-* [Flag Guesser](https://flagguesser.com/) - Flag Quizzes
-* [Flag Stories](https://flagstories.co/) - Flag Design Breakdowns
-* [The True Size](https://thetruesize.com/) - Compare Country Size
-* [iCivics](https://www.icivics.org/games) - U.S. Law Learning Games
-* [Dollar Street](https://www.gapminder.org/dollar-street) - Compare Homes by Country / Income
 * [Bridge Command](https://www.bridgecommand.co.uk/) - Bridge Command Ship Simulator
-* [Sectional Anatomy](https://www.sectional-anatomy.org/) - Cross Sectional Educational MRI / CT Scans
-* [Lights and Shadows](https://ciechanow.ski/lights-and-shadows/) - Light and Shadow Lesson
 * [British & Exotic Mineralogy](https://www.c82.net/mineralogy/) - Mineralogy Database
 * [AirVectors](https://www.airvectors.net/) - Aircraft Wiki
 * [Animated Knots](https://www.animatedknots.com/) or [NetKnots](https://www.netknots.com/) - Learn to Tie Knots
@@ -197,9 +174,6 @@
 * [Perry Morse](https://www.perry.qa/morse), [Morse Typing Trainer](https://morse.withgoogle.com/learn/) or [ICWO](https://lcwo.net/) - Learn / Practice Morse Code
 * [BeatBlackjack](https://www.beatblackjack.org/) - Learn Blackjack Card Counting
 * [ActivistHandbook](https://activisthandbook.org/) - Campaigning / Activism Guides
-* [Awful-A.I.](https://github.com/daviddao/awful-ai) - Negative A.I. Usage Examples
-* [Symbols](https://www.symbols.com/) - Symbol Database
-* [Hate on Display](https://www.adl.org/hate-symbols) - Hate Symbol Database
 * [P2PU](https://www.p2pu.org/) - Join Learning Groups Using Free Courses
 
 ***
@@ -276,6 +250,7 @@
 * [Physics Olympiads](https://discord.gg/phods) - Physics Discord Community
 * [Quantum Web Directory](https://qntm2017.github.io/qntm/OV.html) - Science / Tech / Math / Physics
 * [Interactive 4D Handbook](https://baileysnyder.com/interactive-4d/) - Interactive Fourth Dimension
+* [Lights and Shadows](https://ciechanow.ski/lights-and-shadows/) - Light and Shadow Lesson
 * [Ray Optics Simulation](https://phydemo.app/ray-optics/) - Light Reflection / Refraction Simulator
 * [Compare Pendulum](https://www.myphysicslab.com/pendulum/compare-pendulum-en.html) - Pendulum Simulator
 * [OpenFoam](https://openfoam.org/), [PC Progress](https://www.pc-progress.com/), [Fluid Simulation WebGL](https://paveldogreat.github.io/WebGL-Fluid-Simulation/), [WebGL Fluid Experiment](https://haxiomic.github.io/GPU-Fluid-Experiments/html5/) or [Sim Flow](https://sim-flow.com/) - Fluid Dynamics Simulators
@@ -407,6 +382,27 @@
 * [VGA Museum](https://www.vgamuseum.info/) - Graphic Cards History / Info
 * [MobilePhoneMuseum](https://www.mobilephonemuseum.com/) - Mobile Phone History / Info
 * [House Creep](https://www.housecreep.com/) - Homes With A Curious or Criminal History
+
+***
+
+## ▷ Philosophy
+
+* ⭐ **[Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/index.html)**, [IEP](https://iep.utm.edu/) or [nLab](https://ncatlab.org/) - Philosophy Encyclopedias / [Search](https://www.visualizingsep.com/)
+* [Philosophy Bro](https://www.philosophybro.com/), [Reasoned](https://www.reasoned.org/dir/) or [PhilosophyBasics](https://www.philosophybasics.com/) - Learn about Philosophy
+* [Untools](https://untools.co/) - Better Thinking Tools
+* [Brainkit](https://www.braink.it/) - Learn Helpful Principles
+* [LessWrong](https://www.lesswrong.com/) - Develop Rationality / [Frontend](https://www.greaterwrong.com/)
+* [Art of Manliness](https://www.artofmanliness.com/) - Develop Life Skills
+* [VisualizeValue](https://archivve.visualizevalue.com/) - Life Lesson Visualizations
+* [Sketchplanations](https://www.sketchplanations.com/) - Explanation Sketches
+* [YouLogicalFallacyIs](https://yourlogicalfallacyis.com/), [FallacyFiles](https://fallacyfiles.org/index.html) or [LogicalFallacies](https://www.logicalfallacies.org/) - Learn about Logical Fallacies
+* [YourBiasIs](https://yourbias.is/) - Learn about Biases
+* [RationalWiki](https://rationalwiki.org/) - Pseudoscience Refutation Wiki
+* [Advanced Logic Calculators](https://pastebin.com/WFZwQw86)
+* [Kialo](https://www.kialo.com/) - Debates / Discussion
+* [WikEnigma](https://wikenigma.org.uk/) - 'Known Unknowns' Wiki
+* [The Trolley Problem Game](https://newfastuff.com/the-trolley-problem-game/) - The Trolley Problem
+* [Social Engineers](https://web.archive.org/web/20221208021915/https://www.socialengineers.net) - Social Engineering Guides
 
 ***
 
@@ -576,6 +572,7 @@
 * [Get Body Smart](https://www.getbodysmart.com/) or [University of Michigan Anatomy](https://sites.google.com/a/umich.edu/bluelink/curricula) -  Anatomy Guides
 * [Inner Body](https://www.innerbody.com/htm/body.html) - Anatomy Atlas (2D&3D)
 * [NIH Print](https://3d.nih.gov/) - Biomedical Science 3D Models
+* [Sectional Anatomy](https://www.sectional-anatomy.org/) - Cross Sectional Educational MRI / CT Scans
 * [University of Minnesota Histology](https://www.histologyguide.org/index.html) or [University of Leeds Histology](http://histology.leeds.ac.uk/) - Histology Guides
 * [Tulane University Pharmacology](https://tmedweb.tulane.edu/pharmwiki/doku.php/start) - Pharmacology Info & Quizzes
 * [Antibiotics Summary](https://imgur.com/rADmmfy) - Antibiotics Summary Image
@@ -594,29 +591,55 @@
 
 ***
 
+## ▷ Geography / Datasets
+
+* 🌐 **[Awesome Datasets](https://github.com/awesomedata/awesome-public-datasets)** - Public Datasets
+* ⭐ **[Worldometer](https://www.worldometers.info/)**, [Internet World Stats](https://www.internetworldstats.com/), [WorldBank](https://databank.worldbank.org/), [US Census](https://data.census.gov/), [DataUSA](https://datausa.io/), [Ozymandias](https://population.ozymandias.so/) or [UN Data](https://data.un.org/) - World Data & Statistics
+* ⭐ **[Our World in Data](https://ourworldindata.org/)** - World Problem Database
+* ⭐ **[The Atlas of Economic Complexity](https://atlas.cid.harvard.edu/)** - Global Economic Growth Data
+* ⭐ **[Soar](https://soar.earth/)** - Digital Atlas
+* [LizardPoint](https://lizardpoint.com/) - Geography Quizzes
+* [The True Size](https://thetruesize.com/) - Compare Country Size
+* [Location Data](https://locationdata.us/) or [NationsEncyclopedia](https://www.nationsencyclopedia.com/) - Location / Population Data
+* [Global Consciousness Project](https://gcpdot.com/) - Real-Time Global Consciousness Data
+* [If It Were My Home](https://www.ifitweremyhome.com/), [GlobalEdge](https://globaledge.msu.edu/) or [MyLifeElsewhere](https://www.mylifeelsewhere.com/) - Country Data Comparisons
+* [WorldPoverty](https://worldpoverty.io/) - World Poverty Data
+* [Dollar Street](https://www.gapminder.org/dollar-street) - Compare Homes by Country / Income
+* [Unequal Scenes](https://unequalscenes.com/) - Scenes of Inequality Around the World
+* [EverySecond](https://everysecond.io/) - Visualize Per Second Data
+* [Internet Live Stats](https://www.internetlivestats.com/) - Live Internet Statistics
+* [Stat Counter](https://gs.statcounter.com/) - Search Engine, Browser and OS Statistics
+* [US Debt Clock](https://www.usdebtclock.org/) - US Debt Clock
+* [OEC](https://oec.world/en) or [UN Comtrade](https://comtradeplus.un.org/) - Global Trade Data
+* [Statista](https://www.statista.com/) - Market Statistics
+* [Netblocks](https://netblocks.org/cost/) - Find Impact of Internet Shutdown on Economy
+* [LittleSis](https://littlesis.org/) - Business / Government Connections Data
+* [World Births and Deaths](https://worldbirthsanddeaths.com/) - World Birth / Death Rates Visualization
+* [MalaCards](https://www.malacards.org/) - Human Disease Database
+* [DataUNODC](https://dataunodc.un.org/) - Drug / Crime Statistics
+* [Gun Violence Archive](https://www.gunviolencearchive.org/) - Gun Violence Information Database
+* [Incarceration in Real Numbers](https://mkorostoff.github.io/incarceration-in-real-numbers/) - Incarceration Visualization / Facts
+* [Expatistan](https://www.expatistan.com/) - Cost of Living Calculator
+* [Pixel Wealth](https://mkorostoff.github.io/1-pixel-wealth/) - Wealth Inequality Visualization
+* [Climate Data](https://climate-data.org/) or [Climate Explorer](https://crt-climate-explorer.nemac.org/) - Climate Change Data
+* [En-ROADS](https://en-roads.climateinteractive.org/scenario.html) - Climate Solutions Simulator
+* [Global Volcanism Program](https://volcano.si.edu/) - Volcano Information Database
+* [8000ers](https://martin-laxenaire.fr/experiments/8000ers/#/everest) - Mountain Visualization & Info
+* [Nextstrain](https://nextstrain.org/) - Pathogen Evolution Tracking
+* [Epidemic Calculator](https://gabgoh.github.io/COVID/index.html) - COVID Data
+* [iCivics](https://www.icivics.org/games) - U.S. Law Learning Games
+* [Symbols](https://www.symbols.com/) - Symbol Database
+* [Flag Guesser](https://flagguesser.com/) - Flag Quizzes
+* [Flag Stories](https://flagstories.co/) - Flag Design Breakdowns
+* [Hate on Display](https://www.adl.org/hate-symbols) - Hate Symbol Database
+
+***
+
 ## ▷ [Programming](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/dev-tools#wiki_.25BA_courses_.2F_tutorials)
 
 ***
 
 ## ▷ [Computer Science](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/dev-tools#wiki_.25B7_computer_science)
-
-***
-
-## ▷ Virtual Tours
-
-* 🌐 **[Virtual Museum Resources](https://mcn.edu/a-guide-to-virtual-museum-resources/)** - Online Museums
-* ⭐ **[CityHop](https://www.cityhop.cafe/)**, [Travel Remotely](https://travel-remotely.netlify.app/), [Walk with Feel](https://walkwithfeel.vercel.app/), [Outside Simulator](https://outsidesimulator.com/), [Japan Walkaround](https://thatguyedd.github.io/), [CityWalks](https://citywalks.live/) or [Virtual Vacations](https://virtualvacation.us/) - Travel Simulators
-* [Gez.la](https://gez.la/) - Virtual Tours Map
-* [Wiki Spaces](https://wiki-spaces.org/) - Virtual Tours
-* [NaturalHistory](https://naturalhistory.si.edu/visit/virtual-tour) - Natural History Museum Virtual Tour
-* [Digital Giza](https://giza.mused.org/) - Great Pyramid Virtual Tours
-* [Persepolis Reimagined](https://persepolis.getty.edu/) - Explore Persepolis Recreation
-* [Spitfire Panorama](https://www.haraldjoergens.com/panoramas/spitfire-td314/files/) - Spitfire Mark IX Cockpit Interactve Panorama
-* [Virtual Vist Tours](https://www.virtualvisittours.com/) - Ireland Virtual Tours
-* [Matterport](https://matterport.com/discover) - Explore Real Places Digitally
-* [Hashima Island](https://www.hashima-island.co.uk/) - Hashima Island Virtual Tour
-* [Zhijianshang](https://www.zhijianshang.com/) or [Airpano](https://www.airpano.com/) - 360 Images / Videos
-* [Smithsonian 3D](https://3d.si.edu/) - Smithsonian 3D Digitization Museum
 
 ***
 
@@ -884,43 +907,6 @@
 * [LitSolutions](https://www.litsolutions.org/) - Textbook Solutions
 * [School Cheats](https://schoolcheats.net/) - School Platform Answers
 
-
-***
-
-## ▷ World Data
-
-* 🌐 **[Awesome Datasets](https://github.com/awesomedata/awesome-public-datasets)** - Public Datasets
-* ⭐ **[Worldometer](https://www.worldometers.info/)**, [Internet World Stats](https://www.internetworldstats.com/), [WorldBank](https://databank.worldbank.org/), [US Census](https://data.census.gov/), [DataUSA](https://datausa.io/), [Ozymandias](https://population.ozymandias.so/) or [UN Data](https://data.un.org/) - World Data & Statistics
-* ⭐ **[Our World in Data](https://ourworldindata.org/)** - World Problem Database
-* ⭐ **[The Atlas of Economic Complexity](https://atlas.cid.harvard.edu/)** - Global Economic Growth Data
-* ⭐ **[Soar](https://soar.earth/)** - Digital Atlas
-* [Location Data](https://locationdata.us/) or [NationsEncyclopedia](https://www.nationsencyclopedia.com/) - Location / Population Data
-* [Global Consciousness Project](https://gcpdot.com/) - Real-Time Global Consciousness Data
-* [If It Were My Home](https://www.ifitweremyhome.com/), [GlobalEdge](https://globaledge.msu.edu/) or [MyLifeElsewhere](https://www.mylifeelsewhere.com/) - Country Data Comparisons
-* [WorldPoverty](https://worldpoverty.io/) - World Poverty Data
-* [Unequal Scenes](https://unequalscenes.com/) - Scenes of Inequality Around the World
-* [EverySecond](https://everysecond.io/) - Visualize Per Second Data
-* [Internet Live Stats](https://www.internetlivestats.com/) - Live Internet Statistics
-* [Stat Counter](https://gs.statcounter.com/) - Search Engine, Browser and OS Statistics
-* [US Debt Clock](https://www.usdebtclock.org/) - US Debt Clock
-* [OEC](https://oec.world/en) or [UN Comtrade](https://comtradeplus.un.org/) - Global Trade Data
-* [Statista](https://www.statista.com/) - Market Statistics
-* [Netblocks](https://netblocks.org/cost/) - Find Impact of Internet Shutdown on Economy
-* [LittleSis](https://littlesis.org/) - Business / Government Connections Data
-* [World Births and Deaths](https://worldbirthsanddeaths.com/) - World Birth / Death Rates Visualization
-* [MalaCards](https://www.malacards.org/) - Human Disease Database
-* [DataUNODC](https://dataunodc.un.org/) - Drug / Crime Statistics
-* [Gun Violence Archive](https://www.gunviolencearchive.org/) - Gun Violence Information Database
-* [Incarceration in Real Numbers](https://mkorostoff.github.io/incarceration-in-real-numbers/) - Incarceration Visualization / Facts
-* [Expatistan](https://www.expatistan.com/) - Cost of Living Calculator
-* [Pixel Wealth](https://mkorostoff.github.io/1-pixel-wealth/) - Wealth Inequality Visualization
-* [Climate Data](https://climate-data.org/) or [Climate Explorer](https://crt-climate-explorer.nemac.org/) - Climate Change Data
-* [En-ROADS](https://en-roads.climateinteractive.org/scenario.html) - Climate Solutions Simulator
-* [Global Volcanism Program](https://volcano.si.edu/) - Volcano Information Database
-* [8000ers](https://martin-laxenaire.fr/experiments/8000ers/#/everest) - Mountain Visualization & Info
-* [Nextstrain](https://nextstrain.org/) - Pathogen Evolution Tracking
-* [Epidemic Calculator](https://gabgoh.github.io/COVID/index.html) - COVID Data
-
 ***
 
 ## ▷ Reference Sites
@@ -980,7 +966,6 @@
 * [Unionpedia](https://en.unionpedia.org/), [Lexipedia](https://www.lexipedia.com/), [VisuWords](https://visuwords.com/)  or [WordWeb](https://wordwebs.app/) - Word Connections / Visualizers
 * [DoesNotTranslate](https://doesnottranslate.com/) or [Eunoia](https://eunoia.world/) - Words with No Translation
 * [Tip of my Tongue](https://chir.ag/projects/tip-of-my-tongue/) - Find Words you Can't Remember
-* [Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/index.html), [IEP](https://iep.utm.edu/) or [nLab](https://ncatlab.org/) - Philosophy Encyclopedias / [Search](https://www.visualizingsep.com/)
 * [TheIdioms](https://www.theidioms.com/) - Idiom Dictionary
 * [RhymeZones](https://www.rhymezone.com/) or [Rhymer](https://rhymer.com/) - Rhyme Dictionary
 * [The Dictionary of Obscure Sorrows](https://www.dictionaryofobscuresorrows.com/) - Dictionary of Sorrows
@@ -992,3 +977,21 @@
 * [WordSafety](http://wordsafety.com/) - Swear Word Indexes
 * [FreeMdict](https://freemdict.com/) - Dictionary Downloads / [Archive](https://downloads.freemdict.com/)
 * [PyGlossary](https://github.com/ilius/pyglossary) - Convert Dictionary Files
+
+***
+
+## ▷ Virtual Tours
+
+* 🌐 **[Virtual Museum Resources](https://mcn.edu/a-guide-to-virtual-museum-resources/)** - Online Museums
+* ⭐ **[CityHop](https://www.cityhop.cafe/)**, [Travel Remotely](https://travel-remotely.netlify.app/), [Walk with Feel](https://walkwithfeel.vercel.app/), [Outside Simulator](https://outsidesimulator.com/), [Japan Walkaround](https://thatguyedd.github.io/), [CityWalks](https://citywalks.live/) or [Virtual Vacations](https://virtualvacation.us/) - Travel Simulators
+* [Gez.la](https://gez.la/) - Virtual Tours Map
+* [Wiki Spaces](https://wiki-spaces.org/) - Virtual Tours
+* [NaturalHistory](https://naturalhistory.si.edu/visit/virtual-tour) - Natural History Museum Virtual Tour
+* [Digital Giza](https://giza.mused.org/) - Great Pyramid Virtual Tours
+* [Persepolis Reimagined](https://persepolis.getty.edu/) - Explore Persepolis Recreation
+* [Spitfire Panorama](https://www.haraldjoergens.com/panoramas/spitfire-td314/files/) - Spitfire Mark IX Cockpit Interactve Panorama
+* [Virtual Vist Tours](https://www.virtualvisittours.com/) - Ireland Virtual Tours
+* [Matterport](https://matterport.com/discover) - Explore Real Places Digitally
+* [Hashima Island](https://www.hashima-island.co.uk/) - Hashima Island Virtual Tour
+* [Zhijianshang](https://www.zhijianshang.com/) or [Airpano](https://www.airpano.com/) - 360 Images / Videos
+* [Smithsonian 3D](https://3d.si.edu/) - Smithsonian 3D Digitization Museum
