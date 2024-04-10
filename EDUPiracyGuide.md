@@ -142,7 +142,7 @@
 
 # ► Learning Sites
 
-* 🌐 **[The Free Learning List](https://freelearninglist.org/)**, **[LearnAwesome](https://learnawesome.org/)**, [Learning Lab](https://learn.uno/), [Quester](https://quester.io/), [AFAIK](https://afaik.io/) / [Discord](https://discord.gg/mMNwRvWM8s), [TutorAI](https://www.tutorai.me/), [Learney](https://maps.joindeltaacademy.com/), [WISC](https://www.wisc-online.com/) or [/sci/ guide](https://sites.google.com/site/scienceandmathguide/) - Learning Resources
+* 🌐 **[The Free Learning List](https://freelearninglist.org/)**, **[LearnAwesome](https://learnawesome.org/)**, [Learning Lab](https://learn.uno/), [Quester](https://quester.io/), [AFAIK](https://afaik.io/) / [Discord](https://discord.gg/mMNwRvWM8s), [TutorAI](https://www.tutorai.me/), [Learney](https://maps.joindeltaacademy.com/) or [WISC](https://www.wisc-online.com/) - Learning Resources
 * 🌐 **[Untools](https://untools.co/)** - Better Thinking Tools
 * 🌐 **[Awesome Educational Games](https://github.com/yrgo/awesome-educational-games)** - Educational Games Index
 * ↪️ **[Typing Tests / Games](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools#wiki_.25B7_typing_lessons)**
@@ -165,66 +165,38 @@
 * [masterWiki](https://masterwiki.how/) - MasterClass Classes Republished as wikiHow Articles
 * [Listenable](https://apps.apple.com/us/app/listenable-learn-with-audio/id1492810539) - 5-Minute Audio Lessons / iOS
 * [LabXchange](https://www.labxchange.org/) or [EduMedia](https://www.edumedia-sciences.com/en/) - Interactive Science Simulations
-* [SenseBot](http://sensebot.com/) - Summarize any Topic
-* [Plickers](https://get.plickers.com/) - Q&A Results App
 * [CuriousCat](https://curiouscat.live/) or [RetroSpring](https://retrospring.net/) - Q&A Communities
-* [AnswerSocrates](https://answersocrates.com/) - Most Asked Questions on Google
-* [Kialo](https://www.kialo.com/) or [Level Point](https://levelpoint.app/) - Debates / Discussion
-* [Tabby Cat](https://tabbycat.readthedocs.io/) - Debate Tournament Tabulation Software
+* [Kialo](https://www.kialo.com/) - Debates / Discussion
 * [LitCharts](https://www.litcharts.com/) - Literature Guides
-* [speaking](https://speaking.io/) - Public Speaking Tips
-* [Electromagnetic Radiation Spectrum Chart](https://i.ibb.co/XCyQNB7/01930032e368.jpg)
-* [The Problem Site](https://www.theproblemsite.com/) - Problems / Puzzles / Games
 * [Philosophy Bro](https://www.philosophybro.com/), [Reasoned](https://www.reasoned.org/dir/) or [PhilosophyBasics](https://www.philosophybasics.com/) - Learn about Philosophy
 * [Social Engineers](https://web.archive.org/web/20221208021915/https://www.socialengineers.net) - Social Engineering Guides
 * [Brainkit](https://www.braink.it/) - Learn Helpful Principles
 * [RationalWiki](https://rationalwiki.org/) - Pseudoscience Refutation Wiki
 * [YouLogicalFallacyIs](https://yourlogicalfallacyis.com/), [FallacyFiles](https://fallacyfiles.org/index.html) or [LogicalFallacies](https://www.logicalfallacies.org/) - Learn about Logical Fallacies
-* [Debunking Skeptics](https://www.debunkingskeptics.com/) - Pseudo-Skeptical Fallacies
 * [YourBiasIs](https://yourbias.is/) - Learn about Biases
 * [LessWrong](https://www.lesswrong.com/) - Develop Rationality / [Frontend](https://www.greaterwrong.com/)
 * [Advanced Logic Calculators](https://pastebin.com/WFZwQw86) 
-* [SkillsYouNeed](https://www.skillsyouneed.com/) or [Art of Manliness](https://www.artofmanliness.com/) - Develop Life Skills
+* [Art of Manliness](https://www.artofmanliness.com/) - Develop Life Skills
 * [VisualizeValue](https://archivve.visualizevalue.com/) - Life Lesson Visualizations
 * [Sketchplanations](https://www.sketchplanations.com/) - Explanation Sketches
-* [A to Z Manners](https://www.a-to-z-of-manners-and-etiquette.com/) - Learn Manners / Etiquette
 * [WikEnigma](https://wikenigma.org.uk/) - 'Known Unknowns' Wiki
 * [The Trolley Problem Game](https://newfastuff.com/the-trolley-problem-game/) - The Trolley Problem
-* [GCFGlobal](https://edu.gcfglobal.org/) - Tech Tutorials
-* [CS 182 Deep learning](https://cs182sp21.github.io/) - Deep Neural Network Lesson Slides
-* [AskNature](https://asknature.org/) - Natural Strategies / Solutions
-* [GeoNames](https://www.geonames.org/) - Geography Name Database
-* [LizardPoint](https://lizardpoint.com/), [Worldle](https://worldle.teuteuf.fr/), [GeoQuest](https://geoquest.gg/) or [Map Quiz](https://planemad.github.io/map-quiz/) - Geography Quizzes
-* [travle](https://travle.earth/) - Guess Countries Between Two Locations
-* [Geo-Memorizer](https://geo-memorizer.web.app/) - Geography Memorization Game
-* [Micronations Wiki](https://micronations.wiki/) - Micronations Wiki
-* [Statele](https://statele.teuteuf.fr/) - State Quiz
-* [Geograph WorldWide](https://www.geograph.org/) - Worldwide Photographs
+* [LizardPoint](https://lizardpoint.com/) - Geography Quizzes
 * [Flag Guesser](https://flagguesser.com/) - Flag Quizzes
-* [Flagpedia](https://flagpedia.net/) or [US Flags](https://usflags.design/) - Flag Indexes
 * [Flag Stories](https://flagstories.co/) - Flag Design Breakdowns
 * [The True Size](https://thetruesize.com/) - Compare Country Size
 * [iCivics](https://www.icivics.org/games) - U.S. Law Learning Games
 * [Dollar Street](https://www.gapminder.org/dollar-street) - Compare Homes by Country / Income
-* [Traffic Simulation](https://traffic-simulation.de/) - Traffic Flow Simulation
 * [Bridge Command](https://www.bridgecommand.co.uk/) - Bridge Command Ship Simulator
 * [Sectional Anatomy](https://www.sectional-anatomy.org/) - Cross Sectional Educational MRI / CT Scans
-* [Ray Optics Simulation](https://phydemo.app/ray-optics/) - Light Reflection / Refraction Simulator
 * [Lights and Shadows](https://ciechanow.ski/lights-and-shadows/) - Light and Shadow Lesson
-* [Interactive 4D Handbook](https://baileysnyder.com/interactive-4d/) - Interactive Fourth Dimension
 * [British & Exotic Mineralogy](https://www.c82.net/mineralogy/) - Mineralogy Database
-* [Camopedia](https://www.camopedia.org/) - Camouflage Wiki
 * [AirVectors](https://www.airvectors.net/) - Aircraft Wiki
-* [Robot Shop](https://community.robotshop.com/) - Robotics Forum
-* [Cro-Wood](https://www.cro-wood.com/) - Woodworking Forum
-* [Alt Law Forum](https://altlawforum.org/) - Alternative Law Forum
-* [STORY](https://archive.org/details/RobertMcKeeStorypdf/) - Screenwriting Principles
 * [Animated Knots](https://www.animatedknots.com/) or [NetKnots](https://www.netknots.com/) - Learn to Tie Knots
 * [Ian's Shoelace Site](https://www.fieggen.com/shoelace/) - Learn to Tie Shoelaces
 * [Perry Morse](https://www.perry.qa/morse), [Morse Typing Trainer](https://morse.withgoogle.com/learn/) or [ICWO](https://lcwo.net/) - Learn / Practice Morse Code
 * [BeatBlackjack](https://www.beatblackjack.org/) - Learn Blackjack Card Counting
 * [ActivistHandbook](https://activisthandbook.org/) - Campaigning / Activism Guides
-* [RSOE](https://rsoe-edis.org/) - Emergency and Disaster Information Service
 * [Awful-A.I.](https://github.com/daviddao/awful-ai) - Negative A.I. Usage Examples
 * [Symbols](https://www.symbols.com/) - Symbol Database
 * [Hate on Display](https://www.adl.org/hate-symbols) - Hate Symbol Database
@@ -303,6 +275,8 @@
 * [Physics forums](https://www.physicsforums.com/) - Forum / Physics / Science Forum
 * [Physics Olympiads](https://discord.gg/phods) - Physics Discord Community
 * [Quantum Web Directory](https://qntm2017.github.io/qntm/OV.html) - Science / Tech / Math / Physics
+* [Interactive 4D Handbook](https://baileysnyder.com/interactive-4d/) - Interactive Fourth Dimension
+* [Ray Optics Simulation](https://phydemo.app/ray-optics/) - Light Reflection / Refraction Simulator
 * [Compare Pendulum](https://www.myphysicslab.com/pendulum/compare-pendulum-en.html) - Pendulum Simulator
 * [OpenFoam](https://openfoam.org/), [PC Progress](https://www.pc-progress.com/), [Fluid Simulation WebGL](https://paveldogreat.github.io/WebGL-Fluid-Simulation/), [WebGL Fluid Experiment](https://haxiomic.github.io/GPU-Fluid-Experiments/html5/) or [Sim Flow](https://sim-flow.com/) - Fluid Dynamics Simulators
 * [SimScale](https://www.simscale.com/) or [CFDTool](https://www.cfdtool.com/) - Fluid Dynamics & Heat Transfer
@@ -311,6 +285,7 @@
 * [LAMMPS](https://www.lammps.org/) - Molecular Dynamics (MD) Code
 * [avogadro](https://sourceforge.net/projects/avogadro/) or [MolView](https://molview.org/) - Molecular Viewers / Editors
 * [Simuwaerm](https://github.com/file-acomplaint/simuwaerm) - Heat Simulator
+* [Electromagnetic Radiation Spectrum Chart](https://i.ibb.co/XCyQNB7/01930032e368.jpg)
 
 ***
 
@@ -326,6 +301,7 @@
 * [Sanfoundry](https://www.sanfoundry.com/) - Engineering Questions & Answers
 * [CESDB](https://www.cesdb.com/) - Civil Engineering Software
 * [How a Car Works](https://www.howacarworks.com/) - Car Mechanics / Automotive Engineering Guides
+* [Robot Shop](https://community.robotshop.com/) - Robotics Forum
 * [HDLBits](https://hdlbits.01xz.net/) - Learn Circuit Design
 * [BatteryUniversity](https://batteryuniversity.com/articles) - Learn About Batteries
 * [Electronics Tutorials](https://www.electronics-tutorials.ws/) - Electronic Guides
@@ -355,10 +331,6 @@
 * [AntWeb](https://www.antweb.org/) - Ant Species Database
 * [Macroinvertebrates](https://www.macroinvertebrates.org/) - Freshwater Macroinvertebrates Atlas
 * [Life Under the Ice](https://lifeundertheice.org/) - View Antarctic Microbes
-* [Get Body Smart](https://www.getbodysmart.com/) - Learn about Human Anatomy and Physiology
-* [NIH Print](https://3d.nih.gov/) - Biomedical Science 3D Models
-* [Glass AI](https://glass.health/ai) - Medical Diagnoses' Training AI
-* [Radiopaedia](https://radiopaedia.org/) - Radiology Resources
 * [WhyDoCatsAndDogs...?](https://whydocatsanddogs.com/) - Pet Q&A Site
 * [Backyard Chickens](https://www.backyardchickens.com/) - Chicken Raising Forum
 * [DinosaurPictures](https://dinosaurpictures.org/) - Dinosaur Info / Images
@@ -590,6 +562,36 @@
 * [DevinKorwin Color Guide](https://twitter.com/devinkorwin/status/1278049901709012995) - Color in Paintings Guide
 * [Draw Mix Paint](https://www.drawmixpaint.com/) - Learn Oil Painting
 * [Painting Demos](https://paintingdemos.com/) - Painting Demonstrations
+
+***
+
+## ▷ Med School
+
+* ↪️ **[Health Resources](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25BA_health)**
+* ⭐ **[Khan Academy](https://www.khanacademy.org/science/health-and-medicine)** - Basic overviews of Physiology and Pathology
+* ⭐ **[Afratafreeh](https://afratafreeh.com/category/brands/)** - Medical Video Courses and Books
+* [MSD Manuals](https://www.msdmanuals.com/) or [Epocrates](https://www.epocrates.com/) - Medical Reference Site
+* [Glass AI](https://glass.health/ai) - Medical Diagnoses' Training AI
+* [Get Body Smart](https://www.getbodysmart.com/) or [University of Michigan Anatomy](https://sites.google.com/a/umich.edu/bluelink/curricula) -  Anatomy Guides
+* [Inner Body](https://www.innerbody.com/htm/body.html) - Anatomy Atlas (2D&3D)
+* [NIH Print](https://3d.nih.gov/) - Biomedical Science 3D Models
+* [University of Minnesota Histology](https://www.histologyguide.org/index.html) or [University of Leeds Histology](http://histology.leeds.ac.uk/) - Histology Guides
+* [Tulane University Pharmacology](https://tmedweb.tulane.edu/pharmwiki/doku.php/start) - Pharmacology Info & Quizzes
+* [Antibiotics Summary](https://imgur.com/rADmmfy)
+* [ECGPedia](https://ecgpedia.org/), [Healio ECG Review](https://www.healio.com/cardiology/learn-the-heart/ecg-review) or [ECG Library](https://litfl.com/ecg-library/) - ECG Information
+* [The ECG Course](https://www.youtube.com/playlist?list=PLVRaFpHAzzCgJdurDKLdG464Z2sMAy4oY) - ECG Video Course
+* [ECG Wave-Maven: Self-Assessment Program](https://ecg.bidmc.harvard.edu/maven/mavenmain.asp) - ECG Practice
+* [Massey University Heart Animation](https://library.med.utah.edu/kw/pharm/hyperheart/#animation_container)
+* [Emergency Medicine Cases](https://emergencymedicinecases.com/) - EM Cases
+* [EMCrit](https://emcrit.org/) - EM Information
+* [EMRap](https://www.emrap.org/hd) - EM Videos
+* [Radiopaedia](https://radiopaedia.org/), [Radiology Assistant.nl](https://radiologyassistant.nl/) or [Radiology Education](https://www.radiologyeducation.com/) - Radiology Resources
+* [University of Utah Pathology](https://webpath.med.utah.edu/webpath.html) - Pathology Guide
+* [The Iowa Virtual Slidebox](https://www.mbfbioscience.com/iowavirtualslidebox) - Pathology Atlas Software
+* [ABG Ninja](https://abg.ninja/quiz), [Geeky Medics](https://geekymedics.com/), [UC San Diego CG](https://meded.ucsd.edu/clinicalmed/introduction.html)  or [Easy Auscultation](https://www.easyauscultation.com/) - Clinical Guides
+* [MDCalc](https://www.mdcalc.com/) - Clinical Tools
+* [/r/medicalschoolanki/](https://www.reddit.com/r/medicalschoolanki/) - Community for Medical Anki Cards
+* [CRAM.com](https://www.cram.com/medical) - Medical Flashcards 
 
 ***
 
