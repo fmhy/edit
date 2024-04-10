@@ -570,7 +570,7 @@
 * ↪️ **[Health Resources](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25BA_health)**
 * ⭐ **[Khan Academy](https://www.khanacademy.org/science/health-and-medicine)** - Physiology / Pathology Overviews
 * ⭐ **[Afratafreeh](https://afratafreeh.com/category/brands/)** - Medical Video Courses and Books
-* [MSD Manuals](https://www.msdmanuals.com/) or [Epocrates](https://www.epocrates.com/) - Medical Reference Site
+* [MDCalc](https://www.mdcalc.com/), [MSD Manuals](https://www.msdmanuals.com/) or [Epocrates](https://www.epocrates.com/) - Medical Reference Sites / Tools
 * [Glass AI](https://glass.health/ai) - Medical Diagnoses' Training AI
 * [Get Body Smart](https://www.getbodysmart.com/) or [University of Michigan Anatomy](https://sites.google.com/a/umich.edu/bluelink/curricula) -  Anatomy Guides
 * [Inner Body](https://www.innerbody.com/htm/body.html) - Anatomy Atlas (2D&3D)
@@ -589,7 +589,6 @@
 * [University of Utah Pathology](https://webpath.med.utah.edu/webpath.html) - Pathology Guide
 * [The Iowa Virtual Slidebox](https://www.mbfbioscience.com/iowavirtualslidebox) - Pathology Atlas Software
 * [ABG Ninja](https://abg.ninja/quiz), [Geeky Medics](https://geekymedics.com/), [UC San Diego CG](https://meded.ucsd.edu/clinicalmed/introduction.html)  or [Easy Auscultation](https://www.easyauscultation.com/) - Clinical Guides
-* [MDCalc](https://www.mdcalc.com/) - Clinical Tools
 * [/r/medicalschoolanki/](https://www.reddit.com/r/medicalschoolanki/) - Community for Medical Anki Cards
 * [CRAM.com](https://www.cram.com/medical) - Medical Flashcards 
 
