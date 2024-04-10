@@ -1377,7 +1377,7 @@
 * [USA.css](https://bennettfeely.com/usacss/) - USA CSS Style
 * [CSSLayout](https://phuoc.ng/collection/css-layout/), [CSS Layout Generator](https://layout.bradwoods.io/), [BoxBox](https://seansleblanc.itch.io/boxboxhtml) or [CSSGridGenerator](https://cssgrid-generator.netlify.app/) - CSS Layout / Grid Generators
 * [Box-Shadow](https://box-shadow.art/) - CSS Box Shadow Generator
-* [Shadow Palette Generator](https://www.joshwcomeau.com/shadow-palette/) - CSS Shadow Generator
+* [Shadow Palette Generator](https://www.joshwcomeau.com/shadow-palette/) or [Neumorphism.io](https://neumorphism.io/) - CSS Shadow Generators
 * [css.glass](https://css.glass/) - CSS Glass Effect Generator
 * [ClassyFont](https://www.classyfont.com/) - CSS Font Generator
 * [Modern Fonts Stacks](https://modernfontstacks.com/) - CSS Fonts
