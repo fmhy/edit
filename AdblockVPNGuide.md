@@ -325,13 +325,13 @@
 * ↪️ **[YouTube Frontends](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/social-media#wiki_.25B7_youtube_frontends)**
 * ⭐ **[LibRedirect](https://libredirect.github.io/)** / [2](https://github.com/libredirect/libredirect), [Predirect](https://github.com/libreom/predirect) or [Proxy Redirect](https://openuserjs.org/scripts/sjehuda/Proxy_Redirect) - Frontend Redirect Extensions
 * [Numblr](https://github.com/heyLu/numblr) - Self-Hosted Frontend Redirect
-* [Photon](https://photon-reddit.com/) or [redlib](https://github.com/redlib-org/redlib) - Reddit Frontends
+* [Photon](https://photon-reddit.com/), [reditr](https://reditr.com/) or [redlib](https://github.com/redlib-org/redlib) - Reddit Frontends
 * [Invidious Redirect](https://addons.mozilla.org/en-US/firefox/addon/hooktube-redirect/?src=search) - YouTube Frontend Redirect
 * [twstalker](https://twstalker.com/) - Twitter Frontend
 * [Proxigram](https://codeberg.org/ThePenguinDev/Proxigram) or [Imginn](https://imginn.com) - Instagram Frontends
 * [Proxitok](https://github.com/pablouser1/ProxiTok) or [TikNot](https://tiknot.netlify.app/) / [Redirect](https://greasyfork.org/en/scripts/482683) - TikTok Frontends
 * [Tumlook](https://www.tumlook.com/) or [PriviBlur](https://github.com/syeopite/priviblur) - Tumblr Frontends
-* [BreezeWiki](https://breezewiki.com/) - Fandom Frontend / [Mirrors](https://docs.breezewiki.com/Links.html#(part._.Mirrors)
+* [BreezeWiki](https://breezewiki.com/) - Fandom Frontend / [Mirrors](https://pastebin.com/DmbrhEDD)
 * [MikuInvidious](https://0xacab.org/johnxina/mikuinvidious) - BiliBili Frontend
 * [SafeTwitch](https://codeberg.org/SafeTwitch/safetwitch) or [Twineo](https://codeberg.org/CloudyyUw/twineo) - Twitch Frontends
 * [Whoogle](https://benbusby.com/projects/whoogle-search/) - Google Search Frontend
@@ -347,7 +347,7 @@
 * [Dumb](https://codeberg.org/rramiachraf/dumb) or [Intellectual](https://github.com/Insprill/intellectual) - Genius Frontend
 * [Rural Dictionary](https://codeberg.org/zortazert/rural-dictionary) - Urban Dictionary Frontend
 * [BiblioReads](https://codeberg.org/nesaku/BiblioReads) - Goodreads Frontend
-* [LibreMDb](https://libremdb.iket.me - IMDb Frontend
+* [LibreMDb](https://libremdb.iket.me) - IMDb Frontend
 * [Neuters](https://neuters.de/) - Reuters Frontend
 
 ***
