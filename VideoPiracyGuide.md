@@ -231,7 +231,7 @@
 
 ## ▷ Drama Streaming
 
-* ⭐ **[DramaCool](https://asianwiki.co/)**, [2](https://dramacool.pa/), [3](https://watchasian.ar/), [4](https://runasian.net/) - TV / Movies / 1080p 
+* ⭐ **[DramaCool](https://asianc.to/)**, [2](https://dramanice.la/), [3](https://runasian.net/) - TV / Movies / 1080p  / [Mirror List](https://asianwiki.co/)
 * ⭐ **[KissAsian](https://kissasian.lu/)**, [2](https://kissasian.video/), [3](https://kissasian.si) - TV / Movies
 * ⭐ **[GoPlay](https://goplay.pw)** [2](https://goplay.wtf/), [3](https://goplay.anontpp.com/) - TV / Movies / 1080p / Join [Discord](https://discord.com/invite/yY2P3DQR8S) for Code
 * [Chinese Drama Site Index](https://www.reddit.com/r/CDrama/wiki/streaming)
@@ -242,7 +242,6 @@
 * [ADrama](https://www1.adrama.to/) - TV / Movies
 * [Viki](https://www.viki.com/) - TV / Movies
 * [KDramaHood](https://kdramahood.com/home2/) - TV / Movies
-* [DramaNice](https://dramanice.la/) - TV
 * [KissTVShow](https://kisstvshow.to/) - TV
 * [MyAsianTV](https://myasiantv.cx/) - TV / Movies
 * [OneTouchTV](https://onetouchtv.co/) - TV / Movies
