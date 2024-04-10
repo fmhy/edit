@@ -19,6 +19,7 @@
 * ⭐ **[BlockTheSpot](https://github.com/mrpond/BlockTheSpot)** - [Discord](https://discord.gg/9tCNMFESuC)
 * [spotify-ezblocker](https://www.ericzhang.me/projects/spotify-ad-blocker-ezblocker/)
 * [BurntSushi](https://github.com/OpenByteDev/burnt-sushi)
+* [Spicetify](https://spicetify.app/) - Has Adblock Plugins
 * [Block Ad Host Files](https://gist.github.com/opus-x/3e673a9d5db2a214df05929a4eee6a57), [2](https://github.com/AlfonsoVergara-github/Host-to-block-ads-for-spotify)
 * [Spotify Adblock Guide](https://redd.it/yme7pf)
 
