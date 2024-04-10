@@ -568,7 +568,7 @@
 ## ▷ Med School
 
 * ↪️ **[Health Resources](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25BA_health)**
-* ⭐ **[Khan Academy](https://www.khanacademy.org/science/health-and-medicine)** - Basic overviews of Physiology and Pathology
+* ⭐ **[Khan Academy](https://www.khanacademy.org/science/health-and-medicine)** - Physiology / Pathology Overviews
 * ⭐ **[Afratafreeh](https://afratafreeh.com/category/brands/)** - Medical Video Courses and Books
 * [MSD Manuals](https://www.msdmanuals.com/) or [Epocrates](https://www.epocrates.com/) - Medical Reference Site
 * [Glass AI](https://glass.health/ai) - Medical Diagnoses' Training AI
@@ -577,14 +577,14 @@
 * [NIH Print](https://3d.nih.gov/) - Biomedical Science 3D Models
 * [University of Minnesota Histology](https://www.histologyguide.org/index.html) or [University of Leeds Histology](http://histology.leeds.ac.uk/) - Histology Guides
 * [Tulane University Pharmacology](https://tmedweb.tulane.edu/pharmwiki/doku.php/start) - Pharmacology Info & Quizzes
-* [Antibiotics Summary](https://imgur.com/rADmmfy)
+* [Antibiotics Summary](https://imgur.com/rADmmfy) - Antibiotics Summary Image
 * [ECGPedia](https://ecgpedia.org/), [Healio ECG Review](https://www.healio.com/cardiology/learn-the-heart/ecg-review) or [ECG Library](https://litfl.com/ecg-library/) - ECG Information
 * [The ECG Course](https://www.youtube.com/playlist?list=PLVRaFpHAzzCgJdurDKLdG464Z2sMAy4oY) - ECG Video Course
 * [ECG Wave-Maven: Self-Assessment Program](https://ecg.bidmc.harvard.edu/maven/mavenmain.asp) - ECG Practice
-* [Massey University Heart Animation](https://library.med.utah.edu/kw/pharm/hyperheart/#animation_container)
-* [Emergency Medicine Cases](https://emergencymedicinecases.com/) - EM Cases
-* [EMCrit](https://emcrit.org/) - EM Information
-* [EMRap](https://www.emrap.org/hd) - EM Videos
+* [Hyper Heart](https://library.med.utah.edu/kw/pharm/hyperheart/#animation_container) - Massey University Heart Animation
+* [Emergency Medicine Cases](https://emergencymedicinecases.com/) - EM Case Index
+* [EMCrit](https://emcrit.org/) - Emergency Medicine Information
+* [EMRap](https://www.emrap.org/hd) - Emergency Medicine Videos
 * [Radiopaedia](https://radiopaedia.org/), [Radiology Assistant.nl](https://radiologyassistant.nl/) or [Radiology Education](https://www.radiologyeducation.com/) - Radiology Resources
 * [University of Utah Pathology](https://webpath.med.utah.edu/webpath.html) - Pathology Guide
 * [The Iowa Virtual Slidebox](https://www.mbfbioscience.com/iowavirtualslidebox) - Pathology Atlas Software
