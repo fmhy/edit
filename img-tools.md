@@ -365,7 +365,7 @@
 ## ▷ Painting
 
 * ⭐ **[Krita](https://krita.org/en/)** - Painting App
-* * ⭐ **Krita Tools** - [Custom Backend](https://github.com/Interpause/auto-sd-paint-ext) / [AI Generation](https://github.com/Acly/krita-ai-diffusion/) / [Forums](https://krita-artists.org/)
+* ⭐ **Krita Tools** - [Custom Backend](https://github.com/Interpause/auto-sd-paint-ext) / [AI Generation](https://github.com/Acly/krita-ai-diffusion/) / [Forums](https://krita-artists.org/)
 * [SmoothDraw](https://qrli.github.io/smoothdraw/) - Painting App
 * [MyPaint](https://mypaint.app/) - Painting App
 * [FireAlpaca](https://firealpaca.com/) - Painting App
