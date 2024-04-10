@@ -212,7 +212,7 @@
 * [TypeRush](https://www.typerush.com/) - Typing Games
 * [ARRRType](https://www.arrrtype.com/) - Typing Games
 * [NGram Type](https://ranelpadon.github.io/ngram-type/), [Keyzen3](https://adamgradzki.com/keyzen3/) or [Keyzen Colmak](https://ranelpadon.github.io/keyzen-colemak-dh/) - Touch Typing Tests
-* [Smassh](https://github.com/kraanzu/smassh), [Ttyper](https://github.com/max-niederman/ttyper) or [TermTyper](https://github.com/kraanzu/termtyper) - Terminal Typing Tests
+* [Ttyper](https://github.com/max-niederman/ttyper) or [TermTyper](https://github.com/kraanzu/termtyper) - Terminal Typing Tests
 * [TypeLit.io](https://www.typelit.io/) - Book Typing Tests
 * [Colemak Academy](https://www.colemak.academy/) - Alt / Custom Keyboard Tests
 * [klavaro](https://klavaro.sourceforge.io/), [TypingStudy](https://www.typingstudy.com/) or [TypeFast](https://typefast.io/) - Multilingual Typing Tests
@@ -259,6 +259,7 @@
 * [QOwnNotes](https://www.qownnotes.org/)
 * [Zim Wiki](https://zim-wiki.org/)
 * [Laverna](https://laverna.cc/)
+* [FastNotes](https://fastedit.frozenassassine.de/)
 * [Google Keep](https://keep.google.com/)
 * [wikidPad](https://wikidpad.sourceforge.net/)
 * [tomboy-ng](https://github.com/tomboy-notes/tomboy-ng)
@@ -372,6 +373,7 @@
 * ⭐ **[Linked](https://uselinked.com/)**, [journaltxt](https://journaltxt.github.io/), [Gekri](https://gekri.com/), [Microsoft Journal](https://www.microsoft.com/en-us/garage/profiles/journal/), [Diarium](https://diariumapp.com/), [Gemlog](https://gemlog.blue/) or [jrnl.sh](https://jrnl.sh/) - Journal Apps / [Songs](https://deardiary.ai/)
 * ⭐ **[ChaoticShiny](http://chaoticshiny.com/)**, [Seventh Sanctum](https://www.seventhsanctum.com/), [Notebook.ai](https://www.notebook.ai/) or [WorldAnvil](https://www.worldanvil.com/) - Fantasy Writing Generators
 * [LanguageIsAVirus](https://www.languageisavirus.com/) - Writing Prompts
+* [Storylines](https://github.com/morning4coffe-dev/storylines) - Chapter Based Story Writing
 * [Twinery](https://twinery.org/) - Interactive Non-Linear Story Creator
 * [Infinite Story](https://infinite-story.com/) or [WriteAlong](https://www.writealong.io/) - Collaborative Story Writing
 * [Blackout Poetry](https://blackoutpoetry.glitch.me/) - Blackout Poetry Creator
