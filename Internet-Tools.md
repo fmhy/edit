@@ -275,7 +275,7 @@
 * [tny.im](https://tny.im) - `tny.im/rw-`
 * [ai6.net](https://ai6.net/) - `ai6.net/nm3tyz`
 * [SmartLinks](https://smartlnks.com/) - `smartlnks.com/Vjr0m`
-* [Emojied](https://emojied.net/), [vi8hl0c](https://xn--vi8hl0c.ws/ or [kn8h](https://xn--kn8h.to/)
+* [Emojied](https://emojied.net/), [vi8hl0c](https://xn--vi8hl0c.ws/) or [kn8h](https://xn--kn8h.to/)
 * [offf.to](https://offf.to/) - Short Links via Browser
 * [ShortShare](https://shortshare.app/) - Short Link App
 * [BR3F](https://www.br3f.com/) - Temporary Short Links
@@ -506,6 +506,7 @@
 * [External App Button](https://add0n.com/external-application-button.html) - Connect Browser to External Apps
 * [xBrowserSync](https://www.xbrowsersync.org/) - Browser Syncing
 * [Stylebot](https://stylebot.dev/) - Modify Webpages
+* [SocialFocus](https://socialfocus.app/) - Hide Distracting Elements on Social Media Sites
 * [Screen Color Temperature](https://mybrowseraddon.com/screen-color-temperature.html) - Adjust Screen Color Temperature
 * [ColorZilla](https://www.colorzilla.com/) or [ColorFish](https://ui.vision/colorfish) - Color Picker
 * [Clippings](https://aecreations.io/clippings/index.php) or [Quick Copy](https://github.com/ramitmittal/quick-copy) - Clipboard Manager
@@ -515,7 +516,8 @@
 * [Copy Selection as Markdown](https://github.com/0x6b/copy-selection-as-markdown) - Copy Text as Markdown 
 * [CopyFish](https://ocr.space/copyfish) - Grab Text from Images 
 * [Talkie](https://joelpurra.com/projects/talkie/) or [Offline Text to Speech](https://virejdasani.github.io/OfflineTextToSpeech-Extension/) - Text to Speech
-* [Text Link](hhttps://github.com/piroor/textlink/) - Make Non-Hyperlinked URLs Clickable
+* [Text Link](https://github.com/piroor/textlink/) - Make Non-Hyperlinked URLs Clickable
+* [Max Focus](https://maxfoc.us/) - Preview links
 * [Cookie-AutoDelete](https://github.com/Cookie-AutoDelete/Cookie-AutoDelete) - Auto Delete Cookies
 * [I still don't care about cookies](https://github.com/OhMyGuus/I-Still-Dont-Care-About-Cookies) or [Consent-O-matic](https://consentomatic.au.dk/) / [2](https://github.com/cavi-au/Consent-O-Matic) - Block Cookie Consent Popups
 * [EditThisCookie](https://www.editthiscookie.com/) or [Cookie-Editor](https://cookie-editor.cgagnier.ca/) - Cookies Managers
