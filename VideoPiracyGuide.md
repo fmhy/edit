@@ -11,6 +11,7 @@
 * ⭐ **[movie-web](https://movie-web.github.io/docs/instances)**, [2](https://erynith.github.io/movie-web-instances/) - Movies / TV / Anime / 1080p
 * ⭐ **[FMovies](https://fmoviesz.to/)** - Movies / TV / Anime / 1080p / [Mirrors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_fmovies_clones)
 * ⭐ **[Braflix](https://www.braflix.video/)** - Movies / TV / Anime / 4K / 1080p / [Discord](https://discord.gg/wWKmxARaWH)
+* ⭐ **[Youplex](https://youplex.site/)** - Movies / TV / Anime / 4K / 1080p / [Telegram](https://t.me/youplexannouncments)
 * ⭐ **[Binged](https://binged.live/)**, [2](https://binged.in/), [3](https://binge.lol/) - Movies / TV / Anime / 1080p / [Discord](https://discord.gg/f2SvhcKCKS)
 * ⭐ **[watch.lonelil](https://watch.lonelil.ru/)** - Movies / TV / Anime / 1080p / [Discord](https://discord.com/invite/BKts6Jb5sA) / [Telegram](https://t.me/watchlonelil)
 * ⭐ **[NetFilm](https://netfilm.app/)** - Movies / TV / Anime / 1080p / [Discord](https://discord.gg/g37Fc8u4ks)
