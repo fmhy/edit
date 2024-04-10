@@ -170,7 +170,7 @@
 ## ▷ Design Apps
 
 * ⭐ **[Canva](https://www.canva.com/)** - Design App/ [Premium Apk](https://rentry.co/FMHYBase64#canva-premium) / [Free Giveaways](https://t.me/canvapro365free), [2](https://t.me/sharecanvaprofree)
-* ⭐ **[Figma](https://www.figma.com/)** - Design Colab App
+* ⭐ **[Figma](https://www.figma.com/)** - Design Collab App
 * [lunacy](https://icons8.com/lunacy) - Design App
 * [ArtBoard](https://artboard.studio/) - Design App
 * [VistaCreate](https://create.vista.com/) - Design App
