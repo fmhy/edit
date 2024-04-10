@@ -18,7 +18,7 @@
 * ⭐ **[Deluge](https://www.deluge-torrent.org/)** - [Screenshot](https://i.ibb.co/HdwCH5Q/678a01f3b439.png) / [Plugins](https://dev.deluge-torrent.org/wiki/Plugins) / [Config](https://github.com/ratanakvlun/deluge-ltconfig/releases) / [Telegram Plugin](https://github.com/noam09/deluge-telegramer)
 * ⭐ **[Transmission](https://transmissionbt.com/)** - [Screenshot](https://i.ibb.co/z550kRy/571b08f4981e.png)
 * ⭐ **[torrent-control](https://github.com/Mika-/torrent-control)** or [Remote Torrent Adder](https://github.com/bogenpirat/remote-torrent-adder) - Easily Send Torrents to Client 
-* ⭐ **[Tixati](https://tixati.com/)** - [Screenshot](https://i.ibb.co/tPfyPRQ/b0683ce2eb49.png) 
+* ⭐ **[Tixati](https://tixati.com/)** - [Screenshot](https://i.ibb.co/tPfyPRQ/b0683ce2eb49.png)
 * [Motrix](https://motrix.app/) - [Screenshot](https://i.ibb.co/SQqrdpW/2950c09df08a.png) / [GitHub](https://github.com/agalwood/Motrix)
 * [WizTorrent](https://wiztorrent.com/) - [Screenshot](https://i.ibb.co/7zbQ9Yt/O3VbklP.jpg) / Torrent Player / WebShare
 * [Picotorrent](https://picotorrent.org/) - [Screenshot](https://i.ibb.co/Pz4qb8Q/df96c0ff3912.png)
@@ -27,7 +27,6 @@
 * [PikaTorrent](https://www.pikatorrent.com/) - [Screenshot](https://ibb.co/zGyT1tc) / [GitHub](https://github.com/G-Ray/pikatorrent)
 * [Distribyted](https://distribyted.com/) - [Screenshot](https://i.ibb.co/m8TQBPh/f5dfcb4b192f.png) / [GitHub](https://github.com/distribyted/distribyted)
 * [Crawfish](https://github.com/drakonkat/Crawfish) - [Screenshot](https://i.ibb.co/DVVVdpG/8406bc7e0a39.png)
-* [GoSpeed](https://github.com/GopeedLab/gopeed) - [Screenshot](https://github.com/GopeedLab/gopeed/blob/main/_docs/img/ui-demo.png)
 * [Tribler](https://www.tribler.org/) - Tor-inspired Client / [Screenshot](https://i.ibb.co/k4jt0FJ/20d3bd279896.png) / [GitHub](https://github.com/Tribler/tribler)
 * [aria2](https://aria2.github.io/) - Terminal Torrent Client / [Screenshot](https://i.ibb.co/SmsxmW3/3e213c54b148.png) / [GitHub](https://github.com/aria2/aria2) / [Download Bot](https://github.com/gaowanliang/DownloadBot) / [GUI](https://github.com/persepolisdm/persepolis) / [Frontend](https://ariang.mayswind.net/) / [WebUI](https://github.com/ziahamza/webui-aria2) / [GUI](https://persepolisdm.github.io/)
 * [XD-Torrent](https://xd-torrent.github.io/) - Anonymous P2P Torrent Client
