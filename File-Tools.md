@@ -42,6 +42,7 @@
 * ⭐ **[JDownloader](https://jdownloader.org/jdownloader2)** - Download Manager / [Debloat](https://rentry.org/jdownloader2) / [Captcha Solver](https://github.com/cracker0dks/CaptchaSolver) / [Dark Theme](https://redd.it/q3xrgj) / [Dracula Theme](https://draculatheme.com/jdownloader2)
 * ⭐ **[XDM](https://xtremedownloadmanager.com/)** - Download Manager / [GitHub](https://github.com/subhra74/xdm) 
 * ⭐ **[Motrix](https://www.motrix.app/)** - Download Manager / [Web Extensions](https://github.com/gautamkrishnar/motrix-webextension/) / [GitHub](https://github.com/agalwood/Motrix)
+* ⭐ **[GoSpeed](https://github.com/GopeedLab/gopeed)** - Download Manager
 * [pyLoad](https://pyload.net/) - Lightweight Download Manager
 * [File Centipede](https://filecxx.com/) - Upload / Download Manager
 * [DownThemAll](https://www.downthemall.org/) or [Turbo Download Manager](https://add0n.com/turbo-download-manager-v2.html) / [GitHub](https://github.com/inbasic/turbo-download-manager-v2/) - Download Management Extensions
@@ -92,7 +93,7 @@
 * [onlineconvertfree](https://onlineconvertfree.com/) - File Converter / 100 MB Limit
 * [MiConv](https://miconv.com/) - File Converter / 75 MB Limit
 * [Converter 365](https://www.converter365.com/) - File Converter / 50 MB Limit
-* [ACConvert](https://www.aconvert.com/) - File Converter / 40 MB Limit
+* [Aconvert](https://www.aconvert.com/) - File Converter / 40 MB Limit
 * [PPT Online](https://www.aspose.app/) - File Converter / 35 MB Limit
 * [LetsConvert](https://letsconvert.io/) - File Converter / 250 MB Limit
 * [Online Convert](https://www.online-convert.com/) - File Converter
