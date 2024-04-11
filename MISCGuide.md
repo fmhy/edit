@@ -85,27 +85,18 @@
 
 * 🌐 **[Awesome OSINT](https://github.com/jivoi/awesome-osint)** - List of Awesome OSINT
 * ↪️ **[OSINT Collections]()**
-* ⭐ **[IntelTechniques](https://inteltechniques.com/index.html)** - OSINT Resources
+* ⭐ **[IntelTechniques](https://inteltechniques.com/index.html)** or [OSINT Techniques](https://www.osinttechniques.com/) - OSINT Resources
 * ⭐ **[Analyst Research Tools](https://analystresearchtools.com/)**
 * [Osintracker](https://www.osintracker.com/) - OSINT Investigations Tracker
-* [Cyber Detective](cybdetective.com) - OSINT Tools, Techniques, and Projects
+* [Cyber Detective](https://cybdetective.com/) / [GitHub](https://github.com/cipher387) - OSINT Tools, Techniques, and Projects
 * [Project Owl](https://discord.com/invite/projectowl) - OSINT Community
-
-* [Hackers Arise OSINT](https://www.hackers-arise.com/osint)
-* [osinttechniques](https://www.osinttechniques.com/osint-tools.html)
-* [whatisosint](https://securitytrails.com/blog/what-is-osint-how-can-i-make-use-of-it)
-* [osintdojo](https://www.osintdojo.com/resources/)
-* [einvestigator](https://www.einvestigator.com/open-source-intelligence-tools/)
-* [researchclinic](https://researchclinic.net/)
-* [toddington](https://www.toddington.com/resources/free-osint-resources-open-source-intelligence-search-tools-research-tools-online-investigation/)
-* [booleanstrings](https://booleanstrings.com/tools/)
-* [coreysdigs](https://www.coreysdigs.com/take-action/must-have-tools-for-digging-videos-podcasts/)
-* [RedTeam-Resources](https://github.com/J0hnbX/RedTeam-Resources)
-* [cipher387](https://github.com/cipher387)
-* [osint](https://bin.disroot.org/?191675922ac1cbac##Dc6GZQUviM5mfQhoUsYhaBykx9RQAJkDp8yDAe8QqB1m)
-* [midasearch](https://midasearch.org/)
-* [Malfrat's Industries Map](https://map.malfrats.industries/)
-* [OSHINT](https://ohshint.gitbook.io/oh-shint-its-a-blog/)
+* [Hackers Arise OSINT](https://www.hackers-arise.com/osint) - OSINT Guides
+* [OSINT Dojo](https://www.osintdojo.com/resources/) - OSINT Guides
+* [What is OSINT?](https://www.recordedfuture.com/blog/open-source-intelligence-definition) - Article
+* [The Key to Unlocking the Web’s Secrets](https://www.einvestigator.com/open-source-intelligence-tools/) - Article
+* [Toddington](https://www.toddington.com/resources/free-osint-resources-open-source-intelligence-search-tools-research-tools-online-investigation/) - OSINT Search Resources
+* [Malfrat's OSINT Map](https://map.malfrats.industries/) - Interactive Map
+* [OH SHINT!](https://ohshint.gitbook.io/oh-shint-its-a-blog/) - OSINT Blog
 
 ***
 
