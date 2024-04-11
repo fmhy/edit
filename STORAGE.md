@@ -24,10 +24,10 @@
 
 ## Alternative Search Engines
 
-* ⭐ **[Privacy Focused Engines](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25B7_search_engines)**
+* 🌐 **[Fagan Finder](https://www.faganfinder.com/)**, [DirectSearch.Net](http://www.directsearch.net/), [Search Engine Colossus](https://www.searchenginecolossus.com/) or [Search-Engine](https://start.me/p/wM7y15/search-engine) - Search Engine Indexes
+* ↪️ **[Privacy Focused Engines](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25B7_search_engines)**
 * ⭐ **[Yandex](https://yandex.com/)**
 * ⭐ **[Ecosia](https://www.ecosia.org/)** - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/ecosia-the-green-search/) / [Chrome](https://chromewebstore.google.com/detail/ecosia-the-search-engine/eedlgdlajadkbbjoobobefphmfkcchfk)
-* 🌐 **[Fagan Finder](https://www.faganfinder.com/)**, [DirectSearch.Net](http://www.directsearch.net/), [Search Engine Colossus](https://www.searchenginecolossus.com/) or [Search-Engine](https://start.me/p/wM7y15/search-engine) - Search Engine Indexes
 * [Leta](https://leta.mullvad.net) - Mullvad VPN required
 * [You](https://you.com/) - [AI Search](https://you.com/search?q=who+are+you&fromSearchBar=true&tbm=youchat)
 * [MWMBL](https://mwmbl.org/) - [GitHub](https://github.com/mwmbl/mwmbl)
@@ -681,11 +681,18 @@
 * [GEOINT](https://start.me/p/W1kDAj/geoint) - Geographic OSINT Tools by Bruno
 * [Social Media](https://start.me/p/4K0DXg/social-media) - Social OSINT Tools
 * [Investigator Tools](https://start.me/p/gyaOJz/investigator-tools) - OSINT Investigator Tools
-* [Nixintel's OSINT Resource List](https://start.me/p/rx6Qj8/nixintel-s-osint-resource-list) - General Index
-* [Technisette's OSINT Tools](https://start.me/p/wMdQMQ/tools) - General Index
+* [Ph055a's OSINT Collection](https://github.com/Ph055a/OSINT_Collection) - OSINT Investigation Tools
+* [Bellingcat](https://docs.google.com/spreadsheets/d/18rtqh8EG2q1xBo2cLNyhIDuK9jrPGwYr9DI2UncoqJQ/) - Online Investigation Toolkit
+* [Reuser](https://rr.reuser.biz/) - OSINT Resource Discovery Toolkit
+* [OSINT Resource List](https://start.me/p/rx6Qj8/nixintel-s-osint-resource-list) - General Index by Nixosint
+* [OSINT Tools](https://start.me/p/wMdQMQ/tools) - General Index by Technisette
+* [Cyber Detective's OSINT Collection](https://github.com/cipher387/osint_stuff_tool_collection) - General Index
+* [UK-OSINT](https://www.uk-osint.net/index.html) - General Index
 * [OSINT4ALL](https://start.me/p/L1rEYQ/osint4all) - General Index
 * [OSINT All](https://start.me/p/0PwOGl/osint-all) - General Index
 * [OSINT Resources](https://start.me/p/1kAP0b/osint-resources) - General Index
+* [OSINT Essentials](https://www.osintessentials.com/) - General Index
+* [OSINTgeek](https://osintgeek.de/tools) - General Index
 
 ***
 
