@@ -674,20 +674,24 @@
 
 ***
 
-## Open Source Intelligence Indexes
+## OSINT Collections
 
-* ⭐ **[Awesome OSINT](https://github.com/jivoi/awesome-osint)**
-* ⭐ **[AsINT_Collection](https://start.me/p/b5Aow7/asint_collection)**
-* ⭐ **[Analyst Research Tools](https://analystresearchtools.com/)**
-* [Osintracker](https://www.osintracker.com/) - OSINT Investigations Tracker
-
-[OSINT All](https://start.me/p/0PwOGl/osint-all), [OSINT Essentials](https://www.osintessentials.com/), [OSINT Collection](https://github.com/Ph055a/OSINT_Collection), [OSINT Sources](https://github.com/imuledx/OSINT_sources), [Investigator Tools](https://start.me/p/gyaOJz/investigator-tools), [geoint](https://start.me/p/W1kDAj/geoint), [OSINT Tools](https://start.me/p/wMdQMQ/tools), [Nixintel's OSINT](https://start.me/p/rx6Qj8/nixintel-s-osint-resource-list), [UK-OSINT](https://www.uk-osint.net/index.html), [OSINTGeek](https://osintgeek.de/tools), [Awesome-Telegram-OSINT](https://github.com/ItIsMeCall911/Awesome-Telegram-OSINT), [Hackers Arise OSINT](https://www.hackers-arise.com/osint), [osinttechniques](https://www.osinttechniques.com/osint-tools.html), [whatisosint](https://securitytrails.com/blog/what-is-osint-how-can-i-make-use-of-it), [osintdojo](https://www.osintdojo.com/resources/), [300m](https://300m.com/osint/), [einvestigator](https://www.einvestigator.com/open-source-intelligence-tools/), [researchclinic](https://researchclinic.net/), [toddington](https://www.toddington.com/resources/free-osint-resources-open-source-intelligence-search-tools-research-tools-online-investigation/), [reuser](https://rr.reuser.biz/), [booleanstrings](https://booleanstrings.com/tools/), [coreysdigs](https://www.coreysdigs.com/take-action/must-have-tools-for-digging-videos-podcasts/), [Bellingcat](https://docs.google.com/spreadsheets/d/18rtqh8EG2q1xBo2cLNyhIDuK9jrPGwYr9DI2UncoqJQ/), [cProject Owl](https://discord.gg/projectowl), [RedTeam-Resources](https://github.com/J0hnbX/RedTeam-Resources), [Awesome Forensics Tools](https://github.com/ivbeg/awesome-forensicstools), [OSINT Collection](https://rentry.co/o89dd), [cipher387](https://github.com/cipher387), [osint4all](https://start.me/p/L1rEYQ/osint4all), [OSINT Tools](https://pastebin.com/CJ9ExTn5), [osint](https://bin.disroot.org/?191675922ac1cbac##Dc6GZQUviM5mfQhoUsYhaBykx9RQAJkDp8yDAe8QqB1m), [asint_collection](https://bin.disroot.org/?5524218c228099ec##G6BxBj17tFtZhhGuYBfSRceFppigZyt8abJtqVceMgcN), [dig intel](https://start.me/p/ZME8nR/osint), [inteltechniques](https://inteltechniques.com/tools/Communities.html), [Social Media](https://start.me/p/4K0DXg/social-media), [midasearch](https://midasearch.org/), [osint-resources](https://start.me/p/1kAP0b/osint-resources), [Malfrat's Industries Map](https://map.malfrats.industries/), [OSHINT](https://ohshint.gitbook.io/oh-shint-its-a-blog/), [osint_stuff_tool_collection](https://github.com/cipher387/osint_stuff_tool_collection)
+* 🌐 **[AsINT_Collection](https://start.me/p/b5Aow7/asint_collection)** - General Index
+* [OSINT](https://start.me/p/ZME8nR/osint) - General Index by Bruno
+* [GEOINT](https://start.me/p/W1kDAj/geoint) - Geographic OSINT Tools by Bruno
+* [Social Media](https://start.me/p/4K0DXg/social-media) - Social OSINT Tools
+* [Investigator Tools](https://start.me/p/gyaOJz/investigator-tools) - OSINT Investigator Tools
+* [Nixintel's OSINT Resource List](https://start.me/p/rx6Qj8/nixintel-s-osint-resource-list) - General Index
+* [Technisette's OSINT Tools](https://start.me/p/wMdQMQ/tools) - General Index
+* [OSINT4ALL](https://start.me/p/L1rEYQ/osint4all) - General Index
+* [OSINT All](https://start.me/p/0PwOGl/osint-all) - General Index
+* [OSINT Resources](https://start.me/p/1kAP0b/osint-resources) - General Index
 
 ***
 
 ## Password Data Breach Check
 
-⭐ **[HaveIBeenPwned PW](https://haveibeenpwned.com/Passwords)**
+* ⭐ **[HaveIBeenPwned PW](https://haveibeenpwned.com/Passwords)**
 
 [Intelligence X](https://intelx.io/), [psbdmp](https://psbdmp.ws/), [Dehashed](https://dehashed.com/), [Spycloud](https://spycloud.com/), [PasswordSearchBot](https://t.me/PasswordSearchBot), [ScatteredSecrets](https://scatteredsecrets.com/)
 
