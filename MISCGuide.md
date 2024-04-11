@@ -8,6 +8,7 @@
 
 * 🌐 **[Dbzer0 Megathread](https://wiki.dbzer0.com/piracy/)** - Piracy Index
 * 🌐 **[/r/Piracy Megathread](https://www.reddit.com/r/Piracy/wiki/megathread)** - Piracy Index / [Rentry](https://rentry.co/megathread), [2](https://rentry.org/megathread)
+* 🌐 **[Awesome Piracy](https://github.com/Shakil-Shahadat/awesome-piracy)** - Piracy Index
 * 🌐 **[Ripped](https://ripped.guide/)** - Piracy Index / [Discord](https://discord.ripped.guide/)
 * 🌐 **[Esoterica Avenue](https://ori5000.github.io/)** - Piracy Index / [Site List](https://rentry.org/EsotericaSiteList) / [Discord](https://discord.gg/enMG8bXUbn)
 * 🌐 **[BOOKMRKS-MTHRFCKR](https://github.com/whoisdsmith/BOOKMRKS-MTHRFCKR-II)** - Site / Tool Index
@@ -67,23 +68,16 @@
 
 ## ▷ Awesome Lists
 
-* 🌐 **[Awesome List Index](https://github.com/topics/awesome)**
-* [Awesome Tech for Good](https://github.com/TechforgoodCAST/awesome-techforgood)
-* [Awesome OSS](https://github.com/RunaCapital/awesome-oss-alternatives)
-* [Awesome No-Login](https://github.com/aviaryan/awesome-no-login-web-apps)
-* [Awesome Piracy](https://github.com/Shakil-Shahadat/awesome-piracy)
-* [Awesome Anime Sources](https://anshumanv.github.io/awesome-anime-sources/)
-* [Awesome DataHoarding](https://github.com/simon987/awesome-datahoarding)
-* [Awesome Uncopyright](https://github.com/johnjago/awesome-uncopyright)
-* [Track Awesome](https://www.trackawesomelist.com/)
-* [GitHub Awesome](https://app.polymersearch.com/discover/github-awesome)
-* [Awesome Awesomeness](https://github.com/bayandin/awesome-awesomeness)
-* [Generated Awesomeness](https://github.com/orsinium-labs/generated-awesomeness)
-* [Awesome](https://github.com/sindresorhus/awesome)
-* [AwesomeLists](https://awesomelists.top/) - Awesome List Search
-* [StumbleUponAwesome](https://github.com/basharovV/StumbleUponAwesome) - Awesome List Stumble
-* [Awesome-CLI](https://github.com/umutphp/awesome-cli) - Awesome List CLI
-* [website-to-markdown](https://github.com/evilsh3ll/datahoarder-website-to-markdown) - Awesome List Markdown Extractor
+* 🌐 **[Awesome List Index](https://github.com/sindresorhus/awesome), [2](https://github.com/topics/awesome)** - All Awesome Lists
+* ⭐ **[Awesome Search](https://awesomelists.top/)** - Awesome List Search
+* [Awesome Tech for Good](https://github.com/TechforgoodCAST/awesome-techforgood) - Social-Impact Tech List
+* [Awesome OSS](https://github.com/RunaCapital/awesome-oss-alternatives) - Open-Source Alternatives to SaaS
+* [Awesome Web Apps](https://github.com/aviaryan/awesome-no-login-web-apps) - List of No-Login Web Apps
+* [Awesome Anime Sources](https://github.com/anshumanv/awesome-anime-sources) - List of All Things Anime
+* [Awesome DataHoarding](https://github.com/simon987/awesome-datahoarding) - List of Data-Hoarding Related Tools
+* [Awesome Uncopyright](https://github.com/johnjago/awesome-uncopyright) - List of All Things Public Domain
+* [Awesome CLI](https://github.com/umutphp/awesome-cli) - CLI Interface for Searching Awesome Lists
+* [Track Awesome List](https://www.trackawesomelist.com/) - Daily Awesome List Updates
 
 ***
 
