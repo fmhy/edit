@@ -85,39 +85,27 @@
 
 * 🌐 **[Awesome OSINT](https://github.com/jivoi/awesome-osint)** - List of Awesome OSINT
 * ↪️ **[OSINT Collections]()**
+* ⭐ **[IntelTechniques](https://inteltechniques.com/index.html)** - OSINT Resources
 * ⭐ **[Analyst Research Tools](https://analystresearchtools.com/)**
-* [IntelTechniques](https://inteltechniques.com/index.html) - OSINT Resources
 * [Osintracker](https://www.osintracker.com/) - OSINT Investigations Tracker
-* [OSINT Essentials](https://www.osintessentials.com/)
-* [OSINT Collection](https://github.com/Ph055a/OSINT_Collection)
-* [OSINT Sources](https://github.com/imuledx/OSINT_sources)
-* [UK-OSINT](https://www.uk-osint.net/index.html)
-* [OSINTGeek](https://osintgeek.de/tools)
-* [Awesome-Telegram-OSINT](https://github.com/ItIsMeCall911/Awesome-Telegram-OSINT)
+* [Cyber Detective](cybdetective.com) - OSINT Tools, Techniques, and Projects
+* [Project Owl](https://discord.com/invite/projectowl) - OSINT Community
+
 * [Hackers Arise OSINT](https://www.hackers-arise.com/osint)
 * [osinttechniques](https://www.osinttechniques.com/osint-tools.html)
 * [whatisosint](https://securitytrails.com/blog/what-is-osint-how-can-i-make-use-of-it)
 * [osintdojo](https://www.osintdojo.com/resources/)
-* [300m](https://300m.com/osint/)
 * [einvestigator](https://www.einvestigator.com/open-source-intelligence-tools/)
 * [researchclinic](https://researchclinic.net/)
 * [toddington](https://www.toddington.com/resources/free-osint-resources-open-source-intelligence-search-tools-research-tools-online-investigation/)
-* [reuser](https://rr.reuser.biz/)
 * [booleanstrings](https://booleanstrings.com/tools/)
 * [coreysdigs](https://www.coreysdigs.com/take-action/must-have-tools-for-digging-videos-podcasts/)
-* [Bellingcat](https://docs.google.com/spreadsheets/d/18rtqh8EG2q1xBo2cLNyhIDuK9jrPGwYr9DI2UncoqJQ/)
-* [cProject Owl](https://discord.gg/projectowl)
 * [RedTeam-Resources](https://github.com/J0hnbX/RedTeam-Resources)
-* [Awesome Forensics Tools](https://github.com/ivbeg/awesome-forensicstools)
-* [OSINT Collection](https://rentry.co/o89dd)
 * [cipher387](https://github.com/cipher387)
-* [OSINT Tools](https://pastebin.com/CJ9ExTn5)
 * [osint](https://bin.disroot.org/?191675922ac1cbac##Dc6GZQUviM5mfQhoUsYhaBykx9RQAJkDp8yDAe8QqB1m)
-* [asint_collection](https://bin.disroot.org/?5524218c228099ec##G6BxBj17tFtZhhGuYBfSRceFppigZyt8abJtqVceMgcN)
 * [midasearch](https://midasearch.org/)
 * [Malfrat's Industries Map](https://map.malfrats.industries/)
 * [OSHINT](https://ohshint.gitbook.io/oh-shint-its-a-blog/)
-* [osint_stuff_tool_collection](https://github.com/cipher387/osint_stuff_tool_collection)
 
 ***
 
