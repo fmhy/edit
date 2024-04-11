@@ -676,7 +676,7 @@
 
 ## OSINT Collections
 
-* 🌐 **[AsINT_Collection](https://start.me/p/b5Aow7/asint_collection)** - General Index
+* ⭐ **[AsINT_Collection](https://start.me/p/b5Aow7/asint_collection)** - General Index
 * [OSINT](https://start.me/p/ZME8nR/osint) - General Index by Bruno
 * [GEOINT](https://start.me/p/W1kDAj/geoint) - Geographic OSINT Tools by Bruno
 * [Social Media](https://start.me/p/4K0DXg/social-media) - Social OSINT Tools
