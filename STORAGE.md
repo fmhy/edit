@@ -693,6 +693,7 @@
 * [OSINT Resources](https://start.me/p/1kAP0b/osint-resources) - General Index
 * [OSINT Essentials](https://www.osintessentials.com/) - General Index
 * [OSINTgeek](https://osintgeek.de/tools) - General Index
+* [MIDASearch](https://midasearch.org/) - OSINT Tools
 
 ***
 
