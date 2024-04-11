@@ -90,8 +90,8 @@
 * [Osintracker](https://www.osintracker.com/) - OSINT Investigations Tracker
 * [Cyber Detective](https://cybdetective.com/) / [GitHub](https://github.com/cipher387) - OSINT Tools, Techniques, and Projects
 * [Project Owl](https://discord.com/invite/projectowl) - OSINT Community
-* [Hackers Arise OSINT](https://www.hackers-arise.com/osint) - OSINT Guides
 * [OSINT Dojo](https://www.osintdojo.com/resources/) - OSINT Guides
+* [Hackers Arise OSINT](https://www.hackers-arise.com/osint) - OSINT Guides
 * [What is OSINT?](https://www.recordedfuture.com/blog/open-source-intelligence-definition) - Article
 * [The Key to Unlocking the Web’s Secrets](https://www.einvestigator.com/open-source-intelligence-tools/) - Article
 * [Toddington](https://www.toddington.com/resources/free-osint-resources-open-source-intelligence-search-tools-research-tools-online-investigation/) - OSINT Search Resources
