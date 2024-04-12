@@ -5051,32 +5051,56 @@ Note - Keep in mind that sites in the manga section above also have manhua/manhw
 * [Listen to Wikipedia](http://listen.hatnote.com/) - Wikipedia Recent Changes Feed Sounds
 
 ***
+# ► Audio Ripping
 
-# ► Audio Downloading
+**Note** - Some sites and tools accept URLs from various streaming sites but only use a particular source (usually youtube) to get the audio. We've only mentioned a platform if it can directly rip audio from there.
+
+## ▷ Audio Ripping Sites
+
+* ⭐ **[DoubleDouble](https://doubledouble.top/)** - Multi-Site Downloader / 320kb / MP3 / FLAC / [Telegram](https://t.me/+AuKfQGOOLrFlOTZk)
+* ⭐ **[yet another music server](https://discord.gg/wPwqnVuert)** - Deezer / Tidal / Qobuz / Spotify / Youtube / FLAC
+* [YTMDL](https://ytmdl.deepjyoti30.dev/) - YouTube / 128kbps AAC
+* [YouTube Ripping Guide](https://redd.it/vv27dy) - Youtube / 128kbps AAC
+* [SoundLoaders](https://www.soundloaders.com/) - Multi-Site Downloader
+* [YTiz](https://ytiz.xyz/) - Multi-Site Downloader / [GitHub](https://github.com/tizerk/ytiz)
+* [Download Bandcamp](https://downloadmusicschool.com/bandcamp/) - Bandcamp
+* [SoundCloud Downloader](https://addons.mozilla.org/firefox/addon/soundcloud-dl) / [GitHub](https://github.com/NotTobi/soundcloud-dl)
+* [Klickaud](https://www.klickaud.co/)
+* [Local SoundCloud Downloader](https://greasyfork.org/en/scripts/394837)
+* [SCDL](https://addons.mozilla.org/pl/firefox/addon/scdl-soundcloud-downloader/) / [Github](https://github.com/flyingrub/scdl), [sclouddownloader](https://sclouddownloader.net/)
+* [SoundcloudMP3](https://soundcloudmp3.cc/)
+
+## ▷ Audio Ripping Tools
 
 * 🌐 **[Music Ripping Guide](https://ori5000.github.io/musicripping.html)**, **[Firehawk52](https://rentry.org/firehawk52)**, [MusicDL](https://rentry.org/musicdl) or [Florin](https://rentry.org/florinsmusicrippingguide) - Downloading / Ripping Guides
-* ⭐ **[DoubleDouble](https://doubledouble.top/)** - Multi-Site Downloader / 320kb / MP3 / FLAC / [Telegram](https://t.me/+AuKfQGOOLrFlOTZk)
-* ⭐ **[yet another music server](https://discord.gg/wPwqnVuert)** - Multi-Site Downloader / FLAC
-* ⭐ **[YTMDL](https://ytmdl.deepjyoti30.dev/)**, [Shira](https://github.com/KraXen72/shira), [yewtube](https://github.com/mps-youtube/yewtube) or [YT-DLP](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/social-media#wiki_.25B7_youtube_downloaders) - YouTube Audio Downloaders
-* ⭐ **[YouTube Ripping Guide](https://redd.it/vv27dy)**
 * ⭐ **[Soulseek](https://slsknet.org/)** or [Nicotine+](https://nicotine-plus.org/) - Download App / [Stats](https://github.com/mrusse/Slsk-Upload-Stats-Tracker) / [Server App](https://github.com/slskd/slskd)
 * ⭐ **[Deemix](https://redd.it/zlswiz)** / [Guide](https://pastebin.com/W7D2Kp8v), [orpheusdl-deezer](https://github.com/uhwot/orpheusdl-deezer), [d-fi](https://notabug.org/sayem314/d-fi), [deezer-downloader](https://github.com/kmille/deezer-downloader) or [Dl-Spt](https://notabug.org/dlspt/dl-spt) - Deezer Downloaders
-* [/r/xTrill](https://reddit.com/r/xTrill) - Download App / [Backup](https://reddit.com/r/xTrillBackup)
+* [Shira](https://github.com/KraXen72/shira), [yewtube](https://github.com/mps-youtube/yewtube) or [YT-DLP](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/social-media#wiki_.25B7_youtube_downloaders)
 * [you-get](https://you-get.org/) or [irs](https://github.com/cooperhammond/irs) - Audio Command Line Download Tool
 * [Orpheus](https://github.com/yarrm80s/orpheusdl) - Music Ripper
 * [streamrip](https://github.com/nathom/streamrip) - Multi-Site Downloader / [Colab](https://github.com/r-piratedgames/rip)
-* [SoundLoaders](https://www.soundloaders.com/) - Multi-Site Downloader
-* [YTiz](https://ytiz.xyz/) - Multi-Site Downloader / [GitHub](https://github.com/tizerk/ytiz)
 * [GamDL](https://github.com/glomatico/gamdl) - Apple Music Downloader
 * [FreyrJS](https://github.com/miraclx/freyr-js) - Spotify, Deezer and Apple Music Downloader
-* [Song_downloaderbot](https://t.me/Song_downloaderbot), [DeezerMusicBot](https://t.me/DeezerMusicBot), [DeezloaderAn0n_bot](https://t.me/DeezloaderAn0n_bot) or [deezload2bot](https://t.me/deezload2bot) - Telegram Deezer Bots
-* [BandCamp-DL](https://github.com/iheanyi/bandcamp-dl), [Download Bandcamp](https://downloadmusicschool.com/bandcamp/), [bcdl](https://github.com/daot/bcdl) or [Bandcamp Downloader](https://github.com/Otiel/BandcampDownloader) - Bandcamp Downloaders
-* [Librescore Downloader](https://github.com/LibreScore/dl-librescore) - Librescore Downloader
+* [BandCamp-DL](https://github.com/iheanyi/bandcamp-dl), [bcdl](https://github.com/daot/bcdl) or [Bandcamp Downloader](https://github.com/Otiel/BandcampDownloader) - Bandcamp Downloaders
 * [Orpheus Qobuz](https://github.com/yarrm80s/orpheusdl-qobuz), [QobuzDownloaderX-MOD](https://github.com/DJDoubleD/QobuzDownloaderX-MOD) or [qobuz-dl](https://github.com/vitiko98/qobuz-dl) - Qobuz Downloaders
-* [YADG](https://yadg.cc/) - Scrape Music Release Date Info / [API](https://yadg.cc/api/)
-* [Sharky's EAC Guide](https://docs.google.com/document/d/1b1JJsuZj2TdiXs--XDvuKdhFUdKCdB_1qrmOMGkyveg) - CD Audio Ripping Guide
-* [Exact Audio Copy](https://www.exactaudiocopy.de/) or [Whipper](https://github.com/whipper-team/whipper) - CD / DVD Audio Ripper
-* [AccurateRip](http://www.accuraterip.com/) - Verify Ripped Tracks are Error-Free
+* [Murglar](https://murglar.app/)
+  
+## ▷ Telegram Bots
+
+* ⭐ **[BeatSpotBot](https://t.me/BeatSpotBot)** - Deezer / Tidal / Yandex / VK / FLAC
+* ⭐ **[Glomatico Amazon](https://t.me/GlomaticoAmazonMusicBot)** and **[Glomatico Apple](https://t.me/GlomaticoAppleMusicBot)** - Amazon / Apple / FLAC / [FAQ](https://rentry.org/glomaticobotfaq)
+* [aio_musics](https://t.me/aio_musics) - Tidal / Qobuz / FLAC
+* [JioDLBot](https://t.me/JioDLBot) - JioSaavn / Gaana / FLAC
+* [DeezerMusicBot](https://t.me/DeezerMusicBot) - Deezer / 320kbps MP3
+* [deezload2bot](https://t.me/deezload2bot) - Deezer / 320kbps MP3
+* [Music_Hunters](https://t.me/MusicsHuntersbot) - Deezer / 320kbps MP3
+* [FLAC Musik](https://t.me/flacmuzik) - Bollywood FLAC
+* [scdlbot](https://t.me/scdlbot) - Youtube / Soundcloud / Bandcamp / 128kbps MP3
+* [soundcloudaudiodownloader](https://t.me/soundcloudaudiodownloader) - Youtube / Soundcloud / 128kbps MP3
+* [VK Bot](https://t.me/vkmsaverbot), [vkmusbot](https://t.me/vkmusbot) or [Meph Bot](https://t.me/mephbot) - VK / 320kbps MP3
+* [Song_downloaderbot](https://t.me/Song_downloaderbot) - JioSaavn / 128kbps MP3
+* [bassmuzic](https://t.me/bassmuzic) - MP3
+* [flacmusics](https://t.me/flacmusics/) - FLAC
 
 ***
 
@@ -5090,6 +5114,7 @@ Note - Keep in mind that sites in the manga section above also have manhua/manhw
 * ↪️ **[Royalty Free Music](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_royalty_free_music)**
 * ⭐ **[Slider](https://hayqbhgr.slider.kz/)** - 320kb / MP3
 * ⭐ **[Audio Download CSE](https://cse.google.com/cse?cx=006516753008110874046:ibmyuhh72io)** / [CSE 2](https://cse.google.com/cse?cx=006516753008110874046:ohobg3wvr_w) / [CSE 3](https://cse.google.com/cse?cx=32d85b41e2feacd3f) - Multi-Site Search
+* [/r/xTrill](https://reddit.com/r/xTrill) - Download App / [Backup](https://reddit.com/r/xTrillBackup)
 * [The Last Disaster](https://thelastdisaster.vip/) - Metal / Hardcore / Rock / 320kb / MP3 / FLAC
 * [VK::MP3](https://metacpan.org/pod/VK::MP3) - VK MP3 Search Tool
 * [musify](https://musify.club/) - 320kb / MP3
@@ -5174,55 +5199,6 @@ Note - Keep in mind that sites in the manga section above also have manhua/manhw
 * [BitMidi](https://bitmidi.com/), [Geocities Midi's](https://archive.org/details/archiveteam-geocities-midi-collection-2009) / [2](https://www.midicities.com/GeoCities), [Tricotism](https://www.tricotism.com/), [ArtScene](http://artscene.textfiles.com/music/midi/) or [VGMusic](https://www.vgmusic.com/) - MIDI Files
 * [Free Music Archive](https://www.freemusicarchive.org/), [Unminus](https://www.unminus.com/), [BenSound](https://www.bensound.com/), [HookSounds](https://www.hooksounds.com/), [UppBeat](https://uppbeat.io/), [Soundimage](https://soundimage.org/), [free stock music](https://www.free-stock-music.com/) or [Fugue](https://icons8.com/music) - Royalty Free Music
 * [Music Hoarders](https://discord.gg/d4hgc7GCAj) - Music Hoarding Community / [Wiki](https://wiki.musichoarders.xyz/)
-
-***
-
-## ▷ Soundcloud Download
-
-* [SoundCloud Downloader](https://addons.mozilla.org/firefox/addon/soundcloud-dl) / [GitHub](https://github.com/NotTobi/soundcloud-dl)
-* [Klickaud](https://www.klickaud.co/)
-* [Local SoundCloud Downloader](https://greasyfork.org/en/scripts/394837)
-* [SCDL](https://addons.mozilla.org/pl/firefox/addon/scdl-soundcloud-downloader/) / [Github](https://github.com/flyingrub/scdl), [sclouddownloader](https://sclouddownloader.net/)
-* [SoundcloudMP3](https://soundcloudmp3.cc/)
-* [soundcloudaudiodownloader](https://t.me/soundcloudaudiodownloader)
-
-***
-
-## ▷ Telegram Channels
-
-* [DeezEmpireBot](https://t.me/DeezEmpireBot) - MP3 / FLAC
-* [Spotify™ | DataBase](https://t.me/joinchat/CpMAJhkWaTwk8BVPepASZQ) - MP3 / FLAC
-* [Music_Hunters](https://t.me/Music_Hunters) - MP3
-* [/Music](https://t.me/music) - MP3
-* [musicder_bot](https://t.me/musicder_bot) - MP3
-* [musical_freely](https://t.me/musical_freely) - MP3
-* [songspkmusic](https://t.me/songspkmusic) - MP3
-* [bassmuzic](https://t.me/bassmuzic) - MP3
-* [MusicsHunterbot](https://t.me/MusicsHunterbot) - MP3
-* [flacmusics](https://t.me/flacmusics/) - FLAC
-* [FLACSong](https://t.me/FLACSong) - FLAC
-* [flacmu5ic](https://t.me/flacmu5ic/) - FLAC
-* [SACDandDSD](https://t.me/SACDandDSD) - FLAC
-* [Songscave](https://t.me/songscave) - FLAC
-* [FLAC Musik](https://t.me/flacmuzik) - FLAC
-* [FLAC Album](https://t.me/FLAC_DSD_LOSSLESS_HIRES) - FLAC
-* [ClassicalMusicMe](https://t.me/ClassicalMusicMe) - Classical / MP3
-* [MeditationRelaxMusic](https://t.me/MeditationRelaxMusic) - Meditation / MP3
-* [ElectronicMusicMe](https://t.me/ElectronicMusicMe) or [DJ Download ME](https://t.me/edmdownloadme) - Electronic / MP3
-* [BluesJazz](https://t.me/BluesJazz) - Blues / Jazz / MP3
-
-***
-
-## ▷ Telegram Bots
-
-* [MP3 downloader](https://t.me/TG_mp3downloader_bot), [aio_musics](https://t.me/aio_musics), [scdlbot](https://t.me/scdlbot), [Murglar](https://t.me/murglarnews), [BeatSpotBot](https://t.me/BeatSpotBot) or [JioDLBot](https://t.me/JioDLBot) - Multi Site
-* [LyBot](https://t.me/LyBot), [YouTube Audio Bot](https://t.me/YtbAudioBot), [ivkmbot](https://t.me/ivkmbot) or [YouTube Audio Download](https://t.me/YoutubeAudioDownloadBot) - YouTube
-* [Glomatico](https://t.me/GlomaticoAmazonMusicBot) - Amazon
-* [TidalMusic_DLbot](https://t.me/TidalMusic_DLbot) - Tidal
-* [VK Bot](https://t.me/vkmsaverbot), [vkmusbot](https://t.me/vkmusbot) or [Meph Bot](https://t.me/mephbot) - VK
-* [GlomaticoAppleMusicBot](https://t.me/GlomaticoAppleMusicBot) - Apple Music
-* [yamdbot](https://t.me/yamdbot) - Yandex
-* [Song ID](https://t.me/SongIDbot) - Shazam Alike
 
 ***
 
@@ -5385,6 +5361,11 @@ Note - Keep in mind that sites in the manga section above also have manhua/manhw
 * [mp4grep](https://github.com/o-oconnell/mp4grep) - Audio Transcribing
 * [AirPods Dirty Secret](https://docs.kenp.io/) - AirPods Repair Directory
 * [Musicara](https://www.musicara.ml/) or [X-Minus](https://x-minus.pro/) - Create Karaoke Songs
+* [Librescore Downloader](https://github.com/LibreScore/dl-librescore) - Librescore Downloader
+* [YADG](https://yadg.cc/) - Scrape Music Release Date Info / [API](https://yadg.cc/api/)
+* [Sharky's EAC Guide](https://docs.google.com/document/d/1b1JJsuZj2TdiXs--XDvuKdhFUdKCdB_1qrmOMGkyveg) - CD Audio Ripping Guide
+* [Exact Audio Copy](https://www.exactaudiocopy.de/) or [Whipper](https://github.com/whipper-team/whipper) - CD / DVD Audio Ripper
+* [AccurateRip](http://www.accuraterip.com/) - Verify Ripped Tracks are Error-Free
 
 ***
 
