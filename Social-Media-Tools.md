@@ -620,7 +620,6 @@
 * 🌐 **[Instagram Search Tools](https://www.aware-online.com/en/osint-tools/instagram-search-tool/)** - Search Tool
 * ⭐ **[Bypass Login](https://greasyfork.org/en/scripts/420604)** - Bypass Instagram Login Redirects
 * [InstaFix](https://ddinstagram.com/) - Fix Instagram Embeds on Discord
-* [Indirect](https://github.com/huynhsontung/Indirect) - Instagram Chat Client
 * [Proxigram](https://codeberg.org/ThePenguinDev/Proxigram) or [Imginn](https://imginn.com) - Instagram Frontends
 * [imgsed](https://imgsed.com/), [Picuki](https://www.picuki.com/), [InstaNavigation](https://instanavigation.com/), [Instafreeview](https://instafreeview.com/), [profile-picture-viewer](https://github.com/Ademking/profile-picture-viewer), [Dumpor](https://dumpoir.com/) or [GreatFon](https://greatfon.com/) - Instagram Viewers
 * [StoriesDown](https://storiesdown.com/), [instasaved](https://instasaved.net/en) or [insta-stories-viewer](https://insta-stories-viewer.com/) - Story Downloaders
