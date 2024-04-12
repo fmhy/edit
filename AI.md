@@ -325,6 +325,7 @@
 * ⭐ **[Suno](https://app.suno.ai/)**
 * [Wolfram Tones](https://tones.wolfram.com/)
 * [StableAudio](https://www.stableaudio.com/)
+* [Udio](https://www..com/)
 * [audio visual generator](https://fredericbriolet.com/avg/)
 * [Fake Music Generator](https://www.fakemusicgenerator.com/)
 * [Jingle](https://aidn.jp/jingle/)
