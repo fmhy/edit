@@ -196,7 +196,7 @@
 * ⭐ **[Rom Center](https://r-roms.github.io/)**, [2](https://r-roms.gitlab.io/megathread/), [3](https://pastelink.net/24dhn) - ROMs / [Pastebins](https://rentry.co/FMHYBase64#romcenter)
 * ⭐ **[Myrient](https://myrient.erista.me/)** - ROMs
 * ⭐ **[AlvRo](https://rentry.co/FMHYBase64#alvro)** - ROMs / pw: ByAlvRo
-* ⭐ **[No-Intro](https://rentry.co/FMHYBase64#no-intro)** - ROMs / [Downloader](https://github.com/silverlays/NoIntro-Roms-Downloader)
+* ⭐ **[No-Intro](https://rentry.co/FMHYBase64#no-intro)** - ROMs
 * ⭐ **[BlueRoms](https://www.blueroms.ws/)** - Emulators / ROMs
 * ⭐ **[CrocDB](https://crocdb.net/)** - Emulators / ROMs
 * ⭐ **[CDRomance](https://cdromance.org/)** - ROMs / [Discord](https://cdromance.org/discord)
