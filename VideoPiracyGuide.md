@@ -29,13 +29,13 @@
 * [Ask4Movies](https://ask4movie.li/) - Movies / TV / 1080p / Use Adblock / [Script](https://pastebin.com/uJUc5ah5)
 * [M4uFree](https://ww2.m4ufree.com/) - Movies / TV / Anime / 1080p / [Mirrors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_m4ufree_clones)
 * [SmashyStream](https://embed.smashystream.com/) - Movies / TV / Anime / 1080p / [Telegram](https://t.me/+vekZX4KtMPtiYmRl)
+* [Youplex](https://youplex.site/) - Movies / TV / Anime / 4K / 1080p / No ads / [Telegram](https://t.me/youplexannouncments) / [Discord](https://discord.gg/vJMwAZDgwX)
 * [HollyMovieHD](https://hollymoviehd.cc/), [YesHD](https://yeshd.net/) or [NovaMovie](https://novamovie.net/) - Movies / TV / Anime / 1080p / [Mirrors](https://hollymoviehd-official.com/)
 * [Flixta](https://flixta.cc/) - Movies / TV / Anime / 1080p
 * [FlixHQ](https://flixhq.click/) - Movies / TV / Anime / 1080p
 * [YassFlix](https://yassflix.live/) - Movies / TV / Anime / 1080p
 * [Seez](https://seez.su/) - Movies / TV / 1080p
 * [CriaFlix](https://criaflix.live/) - Movies / TV / Anime / 1080p
-* [Youplex](https://youplex.site/) - Movies / TV / Anime / 4K / 1080p / No ads [Telegram](https://t.me/youplexannouncments)/[Discord](https://discord.gg/vJMwAZDgwX)
 * [Movierr](https://ww3.movierr.site/) - Movies / TV / Anime / [Discord](https://discord.gg/sxKN424ZYK)
 * [Cinetide](https://cinetide.glitch.me/browse.html) - Movies / TV / Anime / 1080p
 * [AnyMovie](https://anymovie.cc/) - Movies / TV / 4K / 1080p
