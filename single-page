@@ -7058,10 +7058,10 @@ import Index from './.vitepress/theme/Posts.vue'
 
 ## Alternative Search Engines
 
-* ⭐ **[Privacy Focused Engines](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25B7_search_engines)**
+* 🌐 **[Fagan Finder](https://www.faganfinder.com/)**, [DirectSearch.Net](http://www.directsearch.net/), [Search Engine Colossus](https://www.searchenginecolossus.com/) or [Search-Engine](https://start.me/p/wM7y15/search-engine) - Search Engine Indexes
+* ↪️ **[Privacy Focused Engines](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25B7_search_engines)**
 * ⭐ **[Yandex](https://yandex.com/)**
 * ⭐ **[Ecosia](https://www.ecosia.org/)** - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/ecosia-the-green-search/) / [Chrome](https://chromewebstore.google.com/detail/ecosia-the-search-engine/eedlgdlajadkbbjoobobefphmfkcchfk)
-* 🌐 **[Fagan Finder](https://www.faganfinder.com/)**, [DirectSearch.Net](http://www.directsearch.net/), [Search Engine Colossus](https://www.searchenginecolossus.com/) or [Search-Engine](https://start.me/p/wM7y15/search-engine) - Search Engine Indexes
 * [Leta](https://leta.mullvad.net) - Mullvad VPN required
 * [You](https://you.com/) - [AI Search](https://you.com/search?q=who+are+you&fromSearchBar=true&tbm=youchat)
 * [MWMBL](https://mwmbl.org/) - [GitHub](https://github.com/mwmbl/mwmbl)
@@ -7708,20 +7708,32 @@ import Index from './.vitepress/theme/Posts.vue'
 
 ***
 
-## Open Source Intelligence Indexes
+## OSINT Collections
 
-* ⭐ **[Awesome OSINT](https://github.com/jivoi/awesome-osint)**
-* ⭐ **[AsINT_Collection](https://start.me/p/b5Aow7/asint_collection)**
-* ⭐ **[Analyst Research Tools](https://analystresearchtools.com/)**
-* [Osintracker](https://www.osintracker.com/) - OSINT Investigations Tracker
-
-[OSINT All](https://start.me/p/0PwOGl/osint-all), [OSINT Essentials](https://www.osintessentials.com/), [OSINT Collection](https://github.com/Ph055a/OSINT_Collection), [OSINT Sources](https://github.com/imuledx/OSINT_sources), [Investigator Tools](https://start.me/p/gyaOJz/investigator-tools), [geoint](https://start.me/p/W1kDAj/geoint), [OSINT Tools](https://start.me/p/wMdQMQ/tools), [Nixintel's OSINT](https://start.me/p/rx6Qj8/nixintel-s-osint-resource-list), [UK-OSINT](https://www.uk-osint.net/index.html), [OSINTGeek](https://osintgeek.de/tools), [Awesome-Telegram-OSINT](https://github.com/ItIsMeCall911/Awesome-Telegram-OSINT), [Hackers Arise OSINT](https://www.hackers-arise.com/osint), [osinttechniques](https://www.osinttechniques.com/osint-tools.html), [whatisosint](https://securitytrails.com/blog/what-is-osint-how-can-i-make-use-of-it), [osintdojo](https://www.osintdojo.com/resources/), [300m](https://300m.com/osint/), [einvestigator](https://www.einvestigator.com/open-source-intelligence-tools/), [researchclinic](https://researchclinic.net/), [toddington](https://www.toddington.com/resources/free-osint-resources-open-source-intelligence-search-tools-research-tools-online-investigation/), [reuser](https://rr.reuser.biz/), [booleanstrings](https://booleanstrings.com/tools/), [coreysdigs](https://www.coreysdigs.com/take-action/must-have-tools-for-digging-videos-podcasts/), [Bellingcat](https://docs.google.com/spreadsheets/d/18rtqh8EG2q1xBo2cLNyhIDuK9jrPGwYr9DI2UncoqJQ/), [cProject Owl](https://discord.gg/projectowl), [RedTeam-Resources](https://github.com/J0hnbX/RedTeam-Resources), [Awesome Forensics Tools](https://github.com/ivbeg/awesome-forensicstools), [OSINT Collection](https://rentry.co/o89dd), [cipher387](https://github.com/cipher387), [osint4all](https://start.me/p/L1rEYQ/osint4all), [OSINT Tools](https://pastebin.com/CJ9ExTn5), [osint](https://bin.disroot.org/?191675922ac1cbac##Dc6GZQUviM5mfQhoUsYhaBykx9RQAJkDp8yDAe8QqB1m), [asint_collection](https://bin.disroot.org/?5524218c228099ec##G6BxBj17tFtZhhGuYBfSRceFppigZyt8abJtqVceMgcN), [dig intel](https://start.me/p/ZME8nR/osint), [inteltechniques](https://inteltechniques.com/tools/Communities.html), [Social Media](https://start.me/p/4K0DXg/social-media), [midasearch](https://midasearch.org/), [osint-resources](https://start.me/p/1kAP0b/osint-resources), [Malfrat's Industries Map](https://map.malfrats.industries/), [OSHINT](https://ohshint.gitbook.io/oh-shint-its-a-blog/), [osint_stuff_tool_collection](https://github.com/cipher387/osint_stuff_tool_collection)
+* ⭐ **[AsINT_Collection](https://start.me/p/b5Aow7/asint_collection)** - General Index
+* [OSINT](https://start.me/p/ZME8nR/osint) - General Index by Bruno
+* [GEOINT](https://start.me/p/W1kDAj/geoint) - Geographic OSINT Tools by Bruno
+* [Social Media](https://start.me/p/4K0DXg/social-media) - Social OSINT Tools
+* [Investigator Tools](https://start.me/p/gyaOJz/investigator-tools) - OSINT Investigator Tools
+* [Ph055a's OSINT Collection](https://github.com/Ph055a/OSINT_Collection) - OSINT Investigation Tools
+* [Bellingcat](https://docs.google.com/spreadsheets/d/18rtqh8EG2q1xBo2cLNyhIDuK9jrPGwYr9DI2UncoqJQ/) - Online Investigation Toolkit
+* [Reuser](https://rr.reuser.biz/) - OSINT Resource Discovery Toolkit
+* [OSINT Resource List](https://start.me/p/rx6Qj8/nixintel-s-osint-resource-list) - General Index by Nixosint
+* [OSINT Tools](https://start.me/p/wMdQMQ/tools) - General Index by Technisette
+* [Cyber Detective's OSINT Collection](https://github.com/cipher387/osint_stuff_tool_collection) - General Index
+* [UK-OSINT](https://www.uk-osint.net/index.html) - General Index
+* [OSINT4ALL](https://start.me/p/L1rEYQ/osint4all) - General Index
+* [OSINT All](https://start.me/p/0PwOGl/osint-all) - General Index
+* [OSINT Resources](https://start.me/p/1kAP0b/osint-resources) - General Index
+* [OSINT Essentials](https://www.osintessentials.com/) - General Index
+* [OSINTgeek](https://osintgeek.de/tools) - General Index
+* [MIDASearch](https://midasearch.org/) - General Index
 
 ***
 
 ## Password Data Breach Check
 
-⭐ **[HaveIBeenPwned PW](https://haveibeenpwned.com/Passwords)**
+* ⭐ **[HaveIBeenPwned PW](https://haveibeenpwned.com/Passwords)**
 
 [Intelligence X](https://intelx.io/), [psbdmp](https://psbdmp.ws/), [Dehashed](https://dehashed.com/), [Spycloud](https://spycloud.com/), [PasswordSearchBot](https://t.me/PasswordSearchBot), [ScatteredSecrets](https://scatteredsecrets.com/)
 
@@ -13271,6 +13283,7 @@ Use [this](https://bitbucket.org/magnolia1234/bypass-paywalls-firefox-clean/src/
 
 * 🌐 **[Dbzer0 Megathread](https://wiki.dbzer0.com/piracy/)** - Piracy Index
 * 🌐 **[/r/Piracy Megathread](https://www.reddit.com/r/Piracy/wiki/megathread)** - Piracy Index / [Rentry](https://rentry.co/megathread), [2](https://rentry.org/megathread)
+* 🌐 **[Awesome Piracy](https://github.com/Shakil-Shahadat/awesome-piracy)** - Piracy Index
 * 🌐 **[Ripped](https://ripped.guide/)** - Piracy Index / [Discord](https://discord.ripped.guide/)
 * 🌐 **[Esoterica Avenue](https://ori5000.github.io/)** - Piracy Index / [Site List](https://rentry.org/EsotericaSiteList) / [Discord](https://discord.gg/enMG8bXUbn)
 * 🌐 **[BOOKMRKS-MTHRFCKR](https://github.com/whoisdsmith/BOOKMRKS-MTHRFCKR-II)** - Site / Tool Index
@@ -13330,23 +13343,35 @@ Use [this](https://bitbucket.org/magnolia1234/bypass-paywalls-firefox-clean/src/
 
 ## ▷ Awesome Lists
 
-* 🌐 **[Awesome List Index](https://github.com/topics/awesome)**
-* [Awesome Tech for Good](https://github.com/TechforgoodCAST/awesome-techforgood)
-* [Awesome OSS](https://github.com/RunaCapital/awesome-oss-alternatives)
-* [Awesome No-Login](https://github.com/aviaryan/awesome-no-login-web-apps)
-* [Awesome Piracy](https://github.com/Shakil-Shahadat/awesome-piracy)
-* [Awesome Anime Sources](https://anshumanv.github.io/awesome-anime-sources/)
-* [Awesome DataHoarding](https://github.com/simon987/awesome-datahoarding)
-* [Awesome Uncopyright](https://github.com/johnjago/awesome-uncopyright)
-* [Track Awesome](https://www.trackawesomelist.com/)
-* [GitHub Awesome](https://app.polymersearch.com/discover/github-awesome)
-* [Awesome Awesomeness](https://github.com/bayandin/awesome-awesomeness)
-* [Generated Awesomeness](https://github.com/orsinium-labs/generated-awesomeness)
-* [Awesome](https://github.com/sindresorhus/awesome)
-* [AwesomeLists](https://awesomelists.top/) - Awesome List Search
-* [StumbleUponAwesome](https://github.com/basharovV/StumbleUponAwesome) - Awesome List Stumble
-* [Awesome-CLI](https://github.com/umutphp/awesome-cli) - Awesome List CLI
-* [website-to-markdown](https://github.com/evilsh3ll/datahoarder-website-to-markdown) - Awesome List Markdown Extractor
+* 🌐 **[Awesome List Index](https://github.com/sindresorhus/awesome), [2](https://github.com/topics/awesome)** - All Awesome Lists
+* ⭐ **[Awesome Search](https://awesomelists.top/)** - Awesome List Search
+* [Awesome Tech for Good](https://github.com/TechforgoodCAST/awesome-techforgood) - Social-Impact Tech List
+* [Awesome OSS](https://github.com/RunaCapital/awesome-oss-alternatives) - Open-Source Alternatives to SaaS
+* [Awesome Web Apps](https://github.com/aviaryan/awesome-no-login-web-apps) - List of No-Login Web Apps
+* [Awesome Anime Sources](https://github.com/anshumanv/awesome-anime-sources) - List of All Things Anime
+* [Awesome DataHoarding](https://github.com/simon987/awesome-datahoarding) - List of Data-Hoarding Related Tools
+* [Awesome Uncopyright](https://github.com/johnjago/awesome-uncopyright) - List of All Things Public Domain
+* [Awesome CLI](https://github.com/umutphp/awesome-cli) - CLI Interface for Searching Awesome Lists
+* [Track Awesome List](https://www.trackawesomelist.com/) - Daily Awesome List Updates
+
+***
+
+## ▷ Open Source Intelligence
+
+* 🌐 **[Awesome OSINT](https://github.com/jivoi/awesome-osint)** - List of Awesome OSINT
+* ↪️ **[OSINT Collections]()**
+* ⭐ **[IntelTechniques](https://inteltechniques.com/index.html)** or [OSINT Techniques](https://www.osinttechniques.com/) - OSINT Resources
+* ⭐ **[Analyst Research Tools](https://analystresearchtools.com/)**
+* [Osintracker](https://www.osintracker.com/) - OSINT Investigations Tracker
+* [Cyber Detective](https://cybdetective.com/) / [GitHub](https://github.com/cipher387) - OSINT Tools, Techniques, and Projects
+* [Project Owl](https://discord.com/invite/projectowl) - OSINT Community
+* [OSINT Dojo](https://www.osintdojo.com/resources/) - OSINT Guides
+* [Hackers Arise OSINT](https://www.hackers-arise.com/osint) - OSINT Guides
+* [What is OSINT?](https://www.recordedfuture.com/blog/open-source-intelligence-definition) - Article
+* [The Key to Unlocking the Web’s Secrets](https://www.einvestigator.com/open-source-intelligence-tools/) - Article
+* [Toddington](https://www.toddington.com/resources/free-osint-resources-open-source-intelligence-search-tools-research-tools-online-investigation/) - OSINT Search Resources
+* [Malfrat's OSINT Map](https://map.malfrats.industries/) - Interactive Map
+* [OH SHINT!](https://ohshint.gitbook.io/oh-shint-its-a-blog/) - OSINT Blog
 
 ***
 
