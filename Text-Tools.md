@@ -348,6 +348,7 @@
 * [Firepad](https://firepad.io/) 
 * [Etherpad](https://etherpad.org/)
 * [SharePad](https://sharepad.io/)
+* [Pixso](https://pixso.net/)
 * [FidusWriter](https://www.fiduswriter.org/) 
 * [overleaf](https://www.overleaf.com/)
 * [RustPad](https://github.com/ekzhang/rustpad)
