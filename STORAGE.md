@@ -148,6 +148,25 @@
 
 ***
 
+## Code Pastebins
+
+* ⭐ **[Github Gists](https://gist.github.com/)** - Multi-Syntax / Account Needed
+* [Paste.ee](https://paste.ee/) - Multi-Syntax
+* [pst.moe](https://pst.moe/) - Multi-Syntax
+* [Mozilla Community Pastebin](https://paste.mozilla.org/) - Multi-Syntax
+* [Pastebin.com](https://pastebin.com/) - Multi-Syntax
+* [pasteheaven.com](https://pasteheaven.com/) - Multi-Syntax
+* [paste.fo](https://paste.fo/) - Multi-Syntax
+* [dpaste.com](https://dpaste.com/) - Multi-Syntax
+* [bitbin](https://bitbin.it/) - Multi-Syntax
+* [pastes.io](https://pastes.io/) - Multi-Syntax
+* [Pastebin.pl](https://pastebin.pl/) - Multi-Syntax
+* [Debian Pastezone](https://paste.debian.net/) - Multi-Syntax
+* [CentOS Pastebin](https://paste.centos.org/) - Multi-Syntax
+* [snippet.host](https://snippet.host/) - Multi-Syntax
+
+***
+
 ## Coding Tutorials
 
 * ⭐ **[GeeksforGeeks](https://www.geeksforgeeks.org/)**
