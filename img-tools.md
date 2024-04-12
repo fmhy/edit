@@ -654,6 +654,7 @@
 
 * ⭐ **[IrfanView](https://www.irfanview.com/)**
 * ⭐ **[JPEGView](https://github.com/sylikc/jpegview)**
+* ⭐ **[qView](https://interversehq.com/qview/)**
 * ⭐ **[XnView MP](https://www.xnview.com/en/xnviewmp/)**
 * ⭐ **[Digikam](https://www.digikam.org/)**
 * [ImageGlass](https://github.com/d2phap/ImageGlass)
@@ -662,7 +663,6 @@
 * [PhotoQt](https://github.com/luspi/photoqt)
 * [PicView](https://picview.org/)
 * [Image Eye](https://www.fmjsoft.com/imageeye.html)
-* [qView](https://interversehq.com/qview/)
 * [Quick Picture Viewer](https://moduleart.github.io/quick-picture-viewer/)
 * [Fragment](https://www.fragmentapp.info/)
 * [HoneyView](https://en.bandisoft.com/honeyview/)
