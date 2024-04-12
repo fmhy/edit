@@ -489,7 +489,7 @@
 
 ***
 
-## ▷ [Smart TV / Firestick](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_smart_tv_.2F_firestick)
+# ► [Smart TV / Firestick](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_smart_tv_.2F_firestick)
 
 ***
 
