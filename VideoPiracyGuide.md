@@ -9,10 +9,10 @@
 ## ▷ Multi Server
 
 * ⭐ **[Braflix](https://www.braflix.video/)** - Movies / TV / Anime / 4K / 1080p / [Discord](https://discord.gg/wWKmxARaWH)
+* ⭐ **[watch.lonelil](https://watch.lonelil.ru/)** - Movies / TV / Anime / 1080p / [Discord](https://discord.com/invite/BKts6Jb5sA) / [Telegram](https://t.me/watchlonelil)
 * ⭐ **[movie-web](https://movie-web.github.io/docs/instances)**, [2](https://erynith.github.io/movie-web-instances/) - Movies / TV / Anime / 1080p
 * ⭐ **[FMovies](https://fmoviesz.to/)** - Movies / TV / Anime / 1080p / [Mirrors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_fmovies_clones)
 * ⭐ **[Binged](https://binged.live/)**, [2](https://binged.in/), [3](https://binge.lol/) - Movies / TV / Anime / 1080p / [Discord](https://discord.gg/f2SvhcKCKS)
-* ⭐ **[watch.lonelil](https://watch.lonelil.ru/)** - Movies / TV / Anime / 1080p / [Discord](https://discord.com/invite/BKts6Jb5sA) / [Telegram](https://t.me/watchlonelil)
 * ⭐ **[NunFlix](https://nunflix.com/)** - Movies / TV / Anime / 1080p
 * ⭐ **[NetFilm](https://netfilm.app/)** - Movies / TV / Anime / 1080p / [Discord](https://discord.gg/g37Fc8u4ks)
 * ⭐ **[PrimeFlix](https://primeflix-web.vercel.app/)** - Movies / TV / Anime / 1080p / [Discord](https://discord.gg/GbW6gzAKgc)
@@ -413,6 +413,7 @@
 * ⭐ **[SportsHub](https://sportshub.fan/)** - Sports
 * ⭐ **[TotalSportek](https://totalsportek.pro/)**, [2](https://www.totalsportek.to/) - Sports
 * ⭐ **[OlympicStreams](https://olympicstreams.me/)** - Sports
+* ⭐ **[Lord Latifi Streams](https://latifistreams.com/)** - Motorsports / Soccer / [Discord](https://discord.gg/6vr9CW7ZFa) 
 * [Sportsurge.club](https://sportsurge.club/) - Sports
 * [1Stream](https://1stream.eu/) - Sports
 * [First Row Sports](https://firstsrowsports.tv/) - Sports
@@ -483,6 +484,7 @@
 * [AllTheBestFights](https://www.allthebestfights.com/) - MMA / Boxing / Kickboxing Replays
 * [TNA / Impact Replays](https://www.youtube.com/playlist?list=PLSadBNbijyoGV44wd96Fda7-GDYh9UktC) - TNA / Impact Wrestling Replays
 * [/r/MotorsportsReplays](https://reddit.com/r/MotorsportsReplays) - Motorsports Replays
+* [Lord Latifi Streams](https://latifistreams.com/) - Motorsports Replays / [Discord](https://discord.gg/6vr9CW7ZFa) 
 * [FullMatchSports](https://fullmatchsports.cc/) - Motorsports Replays
 * [F1 Full Races](https://f1fullraces.com/) - Motorsports Replays
 * [F1 Home](https://f1home.live/) - Motorsports Replays
