@@ -1617,10 +1617,10 @@
 ## ▷ Downloading
 
 * [MP3 İndir](https://www.mp3indirdur.net/) - Music
-* [Turkce Altyazı](https://turkcealtyazi.org/index.php) - Subtitles
+* [Türkçe Altyazı](https://turkcealtyazi.org/index.php) - Subtitles
 * [Turkish Audio Center](https://www.turkishaudiocenter.com) - Voiceovers
 * [Shareses](https://shareses.com) - Voiceovers
-* [Turkce Ses İndir](https://www.turkcesesindir.com/) - Voiceovers
+* [Türkce Ses İndir](https://www.turkcesesindir.com/) - Voiceovers
 * [DwForce](http://dwa-audio.blogspot.com/) - Voiceovers
 * [SinnerClown](https://sinnerclownceviri.com) - Game Localization / [Discord](https://discord.com/invite/nApvcT6Tt6)
 * [PixelSaga (Discord)](https://discord.gg/ZZER4w3Mmx) - Game Localization
@@ -1653,7 +1653,7 @@
 * [Anime densetsu](https://www.animedensetsu.com) - Anime Download
 * [Türk Anime](https://www.turkanime.co/) - Anime
 * [Anizm](https://anizm.net/) - Anime
-* [TR Anime](https://www.tranimeizle.co) - Anime
+* [TR Anime İzle](https://www.tranimeizle.co) - Anime
 * [Anime Who](https://animewho.com) - Anime
 
 
