@@ -412,6 +412,7 @@
 ## ▷ Aggregators
 
 * ⭐ **[BoringReport](https://www.boringreport.org/)**
+* ⭐ **[Upstract](https://upstract.com/)**
 * ⭐ **[QotNews](https://news.t0.vc/)** - Hacker News / Reddit / Lobsters / Tildes
 * ⭐ **[Anime Blog Tracker](https://aniblogtracker.com/)** - Anime News Blogs
 * [NewsMinimalist](https://www.newsminimalist.com/), [AllAINews](https://allainews.com/) or [Brief](https://www.brief.news/) - AI News Aggregators
@@ -424,7 +425,6 @@
 * [Readspike](https://readspike.com/)
 * [sumi.news](https://sumi.news/)
 * [NewsCord](https://newscord.org/)
-* [Upstract](https://upstract.com/)
 * [AllTop](https://alltop.com/)
 
 ***
