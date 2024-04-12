@@ -9,7 +9,7 @@
 ## ▷ Multi Server
 
 * ⭐ **[Braflix](https://www.braflix.video/)** - Movies / TV / Anime / 4K / 1080p / [Discord](https://discord.gg/wWKmxARaWH)
-* ⭐ **[watch.lonelil](https://watch.lonelil.ru/)** - Movies / TV / Anime / 1080p / [Discord](https://discord.com/invite/BKts6Jb5sA) / [Telegram](https://t.me/watchlonelil)
+* ⭐ **[watch.lonelil](https://watch.lonelil.ru/)** - Movies / TV / Anime / 4K / 1080p / [Discord](https://discord.com/invite/BKts6Jb5sA) / [Telegram](https://t.me/watchlonelil)
 * ⭐ **[movie-web](https://movie-web.github.io/docs/instances)**, [2](https://erynith.github.io/movie-web-instances/) - Movies / TV / Anime / 1080p
 * ⭐ **[FMovies](https://fmoviesz.to/)** - Movies / TV / Anime / 1080p / [Mirrors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_fmovies_clones)
 * ⭐ **[Binged](https://binged.live/)**, [2](https://binged.in/), [3](https://binge.lol/) - Movies / TV / Anime / 1080p / [Discord](https://discord.gg/f2SvhcKCKS)
