@@ -158,11 +158,8 @@
 * [Information Is Beautiful](https://informationisbeautiful.net/) - Data / Information / Infographics / Visualizations
 * [Lucid](https://apps.apple.com/us/app/imprint-learn-visually/id1482780647) - Visual Learning Guides / iOS
 * [HowStuffWorks](https://www.howstuffworks.com/) or [CoolMindMaps](https://www.coolmindmaps.com/) - Learn How Things Work
-* [Explorabl.es](https://explorabl.es/), [MinuteLabs](https://minutelabs.io/), [Kahoot](https://kahoot.com/), [Wikiversity](https://www.wikiversity.org/), [Learnamic](https://www.learnamic.com/) or [TurtleDiary](https://www.turtlediary.com/) - Quizzes / Guides / Games
-* [SoftSchools](https://www.softschools.com/) or [EnchantedLearning](https://www.enchantedlearning.com/) - Worksheets / Games / Quizzes
-* [FactSlides](https://www.factslides.com/) - Find Facts for all Topics
+* [Explorabl.es](https://explorabl.es/), [MinuteLabs](https://minutelabs.io/), [Wikiversity](https://www.wikiversity.org/) or [Learnamic](https://www.learnamic.com/) - Quizzes / Guides / Games
 * [masterWiki](https://masterwiki.how/) - MasterClass Classes Republished as wikiHow Articles
-* [Listenable](https://apps.apple.com/us/app/listenable-learn-with-audio/id1492810539) - 5-Minute Audio Lessons / iOS
 * [LabXchange](https://www.labxchange.org/) or [EduMedia](https://www.edumedia-sciences.com/en/) - Interactive Science Simulations
 * [CuriousCat](https://curiouscat.live/) or [RetroSpring](https://retrospring.net/) - Q&A Communities
 * [LitCharts](https://www.litcharts.com/) - Literature Guides
@@ -464,13 +461,12 @@
 * 🌐 **[Awesome Math](https://github.com/rossant/awesome-math)** or [Math Resources](https://docs.google.com/document/d/1rtokzhpvkUPnymudl_ZVmfAA7H33VIyLQUpujNGwrTo/) - Math Resources
 * ⭐ **[Number Academy](https://number.academy/)** - Encyclopedia of Numbers
 * ⭐ **[Microsoft Math Solver](https://math.microsoft.com/)**, [SpeedCrunch](https://speedcrunch.org/) or [MathPapa](https://www.mathpapa.com/algebra-calculator.html) - Advanced Calculator
-* ⭐ **[Cymath](https://www.cymath.com/)**, [MathGPT](https://mathgpt.streamlit.app/), [PhotoMath](https://rentry.co/FMHYBase64#photomath), [Mathway](https://www.mathway.com/), [EverydayCalculation](https://answers.everydaycalculation.com/), [Math Solver](https://mathsolver.microsoft.com/en), [Tiger Algebra](https://www.tiger-algebra.com/) or [Symbolab](https://www.symbolab.com/) - Math Problem Solvers
+* ⭐ **[Cymath](https://www.cymath.com/)**, [PhotoMath](https://rentry.co/FMHYBase64#photomath), [Mathway](https://www.mathway.com/), [Math Solver](https://mathsolver.microsoft.com/en), [Tiger Algebra](https://www.tiger-algebra.com/) or [Symbolab](https://www.symbolab.com/) - Math Problem Solvers
 * ⭐ **[Wumbo](https://wumbo.net/)** - Math Reference Site
 * ⭐ **[AoPS Alcumus](https://artofproblemsolving.com/)** - Interactive Math Site
 * ⭐ **[BetterExplained](https://betterexplained.com/)** - Math Guides / Courses
 * ⭐ **[Wolfram|Alpha](https://www.wolframalpha.com/examples/mathematics)** - Calculator
 * ⭐ **[Omni Calculator](https://www.omnicalculator.com/)** - Calculator
-* [CalculatorSoup](https://www.calculatorsoup.com/) - Calculator
 * [GigaCalculator](https://www.gigacalculator.com/) - Calculator
 * [numbr.dev](https://numbr.dev/) - Calculator
 * [Qalculate](https://qalculate.github.io/) - Desktop Calculator
@@ -641,12 +637,12 @@
 * ↪️ **[Languages & Linguistics](https://rentry.co/FMHYBase64#languages-linguistics)**
 * ↪️ **[Translation Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools#wiki_.25B7_translators)**
 * ⭐ **[Language Transfer](https://www.languagetransfer.org/)** - Language Learning Lectures
-* ⭐ **[Polyglotia](https://www.polyglotia.com/)**, [HelloTalk](https://www.hellotalk.com/) or [LearnLingo](https://demo.learnlingo.dev/) - Learn Languages via AI Conversation
 * ⭐ **[Language Reactor](https://www.languagereactor.com/)** - Learn Languages via Media
 * ⭐ **[PolyReads](https://polyreads.com/)** - Learn Languages via Reading
 * ⭐ **[Readlang](https://readlang.com/)** - Learn a Language via Web Browsing
 * [WordReference](https://www.wordreference.com/), [Glosbe](https://glosbe.com/) or [Reverso](https://reverso.net/) - Translation Dictionary
 * [ReverseDictionary](https://reversedictionary.org/) or [OneLook Reverse](https://onelook.com/reverse-dictionary.shtml) - Search for Words Using Their Meanings
+* [HelloTalk](https://www.hellotalk.com/) - Learn Languages via AI Conversation
 * [Languagelearning.site](https://languagelearning.site/) - Language Learning Torrents
 * [refold.la](https://refold.la/) - Language Learning Roadmap
 * [Memrise](https://www.memrise.com/), [LingoDeer](https://www.lingodeer.com/) or [Busuu](https://www.busuu.com/en/) - Language Learning Lessons
@@ -894,21 +890,10 @@
 ## ▷ Reference Sites
 
 * ↪️ **[Dictionary Index](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_dictionaries)** - Dictionary Sites / Tools
-* ⭐ **[Wikipedia](https://www.wikipedia.org/)**, [WikiWand](https://www.wikiwand.com/) or [Metastem](https://wiki.metastem.su/), [ModernWiki](https://www.modernwiki.app/) - Encyclopedia
-* ⭐ **Wikipedia Tools** - [Top Pages](https://top.hatnote.com/) / [Deleted Pages](https://deletionpedia.org/en/Main_Page) / [Page Connections](https://hyperleap.com/) / [Dark Mode](https://en.wikipedia.org/wiki/Wikipedia:Dark_mode) / [TUI](https://github.com/yashsinghcodes/wik) / [Galaxy View](https://wiki.polyfra.me/) / [Offline View](http://cdpedia.python.org.ar/index.en.es.html) / [Extract Text](https://github.com/attardi/wikiextractor) / [Shorten URLs](https://meta.wikimedia.org/wiki/Special:UrlShortener) / [Location Search](https://wikinearby.toolforge.org/)
-* ⭐ **[Wolfram Alpha](https://www.wolframalpha.com/)** - Searchable Knowledgebase / [API Access](https://wolfreealpha.gitlab.io)
+* ↪️ **[Encyclopedia Index](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_encyclopedias)** - Encyclopedia Sites / Tools
 * ⭐ **[NGrams](https://books.google.com/ngrams/)** or [Netspeak](https://netspeak.org/) - Word Usage Trackers
+* [Time Traveler](https://www.merriam-webster.com/time-traveler) - See when a word was first used in print
 * [EtymOnline](https://www.etymonline.com/) or [The Tower of Babel](https://starlingdb.org/) - Etymologies
-* [EncycloReader](https://encycloreader.org/) - Encyclopedia Search
-* [Britannica](https://www.britannica.com/) - Encyclopedia
-* [EverybodyWiki](https://en.everybodywiki.com/) - Encyclopedia
-* [Encyclopedia](https://www.encyclopedia.com/) - Encyclopedia
-* [NewWorldEncyclopedia](https://www.newworldencyclopedia.org/) - Encyclopedia
-* [Citizendium](https://citizendium.org/) - Encyclopedia
-* [Wikitia](https://wikitia.com/) - Encyclopedia
-* [Conze.pt](https://conze.pt/) - Encyclopedia
-* [InfoPlease](https://www.infoplease.com/) - Encyclopedia
-* [Refdesk](https://www.refdesk.com/factency.html) - Encyclopedias
 * [Abbreviations](https://www.abbreviations.com/) - Abbreviations
 * [AcronymFinder](https://www.acronymfinder.com/) - Abbreviations / Acronyms
 * [Chat Words Dictionary](https://chatworddictionary.com/) - Chat Abbreviations
@@ -922,9 +907,6 @@
 * [Synonym.com](https://www.synonym.com/) - Synonyms
 * [Feeels](https://feelu.vercel.app/) - Emotion Synonym Chart
 * [KnowYourMeme](https://knowyourmeme.com/) - Meme Database
-* [IEoP](https://iep.utm.edu/fallacy/) - Fallacy Encyclopaedia
-* [Time Traveler](https://www.merriam-webster.com/time-traveler) - See when a word was first used in print
-* [Omniglot](https://www.omniglot.com/index.htm) - Writing Systems & Languages Encyclopedia
 
 ***
 
