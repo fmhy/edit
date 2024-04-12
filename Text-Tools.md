@@ -35,22 +35,21 @@
 
 ## ▷ Pastebins
 
-* ⭐ **[snowbin](https://pastes.fmhy.net/)**, [2](https://paste.fmhy.net/) - Temp Pastebin
-* ⭐ **[Linqbin](https://linqbin.cc/)** - Temp Pastebin
-* ⭐ **[Github Gists](https://gist.github.com/)** - Account Needed
-* ⭐ **[Rentry](https://rentry.co/)** / [CLI](https://github.com/radude/rentry) / Markdown Support
-* ⭐ **[Stellular](https://bundlrs.cc/)** / [Source](https://code.stellular.org/SentryTwo/bundlrs) / Markdown Support
-* ⭐ **[disroot](https://bin.disroot.org/)**, [privatebin](https://privatebin.net/), [bin.idrix](https://bin.idrix.fr/) or [RIN Privatebin](https://privatebin.rinuploads.org/)
-* ⭐ **[PrivateBin Instances](https://privatebin.info/directory/)**
-* ⭐ **[katb](https://katb.in/)**
-* ⭐ **[WriteXO](https://writexo.com/)**
-* ⭐ **[Pastebin Search](https://cse.google.com/cse?cx=0cd79b819f26af9d0)**
-* [Paster](https://paster.so) / Markdown Support
-* [Rlim](https://rlim.com/)
-* [paste](https://paste.ee/)
-* [sparked](https://paste.sparked.host/)
-* [pst.moe](https://pst.moe/)
-* [p.ip.fi](https://p.ip.fi/)
+* ⭐ **[snowbin](https://pastes.fmhy.net/)**, [2](https://paste.fmhy.net/) - Multi-Syntax
+* ⭐ **[Github Gists](https://gist.github.com/)** - Multi-Syntax / Account Needed
+* ⭐ **[Rentry](https://rentry.co/)** / [CLI](https://github.com/radude/rentry) - Markdown Support
+* ⭐ **[Stellular](https://bundlrs.cc/)** / [Source](https://code.stellular.org/SentryTwo/bundlrs) - Markdown Support
+* ⭐ **[Linqbin](https://linqbin.cc/)** - Text Only
+* ⭐ **[PrivateBin](https://privatebin.net/)** / [Home Page](https://privatebin.info/) - Text Only
+* ⭐ **PrivateBin Instances** - [All Instances](https://privatebin.info/directory/) / [Disroot Bin](https://bin.disroot.org/), [IDRIX Secure Pastebin](https://bin.idrix.fr/), or [RIN Privatebin](https://privatebin.rinuploads.org/)
+* ⭐ **[Katbin](https://katb.in/)** - Text Only
+* ⭐ **[WriteXO](https://writexo.com/)** - WYSIWYG Pastebin
+* ⭐ **[Pastebin Search](https://cse.google.com/cse?cx=0cd79b819f26af9d0)** - Pastebin CSE
+* [Rlim](https://rlim.com/) - Markdown Support
+* [Paste.ee](https://paste.ee/) - Multi-Syntax
+* [Sparked Paste](https://paste.sparked.host/) - Text Only
+* [pst.moe](https://pst.moe/) - Multi-Syntax
+* [p.ip.fi](https://p.ip.fi/) - Text Only
 * [paste.mozilla](https://paste.mozilla.org/)
 * [pastebin](https://pastebin.com/)
 * [telegra.ph](https://telegra.ph/)
@@ -79,7 +78,7 @@
 * [microbin](https://microbin.eu/)
 * [cryptgeon](https://cryptgeon.org/) - Single View Pastebin
 * [Snips.sh](https://snips.sh/) - Self-Hosted
-* [MarkdownPastebin](https://markdownpastebin.com/) - Markdown Pastebin
+* [Markdown Pastebin](https://markdownpastebin.com/) - Markdown Support
 * [Mystb.in](https://mystb.in/), [codeshare](https://codeshare.io/), [paste.mod](https://paste.mod.gg/) or [snippet.host](https://snippet.host/) - Code Pastebins
 
 ***
