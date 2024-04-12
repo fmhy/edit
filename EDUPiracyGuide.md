@@ -743,7 +743,7 @@
 * 🌐 **[German Resources](https://docs.google.com/document/d/1J5PJK0qStw2DHQHdRHuKIfq_bJrZkFarQVT7fkz13tg/edit#heading=h.biavq1413l4t)** - German Language Resources
 * ⭐ **[German Discord](https://discord.gg/german)** - German Learning Community
 * ⭐ **[DW German Course](https://learngerman.dw.com/en/learn-german/s-9528)** - German Learning Course
-* ⭐ **[VHS Lernportal](https://www.vhs-lernportal.de/**) - German Learning Course / [Mobile](https://play.google.com/store/apps/developer?id=Deutscher+Volkshochschul-Verband)
+* ⭐ **[VHS Lernportal](https://www.vhs-lernportal.de/)** - German Learning Course / [Mobile](https://play.google.com/store/apps/developer?id=Deutscher+Volkshochschul-Verband)
 * [Seedlang](https://seedlang.com/) - German Learning App
 * [Linguee](https://www.linguee.de/) / [2](https://www.linguee.com/) or [Dict.cc](https://m.dict.cc/) - German Translation Dictionary
 
