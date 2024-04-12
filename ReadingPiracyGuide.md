@@ -654,7 +654,6 @@ Note - Keep in mind that sites in the manga section above also have manhua/manhw
 * [Textbook of Bacteriology](https://www.textbookofbacteriology.net/index.html) - Microbiology Textbooks
 * [EveryCulture](https://www.everyculture.com/index.html) - World Culture Encyclopedia
 * [Encyclopaedia Iranica](https://www.iranicaonline.org/) - Iranian Culture Encyclopedia
-* [TheDailyIdea](https://thedailyidea.org/reading-lists), [2](https://thedailyidea.org/philosophy-syllabi-collection/) - Philosophy
 * [MedicalStudyZone](https://medicalstudyzone.com/) - Medical
 * [VetBooks](https://vetbooks.ir/) - Veterinary
 * [Brill](https://brill.com/) - International Law Books / Free for Students Only
