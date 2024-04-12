@@ -142,7 +142,7 @@
 * [PPD](https://projectdxxx.me/) - Project Diva Clone
 * [Rhythia](https://discord.gg/rhythia) - Sound Space Clone
 * [Cytoid](https://cytoid.io/) - Cytus Clone
-* [SweetPotato](https://wiki-en.purplepalette.net/home) - Project Sekai Clone
+* [Sonolus](https://sonolus.com/) - Project Sekai Clone / [Github](https://github.com/Sonolus) / [Guides](https://wiki-en.purplepalette.net/home)
 
 ***
 
