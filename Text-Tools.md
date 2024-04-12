@@ -49,12 +49,11 @@
 * [Paste.ee](https://paste.ee/) - Multi-Syntax
 * [Sparked Paste](https://paste.sparked.host/) - Text Only
 * [pst.moe](https://pst.moe/) - Multi-Syntax
-* [p.ip.fi](https://p.ip.fi/) - Text Only
-* [paste.mozilla](https://paste.mozilla.org/)
-* [pastebin](https://pastebin.com/)
-* [telegra.ph](https://telegra.ph/)
-* [blackhost](https://blackhost.xyz/?id=pst)
-* [protectedtext](https://www.protectedtext.com/)
+* [Mozilla Community Pastebin](https://paste.mozilla.org/) - Multi-Syntax
+* [Pastebin.com](https://pastebin.com/) - Text Only
+* [Telegraph](https://telegra.ph/) - Text Only
+* [BlackHost](https://blackhost.xyz/?id=pst) - Text Only
+* [ProtectedText](https://www.protectedtext.com/) - Text Only
 * [pasteheaven](https://pasteheaven.com/)
 * [bin.gy](https://bin.gy/)
 * [shortbin](http://bin.shortbin.eu:8080/)
