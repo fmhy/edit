@@ -382,7 +382,6 @@
 * ⭐ **[PublicAlerts](https://google.org/publicalerts)** - Important News / Disaster Alerts
 * ⭐ **[TorrentFreak](https://torrentfreak.com/)** / [Telegram](https://t.me/torrentfreaks) - Piracy News
 * ⭐ **[Good News Network](https://www.goodnewsnetwork.org/)** or [Happy Daze](https://happydaze.io/) - Uplifting News
-* ⭐ **[JAMA Network](https://jamanetwork.com/)** - Health News
 * ↪️ **[Newspaper Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/reading#wiki_.25B7_newspapers)**
 * ↪️ **[Bypass Article Paywalls](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_read_paywalled_articles)**
 * [JustRead](https://justread.link/) or [Unclutter](https://unclutter.it/) - Feed Managers / Readers
@@ -420,14 +419,13 @@
 * [Fark](https://www.fark.com/) - User-Curated News
 * [AlDaily](https://www.aldaily.com/) - Art / Philosophy / Literature News
 * [Newsfeed](https://newsfeed.one/) - Google / Reddit / Crypto News
-* [freepost](https://freepo.st/) - Freepost News
-[NewsNow](https://www.newsnow.co.uk/)
-[Google News](https://news.google.com/) / [HTML](http://68k.news/)
-[Readspike](https://readspike.com/)
-[sumi.news](https://sumi.news/)
-[NewsCord](https://newscord.org/)
-[Upstract](https://upstract.com/)
-[AllTop](https://alltop.com/)
+* [NewsNow](https://www.newsnow.co.uk/)
+* [Google News](https://news.google.com/) / [HTML](http://68k.news/)
+* [Readspike](https://readspike.com/)
+* [sumi.news](https://sumi.news/)
+* [NewsCord](https://newscord.org/)
+* [Upstract](https://upstract.com/)
+* [AllTop](https://alltop.com/)
 
 ***
 
@@ -1160,6 +1158,7 @@
 * [This Is Sand](https://thisissand.com/) - Make Sand Art
 * [Orb.Farm](https://orb.farm/) - Virtual Aquatic Ecosystem
 * [Generativeplanets](https://zehfernandes.com/generativeplanets/builder) or [Planet](https://oskarstalberg.com/game/planet/planet.html) - Planet Generators
+* [Gravity Points](https://codepen.io/akm2/full/rHIsa), [Hermann](https://www.hermann.is/gravity/) or [dmilin1](https://dmilin1.github.io/PrincipiaJS/build/index.html) - Gravity Simulators
 * [Google Gravity](https://mrdoob.com/projects/chromeexperiments/google-gravity/) - Falling Google
 * [Origami Simulator](https://origamisimulator.org/) - Origami Simulation
 * [Fold & Cut](https://www.onemotion.com/fold-cut-paper/) - Make Digital Paper Snowflakes
