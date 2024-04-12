@@ -216,8 +216,36 @@
 
 ***
 
-## DNS Filters
+## Dictionaries
 
+* 🌐 **[Dictionary Index](https://onelook.com/?d=all_gen)** - List of Online Dictionaries 
+* ⭐ **[The Piracy Glossary](https://rentry.org/The-Piracy-Glossary)** - Piracy Dictionary
+* ⭐ **[Merriam-Webster](https://www.merriam-webster.com/)** or [TheSage](https://www.sequencepublishing.com/) - Dictionary / Thesaurus
+* ⭐ **[UrbanDictionary](https://www.urbandictionary.com/)** / [Frontends](https://codeberg.org/zortazert/rural-dictionary/) or [Slangit](https://slang.net/) - Slang Word / Phrase Dictionaries
+* ⭐ **[OneLook](https://onelook.com/)** - Multi Dictionary Search
+* [Webopedia](https://www.webopedia.com/) or [TechTerms](https://techterms.com/) - Tech Dictionary
+* [Why The Fluff](https://www.whythefluff.com/) - Common Jargon Dictionary
+* [Phrases.org](https://phrases.org.uk/) - Phrase Dictionary
+* [Words to Use](https://www.words-to-use.com/) - Find Alternative Words 
+* [Phrontistery](https://phrontistery.info/) - Obscure Word Dictionary
+* [LexiLogos](https://www.lexilogos.com/english/index.htm) - Multi Language Dictionary Index
+* [WikiDiff](https://wikidiff.com/) - Difference Between Any Words
+* [Unionpedia](https://en.unionpedia.org/), [Lexipedia](https://www.lexipedia.com/), [VisuWords](https://visuwords.com/) or [WordWeb](https://wordwebs.app/) - Word Connections / Visualizers
+* [DoesNotTranslate](https://doesnottranslate.com/) or [Eunoia](https://eunoia.world/) - Words with No Translation
+* [Tip of my Tongue](https://chir.ag/projects/tip-of-my-tongue/) - Find Words you Can't Remember
+* [TheIdioms](https://www.theidioms.com/) - Idiom Dictionary
+* [RhymeZones](https://www.rhymezone.com/) or [Rhymer](https://rhymer.com/) - Rhyme Dictionary
+* [The Dictionary of Obscure Sorrows](https://www.dictionaryofobscuresorrows.com/) - Dictionary of Sorrows
+* [TheDevilsDictionary](https://www.thedevilsdictionary.com/) - Cynical Dictionary
+* [WordSafety](http://wordsafety.com/) - Swear Word Indexes
+* [FreeMdict](https://freemdict.com/) - Dictionary Downloads / [Archive](https://downloads.freemdict.com/)
+* [PyGlossary](https://github.com/ilius/pyglossary) - Convert Dictionary Files
+
+[GoldenDict](https://xiaoyifang.github.io/goldendict-ng/), [2](https://sourceforge.net/projects/goldendict/), [NinjaWords](https://ninjawords.com/), [Wordnik](https://www.wordnik.com/), [Oxford English Dictionary](https://oed.com/) / [Bypass](https://rentry.co/freeoed), [Cambridge Dictionary](https://dictionary.cambridge.org/), [LDOCE](https://www.ldoceonline.com/), [Wiktionary](https://www.wiktionary.org/), [Lexicool](https://www.lexicool.com/),[Vocabulary](https://www.vocabulary.com/), [TheFreeDictionary](https://www.thefreedictionary.com/), [WordSense](https://www.wordsense.eu/), [Dictionary](https://www.dictionary.com/), [Spellcheck](https://www.spellcheck.net/)
+
+***
+
+## DNS Filters
 
 * ⭐ **[1Hosts](https://o0.pages.dev/)**
 * ⭐ **[OISD](https://oisd.nl/)**
