@@ -9,7 +9,7 @@
 * [Lofi Rocks](https://www.lofi.rocks/) - Tiny / Minimal Client
 * [MooSync](https://moosync.app/) - Feature-Rich Client
 * [Spotify Web Client](https://open.spotify.com/) 
-* Web Client Tools - [Adblocker](https://gist.github.com/Simonwep/24f8cdcd6d32d86e929004013bd660ae) / [Mute Ads](https://github.com/guihkx/spotishush) / [Enhanced UI](https://senpaihunters.github.io/SpotOn/) / [Customize](https://github.com/Darkempire78/Spotify-Customizer) / [Lyrics](https://github.com/mantou132/Spotify-Lyrics)
+* Web Client Tools - [Enhanced UI](https://senpaihunters.github.io/SpotOn/) / [Customize](https://github.com/Darkempire78/Spotify-Customizer) / [Lyrics](https://github.com/mantou132/Spotify-Lyrics)
 
 ***
 
@@ -20,7 +20,7 @@
 * [spotify-ezblocker](https://www.ericzhang.me/projects/spotify-ad-blocker-ezblocker/)
 * [BurntSushi](https://github.com/OpenByteDev/burnt-sushi)
 * [Spicetify](https://spicetify.app/) - Has Adblock Plugins
-* [Block Ad Host Files](https://gist.github.com/opus-x/3e673a9d5db2a214df05929a4eee6a57), [2](https://github.com/AlfonsoVergara-github/Host-to-block-ads-for-spotify)
+* [Block Ad Host Files](https://gist.github.com/opus-x/3e673a9d5db2a214df05929a4eee6a57)
 * [Spotify Adblock Guide](https://redd.it/yme7pf)
 
 ***
@@ -98,7 +98,7 @@
 * [OdesliBot](https://t.me/odesli_bot) - Audio Stream Search Bot
 * [MusicBucket](https://musicbucket.net/) - Track / Share Music / Telegram
 * [JukeboxStar](https://jukeboxstar.com/) or [JukeboxToday](https://jukebox.today/) - Collaborative Streaming / Listening Parties
-* [stemplayerplayer](https://github.com/nn9dev/stemplayerplayer), [StemPlayer](https://stemplayer.io/) or [stem-player-emulator](https://github.com/krystalgamer/stem-player-emulator) - Kanye West STEM Player Emulators
+* [stemplayerplayer](https://github.com/nn9dev/stemplayerplayer) or [StemPlayer](https://stemplayer.io/) - Kanye West STEM Player Emulators
 
 ***
 
@@ -110,7 +110,7 @@
 * ⭐ **[SoundCloud](https://soundcloud.com/)** - User Made Songs / [Spotify Theme](https://userstyles.world/style/5470/soundfy-v3) / [Dark Theme](https://github.com/huds0nx/soundcloud-luna)
 * ⭐ **[hate5six](https://hate5six.com/)** - Concert Recordings
 * [OperaOnVideo](https://www.operaonvideo.com/) - Opera Recordings
-* [Last.fm](https://www.last.fm/), [ccMixter](https://dig.ccmixter.org/), [Audiomack](https://audiomack.com/), [xprm](https://xprm.net/), [Pandora](https://www.pandora.com/), [Jango](https://jango.com/), [Jamendo](https://www.jamendo.com/), [SoundClick](https://www.soundclick.com/default.cfm) or [Mixupload](https://mixupload.com/) - Browser Music
+* [Last.fm](https://www.last.fm/), [ccMixter](https://dig.ccmixter.org/), [Audiomack](https://audiomack.com/), [Pandora](https://www.pandora.com/), [Jango](https://jango.com/), [Jamendo](https://www.jamendo.com/), [SoundClick](https://www.soundclick.com/default.cfm) or [Mixupload](https://mixupload.com/) - Browser Music
 * [Tancpol](https://tancpol.net/) - Browser Music
 * [musify](https://musify.club/) - Browser Music
 * [DMO](https://dance-music.org/) - Electronic
@@ -278,7 +278,6 @@
 * [GamDL](https://github.com/glomatico/gamdl) - Apple Music Downloader
 * [FreyrJS](https://github.com/miraclx/freyr-js) - Spotify, Deezer and Apple Music Downloader
 * [Song_downloaderbot](https://t.me/Song_downloaderbot), [DeezerMusicBot](https://t.me/DeezerMusicBot), [DeezloaderAn0n_bot](https://t.me/DeezloaderAn0n_bot) or [deezload2bot](https://t.me/deezload2bot) - Telegram Deezer Bots
-* [RedSea](https://github.com/Dniel97/RedSea), [Tidal Media Downloader](http://doc.yaronzz.com/post/tidal_dl_installation/) / [Pro](https://github.com/yaronzz/Tidal-Media-Downloader-PRO) or [orpheusdl-tidal](https://github.com/Dniel97/orpheusdl-tidal) - Tidal Music Downloaders
 * [BandCamp-DL](https://github.com/iheanyi/bandcamp-dl), [Download Bandcamp](https://downloadmusicschool.com/bandcamp/), [bcdl](https://github.com/daot/bcdl) or [Bandcamp Downloader](https://github.com/Otiel/BandcampDownloader) - Bandcamp Downloaders
 * [Librescore Downloader](https://github.com/LibreScore/dl-librescore) - Librescore Downloader
 * [Orpheus Qobuz](https://github.com/yarrm80s/orpheusdl-qobuz), [QobuzDownloaderX-MOD](https://github.com/DJDoubleD/QobuzDownloaderX-MOD) or [qobuz-dl](https://github.com/vitiko98/qobuz-dl) - Qobuz Downloaders
@@ -492,7 +491,6 @@
 * [VGMRips](https://vgmrips.net/packs/) - Retro Game Music Rips / VGM
 * [Zophar's](https://www.zophar.net/music) - Retro Game Music Rips / VGM
 * [GameOST](https://gameost.net/) - Game Soundtracks / MP3
-* [retro.sx](https://retro.sx/) - Game Music Radio
 * [VIP VGM](https://www.vipvgm.net/) - Game Music Radio
 * [Cirrus Retro](https://cirrusretro.com/) - Game Music Radio
 * [Rainwave](https://rainwave.cc/) - Game Music Radio
