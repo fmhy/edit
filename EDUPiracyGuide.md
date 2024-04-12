@@ -198,7 +198,7 @@
 ## ▷ Philosophy
 
 * ⭐ **[Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/index.html)**, [IEP](https://iep.utm.edu/) or [nLab](https://ncatlab.org/) - Philosophy Encyclopedias / [Search](https://www.visualizingsep.com/)
-* [Philosophy Bro](https://www.philosophybro.com/), [Reasoned](https://www.reasoned.org/dir/) or [PhilosophyBasics](https://www.philosophybasics.com/) - Learn about Philosophy
+* [Philosophy Bro](https://www.philosophybro.com/), [Reasoned](https://www.reasoned.org/dir/), [TheDailyIdea](https://thedailyidea.org/) or [PhilosophyBasics](https://www.philosophybasics.com/) - Philosophy Resources / Learning
 * [Untools](https://untools.co/) - Better Thinking Tools
 * [Brainkit](https://www.braink.it/) - Learn Helpful Principles
 * [LessWrong](https://www.lesswrong.com/) - Develop Rationality / [Frontend](https://www.greaterwrong.com/)
@@ -735,15 +735,23 @@
 * [SpanishDict](https://www.spanishdict.com/) - Spanish Translation Dictionary
 * [The French Tutorial](http://www.frenchtutorial.com/) - French Learning Tutorials
 * [LCSpeakFrench](https://t.me/LCSpeakFrench) - Live French Lessons
+
+***
+
+## ▷ German
+
+* 🌐 **[German Resources](https://docs.google.com/document/d/1J5PJK0qStw2DHQHdRHuKIfq_bJrZkFarQVT7fkz13tg/edit#heading=h.biavq1413l4t)** - German Language Resources
+* ⭐ **[German Discord](https://discord.gg/german)** - German Learning Community
+* ⭐ **[DW German Course](https://learngerman.dw.com/en/learn-german/s-9528)** - German Learning Course
+* ⭐ **[VHS Lernportal](https://www.vhs-lernportal.de/**) - German Learning Course / [Mobile](https://play.google.com/store/apps/developer?id=Deutscher+Volkshochschul-Verband)
 * [Seedlang](https://seedlang.com/) - German Learning App
-* [Learn German](https://learngerman.dw.com/en/learn-german/s-9528) - German Learning Videos
 * [Linguee](https://www.linguee.de/) / [2](https://www.linguee.com/) or [Dict.cc](https://m.dict.cc/) - German Translation Dictionary
 
 ***
 
 ## ▷ South Asian
 
-* 🌐 **[Urdu Resource List](https://docs.google.com/document/d/1GRTK_E0YGybMNYZjFToM40sOHNkR1NJXc_dL8HW2Q_0/)** or [UrduNotes](https://urdunotes.com/) - Urdu Learning Resources
+* 🌐 **[Urdu Resources](https://docs.google.com/document/d/1GRTK_E0YGybMNYZjFToM40sOHNkR1NJXc_dL8HW2Q_0/)** or [UrduNotes](https://urdunotes.com/) - Urdu Learning Resources
 * 🌐 **[Learn Sanskrit](https://www.learnsanskrit.org/) or [Sanskrit Studio](https://sanskritstudio.wordpress.com/)** - Sanskrit Lessons and Tools
 * [South Asian Languages](https://discord.gg/TrdqTDdMba) - South Asian Language Learning
 * [Urdupod101](https://www.urdupod101.com/blog/2021/03/18/urdu-grammar-overview/) - Urdu Grammar Overview / [Video](https://youtu.be/X5J_kXigPWE)
