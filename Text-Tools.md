@@ -29,56 +29,31 @@
 * [DocuSeal](https://www.docuseal.co/) - Free Document Signing
 * [Butterick’s Practical Typography](https://practicaltypography.com/) - Typography Guide Book
 
-
-
 ***
 
 ## ▷ Pastebins
 
-* ⭐ **[snowbin](https://pastes.fmhy.net/)**, [2](https://paste.fmhy.net/) - Multi-Syntax
-* ⭐ **[Github Gists](https://gist.github.com/)** - Multi-Syntax / Account Needed
+* 🌐 **[PrivateBin Instances](https://privatebin.info/directory)** / [Disroot Bin](https://bin.disroot.org/), [IDRIX Secure Pastebin](https://bin.idrix.fr/), or [RIN Privatebin](https://privatebin.rinuploads.org/)
+* ↪️ **[Code Pastebins]()**
 * ⭐ **[Rentry](https://rentry.co/)** / [CLI](https://github.com/radude/rentry) - Markdown Support
+* ⭐ **[snowbin](https://pastes.fmhy.net/)**, [2](https://paste.fmhy.net/) - Markdown Support
 * ⭐ **[Stellular](https://bundlrs.cc/)** / [Source](https://code.stellular.org/SentryTwo/bundlrs) - Markdown Support
+* ⭐ **[PrivateBin](https://privatebin.net/)** / [Home Page](https://privatebin.info/) - Markdown Support
 * ⭐ **[Linqbin](https://linqbin.cc/)** - Text Only
-* ⭐ **[PrivateBin](https://privatebin.net/)** / [Home Page](https://privatebin.info/) - Text Only
-* ⭐ **PrivateBin Instances** - [All Instances](https://privatebin.info/directory/) / [Disroot Bin](https://bin.disroot.org/), [IDRIX Secure Pastebin](https://bin.idrix.fr/), or [RIN Privatebin](https://privatebin.rinuploads.org/)
 * ⭐ **[Katbin](https://katb.in/)** - Text Only
 * ⭐ **[WriteXO](https://writexo.com/)** - WYSIWYG Pastebin
 * ⭐ **[Pastebin Search](https://cse.google.com/cse?cx=0cd79b819f26af9d0)** - Pastebin CSE
 * [Rlim](https://rlim.com/) - Markdown Support
-* [Paste.ee](https://paste.ee/) - Multi-Syntax
+* [ZeroBin.net](https://zerobin.net/) - Markdown Support
+* [Markdown Pastebin](https://markdownpastebin.com/) - Markdown Support
 * [Sparked Paste](https://paste.sparked.host/) - Text Only
-* [pst.moe](https://pst.moe/) - Multi-Syntax
-* [Mozilla Community Pastebin](https://paste.mozilla.org/) - Multi-Syntax
-* [Pastebin.com](https://pastebin.com/) - Text Only
 * [Telegraph](https://telegra.ph/) - Text Only
 * [BlackHost](https://blackhost.xyz/?id=pst) - Text Only
 * [ProtectedText](https://www.protectedtext.com/) - Text Only
-* [pasteheaven](https://pasteheaven.com/)
-* [bin.gy](https://bin.gy/)
-* [shortbin](http://bin.shortbin.eu:8080/)
-* [paste.fo](https://paste.fo/)
-* [throwbin](https://throwbin.in/)
-* [dpaste](https://dpaste.com/) / [2](https://dpaste.org/)
-* [copydock](https://copydock.vercel.app/paste)
-* [riseup pad](https://pad.riseup.net/)
-* [zPaste](https://zpaste.net/)
-* [bitbin](https://bitbin.it/)
-* [pastes.io](https://pastes.io/)
-* [peeplink](https://peeplink.in/)
-* [paaster](https://paaster.io/)
-* [pastery](https://www.pastery.net/)
-* [pastebin.pl](https://pastebin.pl/)
-* [hashbin](https://hashb.in)
-* [zerobin](https://zerobin.net/)
-* [paste.debian](https://paste.debian.net/)
-* [centos](https://paste.centos.org/)
-* [blankslate](https://blankslate.io/)
-* [microbin](https://microbin.eu/)
-* [cryptgeon](https://cryptgeon.org/) - Single View Pastebin
+* [MicroBin](https://microbin.eu/) - Self-Hosted
 * [Snips.sh](https://snips.sh/) - Self-Hosted
-* [Markdown Pastebin](https://markdownpastebin.com/) - Markdown Support
-* [Mystb.in](https://mystb.in/), [codeshare](https://codeshare.io/), [paste.mod](https://paste.mod.gg/) or [snippet.host](https://snippet.host/) - Code Pastebins
+* [Riseup Pad](https://pad.riseup.net/) - WYSIWYG Pastebin
+* [cryptgeon](https://cryptgeon.org/) - Single View Pastebin
 
 ***
 
@@ -339,6 +314,7 @@
 * ⭐ **[Kludd](https://kludd.co/)**
 * [Stashpad](https://www.stashpad.com/) / [Discord](https://discord.gg/ScxPxcN9fK) 
 * [Mattermost](https://mattermost.com/)
+* [Codeshare](https://codeshare.io/)
 * [HackMD](https://hackmd.io/)
 * [Taskade](https://www.taskade.com/) 
 * [Socket](https://socket.io/) 
