@@ -240,6 +240,7 @@
 * [Bike Sharing](https://bikesharingworldmap.com/) - Bike Rental Map
 * [SkyDB](https://www.skydb.net/) - Skyscraper Locations / Info
 * [Google Flights](https://www.google.com/travel/flights) - Book Flights
+* [AZair](https://www.azair.eu/) - Flight Price Aggregator
 * [FlightRadar24](https://www.flightradar24.com/), [FlightStats](https://www.flightstats.com/), [PlaneFinder](https://planefinder.net/), [ADS-B Exchange](https://globe.adsbexchange.com/), [Radarbox](https://www.radarbox.com/) or [FlightAware](https://www.flightaware.com/) - Live Flight Trackers
 * [plane-notify](https://github.com/Jxck-S/plane-notify) - Plane Takeoff Notifications
 * [Misery Map](https://flightaware.com/miserymap/) - Flight Delay Map
