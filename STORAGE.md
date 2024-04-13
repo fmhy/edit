@@ -717,16 +717,15 @@
 ## OSINT Collections
 
 * ⭐ **[AsINT_Collection](https://start.me/p/b5Aow7/asint_collection)** - General Index
-* [OSINT](https://start.me/p/ZME8nR/osint) - General Index by Bruno
-* [GEOINT](https://start.me/p/W1kDAj/geoint) - Geographic OSINT Tools by Bruno
 * [Social Media](https://start.me/p/4K0DXg/social-media) - Social OSINT Tools
-* [Investigator Tools](https://start.me/p/gyaOJz/investigator-tools) - OSINT Investigator Tools
 * [Ph055a's OSINT Collection](https://github.com/Ph055a/OSINT_Collection) - OSINT Investigation Tools
 * [Bellingcat](https://docs.google.com/spreadsheets/d/18rtqh8EG2q1xBo2cLNyhIDuK9jrPGwYr9DI2UncoqJQ/) - Online Investigation Toolkit
 * [Reuser](https://rr.reuser.biz/) - OSINT Resource Discovery Toolkit
-* [OSINT Resource List](https://start.me/p/rx6Qj8/nixintel-s-osint-resource-list) - General Index by Nixosint
-* [OSINT Tools](https://start.me/p/wMdQMQ/tools) - General Index by Technisette
+* [GEOINT](https://start.me/p/W1kDAj/geoint) - Geographic OSINT Tools
 * [Cyber Detective's OSINT Collection](https://github.com/cipher387/osint_stuff_tool_collection) - General Index
+* [Nixintel's OSINT Resource List](https://start.me/p/rx6Qj8/nixintel-s-osint-resource-list) - General Index
+* [Technisette's OSINT Tools](https://start.me/p/wMdQMQ/tools) - General Index
+* [OSINT](https://start.me/p/ZME8nR/osint) - General Index
 * [UK-OSINT](https://www.uk-osint.net/index.html) - General Index
 * [OSINT4ALL](https://start.me/p/L1rEYQ/osint4all) - General Index
 * [OSINT All](https://start.me/p/0PwOGl/osint-all) - General Index

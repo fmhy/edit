@@ -988,7 +988,7 @@
 * ⭐ **[Keqingmains](https://keqingmains.com/)** - Genshin Guides
 * [/r/GachaGaming](https://www.reddit.com/r/gachagaming/) - Gacha Games Subreddit
 * [LunarCore](https://github.com/Melledy/LunarCore) - Private Honkai: Star Rail Servers
-* [Star Rail Station](https://starrailstation.com/), [Pokke's Library](https://pokkelibrary.com/) or [stardb.gg](https://stardb.gg/) - Honkai Star Rai Guides
+* [Star Rail Station](https://starrailstation.com/), [Pokke's Library](https://pokkelibrary.com/) or [stardb.gg](https://stardb.gg/) - Honkai Star Rail Guides
 * [Seelie.me](https://seelie.me/) - Genshin / Star Rail Planner
 * [Genshin Center](https://genshin-center.com/) - Genshin Planner
 * [Genshin Helper Doc](https://docs.google.com/spreadsheets/d/1gNxZ2xab1J6o1TuNVWMeLOZ7TPOqrsf3SshP5DLvKzI/htmlview?pru=AAABdXYM80o*xMxXJdNbCCZ-v9FLVh6EXg) - Genshin Builds Guide
