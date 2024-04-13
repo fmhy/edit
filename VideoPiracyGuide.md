@@ -676,6 +676,7 @@
 * [XtremeWrestlingTorrents](https://xtremewrestlingtorrents.net/) - Wrestling Private Tracker / Open Registrations
 * [IMDb Link em All](https://greasyfork.org/en/scripts/17154-imdb-link-em-all), [IMDb-Scout-Mod](https://github.com/Purfview/IMDb-Scout-Mod), [TMDB-Torrent-Movie-Database](https://github.com/singhkumarpratik/TMDB-Torrent-Movie-Database) - Torrent Site Results on IMDb
 * [srrextra](https://github.com/srrDB/srrextra) - Scene Release Tracker on IMDb
+* [Youplex](https://torrents.youplex.site/) - Torrents / Movies / TV 
 
 ***
 
