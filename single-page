@@ -29,58 +29,31 @@
 * [DocuSeal](https://www.docuseal.co/) - Free Document Signing
 * [Butterick’s Practical Typography](https://practicaltypography.com/) - Typography Guide Book
 
-
-
 ***
 
 ## ▷ Pastebins
 
-* ⭐ **[snowbin](https://pastes.fmhy.net/)**, [2](https://paste.fmhy.net/) - Temp Pastebin
-* ⭐ **[Linqbin](https://linqbin.cc/)** - Temp Pastebin
-* ⭐ **[Github Gists](https://gist.github.com/)** - Account Needed
-* ⭐ **[Rentry](https://rentry.co/)** / [CLI](https://github.com/radude/rentry) / Markdown Support
-* ⭐ **[Stellular](https://bundlrs.cc/)** / [Source](https://code.stellular.org/SentryTwo/bundlrs) / Markdown Support
-* ⭐ **[disroot](https://bin.disroot.org/)**, [privatebin](https://privatebin.net/), [bin.idrix](https://bin.idrix.fr/) or [RIN Privatebin](https://privatebin.rinuploads.org/)
-* ⭐ **[PrivateBin Instances](https://privatebin.info/directory/)**
-* ⭐ **[katb](https://katb.in/)**
-* ⭐ **[WriteXO](https://writexo.com/)**
-* ⭐ **[Pastebin Search](https://cse.google.com/cse?cx=0cd79b819f26af9d0)**
-* [Paster](https://paster.so) / Markdown Support
-* [Rlim](https://rlim.com/)
-* [paste](https://paste.ee/)
-* [sparked](https://paste.sparked.host/)
-* [pst.moe](https://pst.moe/)
-* [p.ip.fi](https://p.ip.fi/)
-* [paste.mozilla](https://paste.mozilla.org/)
-* [pastebin](https://pastebin.com/)
-* [telegra.ph](https://telegra.ph/)
-* [blackhost](https://blackhost.xyz/?id=pst)
-* [protectedtext](https://www.protectedtext.com/)
-* [pasteheaven](https://pasteheaven.com/)
-* [bin.gy](https://bin.gy/)
-* [shortbin](http://bin.shortbin.eu:8080/)
-* [paste.fo](https://paste.fo/)
-* [throwbin](https://throwbin.in/)
-* [dpaste](https://dpaste.com/) / [2](https://dpaste.org/)
-* [copydock](https://copydock.vercel.app/paste)
-* [riseup pad](https://pad.riseup.net/)
-* [zPaste](https://zpaste.net/)
-* [bitbin](https://bitbin.it/)
-* [pastes.io](https://pastes.io/)
-* [peeplink](https://peeplink.in/)
-* [paaster](https://paaster.io/)
-* [pastery](https://www.pastery.net/)
-* [pastebin.pl](https://pastebin.pl/)
-* [hashbin](https://hashb.in)
-* [zerobin](https://zerobin.net/)
-* [paste.debian](https://paste.debian.net/)
-* [centos](https://paste.centos.org/)
-* [blankslate](https://blankslate.io/)
-* [microbin](https://microbin.eu/)
-* [cryptgeon](https://cryptgeon.org/) - Single View Pastebin
+* 🌐 **[PrivateBin Instances](https://privatebin.info/directory)** / [Disroot Bin](https://bin.disroot.org/), [IDRIX Secure Pastebin](https://bin.idrix.fr/), or [RIN Privatebin](https://privatebin.rinuploads.org/)
+* ↪️ **[Code Pastebins]()**
+* ⭐ **[Rentry](https://rentry.co/)** / [CLI](https://github.com/radude/rentry) - Markdown Support
+* ⭐ **[snowbin](https://pastes.fmhy.net/)**, [2](https://paste.fmhy.net/) - Markdown Support
+* ⭐ **[Stellular](https://bundlrs.cc/)** / [Source](https://code.stellular.org/SentryTwo/bundlrs) - Markdown Support
+* ⭐ **[PrivateBin](https://privatebin.net/)** / [Home Page](https://privatebin.info/) - Markdown Support
+* ⭐ **[Linqbin](https://linqbin.cc/)** - Text Only
+* ⭐ **[Katbin](https://katb.in/)** - Text Only
+* ⭐ **[WriteXO](https://writexo.com/)** - WYSIWYG Pastebin
+* ⭐ **[Pastebin Search](https://cse.google.com/cse?cx=0cd79b819f26af9d0)** - Pastebin CSE
+* [Rlim](https://rlim.com/) - Markdown Support
+* [ZeroBin.net](https://zerobin.net/) - Markdown Support
+* [Markdown Pastebin](https://markdownpastebin.com/) - Markdown Support
+* [Sparked Paste](https://paste.sparked.host/) - Text Only
+* [Telegraph](https://telegra.ph/) - Text Only
+* [BlackHost](https://blackhost.xyz/?id=pst) - Text Only
+* [ProtectedText](https://www.protectedtext.com/) - Text Only
+* [MicroBin](https://microbin.eu/) - Self-Hosted
 * [Snips.sh](https://snips.sh/) - Self-Hosted
-* [MarkdownPastebin](https://markdownpastebin.com/) - Markdown Pastebin
-* [Mystb.in](https://mystb.in/), [codeshare](https://codeshare.io/), [paste.mod](https://paste.mod.gg/) or [snippet.host](https://snippet.host/) - Code Pastebins
+* [Riseup Pad](https://pad.riseup.net/) - WYSIWYG Pastebin
+* [cryptgeon](https://cryptgeon.org/) - Single View Pastebin
 
 ***
 
@@ -341,6 +314,7 @@
 * ⭐ **[Kludd](https://kludd.co/)**
 * [Stashpad](https://www.stashpad.com/) / [Discord](https://discord.gg/ScxPxcN9fK) 
 * [Mattermost](https://mattermost.com/)
+* [Codeshare](https://codeshare.io/)
 * [HackMD](https://hackmd.io/)
 * [Taskade](https://www.taskade.com/) 
 * [Socket](https://socket.io/) 
@@ -7098,6 +7072,25 @@ import Index from './.vitepress/theme/Posts.vue'
 
 ***
 
+## Code Pastebins
+
+* ⭐ **[Github Gists](https://gist.github.com/)** - Multi-Syntax / Account Needed
+* [Paste.ee](https://paste.ee/) - Multi-Syntax
+* [pst.moe](https://pst.moe/) - Multi-Syntax
+* [Mozilla Community Pastebin](https://paste.mozilla.org/) - Multi-Syntax
+* [Pastebin.com](https://pastebin.com/) - Multi-Syntax
+* [pasteheaven.com](https://pasteheaven.com/) - Multi-Syntax
+* [paste.fo](https://paste.fo/) - Multi-Syntax
+* [dpaste.com](https://dpaste.com/) - Multi-Syntax
+* [bitbin](https://bitbin.it/) - Multi-Syntax
+* [pastes.io](https://pastes.io/) - Multi-Syntax
+* [Pastebin.pl](https://pastebin.pl/) - Multi-Syntax
+* [Debian Pastezone](https://paste.debian.net/) - Multi-Syntax
+* [CentOS Pastebin](https://paste.centos.org/) - Multi-Syntax
+* [snippet.host](https://snippet.host/) - Multi-Syntax
+
+***
+
 ## Coding Tutorials
 
 * ⭐ **[GeeksforGeeks](https://www.geeksforgeeks.org/)**
@@ -7667,16 +7660,15 @@ import Index from './.vitepress/theme/Posts.vue'
 ## OSINT Collections
 
 * ⭐ **[AsINT_Collection](https://start.me/p/b5Aow7/asint_collection)** - General Index
-* [OSINT](https://start.me/p/ZME8nR/osint) - General Index by Bruno
-* [GEOINT](https://start.me/p/W1kDAj/geoint) - Geographic OSINT Tools by Bruno
 * [Social Media](https://start.me/p/4K0DXg/social-media) - Social OSINT Tools
-* [Investigator Tools](https://start.me/p/gyaOJz/investigator-tools) - OSINT Investigator Tools
 * [Ph055a's OSINT Collection](https://github.com/Ph055a/OSINT_Collection) - OSINT Investigation Tools
 * [Bellingcat](https://docs.google.com/spreadsheets/d/18rtqh8EG2q1xBo2cLNyhIDuK9jrPGwYr9DI2UncoqJQ/) - Online Investigation Toolkit
 * [Reuser](https://rr.reuser.biz/) - OSINT Resource Discovery Toolkit
-* [OSINT Resource List](https://start.me/p/rx6Qj8/nixintel-s-osint-resource-list) - General Index by Nixosint
-* [OSINT Tools](https://start.me/p/wMdQMQ/tools) - General Index by Technisette
+* [GEOINT](https://start.me/p/W1kDAj/geoint) - Geographic OSINT Tools
 * [Cyber Detective's OSINT Collection](https://github.com/cipher387/osint_stuff_tool_collection) - General Index
+* [Nixintel's OSINT Resource List](https://start.me/p/rx6Qj8/nixintel-s-osint-resource-list) - General Index
+* [Technisette's OSINT Tools](https://start.me/p/wMdQMQ/tools) - General Index
+* [OSINT](https://start.me/p/ZME8nR/osint) - General Index
 * [UK-OSINT](https://www.uk-osint.net/index.html) - General Index
 * [OSINT4ALL](https://start.me/p/L1rEYQ/osint4all) - General Index
 * [OSINT All](https://start.me/p/0PwOGl/osint-all) - General Index
@@ -10798,6 +10790,7 @@ Use [this](https://bitbucket.org/magnolia1234/bypass-paywalls-firefox-clean/src/
 * ⭐ **[JavaScript.info](https://javascript.info/)**, [Patterns.dev](https://www.patterns.dev/) or [30 Days Of JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript) - Javascript Learning Sites
 * ⭐ **[mess with dns](https://messwithdns.net/)** - Experiment with DNS
 * ⭐ **[PHP: The Right Way](https://phptherightway.com/)**, [Learn PHP](https://odan.github.io/learn-php/) or [PHP Tutorial](https://www.phptutorial.net/) - Learn PHP
+* ⭐ **[Markdown Guide](https://www.markdownguide.org/)** - Guide for Markdown (.md)
 * [Web Dev for Beginners](https://microsoft.github.io/Web-Dev-For-Beginners/) - Web Dev Course
 * [Aquent Gymnasium](https://thegymnasium.com/) - Web Dev Tutorials
 * [Dash](https://dash.generalassemb.ly/) - Web Dev Courses
@@ -10832,7 +10825,6 @@ Use [this](https://bitbucket.org/magnolia1234/bypass-paywalls-firefox-clean/src/
 * [Full Stack Solana Development Guide](https://dev.to/edge-and-node/the-complete-guide-to-full-stack-solana-development-with-react-anchor-rust-and-phantom-3291) - [Examples](https://github.com/dabit3/complete-guide-to-full-stack-solana-development)
 * [STPG](https://stpg-tk.netlify.app/guides/) - Startpage Creation Guides / [Discord](https://discord.com/invite/ExAGgVR)
 * [Markdown Tutorial](https://www.markdowntutorial.com/) - Interactive Markdown Tutorial
-* [MarkdownGuide](https://www.markdownguide.org/) - Guide for Markdown (.md) 
 * [Web Design in 4 Minutes](https://jgthms.com/web-design-in-4-minutes/) or [Strml](https://www.strml.net/) - Interactive Web Design Tutorial
 * [WebGL and GLSL Workshop](https://mattdesl.github.io/workshop-webgl-glsl/) - Interactive WebGL / GLSL Tutorial
 * [LearningSEO](https://learningseo.io/) - SEO Guides
@@ -13293,10 +13285,10 @@ Use [this](https://bitbucket.org/magnolia1234/bypass-paywalls-firefox-clean/src/
 * ⭐ **[Awesome Search](https://awesomelists.top/)** - Awesome List Search
 * [Awesome Tech for Good](https://github.com/TechforgoodCAST/awesome-techforgood) - Social-Impact Tech List
 * [Awesome OSS](https://github.com/RunaCapital/awesome-oss-alternatives) - Open-Source Alternatives to SaaS
-* [Awesome Web Apps](https://github.com/aviaryan/awesome-no-login-web-apps) - List of No-Login Web Apps
-* [Awesome Anime Sources](https://github.com/anshumanv/awesome-anime-sources) - List of All Things Anime
-* [Awesome DataHoarding](https://github.com/simon987/awesome-datahoarding) - List of Data-Hoarding Related Tools
-* [Awesome Uncopyright](https://github.com/johnjago/awesome-uncopyright) - List of All Things Public Domain
+* [Awesome Web Apps](https://github.com/aviaryan/awesome-no-login-web-apps) - No-Login Web Apps
+* [Awesome Anime Sources](https://github.com/anshumanv/awesome-anime-sources) - All Things Anime
+* [Awesome DataHoarding](https://github.com/simon987/awesome-datahoarding) - Data-Hoarding Related Tools
+* [Awesome Uncopyright](https://github.com/johnjago/awesome-uncopyright) - All Things Public Domain
 * [Awesome CLI](https://github.com/umutphp/awesome-cli) - CLI Interface for Searching Awesome Lists
 * [Track Awesome List](https://www.trackawesomelist.com/) - Daily Awesome List Updates
 
@@ -13304,18 +13296,18 @@ Use [this](https://bitbucket.org/magnolia1234/bypass-paywalls-firefox-clean/src/
 
 ## ▷ Open Source Intelligence
 
-* 🌐 **[Awesome OSINT](https://github.com/jivoi/awesome-osint)** - List of Awesome OSINT
+* 🌐 **[Awesome OSINT](https://github.com/jivoi/awesome-osint)** - Awesome OSINT
 * ↪️ **[OSINT Collections](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_osint_collections)**
 * ⭐ **[IntelTechniques](https://inteltechniques.com/index.html)** or [OSINT Techniques](https://www.osinttechniques.com/) - OSINT Resources
-* ⭐ **[Analyst Research Tools](https://analystresearchtools.com/)**
-* [Osintracker](https://www.osintracker.com/) - OSINT Investigations Tracker
-* [Cyber Detective](https://cybdetective.com/) / [GitHub](https://github.com/cipher387) - OSINT Tools, Techniques, and Projects
+* ⭐ **[Analyst Research Tools](https://analystresearchtools.com/)** - Tools and Resources
+* [Osintracker](https://www.osintracker.com/) - Track Your Investigations
+* [Cyber Detective](https://cybdetective.com/) / [GitHub](https://github.com/cipher387) - Tools, Techniques, and Projects
 * [Project Owl](https://discord.com/invite/projectowl) - OSINT Community
 * [OSINT Dojo](https://www.osintdojo.com/resources/) - OSINT Guides
 * [Hackers Arise OSINT](https://www.hackers-arise.com/osint) - OSINT Guides
 * [What is OSINT?](https://www.recordedfuture.com/blog/open-source-intelligence-definition) - Article
 * [The Key to Unlocking the Web’s Secrets](https://www.einvestigator.com/open-source-intelligence-tools/) - Article
-* [Toddington](https://www.toddington.com/resources/free-osint-resources-open-source-intelligence-search-tools-research-tools-online-investigation/) - OSINT Search Resources
+* [Toddington](https://www.toddington.com/resources/free-osint-resources-open-source-intelligence-search-tools-research-tools-online-investigation/) - Search OSINT Resources
 * [Malfrat's OSINT Map](https://map.malfrats.industries/) - Interactive Map
 * [OH SHINT!](https://ohshint.gitbook.io/oh-shint-its-a-blog/) - OSINT Blog
 
