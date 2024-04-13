@@ -90,7 +90,8 @@
 * [Torrenting](https://www.torrenting.com/) - Video / Audio / Books / NSFW / Signup Required
 * [Tigole](https://infogalactic.com/info/Tigole#Getting_Tigole_torrents) - Torrent Index
 * [ZeroTorrent](http://127.0.0.1:43110/ZeroTorrent.bit/) - [ZeroNet Required](https://zeronet.io/) / Video / Audio
-* [4chan /t/](https://boards.4chan.org/t/) - Torrents / Imageboard / Some NSFW 
+* [4chan /t/](https://boards.4chan.org/t/) - Torrents / Imageboard / Some NSFW
+* [Youplex](https://torrents.youplex.site/) - Torrents / Video / Audio / Some NSFW 
 
 ***
 
