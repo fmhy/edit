@@ -121,6 +121,7 @@
 * [Flibusta](https://flibusta.is/) - Books / [I2P](https://flibusta.i2p/), [2](http://zmw2cyw2vj7f6obx3msmdvdepdhnw2ctc4okza2zjxlukkdfckhq.b32.i2p/) / Account Required
 * [ExClassics](https://www.exclassics.com/) - Obscure Books
 * [The Free Book Library](https://ebooks.i2p/) - Books / I2P Required
+* [Find Books](https://www.findbooks.info/) - Books / IPFS Required
 * [FreeReadFeed](https://www.freereadfeed.com/) - Free Kindle Books
 * [Wikibooks](https://www.wikibooks.org/) - Wikimedia community
 * [Antilibrary](http://127.0.0.1:43110/Antilibrary.bit/) - ZeroNet Required
@@ -180,9 +181,9 @@
 
 * ⭐ **[Sacred Text Archive](https://sacred-texts.com/)** - Religion / Mythology / Folklore / Esoterica
 * ⭐ **[The Exerdex](https://rentry.co/FMHYBase64#echerdex-repository)** - Esoterica / [Discord](https://discord.gg/dS5X3d7ype) / [Subreddit](https://www.reddit.com/r/Echerdex/)
+* ↪️ **[Esoterica Telegram Channels](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_magic_.2F_esoteric_telegram_ebooks)**
 * 🌐 **[WiLd's Occult Ebook Sources](https://rentry.co/FMHYBase64#wilds-occult-ebook-sources)** - Occult / Esoterica
 * 🌐 **[Soren Megathread](https://odysee.com/@Soren:71/%F0%9F%94%B0Megathread_with_Resources%F0%9F%94%B0:1)** - Occult / Esoterica
-* ↪️ **[Esoterica Telegram Channels](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_magic_.2F_esoteric_telegram_ebooks)**
 * [ObscUrban Legend Wiki](https://obscurban-legend.fandom.com/) - Mythology / Urban Legends
 * [FairyTalez](https://fairytalez.com/) - Mythology / Folklore / Fairy Tales
 * [Encyclopedia Mythica](https://pantheon.org/) - Mythology / Folklore / Religion
@@ -297,12 +298,11 @@
 * [Archive of Our Own](https://archiveofourown.org/) - Fanfiction Archive / [Enhancements](https://github.com/jsmnbom/ao3-enhancements/)
 * [Potions and Snitches](https://www.potionsandsnitches.org/) - Harry Potter Fanfiction
 * [Fim Fiction](https://www.fimfiction.net/) - MLP Fanfiction
-* [Liminal Archives](http://liminal-archives.wikidot.com/) - Liminal Space Stories / [Discord](https://discord.gg/fxhwcsyKN2)
+* [Liminal Archives](http://liminal-archives.wikidot.com/)  / [Discord](https://discord.gg/fxhwcsyKN2), [The Backrooms Wiki](http://backrooms-wiki.wikidot.com/) or [The Voidclusters](http://voidclusters.wikidot.com/) - Liminal Space Stories
 * [SCP Foundation](https://scp-wiki.wikidot.com/) / [Wiki](https://en.wikipedia.org/wiki/SCP_Foundation) / [Subreddit](https://www.reddit.com/r/SCPDeclassified/) or [OrionsArm](https://www.orionsarm.com/) - Fictional Story Colabs 
 * [Projectrho](https://www.projectrho.com/public_html/rocket/) - Fantasy Rocket Encyclopedia
 * [The Trove](https://web.archive.org/web/20210614215400/https://thetrove.is/) - Books / Fantasy / TTRPG
 * [DriveThruRPG](https://www.drivethrurpg.com/browse.php?pfrom=&pto=0&x=0&y=0) or [TTRPG Torrent](https://rentry.co/FMHYBase64#ttrpg-books) - TTRPG Books
-* [SimplyScripts](https://www.simplyscripts.com/) or [SubsLikeScript](https://subslikescript.com/) - Movie / TV Scripts
 * [Anarcho-Copy](https://anarcho-copy.org/) - Anarchism
 * [Archive.Leftove.rs](https://archive.leftove.rs/) - Protest Documents
 * [Marxists Internet Archive](https://www.marxists.org/) - Socialism / Communism
@@ -654,7 +654,6 @@ Note - Keep in mind that sites in the manga section above also have manhua/manhw
 * [Textbook of Bacteriology](https://www.textbookofbacteriology.net/index.html) - Microbiology Textbooks
 * [EveryCulture](https://www.everyculture.com/index.html) - World Culture Encyclopedia
 * [Encyclopaedia Iranica](https://www.iranicaonline.org/) - Iranian Culture Encyclopedia
-* [TheDailyIdea](https://thedailyidea.org/reading-lists), [2](https://thedailyidea.org/philosophy-syllabi-collection/) - Philosophy
 * [MedicalStudyZone](https://medicalstudyzone.com/) - Medical
 * [VetBooks](https://vetbooks.ir/) - Veterinary
 * [Brill](https://brill.com/) - International Law Books / Free for Students Only
@@ -665,7 +664,6 @@ Note - Keep in mind that sites in the manga section above also have manhua/manhw
 
 ## ▷ History Books
 
-* ↪️ **[Historical Audiobooks Collection](https://rentry.co/FMHYBase64#historical-audiobooks-collection)**
 * ⭐ **[Project Gutenberg](https://www.gutenberg.org/)** - Historical Fiction / Nonfiction / [Australia](https://gutenberg.net.au/) / [Canada](https://gutenberg.ca/index.html) / [Nordic](http://runeberg.org/)
 * ⭐ **[Media History](https://mediahistoryproject.org/)** - Books / Magazines
 * ⭐ **[EarlyModernTexts](https://www.earlymoderntexts.com)** - Historical Texts
@@ -819,6 +817,7 @@ Note - Keep in mind that sites in the manga section above also have manhua/manhw
 * [GBIF](https://www.gbif.org/) - Biodiversity Datasets
 * [RPubs](https://rpubs.com/) - R Markdown Data Publishing
 * [DOAJ](https://doaj.org/) - Journals / Articles
+* [Proquest](https://www.proquest.com/) - Journals / Articles
 * [mdpi](https://www.mdpi.com/) - Articles
 * [longdom](https://www.longdom.org/) - Articles
 * [Typewriter](https://tetw.org/) - Educational Articles & Essays The Electric
@@ -880,7 +879,7 @@ Note - Keep in mind that sites in the manga section above also have manhua/manhw
 
 * ⭐ **[GoodReads](https://www.goodreads.com/)** / [Frontend](https://github.com/nesaku/BiblioReads) - Books / Comics / Manga / [Ratings Filter](https://www.book-filter.com/)
 * ⭐ **[MyAnimeList](https://myanimelist.net/)** - Manga / Light Novels
-* ⭐ **MAL Tools** - [Redesign](https://hritikvaishnav.github.io/Project-Redesign/public/mal.html) / [Extension](https://anime.plus/) / [Scripts](https://myanimelist.net/forum/?topicid=1849731) / [Search Helper](https://greasyfork.org/en/scripts/429784) / [Site Sync](https://malsync.moe/) / [MALSync Discord](https://discord.com/invite/cTH4yaw) / [API](https://jikan.moe/) / [Graph](https://sekai.rl404.com/)
+* ⭐ **MAL Tools** - [Redesign](https://hritikvaishnav.github.io/Project-Redesign/public/mal.html) / [Extension](https://anime.plus/) / [Scripts](https://myanimelist.net/forum/?topicid=1849731) / [Search Helper](https://greasyfork.org/en/scripts/429784) / [Site Sync](https://malsync.moe/) / [Discord](https://discord.com/invite/cTH4yaw) / [API](https://jikan.moe/) / [Graph](https://sekai.rl404.com/)
 * ⭐ **[Anilist](https://anilist.co/home)** - Manga / Light Novels / Manhwa / Manhua / [Wrapper](https://github.com/butterstroke/Anilist-Node) / [Extras](https://greasyfork.org/en/scripts/370473-automail)
 * ⭐ **[MangaUpdates](https://www.mangaupdates.com/)** - Manga (Has Obscure Stuff)
 * ⭐ **[LeagueOfComicGeeks](https://leagueofcomicgeeks.com/)** - Comics
@@ -949,9 +948,9 @@ Note - Keep in mind that sites in the manga section above also have manhua/manhw
 * ⭐ **[eBoox](https://eboox.ru/en/)** - Ebook Reader / Android / iOS
 * ⭐ **[SumatraPDFReader](https://www.sumatrapdfreader.org/free-pdf-reader)** - PDF / PC 
 * ⭐ **[Calibre](https://calibre-ebook.com/)** - Ebook Reader / PC / Android / iOS
-* ⭐ **[Raven](https://ravenreader.app/)**, [Postlight](https://reader.postlight.com/), [Reader Mode](https://readermode.io/) or [Tranquility](https://addons.mozilla.org/en-GB/firefox/addon/tranquility-1/) - Article Readers / Managers
 * ⭐ **[EinkBro](https://github.com/plateaukao/einkbro)** - E-Ink Browser
-* [Librum](https://github.com/Librum-Reader/Librum) - Ebook Reader / PC / Linux / Mac
+* [Postlight](https://reader.postlight.com/), [Reader Mode](https://readermode.io/) or [Tranquility](https://addons.mozilla.org/en-GB/firefox/addon/tranquility-1/) - Article Readers / Managers
+* [Librum](https://github.com/Librum-Reader/Librum) - Ebook Reader / PC / Linux / ac
 * [EBook Reader](https://epub-reader.online/) - Ebook Reader / PC / Android / iOS / Mac
 * [LibrumReader](https://librumreader.com/ ) - Ebook Reader / PC 
 * [KoReader](https://koreader.rocks/) - Ebook Reader / PC / Android / [GitHub](https://github.com/koreader/koreader)

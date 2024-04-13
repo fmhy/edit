@@ -72,10 +72,10 @@
 * 🌐 **[Discord3rdParties](https://github.com/Discord-Client-Encyclopedia-Management/Discord3rdparties)** - Discord Clients Index
 * ⭐ **[Vencord](https://vencord.dev/)** - Discord Client Mod / [Github](https://github.com/Vendicated/Vencord) / [Desktop Client](https://github.com/Vencord/Vesktop)
 * ⭐ **[BetterDiscord](https://betterdiscord.app/)** - Discord Client Mod / [GitHub](https://github.com/BetterDiscord/BetterDiscord)
-* ⭐ **BetterDiscord Tools** - [Plugins](https://betterdiscord.app/plugins) / [Banned Plugins](https://rentry.co/BDBannedPlugins), [2](https://github.com/mov-ebx/BannedBetterDiscordPlugins) / [Themes](https://betterdiscord.app/themes) / [Theme Editor](https://bdeditor.dev/) / [Support](https://discord.gg/0Tmfo5ZbORCRqbAd) / [Nitro](https://github.com/riolubruh/YABDP4Nitro) / [Message Panel](https://github.com/SanjaySunil/BetterDiscordPanel) / [Re-install Guide](https://gist.github.com/Knewest/ee59d3960e18e6d813c9221b54b36ab1)
+* ⭐ **BetterDiscord Tools** - [Plugins](https://betterdiscord.app/plugins) / [Banned Plugins](https://rentry.co/BDBannedPlugins), [2](https://github.com/mov-ebx/BannedBetterDiscordPlugins) / [Support](https://discord.gg/0Tmfo5ZbORCRqbAd) / [Nitro](https://github.com/riolubruh/YABDP4Nitro) / [Re-install Guide](https://gist.github.com/Knewest/ee59d3960e18e6d813c9221b54b36ab1)
+* ⭐ **[OpenAsar](https://openasar.dev/)** - Improved Discord Desktop's app.asar / [GitHub](https://github.com/GooseMod/OpenAsar)
 * ⭐ **[WebCord](https://github.com/SpacingBat3/WebCord)** - Privacy-Hardened Client / [Discord](https://discord.gg/Vm4CwZx)
-* [OpenAsar](https://openasar.dev/) - Improved Discord Desktop's app.asar / [GitHub](https://github.com/GooseMod/OpenAsar)
-* [ArmCord](https://github.com/ArmCord/ArmCord), [abaddon](https://github.com/uowuo/abaddon) or [Replugged](https://replugged.dev/) - Lightweight Discord Clients
+* [ArmCord](https://github.com/ArmCord/ArmCord) or [abaddon](https://github.com/uowuo/abaddon) - Lightweight Discord Clients
 * [Discordo](https://github.com/ayn2op/discordo) - Discord Terminal Client
 * [Unicord](https://github.com/UnicordDev/Unicord) - Discord Client for Windows / [Discord](https://discord.gg/64g7M5Y) 
 * [Spacebar](https://github.com/spacebarchat/spacebarchat) - Self-hostable Discord Client
@@ -89,19 +89,14 @@
 
 ## ▷ Client Customization
 
+* 🌐 **[Client Themes](https://betterdiscord.app/themes)** - Client Theme Index
 * ⭐ **[Discohook](https://discohook.org/)** / [Discohook Utils](https://dutils.shay.cat/) or [Embed Generator](https://message.style/) - Embed Generators
 * ⭐ **[CustomRP](https://www.customrp.xyz/)** - Customizable Rich Presence
-* [AMWin-RP](https://github.com/PKBeam/AMWin-RP) - Apple Music Rich Presence
-* [Foo Discord](https://github.com/s0hv/foo_discord_rich) - Foobar Rich Presence 
-* [Adobe Discord RPC](https://github.com/teeteeteeteetee/adobe-discord-rpc) - Adobe Rich Presence
-* [PS3 Rich](https://github.com/zorua98741/PS3-Rich-Presence-for-Discord) - PS3 Rich Presence
-* [discord-vscode](https://marketplace.visualstudio.com/items?itemName=icrawl.discord-vscode) - VSCode Rich Presence / [GitHub](https://github.com/iCrawl/discord-vscode)
-* [Old Layout](https://gist.github.com/aamiaa/fbf6e51dbb8875a781a3d8d76fc3f3e7) - Revert New Discord Layout
+* [BD Editor](https://bdeditor.dev/) - Client Theme Editor
 * [ChromaDiscordApp](https://github.com/tgraupmann/ChromaDiscordApp) - Chroma Light for Discord
 * [Overlayed](https://overlayed.dev/) - Alternative Discord VC Overlay / [GitHub](https://github.com/Hacksore/overlayed)
 * [Acrylic](https://github.com/uwu/Acrylic) - Glass Theme
 * [WinClassic](https://github.com/SlippingGittys-Discord-Themes/WinClassic) - Classic Windows Theme
-* [PreMiD](https://premid.app/) - Display Web Activity in Discord Status / [GitHub](https://github.com/PreMiD/PreMiD) / [Discord](https://discord.premid.app/)
 * [BeautifulDiscord](https://github.com/leovoel/BeautifulDiscord) - Custom CSS Support 
 * [ansi-colors-discord.md](https://gist.github.com/kkrypt0nn/a02506f3712ff2d1c8ca7c9e0aed7c06) - Discord ANSI Text Guide
 * [Coloured-Text-Generator](https://rebane2001.com/discord-colored-text-generator/) - Discord ANSI Text Generator
@@ -117,6 +112,12 @@
 * [6gk Turtles](https://github.com/6gk/turtles) - Discord Turtle Emojis
 * [Discord Text to Emoji](https://jtprince.com/discord/) - Convert Text to Discord Emojis
 * [Stickers.gg](https://stickers.gg) - Free Discord Stickers
+* [PreMiD](https://premid.app/) - Display Web Activity in Discord Status / [GitHub](https://github.com/PreMiD/PreMiD) / [Discord](https://discord.premid.app/)
+* [AMWin-RP](https://github.com/PKBeam/AMWin-RP) - Apple Music Rich Presence
+* [Foo Discord](https://github.com/s0hv/foo_discord_rich) - Foobar Rich Presence 
+* [Adobe Discord RPC](https://github.com/teeteeteeteetee/adobe-discord-rpc) - Adobe Rich Presence
+* [PS3 Rich](https://github.com/zorua98741/PS3-Rich-Presence-for-Discord) - PS3 Rich Presence
+* [discord-vscode](https://marketplace.visualstudio.com/items?itemName=icrawl.discord-vscode) - VSCode Rich Presence / [GitHub](https://github.com/iCrawl/discord-vscode)
 
 ***
 
@@ -170,7 +171,7 @@
 
 * ⭐ **[Reddit Enhancement Suite](https://redditenhancementsuite.com/)**, [Reddit Fix](https://greasyfork.org/en/scripts/404497-reddit-fix), [Reddit Extension](https://lawrenzo.com/p/reddit-extension), [RedditEnhancer](https://github.com/joelacus/RedditEnhancer) or [RedditMod2](https://greasyfork.org/en/scripts/29724-redditmod2) - Reddit Enhancement Extensions / Scripts
 * ⭐ **[Old Reddit Redirect](https://github.com/tom-james-watson/old-reddit-redirect)** - Redirect New Reddit to Old
-* [Photon](https://photon-reddit.com/) or [redlib](https://github.com/redlib-org/redlib) - Reddit Frontends
+* [Photon](https://photon-reddit.com/), [reditr](https://reditr.com/) or [redlib](https://github.com/redlib-org/redlib) - Reddit Frontends
 * [Reddit Login Bypass Script](https://pastebin.com/raw/sU5tqwep) - Bypass Reddit Login
 * [Reddit Comber](https://redditcomber.com/) or [Sub Notification](https://redd.it/5mz9z5) - Reddit Keyword Notifications
 * [Unreadit](https://app.mailbrew.com/unreadit) - Reddit Newsletters
@@ -281,9 +282,12 @@
 
 ## ▷ Telegram Clients
 
-* ⭐ **[web.telegram](https://web.telegram.org/)** / [2](https://webk.telegram.org/) / [3](https://weba.telegram.org/)
-* ⭐ **[Unigram](https://github.com/UnigramDev/Unigram)**, [VideoGram](https://vidogram.org/), [AyuGram](https://github.com/AyuGram/AyuGramDesktop) or [TDesktop](https://github.com/Forkgram/tdesktop) / [x64](https://github.com/TDesktop-x64/tdesktop) / [Telegram](https://t.me/tg_x64) - Desktop Clients
+* ⭐ **[web.telegram](https://web.telegram.org/)** / [2](https://webk.telegram.org/) / [3](https://weba.telegram.org/) - Web Client
+* ⭐ **[Unigram](https://github.com/UnigramDev/Unigram)** - Desktop Client
 * ⭐ **[tg](https://github.com/paul-nameless/tg)** - Terminal Client
+[TDesktop](https://github.com/Forkgram/tdesktop) - Desktop Client / [x64](https://github.com/TDesktop-x64/tdesktop) / [Telegram](https://t.me/tg_x64)
+[VideoGram](https://vidogram.org/) - Desktop Client
+[AyuGram](https://github.com/AyuGram/AyuGramDesktop) - Desktop Client
 * [Pyrogram](https://docs.pyrogram.org/) / [Session Strings](https://t.me/SessionStringGeneratorZBot) - Telegram API Client
 * [Telega.el](https://github.com/zevlg/telega.el) - Telegram Emacs Client
 
@@ -405,6 +409,8 @@
 * [ytdlp-interface](https://github.com/ErrorFlynn/ytdlp-interface) - YT-DL GUI
 * [youtube-dl-gui](https://github.com/oleksis/youtube-dl-gui), [2](https://github.com/StefanLobbenmeier/youtube-dl-gui) - YT-DL GUI
 * [Videomass](https://jeanslack.github.io/Videomass/) - YT-DL / FFmpeg GUI
+* [Hitomi Downloader](https://github.com/KurtBestor/Hitomi-Downloader) - YT-DL GUI
+* [ytDownloader](https://ytdn.netlify.app/) - YT-DL GUI
 * [Cube YouTube Downloader](https://github.com/database64128/youtube-dl-wpf) - WPF YT-DL GUI
 * [metube](https://github.com/alexta69/metube) or [yt-dlp-web-ui](https://github.com/marcopeocchi/yt-dlp-web-ui) - Self-Hosted YT-DL WebUIs
 * [Poke](https://poketube.fun/download) - YouTube Downloader / [Discord](https://discord.gg/Kqdn8CHacP)
@@ -510,7 +516,7 @@
 * [TwitchQuotes](https://www.twitchquotes.com/) - Twitch Copypastas
 * [TwitchEmotes](https://twitchemotes.com/) - Global Twitch Emotes
 * [TwitchInsights](https://twitchinsights.net/), [StreamCharts](https://streamscharts.com/) or [TwitchTracker](https://twitchtracker.com/) - Twitch Stats
-* [Trovo](https://trovo.live/), [Glimesh](https://glimesh.tv/), [Kick](https://kick.com/), [dlive](https://dlive.tv/), [Caffeine](https://www.caffeine.tv/), [Lightspeed](https://lightspeed.tv/) or [Theta](https://www.theta.tv/) - Twitch Alternatives
+* [Trovo](https://trovo.live/), [Kick](https://kick.com/), [dlive](https://dlive.tv/), [Caffeine](https://www.caffeine.tv/), [Lightspeed](https://lightspeed.tv/) or [Theta](https://www.theta.tv/) - Twitch Alternatives
 * [Ultrawidify](https://github.com/tamius-han/ultrawidify) - Fix Twitch Aspect Ratio
 
 ***
@@ -567,6 +573,7 @@
 * [memory.lol](https://github.com/travisbrown/memory.lol/) - Twitter Account Archive
 * [Twitter Archive Parser](https://github.com/timhutton/twitter-archive-parser) - Tweet Archiving
 * [Twayback Machine](https://staringispolite.github.io/twayback-machine/) - View Users' Old Tweets
+* [Scoutzen](https://www.scoutzen.com/twitter-lists/search) - Search Twitter Use Lists
 * [Hoaxy](https://hoaxy.osome.iu.edu/) - Twitter Info Spread Data
 * [tinfoleak](https://tinfoleak.com/) - View Your Geosocial Footprint 
 * [Unfollow All](https://chromewebstore.google.com/detail/twitter-unfollow-all/mgehkbclkipppdjiemnhmnledicalkld) - Twitter Unfollower

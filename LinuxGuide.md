@@ -6,7 +6,7 @@
 
 # ► Linux Distros
 
-**Note** - We don't curate individual distros ourselves as we feel the indexes listed are good enough to stand on their own. 
+* **Note** - We don't curate individual distros ourselves as we feel the indexes listed are good enough to stand on their own. 
 
 ***
 
@@ -26,6 +26,69 @@
 
 ***
 
+## ▷ Linux Guides
+
+* ⭐ **[Archwiki](https://wiki.archlinux.org/)** - Arch Linux Guide / [Manuals](https://man.archlinux.org/) / [TUI](https://codeberg.org/theooo/mantra.py)
+* ⭐ **[InstallGentoo](https://wiki.installgentoo.com/)** or [Gentoo Wiki](https://wiki.gentoo.org/wiki/Main_Page) - Gentoo Guides 
+* [HowToLinux](https://github.com/themagicalmammal/howtolinux) - Linux Guides 
+* [HowtoForge](https://www.howtoforge.com/) - Linux Guides 
+* [Sindresorhus Guides](https://github.com/sindresorhus/guides) - Linux Guides 
+* [Erik Dubois](https://www.youtube.com/c/ErikDubois) - Linux Guides 
+* [LinuxJourney](https://linuxjourney.com/) - Linux Guides 
+* [Mayfrost Guides](https://github.com/mayfrost/guides) - Linux Guides 
+* [Linuxtopia](https://www.linuxtopia.org/) - Linux Guides 
+* [Mental Outlaw](https://www.youtube.com/channel/UC7YOGHUfC1Tb6E4pudI9STA) - Linux Guides 
+* [Boot-Repair](https://help.ubuntu.com/community/Boot-Repair) - Grub Repair Guide for Linux Systems
+
+***
+
+## ▷ Linux System
+
+* 🌐 **[Awesome Gnome](https://github.com/Kazhnuz/awesome-gnome)** - GNOME Resources
+* ⭐ **[Linux.Chat](https://discord.gg/linuxchat)**, [Linux.org](https://linux.org/), [Linux x Technology](https://linuxdiscord.com/), [Ezlinux](https://ezlinux.net/) or [Discord-Linux](https://discord.gg/discord-linux) - Linux Discussion / Forums
+* ⭐ **[Ventoy](https://github.com/ventoy/Ventoy)** - Create Bootable USB Linux Drives
+* ⭐ **[DistroSea](https://distrosea.com/)** or [JSLinux](https://bellard.org/jslinux/) - Linux Browser Emulators
+* ⭐ **[Btop](https://github.com/aristocratos/btop)**, **[pfetch](https://github.com/dylanaraps/pfetch)**, **[MangoHud](https://github.com/flightlessmango/MangoHud)**, [CPU-X](https://github.com/TheTumultuousUnicornOfDarkness/CPU-X), [vtop](https://github.com/MrRio/vtop), [neofetch](https://github.com/dylanaraps/neofetch) / [Themes](https://github.com/chick2d/neofetch-themes) or [LM Sensors](https://github.com/lm-sensors/lm-sensors) or [s-tui](https://github.com/amanusk/s-tui) - System Info / Resource Monitors
+* [SysmonForLinux](https://github.com/Sysinternals/SysmonForLinux) - Monitor / Log System Activity
+* [Nanobench](https://github.com/andreas-abel/nanoBench) - CPU Microbenchmark / [Documentation](https://nanobench.ankerl.com/)
+* [ScanMem](https://github.com/scanmem/scanmem) - Memory Scanner / Debugger
+* [Linux-dash](https://github.com/tariqbuilds/linux-dash) - Web-based System Dashboard
+* [pacwall](https://github.com/Kharacternyk/pacwall) - Live Wallpaper Dependency Graph / Package Status
+* [keyd](https://github.com/rvaiya/keyd) or [xremap](https://github.com/k0kubun/xremap) - Keyboard Remapping
+* [auto-cpufreq](https://github.com/AdnanHodzic/auto-cpufreq) - CPU Speed & Power Optimization Automation
+* [node-startup](https://github.com/ralyodio/node-startup) - Startup Script
+* [die.net](https://linux.die.net/) - Linux Documentation
+* [winapps](https://github.com/Fmstrat/winapps) - Run Windows Apps on Linux
+* [WoeUSB](https://github.com/WoeUSB/WoeUSB) or [Windows2USB](https://github.com/ValdikSS/windows2usb) - Create Bootable USB Windows Drives
+* [NetBoot](https://netboot.xyz/) - Distro Installer
+* [CloverBootloader](https://github.com/CloverHackyColor/CloverBootloader/) - Windows, Mac & Linux Bootloader / [Config](https://mackie100projects.altervista.org/)
+* [zfsBootMenu](https://docs.zfsbootmenu.org/) - ZFS Bootloader
+* [Linux Heads](https://osresearch.net/) - Minimal CoreBoot / [GitHub](https://github.com/osresearch/heads)
+* [GParted](https://gparted.org/) - Partition Manager
+* [ArchTitus](https://github.com/ChrisTitusTech/ArchTitus), [archinstall](https://github.com/archlinux/archinstall) or [Anarchy](https://anarchyinstaller.gitlab.io/) - Arch Linux Installer
+* [Pop!_OS Shell](https://github.com/pop-os/shell) - Pop-Shell for GNOME
+* [OneClickDesktop](https://github.com/Har-Kuun/OneClickDesktop) - One-Click Remote Desktop
+* [InstantBox](https://github.com/instantbox/instantbox) - Temporary Linux Systems
+* [CoreELEC](https://github.com/CoreELEC/CoreELEC) or [LibreELEC](https://libreelec.tv/) - Kodi-Based Operating System
+* [WSL](https://learn.microsoft.com/en-us/windows/wsl/) or [Tunic](https://github.com/mikeslattery/tunic) - Run Linux on Windows / [Resources](https://github.com/sirredbeard/Awesome-WSL) / [Startup Launcher](https://github.com/nullpo-head/wsl-distrod) / [Wayland / X Server](https://github.com/microsoft/wslg)
+* [Vivek9Patel](https://vivek9patel.github.io/) - Run Ubuntu on Browser / [GitHub](https://github.com/vivek9patel/vivek9patel.github.io)
+* [Boxes](https://wiki.gnome.org/Apps/Boxes) - Virtual Machine Manager
+* [Linux-KVM](https://www.linux-kvm.org/page/Downloads) - Kernel-Based Virtual Machine
+* [Ubuntu VNC](https://web.archive.org/web/20230729065457/https://cdn.discordapp.com/attachments/787671932957884416/787672107848302612/guicolab.ipynb) - Free Ubuntu VNC
+* [OSX-KVM](https://github.com/kholia/OSX-KVM), [OneClick-macOS-Simple-KVM](https://github.com/notAperson535/OneClick-macOS-Simple-KVM) or [macOS-Simple-KVM](https://github.com/foxlet/macOS-Simple-KVM) - macOS Virtual
+* [kmon](https://kmon.cli.rs/) - Kernel Manager and Activity Monitor
+* [Kernel Map](https://makelinux.github.io/kernel/map/) - Interactive Linux Kernel Map
+* [UbuntuCleaner](https://github.com/gerardpuig/ubuntu-cleaner) - Easily clean Ubuntu(-based) Systems
+* [TimeShift](https://github.com/linuxmint/timeshift) - System Restore / Backup
+* [SystemRescue](https://www.system-rescue.org/) or [Super Grub2 Disk](https://www.supergrubdisk.org/super-grub2-disk/) - Bootable System Rescue Toolkits
+* [sbupdate](https://github.com/andreyv/sbupdate) - Generate & Sign kernel images for UEFI Secure Boot Arch Linux
+* [coreboot](https://coreboot.org/) or [Libreboot](https://libreboot.org/) - Replace Proprietary BIOS/UEFI Firmware 
+* [Hardcode Tray](https://github.com/bilelmoussaoui/Hardcode-Tray) - Hardcoded Tray Icon Fix
+* [open-gpu-kernel-modules](https://github.com/NVIDIA/open-gpu-kernel-modules) - NVIDIA Linux Open GPU Kernel Module
+* [nosystemd](https://nosystemd.org/) - Alternatives to Systemd
+
+***
+
 ## ▷ Raspberry Pi
 
 * [Pinn](https://github.com/procount/pinn) - Raspberry Pi OS Installer
@@ -33,6 +96,24 @@
 * [PiVPN](https://pivpn.io/) - Raspberry Pi VPN / [GitHub](https://github.com/pivpn/pivpn)
 * [raspberrypiwireguard](https://github.com/adrianmihalko/raspberrypiwireguard) - Install WireGuard on Raspberry Pi
 * [CaribouLite](https://github.com/cariboulabs/cariboulite) - Raspberry Pi Tx/Rx 6GHz SDR
+
+***
+
+## ► Window Managers
+
+* **Note** - Most Window Managers have a steep learning curve. Customization (or "ricing") is a requirement. [See below](https://old.reddit.com/r/FREEMEDIAHECKYEAH/wiki/linux#wiki_.25B7_customization) for some resources.
+
+***
+
+* 🌐 **[Window Manager Index](https://wiki.archlinux.org/title/Window_manager)** - List of Window Managers
+* 🌐 **[Wayland Compositor Index](https://wiki.archlinux.org/title/Wayland#Compositors)** - List of Wayland Compositors
+* ⭐ **[awesomewm](https://github.com/awesomeWM/awesome)** - Window Manager / [Arch Wiki](https://wiki.archlinux.org/title/Awesome)
+* ⭐ **[Hyprland](https://hyprland.org/)** -  Wayland Compositor / [Arch Wiki](https://wiki.archlinux.org/title/Hyprland)
+* [dwm](https://dwm.suckless.org) - Window Manager / [Arch Wiki](https://wiki.archlinux.org/title/Dwm)
+* [qtile](https://qtile.org/) - Window Manager / [Arch Wiki](https://wiki.archlinux.org/title/Qtile)
+* [xmonad](https://xmonad.org/) - Window Manager / [Arch Wiki](https://wiki.archlinux.org/title/Xmonad)
+* [bspwm](https://github.com/baskerville/bspwm) - Tiling Window Manager / [Binds](https://github.com/baskerville/sxhkd) / [Arch Wiki](https://wiki.archlinux.org/title/Bspwm)
+* [Sway](https://github.com/swaywm/sway) or [SwayFx](https://github.com/WillPower3309/swayfx)-  i3-compatible Wayland Compositor  / [Arch Wiki](https://wiki.archlinux.org/title/Sway)
 
 ***
 
@@ -49,7 +130,6 @@
 * [nativefier_tauri](https://github.com/hamza72x/web2app) - Turn Webpages into Desktop Apps
 * [Autokey](https://github.com/autokey/autokey) - Linux Automation Utility
 * [Touchégg](https://github.com/JoseExposito/touchegg) - Multi-Touch Gesture Recognizer
-* [Enlightment](https://www.enlightenment.org/), [PaperWM](https://github.com/paperwm/PaperWM), [worm](https://github.com/codic12/worm), [dwm](https://dwm.suckless.org/), [qtile](https://qtile.org/), [xmonad](https://xmonad.org/), [zentile](https://github.com/blrsn/zentile) or [bspwm](https://github.com/baskerville/bspwm) - Window Managers / [Sub](https://www.reddit.com/r/bspwm/) / [Binds](https://github.com/baskerville/sxhkd)
 * [Material Shell](https://material-shell.com/) or [Forge](https://github.com/forge-ext/forge) - GNOME Tiling Extension
 * [Bismuth](https://bismuth-forge.github.io/bismuth/) - KDE Tiling Extension / [GitHub](https://github.com/Bismuth-Forge/bismuth)
 * [Ghostwriter](https://ghostwriter.kde.org/) or [Remarkable](https://remarkableapp.github.io/) - Markdown Editor
@@ -72,6 +152,7 @@
 * [Timestrap](https://timestrap.bythewood.me/) or [Mindfulness at the Computer](https://mindfulness-at-the-computer.gitlab.io/) - Productivity Managers
 * [SafeEyes](https://slgobinath.github.io/SafeEyes/) - Break Reminders
 * [Dijo](https://github.com/NerdyPepper/dijo) - Activity Tracker
+* [Railway](https://flathub.org/apps/de.schmidhuberj.DieBahn) - Travel Info Manager
 * [Komikku](https://valos.gitlab.io/Komikku/), [Tachidesk-VaadinUI](https://github.com/Suwayomi/Tachidesk-VaadinUI) or [Manga Reader](https://flathub.org/apps/details/com.georgefb.mangareader) - Manga Readers
 * [dunst](https://dunst-project.org/) - Customizable Notification Daemon / [GitHub](https://github.com/dunst-project/dunst)
 * [A2LN](https://github.com/patri9ck/a2ln-app) - Display Android Notifications on Linux
@@ -95,7 +176,7 @@
 * [Flatpak](https://flatpak.org/) or [Flathub](https://flathub.org/) - Flatpak App Repositories
 * [SnapCraft](https://snapcraft.io/store) - Snap Repository
 * [GearLever](https://flathub.org/apps/it.mijorus.gearlever) or [AppImageLauncher](https://github.com/TheAssassin/AppImageLauncher) - Appimage Managers
-* [NixOS](https://nixos.org/) / [Manager](https://github.com/nix-community/home-manager), [AppImagePool](https://github.com/prateekmedia/appimagepool), [Zap](https://github.com/srevinsaju/zap), [AM-Application-Manager](https://github.com/ivan-hc/AM-Application-Manager) or [Homebrew](https://brew.sh/) - Package Managers
+* [NixOS](https://nixos.org/) / [Manager](https://github.com/nix-community/home-manager), [AppImagePool](https://github.com/prateekmedia/appimagepool), [Zap](https://github.com/srevinsaju/zap), [pkgx](https://pkgx.sh/), [AM-Application-Manager](https://github.com/ivan-hc/AM-Application-Manager) or [Homebrew](https://brew.sh/) - Package Managers
 * [cheat.sh](http://cheat.sh/) - App Repos
 * [AppImageHub](https://www.appimagehub.com/), [AppImages](https://appimage.github.io/) or [Get AppImage](https://g.srev.in/get-appimage/) - Download Appimages
 * [yay](https://github.com/Jguer/yay), [paru](https://github.com/morganamilo/paru) or [aura](https://github.com/fosskers/aura) - Arch User Repository Helpers
@@ -182,7 +263,7 @@ Linux Gaming Guide
 * ⭐ **[Kapital Sin](https://www.kapitalsin.com/forum/index.php?board=4.0)** - Linux Games / Use [Translator](https://github.com/FilipePS/Traduzir-paginas-web#install)
 * ⭐ **[Torrminatorr](https://forum.torrminatorr.com/)** - Linux Games
 * ⭐ **[johncena141](https://1337x.to/user/johncena141/)** - Linux Games / [Support](https://gitlab.com/jc141x/portal)
-* [GameHub](https://tkashkin.github.io/projects/gamehub/), [UnderTaker141](https://github.com/AbdelrhmanNile/UnderTaker141) or [Steal](https://github.com/AbdelrhmanNile/steal) - Game Managers
+* [GameHub](https://tkashkin.github.io/projects/gamehub/), [Gnome Games](https://wiki.gnome.org/Apps/Games), [UnderTaker141](https://github.com/AbdelrhmanNile/UnderTaker141) or [Steal](https://github.com/AbdelrhmanNile/steal) - Game Libraries / Launchers
 * [RuTracker](https://rutracker.org/forum/viewforum.php?f=899) - Linux Games / [Translator](https://github.com/FilipePS/Traduzir-paginas-web#install) / [Wiki](http://rutracker.wiki/) / [Rules](https://rutracker.org/forum/viewtopic.php?t=1045)
 * [winesapOS](https://github.com/LukeShortCloud/winesapOS) - Play Games on Storage Devices 
 * [Gamebuntu](https://discourse.ubuntu.com/t/gamebuntu/25544/13) - Setup Gaming Environment on Ubuntu / [GitLab](https://gitlab.com/rswat09/gamebuntu)
@@ -204,8 +285,7 @@ Linux Gaming Guide
 * [Gamemode](https://github.com/FeralInteractive/gamemode) - Linux System Optimizer
 * [LibreGaming](https://github.com/Ahmed-Al-Balochi/LibreGaming) - Linux Game Package Downloader
 * [mcpelauncher](https://github.com/minecraft-linux/mcpelauncher-manifest) - Minecraft Android Bedrock Edition Launcher for Linux
-* [VinegarHQ](https://vinegarhq.org/) - Bootstrapper for Roblox Studio
-* [Bloxstrap](https://discord.com/invite/nKjV3mGq6R) - Roblox Launcher
+* [VinegarHQ](https://vinegarhq.org/) - Bootstrapper for Roblox / [Studio Only](https://vinegarhq.org/Home/rol_faq.html) 
 * [Anime Game Launcher](https://github.com/an-anime-team/an-anime-game-launcher) / [Discord](https://discord.gg/ck37X6UWBp) - Genshin Impact Launcher
 * [among-sus](https://git.sr.ht/~martijnbraam/among-sus) - Play Among Us in your Terminal (Recreation)
 * [Gameboy.live](https://github.com/HFO4/gameboy.live) - Terminal Game Boy Emulator
@@ -245,56 +325,6 @@ Linux Gaming Guide
 * [BhanUpratpys](https://github.com/bhanupratapys/dnswarden) - DNS Adblocking
 * [Firejail](https://firejail.wordpress.com/) or [Bubblewrap](https://github.com/containers/bubblewrap) - Sandboxing tools
 * [GoogleTeller](https://github.com/berthubert/googerteller) - Google Tracking Notifications
-
-***
-
-## ▷ Linux System
-
-* 🌐 **[Awesome Gnome](https://github.com/Kazhnuz/awesome-gnome)** - GNOME Resources
-* ⭐ **[Linux.Chat](https://discord.gg/linuxchat)**, [Linux x Technology](https://linuxdiscord.com/), [Ezlinux](https://ezlinux.net/) or [Discord-Linux](https://discord.gg/discord-linux) - Linux Discussion / Forums
-* ⭐ **[InstallGentoo](https://wiki.installgentoo.com/)**, [HowToLinux](https://github.com/themagicalmammal/howtolinux), [HowtoForge](https://www.howtoforge.com/), [Sindresorhus Guides](https://github.com/sindresorhus/guides), [Erik Dubois](https://www.youtube.com/c/ErikDubois), [LinuxJourney](https://linuxjourney.com/), [Mayfrost Guides](https://github.com/mayfrost/guides) or [Mental Outlaw](https://www.youtube.com/channel/UC7YOGHUfC1Tb6E4pudI9STA) - Linux Guides / Tutorials
-* ⭐ **[Archwiki](https://wiki.archlinux.org/)** - Arch Linux Wiki / [Manuals](https://man.archlinux.org/) / [TUI](https://codeberg.org/theooo/mantra.py)
-* ⭐ **[Ventoy](https://github.com/ventoy/Ventoy)** - Create Bootable USB Linux Drives
-* ⭐ **[Btop](https://github.com/aristocratos/btop)**, **[pfetch](https://github.com/dylanaraps/pfetch)**, **[MangoHud](https://github.com/flightlessmango/MangoHud)**, [CPU-X](https://github.com/TheTumultuousUnicornOfDarkness/CPU-X), [vtop](https://github.com/MrRio/vtop), [neofetch](https://github.com/dylanaraps/neofetch) / [Themes](https://github.com/chick2d/neofetch-themes) or [LM Sensors](https://github.com/lm-sensors/lm-sensors) or [s-tui](https://github.com/amanusk/s-tui) - System Info / Resource Monitors
-* [SysmonForLinux](https://github.com/Sysinternals/SysmonForLinux) - Monitor / Log System Activity
-* [Nanobench](https://github.com/andreas-abel/nanoBench) - CPU Microbenchmark / [Documentation](https://nanobench.ankerl.com/)
-* [ScanMem](https://github.com/scanmem/scanmem) - Memory Scanner / Debugger
-* [Linux-dash](https://github.com/tariqbuilds/linux-dash) - Web-based System Dashboard
-* [pacwall](https://github.com/Kharacternyk/pacwall) - Live Wallpaper Dependency Graph / Package Status
-* [keyd](https://github.com/rvaiya/keyd) or [xremap](https://github.com/k0kubun/xremap) - Keyboard Remapping
-* [auto-cpufreq](https://github.com/AdnanHodzic/auto-cpufreq) - CPU Speed & Power Optimization Automation
-* [node-startup](https://github.com/ralyodio/node-startup) - Startup Script
-* [die.net](https://linux.die.net/) - Linux Documentation
-* [winapps](https://github.com/Fmstrat/winapps) - Run Windows Apps on Linux
-* [WoeUSB](https://github.com/WoeUSB/WoeUSB) or [Windows2USB](https://github.com/ValdikSS/windows2usb) - Create Bootable USB Windows Drives
-* [NetBoot](https://netboot.xyz/) - Distro Installer
-* [CloverBootloader](https://github.com/CloverHackyColor/CloverBootloader/) - Windows, Mac & Linux Bootloader / [Config](https://mackie100projects.altervista.org/)
-* [zfsBootMenu](https://docs.zfsbootmenu.org/) - ZFS Bootloader
-* [Linux Heads](https://osresearch.net/) - Minimal CoreBoot / [GitHub](https://github.com/osresearch/heads)
-* [GParted](https://gparted.org/) - Partition Manager
-* [ArchTitus](https://github.com/ChrisTitusTech/ArchTitus), [archinstall](https://github.com/archlinux/archinstall) or [Anarchy](https://anarchyinstaller.gitlab.io/) - Arch Linux Installer
-* [Pop!_OS Shell](https://github.com/pop-os/shell) - Pop-Shell for GNOME
-* [OneClickDesktop](https://github.com/Har-Kuun/OneClickDesktop) - One-Click Remote Desktop
-* [InstantBox](https://github.com/instantbox/instantbox) - Temporary Linux Systems
-* [CoreELEC](https://github.com/CoreELEC/CoreELEC) or [LibreELEC](https://libreelec.tv/) - Kodi-Based Operating System
-* [WSL](https://learn.microsoft.com/en-us/windows/wsl/) or [Tunic](https://github.com/mikeslattery/tunic) - Run Linux on Windows / [Resources](https://github.com/sirredbeard/Awesome-WSL) / [Startup Launcher](https://github.com/nullpo-head/wsl-distrod) / [Wayland / X Server](https://github.com/microsoft/wslg)
-* [DistroSea](https://distrosea.com/) or [JSLinux](https://bellard.org/jslinux/) - Linux Browser Emulators
-* [Vivek9Patel](https://vivek9patel.github.io/) - Run Ubuntu on Browser / [GitHub](https://github.com/vivek9patel/vivek9patel.github.io)
-* [Boxes](https://wiki.gnome.org/Apps/Boxes) - Virtual Machine Manager
-* [Linux-KVM](https://www.linux-kvm.org/page/Downloads) - Kernel-Based Virtual Machine
-* [Ubuntu VNC](https://web.archive.org/web/20230729065457/https://cdn.discordapp.com/attachments/787671932957884416/787672107848302612/guicolab.ipynb) - Free Ubuntu VNC
-* [OSX-KVM](https://github.com/kholia/OSX-KVM), [OneClick-macOS-Simple-KVM](https://github.com/notAperson535/OneClick-macOS-Simple-KVM) or [macOS-Simple-KVM](https://github.com/foxlet/macOS-Simple-KVM) - macOS Virtual
-* [kmon](https://kmon.cli.rs/) - Kernel Manager and Activity Monitor
-* [Kernel Map](https://makelinux.github.io/kernel/map/) - Interactive Linux Kernel Map
-* [UbuntuCleaner](https://github.com/gerardpuig/ubuntu-cleaner) - Easily clean Ubuntu(-based) Systems
-* [TimeShift](https://github.com/linuxmint/timeshift) - System Restore / Backup
-* [SystemRescue](https://www.system-rescue.org/) or [Super Grub2 Disk](https://www.supergrubdisk.org/super-grub2-disk/) - Bootable System Rescue Toolkits
-* [Boot-Repair](https://help.ubuntu.com/community/Boot-Repair) - Grub Repair Guide for Linux Systems
-* [sbupdate](https://github.com/andreyv/sbupdate) - Generate & Sign kernel images for UEFI Secure Boot Arch Linux
-* [coreboot](https://coreboot.org/) or [Libreboot](https://libreboot.org/) - Replace Proprietary BIOS/UEFI Firmware 
-* [Hardcode Tray](https://github.com/bilelmoussaoui/Hardcode-Tray) - Hardcoded Tray Icon Fix
-* [open-gpu-kernel-modules](https://github.com/NVIDIA/open-gpu-kernel-modules) - NVIDIA Linux Open GPU Kernel Module
-* [nosystemd](https://nosystemd.org/) - Alternatives to Systemd
 
 ***
 
@@ -413,14 +443,18 @@ Linux Gaming Guide
 
 ***
 
-## ▷ Customization
+## ▷ Ricing / Customization
 
 * 🌐 **[Ricepedia](https://rizonrice.club/Main_Page)** - Linux Ricing Tools
 * ↪️ **[Linux Themes](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_linux_themes)** - Themes for Linux
+* ⭐ **[Elkowar's Wacky Widgets](https://github.com/elkowar/eww)** or **[Aylur's GTK Shell](https://github.com/Aylur/ags)** - Widgeting Systems
+* [end-4's Hyprland Dots](https://end-4.github.io/dots-hyprland-wiki/en/) - Simple Hyprland Config
+* [Nam's Ricing Guide](https://nam.is-a.dev/blog/ricing/) - Ricing Guide
+* [Gradience](https://github.com/GradienceTeam/Gradience) - Customize GNOME's Adwaita
 * [wpgtk](https://deviantfero.github.io/wpgtk) - Fully Customizable Unix Color Schemer
 * [Akira](https://github.com/akiraux/Akira) - UI/UX Customization
 * [Kvantum](https://github.com/tsujan/Kvantum) - Linux QT / KDE Theme Engine
-* [Polybar](https://github.com/polybar/polybar) or [lemonbar](https://github.com/LemonBoy/bar) - Customizable Status Bar
+* [Polybar (X11)](https://github.com/polybar/polybar) or [Waybar (Wayland)](https://github.com/Alexays/Waybar) - Customizable Status Bars
 * [MacBuntu Transformation Pack](https://www.noobslab.com/2018/08/macbuntu-1804-transformation-pack-ready.html), [2](https://www.noobslab.com/2017/06/macbuntu-transformation-pack-ready-for.html) - Mac Theme
 * [Windows-10](https://b00merang.weebly.com/windows-10.html) - Windows 10 Theme
 * [La Capitaine](https://github.com/keeferrourke/la-capitaine-icon-theme), [Moka](https://snwh.org/moka), [Numix](https://github.com/numixproject/numix-icon-theme) or [Papirus](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) - Linux Icon Themes
@@ -525,13 +559,12 @@ Linux Gaming Guide
 * [Sloth](https://github.com/sveinbjornt/Sloth) - Process Manager
 * [pongoOS](https://github.com/checkra1n/pongoOS) - Mac Pre-Boot Executor
 * [Yabai](https://github.com/koekeishiya/yabai), [Amethyst](https://github.com/ianyh/Amethyst), [1Piece](https://app1piece.com/), [Spaces](https://spacesformac.xyz/), [AeroSpace](https://github.com/nikitabobko/AeroSpace), [Phoenix](https://github.com/kasper/phoenix) or [Rectangle](https://rectangleapp.com/) - Window Managers
+* [Later](https://getlater.app/) - Restore App Sessions
 * [AlDente](https://apphousekitchen.com/) - Charging Manager
 * [Unlocker](https://github.com/paolo-projects/unlocker) - VMware Unlocker
 * [USBMap](https://github.com/corpnewt/USBMap) - Map MacOS USB Ports
-* [MacVim](https://macvim.org/), [CodeEdit](https://www.codeedit.app/) or [AuroraEditor](https://auroraeditor.com/)
-* [PowerShell](https://github.com/powershell/powershell) - PowerShell
+* [MacVim](https://macvim.org/), [CodeEdit](https://www.codeedit.app/) or [AuroraEditor](https://auroraeditor.com/) - Code Editors
 * [iTerm2](https://iterm2.com/) - Replacements for Terminal
-* [asciinema](https://asciinema.org/) - Terminal Recorder
 * [Fig](https://fig.io/) - IDE-Style Autocomplete for Terminal
 * [BetterDisplay](https://github.com/waydabber/BetterDisplay) - Display Controller
 * [DisplayPlacer](https://github.com/jakehilborn/displayplacer) - Dual Monitor Manager
@@ -600,6 +633,7 @@ Linux Gaming Guide
 * [InsMac](https://insmac.org/)
 * [MacX](https://macx.ws/)
 * [WebCatalog](https://webcatalog.io/)
+* [ThriftMac](https://thriftmac.com/) - Freeware
 
 ***
 

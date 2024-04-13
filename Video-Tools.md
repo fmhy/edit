@@ -8,7 +8,7 @@
 
 * ⭐ **[PixVerse](https://pixverse.ai/)** / [Discord](https://discord.com/invite/MXHErdJHMg) or [Stable Diffusion Videos](https://github.com/nateraw/stable-diffusion-videos) - AI Video Generators
 * ⭐ **[Video2x](https://github.com/k4yt3x/video2x/)** or [Enhancr](https://github.com/mafiosnik777/enhancr) - Video Upscalers
-* ⭐ **[PlayPhrase](https://playphrase.me/)**, [ClipBase](https://clipbase.xyz/), [Filmot](https://filmot.com/) or [Yarn](https://yarn.co/) / [2](https://getyarn.io/) - Internet Clip Quote Search
+* ⭐ **[PlayPhrase](https://playphrase.me/)**,  [clip.cafe](https://clip.cafe/), [ClipBase](https://clipbase.xyz/), [Filmot](https://filmot.com/) or [Yarn](https://yarn.co/) / [2](https://getyarn.io/) - Internet Clip Quote Search
 * [Synthesis Colab](https://github.com/camenduru/text-to-video-synthesis-colab), [text-to-video](https://text-to-video.vercel.app), [Text2Video-Zero](https://github.com/Picsart-AI-Research/Text2Video-Zero), [LensGo](https://lensgo.ai/), [Pika Labs](https://www.pika.art/) or [Damo](https://huggingface.co/spaces/damo-vilab/modelscope-text-to-video-synthesis) - Text to Video AIs
 * [Rollideo](https://rollideo.com/) - Text to Subbed Video
 * [Video Llava](https://replicate.com/nateraw/video-llava) - Video Description AI
@@ -195,7 +195,6 @@
 * [Simple MPV WebUI](https://github.com/open-dynaMIX/simple-mpv-webui) - WebUI Controller
 * [MPV Context Menu](https://gitlab.com/carmanaught/mpvcontextmenu)
 * [MPV Scripts](https://github.com/mpv-player/mpv/wiki/User-Scripts) - Userscripts
-* [MPlug](https://github.com/Nudin/mplug) - Plugin Manager
 * [VideoClip](https://github.com/Ajatt-Tools/videoclip), [2](https://github.com/f0e/mpv-cut) - Clip Tool
 * [MPV WebM](https://github.com/ekisu/mpv-webm) - WebM Tool
 * [Play With MPV](https://greasyfork.org/en/scripts/416271) or [ff2mpv](https://github.com/woodruffw/ff2mpv) - Open Videos with MPV
@@ -296,15 +295,14 @@
 * ⭐ **[Download Helper](https://www.downloadhelper.net/)**, [AddonCrop Downloader](https://addoncrop.com/v25/youtube-downloader/), [Cococut](https://cococut.net/), [FetchV](https://fetchv.net/) or [MPMux](https://mpmux.com/) - Extensions
 * ⭐ **[YT-DLP](https://github.com/yt-dlp/yt-dlp)** - Multi-Site / [Easy Installer](https://github.com/kazukikasama/youtube-dlp-gui-installer), [2](https://github.com/StefanLobbenmeier/youtube-dl-gui)
 * ⭐ **[cobalt](https://cobalt.tools/)** - Multi-Site
-* ⭐ **[9xbuddy](https://9xbuddy.xyz/)**, [2](https://9xbuddy.com/) - Multi-Site
+* ⭐ **[9xbuddy](https://9xbuddy.com/)**, [2](https://9xbuddy.online/) or [3](https://9xbuddy.in/) - Multi-Site
 * ⭐ **[Lux](https://github.com/iawia002/lux)** - Multi-Site
-* [How-to Rip Videos from Amazon](https://web.archive.org/web/20210102125108/https://www.reddit.com/r/Piracy/comments/kmodia/improved_text_video_tutorial_on_how_to_rip_from/)
-* [CD(R)M-Project](https://discord.gg/SYyvPxVyyW) - StreamFab Crack
-* [Hitomi Downloader](https://github.com/KurtBestor/Hitomi-Downloader) - Multi-Site
-* [ytDownloader](https://ytdn.netlify.app/) - Multi-Site
+* [VideoHelp DDL](https://forum.videohelp.com/forums/48-Video-Streaming-Downloading) - Video Downloading Forums
+* [CD(R)M-Project](https://discord.gg/SYyvPxVyyW) - StreamFab Downloader
 * [TubeOffline](https://www.tubeoffline.com/) - Multi-Site
 * [VideoFK](https://www.videofk.com/) - Multi-Site
 * [you-get](https://you-get.org/) - Multi-Site
+* [Hitomi Downloader](https://github.com/KurtBestor/Hitomi-Downloader) - Multi-Site
 * [Yout](https://yout.com/) - Multi-Site - Multi-Site
 * [pastedownload](https://pastedownload.com/)
 * [weibomiaopai](https://weibomiaopai.com/download-video-parser.php) - Multi-Site
@@ -408,8 +406,8 @@
 * [ShareAE](https://www.shareae.com/) - After Effects
 * [HunterAE](https://hunterae.com/) - After Effects
 * [AERiver](https://aeriver.com/) - After Effects
-* [Intro HD](https://intro-hd.net/) - After Effects
 * [AEDownloadPro](https://aedownloadpro.com/) - After Effects
+* [Intro HD](https://intro-hd.net/) - After Effects
 * [Adobe After Effects Collection](https://rentry.co/FMHYBase64#adobe-after-effects-collection) - After Effects
 
 ***

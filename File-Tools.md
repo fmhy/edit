@@ -9,9 +9,10 @@
 * ⭐ **[Fileinfo](https://fileinfo.com/)**, [Filext](https://filext.com/) or [OpenMyFiles](https://www.openmyfiles.com/) - File Extension Libraries
 * ⭐ **[czkawka](https://github.com/qarmin/czkawka)** or [dupeGuru](https://dupeguru.voltaicideas.net/) - Duplicate File Finders
 * [horsicq](https://horsicq.github.io/) - File Tools / [GitHub](https://github.com/horsicq/)
-* [Beyond Compare](https://www.scootersoftware.com/) - File / Directory Comparison Tool / [Crack](https://rentry.co/FMHYBase64#beyond-compare-crack)
+* [Beyond Compare](https://www.scootersoftware.com/) - File / Directory Comparison Tool / [Pro](https://rentry.co/FMHYBase64#beyond-compare-crack)
 * [UnLock IT](https://emcosoftware.com/unlock-it/download), [Lock Hunter](https://lockhunter.com/) or [FileExile](https://sourceforge.net/projects/filexile/) - File Unlocker / Deleter
 * [File Juggler](https://www.filejuggler.com/) - Organize Files Automatically
+* [Magika](https://github.com/google/magika) - AI File Content Type Detector
 * [Phockup](https://github.com/ivandokov/phockup) - Organize Photo / Video Files by Date
 * [TMSU](https://github.com/oniony/TMSU) or [Tagging for Windows](https://tagging.connectpaste.com/) - Tag-Based Filesystem
 * [HTTPDirfs](https://github.com/fangfufu/httpdirfs) - HTTP File System
@@ -39,9 +40,10 @@
 ## ▷ Download Managers
 
 * ⭐ **[JDownloader](https://jdownloader.org/jdownloader2)** - Download Manager / [Debloat](https://rentry.org/jdownloader2) / [Captcha Solver](https://github.com/cracker0dks/CaptchaSolver) / [Dark Theme](https://redd.it/q3xrgj) / [Dracula Theme](https://draculatheme.com/jdownloader2)
-* ⭐ **[IDM](https://www.internetdownloadmanager.com/)** - Download Manager / [Activation](https://github.com/WindowsAddict/IDM-Activation-Script)
+* ⭐ **[IDM](https://rentry.co/FMHYBase64#idm)** - Download Manager
 * ⭐ **[XDM](https://xtremedownloadmanager.com/)** - Download Manager / [GitHub](https://github.com/subhra74/xdm) 
 * ⭐ **[Motrix](https://www.motrix.app/)** - Download Manager / [Web Extensions](https://github.com/gautamkrishnar/motrix-webextension/) / [GitHub](https://github.com/agalwood/Motrix)
+* ⭐ **[GoSpeed](https://github.com/GopeedLab/gopeed)** - Download Manager
 * [pyLoad](https://pyload.net/) - Lightweight Download Manager
 * [File Centipede](https://filecxx.com/) - Upload / Download Manager
 * [DownThemAll](https://www.downthemall.org/) or [Turbo Download Manager](https://add0n.com/turbo-download-manager-v2.html) / [GitHub](https://github.com/inbasic/turbo-download-manager-v2/) - Download Management Extensions
@@ -54,6 +56,7 @@
 
 ## ▷ File Archivers
 
+* 🌐 **[SuperCompression](https://supercompression.org/)** - File Compression Resources
 * ⭐ **[7-Zip](https://www.7-zip.org/)** / [Colab](https://github.com/dropcreations/7zip-in-Google-Colab) / [Dark Mode](https://github.com/huanrenfeng/7zipDarkmode) / [Benchmarks](https://s1.hoffart.de/7zip-bench/) / [Additional Codecs](https://github.com/mcmilk/7-Zip-zstd) - File Archiver
 * ⭐ **[NanaZip](https://github.com/M2Team/NanaZip)** - File Archiver
 * ⭐ **[PeaZip](https://peazip.github.io/)** - Cross Platform File Archiver
@@ -91,7 +94,7 @@
 * [onlineconvertfree](https://onlineconvertfree.com/) - File Converter / 100 MB Limit
 * [MiConv](https://miconv.com/) - File Converter / 75 MB Limit
 * [Converter 365](https://www.converter365.com/) - File Converter / 50 MB Limit
-* [ACConvert](https://www.aconvert.com/) - File Converter / 40 MB Limit
+* [Aconvert](https://www.aconvert.com/) - File Converter / 40 MB Limit
 * [PPT Online](https://www.aspose.app/) - File Converter / 35 MB Limit
 * [LetsConvert](https://letsconvert.io/) - File Converter / 250 MB Limit
 * [Online Convert](https://www.online-convert.com/) - File Converter
@@ -111,9 +114,9 @@
 
 ## ▷ File Explorers
 
+* ⭐**[Files](https://files.community/)** - Customizable Windows File Manager
 * [Xplorer](https://xplorer.space/) / [GitHub](https://github.com/kimlimjustin/xplorer) / [Discord](https://discord.com/invite/MHGtSWvfUS), [DoubleCMD](https://github.com/doublecmd/doublecmd) or [muCommander](https://www.mucommander.com/) - Cross Platform File Explorers
-* [Files](https://files.community/) - Customizable Windows File Manager
-* [Sigma](https://github.com/aleksey-hoffman/sigma-file-manager) - Modern File Manager for Windows / Linux
+* [Sigma](https://sigma-file-manager.vercel.app) - Modern File Manager for Windows / Linux / [GitHub](https://github.com/aleksey-hoffman/sigma-file-manager)
 * [ChromaFiler](https://chroma.zone/chromafiler/) - Column-based Windows File Manager
 * [ExplorerPatcher](https://github.com/valinet/ExplorerPatcher) - Improve Windows Explorer
 * [WinFile](https://github.com/microsoft/winfile) - Original Windows File Explorer
@@ -121,7 +124,7 @@
 * [Explorer++](https://explorerplusplus.com/) - Lightweight Windows File Manager
 * [Far Manager](https://www.farmanager.com/) - Windows File / Archive Manager
 * [Total Commander](https://www.ghisler.com/) - Shareware Windows File Manager
-* [Organize](https://github.com/tfeldmann/organize) - Automated File Manager
+* [Organize](http://organize.readthedocs.io) - Automated File Manager
 * [TrayDir](https://github.com/SamuelSVD/TrayDir) - System Tray File Manager
 * [TablacusExplorer](https://tablacus.github.io/explorer_en.html), [QTTabBar](https://github.com/indiff/qttabbar), [Multi Commander](https://multicommander.com/) or [ExplorerEx](https://github.com/DearVa/ExplorerEx) - Tab File Managers
 * [Vifm](https://vifm.info/) - Vim-based File Manager
@@ -170,7 +173,7 @@
 * [allwaysync](https://allwaysync.com/) - File Sync
 * [Resilio](https://www.resilio.com/individuals/) - File Sync
 * [SmartFTP](https://www.smartftp.com/) - File Sync
-* [rsync](https://github.com/WayneD/rsync) - File Sync
+* [rsync](https://rsync.samba.org) - File Sync / [GitHub](https://github.com/WayneD/rsync)
 * [Unison](https://github.com/bcpierce00/unison) - File Sync
 * [FolderClone](https://www.folderclone.com/) - Clone / Backup Folders
 * [BackupPC](https://backuppc.github.io/backuppc/) - File Backup
@@ -237,7 +240,7 @@
 ## ▷ PDF Tools
 
 * ⭐ **[Sejda](https://www.sejda.com/)**, [ILovePDF](https://www.ilovepdf.com/), [DigiPDF](https://digipdf.app/?lang=en_US), [PDF2Go](https://www.pdf2go.com/) or [SimplePDF](https://simplepdf.eu/) - Online PDF Toolkits
-* ⭐ **[PDFGear](https://www.pdfgear.com/)**, [xPDFReader](https://www.xpdfreader.com/), [PDF Arranger](https://github.com/pdfarranger/pdfarranger), [PrivatePDF](https://github.com/photown/private-pdf), [PDFBox](https://pdfbox.apache.org/) or [OpenPDF](https://github.com/LibrePDF/OpenPDF) - PDF Editors / Toolkits
+* ⭐ **[PDFGear](https://www.pdfgear.com/)**, [xPDFReader](https://www.xpdfreader.com/), [PDF Arranger](https://github.com/pdfarranger/pdfarranger), [PrivatePDF](https://photown.github.io/private-pdf/), [PDFBox](https://pdfbox.apache.org/) or [OpenPDF](https://github.com/LibrePDF/OpenPDF) - PDF Editors / Toolkits
 * [PDFGrep](https://pdfgrep.org/) - PDF Text Search
 * [View-only PDF](https://rentry.co/cm4b7) - Download View-Only PDF on GDrive
 * [online2pdf](https://online2pdf.com/) or [2PDFConverter](https://www.2pdfconverter.com/) - Convert Files to PDF
@@ -269,7 +272,7 @@
 
 # ► File Hosts
 
-**Note** - Size is per file and time is after the last time someone downloaded that file unless specified.
+* **Note** - Size is per file and time is after the last time someone downloaded that file unless specified.
   
 ***
 
@@ -297,6 +300,7 @@
 * [fshare](https://www.fshare.vn/) - 10GB / 5 days
 * [megaup](https://megaup.net/) - 5GB / 60 days
 * [ufile](https://ufile.io/) - 5GB / 30 days
+* [Lufi](https://upload.disroot.org/) - 5GB / 30 Days
 * [sendbig](https://www.sendbig.com/) - 5GB / 7 days
 * [Smash](https://fromsmash.com/) - 2GB / 7Days
 * [alfafile](https://www.alfafile.net/) - 5GB / 30 days / Signup Required
@@ -336,7 +340,7 @@
 * ⭐ **[Tailscale](https://tailscale.com/)**
 * ⭐ **[LocalSend](https://localsend.org/)** - Phone / Desktop Transfer / [Platforms](https://i.ibb.co/nsfMf04/8010dd28ed2d.png)
 * [Warpinator](https://github.com/linuxmint/warpinator) - Phone / Desktop Transfer
-* [QRServ](https://github.com/uintdev/qrserv) - Phone / Desktop Transfer
+* [QRServ](https://play.google.com/store/apps/details?id=dev.uint.qrserv) - Phone / Desktop Transfer / [GitHub](https://github.com/uintdev/qrserv)
 * [pairdrop](https://pairdrop.net/)
 * [sharedrop](https://www.sharedrop.io/)
 * [new.space](https://new.space/)
@@ -348,7 +352,7 @@
 * [OwnCloud](https://owncloud.com/)
 * [WinSCP](https://winscp.net/eng/index.php)
 * [FileBrowser](https://filebrowser.org/)
-* [croc](https://github.com/howeyc/crocgui)
+* [croc](https://github.com/schollz/croc) / [GUI](https://github.com/howeyc/crocgui)
 * [landrop](https://landrop.app/)
 * [Surge](https://getsurge.io/)
 * [saladroom](https://saladroom.net/)
@@ -413,7 +417,7 @@
 * [MrOwl](https://www.mrowl.com/) - 10GB Free / ~$16.67 for 1TB
 * [storj](https://www.storj.io/) - 25GB Free / ~$4 for 1TB
 * [Blomp](https://www.blomp.com/) - 20GB Free / ~$3 for 2TB
-* [xpipe](https://github.com/xpipe-io/xpipe) - Remote File Manager
+* [xpipe](https://xpipe.io) - Remote File Manager
 * [bookmarkfs](https://github.com/CoolElectronics/bookmarkfs) - Chrome's Profile Sync Cloud Storage
 * [InfiniDrive](https://github.com/nicomda/InfiniDrive) - Amazon Prime Photos Cloud Storage
 * [OneDriveFly](https://github.com/Tai7sy/OneDriveFly) or [OneDrive Vercel Index](https://ovi.swo.moe/) - OneDrive Indexes
@@ -424,7 +428,7 @@
 * [CarotDAV](http://rei.to/carotdav_en.html) - Cloud Storage Manager
 * [MultCloud](https://www.multcloud.com/) - Cloud Storage Manager
 * [MSP360](https://www.msp360.com/explorer.aspx) - Cloud Storage Manager
-* [AList](https://github.com/alist-org/alist) - Cloud Storage Manager
+* [AList](https://alist.nn.ci) - Cloud Storage Manager
 * [SeaFile](https://www.seafile.com/en/home/) or [FileStash](https://www.filestash.app/) - Self-Hosted Cloud Storage / [Fork](https://github.com/ZizzyDizzyMC/linx-server/)
 
 ***

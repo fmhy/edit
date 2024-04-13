@@ -20,7 +20,7 @@
 
 * ⭐ **[Microsoft Copilot](https://copilot.microsoft.com)** - GPT-4/3.5 Powered Search / [SydneyQT Jailbreak](https://github.com/juzeon/SydneyQt)
 * ⭐ **[wrtn](https://wrtn.ai/)** - GPT-4 Chatbot / [Android](https://play.google.com/store/apps/details?id=com.wrtn.app) / [iOS](https://apps.apple.com/us/app/%EB%A4%BC%ED%8A%BC-%EB%AA%A8%EB%91%90%EB%A5%BC-%EC%9C%84%ED%95%9C-ai-%ED%8F%AC%ED%84%B8/id6448556170) (ask for english)
-* ⭐ **[Gemini](https://gemini.google.com/)** or [Gemma](https://github.com/google/gemma.cpp) - Google's Chatbot
+* ⭐ **[Gemini](https://gemini.google.com/)** or [Gemma](https://github.com/google/gemma.cpp), [2](https://ai.google.dev/gemma/) - Google's Chatbot
 * ⭐ **[Claude](https://claude.ai/)** - Anthropic's Chatbot
 * ⭐ **[Perplexity](https://www.perplexity.ai/)** - GPT-3.5 Powered Search / [Open Source Models](https://labs.perplexity.ai/)
 * ⭐ **[LMSYS Chat](https://chat.lmsys.org/)** - Chat and Compare Multiple Chatbots
@@ -55,7 +55,8 @@
 * ⭐ **[Oobabooga Text Generation WebUI](https://github.com/oobabooga/text-generation-webui)** - Self-Host Models / [Colab](https://colab.research.google.com/github/pcrii/Philo-Colab-Collection/blob/main/4bit_TextGen_Gdrive.ipynb)
 * ⭐ **[Aphrodite Engine](https://github.com/PygmalionAI/aphrodite-engine)** - Serve LLMs at Scale with Kobold & OpenAI APIs / [Colab](https://colab.research.google.com/github/AlpinDale/misc-scripts/blob/main/Aphrodite.ipynb)
 * [LLaVA](https://llava.hliu.cc/) - Chatbot with Image Support
-* [Petals](https://petals.dev/) - Self-Hosted 
+* [Petals](https://petals.dev/) - Self-Hosted
+* [Mistral](https://chat.mistral.ai/chat) - Self-Hosted
 * [Ollama](https://ollama.ai/) - Self-Hosted
 * [LMStudio](https://lmstudio.ai/) - Self-Hosted
 * [GPT4All](https://gpt4all.io/) - Self-Hosted / [Github](https://github.com/nomic-ai/gpt4all) / [Discord](https://discord.com/invite/mGZE39AS3e)
@@ -77,6 +78,7 @@
 * [LLaMA + SillyTavern](https://rentry.org/llama_v2_sillytavern) - LLaMA + SillyTavern Roleplaying Setup Guide
 * [KoboldAI](https://github.com/henk717/KoboldAI) - GUI for Roleplaying Chatbots / [Web App](https://lite.koboldai.net/)
 * [GPT Call](https://gptcall.net/) - Roleplaying Chatbots / [Discord](https://discord.gg/88fQT5Bgfe)
+* [Figgs](https://www.figgs.ai/) - Roleplaying Chatbots
 * [Dreamshow](https://dreamshow.ai/) - Roleplaying Chatbots
 * [Spicychat.ai](https://spicychat.ai/) - Roleplaying Chatbots
 * [Epigon](https://epigon.ai/) - Roleplaying Chatbots
@@ -86,6 +88,35 @@
 * [TavernAI](https://tavernai.net/) - Roleplaying / Adventure Chatbot
 * [Broken Bear](https://www.brokenbear.com/) - Vent to AI Bear
 * [Kajiwoto](https://kajiwoto.ai/), [Miku](https://docs.miku.gg/) / [Discord](https://discord.gg/3XPdpUdGgV) or [Agnai](https://agnai.chat/) - Chatbot Builders
+
+***
+
+## ▷ Coding AIs
+
+* 🌐 **[EvalPlus Leaderboard](https://evalplus.github.io/leaderboard.html)** or [BigCode](https://huggingface.co/spaces/bigcode/bigcode-models-leaderboard) - Coding AI Leaderboards
+* ⭐ **[Pieces](https://pieces.app/) / [Docs](https://docs.pieces.app)** - Multi-LLM Coding AI / GPT4 for Free
+* [Cursor](https://cursor.sh/) - Coding AI
+* [Codeium](https://codeium.com/) - Coding AI
+* [Copilot](https://github.com/features/copilot) - Coding AI / Free Student Plan
+* [tabnine](https://www.tabnine.com/) - Coding AI
+* [ImageCook](https://imgcook.com) / [GitHub](https://github.com/imgcook/imgcook) - Coding AI
+* [CodeWhisperer](https://aws.amazon.com/codewhisperer/) - Coding AI
+* [Telosys](https://www.telosys.org/) - Coding AI
+* [WDTCD?](https://whatdoesthiscodedo.com/) - Coding AI
+* [Sourcery](https://sourcery.ai/) - Coding AI
+* [Devv](https://devv.ai/) - Coding AI
+* [Cody](https://about.sourcegraph.com/cody) - Coding AI
+* [CodiumAI](https://www.codium.ai/) - Coding AI
+* [continue](https://continue.dev/) - Coding AI
+* [Bito AI](https://bito.ai/) - Coding AI
+* [Blackbox](https://www.blackbox.ai/) - Coding AI
+* [CollectivAI](https://chat.collectivai.com/) - Coding AI
+* [Denigma](https://denigma.app/#demo) - Coding AI
+* [Codacy](https://www.codacy.com/) or [AI Code Review](https://ai-code-reviewer.com/) - Code Fixing AIs
+* [v0](https://v0.dev/) - Text to Site Code
+* [AI Code Translator](https://ai-code-translator.vercel.app/), [AI Code Convert](https://aicodeconvert.com/) or [Source Code Converters](https://www.tangiblesoftwaresolutions.com/) - AI Code Converters
+* [GPT Engineer](https://github.com/AntonOsika/gpt-engineer) - AI Code Generator
+* [Gorilla](https://gorilla.cs.berkeley.edu/) - API to Code LLM
 
 ***
 
@@ -153,7 +184,7 @@
 * [AI Tools](https://aitools.fyi/) - AI Directory
 * [FutureTools](https://www.futuretools.io/?pricing-model=free) - AI Directory
 * [ArtificialStudio](https://www.artificialstudio.ai/tools) - Multi-Tool Browser AI
-* [Google Labs](https://labs.google/) - AI Experiments
+* [Google Labs](https://labs.google/) or [AI Test Kitchen](https://aitestkitchen.withgoogle.com/) - Google AI Experiments
 
 ***
 ***
@@ -179,10 +210,6 @@
 ***
 
 ## ▷ [Grammar Check](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools#wiki_.25B7_grammar_check)
-
-***
-
-## ▷ [Coding AIs](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/dev-tools#wiki_.25B7_coding_ais)
 
 ***
 ***
@@ -231,6 +258,7 @@
 * [Pollinations](https://pollinations.ai/) / Unlimited / [Discord](https://discord.com/invite/8HqSRhJVxn)
 * [PicFinder](https://picfinder.ai/) / Unlimited
 * [Perchance](https://perchance.org/ai-text-to-image-generator) / Unlimited
+* [PixArt-alpha](https://huggingface.co/spaces/PixArt-alpha/PixArt-alpha) / Unlimited
 * [GetIMG.ai](https://getimg.ai/) / [Discord](https://discord.com/invite/5KsUXSzVwS) / 100 Monthly
 * [Leonardo.ai](https://app.leonardo.ai/) / 30 Daily
 * [Adobe Firefly](https://firefly.adobe.com/) / 25 Monthly / [Discord](https://discord.com/invite/dJnsV5s8PZ) / Sign-Up Required
@@ -254,7 +282,7 @@
 ## ▷ Local Frontends
 
 * ⭐ **[Stability Matrix](https://lykos.ai/)** / [GitHub](https://github.com/LykosAI/StabilityMatrix)
-* ⭐ **[Automatic1111](https://github.com/AUTOMATIC1111/stable-diffusion-webui)** / [Fork](https://github.com/anapnoe/stable-diffusion-webui-ux), [2](https://github.com/vladmandic/automatic) / [Collab](https://colab.research.google.com/drive/1kw3egmSn-KgWsikYvOMjJkVDsPLjEMzl) / [Photoshop](https://github.com/AbdullahAlfaraj/Auto-Photoshop-StableDiffusion-Plugin) / [Templates](https://github.com/ThereforeGames/unprompted) / [Upscaling](https://github.com/Coyote-A/ultimate-upscale-for-automatic1111, [2](https://github.com/pkuliyi2015/multidiffusion-upscaler-for-automatic1111)
+* ⭐ **[Automatic1111](https://github.com/AUTOMATIC1111/stable-diffusion-webui)** / [Fork](https://github.com/anapnoe/stable-diffusion-webui-ux), [2](https://github.com/vladmandic/automatic) / [Collab](https://colab.research.google.com/drive/1kw3egmSn-KgWsikYvOMjJkVDsPLjEMzl) / [Photoshop](https://github.com/AbdullahAlfaraj/Auto-Photoshop-StableDiffusion-Plugin) / [Templates](https://github.com/ThereforeGames/unprompted) / [Upscaling](https://github.com/Coyote-A/ultimate-upscale-for-automatic1111), [2](https://github.com/pkuliyi2015/multidiffusion-upscaler-for-automatic1111)
 * ⭐ **[InvokeAI](https://invoke-ai.github.io/InvokeAI/) / [GitHub](https://github.com/invoke-ai/InvokeAI)** / [Discord](https://discord.com/invite/ZmtBAhwWhy)
 * ⭐ **[ComfyUI](https://github.com/comfyanonymous/ComfyUI)**
 * ⭐ **[Fooocus](https://github.com/lllyasviel/Fooocus)**, [2](https://github.com/MoonRide303/Fooocus-MRE) / [Colab](https://colab.research.google.com/github/lllyasviel/Fooocus/blob/main/fooocus_colab.ipynb) / [Search](https://genly.ai/)
@@ -297,6 +325,7 @@
 * ⭐ **[Suno](https://app.suno.ai/)**
 * [Wolfram Tones](https://tones.wolfram.com/)
 * [StableAudio](https://www.stableaudio.com/)
+* [Udio](https://www..com/)
 * [audio visual generator](https://fredericbriolet.com/avg/)
 * [Fake Music Generator](https://www.fakemusicgenerator.com/)
 * [Jingle](https://aidn.jp/jingle/)
@@ -358,13 +387,15 @@
 
 ## ▷ Voice Change / Clone
 
-* ⭐ **[Applio](https://github.com/IAHispano/Applio-RVC-Fork)** - Voice Cloning / [AI Hub's Documentation](https://docs.aihub.wtf/)
+* ⭐ **[Applio](https://github.com/IAHispano/Applio-RVC-Fork)** - Voice Cloning / [Discord](https://discord.com/invite/iahispano)
 * ⭐ **[weights.gg](https://www.weights.gg/) / [Discord](https://discord.gg/aihub)** - AI Voice Models and Guides
 * ⭐ **[RVC V2](https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI/blob/main/docs/en/README.en.md)** - RVC V2 Voice Cloning (locally)
 * ⭐ **[voice-changer](https://github.com/w-okada/voice-changer)** - Realtime Voice Changer (W-Okada) - [Guide](https://rentry.co/VoiceChangerGuide)
 * ⭐ **[Ilaria RVC](https://huggingface.co/spaces/TheStinger/Ilaria_RVC)** - RVC V2 Voice Cloning (Cloud/Colab) 
 * [Replay](https://www.tryreplay.io/) - RVC Desktop App 
 * [Bark w/ Voice Clone](https://huggingface.co/spaces/kevinwang676/Bark-with-Voice-Cloning) - Voice Cloning
+* [RVC_HFv2](https://huggingface.co/spaces/r3gm/RVC_HFv2) - Voice Cloning
+* [RVC Docs](https://docs.aihub.wtf/) - RVC AI Documentation
 
 ***
 

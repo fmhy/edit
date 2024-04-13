@@ -84,8 +84,8 @@
 * ⭐ **[My Duck Is Dead](https://myduckisdead.org/)**
 * [MangoPorn](https://mangoporn.net/)
 * [EroticMV](https://eroticmv.com/)
-* [EroticMV](https://eroticmv.com/)
 * [itseroma](https://t.me/itseroma)
+* [UiiU Movies](https://uiiumovies.net/)
 * [EroGarga](https://www.erogarga.com/)
 * [EroticAge](https://www.eroticage.net/)
 * [VintageClassix](http://www.vintageclassix.com/)
@@ -112,6 +112,7 @@
 * [nJAV](https://njav.tv/)
 * [Avgle](https://avgle.com/)
 * [Senzuri Tube](https://senzuri.tube/)
+* [JavFan](https://javfan.one/ )
 * [rou.video](https://rou.video/)
 * [javdoe](https://javdoe.sh/)
 * [playav](https://playav.tv/)
@@ -121,6 +122,7 @@
 * [avjoy](https://avjoy.me/)
 * [OPJAV](https://opjav.com/)
 * [91rb](https://91rb.net/)
+* [JavFun](https://asian.javfun.me/)
 * [JAV19](https://www.jav19.com/)
 * [WatchJAVonline](https://watchjavonline.com/)
 * [JavBangers](https://www.javbangers.com/)
@@ -207,7 +209,9 @@
 # ► Images / Reels
 
 * ⭐ **[ImageFap](https://www.imagefap.com/)**
-* ⭐ **[NSFWMonster](https://nsfwmonster.com/)** - NSFW Images / GIFs
+* ⭐ **[NSFWMonster](https://nsfwmonster.com/)**
+* ⭐ **[FikFap](https://fikfap.com/)**
+* ⭐ **[fyptt](https://fyptt.to/)**
 * [Sex.com](https://www.sex.com/)
 * [PornPics](https://www.pornpics.com/)
 * [Realbooru](https://realbooru.com/)
@@ -216,55 +220,39 @@
 * [Sexy Girls Pics](https://sexygirlspics.com/)
 * [HotPornPhotos](https://www.hotpornphotos.com/)
 * [PornPaw](https://www.pornpaw.com/)
-* [EliteBabes](https://www.elitebabes.com/) - NSFW Images / GIFs
-* [GifHQ](https://gifhq.com/) - NSFW Images / GIFs
-* [GifSauce](https://gifsauce.com/) - NSFW Images / GIFs
-* [HardGIF](https://hardgif.com/) - NSFW GIFs
-* [redgifs](https://www.redgifs.com/) - NSFW GIFs
-* [xfree](https://www.xfree.com/) - NSFW Reels
-* [fap.bar](https://fap.bar/) - NSFW Reels
-* [FIQFUQ](https://fiqfuq.com/) - NSFW Reddit Posts
-* [Reddxxx](https://reddxxx.com/) - NSFW Reddit Posts
-* [Reddit Gone Wild](https://gonewildbrowser.com/) - NSFW Reddit Posts
-* [ViralPorn](https://viralporn.com/) - NSFW Reddit Posts
-* [nsfw.xxx](https://nsfw.xxx/) - NSFW Reddit Images
-* [Scroller](https://scrolller.com/) - NSFW Reddit Images
-* [ArchiveOfSins](https://archiveofsins.com/hc/) - NSFW 4Chan Archive
-* [NSFWSwipe](https://nsfwswipe.com/v/6716209) - NSFW GIFs
-* [NSFW Monster](https://nsfwmonster.com/) - NSFW GIFs
-* [PornAMinute](https://porninaminute.org/) - NSFW GIFs
-* [EroMe](https://www.erome.com/explore) - Amateur NSFW
-* [r/snapleaks](https://www.reddit.com/r/snapleaks/), [r/NSFW_Snapchat](https://www.reddit.com/r/NSFW_Snapchat/) or [r/DirtySnapchat](https://www.reddit.com/r/DirtySnapchat/) - NSFW Snapchat Subreddits
-* [Fapeza](https://fapeza.com/) - Instagram Models
+* [xxxtik](https://xxxtik.com/)
+* [Tik.porn](https://tik.porn/)
+* [TikPorn.tube](https://tikporn.tube/)
+* [tiktits](https://tiktits.com/)
+* [OnlyTik](https://onlytik.com/)
+* [Xfollow](https://www.xfollow.com/)
+* [Tik.pm](https://tik.pm/)
+* [r/tiktokporn](https://www.reddit.com/r/tiktokporn/)
+* [r/Tiktokthots](https://www.reddit.com/r/tiktokthots/)
+* [EliteBabes](https://www.elitebabes.com/)
+* [GifHQ](https://gifhq.com/)
+* [GifSauce](https://gifsauce.com/)
+* [HardGIF](https://hardgif.com/)
+* [redgifs](https://www.redgifs.com/)
+* [xfree](https://www.xfree.com/)
+* [fap.bar](https://fap.bar/)
+* [FIQFUQ](https://fiqfuq.com/)
+* [Reddxxx](https://reddxxx.com/)
+* [Reddit Gone Wild](https://gonewildbrowser.com/)
+* [ViralPorn](https://viralporn.com/)
+* [nsfw.xxx](https://nsfw.xxx/)
+* [Scroller](https://scrolller.com/)
+* [NSFWSwipe](https://nsfwswipe.com/v/6716209)
+* [NSFW Monster](https://nsfwmonster.com/)
+* [PornAMinute](https://porninaminute.org/)
 * [Simple-Costplay](https://www.simply-cosplay.com/), [Mitaku](https://mitaku.net/), [Hentai Costplays](https://hentai-cosplays.com) or [NudeCosplayGirls](https://nudecosplaygirls.com/) - Cosplay Images
+* [ArchiveOfSins](https://archiveofsins.com/hc/) - NSFW 4Chan Archive
 * [Fap Roulette](https://www.faproulette.co/) - Random Roulette Images
 * [Boobpedia](https://www.boobpedia.com/) - Boob Encyclopedia
-* [ChatPic](https://chatpic.org/) - Create Chat Rooms and share images
-  
-***
-
-## ▷ AI Generated Images
-
-* [Nectar](https://trynectar.ai/create) / [Discord](https://discord.gg/4u2jFcz5VN)
-* [Made.Porn](https://made.porn/) / [Discord](https://discord.com/invite/TE5eUxU2mz)
-* [Dopamine Girl](https://dopaminegirl.com/)
-* [Pornstars.ai](https://www.pornstars.ai/)
-* [PornLabs](https://editor.imagelabs.net/) / [Discord](https://discord.com/invite/RJX9FWWAsn)
-* [Nonolo.ai](https://no.nolo.ai/)
-* [AIPorn](https://www.aiporn.net/)
-* [pornpen.ai](https://pornpen.ai/feed)
-* [Pornify](https://pornify.cc/)
-* [AIHentai.co](https://aihentai.co/)
-* [Spicy Porn](https://spicy.porn/)
-* [Pornderful](https://pornderful.ai/)
-* [PornAI.tv](https://pornai.tv/)
-* [sexy.ai](https://sexy.ai/)
-* [HDG Faq](https://rentry.org/hdgfaq) - HDG Guide
-* [r/AIpornhub](https://www.reddit.com/r/AIpornhub/) - NSFW AI Subreddit
 
 ***
 
-## ▷ Social Media Leaks
+## ▷ Leak Sites
 
 * ⭐ **[Leak CSE](https://cse.google.com/cse?cx=d638aa7da557546d5)**, [2](https://cse.google.com/cse?cx=230603009f774dff1) - Leak Custom Search Engines
 * ⭐ **[Fapello](https://fapello.com/)** - OnlyFans / Patreon
@@ -282,19 +270,25 @@
 
 ***
 
-## ▷ TikTok
+## ▷ AI Generated Images
 
-* ⭐ **[FikFap](https://fikfap.com/)** - NSFW TikTok
-* ⭐ **[fyptt](https://fyptt.to/)** - NSFW TikTok
-* [xxxtik](https://xxxtik.com/) - NSFW TikTok
-* [Tik.porn](https://tik.porn/) - NSFW TikTok
-* [TikPorn.tube](https://tikporn.tube/)- NSFW TikTok
-* [tiktits](https://tiktits.com/) - NSFW TikTok
-* [OnlyTik](https://onlytik.com/) - NSFW TikTok
-* [Xfollow](https://www.xfollow.com/) - NSFW TikTok
-* [Tik.pm](https://tik.pm/) - NSFW TikTok
-* [r/tiktokporn](https://www.reddit.com/r/tiktokporn/) - NSFW TikTok Subreddit
-* [r/Tiktokthots](https://www.reddit.com/r/tiktokthots/) - NSFW TikTok Subreddit
+* [Nectar](https://trynectar.ai/create) / [Discord](https://discord.gg/4u2jFcz5VN)
+* [Made.Porn](https://made.porn/) / [Discord](https://discord.com/invite/TE5eUxU2mz)
+* [Dopamine Girl](https://dopaminegirl.com/)
+* [Pornstars.ai](https://www.pornstars.ai/)
+* [PornLabs](https://editor.imagelabs.net/) / [Discord](https://discord.com/invite/RJX9FWWAsn)
+* [Nonolo.ai](https://no.nolo.ai/)
+* [MetArtHunter](https://www.metarthunter.com/)
+* [AIPorn](https://www.aiporn.net/)
+* [pornpen.ai](https://pornpen.ai/feed)
+* [Pornify](https://pornify.cc/)
+* [AIHentai.co](https://aihentai.co/)
+* [Spicy Porn](https://spicy.porn/)
+* [Pornderful](https://pornderful.ai/)
+* [PornAI.tv](https://pornai.tv/)
+* [sexy.ai](https://sexy.ai/)
+* [HDG Faq](https://rentry.org/hdgfaq) - HDG Guide
+* [r/AIpornhub](https://www.reddit.com/r/AIpornhub/) - NSFW AI Subreddit
 
 ***
 
@@ -427,11 +421,11 @@
 * [Erofus](https://www.erofus.com/) - Comics / [Discord](https://discord.com/invite/ZKCV4CmhaD)
 * [SVSComics](https://svscomics.com/) - Comics
 * [BestPornComix](https://bestporncomix.com/) - Comics
-* [NXTComics](https://nxt-comics.net/) - Comics* [GoldenComics](https://goldencomics.art/) - Comics
+* [NXTComics](https://nxt-comics.net/) - Comics
+* [GoldenComics](https://goldencomics.art/) - Comics
 * [Porn Comics](https://porncomics.to/) - Comics
 * [BondageComixxx](https://bondagecomixxx.net/) - Comics
 * [Xcomics](https://xcomics.se/) - Comics
-* [Porn Comics](https://porncomics.to/) - Comics
 * [XYZ Porn Comics](https://xyzcomics.com/) - Comics
 * [Manhwa18.cc](https://manhwa18.cc/) - Hentai Manga
 * [Mangadass](https://mangadass.com/) - Hentai Manga
@@ -575,7 +569,7 @@
 * ⭐ **[Stash](https://stashapp.cc/)**, [Fapel System](https://github.com/pronopython/fapel-system), [Porn Vault](https://gitlab.com/porn-vault/porn-vault) or [AdultMediaManager](https://github.com/adultmm/AdultMediaManager) - Porn File Managers
 * ⭐ **[PornStarByFace](https://pornstarbyface.com/)** - NSFW Image Reverse Search
 * ⭐ **[SauceNao](https://saucenao.com/)** - Fictional NSFW Reverse Image Search / [Extension](https://saucenao.com/tools/)
-* ⭐ **[Internet Adult Film Database](https://www.iafd.com/)** or [MyPornStarBook](https://www.mypornstarbook.net/) - Adult Film Databases / Reviews
+* ⭐ **[Internet Adult Film Database](https://www.iafd.com/)**, [MyPornStarBook](https://www.mypornstarbook.net/), [Warashi](http://warashi-asian-pornstars.fr/) or [AVSOX](https://avsox.click/en) - Adult Film Databases / Reviews
 * ⭐ **[NameThatPorn](https://namethatporn.com/)**, [NameThatPornstar](https://namethatpornstar.com/), [r/pornID](https://www.reddit.com/r/pornID/) or [r/tipofmypenis](https://www.reddit.com/r/tipofmypenis/) - Porn Identification Communities
 * ⭐ **[Vibemate PC](https://vibemate.com/)** - Feature-Rich Porn Browser
 * ⭐ **[Bypass Subreddit Blocks](https://pastebin.com/gAAEQnqn)**
@@ -599,19 +593,4 @@
 
 ***
 
-# ► Porn Quitting
-
-* 🌐 **[Awesome-Adult-Content-Filtering](https://github.com/wesinator/awesome-Adult-Content-Filtering)** - Porn Quitting Tools Index
-* ↪️ **[Site Blocking](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25B7_productivity_tools)**
-* ⭐ **[EasyPeasy](https://easypeasymethod.org/)**, [2](https://gitlab.com/snuggy/easypeasy) - Painlessly Quit Pornography
-* ⭐ **[NoFap Forums](https://forum.nofap.com/index.php)** - Forums
-* [beta-censoring](https://github.com/silveredgold/beta-censoring), [beta-protection](https://github.com/silveredgold/beta-protection) or [Wingman](https://github.com/wingman-jr-addon/wingman_jr) - Porn Blocking Extensions
-* [Plucky](https://pluckyfilter.com/) - Content Filter
-* [Brainbuddy](https://www.brainbuddyapp.com/) - Porn Blocker / Android / iOS
-* [SelfControlApp](https://selfcontrolapp.com/) - Mac Site Blocker
-* [CleanBrowsing](https://cleanbrowsing.org/filters/) - Family DNS Filters
-* [cringeMDb](https://cringemdb.com/), [Age Rating JuJu](https://www.ageratingjuju.com/), [CommonSenseMedia](https://www.commonsensemedia.org/) or [unconsenting media](https://www.unconsentingmedia.org) - Find SFW Movies
-* [Movie Parser](https://raskie.com/post/practical-ai-autodetecting-nsfw) - Detect NSFW Scenes in Movies / [GitHub](https://github.com/dynamite-ready/movie-parser)
-* [Puri.fy](https://pury.fi/) or [NSFW-Filter](https://nsfw-filter.com/) - Block NSFW Images
-* [Fortify](https://www.joinfortify.com/) - Porn Quitting Community
-* [SAA Recovery](https://saa-recovery.org/), [Cosa Recovery](https://cosa-recovery.org/) or [Smart Recovery](https://www.smartrecovery.org/) - Find Sex Addiction Meetings
+# ► [Porn Quitting](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25B7_porn_quitting)

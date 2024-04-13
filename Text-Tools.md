@@ -8,11 +8,17 @@
 
 * ↪️ **[Image to Text](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/img-tools#wiki_.25B7_image_to_text_.2F_ocr)**
 * ↪️ **[Text to Speech](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/ai#wiki_.25B7_text_to_speech)**
+* ⭐ **[RambleFix](https://ramblefix.com/)**, [SpeechTexter](https://www.speechtexter.com/), [SpeechNotes](https://speechnotes.co/), [LilySpeech](https://lilyspeech.com/), [VoiceToText](https://voicetotext.org/), [TalkTyper](https://talktyper.com/), [Dictation](https://dictation.io/speech) or [VoiceNotebook](https://voicenotebook.com/) - Speech to Text
 * ⭐ **[TextCleanr](https://www.textcleanr.com/)**, [Text Mechanic](https://textmechanic.com/), [TextFixer](https://www.textfixer.com/), [OnlineTextTools](https://onlinetexttools.com/), [Convert Case](https://convertcase.net/), [TextCleaner](https://textcleaner.net/all-tools/), [SortMyList](https://sortmylist.com/) or [The Alphabetizer](https://alphabetizer.flap.tv/) - Organize / Format Text
+* [Lyx](https://www.lyx.org/), [Typst](https://typst.app/home), [TeXStudio](https://texstudio.org/) or [Papeeria](https://papeeria.com/) - LaTeX Editors / [Guide](https://www.learnlatex.org/)
+* [latex_paper_writing_tips](https://github.com/guanyingc/latex_paper_writing_tips) - Latex Research Paper Tips
+* [OpenPaper](https://openpaper.work/en/), [papis](https://github.com/papis/papis), [Paperless-ngx](https://docs.paperless-ngx.com) or [DataShare](https://datashare.icij.org/) - Document Managers
+* [Taguette](https://app.taguette.org/) - Data Analysis Document Tagging
+* [BookStack](https://www.bookstackapp.com/) - Self-Hosted Information Manager
+* [General Index](https://archive.org/details/GeneralIndex) - Article Metadata Mining Project
 * [diffr](https://loilo.github.io/diffr/), [TextCompare](https://www.textcompare.org/), [Text-Compare](https://text-compare.com/) or [DiffNow](https://www.diffnow.com/) - Compare Text
 * [Count Duplicates](https://www.somacon.com/p568.php) or [DuplicateWord](https://duplicateword.com/) - Count / Remove Duplicates in a List
 * [Delim](https://delim.co/) - Comma Separating Tool
-* [SpeechTexter](https://www.speechtexter.com/), [SpeechNotes](https://speechnotes.co/), [LilySpeech](https://lilyspeech.com/), [VoiceToText](https://voicetotext.org/), [TalkTyper](https://talktyper.com/) or [VoiceNotebook](https://voicenotebook.com/) - Speech to Text
 * [WindowTextExtractor](https://github.com/AlexanderPro/WindowTextExtractor) - Extract Text From Any Window
 * [Textify](https://ramensoftware.com/textify) - Copy Text from Any Dialog
 * [Scanner](https://simon-knuth.github.io/scanner/index) or [NAPS2](https://www.naps2.com/) - Scanner Apps / [GitHub](https://github.com/simon-knuth/scanner)
@@ -22,6 +28,8 @@
 * [quipqiup](https://www.quipqiup.com/) or [dCode](https://www.dcode.fr/en) - Cryptogram Solvers
 * [DocuSeal](https://www.docuseal.co/) - Free Document Signing
 * [Butterick’s Practical Typography](https://practicaltypography.com/) - Typography Guide Book
+
+
 
 ***
 
@@ -121,6 +129,18 @@
 
 ***
 
+## ▷ Encode / Decode
+
+* ⭐ **[CyberChef](https://gchq.github.io/CyberChef/)** - Encode / Decode Text
+* ⭐ **[Base64 Decode](https://www.base64decode.org/) / [Encode](https://www.base64encode.org/)** / [Dynamic](https://apps.maximelafarie.com/base64/) / [Chrome](https://chromewebstore.google.com/detail/base64-encoderdecoder/afdannbjainhcddbjjlhamdgnojibeoi), [2](https://chromewebstore.google.com/detail/base64-decode-copy/llcfmnginbnmkeddkjjellcimmffjdcf), [3](https://chromewebstore.google.com/detail/clip64-base64-decoder/hdneaoibdfdmifgfjjlkbkceanhjmgch) / [Firefox](https://addons.mozilla.org/en-US/firefox/addon/base64-decoder/) / [Opera](https://addons.opera.com/en/extensions/details/base64-encode-and-decode/)
+* [Universal Encoding Tool](https://unenc.com/) - Encode / Convert Text
+* [Ciphey](https://github.com/Ciphey/Ciphey) - Automated Decryption Tool
+* [cryptii](https://cryptii.com/), [DenCode](https://dencode.com/) - Text / URL Encoding
+* [Online Tools](https://emn178.github.io/online-tools/index.html) - Text / URL Encoding and Decoding
+* [URL Decode](https://url-decode.com/) / [Encode](https://url-decode.com/tool/url-encode) - URL Encoding / Decoding
+
+***
+
 ## ▷ Grammar Check
 
 * [Grammarly](https://www.grammarly.com/grammar-check)
@@ -128,7 +148,7 @@
 * [QuillBot](https://quillbot.com/grammar-check)
 * [DeepL Write](https://www.deepl.com/write)
 * [LanguageTool](https://languagetool.org/)
-*  [Scribens](https://www.scribens.com/)
+* [Scribens](https://www.scribens.com/)
 
 ***
 
@@ -200,7 +220,7 @@
 * [TypeRush](https://www.typerush.com/) - Typing Games
 * [ARRRType](https://www.arrrtype.com/) - Typing Games
 * [NGram Type](https://ranelpadon.github.io/ngram-type/), [Keyzen3](https://adamgradzki.com/keyzen3/) or [Keyzen Colmak](https://ranelpadon.github.io/keyzen-colemak-dh/) - Touch Typing Tests
-* [Smassh](https://github.com/kraanzu/smassh), [Ttyper](https://github.com/max-niederman/ttyper) or [TermTyper](https://github.com/kraanzu/termtyper) - Terminal Typing Tests
+* [Ttyper](https://github.com/max-niederman/ttyper) or [TermTyper](https://github.com/kraanzu/termtyper) - Terminal Typing Tests
 * [TypeLit.io](https://www.typelit.io/) - Book Typing Tests
 * [Colemak Academy](https://www.colemak.academy/) - Alt / Custom Keyboard Tests
 * [klavaro](https://klavaro.sourceforge.io/), [TypingStudy](https://www.typingstudy.com/) or [TypeFast](https://typefast.io/) - Multilingual Typing Tests
@@ -215,6 +235,8 @@
 * ⭐ **[Notepad++](https://notepad-plus-plus.org/)** / [Markdown](https://nea.github.io/MarkdownViewerPlusPlus/)
 * ⭐ **[Microsoft Office](https://gravesoft.dev/download_windows_office/office_c2r_links/)**, [Office Tool](https://github.com/YerongAI/Office-Tool), [Custom Office](https://gravesoft.dev/download_windows_office/office_c2r_custom/), [LibreOffice](https://www.libreoffice.org/) or [Calligra](https://calligra.org/) - Office Suites
 * ⭐ **Microsoft Office Tools** - [Guide](https://redd.it/1814gmp) / [Activation](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/system-tools#wiki_.25B7_windows_activation) / [Hot Keys](https://i.ibb.co/0m9t95b/ebacd47bf83b.png) / [File Search](https://sourceforge.net/projects/office-search/)
+* ⭐ **[Obsidian](https://obsidian.md/)**
+* ⭐ **Obsidian Tools** - [Resources](https://github.com/kmaasrud/awesome-obsidian) / [Share Notes](https://noteshare.space/) / [Live Sync](https://github.com/vrtmrz/obsidian-livesync) / [Backup](https://github.com/denolehov/obsidian-git) / [ChatGPT Addon](https://github.com/logancyang/obsidian-copilot), [2](https://github.com/vasilecampeanu/obsidian-weaver)
 * ⭐ **[Notion](https://www.notion.so/)**
 * ⭐ **Notion Tools** - [Themes](https://notionthemes.yudax.me/) / [Templates](https://notionpages.com/) / [Resources](https://www.notioneverything.com/notion-world), [2](https://chief-ease-8ab.notion.site/List-of-200-Notion-Resources-e1b46cd365094265bd47b8a2b25bb41e) / [Guide](https://easlo.notion.site/Notion-Beginner-to-Advanced-8a492960b049433289c4a8d362204d20)
 * ⭐ **[Note Garden](https://notegarden.web.app/)**, [2](https://notegarden.io/) - Note-Taking / Auto Courses
@@ -229,6 +251,7 @@
 * [MicroPad](https://getmicropad.com/)
 * [Xed](https://github.com/linuxmint/xed)
 * [Flotes](https://flotes.app/)
+* [Standard Notes](https://standardnotes.com/)
 * [Notes](https://www.get-notes.com/)
 * [Left](https://hundredrabbits.itch.io/left) / [GitHub](https://github.com/hundredrabbits/Left)
 * [BeefText](https://beeftext.org/)
@@ -244,6 +267,7 @@
 * [QOwnNotes](https://www.qownnotes.org/)
 * [Zim Wiki](https://zim-wiki.org/)
 * [Laverna](https://laverna.cc/)
+* [FastNotes](https://fastedit.frozenassassine.de/)
 * [Google Keep](https://keep.google.com/)
 * [wikidPad](https://wikidpad.sourceforge.net/)
 * [tomboy-ng](https://github.com/tomboy-notes/tomboy-ng)
@@ -285,9 +309,7 @@
 
 ## ▷ Mind Mapping
 
-* ⭐ **[Obsidian](https://obsidian.md/)**
-* ⭐ **Obsidian Tools** - [Resources](https://github.com/kmaasrud/awesome-obsidian) / [Share Notes](https://noteshare.space/) / [Live Sync](https://github.com/vrtmrz/obsidian-livesync) / [Backup](https://github.com/denolehov/obsidian-git) / [ChatGPT Addon](https://github.com/logancyang/obsidian-copilot), [2](https://github.com/vasilecampeanu/obsidian-weaver)
-* ⭐ **[canvas](https://obsidian.md/canvas)**
+* ⭐ **[Obsidian Canvas](https://obsidian.md/canvas)**
 * [MindMup](https://www.mindmup.com/)
 * [FreeMind](https://freemind.sourceforge.net/)
 * [Kinopio](https://kinopio.club/)
@@ -326,6 +348,7 @@
 * [Firepad](https://firepad.io/) 
 * [Etherpad](https://etherpad.org/)
 * [SharePad](https://sharepad.io/)
+* [Pixso](https://pixso.net/)
 * [FidusWriter](https://www.fiduswriter.org/) 
 * [overleaf](https://www.overleaf.com/)
 * [RustPad](https://github.com/ekzhang/rustpad)
@@ -359,6 +382,7 @@
 * ⭐ **[Linked](https://uselinked.com/)**, [journaltxt](https://journaltxt.github.io/), [Gekri](https://gekri.com/), [Microsoft Journal](https://www.microsoft.com/en-us/garage/profiles/journal/), [Diarium](https://diariumapp.com/), [Gemlog](https://gemlog.blue/) or [jrnl.sh](https://jrnl.sh/) - Journal Apps / [Songs](https://deardiary.ai/)
 * ⭐ **[ChaoticShiny](http://chaoticshiny.com/)**, [Seventh Sanctum](https://www.seventhsanctum.com/), [Notebook.ai](https://www.notebook.ai/) or [WorldAnvil](https://www.worldanvil.com/) - Fantasy Writing Generators
 * [LanguageIsAVirus](https://www.languageisavirus.com/) - Writing Prompts
+* [Storylines](https://github.com/morning4coffe-dev/storylines) - Chapter Based Story Writing
 * [Twinery](https://twinery.org/) - Interactive Non-Linear Story Creator
 * [Infinite Story](https://infinite-story.com/) or [WriteAlong](https://www.writealong.io/) - Collaborative Story Writing
 * [Blackout Poetry](https://blackoutpoetry.glitch.me/) - Blackout Poetry Creator

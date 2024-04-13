@@ -27,6 +27,7 @@
 * [Pinging](https://www.pinging.net/) - Internet Uptime Monitor
 * [NetBlocks](https://api.webprobe.org/) or [OpenNetMeter](https://github.com/Ashfaaq18/OpenNetMeter) - Internet Performance Monitor
 * [WiFi Analyzer](https://apps.microsoft.com/store/detail/wifi-analyzer/9NBLGGH33N0N) - WiFi Analyzer
+* [WireShark](https://www.wireshark.org/) - Network Protocol Analyzer / [Profiles](https://github.com/amwalding/wireshark_profiles)
 * [Ethr](https://github.com/Microsoft/Ethr) - Network Performance Tool
 * [NETworkManager](https://github.com/BornToBeRoot/NETworkManager) or [WLan10](https://github.com/afit/wlan10) - Network Manager
 * [mRemoteNG](https://mremoteng.org/) - Remote Connections Manager
@@ -236,7 +237,7 @@
 
 * 🌐 **[URLS-MTHRFCKR](https://github.com/whoisdsmith/urls-mthrfckr)** - Python URL Scripts
 * ↪️ **[Check if Sites are Down](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_down_site_checkers)**
-* ↪️ **[Encode / Decode URLs](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25B7_encode_.2F_decode)**
+* ↪️ **[Encode / Decode URLs](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools#wiki_.25B7_encode_.2F_decode)**
 * ↪️ **[Reverse URL Search](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_domain_info_tools)**
 * ↪️ **[URL Unshorteners](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_url_unshorteners)**
 * ⭐ **[Flagfox](https://flagfox.wordpress.com/)** - Displays Country's Flag on Sites / [Adds Many URL Tools](https://i.ibb.co/N7Mq56Q/889730aa3863.png)
@@ -274,7 +275,7 @@
 * [tny.im](https://tny.im) - `tny.im/rw-`
 * [ai6.net](https://ai6.net/) - `ai6.net/nm3tyz`
 * [SmartLinks](https://smartlnks.com/) - `smartlnks.com/Vjr0m`
-* [Emojied](https://emojied.net/) - `emojied.net/😷😐🙁😀🙎😮`
+* [Emojied](https://emojied.net/), [vi8hl0c](https://xn--vi8hl0c.ws/) or [kn8h](https://xn--kn8h.to/)
 * [offf.to](https://offf.to/) - Short Links via Browser
 * [ShortShare](https://shortshare.app/) - Short Link App
 * [BR3F](https://www.br3f.com/) - Temporary Short Links
@@ -324,6 +325,7 @@
 * [BlueBubbles](https://bluebubbles.app/) - iMessage Client
 * [Atlus](https://github.com/amanharwara/altus) or [WAO](https://dedg3.com/wao/) - WhatsApp Clients
 * [WhatsApp-Chat-Exporter](https://wts.knugi.dev/) - WhatsApp Skype Chats
+* [WAIncognito](https://chromewebstore.google.com/detail/waincognito/alhmbbnlcggfcjjfihglopfopcbigmil) - Disable WhatsApps Read Receipts & Presence Updates
 * [Skype Exports for Humans](https://becausecurious.me/skype_exports_for_humans) - Export Skype Chats
 * [TikTok Chat Reader](https://tiktok-chat-reader.zerody.one/) - Live TikTok Chat Reader
 * [Urlebird](https://urlebird.com/) - Third-Party TikTok with better UI
@@ -334,7 +336,7 @@
 * [VideoMail](https://www.videomail.io/) - Webcam to Email Tool
 * [VCam](https://www.xsplit.com/vcam) - Remove Webcam Background
 * [NVIDIA BROADCAST](https://www.nvidia.com/en-us/geforce/broadcasting/broadcast-app/), [Mini Video Me](https://github.com/maykbrito/mini-video-me) or [Webcamoid](https://webcamoid.github.io/) - Webcam Managers
-* [MiroTalk](https://mirotalk.up.railway.app/) - Video Chat
+* [MiroTalk](https://mirotalk.up.railway.app/) or [MiroTalk SFU](https://sfu.mirotalk.com/) - Video Chat
 * [Videolink2me](https://videolink2me.com/) - Video Chat
 * [TinyChat](https://tinychat.com/) - Video Chat
 * [Noysi Meet](https://meet.noysi.com/) - Video Chat
@@ -347,10 +349,10 @@
 ## ▷ Email Tools
 
 * 🌐 **[Email Providers](https://en.wikipedia.org/wiki/Comparison_of_webmail_providers)** - Provider Comparisons
+* ↪️ **[Email Privacy](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25B7_email_privacy)**
 * ↪️ **[Email Clients](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_email_clients)**
 * ↪️ **[Temp Emails](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_temp_email_sites)**
 * ↪️ **[Anon Emails](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_send_anonymous_emails)**
-* ↪️ **[Email Aliasing / Forwarding](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_email_aliasing)**
 * ⭐ **[cock.li](https://cock.li/)** - Simple Email Service
 * ⭐ **[InboxReads](https://inboxreads.co/)** or [Readsom](https://readsom.com/) - Email Newsletter Archive
 * [Delta Chat](https://delta.chat/en/) - Email Based Messenger
@@ -378,7 +380,8 @@
 ## ▷ RSS Tools
 
 * ⭐ **[All about RSS](https://github.com/AboutRSS/ALL-about-RSS)** / [Telegram](https://t.me/s/aboutrss), [RSSTango](https://rentry.org/rrstango), [To RSS](https://www.to-rss.xyz/), [Awesome RSS Feeds](https://github.com/plenaryapp/awesome-rss-feeds) or [RSS](https://gist.github.com/thefranke/63853a6f8c499dc97bc17838f6cedcc2) - RSS Feeds / Tools
-* ⭐ **[Feedly](https://feedly.com/)** - Feed Reader
+* ⭐ **[Feedly](https://feedly.com/)** - RSS Reader
+* ⭐ **[Raven](https://ravenreader.app/)** - RSS Reader
 * ⭐ **[Feedless](https://feedless.org/)**, [MoRSS](https://morss.it/), [RSSHub](https://github.com/DIYgod/RSSHub), [Open RSS](https://openrss.org/), [rsspls](https://github.com/wezm/rsspls), [FetchRSS](https://fetchrss.com/), [Politepol](https://politepol.com/en/), [Janicek](https://feed.janicek.co/) or [FiveFilters](https://createfeed.fivefilters.org/) - RSS Feed Generators
 * ⭐ **[RSS Bridge](https://github.com/RSS-Bridge/rss-bridge)** - RSS Feed for Sites Missing It
 * [TheFeedReaderBot](https://thefeedreaderbot.com/) or [NewsBoat](https://newsboat.org/) - Console RSS Readers
@@ -407,7 +410,7 @@
 
 # ► Browser Tools
 
-* 🌐 **[Browser Comparisons](https://avoidthehack.com/util/browser-comparison)**
+* 🌐 **[Browser Comparisons](https://privacytests.org/)**, [2](https://avoidthehack.com/util/browser-comparison)
 * ↪️ **[Browser Privacy Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25BA_web_privacy)**
 * ⭐ **[BrowserBench](https://browserbench.org/)** or [WPT](https://wpt.fyi) - Browser Benchmark Tests
 * ⭐ **[Firefox Keyboard Shortcuts](https://support.mozilla.org/en-US/kb/keyboard-shortcuts-perform-firefox-tasks-quickly)** 
@@ -420,8 +423,7 @@
 * [woob](https://woob.tech/) - Use Sites Without a Browser
 * [Browser.lol](https://browser.lol/) or [Browserling](https://www.browserling.com/) - Browser Emulators
 * [NYXT](https://nyxt.atlas.engineer/ ) - Information Extraction Browser
-* [Gemini Clients](https://geminiprotocol.net/clients.html), [Lagrange](https://gmi.skyjake.fi/lagrange/) or [Amfora](https://github.com/makew0rld/amfora) - Gemini Browsers
-* [Gemini Software](https://gemini.circumlunar.space/software/) - Tools & Software for Gemini
+* [Lagrange](https://gmi.skyjake.fi/lagrange/) or [Amfora](https://github.com/makew0rld/amfora) - Gemini Browsers
 * [Gemini Portal](https://portal.mozz.us/gemini/gemini.circumlunar.space/), [2](https://yesterweb.org/gemini) - Gemini to https Web Proxy Service
 * [Rambox](https://rambox.app/), [Kera](https://desktop.kerahq.com/) or [Tangram](https://github.com/sonnyp/Tangram) - Web App Browsers
 * [Chrome Theme Studio](https://chrometheme.studio/) - Create Chrome Theme
@@ -504,6 +506,7 @@
 * [External App Button](https://add0n.com/external-application-button.html) - Connect Browser to External Apps
 * [xBrowserSync](https://www.xbrowsersync.org/) - Browser Syncing
 * [Stylebot](https://stylebot.dev/) - Modify Webpages
+* [SocialFocus](https://socialfocus.app/) - Hide Distracting Elements on Social Media Sites
 * [Screen Color Temperature](https://mybrowseraddon.com/screen-color-temperature.html) - Adjust Screen Color Temperature
 * [ColorZilla](https://www.colorzilla.com/) or [ColorFish](https://ui.vision/colorfish) - Color Picker
 * [Clippings](https://aecreations.io/clippings/index.php) or [Quick Copy](https://github.com/ramitmittal/quick-copy) - Clipboard Manager
@@ -513,7 +516,8 @@
 * [Copy Selection as Markdown](https://github.com/0x6b/copy-selection-as-markdown) - Copy Text as Markdown 
 * [CopyFish](https://ocr.space/copyfish) - Grab Text from Images 
 * [Talkie](https://joelpurra.com/projects/talkie/) or [Offline Text to Speech](https://virejdasani.github.io/OfflineTextToSpeech-Extension/) - Text to Speech
-* [Text Link](hhttps://github.com/piroor/textlink/) - Make Non-Hyperlinked URLs Clickable
+* [Text Link](https://github.com/piroor/textlink/) - Make Non-Hyperlinked URLs Clickable
+* [Max Focus](https://maxfoc.us/) - Preview links
 * [Cookie-AutoDelete](https://github.com/Cookie-AutoDelete/Cookie-AutoDelete) - Auto Delete Cookies
 * [I still don't care about cookies](https://github.com/OhMyGuus/I-Still-Dont-Care-About-Cookies) or [Consent-O-matic](https://consentomatic.au.dk/) / [2](https://github.com/cavi-au/Consent-O-Matic) - Block Cookie Consent Popups
 * [EditThisCookie](https://www.editthiscookie.com/) or [Cookie-Editor](https://cookie-editor.cgagnier.ca/) - Cookies Managers

@@ -17,10 +17,6 @@ We'd recommend checking out privacy guides like [SSD](https://ssd.eff.org/) and 
 > I don't know what seeding or *insert another term* means...
 You will find almost all terms related to piracy and more in [The Piracy Glossary](https://rentry.org/the-piracy-glossary). Didn't find what you're looking for or still confused? Reach out to us via [Discord](https://discord.gg/5W9QJKuPkD).
 
-> How can I download Photoshop / Adobe Products for free?
-You can download pre-cracked Adobe products from [M0nkrus](https://w14.monkrus.ws/) by following [this guide](https://rentry.co/adobesoftware). Alternatively, you could patch them yourself by following [these guides](https://www.reddit.com/r/GenP/wiki/index/) / [2](https://genpguides.github.io/).
-!!!info M0nkrus is a well-trusted and reputable source for Adobe software in the piracy community. 
-
 > How can I download / activate Windows or Microsoft Office for free?
 For Windows check out this [section](#windows-piracy), and for Microsoft Office check out this [guide](https://gravesoft.dev/download_windows_office/office_c2r_links/).
 
@@ -109,7 +105,7 @@ Use [this](https://bitbucket.org/magnolia1234/bypass-paywalls-firefox-clean/src/
 **[Privacy Guides](https://www.privacyguides.org/)** - Privacy guides 
 **[DuckDuckGo](https://duckduckgo.com/) / [Mojeek](https://www.mojeek.com/)** - Tracker-free web search
 **[ProtonMail](https://proton.me/mail)** - Encrypted email service
-**[Email Aliasing](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_email_aliasing)** - Email alias forwarding
+**[Email Privacy](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25B7_email_privacy)** - Email privacy resources
 **[Aegis](https://getaegis.app/) / [Ente](https://github.com/ente-io/auth/)** - 2FA to prevent logins without user authentication
 **[Password Managers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools#wiki_.25B7_password_managers)** - Save multiple passwords
 **[HaveIBeenPwned](https://haveibeenpwned.com/)** - Get notified when your email or phone number has been found in a data breach
@@ -121,7 +117,7 @@ Use [this](https://bitbucket.org/magnolia1234/bypass-paywalls-firefox-clean/src/
 
 ### Streaming
 
-**[movie-web](https://movie-web.github.io/docs/instances) / [Fix](https://pastebin.com/8X5bbjeS) / [lonelil](https://watch.lonelil.ru/) / [Fix](https://watch.lonelil.ru/onboarding) / [Braflix](https://www.braflix.app/) / [FMovies](https://fmoviesz.to/)** - Fast movie / TV streaming
+**[Braflix](https://www.braflix.app/) / [watch.lonelil](https://watch.lonelil.ru/) / [movie-web](https://movie-web.github.io/docs/instances) / [FMovies](https://fmoviesz.to/)** - Fast movie / TV streaming
 **[HiAnime](https://hianime.to/)** - Fast anime streaming
 **[Dramacool](https://dramacool.cy/)** - Fast Asian drama streaming
 **[SportsSurge](https://sportsurge.net/)** - Live sports streaming
@@ -135,7 +131,7 @@ Use [this](https://bitbucket.org/magnolia1234/bypass-paywalls-firefox-clean/src/
 
 ### Downloading
 
-**[LRepacks](https://lrepacks.net/) / [CRACKSurl](https://cracksurl.com/)** - Trusted software sites
+**[LRepacks](https://lrepacks.net/) / [CRACKSurl](https://cracksurl.com/) / [M0nkrus](https://w14.monkrus.ws/)** - Trusted software sites
 **[OlaMovies](https://olamovies.icu/)** - Fast video downloads
 **[FitGirl Repacks](https://fitgirl-repacks.site/) / [SteamRIP](https://steamrip.com/)** - Game download sites / [FitGirl Discord](https://discord.gg/Up3YARe4RW)
 **[Vimms Lair](https://vimm.net/) / [No-Intro](https://rentry.co/FMHYBase64#no-intro)** - ROM download sites / [Emulators](https://emulation.gametechwiki.com/)

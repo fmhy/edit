@@ -11,15 +11,16 @@
 * ↪️ **[Gaming Optimization](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/games#wiki_.25B7_optimization_tools)**
 * ⭐ **[PowerToys](https://learn.microsoft.com/en-us/windows/powertoys/)**, [Sysinternals](https://learn.microsoft.com/en-us/sysinternals/) / [Suite](https://apps.microsoft.com/store/detail/sysinternals-suite/9P7KNL5RWT25) or [JaxCore](https://jaxcore.app/) - System Tools
 * ⭐ **[CPU-Z](https://www.cpuid.com/softwares/cpu-z.html)**, [winfetch](https://github.com/lptstr/winfetch) or [GPU-Z](https://www.techpowerup.com/download/techpowerup-gpu-z/) - System Information Tools
+* ⭐ **[SuperF4](https://stefansundin.github.io/superf4/)** or [FKill](https://github.com/sindresorhus/fkill-cli) - Process Killers
 * ⭐ **[AutoHotkey](https://www.autohotkey.com/)**, [AutoIt](https://www.autoitscript.com/) / [Resources](https://github.com/J2TEAM/awesome-AutoIt), [Power Automate](https://learn.microsoft.com/en-us/power-automate/desktop-flows/install), [sikulix](http://sikulix.com/) or [ChoEazyCopy](https://github.com/Cinchoo/ChoEazyCopy) - Task Automation
 * ⭐ **AutoHotkey Tools** - [Script Gen](https://www.ahkgen.com/) / [Resources](https://github.com/ahkscript/awesome-AutoHotkey)
 * [Windows-11-Guide](https://github.com/mikeroyal/Windows-11-Guide), [Pastas](https://rentry.org/pastas#guides), [Eleven Forums Guides](https://www.elevenforum.com/tutorials/) or [Ten Forums Guides](https://www.tenforums.com/tutorials/) - Windows Guides
+* [Autoruns](https://learn.microsoft.com/en-us/sysinternals/downloads/autoruns) - Change Startup Programs
 * [NanaRun](https://github.com/M2Team/NanaRun) - System Admin Tools
 * [PolicyPlus](https://github.com/Fleex255/PolicyPlus) - Local Group Policy Editor
 * [PowerPlanSwitcher](https://www.microsoft.com/en-us/p/powerplanswitcher/9nblggh556l3) - Quickly Change Power Schemes
 * [Scheduler](https://www.splinterware.com/products/scheduler.html) or [TaskRunner](https://www.keyefficiency.com/) - System Task Scheduler
 * [Process Explorer](https://learn.microsoft.com/en-us/sysinternals/downloads/process-explorer) or [System Informer](https://systeminformer.sourceforge.io/) - Process Monitors
-* [SuperF4](https://stefansundin.github.io/superf4/) or [FKill](https://github.com/sindresorhus/fkill-cli) - Process Killers
 * [Dependencies](https://github.com/lucasg/Dependencies) - View Application Dependencies
 * [RegExp](https://github.com/zodiacon/TotalRegistry), [ripgrep-all](https://github.com/phiresky/ripgrep-all) or [Registry-Finder](https://registry-finder.com/) - Registry Explorers
 * [WinbIndex](https://winbindex.m417z.com/) - Windows System Files / Binaries
@@ -45,29 +46,28 @@
 * ⭐ **[SophiApp](https://github.com/Sophia-Community/SophiApp)** / [Script](https://github.com/farag2/Sophia-Script-for-Windows) - Debloater
 * [GhostBuster](https://bitbucket.org/wvd-vegt/ghostbuster/src/master/) or [Device Cleanup Tool](https://www.majorgeeks.com/files/details/device_cleanup_tool.html) - Remove Non-Present Devices
 * [Win10Debloat](https://github.com/Raphire/Win10Debloat) - Debloater
+* [Should I Remove It?](https://www.shouldiremoveit.com/) - Program Removal Guide
 * [Adobe Debloater](https://github.com/FlickyOs/Adobe-Debloater) - Debloat Adobe Apps
-* [BloatyNosy](https://github.com/builtbybel/BloatyNosy) - Windows 11 Debloaters
 
 ***
 
 ## ▷ System Tweaks
 
-* ⭐ **[EverythingToolbar](https://github.com/srwi/EverythingToolbar)**, [Hyper](https://github.com/hyperts/Hyper), [yasb](https://github.com/denBot/yasb) or [Smart Taskbar](https://github.com/ChanpleCai/SmartTaskbar) - Improved Taskbars
+* ⭐ **[EverythingToolbar](https://github.com/srwi/EverythingToolbar)** or [yasb](https://github.com/denBot/yasb) - Improved Taskbars
+* ⭐ **[Open Shell](https://open-shell.github.io/Open-Shell-Menu/)** or [ValliStart](https://github.com/Jax-Core/ValliStart) - Improved Start Menus
 * ⭐ **[EarTrumpet](https://eartrumpet.app/)**, [Volumey](https://github.com/G-Stas/Volumey) or [Volume2](https://github.com/irzyxa/Volume2) - Improved Volume Mixer
 * [Couleur Tweak Tips](https://discord.gg/CTT) - Windows Tweaking Guides
 * [MajorGeeks Windows Tweaks](https://www.majorgeeks.com/files/details/majorgeeks_registry_tweaks.html), [Winaero](https://winaero.com/), [QuickBoost](https://github.com/SanGraphic/QuickBoost) or [Windhawk](https://windhawk.net/) - System Tweaking Tools / **[Warning](https://pastebin.com/vMYCiAGE)**
-* [Awesome Scripts](https://github.com/Py-Contributors/awesomeScripts), [abbodi1406](https://forums.mydigitallife.net/posts/1343297/), [BatUtil](https://github.com/abbodi1406/BatUtil) or [TechNet-Gallery](https://github.com/MScholtes/TechNet-Gallery) - System Scripts
-* [Win10 Widgets](https://win10widgets.com/), [BeWidgets](https://apps.microsoft.com/store/detail/bewidgets/9NQ07FG50H2Q) or [Eww](https://github.com/elkowar/eww) - Widgets for Windows
+* [abbodi1406](https://forums.mydigitallife.net/posts/1343297/), [BatUtil](https://github.com/abbodi1406/BatUtil) or [TechNet-Gallery](https://github.com/MScholtes/TechNet-Gallery) - System Scripts
+* [Win10 Widgets](https://win10widgets.com/) or [Eww](https://github.com/elkowar/eww) - Widgets for Windows
 * [Wintoys](https://apps.microsoft.com/store/detail/wintoys/9P8LTPGCBZXD) - Improved Control Panels
-* [Hunt and Peck](https://github.com/zsims/hunt-and-peck/), [Cerebro App](https://cerebroapp.com/) or [Zazu App](https://zazuapp.org/) - Improved System Navigation
+* [Hunt and Peck](https://github.com/zsims/hunt-and-peck/) or [Cerebro App](https://cerebroapp.com/) - Improved System Navigation
 * [SmartSystemMenu](https://github.com/AlexanderPro/SmartSystemMenu) - Improved System Menu
 * [EasyContextMenu](https://www.sordum.org/7615/easy-context-menu-v1-6/) or [Nilesoft Shell](https://nilesoft.org/) - Improved Context Menus
 * [OpenWith++](https://github.com/stax76/OpenWithPlusPlus) or [ContextMenuManager](https://github.com/BluePointLilac/ContextMenuManager/blob/master/README-en.md) - Customize Context Menu
 * [RCWM](https://github.com/GChuf/RCWM) - Context Menu Tools
-* [Open Shell](https://open-shell.github.io/Open-Shell-Menu/) or [ValliStart](https://github.com/Jax-Core/ValliStart) - Improved Start Menus
 * [Spencer](https://www.the-sz.com/products/spencer/) or [Fluent-Metro](https://github.com/bonzibudd/Fluent-Metro) - Classic Start Menu
 * [Taskbar Tweaker](https://ramensoftware.com/7-taskbar-tweaker) - Taskbar Advanced Features
-* [Taskbar Groups](https://github.com/tjackenpacken/taskbar-groups) - Create Groups in Taskbar
 * [ButteryTaskbar](https://github.com/LuisThiamNye/ButteryTaskbar2) - Hide Taskbar When Start Menu is Closed
 * [Taskbar Hide](https://www.eusing.com/hidewindows/bosskey.htm) - Easily Hide / Show Taskbar
 * [MinimizeToTray](https://github.com/sandwichdoge/MinimizeToTray), [Traymond](https://github.com/fcFn/traymond), [RBTray](https://github.com/benbuck/rbtray) or [minimize-to-tray](https://sourceforge.net/projects/minimize-to-tray/) - Minimize Windows to Tray
@@ -100,7 +100,7 @@
 
 ## ▷ Terminal / CLI
 
-* 🌐 **[terminals-are-sexy](https://github.com/k4m4/terminals-are-sexy)** - Terminal Resources
+* 🌐 **[terminals-are-sexy](https://terminalsare.sexy/)** - Terminal Resources
 * 🌐 **[awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps)** or [command-line-tools](https://github.com/learn-anything/command-line-tools) - Command Line Resources
 * ⭐ **[Clink](https://github.com/chrisant996/clink)** - Command Line Editing
 * ⭐ **[ss64](https://ss64.com/)** - Command Line Reference Index
@@ -214,6 +214,7 @@
 # ► Hardware Tools
 
 * ↪️ **[PC Building / Shopping](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25BA_shopping)**
+* ⭐ **[PCPartPicker](https://pcpartpicker.com/)** - Build Calculators
 * ⭐ **[PSU Calculator](https://www.newegg.com/tools/power-supply-calculator/)** or [Power Supply Calculator](https://outervision.com/power-supply-calculator) - Find Compatible Power Supplies
 * [DeviceTests](https://devicetests.com/) - Multiple Device Tests
 * [NotCPUCores](https://github.com/rcmaehl/NotCPUCores), [ParkControl](https://bitsum.com/parkcontrol/), [QuickCPU](https://coderbag.com/product/quickcpu) or [Process Lasso](https://bitsum.com/) - CPU Optimizer
@@ -270,7 +271,7 @@
 * 🌐 **[Awesome DataHoarding](https://github.com/simon987/awesome-datahoarding)** - DataHoarding Resources
 * ⭐ **[WizTree](https://www.diskanalyzer.com/)** - Disk Usage Analyzer
 * ⭐ **[CrystalDiskMark](https://crystalmark.info/en/software/crystaldiskmark/)** or [CCISOBench](https://ccsiobench.com/) - Disk Benchmarking Tools
-* ⭐ **[GParted](https://gparted.org/)**, [Rescuezilla](https://rescuezilla.com/), [CloneZilla](https://clonezilla.org/) or [AOMEI](https://www.diskpart.com/) - Partition Managers
+* ⭐ **[GParted](https://gparted.org/)**, [Rescuezilla](https://rescuezilla.com/), [CloneZilla](https://clonezilla.org/), [Partition Wizard](https://www.partitionwizard.com/) or [AOMEI](https://www.diskpart.com/) - Partition Managers
 * ⭐ **[Validrive](https://www.grc.com/validrive.htm)** - Check True Storage Size of USB Devices
 * [TrueNAS](https://www.truenas.com/) - Storage System
 * [QDirStat](https://github.com/shundhammer/qdirstat) - Directory Statistics
@@ -298,7 +299,8 @@
 * [LittleBigMouse](https://github.com/mgth/LittleBigMouse) - DPI Test
 * [Scalizer](https://github.com/wonmor/Scalizer-Windows) - Auto DPI Scaling / [YouTube](https://youtu.be/f_3XWlmyat4)
 * [ICM](https://rentry.co/ICM) or [ICC Profiles](https://tftcentral.co.uk/articles/icc_profiles) - ICC Profiles and Monitor Calibration
-* [Dimmer](https://www.nelsonpires.com/software/dimmer) or [Monitorian](https://github.com/emoacht/Monitorian) - Multi-Monitor Brightness Control
+* [Multi-Monitor Calculator](https://multimonitorcalculator.com/) - Dual-Monitor Setup Planning / Tests
+* [Dimmer](https://www.nelsonpires.com/software/dimmer) or [Monitorian](https://github.com/emoacht/Monitorian) - Dual-Monitor Brightness Control
 * [Twinkle Tray](https://twinkletray.com/) - System Tray Brightness Slider
 * [Wide Gamut](https://www.wide-gamut.com/) - Color Compatibility Test
 * [WhiteScreen](https://www.whitescreen.online/) - Screen Color Test
@@ -353,6 +355,7 @@
 * [CloverBootloader](https://github.com/CloverHackyColor/CloverBootloader/) or [EasyBCD](https://neosmart.net/EasyBCD/) - Bootloaders / [Config](https://mackie100projects.altervista.org/)
 * [balenaEtcher](https://etcher.balena.io/) - Flash OS Image SD / USB / Non-Windows OS
 * [Hiren’s BootCD PE](https://www.hirensbootcd.org/) or [Win10XPE](https://github.com/ChrisRfr/Win10XPE) - Preinstallation Environments
+* [CoolStar](https://coolstar.org/chromebook/windows-install.html) - Install Windows on Chromebook
 
 ***
 
@@ -466,8 +469,9 @@
 * [macOS-cursors-for-Windows](https://github.com/antiden/macOS-cursors-for-Windows) - macOS Cursors for Windows
 * [AccentColorizer](https://github.com/krlvm/AccentColorizer) - Custom Windows Accent Color
 * [MicaForEveryone](https://github.com/MicaForEveryone/MicaForEveryone) - System Backdrop Customization
-* [TranslucentFlyouts](https://github.com/ALTaleX531/TranslucentFlyouts) - Translucent Context Menus
+* [TranslucentFlyouts](https://github.com/ALTaleX531/TranslucentFlyouts) - Translucent Context Menus / [GUI](https://github.com/Satanarious/TranslucentFlyoutsConfig)
 * [TranslucentTB](https://github.com/TranslucentTB/TranslucentTB) - Translucent Windows Taskbar
+* [ExplorerBlurMica](https://github.com/Maplespe/ExplorerBlurMica) - Blur / Acrylic Effect for File Explorer
 * [RetroBar](https://github.com/dremin/RetroBar) - Retro Classic Taskbars
 * [StartAllBack](https://www.startallback.com/) - Restore Classic Start Menu in Windows 11
 * [Win98Icons](https://win98icons.alexmeub.com/) - Classic Win98 Icons

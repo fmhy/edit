@@ -162,7 +162,7 @@
 ## ▷ Freeware Sites
 
 * 🌐 **[Awesome Free Software](https://github.com/johnjago/awesome-free-software)** - Freeware Index
-* 🌐 **[Awesome Selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)**, [2](https://gitlab.com/awesome-selfhosted/awesome-selfhosted) - Selfhosted Software Index
+* 🌐 **[Awesome Selfhosted](https://awesome-selfhosted.net/)**, [2](https://gitlab.com/awesome-selfhosted/awesome-selfhosted) - Selfhosted Software Index
 * 🌐 **[Awesome Python Applications](https://github.com/mahmoud/awesome-python-applications)** - Python App Index
 * ↪️ **[Git Project Indexes](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_git_projects)**
 * ↪️ **[Software Package Managers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/system-tools#wiki_.25B7_package_managers)**
@@ -233,6 +233,7 @@
 * 🌐 **[Awesome IRC](https://github.com/davisonio/awesome-irc)** - IRC Resources
 * ⭐ **[IRC Tutorial](https://rentry.org/irc)**, [Libera Guides](https://libera.chat/guides/), [LoadGuru](https://www.theloadguru.com/xdcc-irc-beginners-guide/), [New Blood](https://anonops.com/newblood/) or [Simple Wiki Guide](https://en.wikipedia.org/wiki/Wikipedia:IRC/Tutorial) - IRC Guides
 * [AdiIRC](https://adiirc.com/), [Convos](https://convos.chat/), [mIRC](https://www.mirc.com/get.html) or [Bitchx](https://bitchx.sourceforge.net/) - IRC Clients
+* [Hexchat](https://hexchat.github.io/) - Private IRC Client 
 * [KiwiIRC](https://kiwiirc.com/) or [TheLounge](https://thelounge.chat/) - WebIRC Client
 * [irc2go](https://en.irc2go.com/) - Browse IRC Chat Rooms / [Top 1000](https://netsplit.de/networks/top100.php)
 * [libera](https://libera.chat/), [tilde](https://tilde.chat/), [anonops](https://anonops.com/) or [rizon](https://rizon.net/) - IRC Networks
@@ -258,7 +259,6 @@
 * [abnzb](https://www.abnzb.com/)
 * [NZB Index](https://www.nzbindex.com/), [2](https://www.nzbindex.nl/)
 * [Newznab](https://www.newznab.com/)
-* [NZBGrabit](https://www.nzbgrabit.xyz/)
 * [NZBStars](https://nzbstars.com/)
 * [GingaDaddy](https://www.gingadaddy.com/)
 * [NZBFinder](https://nzbfinder.ws/)
