@@ -856,7 +856,7 @@
 * 🌐 **[Archive Buttons](https://www.archivebuttons.com/)** - Paywall Bypass Tools
 * 🌐 **[PaywallHub](https://paywallhub.com/)** - Paywall Bypass Tools
 * ⭐ **[wallabag](https://wallabag.nixnet.services/)** / [Discord Bot](https://github.com/FahadBinHussain/wallabot)
-* ⭐ **[Bypass Paywalls Clean filters](https://gitlab.com/magnolia1234/bypass-paywalls-clean-filters)**
+* ⭐ **[Bypass Paywalls Clean filters](https://gitlab.com/stefano.rovelli.1989/bypass-paywalls-clean-filters)**
 * [Bypass paywalls for scientific documents](https://greasyfork.org/en/scripts/35521) - Bypass Scientific Document Paywalls
 * [unpaywall](https://unpaywall.org/) - Bypass Scholarly Article Paywalls
 * [Scribe](https://scribe.rip/), [freedium](https://freedium.cfd/ ) or [medium-forall](https://medium-forall.vercel.app/) - Medium Paywall Bypass
