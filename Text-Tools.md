@@ -21,13 +21,14 @@
 * [Delim](https://delim.co/) - Comma Separating Tool
 * [WindowTextExtractor](https://github.com/AlexanderPro/WindowTextExtractor) - Extract Text From Any Window
 * [Textify](https://ramensoftware.com/textify) - Copy Text from Any Dialog
-* [Scanner](https://simon-knuth.github.io/scanner/index) or [NAPS2](https://www.naps2.com/) - Scanner Apps / [GitHub](https://github.com/simon-knuth/scanner)
+* [Scanner](https://simon-knuth.github.io/scanner/index) or [NAPS2](https://www.naps2.com/) - Scanner Apps / [github](https://github.com/simon-knuth/scanner)
 * [Text to Handwriting](https://saurabhdaware.github.io/text-to-handwriting/), [texttohandwriting](https://texttohandwriting.com/) or [HandWrittner](https://handwrittner.com/?lang=en) - Text to Handwriting Converters
 * [StegCloak](https://stegcloak.surge.sh/) - Hide Messages in Text
 * [telescopictext](https://www.telescopictext.org/) - Write Text Within Text
 * [quipqiup](https://www.quipqiup.com/) or [dCode](https://www.dcode.fr/en) - Cryptogram Solvers
 * [DocuSeal](https://www.docuseal.co/) - Free Document Signing
 * [Butterick’s Practical Typography](https://practicaltypography.com/) - Typography Guide Book
+* [BeefText(https://beeftext.org/) - Text Substitution Tool 
 
 
 
@@ -38,7 +39,7 @@
 * ⭐ **[snowbin](https://pastes.fmhy.net/)**, [2](https://paste.fmhy.net/) - Temp Pastebin
 * ⭐ **[Linqbin](https://linqbin.cc/)** - Temp Pastebin
 * ⭐ **[Github Gists](https://gist.github.com/)** - Account Needed
-* ⭐ **[Rentry](https://rentry.co/)** / [CLI](https://github.com/radude/rentry) / Markdown Support
+* ⭐ **[Rentry](https://rentry.co/)** / [cli](https://github.com/radude/rentry) / Markdown Support
 * ⭐ **[Stellular](https://bundlrs.cc/)** / [Source](https://code.stellular.org/SentryTwo/bundlrs) / Markdown Support
 * ⭐ **[disroot](https://bin.disroot.org/)**, [privatebin](https://privatebin.net/), [bin.idrix](https://bin.idrix.fr/) or [RIN Privatebin](https://privatebin.rinuploads.org/)
 * ⭐ **[PrivateBin Instances](https://privatebin.info/directory/)**
@@ -89,7 +90,7 @@
 * ⭐ **[DeepLX](https://github.com/OwO-Network/DeepLX)** or [DeepL](https://www.deepl.com/translator)
 * ⭐ **[Google Translate](https://translate.google.com/)**
 * [Crow Translate](https://crow-translate.github.io/) or [Argos](https://github.com/argosopentech/argos-translate) - Translation Apps
-* [Translate Shell](https://www.soimort.org/translate-shell/) - Translation CLI / [GitHub](https://github.com/soimort/translate-shell)
+* [Translate Shell](https://www.soimort.org/translate-shell/) - Translation CLI / [github](https://github.com/soimort/translate-shell)
 * [OnlineDocTranslator](https://www.onlinedoctranslator.com/en/) - Document Translator
 * [LegaleseDecoder](https://legalesedecoder.com/free-legal-document-to-plain-english-translator/) - Legal Document Translator
 * [Matecat](https://www.matecat.com) - Online Translation Editor 
@@ -201,7 +202,7 @@
 * [FancySymbol](https://fancysymbol.com/)
 * [Unifoundry](https://unifoundry.com/)
 * [Cool Symbol](https://coolsymbol.com/)
-* [WinCompose](http://wincompose.info/) - Unicode Compose Key / [GitHub](https://github.com/samhocevar/wincompose)
+* [WinCompose](http://wincompose.info/) - Unicode Compose Key / [github](https://github.com/samhocevar/wincompose)
 * [FastEmoji](https://www.fastemoji.com/) or [textfac.es](https://textfac.es/) - Unicode Emojis
 * [BlankText](https://blanktext.net/) - Copy / Paste Blank Spaces
 
@@ -242,44 +243,40 @@
 * ⭐ **[Note Garden](https://notegarden.web.app/)**, [2](https://notegarden.io/) - Note-Taking / Auto Courses
 * ⭐ **[AnyType](https://anytype.io/)**
 * ⭐ **[Logseq](https://logseq.com/)**
+* [MicroPad](https://getmicropad.com/)
 * [Mochi Cards](https://mochi.cards/) or [Silicon](https://github.com/cu/silicon) - Note-Taking / Study Tools
-* [Desklamp](https://desklamp.io/) - Reading / Note Taking / Highlighting Tool / [Guide](https://app.desklamp.io/read?id=46b203c6-d8df-453d-b546-95a8fa7a44b9&mode=explore)
+* [Desklamp](https://desklamp.io/) - Reading / Note Taking / Highlighting Tool / [Guide](https://app.desklamp.io/read?id=46b203c6-d8df-453d-b546-95a8fa7a44b9&amp;mode=explore)
 * [Calculist](https://calculist.io/) - Note-Taking for Problem-Solving
 * [EncryptPad](https://evpo.net/encryptpad/) - Encrypted Text Editor
-* [Xournal++](https://xournalpp.github.io/) / [GitHub](https://github.com/xournalpp/xournalpp)
-* [Notepads](https://www.notepadsapp.com/)
-* [MicroPad](https://getmicropad.com/)
-* [Xed](https://github.com/linuxmint/xed)
-* [Flotes](https://flotes.app/)
+* [Xournal++](https://xournalpp.github.io/) / [github](https://github.com/xournalpp/xournalpp) - Handwritten Notes
+* [Notepads](https://www.notepadsapp.com/) - Text Editor
+* [Xed](https://github.com/linuxmint/xed) - GTK3 Text Editor
+* [Flotes](https://flotes.app/) - Markdown Note Taking
+* [BeaverNotes](https://beavernotes.com/)
 * [Standard Notes](https://standardnotes.com/)
 * [Notes](https://www.get-notes.com/)
-* [Left](https://hundredrabbits.itch.io/left) / [GitHub](https://github.com/hundredrabbits/Left)
-* [BeefText](https://beeftext.org/)
-* [Quill](https://quilljs.com/)
-* [Helix](https://helix-editor.com/) / [GitHub](https://github.com/helix-editor/helix)
-* [BeaverNotes](https://beavernotes.com/)
-* [Textreme](https://ash-k.itch.io/textreme) / [GitHub](https://github.com/cis-ash/TEXTREME)
-* [Tiddly](https://tiddlywiki.com/) / [Desktop](https://github.com/tiddly-gittly/TidGi-Desktop)
-* [Joplin](https://joplinapp.org/) / [Firefox](https://addons.mozilla.org/en-US/firefox/addon/joplin-web-clipper/) / [Chrome](https://chromewebstore.google.com/detail/joplin-web-clipper/alofnhikmmkdbbbgpnglcpdollgjjfeken-GB)
-* [TinyList](https://tinylist.app/)
-* [Simplenote](https://simplenote.com/)
-* [SilentNotes](https://www.martinstoeckli.ch/silentnotes/) / [GitHub](https://github.com/martinstoeckli/SilentNotes)
+* [Left](https://hundredrabbits.itch.io/left) / [github](https://github.com/hundredrabbits/Left) - Distractionless Plaintext Editor
+* [Quill](https://quilljs.com/) - Text Editor
+* [Helix](https://helix-editor.com/) / [github](https://github.com/helix-editor/helix) - Kakuone/Neovim Based Text Editor
+* [Textreme](https://ash-k.itch.io/textreme) / [github](https://github.com/cis-ash/TEXTREME) - Text Editor with Situational Graphical Effects
+* [Tiddly](https://tiddlywiki.com/) / [Desktop](https://github.com/tiddly-gittly/TidGi-Desktop) - Note Taking
+* [Joplin](https://joplinapp.org/) / [Firefox](https://addons.mozilla.org/en-US/firefox/addon/joplin-web-clipper/) / [Chrome](https://chromewebstore.google.com/detail/joplin-web-clipper/alofnhikmmkdbbbgpnglcpdollgjjfeken-GB) - Note Taking
+* [Simplenote](https://simplenote.com/) - Crossplatform Note Taking
+* [SilentNotes](https://www.martinstoeckli.ch/silentnotes/) / [github](https://github.com/martinstoeckli/SilentNotes)
 * [QOwnNotes](https://www.qownnotes.org/)
-* [Zim Wiki](https://zim-wiki.org/)
-* [Laverna](https://laverna.cc/)
+* [Zim Wiki](https://zim-wiki.org/) - Wiki Text Editor
+* [Laverna](https://laverna.cc/) - Markdown Note Taking
 * [FastNotes](https://fastedit.frozenassassine.de/)
 * [Google Keep](https://keep.google.com/)
-* [wikidPad](https://wikidpad.sourceforge.net/)
-* [tomboy-ng](https://github.com/tomboy-notes/tomboy-ng)
-* [FromScratch](https://fromscratch.rocks/)
+* [tomboy-ng](https://github.com/tomboy-notes/tomboy-ng) - TomBoy Based Text Editor
+* [FromScratch](https://fromscratch.rocks/) - Note Taking
 * [Notesnook](https://notesnook.com/)
-* [tuxBoard](https://gitlab.com/graele84/tuxboard)
-* [AFFiNE](https://affine.pro/)
-* [Butterfly](https://docs.butterfly.linwood.dev/) / [Discord](https://discord.com/invite/97zFtYN) / [GitHub](https://github.com/LinwoodDev/Butterfly)
-* [UseMemos](https://usememos.com/) 
-* [benotes](https://benotes.org/)
-* [Saber](https://saber.adil.hanney.org/)
-* [Trilium](https://github.com/zadam/trilium)
+* [tuxBoard](https://gitlab.com/graele84/tuxboard) - Handwritten Notes
+* [Butterfly](https://docs.butterfly.linwood.dev/) / [discord](https://discord.com/invite/97zFtYN) / [github](https://github.com/LinwoodDev/Butterfly) - Handwritten Notes
+* [UseMemos](https://usememos.com/)  / [discord](https://discord.gg/tfPJa4UmAv) - Note Taking
+* [benotes](https://benotes.org/) - Self-hosted Bookmarks and Note Taking
+* [Saber](https://saber.adil.hanney.org/) - Crossplatform Handwritten Notes
+* [Trilium](https://github.com/zadam/trilium) - Note Taking
 
 ***
 
@@ -300,6 +297,7 @@
 * [Write Box](https://write-box.appspot.com/) - Local / Cloud Saves
 * [NimbleText](https://nimbletext.com/Live) - Cloud Saves
 * [ZippyJot](https://www.zippyjot.com/) - Cloud Saves
+* [TinyList](https://tinylist.app/) 
 * [TextSlave](https://www.textslave.com/)
 * [GhostText](https://ghosttext.fregante.com/)
 * [AnyTextEditor](https://anytexteditor.com/)
@@ -339,7 +337,7 @@
 * ⭐ **[Google Docs](https://www.google.com/docs/about/)**
 * ⭐ **[CryptPad](https://cryptpad.fr/)**
 * ⭐ **[Kludd](https://kludd.co/)**
-* [Stashpad](https://www.stashpad.com/) / [Discord](https://discord.gg/ScxPxcN9fK) 
+* [Stashpad](https://www.stashpad.com/) / [discord](https://discord.gg/ScxPxcN9fK) 
 * [Mattermost](https://mattermost.com/)
 * [HackMD](https://hackmd.io/)
 * [Taskade](https://www.taskade.com/) 
@@ -352,6 +350,7 @@
 * [FidusWriter](https://www.fiduswriter.org/) 
 * [overleaf](https://www.overleaf.com/)
 * [RustPad](https://github.com/ekzhang/rustpad)
+* [AFFiNE](https://affine.pro/)
 
 ***
 
@@ -386,7 +385,7 @@
 * [Twinery](https://twinery.org/) - Interactive Non-Linear Story Creator
 * [Infinite Story](https://infinite-story.com/) or [WriteAlong](https://www.writealong.io/) - Collaborative Story Writing
 * [Blackout Poetry](https://blackoutpoetry.glitch.me/) - Blackout Poetry Creator
-* [Idyll](https://idyll-lang.org/editor) - Create Interactive Essays / [GitHub](https://github.com/idyll-lang/idyll)
+* [Idyll](https://idyll-lang.org/editor) - Create Interactive Essays / [github](https://github.com/idyll-lang/idyll)
 * [Papyrus Author](https://www.papyrusauthor.com/) - Creative Writing Suite
 * [STARC](https://starc.app/) - Screen Writing Tool
 * [Unsell](https://www.unsell.design/) - Portfolio / Magazine Templates
@@ -436,7 +435,7 @@
 * [Kammerl](https://www.kammerl.de/ascii/AsciiSignature.php) - ASCII Text Generator
 * [ascii-art-generator](https://www.ascii-art-generator.org/), [ascii-generator](https://ascii-generator.site/), [asciiart](https://asciiart.club/), [ascii-image-converter](https://github.com/TheZoraiz/ascii-image-converter) or [ASCII-art-creator](https://github.com/CherryPill/ASCII-art-creator) - Image to ASCII Art
 * [Love ASCII](http://loveascii.com/), [16colors](https://16colo.rs/), [ascii.co](https://ascii.co.uk/art) or [RoySAC](http://www.roysac.com/sitemap.html) - Copy ASCII Art
-* [ASCII Flow](https://asciiflow.com/) or [Tree](https://tree.nathanfriend.io/) - Create ASCII Diagrams
+* [ASCII Flow](https://asciiflow.com/) or [tree](https://tree.nathanfriend.io/) - Create ASCII Diagrams
 * [Video Ascii Art](http://www.kickjs.org/example/video_ascii_art/Video_Ascii_Art.html) - Video to Ascii Art
 * [Image to Braille](https://505e06b2.github.io/Image-to-Braille/) - Convert Images to Braille
 * [SVGBob Editor](https://ivanceras.github.io/svgbob-editor/) - Convert ASCII Diagrams to SVG Images
@@ -576,7 +575,7 @@
 * [Fancy Text](https://fancy-text.net/)
 * [YayText](https://yaytext.com/)
 * [Font-Generator](https://www.font-generator.com/)
-* [lingojam](https://lingojam.com/WeirdTextGenerator)
+* [LingoJam](https://lingojam.com/WeirdTextGenerator)
 * [fSymbols](https://fsymbols.com/generators/)
 * [fontchangerguru](https://fontchangerguru.com/)
 * [tell.wtf](https://tell.wtf/)
