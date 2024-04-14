@@ -412,7 +412,7 @@
 
 ## ▷ Manhua / Manhwa
 
-* **Note** - Keep in mind that sites in the manga section above also have manhua/manhwa. Comick and Botato for example both have official TLs.
+**Note** - Keep in mind that sites in the manga section above also have manhua/manhwa. Comick and Botato for example both have official TLs.
 
 ***
 

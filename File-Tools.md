@@ -273,7 +273,7 @@
 
 # ► File Hosts
 
-* **Note** - Size is per file and time is after the last time someone downloaded that file unless specified.
+**Note** - Size is per file and time is after the last time someone downloaded that file unless specified.
   
 ***
 
@@ -389,7 +389,7 @@
 
 ## ▷ Cloud Storage
 
-* **Note** - Monthly prices are based on annual plans. 2TB prices are halved for comparison if a 1TB plan doesn't exist for a service.
+**Note** - Monthly prices are based on annual plans. 2TB prices are halved for comparison if a 1TB plan doesn't exist for a service.
 
 ***
 

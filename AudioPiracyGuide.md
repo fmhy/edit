@@ -226,7 +226,7 @@
 ***
 # ► Audio Ripping
 
-* **Note** - Some sites and tools accept URLs from various streaming sites but only use a particular source (usually youtube) to get the audio. We've only mentioned a platform if it can directly rip audio from there.
+**Note** - Some sites and tools accept URLs from various streaming sites but only use a particular source (usually youtube) to get the audio. We've only mentioned a platform if it can directly rip audio from there.
 
 ## ▷ Audio Ripping Sites
 

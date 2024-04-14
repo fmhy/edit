@@ -50,7 +50,7 @@
 
 ## ▷ Game Repacks
 
-* **Note** - Repacks are compressed versions of games that exchange smaller downloads for longer installation times. Good if you have low bandwidth or data limits.
+**Note** - Repacks are compressed versions of games that exchange smaller downloads for longer installation times. Good if you have low bandwidth or data limits.
 
 ***
 
@@ -900,7 +900,7 @@
 
 ## ▷ Mario Kart Tools
 
-* **Note** - Some track distributions like Retro Rewind and Mario Kart Midnight can be played online without a wii via Dolphin emulator.
+**Note** - Some track distributions like Retro Rewind and Mario Kart Midnight can be played online without a wii via Dolphin emulator.
 
 ***
 

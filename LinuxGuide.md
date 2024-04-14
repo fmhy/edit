@@ -6,7 +6,7 @@
 
 # ► Linux Distros
 
-* **Note** - We don't curate individual distros ourselves as we feel the indexes listed are good enough to stand on their own. 
+**Note** - We don't curate individual distros ourselves as we feel the indexes listed are good enough to stand on their own. 
 
 ***
 
@@ -101,7 +101,7 @@
 
 ## ► Window Managers
 
-* **Note** - Most Window Managers have a steep learning curve. Customization (or "ricing") is a requirement. [See below](https://old.reddit.com/r/FREEMEDIAHECKYEAH/wiki/linux#wiki_.25B7_customization) for some resources.
+**Note** - Most Window Managers have a steep learning curve. Customization (or "ricing") is a requirement. [See below](https://old.reddit.com/r/FREEMEDIAHECKYEAH/wiki/linux#wiki_.25B7_customization) for some resources.
 
 ***
 

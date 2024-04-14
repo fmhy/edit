@@ -4,7 +4,7 @@
 ***
 ***
 
-* **Note** - Our [Discord](https://redd.it/17f8msf) has an AI bot with Llama, Mistral, and Stable Diffusion. Feel free to join and try it out.
+**Note** - Our [Discord](https://redd.it/17f8msf) has an AI bot with Llama, Mistral, and Stable Diffusion. Feel free to join and try it out.
 
 ***
 
@@ -216,7 +216,7 @@
 
 # ► Image Generation
 
-* **Note** - Because Stable Diffusion works so well, most innovation in image generation is happening using it as the base model. As such, almost all sections and links are based on SD, unless stated otherwise.
+**Note** - Because Stable Diffusion works so well, most innovation in image generation is happening using it as the base model. As such, almost all sections and links are based on SD, unless stated otherwise.
 
 ***
 

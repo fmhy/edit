@@ -6,7 +6,7 @@
 
 # ► Adblocking
 
-* **Note** - Don't run multiple general adblockers like uBlock Origin and Adblock Plus at the same time. Running more than one can [cause breakage](https://twitter.com/gorhill/status/1033706103782170625). This only applies to general adblockers, so running things like uBlock  Origin and SponsorBlock at the same time is fine.
+**Note** - Don't run multiple general adblockers like uBlock Origin and Adblock Plus at the same time. Running more than one can [cause breakage](https://twitter.com/gorhill/status/1033706103782170625). This only applies to general adblockers, so running things like uBlock  Origin and SponsorBlock at the same time is fine.
 
 ***
 
@@ -58,7 +58,7 @@
 
 ## ▷ DNS Adblocking
 
-* **Note** - If your goal is to block browser ads, it's best to just stick with uBlock Origin, as additional filters can cause conflicts or anti-adblock. 
+**Note** - If your goal is to block browser ads, it's best to just stick with uBlock Origin, as additional filters can cause conflicts or anti-adblock. 
 
 ***
 
@@ -402,7 +402,7 @@
 
 # ► VPN
 
-* **Note** - For torrenting, it's recommended to use a paid rather than free VPN. Free VPNs are only really useful for things like viewing sites blocked by your ISP / country.
+**Note** - For torrenting, it's recommended to use a paid rather than free VPN. Free VPNs are only really useful for things like viewing sites blocked by your ISP / country.
 
 ***
 

@@ -4,7 +4,7 @@
 ***
 ***
 
-* **Note** - This section can be used to get movies, music, books, courses etc. but for anything you install, like games, software, or apks, its highly recommended to use the english sections instead. The only exceptions are sites like m0nkrus that have very good reputations. Keep in mind you can always change the language in the installers.
+**Note** - This section can be used to get movies, music, books, courses etc. but for anything you install, like games, software, or apks, its highly recommended to use the english sections instead. The only exceptions are sites like m0nkrus that have very good reputations. Keep in mind you can always change the language in the installers.
 
 ***
 
@@ -1712,7 +1712,7 @@
 # ► Vietnamese / Việt
 
 * ⭐ **[Voz.vn](https://voz.vn/)**, **[TECHRUM.VN](https://www.techrum.vn/)** or **[WhiteHat.vn](https://whitehat.vn/)** - Tech Forum
-* **[J2team](https://www.facebook.com/groups/j2team.community)** - Tech Community
+* ⭐ **[J2team](https://www.facebook.com/groups/j2team.community)** - Tech Community
 * [Quantrimang](https://quantrimang.com/), [Anonyviet](https://anonyviet.com/) - Tech News
 * [CocCoc](https://coccoc.com/search) - Search
 * [Speedtest](https://speedtest.vn/), [Vinahost](https://speedtest.vinahost.vn/) - Internet Speed Test
