@@ -306,11 +306,13 @@
 ## ▷ Geography / Datasets
 
 * 🌐 **[Awesome Datasets](https://github.com/awesomedata/awesome-public-datasets)** - Public Datasets
+* ↪️ **[Historical / Modern Maps](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25BA_maps)** - Map Resources
 * ⭐ **[Worldometer](https://www.worldometers.info/)**, [Internet World Stats](https://www.internetworldstats.com/), [WorldBank](https://databank.worldbank.org/), [US Census](https://data.census.gov/), [DataUSA](https://datausa.io/), [Ozymandias](https://population.ozymandias.so/) or [UN Data](https://data.un.org/) - World Data & Statistics
 * ⭐ **[Our World in Data](https://ourworldindata.org/)** - World Problem Database
 * ⭐ **[The Atlas of Economic Complexity](https://atlas.cid.harvard.edu/)** - Global Economic Growth Data
 * ⭐ **[Soar](https://soar.earth/)** - Digital Atlas
 * [LizardPoint](https://lizardpoint.com/) - Geography Quizzes
+* [AntipodesMap](https://www.antipodesmap.com/) - Find Antipodes
 * [The True Size](https://thetruesize.com/) - Compare Country Size
 * [Location Data](https://locationdata.us/) or [NationsEncyclopedia](https://www.nationsencyclopedia.com/) - Location / Population Data
 * [Global Consciousness Project](https://gcpdot.com/) - Real-Time Global Consciousness Data
@@ -334,6 +336,7 @@
 * [Incarceration in Real Numbers](https://mkorostoff.github.io/incarceration-in-real-numbers/) - Incarceration Visualization / Facts
 * [Expatistan](https://www.expatistan.com/) - Cost of Living Calculator
 * [Pixel Wealth](https://mkorostoff.github.io/1-pixel-wealth/) - Wealth Inequality Visualization
+* [WorldStandards](https://www.worldstandards.eu/) - World Electricity and Driving Standards 
 * [Climate Data](https://climate-data.org/) or [Climate Explorer](https://crt-climate-explorer.nemac.org/) - Climate Change Data
 * [En-ROADS](https://en-roads.climateinteractive.org/scenario.html) - Climate Solutions Simulator
 * [Global Volcanism Program](https://volcano.si.edu/) - Volcano Information Database
@@ -341,8 +344,13 @@
 * [Nextstrain](https://nextstrain.org/) - Pathogen Evolution Tracking
 * [Epidemic Calculator](https://gabgoh.github.io/COVID/index.html) - COVID Data
 * [iCivics](https://www.icivics.org/games) - U.S. Law Learning Games
+* [Left vs. Right Side Driving Map](https://somerandomstuff1.files.wordpress.com/2019/02/left-or-right-side.png) - Left vs. Right Side Driving by Country
+* [Speed Limits Map](https://somerandomstuff1.files.wordpress.com/2019/02/highest-speed-limits-around-the-world.png) - Max Speed Limits
+* [License Plates Map](https://i.redd.it/ue2r7cdb2s861.png) - License Plate Map
+* [European License Plate Map](https://i.redd.it/wcazzhjir8941.png) - European License Plate Map
 * [Symbols](https://www.symbols.com/) - Symbol Database
 * [Flag Guesser](https://flagguesser.com/) - Flag Quizzes
+* [Flags of the World](https://i.redd.it/lxtu47hf5ll51.jpg) - Worldwide Flag Map
 * [Flag Stories](https://flagstories.co/) - Flag Design Breakdowns
 * [Hate on Display](https://www.adl.org/hate-symbols) - Hate Symbol Database
 
@@ -865,7 +873,7 @@
 * ↪️ **[Encyclopedia Index](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_encyclopedias)** - Encyclopedia Sites / Tools
 * ⭐ **[NGrams](https://books.google.com/ngrams/)** or [Netspeak](https://netspeak.org/) - Word Usage Trackers
 * [Time Traveler](https://www.merriam-webster.com/time-traveler) - See when a word was first used in print
-* [EtymOnline](https://www.etymonline.com/) or [The Tower of Babel](https://starlingdb.org/) - Etymologies
+* [EtymOnline](https://www.etymonline.com/) - Etymologies
 * [Abbreviations](https://www.abbreviations.com/) - Abbreviations
 * [AcronymFinder](https://www.acronymfinder.com/) - Abbreviations / Acronyms
 * [Chat Words Dictionary](https://chatworddictionary.com/) - Chat Abbreviations
