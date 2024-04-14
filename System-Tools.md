@@ -146,7 +146,6 @@
 * [Screego](https://app.screego.net/) / [GitHub](https://github.com/screego/server/)
 * [Screensy](https://screensy.marijn.it/) / [GitHub](https://github.com/screensy/screensy)
 * [here.fm](https://here.fm/)
-* [SharpRDP](https://github.com/0xthirteen/SharpRDP)
 * [HopToDesk](https://www.hoptodesk.com/)
 * [CoScreen](https://www.coscreen.co/)
 * [TigerVNC](https://tigervnc.org/) - VNC
@@ -168,7 +167,6 @@
 * [ClipAngel](https://sourceforge.net/projects/clip-angel/)
 * [XClipper](https://kaustubhpatange.github.io/XClipper/)
 * [MultiClipBoardSlots](https://www.softwareok.com/?seite=Microsoft/MultiClipBoardSlots)
-* [Clipboard Canvas](https://github.com/d2dyno1/ClipboardCanvas)
 * [Xtra Clipboard](https://xtra-clipboard.com/)
 * [Control V](https://ctrl.vi/)
 
@@ -205,7 +203,6 @@
 * [winevdm](https://github.com/otya128/winevdm) - 16-bit Windows on 64-bit Systems
 * [Blink](https://github.com/jart/blink) - Linux Emulator for Windows
 * [GWSL-Source](https://github.com/Opticos/GWSL-Source) or [GWSL](https://opticos.github.io/gwsl/) - Run Linux Apps on Windows
-* [gter](https://github.com/raoofha/gter) - Embed a GUI app Inside a Terminal Window
 * [Dockerholics](https://github.com/petersem/dockerholics) - Docker Apps
 * [WebCatalog](https://webcatalog.io) - Turn Sites into Desktop Apps
 
@@ -239,9 +236,7 @@
 * [FanControl](https://getfancontrol.com/) - Control PC Fans / [GitHub](https://github.com/Rem0o/FanControl.Releases)
 * [Sidebar Diagnostics](https://github.com/ArcadeRenegade/SidebarDiagnostics) - Sidebar for Windows Desktop
 * [Traffic Monitor](https://github.com/zhongyang219/TrafficMonitor) - Network & Hardware Monitor
-* [bottom](https://github.com/ClementTsang/bottom) - Terminal Hardware Monitor
-* [Glances](https://nicolargo.github.io/glances/) - Terminal Hardware Monitor
-* [tiptop](https://github.com/nschloe/tiptop) - Terminal Hardware Monitor
+* [bottom](https://github.com/ClementTsang/bottom) or [Glances](https://nicolargo.github.io/glances/) - Terminal Hardware Monitors
 
 ***
 
@@ -417,7 +412,7 @@
 * [PCE Macplus](https://jamesfriend.com.au/pce-js/pce-js-apps/) or [Infinite Mac](https://infinitemac.org/) - macOS Browser Emulators
 * [PCE.js](https://jamesfriend.com.au/pce-js/ibmpc-games/) - PCDOS 5 Emulator
 * [Quantum Playground](https://www.quantumplayground.net/#/home) - Quantum Computer Simulator
-* [Win11.vercel](https://win11.vercel.app/), [Rajaniraiyn](https://rajaniraiyn.github.io/windows11/) or [Win11 in React](https://win11.blueedge.me/)/ [GitHub](https://github.com/blueedgetechno/win11React) - Online Windows 11 Emulator
+* [Win11 in React](https://win11.blueedge.me/) / [GitHub](https://github.com/blueedgetechno/win11React), [Rajaniraiyn](https://rajaniraiyn.github.io/windows11/) or [Win11.vercel](https://win11.vercel.app/) - Online Windows 11 Emulator
 * [daedalOS](https://dustinbrett.com/) - Online Windows 10 Emulator
 
 ***
