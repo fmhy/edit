@@ -316,6 +316,7 @@
 ## ▷ Chat Tools
 
 * ↪️ **[IRC Clients / Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/download#wiki_.25B7_irc_tools)**
+* ⭐ **[Mumble](https://www.mumble.info/)**, [Jam](https://jam.systems/), [TeaSpeak](https://teaspeak.de/gb/), [TeamSpeak](https://www.teamspeak.com/) / [Warning](https://pastebin.com/479TbKq5), [Zoiper](https://www.zoiper.com/) or [Google Voice](https://voice.google.com/) - Voice Chat 
 * ⭐ **[Hack.chat](https://hack.chat/)**, [Shick](https://shick.me/), [Yap](https://yap.chat/), [Convene](https://letsconvene.im/), [Stinto](https://stin.to/en) or [tik.io](https://tlk.io/) - Minimal Account Free Chats
 * ⭐ **[Gajim](https://gajim.org/)** or [xabber](https://www.xabber.com/) - XMPP Clients
 * [Pidgin](https://www.pidgin.im/), [Beeper](https://www.beeper.com/), [matterbride](https://github.com/42wim/matterbridge) or [Ferdium](https://ferdium.org/) - Combine Web Apps / Chats
@@ -329,7 +330,6 @@
 * [Skype Exports for Humans](https://becausecurious.me/skype_exports_for_humans) - Export Skype Chats
 * [TikTok Chat Reader](https://tiktok-chat-reader.zerody.one/) - Live TikTok Chat Reader
 * [Urlebird](https://urlebird.com/) - Third-Party TikTok with better UI
-* [Jam](https://jam.systems/), [TeaSpeak](https://teaspeak.de/gb/), [TeamSpeak](https://www.teamspeak.com/) / [Warning](https://pastebin.com/479TbKq5), [Mumble](https://www.mumble.info/), [Zoiper](https://www.zoiper.com/) or [Google Voice](https://voice.google.com/) - Voice Chat 
 * [IMumble](https://www.imumble.nl/) or [Guildbit](https://guildbit.com/) - Voice Chat Servers
 * [DJ3D](https://dj3d.io/), [Gather](https://gather.town/) - Virtual World Server
 * [WebcamTests](https://webcamtests.com/) - Test your Webcam
