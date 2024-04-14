@@ -618,7 +618,7 @@
 * 🌐 **[Android Emulators](https://emulation.gametechwiki.com/index.php/Android_emulators)** - Android Emulator Index
 * 🌐 **[Emulators on Android](https://emulation.gametechwiki.com/index.php/Emulators_on_Android)** - Emulators on Android
 * ⭐ **[Termux](https://termux.com/)**, [Limbo](https://github.com/limboemu/limbo) or [TermOne Plus](https://termoneplus.com/) - Windows Emulator on Android / Terminal Emulators / OS Environments
-* ⭐ **Termux Tools** - [YT-DL](https://github.com/OzakIOne/termux-youtube-dl), [2](https://github.com/khansaad1275/Termux-YTD) / [Video Downloader](https://github.com/AbirHasan2005/LR-YTDL) / [GUI](https://github.com/termux/termux-gui) / [ADB / Fastboot Tools](https://github.com/MasterDevX/Termux-ADB) / [Beautify](https://github.com/mayTermux/myTermux)
+* ⭐ **Termux Tools** - [YT-DL](https://github.com/OzakIOne/termux-youtube-dl), [2](https://github.com/khansaad1275/Termux-YTD) / [GUI](https://github.com/termux/termux-gui) / [ADB / Fastboot Tools](https://github.com/MasterDevX/Termux-ADB) / [Beautify](https://github.com/mayTermux/myTermux)
 * ⭐ **[WSABuilds](https://github.com/MustardChef/WSABuilds)** - Android Emulator on Windows / Windows Subsystem / Pre-built Binaries
 * ⭐ **[WayDroid](https://waydro.id/)** / **[GitHub](https://github.com/waydroid)**, [Redroid](https://github.com/remote-android/redroid-doc), [PostmarketOS](https://www.postmarketos.org/), [Ubuntu Touch](https://ubuntu-touch.io/get-ubuntu-touch), [Plasma Mobile](https://plasma-mobile.org/) or [Mobian](https://mobian-project.org/) - Android Emulator on Linux
 * ⭐ **[Android Studio Emulator](https://developer.android.com/studio/run/managing-avds#createavd)**
@@ -655,7 +655,7 @@
 * [tTorrent](https://ttorrent.org/) - [Screenshot](https://i.ibb.co/NZB2Yc4/21bfeb72049e.png)
 * [Flud](https://play.google.com/store/apps/details?id=com.delphicoder.flud) - [Screenshot](https://i.ibb.co/z6GhkHc/bb30c0fd5553.png)
 * [BiglyBT](https://android.biglybt.com/) - [Screenshot](https://i.ibb.co/6W9TXG1/074a0e98aa52.png) 
-* [Trireme](https://github.com/teal77/trireme) - Deluge Clients
+* [Trireme](https://github.com/teal77/trireme) - Deluge Client
 * [Transdroid](https://www.transdroid.org) - Manage BitTorrent Clients / [Github](https://github.com/erickok/transdroid) / [F-Droid](https://f-droid.org/packages/org.transdroid.full/)
 * [nzb360](https://play.google.com/store/apps/details?id=com.kevinforeman.nzb360) - NZB / Torrent Manager 
 * [Meoko](https://play.google.com/store/apps/details?id=com.app.meoko) - Anime Torrent Search
