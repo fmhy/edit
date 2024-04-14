@@ -456,7 +456,7 @@
 * [FreeWebNovel](https://freewebnovel.com/)
 * [NovelsOnline](https://novelsonline.net/)
 * [EnglishNovelsOnline](https://englishnovelonline.com/)
-* [ReadLightNovel](https://readlightnovel.app/)
+* [ReadLiteNovel](https://readlitenovel.com/)
 * [AllNovel](https://allnovel.org)
 * [MyBoxNovel](https://myboxnovel.com/)
 * [MTLReader](https://mtlreader.com/)
