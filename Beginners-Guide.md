@@ -34,7 +34,7 @@ No, don't do that. Windows Defender is more than enough to keep you safe, but if
 !!!warning Stay away from Avast, Norton, and McAfee, as these are "bloatware" and generally unsafe software.
 
  > How can I bypass a paywalled article?
-Use [this](https://bitbucket.org/magnolia1234/bypass-paywalls-firefox-clean/src/master/) / [2](https://gitlab.com/magnolia1234/bypass-paywalls-chrome-clean) to read the article easily. 
+Use [this](https://twitter.com/Magnolia1234B/status/1779050596181438791) / [Fork](https://gitlab.com/stefano.rovelli.1989/bypass-paywalls-clean-filters) to read the article easily.
 
 > How can I download an image from *insert stock image site*?
  You can use [this downloader](https://downloader.la/), and if it doesn't work you can find other stock image downloaders [here](https://fmhy.net/img-tools#stock-photos).
