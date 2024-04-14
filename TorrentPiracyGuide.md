@@ -10,7 +10,7 @@
 
 # ► Torrent Clients
 
-**Warning** - Make sure you [BIND](https://redd.it/ssy8vv) your VPN to your client to avoid ISP letters.
+* **Warning** - Make sure you [BIND](https://redd.it/ssy8vv) your VPN to your client to avoid ISP letters.
 
 ***
 
@@ -44,7 +44,7 @@
 
 * 🌐 **[QBT Plugins](https://github.com/qbittorrent/search-plugins##search-plugins)** - Plugins Index
 * 🌐 **[QBT Themes](https://github.com/jagannatharjun/qbt-theme)**  - Themes Index
-* [qBitMF](https://github.com/qBitMF/qBitMF) - Multi-Connection Tool / [Screenshot](https://i.ibb.co/pj9LrT1/6623c6638f4a.png)
+* [qBitMF](https://github.com/qBitMF/qBitMF) - Multi-Connection Tool 
 * [Web QBT](https://github.com/sobuj53/web_qbittorrent) or [VueTorrent](https://github.com/WDaan/VueTorrent) - Web Clients
 * [QBT Manager](https://github.com/Yash-Garg/qBittorrent-Manager) or [qBitController](https://github.com/Bartuzen/qBitController) - Mobile Controllers
 * [Docker QBT](https://github.com/linuxserver/docker-qbittorrent) or [QBT VPN](https://github.com/binhex/arch-qbittorrentvpn) - Docker Builds
