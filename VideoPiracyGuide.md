@@ -13,7 +13,7 @@
 * ⭐ **[movie-web](https://movie-web.github.io/docs/instances)**, [2](https://erynith.github.io/movie-web-instances/) - Movies / TV / Anime / 1080p
 * ⭐ **[FMovies](https://fmoviesz.to/)** - Movies / TV / Anime / 1080p / [Mirrors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_fmovies_clones)
 * ⭐ **[Binged](https://binged.live/)**, [2](https://binged.in/), [3](https://binge.lol/) - Movies / TV / Anime / 1080p / [Discord](https://discord.gg/f2SvhcKCKS)
-* ⭐ **[NunFlix](https://nunflix.com/)** - Movies / TV / Anime / 1080p
+* ⭐ **[NunFlix](https://nunflix.com/)** - Movies / TV / Anime / 1080p / [Discord](https://discord.gg/CXVyfhgn26)
 * ⭐ **[NetFilm](https://netfilm.app/)** - Movies / TV / Anime / 1080p / [Discord](https://discord.gg/g37Fc8u4ks)
 * ⭐ **[PrimeFlix](https://primeflix-web.vercel.app/)** - Movies / TV / Anime / 1080p / [Discord](https://discord.gg/GbW6gzAKgc)
 * ⭐ **[Watching Zone](https://www.watching.zone/)** - Movies / TV / Anime / 1080p
@@ -406,8 +406,8 @@
 
 ## ▷ Live Sports
 
-* ⭐ **[Sportsurge](https://sportsurge.net/)**- Sports / Stream Locator
 * ⭐ **[Streamed](https://streamed.su/)** - Sports
+* ⭐ **[Sportsurge](https://sportsurge.net/)**- Sports / Stream Aggregator
 * ⭐ **[RBTV](https://www.rbtv77.com/)**, [2](https://www.rbtv77.tattoo/), [3](https://www.rbtv77.website/) - Sports
 * ⭐ **[Sports Plus](https://en12.sportplus.live/)** - Sports
 * ⭐ **[VIP Box Sports](https://www.viprow.nu/)**, [2](https://vipleague.im/), [3](https://www.vipleague.la/), [4](https://www.vipbox.lc/) - Sports / [More Links](https://rentry.org/894dq2c9)
