@@ -221,6 +221,7 @@
 * ⭐ **[Raddle](https://raddle.me/)** / [.onion](http://c32zjeghcp5tj3kb72pltz56piei66drc63vkhn5yixiyk4cmerrjtid.onion/) - Reddit Alt
 * ⭐ **[Saidit](https://saidit.net/)** - Reddit Alt
 * [/r/RedditAlternatives](https://reddit.com/r/RedditAlternatives) - Find Reddit Alternatives
+* [sub.rehab](https://sub.rehab/) - Reddit Communities on Alternative Platforms
 * [tildes](https://tildes.net/) - Reddit Alt
 * [Upgoat](https://www.upgoat.net/) - Reddit Alt
 * [Scored](https://communities.win/) - Reddit Alt
@@ -559,6 +560,7 @@
 
 * ⭐ **[Trends24](https://trends24.in/)**, [Sotwe](https://www.sotwe.com/) or [Hashtagify](https://hashtagify.me/) - Trending Hashtags Trackers
 * ⭐ **[/r/Twitter](https://reddit.com/r/Twitter)** - Twitter Subreddit
+* [Bluesky](https://bsky.app/) - Federated Twitter Alt / [App Directory](https://docs.bsky.app/showcase)
 * [TumblThree](https://tumblthreeapp.github.io/TumblThree/) or [Thread Safe](https://github.com/dkaslovsky/thread-safe) - Twitter / Tumblr Backup Tools
 * [Typefully](https://typefully.com/) - Schedule Tweets
 * [Chirr App](https://getchirrapp.com/) - Turn Articles into Twitter Threads / [Firefox](https://addons.mozilla.org/en-US/firefox/addon/chirr-app/) / [Chrome](https://chromewebstore.google.com/detail/chirr-app/cmbconaimdngicdnbpjnjocbpkdpmfkg)
@@ -635,33 +637,41 @@
 
 # ► Fediverse Tools
 
-* 🌐 **[Awesome Fediverse](https://github.com/emilebosch/awesome-fediverse)** - Fediverse Resources
-* ⭐ **[Fediverse.party](https://fediverse.party/)**, [sub.rehab](https://sub.rehab/) or [Fediverse Observer](https://fediverse.observer/) - Fediverse Instance Search
-* ⭐ **[Mastodon](https://joinmastodon.org/)** - Fediverse Twitter Alt
-* ⭐ **[Lemmy](https://join-lemmy.org/)** / [Stats](https://the-federation.info/), [2](https://fedidb.org/) - Federated Reddit Alternative
-* ⭐ **[Lemmy Explorer](https://lemmyverse.net/)**, [Community-Browser](https://browse.feddit.de/) or [Awesome Instances](https://github.com/maltfield/awesome-lemmy-instances) - Lemmy Instances
-* ⭐ **[Divisions by zero](https://lemmy.dbzer0.com/)** - Piracy Focused Instance
-* ⭐ **[Pleroma](https://pleroma.social/)** - Fediverse Twitter Alt
-* ⭐ **[Pixelfed](https://pixelfed.org/)** - Fediverse Instagram Alt
-* ⭐ **[diaspora*](https://diasporafoundation.org/)**, [2](https://diasp.org/) - Fediverse Twitter Alt
-* [Misskey](https://misskey-hub.net/en/) - Fediverse Twitter Alt
-* [Friendica](https://friendi.ca/) - Fediverse Twitter Alt
-* [Hubzilla](https://zotlabs.org/page/hubzilla/hubzilla-project) - Fediverse Twitter Alt
-* [GoToSocial](https://docs.gotosocial.org/en/latest/) - Fediverse Twitter Alt
-* [BlueSky](https://bsky.social/about) - Fediverse Twitter Alt / [Multi-Column](https://deck.blue/) / [Real-Time](https://skyfeed.app/)
-* [Fedi Tips](https://fedi.tips/) - Fediverse Guide
-* [Fediverser](https://portal.alien.top/) - Reddit to Lemmy Community Auto-Sync
-* [LemmyTools](https://github.com/howdy-tsc/LemmyTools) - Lemmy Improvement Extension
+* 🌐 **[Fediverse.Party](https://fediverse.party/)** - Fediverse Software Index
+* ⭐ **[Fediverse Observer](https://fediverse.observer/)** - Fediverse Instances
+* [FediDB](https://fedidb.org/) or [The Federation](https://the-federation.info/) - Network Statistics
+* [Fedi.Tips](https://fedi.tips/) - Fediverse Guide
+* [Fedi.Garden](https://fedi.garden/) - Curated User Directory
+* [Fediverse People Directory](https://fediverse.info/explore/people) - Self-Submitted User Directory
+* [FediverseRedirect](https://github.com/zacharee/MastodonRedirect) - Frontend Redirect
+* [Bridgy Fed](https://fed.brid.gy/) - Fediverse Bridge
+* [The Fediverse Report](https://fediversereport.com/) - Fediverse News
+* [FediBuzz](https://fedi.buzz/in/en) - Fediverse Trends
+* [Sepia Search](https://sepiasearch.org/) - PeerTube Search
 
 ***
 
 ## ▷ Mastodon Tools
 
-* 🌐 **[Mastodon Instances](https://joinmastodon.org/apps)**, [instances.social](https://instances.social/) or [Mastodon Near Me](http://mastodon-near.me/) - Mastodon Instance Indexes
-* [Tuba](https://tuba.geopjr.dev/) or [Kaiteki](https://kaiteki.app/) - Mastodon Viewers
-* [Mastodon Scheduler](https://scheduler.mastodon.tools/) - Schedule Sending Posts
-* [MastoVue](https://mastovue.glitch.me/) - View Public Timelines / Hashtags
+* ⭐ **[instances.social](https://instances.social/)** or [Mastodon Near Me](http://mastodon-near.me/) - Mastodon Instances
+* ⭐ **[Mastodon Apps](https://joinmastodon.org/apps)** - Mastodon Client List
+* [MastoVue](https://mastovue.glitch.me/) or [FediWall](https://fediwall.social/) - View Public Timelines / Hashtags
+* [Followgraph](https://followgraph.vercel.app/) or [StreetPass](https://streetpass.social/) - Find Mastodon Users
+* [western.social](https://western.social/) - User Search
+* [Tootfinder](https://www.tootfinder.ch/) - Opt-In Full Text Search
+* [Mastodon Scheduler](https://scheduler.mastodon.tools/) or [FediPlan](https://plan.fedilab.app/) - Schedule Posts
+* [Mastodon Embed Timeline](https://gitlab.com/idotj/mastodon-embed-timeline) or [Mastofeed](https://mastofeed.com/) - Embedded Mastodon Feeds
 * [Cheap Bots, Toot Sweet!](https://cheapbotstootsweet.com/) - Create Bots
+
+***
+
+## ▷ Lemmy Tools
+
+* ⭐ **[Lemmy Explorer](https://lemmyverse.net/)**, [Feddit Community Browser](https://browse.feddit.de/) or [Awesome Lemmy Instances](https://github.com/maltfield/awesome-lemmy-instances) - Lemmy Instances
+* ⭐ **[Lemmy Apps](https://join-lemmy.org/apps)** - Lemmy Client List
+* ⭐ **[Divisions by zero](https://lemmy.dbzer0.com/)** - Piracy Focused Instance
+* [Fediverser](https://portal.alien.top/) - Reddit to Lemmy Community Auto-Sync
+* [LemmyTools](https://github.com/howdy-tsc/LemmyTools) - Lemmy Improvement Extension
 
 ***
 
