@@ -454,7 +454,7 @@
 
 ## ▷ Mental Health
 
-* 🌐 **[Awesome Mental Health](https://github.com/dreamingechoes/awesome-mental-health)** or [mentalillnessmouse](https://mentalillnessmouse.wordpress.com/helpfulresources/) - Mental Health Resources
+* 🌐 **[Awesome Mental Health](https://dreamingechoes.github.io/awesome-mental-health)** or [mentalillnessmouse](https://mentalillnessmouse.wordpress.com/helpfulresources/) - Mental Health Resources
 * ⭐ **[The Integral Guide to Well-Being](https://integralguide.com/)** - Mental Health Guide
 * [Nomie](https://v5.nomie.app/), [Koduko](https://github.com/Mazahir26/koduko) or [Respawn](https://respawn.pro/) - Habit / Mood Trackers
 * [You feel like shit.](https://philome.la/jace_harr/you-feel-like-shit-an-interactive-self-care-guide/play/index.html) - Interactive Self-Care Guide
@@ -464,7 +464,7 @@
 * [Zen Habits](https://zenhabits.net/) - Develop Zen Habits
 * [Medito](https://github.com/meditohq/medito-app) or [Heartfulness](https://www.heartfulnessapp.org/) - Meditation App
 * [Balance](https://balance.dvy.io/) - Challenge Anxious Thoughts w/ AI
-* [Plees Tracker](https://github.com/vmiklos/plees-tracker) - Sleep Tracker
+* [Plees Tracker](https://vmiklos.hu/plees-tracker/) - Sleep Tracker
 
 ***
 
@@ -730,7 +730,7 @@
 ## ▷ Startup
 
 * 🌐 **[Awesome Startup](https://github.com/Ibexoft/awesome-startup-tools-list)** or [Tools for Startups](https://docs.google.com/spreadsheets/d/1s6-hGBh0_tqa-jd23fsdYuwbmS8UPmElPqaH-Rnoa_A/htmlview) - Startup Resources Indexes
-* 🌐 **[moreThanFAANGM](https://github.com/Kaustubh-Natuskar/moreThanFAANGM)** - Good Companies / Startups Index
+* 🌐 **[moreThanFAANGM](https://kaustubh-natuskar.github.io/moreThanFAANGM/)** - Good Companies / Startups Index
 * [BetaList](https://betalist.com/) - Get Startup Ideas
 * [TheGrowthList](https://www.thegrowthlist.co/) - Startup Tips
 * [Business Generator](https://business-generator.vercel.app/) -  Generate Business Ideas
@@ -971,7 +971,7 @@
 
 * 🌐 **[ProductivePrivacy](https://productiveprivacy.com/)** - Privacy-Focused Productivity Apps
 * ↪️ **[To-Do Lists](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools#wiki_.25B7_to_do_lists)**
-* ⭐ **[Super-Productivity](https://github.com/johannesjo/super-productivity)** - Time Tacker / Productivity App / To-Do List
+* ⭐ **[Super-Productivity](http://super-productivity.com)** - Time Tacker / Productivity App / To-Do List
 * ⭐ **[Habitica](https://habitica.com/)** - Achievement Style Productivity App
 * ⭐ **[Timeblocking](https://timeblocking.atomiclife.app/)** - Online Atomic Time Blocking 
 * [Cold Turkey](https://getcoldturkey.com/) - Site Blocker / Productivity App / [Premium (use python)](https://rentry.co/FMHYBase64#cold-turkey-premium)
@@ -1003,7 +1003,7 @@
 * [Pick Time](https://pick-time.io/) - Easily Schedule Times with Friends
 * [Tweek](https://tweek.so/) - Calendar
 * [TinyMonth](https://tinymonth.com/) - Calendar
-* [TOAST UI Calendar](https://github.com/nhn/tui.calendar) - Calendar
+* [TOAST UI Calendar](http://ui.toast.com/tui-calendar) - Calendar
 * [Gantt](https://github.com/neuronetio/gantt-schedule-timeline-calendar) - Calendar
 * [Morgen](https://www.morgen.so/) - Calendar
 * [Office Holidays](https://www.officeholidays.com/) or [Forekast](https://forekast.com/) - World Event Calendars
