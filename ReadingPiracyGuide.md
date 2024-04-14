@@ -412,7 +412,7 @@
 
 ## ▷ Manhua / Manhwa
 
-Note - Keep in mind that sites in the manga section above also have manhua/manhwa. Comick and Botato for example both have official TLs.
+* **Note** - Keep in mind that sites in the manga section above also have manhua/manhwa. Comick and Botato for example both have official TLs.
 
 ***
 
@@ -420,20 +420,11 @@ Note - Keep in mind that sites in the manga section above also have manhua/manhw
 * ⭐ **[Toonily](https://toonily.com/)**
 * [Like Manga](https://likemanga.io/)
 * [Wuxia World](https://wuxiaworld.site/)
-* [Manhua Plus](https://manhuaplus.com/)
-* [Zinmanga](https://zinmanga.com/)
 * [Manga SY](https://www.mangasy.com/)
-* [Mangatoon](https://mangatoon.mobi/)
-* [MangaDig](https://mangadig.com/)
-* [Novelmic](https://novelmic.com)
 * [Elarc Toon](https://elarctoon.com/)
-* [Coffee Manga](https://coffeemanga.io/)
-* [Manga347](https://manga347.com/)
 * [ZinManga](https://zinmanga.io/)
-* [Toomics](https://toomics.com/)
 * [MangaKomi](https://mangakomi.io/)
 * [MangaWeebs](https://mangaweebs.in/)
-* [Dragon Tea](https://dragontea.ink/)
 * [Manhuafast](https://manhuafast.com/)
 * [Manhwasco](https://manhwasco.net/)
 * [ManhuaScan](https://manhuascan.io/)
@@ -477,7 +468,6 @@ Note - Keep in mind that sites in the manga section above also have manhua/manhw
 * [EnglishNovelsOnline](https://englishnovelonline.com/)
 * [ReadLightNovel](https://readlightnovel.app/)
 * [AllNovel](https://allnovel.org)
-* [NovelTranslate](https://noveltranslate.com/)
 * [MyBoxNovel](https://myboxnovel.com/)
 * [MTLReader](https://mtlreader.com/)
 * [Foxaholic](https://www.foxaholic.com/)
@@ -787,7 +777,6 @@ Note - Keep in mind that sites in the manga section above also have manhua/manhw
 * [SSRN](https://www.ssrn.com/) - Early Stage Research Papers
 * [CensorBib](https://censorbib.nymity.ch/) or [censoredplanet.org](https://censoredplanet.org/) - Internet Censorship Research Papers
 * [Connected Papers](https://www.connectedpapers.com/) or [LitMaps](https://app.litmaps.co/) - Find Connected Academic Papers
-* [TTS Paper](https://github.com/coqui-ai/TTS-papers) - Text to Speech Papers
 
 ***
 
@@ -960,7 +949,6 @@ Note - Keep in mind that sites in the manga section above also have manhua/manhw
 * [Icecream eBook Reader](https://icecreamapps.com/Ebook-Reader/) - Ebook Reader / PC
 * [Okular](https://okular.kde.org/) - PDF / Linux / PC / Mac
 * [Foliate](https://johnfactotum.github.io/foliate/) - Ebook Reader / Linux
-* [Buka](https://github.com/oguzhaninan/Buka) - Ebook Reader / Linux
 * [Adobe Acrobat](https://acrobat.adobe.com/us/en/acrobat/pdf-reader.html) - PDF / PC
 * [qPDFview](https://launchpad.net/qpdfview) - PDF / PC
 * [mupdf](https://mupdf.com/) - PDF / PC
@@ -979,7 +967,6 @@ Note - Keep in mind that sites in the manga section above also have manhua/manhw
 * [Kindle to PDF](https://redd.it/bm837l) - Kindle to PDF Conversion Guide
 * [Amazon Kindle EPUB Fix]( https://kindle-epub-fix.netlify.app/) - Fix EPUB to work with Send to Kindle
 * [Ebook Sender](https://telegram.me/to_kindle_bot), [SendEpubToKindle](https://www.sendepubtokindle.com/), [Kobo](https://send.djazz.se/) / [GitHub](https://github.com/daniel-j/send2ereader) or [ebook_to_kindle_bot](https://t.me/ebook_to_kindle_bot) - Send Ebooks to Kindle
-* [Kindle Server](https://github.com/edgartaor/kindleServer) - Send HTML to Kindle
 * [md2mobi](https://md2mobi.lapw.at/) - HTML to Kindle Converter
 * [Kindle Software Jailbreak](https://www.mobileread.com/forums/showthread.php?t=346037&highlight=Jailbreak) - Jailbreak Kindle
 * [KoboCloud](https://github.com/fsantini/KoboCloud) - Sync Kobo to Cloud Services
