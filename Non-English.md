@@ -1712,7 +1712,7 @@
 # ► Vietnamese / Việt
 
 * ⭐ **[Voz.vn](https://voz.vn/)**, **[TECHRUM.VN](https://www.techrum.vn/)** or **[WhiteHat.vn](https://whitehat.vn/)** - Tech Forum
-* **[J2team](https://www.facebook.com/groups/j2team.community)** - Tech Community
+* ⭐ **[J2team](https://www.facebook.com/groups/j2team.community)** - Tech Community
 * [Quantrimang](https://quantrimang.com/), [Anonyviet](https://anonyviet.com/) - Tech News
 * [CocCoc](https://coccoc.com/search) - Search
 * [Speedtest](https://speedtest.vn/), [Vinahost](https://speedtest.vinahost.vn/) - Internet Speed Test
