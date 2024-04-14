@@ -472,6 +472,7 @@
 * ⭐ **[YouTube Advanced Search](https://playlists.at/youtube/search/)** - Search Engine
 * ⭐ **[Filmot](https://filmot.com/)** or [ytks](https://ytks.app/) - Search within YouTube Transcripts / [Firefox](https://addons.mozilla.org/en-US/firefox/addon/youtube-captions-search/) / [Chrome](https://chromewebstore.google.com/detail/youtube-captions-search/kimbeggjgnmckoikpckibeoaocafcpbg)
 * [YouTube Search Fixer Suite](https://addons.mozilla.org/en-US/firefox/addon/youtube-suite-search-fixer/) - Fix YouTube Search / Declutter Homepage
+* [Youtube Search Grid View](https://greasyfork.org/en/scripts/481422-youtube-search-results-in-grid-view) - View Results in Grid
 * [Channel Crawler](https://channelcrawler.com/eng) or [YT-FTS](https://github.com/NotJoeMartinez/yt-fts) - Channel Search Tools
 * [Comment Viewer](https://commentviewer.com/), [Hadzy](https://hadzy.com/), [YCS](https://chromewebstore.google.com/detail/ycs-youtube-comment-searc/pmfhcilikeembgbiadjiojgfgcfbcoaaen) or [YCF](https://ytcomment.kmcat.uk/) - YouTube Comment Search
 * [petittube](https://petittube.com/) - Find YouTube Videos with >100 Views
