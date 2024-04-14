@@ -195,7 +195,7 @@
 * [Supercartoons](https://www.supercartoons.net/)
 * [FunnierMoments](https://www.funniermoments.net/)
 * [b98](https://www.b98.tv/)
-* [South Park](https://www.southparkstudios.com/) - South Park Episodes / [Downloader](https://github.com/thepwrtank18/spdl)
+* [South Park](https://www.southparkstudios.com/) - South Park Episodes
 * [ToonamiAftermath](https://www.toonamiaftermath.com/) - Toonami Streams
 
 ***
@@ -634,13 +634,13 @@
 
 * 🌐 **[Autodownload Tools](https://redd.it/hbwnb2)** - List of Torrent Autodownload Tools / [Multi Installer](https://github.com/LordZeuss/arr-installer) / [Automation Scripts](https://github.com/RandomNinjaAtk/arr-scripts/)
 * ⭐ **[Stremio](https://www.stremio.com/)** / [Enhanced](https://github.com/REVENGE977/stremio-enhanced-community) - Torrent Streaming App
-* ⭐ **Stremio Tools** - [Guide](https://rentry.co/privatestremio) / [Addons](https://stremio-addons.netlify.app/) / [Downloader](https://github.com/BurningSands70/stremio-downloader) / [Watch Together](https://redd.it/cvmu80) / [ffmpeg Wrapper](https://github.com/streamio/streamio-ffmpeg) / [Simkl](https://simkl.com/apps/stremio/) / [Trakt](https://2ecbbd610840-trakt.baby-beamup.club/) / [Catalogs](https://up-next.dontwanttos.top/) / [Anime Catalogs](https://1fe84bc728af-stremio-anime-catalogs.baby-beamup.club/configure)
+* ⭐ **Stremio Tools** - [Guide](https://rentry.co/privatestremio) / [Addons](https://stremio-addons.netlify.app/) / [Watch Together](https://redd.it/cvmu80) / [ffmpeg Wrapper](https://github.com/streamio/streamio-ffmpeg) / [Simkl](https://simkl.com/apps/stremio/) / [Trakt](https://2ecbbd610840-trakt.baby-beamup.club/) / [Catalogs](https://up-next.dontwanttos.top/) / [Anime Catalogs](https://1fe84bc728af-stremio-anime-catalogs.baby-beamup.club/configure)
 * ⭐ **[Prowlarr](https://github.com/Prowlarr/Prowlarr)**, **[Jackett](https://github.com/Jackett/Jackett)**, [nefarious](https://lardbit.github.io/nefarious/), [Traktarr](https://github.com/l3uddz/traktarr), [FlexGet](https://flexget.com/), [/r/softwarr](https://reddit.com/r/softwarr) or [Watcher](https://nosmokingbandit.github.io/) - Autodownload Torrents
 * ⭐ **[Radarr](https://radarr.video/)** - Autodownload Movie Torrents / [GitHub](https://github.com/Radarr/Radarr)
 * ⭐ **[Sonarr](https://sonarr.tv/)** / [GitHub](https://github.com/Sonarr/Sonarr), [SickGear](https://github.com/SickGear/SickGear), [SiCKRAGE](https://github.com/SiCKRAGE/SiCKRAGE), [DuckieTV](https://schizoduckie.github.io/DuckieTV/) or [Medusa](https://pymedusa.com/) - Autodownload TV Torrents / [Guide](https://wiki.servarr.com/)
 * ⭐ **[Requestrr](https://github.com/thomst08/requestrr)** or [Doplarr](https://github.com/kiranshila/Doplarr) - Discord Torrent Bots
 * [Powder](https://powder.media/) - Torrent Streaming App
-* [Popcorn Time](https://github.com/popcorn-official/popcorn-desktop/) - Torrent Streaming App
+* [Popcorn Time](https://popcorn-time.site/) - Torrent Streaming App / [GitHub](https://github.com/popcorn-official/popcorn-desktop/)
 * [Ace Stream](https://acestream.org/) - Torrent Streaming App / [Channels](https://acestreamid.com/), [2](https://acestreamsearch.net/en/) / [Modded APK](https://rentry.co/FMHYBase64#modded-acestream-apk) / [Docker Image](https://github.com/magnetikonline/docker-acestream-server) / [Mpv Script](https://github.com/Digitalone1/mpv-acestream)
 * [WebTorrent](https://webtorrent.io/) - Torrent Streaming App
 * [NotFlix](https://github.com/Bugswriter/notflix) - Torrent Streaming Script
