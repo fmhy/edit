@@ -126,7 +126,7 @@
 * 🌐 **[Awesome Educational Games](https://github.com/yrgo/awesome-educational-games)** - Educational Games Index
 * ↪️ **[Ebook Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/reading#wiki_.25BA_educational_books)**
 * ↪️ **[Typing Tests / Games](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools#wiki_.25B7_typing_lessons)**
-* ⭐ **[PhET](https://phet.colorado.edu/)**, [Oak National Academy](https://teachers.thenational.academy/), [Academo](https://academo.org/) or [Runestone Interactive](https://runestone.academy/) - Interactive Lessons
+* ⭐ **[PhET](https://phet.colorado.edu/)**, [Oak National Academy](https://teachers.thenational.academy/), [Cognito](https://www.cognitoedu.org/), [Academo](https://academo.org/) or [Runestone Interactive](https://runestone.academy/) - Interactive Lessons
 * ⭐ **[Fact Check](https://toolbox.google.com/factcheck/)** - Quick Fact Check
 * ⭐ **[/r/coolguides](https://reddit.com/r/coolguides/)**, [info.stylee32](https://info.stylee32.net/) or [coolguid.es](https://coolguid.es/) - Guides & Tutorials
 * ⭐ **[/r/educationalgifs](https://reddit.com/r/educationalgifs)** - Learn With GIFs
@@ -198,7 +198,7 @@
 ## ▷ Philosophy
 
 * ⭐ **[Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/index.html)**, [IEP](https://iep.utm.edu/) or [nLab](https://ncatlab.org/) - Philosophy Encyclopedias / [Search](https://www.visualizingsep.com/)
-* [Philosophy Bro](https://www.philosophybro.com/), [Reasoned](https://www.reasoned.org/dir/) or [PhilosophyBasics](https://www.philosophybasics.com/) - Learn about Philosophy
+* [Philosophy Bro](https://www.philosophybro.com/), [Reasoned](https://www.reasoned.org/dir/), [TheDailyIdea](https://thedailyidea.org/) or [PhilosophyBasics](https://www.philosophybasics.com/) - Philosophy Resources / Learning
 * [Untools](https://untools.co/) - Better Thinking Tools
 * [Brainkit](https://www.braink.it/) - Learn Helpful Principles
 * [LessWrong](https://www.lesswrong.com/) - Develop Rationality / [Frontend](https://www.greaterwrong.com/)
@@ -306,11 +306,13 @@
 ## ▷ Geography / Datasets
 
 * 🌐 **[Awesome Datasets](https://github.com/awesomedata/awesome-public-datasets)** - Public Datasets
+* ↪️ **[Historical / Modern Maps](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25BA_maps)** - Map Resources
 * ⭐ **[Worldometer](https://www.worldometers.info/)**, [Internet World Stats](https://www.internetworldstats.com/), [WorldBank](https://databank.worldbank.org/), [US Census](https://data.census.gov/), [DataUSA](https://datausa.io/), [Ozymandias](https://population.ozymandias.so/) or [UN Data](https://data.un.org/) - World Data & Statistics
 * ⭐ **[Our World in Data](https://ourworldindata.org/)** - World Problem Database
 * ⭐ **[The Atlas of Economic Complexity](https://atlas.cid.harvard.edu/)** - Global Economic Growth Data
 * ⭐ **[Soar](https://soar.earth/)** - Digital Atlas
 * [LizardPoint](https://lizardpoint.com/) - Geography Quizzes
+* [AntipodesMap](https://www.antipodesmap.com/) - Find Antipodes
 * [The True Size](https://thetruesize.com/) - Compare Country Size
 * [Location Data](https://locationdata.us/) or [NationsEncyclopedia](https://www.nationsencyclopedia.com/) - Location / Population Data
 * [Global Consciousness Project](https://gcpdot.com/) - Real-Time Global Consciousness Data
@@ -326,6 +328,7 @@
 * [Statista](https://www.statista.com/) - Market Statistics
 * [Netblocks](https://netblocks.org/cost/) - Find Impact of Internet Shutdown on Economy
 * [LittleSis](https://littlesis.org/) - Business / Government Connections Data
+* [Rulers.org](https://rulers.org/) - World Heads Of State & Government Database
 * [World Births and Deaths](https://worldbirthsanddeaths.com/) - World Birth / Death Rates Visualization
 * [MalaCards](https://www.malacards.org/) - Human Disease Database
 * [DataUNODC](https://dataunodc.un.org/) - Drug / Crime Statistics
@@ -333,6 +336,7 @@
 * [Incarceration in Real Numbers](https://mkorostoff.github.io/incarceration-in-real-numbers/) - Incarceration Visualization / Facts
 * [Expatistan](https://www.expatistan.com/) - Cost of Living Calculator
 * [Pixel Wealth](https://mkorostoff.github.io/1-pixel-wealth/) - Wealth Inequality Visualization
+* [WorldStandards](https://www.worldstandards.eu/) - World Electricity and Driving Standards 
 * [Climate Data](https://climate-data.org/) or [Climate Explorer](https://crt-climate-explorer.nemac.org/) - Climate Change Data
 * [En-ROADS](https://en-roads.climateinteractive.org/scenario.html) - Climate Solutions Simulator
 * [Global Volcanism Program](https://volcano.si.edu/) - Volcano Information Database
@@ -340,8 +344,13 @@
 * [Nextstrain](https://nextstrain.org/) - Pathogen Evolution Tracking
 * [Epidemic Calculator](https://gabgoh.github.io/COVID/index.html) - COVID Data
 * [iCivics](https://www.icivics.org/games) - U.S. Law Learning Games
+* [Left vs. Right Side Driving Map](https://somerandomstuff1.files.wordpress.com/2019/02/left-or-right-side.png) - Left vs. Right Side Driving by Country
+* [Speed Limits Map](https://somerandomstuff1.files.wordpress.com/2019/02/highest-speed-limits-around-the-world.png) - Max Speed Limits
+* [License Plates Map](https://i.redd.it/ue2r7cdb2s861.png) - License Plate Map
+* [European License Plate Map](https://i.redd.it/wcazzhjir8941.png) - European License Plate Map
 * [Symbols](https://www.symbols.com/) - Symbol Database
 * [Flag Guesser](https://flagguesser.com/) - Flag Quizzes
+* [Flags of the World](https://i.redd.it/lxtu47hf5ll51.jpg) - Worldwide Flag Map
 * [Flag Stories](https://flagstories.co/) - Flag Design Breakdowns
 * [Hate on Display](https://www.adl.org/hate-symbols) - Hate Symbol Database
 
@@ -606,6 +615,7 @@
 * ↪️ **[Language Learning Networks](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_language_learning_networks)**
 * ↪️ **[Languages & Linguistics](https://rentry.co/FMHYBase64#languages-linguistics)**
 * ↪️ **[Translation Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools#wiki_.25B7_translators)**
+* ⭐ **[Duolingo](https://rentry.co/FMHYBase64#duolingo-guide)** / [Tips](https://duome.eu/tips), [Memrise](https://rentry.co/FMHYBase64#memrise), [LingoDeer](https://www.lingodeer.com/) or [Busuu](https://www.busuu.com/en/) - Language Learning Lessons
 * ⭐ **[Language Transfer](https://www.languagetransfer.org/)** - Language Learning Lectures
 * ⭐ **[Language Reactor](https://www.languagereactor.com/)** - Learn Languages via Media
 * ⭐ **[PolyReads](https://polyreads.com/)** - Learn Languages via Reading
@@ -615,8 +625,6 @@
 * [HelloTalk](https://www.hellotalk.com/) - Learn Languages via AI Conversation
 * [Languagelearning.site](https://languagelearning.site/) - Language Learning Torrents
 * [refold.la](https://refold.la/) - Language Learning Roadmap
-* [Memrise](https://www.memrise.com/), [LingoDeer](https://www.lingodeer.com/) or [Busuu](https://www.busuu.com/en/) - Language Learning Lessons
-* [Duolingo](https://www.duolingo.com/) - Language Learning Lessons / [Guide](https://rentry.co/FMHYBase64#duolingo-guide), [2](https://duome.eu/tips)
 * [Language Drops](https://languagedrops.com/) - Language Learning App / [Premium](https://rentry.co/FMHYBase64#language-drops-premium)
 * [10,000 Sentences](https://github.com/tkrajina/10000sentences) - Language Learning App
 * [Yojik](https://fsi-languages.yojik.eu/index.html) - Language Learning Courses
@@ -735,15 +743,23 @@
 * [SpanishDict](https://www.spanishdict.com/) - Spanish Translation Dictionary
 * [The French Tutorial](http://www.frenchtutorial.com/) - French Learning Tutorials
 * [LCSpeakFrench](https://t.me/LCSpeakFrench) - Live French Lessons
+
+***
+
+## ▷ German
+
+* 🌐 **[German Resources](https://docs.google.com/document/d/1J5PJK0qStw2DHQHdRHuKIfq_bJrZkFarQVT7fkz13tg/edit#heading=h.biavq1413l4t)** - German Language Resources
+* ⭐ **[German Discord](https://discord.gg/german)** - German Learning Community
+* ⭐ **[DW German Course](https://learngerman.dw.com/en/learn-german/s-9528)** - German Learning Course
+* ⭐ **[VHS Lernportal](https://www.vhs-lernportal.de/)** - German Learning Course / [Mobile](https://play.google.com/store/apps/developer?id=Deutscher+Volkshochschul-Verband)
 * [Seedlang](https://seedlang.com/) - German Learning App
-* [Learn German](https://learngerman.dw.com/en/learn-german/s-9528) - German Learning Videos
-* [Linguee](https://www.linguee.de/) / [2](https://www.linguee.com/) or [Dict.cc](https://m.dict.cc/) - German Translation Dictionary
+* [Linguee](https://www.linguee.de/) / [2](https://www.linguee.com/) or [Dict.cc](https://m.dict.cc/) - German Translation Dictionaries
 
 ***
 
 ## ▷ South Asian
 
-* 🌐 **[Urdu Resource List](https://docs.google.com/document/d/1GRTK_E0YGybMNYZjFToM40sOHNkR1NJXc_dL8HW2Q_0/)** or [UrduNotes](https://urdunotes.com/) - Urdu Learning Resources
+* 🌐 **[Urdu Resources](https://docs.google.com/document/d/1GRTK_E0YGybMNYZjFToM40sOHNkR1NJXc_dL8HW2Q_0/)** or [UrduNotes](https://urdunotes.com/) - Urdu Learning Resources
 * 🌐 **[Learn Sanskrit](https://www.learnsanskrit.org/) or [Sanskrit Studio](https://sanskritstudio.wordpress.com/)** - Sanskrit Lessons and Tools
 * [South Asian Languages](https://discord.gg/TrdqTDdMba) - South Asian Language Learning
 * [Urdupod101](https://www.urdupod101.com/blog/2021/03/18/urdu-grammar-overview/) - Urdu Grammar Overview / [Video](https://youtu.be/X5J_kXigPWE)
@@ -857,7 +873,7 @@
 * ↪️ **[Encyclopedia Index](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_encyclopedias)** - Encyclopedia Sites / Tools
 * ⭐ **[NGrams](https://books.google.com/ngrams/)** or [Netspeak](https://netspeak.org/) - Word Usage Trackers
 * [Time Traveler](https://www.merriam-webster.com/time-traveler) - See when a word was first used in print
-* [EtymOnline](https://www.etymonline.com/) or [The Tower of Babel](https://starlingdb.org/) - Etymologies
+* [EtymOnline](https://www.etymonline.com/) - Etymologies
 * [Abbreviations](https://www.abbreviations.com/) - Abbreviations
 * [AcronymFinder](https://www.acronymfinder.com/) - Abbreviations / Acronyms
 * [Chat Words Dictionary](https://chatworddictionary.com/) - Chat Abbreviations

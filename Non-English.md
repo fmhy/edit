@@ -192,6 +192,7 @@
 * [Drama Wall](https://www.dramawall.net/) - Chinese / Movies / TV / Sub / Dub / 720p
 * [KokoTV](https://kokotv.me/) - Drama / Sub / Dub / 1080p
 * [Duboku](https://www.duboku.tv/) - TV / Cartoons / Sub / 1080p
+* [HKanime](https://www.hkanime.com/) - Anime / Sub / Dub / 1080p / [Discord](https://discord.com/invite/hkanimeshe-qu-566251281266638848) / [Telegram](https://t.me/+mQ5fWi_trVY2MmQ9) / VPN Required
 * [CC動漫](https://ccdm.cc/) - Anime / Sub / 1080p
 * [AGE Animation](https://www.agedm.org/) - Anime / Sub / 1080p
 * [xgcartoon](https://www.xgcartoon.com/) - Anime / Sub / Dub / 1080p
@@ -403,7 +404,7 @@
 * [TrustScam](https://trustscam.de/) - Website Security Analysis
 * [Metager](https://metager.de/) - Search Engine
 * [WiiDatabase](https://wiidatabase.de/) - Nintendo Homebrew
-* [F-Online](https://app.f-online.at/) - Driving License Learning App
+* [F-Online](https://app.f-online.at/) - Austrian Driving License Learning App
 * [Cashback Optimizer](https://kolateeprojects.gitlab.io/cashback_optimizer/) - Cashback Checker
 
 ## ▷ Downloading
@@ -557,7 +558,7 @@
 * [UncutHD](https://www.jadoocinema.com/) - Movies / TV / Sub / Dub / 1080p / [Telegram](https://t.me/+6Kx9qLtPyO80OGM1)
 * [9xflix](https://9xflix.team/) - Movies / TV / NSFW / Sub / Dub / 720p / [Telegram](https://t.me/ninexflix)
 * [EdithSeedbox](https://t.me/EdithSeedBox) - Movies / TV / Sub / Dub / 720p / [Login](https://pastebin.com/bQkQpee4)
-* [AnimeAcademy](https://animeacademy.in/) - Anime / Sub / Dub / 1080p / [Telegram](https://t.me/AnimeAcademyTeam)
+* [AnimeAcademy](https://animeacademy.in/) - Anime / Sub / Dub / 1080p
 * [Anilot.in](https://anilot.in/) - Anime / 1080p / [Telegram](https://t.me/Anilot_Anime)
 * [1xanime](https://www.1xanime.in/) - Anime / 1080p / [Telegram](https://t.me/onexanime2)
 * [Toonsouthindia](https://toonsouthindia.com/) - Anime / Cartoon / 1080p / [Telegram](https://telegram.me/+VQNviznAktwAxUv8)
@@ -1615,15 +1616,15 @@
 
 ## ▷ Downloading
 
-* [MP3 Indir](https://www.mp3indirdur.net/) - Music
-* [TurkceAltyazi](https://turkcealtyazi.org/index.php) - Subtitles
-* [TurkishAudioCenter](https://www.turkishaudiocenter.com) - Voiceovers
+* [MP3 İndir](https://www.mp3indirdur.net/) - Music
+* [Türkçe Altyazı](https://turkcealtyazi.org/index.php) - Subtitles
+* [Turkish Audio Center](https://www.turkishaudiocenter.com) - Voiceovers
 * [Shareses](https://shareses.com) - Voiceovers
-* [TurkceSesİndir](https://www.turkcesesindir.com/) - Voiceovers
+* [Türkce Ses İndir](https://www.turkcesesindir.com/) - Voiceovers
 * [DwForce](http://dwa-audio.blogspot.com/) - Voiceovers
 * [SinnerClown](https://sinnerclownceviri.com) - Game Localization / [Discord](https://discord.com/invite/nApvcT6Tt6)
-* [PixelSaga(Discord)](https://discord.gg/ZZER4w3Mmx) - Game Localization
-* [CalypsoÇeviri(Discord)](https://discord.gg/calypsoceviri) - Game Localization
+* [PixelSaga (Discord)](https://discord.gg/ZZER4w3Mmx) - Game Localization
+* [Calypso (Discord)](https://discord.gg/calypsoceviri) - Game Localization
 * [Hangar](https://www.hangarceviri.com) - Game Localization
 
 ## ▷ Streaming
@@ -1648,10 +1649,12 @@
 * [AR Dirilis Ertugrul](https://ardirilisertugrul.net/) - TV
 * [OsmanOnline.co](https://osmanonline.co.uk/) - TV
 * [KayiFamily](https://kayifamily.com/), [KayiFamilyTV](https://kayifamilytv.com) - TV / Documentaries
-* [TurkAnime](https://www.turkanime.co/) - Anime
+* [Anime Kalesi](https://www.animekalesi.com) - Anime Subtitles / Download
+* [Anime densetsu](https://www.animedensetsu.com) - Anime Download
+* [Türk Anime](https://www.turkanime.co/) - Anime
 * [Anizm](https://anizm.net/) - Anime
-* [TRanimeizle](https://www.tranimeizle.co) - Anime
-* [AnimeWho](https://animewho.com) - Anime
+* [TR Anime İzle](https://www.tranimeizle.co) - Anime
+* [Anime Who](https://animewho.com) - Anime
 
 
 ## ▷ Reading
@@ -1709,7 +1712,7 @@
 # ► Vietnamese / Việt
 
 * ⭐ **[Voz.vn](https://voz.vn/)**, **[TECHRUM.VN](https://www.techrum.vn/)** or **[WhiteHat.vn](https://whitehat.vn/)** - Tech Forum
-* **[J2team](https://www.facebook.com/groups/j2team.community)** - Tech Community
+* ⭐ **[J2team](https://www.facebook.com/groups/j2team.community)** - Tech Community
 * [Quantrimang](https://quantrimang.com/), [Anonyviet](https://anonyviet.com/) - Tech News
 * [CocCoc](https://coccoc.com/search) - Search
 * [Speedtest](https://speedtest.vn/), [Vinahost](https://speedtest.vinahost.vn/) - Internet Speed Test
@@ -1872,7 +1875,8 @@
 * [channelmyanmar](https://channelmyanmar.org) - Burmese / Movies / TV / Cartoons / 1080p / 4K
 * [lupiteam](https://lupiteam.net/) - Corsican / Manga
 * [BalkanDownload](https://balkandownload.org/) - Croatian / Download / Video / Audio / Games / Books / Comics
-* [WarezHR](https://www.warezhr.org/) - Croatian / Download / Video / Audio / Games / Books / Comics 
+* [WarezHR](https://www.warezhr.org/) - Croatian / Download / Video / Audio / Games / Books / Comics
+* [JockanTV](https://jockantv.com/) - Croatian Streaming / Dubbed Cartoons / Use Adblock
 * [DR.DK](https://www.dr.dk/) - Danish / Movies / TV / Live
 * [Lesics](https://youtube.com/@LesicsDE) - Danish / Engineering Courses
 * [Deildu](https://deildu.net/) - Icelandic / Torrents

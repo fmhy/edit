@@ -9,7 +9,7 @@
 * ⭐ **[Fileinfo](https://fileinfo.com/)**, [Filext](https://filext.com/) or [OpenMyFiles](https://www.openmyfiles.com/) - File Extension Libraries
 * ⭐ **[czkawka](https://github.com/qarmin/czkawka)** or [dupeGuru](https://dupeguru.voltaicideas.net/) - Duplicate File Finders
 * [horsicq](https://horsicq.github.io/) - File Tools / [GitHub](https://github.com/horsicq/)
-* [Beyond Compare](https://www.scootersoftware.com/) - File / Directory Comparison Tool / [Crack](https://rentry.co/FMHYBase64#beyond-compare-crack)
+* [Beyond Compare](https://www.scootersoftware.com/) - File / Directory Comparison Tool / [Pro](https://rentry.co/FMHYBase64#beyond-compare-crack)
 * [UnLock IT](https://emcosoftware.com/unlock-it/download), [Lock Hunter](https://lockhunter.com/) or [FileExile](https://sourceforge.net/projects/filexile/) - File Unlocker / Deleter
 * [File Juggler](https://www.filejuggler.com/) - Organize Files Automatically
 * [Magika](https://github.com/google/magika) - AI File Content Type Detector
@@ -44,6 +44,7 @@
 * ⭐ **[XDM](https://xtremedownloadmanager.com/)** - Download Manager / [GitHub](https://github.com/subhra74/xdm) 
 * ⭐ **[Motrix](https://www.motrix.app/)** - Download Manager / [Web Extensions](https://github.com/gautamkrishnar/motrix-webextension/) / [GitHub](https://github.com/agalwood/Motrix)
 * ⭐ **[GoSpeed](https://github.com/GopeedLab/gopeed)** - Download Manager
+* [aria2](https://aria2.github.io/) - Terminal Download Manager / [Screenshot](https://i.ibb.co/SmsxmW3/3e213c54b148.png) / [GitHub](https://github.com/aria2/aria2) / [Download Bot](https://github.com/gaowanliang/DownloadBot) / [GUI](https://github.com/persepolisdm/persepolis) / [Frontend](https://ariang.mayswind.net/) / [WebUI](https://github.com/ziahamza/webui-aria2) / [GUI](https://persepolisdm.github.io/)
 * [pyLoad](https://pyload.net/) - Lightweight Download Manager
 * [File Centipede](https://filecxx.com/) - Upload / Download Manager
 * [DownThemAll](https://www.downthemall.org/) or [Turbo Download Manager](https://add0n.com/turbo-download-manager-v2.html) / [GitHub](https://github.com/inbasic/turbo-download-manager-v2/) - Download Management Extensions
@@ -396,7 +397,7 @@
 * ⭐ **[RClone](https://rclone.org/)** - Cloud Storage Manager
 * ⭐ **RClone Tools** - [Guide](https://telegra.ph/Simple-rclone-usage-01-13) / [WebUI](https://github.com/rclone/rclone-webui-react), [2](https://github.com/MinorMole/RcloneBrowser-Portable) / [GUI](https://github.com/kapitainsky/RcloneBrowser) / [Colab](https://colab.research.google.com/github/szyha/RcloneLabArchive/blob/master/RcloneLab.ipynb) / [Telegram](https://t.me/rclonexbot) / [Transfer Tool](https://github.com/TheCaduceus/Multi-Cloud-Transfer-Tool)
 * ⭐ **[gclone](https://github.com/dogbutcat/gclone)**, [2](https://github.com/l3v11/gclone) - Cloud Storage Manager
-* ⭐ **gclone Tools** - [Guide](https://telegra.ph/Gclone-Guide-for-Windows-07-20) / [Telegram](https://github.com/wrenfairbank/telegram_gcloner) / [Bot](https://github.com/MsGsuite/CloneBot) / [Discord Bot](https://github.com/Rekulous/CloneCord-bot), [2](https://github.com/jsmsj/GcloneDiscordify) / [Colab](https://github.com/Rekulous/GCloneLab), [2](https://colab.research.google.com/github/Rekulous/GCloneLab/blob/main/GCloneLab.ipynb)
+* ⭐ **gclone Tools** - [Guide](https://telegra.ph/Gclone-Guide-for-Windows-07-20) / [Telegram](https://github.com/wrenfairbank/telegram_gcloner) / [Bot](https://github.com/MsGsuite/CloneBot) / [Discord Bot](https://github.com/Rekulous/CloneCord-bot), [2](https://github.com/jsmsj/GcloneDiscordify)
 * ⭐ **[Air Explorer](https://airexplorer.net/en/)** - Cloud Storage Manager
 * ⭐ **[RaiDrive](https://www.raidrive.com/)** - Cloud Storage Manager
 * ⭐ **[GDrive](https://drive.google.com/)** - 15GB Free / ~$3.25 for 1TB

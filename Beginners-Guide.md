@@ -34,7 +34,7 @@ No, don't do that. Windows Defender is more than enough to keep you safe, but if
 !!!warning Stay away from Avast, Norton, and McAfee, as these are "bloatware" and generally unsafe software.
 
  > How can I bypass a paywalled article?
-Use [this](https://bitbucket.org/magnolia1234/bypass-paywalls-firefox-clean/src/master/) / [2](https://gitlab.com/magnolia1234/bypass-paywalls-chrome-clean) to read the article easily. 
+Use [this](https://twitter.com/Magnolia1234B/status/1779050596181438791) / [Fork](https://gitlab.com/stefano.rovelli.1989/bypass-paywalls-clean-filters) to read the article easily.
 
 > How can I download an image from *insert stock image site*?
  You can use [this downloader](https://downloader.la/), and if it doesn't work you can find other stock image downloaders [here](https://fmhy.net/img-tools#stock-photos).
@@ -53,7 +53,6 @@ Use [this](https://bitbucket.org/magnolia1234/bypass-paywalls-firefox-clean/src/
 **[Linux Distros](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/linux#wiki_.25BA_linux_distros)** - Download Linux Distros 
 **[Linux Gaming Guide](https://github.com/rimsiw/linux-gaming-omg)** - Piracy Guide for Linux 
 **[Torrminatorr](https://forum.torrminatorr.com/)** / **[Kapital Sin](https://kapitalsin.com/)** - Download Linux Games
-**[TorrFlix](https://github.com/infinity-plus/TorrFlix)** - Torrent Streaming CLI
 **[ani-cli](https://github.com/pystardust/ani-cli)** - Anime Streaming Terminal
 
 ***
@@ -117,7 +116,7 @@ Use [this](https://bitbucket.org/magnolia1234/bypass-paywalls-firefox-clean/src/
 
 ### Streaming
 
-**[Braflix](https://www.braflix.app/) / [movie-web](https://movie-web.github.io/docs/instances) / [FMovies](https://fmoviesz.to/)** - Fast movie / TV streaming
+**[Braflix](https://www.braflix.app/) / [watch.lonelil](https://watch.lonelil.ru/) / [movie-web](https://movie-web.github.io/docs/instances) / [FMovies](https://fmoviesz.to/)** - Fast movie / TV streaming
 **[HiAnime](https://hianime.to/)** - Fast anime streaming
 **[Dramacool](https://dramacool.cy/)** - Fast Asian drama streaming
 **[SportsSurge](https://sportsurge.net/)** - Live sports streaming

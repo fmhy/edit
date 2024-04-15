@@ -179,7 +179,7 @@
 * [Reddit Markdown Guide](https://www.reddit.com/wiki/markdown) - Learn Reddit Markdown
 * [Reddit Preview](https://redditpreview.com/) - Preview Reddit Posts
 * [Redirect Privated](https://greasyfork.org/en/scripts/468945) - Redirect Private Pages to Cached Versions
-* [redditpx](https://www.redditpx.com/) or [Redditp](https://redditp.com/) - Reddit Image / Video Slideshows
+* [redditpx](https://www.redditpx.com/), [Subscroller](https://subscroller.app/) or [Redditp](https://redditp.com/) - Reddit Image / Video Slideshows
 * [RedditRaffler](https://www.redditraffler.com/) - Reddit Raffle System
 * [PowerDeleteSuite](https://github.com/j0be/PowerDeleteSuite) - Reddit Auto Post Delete
 * [SubredditLog](https://gitlab.com/scallaway/SubredditLog) - Reddit Moderation Log
@@ -216,11 +216,11 @@
 
 ## ▷ Reddit Alternatives
 
-* ⭐ **[Lemmy](https://join-lemmy.org/)** / [Stats](https://the-federation.info/), [2](https://fedidb.org/) - Federated Reddit Alternative
-* ⭐ **[Lemmy Explorer](https://lemmyverse.net/)**, [Community-Browser](https://browse.feddit.de/) or [Awesome Instances](https://github.com/maltfield/awesome-lemmy-instances) - Lemmy Instances
+* ↪️ **[Lemmy Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/social-media#wiki_.25B7_lemmy_tools)**
 * ⭐ **[Raddle](https://raddle.me/)** / [.onion](http://c32zjeghcp5tj3kb72pltz56piei66drc63vkhn5yixiyk4cmerrjtid.onion/) - Reddit Alt
 * ⭐ **[Saidit](https://saidit.net/)** - Reddit Alt
 * [/r/RedditAlternatives](https://reddit.com/r/RedditAlternatives) - Find Reddit Alternatives
+* [sub.rehab](https://sub.rehab/) - Reddit Communities on Alternative Platforms
 * [tildes](https://tildes.net/) - Reddit Alt
 * [Upgoat](https://www.upgoat.net/) - Reddit Alt
 * [Scored](https://communities.win/) - Reddit Alt
@@ -285,9 +285,9 @@
 * ⭐ **[web.telegram](https://web.telegram.org/)** / [2](https://webk.telegram.org/) / [3](https://weba.telegram.org/) - Web Client
 * ⭐ **[Unigram](https://github.com/UnigramDev/Unigram)** - Desktop Client
 * ⭐ **[tg](https://github.com/paul-nameless/tg)** - Terminal Client
-[TDesktop](https://github.com/Forkgram/tdesktop) - Desktop Client / [x64](https://github.com/TDesktop-x64/tdesktop) / [Telegram](https://t.me/tg_x64)
-[VideoGram](https://vidogram.org/) - Desktop Client
-[AyuGram](https://github.com/AyuGram/AyuGramDesktop) - Desktop Client
+* [TDesktop](https://github.com/Forkgram/tdesktop) - Desktop Client / [x64](https://github.com/TDesktop-x64/tdesktop) / [Telegram](https://t.me/tg_x64)
+* [VideoGram](https://vidogram.org/) - Desktop Client
+* [AyuGram](https://github.com/AyuGram/AyuGramDesktop) - Desktop Client
 * [Pyrogram](https://docs.pyrogram.org/) / [Session Strings](https://t.me/SessionStringGeneratorZBot) - Telegram API Client
 * [Telega.el](https://github.com/zevlg/telega.el) - Telegram Emacs Client
 
@@ -340,8 +340,7 @@
 * ⭐ **[PocketTube](https://pockettube.io/)** or [Kadium](https://kadium.kasper.space/) - Subscription Managers
 * ⭐ **[SponsorBlock](https://sponsor.ajay.app/)** - Skip Sponsored YouTube Ads / [Chromecast](https://github.com/gabe565/CastSponsorSkip) / [Script](https://github.com/mchangrh/sb.js), [2](https://greasyfork.org/en/scripts/453320)
 * ⭐ **[Fast Forward YouTube Shorts](https://greasyfork.org/en/scripts/466438)** - Add Skip Keys to Shorts
-* [shorts-deflector](https://github.com/attituding/shorts-deflector), [Remove YouTube Shorts](https://github.com/raven0230/Remove-Youtube-Shorts), [ublock-hide-yt-shorts](https://github.com/gijsdev/ublock-hide-yt-shorts) or [youtube-shorts-block](https://github.com/doma-itachi/Youtube-shorts-block) - Hide YouTube Shorts
-* [uBO-bypass-yt](https://drhyperion451.github.io/does-uBO-bypass-yt/) - Check if uBlock Filters are Bypassing YouTube Anti-Adblock
+* [shorts-deflector](https://github.com/attituding/shorts-deflector), [Remove YouTube Shorts](https://addons.mozilla.org/en-US/firefox/addon/remove-youtube-shorts/), [ublock-hide-yt-shorts](https://github.com/gijsdev/ublock-hide-yt-shorts) or [youtube-shorts-block](https://github.com/doma-itachi/Youtube-shorts-block) - Hide YouTube Shorts
 * [YouTube_Subs_Bot](https://t.me/youtube_subs_bot) - Sub to Channels Without Account
 * [YouTube Spammer Purge](https://github.com/ThioJoe/YT-Spammer-Purge) - Delete All YouTube Spam Comments / [Domain List](https://github.com/ThioJoe/YT-Spam-Lists)
 * [Age Restriction Bypass](https://github.com/zerodytrash/Simple-YouTube-Age-Restriction-Bypass) / [2](https://greasyfork.org/en/scripts/423851-simple-youtube-age-restriction-bypass) - Bypass YouTube Age Restrictions
@@ -379,7 +378,6 @@
 * [Jump Cutter](https://github.com/WofWca/jumpcutter) - Skip Silent Parts of Videos
 * [ytcropper](https://ytcropper.com/), [yt_clipper](https://github.com/exwm/yt_clipper) or [YTCutter.com](https://ytcutter.com/) - Crop YouTube Videos / Create Clips
 * [Rotate YouTube Video](https://addons.mozilla.org/en-US/firefox/addon/rotate-youtube-video/) - Rotate YouTube Videos
-* [Vid Repeat](https://vidrepeat.com/) - Loop YouTube Videos
 * [TwitchTheater](https://twitchtheater.tv/), [VidGrid](https://vidgrid.tk.gg/), [YouTube Multiplier](https://www.youtubemultiplier.com/) or [ViewSync](https://viewsync.net/) - Watch Multiple YouTube Videos
 * [Anilyzer](https://anilyzer.com/) - Watch YouTube Videos in Slow Motion / Frame by Frame
 * [YTStamps](https://ytstamps.netlify.app/) - Create Custom Start / End Times
@@ -474,6 +472,7 @@
 * ⭐ **[YouTube Advanced Search](https://playlists.at/youtube/search/)** - Search Engine
 * ⭐ **[Filmot](https://filmot.com/)** or [ytks](https://ytks.app/) - Search within YouTube Transcripts / [Firefox](https://addons.mozilla.org/en-US/firefox/addon/youtube-captions-search/) / [Chrome](https://chromewebstore.google.com/detail/youtube-captions-search/kimbeggjgnmckoikpckibeoaocafcpbg)
 * [YouTube Search Fixer Suite](https://addons.mozilla.org/en-US/firefox/addon/youtube-suite-search-fixer/) - Fix YouTube Search / Declutter Homepage
+* [Youtube Search Grid View](https://greasyfork.org/en/scripts/481422-youtube-search-results-in-grid-view) - View Results in Grid
 * [Channel Crawler](https://channelcrawler.com/eng) or [YT-FTS](https://github.com/NotJoeMartinez/yt-fts) - Channel Search Tools
 * [Comment Viewer](https://commentviewer.com/), [Hadzy](https://hadzy.com/), [YCS](https://chromewebstore.google.com/detail/ycs-youtube-comment-searc/pmfhcilikeembgbiadjiojgfgcfbcoaaen) or [YCF](https://ytcomment.kmcat.uk/) - YouTube Comment Search
 * [petittube](https://petittube.com/) - Find YouTube Videos with >100 Views
@@ -539,7 +538,6 @@
 ## ▷ Twitch Adblockers
 
 * 🌐 **[TwitchAdSolutions](https://github.com/pixeltris/TwitchAdSolutions)** - Solutions / Scripts for Blocking Twitch Ads
-* ⭐ **[Purple AdBlock](https://addons.mozilla.org/en-US/firefox/addon/purpleadblock/)** - Twitch Adblocker
 * ⭐ **[TTV LOL PRO](https://github.com/younesaassila/ttv-lol-pro)** - Twitch Adblocker
 * [VideoAdBlockForTwitch](https://github.com/cleanlock/VideoAdBlockForTwitch) - Twitch Adblocker
 * [luminous-ttv](https://github.com/AlyoshaVasilieva/luminous-ttv) - Twitch Adblocker
@@ -562,6 +560,7 @@
 
 * ⭐ **[Trends24](https://trends24.in/)**, [Sotwe](https://www.sotwe.com/) or [Hashtagify](https://hashtagify.me/) - Trending Hashtags Trackers
 * ⭐ **[/r/Twitter](https://reddit.com/r/Twitter)** - Twitter Subreddit
+* [Bluesky](https://bsky.app/) - Federated Twitter Alt / [App Directory](https://docs.bsky.app/showcase)
 * [TumblThree](https://tumblthreeapp.github.io/TumblThree/) or [Thread Safe](https://github.com/dkaslovsky/thread-safe) - Twitter / Tumblr Backup Tools
 * [Typefully](https://typefully.com/) - Schedule Tweets
 * [Chirr App](https://getchirrapp.com/) - Turn Articles into Twitter Threads / [Firefox](https://addons.mozilla.org/en-US/firefox/addon/chirr-app/) / [Chrome](https://chromewebstore.google.com/detail/chirr-app/cmbconaimdngicdnbpjnjocbpkdpmfkg)
@@ -638,33 +637,41 @@
 
 # ► Fediverse Tools
 
-* 🌐 **[Awesome Fediverse](https://github.com/emilebosch/awesome-fediverse)** - Fediverse Resources
-* ⭐ **[Fediverse](https://fediverse.party/)**, [Fediverse.space](https://fediverse.space/), [sub.rehab](https://sub.rehab/) or [Fediverse Observer](https://mastodon.fediverse.observer/) - Fediverse Instance Search
-* ⭐ **[Lemmy](https://join-lemmy.org/)** / [Stats](https://the-federation.info/), [2](https://fedidb.org/) - Federated Reddit Alternative
-* ⭐ **[Lemmy Explorer](https://lemmyverse.net/)**, [Community-Browser](https://browse.feddit.de/) or [Awesome Instances](https://github.com/maltfield/awesome-lemmy-instances) - Lemmy Instances
-* ⭐ **[Divisions by zero](https://lemmy.dbzer0.com/)** - Piracy Focused Instance
-* ⭐ **[Pleroma](https://pleroma.social/)** - Fediverse Twitter Alt
-* ⭐ **[Pixelfed](https://pixelfed.org/)** - Fediverse Twitter Alt
-* ⭐ **[diaspora*](https://diasporafoundation.org/)**, [2](https://diasp.org/) - Fediverse Twitter Alt
-* [Misskey](https://misskey-hub.net/en/) - Fediverse Twitter Alt
-* [BlueSky](https://bsky.social/about) - Fediverse Twitter Alt / [Multi-Column](https://deck.blue/) / [Real-Time](https://skyfeed.app/)
-* [Friendica](https://friendi.ca/) - Fediverse Twitter Alt
-* [Hubzilla](https://zotlabs.org/page/hubzilla/hubzilla-project) - Fediverse Twitter Alt
-* [GoToSocial](https://docs.gotosocial.org/en/latest/) - Fediverse Twitter Alt
-* [Fedi Tips](https://fedi.tips/) - Fediverse Guide
-* [Fediverser](https://portal.alien.top/) - Reddit to Lemmy Community Auto-Sync
-* [LemmyTools](https://github.com/howdy-tsc/LemmyTools) - Lemmy Improvement Extension
+* 🌐 **[Fediverse.Party](https://fediverse.party/)** - Fediverse Software Index
+* ⭐ **[Fediverse Observer](https://fediverse.observer/)** - Fediverse Instances
+* [FediDB](https://fedidb.org/) or [The Federation](https://the-federation.info/) - Network Statistics
+* [Fedi.Tips](https://fedi.tips/) - Fediverse Guide
+* [Fedi.Garden](https://fedi.garden/) - Curated User Directory
+* [Fediverse People Directory](https://fediverse.info/explore/people) - Self-Submitted User Directory
+* [FediverseRedirect](https://github.com/zacharee/MastodonRedirect) - Frontend Redirect
+* [Bridgy Fed](https://fed.brid.gy/) - Fediverse Bridge
+* [The Fediverse Report](https://fediversereport.com/) - Fediverse News
+* [FediBuzz](https://fedi.buzz/in/en) - Fediverse Trends
+* [Sepia Search](https://sepiasearch.org/) - PeerTube Search
 
 ***
 
 ## ▷ Mastodon Tools
 
-* ⭐ **[Mastodon](https://joinmastodon.org/)** - Fediverse Twitter Alt
-* 🌐 **[Mastodon Instances](https://instances.social/)** or [Mastodon Near Me](http://mastodon-near.me/) - Mastodon Instance Indexes
-* [Tuba](https://tuba.geopjr.dev/) or [Kaiteki](https://kaiteki.app/) - Mastodon Viewers
-* [Mastodon Scheduler](https://scheduler.mastodon.tools/) - Schedule Sending Posts
-* [MastoVue](https://mastovue.glitch.me/) - View Public Timelines / Hashtags
+* ⭐ **[instances.social](https://instances.social/)** or [Mastodon Near Me](http://mastodon-near.me/) - Mastodon Instances
+* ⭐ **[Mastodon Apps](https://joinmastodon.org/apps)** - Mastodon Client List
+* [MastoVue](https://mastovue.glitch.me/) or [FediWall](https://fediwall.social/) - View Public Timelines / Hashtags
+* [Followgraph](https://followgraph.vercel.app/) or [StreetPass](https://streetpass.social/) - Find Mastodon Users
+* [western.social](https://western.social/) - User Search
+* [Tootfinder](https://www.tootfinder.ch/) - Opt-In Full Text Search
+* [Mastodon Scheduler](https://scheduler.mastodon.tools/) or [FediPlan](https://plan.fedilab.app/) - Schedule Posts
+* [Mastodon Embed Timeline](https://gitlab.com/idotj/mastodon-embed-timeline) or [Mastofeed](https://mastofeed.com/) - Embedded Mastodon Feeds
 * [Cheap Bots, Toot Sweet!](https://cheapbotstootsweet.com/) - Create Bots
+
+***
+
+## ▷ Lemmy Tools
+
+* ⭐ **[Lemmy Explorer](https://lemmyverse.net/)**, [Feddit Community Browser](https://browse.feddit.de/) or [Awesome Lemmy Instances](https://github.com/maltfield/awesome-lemmy-instances) - Lemmy Instances
+* ⭐ **[Lemmy Apps](https://join-lemmy.org/apps)** - Lemmy Client List
+* ⭐ **[Divisions by zero](https://lemmy.dbzer0.com/)** - Piracy Focused Instance
+* [Fediverser](https://portal.alien.top/) - Reddit to Lemmy Community Auto-Sync
+* [LemmyTools](https://github.com/howdy-tsc/LemmyTools) - Lemmy Improvement Extension
 
 ***
 

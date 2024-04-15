@@ -14,7 +14,7 @@
 
 ***
 
-* ⭐ **[qBittorrent](https://www.qbittorrent.org/)** - [Screenshot](https://i.ibb.co/ZBWZLvB/8519077d9320.png) / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_qbitorrent_tools)
+* ⭐ **[qBittorrent](https://www.qbittorrent.org/)** or [QBT Enhanced](https://github.com/c0re100/qBittorrent-Enhanced-Edition) - [Screenshot](https://i.ibb.co/ZBWZLvB/8519077d9320.png) / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent#wiki_.25B7_qbittorrent_tools)
 * ⭐ **[Deluge](https://www.deluge-torrent.org/)** - [Screenshot](https://i.ibb.co/HdwCH5Q/678a01f3b439.png) / [Plugins](https://dev.deluge-torrent.org/wiki/Plugins) / [Config](https://github.com/ratanakvlun/deluge-ltconfig/releases) / [Telegram Plugin](https://github.com/noam09/deluge-telegramer)
 * ⭐ **[Transmission](https://transmissionbt.com/)** - [Screenshot](https://i.ibb.co/z550kRy/571b08f4981e.png)
 * ⭐ **[torrent-control](https://github.com/Mika-/torrent-control)** or [Remote Torrent Adder](https://github.com/bogenpirat/remote-torrent-adder) - Easily Send Torrents to Client 
@@ -28,7 +28,6 @@
 * [Distribyted](https://distribyted.com/) - [Screenshot](https://i.ibb.co/m8TQBPh/f5dfcb4b192f.png) / [GitHub](https://github.com/distribyted/distribyted)
 * [Crawfish](https://github.com/drakonkat/Crawfish) - [Screenshot](https://i.ibb.co/DVVVdpG/8406bc7e0a39.png)
 * [Tribler](https://www.tribler.org/) - Tor-inspired Client / [Screenshot](https://i.ibb.co/k4jt0FJ/20d3bd279896.png) / [GitHub](https://github.com/Tribler/tribler)
-* [aria2](https://aria2.github.io/) - Terminal Torrent Client / [Screenshot](https://i.ibb.co/SmsxmW3/3e213c54b148.png) / [GitHub](https://github.com/aria2/aria2) / [Download Bot](https://github.com/gaowanliang/DownloadBot) / [GUI](https://github.com/persepolisdm/persepolis) / [Frontend](https://ariang.mayswind.net/) / [WebUI](https://github.com/ziahamza/webui-aria2) / [GUI](https://persepolisdm.github.io/)
 * [XD-Torrent](https://xd-torrent.github.io/) - Anonymous P2P Torrent Client
 * [BitSwarm](https://github.com/SuRGeoNix/BitSwarm/) - Bittorrent Client Library
 * [Instant.io](https://instant.io/) - Stream Torrents in Browser
@@ -38,6 +37,21 @@
 * [Rats Search](https://github.com/DEgITx/rats-search) - Torrent Search Client / [Screenshot](https://github.com/DEgITx/rats-search#screenshots) 
 * [Download Torrents Through I2P](https://decentnet.github.io/blog/20200329-download-torrents-through-i2p.html)
 * [flood](https://flood.js.org/) - rTorrent, Transmission & qBittorrent WebUI / [GitHub](https://github.com/jesec/flood)
+
+***
+
+## ▷ qBittorrent Tools
+
+* 🌐 **[QBT Plugins](https://github.com/qbittorrent/search-plugins?tab=readme-ov-file#search-plugins)** - Plugins Index
+* 🌐 **[QBT Themes](https://github.com/jagannatharjun/qbt-theme)**  - Themes Index
+* [qBitMF](https://github.com/qBitMF/qBitMF) - Multi-Connection Tool 
+* [VueTorrent](https://github.com/WDaan/VueTorrent) - Web Clients
+* [QBT Manager](https://github.com/Yash-Garg/qBittorrent-Manager) or [qBitController](https://github.com/Bartuzen/qBitController) - Mobile Controllers
+* [Docker QBT](https://github.com/linuxserver/docker-qbittorrent) or [QBT VPN](https://github.com/binhex/arch-qbittorrentvpn) - Docker Builds
+* [QBT Mega](https://colab.research.google.com/github/Xavy-13/qbittorrent/blob/main/qBittorrent_MEGA.ipynb) - Mega Upload Script
+* [QBT  Gdrive](https://colab.research.google.com/github/Xavy-13/qbittorrent/blob/main/qBittorrent.ipynb) - Gdrive Upload Script
+* [Dark Theme](https://draculatheme.com/qbittorrent) or [iOS Style](https://github.com/ntoporcov/iQbit/) - QBT Themes
+* [qBitEndpoints](https://rentry.co/qBitEndpoints) - API Endpoints
 
 ***
 
@@ -179,7 +193,7 @@
 * 🌐 **[ngosang](https://ngosang.github.io/trackerslist/)** / [2](https://ngosang.github.io/trackerslist/trackers_all.txt), [trackerslist](https://trackerslist.com/) / [GitHub](https://github.com/XIU2/TrackersListCollection) or [NewTrackOn](https://newtrackon.com/list) - Tracker Lists
 * 🌐 **[Auto Torrent Tools List](https://redd.it/hbwnb2)** / [2](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video#wiki_.25BA_torrent_apps)
 * ⭐ **[Milkie](https://milkie.cc)** / [Discord](https://discord.com/invite/E4khNy5dz3), [Scnlog](https://scnlog.me) or [PreDB.me](https://predb.me) - Scene Release Download
-* ⭐ **[Xrel](https://www.xrel.to)**, [PreDB.net](https://predb.de), [srrDB](https://www.srrdb.com) or [M2V](https://m2v.ru) - Scene Release İnfo
+* ⭐ **[PreDataBA](https://predataba.se)**, [Xrel](https://www.xrel.to), [PreDB.net](https://predb.de), [srrDB](https://www.srrdb.com) or [M2V](https://m2v.ru) - Scene Release İnfo
 * ⭐ **[T2M](https://nutbread.github.io/t2m/)** / [2](https://github.com/nutbread/t2m), [btsow](https://btsow.motorcycles/) or [Torrent Kitty](https://www.torrentkitty.tv/) / [2](https://www.torrentkitty.net/) / [3](https://www.torrentkitty.lol/) - Torrent to Magnet Converters
 * ⭐ **[Magnet2Torrent](https://magnet2torrent.com/)** - Magnet to Torrent Converter
 * ⭐ **[Torrent Legality](https://i.ibb.co/HHqC4V2/11e244ddbdfb.png)** - Torrenting Laws by Country

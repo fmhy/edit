@@ -162,11 +162,12 @@
 ## ▷ Freeware Sites
 
 * 🌐 **[Awesome Free Software](https://github.com/johnjago/awesome-free-software)** - Freeware Index
-* 🌐 **[Awesome Selfhosted](https://awesome-selfhosted.net/)**, [2](https://gitlab.com/awesome-selfhosted/awesome-selfhosted) - Selfhosted Software Index
+* 🌐 **[Awesome Selfhosted](https://awesome-selfhosted.net/)**, [2](https://gitlab.com/awesome-selfhosted/awesome-selfhosted) or [Selfh.st](https://selfh.st/apps/) - Selfhosted Software Indexes
 * 🌐 **[Awesome Python Applications](https://github.com/mahmoud/awesome-python-applications)** - Python App Index
 * ↪️ **[Git Project Indexes](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_git_projects)**
 * ↪️ **[Software Package Managers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/system-tools#wiki_.25B7_package_managers)**
 * ↪️ **[Alternative Software Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_alternative_software_.2F_app_sites)**
+* ⭐ **[MajorGeeks](https://www.majorgeeks.com/content/page/top_freeware_picks.html)** - Freeware Index
 * ⭐ **[FluentStore](https://github.com/yoshiask/FluentStore)** - Microsoft Store Frontend
 * ⭐ **[store.rg](https://store.rg-adguard.net/)** - Paid Microsoft Store Link Generator / [Guide](https://rentry.co/paidAppsMsStore)
 * [Windows Ultimate Collection](https://xdaforums.com/t/windows-ultimate-collection-guides.4507867/) - Freeware Index
@@ -177,7 +178,6 @@
 * [Realityripple](https://realityripple.com/) - Freeware Index
 * [Software Informer](https://software.informer.com/) - Freeware Index
 * [Awesome Windows](https://github.com/Awesome-Windows/Awesome) - Freeware Index
-* [Major Geeks](https://www.majorgeeks.com/content/page/top_freeware_picks.html) - Freeware Index
 * [SourceForge](https://sourceforge.net/)- FOSS Index
 * [FossHub](https://www.fosshub.com/)- FOSS Index
 * [Fossies](https://fossies.org/all.html)- FOSS Index

@@ -97,6 +97,7 @@
 * ⭐ **[JavaScript.info](https://javascript.info/)**, [Patterns.dev](https://www.patterns.dev/) or [30 Days Of JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript) - Javascript Learning Sites
 * ⭐ **[mess with dns](https://messwithdns.net/)** - Experiment with DNS
 * ⭐ **[PHP: The Right Way](https://phptherightway.com/)**, [Learn PHP](https://odan.github.io/learn-php/) or [PHP Tutorial](https://www.phptutorial.net/) - Learn PHP
+* ⭐ **[Markdown Guide](https://www.markdownguide.org/)** - Guide for Markdown (.md)
 * [Web Dev for Beginners](https://microsoft.github.io/Web-Dev-For-Beginners/) - Web Dev Course
 * [Aquent Gymnasium](https://thegymnasium.com/) - Web Dev Tutorials
 * [Dash](https://dash.generalassemb.ly/) - Web Dev Courses
@@ -131,7 +132,6 @@
 * [Full Stack Solana Development Guide](https://dev.to/edge-and-node/the-complete-guide-to-full-stack-solana-development-with-react-anchor-rust-and-phantom-3291) - [Examples](https://github.com/dabit3/complete-guide-to-full-stack-solana-development)
 * [STPG](https://stpg-tk.netlify.app/guides/) - Startpage Creation Guides / [Discord](https://discord.com/invite/ExAGgVR)
 * [Markdown Tutorial](https://www.markdowntutorial.com/) - Interactive Markdown Tutorial
-* [MarkdownGuide](https://www.markdownguide.org/) - Guide for Markdown (.md) 
 * [Web Design in 4 Minutes](https://jgthms.com/web-design-in-4-minutes/) or [Strml](https://www.strml.net/) - Interactive Web Design Tutorial
 * [WebGL and GLSL Workshop](https://mattdesl.github.io/workshop-webgl-glsl/) - Interactive WebGL / GLSL Tutorial
 * [LearningSEO](https://learningseo.io/) - SEO Guides
@@ -1463,6 +1463,25 @@
 * [ipinfo.io](https://ipinfo.io/) - IP Data API
 * [TheCatAPI](https://thecatapi.com/) - Cat Rating API
 * [SWAPI](https://pipedream.com/apps/swapi) - Star Wars APIs
+
+***
+
+## ▷ Code Pastebins
+
+* ⭐ **[Github Gists](https://gist.github.com/)** - Multi-Syntax / Account Needed
+* [Paste.ee](https://paste.ee/) - Multi-Syntax
+* [pst.moe](https://pst.moe/) - Multi-Syntax
+* [Mozilla Community Pastebin](https://paste.mozilla.org/) - Multi-Syntax
+* [Pastebin.com](https://pastebin.com/) - Multi-Syntax
+* [pasteheaven.com](https://pasteheaven.com/) - Multi-Syntax
+* [paste.fo](https://paste.fo/) - Multi-Syntax
+* [dpaste.com](https://dpaste.com/) - Multi-Syntax
+* [bitbin](https://bitbin.it/) - Multi-Syntax
+* [pastes.io](https://pastes.io/) - Multi-Syntax
+* [Pastebin.pl](https://pastebin.pl/) - Multi-Syntax
+* [Debian Pastezone](https://paste.debian.net/) - Multi-Syntax
+* [CentOS Pastebin](https://paste.centos.org/) - Multi-Syntax
+* [snippet.host](https://snippet.host/) - Multi-Syntax
 
 ***
 

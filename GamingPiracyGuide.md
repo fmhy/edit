@@ -172,13 +172,13 @@
 * ⭐ **[RAZE](https://github.com/ZDoom/Raze)** or [BuildGDX](https://m210.duke4.net/) - Oldschool Shooter Engine / [Discord](https://discord.gg/zZw2eq3n7G)
 * [TOSEC](https://rentry.co/FMHYBase64#tosec) - The Old School Emulation Center
 * [Xbox Emulation Hub](https://discord.com/invite/7pcAbZzpXj) - Xbox Emulation Discord
-* [EmuDeck](https://www.emudeck.com/) or [GameImage](https://gitlab.com/formigoni/gameimage) - Steam Deck Emulator
+* [EmuDeck](https://www.emudeck.com/) or [GameImage](https://github.com/ruanformigoni/gameimage) - Steam Deck Emulator
 * [Motion Support Bypass](https://redd.it/gobcne) - Fix Cemu BOTW Motion Shrines / [DL](https://mega.nz/file/1Uo3BI6L#X5m-bPK27-X-IijzJH1o4MloivkUqP33zsUJE_kpOdc)
 * [SwitchEmuModDownloader](https://github.com/amakvana/SwitchEmuModDownloader) - Download Switch Emulator Mods
 * [Green Leaf](https://discord.gg/m6z3ra8ssh) - Switch Saves
 * [UniversalDynamicInput]( https://github.com/Venomalia/UniversalDynamicInput) - Custom Dolphin Button Pack
 * [RPCS3 Setup Guide](https://docs.google.com/document/d/1gdjNab-CtVS97jH2diPPP5tCrpBeof9-qPIRRB9-BrU/edit) - RPCS3 Emulator Setup Guide
-* [PCSX-Redux](https://github.com/grumpycoders/pcsx-redux) - PSCX Development Emulator
+* [PCSX-Redux](https://pcsx-redux.consoledev.net) - PSCX Development Emulator
 * [Modernized PCSX2 Settings](https://mega.nz/folder/WdNAlY5Z#K6PmrQFyDm2k7BEV8KoAmg) - Premade PCSX2 Settings
 * [PictoChat Online](https://pict.chat/) - Browser DS PictoChat
 * [Mudlet](https://www.mudlet.org/) - Text Adventure Game Platform
@@ -463,7 +463,7 @@
 * [The Wheelhaus](https://thewheelhaus.com/) - Find Random Steam Games
 * [Free Packages](https://steamdb.info/freepackages/) - Mass Activate All Free Steam Games / [Guide](https://youtu.be/svbdw-pYNT8)
 * [SteamDesktopAuthenticator](https://github.com/Jessecar96/SteamDesktopAuthenticator) - Desktop Implementation of Steam's Mobile Authenticator 
-* [Steam Python](https://github.com/ValvePython/steam) - Interact with Steam via Python
+* [Steam Python](http://steam.readthedocs.io) - Interact with Steam via Python
 * [Idle Master Extended](https://github.com/JonasNilson/idle_master_extended) or [IdleDaddy](https://play.google.com/store/apps/details?id=com.steevsapps.idledaddy) - Steam Card Automation
 * [SteamAchievementManager](https://github.com/gibbed/SteamAchievementManager) - Steam Achievement Manager 
 * [SteamRep](https://steamrep.com/), [SteamID](https://steamid.io/) / [2](https://steamid.uk/) or [SteamFinder](https://steamidfinder.com/) - Steam ID Lookup
@@ -484,7 +484,7 @@
 * [Fuck Off EA App](https://github.com/p0358/Fuck_off_EA_App) - Use Origin Instead of EA App
 * [Bazzite](https://bazzite.gg/) - Alt Steam Deck OS
 * [Decky Loader](https://decky.xyz/ ) - Steam Deck Plugin Loader / [GitHub](https://github.com/SteamDeckHomebrew/decky-loader)
-* [Steam Deck Tools](https://github.com/ayufan/steam-deck-tools) - Fan Overlay, Power Control and Steam Controller
+* [Steam Deck Tools](https://steam-deck-tools.ayufan.dev) - Fan Overlay, Power Control and Steam Controller
 * [great-on-deck-search](https://github.com/cptpiepmatz/great-on-deck-search) - Verified Steam Deck Game Search
 * [Steam-Deck.Force](https://github.com/scawp/Steam-Deck.Force-SteamOS-On-Boot) - Force SteamOS Boot
 * [HoloISO](https://github.com/HoloISO/releases) - SteamOS 3 (Holo) Archiso Config / [Telegram](https://t.me/HoloISO)
@@ -515,7 +515,7 @@
 * ⭐ **[ProSettings](https://prosettings.net/)**, [Share Gaming Tweaks](https://www.tenforums.com/gaming/117377-share-gaming-tweaks-chec-my-comprehensive-list-will-blow-your-mind.html), [SweetFX](https://sfx.thelazy.net/), [ENBSeries](http://enbdev.com) or [Use Gaming Tweaks](https://github.com/PrincessAkira/Use-Gaming-Tweaks) - Settings Optimization Guides
 * ⭐ **[DisplayMagician](https://displaymagician.littlebitbig.com/)** or [AutoActions](https://github.com/Codectory/AutoActions) - Per-Game Display Profiles
 * ⭐ **[Magpie](https://github.com/Blinue/Magpie)**, [ModPiracy_V6](https://www.reddit.com/r/ModPiracy_V6), [Vuenxx](https://discord.gg/ASZjqrjWYf) / [Note](https://pastebin.com/DyQh6K0Q) or [The Falcons](https://discord.gg/8fh5BXxcjY) - Free FSR 3 Mods / [Guide](https://rentry.co/fsr3-mod-guide)
-* [PC-Tuning](https://github.com/amitxv/PC-Tuning) / [Discord](https://discord.com/invite/dFHejVVq), [RagnoTech Optimization Catalog](https://ragnos1997.com/optimization-catalog/) or [TroubleChute](https://www.youtube.com/c/TroubleChute/featured) - Gaming Optimization Guides
+* [PC-Tuning](https://github.com/amitxv/PC-Tuning), [RagnoTech Optimization Catalog](https://ragnos1997.com/optimization-catalog/) or [TroubleChute](https://www.youtube.com/c/TroubleChute/featured) - Gaming Optimization Guides
 * [Calypto’s Latency Guide](https://docs.google.com/document/d/1c2-lUJq74wuYK1WrA_bIvgb89dUN0sj8-hO3vqmrau4/), [cancerogenoslab](https://sites.google.com/view/cancerogenoslab/) or [MikeMartin](https://www.mikemartin.co/) - FPS / Latency Guides
 * [OCAT](https://gpuopen.com/ocat/) / [GitHub](https://github.com/GPUOpen-Tools/ocat), [Rivatuner Statistics Server](https://www.guru3d.com/files-details/rtss-rivatuner-statistics-server-download.html), [CapFrameX](https://www.capframex.com/) or [Xbox Game Bar](https://rentry.co/WindowsFPS) - FPS Benchmarking
 * [SSTap](https://github.com/FQrabbit/SSTap-Rule) - Decrease Ping
@@ -537,7 +537,7 @@
 
 ## ▷ Controller Tools
 
-* [DS4Windows](https://github.com/Ryochan7/DS4Windows), [AntiMicroX](https://github.com/AntiMicroX/antimicroX), [DualSenseX](https://github.com/Paliverse/DualSenseX), [PCXSense](https://github.com/Denellyne/PCXSense) or [Input Remapper](https://github.com/sezanzeb/input-remapper) - Gamepad Input Tools / [Steam Note](https://pastebin.com/ycswQGVR)
+* [DS4Windows](https://ryochan7.github.io/ds4windows-site/), [AntiMicroX](https://github.com/AntiMicroX/antimicroX), [DualSenseX](https://github.com/Paliverse/DualSenseX), [PCXSense](https://github.com/Denellyne/PCXSense) or [Input Remapper](https://github.com/sezanzeb/input-remapper) - Gamepad Input Tools / [Steam Note](https://pastebin.com/ycswQGVR)
 * [x360ce](https://www.x360ce.com/) / [GitHub](https://github.com/x360ce/x360ce) - DS4 / 360 Controller Emulator
 * [XOutput](https://github.com/csutorasa/XOutput) - DirectInput to Xinput wrapper
 * [DsHidMini](https://docs.nefarius.at/projects/DsHidMini/) - Use PS3 Controllers on Windows
@@ -545,7 +545,7 @@
 * [Spud Controller](https://sadwhale-studios.itch.io/) - Controller / Mouse Input Displays
 * [PC Remote](https://play.google.com/store/apps/details?id=com.monect.portable) - Use Phone as Controller
 * [Gamepad-Tester](https://gamepad-tester.com/) or [AresLuna](https://aresluna.org/gamepad-tester/) - Controller Connectivity Testers
-* [HidHide](https://github.com/nefarius/HidHide) - Input Device Firewall
+* [HidHide](https://docs.nefarius.at/projects/HidHide/) - Input Device Firewall
 * [Whitescent Engine](https://apt.izzysoft.de/fdroid/index/apk/com.github.whitescent.engine) - Use Phone as Joy Stick / [GitHub](https://github.com/whitescent/Engine)
 * [JoystickGremlin](https://whitemagic.github.io/JoystickGremlin/) - Remap Joystick Devices
 * [Arcade Controls](http://arcadecontrols.com/arcade.htm) - DIY Arcade Controls
@@ -568,7 +568,7 @@
 * [ZLOEmu](https://zloemu.net/) - Multiplayer Fix
 * [DiIiS](https://github.com/blizzless/blizzless-diiis) - Open-Source Diablo III Local Server
 * [Server.pro](https://server.pro/) - Game Server Hosting
-* [Tilted Online](https://github.com/tiltedphoques/TiltedEvolution) - Multiplayer Skyrim & Fallout 4 / [Discord](https://discord.gg/skyrimtogether) / [Setup Guide](https://youtu.be/ytSftFoQQHA)
+* [Tilted Online](https://wiki.tiltedphoques.com/tilted-online/) / [GitHub](https://github.com/tiltedphoques/TiltedEvolution) - Multiplayer Skyrim & Fallout 4 / [Discord](https://discord.gg/skyrimtogether) / [Setup Guide](https://youtu.be/ytSftFoQQHA)
 * [NV:MP](https://nv-mp.com/) - Fallout: New Vegas Multiplayer
 * [Project Cartographer](https://www.halo2.online/) - Halo 2 Online Servers
 * [Halo Custom Edition](https://www.haloce.org/) - Halo CE Online Servers
@@ -643,7 +643,7 @@
 * 🌐 **[Map Genie](https://mapgenie.io/)**, [GameMaps](https://www.gamemaps.com/) or [VGMaps](https://www.vgmaps.com/) - Game Map Indexes
 * [noclip](https://noclip.website/) - Explore Game Maps
 * [KudosPrime](https://www.kudosprime.com/) - Racing Game Maps
-* [bspview](https://github.com/sbuggay/bspview) - Explore Quake & GoldSRC Maps
+* [bspview](https://sbuggay.github.io/bspview) / [GitHub](https://github.com/sbuggay/bspview) - Explore Quake & GoldSRC Maps
 * [NES Maps](https://www.nesmaps.com/) - NES Game Maps 
 * [SNES Maps](https://www.snesmaps.com/) - SNES Game Maps
 * [Forgehub](https://www.forgehub.com/) - Halo Maps
@@ -699,6 +699,7 @@
 * [Polish Pixels](https://polishpixels.com/) - Retro Polish Games Database
 * [Co-Optimu](https://www.co-optimus.com/), [Squad Games](https://www.squadd.games/) or [PlayCo-opGame](https://playco-opgame.com/) - Co-Op Game Databases
 * [SvenEvils Playground](https://store.steampowered.com/curator/8485829/) or [Local Multiplayer List](https://docs.google.com/spreadsheets/d/14f6qS2GJy8C-b40Df3dNH_aZq7WfZ4jMggzEajUrX0w/) - Local Multiplayer Game Database
+* [DoesItPlay?](https://www.doesitplay.org/) - Offline Game Compatibility Database
 * [Low Spec Games](https://pastebin.com/MTCXZxCN) - Low Spec Game Database
 * [HOTU](https://www.homeoftheunderdogs.net/) - Rare Game Database
 * [Delisted Games](https://delistedgames.com/) - Delisted Games Database
@@ -758,7 +759,7 @@
 * 🌐 **[OptiFine Alternatives](https://optifine.alternatives.lambdaurora.dev/)** - OptiFine Alternatives for Fabric
 * 🌐 **[ChunkBase](https://www.chunkbase.com/apps/)** - Minecraft Map Tools
 * 🌐 **[SkyblockAddons](https://github.com/BiscuitDevelopment/SkyblockAddons)** - Addons for Skyblock
-* ↪️ **[Modded Minecraft Launchers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_modded_minecraft_launchers)** - [Beta](https://betacraft.uk/) / [Bedrock / Java](https://redd.it/xj5w9m), [2](https://bedrocklauncher.github.io/)
+* ↪️ **[Minecraft Launchers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_minecraft_launchers)** - [Beta](https://betacraft.uk/) / [Bedrock / Java](https://redd.it/xj5w9m), [2](https://bedrocklauncher.github.io/)
 * ↪️ **[Minecraft Mods](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_minecraft_mods)**
 * ↪️ **[Minecraft Optimization](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_minecraft_optimization_mods)**
 * ↪️ **[Free Minecraft Servers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_minecraft_servers)**
@@ -796,7 +797,7 @@
 * [LazyMc](https://github.com/timvisee/lazymc) - Idle Minecraft Server
 * [Minecraft Server Checker](https://moistcatawumpus.github.io/minecraft-server-checker/) - Simple Server Checker
 * [Forge](https://files.minecraftforge.net/), [Quilt](https://quiltmc.org/) or [Fabric](https://fabricmc.net/) / [Discord](https://discord.gg/VDGnGsFeuy) - Minecraft Modding API 
-* [Mineflayer](https://github.com/PrismarineJS/mineflayer) - Minecraft Bot Creator
+* [Mineflayer](https://prismarinejs.github.io/mineflayer/) - Minecraft Bot Creator
 * [PVPRP](https://pvprp.com/) - Minecraft Texture Packs
 * [ShadersMods](https://shadersmods.com/) or [MinecraftShader](https://minecraftshader.com/) - Minecraft Shaders
 * [Iris Shaders](https://modrinth.com/mod/iris) - Fabric Shadermod for Minecraft
@@ -806,6 +807,8 @@
 * [MinecraftCapes](https://minecraftcapes.net/) or [Capes](https://modrinth.com/mod/capes) - Minecraft Capes
 * [Minecraft Armor Stand](https://haselkern.com/Minecraft-ArmorStand/) - Create Poses for Minecraft Armor
 * [VoxelSphereGenerator](https://oranj.io/blog/VoxelSphereGenerator), [BDStudio](https://eszesbalint.github.io/bdstudio/editor) or [Minecraft Shapes](https://minecraftshapes.com/) - Minecraft Shape Tools / Voxel Editors
+* [Custom-MC-Render-Cweeper](https://rentry.co/custom-mc-render-cweeper) - Custom 3D Model to Minecraft Render
+* [MCprep](https://theduckcow.com/dev/blender/mcprep/) - Blender OBJ Import / Texturepacks / Character Rigging / Animations
 * [Amidst](https://github.com/toolbox4minecraft/amidst) - Minecraft World Overview Display Tool
 * [The Minecraft Archive Project](https://map.crummy.com/) - Minecraft World Archive
 * [Amulet](https://www.amuletmc.com/), [MCA Selector](https://github.com/Querz/mcaselector) or [uNmINeD](https://unmined.net/) - Minecraft Map Editors / Viewers
@@ -953,12 +956,12 @@
 * [GD Font Generator](https://gdcolon.com/gdfont) - Generate Custom GD Logos & Messages
 * [4GB Patch](https://ntcore.com/?page_id=371) - Lets GD use 4GB of RAM
 * [SPWN](https://spu7nix.net/spwn/#/) - GD Level Programming Language
-* [GD Docs](https://github.com/gd-programming/gd.docs) - GD Programming Documentation
+* [GD Docs](https://docs.gd-programming.org/) - GD Programming Documentation
 * [GD History](https://history.geometrydash.eu/) - GD Archival Project / [Downloader](https://github.com/Cvolton/GDHistory-Downloader)
 * [GMD Private Server](https://github.com/Cvolton/GMDprivateServer) - Private Server Maker
 * [Report Bugged 2.2 Levels](https://docs.google.com/forms/d/e/1FAIpQLScDKMIxPKeMxGpyDbQnsDDhW7ba0Lh4ZFAD4RA_ZIt5sbId9A/viewform)
 * [3Dash](https://delugedrop.itch.io/3dash) -  3D Geometry Dash Game
-* 3Dash Tools - [Patched Server](https://3dash.mg95.dev/) / [Mod Menu](https://github.com/cgytrus/ThreeDashTools) / [Demon List](https://3dashdl.pages.dev/#/) / [Challenge List](https://3dashdemonlist.github.io/Challenge/) / [Impossible Levels](https://3dashdemonlist.github.io/ILL/)
+* 3Dash Tools - [Patched Server](https://3dash.mg95.dev/) / [Demon List](https://3dashdl.pages.dev/#/) / [Challenge List](https://3dashdemonlist.github.io/Challenge/) / [Impossible Levels](https://3dashdemonlist.github.io/ILL/)
 
 ***
 
@@ -973,7 +976,6 @@
 * [Roblox Studio Mod Manager](https://github.com/MaximumADHD/Roblox-Studio-Mod-Manager) - Roblox Studio Bootstrapper
 * [RoPro](https://ropro.io/), [Roblox+](https://chromewebstore.google.com/detail/roblox%20/jfbnmfgkohlfclfnplnlenbalpppohkm), [BTRoblox](https://twitter.com/AntiBoomz/status/1378597179556823040), [RoGold](https://rogold.live/) or [RoSeal](https://www.roseal.live/) - Enhance Roblox Website
 * [RBXServers](https://rbxservers.xyz/) - Roblox VIP Servers
-* [Roblox Studio](https://create.roblox.com/) - Roblox Dev Tool
 * [Roblox Web APIs](https://github.com/matthewdean/roblox-web-apis) - Roblox APIs
 
 ***
@@ -986,11 +988,11 @@
 * ⭐ **[Keqingmains](https://keqingmains.com/)** - Genshin Guides
 * [/r/GachaGaming](https://www.reddit.com/r/gachagaming/) - Gacha Games Subreddit
 * [LunarCore](https://github.com/Melledy/LunarCore) - Private Honkai: Star Rail Servers
-* [Star Rail Station](https://starrailstation.com/), [Pokke's Library](https://pokkelibrary.com/) or [stardb.gg](https://stardb.gg/) - Honkai Star Rai Guides
+* [Star Rail Station](https://starrailstation.com/), [Pokke's Library](https://pokkelibrary.com/) or [stardb.gg](https://stardb.gg/) - Honkai Star Rail Guides
 * [Seelie.me](https://seelie.me/) - Genshin / Star Rail Planner
 * [Genshin Center](https://genshin-center.com/) - Genshin Planner
 * [Genshin Helper Doc](https://docs.google.com/spreadsheets/d/1gNxZ2xab1J6o1TuNVWMeLOZ7TPOqrsf3SshP5DLvKzI/htmlview?pru=AAABdXYM80o*xMxXJdNbCCZ-v9FLVh6EXg) - Genshin Builds Guide
-* [Grasscutter](https://github.com/Grasscutters/Grasscutter) - Private Genshin Impact Servers / [Discord](https://discord.gg/T5vZU6UyeG)
+* [Grasscutter](https://grasscutter.io/) - Private Genshin Impact Servers / [Discord](https://discord.gg/T5vZU6UyeG)
 * [Genshin Impact FPS Unlocker](https://github.com/34736384/genshin-fps-unlock) - Unlock Genshin Impact FPS Cap
 * [Hoyolab Teyvat Interactive Map](https://act.hoyolab.com/ys/app/interactive-map/index.html), [Mapgenie Teyvat Interactive Map](https://mapgenie.io/genshin-impact) or [Genshin Impact Map](https://genshin-impact-map.appsample.com/) - Genshin Impact Maps
 
@@ -1121,7 +1123,7 @@
 * [Alternate History Simulator](https://abw.blue/) - Write Alternate History 
 * [NationStates](https://www.nationstates.net/) - Nation Simulation Game 
 * [CandyBox](https://candybox2.github.io/) - Candy Eating Game 
-* [BTShip](https://github.com/hairarrow/btship) - Typescript Boat Game
+* [BTShip](https://btship.vercel.app) / [GitHub](https://github.com/hairarrow/btship) - Typescript Boat Game
 * [asciicker](https://asciicker.com/) - ASCII Browser Adventure
 * [Maze](https://www.epgsoft.com/maze/), [Daedalus](https://www.astrolog.org/labyrnth/daedalus.htm), [Amaze](https://sourceforge.net/projects/qtamaze/files/) or [MazeGenerator](https://www.mazegenerator.net/) - Maze Generators
 * [BrantSteele](https://brantsteele.net/) or [Simublast](https://www.simublast.com/) - Game Show Simulators
@@ -1187,7 +1189,6 @@
 * 🌐 **[Online Board Games](https://i.ibb.co/4Yzk4nV/Zb-Q2ste-L-o.png)** / [2](https://imgbox.com/ZbQ2steL/), **[Curlie Board Games](https://curlie.org/en/Games/Video_Games/Recreation/Browser_Based/Board_Games)**, [Board Game Online](https://www.boardgame-online.com/), [Board Game Arena](https://en.boardgamearena.com/) or [FunNode](https://www.funnode.com/) - Board Game Indexes
 * 🌐 **[Curlie Cards](https://curlie.org/en/Games/Video_Games/Recreation/Browser_Based/Cards)** - Card Game Index
 * 🌐 **[Curlie Yahtzee](https://curlie.org/en/Games/Video_Games/Recreation/Browser_Based/Dice/Yahtzee)** - Yahtzee Game Index
-* 🌐 **[Awesome Go/Baduk/Weiqi](https://github.com/yanchick/awesome-GoBadukWeiqi)** - Go/Baduk/Weiqi Resources
 * ⭐ **[WorldOfCardGames](https://worldofcardgames.com/)**, [CardGames.io](https://cardgames.io/), [247Games](https://www.247games.com/), [CardzMania](https://www.cardzmania.com/) or [World of Solitaire](https://worldofsolitaire.com/) - Multiplayer Card Games
 * [Richup](https://richup.io/) - Monopoly-Style Board Game
 * [Rally The Troops](https://www.rally-the-troops.com/) - Historical Board Games / [Discord](https://discord.gg/CBrTh8k84A)

@@ -45,7 +45,7 @@
 
 * ⭐ **[Bypass All Shortlinks](https://codeberg.org/Amm0ni4/bypass-all-shortlinks-debloated/)**
 * ⭐ **[bypass.city](https://bypass.city/)**, [2](https://adbypass.org/) / [Userscript](https://bypass.city/how-to-install-userscript) / [Discord](https://discord.com/invite/uMEtrpRvAf)
-* [FastForward](https://fastforward.team/) / [Discord](https://discord.gg/RSAf7b5njt)
+* [FastForward](https://fastforward.team/) / [Discord](https://discord.gg/RSAf7b5njt) / [Note](https://pastebin.com/Gr2AhsE8)
 * [AdsBypasser](https://adsbypasser.github.io/) / [2](https://github.com/adsbypasser/adsbypasser)
 * [TheBypasser](https://thebypasser.com/)
 * [Bypass-Links](https://bypass-links.vercel.app) / [GitHub](https://github.com/amitsingh-007/bypass-links)
@@ -459,7 +459,7 @@
 * [wireproxy](https://github.com/pufferffish/wireproxy) - Use VPNs as proxies
 * [Hiddify](https://hiddify.com/) - Auto-Proxy Client
 * [NginxProxyManager](https://nginxproxymanager.com) / [GitHub](https://github.com/NginxProxyManager/nginx-proxy-manager) - Self-Hosted Proxy Server
-* [Shadowsocks](https://shadowsocks.org/) / [Free Servers](https://github.com/ruanfei/cross), [2](https://github.com/learnhard-cn/free_proxy_ss), [3](https://shadowmere.akiel.dev/) / [Client](https://github.com/shadowsocks/shadowsocks-windows) - Proxy Client and Self-Hosted Server
+* [Shadowsocks](https://shadowsocks.org/) / [Free Servers](https://github.com/ruanfei/cross), [2](https://github.com/vxiaov/free_proxies), [3](https://shadowmere.akiel.dev/) / [Client](https://github.com/shadowsocks/shadowsocks-windows) - Proxy Client and Self-Hosted Server
 * [Hysteria](https://v2.hysteria.network/) - Proxy Client and Self-Hosted Server
 * [Xray](https://github.com/XTLS/Xray-core) - Proxy Client and Self-Hosted Server / [Telegram](https://t.me/projectXray)
 * [Ultraviolet](https://docs.titaniumnetwork.org/proxies/ultraviolet) or [Metallic](https://github.com/cognetwork-dev/Metallic) - Self-Hosted Proxy Websites

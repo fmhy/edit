@@ -71,10 +71,10 @@
 * ⭐ **[Awesome Search](https://awesomelists.top/)** - Awesome List Search
 * [Awesome Tech for Good](https://github.com/TechforgoodCAST/awesome-techforgood) - Social-Impact Tech List
 * [Awesome OSS](https://github.com/RunaCapital/awesome-oss-alternatives) - Open-Source Alternatives to SaaS
-* [Awesome Web Apps](https://github.com/aviaryan/awesome-no-login-web-apps) - List of No-Login Web Apps
-* [Awesome Anime Sources](https://github.com/anshumanv/awesome-anime-sources) - List of All Things Anime
-* [Awesome DataHoarding](https://github.com/simon987/awesome-datahoarding) - List of Data-Hoarding Related Tools
-* [Awesome Uncopyright](https://github.com/johnjago/awesome-uncopyright) - List of All Things Public Domain
+* [Awesome Web Apps](https://github.com/aviaryan/awesome-no-login-web-apps) - No-Login Web Apps
+* [Awesome Anime Sources](https://github.com/anshumanv/awesome-anime-sources) - All Things Anime
+* [Awesome DataHoarding](https://github.com/simon987/awesome-datahoarding) - Data-Hoarding Related Tools
+* [Awesome Uncopyright](https://github.com/johnjago/awesome-uncopyright) - All Things Public Domain
 * [Awesome CLI](https://github.com/umutphp/awesome-cli) - CLI Interface for Searching Awesome Lists
 * [Track Awesome List](https://www.trackawesomelist.com/) - Daily Awesome List Updates
 
@@ -82,18 +82,18 @@
 
 ## ▷ Open Source Intelligence
 
-* 🌐 **[Awesome OSINT](https://github.com/jivoi/awesome-osint)** - List of Awesome OSINT
+* 🌐 **[Awesome OSINT](https://github.com/jivoi/awesome-osint)** - Awesome OSINT
 * ↪️ **[OSINT Collections](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_osint_collections)**
 * ⭐ **[IntelTechniques](https://inteltechniques.com/index.html)** or [OSINT Techniques](https://www.osinttechniques.com/) - OSINT Resources
-* ⭐ **[Analyst Research Tools](https://analystresearchtools.com/)**
-* [Osintracker](https://www.osintracker.com/) - OSINT Investigations Tracker
-* [Cyber Detective](https://cybdetective.com/) / [GitHub](https://github.com/cipher387) - OSINT Tools, Techniques, and Projects
+* ⭐ **[Analyst Research Tools](https://analystresearchtools.com/)** - Tools and Resources
+* [Osintracker](https://www.osintracker.com/) - Track Your Investigations
+* [Cyber Detective](https://cybdetective.com/) / [GitHub](https://github.com/cipher387) - Tools, Techniques, and Projects
 * [Project Owl](https://discord.com/invite/projectowl) - OSINT Community
 * [OSINT Dojo](https://www.osintdojo.com/resources/) - OSINT Guides
 * [Hackers Arise OSINT](https://www.hackers-arise.com/osint) - OSINT Guides
 * [What is OSINT?](https://www.recordedfuture.com/blog/open-source-intelligence-definition) - Article
 * [The Key to Unlocking the Web’s Secrets](https://www.einvestigator.com/open-source-intelligence-tools/) - Article
-* [Toddington](https://www.toddington.com/resources/free-osint-resources-open-source-intelligence-search-tools-research-tools-online-investigation/) - OSINT Search Resources
+* [Toddington](https://www.toddington.com/resources/free-osint-resources-open-source-intelligence-search-tools-research-tools-online-investigation/) - Search OSINT Resources
 * [Malfrat's OSINT Map](https://map.malfrats.industries/) - Interactive Map
 * [OH SHINT!](https://ohshint.gitbook.io/oh-shint-its-a-blog/) - OSINT Blog
 
@@ -165,6 +165,7 @@
 * [Recipe Search](https://recipe-search.typesense.org/) - Recipe Search
 * [RecipeRadar](https://www.reciperadar.com/) - Recipe Search
 * [Yummly](https://www.yummly.com/) - Recipe Search
+* [Recipe Site List](https://pastebin.com/f1wAjWEB) - List of Recipe Sites
 * [Recipeeper](https://www.recipeeper.com/) - Dietary-Based Recipes
 * [TasteAtlas](https://www.tasteatlas.com/) - Recipe Map
 * [CookingForEngineers](https://www.cookingforengineers.com/) - Recipes / Cooking Tests
@@ -240,6 +241,7 @@
 * [Bike Sharing](https://bikesharingworldmap.com/) - Bike Rental Map
 * [SkyDB](https://www.skydb.net/) - Skyscraper Locations / Info
 * [Google Flights](https://www.google.com/travel/flights) - Book Flights
+* [AZair](https://www.azair.eu/) - Flight Price Aggregator
 * [FlightRadar24](https://www.flightradar24.com/), [FlightStats](https://www.flightstats.com/), [PlaneFinder](https://planefinder.net/), [ADS-B Exchange](https://globe.adsbexchange.com/), [Radarbox](https://www.radarbox.com/) or [FlightAware](https://www.flightaware.com/) - Live Flight Trackers
 * [plane-notify](https://github.com/Jxck-S/plane-notify) - Plane Takeoff Notifications
 * [Misery Map](https://flightaware.com/miserymap/) - Flight Delay Map
@@ -247,11 +249,6 @@
 * [SkyVector](https://skyvector.com/) - Flight Planner
 * [Seat61](https://www.seat61.com/) - Train Travel Guide
 * [SitInShade](https://sitinshade.com/) - Avoid the Sun While Traveling
-* [The International Dialects of English Archive](https://www.dialectsarchive.com/globalmap) - Dialect Map
-* [JoinUS World](https://www.joinusworld.org/) - Korean Culture Q&A Site
-* [WorldStandards](https://www.worldstandards.eu/) - World Electricity and Driving Standards 
-* [Left vs. Right Side Driving Map](https://somerandomstuff1.files.wordpress.com/2019/02/left-or-right-side.png) - Left vs. Right Side Driving by Country
-* [Speed Limits Map](https://somerandomstuff1.files.wordpress.com/2019/02/highest-speed-limits-around-the-world.png) - Max Speed Limits
 * [Travel Safe](https://www.travelsafe-abroad.com/) - Travel Destination Safety Ratings
 * [Hate Map](https://www.splcenter.org/hate-map) - Hate Group Locations
 * [LiveUAMap](https://liveuamap.com/) - Ukraine Conflict Areas LiveFeed
@@ -287,33 +284,23 @@
 * [Snap Map](https://map.snapchat.com/) - Snap Chat Map
 * [Flickr Map](https://www.flickr.com/map/) - Flickr Map
 * [WhatIsHalfway](https://www.whatshalfway.com/) - Find Closest Point Between Two Locations
-* [AntipodesMap](https://www.antipodesmap.com/) - Find Antipodes
-* [Maps We Love](https://livingatlas.arcgis.com/), [CoolMaps](https://coolmaps.esri.com/#0), [SoGeografia](https://www.sogeografia.com.br/Mapas/) or [/r/MapPorn](https://reddit.com/r/MapPorn) - Multiple Maps 
-* [Mappin](https://mappin-pro.netlify.app/) - Printable Maps
-* [Human Terrain](https://pudding.cool/2018/10/city_3d/) or [WorldPopDen](https://luminocity3d.org/WorldPopDen/) - Human Population Maps
-* [Global Detention Project](https://www.globaldetentionproject.org/detention-centres/map-view) - Immigration Detention Centres
-* [Flags of the World](https://i.redd.it/lxtu47hf5ll51.jpg) - Worldwide Flag Map
-* [License Plates Map](https://i.redd.it/ue2r7cdb2s861.png) - License Plate Map
-* [European License Plate Map](https://i.redd.it/wcazzhjir8941.png) - European License Plate Map
+* [Maps We Love](https://livingatlas.arcgis.com/), [CoolMaps](https://coolmaps.esri.com/#0) or [/r/MapPorn](https://reddit.com/r/MapPorn) - Multiple Maps 
+* [WorldPopDen](https://luminocity3d.org/WorldPopDen/) - Human Population Maps
 * [aprs.fi](https://aprs.fi/) - Google Maps APRS
-* [satellite-map.gosur](https://satellite-map.gosur.com/), [MSN Weather Map](https://www.msn.com/en-us/weather/maps) or [Ventusky](https://www.ventusky.com/) - Weather Maps
+* [satellite-map.gosur](https://satellite-map.gosur.com/) or [Ventusky](https://www.ventusky.com/) - Weather Maps
 * [Cyclocane](https://www.cyclocane.com/) or [Tornado.live](https://tornado.live/) - Severe Weather Maps
-* [Windy](https://www.windy.com/) or [WebGL-Wind](https://mapbox.github.io/webgl-wind/demo/) - Wind Map
+* [Windy](https://www.windy.com/) - Wind Map
 * [Jetstream](https://www.netweather.tv/charts-and-data/global-jetstream) - Global Jetstream Forcast Map
-* [Tornado Archive](https://tornadoarchive.com/) - Tornado Data Visualization
-* [Air Now](https://gispub.epa.gov/airnow/), [AQICN](https://aqicn.org/map/world) or [Breezometer](https://www.breezometer.com/air-quality-map/) - Air Quality Maps
+* [AQICN](https://aqicn.org/map/world) or [Breezometer](https://www.breezometer.com/air-quality-map/) - Air Quality Maps
 * [SaveEcoBot](https://www.saveecobot.com/en/radiation-maps) - Radioactivity / Air Quality Near Ukraine
-* [Earth Observatory](https://earthobservatory.nasa.gov/global-maps), [Climate Sim](https://space.geometrian.com/calcs/climate-sim.php) or [ClimateCharts](https://climatecharts.net/) - Climate Maps
+* [Earth Observatory](https://earthobservatory.nasa.gov/global-maps) or [ClimateCharts](https://climatecharts.net/) - Climate Maps
 * [Safe Airspace](https://safeairspace.net/) - Aviation Risk Ratings
 * [MacroStrat](https://macrostrat.org/) - Geological Data Maps
-* [Global Hyrdo Data](https://www.esri.com/arcgis-blog/products/product/water/global-hydro-data-its-here-here-here/) - Global Hydro Data / Mapping
 * [Depth Map](https://usa.fishermap.org/depth-map/) or [Bathymetry](https://www.ncei.noaa.gov/maps/bathymetry/) - Water Depth Maps
 * [River Runner](https://river-runner.samlearner.com/) - River Map / [3D Map](https://river-runner-global.samlearner.com/)
-* [Gloric](https://www.hydrosheds.org/products/gloric) - River Type Database / Mapping
 * [Global Wetlands](https://www2.cifor.org/global-wetlands/) - Wetlands Map
 * [Mindat](https://www.mindat.org/countrylist.php) - Mineral Deposits Map
 * [Terrain Party](https://terrain.party/) - Terrain Height Map
-* [ElevationAPI](https://elevationapi.com/) - Elevation Data API
 * [PeakFinder](https://www.peakfinder.org/) - Mountain Maps
 * [topo maps](https://onlinetopomaps.net/) - Topographic Maps
 * [MetroOrbits](https://mic-ro.com/metro/index.html) - Subway Maps / Data
@@ -452,7 +439,7 @@
 
 ## ▷ Mental Health
 
-* 🌐 **[Awesome Mental Health](https://github.com/dreamingechoes/awesome-mental-health)** or [mentalillnessmouse](https://mentalillnessmouse.wordpress.com/helpfulresources/) - Mental Health Resources
+* 🌐 **[Awesome Mental Health](https://dreamingechoes.github.io/awesome-mental-health)** or [mentalillnessmouse](https://mentalillnessmouse.wordpress.com/helpfulresources/) - Mental Health Resources
 * ⭐ **[The Integral Guide to Well-Being](https://integralguide.com/)** - Mental Health Guide
 * [Nomie](https://v5.nomie.app/), [Koduko](https://github.com/Mazahir26/koduko) or [Respawn](https://respawn.pro/) - Habit / Mood Trackers
 * [You feel like shit.](https://philome.la/jace_harr/you-feel-like-shit-an-interactive-self-care-guide/play/index.html) - Interactive Self-Care Guide
@@ -462,7 +449,7 @@
 * [Zen Habits](https://zenhabits.net/) - Develop Zen Habits
 * [Medito](https://github.com/meditohq/medito-app) or [Heartfulness](https://www.heartfulnessapp.org/) - Meditation App
 * [Balance](https://balance.dvy.io/) - Challenge Anxious Thoughts w/ AI
-* [Plees Tracker](https://github.com/vmiklos/plees-tracker) - Sleep Tracker
+* [Plees Tracker](https://vmiklos.hu/plees-tracker/) - Sleep Tracker
 
 ***
 
@@ -728,7 +715,7 @@
 ## ▷ Startup
 
 * 🌐 **[Awesome Startup](https://github.com/Ibexoft/awesome-startup-tools-list)** or [Tools for Startups](https://docs.google.com/spreadsheets/d/1s6-hGBh0_tqa-jd23fsdYuwbmS8UPmElPqaH-Rnoa_A/htmlview) - Startup Resources Indexes
-* 🌐 **[moreThanFAANGM](https://github.com/Kaustubh-Natuskar/moreThanFAANGM)** - Good Companies / Startups Index
+* 🌐 **[moreThanFAANGM](https://kaustubh-natuskar.github.io/moreThanFAANGM/)** - Good Companies / Startups Index
 * [BetaList](https://betalist.com/) - Get Startup Ideas
 * [TheGrowthList](https://www.thegrowthlist.co/) - Startup Tips
 * [Business Generator](https://business-generator.vercel.app/) -  Generate Business Ideas
@@ -815,7 +802,6 @@
 * [StockInformer](https://www.stockinformer.com/) - Product Stock Notifications
 * [GiftWhale](https://giftwhale.com/) or [Wishlephant](https://wishlephant.com/) - Wishlist Generators
 * [Throne](https://throne.com/) - Wishlists for Creators
-* [Wii Shop Extension](https://github.com/corbindavenport/wii-shop-extension) - Play Nintendo Shop Music on Shopping Sites
 * [Ooak Finder](https://www.ooakfinder.com/) - Product Reverse Image Search
 * [Desenmascara](https://desenmascara.me/) - Spot Counterfeit Sites
 * [/r/FashionReps](https://www.reddit.com/r/FashionReps/) - Replica Clothing Community
@@ -969,7 +955,7 @@
 
 * 🌐 **[ProductivePrivacy](https://productiveprivacy.com/)** - Privacy-Focused Productivity Apps
 * ↪️ **[To-Do Lists](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools#wiki_.25B7_to_do_lists)**
-* ⭐ **[Super-Productivity](https://github.com/johannesjo/super-productivity)** - Time Tacker / Productivity App / To-Do List
+* ⭐ **[Super-Productivity](http://super-productivity.com)** - Time Tacker / Productivity App / To-Do List
 * ⭐ **[Habitica](https://habitica.com/)** - Achievement Style Productivity App
 * ⭐ **[Timeblocking](https://timeblocking.atomiclife.app/)** - Online Atomic Time Blocking 
 * [Cold Turkey](https://getcoldturkey.com/) - Site Blocker / Productivity App / [Premium (use python)](https://rentry.co/FMHYBase64#cold-turkey-premium)
@@ -1001,7 +987,7 @@
 * [Pick Time](https://pick-time.io/) - Easily Schedule Times with Friends
 * [Tweek](https://tweek.so/) - Calendar
 * [TinyMonth](https://tinymonth.com/) - Calendar
-* [TOAST UI Calendar](https://github.com/nhn/tui.calendar) - Calendar
+* [TOAST UI Calendar](http://ui.toast.com/tui-calendar) - Calendar
 * [Gantt](https://github.com/neuronetio/gantt-schedule-timeline-calendar) - Calendar
 * [Morgen](https://www.morgen.so/) - Calendar
 * [Office Holidays](https://www.officeholidays.com/) or [Forekast](https://forekast.com/) - World Event Calendars
