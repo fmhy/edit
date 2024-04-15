@@ -4,13 +4,9 @@
 ***
 ***
 
-# ► [VPN Guide](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25BA_vpn)
-
-***
-
 # ► Torrent Clients
 
-**Warning** - Make sure you [BIND](https://redd.it/ssy8vv) your VPN to your client to avoid ISP letters.
+**Warning** - Make sure you [BIND](https://redd.it/ssy8vv) your [VPN](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25BA_vpn) to your client to avoid ISP letters.
 
 ***
 
