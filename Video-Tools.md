@@ -297,7 +297,7 @@
 * ⭐ **[cobalt](https://cobalt.tools/)** - Multi-Site
 * ⭐ **[9xbuddy](https://9xbuddy.com/)**, [2](https://9xbuddy.online/) or [3](https://9xbuddy.in/) - Multi-Site
 * ⭐ **[Lux](https://github.com/iawia002/lux)** - Multi-Site
-* [VideoHelp DDL](https://forum.videohelp.com/forums/48-Video-Streaming-Downloading) - Video Downloading Forums
+* [VideoHelp Forum](https://forum.videohelp.com/) - All Things Media
 * [CD(R)M-Project](https://discord.gg/SYyvPxVyyW) - StreamFab Downloader
 * [TubeOffline](https://www.tubeoffline.com/) - Multi-Site
 * [VideoFK](https://www.videofk.com/) - Multi-Site
