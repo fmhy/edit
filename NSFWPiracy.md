@@ -573,7 +573,7 @@
 * ⭐ **[Stash](https://stashapp.cc/)**, [Fapel System](https://github.com/pronopython/fapel-system), [Porn Vault](https://gitlab.com/porn-vault/porn-vault) or [AdultMediaManager](https://github.com/adultmm/AdultMediaManager) - Porn File Managers
 * ⭐ **[PornStarByFace](https://pornstarbyface.com/)** - NSFW Image Reverse Search
 * ⭐ **[SauceNao](https://saucenao.com/)** - Fictional NSFW Reverse Image Search / [Extension](https://saucenao.com/tools/)
-* ⭐ **[Internet Adult Film Database](https://www.iafd.com/)** [Data18](https://www.data18.com/), [MyPornStarBook](https://www.mypornstarbook.net/), [Warashi](http://warashi-asian-pornstars.fr/) or [AVSOX](https://avsox.click/en) - Adult Film Databases / Reviews
+* ⭐ **[Internet Adult Film Database](https://www.iafd.com/)**, [Data18](https://www.data18.com/), [MyPornStarBook](https://www.mypornstarbook.net/), [Warashi](http://warashi-asian-pornstars.fr/) or [AVSOX](https://avsox.click/en) - Adult Film Databases / Reviews
 * ⭐ **[NameThatPorn](https://namethatporn.com/)**, [NameThatPornstar](https://namethatpornstar.com/), [r/pornID](https://www.reddit.com/r/pornID/) or [r/tipofmypenis](https://www.reddit.com/r/tipofmypenis/) - Porn Identification Communities
 * ⭐ **[Vibemate PC](https://vibemate.com/)** - Feature-Rich Porn Browser
 * ⭐ **[Bypass Subreddit Blocks](https://pastebin.com/gAAEQnqn)**
