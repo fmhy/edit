@@ -284,7 +284,7 @@
 * 🌐 **[DS Homebrew](https://ds-homebrew.com/)** - DS Homebrew Resources / [Wiki](https://wiki.ds-homebrew.com/) / [Discord](https://discord.com/invite/yD3spjv)
 * 🌐 **[Emulators on Consoles](https://emulation.gametechwiki.com/index.php/Category:Emulators_on_consoles)** - List of Emulators for Consoles
 * ⭐ **[PS4 Modding](https://youtu.be/vGhSgogxaG8)**, [PSX Hax](https://www.psxhax.com/), [PSDevWiki](https://www.psdevwiki.com/) or [Wololo](https://wololo.net/) - Playstation Modding Guides
-* ⭐ **[Hacks.Guide](https://hacks.guide/)**, **[CFW Guide](https://cfw.guide/)**, [ConsoleMods.org](https://consolemods.org/) / [Discord](https://discord.gg/x5vEnkR4C8), [Digiex](https://digiex.net/forums/), [Homebrew Guides](https://rentry.co/Guides), [Homebrew General](https://www.homebrewgeneral.net/) or [Gamebrew](https://www.gamebrew.org/) - Homebrew Guides
+* ⭐ **[Hacks.Guide](https://hacks.guide/)**, **[CFW Guide](https://cfw.guide/)**, [ConsoleMods.org](https://consolemods.org/) / [Discord](https://discord.gg/x5vEnkR4C8), [Digiex](https://digiex.net/forums/), [Homebrew Guides](https://rentry.co/Guides), [CFWaifu](https://www.cfwaifu.com/), [Homebrew General](https://www.homebrewgeneral.net/) or [Gamebrew](https://www.gamebrew.org/) - Homebrew Guides
 * ⭐ **[GBATemp](https://gbatemp.net/)** - Homebrew Forum
 * ⭐ **[Nintendo Homebrew](https://discord.gg/C29hYvh)** - Nintendo Homebrew Discord
 * ⭐ **[Wii Guide](https://wii.hacks.guide/)**, [WiiBrew](https://wiibrew.org/) or [Wii Softmod Guide](https://sites.google.com/site/completesg) - Wii Homebrew Guides
@@ -574,7 +574,6 @@
 * [Halo Custom Edition](https://www.haloce.org/) - Halo CE Online Servers
 * [Northstar](https://thunderstore.io/c/northstar/), [2](https://northstar.tf/) - Titanfall 2 Server Hosting & Modding / [GitHub](https://github.com/R2Northstar/Northstar/releases) / [Guide](https://rentry.org/northstar-guide) / [Discord](https://discord.gg/CEszSguY3A)
 * [CnCNet](https://cncnet.org/) - Multiplayer Command & Conquer 
-* [Rusticaland](https://rusticaland.net/) - Rust Cracked Client / Servers
 * [Factorio.zone](https://factorio.zone/) - Free Factorio Servers
 * [Toontown Rewritten](https://www.toontownrewritten.com/) - Toontown Multiplayer Revival
 * [Overwolf](https://www.overwolf.com/) - Create In-Game Overlay Apps
@@ -768,6 +767,7 @@
 * ⭐ **[Couleur Tweak Tips](https://discord.gg/CTT)** - Minecraft Tweaks / Tips
 * ⭐ **[paper-optimization](https://paper-chan.moe/paper-optimization/)** or [minecraft-optimization](https://github.com/YouHaveTrouble/minecraft-optimization) - Server Optimization Guides
 * ⭐ **[spark](https://spark.lucko.me/)** - Minecraft Performance Profiler
+* ⭐ **[MCPropertyEncyclopedia](https://joakimthorsen.github.io/MCPropertyEncyclopedia/)** - Block Property Encyclopedia
 * ⭐ **[Villager Trading Cheatsheet](https://i.ibb.co/sKBjbzg/e9f8d80e2376.png)**
 * ⭐ **[Minecraft Brewing Cheatsheet](https://minecraft.wiki/images/Minecraft_brewing_en.png)**
 * [Charm](https://svenhjol.github.io/Charm/), [Essential](https://essential.gg/) or [Quark](https://quarkmod.net/) - Minecraft Quality of Life Mods
