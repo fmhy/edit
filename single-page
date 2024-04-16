@@ -8760,7 +8760,7 @@ outline: false
 * ⭐ **[BleachBit](https://www.bleachbit.org/)** - Clean System Storage
 * ⭐ **[SophiApp](https://github.com/Sophia-Community/SophiApp)** / [Script](https://github.com/farag2/Sophia-Script-for-Windows) - Debloater
 * [GhostBuster](https://bitbucket.org/wvd-vegt/ghostbuster/src/master/) or [Device Cleanup Tool](https://www.majorgeeks.com/files/details/device_cleanup_tool.html) - Remove Non-Present Devices
-* [Win10Debloat](https://github.com/Raphire/Win10Debloat) - Debloater
+* [Win11Debloat](https://github.com/Raphire/Win11Debloat) - Debloater
 * [Should I Remove It?](https://www.shouldiremoveit.com/) - Program Removal Guide
 * [Adobe Debloater](https://github.com/FlickyOs/Adobe-Debloater) - Debloat Adobe Apps
 
@@ -8957,8 +8957,9 @@ outline: false
 
 ## ▷ GPU Tools
 
+* ⭐ **[nvtop](https://github.com/Syllo/nvtop)** - GPU / Accelerator Process Monitor
 * ⭐ **[GreenWithEnvy](https://gitlab.com/leinardi/gwe)** - Manage / Control NVIDIA Cards
-* ⭐ **[NVCleanInstall](https://www.techpowerup.com/download/techpowerup-nvcleanstall/)** or [NVSlimmer](https://www.majorgeeks.com/files/details/nvslimmer.html) - NVIDIA Driver Packages / [Install Guide](https://rentry.co/NVCleanInstall)
+* ⭐ **[NVCleanInstall](https://www.techpowerup.com/download/techpowerup-nvcleanstall/)** or [NVSlimmer](https://www.majorgeeks.com/files/details/nvslimmer.html) - NVIDIA Driver Packages
 * [Amernime Zone](https://amernimezone.com/) - 3rd Party AMD Drivers
 * [Vintage3D](https://vintage3d.org/driver.php) - First Gen 3D Drivers
 * [nvidiaProfileInspector](https://github.com/Orbmu2k/nvidiaProfileInspector) - Modify / View Hidden NVIDIA Settings / [Guide](https://youtu.be/XncmeD8khKY)
