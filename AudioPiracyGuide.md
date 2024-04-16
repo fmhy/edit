@@ -119,7 +119,7 @@
 * 🌐 **[Awesome Podcasts](https://github.com/rShetty/awesome-podcasts)** - Podcasts for Software Engineers
 * ↪️ **[Radio Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_radio_streaming_sites)**
 * ↪️ **[Android](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_android_podcasts_.2F_radio) / [iOS](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_ios_podcasts_.2F_radio)** - Podcast / Radio Apps
-* ⭐ **[Spotify Podcasts](https://open.spotify.com/browse/podcasts)** - Podcasts / [Companion](https://sebschaef.bitbucket.io/podify/) / [RSS](https://github.com/Yetangitu/Spodcast) / [Audio Download](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_spotify_downloaders) / [Video Download](https://rentry.co/spotifypodcast)
+* ⭐ **[Spotify Podcasts](https://open.spotify.com/browse/podcasts)** - Podcasts / [Companion](https://sebschaef.bitbucket.io/podify/) / [RSS](https://github.com/Yetangitu/Spodcast) / [Video Download](https://rentry.co/spotifypodcast)
 * ⭐ **[Radio Garden](https://radio.garden/)** - Worldwide Radio Globe
 * ⭐ **[Drive n Listen](https://drivenlisten.com/)** or [Drive & Listen](https://driveandlisten.herokuapp.com/) - Radio Driving Simulators
 * ⭐ **[Daft Punk Cafe](https://daftpunk.cafe/)** - Daft Punk Radio
