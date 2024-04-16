@@ -490,7 +490,7 @@
 # ► Hebrew / עברית
 
 * [AB-Maps](https://www.abmaps.com/) - Map Tool
-* [Ktuvit](https://www.ktuvit.me/) or [WizdomSubs](https://wizdom.xyz/) - Subtitles
+* [WizdomSubs](https://wizdom.xyz/) or [Ktuvit](https://www.ktuvit.me/) - Subtitles
 
 ## ▷ Streaming / הזרמה
 
