@@ -55,6 +55,7 @@
 * [Porndig](https://www.porndig.com/)
 * [anysex.com](https://anysex.com/)
 * [PreFap](https://prefap.com/)
+* [Sex-Empire](https://hd.sex-empire.org/en/)
 * [ifuqyou](https://enwww.ifuqyou.com/)
 * [PornXpert](https://www.pornxpert.com/)
 * [PornHD3x](https://www.pornhd3x.tv/)
@@ -385,6 +386,7 @@
 * [Simply Hentai](https://www.simply-hentai.com/web) - Hentai Manga
 * [HentaiEnvy](https://hentaienvy.com/) - Hentai Manga / Comics
 * [HentaiEra](https://hentaiera.com/) - Hentai Manga
+* [Yabai](https://yabai.si/) - Hentai Manga
 * [HentaiRead](https://hentairead.com/) - Hentai Manga
 * [HentaiHand](https://hentaihand.com/en/) - Hentai Manga
 * [HentaiZap](https://hentaizap.com/) - Hentai Manga
@@ -465,6 +467,7 @@
 * [69 Games](https://forum.69games.xxx/)
 * [LewdCorner](https://lewdcorner.com/)
 * [The Asenheim Project](https://www.asenheim.org/)
+* [GamCore](https://gamcore.com/) - NSFW Browser Games
 * [LewdList](http://web.archive.org/web/20190515205509/https://www.lewdlist.com/) - Game Index
 * [Lewdzone](https://lewdzone.com/) - Games / Animations
 * [Lewd Patcher](https://lewdpatcher.com/) - Adult Game Patches
@@ -522,7 +525,8 @@
 * [Bellesa](https://www.bellesa.co/story/all) - Fictional
 * [SexualStories](https://sexualstories.club/) - Fictional
 * [TheFetLibrary](https://www.thefetlibrary.com/) - Fictional
-* [Adult-Fanfiction](https://www.adult-fanfiction.org/) - Fanfiction
+* [QuestionableQuestingQ](https://forum.questionablequesting.com/) - Fictional / Signup Required
+* [Adult-Fanfiction](https://www.adult-fanfiction.org/) - Fictional
 * [HyperDreams](https://www.hyperdreams.com/) - Fictional / Interactive
 * [Infaera](https://infaera.neocities.org/) - Fictional / Interactive
 * [EroFights](https://erofights.com/) - Fictional / Chat-Based
@@ -569,7 +573,7 @@
 * ⭐ **[Stash](https://stashapp.cc/)**, [Fapel System](https://github.com/pronopython/fapel-system), [Porn Vault](https://gitlab.com/porn-vault/porn-vault) or [AdultMediaManager](https://github.com/adultmm/AdultMediaManager) - Porn File Managers
 * ⭐ **[PornStarByFace](https://pornstarbyface.com/)** - NSFW Image Reverse Search
 * ⭐ **[SauceNao](https://saucenao.com/)** - Fictional NSFW Reverse Image Search / [Extension](https://saucenao.com/tools/)
-* ⭐ **[Internet Adult Film Database](https://www.iafd.com/)**, [MyPornStarBook](https://www.mypornstarbook.net/), [Warashi](http://warashi-asian-pornstars.fr/) or [AVSOX](https://avsox.click/en) - Adult Film Databases / Reviews
+* ⭐ **[Internet Adult Film Database](https://www.iafd.com/)** [Data18](https://www.data18.com/), [MyPornStarBook](https://www.mypornstarbook.net/), [Warashi](http://warashi-asian-pornstars.fr/) or [AVSOX](https://avsox.click/en) - Adult Film Databases / Reviews
 * ⭐ **[NameThatPorn](https://namethatporn.com/)**, [NameThatPornstar](https://namethatpornstar.com/), [r/pornID](https://www.reddit.com/r/pornID/) or [r/tipofmypenis](https://www.reddit.com/r/tipofmypenis/) - Porn Identification Communities
 * ⭐ **[Vibemate PC](https://vibemate.com/)** - Feature-Rich Porn Browser
 * ⭐ **[Bypass Subreddit Blocks](https://pastebin.com/gAAEQnqn)**
@@ -583,6 +587,7 @@
 * [FapInstructor](https://fapinstructor.com/) or [Joi.how](https://joi.how/) - Fap Instructor Tools
 * [BDSM Tools](https://www.bdsmtools.org/) - BDSM Tools
 * [BDSM Test](https://bdsmtest.org/) - BDSM Test
+* [KinxList](https://kinxlist.com/) - BDSM Checklist
 * [Chaster](https://chaster.app/) - Chastity Tools
 * [WallTalker](https://walltaker.joi.how/) - Control Wallpapers
 * [Awesome-Buttplug](https://github.com/buttplugio/awesome-buttplug) - Buttplug Project Index
