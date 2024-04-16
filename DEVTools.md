@@ -974,6 +974,7 @@
 * [git-annex](https://git-annex.branchable.com/) - Manage Large Git Files (without Git)
 * [GitList](https://gitlist.org/) - Elegant Git Repository Viewer / [GitHub](https://github.com/klaussilveira/gitlist)
 * [Gittyup](https://murmele.github.io/Gittyup/) - Git Source Code History
+* [Gource](https://gource.io/) - Git Project Visulizer
 * [git](https://git-scm.com/), [SCM](https://sapling-scm.com/) or [darcs](https://darcs.net/) - Version Control Systems
 * [multi-gitter](https://github.com/lindell/multi-gitter) - Bulk Repository Updater
 * [Meld](https://meldmerge.org/) - Git Visual Diff / Merge Tool
@@ -1047,7 +1048,7 @@
 * [GitStalk](https://gitstalk.netlify.app/) - GitHub Profile Info Search
 * [ProfileMe.dev](https://www.profileme.dev/) - Create Github Profile
 * [Discord MD Badge](https://github.com/gitlimes/discord-md-badge) - Add Discord Badge to GitHub
-* [Github vscode icons]) / [GitHub](https://github.com/dderevjanik/github-vscode-icons) - VSCode Icons
+* [github-vscode-icons](https://github.com/dderevjanik/github-vscode-icons) - VSCode Icons
 * [github-material-icons-extension](https://github.com/Claudiohbsantos/github-material-icons-extension) - Material Icons
 * [gist.io](https://gist.io/) - Git Blog Platform
 * [OpenHub](https://thirtydegreesray.github.io/OpenHub/), [diohub](https://github.com/NamanShergill/diohub), [Fasthub-Libre](https://github.com/thermatk/FastHub-Libre), [FastHub-RE](https://github.com/LightDestory/FastHub-RE), or [OctoDroid](https://github.com/slapperwan/gh4a) - Android GitHub Clients
@@ -1421,6 +1422,7 @@
 ## ▷ API Tools
 
 * 🌐 **[Awesome APIs](https://github.com/TonnyL/Awesome_APIs)**, [API List](https://apilist.fun/), [Public APIs](https://publicapis.dev/), [RapidAPI](https://rapidapi.com/), [APIsList](https://apislist.com/), [API House](https://apihouse.vercel.app/), [APIs Guru](https://apis.guru/), [Public API Lists](https://github.com/public-api-lists/public-api-lists) or [Public APIs](http://public-apis.org) / [GitHub](https://github.com/public-apis/public-apis) - API Indexes
+* 🌐 **[Awesome API Security](https://github.com/arainho/awesome-api-security)** or [APIKit](https://github.com/API-Security/APIKit) - API Security Resources
 * 🌐 **[List of Providers](https://docs.consumet.org/list-of-providers)** - Piracy Site APIs
 * 🌐 **[Free AI Stuff](https://github.com/zukixa/cool-ai-stuff)** or [API Together](https://api.together.xyz/playground) - AI APIs and Sites
 * ⭐ **[hoppscotch](https://hoppscotch.io/)** - API Development Ecosystem / [GitHub](https://github.com/hoppscotch/hoppscotch)
@@ -1435,7 +1437,6 @@
 * [Bruno](https://www.usebruno.com/) - API Testing Client
 * [Siesta](http://siestaframework.com) - Write REST API Clients for iOS / macOS
 * [WebAuthn](https://webauthn.io/) - Data Security Authentication API
-* [APIKit](https://github.com/API-Security/APIKit) - API Security Tools
 * [ReDoc](https://redocly.github.io/redoc/) - Generate API Documentation
 * [Mockable](https://www.mockable.io/), [Mocky](https://designer.mocky.io/) or [MockLab](https://www.wiremock.io/) - Mock APIs
 * [{JSON} Placeholder](https://jsonplaceholder.typicode.com/) - Fake APIs
