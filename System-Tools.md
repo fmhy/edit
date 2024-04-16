@@ -104,7 +104,7 @@
 * 🌐 **[awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps)** or [command-line-tools](https://github.com/learn-anything/command-line-tools) - Command Line Resources
 * ⭐ **[Clink](https://github.com/chrisant996/clink)** - Command Line Editing
 * ⭐ **[ss64](https://ss64.com/)** - Command Line Reference Index
-* [Windows Terminal](https://www.microsoft.com/store/productId/9N0DX20HK701) / [2](https://github.com/microsoft/terminal/), [kitty](https://sw.kovidgoyal.net/kitty/), [Tess](https://github.com/SquitchYT/Tess), [ConEmu](https://github.com/Maximus5/ConEmu), [Hyper](https://hyper.is/), [Terminus](https://eugeny.github.io/terminus/), [console 2](https://github.com/cbucher/console) or [MobaXterm](https://mobaxterm.mobatek.net/) - Windows Terminals
+* [Windows Terminal](https://www.microsoft.com/store/productId/9N0DX20HK701) / [2](https://github.com/microsoft/terminal/), [kitty](https://sw.kovidgoyal.net/kitty/), [Tess](https://github.com/SquitchYT/Tess), [ConEmu](https://github.com/Maximus5/ConEmu), [Hyper](https://hyper.is/), [Terminus](https://eugeny.github.io/terminus/), [console 2](https://github.com/cbucher/console), [Tabby](https://tabby.sh/) or [MobaXterm](https://mobaxterm.mobatek.net/) - Windows Terminals
 * [BusyBox](https://frippery.org/busybox/) - Unix Commands for Windows
 * [Tiny Care Terminal](https://github.com/notwaldorf/tiny-care-terminal) - Terminal Dashboard That Cares
 * [Gradient Terminal](https://github.com/aurora-0025/gradient-terminal) - Display Terminal Output as Gradient
@@ -247,7 +247,6 @@
 * [Amernime Zone](https://amernimezone.com/) - 3rd Party AMD Drivers
 * [Vintage3D](https://vintage3d.org/driver.php) - First Gen 3D Drivers
 * [nvidiaProfileInspector](https://github.com/Orbmu2k/nvidiaProfileInspector) - Modify / View Hidden NVIDIA Settings / [Guide](https://youtu.be/XncmeD8khKY)
-* [NVIDIAOptimize](https://rentry.co/NVIDIAOptimize) - Debloat NVIDIA Drivers
 * [AMDDebloat](https://rentry.co/AMDDebloat) or [RadeonSoftwareSlimmer](https://github.com/GSDragoon/RadeonSoftwareSlimmer) - Debloat AMD Drivers
 * [SMCAMDProcessor](https://github.com/trulyspinach/SMCAMDProcessor) - AMD Processor Power Management
 * [PresentMon](https://github.com/GameTechDev/PresentMon) - GPU Benchmarking
@@ -472,7 +471,6 @@
 * [Win98Icons](https://win98icons.alexmeub.com/) - Classic Win98 Icons
 * [Modern Flyouts](https://apps.microsoft.com/store/detail/modernflyouts-preview/9MT60QV066RP) or [MediaFlyout](https://github.com/krlvm/MediaFlyout) - Modern Context Menus / [GitHub](https://github.com/ModernFlyouts-Community/ModernFlyouts)
 * [ModernWinver](https://github.com/torchgm/NewModernWinver) or [WinverUWP](https://github.com/dongle-the-gadget/WinverUWP) - Modern Windows About Page
-* [Tabby](https://tabby.sh/) - Modern Terminal Theme
 * [linux-like-windows-terminal](https://github.com/Kyza/linux-like-windows-terminal) - Linux Terminal Theme
 * [cool-retro-term](https://github.com/Swordfish90/cool-retro-term) - Retro Cathode Terminal Theme
 * [Pokemon Terminal](https://github.com/LazoCoder/Pokemon-Terminal) - Pokemon Terminal Themes
