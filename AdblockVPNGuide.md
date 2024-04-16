@@ -381,8 +381,8 @@
 * 🌐 **[2FA Directory](https://2fa.directory/)** - List of Sites with 2FA Support
 * ⭐ **[Ente Auth](https://github.com/ente-io/ente#ente-auth)** - Windows / Mac / Android / iOS 2FA / [Audit](https://ente.io/blog/cryptography-audit/)
 * ⭐ **[Aegis](https://getaegis.app/)** - Android 2FA
+* ⭐ **[AuthenticatorPro](https://authenticatorpro.jmh.me)** - Android 2FA
 * [2FAS](https://2fas.com/) - Android / iOS 2FA / [Discord](https://discord.gg/q4cP6qh2g5)
-* [AuthenticatorPro](https://authenticatorpro.jmh.me) - Android 2FA
 * [Mauth](https://github.com/X1nto/Mauth) - Android 2FA
 * [KeePassXC](https://keepassxc.org/) - Windows / Mac / Linux 2FA / [Guide](https://youtu.be/ckWPHaQwft8)
 * [AuthMe](https://authme.levminer.com/) - Windows / Mac / Linux 2FA / [GitHub](https://github.com/Levminer/authme)
