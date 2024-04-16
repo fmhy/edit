@@ -116,7 +116,7 @@ Use [this](https://twitter.com/Magnolia1234B/status/1779050596181438791) / [Fork
 
 ### Streaming
 
-**[Braflix](https://www.braflix.app/) / [watch.lonelil](https://watch.lonelil.ru/) / [movie-web](https://movie-web.github.io/docs/instances) / [FMovies](https://fmoviesz.to/)** - Fast movie / TV streaming
+**[Binged](https://binged.live/) / [Braflix](https://www.braflix.app/) / [watch.lonelil](https://watch.lonelil.ru/) / [FMovies](https://fmoviesz.to/)** - Fast movie / TV streaming
 **[HiAnime](https://hianime.to/)** - Fast anime streaming
 **[Dramacool](https://dramacool.cy/)** - Fast Asian drama streaming
 **[SportsSurge](https://sportsurge.net/)** - Live sports streaming
