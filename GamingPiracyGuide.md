@@ -729,6 +729,7 @@
 * [Collection Manager](https://github.com/Piotrekol/CollectionManager) - Osu! Collection Manager
 * [osu trainer](https://github.com/FunOrange/osu-trainer) - Osu! Trainer
 * [SpinShare](https://spinsha.re/) - Spin Rhythm XD Custom Charts
+* [Archipelago](https://archipelago.gg/) - Multi-Game Randomizer
 
 ***
 
@@ -1250,6 +1251,7 @@
 * [PuzzlePrime](https://www.puzzleprime.com/) - Problems / Puzzles
 * [HoverCats](https://hovercats.gg/) - Multiplayer Crosswords
 * [Regex Cross­word](https://regexcrossword.com/) - Regex Cross­words
+* [Web Paint-by-Number](https://webpbn.com/) or [Nonograms](https://www.nonograms.org/) - Graphic Crosswords
 * [eWordChallenge](https://www.ewordchallenge.net/) - Boggle Online
 * [Game for the Brain](https://www.gamesforthebrain.com/) - Puzzles / Quizzes
 * [MasasGames](https://masasgames.com/) - Virtual Escape Rooms

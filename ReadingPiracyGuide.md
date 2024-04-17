@@ -130,7 +130,7 @@
 * [Planet Publish](https://www.planetpublish.com/)
 * [BAEN](https://www.baen.com/catalog/category/view/s/free-library/id/2012)
 * [sherlock-holm.es](https://sherlock-holm.es/) - Complete Sherlock Holmes Canon
-* [Wikibooks](https://www.wikibooks.org/) - Wikimedia community
+* [Wikibooks](https://www.wikibooks.org/) - Wikimedia Community
 * [WorldCat](https://www.worldcat.org/), [LibrarySearch](https://librarysearch.gre.ac.uk/) or [TRL](https://www.trl.org/) - Search Local Libraries / [Extension](https://www.libraryextension.com/)
 
 ***

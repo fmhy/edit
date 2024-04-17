@@ -474,7 +474,7 @@
 * ⭐ **[YouTube Advanced Search](https://playlists.at/youtube/search/)** - Search Engine
 * ⭐ **[Filmot](https://filmot.com/)** or [ytks](https://ytks.app/) - Search within YouTube Transcripts / [Firefox](https://addons.mozilla.org/en-US/firefox/addon/youtube-captions-search/) / [Chrome](https://chromewebstore.google.com/detail/youtube-captions-search/kimbeggjgnmckoikpckibeoaocafcpbg)
 * [YouTube Search Fixer Suite](https://addons.mozilla.org/en-US/firefox/addon/youtube-suite-search-fixer/) - Fix YouTube Search / Declutter Homepage
-* [Youtube Search Grid View](https://greasyfork.org/en/scripts/481422-youtube-search-results-in-grid-view) - View Results in Grid
+* [YouTube Search Grid View](https://greasyfork.org/en/scripts/481422-youtube-search-results-in-grid-view) - View Results in Grid
 * [Channel Crawler](https://channelcrawler.com/eng) or [YT-FTS](https://github.com/NotJoeMartinez/yt-fts) - Channel Search Tools
 * [Comment Viewer](https://commentviewer.com/), [Hadzy](https://hadzy.com/), [YCS](https://chromewebstore.google.com/detail/ycs-youtube-comment-searc/pmfhcilikeembgbiadjiojgfgcfbcoaaen) or [YCF](https://ytcomment.kmcat.uk/) - YouTube Comment Search
 * [petittube](https://petittube.com/) - Find YouTube Videos with >100 Views
@@ -544,7 +544,7 @@
 * [VideoAdBlockForTwitch](https://github.com/cleanlock/VideoAdBlockForTwitch) - Twitch Adblocker
 * [luminous-ttv](https://github.com/AlyoshaVasilieva/luminous-ttv) - Twitch Adblocker
 * [Adblocker for Twitch](https://microsoftedge.microsoft.com/addons/detail/adblocker-for-twitch%E2%84%A2/glgpmlmjlaljaddimbgekaepkgbojjdn) - Edge Twitch Adblocker
-*  [PurpleTV](https://purpletv.aeong.one/) / [Alpha](https://t.me/pubTwAlpha) - Ad Free Twitch APK
+* [PurpleTV](https://purpletv.aeong.one/) / [Alpha](https://t.me/pubTwAlpha) - Ad Free Twitch APK
 
 ***
 
@@ -648,6 +648,7 @@
 * [Fediverse People Directory](https://fediverse.info/explore/people) - Self-Submitted User Directory
 * [FediverseRedirect](https://github.com/zacharee/MastodonRedirect) - Frontend Redirect
 * [Bridgy Fed](https://fed.brid.gy/) - Fediverse Bridge
+* [PodcastAP](https://podcastap.com/) - Podcast Feed Bridge
 * [The Fediverse Report](https://fediversereport.com/) - Fediverse News
 * [FediBuzz](https://fedi.buzz/in/en) - Fediverse Trends
 * [Sepia Search](https://sepiasearch.org/) - PeerTube Search
@@ -663,6 +664,8 @@
 * [western.social](https://western.social/) - User Search
 * [Tootfinder](https://www.tootfinder.ch/) - Opt-In Full Text Search
 * [Mastodon Scheduler](https://scheduler.mastodon.tools/) or [FediPlan](https://plan.fedilab.app/) - Schedule Posts
+* [Mastodon List Manager](https://www.mastodonlistmanager.org/main) or [Mastodon Lists Manager](https://mastodon-lists-manager.huey.xyz/) - Bulk List Editors
+* [Mastodon Share Bookmarklet Creator](https://eai04191.github.io/mastodon-share-let-maker/index.html) - Quick Share Bookmarklet
 * [Mastodon Embed Timeline](https://gitlab.com/idotj/mastodon-embed-timeline) or [Mastofeed](https://mastofeed.com/) - Embedded Mastodon Feeds
 * [Cheap Bots, Toot Sweet!](https://cheapbotstootsweet.com/) - Create Bots
 
@@ -680,7 +683,7 @@
 
 # ► 4chan Tools
 
-* ⭐ **[AnyChans](https://anychans.github.io/)** or [LuckyChan](https://luckychan.app/)  - 4chan Web Clients
+* ⭐ **[AnyChans](https://anychans.github.io/)** or [LuckyChan](https://luckychan.app/) - 4chan Web Clients
 * ⭐ **[4chan X](https://www.4chan-x.net/)**, [SpookyX](https://github.com/Fiddlekins/SpookyX), [4Chan XT](https://github.com/TuxedoTako/4chan-xt) or [Dollchan](https://dollchan.net/) - Enhancement Extensions
 * [Lurka](https://github.com/AdamSalma/Lurka) - Desktop Client
 * [RedditChan](https://reddit-chan.vercel.app/) - Reddit Style 4chan Web Client
@@ -692,7 +695,7 @@
 * [4Chan GhostPostMixer](https://github.com/g-gundam/4chan-ghostpostmixer) - Interleave Deleted Posts from Archives
 * [Tripgen](https://orph.link/tripgen) - Imageboard Trip Code Generator 
 * [4Chan Captcha Solver](https://github.com/drunohazarb/4chan-captcha-solver) - Auto Captcha Solvers
-* [Bypass Deferer](https://greasyfork.org/en/scripts/451259) - Remove Link Deferer
+* [Bypass Derefer](https://greasyfork.org/en/scripts/451259) - Remove Link Derefer
 * [Extra Flags for 4chan](https://gitlab.com/flagtism/Extra-Flags-for-4chan) - Add More Flags to 4chan
 * [ss21](https://github.com/saxamaphone69/ss21), [OneeChan](https://github.com/KevinParnell/OneeChan) or [4cheddit](https://greasyfork.org/en/scripts/16672) - 4chan Themes
 
@@ -716,11 +719,12 @@
 # ► Blogging Tools
 
 * [Telescope](https://telescope.ac/) - Publishing Platform
-* [Bear Blog](https://bearblog.dev/) - Privacy-Based Blogging Platform
 * [Arbital](https://arbital.com/) - Hybrid Blogging / Wiki Platform
 * [Haven](https://havenweb.org/) or [WriteFreely](https://writefreely.org/) - Self-hosted Blogging Platforms
 * [Multiverse](https://multiverse.plus/) - Make Highly Customizable Blogs
-* [Mataroa](https://mataroa.blog/), [Zonelets](https://zonelets.net/), [Notepin](https://notepin.co/) or [smol.pub](https://smol.pub/) / [Key](https://m15o.ichi.city/smolpub/key-request.html) - Minimalist Blogging Platforms
+* [Bear Blog](https://bearblog.dev/), [Mataroa](https://mataroa.blog/), or [smol.pub](https://smol.pub/) / [Key](https://m15o.ichi.city/smolpub/key-request.html) - Minimalist Blogging Platforms
+* [Notepin](https://notepin.co/) - Anonymous Blogging Platform
+* [Zonelets](https://zonelets.net/) - Static Blog Template
 * [twtxt](https://github.com/buckket/twtxt) - Decentralized Minimalist Microblogging Service
 * [Emanates Docs](https://emanates.deepjyoti30.dev/) - Make GitHub-Based Blogs
 * [You Don't Need WP](https://www.youdontneedwp.com/) - Make Blogs with Google Docs

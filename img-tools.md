@@ -203,6 +203,8 @@
 * [Milton](https://www.miltonpaint.com/) - Infinite Canvas Painting
 * [IOGraphica](https://iographica.com/) - Turn Mouse Movement into Art
 * [HeavyPaint](https://www.heavypaint.com/) - Water Color Painting
+* [Mixbox Painter](https://scrtwpns.com/mixbox/painter/) - Realistic Paint Mixing
+* [Vervette](https://www.taron.de/Vervette/sandbox/) - Realistic Fluid Painting
 * [JacksonPollock](https://www.jacksonpollock.org/) - Splatter Painting / Click to Change Color
 * [brush-photoshop](https://www.brush-photoshop.fr/), [wowbrushes](https://wowbrushes.com/), [chezplumeau](https://www.chezplumeau.com/), [getbrushes](https://getbrushes.com/), [gfxfever](https://www.gfxfever.com/), [fbrushes](https://fbrushes.com/), [brushes_and_patterns](https://t.me/brushes_and_patterns), [myphotoshopbrushes](https://myphotoshopbrushes.com/), [brusheezy](https://www.brusheezy.com/brushes), [brushking](https://www.brushking.eu/) or [tala](https://t.me/tala_photoshop_brushes) - Digital Art Brushes
 

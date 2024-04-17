@@ -637,6 +637,7 @@
 * [Hey! Lingo](https://www.heylingo.com/) or [LearnWithOliver](https://www.learnwitholiver.com/) - Language Learning Flashcards
 * [MyLanguages](https://mylanguages.org/) - Grammar / Vocabulary Language Learning
 * [Vocatra](https://esite.ch/vocatra/) - Vocabulary Trainer
+* [Verbix](https://www.verbix.com/) - Verb Conjugator
 * [ListLang](https://www.listlang.com/) - Most Used Words in Any Language
 * [wehewehe](https://wehewehe.org/) - Hawaiian Dictionary
 * [Polyglot](https://polyglotclub.com/) - Offline Language Exchange

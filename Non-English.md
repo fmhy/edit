@@ -229,7 +229,7 @@
 * [guoxuedashi.net](https://www.guoxuedashi.net/) - Fiction / Non-fiction
 * [huibooks.com](https://www.huibooks.com/) - Fiction / Non-fiction
 * [5165.org](https://5165.org/) - Fiction / Nonfiction
-* [zhonghuadiancang](https://www.zhonghuadiancang.com/)  - Classic Books
+* [zhonghuadiancang](https://www.zhonghuadiancang.com/) - Classic Books
 * [52shuku](https://www.52shuku.vip/) - Books / Light-Novels
 * [ttkan](https://www.ttkan.co) - Books / Light-Novels
 * [Huangdizhijia](https://www.huangdizhijia.com/index.html) - Books / Light-Novels
@@ -1844,7 +1844,7 @@
 * [cuutruyen](https://cuutruyen.net/) - Manga
 * [Bao Tung Truyen](https://baotangtruyen7.com/) - Manga
 * [Kyoto Manga](https://kyotomanga.live/) - Manga
-* [NetTruyen](https://www.nettruyenclub.com/)  - Manga
+* [NetTruyen](https://www.nettruyenclub.com/) - Manga
 * [blogtruyen](https://blogtruyenvn.com/) - Manga
 * [truyenvn](https://truyenvnhay.tv/) - Manga/ Manhwa/ Manhua
 * [PheTruyen](https://phetruyen.pro/) - Manga/ Manhwa/ Manhua
