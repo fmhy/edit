@@ -388,7 +388,6 @@
 * [FinURLs](https://finurls.com/) or [WOC Street](https://wocstreet.com/ai-news) - Finance & Business News
 * [Citizen](https://citizen.com/explore) - Real Time Local News (US Only)
 * [PlaneCrashInfo](https://www.planecrashinfo.com/) - Plane Crash Reports
-* [Dutchsinse](https://www.twitch.tv/dutchsinseofficial) - Live 24/7 Earthquake Updates / [YouTube](https://www.youtube.com/user/dutchsinse)
 * [USGS Earthquake Map](https://earthquake.usgs.gov/earthquakes/map/) - Earthquake Activity Map
 * [VolcanoDiscovery](https://www.volcanodiscovery.com/erupting_volcanoes.html) - Volcano Activity Map
 * [Read Something Interesting](https://readsomethinginteresting.com/), [Read Something Wonderful](https://readsomethingwonderful.com/), [Read Something Great](https://www.readsomethinggreat.com/), or [BoredReading](https://boredreading.com/) - Random Articles / Blog Posts
