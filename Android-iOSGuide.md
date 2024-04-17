@@ -522,7 +522,7 @@
 * [Nekogram](https://nekogram.app/), [AyuGram](https://t.me/ayugramchat), [NekoX](https://github.com/dic1911/NekoX), [TelegramAndroid](https://github.com/Forkgram/TelegramAndroid), [Nagram](https://github.com/nextalone/nagram), [exteraGram](https://exteragram.app/), [Cherrygram](https://github.com/arsLan4k1390/Cherrygram), [Nullgram](https://github.com/qwq233/Nullgram/), [Octogram](https://octogram.site/), [TelegramAndroid](https://github.com/forkgram/TelegramAndroid) or [Telegram-FOSS](https://github.com/Telegram-FOSS-Team/Telegram-FOSS) - Telegram Clients
 * [Telegram Monet](https://github.com/mi-g-alex/Telegram-Monet) / [Telegram](https://t.me/tgmonet) - Telegram Theme Creator
 * [FouadMODS](https://t.me/FouadMODS) - Modded WhatsApp
-* [Tellurium](https://play.google.com/store/apps/details?id=com.quadren.tellurium) - Number Free WhatsApp Chat
+* [Tellurium](https://play.google.com/store/apps/details?id=com.quadren.tellurium) - Numberless WhatsApp Chat
 * [WhatsappWebToGo](https://github.com/92lleo/WhatsappWebToGo) - Mobile WhatsApp Web Client
 * [WhatsAppPatcher](https://github.com/Schwartzblat/WhatsAppPatcher) - WhatsApp Patcher
 * [Whatsapp Backup Reader](https://whatsappbr.netlify.app/) - Read Exported Whatsapp Chats
