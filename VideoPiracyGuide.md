@@ -8,7 +8,7 @@
 
 ## ▷ Multi Server
 
-* ⭐ **[Binged](https://binged.live/)**, [2](https://binged.in/), [3](https://binge.lol/) or [Flixer](https://flixer.one/), [2](https://flixhq.live/)  - Movies / TV / Anime / 1080p / [Discord](https://discord.gg/f2SvhcKCKS)
+* ⭐ **[Binged](https://binged.live/)**, [2](https://binged.in/), [3](https://binge.lol/) or [Flixer](https://flixer.one/), [2](https://flixhq.live/) - Movies / TV / Anime / 1080p / [Discord](https://discord.gg/f2SvhcKCKS)
 * ⭐ **[Braflix](https://www.braflix.video/)** - Movies / TV / Anime / 4K / 1080p / [Discord](https://discord.gg/wWKmxARaWH)
 * ⭐ **[watch.lonelil](https://watch.lonelil.ru/)** - Movies / TV / Anime / 4K / 1080p / [Discord](https://discord.com/invite/BKts6Jb5sA) / [Telegram](https://t.me/watchlonelil)
 * ⭐ **[FMovies](https://fmoviesz.to/)** - Movies / TV / Anime / 1080p / [Mirrors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_fmovies_clones)
@@ -22,7 +22,7 @@
 * ⭐ **[SFlix](https://sflix.to/)** - Movies / TV / Anime / 1080p / [Mirrors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_sflix_clones)
 * ⭐ **[MovieBeams](https://moviebeamz.com/)** - Movies / TV / Anime / 4K / 1080p
 * ⭐ **[HydraHD](https://hydrahd.com/)** - Movies / TV / Anime / 1080p
-* ⭐ **[StreamFlix](https://watch.streamflix.one/)**, [2](https://watchamovie.today/), [3](https://streamflix.space/)  - Movies / TV / Anime / 1080p / [Discord](https://discord.gg/C8fyfz5pYz)
+* ⭐ **[StreamFlix](https://watch.streamflix.one/)**, [2](https://watchamovie.today/), [3](https://streamflix.space/) - Movies / TV / Anime / 1080p / [Discord](https://discord.gg/C8fyfz5pYz)
 * ⭐ **[UpMovies](https://upmovies.net/)**, [2](https://flixwave.me/), [3](https://vumoo.mx/) - Movies / TV / Anime / 1080p / Use Adblock
 * ⭐ **[PrimeWire](https://www.primewire.tf/)** - Movies / TV / Anime / 1080p
 * ⭐ **[Streaming CSE](https://cse.google.com/cse?cx=006516753008110874046:cfdhwy9o57g##gsc.tab=0)**, [2](https://cse.google.com/cse?cx=006516753008110874046:o0mf6t-ugea##gsc.tab=0), [3](https://cse.google.com/cse?cx=98916addbaef8b4b6), [4](https://cse.google.com/cse?cx=0199ade0b25835f2e) - Multi-Site Search
@@ -88,7 +88,7 @@
 * ⭐ **[LookMovie](https://lookmovie2.to/)** - Movies / TV / 720p / [Mirrors](https://proxymirrorlookmovie.github.io/)
 * [Cinewave](https://discord.gg/ZrnqNtnbPy) - Movies / TV / 1080p
 * [FshareTV](https://fsharetv.co/), [2](https://fsharetv.io/) - Movies / 1080p
-* [FossaTV](https://fossa.tv/) or [CrossTV](https://tv.cross.moe/)  - Movies / TV / 1080p
+* [FossaTV](https://fossa.tv/) or [CrossTV](https://tv.cross.moe/) - Movies / TV / 1080p
 * [RidoMovies](https://ridomovies.tv/) - Movies / 1080p
 * [Ling.online](https://ling-online.net/en/videos/films/) - Movies / TV / 1080p
 * [NEPU](https://nepu.to/) - Movies / TV / Anime / 1080p / [Discord](https://discord.gg/nepu)

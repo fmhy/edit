@@ -128,7 +128,7 @@
 * ⭐ **[ChatHub](https://chathub.gg/)** - Compare AI Responses
 * ⭐ **[ChatPDF](https://www.chatpdf.com/)** or [Ask Your PDF](https://askyourpdf.com/) - Turn PDFs into Chatbots
 * ⭐ **[TypeSet](https://typeset.io/)** - Research Paper Chatbot
-* [Lobe Chat](https://chat-preview.lobehub.com), [HemulGM](https://github.com/HemulGM/ChatGPT), [SmolAI](https://github.com/smol-ai/menubar/), [PandoraAI](https://github.com/Richard-Weiss/) or [Chatbot-UI](https://chatbotui.com) / [GitHub](https://github.com/mckaywrigley/chatbot-ui)  - ChatGPT Desktop Apps / GUIs
+* [Lobe Chat](https://chat-preview.lobehub.com), [HemulGM](https://github.com/HemulGM/ChatGPT), [SmolAI](https://github.com/smol-ai/menubar/), [PandoraAI](https://github.com/Richard-Weiss/) or [Chatbot-UI](https://chatbotui.com) / [GitHub](https://github.com/mckaywrigley/chatbot-ui) - ChatGPT Desktop Apps / GUIs
 * [TGPT](https://github.com/aandrew-me/tgpt) - ChatGPT TUI
 * [Vault AI](https://vault.pash.city/), [Humata](https://www.humata.ai/), [Unriddle](https://www.unriddle.ai/), [Sharly](https://app.sharly.ai/), [Docalysis](https://docalysis.com/), [DAnswer](https://docs.danswer.dev/), [DocsGPT](https://docsgpt.arc53.com/) or [ChatDOC](https://chatdoc.com/) - Turn Documents into Chatbots
 * [PrivateGPT](https://docs.privategpt.dev/) or [ChatDocs](https://github.com/marella/chatdocs) - Offline Document Chatbots

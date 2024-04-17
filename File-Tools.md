@@ -120,7 +120,7 @@
 * [Sigma](https://sigma-file-manager.vercel.app) - Modern File Manager for Windows / Linux / [GitHub](https://github.com/aleksey-hoffman/sigma-file-manager)
 * [ChromaFiler](https://chroma.zone/chromafiler/) - Column-based Windows File Manager
 * [WinFile](https://github.com/microsoft/winfile) - Original Windows File Explorer
-*  [One Commander](https://www.onecommander.com/), [Free Commander](https://freecommander.com/), [Q-Dir](https://www.softwareok.com/?seite=Freeware/Q-Dir), [Quick Access Popup](https://www.quickaccesspopup.com/) or [FileExplorer](https://github.com/omeryanar/FileExplorer) - Alt Windows File Explorers
+* [One Commander](https://www.onecommander.com/), [Free Commander](https://freecommander.com/), [Q-Dir](https://www.softwareok.com/?seite=Freeware/Q-Dir), [Quick Access Popup](https://www.quickaccesspopup.com/) or [FileExplorer](https://github.com/omeryanar/FileExplorer) - Alt Windows File Explorers
 * [Explorer++](https://explorerplusplus.com/) - Lightweight Windows File Manager
 * [Far Manager](https://www.farmanager.com/) - Windows File / Archive Manager
 * [Total Commander](https://www.ghisler.com/) - Shareware Windows File Manager

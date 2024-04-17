@@ -338,7 +338,7 @@
 * [avisynth](http://avisynth.nl/index.php/Main_Page) or [VapourSynth](https://www.vapoursynth.com/) - Video Processors
 * [Source Filmmaker](https://store.steampowered.com/app/1840/Source_Filmmaker/) - Steam Movie-Making Tool / [Resources](https://sfmlab.com/)
 * [OpenRV](https://github.com/AcademySoftwareFoundation/OpenRV) or [xSTUDIO](https://www.dneg.com/xstudio/) - Image / Sequence Playback Review
-* [Remotion](https://www.remotion.dev/)  - Video Editor
+* [Remotion](https://www.remotion.dev/) - Video Editor
 * [Olive](https://www.olivevideoeditor.org/) - Video Editor
 * [VirtualDub2](https://sourceforge.net/projects/vdfiltermod/) - Video Editor
 * [LosslessCut](https://github.com/mifi/lossless-cut) - Video Editor

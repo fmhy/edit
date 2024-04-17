@@ -423,7 +423,6 @@
 * [Extirpater](https://github.com/Divested-Mobile/extirpater) - Space Eraser / Make Deleted Files Irrecoverable
 * [Wasted](https://github.com/x13a/Wasted) - Emergency Data Wipe
 * [UntrackMe](https://fedilab.app/wiki/untrackme/) - Frontend Redirect / Unshorten Links / Cleanup URLs
-* [MastodonRedirect](https://github.com/zacharee/MastodonRedirect) - Fediverse Frontend Redirect
 * [Leon](https://github.com/svenjacobs/leon) or [Untracker](https://github.com/zhanghai/Untracker) - Remove URL Tracking
 * [LibChecker](https://github.com/LibChecker/LibChecker) - View App Third-Party Libraries
 * [OSS Release Tracker](https://github.com/jroddev/android-oss-release-tracker) - Open-Source App Update Tracker

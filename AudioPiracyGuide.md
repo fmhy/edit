@@ -56,7 +56,7 @@
 
 ## ▷ Streaming Apps
 
-* ⭐ **[Youtube-Music](https://th-ch.github.io/youtube-music/)**, [MooSync](https://moosync.app/), [SpoTube](https://spotube.krtirtho.dev/), [yewtube](https://github.com/mps-youtube/yewtube), [spmp](https://github.com/toasterofbread/spmp) or [Headset](https://headsetapp.co) - YouTube Music Clients
+* ⭐ **[Custom YouTube Music Desktop App](https://th-ch.github.io/youtube-music/)**, [MooSync](https://moosync.app/), [SpoTube](https://spotube.krtirtho.dev/), [yewtube](https://github.com/mps-youtube/yewtube), [spmp](https://github.com/toasterofbread/spmp) or [Headset](https://headsetapp.co) - YouTube Music Clients
 * [nuclear](https://nuclear.js.org/) - Streaming / [GitHub](https://github.com/nukeop/nuclear) / [Discord](https://discord.com/invite/JqPjKxE)
 * [FunkWhale](https://funkwhale.audio/) - Streaming
 * [MP3Jam](https://www.mp3jam.org/) - Streaming
@@ -226,19 +226,19 @@
 ***
 # ► Audio Ripping
 
-* **Note** - Some sites and tools accept URLs from various streaming sites but only use a particular source (usually youtube) to get the audio. We've only mentioned a platform if it can directly rip audio from there.
+* **Note** - Some sites and tools accept URLs from various streaming sites but only use a particular source (usually YouTube) to get the audio. We've only mentioned a platform if it can directly rip audio from there.
 
 ## ▷ Audio Ripping Sites
 
 * ⭐ **[DoubleDouble](https://doubledouble.top/)** - Multi-Site Downloader / 320kb / MP3 / FLAC / [Telegram](https://t.me/+AuKfQGOOLrFlOTZk)
-* ⭐ **[yet another music server](https://discord.gg/wPwqnVuert)** - Deezer / Tidal / Qobuz / Spotify / Youtube / FLAC
+* ⭐ **[yet another music server](https://discord.gg/wPwqnVuert)** - Deezer / Tidal / Qobuz / Spotify / YouTube / FLAC
 * ⭐ **[SpotifyDown](https://spotifydown.com/)** - Spotify / 320kbps MP3
-* [YTiz](https://ytiz.xyz/) - Youtube / Soundcloud / Bandcamp / 128kbps AAC / [GitHub](https://github.com/tizerk/ytiz)
+* [YTiz](https://ytiz.xyz/) - YouTube / SoundCloud / Bandcamp / 128kbps AAC / [GitHub](https://github.com/tizerk/ytiz)
 * [YTMDL](https://ytmdl.deepjyoti30.dev/) - YouTube / 128kbps AAC
-* [YouTube Ripping Guide](https://redd.it/vv27dy) - Youtube / 128kbps AAC
+* [YouTube Ripping Guide](https://redd.it/vv27dy) - YouTube / 128kbps AAC
 * [Download Bandcamp](https://downloadmusicschool.com/bandcamp/) - Bandcamp / 128kbps MP3
-* [SoundCloud Downloader](https://addons.mozilla.org/firefox/addon/soundcloud-dl) - Soundcloud / 128kbps MP3 / [GitHub](https://github.com/NotTobi/soundcloud-dl)
-* [SoundcloudMP3](https://soundcloudmp3.cc/) - Soundcloud / 128kbps MP3
+* [SoundCloud Downloader](https://addons.mozilla.org/firefox/addon/soundcloud-dl) - SoundCloud / 128kbps MP3 / [GitHub](https://github.com/NotTobi/soundcloud-dl)
+* [SoundcloudMP3](https://soundcloudmp3.cc/) - SoundCloud / 128kbps MP3
 * [SoundLoaders](https://www.soundloaders.com/) - Multi-Site Downloader
 
 ## ▷ Audio Ripping Tools
@@ -254,22 +254,22 @@
 * [Zotify](https://zotify.xyz/) - Spotify / 160kbps Free / 320kbps Premium / [Discord](https://discord.gg/Arpx9hunkm)
 * [OnTheSpot](https://github.com/casualsnek/onthespot) - Spotify / 160kbps Free / 320kbps Premium / [Discord](https://discord.com/invite/hz4mAwSujH)
 * [spotify_sync](https://github.com/jbh-cloud/spotify_sync) - Deezer / 128kbps Free / FLAC Premium
-* [streamrip](https://github.com/nathom/streamrip) - Deezer / Tidal / Qobuz / Soundcloud / 128 kbps Free / FLAC Premium / [Colab](https://github.com/r-piratedgames/rip)
+* [streamrip](https://github.com/nathom/streamrip) - Deezer / Tidal / Qobuz / SoundCloud / 128 kbps Free / FLAC Premium / [Colab](https://github.com/r-piratedgames/rip)
 * [d-fi](https://notabug.org/sayem314/d-fi) - Deezer / FLAC / Requires Premium / [GUI](https://github.com/jaylex32/BeatOn)
 * [Orpheus](https://github.com/yarrm80s/orpheusdl) - Deezer / Qobuz / 128 kbps Free / FLAC Premium / [Deezer Module](https://github.com/uhwot/orpheusdl-deezer) / [Qobuz Module](https://github.com/yarrm80s/orpheusdl-qobuz)
 * [QobuzDownloaderX-MOD](https://github.com/DJDoubleD/QobuzDownloaderX-MOD) - Qobuz / 128 kbps Free / FLAC Premium
 * [qobuz-dl](https://github.com/vitiko98/qobuz-dl) - Qobuz /128 kbps Free / FLAC Premium
 * [GamDL](https://github.com/glomatico/gamdl) - Apple / FLAC / Requires Premium
-* [Murglar](https://murglar.app/) - Deezer / Soundcloud / VK / 320kbps MP3
-* [Savify](https://github.com/LaurenceRawlings/savify) - Youtube / Soundcloud / 128kbps AAC
-* [Spotify-DL](https://github.com/SathyaBhat/spotify-dl) - Youtube / Soundcloud / 128kbps AAC
-* [spotDL](https://spotdl.readthedocs.io/en/latest/) - Youtube / Soundcloud / 128kbps AAC
-* [spotify-dl](https://github.com/SwapnilSoni1999/spotify-dl) - Youtube / Soundcloud / 128kbps AAC
-* [FreyrJS](https://github.com/miraclx/freyr-js) - Youtube / 128kbps AAC
-* [irs](https://github.com/cooperhammond/irs) - Youtube / Soundcloud / Bandcamp / 128kbps AAC
-* [Shira](https://github.com/KraXen72/shira) - Youtube / Soundcloud / Bandcamp / 128kbps AAC
-* [yewtube](https://github.com/mps-youtube/yewtube) - Youtube / 128kbps AAC
-* [you-get](https://you-get.org/) - Soundcloud / Bilibili / 128kbps MP3
+* [Murglar](https://murglar.app/) - Deezer / SoundCloud / VK / 320kbps MP3
+* [Savify](https://github.com/LaurenceRawlings/savify) - YouTube / SoundCloud / 128kbps AAC
+* [Spotify-DL](https://github.com/SathyaBhat/spotify-dl) - YouTube / SoundCloud / 128kbps AAC
+* [spotDL](https://spotdl.readthedocs.io/en/latest/) - YouTube / SoundCloud / 128kbps AAC
+* [spotify-dl](https://github.com/SwapnilSoni1999/spotify-dl) - YouTube / SoundCloud / 128kbps AAC
+* [FreyrJS](https://github.com/miraclx/freyr-js) - YouTube / 128kbps AAC
+* [irs](https://github.com/cooperhammond/irs) - YouTube / SoundCloud / Bandcamp / 128kbps AAC
+* [Shira](https://github.com/KraXen72/shira) - YouTube / SoundCloud / Bandcamp / 128kbps AAC
+* [yewtube](https://github.com/mps-youtube/yewtube) - YouTube / 128kbps AAC
+* [you-get](https://you-get.org/) - SoundCloud / Bilibili / 128kbps MP3
 * [BandCamp-DL](https://github.com/iheanyi/bandcamp-dl) - Bandcamp / 128kbp MP3 / [Discord](https://discord.com/invite/nwdT4MP)
   
 ## ▷ Telegram Bots
@@ -278,15 +278,15 @@
 * ⭐ **[Glomatico Amazon](https://t.me/GlomaticoAmazonMusicBot)** and **[Glomatico Apple](https://t.me/GlomaticoAppleMusicBot)** - Amazon / Apple / FLAC / [FAQ](https://rentry.org/glomaticobotfaq)
 * [aio_musics](https://t.me/aio_musics) - Tidal / Qobuz / FLAC
 * [JioDLBot](https://t.me/JioDLBot) - JioSaavn / Gaana / FLAC
-* [Spotify_downloa_bot](https://t.me/Spotify_downloa_bot) - Youtube / JioSaavn / 320kbps MP3
-* [Music_Downloader_Bot_Spotify](https://t.me/Music_Downloader_Bot_Spotify) - Deezer / Youtube / Spotify / 320kbps
+* [Spotify_downloa_bot](https://t.me/Spotify_downloa_bot) - YouTube / JioSaavn / 320kbps MP3
+* [Music_Downloader_Bot_Spotify](https://t.me/Music_Downloader_Bot_Spotify) - Deezer / YouTube / Spotify / 320kbps
 * [DeezerMusicBot](https://t.me/DeezerMusicBot) - Deezer / 320kbps MP3
 * [deezload2bot](https://t.me/deezload2bot) - Deezer / 320kbps MP3
 * [Music_Hunters](https://t.me/MusicsHuntersbot) - Deezer / 320kbps MP3
 * [Motreeb](https://t.me/motreb_downloader_bot) - Spotify / 320kbps MP3
 * [spotifydownloadrobot](https://t.me/spotifydownloadrobot) - Spotify / 160kbps MP3
-* [scdlbot](https://t.me/scdlbot) - Youtube / Soundcloud / Bandcamp / 128kbps MP3
-* [soundcloudaudiodownloader](https://t.me/soundcloudaudiodownloader) - Youtube / Soundcloud / 128kbps MP3
+* [scdlbot](https://t.me/scdlbot) - YouTube / SoundCloud / Bandcamp / 128kbps MP3
+* [soundcloudaudiodownloader](https://t.me/soundcloudaudiodownloader) - YouTube / SoundCloud / 128kbps MP3
 * [VK Bot](https://t.me/vkmsaverbot), [vkmusbot](https://t.me/vkmusbot) or [Meph Bot](https://t.me/mephbot) - VK / 320kbps MP3
 * [Song_downloaderbot](https://t.me/Song_downloaderbot) - JioSaavn / 128kbps MP3
 * [bassmuzic](https://t.me/bassmuzic) - MP3

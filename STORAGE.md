@@ -1148,7 +1148,7 @@
 
 ## Website Creators
 
-[vitepress](https://vitepress.dev/), [retype](https://retype.com/), [codeberg](https://codeberg.page/), [GoHugo](https://gohugo.io/), [SouPalt](https://soupault.app/), [Barly](https://github.com/charludo/barely), [Zola](https://www.getzola.org/), [Jamstack Generators](https://jamstack.org/generators/), [Jekyll](https://jekyllrb.com/), [Tails](https://devdojo.com/tails), [vveb](https://www.vvveb.com/), [Potion](https://potion.so/), [8b](https://8b.com/), [WebFlow](https://webflow.com/), [EasyLogic](https://www.easylogic.studio/), [Universe](https://onuniverse.com/), [Website.com](https://www.website.com/), [GrapeDrop](https://grapedrop.com/), [Specctr](https://specctr.com/cloud/home), [Astro](https://astro.build/), [TypeDream](https://typedream.com/), [Processwire](https://processwire.com/), [Google Sites](https://sites.google.com/new), [AngelFire](https://www.angelfire.lycos.com/)
+[vitepress](https://vitepress.dev/), [retype](https://retype.com/), [Feather Wiki](https://feather.wiki/), [codeberg](https://codeberg.page/), [GoHugo](https://gohugo.io/), [SouPalt](https://soupault.app/), [Barly](https://github.com/charludo/barely), [Zola](https://www.getzola.org/), [Jamstack Generators](https://jamstack.org/generators/), [Jekyll](https://jekyllrb.com/), [Tails](https://devdojo.com/tails), [vveb](https://www.vvveb.com/), [Potion](https://potion.so/), [8b](https://8b.com/), [WebFlow](https://webflow.com/), [EasyLogic](https://www.easylogic.studio/), [Universe](https://onuniverse.com/), [Website.com](https://www.website.com/), [GrapeDrop](https://grapedrop.com/), [Specctr](https://specctr.com/cloud/home), [Astro](https://astro.build/), [TypeDream](https://typedream.com/), [Processwire](https://processwire.com/), [Google Sites](https://sites.google.com/new), [AngelFire](https://www.angelfire.lycos.com/)
 
 ### Simple Site Creators
 
@@ -1194,7 +1194,7 @@
 * ⭐ **[HTTrack](https://www.httrack.com/)** / [Guide](https://rentry.co/cloneasite)
 * ⭐ **[MarkDownload](https://github.com/deathau/markdownload)** - Get Markdown of a page
 * ⭐ **[Instant Data](https://chromewebstore.google.com/detail/instant-data-scraper/ofaokhiedipichpaobibbnahnkdoiiah)**
-* [Kiwix](https://www.kiwix.org/en/) / [Wiki DL Guide](https://practicalbetterments.com/download-all-of-wikipedia-on-your-phone/)
+* [Kiwix](https://kiwix.org/en/) / [Wiki DL Guide](https://practicalbetterments.com/download-all-of-wikipedia-on-your-phone/)
 * [cyotek-webcopy](https://www.cyotek.com/cyotek-webcopy)
 * [Website-downloader](https://github.com/AhmadIbrahiim/Website-downloader)
 * [archiveweb](https://archiveweb.page/)
