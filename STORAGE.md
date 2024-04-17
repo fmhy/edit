@@ -837,7 +837,7 @@
 ## Read Paywalled Articles
 
 * ⭐ **[wallabag](https://wallabag.nixnet.services/)** / [Discord Bot](https://github.com/FahadBinHussain/wallabot)
-* ⭐ **[Bypass Paywalls Clean](https://github.com/bpc-clone/bypass-paywalls-clean-filters)** / [Filter List](https://github.com/bpc-clone/bypass-paywalls-clean-filters) / [Twitter](https://twitter.com/Magnolia1234B)
+* ⭐ **[Bypass Paywalls Clean](https://github.com/bpc-clone/bpc_updates/releases)** / [Filter List](https://github.com/bpc-clone/bypass-paywalls-clean-filters) / [Twitter](https://twitter.com/Magnolia1234B)
 * [Bypass paywalls for scientific documents](https://greasyfork.org/en/scripts/35521) - Bypass Scientific Document Paywalls
 * [unpaywall](https://unpaywall.org/) - Bypass Scholarly Article Paywalls
 * [Scribe](https://scribe.rip/), [freedium](https://freedium.cfd/ ) or [medium-forall](https://medium-forall.vercel.app/) - Medium Paywall Bypass
