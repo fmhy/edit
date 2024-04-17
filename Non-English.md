@@ -320,7 +320,6 @@
 
 # ► French / Français
 
-* [P2PFR](https://forum.p2pfr.com/) - Piracy Discussion
 * [SubSynchro](https://www.subsynchro.com/), [Sous-Titres](https://www.sous-titres.eu/) or [SubFactory](https://subfactory.fr/) - Subtitles
 * [Wikiwix](https://wikiwix.com/) - Wikipedia Search
 * [Tseret](https://tseret.com/) - Game Guides
