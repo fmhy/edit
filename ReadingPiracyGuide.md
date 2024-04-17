@@ -536,7 +536,7 @@
 ## ▷ Newspapers
 
 * 🌐 **[Veridian](https://veridiansoftware.com/collections/)** - Newspaper Archive List
-* ↪️ **[Bypass Newspaper Paywalls](https://fmhy.net/storage#read-paywalled-articles)**
+* ↪️ **[Bypass Newspaper Paywalls](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_read_paywalled_articles)**
 * ↪️ **[Worldwide News Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25BA_news)**
 * ⭐ **[Mobilism Newspapers](https://forum.mobilism.org/viewforum.php?f=123)** / [User Ranks](https://pastebin.com/pZuuMxYm)
 * ⭐ **[Google Newspaper Search](https://news.google.com/newspapers)**
