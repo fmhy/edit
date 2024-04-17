@@ -333,7 +333,6 @@
 * [IMumble](https://www.imumble.nl/) or [Guildbit](https://guildbit.com/) - Voice Chat Servers
 * [Vocaroo](https://vocaroo.com/) - Send Voice Messages
 * [DJ3D](https://dj3d.io/), [Gather](https://gather.town/) - Virtual World Server
-* [WebcamTests](https://webcamtests.com/) - Test your Webcam
 * [VideoMail](https://www.videomail.io/) - Webcam to Email Tool
 * [VCam](https://www.xsplit.com/vcam) - Remove Webcam Background
 * [NVIDIA BROADCAST](https://www.nvidia.com/en-us/geforce/broadcasting/broadcast-app/), [Mini Video Me](https://github.com/maykbrito/mini-video-me) or [Webcamoid](https://webcamoid.github.io/) - Webcam Managers

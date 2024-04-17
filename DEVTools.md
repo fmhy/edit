@@ -158,7 +158,6 @@
 * ⭐ **[Android Developer Roadmap](https://github.com/skydoves/android-developer-roadmap)**
 * [Official Android Courses](https://developer.android.com/courses) or [Windows App Development](https://learn.microsoft.com/en-us/windows/apps/) - App Dev Courses
 * [LearnCS](https://www.learncs.online/lessons) - Lean Java/Kotlin
-* [CocoaDevCentral](http://cocoadevcentral.com/) - Legacy OS X / Cocoa Programming Tutorials
 * [Swift Playgrounds](https://developer.apple.com/tutorials/swiftui) - Learn Swift UI / [Samples](https://developer.apple.com/tutorials/sample-apps)
 * [SwiftDump](https://github.com/neil-wu/SwiftDump) - Retrieve Swift Object info from Mach-O file
 * [Flutter Tips and Tricks](https://github.com/vandadnp/flutter-tips-and-tricks) - Flutter Tips and Tricks

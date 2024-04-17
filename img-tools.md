@@ -428,7 +428,6 @@
 * [designarchiv](https://t.me/designarchiv)
 * [grphc dsgn](https://t.me/+xx1YjI6DC4RiZjJk)
 * [freepsdvn](https://freepsdvn.com/)
-* [graphicex](https://graphicex.com/)
 * [ae-project](https://ae-project.su/)
 * [godownloads](https://godownloads.net/)
 
@@ -539,7 +538,7 @@
 * 🌐 **[Awesome Stock Resources](https://github.com/neutraltone/awesome-stock-resources#photography)** - Stock Photo Index
 * ⭐ **[EveryPixel](https://www.everypixel.com/)** or [LibreStock](https://librestock.com/) - Stock Photo Search Engines
 * ⭐ **[GetPaidStock](https://getpaidstock.com/)**, **[DownPic](https://downpic.cc)**, **[Downloader.la](https://downloader.la/)**,[SystemErrorStock](https://t.me/SystemErrorStock) or [istock](https://istock.7xm.xyz/) - Download Paid Stock Photos
-* [PxHere](https://pxhere.com/), [Adobe Stock](https://stock.adobe.com/free), [themeisle](https://mystock.themeisle.com/), [burst](https://burst.shopify.com/), [Hippopx](https://www.hippopx.com/), [Pixnio](https://pixnio.com/), [focastock](https://focastock.com/), [4freephotos](https://www.4freephotos.com/) or [Pikwizard](https://pikwizard.com/) - Misc Stock Photos
+* [PxHere](https://pxhere.com/), [Adobe Stock](https://stock.adobe.com/free), [themeisle](https://mystock.themeisle.com/), [burst](https://burst.shopify.com/), [Hippopx](https://www.hippopx.com/), [Pixnio](https://pixnio.com/), [focastock](https://focastock.com/), or [Pikwizard](https://pikwizard.com/) - Misc Stock Photos
 * [Smithsonian Open Access](https://www.si.edu/OpenAccess) - Smithsonian High-Quality Photos
 * [desirefx](https://desirefx.me/category/stock_images/) - Stock Photo Overlays
 * [creativity103](https://creativity103.com/) - Abstract Background Photos

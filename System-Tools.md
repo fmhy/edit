@@ -506,7 +506,6 @@
 * [Wallpapers.com](https://wallpapers.com/) - Wallpapers
 * [WallpaperSafari](https://wallpapersafari.com/) - Wallpapers
 * [WallpaperCave](https://wallpapercave.com/) - Wallpapers
-* [Wallpaper Tip](https://wallpapertip.com/) - Wallpapers
 * [WallsPic](https://wallspic.com/) - Wallpapers
 * [WallpaperFlare](https://www.wallpaperflare.com/) - Wallpapers
 * [HDQwalls](https://hdqwalls.com/) - Wallpapers

@@ -176,7 +176,7 @@
 * [Reddit Login Bypass Script](https://pastebin.com/raw/sU5tqwep) - Bypass Reddit Login
 * [Reddit Comber](https://redditcomber.com/) or [Sub Notification](https://redd.it/5mz9z5) - Reddit Keyword Notifications
 * [Unreadit](https://app.mailbrew.com/unreadit) - Reddit Newsletters
-* [Reddit Shadow Ban Info](https://redd.it/ptrm7u) - Check if You've been Shadowbanned
+* [Reddit Shadow Ban Info](https://redd.it/1btuwel) - Check if You've been Shadowbanned
 * [Reddit Markdown Guide](https://www.reddit.com/wiki/markdown) - Learn Reddit Markdown
 * [Reddit Preview](https://redditpreview.com/) - Preview Reddit Posts
 * [Redirect Privated](https://greasyfork.org/en/scripts/468945) - Redirect Private Pages to Cached Versions
@@ -188,7 +188,6 @@
 * [Subreddit Tabs](https://greasyfork.org/en/scripts/460086) - Subreddit Icon Tabs
 * [Reddit Comment Highlights](https://github.com/aesy/reddit-comment-highlights) - Highlight New Comments
 * [Reddit Spoiler Blur Remover](https://greasyfork.org/en/scripts/416091-reddit-spoiler-blur-remover) - Remove Reddit Spoiler Blur
-* [3D for Reddit](https://3dforreddit.com/) - 3D Reddit Browser
 * [SO Reddit](https://dutzi.github.io/so-reddit/) - Stack Overflow Style Viewer
 * [Pholder](https://pholder.com/) - Article Style Viewer
 * [Load Reddit Images Directly](https://github.com/nopperl/load-reddit-images-directly) / [Chrome](https://github.com/MonsterMannen/reddit-load-images-directly-chrome) - Direct Image Viewer
@@ -560,7 +559,7 @@
 
 # ► Twitter Tools
 
-* ⭐ **[Trends24](https://trends24.in/)**, [Sotwe](https://www.sotwe.com/) or [Hashtagify](https://hashtagify.me/) - Trending Hashtags Trackers
+* ⭐ **[Trends24](https://trends24.in/)** or [Sotwe](https://www.sotwe.com/) - Trending Hashtags Trackers
 * ⭐ **[/r/Twitter](https://reddit.com/r/Twitter)** - Twitter Subreddit
 * [Bluesky](https://bsky.app/) - Federated Twitter Alt / [App Directory](https://docs.bsky.app/showcase)
 * [TumblThree](https://tumblthreeapp.github.io/TumblThree/) or [Thread Safe](https://github.com/dkaslovsky/thread-safe) - Twitter / Tumblr Backup Tools
