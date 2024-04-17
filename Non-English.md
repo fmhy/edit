@@ -618,8 +618,8 @@
 * [Lesics](https://youtube.com/@LesicsHindi) - Engineering Courses
 
 ## ▷ Reading
-
-* [BDEBooks](https://bdebooks.com/) - Books
+* [BAWS](https://baws.in/) - Ambedkar Books/Writings
+* [BDEBooks](https://bdebooks.com/) - Books (Bengali Books)
 * [Digital Library of India](https://dli.sanskritdictionary.com) - Books
 * [Sanskrit Documents](https://sanskritdocuments.org) - Sacred Texts
 * [aryasamajjamnagar.org](https://www.aryasamajjamnagar.org/homepage.htm) - Hinduism Texts
