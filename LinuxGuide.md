@@ -65,7 +65,7 @@
 * [zfsBootMenu](https://docs.zfsbootmenu.org/) - ZFS Bootloader
 * [Linux Heads](https://osresearch.net/) - Minimal CoreBoot / [GitHub](https://github.com/osresearch/heads)
 * [GParted](https://gparted.org/) - Partition Manager
-* [ArchTitus](https://github.com/ChrisTitusTech/ArchTitus), [archinstall](https://github.com/archlinux/archinstall) or [Anarchy](https://anarchyinstaller.gitlab.io/) - Arch Linux Installer
+* [ArchTitus](https://github.com/ChrisTitusTech/ArchTitus) or [archinstall](https://github.com/archlinux/archinstall) - Arch Linux Installers
 * [Pop!_OS Shell](https://github.com/pop-os/shell) - Pop-Shell for GNOME
 * [OneClickDesktop](https://github.com/Har-Kuun/OneClickDesktop) - One-Click Remote Desktop
 * [InstantBox](https://github.com/instantbox/instantbox) - Temporary Linux Systems
@@ -492,7 +492,6 @@ Linux Gaming Guide
 * [Boot Camp](https://support.apple.com/boot-camp) - Windows Bootloader / [DL Script](https://github.com/timsutton/brigadier)
 * [Docker OSX](https://github.com/sickcodes/Docker-OSX) - Mac VM in Docker
 * [Whisky](https://getwhisky.app/) - Wine Wrapper
-* [macos-virtualbox](https://github.com/myspaghetti/macos-virtualbox) - MacOS Virtualbox Installer
 * [SwiftUI Win11](https://jinxiansen.github.io/Windows11/) - Windows 11 Desktop Client for macOS
 * [OrbStack](https://orbstack.dev/) - Docker Client
 * [Cog](https://cogx.org/) or [Cider](https://cider.sh/) / [GitHub](https://github.com/ciderapp/Cider) - Audio Players
