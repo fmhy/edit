@@ -756,22 +756,23 @@
 
 ## ▷ Audio Plugins
 
-* 🌐 **[Open-Source Audio Plugins](https://openaudio.webprofusion.com/)** - Plugin Projects Index
-* ⭐ **[G-MEH](https://g-meh.com/)** / [Premium Bypass](https://gmehpremium.pages.dev/)
+* 🌐 **[Open-Source Audio Plugins](https://openaudio.webprofusion.com/)** - Open Source Plugin Projects Index
+* ⭐ **[G-MEH](https://g-meh.com/)** - Download / [Premium Bypass](https://gmehpremium.pages.dev/)
 * ⭐ **[bobdule](https://bobdule999.wixsite.com/bob-dule-factory-2)** - Kontakt / Native Instruments Plugins & Tools
-* ⭐ **[/r/CrackedPluginsX](https://www.reddit.com/r/CrackedPluginsX/)** or [/r/PluggnB](https://www.reddit.com/r/PluggnB/) - Plugin Subreddits
+* ⭐ **[/r/CrackedPlugins3](https://www.reddit.com/r/CrackedPlugins3/)** or [/r/CrackedPluginsX](https://www.reddit.com/r/CrackedPluginsX/) - Plugin Subreddits
 * ⭐ **[PLUGG SUPPLY](https://t.me/pluggsupply)** - Telegram / [VK](https://vk.com/pluggsupply)
-* ⭐ **[Plugin Clouds](https://t.me/joinchat/eBPFLPGucTU5YjQ9)** - [Archive](https://t.me/plugincloudsarchive)
-* [Producer Plug Sheet](https://rentry.co/FMHYBase64#producer-plug-sheet)
-* [Free DAW plugins](https://docs.google.com/spreadsheets/d/1wr0RjPfQvD_VrIivi4U4tsnqMdL78sWOaDUI2Z95R9U/htmlview?fbclid=IwAR3jUwxfkL7aMruLKomutJZ7-H3xjM1X4JX422mSbCgECdt5ugkHtGWlsF8##gid=0) or [/u/BitterApple69 Plugins](https://rentry.co/FMHYBase64#ubitterapple69-plugins) - Plugin Documents
-* [ChowMultiTool](https://github.com/Chowdhury-DSP/ChowMultiTool) - Audio Plugin Multi-Tool
-* [Audioz](https://audioz.download/)
-* [VST Torrents](https://vsttorrentz.net/)
-* [SPARTA](https://leomccormack.github.io/sparta-site/)
-* [PluginTorrent](https://plugintorrent.com/)
-* [Kits4Beats](https://kits4beats.com/) - [Telegram](https://t.me/kits4beats)
-* [AudioTools](https://audiotools.in/)
-* [IEM Plug-in Suite](https://plugins.iem.at/)
+* ⭐ **[Plugin Clouds](https://t.me/joinchat/eBPFLPGucTU5YjQ9)** - Telegram / [Archive](https://t.me/plugincloudsarchive)
+* [Audioz](https://audioz.download/) / [Forum](https://audiosex.pro/) - Download / Use Debrid
+* [Free DAW plugins](https://docs.google.com/spreadsheets/d/1wr0RjPfQvD_VrIivi4U4tsnqMdL78sWOaDUI2Z95R9U/htmlview?fbclid=IwAR3jUwxfkL7aMruLKomutJZ7-H3xjM1X4JX422mSbCgECdt5ugkHtGWlsF8##gid=0) - Freeware Plugins
+* [/u/BitterApple69 Plugins](https://rentry.co/FMHYBase64#ubitterapple69-plugins) - Torrent
+* [VST Torrents](https://vsttorrentz.net/) - Torrent
+* [PluginTorrent](https://plugintorrent.com/) - Torrent
+* [Kits4Beats](https://kits4beats.com/) - Download / Torrent / [Telegram](https://t.me/kits4beats)
+* [AudioTools](https://audiotools.in/) - Torrent / Use [translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)
+* [Producer Plug Sheet](https://rentry.co/FMHYBase64#producer-plug-sheet) - Plugin / Sample Index
+* [IEM Plug-in Suite](https://plugins.iem.at/) - Open Source
+* [ChowMultiTool](https://github.com/Chowdhury-DSP/ChowMultiTool) - Open Source
+* [SPARTA](https://leomccormack.github.io/sparta-site/) - Open Source
 * [HQVst](https://t.me/HQVst) - Telegram
 
 ***
