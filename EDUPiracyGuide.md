@@ -86,7 +86,6 @@
 * ⭐ **[TutsNode](https://tutsnode.net/)** - Courses
 * ⭐ **[tut4dl](https://tut4it.com/)** - Courses
 * [moo](https://rentry.co/FMHYBase64#moo) - Courses
-* [CourseDL](https://rentry.co/FMHYBase64#coursedl) - Courses
 * [Revival](https://rentry.co/FMHYBase64#revival) - Courses
 * [Genetry](https://genetry.carrd.co/) - JEE Lectures
 * [Coursesghar](https://coursesghar.com/) - Courses
