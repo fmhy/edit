@@ -153,7 +153,7 @@
 
 ## ▷ ChatGPT Prompts
 
-* ⭐ **[Awesome ChatGPT Prompts](https://prompts.chat/)** - Prompt Directory
+* ⭐ **[Awesome ChatGPT Prompts](https://prompts.chat/)** / [Github](https://github.com/f/awesome-chatgpt-prompts) - Prompt Directory
 * ⭐ **[BlackFriday GPTs Prompts](https://github.com/friuns2/BlackFriday-GPTs-Prompts)** - Prompt Directory
 * ⭐ **[flowgpt](https://flowgpt.com/)** - Prompt Directory
 * ⭐ **[Leaked Prompts](https://github.com/linexjlin/GPTs)** - Prompt Directory
