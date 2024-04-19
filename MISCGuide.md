@@ -605,7 +605,7 @@
 * [Airtable](https://www.airtable.com/) - Build Collaborative Apps
 * [WhoPaysWriters](http://whopayswriters.com/) - Freelance Writing Publications
 * [Gerev](https://github.com/GerevAI/gerev) - Search Within Workplace Apps
-* [Pimp My Money](https://pimpmymoney.net/) (torrent) or [HubSpot Academy](https://academy.hubspot.com/) - Digital Marketing Courses
+* [Marketing Mega](https://rentry.co/FMHYBase64#marketing-courses), [Pimp My Money](https://pimpmymoney.net/) (torrent) or [HubSpot Academy](https://academy.hubspot.com/) - Digital Marketing Courses
 * [Statista](https://statista.com/) - Market Statistic Search
 * [Systeme](https://systeme.io/) or [SendPulse](https://sendpulse.com/) - Marketing Tools
 * [Marmof](https://marmof.com/) - Creator / Marketing AI
