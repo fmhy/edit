@@ -601,7 +601,6 @@
 
 ## Minecraft Mods
 
-* ⭐ **[Fabric Modlist](https://github.com/weebi/fabric-modlist)**
 * ⭐ **[UsefulMods](https://github.com/TheUsefulLists/UsefulMods)**
 * ⭐ **[Modrinth](https://modrinth.com/)** / [Redirector](https://github.com/devBoi76/modrinthify)
 
@@ -623,7 +622,7 @@
 
 * [MineColab](https://colab.research.google.com/github/thecoder-001/MineColab/blob/master/MineColab.ipynb) - [GitHub](https://github.com/thecoder-001/MineColab)
 * [Playit.gg](https://playit.gg/) - [Discord](https://discord.gg/AXAbujx)
-* [FreeMCServer](https://freemcserver.net/) - [uBO Filter](https://pastebin.com/C2aiXG8p)
+* [FreeMCServer](https://freemcserver.net/)
 
 [MineFort](https://minefort.com/), [Minehut](https://minehut.com/), [Aternos](https://aternos.org/), [Cuberite](https://cuberite.org/), [FMHL](http://fmhl.free.nf/) / [GitHub](https://github.com/Myuui/Free-Minecraft-Hosts), [Pufferfish](https://github.com/pufferfish-gg/Pufferfish), [Paper](https://papermc.io/software/paper), [oracle-cloud ](https://www.setup.md/guides/oracle-cloud)
 
