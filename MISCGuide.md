@@ -958,6 +958,7 @@
 * ⭐ **[Super-Productivity](http://super-productivity.com)** - Time Tacker / Productivity App / To-Do List
 * ⭐ **[Habitica](https://habitica.com/)** - Achievement Style Productivity App
 * ⭐ **[Timeblocking](https://timeblocking.atomiclife.app/)** - Online Atomic Time Blocking 
+* [VisualizeHabit](https://visualizehabit.com/) - Habit Tracking
 * [Cold Turkey](https://getcoldturkey.com/) - Site Blocker / Productivity App / [Premium (use python)](https://rentry.co/FMHYBase64#cold-turkey-premium)
 * [Tempus](https://tempus.keziahmoselle.fr/) - Tray Break Reminders / Time Tracker
 * [ActivityWatch](https://activitywatch.net/) - Device / App Time Tracker / [Extensions](https://github.com/ActivityWatch/aw-watcher-web)
@@ -965,9 +966,11 @@
 * [ManicTime](https://www.manictime.com/) - Device / App Time Tracker
 * [Bytetrack](https://bytetrack-app.bytebeacon.com/) - Online Activity Tracker
 * [Furtherance](https://github.com/lakoliu/Furtherance) - Time Tracker
-* [VisualizeHabit](https://visualizehabit.com/) - Habit Tracking
-* [Pro Modoro](https://pro-modoro.xyz/) / [2](https://pomofocus.io/) - Time Tracker / Break Reminders
+* [Timer](https://klaster1.github.io/timer-5) - Time Tracker
+* [Pro Modoro](https://pro-modoro.xyz/) - Time Tracker / Break Reminders
 * [wnr](https://getwnr.com/) - Time Tracker / Break Reminders
+* [Pomofocus](https://pomofocus.io/) - Time Tracker / Break Reminders
+* [Pomatez](https://zidoro.github.io/pomatez/) -  Time Tracker / Break Reminders
 * [BreakTimer](https://breaktimer.app/) - Break Reminders
 * [Stretchly](https://hovancik.net/stretchly) - Break Reminders
 * [WorkRave](https://workrave.org/) - Break Reminders
@@ -988,6 +991,7 @@
 * [Tweek](https://tweek.so/) - Calendar
 * [TinyMonth](https://tinymonth.com/) - Calendar
 * [TOAST UI Calendar](http://ui.toast.com/tui-calendar) - Calendar
+* [CompassCalendar](https://www.compasscalendar.com/) - Calendar
 * [Gantt](https://github.com/neuronetio/gantt-schedule-timeline-calendar) - Calendar
 * [Morgen](https://www.morgen.so/) - Calendar
 * [time.fyi](https://time.fyi/) - Calendar / Time Tools
