@@ -235,7 +235,6 @@
 * ⭐ **[SpotifyDown](https://spotifydown.com/)** - Spotify / 320kbps MP3
 * [YTiz](https://ytiz.xyz/) - YouTube / SoundCloud / Bandcamp / 128kbps AAC / [GitHub](https://github.com/tizerk/ytiz)
 * [YTMDL](https://ytmdl.deepjyoti30.dev/) - YouTube / 128kbps AAC
-* [YouTube Ripping Guide](https://redd.it/vv27dy) - YouTube / 128kbps AAC
 * [Download Bandcamp](https://downloadmusicschool.com/bandcamp/) - Bandcamp / 128kbps MP3
 * [SoundCloud Downloader](https://addons.mozilla.org/firefox/addon/soundcloud-dl) - SoundCloud / 128kbps MP3 / [GitHub](https://github.com/NotTobi/soundcloud-dl)
 * [SoundcloudMP3](https://soundcloudmp3.cc/) - SoundCloud / 128kbps MP3
