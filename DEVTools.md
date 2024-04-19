@@ -388,7 +388,7 @@
 * [LDRS](https://uiball.com/ldrs/) - Loading Animations
 * [Loading.io](https://loading.io/) - Customizable Loading SVG
 * [Medusa](https://medusajs.com) - Digital Commerce Development Tool
-* [PlayWright](https://playwright.dev/) - Browser Automation
+* [PlayWright](https://playwright.dev/) or [LaVague](https://github.com/lavague-ai/LaVague) - Web Automation
 * [Can I Use?](https://caniuse.com/) - Browser Support Tables
 * [Appwrite](https://appwrite.io/) or [Shuttle](https://www.shuttle.rs/) - Open-Source Backend Platforms
 * [squid](http://www.squid-cache.org/) - Caching Proxy / [MSI Installer](https://squid.diladele.com/)
