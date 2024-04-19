@@ -413,16 +413,6 @@
 
 ***
 
-## FMovies Clones
-
-* [FlixHQ](https://flixhq.bz/)
-* [FBox](https://fbox.to/)
-* [Movies7](https://movies7.to/)
-* [BFlix](https://bflixz.to/), [2](https://hd.bflix.to/)
-* [swatchseries.mx](https://swatchseries.mx/)
-
-***
-
 ## Game Engines
 
 * ⭐ **[Game Engine Collection](https://github.com/collections/game-engines)**
@@ -558,12 +548,6 @@
 * ⭐ **[Open TV](https://github.com/fredolx/open-tv)**
 
 [PlaylistEditorTV](https://github.com/Isayso/PlaylistEditorTV), [ustvgo-iptv](https://github.com/interlark/ustvgo-iptv), [LivePush](https://livepush.io/hls-player/index.html)
-
-***
-
-## M4UFree Clones
-
-[M4uFree](https://ww1.m4ufree.tv/), [Streamm4u](https://streamm4u.ws/), [m4ufree.to](https://m4ufree.to/), [m4uhd](https://m4uhd.tv/) / [2](https://m4uhd.cc/), [m4umv](https://m4umv.org/)
 
 ***
 
@@ -844,7 +828,7 @@
 * [Ladder](https://github.com/everywall/ladder) - Self-Hosted
 * [Archive Buttons](https://www.archivebuttons.com/) or [PaywallHub](https://paywallhub.com/) - Paywall Bypass Tools
 
-[Burles](https://burles.co/en/), [Paywall Bypass Index](https://redd.it/rs9ej1), [bypass-paywalls](https://github.com/iamadamdev/bypass-paywalls-chrome##bypass-paywalls), [pocket](https://getpocket.com/), [1ft.io](https://1ft.io/), [Hover Paywalls](https://github.com/nathan-149/hover-paywalls-browser-extension), [medium-unlocker](https://github.com/und3fined/medium-unlocker), [OpenAccessButton](https://openaccessbutton.org/), [RemovePaywalls](https://www.removepaywall.com/), [PaywallBypasser](https://github.com/SybronH/PaywallBypasser), [12ft.io](https://12ft.io/), [Smry.ai](https://www.smry.ai/), [Readium](https://sugoidesune.github.io/readium/), [shacklefree](https://www.shacklefree.in/)
+[Burles](https://burles.co/en/), [Paywall Bypass Index](https://redd.it/rs9ej1), [bypass-paywalls](https://github.com/iamadamdev/bypass-paywalls-chrome), [pocket](https://getpocket.com/), [1ft.io](https://1ft.io/), [Hover Paywalls](https://github.com/nathan-149/hover-paywalls-browser-extension), [medium-unlocker](https://github.com/und3fined/medium-unlocker), [OpenAccessButton](https://openaccessbutton.org/), [RemovePaywalls](https://www.removepaywall.com/), [PaywallBypasser](https://github.com/SybronH/PaywallBypasser), [12ft.io](https://12ft.io/), [Smry.ai](https://www.smry.ai/), [Readium](https://sugoidesune.github.io/readium/), [shacklefree](https://www.shacklefree.in/)
 
 ***
 
@@ -900,57 +884,6 @@
 
 ***
 
-## SFlix Clones
-
-* https://himovies.sx/
-* https://solarmovies.win/
-* https://huramovies.to/
-* https://solarmovie.pe/
-* https://www2.6movies.net/
-* https://gomovies.sx/
-* https://theflixer.se/
-* https://www2.movieorca.com/
-* https://swatchseries.is/
-* https://www1.freemoviesfull.com/
-* https://www.actvid.rs/
-* https://hdtoday.to/
-* https://moviesjoy.plus/
-* https://dopebox.to/
-* https://fboxtv.com/
-* https://movies2watch.cc/
-* https://movies2watch.tv/
-* https://watchseriestv.top/
-* https://hdtoday.cc/
-* https://tinyzonetv.se/
-* https://www6.f2movies.to/
-* https://2kmovie.cc/
-* https://goku.sx/
-* https://bingewatch.to/
-* https://www.divicast.com/
-* https://theflixertv.to/
-* https://myflixer.pw/
-* https://myflixertv.to/
-* https://www3.f2movies.to/
-* https://flixhd.cc/
-* https://www3.musichq.net/
-* https://zoechip.org/
-* https://zoechip.cc/
-* https://www3.zoechip.com/
-* https://123moviestv.net/
-* https://moviecracker.net/
-* https://moviesjoy.is/
-* https://tinyzonetv.cc/
-* https://www.showboxmovies.net/
-* https://www.watch4freemovies.com/
-* https://www2.filmlicious.net/
-* https://www.moviekids.tv/
-* https://yesmovies.mn/
-* https://fmovie.ws/
-* https://cataz.to
-* https://fmovies.hn/
-
-***
-
 ## Sheet Music Sites
 
 * ⭐ **[musescore](https://musescore.org/en)** + [Downloader](https://github.com/LibreScore/dl-librescore)
@@ -994,6 +927,77 @@
 * [NetherWorkshopDownloader](https://github.com/NethercraftMC5608/NetherWorkshopDownloader) / [Discord](https://discord.com/invite/bs9TMxMJk9)
 
 [SCMD](https://github.com/BerdyAlexei/SCMD-Workshop-Downloader-2), [steamworkshopdownloader](https://github.com/shadoxxhd/steamworkshopdownloader)
+
+***
+
+## Streaming Site Clones
+
+### FMovies Clones
+
+* [FlixHQ](https://flixhq.bz/)
+* [FBox](https://fbox.to/)
+* [Movies7](https://movies7.to/)
+* [BFlix](https://bflix.to/)
+* [sWatchSeries.mx](https://swatchseries.mx/)
+
+***
+
+### M4UFree Clones
+
+* [Streamm4u](https://streamm4u.ws/)
+* [M4uFree.tv](https://ww1.m4ufree.tv/)
+* [M4uFree.to](https://m4ufree.to/)
+* [M4uHD.tv](https://ww1.m4uhd.tv/)
+* [M4uHD.cc](https://ww1.m4uhd.cc/)
+* [M4uMV.org](https://m4umv.org/)
+
+***
+
+### SFlix Clones
+
+* [HiMovies](https://himovies.sx/)
+* [Solarmovies](https://solarmovies.win/)
+* [HuraMovies](https://huramovies.to/)
+* [Solarmovie](https://solarmovie.pe/)
+* [6movies](https://www2.6movies.net/)
+* [GoMovies](https://gomovies.sx/)
+* [TheFlixer.se](https://theflixer.se/)
+* [TheFlixerTv.to](https://theflixertv.to/)
+* [MyFlixer](https://myflixertv.to/)
+* [MovieOrca](https://www2.movieorca.com/)
+* [sWatchSeries.is](https://swatchseries.is/)
+* [Freemoviesfull](https://www1.freemoviesfull.com/)
+* [Actvid](https://www.actvid.rs/)
+* [HDToday.to](https://hdtoday.to/)
+* [HDToday.cc](https://hdtoday.cc/)
+* [MoviesJoy.plus](https://moviesjoy.plus/)
+* [MoviesJoy.is](https://moviesjoy.is/)
+* [DopeBox](https://dopebox.to/)
+* [Fboxtv](https://fboxtv.com/)
+* [Movies2watch.cc](https://movies2watch.cc/)
+* [Movies2watch.tv](https://movies2watch.tv/)
+* [watchseriestv.top](https://watchseriestv.top/)
+* [TinyZoneTV.se](https://tinyzonetv.se/)
+* [TinyZoneTV.cc](https://tinyzonetv.cc/)
+* [F2movies](https://www6.f2movies.to/)
+* [Movie2k](https://2kmovie.cc/)
+* [GOKU](https://goku.sx/)
+* [BingeWatch](https://bingewatch.to/)
+* [Divicast](https://www.divicast.com/)
+* [FlixHD](https://flixhd.cc/)
+* [Zoechip.org](https://zoechip.org/)
+* [Zoechip.cc](https://zoechip.cc/)
+* [Zoechip.com](https://www3.zoechip.com/)
+* [123movies TV](https://123moviestv.net/)
+* [MovieCracker](https://moviecracker.net/)
+* [ShadowboxMovies](https://www.showboxmovies.net/)
+* [Watch4FreeMovies](https://www.watch4freemovies.com/)
+* [Filmlicious](https://www2.filmlicious.net/)
+* [MovieKid](https://www.moviekids.tv/)
+* [Yesmovies](https://yesmovies.mn/)
+* [Cataz](https://cataz.to)
+* [FMovie.ws](https://fmovie.ws/)
+* [FMovies.hn](https://fmovies.hn/)
 
 ***
 
