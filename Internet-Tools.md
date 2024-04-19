@@ -511,7 +511,7 @@
 * [ColorZilla](https://www.colorzilla.com/) or [ColorFish](https://ui.vision/colorfish) - Color Picker
 * [Clippings](https://aecreations.io/clippings/index.php) or [Quick Copy](https://github.com/ramitmittal/quick-copy) - Clipboard Manager
 * [Emoji Addon](https://www.emojiaddon.com/) - Quickly Copy / Paste Emojis
-* [Absolute Enable Right Click](https://pastebin.com/G7Juu6xc) or [Allow Right Click](https://add0n.com/allow-right-click.html) / [GitHub](https://github.com/lunu-bounir/allow-right-click) - Force Enable Right Click
+* [Allow Right Click](https://add0n.com/allow-right-click.html) / [GitHub](https://github.com/lunu-bounir/allow-right-click) - Force Enable Right Click
 * [Copycat](https://github.com/BlackGlory/Copycat) - Copy Content in Multiple Formats & Markdowns 
 * [Copy Selection as Markdown](https://github.com/0x6b/copy-selection-as-markdown) - Copy Text as Markdown 
 * [CopyFish](https://ocr.space/copyfish) - Grab Text from Images 
