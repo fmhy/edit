@@ -36,7 +36,6 @@
 * [egydead](https://egydead.space/) - Movies / TV / Anime / Sub / 1080p
 * [akwam](https://ak.sv/) - Movies / TV / Sub / 1080p
 * [arabseed](https://arabseed.show/) - Movies / TV / Wrestling / Sub / 1080p
-* [Shafilm](https://shafilm.vip/) - Movies / TV / Anime / Cartoons / 1080p
 * [Shooflive](https://tv.shooflive.art/) - Movies / TV / Anime / Sub / 720p
 * [FajerShow](https://fajer.show) - Movies / TV / Cartoons / Sub / 720p
 * [AnimeTak](https://animetak.top/) - Anime / Sub / 1080p
@@ -980,7 +979,8 @@
 
 # ► Portuguese / Português
 
-* 🌐 **[Guia de Pirataria para Iniciantes](https://rentry.org/PiracyBG-PTBR)** - Portuguese Beginners Guide to Piracy
+* 🌐 **[PiracyBG-PTBR](https://rentry.org/PiracyBG-PTBR)** - Beginners Guide to Piracy
+* 🌐 **[Pirataria](https://pirataria.digital/)** - Portuguese /r/Piracy Mega / [Reddit](https://www.reddit.com/r/pirataria/) 
 * 🌐 **[Invertexto](https://www.invertexto.com)** - Online Tools Index
 * [SAPO](https://www.sapo.pt) - Search
 * [Legendas Brasil](https://legendasbrasil.org) - Subtitle Search App
@@ -1879,6 +1879,7 @@
 * [DR.DK](https://www.dr.dk/) - Danish / Movies / TV / Live
 * [Lesics](https://youtube.com/@LesicsDE) - Danish / Engineering Courses
 * [Deildu](https://deildu.net/) - Icelandic / Torrents
+* [Shafilm](https://shafilm.vip/) - Kurdish  / Streaming / Movies / TV / Anime / Cartoons
 * [KurdCinema](https://www.kurdcinama.com/) - Kurdish / Streaming / Movies / TV / Anime / Cartoons
 * [Kurdsubtitle](https://kurdsubtitle.net) - Kurdish / Subtitles
 * [Redzidzirdilatviju](https://www.redzidzirdilatviju.lv/) - Latvian / Documents
