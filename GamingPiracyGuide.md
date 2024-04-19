@@ -1107,6 +1107,7 @@
 * [Neopets](https://www.neopets.com/), [tamaNOTchi](https://tamanotchi.world/) or [Marapets](https://www.marapets.com) - Virtual Pet Game 
 * [Gaia Online](https://www.gaiaonline.com/) - Anime Virtual Pet 
 * [Super Auto Pets](https://teamwood.itch.io/super-auto-pets) - Pet Battle Game
+* [PokéRogue](https://pokerogue.net/) - Pokémon Roguelike / [Discord](https://discord.com/invite/uWpTfdKG49)
 * [CrossCode](https://www.cross-code.com/en/home), [Forumwarz](https://www.forumwarz.com/) or [Dungeon Crawl](https://crawl.develz.org/) - Browser RPG
 * [Kingdom of Loathing](https://www.kingdomofloathing.com/) or [Frasier Fantasy](https://edward-la-barbera.itch.io/frasier-fantasy) - Comedy RPG
 * [Bruno-Simon](https://bruno-simon.com/) - Truck Driving Game

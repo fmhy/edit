@@ -644,6 +644,7 @@
 * ⭐ **[Capture2Text](https://capture2text.sourceforge.net/)** - OCR Desktop App
 * ⭐ **[Text Grab](https://github.com/TheJoeFin/Text-Grab)** - Minimal OCR Windows Tool
 * ⭐ **[Pomodoro](https://pomodoro.semlab.io/)**, [i2ocr](https://www.i2ocr.com/) or [OCR.SPACE](https://ocr.space/) - Online OCRs
+* [2txt](https://2txt.vercel.app/) - OCR & Image Description Generator
 * [TextShot](https://github.com/ianzhao05/textshot) - Cross Platform OCR
 * [ImageScanOCR](https://github.com/ttop32/ImageScanOCR) - Windows OCR Tool
 * [Handwriting-OCR](https://github.com/Breta01/handwriting-ocr) - Handwriting OCR

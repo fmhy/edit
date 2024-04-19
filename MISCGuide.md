@@ -826,6 +826,7 @@
 * [/r/buildapc](https://reddit.com/r/buildapc) - PC Building Community / [Discord](https://discord.com/invite/buildapc)
 * [/r/BuildAPCForMe](https://reddit.com/r/BuildAPCForMe) - PC Building Community
 * [/r/SuggestAPC](https://reddit.com/r/SuggestAPC) - PC Suggestion Community
+* [VOGONS](https://www.vogons.org/) - Vintage Computer Hardware Forum
 * [NewMaxx's SSD Site](https://borecraft.com/), [JohnnyLucky](https://www.johnnylucky.org/index.html) or [SSD Chart](https://docs.google.com/spreadsheets/d/1B27_j9NDPU3cNlj2HKcrfpJKHkOf-Oi1DbuuQva2gT4/) - SSD Buying Comparisons
 * [Disk Prices](https://diskprices.com/) - Disk Price Tracker
 * [Shucks](https://shucks.top/) - External Drive Price Tracker
