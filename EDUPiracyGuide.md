@@ -220,7 +220,7 @@
 * 🌐 **[Music Education Masterlist](https://rentry.co/FMHYBase64#music-education-masterlist)**
 * 🌐 **[Awesome Music Theory](https://github.com/vpavlenko/study-music)** - Music Theory Resources
 * 🌐 **[Music Outfitters](https://musicoutfitters.com/)** - Music Services / Information
-* ↪️ **[Sheet Music Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_sheet_music_sites)**
+* ↪️ **[Sheet Music Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/audio#wiki_.25B7_sheet_music)**
 * ⭐ **[Muted](https://muted.io/)**, **[Open Music Theory](https://viva.pressbooks.pub/openmusictheory/)**, [Teoria](https://www.teoria.com/index.php), [LightNote](https://www.lightnote.co/) or [Music Theory](https://www.musictheory.net/) - Music Theory
 * [Helio](https://helio.fm/) or [NoteHeads](https://noteheads.net/) - Music Composition Tools
 * [MusicKit](https://musickit.jull.dev/) or [Tone Generator](https://www.szynalski.com/tone-generator/) - Metronome, Tuner & Tone Generators 
@@ -230,7 +230,6 @@
 * [Arpeggiator](https://codepen.io/jakealbaugh/full/qNrZyw) or [AutoChords](https://autochords.com/) - Chord Progression Generators
 * [HookTheory](https://www.hooktheory.com/trends) - Chord Progression Library 
 * [Piano Scribe](https://piano-scribe.glitch.me/) - Piano Transcriber
-* [Sound Slice](https://soundslice.com/) or [Nootka](https://nootka.sourceforge.io/) - Sheet Music Learning
 * [LilyPond](https://lilypond.org/) - Music Engraving Program
 * [Learning Music](https://learningmusic.ableton.com/) or [Musica](https://www.musicca.com/) - Music-Making Lessons
 * [Piano Trainer](https://zaneh.itch.io/piano-trainer) or [PianoCheetah](https://pianocheetah.app) - Piano Practice
@@ -354,6 +353,37 @@
 
 ***
 
+## ▷ Quote Indexes
+
+* ⭐ **[Wikiquote](https://en.wikiquote.org)**
+* [SearchQuotes](https://www.searchquotes.com/)
+* [QuotationsPage](http://www.quotationspage.com/)
+* [BrainyQuote](https://www.brainyquote.com/)
+* [AZQuotes](https://www.azquotes.com/)
+* [QuoteGarden](https://www.quotegarden.com/)
+* [Quote Collections](https://redd.it/dlao3b)
+* [TheOtherPages](https://theotherpages.org/quote.html)
+
+***
+
+## ▷ Virtual Tours
+
+* 🌐 **[Virtual Museum Resources](https://mcn.edu/a-guide-to-virtual-museum-resources/)** - Online Museums
+* ⭐ **[CityHop](https://www.cityhop.cafe/)**, [Travel Remotely](https://travel-remotely.netlify.app/), [Walk with Feel](https://walkwithfeel.vercel.app/), [Outside Simulator](https://outsidesimulator.com/), [Japan Walkaround](https://thatguyedd.github.io/), [CityWalks](https://citywalks.live/) or [Virtual Vacations](https://virtualvacation.us/) - Travel Simulators
+* [Gez.la](https://gez.la/) - Virtual Tours Map
+* [Wiki Spaces](https://wiki-spaces.org/) - Virtual Tours
+* [NaturalHistory](https://naturalhistory.si.edu/visit/virtual-tour) - Natural History Museum Virtual Tour
+* [Digital Giza](https://giza.mused.org/) - Great Pyramid Virtual Tours
+* [Persepolis Reimagined](https://persepolis.getty.edu/) - Explore Persepolis Recreation
+* [Spitfire Panorama](https://www.haraldjoergens.com/panoramas/spitfire-td314/files/) - Spitfire Mark IX Cockpit Interactve Panorama
+* [Virtual Vist Tours](https://www.virtualvisittours.com/) - Ireland Virtual Tours
+* [Matterport](https://matterport.com/discover) - Explore Real Places Digitally
+* [Hashima Island](https://www.hashima-island.co.uk/) - Hashima Island Virtual Tour
+* [Zhijianshang](https://www.zhijianshang.com/) or [Airpano](https://www.airpano.com/) - 360 Images / Videos
+* [Smithsonian 3D](https://3d.si.edu/) - Smithsonian 3D Digitization Museum
+
+***
+
 # ► Science / Math
 
 ## ▷ Physics
@@ -362,8 +392,8 @@
 * ↪️ **[Math and Physics Books](https://rentry.co/FMHYBase64#math-and-physics-books)**
 * ⭐ **[phys](https://phys.org/)** - Latest / News / Article / Physics
 * ⭐ **[The Feynman Lectures](https://www.feynmanlectures.caltech.edu/)** - Physics Lectures
+* ⭐ **[Bartosz Ciechanowski](https://ciechanow.ski/)** - Physics Lessons, [PhysicsClassroom](https://www.physicsclassroom.com/) or [Splung](https://www.splung.com/) - Physics Lessons
 * ⭐ **[Physics Simulations](https://www.csun.edu/science/software/simulations/physics.html)**, [Mujoco](https://github.com/google-deepmind/mujoco), [Physics Animations](https://www.animations.physics.unsw.edu.au/), [oPhysics](https://ophysics.com/index.html) or [MyPhysicsLab](https://www.myphysicslab.com/index-en.html) - Physics Simulations / Animations
-* [PhysicsClassroom](https://www.physicsclassroom.com/) or [Splung](https://www.splung.com/) - Physics Lessons
 * [PhysicsTravelGuide](https://physicstravelguide.com/) - Physics Explanations
 * [Algodoo](http://www.algodoo.com/) - Interactive Physics Tool
 * [QPaths](https://qpaths.deqart.com/) - Learn Basic Quantum Terms
@@ -372,7 +402,6 @@
 * [Physics Olympiads](https://discord.gg/phods) - Physics Discord Community
 * [Quantum Web Directory](https://qntm2017.github.io/qntm/OV.html) - Science / Tech / Math / Physics
 * [Interactive 4D Handbook](https://baileysnyder.com/interactive-4d/) - Interactive Fourth Dimension
-* [Lights and Shadows](https://ciechanow.ski/lights-and-shadows/) - Light and Shadow Lesson
 * [Ray Optics Simulation](https://phydemo.app/ray-optics/) - Light Reflection / Refraction Simulator
 * [Compare Pendulum](https://www.myphysicslab.com/pendulum/compare-pendulum-en.html) - Pendulum Simulator
 * [OpenFoam](https://openfoam.org/), [PC Progress](https://www.pc-progress.com/), [Fluid Simulation WebGL](https://paveldogreat.github.io/WebGL-Fluid-Simulation/), [WebGL Fluid Experiment](https://haxiomic.github.io/GPU-Fluid-Experiments/html5/) or [Sim Flow](https://sim-flow.com/) - Fluid Dynamics Simulators
@@ -603,6 +632,21 @@
 
 ***
 
+## ▷ Periodic Tables
+
+* ⭐ **[Ptable](https://ptable.com/)** - Interactive Table
+* [The Periodic Table Of Elements](https://periodictableofchemicalelements.com/) - Interactive Table
+* [Periodic Table](https://periodic-table.io/) - Interactive Table
+* [Images-Of-Elements](https://images-of-elements.com/) - Interactive Table
+* [Graph Overflow](https://graphoverflow.com/graphs/3d-periodic-table.html) - Interactive Table
+* [3D Periodic Table](https://artsexperiments.withgoogle.com/periodic-table/) - Interactive Table
+* [PeriodicTableApp](https://periodictableapp.com/) - Interactive Table
+* [Periodic Table](https://www.periodic-table.org/) - Interactive Table
+* [WebElements](https://www.webelements.com) - Interactive Table
+* [Elements Database](http://www.elementsdatabase.com/) - Interactive Table
+
+***
+
 # ► Language Learning
 
 ## ▷ Multi-Language
@@ -789,7 +833,7 @@
 * ↪️ **[Data Visualization](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_data_visualization_tools)**
 * ↪️ **[Grammar / Spell Check](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools#wiki_.25B7_grammar_check)**
 * ↪️ **[Text Rephrasing](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools#wiki_.25B7_text_rephrasing)**
-* ⭐ **[OpenBoard](https://openboard.ch/)**, [Witeboard](https://witeboard.com/), [NotebookCast](https://www.notebookcast.com/), [WebWhiteboard](https://webwhiteboard.com/), [Microsoft Whiteboard](https://apps.microsoft.com/detail/9MSPC6MP8FM4), [OurBoard](https://www.ourboard.io/), [Whiteboard.fi](https://whiteboard.fi/) or [Whiteboard Fox](https://r3.whiteboardfox.com/) - Whiteboards
+* ⭐ **[OpenBoard](https://openboard.ch/)**, [Witeboard](https://witeboard.com/), [NotebookCast](https://www.notebookcast.com/), [WebWhiteboard](https://webwhiteboard.com/), [Microsoft Whiteboard](https://apps.microsoft.com/detail/9MSPC6MP8FM4), [WBO](https://wbo.ophir.dev/), [OurBoard](https://www.ourboard.io/), [Whiteboard.fi](https://whiteboard.fi/) or [Whiteboard Fox](https://r3.whiteboardfox.com/) - Whiteboards
 * ⭐ **[Refseek](https://www.refseek.com/)**, [Explorer](https://explorer.globe.engineer/), [Occamm](https://www.occamm.com/) or [Merlot](https://www.merlot.org/merlot/index.htm) - Academic Search Engines
 * [GradesFixer](https://www.gradesfixer.com/) - Essay Samples
 * [mybib](https://www.mybib.com/), [citemaker](https://www.citemaker.com/), [formatically](https://formatically.com/), [zbib](https://zbib.org/), [CitationMachine](https://citationmachine.net/), [CiteFast](https://www.citefast.com) or [Cite This For Me](https://www.citethisforme.com/) - Generate Citations / [Chrome](https://chromewebstore.google.com/detail/cite-this-for-me-web-cite/nnnmhgkokpalnmbeighfomegjfkklkle)
@@ -882,21 +926,3 @@
 * [Synonym.com](https://www.synonym.com/) - Synonyms
 * [Feeels](https://feelu.vercel.app/) - Emotion Synonym Chart
 * [KnowYourMeme](https://knowyourmeme.com/) - Meme Database
-
-***
-
-## ▷ Virtual Tours
-
-* 🌐 **[Virtual Museum Resources](https://mcn.edu/a-guide-to-virtual-museum-resources/)** - Online Museums
-* ⭐ **[CityHop](https://www.cityhop.cafe/)**, [Travel Remotely](https://travel-remotely.netlify.app/), [Walk with Feel](https://walkwithfeel.vercel.app/), [Outside Simulator](https://outsidesimulator.com/), [Japan Walkaround](https://thatguyedd.github.io/), [CityWalks](https://citywalks.live/) or [Virtual Vacations](https://virtualvacation.us/) - Travel Simulators
-* [Gez.la](https://gez.la/) - Virtual Tours Map
-* [Wiki Spaces](https://wiki-spaces.org/) - Virtual Tours
-* [NaturalHistory](https://naturalhistory.si.edu/visit/virtual-tour) - Natural History Museum Virtual Tour
-* [Digital Giza](https://giza.mused.org/) - Great Pyramid Virtual Tours
-* [Persepolis Reimagined](https://persepolis.getty.edu/) - Explore Persepolis Recreation
-* [Spitfire Panorama](https://www.haraldjoergens.com/panoramas/spitfire-td314/files/) - Spitfire Mark IX Cockpit Interactve Panorama
-* [Virtual Vist Tours](https://www.virtualvisittours.com/) - Ireland Virtual Tours
-* [Matterport](https://matterport.com/discover) - Explore Real Places Digitally
-* [Hashima Island](https://www.hashima-island.co.uk/) - Hashima Island Virtual Tour
-* [Zhijianshang](https://www.zhijianshang.com/) or [Airpano](https://www.airpano.com/) - 360 Images / Videos
-* [Smithsonian 3D](https://3d.si.edu/) - Smithsonian 3D Digitization Museum
