@@ -559,7 +559,7 @@
 
 # ► Twitter Tools
 
-* ⭐ **[Trends24](https://trends24.in/)** or [Sotwe](https://www.sotwe.com/) - Trending Hashtags Trackers
+* ⭐ **[Trends24](https://trends24.in/)** - Trending Hashtags Trackers
 * ⭐ **[/r/Twitter](https://reddit.com/r/Twitter)** - Twitter Subreddit
 * [Bluesky](https://bsky.app/) - Federated Twitter Alt / [App Directory](https://docs.bsky.app/showcase)
 * [TumblThree](https://tumblthreeapp.github.io/TumblThree/) or [Thread Safe](https://github.com/dkaslovsky/thread-safe) - Twitter / Tumblr Backup Tools
