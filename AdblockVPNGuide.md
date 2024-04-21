@@ -12,7 +12,7 @@
 
 * ↪️ **[Spotify Adblockers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/audio#wiki_.25B7_spotify_adblockers)**
 * ↪️ **[Twitch Adblockers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/social-media#wiki_.25B7_twitch_adblockers)**
-* ↪️ **[Bypass Article Paywalls](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_read_paywalled_articles)**
+* ↪️ **[Bypass Article Paywalls](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools#wiki_.25B7_paywall_bypass)**
 * ⭐ **[uBlock Origin](https://github.com/gorhill/uBlock#installation)** - Adblocker / [Guide](https://addons.mozilla.org/blog/ublock-origin-everything-you-need-to-know-about-the-ad-blocker/) / [Advanced](https://youtu.be/2lisQQmWQkY)
 * ⭐ **[SponsorBlock](https://sponsor.ajay.app/)** - Skip Sponsored YouTube Ads / [Script](https://github.com/mchangrh/sb.js), [2](https://greasyfork.org/en/scripts/453320)
 * ⭐ **[BehindTheOverlay](https://github.com/NicolaeNMV/BehindTheOverlay)** - Hide Website Overlays 
@@ -119,7 +119,6 @@
 * 🌐 **[Awesome Malware Analysis](https://github.com/rshipp/awesome-malware-analysis)** - Malware Analysis Resources
 * 🌐 **[Awesome Pen Testing](https://github.com/enaqx/awesome-pentest)** - Penetration Testing Resources
 * 🌐 **[The Second Opinion](https://rentry.co/thesecondopinion)** - Portable Malware Scanners / Removal Tools
-* ↪️ **[Virus File Scanners](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_scan_files)**
 * ↪️ **[Site Legitimacy Check](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_site_legitimacy_check)**
 * ⭐ **[How to Avoid Malware](https://www.reddit.com/r/Piracy/wiki/browsing_and_downloading_guide)** - Malware Avoidance Guide
 * ⭐ **[VirusTotal Scan Guide](https://rentry.co/piracy-faq-virustotal)** / [2](https://rentry.co/VTGuide) - Virus Scan Results Guide
@@ -148,19 +147,38 @@
 
 ***
 
+## ▷ File Scanners
+
+* ⭐ **[VirusTotal](https://www.virustotal.com/)**
+* ⭐ **VirusTotal Tools** - [CLI](https://github.com/VirusTotal/vt-cli), [2](https://virustotal.github.io/vt-cli/) / [Telegram Bot](https://t.me/virus_total_scan_bot) / [Uploader](https://github.com/SamuelTulach/VirusTotalUploader) / [Lite Version](https://www.virustotal.com/old-browsers/)
+* ⭐ **[Hybrid-Analysis](https://hybrid-analysis.com/)**
+* [Any.Run](https://any.run/)
+* [Triage](https://tria.ge/)
+* [Malware Initial Assessment](https://www.winitor.com/)
+* [Intezer Analyze](https://analyze.intezer.com/)
+* [Cuckoo](https://cuckoo.cert.ee/)
+* [VirSCAN](https://www.virscan.org/)
+* [Joe Sandbox](https://www.joesandbox.com/)
+* [MetaDefender](https://metadefender.opswat.com/?lang=en)
+* [Fortiguard](https://www.fortiguard.com/faq/onlinescanner)
+* [Jotti](https://virusscan.jotti.org/en)
+* [Virus Desk](https://opentip.kaspersky.com/)
+* [Antiscan](https://www.antiscan.me/)
+* [MalShare](https://www.malshare.com/)
+* [Cuckoo](https://sandbox.pikker.ee/)
+
+***
+
 # ► Privacy
 
 * 🌐 **[Awesome Vehicle Security](https://github.com/jaredthecoder/awesome-vehicle-security)** - Vehicle Security Resources
 * ↪️ **[SMS Verification Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_sms_verification_sites)**
-* ↪️ **[Password Data Breach Detection](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_password_data_breach_check)**
 * ↪️ **[File Encryption](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/file-tools#wiki_.25B7_file_encryption)**
 * ↪️ **[Drive Formatting / File Deletion](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/file-tools#wiki_.25B7_formatting_.2F_deletion)**
 * ⭐ **[Privacy.Sexy](https://privacy.sexy/)** - Privacy Scripts 
-* ⭐ **[Password Strength Chart](https://i.ibb.co/vZdqMvm/6728c7ef02e9.png)**
 * ⭐ **[Tails](https://tails.net/)**, [whonix](https://www.whonix.org/) or [Qubes](https://www.qubes-os.org/) - Privacy-Based Operating Systems
 * [ShutUp10](https://www.oo-software.com/en/shutup10), [W10Privacy](https://www.w10privacy.de/english-home/) or [private-secure-windows](https://github.com/troennes/private-secure-windows) - Antispy Tools
 * [Telemetry.md](https://gist.github.com/ave9858/a2153957afb053f7d0e7ffdd6c3dcb89) - Disable Windows 10/11 Telemetry
-* [PasswordsGenerator](https://passwordsgenerator.net/) - Secure Password Generator
 * [Frigate](https://frigate.video/), [Smart Sec Cam](https://github.com/scottbarnesg/smart-sec-cam) or [ZoneMinder](https://zoneminder.com/) - Security Camera Systems
 * [Team Elite](https://www.te-home.net/) or [Technet24](https://technet24.ir/) - Security Software / [Translator](https://github.com/FilipePS/Traduzir-paginas-web)
 * [Big Ass Data Broker Opt-Out List](https://github.com/yaelwrites/Big-Ass-Data-Broker-Opt-Out-List) - List of Data Broker Opt-Out Resources 
@@ -262,10 +280,44 @@
 * ⭐ **[Mullvad Browser](https://mullvad.net/en/browser)** - Tor Browser Fork (w/o Tor network)
 * ⭐ **[arkenfox](https://github.com/arkenfox/user.js)**- Firefox Privacy Tweak / [Video](https://youtu.be/F7-bW2y6lcI)
 * [Librewolf](https://librewolf.net/)- Pre-tweaked Firefox Fork / [Use Auto-Updater](https://github.com/ltguillaume/librewolf-winupdater)
-* [CookieStatus](https://www.cookiestatus.com/) or [PrivacyTests](https://privacytests.org/) - Browser Tracking Protection Comparisons
+* [CookieStatus](https://www.cookiestatus.com/) - Browser Tracking Protection Comparisons
 * [I2P](https://geti2p.net/en/) - Encrypted Private Network Layer / [Guide](https://rentry.co/CBGI2P)
 * [Whack](https://lcamtuf.coredump.cx/whack/) or [Earthling](https://earthlng.github.io/testpages/visited_links.html) - Browser History Leak Example Games
 * [SSL Labs](https://clienttest.ssllabs.com:8443/ssltest/viewMyClient.html) - SSL/TLS Browser Capabilities Test
+
+***
+
+## ▷ Password Privacy / 2FA
+
+* 🌐 **[2FA Directory](https://2fa.directory/)** - List of Sites with 2FA Support
+* ⭐ **[Ente Auth](https://github.com/ente-io/ente#ente-auth)** - Windows / Mac / Android / iOS 2FA / [Audit](https://ente.io/blog/cryptography-audit/)
+* ⭐ **[Aegis](https://getaegis.app/)** - Android 2FA
+* ⭐ **[AuthenticatorPro](https://authenticatorpro.jmh.me)** - Android 2FA
+* ⭐ **[HaveIBeenPwned PW](https://haveibeenpwned.com/Passwords)** - Password Breach Check
+* ⭐ **[Password Strength Chart](https://i.ibb.co/vZdqMvm/6728c7ef02e9.png)**
+* [2FAS](https://2fas.com/) - Android / iOS 2FA / [Discord](https://discord.gg/q4cP6qh2g5)
+* [Mauth](https://github.com/X1nto/Mauth) - Android 2FA
+* [FreeOTPPlus](https://github.com/helloworld1/FreeOTPPlus) - Android 2FA
+* [KeePassXC](https://keepassxc.org/) - Windows / Mac / Linux 2FA / [Guide](https://youtu.be/ckWPHaQwft8)
+* [AuthMe](https://authme.levminer.com/) - Windows / Mac / Linux 2FA / [GitHub](https://github.com/Levminer/authme)
+* [Tauthy](https://github.com/pwltr/tauthy) - Windows / Mac / Linux 2FA
+* [Yubioath](https://developers.yubico.com/yubioath-flutter/) - Windows / Android 2FA / YubiKeys
+* [Protecc](https://apps.microsoft.com/store/detail/protecc-2fa-client/9PJX91M06TZS) / [GitHub](https://github.com/FireCubeStudios/Protecc) - Windows 2FA
+* [OTPClient](https://github.com/paolostivanin/OTPClient) - Linux 2FA
+* [2FAuth](https://docs.2fauth.app/) - Web App 2FA / Self-hosted
+* [Sentinel](https://getsentinel.io/) - iOS / Mac 2FA
+* [Raivo OTP](https://raivo-otp.com) - iOS 2FA
+* [OTP Auth](https://apps.apple.com/ca/app/otp-auth/id659877384) - iOS 2FA
+* [Tofu](https://www.tofuauth.com/) - iOS 2FA
+* [Authenticator](https://authenticator.cc/) - Generate Two-Factor QR Codes / [GitHub](https://gitlab.gnome.org/World/Authenticator)
+* [Android OTP Extractor](https://github.com/puddly/android-otp-extractor) or [OTP Helper](https://github.com/jd1378/otphelper) - Extract OTP Tokens
+* [SteamGuard](https://github.com/dyc3/steamguard-cli) - Generate Steam 2FA Codes
+* [PasswordsGenerator](https://passwordsgenerator.net/) - Secure Password Generator
+* [Intelligence X](https://intelx.io/) - Password Breach Check
+* [psbdmp](https://psbdmp.ws/) - Password Breach Check
+* [Dehashed](https://dehashed.com/) - Password Breach Check
+* [Spycloud](https://spycloud.com/) - Password Breach Check
+* [ScatteredSecrets](https://scatteredsecrets.com/) - Password Breach Check
 
 ***
 
@@ -372,32 +424,6 @@
 * [Gibiru](https://gibiru.com/)
 * [SearXNG](https://docs.searxng.org/) - Self-Hosted
 * [Whoogle](https://pypi.org/project/whoogle-search/) - Self-Hosted
-
-***
-
-## ▷ Two-Factor Authentication
-
-* 🌐 **[2FA Directory](https://2fa.directory/)** - List of Sites with 2FA Support
-* ⭐ **[Ente Auth](https://github.com/ente-io/ente#ente-auth)** - Windows / Mac / Android / iOS 2FA / [Audit](https://ente.io/blog/cryptography-audit/)
-* ⭐ **[Aegis](https://getaegis.app/)** - Android 2FA
-* ⭐ **[AuthenticatorPro](https://authenticatorpro.jmh.me)** - Android 2FA
-* [2FAS](https://2fas.com/) - Android / iOS 2FA / [Discord](https://discord.gg/q4cP6qh2g5)
-* [Mauth](https://github.com/X1nto/Mauth) - Android 2FA
-* [FreeOTPPlus](https://github.com/helloworld1/FreeOTPPlus) - Android 2FA
-* [KeePassXC](https://keepassxc.org/) - Windows / Mac / Linux 2FA / [Guide](https://youtu.be/ckWPHaQwft8)
-* [AuthMe](https://authme.levminer.com/) - Windows / Mac / Linux 2FA / [GitHub](https://github.com/Levminer/authme)
-* [Tauthy](https://github.com/pwltr/tauthy) - Windows / Mac / Linux 2FA
-* [Yubioath](https://developers.yubico.com/yubioath-flutter/) - Windows / Android 2FA / YubiKeys
-* [Protecc](https://apps.microsoft.com/store/detail/protecc-2fa-client/9PJX91M06TZS) / [GitHub](https://github.com/FireCubeStudios/Protecc) - Windows 2FA
-* [OTPClient](https://github.com/paolostivanin/OTPClient) - Linux 2FA
-* [2FAuth](https://docs.2fauth.app/) - Web App 2FA / Self-hosted
-* [Sentinel](https://getsentinel.io/) - iOS / Mac 2FA
-* [Raivo OTP](https://raivo-otp.com) - iOS 2FA
-* [OTP Auth](https://apps.apple.com/ca/app/otp-auth/id659877384) - iOS 2FA
-* [Tofu](https://www.tofuauth.com/) - iOS 2FA
-* [Authenticator](https://authenticator.cc/) - Generate Two-Factor QR Codes / [GitHub](https://gitlab.gnome.org/World/Authenticator)
-* [Android OTP Extractor](https://github.com/puddly/android-otp-extractor) or [OTP Helper](https://github.com/jd1378/otphelper) - Extract OTP Tokens
-* [SteamGuard](https://github.com/dyc3/steamguard-cli) - Generate Steam 2FA Codes
 
 ***
 
