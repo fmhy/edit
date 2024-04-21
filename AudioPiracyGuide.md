@@ -17,7 +17,6 @@
 
 * ⭐ **[SpotX](https://github.com/amd64fox/SpotX)** - [Telegram](https://t.me/SpotxCommunity)
 * ⭐ **[BlockTheSpot](https://github.com/mrpond/BlockTheSpot)** - [Discord](https://discord.gg/9tCNMFESuC)
-* [spotify-ezblocker](https://www.ericzhang.me/projects/spotify-ad-blocker-ezblocker/)
 * [BurntSushi](https://github.com/OpenByteDev/burnt-sushi)
 * [Spicetify](https://spicetify.app/) - Has Adblock Plugins
 * [Block Ad Host Files](https://gist.github.com/opus-x/3e673a9d5db2a214df05929a4eee6a57)
@@ -77,7 +76,15 @@
 * ⭐ **[SoundCloud](https://soundcloud.com/)** - User Made Songs / [Spotify Theme](https://userstyles.world/style/5470/soundfy-v3) / [Dark Theme](https://github.com/huds0nx/soundcloud-luna)
 * ⭐ **[hate5six](https://hate5six.com/)** - Concert Recordings
 * [OperaOnVideo](https://www.operaonvideo.com/) - Opera Recordings
-* [Last.fm](https://www.last.fm/), [ccMixter](https://dig.ccmixter.org/), [Audiomack](https://audiomack.com/), [Pandora](https://www.pandora.com/), [Jango](https://jango.com/), [Jamendo](https://www.jamendo.com/), [SoundClick](https://www.soundclick.com/default.cfm) or [Mixupload](https://mixupload.com/) - Browser Music
+* [Groovesharks](https://groovesharks.org/) - Browser Music
+* [Last.fm](https://www.last.fm/) - Browser Music
+* [ccMixter](https://dig.ccmixter.org/) - Browser Music
+* [Audiomack](https://audiomack.com/) - Browser Music
+* [Pandora](https://www.pandora.com/) - Browser Music
+* [Jango](https://jango.com/) - Browser Music
+* [Jamendo](https://www.jamendo.com/) - Browser Music
+* [SoundClick](https://www.soundclick.com/default.cfm) - Browser Music
+* [Mixupload](https://mixupload.com/) - Browser Music
 * [Tancpol](https://tancpol.net/) - Browser Music
 * [musify](https://musify.club/) - Browser Music
 * [DMO](https://dance-music.org/) - Electronic
@@ -547,7 +554,7 @@
 * [LowAudioLatency](https://github.com/spddl/LowAudioLatency/) - Reduce Audio Latency
 * [DigitalFeed](https://abx.digitalfeed.net/) - Lossless Audio Sound System Test
 * [Cleanfeed](https://cleanfeed.net/) - Live Audio Recording
-* [Online Mic Test](https://onlinemictest.com/), [Mic Tests](https://mictests.com/) or [Check Mic](https://webcammictest.com/check-mic.html) - Mic Test
+* [Online Mic Test](https://onlinemictest.com/) or [Check Mic](https://webcammictest.com/check-mic.html) - Mic Test
 * [Sound Meter](https://mybrowseraddon.com/sound-meter.html) or [REW](https://www.roomeqwizard.com) - Measure Surrounding Sound Level
 * [Krisp](https://krisp.ai/) or [noise-suppression-for-voice](https://github.com/werman/noise-suppression-for-voice) - Noise Suppression Tools
 * [AI-coustics](https://ai-coustics.com/) - Voice Clarity Enhancement AI
