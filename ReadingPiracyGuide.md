@@ -257,7 +257,6 @@
 * ↪️ **[Survival / Prepping](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_survival)**
 * ↪️ **[Quote Collections](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_quotes)**
 * ↪️ **[UFO Books](https://rentry.co/FMHYBase64#ufo-books)**
-* ↪️ **[Sheet Music Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_sheet_music_sites)**
 * ⭐ **[Short Stories](https://short-stories.co/)**, [Booksie](https://www.booksie.com/), [Vestal Review](https://www.vestalreview.net/) or [Library of Short Stories](https://www.libraryofshortstories.com/) - Short Stories
 * ⭐ **[Poetry Foundation](https://www.poetryfoundation.org/)**, [Poetry In Translation](https://www.poetryintranslation.com/), [PoemHunter](https://www.poemhunter.com/), [CAPA](https://capa.conncoll.edu/), [RUVerses](https://ruverses.com/), [PoetryNook](https://poetrynook.com/) or [Poetry.com](https://www.poetry.com/) - Poetry
 * ⭐ **[SufficientVelocity](https://forums.sufficientvelocity.com/)** or [SpaceBattles](https://forums.spacebattles.com/) - Fanfiction Forums
@@ -536,7 +535,7 @@
 ## ▷ Newspapers
 
 * 🌐 **[Veridian](https://veridiansoftware.com/collections/)** - Newspaper Archive List
-* ↪️ **[Bypass Newspaper Paywalls](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_read_paywalled_articles)**
+* ↪️ **[Bypass Newspaper Paywalls](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools#wiki_.25B7_paywall_bypass)**
 * ↪️ **[Worldwide News Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25BA_news)**
 * ⭐ **[Mobilism Newspapers](https://forum.mobilism.org/viewforum.php?f=123)** / [User Ranks](https://pastebin.com/pZuuMxYm)
 * ⭐ **[Google Newspaper Search](https://news.google.com/newspapers)**
