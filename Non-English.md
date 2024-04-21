@@ -119,7 +119,7 @@
 * [Anti-Ad](https://anti-ad.net/) - Adblock Filters
 * [chat2ai](https://www.chat2ai.cn/) - AI Index
 * [GameLoop](https://syzs.qq.com/) - Android Emulator
-* [Thanox](https://github.com/Tornaco/Thanox) - Android System Manager
+* [Thanox](https://tornaco.github.io/Thanox-Docs/en) - Android System Manager
 * [Winmoes](https://winmoes.com/) - Anime Windows Themes / Wallpapers
 * [Gridea](https://open.gridea.dev/) - Blog Writing Client
 * [Etoland](https://etoland.co.kr/) - Bulletin Board
@@ -817,7 +817,7 @@
 ## ▷ Reading
 
 * [kakao](https://page.kakao.com/) - Manga
-* [MangaViewAndroid](https://github.com/junheah/MangaViewAndroid) - Manga 
+* [MangaViewAndroid](https://junheah.github.io/MangaViewAndroid/) - Manga 
 * [Namu Wiki](https://namu.wiki/) - Korean Wiki
 
 ***
@@ -1457,7 +1457,7 @@
 * 🌐 **[El Bucanero del Deporte](https://deportebucanero.wordpress.com/)** - Sports Piracy Directory
 * ⭐ **[HDFull](https://dominioshdfull.com/)** - Movies / TV / Anime / 1080p / [Discord](https://discord.gg/BRKCXEe) / Castilian / Latino
 * ⭐ **[Cuevana](https://cuevana.si/)** - Movies / TV / Anime / 1080p / Latino
-* ⭐ **[LaQuay TDT Channels](https://github.com/LaQuay/TDTChannels)** - Live TV / Live Radio / IPTV / Castilian
+* ⭐ **[LaQuay TDT Channels](https://www.tdtchannels.com/) / [GitHub](https://github.com/LaQuay/TDTChannels)** - Live TV / Live Radio / IPTV / Castilian
 * ⭐ **[El Plan](https://www.reddit.com/user/No_Land656)** - Live Sports Acestream IDs
 * ⭐ **[Flipax](https://www.flipax.es/)** - Live Sports
 * [PlayDede](https://playdede.us/) - Movies / TV / Anime / 1080p / Castilian / Latino / [Telegram](https://t.me/s/playdedeinformacion) / [App](https://t.me/playdedeapp/11161)
