@@ -27,7 +27,6 @@
 * [Release APK](https://forum.release-apk.com/)
 * [RockMods](https://www.rockmods.net/) / [Telegram](https://t.me/RBMods)
 * [DL King](https://dl.king2net.com/soft%20android/)
-* [APKKit](https://apkkit.com/)
 * [ReXDL](https://rexdl.com/) / [Telegram](https://t.me/joinchat/AAAAAFVMhwX7IzS5hMc8OQ)
 * [PlatinMods](https://platinmods.com/) - Modded Games
 
@@ -51,6 +50,7 @@
 * [APKToy](https://www.apktoy.com/)
 * [APKamp](https://apkamp.com/)
 * [APKSum](https://www.apksum.com/)
+* [APKKit](https://apkkit.com/)
 * [Material-You-app-list](https://github.com/nyas1/Material-You-app-list)
 * [Shelf](https://play.google.com/store/apps/details?id=com.shelf.app) - App Recommendations
 
@@ -192,7 +192,7 @@
 * [Zedge](https://www.zedge.net/) - Wallpapers / Ringtones / Use Adblocker
 * [DarQ](https://github.com/KieronQuinn/DarQ) - Universal Dark Mode
 * [Phonetones](http://onj3.andrelouis.com/phonetones/) or [RingtoneRobot](https://t.me/RingtoneRobot) - Ringtones Directories
-* [RBoard](https://forum.xda-developers.com/t/app-rboard-theme-manager.4331445/) / [GitHub](https://github.com/DerTyp7214/RboardThemeManagerV3), [Repainter](https://play.google.com/store/apps/details?id=dev.kdrag0n.dyntheme) or [Substratum](https://www.xda-developers.com/substratum-hub/) - Theme Managers
+* [RBoard](https://forum.xda-developers.com/t/app-rboard-theme-manager.4331445/) / [GitHub](https://github.com/DerTyp7214/RboardThemeManagerV3), [ColorBlendr](https://github.com/Mahmud0808/ColorBlendr), [Repainter](https://play.google.com/store/apps/details?id=dev.kdrag0n.dyntheme) or [Substratum](https://www.xda-developers.com/substratum-hub/) - Theme Managers
 * [AlwaysOnEdge](http://www.aoeapps.com/) or [Dashbud](https://dashbud.dev/) / [Discord](https://discord.com/invite/78h7xgj) - Android Customization Apps
 * [VirtualXposed](https://github.com/android-hacker/VirtualXposed) - Xposed Frameworks
 * [Panels](https://play.google.com/store/apps/details?id=com.fossor.panels&hl=en_US&gl=QA) or [1 Edge](https://play.google.com/store/apps/details?id=com.hiruffy.controller) - Android Sidebar Panel
@@ -246,6 +246,7 @@
 * [Pixelify](https://github.com/BaltiApps/Pixelify-Google-Photos) / [Telegram](https://t.me/pixelifyGooglePhotos), [2](https://github.com/Kingsman44/Pixelify) - Add Google Pixel Photo Features to non-Google Devices
 * [Gcam-Services-Provider](https://github.com/lukaspieper/Gcam-Services-Provider) - Use Google Cam Without Google Play 
 * [Secure Camera](https://play.google.com/store/apps/details?id=app.grapheneos.camera.play), [BinaryEye](https://github.com/markusfisch/BinaryEye) or [Code Scanner](https://github.com/czlucius/code-scanner) - QR / Barcode Scanners
+* [TimeLapseCam](https://github.com/woheller69/TimeLapseCamera) - Timelapse Camera
 * [Colorize Images](https://rentry.co/FMHYBase64#colorize-images), [Phototune](https://rentry.co/FMHYBase64#phototune) or [Remini](https://rentry.co/FMHYBase64#remini) - Colorize Images
 * [Color Camera](https://play.google.com/store/apps/details?id=theindusdeveloper.com.colorcamera) - Change Image Colors
 * [Photo Lab](https://ilixa.com/8bitphotolab.php) - Give Images a Retro Look 8Bit
@@ -274,7 +275,7 @@
 * [Grammarly](https://rentry.co/FMHYBase64#grammarly-keyboard-premium) - Grammarly Keyboard Premium
 * [UnicodePad](https://play.google.com/store/apps/details?id=jp.ddo.hotmist.unicodepad) / [GitHub](https://github.com/Ryosuke839/UnicodePad) or [Kaomoji](https://play.google.com/store/apps/details?id=ru.kaomoji.kaomojiapp) - Emoji / Unicode Manager
 * [emojimix](https://play.google.com/store/apps/details?id=net.tikolu.emojimix) - Combine Emojis
-* [Memory Guardian](https://github.com/hashemi-hossein/memory-guardian) or [Clipboard CopyPaste](https://www.evvasoft.com/ccp.html) - Clipboard Managers
+* [Memory Guardian](https://github.com/hashemi-hossein/memory-guardian/) or [Clipboard CopyPaste](https://www.evvasoft.com/ccp.html) - Clipboard Managers
 * [Irregular Expressions](https://play.google.com/store/apps/details?id=mf.asciitext.lite) - Text Font Generator
 * [FlutterMarkdownEditor](https://github.com/adeeteya/FlutterMarkdownEditor) - Markdown Editor
 * [Take Notes](https://github.com/the-rebooted-coder/Take-Notes) - Convert Text to Handwritten Notes
@@ -505,7 +506,7 @@
 * ⭐ **[Patch Reddit Clients](https://docs.google.com/document/u/0/d/1wHvqQwCYdJrQg4BKlGIVDLksPN0KpOnJWniT6PbZSrI/mobilebasic)** - How To Patch 3rd Party Reddit Clients
 * [Endless](https://kaangiray26.github.io/endless/) - Combine Social Media Apps
 * [Watomatic](https://watomatic.app/) / [GitHub](https://github.com/adeekshith/watomatic) or [AutoResponder](https://www.autoresponder.ai/) - Chat App Auto-Responders
-* [Aerowitter](https://aerowitter.com/) - Ad-Free Twitter Apps
+* [Aerowitter](https://aerowitter.com/) or [Quacker](https://thehcj.github.io/Quacker/) - Twitter Apps
 * [MessengerEx](https://github.com/C10udburst/MessengerEx/) - Facebook Messenger Adblocker
 * [Xtra](https://github.com/crackededed/Xtra), [BBTV](https://github.com/bttv-android/bttv), [Twire](https://github.com/twireapp/Twire) or [Frosty](https://www.frostyapp.io/) - Twitch Clients
 * [DankChat](https://github.com/flex3r/DankChat) - Talk in Multiple Twitch Chats at Once
@@ -547,6 +548,7 @@
 * [syncopoli](https://gitlab.com/fengshaun/syncopoli) - File Sync / Sharing
 * [iyox-Wormhole](https://github.com/iyox-studios/iyox-Wormhole) - File Sync / Sharing
 * [ShareX](https://github.com/akanshSirohi/ShareX) - File Sync / Sharing
+* [Xender](https://www.xender.com/) - File Sync / Sharing
 * [Save n Device](https://github.com/lmj0011/save-on-device) - File Sync / Sharing
 * [Nearby Share](https://www.android.com/better-together/quick-share-app/) - File Sync / Sharing
 * [DriveSync](https://play.google.com/store/apps/details?id=com.ttxapps.drivesync) - Google Drive Sync
@@ -598,7 +600,8 @@
 * [FindMyDevice](https://gitlab.com/Nulide/findmydevice), [phonetrack](https://gitlab.com/eneiluj/phonetrack-oc) / [2](https://gitlab.com/eneiluj/phonetrack-android) or [AutoWhatsAppTriggers](https://play.google.com/store/apps/details?id=om.roitman.autowhatsapptriggers) - Track Phones Location
 * [OwnTracks](https://owntracks.org/), [Hauk](https://github.com/bilde2910/Hauk), [Positional](https://play.google.com/store/apps/details?id=app.simple.positional.lite), [GPSCockpit](https://github.com/woheller69/gpscockpit), [GPSTest](https://play.google.com/store/apps/details?id=com.android.gpstest) or [GnssLogger](https://play.google.com/store/apps/details?id=com.google.android.apps.location.gps.gnsslogger) - Track Own Location / GPS
 * [Locus](https://github.com/Myzel394/locus) - E2E Location Sharing
-* [MAPS.ME](https://maps.me/) / [GitHub](https://github.com/mapsme/omim), [Magic Earth](https://www.magicearth.com/) or [OsmAnd](https://osmand.net/) - Offline Maps
+* [Magic Earth](https://www.magicearth.com/) or [OsmAnd](https://osmand.net/) - Offline Maps
+* [WiFi Space](https://wifispc.com/) - Public WiFi Map
 * [EV-Map](https://ev-map.app/) - Electronic Vehicle Charging Map
 * [LavSeeker](https://github.com/woheller69/lavatories) - Public Toilet Map
 * [Transportr](https://transportr.app/) - Public Transport Assistant
@@ -629,7 +632,7 @@
 * [Andronix](https://andronix.app/) - Linux Emulator for Android
 * [AOPC](https://aopc.dev/) - Android Desktop OS Forums
 * [Docker Android](https://github.com/budtmo/docker-android) - Android on Docker
-* [BareNox](https://forum.xda-developers.com/t/tool-guide-barenox-modded-nox-android-emulator.4468425/) or [Nox](https://www.bignox.com/) - Android Emulator on Windows [Screenshot](https://i.ibb.co/MkdmtYr/647f0f4f051c.jpg) / [Debloat Guide](https://gist.github.com/TameemS/72c4b92131977aced56e727d51599a48), [2](https://codefaq.org/emulator/how-to-remove-bloatware-on-nox-and-ldplayer-emulator/) / [Video](https://youtu.be/IjI_-pQUOhQ)
+* [Nox](https://www.bignox.com/) - Android Emulator on Windows [Screenshot](https://i.ibb.co/MkdmtYr/647f0f4f051c.jpg) / [Debloat Guide](https://gist.github.com/TameemS/72c4b92131977aced56e727d51599a48)
 * [GameLoop](https://www.gameloop.com/) - Android Emulator on Windows / [Screenshot](https://i.ibb.co/WyggSQM/26828a9408f1.png)
 * [MuMu](https://www.mumuplayer.com/) -  Android Emulator on Windows / [Screenshot](https://i.ibb.co/vwBrY5M/bfa89c699ff7.png)
 * [MeMu](https://www.memuplay.com/) - Android Emulator on Windows / [Screenshot](https://i.ibb.co/FsMfk68/6b4ce185773e.png) / [Debloater](https://gist.github.com/TameemS/603686cec857ff1f91e68607e374b0d8)
@@ -825,7 +828,6 @@
 * [Bilibili Evolved](https://github.com/the1812/Bilibili-Evolved) or [bilibili-android-client](https://github.com/HotBitmapGG/bilibili-android-client) - Bilibili Client
 * [ScreenStream](https://github.com/dkrivoruchko/ScreenStream) - Cast Device to Screen
 * [Tunity](https://tunity.com/) - Hear Muted TVs
-* [Stick Around](https://play.google.com/store/apps/details?id=com.stickaround.app) - Check for Post Credit Scenes
 * [tv-bro](https://github.com/truefedex/tv-bro) - TV Remote Browser
 * [Unchained for Android](https://github.com/LivingWithHippos/unchained-android) - Interact with Real-Debrid API
 * [How to Extract Widevine L3 CDM from Android](https://pastebin.com/zhpa3XSD)
@@ -937,7 +939,6 @@
 * [UTM](https://getutm.app/) - Virtual Machines 
 * [Lock Launcher](https://www.locklauncher.com/) - Lock Screen App Launcher
 * [Scriptable](https://apps.apple.com/us/app/scriptable/id1405459188) - Automation Script Tool
-* [MAPS.ME](https://maps.me/) - Offline Maps / [GitHub](https://github.com/mapsme/omim)
 * [StreetComplete](https://streetcomplete.app/) - OpenStreetMap Surveyor App
 * [Cowabunga](https://github.com/leminlimez/Cowabunga), [PureKFD](https://github.com/PureKFD/PureKFD) or [Misaka](https://github.com/straight-tamago/misaka) - iOS Customization Apps
 * [iSkin](https://iskin.tooliphone.net/), [Anemone](https://www.ios-repo-updates.com/repository/odyssey-repo/package/com.anemonetheming.anemone3/), [/r/iOSsetups](https://www.reddit.com/r/iOSsetups/) or [/r/iOSthemes](https://www.reddit.com/r/iOSthemes/) - iOS Themes 
