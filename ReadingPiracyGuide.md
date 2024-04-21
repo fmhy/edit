@@ -159,7 +159,7 @@
 ## ▷ Calibre Libraries
 
 * ⭐ **[Calishot](http://85.10.194.198:5001/index/summary)** - Calibre Library
-* ⭐ **[Ebook-Translator](https://github.com/bookfere/Ebook-Translator-Calibre-Plugin)** - Calibre Translators
+* ⭐ **[Ebook-Translator](https://translator.bookfere.com)** - Calibre Translators
 * [opencalibre](https://reddit.com/r/opencalibre) - Calibre Library / [Search](https://www.shodan.io/search?query=server%3A+calibre) / [Web App](https://github.com/janeczku/calibre-web)
 * [Calibre Library List](https://pastebin.com/LS39rWhM) - Calibre Libraries
 * [Demeter](https://github.com/gnur/demeter) - Calibre Scraper
@@ -299,7 +299,7 @@
 * [Marxists Internet Archive](https://www.marxists.org/) - Socialism / Communism
 * [Liberation School](https://liberationschool.org/) - Communism
 * [Red Texts](https://redtexts.org/) - Communism
-* [Communism Essays / FAQs](https://github.com/dessalines/essays) - Communism
+* [Communism Essays / FAQs](https://dessalines.github.io/essays) - Communism
 * [Third World Traveler](https://thirdworldtraveler.com/) - Human Rights / Conspiracies / Anti-War
 * [Rookie Road]( https://www.rookieroad.com/) - Sport Guides
 
@@ -887,7 +887,7 @@
 * [The Greatest Books](https://www.thegreatestbooks.org/) - Book Recommendations
 * [Hacker Recommended Books](https://hacker-recommended-books.vercel.app/) - Book Recommendations
 * [PagePundit](https://pagepundit.com/) - Book Recommendations
-* [Mind Expanding Books](https://github.com/hackerkid/Mind-Expanding-Books) - Book Recommendations
+* [Mind Expanding Books](https://mindexpandingbooks.com) / [GitHub](https://github.com/hackerkid/Mind-Expanding-Books) - Book Recommendations
 * [Litsy](https://www.litsy.com/) - Book Recommendation / Photo Sharing Community
 * [Bookmarks Review](https://bookmarks.reviews/) - Book Review Aggregator
 * [5000 Best](http://5000best.com/books/) - Top 5000 Books
@@ -928,7 +928,7 @@
 * ⭐ **[Calibre](https://calibre-ebook.com/)** - Ebook Reader / PC / Android / iOS
 * ⭐ **[EinkBro](https://github.com/plateaukao/einkbro)** - E-Ink Browser
 * [Postlight](https://reader.postlight.com/), [Reader Mode](https://readermode.io/) or [Tranquility](https://addons.mozilla.org/en-GB/firefox/addon/tranquility-1/) - Article Readers / Managers
-* [Librum](https://github.com/Librum-Reader/Librum) - Ebook Reader / PC / Linux / ac
+* [Librum](https://librumreader.com) / [GitHub](https://github.com/Librum-Reader/Librum) - Ebook Reader / PC / Linux / ac
 * [EBook Reader](https://epub-reader.online/) - Ebook Reader / PC / Android / iOS / Mac
 * [LibrumReader](https://librumreader.com/ ) - Ebook Reader / PC 
 * [KoReader](https://koreader.rocks/) - Ebook Reader / PC / Android / [GitHub](https://github.com/koreader/koreader)
@@ -986,7 +986,7 @@
 * [Readarr](https://readarr.com/) or [LazyLibrarian](https://gitlab.com/LazyLibrarian/LazyLibrarian) - Book Torrent Autodownload / Manager / [GitHub](https://github.com/Readarr/Readarr)
 * [GoBooDo](https://github.com/vaibhavk97/GoBooDo) - Google Book Downloader w/ Proxy Support
 * [DocDownloader](https://docdownloader.com/) or [scribd.vpdfs](https://scribd.vpdfs.com/) - [Scribd](https://www.scribd.com/) Document Downloaders
-* [GROBID](https://github.com/kermitt2/grobid) - Extract / Organize Scientific Document Info
+* [GROBID](https://grobid.readthedocs.io) - Extract / Organize Scientific Document Info
 * [FicHub](https://fichub.net/) or [FanFictionDownloader](https://fanfictiondownloader.net/) - Fanfiction Downloader
 * [Sigil Ebook](https://sigil-ebook.com/) - EPUB Editor
 * [EPUB Translator](https://github.com/quantrancse/epub-translator) or [epub-translator](https://github.com/sharplab/epub-translator) - EPUB Translators
