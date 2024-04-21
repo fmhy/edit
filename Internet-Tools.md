@@ -204,7 +204,7 @@
 * ⭐ **[Android APK CSE](https://cse.google.com/cse?cx=e0d1769ccf74236e8)**, [2](https://cse.google.com/cse?cx=73948689c2c206528), [3](https://cse.google.com/cse?cx=a805854b6a196d6a6) - Search Android APK Sites
 * ⭐ **[Extensions CSE](https://cse.google.com/cse?cx=86d64a73544824102)** - Search Extension Sites
 * ⭐ **[Fonts CSE](https://cse.google.com/cse?cx=82154ebab193e493d)** - Search Font Sites
-* [100 Search Engines](https://www.100searchengines.com/) - Search With 100 Search Engines
+* [100 Search Engines](https://www.100searchengines.com/) - Search with 100 Search Engines
 * [File Host Search](https://cse.google.com/cse?cx=90a35b59cee2a42e1) - Search File Hosts
 * [Pastebin CSE](https://cse.google.com/cse?cx=0cd79b819f26af9d0), [Pastebin.ga](https://pastebin.ga/) or [Paste Skimmer](https://sites.google.com/view/l33tech/tools/pasteskimmer) - Search Pastebins
 * [Linux Software CSE](https://cse.google.com/cse?cx=81bd91729fe2a412b) - Search Linux Software Sites
@@ -444,7 +444,7 @@
 * [QuteBrowser](https://qutebrowser.org/) - Keyboard Focused Browser
 * [Vieb](https://vieb.dev/) - Vim Inspired Browser
 * [Browsh](https://www.brow.sh/) - Text-Based Browser
-* [woob](https://woob.tech/) - Use Sites Without a Browser
+* [woob](https://woob.tech/) - Use Sites without a Browser
 * [Browser.lol](https://browser.lol/) or [Browserling](https://www.browserling.com/) - Browser Emulators
 * [NYXT](https://nyxt.atlas.engineer/ ) - Information Extraction Browser
 * [Lagrange](https://gmi.skyjake.fi/lagrange/) or [Amfora](https://github.com/makew0rld/amfora) - Gemini Browsers
@@ -527,7 +527,7 @@
 * [Skip Silence](https://github.com/vantezzen/skip-silence) - Skip Silent Parts in Videos
 * [Web-Scrobbler](https://web-scrobbler.com/) - Scrobble with Last.fm, Libre.fm, etc.
 * [Form History Control](https://stephanmahieu.github.io/fhc-home/) - Formfill Manager
-* [Fake Data](https://www.fakedata.pro/) - Fill Forms With Fake Data
+* [Fake Data](https://www.fakedata.pro/) - Fill Forms with Fake Data
 * [External App Button](https://add0n.com/external-application-button.html) - Connect Browser to External Apps
 * [xBrowserSync](https://www.xbrowsersync.org/) - Browser Syncing
 * [Stylebot](https://stylebot.dev/) - Modify Webpages

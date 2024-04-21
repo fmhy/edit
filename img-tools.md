@@ -174,7 +174,7 @@
 * [Tiler](https://github.com/nuno-faria/tiler) - Make Images out of Images
 * [NoiseDeck](https://noisedeck.app/) - Art Generator
 * [Pulp-O-Mizer](https://thrilling-tales.webomator.com/derange-o-lab/pulp-o-mizer/pulp-o-mizer.html ) - Vintage Magazine Cover Generator
-* [Mirro-Ai](https://mirror-ai.com/) - Get Stickers w/ Your Face
+* [Mirro-Ai](https://mirror-ai.com/) - Get Stickers with Your Face
 
 ***
 
@@ -255,7 +255,7 @@
 * [Pixelicious](https://www.pixelicious.xyz/) - Image to Pixel Art Converter
 * [Pal](https://pal.constraint.systems/) - Apply 8-bit Terminal Color Palettes to Images
 * [Nasu](https://hundredrabbits.itch.io/nasu) - Spritesheet Editor
-* [Pixel Art Scaler](https://lospec.com/pixel-art-scaler/) - Scale Pixel Art w/o Quality Loss
+* [Pixel Art Scaler](https://lospec.com/pixel-art-scaler/) - Scale Pixel Art without Quality Loss
 
 ***
 

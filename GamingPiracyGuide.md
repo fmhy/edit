@@ -159,7 +159,7 @@
 ## ▷ Emulators
 
 * 🌐 **[Emulation Wiki](https://emulation.gametechwiki.com/)**, [Awesome Emulators](https://github.com/DerekTurtleRoe/awesome-emulators), [PlanetEmu](https://www.planetemu.net/), [The Emulator Zone](https://www.emulator-zone.com/) or [EmuCR](https://www.emucr.com/) - Download Emulators
-* 🌐 **[Multi System Emulators](https://emulation.gametechwiki.com/index.php/Multi-system_emulators)** / [Frontends](https://emulation.gametechwiki.com/index.php/Frontends) - Emulators w/ Multiple Consoles
+* 🌐 **[Multi System Emulators](https://emulation.gametechwiki.com/index.php/Multi-system_emulators)** / [Frontends](https://emulation.gametechwiki.com/index.php/Frontends) - Emulators with Multiple Consoles
 * 🌐 **[RedSquirrel Project List](https://www.redsquirrel87.altervista.org/doku.php/projects-list)** - Emulator Tools
 * 🌐 **[Multiplayer Emulation](https://emulation.gametechwiki.com/index.php/Netplay)** - Multiplayer Emulation Tools
 * ↪️ **[Android Emulators](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25BA_android_emulators)**
@@ -457,7 +457,7 @@
 * [Steam Link](https://play.google.com/store/apps/details?id=com.valvesoftware.steamlink) - Stream Steam Library to TV
 * [Steam Mover](https://www.traynier.com/software/steammover) - Store Steam Games on Multiple Drives
 * [Steam Piracy](https://greasyfork.org/en/scripts/460862) or [Stream To Free](https://greasyfork.org/en/scripts/481139) - Add Piracy Site Links to Steam Store
-* [BoilR](https://github.com/PhilipK/BoilR) - Sync Game Platforms w/ Steam
+* [BoilR](https://github.com/PhilipK/BoilR) - Sync Game Platforms with Steam
 * [UWPHook](https://briano.dev/UWPHook/) - Add Windows Store Games to Steam
 * [Steam Rom Manager](https://github.com/SteamGridDB/steam-rom-manager) - Add ROMs to Steam
 * [HonestSteamBrowser](https://honeststeambrowser.com/) - Steam Server Browser
@@ -1224,9 +1224,9 @@
 * ⭐ **[Scid vs. PC](https://scidvspc.sourceforge.net/)**, [TheChessWebsite](https://www.thechesswebsite.com/), [Chess Tempo](https://chesstempo.com/), [Chessercise](https://www.chessercise.xyz/), [Lucas Chess](https://lucaschess.pythonanywhere.com/) or [List Study](https://listudy.org/en) - Learn / Practice Chess
 * [Chesses](https://pippinbarr.com/chesses/) or [Omnichess](https://omnichess.club/) - Multiple Styles of Chess
 * [The Kilobyte’s Gambit](https://vole.wtf/kilobytes-gambit/) - 1k Chess Game
-* [Kung Fu Chess](https://www.kfchess.com/) - Real-Time Chess w/o Turns
+* [Kung Fu Chess](https://www.kfchess.com/) - Real-Time Chess without Turns
 * [PokemonChess](https://pokemonchess.com/) - Pokemon Style Chess / [Discord](https://discord.gg/fp5bcCqg8q)
-* [Real Board](https://github.com/karayaman/lichess-with-a-real-board) - Play Lichess w/ Real Chess Board
+* [Real Board](https://github.com/karayaman/lichess-with-a-real-board) - Play Lichess with Real Chess Board
 * [Gambit](https://github.com/maaslalani/gambit) - Linux Terminal Chess
 * [Laser](https://playlaser.xyz/) - Alt Style Chess
 * [Star Wars Chess](https://archive.org/details/msdos_Star_Wars_Chess_1993) - Star Wars Style Chess / [Manual](https://archive.org/details/star-wars-chess-manual/)

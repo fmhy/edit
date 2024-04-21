@@ -41,7 +41,7 @@
 * [5000 Best](http://5000best.com/websites/) / [Tools](http://5000best.com/tools/) - Site / Tool Index
 * [mw.rat.bz](https://mw.rat.bz/index.html) - Site / Tool Index
 * [itch.io Tools](https://itch.io/tools/free) - Tool Index
-* [num's link list](https://soda.privatevoid.net/num/links/) - Site Index
+* [redshift's Web Links](https://rdshft.net/links/) - Site Index
 * [ODP](http://odp.org/) - Site Index
 * [VRFavs](https://www.vrfavs.com/) - Virtual Reality Resources
 * [Simple Tools](https://simpletools.info/doku.php) - Simple Programs Index 
@@ -274,7 +274,7 @@
 * [Beacon](https://beacon.schneidercorp.com/) - Property Info / Map Search
 * [FixPhrase](https://fixphrase.com/) or [TextToMap](https://www.textomap.com/) - Text Based Map Search
 * [zoom.earth](https://zoom.earth/) or [GoogleEarth](https://earth.google.com/web/) - Earth Viewer
-* [Copernix](https://copernix.io/) - Explore a Map w/ Wikipedia
+* [Copernix](https://copernix.io/) - Explore a Map with Wikipedia
 * [Snazzy Maps](https://snazzymaps.com/) - Google Maps Themes
 * [Sirens In UA](https://sirens.in.ua/) - Ukraine Air Raid Siren Map
 * [Native-Land.ca](https://native-land.ca/) - Indigenous Territory Map
@@ -448,7 +448,7 @@
 * [Coping Skills Masterlist](https://docs.google.com/document/d/1KI1kzj6Bjx_O3ggYXfgEuTtOsLiCW0V-JeWpTyX5OOU/) - Mental Health Coping Skills
 * [Zen Habits](https://zenhabits.net/) - Develop Zen Habits
 * [Medito](https://github.com/meditohq/medito-app) or [Heartfulness](https://www.heartfulnessapp.org/) - Meditation App
-* [Balance](https://balance.dvy.io/) - Challenge Anxious Thoughts w/ AI
+* [Balance](https://balance.dvy.io/) - Challenge Anxious Thoughts with AI
 * [Plees Tracker](https://vmiklos.hu/plees-tracker/) - Sleep Tracker
 
 ***
@@ -1074,7 +1074,7 @@
 * [Kittenwar!](https://www.kittenwar.com/) - Rate Kittens
 * [procatinator](https://procatinator.com/) - Cat GIFs & Music
 * [Open Puppies](https://openpuppies.com/) - Random Dog GIFs
-* [Triviart](https://triviart.live/) - Infinite Painting Canvas w/ Trivia
+* [Triviart](https://triviart.live/) - Infinite Painting Canvas with Trivia
 * [paint.wtf](https://paint.wtf/) - Have an AI Judge your Art
 * [Chimera Painter](https://storage.googleapis.com/chimera-painter/index.html) - Chimera Generator
 * [MakeCoatOfArms](https://www.allfamilycrests.com/makecoatofarms.htm) - Coat of Arms Generator
@@ -1115,6 +1115,7 @@
 ## ▷ Interactive
 
 * 🌐 **[David.li](https://david.li/)** - Physics Games
+* 🌐 **[Awesome Web Desktops](https://github.com/syxanash/awesome-web-desktops)** - OS Emulators
 * ↪️ **[Fun Site Indexes](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_fun_indexes)**
 * ↪️ **[Browser Games](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/games#wiki_.25BA_browser_games)**
 * ↪️ **[Image Creation](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/img-tools#wiki_.25BA_image_creation)**
@@ -1149,6 +1150,9 @@
 * [cnnix-steership](https://edition.cnn.com/interactive/2021/03/cnnix-steership/) - Steer through the Suez Canal
 * [Ballooning](https://alexanderperrin.com.au/triangles/ballooning/) - Procedurally Generated Balloon Simulator
 * [Tamajoji](https://aericode.itch.io/tamajoji) - Browser Tamagotchi
+* [Virtual x86](https://copy.sh/v86/) - x86-compatible OS Emulators
+* [PCjs Machines](https://www.pcjs.org/) - Classic Computer Emulators
+* [Quantum Playground](https://www.quantumplayground.net/#/home) - Quantum Computer Simulator
 * [Koi Pond](https://koipond.fish/) - Feed Koi
 * [This Is Sand](https://thisissand.com/) - Make Sand Art
 * [Orb.Farm](https://orb.farm/) - Virtual Aquatic Ecosystem
@@ -1166,7 +1170,7 @@
 * [Smash The Walls](https://smashthewalls.com/) - Smash Walls
 * [Koalas to the Max](https://www.koalastothemax.com/) - Make Smaller & Smaller Dots
 * [Popcat](https://popcat.click/) - Worldwide Popcat Clicking Competition
-* [Spherical Trochoids](https://claytonmain.github.io/spherical-trochoids/) - Experiment w/ Spherical Trochoids
+* [Spherical Trochoids](https://claytonmain.github.io/spherical-trochoids/) - Experiment with Spherical Trochoids
 * [DrawAurora](https://www.drawaurora.com/) - Draw Auroras
 * [Neonflames](https://29a.ch/sandbox/2011/neonflames/) - Draw Nebulas
 * [Leapy Grid](https://codepen.io/Godje/full/mOzpEY/) - Play with Rainbow Grid
@@ -1207,7 +1211,7 @@
 * [SongMeanings](https://songmeanings.com/) - Discover Song Meanings
 * [ColorNames](https://colornames.org/) - Help Name Colors
 * [Colorword](https://colorword.recu3125.com/) - Word Color Voting
-* [House Creep](https://www.housecreep.com/) - Homes With A Curious or Criminal History
+* [House Creep](https://www.housecreep.com/) - Homes with a Curious or Criminal History
 * [UFO Casebook](https://www.ufocasebook.com/), [UFO Discovery](https://app.polymersearch.com/polymerexamples/UFO_Sightings) or [UFO Sighting Chart](https://i.redd.it/0l9ugv9kz4091.jpg) - UFO Sighting Lists / Tracking
 * [BFRO](https://bfro.net/) - Bigfoot Research Site
 * [TheShadowlands](https://theshadowlands.net/) - Oldschool Paranormal Research Site
