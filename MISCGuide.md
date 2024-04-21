@@ -294,7 +294,7 @@
 * [Tornado Archive](https://tornadoarchive.com/) - Tornado Data Visualization
 * [AQICN](https://aqicn.org/map/world) or [Breezometer](https://www.breezometer.com/air-quality-map/) - Air Quality Maps
 * [SaveEcoBot](https://www.saveecobot.com/en/radiation-maps) - Radioactivity / Air Quality Near Ukraine
-* [Earth Observatory](https://earthobservatory.nasa.gov/global-maps) or [ClimateCharts](https://climatecharts.net/) - Climate Maps
+* [Earth Observatory](https://earthobservatory.nasa.gov/global-maps), [Earth Now](https://climate.nasa.gov/earth-now/) or [ClimateCharts](https://climatecharts.net/) - Climate Maps
 * [Safe Airspace](https://safeairspace.net/) - Aviation Risk Ratings
 * [MacroStrat](https://macrostrat.org/) - Geological Data Maps
 * [Depth Map](https://usa.fishermap.org/depth-map/) or [Bathymetry](https://www.ncei.noaa.gov/maps/bathymetry/) - Water Depth Maps
@@ -621,6 +621,7 @@
 * [Candor](https://candor.co/hiring-freezes/) - Hiring Freezes
 * [GoodJobsFirst](https://goodjobsfirst.org/) - Subsidy Tracker
 * [QR Menu Creator](https://qrmenucreator.com/) - Convert Menu to QR Codes
+* [CandidateChecker](https://candidatechecker.io/) - User Backgrounds for Hiring
 
 ***
 
@@ -632,6 +633,7 @@
 * [ResumeMatcher](https://www.resumematcher.fyi/)
 * [resumonk](https://www.resumonk.com/)
 * [creddle](http://creddle.io/)
+* [Resuminator](https://www.resuminator.in/)
 * [flowcv](https://flowcv.com/)
 * [cvservant](https://cvservant.com/cv/)
 * [resume-nation](https://resume-nation.github.io/)
@@ -923,9 +925,9 @@
 * [A Bra That Fits](https://www.abrathatfits.org/calculator.php) or [BraMetric](https://brametric.com/) - Bra Size Calculators
 * [AllBadges](https://allbadges.net/en) - Track Badge Collection
 * [Wheel Decide](https://wheeldecide.com/), [PickerWheel](https://pickerwheel.com/), [HeySpinner](https://heyspinner.com/) or [Wheel of Names](https://wheelofnames.com/) - Wheel Randomizers
-* [SurveyHeart](https://surveyheart.com/) - Survey Creator
+* [SurveyHeart](https://surveyheart.com/) or [Pepperform](https://pepperform.net/) - Survey Creators
 * [Kukkee](https://kukkee.com/) - Meeting Time Polls
-* [Event Rally](https://rallly.co/) / [GitHub](https://github.com/lukevella/Rallly), [Mobilizon](https://joinmobilizon.org/) or [Gancio](https://gancio.org/) - Event Organizing
+* [Event Rally](https://rallly.co/) / [GitHub](https://github.com/lukevella/Rallly), [LettuceMeet](https://lettucemeet.com), [Mobilizon](https://joinmobilizon.org/) or [Gancio](https://gancio.org/) - Event Organizing
 * [Label Studio](https://labelstud.io/) or [Cvat](https://www.cvat.ai/) - Data Organizing Tools
 * [Diff Checker](https://www.diffchecker.com/) - Check Differences in Text, Images, PDFs or Files
 * [Find Your Place](https://where-is-this.com/) - Find Places from Pictures
@@ -968,6 +970,7 @@
 * [Furtherance](https://github.com/lakoliu/Furtherance) - Time Tracker
 * [Timer](https://klaster1.github.io/timer-5) - Time Tracker
 * [Pro Modoro](https://pro-modoro.xyz/) - Time Tracker / Break Reminders
+* [timebleed](https://timebleed.com/) - Time Tracker / Break Reminders
 * [wnr](https://getwnr.com/) - Time Tracker / Break Reminders
 * [Pomofocus](https://pomofocus.io/) - Time Tracker / Break Reminders
 * [Pomatez](https://zidoro.github.io/pomatez/) -  Time Tracker / Break Reminders
@@ -1251,7 +1254,7 @@
 * [LowTech Directory](https://emreed.net/LowTech_Directory.html) - Low Tech Site Index
 * [404PageFound](https://www.404pagefound.com/) - Old Site Indexes
 * [Wiby](https://www.wiby.me/) - Explore Old Sites
-* [Museum of Failure](https://collection.museumoffailure.com/) - Failed Products Index
+* [Museum of Failure](https://collection.museumoffailure.com/) or [KilledByTech](https://killedby.tech/) - Dead Project Indexes
 * [KilledByGoogle](https://killedbygoogle.com/) - Dead Google Project Index
 * [KilledByMicrosoft](https://killedbymicrosoft.info/) - Dead Microsoft Project Index
 * [info.cern](https://info.cern.ch/) - First Website on the Internet
