@@ -429,8 +429,9 @@
 * ⭐ **[HDFilme](https://hdfilme.plus/)** - Movies / TV / Anime / Dub / 1080p
 * ⭐ **[Kinoking](https://kinoking.cc/)** - Movies / TV / Anime / Dub / 1080p
 * ⭐ **[Kinokiste](https://kinokiste.live/)** -  Movies / TV / Dub / 1080p
-* [streamkiste](https://streamkiste.taxi/) - Movies / TV / Dub / 1080p
+* [streamkiste](https://streamkiste.taxi/), [2](https://streamkiste.tv/) - Movies / TV / Dub / 1080p
 * [FilmPalast](https://filmpalast.sx/), [2](https://filmpalast.info/) - Movies / TV / Dub / 1080p
+* [Kinoger](https://kinoger.com/) - Movies / TV / 1080p
 * [Megakino](https://megakino.org/) - Movies / TV / Dub / 720p
 * [StreamCloud](https://streamcloud.sx/) - Movies / TV / 720p
 * [Kinos](https://www.kinos.to/) - Movies / TV / Dub / 720p
@@ -662,7 +663,7 @@
 
 # ► Italian / Italiano
 
-* 🌐 **[Italian Piracy Resources](https://rentry.co/italian-piracy-resources)** or **[The Italian Corsairs](https://rentry.co/the-italian-corsairs)** - Piracy Sites List
+* 🌐 **[The Italian Corsairs](https://rentry.co/the-italian-corsairs)** - Piracy Sites List
 * [PizzaGPT](https://www.pizzagpt.it/) - Italian ChatGPT Alternative
 
 ## ▷ Downloading
@@ -680,7 +681,6 @@
 ## ▷ Streaming
 
 * ⭐ **[CB01](https://cb01.charity/)** - Movies / TV / Sub / Dub / 1080p / 4K
-* 🌐 **[Streaming Improved](https://rentry.co/ItalianStreamingImproved)** - Streaming Sites List
 * [Altaefinizione](https://altadefinizione01.support/) - Movies / Sub / Dub / 1080p / 4K
 * [CasaCinema](https://casacinema.express/) - Movies / TV / Anime / Sub / Dub / 1080p / 4K
 * [filmsenzalimiti](https://filmsenzalimiti.repair/) - Movies / TV / Sub / Dub / 1080p / 4K
