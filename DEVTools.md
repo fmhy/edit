@@ -1050,8 +1050,7 @@
 * [github-vscode-icons](https://github.com/dderevjanik/github-vscode-icons) - VSCode Icons
 * [github-material-icons-extension](https://github.com/Claudiohbsantos/github-material-icons-extension) - Material Icons
 * [gist.io](https://gist.io/) - Git Blog Platform
-* [OpenHub](https://thirtydegreesray.github.io/OpenHub/), [diohub](https://github.com/NamanShergill/diohub), [Fasthub-Libre](https://github.com/thermatk/FastHub-Libre), [FastHub-RE](https://github.com/LightDestory/FastHub-RE), or [OctoDroid](https://github.com/slapperwan/gh4a) - Android GitHub Clients
-* [GithubVisualizer](https://github.com/DheerajKotwani/GithubVisualizer) - Track GitHub User Activity on Android
+* [diohub](https://github.com/NamanShergill/diohub) or [OctoDroid](https://github.com/slapperwan/gh4a) - Android GitHub Clients
 
 ***
 
@@ -1200,7 +1199,7 @@
 * [Clean Code Javascript](https://github.com/ryanmcdermott/clean-code-javascript) - Clean Code for Javascript
 * [Vanilla List](https://vanillalist.top/) - Vanilla Javascript Repository
 * [RunKit](https://runkit.com/) - Browser Javascript Sandbox
-* [Adrenaline](https://useadrenaline.com/) or [Console Ninja](https://console-ninja.com/) - Code Debugging
+* [Adrenaline](https://useadrenaline.com/), [JSHint](https://jshint.com/) or [Console Ninja](https://console-ninja.com/) - Code Debugging
 * [JBin](https://jsbin.com/) or [Replay](https://www.replay.io/) - Collaborative Code Debugging
 * [GPU.js](https://gpu.rocks/) - GPU Accelerated JavaScript
 * [JS.ORG](https://js.org/) - Free subdomain for JavaScript Developers 
@@ -1534,7 +1533,7 @@
 * ⭐ **[Hugging Face](https://huggingface.co/)** or [OpenML](https://www.openml.org/) - Machine Learning Datasets
 * ⭐ **[Deep playground](http://playground.tensorflow.org/)** - Neural Networks Playground
 * ⭐ **[LLM Visualization](https://bbycroft.net/llm)** - Learn how LLMs Work
-* [Machine Learning Roadmap](https://rentry.org/machine-learning-roadmap) or [LLM Course](https://github.com/mlabonne/llm-course) - Learn Machine Learning
+* [Machine Learning Roadmap](https://rentry.org/machine-learning-roadmap), [SAAYN](https://spreadsheets-are-all-you-need.ai/) or [LLM Course](https://github.com/mlabonne/llm-course) - Learn Machine Learning
 * [LLM Training](https://rentry.org/llm-training) - LLM Training Guide
 * [TeachableMachine](https://teachablemachine.withgoogle.com/) or [TensorFlow](https://www.tensorflow.org/) - Create Machine Learning Models
 * [OpenAIPlayground](https://github.com/nat/openplayground) - LLM Playground
