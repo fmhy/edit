@@ -110,7 +110,7 @@
 * [Really Good Emails](https://reallygoodemails.com/) - Product Email Mobile Designs and Templates
 * [Screen from Traction](https://screen.traction.one/) - Create App Screenshots
 
-[Previewed](https://previewed.app/), [Mockup World](https://www.mockupworld.co/), [AniMockup](https://animockup.com/), [DeviceShots](https://deviceshots.com/), [DeviceFrames](https://deviceframes.com/), [shots.so](https://shots.so/), [medialoot](https://medialoot.com/free-mockups/), [MockMagic](https://www.mockmagic.com/), [MockupsForFree](https://mockupsforfree.com/), [zippypixels](https://zippypixels.com/), [Mockuphone](https://mockuphone.com/), [TheMockupClub](https://themockup.club/), [RiseShot](https://www.riseshot.com/), [Upmock](https://www.upmock.io/), [LS Graphics](https://www.ls.graphics/)
+[Previewed](https://previewed.app/), [Mockup World](https://www.mockupworld.co/), [AniMockup](https://animockup.com/), [DeviceShots](https://deviceshots.com/), [DeviceFrames](https://deviceframes.com/), [shots.so](https://shots.so/), [medialoot](https://medialoot.com/free-mockups/), [MockMagic](https://www.mockmagic.com/), [MockupsForFree](https://mockupsforfree.com/), [zippypixels](https://zippypixels.com/), [Mockuphone](https://mockuphone.com/), [TheMockupClub](https://themockup.club/), [RiseShot](https://www.riseshot.com/), [Upmock](https://www.upmock.io/), [LS Graphics](https://www.ls.graphics/), [Picasso](https://www.picassoapp.ca/)
 
 ***
 
@@ -285,7 +285,7 @@
 * ⭐ **[Mailspring](https://getmailspring.com/)** - [Themes](https://github.com/topics/mailspring-theme)
 * [Outlook](https://outlook.live.com/owa/)
 
-[ElectronMail](https://github.com/vladimiry/ElectronMail), [Claws Mail](https://www.claws-mail.org/), [eM Client](https://www.emclient.com/), [RainLoop](https://www.rainloop.net/), [Roundcube](https://roundcube.net/), [Spike](https://www.spikenow.com/), [Canary](https://canarymail.io/), [Twobird](https://www.twobird.com/), [Kanmail](https://kanmail.io/), [Wino](https://www.winomail.app/)
+[ElectronMail](https://github.com/vladimiry/ElectronMail), [eM Client](https://www.emclient.com/), [RainLoop](https://www.rainloop.net/), [Roundcube](https://roundcube.net/), [Spike](https://www.spikenow.com/), [Canary](https://canarymail.io/), [Twobird](https://www.twobird.com/), [Kanmail](https://kanmail.io/), [Wino](https://www.winomail.app/)
 
 ***
 
