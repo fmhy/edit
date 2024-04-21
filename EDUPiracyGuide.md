@@ -21,6 +21,7 @@
 * [WatchDocumentaries](https://watchdocumentaries.com/)
 * [Cinetimes](https://cinetimes.org/en/)
 * [ThoughtMaybe](https://thoughtmaybe.com/)
+* [ihopplay](https://i.hopmarks.com/)
 * [PBS](https://www.pbs.org/video/)
 * [Nat Geo](https://www.nationalgeographic.com/tv/browse/watch-free)
 * [Folkstreams](https://www.folkstreams.net/)
@@ -88,7 +89,6 @@
 * [moo](https://rentry.co/FMHYBase64#moo) - Courses
 * [Revival](https://rentry.co/FMHYBase64#revival) - Courses
 * [Genetry](https://genetry.carrd.co/) - JEE Lectures
-* [Coursesghar](https://coursesghar.com/) - Courses
 * [FreeEducationWeb](https://freeeducationweb.com/) - Courses
 * [FreeCourseDL](https://freecoursedl.com/) - Courses
 * [FreeCourseSite](https://freecoursesite.com/), [2](https://freecoursesites.com/) - Courses
@@ -331,7 +331,6 @@
 * [World Births and Deaths](https://worldbirthsanddeaths.com/) - World Birth / Death Rates Visualization
 * [MalaCards](https://www.malacards.org/) - Human Disease Database
 * [DataUNODC](https://dataunodc.un.org/) - Drug / Crime Statistics
-* [Gun Violence Archive](https://www.gunviolencearchive.org/) - Gun Violence Information Database
 * [Incarceration in Real Numbers](https://mkorostoff.github.io/incarceration-in-real-numbers/) - Incarceration Visualization / Facts
 * [Expatistan](https://www.expatistan.com/) - Cost of Living Calculator
 * [Pixel Wealth](https://mkorostoff.github.io/1-pixel-wealth/) - Wealth Inequality Visualization
@@ -349,7 +348,7 @@
 * [European License Plate Map](https://i.redd.it/wcazzhjir8941.png) - European License Plate Map
 * [Symbols](https://www.symbols.com/) - Symbol Database
 * [Flag Guesser](https://flagguesser.com/) - Flag Quizzes
-* [Flags of the World](https://i.redd.it/lxtu47hf5ll51.jpg) - Worldwide Flag Map
+* [Flags of the World](https://i.redd.it/lxtu47hf5ll51.jpg) or [Flaglookup](https://flaglookup.com/) - Flag Databases
 * [Flag Stories](https://flagstories.co/) - Flag Design Breakdowns
 * [Hate on Display](https://www.adl.org/hate-symbols) - Hate Symbol Database
 
@@ -616,7 +615,7 @@
 * ↪️ **[Translation Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools#wiki_.25B7_translators)**
 * ⭐ **[Duolingo](https://rentry.co/FMHYBase64#duolingo-guide)** / [Tips](https://duome.eu/tips), [Memrise](https://rentry.co/FMHYBase64#memrise), [LingoDeer](https://www.lingodeer.com/) or [Busuu](https://www.busuu.com/en/) - Language Learning Lessons
 * ⭐ **[Language Transfer](https://www.languagetransfer.org/)** - Language Learning Lectures
-* ⭐ **[Language Reactor](https://www.languagereactor.com/)** - Learn Languages via Media
+* ⭐ **[Language Reactor](https://www.languagereactor.com/)** or [Easysubs](https://easysubs.cc/) - Learn Languages via Videos
 * ⭐ **[PolyReads](https://polyreads.com/)** - Learn Languages via Reading
 * ⭐ **[Readlang](https://readlang.com/)** - Learn a Language via Web Browsing
 * [WordReference](https://www.wordreference.com/), [Glosbe](https://glosbe.com/) or [Reverso](https://reverso.net/) - Translation Dictionary
