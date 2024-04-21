@@ -407,7 +407,8 @@
 
 ***
 
-* 🌐 **[VPN Comparison Chart](https://redd.it/171h9qa)** or [Techlore Chart](https://techlore.tech/vpn)- VPN Comparisons
+* 🌐 **[VPN Comparisons](https://redd.it/171h9qa)** or [Techlore Chart](https://techlore.tech/vpn) - VPN Comparison Charts
+* 🌐 **[VPN Relationships](https://kumu.io/sobeyharker/vpn-relationships)** - VPN Relationship Chart
 * ⭐ **[/r/VPNs](https://www.reddit.com/r/vpns/)** - VPN Help and Discussion 
 * ⭐ **[AirVPN](https://airvpn.org/)** - [Pricing](https://i.ibb.co/8rVJ5JB/c4b813a6b6bc.png)
 * ⭐ **[Windscribe](https://windscribe.com)** - [Pricing](https://ibb.co/tPZZDhC) / Free Version Available
