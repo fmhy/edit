@@ -1190,7 +1190,7 @@
 * [Ketsu](https://ketsu.app/download.html) - [Discord](https://discord.gg/gjcy6MQ)
 * [Tweaked Crunchyroll ++](http://www.iosemulatorspot.com/tweaked-crunchyroll/) - Tweaked Crunchyroll
 * [MyAnimeList Client](https://apps.apple.com/us/app/myanimelist-official/id1469330778) - MyAnimeList Client
-* [Otraku](https://github.com/lotusprey/otraku), [Ryuusei](https://ryuusei.moe/), or [AniHyou](https://axiel7.github.io/anihyou) - AniList Apps
+* [Otraku](https://github.com/lotusprey/otraku), [Ryuusei](https://ryuusei.moe/) or [AniHyou](https://axiel7.github.io/anihyou) - AniList Apps
 
 ***
 
