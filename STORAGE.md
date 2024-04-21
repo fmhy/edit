@@ -8,7 +8,7 @@
 
 * ⭐ **[Blender](https://www.blender.org/)**
 * ⭐ **[Shap-e](https://github.com/openai/shap-e)**
-* ⭐ **Blender Tools** - [Resources](https://github.com/agmmnn/awesome-blender) / [Tutorials](https://www.3dbestie.com/) / [Textures](https://github.com/carson-katri/dream-textures) / [Renderer](https://github.com/prman-pixar/RenderManForBlender) / [3D Nodes](https://t.me/geometrynodes) / [Plugins](https://t.me/blenderplugs) / [AI Render](https://github.com/benrugg/AI-Render)
+* ⭐ **Blender Tools** - [Resources](https://awesome-blender.netlify.app) / [Tutorials](https://www.3dbestie.com/) / [Textures](https://github.com/carson-katri/dream-textures) / [Renderer](https://github.com/prman-pixar/RenderManForBlender) / [3D Nodes](https://t.me/geometrynodes) / [Plugins](https://t.me/blenderplugs) / [AI Render](https://github.com/benrugg/AI-Render)
 
 [Meshy.ai](https://www.meshy.ai/) / [Discord](https://discord.com/invite/KgD5yVM9Y4), [Spline](https://spline.design/), [Anim8or](https://www.anim8or.com/), [Wings 3D](http://www.wings3d.com/), [JustSketchMe](https://justsketch.me/), [Tinkercad](https://www.tinkercad.com/), [ChokokuCAD](https://github.com/itta611/ChokokuCAD), [POV-Ray](https://www.povray.org/), [FreeCAD](https://www.freecad.org/), [Vectary](https://www.vectary.com/), [LibreCAD](https://librecad.org/), [Art of Illusion](https://aoi.sourceforge.net/), [BRL-CAD](https://brlcad.org/), [Posturize](https://get.posturize-app.com/), [Morflax](https://studio.morflax.com/), [Polycam](https://poly.cam/)
 
@@ -51,7 +51,7 @@
 * ⭐ **[AIMP](https://www.aimp.ru/?do=download&os=android)**
 * ⭐ **[Musicolet Music Player](https://krosbits.in/musicolet/)**
 * ⭐ **[BlackPlayer EX](https://www.revdl.com/blackplayer-ex-apk-download.html/)**
-* ⭐ **[Symphony](https://github.com/zyrouge/symphony)**
+* ⭐ **[Symphony](https://zyrouge.github.io/symphony/)**
 * [Finamp](https://github.com/jmshrv/finamp) - Jellyfin Music Player
 * [Ultrasonic](https://gitlab.com/ultrasonic/ultrasonic) or [SubTune](https://github.com/TaylorKunZhang/SubTune) - Subsonic Clients
 
@@ -85,9 +85,9 @@
 * [Tasks](https://tasks.org/) - Sync Supported
 * [Any.do](https://www.any.do/) - Sync Supported
 * [doable](https://doable.at/) - Sync Supported / Extensions
-* [Orgzly-revived](https://github.com/orgzly-revived/orgzly-android-revived) - Sync Supported 
+* [Orgzly-revived](https://www.orgzly.com) - Sync Supported 
 * [organice](https://organice.200ok.ch/) - Sync Supported / Account Required
-* [Tasky](https://github.com/thatsmanmeet/Tasky)
+* [Tasky](https://thatsmanmeet.github.io/tasky-web/)
 * [Alkaa](https://github.com/igorescodro/alkaa)
 * [SnapTick](https://github.com/vishal2376/snaptick)
 * [EverydayTasks](https://everydaytasks.jepfa.de/)
@@ -127,7 +127,7 @@
 * ⭐ **[WebOasis](https://weboasis.app/)**, [2](https://ndsamuelson.github.io/weboas-is/), [3](https://behu.io/) / [Source Code](https://pastebin.com/CczqreS4)
 * ⭐ **[MONKNOW](https://www.monknow.com/)**
 
-[8bitdash](https://www.8bitdash.com/), [8 Bit Dashboard](https://8bitdashboard.com/), [Startpage Emporium](https://startpages.github.io/), [Awesome Startpage](https://github.com/jnmcfly/awesome-startpage), [Clippingmini](https://www.clippingmini.com/), [Draggo](https://draggo.com/), [Pearltrees](https://www.pearltrees.com/), [Nextcloud](https://apps.nextcloud.com/apps/bookmarks), [Cling](https://cling.com/), [Symbaloo](https://www.symbaloo.com/), [Tixio](https://tixio.io/), [Bento](https://github.com/migueravila/Bento), [ez.lol](https://ez.lol/), [nightly](https://github.com/damnitharshit/nightly), [Protopage](https://www.protopage.com/), [tilde](https://github.com/xvvvyz/tilde), [Fluidity](https://github.com/PrettyCoffee/fluidity), [AllMyFaves](https://allmyfaves.com/)
+[8bitdash](https://www.8bitdash.com/), [8 Bit Dashboard](https://8bitdashboard.com/), [Startpage Emporium](https://startpages.github.io/), [Awesome Startpage](https://github.com/jnmcfly/awesome-startpage), [Clippingmini](https://www.clippingmini.com/), [Draggo](https://draggo.com/), [Pearltrees](https://www.pearltrees.com/), [Nextcloud](https://apps.nextcloud.com/apps/bookmarks), [Cling](https://cling.com/), [Symbaloo](https://www.symbaloo.com/), [Tixio](https://tixio.io/), [Bento](https://github.com/migueravila/Bento), [ez.lol](https://ez.lol/), [nightly](https://github.com/damnitharshit/nightly), [Protopage](https://www.protopage.com/), [tilde](https://github.com/xvvvyz/tilde), [Fluidity](https://prettycoffee.github.io/fluidity/) / [GitHub](https://github.com/PrettyCoffee/fluidity), [AllMyFaves](https://allmyfaves.com/)
 
 **Customizable New Tab Page**
 
@@ -152,7 +152,7 @@
 
 * ⭐ **[GeeksforGeeks](https://www.geeksforgeeks.org/)**
 * ⭐ **[W3Schools](https://www.w3schools.com/)** - [Offline Version](https://github.com/Ja7ad/W3Schools)
-* ⭐ **[Build your own X](https://github.com/codecrafters-io/build-your-own-x)**
+* ⭐ **[Build your own X](https://codecrafters.io) / [GitHub](https://github.com/codecrafters-io/build-your-own-x)**
 
 [RIP Tutorial](https://riptutorial.com/), [Programiz](https://www.programiz.com/), [Python Tutor](https://pythontutor.com/), [calmcode](https://calmcode.io/), [Tuts 4 You](https://tuts4you.com/), [Codelabs](https://codelabs.developers.google.com/), [Free Ebook Foundation](https://ebookfoundation.github.io/free-programming-books/), [Nayuki](https://www.nayuki.io/), [ZetCode](https://zetcode.com/), [Xah Code](http://xahlee.info/index.html), [Hackr.io](https://hackr.io/), [Guru99](https://www.guru99.com/), [Use My Notes](https://usemynotes.com/), [Ultimate Programming All-in-One Tutorials](https://www.codebreakthrough.com/ultimate-programming-all-in-one-tutorials?coupon=LEARNFORFREE), [Project Based Learning](https://github.com/practical-tutorials/project-based-learning), [Javatpoint](https://www.javatpoint.com/), [Techno Smarter](https://technosmarter.com/), [tutorialkart](https://www.tutorialkart.com/)
 
@@ -573,7 +573,7 @@
 ## Manga Readers
 
 *  ⭐ **[Suwayomi](https://github.com/Suwayomi)**
-*  ⭐ **Suwayomi Tools** - [Extensions](https://github.com/keiyoushi/extensions), [2](https://discord.gg/3FbCpdKbdY) / [Desktop Client](https://github.com/Suwayomi/Tachidesk-Server)
+*  ⭐ **Suwayomi Tools** - [Extensions](https://keiyoushi.github.io/), [2](https://discord.gg/3FbCpdKbdY) / [Desktop Client](https://github.com/Suwayomi/Tachidesk-Server)
 
 [AllMangasReader](https://allmangasreader.com/), [Houdoku](https://houdoku.org/), [Adolla](https://github.com/AdollaApp/Adolla), [OpenComic](https://github.com/ollm/OpenComic), [Tachidesk-Sorayomi](https://github.com/Suwayomi/Tachidesk-Sorayomi), [Manga-Organizer](https://gitgud.io/Nagru/Manga-Organizer), [MangaOnlineViewer](https://github.com/TagoDR/MangaOnlineViewer), [LANraragi](https://github.com/Difegue/LANraragi), [Mangayomi](https://github.com/kodjodevf/mangayomi), [Fukayo](https://github.com/JiPaix/Fukayo/)
 
@@ -595,7 +595,7 @@
 ## Minecraft Optimization Mods
 
 * ⭐ **[Simply Optimized](https://modrinth.com/modpack/sop)**
-* ⭐ **[Fabulously Optimised](https://github.com/Fabulously-Optimized/fabulously-optimized)**
+* ⭐ **[Fabulously Optimised](https://download.fo) / [GitHub](https://github.com/Fabulously-Optimized/fabulously-optimized)**
 * [Sodium](https://modrinth.com/mod/sodium) / [Indium](https://github.com/comp500/Indium/) / [Extra](https://modrinth.com/mod/sodium-extra) / [Nvidia Rendering](https://github.com/MCRcortex/nvidium)
 
 [OptiFine](https://optifine.net/), [Phosphor](https://modrinth.com/mod/phosphor), [Ferrite Core](https://modrinth.com/mod/ferrite-core), [Caffeine](https://github.com/CaffeineMC), [Lithium](https://modrinth.com/mod/lithium), [Ares](https://www.aresclient.com/), [MinecraftTweaker](https://minecrafttweaker.net/), [VulkanMod](https://github.com/xCollateral/VulkanMod)
@@ -1161,7 +1161,7 @@
 
 ## Website Templates
 
-* [Boilerplate](https://github.com/h5bp/html5-boilerplate) - Website Frontend Template HTML5
+* [Boilerplate](https://html5boilerplate.com/) - Website Frontend Template HTML5
 
 [Bootstrap](https://bootstrapmade.com/), [TheMeWagon](https://themewagon.com/), [nicepage](https://nicepage.com/website-templates), [Templatemo](https://www.templatemo.com/), [Tooplate](https://www.tooplate.com/), [CSS Bed](https://www.cssbed.com/), [Repth Themes](https://repth.neocities.org/theme), [beercss](https://www.beercss.com/) / [GitHub](https://github.com/beercss/beercss), [free-css-templates](https://www.free-css.com/free-css-templates), [zerotheme](https://www.zerotheme.com/), [html5up](https://html5up.net/), [templated](https://templated.co/), [html5xcss3](https://www.html5xcss3.com/)
 
@@ -1173,8 +1173,8 @@
 * ⭐ **[Web Scraping Tutorial](https://github.com/MorvanZhou/easy-scraping-tutorial)**
 * ⭐ **[datahoarder-website-to-markdown](https://github.com/evilsh3ll/datahoarder-website-to-markdown)** - Index to Markdown Archiving Tool
 * [webrecorder](https://webrecorder.net/),
-* [Heritrix](https://github.com/internetarchive/heritrix3)
-* [wail](https://github.com/machawk1/wail)
+* [Heritrix](https://heritrix.readthedocs.io/) / [GitHub](https://github.com/internetarchive/heritrix3)
+* [wail](https://matkelly.com/wail) / [GitHub](https://github.com/machawk1/wail)
 * [80legs](https://80legs.com/)
 * [crawly](https://crawly.diffbot.com/)
 * [replayweb](https://replayweb.page/) - View Archive Format Files
@@ -1193,7 +1193,7 @@
 
 ### Local Archiving
 
-* ⭐ **[ArchiveBox](https://github.com/ArchiveBox/ArchiveBox)**
+* ⭐ **[ArchiveBox](https://archivebox.io)**
 * ⭐ **[HTTrack](https://www.httrack.com/)** / [Guide](https://rentry.co/cloneasite)
 * ⭐ **[MarkDownload](https://github.com/deathau/markdownload)** - Get Markdown of a page
 * ⭐ **[Instant Data](https://chromewebstore.google.com/detail/instant-data-scraper/ofaokhiedipichpaobibbnahnkdoiiah)**
@@ -1205,7 +1205,7 @@
 * [suckit](https://github.com/skallwar/suckit)
 * [DownloadNet](https://github.com/dosyago/DownloadNet)
 * [wget2](https://gitlab.com/gnuwget/wget2) / [Commands](https://www.whatismybrowser.com/developers/tools/wget-wizard/)
-* [you-get](https://github.com/soimort/you-get)
+* [you-get](https://you-get.org/)
 * [archivy](https://github.com/archivy/archivy/)
 * [web.scraper](https://web.scraper.workers.dev/)
 * [WikiTeam](https://github.com/WikiTeam/wikiteam)
