@@ -126,6 +126,7 @@
 
 * [Bypass paywalls for scientific documents](https://greasyfork.org/en/scripts/35521) - Bypass Scientific Document Paywalls
 * [unpaywall](https://unpaywall.org/) - Bypass Scholarly Article Paywalls
+
 * [PressReader](https://greasyfork.org/en/scripts/39936) - Bypass PressReader Paywall
 * [Burles](https://burles.co/en/) - Paywall Bypass
 * [bypass-paywalls](https://github.com/iamadamdev/bypass-paywalls-chrome) - Paywall Bypass
@@ -136,6 +137,8 @@
 * [Smry.ai](https://www.smry.ai/) - Paywall Bypass
 * [Readium](https://sugoidesune.github.io/readium/) - Paywall Bypass
 * [shacklefree](https://www.shacklefree.in/) - Paywall Bypass
+
+* [Archive.is](https://archive.is/) or [Archive.org](https://archive.org/) - Archived Articles
 
 ***
 
