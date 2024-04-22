@@ -120,7 +120,7 @@
 
 ## ▷ Paywall Bypass
 
-* ⭐ **[Bypass Paywalls Clean](https://github.com/bpc-clone/bpc_updates/releases)** - Browser Extensions / [Filter List](https://github.com/bpc-clone/bypass-paywalls-clean-filters) / [Twitter](https://twitter.com/Magnolia1234B)
+* ⭐ **[Bypass Paywalls Clean](https://github.com/bpc-clone/bpc_updates/releases)** / [Filter List](https://github.com/bpc-clone/bypass-paywalls-clean-filters) / [Twitter](https://twitter.com/Magnolia1234B) - Browser Extensions
 * ⭐ **[Freedium](https://freedium.cfd/)** or [Medium For All](https://medium-forall.vercel.app/) - Bypass Medium Paywalls
 * ⭐ **[wallabag](https://wallabag.org/)** / [Discord Bot](https://github.com/FahadBinHussain/wallabot) or [Ladder](https://github.com/everywall/ladder) - Self-Hosted
 
