@@ -172,7 +172,6 @@
 * [algorithms](https://prashantbarahi.com.np/docs/algorithms/intro) - Code Algorithms & Data Structures Tutorials
 * [VisualGo](https://visualgo.net/) - Data Structures & Algorithm Animations
 * [The Algorithms - C++](https://thealgorithms.github.io/C-Plus-Plus) - C++ Algorithms
-* [HackersFriend](https://www.hackersfriend.com/tutorials/) - Coding Practice
 * [algonds](https://github.com/MaciejWas/algonds) - Coding Practice
 * [Codility](https://app.codility.com/programmers/) - Coding Practice
 * [ProjectLearn](https://projectlearn.io/) - Coding Practice
@@ -1199,7 +1198,7 @@
 * [Clean Code Javascript](https://github.com/ryanmcdermott/clean-code-javascript) - Clean Code for Javascript
 * [Vanilla List](https://vanillalist.top/) - Vanilla Javascript Repository
 * [RunKit](https://runkit.com/) - Browser Javascript Sandbox
-* [Adrenaline](https://useadrenaline.com/), [JSHint](https://jshint.com/) or [Console Ninja](https://console-ninja.com/) - Code Debugging
+* [Adrenaline](https://useadrenaline.com/) or [Console Ninja](https://console-ninja.com/) - Code Debugging
 * [JBin](https://jsbin.com/) or [Replay](https://www.replay.io/) - Collaborative Code Debugging
 * [GPU.js](https://gpu.rocks/) - GPU Accelerated JavaScript
 * [JS.ORG](https://js.org/) - Free subdomain for JavaScript Developers 
