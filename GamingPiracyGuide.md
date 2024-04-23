@@ -557,10 +557,10 @@
 ## ▷ Multiplayer Tools
 
 * ⭐ **[Online Fix](https://online-fix.me/)** - Multiplayer Fix / [Discord](https://discord.gg/yExgFYncMD)
+* ⭐ **[Playit.gg](https://playit.gg/)** - Multiplayer Fix / [Discord](https://discord.gg/AXAbujx)
 * ⭐ **[TrackyServer](https://www.trackyserver.com/)** - Find Private Multiplayer Servers
 * ⭐ **[Find-PlayDate](https://www.find-playdate.com/)** - Find People to Play Games With
 * [Liquipedia](https://liquipedia.net/) - Competitve Gaming / Esports Wiki
-* [Playit.gg](https://playit.gg/) - Multiplayer Fix / [Discord](https://discord.gg/AXAbujx)
 * [zerotier](https://www.zerotier.com/) - Multiplayer Fix
 * [Radmin](https://www.radmin-vpn.com/) - Multiplayer Fix
 * [Hamachi](https://vpn.net/) - Multiplayer Fix
@@ -1294,7 +1294,7 @@
 * ⭐ **[Cookie Clicker](https://orteil.dashnet.org/cookieclicker/) / [2](https://orteil.dashnet.org/experiments/cookie/)** - Incremental Cookie Game
 * ⭐ **Cookie Clicker Tools** - [Multiple Tools](https://github.com/CookieMonsterTeam/CookieMonster) / [Calculator](https://coderpatsy.bitbucket.io/cookies/cookies.html) / [Discord](https://discord.com/invite/cookie)
 * [The Monolith](http://monolith.greenpixel.ca/) - Incremental RPG
-* [BitBurner](https://danielyxie.github.io/bitburner/) - Incremental RPG
+* [BitBurner](https://bitburner-official.github.io/) - Incremental RPG
 * [Particle Clicker](https://particle-clicker.web.cern.ch/) - Incremental Particle Physics Games
 * [KittensGame](https://kittensgame.com/web/) - Incremental Kitten Maker
 * [The Fed](https://thefed.app/) - Incremental Banking Game
