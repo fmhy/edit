@@ -220,7 +220,6 @@
 * [Hail](https://github.com/aistra0528/Hail) - Auto-Deactivate Unused Apps / Root
 * [Tweaker](https://github.com/zacharee/Tweaker) - Android System Tweaks / Features
 * [FreezeYou](https://www.freezeyou.net/en-US/), [SuperFreezZ](https://superfreezz.gitlab.io/), [BatteryTool](https://github.com/Domi04151309/BatteryTool) (root) or [Drowser](https://gitlab.com/juanitobananas/drowser) (root) - Freeze App Background Activities
-* [Pixoff](https://play.google.com/store/apps/details?id=com.urysoft.pixelfilter) - Save Battery by Turning Off Pixels
 
 ***
 
@@ -978,7 +977,6 @@
 * [ZX81](https://apps.apple.com/us/app/zx81/id1180117434) - Sinclair ZX81 Emulator
 * [iMessage Exporter](https://github.com/ReagentX/imessage-exporter) - Export iMessage Chats
 * [Nicegram](https://nicegram.app/) or [Swiftgram](https://apps.apple.com/us/app/swiftgram/id6471879502) - Telegram Apps
-* [ipamagnatios](https://t.me/ipamagnatios) - Modded TikTok App
 * [Watusi](https://watusi.fouadraheb.com/) - Modded WhatsApp
 * [GoodLinks](https://goodlinks.app/), [Omnivore](https://omnivore.app/) or [DoMarks](https://www.domarks.app/) - Bookmark Managers
 * [Audoir](https://audoir.com/) - Lyric Text Editor
