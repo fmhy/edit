@@ -38,8 +38,9 @@ $\Huge{\textsf{Emoji Legend}}$
 
 ‎ 
 
-$\color{#5fcfff}{\textsf{🌐 - 3rd Party Indexes}}$　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　↪️ $\color{#539aef}{\textsf{- Storage Page Links}}$　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　 $\color{#e1bc37}{\textsf{⭐ - Community Recommendations}}$‎‎ 
-
+$\color{#5fcfff}{\textsf{🌐 - 3rd Party Indexes}}$   
+↪️ $\color{#539aef}{\textsf{- Storage Page Links}}$   
+$\color{#e1bc37}{\textsf{⭐ - Community Recommendations}}$‎‎   
 ‎ 
 
 ‎ 
