@@ -120,17 +120,13 @@
 
 ## ▷ Paywall Bypass
 
+* ⭐ **[Archive.is](https://archive.is/)** - Archived Articles
 * ⭐ **[Bypass Paywalls Clean](https://github.com/bpc-clone/bpc_updates/releases)** / [Filter List](https://github.com/bpc-clone/bypass-paywalls-clean-filters) / [Twitter](https://twitter.com/Magnolia1234B) - Browser Extensions
 * ⭐ **[Freedium](https://freedium.cfd/)** or [Medium For All](https://medium-forall.vercel.app/) - Bypass Medium Paywalls
-* ⭐ **[Archive.is](https://archive.is/)** - Archived Articles
 * ⭐ **[wallabag](https://wallabag.org/)** / [Discord Bot](https://github.com/FahadBinHussain/wallabot) or [Ladder](https://github.com/everywall/ladder) - Self-Hosted
-
 * [Bypass paywalls for scientific documents](https://greasyfork.org/en/scripts/35521) - Bypass Scientific Document Paywalls
 * [unpaywall](https://unpaywall.org/) - Bypass Scholarly Article Paywalls
-
-* [Burles](https://burles.co/en/) - Paywall Bypass
-* [OpenAccessButton](https://openaccessbutton.org/) - Paywall Bypass
-* [Readium](https://sugoidesune.github.io/readium/) - Paywall Bypass
+* [Open Access Button](https://openaccessbutton.org/) - Bypass Research Article Paywalls
 
 ***
 
