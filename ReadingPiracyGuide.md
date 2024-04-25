@@ -79,9 +79,7 @@
 * [Ocean of EPUB](https://oceanofepub.com/) - Books / Manga
 * [LetMeRead](https://www.letmeread.net/) - Books
 * [BooksToLearn](https://www.booktolearn.com) - Books
-* [PDFDrive.to](https://pdfdrive.to/) - Books
 * [Read Novels](https://en.novelonlineread.com/) - Books
-* [Dirzon](https://www.dirzon.com/) - Books
 * [EBooksCart](https://ebookscart.com/) - Books
 * [Novel12](https://novel12.com/) - Books
 * [IsIDore](https://rentry.co/FMHYBase64#isidore) - Books
@@ -770,7 +768,7 @@
 
 ## ▷ Documents / Articles
 
-* ↪️ **[Bypass Article Paywalls](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_read_paywalled_articles)**
+* ↪️ **[Bypass Article Paywalls](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools#wiki_.25B7_paywall_bypass)**
 * ⭐ **[TheFreeLibrary](https://www.thefreelibrary.com/)** - Articles
 * ⭐ **[arXiv](https://arxiv.org/)** - Science / Math / Physics / [Search](https://arxiv-sanity-lite.com/) / [Chatbot](https://github.com/evanhu1/talk2arxiv)
 * [Wikisource](https://en.wikisource.org) - Poetry / Text / Documents
