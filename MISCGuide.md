@@ -374,7 +374,8 @@
 * ⭐ **[Good News Network](https://www.goodnewsnetwork.org/)** or [Happy Daze](https://happydaze.io/) - Uplifting News
 * [JustRead](https://justread.link/) or [Unclutter](https://unclutter.it/) - Feed Managers / Readers
 * [Google Alerts](https://www.google.com/alerts) - News Alerts by Topics
-* [Top Stories](https://murmel.social/top) - Top Fediverse News 
+* [Top Stories](https://murmel.social/top) - Top Fediverse News
+* [Pocket](https://getpocket.com/) - Discover & Save Articles
 * [CBM](https://comicbookmovie.com/) - Comic / Movie / TV News
 * [Anime News Network](https://www.animenewsnetwork.com/) - Anime News
 * [Anime Corner](https://animecorner.me/) - Anime / Manga News

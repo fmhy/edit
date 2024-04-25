@@ -120,28 +120,13 @@
 
 ## ▷ Paywall Bypass
 
-* 🌐 **[Archive Buttons](https://www.archivebuttons.com/)** or [PaywallHub](https://paywallhub.com/) - Paywall Bypass Tools
-* ⭐ **[wallabag](https://wallabag.nixnet.services/)** - Paywall Bypass / [Discord Bot](https://github.com/FahadBinHussain/wallabot)
-* ⭐ **[Bypass Paywalls Clean](https://github.com/bpc-clone/bpc_updates/releases)** - Paywall Bypass / [Filter List](https://github.com/bpc-clone/bypass-paywalls-clean-filters) / [Twitter](https://twitter.com/Magnolia1234B)
+* ⭐ **[Archive.is](https://archive.is/)** - Archived Articles
+* ⭐ **[Bypass Paywalls Clean](https://github.com/bpc-clone/bpc_updates/releases)** / [Filter List](https://github.com/bpc-clone/bypass-paywalls-clean-filters) / [Twitter](https://twitter.com/Magnolia1234B) - Browser Extensions
+* ⭐ **[Freedium](https://freedium.cfd/)** or [Medium For All](https://medium-forall.vercel.app/) - Bypass Medium Paywalls
+* ⭐ **[wallabag](https://wallabag.org/)** / [Discord Bot](https://github.com/FahadBinHussain/wallabot) or [Ladder](https://github.com/everywall/ladder) - Self-Hosted
 * [Bypass paywalls for scientific documents](https://greasyfork.org/en/scripts/35521) - Bypass Scientific Document Paywalls
 * [unpaywall](https://unpaywall.org/) - Bypass Scholarly Article Paywalls
-* [Scribe](https://scribe.rip/), [freedium](https://freedium.cfd/ ) or [medium-forall](https://medium-forall.vercel.app/) - Medium Paywall Bypass
-* [PressReader](https://greasyfork.org/en/scripts/39936) - Bypass PressReader Paywall
-* [Ladder](https://github.com/everywall/ladder) - Self-Hosted Paywall Bypass
-* [Burles](https://burles.co/en/) - Paywall Bypass
-* [Paywall Bypass Index](https://redd.it/rs9ej1) - Paywall Bypass
-* [bypass-paywalls](https://github.com/iamadamdev/bypass-paywalls-chrome) - Paywall Bypass
-* [pocket](https://getpocket.com/) - Paywall Bypass
-* [1ft.io](https://1ft.io/) - Paywall Bypass
-* [Hover Paywalls](https://github.com/nathan-149/hover-paywalls-browser-extension) - Paywall Bypass
-* [medium-unlocker](https://github.com/und3fined/medium-unlocker) - Paywall Bypass
-* [OpenAccessButton](https://openaccessbutton.org/) - Paywall Bypass
-* [RemovePaywalls](https://www.removepaywall.com/) - Paywall Bypass
-* [PaywallBypasser](https://github.com/SybronH/PaywallBypasser) - Paywall Bypass
-* [12ft.io](https://12ft.io/) - Paywall Bypass
-* [Smry.ai](https://www.smry.ai/) - Paywall Bypass
-* [Readium](https://sugoidesune.github.io/readium/) - Paywall Bypass
-* [shacklefree](https://www.shacklefree.in/) - Paywall Bypass
+* [Open Access Button](https://openaccessbutton.org/) - Bypass Research Article Paywalls
 
 ***
 
