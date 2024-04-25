@@ -541,7 +541,7 @@
 * ⭐ **[Best Player](https://www.microsoft.com/store/productId/9WZDNCRDPQSX)** / [Unlock](https://rentry.co/paidAppsMsStore)
 * ⭐ **[Open TV](https://github.com/fredolx/open-tv)**
 
-[PlaylistEditorTV](https://github.com/Isayso/PlaylistEditorTV), [ustvgo-iptv](https://github.com/interlark/ustvgo-iptv), [LivePush](https://livepush.io/hls-player/index.html)
+[PlaylistEditorTV](https://github.com/Isayso/PlaylistEditorTV), [ustvgo-iptv](https://github.com/interlark/ustvgo-iptv), [LivePush](https://livepush.io/hls-player/index.html), [IPTVNator](https://iptvnator.vercel.app/) / [Telegram](https://t.me/iptvnator)
 
 ***
 
@@ -588,7 +588,7 @@
 
 ## Minecraft Optimization Mods
 
-* ⭐ **[Fabulously Optimised](https://download.fo) / [GitHub](https://github.com/Fabulously-Optimized/fabulously-optimized)**
+* ⭐ **[Fabulously Optimized](https://download.fo) / [GitHub](https://github.com/Fabulously-Optimized/fabulously-optimized)**
 * ⭐ **[Simply Optimized](https://modrinth.com/modpack/sop)**
 * [Sodium](https://modrinth.com/mod/sodium) / [Indium](https://github.com/comp500/Indium/) / [Extra](https://modrinth.com/mod/sodium-extra) / [Nvidia Rendering](https://github.com/MCRcortex/nvidium)
 
