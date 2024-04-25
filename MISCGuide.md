@@ -373,6 +373,7 @@
 * ⭐ **[TorrentFreak](https://torrentfreak.com/)** / [Telegram](https://t.me/torrentfreaks) - Piracy News
 * ⭐ **[Good News Network](https://www.goodnewsnetwork.org/)** or [Happy Daze](https://happydaze.io/) - Uplifting News
 * [JustRead](https://justread.link/) or [Unclutter](https://unclutter.it/) - Feed Managers / Readers
+* [Pocket](https://getpocket.com/) - Discover & Save Articles
 * [Google Alerts](https://www.google.com/alerts) - News Alerts by Topics
 * [Top Stories](https://murmel.social/top) - Top Fediverse News 
 * [CBM](https://comicbookmovie.com/) - Comic / Movie / TV News
@@ -741,7 +742,7 @@
 * [Maybe](https://hello.maybe.co/), [Ghostfolio](https://ghostfol.io/), [HomeBank](https://www.gethomebank.org/en/index.php), [Firefly III](https://firefly-iii.org/), [Money Manager EX](https://moneymanagerex.org/), [Paisa](https://github.com/RetroMusicPlayer/Paisa) or [Actual](https://github.com/actualbudget/actual) - Finance Managers
 * [Ivy Wallet](https://github.com/Ivy-Apps/ivy-wallet), [Buckwheat](https://buckwheat.app/), [My Expenses](https://www.myexpenses.mobi/), [Cashew](https://play.google.com/store/apps/details?id=com.budget.tracker_app) or [Sushi](https://github.com/jerameel/sushi) - Android Finance Managers
 * [Ledger](https://ledger-cli.org/) - CLI Accounting System
-* [financial_advice](https://github.com/emilepetrone/financial_lessons) - Financial Lessons
+* [financial_advice](https://github.com/emilepetrone/financial_lessons)or [r/povertyfinance wiki](https://www.reddit.com/r/povertyfinance/wiki/index/) - Financial Tips / Resources
 * [/r/BeerMoney](https://www.reddit.com/r/beermoney/) - Online Money Making Community
 * [Compound Interest Calculator](https://www.investor.gov/financial-tools-calculators/calculators/compound-interest-calculator) - Determine Compound Interest Money Growth
 * [GamestonkTerminal](https://github.com/OpenBB-finance/OpenBBTerminal), [OpenBB Terminal](https://openbb.co/) or [KoyFin](https://www.koyfin.com/) - Investment Research Tools
@@ -926,7 +927,7 @@
 * [AllBadges](https://allbadges.net/en) - Track Badge Collection
 * [Wheel Decide](https://wheeldecide.com/), [PickerWheel](https://pickerwheel.com/), [HeySpinner](https://heyspinner.com/) or [Wheel of Names](https://wheelofnames.com/) - Wheel Randomizers
 * [SurveyHeart](https://surveyheart.com/) or [Pepperform](https://pepperform.net/) - Survey Creators
-* [Kukkee](https://kukkee.com/) - Meeting Time Polls
+* [Samay](https://samay.app/) - Meeting Time Polls
 * [Event Rally](https://rallly.co/) / [GitHub](https://github.com/lukevella/Rallly), [LettuceMeet](https://lettucemeet.com), [Mobilizon](https://joinmobilizon.org/) or [Gancio](https://gancio.org/) - Event Organizing
 * [Label Studio](https://labelstud.io/) or [Cvat](https://www.cvat.ai/) - Data Organizing Tools
 * [Diff Checker](https://www.diffchecker.com/) - Check Differences in Text, Images, PDFs or Files
@@ -1238,11 +1239,12 @@
 * [theOtaku](https://theotaku.com/quizzes) - Anime Personality Quizzes
 * [8dreams](https://8dreams.github.io/) - Political Alignment Test
 * [Goody2](https://www.goody2.ai/chat) - Worlds Most Ethical AI
-* [HowNormalAmI?](https://www.hownormalami.eu/) - Face Judge A.I.
+* [HowNormalAmI?](https://www.hownormalami.eu/) - Face Judge AI
 * [Face Shape AI](https://www.detect-face-shape.com) - Face Shape Detector
+* [Face Age AI](https://www.howolddoilook.io) - AI Age Guessing
 * [OnThisDay](https://www.onthisday.com/) - What Happened on Specific Days
 * [You're Getting Old](https://you.regettingold.com/) - Age Perspective
-* [DeathDate.info](https://deathdate.info/), [DeathDate.org](https://www.deathdate.org/), [Fortunteller Deathdate](https://www.free-fortuneteller.com/deathdate), [DeathClock.com](http://deathclock.com/) or [Death-Clock](https://www.death-clock.org/) - Calculate Your Day of *DEATH* (how fun!)
+* [Death Date Calculators](https://pastebin.com/LDRycXk3) - Calculate Your Day of *DEATH* (how fun!)
 * [HeyFromTheFuture](https://heyfromthefuture.com/) - What People Wish they knew at your Age
 * [MyGrandmothersLingo](https://www.sbs.com.au/mygrandmotherslingo/) - Interactive Story
 * [Emoji to Scale](https://javier.xyz/emoji-to-scale/) - Emoji Size Scale
@@ -1260,7 +1262,6 @@
 * [info.cern](https://info.cern.ch/) - First Website on the Internet
 * [Pointless Sites](https://www.pointlesssites.com/) - Pointless Site Index
 * [Websites From Hell](https://websitesfromhell.net/) - Shitty Website Index
-* [Face Age AI](https://www.howolddoilook.io) - How old do I look?
 
 ***
 
