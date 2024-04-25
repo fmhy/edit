@@ -48,7 +48,7 @@
 * ⭐ **[Linux.Chat](https://discord.gg/linuxchat)**, [Linux.org](https://linux.org/), [Linux x Technology](https://linuxdiscord.com/), [Ezlinux](https://ezlinux.net/) or [Discord-Linux](https://discord.gg/discord-linux) - Linux Discussion / Forums
 * ⭐ **[Ventoy](https://www.ventoy.net) / [GitHub](https://github.com/ventoy/Ventoy)** - Create Bootable USB Linux Drives
 * ⭐ **[DistroSea](https://distrosea.com/)** or [JSLinux](https://bellard.org/jslinux/) - Linux Browser Emulators
-* ⭐ **[Btop](https://github.com/aristocratos/btop)**, **[pfetch](https://github.com/dylanaraps/pfetch)**, **[MangoHud](https://github.com/flightlessmango/MangoHud)**, [CPU-X](https://github.com/TheTumultuousUnicornOfDarkness/CPU-X), [vtop](https://github.com/MrRio/vtop), [neofetch](https://github.com/dylanaraps/neofetch) / [Themes](https://github.com/chick2d/neofetch-themes) or [LM Sensors](https://github.com/lm-sensors/lm-sensors) or [s-tui](https://github.com/amanusk/s-tui) - System Info / Resource Monitors
+* ⭐ **[Btop](https://github.com/aristocratos/btop)**, **[pfetch](https://github.com/dylanaraps/pfetch)**, **[MangoHud](https://github.com/flightlessmango/MangoHud)**, [CPU-X](https://github.com/TheTumultuousUnicornOfDarkness/CPU-X), [vtop](https://github.com/MrRio/vtop), [neofetch](https://github.com/dylanaraps/neofetch) / [Themes](https://github.com/chick2d/neofetch-themes), [Macchina](https://github.com/Macchina-CLI/macchina) or [LM Sensors](https://github.com/lm-sensors/lm-sensors) or [s-tui](https://github.com/amanusk/s-tui) - System Info / Resource Monitors
 * [SysmonForLinux](https://github.com/Sysinternals/SysmonForLinux) - Monitor / Log System Activity
 * [Nanobench](https://github.com/andreas-abel/nanoBench) - CPU Microbenchmark / [Documentation](https://nanobench.ankerl.com/)
 * [ScanMem](https://github.com/scanmem/scanmem) - Memory Scanner / Debugger
@@ -454,7 +454,7 @@ Linux Gaming Guide
 * [wpgtk](https://deviantfero.github.io/wpgtk) - Fully Customizable Unix Color Schemer
 * [Akira](https://github.com/akiraux/Akira) - UI/UX Customization
 * [Kvantum](https://github.com/tsujan/Kvantum) - Linux QT / KDE Theme Engine
-* [Polybar (X11)](https://github.com/polybar/polybar) or [Waybar (Wayland)](https://github.com/Alexays/Waybar) - Customizable Status Bars
+* [Polybar (X11)](https://github.com/polybar/polybar), [Iron Bar](https://github.com/JakeStanger/ironbar) (Wayland) or [Waybar](https://github.com/Alexays/Waybar) (Wayland) - Customizable Status Bars
 * [MacBuntu Transformation Pack](https://www.noobslab.com/2018/08/macbuntu-1804-transformation-pack-ready.html), [2](https://www.noobslab.com/2017/06/macbuntu-transformation-pack-ready-for.html) - Mac Theme
 * [Windows-10](https://b00merang.weebly.com/windows-10.html) - Windows 10 Theme
 * [La Capitaine](https://github.com/keeferrourke/la-capitaine-icon-theme), [Moka](https://snwh.org/moka), [Numix](https://github.com/numixproject/numix-icon-theme) or [Papirus](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) - Linux Icon Themes
@@ -494,7 +494,7 @@ Linux Gaming Guide
 * [Whisky](https://getwhisky.app/) - Wine Wrapper
 * [SwiftUI Win11](https://jinxiansen.github.io/Windows11/) - Windows 11 Desktop Client for macOS
 * [OrbStack](https://orbstack.dev/) - Docker Client
-* [Cog](https://cogx.org/) or [Cider](https://cider.sh/) / [GitHub](https://github.com/ciderapp/Cider) - Audio Players
+* [Cider](https://cider.sh/) / [GitHub](https://github.com/ciderapp/Cider) - Audio Players / Free Classic Version
 * [Alfred Spotify Mini Player](https://alfred-spotify-mini-player.com/) - Spotify Mini Player
 * [Nuage](https://github.com/lbrndnr/nuage-macos) - Soundcloud Client
 * [Subsonic](https://github.com/twostraws/Subsonic) - SwiftUI Audio Player
