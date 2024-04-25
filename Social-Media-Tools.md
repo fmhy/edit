@@ -180,15 +180,12 @@
 * [Reddit Markdown Guide](https://www.reddit.com/wiki/markdown) - Learn Reddit Markdown
 * [Reddit Preview](https://redditpreview.com/) - Preview Reddit Posts
 * [Redirect Privated](https://greasyfork.org/en/scripts/468945) - Redirect Private Pages to Cached Versions
-* [redditpx](https://www.redditpx.com/), [Subscroller](https://subscroller.app/) or [Redditp](https://redditp.com/) - Reddit Image / Video Slideshows
+* [redditpx](https://www.redditpx.com/) or [Redditp](https://redditp.com/) - Reddit Image / Video Slideshows
 * [RedditRaffler](https://www.redditraffler.com/) - Reddit Raffle System
 * [PowerDeleteSuite](https://github.com/j0be/PowerDeleteSuite) - Reddit Auto Post Delete
-* [SubredditLog](https://gitlab.com/scallaway/SubredditLog) - Reddit Moderation Log
 * [Reddit Emojis](https://greasyfork.org/en/scripts/443011) - Emojis for Old Reddit
 * [Subreddit Tabs](https://greasyfork.org/en/scripts/460086) - Subreddit Icon Tabs
 * [Reddit Comment Highlights](https://github.com/aesy/reddit-comment-highlights) - Highlight New Comments
-* [Reddit Spoiler Blur Remover](https://greasyfork.org/en/scripts/416091-reddit-spoiler-blur-remover) - Remove Reddit Spoiler Blur
-* [SO Reddit](https://dutzi.github.io/so-reddit/) - Stack Overflow Style Viewer
 * [Pholder](https://pholder.com/) - Article Style Viewer
 * [Load Reddit Images Directly](https://github.com/nopperl/load-reddit-images-directly) / [Chrome](https://github.com/MonsterMannen/reddit-load-images-directly-chrome) - Direct Image Viewer
 * [SocialGrep](https://socialgrep.com/) - Reddit Statistics
@@ -369,6 +366,7 @@
 * [YT Playlist Length](https://ytplaylist-len.sharats.dev/) - Playlist Length Checker
 * [YouTube Region Checker](https://polsy.org.uk/stuff/ytrestrict.cgi) - YouTube Region Restrictions Check
 * [YouTube Web Tweaks](https://greasyfork.org/en/scripts/447802) - Speed Up YouTube
+* [YourCodecs](https://github.com/undecV/YourCodecs) - Enable / Disable Player Codecs
 * [YouTube CPU Tamer](https://greasyfork.org/en/scripts/431573) or [Unhold YouTube](https://greasyfork.org/en/scripts/457205) - YouTube CPU Optimization
 * [FREEZE](https://chromewebstore.google.com/detail/freeze/bejbbhcoefpmeejcnknjfepoocehopii) - Control YouTube via Webcam
 * [RapidTags](https://www.rapidtags.io/) - YouTube Tag Generators
@@ -401,6 +399,7 @@
 * ↪️ **[Multi-Site Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video-tools#wiki_.25BA_video_download)**
 * ⭐ **[YT-DLP](https://github.com/yt-dlp/yt-dlp)** or [YTDL-PATCHED](https://github.com/ytdl-patched/ytdl-patched) - YouTube Downloader / [Discord](https://discord.gg/H5MNcFW63r)
 * ⭐ **[Stacher](https://stacher.io/)** - YT-DL GUI
+* ⭐ **[Y232](https://y232.live/)** - YT-DL WebUI
 * [yt-dlp-gui](https://github.com/kannagi0303/yt-dlp-gui) - YT-DL GUI / [Easy Installer](https://github.com/kazukikasama/youtube-dlp-gui-installer)
 * [Gropple](https://github.com/tardisx/gropple) - YT-DL GUI
 * [Tartube](https://tartube.sourceforge.io/) - YT-DL GUI
