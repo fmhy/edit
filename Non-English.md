@@ -633,6 +633,7 @@
 
 * [Kusonime](https://kusonime.com/) - Anime / Sub / Dub / 1080p / [Discord](https://discord.com/invite/4A7RqFraZW)
 * [AniBatch](https://anibatch.anibatch.moe/), [2](https://www.animebatch.id/) - Anime / Dub / 1080p
+* [Samehadaku](https://samehadaku.care/) - Anime / Sub / 1080p / [Telegram](https://t.me/samehadaku_care) 
 * [IndonesiaEbook](https://ebook.twointomedia.com/) - Books
 
 ## ▷ Streaming
@@ -640,6 +641,7 @@
 * [Anoboy](https://anoboy.ch/) - Anime / Sub / 1080p
 * [Kazefuri](https://kazesub.com/) - Anime / Sub / 1080p
 * [MyNimeku](https://www.mynimeku.com/) - Anime /Sub / 1080p
+* [Samehadaku](https://samehadaku.care/) - Anime / Sub / 1080p / [Telegram](https://t.me/samehadaku_care)
 * [OtakuDesu](https://otakudesu.cloud/) - Anime / Sub / 720p
 * [anoBoy](https://anoboy.baby/) - Anime / Sub / 720p
 * [Kuramanime](https://kuramanime.pro/) - Anime / Sub / 720p
