@@ -403,6 +403,7 @@
 ## ▷ Free Assets
 
 * ⭐ **[FreePreset](https://freepreset.net/)**
+* [Gumroad](https://discover.gumroad.com/) (Enter $0)
 * [psdkeys](https://psdkeys.com/)
 * [AvaxGFX](https://avxgfx.com/)
 * [Freeject](https://www.freeject.net/)
