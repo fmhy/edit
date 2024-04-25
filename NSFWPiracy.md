@@ -68,7 +68,6 @@
 * [3movs](https://www.3movs.com/)
 * [Pornktube](https://www.pornktube.club/) or [TubXPorn](https://tubxporn.xxx/)
 * [Vid123](https://vid123.net/)
-* [XXXDan](https://xxxdan.com/) - 200 adult categories, non hd
 * [PornHoarder](https://pornhoarder.tv/)
 * [Adultism](https://www.adultism.com/), [YourAmateurPorn](https://www.youramateurporn.com/), [Terk](https://www.terk.nl/) or [HClips](https://hclips.com/) - Amateur Porn
 * [PornFreeX](https://pornfreex.app/), [Porn App](https://porn-app.com/) or [NsfwBox](https://github.com/Kisspeace/NsfwBox) - Android Porn Apps
