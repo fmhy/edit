@@ -760,7 +760,7 @@
 * 🌐 **[Minecraft QOL Mods](https://rentry.co/mc-qol)** or [sk1er.club](https://sk1er.club/) - Quality of Life Mods
 * 🌐 **[OptiFine Alternatives](https://optifine.alternatives.lambdaurora.dev/)** - OptiFine Alternatives for Fabric
 * 🌐 **[ChunkBase](https://www.chunkbase.com/apps/)** - Minecraft Map Tools
-* ↪️ **[Minecraft Launchers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_minecraft_launchers)** - [Beta](https://betacraft.uk/) / [Bedrock / Java](https://redd.it/xj5w9m), [2](https://bedrocklauncher.github.io/) / [Win10 Edition](https://openm.tech/BEAMinject)
+* ↪️ **[Minecraft Launchers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_minecraft_launchers)** - [Beta](https://betacraft.uk/) / [Bedrock](https://bedrocklauncher.github.io/) / [Win10 Edition](https://openm.tech/BEAMinject)
 * ↪️ **[Minecraft Mods](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_minecraft_mods)**
 * ↪️ **[Minecraft Optimization](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_minecraft_optimization_mods)**
 * ↪️ **[Free Minecraft Servers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_minecraft_servers)**
