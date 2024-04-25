@@ -452,12 +452,11 @@
 * [ISAAC](https://github.com/harryeffinpotter/ISAAC) - Google Service Account Generators
 * [G-Index](https://github.com/LeeluPradhan/G-Index), [goindex](https://github.com/alx-xlx/goindex) / [Extended](https://github.com/menukaonline/goindex-extended) / [Themes](https://install.kenci.workers.dev/), [GDIndex](https://github.com/maple3142/GDIndex), [Google-Drive-Index](https://gitlab.com/GoogleDriveIndex/Google-Drive-Index) or [libDrive](https://github.com/libDrive/heroku) - Google Drive Indexers
 * [Decrypt.Hashhackers](https://decrypt.hashhackers.com/) - Encrypt / Decrypt GDrive
-* [Direct.GDrive](https://direct.gdrive.vip/en/), [Maulvi](https://maulvi.github.io/), [Google Drive Direct Links](https://greasyfork.org/en/scripts/10052) or [Sharer](https://sharer.pw/) - Host Direct Links on GDrive 
+* [gdurl](https://gdurl.com/), [google-drive-direct-link-generator/](https://www.wonderplugin.com/online-tools/google-drive-direct-link-generator/),[Direct.GDrive](https://direct.gdrive.vip/en/), [Maulvi](https://maulvi.github.io/), [GDriveWebAppPublic ](https://github.com/CloudflareHackers/GDriveWebAppPublic), [Google Drive Direct Links](https://greasyfork.org/en/scripts/10052) or [Sharer](https://sharer.pw/) - Host Direct Links on GDrive 
 * [GdriveCloneWeb](https://github.com/jsmsj/GdriveCloneWeb), [Google Drive Copy Folder](https://github.com/ericyd/gdrive-copy), [Copy Folder](https://chromewebstore.google.com/detail/copy-folder/kfbicpdhiofpicipfggljdhjokjblnhl) or [Google Drive Clone Bot](https://jsmsj.github.io/GdriveCloneBot/) - Copy Google Drives
 * [CloneBot](https://github.com/MsGsuite/CloneBot_Heroku) - Copy GDrive to TeamDrive
 * [GD-EFC Link Encryptor](https://rekulous.github.io/gd-efc-encryptor/) - Google Drive Link Encryptor for GD-EFC
 * [gd-efc](https://anadius.github.io/gd-efc/) - Copy Encrypted Google Drive 
-* [gdurl](https://gdurl.com/), [google-drive-direct-link-generator/](https://www.wonderplugin.com/online-tools/google-drive-direct-link-generator/) - Direct GDrive Link Generators
 * [Gdrive Guide-Noob Friendly](https://telegra.ph/Gdrive-Guide-Noob-Friendly-04-10) - GDrive Guide
 
 ***
