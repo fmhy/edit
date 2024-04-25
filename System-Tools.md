@@ -76,6 +76,7 @@
 * [TrayVolumeControl](https://github.com/krlvm/TrayVolumeControl) - Control Tray Volume via Scroll
 * [HideVolumeOSD](https://github.com/UnlimitedStack/HideVolumeOSD) - Hide Volume Bar
 * [WinMute](https://github.com/lx-s/WinMute/) - Automatically Mute PC
+* [Freeter](https://freeter.io) - Organized Work / [GitHub](https://github.com/FreeterApp/Freeter)
 
 ***
 
