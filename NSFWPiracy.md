@@ -23,7 +23,6 @@
 * ⭐ **[SexyPorn](https://www.sxyprn.com/)**, [2](https://odd-queen-6608.rrsgjkrjsxy.workers.dev/)
 * ⭐ **[Noodlemagazine](https://noodlemagazine.com)**, [2](https://mat6tube.com/), [3](https://18.tyler-brown.com/), [4](https://waterdamagesandiego.org/), [5](https://hot.exporntoons.net/), [6](https://actionviewphotography.com/), [7](https://ukdevilz.com/) - Search Engine
 * ⭐ **[iXXX](https://www.ixxx.com/)** - Aggregator
-* ⭐ **[PornFreeX](https://pornfreex.app/)**, [Porn App](https://porn-app.com/) or [NsfwBox](https://github.com/Kisspeace/NsfwBox) - Android Porn Apps
 * [Full Length Porn CSE](https://cse.google.com/cse?cx=6c02fb377e50d493c) - Aggregators CSE
 * [FindTubes](https://www.findtubes.com/) - Aggregator
 * [Porn Guide](https://fapbuddies.net/porn-guide/) - How-to Find Porn
@@ -72,6 +71,7 @@
 * [XXXDan](https://xxxdan.com/) - 200 adult categories, non hd
 * [PornHoarder](https://pornhoarder.tv/)
 * [Adultism](https://www.adultism.com/), [YourAmateurPorn](https://www.youramateurporn.com/), [Terk](https://www.terk.nl/) or [HClips](https://hclips.com/) - Amateur Porn
+* [PornFreeX](https://pornfreex.app/), [Porn App](https://porn-app.com/) or [NsfwBox](https://github.com/Kisspeace/NsfwBox) - Android Porn Apps
 
 ***
 
