@@ -22,6 +22,7 @@
 * [Popupblocker All](https://addons.mozilla.org/en-US/firefox/addon/popupblockerall/), [PopUpOFF](https://romanisthere.github.io/PopUpOFF-Website/index.html) or [PopupBlocker](https://github.com/AdguardTeam/PopupBlocker) - Popup / New Tab Blockers
 * [Adguard](https://github.com/AdguardTeam/AdguardBrowserExtension#installation) - Adblocker
 * [Adblock Tester](https://adblock-tester.com/) or [AdBlocker Test](https://d3ward.github.io/toolz/adblock.html) - Adblocking Tests
+* [12ft.io](https://12ft.io/) - Share Ad-Free URLs
 
 ***
 
@@ -437,14 +438,14 @@
 * 🌐 **[VPN Comparisons](https://redd.it/171h9qa)** or [Techlore Chart](https://techlore.tech/vpn) - VPN Comparison Charts
 * 🌐 **[VPN Relationships](https://kumu.io/sobeyharker/vpn-relationships)** - VPN Relationship Chart
 * ⭐ **[/r/VPNs](https://www.reddit.com/r/vpns/)** - VPN Help and Discussion 
-* ⭐ **[AirVPN](https://airvpn.org/)** - [Pricing](https://i.ibb.co/8rVJ5JB/c4b813a6b6bc.png)
-* ⭐ **[Windscribe](https://windscribe.com)** - [Pricing](https://ibb.co/tPZZDhC) / Free Version Available
-* ⭐ **[Proton](https://protonvpn.com)** - [Pricing](https://ibb.co/gg4VCDR) / [Config Generation](https://gist.github.com/fusetim/1a1ee1bdf821a45361f346e9c7f41e5a) / No Torrenting w/ Free Version
+* ⭐ **[AirVPN](https://airvpn.org/)**
+* ⭐ **[Windscribe](https://windscribe.com)** - Free Version Available / [Relief Codes](https://blog.windscribe.com/tag/relief-codes/)
+* ⭐ **[Proton](https://protonvpn.com)** - [Config Generation](https://gist.github.com/fusetim/1a1ee1bdf821a45361f346e9c7f41e5a) / No Torrenting w/ Free Version
 * ⭐ **[Warp](https://one.one.one.one/)** - Traffic Encryption VPN / [Client](https://github.com/ViRb3/wgcf) / [Warp+ Data](https://t.me/warpplus), [2](https://github.com/nxvvvv/warp-plus), [3](https://github.com/totoroterror/warp-cloner), [4](https://t.me/generatewarpplusbot), [5](https://rentry.co/warp_plus_free) / [Warp+ Warning](https://rentry.co/warpwarning) / [WireGuard Guide](https://rentry.co/foss-warp)
 * ⭐ **[Riseup](https://riseup.net/en/vpn)** - Free VPN
-* [Mullvad](https://mullvad.net/) - [Pricing](https://i.ibb.co/sHB33GJ/daf48a5ee585.png) / [No-Logging](https://mullvad.net/en/blog/2023/4/20/mullvad-vpn-was-subject-to-a-search-warrant-customer-data-not-compromised/) / [Port Warning](https://mullvad.net/en/blog/2023/5/29/removing-the-support-for-forwarded-ports/)
-* [IVPN](https://www.ivpn.net/) - [Pricing](https://i.ibb.co/6sQKrQL/e06bea93c5ba.png) / [No Logging](https://www.ivpn.net/knowledgebase/privacy/how-do-we-react-when-requested-by-an-authority-for-information-relating-to-a-customer/) / [Port Warning](https://www.ivpn.net/blog/gradual-removal-of-port-forwarding/)
-* [OVPN](https://www.ovpn.com/) - [Pricing](https://ibb.co/BNmCJdS) / [No Logging](https://www.ovpn.com/en/blog/ovpn-wins-court-order)
+* [Mullvad](https://mullvad.net/) - [No-Logging](https://mullvad.net/en/blog/2023/4/20/mullvad-vpn-was-subject-to-a-search-warrant-customer-data-not-compromised/) / [Port Warning](https://mullvad.net/en/blog/2023/5/29/removing-the-support-for-forwarded-ports/)
+* [IVPN](https://www.ivpn.net/) - [No Logging](https://www.ivpn.net/knowledgebase/privacy/how-do-we-react-when-requested-by-an-authority-for-information-relating-to-a-customer/) / [Port Warning](https://www.ivpn.net/blog/gradual-removal-of-port-forwarding/)
+* [OVPN](https://www.ovpn.com/) - [No Logging](https://www.ovpn.com/en/blog/ovpn-wins-court-order)
 * [VPN Gate](https://www.vpngate.net/en/download.aspx) - Free VPN / [Note](https://pastebin.com/TrSw7EpF)
 * [PrivadoVPN](https://privadovpn.com/) - Free VPN / Unlimited Accounts via [Temp Mail](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_temp_email_sites)
 * [Leap VPN](https://leap.se/) - Free VPNs
