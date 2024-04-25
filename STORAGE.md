@@ -541,7 +541,7 @@
 * ⭐ **[Best Player](https://www.microsoft.com/store/productId/9WZDNCRDPQSX)** / [Unlock](https://rentry.co/paidAppsMsStore)
 * ⭐ **[Open TV](https://github.com/fredolx/open-tv)**
 
-[PlaylistEditorTV](https://github.com/Isayso/PlaylistEditorTV), [ustvgo-iptv](https://github.com/interlark/ustvgo-iptv), [LivePush](https://livepush.io/hls-player/index.html)
+[PlaylistEditorTV](https://github.com/Isayso/PlaylistEditorTV), [ustvgo-iptv](https://github.com/interlark/ustvgo-iptv), [LivePush](https://livepush.io/hls-player/index.html), [IPTVNator](https://iptvnator.vercel.app/) / [Telegram](https://t.me/iptvnator)
 
 ***
 
@@ -588,7 +588,7 @@
 
 ## Minecraft Optimization Mods
 
-* ⭐ **[Fabulously Optimised](https://download.fo) / [GitHub](https://github.com/Fabulously-Optimized/fabulously-optimized)**
+* ⭐ **[Fabulously Optimized](https://download.fo) / [GitHub](https://github.com/Fabulously-Optimized/fabulously-optimized)**
 * ⭐ **[Simply Optimized](https://modrinth.com/modpack/sop)**
 * [Sodium](https://modrinth.com/mod/sodium) / [Indium](https://github.com/comp500/Indium/) / [Extra](https://modrinth.com/mod/sodium-extra) / [Nvidia Rendering](https://github.com/MCRcortex/nvidium)
 
@@ -612,6 +612,7 @@
 * ⭐ **[Pojav](https://pojavlauncherteam.github.io/)** - Java Edition for Android / iOS
 * [MC Version Launcher](https://github.com/MCMrARM/mc-w10-version-launcher) - Multi-Version Launcher
 * [CheatBreaker](https://cheatbreaker.net/) - Anti-Cheat / FPS Boost / [GitHub](https://github.com/CheatBreakerNet)
+* [BEAMinject](https://github.com/OpenM-Project/BEAMinject) - Win10 Edition Patch
 
 [PollyMC](https://github.com/fn2006/PollyMC), [UltimMC](https://github.com/UltimMC/Launcher), [MultiMC](https://multimc.org/), [Legacy Launcher](https://tlaun.ch/) [2](https://lln4.ru/en), [HMCL](https://github.com/HMCL-dev/HMCL) / [2](https://hmcl.huangyuhui.net/), [TechnicPack](https://www.technicpack.net/), [LabyMod](https://www.labymod.net/), [Crystal Launcher](https://crystal-launcher.net/), [GDLauncher](https://gdlauncher.com/), [X Minecraft Launcher](https://xmcl.app/)
 
