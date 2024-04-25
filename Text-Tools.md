@@ -188,6 +188,7 @@
 * [Typing.com](https://www.typing.com/) - Typing Tests 
 * [Typing Club](https://www.typingclub.com/) - Typing Tests 
 * [typing.academy](https://www.typing.academy/) - Typing Tests
+* [Typings](https://typings.gg/) - Typing Tests
 * [TypeRacer](https://play.typeracer.com/) - Typing Games
 * [ZType](https://zty.pe/) - Typing Games
 * [TypeRush](https://www.typerush.com/) - Typing Games
