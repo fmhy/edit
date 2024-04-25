@@ -27,19 +27,24 @@ Here are a few ways you can get involved:
 ‎ 
 
 ‎‎ 
+ 
+
+‎‎ 
+
 
 ![Emoji Legend:](https://small.fileditchstuff.me/s10/REPpTGRLlrNJWqsxAdSz.png)
 ‎ 
 ‎ ‎ 
-
-‎ 
 
 $\color{#5fcfff}{\textsf{🌐 - 3rd Party Indexes}}$   
 ↪️ $\color{#539aef}{\textsf{- Storage Page Links}}$   
 $\color{#e1bc37}{\textsf{⭐ - Community Recommendations}}$‎‎   
 ‎ 
 
-‎ 
+‎  
+
+‎‎ 
+
 
 
 ![Follow](https://small.fileditchstuff.me/s10/NkKQzIMIJXCAWDGzdbVu.png)
