@@ -52,6 +52,7 @@
 * [APKSum](https://www.apksum.com/)
 * [APKKit](https://apkkit.com/)
 * [Material-You-app-list](https://github.com/nyas1/Material-You-app-list)
+* [NikGapps](https://nikgapps.com/) - Google App Packages / [Telegram](https://t.me/NikGapps)
 * [Shelf](https://play.google.com/store/apps/details?id=com.shelf.app) - App Recommendations
 
 ***
@@ -413,9 +414,9 @@
 * ⭐ **[DPITunnel](https://github.com/nomoresat/DPITunnel-android)**, [Intra](https://getintra.org), [PowerTunnel](https://github.com/krlvm/PowerTunnel-Android) or [Xandroid](https://github.com/XndroidDev/Xndroid) - Proxies
 * ⭐ **[Shadowsocks-Android](https://github.com/shadowsocks/shadowsocks-android)** - Shadowsocks Proxy App
 * ⭐ **[TorServices](https://f-droid.org/packages/org.torproject.torservices/)** or [Orbot](https://play.google.com/store/apps/details?id=org.torproject.android&amp;hl=en_US) - Tor Proxy Apps
+* ⭐ **[XPL-EX](https://github.com/0bbedCode/XPL-EX)** or InviZible](https://invizible.net) / [GitHub](https://github.com/Gedsh/InviZible) - Privacy Managers
 * [ceno-browser](https://censorship.no/en/index.html) / [GitHub](https://github.com/censorship-no/ceno-browser) - Proxy Browser
 * [Smartphone Hardening Guide](https://lemmy.ml/post/128667)
-* [InviZible](https://invizible.net) / [GitHub](https://github.com/Gedsh/InviZible) or [XPL-EX](https://github.com/0bbedCode/XPL-EX) - Privacy Managers
 * [Island](https://play.google.com/store/apps/details?id=com.oasisfeng.island) - App Isolation
 * [DroidFS](https://forge.chapril.org/hardcoresushi/DroidFS) or [Secure File Manager](https://github.com/Secure-File-Manager/Secure-File-Manager) - Encrypted File Managers
 * [Extirpater](https://github.com/Divested-Mobile/extirpater) - Space Eraser / Make Deleted Files Irrecoverable
@@ -565,7 +566,7 @@
 
 * ↪️ **[Text Editors / To-Do](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_android_note_apps)**
 * [Git Journal](https://gitjournal.io/) - Mobile Markdown Notes
-* [Sleep as Android](https://sleep.urbandroid.org/), [Chronos](https://github.com/meenbeese/Chronos), [ClockYou](https://github.com/you-apps/ClockYou) or [AlarmClock](https://github.com/yuriykulikov/AlarmClock) - Clocks / Alarms
+* [Sleep as Android](https://sleep.urbandroid.org/), [ClockYou](https://github.com/you-apps/ClockYou) or [AlarmClock](https://github.com/yuriykulikov/AlarmClock) - Clocks / Alarms
 * [Etar](https://github.com/Etar-Group/Etar-Calendar), [JTX](https://jtx.techbee.at/), [digical](https://digibites.nl/digical) or [TimeTreeApp](https://timetreeapp.com/intl/en/) - Calendars
 * [QRAlarm](https://github.com/sweakpl/qralarm-android) - Scan QR Code to Turn Off Alarm
 * [Calendar Notifications](https://play.google.com/store/apps/details?id=com.tuogol.calendar.notification) - View Calendar as Notifications
@@ -574,7 +575,7 @@
 * [FamilyWall](https://www.familywall.com/) - Family Oriented Planner 
 * [unhabits](https://github.com/iSoron/uhabits), [HabitBuilder](https://github.com/ofalvai/HabitBuilder), [MoreDays](https://gitlab.com/wuapps/moredays), [Goals](https://play.google.com/store/apps/details?id=io.rosenpin.goals), [TheFor](https://thefor.xyz/) or [MiindLeak](https://www.mindleak.app/) - Habit Trackers
 * [Farhan](https://github.com/tahaak67/Farhan) - Control Phone Addiction
-* [Forest](https://forestapp.cc/), [MyBrain](https://github.com/mhss1/MyBrain), [Time Cop](https://timecop.app/), [Success](https://eveningkid.com/success/), [Goodtime](https://github.com/adrcotfas/Goodtime) or [Mind Leak](https://play.google.com/store/apps/details?id=de.mdiener.android.mindleak) - Productivity Trackers
+* [Forest](https://forestapp.cc/), [MyBrain](https://github.com/mhss1/MyBrain), [Success](https://eveningkid.com/success/), [Goodtime](https://github.com/adrcotfas/Goodtime) or [Mind Leak](https://play.google.com/store/apps/details?id=de.mdiener.android.mindleak) - Productivity Trackers
 * [DetoxDroid](https://github.com/flxapps/DetoxDroid) - Make Your Phone Less Distracting
 
 ***
@@ -711,7 +712,7 @@
 * ↪️ **[Song Identification Apps](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/audio#wiki_.25B7_song_identification)**
 * ⭐ **[xManager](https://www.xmanagerapp.com/)** / [Discord](https://discord.com/invite/dnpKn5Wufm) or [Modded Spotify](https://rentry.co/FMHYBase64#modded-spotify-apk) - Ad Free Spotify
 * ⭐ **xManager Tools** - [Friend Activity](https://spotivity.me/) / [Mute Ads](https://play.google.com/store/apps/details?id=live.teekamsuthar.mutify), [2](https://github.com/aghontpi/ad-silence) / [Stats](https://stats.fm/)
-* ⭐ **[InnerTune](https://github.com/z-huang/InnerTune)**, **[Namida](https://github.com/namidaco/namida)**, [RiMusic](https://rimusic.xyz) / [GitHub](https://github.com/fast4x/RiMusic), [Harmony Music](https://github.com/anandnet/Harmony-Music), [SimpMusic](https://simpmusic.tech/), [spmp](https://github.com/toasterofbread/spmp), [ViMusic](https://vitune.app) / [GitHub](https://github.com/25huizengek1/ViTune), [Gyawun](https://jhelumcorp.github.io/) or [Vibe You](https://github.com/you-apps/VibeYou) - YouTube Music Players
+* ⭐ **[InnerTune](https://github.com/z-huang/InnerTune)**, **[Namida](https://github.com/namidaco/namida)**, [RiMusic](https://rimusic.xyz) / [GitHub](https://github.com/fast4x/RiMusic), [Harmony Music](https://github.com/anandnet/Harmony-Music), [SimpMusic](https://simpmusic.tech/), [spmp](https://github.com/toasterofbread/spmp), [Gyawun](https://jhelumcorp.github.io/) or [Vibe You](https://github.com/you-apps/VibeYou) - YouTube Music Players
 * ⭐ **[Seeker](https://play.google.com/store/apps/details?id=com.companyname.andriodapp1)** - Audio Download App / Soulseek Frontend
 * ⭐ **[AutomaTag](http://automatag.com/)** or [AutoTagger](https://autotagger.ru/) - Metadata Organizers
 * ⭐ **[AudioRelay](https://audiorelay.net/)** or [Audio Share](https://github.com/mkckr0/audio-share) - Stream PC Audio to Phone
