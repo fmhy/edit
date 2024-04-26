@@ -286,6 +286,7 @@
 * [Memegine](https://memegine.com/) - Meme Search Engine
 * [MemeAtlas](https://www.memeatlas.com/) or [Templates](https://drive.google.com/drive/folders/1Z4PSi2XmZ6x8I891xZSg5Cl4oNEOIRhh) - Meme Templates
 * [iFake](https://ifaketextmessage.com/) or [Chat Animator](https://chat-animator.com/) - Make Fake Text Conversations
+* [Master of all Science](https://masterofallscience.com/) - Rick and Morty Meme Generator
 * [Frinkiac](https://frinkiac.com/) - Simpsons Meme Generator 
 * [Morbotron](https://morbotron.com/) - Futurama Meme Generator
 * [BreakYourOwnNews](https://www.breakyourownnews.com/) - Breaking News Meme Generator
@@ -606,6 +607,7 @@
 * [/r/Photography Guide](https://www.reddit.com/r/photography/wiki/introduction) - Photography / Camera Guide
 * [PhotoEphemeris](https://photoephemeris.com/) - Photography Sunlight Calculator
 * [DataFilm](http://datafilm.io/) - Notebook for Film Photographers
+* [fSpy](https://fspy.io/) - Still Image Camera Matching
 * [GlanceBack](https://glanceback.info/) - Daily Webcam Photo Journal
 * [Image Color Summarizer](http://mkweb.bcgsc.ca/color-summarizer/) - Image Color Summarizer
 * [Image Comparison Tool](https://jklgit.github.io/Image-Comparison-in-Browser/index.html) - Compare Images
