@@ -273,7 +273,7 @@
 
 # ► File Hosts
 
-* **Note** - Size is per file and time is after the last time someone downloaded that file unless specified.
+* **Note** - Keep in mind its NEVER good idea to upload personal files to these, even if they claim to be encrypted. Size is per file and time is after the last time someone downloaded that file unless specified. 
   
 ***
 
@@ -288,6 +288,10 @@
 * ⭐ **[Mixdrop](https://mixdrop.ag/)** - 2GB / 60 Days / Signup Required
 * ⭐ **[Qiwi](https://qiwi.gg)** - [Warning](https://pastebin.com/jn90QMEt) / Signup Required
 * ⭐ **[Catbox.moe](https://catbox.moe/)** - 200MB / Forever
+
+* [CipherFiles](https://cipherfiles.com/) - 1GB / Unlimited / 
+
+
 * [MultiUp](https://multiup.io/), [MirrorAce](https://mirrorace.com/) or [Mirrorcreator](https://www.mirrored.to/) / [Extract / Upload](https://github.com/Reddiepoint/MultiUp-Direct) - Multi Host Uploaders
 * [Z-o-o-m](https://z-o-o-m.eu/) - Multi-Host Upload Desktop App
 * [Archive.org](https://archive.org/create/) - Signup Required
