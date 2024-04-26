@@ -318,6 +318,7 @@
 * [MapSCII](https://github.com/rastapasta/mapscii) - Braille & ASCII World Map
 * [MapChart](https://mapchart.net/) or [Qgis](https://qgis.org/) - Create Custom Maps
 * [mapus](https://github.com/alyssaxuu/mapus) or [Scribble Maps](https://www.scribblemaps.com/create/) - Custom Location Map
+* [gpx.studio](https://gpx.studio/) - GPX File Editor
 * [OpenDroneMap](https://www.opendronemap.org/) - Drone Mapping Software
 * [Land Viewer](https://eos.com/landviewer) - Satellite Image Data Analyzer
 * [City Roads](https://anvaka.github.io/city-roads/) - Draw City Roads
@@ -624,6 +625,7 @@
 * [GoodJobsFirst](https://goodjobsfirst.org/) - Subsidy Tracker
 * [QR Menu Creator](https://qrmenucreator.com/) - Convert Menu to QR Codes
 * [CandidateChecker](https://candidatechecker.io/) - User Backgrounds for Hiring
+* [ScrapedIn](https://github.com/dchrastil/ScrapedIn) - Scrape LinkedIn
 
 ***
 
