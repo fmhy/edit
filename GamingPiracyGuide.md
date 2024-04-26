@@ -32,7 +32,7 @@
 * [GLoad](https://gload.to/) - Download
 * [Leeching Hell](http://www.leechinghell.pw/) - Download
 * [GamePCFull](https://gamepcfull.com/) - Download
-* [Xatab Repacks](https://byxatab.com/), [2](https://byxatab.org/) - Torrent
+* [AWTDG](https://awtdg.site/) - Download / [Discord](https://discord.gg/kApRXRjJ7A)
 * [IRC Games](https://redd.it/x804wg) - Download Games via IRC
 * [itch.io](https://itch.io/games/new-and-popular/featured/free), [Gamdie](https://gamdie.com/), [DigiPen](https://games.digipen.edu/) or [Game Jolt](https://gamejolt.com/games?price=free) - Indie Games
 * itch.io Tools - [Downloader](https://github.com/Emersont1/itchio) / [Desktop](https://github.com/itchio/itch) / [Auto-Claim](https://github.com/Smart123s/ItchClaim)
@@ -61,6 +61,7 @@
 * [DODI Repacks](https://dodi-repacks.site/) - Torrent / [Discord](https://discord.gg/uE273qJ) / [Forum](https://dodi-forums.win/) / [Opera Bypass](https://rentry.co/lootlink)
 * [ScOOt3r Repacks](https://discord.gg/xe3Fys8Upy) - Download / Torrent
 * [Elamigos](https://elamigos.site/) - Download
+* [Xatab Repacks](https://byxatab.com/), [2](https://byxatab.org/) - Torrent
 * [Tiny-Repacks](https://www.tiny-repacks.win) - Torrent
 * [FreeGOGPCGames](https://freegogpcgames.com/) - GOG Games Torrent Uploads / [Hash Note](https://pastebin.com/pNMj3nay), [2](https://i.ibb.co/XbF2dv1/image.png)
 * [Magipack](https://www.magipack.games), [CollectionChamber](https://collectionchamber.blogspot.com/) or [ClassicPCGames](https://archive.org/details/classicpcgames) - Retro PC Games
@@ -98,15 +99,10 @@
 * [OpenFortress](https://openfortress.fun/) - Team Fortress 2 Mod
 * [TF2 Classic](https://tf2classic.com/) - Team Fortress 2 Classic Mod
 * [RisingHub](https://risinghub.net/) - Battlefield Heroes Revival Project
-* [Mega Man Arena](https://www.megamanarena.com/) or [Megaman 2.5D](https://petersjostrand.com/) - Multiplayer Mega Man
 * [OpenRA](https://openra.net/) - Command & Conquer Recreation
-* [NolfRevival](http://nolfrevival.tk/) - NOLF, NOLF 2 & Contract Jack
 * [DFWorkshop](https://www.dfworkshop.net/) - Daggerfall Unity Engine Port
 * [OpenMW](https://openmw.org/en/) - Morrowind Remake / [GitHub](https://github.com/OpenMW/openmw) / [Multiplayer](https://github.com/TES3MP/TES3MP)
-* [Old School RuneScape](https://oldschool.runescape.com/) - Classic Runescape
 * [ECWolf](https://maniacsvault.net/ecwolf/) - Wolfenstein 3D, Spear of Destiny & Super 3D Noah's Ark Port
-* [ET: Legacy](https://www.etlegacy.com/) - Wolfenstein Enemy Territory Multiplayer Project / [Discord](https://discord.gg/UBAZFys)
-* [OpenArena Live](https://kosmi.io/openarena) - Quake 3 Arena Clone
 * [IOQuake3](https://ioquake3.org/) - Quake 3 Source Port / [GitHub](https://github.com/ioquake/ioq3)
 * [YQuake2](https://www.yamagi.org/quake2/) - Quake 2 Source Port / [GitHub](https://github.com/yquake2/yquake2)
 * [Xonotic](https://xonotic.org/) - Open-source modified Quake engine FPS
@@ -575,6 +571,10 @@
 * [CnCNet](https://cncnet.org/) - Multiplayer Command & Conquer 
 * [Factorio.zone](https://factorio.zone/) - Free Factorio Servers
 * [Rusticaland](https://rusticaland.net/) - Free Rust Servers
+* [Old School RuneScape](https://oldschool.runescape.com/) - Classic Runescape
+* [OpenArena Live](https://kosmi.io/openarena) - Quake 3 Arena Clone
+* [NolfRevival](http://nolfrevival.tk/) - NOLF, NOLF 2 & Contract Jack
+* [Mega Man Arena](https://www.megamanarena.com/) or [Megaman 2.5D](https://petersjostrand.com/) - Multiplayer Mega Man
 * [Toontown Rewritten](https://www.toontownrewritten.com/) - Toontown Multiplayer Revival
 * [Overwolf](https://www.overwolf.com/) - Create In-Game Overlay Apps
 * [Tracker.gg](https://tracker.gg/) - Game Leaderboards / Stats
@@ -586,6 +586,7 @@
 * [PaladinsGuru](https://paladins.guru/) - Paladins Leaderboards
 * [TrueGameData](https://truegamedata.com/) - COD Leaderboards
 * [Warzone Loadout](https://warzoneloadout.games/) - Warzone Loadouts and Builds
+* [ET: Legacy](https://www.etlegacy.com/) - Wolfenstein Enemy Territory Multiplayer Project / [Discord](https://discord.gg/UBAZFys)
 * [Braytech](https://bray.tech/) - Destiny 2 Stats
 * [Leaf](https://leafapp.co/) or [HaloDataHive](https://halodatahive.com/) - Halo Infinite Leaderboards / Stats
 * [D4Builds](https://d4builds.gg/) - Diablo 4 Builds
