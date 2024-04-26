@@ -3998,7 +3998,7 @@ features:
 ## ▷ Regex Tools
 
 * 🌐 **[Awesome Regex](https://github.com/aloisdg/awesome-regex)** - Regex Resources
-* ⭐ **[Regex Vis](https://regex-vis.com/)** - Regex Visualizer
+* ⭐ **[Regex Vis](https://regex-vis.com/)**, [Regulex](https://jex.im/regulex/), [Regexper](https://regexper.com/)  - Regex Visualizer
 * ⭐ **[RegexLearn](https://regexlearn.com/)**, [refrf.dev](https://refrf.dev/) or [learn-regex](https://github.com/ziishaned/learn-regex) - Learn Regex
 * ⭐ **[RegExr](https://regexr.com/)** or [Regex101](https://regex101.com/) - Regex Editors
 * ⭐ **[grex](https://pemistahl.github.io/grex-js/)** or [Regex Generator](https://regex-generator.olafneumann.org/) - Regex Generators
@@ -4006,8 +4006,6 @@ features:
 * [iHateRegex](https://ihateregex.io/) - Regex Patterns
 * [Melody](https://yoav-lavi.github.io/melody/book/) - Compile to Regex / [GitHub](https://github.com/yoav-lavi/melody)
 * [PyRegex](http://www.pyregex.com/) - Python Regex Playground
-* [Regulex](https://jex.im/regulex/) - Regex Visualizer
-* [Regexper](https://regexper.com/) - Regex Visualizer
 
 ***
 
