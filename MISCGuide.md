@@ -41,7 +41,7 @@
 * [5000 Best](http://5000best.com/websites/) / [Tools](http://5000best.com/tools/) - Site / Tool Index
 * [mw.rat.bz](https://mw.rat.bz/index.html) - Site / Tool Index
 * [itch.io Tools](https://itch.io/tools/free) - Tool Index
-* [num's link list](https://soda.privatevoid.net/num/links/) - Site Index
+* [redshift](https://rdshft.net/) - Site Index
 * [ODP](http://odp.org/) - Site Index
 * [VRFavs](https://www.vrfavs.com/) - Virtual Reality Resources
 * [Simple Tools](https://simpletools.info/doku.php) - Simple Programs Index 
@@ -605,7 +605,8 @@
 * [PolyWork](https://www.polywork.com/) - Turn LinkedIn Profile to Personal Website
 * [Airtable](https://www.airtable.com/) - Build Collaborative Apps
 * [WhoPaysWriters](http://whopayswriters.com/) - Freelance Writing Publications
-* [Gerev](https://github.com/GerevAI/gerev) - Search Within Workplace Apps
+* [Creator Monetization Platforms](https://docs.google.com/spreadsheets/d/1ii59-tKBwsol4jGwVehXy-oaJfVLKUciwXtB2tuKqQg/edit#gid=0) - Monetization Platforms Comparisons
+* [Gerev](https://github.com/GerevAI/gerev) - Search within Workplace Apps
 * [Marketing Mega](https://rentry.co/FMHYBase64#marketing-courses), [Pimp My Money](https://pimpmymoney.net/) (torrent) or [HubSpot Academy](https://academy.hubspot.com/) - Digital Marketing Courses
 * [Statista](https://statista.com/) - Market Statistic Search
 * [Systeme](https://systeme.io/) or [SendPulse](https://sendpulse.com/) - Marketing Tools
