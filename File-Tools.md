@@ -273,7 +273,7 @@
 
 # ► File Hosts
 
-* **Note** - Keep in mind its NEVER good idea to upload personal files to these, even if they claim to be encrypted. Size is per file and time is after the last time someone downloaded that file unless specified. 
+* **Note** - Keep in mind its NEVER a good idea to upload personal files to file hosts, even if they claim to be encrypted. Size is per file and time is after the last time someone downloaded that file unless specified. 
   
 ***
 
