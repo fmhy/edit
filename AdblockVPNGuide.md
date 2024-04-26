@@ -281,7 +281,8 @@
 * ⭐ **[Tor Browser](https://www.torproject.org/)** - Onion-Routed Browser / [Default Gateway](https://github.com/htrgouvea/nipe) / [Gitlab](https://gitlab.torproject.org/tpo/applications/tor-browser)
 * ⭐ **[Mullvad Browser](https://mullvad.net/en/browser)** - Tor Browser Fork (w/o Tor network)
 * ⭐ **[arkenfox](https://github.com/arkenfox/user.js)**- Firefox Privacy Tweak / [Video](https://youtu.be/F7-bW2y6lcI)
-* [Librewolf](https://librewolf.net/)- Pre-tweaked Firefox Fork / [Use Auto-Updater](https://github.com/ltguillaume/librewolf-winupdater)
+* [Librewolf](https://librewolf.net/) - Pre-tweaked Firefox Fork / [Use Auto-Updater](https://github.com/ltguillaume/librewolf-winupdater)
+* [Brave](https://brave.com/) - Privacy-Focused Browser
 * [CookieStatus](https://www.cookiestatus.com/) - Browser Tracking Protection Comparisons
 * [I2P](https://geti2p.net/en/) - Encrypted Private Network Layer / [Guide](https://rentry.co/CBGI2P)
 * [Whack](https://lcamtuf.coredump.cx/whack/) or [Earthling](https://earthlng.github.io/testpages/visited_links.html) - Browser History Leak Example Games
@@ -396,7 +397,7 @@
 * [Gothub](https://codeberg.org/gothub/gothub) - GitHub Frontend
 * [AnonymousOverflow](https://code.whatever.social) - StackOverflow Frontend
 * [Tent](https://codeberg.org/sun/Tent) - Bandcamp Frontend
-* [Dumb](https://codeberg.org/rramiachraf/dumb) or [Intellectual](https://github.com/Insprill/intellectual) - Genius Frontend
+* [Dumb](https://codeberg.org/rramiachraf/dumb) or [Intellectual](https://intellectual.insprill.net/) - Genius Frontend
 * [Rural Dictionary](https://codeberg.org/zortazert/rural-dictionary) - Urban Dictionary Frontend
 * [BiblioReads](https://codeberg.org/nesaku/BiblioReads) - Goodreads Frontend
 * [LibreMDb](https://libremdb.iket.me) - IMDb Frontend
