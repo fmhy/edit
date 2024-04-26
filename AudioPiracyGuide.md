@@ -726,6 +726,7 @@
 * [Chowdhury DSP](https://chowdsp.com/products.html) - Audio Signal Processing
 * [Oscilloscope](https://bummsn.de/osc_txt/) - Audio Oscillation Test (turn volume down)
 * [MoFi](https://mofi.loud.red/) - Create Audio Loops
+* [Jukeblocks](https://jukeblocks.io/) - Generate Audio Project Templates (can lag browser)
 
 ***
 
@@ -747,7 +748,7 @@
 * [WD-1](https://www.worteldrie.com/WD5/) or [YOU.DJ](https://you.dj/) - Online DJ / Beat Creators
 * [RaveDJ](https://rave.dj/) - Easily Mix Songs Together
 * [plugdata](https://plugdata.org/) - Visual Audio Editor / [Discord](https://discord.com/invite/eT2RxdF9Nq)
-* [WebAssembly Music Experiment](https://petersalomonsen.com/webassemblymusic/livecodev2/) or [WebChuck IDE](https://ccrma.stanford.edu/~tzfeng/webchuck-ide/) - Create Music with Code
+* [Music Experiment](https://petersalomonsen.com/webassemblymusic/livecodev2/), [Sonic-Pi](https://sonic-pi.net/) or [WebChuck IDE](https://ccrma.stanford.edu/~tzfeng/webchuck-ide/) - Create Music with Code
 * [LMMS](https://lmms.io/) - Audio Editor
 * [FamiStudio](https://famistudio.org/) - Audio Editor
 * [Wavosaur](https://www.wavosaur.com/) - Audio Editor
