@@ -137,15 +137,15 @@
 * ⭐ **[AniWave](https://aniwave.to/)** or [Anix](https://anix.to/), [2](https://animesuge.to/), [3](https://gogoanimex.to/home) - Sub / Dub / 1080p / [Lite](https://lite.aniwave.to)
 * ⭐ **[KickAssAnime](https://kickassanime.mx/)** - Sub / Dub / 1080p / [Mirrors](https://kickassanimes.info/) / [Discord](https://discord.gg/qduzrvTG6p)
 * ⭐ **[HiAnime](https://hianime.to/)**, [2](https://4anime.gg/), [3](https://kaido.to/), [4](https://9animetv.to/), [5](https://anicrush.to/) - Sub / Dub / 1080p / [Auto-Focus](https://greasyfork.org/en/scripts/464019) / [Discord](https://discord.gg/hianime)
-* ⭐ **[AnimePahe](https://animepahe.com/)** - Sub / 1080p / [Downloader](https://github.com/KevCui/animepahe-dl)
+* ⭐ **[AnimePahe](https://animepahe.ru/)** - Sub / 1080p / [Downloader](https://github.com/KevCui/animepahe-dl)
 * ⭐ **[AllManga](https://allmanga.to/)** - Sub / Dub / 1080p
 * ⭐ **[GoGoAnime](https://gogoanime3.co/)**, [2](https://anitaku.to/) - Sub / Dub / 1080p
 * ⭐ **GoGoAnime Tools** - [Mirrors](https://gogotaku.info/) / [Download Script](https://greasyfork.org/en/scripts/465970) / [DL Guide](https://rentry.org/gogodlscript) / [Discord](https://discord.gg/kyVfcGuCCQ)
 * ⭐ **[Japanese Animated Film Classics](https://animation.filmarchives.jp/index.html)** - Japanese Animated Film Archive
 * ⭐ **[Anime Streaming CSE](https://cse.google.com/cse?cx=006516753008110874046:vzcl7wcfhei)** / [CSE 2](https://cse.google.com/cse?cx=006516753008110874046:mrfarx7-dxu) or [Kuroiru](https://kuroiru.co/) - Multi-Site Anime Search
 * [AnimeHub](https://animehub.ac/) - Sub / Dub / 1080p
-* [Animixplay](https://animixplay.tube/), [2](https://animixplay.name) - Sub / Dub / 1080p
-* [AnimeOwl](https://animeowl.us/) - Sub / Dub / 1080p / [Discord](https://discord.com/invite/xHYcvdMvZ2)
+* [Animixplay](https://animixplay.tube) - Sub / Dub / 1080p
+* [AnimeOwl](https://animeowl.live/) - Sub / Dub / 1080p / [Discord](https://discord.com/invite/xHYcvdMvZ2)
 * [123Anime](https://123animes.ru/) - Sub / Dub / 1080p
 * [Ryuk](https://ryuk.to/) - Sub / Dub / 1080p
 * [Kaguya](https://kaguya.app/) - Sub / 1080p / [Discord](https://discord.gg/382BEFfER6)
@@ -161,7 +161,6 @@
 * [KissAnime](https://kissanime.com.ru/), [2](https://kissanime.org.ru/), [3](https://kissanime.co/), [4](https://kissanime.sx/) - Sub / Dub / 1080p / [Discord](https://discord.com/invite/w5ghWQG8uM) / [Mirrors](https://kissanime.help/)
 * [Animetake](https://animetake.tv/) - Sub / 1080p
 * [AnimeFox](https://animefox.in/) - Sub / Dub / 1080p
-* [NAnime](https://www.nanime.one/) - Sub / Dub / 1080p
 * [BestDubbedAnime](https://bestdubbedanime.com/) - Dub / 1080p / [Discord](https://discord.com/invite/f2pHvauUPu)
 * [DubbedAnime](https://dubbedanime.biz/) - Sub / Dub / 1080p
 * [Animeow](https://animeow.me/) - Sub / Dub / 720p / [Discord](https://discord.com/invite/FT5MnbcDWz)
@@ -177,7 +176,7 @@
 * [Muse Asia](https://www.youtube.com/@MuseAsia) - Anime / Sub / Dub / 720p / Asian VPN Needed
 * [Ani-One Asia](https://www.youtube.com/@AniOneAsia) - Anime  / Sub / Dub / 1080p / Asian VPN Needed
 * [Pokémon Asia ENG](https://www.youtube.com/@PokemonAsiaENG) - Pokémon Anime / Dub / 1080p / Asian VPN Needed
-* [Yuna](https://yuna.moe/), [Layendimator](https://github.com/Layendan/Layendanimator) or [Miru](https://miru.js.org/en/) - Anime Streaming Apps
+* [Layendimator](https://github.com/Layendan/Layendanimator) or [Miru](https://miru.js.org/en/) - Anime Streaming Apps
 * [Tezuka Productions Official](https://www.youtube.com/@tezukaproductions-en) - Osamu Tezuka Anime
 * [Crunchyroll](https://www.crunchyroll.com/videos/anime) - Sub / Dub / [US Proxy](https://addons.mozilla.org/en-US/firefox/addon/crunchy-unblocker/) / [Intro Skip](https://github.com/aniskip/aniskip-extension)
 * [Miu](https://discord.gg/pwkuanXBJh) or [AnimeThemes](https://animethemes.moe/) - Anime Themes
