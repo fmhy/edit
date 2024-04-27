@@ -37,6 +37,13 @@
 
 ***
 
+## Daily Gold Price, Currency Exchange Websites & Apps
+* ⭐ **[Daily Gold Rate](https://goldratestoday.net/gold-rate-in-pakistan/)**
+* ⭐ **[Kitco](https://www.kitco.com/)**
+* ⭐ **[Tradingeconomice](https://tradingeconomics.com/)**
+***
+
+
 ## Alternative Software / App Sites
 
 * ⭐ **[AlternativeTo](https://alternativeto.net/)**
