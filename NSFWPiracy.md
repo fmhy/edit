@@ -20,7 +20,7 @@
 # ► Streaming
 
 * ⭐ **[HQPorner](https://hqporner.com/)**
-* ⭐ **[SexyPorn](https://www.sxyprn.com/)**, [2](https://odd-queen-6608.rrsgjkrjsxy.workers.dev/)
+* ⭐ **[SexyPorn](https://www.sxyprn.com/)**
 * ⭐ **[WatchPorn.to](https://watchporn.to)**
 * ⭐ **[Noodlemagazine](https://noodlemagazine.com)**, [2](https://mat6tube.com/), [3](https://18.tyler-brown.com/), [4](https://waterdamagesandiego.org/), [5](https://hot.exporntoons.net/), [6](https://actionviewphotography.com/), [7](https://ukdevilz.com/) - Search Engine
 * ⭐ **[iXXX](https://www.ixxx.com/)** - Aggregator
@@ -458,7 +458,7 @@
 * ⭐ **[Nyaa Sukebei](https://sukebei.nyaa.si/)**
 * ⭐ **[Anime-Sharing](https://www.anime-sharing.com/#downloads-requests)** - Hentai Games DDL
 * [Ryuugames](https://ryuugames.com/) 
-* [CPG Repacks](https://cpgrepacks.site), [2](https://cpgrepacks.in) - [Discord](https://discord.gg/dtBSZ9N)
+* [CPG Repacks](https://cpgrepacks.site) - [Discord](https://discord.gg/dtBSZ9N)
 * [PornDude Games](https://theporndude.com/best-porn-games), [2](https://theporndude.com/free-sex-games)
 * [The Asenheim Project](https://www.asenheim.org) / [Play Online](https://tss.asenheim.org/)
 * [Mikocon](https://www.mikocon.com/forum.php?mod=forumdisplay&fid=46) 
