@@ -285,7 +285,7 @@
 * [MemeCam](https://www.memecam.io/) - AI Meme Generator
 * [Memegine](https://memegine.com/) - Meme Search Engine
 * [MemeAtlas](https://www.memeatlas.com/) or [Templates](https://drive.google.com/drive/folders/1Z4PSi2XmZ6x8I891xZSg5Cl4oNEOIRhh) - Meme Templates
-* [iFake](https://ifaketextmessage.com/) or [Chat Animator](https://chat-animator.com/) - Make Fake Text Conversations
+* [iFake](https://ifaketextmessage.com/) - Make Fake Text Conversations
 * [Master of all Science](https://masterofallscience.com/) - Rick and Morty Meme Generator
 * [Frinkiac](https://frinkiac.com/) - Simpsons Meme Generator 
 * [Morbotron](https://morbotron.com/) - Futurama Meme Generator
@@ -681,7 +681,7 @@
 ## ▷  Self-Hosted Galleries
 
 * 🌐 **[FOSS Photo Libraries](https://meichthys.github.io/foss_photo_libraries/)**
-* [Immich](https://immich.app/)
+* [Immich](https://immich.app/) / [Github](https://github.com/immich-app/immich)
 * [Damselfly](https://github.com/Webreaper/Damselfly)
 * [HomeGallery](https://home-gallery.org/)
 * [LibrePhotos](https://github.com/LibrePhotos/librephotos)
@@ -708,7 +708,7 @@
 * ⭐ **[Postimages](https://postimages.org/)**
 * ⭐ **[Catbox.moe](https://catbox.moe/)**
 * [Imgur](https://imgur.com/)
-* Imgur Tools - [Frontends](https://rimgo.codeberg.page/), [2](https://git.voidnet.tech/kev/imgin), [3](https://codeberg.org/rimgo/rimgo), [4](https://codeberg.org/3np/rimgu), [5](https://rimgo.bus-hit.me/) / [Proxy](https://imgin.voidnet.tech/)
+* Imgur Tools - [Frontends](https://rimgo.codeberg.page/), [2](https://git.voidnet.tech/kev/imgin), [3](https://codeberg.org/rimgo/rimgo), [4](https://codeberg.org/3np/rimgu), [5](https://rimgo.bus-hit.me/)
 * [pixelfed](https://pixelfed.org/) / [2](https://pixelfed.social/) - Decentralized Image Hosts
 * [Unsee](https://unsee.cc/) - Decentralized / Temporary Image Hosts / [Android](https://gitlab.shinice.net/pixeldroid/PixelDroid)
 * [WebOasis IPFS](https://weboasis.app/ipfs/)
