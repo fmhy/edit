@@ -36,7 +36,7 @@
 * [NeverSSL](http://neverssl.com/) or [HTTP Forever](http://httpforever.com/) - Fix Public Wi-Fi Login Pages
 * [WiFi-Password](https://github.com/sdushantha/wifi-password) - Fetch WiFi Password / Generate QR Code
 * [Hosts File Editor](https://hostsfileeditor.com/) or [HostsDock](https://eshengsky.github.io/HostsDock/) - Windows Hosts File Editors
-* [MAC Address](https://mac-address.alldatafeeds.com/mac-address-lookup) - Check MAC Address
+* [MAC Address](https://macaddress.io/) - Check MAC Address
 * [masscan](https://github.com/robertdavidgraham/masscan) - Port Scanner
 * [PortChecker](https://portchecker.co/), [PortCheckers](https://www.portcheckers.com/), [RustCat](https://github.com/robiot/rustcat) or [CanYouSeeMe](https://canyouseeme.org/) - Port Checkers
 * [Bufferbloat Test](https://www.waveform.com/tools/bufferbloat) - Test Bufferbloat
