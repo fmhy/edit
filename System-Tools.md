@@ -41,10 +41,10 @@
 
 ***
 
+* ⭐ **[Debloat Guide](https://rentry.co/debloatguide)** - Windows Debloat Guide
 * ⭐ **[Bulk Crap Uninstaller](https://www.bcuninstaller.com/)** - Bulk Uninstallation Tool
 * ⭐ **[BleachBit](https://www.bleachbit.org/)** - Clean System Storage
 * ⭐ **[SophiApp](https://github.com/Sophia-Community/SophiApp)** / [Script](https://github.com/farag2/Sophia-Script-for-Windows) - Debloater
-* [Debloat Guide](https://rentry.co/debloatguide) - Windows Debloat Guide
 * [GhostBuster](https://bitbucket.org/wvd-vegt/ghostbuster/src/master/) or [Device Cleanup Tool](https://www.majorgeeks.com/files/details/device_cleanup_tool.html) - Remove Non-Present Devices
 * [Win11Debloat](https://github.com/Raphire/Win11Debloat) - Debloater
 * [Should I Remove It?](https://www.shouldiremoveit.com/) - Program Removal Guide
@@ -401,7 +401,7 @@
 * ⭐ **[Puter](https://puter.com/)** - OS Emulator / [Discord](https://discord.com/invite/PQcx7Teh8u) / [GitHub](https://github.com/HeyPuter/puter)
 * [Qemu](https://gitlab.com/qemu-project/qemu) - OS Emulator / Virtualization
 * [copy.sh](https://copy.sh/v86/), [PCJs](https://www.pcjs.org/), [OnWorks](https://www.onworks.net/), [simone.computer](https://simone.computer/#/webdesktops) or [Virtual Desktop](http://www.virtualdesktop.org/) - Multiple OS Emulators
-* [WinXP](https://winxp.vercel.app/), [Windows XP Netify](https://windows-xp.netlify.app/) - Windows XP Browser Emulators
+* [WinXP](https://winxp.vercel.app/), [Windows XP Netify](https://windows-xp.netlify.app/) or [RebornXP](https://rebornxp.js.org/) - Windows XP Browser Emulators
 * [EmuOS](https://emupedia.org/beta/emuos/), [2](https://emupedia.net/beta/emuos/), [3](https://emuos.net/beta/emuos/), [4](https://emuos.org/beta/emuos/) - Windows 95, 98 & ME Emulator
 * [98.js](https://98.js.org/), [Rahul](https://rahul.io/) or [Packard Belle](https://packard-belle.netlify.app/) - Windows 98 Emulator
 * [Windows96.net](https://windows96.net/) - Windows 96 Browser Emulator
@@ -409,7 +409,6 @@
 * [Windows93](https://www.windows93.net/) - Windows 93 Browser Emulator / Games
 * [EmuOS](https://github.com/Emupedia/emupedia.github.io/) - Run Classic Games / Apps In Browser
 * [Windows 1.01](https://classicreload.com/Windows-1-01.html) - Windows 1.01 Browser Emulator
-* [RebornXP](https://rebornxp.js.org/) - Windows XP Browser Emulator
 * [AaronOS](https://aaronos.dev/), [Whimsy](https://whimsy.space/), [OS.JS](https://www.os-js.org/), [X-WebDesktop](https://oxoyo.co/X-WebDesktop-Vue/), [Orb](https://gitlab.com/hsleisink/orb) or [jQuery Desktop](https://desktop.sonspring.com/) - OS Browser Emulator
 * [PCE Macplus](https://jamesfriend.com.au/pce-js/pce-js-apps/) or [Infinite Mac](https://infinitemac.org/) - macOS Browser Emulators
 * [PCE.js](https://jamesfriend.com.au/pce-js/ibmpc-games/) - PCDOS 5 Emulator
@@ -492,7 +491,7 @@
 * [backiee](https://apps.microsoft.com/store/detail/backiee-wallpaper-studio-10/9WZDNCRFHZCD) - Wallpaper Manager
 * [Awesome Wallpaper](https://awesome-wallpaper.com/) - Wallpaper Manager
 * [SuperPaper](https://github.com/hhannine/superpaper) - Wallpaper Manager
-* [Faerber](https://farbenfroh.io/faerber) - Edit Wallpaper to Match Color Scheme
+* [Faerber](https://farbenfroh.io/) - Edit Wallpaper to Match Color Scheme
 * [AutoWall](https://github.com/SegoCode/AutoWall) - Turn Videos / GIFs to Live Wallpapers
 * [Scenic Illustrations](https://www.pixeltrue.com/scenic-illustrations) - Landscape Wallpapers
 * [CoolBackgrounds](https://coolbackgrounds.io/) or [wallup](https://wallup.net/) - Customizable Wallpapers
