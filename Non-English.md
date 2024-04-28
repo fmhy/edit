@@ -345,7 +345,8 @@
 * [Torrent9](https://www.torrent9.fm/), [2](https://www.torrent9.site/), [3](https://torrent9.app/) - Video / Audio / ROMs / Books
 * [Torrent911](https://www.torrent911.ac/) - Video / Audio / ROMs / Books
 * [OxTorrent](https://oxtorrents.co/), [2](https://yggtorrent.qa/) - Video / Audio / ROMs / Books
-* [Cpasbien](https://www.cpasbien.tw/) - Video / Audio / ROMs / Books
+* [Cpasbien](https://feminalpes.fr/) - Video / Audio / ROMs / Books
+* [Cpasbien(Clone)](https://www.cpasbien.tw/) - Video / Audio / ROMs / Books
 * [Zetorrents](https://www.zetorrents.pw/) - Video / Audio / ROMs / Books
 * [Torrent411](https://www.torrent411.to/) - Video / Audio / ROMs / Books
 * [Sharewood](https://www.sharewood.tv/) - Video / Audio / ROMs / Books
