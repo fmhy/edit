@@ -878,7 +878,6 @@
 * [DigiMovie](https://digimoviez.com/) - Movies / TV / Sub / Dub / 1080p
 * [Tikfilmz](https://tikfilmz.ir/) - Movies / TV / Sub / 1080p
 * [GanjDL](http://www.ganjdl.ir/) - Movies / TV / Sub / Dub / 1080p
-* [downloadha](https://www.downloadha.com/) - Movies / TV / Sub / Dub / 1080p
 * [KaranMovie](https://karanmovie.org/) - Movies / TV / Sub / Dub / 1080p
 * [HamrahMovies](https://hamrahmoviez.ir/) - Movies / TV / Sub / Dub / 1080p / [Telegram](https://t.me/hamrahmovieesir)
 * [HexDL](https://hexdl.com/) - Movies / TV / Cartoons / Dub / 1080p
@@ -1815,6 +1814,7 @@
 
 ## ▷ Reading
 
+* ⭐ **[hoc10](https://hoc10.vn/)** - Textbooks, Study Material, Lectures Notes etc.
 * [SachVui](https://sachvuii.com/) - Books / [Direct Links](https://greasyfork.org/en/scripts/488558)
 * [MeTaiSach](https://metaisach.com/) - Books
 * [DocSachHay](https://docsachhay.net/) - Books
