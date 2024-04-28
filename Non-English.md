@@ -345,7 +345,8 @@
 * [Torrent9](https://www.torrent9.fm/), [2](https://www.torrent9.site/), [3](https://torrent9.app/) - Video / Audio / ROMs / Books
 * [Torrent911](https://www.torrent911.ac/) - Video / Audio / ROMs / Books
 * [OxTorrent](https://oxtorrents.co/), [2](https://yggtorrent.qa/) - Video / Audio / ROMs / Books
-* [Cpasbien](https://www.cpasbien.tw/) - Video / Audio / ROMs / Books
+* [Cpasbien](https://feminalpes.fr/) - Video / Audio / ROMs / Books
+* [Cpasbien(Clone)](https://www.cpasbien.tw/) - Video / Audio / ROMs / Books
 * [Zetorrents](https://www.zetorrents.pw/) - Video / Audio / ROMs / Books
 * [Torrent411](https://www.torrent411.to/) - Video / Audio / ROMs / Books
 * [Sharewood](https://www.sharewood.tv/) - Video / Audio / ROMs / Books
@@ -878,6 +879,7 @@
 * [DigiMovie](https://digimoviez.com/) - Movies / TV / Sub / Dub / 1080p
 * [Tikfilmz](https://tikfilmz.ir/) - Movies / TV / Sub / 1080p
 * [GanjDL](http://www.ganjdl.ir/) - Movies / TV / Sub / Dub / 1080p
+* [downloadha](https://www.downloadha.com/) - Movies / TV / Sub / Dub / 1080p
 * [KaranMovie](https://karanmovie.org/) - Movies / TV / Sub / Dub / 1080p
 * [HamrahMovies](https://hamrahmoviez.ir/) - Movies / TV / Sub / Dub / 1080p / [Telegram](https://t.me/hamrahmovieesir)
 * [HexDL](https://hexdl.com/) - Movies / TV / Cartoons / Dub / 1080p
@@ -1814,7 +1816,6 @@
 
 ## ▷ Reading
 
-* ⭐ **[hoc10](https://hoc10.vn/)** - Textbooks, Study Material, Lectures Notes etc.
 * [SachVui](https://sachvuii.com/) - Books / [Direct Links](https://greasyfork.org/en/scripts/488558)
 * [MeTaiSach](https://metaisach.com/) - Books
 * [DocSachHay](https://docsachhay.net/) - Books
