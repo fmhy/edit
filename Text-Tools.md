@@ -44,7 +44,8 @@
 * ⭐ **[WriteXO](https://writexo.com/)** - WYSIWYG Pastebin
 * ⭐ **[Pastebin Search](https://cse.google.com/cse?cx=0cd79b819f26af9d0)** - Pastebin CSE
 * [Rlim](https://rlim.com/) - Markdown Support
-* [ZeroBin.net](https://zerobin.net/) - Markdown Support
+* [ZeroBin](https://zerobin.net/) - Markdown Support
+* [BPA](https://bpa.st/) - Markdown Support
 * [Markdown Pastebin](https://markdownpastebin.com/) - Markdown Support
 * [Sparked Paste](https://paste.sparked.host/) - Text Only
 * [Telegraph](https://telegra.ph/) - Text Only
