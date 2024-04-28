@@ -1814,7 +1814,7 @@
 
 ## ▷ Reading
 
-* ⭐ **[hoc10](https://hoc10.vn/)** - Textbooks, Study Material, Lectures Notes etc.
+* ⭐ **[hoc10](https://hoc10.vn/)** - Textbooks, Study Material, Lecture Notes etc.
 * [SachVui](https://sachvuii.com/) - Books / [Direct Links](https://greasyfork.org/en/scripts/488558)
 * [MeTaiSach](https://metaisach.com/) - Books
 * [DocSachHay](https://docsachhay.net/) - Books
