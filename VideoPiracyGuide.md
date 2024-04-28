@@ -580,7 +580,6 @@
 
 * ⭐ **[moo](https://rentry.co/FMHYBase64#moo)** - Movies / TV
 * ⭐ **[Media](https://rentry.co/FMHYBase64#media)** - Movies / TV / Anime
-* ⭐ **[Vadapav](https://rentry.co/FMHYBase64#vadapav)** - Movies / TV / Anime
 * [188.165.227.112](https://rentry.co/FMHYBase64#188165227112) - Movies / TV
 * [ProSearch4Bot](https://t.me/ProSearch4Bot) - Movies
 * [Mobile movies request bot](https://t.me/cc_mmrequestbot) - Movies / 480p
@@ -901,7 +900,6 @@ Sonarr/Radarr/Lidarr autosearch
 * ⭐ **[Release Group Qualities](https://docs.google.com/spreadsheets/u/0/d/1xz5zqrBumfMtLGA4VMt1VtOyh-47HDTv_swIYktX6AQ/htmlview)** - Movie / TV Release Group Quality Indexes
 * [Media Stack DIY](http://tennojim.xyz/article/media_stack_diy) - High Quality Streaming Guide
 * [/r/SceneReleases](https://www.reddit.com/r/SceneReleases/) - Untouched Scene Release Tracker
-* [WatchVideoByLink](https://github.com/MohamedBakoush/WatchVideoByLink) - Web Video Viewer / Manager
 * [FastStream](https://github.com/Andrews54757/FastStream/) - Fragmentation Streaming Extension
 * [HowDoesTheMovieEnd](http://www.howdoesthemovieend.com/), [MoviePooper](https://moviepooper.com/), [themoviespoiler](https://themoviespoiler.com/) or [DoesTheDogDie](https://www.doesthedogdie.com/) - Movie Spoilers
 * [WheresTheJump?](https://wheresthejump.com/) - Find Movie Jump Scares
