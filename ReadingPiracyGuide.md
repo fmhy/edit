@@ -7,7 +7,7 @@
 # ► Audiobooks
 
 * ⭐ **[Mobilism Audiobooks](https://forum.mobilism.org/viewforum.php?f=124)** / [User Ranks](https://pastebin.com/pZuuMxYm)
-* ⭐ **[Audiobook Bay](https://audiobookbay.lu/)** - Torrents / Avoid Fake DL links, Use [Torrents / Magnets](https://i.ibb.co/8sV2061/0fa8159b11bb.png)
+* ⭐ **[AudiobookBay](https://audiobookbay.lu/)** - Torrents / Avoid Fake DL links, Use [Torrents / Magnets](https://i.ibb.co/8sV2061/0fa8159b11bb.png) / [Discord](https://discord.com/invite/2zkHuwP3mW)
 * ⭐ **[Tokybook](https://tokybook.com/)** - Listen Online
 * ⭐ **[Audiobook CSE](https://cse.google.com/cse?cx=006516753008110874046:cwbbza56vhd)** or **[Rave Search](https://ravebooksearch.com/index-audiobooks)** - Multi-Site Audiobook Search
 * [HDAudiobooks](https://hdaudiobooks.com/) - Listen Online
@@ -53,7 +53,7 @@
 * ⭐ **[Library Genesis](https://libgen.is)** - Books / Comics / Manga / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_libgen_tools) / [Mirrors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_libgen__mirrors)
 * ⭐ **[Z-Library](https://singlelogin.re/)** - Books / Comics / Educational
 * ⭐ **Z-Lib Tools** - [Desktop / Extensions](https://go-to-zlibrary.se/) / [.Onion](http://loginzlib2vrak5zzpcocc3ouizykn6k5qecgj2tzlnab5wcbqhembyd.onion/) / [Subreddit](https://www.reddit.com/r/zlibrary/) / [Telegram](https://t.me/zlibrary_official)
-* ⭐ **[Liber3](https://liber3.eth.limo/)** - Books
+* ⭐ **[Liber3](https://liber3.eth.limo/)** - Books / [Telegram](https://t.me/liber3eth)
 * ⭐ **[Mobilism](https://forum.mobilism.org)** - Books / Audiobooks / Magazines / Newspapers / Comics / [User Ranks](https://pastebin.com/pZuuMxYm)
 * ⭐ **[Archive.org](https://archive.org/details/texts)** - Books / Audiobooks / Magazines / Newspapers / [Downloader](https://bookripper.neocities.org/)
 * ⭐ **[Calibre](https://calibre-ebook.com/)** - Ebook Manager / Downloader / [Libraries / Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_calibre_tools)
@@ -104,6 +104,7 @@
 * [The Free Book Library](https://ebooks.i2p/) - Books / I2P Required
 * [Find Books](https://www.findbooks.info/) - Books / IPFS Required
 * [Antilibrary](http://127.0.0.1:43110/Antilibrary.bit/) - ZeroNet Required
+* [IBHaven](https://ibhaven.st/) - Books / Tor + P2P Client Required / [Guide](https://guide.ibhaven.st/)
 * [Just Another Library](https://libraryfyuybp7oyidyya3ah5xvwgyx6weauoini7zyz555litmmumad.onion.ly/) / [.onion](http://libraryfyuybp7oyidyya3ah5xvwgyx6weauoini7zyz555litmmumad.onion/) - Tor Required / NSFW
 * [/r/FreeEBOOKS](https://reddit.com/r/FreeEBOOKS)
 
@@ -168,12 +169,12 @@
 
 ## ▷ Religion / Esoterica
 
-* ⭐ **[Sacred Text Archive](https://sacred-texts.com/)** - Religion / Mythology / Folklore / Esoterica
-* ⭐ **[The Exerdex](https://rentry.co/FMHYBase64#echerdex-repository)** - Esoterica / [Discord](https://discord.gg/dS5X3d7ype) / [Subreddit](https://www.reddit.com/r/Echerdex/)
-* ↪️ **[Esoterica Telegram Channels](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_magic_.2F_esoteric_telegram_ebooks)**
 * 🌐 **[WiLd's Occult Ebook Sources](https://rentry.co/FMHYBase64#wilds-occult-ebook-sources)** - Occult / Esoterica
 * 🌐 **[Soren Megathread](https://odysee.com/@Soren:71/%F0%9F%94%B0Megathread_with_Resources%F0%9F%94%B0:1)** - Occult / Esoterica
 * [ObscUrban Legend Wiki](https://obscurban-legend.fandom.com/) - Mythology / Urban Legends
+* ↪️ **[Esoterica Telegram Channels](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_magic_.2F_esoteric_telegram_ebooks)**
+* ⭐ **[Sacred Text Archive](https://sacred-texts.com/)** - Religion / Mythology / Folklore / Esoterica
+* ⭐ **[The Exerdex](https://rentry.co/FMHYBase64#echerdex-repository)** - Esoterica / [Discord](https://discord.gg/dS5X3d7ype) / [Subreddit](https://www.reddit.com/r/Echerdex/)
 * [FairyTalez](https://fairytalez.com/) - Mythology / Folklore / Fairy Tales
 * [Encyclopedia Mythica](https://pantheon.org/) - Mythology / Folklore / Religion
 * [Mythology.net](https://mythology.net/) - Mythology / Religion
@@ -770,7 +771,7 @@
 
 * ↪️ **[Bypass Article Paywalls](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools#wiki_.25B7_paywall_bypass)**
 * ⭐ **[TheFreeLibrary](https://www.thefreelibrary.com/)** - Articles
-* ⭐ **[arXiv](https://arxiv.org/)** - Science / Math / Physics / [Search](https://arxiv-sanity-lite.com/) / [Chatbot](https://github.com/evanhu1/talk2arxiv)
+* ⭐ **[arXiv](https://arxiv.org/)** - Science / Math / Physics / [Search](https://arxiv-sanity-lite.com/), [2](https://searchthearxiv.com/) / [Chatbot](https://github.com/evanhu1/talk2arxiv)
 * [Wikisource](https://en.wikisource.org) - Poetry / Text / Documents
 * [Heystacks](https://heystacks.com/) - Public Google Docs
 * [PDFSlide](https://pdfslide.net/) - Document Search
