@@ -344,6 +344,7 @@
 * [erine.email](https://erine.email/) - Email Aliasing
 * [33mail](https://33mail.com/) - Email Aliasing
 * [forwardemail](https://github.com/forwardemail/forwardemail.net) - Email Aliasing
+* [Have I Been Sold?](https://haveibeensold.app/) - Monitor Third Party Email Sales
 
 ***
 
