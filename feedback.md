@@ -39,3 +39,5 @@ outline: false
 * *"I love having an extreme amount of privacy. And it's not just for piracy, so this is REALLY useful. Thanks!"*
 
 * *"Every person I share this sub with is always completely grateful, and it's no wonder why."*
+
+* *"Finding out about FMHY's wiki is the best thing that has happened to me, it has helped me so much in every way imaginable, i'm very grateful, keep it up!"*
