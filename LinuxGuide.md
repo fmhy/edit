@@ -46,7 +46,7 @@
 
 * 🌐 **[Awesome Gnome](https://github.com/Kazhnuz/awesome-gnome)** - GNOME Resources
 * ⭐ **[Linux.Chat](https://discord.gg/linuxchat)**, [Linux.org](https://linux.org/), [Linux x Technology](https://linuxdiscord.com/), [Ezlinux](https://ezlinux.net/) or [Discord-Linux](https://discord.gg/discord-linux) - Linux Discussion / Forums
-* ⭐ **[Ventoy](https://www.ventoy.net) / [GitHub](https://github.com/ventoy/Ventoy)** - Create Bootable USB Linux Drives
+* ⭐ **[Ventoy](https://www.ventoy.net)** / [GitHub](https://github.com/ventoy/Ventoy) or [Impression](https://gitlab.com/adhami3310/Impression) - Create Bootable USB Linux Drives
 * ⭐ **[DistroSea](https://distrosea.com/)** or [JSLinux](https://bellard.org/jslinux/) - Linux Browser Emulators
 * ⭐ **[Btop](https://github.com/aristocratos/btop)**, **[pfetch](https://github.com/dylanaraps/pfetch)**, **[MangoHud](https://github.com/flightlessmango/MangoHud)**, [CPU-X](https://github.com/TheTumultuousUnicornOfDarkness/CPU-X), [vtop](https://github.com/MrRio/vtop), [neofetch](https://github.com/dylanaraps/neofetch) / [Themes](https://github.com/chick2d/neofetch-themes), [Macchina](https://github.com/Macchina-CLI/macchina) or [LM Sensors](https://github.com/lm-sensors/lm-sensors) or [s-tui](https://github.com/amanusk/s-tui) - System Info / Resource Monitors
 * [SysmonForLinux](https://github.com/Sysinternals/SysmonForLinux) - Monitor / Log System Activity
@@ -382,7 +382,7 @@ Linux Gaming Guide
 ## ▷ File Tools
 
 * 🌐 **[Linux File Backup](https://github.com/restic/others)** - File Backup App List
-* ⭐ **[Warpinator](https://github.com/linuxmint/warpinator)**, [Magic Wormhole](https://github.com/magic-wormhole/magic-wormhole), [syncthing](https://syncthing.net/), [portal](https://github.com/SpatiumPortae/portal), [Zrok](https://zrok.io/) or [Sharing](https://github.com/parvardegr/sharing) - File Sync Apps
+* ⭐ **[Warpinator](https://github.com/linuxmint/warpinator)**, [Magic Wormhole](https://github.com/magic-wormhole/magic-wormhole), [syncthing](https://syncthing.net/), [portal](https://github.com/SpatiumPortae/portal), [Zrok](https://zrok.io/), [Celeste](https://flathub.org/apps/details/com.hunterwittenborn.Celeste) / [2](https://snapcraft.io/celeste) or [Sharing](https://github.com/parvardegr/sharing) - File Sync Apps
 * ⭐ **[Baobab](https://gitlab.gnome.org/GNOME/baobab)** - Disk Usage Analyzer
 * [ANGRYsearch](https://github.com/DoTheEvo/ANGRYsearch), [CatCLI](https://github.com/deadc0de6/catcli), [xplr](https://xplr.dev/) / [GitHub](https://github.com/sayanarijit/xplr) / [Discord](https://discord.com/invite/JmasSPCcz3), [logo-ls](https://github.com/Yash-Handa/logo-ls), [ugrep](https://ugrep.com) / [GitHub](https://github.com/Genivia/ugrep) or [Achoz](https://github.com/kcubeterm/achoz) - File Explorers
 * [Collector](https://mijorus.it/projects/collector/) - File Drag & Drop
@@ -427,7 +427,7 @@ Linux Gaming Guide
 * [hush](https://github.com/hush-shell/hush) - Unix Shell
 * [Extension Manager](https://mattjakeman.com/apps/extension-manager) - GNOME Shell Extensions 
 * [Distrobox](https://distrobox.it/) - Use Distros via Terminal
-* [htop](https://htop.dev/) - Interactive Process Viewer / [GitHub](https://github.com/htop-dev/htop)
+* [htop](https://htop.dev/) or [Zenith](https://github.com/bvaisvil/zenith) - Interactive Process Viewers
 * [eza](https://eza.rocks/) - Modern ls replacement
 * [explainshell.com](https://explainshell.com/) - Match Command-Line Arguments to Help Text
 * [PowerShell](https://github.com/powershell/powershell) - PowerShell
@@ -530,6 +530,7 @@ Linux Gaming Guide
 * [Link Unshortener](https://underpassapp.com/LinkUnshortener/) - Unshorten Links
 * [Aiko](https://sindresorhus.com/aiko) - Audio Transcription
 * [Drafts](https://getdrafts.com/), [CotEditor](https://coteditor.com/), [TextMate](https://macromates.com/), [Nebo](https://apps.apple.com/us/app/nebo-notes-pdf-annotations/id1119601770), [Kyun](https://github.com/file-acomplaint/kyun), [FSNotes](https://fsnot.es/), [Notenik](https://notenik.app/) or [Voodoopad](https://www.voodoopad.com/) - Text Editors / Notes
+* [Agenda](https://agenda.com/) - Mac Notes Organizer / [Forum](https://agenda.community/)
 * [Taskpaper](https://www.taskpaper.com/) - To-Do Apps
 * [Stroke](https://stroke.lllllllllllllllll.com/) - Text (You Can't Delete) Editor
 * [BibDesk](https://bibdesk.sourceforge.io/) - Bibliography Manager
