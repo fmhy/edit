@@ -8727,11 +8727,11 @@ Sonarr/Radarr/Lidarr autosearch
 * [inkscape](https://inkscape.org/) - Drawing / Sketching
 * [Inkdo](https://www.microsoft.com/en-us/p/inkodo/9nblggh4s50q) - Drawing / Sketching
 * [Sketch Toy](https://www.sketchtoy.com/) - Drawing / Sketching
-* [Sketchbook](https://www.sketchbook.com/) - Drawing / Sketching
 * [Webchemy](https://webchemy.org/) - Drawing / Sketching
 * [tldraw](https://www.tldraw.com/) - Drawing / Sketching
 * [Ok! So](https://okso.app/) - Drawing / Sketching
 * [Sketchpad](https://sketchpad.app/), [2](https://sketch.io/sketchpad) - Drawing / Sketching
+* [Sketchbook](https://www.sketchbook.com/) - Drawing / Sketching / Mobile Only
 * [Concepts](https://concepts.app/) - Drawing / Sketching
 * [Excalidraw](https://excalidraw.com/) - Drawing / Sketching
 * [Aggie.io](https://aggie.io/), [Magma](https://magma.com/index), [HelloPaint](https://hellopaint.io/), [DrawPile](https://drawpile.net/), [LockDraw](https://www.skycow.us/), [World Draw](https://world-draw.appspot.com/draw) or [malmal](https://malmal.io/) - Collaborative Drawing
@@ -9122,7 +9122,7 @@ Sonarr/Radarr/Lidarr autosearch
 * [fSpy](https://fspy.io/) - Still Image Camera Matching
 * [GlanceBack](https://glanceback.info/) - Daily Webcam Photo Journal
 * [Image Color Summarizer](http://mkweb.bcgsc.ca/color-summarizer/) - Image Color Summarizer
-* [Image Comparison Tool](https://jklgit.github.io/Image-Comparison-in-Browser/index.html) - Compare Images
+* [odiff](https://github.com/dmtrKovalenko/odiff) or [Image Comparison Tool](https://jklgit.github.io/Image-Comparison-in-Browser/index.html) - Image Differences / Comparisons
 * [FontAwesomePS](http://creativedo.co/FontAwesomePS) - Photoshop Icon Manager
 * [Adobe Bridge](https://adobe.com/products/bridge.html) - Adobe Assets Manager
 * [Image Colors](https://franciscouzo.github.io/image_colors/) - Image Color Scatter Plot 
