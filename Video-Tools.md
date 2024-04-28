@@ -6,7 +6,7 @@
 
 # ► Video Tools
 
-* ⭐ **[PixVerse](https://pixverse.ai/)** / [Discord](https://discord.com/invite/MXHErdJHMg) or [Stable Diffusion Videos](https://github.com/nateraw/stable-diffusion-videos) - AI Video Generators
+* ⭐ **[PixVerse](https://pixverse.ai/)** / [Discord](https://discord.com/invite/MXHErdJHMg), [StableVideo](https://www.stablevideo.com/) or [Stable Diffusion Videos](https://github.com/nateraw/stable-diffusion-videos) - AI Video Generators
 * ⭐ **[Waifu2x GUI](https://github.com/AaronFeng753/Waifu2x-Extension-GUI)**,[Video2x](https://github.com/k4yt3x/video2x), [Enhancr](https://github.com/mafiosnik777/enhancr), [Dandere2x](https://github.com/akai-katto/dandere2x) - Video Upscalers
 * ⭐ **[PlayPhrase](https://playphrase.me/)**,  [clip.cafe](https://clip.cafe/), [ClipBase](https://clipbase.xyz/), [Filmot](https://filmot.com/) or [Yarn](https://yarn.co/) / [2](https://getyarn.io/) - Internet Clip Quote Search
 * [Synthesis Colab](https://github.com/camenduru/text-to-video-synthesis-colab), [text-to-video](https://text-to-video.vercel.app), [Text2Video-Zero](https://github.com/Picsart-AI-Research/Text2Video-Zero), [LensGo](https://lensgo.ai/), [Pika Labs](https://www.pika.art/) or [Damo](https://huggingface.co/spaces/damo-vilab/modelscope-text-to-video-synthesis) - Text to Video AIs
