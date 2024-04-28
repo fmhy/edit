@@ -134,7 +134,7 @@
 * 🌐 **[Wotaku](https://wotaku.moe/)** - Japanese Piracy Index
 * 🌐 **[The Index](https://theindex.moe)** - Japanese Piracy Index / [Discord](https://discord.gg/Snackbox) / [Wiki](https://thewiki.moe/)
 * 🌐 **[EverythingMoe](https://everythingmoe.com/)** - Japanese Piracy Index / [Discord](https://discord.gg/GuueaDgKdS)
-* ⭐ **[AniWave](https://aniwave.to/)** or [Anix](https://anix.to/), [2](https://animesuge.to/), [3](https://gogoanimex.to/home) - Sub / Dub / 1080p / [Lite](https://lite.aniwave.to)
+* ⭐ **[AniWave](https://aniwave.to/)** or [Anix](https://anix.to/), [2](https://animesuge.to/), [3](https://gogoanimex.to/home), [4](https://zoroxtv.to/) - Sub / Dub / 1080p / [Lite](https://lite.aniwave.to)
 * ⭐ **[KickAssAnime](https://kickassanime.mx/)** - Sub / Dub / 1080p / [Mirrors](https://kickassanimes.info/) / [Discord](https://discord.gg/qduzrvTG6p)
 * ⭐ **[HiAnime](https://hianime.to/)**, [2](https://4anime.gg/), [3](https://kaido.to/), [4](https://9animetv.to/), [5](https://anicrush.to/) - Sub / Dub / 1080p / [Auto-Focus](https://greasyfork.org/en/scripts/464019) / [Discord](https://discord.gg/hianime)
 * ⭐ **[AnimePahe](https://animepahe.ru/)** - Sub / 1080p / [Downloader](https://github.com/KevCui/animepahe-dl)
@@ -514,7 +514,7 @@
 
 * ↪️ **[General DDL Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/download)**
 * ↪️ **[Video Download Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video-tools#wiki_.25BA_video_download)**
-* ⭐ **[OlaMovies](https://olamovies.icu/)** - Movies / TV / 4K / 1080p / [Telegram](https://telegram.me/olamovies_officialv5)
+* ⭐ **[OlaMovies](https://olamovies.icu/)** - Movies / TV / 4K / 1080p
 * ⭐ **[Pahe](https://pahe.ink/)** - Movies / TV / Anime / 4K / [Discord](https://discord.gg/4AvaCsd2J4)
 * ⭐ **[PSARips](https://psa.wf/)** - Movies / TV / 4K
 * ⭐ **[LightDLMovies](https://lightdl.xyz/)**, [2](https://lightdlmovies.blogspot.com/) - Movies / TV / 1080p
@@ -578,6 +578,7 @@
 
 ## ▷ Drives / Directories 
 
+* ⭐ **[Vadapav](https://vadapav.mov/)** - Movies / TV / Anime
 * ⭐ **[moo](https://rentry.co/FMHYBase64#moo)** - Movies / TV
 * ⭐ **[Media](https://rentry.co/FMHYBase64#media)** - Movies / TV / Anime
 * [188.165.227.112](https://rentry.co/FMHYBase64#188165227112) - Movies / TV
@@ -725,7 +726,7 @@ Sonarr/Radarr/Lidarr autosearch
 * ⭐ **[MyAnimeList](https://myanimelist.net/)** - Anime
 * ⭐ **MAL Tools** - [Redesign](https://hritikvaishnav.github.io/Project-Redesign/public/mal.html) / [Extension](https://anime.plus/) / [Scripts](https://myanimelist.net/forum/?topicid=1849731) / [Badges](https://www.mal-badges.com/) / [Search Helper](https://greasyfork.org/en/scripts/429784) / [Hide Seen](https://greasyfork.org/en/scripts/17961) / [Export](https://malscraper.azurewebsites.net/) / [Site Sync](https://malsync.moe/) / [MALSync Discord](https://discord.com/invite/cTH4yaw) / [API](https://jikan.moe/)
 * ⭐ **[AniList](https://anilist.co/)** - Anime
-* ⭐ **AniList Tools** - [Desktop](https://github.com/CosmicPredator/AniMoe) / [Wrapper](https://github.com/AurelicButter/AniList-Node) / [Extras](https://greasyfork.org/en/scripts/370473-automail) / [MPV Sync](https://github.com/hotsno/keroro)
+* ⭐ **AniList Tools** - [Desktop](https://github.com/CosmicPredator/AniMoe) / [Wrapper](https://github.com/AurelicButter/AniList-Node) / [Extras](https://greasyfork.org/en/scripts/370473-automail) / [MPV Sync](https://github.com/hotsno/keroro) / [Discord](https://discord.com/invite/TF428cr)
 * ⭐ **[Simkl](https://simkl.com/)** - TV / Anime / Movies / [Apps](https://simkl.com/apps/) / [Import Tools](https://simkl.com/apps/import/)
 * ⭐ **[/r/ifyoulikeblank](https://www.reddit.com/r/ifyoulikeblank/)** - Movie, TV & Anime Recommendations
 * ⭐ **[TasteDive](https://tastedive.com/)** - Recommendations
@@ -775,6 +776,7 @@ Sonarr/Radarr/Lidarr autosearch
 * [Movie-Map](https://www.movie-map.com/) - Movie Recommendations
 * [GNOD](https://www.gnod.com/) - Movie Recommendations
 * [MovieLens](https://movielens.org/) - Movie Recommendations
+* [LikeWise](https://likewise.com/) - Movie Recommendations
 * [Suggest Me Movie](https://www.suggestmemovie.com/) - Movie Recommendations
 * [agoodmovietowatch](https://agoodmovietowatch.com/) - Movie Recommendations
 * [/r/MovieSuggestions](https://www.reddit.com/r/MovieSuggestions/) - Movie Recommendations
@@ -893,14 +895,14 @@ Sonarr/Radarr/Lidarr autosearch
 * ↪️ **[Media Posters / Covers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_covers_.2F_posters)**
 * ↪️ **[Media Soundtracks](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/audio#wiki_.25BA_media_soundtracks)**
 * ↪️ **[File Data Automation](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/file-tools#wiki_.25B7_data_automation)**
+* ⭐ **[FastStream](https://github.com/Andrews54757/FastStream/)** - Fragmentation Streaming Extension
 * ⭐ **[OpenVideo](https://openvideofs.github.io)** or [Stream-Bypass](https://github.com/ByteDream/stream-bypass) - Use Streaming Sites in Ad Free Player w/ subs, Speed Control & More
-* ⭐ **[RunPee](https://runpee.com/)** - Best Movie Break Times
 * ⭐ **[WhereYouWatch](https://whereyouwatch.com/latest-reports/)**, [Movie Updates](https://play.google.com/store/apps/details?id=com.tashila.movieupdates) or [/r/movieleaks](https://reddit.com/r/movieleaks) - Movie Leak Notifications
 * ⭐ **[Quality / Release Type Guide](https://www.reddit.com/r/Piracy/wiki/guides/video_quality_and_types_of_releases)** - Video Quality / Release Type Guide / [Streaming Site Guide](https://redd.it/yykvnv)
 * ⭐ **[Release Group Qualities](https://docs.google.com/spreadsheets/u/0/d/1xz5zqrBumfMtLGA4VMt1VtOyh-47HDTv_swIYktX6AQ/htmlview)** - Movie / TV Release Group Quality Indexes
 * [Media Stack DIY](http://tennojim.xyz/article/media_stack_diy) - High Quality Streaming Guide
 * [/r/SceneReleases](https://www.reddit.com/r/SceneReleases/) - Untouched Scene Release Tracker
-* [FastStream](https://github.com/Andrews54757/FastStream/) - Fragmentation Streaming Extension
+* [RunPee](https://runpee.com/) - Best Movie Break Times
 * [HowDoesTheMovieEnd](http://www.howdoesthemovieend.com/), [MoviePooper](https://moviepooper.com/), [themoviespoiler](https://themoviespoiler.com/) or [DoesTheDogDie](https://www.doesthedogdie.com/) - Movie Spoilers
 * [WheresTheJump?](https://wheresthejump.com/) - Find Movie Jump Scares
 * [DMT](https://dmtalkies.com/) - Movies / TV Ending Explanations and Recaps
