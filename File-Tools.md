@@ -42,7 +42,7 @@
 
 * ⭐ **[JDownloader](https://jdownloader.org/jdownloader2)** - Download Manager / [Debloat](https://rentry.org/jdownloader2) / [Captcha Solver](https://github.com/cracker0dks/CaptchaSolver) / [Dark Theme](https://redd.it/q3xrgj) / [Dracula Theme](https://draculatheme.com/jdownloader2)
 * ⭐ **[XDM](https://xtremedownloadmanager.com/)** - Download Manager / [GitHub](https://github.com/subhra74/xdm) 
-* ⭐ **[Motrix](https://www.motrix.app/)** - Download Manager / [Web Extensions](https://github.com/gautamkrishnar/motrix-webextension/) / [GitHub](https://github.com/agalwood/Motrix)
+* ⭐ **[Motrix](https://www.motrix.app/)** - Download Manager / [GitHub](https://github.com/agalwood/Motrix)
 * ⭐ **[Gopeed](https://gopeed.com/)** - Download Manager / [GitHub](https://github.com/GopeedLab/gopeed) / [Extension](https://github.com/GopeedLab/browser-extension) / [Plugins](https://github.com/search?q=topic%3Agopeed-extension&type=repositories)
 * [aria2](https://aria2.github.io/) - Terminal Download Manager / [Screenshot](https://i.ibb.co/SmsxmW3/3e213c54b148.png) / [GitHub](https://github.com/aria2/aria2) / [Download Bot](https://github.com/gaowanliang/DownloadBot) / [GUI](https://github.com/persepolisdm/persepolis) / [Frontend](https://ariang.mayswind.net/) / [WebUI](https://github.com/ziahamza/webui-aria2) / [GUI](https://persepolisdm.github.io/)
 * [IDM](https://rentry.co/FMHYBase64#idm) - Download Manager
@@ -59,7 +59,7 @@
 ## ▷ File Archivers
 
 * 🌐 **[SuperCompression](https://supercompression.org/)** - File Compression Resources
-* ⭐ **[7-Zip](https://www.7-zip.org/)** / [Colab](https://github.com/dropcreations/7zip-in-Google-Colab) / [Dark Mode](https://github.com/huanrenfeng/7zipDarkmode) / [Benchmarks](https://s1.hoffart.de/7zip-bench/) / [Additional Codecs](https://github.com/mcmilk/7-Zip-zstd) - File Archiver
+* ⭐ **[7-Zip](https://www.7-zip.org/)** / [Colab](https://github.com/dropcreations/7zip-in-Google-Colab) / [Benchmarks](https://s1.hoffart.de/7zip-bench/) / [Additional Codecs](https://github.com/mcmilk/7-Zip-zstd) - File Archiver
 * ⭐ **[NanaZip](https://github.com/M2Team/NanaZip)** - File Archiver
 * ⭐ **[PeaZip](https://peazip.github.io/)** - Cross Platform File Archiver
 * [Fileforums](https://fileforums.com/) or [Encode](https://encode.su/) - Data Compression Forums
@@ -241,7 +241,7 @@
 ## ▷ PDF Tools
 
 * ⭐ **[Sejda](https://www.sejda.com/)**, [ILovePDF](https://www.ilovepdf.com/), [DigiPDF](https://digipdf.app/?lang=en_US), [PDF2Go](https://www.pdf2go.com/) or [SimplePDF](https://simplepdf.eu/) - Online PDF Toolkits
-* ⭐ **[PDFGear](https://www.pdfgear.com/)**, [xPDFReader](https://www.xpdfreader.com/), [PDF Arranger](https://github.com/pdfarranger/pdfarranger), [PrivatePDF](https://photown.github.io/private-pdf/), [PDFBox](https://pdfbox.apache.org/) or [OpenPDF](https://github.com/LibrePDF/OpenPDF) - PDF Editors / Toolkits
+* ⭐ **[PDFGear](https://www.pdfgear.com/)**, **[PDF24](https://www.pdf24.org/)**, [xPDFReader](https://www.xpdfreader.com/), [PDF Arranger](https://github.com/pdfarranger/pdfarranger), [PrivatePDF](https://photown.github.io/private-pdf/), [PDFBox](https://pdfbox.apache.org/) or [OpenPDF](https://github.com/LibrePDF/OpenPDF) - Offline PDF Toolkits
 * [PDFGrep](https://pdfgrep.org/) - PDF Text Search
 * [View-only PDF](https://rentry.co/cm4b7) - Download View-Only PDF on GDrive
 * [online2pdf](https://online2pdf.com/) or [2PDFConverter](https://www.2pdfconverter.com/) - Convert Files to PDF
