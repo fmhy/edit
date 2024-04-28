@@ -36,7 +36,6 @@
 * MainRepo / MRepo - Caught with [malware](https://rentry.co/zu3i6) / Note that Magisk Module MRepo is unrelated 
 * YASDL - Uploaded versions of stardock / jetbrains with malware
 * AllPCWorld - Uploaded KMS Matrix which is known malware
-* RSLOAD - Uploaded the same version of malwarebytes that got FileCR in trouble
 * AppValley / TutuBox / Ignition - History of [ddos attacks](https://github.com/nbats/FMHYedit/pull/307)
 * CNET / Download.com / ZDNET - History of [adware](https://www.reddit.com/r/software/comments/9s7wyb/whats_the_deal_with_sites_like_cnet_softonic_and/e8mtye9/)
 
