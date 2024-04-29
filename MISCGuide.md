@@ -1196,6 +1196,7 @@
 * [Incredibox](https://www.incredibox.com/demo/) - Make Beatboxing Beats
 * [bongo.cat](https://bongo.cat/) - Become Bongo Cat
 * [SND](https://s-n-d.si/) - Strange Scrollable Story
+* [Short Trip](https://alexanderperrin.com.au/paper/shorttrip/) - Relaxing Cat Game
 * [Draw a Stickman](https://drawastickman.com/) - Stickman Adventure
 * [Wonder of Wonder Art](https://aidn.jp/wowa/) - Create a Dancing Character
 * [Emotiguy](https://testing.duckwithsunglasses.com/emotiweb/) - Edit Emotiguy
