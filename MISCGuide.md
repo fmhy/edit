@@ -1275,6 +1275,7 @@
 * [info.cern](https://info.cern.ch/) - First Website on the Internet
 * [Pointless Sites](https://www.pointlesssites.com/) - Pointless Site Index
 * [Websites From Hell](https://websitesfromhell.net/) - Shitty Website Index
+* [Dog Breed AI](https://www.whatbreedismydog.com) - Dog Breed Detector
 
 ***
 
