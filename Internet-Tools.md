@@ -13,6 +13,7 @@
 * [deploy-your-own-saas](https://github.com/Atarity/deploy-your-own-saas) - Self-Hosted Cloud Services
 * [Namechk](https://namechk.com/), [NameCheckr](https://www.namecheckr.com/) or [IUS](https://instantusername.com/) - Check Username Availability
 * [SiteExplainer](https://www.siteexplainer.com/) - AI Site Explanations
+* [Calculator](https://goldratestoday.net/gold-calculator/) - A Caculator For Gold Investors
 * [BugMeNot](https://bugmenot.com/), [FreeAccount](https://freeaccount.biz/) or [Password Login](https://password-login.com/) - Access & Share Throwaway Accounts / [Extension](https://github.com/vantezzen/dontbugme)
 * [byp4xx](https://github.com/lobuhi/byp4xx) - Bypass "403 Forbidden" Messages 
 * [Slideshow-Deslidefier](https://deslide.clusterfake.net/) - View Slideshows All At Once
