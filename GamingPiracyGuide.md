@@ -1082,8 +1082,6 @@
 * [Startup Simulator](https://toggl.com/startup-simulator/) - Startup Simulation Game
 * [Friday Night Funkin](https://ninja-muffin24.itch.io/funkin) or [Bemuse](https://bemuse.ninja/) - Rhythm Game / [Prototype](https://ninja-muffin24.itch.io/friday-night-funkin)
 * [Pulsus](https://www.pulsus.cc/play/) - 3x3 Tile Board Rhythm Game
-* [Amazeworld](https://www.amazeworld.com/) - Interactive Webmazes
-* [Short Trip](https://alexanderperrin.com.au/paper/shorttrip/) - Relaxing Cat Game
 * [Raptjs](https://madebyevan.com/rapt/) or [Synesthesia in Space](http://synesthesiagame.com/) - Puzzle Platformer
 * [Tales of Dorime](https://dorime.udany.net/) - 2D Platformer
 * [PrinceJS](https://princejs.com/) - Prince of Persia
@@ -1145,7 +1143,7 @@
 * [Foony](https://foony.com/)
 * [Tensor Trust](https://tensortrust.ai/) - AI Prompting Multiplayer Skill Game
 * [Venge](https://venge.io/), [kour.io](https://kour.io/), [LolShot](https://lolshot.io/) or [ShellShock](https://www.shellshock.io/) - PvP FPS
-* [Bruh.io](https://bruh.io/), [2](https://play.bruh.io/) or [Bit Heroes Arena](https://bitheroesarena.io/) - Top-Down Battle Royal
+* [Bit Heroes Arena](https://bitheroesarena.io/) - Top-Down Battle Royal
 * [ZombsRoyale.io](https://zombsroyale.io/) - Zombie Battle Royale 
 * [Yohoho.io](https://www.yohoho.io/) - Pirate Battle Royale
 * [1v1.LOL](https://1v1.lol/) - 1v1 Building / Battle Sim
@@ -1156,29 +1154,24 @@
 * [Smash Karts](https://smashkarts.io/) - Kart Battles
 * [Death by AI](https://deathbyai.gg/) - Survival Plan Game
 * [Gpop.io](https://gpop.io/) - Rhythm Game
-* [Curve Fever](https://curvefever.pro/) - Line Battles
 * [LOLBeans](https://lolbeans.io/) - Fall Guys Clone
 * [Betrayal](https://betrayal.io/) - Among Us Clone
 * [Yume Nikki Online Project](https://ynoproject.net/) - Multiplayer Yume Nikki / [Discord](https://discord.com/invite/fRG3AxUeKN)
-* [TownOfSalem2](https://www.townofsalem2.com) - Role-Based Mystery-Solving MMO
 * [Slither.io](http://slither.io/) or [worm.is](https://store.steampowered.com/app/466910/Wormis_The_Game/) - Grow the Longest Worm
-* [diep.io](https://diep.io/) or [Scenexe.io](https://scenexe.io/) - Become the Strongest Tank 
 * [Hexar.io](http://www.hexar.io/), [splix.io](https://splix.io/) or [paper-io](https://paper-io.com/) - Control the Map 
-* [mitos.is](https://store.steampowered.com/app/389570/Mitosis_The_Game/) - Become the Biggest Cell 
 * [agar.io](https://agar.io/) - Become the Biggest Circle 
 * [Hole.io](https://hole-io.com/) - Become the Biggest Hole / [Discord](https://discord.gg/UA2HdpT) 
 * [Tanki](https://tankionline.com/) - Online Team VS Team Tank Game
 * [Plink](http://labs.dinahmoe.com/plink/) - Music Game
 * [Make It Meme](https://makeitmeme.com/) - Meme Party Game
 * [Rooms](https://rooms.xyz/) - Room Design Game / [Discord](https://discord.gg/rooms)
-* [Fishington](https://fishington.io/) or [fsh.zone](https://fsh.zone/) / [Discord](https://discord.com/invite/FKEzJSf) - Fishing Games
+* [fsh.zone](https://fsh.zone/) / [Discord](https://discord.com/invite/FKEzJSf) - Fishing Games
 * [Too Many Chefs](https://www.toomanychefs.party/) - Text-Based Coop Cooking Game 
 * [Haxball](https://www.haxball.com/) - Physics-Based Soccer
-* [Powerline.io](https://powerline.io/) or [Games 1729](https://www.games1729.com/serpentron/) - Snake
+* [Powerline.io](https://powerline.io/) - Snake
 * [Bonk](https://bonk.io/) - Multiplayer Physics Game
-* [GPRO](https://www.gpro.net/gb/gpro.asp) - F1 Manager Game
 * [Miniconomy](https://www.miniconomy.com/) - Economy Game
-* [tix.tax](https://tix.tax/) or [PlayTicTacToe](https://playtictactoe.org/) - Tic-Tac-Toe
+* [tix.tax](https://tix.tax/) - Tic-Tac-Toe
 
 ***
 
@@ -1218,10 +1211,7 @@
 * [The Kilobyte’s Gambit](https://vole.wtf/kilobytes-gambit/) - 1k Chess Game
 * [Kung Fu Chess](https://www.kfchess.com/) - Real-Time Chess w/o Turns
 * [PokemonChess](https://pokemonchess.com/) - Pokemon Style Chess / [Discord](https://discord.gg/fp5bcCqg8q)
-* [Real Board](https://github.com/karayaman/lichess-with-a-real-board) - Play Lichess w/ Real Chess Board
-* [Gambit](https://github.com/maaslalani/gambit) - Linux Terminal Chess
 * [Laser](https://playlaser.xyz/) - Alt Style Chess
-* [Star Wars Chess](https://archive.org/details/msdos_Star_Wars_Chess_1993) - Star Wars Style Chess / [Manual](https://archive.org/details/star-wars-chess-manual/)
 * [lichess4545](https://www.lichess4545.com/) - Lichess Leagues
 * [Chess Monitor](https://www.chessmonitor.com/) - Track Chess Analytics
 * [2700chess](https://2700chess.com/) - Live Chess Player Ratings
@@ -1230,10 +1220,7 @@
 * [Bill Wall's Chess Page](http://billwall.phpwebhosting.com/) or [365Chess](https://www.365chess.com/) - Chess History / Lessons
 * [Chessable](https://www.chessable.com/ ) or [Chess Factor](https://www.chessfactor.com/) - Chess Courses
 * [Chess Base](https://chessbase.in/) / [2](https://en.chessbase.com/) - Indian Chess News
-* [ChessProgramming](https://www.chessprogramming.org/) - Chess Programming Wiki
-* [/r/Checkers](https://www.reddit.com/r/checkers/) - Checkers Subreddit
-* [Fly or Die](https://www.flyordie.com/checkers/) or [Lidraughts](https://lidraughts.org/) - Multiplayer Checkers
-* [Bloob Checkers](https://bloob.io/checkers) - 4 Player Checkers
+* [Lidraughts](https://lidraughts.org/) - Multiplayer Checkers
 
 ***
 
@@ -1262,19 +1249,13 @@
 * [Treksit](https://treksit.com/), [Game about Squares](http://gameaboutsquares.com/) or [Orion](https://orion.lukasbach.com/) - Puzzle Game
 * [Euclidea](https://www.euclidea.xyz/) - Geometric Puzzles
 * [Pixel Puzzler](https://pixel-puzzler.playcurious.games/) - Block Puzzle
-* [Menneske](https://www.menneske.no/eng/) - Number Puzzles
-* [Emozle](https://emozle.com/) - Emoji Puzzle
 * [Sudoku XV](https://keeri.place/sudoku-xv) - Sudoku
 * [Nerdle](https://nerdlegame.com/) - Number Guessing Game
 * [Cinenerdle2](https://www.cinenerdle2.app/) - Movie Puzzle
 * [picture dots](https://www.picturedots.com/) - Make & Play Dot Puzzles
-* [babble.xyz](https://babbl.xyz/) - Infinite Scrabble
-* [Dadagrams](https://dadagrams.com/) - Daily Scrabble vs Dad
 * [MakeAWordSearch](http://www.makeawordsearch.net/) - Word Search Creator
 * [RobinWords](https://www.robinwords.com/) - Word Ladder Game
-* [Divergent Association Task](https://www.datcreativity.com/task) - Unrelated Word Game
 * [Oh, My Dots!](https://www.ohmydots.com/) - Connect the Dots Game
-* [Click Click Click](https://clickclickclick.click/) - Clicking Puzzle
 * [MazeGenerator](https://www.mazegenerator.net/) or [Maze](https://www.epgsoft.com/maze/) - Maze Generators
 
 ***
@@ -1285,7 +1266,6 @@
 * ⭐ **[Cookie Clicker](https://orteil.dashnet.org/cookieclicker/) / [2](https://orteil.dashnet.org/experiments/cookie/)** - Incremental Cookie Game
 * ⭐ **Cookie Clicker Tools** - [Multiple Tools](https://github.com/CookieMonsterTeam/CookieMonster) / [Calculator](https://coderpatsy.bitbucket.io/cookies/cookies.html) / [Discord](https://discord.com/invite/cookie)
 * [MousePoint](https://creativetechguy.com/mousepoint) - Incremental Mouse Movement Game
-* [The Monolith](http://monolith.greenpixel.ca/) - Incremental RPG
 * [BitBurner](https://bitburner-official.github.io/) - Incremental RPG
 * [Particle Clicker](https://particle-clicker.web.cern.ch/) - Incremental Particle Physics Games
 * [KittensGame](https://kittensgame.com/web/) - Incremental Kitten Maker
@@ -1293,7 +1273,6 @@
 * [WarClicks](https://warclicks.com/) - Incremental War Game
 * [Goblin Bet](https://goblin.bet/) - Bet on 1v1 Monster Fights
 * [The First Alkahistorian](https://nagshell.github.io/elemental-inception-incremental/) - Incremental Elemental Game
-* [Merry Clickmas](https://www.digitalchestnut.com/merryclickmas/) - Incremental Present Maker
 * [FactoryIdle](https://factoryidle.com/) - Factory Idle Sim
 * [Idlescape](https://www.play.idlescape.com/) - Idle MMORPG
 * [ProgressQuest](http://progressquest.com/) - Idle RPG
