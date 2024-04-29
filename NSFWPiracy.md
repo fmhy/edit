@@ -176,7 +176,8 @@
 * [AdultDVDTalk](https://www.adultdvdtalk.com/)
 * [jdc](https://discord.gg/jdc) - Asian Porn Discord
 * [SEGNECK](https://discord.gg/jP5BHAUbeu) - Asian Porn Discord
-  
+* [bdsmlr](https://bdsmlr.com/) - NSFW Tumblr Alternative
+ 
 ***
 
 ## ▷ Torrents
