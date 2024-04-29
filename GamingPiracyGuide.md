@@ -868,10 +868,10 @@
 
 ## ▷ Counter-Strike Tools
 
+* ⭐ **[HLTV](https://www.hltv.org/)** - Counter-Strike News
 * ⭐ **[CsWarzOnE](https://cswarzone.com/)** - Counter-Strike Downloads
 * [CSGO Trader](https://csgotrader.app/) - CS:GO Trading Enhancements
 * [ArminC-AutoExec](https://github.com/ArmynC/ArminC-AutoExec) - ArminC's CS2 Config
-* [HLTV](https://www.hltv.org/) - Counter-Strike Leaderboards
 * [CS2 Browser](https://cs2browser.com/) - Counter-Strike 2 Server Browser
 * [Faceit](https://www.faceit.com/) - Matchmaking Client
 * [Faceit Finder](https://faceitfinder.com/) - Faceit Account Finder
@@ -1032,20 +1032,35 @@
 
 # ► Browser Games
 
-* 🌐 **[Browser Games Rentry](https://rentry.org/zn79z)** - Browser Game Site Index
-* 🌐 **[Discord Games Lab](https://discord.gg/discordgameslab)** - Discord Games
-* 🌐 **[chat-gpt-games](https://github.com/AdmTal/chat-gpt-games)** - ChatGPT Games / [/r/ChatGPTGaming/](https://www.reddit.com/r/ChatGPTGaming/)
-* 🌐 **[Flashpoint](https://flashpointarchive.org/)** / [Discord](https://discord.gg/Z4gGtJvvn8) or [Flash Library](https://rentry.co/FMHYBase64#software-library-flash) - Flash Game Archives 
 * ↪️ **[Interactive Text Adventures](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_text_adventures)**
-* ⭐ **[Newgrounds](https://www.newgrounds.com/games)** - Browser Games
-* ⭐ **[Ninjakiwi](https://ninjakiwi.com/archive)** - Bloons / Multiplayer / Steam Needed
-* ⭐ **[Line Rider](https://www.linerider.com/)** - Draw Sled Tracks
+* ⭐ **[Flashpoint](https://flashpointarchive.org/)** / [Discord](https://discord.gg/Z4gGtJvvn8) or [Flash Library](https://rentry.co/FMHYBase64#software-library-flash) - Flash Game Archives 
+* ⭐ **[Ninjakiwi](https://ninjakiwi.com/archive)** - Flash Game Archives
 * ⭐ **[Allchemy](https://allchemy.io/)** or [Infinite Craft](https://neal.fun/infinite-craft/) - Infinite Item Crafting Games
-* ⭐ **[QWOP](https://www.foddy.net/Athletics.html)** - Ragdoll Running Game
-* ⭐ **[Play-CS](https://play-cs.com/)** - Browser Counter-Strike 1.6
 * ⭐ **[Free Rice](https://freerice.com/)** - Earn Rice for the World Food Programme
+* [Tensor Trust](https://tensortrust.ai/) - AI Prompting Multiplayer Skill Game
+* [Rooms](https://rooms.xyz/) - Room Design Game / [Discord](https://discord.gg/rooms)
+* [fsh.zone](https://fsh.zone/) / [Discord](https://discord.com/invite/FKEzJSf) - Fishing Games
+* [Haxball](https://www.haxball.com/) - Physics-Based Soccer
+* [Mexican Train](https://mexicantrain.online/) - Domino Train Game
+* [ConnectTheStars](https://connectthestars.xyz/) or [Movie To Movie](https://movietomovie.com/) - Connect Stars through Movies
+* [The Wiki Game](https://www.thewikigame.com/), [Six Degrees of Wikipedia](https://www.sixdegreesofwikipedia.com/) or [WikiRacer](https://wikiracer.io/) - Wiki Exploration Games / [Automation Tool](https://gitlab.com/johanbluecreek/wikiracer)
+* [Minecraft Classic](https://classic.minecraft.net/) - Play Minecraft Classic
+* [racing-game](https://racing.pmnd.rs/) - Driving Game / [GitHub](https://github.com/pmndrs/racing-game) / [Discord](https://discord.gg/dQW7fDmaAG)
+* [slow roads](https://slowroads.io/) - Driving Game
+* [The Multiverse](https://across-multiverse.com/) - Universe Exploration Game Across
+* [Neopets](https://www.neopets.com/), [tamaNOTchi](https://tamanotchi.world/) or [Marapets](https://www.marapets.com) - Virtual Pet Game 
+* [Gaia Online](https://www.gaiaonline.com/) - Anime Virtual Pet 
+* [Edu-Games](https://www.edu-games.org/) - Educational Games
+
+***
+
+## ▷ Multi-Game Sites
+
+* 🌐 **[Browser Games Rentry](https://rentry.org/zn79z)** - Browser Game Site Index
+* ⭐ **[itch.io web games](https://itch.io/games/free/platform-web)** - Browser Games
+* ⭐ **[Newgrounds](https://www.newgrounds.com/games)** - Browser Games
+* ⭐ **[Armor Games](https://armorgames.com/)** - Browser Games
 * [/r/WebGames](https://reddit.com/r/WebGames) - Browser Games Subreddit
-* [Armor Games](https://armorgames.com/) - Browser Games
 * [Kongregate](https://www.kongregate.com/) - Browser Games
 * [Addicting Games](https://www.addictinggames.com/) - Browser Games
 * [Y8](https://www.y8.com/) - Browser Games
@@ -1065,113 +1080,113 @@
 * [Arcade Prehacks](https://www.arcadeprehacks.com/), [SamsHackedGames](https://www.samshackedgames.com/) or [KongHack](https://konghack.com/) - Flash Game Hacks
 * [HTML5 Games](https://html5games.com/) / [Browser](https://html5.thebestarcadescript.com/) - HTML5 Games
 * [iogames.space](https://iogames.space/), [itch.io](https://graebor.itch.io/), [Kindanice](https://kindanice.itch.io/), [Jezzamon](https://jezzamon.itch.io/), [Modd.io](https://www.modd.io/) or [Kevin Games](https://kevin.games/)- .io Games
-* [Free Rider HD](https://www.freeriderhd.com/) - Draw / Race Bike Tracks
-* [Dynast](https://dynast.io/) - Survival Browser Game
-* [Mexican Train](https://mexicantrain.online/) - Domino Train Game
-* [Gridland](https://gridland.doublespeakgames.com/) - Grid Matching RPG
-* [Backpack Hero](https://thejaspel.itch.io/backpack-hero) - Turn-Based RPG
-* [Sans Fight](https://jcw87.github.io/c2-sans-fight/) - Undertale Fight Simulator
-* [Hacker Wars](https://hackerwars.io/) or [SlaveHack2](https://www.slavehack2.com/) - Hacking Game
-* [Flappy Bird](https://flappybird.io/) - HTML5 Flappy Bird
-* [Dino Swords](https://dinoswords.gg/) - Stay Alive by Jumping / Destroying Cacti
-* [The Circle](https://the-circle.app/) - Dodge Circles
-* [PROXX](https://proxx.app/) - A Game of Proximity
-* [Universal paperclips](https://www.decisionproblem.com/paperclips/index2.html) - A Paperclip Creation Simulator 
-* [TotalJerkFace](https://totaljerkface.com/) - Happy Wheels & Other Games
-* [ConnectTheStars](https://connectthestars.xyz/) or [Movie To Movie](https://movietomovie.com/) - Connect Stars through Movies
-* [Startup Simulator](https://toggl.com/startup-simulator/) - Startup Simulation Game
-* [Friday Night Funkin](https://ninja-muffin24.itch.io/funkin) or [Bemuse](https://bemuse.ninja/) - Rhythm Game / [Prototype](https://ninja-muffin24.itch.io/friday-night-funkin)
-* [Pulsus](https://www.pulsus.cc/play/) - 3x3 Tile Board Rhythm Game
-* [Raptjs](https://madebyevan.com/rapt/) or [Synesthesia in Space](http://synesthesiagame.com/) - Puzzle Platformer
-* [Tales of Dorime](https://dorime.udany.net/) - 2D Platformer
-* [PrinceJS](https://princejs.com/) - Prince of Persia
-* [3rd World Farmer](https://3rdworldfarmer.org/) - Farm Sim
-* [Sim CB](https://benoitessiambre.com/macro.html) - Central Bank Sim
-* [Operius](https://mors-games.itch.io/operius) - Space Shooter
-* [Orbity](https://orbity.io/game.php) - Spaceship Launching Game 
-* [The Wiki Game](https://www.thewikigame.com/), [Six Degrees of Wikipedia](https://www.sixdegreesofwikipedia.com/) or [WikiRacer](https://wikiracer.io/) - Wiki Exploration Games / [Automation Tool](https://gitlab.com/johanbluecreek/wikiracer)
-* [GeoFS](https://www.geo-fs.com/geofs.php) - Plane Simulator
-* [Ehmorris](https://ehmorris.com/lander/) - Spaceship Landing Game
-* [Money Simulator](https://simulator.money) - Money Simulator
-* [Minecraft Classic](https://classic.minecraft.net/) - Play Minecraft Classic
-* [Marble Blast Gold Web](https://marbleblast.vaniverse.io/) - Marble Blast Gold in Browser
-* [The Multiverse](https://across-multiverse.com/) - Universe Exploration Game Across
-* [The Thorp of Woodstock](https://cheerfulghost.github.io/civ-clicker/index.html) - Build a Civilization
-* [FSHistory](https://s-macke.github.io/FSHistory/) - Play Classic Flight Simulator 
-* [Magnetic Scripts](https://msmemorial.if-legends.org/msa2/msa2.html) - Magnetic Scrolls 
-* [SpaceCadetPinball](https://alula.github.io/SpaceCadetPinball) - Browser Space Cadet Pinball
-* [Neopets](https://www.neopets.com/), [tamaNOTchi](https://tamanotchi.world/) or [Marapets](https://www.marapets.com) - Virtual Pet Game 
-* [Gaia Online](https://www.gaiaonline.com/) - Anime Virtual Pet 
-* [Super Auto Pets](https://teamwood.itch.io/super-auto-pets) - Pet Battle Game
-* [CrossCode](https://www.cross-code.com/en/home), [Forumwarz](https://www.forumwarz.com/) or [Dungeon Crawl](https://crawl.develz.org/) - Browser RPG
-* [Kingdom of Loathing](https://www.kingdomofloathing.com/) or [Frasier Fantasy](https://edward-la-barbera.itch.io/frasier-fantasy) - Comedy RPG
-* [racing-game](https://racing.pmnd.rs/) - Driving Game / [GitHub](https://github.com/pmndrs/racing-game) / [Discord](https://discord.gg/dQW7fDmaAG)
-* [slow roads](https://slowroads.io/) - Driving Game
-* [JoeDangerTheGame](https://joedangerthegame.com/) - Trials Inspired Game
-* [Polka Dot Game](https://www.polkadotgame.com/) - Dodge & Eat Dots
-* [Spinner](https://hyperspace-wizard.itch.io/spinner) - Spinner Timing Game
-* [SWOOOP](https://playcanv.as/p/JtL2iqIH) - Fly a Bi-Plane around an Island 
-* [Plane Food Simulator](https://sheepandram.itch.io/pfs2021) - Plane Food Eating Game
-* [Master Archer](https://playcanv.as/p/JERg21J8/) - Archery Game 
-* [Galaxies](https://playcanv.as/p/Ikq6Uk6A/) - Space Combat Game 
-* [Orbital Survival](https://playcanv.as/p/3G3RnfUz/) - Survive Waves of UFOs 
-* [Spot the Differences](https://www.spotthedifference.com/) - Find the Differences
-* [Kuku Kube](https://kuku-kube.com/) - Find the Different Squares
-* [Alternate History Simulator](https://abw.blue/) - Write Alternate History 
-* [NationStates](https://www.nationstates.net/) - Nation Simulation Game 
-* [CandyBox](https://candybox2.github.io/) - Candy Eating Game 
-* [BTShip](https://btship.vercel.app) / [GitHub](https://github.com/hairarrow/btship) - Typescript Boat Game
-* [asciicker](https://asciicker.com/) - ASCII Browser Adventure
-* [BrantSteele](https://brantsteele.net/) or [Simublast](https://www.simublast.com/) - Game Show Simulators
-* [Shooty Ship Pumpkin Smash](https://www.thepointless.com/apps/shooty-ship-pumpkin-smash/index.html) - Shoot Pumpkins
-* [Edu-Games](https://www.edu-games.org/) - Educational Games
 
 ***
 
-## ▷ Multiplayer
+## ▷ Party Games
 
-* ⭐ **[Krunker.io](https://krunker.io/)**, [2](https://browserfps.com/) - PvP FPS / [Market Ping](https://yee.how/market-ping/)
+* ⭐ **[Codenames](https://codenames.game/)** - Party Card Games
 * ⭐ **[GarticPhone](https://garticphone.com/)** - Telephone Game
-* [skribbl](https://skribbl.io/), [Sketchful](https://sketchful.io/), [Drawize](https://www.drawize.com/) or [Gartic](https://gartic.io/) - Drawing / Guessing Game / Multiplayer
+* ⭐ **[skribbl](https://skribbl.io/)**, [Sketchful](https://sketchful.io/), [Drawize](https://www.drawize.com/) or [Gartic](https://gartic.io/) - Drawing / Guessing Game / Multiplayer
+* [Gpop.io](https://gpop.io/) - Rhythm Game
 * [Bloob.io](https://bloob.io/)
+* [Betrayal](https://betrayal.io/) - Among Us Clone
+* [Death by AI](https://deathbyai.gg/) - Survival Plan Game
+* [Smash Karts](https://smashkarts.io/) - Kart Battles
+* [Plink](http://labs.dinahmoe.com/plink/) - Music Game
+* [Make It Meme](https://makeitmeme.com/) - Meme Party Game
 * [PlayingCards](https://playingcards.io/)
-* [FlyOrDie](https://www.flyordie.com/) 
 * [JKLM.FUN](https://jklm.fun/) 
 * [Gidd.io](https://gidd.io/)
-* [Playok](https://www.playok.com/)
-* [PaperGames](https://papergames.io/)
-* [Foony](https://foony.com/)
-* [Tensor Trust](https://tensortrust.ai/) - AI Prompting Multiplayer Skill Game
-* [Venge](https://venge.io/), [kour.io](https://kour.io/), [LolShot](https://lolshot.io/) or [ShellShock](https://www.shellshock.io/) - PvP FPS
-* [Bit Heroes Arena](https://bitheroesarena.io/) - Top-Down Battle Royal
-* [ZombsRoyale.io](https://zombsroyale.io/) - Zombie Battle Royale 
-* [Yohoho.io](https://www.yohoho.io/) - Pirate Battle Royale
+* [tix.tax](https://tix.tax/) - Tic-Tac-Toe
+
+***
+  
+## ▷ Shooter
+
+* ⭐ **[Play-CS](https://play-cs.com/)** - Browser Counter-Strike 1.6
+* ⭐ **[Krunker.io](https://krunker.io/)**, [2](https://browserfps.com/) - PvP FPS / [Market Ping](https://yee.how/market-ping/)
+* [Venge](https://venge.io/) - PvP FPS
+* [kour.io](https://kour.io/) - PvP FPS
+* [LolShot](https://lolshot.io/) - PvP FPS
 * [1v1.LOL](https://1v1.lol/) - 1v1 Building / Battle Sim
+* [ShellShock](https://www.shellshock.io/) - PvP FPS
 * [MiniRoyale](https://miniroyale.io/) - Battle Royal Game
-* [Wanderers](https://wanderers.io/) - Real-Time Strategy Game
-* [TagPro](https://koalabeast.com/) - Capture the Flag
-* [Wings.io](https://wings.io/) - Plane Battles
-* [Smash Karts](https://smashkarts.io/) - Kart Battles
-* [Death by AI](https://deathbyai.gg/) - Survival Plan Game
-* [Gpop.io](https://gpop.io/) - Rhythm Game
+* [ZombsRoyale.io](https://zombsroyale.io/) - Top-Down Battle Royale 
+* [Tanki](https://tankionline.com/) - Online Team VS Team Tank Game
+
+***
+
+## ▷ Platformer
+
+* ⭐ **[TotalJerkFace](https://totaljerkface.com/)** - Happy Wheels & Other Games
+* ⭐ **[Line Rider](https://www.linerider.com/)** - Draw Sled Tracks
 * [LOLBeans](https://lolbeans.io/) - Fall Guys Clone
-* [Betrayal](https://betrayal.io/) - Among Us Clone
-* [Yume Nikki Online Project](https://ynoproject.net/) - Multiplayer Yume Nikki / [Discord](https://discord.com/invite/fRG3AxUeKN)
-* [Slither.io](http://slither.io/) or [worm.is](https://store.steampowered.com/app/466910/Wormis_The_Game/) - Grow the Longest Worm
+* [Free Rider HD](https://www.freeriderhd.com/) - Draw / Race Bike Tracks
+* [Raptjs](https://madebyevan.com/rapt/) or [Synesthesia in Space](http://synesthesiagame.com/) - Puzzle Platformer
+* [Tales of Dorime](https://dorime.udany.net/) - 2D Platformer
+* [PrinceJS](https://princejs.com/) - Prince of Persia
+
+***
+
+## ▷ Arcade
+
+* ⭐ **[Bonk](https://bonk.io/)** - Multiplayer Physics Game
+* ⭐ **[Powerline.io](https://powerline.io/)** - Multiplayer Snake
+* ⭐ **[QWOP](https://www.foddy.net/Athletics.html)** - Ragdoll Running Game
+* [TagPro](https://koalabeast.com/) - Multiplyer Capture the Flag
+* [Wings.io](https://wings.io/) - Multiplyer Plane Battles
+* [Slither.io](http://slither.io/) - Grow the Longest Worm
 * [Hexar.io](http://www.hexar.io/), [splix.io](https://splix.io/) or [paper-io](https://paper-io.com/) - Control the Map 
 * [agar.io](https://agar.io/) - Become the Biggest Circle 
 * [Hole.io](https://hole-io.com/) - Become the Biggest Hole / [Discord](https://discord.gg/UA2HdpT) 
-* [Tanki](https://tankionline.com/) - Online Team VS Team Tank Game
-* [Plink](http://labs.dinahmoe.com/plink/) - Music Game
-* [Make It Meme](https://makeitmeme.com/) - Meme Party Game
-* [Rooms](https://rooms.xyz/) - Room Design Game / [Discord](https://discord.gg/rooms)
-* [fsh.zone](https://fsh.zone/) / [Discord](https://discord.com/invite/FKEzJSf) - Fishing Games
-* [Too Many Chefs](https://www.toomanychefs.party/) - Text-Based Coop Cooking Game 
-* [Haxball](https://www.haxball.com/) - Physics-Based Soccer
-* [Powerline.io](https://powerline.io/) - Snake
-* [Bonk](https://bonk.io/) - Multiplayer Physics Game
+* [SpaceCadetPinball](https://alula.github.io/SpaceCadetPinball) - Browser Space Cadet Pinball
+* [The Circle](https://the-circle.app/) - Dodge Circles
+* [JoeDangerTheGame](https://joedangerthegame.com/) - Trials Inspired Game
+* [Polka Dot Game](https://www.polkadotgame.com/) - Dodge & Eat Dots
+* [Spinner](https://hyperspace-wizard.itch.io/spinner) - Spinner Timing Game
+* [Ehmorris](https://ehmorris.com/lander/) - Spaceship Landing Game
+* [Dino Swords](https://dinoswords.gg/) - Stay Alive by Jumping / Destroying Cacti
+* [Bemuse](https://bemuse.ninja/) - Rhythm Game
+* [Pulsus](https://www.pulsus.cc/play/) - 3x3 Tile Board Rhythm Game
+* [Sans Fight](https://jcw87.github.io/c2-sans-fight/) - Undertale Fight Simulator
+* [Flappy Bird](https://flappybird.io/) - HTML5 Flappy Bird
+* [Operius](https://mors-games.itch.io/operius) - Space Shooter
+* [Galaxies](https://playcanv.as/p/Ikq6Uk6A/) - Space Combat Game 
+* [Marble Blast Gold Web](https://marbleblast.vaniverse.io/) - Marble Blast Gold in Browser
+
+***
+
+## ▷ Simulation
+
+* [FSHistory](https://s-macke.github.io/FSHistory/) - Play Classic Flight Simulator 
+* [Hacker Wars](https://hackerwars.io/) or [SlaveHack2](https://www.slavehack2.com/) - Hacking Simulators
+* [Startup Simulator](https://toggl.com/startup-simulator/) - Startup Simulation Game
+* [Sim CB](https://benoitessiambre.com/macro.html) - Central Bank Sim
+* [Orbity](https://orbity.io/game.php) - Spaceship Launching Game
+* [Plane Food Simulator](https://sheepandram.itch.io/pfs2021) - Plane Food Eating Game
+* [Alternate History Simulator](https://abw.blue/) - Write Alternate History 
+* [NationStates](https://www.nationstates.net/) - Nation Simulation Game 
+* [GeoFS](https://www.geo-fs.com/geofs.php) - Plane Simulator
+* [Money Simulator](https://simulator.money) - Money Simulator
+* [BrantSteele](https://brantsteele.net/) or [Simublast](https://www.simublast.com/) - Game Show Simulators
+
+***
+
+## ▷ RPG
+
+* [Fallen London](https://www.fallenlondon.com/) - Text-Based RPG
+* [Bit Heroes Arena](https://bitheroesarena.io/) - 8-bit RPG
+* [Yume Nikki Online Project](https://ynoproject.net/) - Multiplayer Yume Nikki / [Discord](https://discord.com/invite/fRG3AxUeKN)
+* [Wanderers](https://wanderers.io/) - Real-Time Strategy Game
+* [Dynast](https://dynast.io/) - Survival Browser Game
+* [Kingdom of Loathing](https://www.kingdomofloathing.com/) - Comedy RPG
+* [Frasier Fantasy](https://edward-la-barbera.itch.io/frasier-fantasy) - Comedy RPG
+* [Gridland](https://gridland.doublespeakgames.com/) - Grid Matching RPG
+* [Backpack Hero](https://thejaspel.itch.io/backpack-hero) - Turn-Based RPG
 * [Miniconomy](https://www.miniconomy.com/) - Economy Game
-* [tix.tax](https://tix.tax/) - Tic-Tac-Toe
+* [Forumwarz](https://www.forumwarz.com/) - Browser RPG
+* [Dungeon Crawl](https://crawl.develz.org/) - Browser RPG
 
 ***
 
@@ -1181,6 +1196,8 @@
 * 🌐 **[Curlie Cards](https://curlie.org/en/Games/Video_Games/Recreation/Browser_Based/Cards)** - Card Game Index
 * 🌐 **[Curlie Yahtzee](https://curlie.org/en/Games/Video_Games/Recreation/Browser_Based/Dice/Yahtzee)** - Yahtzee Game Index
 * ⭐ **[WorldOfCardGames](https://worldofcardgames.com/)**, [CardGames.io](https://cardgames.io/), [247Games](https://www.247games.com/), [CardzMania](https://www.cardzmania.com/) or [World of Solitaire](https://worldofsolitaire.com/) - Multiplayer Card Games
+* [FlyOrDie](https://www.flyordie.com/) - Multiplayer Card Games
+* [Playok](https://www.playok.com/) - Multiplayer Card Games
 * [Richup](https://richup.io/) - Monopoly-Style Board Game
 * [Rally The Troops](https://www.rally-the-troops.com/) - Historical Board Games / [Discord](https://discord.gg/CBrTh8k84A)
 * [AllBad.Cards](https://bad.cards/) - Cards Against Humanity Online 
@@ -1200,13 +1217,15 @@
 
 ***
 
-## ▷ Chess / Checkers
+## ▷ Strategy
 
 * 🌐 **[Awesome Chess](https://github.com/hkirat/awesome-chess)** or [Chess Resources](https://redd.it/u43nrc) - Chess Resources
 * 🌐 **[/m/Chess](https://www.reddit.com/user/korfor/m/chess/)** or [/r/Chess](https://reddit.com/r/chess) - Chess Subreddits
 * 🌐 **[/r/Chess Books](https://reddit.com/r/chess/wiki/books)** - Recommended Chess Books
 * ⭐ **[lichess](https://lichess.org/)**, [GameKnot Chess](https://gameknot.com/), [SparkChess](https://www.sparkchess.com/) or [Chess.com](https://www.chess.com/) - Chess Platforms / [Customize](https://prettierlichess.github.io/)
+* ⭐ **[Super Auto Pets](https://teamwood.itch.io/super-auto-pets)** - Pet Battle Game
 * ⭐ **[Scid vs. PC](https://scidvspc.sourceforge.net/)**, [TheChessWebsite](https://www.thechesswebsite.com/), [Chess Tempo](https://chesstempo.com/), [Chessercise](https://www.chessercise.xyz/), [Lucas Chess](https://lucaschess.pythonanywhere.com/) or [List Study](https://listudy.org/en) - Learn / Practice Chess
+* [Warzone](https://www.warzone.com/) - RISK clone
 * [Chesses](https://pippinbarr.com/chesses/) or [Omnichess](https://omnichess.club/) - Multiple Styles of Chess
 * [The Kilobyte’s Gambit](https://vole.wtf/kilobytes-gambit/) - 1k Chess Game
 * [Kung Fu Chess](https://www.kfchess.com/) - Real-Time Chess w/o Turns
@@ -1231,6 +1250,7 @@
 * ⭐ **[MoreWords](https://www.morewords.com/)** , [PlayScrabble](https://playscrabble.com/)or [WordHub](https://wordhub.com/) - Scrabble
 * ⭐ **[Rubik’s Cube Explorer](https://iamthecu.be/)**, [pCubes](https://twistypuzzles.com/forum/viewtopic.php?f=1&t=27054) or [The Cube](https://bsehovac.github.io/the-cube/) - Rubix Cubes / [Solver](https://rubiksolve.com/), [2](https://rubiks-cube-solver.com/)
 * ⭐ **[jiggie](https://jiggie.fun/)** - Custom Puzzles + Multiplayer
+* [PROXX](https://proxx.app/) - Minesweeper
 * [Puzzle Party](https://artsandculture.google.com/experiment/puzzle-party/EwGBPZlIzv0KRw) - Multiplayer Jigsaws
 * [PuzzlePrime](https://www.puzzleprime.com/) - Problems / Puzzles
 * [HoverCats](https://hovercats.gg/) - Multiplayer Crosswords
@@ -1250,12 +1270,11 @@
 * [Euclidea](https://www.euclidea.xyz/) - Geometric Puzzles
 * [Pixel Puzzler](https://pixel-puzzler.playcurious.games/) - Block Puzzle
 * [Sudoku XV](https://keeri.place/sudoku-xv) - Sudoku
-* [Nerdle](https://nerdlegame.com/) - Number Guessing Game
-* [Cinenerdle2](https://www.cinenerdle2.app/) - Movie Puzzle
 * [picture dots](https://www.picturedots.com/) - Make & Play Dot Puzzles
 * [MakeAWordSearch](http://www.makeawordsearch.net/) - Word Search Creator
 * [RobinWords](https://www.robinwords.com/) - Word Ladder Game
 * [Oh, My Dots!](https://www.ohmydots.com/) - Connect the Dots Game
+* [Kuku Kube](https://kuku-kube.com/) - Find the Different Squares
 * [MazeGenerator](https://www.mazegenerator.net/) or [Maze](https://www.epgsoft.com/maze/) - Maze Generators
 
 ***
@@ -1265,8 +1284,11 @@
 * 🌐 **[/r/Incremental_Games](https://www.reddit.com/r/incremental_games/wiki/list_of_incremental_games)**, [Galaxy Click](https://galaxy.click/), [Incremental Game Plaza](https://plaza.dsolver.ca/), [IncrementalDB](https://www.incrementaldb.com/) or [Almost Idle](https://almostidle.com/) - Incremental Games Indexes
 * ⭐ **[Cookie Clicker](https://orteil.dashnet.org/cookieclicker/) / [2](https://orteil.dashnet.org/experiments/cookie/)** - Incremental Cookie Game
 * ⭐ **Cookie Clicker Tools** - [Multiple Tools](https://github.com/CookieMonsterTeam/CookieMonster) / [Calculator](https://coderpatsy.bitbucket.io/cookies/cookies.html) / [Discord](https://discord.com/invite/cookie)
+* [The Thorp of Woodstock](https://cheerfulghost.github.io/civ-clicker/index.html) - Build a Civilization
+* [Universal paperclips](https://www.decisionproblem.com/paperclips/index2.html) - A Paperclip Creation Simulator 
 * [MousePoint](https://creativetechguy.com/mousepoint) - Incremental Mouse Movement Game
 * [BitBurner](https://bitburner-official.github.io/) - Incremental RPG
+* [CandyBox](https://candybox2.github.io/) - Candy Eating Game 
 * [Particle Clicker](https://particle-clicker.web.cern.ch/) - Incremental Particle Physics Games
 * [KittensGame](https://kittensgame.com/web/) - Incremental Kitten Maker
 * [The Fed](https://thefed.app/) - Incremental Banking Game
@@ -1299,7 +1321,9 @@
 * [Tweakdle](https://tweakdle.chariz.com/)
 * [Wordlevs](https://wordlevs.com/)
 * [Octordle](https://www.britannica.com/games/octordle/)
-* [Wordless](https://lessgames.com/wordless) 
+* [Wordless](https://lessgames.com/wordless)
+* [Nerdle](https://nerdlegame.com/) - Number Guessing Game
+* [Cinenerdle2](https://www.cinenerdle2.app/) - Movie Puzzle
 * [Factle](https://factle.app/) - Fact Style Wordle
 * [Countle](https://www.countle.org/) - Math Style Wordle
 * [Ridella](https://ridella.xyz/) - Riddle Style Wordle
@@ -1336,6 +1360,5 @@
 * [Metazooa](https://metazooa.com/) - Animal Guessing Game
 * [Guess The Year](https://guess-the-year.davjhan.com/) or [ChronoPhoto](https://www.chronophoto.app/) - Year Guessing Game
 * [Approved, or Not Approved?](https://approvednotapproved.com/) - Approved Advertising Guessing Game
-* [damn.dog](https://damn.dog/) - wikiHow Guessing Game
 * [Wikitrivia](https://wikitrivia.tomjwatson.com/) - Guess Which Event Came First
 * [AI Bingo](https://ai-bingo.lipsumar.io/) - AI Art Guessing Games
