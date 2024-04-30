@@ -667,11 +667,9 @@
 * 🌐 **[Click Latencies](https://docs.google.com/spreadsheets/d/1-QI7-LY9Ul_DsVE4ZOqBQxqqqqrdJ04Ite8IY3AQMds/)** - Mouse Click Latency Chart
 * ⭐ **[Before I Play](https://beforeiplay.com/)** - Tips for any Game
 * ⭐ **[GamingSmart](https://gamingsmart.com/)** - Game Sensitivity Converters
-* ⭐ **[Aimlabs](https://aimlabs.com/)**, [Aim400kg](https://aim400kg.com/), [3D Aim Trainer](https://www.3daimtrainer.com/), [Aiming.Pro](https://aiming.pro/) or [AimTrainer](https://aimtrainer.io/) - Aim Training
-* ⭐ **[CPSCounter](https://cpscounter.org/)**, [ClickSpeeder](https://clickspeeder.com/) or [ClickSpeedTester](https://www.clickspeedtester.com/) - Click Speed Training
+* ⭐ **[Aim400kg](https://aim400kg.com/)**, [3D Aim Trainer](https://www.3daimtrainer.com/), [Aimlabs](https://aimlabs.com/), [Aiming.Pro](https://aiming.pro/) or [AimTrainer](https://aimtrainer.io/) - Aim Training
 * [GameGuides](https://www.gamerguides.com/), [Retro Guides](https://rentry.co/FMHYBase64#retro-game-strategy-guides), [Game8](https://game8.co/), [StrategyWiki](https://strategywiki.org/), [Samurai Gamers](https://samurai-gamers.com/), [UHS Hints](https://www.uhs-hints.com/) or [Kirklands](https://archive.org/details/kirklands-manual-labor-sony-playstation-2-usa-4k-version) - Game Guides
 * [Piper](https://github.com/libratbag/piper) - Gaming Mouse Config Tool
-* [Use ESDF](http://www.use-esdf.org/) - OG FPS Control Combo
 * [LiveSplit](https://livesplit.org/) - Customizable Speedrun Timer
 * [TASVideos](https://tasvideos.org/) - Watch and Publish Tool Assisted Speedruns
 * [Tomatoanus](https://www.youtube.com/@tomatoanus/) - Speedrun Breakdowns
@@ -681,8 +679,6 @@
 * [SNES Manuals](https://sites.google.com/view/snesmanuals) - SNES Game Manuals
 * [FOUR.lol](https://four.lol/) - Tetris Openers Wiki
 * [Underdogs Cup Lounge](https://discord.gg/QCbC9cA) - Tetris Resources & Coaching
-* [Four-tris](https://github.com/fiorescarlatto/four-tris) - Tetris Training Client
-* [PuzzleGraph](https://runevision.itch.io/puzzlegraph) - Computer Puzzle Visualizer
 
 ***
 
@@ -695,12 +691,12 @@
 * [Incendar](https://incendar.com/) - Game Release Date Tracker
 * [OpenCritic](https://opencritic.com/) - Critic Game Reviews / Ratings
 * [GG App](https://ggapp.io/), [Gamelib](https://gamelib.app/explore), [Backloggery](https://backloggery.com/) or [Exophase](https://www.exophase.com/) - Game Trackers
-* [LaunchBox Games Database](https://gamesdb.launchbox-app.com/), [GameFAQs](https://gamefaqs.gamespot.com/), [Steam Games](https://steam-games.org/), [Rawg](https://rawg.io/), [Moby Games](https://www.mobygames.com/), [rate.house](https://rate.house/chart/game), [listal](https://www.listal.com/), [Orcz](https://orcz.com/Main_Page) or [FrontierNav](https://frontiernav.net/) - Game Databases
+* [LaunchBox Games Database](https://gamesdb.launchbox-app.com/), [GameFAQs](https://gamefaqs.gamespot.com/), [Rawg](https://rawg.io/), [Moby Games](https://www.mobygames.com/), [rate.house](https://rate.house/chart/game), [listal](https://www.listal.com/) or [FrontierNav](https://frontiernav.net/) - Game Databases
 * [IMDb Advanced Search](https://www.imdb.com/search/) - Game Search
-* [Ethereal Games](https://wiki.etherealgames.com/) or [JRGPC](https://jrpgc.com/) - JRPG Databases
+* [JRGPC](https://jrpgc.com/) - JRPG Databases
 * [RPGCodex](https://rpgcodex.net/forums/) - RPG Database / Forum
 * [SteamPeek](https://steampeek.hu/) or [IndieDB](https://www.indiedb.com/) - Indie Game Databases
-* [RetroShowcase](https://www.retroshowcase.gr/), [Squakenet](https://www.squakenet.com/) or [The Good Old Days](https://www.goodolddays.net/) - Retro Game Databases
+* [RetroShowcase](https://www.retroshowcase.gr/) or [The Good Old Days](https://www.goodolddays.net/) - Retro Game Databases
 * [Sega Retro](https://segaretro.org/) - Sega Game Database
 * [AtariAge](https://atariage.com/) - Atari Game Database
 * [Polish Pixels](https://polishpixels.com/) - Retro Polish Games Database
