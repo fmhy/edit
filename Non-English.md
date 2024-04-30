@@ -343,10 +343,10 @@
 
 ## ▷ Torrenting
 
-* [YggTorrent](https://www3.yggtorrent.qa/) - Video / Audio / ROMs / Books / Comics
+* [YggTorrent](https://yggtorrent.cool/)- Video / Audio / ROMs / Books / Comics
 * [Torrent9](https://www.torrent9.fm/), [2](https://www.torrent9.site/), [3](https://torrent9.app/) - Video / Audio / ROMs / Books
 * [Torrent911](https://www.torrent911.ac/) - Video / Audio / ROMs / Books
-* [OxTorrent](https://oxtorrents.co/), [2](https://yggtorrent.qa/) - Video / Audio / ROMs / Books
+* [OxTorrent](https://oxtorrents.co/) - Video / Audio / ROMs / Books
 * [Cpasbien](https://feminalpes.fr/), [2](https://www.cpasbien.tw/) - Video / Audio / ROMs / Books
 * [Zetorrents](https://www.zetorrents.pw/) - Video / Audio / ROMs / Books
 * [Torrent411](https://www.torrent411.to/) - Video / Audio / ROMs / Books
