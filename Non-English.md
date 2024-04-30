@@ -34,7 +34,6 @@
 * ⭐ **[FaselHD](https://faselhd.center/)** - Movies / TV / Anime / Sub / 1080p
 * ⭐ **[RunTV](https://runtv.cc/)** - Anime / Sub / 1080p
 * [ArabLionz](https://arlionztv.click/) - Movies / TV / Sub / 1080p
-* [LODYNET](https://lodynet.cfd/) - Movies / TV / Sub / 1080p
 * [egydead](https://egydead.space/) - Movies / TV / Anime / Sub / 1080p
 * [akwam](https://ak.sv/) - Movies / TV / Sub / 1080p
 * [arabseed](https://arabseed.show/) - Movies / TV / Wrestling / Sub / 1080p
