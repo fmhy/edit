@@ -704,13 +704,12 @@
 * [Sega Retro](https://segaretro.org/) - Sega Game Database
 * [AtariAge](https://atariage.com/) - Atari Game Database
 * [Polish Pixels](https://polishpixels.com/) - Retro Polish Games Database
-* [Co-Optimu](https://www.co-optimus.com/), [Squad Games](https://www.squadd.games/) or [PlayCo-opGame](https://playco-opgame.com/) - Co-Op Game Databases
+* [Co-Optimu](https://www.co-optimus.com/) or [PlayCo-opGame](https://playco-opgame.com/) - Co-Op Game Databases
 * [SvenEvils Playground](https://store.steampowered.com/curator/8485829/) or [Local Multiplayer List](https://docs.google.com/spreadsheets/d/14f6qS2GJy8C-b40Df3dNH_aZq7WfZ4jMggzEajUrX0w/) - Local Multiplayer Game Database
 * [DoesItPlay?](https://www.doesitplay.org/) - Offline Game Compatibility Database
 * [Low Spec Games](https://pastebin.com/MTCXZxCN) - Low Spec Game Database
 * [HOTU](https://www.homeoftheunderdogs.net/) - Rare Game Database
 * [Delisted Games](https://delistedgames.com/) - Delisted Games Database
-* [GameClassification](https://gameclassification.com/) - Search Games by Classifications
 * [MoreGamesLike](https://www.moregameslike.com/) or [Games Like Finder](https://gameslikefinder.com/) - Find Similar Games
 * [awesome-engineering-games](https://github.com/arcataroger/awesome-engineering-games) - Engineering Game Recommendations
 * [DigitalDreamDoor](https://digitaldreamdoor.com/pages/games.html) - List of the Best Games
