@@ -14320,7 +14320,6 @@ Sonarr/Radarr/Lidarr autosearch
 * [yt2pod](https://github.com/frou/yt2pod) - Create Podcasts from YouTube Channels
 * [YouTube-Subscriptions-RS](https://github.com/jeb5/YouTube-Subscriptions-RSS) - Export Subscriptions to RSS Feed
 * [YouTube Subscription History](https://xxluke.de/subscription-history/) - Find when you subscribed to channels
-* [Channel RSS](https://pastebin.com/hqkNuMSx) - Add Individual Channels to RSS Feed
 * [SpeechChat](https://speechchat.com/) - Text to Speech Client
 * [AnnotationsRestored](https://github.com/isaackd/AnnotationsRestored) or [YouTube Annotations](https://archive.org/details/youtubeannotations) - Restore YouTube Annotations
 * [YouTube Metadata](https://mattw.io/youtube-metadata/) - YouTube Video Metadata Viewer
@@ -14365,9 +14364,8 @@ Sonarr/Radarr/Lidarr autosearch
 ## ▷ YouTube Downloaders
 
 * 🌐 **[YT-DL GUI Index](https://www.reddit.com/r/youtubedl/wiki/info-guis)** - List of YT-DL GUIs
-* 🌐 **[YT-DL Script Index](https://github.com/TheFrenchGhosty/TheFrenchGhostys-Ultimate-YouTube-DL-Scripts-Collection)** - List of YT-DL Scripts
 * ↪️ **[Multi-Site Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video-tools#wiki_.25BA_video_download)**
-* ⭐ **[YT-DLP](https://github.com/yt-dlp/yt-dlp)** or [YTDL-PATCHED](https://github.com/ytdl-patched/ytdl-patched) - YouTube Downloader / [Discord](https://discord.gg/H5MNcFW63r)
+* ⭐ **[YT-DLP](https://github.com/yt-dlp/yt-dlp)** or [YTDL-PATCHED](https://github.com/ytdl-patched/ytdl-patched) - YouTube Downloader / [Discord](https://discord.gg/H5MNcFW63r) / [Commands](https://github.com/TheFrenchGhosty/TheFrenchGhostys-Ultimate-YouTube-DL-Scripts-Collection)
 * ⭐ **[Stacher](https://stacher.io/)** - YT-DL GUI
 * ⭐ **[Y232](https://y232.live/)** - YT-DL WebUI
 * [yt-dlp-gui](https://github.com/kannagi0303/yt-dlp-gui) - YT-DL GUI / [Easy Installer](https://github.com/kazukikasama/youtube-dlp-gui-installer)
@@ -14485,6 +14483,7 @@ Sonarr/Radarr/Lidarr autosearch
 * [TwitchLeak](https://twitchleak.netlify.app/) - Twitch Top Earners Table
 * [TwitchQuotes](https://www.twitchquotes.com/) - Twitch Copypastas
 * [TwitchEmotes](https://twitchemotes.com/) - Global Twitch Emotes
+* [ChatGuessr](https://chatguessr.com/) - GeoGuessr for Twitch
 * [TwitchInsights](https://twitchinsights.net/), [StreamCharts](https://streamscharts.com/) or [TwitchTracker](https://twitchtracker.com/) - Twitch Stats
 * [Trovo](https://trovo.live/), [Kick](https://kick.com/), [dlive](https://dlive.tv/), [Caffeine](https://www.caffeine.tv/), [Lightspeed](https://lightspeed.tv/) or [Theta](https://www.theta.tv/) - Twitch Alternatives
 * [Ultrawidify](https://github.com/tamius-han/ultrawidify) - Fix Twitch Aspect Ratio
