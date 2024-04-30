@@ -171,11 +171,11 @@
 
 * 🌐 **[WiLd's Occult Ebook Sources](https://rentry.co/FMHYBase64#wilds-occult-ebook-sources)** - Occult / Esoterica
 * 🌐 **[Soren Megathread](https://odysee.com/@Soren:71/%F0%9F%94%B0Megathread_with_Resources%F0%9F%94%B0:1)** - Occult / Esoterica
-* [ObscUrban Legend Wiki](https://obscurban-legend.fandom.com/) - Mythology / Urban Legends
 * ↪️ **[Esoterica Telegram Channels](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_magic_.2F_esoteric_telegram_ebooks)**
 * ⭐ **[Sacred Text Archive](https://sacred-texts.com/)** - Religion / Mythology / Folklore / Esoterica
 * ⭐ **[The Exerdex](https://rentry.co/FMHYBase64#echerdex-repository)** - Esoterica / [Discord](https://discord.gg/dS5X3d7ype) / [Subreddit](https://www.reddit.com/r/Echerdex/)
 * [FairyTalez](https://fairytalez.com/) - Mythology / Folklore / Fairy Tales
+* [ObscUrban Legend Wiki](https://obscurban-legend.fandom.com/) - Mythology / Urban Legends
 * [Encyclopedia Mythica](https://pantheon.org/) - Mythology / Folklore / Religion
 * [Mythology.net](https://mythology.net/) - Mythology / Religion
 * [ABookOfCreatures](https://abookofcreatures.com/), [Demons of the Deep](https://seademons.weebly.com/) or [Bestiary](https://bestiary.ca/beasts.htm) - Mythological Encyclopedias
