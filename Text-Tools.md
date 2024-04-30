@@ -301,7 +301,8 @@
 * [Heimer](https://github.com/juzzlin/Heimer)
 * [Cubox](https://cubox.cc/)
 * [vym](https://github.com/insilmaril/vym)
-* [Coggle](https://coggle.it/) - Collaborative Mind Mapping
+* [markmap](https://markmap.js.org/) - Markdown Mind Mapping / [GitHub](https://github.com/markmap/markmap)
+* [Coggle](https://coggle.it/) - Collaborative 
 * [CardSmith](https://cardsmith.co/) - Collaborative Mind Mapping
 * [Memrey](https://www.memrey.com/) - Collaborative Mind Mapping
 * [MindMeister](https://www.mindmeister.com/) - Collaborative Mind Mapping

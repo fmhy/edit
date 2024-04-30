@@ -917,7 +917,7 @@
 * [Time Traveler](https://www.merriam-webster.com/time-traveler) - See when a word was first used in print
 * [EtymOnline](https://www.etymonline.com/) - Etymologies
 * [Abbreviations](https://www.abbreviations.com/) - Abbreviations
-* [AcronymFinder](https://www.acronymfinder.com/) - Abbreviations / Acronyms
+* [AcronymFinder](https://www.acronymfinder.com/) or [The Acronym Server](https://acronyms.silmaril.ie/) - Abbreviations / Acronyms
 * [Chat Words Dictionary](https://chatworddictionary.com/) - Chat Abbreviations
 * [lengusa](https://lengusa.com/) or [Fraze.it](https://fraze.it/) - Sentence Search
 * [Word Hippo](https://www.wordhippo.com/) - Thesaurus

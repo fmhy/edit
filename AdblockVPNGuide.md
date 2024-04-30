@@ -131,7 +131,7 @@
 * [Zeek](https://zeek.org/), [Nmap](https://nmap.org/) / [Results](https://nmap.org/ndiff/), [Kismet](https://www.kismetwireless.net/), [ntop](https://www.ntop.org/) or [Sniffnet](https://www.sniffnet.net/) - Network Monitors
 * [Emergency Kit](https://www.emsisoft.com/en/home/emergencykit/) - No Install Required Antivirus
 * [Safety Scanner](https://docs.microsoft.com/en-us/windows/security/threat-protection/intelligence/safety-scanner-download) - Malware Remover
-* [Dangerzone](https://dangerzone.rocks/) - Convert dangerous PDF to safe PDF
+* [Dangerzone](https://dangerzone.rocks/) - Convert dangerous PDF to safe PDF / [GitHub](https://github.com/freedomofpress/dangerzone)
 * [No More Ransom](https://www.nomoreransom.org/en/decryption-tools.html) - Bypass Ransomware Attacks
 * [ID Ransomware](https://id-ransomware.malwarehunterteam.com/) - Ransomware Identification Tool
 * [FRST Tutorial](https://www.bleepingcomputer.com/download/farbar-recovery-scan-tool/) - Malware Analysis Tool / [Guide](https://www.bleepingcomputer.com/forums/t/781976/)
@@ -391,7 +391,7 @@
 * [Lingva Translate](https://github.com/TheDavidDelta/lingva-translate) - Google Translate Frontend
 * [Scribe](https://sr.ht/~edwardloveall/Scribe/), [medium.rip](https://medium.rip/) or [LibMedium](https://libmedium.batsense.net/) - Medium Frontends
 * [Quetre](https://quetre.iket.me) / [GitHub](https://github.com/zyachel/quetre) - Quora Frontend
-* [Rimgo](https://codeberg.org/rimgo/rimgo) - Imgur Frontend
+* [Rimgo](https://codeberg.org/rimgo/rimgo) - Imgur Frontend / [Instances](https://rimgo.codeberg.page/), [2](https://codeberg.org/rimgo/instances)
 * [Binternet](https://github.com/Ahwxorg/Binternet) - Pinterest Frontend
 * [Pixivfe](https://codeberg.org/VnPower/pixivfe) - Pixiv Frontend
 * [Gothub](https://codeberg.org/gothub/gothub) - GitHub Frontend
