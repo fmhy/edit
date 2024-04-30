@@ -166,7 +166,7 @@
 ## ▷ Optimization
 
 * [debloat-android](https://christitus.com/debloat-android/) or [Uninstall Bloatware](https://www.xda-developers.com/uninstall-carrier-oem-bloatware-without-root-access/) - Android Debloating Guides
-* [Canta](https://f-droid.org/en/packages/org.samo_lego.canta/) / [GitHub](https://github.com/samolego/Canta), [Universal Android Debloater](https://github.com/0x192/universal-android-debloater) / [GUI](https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation) or [De-Bloater](https://sunilpaulmathew.github.io/De-Bloater/) - Android Debloaters
+* [Canta](https://f-droid.org/en/packages/org.samo_lego.canta/) / [GitHub](https://github.com/samolego/Canta), [Universal Android Debloater](https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation) or [De-Bloater](https://sunilpaulmathew.github.io/De-Bloater/) - Android Debloaters
 * [Hail](https://github.com/aistra0528/Hail) - Auto-Deactivate Unused Apps / Needs Root
 * [Blocker](https://github.com/lihenggui/blocker) - Component Controller
 * [Tweaker](https://github.com/zacharee/Tweaker) - Android System Tweaks / Features
@@ -412,7 +412,7 @@
 * ⭐ **[DPITunnel](https://github.com/nomoresat/DPITunnel-android)**, [Intra](https://getintra.org), [PowerTunnel](https://github.com/krlvm/PowerTunnel-Android) or [Xandroid](https://github.com/XndroidDev/Xndroid) - Proxies
 * ⭐ **[Shadowsocks-Android](https://github.com/shadowsocks/shadowsocks-android)** - Shadowsocks Proxy App
 * ⭐ **[TorServices](https://f-droid.org/packages/org.torproject.torservices/)** or [Orbot](https://play.google.com/store/apps/details?id=org.torproject.android&amp;hl=en_US) - Tor Proxy Apps
-* ⭐ **[XPL-EX](https://github.com/0bbedCode/XPL-EX)** or InviZible](https://invizible.net) / [GitHub](https://github.com/Gedsh/InviZible) - Privacy Managers
+* ⭐ **[XPL-EX](https://github.com/0bbedCode/XPL-EX)** or [InviZible](https://invizible.net) / [GitHub](https://github.com/Gedsh/InviZible) - Privacy Managers
 * [ceno-browser](https://censorship.no/en/index.html) / [GitHub](https://github.com/censorship-no/ceno-browser) - Proxy Browser
 * [Smartphone Hardening Guide](https://lemmy.ml/post/128667)
 * [Island](https://play.google.com/store/apps/details?id=com.oasisfeng.island) - App Isolation
