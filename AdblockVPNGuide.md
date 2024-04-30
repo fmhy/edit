@@ -157,7 +157,7 @@
 * [Triage](https://tria.ge/)
 * [Malware Initial Assessment](https://www.winitor.com/)
 * [Intezer Analyze](https://analyze.intezer.com/)
-* [Cuckoo](https://cuckoo.cert.ee/) / [2](https://sandbox.pikker.ee/)
+* [Cuckoo](https://cuckoo.cert.ee/). [2](https://sandbox.pikker.ee/)
 * [VirSCAN](https://www.virscan.org/)
 * [Joe Sandbox](https://www.joesandbox.com/)
 * [MetaDefender](https://metadefender.opswat.com/?lang=en)
