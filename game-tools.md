@@ -557,25 +557,6 @@
 
 ***
 
-## ▷ Terraria Tools
-
-* ⭐ **[Terranion](https://yal.cc/r/terranion/)** - Terraria Wiki
-* [N-Terraria](https://forums.terraria.org/index.php?threads/n-terraria-mod-rpg-races-classes-quests-and-other-things.542/) - Terraria Mod
-* [TEdit](https://www.binaryconstruct.com/tedit), [terramap](https://terramap.github.io/), [TerraFirma](https://github.com/mrkite/TerraFirma/releases/) or [terraria-map-editor](https://tedit.github.io/terraria-map-editor-web/) - Map Viewers / Editors
-* [Terrasavr](https://yal.cc/r/terrasavr/) - Terraria Character Editor
-* [ArmorHelper](https://forums.terraria.org/index.php?threads/armorhelper-sprite-armor-sets-30x-times-faster.68744/) - Terraria Armor Customization Tool
-* [TerrariaDepot](https://forums.terraria.org/index.php?threads/terrariadepotdownloader-downgrade-to-any-version.107519/) - Terraria Downgrader
-* [SimpleTerrariaBackup](https://forums.terraria.org/index.php?threads/simpleterrariabackup-saves-etc-backup-tool-for-windows-users.66805/) - Terraria Backup Tools
-* [Quick Wave Bank](https://forums.terraria.org/index.php?threads/quick-wave-bank-an-easy-no-hassle-wave-bank-creator.61813/) - Terraria Wave Bank Creator
-* [Textract](https://forums.terraria.org/index.php?threads/textract-extract-terrarias-images-sound-effects-and-music.937/) - Terraria Image & Audio Extractor
-* [terrariaxnb2png](https://forums.terraria.org/index.php?threads/terrariaxnb2png-simple-terraria-texture-xnb-to-png-converter.21822/) - Terraria Texture to PNG Conveter
-* [TerrariaImageStitcher](https://forums.terraria.org/index.php?threads/terrariaimagestitcher-image-stitcher-for-terrarias-image-packer.104761/) - Terraria Image Stitcher
-* [TerrariaSoundBar](https://forums.terraria.org/index.php?threads/v0-2-terrariasoundbar-worlds-first-guitar-studio-macro-tool.93551/) - Terraria In-Game Guitar
-* [Increased FOV](https://gamebanana.com/tuts/14022) - Increase Terraria FOV for 21:9 Monitors
-* [Content Creation Guide](https://forums.terraria.org/index.php?threads/the-ultimate-guide-to-content-creation-and-use-for-the-terraria-workshop.100652/) - Terraria Content Creation Guide Ultimate
-
-***
-
 ## ▷ Geometry Dash Tools
 
 * 🌐 **[Cvolton Tools](https://github.com/Cvolton?tab=repositories)** - Multiple GD Tools
@@ -613,6 +594,16 @@
 * [RoPro](https://ropro.io/), [Roblox+](https://chromewebstore.google.com/detail/roblox%20/jfbnmfgkohlfclfnplnlenbalpppohkm), [BTRoblox](https://twitter.com/AntiBoomz/status/1378597179556823040), [RoGold](https://rogold.live/) or [RoSeal](https://www.roseal.live/) - Enhance Roblox Website
 * [RBXServers](https://rbxservers.xyz/) - Roblox VIP Servers
 * [Roblox Web APIs](https://github.com/matthewdean/roblox-web-apis) - Roblox APIs
+
+***
+
+## ▷ Terraria Tools
+
+* ⭐ **[Terranion](https://yal.cc/r/terranion/)** - Terraria Wiki
+* [Terraria Forum](https://forums.terraria.org/) - Terraria Community, Mods Help and more
+* [TEdit](https://www.binaryconstruct.com/tedit), [terramap](https://terramap.github.io/), [TerraFirma](https://github.com/mrkite/TerraFirma/releases/) or [terraria-map-editor](https://tedit.github.io/terraria-map-editor-web/) - Map Viewers / Editors
+* [Terrasavr](https://yal.cc/r/terrasavr/) - Terraria Character Editor
+* [Increased FOV](https://gamebanana.com/tuts/14022) - Increase Terraria FOV for 21:9 Monitors
 
 ***
 
