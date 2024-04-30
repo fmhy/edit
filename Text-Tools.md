@@ -185,18 +185,15 @@
 ## ▷ Typing Lessons
 
 * ⭐ **[Monkey Type](https://monkeytype.com/)** - Customizable Typing Tests
-* [Typing.io](https://typing.io/) - Typing Tests
-* [keybr](https://www.keybr.com/) - Typing Tests 
-* [Typing.com](https://www.typing.com/) - Typing Tests 
-* [Typing Club](https://www.typingclub.com/) - Typing Tests 
-* [typing.academy](https://www.typing.academy/) - Typing Tests
+* ⭐ **[Smassh](https://github.com/kraanzu/smassh)**, [Ttyper](https://github.com/max-niederman/ttyper)  - Terminal Typing Tests
+* [Typing.io](https://typing.io/) - Typing Practice For Programming / Sign-up Required
+* [keybr](https://www.keybr.com/) - Typing Practice
+* [Typing.com](https://www.typing.com/) - Typing Lessons
+* [Typing Club](https://www.typingclub.com/) - Touch Typing Lessons
+* [typing.academy](https://www.typing.academy/) - Typing Lessons / Requires Javascript Enabled
 * [Typings](https://typings.gg/) - Typing Tests
-* [TypeRacer](https://play.typeracer.com/) - Typing Games
-* [ZType](https://zty.pe/) - Typing Games
-* [TypeRush](https://www.typerush.com/) - Typing Games
-* [ARRRType](https://www.arrrtype.com/) - Typing Games
+* [TypeRacer](https://play.typeracer.com/), [ZType](https://zty.pe/), [TypeRush](https://www.typerush.com/) or [ARRRType](https://www.arrrtype.com/) - Typing Games
 * [NGram Type](https://ranelpadon.github.io/ngram-type/), [Keyzen3](https://adamgradzki.com/keyzen3/) or [Keyzen Colmak](https://ranelpadon.github.io/keyzen-colemak-dh/) - Touch Typing Tests
-* [Ttyper](https://github.com/max-niederman/ttyper) or [Smassh](https://github.com/kraanzu/smassh) - Terminal Typing Tests
 * [TypeLit.io](https://www.typelit.io/) - Book Typing Tests
 * [Colemak Academy](https://www.colemak.academy/) - Alt / Custom Keyboard Tests
 * [klavaro](https://klavaro.sourceforge.io/), [TypingStudy](https://www.typingstudy.com/) or [TypeFast](https://typefast.io/) - Multilingual Typing Tests
