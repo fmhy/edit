@@ -9,7 +9,7 @@
 * 🌐 **[Awesome Cheatsheets](https://lecoupa.github.io/awesome-cheatsheets/)**, [HowDoI](https://github.com/gleitz/howdoi), [OverApi](https://overapi.com/) or [Cheat Sheets](http://www.cheat-sheets.org/) - Programming Cheat Sheets
 * ↪️ **[CLI Cheat Sheets](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_cli_cheat_sheets)**
 * ⭐ **[QuickRef.me](https://quickref.me/)**, [Dark Hamster](https://www.dark-hamster.com/) or [Devhints](https://devhints.io/) - Developer Cheat Sheets
-* ⭐ **[30 Seconds of Code](https://www.30secondsofcode.org/)**, [SnipIt](https://snipit.io/) or [HTML-Dom](https://phuoc.ng/collection/html-dom/) - Find Code Snippets
+* ⭐ **[30 Seconds of Code](https://www.30secondsofcode.org/)**, [FreeFrontend](https://freefrontend.com/), [SnipIt](https://snipit.io/) or [HTML-Dom](https://phuoc.ng/collection/html-dom/) - Find Code Snippets
 * [Algorithms-Cheatsheet-Resources](https://github.com/starkblaze01/Algorithms-Cheatsheet-Resources) - Code Algorithm Cheat Sheets
 * [Python Cheatsheet](https://gto76.github.io/python-cheatsheet/) or [SpeedSheet](https://speedsheet.io/) or [python-cheatsheet](https://gto76.github.io/python-cheatsheet/) - Python Cheat Sheets
 * [cppreference](https://en.cppreference.com/w/) - C++ Cheat Sheets
