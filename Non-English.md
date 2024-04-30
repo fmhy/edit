@@ -67,7 +67,7 @@
 # ► Bangla / বাংলা 
 
 ## ▷ Torrenting /  টরেন্ট
-* [TorrentBD](https://www.torrentbd.com/) - Private Tracker
+* ⭐ **[TorrentBD](https://www.torrentbd.com/)** - Largest Private Tracker in Bangladesh
 
 ## ▷ Reading / পড়া
 
