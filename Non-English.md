@@ -74,6 +74,7 @@
 * [GoBanglaBooks](https://www.gobanglabooks.com/) - Books / Magazines
 * [AmarBooks](https://www.amarbooks.org/) - Books
 * [BengaliEbook](https://www.worldmets.com/) - Books
+* [NCTB](https://nctb.portal.gov.bd/) - NCTB Textbooks of Bangladesh
 
 ## ▷ Streaming / স্ট্রিমিং
 
