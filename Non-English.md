@@ -66,6 +66,9 @@
 
 # ► Bangla / বাংলা 
 
+## ▷ Torrenting /  টরেন্ট
+* [TorrentBD](https://www.torrentbd.com/) - Private Tracker
+
 ## ▷ Reading / পড়া
 
 * [24livenewspaper](https://www.24livenewspaper.com/bangla-newspaper) or [allbanglanewspaper](https://www.allbanglanewspaper.xyz/) - Bangla Newspapers
