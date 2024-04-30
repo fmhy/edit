@@ -529,7 +529,7 @@
 
 ## ▷ Android File Tools
 
-* ⭐ **[MiXplorer](https://mixplorer.com/)**, [2](https://forum.xda-developers.com/t/app-2-2-mixplorer-v6-x-released-fully-featured-file-manager.1523691/)- Advanced Root File Explorer / [Themes](https://play.google.com/store/apps/details?id=de.dertyp7214.mixplorerthemecreator)
+* ⭐ **[MiXplorer](https://mixplorer.com/)**, [2](https://forum.xda-developers.com/t/app-2-2-mixplorer-v6-x-released-fully-featured-file-manager.1523691/) - Advanced Root File Explorer / Manager / [Themes](https://play.google.com/store/apps/details?id=de.dertyp7214.mixplorerthemecreator)
 * ⭐ **[SD Maid](https://github.com/d4rken-org/sdmaid-se)** - File Manager / Data Cleaner / [Discord](https://discord.com/invite/8Fjy6PTfXu)
 * ⭐ **[SyncThing](https://github.com/Catfriend1/syncthing-android)** - File Sync / Sharing
 * ⭐ **[Snapdrop Android](https://github.com/fm-sys/snapdrop-android)** - File Sync / Sharing
@@ -549,7 +549,9 @@
 * [Nearby Share](https://www.android.com/better-together/quick-share-app/) - File Sync / Sharing
 * [DriveSync](https://play.google.com/store/apps/details?id=com.ttxapps.drivesync) - Google Drive Sync
 * [Ghost Commander](https://sourceforge.net/projects/ghostcommander/), [IrkFM](https://github.com/lfuelling/lrkFM) or [Material Files](https://github.com/zhanghai/MaterialFiles) - File Explorers
-* [Adebar](https://codeberg.org/izzy/Adebar), [Android-DataBackup](https://github.com/XayahSuSuSu/Android-DataBackup) (root), [Swift Backup](https://swiftapps.org/), [Neo Backup](https://github.com/NeoApplications/Neo-Backup) (root) - Device Backup Tools
+* [Total Commander](https://www.ghisler.com/ce.htm) - File Manager
+* [Adebar](https://codeberg.org/izzy/Adebar), [Android-DataBack
+* [DataBackup](https://github.com/XayahSuSuSu/Android-DataBackup) (root), [Swift Backup](https://swiftapps.org/), [Neo Backup](https://github.com/NeoApplications/Neo-Backup) (root) - Device Backup Tools
 * [Folder in Folder](https://play.google.com/store/apps/details?id=com.ss.folderinfolder) - Create Subfolders
 * [Cx File Explorer](https://play.google.com/store/apps/details?id=com.cxinventor.file.explorer) or [FileNavigator](https://github.com/w2sv/FileNavigator) - File Managers
 * [Marc Files](https://play.google.com/store/apps/details?id=com.marc.files) - File Manager Shortcut
@@ -594,7 +596,7 @@
 
 * [Breezy Weather](https://github.com/breezy-weather/breezy-weather), [Clima](https://codeberg.org/Lacerte/clima), [Rain](https://github.com/DarkMooNight/Rain), [KWeather](https://invent.kde.org/utilities/kweather), [Flux](https://play.google.com/store/apps/details?id=de.bendix.flux) or [OMWeather](https://github.com/woheller69/omweather) - Weather Apps
 * [FindMyDevice](https://gitlab.com/Nulide/findmydevice), [phonetrack](https://gitlab.com/eneiluj/phonetrack-oc) / [2](https://gitlab.com/eneiluj/phonetrack-android) or [AutoWhatsAppTriggers](https://play.google.com/store/apps/details?id=om.roitman.autowhatsapptriggers) - Track Phones Location
-* [OwnTracks](https://owntracks.org/), [Hauk](https://github.com/bilde2910/Hauk), [Positional](https://play.google.com/store/apps/details?id=app.simple.positional.lite), [GPSCockpit](https://github.com/woheller69/gpscockpit), [GPSTest](https://play.google.com/store/apps/details?id=com.android.gpstest) or [GnssLogger](https://play.google.com/store/apps/details?id=com.google.android.apps.location.gps.gnsslogger) - Track Own Location / GPS
+* [OwnTracks](https://owntracks.org/), [Hauk](https://github.com/bilde2910/Hauk), [Positional](https://github.com/Hamza417/Positional), [GPSCockpit](https://github.com/woheller69/gpscockpit), [GPSTest](https://play.google.com/store/apps/details?id=com.android.gpstest) or [GnssLogger](https://play.google.com/store/apps/details?id=com.google.android.apps.location.gps.gnsslogger) - Track Own Location / GPS
 * [Locus](https://github.com/Myzel394/locus) - E2E Location Sharing
 * [Magic Earth](https://www.magicearth.com/) or [OsmAnd](https://osmand.net/) - Offline Maps
 * [WiFi Space](https://wifispc.com/) - Public WiFi Map
