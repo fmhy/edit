@@ -383,14 +383,11 @@
 * ⭐ **[Flashpoint](https://flashpointarchive.org/)** / [Discord](https://discord.gg/Z4gGtJvvn8) or [Flash Library](https://rentry.co/FMHYBase64#software-library-flash) - Flash Game Archives 
 * ⭐ **[Ninjakiwi](https://ninjakiwi.com/archive)** - Flash Game Archives
 * ⭐ **[Allchemy](https://allchemy.io/)** or [Infinite Craft](https://neal.fun/infinite-craft/) - Infinite Item Crafting Games
-* ⭐ **[Free Rice](https://freerice.com/)** - Earn Rice for the World Food Programme
 * [Tensor Trust](https://tensortrust.ai/) - AI Prompting Multiplayer Skill Game
 * [Rooms](https://rooms.xyz/) - Room Design Game / [Discord](https://discord.gg/rooms)
 * [fsh.zone](https://fsh.zone/) / [Discord](https://discord.com/invite/FKEzJSf) - Fishing Games
 * [Haxball](https://www.haxball.com/) - Physics-Based Soccer
 * [Mexican Train](https://mexicantrain.online/) - Domino Train Game
-* [ConnectTheStars](https://connectthestars.xyz/) or [Movie To Movie](https://movietomovie.com/) - Connect Stars through Movies
-* [The Wiki Game](https://www.thewikigame.com/), [Six Degrees of Wikipedia](https://www.sixdegreesofwikipedia.com/) or [WikiRacer](https://wikiracer.io/) - Wiki Exploration Games / [Automation Tool](https://gitlab.com/johanbluecreek/wikiracer)
 * [Minecraft Classic](https://classic.minecraft.net/) - Play Minecraft Classic
 * [racing-game](https://racing.pmnd.rs/) - Driving Game / [GitHub](https://github.com/pmndrs/racing-game) / [Discord](https://discord.gg/dQW7fDmaAG)
 * [slow roads](https://slowroads.io/) - Driving Game
@@ -466,6 +463,7 @@
 
 ## ▷ Platformer
 
+* ⭐ **[Bonk](https://bonk.io/)** - Multiplayer Physics Game
 * ⭐ **[TotalJerkFace](https://totaljerkface.com/)** - Happy Wheels & Other Games
 * ⭐ **[Line Rider](https://www.linerider.com/)** - Draw Sled Tracks
 * [LOLBeans](https://lolbeans.io/) - Fall Guys Clone
@@ -478,10 +476,9 @@
 
 ## ▷ Arcade
 
-* ⭐ **[Bonk](https://bonk.io/)** - Multiplayer Physics Game
 * ⭐ **[Powerline.io](https://powerline.io/)** - Multiplayer Snake
 * ⭐ **[QWOP](https://www.foddy.net/Athletics.html)** - Ragdoll Running Game
-* [TagPro](https://koalabeast.com/) - Multiplyer Capture the Flag
+* ⭐ **[TagPro](https://koalabeast.com/)** - Multiplyer Capture the Flag
 * [Wings.io](https://wings.io/) - Multiplyer Plane Battles
 * [Slither.io](http://slither.io/) - Grow the Longest Worm
 * [Hexar.io](http://www.hexar.io/), [splix.io](https://splix.io/) or [paper-io](https://paper-io.com/) - Control the Map 
@@ -652,37 +649,14 @@
 
 ***
 
-## ▷ Wordle Games
+## ▷ Trivia Games
 
-* 🌐 **[Awesome Wordle](https://github.com/prakhar897/awesome-wordle)** - Wordle Game Index
-* ⭐ **[Wordles of the World](https://rwmpelstilzchen.gitlab.io/wordles/)** - [Analyzer](https://wordle-analyzer.com/)
-* [Wordle Unlimited](https://wordleunlimited.org/)
-* [Huedle](https://huedle.com/)
-* [BoxOfficeGA](https://boxofficega.me/)
-* [Alphabeticle](https://alphabeticle.xyz/)
-* [WordMaze](https://wordmaze.click/)
-* [WordleGame](https://wordlegame.org/)
-* [Squaredle](https://squaredle.app/)
-* [Wordlevs](https://wordlevs.com/)
-* [Octordle](https://www.britannica.com/games/octordle/)
-* [Nerdle](https://nerdlegame.com/) - Number Guessing Game
-* [Cinenerdle2](https://www.cinenerdle2.app/) - Movie Puzzle
-* [Factle](https://factle.app/) - Fact Style Wordle
-* [Countle](https://www.countle.org/) - Math Style Wordle
-* [Ridella](https://ridella.xyz/) - Riddle Style Wordle
-* [ChessGuessr](https://www.chessguessr.com/) - Chess Style Wordle
-* [LoLdle](https://loldle.net/) - League of Legends Wordle
-* [Minecraftle](https://minecraftle.zachmanson.com/) - Minecraft Crafting Style Wordle
-* [Squirdle](https://squirdle.fireblend.com/) - Pokémon Style Wordle
-
-***
-
-## ▷ Guessing Games
-
-* ⭐ **[skribbl](https://skribbl.io/)**, [Sketchful](https://sketchful.io/), [Drawize](https://www.drawize.com/), [Pictioner](https://www.pictioner.com/) or [Gartic](https://gartic.io/) - Drawing / Guessing Game / Multiplayer
 * ⭐ **[GuessTheGame](https://guessthe.game/)** - Game Guessing Game
 * ⭐ **[Globle](https://globle-game.com/)**, [OpenGuessr](https://openguessr.netlify.app/), [City Guesser](https://virtualvacation.us/guess), [Quizzity](https://david-peter.de/quizzity/), [Where Am I?](https://whereami.io/) or [Geotastic](https://geotastic.de/) - Location Guessing Games
 * [GeoTips](https://geotips.net/) / [Discord](https://discord.gg/svhWzU7FMa) or [Top Tricks](https://somerandomstuff1.wordpress.com/2019/02/08/geoguessr-the-top-tips-tricks-and-techniques/) - GeoGuessr Guides
+* ⭐ **[Free Rice](https://freerice.com/)** - Earn Rice for the World Food Programme
+* [Huedle](https://huedle.com/)
+* [BoxOfficeGA](https://boxofficega.me/)
 * [Akinator](https://en.akinator.com/) - 20 Questions
 * [LostGamer](https://lostgamer.io/) - Video Game GeoGuessr
 * [GTA V GeoGuesser](https://gta-geoguesser.com/) - GTA V GeoGuessr
@@ -692,6 +666,9 @@
 * [English Sandwhich](https://englishsandwich.github.io/) - Guess Where Dishes are From
 * [FlightGuesser](https://flightguesser.com/) - Flight Path Guessing Game
 * [WTM](https://whatthemovie.com/), [Kino.wtf](https://www.kino.wtf/), [RT Daily](https://www.rottentomatoes.com/daily/) or [Framed](https://framed.wtf/) - Movie Guessing Games
+* [Cinenerdle2](https://www.cinenerdle2.app/) - Movie Puzzle
+* [ConnectTheStars](https://connectthestars.xyz/) or [Movie To Movie](https://movietomovie.com/) - Connect Stars through Movies
+* [The Wiki Game](https://www.thewikigame.com/), [Six Degrees of Wikipedia](https://www.sixdegreesofwikipedia.com/) or [WikiRacer](https://wikiracer.io/) - Wiki Exploration Games / [Automation Tool](https://gitlab.com/johanbluecreek/wikiracer)
 * [Music Challenge](https://pudding.cool/2020/04/music-challenge/) or [MusicNerd](https://musicnerd.io/) - Music Guessing Games
 * [DanceMusic](http://dancemusic.wtf/) - Electronic Music Genre Guessing Game
 * [Guess My Rank](https://guessmyrank.com/) - Guess Player Game Ranks
@@ -703,7 +680,29 @@
 * [Guess The Year](https://guess-the-year.davjhan.com/) or [ChronoPhoto](https://www.chronophoto.app/) - Year Guessing Game
 * [Approved, or Not Approved?](https://approvednotapproved.com/) - Approved Advertising Guessing Game
 * [Wikitrivia](https://wikitrivia.tomjwatson.com/) - Guess Which Event Came First
+* [LoLdle](https://loldle.net/) - League of Legends Wordle
+* [Minecraftle](https://minecraftle.zachmanson.com/) - Minecraft Crafting Style Wordle
+* [Squirdle](https://squirdle.fireblend.com/) - Pokémon Style Wordle
 * [AI Bingo](https://ai-bingo.lipsumar.io/) - AI Art Guessing Games
+
+***
+
+## ▷ Word Games
+
+* 🌐 **[Awesome Wordle](https://github.com/prakhar897/awesome-wordle)** - Wordle Game Index
+* ⭐ **[Wordle](https://www.nytimes.com/games/wordle/index.html)** - Original Wordle
+* ⭐ **[Wordles of the World](https://rwmpelstilzchen.gitlab.io/wordles/)** - [Analyzer](https://wordle-analyzer.com/)
+* [Wordle Unlimited](https://wordleunlimited.org/)
+* [Alphabeticle](https://alphabeticle.xyz/)
+* [WordMaze](https://wordmaze.click/)
+* [WordleGame](https://wordlegame.org/)
+* [Squaredle](https://squaredle.app/)
+* [Wordlevs](https://wordlevs.com/)
+* [Octordle](https://www.britannica.com/games/octordle/)
+* [Nerdle](https://nerdlegame.com/) - Number Guessing Game
+* [Factle](https://factle.app/) - Fact Style Wordle
+* [Countle](https://www.countle.org/) - Math Style Wordle
+* [Ridella](https://ridella.xyz/) - Riddle Style Wordle
 
 ***
 
