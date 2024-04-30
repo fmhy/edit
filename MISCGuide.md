@@ -1166,6 +1166,7 @@
 * [This Is Sand](https://thisissand.com/) - Make Sand Art
 * [Orb.Farm](https://orb.farm/) - Virtual Aquatic Ecosystem
 * [Generativeplanets](https://zehfernandes.com/generativeplanets/builder) or [Planet](https://oskarstalberg.com/game/planet/planet.html) - Planet Generators
+* [Townscaper](https://oskarstalberg.com/Townscaper/) - Town Building Sandbox
 * [Gravity Points](https://codepen.io/akm2/full/rHIsa), [Hermann](https://www.hermann.is/gravity/) or [dmilin1](https://dmilin1.github.io/PrincipiaJS/build/index.html) - Gravity Simulators
 * [Google Gravity](https://mrdoob.com/projects/chromeexperiments/google-gravity/) - Falling Google
 * [Origami Simulator](https://origamisimulator.org/) - Origami Simulation
