@@ -706,7 +706,7 @@
 * [Musopen](https://musopen.org/) - Free Sheet Music
 * [Sheet Music International](https://sheetmusicinternational.com/) - Free Sheet Music
 * [CosandScores](http://waltercosand.com/CosandScores/) - Free Sheet Music
-* [free-scores](hhttps://www.free-scores.com/free-sheet-music.php) - Free Sheet Music
+* [free-scores](https://www.free-scores.com/free-sheet-music.php) - Free Sheet Music
 * [Sheet music for free](https://sheetmusicforfree.com/) - Free Sheet Music
 * [bateristaspt](https://www.bateristaspt.com/membros/drumscores/) - Free Sheet Music
 * [tchunes](https://www.daev.ca/tchunes/) - Free Sheet Music
