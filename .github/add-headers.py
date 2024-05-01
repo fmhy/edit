@@ -33,6 +33,7 @@ headers = {
         "Books / Comics / Manga",
         "Books, Comics, Magazines, Newspapers",
     ],
+    "game-tools.md": ["Gaming Tools", "Git, Hosting, App Dev, Software Dev"],
     "DEVTools.md": ["Developer Tools", "Git, Hosting, App Dev, Software Dev"],
     "img-tools.md": ["Image Tools", "Image Editors, Generators, Compress"],
     "Audio-Tools.md": [
