@@ -656,7 +656,7 @@
 
 ## ▷ Sheet Music / Notation
 
-* 🌐 **[Awesome Music](https://github.com/noteflakes/awesome-music)** - Everything Music
+* 🌐 **[Awesome Music Notation](https://github.com/noteflakes/awesome-music?tab=readme-ov-file#music-notation)** - Notation Tools
 * 🌐 **[Awesome Sheet Music](https://github.com/ad-si/awesome-sheet-music)** - Sheet Music Software & Resources
 * ↪️ **[Music Notation Editors]()**
 * ↪️ **[Music Sheet Collections]()**
