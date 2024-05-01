@@ -1,5 +1,5 @@
 ---
-title: Monthly Updates [April 2024]
+title: Monthly Updates [April]
 description: April 2024 updates
 date: 2024-04-01
 next: false
