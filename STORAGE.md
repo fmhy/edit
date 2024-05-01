@@ -683,7 +683,7 @@
 
 ### General Music Sheets
 
-* ⭐ **[Musescore.com](https://musescore.com/) - Free Sheet Music
+* ⭐ **[Musescore.com](https://musescore.com/)** - Free Sheet Music
 * [8notes](https://www.8notes.com/) - Free Sheet Music
 * [Mutopia Project](https://www.mutopiaproject.org/) - Free Sheet Music
 * [sheetmusiceden](https://sheetmusiceden.com/) - Free Sheet Music
