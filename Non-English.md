@@ -141,7 +141,6 @@
 * [TopHub](https://tophub.today/) or [Chinadaily](https://cn.chinadaily.com.cn/) - News
 * [Diaosi Forum](https://assbbs.com/) - Piracy Discussion Forum
 * [V2EX](https://v2ex.com/) or [ZongScan](https://www.zongscan.com/) - Programming Forum
-* [FE Hunter](https://github.com/BetaSu/fe-hunter) - Programming Question Bounties
 * [Baidu](https://www.baidu.com/) / [2](http://hk.baidu.com/), [Toutiao](https://www.toutiao.com/), [sogou](https://www.sogou.com/) or [yisou](http://yisou.com/) - Search Engines
 * [IT Home](https://www.ithome.com/) - Tech News
 * [jialezi](https://blog.jialezi.net/) - Tech Tutorials
@@ -270,7 +269,6 @@
 * [CBeta](https://www.cbeta.org/) - Chinese Buddhist Scriptures
 * [Open Literature](http://open-lit.com/html/) - Classic Chinese Novels
 * [21dzk](https://21dzk.l.u-tokyo.ac.jp/SAT/index.html) - Chinese Buddhist Scriptures
-* [Legado](https://github.com/gedoor/legado) - Android Ebook Reader
 * [wenku](https://pypi.org/project/wenku/) - Baidu Wenku Downloader
 * [Trtag](https://trtag.com/) - Movies / TV Encyclopedia
 
@@ -569,6 +567,7 @@
 * [Indian Flac Songs](https://t.me/indianflacsongs) - Music / FLAC
 * [WapKing](https://wapking.name/) - Music / MP3
 * [Pendujatt](https://www.pendujatt.net/) - Music / MP3 / [Telegram](https://telegram.me/pendujattcom)
+* [Malayalam Film Songs](https://t.me/cc_NewMalayalamMp3) - Audio
 * [Hindi Courses](https://rentry.co/FMHYBase64#hindi-courses)
 
 ## ▷ Torrenting
@@ -829,10 +828,6 @@
 # ► Malay / Bahasa Melayu
 
 * [Lowyat](https://forum.lowyat.net/) - Tech Forum
-
-## ▷ Downloading
-
-* [Malayalam Film Songs](https://t.me/cc_NewMalayalamMp3) - Audio
 
 ## ▷ Reading
 
@@ -1124,7 +1119,6 @@
 * [Revista do Linux](https://augustocampos.net/revista-do-linux/index.html) - Linux Magazine
 * [Jornais Brasileiros](https://www.jornaisbrasileiros.net.br) - News App
 * [Microsoft Learn](https://learn.microsoft.com/pt-br/training/) - Development Tutorials
-* [Guia do Desenvolvedor Front-end](https://github.com/arthurspk/guiadofrontend) - Front-End Development Guide
 * [Toda Matéria](https://www.todamateria.com.br) - Learning Material
 * [Brasil Escola](https://brasilescola.uol.com.br) - Learning Material
 * [Mundo Educação](https://mundoeducacao.uol.com.br) - Math / History
