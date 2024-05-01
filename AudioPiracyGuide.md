@@ -667,7 +667,6 @@
 * [Piascore](https://apps.apple.com/us/app/piascore-hd/id406141702) - iOS Music Score Viewer
 * [IMSLP](https://imslp.org/wiki/Main_Page) - Public Domain Scores
 * [/r/sheetmusic](https://reddit.com/r/sheetmusic) - Reddit Community
-* [Piano Sheet Music](https://drive.google.com/drive/folders/0BxkQJMTuId4dfkxiM01GYnFBUFdDVmRHMGREM1JKYVdBajJtV2pVSExrS2txT1BOdXlfMUE?resourcekey=0-4uwizkHnsGLakmC-cA173A), [2](https://drive.google.com/drive/folders/1-hieArroBCq1x6z4GQ_gdFuyEz_Ftvxg) or [Anime Sheet Music](https://drive.google.com/drive/folders/0B2k9HIXzBEfMVlgxTlhNWThzZkk?resourcekey=0-q0RdwD55Az5S3NigaliZEA) - Sheet Music Drives
 * [VGLeadSheets](https://www.vgleadsheets.com/) - Transcribe Video Game Music
 * [Omnizart](https://github.com/Music-and-Culture-Technology-Lab/omnizart) - Python Music Transcription Library
 * [Soundslice](https://www.soundslice.com/transcribe/) - Manually Transcribe
