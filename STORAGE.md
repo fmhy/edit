@@ -681,22 +681,6 @@
 
 ## Music Sheet Collections
 
-* [flutetunes](https://www.flutetunes.com/) or [Flue Music](https://drive.google.com/drive/folders/1WMtVRNqLFdEQ4X39Dpof9o5aWGJsdtFe?usp=sharing) - Flute Sheet Music
-* [Game Music Themes](https://www.gamemusicthemes.com/) - Video Game Sheet Music
-* [Ichigo's Sheet Music](https://ichigos.com/) - Video Game & Anime Sheet Music
-* [Piano Sheet Music](https://drive.google.com/drive/folders/0BxkQJMTuId4dfkxiM01GYnFBUFdDVmRHMGREM1JKYVdBajJtV2pVSExrS2txT1BOdXlfMUE?resourcekey=0-4uwizkHnsGLakmC-cA173A), [2](https://drive.google.com/drive/folders/1-hieArroBCq1x6z4GQ_gdFuyEz_Ftvxg) or [Anime Sheet Music](https://drive.google.com/drive/folders/0B2k9HIXzBEfMVlgxTlhNWThzZkk?resourcekey=0-q0RdwD55Az5S3NigaliZEA) - Sheet Music Drives
-* [ChoralWiki](https://www.cpdl.org/wiki/index.php/Main_Page) - Choral Music Sheets
-* [BandMusic PDF Library](https://bandmusicpdf.org/) - Golden Age Band Music Sheets
-* [themorgan](https://www.themorgan.org/music) or [Silent Film Archive](https://www.sfsma.org/) - Music Manuscripts
-* [DIAMM](https://www.diamm.ac.uk/) - Medieval Manuscripts
-* [UNT Digital Library](https://digital.library.unt.edu/explore/collections/VRBR/browse/) or [chopin](https://chopin.lib.uchicago.edu/) - Rare Manuscripts
-* [mozarteum](https://dme.mozarteum.at/DME/nma/nmapub_srch.php?l=2) - Digital Mozart Collection
-* [Brown University](https://library.brown.edu/cds/sheetmusic/afam/about.html) - African American Sheet Music
-* [Rochester University](https://urresearch.rochester.edu/viewInstitutionalCollection.action?collectionId=63), [Contemporary Music Score](https://escholarship.org/uc/uclamusicscores), [UNC](https://dc.lib.unc.edu/cdm/landingpage/collection/sheetmusic) - University Collections
-* [Sheet Music Consortium](https://digital.library.ucla.edu/sheetmusic/) - Search Universities
-* [Public Domain Sherpa](https://www.publicdomainsherpa.com/free-sheet-music.html) - Sheet Music Resources
-
-
 ### General Music Sheets
 
 * [8notes](https://www.8notes.com/) - Free Sheet Music
@@ -711,6 +695,23 @@
 * [bateristaspt](https://www.bateristaspt.com/membros/drumscores/) - Free Sheet Music
 * [tchunes](https://www.daev.ca/tchunes/) - Free Sheet Music
 * [ScorSer](http://en.scorser.com/D/Sheet+music.html) - Free Sheet Music
+
+### Specific Music Sheets
+
+* [flutetunes](https://www.flutetunes.com/) or [Flue Music](https://drive.google.com/drive/folders/1WMtVRNqLFdEQ4X39Dpof9o5aWGJsdtFe?usp=sharing) - Flute Sheet Music
+* [Game Music Themes](https://www.gamemusicthemes.com/) - Video Game Sheet Music
+* [Ichigo's Sheet Music](https://ichigos.com/) - Video Game & Anime Sheet Music
+* [Piano Sheet Music](https://drive.google.com/drive/folders/0BxkQJMTuId4dfkxiM01GYnFBUFdDVmRHMGREM1JKYVdBajJtV2pVSExrS2txT1BOdXlfMUE?resourcekey=0-4uwizkHnsGLakmC-cA173A), [2](https://drive.google.com/drive/folders/1-hieArroBCq1x6z4GQ_gdFuyEz_Ftvxg) or [Anime Sheet Music](https://drive.google.com/drive/folders/0B2k9HIXzBEfMVlgxTlhNWThzZkk?resourcekey=0-q0RdwD55Az5S3NigaliZEA) - Sheet Music Drives
+* [ChoralWiki](https://www.cpdl.org/wiki/index.php/Main_Page) - Choral Music Sheets
+* [BandMusic PDF Library](https://bandmusicpdf.org/) - Golden Age Band Music Sheets
+* [themorgan](https://www.themorgan.org/music) or [Silent Film Archive](https://www.sfsma.org/) - Music Manuscripts
+* [DIAMM](https://www.diamm.ac.uk/) - Medieval Manuscripts
+* [UNT Digital Library](https://digital.library.unt.edu/explore/collections/VRBR/browse/) or [chopin](https://chopin.lib.uchicago.edu/) - Rare Manuscripts
+* [mozarteum](https://dme.mozarteum.at/DME/nma/nmapub_srch.php?l=2) - Digital Mozart Collection
+* [Brown University](https://library.brown.edu/cds/sheetmusic/afam/about.html) - African American Sheet Music
+* [Rochester University](https://urresearch.rochester.edu/viewInstitutionalCollection.action?collectionId=63), [Contemporary Music Score](https://escholarship.org/uc/uclamusicscores), [UNC](https://dc.lib.unc.edu/cdm/landingpage/collection/sheetmusic) - University Collections
+* [Sheet Music Consortium](https://digital.library.ucla.edu/sheetmusic/) - Search Universities
+* [Public Domain Sherpa](https://www.publicdomainsherpa.com/free-sheet-music.html) - Sheet Music Resources
 
 ***
 
