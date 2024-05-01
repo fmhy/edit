@@ -272,69 +272,6 @@
 
 ***
 
-## ▷ Homebrew
-
-* 🌐 **[Darthsternie](https://darthsternie.net/)** - Console Firmware / Exploit Archive
-* 🌐 **[FlagBrew](https://flagbrew.org/)** - Switch / 3DS Homebrew Resources / [Discord](https://discord.com/invite/4Rv8DTzGFa)
-* 🌐 **[DS Homebrew](https://ds-homebrew.com/)** - DS Homebrew Resources / [Wiki](https://wiki.ds-homebrew.com/) / [Discord](https://discord.com/invite/yD3spjv)
-* 🌐 **[Emulators on Consoles](https://emulation.gametechwiki.com/index.php/Category:Emulators_on_consoles)** - List of Emulators for Consoles
-* ⭐ **[PS4 Modding](https://youtu.be/vGhSgogxaG8)**, [PSX Hax](https://www.psxhax.com/), [PSDevWiki](https://www.psdevwiki.com/) or [Wololo](https://wololo.net/) - Playstation Modding Guides
-* ⭐ **[Hacks.Guide](https://hacks.guide/)**, **[CFW Guide](https://cfw.guide/)**, [ConsoleMods.org](https://consolemods.org/) / [Discord](https://discord.gg/x5vEnkR4C8), [Digiex](https://digiex.net/forums/), [Homebrew Guides](https://rentry.co/Guides), [CFWaifu](https://www.cfwaifu.com/), [Homebrew General](https://www.homebrewgeneral.net/) or [Gamebrew](https://www.gamebrew.org/) - Homebrew Guides
-* ⭐ **[GBATemp](https://gbatemp.net/)** - Homebrew Forum
-* ⭐ **[Nintendo Homebrew](https://discord.gg/C29hYvh)** - Nintendo Homebrew Discord
-* ⭐ **[Wii Guide](https://wii.hacks.guide/)**, [WiiBrew](https://wiibrew.org/) or [Wii Softmod Guide](https://sites.google.com/site/completesg) - Wii Homebrew Guides
-* ⭐ **[Wiimmfi](https://wiimmfi.de/)** or [Kaeru Team](https://kaeru.world/) - Wii / DS Multiplayer Servers
-* [/r/SwitchPirates](https://www.reddit.com/r/SwitchPirates/), [/r/SwitchHaxing](https://reddit.com/r/SwitchHaxing) or [/r/SwitchHacks](https://reddit.com/r/SwitchHacks) - Switch Homebrew Subreddits
-* [Switch Guide](https://nh-server.github.io/switch-guide/) or [Switch Hacking Is Easy](https://rentry.org/SwitchHackingIsEasy) - Switch Homebrew Guides
-* [LAN Play Status](http://lan-play.com/) or [Switch-LAN-Play](https://github.com/spacemeowx2/switch-lan-play) / [Discord](https://discord.gg/PUEmfV4) - Multiplayer Switch Servers
-* [Switchway](https://discord.gg/switchway) - Switch Homebrew Discord Server
-* [NSP Forwarder](https://nsp-forwarder.n8.io/) - Switch NSP Forwarder
-* [DeepSea](https://github.com/Team-Neptune/DeepSea) - Switch CFW Package 
-* [WiiU Exploit](https://wiiuexploit.xyz/) or [ModMii](https://modmii.github.io/) - WiiU Homebrew Installer
-* [Pretendo](https://pretendo.network/) - WiiU / 3DS Network Replacement / [Discord](https://invite.gg/pretendo)
-* [/r/WiiUHacks](https://www.reddit.com/r/WiiUHacks/) - WiiU Homebrew Subreddit
-* [QuickPassthrough](https://github.com/HikariKnight/quickpassthrough) - Simplified Qemu GPU Passthrough
-* [/r/WiiHacks](https://www.reddit.com/r/WiiHacks/) - Wii Homebrew Subreddit
-* [LetterBomb](https://please.hackmii.com/) or [str2hax](https://gbatemp.net/threads/a-channel-less-sd-less-entry-point-str2hax.523210/) - Wii Homebrew Installer / [Find MAC](https://en-americas-support.nintendo.com/app/products/detail/p/604)
-* [Open Shop Channel](https://oscwii.org/) - Wii Homebrew App Library
-* [WiiLink](https://www.wiilink24.com/) - WiiConnect24 Replacement
-* [3DS Hacks Guide](https://3ds.hacks.guide/) - 3DS Modding Guide
-* [Universal DB](https://db.universal-team.net/) - 3DS / DS Modding Apps
-* [/r/3DSPiracy](https://www.reddit.com/r/3dspiracy/) or [3DSHacks](https://reddit.com/r/3dshacks/) - 3DS Modding Subreddit
-* [Luma3DS](https://github.com/LumaTeam/Luma3DS) - 3DS Custom Firmware
-* [Theme Plaza](https://themeplaza.art/themes) - 3DS Themes / [Discord](https://discord.com/invite/Pz25PX5vr5)
-* [GodMode9](https://github.com/d0k3/GodMode9) - 3DS File Browser
-* [Batch CIA 3DS Decryptor](https://gbatemp.net/threads/batch-cia-3ds-decryptor-a-simple-batch-file-to-decrypt-cia-3ds.512385/) - Decrypt 3DS Files
-* [BootNTR](https://github.com/Nanquitas/BootNTR) - Stream 3DS to PC or Mac / [Instructions](https://gbatemp.net/threads/3ds-screen-recording-without-a-capture-card-ntr-cfw-method.423445/)
-* [Rverse](https://discord.gg/wCvJSCxf4G) - 3DS Miiverse Recreation
-* [Game Boy Tech Page](https://web.archive.org/web/19990209041732/http://home.hiwaay.net/%7Ejfrohwei/gameboy/home.html) - Game Boy Tools
-* [Game Boy Book Reader](https://www.mqp.com/fun/) - Game Boy Book Reader
-* [NESC-SNESC-Modifications](https://github.com/KMFDManic/NESC-SNESC-Modifications) - NES, SNES & Playstation Mods
-* [Chiaki](https://git.sr.ht/~thestr4ng3r/chiaki) - PS4 / PS5 Remote Play Client
-* [PS4Homebrew](https://www.reddit.com/r/ps4homebrew/) - PS4 Homebrew Subreddits
-* [Exploit Host](https://github.com/Al-Azif/ps4-exploit-host) - PS4 Exploit Hosting
-* [DarkSoftware](https://www.darksoftware.xyz/) - PS4 / PS3 Firmware
-* [/r/ps3homebrew](https://reddit.com/r/ps3homebrew) - PS3 Homebrew Subreddit
-* [PS3 Disc Dumper](https://github.com/13xforever/ps3-disc-dumper) - Decrypted PS3 Disc Dumper
-* [PS3 Game Updater](https://www.psx-place.com/threads/ps3-game-updater-v1-5-psn-liberator-v0-96b-rudi-rastelli-adds-ps3p-pkg-ripper-support.3766/) or [Manually Updated](http://demo.aldostools.org/updates.html) - Update PS3 Games
-* [PS3Themes](http://www.ps3-themes.com/) - PS3 Themes
-* [PSXDev](https://www.psxdev.net/) - PS1 Development
-* [MemcardRex](https://shendosoft.blogspot.com/2014/01/memcardrex-18-released.html?m=1) - PS1 Save Transfer Tools / [Archive](https://archive.org/details/MemcardRex1.8)
-* [/r/VitaPiracy](https://www.reddit.com/r/VitaPiracy/) / [Discord](https://discord.gg/6Udcx2w) or [/r/VitaHacks](https://reddit.com/r/vitahacks/) - PSVita Homebrew Subreddits
-* [PSP Archive](https://psp-archive.github.io/) - PSP Homebrew Archive / [Discord](https://discord.gg/VZcjFvy3mT)
-* [VitaDB](https://vitadb.rinnegatamante.it/) - PS Vita Homebrews
-* [Vita Volume](https://gitlab.com/sinful-butterfly/vita-volume) - Set PS Vita Volume without Buttons
-* [ModMyClassic](https://modmyclassic.com/) - Classic Console Mods
-* [/r/360Hacks Guide](https://redd.it/8y9jql) - Xbox 360 Modding Guide
-* [C-Xbox Tool](https://gbatemp.net/download/c-xbox-tool.7615/) - .XBE to ISO File Converter
-* [NASOS](https://download.digiex.net/Consoles/GameCube/Apps/NASOSbeta1.rar) - Gamecube iso.dec to ISO Converter
-* [WBFStoISO](https://www.wbfstoiso.com/) - WBFS to ISO 
-* [hakchi2 CE](https://github.com/TeamShinkansen/Hakchi2-CE) / [Discord](https://discord.gg/UUvqsAR) - Add More Roms to NES/SNES Classic Mini
-* [emuiibo](https://github.com/XorTroll/emuiibo) - Amiibo Emulator
-* [Easy Guide to Making Amiibo](https://redd.it/5ywlol) - How to Make Your Own Amiibo
-
-***
-
 ## ▷ Browser Emulators
 
 * 🌐 **[Browser Emulator Index](https://emulation.gametechwiki.com/index.php/Emulators_on_browsers)** - List of Browser Emulators
@@ -375,6 +312,91 @@
 * [Google Maps Snake](https://snake.googlemaps.com/) - Google Snake
 * [Snake-Game](https://www.onemotion.com/snake-game/) - 3D Snake
 * [TENNIS!](https://snek-vunderkind.vercel.app/games/tennis.html) - JavaScript Pong
+
+***
+
+# ► Homebrew
+
+* 🌐 **[Darthsternie](https://darthsternie.net/)** - Console Firmware / Exploit Archive
+* 🌐 **[Emulators on Consoles](https://emulation.gametechwiki.com/index.php/Category:Emulators_on_consoles)** - List of Emulators for Consoles
+* ⭐ **[Hacks.Guide](https://hacks.guide/)**, **[CFW Guide](https://cfw.guide/)**, [ConsoleMods.org](https://consolemods.org/) / [Discord](https://discord.gg/x5vEnkR4C8), [Digiex](https://digiex.net/forums/), [Homebrew Guides](https://rentry.co/Guides), [CFWaifu](https://www.cfwaifu.com/), [Homebrew General](https://www.homebrewgeneral.net/) or [Gamebrew](https://www.gamebrew.org/) - Homebrew Guides
+* ⭐ **[Nintendo Homebrew](https://discord.gg/C29hYvh)** - Nintendo Homebrew Discord
+* ⭐ **[GBATemp](https://gbatemp.net/)** - Homebrew Forum
+* [Game Boy Tech Page](https://web.archive.org/web/19990209041732/http://home.hiwaay.net/%7Ejfrohwei/gameboy/home.html) - Game Boy Tools
+* [Game Boy Book Reader](https://www.mqp.com/fun/) - Game Boy Book Reader
+* [NESC-SNESC-Modifications](https://github.com/KMFDManic/NESC-SNESC-Modifications) - NES, SNES & Playstation Mods
+* [ModMyClassic](https://modmyclassic.com/) - Classic Console Mods
+* [/r/360Hacks Guide](https://redd.it/8y9jql) - Xbox 360 Modding Guide
+* [C-Xbox Tool](https://gbatemp.net/download/c-xbox-tool.7615/) - .XBE to ISO File Converter
+* [NASOS](https://download.digiex.net/Consoles/GameCube/Apps/NASOSbeta1.rar) - Gamecube iso.dec to ISO Converter
+* [hakchi2 CE](https://github.com/TeamShinkansen/Hakchi2-CE) / [Discord](https://discord.gg/UUvqsAR) - Add More Roms to NES/SNES Classic Mini
+* [Easy Guide to Making Amiibo](https://redd.it/5ywlol) - How to Make Your Own Amiibo
+
+***
+
+## ▷ Switch Homebrew
+
+* [Switch Guide](https://nh-server.github.io/switch-guide/) or [Switch Hacking Is Easy](https://rentry.org/SwitchHackingIsEasy) - Switch Homebrew Guides
+* [/r/SwitchPirates](https://www.reddit.com/r/SwitchPirates/), [/r/SwitchHacks](https://reddit.com/r/SwitchHacks) or [/r/SwitchHaxing](https://reddit.com/r/SwitchHaxing) - Switch Homebrew Subreddits
+* [Switchway](https://discord.gg/switchway) - Switch Homebrew Discord Server
+* [LAN Play Status](http://lan-play.com/) or [Switch-LAN-Play](https://github.com/spacemeowx2/switch-lan-play) / [Discord](https://discord.gg/PUEmfV4) - Switch Multiplayer Servers
+* [FlagBrew](https://flagbrew.org/) - Switch / [Discord](https://discord.com/invite/4Rv8DTzGFa)
+* [NSP Forwarder](https://nsp-forwarder.n8.io/) - Switch NSP Forwarder
+* [DeepSea](https://github.com/Team-Neptune/DeepSea) - Switch CFW Package
+* [emuiibo](https://github.com/XorTroll/emuiibo) - Amiibo Emulator
+
+***
+
+## ▷ Wii U / Wii Homebrew
+
+* ⭐ **[Wii U Guide](https://wiiu.hacks.guide/)** - Wii U Jailbreak Guide
+* ⭐ **[Wii Guide](https://wii.hacks.guide/)**, [WiiBrew](https://wiibrew.org/) or [Wii Softmod Guide](https://sites.google.com/site/completesg) - Wii Jailbreak Guides
+* ⭐ **[Wiimmfi](https://wiimmfi.de/)** - Wii Multiplayer Servers
+* [Pretendo](https://pretendo.network/) - Wii U Network Replacement / [Discord](https://invite.gg/pretendo)
+* [/r/WiiUHacks](https://www.reddit.com/r/WiiUHacks/) - Wii U Homebrew Subreddit
+* [/r/WiiHacks](https://www.reddit.com/r/WiiHacks/) - Wii Homebrew Subreddit
+* [Open Shop Channel](https://oscwii.org/) - Wii Homebrew App Library
+* [WBFStoISO](https://www.wbfstoiso.com/) - WBFS to ISO 
+* [WiiLink](https://www.wiilink24.com/) - WiiConnect24 Replacement
+
+***
+
+## ▷ 3DS / DS Homebrew
+
+* 🌐 **[DS Homebrew](https://ds-homebrew.com/)** - DS Homebrew Resources / [Wiki](https://wiki.ds-homebrew.com/) / [Discord](https://discord.com/invite/yD3spjv)
+* ⭐ **[3DS Jailbreak Guide](https://3ds.hacks.guide/)** - 3DS Jailbreak Guide
+* ⭐ **[DSi Jailbreak Guide](https://dsi.cfw.guide/)** - DSi Jailbreak Guide
+* ⭐ **[Wiimmfi](https://wiimmfi.de/)** or [Kaeru Team](https://kaeru.world/) - DS Multiplayer Servers
+* [Pretendo](https://pretendo.network/) - 3DS Network Replacement / [Discord](https://invite.gg/pretendo)
+* [Universal DB](https://db.universal-team.net/) - 3DS / DS Modding Apps
+* [Theme Plaza](https://themeplaza.art/themes) - 3DS Themes / [Discord](https://discord.com/invite/Pz25PX5vr5)
+* [BootNTR](https://github.com/Nanquitas/BootNTR) - Stream 3DS to PC or Mac / [Instructions](https://gbatemp.net/threads/3ds-screen-recording-without-a-capture-card-ntr-cfw-method.423445/)
+* [/r/3DSPiracy](https://www.reddit.com/r/3dspiracy/) or [3DSHacks](https://reddit.com/r/3dshacks/) - 3DS Modding Subreddit
+* [FlagBrew](https://flagbrew.org/) - 3DS Homebrew Apps / [Discord](https://discord.com/invite/4Rv8DTzGFa)
+* [Luma3DS](https://github.com/LumaTeam/Luma3DS) - 3DS Custom Firmware
+* [GodMode9](https://github.com/d0k3/GodMode9) - 3DS File Browser
+* [Batch CIA 3DS Decryptor](https://gbatemp.net/threads/batch-cia-3ds-decryptor-a-simple-batch-file-to-decrypt-cia-3ds.512385/) - Decrypt 3DS Files
+* [Rverse](https://discord.gg/wCvJSCxf4G) - 3DS Miiverse Recreation
+
+***
+
+## ▷ Playstation Homebrew
+
+* ⭐ **[PS4 Modding](https://youtu.be/vGhSgogxaG8)**, [PSX Hax](https://www.psxhax.com/), [PSDevWiki](https://www.psdevwiki.com/) or [Wololo](https://wololo.net/) - Playstation Modding Guides
+* [Chiaki](https://git.sr.ht/~thestr4ng3r/chiaki) - PS4 / PS5 Remote Play Client
+* [PS4Homebrew](https://www.reddit.com/r/ps4homebrew/) - PS4 Homebrew Subreddits
+* [Exploit Host](https://github.com/Al-Azif/ps4-exploit-host) - PS4 Exploit Hosting
+* [DarkSoftware](https://www.darksoftware.xyz/) - PS4 / PS3 Firmware
+* [/r/ps3homebrew](https://reddit.com/r/ps3homebrew) - PS3 Homebrew Subreddit
+* [PS3 Disc Dumper](https://github.com/13xforever/ps3-disc-dumper) - Decrypted PS3 Disc Dumper
+* [PS3 Game Updater](https://www.psx-place.com/threads/ps3-game-updater-v1-5-psn-liberator-v0-96b-rudi-rastelli-adds-ps3p-pkg-ripper-support.3766/) or [Manually Updated](http://demo.aldostools.org/updates.html) - Update PS3 Games
+* [PS3Themes](http://www.ps3-themes.com/) - PS3 Themes
+* [PSXDev](https://www.psxdev.net/) - PS1 Development
+* [MemcardRex](https://shendosoft.blogspot.com/2014/01/memcardrex-18-released.html?m=1) - PS1 Save Transfer Tools / [Archive](https://archive.org/details/MemcardRex1.8)
+* [/r/VitaPiracy](https://www.reddit.com/r/VitaPiracy/) / [Discord](https://discord.gg/6Udcx2w) or [/r/VitaHacks](https://reddit.com/r/vitahacks/) - PSVita Homebrew Subreddits
+* [PSP Archive](https://psp-archive.github.io/) - PSP Homebrew Archive / [Discord](https://discord.gg/VZcjFvy3mT)
+* [VitaDB](https://vitadb.rinnegatamante.it/) - PS Vita Homebrews
+* [Vita Volume](https://gitlab.com/sinful-butterfly/vita-volume) - Set PS Vita Volume without Buttons
 
 ***
 
