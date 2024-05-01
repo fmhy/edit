@@ -67,13 +67,13 @@
 * ↪️ **[DNS Filters / Blocklists](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_dns_filters)**
 * ↪️ **[Free DNS Servers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_free_dns_servers)**
 * ⭐ **[NextDNS](https://nextdns.io)** - DNS Adblocking / [Guide](https://github.com/yokoffing/NextDNS-Config) / [Video](https://youtu.be/WUG57ynLb8I)
+* ⭐ **[ControlD](https://controld.com/)** - DNS Manager
 * ⭐ **[AdGuard Home](https://github.com/AdguardTeam/AdGuardHome/wiki/Docker)** - DNS Adblocking / Self-Hosted / [Setup](https://github.com/klutchell/balena-adguard) / [Filters](https://github.com/hl2guide/AdGuard-Home-Whitelist)
 * ⭐ **[AhaDNS](https://ahadns.com/)** - DNS Adblocking
 * ⭐ **[BlahDNS](https://blahdns.com/)** - DNS Adblocking
 * ⭐ **[YogaDNS](https://yogadns.com/)**  - DNS Adblocking
 * ⭐ **[Mullvad DNS](https://mullvad.net/en/help/dns-over-https-and-dns-over-tls/)** - DNS Adblocking
 * ⭐ **[serverless-dns](https://rethinkdns.com/configure)** - Serverless DNS
-* [ControlD](https://controld.com/) - DNS Manager
 * [Adguard DNS](https://adguard-dns.io/) - DNS Adblocking
 * [AlternateDNS](https://alternate-dns.com/index.php) - DNS Adblocking
 * [LibreDNS](https://libredns.gr/) - DNS Adblocking
@@ -248,6 +248,7 @@
 * ↪️ **[Encode / Decode URLs](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools#wiki_.25B7_encode_.2F_decode)**
 * ⭐ **[PrivacySpy](https://privacyspy.org/)** or [Terms of Service; Didn't Read](https://tosdr.org/) - Sites Privacy Policies 
 * ⭐ **[JustGetMyData](https://justgetmydata.com/)** - Links to Obtain Your Data from Websites
+* ⭐ **[Safing Portmaster](https://safing.io/)** - Network Monitor / DNS Resolver / Firewall / Adblocker / Security Tool
 * ⭐ **[simplewall](https://github.com/henrypp/simplewall)**, [WFC](https://www.binisoft.org/wfc.php), [pfSense](https://www.pfsense.org/) / [How-to](https://youtu.be/am7xT-zU1Q0) or [Tinywall](https://tinywall.pados.hu/) - Firewall / Network Monitors
 * ⭐ **[Cryptomator](https://cryptomator.org/)**, [Boxcryptor](https://www.boxcryptor.com/en/) or [Tahoe-LAFS](https://tahoe-lafs.org/trac/tahoe-lafs) - Cloud File Encryption
 * [FirefoxMonitor](https://monitor.firefox.com/) - Data Breach Check
@@ -359,7 +360,6 @@
 * [DNS Leak Test](https://www.dnsleaktest.com/), [Bash DNS Test](https://bash.ws/dnsleak) or [DNS Check](https://dnscheck.tools) - DNS Leak Tests
 * [Voidsec](https://ip.voidsec.com/) - WebRTC Leak Tests
 * [WhatIsMyBrowser](https://www.whatismybrowser.com/detect/what-is-my-user-agent) - User-Agent Detection
-* [Safing Portmaster](https://safing.io/) - Monitor Network / Block Trackers / [Discord](https://discord.com/invite/safing) / [GitHub](https://github.com/Safing/portmaster)
 * [TrackMeNot](https://www.trackmenot.io/) - Tracking Protection
 * [JShelter](https://jshelter.org/) - Prevent Fingerprinting / [Warning](https://github.com/arkenfox/user.js/issues/1729#issuecomment-1739135479)
 * [Extension Detector](https://z0ccc.github.io/extension-detector) / [GitHub](https://github.com/z0ccc/extension-detector) - Extension Fingerprinting Tests
@@ -378,7 +378,7 @@
 * ↪️ **[YouTube Frontends](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/social-media#wiki_.25B7_youtube_frontends)**
 * ⭐ **[LibRedirect](https://libredirect.github.io/)** / [2](https://github.com/libredirect/libredirect), [Predirect](https://github.com/libreom/predirect) or [Proxy Redirect](https://openuserjs.org/scripts/sjehuda/Proxy_Redirect) - Frontend Redirect Extensions
 * [Numblr](https://github.com/heyLu/numblr) - Self-Hosted Frontend Redirect
-* [Photon](https://photon-reddit.com/), [reditr](https://reditr.com/) or [redlib](https://github.com/redlib-org/redlib) - Reddit Frontends
+* [Photon](https://photon-reddit.com/), [reditr](https://reditr.com/), [RDX](https://rdx.overdevs.com/) or [redlib](https://github.com/redlib-org/redlib) - Reddit Frontends
 * [Invidious Redirect](https://addons.mozilla.org/en-US/firefox/addon/hooktube-redirect/?src=search) - YouTube Frontend Redirect
 * [twstalker](https://twstalker.com/) - Twitter Frontend
 * [Proxigram](https://codeberg.org/ThePenguinDev/Proxigram) or [Imginn](https://imginn.com) - Instagram Frontends
