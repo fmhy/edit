@@ -667,6 +667,18 @@
 
 ***
 
+## Music Notation Editors
+
+* ⭐ **[MuseScore](https://musescore.org/en)** - Notation Editor / [Downloader](https://github.com/LibreScore/dl-librescore)
+* [Noteflight](https://noteflight.com/)
+* [MC Musiceditor](https://www.mcmusiceditor.com/)
+* [Flat](https://flat.io/)
+* [Finale Notepad](https://www.finalemusic.com/products/notepad/)
+* [Score Perfect Professional](https://archive.org/details/score-perfect-professional-lite-5.1/)
+* [MusicWorks](https://www.tierramedia.com/)
+
+***
+
 ## MPV Shaders
 
 * [FSR](https://gist.github.com/agyild/82219c545228d70c5604f865ce0b0ce5)
@@ -739,6 +751,17 @@
 ### Live Polling
 
 [slido](https://www.slido.com/), [Feedbackr](https://www.feedbackr.io/), [Trypingo](https://trypingo.com/)
+
+***
+
+## Public Music Sheets
+
+* [8notes](https://www.8notes.com/) - Free Sheet Music
+* [Mutopia Project](https://www.mutopiaproject.org/) - Free Sheet Music
+* [sheetmusiceden](https://sheetmusiceden.com/) - Free Sheet Music
+* [Notes Box](https://notes-box.com/) - Free Sheet Music
+* [flutetunes](https://www.flutetunes.com/) or [Flue Music](https://drive.google.com/drive/folders/1WMtVRNqLFdEQ4X39Dpof9o5aWGJsdtFe?usp=sharing) - Flute Sheet Music
+* [Game Music Themes](https://www.gamemusicthemes.com/) - Video Game Sheet Music
 
 ***
 

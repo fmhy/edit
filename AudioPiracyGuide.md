@@ -656,20 +656,35 @@
 
 ***
 
-## ▷ Sheet Music 
+## ▷ Sheet Music / Notation
 
-* ⭐ **[musescore](https://musescore.org/en)** / [Downloader](https://github.com/LibreScore/dl-librescore)
-* [Music Reader](https://music-reader.com/) - Practice Reading Sheet Music
-* [SheetHost](https://sheet.host/) - Publish Sheet Music
-* [VGLeadSheets](https://www.vgleadsheets.com/) or [GameMusicThemes](https://www.gamemusicthemes.com/) - Video Games
-* [FluteTunes](https://www.flutetunes.com/) or [Flue Music](https://drive.google.com/drive/folders/1WMtVRNqLFdEQ4X39Dpof9o5aWGJsdtFe?usp=sharing) - Flute
+* 🌐 **[Awesome Music](https://github.com/noteflakes/awesome-music)** - Everything Music
+* 🌐 **[Awesome Sheet Music](https://github.com/ad-si/awesome-sheet-music)** - Sheet Music Software & Resources
+* ↪️ **[Music Notation Editors]()**
+* ↪️ **[Public Music Sheets]()**
+* [Sheethost](https://sheet.host/) - Publish Sheet Music
+* [Swara Notebook](https://swaranotebook.com/) - Classical Indian Music Notation Generator
+* [The ABC Music Project](https://abc.sourceforge.net/) / [Editor](https://sourceforge.net/projects/toadflax/), [2](https://runabc.sourceforge.io/), [3](https://easyabc.sourceforge.net/) / [PNG Convert](https://sourceforge.net/projects/abccairo/) / [MIDI Convert](https://abcmidi.sourceforge.io/) / [Webpages](https://netabc.sourceforge.io/) - Notation Markup Language
+* [Chordly](https://chordly.co.uk/) - Chord Sheet Creator
+* [Piascore](https://apps.apple.com/us/app/piascore-hd/id406141702) - iOS Music Score Viewer
+* [IMSLP](https://imslp.org/wiki/Main_Page) - Public Domain Scores
+* [/r/sheetmusic](https://reddit.com/r/sheetmusic) - Reddit Community
+---
+
+OMR Tools and Transcribe Music:
+* [VGLeadSheets](https://www.vgleadsheets.com/) - Transcribe Video Game Music
+* [Omnizart](https://github.com/Music-and-Culture-Technology-Lab/omnizart) - Python Music Transcription Library
+* [Soundslice](https://www.soundslice.com/transcribe/) - Manually Transcribe
+* [Audiveris](https://audiveris.github.io/audiveris/_pages/handbook/) - OMR Engine / [GitHub](https://github.com/Audiveris/audiveris)
+* [Oemer](https://github.com/BreezeWhite/oemer) - OMR Tool / [Colab](https://colab.research.google.com/github/BreezeWhite/oemer/blob/main/colab.ipynb) / [Demo](https://breezewhite.github.io/oemer/)
+* [Sheet Music Scanner](https://sheetmusicscanner.com/) - Mobile OMR App
+
+Learning resources:
+* [music-reader](https://music-reader.com/) - Practice Reading Sheet Music
 * [Sound Slice](https://soundslice.com/) or [Nootka](https://nootka.sourceforge.io/) - Sheet Music Learning
-* [IMSLP](https://imslp.org/wiki/Main_Page)
-* [awesome-sheet-music](https://github.com/ad-si/awesome-sheet-music)
-* [/r/sheetmusic](https://reddit.com/r/sheetmusic)
-* [8notes](https://www.8notes.com/)
-* [mutopiaproject](https://www.mutopiaproject.org/)
-* [sheetmusiceden](https://sheetmusiceden.com/)
+* [Nutkus](https://sourceforge.net/projects/nutkus/) - Notation Learning Game
+
+---
 * [musopen](https://musopen.org/)
 * [Sheet Music International](https://sheetmusicinternational.com/)
 * [1230james](https://1230james.xyz/music/)
@@ -679,7 +694,6 @@
 * [SheetMusicForFree](https://sheetmusicforfree.com/)
 * [bateristaspt](https://www.bateristaspt.com/membros/drumscores/)
 * [tchunes](https://www.daev.ca/tchunes/)
-* [Notes Box](https://notes-box.com/)
 * [urresearch](https://urresearch.rochester.edu/viewInstitutionalCollection.action?collectionId=63)
 * [escholarship](https://escholarship.org/uc/uclamusicscores)
 * [dlib](https://dlib.indiana.edu/variations/scores/)
@@ -719,7 +733,7 @@
 
 # ► Audio Editing
 
-* 🌐 **[Awesome Music Production](https://github.com/ad-si/awesome-music-production)**, [Awesome Music](https://github.com/noteflakes/awesome-music) or [AFreeStudio](https://www.afreestudio.com/) - Music Production Indexes
+* 🌐 **[Awesome Music Production](https://github.com/ad-si/awesome-music-production)** or [AFreeStudio](https://www.afreestudio.com/) - Music Production Indexes
 * 🌐 **[MultiSong Leaderboard](https://mvsep.com/quality_checker/multisong_leaderboard)** - Music & Voice Separation AI Leaderboards
 * ↪️ **[AI Song Generators](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/ai#wiki_.25BA_audio_generators)**
 * ↪️ **[Remove Vocals](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_remove_vocals)**
