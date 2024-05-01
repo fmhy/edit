@@ -669,7 +669,7 @@
 
 ## Music Notation Editors
 
-* ⭐ **[MuseScore](https://musescore.org/)** - Editor / [Downloader](https://github.com/LibreScore/dl-librescore)
+* ⭐ **[MuseScore](https://musescore.org/)** - Editor
 * [Noteflight](https://noteflight.com/) - Editor
 * [MC Musiceditor](https://www.mcmusiceditor.com/) - Editor
 * [Flat](https://flat.io/) - Editor
@@ -683,7 +683,7 @@
 
 ### General Music Sheets
 
-* ⭐ **[Musescore.com](https://musescore.com/)** - Free Sheet Music
+* ⭐ **[Musescore.com](https://musescore.com/)** / [Downloader](https://github.com/LibreScore/dl-librescore) - Free Sheet Music
 * [8notes](https://www.8notes.com/) - Free Sheet Music
 * [Mutopia Project](https://www.mutopiaproject.org/) - Free Sheet Music
 * [sheetmusiceden](https://sheetmusiceden.com/) - Free Sheet Music
