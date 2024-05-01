@@ -53,12 +53,12 @@
 
 ## ▷ System Tweaks
 
-* ⭐ **[EverythingToolbar](https://github.com/srwi/EverythingToolbar)** or [yasb](https://github.com/denBot/yasb) - Improved Taskbars
+* ⭐ **[EverythingToolbar](https://github.com/srwi/EverythingToolbar)** or [yasb](https://github.com/da-rth/yasb) - Improved Taskbars
 * ⭐ **[Open Shell](https://open-shell.github.io/Open-Shell-Menu/)** or [ValliStart](https://github.com/Jax-Core/ValliStart) - Improved Start Menus
 * ⭐ **[EarTrumpet](https://eartrumpet.app/)**, [Volumey](https://github.com/G-Stas/Volumey) or [Volume2](https://github.com/irzyxa/Volume2) - Improved Volume Mixer
 * [Couleur Tweak Tips](https://discord.gg/CTT) - Windows Tweaking Guides
 * [MajorGeeks Windows Tweaks](https://www.majorgeeks.com/files/details/majorgeeks_registry_tweaks.html), [Winaero](https://winaero.com/), [QuickBoost](https://github.com/SanGraphic/QuickBoost) or [Windhawk](https://windhawk.net/) - System Tweaking Tools / **[Warning](https://pastebin.com/vMYCiAGE)**
-* [abbodi1406](https://forums.mydigitallife.net/posts/1343297/), [BatUtil](https://github.com/abbodi1406/BatUtil) or [TechNet-Gallery](https://github.com/MScholtes/TechNet-Gallery) - System Scripts
+* [abbodi1406](https://forums.mydigitallife.net/threads/abbodi1406s-batch-scripts-repo.74197/), [BatUtil](https://github.com/abbodi1406/BatUtil) or [TechNet-Gallery](https://github.com/MScholtes/TechNet-Gallery) - System Scripts
 * [Win10 Widgets](https://win10widgets.com/) or [Eww](https://github.com/elkowar/eww) - Widgets for Windows
 * [Wintoys](https://apps.microsoft.com/store/detail/wintoys/9P8LTPGCBZXD) - Improved Control Panels
 * [Hunt and Peck](https://github.com/zsims/hunt-and-peck/) or [Cerebro App](https://cerebroapp.com/) - Improved System Navigation
@@ -190,7 +190,7 @@
 
 ## ▷ Virtual Machines
 
-* ⭐ **[VirtualBox](https://www.virtualbox.org/)** / [Portable](https://www.vbox.me/), [Looking Glass](https://looking-glass.io/), [Qemu](https://gitlab.com/qemu-project/qemu), [Hyper-V](https://learn.microsoft.com/en-us/virtualization/hyper-v-on-windows/), [fvwm](https://www.fvwm.org/), [Denodo Test](https://www.denodo.com/en/denodo-platform/test-drives?utm_source=homepage&utm_medium=bn) or [VMware Workstation Player](https://www.vmware.com/products/workstation-player/workstation-player-evaluation.html) - Virtual Machines / [Preinstalled VMS](https://www.osboxes.org/)
+* ⭐ **[VirtualBox](https://www.virtualbox.org/)** / [Portable](https://www.vbox.me/), [Looking Glass](https://looking-glass.io/), [Qemu](https://gitlab.com/qemu-project/qemu), [Hyper-V](https://learn.microsoft.com/en-us/virtualization/hyper-v-on-windows/), [fvwm](https://www.fvwm.org/), [Denodo Test](https://community.denodo.com/test-drives/) or [VMware Workstation Player](https://www.vmware.com/products/workstation-player/workstation-player-evaluation.html) - Virtual Machines / [Preinstalled VMS](https://www.osboxes.org/)
 * ⭐ **[Hackintosh](https://hackintosh.com/)**, [Emaculation](https://www.emaculation.com/), [felixrieseberg](https://github.com/felixrieseberg/macintosh.js/) or [OneClick-macOS](https://github.com/notAperson535/OneClick-macOS-Simple-KVM) - macOS Virtual Machines
 * ⭐ **Hackintosh Tools** - [Guide](https://github.com/dortania/macOS-VMware-Guide), [2](https://www.tonymacx86.com/) / [AMD Guide](https://chefkissinc.github.io/guide) / [Ryzen](https://github.com/mikigal/ryzen-hackintosh) / [XiaoMi](https://github.com/daliansky/XiaoMi-Pro-Hackintosh)
 * [Virt-Manager](https://virt-manager.org/) or [Vagrantup](https://www.vagrantup.com/) - Virtual Machine Managers
@@ -275,7 +275,7 @@
 * [Gdu](https://github.com/dundee/gdu) - Disk Usage Analyzer
 * [dua](https://lib.rs/crates/dua-cli) - Disk Usage Analyzer
 * [Diskovery](https://diskovery.io/) - Disk Usage Analyzer
-* [DiskInfo](https://github.com/DiskTools/DiskInfo) - Disk Usage Analyzer
+* [DiskInfo](https://github.com/MicaApps/DiskInfo) - Disk Usage Analyzer
 * [Erdtree](https://github.com/solidiquis/erdtree) - Disk Usage Analyzer
 * [PC Manger](https://pcmanager-en.microsoft.com/) or [CleanmgrPlus](https://github.com/builtbybel/CleanmgrPlus) - Disk Managers / Cleanup
 * [Air Live Drive](https://www.airlivedrive.com/en/) - Mount Cloud Drives as Local Disks
@@ -287,7 +287,7 @@
 
 * ⭐ **[DisplayFusion](https://www.displayfusion.com/)** or [Dual Monitor Tool](https://sourceforge.net/projects/dualmonitortool/) - Dual Monitor Tools
 * ⭐ **[f.lux](https://justgetflux.com/)**, [LightBulb](https://github.com/Tyrrrz/LightBulb), [ScreenTemperature](https://github.com/massaiTHEdog1/ScreenTemperature) or [SunsetScreen](https://www.skytopia.com/software/sunsetscreen/index.htm) - Adjust Display Color / Temperature
-* [Display Driver Uninstaller](https://www.wagnardsoft.com/display-driver-uninstaller-ddu-), [2](https://www.guru3d.com/files-details/display-driver-uninstaller-download.html) - Display Driver Removal Tool / [GitHub](https://github.com/Wagnard/display-drivers-uninstaller)
+* [Display Driver Uninstaller](https://www.wagnardsoft.com/display-driver-uninstaller-ddu-), [2](https://www.guru3d.com/download/display-driver-uninstaller-download) - Display Driver Removal Tool / [GitHub](https://github.com/Wagnard/display-drivers-uninstaller)
 * [EIZO](https://www.eizo.be/monitor-test/), [Monitor](https://www.monitortests.com/) or [LCDTech](https://lcdtech.info/en/tests/) - Monitor Performance Tests
 * [TestUFO](https://www.testufo.com/) - Monitor Framerate Test
 * [LittleBigMouse](https://github.com/mgth/LittleBigMouse) - DPI Test
@@ -311,7 +311,7 @@
 
 ## ▷ Mouse / Keyboard
 
-* ⭐ **[Windows Keyboard Shortcuts](https://i.ibb.co/yNHRPfm/2147ec86baff.png)**, [2](https://i.ibb.co/XyWn2qc/075be8840d12.png) / [Course](https://keycombiner.com/), [Use The Keyboard](https://usethekeyboard.com/), [HotkeyP](https://sourceforge.net/projects/hotkeyp/), [Clavier++](https://gryder.org/software/clavier-plus/), [Kinto](https://github.com/rbreaves/kinto) or [CheatKeys](https://cheatkeys.com/CheatSheet) - Keyboard Shortcuts
+* ⭐ **[Windows Keyboard Shortcuts](https://i.ibb.co/yNHRPfm/2147ec86baff.png)**, [2](https://i.ibb.co/XyWn2qc/075be8840d12.png) / [Course](https://keycombiner.com/), [Use The Keyboard](https://usethekeyboard.com/), [HotkeyP](https://sourceforge.net/projects/hotkeyp/), [Clavier++](https://gryder.org/software/clavier-plus/), [Kinto](https://github.com/rbreaves/kinto) or [CheatKeys](https://cheatkeys.com/cheatSheet) - Keyboard Shortcuts
 * ⭐ **[VIA](https://usevia.app/)** / [GitHub](https://github.com/the-via/app), [SharpKeys](https://github.com/randyrants/sharpkeys/), [Kanata](https://github.com/jtroo/kanata), [Vial](https://get.vial.today/), [Ergogen](https://ergogen.xyz/) or [Persistence](https://github.com/NtQuerySystemInformation/CustomKeyboardLayoutPersistence) - Custom Keyboard Layouts / Remapping
 * ⭐ **[geekhack](https://geekhack.org/)** or [KeebTalk](https://www.keebtalk.com/) - Keyboard Forums
 * [X-Mouse Button Control](https://www.highrez.co.uk/downloads/XMouseButtonControl.htm) - Re-Map Mouse Buttons / Scroll Wheel
@@ -401,7 +401,7 @@
 * [EmuOS](https://emupedia.org/beta/emuos/), [2](https://emupedia.net/beta/emuos/), [3](https://emuos.net/beta/emuos/), [4](https://emuos.org/beta/emuos/) - Windows 95, 98 & ME Emulator
 * [98.js](https://98.js.org/), [Rahul](https://rahul.io/) or [Packard Belle](https://packard-belle.netlify.app/) - Windows 98 Emulator
 * [Windows96.net](https://windows96.net/) - Windows 96 Browser Emulator
-* [Win95](https://win95.ajf.me/) - Windows 95 Browser Emulator
+* [Win95](https://archive.org/details/win95_in_dosbox) - Windows 95 Browser Emulator
 * [Windows93](https://www.windows93.net/) - Windows 93 Browser Emulator / Games
 * [EmuOS](https://github.com/Emupedia/emupedia.github.io/) - Run Classic Games / Apps In Browser
 * [Windows 1.01](https://classicreload.com/Windows-1-01.html) - Windows 1.01 Browser Emulator
@@ -489,7 +489,7 @@
 * [AutoWall](https://github.com/SegoCode/AutoWall) - Turn Videos / GIFs to Live Wallpapers
 * [Scenic Illustrations](https://www.pixeltrue.com/scenic-illustrations) - Landscape Wallpapers
 * [CoolBackgrounds](https://coolbackgrounds.io/) or [wallup](https://wallup.net/) - Customizable Wallpapers
-* [Simple Desktops](http://simpledesktops.com/), [Positron Dream](https://www.positrondream.com/) or [SetAsWall](https://www.setaswall.com/) - Minimalistic Wallpapers
+* [Simple Desktops](https://simpledesktops.com/), [Positron Dream](https://www.positrondream.com/) or [SetAsWall](https://www.setaswall.com/) - Minimalistic Wallpapers
 * [/r/LivingBackgrounds](https://reddit.com/r/LivingBackgrounds), [WALLegend](https://wallegend.net/en/) or [MoeWalls](https://moewalls.com/) - Animated Wallpapers
 * [DualMonitorBackgrounds](https://www.dualmonitorbackgrounds.com/) or [WallpaperFusion](https://www.wallpaperfusion.com/) - Dual Monitor Wallpapers
 * [ScreenCapped](https://screencapped.net/), [Screencaps](https://screencaps.us/) or [shot.cafe](https://shot.cafe/) - Movie / TV Wallpapers
