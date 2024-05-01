@@ -14816,10 +14816,10 @@ outline: false
 * ⭐ **[7-Zip](https://www.7-zip.org/)** / [Colab](https://github.com/dropcreations/7zip-in-Google-Colab) / [Benchmarks](https://s1.hoffart.de/7zip-bench/) / [Additional Codecs](https://github.com/mcmilk/7-Zip-zstd) - File Archiver
 * ⭐ **[NanaZip](https://github.com/M2Team/NanaZip)** - File Archiver
 * ⭐ **[PeaZip](https://peazip.github.io/)** - Cross Platform File Archiver
+* ⭐ **[CompactGUI](https://github.com/IridiumIO/CompactGUI)** or [Compactor](https://github.com/Freaky/Compactor) - Transparent Compression
 * [Fileforums](https://fileforums.com/) or [Encode](https://encode.su/) - Data Compression Forums
 * [TurboBench](https://github.com/powturbo/TurboBench) - Compression Benchmark
 * [unzip-http](https://github.com/saulpw/unzip-http) - Unzip via HTTP Without Downloading
-* [CompactGUI](https://github.com/IridiumIO/CompactGUI) or [Compactor](https://github.com/Freaky/Compactor) - Transparent Compression
 * [WinRAR](https://www.win-rar.com/) - File Archiver / [Licenses](https://rentry.co/FMHYBase64#winrar-licenses)
 * [Bandizip](https://www.bandisoft.com/bandizip/) - File Archiver
 * [IZArc](https://www.izarc.org/) - File Archiver
