@@ -239,7 +239,7 @@
 * [Chocolate](https://github.com/ChocolateApp/Chocolate) - Media Server
 * [Frames](https://github.com/Eleven-am/frames) - GDrive Server
 * [ErsatzTV](https://ersatztv.org/) or [dizqueTV](https://github.com/vexorian/dizquetv) - Live Channel Media Servers
-* [YTDL-Sub](https://github.com/jmbannon/ytdl-sub) - Add YouTube Channels to Media Servers
+* [YTDL-Sub](https://ytdl-sub.readthedocs.io/) - Add YouTube Channels to Media Servers
 * [xTeVe](https://github.com/xteve-project/xTeVe) - Plex / Emby M3U Proxy
 * [Autoscan](https://github.com/Cloudbox/autoscan) - Real-Time Plex & Emby File Changes
 * [Ombi](https://github.com/Ombi-app/Ombi) - Plex / Emby User Request Management
