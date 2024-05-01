@@ -289,6 +289,7 @@ Linux Gaming Guide
 * [Anime Game Launcher](https://github.com/an-anime-team/an-anime-game-launcher) / [Discord](https://discord.gg/ck37X6UWBp) - Genshin Impact Launcher
 * [among-sus](https://git.sr.ht/~martijnbraam/among-sus) - Play Among Us in your Terminal (Recreation)
 * [Gameboy.live](https://github.com/HFO4/gameboy.live) - Terminal Game Boy Emulator
+* [QuickPassthrough](https://github.com/HikariKnight/quickpassthrough) - Simplified Qemu GPU Passthrough
 * [Gambit](https://github.com/maaslalani/gambit) - Terminal Chess
 * [Sssnake](https://github.com/AngelJumbo/sssnake) - Terminal Snake
 
