@@ -669,13 +669,13 @@
 
 ## Music Notation Editors
 
-* ⭐ **[MuseScore](https://musescore.org/en)** - Notation Editor / [Downloader](https://github.com/LibreScore/dl-librescore)
-* [Noteflight](https://noteflight.com/)
-* [MC Musiceditor](https://www.mcmusiceditor.com/)
-* [Flat](https://flat.io/)
-* [Finale Notepad](https://www.finalemusic.com/products/notepad/)
-* [Score Perfect Professional](https://archive.org/details/score-perfect-professional-lite-5.1/)
-* [MusicWorks](https://www.tierramedia.com/)
+* ⭐ **[MuseScore](https://musescore.org/en)** - Editor / [Downloader](https://github.com/LibreScore/dl-librescore)
+* [Noteflight](https://noteflight.com/) - Editor
+* [MC Musiceditor](https://www.mcmusiceditor.com/) - Editor
+* [Flat](https://flat.io/) - Editor
+* [Finale Notepad](https://www.finalemusic.com/products/notepad/) - Editor
+* [Score Perfect Professional](https://archive.org/details/score-perfect-professional-lite-5.1/) - Editor
+* [MusicWorks](https://www.tierramedia.com/) - Editor
 
 ***
 
@@ -697,18 +697,18 @@
 
 ### General Music Sheets
 
-* [8notes](https://www.8notes.com/)
-* [Mutopia Project](https://www.mutopiaproject.org/)
-* [sheetmusiceden](https://sheetmusiceden.com/)
-* [Notes Box](https://notes-box.com/)
-* [Musopen](https://musopen.org/)
-* [Sheet Music International](https://sheetmusicinternational.com/)
-* [CosandScores](http://waltercosand.com/CosandScores/)
-* [free-scores](hhttps://www.free-scores.com/free-sheet-music.php)
-* [Sheet music for free](https://sheetmusicforfree.com/)
-* [bateristaspt](https://www.bateristaspt.com/membros/drumscores/)
-* [tchunes](https://www.daev.ca/tchunes/)
-* [ScorSer](http://en.scorser.com/D/Sheet+music.html)
+* [8notes](https://www.8notes.com/) - Free Sheet Music
+* [Mutopia Project](https://www.mutopiaproject.org/) - Free Sheet Music
+* [sheetmusiceden](https://sheetmusiceden.com/) - Free Sheet Music
+* [Notes Box](https://notes-box.com/) - Free Sheet Music
+* [Musopen](https://musopen.org/) - Free Sheet Music
+* [Sheet Music International](https://sheetmusicinternational.com/) - Free Sheet Music
+* [CosandScores](http://waltercosand.com/CosandScores/) - Free Sheet Music
+* [free-scores](hhttps://www.free-scores.com/free-sheet-music.php) - Free Sheet Music
+* [Sheet music for free](https://sheetmusicforfree.com/) - Free Sheet Music
+* [bateristaspt](https://www.bateristaspt.com/membros/drumscores/) - Free Sheet Music
+* [tchunes](https://www.daev.ca/tchunes/) - Free Sheet Music
+* [ScorSer](http://en.scorser.com/D/Sheet+music.html) - Free Sheet Music
 
 ***
 
