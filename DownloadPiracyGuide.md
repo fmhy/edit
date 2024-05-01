@@ -190,6 +190,7 @@
 * [OSSSoftware](https://osssoftware.org/) - FOSS Index
 * [Awesome Open Source](https://awesomeopensource.com/) - FOSS Index
 * [Open-Source Alternatives](https://github.com/btw-so/open-source-alternatives) - FOSS Index
+* [OpenAlternative](https://openalternative.co/) - FOSS Index
 * [Opensource Builders](https://opensource.builders/) - FOSS Index
 * [Gadgeteer](https://gadgeteer.co.za/opensourcesoftware/) - FOSS Index
 * [LO4D](https://www.lo4d.com/) - Freeware Index
@@ -273,7 +274,6 @@
 * [g4u](https://g4u.to/) - Download Games via Usenet / pw: 404
 * [OldUSe](https://article.olduse.net/) - Search Usenet Articles
 * [althub](https://althub.co.za) - Unlimited Free Trials
-* [nZEDb](https://github.com/nZEDb/nZEDb) - Self-Hosted
 * [Spotweb](https://github.com/spotweb/spotweb) - Spotnet Client
 
 ***

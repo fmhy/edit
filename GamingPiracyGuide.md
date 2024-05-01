@@ -278,6 +278,7 @@
 * ↪️ **[Multi-Console Browser Emulators](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_multi-console_browser_emulators)**
 * ⭐ **[Telemelt](https://telemelt.com/)** - Multiplayer Browser Emulator
 * ⭐ **[PSX Party](https://psxparty.kosmi.io/)** - Multiplayer Playstation Browser Emulator
+* [EmulatorJS](https://demo.emulatorjs.org/) - Multi-Console Browser Emulator / [Supported Systems](https://emulatorjs.org/docs/systems) 
 * [PS1FUN](https://www.ps1fun.com/) - PS1 Browser Emulator
 * [LYR9C](https://lyr9c.weebly.com/gba-games.html) - GBA Browser Emulator
 * [LetsPlayGB](https://www.letsplaygb.com/) - Game Boy Browser Emulator
