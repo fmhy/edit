@@ -96,11 +96,12 @@
 * [SmartLauncher](https://www.smartlauncher.net/) - Minimalist / Clean Launcher
 * [Discreet Launcher](https://vincent-falzon.com/) - Minimalist / Clean Launcher
 * [Lunar Launcher](https://github.com/iamrasel/lunar-launcher) - Minimalist / Clean Launcher
+* [Pixel Launcher](https://github.com/saitamasahil/Pixel-Launcher-Extended) - Pixel-Based Launcher / Root
 * [Olauncher](https://play.google.com/store/apps/details?id=app.olauncher) / [GitHub](https://github.com/tanujnotes/Olauncher) - Minimalist / Clean Launcher
 * [ReZ Launcher](https://play.google.com/store/apps/details?id=com.perryoncrack.rez) - Minimalist / Clean Launcher
 * [KISS](https://kisslauncher.com/) or [TBLauncher](https://tbog.github.io/TBLauncher/) - Low-Memory Usage Launcher
 * [NeoLauncher](https://github.com/NeoApplications/Neo-Launcher) - Customizable Launcher
-* [Unlauncher](https://github.com/jkuester/unlauncher) - Distraction-Free Launcher
+* [Unlauncher](https://jkuester.github.io/unlauncher/) - Distraction-Free Launcher
 * [Kvaesitso](https://kvaesitso.mm20.de/) - Search-Focused Launcher
 * [Notcha](https://play.google.com/store/apps/details?id=com.notch.launcher) - Secondary Launcher
 * [TermuxLauncher](https://github.com/amsitlab/termuxlauncher) - Termux Launcher
@@ -198,7 +199,7 @@
 * [Statusbar Icon Hider](https://play.google.com/store/apps/details?id=com.cooliehat.statusbariconhider) - Hide Status Bar Items
 * [Substratum Tweaks](https://github.com/luisbocanegra/substratum-tweaks) - System Theme / Root
 * [HomeScreens](https://homescreens.org/) - Custom Phone Home Screen Examples
-* [Candybar](https://github.com/zixpo/candybar) or [Iconify](https://kyutefox.com/products/iconify-browser-extension) / [GitHub](https://github.com/kyutefox/Iconify) - Custom App Icons
+* [Candybar](https://github.com/zixpo/candybar),  or [Iconify](https://github.com/Mahmud0808/Iconify) (root) / [Telegaram](https://telegram.me/IconifyOfficial)
 * [Arcticons](https://arcticons.onnno.nl/) - Monotone Icon Pack
 * [Giga Icon](https://play.google.com/store/apps/details?id=it.mirko.gigaicon&hl=en_IN&gl=US) - Make Icons Bigger
 * [IconRequest](https://github.com/Kaiserdragon2/IconRequest) - Find Missing Icons
@@ -313,7 +314,7 @@
 
 ## ▷ Root / Flash
 
-* ⭐ **[Magisk](https://github.com/topjohnwu/Magisk)**, [KernelSU](https://kernelsu.org/), [Magisk Monet](https://github.com/pranshoe/Magisk-Monet), [MagiskOnWSALocal](https://github.com/LSPosed/MagiskOnWSALocal), [Pixel Launcher](https://github.com/saitamasahil/Pixel-Launcher-Extended) or [Mtk Easy Su](https://github.com/JunioJsv/mtk-easy-su) - Android Root Tools
+* ⭐ **[Magisk](https://github.com/topjohnwu/Magisk)**, [KernelSU](https://kernelsu.org/), [MagiskOnWSALocal](https://github.com/LSPosed/MagiskOnWSALocal) or [Mtk Easy Su](https://github.com/JunioJsv/mtk-easy-su) - Android Root Tools
 * ⭐ **Magisk Tools** - [Module Manager](https://github.com/DerGoogler/MMRL), [2](https://github.com/MRepoApp/MRepo/) / [Mods](https://t.me/magiskmod_update) / [Support Layer](https://github.com/axonasif/rusty-magisk) / [PlayIntegrity Fix](https://xdaforums.com/t/module-play-integrity-fix-safetynet-fix.4607985/), [2](https://github.com/osm0sis/PlayIntegrityFork) / [Fix Guide](https://xdaforums.com/t/module-play-integrity-fix-safetynet-fix.4607985/page-177#post-89189572) / [Modules](https://www.androidacy.com/magisk-modules-repository/) / [Alt Repo](https://github.com/Magisk-Modules-Alt-Repo)
 * ⭐ **[Android Docker](https://gist.github.com/FreddieOliveira/efe850df7ff3951cb62d74bd770dce27)** - Run Docker on Android
 * [Root Checker](https://play.google.com/store/apps/details?id=com.joeykrim.rootcheck) - Root Checker
@@ -392,7 +393,7 @@
 * [AdAway](https://adaway.org/) - Adblocking App / [GitHub](https://github.com/AdAway/AdAway)
 * [ad-free](https://abertschi.github.io/ad-free/landing/) - Adblocking App
 * [InviZible](https://invizible.net) / [GitHub](https://github.com/Gedsh/InviZible) - Adblocking App
-* [personalDNSfilter](https://www.zenz-solutions.de/personaldnsfilter-wp/) / [F-Droid](https://f-droid.org/packages/dnsfilter.android), [Rethink](https://rethinkdns.com/app) / [Blocklists](https://rethinkdns.com/app#blocklists), [BhanUpratpys](https://github.com/bhanupratapys/dnswarden) or [DNS66](https://f-droid.org/en/packages/org.jak_linux.dns66/), [2](https://jak-linux.org/projects/dns66/) / [GitHub](https://github.com/julian-klode/dns66) - DNS Adblockers 
+* [personalDNSfilter](https://www.zenz-solutions.de/personaldnsfilter-wp/) / [F-Droid](https://f-droid.org/packages/dnsfilter.android), [Rethink](https://rethinkdns.com/app) / [Blocklists](https://rethinkdns.com/app#blocklists), [DNSWarden](https://dnswarden.com/) / [GitHub](https://github.com/bhanupratapys/dnswarden) or [DNS66](https://f-droid.org/en/packages/org.jak_linux.dns66/), [2](https://jak-linux.org/projects/dns66/) / [GitHub](https://github.com/julian-klode/dns66) - DNS Adblockers 
 * [DNS Speed Test & Changer](https://rentry.co/FMHYBase64#dns-speed-test-changer) - DNS Speed Test
 * [DNS Changer](https://play.google.com/store/apps/details?id=com.technoapps.dnschanger) or [PrivateDNSAndroid](https://github.com/karasevm/PrivateDNSAndroid) - DNS Switchers
 * [GoodbyeAds](https://github.com/jerryn70/GoodbyeAds) - Adblock Filters
@@ -566,7 +567,7 @@
 
 * ↪️ **[Text Editors / To-Do](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_android_note_apps)**
 * [Git Journal](https://gitjournal.io/) - Mobile Markdown Notes
-* [Sleep as Android](https://sleep.urbandroid.org/), [ClockYou](https://github.com/you-apps/ClockYou) or [AlarmClock](https://github.com/yuriykulikov/AlarmClock) - Clocks / Alarms
+* [Sleep as Android](https://sleep.urbandroid.org/), [Chrono]((https://github.com/vicolo-dev/chrono), [ClockYou](https://github.com/you-apps/ClockYou) or [AlarmClock](https://github.com/yuriykulikov/AlarmClock) - Clocks / Alarms
 * [Etar](https://github.com/Etar-Group/Etar-Calendar), [JTX](https://jtx.techbee.at/), [digical](https://digibites.nl/digical) or [TimeTreeApp](https://timetreeapp.com/intl/en/) - Calendars
 * [QRAlarm](https://github.com/sweakpl/qralarm-android) - Scan QR Code to Turn Off Alarm
 * [Calendar Notifications](https://play.google.com/store/apps/details?id=com.tuogol.calendar.notification) - View Calendar as Notifications
@@ -665,18 +666,23 @@
 
 # ► Android Reading
 
-* ↪️ **[Android Ebook Readers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/reading#wiki_.25BA_ebook_readers)**
 * ⭐ **[Openlib](https://github.com/dstark5/Openlib)** - Free Books / Anna’s Archive
 * ⭐ **[Mobilism](https://forum.mobilism.org/app/)** / [User Ranks](https://pastebin.com/pZuuMxYm) - Free Books
 * ⭐ **[KafkaArchives](https://www.kafkaarchives.com/)** - Archive.org Books / Audiobooks
-* ⭐ **[Librera](https://librera.mobi/)** or **[Lithium](https://play.google.com/store/apps/details?id=com.faultexception.reader)** - Ebook Reader
+* ⭐ **[Librera](https://librera.mobi/)** - Ebook Reader
+* ⭐ **[Lithium](https://play.google.com/store/apps/details?id=com.faultexception.reader)** - Ebook Reader
+* ⭐ **[Legado](https://github.com/gedoor/legado/blob/master/English.md)** - Ebook Reader
 * ⭐ **[Readera](https://play.google.com/store/apps/details?id=org.readera)** - PDF Reader
+* [Moon+ Reader](https://www.moondownload.com/) - Ebook Reader / [Themes](https://rentry.co/moontheme)
+* [CoolReader](https://apt.izzysoft.de/fdroid/index/apk/org.coolreader) - Ebook Reader
+* [BookReader](https://gitlab.com/axet/android-book-reader) - Ebook Reader
+* [Prestigio](https://play.google.com/store/apps/details?id=com.prestigio.ereader) - Ebook Reader
+* [Sav PDF Viewer Pro](https://www.savpdfviewer.com) - PDF Reader / [GitHub](https://github.com/Sav22999/sav-pdf-viewer-pro)
+* [Secure PDF Viewer](https://grapheneos.org/) - PDF Reader / [GitHub](https://github.com/GrapheneOS/PdfViewer) 
 * [Alexandria](https://github.com/aloussase/alexandria-app), [LibGen Mobile](https://github.com/manuelvargastapia/libgen_mobile_app) or [Aurora](https://github.com/FunkyMuse/Aurora) - Free Books / LibGen
 * [Project Gutenberg](https://github.com/Pool-Of-Tears/Myne) - Free Books
 * [Openreads](https://github.com/mateusz-bak/openreads), [NeverTooManyBooks](https://github.com/tfonteyn/NeverTooManyBooks) or [Basmo](https://basmo.app/) - Book Managers / Trackers
 * [Wikipedia](https://play.google.com/store/apps/details?id=org.wikipedia) - Wikipedia App / [Beta](https://play.google.com/store/apps/details?id=org.wikipedia.beta)
-* [Moon+ Reader](https://www.moondownload.com/) / [Themes](https://rentry.co/moontheme), [CoolReader](https://apt.izzysoft.de/fdroid/index/apk/org.coolreader), [BookReader](https://gitlab.com/axet/android-book-reader) or [Prestigio](https://play.google.com/store/apps/details?id=com.prestigio.ereader) - Ebook Readers
-* [Sav PDF Viewer Pro](https://www.savpdfviewer.com) / [GitHub](https://github.com/Sav22999/sav-pdf-viewer-pro) or [Secure PDF Viewer](https://grapheneos.org/) / [GitHub](https://github.com/GrapheneOS/PdfViewer) - PDF Reader
 * [K2pdfopt](https://willus.com/k2pdfopt/) - Optimize PDF/DJVU Files for Mobile E-Readers
 * [Voice](https://github.com/PaulWoitaschek/Voice), [Smart Audiobook Player](https://play.google.com/store/apps/details?id=ak.alizandro.smartaudiobookplayer), [Sirin](https://play.google.com/store/apps/details?id=com.sirin.android), [AudioAnchor](https://github.com/flackbash/AudioAnchor) or [eStories](https://play.google.com/store/apps/details?id=com.estories) - Audiobook Players
 * [ComicScreen](https://play.google.com/store/apps/details?id=com.viewer.comicscreen) or [Seeneva](https://seeneva.app/) - Comic Readers
