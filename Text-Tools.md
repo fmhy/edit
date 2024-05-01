@@ -152,7 +152,7 @@
 
 * ⭐ **[Emojipedia](https://emojipedia.org/)** or [EmojiBatch](https://www.emojibatch.com/)
 * [Emoji Engine](https://www.emojiengine.com/) - Multilingual Emoji Search
-* [Geniemoji](https://github.com/virejdasani/Geniemoji), [winMoji](https://www.winmoji.com/) - Emoji Managers
+* [winMoji](https://www.winmoji.com/) - Emoji Managers
 * [EmojiRequests](https://emojirequest.com/) - Custom User-Made Emojis
 * [Cult of the Party Parrot](https://cultofthepartyparrot.com/) - Party Parrot Emojis
 * [Pepe Server Archive](https://github.com/Overimagine1/pepe-server-archive) - Pepe Emojis
@@ -185,7 +185,7 @@
 ## ▷ Typing Lessons
 
 * ⭐ **[Monkey Type](https://monkeytype.com/)** - Customizable Typing Tests
-* ⭐ **[Smassh](https://github.com/kraanzu/smassh)**, [Ttyper](https://github.com/max-niederman/ttyper)  - Terminal Typing Tests
+* ⭐ **[Smassh](https://github.com/kraanzu/smassh)** or [Ttyper](https://github.com/max-niederman/ttyper) - Terminal Typing Tests
 * [Typing.io](https://typing.io/) - Typing Practice For Programming / Sign-up Required
 * [keybr](https://www.keybr.com/) - Typing Practice
 * [Typing.com](https://www.typing.com/) - Typing Lessons
@@ -370,7 +370,7 @@
 * [Fantasy Name Generators](https://www.fantasynamegenerators.com/) - Fantasy Name Generators
 * [PolyGlot](https://draquet.github.io/PolyGlot/) or [VulgarLang](https://www.vulgarlang.com/) - Spoken Language Construction Tools
 * [How to annotate literally everything](https://beepb00p.xyz/annotating.html) - Annotation Tools / Resources
-* [Label Buddy](https://github.com/jeromedockes/labelbuddy) - Annotation Tool
+* [Label Buddy](https://jeromedockes.github.io/labelbuddy/labelbuddy/current/) - Annotation Tool / [GitHub](https://github.com/jeromedockes/labelbuddy)
 
 ***
 
