@@ -677,6 +677,15 @@
 * [Score Perfect Professional](https://archive.org/details/score-perfect-professional-lite-5.1/)
 * [MusicWorks](https://www.tierramedia.com/)
 
+## Public Music Sheets
+
+* [flutetunes](https://www.flutetunes.com/) or [Flue Music](https://drive.google.com/drive/folders/1WMtVRNqLFdEQ4X39Dpof9o5aWGJsdtFe?usp=sharing) - Flute Sheet Music
+* [Game Music Themes](https://www.gamemusicthemes.com/) - Video Game Sheet Music
+* [8notes](https://www.8notes.com/)
+* [Mutopia Project](https://www.mutopiaproject.org/)
+* [sheetmusiceden](https://sheetmusiceden.com/)
+* [Notes Box](https://notes-box.com/)
+
 ***
 
 ## MPV Shaders
@@ -751,17 +760,6 @@
 ### Live Polling
 
 [slido](https://www.slido.com/), [Feedbackr](https://www.feedbackr.io/), [Trypingo](https://trypingo.com/)
-
-***
-
-## Public Music Sheets
-
-* [flutetunes](https://www.flutetunes.com/) or [Flue Music](https://drive.google.com/drive/folders/1WMtVRNqLFdEQ4X39Dpof9o5aWGJsdtFe?usp=sharing) - Flute Sheet Music
-* [Game Music Themes](https://www.gamemusicthemes.com/) - Video Game Sheet Music
-* [8notes](https://www.8notes.com/) - Free Sheet Music
-* [Mutopia Project](https://www.mutopiaproject.org/) - Free Sheet Music
-* [sheetmusiceden](https://sheetmusiceden.com/) - Free Sheet Music
-* [Notes Box](https://notes-box.com/) - Free Sheet Music
 
 ***
 
