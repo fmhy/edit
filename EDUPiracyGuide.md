@@ -852,7 +852,7 @@
 
 ## ▷ Study / Research
 
-* 🌐 **[Awesome Research](https://github.com/emptymalei/awesome-research)**, [Scolary](https://scolary.com/), [KausalFlow](https://tools.kausalflow.com/), [Foam](https://github.com/foambubble/foam), [Zotero](https://www.zotero.org/), [ResearchRabbit](https://www.researchrabbit.ai/) or [Scrible](https://www.scrible.com/) - Research Tools
+* 🌐 **[Awesome Research](https://github.com/emptymalei/awesome-research)**, [Scolary](https://scolary.com/), [KausalFlow](https://tools.kausalflow.com/), [Foam](https://foambubble.github.io/), [Zotero](https://www.zotero.org/), [ResearchRabbit](https://www.researchrabbit.ai/) or [Scrible](https://www.scrible.com/) - Research Tools
 * ↪️ **[Note Taking](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools#wiki_.25BA_text_editors_.2F_notes)** / **[Text Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools)**
 * ↪️ **[Documents / Articles](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/reading#wiki_.25B7_documents_.2F_articles)**
 * ⭐ **[StudyLion](https://lionbot.org)** - Study Tracker / Productivity Discord Bot / [GitHub](https://github.com/StudyLions/StudyLion)
@@ -879,6 +879,7 @@
 * [Homeworkify](https://homeworkify.st/), [Get Unstuck](https://socratic.org/) or [Brainly](https://brainly.com/) / [Limit Bypass](https://greasyfork.org/en/scripts/430355) - Homework Help Bots / Communities
 * [Toppr](https://www.toppr.com/), [FreeOnlineTest](https://www.freeonlinetest.in/) or [AE Old](https://discord.gg/VCXGudY) - Test Practice & Homework Help
 * [DoubtNut](https://www.doubtnut.com/) - Exam Solutions / Help
+* [DLStudocu](https://dlstudocu.com/) - Studocu Downloader
 * [MammothMemory](https://mammothmemory.net/index.html) - Visual Memory Based Solutions
 * [StudyStream](https://www.studystream.live/) or [StudyTogether](https://www.studytogether.com/) - Online Study Groups
 * [Papers.Xtreme](https://papers.xtremepape.rs/) - Test Revision Notes & Answers
