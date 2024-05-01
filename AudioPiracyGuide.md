@@ -671,10 +671,12 @@
 * [/r/sheetmusic](https://reddit.com/r/sheetmusic) - Reddit Community
 ---
 
-OMR Tools and Transcribe Music:
+Transcribe Music:
 * [VGLeadSheets](https://www.vgleadsheets.com/) - Transcribe Video Game Music
 * [Omnizart](https://github.com/Music-and-Culture-Technology-Lab/omnizart) - Python Music Transcription Library
 * [Soundslice](https://www.soundslice.com/transcribe/) - Manually Transcribe
+
+Optical Music Recognition:
 * [Audiveris](https://audiveris.github.io/audiveris/_pages/handbook/) - OMR Engine / [GitHub](https://github.com/Audiveris/audiveris)
 * [Oemer](https://github.com/BreezeWhite/oemer) - OMR Tool / [Colab](https://colab.research.google.com/github/BreezeWhite/oemer/blob/main/colab.ipynb) / [Demo](https://breezewhite.github.io/oemer/)
 * [Sheet Music Scanner](https://sheetmusicscanner.com/) - Mobile OMR App

@@ -756,12 +756,12 @@
 
 ## Public Music Sheets
 
+* [flutetunes](https://www.flutetunes.com/) or [Flue Music](https://drive.google.com/drive/folders/1WMtVRNqLFdEQ4X39Dpof9o5aWGJsdtFe?usp=sharing) - Flute Sheet Music
+* [Game Music Themes](https://www.gamemusicthemes.com/) - Video Game Sheet Music
 * [8notes](https://www.8notes.com/) - Free Sheet Music
 * [Mutopia Project](https://www.mutopiaproject.org/) - Free Sheet Music
 * [sheetmusiceden](https://sheetmusiceden.com/) - Free Sheet Music
 * [Notes Box](https://notes-box.com/) - Free Sheet Music
-* [flutetunes](https://www.flutetunes.com/) or [Flue Music](https://drive.google.com/drive/folders/1WMtVRNqLFdEQ4X39Dpof9o5aWGJsdtFe?usp=sharing) - Flute Sheet Music
-* [Game Music Themes](https://www.gamemusicthemes.com/) - Video Game Sheet Music
 
 ***
 
