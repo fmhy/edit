@@ -1286,6 +1286,7 @@
 * [Graviton](https://graviton.netlify.app/) - Code Editor
 * [BBEdit](https://www.barebones.com/) - Code Editor
 * [ecode](https://github.com/SpartanJ/ecode) - Code Editor
+* [Trinket](https://trinket.io/) - Browser Code Editor
 * [Acode](https://acode.app), [Sora](https://github.com/Rosemoe/sora-editor) or [Squircle-CE](https://github.com/massivemadness/Squircle-CE) - Android Code Editors
 * [Apache NetBeans](https://netbeans.apache.org/), [KDevelop](https://www.kdevelop.org/), [Lazarus](https://www.lazarus-ide.org/) or [OpenShift](https://developers.redhat.com/products/openshift-dev-spaces/overview) - Cross Platform IDEs
 * [RoslynPad](https://roslynpad.net/) - C# Editor
