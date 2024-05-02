@@ -709,7 +709,7 @@
 * [AnimeChicken](https://animechicken.app/) - Manga File Viewer
 * [Kinoko](https://github.com/gsioteam/kinoko) - Manga File Viewer
 * [Atsumaru](https://github.com/TheUndo/Atsumaru) - Manga File Viewer
-* [IsManga Translator](https://ismanga.com/) or [lingshot](https://github.com/CharlesMoreira1/lingshot) - Manga Translators
+* [IsManga Translator](https://ismanga.com/) - Manga Translators
 
 ***
 
