@@ -39,7 +39,6 @@
 * [Andi](https://andisearch.com/) - AI Search Engine
 * [Metaphor](https://metaphor.systems/) / [Discord](https://discord.com/invite/jvz7GS9W8Y) - AI Search Engine
 * [Lepton Search](https://search.lepton.run/) - AI Search Engine
-* [Ora](https://ora.ai/start) - GPT-3.5 Based Chatbots
 * [Pi](https://pi.ai/talk) - Inflection AI's Chatbot
 * [Reka Playground](https://chat.reka.ai/) - Reka's Chatbot
 * [Poe](https://poe.com/) - Multiple Chatbots / 150 Daily / [Discord](https://discord.com/invite/joinpoe)
