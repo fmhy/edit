@@ -15,6 +15,7 @@
 * [DragGAN](https://github.com/XingangPan/DragGAN) - AI Image Editor
 * [RawTherapee](https://www.rawtherapee.com/) - Raw Image Editor
 * [UFRaw](https://ufraw.sourceforge.net/) - Raw Image Editor
+* [StitchTool](https://www.jdeploy.com/~stitchtool) - Image Stitcher, Splitter, Upscaler & more
 * [PhotoDemon](https://photodemon.org/)
 * [Paint.net](https://www.getpaint.net/index.html)
 * [PhotoFiltre](https://www.photofiltre-studio.com/)
@@ -50,10 +51,13 @@
 * [Fotor](https://www.fotor.com/)
 * [PictureEditor](https://www.pictureeditor.com/)
 * [PhotoStack](https://photostack.app/)
+* [MyPhotoFilter](https://www.myphotofilter.com/)
 * [Facet](https://facet.ai/)
 * [Peko-Step](https://www.peko-step.com/en/tool/imageeditor.html)
+* [imageamigo](https://imageamigo.com)
 * [ImageOnline](https://imageonline.co/)
 * [Tom's Editor](https://tomseditor.com/)
+* [photoaid](https://photoaid.com/en/tools/)
 * [edit.photo](https://edit.photo/)
 * [Image Resizer](https://www.image-resizer.eu/)
 
@@ -91,8 +95,8 @@
 
 * ⭐ **[ImageMagick](https://imagemagick.org/index.php)** / [Scripts](https://www.fmwconcepts.com/imagemagick/index.php)
 * ⭐ **[Pingo](https://css-ig.net/pingo)** / [GUI](https://css-ig.net/pinga), [RIOT](https://riot-optimizer.com/), [YOGA](https://yoga.flozz.org/) or [ImageFoo](https://imagefoo.com/) - Image Optimization Tools
-* ⭐ **[Squoosh](https://squoosh.app/)**, [CompressOrDie](https://compress-or-die.com/), [TinyJPG](https://tinyjpg.com/), [ImageCompresser](https://imagecompresser.com/), [Caesium](https://saerasoft.com/caesium/), [ImageSmaller](https://www.imagesmaller.com/), [Compress JPEG](https://compressjpeg.com/), [CompressImage](https://compressimage.io/), [CrushImage](https://crushimage.com/), [ShrinkMe](https://shrinkme.app/), [Crushee](https://crushee.app/), [Seopix](https://www.seopix.io/), [Imagator](https://imagator.co/), [Compressor](https://compressor.io/) or [Batch Compress](https://batchcompress.com/en) - Image Compressors 
-* [Bulk Image Convert](https://bulkimageconvert.com), [imverter](https://www.imverter.com/), [Raw Pics](https://raw.pics.io/) or [Converseen](https://converseen.fasterland.net/) - Image Converters 
+* ⭐ **[Squoosh](https://squoosh.app/)**, [CompressOrDie](https://compress-or-die.com/), [TinyJPG](https://tinyjpg.com/), [ImageCompresser](https://imagecompresser.com/), [Caesium](https://saerasoft.com/caesium/), [ImageSmaller](https://www.imagesmaller.com/), [Compress JPEG](https://compressjpeg.com/), [CompressImage](https://compressimage.io/), [CrushImage](https://crushimage.com/), [ShrinkMe](https://shrinkme.app/), [Crushee](https://crushee.app/), [Seopix](https://www.seopix.io/), [Imagator](https://imagator.co/), [Compressor](https://compressor.io/) or [Batch Compress](https://batchcompress.com/en) - Image Compressors
+* [Bulk Image Convert](https://bulkimageconvert.com), [Convertmyimage](https://convert-my-image.com/), [ImageConvert](https://imageconvert.org/), [imverter](https://www.imverter.com/), [Raw Pics](https://raw.pics.io/) or [Converseen](https://converseen.fasterland.net/) - Image Converters 
 * [ImageWorsener](https://entropymine.com/imageworsener/) - Image Filters / Blur / Resizing
 * [tiny.pictures](https://tiny.pictures/) - Optimize Images
 * [Bulk Image Resize](https://bulkimageresize.com/) - Resize Images / [Crop](https://bulkimagecrop.com/) / [Compress](https://imagecompressr.com/) 
@@ -595,12 +599,12 @@
 
 * 🌐 **[Creator Resources](https://www.newgrounds.com/wiki/creator-resources/)** - Art / Animation Resources
 * 🌐 **[Awesome Colab Notebooks](https://github.com/amrzv/awesome-colab-notebooks)** - Image Colab Resources
-* ↪️ **[Multi-Tool Image Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_multi_image_tool_sites)**
 * ↪️ **[Color Scheme Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/dev-tools#wiki_.25B7_color_schemes)** -  [Guide](https://i.ibb.co/cCRn3y1/5eb0a8de7dac.jpg)
 * ↪️ **[Color Pickers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_color_pickers)**
 * ⭐ **[ImgOps](https://imgops.com/)** - Image Operations Meta-Tool
 * ⭐ **[AntiDupl](https://github.com/ermig1979/AntiDupl)** or [cbird](https://github.com/scrubbbbs/cbird) - Duplicate Image Removers
 * ⭐ **[Muzli](https://search.muz.li/)** - Design Inspiration Search
+* [WebOasis Editors](https://weboasis.app/editors/), [RedKetchup](https://redketchup.io/), [Img2Go](https://www.img2go.com/), [fffuel](https://fffuel.co/) or [Mara](https://mara.photos/) - Multi-Tool Sites
 * [PhotoFeeler](https://www.photofeeler.com/) - Get Photo Feedback
 * [Picviewer CE+](https://github.com/hoothin/UserScripts/tree/master/Picviewer%20CE+) - Turn Webpages into Image Galleries
 * [Binternet](https://github.com/Ahwxorg/Binternet) - Pinterest Frontend
@@ -619,7 +623,7 @@
 * [Visual Center](https://javier.xyz/visual-center/) - Find the Visual Center of an Image
 * [Lithophane](https://3dp.rocks/lithophane) - Image to Lithophane Converter
 * [WhatTheFont](https://www.myfonts.com/) - Find Font from Image
-* [Watermarkly](https://watermarkly.com/) or [Watermarkup](https://watermarkup.com/watermark.html) - Image Watermarking
+* [Watermarkly](https://watermarkly.com/), [BatchWatermark](https://batchwatermark.com/) or [Watermarkup](https://watermarkup.com/watermark.html) - Image Watermarking
 * [Watermark Remover](https://www.watermarkremover.io/) or [DeWatermark](https://dewatermark.ai/) - Watermark Removal
 * [Glaze](https://glaze.cs.uchicago.edu/index.html) or [Nightshade](https://nightshade.cs.uchicago.edu/downloads.html) - Protect Digital Art from AI Copies
 * [FPNG](https://github.com/richgel999/fpng) - PNG Reader / Writer
@@ -670,6 +674,7 @@
 * [Fragment](https://www.fragmentapp.info/)
 * [HoneyView](https://en.bandisoft.com/honeyview/)
 * [picturama](https://picturama.github.io/)
+* [FastStone](https://www.faststone.org/index.htm)
 * [narrative](https://narrative.so/)
 * [G'MIC](https://gmic.eu/)
 * [BeeRef](https://beeref.org/) - Reference Image Viewer
@@ -776,7 +781,7 @@
 
 * 🌐 **[React Color](https://casesandberg.github.io/react-color/)** - Color Pickers Index
 * 🌐 **[BrandColors](https://brandcolors.net/)** - Brand Color Palettes Index
-* [Material UI](https://materialui.co/colors/), [Color Deck](https://color.obscuredetour.com/), [cccolor](https://fffuel.co/cccolor/), [Picular](https://picular.co/) or [ColorKit's Color Picker](https://colorkit.co/color-picker/) - Color Pickers
+* [Material UI](https://materialui.co/colors/), [Color Deck](https://color.obscuredetour.com/), [Picular](https://picular.co/) or [ColorKit's Color Picker](https://colorkit.co/color-picker/) - Color Pickers
 * [Colorpicker](https://colorpicker.fr/), [Just Color Picker](https://annystudio.com/software/colorpicker/) or [epick](https://github.com/vv9k/epick) - Color Picker Desktop Apps
 * [Colorscales](https://www.colorscales.com/en/start) - Find Colors in Color Space
 * [ColourCode](https://www.toptal.com/designers/colourcode/) or [Colordot](https://color.hailpixel.com/) - Find Colors by Moving Mouse
