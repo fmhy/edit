@@ -292,26 +292,26 @@
 
 * ↪️ **[YouTube Video Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/social-media#wiki_.25B7_youtube_downloaders)**
 * ↪️ **[Twitch Video Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/social-media#wiki_.25B7_twitch_downloaders)**
-* ⭐ **[Download Helper](https://www.downloadhelper.net/)**, [AddonCrop Downloader](https://addoncrop.com/v25/youtube-downloader/), [Cococut](https://cococut.net/), [FetchV](https://fetchv.net/) or [MPMux](https://mpmux.com/) - Extensions
-* ⭐ **[YT-DLP](https://github.com/yt-dlp/yt-dlp)** - Multi-Site / [Easy Installer](https://github.com/kazukikasama/youtube-dlp-gui-installer), [2](https://github.com/StefanLobbenmeier/youtube-dl-gui)
-* ⭐ **[cobalt](https://cobalt.tools/)** - Multi-Site
-* ⭐ **[9xbuddy](https://9xbuddy.com/)**, [2](https://9xbuddy.online/) or [3](https://9xbuddy.in/) - Multi-Site
-* ⭐ **[Lux](https://github.com/iawia002/lux)** - Multi-Site
+* ⭐ **[Download Helper](https://www.downloadhelper.net/)**, [Cococut](https://cococut.net/), [FetchV](https://fetchv.net/) or [MPMux](https://mpmux.com/) - Extensions
+* ⭐ **[YT-DLP](https://github.com/yt-dlp/yt-dlp)** - Multi-Site / CLI / [Easy Installer](https://github.com/kazukikasama/youtube-dlp-gui-installer), [GUI](https://github.com/StefanLobbenmeier/youtube-dl-gui)
+* ⭐ **[cobalt](https://cobalt.tools/)** - Multi-Site / Online
+* ⭐ **[9xbuddy](https://9xbuddy.com/)**, [2](https://9xbuddy.online/) or [3](https://9xbuddy.in/) - Multi-Site / Online
+* ⭐ **[Lux](https://github.com/iawia002/lux)** - Multi-Site / CLI
 * [VideoHelp Forum](https://forum.videohelp.com/) - All Things Media
 * [CD(R)M-Project](https://discord.gg/SYyvPxVyyW) - StreamFab Downloader
-* [TubeOffline](https://www.tubeoffline.com/) - Multi-Site
-* [VideoFK](https://www.videofk.com/) - Multi-Site
-* [you-get](https://you-get.org/) - Multi-Site
-* [Hitomi Downloader](https://github.com/KurtBestor/Hitomi-Downloader) - Multi-Site
-* [Yout](https://yout.com/) - Multi-Site - Multi-Site
-* [pastedownload](https://pastedownload.com/)
-* [weibomiaopai](https://weibomiaopai.com/download-video-parser.php) - Multi-Site
-* [SCrawler](https://github.com/AAndyProgram/SCrawler) - Multi-Site
-* [webvideo-downloader](https://github.com/jaysonlong/webvideo-downloader) - Multi-Site
-* [TikTok Scraper](https://github.com/drawrowfly/tiktok-scraper), [myfaveTT](https://myfavett.com/), [SnapTik](https://snaptik.app/), [tiktok-to-ytdlp](https://github.com/Dinoosauro/tiktok-to-ytdlp) or [urlescraper](https://github.com/Tomeriko96/urlescraper) - TikTok
-* [DMVideo](https://dmvideo.download/) - DailyMotion
-* [PinCase](https://pincase.xyz/) - Pinterest
-* [kmttg](https://www.videohelp.com/software/kmttg) - TivoToGo Download Manager
+* [TubeOffline](https://www.tubeoffline.com/) - Multi-Site / Online
+* [VideoFK](https://www.videofk.com/) - Multi-Site / Online
+* [you-get](https://you-get.org/) - Multi-Site / CLI
+* [Hitomi Downloader](https://github.com/KurtBestor/Hitomi-Downloader) - Multi-Site / Software
+* [Yout](https://yout.com/) - Multi-Site / Online
+* [pastedownload](https://pastedownload.com/) - Multi-Site / Online
+* [weibomiaopai](https://weibomiaopai.com/download-video-parser.php) - Multi-Site / Online
+* [SCrawler](https://github.com/AAndyProgram/SCrawler) - Multi-Site / Software / [Discord](https://discord.gg/uFNUXvFFmg)
+* [webvideo-downloader](https://github.com/jaysonlong/webvideo-downloader) - Multi-Site /  CLI
+* [TikTok Scraper](https://github.com/drawrowfly/tiktok-scraper), [myfaveTT](https://myfavett.com/), [SnapTik](https://snaptik.app/), [tiktok-to-ytdlp](https://github.com/Dinoosauro/tiktok-to-ytdlp) - TikTok
+* [urlescraper](https://github.com/Tomeriko96/urlescraper) - Urlebird
+* [DMVideo](https://dmvideo.download/) - DailyMotion / Online
+* [PinCase](https://pincase.xyz/) - Pinterest / Online
 * [hls-downloader](https://github.com/puemos/hls-downloader), [hls extension](https://webextension.org/listing/hls-downloader.html) or [hlsloader.com](https://www.hlsloader.com/) - HLS Downloaders
 * [GetWVKeys](https://getwvkeys.cc/) - Send Widevine Requests / [GitHub](https://github.com/GetWVKeys/)
 
@@ -375,7 +375,6 @@
 * [Kapwing](https://www.kapwing.com/)
 * [InVideo](https://invideo.io/)
 * [Panzoid](https://panzoid.com/)
-* [KeepChangeIt](https://keepchangeit.com/)
 * [veed.io](https://www.veed.io/tools/video-editor)
 * [Convert2Video](https://convert2video.com/)
 * [Video Cutter](https://video-cutter-js.com/)
