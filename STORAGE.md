@@ -171,8 +171,7 @@
 * ⭐ **zsh Tools** - [Plugins](https://github.com/unixorn/awesome-zsh-plugins) / [Auto Suggest](https://github.com/zsh-users/zsh-autosuggestions) / [Customization](https://ohmyz.sh/) / [Theme](https://github.com/romkatv/powerlevel10k) / [Auto Setup](https://github.com/gustavohellwig/gh-zsh) / [Rich Framework](https://github.com/sorin-ionescu/prezto) / [Syntax Highlighting](https://github.com/zsh-users/zsh-syntax-highlighting)
 * ⭐ **[bash](https://www.gnu.org/software/bash/)** - Pre-Installed on Most Distros
 
-[fish](https://fishshell.com/), [Elvish](https://elv.sh/), [Es](https://wryun.github.io/es-shell/), [Ion](https://gitlab.redox-os.org/redox-os/ion), [Xonsh](https://xon.sh/), [Nushell](https://www.nushell.sh/), [oh-my-fish](https://github.com/oh-my-fish/oh-my-fish)
-
+[fish](https://fishshell.com/), [Elvish](https://elv.sh/), [Es](https://wryun.github.io/es-shell/), [Ion](https://gitlab.redox-os.org/redox-os/ion), [Xonsh](https://xon.sh/), [Nushell](https://www.nushell.sh/)
 ***
 
 ## Covers / Posters
@@ -1157,7 +1156,7 @@
 * 🌐 **[awesome-web-scraping](https://github.com/lorien/awesome-web-scraping)** / [2](https://github.com/iipc/awesome-web-archiving) / [3](https://github.com/BruceDone/awesome-crawler)
 * ⭐ **[Web Scraping Tutorial](https://github.com/MorvanZhou/easy-scraping-tutorial)**
 * ⭐ **[datahoarder-website-to-markdown](https://github.com/evilsh3ll/datahoarder-website-to-markdown)** - Index to Markdown Archiving Tool
-* [webrecorder](https://webrecorder.net/),
+* [webrecorder](https://webrecorder.net/)
 * [Heritrix](https://heritrix.readthedocs.io/) / [GitHub](https://github.com/internetarchive/heritrix3)
 * [wail](https://matkelly.com/wail) / [GitHub](https://github.com/machawk1/wail)
 * [80legs](https://80legs.com/)
@@ -1190,7 +1189,6 @@
 * [suckit](https://github.com/skallwar/suckit)
 * [DownloadNet](https://github.com/dosyago/DownloadNet)
 * [wget2](https://gitlab.com/gnuwget/wget2) / [Commands](https://www.whatismybrowser.com/developers/tools/wget-wizard/)
-* [you-get](https://you-get.org/)
 * [archivy](https://github.com/archivy/archivy/)
 * [web.scraper](https://web.scraper.workers.dev/)
 * [WikiTeam](https://github.com/WikiTeam/wikiteam)
@@ -1198,7 +1196,6 @@
 * [wallabag](https://github.com/wallabag/docker)
 * [brozzler](https://github.com/internetarchive/brozzler)
 * [Scoop](https://github.com/harvard-lil/scoop)
-* [stealth](https://github.com/tholian-network/stealth)
 * [CopySite](https://xdan.ru/copysite/)
 
 ***
