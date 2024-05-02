@@ -410,7 +410,6 @@
 * ⭐ **[Streamed](https://streamed.su/)** - Sports
 * ⭐ **[Sportsurge](https://sportsurge.net/)**- Sports / Stream Aggregator
 * ⭐ **[Sports Plus](https://en12.sportplus.live/)** - Sports
-* ⭐ **[FreeSports](https://freesports.to/)** or [TheHomeSport](https://thehomesport.com/) - Sports
 * ⭐ **[VIP Box Sports](https://www.viprow.nu/)**, [2](https://vipleague.im/), [3](https://www.vipleague.la/), [4](https://www.vipbox.lc/) - Sports / [More Links](https://rentry.org/894dq2c9)
 * ⭐ **[SportsHub](https://reddit10.sportshub.stream/)** - Sports
 * ⭐ **[TotalSportek](https://totalsportek.pro/)**, [2](https://www.totalsportek.to/) - Sports
