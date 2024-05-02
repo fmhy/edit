@@ -487,6 +487,7 @@
 * ⭐ **[MCPropertyEncyclopedia](https://joakimthorsen.github.io/MCPropertyEncyclopedia/)** - Block Property Encyclopedia
 * ⭐ **[Villager Trading Cheatsheet](https://i.ibb.co/sKBjbzg/e9f8d80e2376.png)**
 * ⭐ **[Minecraft Brewing Cheatsheet](https://minecraft.wiki/images/Minecraft_brewing_en.png)**
+* [MCBEDOC](https://rentry.co/mcbedoc) - List of Minecraft: Windows 10 cracks, tools and unlockers.
 * [Charm](https://svenhjol.github.io/Charm/), [Essential](https://essential.gg/) or [Quark](https://quarkmod.net/) - Minecraft Quality of Life Mods
 * [MCPEDL](https://mcpedl.com/) - Minecraft PE/Bedrock Mods, Maps & Resources
 * [Pax](https://github.com/froehlichA/pax) or [Mod Manager](https://github.com/kaniol-lck/modmanager) - Minecraft Mod Managers
