@@ -130,7 +130,7 @@
 
 ***
 
-## ▷ Link Homepages
+## ▷ Link in Bio Sites
 
 * ↪️ **[Browser Startpages](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_browser_startpages)**
 * ⭐ **[Linktree](https://linktr.ee/)**
@@ -140,23 +140,22 @@
 * [Carrd](https://carrd.co/)
 * [Bio.link](https://bio.link/)
 * [Seamless](https://www.linkinbio.website/)
-* [FlowCode](https://www.flowcode.com/page)
-* [Solo.to](https://solo.to/)
-* [Ayo.so](https://ayo.so/)
+* [Ayo](https://ayo.so/)
 * [ContactInBio](https://www.contactinbio.com/)
 * [Campsite](https://campsite.bio/)
-* [bizzl.ink](https://bizzl.ink/)
-* [Horizon](https://hrzn.bio/)
+
+* [Horizon Bio](https://hrzn.bio/) (bare-bones?)
 * [BioDrop](https://www.biodrop.io/)
 * [Taplink](https://taplink.at/)
-* [Linkbun](https://linkbun.io)
-* [Mez.ink](https://mez.ink/)
-* [dialo](https://dialo.app/)
-* [linkr](https://linkr.com/)
+* [LinkBun](https://linkbun.io)
+* [Linkr](https://linkr.com/)
 * [LittleLink](https://littlelink.io/) - Self-Hosted
-* [Homepage](https://github.com/benphelps/homepage), [Flame](https://github.com/pawelmalak/flame) or [Homer](https://github.com/bastienwirtz/homer) - Home Server Startpages
 * [Dashy](https://dashy.to/) - Self-Hosted Home Server Startpage / [GitHub](https://github.com/lissy93/dashy)
 * [itsmy.fyi](https://itsmy.fyi/) - Create Homepage via Github Issues / [Github](https://github.com/rishi-raj-jain/itsmy.fyi) 
+
+Move this:
+* [Homepage](https://github.com/benphelps/homepage), [Flame](https://github.com/pawelmalak/flame) or [Homer](https://github.com/bastienwirtz/homer) - Home Server Startpages
+
 
 ***
 
