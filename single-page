@@ -259,6 +259,8 @@
 * [PixAI](https://pixai.art/) / 10 Daily
 * [Krea](https://search.krea.ai/) / [Discord](https://discord.gg/rJurUAR8Kz)
 * [ArtHub.ai](https://arthub.ai/)
+* [HotPot](https://hotpot.ai/)
+* [clipdrop](https://clipdrop.co/tools)
 * [MemeCam](https://www.memecam.io/) - AI Meme Generator
 * [Genie](https://lumalabs.ai/genie), [Shap-e](https://github.com/openai/shap-e), [Stable Dreamfusion](https://github.com/ashawkey/stable-dreamfusion) or [ThreeStudio](https://github.com/threestudio-project/threestudio) - 3D Image Generators
 * [Insta-3D](https://huggingface.co/spaces/ilumine-AI/Insta-3D) - Turn 2D images into 3D spaces
