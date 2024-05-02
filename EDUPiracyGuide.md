@@ -800,12 +800,12 @@
 * [UBC Sanskrit Learning Tools](https://ubcsanskrit.ca/) - UBC Sanskrit Lessons
 * [Sanskrit Subreddit](https://www.reddit.com/r/sanskrit/) / [Resources](https://www.reddit.com/r/sanskrit/comments/kx3xyu/sanskrit_resources_compilation_post/) - Sanskrit Resources / Discussion
 * [Ambuda](https://ambuda.org/texts/) - Sanskrit Dictionaries / Texts
-* [TeachMeHebrew](https://www.teachmehebrew.com/) - Learn Hebrew
 
 ***
 
 ## ▷ Other Languages
 
+* [TeachMeHebrew](https://www.teachmehebrew.com/) - Learn Hebrew
 * [ASL Dictionary](https://www.signasl.org/), [BSL Dictionary](https://www.signbsl.com/), [SignSpaces](https://signspaces.com/) or [HandSpeak](https://www.handspeak.com/) - Learn American Sign Language
 * [SignLearner](https://signlearner.com/) - Learn Sign Language while Browsing Internet
 * [Learn BSL in SignWriting](https://ankiweb.net/shared/info/1502698119)
