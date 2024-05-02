@@ -9,13 +9,13 @@
 ## ▷ Multi Server
 
 * ⭐ **[Binged](https://binged.live/)**, [2](https://binge.lol/), [3](https://binged.in/) - Movies / TV / Anime / 1080p / [Discord](https://discord.gg/f2SvhcKCKS)
-* ⭐ **[NunFlix](https://nunflix.com/)** - Movies / TV / Anime / 1080p / [Discord](https://discord.gg/CXVyfhgn26)
+* ⭐ **[movie-web](https://erynith.github.io/movie-web-instances/)** - Movies / TV / Anime / 4K / 1080p / [Stream Fix](https://docs.sudo-flix.lol/extension) (important) / [Doc Fork](https://docs.sudo-flix.lol/) / [Discord](https://discord.gg/EDYT5bjSvp)
+* ⭐ **[NunFlix](https://nunflix.com/)** - Movies / TV / Anime / 4K / 1080p / [Discord](https://discord.gg/CXVyfhgn26)
 * ⭐ **[FMovies](https://fmoviesz.to/)** - Movies / TV / Anime / 1080p / [Mirrors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_fmovies_clones)
 * ⭐ **[Braflix](https://www.braflix.video/)** - Movies / TV / Anime / 4K / 1080p / [Discord](https://discord.gg/wWKmxARaWH)
 * ⭐ **[watch.lonelil](https://watch.lonelil.ru/)** - Movies / TV / Anime / 4K / 1080p / [Discord](https://discord.com/invite/BKts6Jb5sA) / [Telegram](https://t.me/watchlonelil)
 * ⭐ **[HydraHD](https://hydrahd.com/)** - Movies / TV / Anime / 1080p
 * ⭐ **[The Movie Archive](https://themoviearchive.site/)**, [2](https://tma.lol) - Movies / TV / 4K / 1080p
-* ⭐ **[movie-web](https://erynith.github.io/movie-web-instances/)** - Movies / TV / Anime / 1080p / [Doc Fork](https://docs.sudo-flix.lol/) / [Discord](https://discord.gg/EDYT5bjSvp)
 * ⭐ **[SusFlix](https://susflix.tv/)**, [2](https://www.susmovies.lol/), [3](https://sushbo.com/), [4](https://hbosus.com) - Movies / TV / Anime / 4K / 1080p / [Discord](https://discord.gg/BE7kTVezBN)
 * ⭐ **[KipFlix](https://kipflix.vercel.app/)** - Movies / TV / Anime / 1080p / [Discord](https://discord.gg/tDKYeh9eQn)
 * ⭐ **[NetFilm](https://netfilm.app/)** - Movies / TV / Anime / 1080p / [Discord](https://discord.gg/g37Fc8u4ks)
@@ -89,8 +89,8 @@
 * ⭐ **[PressPlay](https://www.pressplay.top/)** - Movies / TV / 1080p / [Discord](https://discord.gg/r4QrghF4B9)
 * ⭐ **[YesMovies](https://yesmovies.ag/)**, [2](https://ww4.solarmovie.to/), [3](https://ww5.0123movie.net/), [4](https://ww1.putlocker.vip/) - Movies / TV / 1080p
 * ⭐ **[LookMovie](https://lookmovie2.to/)** - Movies / TV / 720p / [Mirrors](https://proxymirrorlookmovie.github.io/)
-* [Cinewave](https://discord.gg/ZrnqNtnbPy) - Movies / TV / 1080p
-* [FshareTV](https://fsharetv.co/), [2](https://fsharetv.io/) - Movies / 1080p
+* [Cinewave](https://discord.gg/ZrnqNtnbPy) - Movies / TV / 1080p / Jellyfin Required
+* [FshareTV](https://fsharetv.co/) - Movies / 1080p
 * [FossaTV](https://fossa.tv/) or [CrossTV](https://tv.cross.moe/) - Movies / TV / 1080p
 * [RidoMovies](https://ridomovies.tv/) - Movies / 1080p
 * [Ling.online](https://ling-online.net/en/videos/films/) - Movies / TV / 1080p
@@ -98,21 +98,19 @@
 * [English Movies](https://m.vk.com/english_movies) - Movies / 1080p
 * [StreamLord](http://www.streamlord.com/) - Movies / TV / 1080p
 * [VidCloud](https://vidcloud1.com/) - Movies / TV / 1080p
-* [MoviehdKH](https://www.moviehdkh.com/) - Movies / 1080p
-* [Show Flix](https://showflix.in/lan/movie/English) - Movies / TV / 1080p / Switch Audio Source in Settings
+* [Show Flix](https://showflix.xyz/lan/movie/English) - Movies / TV / 1080p / Switch Audio Source in Settings
 * [GotyTV](https://gotytv.com/) - Movies / TV / 1080p / Requires Signup
 * [PopcornFlix](https://www.popcornflix.com/) - Movies / TV / 1080p
-* [Crackle](https://www.crackle.com/) - Movies / TV / 1080p
+* [Crackle](https://www.crackle.com/) - Movies / TV / 1080p / US Only
 * [Tubi](https://tubitv.com) - Movies / TV / 720p / Use Adblock / [Downloader](https://github.com/warren-bank/node-hls-downloader-tubitv) / US Only
-* [Freevee](https://www.amazon.com/gp/video/storefront/ref=atv_hm_hom_c_9zZ8D2_1_3?contentType=home&contentId=freetv) - Movies / TV / 1080p
-* [Roku](https://therokuchannel.roku.com/) - Movies / TV / 1080p
-* [Vudu](https://www.vudu.com/content/movies/uxpage/View-All-Free-Movies-TV/207) - Movies / TV / 1080p
-* [ShoutFactoryTV](https://shout-tv.com/) - Movies / TV / 1080p
-* [Kanopy](https://kanopy.com/) or [Hoopla](https://www.hoopladigital.com/) - Movies / TV / 1080p / Library Card Required
+* [Freevee](https://www.amazon.com/gp/video/storefront/ref=atv_hm_hom_c_9zZ8D2_1_3?contentType=home&contentId=freetv) - Movies / TV / 1080p / US Only
+* [Roku](https://therokuchannel.roku.com/) - Movies / TV / 1080p / US Only
+* [Vudu](https://www.vudu.com/content/movies/uxpage/View-All-Free-Movies-TV/207) - Movies / TV / 1080p / US Only
+* [ShoutFactoryTV](https://shout-tv.com/) - Movies / TV / 1080p / US Only
+* [Kanopy](https://kanopy.com/) or [Hoopla](https://www.hoopladigital.com/) - Movies / TV / 1080p / US Only / Library Card Required
 * [7+](https://7plus.com.au/) - Movies / TV / 1080p / US + AU Only
 * [Playary](https://www.playary.com/) - Movies / TV / 1080p
 * [Fawesome](https://fawesome.tv/) - Movies / TV / 1080p
-* [LokLok](https://loklok.com/) - Movies / TV / 1080p
 * [ARTE](https://www.arte.tv/en) - Movies / TV / 1080p
 * [BBC iPlayer](https://www.bbc.co.uk/iplayer) - Movies / TV / 1080p / [Downloader](https://github.com/get-iplayer/get_iplayer) / UK VPN required / Windscribe has UK free
 * [Pluto](https://pluto.tv/) - Movies / TV / 720p
@@ -239,6 +237,7 @@
 * ⭐ **[GoPlay](https://goplay.pw)** [2](https://goplay.wtf/), [3](https://goplay.anontpp.com/) - TV / Movies / 1080p / Join [Discord](https://discord.com/invite/yY2P3DQR8S) for Code
 * [GDrive KDrama](https://databasegdriveplayer.co/drama.php) - TV / Movies
 * [AsianCrush](https://www.asiancrush.com/) - TV / Movies
+* [LokLok](https://loklok.com/) - TV / Movies
 * [KissKH](https://kisskh.co/) - TV
 * [onedrama](https://onedrama.me/) - TV / Movies
 * [Viki](https://www.viki.com/) - TV / Movies
@@ -381,7 +380,6 @@
 * ⭐ **[DaddyLive](https://dlhd.sx/)** or [miztv](https://miztv.shop/), [2](https://miztv.ru/) - TV / Sport / [Discord](https://discord.gg/SgbjFVn6th)
 * [Braflix](https://www.braflix.video/) - TV / Sports / [Discord](https://discord.gg/wWKmxARaWH)
 * [SusFlix](https://susflix.tv/) - TV / Sports / [Discord](https://discord.gg/BE7kTVezBN)
-* [FlowStreams](https://flowstreams.cx/) -  TV / Sports
 * [TheTVApp](https://thetvapp.to/) - TV / Sports
 * [Xumo Play](https://play.xumo.com/networks) - TV / US only
 * [Pluto](https://pluto.tv/live-tv), [2](https://app-lgwebos.pluto.tv/live-tv) - TV / Sports
@@ -648,12 +646,6 @@
 * [SickChill](https://sickchill.github.io/) / [GitHub](https://github.com/SickChill/SickChill) or [CouchPotato](https://couchpota.to/) - Automatic Torrent / NZB Searching, Downloading & Processing
 * [GMDB](https://github.com/Dentrax/GMDB), [PeerFlix](https://github.com/mafintosh/peerflix) / [Server](https://github.com/asapach/peerflix-server) - Torrent Streaming CLIs
 * [Autosearch Extension](https://github.com/trossr32/sonarr-radarr-lidarr-autosearch-browser-extension) - Sonarr/Radarr/Lidarr Autosearch Extension
-
-https://chromewebstore.google.com/detail/jmmjjcddjldjdjgckdiokhfokccdnekc
-
-Sonarr/Radarr/Lidarr autosearch
-
-
 * [Unpackerr](https://unpackerr.zip/) - Automated Archive Extraction
 * [VLC-Bittorrent](https://github.com/johang/vlc-bittorrent) or [StreamTim](https://streamtim.com/) - Stream Torrents in VLC
 * [webtorrent-mpv-hook](https://github.com/mrxdst/webtorrent-mpv-hook) - Stream Torrents in MPV
@@ -676,7 +668,7 @@ Sonarr/Radarr/Lidarr autosearch
 * [GaoQing](https://gaoqing.fm/) - Movies / TV / Anime / [Translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)
 * [Play](http://127.0.0.1:43110/1PLAYgDQboKojowD3kwdb3CtWmWaokXvfp/) - [ZeroNet Required](https://zeronet.io/) / Movies / TV
 * [Vuze](https://www.vuze.com/content/) - Movies / TV
-* [YAPs](https://yaps.cc/) - Movies / TV / [GitHub](https://github.com/the-rarbg/yaps)
+* [YAPs](https://yaps.therarbg.to/) - Movies / TV / [GitHub](https://github.com/the-rarbg/yaps)
 * [Public Domain Movie Torrents](https://www.publicdomaintorrents.info/) - Movies
 * [YTS](https://yts.mx/) or [YifyMovies](https://yifymovies.xyz/) - Movies / [Google Buttons](https://github.com/cotnw/muvi) / [Discord](https://discord.gg/GwDraJjMga) / [Mirrors](https://www.yifystatus.com/) / [Search](https://yify.netlify.app/) / Do [NOT](https://web.archive.org/web/20230729051829/https://thetechzone.online/do-not-register-on-this-torrent-website-filter-your-data-to-hollywood/) Make Account
 * [kunkka-tor.rent](https://torrent.klesun.net/) - Torrent Streaming Site (use VPN)
