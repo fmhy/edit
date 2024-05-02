@@ -133,29 +133,21 @@
 ## ▷ Link in Bio Sites
 
 * ↪️ **[Browser Startpages](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_browser_startpages)**
-* ⭐ **[Linktree](https://linktr.ee/)**
-* ⭐ **[Linkstack](https://linkstack.org)**, [2](https://linksta.cc) - Self Hosted
-* [Ichi](https://ichi.city)
-* [Beacon](https://beacons.ai/)
+* ⭐ **[Linktree](https://linktr.ee/)** - Link in Bio
+* ⭐ **[Linkstack](https://linkstack.org)** or [LittleLink](https://littlelink.io/) - Self Hosted
+* [Beacons](https://beacons.ai/)
 * [Carrd](https://carrd.co/)
-* [Bio.link](https://bio.link/)
-* [Seamless](https://www.linkinbio.website/)
+* [Bio Link](https://bio.link/)
 * [Ayo](https://ayo.so/)
 * [ContactInBio](https://www.contactinbio.com/)
-* [Campsite](https://campsite.bio/)
-
-* [Horizon Bio](https://hrzn.bio/) (bare-bones?)
+* [Campsite.bio](https://campsite.bio/)
+* [Horizon Bio](https://hrzn.bio/)
 * [BioDrop](https://www.biodrop.io/)
 * [Taplink](https://taplink.at/)
 * [LinkBun](https://linkbun.io)
 * [Linkr](https://linkr.com/)
-* [LittleLink](https://littlelink.io/) - Self-Hosted
-* [Dashy](https://dashy.to/) - Self-Hosted Home Server Startpage / [GitHub](https://github.com/lissy93/dashy)
+* [seemless](https://www.linkinbio.website/) - Link in Bio for Tiktok & Instagram
 * [itsmy.fyi](https://itsmy.fyi/) - Create Homepage via Github Issues / [Github](https://github.com/rishi-raj-jain/itsmy.fyi) 
-
-Move this:
-* [Homepage](https://github.com/benphelps/homepage), [Flame](https://github.com/pawelmalak/flame) or [Homer](https://github.com/bastienwirtz/homer) - Home Server Startpages
-
 
 ***
 
