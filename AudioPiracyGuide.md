@@ -658,8 +658,8 @@
 
 * 🌐 **[Awesome Music Notation](https://github.com/noteflakes/awesome-music?tab=readme-ov-file#music-notation)** - Notation Tools
 * 🌐 **[Awesome Sheet Music](https://github.com/ad-si/awesome-sheet-music)** - Sheet Music Software & Resources
-* ↪️ **[Music Notation Editors]()**
-* ↪️ **[Music Sheet Collections]()**
+* ↪️ **[Music Notation Editors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_music_notation_editors)**
+* ↪️ **[Music Sheet Collections](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_music_sheet_collections)**
 * [Sheethost](https://sheet.host/) - Publish Sheet Music
 * [Swara Notebook](https://swaranotebook.com/) - Classical Indian Music Notation Generator
 * [The ABC Music Project](https://abc.sourceforge.net/) / [Editor](https://sourceforge.net/projects/toadflax/), [2](https://runabc.sourceforge.io/), [3](https://easyabc.sourceforge.net/) / [PNG Convert](https://sourceforge.net/projects/abccairo/) / [MIDI Convert](https://abcmidi.sourceforge.io/) / [Webpages](https://netabc.sourceforge.io/) - Notation Markup Language
