@@ -47,8 +47,8 @@
 * 🌐 **[Awesome Gnome](https://github.com/Kazhnuz/awesome-gnome)** - GNOME Resources
 * ⭐ **[Linux.Chat](https://discord.gg/linuxchat)**, [Linux.org](https://linux.org/), [Linux x Technology](https://linuxdiscord.com/), [Ezlinux](https://ezlinux.net/) or [Discord-Linux](https://discord.gg/discord-linux) - Linux Discussion / Forums
 * ⭐ **[Ventoy](https://www.ventoy.net)** / [GitHub](https://github.com/ventoy/Ventoy) or [Impression](https://gitlab.com/adhami3310/Impression) - Create Bootable USB Linux Drives
-* ⭐ **[DistroSea](https://distrosea.com/)** or [JSLinux](https://bellard.org/jslinux/) - Linux Browser Emulators
-* ⭐ **[Btop](https://github.com/aristocratos/btop)**, **[pfetch](https://github.com/dylanaraps/pfetch)**, **[MangoHud](https://github.com/flightlessmango/MangoHud)**, [CPU-X](https://github.com/TheTumultuousUnicornOfDarkness/CPU-X), [vtop](https://github.com/MrRio/vtop), [Macchina](https://github.com/Macchina-CLI/macchina) or [LM Sensors](https://github.com/lm-sensors/lm-sensors) or [s-tui](https://github.com/amanusk/s-tui) - System Info / Resource Monitors
+* ⭐ **[Btop](https://github.com/aristocratos/btop)**, **[fastfetch](https://github.com/fastfetch-cli/fastfetch)**, **[MangoHud](https://github.com/flightlessmango/MangoHud)**, [CPU-X](https://github.com/TheTumultuousUnicornOfDarkness/CPU-X), [vtop](https://github.com/MrRio/vtop), [Macchina](https://github.com/Macchina-CLI/macchina) or [LM Sensors](https://github.com/lm-sensors/lm-sensors) or [s-tui](https://github.com/amanusk/s-tui) - System Info / Resource Monitors
+* [DistroSea](https://distrosea.com/) or [JSLinux](https://bellard.org/jslinux/) - Linux Browser Emulators
 * [SysmonForLinux](https://github.com/Sysinternals/SysmonForLinux) - Monitor / Log System Activity
 * [Nanobench](https://github.com/andreas-abel/nanoBench) - CPU Microbenchmark / [Documentation](https://nanobench.ankerl.com/)
 * [ScanMem](https://github.com/scanmem/scanmem) - Memory Scanner / Debugger
