@@ -93,6 +93,7 @@
 * [FshareTV](https://fsharetv.co/) - Movies / 1080p
 * [FossaTV](https://fossa.tv/) or [CrossTV](https://tv.cross.moe/) - Movies / TV / 1080p
 * [RidoMovies](https://ridomovies.tv/) - Movies / 1080p
+* [media4u.top](https://discord.gg/QSYBhAEF78) - Movies / TV / Jellyfin / Plex / Emby / 1080p
 * [Ling.online](https://ling-online.net/en/videos/films/) - Movies / TV / 1080p
 * [UniqueStream](https://uniquestream.net/) - Movies / TV / 1080p
 * [English Movies](https://m.vk.com/english_movies) - Movies / 1080p
