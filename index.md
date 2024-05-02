@@ -42,3 +42,39 @@ features:
     link: /readingpiracyguide
     details: Whether you're a bookworm, otaku or comic book fan, you'll be able to find your favourite pieces of literature here for free!
 ---
+
+<script setup>
+import { onMounted } from 'vue'
+
+onMounted(() => {
+  var preferredKawaii
+  try {
+    preferredKawaii = localStorage.getItem('uwu')
+  } catch (err) {}
+  const urlParams = new URLSearchParams(window.location.search)
+  const kawaii = urlParams.get('uwu')
+  const setKawaii = () => {
+    const images = document.querySelectorAll('.VPImage.image-src')
+    images.forEach((img) => {
+      img.src = '/logo-uwu.svg'
+    })
+  }
+  if (kawaii === 'true') {
+    try {
+      localStorage.setItem('uwu', true)
+    } catch (err) {}
+    console.log('uwu mode enabled. Disable with "?uwu=false".');
+    setKawaii()
+  } else if (kawaii === 'false') {
+    try {
+      localStorage.removeItem('uwu', false)
+    } catch (err) {}
+    const images = document.querySelectorAll('.VPImage.image-src')
+    images.forEach((img) => {
+      img.src = '/test.png'
+    })
+  } else if (preferredKawaii) {
+    setKawaii()
+  }
+})
+</script>
