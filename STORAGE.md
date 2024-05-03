@@ -1171,7 +1171,7 @@
 * 🌐 **[Webrecorder](https://webrecorder.net/)** - Open source Archiving Tools
 * ⭐ **[ArchiveBox](https://archivebox.io)** - Self-hosted Web Archiving
 * ⭐ **[MarkDownload](https://github.com/deathau/markdownload)** - Download Web Pages as Markdown Files
-* ⭐ **[HTTrack](https://www.httrack.com/)** / [Guide](https://rentry.co/cloneasite)
+* ⭐ **[HTTrack](https://www.httrack.com/)** / [Guide](https://rentry.co/cloneasite) - Website Downloader
 * ⭐ **[datahoarder-website-to-markdown](https://github.com/evilsh3ll/datahoarder-website-to-markdown)** - Index to Markdown Tool
 * [WAIL](https://matkelly.com/wail) / [GitHub](https://github.com/machawk1/wail) - GUI For Archiving Tools
 * [ReplayWeb.page](https://replayweb.page/) - View Web Archive Files
