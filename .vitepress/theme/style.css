@@ -1,279 +1,211 @@
 :root {
   /* Colors: Brand */
-  --vp-c-brand-1: #7bc5e4;
-  --vp-c-brand-2: #c4e2f2;
-  --vp-c-brand-3: #4882a7;
-  --vp-c-brand-soft: #a4d5ec;
+  --vp-c-brand-1: #7bc5e4; /* Brand color 1 */
+  --vp-c-brand-2: #c4e2f2; /* Brand color 2 */
+  --vp-c-brand-3: #4882a7; /* Brand color 3 */
+  --vp-c-brand-soft: #a4d5ec; /* Brand soft color */
 
   /* Colors: Button */
-  --vp-button-brand-bg: var(--vp-c-brand-1);
-  --vp-button-brand-border: var(--vp-c-brand-soft);
-  --vp-button-brand-text: rgba(42, 40, 47);
-  --vp-button-brand-hover-border: var(--vp-c-brand-soft);
-  --vp-button-brand-hover-text: rgba(42, 40, 47);
-  --vp-button-brand-hover-bg: var(--vp-c-brand-soft);
-  --vp-button-brand-active-border: var(--vp-c-brand-soft);
-  --vp-button-brand-active-text: rgba(42, 40, 47);
-  --vp-button-brand-active-bg: var(--vp-button-brand-bg);
-  --vp-button-alt-bg: #484848;
-  --vp-button-alt-text: #f0eeee;
-  --vp-button-alt-hover-bg: #484848;
-  --vp-button-alt-hover-text: #f0eeee;
+  --vp-button-brand-bg: var(--vp-c-brand-1); /* Brand button background color */
+  --vp-button-brand-border: var(--vp-c-brand-soft); /* Brand button border color */
+  --vp-button-brand-text: rgba(42, 40, 47); /* Brand button text color */
+  --vp-button-brand-hover-border: var(--vp-c-brand-soft); /* Brand button hover border color */
+  --vp-button-brand-hover-text: rgba(42, 40, 47); /* Brand button hover text color */
+  --vp-button-brand-hover-bg: var(--vp-c-brand-soft); /* Brand button hover background color */
+  --vp-button-brand-active-border: var(--vp-c-brand-soft); /* Brand button active border color */
+  --vp-button-brand-active-text: rgba(42, 40, 47); /* Brand button active text color */
+  --vp-button-brand-active-bg: var(--vp-button-brand-bg); /* Brand button active background color */
+  --vp-button-alt-bg: #484848; /* Alternative button background color */
+  --vp-button-alt-text: #f0eeee; /* Alternative button text color */
+  --vp-button-alt-hover-bg: #484848; /* Alternative button hover background color */
+  --vp-button-alt-hover-text: #f0eeee; /* Alternative button hover text color */
 
-  --vp-c-bg-elv: rgba(255, 255, 255, 0.7);
-  --vp-c-bg-mark: rgb(232, 232, 232);
+  --vp-c-bg-elv: rgba(255, 255, 255, 0.7); /* Elevated background color */
+  --vp-c-bg-mark: rgb(232, 232, 232); /* Background color for marking text */
 
   /* Colors: Custom Block */
-  --vp-custom-block-info-bg: rgba(171, 210, 244, 0.05);
-  --vp-custom-block-info-border: #60c4fa;
-  --vp-custom-block-info-text: rgb(39, 115, 145);
-  --vp-custom-block-info-text-deep: rgb(18, 121, 162);
-  --vp-custom-block-tip-bg: rgba(137, 202, 176, 0.05);
-  --vp-custom-block-tip-border: rgba(34, 197, 94, 1);
-  --vp-custom-block-tip-text: rgb(10, 128, 90);
-  --vp-custom-block-tip-text-deep: rgb(11, 133, 94);
-  --vp-custom-block-warning-bg: rgba(250, 204, 21, 0.05);
-  --vp-custom-block-warning-border: rgba(245, 158, 11, 1);
-  --vp-custom-block-warning-text: rgb(166, 114, 35);
-  --vp-custom-block-warning-text-deep: rgb(199, 109, 6);
-  --vp-custom-block-danger-bg: rgba(220, 38, 38, 0.05);
-  --vp-custom-block-danger-border: rgba(248, 113, 113, 1);
-  --vp-custom-block-danger-text: rgb(196, 46, 46);
-  --vp-custom-block-danger-text-deep: rgba(220, 38, 38, 1);
+  --vp-custom-block-info-bg: rgba(171, 210, 244, 0.05); /* Custom block info background color */
+  --vp-custom-block-info-border: #60c4fa; /* Custom block info border color */
+  --vp-custom-block-info-text: rgb(39, 115, 145); /* Custom block info text color */
+  --vp-custom-block-info-text-deep: rgb(18, 121, 162); /* Custom block info deep text color */
+  --vp-custom-block-tip-bg: rgba(137, 202, 176, 0.05); /* Custom block tip background color */
+  --vp-custom-block-tip-border: rgba(34, 197, 94, 1); /* Custom block tip border color */
+  --vp-custom-block-tip-text: rgb(10, 128, 90); /* Custom block tip text color */
+  --vp-custom-block-tip-text-deep: rgb(11, 133, 94); /* Custom block tip deep text color */
+  --vp-custom-block-warning-bg: rgba(250, 204, 21, 0.05); /* Custom block warning background color */
+  --vp-custom-block-warning-border: rgba(245, 158, 11, 1); /* Custom block warning border color */
+  --vp-custom-block-warning-text: rgb(166, 114, 35); /* Custom block warning text color */
+  --vp-custom-block-warning-text-deep: rgb(199, 109, 6); /* Custom block warning deep text color */
+  --vp-custom-block-danger-bg: rgba(220, 38, 38, 0.05); /* Custom block danger background color */
+  --vp-custom-block-danger-border: rgba(248, 113, 113, 1); /* Custom block danger border color */
+  --vp-custom-block-danger-text: rgb(196, 46, 46); /* Custom block danger text color */
+  --vp-custom-block-danger-text-deep: rgba(220, 38, 38, 1); /* Custom block danger deep text color */
 
   /* Scrollbar */
-  scroll-behavior: smooth;
-  scrollbar-width: 4px;
+  scroll-behavior: smooth; /* Smooth scrolling behavior */
+  scrollbar-width: 4px; /* Scrollbar width */
 }
 
 .dark {
   /* Colors: Background */
-  --vp-c-bg: rgb(26, 26, 26);
-  --vp-c-bg-alt: rgb(23, 23, 23);
-  --vp-c-bg-elv: rgba(23, 23, 23, 0.8);
+  --vp-c-bg: rgb(26, 26, 26); /* Dark background color */
+  --vp-c-bg-alt: rgb(23, 23, 23); /* Dark alternative background color */
+  --vp-c-bg-elv: rgba(23, 23, 23, 0.8); /* Dark elevated background color */
 
   /* Colors: Custom Block */
-  --vp-custom-block-info-bg: rgba(84, 110, 155, 0.1);
-  --vp-custom-block-info-border: #3686b1;
-  --vp-custom-block-info-text: #52b0e3;
-  --vp-custom-block-info-text-deep: #00b7ff;
-  --vp-custom-block-tip-bg: rgba(51, 130, 118, 0.1);
-  --vp-custom-block-tip-border: rgba(4, 120, 87, 1);
-  --vp-custom-block-tip-text: rgb(25, 190, 129);
-  --vp-custom-block-tip-text-deep: rgba(52, 211, 153, 1);
-  --vp-custom-block-warning-bg: rgba(253, 224, 71, 0.1);
-  --vp-custom-block-warning-border: rgba(202, 138, 4, 1);
-  --vp-custom-block-warning-text: rgba(234, 179, 8, 1);
-  --vp-custom-block-warning-text-deep: rgba(250, 204, 21, 1);
-  --vp-custom-block-danger-bg: rgba(239, 68, 68, 0.1);
-  --vp-custom-block-danger-border: rgba(127, 29, 29, 1);
-  --vp-custom-block-danger-text: rgba(248, 113, 113, 1);
-  --vp-custom-block-danger-text-deep: rgba(248, 113, 113, 1);
+  --vp-custom-block-info-bg: rgba(84, 110, 155, 0.1); /* Dark custom block info background color */
+  --vp-custom-block-info-border: #3686b1; /* Dark custom block info border color */
+  --vp-custom-block-info-text: #52b0e3; /* Dark custom block info text color */
+  --vp-custom-block-info-text-deep: #00b7ff; /* Dark custom block info deep text color */
+  --vp-custom-block-tip-bg: rgba(51, 130, 118, 0.1); /* Dark custom block tip background color */
+  --vp-custom-block-tip-border: rgba(4, 120, 87, 1); /* Dark custom block tip border color */
+  --vp-custom-block-tip-text: rgb(25, 190, 129); /* Dark custom block tip text color */
+  --vp-custom-block-tip-text-deep: rgba(52, 211, 153, 1); /* Dark custom block tip deep text color */
+  --vp-custom-block-warning-bg: rgba(253, 224, 71, 0.1); /* Dark custom block warning background color */
+  --vp-custom-block-warning-border: rgba(202, 138, 4, 1); /* Dark custom block warning border color */
+  --vp-custom-block-warning-text: rgba(234, 179, 8, 1); /* Dark custom block warning text color */
+  --vp-custom-block-warning-text-deep: rgba(250, 204, 21, 1); /* Dark custom block warning deep text color */
+  --vp-custom-block-danger-bg: rgba(239, 68, 68, 0.1); /* Dark custom block danger background color */
+  --vp-custom-block-danger-border: rgba(127, 29, 29, 1); /* Dark custom block danger border color */
+  --vp-custom-block-danger-text: rgba(248, 113, 113, 1); /* Dark custom block danger text color */
+  --vp-custom-block-danger-text-deep: rgba(248, 113, 113, 1); /* Dark custom block danger deep text color */
 }
 
 .vp-doc a {
-  color: var(--vp-c-brand-1);
-  text-decoration: underline;
-  text-underline-offset: 4px;
-  text-decoration-style: solid;
-  text-decoration-color: transparent;
-  -webkit-text-decoration-color: transparent;
-  transition: text-decoration-color 0.25s;
+  color: var(--vp-c-brand-1); /* Brand color for links */
+  text-decoration: underline; /* Underline for links */
+  text-underline-offset: 4px; /* Offset for underline */
+  text-decoration-style: solid; /* Solid underline style */
+  text-decoration-color: transparent; /* Transparent underline color */
+  -webkit-text-decoration-color: transparent; /* Transparent underline color for webkit */
+  transition: text-decoration-color 0.25s; /* Transition for underline color */
 }
 
 .vp-doc a:hover {
-  color: var(--vp-c-brand-1);
-  text-decoration-color: var(--vp-c-brand-1);
-  -webkit-text-decoration-color: var(--vp-c-brand-1);
+  color: var(--vp-c-brand-1); /* Brand color for links on hover */
+  text-decoration-color: var(--vp-c-brand-1); /* Brand color for underline on hover */
+  -webkit-text-decoration-color: var(--vp-c-brand-1); /* Brand color for underline on hover for webkit */
 }
 
 .vp-doc .custom-block a {
-  text-decoration: underline;
-  text-underline-offset: 4px;
-  text-decoration-style: solid;
+  text-decoration: underline; /* Underline for links in custom blocks */
+  text-underline-offset: 4px; /* Offset for underline */
+  text-decoration-style: solid; /* Solid underline style */
 }
 
 ::selection {
-  background-color: var(--vp-button-brand-bg);
+  background-color: var(--vp-button-brand-bg); /* Brand button background color for selected text */
 }
 
 .VPFooter a {
-  text-decoration-line: underline;
-  text-decoration-style: dashed;
-  text-underline-offset: 5px;
-  transition: 0.3s;
+  text-decoration-line: underline; /* Underline for links in footer */
+  text-decoration-style: dashed; /* Dashed underline style */
+  text-underline-offset: 5px; /* Offset for underline */
+  transition: 0.3s; /* Transition for underline style */
 }
 
 .VPFooter a:hover {
-  color: var(--vp-c-text-1);
-  text-decoration-line: underline;
-  text-decoration-style: dashed;
-  text-underline-offset: 5px;
+  color: var(--vp-c-text-1); /* Text color for links in footer on hover */
+  text-decoration-line: underline; /* Underline for links in footer on hover */
+  text-decoration-style: dashed; /* Dashed underline style for links in footer on hover */
+  text-underline-offset: 5px; /* Offset for underline for links in footer on hover */
 }
 
 /* Custom scrollbar */
 .VPSidebar::-webkit-scrollbar {
-  block-size: 4px;
-  border-end-end-radius: 14px;
-  border-start-end-radius: 14px;
-  inline-size: 4px;
+  block-size: 4px; /* Scrollbar width */
+  border-end-end-radius: 14px; /* Scrollbar end-end border radius */
+  border-start-end-radius: 14px; /* Scrollbar start-end border radius */
+  inline-size: 4px; /* Scrollbar height */
 }
 
 /**
  * Component: Home
 */
 :root {
-  --vp-home-hero-name-color: transparent;
+  /* Colors: Home */
+  --vp-home-hero-name-color: transparent; /* Transparent color for home hero name */
   --vp-home-hero-name-background: -webkit-linear-gradient(
     120deg,
     #c4b5fd 30%,
-    #7bc5e4
-  );
+    #c4b5fd 30%,
+    #7bc5e4 70%
+  ); /* Gradient background color for home hero name */
 
   --vp-home-hero-image-background-image: linear-gradient(
     -45deg,
     #c4b5fd 50%,
     #47caff 50%
-  );
-  --vp-home-hero-image-filter: blur(44px);
+  ); /* Gradient background image for home hero image */
+  --vp-home-hero-image-filter: blur(44px); /* Blur filter for home hero image */
 }
 
 @media (min-width: 640px) {
   :root {
-    --vp-home-hero-image-filter: blur(56px);
+    --vp-home-hero-image-filter: blur(56px); /* Blur filter for home hero image on larger screens */
   }
 }
 
 @media (min-width: 960px) {
   :root {
-    --vp-home-hero-image-filter: blur(68px);
+    --vp-home-hero-image-filter: blur(68px); /* Blur filter for home hero image on larger screens */
   }
 }
 
 .base64 {
-  min-width: 100%;
-  width: 0px;
-  white-space: pre-wrap;
+  min-width: 100%; /* Minimum width for base64 encoded images */
+  width: 0px; /* Initial width */
+  white-space: pre-wrap; /* Preserve whitespace and wrap text */
 }
 
 /* Make clicks pass-through */
 #nprogress {
-  pointer-events: none;
+  pointer-events: none; /* Ignore pointer events */
 }
 
 #nprogress .bar {
-  background: var(--vp-c-brand-1);
-  position: fixed;
-  z-index: 1031;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 2px;
+  background: var(--vp-c-brand-1); /* Brand color for progress bar */
+  position: fixed; /* Fixed position */
+  z-index: 1031; /* High z-index value */
+  top: 0; /* Top position */
+  left: 0; /* Left position */
+  width: 100%; /* Full width */
+  height: 2px; /* Height */
 }
 
 /* Fancy blur effect */
 #nprogress .peg {
-  display: block;
-  position: absolute;
-  right: 0px;
-  width: 100px;
-  height: 100%;
+  display: block; /* Display as block element */
+  position: absolute; /* Absolute position */
+  right: 0px; /* Right position */
+  width: 100px; /* Width */
+  height: 100%; /* Full height */
   box-shadow:
     0 0 10px var(--vp-c-brand-1),
-    0 0 5px var(--vp-c-brand-1);
-  opacity: 1;
+    0 0 5px var(--vp-c-brand-1); /* Box shadow for fancy blur effect */
+  opacity: 1; /* Opacity */
 
-  -webkit-transform: rotate(3deg) translate(0px, -4px);
-  -ms-transform: rotate(3deg) translate(0px, -4px);
-  transform: rotate(3deg) translate(0px, -4px);
+  -webkit-transform: rotate(3deg) translate(0px, -4px); /* Rotate and translate for fancy blur effect */
+  -ms-transform: rotate(3deg) translate(0px, -4px); /* Rotate and translate for fancy blur effect */
+  transform: rotate(3deg) translate(0px, -4px); /* Rotate and translate for fancy blur effect */
 }
 
 #nprogress .spinner {
-  display: block;
-  position: fixed;
-  z-index: 1031;
-  top: 15px;
-  right: 15px;
+  display: block; /* Display as block element */
+  position: fixed; /* Absolute position */
+  z-index: 1031; /* High z-index value */
+  top: 15px; /* Top position */
+  right: 15px; /* Right position */
 }
 
 #nprogress .spinner-icon {
-  width: 18px;
-  height: 18px;
-  box-sizing: border-box;
+  width: 18px; /* Width */
+  height: 18px; /* Height */
+  box-sizing: border-box; /* Box sizing */
 
-  border: solid 2px transparent;
-  border-top-color: var(--vp-c-brand);
-  border-left-color: var(--vp-c-brand);
-  border-radius: 50%;
+  border: solid 2px transparent; /* Transparent border */
+  border-top-color: var(--vp-c-brand); /* Brand color for top border */
+  border-left-color: var(--vp-c-brand); /* Brand color for left border */
+  border-radius: 50%; /* Rounded border */
 
-  -webkit-animation: nprogress-spinner 400ms linear infinite;
-  animation: nprogress-spinner 400ms linear infinite;
-}
-
-.nprogress-custom-parent {
-  overflow: hidden;
-  position: relative;
-}
-
-.nprogress-custom-parent #nprogress .spinner,
-.nprogress-custom-parent #nprogress .bar {
-  position: absolute;
-}
-
-@-webkit-keyframes nprogress-spinner {
-  0% {
-    -webkit-transform: rotate(0deg);
-  }
-
-  100% {
-    -webkit-transform: rotate(360deg);
-  }
-}
-
-@keyframes nprogress-spinner {
-  0% {
-    transform: rotate(0deg);
-  }
-
-  100% {
-    transform: rotate(360deg);
-  }
-}
-
-#VPContent strong > a {
-  font-weight: bold;
-}
-
-.info.custom-block {
-  --icon: url('data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIGNsYXNzPSJsdWNpZGUgbHVjaWRlLWluZm8iPjxjaXJjbGUgY3g9IjEyIiBjeT0iMTIiIHI9IjEwIi8+PHBhdGggZD0iTTEyIDE2di00Ii8+PHBhdGggZD0iTTEyIDhoLjAxIi8+PC9zdmc+');
-}
-
-.tip.custom-block {
-  --icon: url('data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIGNsYXNzPSJsdWNpZGUgbHVjaWRlLWxpZ2h0YnVsYiI+PHBhdGggZD0iTTE1IDE0Yy4yLTEgLjctMS43IDEuNS0yLjUgMS0uOSAxLjUtMi4yIDEuNS0zLjVBNiA2IDAgMCAwIDYgOGMwIDEgLjIgMi4yIDEuNSAzLjUuNy43IDEuMyAxLjUgMS41IDIuNSIvPjxwYXRoIGQ9Ik05IDE4aDYiLz48cGF0aCBkPSJNMTAgMjJoNCIvPjwvc3ZnPg==');
-}
-
-.warning.custom-block {
-  --icon: url('data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIGNsYXNzPSJsdWNpZGUgbHVjaWRlLWFsZXJ0LXRyaWFuZ2xlIj48cGF0aCBkPSJtMjEuNzMgMTgtOC0xNGEyIDIgMCAwIDAtMy40OCAwbC04IDE0QTIgMiAwIDAgMCA0IDIxaDE2YTIgMiAwIDAgMCAxLjczLTNaIi8+PHBhdGggZD0iTTEyIDl2NCIvPjxwYXRoIGQ9Ik0xMiAxN2guMDEiLz48L3N2Zz4=');
-}
-
-.danger.custom-block {
-  --icon: url('data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIGNsYXNzPSJsdWNpZGUgbHVjaWRlLXNrdWxsIj48Y2lyY2xlIGN4PSI5IiBjeT0iMTIiIHI9IjEiLz48Y2lyY2xlIGN4PSIxNSIgY3k9IjEyIiByPSIxIi8+PHBhdGggZD0iTTggMjB2Mmg4di0yIi8+PHBhdGggZD0ibTEyLjUgMTctLjUtMS0uNSAxaDF6Ii8+PHBhdGggZD0iTTE2IDIwYTIgMiAwIDAgMCAxLjU2LTMuMjUgOCA4IDAgMSAwLTExLjEyIDBBMiAyIDAgMCAwIDggMjAiLz48L3N2Zz4=');
-}
-
-.custom-block-title {
-  display: inline-flex;
-  align-items: center;
-  gap: 8px;
-}
-
-.custom-block-title::before {
-  content: '';
-  width: 16px;
-  height: 16px;
-  -webkit-mask: var(--icon) no-repeat;
-  mask: var(--icon) no-repeat;
-  -webkit-mask-size: 100% 100%;
-  mask-size: 100% 100%;
-  background-color: currentColor;
-  color: inherit;
-}
+  -webkit-animation: nprogress-spinner 400ms linear infinite; /* An
