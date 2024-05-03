@@ -7,32 +7,23 @@ import { defineSatoriConfig } from 'x-satori/vue'
 const __dirname = dirname(fileURLToPath(import.meta.url))
 const __fonts = resolve(__dirname, '../fonts')
 
-const fonts: SatoriOptions['fonts'] = [
-  {
-    name: 'Inter',
-    data: await readFile(resolve(__fonts, 'Inter-Regular.otf')),
-    weight: 400,
-    style: 'normal'
-  },
-  {
-    name: 'Inter',
-    data: await readFile(resolve(__fonts, 'Inter-Medium.otf')),
-    weight: 500,
-    style: 'normal'
-  },
-  {
-    name: 'Inter',
-    data: await readFile(resolve(__fonts, 'Inter-SemiBold.otf')),
-    weight: 600,
-    style: 'normal'
-  },
-  {
-    name: 'Inter',
-    data: await readFile(resolve(__fonts, 'Inter-Bold.otf')),
-    weight: 700,
-    style: 'normal'
+const loadFont = async (fontName: string, weight: number, style: string) => {
+  try {
+    const fontFile = resolve(__fonts, `${fontName}-${weight}.otf`)
+    const fontData = await readFile(fontFile)
+    return { name: fontName, data: fontData, weight, style }
+  } catch (error) {
+    console.error(`Error loading font ${fontName} with weight ${weight}:`, error)
+    return null
   }
-]
+}
+
+const fonts: SatoriOptions['fonts'] = [
+  await loadFont('Inter', 400, 'normal'),
+  await loadFont('Inter', 500, 'normal'),
+  await loadFont('Inter', 600, 'normal'),
+  await loadFont('Inter', 700, 'normal'),
+].filter(font => font !== null)
 
 export default defineSatoriConfig({
   width: 1200,
@@ -40,8 +31,7 @@ export default defineSatoriConfig({
   fonts,
   props: {
     title: 'Title',
-    description:
-      'Lorem ipsum dolor sit amet, qui minim labore adipisicing minim sint cillum sint consectetur cupidatat.',
+    description: `Lorem ipsum dolor sit amet, qui minim labore adipisicing minim sint cillum sint consectetur cupidatat.`,
     dir: '/j'
   }
 })
