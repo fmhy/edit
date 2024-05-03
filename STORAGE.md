@@ -330,6 +330,7 @@
 * ⭐ **[Wolfram Alpha](https://www.wolframalpha.com/)** - Searchable Knowledgebase / [API Access](https://wolfreealpha.gitlab.io)
 * [EncycloReader](https://encycloreader.org/) - Encyclopedia Search
 * [Omniglot](https://www.omniglot.com/index.htm) - Writing Systems & Languages Encyclopedia
+* [Archivy](https://github.com/archivy/archivy/) - Self-hosted Wiki
 
 [Britannica](https://www.britannica.com/),[EverybodyWiki](https://en.everybodywiki.com/), [Encyclopedia](https://www.encyclopedia.com/), [NewWorldEncyclopedia](https://www.newworldencyclopedia.org/), [Citizendium](https://citizendium.org/), [Wikitia](https://wikitia.com/), [Conze.pt](https://conze.pt/), [InfoPlease](https://www.infoplease.com/), [Refdesk](https://www.refdesk.com/factency.html)
 
@@ -1151,55 +1152,56 @@
 
 ***
 
-## Web Scraping / Crawling
+## Archiving
 
-* 🌐 **[Awesome Web Scraping](https://github.com/lorien/awesome-web-scraping)** - Web Scraping Tools
-* 🌐 **[Awesome-crawler](https://github.com/BruceDone/awesome-crawler)** - Crawling Resources
-* [Heritrix](https://heritrix.readthedocs.io/) / [GitHub](https://github.com/internetarchive/heritrix3) - Internet Archive's Web Crawler
-* [80legs](https://80legs.com/) - Cloud-Based
-* [Crawly](https://crawly.diffbot.com/) - Online Scraper
-
-## Web Archiving Tools
-
-* 🌐 **[Awesome Web Archiving](https://github.com/iipc/awesome-web-archiving)** - Web Archiving Tools
-* 🌐 **[Webrecorder](https://webrecorder.net/)** - Open source Archiving Tools
-* ⭐ **[datahoarder-website-to-markdown](https://github.com/evilsh3ll/datahoarder-website-to-markdown)** - Index to Markdown Archiving Tool
-* [WAIL](https://matkelly.com/wail) / [GitHub](https://github.com/machawk1/wail) - GUI For Archiving Tools
-* [ReplayWeb.page](https://replayweb.page/) - View Web Archive Files
-  
-### Archiving Services
+### Archive Services
 
 * ⭐ **[Archive.org](https://archive.org/)** - Internet Archive
 * ⭐ **[Wayback Machine](https://web.archive.org/)** - Archive Web Pages
 * ⭐ **Wayback Machine Tools** - [Downloader](https://github.com/jsvine/waybackpack) / [Classic Frontend](https://wayback-classic.net/) / [Extension](https://github.com/internetarchive/wayback-machine-webextension), [2](https://vegetableman.github.io/vandal/) / [Addon](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_wayback_machine_extension) / [Script](https://github.com/overcast07/wayback-machine-spn-scripts) / [Toolkit](https://docs.wabarc.eu.org/) / [Multi-URL](https://liamswayne.github.io/Super-Archiver/) / [Auto Load](https://gitlab.com/gkrishnaks/WaybackEverywhere-Firefox)
 * ⭐ **[Archive.is](https://archive.is/)** / [.li](https://archive.li/) / [.ph](https://archive.ph/) / [.vn](https://archive.vn/) / [.fo](https://archive.fo/) / [.md](https://archive.md/) - Archive Web Pages
-* ⭐ **[Web Archives](https://github.com/dessant/web-archives)** or [Resurrect Pages Fork](https://github.com/Albirew/resurrect-pages-isup-edition) - Browser Extension
+* ⭐ **[Web Archives](https://github.com/dessant/web-archives)** or [Resurrect Pages Fork](https://github.com/Albirew/resurrect-pages-isup-edition) - Browser Extensions
 * ⭐ **[CachedView](https://cachedview.nl/)** or [Quick Cache](https://cybdetective.com/quickcacheandarhivesearch.html) - Aggregate Cache Results
 * [ArchiveTeam](https://wiki.archiveteam.org/index.php/Main_Page) - Archive Projects
 * [Perma.cc](https://perma.cc/) - Create Permalinks
 
+### Web Archiving Tools
+
+* 🌐 **[Awesome Web Archiving](https://github.com/iipc/awesome-web-archiving)** - Web Archiving Tools
+* 🌐 **[Webrecorder](https://webrecorder.net/)** - Open source Archiving Tools
+* ⭐ **[datahoarder-website-to-markdown](https://github.com/evilsh3ll/datahoarder-website-to-markdown)** - Index to Markdown Tool
+* [WAIL](https://matkelly.com/wail) / [GitHub](https://github.com/machawk1/wail) - GUI For Archiving Tools
+* [ReplayWeb.page](https://replayweb.page/) - View Web Archive Files
+* [ArchiveWeb.page](https://archiveweb.page/) - Browser Extension
+* [WikiTeam](https://github.com/WikiTeam/wikiteam) - Archive Wikis
+  
+* ⭐ **[ArchiveBox](https://archivebox.io)** - Self-hosted Web Archiving
+* ⭐ **[MarkDownload](https://github.com/deathau/markdownload)** - Download Web Pages as Markdown Files
+* [DownloadNet](https://github.com/dosyago/DownloadNet) or [Kiwix](https://kiwix.org/en/) / [Wiki DL Guide](https://practicalbetterments.com/download-all-of-wikipedia-on-your-phone/) - Offline Website Reader
+* [Wget2](https://gitlab.com/gnuwget/wget2) / [Commands](https://www.whatismybrowser.com/developers/tools/wget-wizard/) - Website Downloader
+* [Archivematica](https://www.archivematica.org/) - Digital Preservation System
+* [wallabag](https://wallabag.org/) - Save Articles
+
 ### Local Archiving
 
-* ⭐ **[ArchiveBox](https://archivebox.io)** - Self-hosted Web Archiving
 * ⭐ **[HTTrack](https://www.httrack.com/)** / [Guide](https://rentry.co/cloneasite)
-* ⭐ **[MarkDownload](https://github.com/deathau/markdownload)** - Get Markdown of a page
-* ⭐ **[Instant Data](https://chromewebstore.google.com/detail/instant-data-scraper/ofaokhiedipichpaobibbnahnkdoiiah)**
-* [Kiwix](https://kiwix.org/en/) / [Wiki DL Guide](https://practicalbetterments.com/download-all-of-wikipedia-on-your-phone/)
 * [cyotek-webcopy](https://www.cyotek.com/cyotek-webcopy)
 * [Website-downloader](https://github.com/AhmadIbrahiim/Website-downloader)
-* [archiveweb](https://archiveweb.page/)
-* [archivematica](https://www.archivematica.org/)
 * [suckit](https://github.com/skallwar/suckit)
-* [DownloadNet](https://github.com/dosyago/DownloadNet)
-* [wget2](https://gitlab.com/gnuwget/wget2) / [Commands](https://www.whatismybrowser.com/developers/tools/wget-wizard/)
-* [archivy](https://github.com/archivy/archivy/)
-* [web.scraper](https://web.scraper.workers.dev/)
-* [WikiTeam](https://github.com/WikiTeam/wikiteam)
-* [grab-site](https://github.com/ArchiveTeam/grab-site)
-* [wallabag](https://github.com/wallabag/docker)
 * [brozzler](https://github.com/internetarchive/brozzler)
 * [Scoop](https://github.com/harvard-lil/scoop)
 * [CopySite](https://xdan.ru/copysite/)
+
+### Web Scraping / Crawling
+
+* 🌐 **[Awesome Web Scraping](https://github.com/lorien/awesome-web-scraping)** - Web Scraping Tools
+* 🌐 **[Awesome-crawler](https://github.com/BruceDone/awesome-crawler)** - Crawling Resources
+* ⭐ **[Instant Data Scraper](https://chromewebstore.google.com/detail/instant-data-scraper/ofaokhiedipichpaobibbnahnkdoiiah)** - Browser Extension
+* [Heritrix](https://heritrix.readthedocs.io/) / [GitHub](https://github.com/internetarchive/heritrix3) - Internet Archive's Web Crawler
+* [80legs](https://80legs.com/) - Cloud-Based
+* [Crawly](https://crawly.diffbot.com/) - Online Scraper
+* [grab-site](https://github.com/ArchiveTeam/grab-site) - ArchiveTeam Web Crawler
+* [Web Scraper](https://web.scraper.workers.dev/)
 
 ***
 
