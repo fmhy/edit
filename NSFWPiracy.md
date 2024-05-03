@@ -129,6 +129,7 @@
 * [JavBangers](https://www.javbangers.com/)
 * [JavEnglish](https://javenglish.cc/)
 * [7MMTV](https://7mmtv.sx/)
+* [Jav-angel](https://jav-angel.net/)
 * [KoreanPornMovies](https://koreanpornmovie.com/) - Korean
 * [cosplay.jav](https://cosplay.jav.pw/) - Cosplay Porn
 
@@ -174,6 +175,7 @@
 * [xFobo](https://xfobo.com/index.php)
 * [xBunker](https://xbunker.nu/)
 * [AdultDVDTalk](https://www.adultdvdtalk.com/)
+* [Akiba](https://www.akiba-online.com/)
 * [jdc](https://discord.gg/jdc) - Asian Porn Discord
 * [SEGNECK](https://discord.gg/jP5BHAUbeu) - Asian Porn Discord
 * [bdsmlr](https://bdsmlr.com/) - NSFW Tumblr Alternative
@@ -190,6 +192,7 @@
 * ⭐ **[OneJAV](https://onejav.com/)** - JAV
 * ⭐ **[141Jav](https://www.141jav.com/)** / **[141PPV](https://www.141ppv.com/)** - JAV
 * ⭐ **[Next JAV](https://nextjav.com/)** - JAV
+* ⭐ **[Xchina](https://en.xchina.co/)** / [Note](https://pastebin.com/u4jcUYVq) / [Warning](https://pastebin.com/8DuageSv)
 * [Sexy-Pics](https://www.sexy-pics.us/)
 * [色花堂-98堂](https://www.sehuatang.net/)
 * [pussytorrents](https://pussytorrents.org/)
