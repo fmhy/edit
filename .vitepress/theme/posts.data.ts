@@ -9,23 +9,14 @@ interface Post {
   date: string
 }
 
-// Declare a type 'Dictionary' as the return type of the 'transformRawPosts' function.
-type Dictionary = ReturnType<typeof transformRawPosts>
-
-// Declare a constant 'data' of type 'Dictionary'.
-declare const data: Dictionary
-
-// Export the 'data' constant for use in other modules.
-export { data }
-
-// Define the 'transformRawPosts' function that takes an array of 'ContentData' objects and returns a dictionary of posts grouped by year.
-function transformRawPosts(rawPosts: ContentData[]): Record<string, Post[]> {
+// Export the 'transformRawPosts' function that takes an array of 'ContentData' objects and returns a dictionary of posts grouped by year.
+export function transformRawPosts(rawPosts: ContentData[]): Record<string, Post[]> {
   // Map each 'ContentData' object to a 'Post' object, extracting the title, URL, and formatted date.
   const posts: Post[] = rawPosts
     .map(({ url, frontmatter }) => ({
       title: frontmatter.title,
       url,
-      date: (frontmatter.date as Date).toISOString().slice(0, 10)
+      date: new Date(frontmatter.date).toISOString().slice(0, 10)
     }))
 
   // Sort the posts in descending order by date.
@@ -43,3 +34,12 @@ export default createContentLoader('posts/*.md', {
   // Transform the loaded raw markdown data using the 'transformRawPosts' function.
   transform: (raw) => transformRawPosts(raw)
 })
+
+// Declare a type 'Dictionary' as the return type of the 'transformRawPosts' function.
+type Dictionary = ReturnType<typeof transformRawPosts>
+
+// Declare a constant 'data' of type 'Dictionary'.
+declare const data: Dictionary
+
+// Export the 'data' constant for use in other modules.
+export { data }
