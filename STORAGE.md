@@ -1151,27 +1151,32 @@
 
 ***
 
-## Web Archiving
+## Web Scraping / Crawling
 
-* 🌐 **[awesome-web-scraping](https://github.com/lorien/awesome-web-scraping)** / [2](https://github.com/iipc/awesome-web-archiving) / [3](https://github.com/BruceDone/awesome-crawler)
+* 🌐 **[Awesome Web Scraping](https://github.com/lorien/awesome-web-scraping)** - Web Scraping Tools
+* 🌐 **[Awesome-crawler](https://github.com/BruceDone/awesome-crawler)** - Crawling Resources
+* [Heritrix](https://heritrix.readthedocs.io/) / [GitHub](https://github.com/internetarchive/heritrix3) - Internet Archive's Web Crawler
+* [80legs](https://80legs.com/) - Cloud-Based
+* [Crawly](https://crawly.diffbot.com/) - Online Scraper
+
+## Web Archiving Tools
+
+* 🌐 **[Awesome Web Archiving](https://github.com/iipc/awesome-web-archiving)** - Web Archiving Tools
+* 🌐 **[Webrecorder](https://webrecorder.net/)** - Open source Archiving Tools
 * ⭐ **[datahoarder-website-to-markdown](https://github.com/evilsh3ll/datahoarder-website-to-markdown)** - Index to Markdown Archiving Tool
-* [webrecorder](https://webrecorder.net/)
-* [Heritrix](https://heritrix.readthedocs.io/) / [GitHub](https://github.com/internetarchive/heritrix3)
-* [wail](https://matkelly.com/wail) / [GitHub](https://github.com/machawk1/wail)
-* [80legs](https://80legs.com/)
-* [crawly](https://crawly.diffbot.com/)
-* [replayweb](https://replayweb.page/) - View Archive Format Files
+* [WAIL](https://matkelly.com/wail) / [GitHub](https://github.com/machawk1/wail) - GUI For Archiving Tools
+* [ReplayWeb.page](https://replayweb.page/) - View Web Archive Files
   
 ### Archiving Services
 
-* ⭐ **[Wayback Machine](https://web.archive.org/)**
-* ⭐ **Wayback Machine Tools** - [ArchiveTeam Contribute](https://tracker.archiveteam.org/) / [Downloader](https://github.com/hartator/wayback-machine-downloader), [2](https://github.com/jsvine/waybackpack) / [Classic Frontend](https://wayback-classic.net/) / [Extension](https://github.com/internetarchive/wayback-machine-webextension), [2](https://vegetableman.github.io/vandal/) / [Addon](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_wayback_machine_extension) / [Script](https://github.com/overcast07/wayback-machine-spn-scripts) / [Toolkit](https://docs.wabarc.eu.org/) / [Multi-URL](https://liamswayne.github.io/Super-Archiver/) / [Auto Load](https://gitlab.com/gkrishnaks/WaybackEverywhere-Firefox)
-* ⭐ **[Archive.is](https://archive.is/)** / [.li](https://archive.li/) / [.ph](https://archive.ph/) / [.vn](https://archive.vn/) / [.fo](https://archive.fo/) / [.md](https://archive.md/)
+* ⭐ **[Archive.org](https://archive.org/)** - Internet Archive
+* ⭐ **[Wayback Machine](https://web.archive.org/)** - Archive Web Pages
+* ⭐ **Wayback Machine Tools** - [Downloader](https://github.com/jsvine/waybackpack) / [Classic Frontend](https://wayback-classic.net/) / [Extension](https://github.com/internetarchive/wayback-machine-webextension), [2](https://vegetableman.github.io/vandal/) / [Addon](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_wayback_machine_extension) / [Script](https://github.com/overcast07/wayback-machine-spn-scripts) / [Toolkit](https://docs.wabarc.eu.org/) / [Multi-URL](https://liamswayne.github.io/Super-Archiver/) / [Auto Load](https://gitlab.com/gkrishnaks/WaybackEverywhere-Firefox)
+* ⭐ **[Archive.is](https://archive.is/)** / [.li](https://archive.li/) / [.ph](https://archive.ph/) / [.vn](https://archive.vn/) / [.fo](https://archive.fo/) / [.md](https://archive.md/) - Archive Web Pages
 * ⭐ **[cachedview](https://cachedview.nl/)**, **[Web Archives](https://github.com/dessant/web-archives)**, [quickcache](https://cipher387.github.io/quickcacheandarchivesearch/), [resurrect-pages](https://github.com/Albirew/resurrect-pages-isup-edition) - Aggregate Cache Results
-* [Perma.cc](https://perma.cc/)
-* [archiveforever](https://www.archiveforever.xyz/)
-* [ghostarchive](https://ghostarchive.org/)
-* [hozon](https://hozon.site/)
+* [ArchiveTeam](https://wiki.archiveteam.org/index.php/Main_Page) - Archive Projects
+* [Perma.cc](https://perma.cc/) - Create Permalinks
+
 * [Arquivo.pt](https://arquivo.pt/?l=en)
 
 ### Local Archiving

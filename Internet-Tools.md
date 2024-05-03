@@ -303,7 +303,6 @@
 * [AnyImage](https://anyimage.io/) - Create Social Card Links
 * [urlportal](https://raw.githubusercontent.com/gotbletu/shownotes/master/urlportal.sh) - Custom URL Handler
 * [Web Check](https://web-check.xyz/), [NSLookup](https://www.nslookup.io/) or [dog](https://github.com/ogham/dog) - DNS Information Tool
-* [Awesome Piracy Bot](https://github.com/Igglybuff/awesome-piracy-bot) - URL Scraping Tools
 * [Site Worth Traffic](https://www.siteworthtraffic.com/) - Calculate Website Worth
 * [XML-Sitemaps](https://www.xml-sitemaps.com/) - Sitemap Creator
 * [CarbonDates](https://carbondate.cs.odu.edu/) - Check Site Creation Date 
