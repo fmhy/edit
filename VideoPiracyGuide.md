@@ -124,7 +124,6 @@
 * [FreeTubeSpot](https://www.freetubespot.com/) - Movies / 480p
 * [MP4Mania](https://mp4mania1.net/) - Movies / 360p / [How to Use](https://files.catbox.moe/53xfma.mp4)
 * [JustWatch](https://www.justwatch.com/) - Search Legal Streaming Hosts
-* [Manually Scrape Sites](https://rentry.co/uxw6u)
 
 ***
 
