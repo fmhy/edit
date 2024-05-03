@@ -193,6 +193,7 @@
 * [KokoTV](https://kokotv.me/) - Drama / Sub / Dub / 1080p
 * [Duboku](https://www.duboku.tv/) - TV / Cartoons / Sub / 1080p
 * [HKanime](https://www.hkanime.com/) - Anime / Sub / Dub / 1080p / [Discord](https://discord.com/invite/hkanimeshe-qu-566251281266638848) / [Telegram](https://t.me/+mQ5fWi_trVY2MmQ9) / VPN Required
+* [暮薇影视](https://muweimv.com/) - Chinese / Movies / NSFW / TV / Anime / Sub / 1080p
 * [CC動漫](https://ccdm.cc/) - Anime / Sub / 1080p
 * [AGE Animation](https://www.agedm.org/) - Anime / Sub / 1080p
 * [xgcartoon](https://www.xgcartoon.com/) - Anime / Sub / Dub / 1080p
