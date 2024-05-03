@@ -1158,7 +1158,7 @@
 
 * ⭐ **[Archive.org](https://archive.org/)** - Internet Archive
 * ⭐ **[Wayback Machine](https://web.archive.org/)** - Archive Web Pages
-* ⭐ **Wayback Machine Tools** - [Downloader](https://github.com/jsvine/waybackpack) / [Classic Frontend](https://wayback-classic.net/) / [Extension](https://github.com/internetarchive/wayback-machine-webextension), [2](https://vegetableman.github.io/vandal/) / [Addon](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_wayback_machine_extension) / [Script](https://github.com/overcast07/wayback-machine-spn-scripts) / [Toolkit](https://docs.wabarc.eu.org/) / [Multi-URL](https://liamswayne.github.io/Super-Archiver/) / [Auto Load](https://gitlab.com/gkrishnaks/WaybackEverywhere-Firefox)
+* ⭐ **Wayback Machine Tools** - [Downloader](https://github.com/jsvine/waybackpack) / [Browser Extension](https://github.com/internetarchive/wayback-machine-webextension), [2](https://vegetableman.github.io/vandal/) / [Script](https://github.com/overcast07/wayback-machine-spn-scripts) / [Multi-URL](https://liamswayne.github.io/Super-Archiver/) / [Auto Load](https://gitlab.com/gkrishnaks/WaybackEverywhere-Firefox)
 * ⭐ **[Archive.is](https://archive.is/)** / [.li](https://archive.li/) / [.ph](https://archive.ph/) / [.vn](https://archive.vn/) / [.fo](https://archive.fo/) / [.md](https://archive.md/) - Archive Web Pages
 * ⭐ **[Web Archives](https://github.com/dessant/web-archives)** or [Resurrect Pages Fork](https://github.com/Albirew/resurrect-pages-isup-edition) - Browser Extensions
 * ⭐ **[CachedView](https://cachedview.nl/)** or [Quick Cache](https://cybdetective.com/quickcacheandarhivesearch.html) - Aggregate Cache Results
@@ -1177,6 +1177,7 @@
 * [ReplayWeb.page](https://replayweb.page/) - View Web Archive Files
 * [ArchiveWeb.page](https://archiveweb.page/) - Browser Extension
 * [WikiTeam](https://github.com/WikiTeam/wikiteam) - Archive Wikis
+* [Wayback](https://github.com/wabarc/wayback) - Web Archiving Tool
 * [DownloadNet](https://github.com/dosyago/DownloadNet) or [Kiwix](https://kiwix.org/en/) / [Wiki DL Guide](https://practicalbetterments.com/download-all-of-wikipedia-on-your-phone/) - Offline Website Reader
 * [Wget2](https://gitlab.com/gnuwget/wget2) / [Commands](https://www.whatismybrowser.com/developers/tools/wget-wizard/), [SuckIT](https://github.com/skallwar/suckit), [Cyotek WebCopy](https://www.cyotek.com/cyotek-webcopy) or [Website Downloader](https://github.com/AhmadIbrahiim/Website-downloader) - Website Downloader
 * [Archivematica](https://www.archivematica.org/) - Digital Preservation System
