@@ -1173,15 +1173,14 @@
 * ⭐ **[Wayback Machine](https://web.archive.org/)** - Archive Web Pages
 * ⭐ **Wayback Machine Tools** - [Downloader](https://github.com/jsvine/waybackpack) / [Classic Frontend](https://wayback-classic.net/) / [Extension](https://github.com/internetarchive/wayback-machine-webextension), [2](https://vegetableman.github.io/vandal/) / [Addon](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_wayback_machine_extension) / [Script](https://github.com/overcast07/wayback-machine-spn-scripts) / [Toolkit](https://docs.wabarc.eu.org/) / [Multi-URL](https://liamswayne.github.io/Super-Archiver/) / [Auto Load](https://gitlab.com/gkrishnaks/WaybackEverywhere-Firefox)
 * ⭐ **[Archive.is](https://archive.is/)** / [.li](https://archive.li/) / [.ph](https://archive.ph/) / [.vn](https://archive.vn/) / [.fo](https://archive.fo/) / [.md](https://archive.md/) - Archive Web Pages
-* ⭐ **[cachedview](https://cachedview.nl/)**, **[Web Archives](https://github.com/dessant/web-archives)**, [quickcache](https://cipher387.github.io/quickcacheandarchivesearch/), [resurrect-pages](https://github.com/Albirew/resurrect-pages-isup-edition) - Aggregate Cache Results
+* ⭐ **[Web Archives](https://github.com/dessant/web-archives)** or [Resurrect Pages Fork](https://github.com/Albirew/resurrect-pages-isup-edition) - Browser Extension
+* ⭐ **[CachedView](https://cachedview.nl/)** or [Quick Cache](https://cybdetective.com/quickcacheandarhivesearch.html) - Aggregate Cache Results
 * [ArchiveTeam](https://wiki.archiveteam.org/index.php/Main_Page) - Archive Projects
 * [Perma.cc](https://perma.cc/) - Create Permalinks
 
-* [Arquivo.pt](https://arquivo.pt/?l=en)
-
 ### Local Archiving
 
-* ⭐ **[ArchiveBox](https://archivebox.io)**
+* ⭐ **[ArchiveBox](https://archivebox.io)** - Self-hosted Web Archiving
 * ⭐ **[HTTrack](https://www.httrack.com/)** / [Guide](https://rentry.co/cloneasite)
 * ⭐ **[MarkDownload](https://github.com/deathau/markdownload)** - Get Markdown of a page
 * ⭐ **[Instant Data](https://chromewebstore.google.com/detail/instant-data-scraper/ofaokhiedipichpaobibbnahnkdoiiah)**
