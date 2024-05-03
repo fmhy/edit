@@ -1,4 +1,15 @@
+# This variable, `blank_issues_enabled`, is a boolean flag that determines
+# whether or not blank issues can be created in the system. Currently,
+# blank issues are not allowed, as indicated by the value of `false`.
 blank_issues_enabled: false
+
+# The `contact_links` dictionary contains a list of contact options for
+# users who need assistance or have questions. In this case, there is only
+# one contact option listed, which is for Discord.
+# The `name` key stores the name of the contact option, and the `url` key
+# stores the URL for that contact option.
+# The `about` key provides a brief description of what users can expect
+# when they use that contact option.
 contact_links:
   - name: Discord
     url: https://discord.gg/Stz6y6NgNg
