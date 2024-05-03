@@ -1169,28 +1169,20 @@
 
 * 🌐 **[Awesome Web Archiving](https://github.com/iipc/awesome-web-archiving)** - Web Archiving Tools
 * 🌐 **[Webrecorder](https://webrecorder.net/)** - Open source Archiving Tools
+* ⭐ **[ArchiveBox](https://archivebox.io)** - Self-hosted Web Archiving
+* ⭐ **[MarkDownload](https://github.com/deathau/markdownload)** - Download Web Pages as Markdown Files
+* ⭐ **[HTTrack](https://www.httrack.com/)** / [Guide](https://rentry.co/cloneasite)
 * ⭐ **[datahoarder-website-to-markdown](https://github.com/evilsh3ll/datahoarder-website-to-markdown)** - Index to Markdown Tool
 * [WAIL](https://matkelly.com/wail) / [GitHub](https://github.com/machawk1/wail) - GUI For Archiving Tools
 * [ReplayWeb.page](https://replayweb.page/) - View Web Archive Files
 * [ArchiveWeb.page](https://archiveweb.page/) - Browser Extension
 * [WikiTeam](https://github.com/WikiTeam/wikiteam) - Archive Wikis
-  
-* ⭐ **[ArchiveBox](https://archivebox.io)** - Self-hosted Web Archiving
-* ⭐ **[MarkDownload](https://github.com/deathau/markdownload)** - Download Web Pages as Markdown Files
 * [DownloadNet](https://github.com/dosyago/DownloadNet) or [Kiwix](https://kiwix.org/en/) / [Wiki DL Guide](https://practicalbetterments.com/download-all-of-wikipedia-on-your-phone/) - Offline Website Reader
-* [Wget2](https://gitlab.com/gnuwget/wget2) / [Commands](https://www.whatismybrowser.com/developers/tools/wget-wizard/) - Website Downloader
+* [Wget2](https://gitlab.com/gnuwget/wget2) / [Commands](https://www.whatismybrowser.com/developers/tools/wget-wizard/), [SuckIT](https://github.com/skallwar/suckit), [Cyotek WebCopy](https://www.cyotek.com/cyotek-webcopy) or [Website Downloader](https://github.com/AhmadIbrahiim/Website-downloader) - Website Downloader
 * [Archivematica](https://www.archivematica.org/) - Digital Preservation System
 * [wallabag](https://wallabag.org/) - Save Articles
-
-### Local Archiving
-
-* ⭐ **[HTTrack](https://www.httrack.com/)** / [Guide](https://rentry.co/cloneasite)
-* [cyotek-webcopy](https://www.cyotek.com/cyotek-webcopy)
-* [Website-downloader](https://github.com/AhmadIbrahiim/Website-downloader)
-* [suckit](https://github.com/skallwar/suckit)
-* [brozzler](https://github.com/internetarchive/brozzler)
-* [Scoop](https://github.com/harvard-lil/scoop)
-* [CopySite](https://xdan.ru/copysite/)
+* [CopySite](https://xdan.ru/copysite/) - Copy Websites
+* [Scoop](https://github.com/harvard-lil/scoop) - Capture Engine
 
 ### Web Scraping / Crawling
 
@@ -1200,8 +1192,9 @@
 * [Heritrix](https://heritrix.readthedocs.io/) / [GitHub](https://github.com/internetarchive/heritrix3) - Internet Archive's Web Crawler
 * [80legs](https://80legs.com/) - Cloud-Based
 * [Crawly](https://crawly.diffbot.com/) - Online Scraper
+* [web.scraper.workers.dev](https://web.scraper.workers.dev/) - Web Scraper
 * [grab-site](https://github.com/ArchiveTeam/grab-site) - ArchiveTeam Web Crawler
-* [Web Scraper](https://web.scraper.workers.dev/)
+* [brozzler](https://github.com/internetarchive/brozzler) - Web Crawler
 
 ***
 
