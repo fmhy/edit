@@ -1,10 +1,30 @@
+# This line ignores the entire .vitepress/dist directory and its contents
 **/.vitepress/dist
+
+# This line ignores the entire .vitepress/cache directory and its contents
 **/.vitepress/cache
+
+# This line ignores the node_modules directory and its contents
 node_modules
+
+# These lines ignore any files ending with .log
 *.log*
+
+# This line ignores the .nitro directory and its contents
 .nitro
+
+# This line ignores the .cache directory and its contents
 .cache
+
+# This line ignores the .output directory and its contents
 .output
+
+# This line ignores the .env file
 .env
+
+# This line ignores the dist directory and its contents
 dist
+
+# This line ignores the .eslintcache file
 .eslintcache
+
