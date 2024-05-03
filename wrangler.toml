@@ -1,5 +1,26 @@
-name = "feedback"
-main = ".output/server/index.mjs"
+// @version 1.1.0
+
+name = "my-feedback-service"
+main = ".output/main.mjs"
 workers_dev = true
-account_id = "fe5d9bd14160b07939282e45f63eb5ad"
+account_id = "your_account_id"
 compatibility_date = "2022-09-10"
+
+// Set up logging
+const { log, error, debug } = console;
+
+// Import modules
+import { handleRequest } from './helpers/request-handler.js';
+import { feedbackRouter } from './routes/feedback.js';
+
+// Define request handling function
+export async function onRequest(request) {
+  debug(`Received request: ${request.method} ${request.url}`);
+
+  // Pass the request to the appropriate router based on the URL
+  const router = feedbackRouter(request);
+  const response = await handleRequest(request, router);
+
+  debug(`Sending response: ${response.status} ${response.statusText}`);
+  return response;
+}
