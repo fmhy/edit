@@ -134,7 +134,7 @@
 
 * ↪️ **[Browser Startpages](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_browser_startpages)**
 * ⭐ **[Linktree](https://linktr.ee/)** - Link in Bio
-* ⭐ **[Linkstack](https://linkstack.org)** or [LittleLink](https://littlelink.io/) - Self Hosted
+* ⭐ **[Linkstack](https://linkstack.org)** or [LittleLink](https://littlelink.io/) - Self-hosted
 * [Beacons](https://beacons.ai/)
 * [Carrd](https://carrd.co/)
 * [Bio Link](https://bio.link/)
