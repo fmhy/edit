@@ -131,7 +131,8 @@
 * [Autokey](https://autokey.github.io/index.html) / [GitHub](https://github.com/autokey/autokey) - Linux Automation Utility
 * [Touchégg](https://github.com/JoseExposito/touchegg) - Multi-Touch Gesture Recognizer
 * [Material Shell](https://material-shell.com/) or [Forge](https://github.com/forge-ext/forge) - GNOME Tiling Extension
-* [Bismuth](https://bismuth-forge.github.io/bismuth/) - KDE Tiling Extension / [GitHub](https://github.com/Bismuth-Forge/bismuth)
+* [Polonium](https://zeroxoneafour.github.io/polonium/) - KDE6 Tiling Manager Extension / [GitHub](https://github.com/zeroxoneafour/polonium)
+* [Bismuth](https://bismuth-forge.github.io/bismuth/) - KDE5 Tiling Extension / [GitHub](https://github.com/Bismuth-Forge/bismuth)
 * [Ghostwriter](https://ghostwriter.kde.org/) or [Remarkable](https://remarkableapp.github.io/) - Markdown Editor
 * [Gedit](https://wiki.gnome.org/Apps/Gedit), [Geany](https://www.geany.org/), [Leafpad](http://tarot.freeshell.org/leafpad/), [NotepadNext](https://github.com/dail8859/NotepadNext), [Notepadqq](https://github.com/notepadqq/notepadqq), [Featherpad](https://github.com/tsujan/FeatherPad), [nb](https://xwmx.github.io/nb) / [GitHub](https://github.com/xwmx/nb) or [Mousepad](http://git.xfce.org/apps/mousepad/) / [GitHub](https://github.com/codebrainz/mousepad) - Text Editor / Note Apps
 * [TextPieces](https://github.com/liferooter/textpieces) - Quick Text Transformations
