@@ -1,6 +1,9 @@
-import { corsEventHandler } from 'nitro-cors'
+import cors from 'nitro-cors'
 
-export default corsEventHandler((_event) => {}, {
+const corsHandler = cors({
   origin: '*',
   methods: '*'
 })
+
+export default corsHandler
+
