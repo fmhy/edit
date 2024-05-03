@@ -1,6 +1,12 @@
-proseWrap: always
-semi: false
-singleQuote: true
-printWidth: 80
-trailingComma: none
-htmlWhitespaceSensitivity: ignore
+// This is a JavaScript code format configuration using the prettier plugin.
+// It specifies various formatting options such as wrapping prose (proseWrap),
+// use of semicolons (semi), single or double quotes (singleQuote),
+// print width (printWidth), trailing commas (trailingComma),
+// and handling of HTML whitespace sensitivity (htmlWhitespaceSensitivity).
+
+proseWrap: 'always' // Always wrap prose to the next line if it exceeds the print width.
+semi: false // Do not use semicolons to end statements.
+singleQuote: true // Use single quotes to enclose strings.
+printWidth: 80 // Limit line length to 80 characters.
+trailingComma: 'none' // Do not use trailing commas in arrays or objects.
+htmlWhitespaceSensitivity: 'ignore' // Ignore changes in whitespace sensitivity in HTML.
