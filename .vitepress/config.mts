@@ -1,6 +1,5 @@
-import { defineConfig } from 'vitepress'
+import { defineNuxtConfig } from 'nuxt'
 import UnoCSS from 'unocss/vite'
-import consola from 'consola'
 import {
   commitRef,
   feedback,
@@ -13,42 +12,17 @@ import { generateImages, generateMeta, generateFeed } from './hooks'
 import { toggleStarredPlugin } from './markdown/toggleStarred'
 import { movePlugin, emojiRender, defs } from './markdown/emoji'
 
-// @unocss-include
-
 const baseUrl = process.env.GITHUB_ACTIONS ? '/FMHYedit' : '/'
-export default defineConfig({
-  title: 'FMHY',
-  description: meta.description,
-  titleTemplate: ':title • freemediaheckyeah',
-  lang: 'en-US',
-  lastUpdated: false,
-  cleanUrls: true,
-  appearance: 'dark',
-  base: baseUrl,
-  srcExclude: ['readme.md', 'single-page'],
-  ignoreDeadLinks: true,
-  sitemap: {
-    hostname: meta.hostname
+
+export default defineNuxtConfig({
+  // ...other options
+
+  app: {
+    head: {
+      // ...other head tags
+    }
   },
-  head: [
-    ['meta', { name: 'theme-color', content: '#7bc5e4' }],
-    ['meta', { name: 'og:type', content: 'website' }],
-    ['meta', { name: 'og:locale', content: 'en' }],
-    ['link', { rel: 'icon', href: '/test.png' }],
-    // PWA
-    ['link', { rel: 'icon', href: '/test.png', type: 'image/svg+xml' }],
-    ['link', { rel: 'alternate icon', href: '/test.png' }],
-    ['link', { rel: 'mask-icon', href: '/test.png', color: '#7bc5e4' }],
-    // prettier-ignore
-    ["meta", { name: "keywords", content: meta.keywords.join(" ") }],
-    ['link', { rel: 'apple-touch-icon', href: '/test.png', sizes: '192x192' }]
-  ],
-  transformHead: async (context) => generateMeta(context, meta.hostname),
-  buildEnd: async (context) => {
-    generateImages(context)
-      .then(() => generateFeed(context))
-      .finally(() => consola.success('Success!'))
-  },
+
   vite: {
     optimizeDeps: { exclude: ['workbox-window'] },
     plugins: [
@@ -72,6 +46,44 @@ export default defineConfig({
       chunkSizeWarningLimit: Number.POSITIVE_INFINITY
     }
   },
+
+  modules: [
+    '@vueuse/nuxt',
+    '@unocss/nuxt'
+  ],
+
+  unocss: {
+    configFile: '../unocss.config.ts'
+  },
+
+  buildModules: [
+    '@nuxt/typescript-build'
+  ],
+
+  typescript: {
+    shim: false
+  },
+
+  router: {
+    base: baseUrl
+  },
+
+  nitro: {
+    compressPublicAssets: true
+  },
+
+  hooks: {
+    'pages:extend': (pages) => {
+      // ...other hooks
+    }
+  },
+
+  buildEnd: async (context) => {
+    generateImages(context)
+      .then(() => generateFeed(context))
+      .finally(() => console.log('Success!'))
+  },
+
   markdown: {
     emoji: { defs },
     config(md) {
@@ -79,31 +91,75 @@ export default defineConfig({
       md.use(toggleStarredPlugin)
     }
   },
-  themeConfig: {
-    search,
-    footer: {
-      message: `${feedback} (rev: ${commitRef})`
-    },
-    outline: 'deep',
-    logo: '/fmhy.ico',
-    nav: [
-      { text: 'Beginners Guide', link: '/beginners-guide' },
-      { text: 'Glossary', link: 'https://rentry.org/The-Piracy-Glossary' },
-      { text: 'Guides', link: 'https://rentry.co/fmhy-guides' },
-      {
-        text: 'Backups',
-        link: 'https://github.com/fmhy/FMHY/wiki/Backups'
-      },
-      {
-        text: 'Ecosystem',
-        items: [
-          { text: 'Posts', link: '/posts' },
-          { text: 'Feedback', link: '/feedback' },
-          { text: 'snowbin', link: 'https://pastes.fmhy.net' }
-        ]
-      }
-    ],
-    sidebar,
-    socialLinks
+
+  theme: {
+    // ...other theme options
   }
 })
+
+
+
+import { defineConfig } from 'unocss'
+
+export default defineConfig({
+  // ...unocss config options
+})
+
+
+
+{
+  "extends": "@nuxt/typescript-build",
+  "compilerOptions": {
+    "moduleResolution": "node",
+    "types": [
+      "node",
+      "unocss"
+    ]
+  }
+}
+
+
+
+export const commitRef = '...'
+export const feedback = '...'
+export const meta = {
+  // ...meta object
+}
+export const search = '...'
+export const sidebar = '...'
+export const socialLinks = '...'
+
+
+
+export const generateImages = async (context) => {
+  // ...generateImages function
+}
+
+export const generateMeta = async (context, hostname) => {
+  // ...generateMeta function
+}
+
+export const generateFeed = async (context) => {
+  // ...generateFeed function
+}
+
+
+
+import { defineEmojiPlugin } from 'vitepress'
+
+const defs = {
+  // ...emoji definitions
+}
+
+export const emojiRender = defineEmojiPlugin({
+  // ...emojiRender config
+})
+
+export const movePlugin = (plugins, target, position, plugin) => {
+  // ...movePlugin function
+}
+
+
+
+// ...toggleStarredPlugin code
+
