@@ -141,8 +141,8 @@
 * [ArchiveWeb.page](https://archiveweb.page/) - Browser Extension
 * [WikiTeam](https://github.com/WikiTeam/wikiteam) - Archive Wikis
 * [Wayback](https://github.com/wabarc/wayback) - Web Archiving Tool
-* [DownloadNet](https://github.com/dosyago/DownloadNet) or [Kiwix](https://kiwix.org/en/) / [Wiki DL Guide](https://practicalbetterments.com/download-all-of-wikipedia-on-your-phone/) - Offline Website Reader
-* [Wget2](https://gitlab.com/gnuwget/wget2) / [Commands](https://www.whatismybrowser.com/developers/tools/wget-wizard/), [SuckIT](https://github.com/skallwar/suckit), [Cyotek WebCopy](https://www.cyotek.com/cyotek-webcopy) or [Website Downloader](https://github.com/AhmadIbrahiim/Website-downloader) - Website Downloader
+* [DownloadNet](https://github.com/dosyago/DownloadNet) or [Kiwix](https://kiwix.org/en/) / [Wiki DL Guide](https://practicalbetterments.com/download-all-of-wikipedia-on-your-phone/) - Offline Website Readers
+* [Wget2](https://gitlab.com/gnuwget/wget2) / [Commands](https://www.whatismybrowser.com/developers/tools/wget-wizard/), [SuckIT](https://github.com/skallwar/suckit), [Cyotek WebCopy](https://www.cyotek.com/cyotek-webcopy) or [Website Downloader](https://github.com/AhmadIbrahiim/Website-downloader) - Website Downloaders
 * [Archivematica](https://www.archivematica.org/) - Digital Preservation System
 * [wallabag](https://wallabag.org/) - Save Articles
 * [CopySite](https://xdan.ru/copysite/) - Copy Websites
