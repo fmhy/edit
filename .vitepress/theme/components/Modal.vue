@@ -3,21 +3,50 @@ import { ref } from 'vue'
 import Feedback from './Feedback.vue'
 
 const showModal = ref(false)
+
+const handleButtonClick = () => {
+  showModal.value = true
+}
+
+const handleButtonKeydown = (event: KeyboardEvent) => {
+  if (event.key === 'Enter') {
+    handleButtonClick()
+  }
+}
+
+const handleModalMaskClick = () => {
+  showModal.value = false
+}
+
+const handleModalKeydown = (event: KeyboardEvent) => {
+  if (event.key === 'Escape') {
+    showModal.value = false
+  }
+}
 </script>
 
 <template>
   <button
     class="p-[4px 8px] text-xl i-carbon:user-favorite-alt-filled"
-    @click="showModal = true"
+    type="button"
+    aria-haspopup="dialog"
+    aria-expanded="false"
+    @click="handleButtonClick"
+    @keydown="handleButtonKeydown"
   />
 
   <Teleport to="body">
     <Transition name="modal">
-      <div v-show="showModal" class="modal-mask">
+      <div
+        v-show="showModal"
+        class="modal-mask"
+        @mousedown="handleModalMaskClick"
+        @keydown="handleModalKeydown"
+      >
         <div class="modal-container">
           <Feedback />
           <div class="model-footer">
-            <button class="modal-button" @click="showModal = false">
+            <button class="modal-button" @click="showModal = false" aria-label="Close">
               Close
             </button>
           </div>
@@ -39,7 +68,7 @@ const showModal = ref(false)
   display: flex;
   align-items: center;
   justify-content: center;
-  transition: opacity 0.3s ease;
+  transition: opacity 0.3s ease, transform 0.3s ease;
 }
 
 .modal-container {
@@ -49,7 +78,25 @@ const showModal = ref(false)
   background-color: var(--vp-c-bg);
   border-radius: 2px;
   box-shadow: 0 2px 8px rgba(0, 0, 0, 0.33);
-  transition: all 0.3s ease;
+  opacity: 0;
+  transform: scale(1.1);
+  transition: opacity 0.3s ease, transform 0.3s ease 0.1s;
+}
+
+.modal-enter-active,
+.modal-leave-active {
+  transition: opacity 0.3s ease, transform 0.3s ease;
+}
+
+.modal-enter-from,
+.modal-leave-to {
+  opacity: 0;
+  transform: scale(1.1);
+}
+
+.modal-container.modal-enter-active,
+.modal-container.modal-leave-active {
+  transition: opacity 0.3s ease, transform 0.3s ease 0.1s;
 }
 
 .model-footer {
@@ -69,15 +116,5 @@ const showModal = ref(false)
   border-color: var(--vp-button-alt-hover-border);
   color: var(--vp-button-alt-hover-text);
   background-color: var(--vp-button-alt-hover-bg);
-}
-
-.modal-enter-from,
-.modal-leave-to {
-  opacity: 0;
-}
-
-.modal-enter-from .modal-container,
-.modal-leave-to .modal-container {
-  transform: scale(1.1);
 }
 </style>
