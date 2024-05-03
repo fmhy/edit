@@ -1168,7 +1168,7 @@
 ### Web Archiving Tools
 
 * 🌐 **[Awesome Web Archiving](https://github.com/iipc/awesome-web-archiving)** - Web Archiving Tools
-* 🌐 **[Webrecorder](https://webrecorder.net/)** - Open source Archiving Tools
+* 🌐 **[Webrecorder](https://webrecorder.net/)** - Open-source Archiving Tools
 * ⭐ **[ArchiveBox](https://archivebox.io)** - Self-hosted Web Archiving
 * ⭐ **[MarkDownload](https://github.com/deathau/markdownload)** - Download Web Pages as Markdown Files
 * ⭐ **[HTTrack](https://www.httrack.com/)** / [Guide](https://rentry.co/cloneasite) - Website Downloader
