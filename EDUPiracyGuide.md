@@ -177,6 +177,7 @@
 * [911 Realtime](https://911realtime.org/) - 9/11 in Realtime
 * [The Food Timeline](https://www.foodtimeline.org/) - Food History Timeline
 * [Historical Recipes](https://l-lists.com/en/lists/55cbww.html) - Historical Recipes Site Index
+* [ChinesePosters](https://chineseposters.net/) - Chinese Propaganda Poster History
 * [Arachne](https://arachne.dainst.org/) - Ancient Sculpture Image Archive
 * [CARI](https://cari.institute/) - Design Aesthetics History
 * [Historical Fashion](https://docs.google.com/document/d/1R8eulTsb9Zlc7h2H917dNJZS9s0rIq9OAu7LpSS9F2k/) - Historical Fashion History
@@ -341,6 +342,7 @@
 * [Flag Guesser](https://flagguesser.com/) - Flag Quizzes
 * [Flags of the World](https://i.redd.it/lxtu47hf5ll51.jpg) or [Flaglookup](https://flaglookup.com/) - Flag Databases
 * [Flag Stories](https://flagstories.co/) - Flag Design Breakdowns
+* [PrideFlags](https://www.prideflags.org/) - LGBT Flag Index
 * [Hate on Display](https://www.adl.org/hate-symbols) - Hate Symbol Database
 
 ***
