@@ -389,6 +389,7 @@
 
 * ⭐ **[Play-CS](https://play-cs.com/)** - Browser Counter-Strike 1.6
 * ⭐ **[Krunker.io](https://krunker.io/)**, [2](https://browserfps.com/) - PvP FPS / [Market Ping](https://yee.how/market-ping/)
+* [OpenArena Live](https://kosmi.io/openarena) - Quake 3 Arena Clone
 * [Venge](https://venge.io/) - PvP FPS
 * [kour.io](https://kour.io/) - PvP FPS
 * [LolShot](https://lolshot.io/) - PvP FPS
