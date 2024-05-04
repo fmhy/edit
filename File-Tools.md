@@ -407,7 +407,6 @@
 * ⭐ **[mega](https://mega.nz/)** - 20GB Free / ~$4.5 for 1TB / [GitHub](https://github.com/meganz)
 * ⭐ **[disk.yandex](https://disk.yandex.com/)** - 5GB Free / $2.42 for 1TB
 * ⭐ **[filen](https://filen.io/)** - 10GB Free / ~$8 for 1TB
-* ⭐ **[internxt](https://internxt.com/)** - 10GB Free / ~4.85 for 1TB
 * ⭐ **[Cyberduck](https://cyberduck.io/)** - Libre Server / Cloud Storage Browser
 * [Cloud Storage Archiving Guide](https://pastebin.com/kLhLHsXg) - How To Safely Archive Files on Cloud Storage Sites
 * [terabox](https://terabox.com/) - 1TB Free / $3.50 for 2TB / [Downloader](https://indexsubtitle.cc/terabox-direct-link-generator) 
@@ -420,6 +419,7 @@
 * [MrOwl](https://www.mrowl.com/) - 10GB Free / ~$16.67 for 1TB
 * [storj](https://www.storj.io/) - 25GB Free / ~$4 for 1TB
 * [Blomp](https://www.blomp.com/) - 20GB Free / ~$3 for 2TB
+* [internxt](https://internxt.com/) - 10GB Free / ~4.85 for 1TB
 * [xpipe](https://xpipe.io) - Remote File Manager
 * [bookmarkfs](https://github.com/CoolElectronics/bookmarkfs) - Chrome's Profile Sync Cloud Storage
 * [InfiniDrive](https://github.com/nicomda/InfiniDrive) - Amazon Prime Photos Cloud Storage
