@@ -886,7 +886,7 @@
 * 🌐 **[Awesome Cryptography](https://github.com/sobolevn/awesome-cryptography)** - Cryptography Resources
 * 🌐 **[Reverse Engineering Resources](https://github.com/wtsxDev/reverse-engineering)** - Reverse Engineering Resources
 * ↪️ **[Security / Hacking News](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25B7_tech_news)**
-* ↪️ **[Pentesting Resources]()**
+* ↪️ **[Pentesting Resources](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_pentesting_resources)**
 * ⭐ **[x64dbg](https://x64dbg.com/)** - Malware Reverse Engineering
 * [Open Source Security Software](https://open-source-security-software.net/) - Cybersecurity Software
 * [OWASP Cheatsheet](https://cheatsheetseries.owasp.org/) - Application Security Guide
@@ -915,7 +915,6 @@
 * [Winitor](https://www.winitor.com/) - EXE Malware Assessment
 * [HTTPLeaks](https://github.com/cure53/HTTPLeaks) - HTTP Sites Leak Information
 * [Cryptography](https://pub.dev/packages/cryptography) - Dart and Flutter Cryptography Library
-* [Kali NetHunter](https://store.nethunter.com/en/) or [AndroGuard](https://github.com/androguard/androguard) - Penetration Testing / Forensics Apps
 * [MicroCorruption](https://microcorruption.com/) - Learn Reverse Engineering / Cybersecurity
 * [Radare](https://rada.re/r/), [Reverse Engineer's Toolkit](https://github.com/mentebinaria/retoolkit), [Rizin](https://rizin.re/), [Frida](https://frida.re/), [GHIDRA](https://ghidra-sre.org/) or [Cutter](https://cutter.re/) - Reverse Engineering 
 * [MSTG](https://mas.owasp.org/) or [DVIA-v2](https://github.com/prateek147/DVIA-v2) - App Security Testing / Reverse Engineering
