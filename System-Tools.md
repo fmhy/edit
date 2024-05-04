@@ -411,6 +411,7 @@
 * [Quantum Playground](https://www.quantumplayground.net/#/home) - Quantum Computer Simulator
 * [Win11 in React](https://win11.blueedge.me/) / [GitHub](https://github.com/blueedgetechno/win11React), [Rajaniraiyn](https://rajaniraiyn.github.io/windows11/) or [Win11.vercel](https://win11.vercel.app/) - Online Windows 11 Emulator
 * [daedalOS](https://dustinbrett.com/) - Online Windows 10 Emulator
+* [EmuOS](https://github.com/Emupedia/emupedia.github.io/) - Run Classic Games / Apps In Browser
 
 ***
 
