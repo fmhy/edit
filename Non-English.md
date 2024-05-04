@@ -266,6 +266,7 @@
 * [ebooks](https://github.com/XWHQSJ/ebooks), [Chinese Programming Books](https://github.com/justjavac/free-programming-books-zh_CN) or [awesome-wiki-books](https://github.com/awesome-wiki/awesome-wiki-books), [Banshujiang](http://www.banshujiang.cn/) - Programming Books
 * [kangxizidian](https://kangxizidian.com/) - Chinese Kangxi Dictionary
 * [Shufazidian](https://www.shufazidian.com/) - Chinese Calligraphy Dictionary
+* [owlook](https://www.owlook.com.cn/) - Chinese Web Novel Search / [GitHub](https://github.com/howie6879/owllook)
 * [CCams](http://www.ccamc.co/) - Chinese Character Search
 * [CBeta](https://www.cbeta.org/) - Chinese Buddhist Scriptures
 * [Open Literature](http://open-lit.com/html/) - Classic Chinese Novels
@@ -374,6 +375,7 @@
 * [animeko](https://animeko.co/) - Anime / Sub / 1080p
 * [anime-sama](https://anime-sama.fr/) - Anime / Sub / 1080p
 * [VoirCartoon](https://voircartoon.com/) - Cartoons / Dub / 720p
+* [CatoonHub](https://catoonhub.com/) - Cartoons / Dub / 720p / [Discord](https://discord.com/invite/M7gRTuXc6d)
 * [Lesics](https://youtube.com/@LesicsFR) - Engineering Courses
 
 ## ▷ Reading
@@ -543,7 +545,7 @@
 * [SSR Movies](https://ssrmovies.golf/) - Movies / TV / Sub / Dub / 1080p / [Telegram](https://telegram.dog/+MF2EXeitLjMxY2Ux)
 * [MkvMoviesPoint](https://mkvmoviespoint.casa/) - Movies / TV / Sub / Dub / 1080p / [Telegram](https://telegram.me/mkvpoint1)
 * [MKV Mad](https://www.mkvmad.foo/) - Movies / TV / Sub / Dub / 1080p / [Telegram](https://t.me/mkvmadofficial)
-* [KatMovieHD](https://katmoviehd.ac/) - Movies / TV / Anime / Sub / Dub / 1080p
+* [KatMovieHD](https://katmoviehd.boo/) - Movies / TV / Anime / Sub / Dub / 1080p
 * [MoviesFD](https://moviesfd.quest/) - Movies / Sub / Dub / 1080p
 * [BollyFlix](https://bollyflix.pm/) - Movies / TV / Anime / Sub / Dub / 1080p
 * [Paidnaija](https://paidnaija.com/) - Movies / Sub / 720p / [Telegram](https://t.me/joinchat/E9cst-5oQDA5MzRk)
@@ -1715,12 +1717,9 @@
 * [Baomoi](https://baomoi.com/) - News Aggregator / [Mobile](https://play.google.com/store/apps/details?id=com.epi&hl=en_US)
 * [BizTime](https://biztime.com.vn/), [HahaLolo](https://www.hahalolo.com/) or [Lotus](https://lotus.vn/) - Social Networks
 * [Forumvi](https://www.forumvi.com/) - Create a Forum
-* [SapTet](https://www.saptet.com/) - New Year Countdown
 * [LichAm](https://licham.net/), [XemLichAm](https://www.xemlicham.com/) or [LichAmHomNay](https://licham.com.vn/) - Lunar Calendar
-* [TraCuuThanSoHoc](https://tracuuthansohoc.com/), [ThanSoHocOnline](https://thansohoconline.com/) or [ThanSoVietnam](https://thansovietnam.com/) - Numerology
 * [MayTinhOnline](https://maytinhonline.com/) - Calculator
 * [BusMap](https://busmap.vn/) - Bus Journey
-* [BeenLoveMemory](https://beenlovememory.app/) - Love Days Counter
 * [abProxy](https://proxy.abtech.vn/) - Web Proxy
 * [NguoiLa](https://nguoila.io/) or [CVNL](https://cvnl.app/) - Random Chat
 * [XaBuon](https://xabuon.com/), [Xem](https://xem.vn/) - Meme
