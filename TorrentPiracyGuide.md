@@ -60,7 +60,6 @@
 * [Bitport](https://bitport.io/welcome) - Torrent to Cloud and Stream
 * [TorrentSafe](https://www.torrentsafe.com/) - Torrent to Cloud and Stream
 * [ZBIGZ](https://zbigz.com/) - Torrent to Cloud and Stream
-* [Loadbt](https://www.loadbt.com/) - Torrent to Cloud and Stream
 * [TorBox](https://torbox.app/) - Torrent to Cloud
 * [Demagnetize](http://demagnetize.link/) - Torrent to DDL
 
