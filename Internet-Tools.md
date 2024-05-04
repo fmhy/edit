@@ -737,7 +737,6 @@
 # ► Open Source Intelligence
 
 * 🌐 **[Awesome OSINT](https://github.com/jivoi/awesome-osint)** - Awesome OSINT
-* ↪️ **[OSINT Collections](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_osint_collections)**
 * ⭐ **[IntelTechniques](https://inteltechniques.com/index.html)** or [OSINT Techniques](https://www.osinttechniques.com/) - OSINT Resources
 * ⭐ **[Analyst Research Tools](https://analystresearchtools.com/)** - Tools and Resources
 * [Osintracker](https://www.osintracker.com/) - Track Your Investigations
