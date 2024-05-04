@@ -767,6 +767,7 @@
 * ↪️ **[Bypass Article Paywalls](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools#wiki_.25B7_paywall_bypass)**
 * ⭐ **[arXiv](https://arxiv.org/)** - Science / Math / Physics / [Search](https://arxiv-sanity-lite.com/), [2](https://searchthearxiv.com/) / [Chatbot](https://github.com/evanhu1/talk2arxiv)
 * ⭐ **[TheFreeLibrary](https://www.thefreelibrary.com/)** - Articles
+* ⭐ **[STC](https://libstc.cc/)** - Document / Article Text Search
 * ⭐ **[Nexus search](https://t.me/nexus_search/94)** - Science / Articles
 * [Wikisource](https://en.wikisource.org) - Poetry / Text / Documents
 * [Heystacks](https://heystacks.com/) - Public Google Docs
@@ -777,7 +778,6 @@
 * [Higher Intellect](https://preterhuman.net/) - Document Search
 * [qDoc](https://idoc.tips/) - Document Search
 * [Doc Search](https://parksdigital.com/doc-search/) - Document Search
-* [STC](https://libstc.cc/) - Document / Article Text Search
 * [KUNDOC](https://c.coek.info/) - Science / Articles
 * [DOKU.PUB](https://doku.pub/) - Science / Articles
 * [Academic Journals](https://academicjournals.org/) - Science / Articles
@@ -898,7 +898,7 @@
 * [spin.moe](https://spin.moe/) - Find Random Manga
 * [Anime-Planet](https://anime-planet.com/) - Manga
 * [kenmei](https://www.kenmei.co/) - Manga
-* [All Anime](https://allmanga.to/) - Manga
+* [AllManga](https://allmanga.to/) - Manga / [Discord](https://discord.gg/YbuYYUwhpP)
 * [Manga Codex](https://mangacodex.com/) - Manga Infographics & Sales Stats
 * [vndb](https://vndb.org/) - Visual Novels / [Stats](https://vnstat.net/)
 * [/r/VisualNovel Recs](https://sites.google.com/view/rvisualnovels-recs/) or [VN Recs](https://vnrecs.github.io/) - Visual Novel Recommendations
