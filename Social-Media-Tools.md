@@ -505,6 +505,7 @@
 * [TwitchChatDanmaku](https://github.com/wheatup/TwitchChatDanmaku), [Transparent-Twitch-Chat](https://github.com/chylex/Transparent-Twitch-Chat) or [Transparent Twitch Chat Overlay](https://github.com/baffler/Transparent-Twitch-Chat-Overlay) - Transparent Twitch Chat
 * [Auto Twitch Drops](https://chromewebstore.google.com/detail/automatic-twitch-drops-mo/kfhgpagdjjoieckminnmigmpeclkdmjm) - Twitch Drop Notifications
 * [Auto-Claim-Twitch-Channel-Points](https://github.com/mikeyaworski/Auto-Claim-Twitch-Channel-Points) or [TTVDropBot](https://github.com/Giingu/Enhanced-TTVDropBot) - Auto Claim Twitch Points
+* [Twitch Drops Miner](https://github.com/DevilXD/TwitchDropsMiner) - Auto Claim Twitch Drops
 * [TwitchRSS](https://twitchrss.appspot.com/) - Twitch RSS Generator
 * [TTV Favorites](https://github.com/jc9108/ttv-favorites) - Add Channel Favorites
 * [Streamlink Twitch GUI](https://github.com/streamlink/streamlink-twitch-gui) - Twitch Browser for Streamlink
