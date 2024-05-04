@@ -389,7 +389,7 @@
 * [YTArchive](https://github.com/Kethsar/ytarchive) - YouTube Livestream Recorder
 * [YouTube Livestream Theatre](https://gitlab.com/-/snippets/2099898) - Twitch-style Theater Mode for YouTube Live
 * [fadblock](https://github.com/0x48piraj/fadblock) or [Disable YT Video Ads](https://greasyfork.org/en/scripts/32626) - YouTube Adblockers
-* [ADSpeedUp](https://www.adspeedup.com/) - Speed Up YouTube Ads instead of Skipping to Support Creators
+* [ADSpeedUp](https://www.adspeedup.com/) - Speed Up YouTube Ads instead of Skipping to Support Creators / [Discord](https://discord.com/invite/ZxTGFFDX5y)
 
 ***
 
