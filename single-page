@@ -3311,7 +3311,8 @@ onMounted(() => {
 * [WorthBuck](https://worthbuck.com/) or [SitePriace](https://www.siteprice.org/) - Domain Price Estimations
 * [HaveIBeenSquatted](https://haveibeensquatted.com) - Typosquatting Discovery Tool
 * [iana](https://www.iana.org/), [arin](https://www.arin.net/), [lacnic](https://www.lacnic.net/), [afrinic](https://www.afrinic.net/) or [apnic](https://www.apnic.net/) - Internet Registry Sites
-* [takingnames](https://takingnames.io/blog/instant-subdomains), [GetFreeDomain](https://www.getfreedomain.name/) or [EU.org](https://nic.eu.org/) / [2](https://nic.ua/en/domains/.pp.ua) - Free Subdomains 
+* [takingnames](https://takingnames.io/blog/instant-subdomains), [GetFreeDomain](https://www.getfreedomain.name/) or [EU.org](https://nic.eu.org/) / [2](https://nic.ua/en/domains/.pp.ua) - Free Subdomains
+* [Homepage](https://github.com/benphelps/homepage), [Flame](https://github.com/pawelmalak/flame), [Homer](https://github.com/bastienwirtz/homer) or [Dashy](https://dashy.to/) / [GitHub](https://github.com/lissy93/dashy) - Home Server Startpages
 * [TheDev](https://thedev.id/) - Free Developer Subdomains
 * [redirect.name](https://redirect.name/) - URL Forwarding
 * [PingDom](https://tools.pingdom.com) - Ping Website
@@ -6321,7 +6322,6 @@ Linux Gaming Guide
 * [FreeTubeSpot](https://www.freetubespot.com/) - Movies / 480p
 * [MP4Mania](https://mp4mania1.net/) - Movies / 360p / [How to Use](https://files.catbox.moe/53xfma.mp4)
 * [JustWatch](https://www.justwatch.com/) - Search Legal Streaming Hosts
-* [Manually Scrape Sites](https://rentry.co/uxw6u)
 
 ***
 
@@ -8791,32 +8791,23 @@ Linux Gaming Guide
 
 ***
 
-## ▷ Link Homepages
+## ▷ Link in Bio Sites
 
 * ↪️ **[Browser Startpages](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_browser_startpages)**
-* ⭐ **[Linktree](https://linktr.ee/)**
-* ⭐ **[Linkstack](https://linkstack.org)**, [2](https://linksta.cc) - Self Hosted
-* [Ichi](https://ichi.city)
-* [Beacon](https://beacons.ai/)
+* ⭐ **[Linktree](https://linktr.ee/)** - Link in Bio
+* ⭐ **[Linkstack](https://linkstack.org)** or [LittleLink](https://littlelink.io/) - Self-hosted
+* [Beacons](https://beacons.ai/)
 * [Carrd](https://carrd.co/)
-* [Bio.link](https://bio.link/)
-* [Seamless](https://www.linkinbio.website/)
-* [FlowCode](https://www.flowcode.com/page)
-* [Solo.to](https://solo.to/)
-* [Ayo.so](https://ayo.so/)
+* [Bio Link](https://bio.link/)
+* [Ayo](https://ayo.so/)
 * [ContactInBio](https://www.contactinbio.com/)
-* [Campsite](https://campsite.bio/)
-* [bizzl.ink](https://bizzl.ink/)
-* [Horizon](https://hrzn.bio/)
+* [Campsite.bio](https://campsite.bio/)
+* [Horizon Bio](https://hrzn.bio/)
 * [BioDrop](https://www.biodrop.io/)
 * [Taplink](https://taplink.at/)
-* [Linkbun](https://linkbun.io)
-* [Mez.ink](https://mez.ink/)
-* [dialo](https://dialo.app/)
-* [linkr](https://linkr.com/)
-* [LittleLink](https://littlelink.io/) - Self-Hosted
-* [Homepage](https://github.com/benphelps/homepage), [Flame](https://github.com/pawelmalak/flame) or [Homer](https://github.com/bastienwirtz/homer) - Home Server Startpages
-* [Dashy](https://dashy.to/) - Self-Hosted Home Server Startpage / [GitHub](https://github.com/lissy93/dashy)
+* [LinkBun](https://linkbun.io)
+* [Linkr](https://linkr.com/)
+* [seemless](https://www.linkinbio.website/) - Link in Bio for Tiktok & Instagram
 * [itsmy.fyi](https://itsmy.fyi/) - Create Homepage via Github Issues / [Github](https://github.com/rishi-raj-jain/itsmy.fyi) 
 
 ***
@@ -8973,7 +8964,6 @@ Linux Gaming Guide
 * [AnyImage](https://anyimage.io/) - Create Social Card Links
 * [urlportal](https://raw.githubusercontent.com/gotbletu/shownotes/master/urlportal.sh) - Custom URL Handler
 * [Web Check](https://web-check.xyz/), [NSLookup](https://www.nslookup.io/) or [dog](https://github.com/ogham/dog) - DNS Information Tool
-* [Awesome Piracy Bot](https://github.com/Igglybuff/awesome-piracy-bot) - URL Scraping Tools
 * [Site Worth Traffic](https://www.siteworthtraffic.com/) - Calculate Website Worth
 * [XML-Sitemaps](https://www.xml-sitemaps.com/) - Sitemap Creator
 * [CarbonDates](https://carbondate.cs.odu.edu/) - Check Site Creation Date 
@@ -17026,6 +17016,52 @@ outline: false
 
 ***
 
+## Archiving
+
+### Archive Services
+
+* ⭐ **[Archive.org](https://archive.org/)** - Internet Archive
+* ⭐ **[Wayback Machine](https://web.archive.org/)** or **[Archive.is](https://archive.is/)** / [.li](https://archive.li/) / [.ph](https://archive.ph/) / [.vn](https://archive.vn/) / [.fo](https://archive.fo/) / [.md](https://archive.md/) - Archive Web Pages
+* ⭐ **Wayback Machine Tools** - [Downloader](https://github.com/jsvine/waybackpack) / [Browser Extension](https://github.com/internetarchive/wayback-machine-webextension), [2](https://vegetableman.github.io/vandal/) / [Script](https://github.com/overcast07/wayback-machine-spn-scripts) / [Auto Load](https://gitlab.com/gkrishnaks/WaybackEverywhere-Firefox)
+* ⭐ **[Web Archives](https://github.com/dessant/web-archives)** or [Resurrect Pages Fork](https://github.com/Albirew/resurrect-pages-isup-edition) - Browser Extensions
+* ⭐ **[CachedView](https://cachedview.nl/)** or [Quick Cache](https://cybdetective.com/quickcacheandarhivesearch.html) - Aggregate Cache Results
+* [ArchiveTeam](https://wiki.archiveteam.org/index.php/Main_Page) - Archive Projects
+* [Perma.cc](https://perma.cc/) - Create Permalinks
+
+### Web Archiving Tools
+
+* 🌐 **[Awesome Web Archiving](https://github.com/iipc/awesome-web-archiving)** - Web Archiving Tools
+* 🌐 **[Webrecorder](https://webrecorder.net/)** - Open-source Archiving Tools
+* ⭐ **[ArchiveBox](https://archivebox.io)** - Self-hosted Web Archiving
+* ⭐ **[MarkDownload](https://github.com/deathau/markdownload)** - Download Web Pages as Markdown Files
+* ⭐ **[HTTrack](https://www.httrack.com/)** / [Guide](https://rentry.co/cloneasite) - Website Downloader
+* ⭐ **[datahoarder-website-to-markdown](https://github.com/evilsh3ll/datahoarder-website-to-markdown)** - Index to Markdown Tool
+* [WAIL](https://matkelly.com/wail) / [GitHub](https://github.com/machawk1/wail) - GUI For Archiving Tools
+* [ReplayWeb.page](https://replayweb.page/) - View Web Archive Files
+* [ArchiveWeb.page](https://archiveweb.page/) - Browser Extension
+* [WikiTeam](https://github.com/WikiTeam/wikiteam) - Archive Wikis
+* [Wayback](https://github.com/wabarc/wayback) - Web Archiving Tool
+* [DownloadNet](https://github.com/dosyago/DownloadNet) or [Kiwix](https://kiwix.org/en/) / [Wiki DL Guide](https://practicalbetterments.com/download-all-of-wikipedia-on-your-phone/) - Offline Website Readers
+* [Wget2](https://gitlab.com/gnuwget/wget2) / [Commands](https://www.whatismybrowser.com/developers/tools/wget-wizard/), [SuckIT](https://github.com/skallwar/suckit), [Cyotek WebCopy](https://www.cyotek.com/cyotek-webcopy) or [Website Downloader](https://github.com/AhmadIbrahiim/Website-downloader) - Website Downloaders
+* [Archivematica](https://www.archivematica.org/) - Digital Preservation System
+* [wallabag](https://wallabag.org/) - Save Articles
+* [CopySite](https://xdan.ru/copysite/) - Copy Websites
+* [Scoop](https://github.com/harvard-lil/scoop) - Capture Engine
+
+### Web Scraping / Crawling
+
+* 🌐 **[Awesome Web Scraping](https://github.com/lorien/awesome-web-scraping)** - Web Scraping Tools
+* 🌐 **[Awesome-crawler](https://github.com/BruceDone/awesome-crawler)** - Crawling Resources
+* ⭐ **[Instant Data Scraper](https://chromewebstore.google.com/detail/instant-data-scraper/ofaokhiedipichpaobibbnahnkdoiiah)** - Browser Extension
+* [Heritrix](https://heritrix.readthedocs.io/) / [GitHub](https://github.com/internetarchive/heritrix3) - Internet Archive's Web Crawler
+* [80legs](https://80legs.com/) - Cloud-Based
+* [Crawly](https://crawly.diffbot.com/) - Online Scraper
+* [web.scraper.workers.dev](https://web.scraper.workers.dev/) - Web Scraper
+* [grab-site](https://github.com/ArchiveTeam/grab-site) - ArchiveTeam Web Crawler
+* [brozzler](https://github.com/internetarchive/brozzler) - Web Crawler
+
+***
+
 ## Browser eBook Readers
 
 * ⭐ **[Reader View](https://webextension.org/listing/chrome-reader-view.html)**, [2](https://mybrowseraddon.com/reader-view.html)
@@ -17241,6 +17277,7 @@ outline: false
 * ⭐ **[Wolfram Alpha](https://www.wolframalpha.com/)** - Searchable Knowledgebase / [API Access](https://wolfreealpha.gitlab.io)
 * [EncycloReader](https://encycloreader.org/) - Encyclopedia Search
 * [Omniglot](https://www.omniglot.com/index.htm) - Writing Systems & Languages Encyclopedia
+* [Archivy](https://github.com/archivy/archivy/) - Self-hosted Wiki
 
 [Britannica](https://www.britannica.com/),[EverybodyWiki](https://en.everybodywiki.com/), [Encyclopedia](https://www.encyclopedia.com/), [NewWorldEncyclopedia](https://www.newworldencyclopedia.org/), [Citizendium](https://citizendium.org/), [Wikitia](https://wikitia.com/), [Conze.pt](https://conze.pt/), [InfoPlease](https://www.infoplease.com/), [Refdesk](https://www.refdesk.com/factency.html)
 
@@ -18059,54 +18096,6 @@ outline: false
 * [Boilerplate](https://html5boilerplate.com/) - Website Frontend Template HTML5
 
 [Bootstrap](https://bootstrapmade.com/), [TheMeWagon](https://themewagon.com/), [nicepage](https://nicepage.com/website-templates), [Templatemo](https://www.templatemo.com/), [Tooplate](https://www.tooplate.com/), [CSS Bed](https://www.cssbed.com/), [Repth Themes](https://repth.neocities.org/theme), [beercss](https://www.beercss.com/) / [GitHub](https://github.com/beercss/beercss), [free-css-templates](https://www.free-css.com/free-css-templates), [zerotheme](https://www.zerotheme.com/), [html5up](https://html5up.net/), [templated](https://templated.co/), [html5xcss3](https://www.html5xcss3.com/)
-
-***
-
-## Web Archiving
-
-* 🌐 **[awesome-web-scraping](https://github.com/lorien/awesome-web-scraping)** / [2](https://github.com/iipc/awesome-web-archiving) / [3](https://github.com/BruceDone/awesome-crawler)
-* ⭐ **[datahoarder-website-to-markdown](https://github.com/evilsh3ll/datahoarder-website-to-markdown)** - Index to Markdown Archiving Tool
-* [webrecorder](https://webrecorder.net/)
-* [Heritrix](https://heritrix.readthedocs.io/) / [GitHub](https://github.com/internetarchive/heritrix3)
-* [wail](https://matkelly.com/wail) / [GitHub](https://github.com/machawk1/wail)
-* [80legs](https://80legs.com/)
-* [crawly](https://crawly.diffbot.com/)
-* [replayweb](https://replayweb.page/) - View Archive Format Files
-  
-### Archiving Services
-
-* ⭐ **[Wayback Machine](https://web.archive.org/)**
-* ⭐ **Wayback Machine Tools** - [ArchiveTeam Contribute](https://tracker.archiveteam.org/) / [Downloader](https://github.com/hartator/wayback-machine-downloader), [2](https://github.com/jsvine/waybackpack) / [Classic Frontend](https://wayback-classic.net/) / [Extension](https://github.com/internetarchive/wayback-machine-webextension), [2](https://vegetableman.github.io/vandal/) / [Addon](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_wayback_machine_extension) / [Script](https://github.com/overcast07/wayback-machine-spn-scripts) / [Toolkit](https://docs.wabarc.eu.org/) / [Multi-URL](https://liamswayne.github.io/Super-Archiver/) / [Auto Load](https://gitlab.com/gkrishnaks/WaybackEverywhere-Firefox)
-* ⭐ **[Archive.is](https://archive.is/)** / [.li](https://archive.li/) / [.ph](https://archive.ph/) / [.vn](https://archive.vn/) / [.fo](https://archive.fo/) / [.md](https://archive.md/)
-* ⭐ **[cachedview](https://cachedview.nl/)**, **[Web Archives](https://github.com/dessant/web-archives)**, [quickcache](https://cipher387.github.io/quickcacheandarchivesearch/), [resurrect-pages](https://github.com/Albirew/resurrect-pages-isup-edition) - Aggregate Cache Results
-* [Perma.cc](https://perma.cc/)
-* [archiveforever](https://www.archiveforever.xyz/)
-* [ghostarchive](https://ghostarchive.org/)
-* [hozon](https://hozon.site/)
-* [Arquivo.pt](https://arquivo.pt/?l=en)
-
-### Local Archiving
-
-* ⭐ **[ArchiveBox](https://archivebox.io)**
-* ⭐ **[HTTrack](https://www.httrack.com/)** / [Guide](https://rentry.co/cloneasite)
-* ⭐ **[MarkDownload](https://github.com/deathau/markdownload)** - Get Markdown of a page
-* ⭐ **[Instant Data](https://chromewebstore.google.com/detail/instant-data-scraper/ofaokhiedipichpaobibbnahnkdoiiah)**
-* [Kiwix](https://kiwix.org/en/) / [Wiki DL Guide](https://practicalbetterments.com/download-all-of-wikipedia-on-your-phone/)
-* [cyotek-webcopy](https://www.cyotek.com/cyotek-webcopy)
-* [Website-downloader](https://github.com/AhmadIbrahiim/Website-downloader)
-* [archiveweb](https://archiveweb.page/)
-* [archivematica](https://www.archivematica.org/)
-* [suckit](https://github.com/skallwar/suckit)
-* [DownloadNet](https://github.com/dosyago/DownloadNet)
-* [wget2](https://gitlab.com/gnuwget/wget2) / [Commands](https://www.whatismybrowser.com/developers/tools/wget-wizard/)
-* [archivy](https://github.com/archivy/archivy/)
-* [web.scraper](https://web.scraper.workers.dev/)
-* [WikiTeam](https://github.com/WikiTeam/wikiteam)
-* [grab-site](https://github.com/ArchiveTeam/grab-site)
-* [wallabag](https://github.com/wallabag/docker)
-* [brozzler](https://github.com/internetarchive/brozzler)
-* [Scoop](https://github.com/harvard-lil/scoop)
-* [CopySite](https://xdan.ru/copysite/)
 
 ***
 
