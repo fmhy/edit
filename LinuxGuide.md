@@ -426,7 +426,7 @@ Linux Gaming Guide
 * [Basher](https://www.basher.it/) - Bash Script Package Manager
 * [yakuake](https://apps.kde.org/yakuake/) - Terminal Emulator
 * [XTerm](https://invisible-island.net/xterm/) - X Window System Terminal Emulator
-* [hush](https://github.com/hush-shell/hush) - Unix Shell
+* [hush](https://github.com/hush-shell/hush) or [acme.sh](https://github.com/acmesh-official/acme.sh) - Unix Shell
 * [Extension Manager](https://mattjakeman.com/apps/extension-manager) - GNOME Shell Extensions 
 * [Distrobox](https://distrobox.it/) - Use Distros via Terminal
 * [htop](https://htop.dev/) or [Zenith](https://github.com/bvaisvil/zenith) - Interactive Process Viewers
