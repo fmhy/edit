@@ -80,25 +80,6 @@
 
 ***
 
-## ▷ Open Source Intelligence
-
-* 🌐 **[Awesome OSINT](https://github.com/jivoi/awesome-osint)** - Awesome OSINT
-* ↪️ **[OSINT Collections](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_osint_collections)**
-* ⭐ **[IntelTechniques](https://inteltechniques.com/index.html)** or [OSINT Techniques](https://www.osinttechniques.com/) - OSINT Resources
-* ⭐ **[Analyst Research Tools](https://analystresearchtools.com/)** - Tools and Resources
-* [Osintracker](https://www.osintracker.com/) - Track Your Investigations
-* [Cyber Detective](https://cybdetective.com/) / [GitHub](https://github.com/cipher387) - Tools, Techniques, and Projects
-* [Project Owl](https://discord.com/invite/projectowl) - OSINT Community
-* [OSINT Dojo](https://www.osintdojo.com/resources/) - OSINT Guides
-* [Hackers Arise OSINT](https://www.hackers-arise.com/osint) - OSINT Guides
-* [What is OSINT?](https://www.recordedfuture.com/blog/open-source-intelligence-definition) - Article
-* [The Key to Unlocking the Web’s Secrets](https://www.einvestigator.com/open-source-intelligence-tools/) - Article
-* [Toddington](https://www.toddington.com/resources/free-osint-resources-open-source-intelligence-search-tools-research-tools-online-investigation/) - Search OSINT Resources
-* [Malfrat's OSINT Map](https://map.malfrats.industries/) - Interactive Map
-* [OH SHINT!](https://ohshint.gitbook.io/oh-shint-its-a-blog/) - OSINT Blog
-
-***
-
 # ► Free Stuff
 
 * ⭐ **[Give & Away](https://discord.gg/j9fvrxedkX)** - Giveaway Discord Server
