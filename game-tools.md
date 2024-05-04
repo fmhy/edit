@@ -527,6 +527,7 @@
 * [VoxelSphereGenerator](https://oranj.io/blog/VoxelSphereGenerator), [BDStudio](https://eszesbalint.github.io/bdstudio/editor) or [Minecraft Shapes](https://minecraftshapes.com/) - Minecraft Shape Tools / Voxel Editors
 * [Custom-MC-Render-Cweeper](https://rentry.co/custom-mc-render-cweeper) - Custom 3D Model to Minecraft Render
 * [MCprep](https://theduckcow.com/dev/blender/mcprep/) - Blender OBJ Import / Texturepacks / Character Rigging / Animations
+* [DriveBackupV2](https://modrinth.com/plugin/drivebackupv2) - Minecraft Cloud Storage Backup
 * [Amidst](https://github.com/toolbox4minecraft/amidst) - Minecraft World Overview Display Tool
 * [The Minecraft Archive Project](https://map.crummy.com/) - Minecraft World Archive
 * [Amulet](https://www.amuletmc.com/), [MCA Selector](https://github.com/Querz/mcaselector) or [uNmINeD](https://unmined.net/) - Minecraft Map Editors / Viewers
