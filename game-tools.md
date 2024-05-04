@@ -118,13 +118,13 @@
 
 ## ▷ Game Launchers
 
-* ⭐ **[Playnite](https://playnite.link/)** / [Extensions](https://playnite.link/addons.html) / [Achievements](https://github.com/Lacro59/playnite-successstory-plugin) / [Auto-Crack](https://github.com/turusudiro/SteamEmuUtility) - Game Library / Launcher
+* ⭐ **[Playnite](https://playnite.link/)** - Game Library / Launcher / [Extensions](https://playnite.link/addons.html) / [Achievements](https://github.com/Lacro59/playnite-successstory-plugin) / [Auto-Crack](https://github.com/turusudiro/SteamEmuUtility) / [Discord](https://discord.com/invite/BrtABqe)
 * ⭐ **[GoG Galaxy](https://www.gog.com/galaxy)** or **[Project GLD](https://github.com/Y0URD34TH/Project-GLD/)** - Game Libraries / Launchers
-* [Black Pearl Origin](https://github.com/BlackPearlOrigin/blackpearlorigin) / [Plugins](https://bpo-store.github.io/) - Cross Platform Game Library / Launcher
+* [Black Pearl Origin](https://github.com/BlackPearlOrigin/blackpearlorigin) - Cross Platform Game Library / Launcher / [Plugins](https://bpo-store.github.io/) / [Discord](https://discord.com/invite/WpBr3hJVf5)
 * [Launchbox](https://www.launchbox-app.com/) - Retro / Console Game Library / Launcher
 * [GameHUB Launcher](https://www.deviantart.com/not-finch/art/GameHUB-launcher-2-for-Rainmeter-785369648) - Rainmeter Game Launcher
 * [Arc](https://www.arcgames.com/en/about/client) - Gearbox Game Launcher / Library
-* [GameVault](https://gamevau.lt) - Self-Hosted Gaming Platform
+* [GameVault](https://gamevau.lt) - Self-Hosted Gaming Platform / [Discord](https://discord.gg/NEdNen2dSu)
 * [XIVLauncher](https://goatcorp.github.io/) - Fixed FFXIV Launcher
 
 ***
@@ -151,7 +151,7 @@
 * [dlss-swap](https://github.com/beeradmoore/dlss-swapper) - Download, Manage & Swap DLSS
 * [dgVoodoo2](http://dege.freeweb.hu/dgVoodoo2/) - Glide & DirectX Graphics Wrapper
 * [VibranceGUI](https://vibrancegui.com/) - Automate Digital Vibrance Control
-* [ReShade](https://reshade.me/) - Generic Post-Processing Injector / [GitHub](https://github.com/crosire/reshade) / [Shaders](https://github.com/BlueSkyDefender/Depth3D)
+* [ReShade](https://reshade.me/) - Generic Post-Processing Injector / [GitHub](https://github.com/crosire/reshade) / [Shaders](https://github.com/BlueSkyDefender/Depth3D) / [Discord](https://discord.com/invite/PrwndfH)
 * [DLSSG to FSR3](https://github.com/Nukem9/dlssg-to-fsr3) - AMD FSR3 Frame Generation for NVIDIA
 * [WindowedBorderlessGaming](https://westechsolutions.net/sites/WindowedBorderlessGaming/), [Borderless Gaming](https://github.com/Codeusa/Borderless-Gaming) or [FullScreenizer](http://runtimeterror.com/tools/fullscreenizer/) - Borderless Windows for All Games
 * [Lossless Scaling](https://rentry.co/FMHYBase64#lossless-scaling) - Windowed Game Scaling
@@ -167,7 +167,7 @@
 * [x360ce](https://www.x360ce.com/) / [GitHub](https://github.com/x360ce/x360ce) - DS4 / 360 Controller Emulator
 * [XOutput](https://github.com/csutorasa/XOutput) - DirectInput to Xinput wrapper
 * [DsHidMini](https://docs.nefarius.at/projects/DsHidMini/) - Use PS3 Controllers on Windows
-* [JoyToKey](https://joytokey.net/) - Controller Emulator
+* [JoyToKey](https://joytokey.net/en/) - Controller Emulator
 * [Spud Controller](https://sadwhale-studios.itch.io/) - Controller / Mouse Input Displays
 * [PC Remote](https://play.google.com/store/apps/details?id=com.monect.portable) - Use Phone as Controller
 * [Gamepad-Tester](https://gamepad-tester.com/) or [AresLuna](https://aresluna.org/gamepad-tester/) - Controller Connectivity Testers
@@ -185,42 +185,41 @@
 * ⭐ **[Playit.gg](https://playit.gg/)** - Multiplayer Fix / [Discord](https://discord.gg/AXAbujx)
 * ⭐ **[TrackyServer](https://www.trackyserver.com/)** - Find Private Multiplayer Servers
 * ⭐ **[Find-PlayDate](https://www.find-playdate.com/)** - Find People to Play Games With
-* [Liquipedia](https://liquipedia.net/) - Competitve Gaming / Esports Wiki
+* [Liquipedia](https://liquipedia.net/) - Competitve Gaming / Esports Wiki / [Discord](https://discord.com/invite/liquipedia)
 * [zerotier](https://www.zerotier.com/) - Multiplayer Fix
-* [Radmin](https://www.radmin-vpn.com/) - Multiplayer Fix
+* [Radmin](https://www.radmin-vpn.com/) - Multiplayer Fix / [Discord](https://discord.com/invite/8MapDM7m96)
 * [Hamachi](https://vpn.net/) - Multiplayer Fix
 * [NetMaker](https://www.netmaker.io/) - Multiplayer Fix
-* [XTag](https://www.teamxlink.co.uk/) - Multiplayer Fix
+* [Team XLink](https://www.teamxlink.co.uk/) - Multiplayer Fix / [Discord](https://discord.com/invite/XUS9n73KSP)
 * [ZLOEmu](https://zloemu.net/) - Multiplayer Fix
 * [DiIiS](https://github.com/blizzless/blizzless-diiis) - Open-Source Diablo III Local Server
 * [Server.pro](https://server.pro/) - Game Server Hosting
 * [Tilted Online](https://wiki.tiltedphoques.com/tilted-online/) / [GitHub](https://github.com/tiltedphoques/TiltedEvolution) - Multiplayer Skyrim & Fallout 4 / [Discord](https://discord.gg/skyrimtogether) / [Setup Guide](https://youtu.be/ytSftFoQQHA)
-* [NV:MP](https://nv-mp.com/) - Fallout: New Vegas Multiplayer
+* [NV:MP](https://nv-mp.com/) - Fallout: New Vegas Multiplayer / [Discord](https://discordapp.com/invite/mKVdhmEDrW)
 * [Project Cartographer](https://www.halo2.online/) - Halo 2 Online Servers
 * [Halo Custom Edition](https://www.haloce.org/) - Halo CE Online Servers
 * [Northstar](https://thunderstore.io/c/northstar/), [2](https://northstar.tf/) - Titanfall 2 Server Hosting & Modding / [GitHub](https://github.com/R2Northstar/Northstar/releases) / [Guide](https://rentry.org/northstar-guide) / [Discord](https://discord.gg/CEszSguY3A)
-* [CnCNet](https://cncnet.org/) - Multiplayer Command & Conquer 
+* [CnCNet](https://cncnet.org/) - Multiplayer Command & Conquer / [Discord](https://discord.com/invite/aJRJFe5)
 * [Factorio.zone](https://factorio.zone/) - Free Factorio Servers
-* [Rusticaland](https://rusticaland.net/) - Free Rust Servers
-* [Old School RuneScape](https://oldschool.runescape.com/) - Classic Runescape
-* [OpenArena Live](https://kosmi.io/openarena) - Quake 3 Arena Clone
+* [Rusticaland](https://rusticaland.net/) - Free Rust Servers / [Discord](https://discord.com/invite/MD9RgdYhpf)
+* [Old School RuneScape](https://oldschool.runescape.com/) - Classic Runescape / [Discord](https://discord.com/invite/osrs)
 * [NolfRevival](http://nolfrevival.tk/) - NOLF, NOLF 2 & Contract Jack
 * [Mega Man Arena](https://www.megamanarena.com/) or [Megaman 2.5D](https://petersjostrand.com/) - Multiplayer Mega Man
 * [Toontown Rewritten](https://www.toontownrewritten.com/) - Toontown Multiplayer Revival
 * [Overwolf](https://www.overwolf.com/) - Create In-Game Overlay Apps
 * [Tracker.gg](https://tracker.gg/) - Game Leaderboards / Stats
 * [Plutonium](https://plutonium.pw/) - Black Ops 2 / MW3 Mod Project / [Discord](https://discord.gg/d95y8ah)
-* [VeniceUnleashed - BF3](https://veniceunleashed.net/) or [Warsaw-Revamped - BF4](https://warsaw-revamped.com/) - Battlefield Mod Projects
+* [Venice Unleashed](https://veniceunleashed.net/) / [Discord](https://discord.com/invite/dpJwaVZ) or [Warsaw Revamped](https://warsaw-revamped.com/) / [Discord](https://discord.com/invite/C9Zrh4G) - Battlefield Mod Projects
 * [BF2142 Reclamation](https://battlefield2142.co/) - BF2142 Multiplayer Project / [Discord](https://discord.gg/MEwBW9U)
 * [StatsVerse](http://statsverse.com/) - Battlefield Leaderboards
-* [Sym.gg](https://sym.gg/) - Battlefield Info & Weapon Stats
-* [PaladinsGuru](https://paladins.guru/) - Paladins Leaderboards
+* [Sym.gg](https://sym.gg/) - Battlefield Info & Weapon Stats / [Discord](https://discord.com/invite/RVRZ3RgYNP)
+* [PaladinsGuru](https://paladins.guru/) - Paladins Leaderboards / [Discord](https://discord.com/invite/5aKtMB7)
 * [TrueGameData](https://truegamedata.com/) - COD Leaderboards
 * [Warzone Loadout](https://warzoneloadout.games/) - Warzone Loadouts and Builds
-* [ET: Legacy](https://www.etlegacy.com/) - Wolfenstein Enemy Territory Multiplayer Project / [Discord](https://discord.gg/UBAZFys)
+* [ET: Legacy](https://www.etlegacy.com/) - Wolfenstein Enemy Territory Multiplayer Project / [Discord](https://discord.com/invite/UBAZFys)
 * [Braytech](https://bray.tech/) - Destiny 2 Stats
 * [Leaf](https://leafapp.co/) or [HaloDataHive](https://halodatahive.com/) - Halo Infinite Leaderboards / Stats
-* [D4Builds](https://d4builds.gg/) - Diablo 4 Builds
+* [D4Builds](https://d4builds.gg/) - Diablo 4 Builds / [D4Builds](https://discord.gg/d4builds)
 * [WoWProgress](https://www.wowprogress.com) or [CheckPVP](https://www.check-pvp.fr/) - WoW Rankings
 * [RaidPlan](https://raidplan.io/) - WoW Raid Planner / [Discord](https://discord.com/invite/mTuHsfb)
 * [FallGuysStats](https://github.com/ShootMe/FallGuysStats) or [Fallalytics](https://fallalytics.com/) - Fall Guys Stat Trackers
@@ -229,10 +228,10 @@
 * [Fortnite Tracker](https://fortnitetracker.com/) - Fortnite Leaderboards / Stats
 * [FortniteEXP](https://www.fortnitexp.net/) - Fortnite XP Progression / Leveling Rates
 * [SaveTheWorldClaimer](https://github.com/PRO100KatYT/SaveTheWorldClaimer) - Fortnite Auto-Points Claimer
-* [Slippi](https://slippi.gg/) - Super Smash Bros Melee Online 
+* [Slippi](https://slippi.gg/) - Super Smash Bros Melee Online / [Discord](https://discord.com/invite/pPfEaW5)
 * [CrewLink](https://github.com/ottomated/CrewLink) - Among Us Proximity Chat
-* [Impostor](https://impostor.github.io/Impostor/) - Among Us Private Server
-* [VRCList](https://vrclist.com/) - Find VRChat Worlds
+* [Impostor](https://impostor.github.io/Impostor/) - Among Us Private Server / [Discord](https://discord.com/invite/Mk3w6Tb)
+* [VRCList](https://vrclist.com/) - Find VRChat Worlds / Signup Required
 
 *** 
 
@@ -240,16 +239,16 @@
 
 * ⭐ **[ChronoCrash](https://www.chronocrash.com/forum/)** - Game Modding Forum
 * ⭐ **[ModDB](https://moddb.com/)** - Game Mods
-* ⭐ **[Nexus Mods](https://www.nexusmods.com/)** - Game Mods / [Bulk Downloader](https://greasyfork.org/en/scripts/483337) / [Redirect Skip](https://greasyfork.org/en/scripts/394039)
-* ⭐ **[ModdingLinked](https://moddinglinked.com/)** - Bethesda Game Modding Guides
+* ⭐ **[Nexus Mods](https://www.nexusmods.com/)** - Game Mods / [Bulk Downloader](https://greasyfork.org/en/scripts/483337) / [Redirect Skip](https://greasyfork.org/en/scripts/394039) / [Discord](https://discord.com/invite/nexusmods)
+* ⭐ **[ModdingLinked](https://moddinglinked.com/)** - Bethesda Game Modding Guides / [Discord](https://discord.com/invite/S99Ary5eba)
 * [ModOrganizer](https://github.com/ModOrganizer2/modorganizer) - Mod Manager
-* [mod.io](https://www.mod.io/) - Cross Platform Game Mods Support
+* [mod.io](https://www.mod.io/) - Cross Platform Game Mods Support / [Discord](https://discord.com/invite/modio)
 * [WabbaJack](https://www.wabbajack.org/) / [Discord](https://discord.com/invite/wabbajack) - Automated Modlist Installer
 * [NextGenUpdate](https://www.nextgenupdate.com/) - Game Mods
-* [ModWorkshop](https://modworkshop.net/) - Game Mods
-* [GameFront](https://gamefront.com/) - Game Mods
-* [Video Game Mods](https://videogamemods.com/) - Game Mods
-* [GameBanana](https://gamebanana.com/) - Game Mods
+* [ModWorkshop](https://modworkshop.net/) - Game Mods / [Discord](https://discord.com/invite/Eear4JW)
+* [GameFront](https://gamefront.com/) - Game Mods / [Discord](https://discord.com/invite/gamefront)
+* [Video Game Mods](https://videogamemods.com/) - Game Mods / [Discord](https://discord.com/invite/C2JussB8hk)
+* [GameBanana](https://gamebanana.com/) - Game Mods / [Discord](https://discord.com/invite/h5xJv9M)
 * [Silent's Blog](https://cookieplmonster.github.io/mods/index/) - Game Mods / Patches
 * [FlingTrainer](https://flingtrainer.com/) - Game Mods / Trainers
 * [Otis_Inf Camera Mods](https://redd.it/hvttbd) - Game Camera Mods Index
@@ -264,8 +263,8 @@
 * [RimWorldBase](https://www.rimworldbase.com/) - RimWorld Mods
 * [StellarisMods](http://stellarismods.net/) - Stellaris Mods
 * [SMods](https://smods.ru/) - Cities: Skylines Mods
-* [MDMC](https://mdmc.moe/) - Muse Dash Mods
-* [BS Manager](https://github.com/Zagrios/bs-manager) - Beat Saber Version / Mod Manager 
+* [MDMC](https://mdmc.moe/) - Muse Dash Mods / [Discord](https://discord.com/invite/mdmc)
+* [BSManager](https://github.com/Zagrios/bs-manager) - Beat Saber Version / Mod Manager / [Discord](https://discord.com/invite/uSqbHVpKdV)
 * [BSMG](https://bsmg.wiki/) - Beat Saber Mods
 * [NFSMods](https://nfsmods.xyz/) / [Discord](https://discord.gg/MuC3KKW) or [NFSAddons](https://www.nfsaddons.com/) - Need for Speed Mods
 * [SimPlaza](https://simplaza.org/) - Microsoft Flight Simulator Addons
@@ -281,7 +280,7 @@
 * [bspview](https://sbuggay.github.io/bspview) / [GitHub](https://github.com/sbuggay/bspview) - Explore Quake & GoldSRC Maps
 * [NES Maps](https://www.nesmaps.com/) - NES Game Maps 
 * [SNES Maps](https://www.snesmaps.com/) - SNES Game Maps
-* [Forgehub](https://www.forgehub.com/) - Halo Maps
+* [Forgehub](https://www.forgehub.com/) - Halo Maps/ [Discord](https://discord.com/invite/ybGX7sv)
 * [Zelda BotW Street View](https://nassimsoftware.github.io/zeldabotwstreetview/) - Breath of The Wild Map
 * [Palworld Interactive](https://palworld.th.gl/) - Palworld Map
 * [Fortnite.gg](https://fortnite.gg/) - Fortnite Map, Guides, Skins etc.
@@ -321,7 +320,7 @@
 * [GG App](https://ggapp.io/), [Gamelib](https://gamelib.app/explore), [Backloggery](https://backloggery.com/) or [Exophase](https://www.exophase.com/) - Game Trackers
 * [LaunchBox Games Database](https://gamesdb.launchbox-app.com/), [GameFAQs](https://gamefaqs.gamespot.com/), [Rawg](https://rawg.io/), [Moby Games](https://www.mobygames.com/), [rate.house](https://rate.house/chart/game), [listal](https://www.listal.com/) or [FrontierNav](https://frontiernav.net/) - Game Databases
 * [IMDb Advanced Search](https://www.imdb.com/search/) - Game Search
-* [JRGPC](https://jrpgc.com/) - JRPG Databases
+* [JRGPC](https://jrpgc.com/) - JRPG Databases / [Discord](https://discord.com/invite/jrpgc)
 * [RPGCodex](https://rpgcodex.net/forums/) - RPG Database / Forum
 * [SteamPeek](https://steampeek.hu/) or [IndieDB](https://www.indiedb.com/) - Indie Game Databases
 * [RetroShowcase](https://www.retroshowcase.gr/) or [The Good Old Days](https://www.goodolddays.net/) - Retro Game Databases
