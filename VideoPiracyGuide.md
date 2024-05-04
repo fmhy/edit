@@ -133,10 +133,10 @@
 * 🌐 **[The Index](https://theindex.moe)** - Japanese Piracy Index / [Discord](https://discord.gg/Snackbox) / [Wiki](https://thewiki.moe/)
 * 🌐 **[EverythingMoe](https://everythingmoe.com/)** - Japanese Piracy Index / [Discord](https://discord.gg/GuueaDgKdS)
 * ⭐ **[AniWave](https://aniwave.to/)** or [Anix](https://anix.to/), [2](https://animesuge.to/), [3](https://gogoanimex.to/home), [4](https://zoroxtv.to/) - Sub / Dub / 1080p / [Lite](https://lite.aniwave.to)
-* ⭐ **[KickAssAnime](https://kickassanime.mx/)** - Sub / Dub / 1080p / [Mirrors](https://kickassanimes.info/) / [Discord](https://discord.gg/qduzrvTG6p)
 * ⭐ **[HiAnime](https://hianime.to/)**, [2](https://4anime.gg/), [3](https://kaido.to/), [4](https://9animetv.to/), [5](https://anicrush.to/) - Sub / Dub / 1080p / [Auto-Focus](https://greasyfork.org/en/scripts/464019) / [Discord](https://discord.gg/hianime)
 * ⭐ **[AnimePahe](https://animepahe.ru/)** - Sub / 1080p / [Downloader](https://github.com/KevCui/animepahe-dl)
-* ⭐ **[AllManga](https://allmanga.to/)** - Sub / Dub / 1080p
+* ⭐ **[KickAssAnime](https://kickassanime.mx/)** - Sub / Dub / 1080p / [Mirrors](https://kickassanimes.info/) / [Discord](https://discord.gg/qduzrvTG6p)
+* ⭐ **[AllManga](https://allmanga.to/)** - Sub / Dub / 1080p / [](https://discord.gg/YbuYYUwhpP)
 * ⭐ **[GoGoAnime](https://gogoanime3.co/)**, [2](https://anitaku.to/) - Sub / Dub / 1080p
 * ⭐ **GoGoAnime Tools** - [Mirrors](https://gogotaku.info/) / [Download Script](https://greasyfork.org/en/scripts/465970) / [DL Guide](https://rentry.org/gogodlscript) / [Discord](https://discord.gg/kyVfcGuCCQ)
 * ⭐ **[Japanese Animated Film Classics](https://animation.filmarchives.jp/index.html)** - Japanese Animated Film Archive
@@ -222,10 +222,6 @@
 * [MyRM](https://myrunningman.com/) - My Running Man Episodes / [Discord](https://discord.gg/TpSgC6b)
 * [No-Laughing Batsu Game List](https://redd.it/2fgm9p)
 * [TW Classics](https://twcclassics.com/) - Weather Channel Replays
-* [cytube](https://cytu.be/) - TV / Chat
-* [VaughnLive](https://vaughn.live/browse/misc) - TV / Chat
-* [Baked](https://baked.live/) - TV / Chat
-* [fun.cube](https://funcube.space/) - TV / Chat
 
 ***
 
@@ -396,7 +392,12 @@
 * [SquidTV](https://www.squidtv.net/) - TV
 * [MHD](https://mhdmax.com/) - TV
 * [PhotoCall](https://photocall.xyz/) - TV
-* [TV.Jest](https://tv.jest.one/) - News 
+* [cytube](https://cytu.be/) - Random Streams
+* [VaughnLive](https://vaughn.live/browse/misc) - Random Streams
+* [Baked](https://baked.live/) - Random Streams
+* [fun.cube](https://funcube.space/) - Random Streams
+* [Channel 99](http://www.pracdev.org/channel99/) - Random Streams
+* [TV.Jest](https://tv.jest.one/) - News
 * [SHOWROOM](https://showroom-live.com/) - Live Performance Broadcasts
 * [KCNA](https://kcnawatch.us/korea-central-tv-livestream) - North Korean Live TV 
 * [TitanTV](https://titantv.com/) - Live TV Listings
@@ -418,6 +419,7 @@
 * [1Stream](https://1stream.eu/) - Sports
 * [First Row Sports](https://firstsrowsports.tv/) - Sports
 * [StreamEast](https://streameast.to/) - Sports
+* [KobeStreams](http://watchkobestreams.info/) - Sports / [Discord](https://discord.com/invite/SEmFE8bdtR)
 * [AESports](https://aesport.tv/) - Sports
 * [720pStream](https://720pstream.nu/) - Sports
 * [CrackStreams](https://crackstreams.io/), [2](https://the.crackstreams.me/) - Sports
@@ -521,7 +523,7 @@
 * ⭐ **[Drama Day](https://dramaday.me/)** - Asian Drama / 1080p
 * ⭐ **[Video Download CSE](https://cse.google.com/cse?cx=006516753008110874046:wevn3lkn9rr)** / [CSE 2](https://cse.google.com/cse?cx=89f2dfcea452fc451) / [CSE 3](https://cse.google.com/cse?cx=aab218d0aa53e3578)
 * [DDLBase](https://ddlbase.com/) - Movies / TV / 4K
-* [KatMovieHD](https://katmoviehd.ac/) - Movies / TV / Anime / 1080p / [Telegram](https://t.me/joinchat/TMuzf8VYH7M1YWVh)
+* [KatMovieHD](https://katmoviehd.boo/) - Movies / TV / Anime / 1080p / [Telegram](https://t.me/joinchat/TMuzf8VYH7M1YWVh)
 * [RareLust](https://rarelust.com/) - Rare Movies / NSFW / 1080p
 * [My Duck Is Dead](https://myduckisdead.org/) - Rare Movies / NSFW / 1080p
 * [StagaTV](https://www.stagatv.com/) - Movies / TV / 1080p
@@ -765,8 +767,6 @@
 * [Movie-Map](https://www.movie-map.com/) - Movie Recommendations
 * [GNOD](https://www.gnod.com/) - Movie Recommendations
 * [MovieLens](https://movielens.org/) - Movie Recommendations
-* [LikeWise](https://likewise.com/) - Movie Recommendations
-* [Suggest Me Movie](https://www.suggestmemovie.com/) - Movie Recommendations
 * [agoodmovietowatch](https://agoodmovietowatch.com/) - Movie Recommendations
 * [/r/MovieSuggestions](https://www.reddit.com/r/MovieSuggestions/) - Movie Recommendations
 * [MovieSync](https://movie-sync-app.web.app/) - Movie Recommendations 
@@ -774,7 +774,6 @@
 * [Cinetrii](https://cinetrii.com/) - Discover Movies with Similar Themes
 * [DateNightMovies](https://datenightmovies.com/) - Get Recommendations Based on 2 Movies
 * [Match-a-Movie](https://match-a-movie.com/) - Pick Movies w/ Friends
-* [Random Movies / Series Bookmark Script](https://pastebin.com/PDsm2SSC) - Find Random Movies / Shows
 * [spin.moe](https://spin.moe/) - Find Random Anime
 * [MRQE](https://www.mrqe.com/) - Movie Review Search Engine
 * [TV Chart](https://tvchart.benmiz.com/), [SeriesGraph](https://seriesgraph.com) or [WhatToWatchOn.tv](https://whattowatchon.tv/) - TV Episode Rating Graphs
@@ -782,14 +781,11 @@
 * [What's on Netflix](https://www.whats-on-netflix.com/library/), [uNoGS](https://unogs.com/), [FlixWatch](https://www.flixwatch.co/) or [Flixable](https://flixable.com/) - Browse Netflix Library
 * [Netflix Top 10](https://top10.netflix.com/) - Netflix Most-Watched Chart
 * [Netflix Codes](https://www.netflix-codes.com/) - Netflix Category Codes
-* [FilmFlow](https://meetfebin.com/apps/filmflow) - Emotional Movie Ratings
 * [ReelScary](https://www.reelscary.com/) - Scary Movie Ratings
-* [Film Genre Wiki](https://en.wikipedia.org/wiki/Template:Film_genres) - Movie Genre List
 * [Horror Sub-Genre Guide](https://i.ibb.co/F8Hj3xm/a76eecc33d4c.png) - List of Horror Genres
-* [Based on the Book](https://www.mymcpl.org/books-movies-music/read/based-on-the-book) - List of Movies Based on Books
 * [Find Movie](https://find-movie.info/) or [QuoDB](https://www.quodb.com/) - Movie Quote Databases / Search
 * [SimplyScripts](https://www.simplyscripts.com/), [ScriptSlug](https://www.scriptslug.com/), [Scripts Onscreen](https://scripts-onscreen.com/), [Scripts.com](https://www.scripts.com/), [IMSDB](https://imsdb.com/), [DailyScript](https://www.dailyscript.com/) or [SubsLikeScript](https://subslikescript.com/) - Movie / TV Scripts
-* [MediaTracker](https://github.com/bonukai/MediaTracker), [Ant Movie](https://www.antp.be/software/moviecatalog), [libib](https://www.libib.com/) or [Flox](https://github.com/devfake/flox) - Desktop Media Catalogs
+* [MediaTracker](https://github.com/bonukai/MediaTracker), [Ant Movie](https://www.antp.be/software/moviecatalog) or [Flox](https://github.com/devfake/flox) - Desktop Media Catalogs
 * [Seanime](https://seanime.rahim.app/) - Anime Desktop Catalog
 * [AniTrakt](https://anitrakt.huere.net/) - Trakt / MyAnimeList Sync
 * [cringeMDb](https://cringemdb.com/) - Find Movies Safe to Watch with Parents
@@ -799,8 +795,6 @@
 * [BingeClock](https://www.bingeclock.com/), [Can I Binge?](https://canibinge.com/) or [tiii.me](https://tiii.me/) - TV Show Length Calculators
 * [DramaWiki](https://wiki.d-addicts.com/), [KoreanDrama](https://www.koreandrama.org/) or [HanCinema](https://www.hancinema.net/) - Asian Drama Wikis
 * [MyDramaList](https://mydramalist.com/) - Asian Drama Tracker
-* [MythBank](https://mythbank.com/) - Media Timelines / Watch Orders
-* [MCU Precise Chronological Order](https://i.ibb.co/B4Fcymc/cc70ea1fcbb7.jpg)
 * [watch_order](https://www.reddit.com/r/anime/wiki/watch_order) or [Chiaki](https://chiaki.site/) - Anime Watch Orders
 * [Anime Notifier](https://notify.moe/) - Anime List, Tracker, Database & Notifier 
 * [Tiaga](https://taiga.moe/) - Anime Tracking Program / [GitHub](https://github.com/erengy/taiga)
@@ -815,7 +809,7 @@
 * [Releases.com](https://www.releases.com/) or [DVDReleaseDates](https://www.dvdsreleasedates.com/) - DVD / Blu-ray Release Dates
 * [TVTropes](https://tvtropes.org/) - TV Tropes Wiki
 * [Bechdel Test](https://bechdeltest.com/ ) - Movie Bechdel Test Check
-* [MovieMap](http://www.themoviemap.com/), [Movie-Locations](https://www.movie-locations.com/), [MovieLoci](https://www.movieloci.com/), [AtlasOfWonders](https://www.atlasofwonders.com/), [WhereDidTheyFilmThat](https://www.wheredidtheyfilmthat.co.uk/) - Film Location Maps
+* [Movie-Locations](https://www.movie-locations.com/), [MovieLoci](https://www.movieloci.com/), [AtlasOfWonders](https://www.atlasofwonders.com/), [WhereDidTheyFilmThat](https://www.wheredidtheyfilmthat.co.uk/) - Film Location Maps
 
 ***
 
@@ -823,14 +817,13 @@
 
 * 🌐 **[elSubtitle](https://www.elsubtitle.com/)** or [Subtitle Tools](https://subtitletools.com/) - Subtitle Tools
 * ⭐ **[Open Subtitles](https://opensubtitles.org/)** - Subtitles
-* ⭐ **[Subscene](https://subscene.com/)** - Subtitles
 * ⭐ **[Addic7ed](https://www.addic7ed.com/)** - Subtitles / [Frontend](https://www.gestdown.info/)
+* ⭐ **[SubDL](https://subdl.com/)** - Subtitles
 * ⭐ **[Substital](https://substital.com/)** or [Movie-Subtitles](https://github.com/gignupg/Movie-Subtitles) - External Subtitle Extensions
 * ⭐ **[Subtitle Edit](https://www.nikse.dk/SubtitleEdit/Online)**, [DST](https://www.syedgakbar.com/projects/dst), [Aegisub](https://aegisub.org/), [Subtitle Workshop](https://www.uruworks.net/), [Jubler Subtitle](https://www.jubler.org/), [DivXLand Subtitler](https://www.andreszsogon.com/divxland-media-subtitler/) or [Subtitld](https://subtitld.org/) - Subtitle Editor
 * [Penguin](https://github.com/carsonip/Penguin-Subtitle-Player) - External Subs Players
 * [Subsearch](https://github.com/vagabondHustler/subsearch) - Subtitle Search Tools
 * [Subtitle Cat](https://www.subtitlecat.com/) - Subtitles
-* [SubDL](https://subdl.com/) - Subtitles
 * [Podnapisi](https://www.podnapisi.net/) - Subtitles
 * [opensubtitles.com](https://www.opensubtitles.com/) - Subtitles
 * [Subs4Free](https://www.subs4free.info/) - Subtitles 
@@ -851,7 +844,7 @@
 * [YTSubConverter](https://github.com/arcusmaximus/YTSubConverter) - Styled YouTube Subtitles
 * [Twitch TV OBS Subtitles](https://github.com/stephenlb/twitch-tv-obs-subtitles/) - Add Subtitles to Twitch Stream
 * [Bazarr](https://www.bazarr.media/) - Auto-Download Subtitles 
-* [SubDownloader](https://subdownloader.net/) or [Subscene-Subtitle-Grabber](https://github.com/RafayGhafoor/Subscene-Subtitle-Grabber) - Subtitle Downloader
+* [SubDownloader](https://subdownloader.net/) - Subtitle Downloader
 * [Subliminal](https://subliminal.readthedocs.io/), [SubtitleBOX](https://github.com/sameera-madushan/SubtitleBOX) or [Subtitle-Downloader](https://github.com/manojmj92/subtitle-downloader) - Python Download Script
 * [Sub-Zero](https://github.com/pannal/Sub-Zero.bundle) - Plex Subtitles
 * [Adjust Subs Like a Pro](https://graph.org/Adjust-subtitles-in-seconds-like-a-pro-07-17) - Subtitle Syncing Guide
