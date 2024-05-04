@@ -617,7 +617,7 @@
 
 ## ▷ Resume Makers
 
-* ⭐ **[RX Resume](https://rxresu.me/)** - Resume maker 
+* ⭐ **[RX Resume](https://rxresu.me/)** - Resume maker / [GitHub](https://github.com/amruthpillai/reactive-resume)
 * ⭐ **[CareerCup](https://www.careercup.com/resume)** - Resume / Cover Letter Guide
 * ⭐ **[KickResume](https://www.kickresume.com/en/help-center/resume-samples/)** or [ThisResumeDoesNotExist](https://thisresumedoesnotexist.com/) - Resume Samples
 * [ResumeMatcher](https://www.resumematcher.fyi/)
