@@ -336,7 +336,7 @@
 * [ComicEater](https://github.com/kanjieater/ComicEater) - Comic Archiving Tools
 * [Omnibus](https://github.com/fireshaper/Omnibus), [Comics Downloader](https://github.com/Girbons/comics-downloader), [mylar3](https://github.com/mylar3/mylar3), [Comic-DL](https://github.com/Xonshiz/comic-dl) - Comic Downloaders
 * [Tapastic Comic Downloader](https://github.com/TilCreator/Tapas-Comic-Downloader) - Tapas Comics Downloader
-* [Cover](https://frenchfrysoftware.com/cover/), [Komikku](https://gitlab.com/valos/Komikku), [MComix](https://sourceforge.net/projects/mcomix/), [CBR Reader](https://www.cdisplayex.com/), [comic-book-reader](https://github.com/binarynonsense/comic-book-reader), [OpenComic](https://github.com/ollm/OpenComic) or [YACReader](https://yacreader.com/) - Readers / Managers
+* [Cover](https://frenchfrysoftware.com/cover/), [Komikku](https://gitlab.com/valos/Komikku), [MComix](https://sourceforge.net/projects/mcomix/), [CBR Reader](https://www.cdisplayex.com/), [Stump](https://www.stumpapp.dev/), [comic-book-reader](https://github.com/binarynonsense/comic-book-reader), [OpenComic](https://github.com/ollm/OpenComic) or [YACReader](https://yacreader.com/) - Readers / Managers
 * [Free Dark Horse Digital Comics](https://digital.darkhorse.com/pages/free)
 * [ComicFury](https://comicfury.com/) - User-Made Comics
 * [Webcomix](https://github.com/J-CPelletier/webcomix) - Webcomics Downloader
@@ -971,6 +971,7 @@
 * [MD2PDF](https://md2pdf.netlify.app/) - Markdown to PDF Converter
 * [AudioBookConverter](https://github.com/yermak/AudioBookConverter) - Audiobook Converter
 * [Audible Tools](https://audible-tools.kamsker.at/), [AaxAudioConverter](https://github.com/audiamus/AaxAudioConverter) or [Libation](https://getlibation.com/) - Remove DRM from Audible Audiobooks
+* [Remove Kindle DRM](https://itsfoss.com/calibre-remove-drm-kindle/) - Remove DRM from Kindle
 * [Libby](https://libbyapp.com/) - Library Search / [Downloader](https://github.com/bookbonobo/libby-download-extension)
 * [How-to Get Library Card Online](https://rentry.co/9b3vdo)
 * [BookInfo](https://lordgnomembe.github.io/BookInfo/) - Get Book Info via ISBN
