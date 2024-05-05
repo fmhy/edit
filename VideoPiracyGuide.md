@@ -703,10 +703,17 @@
 
 # ► Tracking / Discovery
 
-* 🌐 **[Movie Recs](https://rentry.co/MovieRecs)** - Movie Recommendation Sites / Tools
 * ⭐ **[FlixMetrix](https://flickmetrix.com/)** - Combine IMDb, Rotten Tomatoes & Letterboxd Ratings
+* ⭐ **[RatingsGraph](https://www.ratingraph.com/)** - Movie / TV Ratings Graphs
+* ⭐ **[RatS](https://github.com/StegSchreck/RatS)** - Transfer Ratings between Services
+* [TV Chart](https://tvchart.benmiz.com/), [SeriesGraph](https://seriesgraph.com) or [WhatToWatchOn.tv](https://whattowatchon.tv/) - TV Episode Rating Graphs
+
+***
+
+## ▷ Database / Tracking
+
 * ⭐ **[Trakt](https://trakt.tv/)** - TV / Anime / Movies
-* ⭐ **Trakt Tools** - [Apps](https://trakt.tv/apps) / [Universal Scrobble](https://github.com/trakt-tools/universal-trakt-scrobbler) / [Duplicate Remover](https://huere.net/trakt/duplicate_removal/) / [Create Lists](https://listrr.pro/)
+* ⭐ **Trakt Tools** - [Apps](https://trakt.tv/apps) / [Universal Scrobble](https://github.com/trakt-tools/universal-trakt-scrobbler) / [Duplicate Remover](https://huere.net/trakt/duplicate_removal/) / [Create Lists](https://listrr.pro/) / [Anilist Sync](https://anitrakt.huere.net/)
 * ⭐ **[Letterboxd](https://letterboxd.com/)** - Movies
 * ⭐ **Letterboxd Tools** - [Multi Tool](https://www.letterboxd.tools/) / [Shortcuts](https://github.com/alandours/letterboxd-shortcuts) / [Watchlist Picker](https://watchlistpicker.com/) / [Collections](https://mrdys.github.io/letterboxd-completionist/)
 * ⭐ **[ICheckMovies](https://www.icheckmovies.com/)** - Movies / List Database / [Enhanced](https://greasyfork.org/en/scripts/11541-icheckmovies-enhanced)
@@ -715,48 +722,42 @@
 * ⭐ **[AniList](https://anilist.co/)** - Anime
 * ⭐ **AniList Tools** - [Desktop](https://github.com/CosmicPredator/AniMoe) / [Wrapper](https://github.com/AurelicButter/AniList-Node) / [Extras](https://greasyfork.org/en/scripts/370473-automail) / [MPV Sync](https://github.com/hotsno/keroro) / [Discord](https://discord.com/invite/TF428cr)
 * ⭐ **[Simkl](https://simkl.com/)** - TV / Anime / Movies / [Apps](https://simkl.com/apps/) / [Import Tools](https://simkl.com/apps/import/)
-* ⭐ **[/r/ifyoulikeblank](https://www.reddit.com/r/ifyoulikeblank/)** - Movie, TV & Anime Recommendations
-* ⭐ **[TasteDive](https://tastedive.com/)** - Recommendations
-* ⭐ **[DeepSearch](https://deepsearch.mycelebs.com/movie)**, [WhatsatMovie](https://whatsatmovie.com/) or [What is My Movie?](https://www.whatismymovie.com/) - Find Movies via Descriptions
-* ⭐ **[RatingsGraph](https://www.ratingraph.com/)** - Movie / TV Ratings Graphs
-* ⭐ **[RatS](https://github.com/StegSchreck/RatS)** - Transfer Ratings between Services
-* [TV Countdown](https://countdown.tv/) : Live Countdown of upcoming TV Shows episode releases with notification alerts
-* [Movie Countdown](https://moviescountdown.com/)  : Live Countdown of upcoming Films, Streaming, DVD releases with notification alerts
-* [Drama Countdown](https://dramacountdown.com/) : : Live Countdown of upcoming Asian Dramas like Kdrama, CDramas, and other episode releases with notification alerts
-* [TrailerPunk](https://trailerpunk.com/) - Newest Movie Trailers
-* [Rec Charts](https://mega.nz/folder/kj5hWI6J#0cyw0-ZdvZKOJW3fPI6RfQ) - Movie / TV / Anime Recommendation Guides
 * [IMDb](https://www.imdb.com/) - Movies / TV / Anime / [Advanced Search](https://www.imdb.com/search/)
 * [IMDb Tomatoes](https://greasyfork.org/en/scripts/15222-imdb-tomatoes) - Rotten Tomatoes Ratings on IMDb
 * [Rotten Tomatoes](https://www.rottentomatoes.com/) - Movies / TV
 * [TMDb](https://www.themoviedb.org/) - Movies / TV / Anime
-* [5000 Best](http://5000best.com/movies/) - 5000 Best Movies
 * [TVDb](https://www.thetvdb.com/) - TV / Anime
-* [TVMaze](https://www.tvmaze.com/), [serializd](https://www.serializd.com/) or [watched](https://watched.li/) - TV / Anime
+* [MetaCritic](https://www.metacritic.com/) - Movies / TV / Anime
+* [rate.house](https://rate.house/) - Media Tracker
+* [serializd](https://www.serializd.com/) - TV / Anime
+* [Movieo](https://movieo.me/) - Movies / TV / Anime
+* [AllMovie](https://www.allmovie.com/) - Movies / TV / Anime
+* [Anime-Planet](https://www.anime-planet.com/) - Anime 
+* [Kitsu](https://kitsu.io/) - Anime
+* [Anisearch](https://www.anisearch.com/) - Anime
+* [AniDB](https://anidb.net/) - Anime
+* [ACDB](https://www.animecharactersdatabase.com/) - Anime Character Database
+* [Box Office Mojo](https://www.boxofficemojo.com/) - Box Office Earnings
+* [MyDramaList](https://mydramalist.com/) - Asian Drama Tracker
 * [GCDb](https://www.grindhousedatabase.com/) - Grindhouse Cinema
 * [Class Real](https://www.classreal.com/) - Weird / Trippy Movies
 * [FFCritic](https://foundfootagecritic.com/) - Found Footage
 * [Spaghetti Western Database](https://www.spaghetti-western.net/index.php/Main_Page) - Spaghetti Western
 * [HKMDB](https://hkmdb.com/db/index.php) - Hong Kong Movies
+* [MediaTracker](https://github.com/bonukai/MediaTracker) - Self-Hosted Tracker
+* [Tiaga](https://taiga.moe/) - Anime Tracking Program
+
+***
+
+## ▷ Recommendations
+
+* 🌐 **[Movie Recs](https://rentry.co/MovieRecs)** - Movie Recommendation Sites / Tools
+* ⭐ **[/r/ifyoulikeblank](https://www.reddit.com/r/ifyoulikeblank/)** - Movie, TV & Anime Recommendations
+* ⭐ **[TasteDive](https://tastedive.com/)** - Recommendations
+* [Rec Charts](https://mega.nz/folder/kj5hWI6J#0cyw0-ZdvZKOJW3fPI6RfQ) - Movie / TV / Anime Recommendation Guides
 * [listal](https://www.listal.com/) - Movies / TV
-* [My Episodes](https://www.myepisodes.com/) - TV
-* [Movieo](https://movieo.me/) - Movies / TV / Anime
-* [AllMovie](https://www.allmovie.com/) - Movies / TV / Anime
-* [Your Countdown To](https://yourcountdown.to/) = Countdown for all Movies, TV Shows, Anime, Video Games and everything
-* [Episode Calendar](https://episodecalendar.com/) or [Next Episode](https://next-episode.net/) - TV Schedules / [Torrent Links](https://greasyfork.org/en/scripts/27367)
-* [dunno](https://m-dunno.netlify.app/) - Movies / TV
-* [showRSS](https://showrss.info/) - RSS / TV
-* [AniChart](https://anichart.net), [Monthly](https://www.monthly.moe/), [AnimeSchedule](https://animeschedule.net/), [Anica](https://anica.jp/), [AnimeCountdown](https://animecountdown.com/), [Senpai](https://www.senpai.moe/) or [LiveChart](https://www.livechart.me/) - Anime Release Charts
-* [Anime-Planet](https://www.anime-planet.com/) - Anime 
-* [Kitsu](https://kitsu.io/) - Anime
-* [Anisearch](https://www.anisearch.com/) - Anime
-* [AniDB](https://anidb.net/) - Anime
 * [RelatedAnime](https://relatedanime.com/) - Related Anime Index
-* [Animender](https://discord.gg/h6nTTprMKd), [AnimeStats](https://anime-stats.net/), [AnimeKarmaList](https://animekarmalist.com/), [Sprout](https://anime.ameo.dev/) or [AniBrain](https://anibrain.ai/) - Anime Recommendations
-* [ACDB](https://www.animecharactersdatabase.com/) - Anime Character Database
-* [MetaCritic](https://www.metacritic.com/) - Movies / TV / Anime
-* [rate.house](https://rate.house/) - Media Tracker
-* [FlickChart](https://www.flickchart.com/) - Rank your movies
-* [Box Office Mojo](https://www.boxofficemojo.com/) - Box Office Earnings
+* [AnimeStats](https://anime-stats.net/), [AnimeKarmaList](https://animekarmalist.com/), [Sprout](https://anime.ameo.dev/) or [AniBrain](https://anibrain.ai/) - Anime Recommendations
 * [Autum](https://autum.com/) - Movie / TV Recommendations
 * [BestSimilar](https://bestsimilar.com/) - Movie Recommendations
 * [Taste.io](https://www.taste.io/) - Movie Recommendations
@@ -770,42 +771,28 @@
 * [Cinetrii](https://cinetrii.com/) - Discover Movies with Similar Themes
 * [DateNightMovies](https://datenightmovies.com/) - Get Recommendations Based on 2 Movies
 * [Match-a-Movie](https://match-a-movie.com/) - Pick Movies w/ Friends
-* [spin.moe](https://spin.moe/) - Find Random Anime
 * [MRQE](https://www.mrqe.com/) - Movie Review Search Engine
-* [TV Chart](https://tvchart.benmiz.com/), [SeriesGraph](https://seriesgraph.com) or [WhatToWatchOn.tv](https://whattowatchon.tv/) - TV Episode Rating Graphs
 * [DigitalDreamDoor](https://digitaldreamdoor.com/) - Greatest 100 Lists
-* [What's on Netflix](https://www.whats-on-netflix.com/library/), [uNoGS](https://unogs.com/), [FlixWatch](https://www.flixwatch.co/) or [Flixable](https://flixable.com/) - Browse Netflix Library
-* [Netflix Top 10](https://top10.netflix.com/) - Netflix Most-Watched Chart
-* [Netflix Codes](https://www.netflix-codes.com/) - Netflix Category Codes
 * [ReelScary](https://www.reelscary.com/) - Scary Movie Ratings
-* [Horror Sub-Genre Guide](https://i.ibb.co/F8Hj3xm/a76eecc33d4c.png) - List of Horror Genres
-* [Find Movie](https://find-movie.info/) or [QuoDB](https://www.quodb.com/) - Movie Quote Databases / Search
-* [SimplyScripts](https://www.simplyscripts.com/), [ScriptSlug](https://www.scriptslug.com/), [Scripts Onscreen](https://scripts-onscreen.com/), [Scripts.com](https://www.scripts.com/), [IMSDB](https://imsdb.com/), [DailyScript](https://www.dailyscript.com/) or [SubsLikeScript](https://subslikescript.com/) - Movie / TV Scripts
-* [MediaTracker](https://github.com/bonukai/MediaTracker), [Ant Movie](https://www.antp.be/software/moviecatalog) or [Flox](https://github.com/devfake/flox) - Desktop Media Catalogs
-* [Seanime](https://seanime.rahim.app/) - Anime Desktop Catalog
-* [AniTrakt](https://anitrakt.huere.net/) - Trakt / MyAnimeList Sync
 * [cringeMDb](https://cringemdb.com/) - Find Movies Safe to Watch with Parents
 * [Age Rating JuJu](https://www.ageratingjuju.com/) - Media Age Ratings
 * [CommonSenseMedia](https://www.commonsensemedia.org/) or [Kids in Mind](https://kids-in-mind.com/) - Age-Based Media Reviews
-* [unconsenting media](https://www.unconsentingmedia.org) - Database of Sexual Violence in Movies/Shows
-* [BingeClock](https://www.bingeclock.com/), [Can I Binge?](https://canibinge.com/) or [tiii.me](https://tiii.me/) - TV Show Length Calculators
-* [DramaWiki](https://wiki.d-addicts.com/), [KoreanDrama](https://www.koreandrama.org/) or [HanCinema](https://www.hancinema.net/) - Asian Drama Wikis
-* [MyDramaList](https://mydramalist.com/) - Asian Drama Tracker
-* [watch_order](https://www.reddit.com/r/anime/wiki/watch_order) or [Chiaki](https://chiaki.site/) - Anime Watch Orders
-* [Anime Notifier](https://notify.moe/) - Anime List, Tracker, Database & Notifier 
-* [Tiaga](https://taiga.moe/) - Anime Tracking Program / [GitHub](https://github.com/erengy/taiga)
-* [arm-server](https://github.com/BeeeQueue/arm-server) - Map Anime ID's between AniList, AniDB, MAL & Kitsu 
-* [IAD](https://www.intanibase.com/) - Animated Media Database
-* [Behind the Voice Actors](https://www.behindthevoiceactors.com/) - Voice Actors Database
-* [Movie-Censorship](https://www.movie-censorship.com/) - Compare Alternate Versions of Media
-* [Internet Movie Cars Database](https://www.imcdb.org/) - Movie Vehicle Database
-* [Starring the Computer](https://www.starringthecomputer.com/) - Movie Computer Database / [Discord](https://discord.com/invite/6NbTfHEtgQ)
-* [IMFDB](https://www.imfdb.org/) - Movie Firearms Database / [Discord](https://discord.com/invite/FDHEkQ6szt)
-* [ProductPlacementBlog](https://productplacementblog.com/) - Product Placement Database
+* [What's on Netflix](https://www.whats-on-netflix.com/library/), [uNoGS](https://unogs.com/), [FlixWatch](https://www.flixwatch.co/) or [Flixable](https://flixable.com/) - Browse Netflix Library
+* [Netflix Top 10](https://top10.netflix.com/) - Netflix Most-Watched Chart
+
+***
+
+## ▷ Calender / Upcoming
+
+* ⭐ **[Your Countdown To](https://yourcountdown.to/)** - Countdown for Movies / TV / Anime / Video Games
+* [Movie Countdown](https://moviescountdown.com/) - Countdown for Upcoming Movies / [TV](https://countdown.tv/) / [Drama](https://dramacountdown.com/)
+* [TrailerPunk](https://trailerpunk.com/) - Newest Movie Trailers
+* [TVMaze](https://www.tvmaze.com/) - TV / Anime
+* [My Episodes](https://www.myepisodes.com/) - TV
+* [Episode Calendar](https://episodecalendar.com/) or [Next Episode](https://next-episode.net/) - TV Schedules / [Torrent Links](https://greasyfork.org/en/scripts/27367)
+* [AniChart](https://anichart.net), [Monthly](https://www.monthly.moe/), [AnimeSchedule](https://animeschedule.net/), [Anica](https://anica.jp/), [AnimeCountdown](https://animecountdown.com/), [Senpai](https://www.senpai.moe/) or [LiveChart](https://www.livechart.me/) - Anime Release Charts
 * [Releases.com](https://www.releases.com/) or [DVDReleaseDates](https://www.dvdsreleasedates.com/) - DVD / Blu-ray Release Dates
-* [TVTropes](https://tvtropes.org/) - TV Tropes Wiki
-* [Bechdel Test](https://bechdeltest.com/ ) - Movie Bechdel Test Check
-* [Movie-Locations](https://www.movie-locations.com/), [MovieLoci](https://www.movieloci.com/), [AtlasOfWonders](https://www.atlasofwonders.com/), [WhereDidTheyFilmThat](https://www.wheredidtheyfilmthat.co.uk/) - Film Location Maps
+* [showRSS](https://showrss.info/) - RSS / TV
 
 ***
 
@@ -874,14 +861,25 @@
 * ↪️ **[Media Soundtracks](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/audio#wiki_.25BA_media_soundtracks)**
 * ↪️ **[File Data Automation](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/file-tools#wiki_.25B7_data_automation)**
 * ⭐ **[FastStream](https://github.com/Andrews54757/FastStream/)** - Fragmentation Streaming Extension
+* ⭐ **[DeepSearch](https://deepsearch.mycelebs.com/movie)**, [WhatsatMovie](https://whatsatmovie.com/) or [What is My Movie?](https://www.whatismymovie.com/) - Find Movies via Descriptions
 * ⭐ **[OpenVideo](https://openvideofs.github.io)** or [Stream-Bypass](https://github.com/ByteDream/stream-bypass) - Use Streaming Sites in Ad Free Player w/ subs, Speed Control & More
 * ⭐ **[WhereYouWatch](https://whereyouwatch.com/latest-reports/)**, [Movie Updates](https://play.google.com/store/apps/details?id=com.tashila.movieupdates) or [/r/movieleaks](https://reddit.com/r/movieleaks) - Movie Leak Notifications
 * ⭐ **[Quality / Release Type Guide](https://www.reddit.com/r/Piracy/wiki/guides/video_quality_and_types_of_releases)** - Video Quality / Release Type Guide / [Streaming Site Guide](https://redd.it/yykvnv)
 * ⭐ **[Release Group Qualities](https://docs.google.com/spreadsheets/u/0/d/1xz5zqrBumfMtLGA4VMt1VtOyh-47HDTv_swIYktX6AQ/htmlview)** - Movie / TV Release Group Quality Indexes
+* [TVTropes](https://tvtropes.org/) - TV Tropes Wiki
+* [FlickChart](https://www.flickchart.com/) - Rank your movies
+* [Find Movie](https://find-movie.info/) or [QuoDB](https://www.quodb.com/) - Movie Quote Databases / Search
+* [SimplyScripts](https://www.simplyscripts.com/), [ScriptSlug](https://www.scriptslug.com/), [Scripts Onscreen](https://scripts-onscreen.com/), [Scripts.com](https://www.scripts.com/), [IMSDB](https://imsdb.com/), [DailyScript](https://www.dailyscript.com/) or [SubsLikeScript](https://subslikescript.com/) - Movie / TV Scripts
 * [Media Stack DIY](http://tennojim.xyz/article/media_stack_diy) - High Quality Streaming Guide
 * [/r/SceneReleases](https://www.reddit.com/r/SceneReleases/) - Untouched Scene Release Tracker
 * [RunPee](https://runpee.com/) - Best Movie Break Times
 * [HowDoesTheMovieEnd](http://www.howdoesthemovieend.com/), [MoviePooper](https://moviepooper.com/), [themoviespoiler](https://themoviespoiler.com/) or [DoesTheDogDie](https://www.doesthedogdie.com/) - Movie Spoilers
+* [Behind the Voice Actors](https://www.behindthevoiceactors.com/) - Voice Actors Database
+* [Movie-Censorship](https://www.movie-censorship.com/) - Compare Alternate Versions of Media
+* [Internet Movie Cars Database](https://www.imcdb.org/) - Movie Vehicle Database
+* [Starring the Computer](https://www.starringthecomputer.com/) - Movie Computer Database / [Discord](https://discord.com/invite/6NbTfHEtgQ)
+* [IMFDB](https://www.imfdb.org/) - Movie Firearms Database / [Discord](https://discord.com/invite/FDHEkQ6szt)
+* [ProductPlacementBlog](https://productplacementblog.com/) - Product Placement Database
 * [WheresTheJump?](https://wheresthejump.com/) - Find Movie Jump Scares
 * [DMT](https://dmtalkies.com/) - Movies / TV Ending Explanations and Recaps
 * [IsThisDubbed?](https://isthisdubbed.com/) - Check if an Anime is Dubbed
@@ -889,5 +887,11 @@
 * [Anime Skip](https://anime-skip.com/) - Auto Skip Anime Intros
 * [trace.moe](https://trace.moe/) - Anime Scene Reverse Image Search
 * [Anilinks](https://anilinks.neocities.org/) - Anime Related Site Index
+* [watch_order](https://www.reddit.com/r/anime/wiki/watch_order) or [Chiaki](https://chiaki.site/) - Anime Watch Orders
 * [Spoiler Protection 2.0](https://spoilerprotection.wecdev.com/) - Keyword / Spoiler Blocker
+* [unconsenting media](https://www.unconsentingmedia.org) - Database of Sexual Violence in Movies/Shows
+* [Bechdel Test](https://bechdeltest.com/ ) - Movie Bechdel Test Check
+* [Movie-Locations](https://www.movie-locations.com/), [MovieLoci](https://www.movieloci.com/), [AtlasOfWonders](https://www.atlasofwonders.com/), [WhereDidTheyFilmThat](https://www.wheredidtheyfilmthat.co.uk/) - Film Location Maps
+* [BingeClock](https://www.bingeclock.com/), [Can I Binge?](https://canibinge.com/) or [tiii.me](https://tiii.me/) - TV Show Length Calculators
+* [DramaWiki](https://wiki.d-addicts.com/), [KoreanDrama](https://www.koreandrama.org/) or [HanCinema](https://www.hancinema.net/) - Asian Drama Wikis
 * [Sprocket School](https://www.sprocketschool.org/) - Film Exhibition Wiki
