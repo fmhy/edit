@@ -585,6 +585,7 @@
 * [Pattern Radio](https://patternradio.withgoogle.com/) - Listen to Whale Songs
 * [EuroBirdPortal](https://www.eurobirdportal.org/) - European Bird Distribution Map
 * [BirdSounds](https://experiments.withgoogle.com/ai/bird-sounds/view/) - Thousands of Bird Sounds Visualized
+* [Merlin](https://play.google.com/store/apps/details?id=com.labs.merlinbirdid.app) - Bird Picture / Sound Identification
 * [BugGuide](https://bugguide.net/) - Insect Identification Community
 * [AntWeb](https://www.antweb.org/) - Ant Species Database
 * [Macroinvertebrates](https://www.macroinvertebrates.org/) - Freshwater Macroinvertebrates Atlas
@@ -713,7 +714,7 @@
 * ⭐ **[Animelon](https://animelon.com/)** - Learn Japanese with Anime
 * [Minato](https://minato-jf.jp/) - Japanese Courses
 * [JapaneseTab](https://github.com/Anupya/JapaneseTab) - Japanese Learning Extension
-* [LearnNatively](https://learnnatively.com/) - Learn Japanese via Media
+* [Supernative](https://supernative.tv/) or [LearnNatively](https://learnnatively.com/) - Learn Japanese via Media
 * [jidoujisho](https://github.com/lrorpilla/jidoujisho) or [Manabi](https://reader.manabi.io/) - Learn Japanese via Books
 * [HayaiLearn](https://www.hayailearn.com/) - Learn Japanese via YouTube
 * [Memento](https://ripose-jp.github.io/Memento/) - Japanese Learning Video Player
