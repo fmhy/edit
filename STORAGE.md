@@ -976,6 +976,7 @@
 ## Survival
 
 * ⭐ **[Survivor Library](https://www.survivorlibrary.com/)**
+* ⭐ **[Primitive Technology](https://youtube.com/@primitivetechnology9550?si=NClgkWZP5Q3L_p_W)**
 * [SurvivalManual](https://ligi.de/) / [GitHub](https://github.com/ligi/SurvivalManual)
 * [PrepperCollective](https://t.me/PrepperCollective) / [Index](https://t.me/PrepperCollectiveIndex)
 
