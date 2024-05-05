@@ -116,7 +116,7 @@ Use this [browser extension](https://github.com/bpc-clone/bpc_updates/releases) 
 
 ### Streaming
 
-**[Binged](https://binged.live/) / [NunFlix](https://nunflix.com/) / [Braflix](https://www.braflix.video/) / [watch.lonelil](https://watch.lonelil.ru/) / [FMovies](https://fmoviesz.to/) / [movie-web](https://erynith.github.io/movie-web-instances/) + [Stream Fix](https://docs.sudo-flix.lol/extension)** - Fast movie / TV streaming
+**[movie-web](https://erynith.github.io/movie-web-instances/) + [Stream Fix](https://docs.sudo-flix.lol/extension) / [NunFlix](https://nunflix.com/) / [Binged](https://binged.live/) / [Braflix](https://www.braflix.video/) / [watch.lonelil](https://watch.lonelil.ru/) / [FMovies](https://fmoviesz.to/)** - Fast movie / TV streaming
 **[HiAnime](https://hianime.to/)** - Fast anime streaming
 **[Dramacool](https://dramacool.cy/)** - Fast Asian drama streaming
 **[SportsSurge](https://sportsurge.net/)** - Live sports streaming
