@@ -219,6 +219,7 @@
 * [Desklamp](https://desklamp.io/) - Reading / Note Taking / Highlighting Tool / [Guide](https://app.desklamp.io/read?id=46b203c6-d8df-453d-b546-95a8fa7a44b9&mode=explore)
 * [Calculist](https://calculist.io/) - Note-Taking for Problem-Solving
 * [EncryptPad](https://evpo.net/encryptpad/) - Encrypted Text Editor
+* [NotebookLM](https://notebooklm.google/) - AI Notes App
 * [Xournal++](https://xournalpp.github.io/) / [GitHub](https://github.com/xournalpp/xournalpp)
 * [Notepads](https://www.notepadsapp.com/)
 * [MicroPad](https://getmicropad.com/)
