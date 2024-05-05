@@ -420,6 +420,7 @@
 * [PSDLY](https://www.psdly.com/)
 * [Heroturko](https://heroturko1.com/)
 * [CGArchives](https://cgarchives.com/)
+* [CGPlugin](https://t.me/s/cgplugin)
 * [SearchGFX](https://searchgfx.com/)
 * [Quasual](https://m.vk.com/quasual)
 * [designersgan9](https://m.vk.com/designersgan9)
