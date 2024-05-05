@@ -32,7 +32,7 @@
 * [AnswersOverflow](https://www.answeroverflow.com/) - Discord Search Engine
 * [DiscordFS](https://github.com/dhrumilp15/haystackfs) - Discord File Search
 * [Discord Downloader Go](https://github.com/get-got/discord-downloader-go) - Discord File Downloader
-* [Discord-Avatar](https://discord-avatar.com/) or [Toolscord](https://toolscord.com/) - Download Discord Avatars
+* [Toolscord](https://toolscord.com/) - Download Discord Avatars
 * [Disbox](https://disboxapp.github.io/web/) - Discord Cloud Storage
 * [Discord Chat Exporter](https://github.com/Tyrrrz/DiscordChatExporter) / [Python](https://github.com/mahtoid/DiscordChatExporterPy) or [Discord History Tracker](https://dht.chylex.com/) / [GitHub](https://github.com/chylex/Discord-History-Tracker) - Archive / Export Discord Chats
 * [Dumpus](https://dumpus.app/) - Discord Data Package Explorer
@@ -631,7 +631,7 @@
 * [SaveFromWeb](https://www.savefromweb.com/), [Downloadgram](https://downloadgram.org/) - Video / Picture / Story Downloaders 
 * [Picnob](https://www.picnob.com/) or [Instagram PHP Scraper](https://github.com/postaddictme/instagram-php-scraper) - Picture / Story Downloaders
 * [ThumbTube](https://thumbtube.com/download-instagram-photos-videos) or [scraper-instagram-gui-desktop](https://git.kaki87.net/KaKi87/scraper-instagram-gui-desktop), [Instaloader](https://github.com/instaloader/instaloader) or [instapick](https://www.instapick.net/) - Picture / Video Downloader
-* [InstaLoader](https://instaloader.github.io/) - Picture Downloader
+* [InstaLoader](https://instaloader.github.io/) or [PixWox](https://www.pixwox.com/) - Picture Downloaders
 * [Weynstag](https://www.google.com/amp/s/weynstag.com/amp.php/) - Video Downloader
 * [Resizegram](https://resizegram.com/) - Resize Videos
 * [Instagram Video Control](https://github.com/Arcus92/instagram-video-control/) - Video Controls
