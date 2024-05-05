@@ -699,6 +699,7 @@
 * ⭐ **[CachedView](https://cachedview.nl/)** or [Quick Cache](https://cybdetective.com/quickcacheandarhivesearch.html) - Aggregate Cache Results
 * [ArchiveTeam](https://wiki.archiveteam.org/index.php/Main_Page) - Archive Projects
 * [Perma.cc](https://perma.cc/) - Create Permalinks
+* [Ghost Archive](https://ghostarchive.org/) or [Web Gyotaku](https://megalodon.jp/) - Archive Twitter Threads
 
 ## ▷ Web Archiving Tools
 
