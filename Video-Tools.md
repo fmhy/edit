@@ -238,6 +238,7 @@
 * [WatchIt](https://github.com/ZorrillosDev/watchit-app) - Media Server
 * [SimpleDLNA](https://nmaier.github.io/simpleDLNA/) - Media Server
 * [Chocolate](https://github.com/ChocolateApp/Chocolate) - Media Server
+* [SeaAnime](https://seanime.rahim.app/) - Anime Server
 * [Frames](https://github.com/Eleven-am/frames) - GDrive Server
 * [ErsatzTV](https://ersatztv.org/) or [dizqueTV](https://github.com/vexorian/dizquetv) - Live Channel Media Servers
 * [YTDL-Sub](https://ytdl-sub.readthedocs.io/) - Add YouTube Channels to Media Servers
