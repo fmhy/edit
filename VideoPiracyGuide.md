@@ -703,10 +703,8 @@
 
 # ► Tracking / Discovery
 
-* ⭐ **[FlixMetrix](https://flickmetrix.com/)** - Combine IMDb, Rotten Tomatoes & Letterboxd Ratings
-* ⭐ **[RatingsGraph](https://www.ratingraph.com/)** - Movie / TV Ratings Graphs
-* ⭐ **[RatS](https://github.com/StegSchreck/RatS)** - Transfer Ratings between Services
-* [TV Chart](https://tvchart.benmiz.com/), [SeriesGraph](https://seriesgraph.com) or [WhatToWatchOn.tv](https://whattowatchon.tv/) - TV Episode Rating Graphs
+
+
 
 ***
 
@@ -717,6 +715,8 @@
 * ⭐ **[Letterboxd](https://letterboxd.com/)** - Movies
 * ⭐ **Letterboxd Tools** - [Multi Tool](https://www.letterboxd.tools/) / [Shortcuts](https://github.com/alandours/letterboxd-shortcuts) / [Watchlist Picker](https://watchlistpicker.com/) / [Collections](https://mrdys.github.io/letterboxd-completionist/)
 * ⭐ **[ICheckMovies](https://www.icheckmovies.com/)** - Movies / List Database / [Enhanced](https://greasyfork.org/en/scripts/11541-icheckmovies-enhanced)
+* ⭐ **[FlixMetrix](https://flickmetrix.com/)** - Combine IMDb, Rotten Tomatoes & Letterboxd Ratings
+* ⭐ **[RatS](https://github.com/StegSchreck/RatS)** - Transfer Ratings between Services
 * ⭐ **[MyAnimeList](https://myanimelist.net/)** - Anime
 * ⭐ **MAL Tools** - [Redesign](https://hritikvaishnav.github.io/Project-Redesign/public/mal.html) / [Extension](https://anime.plus/) / [Scripts](https://myanimelist.net/forum/?topicid=1849731) / [Badges](https://www.mal-badges.com/) / [Search Helper](https://greasyfork.org/en/scripts/429784) / [Hide Seen](https://greasyfork.org/en/scripts/17961) / [Export](https://malscraper.azurewebsites.net/) / [Site Sync](https://malsync.moe/) / [MALSync Discord](https://discord.com/invite/cTH4yaw) / [API](https://jikan.moe/)
 * ⭐ **[AniList](https://anilist.co/)** - Anime
@@ -754,6 +754,7 @@
 * 🌐 **[Movie Recs](https://rentry.co/MovieRecs)** - Movie Recommendation Sites / Tools
 * ⭐ **[/r/ifyoulikeblank](https://www.reddit.com/r/ifyoulikeblank/)** - Movie, TV & Anime Recommendations
 * ⭐ **[TasteDive](https://tastedive.com/)** - Recommendations
+* ⭐ **[RatingsGraph](https://www.ratingraph.com/)** - Movie / TV Ratings Graphs
 * [Rec Charts](https://mega.nz/folder/kj5hWI6J#0cyw0-ZdvZKOJW3fPI6RfQ) - Movie / TV / Anime Recommendation Guides
 * [listal](https://www.listal.com/) - Movies / TV
 * [RelatedAnime](https://relatedanime.com/) - Related Anime Index
@@ -779,6 +780,7 @@
 * [CommonSenseMedia](https://www.commonsensemedia.org/) or [Kids in Mind](https://kids-in-mind.com/) - Age-Based Media Reviews
 * [What's on Netflix](https://www.whats-on-netflix.com/library/), [uNoGS](https://unogs.com/), [FlixWatch](https://www.flixwatch.co/) or [Flixable](https://flixable.com/) - Browse Netflix Library
 * [Netflix Top 10](https://top10.netflix.com/) - Netflix Most-Watched Chart
+* [TV Chart](https://tvchart.benmiz.com/), [SeriesGraph](https://seriesgraph.com) or [WhatToWatchOn.tv](https://whattowatchon.tv/) - TV Episode Rating Graphs
 
 ***
 
