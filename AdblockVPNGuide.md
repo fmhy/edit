@@ -345,7 +345,7 @@
 * [JShelter](https://jshelter.org/) - Prevent Fingerprinting / [Warning](https://github.com/arkenfox/user.js/issues/1729#issuecomment-1739135479)
 * [Extension Detector](https://z0ccc.github.io/extension-detector) / [GitHub](https://github.com/z0ccc/extension-detector) - Extension Fingerprinting Tests
 * [NoScriptFingerprint](https://noscriptfingerprint.com/) - Non-JavaScript Fingerprinting
-* [Language Switcher](https://chrome.google.com/webstore/detail/locale-switcher/kngfjpghaokedippaapkfihdlmmlafcc) / [GitHub](https://github.com/locale-switcher/locale-switcher), [2](https://addons.mozilla.org/en-US/firefox/addon/languageswitch) - Change Language Identifier
+* [Language Switcher](https://chromewebstore.google.com/detail/locale-switcher/kngfjpghaokedippaapkfihdlmmlafcc) / [GitHub](https://github.com/locale-switcher/locale-switcher), [2](https://addons.mozilla.org/en-US/firefox/addon/languageswitch) - Change Language Identifier
 * [AnonymousRedirect](https://adguardteam.github.io/AnonymousRedirect/) - Anonymize Links
 * [Simple Opt Out](https://simpleoptout.com/) - Turn off Targeted Ads
 * [AdNauseam](https://adnauseam.io/) - Adblocker / Fakes Clicks to Confuse Tracking
