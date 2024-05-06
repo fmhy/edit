@@ -38,6 +38,7 @@
 * ⭐ **[Rentry](https://rentry.co/)** / [CLI](https://github.com/radude/rentry) - Markdown Support
 * ⭐ **[snowbin](https://pastes.fmhy.net/)**, [2](https://paste.fmhy.net/) - Markdown Support
 * ⭐ **[Stellular](https://bundlrs.cc/)** / [Source](https://code.stellular.org/SentryTwo/bundlrs) - Markdown Support
+* ⭐ **[pastes.dev](https://pastes.dev/)** - Markdown Support
 * ⭐ **[PrivateBin](https://privatebin.net/)** / [Home Page](https://privatebin.info/) - Markdown Support
 * ⭐ **[Linqbin](https://linqbin.cc/)** - Text Only
 * ⭐ **[Katbin](https://katb.in/)** - Text Only
