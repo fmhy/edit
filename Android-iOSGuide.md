@@ -871,6 +871,7 @@
 * [YTCast](https://github.com/MarcoLucidi01/ytcast) - Cast YouTube Videos to Smart TV
 * [WebOS Youtube](https://github.com/webosbrew/youtube-webos) - Ad-Free YouTube for LG TVs
 * [YouTube AdFree](https://youtu.be/Zoc9Bt9TuZA), [2](https://redd.it/wzs6hg) - Guide for Ad-Free YouTube on LG TVs
+*  [med4web](https://rentry.org/med4web) - Guide for streaming torrents on LG TVs
 * [Playlet](https://channelstore.roku.com/en-ca/details/840aec36f51bfe6d96cf6db9055a372a/playlet) - Ad-Free YouTube Roku Client
 * [LG SmartShare](https://www.lg.com/support/smart-share) - Share files to LGTV
 * [Serenity Android](https://github.com/NineWorlds/serenity-android) - Plex / Emby Android TV App
