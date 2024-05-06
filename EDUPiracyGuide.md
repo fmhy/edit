@@ -125,6 +125,7 @@
 * 🌐 **[Awesome Educational Games](https://github.com/yrgo/awesome-educational-games)** - Educational Games Index
 * ↪️ **[Ebook Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/reading#wiki_.25BA_educational_books)**
 * ↪️ **[Typing Tests / Games](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools#wiki_.25B7_typing_lessons)**
+* ↪️ **[Survival / Prepping](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_survival)**
 * ⭐ **[PhET](https://phet.colorado.edu/)**, [Oak National Academy](https://teachers.thenational.academy/), [Cognito](https://www.cognitoedu.org/), [Academo](https://academo.org/) or [Runestone Interactive](https://runestone.academy/) - Interactive Lessons
 * ⭐ **[Fact Check](https://toolbox.google.com/factcheck/)** - Quick Fact Check
 * ⭐ **[/r/coolguides](https://reddit.com/r/coolguides/)**, [info.stylee32](https://info.stylee32.net/) or [coolguid.es](https://coolguid.es/) - Guides & Tutorials
