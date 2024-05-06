@@ -204,7 +204,7 @@
 * [Nature Mixer](https://naturemixer.com/) - Ambient
 * [Click Relax](https://click-relax.com/) - Ambient
 * [Moszen](https://www.moszen.com/) - Ambient
-* [Eart.fm](https://earth.fm/) - Ambient
+* [Earth.fm](https://earth.fm/) - Ambient
 * [Moodist](https://moodist.app/) - Ambient
 * [Zen Sounds](https://app.zenflowchart.com/zen-sounds) - Ambient
 * [EcoSounds](https://en.ecosounds.net/) - Ambient
