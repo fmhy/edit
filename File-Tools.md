@@ -293,7 +293,7 @@
 * [Z-o-o-m](https://z-o-o-m.eu/) - Multi-Host Upload Desktop App
 * [Archive.org](https://archive.org/create/) - Signup Required
 * [send](https://send.vis.ee/) / [instances](https://gitlab.com/timvisee/send-instances) - 2.5gb / 1 day
-* [FileDitch](https://fileditch.com/) - 15GB / Forever / [Note](https://ibb.co/F0gTxNC)
+* [FileDitch](https://fileditch.com/) - 1GB / Forever / [Note](https://ibb.co/F0gTxNC)
 * [edisk](https://www.edisk.cz/) - 10GB / 30 days
 * [file.kiwi](https://file.kiwi/) - Unlimited / 3.5 Days / [Free Download Duration](https://ibb.co/85z9D1s)
 * [easyupload](https://easyupload.io/) - 10GB / 50gb total / 30 days
