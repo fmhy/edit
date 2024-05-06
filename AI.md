@@ -25,9 +25,9 @@
 * ⭐ **[Perplexity](https://www.perplexity.ai/)** - GPT-3.5 Powered Search / [Open Source Models](https://labs.perplexity.ai/)
 * ⭐ **[groq](https://groq.com/)** - LLama 3 and Mixtral Chatbots
 * ⭐ **[LMSYS Chat](https://chat.lmsys.org/)** - Chat and Compare Multiple Chatbots
-* [feyn](https://feyn.chat/) - GPT-4 / Multiple Chatbots
 * [CoolAGI](https://coolagi.vercel.app/) - GPT-4 Turbo Chatbot
 * [ChatGPT](https://chat.openai.com/) - GPT-3.5 Chatbot / [Discord](https://discord.com/invite/openai)
+* [feyn](https://feyn.chat/) - GPT-4 / Multiple Chatbots
 * [LibreChat](https://librechat.ai/) - Multiple Chatbots
 * [HuggingChat](https://huggingface.co/chat/) - Open-Source Chatbots
 * [FlowGPT](https://flowgpt.com/chat) - Multiple Chatbots / [Discord](https://discord.com/invite/tWZGzcpTkf)
@@ -209,7 +209,7 @@
 
 ***
 
-## ▷ [Text Rephrashing](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools#wiki_.25B7_text_rephrasing)
+## ▷ [Text Rephrasing](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools#wiki_.25B7_text_rephrasing)
 
 ***
 
@@ -279,7 +279,7 @@
 * ⭐ **[ComfyUI](https://github.com/comfyanonymous/ComfyUI)**
 * ⭐ **[Fooocus](https://github.com/lllyasviel/Fooocus)**, [2](https://github.com/MoonRide303/Fooocus-MRE) / [Colab](https://colab.research.google.com/github/lllyasviel/Fooocus/blob/main/fooocus_colab.ipynb) / [Search](https://genly.ai/)
 * ⭐ **[MochiDiffusion](https://github.com/godly-devotion/MochiDiffusion)** - Stable Diffusion for Mac / [Discord](https://discord.com/invite/x2kartzxGv)
-* ⭐**[DiffusionBee](https://diffusionbee.com/)** - Stable Diffusion for Mac / [GitHub](https://github.com/divamgupta/diffusionbee-stable-diffusion-ui) / [Discord](https://discord.com/invite/t6rC5RaJQn)
+* ⭐ **[DiffusionBee](https://diffusionbee.com/)** - Stable Diffusion for Mac / [GitHub](https://github.com/divamgupta/diffusionbee-stable-diffusion-ui) / [Discord](https://discord.com/invite/t6rC5RaJQn)
 * [StableStudio](https://github.com/Stability-AI/StableStudio)
 * [Easy Diffusion](https://stable-diffusion-ui.github.io/)
 * [Makeayo](https://makeayo.com) / [Discord](https://discord.gg/FbdSxdeV8m)
