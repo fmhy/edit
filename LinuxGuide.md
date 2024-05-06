@@ -563,7 +563,7 @@ Linux Gaming Guide
 * [Yabai](https://github.com/koekeishiya/yabai), [Amethyst](https://ianyh.com/amethyst/) / [GitHub](https://github.com/ianyh/Amethyst), [1Piece](https://app1piece.com/), [Spaces](https://spacesformac.xyz/), [AeroSpace](https://github.com/nikitabobko/AeroSpace), [Phoenix](https://kasper.github.io/phoenix/) or [Rectangle](https://rectangleapp.com/) - Window Managers
 * [Later](https://getlater.app/) - Restore App Sessions
 * [AlDente](https://apphousekitchen.com/) - Charging Manager
-* [Unlocker](https://github.com/paolo-projects/unlocker) - VMware Unlocker
+* [Unlocker](https://rentry.co/FMHYBase64#vmware) - VMware Unlocker
 * [USBMap](https://github.com/corpnewt/USBMap) - Map MacOS USB Ports
 * [MacVim](https://macvim.org/), [CodeEdit](https://www.codeedit.app/) or [AuroraEditor](https://auroraeditor.com/) - Code Editors
 * [iTerm2](https://iterm2.com/) - Replacements for Terminal
