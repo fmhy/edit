@@ -183,10 +183,10 @@
 * [Software Informer](https://software.informer.com/) - Freeware Index
 * [Awesome Windows](https://github.com/Awesome-Windows/Awesome) - Freeware Index
 * [SourceForge](https://sourceforge.net/)- FOSS Index
-* [FossHub](https://www.fosshub.com/)- FOSS Index
-* [Fossies](https://fossies.org/all.html)- FOSS Index
-* [Free Software Directory](https://directory.fsf.org/wiki/Main_Page)- FOSS Index
-* [FOSS Wiki](https://en.wikipedia.org/wiki/Portal:Free_and_open-source_software/Categories)- FOSS Index
+* [FossHub](https://www.fosshub.com/) - FOSS Index
+* [Fossies](https://fossies.org/all.html) - FOSS Index
+* [Free Software Directory](https://directory.fsf.org/wiki/Main_Page) - FOSS Index
+* [FOSS Wiki](https://en.wikipedia.org/wiki/Portal:Free_and_open-source_software/Categories) - FOSS Index
 * [OSSSoftware](https://osssoftware.org/) - FOSS Index
 * [Awesome Open Source](https://awesomeopensource.com/) - FOSS Index
 * [Open-Source Alternatives](https://github.com/btw-so/open-source-alternatives) - FOSS Index
