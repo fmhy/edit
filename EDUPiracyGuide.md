@@ -789,8 +789,7 @@
 * [Maorma](https://www.maorma.net/) - Chinese Tone Practice
 * [The Chairman's Bao](https://www.thechairmansbao.com/) - Chinese Reading Practice / News Articles
 * [Pleco](https://www.pleco.com/) - Chinese Flashcards / Dictionary
-* [Chinese Flashcards](https://www.chineseflashcards.io/) - Chinese Flashcards
-* [Anki Chinese Decks](https://ankiweb.net/shared/decks?search=Chinese) - Chinese Flashcards
+* [Anki Chinese Decks](https://ankiweb.net/shared/decks?search=Chinese), [Chinese Flashcards](https://www.chineseflashcards.io/) - Chinese Flashcards
 
 ***
 
