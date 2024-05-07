@@ -193,6 +193,7 @@
 * [VGA Museum](https://www.vgamuseum.info/) - Graphic Cards History / Info
 * [MobilePhoneMuseum](https://www.mobilephonemuseum.com/) - Mobile Phone History / Info
 * [House Creep](https://www.housecreep.com/) - Homes With A Curious or Criminal History
+* [Anki History Decks](https://ankiweb.net/shared/decks?search=Hist) - History Flashcards
 
 ***
 
@@ -214,6 +215,7 @@
 * [WikEnigma](https://wikenigma.org.uk/) - 'Known Unknowns' Wiki
 * [The Trolley Problem Game](https://newfastuff.com/the-trolley-problem-game/) - The Trolley Problem
 * [Social Engineers](https://web.archive.org/web/20221208021915/https://www.socialengineers.net) - Social Engineering Guides
+* [Anki Philosophy Decks](https://ankiweb.net/shared/decks?search=Phil) - Philosophy Flashcards
 
 ***
 
@@ -253,6 +255,7 @@
 * [MusicStaff](https://musicstaff.com/) - Music Teacher Search
 * [ChiffAndFipple](https://forums.chiffandfipple.com/index.php) - Irish Traditional Music Forum
 * [MIMO](https://mimo-international.com/MIMO/) - Musical Instrument Database
+* [Anki Music Decks](https://ankiweb.net/shared/decks?search=Music) - Music Flashcards
 
 ***
 
@@ -292,6 +295,7 @@
 * [DevinKorwin Color Guide](https://twitter.com/devinkorwin/status/1278049901709012995) - Color in Paintings Guide
 * [Draw Mix Paint](https://www.drawmixpaint.com/) - Learn Oil Painting
 * [Painting Demos](https://paintingdemos.com/) - Painting Demonstrations
+* [Anki Art Decks](https://ankiweb.net/shared/decks?search=Art) - Art Flashcards
 
 ***
 
@@ -345,6 +349,7 @@
 * [Flag Stories](https://flagstories.co/) - Flag Design Breakdowns
 * [PrideFlags](https://www.prideflags.org/) - LGBT Flag Index
 * [Hate on Display](https://www.adl.org/hate-symbols) - Hate Symbol Database
+* [Anki Geography Decks](https://ankiweb.net/shared/decks?search=Geo) - Geography Flashcards
 
 ***
 
@@ -358,6 +363,7 @@
 * [QuoteGarden](https://www.quotegarden.com/)
 * [Quote Collections](https://redd.it/dlao3b)
 * [TheOtherPages](https://theotherpages.org/quote.html)
+* [Anki Quote Decks](https://ankiweb.net/shared/decks?search=Quote) - Quote Flashcards
 
 ***
 
@@ -407,6 +413,7 @@
 * [avogadro](https://sourceforge.net/projects/avogadro/) or [MolView](https://molview.org/) - Molecular Viewers / Editors
 * [Simuwaerm](https://github.com/file-acomplaint/simuwaerm) - Heat Simulator
 * [Electromagnetic Radiation Spectrum Chart](https://i.ibb.co/XCyQNB7/01930032e368.jpg)
+* [Anki Physics Decks](https://ankiweb.net/shared/decks?search=Phys) - Physics Flashcards
 
 ***
 
@@ -459,6 +466,8 @@
 * [Clear Dark Sky](https://cleardarksky.com/) - Star Gazing Weather Forecasts
 * [Dark Site Finder](https://darksitefinder.com/), [DarkSkyMap](https://darkskymap.com/) or [GoStarGazing](https://gostargazing.co.uk/) - Star Gazing Site Locators
 * [SpaceEngine](https://spaceengine.org/) - Universe Simulator
+* [Anki Astronomy Decks](https://ankiweb.net/shared/decks?search=Astro) / [Space Decks](https://ankiweb.net/shared/decks?search=Space) - Space Flashcards
+
 
 ***
 
@@ -513,6 +522,8 @@
 * [IMS](https://github.com/OpenIntroStat/ims) - Introduction to Modern Statistics
 * [Seeing Theory](https://seeing-theory.brown.edu/) or [Stat Trek](https://stattrek.com/) - Statistics & Probability Tutorials
 * [arTIfiCE](https://yvantt.github.io/arTIfiCE/) - TI CE Calculator Jailbreak
+* [Anki Math Decks](https://ankiweb.net/shared/decks?search=Math) - Math Flashcards
+
 
 ***
 
@@ -532,6 +543,7 @@
 * [Electronics Tutorials](https://www.electronics-tutorials.ws/) - Electronic Guides
 * [EasyEDA](https://easyeda.com/editor) - Electronic Circuit Design Tool
 * [/m/engineering](https://www.reddit.com/user/nbatman/m/engineering/) - Engineering Multireddit
+* [Anki Engineering Decks](https://ankiweb.net/shared/decks?search=Engineer) - Engineering Flashcards
 
 ***
 
@@ -565,6 +577,7 @@
 * [WebQC Balance Calculator](https://webqc.org/balance.php) - Chemical Equation Balance Calculator
 * [Chemexper Chemical Directory](https://www.chemexper.com/) - Chemical Directory
 * [OrgSyn](https://orgsyn.org/Default.aspx) - Chemistry Prep Guides
+* [Anki Chemistry Decks](https://ankiweb.net/shared/decks?search=Chem) - Chemistry Flashcards
 
 ***
 
@@ -594,7 +607,8 @@
 * [WhyDoCatsAndDogs...?](https://whydocatsanddogs.com/) - Pet Q&A Site
 * [Backyard Chickens](https://www.backyardchickens.com/) - Chicken Raising Forum
 * [DinosaurPictures](https://dinosaurpictures.org/) - Dinosaur Info / Images
-* [Pteros](https://www.pteros.com/) - Pterosaur Database 
+* [Pteros](https://www.pteros.com/) - Pterosaur Database
+* [Anki Biology Decks](https://ankiweb.net/shared/decks?search=Bio) - Biology Flashcards
 
 ***
 
@@ -624,7 +638,7 @@
 * [University of Utah Pathology](https://webpath.med.utah.edu/webpath.html) - Pathology Guide
 * [The Iowa Virtual Slidebox](https://www.mbfbioscience.com/iowavirtualslidebox) - Pathology Atlas Software
 * [/r/medicalschoolanki](https://www.reddit.com/r/medicalschoolanki/) - Community for Medical Anki Cards
-* [AnkiWeb](https://ankiweb.net/shared/decks?search=Med), [CRAM.com](https://www.cram.com/medical) - Medical Flashcards 
+* [Anki Med Decks](https://ankiweb.net/shared/decks?search=Med), [CRAM.com](https://www.cram.com/medical) - Medical Flashcards 
 
 ***
 
@@ -640,6 +654,7 @@
 * [Periodic Table](https://www.periodic-table.org/) - Interactive Table
 * [WebElements](https://www.webelements.com) - Interactive Table
 * [Elements Database](http://www.elementsdatabase.com/) - Interactive Table
+* [Anki Periodic Table Decks](https://ankiweb.net/shared/decks?search=Periodic) - Periodic Table Flashcards
 
 ***
 
@@ -704,6 +719,7 @@
 * [EnglishAccentMap](https://www.englishaccentsmap.com/) - English Accent Videos / Map
 * [EnglishBanana](https://www.englishbanana.com/) - English Learning Worksheets
 * [Free4Talk](https://www.free4talk.com/) - English Learning Communities
+* [Anki English Decks](https://ankiweb.net/shared/decks?search=English) - English Flashcards
 
 ***
 
@@ -733,6 +749,7 @@
 * [WaniKani](https://www.wanikani.com/), [KanjiDamage](https://www.kanjidamage.com/) / [KanjiDamagePlus](https://kanjidamageplus.neocities.org/), [Kanji-Dojo](https://github.com/syt0r/Kanji-Dojo), [Koohii](https://kanji.koohii.com/) / [Deck](https://ankiweb.net/shared/info/748570187), or [Manji](https://github.com/Livinglist/Manji) - Learn / Practice Kanji
 * [KanjiTomo](https://kanjitomo.net/) - Kanji Character Identifier
 * [Nippon Colors](https://nipponcolors.com/) - Traditional Japanese Color Meanings
+* [Anki Japanese Decks](https://ankiweb.net/shared/decks?search=Japanese) - Japanese Flashcards
 
 ***
 
@@ -751,6 +768,7 @@
 * [KoreanKeyboardLearner](https://monikasun88.github.io/KoreanKeyboardLearner/) - Korean Typing Practice
 * [Korean Trainer](http://koreantrainer.mloesch.it/) - Korean Numbers & Date Practice
 * [Hangul](https://hangul.cool/) - Korean Typing Practice
+* [Anki Korean Decks](https://ankiweb.net/shared/decks?search=Korean) - Korean Flashcards
 
 ***
 
@@ -772,6 +790,7 @@
 * [The Chairman's Bao](https://www.thechairmansbao.com/) - Chinese Reading Practice / News Articles
 * [Pleco](https://www.pleco.com/) - Chinese Flashcards / Dictionary
 * [Chinese Flashcards](https://www.chineseflashcards.io/) - Chinese Flashcards
+* [Anki Chinese Decks](https://ankiweb.net/shared/decks?search=Chinese) - Chinese Flashcards
 
 ***
 
@@ -781,6 +800,7 @@
 * [SpanishDict](https://www.spanishdict.com/) - Spanish Translation Dictionary
 * [The French Tutorial](http://www.frenchtutorial.com/) - French Learning Tutorials
 * [LCSpeakFrench](https://t.me/LCSpeakFrench) - Live French Lessons
+* [Anki Spanish Decks](https://ankiweb.net/shared/decks?search=Spanish) / [French Decks](https://ankiweb.net/shared/decks?search=French) - European Flashcards
 
 ***
 
@@ -792,6 +812,7 @@
 * ⭐ **[VHS Lernportal](https://www.vhs-lernportal.de/)** - German Learning Course / [Mobile](https://play.google.com/store/apps/developer?id=Deutscher+Volkshochschul-Verband)
 * [Seedlang](https://seedlang.com/) - German Learning App
 * [Linguee](https://www.linguee.de/) / [2](https://www.linguee.com/) or [Dict.cc](https://m.dict.cc/) - German Translation Dictionaries
+* [Anki German Decks](https://ankiweb.net/shared/decks?search=German) - German Flashcards
 
 ***
 
@@ -804,6 +825,7 @@
 * [UBC Sanskrit Learning Tools](https://ubcsanskrit.ca/) - UBC Sanskrit Lessons
 * [Sanskrit Subreddit](https://www.reddit.com/r/sanskrit/) / [Resources](https://www.reddit.com/r/sanskrit/comments/kx3xyu/sanskrit_resources_compilation_post/) - Sanskrit Resources / Discussion
 * [Ambuda](https://ambuda.org/texts/) - Sanskrit Dictionaries / Texts
+* [Anki Asia Decks](https://ankiweb.net/shared/decks?search=Asia) / [Urdu](https://ankiweb.net/shared/decks?search=Urdu) / [Sanskrit](https://ankiweb.net/shared/decks?search=Sanskrit) - South Asian Flashcards
 
 ***
 
@@ -819,6 +841,7 @@
 * [Asian Script Differentiation Guide](https://i.ibb.co/f1YwHBM/50cb83cedf34.png)
 * [Omniglot](https://omniglot.com/) - Writing System & Language Encyclopedia
 * [Plover](https://www.openstenoproject.org/plover/) - Stenography Engine / [GitHub](https://github.com/openstenoproject/plover) / [Discord](https://discord.gg/NAzMz7C3wq)
+* [Anki Hebrew Decks](https://ankiweb.net/shared/decks?search=Hebrew) / [Sign Decks](https://ankiweb.net/shared/decks?search=Sign) - Other Languages Flashcards
 
 ***
 
