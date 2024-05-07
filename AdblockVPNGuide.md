@@ -12,7 +12,7 @@
 
 * ↪️ **[Spotify Adblockers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/audio#wiki_.25B7_spotify_adblockers)**
 * ↪️ **[Twitch Adblockers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/social-media#wiki_.25B7_twitch_adblockers)**
-* ↪️ **[Bypass Article Paywalls](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_read_paywalled_articles)**
+* ↪️ **[Bypass Article Paywalls](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools#wiki_.25B7_paywall_bypass)**
 * ⭐ **[uBlock Origin](https://github.com/gorhill/uBlock#installation)** - Adblocker / [Guide](https://addons.mozilla.org/blog/ublock-origin-everything-you-need-to-know-about-the-ad-blocker/) / [Advanced](https://youtu.be/2lisQQmWQkY)
 * ⭐ **[SponsorBlock](https://sponsor.ajay.app/)** - Skip Sponsored YouTube Ads / [Script](https://github.com/mchangrh/sb.js), [2](https://greasyfork.org/en/scripts/453320)
 * ⭐ **[BehindTheOverlay](https://github.com/NicolaeNMV/BehindTheOverlay)** - Hide Website Overlays 
@@ -22,6 +22,7 @@
 * [Popupblocker All](https://addons.mozilla.org/en-US/firefox/addon/popupblockerall/), [PopUpOFF](https://romanisthere.github.io/PopUpOFF-Website/index.html) or [PopupBlocker](https://github.com/AdguardTeam/PopupBlocker) - Popup / New Tab Blockers
 * [Adguard](https://github.com/AdguardTeam/AdguardBrowserExtension#installation) - Adblocker
 * [Adblock Tester](https://adblock-tester.com/) or [AdBlocker Test](https://d3ward.github.io/toolz/adblock.html) - Adblocking Tests
+* [12ft.io](https://12ft.io/) - Share Ad-Free URLs
 
 ***
 
@@ -37,7 +38,6 @@
 * [webannoyances](https://github.com/yourduskquibbles/webannoyances)
 * [NoADS_RU](https://raw.githubusercontent.com/Zalexanninev15/NoADS_RU/main/ads_list.txt)
 * [Anifiltrs](https://github.com/Karmesinrot/Anifiltrs)
-* [FilterStalker](https://rentry.co/FilterStalker)
 
 ***
 
@@ -66,13 +66,13 @@
 * ↪️ **[DNS Filters / Blocklists](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_dns_filters)**
 * ↪️ **[Free DNS Servers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_free_dns_servers)**
 * ⭐ **[NextDNS](https://nextdns.io)** - DNS Adblocking / [Guide](https://github.com/yokoffing/NextDNS-Config) / [Video](https://youtu.be/WUG57ynLb8I)
+* ⭐ **[ControlD](https://controld.com/)** - DNS Manager
 * ⭐ **[AdGuard Home](https://github.com/AdguardTeam/AdGuardHome/wiki/Docker)** - DNS Adblocking / Self-Hosted / [Setup](https://github.com/klutchell/balena-adguard) / [Filters](https://github.com/hl2guide/AdGuard-Home-Whitelist)
 * ⭐ **[AhaDNS](https://ahadns.com/)** - DNS Adblocking
 * ⭐ **[BlahDNS](https://blahdns.com/)** - DNS Adblocking
 * ⭐ **[YogaDNS](https://yogadns.com/)**  - DNS Adblocking
 * ⭐ **[Mullvad DNS](https://mullvad.net/en/help/dns-over-https-and-dns-over-tls/)** - DNS Adblocking
 * ⭐ **[serverless-dns](https://rethinkdns.com/configure)** - Serverless DNS
-* [ControlD](https://controld.com/) - DNS Manager
 * [Adguard DNS](https://adguard-dns.io/) - DNS Adblocking
 * [AlternateDNS](https://alternate-dns.com/index.php) - DNS Adblocking
 * [LibreDNS](https://libredns.gr/) - DNS Adblocking
@@ -113,38 +113,40 @@
 
 ***
 
-# ► Antivirus
+# ► Antivirus / Malware
 
 * 🌐 **[/r/Antivirus Index](https://www.reddit.com/r/antivirus/wiki/index/)** - Antivirus Tools Index
 * 🌐 **[Awesome Malware Analysis](https://github.com/rshipp/awesome-malware-analysis)** - Malware Analysis Resources
-* 🌐 **[Awesome Pen Testing](https://github.com/enaqx/awesome-pentest)** - Penetration Testing Resources
-* 🌐 **[The Second Opinion](https://rentry.co/thesecondopinion)** - Portable Malware Scanners / Removal Tools
-* ↪️ **[Virus File Scanners](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_scan_files)**
 * ↪️ **[Site Legitimacy Check](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_site_legitimacy_check)**
 * ⭐ **[How to Avoid Malware](https://www.reddit.com/r/Piracy/wiki/browsing_and_downloading_guide)** - Malware Avoidance Guide
-* ⭐ **[Guide4VirusTotal](https://rentry.co/VTGuide)** - Virus Scan Results Guide
-* ⭐ **[Sandboxie Plus](https://sandboxie-plus.com/)**, [Windows Sandbox](https://learn.microsoft.com/en-us/windows/security/application-security/application-isolation/windows-sandbox/windows-sandbox-overview) or [Virtual Machines](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/system-tools#wiki_.25B7_virtual_machines) - Sandbox Environments / [Guide](https://rentry.co/sandboxie-guide)
+* ⭐ **[Sandboxie Plus](https://sandboxie-plus.com/)** / [Guide](https://rentry.co/sandboxie-guide), [Windows Sandbox](https://learn.microsoft.com/en-us/windows/security/application-security/application-isolation/windows-sandbox/windows-sandbox-overview) or [Virtual Machines](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/system-tools#wiki_.25B7_virtual_machines) - Sandbox Environments
 * ⭐ **[AdwCleaner](https://www.malwarebytes.com/adwcleaner/)** - Anti-Adware
 * ⭐ **[Malwarebytes Premium](https://rentry.co/fmhybase64#malwarebytes-prem)** - Antivirus
-* ⭐ **[Security / Antivirus Multireddit](https://www.reddit.com/user/goretsky/m/security/)**
-* [BleepingComputer Forums](https://www.bleepingcomputer.com/forums/f/22/virus-trojan-spyware-and-malware-removal-help/), [Malwarebytes Forums](https://forums.malwarebytes.com/forum/7-windows-malware-removal-help-support/) or [Sysnative Forums](https://www.sysnative.com/forums/forums/security-arena.66/) - Malware Removal Help Forums / [Note](https://pastebin.com/0mrmPXgz)
-* [Zeek](https://zeek.org/), [Nmap](https://nmap.org/) / [Results](https://nmap.org/ndiff/), [Kismet](https://www.kismetwireless.net/), [ntop](https://www.ntop.org/) or [Sniffnet](https://www.sniffnet.net/) - Network Monitors
-* [Emergency Kit](https://www.emsisoft.com/en/home/emergencykit/) - No Install Required Antivirus
-* [Safety Scanner](https://docs.microsoft.com/en-us/windows/security/threat-protection/intelligence/safety-scanner-download) - Malware Remover
-* [Dangerzone](https://dangerzone.rocks/) - Convert dangerous PDF to safe PDF
-* [No More Ransom](https://www.nomoreransom.org/en/decryption-tools.html) - Bypass Ransomware Attacks
+* ⭐ **[Security / Antivirus Multireddit](https://www.reddit.com/user/goretsky/m/security/)** - Reddit Communities
+* [BleepingComputer Forums](https://www.bleepingcomputer.com/forums/f/22/virus-trojan-spyware-and-malware-removal-help/), [Malwarebytes Forums](https://forums.malwarebytes.com/forum/7-windows-malware-removal-help-support/) or [Sysnative Forums](https://www.sysnative.com/forums/forums/security-arena.66/) - Malware Removal Forums / [Note](https://pastebin.com/0mrmPXgz)
+* [ESET](https://rentry.co/FMHYBase64#eset) - Antivirus
+* [Dangerzone](https://dangerzone.rocks/) / [GitHub](https://github.com/freedomofpress/dangerzone) - Convert dangerous PDFs to safe PDFs
+* [ANY.RUN](https://any.run/), [Triage](https://tria.ge/) or [Cuckoo](https://cuckoo.cert.ee/) - Online Sandboxes
+* [No More Ransom](https://www.nomoreransom.org/en/decryption-tools.html) - Ransomware Decryption Tools
 * [ID Ransomware](https://id-ransomware.malwarehunterteam.com/) - Ransomware Identification Tool
-* [FRST Tutorial](https://www.bleepingcomputer.com/download/farbar-recovery-scan-tool/) - Malware Analysis Tool / [Guide](https://www.bleepingcomputer.com/forums/t/781976/)
-* [Any Run](https://app.any.run/) - Malware Analysis Sandbox
-* [Manalyzer](https://manalyzer.org/) - PE File Scanner
-* [PyWhat](https://github.com/bee-san/pyWhat) - .pcap File Scanner
-* [Grype](https://github.com/anchore/grype) - Docker Container Vulnerability Scanner
-* [Defender Control](https://www.sordum.org/9480/defender-control-v2-1/) - Enable / Disable Windows Defender
 * [ConfigureDefender](https://github.com/AndyFul/ConfigureDefender) - Configure Windows Defender Settings
 * [DefenderUI](https://www.defenderui.com/) - Improved Windows Defender UI
 * [Antivirus Removal Tool](https://antivirus-removal-tool.com/) - Antivirus Software Removal Tool
-* [Malware Search+++](https://addons.mozilla.org/en-US/firefox/addon/malware-search-plusplusplus/) - Malware Search Extension 
-* [Malware Analysis Search](https://cse.google.com/cse?cx=011750002002865445766%3Apc60zx1rliu)
+
+***
+
+## ▷ File Scanners
+
+* 🌐 **[The Second Opinion](https://rentry.co/thesecondopinion)** - Portable Malware Scanners / Removal Tools
+* ⭐ **[VirusTotal](https://www.virustotal.com/)** / [Scan Results Guide](https://rentry.co/piracy-faq-virustotal), [2](https://rentry.co/VTGuide) or **[Hybrid Analysis](https://hybrid-analysis.com/)** - Online File Analyzer
+* ⭐ **VirusTotal Tools** - [CLI](https://github.com/VirusTotal/vt-cli) / [Telegram Bot](https://t.me/virus_total_scan_bot) / [Uploader](https://github.com/SamuelTulach/VirusTotalUploader) / [Lite Version](https://www.virustotal.com/old-browsers/)
+* [Microsoft Safety Scanner](https://learn.microsoft.com/en-us/defender-endpoint/safety-scanner-download) or [Emsisoft Emergency Kit](https://www.emsisoft.com/en/home/emergencykit/) - On-demand AV Scanners
+* [Manalyzer](https://manalyzer.org/) - PE File Scanner
+* [pyWhat](https://github.com/bee-san/pyWhat) - Identify Anything
+* [Grype](https://github.com/anchore/grype) - Container Images Vulnerability Scanner
+* [Malware Initial Assessment](https://www.winitor.com/) - Local Analysis Tool
+* [Jotti](https://virusscan.jotti.org/en) - Online File Scanner
+* [Farbar](https://www.bleepingcomputer.com/download/farbar-recovery-scan-tool/) / [Guide](https://www.bleepingcomputer.com/forums/t/781976/) - Local File Scanner
 
 ***
 
@@ -152,15 +154,12 @@
 
 * 🌐 **[Awesome Vehicle Security](https://github.com/jaredthecoder/awesome-vehicle-security)** - Vehicle Security Resources
 * ↪️ **[SMS Verification Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_sms_verification_sites)**
-* ↪️ **[Password Data Breach Detection](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_password_data_breach_check)**
 * ↪️ **[File Encryption](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/file-tools#wiki_.25B7_file_encryption)**
 * ↪️ **[Drive Formatting / File Deletion](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/file-tools#wiki_.25B7_formatting_.2F_deletion)**
 * ⭐ **[Privacy.Sexy](https://privacy.sexy/)** - Privacy Scripts 
-* ⭐ **[Password Strength Chart](https://i.ibb.co/vZdqMvm/6728c7ef02e9.png)**
 * ⭐ **[Tails](https://tails.net/)**, [whonix](https://www.whonix.org/) or [Qubes](https://www.qubes-os.org/) - Privacy-Based Operating Systems
 * [ShutUp10](https://www.oo-software.com/en/shutup10), [W10Privacy](https://www.w10privacy.de/english-home/) or [private-secure-windows](https://github.com/troennes/private-secure-windows) - Antispy Tools
 * [Telemetry.md](https://gist.github.com/ave9858/a2153957afb053f7d0e7ffdd6c3dcb89) - Disable Windows 10/11 Telemetry
-* [PasswordsGenerator](https://passwordsgenerator.net/) - Secure Password Generator
 * [Frigate](https://frigate.video/), [Smart Sec Cam](https://github.com/scottbarnesg/smart-sec-cam) or [ZoneMinder](https://zoneminder.com/) - Security Camera Systems
 * [Team Elite](https://www.te-home.net/) or [Technet24](https://technet24.ir/) - Security Software / [Translator](https://github.com/FilipePS/Traduzir-paginas-web)
 * [Big Ass Data Broker Opt-Out List](https://github.com/yaelwrites/Big-Ass-Data-Broker-Opt-Out-List) - List of Data Broker Opt-Out Resources 
@@ -179,7 +178,6 @@
 * [/r/Privacy](https://reddit.com/r/privacy), [/r/TheHatedOne](https://www.reddit.com/r/thehatedone) or [/r/privatelife/](https://www.reddit.com/r/privatelife/) - Privacy Discussion, News & Tools
 * [Facebook Doc Stories](https://docs.google.com/document/d/1QYqmJsifBjf_xA23Ea7AdeMFyjGWaF_dvhi5EZdNUf4/edit) - Facebook Malpractices Index
 * [Privacy.com](https://privacy.com/) - Make Secure Payments / US only 
-* [OTPClient](https://github.com/paolostivanin/OTPClient) - One-Time Password Client 
 * [image-scrubber](https://everestpipkin.github.io/image-scrubber) / [GitHub](https://github.com/everestpipkin/image-scrubber) - Anonymize Protest Photos
 * [Mobile Verification Toolkit](https://www.privacyguides.org/en/device-integrity/) - Test for Potential Compromises on Android / iOS
 * [GoFOSS](https://gofoss.net/) - Why You Should Use FOSS Alternatives
@@ -225,12 +223,13 @@
 
 # ► Web Privacy
 
-* 🌐 **[Google Alt List](https://www.techspot.com/news/80729-complete-list-alternatives-all-google-products.html)**, [/r/DeGoogle](https://www.reddit.com/r/degoogle), [Degoogle](https://tycrek.github.io/degoogle/) or [No More Google](https://nomoregoogle.com/) - Google App Alternatives
+* 🌐 **[Google Alt List](https://www.techspot.com/article/2752-all-google-alternatives/)**, [/r/DeGoogle](https://www.reddit.com/r/degoogle), [Degoogle](https://tycrek.github.io/degoogle/) or [No More Google](https://nomoregoogle.com/) - Google App Alternatives
 * ↪️ **[Encrypted Messaging Apps](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_encrypted_messengers)** / [2](https://docs.google.com/spreadsheets/d/1-UlA4-tslROBDS9IqHalWVztqZo7uxlCeKPQ-8uoFOU) / [3](https://www.securemessagingapps.com/)
 * ↪️ **[Encrypted XMPP Servers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_encrypted_xmpp_servers)**
 * ↪️ **[Encode / Decode URLs](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools#wiki_.25B7_encode_.2F_decode)**
 * ⭐ **[PrivacySpy](https://privacyspy.org/)** or [Terms of Service; Didn't Read](https://tosdr.org/) - Sites Privacy Policies 
 * ⭐ **[JustGetMyData](https://justgetmydata.com/)** - Links to Obtain Your Data from Websites
+* ⭐ **[Safing Portmaster](https://safing.io/)** - Network Monitor / DNS Resolver / Firewall / Adblocker / Security Tool
 * ⭐ **[simplewall](https://github.com/henrypp/simplewall)**, [WFC](https://www.binisoft.org/wfc.php), [pfSense](https://www.pfsense.org/) / [How-to](https://youtu.be/am7xT-zU1Q0) or [Tinywall](https://tinywall.pados.hu/) - Firewall / Network Monitors
 * ⭐ **[Cryptomator](https://cryptomator.org/)**, [Boxcryptor](https://www.boxcryptor.com/en/) or [Tahoe-LAFS](https://tahoe-lafs.org/trac/tahoe-lafs) - Cloud File Encryption
 * [FirefoxMonitor](https://monitor.firefox.com/) - Data Breach Check
@@ -259,14 +258,50 @@
 ## ▷ Browser Privacy
 
 * 🌐 **[Awesome I2P](https://github.com/mikalv/awesome-i2p)** - I2P Resources
+* ↪️ **[Browser Comparisons](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools#wiki_.25BA_browser_tools)**
 * ⭐ **[Tor Browser](https://www.torproject.org/)** - Onion-Routed Browser / [Default Gateway](https://github.com/htrgouvea/nipe) / [Gitlab](https://gitlab.torproject.org/tpo/applications/tor-browser)
 * ⭐ **[Mullvad Browser](https://mullvad.net/en/browser)** - Tor Browser Fork (w/o Tor network)
 * ⭐ **[arkenfox](https://github.com/arkenfox/user.js)**- Firefox Privacy Tweak / [Video](https://youtu.be/F7-bW2y6lcI)
-* [Librewolf](https://librewolf.net/)- Pre-tweaked Firefox Fork / [Use Auto-Updater](https://github.com/ltguillaume/librewolf-winupdater)
-* [CookieStatus](https://www.cookiestatus.com/) or [PrivacyTests](https://privacytests.org/) - Browser Tracking Protection Comparisons
+* [Librewolf](https://librewolf.net/) - Pre-tweaked Firefox Fork / [Use Auto-Updater](https://github.com/ltguillaume/librewolf-winupdater)
+* [Brave](https://brave.com/) - Privacy-Focused Browser
+* [CookieStatus](https://www.cookiestatus.com/) - Browser Tracking Protection Comparisons
 * [I2P](https://geti2p.net/en/) - Encrypted Private Network Layer / [Guide](https://rentry.co/CBGI2P)
 * [Whack](https://lcamtuf.coredump.cx/whack/) or [Earthling](https://earthlng.github.io/testpages/visited_links.html) - Browser History Leak Example Games
 * [SSL Labs](https://clienttest.ssllabs.com:8443/ssltest/viewMyClient.html) - SSL/TLS Browser Capabilities Test
+
+***
+
+## ▷ Password Privacy / 2FA
+
+* 🌐 **[2FA Directory](https://2fa.directory/)** - List of Sites with 2FA Support
+* ⭐ **[Ente Auth](https://github.com/ente-io/ente#ente-auth)** - Windows / Mac / Android / iOS 2FA / [Audit](https://ente.io/blog/cryptography-audit/)
+* ⭐ **[Aegis](https://getaegis.app/)** - Android 2FA
+* ⭐ **[AuthenticatorPro](https://authenticatorpro.jmh.me)** - Android 2FA
+* ⭐ **[HaveIBeenPwned PW](https://haveibeenpwned.com/Passwords)** - Password Breach Check
+* ⭐ **[Password Strength Chart](https://i.ibb.co/vZdqMvm/6728c7ef02e9.png)**
+* [2FAS](https://2fas.com/) - Android / iOS 2FA / [Discord](https://discord.gg/q4cP6qh2g5)
+* [Mauth](https://github.com/X1nto/Mauth) - Android 2FA
+* [FreeOTPPlus](https://github.com/helloworld1/FreeOTPPlus) - Android 2FA
+* [KeePassXC](https://keepassxc.org/) - Windows / Mac / Linux 2FA / [Guide](https://youtu.be/ckWPHaQwft8)
+* [AuthMe](https://authme.levminer.com/) - Windows / Mac / Linux 2FA / [GitHub](https://github.com/Levminer/authme)
+* [Tauthy](https://github.com/pwltr/tauthy) - Windows / Mac / Linux 2FA
+* [Yubioath](https://developers.yubico.com/yubioath-flutter/) - Windows / Android 2FA / YubiKeys
+* [Protecc](https://apps.microsoft.com/store/detail/protecc-2fa-client/9PJX91M06TZS) / [GitHub](https://github.com/FireCubeStudios/Protecc) - Windows 2FA
+* [OTPClient](https://github.com/paolostivanin/OTPClient) - Linux 2FA
+* [2FAuth](https://docs.2fauth.app/) - Web App 2FA / Self-hosted
+* [Sentinel](https://getsentinel.io/) - iOS / Mac 2FA
+* [Raivo OTP](https://raivo-otp.com) - iOS 2FA
+* [OTP Auth](https://apps.apple.com/ca/app/otp-auth/id659877384) - iOS 2FA
+* [Tofu](https://www.tofuauth.com/) - iOS 2FA
+* [Authenticator](https://authenticator.cc/) - Generate Two-Factor QR Codes / [GitHub](https://gitlab.gnome.org/World/Authenticator)
+* [Android OTP Extractor](https://github.com/puddly/android-otp-extractor) or [OTP Helper](https://github.com/jd1378/otphelper) - Extract OTP Tokens
+* [SteamGuard](https://github.com/dyc3/steamguard-cli) - Generate Steam 2FA Codes
+* [PasswordsGenerator](https://passwordsgenerator.net/) - Secure Password Generator
+* [Intelligence X](https://intelx.io/) - Password Breach Check
+* [psbdmp](https://psbdmp.ws/) - Password Breach Check
+* [Dehashed](https://dehashed.com/) - Password Breach Check
+* [Spycloud](https://spycloud.com/) - Password Breach Check
+* [ScatteredSecrets](https://scatteredsecrets.com/) - Password Breach Check
 
 ***
 
@@ -290,6 +325,7 @@
 * [erine.email](https://erine.email/) - Email Aliasing
 * [33mail](https://33mail.com/) - Email Aliasing
 * [forwardemail](https://github.com/forwardemail/forwardemail.net) - Email Aliasing
+* [Have I Been Sold?](https://haveibeensold.app/) - Monitor Third Party Email Sales
 
 ***
 
@@ -305,12 +341,11 @@
 * [DNS Leak Test](https://www.dnsleaktest.com/), [Bash DNS Test](https://bash.ws/dnsleak) or [DNS Check](https://dnscheck.tools) - DNS Leak Tests
 * [Voidsec](https://ip.voidsec.com/) - WebRTC Leak Tests
 * [WhatIsMyBrowser](https://www.whatismybrowser.com/detect/what-is-my-user-agent) - User-Agent Detection
-* [Safing Portmaster](https://safing.io/) - Monitor Network / Block Trackers / [Discord](https://discord.com/invite/safing) / [GitHub](https://github.com/Safing/portmaster)
 * [TrackMeNot](https://www.trackmenot.io/) - Tracking Protection
 * [JShelter](https://jshelter.org/) - Prevent Fingerprinting / [Warning](https://github.com/arkenfox/user.js/issues/1729#issuecomment-1739135479)
 * [Extension Detector](https://z0ccc.github.io/extension-detector) / [GitHub](https://github.com/z0ccc/extension-detector) - Extension Fingerprinting Tests
 * [NoScriptFingerprint](https://noscriptfingerprint.com/) - Non-JavaScript Fingerprinting
-* [Language Switcher](https://chrome.google.com/webstore/detail/locale-switcher/kngfjpghaokedippaapkfihdlmmlafcc) / [GitHub](https://github.com/locale-switcher/locale-switcher), [2](https://addons.mozilla.org/en-US/firefox/addon/languageswitch) - Change Language Identifier
+* [Language Switcher](https://chromewebstore.google.com/detail/locale-switcher/kngfjpghaokedippaapkfihdlmmlafcc) / [GitHub](https://github.com/locale-switcher/locale-switcher), [2](https://addons.mozilla.org/en-US/firefox/addon/languageswitch) - Change Language Identifier
 * [AnonymousRedirect](https://adguardteam.github.io/AnonymousRedirect/) - Anonymize Links
 * [Simple Opt Out](https://simpleoptout.com/) - Turn off Targeted Ads
 * [AdNauseam](https://adnauseam.io/) - Adblocker / Fakes Clicks to Confuse Tracking
@@ -324,7 +359,7 @@
 * ↪️ **[YouTube Frontends](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/social-media#wiki_.25B7_youtube_frontends)**
 * ⭐ **[LibRedirect](https://libredirect.github.io/)** / [2](https://github.com/libredirect/libredirect), [Predirect](https://github.com/libreom/predirect) or [Proxy Redirect](https://openuserjs.org/scripts/sjehuda/Proxy_Redirect) - Frontend Redirect Extensions
 * [Numblr](https://github.com/heyLu/numblr) - Self-Hosted Frontend Redirect
-* [Photon](https://photon-reddit.com/), [reditr](https://reditr.com/) or [redlib](https://github.com/redlib-org/redlib) - Reddit Frontends
+* [Photon](https://photon-reddit.com/), [reditr](https://reditr.com/), [RDX](https://rdx.overdevs.com/) or [redlib](https://github.com/redlib-org/redlib) - Reddit Frontends
 * [Invidious Redirect](https://addons.mozilla.org/en-US/firefox/addon/hooktube-redirect/?src=search) - YouTube Frontend Redirect
 * [twstalker](https://twstalker.com/) - Twitter Frontend
 * [Proxigram](https://codeberg.org/ThePenguinDev/Proxigram) or [Imginn](https://imginn.com) - Instagram Frontends
@@ -337,13 +372,13 @@
 * [Lingva Translate](https://github.com/TheDavidDelta/lingva-translate) - Google Translate Frontend
 * [Scribe](https://sr.ht/~edwardloveall/Scribe/), [medium.rip](https://medium.rip/) or [LibMedium](https://libmedium.batsense.net/) - Medium Frontends
 * [Quetre](https://quetre.iket.me) / [GitHub](https://github.com/zyachel/quetre) - Quora Frontend
-* [Rimgo](https://codeberg.org/rimgo/rimgo) - Imgur Frontend
+* [Rimgo](https://codeberg.org/rimgo/rimgo) - Imgur Frontend / [Instances](https://rimgo.codeberg.page/), [2](https://codeberg.org/rimgo/instances)
 * [Binternet](https://github.com/Ahwxorg/Binternet) - Pinterest Frontend
 * [Pixivfe](https://codeberg.org/VnPower/pixivfe) - Pixiv Frontend
 * [Gothub](https://codeberg.org/gothub/gothub) - GitHub Frontend
 * [AnonymousOverflow](https://code.whatever.social) - StackOverflow Frontend
 * [Tent](https://codeberg.org/sun/Tent) - Bandcamp Frontend
-* [Dumb](https://codeberg.org/rramiachraf/dumb) or [Intellectual](https://github.com/Insprill/intellectual) - Genius Frontend
+* [Dumb](https://codeberg.org/rramiachraf/dumb) or [Intellectual](https://intellectual.insprill.net/) - Genius Frontend
 * [Rural Dictionary](https://codeberg.org/zortazert/rural-dictionary) - Urban Dictionary Frontend
 * [BiblioReads](https://codeberg.org/nesaku/BiblioReads) - Goodreads Frontend
 * [LibreMDb](https://libremdb.iket.me) - IMDb Frontend
@@ -368,35 +403,12 @@
 * [Swisscows](https://swisscows.com/)
 * [YaCy](https://yacy.net/)
 * [Startpage](https://www.startpage.com/)
+* [Brave Search](https://search.brave.com/)
 * [Search Encrypt](https://www.searchencrypt.com/)
 * [ekoru](https://ekoru.org/)
 * [Gibiru](https://gibiru.com/)
 * [SearXNG](https://docs.searxng.org/) - Self-Hosted
 * [Whoogle](https://pypi.org/project/whoogle-search/) - Self-Hosted
-
-***
-
-## ▷ Two-Factor Authentication
-
-* 🌐 **[2FA Directory](https://2fa.directory/)** - List of Sites with 2FA Support
-* ⭐ **[Ente Auth](https://github.com/ente-io/ente#ente-auth)** - Windows / Mac / Android / iOS 2FA / [Audit](https://ente.io/blog/cryptography-audit/)
-* ⭐ **[Aegis](https://getaegis.app/)** - Android 2FA
-* ⭐ **[AuthenticatorPro](https://authenticatorpro.jmh.me)** - Android 2FA
-* [2FAS](https://2fas.com/) - Android / iOS 2FA / [Discord](https://discord.gg/q4cP6qh2g5)
-* [Mauth](https://github.com/X1nto/Mauth) - Android 2FA
-* [KeePassXC](https://keepassxc.org/) - Windows / Mac / Linux 2FA / [Guide](https://youtu.be/ckWPHaQwft8)
-* [AuthMe](https://authme.levminer.com/) - Windows / Mac / Linux 2FA / [GitHub](https://github.com/Levminer/authme)
-* [Tauthy](https://github.com/pwltr/tauthy) - Windows / Mac / Linux 2FA
-* [Yubioath](https://developers.yubico.com/yubioath-flutter/) - Windows / Android 2FA / YubiKeys
-* [Protecc](https://apps.microsoft.com/store/detail/protecc-2fa-client/9PJX91M06TZS) / [GitHub](https://github.com/FireCubeStudios/Protecc) - Windows 2FA
-* [2FAuth](https://docs.2fauth.app/) - Web App 2FA / Self-hosted
-* [Sentinel](https://getsentinel.io/) - iOS / Mac 2FA
-* [Raivo OTP](https://raivo-otp.com) - iOS 2FA
-* [OTP Auth](https://apps.apple.com/ca/app/otp-auth/id659877384) - iOS 2FA
-* [Tofu](https://www.tofuauth.com/) - iOS 2FA
-* [Authenticator](https://authenticator.cc/) - Generate Two-Factor QR Codes / [GitHub](https://gitlab.gnome.org/World/Authenticator)
-* [Android OTP Extractor](https://github.com/puddly/android-otp-extractor) or [OTP Helper](https://github.com/jd1378/otphelper) - Extract OTP Tokens
-* [SteamGuard](https://github.com/dyc3/steamguard-cli) - Generate Steam 2FA Codes
 
 ***
 
@@ -406,16 +418,17 @@
 
 ***
 
-* 🌐 **[VPN Comparison Chart](https://redd.it/171h9qa)** or [Techlore Chart](https://techlore.tech/vpn)- VPN Comparisons
+* 🌐 **[VPN Comparisons](https://redd.it/171h9qa)** or [Techlore Chart](https://techlore.tech/vpn) - VPN Comparison Charts
+* 🌐 **[VPN Relationships](https://kumu.io/sobeyharker/vpn-relationships)** - VPN Relationship Chart
 * ⭐ **[/r/VPNs](https://www.reddit.com/r/vpns/)** - VPN Help and Discussion 
-* ⭐ **[AirVPN](https://airvpn.org/)** - [Pricing](https://i.ibb.co/8rVJ5JB/c4b813a6b6bc.png)
-* ⭐ **[Windscribe](https://windscribe.com)** - [Pricing](https://ibb.co/tPZZDhC) / Free Version Available
-* ⭐ **[Proton](https://protonvpn.com)** - [Pricing](https://ibb.co/gg4VCDR) / [Config Generation](https://gist.github.com/fusetim/1a1ee1bdf821a45361f346e9c7f41e5a) / No Torrenting w/ Free Version
+* ⭐ **[AirVPN](https://airvpn.org/)**
+* ⭐ **[Windscribe](https://windscribe.com)** - Free Version Available / [Relief Codes](https://blog.windscribe.com/tag/relief-codes/)
+* ⭐ **[Proton](https://protonvpn.com)** - [Config Generation](https://gist.github.com/fusetim/1a1ee1bdf821a45361f346e9c7f41e5a) / No Torrenting w/ Free Version
 * ⭐ **[Warp](https://one.one.one.one/)** - Traffic Encryption VPN / [Client](https://github.com/ViRb3/wgcf) / [Warp+ Data](https://t.me/warpplus), [2](https://github.com/nxvvvv/warp-plus), [3](https://github.com/totoroterror/warp-cloner), [4](https://t.me/generatewarpplusbot), [5](https://rentry.co/warp_plus_free) / [Warp+ Warning](https://rentry.co/warpwarning) / [WireGuard Guide](https://rentry.co/foss-warp)
 * ⭐ **[Riseup](https://riseup.net/en/vpn)** - Free VPN
-* [Mullvad](https://mullvad.net/) - [Pricing](https://i.ibb.co/sHB33GJ/daf48a5ee585.png) / [No-Logging](https://mullvad.net/en/blog/2023/4/20/mullvad-vpn-was-subject-to-a-search-warrant-customer-data-not-compromised/) / [Port Warning](https://mullvad.net/en/blog/2023/5/29/removing-the-support-for-forwarded-ports/)
-* [IVPN](https://www.ivpn.net/) - [Pricing](https://i.ibb.co/6sQKrQL/e06bea93c5ba.png) / [Free Trial](https://redd.it/nzjmqa) / [No Logging](https://www.ivpn.net/knowledgebase/privacy/how-do-we-react-when-requested-by-an-authority-for-information-relating-to-a-customer/) / [Port Warning](https://www.ivpn.net/blog/gradual-removal-of-port-forwarding/)
-* [OVPN](https://www.ovpn.com/) - [Pricing](https://ibb.co/BNmCJdS) / [No Logging](https://www.ovpn.com/en/blog/ovpn-wins-court-order)
+* [Mullvad](https://mullvad.net/) - [No-Logging](https://mullvad.net/en/blog/2023/4/20/mullvad-vpn-was-subject-to-a-search-warrant-customer-data-not-compromised/) / [Port Warning](https://mullvad.net/en/blog/2023/5/29/removing-the-support-for-forwarded-ports/)
+* [IVPN](https://www.ivpn.net/) - [No Logging](https://www.ivpn.net/knowledgebase/privacy/how-do-we-react-when-requested-by-an-authority-for-information-relating-to-a-customer/) / [Port Warning](https://www.ivpn.net/blog/gradual-removal-of-port-forwarding/)
+* [OVPN](https://www.ovpn.com/) - [No Logging](https://www.ovpn.com/en/blog/ovpn-wins-court-order)
 * [VPN Gate](https://www.vpngate.net/en/download.aspx) - Free VPN / [Note](https://pastebin.com/TrSw7EpF)
 * [PrivadoVPN](https://privadovpn.com/) - Free VPN / Unlimited Accounts via [Temp Mail](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_temp_email_sites)
 * [Leap VPN](https://leap.se/) - Free VPNs

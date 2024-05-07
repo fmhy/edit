@@ -38,13 +38,15 @@
 * ⭐ **[Rentry](https://rentry.co/)** / [CLI](https://github.com/radude/rentry) - Markdown Support
 * ⭐ **[snowbin](https://pastes.fmhy.net/)**, [2](https://paste.fmhy.net/) - Markdown Support
 * ⭐ **[Stellular](https://bundlrs.cc/)** / [Source](https://code.stellular.org/SentryTwo/bundlrs) - Markdown Support
+* ⭐ **[pastes.dev](https://pastes.dev/)** - Markdown Support
 * ⭐ **[PrivateBin](https://privatebin.net/)** / [Home Page](https://privatebin.info/) - Markdown Support
 * ⭐ **[Linqbin](https://linqbin.cc/)** - Text Only
 * ⭐ **[Katbin](https://katb.in/)** - Text Only
 * ⭐ **[WriteXO](https://writexo.com/)** - WYSIWYG Pastebin
 * ⭐ **[Pastebin Search](https://cse.google.com/cse?cx=0cd79b819f26af9d0)** - Pastebin CSE
 * [Rlim](https://rlim.com/) - Markdown Support
-* [ZeroBin.net](https://zerobin.net/) - Markdown Support
+* [ZeroBin](https://zerobin.net/) - Markdown Support
+* [BPA](https://bpa.st/) - Markdown Support
 * [Markdown Pastebin](https://markdownpastebin.com/) - Markdown Support
 * [Sparked Paste](https://paste.sparked.host/) - Text Only
 * [Telegraph](https://telegra.ph/) - Text Only
@@ -59,6 +61,7 @@
 
 ## ▷ Translators
 
+* ⭐ **[Translate Web Pages](https://github.com/FilipePS/Traduzir-paginas-web)**, [OpenAI Translator](https://github.com/yetone/openai-translator), [Simple Translate](https://simple-translate.sienori.com/), [Saladict](https://saladict.crimx.com/), [Linguist Translator](https://github.com/translate-tools/linguist), [S3Translator](https://www.s3blog.org/s3translator.html), [Firefox Translations](https://addons.mozilla.org/en-US/firefox/addon/firefox-translations/), [Mate Translate](https://gikken.co/mate-translate) or [ImTranslator](https://imtranslator.net/) - Translation Extensions
 * ⭐ **[DeepLX](https://github.com/OwO-Network/DeepLX)** or [DeepL](https://www.deepl.com/translator)
 * ⭐ **[Google Translate](https://translate.google.com/)**
 * [Crow Translate](https://crow-translate.github.io/) or [Argos](https://github.com/argosopentech/argos-translate) - Translation Apps
@@ -150,7 +153,7 @@
 
 * ⭐ **[Emojipedia](https://emojipedia.org/)** or [EmojiBatch](https://www.emojibatch.com/)
 * [Emoji Engine](https://www.emojiengine.com/) - Multilingual Emoji Search
-* [Geniemoji](https://github.com/virejdasani/Geniemoji), [winMoji](https://www.winmoji.com/) - Emoji Managers
+* [winMoji](https://www.winmoji.com/) - Emoji Managers
 * [EmojiRequests](https://emojirequest.com/) - Custom User-Made Emojis
 * [Cult of the Party Parrot](https://cultofthepartyparrot.com/) - Party Parrot Emojis
 * [Pepe Server Archive](https://github.com/Overimagine1/pepe-server-archive) - Pepe Emojis
@@ -183,17 +186,15 @@
 ## ▷ Typing Lessons
 
 * ⭐ **[Monkey Type](https://monkeytype.com/)** - Customizable Typing Tests
-* [Typing.io](https://typing.io/) - Typing Tests
-* [keybr](https://www.keybr.com/) - Typing Tests 
-* [Typing.com](https://www.typing.com/) - Typing Tests 
-* [Typing Club](https://www.typingclub.com/) - Typing Tests 
-* [typing.academy](https://www.typing.academy/) - Typing Tests
-* [TypeRacer](https://play.typeracer.com/) - Typing Games
-* [ZType](https://zty.pe/) - Typing Games
-* [TypeRush](https://www.typerush.com/) - Typing Games
-* [ARRRType](https://www.arrrtype.com/) - Typing Games
+* ⭐ **[Smassh](https://github.com/kraanzu/smassh)** or [Ttyper](https://github.com/max-niederman/ttyper) - Terminal Typing Tests
+* [Typing.io](https://typing.io/) - Typing Practice For Programming / Sign-up Required
+* [keybr](https://www.keybr.com/) - Typing Practice
+* [Typing.com](https://www.typing.com/) - Typing Lessons
+* [Typing Club](https://www.typingclub.com/) - Touch Typing Lessons
+* [typing.academy](https://www.typing.academy/) - Typing Lessons / Requires Javascript Enabled
+* [Typings](https://typings.gg/) - Typing Tests
+* [TypeRacer](https://play.typeracer.com/), [ZType](https://zty.pe/), [TypeRush](https://www.typerush.com/) or [ARRRType](https://www.arrrtype.com/) - Typing Games
 * [NGram Type](https://ranelpadon.github.io/ngram-type/), [Keyzen3](https://adamgradzki.com/keyzen3/) or [Keyzen Colmak](https://ranelpadon.github.io/keyzen-colemak-dh/) - Touch Typing Tests
-* [Ttyper](https://github.com/max-niederman/ttyper) or [Smassh](https://github.com/kraanzu/smassh) - Terminal Typing Tests
 * [TypeLit.io](https://www.typelit.io/) - Book Typing Tests
 * [Colemak Academy](https://www.colemak.academy/) - Alt / Custom Keyboard Tests
 * [klavaro](https://klavaro.sourceforge.io/), [TypingStudy](https://www.typingstudy.com/) or [TypeFast](https://typefast.io/) - Multilingual Typing Tests
@@ -219,6 +220,7 @@
 * [Desklamp](https://desklamp.io/) - Reading / Note Taking / Highlighting Tool / [Guide](https://app.desklamp.io/read?id=46b203c6-d8df-453d-b546-95a8fa7a44b9&mode=explore)
 * [Calculist](https://calculist.io/) - Note-Taking for Problem-Solving
 * [EncryptPad](https://evpo.net/encryptpad/) - Encrypted Text Editor
+* [NotebookLM](https://notebooklm.google/) - AI Notes App
 * [Xournal++](https://xournalpp.github.io/) / [GitHub](https://github.com/xournalpp/xournalpp)
 * [Notepads](https://www.notepadsapp.com/)
 * [MicroPad](https://getmicropad.com/)
@@ -298,7 +300,8 @@
 * [Heimer](https://github.com/juzzlin/Heimer)
 * [Cubox](https://cubox.cc/)
 * [vym](https://github.com/insilmaril/vym)
-* [Coggle](https://coggle.it/) - Collaborative Mind Mapping
+* [markmap](https://markmap.js.org/) - Markdown Mind Mapping / [GitHub](https://github.com/markmap/markmap)
+* [Coggle](https://coggle.it/) - Collaborative 
 * [CardSmith](https://cardsmith.co/) - Collaborative Mind Mapping
 * [Memrey](https://www.memrey.com/) - Collaborative Mind Mapping
 * [MindMeister](https://www.mindmeister.com/) - Collaborative Mind Mapping
@@ -369,7 +372,7 @@
 * [Fantasy Name Generators](https://www.fantasynamegenerators.com/) - Fantasy Name Generators
 * [PolyGlot](https://draquet.github.io/PolyGlot/) or [VulgarLang](https://www.vulgarlang.com/) - Spoken Language Construction Tools
 * [How to annotate literally everything](https://beepb00p.xyz/annotating.html) - Annotation Tools / Resources
-* [Label Buddy](https://github.com/jeromedockes/labelbuddy) - Annotation Tool
+* [Label Buddy](https://jeromedockes.github.io/labelbuddy/labelbuddy/current/) - Annotation Tool / [GitHub](https://github.com/jeromedockes/labelbuddy)
 
 ***
 
@@ -475,7 +478,6 @@
 * [GooFonts](https://goofonts.com/)
 * [DaFont](https://www.dafont.com/)
 * [Dafont Free](https://www.dafontfree.net/)
-* [graphicex](https://graphicex.com/font/)
 * [FontSpace](https://www.fontspace.com/)
 * [Font Store](https://t.me/fontsstore)
 * [NetFontes](https://www.netfontes.com.br/)

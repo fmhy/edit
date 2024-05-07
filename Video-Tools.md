@@ -6,7 +6,7 @@
 
 # ► Video Tools
 
-* ⭐ **[PixVerse](https://pixverse.ai/)** / [Discord](https://discord.com/invite/MXHErdJHMg) or [Stable Diffusion Videos](https://github.com/nateraw/stable-diffusion-videos) - AI Video Generators
+* ⭐ **[PixVerse](https://pixverse.ai/)** / [Discord](https://discord.com/invite/MXHErdJHMg), [StableVideo](https://www.stablevideo.com/) or [Stable Diffusion Videos](https://github.com/nateraw/stable-diffusion-videos) - AI Video Generators
 * ⭐ **[Waifu2x GUI](https://github.com/AaronFeng753/Waifu2x-Extension-GUI)**,[Video2x](https://github.com/k4yt3x/video2x), [Enhancr](https://github.com/mafiosnik777/enhancr), [Dandere2x](https://github.com/akai-katto/dandere2x) - Video Upscalers
 * ⭐ **[PlayPhrase](https://playphrase.me/)**,  [clip.cafe](https://clip.cafe/), [ClipBase](https://clipbase.xyz/), [Filmot](https://filmot.com/) or [Yarn](https://yarn.co/) / [2](https://getyarn.io/) - Internet Clip Quote Search
 * [Synthesis Colab](https://github.com/camenduru/text-to-video-synthesis-colab), [text-to-video](https://text-to-video.vercel.app), [Text2Video-Zero](https://github.com/Picsart-AI-Research/Text2Video-Zero), [LensGo](https://lensgo.ai/), [Pika Labs](https://www.pika.art/) or [Damo](https://huggingface.co/spaces/damo-vilab/modelscope-text-to-video-synthesis) - Text to Video AIs
@@ -105,10 +105,10 @@
 
 ## ▷ Live Streaming
 
-* 🌐 **[Awesome Streaming](https://github.com/juancarlospaco/awesome-streaming-tools)**, [StreamerFreebies](https://streamerfreebies.com/) or [VDO Ninja](https://vdo.ninja/) - Live Streaming Resources
+* 🌐 **[Awesome Streaming](https://github.com/juancarlospaco/awesome-streaming-tools)** or [StreamerFreebies](https://streamerfreebies.com/) - Live Streaming Resources
 * 🌐 **[Best VTuber](https://gist.github.com/emilianavt/cbf4d6de6f7fb01a42d4cce922795794)** or [VTuber References](https://docs.google.com/spreadsheets/d/15UpI8GEqv22T45AD3L1EgcPB4l2Tvr64aDgLq7xZfMA/htmlview) - VTuber Tool Indexes
 * ⭐ **[OBS](https://obsproject.com/)** - Live Stream Manager
-* ⭐ **OBS Tools** - [Virtual Cam](https://obsproject.com/forum/resources/obs-virtualcam.949/) / [Tweaks](https://discord.gg/CTT) / [Effects](https://github.com/Xaymar/obs-StreamFX) / [Keyboard Visualiser](https://github.com/ThoNohT/NohBoard) / [Background Remover](https://github.com/occ-ai/obs-backgroundremoval) / [Phone Controller](https://github.com/Kounex/obs_blade) / [WebRTC Server](https://github.com/GRVYDEV/Project-Lightspeed)
+* ⭐ **OBS Tools** - [Virtual Cam](https://obsproject.com/forum/resources/obs-virtualcam.949/) / [Tweaks](https://discord.gg/CTT) / [Effects](https://github.com/exeldro/obs-shaderfilter/) / [Keyboard Visualiser](https://github.com/ThoNohT/NohBoard) / [Background Remover](https://github.com/occ-ai/obs-backgroundremoval) / [Phone Controller](https://github.com/Kounex/obs_blade) / [WebRTC Server](https://github.com/GRVYDEV/Project-Lightspeed)
 * [Stream Elements](https://streamelements.com/) - Streaming Service Manager
 * [Streamlabs-OBS](https://github.com/stream-labs/desktop) - Live Stream Manager
 * [SteamLabs](https://streamlabs.com/) - Live Stream Manager
@@ -117,6 +117,7 @@
 * [FBX](https://fbx.gg/) - Live Stream Manager
 * [XSplit](https://www.xsplit.com/) - Live Stream Manager
 * [TwitchChat](https://twitchat.fr/) - Live Stream Manager / [Discord](https://discord.com/invite/fmqD2xUYvP)
+* [VDO Ninja](https://vdo.ninja/) - Live Stream Colab Tool
 * [LiveStreamDVR](https://github.com/MrBrax/LiveStreamDVR) / [Display Chat](https://github.com/MrBrax/twitch-vod-chat) - Live Stream Recorders
 * [Owncast](https://owncast.online/) or [OpenStreamingPlatform](https://openstreamingplatform.com/) - Self-Hosted Live Streaming 
 * [WDFlat](https://www.wdflat.com/) - Stream Elements
@@ -142,7 +143,7 @@
 * [Video Player Codecs](https://www.codecguide.com/)
 * [AVPlayer](http://www.awesomevideoplayer.com/) or [GridPlayer](https://github.com/vzhd1701/gridplayer) - Multi-Video Players
 * [SPlayer](https://www.splayer.org/) - Video Player w/ Smart Translation
-* [Pot Player](https://potplayer.daum.net/) - Video Player
+* [Pot Player](https://potplayer.daum.net/) - Video Player / [Twitch Addon](https://github.com/TwitchPotPlayer/TwitchPotPlayer) / [YouTube Addon](https://chromewebstore.google.com/detail/potplayer-youtube-shortcu/cfdpeaefecdlkdlgdpjjllmhlnckcodp)
 * [ImPlay](https://github.com/tsl0922/ImPlay) - Video Player
 * [SMPlayer](https://www.smplayer.info/) / [2](https://sourceforge.net/projects/smplayer/) - Video Player / [YouTube](https://www.smtube.org/)
 * [uView](https://www.idruf.com/) - Video Player
@@ -224,6 +225,7 @@
 * [Self-hosted Anime](https://github.com/shyonae/selfhosted-anime/wiki) - Anime Server Setup Guides
 * [Prowlarr](https://github.com/Prowlarr/Prowlarr), [FlexGet](https://flexget.com/) or [/r/softwarr](https://reddit.com/r/softwarr) - Autodownload Tools
 * [Organizr](https://github.com/causefx/Organizr), [Reiverr](https://github.com/aleksilassila/reiverr) or [Homarr](https://github.com/ajnart/homarr) - Media Server Managers
+* [Fixarr](https://github.com/sachinsenal0x64/fixarr) - Media Server File Renamer
 * [HTPC Download Box](https://github.com/sebgl/htpc-download-box) - Media Server Automation
 * [Emby](https://emby.media/) - Media Server
 * [Universal Media Server](https://www.universalmediaserver.com/) - Media Server
@@ -236,9 +238,10 @@
 * [WatchIt](https://github.com/ZorrillosDev/watchit-app) - Media Server
 * [SimpleDLNA](https://nmaier.github.io/simpleDLNA/) - Media Server
 * [Chocolate](https://github.com/ChocolateApp/Chocolate) - Media Server
+* [SeaAnime](https://seanime.rahim.app/) - Anime Server
 * [Frames](https://github.com/Eleven-am/frames) - GDrive Server
 * [ErsatzTV](https://ersatztv.org/) or [dizqueTV](https://github.com/vexorian/dizquetv) - Live Channel Media Servers
-* [YTDL-Sub](https://github.com/jmbannon/ytdl-sub) - Add YouTube Channels to Media Servers
+* [YTDL-Sub](https://ytdl-sub.readthedocs.io/) - Add YouTube Channels to Media Servers
 * [xTeVe](https://github.com/xteve-project/xTeVe) - Plex / Emby M3U Proxy
 * [Autoscan](https://github.com/Cloudbox/autoscan) - Real-Time Plex & Emby File Changes
 * [Ombi](https://github.com/Ombi-app/Ombi) - Plex / Emby User Request Management
@@ -255,7 +258,7 @@
 * [PlexDrive](https://github.com/plexdrive/plexdrive) or [mergerfs](https://docs.ultra.cc/books/rclone/page/rclone-vfs-and-mergerfs-setup) - Mount GDrive
 * [SyncLounce](https://synclounge.tv/) - Media Sync
 * [PseudoTV](https://github.com/DEFENDORe/pseudotv) - Create TV Channels
-* [Overseerr](https://overseerr.dev/) - User Requests
+* [Overseerr](https://overseerr.dev/) - User Requests / [IMDb Extension](https://chromewebstore.google.com/detail/overseerr-assistant/hopnjiadheaagfhpipecoamoegijhnij)
 * [Pasta Tool](https://www.pastatool.com/) - Audio / Sub Changer
 * [Plex Debrid](https://github.com/itsToggle/plex_debrid) - Debrid for Plex
 
@@ -266,8 +269,7 @@
 * ⭐ **[JellyPlayer](https://github.com/prayag17/JellyPlayer)** or [jellyfin-media-player](https://github.com/jellyfin/jellyfin-media-player) - Desktop Clients
 * [Jellyfin Setup Guide](https://www.fuzzygrim.com/posts/media-server)
 * [Jellyfin Customization Guide](https://youtu.be/F85qMyBeiDI)
-* [Jellyfin Themes](https://jellyfin.org/docs/general/clients/css-customization.html##community-themes)
-* [/r/JellyfinShares](https://www.reddit.com/r/JellyfinShares/) - Server Sharing
+* [Jellyfin Themes](https://jellyfin.org/docs/general/clients/css-customization/#community-themes)
 * [Jellyseerr](https://github.com/Fallenbagel/jellyseerr) - User Requests
 * [jellyfin-plugin-anime](https://github.com/jellyfin-archive/jellyfin-plugin-anime) - Anime Plugin
 
@@ -292,26 +294,26 @@
 
 * ↪️ **[YouTube Video Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/social-media#wiki_.25B7_youtube_downloaders)**
 * ↪️ **[Twitch Video Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/social-media#wiki_.25B7_twitch_downloaders)**
-* ⭐ **[Download Helper](https://www.downloadhelper.net/)**, [AddonCrop Downloader](https://addoncrop.com/v25/youtube-downloader/), [Cococut](https://cococut.net/), [FetchV](https://fetchv.net/) or [MPMux](https://mpmux.com/) - Extensions
-* ⭐ **[YT-DLP](https://github.com/yt-dlp/yt-dlp)** - Multi-Site / [Easy Installer](https://github.com/kazukikasama/youtube-dlp-gui-installer), [2](https://github.com/StefanLobbenmeier/youtube-dl-gui)
-* ⭐ **[cobalt](https://cobalt.tools/)** - Multi-Site
-* ⭐ **[9xbuddy](https://9xbuddy.com/)**, [2](https://9xbuddy.online/) or [3](https://9xbuddy.in/) - Multi-Site
-* ⭐ **[Lux](https://github.com/iawia002/lux)** - Multi-Site
+* ⭐ **[Download Helper](https://www.downloadhelper.net/)**, [Cococut](https://cococut.net/), [FetchV](https://fetchv.net/) or [MPMux](https://mpmux.com/) - Extensions
+* ⭐ **[YT-DLP](https://github.com/yt-dlp/yt-dlp)** - Multi-Site / CLI / [Easy Installer](https://github.com/kazukikasama/youtube-dlp-gui-installer), [GUI](https://github.com/StefanLobbenmeier/youtube-dl-gui)
+* ⭐ **[cobalt](https://cobalt.tools/)** - Multi-Site / Online
+* ⭐ **[9xbuddy](https://9xbuddy.com/)**, [2](https://9xbuddy.online/) or [3](https://9xbuddy.in/) - Multi-Site / Online
+* ⭐ **[Lux](https://github.com/iawia002/lux)** - Multi-Site / CLI
 * [VideoHelp Forum](https://forum.videohelp.com/) - All Things Media
 * [CD(R)M-Project](https://discord.gg/SYyvPxVyyW) - StreamFab Downloader
-* [TubeOffline](https://www.tubeoffline.com/) - Multi-Site
-* [VideoFK](https://www.videofk.com/) - Multi-Site
-* [you-get](https://you-get.org/) - Multi-Site
-* [Hitomi Downloader](https://github.com/KurtBestor/Hitomi-Downloader) - Multi-Site
-* [Yout](https://yout.com/) - Multi-Site - Multi-Site
-* [pastedownload](https://pastedownload.com/)
-* [weibomiaopai](https://weibomiaopai.com/download-video-parser.php) - Multi-Site
-* [SCrawler](https://github.com/AAndyProgram/SCrawler) - Multi-Site
-* [webvideo-downloader](https://github.com/jaysonlong/webvideo-downloader) - Multi-Site
-* [TikTok Scraper](https://github.com/drawrowfly/tiktok-scraper), [myfaveTT](https://myfavett.com/), [SnapTik](https://snaptik.app/), [tiktok-to-ytdlp](https://github.com/Dinoosauro/tiktok-to-ytdlp) or [urlescraper](https://github.com/Tomeriko96/urlescraper) - TikTok
-* [DMVideo](https://dmvideo.download/) - DailyMotion
-* [PinCase](https://pincase.xyz/) - Pinterest
-* [kmttg](https://www.videohelp.com/software/kmttg) - TivoToGo Download Manager
+* [TubeOffline](https://www.tubeoffline.com/) - Multi-Site / Online
+* [VideoFK](https://www.videofk.com/) - Multi-Site / Online
+* [you-get](https://you-get.org/) - Multi-Site / CLI
+* [Hitomi Downloader](https://github.com/KurtBestor/Hitomi-Downloader) - Multi-Site / Software
+* [Yout](https://yout.com/) - Multi-Site / Online
+* [pastedownload](https://pastedownload.com/) - Multi-Site / Online
+* [weibomiaopai](https://weibomiaopai.com/download-video-parser.php) - Multi-Site / Online
+* [SCrawler](https://github.com/AAndyProgram/SCrawler) - Multi-Site / Software / [Discord](https://discord.gg/uFNUXvFFmg)
+* [webvideo-downloader](https://github.com/jaysonlong/webvideo-downloader) - Multi-Site /  CLI
+* [TikTok Scraper](https://github.com/drawrowfly/tiktok-scraper), [myfaveTT](https://myfavett.com/), [SnapTik](https://snaptik.app/), [tiktok-to-ytdlp](https://github.com/Dinoosauro/tiktok-to-ytdlp) - TikTok
+* [urlescraper](https://github.com/Tomeriko96/urlescraper) - Urlebird
+* [DMVideo](https://dmvideo.download/) - DailyMotion / Online
+* [PinCase](https://pincase.xyz/) - Pinterest / Online
 * [hls-downloader](https://github.com/puemos/hls-downloader), [hls extension](https://webextension.org/listing/hls-downloader.html) or [hlsloader.com](https://www.hlsloader.com/) - HLS Downloaders
 * [GetWVKeys](https://getwvkeys.cc/) - Send Widevine Requests / [GitHub](https://github.com/GetWVKeys/)
 
@@ -373,19 +375,12 @@
 * [VideoInu](https://videoinu.com/)
 * [Clideo](https://clideo.com/)
 * [Kapwing](https://www.kapwing.com/)
-* [InVideo](https://invideo.io/)
 * [Panzoid](https://panzoid.com/)
-* [KeepChangeIt](https://keepchangeit.com/)
-* [veed.io](https://www.veed.io/tools/video-editor)
 * [Convert2Video](https://convert2video.com/)
 * [Video Cutter](https://video-cutter-js.com/)
-* [FlexClip](https://www.flexclip.com/)
 * [Vididoo](https://vididoo.vercel.app/)
 * [VideoToolbox](https://www.videotoolbox.com/)
 * [VideoCandy](https://videocandy.com/)
-* [Animoto](https://animoto.com/)
-* [Flixier](https://editor.flixier.com/)
-* [descript](https://www.descript.com/)
 * [vidmix](https://vidmix.app/)
 * [mebm](https://bwasti.github.io/mebm/)
 * [Crop Video](https://crop-video.com/) - Crop Videos

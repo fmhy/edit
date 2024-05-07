@@ -36,7 +36,7 @@
 * [NeverSSL](http://neverssl.com/) or [HTTP Forever](http://httpforever.com/) - Fix Public Wi-Fi Login Pages
 * [WiFi-Password](https://github.com/sdushantha/wifi-password) - Fetch WiFi Password / Generate QR Code
 * [Hosts File Editor](https://hostsfileeditor.com/) or [HostsDock](https://eshengsky.github.io/HostsDock/) - Windows Hosts File Editors
-* [MAC Address](https://mac-address.alldatafeeds.com/mac-address-lookup) - Check MAC Address
+* [MAC Address](https://macaddress.io/) - Check MAC Address
 * [masscan](https://github.com/robertdavidgraham/masscan) - Port Scanner
 * [PortChecker](https://portchecker.co/), [PortCheckers](https://www.portcheckers.com/), [RustCat](https://github.com/robiot/rustcat) or [CanYouSeeMe](https://canyouseeme.org/) - Port Checkers
 * [Bufferbloat Test](https://www.waveform.com/tools/bufferbloat) - Test Bufferbloat
@@ -118,34 +118,36 @@
 
 ***
 
-## ▷ Link Homepages
+## ▷ Paywall Bypass
+
+* ⭐ **[Archive.is](https://archive.is/)** - Archived Articles
+* ⭐ **[Bypass Paywalls Clean](https://github.com/bpc-clone/bpc_updates/releases)** / [Filter List](https://github.com/bpc-clone/bypass-paywalls-clean-filters) / [Twitter](https://twitter.com/Magnolia1234B) - Browser Extensions
+* ⭐ **[Freedium](https://freedium.cfd/)** or [Medium For All](https://medium-forall.vercel.app/) - Bypass Medium Paywalls
+* ⭐ **[wallabag](https://wallabag.org/)** / [Discord Bot](https://github.com/FahadBinHussain/wallabot) or [Ladder](https://github.com/everywall/ladder) - Self-Hosted
+* [Bypass paywalls for scientific documents](https://greasyfork.org/en/scripts/35521) - Bypass Scientific Document Paywalls
+* [unpaywall](https://unpaywall.org/) - Bypass Scholarly Article Paywalls
+* [Open Access Button](https://openaccessbutton.org/) - Bypass Research Article Paywalls
+
+***
+
+## ▷ Link in Bio Sites
 
 * ↪️ **[Browser Startpages](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_browser_startpages)**
-* ⭐ **[Linktree](https://linktr.ee/)**
-* ⭐ **[Linkstack](https://linkstack.org)** / [2](https://linksta.cc)
-* [Ichi](https://ichi.city)
-* [Beacon](https://beacons.ai/)
+* ⭐ **[Linktree](https://linktr.ee/)** - Link in Bio
+* ⭐ **[Linkstack](https://linkstack.org)** or [LittleLink](https://littlelink.io/) - Self-hosted
+* [Beacons](https://beacons.ai/)
 * [Carrd](https://carrd.co/)
-* [Bio.link](https://bio.link/)
-* [Seamless](https://www.linkinbio.website/)
-* [FlowCode](https://www.flowcode.com/page)
-* [Solo.to](https://solo.to/)
-* [Ayo.so](https://ayo.so/)
-* [CreatorSites](https://creatorsites.net/)
+* [Bio Link](https://bio.link/)
+* [Ayo](https://ayo.so/)
 * [ContactInBio](https://www.contactinbio.com/)
-* [Campsite](https://campsite.bio/)
-* [bizzl.ink](https://bizzl.ink/)
-* [Horizon](https://hrzn.bio/)
-* [LinkFree](https://linkfree.io/)
-* [itsmy.fyi](https://itsmy.fyi/)
+* [Campsite.bio](https://campsite.bio/)
+* [Horizon Bio](https://hrzn.bio/)
+* [BioDrop](https://www.biodrop.io/)
 * [Taplink](https://taplink.at/)
-* [Linkbun](https://linkbun.io)
-* [Mez.ink](https://mez.ink/)
-* [dialo](https://dialo.app/)
-* [linkr](https://linkr.com/)
-* [omg.lol](https://home.omg.lol/)
-* [LittleLink](https://littlelink.io/) - Self-Hosted
-* [Dashy](https://dashy.to/) / [GitHub](https://github.com/lissy93/dashy), [Homepage](https://github.com/benphelps/homepage), [Flame](https://github.com/pawelmalak/flame) or [Homer](https://github.com/bastienwirtz/homer) - Home Server Startpages
+* [LinkBun](https://linkbun.io)
+* [Linkr](https://linkr.com/)
+* [seemless](https://www.linkinbio.website/) - Link in Bio for Tiktok & Instagram
+* [itsmy.fyi](https://itsmy.fyi/) - Create Homepage via Github Issues / [Github](https://github.com/rishi-raj-jain/itsmy.fyi) 
 
 ***
 
@@ -276,14 +278,13 @@
 * [ai6.net](https://ai6.net/) - `ai6.net/nm3tyz`
 * [SmartLinks](https://smartlnks.com/) - `smartlnks.com/Vjr0m`
 * [Emojied](https://emojied.net/), [vi8hl0c](https://xn--vi8hl0c.ws/) or [kn8h](https://xn--kn8h.to/)
-* [offf.to](https://offf.to/) - Short Links via Browser
 * [ShortShare](https://shortshare.app/) - Short Link App
-* [BR3F](https://www.br3f.com/) - Temporary Short Links
+* [BR3F](https://www.br3f.com/) - Single-Click Short Links
 * [Anonymiz](https://anonymiz.com/shorten-url) - Anonymous URLs - `anonymiz.com/vwiq`
 * [Anon.to](https://anon.to/) - Anonymous URLs - `anon.to/7SWqpG`
 * [Thinfi](https://thinfi.com/) - Password protect a short URL - `thinfi.com/q8aw`
 * [ShortUrLinksbot](https://t.me/ShortUrLinksbot) or [ShortUrlBot](https://t.me/ShortUrlBot) - Telegram Link Shortener Bot 
-* [suri](https://github.com/jstayton/suri), [urlhum](https://urlhum.com/) or [mpngin](https://github.com/thewalkingtoast/mpngin) - Self-Hosted Link Shorteners
+* [suri](https://github.com/jstayton/suri) or [mpngin](https://github.com/thewalkingtoast/mpngin) - Self-Hosted Link Shorteners
 * [cuttly](https://cutt.ly/) - Multiple URL Tools
 * [ChangeDetection.io](https://github.com/dgtlmoon/changedetection.io), [urlwatch](https://thp.io/2008/urlwatch/), [Visualping](https://visualping.io/), [changd](https://github.com/paschmann/changd) or [FollowThatPage](https://www.followthatpage.com/) - Page Change Detection / Notification 
 * [W.A.R. Links Checker Premium](https://greasyfork.org/en/scripts/2024) - Checks If File Links are Alive or Not
@@ -302,7 +303,6 @@
 * [AnyImage](https://anyimage.io/) - Create Social Card Links
 * [urlportal](https://raw.githubusercontent.com/gotbletu/shownotes/master/urlportal.sh) - Custom URL Handler
 * [Web Check](https://web-check.xyz/), [NSLookup](https://www.nslookup.io/) or [dog](https://github.com/ogham/dog) - DNS Information Tool
-* [Awesome Piracy Bot](https://github.com/Igglybuff/awesome-piracy-bot) - URL Scraping Tools
 * [Site Worth Traffic](https://www.siteworthtraffic.com/) - Calculate Website Worth
 * [XML-Sitemaps](https://www.xml-sitemaps.com/) - Sitemap Creator
 * [CarbonDates](https://carbondate.cs.odu.edu/) - Check Site Creation Date 
@@ -317,7 +317,7 @@
 
 * ↪️ **[IRC Clients / Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/download#wiki_.25B7_irc_tools)**
 * ⭐ **[Mumble](https://www.mumble.info/)**, [Jam](https://jam.systems/), [TeaSpeak](https://teaspeak.de/gb/), [TeamSpeak](https://www.teamspeak.com/) / [Warning](https://pastebin.com/479TbKq5), [Zoiper](https://www.zoiper.com/) or [Google Voice](https://voice.google.com/) - Voice Chat 
-* ⭐ **[Hack.chat](https://hack.chat/)**, [Shick](https://shick.me/), [Yap](https://yap.chat/), [Convene](https://letsconvene.im/), [Stinto](https://stin.to/en) or [tik.io](https://tlk.io/) - Minimal Account Free Chats
+* ⭐ **[Hack.chat](https://hack.chat/)**, [Shick](https://shick.me/), [LeapChat](https://www.leapchat.org/), [Yap](https://yap.chat/), [Convene](https://letsconvene.im/), [Stinto](https://stin.to/en) or [tik.io](https://tlk.io/) - Minimal Account Free Chats
 * ⭐ **[Gajim](https://gajim.org/)** or [xabber](https://www.xabber.com/) - XMPP Clients
 * [Pidgin](https://www.pidgin.im/), [Beeper](https://www.beeper.com/), [matterbride](https://github.com/42wim/matterbridge) or [Ferdium](https://ferdium.org/) - Combine Web Apps / Chats
 * [Cirlos](https://www.cirlos.net/), [Miranda NG](https://www.miranda-ng.org/en/), [Escargot](https://escargot.chat/) or [WeeChat](https://weechat.org/) - Chat Apps
@@ -333,10 +333,9 @@
 * [IMumble](https://www.imumble.nl/) or [Guildbit](https://guildbit.com/) - Voice Chat Servers
 * [Vocaroo](https://vocaroo.com/) - Send Voice Messages
 * [DJ3D](https://dj3d.io/), [Gather](https://gather.town/) - Virtual World Server
-* [WebcamTests](https://webcamtests.com/) - Test your Webcam
 * [VideoMail](https://www.videomail.io/) - Webcam to Email Tool
 * [VCam](https://www.xsplit.com/vcam) - Remove Webcam Background
-* [NVIDIA BROADCAST](https://www.nvidia.com/en-us/geforce/broadcasting/broadcast-app/), [Mini Video Me](https://github.com/maykbrito/mini-video-me) or [Webcamoid](https://webcamoid.github.io/) - Webcam Managers
+* [NVIDIA BROADCAST](https://www.nvidia.com/en-us/geforce/broadcasting/broadcast-app/) or [Mini Video Me](https://github.com/maykbrito/mini-video-me) - Webcam Managers
 * [MiroTalk](https://mirotalk.up.railway.app/) or [MiroTalk SFU](https://sfu.mirotalk.com/) - Video Chat
 * [Videolink2me](https://videolink2me.com/) - Video Chat
 * [TinyChat](https://tinychat.com/) - Video Chat
@@ -358,7 +357,6 @@
 * ⭐ **[InboxReads](https://inboxreads.co/)** or [Readsom](https://readsom.com/) - Email Newsletter Archive
 * [Delta Chat](https://delta.chat/en/) - Email Based Messenger
 * [Postsack](https://github.com/terhechte/postsack) - Email Visualizer
-* [BeFree](https://beefree.io/templates/free/) or [Briskine](https://www.briskine.com/) - Email Templates
 * [Boomerang](https://www.boomeranggmail.com/), [NudgeMail](https://nudgemail.com/) or [FollowupThen](https://www.followupthen.com/) - Scheduled Email Sending & Reminders 
 * [Email Tracker](https://snov.io/email-tracker), [GetNotify](https://www.getnotify.com/) or [Mailtrack](https://mailtrack.io/) - Email Engagement 
 * [UnsubScan](https://github.com/LGUG2Z/unsubscan) - Unsubscribe from Emails
@@ -382,9 +380,7 @@
 
 * ⭐ **[All about RSS](https://github.com/AboutRSS/ALL-about-RSS)** / [Telegram](https://t.me/s/aboutrss), [RSSTango](https://rentry.org/rrstango), [To RSS](https://www.to-rss.xyz/), [Awesome RSS Feeds](https://github.com/plenaryapp/awesome-rss-feeds) or [RSS](https://gist.github.com/thefranke/63853a6f8c499dc97bc17838f6cedcc2) - RSS Feeds / Tools
 * ⭐ **[Feedly](https://feedly.com/)** - RSS Reader
-* ⭐ **[Raven](https://ravenreader.app/)** - RSS Reader
-* ⭐ **[Feedless](https://feedless.org/)**, [MoRSS](https://morss.it/), [RSSHub](https://github.com/DIYgod/RSSHub), [Open RSS](https://openrss.org/), [rsspls](https://github.com/wezm/rsspls), [FetchRSS](https://fetchrss.com/), [Politepol](https://politepol.com/en/), [Janicek](https://feed.janicek.co/) or [FiveFilters](https://createfeed.fivefilters.org/) - RSS Feed Generators
-* ⭐ **[RSS Bridge](https://rss-bridge.org/bridge01/) / [GitHub](https://github.com/RSS-Bridge/rss-bridge)** - RSS Feed for Sites Missing It
+* ⭐ **[RSS Bridge](https://rss-bridge.org/bridge01/) / [GitHub](https://github.com/RSS-Bridge/rss-bridge)**, **[Feedless](https://feedless.org/)**, [MoRSS](https://morss.it/), [RSSHub](https://github.com/DIYgod/RSSHub), [Open RSS](https://openrss.org/), [RSS Please](https://rsspls.7bit.org/), [FetchRSS](https://fetchrss.com/), [Politepol](https://politepol.com/en/), [Janicek](https://feed.janicek.co/) or [FiveFilters](https://createfeed.fivefilters.org/) - RSS Feed Generators
 * [TheFeedReaderBot](https://thefeedreaderbot.com/) or [NewsBoat](https://newsboat.org/) - Console RSS Readers
 * [WebFeed](https://taoshu.in/webfeed/turn-browser-into-feed-reader.html) or [tt-rss](https://tt-rss.org/) - Web RSS Readers
 * [FreshRSS](https://freshrss.org/) or [CommaFeed](https://www.commafeed.com/#/welcome) - Self-Hosted RSS Readers
@@ -450,6 +446,7 @@
 
 * 🌐 **[WebExtension.org](https://webextension.org/)** or [MyBrowserAddon](https://mybrowseraddon.com/) - Open-Source Extension Indexes
 * ↪️ **[Adblocking](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25BA_adblocking) / [Privacy](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25B7_privacy_extensions) Extensions**
+* ↪️ **[Translation Extensions](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools#wiki_.25B7_translators)**
 * ↪️ **[Download Managers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/file-tools#wiki_.25B7_download_managers)**
 * ↪️ **[Video Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video-tools#wiki_.25BA_video_download)**
 * ↪️ **[Image Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_image_download_extensions)**
@@ -462,9 +459,9 @@
 * ⭐ **[Zoom WE](https://pastebin.com/SpCdPywv)** or [Custom Page Zoom](https://mybrowseraddon.com/custom-page-zoom.html) - Improves Zoom Functionality
 * ⭐ **[ScrollAnywhere](https://pastebin.com/W3jwbBac)** - Improves Scrolling Functionality
 * ⭐ **[Clipboard2File](https://pastebin.com/JjDzqq8x)** - Upload Images from Clipboard
+* ⭐ **[Clipper](https://clipper.website/)** or [Copycat](https://github.com/BlackGlory/Copycat) - Copy Content in Multiple Formats
 * ⭐ **[Redirector](https://einaregilsson.com/redirector/)** - Page Redirector
 * ⭐ **[Feedbro](https://nodetics.com/feedbro/)**, [Brief](https://github.com/brief-rss/brief), [Smart-RSS](https://github.com/SmartRSS/Smart-RSS) or [Fraidycat](https://fraidyc.at/) - RSS Feed Readers
-* ⭐ **[Translate Web Pages](https://github.com/FilipePS/Traduzir-paginas-web)**, [OpenAI Translator](https://github.com/yetone/openai-translator), [Simple Translate](https://simple-translate.sienori.com/), [Saladict](https://saladict.crimx.com/), [Linguist Translator](https://github.com/translate-tools/linguist), [S3Translator](https://www.s3blog.org/s3translator.html), [Mate Translate](https://gikken.co/mate-translate) or [ImTranslator](https://imtranslator.net/) - Translation Extensions
 * [NopeCHA](https://nopecha.com/) / [Required Tokens](https://nopecha.com/manage) / [Discord](https://discord.com/invite/yj7cTYBQaw), [Buster](https://github.com/dessant/buster) or [JKCS](https://git.coom.tech/araragi/JKCS) - Auto Captcha Solvers
 * [Sidebery](https://github.com/mbnuqw/sidebery), [Bookmarks Organizer](https://github.com/cadeyrn/bookmarks-organizer) or [Centroly](https://centroly.com/) - Bookmark Extensions
 * [CRX Viewer](https://robwu.nl/crxviewer/) - View Extension Source Code
@@ -500,7 +497,6 @@
 * [Turn Off the Lights](https://www.turnoffthelights.com/) or [Theater Mode](https://mybrowseraddon.com/theater-mode.html) - Play Videos in Theater Mode
 * [Zoom Redirector](https://github.com/arkadiyt/zoom-redirector) - Redirect Zoom Links to Web Client 
 * [GlobalSpeed](https://github.com/polywock/globalSpeed) - Set Default Video / Audio Speed
-* [Skip Silence](https://github.com/vantezzen/skip-silence) - Skip Silent Parts in Videos
 * [Web-Scrobbler](https://web-scrobbler.com/) - Scrobble with Last.fm, Libre.fm, etc.
 * [Form History Control](https://stephanmahieu.github.io/fhc-home/) - Formfill Manager
 * [Fake Data](https://www.fakedata.pro/) - Fill Forms With Fake Data
@@ -512,14 +508,12 @@
 * [ColorZilla](https://www.colorzilla.com/) or [ColorFish](https://ui.vision/colorfish) - Color Picker
 * [Clippings](https://aecreations.io/clippings/index.php) or [Quick Copy](https://github.com/ramitmittal/quick-copy) - Clipboard Manager
 * [Emoji Addon](https://www.emojiaddon.com/) - Quickly Copy / Paste Emojis
-* [Absolute Enable Right Click](https://pastebin.com/G7Juu6xc) or [Allow Right Click](https://add0n.com/allow-right-click.html) / [GitHub](https://github.com/lunu-bounir/allow-right-click) - Force Enable Right Click
-* [Copycat](https://github.com/BlackGlory/Copycat) - Copy Content in Multiple Formats & Markdowns 
+* [Allow Right Click](https://add0n.com/allow-right-click.html) / [GitHub](https://github.com/lunu-bounir/allow-right-click) - Force Enable Right Click
 * [Copy Selection as Markdown](https://github.com/0x6b/copy-selection-as-markdown) - Copy Text as Markdown 
 * [CopyFish](https://ocr.space/copyfish) - Grab Text from Images 
 * [Talkie](https://joelpurra.com/projects/talkie/) or [Offline Text to Speech](https://virejdasani.github.io/OfflineTextToSpeech-Extension/) - Text to Speech
-* [Text Link](https://github.com/piroor/textlink/) - Make Non-Hyperlinked URLs Clickable
 * [Max Focus](https://maxfoc.us/) - Preview links
-* [Cookie-AutoDelete](https://github.com/Cookie-AutoDelete/Cookie-AutoDelete) - Auto Delete Cookies
+* [Text Link](https://github.com/piroor/textlink/) - Make Non-Hyperlinked URLs Clickable
 * [I still don't care about cookies](https://github.com/OhMyGuus/I-Still-Dont-Care-About-Cookies) or [Consent-O-matic](https://consentomatic.au.dk/) / [2](https://github.com/cavi-au/Consent-O-Matic) - Block Cookie Consent Popups
 * [EditThisCookie](https://www.editthiscookie.com/) or [Cookie-Editor](https://cookie-editor.cgagnier.ca/) - Cookies Managers
 * [Get-cookies.txt](https://github.com/kairi003/Get-cookies.txt-LOCALLY) or [ExportCookies](https://github.com/rotemdan/ExportCookies) - Cookies Exporters
@@ -542,12 +536,10 @@
 * [Broken Link Checker](https://add0n.com/broken-link-checker.html) - Checks Page for Broken Links 
 * [ViewImage](https://github.com/bijij/ViewImage) - Adds Back "View Image" Button to Google Image Search
 * [GoFullPage](https://gofullpage.com/), [Easy Screenshot](https://webextension.org/listing/screenshot.html) or [FireShot](https://addons.mozilla.org/en-GB/firefox/addon/fireshot/) - Full Page Screenshots
-* [NooBox](https://github.com/AInoob/NooBox) - Reverse Image Search, Extract Images, Screenshot & Search 
 * [Bulk URL Opener](https://bulkurlopener.com/) or [Open-Multiple-URLs](https://github.com/htrinter/Open-Multiple-URLs/) - Open Multiple URLs in One Click 
 * [PronounDB](https://pronoundb.org/) - Pronoun Addon
 * [XKit](https://github.com/new-xkit/XKit) - Make Tumblr More Usable
 * [Tab Session Manager](https://tab-session-manager.sienori.com/), [Sessionic](https://github.com/navorite/sessionic) or [Session Buddy](https://sessionbuddy.com/) - Session Managers 
-* [SimpleModifyHeaders](https://github.com/didierfred/SimpleModifyHeaders) - Modify Headers
 * [Peek](https://github.com/corbindavenport/peek) - Shows Images & Videos Behind Links & Thumbnails 
 
 ***
@@ -573,24 +565,19 @@
 * [Multi Tabs](https://addons.mozilla.org/en-US/firefox/addon/search-multi-tabs/) - Multi Tab Word Search
 * [Search Site WE](https://addons.mozilla.org/en-US/firefox/addon/search-site-we/) - Search Current Domain
 * [Firefox Color](https://color.firefox.com/) or [SwiftTheme](https://addons.mozilla.org/en-US/firefox/addon/swifttheme/) - Custom Firefox Theme Creation
-* [OnelineProton](https://github.com/newmanls/OnelineProton) - Proton Theme for Firefox
 * [Dark Background for Firefox New Tabs](https://fedidat.com/640-dark-newtab-firefox/)
-* [FoxyGestures](https://github.com/marklieberman/foxygestures), [Simple Gesture](https://github.com/utubo/firefox-simple_gesture) or [Gesturefy](https://github.com/Robbendebiene/Gesturefy) - Mouse Gestures
+* [Simple Gesture](https://github.com/utubo/firefox-simple_gesture) or [Gesturefy](https://github.com/Robbendebiene/Gesturefy) - Mouse Gestures
 * [Happy Right-Click](https://addons.mozilla.org/en-US/firefox/addon/%E5%BF%AB%E4%B9%90%E5%8F%B3%E9%94%AE/) - Force Enable Right Click
 * [Linkificator](https://addons.mozilla.org/en-US/firefox/addon/linkificator/) - Make Non-Hyperlinked URLs Clickable
-* [Firefox Translations](https://addons.mozilla.org/en-US/firefox/addon/firefox-translations/) - Translator
 * [User-Agent String Switcher](https://addons.mozilla.org/en-US/firefox/addon/user-agent-string-switcher/) - Switch your User-Agent
-* [hide-scrollbars](https://github.com/quinton-ashley/firefox-hide-scrollbars) - Hide Browser Scrollbar
 * [AutoPagerize Advanced](https://addons.mozilla.org/en-US/firefox/addon/autopagerizeadvanced/) - Merge Multiple Pages
 * [Profile Switcher](https://github.com/null-dev/firefox-profile-switcher) - Profile Manager
 * [SoundFixer](https://github.com/valpackett/soundfixer) - Fixes Audio Playing in one Channel
-* [Volume Control Tabs](https://github.com/vzze/volume-control) - Control Individual Tab Volume
 * [Mute Sites By Default](https://github.com/abba23/mute-sites-by-default) - Mute All Sites by Default 
 * [Read Aloud](https://readaloud.app/) - Text to Speech
 * [Sage-Like](https://addons.mozilla.org/en-US/firefox/addon/sage-like/) - RSS Feed Reader
 * [Want My RSS](https://github.com/Reeywhaar/want-my-rss) - Restores Firefox RSS Features
 * [Morning Coffee Quantum](https://addons.mozilla.org/en-US/firefox/addon/morning-coffee-quantum/) - Open Custom Website Lists 
-* [Resurrect Pages](https://github.com/arantius/resurrect-pages) - View Archived / Cached Webpages
 * [Canvas](https://addons.mozilla.org/en-US/firefox/addon/canvas-google-images/) - View & Edit Google Images 
 * [Sitemod](https://sitemod.io/) - Inspect Element Changes to a Website
 * [Plasma Integration](https://addons.mozilla.org/en-US/firefox/addon/plasma-integration/) - Control Browser via Plasma 
@@ -614,12 +601,10 @@
 * [Extension Source Downloader](https://chromewebstore.google.com/detail/extension-source-download/dlbdalfhhfecaekoakmanjflmdhmgpea) - View Extension Source Code / [Guide](https://gist.github.com/paulirish/78d6c1406c901be02c2d)
 * [MarvellousSuspender](https://chromewebstore.google.com/detail/the-marvellous-suspender/noogafoofpebimajpfpamcfhoaifemoa) - Tab Suspender
 * [Darkness](https://darkness.app/) - Dark Mode
-* [Picture-in-Picture](https://github.com/GoogleChromeLabs/picture-in-picture-chrome-extension) - Picture-in-Picture Mode
 * [OVC](https://chromewebstore.google.com/detail/ovc-one-video-control/analeldnikfgekckpcppegfekineelbb) - Video Controller
 * [Transpose](https://transpose.video/) - Online Video Pitch Shifter, Speed Changer and Looper
 * [Say Play](https://thanesh.dev/say-play) - Video Control Voice Commands
 * [Smart Mute](https://chromewebstore.google.com/detail/smart-mute/apadglapdamclpaedknbefnbcajfebgh) - Tab Mute Manager
-* [Audio Capture](https://github.com/arblast/Chrome-Audio-Capturer) - Audio Recorder
 * [Volume Master](https://chromewebstore.google.com/detail/volume-master/jghecgabfgfdldnmbfkhmffcabddioke) - Increase Browser Volume
 * [Audion](https://github.com/GoogleChrome/audion) - Web Audio Graph Visualizer
 * [Compose](https://www.compose.ai/) - Text Autocomplete AI
@@ -650,9 +635,7 @@
 * [chromewm](https://gitlab.com/EduCampi/chromewm) - Tile Windows / Emulate Workspaces
 * [Popup Tab Switcher](https://github.com/dvdvdmt/popup-tab-switcher) - Improved Tab Switching
 * [uAutoPagerize](https://chromewebstore.google.com/detail/kdplapeciagkkjoignnkfpbfkebcfbpb) or [Infy Scroll](https://chromewebstore.google.com/detail/infy-scroll/gdnpnkfophbmbpcjdlbiajpkgdndlino) - Merges a Sites "Next" Pages
-* [Mercury Reader](https://reader.postlight.com/) - Clear Clutter From Articles / [GitHub](https://github.com/postlight/parser)
 * [Amino](https://aminoeditor.com/) - Customize Webpage CSS
-* [BetterViewer](https://github.com/Ademking/Betterviewer) - Improved Image Viewer
 * [Resizing](https://resizing.app/) - Resize Images
 * [SiteScrubber](https://chromewebstore.google.com/detail/sitescrubber/ffadalgofahhohaciekjchkikcglcpla) - Hide Offensive / Swear Words on Sites
 * [Typio Form Recovery](https://typiorecovery.github.io/), [2](https://chromewebstore.google.com/detail/typio-form-recovery/djkbihbnjhkjahbhjaadbepppbpoedaa) - Autosave Input Data in Forms
@@ -702,3 +685,88 @@
 * [Pagetual](https://hoothin.github.io/PagetualGuide/en/) - Merge Sites "Next" Pages
 * [Mouseover Popup Image Viewer](https://greasyfork.org/en/scripts/394820-mouseover-popup-image-viewer) - Shows Images & Videos Behind Links & Thumbnails
 * [DisableAMP](https://github.com/AdguardTeam/DisableAMP) - Disable Google AMP Links
+
+***
+
+# ► Archiving
+
+## ▷ Archive Services
+
+* ⭐ **[Archive.org](https://archive.org/)** - Internet Archive
+* ⭐ **[Wayback Machine](https://web.archive.org/)** or **[Archive.is](https://archive.is/)** / [.li](https://archive.li/) / [.ph](https://archive.ph/) / [.vn](https://archive.vn/) / [.fo](https://archive.fo/) / [.md](https://archive.md/) - Archive Web Pages
+* ⭐ **Wayback Machine Tools** - [Downloader](https://github.com/jsvine/waybackpack) / [Browser Extension](https://github.com/internetarchive/wayback-machine-webextension), [2](https://vegetableman.github.io/vandal/) / [Script](https://github.com/overcast07/wayback-machine-spn-scripts) / [Auto Load](https://gitlab.com/gkrishnaks/WaybackEverywhere-Firefox)
+* ⭐ **[Web Archives](https://github.com/dessant/web-archives)** or [Resurrect Pages Fork](https://github.com/Albirew/resurrect-pages-isup-edition) - Browser Extensions
+* ⭐ **[CachedView](https://cachedview.nl/)** or [Quick Cache](https://cybdetective.com/quickcacheandarhivesearch.html) - Aggregate Cache Results
+* [ArchiveTeam](https://wiki.archiveteam.org/index.php/Main_Page) - Archive Projects
+* [Perma.cc](https://perma.cc/) - Create Permalinks
+* [Ghost Archive](https://ghostarchive.org/) or [Web Gyotaku](https://megalodon.jp/) - Archive Twitter Threads
+
+## ▷ Web Archiving Tools
+
+* 🌐 **[Awesome Web Archiving](https://github.com/iipc/awesome-web-archiving)** - Web Archiving Tools
+* 🌐 **[Webrecorder](https://webrecorder.net/)** - Open-source Archiving Tools
+* ⭐ **[ArchiveBox](https://archivebox.io)** - Self-hosted Web Archiving / [GitHub](https://github.com/archivebox/archivebox)
+* ⭐ **[MarkDownload](https://github.com/deathau/markdownload)** - Download Web Pages as Markdown Files
+* ⭐ **[HTTrack](https://www.httrack.com/)** / [Guide](https://rentry.co/cloneasite) - Website Downloader
+* ⭐ **[datahoarder-website-to-markdown](https://github.com/evilsh3ll/datahoarder-website-to-markdown)** - Index to Markdown Tool
+* [WAIL](https://matkelly.com/wail) / [GitHub](https://github.com/machawk1/wail) - GUI For Archiving Tools
+* [ReplayWeb.page](https://replayweb.page/) - View Web Archive Files
+* [ArchiveWeb.page](https://archiveweb.page/) - Browser Extension
+* [WikiTeam](https://github.com/WikiTeam/wikiteam) - Archive Wikis
+* [Wayback](https://github.com/wabarc/wayback) - Web Archiving Tool
+* [DownloadNet](https://github.com/dosyago/DownloadNet) or [Kiwix](https://kiwix.org/en/) / [Wiki DL Guide](https://practicalbetterments.com/download-all-of-wikipedia-on-your-phone/) - Offline Website Readers
+* [Wget2](https://gitlab.com/gnuwget/wget2) / [Commands](https://www.whatismybrowser.com/developers/tools/wget-wizard/), [SuckIT](https://github.com/skallwar/suckit), [Cyotek WebCopy](https://www.cyotek.com/cyotek-webcopy) or [Website Downloader](https://github.com/AhmadIbrahiim/Website-downloader) - Website Downloaders
+* [Archivematica](https://www.archivematica.org/) - Digital Preservation System
+* [wallabag](https://wallabag.org/) - Save Articles
+* [CopySite](https://xdan.ru/copysite/) - Copy Websites
+* [Scoop](https://github.com/harvard-lil/scoop) - Capture Engine
+
+## ▷ Web Scraping / Crawling
+
+* 🌐 **[Awesome Web Scraping](https://github.com/lorien/awesome-web-scraping)** - Web Scraping Tools
+* 🌐 **[Awesome-crawler](https://github.com/BruceDone/awesome-crawler)** - Crawling Resources
+* ⭐ **[Instant Data Scraper](https://chromewebstore.google.com/detail/instant-data-scraper/ofaokhiedipichpaobibbnahnkdoiiah)** - Browser Extension
+* [Heritrix](https://heritrix.readthedocs.io/) / [GitHub](https://github.com/internetarchive/heritrix3) - Internet Archive's Web Crawler
+* [80legs](https://80legs.com/) - Cloud-Based
+* [Crawly](https://crawly.diffbot.com/) - Online Scraper
+* [web.scraper.workers.dev](https://web.scraper.workers.dev/) - Web Scraper
+* [grab-site](https://github.com/ArchiveTeam/grab-site) - ArchiveTeam Web Crawler
+* [brozzler](https://github.com/internetarchive/brozzler) - Web Crawler
+
+***
+
+# ► Open Source Intelligence
+
+* 🌐 **[Awesome OSINT](https://github.com/jivoi/awesome-osint)** - Awesome OSINT
+* ⭐ **[IntelTechniques](https://inteltechniques.com/index.html)** or [OSINT Techniques](https://www.osinttechniques.com/) - OSINT Resources
+* ⭐ **[Analyst Research Tools](https://analystresearchtools.com/)** - Tools and Resources
+* [Osintracker](https://www.osintracker.com/) - Track Your Investigations
+* [Cyber Detective](https://cybdetective.com/) / [GitHub](https://github.com/cipher387) - Tools, Techniques, and Projects
+* [Project Owl](https://discord.com/invite/projectowl) - OSINT Community
+* [OSINT Dojo](https://www.osintdojo.com/resources/) - OSINT Guides
+* [Hackers Arise OSINT](https://www.hackers-arise.com/osint) - OSINT Guides
+* [What is OSINT?](https://www.recordedfuture.com/blog/open-source-intelligence-definition) - Article
+* [The Key to Unlocking the Web’s Secrets](https://www.einvestigator.com/open-source-intelligence-tools/) - Article
+* [Toddington](https://www.toddington.com/resources/free-osint-resources-open-source-intelligence-search-tools-research-tools-online-investigation/) - Search OSINT Resources
+* [Malfrat's OSINT Map](https://map.malfrats.industries/) - Interactive Map
+* [OH SHINT!](https://ohshint.gitbook.io/oh-shint-its-a-blog/) - OSINT Blog
+
+## ▷ OSINT Collections
+
+* [Social Media](https://start.me/p/4K0DXg/social-media) - Social OSINT Tools
+* [Ph055a's OSINT Collection](https://github.com/Ph055a/OSINT_Collection) - OSINT Investigation Tools
+* [Bellingcat](https://docs.google.com/spreadsheets/d/18rtqh8EG2q1xBo2cLNyhIDuK9jrPGwYr9DI2UncoqJQ/) - Online Investigation Toolkit
+* [Reuser](https://rr.reuser.biz/) - OSINT Resource Discovery Toolkit
+* [GEOINT](https://start.me/p/W1kDAj/geoint) - Geographic OSINT Tools
+* [Cyber Detective's OSINT Collection](https://github.com/cipher387/osint_stuff_tool_collection) - General Index
+* [Nixintel's OSINT Resource List](https://start.me/p/rx6Qj8/nixintel-s-osint-resource-list) - General Index
+* [Technisette's OSINT Tools](https://start.me/p/wMdQMQ/tools) - General Index
+* [OSINT](https://start.me/p/ZME8nR/osint) - General Index
+* [UK-OSINT](https://www.uk-osint.net/index.html) - General Index
+* [AsINT_Collection](https://start.me/p/b5Aow7/asint_collection) - General Index
+* [OSINT4ALL](https://start.me/p/L1rEYQ/osint4all) - General Index
+* [OSINT All](https://start.me/p/0PwOGl/osint-all) - General Index
+* [OSINT Resources](https://start.me/p/1kAP0b/osint-resources) - General Index
+* [OSINT Essentials](https://www.osintessentials.com/) - General Index
+* [OSINTgeek](https://osintgeek.de/tools) - General Index
+* [MIDASearch](https://midasearch.org/) - General Index

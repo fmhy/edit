@@ -46,9 +46,9 @@
 
 * 🌐 **[Awesome Gnome](https://github.com/Kazhnuz/awesome-gnome)** - GNOME Resources
 * ⭐ **[Linux.Chat](https://discord.gg/linuxchat)**, [Linux.org](https://linux.org/), [Linux x Technology](https://linuxdiscord.com/), [Ezlinux](https://ezlinux.net/) or [Discord-Linux](https://discord.gg/discord-linux) - Linux Discussion / Forums
-* ⭐ **[Ventoy](https://www.ventoy.net) / [GitHub](https://github.com/ventoy/Ventoy)** - Create Bootable USB Linux Drives
-* ⭐ **[DistroSea](https://distrosea.com/)** or [JSLinux](https://bellard.org/jslinux/) - Linux Browser Emulators
-* ⭐ **[Btop](https://github.com/aristocratos/btop)**, **[pfetch](https://github.com/dylanaraps/pfetch)**, **[MangoHud](https://github.com/flightlessmango/MangoHud)**, [CPU-X](https://github.com/TheTumultuousUnicornOfDarkness/CPU-X), [vtop](https://github.com/MrRio/vtop), [neofetch](https://github.com/dylanaraps/neofetch) / [Themes](https://github.com/chick2d/neofetch-themes) or [LM Sensors](https://github.com/lm-sensors/lm-sensors) or [s-tui](https://github.com/amanusk/s-tui) - System Info / Resource Monitors
+* ⭐ **[Ventoy](https://www.ventoy.net)** / [GitHub](https://github.com/ventoy/Ventoy) or [Impression](https://gitlab.com/adhami3310/Impression) - Create Bootable USB Linux Drives
+* ⭐ **[Btop](https://github.com/aristocratos/btop)**, **[fastfetch](https://github.com/fastfetch-cli/fastfetch)**, **[MangoHud](https://github.com/flightlessmango/MangoHud)**, [CPU-X](https://github.com/TheTumultuousUnicornOfDarkness/CPU-X), [vtop](https://github.com/MrRio/vtop), [Macchina](https://github.com/Macchina-CLI/macchina) or [LM Sensors](https://github.com/lm-sensors/lm-sensors) or [s-tui](https://github.com/amanusk/s-tui) - System Info / Resource Monitors
+* [DistroSea](https://distrosea.com/) or [JSLinux](https://bellard.org/jslinux/) - Linux Browser Emulators
 * [SysmonForLinux](https://github.com/Sysinternals/SysmonForLinux) - Monitor / Log System Activity
 * [Nanobench](https://github.com/andreas-abel/nanoBench) - CPU Microbenchmark / [Documentation](https://nanobench.ankerl.com/)
 * [ScanMem](https://github.com/scanmem/scanmem) - Memory Scanner / Debugger
@@ -101,7 +101,7 @@
 
 ## ► Window Managers
 
-* **Note** - Most Window Managers have a steep learning curve. Customization (or "ricing") is a requirement. [See below](https://old.reddit.com/r/FREEMEDIAHECKYEAH/wiki/linux#wiki_.25B7_customization) for some resources.
+* **Note** - Most Window Managers have a steep learning curve. Customization (or "ricing") is a requirement. [See below](https://fmhy.net/linuxguide#ricing-customization) for some resources.
 
 ***
 
@@ -131,10 +131,11 @@
 * [Autokey](https://autokey.github.io/index.html) / [GitHub](https://github.com/autokey/autokey) - Linux Automation Utility
 * [Touchégg](https://github.com/JoseExposito/touchegg) - Multi-Touch Gesture Recognizer
 * [Material Shell](https://material-shell.com/) or [Forge](https://github.com/forge-ext/forge) - GNOME Tiling Extension
-* [Bismuth](https://bismuth-forge.github.io/bismuth/) - KDE Tiling Extension / [GitHub](https://github.com/Bismuth-Forge/bismuth)
+* [Polonium](https://zeroxoneafour.github.io/polonium/) - KDE6 Tiling Manager Extension / [GitHub](https://github.com/zeroxoneafour/polonium)
+* [Bismuth](https://bismuth-forge.github.io/bismuth/) - KDE5 Tiling Extension / [GitHub](https://github.com/Bismuth-Forge/bismuth)
 * [Ghostwriter](https://ghostwriter.kde.org/) or [Remarkable](https://remarkableapp.github.io/) - Markdown Editor
 * [Gedit](https://wiki.gnome.org/Apps/Gedit), [Geany](https://www.geany.org/), [Leafpad](http://tarot.freeshell.org/leafpad/), [NotepadNext](https://github.com/dail8859/NotepadNext), [Notepadqq](https://github.com/notepadqq/notepadqq), [Featherpad](https://github.com/tsujan/FeatherPad), [nb](https://xwmx.github.io/nb) / [GitHub](https://github.com/xwmx/nb) or [Mousepad](http://git.xfce.org/apps/mousepad/) / [GitHub](https://github.com/codebrainz/mousepad) - Text Editor / Note Apps
-* [TextPieces](https://github.com/liferooter/textpieces) - Quick Text Transformations
+* [TextPieces](https://gitlab.com/liferooter/textpieces) - Quick Text Transformations / [Github](https://github.com/liferooter/textpieces)
 * [ly](https://github.com/fairyglade/ly) - Display Manager with Console UI
 * [GammaStep](https://gitlab.com/chinstrap/gammastep) - Adjust Screen Temperature
 * [VirtScreen](https://github.com/kbumsik/VirtScreen) - Use Mobile Device as Monitor
@@ -289,6 +290,7 @@ Linux Gaming Guide
 * [Anime Game Launcher](https://github.com/an-anime-team/an-anime-game-launcher) / [Discord](https://discord.gg/ck37X6UWBp) - Genshin Impact Launcher
 * [among-sus](https://git.sr.ht/~martijnbraam/among-sus) - Play Among Us in your Terminal (Recreation)
 * [Gameboy.live](https://github.com/HFO4/gameboy.live) - Terminal Game Boy Emulator
+* [QuickPassthrough](https://github.com/HikariKnight/quickpassthrough) - Simplified Qemu GPU Passthrough
 * [Gambit](https://github.com/maaslalani/gambit) - Terminal Chess
 * [Sssnake](https://github.com/AngelJumbo/sssnake) - Terminal Snake
 
@@ -298,7 +300,7 @@ Linux Gaming Guide
 
 ## ▷ Adblock / Privacy
 
-* ↪️ **[Linux 2FA](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25B7_two-factor_authentication)**
+* ↪️ **[Linux 2FA](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25B7_password_privacy_.2F_2fa)**
 * ⭐ **[Arch Security Wiki](https://wiki.archlinux.org/title/Security)**,  [Linux Hardening](https://vez.mrsk.me/linux-hardening.html) / [2](https://madaidans-insecurities.github.io/guides/linux-hardening.html) or [How to Secure a Linux Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server) - Linux Security Guides
 * ⭐ **[SpoofDPI](https://github.com/xvzc/SpoofDPI)** or [zapret](https://github.com/bol-van/zapret) - DPI circumvention
 * ⭐ **[CryptSetup](https://gitlab.com/cryptsetup/cryptsetup)** or [Tomb](https://dyne.org/software/tomb/) - File Encryption
@@ -322,7 +324,7 @@ Linux Gaming Guide
 * [Collision](https://flathub.org/apps/details/dev.geopjr.Collision) - Check File Hashes
 * [WhoAmI Project](https://owerdogan.github.io/whoami-project) / [GitHub](https://github.com/owerdogan/whoami-project) - Privacy / Anonymity Tool
 * [Yubikey Full Disk Encryption](https://github.com/agherzan/yubikey-full-disk-encryption) - Use YubiKey to unlock a LUKS Partition
-* [BhanUpratpys](https://dnswarden.com/) / [GitHub](https://github.com/bhanupratapys/dnswarden) - DNS Adblocking
+* [DNSWarden](https://dnswarden.com/) / [GitHub](https://github.com/bhanupratapys/dnswarden) - DNS Adblocking
 * [Firejail](https://firejail.wordpress.com/) or [Bubblewrap](https://github.com/containers/bubblewrap) - Sandboxing tools
 * [GoogleTeller](https://github.com/berthubert/googerteller) - Google Tracking Notifications
 
@@ -369,7 +371,7 @@ Linux Gaming Guide
 * [Hexchat](https://hexchat.github.io/), [Adium](https://adium.im/), [Polari](https://wiki.gnome.org/Apps/Polari), [Irssi](https://github.com/irssi/irssi) or [Weechat](https://weechat.org/) - IRC Clients
 * [Dino](https://dino.im/) - XMPP Client
 * [gurk-rs](https://github.com/boxdot/gurk-rs) - Signal Client
-* [YouTube-Viewer](https://github.com/trizen/youtube-viewer) - YouTube Linux Client / [Fork](https://github.com/trizen/pipe-viewer) 
+* [YouTube-Viewer](https://github.com/trizen/youtube-viewer), [Pipe Viewer](https://github.com/trizen/pipe-viewer) or [Pipeline](https://gitlab.com/schmiddi-on-mobile/pipeline) - YouTube Clients
 * [Giara](https://aur.archlinux.org/packages/giara/) - Reddit Client
 * [BetterDiscordctl](https://github.com/bb010g/betterdiscordctl) - Modded Discord Client / [Guide](https://gist.github.com/ObserverOfTime/d7e60eb9aa7fe837545c8cb77cf31172)
 * [Nextcord](https://docs.nextcord.dev/) - Discord API Wrapper
@@ -382,9 +384,9 @@ Linux Gaming Guide
 ## ▷ File Tools
 
 * 🌐 **[Linux File Backup](https://github.com/restic/others)** - File Backup App List
-* ⭐ **[Warpinator](https://github.com/linuxmint/warpinator)**, [Magic Wormhole](https://github.com/magic-wormhole/magic-wormhole), [syncthing](https://syncthing.net/), [portal](https://github.com/SpatiumPortae/portal), [Zrok](https://zrok.io/) or [Sharing](https://github.com/parvardegr/sharing) - File Sync Apps
+* ⭐ **[Warpinator](https://github.com/linuxmint/warpinator)**, [Magic Wormhole](https://github.com/magic-wormhole/magic-wormhole), [syncthing](https://syncthing.net/), [portal](https://github.com/SpatiumPortae/portal), [Zrok](https://zrok.io/), [Celeste](https://flathub.org/apps/details/com.hunterwittenborn.Celeste) / [2](https://snapcraft.io/celeste) or [Sharing](https://github.com/parvardegr/sharing) - File Sync Apps
 * ⭐ **[Baobab](https://gitlab.gnome.org/GNOME/baobab)** - Disk Usage Analyzer
-* [ANGRYsearch](https://github.com/DoTheEvo/ANGRYsearch), [CatCLI](https://github.com/deadc0de6/catcli), [xplr](https://xplr.dev/) / [GitHub](https://github.com/sayanarijit/xplr) / [Discord](https://discord.com/invite/JmasSPCcz3), [logo-ls](https://github.com/Yash-Handa/logo-ls), [ugrep](https://ugrep.com) / [GitHub](https://github.com/Genivia/ugrep) or [Achoz](https://achoz.ahoxus.org) / [GitHub](https://github.com/kcubeterm/achoz) - File Explorers
+* [ANGRYsearch](https://github.com/DoTheEvo/ANGRYsearch), [CatCLI](https://github.com/deadc0de6/catcli), [xplr](https://xplr.dev/) / [GitHub](https://github.com/sayanarijit/xplr) / [Discord](https://discord.com/invite/JmasSPCcz3), [logo-ls](https://github.com/Yash-Handa/logo-ls), [ugrep](https://ugrep.com) / [GitHub](https://github.com/Genivia/ugrep) or [Achoz](https://github.com/kcubeterm/achoz) - File Explorers
 * [Collector](https://mijorus.it/projects/collector/) - File Drag & Drop
 * [z](https://github.com/rupa/z) - Track Most used Directories
 * [Dolphin](https://userbase.kde.org/Dolphin) or [SpaceFM](https://ignorantguru.github.io/spacefm/) - File Managers
@@ -427,7 +429,7 @@ Linux Gaming Guide
 * [hush](https://github.com/hush-shell/hush) - Unix Shell
 * [Extension Manager](https://mattjakeman.com/apps/extension-manager) - GNOME Shell Extensions 
 * [Distrobox](https://distrobox.it/) - Use Distros via Terminal
-* [htop](https://htop.dev/) - Interactive Process Viewer / [GitHub](https://github.com/htop-dev/htop)
+* [htop](https://htop.dev/) or [Zenith](https://github.com/bvaisvil/zenith) - Interactive Process Viewers
 * [eza](https://eza.rocks/) - Modern ls replacement
 * [explainshell.com](https://explainshell.com/) - Match Command-Line Arguments to Help Text
 * [PowerShell](https://github.com/powershell/powershell) - PowerShell
@@ -454,7 +456,7 @@ Linux Gaming Guide
 * [wpgtk](https://deviantfero.github.io/wpgtk) - Fully Customizable Unix Color Schemer
 * [Akira](https://github.com/akiraux/Akira) - UI/UX Customization
 * [Kvantum](https://github.com/tsujan/Kvantum) - Linux QT / KDE Theme Engine
-* [Polybar (X11)](https://github.com/polybar/polybar) or [Waybar (Wayland)](https://github.com/Alexays/Waybar) - Customizable Status Bars
+* [Polybar (X11)](https://github.com/polybar/polybar), [Iron Bar](https://github.com/JakeStanger/ironbar) (Wayland) or [Waybar](https://github.com/Alexays/Waybar) (Wayland) - Customizable Status Bars
 * [MacBuntu Transformation Pack](https://www.noobslab.com/2018/08/macbuntu-1804-transformation-pack-ready.html), [2](https://www.noobslab.com/2017/06/macbuntu-transformation-pack-ready-for.html) - Mac Theme
 * [Windows-10](https://b00merang.weebly.com/windows-10.html) - Windows 10 Theme
 * [La Capitaine](https://github.com/keeferrourke/la-capitaine-icon-theme), [Moka](https://snwh.org/moka), [Numix](https://github.com/numixproject/numix-icon-theme) or [Papirus](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) - Linux Icon Themes
@@ -494,7 +496,7 @@ Linux Gaming Guide
 * [Whisky](https://getwhisky.app/) - Wine Wrapper
 * [SwiftUI Win11](https://jinxiansen.github.io/Windows11/) - Windows 11 Desktop Client for macOS
 * [OrbStack](https://orbstack.dev/) - Docker Client
-* [Cog](https://cogx.org/) or [Cider](https://cider.sh/) / [GitHub](https://github.com/ciderapp/Cider) - Audio Players
+* [Cider](https://cider.sh/) / [GitHub](https://github.com/ciderapp/Cider) - Audio Players / Free Classic Version
 * [Alfred Spotify Mini Player](https://alfred-spotify-mini-player.com/) - Spotify Mini Player
 * [Nuage](https://github.com/lbrndnr/nuage-macos) - Soundcloud Client
 * [Subsonic](https://github.com/twostraws/Subsonic) - SwiftUI Audio Player
@@ -530,6 +532,7 @@ Linux Gaming Guide
 * [Link Unshortener](https://underpassapp.com/LinkUnshortener/) - Unshorten Links
 * [Aiko](https://sindresorhus.com/aiko) - Audio Transcription
 * [Drafts](https://getdrafts.com/), [CotEditor](https://coteditor.com/), [TextMate](https://macromates.com/), [Nebo](https://apps.apple.com/us/app/nebo-notes-pdf-annotations/id1119601770), [Kyun](https://github.com/file-acomplaint/kyun), [FSNotes](https://fsnot.es/), [Notenik](https://notenik.app/) or [Voodoopad](https://www.voodoopad.com/) - Text Editors / Notes
+* [Agenda](https://agenda.com/) - Mac Notes Organizer / [Forum](https://agenda.community/)
 * [Taskpaper](https://www.taskpaper.com/) - To-Do Apps
 * [Stroke](https://stroke.lllllllllllllllll.com/) - Text (You Can't Delete) Editor
 * [BibDesk](https://bibdesk.sourceforge.io/) - Bibliography Manager
@@ -560,7 +563,7 @@ Linux Gaming Guide
 * [Yabai](https://github.com/koekeishiya/yabai), [Amethyst](https://ianyh.com/amethyst/) / [GitHub](https://github.com/ianyh/Amethyst), [1Piece](https://app1piece.com/), [Spaces](https://spacesformac.xyz/), [AeroSpace](https://github.com/nikitabobko/AeroSpace), [Phoenix](https://kasper.github.io/phoenix/) or [Rectangle](https://rectangleapp.com/) - Window Managers
 * [Later](https://getlater.app/) - Restore App Sessions
 * [AlDente](https://apphousekitchen.com/) - Charging Manager
-* [Unlocker](https://github.com/paolo-projects/unlocker) - VMware Unlocker
+* [Unlocker](https://rentry.co/FMHYBase64#vmware) - VMware Unlocker
 * [USBMap](https://github.com/corpnewt/USBMap) - Map MacOS USB Ports
 * [MacVim](https://macvim.org/), [CodeEdit](https://www.codeedit.app/) or [AuroraEditor](https://auroraeditor.com/) - Code Editors
 * [iTerm2](https://iterm2.com/) - Replacements for Terminal
@@ -579,7 +582,7 @@ Linux Gaming Guide
 * [IINA](https://iina.io/) - Video Player
 * [Gifski](https://sindresorhus.com/gifski) - Image to GIF Converter / [GitHub](https://github.com/sindresorhus/Gifski)
 * [Darkroom](https://apps.apple.com/us/app/darkroom-photo-video-editor/id953286746) - Image / Video Editor
-* [Kap](https://getkap.co) - Screen Recorder
+* [Kap](https://getkap.co) or [ScreenTimeLapse](https://github.com/wkaisertexas/ScreenTimeLapse) - Screen Recorders
 * [Garageband](https://apps.apple.com/us/app/garageband/id682658836?mt=12) - Audio Editor
 * [Yoshimi](https://yoshimi.github.io/) - Audio Synthesizer
 * [EQMac](https://eqmac.app/) - Audio Equalizer
@@ -653,7 +656,7 @@ Linux Gaming Guide
 # ► Mac Adblock / Privacy
 
 * 🌐 **[Awesome OSX Security](https://github.com/ashishb/osx-and-ios-security-awesome)** - Mac Security Resources
-* ↪️ **[Mac 2FA](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25B7_two-factor_authentication)**
+* ↪️ **[Mac 2FA](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25B7_password_privacy_.2F_2fa)**
 * ⭐ **[Malwarebytes](https://www.malwarebytes.com/mac-download)**, [BlockBlock](https://objective-see.org/products/blockblock.html) or [KnockKnock](https://objective-see.org/products/knockknock.html) - Antivirus
 * ⭐ **[SpotX-Bash](https://github.com/jetfir3/SpotX-Bash)** or [Mac_Spotify_Adblock](https://github.com/Devanshu-17/Mac_Spotify_Adblock) - Spotify Adblockers
 * [Ka-Block!](https://apps.apple.com/us/app/ka-block/id1037173557), [BlockBear](https://apps.apple.com/ca/app/blockbear/id1023924541) or [Adblock Plus for iOS](https://gitlab.com/eyeo/adblockplus/adblock-plus-for-safari) - Safari Adblockers

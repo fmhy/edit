@@ -11,7 +11,6 @@
 * [SocialBlade](https://socialblade.com/) - Social Media Stats
 * [LiveCounts](https://livecounts.io/) - Live Social Media Stats
 * [ExportComments](https://exportcomments.com/) - Export Social Media Comments 
-* [EagleEye](https://github.com/ThoughtfulDev/EagleEye) - Find Social Media Profiles From Image
 * [socid_extractor](https://github.com/soxoj/socid-extractor) - Extract Social Media User Info from Pages
 * [tumblr-utils](https://github.com/bbolli/tumblr-utils) - Tumblr Utilities
 * [Tumblr Savior](https://bjornstar.com/tumblr-savior) - Tumblr Dashboard Filter
@@ -33,9 +32,8 @@
 * [AnswersOverflow](https://www.answeroverflow.com/) - Discord Search Engine
 * [DiscordFS](https://github.com/dhrumilp15/haystackfs) - Discord File Search
 * [Discord Downloader Go](https://github.com/get-got/discord-downloader-go) - Discord File Downloader
-* [Discord-Avatar](https://discord-avatar.com/) or [Toolscord](https://toolscord.com/) - Download Discord Avatars
+* [Toolscord](https://toolscord.com/) - Download Discord Avatars
 * [Disbox](https://disboxapp.github.io/web/) - Discord Cloud Storage
-* [CloneCord](https://github.com/Rekulous/CloneCord-bot) - GClone Cloud Storage File Manager in Discord
 * [Discord Chat Exporter](https://github.com/Tyrrrz/DiscordChatExporter) / [Python](https://github.com/mahtoid/DiscordChatExporterPy) or [Discord History Tracker](https://dht.chylex.com/) / [GitHub](https://github.com/chylex/Discord-History-Tracker) - Archive / Export Discord Chats
 * [Dumpus](https://dumpus.app/) - Discord Data Package Explorer
 * [Discord Backup](https://github.com/itschasa/Discord-Backup) - Backup / Restore Discord Accounts
@@ -49,14 +47,14 @@
 * [Discord Templates](https://discordtemplates.me/) - Discord Server Templates
 * [Discord UI Mockup](https://www.figma.com/community/file/994323951589690341/Discord-Desktop-UI) - Discord UI Mockups
 * [discord-badges](https://github.com/mezotv/discord-badges) - Discord Badges Image Files
-* [SunnyDiscord](https://gist.github.com/TheSunCat/58fedaa19d6154ef3e4b2b676c286906) or [Discord Adblock](https://github.com/CroissantDuNord/discord-adblock) - Hide Nitro / Boost Upsells
+* [DisblockOrigin](https://gist.github.com/TheSunCat/58fedaa19d6154ef3e4b2b676c286906) or [Discord Adblock](https://github.com/CroissantDuNord/discord-adblock) - Hide Nitro / Boost Upsells
 * [Discord Creation Date Check](https://github.com/hugonun/discordid2date) - Check Creation Date of User / Channel / Server
 * [Discord Lookup](https://discord.id/) - Look up a Discord User or Bot ID
 * [Guild Counter](https://rauf.wtf/guildcount) - Check How Many Servers You're In
 * [Discord Dev Badges](https://pastebin.com/JzrckCix), [active-developer-badge](https://github.com/hackermondev/discord-active-developer-badge) or [GiveMeBadge](https://github.com/AlexFlipnote/GiveMeBadge) - Unlock Discord Dev Badges / [Script](https://gist.github.com/Raraph84/cff3ff908a1f2692b9a8452d2f49c2bf)
 * [Discord-Api](https://discord.gg/discord-api) - Discord API Chat
 * [Discord-Datamining](https://github.com/Discord-Datamining/Discord-Datamining) - Discord Datamining via JS Files
-* [Discord TTS Bot](https://github.com/moonstar-x/discord-tts-bot) - Text to Speech for Discord
+* [Discord TTS Bot](https://docs.moonstar-x.dev/discord-tts-bot/) - Text to Speech for Discord
 * [Discord Webhooks Guide](https://birdie0.github.io/discord-webhooks-guide/) - Webhooks Guide
 * [Webhooker](https://xdfnleaks.github.io/webhooker/) - Simple Webhooks App
 * [Embed Visualizer](https://embed.discord.website/) - Preview Embeds
@@ -96,8 +94,6 @@
 * [BD Editor](https://bdeditor.dev/) - Client Theme Editor
 * [ChromaDiscordApp](https://github.com/tgraupmann/ChromaDiscordApp) - Chroma Light for Discord
 * [Overlayed](https://overlayed.dev/) - Alternative Discord VC Overlay / [GitHub](https://github.com/Hacksore/overlayed)
-* [Acrylic](https://github.com/uwu/Acrylic) - Glass Theme
-* [WinClassic](https://github.com/SlippingGittys-Discord-Themes/WinClassic) - Classic Windows Theme
 * [BeautifulDiscord](https://github.com/leovoel/BeautifulDiscord) - Custom CSS Support 
 * [ansi-colors-discord.md](https://gist.github.com/kkrypt0nn/a02506f3712ff2d1c8ca7c9e0aed7c06) - Discord ANSI Text Guide
 * [Coloured-Text-Generator](https://rebane2001.com/discord-colored-text-generator/) - Discord ANSI Text Generator
@@ -107,7 +103,6 @@
 * [Pfps.gg](https://pfps.gg/) - Find Discord Avatars
 * [usrbg](https://github.com/Discord-Custom-Covers/usrbg) - Custom Discord Profile Backgrounds
 * [Disgradient](https://disgradient.netlify.app/) - Discord Folder / Role Color Gradients
-* [NotQuiteNitro](https://nqn.blue/) - Discord Nitro Alternative
 * [ImageClipboard](https://imageclipboard.com/), [Slackmoji](https://github.com/seanprashad/slackmoji) or [emoji.gg](https://emoji.gg/)- Free Discord Nitro Emojis
 * [Snowsgiving Icons & Emotes](https://web.archive.org/web/20230729100139/https://cdn.discordapp.com/attachments/689605845058715801/862281806820278292/Snow.zip) - Snowsgiving Event Icons / Emojis
 * [6gk Turtles](https://github.com/6gk/turtles) - Discord Turtle Emojis
@@ -125,6 +120,7 @@
 ## ▷ Discord Bots
 
 * ⭐ **[FreeStuff Bot](https://freestuffbot.xyz/)** - Free Games Alert Bot
+* [NotQuiteNitro](https://nqn.blue/) - Discord Nitro Alternative
 * [fmbot](https://fmbot.xyz/) - Discord Voice Chat Scrobbling
 * [Chuu](https://github.com/ishwi/Chuu) - Last.fm Discord Bot
 * [Craig](https://craig.chat/) - Voice Channel Recorder Bot / [Backup](https://craig.chat/giarc/)
@@ -172,24 +168,22 @@
 
 * ⭐ **[Reddit Enhancement Suite](https://redditenhancementsuite.com/)**, [Reddit Fix](https://greasyfork.org/en/scripts/404497-reddit-fix), [Reddit Extension](https://lawrenzo.com/p/reddit-extension), [RedditEnhancer](https://github.com/joelacus/RedditEnhancer) or [RedditMod2](https://greasyfork.org/en/scripts/29724-redditmod2) - Reddit Enhancement Extensions / Scripts
 * ⭐ **[Old Reddit Redirect](https://github.com/tom-james-watson/old-reddit-redirect)** - Redirect New Reddit to Old
-* [Photon](https://photon-reddit.com/), [reditr](https://reditr.com/) or [redlib](https://github.com/redlib-org/redlib) - Reddit Frontends
+* [Photon](https://photon-reddit.com/), [reditr](https://reditr.com/), [RDX](https://rdx.overdevs.com/) or [redlib](https://github.com/redlib-org/redlib) - Reddit Frontends
 * [Reddit Login Bypass Script](https://pastebin.com/raw/sU5tqwep) - Bypass Reddit Login
+* [Beleave](https://beleave.virock.org/) - Bulk Subreddit Unsub Tool
 * [Reddit Comber](https://redditcomber.com/) or [Sub Notification](https://redd.it/5mz9z5) - Reddit Keyword Notifications
 * [Unreadit](https://app.mailbrew.com/unreadit) - Reddit Newsletters
-* [Reddit Shadow Ban Info](https://redd.it/ptrm7u) - Check if You've been Shadowbanned
+* [Reddit Shadow Ban Info](https://redd.it/1btuwel) - Check if You've been Shadowbanned
 * [Reddit Markdown Guide](https://www.reddit.com/wiki/markdown) - Learn Reddit Markdown
 * [Reddit Preview](https://redditpreview.com/) - Preview Reddit Posts
 * [Redirect Privated](https://greasyfork.org/en/scripts/468945) - Redirect Private Pages to Cached Versions
-* [redditpx](https://www.redditpx.com/), [Subscroller](https://subscroller.app/) or [Redditp](https://redditp.com/) - Reddit Image / Video Slideshows
+* [redditpx](https://www.redditpx.com/) or [Redditp](https://redditp.com/) - Reddit Image / Video Slideshows
 * [RedditRaffler](https://www.redditraffler.com/) - Reddit Raffle System
+* [RedditManager](https://redditmanager.com/) or [Saved for Reddit](https://pvik.github.io/saved-for-reddit/) - Reddit Content Managers
 * [PowerDeleteSuite](https://github.com/j0be/PowerDeleteSuite) - Reddit Auto Post Delete
-* [SubredditLog](https://gitlab.com/scallaway/SubredditLog) - Reddit Moderation Log
 * [Reddit Emojis](https://greasyfork.org/en/scripts/443011) - Emojis for Old Reddit
 * [Subreddit Tabs](https://greasyfork.org/en/scripts/460086) - Subreddit Icon Tabs
 * [Reddit Comment Highlights](https://github.com/aesy/reddit-comment-highlights) - Highlight New Comments
-* [Reddit Spoiler Blur Remover](https://greasyfork.org/en/scripts/416091-reddit-spoiler-blur-remover) - Remove Reddit Spoiler Blur
-* [3D for Reddit](https://3dforreddit.com/) - 3D Reddit Browser
-* [SO Reddit](https://dutzi.github.io/so-reddit/) - Stack Overflow Style Viewer
 * [Pholder](https://pholder.com/) - Article Style Viewer
 * [Load Reddit Images Directly](https://github.com/nopperl/load-reddit-images-directly) / [Chrome](https://github.com/MonsterMannen/reddit-load-images-directly-chrome) - Direct Image Viewer
 * [SocialGrep](https://socialgrep.com/) - Reddit Statistics
@@ -356,7 +350,6 @@
 * [yt2pod](https://github.com/frou/yt2pod) - Create Podcasts from YouTube Channels
 * [YouTube-Subscriptions-RS](https://github.com/jeb5/YouTube-Subscriptions-RSS) - Export Subscriptions to RSS Feed
 * [YouTube Subscription History](https://xxluke.de/subscription-history/) - Find when you subscribed to channels
-* [Channel RSS](https://pastebin.com/hqkNuMSx) - Add Individual Channels to RSS Feed
 * [SpeechChat](https://speechchat.com/) - Text to Speech Client
 * [AnnotationsRestored](https://github.com/isaackd/AnnotationsRestored) or [YouTube Annotations](https://archive.org/details/youtubeannotations) - Restore YouTube Annotations
 * [YouTube Metadata](https://mattw.io/youtube-metadata/) - YouTube Video Metadata Viewer
@@ -370,6 +363,7 @@
 * [YT Playlist Length](https://ytplaylist-len.sharats.dev/) - Playlist Length Checker
 * [YouTube Region Checker](https://polsy.org.uk/stuff/ytrestrict.cgi) - YouTube Region Restrictions Check
 * [YouTube Web Tweaks](https://greasyfork.org/en/scripts/447802) - Speed Up YouTube
+* [YourCodecs](https://github.com/undecV/YourCodecs) - Enable / Disable Player Codecs
 * [YouTube CPU Tamer](https://greasyfork.org/en/scripts/431573) or [Unhold YouTube](https://greasyfork.org/en/scripts/457205) - YouTube CPU Optimization
 * [FREEZE](https://chromewebstore.google.com/detail/freeze/bejbbhcoefpmeejcnknjfepoocehopii) - Control YouTube via Webcam
 * [RapidTags](https://www.rapidtags.io/) - YouTube Tag Generators
@@ -392,20 +386,23 @@
 * [YouTubeLiveChatFlusher](https://github.com/ys-j/YoutubeLiveChatFlusher) - YouTube Live Bullet Chatting (Danmaku)
 * [YTArchive](https://github.com/Kethsar/ytarchive) - YouTube Livestream Recorder
 * [YouTube Livestream Theatre](https://gitlab.com/-/snippets/2099898) - Twitch-style Theater Mode for YouTube Live
+* [fadblock](https://github.com/0x48piraj/fadblock) or [Disable YT Video Ads](https://greasyfork.org/en/scripts/32626) - YouTube Adblockers
+* [ADSpeedUp](https://www.adspeedup.com/) - Speed Up YouTube Ads instead of Skipping to Support Creators / [Discord](https://discord.com/invite/ZxTGFFDX5y)
 
 ***
 
 ## ▷ YouTube Downloaders
 
 * 🌐 **[YT-DL GUI Index](https://www.reddit.com/r/youtubedl/wiki/info-guis)** - List of YT-DL GUIs
-* 🌐 **[YT-DL Script Index](https://github.com/TheFrenchGhosty/TheFrenchGhostys-Ultimate-YouTube-DL-Scripts-Collection)** - List of YT-DL Scripts
 * ↪️ **[Multi-Site Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video-tools#wiki_.25BA_video_download)**
-* ⭐ **[YT-DLP](https://github.com/yt-dlp/yt-dlp)** or [YTDL-PATCHED](https://github.com/ytdl-patched/ytdl-patched) - YouTube Downloader / [Discord](https://discord.gg/H5MNcFW63r)
+* ⭐ **[YT-DLP](https://github.com/yt-dlp/yt-dlp)** or [YTDL-PATCHED](https://github.com/ytdl-patched/ytdl-patched) - YouTube Downloader / [Discord](https://discord.gg/H5MNcFW63r) / [Commands](https://github.com/TheFrenchGhosty/TheFrenchGhostys-Ultimate-YouTube-DL-Scripts-Collection)
 * ⭐ **[Stacher](https://stacher.io/)** - YT-DL GUI
+* ⭐ **[Y232](https://y232.live/)** - YT-DL WebUI
 * [yt-dlp-gui](https://github.com/kannagi0303/yt-dlp-gui) - YT-DL GUI / [Easy Installer](https://github.com/kazukikasama/youtube-dlp-gui-installer)
 * [Gropple](https://github.com/tardisx/gropple) - YT-DL GUI
 * [Tartube](https://tartube.sourceforge.io/) - YT-DL GUI
 * [media-downloader](https://github.com/mhogomchungu/media-downloader) - YT-DL GUI
+* [ezytdl](https://github.com/sylviiu/ezytdl) - YT-DL GUI
 * [ytdlp-interface](https://github.com/ErrorFlynn/ytdlp-interface) - YT-DL GUI
 * [youtube-dl-gui](https://github.com/oleksis/youtube-dl-gui), [2](https://github.com/StefanLobbenmeier/youtube-dl-gui) - YT-DL GUI
 * [Videomass](https://jeanslack.github.io/Videomass/) - YT-DL / FFmpeg GUI
@@ -504,8 +501,10 @@
 * [JChat](https://www.giambaj.it/twitch/jchat/) - Show Twitch Chat on Screen
 * [Hide-Twitch-Chat-Users](https://github.com/mikeyaworski/Hide-Twitch-Chat-Users) - Hide Twitch Chat Users
 * [TwitchChatDanmaku](https://github.com/wheatup/TwitchChatDanmaku), [Transparent-Twitch-Chat](https://github.com/chylex/Transparent-Twitch-Chat) or [Transparent Twitch Chat Overlay](https://github.com/baffler/Transparent-Twitch-Chat-Overlay) - Transparent Twitch Chat
+* [Screenshot Twitch](https://github.com/eramdam/userscripts/blob/main/Screenshot%20Twitch.user.js) - Add Screenshot Button to Twitch
 * [Auto Twitch Drops](https://chromewebstore.google.com/detail/automatic-twitch-drops-mo/kfhgpagdjjoieckminnmigmpeclkdmjm) - Twitch Drop Notifications
 * [Auto-Claim-Twitch-Channel-Points](https://github.com/mikeyaworski/Auto-Claim-Twitch-Channel-Points) or [TTVDropBot](https://github.com/Giingu/Enhanced-TTVDropBot) - Auto Claim Twitch Points
+* [Twitch Drops Miner](https://github.com/DevilXD/TwitchDropsMiner) - Auto Claim Twitch Drops
 * [TwitchRSS](https://twitchrss.appspot.com/) - Twitch RSS Generator
 * [TTV Favorites](https://github.com/jc9108/ttv-favorites) - Add Channel Favorites
 * [Streamlink Twitch GUI](https://github.com/streamlink/streamlink-twitch-gui) - Twitch Browser for Streamlink
@@ -516,9 +515,11 @@
 * [TwitchLeak](https://twitchleak.netlify.app/) - Twitch Top Earners Table
 * [TwitchQuotes](https://www.twitchquotes.com/) - Twitch Copypastas
 * [TwitchEmotes](https://twitchemotes.com/) - Global Twitch Emotes
+* [ChatGuessr](https://chatguessr.com/) - GeoGuessr for Twitch
 * [TwitchInsights](https://twitchinsights.net/), [StreamCharts](https://streamscharts.com/) or [TwitchTracker](https://twitchtracker.com/) - Twitch Stats
 * [Trovo](https://trovo.live/), [Kick](https://kick.com/), [dlive](https://dlive.tv/), [Caffeine](https://www.caffeine.tv/), [Lightspeed](https://lightspeed.tv/) or [Theta](https://www.theta.tv/) - Twitch Alternatives
 * [Ultrawidify](https://github.com/tamius-han/ultrawidify) - Fix Twitch Aspect Ratio
+* [Twitch Status](https://twitchstatus.com/) - Twitch Status Tracking
 
 ***
 
@@ -540,11 +541,12 @@
 ## ▷ Twitch Adblockers
 
 * 🌐 **[TwitchAdSolutions](https://github.com/pixeltris/TwitchAdSolutions)** - Solutions / Scripts for Blocking Twitch Ads
+* ⭐ **[PurpleAdblock](https://addons.mozilla.org/en-US/firefox/addon/purpleadblock/)** - Twitch Adblocker
 * ⭐ **[TTV LOL PRO](https://github.com/younesaassila/ttv-lol-pro)** - Twitch Adblocker
 * [VideoAdBlockForTwitch](https://github.com/cleanlock/VideoAdBlockForTwitch) - Twitch Adblocker
 * [luminous-ttv](https://github.com/AlyoshaVasilieva/luminous-ttv) - Twitch Adblocker
 * [Adblocker for Twitch](https://microsoftedge.microsoft.com/addons/detail/adblocker-for-twitch%E2%84%A2/glgpmlmjlaljaddimbgekaepkgbojjdn) - Edge Twitch Adblocker
-* [PurpleTV](https://purpletv.aeong.one/) / [Alpha](https://t.me/pubTwAlpha) - Ad Free Twitch APK
+* [PurpleTV](https://purpletv.aeong.win/) / [Alpha](https://t.me/pubTwAlpha) - Ad Free Twitch APK
 
 ***
 
@@ -560,7 +562,7 @@
 
 # ► Twitter Tools
 
-* ⭐ **[Trends24](https://trends24.in/)**, [Sotwe](https://www.sotwe.com/) or [Hashtagify](https://hashtagify.me/) - Trending Hashtags Trackers
+* ⭐ **[Trends24](https://trends24.in/)** or [GetDayTrends](https://getdaytrends.com/) - Trending Hashtags Trackers
 * ⭐ **[/r/Twitter](https://reddit.com/r/Twitter)** - Twitter Subreddit
 * [Bluesky](https://bsky.app/) - Federated Twitter Alt / [App Directory](https://docs.bsky.app/showcase)
 * [TumblThree](https://tumblthreeapp.github.io/TumblThree/) or [Thread Safe](https://github.com/dkaslovsky/thread-safe) - Twitter / Tumblr Backup Tools
@@ -628,9 +630,10 @@
 * [SaveFromWeb](https://www.savefromweb.com/), [Downloadgram](https://downloadgram.org/) - Video / Picture / Story Downloaders 
 * [Picnob](https://www.picnob.com/) or [Instagram PHP Scraper](https://github.com/postaddictme/instagram-php-scraper) - Picture / Story Downloaders
 * [ThumbTube](https://thumbtube.com/download-instagram-photos-videos) or [scraper-instagram-gui-desktop](https://git.kaki87.net/KaKi87/scraper-instagram-gui-desktop), [Instaloader](https://github.com/instaloader/instaloader) or [instapick](https://www.instapick.net/) - Picture / Video Downloader
-* [InstaLoader](https://instaloader.github.io/) - Picture Downloader
+* [InstaLoader](https://instaloader.github.io/) or [PixWox](https://www.pixwox.com/) - Picture Downloaders
 * [Weynstag](https://www.google.com/amp/s/weynstag.com/amp.php/) - Video Downloader
 * [Resizegram](https://resizegram.com/) - Resize Videos
+* [Instagram Video Control](https://github.com/Arcus92/instagram-video-control/) - Video Controls
 * [Instagram Download Button](https://greasyfork.org/en/scripts/406535-instagram-download-button) - Add DL Links to Instagram
 * [otzberg](https://www.otzberg.net/iguserid/index.php) or [Find-User-ID](https://codeofaninja.com/tools/find-instagram-user-id/) - ID Finder
 * [Image Counter](https://openuserjs.org/scripts/darkred/Instagram_-_visible_images_counter) - Count Page Images

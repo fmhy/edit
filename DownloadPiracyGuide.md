@@ -36,13 +36,13 @@
 
 * ⭐ **[Archive.org](https://archive.org/)** - Video / Audio / Magazines / Newspapers / ROMs / [Downloader](https://github.com/MiniGlome/Archive.org-Downloader) / [CLI](https://github.com/jjjake/internetarchive)
 * ⭐ **[The Eye](https://beta.the-eye.eu/)** - Audio / Books / Comics / Magazines / [Discord](https://discord.com/invite/the-eye)
-* ⭐ **[DownloadHa](https://www.downloadha.com)** - Video / Use [Translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)
 * ⭐ **[DirtyWarez](https://forum.dirtywarez.com/)** - Video / Audio / Books / Comics
 * ⭐ **[/r/DataHoarder](https://reddit.com/r/DataHoarder)**, [Data Horde](https://datahorde.org/), [Archive Team](https://wiki.archiveteam.org/) / [Subreddit](https://www.reddit.com/r/Archiveteam/), [Gnutella Forums](https://www.gnutellaforums.com/) or [FileSharingTalk](https://filesharingtalk.com/forum.php) - File Hoarding Forums
 * [WorldSRC](https://www.worldsrc.net/) - Video / Audio / [Donate](https://www.worldsrc.net/service_end)
 * [WarezForums](https://warezforums.com/) - Video / Audio / ROMs / Books / Comics
 * [rlsbb](https://rlsbb.ru/), [2](https://rlsbb.to/), [3](https://comment.rlsbb.cc/) - Video / Audio / Books / Magazines / [Track Shows](https://openuserjs.org/scripts/drdre1/ReleaseBB_rlsbb_TV_Show_Tracker)
 * [Adit-HD](https://www.adit-hd.com/) - Video / Audio / Books
+* [AsanDL](http://asandl.com/) - Use [translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)
 * [Novanon](https://novanon.net/) - Video / Audio / Magazines / Comics / Books / Courses
 * [psychodownloads](https://psychodownloads.com/) - Video / Audio / ROMs / Books / Magazines / NSFW
 * [Merlin Warez](https://merlinwz.com/) - Video / Audio / Books / Audiobooks / Comics / Magazines
@@ -133,10 +133,12 @@
 
 ***
 
+* ↪️ **[Windows ISOs / Activation](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/system-tools#wiki_.25BA_windows_isos)**
 * ⭐ **[LRepacks](https://lrepacks.net/)**
 * ⭐ **[CRACKSurl](https://cracksurl.com/)** - [Telegram](https://t.me/cracksurldotcom)
 * ⭐ **[Mobilism](https://forum.mobilism.org/)** - [Mobile App](https://forum.mobilism.org/app/)
 * ⭐ **[soft98](https://soft98.ir/)** - Use [translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)
+* ⭐ **[Game Bounty Software](https://gamebounty.world/software/)** - Download / [Discord](https://dsc.gg/gamebounty)
 * ⭐ **[nsane.down](https://www.nsaneforums.com/)** - Signup Required
 * ⭐ **[Software CSE](https://cse.google.com/cse?cx=ae17d0c72fa6cbcd4)** - Multi-Site Software Search
 * [AIOWares](https://www.aiowares.com/)
@@ -145,6 +147,7 @@
 * [Softlay](https://www.softlay.com/downloads/)
 * [Mutaz.net](https://www.mutaz.net/)
 * [Heidoc](https://www.heidoc.net/joomla/)
+* [AsanDL](http://asandl.com/) - Use [translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)
 * [RetroSystemRevival](https://retrosystemsrevival.blogspot.com/)
 * [SamLab](https://samlab.ws/) - Use [translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)
 * [ZOMBIE-WAREZ](https://pastebin.com/Mv32ibns)
@@ -180,13 +183,14 @@
 * [Software Informer](https://software.informer.com/) - Freeware Index
 * [Awesome Windows](https://github.com/Awesome-Windows/Awesome) - Freeware Index
 * [SourceForge](https://sourceforge.net/)- FOSS Index
-* [FossHub](https://www.fosshub.com/)- FOSS Index
-* [Fossies](https://fossies.org/all.html)- FOSS Index
-* [Free Software Directory](https://directory.fsf.org/wiki/Main_Page)- FOSS Index
-* [FOSS Wiki](https://en.wikipedia.org/wiki/Portal:Free_and_open-source_software/Categories)- FOSS Index
+* [FossHub](https://www.fosshub.com/) - FOSS Index
+* [Fossies](https://fossies.org/all.html) - FOSS Index
+* [Free Software Directory](https://directory.fsf.org/wiki/Main_Page) - FOSS Index
+* [FOSS Wiki](https://en.wikipedia.org/wiki/Portal:Free_and_open-source_software/Categories) - FOSS Index
 * [OSSSoftware](https://osssoftware.org/) - FOSS Index
 * [Awesome Open Source](https://awesomeopensource.com/) - FOSS Index
 * [Open-Source Alternatives](https://github.com/btw-so/open-source-alternatives) - FOSS Index
+* [OpenAlternative](https://openalternative.co/) - FOSS Index
 * [Opensource Builders](https://opensource.builders/) - FOSS Index
 * [Gadgeteer](https://gadgeteer.co.za/opensourcesoftware/) - FOSS Index
 * [LO4D](https://www.lo4d.com/) - Freeware Index
@@ -249,6 +253,8 @@
 * [/r/usenet](https://reddit.com/r/usenet)
 * [Usenet-Uploaders](https://github.com/animetosho/Nyuu/wiki/Usenet-Uploaders), [ngPost](https://github.com/mbruel/ngPost) or [Nyuu](https://github.com/animetosho/Nyuu) - Usenet Uploaders
 
+***
+
 ## ▷ Indexers
 
 * 🌐 **[Indexer List](https://www.reddit.com/r/usenet/wiki/indexers/)** - Indexer List
@@ -261,14 +267,16 @@
 * [NZB Index](https://www.nzbindex.com/), [2](https://www.nzbindex.nl/)
 * [Newznab](https://www.newznab.com/)
 * [NZBStars](https://nzbstars.com/)
+* [usenet-crawler](https://www.usenet-crawler.com/)
 * [GingaDaddy](https://www.gingadaddy.com/)
 * [NZBFinder](https://nzbfinder.ws/)
 * [NZBKing](https://nzbking.com/)
 * [g4u](https://g4u.to/) - Download Games via Usenet / pw: 404
 * [OldUSe](https://article.olduse.net/) - Search Usenet Articles
 * [althub](https://althub.co.za) - Unlimited Free Trials
-* [nZEDb](https://github.com/nZEDb/nZEDb) - Self-Hosted
 * [Spotweb](https://github.com/spotweb/spotweb) - Spotnet Client
+
+***
 
 ## ▷ Providers
 
@@ -279,6 +287,8 @@
 * [xsusenet](https://xsusenet.com/)
 * [usenet.farm](https://usenet.farm/#trial)
 * [Free Trials](https://www.ngprovider.com/free-usenet-trials.php)
+
+***
 
 ## ▷ Downloaders
 
@@ -292,13 +302,14 @@
 
 # ► Leeches / Debrid
 
-* 🌐 **[Free Premium Leech Wiki](https://filehostlist.miraheze.org/wiki/Main_Page)** or [leechlisting](https://www.leechlisting.com/) - Leech Lists
+* 🌐 **[Free Premium Leech Wiki](https://filehostlist.miraheze.org/wiki/Free_Premium_Leeches)** or [leechlisting](https://www.leechlisting.com/) - Leech Lists
 * [@Transload](https://t.me/transload) - Telegram Leech Bots
 * [Multi-OCH Helper](https://greasyfork.org/en/scripts/13884-multi-och-helper) - Send Premium Files to Leeches / 2 Hosts Only
 * [RapidGrab](https://rapidgrab.pl/) or [Newscon](https://www.newscon.net/d1/) / [2](https://www.newscon.org/d3/) - Leech
 * [Real-Debrid](https://real-debrid.com/) - Paid Debrid service / [Torrent Client](https://github.com/rogerfar/rdt-client) / [Movies / TV](https://hdencode.org/)
 * [Debrid-Link](https://debrid-link.com) - Debrid w/ Free Tier
 * [AllDebrid](https://alldebrid.com/) - Paid Debrid service with seven day trial
+* [Debrid Media Manager](https://debridmediamanager.com/) - Manage / Stream / Download RD Files
 
 ***
 

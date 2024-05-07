@@ -12,7 +12,7 @@
 * ⭐ **[PowerToys](https://learn.microsoft.com/en-us/windows/powertoys/)**, [Sysinternals](https://learn.microsoft.com/en-us/sysinternals/) / [Suite](https://apps.microsoft.com/store/detail/sysinternals-suite/9P7KNL5RWT25) or [JaxCore](https://jaxcore.app/) - System Tools
 * ⭐ **[CPU-Z](https://www.cpuid.com/softwares/cpu-z.html)**, [winfetch](https://github.com/lptstr/winfetch) or [GPU-Z](https://www.techpowerup.com/download/techpowerup-gpu-z/) - System Information Tools
 * ⭐ **[SuperF4](https://stefansundin.github.io/superf4/)** or [FKill](https://github.com/sindresorhus/fkill-cli) - Process Killers
-* ⭐ **[AutoHotkey](https://www.autohotkey.com/)**, [AutoIt](https://www.autoitscript.com/) / [Resources](https://github.com/J2TEAM/awesome-AutoIt), [Power Automate](https://learn.microsoft.com/en-us/power-automate/desktop-flows/install), [sikulix](http://sikulix.com/) or [ChoEazyCopy](https://github.com/Cinchoo/ChoEazyCopy) - Task Automation
+* ⭐ **[AutoHotkey](https://www.autohotkey.com/)** / [Discord](https://discord.com/invite/Aat7KHmG7v), [AutoIt](https://www.autoitscript.com/) / [Resources](https://github.com/J2TEAM/awesome-AutoIt), [Power Automate](https://learn.microsoft.com/en-us/power-automate/desktop-flows/install), [sikulix](http://sikulix.com/) or [ChoEazyCopy](https://github.com/Cinchoo/ChoEazyCopy) - Task Automation
 * ⭐ **AutoHotkey Tools** - [Script Gen](https://www.ahkgen.com/) / [Resources](https://github.com/ahkscript/awesome-AutoHotkey)
 * [Windows-11-Guide](https://github.com/mikeroyal/Windows-11-Guide), [Pastas](https://rentry.org/pastas#guides), [Eleven Forums Guides](https://www.elevenforum.com/tutorials/) or [Ten Forums Guides](https://www.tenforums.com/tutorials/) - Windows Guides
 * [Autoruns](https://learn.microsoft.com/en-us/sysinternals/downloads/autoruns) - Change Startup Programs
@@ -21,7 +21,6 @@
 * [PowerPlanSwitcher](https://www.microsoft.com/en-us/p/powerplanswitcher/9nblggh556l3) - Quickly Change Power Schemes
 * [Scheduler](https://www.splinterware.com/products/scheduler.html) or [TaskRunner](https://www.keyefficiency.com/) - System Task Scheduler
 * [Process Explorer](https://learn.microsoft.com/en-us/sysinternals/downloads/process-explorer) or [System Informer](https://systeminformer.sourceforge.io/) - Process Monitors
-* [Dependencies](https://github.com/lucasg/Dependencies) - View Application Dependencies
 * [RegExp](https://github.com/zodiacon/TotalRegistry), [ripgrep-all](https://github.com/phiresky/ripgrep-all) or [Registry-Finder](https://registry-finder.com/) - Registry Explorers
 * [WinbIndex](https://winbindex.m417z.com/) - Windows System Files / Binaries
 * [OfflineInsiderEnroll](https://github.com/abbodi1406/offlineinsiderenroll) - Enable Windows Insider without Account
@@ -41,6 +40,7 @@
 
 ***
 
+* ⭐ **[Debloat Guide](https://rentry.co/debloatguide)** - Windows Debloat Guide
 * ⭐ **[Bulk Crap Uninstaller](https://www.bcuninstaller.com/)** - Bulk Uninstallation Tool
 * ⭐ **[BleachBit](https://www.bleachbit.org/)** - Clean System Storage
 * ⭐ **[SophiApp](https://github.com/Sophia-Community/SophiApp)** / [Script](https://github.com/farag2/Sophia-Script-for-Windows) - Debloater
@@ -53,28 +53,26 @@
 
 ## ▷ System Tweaks
 
-* ⭐ **[EverythingToolbar](https://github.com/srwi/EverythingToolbar)** or [yasb](https://github.com/denBot/yasb) - Improved Taskbars
+* ⭐ **[EverythingToolbar](https://github.com/srwi/EverythingToolbar)** or [yasb](https://github.com/da-rth/yasb) - Improved Taskbars
 * ⭐ **[Open Shell](https://open-shell.github.io/Open-Shell-Menu/)** or [ValliStart](https://github.com/Jax-Core/ValliStart) - Improved Start Menus
 * ⭐ **[EarTrumpet](https://eartrumpet.app/)**, [Volumey](https://github.com/G-Stas/Volumey) or [Volume2](https://github.com/irzyxa/Volume2) - Improved Volume Mixer
 * [Couleur Tweak Tips](https://discord.gg/CTT) - Windows Tweaking Guides
 * [MajorGeeks Windows Tweaks](https://www.majorgeeks.com/files/details/majorgeeks_registry_tweaks.html), [Winaero](https://winaero.com/), [QuickBoost](https://github.com/SanGraphic/QuickBoost) or [Windhawk](https://windhawk.net/) - System Tweaking Tools / **[Warning](https://pastebin.com/vMYCiAGE)**
-* [abbodi1406](https://forums.mydigitallife.net/posts/1343297/), [BatUtil](https://github.com/abbodi1406/BatUtil) or [TechNet-Gallery](https://github.com/MScholtes/TechNet-Gallery) - System Scripts
+* [abbodi1406](https://forums.mydigitallife.net/threads/abbodi1406s-batch-scripts-repo.74197/), [BatUtil](https://github.com/abbodi1406/BatUtil) or [TechNet-Gallery](https://github.com/MScholtes/TechNet-Gallery) - System Scripts
 * [Win10 Widgets](https://win10widgets.com/) or [Eww](https://github.com/elkowar/eww) - Widgets for Windows
 * [Wintoys](https://apps.microsoft.com/store/detail/wintoys/9P8LTPGCBZXD) - Improved Control Panels
 * [Hunt and Peck](https://github.com/zsims/hunt-and-peck/) or [Cerebro App](https://cerebroapp.com/) - Improved System Navigation
 * [SmartSystemMenu](https://github.com/AlexanderPro/SmartSystemMenu) - Improved System Menu
 * [EasyContextMenu](https://www.sordum.org/7615/easy-context-menu-v1-6/) or [Nilesoft Shell](https://nilesoft.org/) - Improved Context Menus
-* [OpenWith++](https://github.com/stax76/OpenWithPlusPlus) or [ContextMenuManager](https://github.com/BluePointLilac/ContextMenuManager/blob/master/README-en.md) - Customize Context Menu
+* [ContextMenuManager](https://github.com/BluePointLilac/ContextMenuManager/blob/master/README-en.md) - Customize Context Menu
 * [RCWM](https://github.com/GChuf/RCWM) - Context Menu Tools
 * [Spencer](https://www.the-sz.com/products/spencer/) or [Fluent-Metro](https://github.com/bonzibudd/Fluent-Metro) - Classic Start Menu
 * [Taskbar Tweaker](https://ramensoftware.com/7-taskbar-tweaker) - Taskbar Advanced Features
 * [ButteryTaskbar](https://github.com/LuisThiamNye/ButteryTaskbar2) - Hide Taskbar When Start Menu is Closed
 * [Taskbar Hide](https://www.eusing.com/hidewindows/bosskey.htm) - Easily Hide / Show Taskbar
-* [MinimizeToTray](https://github.com/sandwichdoge/MinimizeToTray), [Traymond](https://github.com/fcFn/traymond), [RBTray](https://github.com/benbuck/rbtray) or [minimize-to-tray](https://sourceforge.net/projects/minimize-to-tray/) - Minimize Windows to Tray
+* [minimize-to-tray](https://sourceforge.net/projects/minimize-to-tray/) - Minimize Windows to Tray
 * [QuickLook](https://github.com/QL-Win/QuickLook) - macOS Quick Look for Windows
 * [BurntToast](https://github.com/Windos/BurntToast) - Create and display Toast Notifications
-* [TrayVolumeControl](https://github.com/krlvm/TrayVolumeControl) - Control Tray Volume via Scroll
-* [HideVolumeOSD](https://github.com/UnlimitedStack/HideVolumeOSD) - Hide Volume Bar
 * [WinMute](https://github.com/lx-s/WinMute/) - Automatically Mute PC
 
 ***
@@ -142,7 +140,7 @@
 * [UVNC](https://uvnc.com/)
 * [ChimeraDesk](https://github.com/morrolinux/ChimeraDesk)
 * [NoMachine](https://www.nomachine.com/)
-* [PowerRemoteDesktop](https://github.com/DarkCoderSc/PowerRemoteDesktop)
+* [PowerRemoteDesktop](https://github.com/PhrozenIO/PowerRemoteDesktop)
 * [Screego](https://app.screego.net/) / [GitHub](https://github.com/screego/server/)
 * [Screensy](https://screensy.marijn.it/) / [GitHub](https://github.com/screensy/screensy)
 * [here.fm](https://here.fm/)
@@ -192,9 +190,9 @@
 
 ## ▷ Virtual Machines
 
-* ⭐ **[VirtualBox](https://www.virtualbox.org/)** / [Portable](https://www.vbox.me/), [Looking Glass](https://looking-glass.io/), [Qemu](https://gitlab.com/qemu-project/qemu), [Hyper-V](https://learn.microsoft.com/en-us/virtualization/hyper-v-on-windows/), [fvwm](https://www.fvwm.org/), [Denodo Test](https://www.denodo.com/en/denodo-platform/test-drives?utm_source=homepage&utm_medium=bn) or [VMware Workstation Player](https://www.vmware.com/products/workstation-player/workstation-player-evaluation.html) - Virtual Machines / [Preinstalled VMS](https://www.osboxes.org/)
+* ⭐ **[VirtualBox](https://www.virtualbox.org/)** / [Portable](https://www.vbox.me/), [Looking Glass](https://looking-glass.io/), [Qemu](https://gitlab.com/qemu-project/qemu), [Hyper-V](https://learn.microsoft.com/en-us/virtualization/hyper-v-on-windows/), [fvwm](https://www.fvwm.org/) or [Denodo Test](https://community.denodo.com/test-drives/) - Virtual Machines / [Preinstalled VMS](https://www.osboxes.org/)
 * ⭐ **[Hackintosh](https://hackintosh.com/)**, [Emaculation](https://www.emaculation.com/), [felixrieseberg](https://github.com/felixrieseberg/macintosh.js/) or [OneClick-macOS](https://github.com/notAperson535/OneClick-macOS-Simple-KVM) - macOS Virtual Machines
-* ⭐ **Hackintosh Tools** - [Guide](https://github.com/dortania/macOS-VMware-Guide), [2](https://www.tonymacx86.com/) / [AMD Guide](https://chefkissinc.github.io/guide) / [Ryzen](https://github.com/mikigal/ryzen-hackintosh) / [XiaoMi](https://github.com/daliansky/XiaoMi-Pro-Hackintosh)
+* ⭐ **Hackintosh Tools** - [Guide](https://www.tonymacx86.com/) / [AMD Guide](https://chefkissinc.github.io/guide) / [Ryzen](https://github.com/mikigal/ryzen-hackintosh) / [XiaoMi](https://github.com/daliansky/XiaoMi-Pro-Hackintosh)
 * [Virt-Manager](https://virt-manager.org/) or [Vagrantup](https://www.vagrantup.com/) - Virtual Machine Managers
 * [CollabVM](https://computernewb.com/collab-vm/) - Online Virtual Machines
 * [Virtual PC](https://www.microsoft.com/en-us/download/details.aspx?id=3243) - Windows XP Virtual Machine
@@ -219,6 +217,7 @@
 * [GoldMemory](https://www.goldmemory.cz/) or [Testmem5](https://www.overclock.net/threads/memory-testing-with-testmem5-tm5-with-custom-configs.1751608/) - Memory Benchmarking
 * [SDIO](https://glenn.delahoy.com/snappy-driver-installer-origin), [Drivers Collection](https://driverscollection.com/), [Driverscape](https://www.driverscape.com/) or [DriverStoreExplorer](https://github.com/lostindark/DriverStoreExplorer) - Update / Install Missing Drivers
 * [PrintFriendly](https://www.printfriendly.com/) - Printer Formatting Tools
+* [VOGONS](https://www.vogons.org/) - Vintage Computer Hardware Forum
 
 ***
 
@@ -276,7 +275,7 @@
 * [Gdu](https://github.com/dundee/gdu) - Disk Usage Analyzer
 * [dua](https://lib.rs/crates/dua-cli) - Disk Usage Analyzer
 * [Diskovery](https://diskovery.io/) - Disk Usage Analyzer
-* [DiskInfo](https://github.com/DiskTools/DiskInfo) - Disk Usage Analyzer
+* [DiskInfo](https://github.com/MicaApps/DiskInfo) - Disk Usage Analyzer
 * [Erdtree](https://github.com/solidiquis/erdtree) - Disk Usage Analyzer
 * [PC Manger](https://pcmanager-en.microsoft.com/) or [CleanmgrPlus](https://github.com/builtbybel/CleanmgrPlus) - Disk Managers / Cleanup
 * [Air Live Drive](https://www.airlivedrive.com/en/) - Mount Cloud Drives as Local Disks
@@ -288,7 +287,7 @@
 
 * ⭐ **[DisplayFusion](https://www.displayfusion.com/)** or [Dual Monitor Tool](https://sourceforge.net/projects/dualmonitortool/) - Dual Monitor Tools
 * ⭐ **[f.lux](https://justgetflux.com/)**, [LightBulb](https://github.com/Tyrrrz/LightBulb), [ScreenTemperature](https://github.com/massaiTHEdog1/ScreenTemperature) or [SunsetScreen](https://www.skytopia.com/software/sunsetscreen/index.htm) - Adjust Display Color / Temperature
-* [Display Driver Uninstaller](https://www.wagnardsoft.com/display-driver-uninstaller-ddu-), [2](https://www.guru3d.com/files-details/display-driver-uninstaller-download.html) - Display Driver Removal Tool / [GitHub](https://github.com/Wagnard/display-drivers-uninstaller)
+* [Display Driver Uninstaller](https://www.wagnardsoft.com/display-driver-uninstaller-ddu-), [2](https://www.guru3d.com/download/display-driver-uninstaller-download) - Display Driver Removal Tool / [GitHub](https://github.com/Wagnard/display-drivers-uninstaller)
 * [EIZO](https://www.eizo.be/monitor-test/), [Monitor](https://www.monitortests.com/) or [LCDTech](https://lcdtech.info/en/tests/) - Monitor Performance Tests
 * [TestUFO](https://www.testufo.com/) - Monitor Framerate Test
 * [LittleBigMouse](https://github.com/mgth/LittleBigMouse) - DPI Test
@@ -312,7 +311,8 @@
 
 ## ▷ Mouse / Keyboard
 
-* ⭐ **[Windows Keyboard Shortcuts](https://i.ibb.co/yNHRPfm/2147ec86baff.png)**, [2](https://i.ibb.co/XyWn2qc/075be8840d12.png) / [Course](https://keycombiner.com/), [Use The Keyboard](https://usethekeyboard.com/), [HotkeyP](https://sourceforge.net/projects/hotkeyp/), [Clavier++](https://gryder.org/software/clavier-plus/), [Kinto](https://github.com/rbreaves/kinto) or [CheatKeys](https://cheatkeys.com/CheatSheet) - Keyboard Shortcuts
+* ⭐ **[/r/MechanicalKeyboards Wiki](https://www.reddit.com/r/MechanicalKeyboards/wiki/index)** - Mechanical Keyboard Resources
+* ⭐ **[Windows Keyboard Shortcuts](https://i.ibb.co/yNHRPfm/2147ec86baff.png)**, [2](https://i.ibb.co/XyWn2qc/075be8840d12.png) / [Course](https://keycombiner.com/), [Use The Keyboard](https://usethekeyboard.com/), [HotkeyP](https://sourceforge.net/projects/hotkeyp/), [Clavier++](https://gryder.org/software/clavier-plus/), [Kinto](https://github.com/rbreaves/kinto) or [CheatKeys](https://cheatkeys.com/cheatSheet) - Keyboard Shortcuts
 * ⭐ **[VIA](https://usevia.app/)** / [GitHub](https://github.com/the-via/app), [SharpKeys](https://github.com/randyrants/sharpkeys/), [Kanata](https://github.com/jtroo/kanata), [Vial](https://get.vial.today/), [Ergogen](https://ergogen.xyz/) or [Persistence](https://github.com/NtQuerySystemInformation/CustomKeyboardLayoutPersistence) - Custom Keyboard Layouts / Remapping
 * ⭐ **[geekhack](https://geekhack.org/)** or [KeebTalk](https://www.keebtalk.com/) - Keyboard Forums
 * [X-Mouse Button Control](https://www.highrez.co.uk/downloads/XMouseButtonControl.htm) - Re-Map Mouse Buttons / Scroll Wheel
@@ -331,7 +331,6 @@
 * [Keyboard University](https://keyboard.university/) or [KDB](http://xahlee.info/kbd/keyboarding.html) - Mechanical Keyboard Building Guides
 * [Keyboard Simulator](https://keyboardsimulator.xyz/) - Design & Test Virtual Keyboards
 * [Key Test](https://en.key-test.ru/) - Keyboard Tester
-* [Mouseable](https://github.com/wirekang/mouseable) - Replace Mouse with Keyboard
 * [TouchCursor](https://sourceforge.net/projects/touchcursor/) - Use Home Keys as Cursor
 * [Keytap2](https://keytap2.ggerganov.com/) - Acoustic Keyboard Eavesdropping
 
@@ -396,24 +395,24 @@
 ## ▷ OS Emulators
 
 * 🌐 **[Awesome Web Desktops](https://github.com/syxanash/awesome-web-desktops)** - Browser Emulator Index
-* ⭐ **[Puter](https://puter.com/)** - OS Emulator / [Discord](https://discord.com/invite/PQcx7Teh8u) / [GitHub](https://github.com/HeyPuter/puter)
+* ⭐ **[Puter](https://puter.com/)** - OS Emulator / Saves Sessions / [Discord](https://discord.com/invite/PQcx7Teh8u) / [GitHub](https://github.com/HeyPuter/puter)
 * [Qemu](https://gitlab.com/qemu-project/qemu) - OS Emulator / Virtualization
 * [copy.sh](https://copy.sh/v86/), [PCJs](https://www.pcjs.org/), [OnWorks](https://www.onworks.net/), [simone.computer](https://simone.computer/#/webdesktops) or [Virtual Desktop](http://www.virtualdesktop.org/) - Multiple OS Emulators
-* [WinXP](https://winxp.vercel.app/), [Windows XP Netify](https://windows-xp.netlify.app/) - Windows XP Browser Emulators
+* [WinXP](https://winxp.vercel.app/), [Windows XP Netify](https://windows-xp.netlify.app/) or [RebornXP](https://rebornxp.js.org/) - Windows XP Browser Emulators
 * [EmuOS](https://emupedia.org/beta/emuos/), [2](https://emupedia.net/beta/emuos/), [3](https://emuos.net/beta/emuos/), [4](https://emuos.org/beta/emuos/) - Windows 95, 98 & ME Emulator
 * [98.js](https://98.js.org/), [Rahul](https://rahul.io/) or [Packard Belle](https://packard-belle.netlify.app/) - Windows 98 Emulator
 * [Windows96.net](https://windows96.net/) - Windows 96 Browser Emulator
-* [Win95](https://win95.ajf.me/) - Windows 95 Browser Emulator
+* [Win95](https://archive.org/details/win95_in_dosbox) - Windows 95 Browser Emulator
 * [Windows93](https://www.windows93.net/) - Windows 93 Browser Emulator / Games
 * [EmuOS](https://github.com/Emupedia/emupedia.github.io/) - Run Classic Games / Apps In Browser
 * [Windows 1.01](https://classicreload.com/Windows-1-01.html) - Windows 1.01 Browser Emulator
-* [RebornXP](https://rebornxp.js.org/) - Windows XP Browser Emulator
 * [AaronOS](https://aaronos.dev/), [Whimsy](https://whimsy.space/), [OS.JS](https://www.os-js.org/), [X-WebDesktop](https://oxoyo.co/X-WebDesktop-Vue/), [Orb](https://gitlab.com/hsleisink/orb) or [jQuery Desktop](https://desktop.sonspring.com/) - OS Browser Emulator
 * [PCE Macplus](https://jamesfriend.com.au/pce-js/pce-js-apps/) or [Infinite Mac](https://infinitemac.org/) - macOS Browser Emulators
 * [PCE.js](https://jamesfriend.com.au/pce-js/ibmpc-games/) - PCDOS 5 Emulator
 * [Quantum Playground](https://www.quantumplayground.net/#/home) - Quantum Computer Simulator
 * [Win11 in React](https://win11.blueedge.me/) / [GitHub](https://github.com/blueedgetechno/win11React), [Rajaniraiyn](https://rajaniraiyn.github.io/windows11/) or [Win11.vercel](https://win11.vercel.app/) - Online Windows 11 Emulator
 * [daedalOS](https://dustinbrett.com/) - Online Windows 10 Emulator
+* [EmuOS](https://github.com/Emupedia/emupedia.github.io/) - Run Classic Games / Apps In Browser
 
 ***
 
@@ -425,7 +424,6 @@
 * [VirtualCustoms](https://virtualcustoms.net/) or [winthemers](https://discord.com/invite/8FFWAqdtc4) - Customization Communities 
 * [XDesktopSoft](https://www.xwidget.com/) - Desktop Customization
 * [LiteStep](http://litestep.net/) - Customize Desktop Interface
-* [pyWinContext](https://github.com/VodBox/pyWinContext) - Custom Context Menu Manager
 * [Taskbar Tweaker](https://tweaker.ramensoftware.com/), [NiceTaskbar](https://www.microsoft.com/en-us/p/nicetaskbar/9pkl2s93xwb5) - Taskbar Customization Tools
 * [msstyleEditor](https://github.com/nptr/msstyleEditor) or [WinPaletter](https://github.com/Abdelrhman-AK/WinPaletter) - Windows Visual Style Editors
 * [BeautySearch](https://github.com/krlvm/BeautySearch) - Windows 10 Search Appearance Tweaker
@@ -434,7 +432,8 @@
 * [Mechvibes](https://mechvibes.com/), [Rackety](https://girkovarpa.itch.io/rackety) or [MechaKeys](https://mechakeys.robolab.io/) - Keyboard Sound Effects
 * [ElectricSheep](https://electricsheep.org/) - Collaborative Usergenerated Screensaver
 * [After Dark CSS](https://www.bryanbraun.com/after-dark-css/) - Browser Screensavers
-* [Cursors 4U](https://www.cursors-4u.com/), [Cursor Mania Archive](https://archive.org/details/cursormania), [Bibata Cursor](https://github.com/ful1e5/Bibata_Cursor), [Cursors Pastebin](https://pastebin.com/BrAbMy4n) or [rw-designer](http://rw-designer.com/cursor-library) - Cursors
+* [HackBGRT](https://github.com/Metabolix/HackBGRT) - Change Windows Boot Logo
+* [Cursor Mania Archive](https://archive.org/details/cursormania), [Bibata Cursor](https://github.com/ful1e5/Bibata_Cursor), [Cursors Pastebin](https://pastebin.com/BrAbMy4n) or [rw-designer](http://rw-designer.com/cursor-library) - Cursors
 * [FolderMarker](https://foldermarker.com/) or [CustomFolder](https://www.gdzsoft.com/) - Custom Folders & Markers
 * [Recycle Bin Themes](https://github.com/sdushantha/recycle-bin-themes) - Custom Recycle Bin Icons
 * [ElevenClock](https://www.marticliment.com/elevenclock/) - Customize Windows 11 Clock 
@@ -450,13 +449,11 @@
 * [Blackbox 4 Windows](https://blackbox4windows.com/) - Custom Windows Shells / Widgets
 * [Alternative Windows Shells Wiki](https://en.wikipedia.org/wiki/List_of_alternative_shells_for_Windows) - Alt Windows Shells 
 * [WindowsCustomization](https://windowscustomization.com/), [WinCustomize](https://www.wincustomize.com/), [Win10 DeviantArt](https://www.deviantart.com/tag/windows10), [WinClassic](https://winclassic.boards.net/) or [7Themes](https://7themes.su/) - Customization / Themes / Wallpapers
-* [DynaWin](https://github.com/Apollo199999999/DynaWin) or [WinDynamicDesktop](https://github.com/t1m0thyj/WinDynamicDesktop) - Dynamic Desktop Themes
+* [WinDynamicDesktop](https://github.com/t1m0thyj/WinDynamicDesktop) - Dynamic Desktop Themes
 * [Auto Night Mode](https://github.com/AutoDarkMode/Windows-Auto-Night-Mode) or [Darker](https://mswin.me/darker/) - Dark / Light Mode Theme Switcher
 * [SecureUxTheme](https://github.com/namazso/SecureUxTheme) or [UltraUXThemePatcher](https://mhoefs.eu/software_uxtheme.php?ref=syssel&lang=en) - Ux Theme Patcher
 * [7TSP GUI](https://www.deviantart.com/devillnside/art/7TSP-GUI-2019-Edition-804769422) - Theme Source Patcher
-* [Windows 11 for Windows 10](https://www.deviantart.com/niivu/art/Windows-11-for-Windows-10-882819383) - Windows 11 Theme / [Icons](https://www.deviantart.com/niivu/art/Windows-11-Icon-Themes-874289797)
 * [SimpleClassicTheme](https://simpleclassictheme.nl/) - Classic Windows Theme
-* [BasicThemer2](https://github.com/Ingan121/BasicThemer2) - Windows 7 Theme
 * [Winmoes](https://winmoes.com/) - Anime Windows Themes / Wallpapers
 * [Desktops](https://deskto.ps/) - OS Theme Examples
 * [MyDockFinder](https://www.mydockfinder.com/) - macOS Theme for Windows 10
@@ -470,7 +467,7 @@
 * [RetroBar](https://github.com/dremin/RetroBar) - Retro Classic Taskbars
 * [StartAllBack](https://www.startallback.com/) - Restore Classic Start Menu in Windows 11
 * [Win98Icons](https://win98icons.alexmeub.com/) - Classic Win98 Icons
-* [Modern Flyouts](https://apps.microsoft.com/store/detail/modernflyouts-preview/9MT60QV066RP) or [MediaFlyout](https://github.com/krlvm/MediaFlyout) - Modern Context Menus / [GitHub](https://github.com/ModernFlyouts-Community/ModernFlyouts)
+* [Modern Flyouts](https://apps.microsoft.com/store/detail/modernflyouts-preview/9MT60QV066RP) - Modern Context Menus / [GitHub](https://github.com/ModernFlyouts-Community/ModernFlyouts)
 * [ModernWinver](https://github.com/torchgm/NewModernWinver) or [WinverUWP](https://github.com/dongle-the-gadget/WinverUWP) - Modern Windows About Page
 * [linux-like-windows-terminal](https://github.com/Kyza/linux-like-windows-terminal) - Linux Terminal Theme
 * [cool-retro-term](https://github.com/Swordfish90/cool-retro-term) - Retro Cathode Terminal Theme
@@ -490,11 +487,11 @@
 * [backiee](https://apps.microsoft.com/store/detail/backiee-wallpaper-studio-10/9WZDNCRFHZCD) - Wallpaper Manager
 * [Awesome Wallpaper](https://awesome-wallpaper.com/) - Wallpaper Manager
 * [SuperPaper](https://github.com/hhannine/superpaper) - Wallpaper Manager
-* [Faerber](https://farbenfroh.io/faerber) - Edit Wallpaper to Match Color Scheme
+* [Faerber](https://farbenfroh.io/) - Edit Wallpaper to Match Color Scheme
 * [AutoWall](https://github.com/SegoCode/AutoWall) - Turn Videos / GIFs to Live Wallpapers
 * [Scenic Illustrations](https://www.pixeltrue.com/scenic-illustrations) - Landscape Wallpapers
 * [CoolBackgrounds](https://coolbackgrounds.io/) or [wallup](https://wallup.net/) - Customizable Wallpapers
-* [Simple Desktops](http://simpledesktops.com/), [Positron Dream](https://www.positrondream.com/) or [SetAsWall](https://www.setaswall.com/) - Minimalistic Wallpapers
+* [Simple Desktops](https://simpledesktops.com/), [Positron Dream](https://www.positrondream.com/) or [SetAsWall](https://www.setaswall.com/) - Minimalistic Wallpapers
 * [/r/LivingBackgrounds](https://reddit.com/r/LivingBackgrounds), [WALLegend](https://wallegend.net/en/) or [MoeWalls](https://moewalls.com/) - Animated Wallpapers
 * [DualMonitorBackgrounds](https://www.dualmonitorbackgrounds.com/) or [WallpaperFusion](https://www.wallpaperfusion.com/) - Dual Monitor Wallpapers
 * [ScreenCapped](https://screencapped.net/), [Screencaps](https://screencaps.us/) or [shot.cafe](https://shot.cafe/) - Movie / TV Wallpapers
