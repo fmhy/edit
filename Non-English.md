@@ -1627,29 +1627,29 @@
 ## ▷ Streaming
 
 * [Dizilla](https://dizilla.club) - Movies / TV 
-* [YabancıDizi](https://yabancidizi.pro) - Movies / TV
-* [HdfilmCehennemi](https://www.hdfilmcehennemi.com) - Movies / TV
-* [FullHDFilmİzlesene](https://www.fullhdfilmizlesene.pw) - Movies / Cartoons
-* [JetFilmizle](https://jetfilmizle.film/) - Movies
-* [FilmIzle](https://filmizle2022.info/) - Movies
+* [Yabancı Dizi](https://yabancidizi.pro) - Movies / TV
+* [Hdfilm Cehennemi](https://www.hdfilmcehennemi.com) - Movies / TV
+* [Full HD Film İzlesene](https://www.fullhdfilmizlesene.pw) - Movies / Cartoons
+* [Jet Film izle](https://jetfilmizle.film/) - Movies
+* [Film İzle](https://filmizle2022.info/) - Movies
 * [4kFilmizlesene](https://www.4kfilmizlesene.xyz/) - Movies
-* [Filmİzlesene](https://www.filmizlesene.pro) - Movies
-* [Pifilmizle](https://www.pifilmizle.net) - Movies
-* [FilmMom](https://www.filmmom.de/) - Movies
+* [Film İzlesene](https://www.filmizlesene.pro) - Movies
+* [Pi Film İzle](https://www.pifilmizle.net) - Movies
+* [Film Mom](https://www.filmmom.de/) - Movies
 * [Dizilab](https://dizilab.com/) - TV
 * [Dizibox](https://www.dizibox.in) - TV
 * [Turkish123](https://turkish123.com/) - TV
 * [Yoturkish](https://www.yoturkish.com) - TV
 * [Expressdizi](https://www.expressdizi.com/) - TV
 * [Makkitv](https://makkitv.co/) - TV
-* [OsmanOnline.pk](https://osmanonline.pk/) - TV
+* [Osman Online](https://osmanonline.pk/) - TV
 * [AR Dirilis Ertugrul](https://ardirilisertugrul.net/) - TV
-* [OsmanOnline.co](https://osmanonline.co.uk/) - TV
-* [KayiFamily](https://kayifamily.com/), [KayiFamilyTV](https://kayifamilytv.com) - TV / Documentaries
+* [Osman Online](https://osmanonline.co.uk/) - TV
+* [Kayi Family](https://kayifamily.com/), [KayiFamilyTV](https://kayifamilytv.com) - TV / Documentaries
 * [Anime Haber](https://animehaber.com) - Anime News
 * [Animeler](https://www.animeler.net) - Anime News
 * [Anime Kalesi](https://www.animekalesi.com) - Anime Subtitles / Download
-* [Anime densetsu](https://www.animedensetsu.com) - Anime Download
+* [Anime Densetsu](https://www.animedensetsu.com) - Anime Download
 * [Türk Anime](https://www.turkanime.co/) - Anime / [Downloader](https://github.com/KebabLord/turkanime-indirici)
 * [Anizm](https://anizm.net/) - Anime
 * [TR Anime İzle](https://www.tranimeizle.co) - Anime
