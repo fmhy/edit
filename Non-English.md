@@ -1634,7 +1634,6 @@
 * [Film İzle](https://filmizle2022.info/) - Movies
 * [4kFilmizlesene](https://www.4kfilmizlesene.xyz/) - Movies
 * [Film İzlesene](https://www.filmizlesene.pro) - Movies
-* [Pi Film İzle](https://www.pifilmizle.net) - Movies
 * [Film Mom](https://www.filmmom.de/) - Movies
 * [Dizilab](https://dizilab.com/) - TV
 * [Dizibox](https://www.dizibox.in) - TV
