@@ -1607,6 +1607,9 @@
 
 * [Firmaa](http://www.firmaa.com/) - Company Directory
 * [Playstationhaber](https://playstationhaber.com/) - PlayStation Piracy Forum
+* [MCpsp](https://www.mcpsp.com) - PlayStation Piracy Forum
+* [En ucuz oyun](https://www.enucuzoyun.com) - Price Tracker
+* [Teyit](https://teyit.org) - News Confirmation
 
 ## ▷ Downloading
 
@@ -1635,7 +1638,7 @@
 * [FilmMom](https://www.filmmom.de/) - Movies
 * [Dizilab](https://dizilab.com/) - TV
 * [Dizibox](https://www.dizibox.in) - TV
-* [turkish123](https://turkish123.com/) - TV
+* [Turkish123](https://turkish123.com/) - TV
 * [Yoturkish](https://www.yoturkish.com) - TV
 * [Expressdizi](https://www.expressdizi.com/) - TV
 * [Makkitv](https://makkitv.co/) - TV
@@ -1643,12 +1646,15 @@
 * [AR Dirilis Ertugrul](https://ardirilisertugrul.net/) - TV
 * [OsmanOnline.co](https://osmanonline.co.uk/) - TV
 * [KayiFamily](https://kayifamily.com/), [KayiFamilyTV](https://kayifamilytv.com) - TV / Documentaries
+* [Anime Haber](https://animehaber.com) - Anime News
+* [Animeler](https://www.animeler.net) - Anime News
 * [Anime Kalesi](https://www.animekalesi.com) - Anime Subtitles / Download
 * [Anime densetsu](https://www.animedensetsu.com) - Anime Download
-* [Türk Anime](https://www.turkanime.co/) - Anime
+* [Türk Anime](https://www.turkanime.co/) - Anime / [Downloader](https://github.com/KebabLord/turkanime-indirici)
 * [Anizm](https://anizm.net/) - Anime
 * [TR Anime İzle](https://www.tranimeizle.co) - Anime
-* [Anime Who](https://animewho.com) - Anime
+* [Anime Who](https://animewho.com) - Anime / Fansub
+* [Anisekai](https://anisekai.com) - Anime / Fansub
 
 
 ## ▷ Reading
@@ -1656,15 +1662,15 @@
 * [Kuflu e-kitap](https://www.kuflu.com/forums/e-kitap.58), [Kuflu manga](https://www.kuflu.com/forums/anime-ve-manga.28)- Books / Magazines
 * [Booksfer](https://booksfer.com) - Books
 * [Telegram Groups](https://t.me/addlist/SWhexU5B_hoxMTc8) - Books
-* [MangaDenizi](https://www.mangadenizi.net/) - Manga / [Discord](https://discord.com/invite/8zBMSGZ)
-* [Manga-TR](https://manga-tr.com/) - Manga
-* [Manga-ay](https://manga-ay.com/) - Manga
-* [Mavimanga](https://mavimanga.com/) - Manga
+* [Manga Denizi](https://www.mangadenizi.net/) - Manga / [Discord](https://discord.com/invite/8zBMSGZ)
+* [Manga TR](https://manga-tr.com/) - Manga
+* [Manga Ay](https://manga-ay.com/) - Manga
+* [Mavi Manga](https://mavimanga.com/) - Manga
 * [Trwebtoon](https://trwebtoon.com/) - Manga
-* [Nirvanamanga](https://nirvanamanga.com/) - Manga
-* [Raindropteamfan](https://www.raindropteamfan.com/) - Manga
+* [Nirvana Manga](https://nirvanamanga.com/) - Manga
+* [Raindrop](https://www.raindropteamfan.com/) - Manga
 * [Seri Manga](https://serimangas.com/) - Manga
-* [Glorymanga](https://glorymanga.com/) - Manga
+* [Glory Manga](https://glorymanga.com/) - Manga
 
 ***
 
