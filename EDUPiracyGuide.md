@@ -624,7 +624,7 @@
 * [University of Utah Pathology](https://webpath.med.utah.edu/webpath.html) - Pathology Guide
 * [The Iowa Virtual Slidebox](https://www.mbfbioscience.com/iowavirtualslidebox) - Pathology Atlas Software
 * [/r/medicalschoolanki](https://www.reddit.com/r/medicalschoolanki/) - Community for Medical Anki Cards
-* [AnkiWeb](https://ankiweb.net/shared/decks?search=Medicine), [CRAM.com](https://www.cram.com/medical) - Medical Flashcards 
+* [AnkiWeb](https://ankiweb.net/shared/decks?search=Med), [CRAM.com](https://www.cram.com/medical) - Medical Flashcards 
 
 ***
 
