@@ -723,6 +723,7 @@
 * [FreeImage.Host](https://freeimage.host/)
 * [imgbox](https://imgbox.com/)
 * [pasteboard](https://www.pasteboard.co/)
+* [picsur](https://picsur.org/)
 * [vgy](https://vgy.me/)
 * [i](https://tikolu.net/i/)
 * [tixte](https://tixte.com/)
