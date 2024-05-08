@@ -81,7 +81,7 @@
 * [Steam Link](https://play.google.com/store/apps/details?id=com.valvesoftware.steamlink) - Stream Steam Library to TV
 * [Steam Mover](https://www.traynier.com/software/steammover) - Store Steam Games on Multiple Drives
 * [Steam Piracy](https://greasyfork.org/en/scripts/460862) or [Stream To Free](https://greasyfork.org/en/scripts/481139) - Add Piracy Site Links to Steam Store
-* [BoilR](https://github.com/PhilipK/BoilR) - Sync Game Platforms w/ Steam
+* [BoilR](https://github.com/PhilipK/BoilR) - Sync Game Platforms with Steam
 * [UWPHook](https://briano.dev/UWPHook/) - Add Windows Store Games to Steam
 * [Steam Rom Manager](https://github.com/SteamGridDB/steam-rom-manager) - Add ROMs to Steam
 * [HonestSteamBrowser](https://honeststeambrowser.com/) - Steam Server Browser
@@ -313,6 +313,7 @@
 
 ## ▷ Tracking / Discovery
 
+* 🌐 **[Awesome Engineering Games](https://github.com/arcataroger/awesome-engineering-games)** - Engineering Games
 * ⭐ **[Glitchwave](https://glitchwave.com/)**, [Grouvee](https://www.grouvee.com/), [InfiniteBacklog](https://infinitebacklog.net/) or [Backloggd](https://www.backloggd.com/) - Game Trackers
 * ⭐ **[IGDB](https://www.igdb.com/)** or **[GiantBomb](https://www.giantbomb.com/games/)** - Game Database
 * ⭐ **[TasteDive](https://tastedive.com/games )**, [50GamesLike](https://www.50gameslike.com/) or [/r/ifyoulikeblank](https://www.reddit.com/r/ifyoulikeblank/) - Game Recommendations
@@ -335,8 +336,9 @@
 * [Low Spec Games](https://pastebin.com/MTCXZxCN) - Low Spec Game Database
 * [HOTU](https://www.homeoftheunderdogs.net/) - Rare Game Database
 * [Delisted Games](https://delistedgames.com/) - Delisted Games Database
+* [BoardGameGeek](https://boardgamegeek.com/) - Board Game Database
+* [Board Game Breakdown](https://boardgamebreakdown.com/) - Board Game Reviews
 * [MoreGamesLike](https://www.moregameslike.com/) or [Games Like Finder](https://gameslikefinder.com/) - Find Similar Games
-* [awesome-engineering-games](https://github.com/arcataroger/awesome-engineering-games) - Engineering Game Recommendations
 * [DigitalDreamDoor](https://digitaldreamdoor.com/pages/games.html) - List of the Best Games
 * [Unseen64](https://www.unseen64.net/) - Cancelled / Lost Games
 

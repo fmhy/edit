@@ -154,7 +154,7 @@
 ## ▷ Emulators
 
 * 🌐 **[Emulation Wiki](https://emulation.gametechwiki.com/)**, [Awesome Emulators](https://github.com/DerekTurtleRoe/awesome-emulators), [PlanetEmu](https://www.planetemu.net/), [The Emulator Zone](https://www.emulator-zone.com/) or [EmuCR](https://www.emucr.com/) - Download Emulators
-* 🌐 **[Multi System Emulators](https://emulation.gametechwiki.com/index.php/Multi-system_emulators)** / [Frontends](https://emulation.gametechwiki.com/index.php/Frontends) - Emulators w/ Multiple Consoles
+* 🌐 **[Multi System Emulators](https://emulation.gametechwiki.com/index.php/Multi-system_emulators)** / [Frontends](https://emulation.gametechwiki.com/index.php/Frontends) - Emulators with Multiple Consoles
 * 🌐 **[RedSquirrel Project List](https://www.redsquirrel87.altervista.org/doku.php/projects-list)** - Emulator Tools
 * 🌐 **[Multiplayer Emulation](https://emulation.gametechwiki.com/index.php/Netplay)** - Multiplayer Emulation Tools
 * ↪️ **[Android Emulators](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25BA_android_emulators)**
@@ -498,7 +498,6 @@
 * [Colonist](https://colonist.io/) - Multiplayer "Settlers of Catan" 
 * [Hexxagon](https://hexxagon.com/) - Hexagonal Board Game
 * [The Bafflement Fires](https://www.dpoetry.com/fires/) - 1950's Freemasonic Board Game
-* [BoardGameGeek](https://boardgamegeek.com/) - Boardgame Database
 * [Scorecard.gg](https://scorecard.gg/) - Board Game Scorecards
 
 ***
@@ -515,8 +514,8 @@
 * [Neptune's Pride](https://np4.ironhelmet.com/) - Space Strategy game
 * [Chesses](https://pippinbarr.com/chesses/) or [Omnichess](https://omnichess.club/) - Multiple Styles of Chess
 * [The Kilobyte’s Gambit](https://vole.wtf/kilobytes-gambit/) - 1k Chess Game
-* [Kung Fu Chess](https://www.kfchess.com/) - Real-Time Chess w/o Turns
-* [PokemonChess](https://pokemonchess.com/) - Pokemon Style Chess / [Discord](https://discord.gg/fp5bcCqg8q)
+* [Kung Fu Chess](https://www.kfchess.com/) - Real-Time Chess without Turns
+* [PokemonChess](https://pokemonchess.com/) - Pokémon Style Chess / [Discord](https://discord.gg/fp5bcCqg8q)
 * [Laser](https://playlaser.xyz/) - Alt Style Chess
 * [lichess4545](https://www.lichess4545.com/) - Lichess Leagues
 * [Chess Monitor](https://www.chessmonitor.com/) - Track Chess Analytics

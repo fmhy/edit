@@ -260,7 +260,7 @@
 * 🌐 **[Awesome I2P](https://github.com/mikalv/awesome-i2p)** - I2P Resources
 * ↪️ **[Browser Comparisons](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools#wiki_.25BA_browser_tools)**
 * ⭐ **[Tor Browser](https://www.torproject.org/)** - Onion-Routed Browser / [Default Gateway](https://github.com/htrgouvea/nipe) / [Gitlab](https://gitlab.torproject.org/tpo/applications/tor-browser)
-* ⭐ **[Mullvad Browser](https://mullvad.net/en/browser)** - Tor Browser Fork (w/o Tor network)
+* ⭐ **[Mullvad Browser](https://mullvad.net/en/browser)** - Tor Browser Fork (without Tor network)
 * ⭐ **[arkenfox](https://github.com/arkenfox/user.js)**- Firefox Privacy Tweak / [Video](https://youtu.be/F7-bW2y6lcI)
 * [Librewolf](https://librewolf.net/) - Pre-tweaked Firefox Fork / [Use Auto-Updater](https://github.com/ltguillaume/librewolf-winupdater)
 * [Brave](https://brave.com/) - Privacy-Focused Browser
@@ -423,7 +423,7 @@
 * ⭐ **[/r/VPNs](https://www.reddit.com/r/vpns/)** - VPN Help and Discussion 
 * ⭐ **[AirVPN](https://airvpn.org/)**
 * ⭐ **[Windscribe](https://windscribe.com)** - Free Version Available / [Relief Codes](https://blog.windscribe.com/tag/relief-codes/)
-* ⭐ **[Proton](https://protonvpn.com)** - [Config Generation](https://gist.github.com/fusetim/1a1ee1bdf821a45361f346e9c7f41e5a) / No Torrenting w/ Free Version
+* ⭐ **[Proton](https://protonvpn.com)** - [Config Generation](https://gist.github.com/fusetim/1a1ee1bdf821a45361f346e9c7f41e5a) / No Torrenting with Free Version
 * ⭐ **[Warp](https://one.one.one.one/)** - Traffic Encryption VPN / [Client](https://github.com/ViRb3/wgcf) / [Warp+ Data](https://t.me/warpplus), [2](https://github.com/nxvvvv/warp-plus), [3](https://github.com/totoroterror/warp-cloner), [4](https://t.me/generatewarpplusbot), [5](https://rentry.co/warp_plus_free) / [Warp+ Warning](https://rentry.co/warpwarning) / [WireGuard Guide](https://rentry.co/foss-warp)
 * ⭐ **[Riseup](https://riseup.net/en/vpn)** - Free VPN
 * [Mullvad](https://mullvad.net/) - [No-Logging](https://mullvad.net/en/blog/2023/4/20/mullvad-vpn-was-subject-to-a-search-warrant-customer-data-not-compromised/) / [Port Warning](https://mullvad.net/en/blog/2023/5/29/removing-the-support-for-forwarded-ports/)
@@ -442,7 +442,7 @@
 * ⭐ **[How-to Bind VPN to Client](https://redd.it/ssy8vv)** - Bind VPN to Client to Avoid ISP Letters
 * ⭐ **[WireGuard](https://www.wireguard.com/)** - VPN Tunnel / [Setup Guide](https://github.com/amritb/poor-mans-vpn) / [Tools](https://guardline-vpn.github.io/wireguard-tools/) / [Manager](https://github.com/perara/wg-manager) / [WebUI](https://hub.docker.com/r/weejewel/wg-easy)
 * [OpenVPN](https://openvpn.net/) or [TincVPN](https://www.tinc-vpn.org/) - VPN Tunnels
-* [WireHole](https://github.com/IAmStoxe/wirehole) - Wireguard VPN w/ Adblocking Capabilities 
+* [WireHole](https://github.com/IAmStoxe/wirehole) - Wireguard VPN with Adblocking Capabilities 
 * [Syntropy](https://www.syntropystack.com/vpn), [Self Hosted VPN](https://github.com/rajannpatel/Pi-Hole-on-Google-Compute-Engine-Free-Tier-with-Full-Tunnel-and-Split-Tunnel-Wireguard-VPN-Configs), [VpnHood](https://github.com/vpnhood/VpnHood), [n2n](https://github.com/ntop/n2n), [ipsec-vpn](https://github.com/hwdsl2/setup-ipsec-vpn) or [Outline](https://getoutline.org/) - Self-Hosted VPN
 * [OpenConnect](https://www.infradead.org/openconnect/) - SSL VPN / [GUI](https://openconnect.github.io/openconnect-gui/)
 * [Gluetun](https://hub.docker.com/r/qmcgaw/gluetun) / [GitHub](https://github.com/qdm12/gluetun) - Tunnel your Docker containers through a VPN

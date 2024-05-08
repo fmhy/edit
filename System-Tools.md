@@ -99,7 +99,7 @@
 ## ▷ Terminal / CLI
 
 * 🌐 **[terminals-are-sexy](https://terminalsare.sexy/)** - Terminal Resources
-* 🌐 **[awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps)** or [command-line-tools](https://github.com/learn-anything/command-line-tools) - Command Line Resources
+* 🌐 **[Awesome CLI Apps](https://github.com/agarrharr/awesome-cli-apps)** or [Command Line Tools](https://github.com/learn-anything/command-line-tools) - Command Line Resources
 * ⭐ **[Clink](https://github.com/chrisant996/clink)** - Command Line Editing
 * ⭐ **[ss64](https://ss64.com/)** - Command Line Reference Index
 * [Windows Terminal](https://www.microsoft.com/store/productId/9N0DX20HK701) / [2](https://github.com/microsoft/terminal/), [kitty](https://sw.kovidgoyal.net/kitty/), [Tess](https://github.com/SquitchYT/Tess), [ConEmu](https://github.com/Maximus5/ConEmu), [Hyper](https://hyper.is/), [Terminus](https://eugeny.github.io/terminus/), [console 2](https://github.com/cbucher/console), [Tabby](https://tabby.sh/) or [MobaXterm](https://mobaxterm.mobatek.net/) - Windows Terminals
@@ -392,30 +392,6 @@
 
 ***
 
-## ▷ OS Emulators
-
-* 🌐 **[Awesome Web Desktops](https://github.com/syxanash/awesome-web-desktops)** - Browser Emulator Index
-* ⭐ **[Puter](https://puter.com/)** - OS Emulator / Saves Sessions / [Discord](https://discord.com/invite/PQcx7Teh8u) / [GitHub](https://github.com/HeyPuter/puter)
-* [Qemu](https://gitlab.com/qemu-project/qemu) - OS Emulator / Virtualization
-* [copy.sh](https://copy.sh/v86/), [PCJs](https://www.pcjs.org/), [OnWorks](https://www.onworks.net/), [simone.computer](https://simone.computer/#/webdesktops) or [Virtual Desktop](http://www.virtualdesktop.org/) - Multiple OS Emulators
-* [WinXP](https://winxp.vercel.app/), [Windows XP Netify](https://windows-xp.netlify.app/) or [RebornXP](https://rebornxp.js.org/) - Windows XP Browser Emulators
-* [EmuOS](https://emupedia.org/beta/emuos/), [2](https://emupedia.net/beta/emuos/), [3](https://emuos.net/beta/emuos/), [4](https://emuos.org/beta/emuos/) - Windows 95, 98 & ME Emulator
-* [98.js](https://98.js.org/), [Rahul](https://rahul.io/) or [Packard Belle](https://packard-belle.netlify.app/) - Windows 98 Emulator
-* [Windows96.net](https://windows96.net/) - Windows 96 Browser Emulator
-* [Win95](https://archive.org/details/win95_in_dosbox) - Windows 95 Browser Emulator
-* [Windows93](https://www.windows93.net/) - Windows 93 Browser Emulator / Games
-* [EmuOS](https://github.com/Emupedia/emupedia.github.io/) - Run Classic Games / Apps In Browser
-* [Windows 1.01](https://classicreload.com/Windows-1-01.html) - Windows 1.01 Browser Emulator
-* [AaronOS](https://aaronos.dev/), [Whimsy](https://whimsy.space/), [OS.JS](https://www.os-js.org/), [X-WebDesktop](https://oxoyo.co/X-WebDesktop-Vue/), [Orb](https://gitlab.com/hsleisink/orb) or [jQuery Desktop](https://desktop.sonspring.com/) - OS Browser Emulator
-* [PCE Macplus](https://jamesfriend.com.au/pce-js/pce-js-apps/) or [Infinite Mac](https://infinitemac.org/) - macOS Browser Emulators
-* [PCE.js](https://jamesfriend.com.au/pce-js/ibmpc-games/) - PCDOS 5 Emulator
-* [Quantum Playground](https://www.quantumplayground.net/#/home) - Quantum Computer Simulator
-* [Win11 in React](https://win11.blueedge.me/) / [GitHub](https://github.com/blueedgetechno/win11React), [Rajaniraiyn](https://rajaniraiyn.github.io/windows11/) or [Win11.vercel](https://win11.vercel.app/) - Online Windows 11 Emulator
-* [daedalOS](https://dustinbrett.com/) - Online Windows 10 Emulator
-* [EmuOS](https://github.com/Emupedia/emupedia.github.io/) - Run Classic Games / Apps In Browser
-
-***
-
 # ► Customization
 
 * ⭐ **[Rainmeter](https://www.rainmeter.net/)** - Desktop Customization
@@ -471,7 +447,7 @@
 * [ModernWinver](https://github.com/torchgm/NewModernWinver) or [WinverUWP](https://github.com/dongle-the-gadget/WinverUWP) - Modern Windows About Page
 * [linux-like-windows-terminal](https://github.com/Kyza/linux-like-windows-terminal) - Linux Terminal Theme
 * [cool-retro-term](https://github.com/Swordfish90/cool-retro-term) - Retro Cathode Terminal Theme
-* [Pokemon Terminal](https://github.com/LazoCoder/Pokemon-Terminal) - Pokemon Terminal Themes
+* [Pokemon Terminal](https://github.com/LazoCoder/Pokemon-Terminal) - Pokémon Terminal Themes
 * [ExcelDarkThemeFix](https://github.com/matafokka/ExcelDarkThemeFix) - Fix Excel on Themed Windows 
 
 ***

@@ -594,7 +594,7 @@
 * [KinxList](https://kinxlist.com/) - BDSM Checklist
 * [Chaster](https://chaster.app/) - Chastity Tools
 * [WallTalker](https://walltaker.joi.how/) - Control Wallpapers
-* [Awesome-Buttplug](https://github.com/buttplugio/awesome-buttplug) - Buttplug Project Index
+* [Awesome Buttplug](https://github.com/buttplugio/awesome-buttplug) - Buttplug Project Index
 * [Buttplug.io](https://buttplug.io/) - Sex Toy Control Software
 * [Thunder's Place](https://thunders.place/) - Penis Enlargement Discussion & Safety
 * [MoanMyIP](https://www.moanmyip.com/) - Sexy Girls Moaning Your IP

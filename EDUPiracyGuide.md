@@ -192,7 +192,6 @@
 * [Crypto Museum](https://www.cryptomuseum.com/) - Cryptographic Machine History / Info
 * [VGA Museum](https://www.vgamuseum.info/) - Graphic Cards History / Info
 * [MobilePhoneMuseum](https://www.mobilephonemuseum.com/) - Mobile Phone History / Info
-* [House Creep](https://www.housecreep.com/) - Homes With A Curious or Criminal History
 
 ***
 

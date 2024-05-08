@@ -25,7 +25,7 @@
 
 ***
 
-* 🌐 **[DiscordTools](https://discordtools.io/)** or [awesome-discord](https://github.com/jacc/awesome-discord) - Discord Tools Indexes
+* 🌐 **[DiscordTools](https://discordtools.io/)** or [Awesome Discord](https://github.com/jacc/awesome-discord) - Discord Tools Indexes
 * ⭐ **[x266.mov](https://x266.mov/discord-embed)**, [embeds.video](https://embeds.video/), [Stolen Shoes](https://stolen.shoes/), [autocompressor](https://autocompressor.net/) or [Discord Embedder](https://discord.nfp.is/) - Embed Videos on Discord
 * ⭐ **[Revolt](https://revolt.chat/)** / [Bots](https://rvlt.gg/discover/bots) / [Resources](https://github.com/insertish/awesome-revolt) / [Divolt Resources](https://github.com/ggtylerr/awesome-divolt) or **[Guilded](https://www.guilded.gg/)** / [Mod](https://github.com/ReGuilded/ReGuilded/) - Discord Alternatives
 * [Multi-Accounts 1 Email](https://generator.email/blog/gmail-generator) - Create Multi Accounts with One Email / [Guide](https://rentry.co/altmethod)
@@ -258,7 +258,7 @@
 
 # ► Telegram Tools
 
-* 🌐 **[TDirectory](https://tdirectory.me/)**, [Telemetr](https://telemetr.io/en), [Telegram Channels](https://telegramchannels.me/), [Awesome-Telegram](https://github.com/ebertti/awesome-telegram) - Telegram Channel Indexes
+* 🌐 **[TDirectory](https://tdirectory.me/)**, [Telemetr](https://telemetr.io/en), [Telegram Channels](https://telegramchannels.me/), [Awesome Telegram](https://github.com/ebertti/awesome-telegram) - Telegram Channel Indexes
 * 🌐 **[ComBot Groups](https://combot.org/top/telegram/groups)** - Top Telegram Groups Index
 * [Telegago](https://cse.google.com/cse?&cx=006368593537057042503:efxu7xprihg#gsc.tab=0), [2](https://cse.google.com/cse?cx=006249643689853114236:a3iibfpwexa), [Lyzem](https://lyzem.com/), [xTea](https://xtea.io/ts_en.html) or [TG-ME](https://www.tg-me.com/) - Telegram CSE's
 * [MediaDownBot](https://t.me/mediadownbot) or [DownloadsMasterBot](https://t.me/DownloadsMasterBot) - Social Media Downloader
@@ -336,7 +336,7 @@
 * ⭐ **[SponsorBlock](https://sponsor.ajay.app/)** - Skip Sponsored YouTube Ads / [Chromecast](https://github.com/gabe565/CastSponsorSkip) / [Script](https://github.com/mchangrh/sb.js), [2](https://greasyfork.org/en/scripts/453320)
 * ⭐ **[Fast Forward YouTube Shorts](https://greasyfork.org/en/scripts/466438)** - Add Skip Keys to Shorts
 * [shorts-deflector](https://github.com/attituding/shorts-deflector), [Remove YouTube Shorts](https://addons.mozilla.org/en-US/firefox/addon/remove-youtube-shorts/), [ublock-hide-yt-shorts](https://github.com/gijsdev/ublock-hide-yt-shorts) or [youtube-shorts-block](https://github.com/doma-itachi/Youtube-shorts-block) - Hide YouTube Shorts
-* [YouTube_Subs_Bot](https://t.me/youtube_subs_bot) - Sub to Channels Without Account
+* [YouTube_Subs_Bot](https://t.me/youtube_subs_bot) - Sub to Channels without Account
 * [YouTube Spammer Purge](https://github.com/ThioJoe/YT-Spammer-Purge) - Delete All YouTube Spam Comments / [Domain List](https://github.com/ThioJoe/YT-Spam-Lists)
 * [Age Restriction Bypass](https://github.com/zerodytrash/Simple-YouTube-Age-Restriction-Bypass) / [2](https://greasyfork.org/en/scripts/423851-simple-youtube-age-restriction-bypass) - Bypass YouTube Age Restrictions
 * [BlockTube](https://github.com/amitbl/blocktube) - YouTube Content Blocker
@@ -671,6 +671,7 @@
 * [Mastodon Share Bookmarklet Creator](https://eai04191.github.io/mastodon-share-let-maker/index.html) - Quick Share Bookmarklet
 * [Mastodon Embed Timeline](https://gitlab.com/idotj/mastodon-embed-timeline) or [Mastofeed](https://mastofeed.com/) - Embedded Mastodon Feeds
 * [Cheap Bots, Toot Sweet!](https://cheapbotstootsweet.com/) - Create Bots
+* [emojos.in](https://emojos.in/) - Mastodon Custom Emoji Lists
 
 ***
 

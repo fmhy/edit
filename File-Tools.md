@@ -65,7 +65,7 @@
 * ⭐ **[CompactGUI](https://github.com/IridiumIO/CompactGUI)** or [Compactor](https://github.com/Freaky/Compactor) - Transparent Compression
 * [Fileforums](https://fileforums.com/) or [Encode](https://encode.su/) - Data Compression Forums
 * [TurboBench](https://github.com/powturbo/TurboBench) - Compression Benchmark
-* [unzip-http](https://github.com/saulpw/unzip-http) - Unzip via HTTP Without Downloading
+* [unzip-http](https://github.com/saulpw/unzip-http) - Unzip via HTTP without Downloading
 * [WinRAR](https://www.win-rar.com/) - File Archiver / [Licenses](https://rentry.co/FMHYBase64#winrar-licenses)
 * [Bandizip](https://www.bandisoft.com/bandizip/) - File Archiver
 * [IZArc](https://www.izarc.org/) - File Archiver
@@ -319,7 +319,7 @@
 * [swisstransfer](https://www.swisstransfer.com/en) - 50GB / 30 days total / 250 download limit
 * [bowfile](https://bowfile.com/) - 5GB / 30 days total
 * [grosfichiers](https://www.grosfichiers.com/) - 10GB / 14 days total
-* [filebin](https://filebin.net/) - Unlimited / 6 days total / Anyone w/ a link can delete
+* [filebin](https://filebin.net/) - Unlimited / 6 days total / Anyone with a link can delete
 * [fex](https://fex.net/) - 100GB total / 7 days total
 * [Encl](https://encl.io/) - 10gb / 7 days total
 * [SendGB](https://www.sendgb.com/) - 5GB / 7 days total

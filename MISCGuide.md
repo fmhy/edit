@@ -6,6 +6,7 @@
 
 # ► Indexes
 
+* 🌐 **[Awesome List Index](https://github.com/sindresorhus/awesome), [2](https://github.com/topics/awesome)** - All Awesome Lists
 * 🌐 **[Dbzer0 Megathread](https://wiki.dbzer0.com/piracy/)** - Piracy Index
 * 🌐 **[/r/Piracy Megathread](https://www.reddit.com/r/Piracy/wiki/megathread)** - Piracy Index / [Rentry](https://rentry.co/megathread), [2](https://rentry.org/megathread)
 * 🌐 **[Awesome Piracy](https://shakil-shahadat.github.io/awesome-piracy/)** - Piracy Index / [Github](https://github.com/Shakil-Shahadat/awesome-piracy)
@@ -21,7 +22,10 @@
 * ↪️ **[AI Indexes](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/ai#wiki_.25BA_ai_indexes)**
 * ⭐ **[FMHY Guides](https://rentry.co/fmhy-guides)** - Automated Rentry Guide List / [Script](https://gist.github.com/Rust1667/e21e92ae385e71f0d87e869bed90fff2) / [Download](https://gist.github.com/Rust1667/efc055debaf4876e4de39cc0d32f18c1) / [Backup Rar](https://mega.nz/file/ajgAnZRY#dQgzhwk0v8L9PyoiSGzw54n1bUC35Brq2QgcK5bglHw)
 * ⭐ **[FMHY Search](https://www.reddit.com/r/FREEMEDIAHECKYEAH/comments/105xraz/howto_search_fmhy/)** - Search the Wiki
+* ⭐ **[Awesome Search](https://awesomelists.top/)** - Awesome List Search
 * ⭐ **[/r/InternetIsBeautiful](https://reddit.com/r/InternetIsBeautiful)** - Helpful / Fun Sites
+* [Track Awesome List](https://www.trackawesomelist.com/) - Daily Awesome List Updates
+* [Awesome CLI](https://github.com/umutphp/awesome-cli) - CLI Interface for Searching Awesome Lists
 * [WebOas.is](https://weboasis.app/), [2](https://ndsamuelson.github.io/weboas-is/) - Startpage / Site Index / [Source Code](https://pastebin.com/CczqreS4) / [Archive](https://rentry.co/e9y6b) / [FAQ](https://bin.disroot.org/?6a50fab15330b762#7VwnxM9Jsvp8wWmW6eFmmxyXppWVjErn4CMgd8wii9pC)
 * [lists](https://github.com/jnv/lists) - List Index
 * [Curlie](https://curlie.org/) - Topic Directory
@@ -62,21 +66,6 @@
 * [ImageBoards](https://imageboards.net/), [Chan List](https://archive.is/Npzwl) or [imageboards.json](https://github.com/ccd0/imageboards.json/blob/gh-pages/imageboards.json) - Imageboard Index
 * [Single Serving Sites](https://singleservingsites.cool/) - Single-Purpose Sites
 * [Similar Sites](https://www.similarsites.com/), [SimilarWeb](https://www.similarweb.com/), [xRanks](https://xranks.com/), [similarsitesearch](https://www.similarsitesearch.com/), [TopSimilarSites](https://www.topsimilarsites.com/), [odir.us](https://odir.us/), [Sitelike.org](https://www.sitelike.org/), [SitesLike](https://www.siteslike.com/) - Similar Site Indexes
-
-***
-
-## ▷ Awesome Lists
-
-* 🌐 **[Awesome List Index](https://github.com/sindresorhus/awesome), [2](https://github.com/topics/awesome)** - All Awesome Lists
-* ⭐ **[Awesome Search](https://awesomelists.top/)** - Awesome List Search
-* [Awesome Tech for Good](https://github.com/TechforgoodCAST/awesome-techforgood) - Social-Impact Tech List
-* [Awesome OSS](https://github.com/RunaCapital/awesome-oss-alternatives) - Open-Source Alternatives to SaaS
-* [Awesome Web Apps](https://github.com/aviaryan/awesome-no-login-web-apps) - No-Login Web Apps
-* [Awesome Anime Sources](https://github.com/anshumanv/awesome-anime-sources) - All Things Anime
-* [Awesome DataHoarding](https://github.com/simon987/awesome-datahoarding) - Data-Hoarding Related Tools
-* [Awesome Uncopyright](https://github.com/johnjago/awesome-uncopyright) - All Things Public Domain
-* [Awesome CLI](https://github.com/umutphp/awesome-cli) - CLI Interface for Searching Awesome Lists
-* [Track Awesome List](https://www.trackawesomelist.com/) - Daily Awesome List Updates
 
 ***
 
@@ -259,7 +248,7 @@
 * [Beacon](https://beacon.schneidercorp.com/) - Property Info / Map Search
 * [FixPhrase](https://fixphrase.com/) or [TextToMap](https://www.textomap.com/) - Text Based Map Search
 * [zoom.earth](https://zoom.earth/) or [GoogleEarth](https://earth.google.com/web/) - Earth Viewer
-* [Copernix](https://copernix.io/) - Explore a Map w/ Wikipedia
+* [Copernix](https://copernix.io/) - Explore a Map with Wikipedia
 * [Snazzy Maps](https://snazzymaps.com/) - Google Maps Themes
 * [Sirens In UA](https://sirens.in.ua/) - Ukraine Air Raid Siren Map
 * [Native-Land.ca](https://native-land.ca/) - Indigenous Territory Map
@@ -277,6 +266,7 @@
 * [Windy](https://www.windy.com/) - Wind Map
 * [Jetstream](https://www.netweather.tv/charts-and-data/global-jetstream) - Global Jetstream Forcast Map
 * [Tornado Archive](https://tornadoarchive.com/) - Tornado Data Visualization
+* [Find Your Tornado Shelter](https://findyourtornadoshelter.com/) - Tornado Shelter Map
 * [AQICN](https://aqicn.org/map/world) or [Breezometer](https://www.breezometer.com/air-quality-map/) - Air Quality Maps
 * [SaveEcoBot](https://www.saveecobot.com/en/radiation-maps) - Radioactivity / Air Quality Near Ukraine
 * [Earth Observatory](https://earthobservatory.nasa.gov/global-maps), [Earth Now](https://climate.nasa.gov/earth-now/) or [ClimateCharts](https://climatecharts.net/) - Climate Maps
@@ -436,7 +426,7 @@
 * [Coping Skills Masterlist](https://docs.google.com/document/d/1KI1kzj6Bjx_O3ggYXfgEuTtOsLiCW0V-JeWpTyX5OOU/) - Mental Health Coping Skills
 * [Zen Habits](https://zenhabits.net/) - Develop Zen Habits
 * [Medito](https://github.com/meditohq/medito-app) or [Heartfulness](https://www.heartfulnessapp.org/) - Meditation App
-* [Balance](https://balance.dvy.io/) - Challenge Anxious Thoughts w/ AI
+* [Balance](https://balance.dvy.io/) - Challenge Anxious Thoughts with AI
 * [Plees Tracker](https://vmiklos.hu/plees-tracker/) - Sleep Tracker
 
 ***
@@ -547,7 +537,7 @@
 
 ## ▷ Porn Quitting
 
-* 🌐 **[Awesome-Adult-Content-Filtering](https://github.com/wesinator/awesome-Adult-Content-Filtering)** - Porn Quitting Tools Index
+* 🌐 **[Awesome Adult Content Filtering](https://github.com/wesinator/awesome-Adult-Content-Filtering)** - Porn Quitting Tools Index
 * ↪️ **[Site Blocking](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25B7_productivity_tools)**
 * ⭐ **[EasyPeasy](https://easypeasymethod.org/)**, [2](https://gitlab.com/snuggy/easypeasy) - Painlessly Quit Pornography
 * ⭐ **[NoFap Forums](https://forum.nofap.com/index.php)** - Forums
@@ -862,6 +852,7 @@
 
 ## ▷ Toys / Figures
 
+* 🌐 **[Awesome Lego](https://github.com/ad-si/awesome-lego)** - Lego Resources
 * [Dinosaur Toy Blog](https://dinotoyblog.com/) or [Animal Toy Blog](https://animaltoyforum.com/blog/) - Animal Toy Reviews
 * [MyFigureCollection](https://myfigurecollection.net/) - Japanese Pop-Culture Merch Database
 * [Ty Collector](https://tycollector.com/) or [Beaniepedia](https://beaniepedia.com/) - Ty Collectibles Databases
@@ -1068,7 +1059,7 @@
 * [Kittenwar!](https://www.kittenwar.com/) - Rate Kittens
 * [procatinator](https://procatinator.com/) - Cat GIFs & Music
 * [Open Puppies](https://openpuppies.com/) - Random Dog GIFs
-* [Triviart](https://triviart.live/) - Infinite Painting Canvas w/ Trivia
+* [Triviart](https://triviart.live/) - Infinite Painting Canvas with Trivia
 * [paint.wtf](https://paint.wtf/) - Have an AI Judge your Art
 * [Chimera Painter](https://storage.googleapis.com/chimera-painter/index.html) - Chimera Generator
 * [MakeCoatOfArms](https://www.allfamilycrests.com/makecoatofarms.htm) - Coat of Arms Generator
@@ -1086,9 +1077,9 @@
 * [myMrLx](https://codepen.io/davidpanik/full/myMrLx/) - Spiral Art Generators
 * [Remoji](https://remoji.com/) - Emoji Painting
 * [PlayColoring](https://www.playcoloring.com/) - Fill-In Painting
-* [EmojiMix](https://tikolu.net/emojimix) or [Emoji Kitchen](https://emojikitchen.dev/) - Combine Emojis
+* [EmojiMix](https://tikolu.net/emojimix), [Neomojimixer](https://entenbru.st/neomojimixer/) or [Emoji Kitchen](https://emojikitchen.dev/) - Combine Emojis
 * [Emojination](https://www.emojination.io/), [EmoteStud](https://emotestud.io/), [Emoji Factory](https://codepen.io/oliviale/full/qLYNbE) or [Ccclaymoji](https://fffuel.co/ccclaymoji/) - Emoji Creators
-* [MyPokeCard](https://www.mypokecard.com/en/) - Create Pokemon Cards
+* [MyPokeCard](https://www.mypokecard.com/en/) - Create Pokémon Cards
 * [pokemon-colorscripts](https://gitlab.com/phoneybadger/pokemon-colorscripts) - Terminal Pokémon Sprites
 * [Pokémon Fusion](https://pokemon.alexonsager.net/) - Fuse Pokémon
 * [Poke Palettes](https://pokepalettes.com/) - Pokémon Color Palettes
@@ -1109,6 +1100,7 @@
 ## ▷ Interactive
 
 * 🌐 **[David.li](https://david.li/)** - Physics Games
+* 🌐 **[Awesome Web Desktops](https://github.com/syxanash/awesome-web-desktops)** - OS Emulators
 * ↪️ **[Fun Site Indexes](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_fun_indexes)**
 * ↪️ **[Browser Games](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/games#wiki_.25BA_browser_games)**
 * ↪️ **[Image Creation](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/img-tools#wiki_.25BA_image_creation)**
@@ -1131,7 +1123,9 @@
 * [MagicKeyboard](http://magickeyboard.io/) - Try "feross", "hexbin", "rain", or "semi"
 * [Just Type Stuff](https://web.archive.org/web/20191229101209/https://justtypestuff.com/) - Type Things into Existence
 * [deardiary](https://deardiary.wtf/) - Machine Learning Diary / [Concept Video](https://youtu.be/Zc3qayGmYZQ)
-* [Windows93](https://www.windows93.net/) or [RacerTrash](https://racertrash.com/) - Fun / Retro Emulators
+* [Virtual x86](https://copy.sh/v86/) - x86-compatible OS Emulators
+* [PCjs Machines](https://www.pcjs.org/) - Classic Computer Emulators
+* [Quantum Playground](https://www.quantumplayground.net/#/home) - Quantum Computer Simulator
 * [Kamogo](https://www.kamogo.com/faq/) - Useless Web Apps
 * [larsberg](https://www.larsberg.net/#/), [substack](https://substack.net/) or [mrdoob](https://mrdoob.neocities.org/) - Trippy 3D Experiments
 * [Google Doodles](https://www.google.com/doodles?q=interactive) - Interactive Google Doodles
@@ -1158,14 +1152,14 @@
 * [Iceberger](https://joshdata.me/iceberger.html) - Draw an Iceberg, See how it Floats
 * [BubblesPop](https://bubblespop.netlify.app/) - Pop Bubble Wrap
 * [Checkbox Olympics](https://checkbox.toys/) - Checkbox Game
-* [Fidget Page](https://www.fidgetpage.com/) - Play w/ Fidget Spinner
+* [Fidget Page](https://www.fidgetpage.com/) - Play with Fidget Spinner
 * [Keep calm and poke me.](https://calm.ovh/) - Poke & Pull
 * [Elastic Man](https://www.adultswim.com/etcetera/elastic-man/) - Elastic Morty
 * [Screentoys](https://www.screentoys.com/) - Photo Morphing Toy
 * [Smash The Walls](https://smashthewalls.com/) - Smash Walls
 * [Koalas to the Max](https://www.koalastothemax.com/) - Make Smaller & Smaller Dots
 * [Popcat](https://popcat.click/) - Worldwide Popcat Clicking Competition
-* [Spherical Trochoids](https://claytonmain.github.io/spherical-trochoids/) - Experiment w/ Spherical Trochoids
+* [Spherical Trochoids](https://claytonmain.github.io/spherical-trochoids/) - Experiment with Spherical Trochoids
 * [DrawAurora](https://www.drawaurora.com/) - Draw Auroras
 * [Neonflames](https://29a.ch/sandbox/2011/neonflames/) - Draw Nebulas
 * [Leapy Grid](https://codepen.io/Godje/full/mOzpEY/) - Play with Rainbow Grid
@@ -1194,7 +1188,8 @@
 
 ## ▷ Interesting
 
-* 🌐 **[Awesome Lego](https://github.com/ad-si/awesome-lego)** - Lego Resources
+* 🌐 **[404PageFound](https://www.404pagefound.com/)** - Old Websites
+* 🌐 **[Websites From Hell](https://websitesfromhell.net/)** - Shitty Websites
 * ↪️ **[Online Virtual Tours](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu#wiki_.25BA_virtual_tours)**
 * ⭐ **[Iceberg Charts](https://icebergcharts.com/)** - Explore Obscure Topics / [/r/IcebergCharts](https://www.reddit.com/r/IcebergCharts/)
 * ⭐ **[InfiniteConversation](https://infiniteconversation.com/)** - Never-Ending Werner Herzog / Slavoj Žižek Conversation
@@ -1216,8 +1211,8 @@
 * [FutureTimeline](https://www.futuretimeline.net/) - Timeline of Future Predictions
 * [Letters of Note](https://news.lettersofnote.com/) - Historical Letters
 * [CommSpeeches](https://commspeeches.softr.app/) - Famous Graduation Speeches
-* [Roadside America](https://www.roadsideamerica.com/) - Roadside Attraction Index
-* [Roller Coaster Database](https://rcdb.com/) - World Roller Coaster Index
+* [Roadside America](https://www.roadsideamerica.com/) - Roadside Attractions
+* [Roller Coaster Database](https://rcdb.com/) - World Roller Coasters
 * [FirstVersions](https://www.firstversions.com/) - Find First Versions of Anything
 * [Pushing Pixels](https://www.pushing-pixels.org/fui/) or [Saji8k](https://www.saji8k.com/kit-fui/) - Imaginary UI from Movies
 * [Nestflix](https://nestflix.fun/) - Fictional Media in Media Database
@@ -1252,17 +1247,11 @@
 * [Cube Rule](https://cuberule.com/) - The Cube Rule of Food
 * [The GIF Pronunciation Page](https://www.olsenhome.com/gif/) - How to Pronounce "GIF"
 * [Where's George?](https://www.wheresgeorge.com/) or [TrackDollar](http://trackdollar.com/) - Dollar Tracking
-* [WordCount](https://www.vidarholen.net/contents/wordcount/) - Most Common Linux kernel source code Words
-* [DeletedCity](http://deletedcity.net/) - Geocities Visualizer 
-* [LowTech Directory](https://emreed.net/LowTech_Directory.html) - Low Tech Site Index
-* [404PageFound](https://www.404pagefound.com/) - Old Site Indexes
+* [WordCount](https://www.vidarholen.net/contents/wordcount/) - Most Common Linux Kernel Source Code Words
+* [DeletedCity](http://deletedcity.net/) - Geocities Visualizer
 * [Wiby](https://www.wiby.me/) - Explore Old Sites
-* [Museum of Failure](https://collection.museumoffailure.com/) or [KilledByTech](https://killedby.tech/) - Dead Project Indexes
-* [KilledByGoogle](https://killedbygoogle.com/) - Dead Google Project Index
-* [KilledByMicrosoft](https://killedbymicrosoft.info/) - Dead Microsoft Project Index
+* [Museum of Failure](https://collection.museumoffailure.com/), [KilledByGoogle](https://killedbygoogle.com/), [KilledByMicrosoft](https://killedbymicrosoft.info/) or [KilledByTech](https://killedby.tech/) - Dead Projects
 * [info.cern](https://info.cern.ch/) - First Website on the Internet
-* [Pointless Sites](https://www.pointlesssites.com/) - Pointless Site Index
-* [Websites From Hell](https://websitesfromhell.net/) - Shitty Website Index
 
 ***
 

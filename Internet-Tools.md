@@ -417,7 +417,7 @@
 * [QuteBrowser](https://qutebrowser.org/) - Keyboard Focused Browser
 * [Vieb](https://vieb.dev/) - Vim Inspired Browser
 * [Browsh](https://www.brow.sh/) - Text-Based Browser
-* [woob](https://woob.tech/) - Use Sites Without a Browser
+* [woob](https://woob.tech/) - Use Sites without a Browser
 * [Browser.lol](https://browser.lol/) or [Browserling](https://www.browserling.com/) - Browser Emulators
 * [NYXT](https://nyxt.atlas.engineer/ ) - Information Extraction Browser
 * [Lagrange](https://gmi.skyjake.fi/lagrange/) or [Amfora](https://github.com/makew0rld/amfora) - Gemini Browsers
