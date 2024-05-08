@@ -9,7 +9,7 @@
 ## ▷ Multi Server
 
 * ⭐ **[movie-web](https://erynith.github.io/movie-web-instances/)** - Movies / TV / Anime / 4K / 1080p / Ad-Free / [Stream Fix](https://docs.sudo-flix.lol/extension) (important) / [Doc Fork](https://docs.sudo-flix.lol/) / [Discord](https://discord.gg/EDYT5bjSvp)
-* ⭐ **[Braflix](https://www.braflix.video/)** - Movies / TV / Anime / 4K / 1080p / Ad-Free / [Discord](https://discord.gg/wWKmxARaWH)
+* ⭐ **[Braflix](https://www.braflix.video/)** - Movies / TV / Anime / 4K / 1080p / Ad-Free / [Note](https://pastebin.com/4qWrYKtH) / [Discord](https://discord.gg/wWKmxARaWH)
 * ⭐ **[Binged](https://binged.live/)**, [2](https://binge.lol/), [3](https://binged.in/) - Movies / TV / Anime / 1080p / [Discord](https://discord.gg/f2SvhcKCKS)
 * ⭐ **[FMovies](https://fmoviesz.to/)** - Movies / TV / Anime / 1080p / [Mirrors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_fmovies_clones)
 * ⭐ **[watch.lonelil](https://watch.lonelil.ru/)** - Movies / TV / Anime / 4K / 1080p / [Discord](https://discord.com/invite/BKts6Jb5sA) / [Telegram](https://t.me/watchlonelil)
@@ -169,7 +169,7 @@
 * [Muse Asia](https://www.youtube.com/@MuseAsia) - Anime / Sub / Dub / 720p / Asian VPN Needed
 * [Ani-One Asia](https://www.youtube.com/@AniOneAsia) - Anime  / Sub / Dub / 1080p / Asian VPN Needed
 * [Pokémon Asia ENG](https://www.youtube.com/@PokemonAsiaENG) - Pokémon Anime / Dub / 1080p / Asian VPN Needed
-* [Layendimator](https://github.com/Layendan/Layendanimator) or [Miru](https://miru.js.org/en/) - Anime Streaming Apps
+* [Layendimator](https://github.com/Layendan/Layendanimator), [Anikin](https://github.com/jerry08/Anikin) or [Miru](https://miru.js.org/en/) - Anime Streaming Apps
 * [Tezuka Productions Official](https://www.youtube.com/@tezukaproductions-en) - Osamu Tezuka Anime
 * [Crunchyroll](https://www.crunchyroll.com/videos/anime) - Sub / Dub / [US Proxy](https://addons.mozilla.org/en-US/firefox/addon/crunchy-unblocker/) / [Intro Skip](https://github.com/aniskip/aniskip-extension)
 * [Miu](https://discord.gg/pwkuanXBJh) or [AnimeThemes](https://animethemes.moe/) / [Discord](https://discord.com/invite/m9zbVyQ) - Anime Themes
@@ -189,7 +189,6 @@
 * [Supercartoons](https://www.supercartoons.net/)
 * [FunnierMoments](https://www.funniermoments.net/)
 * [b98](https://www.b98.tv/)
-* [South Park](https://southpark.cc.com/) - South Park Episodes
 * [ToonamiAftermath](https://www.toonamiaftermath.com/) - Toonami Streams
 
 ***
@@ -420,7 +419,6 @@
 * [720pStream](https://720pstream.nu/) - Sports
 * [CrackStreams](https://crackstreams.io/), [2](https://the.crackstreams.me/) - Sports
 * [BuffStream](https://bestmlb.buffstream.io/) - Sports
-* [SoccerWorldCup](https://soccerworldcup.me/) - Sports
 * [LiveTV](https://livetv780.me/enx/) - Sports
 * [SportsHD](http://sportshd.sx/) - Sports
 * [Raket TV](https://rakettvv.blogspot.com/) - Sports
@@ -457,13 +455,13 @@
 
 ## ▷ Sports Replays
 
-* ⭐ **[SportsReplay](https://linktr.ee/suisports)** - Sports Replays / [Basketball](https://watchreplay.net/) / [Motorsports](https://watchf1full.com/) / [MMA / Wrestling](https://watchmmafull.com/) / [Discord](https://discord.com/invite/2r4pj67gCv)
 * ⭐ **[720Pier](https://720pier.ru/)** - Sports Replays / Torrents / 1080p
 * ⭐ **[Fishker NFL](https://fishkernfl.com/)** - Football Replays / 720p
 * ⭐ **[Watch-Wrestling.eu](https://watch-wrestling.eu/)** - MMA / Wrestling Replays / 1080p
 * ⭐ **[WatchWrestling24](https://watchwrestling24.net/)** - MMA / Wrestling Replays / 720p
 * ⭐ **[WatchWrestlingUp](https://watchwrestlingup.org/)** or [RealFights](https://realfight.org/) - MMA / Wrestling Replays / 720p
 * ⭐ **[Nascar Classics](https://classics.nascar.com/)** - Nascar Replays / 1080p
+* [SportsReplay](https://linktr.ee/suisports) - Sports Replays / [Basketball](https://watchreplay.net/) / [Motorsports](https://watchf1full.com/) / [MMA / Wrestling](https://watchmmafull.com/) / [Discord](https://discord.com/invite/2r4pj67gCv)
 * [MLBLive](https://mlblive.net/) - Baseball Replays
 * [FullReplays](https://www.fullreplays.com/) - Soccer Replays
 * [FootballOrigin](https://www.footballorgin.com/) - Soccer Replays
@@ -528,7 +526,6 @@
 * [FilmDuty](https://filmduty.com/) - Movies / TV / Anime / 1080p
 * [Downloads-Anymovies](https://www.downloads-anymovies.co/) - Movies / 1080p
 * [RLSXTVT](https://rlsxtvt.icu/) - Movies / TV / 1080p
-* [MegaDDL](https://megaddl.co/) - Movies / TV / 1080p / Some Paywalled
 * [UHDMovies](https://uhdmovies.fans/) - Movies / 4K
 * [Best-Movies](https://best-movies.info/) - Movies / TV / 4K
 * [Onkyo4k](https://onkyo4k.com/) - Movies / TV / 4K
