@@ -1624,6 +1624,7 @@
 * [4kFilmizlesene](https://www.4kfilmizlesene.org/) - Movies
 * [Film İzlesene](https://www.filmizlesene.pro) - Movies
 * [Dizilab](https://dizilab.com/) - TV
+* [Film Mom](https://www.filmmom.de/) - Movies
 * [Dizibox](https://www.dizibox.in) - TV
 * [Turkish123](https://turkish123.com/) - TV
 * [Yoturkish](https://www.yoturkish.com) - TV
@@ -1754,6 +1755,7 @@
 
 * [BiluTV](https://bilutv.link/) - Movies / TV / Anime
 * [MotChill](https://motchilli.vip/) - Movies / TV
+* [PhimMoi](https://phimmoiiii.net/) - Movies / TV
 * [Danet](https://danet.vn/) - Movies / TV
 * [XemPhim](https://xemphim.app/) - Movies / TV
 * [Redphim](https://redphim.com/) - Movies / TV
