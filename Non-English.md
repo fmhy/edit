@@ -1570,7 +1570,7 @@
 ## ▷ Streaming
 
 * [SVT Play](https://www.svtplay.se/) - Movies / TV
-* [DreamFilmsW](https://dreamfilmsw.net/) - Movies / TV
+* [DreamFilmsW](https://dreamfilmsw.info/) - Movies / TV
 * [Filmarkivet](https://www.filmarkivet.se/) - Short Films
 
 ***
@@ -1602,26 +1602,26 @@
 
 ## ▷ Downloading
 
-* [MP3 İndir](https://www.mp3indirdur.net/) - Music
+* [MP3 İndir](https://www.mp3indirdur.io/) - Music
 * [Türkçe Altyazı](https://turkcealtyazi.org/index.php) - Subtitles
 * [Turkish Audio Center](https://www.turkishaudiocenter.com) - Voiceovers
 * [Shareses](https://shareses.com) - Voiceovers
 * [Türkce Ses İndir](https://www.turkcesesindir.com/) - Voiceovers
 * [DwForce](http://dwa-audio.blogspot.com/) - Voiceovers
-* [SinnerClown](https://sinnerclownceviri.com) - Game Localization / [Discord](https://discord.com/invite/nApvcT6Tt6)
+* [SinnerClown](https://sinnerclownceviri.net) - Game Localization / [Discord](https://discord.com/invite/nApvcT6Tt6)
 * [PixelSaga (Discord)](https://discord.gg/ZZER4w3Mmx) - Game Localization
 * [Calypso (Discord)](https://discord.gg/calypsoceviri) - Game Localization
-* [Hangar](https://www.hangarceviri.com) - Game Localization
+* [Hangar](https://www.hangarceviri.com) - Game Localization / [Discord](https://discord.com/invite/hangar)
 
 ## ▷ Streaming
 
 * [Dizilla](https://dizilla.club) - Movies / TV 
 * [Yabancı Dizi](https://yabancidizi.pro) - Movies / TV
-* [Hdfilm Cehennemi](https://www.hdfilmcehennemi.com) - Movies / TV
-* [Full HD Film İzlesene](https://www.fullhdfilmizlesene.pw) - Movies / Cartoons
-* [Jet Film izle](https://jetfilmizle.film/) - Movies
+* [Hdfilm Cehennemi](https://www.hdfilmcehennemi.us) - Movies / TV
+* [Full HD Film İzlesene](https://www.fullhdfilmizlesene.de) - Movies / Cartoons
+* [Jet Film izle](https://jetfilmizle.de/) - Movies
 * [Film İzle](https://filmizle2022.info/) - Movies
-* [4kFilmizlesene](https://www.4kfilmizlesene.xyz/) - Movies
+* [4kFilmizlesene](https://www.4kfilmizlesene.org/) - Movies
 * [Film İzlesene](https://www.filmizlesene.pro) - Movies
 * [Dizilab](https://dizilab.com/) - TV
 * [Dizibox](https://www.dizibox.in) - TV
@@ -1737,7 +1737,7 @@
 
 * [Fshare](https://timfshare.com/) - Video / Audio
 * [PhimDidibkk](https://phim.didibkk.com/) - Movies / TV / Anime
-* [CineTV](https://thuviencine.com/) - Movies / TV / Anime
+* [CineTV](https://thuviencine.xyz/) - Movies / TV / Anime
 * [ThuvienHD](https://thuvienhd.com/) - Movies / TV / Anime
 * [HDVietnam](https://www.hdvietnam.xyz/) - Video / Audio
 * [TinMp3](https://tinmp3.com/) - Music
@@ -1753,27 +1753,27 @@
 ## ▷ Streaming
 
 * [BiluTV](https://bilutv.link/) - Movies / TV / Anime
-* [MotChill](https://motchilli.net/) - Movies / TV
+* [MotChill](https://motchilli.vip/) - Movies / TV
 * [PhimMoi](https://phimmoiiii.net/) - Movies / TV
 * [Danet](https://danet.vn/) - Movies / TV
 * [XemPhim](https://xemphim.app/) - Movies / TV
 * [Redphim](https://redphim.com/) - Movies / TV
 * [LuotPhim](https://luotphimtv1.com/) - Movies / TV
-* [NguonPhim](http://nguonphim.one/) - Movies
-* [HoatHinh3D](https://hoathinh3d.biz/) - Chinese Animation
-* [HHNinja](https://hhninja.tv/) - Chinese Animation
-* [HHKungfu](https://hhhkungfu.tv/) - Chinese Animation
-* [HHTQvip](https://hhtq.vip/) - Chinese Animation
-* [VuiGhe](https://vuighe2.com/) - Anime
-* [AnimeTVN](https://animetvn2.com/) - Anime
-* [animevietsub](https://animevietsub.io/) - Anime
+* [NguonPhim](http://nguonphimd.com/) - Movies
+* [HoatHinh3D](https://hoathinh3d.fun/) - Chinese Animation
+* [HHNinja](https://hhninja2.tv/) - Chinese Animation
+* [HHKungfu](https://hhhkungfu.site/) - Chinese Animation
+* [HHTQvip](https://hhtq6.vip/) - Chinese Animation
+* [VuiGhe](https://vuighe3.com/) - Anime
+* [AnimeTVN](https://animetvn4.com/) - Anime
+* [animevietsub](https://animevietsub.fun/) - Anime
 * [Ani4u](https://ani4u.org/) - Anime
-* [AnimeVSub](https://animevsub.eu.org/) - Anime
+* [AnimeVSub](https://animevsub.eu.org/) - Anime / [Extension](https://github.com/anime-vsub/extension-animevsub-helper)
 * [Unime](https://unime.vercel.app/) - Anime
-* [AnimeHay](https://animehay.city/) - Anime
+* [AnimeHay](https://animehay.blog/) - Anime
 * [AnimeTVN](https://animetvn.com/) - Anime
-* [Anime47](https://anime47.com/) - Anime
-* [HHTQ](https://hhtrungquoc.com/) - Chinese Anime / Sub / 720p
+* [Anime47](https://anime47.biz/) - Anime
+* [HHTQ](https://hhtrungquoc5.com/) - Chinese Anime / Sub / 720p
 * [POPS](https://pops.vn/) - Anime / Cartoon
 * [Tokuvn](https://tokuvn.com/) - Tokusatsu
 * [Mocha](https://video.mocha.com.vn/) - Video
@@ -1781,7 +1781,7 @@
 * [TVOnline](https://tvtructuyen.vn/) - Live TV
 * [VTVGo](https://vtvgo.vn/) - Live TV
 * [TV360](https://tv360.vn/) - Live TV
-* [TVHayHD](http://xemtv.tvhayhd.com/) - Live TV
+* [TVHayHD](http://xemtv.tvhayhd.tv/) - Live TV
 * [Xtv](https://xemtiviviet.net/) - Live TV
 * [6SVN](https://xem.6svn.com/) - Live TV
 * [vieon](https://vieon.vn/) - Live TV / TV show / Anime / Cartoon / Movie
@@ -1816,28 +1816,28 @@
 * [LoiGiaiHay](https://loigiaihay.com/) - Educational Books / Documents
 * [VietJack](https://vietjack.com/) - Educational Books / Documents
 * [DocTaiLieu](https://doctailieu.com/) - Educational Books / Documents
-* [Fecomic](https://fecomic.com/) - Manga / Manhwa / Manhua
+* [Fecomic](https://fecomic.cc/) - Manga / Manhwa / Manhua
 * [Truyencc](https://truyencc.com/) - Manga / Manhwa / Manhua
-* [KhoTruyen](https://khotruyenmoi.net/) - Manga / Manhwa / Manhua
+* [KhoTruyen](https://khotruyenmoi.club/) - Manga / Manhwa / Manhua
 * [HanulTruyen](https://hanultruyen.net/) - Manga / Manhwa / Manhua
 * [ThichTruyen](https://thichtruyen.vn/) - Manga / Manhwa / Manhua
 * [CongTruyen](https://congtruyen.org/) - Manga / Manhwa / Manhua
-* [TruyenQQ](https://truyenqqvn.com/) - Manga / Manhwa / Manhua
+* [TruyenQQ](https://truyenqqviet.com/) - Manga / Manhwa / Manhua
 * [DichTruyen](https://dichtruyenprone.com/) - Manga / Manhwa / Manhua / [Facebook](https://www.facebook.com/dichtruyenteam/)
 * [COMI](https://comi.mobi/) - Manga / Manhwa / Manhua / Novel
 * [cuutruyen](https://cuutruyen.net/) - Manga
-* [Bao Tung Truyen](https://baotangtruyen7.com/) - Manga
+* [Bao Tung Truyen](https://baotangtruyen10.com/) - Manga
 * [Kyoto Manga](https://kyotomanga.live/) - Manga
-* [NetTruyen](https://www.nettruyenclub.com/) - Manga
+* [NetTruyen](https://www.nettruyentt.com/) - Manga
 * [blogtruyen](https://blogtruyenvn.com/) - Manga
-* [truyenvn](https://truyenvnhay.tv/) - Manga/ Manhwa/ Manhua
-* [PheTruyen](https://phetruyen.pro/) - Manga/ Manhwa/ Manhua
+* [truyenvn](https://truyenvnhay.lol/) - Manga/ Manhwa/ Manhua
+* [PheTruyen](https://phetruyen.vip/) - Manga/ Manhwa/ Manhua
 * [Dtruyen](https://dtruyen.com/) - Manga/ Manhwa/ Manhua
 * [Thichdoctruyen](https://thichdoctruyen.vip/) - Manga/ Manhwa/ Manhua
 * [Truyensieuhay](https://truyensieuhay.com/) - Manga/ Manhwa/ Manhua
 * [Goctruyen](https://goctruyentranhvui.com/trang-chu) - Manga/ Manhwa/ Manhua
 * [Vietwriter](https://vietwriter.vn/) - Manga/ Manhwa/ Manhua / Novel
-* [Doctruyen5s](https://manga.io.vn/) - Manga/ Manhwa/ Manhua
+* [Doctruyen5s](https://doctruyen.vip/) - Manga/ Manhwa/ Manhua
 * [truyengihay](https://truyengihotqua.com/) - Manga
 * [TruyenFull](https://truyenfull.vn/) - Manga / Light Novels
 * [Hako](https://docln.net/), [2](https://novelvn.net/) - Light Novels / [Facebook](https://www.facebook.com/groups/hako.group)
@@ -1854,7 +1854,7 @@
 * ↪️ **[Asian Drama Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video#wiki_.25B7_drama_streaming)**
 * [Keyman](https://keyman.com/) - Multilingual / Keyboard Files
 * [Jainism Library of Jain Literature](https://www.atmadharma.com/index.html) - Multilingual / Sacred Texts
-* [Filma24](https://www.filma24.pl/) - Albanian / Movies / TV / 1080p
+* [Filma24](https://www.filma24.lol/) - Albanian / Movies / TV / 1080p
 * [Ethio Terka](https://t.me/ethio_terka) or [amharicbookss](https://t.me/amharicbookss) - Amharic / Books
 * [channelmyanmar](https://channelmyanmar.org) - Burmese / Movies / TV / Cartoons / 1080p / 4K
 * [lupiteam](https://lupiteam.net/) - Corsican / Manga
