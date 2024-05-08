@@ -43,7 +43,6 @@
 * [PacketSender](https://packetsender.com/) - Packet Sender
 * [OpenSpeedTest](https://openspeedtest.com) / [GitHub](https://github.com/openspeedtest/Speed-Test) - Speed Test
 * [Packet Loss Test](https://packetlosstest.com/) - Speed Test
-* [Bandwidth Place](https://www.bandwidthplace.com/) - Speed Test
 * [Speedtest](https://www.speedtest.net/) - Speed Test
 * [speedcheck](https://www.speedcheck.org/) - Speed Test
 * [Meter](https://www.meter.net/) - Speed Test
@@ -64,7 +63,6 @@
 * [LessPass](https://lesspass.com/)
 * [Buttercup](https://buttercup.pw/)
 * [Clipperz](https://clipperz.is/)
-* [Crypter](https://github.com/HR/Crypter)
 * [Passman](https://passman.cc/) / [GitHub](https://github.com/nextcloud/passman)
 * [KeeWeb](https://keeweb.info/) / [GitHub](https://github.com/keeweb/keeweb)
 * [Spectre](https://spectre.app/)
@@ -319,7 +317,7 @@
 * ⭐ **[Mumble](https://www.mumble.info/)**, [Jam](https://jam.systems/), [TeaSpeak](https://teaspeak.de/gb/), [TeamSpeak](https://www.teamspeak.com/) / [Warning](https://pastebin.com/479TbKq5), [Zoiper](https://www.zoiper.com/) or [Google Voice](https://voice.google.com/) - Voice Chat 
 * ⭐ **[Hack.chat](https://hack.chat/)**, [Shick](https://shick.me/), [LeapChat](https://www.leapchat.org/), [Yap](https://yap.chat/), [Convene](https://letsconvene.im/), [Stinto](https://stin.to/en) or [tik.io](https://tlk.io/) - Minimal Account Free Chats
 * ⭐ **[Gajim](https://gajim.org/)** or [xabber](https://www.xabber.com/) - XMPP Clients
-* [Pidgin](https://www.pidgin.im/), [Beeper](https://www.beeper.com/), [matterbride](https://github.com/42wim/matterbridge) or [Ferdium](https://ferdium.org/) - Combine Web Apps / Chats
+* [Pidgin](https://www.pidgin.im/), [Beeper](https://www.beeper.com/), [Texts](https://texts.com/) or [Ferdium](https://ferdium.org/) - Combine Web Apps / Chats
 * [Cirlos](https://www.cirlos.net/), [Miranda NG](https://www.miranda-ng.org/en/), [Escargot](https://escargot.chat/) or [WeeChat](https://weechat.org/) - Chat Apps
 * [Twist](https://twist.com/) - Collaboration Chat Manager
 * [Cabal](https://cabal.chat/) - P2P Chat / [GitHub](https://github.com/cabal-club)
