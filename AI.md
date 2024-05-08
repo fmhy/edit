@@ -84,7 +84,6 @@
 * [Figgs](https://www.figgs.ai/) - Roleplaying Chatbots
 * [Dreamshow](https://dreamshow.ai/) - Roleplaying Chatbots
 * [Spicychat.ai](https://spicychat.ai/) - Roleplaying Chatbots
-* [Epigon](https://epigon.ai/) - Roleplaying Chatbots
 * [Sakura](https://www.sakura.fm/) - Roleplaying Chatbots
 * [4thWall AI](https://beta.4wall.ai/) - Roleplaying Chatbots
 * [Faraday](https://faraday.dev/) - Self-Hosted Roleplaying Chatbot
