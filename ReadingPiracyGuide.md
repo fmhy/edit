@@ -411,6 +411,7 @@
 * [Elarc Toon](https://elarctoon.com/)
 * [ZinManga](https://zinmanga.io/)
 * [MangaKomi](https://mangakomi.io/)
+* [Zero Scans](https://zscans.com/)
 * [MangaWeebs](https://mangaweebs.in/)
 * [Manhuafast](https://manhuafast.com/)
 * [Manhwasco](https://manhwasco.net/)
