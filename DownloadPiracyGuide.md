@@ -165,48 +165,25 @@
 
 ## ▷ Freeware Sites
 
-* 🌐 **[Awesome Free Software](https://github.com/johnjago/awesome-free-software)** - Freeware Index
+* 🌐 **[Awesome Open Source](https://awesomeopensource.com/)**, [OpenAlternative](https://openalternative.co/), [Opensource Builders](https://opensource.builders/), [OSSSoftware](https://osssoftware.org/), [Awesome OSS](https://github.com/RunaCapital/awesome-oss-alternatives), [Gadgeteer](https://gadgeteer.co.za/opensourcesoftware/) or [FossHub](https://www.fosshub.com/) - FOSS Indexes
+* 🌐 **[Awesome Free Software](https://github.com/johnjago/awesome-free-software)**, [Windows Ultimate Collection](https://xdaforums.com/t/windows-ultimate-collection-guides.4507867/), [MajorGeeks](https://www.majorgeeks.com/content/page/top_freeware_picks.html) or [TinyApps](https://tinyapps.org/) - Freeware Indexes
 * 🌐 **[Awesome Selfhosted](https://awesome-selfhosted.net/)**, [2](https://gitlab.com/awesome-selfhosted/awesome-selfhosted) or [Selfh.st](https://selfh.st/apps/) - Selfhosted Software Indexes
 * 🌐 **[Awesome Python Applications](https://github.com/mahmoud/awesome-python-applications)** - Python App Index
 * ↪️ **[Git Project Indexes](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_git_projects)**
 * ↪️ **[Software Package Managers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/system-tools#wiki_.25B7_package_managers)**
 * ↪️ **[Alternative Software Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_alternative_software_.2F_app_sites)**
-* ⭐ **[MajorGeeks](https://www.majorgeeks.com/content/page/top_freeware_picks.html)** - Freeware Index
 * ⭐ **[FluentStore](https://github.com/yoshiask/FluentStore)** - Microsoft Store Frontend
 * ⭐ **[store.rg](https://store.rg-adguard.net/)** - Paid Microsoft Store Link Generator / [Guide](https://rentry.co/paidAppsMsStore)
-* [Windows Ultimate Collection](https://xdaforums.com/t/windows-ultimate-collection-guides.4507867/) - Freeware Index
-* [OldVersion](http://www.oldversion.com/) - Old Versions of Software
-* [OlderGeeks](https://oldergeeks.com/) - Freeware Index
-* [Free Software MF](https://whoisdsmith.gitbook.io/free-software-mf) - Freeware Index
-* [Softpedia](https://www.softpedia.com/) - Freeware Index
-* [Realityripple](https://realityripple.com/) - Freeware Index
-* [Software Informer](https://software.informer.com/) - Freeware Index
-* [Awesome Windows](https://github.com/Awesome-Windows/Awesome) - Freeware Index
-* [SourceForge](https://sourceforge.net/)- FOSS Index
-* [FossHub](https://www.fosshub.com/) - FOSS Index
-* [Fossies](https://fossies.org/all.html) - FOSS Index
-* [Free Software Directory](https://directory.fsf.org/wiki/Main_Page) - FOSS Index
-* [FOSS Wiki](https://en.wikipedia.org/wiki/Portal:Free_and_open-source_software/Categories) - FOSS Index
-* [OSSSoftware](https://osssoftware.org/) - FOSS Index
-* [Awesome Open Source](https://awesomeopensource.com/) - FOSS Index
-* [Open-Source Alternatives](https://github.com/btw-so/open-source-alternatives) - FOSS Index
-* [OpenAlternative](https://openalternative.co/) - FOSS Index
-* [Opensource Builders](https://opensource.builders/) - FOSS Index
-* [Gadgeteer](https://gadgeteer.co.za/opensourcesoftware/) - FOSS Index
-* [LO4D](https://www.lo4d.com/) - Freeware Index
-* [FilePuma](https://www.filepuma.com/) - Freeware Index
-* [GRC](https://www.grc.com/freepopular.htm) - Freeware Index
-* [TinyApps](https://tinyapps.org/) - Freeware Index
-* [Phrozen](https://www.phrozen.io/) - Freeware Index
-* [FileEagle](https://www.fileeagle.com/) - Freeware Index
-* [PortableApps.com](https://portableapps.com/) - Portable Apps
-* [Portapps](https://portapps.io/) - Portable Apps
-* [PortableAppZ](https://portableappz.blogspot.com/) - Portable Apps
-* [Uwe Sieber's Homepage](https://www.uwe-sieber.de/english.html)
+* [SourceForge](https://sourceforge.net/)- FOSS Repositories
+* [Fossies](https://fossies.org/all.html) - FOSS Archive
+* [Free Software Directory](https://directory.fsf.org/wiki/Main_Page) or [FOSS Wiki](https://en.wikipedia.org/wiki/Portal:Free_and_open-source_software/Categories) - FOSS Wikis
+* [Softpedia](https://www.softpedia.com/), [Realityripple](https://realityripple.com/), [OlderGeeks](https://oldergeeks.com/), [FilePuma](https://www.filepuma.com/), [FileEagle](https://www.fileeagle.com/), [LO4D](https://www.lo4d.com/), [GRC](https://www.grc.com/freepopular.htm), [Uwe Sieber's Homepage](https://www.uwe-sieber.de/english.html) or [Software Informer](https://software.informer.com/) - Freeware
+* [PortableApps.com](https://portableapps.com/), [Portapps](https://portapps.io/) or [PortableAppZ](https://portableappz.blogspot.com/) - Portable Apps
 * [Nirsoft](https://www.nirsoft.net/), [Windows-Utilities](https://orga.cat/windows-utilities), [OS Vault](https://osvault.weebly.com/directory.html) or [WinTools](https://www.wintools.info/) - Windows Software
 * [UWP Community](https://uwpcommunity.com/) - Universal Windows Programs / [Discord](https://discord.gg/eBHZSKG)
 * [RaymondFreeSoftware](https://t.me/raymondfreesoftware) - Telegram
 * [Suckless](https://suckless.org/) - Simple Software Archive
+* [OldVersion](http://www.oldversion.com/) - Old Versions of Software
 * [WinWorldPC](https://winworldpc.com/) - Abandonware / Operating Systems
 * [VETUSWARE](https://vetusware.com/) - Abandonware / Operating Systems / Games
 * [MS-DOS Index](http://www.lanet.lv/simtel.net/msdos/index-msdos.html) - MS-DOS Software
@@ -307,7 +284,7 @@
 * [Multi-OCH Helper](https://greasyfork.org/en/scripts/13884-multi-och-helper) - Send Premium Files to Leeches / 2 Hosts Only
 * [RapidGrab](https://rapidgrab.pl/) or [Newscon](https://www.newscon.net/d1/) / [2](https://www.newscon.org/d3/) - Leech
 * [Real-Debrid](https://real-debrid.com/) - Paid Debrid service / [Torrent Client](https://github.com/rogerfar/rdt-client) / [Movies / TV](https://hdencode.org/)
-* [Debrid-Link](https://debrid-link.com) - Debrid w/ Free Tier
+* [Debrid-Link](https://debrid-link.com) - Debrid with Free Tier
 * [AllDebrid](https://alldebrid.com/) - Paid Debrid service with seven day trial
 * [Debrid Media Manager](https://debridmediamanager.com/) - Manage / Stream / Download RD Files
 
