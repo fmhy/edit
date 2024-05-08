@@ -4,478 +4,731 @@
 ***
 ***
 
-# ► System Tools
+# ► Social Media Tools
 
-* 🌐 **[Awesome Windows 11](https://github.com/awesome-windows11/windows11)** - Windows 11 Resources
-* 🌐 **[PC-Optimization-Hub](https://github.com/BoringBoredom/PC-Optimization-Hub)** or [All About Windows](https://github.com/luke-beep/all-about-windows) - System Optimization Resources
-* ↪️ **[Gaming Optimization](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/games#wiki_.25B7_optimization_tools)**
-* ⭐ **[PowerToys](https://learn.microsoft.com/en-us/windows/powertoys/)**, [Sysinternals](https://learn.microsoft.com/en-us/sysinternals/) / [Suite](https://apps.microsoft.com/store/detail/sysinternals-suite/9P7KNL5RWT25) or [JaxCore](https://jaxcore.app/) - System Tools
-* ⭐ **[CPU-Z](https://www.cpuid.com/softwares/cpu-z.html)**, [winfetch](https://github.com/lptstr/winfetch) or [GPU-Z](https://www.techpowerup.com/download/techpowerup-gpu-z/) - System Information Tools
-* ⭐ **[SuperF4](https://stefansundin.github.io/superf4/)** or [FKill](https://github.com/sindresorhus/fkill-cli) - Process Killers
-* ⭐ **[AutoHotkey](https://www.autohotkey.com/)** / [Discord](https://discord.com/invite/Aat7KHmG7v), [AutoIt](https://www.autoitscript.com/) / [Resources](https://github.com/J2TEAM/awesome-AutoIt), [Power Automate](https://learn.microsoft.com/en-us/power-automate/desktop-flows/install), [sikulix](http://sikulix.com/) or [ChoEazyCopy](https://github.com/Cinchoo/ChoEazyCopy) - Task Automation
-* ⭐ **AutoHotkey Tools** - [Script Gen](https://www.ahkgen.com/) / [Resources](https://github.com/ahkscript/awesome-AutoHotkey)
-* [Windows-11-Guide](https://github.com/mikeroyal/Windows-11-Guide), [Pastas](https://rentry.org/pastas#guides), [Eleven Forums Guides](https://www.elevenforum.com/tutorials/) or [Ten Forums Guides](https://www.tenforums.com/tutorials/) - Windows Guides
-* [Autoruns](https://learn.microsoft.com/en-us/sysinternals/downloads/autoruns) - Change Startup Programs
-* [NanaRun](https://github.com/M2Team/NanaRun) - System Admin Tools
-* [PolicyPlus](https://github.com/Fleex255/PolicyPlus) - Local Group Policy Editor
-* [PowerPlanSwitcher](https://www.microsoft.com/en-us/p/powerplanswitcher/9nblggh556l3) - Quickly Change Power Schemes
-* [Scheduler](https://www.splinterware.com/products/scheduler.html) or [TaskRunner](https://www.keyefficiency.com/) - System Task Scheduler
-* [Process Explorer](https://learn.microsoft.com/en-us/sysinternals/downloads/process-explorer) or [System Informer](https://systeminformer.sourceforge.io/) - Process Monitors
-* [RegExp](https://github.com/zodiacon/TotalRegistry), [ripgrep-all](https://github.com/phiresky/ripgrep-all) or [Registry-Finder](https://registry-finder.com/) - Registry Explorers
-* [WinbIndex](https://winbindex.m417z.com/) - Windows System Files / Binaries
-* [OfflineInsiderEnroll](https://github.com/abbodi1406/offlineinsiderenroll) - Enable Windows Insider without Account
-* [OpenHab](https://www.openhab.org/) - Home Automation / [Setup](https://github.com/openhab/openhabian) / [Mobile](https://github.com/openhab/openhab-android)
-* [Google Assistant Desktop Client](https://github.com/Melvin-Abraham/Google-Assistant-Unofficial-Desktop-Client) or [Home Assistant](https://www.home-assistant.io/) - Home Assistant Client / [GUI](https://github.com/LAB02-Research/HASS.Agent)
-* [hOn](https://github.com/Andre0512/hOn) - Home Assistant Integration for Appliances
-* [CasaOS](https://casaos.io/) - Cloud Home System / [GitHub](https://github.com/IceWhaleTech/CasaOS)
-* [Leon](https://getleon.ai/) - AI Assistant
-* [Rhasspy](https://rhasspy.readthedocs.io/en/latest/) - Voice Assistant
-* [Time.is](https://time.is/) - Check Accuracy of System Clock
+* [Social-Searcher](https://www.social-searcher.com/), [WeVerify](https://cse.google.com/cse?cx=006976128084956795641:ad1xj14zfap), [Social Media CSE](https://cse.google.com/cse?cx=73dda67fd05b4405f#gsc.tab=1&gsc.sort=) or [Social Mention](https://www.socialmention.com/) - Social Media Search Engine
+* [Social Media Hacker List](https://github.com/MobileFirstLLC/social-media-hacker-list) - Social Media Apps / Tools
+* [SocialBlade](https://socialblade.com/) - Social Media Stats
+* [LiveCounts](https://livecounts.io/) - Live Social Media Stats
+* [ExportComments](https://exportcomments.com/) - Export Social Media Comments 
+* [socid_extractor](https://github.com/soxoj/socid-extractor) - Extract Social Media User Info from Pages
+* [tumblr-utils](https://github.com/bbolli/tumblr-utils) - Tumblr Utilities
+* [Tumblr Savior](https://bjornstar.com/tumblr-savior) - Tumblr Dashboard Filter
+* [TumblrOriginalPostFinder](https://jetblackcode.com/TumblrOriginalPostFinder) - Tumblr  Post Finder
+* [Pillowfort](https://www.pillowfort.social/) - Tumblr Alternative
 
 ***
 
-## ▷ System Debloating
+# ► Discord Tools
 
-**Warning** - It's not recommended to use debloaters unless you know what you're doing. Always research first, never just "Apply All" randomly.
-
-***
-
-* ⭐ **[Debloat Guide](https://rentry.co/debloatguide)** - Windows Debloat Guide
-* ⭐ **[Bulk Crap Uninstaller](https://www.bcuninstaller.com/)** - Bulk Uninstallation Tool
-* ⭐ **[BleachBit](https://www.bleachbit.org/)** - Clean System Storage
-* ⭐ **[SophiApp](https://github.com/Sophia-Community/SophiApp)** / [Script](https://github.com/farag2/Sophia-Script-for-Windows) - Debloater
-* [GhostBuster](https://bitbucket.org/wvd-vegt/ghostbuster/src/master/) or [Device Cleanup Tool](https://www.majorgeeks.com/files/details/device_cleanup_tool.html) - Remove Non-Present Devices
-* [Win11Debloat](https://github.com/Raphire/Win11Debloat) - Debloater
-* [Should I Remove It?](https://www.shouldiremoveit.com/) - Program Removal Guide
-* [Adobe Debloater](https://github.com/FlickyOs/Adobe-Debloater) - Debloat Adobe Apps
+**Warning** - Misuse of chat archivers, deleters, mods & third-party clients is against Discords TOS, so use them at your own risk. 
 
 ***
 
-## ▷ System Tweaks
-
-* ⭐ **[EverythingToolbar](https://github.com/srwi/EverythingToolbar)** or [yasb](https://github.com/da-rth/yasb) - Improved Taskbars
-* ⭐ **[Open Shell](https://open-shell.github.io/Open-Shell-Menu/)** or [ValliStart](https://github.com/Jax-Core/ValliStart) - Improved Start Menus
-* ⭐ **[EarTrumpet](https://eartrumpet.app/)**, [Volumey](https://github.com/G-Stas/Volumey) or [Volume2](https://github.com/irzyxa/Volume2) - Improved Volume Mixer
-* [Couleur Tweak Tips](https://discord.gg/CTT) - Windows Tweaking Guides
-* [MajorGeeks Windows Tweaks](https://www.majorgeeks.com/files/details/majorgeeks_registry_tweaks.html), [Winaero](https://winaero.com/), [QuickBoost](https://github.com/SanGraphic/QuickBoost) or [Windhawk](https://windhawk.net/) - System Tweaking Tools / **[Warning](https://pastebin.com/vMYCiAGE)**
-* [abbodi1406](https://forums.mydigitallife.net/threads/abbodi1406s-batch-scripts-repo.74197/), [BatUtil](https://github.com/abbodi1406/BatUtil) or [TechNet-Gallery](https://github.com/MScholtes/TechNet-Gallery) - System Scripts
-* [Win10 Widgets](https://win10widgets.com/) or [Eww](https://github.com/elkowar/eww) - Widgets for Windows
-* [Wintoys](https://apps.microsoft.com/store/detail/wintoys/9P8LTPGCBZXD) - Improved Control Panels
-* [Hunt and Peck](https://github.com/zsims/hunt-and-peck/) or [Cerebro App](https://cerebroapp.com/) - Improved System Navigation
-* [SmartSystemMenu](https://github.com/AlexanderPro/SmartSystemMenu) - Improved System Menu
-* [EasyContextMenu](https://www.sordum.org/7615/easy-context-menu-v1-6/) or [Nilesoft Shell](https://nilesoft.org/) - Improved Context Menus
-* [ContextMenuManager](https://github.com/BluePointLilac/ContextMenuManager/blob/master/README-en.md) - Customize Context Menu
-* [RCWM](https://github.com/GChuf/RCWM) - Context Menu Tools
-* [Spencer](https://www.the-sz.com/products/spencer/) or [Fluent-Metro](https://github.com/bonzibudd/Fluent-Metro) - Classic Start Menu
-* [Taskbar Tweaker](https://ramensoftware.com/7-taskbar-tweaker) - Taskbar Advanced Features
-* [ButteryTaskbar](https://github.com/LuisThiamNye/ButteryTaskbar2) - Hide Taskbar When Start Menu is Closed
-* [Taskbar Hide](https://www.eusing.com/hidewindows/bosskey.htm) - Easily Hide / Show Taskbar
-* [minimize-to-tray](https://sourceforge.net/projects/minimize-to-tray/) - Minimize Windows to Tray
-* [QuickLook](https://github.com/QL-Win/QuickLook) - macOS Quick Look for Windows
-* [BurntToast](https://github.com/Windos/BurntToast) - Create and display Toast Notifications
-* [WinMute](https://github.com/lx-s/WinMute/) - Automatically Mute PC
-
-***
-
-## ▷ Package Managers
-
-* ⭐ **[Scoop](https://scoop.sh/)**
-* ⭐ **[Ninite](https://ninite.com/)**
-* ⭐ **[UniGetUI](https://github.com/marticliment/WingetUI)** or [winget-cli](https://github.com/microsoft/winget-cli)
-* ⭐ **WinGet Tools** - [Tools](https://github.com/jdhitsolutions/WingetTools)  / [Packages](https://github.com/microsoft/winget-pkgs), [2](https://winget.run/) / [Automation](https://github.com/topgrade-rs/topgrade) / [Pac-Man](https://github.com/rami3l/pacaptr)
-* [NirLauncher](https://launcher.nirsoft.net/)
-* [Chocolatey](https://chocolatey.org/) / [GUI](https://github.com/chocolatey/ChocolateyGUI)
-* [Spinel](https://spinel.ovh/) - Multi-Program Install Script Generator 
-* [Silent Install](https://www.silentinstall.org/) - Build Multi-Program Installers
-* [Patch My PC](https://patchmypc.com/home-updater)
-* [WinInstall](https://winstall.app/)
-* [RuckZuck](https://ruckzuck.tools/)
-* [0Install](https://0install.net/)
-* [portableapps](https://portableapps.com/download)
-* [Baulk](https://github.com/baulk/baulk)
+* 🌐 **[DiscordTools](https://discordtools.io/)** or [Awesome Discord](https://github.com/jacc/awesome-discord) - Discord Tools Indexes
+* ⭐ **[x266.mov](https://x266.mov/discord-embed)**, [embeds.video](https://embeds.video/), [Stolen Shoes](https://stolen.shoes/), [autocompressor](https://autocompressor.net/) or [Discord Embedder](https://discord.nfp.is/) - Embed Videos on Discord
+* ⭐ **[Revolt](https://revolt.chat/)** / [Bots](https://rvlt.gg/discover/bots) / [Resources](https://github.com/insertish/awesome-revolt) / [Divolt Resources](https://github.com/ggtylerr/awesome-divolt) or **[Guilded](https://www.guilded.gg/)** / [Mod](https://github.com/ReGuilded/ReGuilded/) - Discord Alternatives
+* [Multi-Accounts 1 Email](https://generator.email/blog/gmail-generator) - Create Multi Accounts with One Email / [Guide](https://rentry.co/altmethod)
+* [AnswersOverflow](https://www.answeroverflow.com/) - Discord Search Engine
+* [DiscordFS](https://github.com/dhrumilp15/haystackfs) - Discord File Search
+* [Discord Downloader Go](https://github.com/get-got/discord-downloader-go) - Discord File Downloader
+* [Toolscord](https://toolscord.com/) - Download Discord Avatars
+* [Disbox](https://disboxapp.github.io/web/) - Discord Cloud Storage
+* [Discord Chat Exporter](https://github.com/Tyrrrz/DiscordChatExporter) / [Python](https://github.com/mahtoid/DiscordChatExporterPy) or [Discord History Tracker](https://dht.chylex.com/) / [GitHub](https://github.com/chylex/Discord-History-Tracker) - Archive / Export Discord Chats
+* [Dumpus](https://dumpus.app/) - Discord Data Package Explorer
+* [Discord Backup](https://github.com/itschasa/Discord-Backup) - Backup / Restore Discord Accounts
+* [Wumpus Central](https://discord.gg/wumpus-central-1087801778365546556) - Discord Experimental Server Hub
+* [SimpleDiscordCrypt](https://gitlab.com/An0/SimpleDiscordCrypt) - Discord Message Encryption
+* [Undiscord](https://victornpb.github.io/undiscord/) - Delete Discord Messages / [Warning](https://i.ibb.co/pdg4hRr/0b0d78219f05.png)
+* [Permissions Calculator](https://discordapi.com/permissions.html) - Generate Discord OAuth Invites
+* [dsc.gg](https://dsc.gg/) - Create Custom Discord Invites
+* [Discord Previews](https://discord.gg/QMw7gQGMHj) - New Discord Builds / Changes
+* [instaparty](https://instaparty.gg/) - Temporary Discord Servers
+* [Discord Templates](https://discordtemplates.me/) - Discord Server Templates
+* [Discord UI Mockup](https://www.figma.com/community/file/994323951589690341/Discord-Desktop-UI) - Discord UI Mockups
+* [discord-badges](https://github.com/mezotv/discord-badges) - Discord Badges Image Files
+* [DisblockOrigin](https://gist.github.com/TheSunCat/58fedaa19d6154ef3e4b2b676c286906) or [Discord Adblock](https://github.com/CroissantDuNord/discord-adblock) - Hide Nitro / Boost Upsells
+* [Discord Creation Date Check](https://github.com/hugonun/discordid2date) - Check Creation Date of User / Channel / Server
+* [Discord Lookup](https://discord.id/) - Look up a Discord User or Bot ID
+* [Guild Counter](https://rauf.wtf/guildcount) - Check How Many Servers You're In
+* [Discord Dev Badges](https://pastebin.com/JzrckCix), [active-developer-badge](https://github.com/hackermondev/discord-active-developer-badge) or [GiveMeBadge](https://github.com/AlexFlipnote/GiveMeBadge) - Unlock Discord Dev Badges / [Script](https://gist.github.com/Raraph84/cff3ff908a1f2692b9a8452d2f49c2bf)
+* [Discord-Api](https://discord.gg/discord-api) - Discord API Chat
+* [Discord-Datamining](https://github.com/Discord-Datamining/Discord-Datamining) - Discord Datamining via JS Files
+* [Discord TTS Bot](https://docs.moonstar-x.dev/discord-tts-bot/) - Text to Speech for Discord
+* [Discord Webhooks Guide](https://birdie0.github.io/discord-webhooks-guide/) - Webhooks Guide
+* [Webhooker](https://xdfnleaks.github.io/webhooker/) - Simple Webhooks App
+* [Embed Visualizer](https://embed.discord.website/) - Preview Embeds
+* [FixTweet](https://github.com/FixTweet/FixTweet) - Fix Twitter Embeds
+* [InstaFix](https://ddinstagram.com/) - Fix Instagram Embeds
+* [8mbvideo](https://8mb.video/) or [@Snooober's Script](https://redd.it/o7vqm4) - Encode Videos to <8MB
+* [Hammertime](https://hammertime.cyou/), [Dank.tools](https://dank.tools/), [Timestamp Maker](https://pokemonworkshop.neocities.org/timestamp/), [discord-timestamps](https://r.3v.fi/discord-timestamps/) or [discordtimestampgenerator](https://discordtimestampgenerator.netlify.app/) - Generate Timestamps
+* [TagMap](https://tagmap.io/) - Meet People with Similar Interests
 
 ***
 
-## ▷ Terminal / CLI
+## ▷ Discord Clients
 
-* 🌐 **[terminals-are-sexy](https://terminalsare.sexy/)** - Terminal Resources
-* 🌐 **[Awesome CLI Apps](https://github.com/agarrharr/awesome-cli-apps)** or [Command Line Tools](https://github.com/learn-anything/command-line-tools) - Command Line Resources
-* ⭐ **[Clink](https://github.com/chrisant996/clink)** - Command Line Editing
-* ⭐ **[ss64](https://ss64.com/)** - Command Line Reference Index
-* [Windows Terminal](https://www.microsoft.com/store/productId/9N0DX20HK701) / [2](https://github.com/microsoft/terminal/), [kitty](https://sw.kovidgoyal.net/kitty/), [Tess](https://github.com/SquitchYT/Tess), [ConEmu](https://github.com/Maximus5/ConEmu), [Hyper](https://hyper.is/), [Terminus](https://eugeny.github.io/terminus/), [console 2](https://github.com/cbucher/console), [Tabby](https://tabby.sh/) or [MobaXterm](https://mobaxterm.mobatek.net/) - Windows Terminals
-* [BusyBox](https://frippery.org/busybox/) - Unix Commands for Windows
-* [Tiny Care Terminal](https://github.com/notwaldorf/tiny-care-terminal) - Terminal Dashboard That Cares
-* [Gradient Terminal](https://github.com/aurora-0025/gradient-terminal) - Display Terminal Output as Gradient
-* [Command Challenge](https://cmdchallenge.com/) - Command Line Learning
-* [Alacritty](https://github.com/alacritty/alacritty), [Fluent Terminal](https://github.com/felixse/FluentTerminal), [Tabby](https://eugeny.github.io/tabby/), [Wives](https://github.com/KRTirtho/wives), [ExtraTerm](https://extraterm.org/) or [Terminus](https://github.com/Eugeny/tabby) - Terminal Emulators
-* [Mintty](https://mintty.github.io/) - Cygwin Terminal Emulator 
-* [GetDNote](https://www.getdnote.com/) - Command Line Notebook
-* [cmder](https://cmder.app) - Console Emulator Package / [GitHub](https://github.com/cmderdev/cmder)
-* [PowerShell](https://github.com/powershell/powershell) - PC / Mac / Linux PowerShell
-* [Write-Menu](https://github.com/QuietusPlus/Write-Menu) or [ps-menu](https://github.com/chrisseroka/ps-menu) - PowerShell Console Menu
-* [LeanandMean](https://github.com/AveYo/LeanAndMean) - Powershell Snippets / Use with Caution
-* [PowerShell Scripts](https://github.com/fleschutz/PowerShell) - PowerShell Scripts
-* [PSReadLine](https://github.com/PowerShell/PSReadLine) - PowerShell Readline Implementation
-* [SystemNightware](https://github.com/GossiTheDog/SystemNightmare) - Instant System Command Prompt
-* [Starship](https://starship.rs/) - Cross-Shell Prompt
-* [GNU Parallel](https://www.gnu.org/software/parallel/) - Execute Commands / Scripts in Parallel using Multiple Computers
-* [Nushell](https://www.nushell.sh/) - Alt Shell
-* [GSudo](https://github.com/gerardog/gsudo) - Sudo Alternative for Windows
+* 🌐 **[Discord3rdParties](https://github.com/Discord-Client-Encyclopedia-Management/Discord3rdparties)** - Discord Clients Index
+* ⭐ **[Vencord](https://vencord.dev/)** - Discord Client Mod / [Github](https://github.com/Vendicated/Vencord) / [Desktop Client](https://github.com/Vencord/Vesktop)
+* ⭐ **[BetterDiscord](https://betterdiscord.app/)** - Discord Client Mod / [GitHub](https://github.com/BetterDiscord/BetterDiscord)
+* ⭐ **BetterDiscord Tools** - [Plugins](https://betterdiscord.app/plugins) / [Banned Plugins](https://rentry.co/BDBannedPlugins), [2](https://github.com/mov-ebx/BannedBetterDiscordPlugins) / [Support](https://discord.gg/0Tmfo5ZbORCRqbAd) / [Nitro](https://github.com/riolubruh/YABDP4Nitro) / [Re-install Guide](https://gist.github.com/Knewest/ee59d3960e18e6d813c9221b54b36ab1)
+* ⭐ **[OpenAsar](https://openasar.dev/)** - Improved Discord Desktop's app.asar / [GitHub](https://github.com/GooseMod/OpenAsar)
+* ⭐ **[WebCord](https://github.com/SpacingBat3/WebCord)** - Privacy-Hardened Client / [Discord](https://discord.gg/Vm4CwZx)
+* [ArmCord](https://github.com/ArmCord/ArmCord) or [abaddon](https://github.com/uowuo/abaddon) - Lightweight Discord Clients
+* [Discordo](https://github.com/ayn2op/discordo) - Discord Terminal Client
+* [Unicord](https://github.com/UnicordDev/Unicord) - Discord Client for Windows / [Discord](https://discord.gg/64g7M5Y) 
+* [Spacebar](https://github.com/spacebarchat/spacebarchat) - Self-hostable Discord Client
+* [discord-PWA](https://github.com/NeverDecaf/discord-PWA) - Discord PWA Client
+* [Dorion](https://github.com/SpikeHD/Dorion) - Lightweight Discord Client
+* [Dissent](https://github.com/diamondburned/dissent) - GTK4 Discord Client
+* [Discord Portable](https://portapps.io/app/discord-portable/) / [PTB PortApps](https://portapps.io/app/discord-ptb-portable/) - Portable Discord Stable
+* [litecord](https://gitlab.com/litecord/litecord) - Reimplementation of Discord's Backend / [Clients](https://gitlab.com/litecord/litecord/-/blob/master/docs/clients.md)
 
 ***
 
-## ▷  Remote Desktop
+## ▷ Client Customization
 
-* ⭐ **[RustDesk](https://rustdesk.com/)** / [GitHub](https://github.com/rustdesk/rustdesk)
-* ⭐ **[Parsec](https://parsec.app/)**
-* [Ammyy](https://www.ammyy.com/en/)
-* [FreeRDP](https://www.freerdp.com/)
-* [Remotly](https://remotly.com/) 
-* [Myrtille](https://cedrozor.github.io/myrtille/)
-* [Aspia](https://aspia.org/)
-* [ChromeRemoteDesktop](https://remotedesktop.google.com/)
-* [TightVNC](https://www.tightvnc.com/)
-* [remoteutilities](https://www.remoteutilities.com/)
-* [p2p](https://github.com/miroslavpejic85/p2p)
-* [UVNC](https://uvnc.com/)
-* [ChimeraDesk](https://github.com/morrolinux/ChimeraDesk)
-* [NoMachine](https://www.nomachine.com/)
-* [PowerRemoteDesktop](https://github.com/PhrozenIO/PowerRemoteDesktop)
-* [Screego](https://app.screego.net/) / [GitHub](https://github.com/screego/server/)
-* [Screensy](https://screensy.marijn.it/) / [GitHub](https://github.com/screensy/screensy)
-* [here.fm](https://here.fm/)
-* [HopToDesk](https://www.hoptodesk.com/)
-* [CoScreen](https://www.coscreen.co/)
-* [TigerVNC](https://tigervnc.org/) - VNC
-* [noVNC](https://novnc.com/info.html) - JavaScript VNC
-* [InputDirector](https://www.inputdirector.com/) - Multi-Computer
-* [Barrier](https://github.com/debauchee/barrier) - Multi-Computer
-* [Mouse Without Borders](https://www.microsoft.com/en-us/garage/wall-of-fame/mouse-without-borders/) - Multi-Computer
-* [Nebula](https://github.com/slackhq/nebula) - Multi-Computer
-
-***
-
-## ▷ Clipboard Managers
-
-* ⭐ **[Ditto](https://ditto-cp.sourceforge.io/)**
-* [ArsClip](https://www.joejoesoft.com/vcms/97/)
-* [CopyQ](https://hluk.github.io/CopyQ/)
-* [ClipAngel](https://sourceforge.net/projects/clip-angel/)
-* [XClipper](https://kaustubhpatange.github.io/XClipper/)
-* [MultiClipBoardSlots](https://www.softwareok.com/?seite=Microsoft/MultiClipBoardSlots)
-* [Xtra Clipboard](https://xtra-clipboard.com/)
-* [Control V](https://ctrl.vi/)
+* 🌐 **[Client Themes](https://betterdiscord.app/themes)** - Client Theme Index
+* ⭐ **[Discohook](https://discohook.org/)** / [Discohook Utils](https://dutils.shay.cat/) or [Embed Generator](https://message.style/) - Embed Generators
+* ⭐ **[CustomRP](https://www.customrp.xyz/)** - Customizable Rich Presence
+* [BD Editor](https://bdeditor.dev/) - Client Theme Editor
+* [ChromaDiscordApp](https://github.com/tgraupmann/ChromaDiscordApp) - Chroma Light for Discord
+* [Overlayed](https://overlayed.dev/) - Alternative Discord VC Overlay / [GitHub](https://github.com/Hacksore/overlayed)
+* [BeautifulDiscord](https://github.com/leovoel/BeautifulDiscord) - Custom CSS Support 
+* [ansi-colors-discord.md](https://gist.github.com/kkrypt0nn/a02506f3712ff2d1c8ca7c9e0aed7c06) - Discord ANSI Text Guide
+* [Coloured-Text-Generator](https://rebane2001.com/discord-colored-text-generator/) - Discord ANSI Text Generator
+* [Auto Creative](https://auto.creavite.co/icons) - Animated Icon / Banner Generator
+* [Discord Avatar Maker](https://discord-avatar-maker.app/) - Make Discord Avatars
+* [Better Default Discord](https://better-default-discord.netlify.app/) - Improved Default Discord Avatars
+* [Pfps.gg](https://pfps.gg/) - Find Discord Avatars
+* [usrbg](https://github.com/Discord-Custom-Covers/usrbg) - Custom Discord Profile Backgrounds
+* [Disgradient](https://disgradient.netlify.app/) - Discord Folder / Role Color Gradients
+* [ImageClipboard](https://imageclipboard.com/), [Slackmoji](https://github.com/seanprashad/slackmoji) or [emoji.gg](https://emoji.gg/)- Free Discord Nitro Emojis
+* [Snowsgiving Icons & Emotes](https://web.archive.org/web/20230729100139/https://cdn.discordapp.com/attachments/689605845058715801/862281806820278292/Snow.zip) - Snowsgiving Event Icons / Emojis
+* [6gk Turtles](https://github.com/6gk/turtles) - Discord Turtle Emojis
+* [Discord Text to Emoji](https://jtprince.com/discord/) - Convert Text to Discord Emojis
+* [Stickers.gg](https://stickers.gg) - Free Discord Stickers
+* [PreMiD](https://premid.app/) - Display Web Activity in Discord Status / [GitHub](https://github.com/PreMiD/PreMiD) / [Discord](https://discord.premid.app/)
+* [AMWin-RP](https://github.com/PKBeam/AMWin-RP) - Apple Music Rich Presence
+* [Foo Discord](https://github.com/s0hv/foo_discord_rich) - Foobar Rich Presence 
+* [Adobe Discord RPC](https://github.com/teeteeteeteetee/adobe-discord-rpc) - Adobe Rich Presence
+* [PS3 Rich](https://github.com/zorua98741/PS3-Rich-Presence-for-Discord) - PS3 Rich Presence
+* [discord-vscode](https://marketplace.visualstudio.com/items?itemName=icrawl.discord-vscode) - VSCode Rich Presence / [GitHub](https://github.com/iCrawl/discord-vscode)
 
 ***
 
-## ▷ Window Managers
+## ▷ Discord Bots
 
-* ⭐ **[GlazeWM](https://github.com/glzr-io/glazewm)**
-* ⭐ **[Komorebi](https://github.com/LGUG2Z/komorebi)**
-* ⭐ **[WorkSpacer](https://workspacer.org/)**
-* [Whim](https://github.com/dalyIsaac/Whim/)
-* [MiguruWM](https://github.com/imawizard/MiguruWM)
-* [DWM](https://github.com/prabirshrestha/dwm-win32)
-* [United Sets](https://github.com/Windows-Apps-Hub/UnitedSets) - Group Windows Into Tabs
-* [AltSnap](https://github.com/RamonUnch/AltSnap) - Improved Windows Dragging
-
-***
-
-## ▷ Virtual Machines
-
-* ⭐ **[VirtualBox](https://www.virtualbox.org/)** / [Portable](https://www.vbox.me/), [Looking Glass](https://looking-glass.io/), [Qemu](https://gitlab.com/qemu-project/qemu), [Hyper-V](https://learn.microsoft.com/en-us/virtualization/hyper-v-on-windows/), [fvwm](https://www.fvwm.org/) or [Denodo Test](https://community.denodo.com/test-drives/) - Virtual Machines / [Preinstalled VMS](https://www.osboxes.org/)
-* ⭐ **[Hackintosh](https://hackintosh.com/)**, [Emaculation](https://www.emaculation.com/), [felixrieseberg](https://github.com/felixrieseberg/macintosh.js/) or [OneClick-macOS](https://github.com/notAperson535/OneClick-macOS-Simple-KVM) - macOS Virtual Machines
-* ⭐ **Hackintosh Tools** - [Guide](https://www.tonymacx86.com/) / [AMD Guide](https://chefkissinc.github.io/guide) / [Ryzen](https://github.com/mikigal/ryzen-hackintosh) / [XiaoMi](https://github.com/daliansky/XiaoMi-Pro-Hackintosh)
-* [Virt-Manager](https://virt-manager.org/) or [Vagrantup](https://www.vagrantup.com/) - Virtual Machine Managers
-* [CollabVM](https://computernewb.com/collab-vm/) - Online Virtual Machines
-* [Virtual PC](https://www.microsoft.com/en-us/download/details.aspx?id=3243) - Windows XP Virtual Machine
-* [windows95](https://github.com/felixrieseberg/windows95) - Windows 95 in Electron
-* [QuickEmu](https://github.com/quickemu-project/quickemu) or [Dexpot](https://www.dexpot.de/) - Virtual Machine Creator
-* [winevdm](https://github.com/otya128/winevdm) - 16-bit Windows on 64-bit Systems
-* [Blink](https://github.com/jart/blink) - Linux Emulator for Windows
-* [GWSL-Source](https://github.com/Opticos/GWSL-Source) or [GWSL](https://opticos.github.io/gwsl/) - Run Linux Apps on Windows
-* [Dockerholics](https://github.com/petersem/dockerholics) - Docker Apps
-* [WebCatalog](https://webcatalog.io) - Turn Sites into Desktop Apps
+* ⭐ **[FreeStuff Bot](https://freestuffbot.xyz/)** - Free Games Alert Bot
+* [NotQuiteNitro](https://nqn.blue/) - Discord Nitro Alternative
+* [fmbot](https://fmbot.xyz/) - Discord Voice Chat Scrobbling
+* [Chuu](https://github.com/ishwi/Chuu) - Last.fm Discord Bot
+* [Craig](https://craig.chat/) - Voice Channel Recorder Bot / [Backup](https://craig.chat/giarc/)
+* [MonitoRSS](https://monitorss.xyz/) - RSS Discord Bot
+* [Wallabot](https://github.com/FahadBinHussain/wallabot) - Wallabag Discord Bot
+* [Discord Music Bot](https://github.com/SudhanPlayz/Discord-MusicBot), [Music-bot](https://github.com/ZerioDev/Music-bot) / [Discord](https://discord.gg/Kqdn8CHacP), [Chip](https://chipbot.gg/), [MusicBot](https://github.com/jagrosh/MusicBot) or [EvoBot](https://github.com/eritislami/evobot) - Music Bots
+* [Red Discordbot](https://github.com/Cog-Creators/Red-DiscordBot), [Discord-Bot](https://github.com/CorwinDev/Discord-Bot) or [Loritta](https://github.com/LorittaBot/Loritta) - Self-hostable Discord Moderation Bots
+* [Wickbot](https://wickbot.com/) - Discord Security Bot
+* [anti-phishing-bot](https://github.com/Benricheson101/anti-phishing-bot) - Discord Anti Phishing Bot
+* [Automod Config](https://docs.google.com/spreadsheets/d/1pUGVAARMBadmNqQW6cPKhSaT-uYDgQlRBnlQ9TMDXTI/edit#gid=730346323) - Automod Bot Config
+* [Modmail](https://github.com/modmail-dev/modmail) - Discord Modmail Bot
+* [Discord-Linux](https://discord-linux.com/) - Linux Container Bot 
 
 ***
 
-# ► Hardware Tools
+## ▷ Server / Bot Indexes
 
-* ↪️ **[PC Building / Shopping](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25BA_shopping)**
-* ⭐ **[PCPartPicker](https://pcpartpicker.com/)** - Build Calculators
-* ⭐ **[PSU Calculator](https://www.newegg.com/tools/power-supply-calculator/)** or [Power Supply Calculator](https://outervision.com/power-supply-calculator) - Find Compatible Power Supplies
-* [DeviceTests](https://devicetests.com/) - Multiple Device Tests
-* [NotCPUCores](https://github.com/rcmaehl/NotCPUCores), [ParkControl](https://bitsum.com/parkcontrol/), [QuickCPU](https://coderbag.com/product/quickcpu) or [Process Lasso](https://bitsum.com/) - CPU Optimizer
-* [Ozone3D](https://www.ozone3d.net/index_softwares.php) - System Benchmarking
-* [Testmem5](https://www.overclock.net/threads/memory-testing-with-testmem5-tm5-with-custom-configs.1751608/) - Memory Benchmarking
-* [SDIO](https://glenn.delahoy.com/snappy-driver-installer-origin), [Drivers Collection](https://driverscollection.com/), [Driverscape](https://www.driverscape.com/) or [DriverStoreExplorer](https://github.com/lostindark/DriverStoreExplorer) - Update / Install Missing Drivers
-* [PrintFriendly](https://www.printfriendly.com/) - Printer Formatting Tools
-* [VOGONS](https://www.vogons.org/) - Vintage Computer Hardware Forum
-
-***
-
-## ▷ Hardware Monitors
-
-* ⭐ **[HWiNFO](https://www.hwinfo.com/)** - System Info & Monitoring
-* [Scrutiny](https://github.com/AnalogJ/scrutiny), [GSmartControl](https://gsmartcontrol.shaduri.dev/) or [smartmontools](https://www.smartmontools.org/) - Hard Drive Monitors
-* [CoolerControl](https://gitlab.com/coolercontrol/coolercontrol) - Cooling Device Monitor
-* [BatteryMode](https://github.com/tarcode-apps/BatteryMode) - System Tray Battery Percentage / Managers
-* [HWRadar](https://coderbag.com/product/hwradar) - Hardware Monitor
-* [Netdata](https://www.netdata.cloud/) - Cloud-based Monitoring
-* [Open Hardware Monitor](https://openhardwaremonitor.org/) - Portable Hardware Monitor / [GitHub](https://github.com/openhardwaremonitor/openhardwaremonitor)
-* [Libre Hardware Monitor](https://github.com/LibreHardwareMonitor/LibreHardwareMonitor) - Updated Fork of Open Hardware Monitor
-* [Taskbar Stats](https://openhoangnc.github.io/taskbar-stats/) - Display Stats on Windows Taskbar
-* [FanControl](https://getfancontrol.com/) - Control PC Fans / [GitHub](https://github.com/Rem0o/FanControl.Releases)
-* [Sidebar Diagnostics](https://github.com/ArcadeRenegade/SidebarDiagnostics) - Sidebar for Windows Desktop
-* [Traffic Monitor](https://github.com/zhongyang219/TrafficMonitor) - Network & Hardware Monitor
-* [bottom](https://github.com/ClementTsang/bottom) or [Glances](https://nicolargo.github.io/glances/) - Terminal Hardware Monitors
+* 🌐 **[Alternatives to MEE6](https://alternativestomee6.com/)** - MEE6 Alternatives / [Discord](https://discord.gg/WrbMdWHfNd)
+* ↪️ **[Discord ChatGPT Bots](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/ai#wiki_.25B7_chatgpt_tools)**
+* [DISBOARD](https://disboard.org/) - Server / Bot Index
+* [Discord Servers](https://discordservers.com/) - Server / Bot Index
+* [Discadia](https://discadia.com/) - Server / Bot Index
+* [Discords.com](https://discords.com/) - Server / Bot Index
+* [Discord Me](https://discord.me/) - Server / Bot Index
+* [Disforge](https://disforge.com/) - Server / Bot Index
+* [Find a Discord](https://findadiscord.com/) - Server / Bot Index
+* [Open Source Projects](https://discord.com/open-source) - Server / Bot Index
+* [BotBlock](https://botblock.org/) - Bot Index
+* [Top.gg](https://top.gg/) - Bot Index
+* [Bots on Discord](https://bots.ondiscord.xyz/) - Bot Index
+* [Discord Bots](https://discord.bots.gg/) - Bot Index
+* [Top Bots](https://gist.github.com/advaith1/451dcbca2d7c3503d4f48d63eb918cb0) - Bot Index
+* [Infinity Bot List](https://infinitybots.gg/) - Bot Index
+* [Discord Services](https://discordservices.net/) - Bot Index
+* [DiscordBots](https://discordbots.co/) - Bot Index
+* [Discord Bot List](https://discordbotlist.com/) - Bot Index
+* [Carbon Bot List](https://www.carbonitex.net/discord/bots) - Bot Index
+* [Botlist.me](https://botlist.me/) - Bot Index
+* [Void Bots](https://voidbots.net/) - Bot Index
+* [Discord Botlist](https://discord-botlist.eu/) - Bot Index
 
 ***
 
-## ▷ GPU Tools
+# ► Reddit Tools
 
-* ⭐ **[nvtop](https://github.com/Syllo/nvtop)** - GPU / Accelerator Process Monitor
-* ⭐ **[GreenWithEnvy](https://gitlab.com/leinardi/gwe)** - Manage / Control NVIDIA Cards
-* ⭐ **[NVCleanInstall](https://www.techpowerup.com/download/techpowerup-nvcleanstall/)** or [NVSlimmer](https://www.majorgeeks.com/files/details/nvslimmer.html) - NVIDIA Driver Packages
-* [Amernime Zone](https://amernimezone.com/) - 3rd Party AMD Drivers
-* [Vintage3D](https://vintage3d.org/driver.php) - First Gen 3D Drivers
-* [nvidiaProfileInspector](https://github.com/Orbmu2k/nvidiaProfileInspector) - Modify / View Hidden NVIDIA Settings / [Guide](https://youtu.be/XncmeD8khKY)
-* [AMDDebloat](https://rentry.co/AMDDebloat) or [RadeonSoftwareSlimmer](https://github.com/GSDragoon/RadeonSoftwareSlimmer) - Debloat AMD Drivers
-* [SMCAMDProcessor](https://github.com/trulyspinach/SMCAMDProcessor) - AMD Processor Power Management
-* [PresentMon](https://github.com/GameTechDev/PresentMon) - GPU Benchmarking
-* [AutoGpuAffinity](https://github.com/amitxv/AutoGpuAffinity/) - Singe-Core GPU Benchmarking
-* [Easy-GPU-PV](https://github.com/jamesstringerparsec/Easy-GPU-PV) - Easy GPU Paravirtualization
-* [GsyncSwitch](https://github.com/kwizatz88/GsyncSwitch) - Switch G-Sync or HDR on/off
-* [ThrottleStop](https://www.techpowerup.com/download/techpowerup-throttlestop/) - Laptop CPU Monitor / Optimizer
-* [Universal x86 Tuning Utility](https://github.com/JamesCJ60/Universal-x86-Tuning-Utility) - Laptop GPU Controller
-* [AATU](https://amdaputuningutility.com/) or [RyzenAdj](https://github.com/FlyGoat/RyzenAdj) - Ryzen Laptop GPU Controllers
-
-***
-
-## ▷ Disk Tools
-
-* 🌐 **[Awesome Storage](https://github.com/okhosting/awesome-storage)** - File Storage Resources
-* 🌐 **[Awesome DataHoarding](https://github.com/simon987/awesome-datahoarding)** - DataHoarding Resources
-* ⭐ **[WizTree](https://www.diskanalyzer.com/)** - Disk Usage Analyzer
-* ⭐ **[CrystalDiskMark](https://crystalmark.info/en/software/crystaldiskmark/)** or [CCISOBench](https://ccsiobench.com/) - Disk Benchmarking Tools
-* ⭐ **[GParted](https://gparted.org/)**, [Rescuezilla](https://rescuezilla.com/), [CloneZilla](https://clonezilla.org/), [Partition Wizard](https://www.partitionwizard.com/) or [AOMEI](https://www.diskpart.com/) - Partition Managers
-* ⭐ **[Validrive](https://www.grc.com/validrive.htm)** - Check True Storage Size of USB Devices
-* [TrueNAS](https://www.truenas.com/) - Storage System
-* [QDirStat](https://github.com/shundhammer/qdirstat) - Directory Statistics
-* [CrystalDiskInfo](https://crystalmark.info/en/software/crystaldiskinfo/) - S.M.A.R.T. Data Analyzer
-* [WinDirStat](https://windirstat.net/) - Disk Usage Analyzer
-* [Macrorit Partition Expert](https://macrorit.com/partition-magic-manager/partition-expert-download.html) - Disk Usage Analyzer
-* [Gdu](https://github.com/dundee/gdu) - Disk Usage Analyzer
-* [dua](https://lib.rs/crates/dua-cli) - Disk Usage Analyzer
-* [Diskovery](https://diskovery.io/) - Disk Usage Analyzer
-* [DiskInfo](https://github.com/MicaApps/DiskInfo) - Disk Usage Analyzer
-* [Erdtree](https://github.com/solidiquis/erdtree) - Disk Usage Analyzer
-* [PC Manger](https://pcmanager-en.microsoft.com/) or [CleanmgrPlus](https://github.com/builtbybel/CleanmgrPlus) - Disk Managers / Cleanup
-* [Air Live Drive](https://www.airlivedrive.com/en/) - Mount Cloud Drives as Local Disks
-* [SFTPDrive](https://www.nsoftware.com/sftpdrive) - Mount SFTP Servers as Local Disks
+* ⭐ **[Reddit Enhancement Suite](https://redditenhancementsuite.com/)**, [Reddit Fix](https://greasyfork.org/en/scripts/404497-reddit-fix), [Reddit Extension](https://lawrenzo.com/p/reddit-extension), [RedditEnhancer](https://github.com/joelacus/RedditEnhancer) or [RedditMod2](https://greasyfork.org/en/scripts/29724-redditmod2) - Reddit Enhancement Extensions / Scripts
+* ⭐ **[Old Reddit Redirect](https://github.com/tom-james-watson/old-reddit-redirect)** - Redirect New Reddit to Old
+* [Photon](https://photon-reddit.com/), [reditr](https://reditr.com/), [RDX](https://rdx.overdevs.com/) or [redlib](https://github.com/redlib-org/redlib) - Reddit Frontends
+* [Reddit Login Bypass Script](https://pastebin.com/raw/sU5tqwep) - Bypass Reddit Login
+* [Beleave](https://beleave.virock.org/) - Bulk Subreddit Unsub Tool
+* [Reddit Comber](https://redditcomber.com/) or [Sub Notification](https://redd.it/5mz9z5) - Reddit Keyword Notifications
+* [Unreadit](https://app.mailbrew.com/unreadit) - Reddit Newsletters
+* [Reddit Shadow Ban Info](https://redd.it/1btuwel) - Check if You've been Shadowbanned
+* [Reddit Markdown Guide](https://www.reddit.com/wiki/markdown) - Learn Reddit Markdown
+* [Reddit Preview](https://redditpreview.com/) - Preview Reddit Posts
+* [Redirect Privated](https://greasyfork.org/en/scripts/468945) - Redirect Private Pages to Cached Versions
+* [redditpx](https://www.redditpx.com/) or [Redditp](https://redditp.com/) - Reddit Image / Video Slideshows
+* [RedditRaffler](https://www.redditraffler.com/) - Reddit Raffle System
+* [RedditManager](https://redditmanager.com/) or [Saved for Reddit](https://pvik.github.io/saved-for-reddit/) - Reddit Content Managers
+* [PowerDeleteSuite](https://github.com/j0be/PowerDeleteSuite) - Reddit Auto Post Delete
+* [Reddit Emojis](https://greasyfork.org/en/scripts/443011) - Emojis for Old Reddit
+* [Subreddit Tabs](https://greasyfork.org/en/scripts/460086) - Subreddit Icon Tabs
+* [Reddit Comment Highlights](https://github.com/aesy/reddit-comment-highlights) - Highlight New Comments
+* [Pholder](https://pholder.com/) - Article Style Viewer
+* [Load Reddit Images Directly](https://github.com/nopperl/load-reddit-images-directly) / [Chrome](https://github.com/MonsterMannen/reddit-load-images-directly-chrome) - Direct Image Viewer
+* [SocialGrep](https://socialgrep.com/) - Reddit Statistics
+* [When to Post](https://andreasbm.github.io/when-to-post-on-reddit/) - Best Reddit Posting Times
+* [UniversalScammerList](https://www.universalscammerlist.com/) - List of Reddit Scammers
+* [Piracy](https://www.reddit.com/user/nbatman/m/piracy/), [The Piracy Feed](https://www.reddit.com/user/rekuloustoad/m/the_piracy_feed/), [PiracyHub](https://www.reddit.com/user/nanomuto/m/piracyhub/) or [Piracy Counterfeit Goods](https://www.reddit.com/user/goretsky/m/piracy_counterfeit_goods/) - Piracy Multireddits
+* [Piracy Leaks](https://www.reddit.com/user/nbatman/m/leaks/) - Piracy Leaks Multireddit
+* [Streaming](https://www.reddit.com/user/nbatman/m/streaming/) - Streaming Multireddit
 
 ***
 
-## ▷ Monitor Tools
+## ▷ Reddit Downloaders
 
-* ⭐ **[DisplayFusion](https://www.displayfusion.com/)** or [Dual Monitor Tool](https://sourceforge.net/projects/dualmonitortool/) - Dual Monitor Tools
-* ⭐ **[f.lux](https://justgetflux.com/)**, [LightBulb](https://github.com/Tyrrrz/LightBulb), [ScreenTemperature](https://github.com/massaiTHEdog1/ScreenTemperature) or [SunsetScreen](https://www.skytopia.com/software/sunsetscreen/index.htm) - Adjust Display Color / Temperature
-* [Display Driver Uninstaller](https://www.wagnardsoft.com/display-driver-uninstaller-ddu-), [2](https://www.guru3d.com/download/display-driver-uninstaller-download) - Display Driver Removal Tool / [GitHub](https://github.com/Wagnard/display-drivers-uninstaller)
-* [EIZO](https://www.eizo.be/monitor-test/), [Monitor](https://www.monitortests.com/) or [LCDTech](https://lcdtech.info/en/tests/) - Monitor Performance Tests
-* [TestUFO](https://www.testufo.com/) - Monitor Framerate Test
-* [LittleBigMouse](https://github.com/mgth/LittleBigMouse) - DPI Test
-* [Scalizer](https://github.com/wonmor/Scalizer-Windows) - Auto DPI Scaling / [YouTube](https://youtu.be/f_3XWlmyat4)
-* [ICM](https://rentry.co/ICM) or [ICC Profiles](https://tftcentral.co.uk/articles/icc_profiles) - ICC Profiles and Monitor Calibration
-* [Multi-Monitor Calculator](https://multimonitorcalculator.com/) - Dual-Monitor Setup Planning / Tests
-* [Dimmer](https://www.nelsonpires.com/software/dimmer) or [Monitorian](https://github.com/emoacht/Monitorian) - Dual-Monitor Brightness Control
-* [Twinkle Tray](https://twinkletray.com/) - System Tray Brightness Slider
-* [Wide Gamut](https://www.wide-gamut.com/) - Color Compatibility Test
-* [WhiteScreen](https://www.whitescreen.online/) - Screen Color Test
-* [Dead.Pixel](https://lcdtech.info/en/tests/dead.pixel.htm) - Dead Pixel Test
-* [JScreenFix](https://www.jscreenfix.com/) - Repair Stuck Pixels
-* [CenterOfMyScreen](https://centerofmyscreen.com/) - Find Center of Monitor
-* [ShowDesktopOneMonitor](https://github.com/ruzrobert/ShowDesktopOneMonitor) - Show Desktop For Only One Monitor
-* [Deskreen](https://deskreen.com/) or [SpaceDesk](https://www.spacedesk.net/) - Use Mobile Device as Monitor / [GitHub](https://github.com/pavlobu/deskreen)
-* [ShaderGlass](https://github.com/mausimus/ShaderGlass) - Custom Screen Shaders
-* [DaltonLens](https://daltonlens.org/) or [Toptal](https://www.toptal.com/designers/colorfilter) - Color Blindness Filters
-* [NVDA](https://www.nvaccess.org/download/) - Screen Reader for Blind Users / [GitHub](https://github.com/nvaccess/nvda)
+**Note** - You can download a reddit video by commenting /u/SaveVideo.
 
 ***
 
-## ▷ Mouse / Keyboard
-
-* ⭐ **[/r/MechanicalKeyboards Wiki](https://www.reddit.com/r/MechanicalKeyboards/wiki/index)** - Mechanical Keyboard Resources
-* ⭐ **[Windows Keyboard Shortcuts](https://i.ibb.co/yNHRPfm/2147ec86baff.png)**, [2](https://i.ibb.co/XyWn2qc/075be8840d12.png) / [Course](https://keycombiner.com/), [Use The Keyboard](https://usethekeyboard.com/), [HotkeyP](https://sourceforge.net/projects/hotkeyp/), [Clavier++](https://gryder.org/software/clavier-plus/), [Kinto](https://github.com/rbreaves/kinto) or [CheatKeys](https://cheatkeys.com/cheatSheet) - Keyboard Shortcuts
-* ⭐ **[VIA](https://usevia.app/)** / [GitHub](https://github.com/the-via/app), [SharpKeys](https://github.com/randyrants/sharpkeys/), [Kanata](https://github.com/jtroo/kanata), [Vial](https://get.vial.today/), [Ergogen](https://ergogen.xyz/) or [Persistence](https://github.com/NtQuerySystemInformation/CustomKeyboardLayoutPersistence) - Custom Keyboard Layouts / Remapping
-* ⭐ **[geekhack](https://geekhack.org/)** or [KeebTalk](https://www.keebtalk.com/) - Keyboard Forums
-* [X-Mouse Button Control](https://www.highrez.co.uk/downloads/XMouseButtonControl.htm) - Re-Map Mouse Buttons / Scroll Wheel
-* [MoveMouse](https://github.com/sw3103/movemouse/) or [MouseJiggler](https://github.com/arkane-systems/mousejiggler) - Simulate User Activity 
-* [The Fastest Mouse Clicker](https://gitlab.com/mashanovedad/The-Fastest-Mouse-Clicker-for-Windows), [Alpha Clicker](https://github.com/robiot/AlphaClicker) or [AutoClicker Bookmarklet](https://autoclicker.glitch.me/) - Mouse Auto Clicker
-* [StrokeIt](https://www.tcbmi.com/strokeit/) or [StrokesPlus](https://www.strokesplus.net/) - Mouse Gestures
-* [Espanso](https://espanso.org/) - Typing Shortcuts / [GitHub](https://github.com/espanso/espanso)
-* [win-vind](https://pit-ray.github.io/win-vind/) - Vim Style Keybindings for Windows
-* [Listary](https://www.listary.com/), [FlowLauncher](https://www.flowlauncher.com/), [Ueli](https://ueli.app/) / [GitHub](https://github.com/oliverschwendener/ueli) - Keystroke Launchers
-* [KeyViz](https://github.com/mulaRahul/keyviz) - Keystroke Visualizer
-* [WhatPulse](https://whatpulse.org/) - Mouse / Keyboard Usage Analyzer
-* [Kmonad](https://github.com/kmonad/kmonad) - Keyboard Manager
-* [Deskhop](https://github.com/hrvach/deskhop) - Quickly Switch Devices between Computers
-* [Is this good?](https://wiki.keyboard.gay/) - Custom Keyboard Guides
-* [DreyMaR's](https://dreymar.colemak.org/) - Keyboard Tips and Resources
-* [Keyboard University](https://keyboard.university/) or [KDB](http://xahlee.info/kbd/keyboarding.html) - Mechanical Keyboard Building Guides
-* [Keyboard Simulator](https://keyboardsimulator.xyz/) - Design & Test Virtual Keyboards
-* [Key Test](https://en.key-test.ru/) - Keyboard Tester
+* [Viddit](https://viddit.red/), [SaveMp4](https://savemp4.red/), [RapidSave](https://rapidsave.com/), [redv.co](https://redv.co/) or [Reddit.tube](https://www.redd.tube/) - Reddit Video Downloaders
+* [rrip](https://github.com/mahesh-hegde/rrip) - Reddit Bulk Image Downloader
+* [Bulk Downloader for Reddit](https://github.com/aliparlakci/bulk-downloader-for-reddit) or [saveddit](https://github.com/p-ranav/saveddit) - Reddit Bulk Media Downloaders
+* [Reddit Downloader](https://redditdownloader.github.io/), [SubredditMediaDownloader](https://github.com/Psycoguana/SubredditMediaDownloader) or [DownloaderForReddit](https://github.com/MalloyDelacroix/DownloaderForReddit) - Download Media from Subreddits / Users
+* [RedditScrape](https://github.com/NSFWUTILS/RedditScrape) - Python Script for Downloading Reddit Media
 
 ***
 
-# ► Windows ISOs
+## ▷ Reddit Alternatives
 
-* ⭐ **[MAS ISO Index](https://massgrave.dev/genuine-installation-media.html)** - Windows ISOs / [Discord](https://discord.gg/gjJEfq7ux8) / [MSDL](https://msdl.gravesoft.dev/)
-* ⭐ **[Ventoy](https://www.ventoy.net/en/index.html)**, **[Rufus](https://rufus.ie/)**, [AIO Boot](https://www.aioboot.com/) or [MediaCreationTool](https://github.com/AveYo/MediaCreationTool.bat) - Create Bootable USB Drives
-* [OS.click](https://os.click/en) - Windows ISOs
-* [MyDigitalLife](https://forums.mydigitallife.net/) - Windows ISOs
-* [Microsoft SD](https://www.microsoft.com/en-us/software-download/) - Windows ISOs
-* [Old School OS](https://www.oldschoolos.com/), [OS Vault](https://osvault.weebly.com/directory.html), [VETUSWARE](https://vetusware.com/) or [WinWorldPC](https://winworldpc.com/) - Oldschool ISOs
-* [Fido](https://github.com/pbatard/Fido) - ISO Powershell Script
-* [MSDN Files](https://files.rg-adguard.net/) or [MVS dump](https://awuctl.github.io/mvs/) - Verify ISO Legitimacy
-* [CloverBootloader](https://github.com/CloverHackyColor/CloverBootloader/) or [EasyBCD](https://neosmart.net/EasyBCD/) - Bootloaders / [Config](https://mackie100projects.altervista.org/)
-* [balenaEtcher](https://etcher.balena.io/) - Flash OS Image SD / USB / Non-Windows OS
-* [Hiren’s BootCD PE](https://www.hirensbootcd.org/) or [Win10XPE](https://github.com/ChrisRfr/Win10XPE) - Preinstallation Environments
-* [CoolStar](https://coolstar.org/chromebook/windows-install.html) - Install Windows on Chromebook
+* ↪️ **[Lemmy Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/social-media#wiki_.25B7_lemmy_tools)**
+* ⭐ **[Raddle](https://raddle.me/)** / [.onion](http://c32zjeghcp5tj3kb72pltz56piei66drc63vkhn5yixiyk4cmerrjtid.onion/) - Reddit Alt
+* ⭐ **[Saidit](https://saidit.net/)** - Reddit Alt
+* [/r/RedditAlternatives](https://reddit.com/r/RedditAlternatives) - Find Reddit Alternatives
+* [sub.rehab](https://sub.rehab/) - Reddit Communities on Alternative Platforms
+* [tildes](https://tildes.net/) - Reddit Alt
+* [Upgoat](https://www.upgoat.net/) - Reddit Alt
+* [Scored](https://communities.win/) - Reddit Alt
+* [Squabblr](https://squabblr.co/) - Reddit Alt
+* [Discuit](https://discuit.net/) - Reddit Alt
 
 ***
 
-## ▷ Windows Activation
+## ▷ Reddit Search
 
-* ⭐ **[MAS](https://massgrave.dev/#Method_1_-_PowerShell)** / [GitHub](https://github.com/massgravel/Microsoft-Activation-Scripts/) / [Discord](https://discord.gg/gjJEfq7ux8)
-* ⭐ **[KMS_VL_ALL_AIO](https://github.com/abbodi1406/KMS_VL_ALL_AIO)**
-* [EzWindSLIC](https://github.com/Dir3ctr1x/EzWindSLIC) - Vista / 7 / Server 2008
-* [OfficeRTool](https://forums.mydigitallife.net/threads/how-to-support-chat-office-c2r-download-install-activation.62571/) - Office 2016 Activation
-* [Office Activation Fix](https://massgrave.dev/office-license-is-not-genuine.html)
-
-***
-
-## ▷ Windows Updates
-
-* ⭐ **[ChangeWindows](https://www.changewindows.org/timeline)** - Latest Windows Update Info
-* ⭐ **[VCRedist](https://github.com/abbodi1406/vcredist)** - AIO Repack for Microsoft Visual C++ Redists
-* [stopupdates10](https://greatis.com/stopupdates10/), [InControl](https://www.grc.com/incontrol.htm) or [windows-update-blocker](https://www.sordum.org/9470/windows-update-blocker-v1-7/) - Enable / Disable Windows 10 Updates
-* [LegacyUpdate](https://legacyupdate.net/) - Fix Windows Updates for Legacy Editions
-* [Extended Win 7 Updates](https://forums.mydigitallife.net/threads/bypass-windows-7-extended-security-updates-eligibility.80606) - Extended Windows 7 Updates
-* [WUReset](https://wureset.com/) - Reset Windows Update Components
-* [UUP Dump](https://uupdump.net/) - Download Unified Update Platform Files
-* [OcxDump](https://ocxdump.com/) - .ocx Files
+* ⭐ **[TheGigaBrain](https://thegigabrain.com/)**, [New PullPush](https://search-new.pullpush.io/), [Redditle](https://redditle.com/), [Reddit CSE](https://cse.google.com/cse?cx=016649841759798530173:rk2ezolwnw0) / [2](https://cse.google.com/cse?cx=007749065626525752968:qh5bqebwi30), [Samac](https://samac.io/, [ihsoyct](https://ihsoyct.github.io/index.html) or [Better Reddit Search](https://betterredditsearch.web.app/) - Reddit Search Engines
+* ⭐ **[RedditRepostSleuth](https://www.repostsleuth.com/)** - Reverse Post / Image Search
+* ⭐ **[Reveddit](https://www.reveddit.com/)**, [Unedit & Undelete for Reddit](https://greasyfork.org/en/scripts/407466), [Unedit](https://github.com/DenverCoder1/Unedit-for-Reddit) - View Deleted Reddit Posts
+* [ReSavr](https://www.resavr.com/) or [Comment History](https://academictorrents.com/details/89d24ff9d5fbc1efcdaf9d7689d72b7548f699fc) - Reddit Comment Archives
+* [Expanse](https://github.com/jc9108/expanse), [redarcs](https://the-eye.eu/redarcs/) or [Reddit Archive](https://www.redditarchive.com/) - Reddit Post Archive Tools / [Note](https://ibb.co/R9jC5bk)
+* [RedditMetis](https://redditmetis.com/), [Reddit-User-Analyser](https://reddit-user-analyser.netlify.app/) or [Redective](https://www.redective.com/) - Reddit Profile Information
+* [Reddit Comment Search](https://www.redditcommentsearch.com/) - Search Reddit Comments
+* [rComments](https://github.com/iampueroo/rComments) - Explore Comments / Replies without Clicking a Post 
+* [ScrollDrop](https://scrolldrop.com/) - Reddit Media Crawler
+* [Wiki Downloader](https://github.com/michealespinola/reddit.wikidownloader) - Reddit Wiki Page Scraper
+* [Find on Reddit](https://chromewebstore.google.com/detail/find-on-reddit/jbcdpeekakanklckgooknpbonojhjncm) - Find Discussions of the Current URL
+* [PullPush](https://pullpush.io/) - Reddit Content API / [Discord](https://discord.com/invite/8hw88WMHFw)
 
 ***
 
-## ▷ Windows Repair
+## ▷ Subreddit Discovery
 
-* [MagNumDB](https://www.magnumdb.com/), [ErrorLookup](https://github.com/henrypp/errorlookup) or [Microsoft Error Lookup](https://learn.microsoft.com/en-us/windows/win32/debug/system-error-code-lookup-tool) - Windows Debugging Tools
-* [/r/TechSupport](https://www.reddit.com/r/techsupport/) / [Wiki](https://rtech.support/) / [Discord](https://discord.gg/2EDwzWa) - Tech Support Subreddit
-* [Windows 10 Forums](https://www.windowsphoneinfo.com/), [SevenForums](https://www.sevenforums.com/), [Hardforum](https://hardforum.com/), [VinaFix](https://vinafix.com/) or [TechSupportForum](https://www.techsupportforum.com/) - Tech Support Forums
-* [MemTest](https://www.memtest.org/) - Memory Diagnostic Tool
-* [Windows Repair Toolbox](https://windows-repair-toolbox.com/) - Multi-Tool Repair App
-* [OpenBoardData](https://openboarddata.org/) - Board Repair Data
-* [Magic Trace](https://github.com/janestreet/magic-trace) - Diagnose Performance Issues using Intel Processor Trace
-* [Intel BIOS Guide](https://docs.google.com/document/d/1s43_3YGJIy3zs0ZIksoOmxgrDKnu4ZNhhnXW_NiJZ0I/edit) - Intel BIOS Settings Explanation
-* [BiOSBug](https://www.biosbug.com/) - Remove / Reset BiOS Password / [Tutorial](https://www.youtube.com/watch?v=GolIjI2HS5w)
-* [BIOS-PW](https://bios-pw.org/) - System Password Recovery Tools
-* [PC Health Check](https://aka.ms/GetPCHealthCheckApp) or [WhyNotWin11](https://github.com/rcmaehl/WhyNotWin11) - Identify why your PC isn't Windows 11 ready
-
-***
-
-# ► Customization
-
-* ⭐ **[Rainmeter](https://www.rainmeter.net/)** - Desktop Customization
-* ⭐ **Rainmeter Tools** - [Skins](https://visualskins.com/) / [Utilities](https://github.com/Jax-Core), [2](https://www.deviantart.com/jaxoriginals) / [Menu Bar / App Launcher](https://www.droptopfour.com/)
-* ⭐ **[OpenRGB](https://openrgb.org/)** / [Beta](https://pastebin.com/tgY55J4n), **[WLED](https://kno.wled.ge/)**, [SignalRGB](https://www.signalrgb.com/), [LiquidCTL](https://github.com/liquidctl/liquidctl), [Artemis](https://artemis-rgb.com/), [RBGSync](https://rgbsync.com/) or [FireLight](https://github.com/nicolasdeory/firelight) - Lighting Control
-* [VirtualCustoms](https://virtualcustoms.net/) or [winthemers](https://discord.com/invite/8FFWAqdtc4) - Customization Communities 
-* [XDesktopSoft](https://www.xwidget.com/) - Desktop Customization
-* [LiteStep](http://litestep.net/) - Customize Desktop Interface
-* [Taskbar Tweaker](https://tweaker.ramensoftware.com/), [NiceTaskbar](https://www.microsoft.com/en-us/p/nicetaskbar/9pkl2s93xwb5) - Taskbar Customization Tools
-* [msstyleEditor](https://github.com/nptr/msstyleEditor) or [WinPaletter](https://github.com/Abdelrhman-AK/WinPaletter) - Windows Visual Style Editors
-* [BeautySearch](https://github.com/krlvm/BeautySearch) - Windows 10 Search Appearance Tweaker
-* [ChromaDiscordApp](https://github.com/tgraupmann/ChromaDiscordApp) - Discord System Lighting Control
-* [KeyboardVisualizer](https://gitlab.com/CalcProgrammer1/KeyboardVisualizer) - Audio Visualizer / FX Engine for Keyboards, Mice & Accessories
-* [Mechvibes](https://mechvibes.com/), [Rackety](https://girkovarpa.itch.io/rackety) or [MechaKeys](https://mechakeys.robolab.io/) - Keyboard Sound Effects
-* [ElectricSheep](https://electricsheep.org/) - Collaborative Usergenerated Screensaver
-* [After Dark CSS](https://www.bryanbraun.com/after-dark-css/) - Browser Screensavers
-* [HackBGRT](https://github.com/Metabolix/HackBGRT) - Change Windows Boot Logo
-* [Cursor Mania Archive](https://archive.org/details/cursormania), [Bibata Cursor](https://github.com/ful1e5/Bibata_Cursor), [Cursors Pastebin](https://pastebin.com/BrAbMy4n) or [rw-designer](http://rw-designer.com/cursor-library) - Cursors
-* [FolderMarker](https://foldermarker.com/) or [CustomFolder](https://www.gdzsoft.com/) - Custom Folders & Markers
-* [Recycle Bin Themes](https://github.com/sdushantha/recycle-bin-themes) - Custom Recycle Bin Icons
-* [ElevenClock](https://www.marticliment.com/elevenclock/) - Customize Windows 11 Clock 
+* 🌐 **[/r/ListOfSubreddits](https://www.reddit.com/r/ListOfSubreddits/)** - Subreddits Index
+* ↪️ **[Multireddit Indexes](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_multireddits)** or [/r/multihub](https://www.reddit.com/r/multihub/top/?sort=top&t=all)
+* [/r/findareddit](https://www.reddit.com/r/findareddit/) - Get Subreddit Suggestions
+* [Subreddit Calculator](https://trevor.shinyapps.io/subalgebra/) or [redsim](https://anvaka.github.io/redsim/) - Find Similar Subreddits
+* [sayit](https://anvaka.github.io/sayit/), [Vizit](https://redditstuff.github.io/sna/vizit/), [subreddit_map](https://www.jacobsilterra.com/subreddit_map/network/index.html) or [SubredditMentionsGraph](https://dmarx.github.io/SubredditMentionsGraph/network/) - Visualize Related Subreddits
+* [Map of Reddit](https://anvaka.github.io/map-of-reddit) or [Reddit Map](https://redditmap.social/) - Subreddit Maps
+* [subreddits](https://subreddits.org/) - Find Random Subreddits
+* [/r/Serendipity](https://www.reddit.com/r/Serendipity) - Posts from Random Subreddits
+* [/r/wowthissubexists](https://www.reddit.com/r/wowthissubexists/) - Find Niche Subreddits
+* [redditlist](https://redditlist.com/) or [Subreddit Stats](https://subredditstats.com/) - Subreddits Stats / Ranking
 
 ***
 
-## ▷ Themes / Ricing
+# ► Telegram Tools
 
-* 🌐 **[Awesome Ricing](https://github.com/fosslife/awesome-ricing)** or [Windows-Ricing](https://github.com/winthemers/wiki) - Windows Ricing Resources
-* ⭐ **[Dracula](https://draculatheme.com/)** / [Discord](https://discord.com/invite/yDcFsrYuq9), [Something Beautiful](https://rosepinetheme.com/) / [Discord](https://discord.gg/r6wf35KVJW), [Catppuccin](https://github.com/catppuccin) / [Discord](https://discord.gg/r6Mdz5dpFc), [Aura Theme](https://github.com/daltonmenezes/aura-theme) or [theme.park](https://theme-park.dev/) - Custom App Themes
-* ⭐ **[terminal.sexy](https://terminal.sexy/)**, [TerminalSplash](https://terminalsplash.com/), [Solarized](https://ethanschoonover.com/solarized) or [WindowsTerminalThemes](https://windowsterminalthemes.dev/) - Terminal Themes
-* [Chloechantelle Guide](https://www.ricing.chloechantelle.com/) or [Heliohost Guide](https://ninjasr.heliohost.org/w/lb/windows) - Windows Customization Guides
-* [Blackbox 4 Windows](https://blackbox4windows.com/) - Custom Windows Shells / Widgets
-* [Alternative Windows Shells Wiki](https://en.wikipedia.org/wiki/List_of_alternative_shells_for_Windows) - Alt Windows Shells 
-* [WindowsCustomization](https://windowscustomization.com/), [WinCustomize](https://www.wincustomize.com/), [Win10 DeviantArt](https://www.deviantart.com/tag/windows10), [WinClassic](https://winclassic.boards.net/) or [7Themes](https://7themes.su/) - Customization / Themes / Wallpapers
-* [WinDynamicDesktop](https://github.com/t1m0thyj/WinDynamicDesktop) - Dynamic Desktop Themes
-* [Auto Night Mode](https://github.com/AutoDarkMode/Windows-Auto-Night-Mode) or [Darker](https://mswin.me/darker/) - Dark / Light Mode Theme Switcher
-* [SecureUxTheme](https://github.com/namazso/SecureUxTheme) or [UltraUXThemePatcher](https://mhoefs.eu/software_uxtheme.php?ref=syssel&lang=en) - Ux Theme Patcher
-* [7TSP GUI](https://www.deviantart.com/devillnside/art/7TSP-GUI-2019-Edition-804769422) - Theme Source Patcher
-* [SimpleClassicTheme](https://simpleclassictheme.nl/) - Classic Windows Theme
-* [Winmoes](https://winmoes.com/) - Anime Windows Themes / Wallpapers
-* [Desktops](https://deskto.ps/) - OS Theme Examples
-* [MyDockFinder](https://www.mydockfinder.com/) - macOS Theme for Windows 10
-* [Macdows11](https://redd.it/pd5ha6) - Windows 11 Mac Theme Guide
-* [macOS-cursors-for-Windows](https://github.com/antiden/macOS-cursors-for-Windows) - macOS Cursors for Windows
-* [AccentColorizer](https://github.com/krlvm/AccentColorizer) - Custom Windows Accent Color
-* [MicaForEveryone](https://github.com/MicaForEveryone/MicaForEveryone) - System Backdrop Customization
-* [TranslucentFlyouts](https://github.com/ALTaleX531/TranslucentFlyouts) - Translucent Context Menus / [GUI](https://github.com/Satanarious/TranslucentFlyoutsConfig)
-* [TranslucentTB](https://github.com/TranslucentTB/TranslucentTB) - Translucent Windows Taskbar
-* [ExplorerBlurMica](https://github.com/Maplespe/ExplorerBlurMica) - Blur / Acrylic Effect for File Explorer
-* [RetroBar](https://github.com/dremin/RetroBar) - Retro Classic Taskbars
-* [StartAllBack](https://www.startallback.com/) - Restore Classic Start Menu in Windows 11
-* [Win98Icons](https://win98icons.alexmeub.com/) - Classic Win98 Icons
-* [Modern Flyouts](https://apps.microsoft.com/store/detail/modernflyouts-preview/9MT60QV066RP) - Modern Context Menus / [GitHub](https://github.com/ModernFlyouts-Community/ModernFlyouts)
-* [ModernWinver](https://github.com/torchgm/NewModernWinver) or [WinverUWP](https://github.com/dongle-the-gadget/WinverUWP) - Modern Windows About Page
-* [linux-like-windows-terminal](https://github.com/Kyza/linux-like-windows-terminal) - Linux Terminal Theme
-* [cool-retro-term](https://github.com/Swordfish90/cool-retro-term) - Retro Cathode Terminal Theme
-* [Pokemon Terminal](https://github.com/LazoCoder/Pokemon-Terminal) - Pokémon Terminal Themes
-* [ExcelDarkThemeFix](https://github.com/matafokka/ExcelDarkThemeFix) - Fix Excel on Themed Windows 
+* 🌐 **[TDirectory](https://tdirectory.me/)**, [Telemetr](https://telemetr.io/en), [Telegram Channels](https://telegramchannels.me/), [Awesome Telegram](https://github.com/ebertti/awesome-telegram) - Telegram Channel Indexes
+* 🌐 **[ComBot Groups](https://combot.org/top/telegram/groups)** - Top Telegram Groups Index
+* [Telegago](https://cse.google.com/cse?&cx=006368593537057042503:efxu7xprihg#gsc.tab=0), [2](https://cse.google.com/cse?cx=006249643689853114236:a3iibfpwexa), [Lyzem](https://lyzem.com/), [xTea](https://xtea.io/ts_en.html) or [TG-ME](https://www.tg-me.com/) - Telegram CSE's
+* [MediaDownBot](https://t.me/mediadownbot) or [DownloadsMasterBot](https://t.me/DownloadsMasterBot) - Social Media Downloader
+* [SaveRestrictedContentBot](https://github.com/vasusen-code/SaveRestrictedContentBot) - Save Restricted Content
+* [Telesco.pe](https://telesco.pe/) - Telegram Round Video Recorder
+* [Video Stream](https://github.com/lntechnical2/videostream) - Telegram Video Player
+* [TGCF](https://github.com/aahnik/tgcf) - Telegram Message Forwarding
+* [SaveDay](https://www.save.day/) - Telegram Bookmarking AI
+* [tg-channel-cloner-workers](https://gitlab.com/ParveenBhadooOfficial/tg-channel-cloner-workers) - Clone Telegram Channels
+* [CloneChat](https://github.com/apenasrr/clonechat) - Clone Telegram Chats
+* [tasra](https://the-eye.eu/tasra/) - Telegram Channel Archive
+* [Telegram Email](https://t.me/etlgr_bot) - Send / Receive Emails via Telegram
+* [CHPic](https://chpic.su/),, [Stickers Cloud](https://stickers.cloud/en), [ComBot Stickers](https://combot.org/telegram/stickers) or [moe_sticker_bot](https://t.me/moe_sticker_bot) - Telegram Sticker / Emojis
 
 ***
 
-## ▷ Wallpapers
+## ▷ Telegram Clients
 
-* ⭐ **[Wallpaper Engine](https://rentry.co/FMHYBase64#wallpaper-engine)** - Wallpaper Manager / [PKG to Zip](https://github.com/TheRioMiner/Wallpaper-Engine-Pkg-to-Zip) / [Collections](https://www.wallpaperengine.space/collections), [2](https://steamcommunity.com/sharedfiles/filedetails/?id=2801058904) / [Workshop DL](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_steam_workshop_downloaders)
-* ⭐ **[wallhaven](https://wallhaven.cc/)** / [Downloader](https://github.com/eramdam/WallbaseDirectDownloader) - Wallpapers
-* ⭐ **[Wallpaper Abyss](https://wall.alphacoders.com/)** - Wallpapers
-* ⭐ **[Studio Ghibli Wallpapers](https://www.ghibli.jp/info/013772)** or [Ghibli Upscaled](https://rentry.co/FMHYBase64#ghibli-upscaled)
-* ⭐ **[LWP](https://github.com/jszczerbinsky/lwp)** - Move Wallpapers with Cursor
-* [ScreenPlay](https://screen-play.app/) - Wallpaper Manager
-* [backiee](https://apps.microsoft.com/store/detail/backiee-wallpaper-studio-10/9WZDNCRFHZCD) - Wallpaper Manager
-* [Awesome Wallpaper](https://awesome-wallpaper.com/) - Wallpaper Manager
-* [SuperPaper](https://github.com/hhannine/superpaper) - Wallpaper Manager
-* [Faerber](https://farbenfroh.io/) - Edit Wallpaper to Match Color Scheme
-* [AutoWall](https://github.com/SegoCode/AutoWall) - Turn Videos / GIFs to Live Wallpapers
-* [Scenic Illustrations](https://www.pixeltrue.com/scenic-illustrations) - Landscape Wallpapers
-* [CoolBackgrounds](https://coolbackgrounds.io/) or [wallup](https://wallup.net/) - Customizable Wallpapers
-* [Simple Desktops](https://simpledesktops.com/), [Positron Dream](https://www.positrondream.com/) or [SetAsWall](https://www.setaswall.com/) - Minimalistic Wallpapers
-* [/r/LivingBackgrounds](https://reddit.com/r/LivingBackgrounds), [WALLegend](https://wallegend.net/en/) or [MoeWalls](https://moewalls.com/) - Animated Wallpapers
-* [DualMonitorBackgrounds](https://www.dualmonitorbackgrounds.com/) or [WallpaperFusion](https://www.wallpaperfusion.com/) - Dual Monitor Wallpapers
-* [ScreenCapped](https://screencapped.net/), [Screencaps](https://screencaps.us/) or [shot.cafe](https://shot.cafe/) - Movie / TV Wallpapers
-* [Xbox Wallpapers](https://www.xbox.com/en-us/wallpapers/) - Game Wallpapers
-* [Anime Pictures](https://anime-pictures.net/), [N0va](https://n0vadp.hoyoverse.com), [Anime_WallpapersHD](https://t.me/Anime_WallpapersHD/), [WallpaperWaifu](https://wallpaperwaifu.com/) or [MyLiveWallpapers](https://mylivewallpapers.com/) - Anime Wallpapers
-* [99images](https://www.99images.com/) - Celebrity Wallpapers
-* [Dracula Wallpapers](https://draculatheme.com/wallpaper) - Dracula Wallpapers
-* [Mac Walls](https://goo.gl/photos/HjY1hmo6p3jfFz8a7), [2](https://photos.google.com/share/AF1QipNNQyeVrqxBdNmBkq9ILswizuj-RYJFNt5GlxJZ90Y6hx0okrVSLKSnmFFbX7j5Mg?key=RV8tSXVJVGdfS1RIQUI0Q3RZZVhlTmw0WmhFZ2V3) - Mac Wallpapers
-* [Wallpapers.com](https://wallpapers.com/) - Wallpapers
-* [WallpaperSafari](https://wallpapersafari.com/) - Wallpapers
-* [WallpaperCave](https://wallpapercave.com/) - Wallpapers
-* [Wallpaper Tip](https://wallpapertip.com/) - Wallpapers
-* [WallsPic](https://wallspic.com/) - Wallpapers
-* [WallpaperFlare](https://www.wallpaperflare.com/) - Wallpapers
-* [HDQwalls](https://hdqwalls.com/) - Wallpapers
-* [UHD Wallpaper](https://www.uhdpaper.com/) - Wallpapers
-* [WallpapersCraft](https://wallpaperscraft.com/) - Wallpapers
-* [wallha](https://wallha.com/) - Wallpapers
-* [G_Walls](https://t.me/G_Walls) - TG Wallpapers
-* [pengwyn](https://t.me/pengwyn) - TG Wallpapers
+* ⭐ **[web.telegram](https://web.telegram.org/)** / [2](https://webk.telegram.org/) / [3](https://weba.telegram.org/) - Web Client
+* ⭐ **[Unigram](https://github.com/UnigramDev/Unigram)** - Desktop Client
+* [TDesktop](https://github.com/Forkgram/tdesktop) - Desktop Client / [x64](https://github.com/TDesktop-x64/tdesktop) / [Telegram](https://t.me/tg_x64)
+* [VideoGram](https://vidogram.org/) - Desktop Client
+* [AyuGram](https://github.com/AyuGram/AyuGramDesktop) - Desktop Client
+* [Pyrogram](https://docs.pyrogram.org/) / [Session Strings](https://t.me/SessionStringGeneratorZBot) - Telegram API Client
+* [Telega.el](https://github.com/zevlg/telega.el) - Telegram Emacs Client
+
+***
+
+## ▷ Telegram File Tools
+
+* [teldrive](https://github.com/divyam234/teldrive), [File-Sharing-Bot](https://github.com/CodeXBotz/File-Sharing-Bot) / [Telegram](https://t.me/CodeXBotz), [TelegramCloud](https://github.com/iw4p/telegram-cloud), [easy_share_bot](https://t.me/easy_share_bot) or [UploadBot](https://t.me/uploadbot) - Upload Files to Telegram
+* [GdriveXbot](https://t.me/TheGdriveXBot), [google-drive-telegram-bot](https://github.com/viperadnan-git/) or [Python Aria Mirror Bot](https://github.com/lzzy12/python-aria-mirror-bot) / [Telegram](https://t.me/pythonmirrorsupport) - GDrive Upload Bots
+* [DrClonerBot](https://t.me/DrClonerBot) - GDrive Clone Bot
+* [SearchX](https://github.com/iamLiquidX/SearchX) - GDrive Search Bot
+* [MEGA Uploader X](https://t.me/MegaUploadXbot) or [Mega.nz-Bot](https://github.com/Itz-fork/Mega.nz-Bot) - Remote Mega File Upload Bot
+* [OneDrive X](https://t.me/onedrivexbot) - Remote OneDrive File Upload Bot
+* [AIO Uploader](https://t.me/aiouploaderbot), [LinkForFilebot](https://t.me/LinkForFilebot) or [MultiUpload-Bot](https://github.com/oVoIndia/MultiUpload-Bot) - Telegram to File Host Upload Bot
+* [telegram-download-daemon](https://github.com/alfem/telegram-download-daemon/) - Download Large Telegram Files
+* [convrt_bot](https://t.me/convrt_bot), [FileConvertBot](https://t.me/FileConvertBot), [newfileconverterbot](https://t.me/newfileconverterbot), [SmartConverter_bot](https://t.me/SmartConverter_bot), [cloud_convert_bot](https://t.me/cloud_convert_bot), [wololopdfbot](https://t.me/wololopdfbot), [pdfbot](https://t.me/pdfbot) or [Gpdfbot](https://t.me/Gpdfbot) - File Converters
+* [ILovePDF](https://github.com/nabilanavab/ilovepdf) - Telegram File to PDF Converter
+* [Unzip Bot](https://t.me/unzip_edm115bot) / [Github](https://github.com/EDM115/unzip-bot) - File Extractor / Unzipper
+
+***
+
+## ▷ Telegram Bots
+
+* 🌐 **[BotsArchive](https://t.me/BotsArchive), [botlist](https://t.me/botlist), [TelegramBotsList](https://danyspin97.github.io/TelegramBotsList/), [botostore](https://botostore.com/) or [borodutch.eth](https://borodutch.com/)** - Telegram Bots Indexes
+* ⭐ **[ChatGPT Telegram Bot](https://github.com/karfly/chatgpt_telegram_bot)** / [2](https://github.com/n3d1117/chatgpt-telegram-bot) / [3](https://github.com/watscho/chat-gpt-telegram-bot) or [chatgpt-serverless](https://github.com/franalgaba/chatgpt-telegram-bot-serverless) - ChatGPT Telegram Bots
+* [TG Bot](https://t.me/drlinkbot) - Ad Link Bypass Bot / [GitHub](https://github.com/TheCaduceus/Link-Bypasser-Bot)
+* [Now Playing](https://t.me/nowplaybot) - Now Playing Audio Bot
+* [ongaku](https://github.com/likeadragonmaid/Ongaku) - Display Playing Android Audio in Status
+* [Searchee Bot](https://t.me/SearcheeBot) - Telegram Channel Search Bot
+* [YTSZBot](https://t.me/YTSZBot) - YouTube Search Bot
+* [Rose](https://t.me/MissRose_bot) - Telegram Group Manager
+* [TediCross](https://github.com/TediCross/TediCross) - Telegram to Discord Bridge
+* [WatgBridge](https://github.com/akshettrj/watgbridge) - Telegram to WhatsApp Bridge
+* [Mautrix](https://github.com/mautrix/telegram) - Telegram to Matrix Bridge
+* [Callmebot](https://www.callmebot.com/) - Trigger Voice Calls or Chats
+* [Skeddy](https://skeddy.me/) - Telegram Reminder Bot
+* [Reddit2Telegram](https://github.com/Fillll/reddit2telegram) - Reddit Post Bot
+* [rss2tg_bot](https://t.me/rss2tg_bot) or [TheFeedReaderBot](https://t.me/TheFeedReaderBot) - RSS Feed Bots
+* [LinkShortenerZBot](https://t.me/LinkShortenerZBot) or [ShortUrlBot](https://t.me/ShortUrlBot) - Link Shortener Bots 
+* [URL2IMGBot](https://t.me/URL2IMGBot) - Take URL Screenshots
+* [AiImageBot](https://t.me/AiImageBot) - Text to Image
+* [Shieldy Bot](https://t.me/shieldy_bot) - Spam Protection Bot / [GitHub](https://github.com/1inch/shieldy)\
+* [ProxyBot](https://t.me/vamproxy_bot), [proxytelebot](https://t.me/proxytelebot), [yadda_proxybot](https://t.me/yadda_proxybot), [tproxies_bot](https://t.me/tproxies_bot), [proxy_socks5_bot](https://t.me/proxy_socks5_bot), [socksy_bot](https://t.me/socksy_bot), [ShadowSocks_bot](https://t.me/ShadowSocks_bot) or [logicpleaseproxybot](https://t.me/logicpleaseproxybot) - Telegram Proxy Bots
+* [/r/TelegramBots](https://www.reddit.com/r/TelegramBots/) - Telegram Bots Discussion
+
+***
+
+# ► YouTube Tools
+
+* ⭐ **[PocketTube](https://pockettube.io/)** or [Kadium](https://kadium.kasper.space/) - Subscription Managers
+* ⭐ **[SponsorBlock](https://sponsor.ajay.app/)** - Skip Sponsored YouTube Ads / [Chromecast](https://github.com/gabe565/CastSponsorSkip) / [Script](https://github.com/mchangrh/sb.js), [2](https://greasyfork.org/en/scripts/453320)
+* ⭐ **[Fast Forward YouTube Shorts](https://greasyfork.org/en/scripts/466438)** - Add Skip Keys to Shorts
+* [shorts-deflector](https://github.com/attituding/shorts-deflector), [Remove YouTube Shorts](https://addons.mozilla.org/en-US/firefox/addon/remove-youtube-shorts/), [ublock-hide-yt-shorts](https://github.com/gijsdev/ublock-hide-yt-shorts) or [youtube-shorts-block](https://github.com/doma-itachi/Youtube-shorts-block) - Hide YouTube Shorts
+* [YouTube_Subs_Bot](https://t.me/youtube_subs_bot) - Sub to Channels without Account
+* [YouTube Spammer Purge](https://github.com/ThioJoe/YT-Spammer-Purge) - Delete All YouTube Spam Comments / [Domain List](https://github.com/ThioJoe/YT-Spam-Lists)
+* [Age Restriction Bypass](https://github.com/zerodytrash/Simple-YouTube-Age-Restriction-Bypass) / [2](https://greasyfork.org/en/scripts/423851-simple-youtube-age-restriction-bypass) - Bypass YouTube Age Restrictions
+* [BlockTube](https://github.com/amitbl/blocktube) - YouTube Content Blocker
+* [TubeBuddy](https://www.tubebuddy.com/) - YouTube Channel Tools
+* [Playboard](https://playboard.co) - YouTube Channel Stats
+* [YouTube Watchmarker](https://github.com/sniklaus/youtube-watchmarker) - Fade Thumbnails of Watched Videos
+* [Video Resumer](https://addons.mozilla.org/en-US/firefox/addon/video-resumer/) - Resume Videos Where You Left Off / [Note](https://pastebin.com/Jd1DJW8w)
+* [vidIQ](https://chromewebstore.google.com/detail/vidiq-vision-for-youtube/pachckjkecffpdphbpmfolblodfkgbhl) - YouTube Viewership Data
+* [Video Recap](https://videorecap.viewodyssey.com/) - YouTube Year in Review Stats
+* [Campfire](https://campfire.gg), [Walrus](https://joinwalrus.tv/), [Sync-Tube](https://sync-tube.de/), [YouTube Party](https://youtubeparty.netlify.app/) or [Hergetto](https://hergetto.live/) - YouTube Watch Parties
+* [yt2pod](https://github.com/frou/yt2pod) - Create Podcasts from YouTube Channels
+* [YouTube-Subscriptions-RS](https://github.com/jeb5/YouTube-Subscriptions-RSS) - Export Subscriptions to RSS Feed
+* [YouTube Subscription History](https://xxluke.de/subscription-history/) - Find when you subscribed to channels
+* [SpeechChat](https://speechchat.com/) - Text to Speech Client
+* [AnnotationsRestored](https://github.com/isaackd/AnnotationsRestored) or [YouTube Annotations](https://archive.org/details/youtubeannotations) - Restore YouTube Annotations
+* [YouTube Metadata](https://mattw.io/youtube-metadata/) - YouTube Video Metadata Viewer
+* [YouTube Upload Time](https://chromewebstore.google.com/detail/youtube-upload-time/nenoecmaibjcahoahnmeinahlapheblg) - Check YouTube Upload Date
+* [TubeSync](https://github.com/meeb/tubesync) - Sync YouTube Channels / Playlists to a Media Server
+* [Playlist Creator for YouTube](https://chromewebstore.google.com/detail/drag-drop-playlist-creato/aklnkkbopjjemjlkffhamaepagbmblbg) or [Playlists at YouTube](https://playlists.at/youtube/) - Playlists Creators
+* [Anon Playlists](https://neverducky.github.io/anonymous-youtube-playlists/) - Create Anon Playlists
+* [ytcc](https://github.com/woefe/ytcc) or [Multiselect](https://addons.mozilla.org/en-US/firefox/addon/multiselect-for-youtube/), [2](https://chromewebstore.google.com/detail/gpgbiinpmelaihndlegbgfkmnpofgfei) - Playlist Managers
+* [playlist.tools](https://playlist.tools/) - YouTube Playlist Reverser
+* [Playlist Randomizer](https://playlist-randomizer.com/) - YouTube Playlist Randomizer
+* [YT Playlist Length](https://ytplaylist-len.sharats.dev/) - Playlist Length Checker
+* [YouTube Region Checker](https://polsy.org.uk/stuff/ytrestrict.cgi) - YouTube Region Restrictions Check
+* [YouTube Web Tweaks](https://greasyfork.org/en/scripts/447802) - Speed Up YouTube
+* [YourCodecs](https://github.com/undecV/YourCodecs) - Enable / Disable Player Codecs
+* [YouTube CPU Tamer](https://greasyfork.org/en/scripts/431573) or [Unhold YouTube](https://greasyfork.org/en/scripts/457205) - YouTube CPU Optimization
+* [FREEZE](https://chromewebstore.google.com/detail/freeze/bejbbhcoefpmeejcnknjfepoocehopii) - Control YouTube via Webcam
+* [RapidTags](https://www.rapidtags.io/) - YouTube Tag Generators
+* [songs-to-youtube](https://github.com/7x11x13/songs-to-youtube) - Upload Audio to YouTube Automatically
+* [YouBit](https://github.com/MeViMo/youbit) - Use YouTube as File Host
+* [Video Speed Controller](https://github.com/igrigorik/videospeed) or [TimerHooker](https://timer.palerock.cn/en/) - Control Speed of YouTube Videos
+* [Jump Cutter](https://github.com/WofWca/jumpcutter) - Skip Silent Parts of Videos
+* [ytcropper](https://ytcropper.com/), [yt_clipper](https://github.com/exwm/yt_clipper) or [YTCutter.com](https://ytcutter.com/) - Crop YouTube Videos / Create Clips
+* [Rotate YouTube Video](https://addons.mozilla.org/en-US/firefox/addon/rotate-youtube-video/) - Rotate YouTube Videos
+* [StretchSite](https://www.stretch.site/) - Custom YouTube Aspect Ratio Viewer
+* [TwitchTheater](https://twitchtheater.tv/), [VidGrid](https://vidgrid.tk.gg/), [YouTube Multiplier](https://www.youtubemultiplier.com/) or [ViewSync](https://viewsync.net/) - Watch Multiple YouTube Videos
+* [Anilyzer](https://anilyzer.com/) - Watch YouTube Videos in Slow Motion / Frame by Frame
+* [YTStamps](https://ytstamps.netlify.app/) - Create Custom Start / End Times
+* [Solidpoint](https://solidpoint.ai/), [Glasp](https://glasp.co/youtube-summary), [Eightify](https://eightify.app/), [VideoGist](https://www.videogist.co/) or [VideoHighlight](https://videohighlight.com/) - Summarize YouTube Videos
+* [Recover My Video](https://www.recovermy.video/) - Recover Titles of Deleted / Private YouTube Videos
+* [Filmot Title Restorer](https://greasyfork.org/en/scripts/430202-filmot-title-restorer) - Restore Deleted YouTube Video Titles in Playlists
+* [Kament](https://kament.io/) - Add Comments on Comment Disabled Videos
+* [ChatReplay](https://chatreplay.stream/) - YouTube Live Stream Chat Replay
+* [LiveTL](https://kentonishi.com/LiveTL/) - YouTube Live Stream Translator
+* [YouTubeLiveChatFlusher](https://github.com/ys-j/YoutubeLiveChatFlusher) - YouTube Live Bullet Chatting (Danmaku)
+* [YTArchive](https://github.com/Kethsar/ytarchive) - YouTube Livestream Recorder
+* [YouTube Livestream Theatre](https://gitlab.com/-/snippets/2099898) - Twitch-style Theater Mode for YouTube Live
+* [fadblock](https://github.com/0x48piraj/fadblock) or [Disable YT Video Ads](https://greasyfork.org/en/scripts/32626) - YouTube Adblockers
+* [ADSpeedUp](https://www.adspeedup.com/) - Speed Up YouTube Ads instead of Skipping to Support Creators / [Discord](https://discord.com/invite/ZxTGFFDX5y)
+
+***
+
+## ▷ YouTube Downloaders
+
+* 🌐 **[YT-DL GUI Index](https://www.reddit.com/r/youtubedl/wiki/info-guis)** - List of YT-DL GUIs
+* ↪️ **[Multi-Site Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video-tools#wiki_.25BA_video_download)**
+* ⭐ **[YT-DLP](https://github.com/yt-dlp/yt-dlp)** or [YTDL-PATCHED](https://github.com/ytdl-patched/ytdl-patched) - YouTube Downloader / [Discord](https://discord.gg/H5MNcFW63r) / [Commands](https://github.com/TheFrenchGhosty/TheFrenchGhostys-Ultimate-YouTube-DL-Scripts-Collection)
+* ⭐ **[Stacher](https://stacher.io/)** - YT-DL GUI
+* ⭐ **[Y232](https://y232.live/)** - YT-DL WebUI
+* [yt-dlp-gui](https://github.com/kannagi0303/yt-dlp-gui) - YT-DL GUI / [Easy Installer](https://github.com/kazukikasama/youtube-dlp-gui-installer)
+* [Gropple](https://github.com/tardisx/gropple) - YT-DL GUI
+* [Tartube](https://tartube.sourceforge.io/) - YT-DL GUI
+* [media-downloader](https://github.com/mhogomchungu/media-downloader) - YT-DL GUI
+* [ezytdl](https://github.com/sylviiu/ezytdl) - YT-DL GUI
+* [ytdlp-interface](https://github.com/ErrorFlynn/ytdlp-interface) - YT-DL GUI
+* [youtube-dl-gui](https://github.com/oleksis/youtube-dl-gui), [2](https://github.com/StefanLobbenmeier/youtube-dl-gui) - YT-DL GUI
+* [Videomass](https://jeanslack.github.io/Videomass/) - YT-DL / FFmpeg GUI
+* [Hitomi Downloader](https://github.com/KurtBestor/Hitomi-Downloader) - YT-DL GUI
+* [ytDownloader](https://ytdn.netlify.app/) - YT-DL GUI
+* [Cube YouTube Downloader](https://github.com/database64128/youtube-dl-wpf) - WPF YT-DL GUI
+* [metube](https://github.com/alexta69/metube) or [yt-dlp-web-ui](https://github.com/marcopeocchi/yt-dlp-web-ui) - Self-Hosted YT-DL WebUIs
+* [Poke](https://poketube.fun/download) - YouTube Downloader / [Discord](https://discord.gg/Kqdn8CHacP)
+* [YoutubeDL-Material](https://github.com/Tzahi12345/YoutubeDL-Material) - YouTube Downloader
+* [YoutubeDownloader](https://github.com/Tyrrrz/YoutubeDownloader) - YouTube Downloader
+* [YouTubePlaylist](https://youtubeplaylist.cc/) - Playlist Downloader
+* [YouTube Qualities Size](https://greasyfork.org/en/scripts/404953-youtube-qualities-size) - Show YouTube File Sizes 
+* [totalsize](https://pypi.org/project/totalsize/) - Calculate Size of All Videos in a Playlist
+* [YouTube Thumbnail Grabber](https://boingboing.net/features/getthumbs), [YTI](https://youtubethumbnailimage.com/), [thumbnailsave](https://thumbnailsave.com/), [thumbnail-download](https://thumbnail-download.com/) or [Get YT Thumbnail](https://www.get-youtube-thumbnail.com/) - Download YouTube Thumbnails
+* [YouTube Comment Downloader](https://github.com/egbertbouman/youtube-comment-downloader) - YouTube Comment Download Script
+* [DL YouTube Videos without Extensions](https://onehack.us/t/how-to-download-youtube-videos-without-external-tools-or-extensions/)
+
+***
+
+## ▷ YouTube Frontends
+
+* ⭐ **[Poke](https://poketube.fun/)** - YouTube Frontend / [Discord](https://discord.gg/Kqdn8CHacP)
+* ⭐ **[FreeTube](https://freetubeapp.io/)** - YouTube Client / [GitHub](https://github.com/FreeTubeApp/FreeTube)
+* ⭐ **[Invidious](https://invidious.io/)** - YouTube Frontend
+* ⭐ **Invidious Tools** - [Instances](https://api.invidious.io/), [2](https://redirect.invidious.io/) / [Alt Frontend](https://github.com/bocchilorenzo/invuedious) / [TUI](https://github.com/darkhz/invidtui)
+* [YouTube Notes](https://instadeq.com/youtube-notes/) - YouTube Note-Taking Frontend
+* [CloudTube](https://tube.cadence.moe/) - YouTube Frontend
+* [ViewTube](https://viewtube.wiki/) - YouTube Frontend
+* [Piped](https://github.com/TeamPiped/Piped) / [2](https://piped.kavin.rocks/) / [3](https://piped-material.১.net/) - YouTube Frontend
+* [PSTube](https://github.com/prateekmedia/pstube) - YouTube Frontend
+* [Youtube-local](https://github.com/user234683/youtube-local) - YouTube Frontend
+* [YouT-ube](https://www.yout-ube.com/) - YouTube Frontend
+* [yt.d0.cx](https://yt.d0.cx/) - YouTube Frontend
+
+***
+
+## ▷ YouTube Customization
+
+* ⭐ **[Enhancer for YT](https://www.mrfdev.com/enhancer-for-youtube)**, [ImprovedTube](https://improvedtube.com/), [Nova YouTube](https://greasyfork.org/en/scripts/433360), [Tweaks for YT](https://inzk.dev/tweaks-for-youtube/) or [Magic Actions](https://www.chromeactions.com/) - YouTube Enhancement Extensions
+* ⭐ **[ReturnYouTubeDislikes](https://returnyoutubedislike.com/)** - View YouTube Dislikes / [Web App](https://haeri.github.io/youtube-dislike-viewer/) / [Discord](https://discord.com/invite/mYnESY4Md5)
+* ⭐ **[Unhook](https://unhook.app/)**, [Untrap](https://untrap.app/), [Less Addictive YouTube](https://github.com/AlexisDrain/Less-Addictive-YouTube) or [YourTube](https://github.com/rahgurung/YourTube) - Distraction-Free YouTube
+* ⭐ **[DeArrow](https://dearrow.ajay.app/)** or [Clickbait Remover](https://github.com/pietervanheijningen/clickbait-remover-for-youtube) - Reduce Sensationalism / Clickbait
+* [Thumbnail Rating Bar](https://github.com/elliotwaite/thumbnail-rating-bar-for-youtube) - Display Like / Dislike Ratio on Thumbnails
+* [youtube-like-dislike-shortcut](https://github.com/avi12/youtube-like-dislike-shortcut) - Video Like / Dislike Hotkeys
+* [YT Not Interested Button on Hover](https://greasyfork.org/en/scripts/396936-yt-not-interested-in-one-click) - Easily Display Not Interested Button
+* [Focused YouTube](https://github.com/makaroni4/focused_youtube) - Minimalist YouTube
+* [YouTube Redux](https://github.com/omnidevZero/YouTubeRedux) or [Cosmic Cat](https://github.com/cosmic-cat-yt/Cosmic-Cat) - Restore Classic YouTube Layout
+* [/r/OldYouTubeLayout](https://www.reddit.com/r/oldyoutubelayout/) - Classic YouTube Layout Subreddit
+* [Disable Rounded Buttons](https://greasyfork.org/en/scripts/453802) - Disable Rounded YouTube Buttons
+* [YouTube WideScreen](https://greasyfork.org/en/scripts/409893) - Improved YouTube Cinema Mode
+* [Ultrawidify](https://github.com/tamius-han/ultrawidify) - Fix YouTube Aspect Ratio
+* [YouTube: Audio Only](https://greasyfork.org/en/scripts/484611) or [Audio Only YouTube](https://chromewebstore.google.com/detail/audio-only-youtube/pkocpiliahoaohbolmkelakpiphnllog) - Audio Only YouTube
+* [Feed Remover](https://github.com/kwkr/feed-remover) - Remove YouTube Homepage Feed
+* [FreshTube](https://porjo.github.io/freshtube/) - Display Latest Videos from Subscriptions
+* [Upvote Anywhere](https://github.com/z0ccc/comet) - Replace YouTube Comments with Reddit Comments
+* [Timestamped YouTube Comments](https://chromewebstore.google.com/detail/timestamped-youtube-comme/gnpppldhfbbagiaalkddddajadhlgofm) - View Timestamped Comments
+* [TabView YouTube](https://greasyfork.org/en/scripts/428651) - View Comments / Info in Tab View
+* [Super Fast Chat](https://greasyfork.org/en/scripts/469878) - YouTube Chat Performance Enhancer
+* [Ytfzf](https://github.com/pystardust/ytfzf) or [YewTube](https://github.com/mps-youtube/yewtube) - Terminal YouTube Players
+
+***
+
+## ▷ YouTube Search
+
+* ⭐ **[Favoree](https://www.favoree.io/)** - Search / Discover YouTube Channels
+* ⭐ **[YouTube Advanced Search](https://playlists.at/youtube/search/)** - Search Engine
+* ⭐ **[Filmot](https://filmot.com/)** or [ytks](https://ytks.app/) - Search within YouTube Transcripts / [Firefox](https://addons.mozilla.org/en-US/firefox/addon/youtube-captions-search/) / [Chrome](https://chromewebstore.google.com/detail/youtube-captions-search/kimbeggjgnmckoikpckibeoaocafcpbg)
+* [YouTube Search Fixer Suite](https://addons.mozilla.org/en-US/firefox/addon/youtube-suite-search-fixer/) - Fix YouTube Search / Declutter Homepage
+* [YouTube Search Grid View](https://greasyfork.org/en/scripts/481422-youtube-search-results-in-grid-view) - View Results in Grid
+* [Channel Crawler](https://channelcrawler.com/eng) or [YT-FTS](https://github.com/NotJoeMartinez/yt-fts) - Channel Search Tools
+* [Comment Viewer](https://commentviewer.com/), [Hadzy](https://hadzy.com/), [YCS](https://chromewebstore.google.com/detail/ycs-youtube-comment-searc/pmfhcilikeembgbiadjiojgfgcfbcoaaen) or [YCF](https://ytcomment.kmcat.uk/) - YouTube Comment Search
+* [petittube](https://petittube.com/) - Find YouTube Videos with >100 Views
+* [YouTube-Geofind](https://mattw.io/youtube-geofind/location) - Find Geotagged Videos
+* [QuiteAPlaylist](https://quiteaplaylist.com/) - Find Deleted YouTube Videos
+* [Unlisted Videos](https://unlistedvideos.com/) - Watch / Submit Unlisted YouTube Videos
+* [Tubeup](https://github.com/bibanon/tubeup) or [yark](https://github.com/Owez/yark) - Archive YouTube Videos and Playlists
+* [TubeArchivist](https://www.tubearchivist.com/) - Self-hosted YouTube Media Server / [GitHub](https://github.com/tubearchivist/tubearchivist)
+* [Hobune](https://hobune.stream/), [FindYouTubeVideo](https://findyoutubevideo.thetechrobo.ca/) or [youtubecrawl](https://archive.org/details/youtubecrawl) - YouTube Video Archives
+
+***
+
+# ► Twitch Tools
+
+* 🌐 **[Twitch Database](https://twitchdatabase.com/)** or [SullyGnome](https://sullygnome.com/) - Twitch Tool Indexes
+* 🌐 **[Twitch Extensions](https://dashboard.twitch.tv/extensions/categories/43f48606-8b91-4149-94e6-02def012c79f)** - Twitch Extensions Index
+* ⭐ **[7TV](https://7tv.app/)**, [BetterTTV](https://betterttv.com/) or [FrankerFacez](https://www.frankerfacez.com/) - Twitch Enhancement Extensions
+* ⭐ **[TwitchNoSub](https://github.com/besuper/TwitchNoSub)** - Watch Sub Only Twitch Videos
+* ⭐ **[Stream Scheme](https://www.streamscheme.com/)** - Livestreaming Guides / Resources
+* [Gumbo](https://github.com/seldszar/gumbo) or [Twitch-Live](https://github.com/yungsamd17/Twitch-Live) - Twitch Stream Trackers
+* [HypeTrigger](https://hypetrigger.io/) - Automatically Create Clips
+* [VODarchive](https://vodarchive.com/) or [TwitchArchive](https://twitcharchive.com/)- Twitch Video Archives
+* [Twitch Previews](https://github.com/MarkM-dev/Previews-client) or [Previews](https://previews-app.com/) - Twitch Video Previews
+* [Unwanted Twitch](https://github.com/kwaschny/unwanted-twitch) - Hide Twitch Categories / Channels
+* [vTwitch](https://vtwitch.com/) - Show Chat Below Player
+* [Featured.chat](https://featured.chat/) - Twitch Chat Manager
+* [JChat](https://www.giambaj.it/twitch/jchat/) - Show Twitch Chat on Screen
+* [Hide-Twitch-Chat-Users](https://github.com/mikeyaworski/Hide-Twitch-Chat-Users) - Hide Twitch Chat Users
+* [TwitchChatDanmaku](https://github.com/wheatup/TwitchChatDanmaku), [Transparent-Twitch-Chat](https://github.com/chylex/Transparent-Twitch-Chat) or [Transparent Twitch Chat Overlay](https://github.com/baffler/Transparent-Twitch-Chat-Overlay) - Transparent Twitch Chat
+* [Screenshot Twitch](https://github.com/eramdam/userscripts/blob/main/Screenshot%20Twitch.user.js) - Add Screenshot Button to Twitch
+* [Auto Twitch Drops](https://chromewebstore.google.com/detail/automatic-twitch-drops-mo/kfhgpagdjjoieckminnmigmpeclkdmjm) - Twitch Drop Notifications
+* [Auto-Claim-Twitch-Channel-Points](https://github.com/mikeyaworski/Auto-Claim-Twitch-Channel-Points) or [TTVDropBot](https://github.com/Giingu/Enhanced-TTVDropBot) - Auto Claim Twitch Points
+* [Twitch Drops Miner](https://github.com/DevilXD/TwitchDropsMiner) - Auto Claim Twitch Drops
+* [TwitchRSS](https://twitchrss.appspot.com/) - Twitch RSS Generator
+* [TTV Favorites](https://github.com/jc9108/ttv-favorites) - Add Channel Favorites
+* [Streamlink Twitch GUI](https://github.com/streamlink/streamlink-twitch-gui) - Twitch Browser for Streamlink
+* [get stream](https://pwn.sh/tools/getstream.html) - Extract Twitch URLs
+* [lurker.tv](https://www.lurker.tv/) - Discord Server Based Twitch Stream Recs
+* [Twitch TV OBS Subtitles](https://github.com/stephenlb/twitch-tv-obs-subtitles/) - Add Subtitles to Twitch Stream
+* [StreamLadder](https://streamladder.com/) - Social Media Templates for Twitch Clips
+* [TwitchLeak](https://twitchleak.netlify.app/) - Twitch Top Earners Table
+* [TwitchQuotes](https://www.twitchquotes.com/) - Twitch Copypastas
+* [TwitchEmotes](https://twitchemotes.com/) - Global Twitch Emotes
+* [ChatGuessr](https://chatguessr.com/) - GeoGuessr for Twitch
+* [TwitchInsights](https://twitchinsights.net/), [StreamCharts](https://streamscharts.com/) or [TwitchTracker](https://twitchtracker.com/) - Twitch Stats
+* [Trovo](https://trovo.live/), [Kick](https://kick.com/), [dlive](https://dlive.tv/), [Caffeine](https://www.caffeine.tv/), [Lightspeed](https://lightspeed.tv/) or [Theta](https://www.theta.tv/) - Twitch Alternatives
+* [Ultrawidify](https://github.com/tamius-han/ultrawidify) - Fix Twitch Aspect Ratio
+* [Twitch Status](https://twitchstatus.com/) - Twitch Status Tracking
+
+***
+
+## ▷ Twitch Players
+
+* ⭐ **[Chatterino](https://chatterino.com/)**, [Chatterino Homies](https://chatterinohomies.com/) or [Chatty](https://chatty.github.io/) - Twitch Chat Clients
+* [Orion](https://alamminsalo.github.io/orion/), [Twitch App](https://gitlab.com/twitch-application/application) or [Tress](https://gitlab.com/Ignamarte/tress) - Twitch Desktop Clients
+* [SpeechChat](https://speechchat.com/) - Twitch Text to Speech Client
+* [Twitch Lite](https://thavixt.github.io/twitch-lite/) - Lightweight Twitch Webplayer
+* [Walrus](https://joinwalrus.tv/) - Make Twitch Watch Parties
+* [MuliTwitch.tv](https://multitwitch.tv/), [MultiTwitch.co](https://multitwitch.co/), [Twitch3D](https://hjjg200.github.io/twitch3d/), [Twitch Replay](https://www.twitch-replay.com/), [Multi](https://multi.raredrop.co/), [MultiStre.am](https://multistre.am/) or [TwitchTheater](https://twitchtheater.tv/) - Sync Twitch Videos w/ Friends / Mult-Stream
+* [Twitchls](https://twitchls.com/) - HTML5 Twitch Stream Player
+* [nobody.live](https://nobody.live/) or [Twitch Roulette](https://twitchroulette.net/) - Random Stream Roulette
+* [Alternate Player for Twitch.tv](https://pastebin.com/Z7NWxSfA) - Alternative Twitch Player
+* [Twitch Lurker](https://github.com/mikeyaworski/Twitch-Lurker) - Twitch Stream Auto-Open
+
+***
+
+## ▷ Twitch Adblockers
+
+* 🌐 **[TwitchAdSolutions](https://github.com/pixeltris/TwitchAdSolutions)** - Solutions / Scripts for Blocking Twitch Ads
+* ⭐ **[PurpleAdblock](https://addons.mozilla.org/en-US/firefox/addon/purpleadblock/)** - Twitch Adblocker
+* ⭐ **[TTV LOL PRO](https://github.com/younesaassila/ttv-lol-pro)** - Twitch Adblocker
+* [VideoAdBlockForTwitch](https://github.com/cleanlock/VideoAdBlockForTwitch) - Twitch Adblocker
+* [luminous-ttv](https://github.com/AlyoshaVasilieva/luminous-ttv) - Twitch Adblocker
+* [Adblocker for Twitch](https://microsoftedge.microsoft.com/addons/detail/adblocker-for-twitch%E2%84%A2/glgpmlmjlaljaddimbgekaepkgbojjdn) - Edge Twitch Adblocker
+* [PurpleTV](https://purpletv.aeong.win/) / [Alpha](https://t.me/pubTwAlpha) - Ad Free Twitch APK
+
+***
+
+## ▷ Twitch Downloaders
+
+* ⭐ **[Clipr](https://clipr.xyz/)**, [ClipsGameLab](https://clipsgamelab.github.io/#/download), [Twiclips](https://twiclips.com/) or [clipsey](https://clipsey.com/) - Video Downloaders
+* [twitch-dl](https://github.com/ihabunek/twitch-dl), [twitch-downloader](https://github.com/jybp/twitch-downloader) or [Twitch clips downloader](https://github.com/TorbenCapiau/Twitch-Clips-Downloader) - CLI Video Downloaders
+* [Twitch Downloader](https://github.com/lay295/TwitchDownloader) or [TwitchLink](https://twitchlink.github.io/) - Desktop Video Downloaders
+* [TwitchRecover](https://github.com/TwitchRecover/TwitchRecover) - Recover / View / Download Twitch Videos
+* [Twitch-Chat-Downloader](https://github.com/PetterKraabol/Twitch-Chat-Downloader) - Download Twitch Chat Messages
+
+***
+
+# ► Twitter Tools
+
+* ⭐ **[Trends24](https://trends24.in/)** or [GetDayTrends](https://getdaytrends.com/) - Trending Hashtags Trackers
+* ⭐ **[/r/Twitter](https://reddit.com/r/Twitter)** - Twitter Subreddit
+* [Bluesky](https://bsky.app/) - Federated Twitter Alt / [App Directory](https://docs.bsky.app/showcase)
+* [TumblThree](https://tumblthreeapp.github.io/TumblThree/) or [Thread Safe](https://github.com/dkaslovsky/thread-safe) - Twitter / Tumblr Backup Tools
+* [Typefully](https://typefully.com/) - Schedule Tweets
+* [Chirr App](https://getchirrapp.com/) - Turn Articles into Twitter Threads / [Firefox](https://addons.mozilla.org/en-US/firefox/addon/chirr-app/) / [Chrome](https://chromewebstore.google.com/detail/chirr-app/cmbconaimdngicdnbpjnjocbpkdpmfkg)
+* [OneMillionTweetMap](https://onemilliontweetmap.com/) - Real-Time Tweet Map 
+* [Klear](https://klear.com/free-tools/find-twitter-influencers) - Find Influencers 
+* [FollowerWonk](https://followerwonk.com/) - Find / Analyze / Optimize Followers
+* [TwitterMediaHarvest](https://github.com/EltonChou/TwitterMediaHarvest) or [InThisTweet](https://inthistweet.app/) - Twitter Media Downloader
+* [GetVideoBot](https://twitsave.com/), [DownloadTwitterVideo](https://www.downloadtwittervideo.com/), [TwitterVid](https://twittervid.com/) or [sssTwitter](https://ssstwitter.com/) - Download Twitter Videos
+* [Pikaso](https://twitter.com/pikaso_me) - Twitter Screenshot Bot
+* [memory.lol](https://github.com/travisbrown/memory.lol/) - Twitter Account Archive
+* [Twitter Archive Parser](https://github.com/timhutton/twitter-archive-parser) - Tweet Archiving
+* [Twayback Machine](https://staringispolite.github.io/twayback-machine/) - View Users' Old Tweets
+* [Scoutzen](https://www.scoutzen.com/twitter-lists/search) - Search Twitter Use Lists
+* [Hoaxy](https://hoaxy.osome.iu.edu/) - Twitter Info Spread Data
+* [tinfoleak](https://tinfoleak.com/) - View Your Geosocial Footprint 
+* [Unfollow All](https://chromewebstore.google.com/detail/twitter-unfollow-all/mgehkbclkipppdjiemnhmnledicalkld) - Twitter Unfollower
+* [Fix Twitter Links](https://openuserjs.org/scripts/lucio-martinez/Fix_Twitter_links) - Unshorten Twitter Feed URLs 
+* [Twitter Detector](https://github.com/stilliard/Twitter-detector) - Detect Twitter Link on a Page
+
+***
+
+## ▷ Twitter Customization
+
+* ⭐ **[Eight Dollars](https://github.com/wseagar/eight-dollars)** - Show Twitter Blue vs. Real Verified Users
+* [Control Panel for Twitter](https://jbscript.dev/control-panel-for-twitter) - Twitter Enhancement Extensions
+* [Minimal Twitter](https://typefully.com/minimal-twitter) - Minimal Twitter Themes
+* [OldTwitter](https://github.com/dimdenGD/OldTwitter) - Original Twitter Theme
+* [OldTweetDeck](https://github.com/dimdenGD/OldTweetDeck) - TweetDeck Dashboard
+* [Twitter Plus](https://greasyfork.org/en/scripts/387969) - View Twitter Images in Original Quality
+* [Twitter Demetricator](https://bengrosser.com/projects/twitter-demetricator/) - Remove All Twitter Metrics
+* [Thread Reader App](https://threadreaderapp.com/) - Unroll Twitter Threads / Search
+* [Relink](https://www.relink.page/) - Fix Twitter Link Images
+
+***
+
+# ► Facebook Tools
+
+* ⭐ **[Caprine](https://sindresorhus.com/caprine/)** - Facebook Desktop Messenger / [GitHub](https://github.com/sindresorhus/caprine)
+* ⭐ **[Social Fixer](https://socialfixer.com/)** or [FBPurity](https://www.fbpurity.com/) - Facebook Enhancement Extensions
+* ⭐ **[Facebook Ad Filters](https://www.reddit.com/r/uBlockOrigin/wiki/solutions#wiki_facebook)** - Facebook Filters
+* [Social Tools](https://chromewebstore.google.com/detail/social-tools/llbdoljkknpjgfcnbnoiehjcgancpjmd) - Block "Sending" & "Seen" Facebook Chat Indicators 
+* [Messenger Dark Theme](https://github.com/jerry1100/messenger-dark-theme) or [Charcoal Dark Mode](https://chromewebstore.google.com/detail/charcoal-dark-mode-for-me/aaekanoannlhnajolbijaoflfhikcgng) - Facebook Messenger Dark Mode
+* [FDown](https://fdown.net/) or [GetFVid](https://www.getfvid.com/) - Facebook Video Downloaders
+* [Facebook Matrix](https://plessas.net/facebookmatrix) - Facebook Search Formulas 
+* [Graph.tips](https://graph.tips/beta/) - Advanced Facebook Search Tool
+* [WhoPostedWhat](https://whopostedwhat.com/) - Facebook Post Search
+* [Color Themes](https://chromewebstore.google.com/detail/color-themes-for-facebook/oohbdcphbnpnoohnbddhcfplalanfbmm), [FB.Zone](https://fb.zone/) or [Color Changer](https://chromewebstore.google.com/detail/color-changer-for-faceboo/blfkmmfngackeejimehjkmendglnabnm) - Color Themes for Facebook
+* [Kill Fbclid](https://chromewebstore.google.com/detail/kill-fbclid/jlmdkcaiejonohbmkgickmkgbpceokmn) or [Remove FBclid](https://chromewebstore.google.com/detail/remove-fbclid-and-utm/ehkdoijaaigomfliimepliikhjkoipob) - Removes fbclid and utm_ query parameters in URLs
+* [News Feed Eradicator](https://west.io/news-feed-eradicator/) - Hide Facebook News Feed
+* [Lookup ID](https://lookup-id.com/) - Find Facebook ID
+
+***
+
+# ► Instagram Tools
+
+* 🌐 **[Instagram Tools](https://www.aware-online.com/en/osint-tools/instagram-tools/)** - Multiple Tools
+* 🌐 **[Instagram Search Tools](https://www.aware-online.com/en/osint-tools/instagram-search-tool/)** - Search Tool
+* ⭐ **[Bypass Login](https://greasyfork.org/en/scripts/420604)** - Bypass Instagram Login Redirects
+* [InstaFix](https://ddinstagram.com/) - Fix Instagram Embeds on Discord
+* [Proxigram](https://codeberg.org/ThePenguinDev/Proxigram) or [Imginn](https://imginn.com) - Instagram Frontends
+* [imgsed](https://imgsed.com/), [Picuki](https://www.picuki.com/), [InstaNavigation](https://instanavigation.com/), [Instafreeview](https://instafreeview.com/), [profile-picture-viewer](https://github.com/Ademking/profile-picture-viewer), [Dumpor](https://dumpoir.com/) or [GreatFon](https://greatfon.com/) - Instagram Viewers
+* [StoriesDown](https://storiesdown.com/), [instasaved](https://instasaved.net/en) or [insta-stories-viewer](https://insta-stories-viewer.com/) - Story Downloaders
+* [SaveFromWeb](https://www.savefromweb.com/), [Downloadgram](https://downloadgram.org/) - Video / Picture / Story Downloaders 
+* [Picnob](https://www.picnob.com/) or [Instagram PHP Scraper](https://github.com/postaddictme/instagram-php-scraper) - Picture / Story Downloaders
+* [ThumbTube](https://thumbtube.com/download-instagram-photos-videos) or [scraper-instagram-gui-desktop](https://git.kaki87.net/KaKi87/scraper-instagram-gui-desktop), [Instaloader](https://github.com/instaloader/instaloader) or [instapick](https://www.instapick.net/) - Picture / Video Downloader
+* [InstaLoader](https://instaloader.github.io/) or [PixWox](https://www.pixwox.com/) - Picture Downloaders
+* [Weynstag](https://www.google.com/amp/s/weynstag.com/amp.php/) - Video Downloader
+* [Resizegram](https://resizegram.com/) - Resize Videos
+* [Instagram Video Control](https://github.com/Arcus92/instagram-video-control/) - Video Controls
+* [Instagram Download Button](https://greasyfork.org/en/scripts/406535-instagram-download-button) - Add DL Links to Instagram
+* [otzberg](https://www.otzberg.net/iguserid/index.php) or [Find-User-ID](https://codeofaninja.com/tools/find-instagram-user-id/) - ID Finder
+* [Image Counter](https://openuserjs.org/scripts/darkred/Instagram_-_visible_images_counter) - Count Page Images
+* [InstaAddict](https://github.com/Androz2091/instaddict) - Instagram Addiction Test
+
+***
+
+# ► Fediverse Tools
+
+* 🌐 **[Fediverse.Party](https://fediverse.party/)** - Fediverse Software Index
+* ⭐ **[Fediverse Observer](https://fediverse.observer/)** - Fediverse Instances
+* [FediDB](https://fedidb.org/) or [The Federation](https://the-federation.info/) - Network Statistics
+* [Fedi.Tips](https://fedi.tips/) - Fediverse Guide
+* [Fedi.Garden](https://fedi.garden/) - Curated User Directory
+* [Fediverse People Directory](https://fediverse.info/explore/people) - Self-Submitted User Directory
+* [FediverseRedirect](https://github.com/zacharee/MastodonRedirect) - Frontend Redirect
+* [Bridgy Fed](https://fed.brid.gy/) - Fediverse Bridge
+* [PodcastAP](https://podcastap.com/) - Podcast Feed Bridge
+* [The Fediverse Report](https://fediversereport.com/) - Fediverse News
+* [FediBuzz](https://fedi.buzz/in/en) - Fediverse Trends
+* [Sepia Search](https://sepiasearch.org/) - PeerTube Search
+
+***
+
+## ▷ Mastodon Tools
+
+* ⭐ **[instances.social](https://instances.social/)** or [Mastodon Near Me](http://mastodon-near.me/) - Mastodon Instances
+* ⭐ **[Mastodon Apps](https://joinmastodon.org/apps)** - Mastodon Client List
+* [MastoVue](https://mastovue.glitch.me/) or [FediWall](https://fediwall.social/) - View Public Timelines / Hashtags
+* [Followgraph](https://followgraph.vercel.app/) or [StreetPass](https://streetpass.social/) - Find Mastodon Users
+* [western.social](https://western.social/) - User Search
+* [Tootfinder](https://www.tootfinder.ch/) - Opt-In Full Text Search
+* [Mastodon Scheduler](https://scheduler.mastodon.tools/) or [FediPlan](https://plan.fedilab.app/) - Schedule Posts
+* [Mastodon List Manager](https://www.mastodonlistmanager.org/main) or [Mastodon Lists Manager](https://mastodon-lists-manager.huey.xyz/) - Bulk List Editors
+* [Mastodon Share Bookmarklet Creator](https://eai04191.github.io/mastodon-share-let-maker/index.html) - Quick Share Bookmarklet
+* [Mastodon Embed Timeline](https://gitlab.com/idotj/mastodon-embed-timeline) or [Mastofeed](https://mastofeed.com/) - Embedded Mastodon Feeds
+* [Cheap Bots, Toot Sweet!](https://cheapbotstootsweet.com/) - Create Bots
+* [emojos.in](https://emojos.in/) - Mastodon Custom Emoji Lists
+
+***
+
+## ▷ Lemmy Tools
+
+* ⭐ **[Lemmy Explorer](https://lemmyverse.net/)**, [Feddit Community Browser](https://browse.feddit.de/) or [Awesome Lemmy Instances](https://github.com/maltfield/awesome-lemmy-instances) - Lemmy Instances
+* ⭐ **[Lemmy Apps](https://join-lemmy.org/apps)** - Lemmy Client List
+* ⭐ **[Divisions by zero](https://lemmy.dbzer0.com/)** - Piracy Focused Instance
+* [Fediverser](https://portal.alien.top/) - Reddit to Lemmy Community Auto-Sync
+* [LemmyTools](https://github.com/howdy-tsc/LemmyTools) - Lemmy Improvement Extension
+
+***
+
+# ► 4chan Tools
+
+* ⭐ **[AnyChans](https://anychans.github.io/)** or [LuckyChan](https://luckychan.app/) - 4chan Web Clients
+* ⭐ **[4chan X](https://www.4chan-x.net/)**, [SpookyX](https://github.com/Fiddlekins/SpookyX), [4Chan XT](https://github.com/TuxedoTako/4chan-xt) or [Dollchan](https://dollchan.net/) - Enhancement Extensions
+* [Lurka](https://github.com/AdamSalma/Lurka) - Desktop Client
+* [RedditChan](https://reddit-chan.vercel.app/) - Reddit Style 4chan Web Client
+* [4chanCode](https://4chancode.org/) - Code Style 4chan Web Client
+* [4Webm](https://www.4webm.org/) - Load All Webm Videos in 4Chan Thread
+* [4stats](https://4stats.io/) - 4chan Board / Thread Stats
+* [Mass Reply](https://github.com/HamletDuFromage/4chan-mass-reply) or [Reply All](https://gitlab.com/lucadou/4chan-reply-all) - Mass Reply on 4chan
+* [Anon Files Names](https://greasyfork.org/en/scripts/435220) - Anonymizes File Names
+* [4Chan GhostPostMixer](https://github.com/g-gundam/4chan-ghostpostmixer) - Interleave Deleted Posts from Archives
+* [Tripgen](https://orph.link/tripgen) - Imageboard Trip Code Generator 
+* [4Chan Captcha Solver](https://github.com/drunohazarb/4chan-captcha-solver) - Auto Captcha Solvers
+* [Bypass Derefer](https://greasyfork.org/en/scripts/451259) - Remove Link Derefer
+* [Extra Flags for 4chan](https://gitlab.com/flagtism/Extra-Flags-for-4chan) - Add More Flags to 4chan
+* [ss21](https://github.com/saxamaphone69/ss21), [OneeChan](https://github.com/KevinParnell/OneeChan) or [4cheddit](https://greasyfork.org/en/scripts/16672) - 4chan Themes
+
+***
+
+## ▷ 4chan Archives
+
+* ⭐ **[boards.4channel](https://boards.4channel.org/search)**, [2](https://boards.4chan.org/search) - 4chan Archives
+* [4chanSearch](https://4chansearch.com/) or [4search](https://4search.neocities.org/) - Search 4chan Archives
+* [Oldfriend Archive](https://old.sage.moe/) - 2004 - 2014 Archive
+* [Hayden Ultra](https://ultra.gondola.pics/) - 2018-2023 Archive
+* [Ten Billion](https://archive.org/details/4chan_threads_archive_10_billion) or [4Museum](https://4museum.neocities.org/) - 2006 - 2008 Archive
+* [4GBs of 4chan Threads](https://archive.org/details/4chan-threads-2009-2012) - 2009 - 2012 Archive
+* [Archive.4plebs](https://archive.4plebs.org/) - 2013 - 2023 Archive
+* [BibAnon](https://vyrd.bibanon.org/) - Vyrd's Archive
+* [Yotsuba Catalog](https://catalog.neet.tv/) - Yotsuba Archive
+* [Sup/tg/](https://suptg.thisisnotatrueending.com/), [arch.b4k](https://arch.b4k.co/), [palanq](https://archive.palanq.win/), [desuarchive](https://desuarchive.org/) or [archived.moe](https://archived.moe/) / [2](https://thebarchive.com/) - Misc 4chan Archives
+
+***
+
+# ► Blogging Tools
+
+* [Telescope](https://telescope.ac/) - Publishing Platform
+* [Arbital](https://arbital.com/) - Hybrid Blogging / Wiki Platform
+* [Haven](https://havenweb.org/) or [WriteFreely](https://writefreely.org/) - Self-hosted Blogging Platforms
+* [Multiverse](https://multiverse.plus/) - Make Highly Customizable Blogs
+* [Bear Blog](https://bearblog.dev/), [Mataroa](https://mataroa.blog/), or [smol.pub](https://smol.pub/) / [Key](https://m15o.ichi.city/smolpub/key-request.html) - Minimalist Blogging Platforms
+* [Notepin](https://notepin.co/) - Anonymous Blogging Platform
+* [Zonelets](https://zonelets.net/) - Static Blog Template
+* [twtxt](https://github.com/buckket/twtxt) - Decentralized Minimalist Microblogging Service
+* [Emanates Docs](https://emanates.deepjyoti30.dev/) - Make GitHub-Based Blogs
+* [You Don't Need WP](https://www.youdontneedwp.com/) - Make Blogs with Google Docs
+* [CoverView](https://coverview.vercel.app/) - Blog Banner Creator
