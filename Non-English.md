@@ -1754,7 +1754,6 @@
 
 * [BiluTV](https://bilutv.link/) - Movies / TV / Anime
 * [MotChill](https://motchilli.vip/) - Movies / TV
-* [PhimMoi](https://phimmoiiii.net/) - Movies / TV
 * [Danet](https://danet.vn/) - Movies / TV
 * [XemPhim](https://xemphim.app/) - Movies / TV
 * [Redphim](https://redphim.com/) - Movies / TV
