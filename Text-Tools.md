@@ -6,6 +6,7 @@
 
 # ► Text Tools
 
+* 🌐 **[ASR Leaderboard](https://huggingface.co/spaces/hf-audio/open_asr_leaderboard)** - Speech to Text Leaderboard
 * ↪️ **[Image to Text](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/img-tools#wiki_.25B7_image_to_text_.2F_ocr)**
 * ↪️ **[Text to Speech](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/ai#wiki_.25B7_text_to_speech)**
 * ⭐ **[RambleFix](https://ramblefix.com/)**, [SpeechTexter](https://www.speechtexter.com/), [SpeechNotes](https://speechnotes.co/), [LilySpeech](https://lilyspeech.com/), [VoiceToText](https://voicetotext.org/), [TalkTyper](https://talktyper.com/), [Dictation](https://dictation.io/speech) or [VoiceNotebook](https://voicenotebook.com/) - Speech to Text
@@ -67,24 +68,14 @@
 * [Crow Translate](https://crow-translate.github.io/) or [Argos](https://github.com/argosopentech/argos-translate) - Translation Apps
 * [Translate Shell](https://www.soimort.org/translate-shell/) - Translation CLI / [GitHub](https://github.com/soimort/translate-shell)
 * [OnlineDocTranslator](https://www.onlinedoctranslator.com/en/) - Document Translator
-* [LegaleseDecoder](https://legalesedecoder.com/free-legal-document-to-plain-english-translator/) - Legal Document Translator
 * [Matecat](https://www.matecat.com) - Online Translation Editor 
-* [Qt Linguist](https://github.com/lelegard/qtlinguist-installers) or [Eazy Po](http://www.eazypo.ca) - Localization Apps
-* [japReader](https://github.com/marisukukise/japReader) - Japanese Text Translator
-* [LyricsTranslate](https://lyricstranslate.com/) - Lyric Translator
 * [LingoJam](https://lingojam.com/) - Create Translator
-* [Translator++](https://dreamsavior.net/translator-the-introduction/) - Automatic Translator / Editor
+* [Translator++](https://www.patreon.com/collection/13346) - Automatic Translator / Editor
 * [Renpy Translator](https://github.com/anonymousException/renpy-translator) or [Renpy Editor](https://github.com/anonymousException/renpy-runtime-editor) - Ren'py Automatic Translator / Editor
-* [Translate Large PDFs](https://rentry.co/97nqn) - Large PDF Translation Guide
 * [Poedit](https://poedit.net/) - Translation Editor
 * [OmegaT](https://omegat.org/) - Translation Memory Tool
-* [Translate-Images](https://translate-image.com/) - Translate Image Text
-* [FastHub](https://fasthub.net/) - Text to Speech Translation Tool
-* [ASR Leaderboard](https://huggingface.co/spaces/hf-audio/open_asr_leaderboard) - Speech Recognition AI Leaderboard
-* [Useless-Translator](https://vcjhwebdev.github.io/useless-translator/), [Morsecode World](https://morsecode.world/) or [MorseDecoder](https://morsedecoder.com/) - Morse Code / Binary Translators
-* [The Pirate Translator](https://pirate.monkeyness.com/translate) - Translate Text to Pirate
+* [Morsecode World](https://morsecode.world/) or [MorseDecoder](https://morsedecoder.com/) - Morse Code / Binary Translators
 * [Emojify](https://madelinemiller.dev/apps/emojify/) - Emojify Text
-* [typ3r](https://typ3r.aavi.me/) - tRaNSlAtE tEXT lik3 THiS
 * [Papago](https://papago.naver.com/)
 * [Libretranslate](https://libretranslate.com/) / [2](https://github.com/LibreTranslate/LibreTranslate) 
 * [Translate.com](https://www.translate.com/)
@@ -157,7 +148,6 @@
 * [EmojiRequests](https://emojirequest.com/) - Custom User-Made Emojis
 * [Cult of the Party Parrot](https://cultofthepartyparrot.com/) - Party Parrot Emojis
 * [Pepe Server Archive](https://github.com/Overimagine1/pepe-server-archive) - Pepe Emojis
-* [MySmiles](http://mysmilies.com/) or [MazeGuy](https://www.mazeguy.net/smilies.html) - Oldschool Emojis
 
 ***
 
@@ -168,7 +158,6 @@
 * [Unicode Table](https://symbl.cc/)
 * [Copy Paste Dump](https://c.r74n.com/)
 * [Unicode Explorer](https://unicode-explorer.com/)
-* [CopyPasteCharacter](https://copypastecharacter.com/)
 * [HotSymbol](https://www.hotsymbol.com/)
 * [Snskey](https://snskeyboard.com/)
 * [Unilist](https://unilist.raphaelbastide.com/)
@@ -177,9 +166,7 @@
 * [FancySymbol](https://fancysymbol.com/)
 * [Unifoundry](https://unifoundry.com/)
 * [Cool Symbol](https://coolsymbol.com/)
-* [WinCompose](http://wincompose.info/) - Unicode Compose Key / [GitHub](https://github.com/samhocevar/wincompose)
 * [FastEmoji](https://www.fastemoji.com/) or [textfac.es](https://textfac.es/) - Unicode Emojis
-* [BlankText](https://blanktext.net/) - Copy / Paste Blank Spaces
 
 ***
 
@@ -213,7 +200,7 @@
 * ⭐ **Obsidian Tools** - [Resources](https://github.com/kmaasrud/awesome-obsidian) / [Share Notes](https://noteshare.space/) / [Live Sync](https://github.com/vrtmrz/obsidian-livesync) / [Backup](https://github.com/denolehov/obsidian-git) / [ChatGPT Addon](https://github.com/logancyang/obsidian-copilot), [2](https://github.com/vasilecampeanu/obsidian-weaver)
 * ⭐ **[Notion](https://www.notion.so/)**
 * ⭐ **Notion Tools** - [Themes](https://notionthemes.yudax.me/) / [Templates](https://notionpages.com/) / [Resources](https://www.notioneverything.com/notion-world), [2](https://chief-ease-8ab.notion.site/List-of-200-Notion-Resources-e1b46cd365094265bd47b8a2b25bb41e) / [Guide](https://easlo.notion.site/Notion-Beginner-to-Advanced-8a492960b049433289c4a8d362204d20)
-* ⭐ **[Note Garden](https://notegarden.web.app/)**, [2](https://notegarden.io/) - Note-Taking / Auto Courses
+* ⭐ **[Note Garden](https://notegarden.io/)** - Note-Taking / Auto Courses
 * ⭐ **[AnyType](https://anytype.io/)**
 * ⭐ **[Logseq](https://logseq.com/)**
 * [Mochi Cards](https://mochi.cards/) or [Silicon](https://github.com/cu/silicon) - Note-Taking / Study Tools
@@ -228,12 +215,10 @@
 * [Flotes](https://flotes.app/)
 * [Standard Notes](https://standardnotes.com/)
 * [Notes](https://www.get-notes.com/)
-* [Left](https://hundredrabbits.itch.io/left) / [GitHub](https://github.com/hundredrabbits/Left)
 * [BeefText](https://beeftext.org/)
 * [Quill](https://quilljs.com/)
 * [Helix](https://helix-editor.com/) / [GitHub](https://github.com/helix-editor/helix)
 * [BeaverNotes](https://beavernotes.com/)
-* [Textreme](https://ash-k.itch.io/textreme) / [GitHub](https://github.com/cis-ash/TEXTREME)
 * [Tiddly](https://tiddlywiki.com/) / [Desktop](https://github.com/tiddly-gittly/TidGi-Desktop)
 * [Joplin](https://joplinapp.org/) / [Firefox](https://addons.mozilla.org/en-US/firefox/addon/joplin-web-clipper/) / [Chrome](https://chromewebstore.google.com/detail/joplin-web-clipper/alofnhikmmkdbbbgpnglcpdollgjjfeken-GB)
 * [TinyList](https://tinylist.app/)
@@ -241,14 +226,11 @@
 * [SilentNotes](https://www.martinstoeckli.ch/silentnotes/) / [GitHub](https://github.com/martinstoeckli/SilentNotes)
 * [QOwnNotes](https://www.qownnotes.org/)
 * [Zim Wiki](https://zim-wiki.org/)
-* [Laverna](https://laverna.cc/)
 * [FastNotes](https://fastedit.frozenassassine.de/)
 * [Google Keep](https://keep.google.com/)
-* [wikidPad](https://wikidpad.sourceforge.net/)
 * [tomboy-ng](https://github.com/tomboy-notes/tomboy-ng)
 * [FromScratch](https://fromscratch.rocks/)
 * [Notesnook](https://notesnook.com/)
-* [tuxBoard](https://gitlab.com/graele84/tuxboard)
 * [AFFiNE](https://affine.pro/)
 * [Butterfly](https://docs.butterfly.linwood.dev/) / [Discord](https://discord.com/invite/97zFtYN) / [GitHub](https://github.com/LinwoodDev/Butterfly)
 * [UseMemos](https://usememos.com/) 
@@ -489,6 +471,7 @@
 * [Velvetyne](https://velvetyne.fr/)
 * [FontPair](https://www.fontpair.co/fonts)
 * [FontsHub](https://fontshub.pro/)
+* [Fontesk](https://fontesk.com/)
 * [CandyFonts](https://candyfonts.com/)
 * [uncut.wtf](https://uncut.wtf/)
 * [Lost Type Co-op](https://losttype.com/browse/)
