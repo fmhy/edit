@@ -53,9 +53,9 @@
 * ⭐ **[BlackPlayer EX](https://www.revdl.com/blackplayer-ex-apk-download.html/)**
 * ⭐ **[Symphony](https://zyrouge.github.io/symphony/)**
 * [Finamp](https://github.com/jmshrv/finamp) - Jellyfin Music Player
-* [Ultrasonic](https://gitlab.com/ultrasonic/ultrasonic) or [SubTune](https://github.com/TaylorKunZhang/SubTune) - Subsonic Clients
+* [Ultrasonic](https://gitlab.com/ultrasonic/ultrasonic) - Subsonic Clients
 
-[Oto Music](https://play.google.com/store/apps/details?id=com.piyush.music), [Harmonoid](https://harmonoid.com/), [VLC for Android](https://www.videolan.org/vlc/download-android.html), [mpv-android](https://github.com/mpv-android/mpv-android), [Foobar2000](https://www.foobar2000.org/apk), [Vanilla Music](https://vanilla-music.github.io/), [Metro](https://github.com/MuntashirAkon/Metro), [Retro Music Player](https://retromusic.app/), [Auxio](https://github.com/OxygenCobalt/Auxio/), [Apollo Music Player](https://github.com/nuclearfog/Apollo-Music), [Music Player GO](https://github.com/enricocid/Music-Player-GO), [Nyx Music Player](https://play.google.com/store/apps/details?id=com.awedea.nyx), [ExoPlayer](https://github.com/google/ExoPlayer), [mucke](https://github.com/moritz-weber/mucke), [Phonograph Plus](https://github.com/chr56/Phonograph_Plus), [Musicmax](https://github.com/TheMusicmax/Musicmax), [Pulse Music](https://play.google.com/store/apps/details?id=com.hardcodecoder.pulse), [Zen Music Player](https://github.com/pakka-papad/Zen), [Little Music Player](https://martinmimigames.github.io/projects/little-music-player/), [SimpleMP-Compose](https://github.com/lighttigerXIV/SimpleMP-Compose), [BladePlayer](https://github.com/vhaudiquet/BladePlayer)
+[Harmonoid](https://harmonoid.com/), [VLC for Android](https://www.videolan.org/vlc/download-android.html), [mpv-android](https://github.com/mpv-android/mpv-android), [Foobar2000](https://www.foobar2000.org/apk), [Vanilla Music](https://vanilla-music.github.io/), [Retro Music Player](https://retromusic.app/), [Auxio](https://github.com/OxygenCobalt/Auxio/), [Apollo Music Player](https://github.com/nuclearfog/Apollo-Music), [Music Player GO](https://github.com/enricocid/Music-Player-GO), [Nyx Music Player](https://play.google.com/store/apps/details?id=com.awedea.nyx), [ExoPlayer](https://github.com/google/ExoPlayer), [mucke](https://github.com/moritz-weber/mucke), [Phonograph Plus](https://github.com/chr56/Phonograph_Plus), [Musicmax](https://github.com/TheMusicmax/Musicmax), [Pulse Music](https://play.google.com/store/apps/details?id=com.hardcodecoder.pulse), [Zen Music Player](https://github.com/pakka-papad/Zen), [SimpleMP-Compose](https://github.com/lighttigerXIV/SimpleMP-Compose), [BladePlayer](https://github.com/vhaudiquet/BladePlayer)
 
 ***
 
@@ -64,7 +64,7 @@
 * ⭐ **[Firefox](https://www.mozilla.org/)** - [F-Droid](https://f-droid.org/packages/org.mozilla.fennec_fdroid/) / [Focus](https://www.mozilla.org/en-US/firefox/browsers/mobile/focus/)
 * ⭐ **[FFUpdater](https://github.com/Tobi823/ffupdater)** - Multi-Browser Updater
 
-[Iceraven Browser](https://github.com/fork-maintainers/iceraven-browser), [Kiwi Browser](https://kiwibrowser.com/), [Stargon Browser](https://play.google.com/store/apps/details?id=net.onecook.browser), [Ecosia](https://play.google.com/store/apps/details?id=com.ecosia.android), [Via Browser](https://play.google.com/store/apps/details?id=mark.via.gp), [Float Browser](https://play.google.com/store/apps/details?id=com.xpp.floatbrowser), [Fulguris](https://github.com/Slion/Fulguris)
+[Iceraven Browser](https://github.com/fork-maintainers/iceraven-browser), [Kiwi Browser](https://kiwibrowser.com/), [Stargon Browser](https://play.google.com/store/apps/details?id=net.onecook.browser), [Ecosia](https://play.google.com/store/apps/details?id=com.ecosia.android), [Via Browser](https://play.google.com/store/apps/details?id=mark.via.gp), [Fulguris](https://github.com/Slion/Fulguris)
 
 ### Privacy Based
 
@@ -79,7 +79,7 @@
 
 ## Android Note Apps
 
-[Markor](https://fossdroid.com/a/markor.html), [sNotz](https://sunilpaulmathew.github.io/sNotz/), [Google Keep](https://play.google.com/store/apps/details?id=com.google.android.keep), [Bundled Notes](https://play.google.com/store/apps/details?id=com.xaviertobin.noted), [ColorNote](https://www.colornote.com/), [Notion](https://www.notion.so/), [Joplin](https://joplinapp.org/), [Notebook](https://www.zoho.com/notebook/), [UpNote](https://play.google.com/store/apps/details?id=com.getupnote.android), [OneNote](https://support.microsoft.com/en-us/office/microsoft-onenote-for-android-46b4b49d-2bef-4746-9c30-6abb5e20b688), [neutriNote](https://github.com/appml/neutrinote), [Writer Plus](https://play.google.com/store/apps/details?id=co.easy4u.writer), [Orgzly](https://github.com/orgzly-revived/orgzly-android-revived), [Justnote](https://justnote.cc/), [Note to Self](https://play.google.com/store/apps/details?id=com.makenotetoself), [Noto](https://github.com/alialbaali/Noto), [Obsidian](https://obsidian.md/mobile), [Saber](https://github.com/adil192/saber), [Quillpad](https://quillpad.github.io/), [Spooky](https://juniorise.github.io/spooky-mb/), [Moe Memos](https://memos.moe/), [Ara Note](https://github.com/hashemi-hossein/ara-note), [Notally](https://github.com/OmGodse/Notally), [Omni Notes](https://omninotes.app/), [Walling](https://play.google.com/store/apps/details?id=app.walling.mandroid), [Orion](https://play.google.com/store/apps/details?id=com.orion.notein.global), [memos](https://memos.moe/), [NotiNotes](https://github.com/Yanndroid/NotiNotes), [DailyNote](https://play.google.com/store/apps/details?id=com.akapps.dailynote)
+[Markor](https://fossdroid.com/a/markor.html), [sNotz](https://sunilpaulmathew.github.io/sNotz/), [Google Keep](https://play.google.com/store/apps/details?id=com.google.android.keep), [Bundled Notes](https://play.google.com/store/apps/details?id=com.xaviertobin.noted), [ColorNote](https://www.colornote.com/), [Notion](https://www.notion.so/), [Joplin](https://joplinapp.org/), [Notebook](https://www.zoho.com/notebook/), [UpNote](https://play.google.com/store/apps/details?id=com.getupnote.android), [OneNote](https://support.microsoft.com/en-us/office/microsoft-onenote-for-android-46b4b49d-2bef-4746-9c30-6abb5e20b688), [neutriNote](https://github.com/appml/neutrinote), [Writer Plus](https://play.google.com/store/apps/details?id=co.easy4u.writer), [Orgzly](https://github.com/orgzly-revived/orgzly-android-revived), [Justnote](https://justnote.cc/), [Note to Self](https://play.google.com/store/apps/details?id=com.makenotetoself), [Noto](https://github.com/alialbaali/Noto), [Obsidian](https://obsidian.md/mobile), [Saber](https://github.com/saber-notes/saber) (tablets), [Quillpad](https://quillpad.github.io/), [Spooky](https://juniorise.github.io/spooky-mb/), [Moe Memos](https://memos.moe/), [Ara Note](https://github.com/hashemi-hossein/ara-note), [Notally](https://github.com/OmGodse/Notally), [Omni Notes](https://omninotes.app/), [Walling](https://play.google.com/store/apps/details?id=app.walling.mandroid), [Orion](https://play.google.com/store/apps/details?id=com.orion.notein.global), [memos](https://memos.moe/), [NotiNotes](https://github.com/Yanndroid/NotiNotes), [DailyNote](https://play.google.com/store/apps/details?id=com.akapps.dailynote)
 
 ### To-Do Apps
 
@@ -111,7 +111,7 @@
 * [Really Good Emails](https://reallygoodemails.com/) - Product Email Mobile Designs and Templates
 * [Screen from Traction](https://screen.traction.one/) - Create App Screenshots
 
-[Previewed](https://previewed.app/), [Mockup World](https://www.mockupworld.co/), [AniMockup](https://animockup.com/), [DeviceShots](https://deviceshots.com/), [DeviceFrames](https://deviceframes.com/), [shots.so](https://shots.so/), [medialoot](https://medialoot.com/free-mockups/), [MockMagic](https://www.mockmagic.com/), [MockupsForFree](https://mockupsforfree.com/), [zippypixels](https://zippypixels.com/), [Mockuphone](https://mockuphone.com/), [TheMockupClub](https://themockup.club/), [RiseShot](https://www.riseshot.com/), [Upmock](https://www.upmock.io/), [LS Graphics](https://www.ls.graphics/), [Picasso](https://www.picassoapp.ca/)
+[Previewed](https://previewed.app/), [Mockup World](https://www.mockupworld.co/), [DeviceShots](https://deviceshots.com/), [DeviceFrames](https://deviceframes.com/), [shots.so](https://shots.so/), [medialoot](https://medialoot.com/free-mockups/), [MockMagic](https://www.mockmagic.com/), [MockupsForFree](https://mockupsforfree.com/), [zippypixels](https://zippypixels.com/), [Mockuphone](https://mockuphone.com/), [TheMockupClub](https://themockup.club/), [RiseShot](https://www.riseshot.com/), [Upmock](https://www.upmock.io/), [LS Graphics](https://www.ls.graphics/), [Picasso](https://www.picassoapp.ca/)
 
 ***
 
@@ -717,8 +717,8 @@
 * [CFL](https://github.com/Artoriuz/glsl-chroma-from-luma-prediction)
 * [JointBilateral](https://github.com/Artoriuz/glsl-joint-bilateral)
 * [KrigBilateral ](https://gist.github.com/igv/a015fc885d5c22e6891820ad89555637)
-* [ArtCNN ](https://github.com/Artoriuz/ArtCNN)
-* [ArtCNN Chroma](https://github.com/Artoriuz/ArtCNN/tree/main/Chroma)
+* [ArtCNN](https://github.com/Artoriuz/ArtCNN)
+* [ArtCNN Chroma](https://github.com/Artoriuz/ArtCNN/tree/main/Old/Chroma)
 * [SSimSuperRes](https://gist.github.com/igv/2364ffa6e81540f29cb7ab4c9bc05b6b)
 * [SSimDownscaler](https://gist.github.com/igv/36508af3ffc84410fe39761d6969be10)
 * [Pixel Clipper](https://github.com/Artoriuz/glsl-pixel-clipper)
