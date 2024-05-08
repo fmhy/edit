@@ -341,6 +341,7 @@
 * [Package Web](https://github.com/rsc/web) - Basic Site Serving Framework
 * [Web Developer](https://chromewebstore.google.com/detail/web-developer/bfbameneiokkgbdmiekhjnmfkcnldhhm) - Web Developer Toolbar Extension
 * [Aptabase](https://aptabase.com/) or [Nibbler](https://nibbler.insites.com/) - Site Analytics
+* [google-indexing-script](https://github.com/goenning/google-indexing-script) - Google Indexing Script
 * [ElasticSearch](https://www.elastic.co/products/elasticsearch) / [GitHub](https://github.com/elastic/elasticsearch) - Search & Analytics Engine
 * [SerPreview](https://serpreviewtool.com/) - Site Search Results
 * [Schema Markup Testing Tools](https://developers.google.com/search/docs/appearance/structured-data) - Test Sites Google Results
@@ -514,7 +515,7 @@
 * [SREWorks](https://github.com/alibaba/SREWorks) - Operation & Maintenance Platform
 * [the component gallery](https://component.gallery/) - Design Components Gallery
 * [Scrollbar.app](https://scrollbar.app/) - Design Custom Scrollbars
-* [LibreLogos](https://www.librelogos.org/) or [LogoTaco](https://www.logotaco.com/) - Project Logos
+* [LogoTaco](https://www.logotaco.com/) - Project Logos
 * [Emanote](https://emanote.srid.ca/) - Create Sites from Plain-Text Notes / [GitHub](https://github.com/srid/emanote)
 * [Plunker](https://plnkr.co/) or [Bloo](https://bloouikit.com/) - Prototype / Test Websites Idea
 * [WebDesignMuseum](https://www.webdesignmuseum.org/) - Website Designs Over Time
@@ -1038,7 +1039,7 @@
 * [GitHub Contribution Graph](https://github.com/ez4o/github-contribution-graph) - Add GitHub ReadMe Contribution / Commit Graph
 * [GitHub Readme Quotes](https://github-readme-quotes-returns.vercel.app/) / [GitHub](https://github.com/shravan20/github-readme-quotes) - GitHub Readme Quote Generator
 * [Shields.io](https://shields.io/) - Metadata badges for GitHub Readme
-* [SkillIcons](https://skillicons.dev/) or [SimpleBadges](https://badges.pages.dev/) / [GitHub](https://github.com/developStorm/simple-badges) - Skill Badges for GitHub Readme / Resumes
+* [SkillIcons](https://skillicons.dev/), [Badgers](https://badgers.space/) or [SimpleBadges](https://badges.pages.dev/) / [GitHub](https://github.com/developStorm/simple-badges) - Skill Badges for GitHub Readme / Resumes
 * [For the Badge](https://forthebadge.com/) - Custom GitHub Badges
 * [GitHub Spray](https://annihil.github.io/github-spray-generator) - Draw on GitHub Contribution Page
 * [GitHub Snake](https://dev.to/mishmanners/how-to-enable-github-actions-on-your-profile-readme-for-a-contribution-graph-4l66) - Enable Snake Game on GitHub Readme
