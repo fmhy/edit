@@ -131,7 +131,7 @@ Use this [browser extension](https://github.com/bpc-clone/bpc_updates/releases) 
 ### Downloading
 
 **[LRepacks](https://lrepacks.net/) / [CRACKSurl](https://cracksurl.com/) / [M0nkrus](https://w14.monkrus.ws/)** - Trusted software sites
-**[OlaMovies](https://olamovies.life/)** - Fast video downloads
+**[Pahe](https://pahe.ink/)** - Fast video downloads
 **[FitGirl Repacks](https://fitgirl-repacks.site/)** / [Discord](https://discord.gg/Up3YARe4RW) / **[SteamRIP](https://steamrip.com/)** - Game download sites
 **[Vimms Lair](https://vimm.net/) / [No-Intro](https://rentry.co/FMHYBase64#no-intro)** - ROM download sites / [Emulators](https://emulation.gametechwiki.com/)
 **[Firehawk52](https://rentry.org/firehawk52)** - Music ripping guide
