@@ -1076,7 +1076,6 @@
 * [MandalaGaba](https://www.mandalagaba.com/) / [Pro Version](https://pro.mandalagaba.com/), [Mandala App](https://mandala-app.com/) or [DigitalDoily](https://codymoose.github.io/web-applications/DigitalDoily/index.html) - Zen Geometry Tools
 * [myMrLx](https://codepen.io/davidpanik/full/myMrLx/) - Spiral Art Generators
 * [Remoji](https://remoji.com/) - Emoji Painting
-* [PlayColoring](https://www.playcoloring.com/) - Fill-In Painting
 * [EmojiMix](https://tikolu.net/emojimix), [Neomojimixer](https://entenbru.st/neomojimixer/) or [Emoji Kitchen](https://emojikitchen.dev/) - Combine Emojis
 * [Emojination](https://www.emojination.io/), [EmoteStud](https://emotestud.io/), [Emoji Factory](https://codepen.io/oliviale/full/qLYNbE) or [Ccclaymoji](https://fffuel.co/ccclaymoji/) - Emoji Creators
 * [MyPokeCard](https://www.mypokecard.com/en/) - Create Pokémon Cards
