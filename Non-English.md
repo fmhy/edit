@@ -126,7 +126,6 @@
 * [Etoland](https://etoland.co.kr/) - Bulletin Board
 * [China Firewall Bypass Guide](https://github.com/vpncn/vpncn.github.io), [gfwlist](https://github.com/gfwlist/gfwlist), [XX-Net](https://github.com/XX-net/XX-Net) or [New Pac](https://github.com/Alvin9999/new-pac) - Bypass Chinese Firewall
 * [Kaiheila](https://www.kookapp.cn/) - Chinese Discord
-* [Flash.cn](https://www.flash.cn/) - Chinese Flash Player
 * [taioan](https://ji.taioan.org/) - Chinese Spell Check
 * [itaigi](https://itaigi.tw/) - Chinese to Taiwanese Translator
 * [BookStack](https://www.bookstack.cn/) - Developer / Programming Guides
