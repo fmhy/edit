@@ -684,6 +684,7 @@
 * [Pagetual](https://hoothin.github.io/PagetualGuide/en/) - Merge Sites "Next" Pages
 * [Mouseover Popup Image Viewer](https://greasyfork.org/en/scripts/394820-mouseover-popup-image-viewer) - Shows Images & Videos Behind Links & Thumbnails
 * [DisableAMP](https://github.com/AdguardTeam/DisableAMP) - Disable Google AMP Links
+* [Annas archive External links](https://greasyfork.org/en/scripts/494262-anna-s-archive-show-external-downloads) - Show External Link in Anna's Archive
 
 ***
 
