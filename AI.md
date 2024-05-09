@@ -336,6 +336,7 @@
 * [SoundDraw](https://soundraw.io/)
 * [Aiva](https://aiva.ai/)
 * [Boomy](https://boomy.com/)
+* [Melobytes](https://melobytes.com/en)
 * [Drum Loop AI](https://www.drumloopai.com/) - Drum Loop Generator
 * [WOMBO](https://www.wombo.ai/) - AI Powered Lip Sync
 
