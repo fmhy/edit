@@ -241,7 +241,6 @@
 
 * ⭐ **[DoubleDouble](https://doubledouble.top/)** - Multi-Site Downloader / 320kb / MP3 / FLAC / [Telegram](https://t.me/+AuKfQGOOLrFlOTZk)
 * ⭐ **[yet another music server](https://yetanothermusicserver.top/invite/AaWeY6kV)** - Deezer / Tidal / Qobuz / Spotify / YouTube / FLAC
-* ⭐ **[SpotifyDown](https://spotifydown.com/)** - Spotify / 320kbps MP3
 * [YTiz](https://ytiz.xyz/) - YouTube / SoundCloud / Bandcamp / 128kbps AAC / [GitHub](https://github.com/tizerk/ytiz)
 * [YTMDL](https://ytmdl.deepjyoti30.dev/) - YouTube / 128kbps AAC
 * [Download Bandcamp](https://downloadmusicschool.com/bandcamp/) - Bandcamp / 128kbps MP3
@@ -821,7 +820,6 @@
 * [Free Adobe SFX](https://www.adobe.com/products/audition/offers/AdobeAuditionDLCSFX.html)
 * [BBC Sound Effects](https://sound-effects.bbcrewind.co.uk/)
 * [Free-Loops](https://free-loops.com/)
-* [FreeSOundEffects](https://www.freesoundeffects.com/)
 * [Freesound](https://freesound.org/)
 * [soundbible](https://soundbible.com/)
 * [OrangeFreeSounds](https://orangefreesounds.com/)
