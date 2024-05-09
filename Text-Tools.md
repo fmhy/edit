@@ -22,6 +22,7 @@
 * [Delim](https://delim.co/) - Comma Separating Tool
 * [WindowTextExtractor](https://github.com/AlexanderPro/WindowTextExtractor) - Extract Text From Any Window
 * [Textify](https://ramensoftware.com/textify) - Copy Text from Any Dialog
+* [BeefText](https://beeftext.org/) - Text Substitution Tool
 * [Scanner](https://simon-knuth.github.io/scanner/index) or [NAPS2](https://www.naps2.com/) - Scanner Apps / [GitHub](https://github.com/simon-knuth/scanner)
 * [Text to Handwriting](https://saurabhdaware.github.io/text-to-handwriting/), [texttohandwriting](https://texttohandwriting.com/) or [HandWrittner](https://handwrittner.com/?lang=en) - Text to Handwriting Converters
 * [StegCloak](https://stegcloak.surge.sh/) - Hide Messages in Text
@@ -215,8 +216,6 @@
 * [Flotes](https://flotes.app/)
 * [Standard Notes](https://standardnotes.com/)
 * [Notes](https://www.get-notes.com/)
-* [BeefText](https://beeftext.org/)
-* [Quill](https://quilljs.com/)
 * [Helix](https://helix-editor.com/) / [GitHub](https://github.com/helix-editor/helix)
 * [BeaverNotes](https://beavernotes.com/)
 * [Tiddly](https://tiddlywiki.com/) / [Desktop](https://github.com/tiddly-gittly/TidGi-Desktop)
