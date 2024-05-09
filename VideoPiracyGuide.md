@@ -806,6 +806,7 @@
 * [Penguin](https://github.com/carsonip/Penguin-Subtitle-Player) - External Subs Players
 * [Subsearch](https://github.com/vagabondHustler/subsearch) - Subtitle Search Tools
 * [Subtitle Cat](https://www.subtitlecat.com/) - Subtitles
+* [SubSource](https://subsource.net/) - Subtitles
 * [Podnapisi](https://www.podnapisi.net/) - Subtitles
 * [opensubtitles.com](https://www.opensubtitles.com/) - Subtitles
 * [Subs4Free](https://www.subs4free.info/) - Subtitles 
