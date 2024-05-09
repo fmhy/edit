@@ -420,6 +420,7 @@
 * [hd-source](https://hd-source.to/) or [DDL-Warez](https://ddl-warez.cc/) - Video / NSFW
 * [serienjunkies](https://serienjunkies.org/) - TV
 * [MLCBoard](https://mlcboard.com/) - Movies
+* [Anime-Loads](https://www.anime-loads.org/) - Anime
 * [Animes.so](https://www.animes.so/) - Anime
 * [CannaPower](https://canna-power.to/) - Audio
 
