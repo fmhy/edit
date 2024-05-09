@@ -436,7 +436,7 @@
 * [StreamCloud](https://streamcloud.sx/) - Movies / TV / 720p
 * [Kinos](https://www.kinos.to/) - Movies / TV / Dub / 720p
 * [xCine](https://xcine.ru/) - Movies / TV / Dub / 720p
-* [Burning Series](https://bs.to/) -  TV / Dub / 1080p / German VPN Required
+* [Burning Series](https://bs.to/) -  TV / Dub / 1080p
 * [S.TO](https://s.to/) - TV / Anime / Dub / 720p
 * [Anime-Loads](https://www.anime-loads.org/) - Anime / Dub / 1080p
 * [Aniworld](https://aniworld.to) - Anime / Sub / Dub / 720p
