@@ -529,7 +529,7 @@
 ## ▷ Downloading
 
 * ⭐ **[OlaMovies](https://olamovies.life/)** - Movies / TV / Sub / Dub / 1080p / 4K / [Telegram](https://telegram.me/olamovies_official_v3)
-* ⭐ **[VegaMovies](https://vegamovies.cash/)** - Movies / TV / Anime / 1080p / 4K / [Telegram](https://telegram.dog/VegamoviesTo_Official)
+* ⭐ **[VegaMovies](https://vegamovies.yt/)** - Movies / TV / Anime / 1080p / 4K / [Telegram](https://telegram.dog/VegamoviesTo_Official)
 * ⭐ **[MultiMovies](https://multimovies.space/)** - Movies / TV / Anime / Sub / Dub / 1080p / [Telegram](https://telegram.me/multimoviesfun)
 * ⭐ **[MkvCinemas](https://mkvcinemas.wales/)** - Movies / TV / Anime / Sub / Dub / 1080p / 4K / [Telegram](https://t.me/+WzLYNDSawQk1MTk1)
 * ⭐ **[MoviesMod](https://moviesmod.info/)** - Movies / TV / Sub / Dub / 1080p / [Telegram](https://telegram.dog/moviesmodorg) / [Bypass](https://greasyfork.org/en/scripts/474747)
@@ -538,7 +538,7 @@
 * ⭐ **[AToZ Cartoonist](https://atozcartoonist.me/)** - Cartoons / Anime / Sub / Dub / 1080p / [Discord](https://discord.com/invite/EpQn49C4jX) / [Link Bypasser](https://greasyfork.org/en/scripts/484907)
 * ⭐ **[ToonsHub](https://www.toonshub.xyz/)** - Anime / Dub / 1080p / [Telegram](https://t.me/s/toonshubupdates) / [Discord](https://discord.com/invite/2mPFKykW4j)
 * ⭐ **[Free Lossless Desi Music](https://hindi-lossless.blogspot.com/)** - Music / FLAC
-* [Mallumv](https://mallumv.rent/) - Movies / Sub / Dub / 1080p / [Telegram](https://t.me/MalluMvoff)
+* [Mallumv](https://mallumv.pro/) - Movies / Sub / Dub / 1080p / [Telegram](https://t.me/MalluMvoff)
 * [SSR Movies](https://ssrmovies.casa/) - Movies / TV / Sub / Dub / 1080p / [Telegram](https://telegram.dog/+MF2EXeitLjMxY2Ux)
 * [MkvMoviesPoint](https://mkvmoviespoint.team/) - Movies / TV / Sub / Dub / 1080p / [Telegram](https://telegram.me/mkvpoint1)
 * [MKV Mad](https://www.mkvmad.cool/) - Movies / TV / Sub / Dub / 1080p / [Telegram](https://t.me/mkvmadofficial)
@@ -576,6 +576,7 @@
 
 ## ▷ Streaming
 
+* ⭐ **[Braflix](https://www.braflix.video/)** - Movies / TV / Anime / Dub / 4K / 1080p / [Discord](https://discord.gg/wWKmxARaWH)
 * ⭐ **[BanglaPlex](https://banglaplex.art/)** - Movies / Sub / Dub / 1080p
 * ⭐ **[Einthusan](https://einthusan.tv/intro/)** - South Asian Movies / Sub / Dub / 1080p
 * ⭐ **[AnPlay](https://anplay.in/)** - Anime / Dub / 1080p
