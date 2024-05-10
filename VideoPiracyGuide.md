@@ -653,7 +653,8 @@
 * ↪️ **[General Torrent Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent)**
 * ⭐ **[1337x Movies](https://1337x.to/top-100-movies)** - Movies / TV / Anime
 * ⭐ **[RuTracker Movies](https://rutracker.org/forum/index.php?c=2)** - Movies / TV / Anime / [Wiki](http://rutracker.wiki/) / [Rules](https://rutracker.org/forum/viewtopic.php?t=1045)
-* ⭐ **[Kinozal](https://kinozal.tv/)** - Movies / TV / 4K 
+* ⭐ **[Kinozal](https://kinozal.tv/)** - Movies / TV / 4K
+* ⭐ **[EZTV](https://eztvx.to/)** - TV / Anime
 * ⭐ **[Video Torrent CSE](https://cse.google.com/cse?cx=006516753008110874046:gaoebxgop7j)**
 * ⭐ **[TorrentGalaxy Movies](https://torrentgalaxy.to/torrents.php?parent_cat=Movies)** -  Movies / TV / Anime
 * [Youplex Torrents](https://torrents.youplex.site/) - Movies / TV / Anime / 4K / 1080p
@@ -665,7 +666,6 @@
 * [YAPs](https://yaps.therarbg.to/) - Movies / TV / [GitHub](https://github.com/the-rarbg/yaps)
 * [Public Domain Movie Torrents](https://www.publicdomaintorrents.info/) - Movies
 * [YTS](https://yts.mx/) or [YifyMovies](https://yifymovies.xyz/) - Movies  / [Discord](https://discord.gg/GwDraJjMga) / [Mirrors](https://www.yifystatus.com/) / [Search](https://yify.netlify.app/)
-* [EZTV](https://eztvx.to/) - TV / Anime
 * [kunkka-tor.rent](https://torrent.klesun.net/) - Torrent Streaming Site (use VPN)
 * [JapaneseTorrents](https://japanesetorrents.wordpress.com/) - Asian Drama
 * [TV-Nihon](https://tracker.tvnihon.com/) - Japanese Commercial Archive
@@ -799,11 +799,11 @@
 * 🌐 **[elSubtitle](https://www.elsubtitle.com/)** or [Subtitle Tools](https://subtitletools.com/) - Subtitle Tools
 * ⭐ **[Open Subtitles](https://opensubtitles.org/)** - Subtitles
 * ⭐ **[SubDL](https://subdl.com/)** - Subtitles
+* ⭐ **[Addic7ed](https://www.addic7ed.com/)** - Subtitles / [Frontend](https://www.gestdown.info/)
 * ⭐ **[Substital](https://substital.com/)** or [Movie-Subtitles](https://github.com/gignupg/Movie-Subtitles) - External Subtitle Extensions
 * ⭐ **[Subtitle Edit](https://www.nikse.dk/SubtitleEdit/Online)**, [DST](https://www.syedgakbar.com/projects/dst), [Aegisub](https://aegisub.org/), [Subtitle Workshop](https://www.uruworks.net/), [Jubler Subtitle](https://www.jubler.org/), [DivXLand Subtitler](https://www.andreszsogon.com/divxland-media-subtitler/) or [Subtitld](https://subtitld.org/) - Subtitle Editor
 * [Penguin](https://github.com/carsonip/Penguin-Subtitle-Player) - External Subs Players
 * [Subsearch](https://github.com/vagabondHustler/subsearch) - Subtitle Search Tools
-* [Addic7ed](https://www.addic7ed.com/) - Subtitles / [Frontend](https://www.gestdown.info/)
 * [Subtitle Cat](https://www.subtitlecat.com/) - Subtitles
 * [SubSource](https://subsource.net/) - Subtitles
 * [Podnapisi](https://www.podnapisi.net/) - Subtitles
