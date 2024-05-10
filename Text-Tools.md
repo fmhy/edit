@@ -73,7 +73,7 @@
 * [LingoJam](https://lingojam.com/) - Create Translator
 * [Translator++](https://www.patreon.com/collection/13346) - Automatic Translator / Editor
 * [Renpy Translator](https://github.com/anonymousException/renpy-translator) or [Renpy Editor](https://github.com/anonymousException/renpy-runtime-editor) - Ren'py Automatic Translator / Editor
-* [Poedit](https://poedit.net/) - Translation Editor
+* [QTlinguist](https://github.com/lelegard/qtlinguist-installers), [Eazypo](http://www.eazypo.ca/), [Poedit](https://poedit.net/) - Translation Editor
 * [OmegaT](https://omegat.org/) - Translation Memory Tool
 * [Morsecode World](https://morsecode.world/) or [MorseDecoder](https://morsedecoder.com/) - Morse Code / Binary Translators
 * [Emojify](https://madelinemiller.dev/apps/emojify/) - Emojify Text
