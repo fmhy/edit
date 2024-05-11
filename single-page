@@ -14634,6 +14634,7 @@ outline: false
 * [File Juggler](https://www.filejuggler.com/) - Organize Files Automatically
 * [Magika](https://github.com/google/magika) - AI File Content Type Detector
 * [Phockup](https://github.com/ivandokov/phockup) - Organize Photo / Video Files by Date
+* [Icaros](https://github.com/Xanashi/Icaros) - Add Explorer Thumbnails to any Video Format
 * [TMSU](https://github.com/oniony/TMSU) or [Tagging for Windows](https://tagging.connectpaste.com/) - Tag-Based Filesystem
 * [HTTPDirfs](https://github.com/fangfufu/httpdirfs) - HTTP File System
 * [mergerfs](https://github.com/trapexit/mergerfs) - Union Filesystem
@@ -14664,6 +14665,7 @@ outline: false
 * ⭐ **[Motrix](https://www.motrix.app/)** - Download Manager / [GitHub](https://github.com/agalwood/Motrix)
 * ⭐ **[Gopeed](https://gopeed.com/)** - Download Manager / [GitHub](https://github.com/GopeedLab/gopeed) / [Extension](https://github.com/GopeedLab/browser-extension) / [Plugins](https://github.com/search?q=topic%3Agopeed-extension&type=repositories)
 * [aria2](https://aria2.github.io/) - Terminal Download Manager / [Screenshot](https://i.ibb.co/SmsxmW3/3e213c54b148.png) / [GitHub](https://github.com/aria2/aria2) / [Download Bot](https://github.com/gaowanliang/DownloadBot) / [GUI](https://github.com/persepolisdm/persepolis) / [Frontend](https://ariang.mayswind.net/) / [WebUI](https://github.com/ziahamza/webui-aria2) / [GUI](https://persepolisdm.github.io/)
+* [FDM](https://www.freedownloadmanager.org/) - Download Manager / [YTDL Addon](https://github.com/meowcateatrat/elephant) / [Note](https://pastebin.com/Vgwf3avH)
 * [IDM](http://internetdownloadmanager.com/) / [Premium](https://rentry.co/FMHYBase64#idm) / [Trial Reset](https://github.com/J2TeaM/idm-trial-reset) / [Note](https://pastebin.com/7iq756yU) - Download Manager 
 * [pyLoad](https://pyload.net/) - Lightweight Download Manager
 * [File Centipede](https://filecxx.com/) - Upload / Download Manager
@@ -14789,6 +14791,7 @@ outline: false
 * ⭐ **[freefilesync](https://freefilesync.org/)** - File Backup
 * ⭐ **[Kopia](https://kopia.io/)** - File Backup
 * [MyPhoneExplorer](https://www.fjsoft.at/) - Phone / Desktop Sync
+* [SyncFolder](https://apps.microsoft.com/detail/9nc73mjwhsww?rtc=1&hl=en-us&gl=US) - Phone / Desktop Sync
 * [etesync](https://www.etesync.com/) - File Sync
 * [allwaysync](https://allwaysync.com/) - File Sync
 * [Resilio](https://www.resilio.com/individuals/) - File Sync
@@ -14907,12 +14910,10 @@ outline: false
 * ⭐ **[Mixdrop](https://mixdrop.ag/)** - 2GB / 60 Days / Signup Required
 * ⭐ **[Qiwi](https://qiwi.gg)** - [Warning](https://pastebin.com/jn90QMEt) / Signup Required
 * ⭐ **[Catbox.moe](https://catbox.moe/)** - 200MB / Forever
-* [CipherFiles](https://cipherfiles.com/) - 1GB / Forever / [Discord](https://discord.gg/DmRhftYcvN)
 * [MultiUp](https://multiup.io/), [MirrorAce](https://mirrorace.com/) or [Mirrorcreator](https://www.mirrored.to/) / [Extract / Upload](https://github.com/Reddiepoint/MultiUp-Direct) - Multi Host Uploaders
 * [Z-o-o-m](https://z-o-o-m.eu/) - Multi-Host Upload Desktop App
 * [Archive.org](https://archive.org/create/) - Signup Required
 * [send](https://send.vis.ee/) / [instances](https://gitlab.com/timvisee/send-instances) - 2.5gb / 1 day
-* [FileDitch](https://fileditch.com/) - 1GB / Forever / [Note](https://ibb.co/F0gTxNC)
 * [edisk](https://www.edisk.cz/) - 10GB / 30 days
 * [file.kiwi](https://file.kiwi/) - Unlimited / 3.5 Days / [Free Download Duration](https://ibb.co/85z9D1s)
 * [easyupload](https://easyupload.io/) - 10GB / 50gb total / 30 days
@@ -14930,7 +14931,6 @@ outline: false
 * [clicknupload](https://clicknupload.co/) - 2GB / 12 Days or 5GB / 30 Days on sign-up
 * [doodrive](https://doodrive.com/) - 2GB / 30 days / Signup Required
 * [sfile](https://sfile.mobi/) - 100MB / 5gb total / Forever
-* [krakenfiles](https://krakenfiles.com/) - 1GB / 90 days
 * [Imagenetz](https://www.imagenetz.de/) - 2GB / 90 days
 * [filelu](https://filelu.com/) - 15GB / 10 days
 * [fileconvoy](https://www.fileconvoy.com/) - 3GB / 21 days total
@@ -14948,8 +14948,6 @@ outline: false
 * [file-post](https://file-post.net/) - 3GB / 7 days total
 * [FireLoad](https://www.fireload.com/) - 2GB / 60 days total / Signup Required
 * [WeTransfer](https://wetransfer.com/) - 2GB / 7 days total
-* [LitterBox](https://litterbox.catbox.moe/) - 1GB / 3 days total
-* [File Garden](https://filegarden.com/) - 100MB / Unlimited / Signup Required
 * [Limited Upload Hosts](https://rentry.org/xc48kg) - More Hosts / 1GB or below
 
 ***
