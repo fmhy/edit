@@ -240,6 +240,7 @@
 ## ▷ Audio Ripping Sites
 
 * ⭐ **[DoubleDouble](https://doubledouble.top/)** - Multi-Site Downloader / 320kb / MP3 / FLAC / [Telegram](https://t.me/+AuKfQGOOLrFlOTZk)
+* ⭐ **[squid.wtf](https://squid.wtf/)** - Deezer / FLAC / [Discord](https://discord.gg/ATjPbzR)
 * ⭐ **[yet another music server](https://yetanothermusicserver.top/invite/AaWeY6kV)** - Deezer / Tidal / Qobuz / Spotify / YouTube / FLAC
 * [YTiz](https://ytiz.xyz/) - YouTube / SoundCloud / Bandcamp / 128kbps AAC / [GitHub](https://github.com/tizerk/ytiz)
 * [YTMDL](https://ytmdl.deepjyoti30.dev/) - YouTube / 128kbps AAC
