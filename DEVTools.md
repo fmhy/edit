@@ -10,6 +10,7 @@
 * ↪️ **[CLI Cheat Sheets](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_cli_cheat_sheets)**
 * ⭐ **[QuickRef.me](https://quickref.me/)**, [Dark Hamster](https://www.dark-hamster.com/) or [Devhints](https://devhints.io/) - Developer Cheat Sheets
 * ⭐ **[30 Seconds of Code](https://www.30secondsofcode.org/)**, [FreeFrontend](https://freefrontend.com/), [SnipIt](https://snipit.io/) or [HTML-Dom](https://phuoc.ng/collection/html-dom/) - Find Code Snippets
+* [KeyCheck](https://keycheck.dev/) - Dev Tool Hotkeys
 * [Algorithms-Cheatsheet-Resources](https://github.com/starkblaze01/Algorithms-Cheatsheet-Resources) - Code Algorithm Cheat Sheets
 * [Python Cheatsheet](https://gto76.github.io/python-cheatsheet/) or [SpeedSheet](https://speedsheet.io/) or [python-cheatsheet](https://gto76.github.io/python-cheatsheet/) - Python Cheat Sheets
 * [cppreference](https://en.cppreference.com/w/) - C++ Cheat Sheets
@@ -246,6 +247,7 @@
 * [OverTheWire](https://overthewire.org/wargames/) - Cybersecurity Learning Game
 * [iRed](https://www.ired.team/) - Red Teaming and Offensive Security
 * [Hacksplaining](https://www.hacksplaining.com/) - Developer Security Lessons
+* [MicroCorruption](https://microcorruption.com/) - Learn Reverse Engineering / Cybersecurity
 * [sha256_project](https://github.com/oconnor663/sha256_project) or [cryptohack](https://cryptohack.org/) - Cryptography Learning
 * [John Hammond](https://www.youtube.com/@_JohnHammond) or [LowLevelLearning](https://www.youtube.com/@LowLevelLearning/) - Cybersecurity YouTube Tutorials
 
@@ -409,6 +411,7 @@
 * [Webring List](https://brisray.com/web/webring-list.htm) - Webring Directory
 * [SyAgent](https://syagent.com/), [TA Vivo](https://github.com/ta-vivo/ta-vivo) or [HertzBeat](https://hertzbeat.com/) - Server Monitors
 * [BawkBox](https://bawkbox.com/) - Website Widgets
+* [ApexCharts](https://apexcharts.com/) - Add Charts to Site
 * [LibreCaptcha](https://github.com/librecaptcha/lc-core) or [mCaptcha](https://mcaptcha.org/) - Captcha Systems
 * [Democaptcha](https://democaptcha.com/demo-form-eng/hcaptcha.html) or [ReCAPTCHA Demo](https://www.google.com/recaptcha/api2/demo) / [GitHub](https://patrickhlauke.github.io/recaptcha/) - Captcha Demo's
 * [SuperTokens](https://supertokens.com/) or [Lucia](https://lucia-auth.com/) - User Authentication
@@ -505,6 +508,7 @@
 * [Aspect](https://aspect.app/) - Make UI with AI
 * [CollectUI](https://collectui.com/), [Hoverstat](https://www.hoverstat.es/), [httpster](https://httpster.net/), [Wave Guide](https://www.waveguide.io/), [ReallyGoodUX](https://goodux.appcues.com/) or [Pageflows](https://pageflows.com/) - UI Design Ideas
 * [StoryBook](https://storybook.js.org/) or [Mockend](https://mockend.com/) - UI Development Tools
+* [Tkinter Designer](https://github.com/ParthJadhav/Tkinter-Designer) - Create Python GUI
 * [UI Design Daily](https://www.uidesigndaily.com/) or [UIVerse](https://uiverse.io/) - Free UI Design Resources
 * [Open UI](https://open-ui.org/) - Open Standard UI
 * [CodeMyUI](https://codemyui.com/) or [Semantic UI](https://semantic-ui.com/) - User Interface Code Snippets
@@ -556,7 +560,7 @@
 ## ▷ Hosting Tools
 
 * 🌐 **[Awesome Cloudflare](https://github.com/irazasyed/awesome-cloudflare)** - Cloudflare Resources
-* 🌐 **[VPS Comparison Chart](https://lowendstock.com/)** or [Bitcoin VPS](https://bitcoin-vps.com/) - VPS Comparisons
+* 🌐 **[VPS Comparison Chart](https://lowendstock.com/deals/)** or [Bitcoin VPS](https://bitcoin-vps.com/) - VPS Comparisons
 * ↪️ **[Free Webhosting Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_free_webhosting_sites)**
 * ↪️ **[Free DNS Servers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_free_dns_servers)**
 * ↪️ **[Domain Info Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_domain_info_tools)**
@@ -917,8 +921,8 @@
 * [Winitor](https://www.winitor.com/) - EXE Malware Assessment
 * [HTTPLeaks](https://github.com/cure53/HTTPLeaks) - HTTP Sites Leak Information
 * [Cryptography](https://pub.dev/packages/cryptography) - Dart and Flutter Cryptography Library
-* [MicroCorruption](https://microcorruption.com/) - Learn Reverse Engineering / Cybersecurity
 * [Radare](https://rada.re/r/), [Reverse Engineer's Toolkit](https://github.com/mentebinaria/retoolkit), [Rizin](https://rizin.re/), [Frida](https://frida.re/), [GHIDRA](https://ghidra-sre.org/) or [Cutter](https://cutter.re/) - Reverse Engineering 
+* [Flare VM](https://github.com/mandiant/flare-vm) - Reverse Engineering Environment Setup Script
 * [MSTG](https://mas.owasp.org/) or [DVIA-v2](https://github.com/prateek147/DVIA-v2) - App Security Testing / Reverse Engineering
 * [challenges.re](https://challenges.re/) - Reverse Engineer Code
 * [CVE Details](https://www.cvedetails.com/) - CVE Details
@@ -959,9 +963,8 @@
 * ⭐ **[Git Cheatsheet](https://www.ndpsoftware.com/git-cheatsheet.html#loc=index;)** or [Git Commands](https://gabrieldejesus.github.io/git-commands/) / [2](https://github.com/gabrieldejesus/git-commands) - Git Command Lists
 * [posh-git](https://github.com/dahlbyk/posh-git) - Git Powershell Environment
 * [up-for-grabs](https://up-for-grabs.net/) - Curated List of Tasks for New Contributes
-* [GitKraken](https://www.gitkraken.com/) or [Sourcetree](https://www.sourcetreeapp.com/) - Git GUI
-* [lazygit](https://github.com/jesseduffield/lazygit) or [gitui](https://github.com/Extrawurst/gitui) - Git UI
-* [Gut](https://gut-cli.dev/) - Git CLI
+* [GitKraken](https://www.gitkraken.com/), [RelaGit](https://rela.dev/), [Sourcetree](https://www.sourcetreeapp.com/), [lazygit](https://github.com/jesseduffield/lazygit) or [gitui](https://github.com/Extrawurst/gitui) - Git GUIs
+* [Gut](https://gut-cli.dev/), [Jujutsu](https://github.com/martinvonz/jj) or [gitu](https://github.com/altsem/gitu) - Git CLI / TUI
 * [Codeberg](https://codeberg.org/), [git.sr.ht](https://git.sr.ht/) or [GitGud](https://gitgud.io/) - Git Hosting
 * [Git / Github Guide](https://fateen45.notion.site/Git-GitHub-61bc81766b2e4c7d9a346db3078ce833)
 * [SparkleShare](https://sparkleshare.org) / [GitHub](https://github.com/hbons/SparkleShare) - Git Collab Tool
