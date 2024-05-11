@@ -237,6 +237,8 @@
 
 * **Note** - Some sites and tools accept URLs from various streaming sites but only use a particular source (usually YouTube) to get the audio. We've only mentioned a platform if it can directly rip audio from there.
 
+***
+
 ## ▷ Audio Ripping Sites
 
 * ⭐ **[DoubleDouble](https://doubledouble.top/)** - Multi-Site Downloader / 320kb / MP3 / FLAC / [Telegram](https://t.me/+AuKfQGOOLrFlOTZk)
@@ -248,6 +250,8 @@
 * [SoundCloud Downloader](https://addons.mozilla.org/firefox/addon/soundcloud-dl) - SoundCloud / 128kbps MP3 / [GitHub](https://github.com/NotTobi/soundcloud-dl)
 * [SoundcloudMP3](https://soundcloudmp3.cc/) - SoundCloud / 128kbps MP3
 * [SoundLoaders](https://www.soundloaders.com/) - Multi-Site Downloader
+
+***
 
 ## ▷ Audio Ripping Tools
 
@@ -280,6 +284,8 @@
 * [you-get](https://you-get.org/) - SoundCloud / Bilibili / 128kbps MP3
 * [BandCamp-DL](https://github.com/iheanyi/bandcamp-dl) - Bandcamp / 128kbp MP3 / [Discord](https://discord.com/invite/nwdT4MP)
   
+***
+
 ## ▷ Telegram Bots
 
 * ⭐ **[BeatSpotBot](https://t.me/BeatSpotBot)** - Deezer / Tidal / Yandex / VK / FLAC
@@ -297,6 +303,7 @@
 * [soundcloudaudiodownloader](https://t.me/soundcloudaudiodownloader) - YouTube / SoundCloud / 128kbps MP3
 * [VK Bot](https://t.me/vkmsaverbot), [vkmusbot](https://t.me/vkmusbot) or [Meph Bot](https://t.me/mephbot) - VK / 320kbps MP3
 * [Song_downloaderbot](https://t.me/Song_downloaderbot) - JioSaavn / 128kbps MP3
+* [JoeyMusicBot](https://t.me/joeymusicbot) - 320 kbps MP3
 * [bassmuzic](https://t.me/bassmuzic) - MP3
 * [FLAC Musik](https://t.me/flacmuzik) - Bollywood FLAC
 * [flacmusics](https://t.me/flacmusics/) - FLAC
@@ -305,7 +312,7 @@
 
 ## ▷ Download Sites
 
-**Note** - Use **[redirect bypassers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25B7_redirect_bypass)** to skip annoying link shorteners.
+* **Note** - Use **[redirect bypassers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25B7_redirect_bypass)** to skip annoying link shorteners.
 
 ***
 
@@ -607,6 +614,7 @@
 * [Melodie](https://feugy.github.io/melodie/)
 * [Dopamine](https://digimezzo.github.io/site/)
 * [LED FX](https://www.ledfx.app/) - LED Music Sync
+* [RockBox](https://www.rockbox.org/) - Custom Player for Audio Devices
 * [VinylEngine](https://www.vinylengine.com/) - Record Player / Vinyl Info 
 
 ***
@@ -739,7 +747,7 @@
 * [Zrythm](https://www.zrythm.org/en/index.html) - Audio Editor
 * [Element](https://kushview.net/element/) - Audio Editor / [Discord](https://discord.com/invite/RVk3RVJ)
 * [AudioMass](https://audiomass.co/) - Online Editor
-* [BeepBox](https://www.beepbox.co/) - Online Editor
+* [BeepBox](https://www.beepbox.co/) or [UltraBox](https://ultraabox.github.io/) - Online Editor
 * [editor.audio](https://editor.audio/) - Online Editor
 [OnlineSequencer](https://onlinesequencer.net/) - Online Editor
 * [Efflux](https://www.igorski.nl/application/efflux/) - Online Editor
