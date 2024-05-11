@@ -18,7 +18,7 @@
   "dependencies": {
     "@headlessui/vue": "^1.7.17",
     "@resvg/resvg-js": "^2.6.0",
-    "vitepress": "npm:@taskylizard/vitepress@1.0.10",
+    "vitepress": "npm:@taskylizard/vitepress@1.1.1",
     "consola": "^3.2.3",
     "feed": "^4.2.2",
     "fs-extra": "^11.2.0",
