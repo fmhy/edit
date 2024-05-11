@@ -8,9 +8,6 @@
 
 ### FAQ
 
-> How can I tell if a site or download link is safe? Any tips? 
-Check out the [Booty Guard](https://rentry.org/bootyguard), our basic safety guide and. avoid using the sites / software we've listed as unsafe [here](https://fmhy.net/unsafesites). If you still feel unsure feel free to reach out to us via [Discord](https://discord.gg/5W9QJKuPkD).
-
 > How can I improve my privacy online? 
 We'd recommend checking out privacy guides like [SSD](https://ssd.eff.org/) and [The New Oil](https://thenewoil.org/).
 
