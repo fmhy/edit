@@ -11,7 +11,7 @@
 ***
 
 * 🌐 **[LMSYS Arena](https://chat.lmsys.org/?leaderboard)** - Chatbot Leaderboard with Elo rating
-* 🌐 **[LLM Leaderboard](https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard)** or [ArtificialAnalysis](https://artificialanalysis.ai/) - Chatbot Benchmarks
+* 🌐 **[LLM Leaderboard](https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard)**, [WildBench](https://huggingface.co/spaces/allenai/WildBench) or [ArtificialAnalysis](https://artificialanalysis.ai/) - Chatbot Benchmarks
 * 🌐 **[Transformer Models Timeline](https://ai.v-gar.de/ml/transformer/timeline/)** - LLM Timeline
 
 ***
@@ -115,6 +115,7 @@
 * [CollectivAI](https://chat.collectivai.com/) - Coding AI
 * [Denigma](https://denigma.app/#demo) - Coding AI
 * [Codacy](https://www.codacy.com/) or [AI Code Review](https://ai-code-reviewer.com/) - Code Fixing AIs
+* [Open Interpreter](https://github.com/OpenInterpreter/open-interpreter) - Run Code Locally
 * [v0](https://v0.dev/) - Text to Site Code
 * [AI Code Translator](https://ai-code-translator.vercel.app/), [AI Code Convert](https://aicodeconvert.com/) or [Source Code Converters](https://www.tangiblesoftwaresolutions.com/) - AI Code Converters
 * [GPT Engineer](https://github.com/AntonOsika/gpt-engineer) - AI Code Generator
