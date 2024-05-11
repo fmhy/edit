@@ -269,6 +269,7 @@
 * 🌐 **[Online GIF Tools](https://onlinegiftools.com/)** - GIF Tools
 * [Giphy](https://giphy.com/), [Tenor](https://tenor.com/), [Gifer](https://gifer.com/en), [Curlie GIFs](https://curlie.org/en/Computers/Graphics/Web/Free/Animated_GIFs),  [GifCities](https://gifcities.org/), [Animations](https://bleuje.com/animationsite/) or [GIFBin](https://gifbin.com/) - View / Download GIFs 
 * [/r/animegifs](https://www.reddit.com/r/animegifs/) - View / Download Anime GIFs 
+* [Reaction GIFs](https://reactiongifs.me/) - Reaction GIFs
 * [EZGif](https://ezgif.com/), [GIFCurry](https://lettier.github.io/gifcurry/) / [GitHub](https://github.com/lettier/gifcurry), [Giflr](https://giflr.com/), [GIFMemes](https://gifmemes.io/), [GIFnText](https://www.gifntext.com/), [makeagif](https://makeagif.com/), [Gifsicle](http://www.lcdf.org/gifsicle/) or [Pixteller](https://pixteller.com/) - GIF Creators / Editors
 * [EatMyArt](https://www.eatmy.art/), [DrawIsland](https://drawisland.com/) or [Sketch Machine](https://sketchmachine.net/) - Create GIFs from Drawings
 * [Kinegram](https://kinegram.app/) - Kinegram GIF Creator
@@ -569,7 +570,7 @@
 ## ▷ Art / Illustrations
 
 * ⭐ **[Kemono](https://kemono.su/)** - Patreon Content / Some NSFW / Use Adblock
-* ⭐ **[DeviantArt](https://www.deviantart.com/)** - Western Fanart / [Downloader](https://github.com/NC22/KellyC-Image-Downloader)
+* ⭐ **[DeviantArt](https://www.deviantart.com/)** or [InkBlot](https://inkblot.art/) - Fanart / [Downloader](https://github.com/NC22/KellyC-Image-Downloader)
 * ⭐ **[Pixiv](https://www.pixiv.net/)** - Japanese Fanart
 * ⭐ **Pixiv Tools** - [Downloader](https://chromewebstore.google.com/detail/pixiv-toolkit/ajlcnbbeidbackfknkgknjefhmbngdnjen), [2](https://github.com/Nandaka/PixivUtil2), [3](https://github.com/xuejianxianzun/PixivBatchDownloader), [4](https://greasyfork.org/en/scripts/432150-pixiv-downloader) / [Rankings](https://pixiv.navirank.com/) / [Frontend](https://pixiv.pics/), [2](https://codeberg.org/VnPower/pixivfe) / [Preview](https://github.com/NightLancer/PixivPreview), [2](https://github.com/ppixiv/ppixiv) / [Android](https://github.com/Notsfsssf/pixez-flutter/blob/master/.github/README_en.md)
 * ⭐ **[Danbooru](https://danbooru.donmai.us/)** / [SFW Only](https://safebooru.donmai.us/), [Sankaku Complex](https://chan.sankakucomplex.com/) or [yande.re](https://yande.re/) - Anime-Style Image Booru / [Donwloader](https://github.com/kuanyui/BooruShinshi)
