@@ -212,6 +212,7 @@
 * [SkyDB](https://www.skydb.net/) - Skyscraper Locations / Info
 * [Seat61](https://www.seat61.com/) - Train Travel Guide
 * [SitInShade](https://sitinshade.com/) - Avoid the Sun While Traveling
+* [eSIMDB](https://esimdb.com/) - Compare eSIM Prices
 * [Travel Safe](https://www.travelsafe-abroad.com/) - Travel Destination Safety Ratings
 * [Hate Map](https://www.splcenter.org/hate-map) - Hate Group Locations
 * [LiveUAMap](https://liveuamap.com/) - Ukraine Conflict Areas LiveFeed
@@ -352,6 +353,7 @@
 * ⭐ **[Good News Network](https://www.goodnewsnetwork.org/)** or [Happy Daze](https://happydaze.io/) - Uplifting News
 * [JustRead](https://justread.link/) or [Unclutter](https://unclutter.it/) - Feed Managers / Readers
 * [Pocket](https://getpocket.com/) - Discover & Save Articles
+* [News as Facts](https://newsasfacts.com/) - Wiki Based News
 * [Google Alerts](https://www.google.com/alerts) - News Alerts by Topics
 * [Top Stories](https://murmel.social/top) - Top Fediverse News 
 * [CBM](https://comicbookmovie.com/) - Comic / Movie / TV News
@@ -586,6 +588,7 @@
 * [WhoPaysWriters](http://whopayswriters.com/) - Freelance Writing Publications
 * [Creator Monetization Platforms](https://docs.google.com/spreadsheets/d/1ii59-tKBwsol4jGwVehXy-oaJfVLKUciwXtB2tuKqQg/edit#gid=0) - Monetization Platforms Comparisons
 * [Gerev](https://github.com/GerevAI/gerev) - Search within Workplace Apps
+* [Gale Presents: Udemy](https://www.gale.com/elearning/udemy) - Business Courses / Library Card Required
 * [Marketing Mega](https://rentry.co/FMHYBase64#marketing-courses), [Pimp My Money](https://pimpmymoney.net/) (torrent) or [HubSpot Academy](https://academy.hubspot.com/) - Digital Marketing Courses
 * [Statista](https://statista.com/) - Market Statistic Search
 * [Systeme](https://systeme.io/) or [SendPulse](https://sendpulse.com/) - Marketing Tools
@@ -723,7 +726,8 @@
 * 🌐 **[KYCNOT.ME](https://kycnot.me/)** - Non-KYC Exchanges / Services
 * ⭐ **[TradingView](https://www.tradingview.com/)**, [Candle](https://gitlab.com/cosmosapps/candle), [finviz](https://finviz.com/), [Markets.sh](https://markets.sh/) or [Screener](https://www.screener.in/) - Stock Market Trackers
 * [Maybe](https://hello.maybe.co/), [Ghostfolio](https://ghostfol.io/), [HomeBank](https://www.gethomebank.org/en/index.php), [Firefly III](https://firefly-iii.org/), [Money Manager EX](https://moneymanagerex.org/), [Paisa](https://github.com/RetroMusicPlayer/Paisa) or [Actual](https://github.com/actualbudget/actual) - Finance Managers
-* [Ivy Wallet](https://github.com/Ivy-Apps/ivy-wallet), [Buckwheat](https://buckwheat.app/), [My Expenses](https://www.myexpenses.mobi/), [Cashew](https://play.google.com/store/apps/details?id=com.budget.tracker_app) or [Sushi](https://github.com/jerameel/sushi) - Android Finance Managers
+* [Ivy Wallet](https://github.com/Ivy-Apps/ivy-wallet), [money-manager](https://github.com/moneymanagerex/android-money-manager-ex),[Buckwheat](https://buckwheat.app/), [My Expenses](https://www.myexpenses.mobi/), [Cashew](https://play.google.com/store/apps/details?id=com.budget.tracker_app) or [Sushi](https://github.com/jerameel/sushi) - Android Finance Managers
+* [Denaro](https://github.com/NickvisionApps/Denaro) - Linux Finance Managers
 * [Ledger](https://ledger-cli.org/) - CLI Accounting System
 * [financial_advice](https://github.com/emilepetrone/financial_lessons)or [r/povertyfinance wiki](https://www.reddit.com/r/povertyfinance/wiki/index/) - Financial Tips / Resources
 * [/r/BeerMoney](https://www.reddit.com/r/beermoney/) - Online Money Making Community
@@ -907,6 +911,7 @@
 * [WhoBrings](https://whobrings.com/) - Party Item Management Tool
 * [MyPhone](https://github.com/BestOwl/MyPhone) - Make Calls via Desktop
 * [Free-lookup](https://free-lookup.net/) - Phone # Lookup
+* [BudgetDuo](https://budgetduo.com/) - Split Household Expenses
 * [KittySplit](https://www.kittysplit.com/en/) or [Spliit](https://spliit.app/) - Group Expense Splitting Calculators
 * [StageTimer](https://stagetimer.io/) - Event Timer
 * [whena.re](https://whena.re/) - Friend / Team Timezone Viewer
@@ -933,6 +938,7 @@
 * [PlateRecognizer](https://platerecognizer.com/) - License Plate Recognition
 * [Fragrantica](https://www.fragrantica.com/), [Basenotes](https://basenotes.com/) or [Parfumo](https://www.parfumo.com/) - Perfume / Fragrance Databases
 * [Stolen Drone](https://stolendrone.info/) - Stolen Drone Info
+* [CacheSleuth](https://www.cachesleuth.com/) - Geocaching Tools
 * [Morse Code](https://morsecode.me/) or [Woozle](https://vail.woozle.org/) - Create Morse Code Audio
 * [Parcelsapp](https://parcelsapp.com/en/), [Informed Delivery](https://informeddelivery.usps.com/) or [17Track](https://www.17track.net/en) - Mail Package Tracking
 * [Sweet Home 3D](https://www.sweethome3d.com/) or [Homestyler](https://www.homestyler.com/) - Interior Design Apps
