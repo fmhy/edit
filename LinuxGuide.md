@@ -84,10 +84,10 @@
 * [SystemRescue](https://www.system-rescue.org/) or [Super Grub2 Disk](https://www.supergrubdisk.org/super-grub2-disk/) - Bootable System Rescue Toolkits
 * [sbupdate](https://github.com/andreyv/sbupdate) - Generate & Sign kernel images for UEFI Secure Boot Arch Linux
 * [coreboot](https://coreboot.org/) or [Libreboot](https://libreboot.org/) - Replace Proprietary BIOS/UEFI Firmware 
-* [bt-dualboot](https://github.com/x2es/bt-dualboot) - Dual-Boot Bluetooth Sync Tool
 * [Hardcode Tray](https://github.com/bilelmoussaoui/Hardcode-Tray) - Hardcoded Tray Icon Fix
 * [open-gpu-kernel-modules](https://github.com/NVIDIA/open-gpu-kernel-modules) - NVIDIA Linux Open GPU Kernel Module
 * [nosystemd](https://nosystemd.org/) - Alternatives to Systemd
+* [bt-dualboot](https://github.com/x2es/bt-dualboot) - Dual-boot bluetooth syncing tool
 
 ***
 
@@ -260,7 +260,7 @@
 
 * 🌐 **[Awesome-ttygames](https://github.com/ligurio/awesome-ttygames)** - Unix ASCII Games
 Linux Gaming Guide
-* ⭐ **[Linux Gaming Guide](https://github.com/rimsiw/linux-gaming-omg)** / [2](https://web.archive.org/web/20221022121735/https://www.reddit.com/r/Piracy/comments/ndrtlf/comment/gyccwhk/?context=3) / [3](https://www.reddit.com/r/LinuxCrackSupport/wiki/index) - Linux Gaming Guides
+* ⭐ **[Comprehensive Linux Gaming Guide](https://linux-gaming.kwindu.eu/index.php?title=Main_Page)** / [2](https://github.com/rimsiw/linux-gaming-omg) / [3](https://web.archive.org/web/20221022121735/https://www.reddit.com/r/Piracy/comments/ndrtlf/comment/gyccwhk/?context=3) / [4](https://www.reddit.com/r/LinuxCrackSupport/wiki/index) - Linux Gaming Guides
 * ⭐ **[protondb](https://www.protondb.com/)**- Proton Compatibility Descriptions / [Steam Extension](https://github.com/Trsnaqe/protondb-community-extension) 
 * ⭐ **[Lutris](https://lutris.net/)** - Games Manager
 * ⭐ **[proton-ge-custom](https://github.com/GloriousEggroll/proton-ge-custom)** - Play Windows Games on Linux / [Guide](https://www.reddit.com/r/LinuxCrackSupport/comments/yqfirv/how_to_install_fitgirl_or_dodi_windows_repacks_in/)
