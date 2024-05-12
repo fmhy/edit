@@ -84,10 +84,10 @@
 * [SystemRescue](https://www.system-rescue.org/) or [Super Grub2 Disk](https://www.supergrubdisk.org/super-grub2-disk/) - Bootable System Rescue Toolkits
 * [sbupdate](https://github.com/andreyv/sbupdate) - Generate & Sign kernel images for UEFI Secure Boot Arch Linux
 * [coreboot](https://coreboot.org/) or [Libreboot](https://libreboot.org/) - Replace Proprietary BIOS/UEFI Firmware 
+* [bt-dualboot](https://github.com/x2es/bt-dualboot) - Dual-Boot Bluetooth Sync Tool
 * [Hardcode Tray](https://github.com/bilelmoussaoui/Hardcode-Tray) - Hardcoded Tray Icon Fix
 * [open-gpu-kernel-modules](https://github.com/NVIDIA/open-gpu-kernel-modules) - NVIDIA Linux Open GPU Kernel Module
 * [nosystemd](https://nosystemd.org/) - Alternatives to Systemd
-* [bt-dualboot](https://github.com/x2es/bt-dualboot) - Dual-boot bluetooth syncing tool
 
 ***
 
