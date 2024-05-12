@@ -570,7 +570,7 @@
 ## ▷ Art / Illustrations
 
 * ⭐ **[Kemono](https://kemono.su/)** - Patreon Content / Some NSFW / Use Adblock
-* ⭐ **[DeviantArt](https://www.deviantart.com/)** or [InkBlot](https://inkblot.art/) - Fanart / [Downloader](https://github.com/NC22/KellyC-Image-Downloader)
+* ⭐ **[DeviantArt](https://www.deviantart.com/)**, [Buzzly](https://buzzly.art/), [Artfol](https://www.artfol.co/) or [InkBlot](https://inkblot.art/) - Fanart / [Downloader](https://github.com/NC22/KellyC-Image-Downloader)
 * ⭐ **[Pixiv](https://www.pixiv.net/)** - Japanese Fanart
 * ⭐ **Pixiv Tools** - [Downloader](https://chromewebstore.google.com/detail/pixiv-toolkit/ajlcnbbeidbackfknkgknjefhmbngdnjen), [2](https://github.com/Nandaka/PixivUtil2), [3](https://github.com/xuejianxianzun/PixivBatchDownloader), [4](https://greasyfork.org/en/scripts/432150-pixiv-downloader) / [Rankings](https://pixiv.navirank.com/) / [Frontend](https://pixiv.pics/), [2](https://codeberg.org/VnPower/pixivfe) / [Preview](https://github.com/NightLancer/PixivPreview), [2](https://github.com/ppixiv/ppixiv) / [Android](https://github.com/Notsfsssf/pixez-flutter/blob/master/.github/README_en.md)
 * ⭐ **[Danbooru](https://danbooru.donmai.us/)** / [SFW Only](https://safebooru.donmai.us/), [Sankaku Complex](https://chan.sankakucomplex.com/) or [yande.re](https://yande.re/) - Anime-Style Image Booru / [Donwloader](https://github.com/kuanyui/BooruShinshi)
@@ -731,6 +731,8 @@
 * [linkpicture](https://www.linkpicture.com/)
 * [imagebam](https://www.imagebam.com/)
 * [imagevenue](https://www.imagevenue.com/)
+* [BayIMG](https://bayimg.com/)
+* [Imagem](https://imagem.app/?lang=en)
 * [talaikis](https://ipfs.talaikis.com/upload)
 * [imgchest](https://imgchest.com/)
 * [upanhtv](https://upanh.tv/)
@@ -738,6 +740,7 @@
 * [prnt.sc](https://prnt.sc/)
 * [anhsieuviet](https://anhsieuviet.com/?lang=en)
 * [Slowpoke Pics](https://slow.pics/)
+* [FastPic](https://fastpic.org/)
 * [dutov](https://dutov.org/)
 * [Piczel](https://piczel.tv/) - Online Art Gallery
 
