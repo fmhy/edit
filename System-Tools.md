@@ -24,11 +24,7 @@
 * [RegExp](https://github.com/zodiacon/TotalRegistry), [ripgrep-all](https://github.com/phiresky/ripgrep-all) or [Registry-Finder](https://registry-finder.com/) - Registry Explorers
 * [WinbIndex](https://winbindex.m417z.com/) - Windows System Files / Binaries
 * [OfflineInsiderEnroll](https://github.com/abbodi1406/offlineinsiderenroll) - Enable Windows Insider without Account
-* [OpenHab](https://www.openhab.org/) - Home Automation / [Setup](https://github.com/openhab/openhabian) / [Mobile](https://github.com/openhab/openhab-android)
-* [Google Assistant Desktop Client](https://github.com/Melvin-Abraham/Google-Assistant-Unofficial-Desktop-Client) or [Home Assistant](https://www.home-assistant.io/) - Home Assistant Client / [GUI](https://github.com/LAB02-Research/HASS.Agent)
-* [hOn](https://github.com/Andre0512/hOn) - Home Assistant Integration for Appliances
-* [CasaOS](https://casaos.io/) - Cloud Home System / [GitHub](https://github.com/IceWhaleTech/CasaOS)
-* [Leon](https://getleon.ai/) - AI Assistant
+* * [Google Assistant Desktop Client](https://github.com/Melvin-Abraham/Google-Assistant-Unofficial-Desktop-Client) or [Leon](https://getleon.ai/) - AI Assistant
 * [Rhasspy](https://rhasspy.readthedocs.io/en/latest/) - Voice Assistant
 * [Time.is](https://time.is/) - Check Accuracy of System Clock
 
@@ -36,7 +32,7 @@
 
 ## ▷ System Debloating
 
-**Warning** - It's not recommended to use debloaters unless you know what you're doing. Always research first, never just "Apply All" randomly.
+* **Warning** - It's not recommended to use debloaters unless you know what you're doing. Always research first, never just "Apply All" randomly.
 
 ***
 
@@ -159,9 +155,7 @@
 
 * ⭐ **[Ditto](https://ditto-cp.sourceforge.io/)**
 * [ArsClip](https://www.joejoesoft.com/vcms/97/)
-* [ClipboardMemo](https://gitlab.com/fabrom/clipboardmemo)
 * [CopyQ](https://hluk.github.io/CopyQ/)
-* [Free Clipboard Viewer](https://freeclipboardviewer.com/)
 * [ClipAngel](https://sourceforge.net/projects/clip-angel/)
 * [XClipper](https://kaustubhpatange.github.io/XClipper/)
 * [MultiClipBoardSlots](https://www.softwareok.com/?seite=Microsoft/MultiClipBoardSlots)
@@ -176,12 +170,7 @@
 * ⭐ **[Komorebi](https://github.com/LGUG2Z/komorebi)**
 * ⭐ **[WorkSpacer](https://workspacer.org/)**
 * [Whim](https://github.com/dalyIsaac/Whim/)
-* [nog](https://github.com/TimUntersberger/nog)
-* [bug.n](https://github.com/fuhsjr00/bug.n)
-* [GridMove](https://www.dcmembers.com/jgpaiva/)
-* [TileMe](https://gitlab.com/slavoutich/tileme)
 * [MiguruWM](https://github.com/imawizard/MiguruWM)
-* [WindowsGrid](http://windowgrid.net/)
 * [DWM](https://github.com/prabirshrestha/dwm-win32)
 * [United Sets](https://github.com/Windows-Apps-Hub/UnitedSets) - Group Windows Into Tabs
 * [AltSnap](https://github.com/RamonUnch/AltSnap) - Improved Windows Dragging
@@ -214,7 +203,7 @@
 * [DeviceTests](https://devicetests.com/) - Multiple Device Tests
 * [NotCPUCores](https://github.com/rcmaehl/NotCPUCores), [ParkControl](https://bitsum.com/parkcontrol/), [QuickCPU](https://coderbag.com/product/quickcpu) or [Process Lasso](https://bitsum.com/) - CPU Optimizer
 * [Ozone3D](https://www.ozone3d.net/index_softwares.php) - System Benchmarking
-* [GoldMemory](https://www.goldmemory.cz/) or [Testmem5](https://www.overclock.net/threads/memory-testing-with-testmem5-tm5-with-custom-configs.1751608/) - Memory Benchmarking
+* [Testmem5](https://www.overclock.net/threads/memory-testing-with-testmem5-tm5-with-custom-configs.1751608/) - Memory Benchmarking
 * [SDIO](https://glenn.delahoy.com/snappy-driver-installer-origin), [Drivers Collection](https://driverscollection.com/), [Driverscape](https://www.driverscape.com/) or [DriverStoreExplorer](https://github.com/lostindark/DriverStoreExplorer) - Update / Install Missing Drivers
 * [PrintFriendly](https://www.printfriendly.com/) - Printer Formatting Tools
 * [VOGONS](https://www.vogons.org/) - Vintage Computer Hardware Forum
@@ -321,7 +310,7 @@
 * [StrokeIt](https://www.tcbmi.com/strokeit/) or [StrokesPlus](https://www.strokesplus.net/) - Mouse Gestures
 * [Espanso](https://espanso.org/) - Typing Shortcuts / [GitHub](https://github.com/espanso/espanso)
 * [win-vind](https://pit-ray.github.io/win-vind/) - Vim Style Keybindings for Windows
-* [Listary](https://www.listary.com/), [FlowLauncher](https://www.flowlauncher.com/), [Keypirinha](https://keypirinha.com/), [Ueli](https://ueli.app/) / [GitHub](https://github.com/oliverschwendener/ueli) - Keystroke Launchers
+* [Listary](https://www.listary.com/), [FlowLauncher](https://www.flowlauncher.com/), [Ueli](https://ueli.app/) / [GitHub](https://github.com/oliverschwendener/ueli) - Keystroke Launchers
 * [KeyViz](https://github.com/mulaRahul/keyviz) - Keystroke Visualizer
 * [WhatPulse](https://whatpulse.org/) - Mouse / Keyboard Usage Analyzer
 * [Kmonad](https://github.com/kmonad/kmonad) - Keyboard Manager
@@ -331,8 +320,6 @@
 * [Keyboard University](https://keyboard.university/) or [KDB](http://xahlee.info/kbd/keyboarding.html) - Mechanical Keyboard Building Guides
 * [Keyboard Simulator](https://keyboardsimulator.xyz/) - Design & Test Virtual Keyboards
 * [Key Test](https://en.key-test.ru/) - Keyboard Tester
-* [TouchCursor](https://sourceforge.net/projects/touchcursor/) - Use Home Keys as Cursor
-* [Keytap2](https://keytap2.ggerganov.com/) - Acoustic Keyboard Eavesdropping
 
 ***
 
