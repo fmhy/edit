@@ -97,6 +97,7 @@
 ## ▷ Coding AIs
 
 * 🌐 **[EvalPlus Leaderboard](https://evalplus.github.io/leaderboard.html)** or [BigCode](https://huggingface.co/spaces/bigcode/bigcode-models-leaderboard) - Coding AI Leaderboards
+* 🌐 **[Awesome AI Agents](https://github.com/e2b-dev/awesome-ai-agents)** - Coding / Programming AIs
 * ⭐ **[Pieces](https://pieces.app/) / [Docs](https://docs.pieces.app)** - Multi-LLM Coding AI / GPT4 for Free
 * [Cursor](https://cursor.sh/) - Coding AI
 * [Codeium](https://codeium.com/) - Coding AI
@@ -108,10 +109,12 @@
 * [Sourcery](https://sourcery.ai/) - Coding AI
 * [Devv](https://devv.ai/) - Coding AI
 * [Cody](https://about.sourcegraph.com/cody) - Coding AI
+* [OpenDevin](https://github.com/OpenDevin/OpenDevin) - Coding AI
 * [CodiumAI](https://www.codium.ai/) - Coding AI
 * [continue](https://continue.dev/) - Coding AI
 * [Bito AI](https://bito.ai/) - Coding AI
 * [Blackbox](https://www.blackbox.ai/) - Coding AI
+* [Codel](https://github.com/semanser/codel) - Coding AI
 * [CollectivAI](https://chat.collectivai.com/) - Coding AI
 * [Denigma](https://denigma.app/#demo) - Coding AI
 * [Codacy](https://www.codacy.com/) or [AI Code Review](https://ai-code-reviewer.com/) - Code Fixing AIs
@@ -170,6 +173,7 @@
 * [Marketing 2099](https://sintralabs.notion.site/Marketing-2099-Ultimate-ChatGPT-Marketing-Prompts-To-Copy-Paste-200-tasks-fc22c9142d6a4a4286a3fe755be932e6) - ChatGPT Marketing Prompts
 * [Tensor Trust](https://tensortrust.ai/) or [Gandalf](https://gandalf.lakera.ai/) - Prompting Skill Games
 * [chat-gpt-games](https://github.com/AdmTal/chat-gpt-games) - Prompt Games
+* [Gobble Bot](https://gobble.bot/) - Generate Text Files for Chatbots
 
 ***
 ***
@@ -361,6 +365,7 @@
 * [TextToSpeech](https://texttospeech.io/)
 * [SAPI4](https://tetyys.com/SAPI4/)
 * [LazyPY](https://lazypy.ro/tts/)
+* [VoiceCraft](https://github.com/jasonppy/VoiceCraft)
 * [Murf.ai](https://murf.ai/)
 * [EmotiVoice](https://github.com/netease-youdao/EmotiVoice)
 * [Fish Diffusion](https://diff.fish.audio) / [GitHub](https://github.com/fishaudio/fish-diffusion)
