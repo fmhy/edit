@@ -48,7 +48,7 @@
 * ⭐ **[Linux.Chat](https://discord.gg/linuxchat)**, [Linux.org](https://linux.org/), [Linux x Technology](https://linuxdiscord.com/), [Ezlinux](https://ezlinux.net/) or [Discord-Linux](https://discord.gg/discord-linux) - Linux Discussion / Forums
 * ⭐ **[Ventoy](https://www.ventoy.net)** / [GitHub](https://github.com/ventoy/Ventoy) or [Impression](https://gitlab.com/adhami3310/Impression) - Create Bootable USB Linux Drives
 * ⭐ **[Btop](https://github.com/aristocratos/btop)**, **[fastfetch](https://github.com/fastfetch-cli/fastfetch)**, **[MangoHud](https://github.com/flightlessmango/MangoHud)**, [CPU-X](https://github.com/TheTumultuousUnicornOfDarkness/CPU-X), [vtop](https://github.com/MrRio/vtop), [Macchina](https://github.com/Macchina-CLI/macchina), [Archey4](https://github.com/HorlogeSkynet/archey4), [Hyfetch](https://github.com/hykilpikonna/hyfetch) or [LM Sensors](https://github.com/lm-sensors/lm-sensors) or [s-tui](https://github.com/amanusk/s-tui) - System Info / Resource Monitors
-* [DistroSea](https://distrosea.com/) or [JSLinux](https://bellard.org/jslinux/) - Linux Browser Emulators
+* [DistroSea](https://distrosea.com/), [anuraOS](https://github.com/MercuryWorkshop/anuraOS) or [JSLinux](https://bellard.org/jslinux/) - Linux Browser Emulators
 * [SysmonForLinux](https://github.com/Sysinternals/SysmonForLinux) - Monitor / Log System Activity
 * [screenFetch](https://github.com/KittyKatt/screenFetch) - Bash Screenshot Information Tool
 * [Nanobench](https://github.com/andreas-abel/nanoBench) - CPU Microbenchmark / [Documentation](https://nanobench.ankerl.com/)
@@ -165,7 +165,7 @@
 
 ## ▷ Software Sites
 
-* 🌐 **[Awesome Linux](https://luong-komorebi.github.io/Awesome-Linux-Software/)** or [Awesome KDE](https://github.com/francoism90/awesome-kde) - FOSS Software / [Image](https://i.ibb.co/KyTkKHz/ae00a5177857.png)
+* 🌐 **[Awesome Linux](https://luong-komorebi.github.io/Awesome-Linux-Software/)**, [Awesome Linux Minimalism](https://github.com/knassar702/awesome-linux-minimalism) or [Awesome KDE](https://github.com/francoism90/awesome-kde) - FOSS Software / [Image](https://i.ibb.co/KyTkKHz/ae00a5177857.png)
 * ⭐ **[Kapital Sin](https://www.kapitalsin.com/forum/index.php?board=5.0)** / Use [Translator](https://github.com/FilipePS/Traduzir-paginas-web#install)
 * ⭐ **[RuTracker](https://rutracker.org/forum/viewforum.php?f=1381)** / [Translator](https://github.com/FilipePS/Traduzir-paginas-web#install) / [Wiki](http://rutracker.wiki/) / [Rules](https://rutracker.org/forum/viewtopic.php?t=1045)
 * ⭐ **[Linux Software CSE](https://cse.google.com/cse?cx=81bd91729fe2a412b)** - Multi-Site Software Search
@@ -186,6 +186,7 @@
 * [KDE Applications](https://apps.kde.org/) - KDE Apps
 * [IzzySoft Apt Repositories](https://apt.izzysoft.de/)
 * [Repology](https://repology.org/) - Package Repository Tracker
+* [emplace](https://github.com/tversteeg/emplace) - System Package Sync
 * [Pling](https://www.pling.com/) / [2](https://www.linux-apps.com/) - Linux Apps and Themes
 * [Pacstall](https://pacstall.dev/) - AUR-Inspired Package Manager for Ubuntu
 
@@ -223,6 +224,7 @@
 * [dopamine](https://github.com/digimezzo/dopamine) - Audio Player
 * [AudioTube](https://invent.kde.org/multimedia/audiotube) - Audio Player
 * [Monophony](https://gitlab.com/Vistaus/monophony) - YouTube Music Client
+* [ytermusic](https://github.com/ccgauche/ytermusic/) - YouTube Music Downloader
 * [Deezer Linux](https://github.com/aunetx/deezer-linux) - Deezer Client
 * [Myuzi](https://gitlab.com/albanobattistella/myuzi) - Music Streaming App
 * [HeadsetControl](https://github.com/Sapd/HeadsetControl) - Headset Settings Manager
@@ -274,6 +276,7 @@ Linux Gaming Guide
 * [steam-tui](https://github.com/dmadisetti/steam-tui) - Rust TUI for Steam
 * [steam-cli](https://github.com/berenm/steam-cli) - CLI for Steam
 * [Luxtorpeda](https://github.com/luxtorpeda-dev/luxtorpeda) or [Boxtron](https://github.com/dreamer/boxtron) - Run Steam Games on Linux
+* [RetroDECK](https://retrodeck.net/) - Emulator for Steam Deck
 * [GameScope](https://github.com/ValveSoftware/gamescope) - Steam Session Compositing Window Manager
 * [SamRewritten](https://github.com/PaulCombal/SamRewritten) - Steam Achievement Manager
 * [Steam for Linux](https://github.com/ValveSoftware/steam-for-linux) - Steam Linux Beta Issue Tracker
@@ -544,6 +547,7 @@ Linux Gaming Guide
 * [Pinch](https://github.com/danqing/Pinch) - Trackpad Pinch to Zoom Gesture
 * [LinearMouse](https://linearmouse.app/) or [MacMouseFix](https://macmousefix.com/) - Mouse Remapping
 * [KeyClu](https://sergii.tatarenkov.name/keyclu/support/) - Shortcut CheatSheet for Current Application
+* [rcmd](https://lowtechguys.com/rcmd/) - App Switcher Command Key
 * [KeyCastr](https://github.com/keycastr/keycastr) - Keystroke Visualizer
 * [MonitorControl](https://monitorcontrol.app/) - External Monitor Brightness / Volume Control
 * [BackgroundMusic](https://github.com/kyleneideck/BackgroundMusic) - Volume Mixer / Auto-Pause

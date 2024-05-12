@@ -68,11 +68,11 @@
 * ⭐ **[NextDNS](https://nextdns.io)** - DNS Adblocking / [Guide](https://github.com/yokoffing/NextDNS-Config) / [Video](https://youtu.be/WUG57ynLb8I)
 * ⭐ **[ControlD](https://controld.com/)** - DNS Manager
 * ⭐ **[AdGuard Home](https://github.com/AdguardTeam/AdGuardHome/wiki/Docker)** - DNS Adblocking / Self-Hosted / [Setup](https://github.com/klutchell/balena-adguard) / [Filters](https://github.com/hl2guide/AdGuard-Home-Whitelist)
-* ⭐ **[AhaDNS](https://ahadns.com/)** - DNS Adblocking
-* ⭐ **[BlahDNS](https://blahdns.com/)** - DNS Adblocking
 * ⭐ **[YogaDNS](https://yogadns.com/)**  - DNS Adblocking
 * ⭐ **[Mullvad DNS](https://mullvad.net/en/help/dns-over-https-and-dns-over-tls/)** - DNS Adblocking
 * ⭐ **[serverless-dns](https://rethinkdns.com/configure)** - Serverless DNS
+* [AhaDNS](https://ahadns.com/) - DNS Adblocking
+* [BlahDNS](https://blahdns.com/) - DNS Adblocking
 * [Adguard DNS](https://adguard-dns.io/) - DNS Adblocking
 * [AlternateDNS](https://alternate-dns.com/index.php) - DNS Adblocking
 * [LibreDNS](https://libredns.gr/) - DNS Adblocking
@@ -310,7 +310,7 @@
 * ↪️ **[Temp Mail Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_temp_email_sites)** - Create Temporary Throwaway Emails
 * ⭐ **[Have I been Pwned?](https://haveibeenpwned.com/)** - Monitor Email Breaches
 * ⭐ **[Proton Mail](https://proton.me/mail)** - Encrypted Email
-* ⭐ **[SimpleLogin](https://simplelogin.io/)** - Email Aliasing
+* ⭐ **[SimpleLogin](https://simplelogin.io/)** - Email Aliasing / [GitHub](https://github.com/simple-login/app)
 * ⭐ **[addy.io](https://addy.io/)** - Email Aliasing / [GitHub](https://github.com/anonaddy/anonaddy)
 * ⭐ **[DuckDuckGo Email Protection](https://duckduckgo.com/email/)** - Email Aliasing
 * [Tuta](https://tuta.com/) - Encrypted Email
