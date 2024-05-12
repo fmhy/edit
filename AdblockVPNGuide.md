@@ -127,6 +127,7 @@
 * [ESET](https://rentry.co/FMHYBase64#eset) - Antivirus
 * [Dangerzone](https://dangerzone.rocks/) / [GitHub](https://github.com/freedomofpress/dangerzone) - Convert dangerous PDFs to safe PDFs
 * [ANY.RUN](https://any.run/), [Triage](https://tria.ge/) or [Cuckoo](https://cuckoo.cert.ee/) - Online Sandboxes
+* [PE-sieve](https://github.com/hasherezade/pe-sieve) - Process Scanner
 * [No More Ransom](https://www.nomoreransom.org/en/decryption-tools.html) - Ransomware Decryption Tools
 * [ID Ransomware](https://id-ransomware.malwarehunterteam.com/) - Ransomware Identification Tool
 * [ConfigureDefender](https://github.com/AndyFul/ConfigureDefender) - Configure Windows Defender Settings
@@ -259,7 +260,7 @@
 
 * 🌐 **[Awesome I2P](https://github.com/mikalv/awesome-i2p)** - I2P Resources
 * ↪️ **[Browser Comparisons](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools#wiki_.25BA_browser_tools)**
-* ⭐ **[Tor Browser](https://www.torproject.org/)** - Onion-Routed Browser / [Default Gateway](https://github.com/htrgouvea/nipe) / [Gitlab](https://gitlab.torproject.org/tpo/applications/tor-browser)
+* ⭐ **[Tor Browser](https://www.torproject.org/)** - Onion-Routed Browser / [Gitlab](https://gitlab.torproject.org/tpo/applications/tor-browser)
 * ⭐ **[Mullvad Browser](https://mullvad.net/en/browser)** - Tor Browser Fork (without Tor network)
 * ⭐ **[arkenfox](https://github.com/arkenfox/user.js)**- Firefox Privacy Tweak / [Video](https://youtu.be/F7-bW2y6lcI)
 * [Librewolf](https://librewolf.net/) - Pre-tweaked Firefox Fork / [Use Auto-Updater](https://github.com/ltguillaume/librewolf-winupdater)
@@ -331,7 +332,7 @@
 
 ## ▷ Fingerprinting / Tracking
 
-* ⭐ **[ClearURLs](https://docs.clearurls.xyz)** - Remove Tracking Elements from URLs / [Features](https://gitlab.com/ClearURLs/ClearUrls#features), [2](https://i.ibb.co/4JsQwP5/sqzfmLD.png)
+* ⭐ **[ClearURLs](https://docs.clearurls.xyz)** - Remove Tracking Elements from URLs / [Features](https://gitlab.com/ClearURLs/ClearUrls#features), [2](https://i.ibb.co/4JsQwP5/sqzfmLD.png) / Can Break Sites
 * ⭐ **[CanvasBlocker](https://github.com/kkapsner/CanvasBlocker)** - Prevent Canvas Fingerprinting
 * ⭐ **[GameIndustry](https://gameindustry.eu/en/)** - Block Trackers in Desktop / Mobile Games
 * ⭐ **[Creepjs](https://abrahamjuliot.github.io/creepjs)**, [BrowserRecon](https://www.computec.ch/projekte/browserrecon/?s=scan), [Device Info](https://www.deviceinfo.me/), [AmIUnique?](https://amiunique.org/), [CoverYourTracks](https://firstpartysimulator.org/) / [2](https://coveryourtracks.eff.org/) or [PersonalData](https://personaldata.info/) - Tracking / Fingerprinting Tests
@@ -442,7 +443,7 @@
 * ⭐ **[How-to Bind VPN to Client](https://redd.it/ssy8vv)** - Bind VPN to Client to Avoid ISP Letters
 * ⭐ **[WireGuard](https://www.wireguard.com/)** - VPN Tunnel / [Setup Guide](https://github.com/amritb/poor-mans-vpn) / [Tools](https://guardline-vpn.github.io/wireguard-tools/) / [Manager](https://github.com/perara/wg-manager) / [WebUI](https://hub.docker.com/r/weejewel/wg-easy)
 * [OpenVPN](https://openvpn.net/) or [TincVPN](https://www.tinc-vpn.org/) - VPN Tunnels
-* [WireHole](https://github.com/IAmStoxe/wirehole) - Wireguard VPN with Adblocking Capabilities 
+* [WireHole](https://github.com/IAmStoxe/wirehole) - Wireguard VPN with Adblocking Capabilities / [User-Interface](https://github.com/10h30/wirehole-ui)
 * [Syntropy](https://www.syntropystack.com/vpn), [Self Hosted VPN](https://github.com/rajannpatel/Pi-Hole-on-Google-Compute-Engine-Free-Tier-with-Full-Tunnel-and-Split-Tunnel-Wireguard-VPN-Configs), [VpnHood](https://github.com/vpnhood/VpnHood), [n2n](https://github.com/ntop/n2n), [ipsec-vpn](https://github.com/hwdsl2/setup-ipsec-vpn) or [Outline](https://getoutline.org/) - Self-Hosted VPN
 * [OpenConnect](https://www.infradead.org/openconnect/) - SSL VPN / [GUI](https://openconnect.github.io/openconnect-gui/)
 * [Gluetun](https://hub.docker.com/r/qmcgaw/gluetun) / [GitHub](https://github.com/qdm12/gluetun) - Tunnel your Docker containers through a VPN
@@ -473,7 +474,7 @@
 * [wireproxy](https://github.com/pufferffish/wireproxy) - Use VPNs as proxies
 * [Hiddify](https://hiddify.com/) - Auto-Proxy Client
 * [NginxProxyManager](https://nginxproxymanager.com) / [GitHub](https://github.com/NginxProxyManager/nginx-proxy-manager) - Self-Hosted Proxy Server
-* [Shadowsocks](https://shadowsocks.org/) / [Free Servers](https://github.com/ruanfei/cross), [2](https://github.com/vxiaov/free_proxies), [3](https://shadowmere.akiel.dev/) / [Client](https://github.com/shadowsocks/shadowsocks-windows) - Proxy Client and Self-Hosted Server
+* [Shadowsocks](https://shadowsocks.org/) - Proxy Client and Self-Hosted Server / [Free Servers](https://github.com/ruanfei/cross), [2](https://github.com/vxiaov/free_proxies), [3](https://shadowmere.akiel.dev/) / [Client](https://github.com/shadowsocks/shadowsocks-windows)
 * [Hysteria](https://v2.hysteria.network/) - Proxy Client and Self-Hosted Server
 * [Xray](https://github.com/XTLS/Xray-core) - Proxy Client and Self-Hosted Server / [Telegram](https://t.me/projectXray)
 * [Ultraviolet](https://docs.titaniumnetwork.org/proxies/ultraviolet) or [Metallic](https://github.com/cognetwork-dev/Metallic) - Self-Hosted Proxy Websites
@@ -494,6 +495,7 @@
 * [KProxy](https://www.kproxy.com/)
 * [Free Proxy](https://freeproxy.win/)
 * [Blockaway](https://www.blockaway.net/)
+* [Free Proxy Servers](https://www.free-proxy-servers.com/)
 * [VPN Book](https://www.vpnbook.com/webproxy)
 * [CroxyProxy](https://www.croxyproxy.com/)
 * [ProxyPx](https://croxyproxy.best/)
