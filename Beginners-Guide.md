@@ -8,7 +8,7 @@
 
 ### FAQ
 
-> How can I improve my privacy online? 
+> How can I improve my privacy online?
 We'd recommend checking out privacy guides like [SSD](https://ssd.eff.org/) and [The New Oil](https://thenewoil.org/).
 
 > I don't know what seeding or *insert another term* means...
@@ -27,7 +27,7 @@ You can use [WhereYouWatch](https://whereyouwatch.com) for finding movies, and f
 Use the tools listed [here](https://fmhy.net/gamingpiracyguide#steam-epic) to unlock DLCs.
 
 > Should I install and use *insert random antivirus software* instead of using Windows Defender?
-No, don't do that. Windows Defender is more than enough to keep you safe, but if you're still set on installing a secondary AV, the only one worth installing is Malwarebytes. Please read the note [here](#anti-virus). 
+No, don't do that. Windows Defender is more than enough to keep you safe, but if you're still set on installing a secondary AV, the only one worth installing is Malwarebytes. Please read the note [here](#anti-virus).
 !!!warning Stay away from Avast, Norton, and McAfee, as these are "bloatware" and generally unsafe software.
 
  > How can I bypass a paywalled article?
@@ -38,17 +38,17 @@ Use this [browser extension](https://github.com/bpc-clone/bpc_updates/releases) 
 
 ***
 
-### Windows Piracy 
+### Windows Piracy
 
 **[Windows ISOs](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/system-tools#wiki_.25BA_windows_isos)** - Download Windows
-**[Windows Activation](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/system-tools#wiki_.25B7_windows_activation)** - Activate Windows 
+**[Windows Activation](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/system-tools#wiki_.25B7_windows_activation)** - Activate Windows
 
 ***
 
 ### Linux Piracy
 
-**[Linux Distros](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/linux#wiki_.25BA_linux_distros)** - Download Linux Distros 
-**[Linux Gaming Guide](https://github.com/rimsiw/linux-gaming-omg)** - Piracy Guide for Linux 
+**[Linux Distros](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/linux#wiki_.25BA_linux_distros)** - Download Linux Distros
+**[Linux Gaming Guide](https://github.com/rimsiw/linux-gaming-omg)** - Piracy Guide for Linux
 **[Torrminatorr](https://forum.torrminatorr.com/)** / **[Kapital Sin](https://kapitalsin.com/)** - Download Linux Games
 **[ani-cli](https://github.com/pystardust/ani-cli)** - Anime Streaming Terminal
 
@@ -98,7 +98,7 @@ Use this [browser extension](https://github.com/bpc-clone/bpc_updates/releases) 
 
 ### Privacy
 
-**[Privacy Guides](https://www.privacyguides.org/)** - Privacy guides 
+**[Privacy Guides](https://www.privacyguides.org/)** - Privacy guides
 **[DuckDuckGo](https://duckduckgo.com/) / [Mojeek](https://www.mojeek.com/)** - Tracker-free web search
 **[ProtonMail](https://proton.me/mail)** - Encrypted email service
 **[Email Privacy](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25B7_email_privacy)** - Email privacy resources
@@ -186,7 +186,7 @@ Use this [browser extension](https://github.com/bpc-clone/bpc_updates/releases) 
 **[Android APK CSE](https://cse.google.com/cse?cx=e0d1769ccf74236e8) / [2](https://cse.google.com/cse?cx=73948689c2c206528) / [3](https://cse.google.com/cse?cx=a805854b6a196d6a6)** - Multi-site APK search
 **[Stremio](https://www.stremio.com/)** - Video streaming app / Use VPN / [Guide](https://rentry.co/privatestremio)
 **[Patch Reddit Clients](https://docs.google.com/document/u/0/d/1wHvqQwCYdJrQg4BKlGIVDLksPN0KpOnJWniT6PbZSrI/mobilebasic)** - How To Patch 3rd Party Reddit Clients
-**[ReVanced Manager](https://github.com/revanced/revanced-manager)** - Ad-Free YouTube, Reddit, X etc. Patcher / [Discord](https://discord.com/invite/rF2YcEjcrT) / [Guide](https://redd.it/xlcny9) 
+**[ReVanced Manager](https://github.com/revanced/revanced-manager)** - Ad-Free YouTube, Reddit, X etc. Patcher / [Discord](https://discord.com/invite/rF2YcEjcrT) / [Guide](https://redd.it/xlcny9)
 **[Complete Jailbreak Chart](https://ios.cfw.guide/)** - Jailbreaking info & tools
 
 ***
