@@ -46,6 +46,7 @@
 * [Awesome Spotify Stats](https://github.com/rimsiw/awesome-spotify-stats) - Listening Stats
 * [Tierify](https://davitg.com/projects/tierify/) - Tier Lists
 * [Kira](https://kira.vercel.app/) - Song Country Search
+* [Syrics](https://syrics-web-akashrchandran.vercel.app/) - Download Synced Lyrics
 * [spotify-account-generator](https://github.com/davide-acanfora/spotify-account-generator), [2](https://github.com/ALIILAPRO/spotify-account-creator) - Account Gen
 * [spotify-github-profile](https://github.com/kittinan/spotify-github-profile) - GitHub Display
 
