@@ -79,14 +79,6 @@
 
 ### [Fake Z-Lib Sites](https://redd.it/16xtm67) / [2](https://ibb.co/MhfGTWx)
 
-### [Fake Windows Activators](https://i.ibb.co/4SKQbB9/Lv2FYbw.png)
+### [Fake Windows Activators](https://pastebin.com/gCmWs2GR) / [2](https://i.ibb.co/4SKQbB9/Lv2FYbw.png)
 
 ### [Unsafe Wayback Machine Links](https://rentry.co/ue9qk)
-
-***
-
-### How-to Send Reports
-
-* To suggest something for the list, please leave a comment on [this thread](https://www.reddit.com/r/FREEMEDIAHECKYEAH/comments/10bh0h9/unsafe_sites_software_thread/), or contact us via [Discord](https://discord.gg/Stz6y6NgNg).
-
-* Never include a URL, just the name of the site / software, and the reason you feel people should avoid it.
