@@ -147,6 +147,7 @@
 * [Discord Me](https://discord.me/) - Server / Bot Index
 * [Disforge](https://disforge.com/) - Server / Bot Index
 * [Find a Discord](https://findadiscord.com/) - Server / Bot Index
+* [Discord Extreme List](https://discordextremelist.xyz/) - Server / Bot Index
 * [Open Source Projects](https://discord.com/open-source) - Server / Bot Index
 * [BotBlock](https://botblock.org/) - Bot Index
 * [Top.gg](https://top.gg/) - Bot Index
