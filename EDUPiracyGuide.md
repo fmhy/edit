@@ -66,6 +66,7 @@
 * [Open Course](https://open-course.vercel.app/) - User-curated Courses
 * [Class Central](https://www.classcentral.com/) - Search for Courses
 * [ProfessorMesser](https://www.professormesser.com/) - IT Courses
+* [SmartYouTube](https://www.openculture.com/smartyoutube) - Edu YouTube Channels
 * [media.ccc.de](https://media.ccc.de/) - Educational Presentations
 * UC Berkeley Webcast Project - [Archive](https://archive.org/details/ucberkeley-webcast) or [lbry](https://odysee.com/@UCBerkeley)
 * [Video Lectures](https://videolectures.net/) - Lectures
@@ -225,7 +226,7 @@
 * [MusicKit](https://musickit.jull.dev/) or [Tone Generator](https://www.szynalski.com/tone-generator/) - Metronome, Tuner & Tone Generators 
 * [Tuner Ninja](https://tuner.ninja/) - Instrument Tuner 
 * [Circle of Fifths](https://muted.io/circle-of-fifths/) - Visualize Notes, Cords & Keys
-* [ScoreCloud](https://scorecloud.com/) or [Chordify](https://chordify.net/) - Chord Detection / Transcriber
+* [ScoreCloud](https://scorecloud.com/), [ChordReader2](https://github.com/AndInTheClouds/chordreader2) or [Chordify](https://chordify.net/) - Chord Detection / Transcriber
 * [Arpeggiator](https://codepen.io/jakealbaugh/full/qNrZyw) or [AutoChords](https://autochords.com/) - Chord Progression Generators
 * [HookTheory](https://www.hooktheory.com/trends) - Chord Progression Library 
 * [Piano Scribe](https://piano-scribe.glitch.me/) - Piano Transcriber
