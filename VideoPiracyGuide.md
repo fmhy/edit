@@ -63,7 +63,7 @@
 * [MoviesLair](https://movielair.cc/) - Movies / TV / 720p
 * [uFlix](https://uflix.cc/) - Movies / TV / Anime / 720p
 * [SlideMovies](https://slidemovies.org/) - Movies / TV / Anime / 720p
-* [MovieUniverse](https://movieuniverse.se/) - Movies / TV / Anime / 720p
+* [MovieUniverse](https://movieuniverse.li/) - Movies / TV / Anime / 720p
 * [Afdah](https://afdah2.com/) - Movies / 720p
 * [Flixtor](https://flixtor.to/) - Movies / TV / 720p / Movies Older Than 6 Months For Premium Only
 * [GoMo](https://gomo.to/) - Movies / TV / Anime / API / 1080p
