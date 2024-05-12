@@ -982,6 +982,7 @@
 * [DocDownloader](https://docdownloader.com/) or [scribd.vpdfs](https://scribd.vpdfs.com/) - [Scribd](https://www.scribd.com/) Document Downloaders
 * [GROBID](https://grobid.readthedocs.io) - Extract / Organize Scientific Document Info
 * [FicHub](https://fichub.net/) or [FanFictionDownloader](https://fanfictiondownloader.net/) - Fanfiction Downloader
+* [Book Scraper](https://gitlab.com/minecraftpiston/book-scraper) - RoyalRoad / ScribbleHub Downloader
 * [Sigil Ebook](https://sigil-ebook.com/) - EPUB Editor
 * [EPUB Translator](https://github.com/quantrancse/epub-translator) or [epub-translator](https://github.com/sharplab/epub-translator) - EPUB Translators
 * [SmartStich](https://github.com/MechTechnology/SmartStitch) - Stitch Together Webtoons
