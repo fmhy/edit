@@ -63,8 +63,8 @@
 * [BadshahUploads](https://badshahuploads.xyz/) - Video / Audio / Books / Leech Required
 * [FrostClick](https://www.frostclick.com/wp/) - Video / Audio / Books
 * [The Ambassador](https://ambassadorddl.site/) - Video / Books
-* [Leaker](https://leaker.me/) - Video / Audio 
-* [TehParadox](https://www.tehparadox.net/) - Video / Audio / Books / Magazines / ROMs 
+* [Leaker](https://leaker.me/) - Video / Audio
+* [TehParadox](https://www.tehparadox.net/) - Video / Audio / Books / Magazines / ROMs
 * [wJungle](https://wjungle.net/) - Video / Audio / Books / NSFW
 * [PuZo](https://www.puzo.org/) - Video / Audio / Books / Audiobooks / NSFW
 * [Warez-Serbia](https://www.warez-serbia.com/) - Video / Audio / Books / Magazines / NSFW
@@ -73,7 +73,7 @@
 * [SceneSource](https://www.scnsrc.me/), [2](https://www.scenesource.me/) - Video / Audio / ROMs / Books
 * [Amader Forum](https://amaderforum.net/) - Video / Books / NSFW
 * [Download For All](https://dl4all.org/), [2](https://dl4all.biz/) - Video / Audio / Books / Magazines
-* [ddlspot](https://www.ddlspot.com/) - Video / Audio 
+* [ddlspot](https://www.ddlspot.com/) - Video / Audio
 * [Uploadgig](https://uploadgig.me/) - Video / Audio / Books / Audiobooks / Magazines / NSFW
 * [Warez-World](https://warez-world.org/) - Video / Audio / Books / Magazines / NSFW
 * [0DayDDL](https://0dayddl.com/) - Video / Audio / Books / Magazines
@@ -100,7 +100,7 @@
 * [scnlog](https://scnlog.me/)
 * [filesearch.link](https://filesearch.link/)
 * [Linktury](https://www.linktury.com/)
-* [MediafireTrend](https://mediafiretrend.com/) - Mediafire  Search
+* [MediafireTrend](https://mediafiretrend.com/) - Mediafire Search
 * [WarezOmen](https://warezomen.com/) - Indexer / Search Engine
 * [SunXDCC](https://sunxdcc.com/) or [XDCC.EU](https://www.xdcc.eu/) - XDCC / Search Engine
 * [Find Rare Files Online](https://forums.lostmediawiki.com/thread/10861/find-rare-files-online) - How-to Find Rare Files
@@ -215,7 +215,7 @@
 * 🌐 **[Awesome IRC](https://github.com/davisonio/awesome-irc)** - IRC Resources
 * ⭐ **[IRC Tutorial](https://rentry.org/irc)**, [Libera Guides](https://libera.chat/guides/), [LoadGuru](https://www.theloadguru.com/xdcc-irc-beginners-guide/), [New Blood](https://anonops.com/newblood/) or [Simple Wiki Guide](https://en.wikipedia.org/wiki/Wikipedia:IRC/Tutorial) - IRC Guides
 * [AdiIRC](https://adiirc.com/), [Convos](https://convos.chat/), [mIRC](https://www.mirc.com/get.html) or [Bitchx](https://bitchx.sourceforge.net/) - IRC Clients
-* [Hexchat](https://hexchat.github.io/) - Private IRC Client 
+* [Hexchat](https://hexchat.github.io/) - Private IRC Client
 * [KiwiIRC](https://kiwiirc.com/) or [TheLounge](https://thelounge.chat/) - WebIRC Client
 * [irc2go](https://en.irc2go.com/) - Browse IRC Chat Rooms / [Top 1000](https://netsplit.de/networks/top100.php)
 * [libera](https://libera.chat/), [tilde](https://tilde.chat/), [anonops](https://anonops.com/) or [rizon](https://rizon.net/) - IRC Networks

@@ -4,7 +4,7 @@
 
 **Note** - Scene groups do not have their own sites, so it's best to avoid anything claiming to represent one.
 
-* IGG / LoadGames  - Caught with [malware](https://redd.it/bzczk6) / [2](https://i.ibb.co/fkXpgsq/jyFj8Kh.png) / [3](https://i.ibb.co/xmj2Vqh/9w5dyTU.png), doxxed member, added DRM to games
+* IGG / LoadGames - Caught with [malware](https://redd.it/bzczk6) / [2](https://i.ibb.co/fkXpgsq/jyFj8Kh.png) / [3](https://i.ibb.co/xmj2Vqh/9w5dyTU.png), doxxed member, added DRM to games
 * OceanOfGames - Caught with malware multiple times
 * CrackingPatching - Caught with [malware](https://redd.it/qy6z3c)
 * xGIROx - Caught with malware
@@ -23,17 +23,17 @@
 
 **Note** - YouTube videos claiming to give away free software are nearly always scams.
 
-* GetIntoPC / GetIntoMAC - Caught with malware multiple times 
-* SadeemPC / SadeemAPK - Caught with malware multiple times 
+* GetIntoPC / GetIntoMAC - Caught with malware multiple times
+* SadeemPC / SadeemAPK - Caught with malware multiple times
 * KaranPC - Caught with malware multiple times
 * AliTPB / AliPak / b4tman - Caught with malware multiple times
 * FileCR - Caught with malware [multiple times](https://rentry.co/filecr_malware)
-* FTUApps - Caught with [malware](https://redd.it/120xk62) 
+* FTUApps - Caught with [malware](https://redd.it/120xk62)
 * S0ft4PC / Portable4PC - Caught with malware
 * CracksHash - Caught with [malware](https://redd.it/lklst7)
 * haxNode - Caught with [malware](https://www.virustotal.com/gui/file/e6318aa4432c304b234df65f5d87bf2577b930ed68ac7e68efcb76b465dc0784)
 * IGI30 - Caught with malware
-* MainRepo / MRepo - Caught with [malware](https://rentry.co/zu3i6) / Note that Magisk Module MRepo is unrelated 
+* MainRepo / MRepo - Caught with [malware](https://rentry.co/zu3i6) / Note that Magisk Module MRepo is unrelated
 * YASDL - Uploaded versions of stardock / jetbrains with malware
 * AllPCWorld - Uploaded KMS Matrix which is known malware
 * RSLOAD - Uploaded the same version of malwarebytes that got FileCR in trouble / [utorrent malware](https://i.ibb.co/QXrCfqQ/Untitled.png)
@@ -72,7 +72,7 @@
 * Kik (messaging app) - App used by mostly [predators / scammers](https://youtu.be/9sPaJxRmIPc)
 * TLauncher (minecraft launcher) - [Shady](https://redd.it/zmzzrt) business practices / Note that TLauncher Legacy is unrelated
 * PolyMC (minecraft launcher) - Owner [kicked](https://redd.it/y6lt6s) all members from repo / discord. Keep in mind PollyMC (two L's) is safe.
-* GShade (ReShade mod) - Dev added code that can trigger unwanted [reboots](https://rentry.co/GShade_notice) 
+* GShade (ReShade mod) - Dev added code that can trigger unwanted [reboots](https://rentry.co/GShade_notice)
 * TotalAV / PC Protect / Protected - Antivirus Software [Scam](https://www.malwarebytes.com/blog/detections/pup-optional-totalav) / [2](https://www.malwarebytes.com/blog/detections/pup-optional-pcprotect) / [3](https://youtu.be/PcS3EozgyhI)
 
 ***

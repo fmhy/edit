@@ -69,7 +69,7 @@
 * [Crow Translate](https://crow-translate.github.io/) or [Argos](https://github.com/argosopentech/argos-translate) - Translation Apps
 * [Translate Shell](https://www.soimort.org/translate-shell/) - Translation CLI / [GitHub](https://github.com/soimort/translate-shell)
 * [OnlineDocTranslator](https://www.onlinedoctranslator.com/en/) - Document Translator
-* [Matecat](https://www.matecat.com) - Online Translation Editor 
+* [Matecat](https://www.matecat.com) - Online Translation Editor
 * [LingoJam](https://lingojam.com/) - Create Translator
 * [Translator++](https://www.patreon.com/collection/13346) - Automatic Translator / Editor
 * [Renpy Translator](https://github.com/anonymousException/renpy-translator) or [Renpy Editor](https://github.com/anonymousException/renpy-runtime-editor) - Ren'py Automatic Translator / Editor
@@ -78,7 +78,7 @@
 * [Morsecode World](https://morsecode.world/) or [MorseDecoder](https://morsedecoder.com/) - Morse Code / Binary Translators
 * [Emojify](https://madelinemiller.dev/apps/emojify/) - Emojify Text
 * [Papago](https://papago.naver.com/)
-* [Libretranslate](https://libretranslate.com/) / [2](https://github.com/LibreTranslate/LibreTranslate) 
+* [Libretranslate](https://libretranslate.com/) / [2](https://github.com/LibreTranslate/LibreTranslate)
 * [Translate.com](https://www.translate.com/)
 * [MyMemory](https://mymemory.translated.net/)
 * [Nice Translator](https://nicetranslator.com/)
@@ -86,7 +86,7 @@
 * [Bing Translator](https://www.bing.com/translator)
 * [Reverso](https://www.reverso.net/)
 * [GTranslate](https://git.sr.ht/~yerinalexey/gtranslate)
-* [babelfish](https://www.babelfish.com/) 
+* [babelfish](https://www.babelfish.com/)
 * [translation2](https://translation2.paralink.com/)
 * [Apertium](https://apertium.org/)
 * [collinsdictionary](https://www.collinsdictionary.com/translator)
@@ -232,7 +232,7 @@
 * [Notesnook](https://notesnook.com/)
 * [AFFiNE](https://affine.pro/)
 * [Butterfly](https://docs.butterfly.linwood.dev/) / [Discord](https://discord.com/invite/97zFtYN) / [GitHub](https://github.com/LinwoodDev/Butterfly)
-* [UseMemos](https://usememos.com/) 
+* [UseMemos](https://usememos.com/)
 * [benotes](https://benotes.org/)
 * [Saber](https://saber.adil.hanney.org/)
 * [Trilium](https://github.com/zadam/trilium)
@@ -282,7 +282,7 @@
 * [Cubox](https://cubox.cc/)
 * [vym](https://github.com/insilmaril/vym)
 * [markmap](https://markmap.js.org/) - Markdown Mind Mapping / [GitHub](https://github.com/markmap/markmap)
-* [Coggle](https://coggle.it/) - Collaborative 
+* [Coggle](https://coggle.it/) - Collaborative
 * [CardSmith](https://cardsmith.co/) - Collaborative Mind Mapping
 * [Memrey](https://www.memrey.com/) - Collaborative Mind Mapping
 * [MindMeister](https://www.mindmeister.com/) - Collaborative Mind Mapping
@@ -296,18 +296,18 @@
 * ⭐ **[Google Docs](https://www.google.com/docs/about/)**
 * ⭐ **[CryptPad](https://cryptpad.fr/)**
 * ⭐ **[Kludd](https://kludd.co/)**
-* [Stashpad](https://www.stashpad.com/) / [Discord](https://discord.gg/ScxPxcN9fK) 
+* [Stashpad](https://www.stashpad.com/) / [Discord](https://discord.gg/ScxPxcN9fK)
 * [Mattermost](https://mattermost.com/)
 * [Codeshare](https://codeshare.io/)
 * [HackMD](https://hackmd.io/)
-* [Taskade](https://www.taskade.com/) 
-* [Socket](https://socket.io/) 
-* [Whimsical](https://whimsical.com/) 
-* [Firepad](https://firepad.io/) 
+* [Taskade](https://www.taskade.com/)
+* [Socket](https://socket.io/)
+* [Whimsical](https://whimsical.com/)
+* [Firepad](https://firepad.io/)
 * [Etherpad](https://etherpad.org/)
 * [SharePad](https://sharepad.io/)
 * [Pixso](https://pixso.net/)
-* [FidusWriter](https://www.fiduswriter.org/) 
+* [FidusWriter](https://www.fiduswriter.org/)
 * [overleaf](https://www.overleaf.com/)
 * [RustPad](https://github.com/ekzhang/rustpad)
 
@@ -426,7 +426,7 @@
 * [Textcraft](https://textcraft.net/) or [TextDrom](https://en.textdrom.com/) - Styled Font Generator
 * [Cava's Pixel Resources](https://caveras.net/) - Pixel Fonts
 * [Oldschool PC Fonts](https://int10h.org/oldschool-pc-fonts/) - Oldschool PC Fonts
-* [Textanim](https://textanim.com/) or [Space Type Generator](https://spacetypegenerator.com/) - Animated Text Generator 
+* [Textanim](https://textanim.com/) or [Space Type Generator](https://spacetypegenerator.com/) - Animated Text Generator
 * [3DText2GIF](https://3dtext2gif.com/) or [TextsStudio](https://textstudio.co/) - Animated 3D Text Generator
 * [Batname](https://batname.vercel.app/) - Batman (2022) Font Generator
 * [Codeface](https://github.com/chrissimpkins/codeface) - Fonts for Coding
