@@ -61,7 +61,7 @@
 ## ▷ File Archivers
 
 * 🌐 **[SuperCompression](https://supercompression.org/)** - File Compression Resources
-* ⭐ **[7-Zip](https://www.7-zip.org/)** / [Colab](https://github.com/dropcreations/7zip-in-Google-Colab) / [Benchmarks](https://s1.hoffart.de/7zip-bench/) / [Additional Codecs](https://github.com/mcmilk/7-Zip-zstd) - File Archiver
+* ⭐ **[7-Zip](https://www.7-zip.org/)** - File Archiver
 * ⭐ **[NanaZip](https://github.com/M2Team/NanaZip)** - File Archiver
 * ⭐ **[PeaZip](https://peazip.github.io/)** - Cross Platform File Archiver
 * ⭐ **[CompactGUI](https://github.com/IridiumIO/CompactGUI)** or [Compactor](https://github.com/Freaky/Compactor) - Transparent Compression
@@ -238,6 +238,7 @@
 * [Massren](https://github.com/laurent22/massren) - Bulk Renamer
 * [PowerRename](https://learn.microsoft.com/en-us/windows/powertoys/powerrename) - Bulk Renamer
 * [Ant Renamer](https://www.antp.be/software/renamer) - Bulk Renamer
+* [renamer](https://github.com/sun-jiao/renamer) - Bulk Renamer
 
 ***
 
@@ -456,6 +457,7 @@
 * [GD-EFC Link Encryptor](https://rekulous.github.io/gd-efc-encryptor/) - Google Drive Link Encryptor for GD-EFC
 * [gd-efc](https://anadius.github.io/gd-efc/) - Copy Encrypted Google Drive 
 * [Gdrive Guide-Noob Friendly](https://telegra.ph/Gdrive-Guide-Noob-Friendly-04-10) - GDrive Guide
+* [DriveRename](https://driverename.iblogbox.com/) - Bulk GDrive File Rename
 
 ***
 
