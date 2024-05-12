@@ -15209,7 +15209,8 @@ outline: false
 * [SteamDesktopAuthenticator](https://github.com/Jessecar96/SteamDesktopAuthenticator) - Desktop Implementation of Steam's Mobile Authenticator 
 * [Steam Python](http://steam.readthedocs.io) - Interact with Steam via Python
 * [Idle Master Extended](https://github.com/JonasNilson/idle_master_extended) or [IdleDaddy](https://play.google.com/store/apps/details?id=com.steevsapps.idledaddy) - Steam Card Automation
-* [SteamAchievementManager](https://github.com/gibbed/SteamAchievementManager) - Steam Achievement Manager 
+* [SteamAchievementManager](https://github.com/gibbed/SteamAchievementManager) - Steam Achievement Manager
+* [Steam Charts](https://steamcharts.com/) - Steam Statistics
 * [SteamRep](https://steamrep.com/), [SteamID](https://steamid.io/) / [2](https://steamid.uk/) or [SteamFinder](https://steamidfinder.com/) - Steam ID Lookup
 * [SteamGuard](https://github.com/dyc3/steamguard-cli) - Generate Steam 2FA Codes
 * [Watt Toolkit](https://steampp.net/) - Enhance Steam Functionality / [GitHub](https://github.com/BeyondDimension/SteamTools)
