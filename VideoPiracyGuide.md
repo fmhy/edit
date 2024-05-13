@@ -59,6 +59,7 @@
 * [Yesmovies.pm](https://yesmovies.pm/) - Movies / TV / Anime / 1080p
 * [OnionPlay](https://onionplay.se/) - Movies / TV / 1080p / [Mirrors](https://onionplay.network/)
 * [MKVKing](https://193.233.203.165/) - Movies / TV / Anime / 1080p
+* [Nova](https://novastream.top/) - Movies / TV / 1080p / [Github](https://github.com/ambr0sial/nova/)
 * [Supernova](https://supernova.to/) - Movies / TV / Anime / 720p
 * [MoviesLair](https://movielair.cc/) - Movies / TV / 720p
 * [uFlix](https://uflix.cc/) - Movies / TV / Anime / 720p
@@ -414,6 +415,7 @@
 * [1Stream](https://1stream.eu/) - Sports
 * [First Row Sports](https://firstsrowsports.tv/) - Sports
 * [StreamEast](https://streameast.to/) - Sports
+* [FSL](https://freestreams-live.my/) - Sports / [Discord](https://discord.gg/eXXJzDPchU)
 * [KobeStreams](http://watchkobestreams.info/) - Sports / [Discord](https://discord.com/invite/SEmFE8bdtR)
 * [AESports](https://aesport.tv/) - Sports
 * [720pStream](https://720pstream.nu/) - Sports
@@ -425,6 +427,7 @@
 * [SportHD](https://my.livesoccer.sx/) - Sports
 * [SportsOnline](https://sportsonline.gl/) - Sports
 * [Footybite](https://back.footybite.com/) - Sports
+* [AntenaSports](https://antenasports.ru/) - Sports
 * [WorldStreams](https://worldstreams.net/) - Sports
 * [p2pstreams](https://p2pstreams.live/) - Sports
 * [StrikeOut](https://strikeout.im/) - Sports
