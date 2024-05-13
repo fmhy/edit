@@ -331,9 +331,9 @@
 * [r/oldmaps](https://new.reddit.com/r/oldmaps/) or [r/papertowns](https://new.reddit.com/r/papertowns/) - Historical Maps Community
 * [Historical City Maps](https://redd.it/61fdp6) - Collection of Historical City Maps 
 * [NYPL Digital Collections](https://digitalcollections.nypl.org/collections/lane/maps-atlases) - Historic Maps & Atlases
-* [Library of Congress](https://www.loc.gov/collections/?fa=partof:geography+and+map+division) - LOC Historic Map Archive
+* [Library of Congress](https://www.loc.gov/collections/?fa=partof:geography+and+map+division) - LOC Historic Maps Archive
 
-* [MapHistory](https://www.maphistory.info/index.html)
+* [WWW-Virtual Library](https://www.maphistory.info/index.html)
 
 * [OldMapsOnline](https://www.oldmapsonline.org/) - Historical Maps Tool
 * [Historic Borders](https://historicborders.app/) - Historic Borders Map
