@@ -146,6 +146,7 @@
 * [Tea Guide](https://pastebin.com/raw/80GeeXJV) - Tea Guide Masterlist
 * [Coffee Guide](https://pastebin.com/raw/UEzwuyLz) - Coffee Guide Masterlist
 * [Coffee or Bust!](https://www.coffeeorbust.com/) - Coffee-Making Guides
+* [Cofi](https://github.com/rozPierog/Cofi) - Coffee Brew Timer / [Note](https://pastebin.com/qTSJek6f)
 * [NahBucks](https://nahbucks.com/) - Find Local Non-Starbucks Coffee Shops
 * [Coffee Flavor Wheel](https://notbadcoffee.com/flavor-wheel-en/) - Interactive Coffee Flavor Wheel
 * [DrinNnation](https://www.drinknation.com/bar) or [MyBar](https://makemeacocktail.com/mybar/) - Cocktail Builders
@@ -187,7 +188,7 @@
 
 # ► Travel
 
-* ⭐ **[Atlas Obscura](https://www.atlasobscura.com/)**, [Turas](https://turas.app/), [CountryReports](https://www.countryreports.org/), [Wikivoyage](https://www.wikivoyage.org) or [Wanderlog](https://wanderlog.com/guides) - Travel Guides
+* ⭐ **[Atlas Obscura](https://www.atlasobscura.com/)**, [Turas](https://turas.app/), [CountryReports](https://www.countryreports.org/), [Wikivoyage](https://www.wikivoyage.org), [WikiTravel](https://wikitravel.org/) or [Wanderlog](https://wanderlog.com/guides) - Travel Guides
 * ⭐ **[JourneyPlan](https://journeyplan.co)**, [RoamAround](https://www.roamaround.io/), [TravelPlan](https://www.travelplan-ai.com/#get-trip) or [Eddy](https://chat.eddytravels.com/) - Trip Planning AIs
 * ⭐ **[twkids](https://www.twkids.app/)** - Find Theme Parks, Water Parks, Zoo's etc.
 * ⭐ **[Passport Index](https://www.passportindex.org/)** - Passport Ratings
@@ -373,6 +374,7 @@
 * [VolcanoDiscovery](https://www.volcanodiscovery.com/erupting_volcanoes.html) - Volcano Activity Map
 * [Read Something Interesting](https://readsomethinginteresting.com/), [Read Something Wonderful](https://readsomethingwonderful.com/), [Read Something Great](https://www.readsomethinggreat.com/), or [BoredReading](https://boredreading.com/) - Random Articles / Blog Posts
 * [Media Bias Fact Check](https://drmikecrowe.github.io/mbfcext/), [ground.news](https://ground.news/extension) or [HonestyMeter](https://www.honestymeter.com/) - Media Bias Checkers
+* [TrueByNow](https://www.truebynow.com/leaderboard) - News Outlet Prediction Leaderboard
 * [PressMob](https://pressmob.ai/) - Journalist Search
 
 ***
@@ -442,8 +444,9 @@
 * [epocrates](https://online.epocrates.com/), [medlineplus](https://medlineplus.gov/), [merckmanuals](https://www.merckmanuals.com/), [mayoclinic](https://www.mayoclinic.org/), [rxlist](https://www.rxlist.com/), [nejm](https://www.nejm.org/), [ncbi](https://www.ncbi.nlm.nih.gov/pmc/), [hhs](https://www.hhs.gov/), [nih](https://www.nih.gov/), [cdc](https://www.cdc.gov/) - Government Health Resources
 * [osh](https://www.osh.net/) - Occupational Health and Safety Resources
 * [CancerFactFinder](https://cancerfactfinder.org/) - Cancer Fact Search
-* [INCIDecoder](https://incidecoder.com/) - Skincare Ingredient Lists
+* [INCIDecoder](https://incidecoder.com/) or [Skin Signal](https://skinsignal.com/) - Skincare Ingredient Lists
 * [AMMFitness](https://www.ammfitness.co.uk/) - Fitness / Nutrition Info
+* [ACTIVE](https://www.active.com/) - Find Local Races & Events
 * [The Fitness Wiki](https://thefitness.wiki/) - Fitness Information Wiki
 * [Google Fit](https://www.google.com/fit/) - Activity Coach
 * [Calistree](https://calistree.app/) - Exercise Search
@@ -469,7 +472,7 @@
 * [CalorieScope](https://f-droid.org/packages/org.dynamicsoft.caloriescope/) or [PFCTE](https://github.com/SecUSo/privacy-friendly-circuit-training-exercises) - Exercise & Activity Tracker
 * [FitoTrack](https://codeberg.org/jannis/FitoTrack) or [openScale](https://github.com/oliexdev/openScale) - Fitness Trackers
 * [Liftosaur](https://www.liftosaur.com/) or [StrongLifts](https://stronglifts.com/) - Weightlifting Trackers
-* [MuscleWiki](https://musclewiki.com/) - Muscle / Exercise Information Tool
+* [MuscleWiki](https://musclewiki.com/) or [The Casual Gym](https://gym.naya.com.np/) - Muscle / Exercise Information Tool
 * [SPSS Tutorials](https://www.spss-tutorials.com/) - SPSS Practice & Examples
 * [Fitness Blender](https://www.fitnessblender.com/videos?exclusive%5B%5D=0) - Workout Videos
 * [Workout.lol](https://workout.lol/) - Create Workout Plans
@@ -570,7 +573,7 @@
 * [JobBoardSearch](https://jobboardsearch.com/), [CyberCoders](https://www.cybercoders.com/), [whoishiring](https://whoishiring.io/), [Toby Tools](https://rentry.co/qnu6x), [The Muse](https://www.themuse.com/search/) or [EuroJobs](https://eurojobs.com/) - Job Search
 * [50WaysToGetAJob](https://50waystogetajob.com/) - Interactive Job Search Guide
 * [RolePad](https://rolepad.com/) - Job Search Manager
-* [80,000 Hours](https://80000hours.org/) or [MyNextMove](https://www.mynextmove.org/) - Explore Career Options
+* [80,000 Hours](https://80000hours.org/), [O*NET](https://www.onetonline.org/) or [MyNextMove](https://www.mynextmove.org/) - Explore Career Options
 * [/r/careerguidance](https://www.reddit.com/r/careerguidance/) - Career Guidance Subreddit
 * [UseThis](https://usesthis.com/) - Career Interviews
 * [Science Career General](https://sciencecareergeneral.neocities.org/) - PhD / STEM Career Study Guides
@@ -603,6 +606,7 @@
 * [Invoicely](https://invoiceto.me/), [InvoiceNinja](https://invoiceninja.com/) or [Akaunting](https://akaunting.com/) - Invoicing Tools
 * [PatentsExpiringToday](https://patentsexpiringtoday.com/) - Find Expired Patents
 * [Candor](https://candor.co/hiring-freezes/) - Hiring Freezes
+* [Layoffs.fyi](https://layoffs.fyi/) - Recent Layoffs Tracker
 * [GoodJobsFirst](https://goodjobsfirst.org/) - Subsidy Tracker
 * [QR Menu Creator](https://qrmenucreator.com/) - Convert Menu to QR Codes
 * [CandidateChecker](https://candidatechecker.io/) - User Backgrounds for Hiring
@@ -775,6 +779,7 @@
 * [Kit.co](https://kit.co/), [Looria](https://www.looria.com/), [ProductHunt](https://producthunt.com/) or [Consumer Reports](https://consumerreports.org/) - Product / Service Reviews
 * [GreenStash](https://github.com/Pool-Of-Tears/GreenStash) - Savings Tracking App
 * [Pepper](https://www.pepper.com/) - Shopping Community
+* [gedd.it](https://gedd.it/) - Shop via Reddit
 * [Randomicle](https://randomicle.com/) - Random Amazon Products
 * [Amazon International Links](https://greasyfork.org/en/scripts/38639-amazon-international-links) - International Amazon Products
 * [Facebook Ad Library](https://www.facebook.com/ads/library/) - Find Deals via Facebook Ad Search
@@ -978,7 +983,6 @@
 * [BreakMessage](https://breakmessage.com/) - Online Break Reminders
 * [TabWave](https://www.tabwave.app/) - Minimal / Productivity New Tab
 * [Virtual Cottage](https://dui.itch.io/virtual-cottage) - Activity / Tasks Virtual Cottage
-* [Noisli](https://www.noisli.com/) - Background Sounds for Productivity & Focus
 * [Plucky](https://pluckyfilter.com/), [Block Site](https://webextension.org/listing/block-site.html), [LeechBlock](https://www.proginosko.com/leechblock), [uBlacklist](https://iorate.github.io/ublacklist/docs), [Forest](https://pastebin.com/rYuAivA0), [Wiper](https://github.com/davidahmed/wiper) or [Tomato Clock](https://github.com/samueljun/tomato-clock) - Site Blocking Extensions
 * [NudgeWare](https://nudgeware.io/), [Minto](https://chromewebstore.google.com/detail/minto/hcgkjlalkeaekjkelpilagbjcengeebl), [GoGo Productivity](https://chromewebstore.google.com/detail/gogo-productivity/mgefagaoblmbfcjoaiibbmobmkgoljia), [UnDistracted](https://www.undistracted.app/), [Focus-ToDo](https://chromewebstore.google.com/detail/ngceodoilcgpmkijopinlkmohnfifjfb) or [HabitLab](https://habitlab.github.io/) - Chrome Productivity Managers
 
@@ -1010,6 +1014,7 @@
 * ↪️ **[AI Chatbots](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/ai#wiki_.25BA_ai_chatbots)**
 * ⭐ **[Knockout](https://knockout.chat/)** / [Discord](https://discord.gg/wjWpapC), [SheepishPatio](https://sheepishpatio.net/) or [SomethingAwful](https://forums.somethingawful.com/) - General Forums
 * ⭐ **[Our World of Text](https://ourworldoftext.com/)** or [Your World of Text](https://www.yourworldoftext.com/) - Infinite Community Text Grid
+* ⭐ **[SufficientVelocity](https://forums.sufficientvelocity.com/)**, [Myth Weavers](https://www.myth-weavers.com/), [RolePlayer](https://www.roleplayer.me/) or [SpaceBattles](https://forums.spacebattles.com/) - Fanfiction / Roleplaying  Communities
 * [Pithee](https://pithee.com/) - Rank Shitposting
 * [Posting.Cool](https://posting.cool/) - Random Topic Forum
 * [Earth Reviews](https://neal.fun/earth-reviews/) - Help Improve the Simulation
@@ -1025,8 +1030,6 @@
 * [TheRPF](https://www.therpf.com/forums/) - Movie Costume / Prop Forum
 * [Websleuths](https://www.websleuths.com/) - Crime Solving Forum
 * [Translation Party](https://www.translationparty.com/) - Translation Parties
-* [RolePlayer](https://www.roleplayer.me/) - Roleplaying Social Network
-* [Myth Weavers](https://www.myth-weavers.com/) - Roleplaying Forum
 * [Status.Cafe](https://status.cafe/) - Share Current Status
 * [TwoCansAndAString](https://twocansandstring.com/) or [TellOnMe](https://tellonym.me/) - Anonymous Q&A
 * [IsItNormal](https://isitnormal.com/) - Ask if Things are Normal
@@ -1144,6 +1147,7 @@
 * [larsberg](https://www.larsberg.net/#/), [substack](https://substack.net/) or [mrdoob](https://mrdoob.neocities.org/) - Trippy 3D Experiments
 * [Google Doodles](https://www.google.com/doodles?q=interactive) - Interactive Google Doodles
 * [Quick, Draw](https://quickdraw.withgoogle.com/) - Doodle Game
+* [Doodle Dash](https://xenova-doodle-dash.static.hf.space/index.html) - Let AI Guess Doodles
 * [DriveMeInsane](https://drivemeinsane.com/) - Control a Home Automation System
 * [Genetic Walkers](https://rednuht.org/genetic_walkers/) - Genetic Algorithm Walkers
 * [A Better World](https://abw.blue/index_en.php) - Interactive History Changing Game
