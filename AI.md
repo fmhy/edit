@@ -184,6 +184,8 @@
 * 🌐 **[Phygital Library](https://library.phygital.plus/)** - AI Directory / Workflow Builder
 * 🌐 **[AI-MF](https://whoisdsmith.gitbook.io/ai-mf/)** - AI Directory / [GitHub](https://github.com/whoisdsmith/AI-MTHRFCKR)
 * 🌐 **[LifeArchitect](https://lifearchitect.ai/models-table/)** - LLM Index
+* [What AI Can Do Today](https://whataicandotoday.com/) - AI Search
+* [Awesome AI Tools](https://github.com/mahseema/awesome-ai-tools) - AI Directory
 * [ToolDirectory](https://www.tooldirectory.ai/) - AI Directory
 * [Futurepedia](https://www.futurepedia.io/) - AI Directory
 * [PowerUsers](https://powerusers.ai/) - AI Directory
