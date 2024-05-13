@@ -470,7 +470,7 @@
 * [Mobalytics](https://mobalytics.gg/) - Game Performance & Stats Analyzer
 * [Porofessor](https://porofessor.gg/) - Live LoL Game Stats
 * [ProStreams](https://prostreams.gg/) - Watch Pro LoL Twitch Streams
-* [DotaBuff](https://www.dotabuff.com/), [Dota2ProTracker](https://www.dota2protracker.com/) or [16-Bits](https://16-bits.org/) - Dota 2 Stat Trackers / Hero Guides
+* [DotaBuff](https://www.dotabuff.com/), [Stratz](https://stratz.com/), [OpenDota](https://www.opendota.com/), [Dota2ProTracker](https://www.dota2protracker.com/) or [16-Bits](https://16-bits.org/) - Dota 2 Stat Trackers / Hero Guides
 * [SmiteGuru](https://smite.guru/) - Smite Leaderboards
 
 ***
