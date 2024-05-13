@@ -261,22 +261,6 @@
 * [NUKEMAP](https://nuclearsecrecy.com/nukemap/) or [MISSILEMAP](https://nuclearsecrecy.com/missilemap/) - Interactive Damage Effect Maps
 * [CAD Mapper](https://cadmapper.com/) - Free CAD Files
 
-## ▷ Railway Maps (needs checking)
-
-(tag railway maps vs tracker maps?)
-
-* [OpenRailwayMap](https://www.openrailwaymap.org/) - World's Railway Infrastructure
-* [trains.fyi](https://trains.fyi/) or [amtrak explorer](https://amtrakexplorer.com/) - North America Railway Maps
-* [Swiss Railways Network](https://maps.vasile.ch/transit-sbb/) - Switzerland Railway Map
-* [AnyTrip](https://anytrip.com.au/) - Australia & New Zealand Railway Maps
-* [vr.fi](https://www.vr.fi/en/live-train-tracker-map) - Finland Railway Map
-* [SignalBox](https://www.map.signalbox.io/) - UK Railway Map
-* [RailRadar](https://railradar.railyatri.in/) - India Railway Map
-* [Train positions](https://treinposities.nl/) - Netherlands Railway Map
-* [ChronoTrains](https://www.chronotrains.com/) - European Train Distances
-* [AbandonedRails](https://www.abandonedrails.com/) - Abandoned Railway Map
-* [MetroOrbits](https://mic-ro.com/metro/index.html) - Subway Maps / Data
-
 ## ▷ Navigation / Transport Maps
 
 * ↪️ **[Railway Maps]()**
@@ -285,11 +269,9 @@
 * ⭐ **[Google Maps](https://www.google.com/maps/)** - Online Maps / [Themes for Web Developers](https://snazzymaps.com/)
 * [Bing Maps](https://www.bing.com/maps) - Online Maps
 * [Waze](https://www.waze.com/) / [Editor](https://www.waze.com/en-US/editor) - Traffic and Road Conditions Map
-* [city roads](https://anvaka.github.io/city-roads/) - City Roads Map
 * [Wikiroutes](https://wikiroutes.info/) - Public Transport Routes
 * [Mini Tokyo 3D](https://minitokyo3d.com/) - Tokyo Public Transport Map
 * [rasp.yandex](https://rasp.yandex.ru/map/trains/) - Russia Public Transport
-* [Mapnificent](https://www.mapnificent.net/) - Transit Time Reachability Map
 * [kakaomap](https://map.kakao.com/) - Map of South Korea
 
 ## ▷ Climate / Weather Maps
@@ -342,18 +324,15 @@
 
 ## ▷ Historic Maps (needs checking)
 
-Historical Map Archives:
+* ⭐ **[David Rumsey Map Collection](https://www.davidrumsey.com/)** - Historical Map Collection
+* [Harvard WorldMap](https://worldmap.maps.arcgis.com/home/index.html) - ArcGIS Map Archive
+* [Cronobook](https://cronobook.com/) - Historical Street View
+* [EuraAtlas](https://euratlas.com/) - Historical Atlas of Europe
+* [r/oldmaps](https://new.reddit.com/r/oldmaps/) or [r/papertowns](https://new.reddit.com/r/papertowns/) - Historical Maps Community
+* [Historical City Maps](https://redd.it/61fdp6) - Collection of Historical City Maps 
+* [NYPL Digital Collections](https://digitalcollections.nypl.org/collections/lane/maps-atlases) - Historic Maps & Atlases
+* [Library of Congress](https://www.loc.gov/collections/?fa=partof:geography+and+map+division) - LOC Historic Map Archive
 
-* [AP World History Notes Visual](https://worldmap.maps.arcgis.com/home/index.html)
-* [Geacron](http://geacron.com/)
-* [Cronobook](https://cronobook.com/)
-* [EuraAtlas](https://euratlas.com/)
-* [Historical City Maps]( https://redd.it/61fdp6)
-* [GeoGarage](https://rumsey.geogarage.com/index.html)
-* [DavidRumsey](https://www.davidrumsey.com/)
-* [Digital Collection](https://digitalcollections.nypl.org/search/index?filters[physicalLocation_mtxt_s][]=Map+Division)
-* [Loc Maps](https://www.loc.gov/collections/general-maps/)
-* [OpenHistoricalMap](https://www.openhistoricalmap.org/)
 * [MapHistory](https://www.maphistory.info/index.html)
 
 * [OldMapsOnline](https://www.oldmapsonline.org/) - Historical Maps Tool
@@ -376,15 +355,16 @@ Historical Map Archives:
 * [Broadband Map](https://broadbandmap.fcc.gov/) - Fixed Broadband Deployment Map
 * [SubMarineCableMap](https://www.submarinecablemap.com/) - Fiber Optic Cable Map
 
-## ▷ Satellite / Street View / Earth Data Maps (needs checking) (rename section?)
+## ▷ Satellite / Street View / Earth Data Maps (rename section?)
 
 * [FacilMap](https://facilmap.org/) or [OsmAPP](https://osmapp.org/) - OSM Web Apps
 * [OpenMapTiles](https://openmaptiles.org/) - Self-hosted Map Tools
 * [Google Earth](https://earth.google.com/web/) - Earth Viewer
-* [Earthdata](https://search.earthdata.nasa.gov/search) - Earth Data Archive
+* [NASA Earthdata](https://search.earthdata.nasa.gov/search) - Earth Data Archive
 * [Mapillary](https://www.mapillary.com/) - Open Street View Data
 * [Instant Street View](https://www.instantstreetview.com/) - Instantly Load Street View
 * [MapCrunch](https://www.mapcrunch.com/) or [Random Street View](https://randomstreetview.com/) - Random Street View
+* [city roads](https://anvaka.github.io/city-roads/) - City Roads Map
 
 ***
 
