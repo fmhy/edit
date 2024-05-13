@@ -598,6 +598,7 @@
 
 ## ▷ Med School
 
+* 🌐 **[/r/MedicalSchool Wiki](https://www.reddit.com/r/medicalschool/wiki/resources)** - Med School Resources
 * ↪️ **[Health Resources](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25BA_health)**
 * ⭐ **[Khan Academy](https://www.khanacademy.org/science/health-and-medicine)** - Physiology / Pathology Overviews
 * ⭐ **[Afratafreeh](https://afratafreeh.com/category/brands/)** - Medical Video Courses and Books
@@ -864,8 +865,13 @@
 * [cb2bib](https://www.molspaces.com/cb2bib/) - Reference Extractors / Managers
 * [ExpertFile](https://expertfile.com/) or [ExpertiseFinder](https://expertisefinder.com/) - Industry / Academic Expert Search
 * [Catma](https://catma.de/) - Research Markup & Analysis Tool
-* [Deepnote](https://deepnote.com/) - Data Science Notebook
+* [BookStack](https://www.bookstackapp.com/) - Self-Hosted Information Manager
+* [OpenRefine](https://openrefine.org/) - Data Cleaning
+* [latex_paper_writing_tips](https://github.com/guanyingc/latex_paper_writing_tips) - Latex Research Paper Tips
+* [Taguette](https://app.taguette.org/) - Data Analysis Document Tagging
 * [Lurnby](https://www.lurnby.com) / [GitHub](https://github.com/Roznoshchik/Lurnby) or [StringMark](https://www.stringmark.com/) - Research Highlighting Tools
+* [Deepnote](https://deepnote.com/) - Data Science Notebook
+* [General Index](https://archive.org/details/GeneralIndex) - Article Metadata Mining Project
 * [Papertag](https://www.papertag.app/) - Attach Digital Content to Paper
 * [Graded](https://nightdreamgames.com/graded) - Grades Tracker / Android / [GitHub](https://github.com/NightDreamGames/Graded)
 * [Study Space](https://discord.gg/7Q7FPUVTm7) - Unlock Courses (Chegg, Bartleby, StuDocu etc.)
