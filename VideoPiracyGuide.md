@@ -112,6 +112,7 @@
 * [BBC iPlayer](https://www.bbc.co.uk/iplayer) - Movies / TV / 1080p / [Downloader](https://github.com/get-iplayer/get_iplayer) / UK VPN required / Windscribe has UK free
 * [Pluto](https://pluto.tv/) - Movies / TV / 720p
 * [9PM](https://9pm.to/) - Movies / TV / 720p
+* [Watchug](https://watchug.com/) - Movies / TV / 720p
 * [Vidlink](https://vidlink.org/) - Movies / 720p / Some NSFW Thumbnails
 * [VidStore](https://stream.vidzstore.com/) - Movies / 720p
 * [MovieXFilm](https://moviexfilm.com/) - Movies / TV / 720p
