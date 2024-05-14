@@ -15232,7 +15232,7 @@ outline: false
 * ⭐ **[Koalageddon](https://github.com/acidicoala/Koalageddon/)** / [v2](https://github.com/acidicoala/Koalageddon2) - DLC Unlocker for Steam, Epic, Origin, EA and Uplay
 * ⭐ **[SmokeAPI](https://github.com/acidicoala/SmokeAPI)** - Steam DLC Unlocker / [Auto Installer](https://github.com/pointfeev/CreamInstaller)
 * ⭐ **[Goldberg](https://github.com/otavepto/gbe_fork)**, [2](https://gitlab.com/Mr_Goldberg/goldberg_emulator) / [GUI](https://cs.rin.ru/forum/viewtopic.php?f=29&t=111152&hilit=goldberg) / [Guide](https://rentry.co/goldberg_emulator) / [SmartSteamEmu](https://cs.rin.ru/forum/viewtopic.php?p=2009102#p2009102) - Offline Steam DRM Bypass / Multiplayer Emulator
-* ⭐ **[Steamtools](https://github.com/st2024/Steamtools/releases)** / [Guide](https://rentry.co/Steamtools) or [GreenLuma](https://cs.rin.ru/forum/viewtopic.php?f=29&t=103709) - Offline Steam DRM Bypass / DLC Unlockers
+* ⭐ **[Steamtools](https://github.com/st2024/Steamtools/releases)** / [Guide](https://rentry.co/Steamtools) or [GreenLuma](https://cs.rin.ru/forum/viewtopic.php?f=29&t=103709) / [Manager](https://github.com/BlueAmulet/GreenLuma-2024-Manager) - Offline Steam DRM Bypass / DLC Unlockers
 * ⭐ **[Unsteam](https://cs.rin.ru/forum/viewtopic.php?f=20&t=134707&hilit=unsteam)** - Online Steam DRM Bypass / Cracked Servers Only / Multiplayer Emulator
 * ⭐ **[Steamless](https://github.com/atom0s/Steamless)** - Steam DRM Remover
 * ⭐ **[Steam-Auto-Crack](https://github.com/oureveryday/Steam-auto-crack)** or [SteamAutoCracker](https://github.com/BigBoiCJ/SteamAutoCracker) - Auto Apply Goldberg + Steamless / [Guide](https://codeberg.org/fernbacher/How-To-Crack)
@@ -15372,6 +15372,7 @@ outline: false
 * [Server.pro](https://server.pro/) - Game Server Hosting
 * [Tilted Online](https://wiki.tiltedphoques.com/tilted-online/) / [GitHub](https://github.com/tiltedphoques/TiltedEvolution) - Multiplayer Skyrim & Fallout 4 / [Discord](https://discord.gg/skyrimtogether) / [Setup Guide](https://youtu.be/ytSftFoQQHA)
 * [NV:MP](https://nv-mp.com/) - Fallout: New Vegas Multiplayer / [Discord](https://discordapp.com/invite/mKVdhmEDrW)
+* [Insignia](https://insignia.live/) - Original Xbox Replacement Servers / [Discord](https://discord.gg/CWkdVdc)
 * [Project Cartographer](https://www.halo2.online/) - Halo 2 Online Servers
 * [Halo Custom Edition](https://www.haloce.org/) - Halo CE Online Servers
 * [Northstar](https://thunderstore.io/c/northstar/), [2](https://northstar.tf/) - Titanfall 2 Server Hosting & Modding / [GitHub](https://github.com/R2Northstar/Northstar/releases) / [Guide](https://rentry.org/northstar-guide) / [Discord](https://discord.gg/CEszSguY3A)
@@ -15388,6 +15389,7 @@ outline: false
 * [t7patch](https://github.com/shiversoftdev/t7patch) - Black Ops 3 Crash Fix
 * [Venice Unleashed](https://veniceunleashed.net/) / [Discord](https://discord.com/invite/dpJwaVZ) or [Warsaw Revamped](https://warsaw-revamped.com/) / [Discord](https://discord.com/invite/C9Zrh4G) - Battlefield Mod Projects
 * [BF2142 Reclamation](https://battlefield2142.co/) - BF2142 Multiplayer Project / [Discord](https://discord.gg/MEwBW9U)
+* [Marne](https://marne.io/) - BF1 Multiplayer Project / [Discord](https://marne.io/discord)
 * [StatsVerse](http://statsverse.com/) - Battlefield Leaderboards
 * [Sym.gg](https://sym.gg/) - Battlefield Info & Weapon Stats / [Discord](https://discord.com/invite/RVRZ3RgYNP)
 * [PaladinsGuru](https://paladins.guru/) - Paladins Leaderboards / [Discord](https://discord.com/invite/5aKtMB7)
@@ -15766,9 +15768,10 @@ outline: false
 * ⭐ **[CsWarzOnE](https://cswarzone.com/)** - Counter-Strike Downloads
 * [CSGO Trader](https://csgotrader.app/) - CS:GO Trading Enhancements
 * [ArminC-AutoExec](https://github.com/ArmynC/ArminC-AutoExec) - ArminC's CS2 Config
-* [CS2 Browser](https://cs2browser.com/) - Counter-Strike 2 Server Browser
+* [CS2 Browser](https://cs2browser.com/) or [CS2 Server Picker](https://github.com/FN-FAL113/cs2-server-picker) - Counter-Strike 2 Server Browser
 * [Faceit](https://www.faceit.com/) - Matchmaking Client
 * [Faceit Finder](https://faceitfinder.com/) - Faceit Account Finder
+* [Repeek](https://repeek.gg/) - Faceit Enhancement Extension
 
 ***
 
@@ -15784,6 +15787,7 @@ outline: false
 * [Grand Theft Wiki](https://www.grandtheftwiki.com/Main_Page) - GTA Wiki
 * [Rainbomizer](https://rainbomizer.com/) - GTA Randomizer Mods
 * [OpenIV](https://openiv.com/) - Rockstar Game Modding Tool
+* [Gillian's GTA](https://gillian-guide.github.io/) - GTA IV Modding Guide
 * [GTA 5 Grand Roleplay](https://gta5grand.com/) - GTAV Roleplay Server
 * [D.E.P](https://www.definitive-edition-project.com/) - Fix GTA PC Port Bugs
 * [Vice City: Multiplayer](https://vc-mp.org/) - Mutiplayer GTA:VC
