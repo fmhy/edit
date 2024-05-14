@@ -169,7 +169,6 @@
 
 * 🌐 **[WiLd's Occult Ebook Sources](https://rentry.co/FMHYBase64#wilds-occult-ebook-sources)** - Occult / Esoterica
 * 🌐 **[Soren Megathread](https://odysee.com/@Soren:71/%F0%9F%94%B0Megathread_with_Resources%F0%9F%94%B0:1)** - Occult / Esoterica
-* 🌐 **[Awesome Islam](https://github.com/AhmedKamal/awesome-Islam)** - Islam Related Projects / Apps
 * ↪️ **[Esoterica Telegram Channels](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_magic_.2F_esoteric_telegram_ebooks)**
 * ⭐ **[Sacred Text Archive](https://sacred-texts.com/)** - Religion / Mythology / Folklore / Esoterica
 * ⭐ **[The Exerdex](https://rentry.co/FMHYBase64#echerdex-repository)** - Esoterica / [Discord](https://discord.gg/dS5X3d7ype) / [Subreddit](https://www.reddit.com/r/Echerdex/)
@@ -211,7 +210,6 @@
 * [LeftHandPath](https://rentry.co/FMHYBase64#lefthandpath) - Luciferianism
 * [Hellenistic Theism Drive](https://rentry.co/FMHYBase64#hellenistic-theism) - Hellenistic Theism
 * [The Theosophical Society](https://www.theosociety.org/) - Theosophy
-* [Grimoire Drive](https://rentry.co/FMHYBase64#grimoires) - Grimoires
 * [GodChecker](https://www.godchecker.com/) - Religion / Mythology
 * [Sankaracharya](https://www.sankaracharya.org/index.php) - Hinduism
 * [Vedanta Shastras](https://www.shastras.com/) - Hinduism
@@ -235,6 +233,7 @@
 * [Classics Ethereal Library](https://www.ccel.org/) - Christianity
 * [Hidden Bible](http://www.hiddenbible.com/enoch/online.html) - Enoch Translation
 * [GodAlone](http://www.godalone.org/) or [Quran](https://quran.com/) / [2](https://beta.quran.com/en) - Quran Translations / [Mobile](https://github.com/quran/quran_android), [2](https://alfaazplus.com/)
+* [Awesome Islam](https://github.com/AhmedKamal/awesome-Islam) - Islam Related Projects / Apps
 * [OpenMaktaba](https://openmaktaba.com/) - Islamic Books
 * [TheIslam360](https://theislam360.com/) - Islamic Research App
 * [English Torah](https://englishtorah.com/) - Torah Translation
