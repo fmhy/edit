@@ -131,6 +131,7 @@
 * [PunchFork](https://www.punchfork.com/) - Recipes
 * [Search-22](https://search-22.com/recipe-search-tools) - Multi-Site Recipe Search
 * [Wikibook Recipes](https://en.wikibooks.org/wiki/Category:Cookbook) - Recipe Wiki
+* [Taste Bud](https://taste-bud.io/) -  Recipe Search AI / Pinboard
 * [Epicurious](https://www.epicurious.com/) - Recipe Search
 * [Recipe Search](https://recipe-search.typesense.org/) - Recipe Search
 * [RecipeRadar](https://www.reciperadar.com/) - Recipe Search
@@ -316,6 +317,7 @@
 * [PowerOutage](https://poweroutage.us/) - Power Outage Map
 * [ElectricityMap](https://app.electricitymap.org/) - Electricity CO₂ Emissions Map
 * [Freedom House](https://freedomhouse.org/explore-the-map) or [Civicus Monitor](https://monitor.civicus.org/) - Freedom Maps
+* [Israeli-Palestine Conflict](https://israelpalestine.liveuamap.com/) - Israeli-Palestine Conflict Map
 * [HungerMap](https://hungermap.wfp.org/) - Global Hunger Map
 * [EventMap](https://rsoe-edis.org/eventMap) or [RiskMap](https://www.riskmap.com) - Emergency and Disaster Maps
 * [NCEI](https://www.ncei.noaa.gov/maps/hazards/) - Real Time Natural Hazard Map
@@ -570,7 +572,7 @@
 * ⭐ **[Reverse Interview](https://github.com/viraptor/reverse-interview)** or [job-interview-questions](https://github.com/lkostrowski/job-interview-questions-to-ask-companies) - Questions to Ask Potential Employers
 * ⭐ **[Kimai](https://www.kimai.org/)** or [Clockify](https://clockify.me/) - Work Hour Trackers
 * [OnSites](https://www.onsites.fyi/) - View / Share Interview Experiences
-* [JobBoardSearch](https://jobboardsearch.com/), [CyberCoders](https://www.cybercoders.com/), [whoishiring](https://whoishiring.io/), [Toby Tools](https://rentry.co/qnu6x), [The Muse](https://www.themuse.com/search/) or [EuroJobs](https://eurojobs.com/) - Job Search
+* [JobBoardSearch](https://jobboardsearch.com/), [PromptYourJob](https://promptyourjob.com/), [CyberCoders](https://www.cybercoders.com/), [whoishiring](https://whoishiring.io/), [Toby Tools](https://rentry.co/qnu6x), [The Muse](https://www.themuse.com/search/) or [EuroJobs](https://eurojobs.com/) - Job Search
 * [50WaysToGetAJob](https://50waystogetajob.com/) - Interactive Job Search Guide
 * [RolePad](https://rolepad.com/) - Job Search Manager
 * [80,000 Hours](https://80000hours.org/), [O*NET](https://www.onetonline.org/) or [MyNextMove](https://www.mynextmove.org/) - Explore Career Options
@@ -650,7 +652,7 @@
 * [/r/freelance](https://www.reddit.com/r/freelance/) - Freelance Subreddit
 * [MTurk](https://www.mturk.com/) - Online Task Work
 * [NoCummute](https://nocommute.substack.com/) - Remote Job Notifications
-* [WeNomad](https://wenomad.so/) - Remote Work Guides
+* [WeNomad](https://wenomad.so/) or [Nomad List](https://nomadlist.com/) - Remote Work Ratings
 * [Jobspresso](https://jobspresso.co/) - Remote Jobs
 * [Remote Jobs](https://remotejobs.com/) - Remote Jobs
 * [himalayas](https://himalayas.app/) - Remote Jobs
@@ -758,11 +760,13 @@
 
 ***
 
+* 🌐 **[ChainList](https://chainlist.org/)** - EVM RPC List
 * ⭐ **[WalletScrutiny](https://walletscrutiny.com/)** - Verify Crypto Wallets are Open-Source / Secure
 * [BTCPay](https://btcpayserver.org/) - FOSS Bitcoin Payment Processor
 * [Trocador](https://trocador.app/en/) - Bitcoin Exchange App
 * [BitcoinWhosWho](https://www.bitcoinwhoswho.com/) - Bitcoin Address Scanner
-* [BlockChain](https://www.blockchain.com/explorer), [CoinWatch](https://github.com/shorthouse/CoinWatch), [Hivexplorer](https://hivexplorer.com/), [BlockChair](https://blockchair.com/), [HiveblockExplorer](https://hiveblockexplorer.com/) or [LiveCoinWatch](https://www.livecoinwatch.com/) - Live Cryptocurrency Prices
+* [BlockChain](https://www.blockchain.com/explorer), [CoinWatch](https://github.com/shorthouse/CoinWatch), [Hivexplorer](https://hivexplorer.com/), [BlockChair](https://blockchair.com/), [L2BEAT](https://l2beat.com/), [HiveblockExplorer](https://hiveblockexplorer.com/) or [LiveCoinWatch](https://www.livecoinwatch.com/) - Live Cryptocurrency Prices
+* [DefiLlama](https://defillama.com/) - TVL Aggregator
 * [WalletExplorer](https://www.walletexplorer.com/) or [OXT](https://oxt.me/) - Bitcoin Block Explorers
 * [Cryptopedia](https://www.gemini.com/cryptopedia) or [Crypto Canon](https://a16zcrypto.com/posts/article/crypto-readings-resources/) - Crypto Learning Resources
 * [IQ.Wiki](https://iq.wiki/) - Crypto Encyclopedia
@@ -877,6 +881,7 @@
 
 ## ▷ Price Tracking
 
+* ⭐ **[Dupe](https://dupe.com/)** - Dupe Product Search
 * ⭐ **[Keepa](https://keepa.com/)**, [PriceHistory](https://pricehistoryapp.com/) or [CamelCamelCamel](https://camelcamelcamel.com/) - Amazon Price Trackers / [App](https://play.google.com/store/apps/details?id=com.offertadelgiorno.offertadelgiorno)
 * [Vetted](https://vetted.ai/), [Real Price Tracker](https://www.realpricetracker.com/) or [FlipsHope](https://flipshope.com/ ) - Price Tracking Extensions
 * [PriceSlash Bot](https://t.me/PriceSlash_Bot) - Price Tracking Telegram Bot
@@ -1015,6 +1020,7 @@
 * ⭐ **[Knockout](https://knockout.chat/)** / [Discord](https://discord.gg/wjWpapC), [SheepishPatio](https://sheepishpatio.net/) or [SomethingAwful](https://forums.somethingawful.com/) - General Forums
 * ⭐ **[Our World of Text](https://ourworldoftext.com/)** or [Your World of Text](https://www.yourworldoftext.com/) - Infinite Community Text Grid
 * ⭐ **[SufficientVelocity](https://forums.sufficientvelocity.com/)**, [Myth Weavers](https://www.myth-weavers.com/), [RolePlayer](https://www.roleplayer.me/) or [SpaceBattles](https://forums.spacebattles.com/) - Fanfiction / Roleplaying  Communities
+* [Frantic Fanfic](https://franticfanfic.com/) - Fanfiction Chat Game
 * [Pithee](https://pithee.com/) - Rank Shitposting
 * [Posting.Cool](https://posting.cool/) - Random Topic Forum
 * [Earth Reviews](https://neal.fun/earth-reviews/) - Help Improve the Simulation
