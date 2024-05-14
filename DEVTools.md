@@ -996,7 +996,7 @@
 * [Langits](https://langits.davejudd.dev/) - See Most Used Programming Languages User
 * [gitignore.io](https://www.toptal.com/developers/gitignore/) - Gitignore Templates / [GitHub](https://github.com/github/gitignore)
 * [Drift](https://drift.lol/) - GitHub Gist alternative
-* [Forgejo](https://forgejo.org/), [Gogs](https://gogs.io/) or  - self-hosted Git
+* [Forgejo](https://forgejo.org/), [Gogs](https://gogs.io/) or  - Self-Hosted Git Services / Forge
 
 ***
 
