@@ -154,6 +154,7 @@
 * [Autoclear ChatGPT History](https://github.com/adamlui/userscripts/tree/master/chatgpt/autoclear-chatgpt-history) - Autoclear Chats
 * [EditGPT](https://www.editgpt.app/) - Proofread Chats
 * [RepeatGPT](https://repeatgpt.com/) - Schedule Chats
+* [GPThemes](https://github.com/itsmartashub/GPThemes) - ChatGPT Themes
 * [ChatGPT Old Style](https://greasyfork.org/en/scripts/486909) - Old ChatGPT Colors
 
 ***
