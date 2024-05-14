@@ -329,7 +329,7 @@
 * [Albastuz3d](https://albastuz3d.net/) - Stock Phone ROMs
 * [LADB Builds](https://github.com/hyperio546/ladb-builds) or [aShell](https://gitlab.com/sunilpaulmathew/ashell) - ADB Shell
 * [ADB OTG](https://play.google.com/store/apps/details?id=com.htetznaing.adbotg) - Run ADB Commands without Computer or Root
-* [ConnectBOt](https://play.google.com/store/apps/details?id=org.connectbot) - SSH Client
+* [ConnectBOt](https://connectbot.org/) - SSH Client
 
 ***
 
@@ -359,12 +359,14 @@
 * [Counters](https://play.google.com/store/apps/details?id=rahmouni.neil.counters) - Count Anything
 * [Smart AutoClicker](https://github.com/Nain57/Smart-AutoClicker) - Auto Clicker
 * [Arts & Culture](https://play.google.com/store/apps/details?id=com.google.android.apps.cultural) - Explore Art
+* [ChatGPT Android](https://github.com/skydoves/chatgpt-android) - ChatGPT App
 * [Chai](https://www.chai-research.com/) - Roleplaying Chatbots
 * [VoiceGPT](https://github.com/WSTxda/Plugin-VoiceGPT), [FUTO](https://voiceinput.futo.org/) or [Dicio](https://github.com/Stypox/dicio-android) - Voice Assistants
 * [Audio-Recorder](https://gitlab.com/axet/android-audio-recorder/tree/HEAD) or [android-audio-recorder](https://gitlab.com/axet/android-audio-recorder) - Audio Recorders
 * [Noiseun Canceller](https://play.google.com/store/apps/details?id=com.jazibkhan.noiseuncanceller) - Audio Surrounding Recorder
 * [Voiceliner](https://a9.io/voiceliner/) - Voice Memos / [GitHub](https://github.com/maxkrieger/voiceliner)
-* [TouchDroid](https://github.com/vitaminncpp/TouchDroid) or [USB HID Client](https://github.com/Arian04/android-hid-client) - Use Android as PC Mouse / Keyboard
+* [TouchDroid](https://github.com/vitaminncpp/TouchDroid) or [USB HID Client](https://github.com/Arian04/android-hid-client) - Use Device as PC Mouse / Keyboard
+* [Android Virtual Pen](https://github.com/Mathieu-Beliveau/android-virtual-pen) - Use Device as PC Virtual Pen
 * [Listy](https://listy.is/) - Create Lists of Anything
 * [GeorgieLabs](https://georgielabs.net/) - Use Phone as Wireless Speaker / Headphone Port
 * [Trail Sense](https://kylecorry.com/Trail-Sense/) / [GitHub](https://github.com/kylecorry31/Trail-Sense) - Wilderness Survival App
@@ -579,6 +581,7 @@
 * [Compass QS Tile](https://github.com/WSTxda/Compass-QS-Tile) or [QuickTiles](https://gitlab.com/asdoi/quick-tiles) - Quick Setting Tiles
 * [Smartspacer](https://github.com/KieronQuinn/Smartspacer) - Custom Android at a Glance Widget
 * [Pinnit](https://github.com/msasikanth/pinnit) - Notification Pinning
+* [Notification Listener](https://github.com/Alfio010/notification-listener-android) - Save Device Notifications
 * [B.D.T](https://bdt.jepfa.de/) - Time with Between Time Notifications
 * [TidyPanel](https://play.google.com/store/apps/details?id=com.dharmapoudel.tidypanel) - Notification Blocker
 * [ClassicPowerMenu](https://github.com/KieronQuinn/ClassicPowerMenu) - Android Power Menu Replacement / Needs Root
@@ -804,6 +807,7 @@
 * [Drive Stream](https://github.com/itsZECHS/DriveStream) - GDrive Video Player
 * [Great Courses Plus Premium](https://forum.mobilism.org/search.php?keywords=great+courses+plus&terms=all&author=&sc=1&sf=titleonly&sr=topics&sk=t&sd=d&st=0&ch=300&t=0&submit=Search) - Courses
 * [Plex Manager](https://github.com/sikelio/plexmanager) - Plex Server Manager
+* [Findroid](https://github.com/jarnedemeulemeester/findroid) - JellyFin Client
 * [PipePipe](https://github.com/InfinityLoop1308/PipePipe) - Bilibili / NicoNico Client
 * [Bilibili Evolved](https://github.com/the1812/Bilibili-Evolved) or [bilibili-android-client](https://github.com/HotBitmapGG/bilibili-android-client) - Bilibili Client
 * [ScreenStream](https://github.com/dkrivoruchko/ScreenStream) - Cast Device to Screen
