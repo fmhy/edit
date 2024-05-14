@@ -254,7 +254,7 @@
 * ↪️ **[Quote Collections](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_quotes)**
 * ↪️ **[UFO Books](https://rentry.co/FMHYBase64#ufo-books)**
 * ⭐ **[Short Stories](https://short-stories.co/)**, [Booksie](https://www.booksie.com/), [Vestal Review](https://www.vestalreview.net/) or [Library of Short Stories](https://www.libraryofshortstories.com/) - Short Stories
-* ⭐ **[Poetry Foundation](https://www.poetryfoundation.org/)**, [Poetry In Translation](https://www.poetryintranslation.com/), [PoemHunter](https://www.poemhunter.com/), [CAPA](https://capa.conncoll.edu/), [RUVerses](https://ruverses.com/), [PoetryNook](https://poetrynook.com/) or [Poetry.com](https://www.poetry.com/) - Poetry
+* ⭐ **[Poetry Foundation](https://www.poetryfoundation.org/)**, [Poetry In Translation](https://www.poetryintranslation.com/), [PoemHunter](https://www.poemhunter.com/), [CAPA](https://capa.conncoll.edu/), [DiscoverPoetry](https://discoverpoetry.com/), [RUVerses](https://ruverses.com/), [PoetryNook](https://poetrynook.com/) or [Poetry.com](https://www.poetry.com/) - Poetry
 * ⭐ **[MorbidKuriosity](https://morbidkuriosity.com/)** - Conspiracies, Dark History, Crime, Myths etc.
 * ⭐ **[The Anarchist Library](https://theanarchistlibrary.org/special/index)** - Anarchism
 * ⭐ **[EasyPeasy](https://easypeasymethod.org/)** - Painlessly Quit Pornography
@@ -644,7 +644,7 @@
 * ⭐ **[EarlyModernTexts](https://www.earlymoderntexts.com)** - Historical Texts
 * ⭐ **[World History](https://www.worldhistory.org/)** or [Livius](https://www.livius.org/) - History Encyclopedias
 * [Duke University Library](https://repository.duke.edu/catalog?utf8=%E2%9C%93&search_scope=https%3A%2F%2Frepository.duke.edu%2Fcatalog&q=&search_field=all_fields) - Historical Books
-* [Early English Books](https://quod.lib.umich.edu/e/eebogroup/) or [Amherst](https://acdc.amherst.edu/) - Historical Texts / Books
+* [Early English Books](https://quod.lib.umich.edu/e/eebogroup/), [NYPL](https://digitalcollections.nypl.org/) or [Amherst](https://acdc.amherst.edu/) - Historical Texts / Books
 * [Making of America](https://quod.lib.umich.edu/m/moa/) - American History
 * [Perseus Digital Library](https://www.perseus.tufts.edu/hopper/) - Classic / Greek / Roman / Arabic / Germanic
 * [Athena](https://athena.unige.ch/athena/) - Greek / History
