@@ -1094,8 +1094,10 @@
 
 # ► iOS Audio
 
-* ⭐ **[Spotify++](https://rentry.co/FMHYBase64#spotify)**, **[SpotC++](https://github.com/SpotCompiled/SpotC-Plus-Plus)**, [Spotilife](https://rentry.co/FMHYBase64#spotilife) or [Spotify](https://apps.apple.com/us/app/spotify-music-and-podcasts/id324684580) - Streaming / [Listening Stats](https://apps.apple.com/us/app/spotistats-for-spotify/id1526912392)
+* ⭐ **[Spotify++](https://rentry.co/FMHYBase64#spotify)** - Ad-free Spotify / Sideloaded
+* ⭐ **[SpotC++](https://github.com/SpotCompiled/SpotC-Plus-Plus)** - Ad-free Spotify / Sideloaded
 * ⭐ **[YT Tweaked](https://rentry.co/FMHYBase64#yt-tweaked-ipas)**, [YTMusilife](https://rentry.co/FMHYBase64#ytmusilife) or [YTMusicUltimate](https://github.com/ginsudev/YTMusicUltimate), [Trebel](https://home.trebel.io/), [Soundcloud](https://apps.apple.com/us/app/soundcloud/id336353151), [eSound](https://apps.apple.com/ca/app/esound-music-player-app-mp3/id1224933860), [Musi](https://feelthemusi.com/), [iMusic](https://apps.apple.com/us/app/imusic-offline-music-player/id1535124961) or [Audiomack](https://apps.apple.com/ca/app/audiomack-download-new-music/id921765888) - Streaming
+* [Spotilife](https://rentry.co/FMHYBase64#spotilife) - Ad-free Spotify / Jailbreak or Sideload
 * [DeezeLife](https://rentry.co/FMHYBase64#deezelife) / [2](https://repo.hackyouriphone.org/deezelife) or [Deezer](https://apps.apple.com/app/deezer/id292738169) - Streaming
 * [Musi](https://apps.apple.com/us/app/musi-simple-music-streaming/id591560124) - Streaming
 * [Qello](https://apps.apple.com/us/app/qello-concerts-live-music/id491069819) - Concerts & Live Music Streaming
@@ -1103,6 +1105,7 @@
 * [VOX](https://apps.apple.com/us/app/vox-mp3-flac-music-player/id916215494) or [Melodista](https://apps.apple.com/us/app/melodista-music-offline-player/id1293175325) - Audio Player
 * [wInd3x](https://github.com/freemyipod/wInd3x) - iPod Classic / Nano Bootrom Exploit
 * [GarageBand](https://apps.apple.com/us/app/garageband/id408709785) - Audio Editor / Creator
+[SpotiStats](https://apps.apple.com/us/app/spotistats-for-spotify/id1526912392) - Spotify Listening Stats
 
 ***
 
