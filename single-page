@@ -19,6 +19,7 @@
 ## ▷ Online Chatbots
 
 * ⭐ **[Microsoft Copilot](https://copilot.microsoft.com)** - GPT-4/3.5 Powered Search / [SydneyQT Jailbreak](https://github.com/juzeon/SydneyQt)
+* ⭐ **[ChatGPT](https://chatgpt.com/)** - GPT-4o Chatbot / [Discord](https://discord.com/invite/openai)
 * ⭐ **[wrtn](https://wrtn.ai/)** - GPT-4 Chatbot / [Android](https://play.google.com/store/apps/details?id=com.wrtn.app) / [iOS](https://apps.apple.com/us/app/%EB%A4%BC%ED%8A%BC-%EB%AA%A8%EB%91%90%EB%A5%BC-%EC%9C%84%ED%95%9C-ai-%ED%8F%AC%ED%84%B8/id6448556170) (ask for english)
 * ⭐ **[Gemini](https://gemini.google.com/)** or [Gemma](https://github.com/google/gemma.cpp), [2](https://ai.google.dev/gemma/) - Google's Chatbot
 * ⭐ **[Claude](https://claude.ai/)** - Anthropic's Chatbot
@@ -26,7 +27,6 @@
 * ⭐ **[groq](https://groq.com/)** - LLama 3 and Mixtral Chatbots
 * ⭐ **[LMSYS Chat](https://chat.lmsys.org/)** - Chat and Compare Multiple Chatbots
 * [CoolAGI](https://coolagi.vercel.app/) - GPT-4 Turbo Chatbot
-* [ChatGPT](https://chat.openai.com/) - GPT-3.5 Chatbot / [Discord](https://discord.com/invite/openai)
 * [LibreChat](https://librechat.ai/) - Multiple Chatbots
 * [HuggingChat](https://huggingface.co/chat/) - Open-Source Chatbots
 * [FlowGPT](https://flowgpt.com/chat) - Multiple Chatbots / [Discord](https://discord.com/invite/tWZGzcpTkf)
@@ -37,7 +37,7 @@
 * [Komo](https://komo.ai/) - GPT-3.5 Powered Search
 * [iAsk](https://iask.ai/) - AI Search Engine
 * [Andi](https://andisearch.com/) - AI Search Engine
-* [Metaphor](https://metaphor.systems/) / [Discord](https://discord.com/invite/jvz7GS9W8Y) - AI Search Engine
+* [Exa](https://exa.ai/) - AI Search Engine / [Discord](https://discord.com/invite/jvz7GS9W8Y)
 * [Lepton Search](https://search.lepton.run/) - AI Search Engine
 * [Pi](https://pi.ai/talk) - Inflection AI's Chatbot
 * [Reka Playground](https://chat.reka.ai/) - Reka's Chatbot
@@ -117,6 +117,7 @@
 * [Codel](https://github.com/semanser/codel) - Coding AI
 * [CollectivAI](https://chat.collectivai.com/) - Coding AI
 * [Denigma](https://denigma.app/#demo) - Coding AI
+* [Aider](https://aider.chat/) - Terminal Coding AI
 * [Codacy](https://www.codacy.com/) or [AI Code Review](https://ai-code-reviewer.com/) - Code Fixing AIs
 * [Open Interpreter](https://github.com/OpenInterpreter/open-interpreter) - Run Code Locally
 * [v0](https://v0.dev/) - Text to Site Code
@@ -333,7 +334,7 @@
 * ⭐ **[Suno](https://app.suno.ai/)**
 * [Wolfram Tones](https://tones.wolfram.com/)
 * [StableAudio](https://www.stableaudio.com/)
-* [Udio](https://www..com/)
+* [Udio](https://www.udio.com/)
 * [audio visual generator](https://fredericbriolet.com/avg/)
 * [Fake Music Generator](https://www.fakemusicgenerator.com/)
 * [Jingle](https://aidn.jp/jingle/)
@@ -350,6 +351,7 @@
 
 ## ▷ Text to Speech
 
+* 🌐 **[TTS Arena](https://huggingface.co/spaces/TTS-AGI/TTS-Arena)** - Text to Speech Voting / Leaderboards
 * ⭐ **[ElevenLabs](https://beta.elevenlabs.io/)** / [Discord](https://discord.com/invite/elevenlabs)
 * ⭐ **[Uberduck](https://uberduck.ai/)**
 * ⭐ **[WhisperSpeech](https://huggingface.co/spaces/collabora/WhisperSpeech)** - [Discord](https://discord.com/invite/FANw4rHD5E)
