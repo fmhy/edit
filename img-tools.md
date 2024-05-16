@@ -249,7 +249,7 @@
 * [Piskel](https://www.piskelapp.com/), [rx](https://rx.cloudhead.io/), [Pixelated](https://pixelated.vercel.app/), [PaintWith](https://paintwith.webflow.io/), [Aseprite](https://dacap.itch.io/aseprite), [PixelCraft](https://pixelcraft.web.app/) / [GitHub](https://github.com/rgab1508/PixelCraft), [Kleki](https://kleki.com/), [CSprite](https://csprite.github.io/) or [PixilArt](https://www.pixilart.com/draw) - Pixel Art Editors
 * [Strike](https://amorphous.itch.io/strike) - 1-Bit Pixel Art Editor
 * [Pixel Painter](https://jenniferdewalt.com/pixel_painter.html) or [Pixel Paint](https://codepen.io/quinlo/full/RvPPKG) - Paint with Pixels
-* [pixels.land](https://pixel.land/), [EveryoneDraw](https://everyonedraw.com/) or [World of Pixels](https://ourworldofpixels.com/) - Infinite Online Pixel Art
+* [pixels.land](https://pixel.land/), [EveryoneDraw](https://everyonedraw.com/), [pxls.space](https://pxls.space/) or [World of Pixels](https://ourworldofpixels.com/) - Infinite Online Pixel Art
 * [dpixel](https://marcoc2.itch.io/dpixel) - Pixel Art Remastering Tool
 * [Paint Of Persia](https://dunin.itch.io/ptop) - Rotoscoping Pixel Art Tool
 * [Dither Machine](https://lunarlabs.itch.io/dither-machine) - Pixel Art Dithering Creator
@@ -386,6 +386,7 @@
 * [TexturesForFree](https://texturesforfree.com/) - Textures
 * [fatstrawberry](https://www.fatstrawberry.co.uk/) - Textures
 * [AnthonyBoyd](https://www.anthonyboyd.graphics/) - Textures
+* [MatLib](https://matlib.gpuopen.com/main/materials/all) - Textures
 * [TextureNinja](https://texture.ninja/) - Textures
 * [cgbookcase](https://www.cgbookcase.com/) - Textures
 * [Texture Collection](https://rentry.co/FMHYBase64#texture-collection) - Textures

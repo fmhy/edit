@@ -135,7 +135,7 @@
 * [Polonium](https://zeroxoneafour.github.io/polonium/) - KDE6 Tiling Manager Extension / [GitHub](https://github.com/zeroxoneafour/polonium)
 * [Bismuth](https://bismuth-forge.github.io/bismuth/) - KDE5 Tiling Extension / [GitHub](https://github.com/Bismuth-Forge/bismuth)
 * [Ghostwriter](https://ghostwriter.kde.org/) or [Remarkable](https://remarkableapp.github.io/) - Markdown Editor
-* [Gedit](https://wiki.gnome.org/Apps/Gedit), [Geany](https://www.geany.org/), [Leafpad](http://tarot.freeshell.org/leafpad/), [NotepadNext](https://github.com/dail8859/NotepadNext), [Notepadqq](https://github.com/notepadqq/notepadqq), [Featherpad](https://github.com/tsujan/FeatherPad), [nb](https://xwmx.github.io/nb) / [GitHub](https://github.com/xwmx/nb) or [Mousepad](http://git.xfce.org/apps/mousepad/) / [GitHub](https://github.com/codebrainz/mousepad) - Text Editor / Note Apps
+* [Gedit](https://wiki.gnome.org/Apps/Gedit), [Geany](https://www.geany.org/), [Leafpad](http://tarot.freeshell.org/leafpad/), [NotepadNext](https://github.com/dail8859/NotepadNext), [taskbook](https://github.com/klaudiosinani/taskbook), [Notepadqq](https://github.com/notepadqq/notepadqq), [Featherpad](https://github.com/tsujan/FeatherPad), [nb](https://xwmx.github.io/nb) / [GitHub](https://github.com/xwmx/nb) or [Mousepad](http://git.xfce.org/apps/mousepad/) / [GitHub](https://github.com/codebrainz/mousepad) - Text Editor / Note Apps
 * [TextPieces](https://gitlab.com/liferooter/textpieces) - Quick Text Transformations / [Github](https://github.com/liferooter/textpieces)
 * [ly](https://github.com/fairyglade/ly) - Display Manager with Console UI
 * [GammaStep](https://gitlab.com/chinstrap/gammastep) - Adjust Screen Temperature
@@ -201,7 +201,7 @@
 * [Plumber](https://github.com/keshavbhatt/plumber) - Screen Recorder / Clipping
 * [AV Linux](https://www.bandshed.net/avlinux/) - Video / Audio Editor
 * [Flowblade](https://jliljebl.github.io/flowblade/) - Video Editor
-* [4KTUBE](https://github.com/rishabh3354/4KTUBE) - Video Downloader
+* [4KTUBE](https://github.com/rishabh3354/4KTUBE) or [Video Downloader](https://github.com/Unrud/video-downloader) - Video Downloaders
 * [Peek](https://github.com/phw/peek) - Simple Video / GIF recorder
 * [Linux-Fake-Background-Webcam](https://github.com/fangfufu/Linux-Fake-Background-Webcam/) - Fake Webcam Background
 * [ani-cli](https://github.com/pystardust/ani-cli) - Anime Streaming Terminal
@@ -212,6 +212,7 @@
 
 ## ▷ Linux Audio
 
+* 🌐 **[Awesome Linux Audio](https://gitlab.com/nodiscc/awesome-linuxaudio)** - Live Audio Resources
 * ⭐ **[SpotX-Bash](https://github.com/jetfir3/SpotX-Bash)**, [spotify-adblock](https://github.com/abba23/spotify-adblock) or [SpotifyNoPremium](https://github.com/Daksh777/SpotifyNoPremium) - Spotify Adblockers
 * ⭐ **[SongRec](https://github.com/marin-m/SongRec)** or [Mousai](https://github.com/SeaDve/Mousai) - Song Identifiers
 * [Tidal Hi-Fi](https://github.com/Mastermindzh/tidal-hifi) - Hi-Fi Tidal for Linux
@@ -322,7 +323,6 @@ Linux Gaming Guide
 * [Mofolinux](https://mofolinux.com/), [Tails](https://tails.boum.org/) or [Kodachi](https://www.digi77.com/linux-kodachi/) - Privacy-Based Operating System
 * [OpenVPN Wrapper](https://github.com/slingamn/namespaced-openvpn) - VPN Tunnel
 * [Openconnect VPN Server](https://ocserv.gitlab.io/www/index.html) - Linux SSL VPN Server
-* [arch-delugevpn](https://github.com/binhex/arch-delugevpn) - Docker with Torrent client and VPN on Arch Linux base
 * [DSVPN](https://github.com/jedisct1/dsvpn) - Self-Hosted VPN
 * [wireguird](https://github.com/UnnoTed/wireguird) - Wireguard GUI
 * [vnStat](https://github.com/vergoh/vnstat) - Network Monitor
@@ -343,6 +343,8 @@ Linux Gaming Guide
 * ⭐ **[qBittorrent](https://github.com/qbittorrent/qBittorrent/wiki/Installing-qBittorrent#linux)** / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_qbitorrent_tools), **[rTorrent](https://rakshasa.github.io/rtorrent/)** / [2](https://github.com/rakshasa/rtorrent), [BitFlu](https://bitflu.workaround.ch/), [kTorrent](https://apps.kde.org/ktorrent/) / [2](https://invent.kde.org/network/ktorrent) - Linux Torrent Clients
 * [RuTorrent](https://github.com/Novik/ruTorrent) or [flood](https://flood.js.org/) - RTorrent Web Frontend / [Themes](https://github.com/artyuum/3rd-party-ruTorrent-Themes)
 * rTorrent Tools - [Extended](http://rtorrent-ps.readthedocs.io/) / [Tools](https://pyrocore.readthedocs.org/) / [GitHub](https://github.com/pyroscope/pyrocore) / [Mods](https://calomel.org/rtorrent_mods.html)
+* [BTFS](https://github.com/johang/btfs) - Bittorrent Filesystem
+* [arch-delugevpn](https://github.com/binhex/arch-delugevpn) - Docker with Torrent client and VPN on Arch Linux base
 * [Luakit](https://luakit.github.io/) - Lightweight Linux Browser
 * [browsh](https://www.brow.sh/) - Text Based Browser
 * [ElectronMail](https://github.com/vladimiry/ElectronMail) or [dodo](https://github.com/akissinger/dodo) - Email Clients
@@ -350,7 +352,7 @@ Linux Gaming Guide
 * [pass](https://www.passwordstore.org/) - Unix Password Manager
 * [Seahorse](https://gitlab.gnome.org/GNOME/seahorse) or [GnomeKeyring](https://wiki.gnome.org/Projects/GnomeKeyring) - GNOME Password Manager
 * [gopass](https://www.gopass.pw/) - CLI Password Manager
-* [KGet](https://apps.kde.org/kget/) or [GabutDM](https://github.com/gabutakut/gabutdm) - Download Manager
+* [KGet](https://apps.kde.org/kget/), [Varia](https://github.com/giantpinkrobots/varia) or [GabutDM](https://github.com/gabutakut/gabutdm) - Download Managers
 * [easy-google-drive-downloader](https://github.com/mzramna/easy-google-drive-downloader) or [GDown](https://github.com/wkentaro/gdown) - Google Drive Downloader
 * [google-drive-ocamlfuse](https://github.com/astrada/google-drive-ocamlfuse) - Mount GDrive
 * [maestral](https://maestral.app/) - Dropbox Client
@@ -441,6 +443,7 @@ Linux Gaming Guide
 * [explainshell.com](https://explainshell.com/) - Match Command-Line Arguments to Help Text
 * [PowerShell](https://github.com/powershell/powershell) - PowerShell
 * [Tmux](https://github.com/tmux/tmux) - Terminal Multiplexer / [Cheatsheet](https://tmuxcheatsheet.com/)
+* [Zellij](https://zellij.dev/) - Terminal Workspace
 * [asciinema](https://asciinema.org/) - Terminal Recorder
 * [Electerm](https://electerm.github.io/electerm) - Terminal / SSH / STP Client
 * [fzf](https://github.com/junegunn/fzf) or [skim](https://github.com/lotabout/skim) - Fuzzy Finders
@@ -514,7 +517,7 @@ Linux Gaming Guide
 * [PlayCover](https://github.com/PlayCover/PlayCover) - Run iOS Apps on Apple Silicon Macs
 * [OpenCore Legacy Patcher](https://github.com/dortania/OpenCore-Legacy-Patcher/) - Install New macOS on Unsupported Devices
 * [rEFind](https://www.rodsbooks.com/refind/) - Boot Manager
-* [Conky](https://conky.cc) / [Colors](https://github.com/helmuthdu/conky_colors), [eul](https://github.com/gao-sun/eul), [zfxtop](https://github.com/ssleert/zfxtop), [Stats](https://github.com/exelban/stats) or [MacFetch](https://github.com/gantoreno/macfetch) - Hardware / System Monitors
+* [Conky](https://conky.cc) / [Colors](https://github.com/helmuthdu/conky_colors), [eul](https://github.com/gao-sun/eul), [zfxtop](https://github.com/ssleert/zfxtop), [Stats](https://github.com/exelban/stats), [Mission Center](https://gitlab.com/mission-center-devs/mission-center) or [MacFetch](https://github.com/gantoreno/macfetch) - Hardware / System Monitors
 * [Hot](https://github.com/macmade/) - CPU Monitor
 * [TaskExplorer](https://objective-see.org/products/taskexplorer.html) - Task Manager / Viewer
 * [Progress](https://github.com/Xfennec/progress) - Show Copied Data Progress

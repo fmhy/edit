@@ -23,7 +23,6 @@
 * [APKVision](https://apkvision.org/)
 * [APK Home](https://apkhome.io/)
 * [APK4Free](https://apk4free.net/)
-* [APK Cafe](https://apkcafe.top/) / [Telegram](https://t.me/apk_cafe)
 * [Release APK](https://forum.release-apk.com/)
 * [RockMods](https://www.rockmods.net/) / [Telegram](https://t.me/RBMods)
 * [ReXDL](https://rexdl.com/) / [Telegram](https://t.me/joinchat/AAAAAFVMhwX7IzS5hMc8OQ)
@@ -225,7 +224,7 @@
 ## ▷ Camera Tools
 
 * ⭐ **[Google Lens](https://lens.google/)** - Multiple Camera Tools
-* ⭐ **[Aves](https://github.com/deckerst/aves)**, [Photok](https://github.com/leonlatsch/Photok), [Stingle](https://stingle.org/), [QuickPic](https://github.com/WSTxda/QP-Gallery-Releases), [Photoprism](https://github.com/Radiokot/photoprism-android-client), [UhuruPhotos](https://uhuru.photos) / [GitHub](https://github.com/savvasdalkitsis/uhuruphotos-android), [Gallery](https://www.fossify.org) / [GitHub](https://github.com/FossifyOrg/Gallery) or [IacobIonut01](https://github.com/IacobIonut01/Gallery) - Photo / Video Galleries
+* ⭐ **[Aves](https://github.com/deckerst/aves)**, [Photok](https://github.com/leonlatsch/Photok), [Stingle](https://stingle.org/), [QuickPic](https://github.com/WSTxda/QP-Gallery-Releases), [UhuruPhotos](https://uhuru.photos) / [GitHub](https://github.com/savvasdalkitsis/uhuruphotos-android), [Gallery](https://www.fossify.org) / [GitHub](https://github.com/FossifyOrg/Gallery) or [IacobIonut01](https://github.com/IacobIonut01/Gallery) - Photo / Video Galleries
 * [googlecameraport](https://www.celsoazevedo.com/files/android/google-camera) or [Camator](https://gcamator.com/) - Google Cam Downloads / [Telegram](https://t.me/googlecameraport) / [Mods](https://apkw.ru/) / [XML Configs](https://t.me/xmlshamimmod)
 * [Libre Camera](https://github.com/iakmds/librecamera), [ProofMode](https://gitlab.com/guardianproject/proofmode/proofmode-android) or [Open Camera](https://sourceforge.net/projects/opencamera/) - FOSS Camera Apps
 * [FreeDcam](https://github.com/KillerInk/FreeDcam) - Extra Camera Features
@@ -330,7 +329,7 @@
 * [Albastuz3d](https://albastuz3d.net/) - Stock Phone ROMs
 * [LADB Builds](https://github.com/hyperio546/ladb-builds) or [aShell](https://gitlab.com/sunilpaulmathew/ashell) - ADB Shell
 * [ADB OTG](https://play.google.com/store/apps/details?id=com.htetznaing.adbotg) - Run ADB Commands without Computer or Root
-* [ConnectBOt](https://play.google.com/store/apps/details?id=org.connectbot) - SSH Client
+* [ConnectBOt](https://connectbot.org/) - SSH Client
 
 ***
 
@@ -360,12 +359,14 @@
 * [Counters](https://play.google.com/store/apps/details?id=rahmouni.neil.counters) - Count Anything
 * [Smart AutoClicker](https://github.com/Nain57/Smart-AutoClicker) - Auto Clicker
 * [Arts & Culture](https://play.google.com/store/apps/details?id=com.google.android.apps.cultural) - Explore Art
+* [ChatGPT Android](https://github.com/skydoves/chatgpt-android) - ChatGPT App
 * [Chai](https://www.chai-research.com/) - Roleplaying Chatbots
 * [VoiceGPT](https://github.com/WSTxda/Plugin-VoiceGPT), [FUTO](https://voiceinput.futo.org/) or [Dicio](https://github.com/Stypox/dicio-android) - Voice Assistants
 * [Audio-Recorder](https://gitlab.com/axet/android-audio-recorder/tree/HEAD) or [android-audio-recorder](https://gitlab.com/axet/android-audio-recorder) - Audio Recorders
 * [Noiseun Canceller](https://play.google.com/store/apps/details?id=com.jazibkhan.noiseuncanceller) - Audio Surrounding Recorder
 * [Voiceliner](https://a9.io/voiceliner/) - Voice Memos / [GitHub](https://github.com/maxkrieger/voiceliner)
-* [TouchDroid](https://github.com/vitaminncpp/TouchDroid) or [USB HID Client](https://github.com/Arian04/android-hid-client) - Use Android as PC Mouse / Keyboard
+* [TouchDroid](https://github.com/vitaminncpp/TouchDroid) or [USB HID Client](https://github.com/Arian04/android-hid-client) - Use Device as PC Mouse / Keyboard
+* [Android Virtual Pen](https://github.com/Mathieu-Beliveau/android-virtual-pen) - Use Device as PC Virtual Pen
 * [Listy](https://listy.is/) - Create Lists of Anything
 * [GeorgieLabs](https://georgielabs.net/) - Use Phone as Wireless Speaker / Headphone Port
 * [Trail Sense](https://kylecorry.com/Trail-Sense/) / [GitHub](https://github.com/kylecorry31/Trail-Sense) - Wilderness Survival App
@@ -393,6 +394,7 @@
 * [DNS Speed Test & Changer](https://rentry.co/FMHYBase64#dns-speed-test-changer) - DNS Speed Test
 * [DNS Changer](https://play.google.com/store/apps/details?id=com.technoapps.dnschanger) or [PrivateDNSAndroid](https://github.com/karasevm/PrivateDNSAndroid) - DNS Switchers
 * [GoodbyeAds](https://github.com/jerryn70/GoodbyeAds) - Adblock Filters
+* [piko](https://github.com/crimera/piko) - Remove Twitter App Ads
 
 ***
 
@@ -566,7 +568,7 @@
 * [Birday](https://github.com/m-i-n-a-r/birday) - Birthday Reminders / Calendar
 * [Sectograph](https://play.google.com/store/apps/details?id=prox.lab.calclock) or [TimePlanner](https://github.com/v1tzor/TimePlanner) - Planner Apps
 * [FamilyWall](https://www.familywall.com/) - Family Oriented Planner
-* [unhabits](https://github.com/iSoron/uhabits), [HabitBuilder](https://github.com/ofalvai/HabitBuilder), [MoreDays](https://gitlab.com/wuapps/moredays), [Goals](https://play.google.com/store/apps/details?id=io.rosenpin.goals), [TheFor](https://thefor.xyz/) or [MiindLeak](https://www.mindleak.app/) - Habit Trackers
+* [Folksable](https://folksable.com/), [unhabits](https://github.com/iSoron/uhabits), [HabitBuilder](https://github.com/ofalvai/HabitBuilder), [MoreDays](https://gitlab.com/wuapps/moredays), [Goals](https://play.google.com/store/apps/details?id=io.rosenpin.goals), [TheFor](https://thefor.xyz/) or [MiindLeak](https://www.mindleak.app/) - Habit Trackers
 * [Farhan](https://github.com/tahaak67/Farhan) - Control Phone Addiction
 * [Forest](https://forestapp.cc/), [MyBrain](https://github.com/mhss1/MyBrain), [Success](https://eveningkid.com/success/), [Goodtime](https://github.com/adrcotfas/Goodtime) or [Mind Leak](https://play.google.com/store/apps/details?id=de.mdiener.android.mindleak) - Productivity Trackers
 * [DetoxDroid](https://github.com/flxapps/DetoxDroid) - Make Your Phone Less Distracting
@@ -579,6 +581,7 @@
 * [Compass QS Tile](https://github.com/WSTxda/Compass-QS-Tile) or [QuickTiles](https://gitlab.com/asdoi/quick-tiles) - Quick Setting Tiles
 * [Smartspacer](https://github.com/KieronQuinn/Smartspacer) - Custom Android at a Glance Widget
 * [Pinnit](https://github.com/msasikanth/pinnit) - Notification Pinning
+* [Notification Listener](https://github.com/Alfio010/notification-listener-android) - Save Device Notifications
 * [B.D.T](https://bdt.jepfa.de/) - Time with Between Time Notifications
 * [TidyPanel](https://play.google.com/store/apps/details?id=com.dharmapoudel.tidypanel) - Notification Blocker
 * [ClassicPowerMenu](https://github.com/KieronQuinn/ClassicPowerMenu) - Android Power Menu Replacement / Needs Root
@@ -669,10 +672,10 @@
 * ⭐ **[Mobilism](https://forum.mobilism.org/app/)** / [User Ranks](https://pastebin.com/pZuuMxYm) - Free Books
 * ⭐ **[KafkaArchives](https://www.kafkaarchives.com/)** - Archive.org Books / Audiobooks
 * ⭐ **[Librera](https://librera.mobi/)** - Ebook Reader
+* ⭐ **[Moon+ Reader](https://www.moondownload.com/)** - Ebook Reader / [Themes](https://rentry.co/moontheme)
 * ⭐ **[Lithium](https://play.google.com/store/apps/details?id=com.faultexception.reader)** - Ebook Reader
 * ⭐ **[Legado](https://github.com/gedoor/legado/blob/master/English.md)** - Ebook Reader
 * ⭐ **[Readera](https://play.google.com/store/apps/details?id=org.readera)** - PDF Reader
-* [Moon+ Reader](https://www.moondownload.com/) - Ebook Reader / [Themes](https://rentry.co/moontheme)
 * [CoolReader](https://apt.izzysoft.de/fdroid/index/apk/org.coolreader) - Ebook Reader
 * [BookReader](https://gitlab.com/axet/android-book-reader) - Ebook Reader
 * [Prestigio](https://play.google.com/store/apps/details?id=com.prestigio.ereader) - Ebook Reader
@@ -685,7 +688,7 @@
 * [Wikipedia](https://play.google.com/store/apps/details?id=org.wikipedia) - Wikipedia App / [Beta](https://play.google.com/store/apps/details?id=org.wikipedia.beta)
 * [K2pdfopt](https://willus.com/k2pdfopt/) - Optimize PDF/DJVU Files for Mobile E-Readers
 * [Voice](https://github.com/PaulWoitaschek/Voice), [Smart Audiobook Player](https://play.google.com/store/apps/details?id=ak.alizandro.smartaudiobookplayer), [Sirin](https://play.google.com/store/apps/details?id=com.sirin.android), [AudioAnchor](https://github.com/flackbash/AudioAnchor) or [eStories](https://play.google.com/store/apps/details?id=com.estories) - Audiobook Players
-* [ComicScreen](https://play.google.com/store/apps/details?id=com.viewer.comicscreen) or [Seeneva](https://seeneva.app/) - Comic Readers
+* [ComicScreen](https://play.google.com/store/apps/details?id=com.viewer.comicscreen), [Bubble2](https://github.com/edeso/bubble2) or [Seeneva](https://seeneva.app/) - Comic Readers
 * [OpenComicVine](https://github.com/proninyaroslav/OpenComicVine) - Comic Tracker
 * [Shosetsu](https://shosetsu.app/) - Light Novels / [GitHub](https://gitlab.com/shosetsuorg/shosetsu) / [Dev Builds](https://github.com/shosetsuorg/shosetsu-preview) / [Discord](https://discord.gg/ttSX7gB)
 * [NovelLibrary](https://github.com/gmathi/NovelLibrary) - Light Novels / [Discord](https://discord.gg/qFZX4vdEdF)
@@ -775,6 +778,7 @@
 * [A Soft Murmur](https://play.google.com/store/apps/details?id=com.gabemart.asoftmurmur) - Mix Ambient Sounds
 * [Tide.fm](https://pics.tide.moreless.io/site/tide.apk), [Serenity](https://github.com/YajanaRao/Serenity) / [Telegram](https://t.me/serenityapp) or [Noice](https://trynoice.com/) - Meditation / Sleep Sounds
 * [myNoise](https://play.google.com/store/apps/details?id=com.mynoise.mynoise&amp;hl=en) - Background Noises & Interactive Soundscapes
+* [Lo-fi Clouds Radio](https://www.lofi-clouds.com/) - Lo-fi Radio
 * [Chroma Doze](https://github.com/pmarks-net/chromadoze) - White Noise Generator
 
 ***
@@ -803,6 +807,7 @@
 * [Drive Stream](https://github.com/itsZECHS/DriveStream) - GDrive Video Player
 * [Great Courses Plus Premium](https://forum.mobilism.org/search.php?keywords=great+courses+plus&terms=all&author=&sc=1&sf=titleonly&sr=topics&sk=t&sd=d&st=0&ch=300&t=0&submit=Search) - Courses
 * [Plex Manager](https://github.com/sikelio/plexmanager) - Plex Server Manager
+* [Findroid](https://github.com/jarnedemeulemeester/findroid) - JellyFin Client
 * [PipePipe](https://github.com/InfinityLoop1308/PipePipe) - Bilibili / NicoNico Client
 * [Bilibili Evolved](https://github.com/the1812/Bilibili-Evolved) or [bilibili-android-client](https://github.com/HotBitmapGG/bilibili-android-client) - Bilibili Client
 * [ScreenStream](https://github.com/dkrivoruchko/ScreenStream) - Cast Device to Screen
@@ -941,6 +946,7 @@
 * [Luma AI](https://lumalabs.ai/) - Capture 3D Images / [Discord](https://discord.gg/lumaai)
 * [Bright Eye](https://apps.apple.com/us/app/bright-eye/id1593932475) - AI Image Generator
 * [Emojis.sh](https://emojis.sh/) - AI Emoji Generator
+* [MediBang](https://medibangpaint.com/en/) - Paint App
 * [Universal Control](https://apps.apple.com/us/app/tv-remote-universal-control/id1539090879) - Universal Remote
 * [NetClicker](https://netclicker.tv/) - Phone Browser Controller
 * [Bacon](https://github.com/jerameel/bacon) - Bluetooth Controller
@@ -1092,8 +1098,10 @@
 
 # ► iOS Audio
 
-* ⭐ **[Spotify++](https://rentry.co/FMHYBase64#spotify)**, **[SpotC++](https://github.com/SpotCompiled/SpotC-Plus-Plus)**, [Spotilife](https://rentry.co/FMHYBase64#spotilife), [Tweaked Spotify](https://rentry.co/FMHYBase64#tweaked-spotify) or [Spotify](https://apps.apple.com/us/app/spotify-music-and-podcasts/id324684580) - Streaming / [Listening Stats](https://apps.apple.com/us/app/spotistats-for-spotify/id1526912392)
+* ⭐ **[Spotify++](https://rentry.co/FMHYBase64#spotify)** - Ad-free Spotify / Sideloaded
+* ⭐ **[SpotC++](https://github.com/SpotCompiled/SpotC-Plus-Plus)** - Ad-free Spotify / Sideloaded
 * ⭐ **[YT Tweaked](https://rentry.co/FMHYBase64#yt-tweaked-ipas)**, [YTMusilife](https://rentry.co/FMHYBase64#ytmusilife) or [YTMusicUltimate](https://github.com/ginsudev/YTMusicUltimate), [Trebel](https://home.trebel.io/), [Soundcloud](https://apps.apple.com/us/app/soundcloud/id336353151), [eSound](https://apps.apple.com/ca/app/esound-music-player-app-mp3/id1224933860), [Musi](https://feelthemusi.com/), [iMusic](https://apps.apple.com/us/app/imusic-offline-music-player/id1535124961) or [Audiomack](https://apps.apple.com/ca/app/audiomack-download-new-music/id921765888) - Streaming
+* [Spotilife](https://rentry.co/FMHYBase64#spotilife) - Ad-free Spotify / Jailbreak or Sideload
 * [DeezeLife](https://rentry.co/FMHYBase64#deezelife) / [2](https://repo.hackyouriphone.org/deezelife) or [Deezer](https://apps.apple.com/app/deezer/id292738169) - Streaming
 * [Musi](https://apps.apple.com/us/app/musi-simple-music-streaming/id591560124) - Streaming
 * [Qello](https://apps.apple.com/us/app/qello-concerts-live-music/id491069819) - Concerts & Live Music Streaming
@@ -1101,6 +1109,7 @@
 * [VOX](https://apps.apple.com/us/app/vox-mp3-flac-music-player/id916215494) or [Melodista](https://apps.apple.com/us/app/melodista-music-offline-player/id1293175325) - Audio Player
 * [wInd3x](https://github.com/freemyipod/wInd3x) - iPod Classic / Nano Bootrom Exploit
 * [GarageBand](https://apps.apple.com/us/app/garageband/id408709785) - Audio Editor / Creator
+[SpotiStats](https://apps.apple.com/us/app/spotistats-for-spotify/id1526912392) - Spotify Listening Stats
 
 ***
 
@@ -1137,7 +1146,7 @@
 * [EncoreTVD](https://apps.apple.com/us/app/encoretvb-english/id1191642382) - Chinese Drama
 * [STBEmu](https://apps.apple.com/app/stbemutv/id1567306197) - Emulate an STB and Watch IPTV
 * [VLC](https://apps.apple.com/ca/app/vlc-for-mobile/id650377962), [SPlayer](https://splayer.dev/), [Loader](https://apps.apple.com/us/app/documents-loader/id1442498151), [Pojobox](https://apps.apple.com/us/app/pojo-4k-hd-video-music-player/id1454098557) or [Infuse 6](https://apps.apple.com/us/app/infuse-6/id1136220934) - Video Players
-* [uYouPlus](https://uyouplus.com/), [YTLitePlus](https://github.com/Balackburn/YTLitePlus/), [YT Tweaked](https://rentry.co/FMHYBase64#yt-tweaked-ipas) or [Cercube](https://rejail.ru/pack/cercube) - Modded YouTube iPAs
+* [uYouPlus](https://uyouplus.com/), [uYouEnhanced](https://github.com/arichornlover/uYouEnhanced), [YTLitePlus](https://github.com/Balackburn/YTLitePlus/), [YT Tweaked](https://rentry.co/FMHYBase64#yt-tweaked-ipas), [YouTubeRebornPlus](https://github.com/arichornlover/YouTubeRebornPlus) or [Cercube](https://rejail.ru/pack/cercube) - Modded YouTube iPAs
 * [Tunity](https://tunity.com/) - Hear Any Muted TV
 
 ***

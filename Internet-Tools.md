@@ -587,7 +587,7 @@
 
 ## ▷ Chrome Extensions
 
-**Note** - Chromium is implementing Manifest V3 which may [handicap adblocking](https://www.eff.org/deeplinks/2021/12/chrome-users-beware-manifest-v3-deceitful-and-threatening)
+* **Note** - Chromium is implementing Manifest V3 which may [handicap adblocking](https://www.eff.org/deeplinks/2021/12/chrome-users-beware-manifest-v3-deceitful-and-threatening)
 
 ***
 
@@ -706,9 +706,10 @@
 * 🌐 **[Awesome Web Archiving](https://github.com/iipc/awesome-web-archiving)** - Web Archiving Tools
 * 🌐 **[Webrecorder](https://webrecorder.net/)** - Open-source Archiving Tools
 * ⭐ **[ArchiveBox](https://archivebox.io)** - Self-hosted Web Archiving / [GitHub](https://github.com/archivebox/archivebox)
-* ⭐ **[MarkDownload](https://github.com/deathau/markdownload)** - Download Web Pages as Markdown Files
+* ⭐ **[MarkDownload](https://github.com/deathau/markdownload)** or [MarkdownDown](https://markdowndown.vercel.app/) - Download Web Pages as Markdown Files
 * ⭐ **[HTTrack](https://www.httrack.com/)** / [Guide](https://rentry.co/cloneasite) - Website Downloader
 * ⭐ **[datahoarder-website-to-markdown](https://github.com/evilsh3ll/datahoarder-website-to-markdown)** - Index to Markdown Tool
+* [Monolith](https://github.com/Y2Z/monolith) - Save Webpages as HTML
 * [WAIL](https://matkelly.com/wail) / [GitHub](https://github.com/machawk1/wail) - GUI For Archiving Tools
 * [ReplayWeb](https://replayweb.page/) or [OldWeb](https://oldweb.today/) - View Web Archive Files
 * [ArchiveWeb.page](https://archiveweb.page/) - Browser Extension

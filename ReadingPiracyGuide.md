@@ -169,7 +169,6 @@
 
 * 🌐 **[WiLd's Occult Ebook Sources](https://rentry.co/FMHYBase64#wilds-occult-ebook-sources)** - Occult / Esoterica
 * 🌐 **[Soren Megathread](https://odysee.com/@Soren:71/%F0%9F%94%B0Megathread_with_Resources%F0%9F%94%B0:1)** - Occult / Esoterica
-* 🌐 **[Awesome Islam](https://github.com/AhmedKamal/awesome-Islam)** - Islam Related Projects / Apps
 * ↪️ **[Esoterica Telegram Channels](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_magic_.2F_esoteric_telegram_ebooks)**
 * ⭐ **[Sacred Text Archive](https://sacred-texts.com/)** - Religion / Mythology / Folklore / Esoterica
 * ⭐ **[The Exerdex](https://rentry.co/FMHYBase64#echerdex-repository)** - Esoterica / [Discord](https://discord.gg/dS5X3d7ype) / [Subreddit](https://www.reddit.com/r/Echerdex/)
@@ -211,7 +210,6 @@
 * [LeftHandPath](https://rentry.co/FMHYBase64#lefthandpath) - Luciferianism
 * [Hellenistic Theism Drive](https://rentry.co/FMHYBase64#hellenistic-theism) - Hellenistic Theism
 * [The Theosophical Society](https://www.theosociety.org/) - Theosophy
-* [Grimoire Drive](https://rentry.co/FMHYBase64#grimoires) - Grimoires
 * [GodChecker](https://www.godchecker.com/) - Religion / Mythology
 * [Sankaracharya](https://www.sankaracharya.org/index.php) - Hinduism
 * [Vedanta Shastras](https://www.shastras.com/) - Hinduism
@@ -235,6 +233,7 @@
 * [Classics Ethereal Library](https://www.ccel.org/) - Christianity
 * [Hidden Bible](http://www.hiddenbible.com/enoch/online.html) - Enoch Translation
 * [GodAlone](http://www.godalone.org/) or [Quran](https://quran.com/) / [2](https://beta.quran.com/en) - Quran Translations / [Mobile](https://github.com/quran/quran_android), [2](https://alfaazplus.com/)
+* [Awesome Islam](https://github.com/AhmedKamal/awesome-Islam) - Islam Related Projects / Apps
 * [OpenMaktaba](https://openmaktaba.com/) - Islamic Books
 * [TheIslam360](https://theislam360.com/) - Islamic Research App
 * [English Torah](https://englishtorah.com/) - Torah Translation
@@ -255,8 +254,7 @@
 * ↪️ **[Quote Collections](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_quotes)**
 * ↪️ **[UFO Books](https://rentry.co/FMHYBase64#ufo-books)**
 * ⭐ **[Short Stories](https://short-stories.co/)**, [Booksie](https://www.booksie.com/), [Vestal Review](https://www.vestalreview.net/) or [Library of Short Stories](https://www.libraryofshortstories.com/) - Short Stories
-* ⭐ **[Poetry Foundation](https://www.poetryfoundation.org/)**, [Poetry In Translation](https://www.poetryintranslation.com/), [PoemHunter](https://www.poemhunter.com/), [CAPA](https://capa.conncoll.edu/), [RUVerses](https://ruverses.com/), [PoetryNook](https://poetrynook.com/) or [Poetry.com](https://www.poetry.com/) - Poetry
-* ⭐ **[SufficientVelocity](https://forums.sufficientvelocity.com/)** or [SpaceBattles](https://forums.spacebattles.com/) - Fanfiction Forums
+* ⭐ **[Poetry Foundation](https://www.poetryfoundation.org/)**, [Poetry In Translation](https://www.poetryintranslation.com/), [PoemHunter](https://www.poemhunter.com/), [CAPA](https://capa.conncoll.edu/), [DiscoverPoetry](https://discoverpoetry.com/), [RUVerses](https://ruverses.com/), [PoetryNook](https://poetrynook.com/) or [Poetry.com](https://www.poetry.com/) - Poetry
 * ⭐ **[MorbidKuriosity](https://morbidkuriosity.com/)** - Conspiracies, Dark History, Crime, Myths etc.
 * ⭐ **[The Anarchist Library](https://theanarchistlibrary.org/special/index)** - Anarchism
 * ⭐ **[EasyPeasy](https://easypeasymethod.org/)** - Painlessly Quit Pornography
@@ -646,7 +644,7 @@
 * ⭐ **[EarlyModernTexts](https://www.earlymoderntexts.com)** - Historical Texts
 * ⭐ **[World History](https://www.worldhistory.org/)** or [Livius](https://www.livius.org/) - History Encyclopedias
 * [Duke University Library](https://repository.duke.edu/catalog?utf8=%E2%9C%93&search_scope=https%3A%2F%2Frepository.duke.edu%2Fcatalog&q=&search_field=all_fields) - Historical Books
-* [Early English Books](https://quod.lib.umich.edu/e/eebogroup/) or [Amherst](https://acdc.amherst.edu/) - Historical Texts / Books
+* [Early English Books](https://quod.lib.umich.edu/e/eebogroup/), [NYPL](https://digitalcollections.nypl.org/) or [Amherst](https://acdc.amherst.edu/) - Historical Texts / Books
 * [Making of America](https://quod.lib.umich.edu/m/moa/) - American History
 * [Perseus Digital Library](https://www.perseus.tufts.edu/hopper/) - Classic / Greek / Roman / Arabic / Germanic
 * [Athena](https://athena.unige.ch/athena/) - Greek / History

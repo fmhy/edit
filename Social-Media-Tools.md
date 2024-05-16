@@ -26,7 +26,7 @@
 ***
 
 * 🌐 **[DiscordTools](https://discordtools.io/)** or [Awesome Discord](https://github.com/jacc/awesome-discord) - Discord Tools Indexes
-* ⭐ **[x266.mov](https://x266.mov/discord-embed)**, [embeds.video](https://embeds.video/), [Stolen Shoes](https://stolen.shoes/), [autocompressor](https://autocompressor.net/) or [Discord Embedder](https://discord.nfp.is/) - Embed Videos on Discord
+* ⭐ **[x266.mov](https://x266.mov/discord-embed)**, [embeds.video](https://embeds.video/), [Stolen Shoes](https://stolen.shoes/), [autocompressor](https://autocompressor.net/), [noury](https://dc.noury.li/) or [Discord Embedder](https://discord.nfp.is/) - Embed Videos on Discord
 * ⭐ **[Revolt](https://revolt.chat/)** / [Bots](https://rvlt.gg/discover/bots) / [Resources](https://github.com/insertish/awesome-revolt) / [Divolt Resources](https://github.com/ggtylerr/awesome-divolt) or **[Guilded](https://www.guilded.gg/)** / [Mod](https://github.com/ReGuilded/ReGuilded/) - Discord Alternatives
 * [Multi-Accounts 1 Email](https://generator.email/blog/gmail-generator) - Create Multi Accounts with One Email / [Guide](https://rentry.co/altmethod)
 * [AnswersOverflow](https://www.answeroverflow.com/) - Discord Search Engine
@@ -88,7 +88,7 @@
 
 ## ▷ Client Customization
 
-* 🌐 **[Client Themes](https://betterdiscord.app/themes)** - Client Theme Index
+* 🌐 **[Client Themes](https://betterdiscord.app/themes)** or [Discord Themes](https://github.com/topics/discord-theme) - Client Theme Index
 * ⭐ **[Discohook](https://discohook.org/)** / [Discohook Utils](https://dutils.shay.cat/), [Embed Creator](https://embed.dan.onl/) or [Embed Generator](https://message.style/) - Embed Generators
 * ⭐ **[CustomRP](https://www.customrp.xyz/)** - Customizable Rich Presence
 * [BD Editor](https://bdeditor.dev/) - Client Theme Editor
@@ -109,6 +109,7 @@
 * [Discord Text to Emoji](https://jtprince.com/discord/) - Convert Text to Discord Emojis
 * [Stickers.gg](https://stickers.gg) - Free Discord Stickers
 * [PreMiD](https://premid.app/) - Display Web Activity in Discord Status / [GitHub](https://github.com/PreMiD/PreMiD) / [Discord](https://discord.premid.app/)
+* [Jellyfin RPC](https://github.com/Radiicall/jellyfin-rpc) - Jellyfin Rich Presence
 * [AMWin-RP](https://github.com/PKBeam/AMWin-RP) - Apple Music Rich Presence
 * [Foo Discord](https://github.com/s0hv/foo_discord_rich) - Foobar Rich Presence
 * [Adobe Discord RPC](https://github.com/teeteeteeteetee/adobe-discord-rpc) - Adobe Rich Presence
@@ -229,7 +230,7 @@
 
 * ⭐ **[TheGigaBrain](https://thegigabrain.com/)**, [New PullPush](https://search-new.pullpush.io/) / [2](https://search.pullpush.io/), [Redditle](https://redditle.com/), [Reddit CSE](https://cse.google.com/cse?cx=016649841759798530173:rk2ezolwnw0) / [2](https://cse.google.com/cse?cx=007749065626525752968:qh5bqebwi30), [Samac](https://samac.io/), [ihsoyct](https://ihsoyct.github.io/index.html) or [Better Reddit Search](https://betterredditsearch.web.app/) - Reddit Search Engines
 * ⭐ **[RedditRepostSleuth](https://www.repostsleuth.com/)** - Reverse Post / Image Search
-* ⭐ **[Reveddit](https://www.reveddit.com/)**, [Unedit & Undelete for Reddit](https://greasyfork.org/en/scripts/407466), [Unedit](https://github.com/DenverCoder1/Unedit-for-Reddit) - View Deleted Reddit Posts
+* ⭐ **[Reveddit](https://www.reveddit.com/)** or [Unedit](https://denvercoder1.github.io/unedit-for-reddit/) - View Deleted Reddit Posts
 * [ReSavr](https://www.resavr.com/) or [Comment History](https://academictorrents.com/details/89d24ff9d5fbc1efcdaf9d7689d72b7548f699fc) - Reddit Comment Archives
 * [Expanse](https://github.com/jc9108/expanse), [redarcs](https://the-eye.eu/redarcs/) or [Reddit Archive](https://www.redditarchive.com/) - Reddit Post Archive Tools / [Note](https://ibb.co/R9jC5bk)
 * [RedditMetis](https://redditmetis.com/), [Reddit-User-Analyser](https://reddit-user-analyser.netlify.app/) or [Redective](https://www.redective.com/) - Reddit Profile Information
@@ -404,6 +405,7 @@
 * [media-downloader](https://github.com/mhogomchungu/media-downloader) - YT-DL GUI
 * [ezytdl](https://github.com/sylviiu/ezytdl) - YT-DL GUI
 * [ytdlp-interface](https://github.com/ErrorFlynn/ytdlp-interface) - YT-DL GUI
+* [Vividl](https://github.com/Bluegrams/Vividl) - YT-DL GUI
 * [youtube-dl-gui](https://github.com/oleksis/youtube-dl-gui), [2](https://github.com/StefanLobbenmeier/youtube-dl-gui) - YT-DL GUI
 * [Videomass](https://jeanslack.github.io/Videomass/) - YT-DL / FFmpeg GUI
 * [Hitomi Downloader](https://github.com/KurtBestor/Hitomi-Downloader) - YT-DL GUI
@@ -441,13 +443,14 @@
 
 ## ▷ YouTube Customization
 
-* ⭐ **[Enhancer for YT](https://www.mrfdev.com/enhancer-for-youtube)**, [ImprovedTube](https://improvedtube.com/), [Nova YouTube](https://greasyfork.org/en/scripts/433360), [Tweaks for YT](https://inzk.dev/tweaks-for-youtube/) or [Magic Actions](https://www.chromeactions.com/) - YouTube Enhancement Extensions
+* ⭐ **[Enhancer for YT](https://www.mrfdev.com/enhancer-for-youtube)**, [ImprovedTube](https://improvedtube.com/), [Tweaks for YT](https://inzk.dev/tweaks-for-youtube/) or [Magic Actions](https://www.chromeactions.com/) - YouTube Enhancement Extensions
 * ⭐ **[ReturnYouTubeDislikes](https://returnyoutubedislike.com/)** - View YouTube Dislikes / [Web App](https://haeri.github.io/youtube-dislike-viewer/) / [Discord](https://discord.com/invite/mYnESY4Md5)
 * ⭐ **[Unhook](https://unhook.app/)**, [Untrap](https://untrap.app/), [Less Addictive YouTube](https://github.com/AlexisDrain/Less-Addictive-YouTube) or [YourTube](https://github.com/rahgurung/YourTube) - Distraction-Free YouTube
 * ⭐ **[DeArrow](https://dearrow.ajay.app/)** or [Clickbait Remover](https://github.com/pietervanheijningen/clickbait-remover-for-youtube) - Reduce Sensationalism / Clickbait
 * [Thumbnail Rating Bar](https://github.com/elliotwaite/thumbnail-rating-bar-for-youtube) - Display Like / Dislike Ratio on Thumbnails
 * [youtube-like-dislike-shortcut](https://github.com/avi12/youtube-like-dislike-shortcut) - Video Like / Dislike Hotkeys
 * [YT Not Interested Button on Hover](https://greasyfork.org/en/scripts/396936-yt-not-interested-in-one-click) - Easily Display Not Interested Button
+* [YouTube Fixes](https://greasyfork.org/en/scripts/405614) - YouTube Tweaks
 * [Focused YouTube](https://github.com/makaroni4/focused_youtube) - Minimalist YouTube
 * [YouTube Redux](https://github.com/omnidevZero/YouTubeRedux) or [Cosmic Cat](https://github.com/cosmic-cat-yt/Cosmic-Cat) - Restore Classic YouTube Layout
 * [/r/OldYouTubeLayout](https://www.reddit.com/r/oldyoutubelayout/) - Classic YouTube Layout Subreddit
@@ -505,7 +508,7 @@
 * [Auto Twitch Drops](https://chromewebstore.google.com/detail/automatic-twitch-drops-mo/kfhgpagdjjoieckminnmigmpeclkdmjm) - Twitch Drop Notifications
 * [Auto-Claim-Twitch-Channel-Points](https://github.com/mikeyaworski/Auto-Claim-Twitch-Channel-Points) or [TTVDropBot](https://github.com/Giingu/Enhanced-TTVDropBot) - Auto Claim Twitch Points
 * [Twitch Drops Miner](https://github.com/DevilXD/TwitchDropsMiner) - Auto Claim Twitch Drops
-* [TwitchRSS](https://twitchrss.appspot.com/) - Twitch RSS Generator
+* [TwitchRSS](https://twitchrss.appspot.com/) or [twitchrss](https://twitchrss.com/) - Twitch RSS Generators
 * [TTV Favorites](https://github.com/jc9108/ttv-favorites) - Add Channel Favorites
 * [Streamlink Twitch GUI](https://github.com/streamlink/streamlink-twitch-gui) - Twitch Browser for Streamlink
 * [get stream](https://pwn.sh/tools/getstream.html) - Extract Twitch URLs
@@ -597,6 +600,7 @@
 * [Twitter Demetricator](https://bengrosser.com/projects/twitter-demetricator/) - Remove All Twitter Metrics
 * [Thread Reader App](https://threadreaderapp.com/) - Unroll Twitter Threads / Search
 * [Relink](https://www.relink.page/) - Fix Twitter Link Images
+* [Hide Content Warning](https://greasyfork.org/en/scripts/437359) - Remove Sensitive Content Blur
 
 ***
 
@@ -662,6 +666,7 @@
 
 * ⭐ **[instances.social](https://instances.social/)** or [Mastodon Near Me](http://mastodon-near.me/) - Mastodon Instances
 * ⭐ **[Mastodon Apps](https://joinmastodon.org/apps)** - Mastodon Client List
+* [Phanpy](https://phanpy.social/) or [Mastodeck](https://mastodeck.com/) - Mastodon Clients
 * [MastoVue](https://mastovue.glitch.me/) or [FediWall](https://fediwall.social/) - View Public Timelines / Hashtags
 * [Followgraph](https://followgraph.vercel.app/) or [StreetPass](https://streetpass.social/) - Find Mastodon Users
 * [western.social](https://western.social/) - User Search

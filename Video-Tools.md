@@ -110,7 +110,7 @@
 * 🌐 **[Awesome Streaming](https://github.com/juancarlospaco/awesome-streaming-tools)** or [StreamerFreebies](https://streamerfreebies.com/) - Live Streaming Resources
 * 🌐 **[Best VTuber](https://gist.github.com/emilianavt/cbf4d6de6f7fb01a42d4cce922795794)** or [VTuber References](https://docs.google.com/spreadsheets/d/15UpI8GEqv22T45AD3L1EgcPB4l2Tvr64aDgLq7xZfMA/htmlview) - VTuber Tool Indexes
 * ⭐ **[OBS](https://obsproject.com/)** - Live Stream Manager
-* ⭐ **OBS Tools** - [Virtual Cam](https://obsproject.com/forum/resources/obs-virtualcam.949/) / [Tweaks](https://discord.gg/CTT) / [Effects](https://github.com/exeldro/obs-shaderfilter/) / [Keyboard Visualiser](https://github.com/ThoNohT/NohBoard) / [Background Remover](https://github.com/occ-ai/obs-backgroundremoval) / [Phone Controller](https://github.com/Kounex/obs_blade) / [WebRTC Server](https://github.com/GRVYDEV/Project-Lightspeed)
+* ⭐ **OBS Tools** - [Virtual Cam](https://obsproject.com/forum/resources/obs-virtualcam.949/) / [Tweaks](https://discord.gg/CTT) / [Effects](https://github.com/exeldro/obs-shaderfilter/) / [Keyboard Visualiser](https://github.com/ThoNohT/NohBoard) / [Background Remover](https://github.com/occ-ai/obs-backgroundremoval) / [Phone Controller](https://github.com/Kounex/obs_blade) / [WebRTC Server](https://github.com/GRVYDEV/Project-Lightspeed) / [Plugin Updater](https://ko-fi.com/s/0b5bd4536d)
 * [Stream Elements](https://streamelements.com/) - Streaming Service Manager
 * [Streamlabs-OBS](https://github.com/stream-labs/desktop) - Live Stream Manager
 * [SteamLabs](https://streamlabs.com/) - Live Stream Manager
@@ -238,6 +238,7 @@
 * [Gerbera](https://gerbera.io/) - Media Server
 * [Homehost](https://github.com/ridhwaans/homehost) - Media Server
 * [Dim](https://github.com/Dusk-Labs/dim) - Media Server
+* [Kyoo](https://github.com/zoriya/Kyoo) - Media Server
 * [WatchIt](https://github.com/ZorrillosDev/watchit-app) - Media Server
 * [SimpleDLNA](https://nmaier.github.io/simpleDLNA/) - Media Server
 * [Chocolate](https://github.com/ChocolateApp/Chocolate) - Media Server
@@ -270,12 +271,14 @@
 
 ## ▷ Jellyfin Tools
 
+* 🌐 **[Awesome Jellyfin](https://github.com/awesome-jellyfin/awesome-jellyfin)** - Jellyfin Resources
 * ⭐ **[JellyPlayer](https://github.com/prayag17/JellyPlayer)** or [jellyfin-media-player](https://github.com/jellyfin/jellyfin-media-player) - Desktop Clients
 * [Jellyfin Setup Guide](https://www.fuzzygrim.com/posts/media-server)
 * [Jellyfin Customization Guide](https://youtu.be/F85qMyBeiDI)
 * [Jellyfin Themes](https://jellyfin.org/docs/general/clients/css-customization/#community-themes)
 * [Jellyseerr](https://github.com/Fallenbagel/jellyseerr) - User Requests
 * [jellyfin-plugin-anime](https://github.com/jellyfin-archive/jellyfin-plugin-anime) - Anime Plugin
+* [Jellyfin RPC](https://github.com/Radiicall/jellyfin-rpc) - Jellyfin Discord Rich Presence
 
 ***
 

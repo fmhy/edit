@@ -7,7 +7,7 @@
 # ► System Tools
 
 * 🌐 **[Awesome Windows 11](https://github.com/awesome-windows11/windows11)** - Windows 11 Resources
-* 🌐 **[PC-Optimization-Hub](https://github.com/BoringBoredom/PC-Optimization-Hub)** or [All About Windows](https://github.com/luke-beep/all-about-windows) - System Optimization Resources
+* 🌐 **[PC-Optimization-Hub](https://github.com/BoringBoredom/PC-Optimization-Hub)** - System Optimization Resources
 * ↪️ **[Gaming Optimization](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/games#wiki_.25B7_optimization_tools)**
 * ⭐ **[PowerToys](https://learn.microsoft.com/en-us/windows/powertoys/)**, [Sysinternals](https://learn.microsoft.com/en-us/sysinternals/) / [Suite](https://apps.microsoft.com/store/detail/sysinternals-suite/9P7KNL5RWT25) or [JaxCore](https://jaxcore.app/) - System Tools
 * ⭐ **[CPU-Z](https://www.cpuid.com/softwares/cpu-z.html)**, [winfetch](https://github.com/lptstr/winfetch) or [GPU-Z](https://www.techpowerup.com/download/techpowerup-gpu-z/) - System Information Tools
@@ -78,13 +78,12 @@
 * ⭐ **[Scoop](https://scoop.sh/)**
 * ⭐ **[Ninite](https://ninite.com/)**
 * ⭐ **[UniGetUI](https://github.com/marticliment/WingetUI)** or [winget-cli](https://github.com/microsoft/winget-cli)
-* ⭐ **WinGet Tools** - [Tools](https://github.com/jdhitsolutions/WingetTools) / [Packages](https://github.com/microsoft/winget-pkgs), [2](https://winget.run/) / [Automation](https://github.com/topgrade-rs/topgrade) / [Pac-Man](https://github.com/rami3l/pacaptr)
+* ⭐ **WinGet Tools** - [Tools](https://github.com/jdhitsolutions/WingetTools) / [Repo Browser](https://winstall.app/) / [Packages](https://github.com/microsoft/winget-pkgs), [2](https://winget.run/) / [Automation](https://github.com/topgrade-rs/topgrade) / [Pac-Man](https://github.com/rami3l/pacaptr)
 * [NirLauncher](https://launcher.nirsoft.net/)
 * [Chocolatey](https://chocolatey.org/) / [GUI](https://github.com/chocolatey/ChocolateyGUI)
 * [Spinel](https://spinel.ovh/) - Multi-Program Install Script Generator
 * [Silent Install](https://www.silentinstall.org/) - Build Multi-Program Installers
 * [Patch My PC](https://patchmypc.com/home-updater)
-* [WinInstall](https://winstall.app/)
 * [RuckZuck](https://ruckzuck.tools/)
 * [0Install](https://0install.net/)
 * [portableapps](https://portableapps.com/download)
@@ -424,6 +423,7 @@
 * [macOS-cursors-for-Windows](https://github.com/antiden/macOS-cursors-for-Windows) - macOS Cursors for Windows
 * [AccentColorizer](https://github.com/krlvm/AccentColorizer) - Custom Windows Accent Color
 * [MicaForEveryone](https://github.com/MicaForEveryone/MicaForEveryone) - System Backdrop Customization
+* [TranslucentSM](https://github.com/rounk-ctrl/TranslucentSM) - Translucent Start Menu
 * [TranslucentFlyouts](https://github.com/ALTaleX531/TranslucentFlyouts) - Translucent Context Menus / [GUI](https://github.com/Satanarious/TranslucentFlyoutsConfig)
 * [TranslucentTB](https://github.com/TranslucentTB/TranslucentTB) - Translucent Windows Taskbar
 * [ExplorerBlurMica](https://github.com/Maplespe/ExplorerBlurMica) - Blur / Acrylic Effect for File Explorer

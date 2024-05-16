@@ -58,7 +58,7 @@
 * ⭐ **[Koalageddon](https://github.com/acidicoala/Koalageddon/)** / [v2](https://github.com/acidicoala/Koalageddon2) - DLC Unlocker for Steam, Epic, Origin, EA and Uplay
 * ⭐ **[SmokeAPI](https://github.com/acidicoala/SmokeAPI)** - Steam DLC Unlocker / [Auto Installer](https://github.com/pointfeev/CreamInstaller)
 * ⭐ **[Goldberg](https://github.com/otavepto/gbe_fork)**, [2](https://gitlab.com/Mr_Goldberg/goldberg_emulator) / [GUI](https://cs.rin.ru/forum/viewtopic.php?f=29&t=111152&hilit=goldberg) / [Guide](https://rentry.co/goldberg_emulator) / [SmartSteamEmu](https://cs.rin.ru/forum/viewtopic.php?p=2009102#p2009102) - Offline Steam DRM Bypass / Multiplayer Emulator
-* ⭐ **[Steamtools](https://github.com/st2024/Steamtools/releases)** / [Guide](https://rentry.co/Steamtools) or [GreenLuma](https://cs.rin.ru/forum/viewtopic.php?f=29&t=103709) - Offline Steam DRM Bypass / DLC Unlockers
+* ⭐ **[Steamtools](https://github.com/st2024/Steamtools/releases)** / [Guide](https://rentry.co/Steamtools) or [GreenLuma](https://cs.rin.ru/forum/viewtopic.php?f=29&t=103709) / [Manager](https://github.com/BlueAmulet/GreenLuma-2024-Manager) - Offline Steam DRM Bypass / DLC Unlockers
 * ⭐ **[Unsteam](https://cs.rin.ru/forum/viewtopic.php?f=20&t=134707&hilit=unsteam)** - Online Steam DRM Bypass / Cracked Servers Only / Multiplayer Emulator
 * ⭐ **[Steamless](https://github.com/atom0s/Steamless)** - Steam DRM Remover
 * ⭐ **[Steam-Auto-Crack](https://github.com/oureveryday/Steam-auto-crack)** or [SteamAutoCracker](https://github.com/BigBoiCJ/SteamAutoCracker) - Auto Apply Goldberg + Steamless / [Guide](https://codeberg.org/fernbacher/How-To-Crack)
@@ -142,7 +142,7 @@
 * ⭐ **[MSI Kombustor](https://www.geeks3d.com/furmark/kombustor/)** - GPU Benchmark Test
 * ⭐ **[ProSettings](https://prosettings.net/)**, [Share Gaming Tweaks](https://www.tenforums.com/gaming/117377-share-gaming-tweaks-chec-my-comprehensive-list-will-blow-your-mind.html), [/r/OptimizedGaming](https://www.reddit.com/r/OptimizedGaming/), [SweetFX](https://sfx.thelazy.net/), [ENBSeries](http://enbdev.com) or [Use Gaming Tweaks](https://github.com/PrincessAkira/Use-Gaming-Tweaks) - Settings Optimization Guides
 * ⭐ **[DisplayMagician](https://displaymagician.littlebitbig.com/)** or [AutoActions](https://github.com/Codectory/AutoActions) - Per-Game Display Profiles
-* ⭐ **[Magpie](https://github.com/Blinue/Magpie)**, [Vuenxx](https://discord.gg/ASZjqrjWYf) / [Note](https://pastebin.com/DyQh6K0Q) or [The Falcons](https://discord.gg/8fh5BXxcjY) - Free FSR 3 Mods / [Guide](https://rentry.co/fsr3-mod-guide)
+* ⭐ **[Magpie](https://github.com/Blinue/Magpie)** or [Vuenxx](https://discord.gg/ASZjqrjWYf) / [Note](https://pastebin.com/DyQh6K0Q) - Free FSR 3 Mods / [Guide](https://rentry.co/fsr3-mod-guide)
 * [RagnoTech Optimization Catalog](https://ragnos1997.com/optimization-catalog/) or [TroubleChute](https://www.youtube.com/c/TroubleChute/featured) - Gaming Optimization Guides
 * [Calypto’s Latency Guide](https://docs.google.com/document/d/1c2-lUJq74wuYK1WrA_bIvgb89dUN0sj8-hO3vqmrau4/), [cancerogenoslab](https://sites.google.com/view/cancerogenoslab/) or [MikeMartin](https://www.mikemartin.co/) - FPS / Latency Guides
 * [OCAT](https://gpuopen.com/ocat/) / [GitHub](https://github.com/GPUOpen-Tools/ocat), [Rivatuner Statistics Server](https://www.guru3d.com/files-details/rtss-rivatuner-statistics-server-download.html), [CapFrameX](https://www.capframex.com/) or [Xbox Game Bar](https://rentry.co/WindowsFPS) - FPS Benchmarking
@@ -198,6 +198,7 @@
 * [Server.pro](https://server.pro/) - Game Server Hosting
 * [Tilted Online](https://wiki.tiltedphoques.com/tilted-online/) / [GitHub](https://github.com/tiltedphoques/TiltedEvolution) - Multiplayer Skyrim & Fallout 4 / [Discord](https://discord.gg/skyrimtogether) / [Setup Guide](https://youtu.be/ytSftFoQQHA)
 * [NV:MP](https://nv-mp.com/) - Fallout: New Vegas Multiplayer / [Discord](https://discordapp.com/invite/mKVdhmEDrW)
+* [Insignia](https://insignia.live/) - Original Xbox Replacement Servers / [Discord](https://discord.gg/CWkdVdc)
 * [Project Cartographer](https://www.halo2.online/) - Halo 2 Online Servers
 * [Halo Custom Edition](https://www.haloce.org/) - Halo CE Online Servers
 * [Northstar](https://thunderstore.io/c/northstar/), [2](https://northstar.tf/) - Titanfall 2 Server Hosting & Modding / [GitHub](https://github.com/R2Northstar/Northstar/releases) / [Guide](https://rentry.org/northstar-guide) / [Discord](https://discord.gg/CEszSguY3A)
@@ -214,6 +215,7 @@
 * [t7patch](https://github.com/shiversoftdev/t7patch) - Black Ops 3 Crash Fix
 * [Venice Unleashed](https://veniceunleashed.net/) / [Discord](https://discord.com/invite/dpJwaVZ) or [Warsaw Revamped](https://warsaw-revamped.com/) / [Discord](https://discord.com/invite/C9Zrh4G) - Battlefield Mod Projects
 * [BF2142 Reclamation](https://battlefield2142.co/) - BF2142 Multiplayer Project / [Discord](https://discord.gg/MEwBW9U)
+* [Marne](https://marne.io/) - BF1 Multiplayer Project / [Discord](https://marne.io/discord)
 * [StatsVerse](http://statsverse.com/) - Battlefield Leaderboards
 * [Sym.gg](https://sym.gg/) - Battlefield Info & Weapon Stats / [Discord](https://discord.com/invite/RVRZ3RgYNP)
 * [PaladinsGuru](https://paladins.guru/) - Paladins Leaderboards / [Discord](https://discord.com/invite/5aKtMB7)
@@ -222,7 +224,7 @@
 * [ET: Legacy](https://www.etlegacy.com/) - Wolfenstein Enemy Territory Multiplayer Project / [Discord](https://discord.com/invite/UBAZFys)
 * [Braytech](https://bray.tech/) - Destiny 2 Stats
 * [Leaf](https://leafapp.co/) or [HaloDataHive](https://halodatahive.com/) - Halo Infinite Leaderboards / Stats
-* [D4Builds](https://d4builds.gg/) - Diablo 4 Builds / [D4Builds](https://discord.gg/d4builds)
+* [D4Builds](https://d4builds.gg/) - Diablo 4 Builds
 * [WoWProgress](https://www.wowprogress.com) or [CheckPVP](https://www.check-pvp.fr/) - WoW Rankings
 * [RaidPlan](https://raidplan.io/) - WoW Raid Planner / [Discord](https://discord.com/invite/mTuHsfb)
 * [FallGuysStats](https://github.com/ShootMe/FallGuysStats) or [Fallalytics](https://fallalytics.com/) - Fall Guys Stat Trackers
@@ -447,6 +449,7 @@
 * [ACPatterns](https://acpatterns.com/) - Animal Crossing Pattern Tool / [Discord](https://discord.com/invite/9rGkZNk)
 * [Hard Drop](https://harddrop.com/wiki/Tetris_Wiki) or [Tetris.wiki](https://tetris.wiki/) - Tetris Wikis
 * [Fumen](https://harddrop.com/fumen/) - Tetris Field Editor
+* [WRCsetups](https://wrcsetups.com/) - WRC Setups
 * [Useful Osu](https://github.com/CarbonUwU/Useful-osu) - Osu! Resources
 * [Collection Manager](https://github.com/Piotrekol/CollectionManager) - Osu! Collection Manager
 * [osu trainer](https://github.com/FunOrange/osu-trainer) - Osu! Trainer
@@ -552,12 +555,13 @@
 * [Voyager](https://voyager.minedojo.org/) - Minecraft AI
 * [Enchant Order](https://iamcal.github.io/enchant-order/) - Minecraft Enchantment Ordering Tool
 * [MiniMessageViewer](https://webui.advntr.dev/) - Format Plugin Messages
+* [MinecraftJSON](https://www.minecraftjson.com/) - Minecraft Tellraw Generator
 * [Minecraft Wiki Redirect](https://greasyfork.org/en/scripts/488541) - Redirect Minecraft Fandoms to minecraft.wiki
 * [MCDF](https://mcdf.wiki.gg/) - Discontinued Minecraft Features Wiki
 
 ***
 
-## ▷ Pokémon Tools
+## ▷ Pokemon Tools
 
 * 🌐 **[Awesome Pokémon](https://github.com/tobiasbueschel/awesome-pokemon)** - Curated List of Pokémon Resources
 * ⭐ **[Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Main_Page)** - Pokémon Wiki
@@ -590,9 +594,10 @@
 * ⭐ **[CsWarzOnE](https://cswarzone.com/)** - Counter-Strike Downloads
 * [CSGO Trader](https://csgotrader.app/) - CS:GO Trading Enhancements
 * [ArminC-AutoExec](https://github.com/ArmynC/ArminC-AutoExec) - ArminC's CS2 Config
-* [CS2 Browser](https://cs2browser.com/) - Counter-Strike 2 Server Browser
+* [CS2 Browser](https://cs2browser.com/) or [CS2 Server Picker](https://github.com/FN-FAL113/cs2-server-picker) - Counter-Strike 2 Server Browser
 * [Faceit](https://www.faceit.com/) - Matchmaking Client
 * [Faceit Finder](https://faceitfinder.com/) - Faceit Account Finder
+* [Repeek](https://repeek.gg/) - Faceit Enhancement Extension
 
 ***
 
@@ -608,6 +613,7 @@
 * [Grand Theft Wiki](https://www.grandtheftwiki.com/Main_Page) - GTA Wiki
 * [Rainbomizer](https://rainbomizer.com/) - GTA Randomizer Mods
 * [OpenIV](https://openiv.com/) - Rockstar Game Modding Tool
+* [Gillian's GTA](https://gillian-guide.github.io/) - GTA IV Modding Guide
 * [GTA 5 Grand Roleplay](https://gta5grand.com/) - GTAV Roleplay Server
 * [D.E.P](https://www.definitive-edition-project.com/) - Fix GTA PC Port Bugs
 * [Vice City: Multiplayer](https://vc-mp.org/) - Mutiplayer GTA:VC

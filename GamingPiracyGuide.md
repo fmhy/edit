@@ -64,6 +64,7 @@
 * [Elamigos](https://elamigos.site/) - Download
 * [Xatab Repacks](https://byxatab.com/), [2](https://byxatab.org/) - Torrent
 * [Tiny-Repacks](https://www.tiny-repacks.win) - Torrent
+* [DODI Repacks](https://dodi-repacks.site/) - Torrent / [Discord](https://discord.gg/uE273qJ) / [Forum](https://dodi-forums.win/) / [Opera Bypass](https://rentry.co/lootlink) / [Warning](https://pastebin.com/n5xS3v6k)
 * [FreeGOGPCGames](https://freegogpcgames.com/) - GOG Games Torrent Uploads / [Hash Note](https://pastebin.com/pNMj3nay), [2](https://i.ibb.co/XbF2dv1/image.png)
 * [Magipack](https://www.magipack.games), [CollectionChamber](https://collectionchamber.blogspot.com/) or [ClassicPCGames](https://archive.org/details/classicpcgames) - Retro PC Games
 * [~archive](https://websites.umich.edu/~archive/) - Retro PC / Mac Games
@@ -115,6 +116,7 @@
 * [EDuke32](https://www.eduke32.com/) - Duke Nukem 3D Source Port
 * [NBlood](https://github.com/nukeykt/NBlood) - Reverse-Engineered Duke Nukem Ports
 * [SP Tarkov](https://www.sp-tarkov.com/) - Escape From Tarkov Single Player Mod
+* [doukutsu-rs](https://github.com/doukutsu-rs/doukutsu-rs) - Open-Source Cave Story
 * [Arx Libertatis](https://arx-libertatis.org/) - Arx Fatalis PC Port
 * [Mars 3D](https://mars3d-game.wixsite.com/index) - Mars 3D Translation & Remake
 * [Unciv](https://github.com/yairm210/Unciv) - Civ V Remake
@@ -164,8 +166,8 @@
 * ⭐ **[Skraper](https://www.skraper.net/)** - ROM Cover / Metadata Scraper
 * ⭐ **[Dolphin Guide](https://github.com/shiiion/dolphin/wiki/Performance-Guide)** - Dolphin Setup Guide
 * ⭐ **[Cemu Guide](https://cemu.cfw.guide/)** or [/r/CemuPiracy Tutorial](https://www.reddit.com/r/CemuPiracy/wiki/tutorial/) - WiiU / BOTW Setup Guides
-* ⭐ **[Switch Emu Guide](https://github.com/Abd-007/Switch-Emulators-Guide)** / [Discord](https://discord.gg/87bsZWwF3X) or [Ryujinx Guide](https://docs.google.com/document/d/1prxOJaE4WhPeYNHW17W5UaWZxDgB8e5wNHxt2O4FKvs/) - Switch Emulator Setup Guides
-* ⭐ **[RAZE](https://github.com/ZDoom/Raze)** or [BuildGDX](https://m210.duke4.net/) - Oldschool Shooter Engine / [Discord](https://discord.gg/zZw2eq3n7G)
+* ⭐ **[Switch Emu Guide](https://github.com/Abd-007/Switch-Emulators-Guide)** or [Ryujinx Guide](https://docs.google.com/document/d/1prxOJaE4WhPeYNHW17W5UaWZxDgB8e5wNHxt2O4FKvs/) - Switch Emulator Setup Guides
+* ⭐ **[RAZE](https://github.com/ZDoom/Raze)** or [BuildGDX](https://m210.duke4.net/) / [Discord](https://discord.gg/zZw2eq3n7G) - Oldschool Shooter Engine
 * [TOSEC](https://rentry.co/FMHYBase64#tosec) - The Old School Emulation Center
 * [Xbox Emulation Hub](https://discord.com/invite/7pcAbZzpXj) - Xbox Emulation Discord
 * [EmuDeck](https://www.emudeck.com/) or [GameImage](https://github.com/ruanformigoni/gameimage) - Game/Emulator Setup for Steam Deck and Linux distros
@@ -189,7 +191,6 @@
 * 🌐 **[ROM Sites Wiki](https://emulation.gametechwiki.com/index.php/ROM_%26_ISO_Sites)** - List of ROM Download Sites
 * 🌐 **[ROM Managers](https://emulation.gametechwiki.com/index.php/ROM_managers)** - List of ROM Managers
 * ↪️ **[Switch ROMs](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_switch_roms)**
-* ⭐ **[Vimms Lair](https://vimm.net/)** - Emulators / ROMs
 * ⭐ **[Rom Center](https://r-roms.github.io/)**, [2](https://r-roms.gitlab.io/megathread/), [3](https://pastelink.net/24dhn) - ROMs / [Pastebins](https://rentry.co/FMHYBase64#romcenter)
 * ⭐ **[Myrient](https://myrient.erista.me/)** - ROMs
 * ⭐ **[AlvRo](https://rentry.co/FMHYBase64#alvro)** - ROMs / pw: ByAlvRo
@@ -200,6 +201,7 @@
 * ⭐ **[Gnarly Repacks](https://rentry.co/FMHYBase64#gnarly_repacks)** - ROMs / Emulator Repacks
 * ⭐ **[ROMhacking](https://www.romhacking.net/)** or [Reality Incorporated](https://sites.google.com/view/bonmarioinc/rom-hacks/released-rom-hacks) - ROM Fan Translations
 * ⭐ **[WiiUDownloader](https://github.com/Xpl0itU/WiiUDownloader)**, [WiiUSBHelper](https://github.com/FailedShack/USBHelperInstaller/releases), [WiiU ROMs](https://wiiuroms.net/) or [JNUSTool](https://gbatemp.net/threads/jnustool-nusgrabber-and-cdecrypt-combined.413179/) - ROMs / Wii U
+* [Vimms Lair](https://vimm.net/) - Emulators / ROMs
 * [/r/ROMs](https://www.reddit.com/r/ROMs/) - Discussion Sub
 * [ROM-Collections](https://rentry.co/ROM-Collections) - ROMs
 * [WowROMs](https://wowroms.com/en) - ROMs
@@ -510,7 +512,8 @@
 * 🌐 **[Awesome Chess](https://github.com/hkirat/awesome-chess)** or [Chess Resources](https://redd.it/u43nrc) - Chess Resources
 * 🌐 **[/m/Chess](https://www.reddit.com/user/korfor/m/chess/)** or [/r/Chess](https://reddit.com/r/chess) - Chess Subreddits
 * 🌐 **[/r/Chess Books](https://reddit.com/r/chess/wiki/books)** - Recommended Chess Books
-* ⭐ **[lichess](https://lichess.org/)**, [GameKnot Chess](https://gameknot.com/), [SparkChess](https://www.sparkchess.com/) or [Chess.com](https://www.chess.com/) - Chess Platforms / [Customize](https://prettierlichess.github.io/)
+* ⭐ **[lichess](https://lichess.org/)**, [GameKnot Chess](https://gameknot.com/), [SparkChess](https://www.sparkchess.com/) or [Chess.com](https://www.chess.com/) - Chess Platforms
+* ⭐ **lichess Tools** - [Mobile](https://lichess.org/mobile) / [Customize](https://prettierlichess.github.io/) / [Leagues](https://www.lichess4545.com/)
 * ⭐ **[Super Auto Pets](https://teamwood.itch.io/super-auto-pets)** - Pet Battle Game
 * ⭐ **[Scid vs. PC](https://scidvspc.sourceforge.net/)**, [TheChessWebsite](https://www.thechesswebsite.com/), [Chess Tempo](https://chesstempo.com/), [Chessercise](https://www.chessercise.xyz/), [ChessLab](https://chesslab.me/) / [Discord](https://discord.com/invite/AA5G5f9wKC), [Lucas Chess](https://lucaschess.pythonanywhere.com/) or [List Study](https://listudy.org/en) - Learn / Practice Chess
 * [Warzone](https://www.warzone.com/) - RISK Clone
@@ -520,7 +523,6 @@
 * [Kung Fu Chess](https://www.kfchess.com/) - Real-Time Chess without Turns
 * [PokemonChess](https://pokemonchess.com/) - Pokémon Style Chess / [Discord](https://discord.gg/fp5bcCqg8q)
 * [Laser](https://playlaser.xyz/) - Alt Style Chess
-* [lichess4545](https://www.lichess4545.com/) - Lichess Leagues
 * [Chess Monitor](https://www.chessmonitor.com/) - Track Chess Analytics
 * [2700chess](https://2700chess.com/) - Live Chess Player Ratings
 * [OpeningTree](https://www.openingtree.com/) - Download / Visualize Chess Games
