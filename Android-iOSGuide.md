@@ -97,6 +97,7 @@
 * [Pixel Launcher](https://github.com/saitamasahil/Pixel-Launcher-Extended) - Pixel-Based Launcher / Root
 * [Olauncher](https://play.google.com/store/apps/details?id=app.olauncher) / [GitHub](https://github.com/tanujnotes/Olauncher) - Minimalist / Clean Launcher
 * [ReZ Launcher](https://play.google.com/store/apps/details?id=com.perryoncrack.rez) - Minimalist / Clean Launcher
+* [Inure](https://github.com/Hamza417/Inure) - Feature-Rich Launcher
 * [KISS](https://kisslauncher.com/) or [TBLauncher](https://tbog.github.io/TBLauncher/) - Low-Memory Usage Launcher
 * [NeoLauncher](https://github.com/NeoApplications/Neo-Launcher) - Customizable Launcher
 * [Unlauncher](https://jkuester.github.io/unlauncher/) - Distraction-Free Launcher
@@ -390,7 +391,7 @@
 * [AdAway](https://adaway.org/) - Adblocking App / [GitHub](https://github.com/AdAway/AdAway)
 * [ad-free](https://abertschi.github.io/ad-free/landing/) - Adblocking App
 * [InviZible](https://invizible.net) / [GitHub](https://github.com/Gedsh/InviZible) - Adblocking App
-* [personalDNSfilter](https://www.zenz-solutions.de/personaldnsfilter-wp/) / [F-Droid](https://f-droid.org/packages/dnsfilter.android), [Rethink](https://rethinkdns.com/app) / [Blocklists](https://rethinkdns.com/app#blocklists), [DNSWarden](https://dnswarden.com/) / [GitHub](https://github.com/bhanupratapys/dnswarden) or [DNS66](https://f-droid.org/en/packages/org.jak_linux.dns66/), [2](https://jak-linux.org/projects/dns66/) / [GitHub](https://github.com/julian-klode/dns66) - DNS Adblockers
+* [personalDNSfilter](https://www.zenz-solutions.de/personaldnsfilter-wp/) / [F-Droid](https://f-droid.org/packages/dnsfilter.android), [Rethink](https://rethinkdns.com/app) / [Blocklists](https://rethinkdns.com/app#blocklists), [DNSWarden](https://dnswarden.com/) / [GitHub](https://github.com/bhanupratapys/dnswarden), [Pi-hole](https://github.com/DesktopECHO/Pi-hole-for-Android) or [DNS66](https://f-droid.org/en/packages/org.jak_linux.dns66/), [2](https://jak-linux.org/projects/dns66/) / [GitHub](https://github.com/julian-klode/dns66) - DNS Adblockers
 * [DNS Speed Test & Changer](https://rentry.co/FMHYBase64#dns-speed-test-changer) - DNS Speed Test
 * [DNS Changer](https://play.google.com/store/apps/details?id=com.technoapps.dnschanger) or [PrivateDNSAndroid](https://github.com/karasevm/PrivateDNSAndroid) - DNS Switchers
 * [GoodbyeAds](https://github.com/jerryn70/GoodbyeAds) - Adblock Filters
@@ -508,7 +509,7 @@
 * [Instander](https://thedise.me/instander/), [Instafel](https://t.me/instafel/41) / [2](https://t.me/instafel/11) or [MyInsta](https://myinsta.app/) / [Telegram](https://t.me/instasmashrepo) - Modded Instagram Clients / [Telegram](https://t.me/instander) / [Tools](https://play.google.com/store/apps/details?id=com.dageek.socialtoolbox_android)
 * [TikTokModCloud](https://t.me/TikTokModCloud) - Modded TikTok Client
 * [LC_Reborn](https://t.me/s/Facebook_LC_Reborn) - Facebook Clients
-* [MessengerPro](https://github.com/Mino260806/MessengerPro) - Modded Facebook Messenger
+* [MessengerPro](https://rentry.co/FMHYBase64#messengerpro) - Modded Facebook Messenger
 * [Nekogram](https://nekogram.app/), [AyuGram](https://t.me/ayugramchat), [NekoX](https://github.com/dic1911/NekoX), [TelegramAndroid](https://github.com/Forkgram/TelegramAndroid), [Nagram](https://github.com/nextalone/nagram), [exteraGram](https://exteragram.app/), [Cherrygram](https://github.com/arsLan4k1390/Cherrygram), [Nullgram](https://github.com/qwq233/Nullgram/), [Octogram](https://octogram.site/) or [Telegram-FOSS](https://github.com/Telegram-FOSS-Team/Telegram-FOSS) - Telegram Clients
 * [Telegram-Themer](https://github.com/therxmv/Telegram-Themer) or [Telegram Monet](https://github.com/mi-g-alex/Telegram-Monet) / [Telegram](https://t.me/tgmonet) - Telegram Theme Creators
 * [FouadMODS](https://t.me/FouadMODS) - Modded WhatsApp
@@ -642,6 +643,7 @@
 * [Ubuntu on Android](https://udroid-rc.gitbook.io) / [GitHub](https://github.com/RandomCoderOrg/ubuntu-on-android) - Ubuntu Emulator on Android
 * [FlashLite](https://flashlite.games/) - Flash Emulator / [Discord](https://discord.gg/F2dsGhTX6y)
 * [Dan's Palace](https://discord.gg/RqQeZwrP8k) - Android / PSVita PC Game Ports
+* [Source Engine 4 Android](https://discord.gg/source-engine-4-android-672055862608658432) - Source Engine Ports
 * [JoiPlay](https://joiplay.cyou/) - RPG Maker Game Interpreter
 * [AdrenoToolsDrivers](https://github.com/K11MCH1/AdrenoToolsDrivers) - Adreno Drivers for Android Emulators / [Systemwide](https://github.com/SEGAINDEED/Adreno-ToolsDriversMagisk)
 
@@ -749,6 +751,7 @@
 * [audio-analyzer](https://github.com/woheller69/audio-analyzer-for-android) or [Spectroid](https://play.google.com/store/apps/details?id=org.intoorbit.spectrum) - Audio Spectrum Analyzers
 * [Black Screen](https://play.google.com/store/apps/details?id=io.japp.blackscreen) - Turn Off Display While Audio is Playing
 * [Flip DND](https://play.google.com/store/apps/details?id=com.urbandroid.dnd) - Flip to Activate Do Not Disturb Mode
+* [AutoDND](https://github.com/dic1911/android_AutoDND/) - App-Activated Do Not Disturb Mode
 * [Audify](https://play.google.com/store/apps/details?id=in.codeseed.audify) - Reduce Notification Distractions
 * [Volumee](https://maslanka.app/volumee/) - Volume Button Track Control
 * [Musekit](https://github.com/Kwasow/Musekit) - Tuning Fork / Metronome
