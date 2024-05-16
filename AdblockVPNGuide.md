@@ -335,7 +335,7 @@
 * ⭐ **[ClearURLs](https://docs.clearurls.xyz)** - Remove Tracking Elements from URLs / [Features](https://gitlab.com/ClearURLs/ClearUrls#features), [2](https://i.ibb.co/4JsQwP5/sqzfmLD.png) / Can Break Sites
 * ⭐ **[CanvasBlocker](https://github.com/kkapsner/CanvasBlocker)** - Prevent Canvas Fingerprinting
 * ⭐ **[GameIndustry](https://gameindustry.eu/en/)** - Block Trackers in Desktop / Mobile Games
-* ⭐ **[Creepjs](https://abrahamjuliot.github.io/creepjs)**, [BrowserRecon](https://www.computec.ch/projekte/browserrecon/?s=scan), [Device Info](https://www.deviceinfo.me/), [AmIUnique?](https://amiunique.org/), [CoverYourTracks](https://firstpartysimulator.org/) / [2](https://coveryourtracks.eff.org/) or [PersonalData](https://personaldata.info/) - Tracking / Fingerprinting Tests
+* ⭐ **[Creepjs](https://abrahamjuliot.github.io/creepjs)**, [WEBKAY](https://webkay.robinlinus.com/), [BrowserRecon](https://www.computec.ch/projekte/browserrecon/?s=scan), [Device Info](https://www.deviceinfo.me/), [AmIUnique?](https://amiunique.org/), [CoverYourTracks](https://firstpartysimulator.org/) / [2](https://coveryourtracks.eff.org/) or [PersonalData](https://personaldata.info/) - Tracking / Fingerprinting Tests
 * [WhoTracksMe](https://whotracks.me/), [Privacy Score](https://privacyscore.org/), [dataskydd](https://webbkoll.dataskydd.net/), [Blacklight](https://themarkup.org/blacklight) or [Trackography](https://trackography.org/) - Site Tracking Info
 * [Data Removal Guide](https://inteltechniques.com/workbook.html) - Remove Online Data
 * [BrowserLeaks](https://browserleaks.com/), [Astrill](https://rentry.co/astrill), [Comparitech](https://www.comparitech.com/privacy-security-tools/dns-leak-test/), [Do I leak?](https://www.top10vpn.com/tools/do-i-leak/) or [IPLeak](https://ipleak.org/) / [2](https://ipleak.com/) / [3](https://ipleak.net) - IP Leak Tests
@@ -365,7 +365,7 @@
 * [twstalker](https://twstalker.com/) - Twitter Frontend
 * [Proxigram](https://codeberg.org/ThePenguinDev/Proxigram) or [Imginn](https://imginn.com) - Instagram Frontends
 * [Proxitok](https://github.com/pablouser1/ProxiTok) or [TikNot](https://tiknot.netlify.app/) / [Redirect](https://greasyfork.org/en/scripts/482683) - TikTok Frontends
-* [Tumlook](https://www.tumlook.com/) or [PriviBlur](https://github.com/syeopite/priviblur) - Tumblr Frontends
+* [Tumlook](https://www.tumlook.com/), [Tumgik](https://www.tumgik.com/) or [PriviBlur](https://github.com/syeopite/priviblur) - Tumblr Frontends
 * [BreezeWiki](https://breezewiki.com/) - Fandom Frontend / [Mirrors](https://pastebin.com/DmbrhEDD)
 * [MikuInvidious](https://0xacab.org/johnxina/mikuinvidious) - BiliBili Frontend
 * [SafeTwitch](https://codeberg.org/SafeTwitch/safetwitch) or [Twineo](https://codeberg.org/CloudyyUw/twineo) - Twitch Frontends

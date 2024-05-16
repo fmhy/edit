@@ -114,6 +114,7 @@
 * [LinkSnatch](https://linksnatch.pages.dev/)
 * [KeepThisSite](https://keepthis.site/)
 * [ln.ht](https://ln.ht/), [link.horse](https://link.horse/), [currl](https://currl.io/) or [tinygem](https://tinygem.org/) - Social Bookmarking
+* [linkwarden](https://github.com/linkwarden/linkwarden) - Self-Hosted Bookmark Manager
 
 ***
 
@@ -647,7 +648,6 @@
 
 ## ▷ Safari Extensions
 
-* [Momentum](https://apps.apple.com/us/app/momentum/id1564329434) - Custom New Tab Page
 * [Night Eye](https://apps.apple.com/us/app/night-eye-for-safari/id1450504903?mt=12), [Dark Reader Script](https://gist.github.com/kfur/266c456dd69072eb7533f457ee5f18a0) - Dark Mode
 * [Amerigo](https://apps.apple.com/us/app/amerigo-file-manager/id605569663) - File Download Manager
 * [PiPifier](https://apps.apple.com/us/app/pipifier/id1234771095) - Picture in Picture Mode

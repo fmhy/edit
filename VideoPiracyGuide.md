@@ -33,6 +33,7 @@
 * [HollyMovieHD](https://hollymoviehd.cc/), [YesHD](https://yeshd.net/) or [NovaMovie](https://novamovie.net/) - Movies / TV / Anime / 1080p / [Mirrors](https://hollymoviehd-official.com/)
 * [FlixHQ](https://flixhq.click/) - Movies / TV / Anime / 1080p
 * [Movies4Fun](https://movies4fun.net/) - Movies / TV / 1080p
+* [StreamFlix](https://watch.streamflix.one/) - Movies / TV / Anime / 1080p / Ad-Free
 * [YassFlix](https://yassflix.live/) - Movies / TV / Anime / 1080p / Ad-Free
 * [Seez](https://seez.su/) - Movies / TV / 1080p / [Discord](https://discord.com/invite/v5mSB8gvcm)
 * [CriaFlix](https://criaflix.live/) - Movies / TV / Anime / 1080p
