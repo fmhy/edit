@@ -18,8 +18,8 @@
 
 ## ▷ Online Chatbots
 
-* ⭐ **[Microsoft Copilot](https://copilot.microsoft.com)** - GPT-4/3.5 Powered Search / [SydneyQT Jailbreak](https://github.com/juzeon/SydneyQt)
 * ⭐ **[ChatGPT](https://chatgpt.com/)** - GPT-4o Chatbot / [Discord](https://discord.com/invite/openai)
+* ⭐ **[Microsoft Copilot](https://copilot.microsoft.com)** - GPT-4/3.5 Powered Search / [SydneyQT Jailbreak](https://github.com/juzeon/SydneyQt)
 * ⭐ **[wrtn](https://wrtn.ai/)** - GPT-4 Chatbot / [Android](https://play.google.com/store/apps/details?id=com.wrtn.app) / [iOS](https://apps.apple.com/us/app/%EB%A4%BC%ED%8A%BC-%EB%AA%A8%EB%91%90%EB%A5%BC-%EC%9C%84%ED%95%9C-ai-%ED%8F%AC%ED%84%B8/id6448556170) (ask for english)
 * ⭐ **[Gemini](https://gemini.google.com/)** or [Gemma](https://github.com/google/gemma.cpp), [2](https://ai.google.dev/gemma/) - Google's Chatbot
 * ⭐ **[Claude](https://claude.ai/)** - Anthropic's Chatbot
@@ -155,7 +155,6 @@
 * [EditGPT](https://www.editgpt.app/) - Proofread Chats
 * [RepeatGPT](https://repeatgpt.com/) - Schedule Chats
 * [GPThemes](https://github.com/itsmartashub/GPThemes) - ChatGPT Themes
-* [ChatGPT Old Style](https://greasyfork.org/en/scripts/486909) - Old ChatGPT Colors
 
 ***
 
