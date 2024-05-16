@@ -237,7 +237,7 @@
 * 🌐 **[Awesome Maps](https://github.com/simsieg/awesome-maps)** - Online Map Resources
 * 🌐 **[Soar](https://soar.earth/)**, [ArcGIS Living Atlas](https://livingatlas.arcgis.com/), [Cool Maps](https://coolmaps.esri.com/) - Atlases
 * 🌐 **[Maps and Geospatial Products](https://www.ncei.noaa.gov/maps-and-geospatial-products)** - All NCEI Maps
-* ⭐ **[CrisisWatch](https://www.crisisgroup.org/crisiswatch)**, [ACLED](https://acleddata.com/dashboard/), [Global Conflict Tracker](https://www.cfr.org/global-conflict-tracker) or [LiveUAMap](https://liveuamap.com/)- Global Conflicts Map
+* ⭐ **[CrisisWatch](https://www.crisisgroup.org/crisiswatch)**, [ACLED](https://acleddata.com/dashboard/), [Global Conflict Tracker](https://www.cfr.org/global-conflict-tracker), [LiveUAMap](https://liveuamap.com/) or [Israeli-Palestine Conflict](https://israelpalestine.liveuamap.com/) - Global Conflicts Map
 * [The Cartographers' Guild](https://www.cartographersguild.com/) - Cartography Forum
 * [Color Brewer](https://colorbrewer2.org/) - Cartography Color Advice
 * [FixPhrase](https://fixphrase.com/) or [TextToMap](https://www.textomap.com/) - Text Based Map Search
@@ -353,6 +353,28 @@
 * [Spectrum Ownership Map](https://specmap.sequence-omega.net/) - Cell Carrier FCC Spectrum Map
 * [Wigle](https://wigle.net/) - Wireless Network Mapping
 * [Broadband Map](https://broadbandmap.fcc.gov/) - Fixed Broadband Deployment Map
+* [KCG2](https://prop.kc2g.com/) - Ionospheric Conditions Map
+* [Sentinel Playground](https://apps.sentinel-hub.com/sentinel-playground/) - Vegetation and Moisture Map
+* [Waqi.info](https://waqi.info/) - Air Pollution Map
+* [Light Pollution Map](https://lightpollutionmap.info/) - Light Pollution Map
+* [NightBlight](https://www.cpre.org.uk/light-pollution-dark-skies-map/) - England Light Pollution Map
+* [PowerOutage](https://poweroutage.us/) - Power Outage Map
+* [ElectricityMap](https://app.electricitymap.org/) - Electricity CO₂ Emissions Map
+* [Freedom House](https://freedomhouse.org/explore-the-map) or [Civicus Monitor](https://monitor.civicus.org/) - Freedom Maps
+* [Israeli-Palestine Conflict](https://israelpalestine.liveuamap.com/) - Israeli-Palestine Conflict Map
+* [HungerMap](https://hungermap.wfp.org/) - Global Hunger Map
+* [EventMap](https://rsoe-edis.org/eventMap) or [RiskMap](https://www.riskmap.com) - Emergency and Disaster Maps
+* [NCEI](https://www.ncei.noaa.gov/maps/hazards/) - Real Time Natural Hazard Map
+* [FIRMS](https://firms.modaps.eosdis.nasa.gov/map/) - Real Time Fires Map
+* [VolcanoDiscovery](https://www.volcanodiscovery.com/erupting_volcanoes.html) - Volcano Activity Map
+* [USGS Earthquake Map](https://earthquake.usgs.gov/earthquakes/map/) - Earthquake Activity Map
+* [GPlates](https://www.gplates.org/) - Plate Tectonics Simulator
+* [LightningMaps](https://lightningmaps.org/) - Lightning Maps
+* [Kakao](https://map.kakao.com/) - Map of South Korea
+* [MarineTraffic](https://www.marinetraffic.com/), [BoatNerd](https://ais.boatnerd.com/), [MarineVesselTraffic](https://www.marinevesseltraffic.com/2013/04/marine-traffic.html) or [VesselFinder](https://www.vesselfinder.com/) - Live Ship Trackers
+* [Fishing Watch](https://globalfishingwatch.org/map) - Fishing Activity Map
+* [Ocearch](https://www.ocearch.org/tracker/) - Shark Tracker
+* [EuroBirdPortal](https://www.eurobirdportal.org/) - European Bird Distribution Map
 * [SubMarineCableMap](https://www.submarinecablemap.com/) - Fiber Optic Cable Map
 
 ## ▷ Satellite / Street View / Earth Data Maps (rename section?)
