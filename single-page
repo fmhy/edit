@@ -15128,7 +15128,7 @@ onMounted(() => {
 ## ▷ Data Structures
 
 * ⭐ **[Leetcode](https://leetcode.com/)** - Coding Practice
-* ⭐ **Leetcode Tools** - [Solutions](https://walkccc.me/LeetCode/), [2](https://leetcode.ca/) / [Company Questions](https://github.com/MysteryVaibhav/leetcode_company_wise_questions), [2](https://docs.google.com/document/d/1icaNSRq6XcWO3EOycEP9F9P8SLerBanpY3Ni_ZzCfFA/edit) / [Animations](https://github.com/MisterBooo/LeetCodeAnimation) / [Anki Cards](https://github.com/fspv/leetcode-anki) / [Videos](https://github.com/fishercoder1534/Leetcode)
+* ⭐ **Leetcode Tools** - [Solutions](https://walkccc.me/LeetCode/), [2](https://leetcode.ca/) / [Company Questions](https://github.com/MysteryVaibhav/leetcode_company_wise_questions), [2](https://docs.google.com/document/d/1icaNSRq6XcWO3EOycEP9F9P8SLerBanpY3Ni_ZzCfFA/), [3](https://seanprashad.com/leetcode-patterns/) / [Animations](https://github.com/MisterBooo/LeetCodeAnimation) / [Anki Cards](https://github.com/fspv/leetcode-anki) / [Videos](https://github.com/fishercoder1534/Leetcode) / [Resources](https://github.com/ashishps1/awesome-leetcode-resources)
 * ⭐ **[NeetCode](https://neetcode.io/)** - Coding Interview Practice
 * [algorithms](https://prashantbarahi.com.np/docs/algorithms/intro) - Code Algorithms & Data Structures Tutorials
 * [VisualGo](https://visualgo.net/) - Data Structures & Algorithm Animations
@@ -15264,7 +15264,7 @@ onMounted(() => {
 * 🌐 **[CompSciLib](https://www.compscilib.com/)** - Computer Science Tools
 * ⭐ **[TeachYourselfComputerScience](https://teachyourselfcs.com/)** - Computer Science Book Recommendations
 * [Big-O Cheatsheet](https://www.bigocheatsheet.com/) - Computer Science Complexities Cheatsheet
-* [CSDIY](https://csdiy.wiki/en/) or [LearnAIFromScratch](https://learnaifromscratch.github.io/) - Computer Science Learning Guides
+* [CSDIY](https://csdiy.wiki/en/), [awesome-low-level-design](https://github.com/ashishps1/awesome-low-level-design), [awesome-system-design-resources](https://github.com/ashishps1/awesome-system-design-resources) or [LearnAIFromScratch](https://learnaifromscratch.github.io/) - Computer Science Learning Guides
 * [Code.org](https://code.org/) - Computer Science Courses
 * [cs-video-courses](https://github.com/Developer-Y/cs-video-courses) - Computer Science Courses
 * [Open Source Society University](https://github.com/ossu/computer-science) - Computer Science Courses / [GitHub](https://github.com/ossu) / [Discord](https://discord.gg/wuytwK5s9h)
@@ -15380,6 +15380,7 @@ onMounted(() => {
 * [Automated Incident Response](https://github.com/awslabs/aws-automated-incident-response-and-forensics) - Automated Incident Response and Forensics Framework
 * [CBox](https://www.cbox.ws/), [Typebot](https://typebot.io/) or [Tawk](https://www.tawk.to/) - Embedded Chat App
 * [Pay 2 Email](https://pay2.email/) - Simple Website Contact Form
+* [Seventy Seven](https://www.seventy-seven.dev/) - Customer Support Tool
 * [Twitcker](https://twitcker.com/) - Add Twitter Feed Ticker to Site
 * [Curator](https://curator.io/) - Embed Social Media Feeds
 * [MinIO](https://min.io/) or [Filebase](https://filebase.com/) - Cloud Native Object Storage
@@ -15765,7 +15766,7 @@ onMounted(() => {
 * [PM2](https://pm2.keymetrics.io/) - Process Manager
 * [Bulletproof React](https://github.com/alan2207/bulletproof-react) - React App Architecture
 * [Aspect](https://sample-code.aspect.app/) - Copy React Code from Any Site
-* [Refine](https://refine.dev/) - React App Builder
+* [Refine](https://refine.dev/) or [GitWit](https://gitwit.dev/) - React App Builders
 * [Alright](https://github.com/DoneDeal0/alright-react-app) - Generate React Apps
 * [Codux](https://www.codux.com/) - Visual IDE for React
 * [React Suite](https://rsuitejs.com/) or [Mantine](https://mantine.dev/) - Components and Templates
@@ -15976,7 +15977,7 @@ onMounted(() => {
 * [dotfiles](https://dotfiles.github.io/) - GitHub Dotfiles
 * [Gidget](https://github.com/GDGVIT/gidget) - GitHub Notifications / Android
 * [GitHub Web IDE](https://chromewebstore.google.com/detail/github-web-ide/adjiklnjodbiaioggfpbpkhbfcnhgkfe) / [GitHub](https://github.com/zvizvi/GitHub-Web-IDE) - Web IDE
-* [Octobox](https://octobox.io/), [Gitify](https://www.gitify.io/), [advanced-github-notifier](https://github.com/freaktechnik/advanced-github-notifier), [PR Monitor](https://github.com/fwouts/prmonitor), [CatLight](https://catlight.io/) or [Ghostly](https://ghostlyapp.net/) / [GitHub](https://github.com/patriksvensson/ghostly) - GitHub Notifications
+* [Octobox](https://octobox.io/), [Gitify](https://www.gitify.io/), [advanced-github-notifier](https://github.com/freaktechnik/advanced-github-notifier), [PR Monitor](https://github.com/fwouts/prmonitor), [Gitification](https://github.com/Gitification-App/gitification), [CatLight](https://catlight.io/) or [Ghostly](https://ghostlyapp.net/) / [GitHub](https://github.com/patriksvensson/ghostly) - GitHub Notifications
 * [github1s](https://github1s.com/) - GitHub Code Viewer / GUI: do `gitk` in Repo Folder
 * [KeyManager](https://github.com/Yash-Garg/KeyManager) - GitHub SSH / GPG Key Manager
 * [Serctl](https://d.serctl.com/) - Backup GitHub Projects
@@ -16265,6 +16266,7 @@ onMounted(() => {
 * [Rescript](https://rescript-lang.org/) - Javascript Editor / Language
 * [TidalCycles](https://tidalcycles.org/) - Live Algorithmic Coding Environment / [Discord](https://discord.com/invite/ugFq7KfGnB)
 * [Thonny](https://thonny.org/) - Python IDE
+* [pipxu](https://github.com/bulletmark/pipxu) - Install / Run Python Apps in Isolated Environments
 * [SciTE](https://www.scintilla.org/SciTE.html) - Source Code Editor for Win32 and X
 * [OpenChakra](https://openchakra.app/) or [Plate](https://platejs.org/) - React Code Editors
 * [Package Control](https://packagecontrol.io/) - Sublime Text Package Manager
@@ -16318,7 +16320,7 @@ onMounted(() => {
 * 🌐 **[Awesome CSS Frameworks](https://github.com/troxler/awesome-css-frameworks)**, [Tailwind](https://tailwindcss.com/), [Terminal CSS](https://terminalcss.xyz/) or [Bulma](https://bulma.io/) - CSS Framework Resources
 * 🌐 **[classless-css](https://github.com/dbohdan/classless-css)** - Classless CSS Frameworks
 * 🌐 **[Awesome TailwindCSS](https://tailwindcss.com)** - Tailwind CSS Resources
-* ⭐ **[HedgeDoc](https://hedgedoc.envs.net/)**, [zettlr](https://www.zettlr.com/), [Dillinger](https://dillinger.io/), [Notable](https://notable.app/), [vnote](https://github.com/vnotex/vnote), [MarkdownTools](https://www.markdowntools.com/), [StackEdit](https://stackedit.io/), [Markdownify](https://markdownify.js.org/), [Apostrophe](https://github.com/ApostropheEditor/Apostrophe), [Glow](https://github.com/charmbracelet/glow), [MarkdownLivePreview](https://markdownlivepreview.com/), [Proton](https://steventhanna.github.io/proton/), [Vrite](https://editor.vrite.io/) or [Mark Text](https://github.com/marktext/marktext) - Markdown Editors
+* ⭐ **[HedgeDoc](https://hedgedoc.envs.net/)**, [zettlr](https://www.zettlr.com/), [Dillinger](https://dillinger.io/), [Notable](https://notable.app/), [vnote](https://github.com/vnotex/vnote), [MarkdownTools](https://www.markdowntools.com/), [StackEdit](https://stackedit.io/), [Markdownify](https://markdownify.js.org/), [Apostrophe](https://github.com/ApostropheEditor/Apostrophe), [Glow](https://github.com/charmbracelet/glow), [MarkdownLivePreview](https://markdownlivepreview.com/), [Proton](https://steventhanna.github.io/proton/), [Vrite](https://editor.vrite.io/), [Markflowy](https://markflowy.vercel.app/) or [Mark Text](https://github.com/marktext/marktext) - Markdown Editors
 * ⭐ **[HTML Reference](https://htmlreference.io/)** - HTML Guide
 * ⭐ **[GenerateData](https://generatedata.com/)** - Generate Test Data
 * [KeyFrames](https://keyframes.app/) - CSS Tools
