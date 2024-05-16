@@ -234,7 +234,7 @@
 
 ***
 
-# ► Maps (needs checking)
+# ► Maps
 
 * 🌐 **[Awesome Maps](https://github.com/simsieg/awesome-maps)** - Online Map Resources
 * 🌐 **[Soar](https://soar.earth/)**, [ArcGIS Living Atlas](https://livingatlas.arcgis.com/), [Cool Maps](https://coolmaps.esri.com/) - Atlases
@@ -324,34 +324,29 @@
 * [GPlates](https://www.gplates.org/) - Plate Tectonics Simulator
 * [Natural Hazards Viewer](https://www.ncei.noaa.gov/maps/hazards/) - Natural Hazards Map
 
-## ▷ Historic Maps (needs checking)
+## ▷ Historic Maps
 
 * ⭐ **[David Rumsey Map Collection](https://www.davidrumsey.com/)** - Historical Map Collection
 * [Harvard WorldMap](https://worldmap.maps.arcgis.com/home/index.html) - ArcGIS Map Archive
-* [Cronobook](https://cronobook.com/) - Historical Street View
+* [Cronobook](https://cronobook.com/) - Historic Street View
 * [EuraAtlas](https://euratlas.com/) - Historical Atlas of Europe
-* [r/oldmaps](https://new.reddit.com/r/oldmaps/) or [r/papertowns](https://new.reddit.com/r/papertowns/) - Historical Maps Community
+* [r/oldmaps](https://www.reddit.com/r/oldmaps/) or [r/papertowns](https://www.reddit.com/r/papertowns/) - Historical Maps Community
 * [Historical City Maps](https://redd.it/61fdp6) - Collection of Historical City Maps 
 * [NYPL Digital Collections](https://digitalcollections.nypl.org/collections/lane/maps-atlases) - Historic Maps & Atlases
 * [Library of Congress](https://www.loc.gov/collections/?fa=partof:geography+and+map+division) - LOC Historic Maps Archive
-
-* [WWW-Virtual Library](https://www.maphistory.info/index.html)
-
-* [OldMapsOnline](https://www.oldmapsonline.org/) - Historical Maps Tool
-* [Historic Borders](https://historicborders.app/) - Historic Borders Map
-* [American Panorama](https://dsl.richmond.edu/panorama/) - Interactive US Historical Maps
-* [Ancestry Images](https://www.ancestryimages.com/) or [Pastvu](https://pastvu.com/) - Historical Photo & Map Archive
-
-* [Imperium](https://imperium.ahlfeldt.se/) - Roman Empire Map / Atlas
+* [OldMapsOnline](https://www.oldmapsonline.org/) - Interactive Historical Map
+* [Historic Borders](https://historicborders.app/) - Borders History Map
+* [American Panorama](https://dsl.richmond.edu/panorama/) - Interactive US History Maps
+* [Imperium](https://imperium.ahlfeldt.se/) - Digital Atlas of the Roman Empire
 * [Ancient Earth](https://dinosaurpictures.org/ancient-earth) - Globe of Ancient Earth
-* [1940's.nyc](https://1940s.nyc/) - Explore 1940's New York
+* [1940s NYC](https://1940s.nyc/) - Explore 1940's New York
 
 ## ▷ Infrastructure Maps (needs checking)
 
 * [Open Infrastructure Map](https://openinframap.org/) - Global Infrastructure Map
-* [PowerOutage](https://poweroutage.us/) - Power Outage Map
-* [Infrapedia](https://www.infrapedia.com/) - Network / Datacenter Map
+* [PowerOutage.us](https://poweroutage.us/) - US Power Outage Map
 * [CellMapper](https://www.cellmapper.net/) - Cell Tower Map
+
 * [Spectrum Ownership Map](https://specmap.sequence-omega.net/) - Cell Carrier FCC Spectrum Map
 * [Wigle](https://wigle.net/) - Wireless Network Mapping
 * [Broadband Map](https://broadbandmap.fcc.gov/) - Fixed Broadband Deployment Map
