@@ -26,6 +26,7 @@
 * [telescopictext](https://www.telescopictext.org/) - Write Text Within Text
 * [quipqiup](https://www.quipqiup.com/) or [dCode](https://www.dcode.fr/en) - Cryptogram Solvers
 * [DocuSeal](https://www.docuseal.co/) - Free Document Signing
+* [TemplateLab](https://templatelab.com/) - Free Document Templates
 * [Butterick’s Practical Typography](https://practicaltypography.com/) - Typography Guide Book
 
 ***
@@ -212,6 +213,7 @@
 * [Xed](https://github.com/linuxmint/xed)
 * [Flotes](https://flotes.app/)
 * [Standard Notes](https://standardnotes.com/)
+* [KeyNote NF](https://github.com/dpradov/keynote-nf)
 * [Notes](https://www.get-notes.com/)
 * [Helix](https://helix-editor.com/) / [GitHub](https://github.com/helix-editor/helix)
 * [BeaverNotes](https://beavernotes.com/)
