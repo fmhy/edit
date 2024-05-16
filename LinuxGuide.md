@@ -55,6 +55,8 @@
 * [Linux-dash](https://github.com/tariqbuilds/linux-dash) - Web-based System Dashboard
 * [pacwall](https://github.com/Kharacternyk/pacwall) - Live Wallpaper Dependency Graph / Package Status
 * [keyd](https://github.com/rvaiya/keyd) or [xremap](https://github.com/k0kubun/xremap) - Keyboard Remapping
+* [LAN Mouse](https://github.com/feschber/lan-mouse) - Mouse & Keyboard Sharing
+* [Input Leap](https://github.com/input-leap/input-leap) - Multi-Computer Control
 * [auto-cpufreq](https://github.com/AdnanHodzic/auto-cpufreq) - CPU Speed & Power Optimization Automation
 * [node-startup](https://github.com/ralyodio/node-startup) - Startup Script
 * [die.net](https://linux.die.net/) - Linux Documentation
@@ -128,6 +130,7 @@
 * ⭐ **[rofi](https://davatorium.github.io/rofi/)** / [Emoji Selector](https://github.com/Mange/rofi-emoji) or [Ulauncher](https://ulauncher.io/) - App Launchers
 * [wslu](https://wslutiliti.es/wslu) / [GitHub](https://github.com/wslutilities/wslu) - Utilities for Windows 10 Linux Subsystem
 * [Darling](https://www.darlinghq.org/) - Run macOS Apps on Linux
+* [innoextract](https://constexpr.org/innoextract/) - Windows Installer Unpacker
 * [nativefier_tauri](https://github.com/hamza72x/web2app) - Turn Webpages into Desktop Apps
 * [Autokey](https://autokey.github.io/index.html) / [GitHub](https://github.com/autokey/autokey) - Linux Automation Utility
 * [Touchégg](https://github.com/JoseExposito/touchegg) - Multi-Touch Gesture Recognizer
@@ -474,7 +477,7 @@ Linux Gaming Guide
 * [Fondo](https://github.com/calo001/fondo), [varietywalls](https://github.com/varietywalls/variety), [HydraPaper](https://hydrapaper.gabmus.org/), [styli.sh](https://github.com/thevinter/styli.sh) or [Komorebi](https://github.com/cheesecakeufo/komorebi) - Wallpaper Managers
 * [Video Wallpaper](https://github.com/ghostlexly/gpu-video-wallpaper) - Use Videos as Animated Wallpaper
 * [wallpaper-engine-kde-plugin](https://github.com/catsout/wallpaper-engine-kde-plugin) - Wallpaper Engine KDE Plugin
-* [Polychromatic](https://polychromatic.app/) - Linux System Light Control
+* [Polychromatic](https://polychromatic.app/) or [OpenRazer](https://openrazer.github.io/) - Linux System Light Control
 * [Burn My Windows](https://github.com/Schneegans/Burn-My-Windows) - Window Closing Effects
 * [theme.sh](https://github.com/lemnos/theme.sh), [NotCurses](https://github.com/dankamongmen/notcurses) / [Wiki](https://nick-black.com/dankwiki/index.php/Notcurses) or [Shell Color Scripts](https://gitlab.com/dwt1/shell-color-scripts) / [2](https://github.com/stark/Color-Scripts) - Custom Terminal Themes
 * [font-manager](https://github.com/FontManager/font-manager) - Font Manager
@@ -647,6 +650,7 @@ Linux Gaming Guide
 * [MacX](https://macx.ws/)
 * [WebCatalog](https://webcatalog.io/)
 * [ThriftMac](https://thriftmac.com/) - Freeware
+* [Latest](https://github.com/mangerlahn/latest) - Software Updater
 
 ***
 
