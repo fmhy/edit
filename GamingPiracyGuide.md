@@ -64,6 +64,7 @@
 * [Elamigos](https://elamigos.site/) - Download
 * [Xatab Repacks](https://byxatab.com/), [2](https://byxatab.org/) - Torrent
 * [Tiny-Repacks](https://www.tiny-repacks.win) - Torrent
+* [DODI Repacks](https://dodi-repacks.site/) - Torrent / [Discord](https://discord.gg/uE273qJ) / [Forum](https://dodi-forums.win/) / [Opera Bypass](https://rentry.co/lootlink) / [Note](https://pastebin.com/n5xS3v6k)
 * [FreeGOGPCGames](https://freegogpcgames.com/) - GOG Games Torrent Uploads / [Hash Note](https://pastebin.com/pNMj3nay), [2](https://i.ibb.co/XbF2dv1/image.png)
 * [Magipack](https://www.magipack.games), [CollectionChamber](https://collectionchamber.blogspot.com/) or [ClassicPCGames](https://archive.org/details/classicpcgames) - Retro PC Games
 * [~archive](https://websites.umich.edu/~archive/) - Retro PC / Mac Games
@@ -165,7 +166,7 @@
 * ⭐ **[Skraper](https://www.skraper.net/)** - ROM Cover / Metadata Scraper
 * ⭐ **[Dolphin Guide](https://github.com/shiiion/dolphin/wiki/Performance-Guide)** - Dolphin Setup Guide
 * ⭐ **[Cemu Guide](https://cemu.cfw.guide/)** or [/r/CemuPiracy Tutorial](https://www.reddit.com/r/CemuPiracy/wiki/tutorial/) - WiiU / BOTW Setup Guides
-* ⭐ **[Switch Emu Guide](https://github.com/Abd-007/Switch-Emulators-Guide)** / [Discord](https://discord.gg/87bsZWwF3X) or [Ryujinx Guide](https://docs.google.com/document/d/1prxOJaE4WhPeYNHW17W5UaWZxDgB8e5wNHxt2O4FKvs/) - Switch Emulator Setup Guides
+* ⭐ **[Switch Emu Guide](https://github.com/Abd-007/Switch-Emulators-Guide)** or [Ryujinx Guide](https://docs.google.com/document/d/1prxOJaE4WhPeYNHW17W5UaWZxDgB8e5wNHxt2O4FKvs/) - Switch Emulator Setup Guides
 * ⭐ **[RAZE](https://github.com/ZDoom/Raze)** or [BuildGDX](https://m210.duke4.net/) / [Discord](https://discord.gg/zZw2eq3n7G) - Oldschool Shooter Engine
 * [TOSEC](https://rentry.co/FMHYBase64#tosec) - The Old School Emulation Center
 * [Xbox Emulation Hub](https://discord.com/invite/7pcAbZzpXj) - Xbox Emulation Discord
