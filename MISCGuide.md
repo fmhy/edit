@@ -253,41 +253,6 @@
 * [WhatIsHalfway](https://www.whatshalfway.com/) - Find Closest Point Between Two Locations
 * [/r/MapPorn](https://reddit.com/r/MapPorn) - Reddit Map Community
 * [NearbyWiki](https://en.nearbywiki.org/) - Explore Interesting Places Near You
-
-* [Maps We Love](https://livingatlas.arcgis.com/), [CoolMaps](https://coolmaps.esri.com/#0) or [/r/MapPorn](https://reddit.com/r/MapPorn) - Multiple Maps
-* [NearByWiki](https://en.nearbywiki.org/) - Explore Interesting Places New You
-* [WorldPopDen](https://luminocity3d.org/WorldPopDen/) - Human Population Maps
-* [aprs.fi](https://aprs.fi/) - Google Maps APRS
-* [GFW](https://www.globalforestwatch.org/map/) - Forest & Tree Cover Maps
-* [satellite-map.gosur](https://satellite-map.gosur.com/) or [Ventusky](https://www.ventusky.com/) - Weather Maps
-* [Cyclocane](https://www.cyclocane.com/) or [Tornado.live](https://tornado.live/) - Severe Weather Maps
-* [Windy](https://www.windy.com/) - Wind Map
-* [Jetstream](https://www.netweather.tv/charts-and-data/global-jetstream) - Global Jetstream Forcast Map
-* [Tornado Archive](https://tornadoarchive.com/) - Tornado Data Visualization
-* [Find Your Tornado Shelter](https://findyourtornadoshelter.com/) - Tornado Shelter Map
-* [AQICN](https://aqicn.org/map/world) or [Breezometer](https://www.breezometer.com/air-quality-map/) - Air Quality Maps
-* [SaveEcoBot](https://www.saveecobot.com/en/radiation-maps) - Radioactivity / Air Quality Near Ukraine
-* [Earth Observatory](https://earthobservatory.nasa.gov/global-maps), [Earth Now](https://climate.nasa.gov/earth-now/) or [ClimateCharts](https://climatecharts.net/) - Climate Maps
-* [Safe Airspace](https://safeairspace.net/) - Aviation Risk Ratings
-* [MacroStrat](https://macrostrat.org/) - Geological Data Maps
-* [Depth Map](https://usa.fishermap.org/depth-map/) or [Bathymetry](https://www.ncei.noaa.gov/maps/bathymetry/) - Water Depth Maps
-* [River Runner](https://river-runner.samlearner.com/) - River Map / [3D Map](https://river-runner-global.samlearner.com/)
-* [Global Wetlands](https://www2.cifor.org/global-wetlands/) - Wetlands Map
-* [Mindat](https://www.mindat.org/countrylist.php) - Mineral Deposits Map
-* [Terrain Party](https://terrain.party/) - Terrain Height Map
-* [PeakFinder](https://www.peakfinder.org/) - Mountain Maps
-* [topo maps](https://onlinetopomaps.net/) - Topographic Maps
-* [MetroOrbits](https://mic-ro.com/metro/index.html) - Subway Maps / Data
-* [Mapnificent](https://www.mapnificent.net/) - Transit Time Reachability Map
-* [WikiRoutes](https://wikiroutes.info/) - Public Transport Routes
-* [MiniTokyo3D](https://minitokyo3d.com/) - Tokyo Public Transport Map
-* [OpenRailwayMap](https://www.openrailwaymap.org/), [Trains.fyi](https://trains.fyi/) or [AmtrakExplorer](https://amtrakexplorer.com/) - Train Maps
-* Country Train Maps - [Switzerland](https://maps.vasile.ch/transit-sbb/) / [AUS / NZ](https://anytrip.com.au/) / [Russia](https://rasp.yandex.ru/map/trains/) / [Finland](https://www.vr.fi/en/live-train-tracker-map) / [Belgium](https://trainmap.belgiantrain.be/) / [UK](https://www.map.signalbox.io/) / [Hungary](http://vonatinfo.mav-start.hu/) / [India](https://railradar.railyatri.in/) / [Netherlands](https://treinposities.nl/)
-* [ChronoTrains](https://www.chronotrains.com/) - European Train Distances
-* [AbandonedRails](https://www.abandonedrails.com/) - Abandoned Railway Map
-* [Earth](https://earth.nullschool.net/) - Global Map of Wind, Weather, Ocean & Pollution Conditions
-* [Blitzortung](https://www.blitzortung.org/en/live_lightning_maps.php) - Thunderstorm and Lightning Maps
-
 * [Wikimapia](https://wikimapia.org/) - Online Editable Map
 * [aprs.fi](https://aprs.fi/) - Live APRS Map
 * [MapSCII](https://github.com/rastapasta/mapscii) - Render World Map in Braille & ASCII
@@ -390,7 +355,7 @@
 * [broadbandmap.fcc.gov](https://broadbandmap.fcc.gov/) - FCC National Broadband Map
 * [Submarine Cable Map](https://www.submarinecablemap.com/) - Undersea Internet Cable Map
 
-## ▷ Satellite / Street View / Earth Data Maps (rename section?)
+## ▷ Satellite / Earth Data Maps (rename section?)
 
 * [FacilMap](https://facilmap.org/) or [OsmAPP](https://osmapp.org/) - OSM Web Apps
 * [OpenMapTiles](https://openmaptiles.org/) - Self-hosted Map Tools
