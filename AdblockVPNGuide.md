@@ -30,6 +30,7 @@
 
 * ⭐ **[yokoffing's Recommended Filters](https://github.com/yokoffing/filterlists)**
 * ⭐ **[LegitimateURLShortener](https://github.com/DandelionSprout/adfilt/blob/master/LegitimateURLShortener.txt)**
+* ⭐ **[FMHY Filterlist](https://github.com/WindowsAurora/FMHYFilterlist/)** - [Unsafe Sites](https://redd.it/10bh0h9) Filter
 * [FilterLists.com](https://filterlists.com/) - Filters Search
 * [Adbox](http://raymondhill.net/ublock/adbox.html) - Test Filters
 * [DandelionSprout adlift](https://github.com/DandelionSprout/adfilt)
@@ -52,7 +53,6 @@
 * [Yuumari](https://yuumari.com/bypass/) / [Extension](https://chromewebstore.google.com/detail/auto-link-bypasser/doiagnjlaingkmdjlbfalakpnphfmnoh) / [Script](https://yuumari.com/m-links/#js-code)
 * [UploadHEaven](https://greasyfork.org/en/scripts/442019)
 * [Bypass FileCrypt](https://greasyfork.org/en/scripts/403170) - FileCrypt Bypass
-* [Adbypass.eu](https://adbypass.eu/) - Ad-maven Bypass
 
 ***
 
