@@ -462,6 +462,7 @@
 * ⭐ **[Clipper](https://clipper.website/)** or [Copycat](https://github.com/BlackGlory/Copycat) - Copy Content in Multiple Formats
 * ⭐ **[Redirector](https://einaregilsson.com/redirector/)** - Page Redirector
 * ⭐ **[Feedbro](https://nodetics.com/feedbro/)**, [Brief](https://github.com/brief-rss/brief), [Smart-RSS](https://github.com/SmartRSS/Smart-RSS) or [Fraidycat](https://fraidyc.at/) - RSS Feed Readers
+* [Privacy Pass](https://github.com/cloudflare/pp-browser-extension) - Save Captcha Tokens
 * [NopeCHA](https://nopecha.com/) / [Required Tokens](https://nopecha.com/manage) / [Discord](https://discord.com/invite/yj7cTYBQaw), [Buster](https://github.com/dessant/buster) or [JKCS](https://git.coom.tech/araragi/JKCS) - Auto Captcha Solvers
 * [Sidebery](https://github.com/mbnuqw/sidebery), [Bookmarks Organizer](https://github.com/cadeyrn/bookmarks-organizer) or [Centroly](https://centroly.com/) - Bookmark Extensions
 * [CRX Viewer](https://robwu.nl/crxviewer/) - View Extension Source Code

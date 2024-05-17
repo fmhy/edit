@@ -302,6 +302,7 @@
 * [fastupload](https://fastupload.io/en) - 10GB / 30 days
 * [desiupload](https://desiupload.co/) or [uploadraja](https://uploadraja.com/) - 10GB / 15 days
 * [fshare](https://www.fshare.vn/) - 10GB / 5 days
+* [FileDitch](https://fileditch.com/) - 5GB / Forever / [Note](https://ibb.co/F0gTxNC)
 * [megaup](https://megaup.net/) - 5GB / 60 days
 * [ufile](https://ufile.io/) - 5GB / 30 days
 * [Internxt](https://send.internxt.com/) - 5GB / 100 files / 14 days

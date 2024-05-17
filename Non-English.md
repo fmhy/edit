@@ -282,6 +282,7 @@
 
 * [War-Forum](https://war-forum.net/) - Video / Audio / Books / Magazines / Comics / NSFW
 * [WarezCenter](https://warcenter.cz/) - Video / Audio / Books / NSFW
+* [WebShare](https://webshare.cz/) - Video / Audio / Books
 
 ## ▷ Streaming
 
@@ -340,7 +341,6 @@
 
 ## ▷ Torrenting
 
-* [YggTorrent](https://yggtorrent.cool/) - Video / Audio / ROMs / Books / Comics
 * [Torrent9](https://www.torrent9.se/), [2](https://www.torrent9.site/), [3](https://torrent9.app/) - Video / Audio / ROMs / Books
 * [Torrent911](https://www.torrent911.wf/) - Video / Audio / ROMs / Books
 * [OxTorrent](https://oxtorrents.co/) - Video / Audio / ROMs / Books
