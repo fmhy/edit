@@ -355,7 +355,7 @@
 * [broadbandmap.fcc.gov](https://broadbandmap.fcc.gov/) - FCC National Broadband Map
 * [Submarine Cable Map](https://www.submarinecablemap.com/) - Undersea Internet Cable Map
 
-## ▷ Satellite / Earth Data Maps (rename section?)
+## ▷ Satellite / Earth Data Maps
 
 * [FacilMap](https://facilmap.org/) or [OsmAPP](https://osmapp.org/) - OSM Web Apps
 * [OpenMapTiles](https://openmaptiles.org/) - Self-hosted Map Tools
