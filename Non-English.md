@@ -670,7 +670,7 @@
 
 ## ▷ Downloading
 
-* [eurekaddl](https://eurekaddl.motorcycles/) - Video / Audio / Books / Magazines / Newspapers / Comics / NSFW / Sub / 1080p
+* [eurekaddl](https://eurekaddl.autos/) - Video / Audio / Books / Magazines / Newspapers / Comics / NSFW / Sub / 1080p
 * [OverDay](https://overday.info/) - Courses / Books
 * [HD4Me](https://hd4me.net/) - Movies / TV / Sub / 720p
 * [XDCC Mule](https://www.xdccmule.org/) - IRC Download Search
@@ -1611,8 +1611,8 @@
 * [Türkce Ses İndir](https://www.turkcesesindir.com/) - Voiceovers
 * [DwForce](http://dwa-audio.blogspot.com/) - Voiceovers
 * [SinnerClown](https://sinnerclownceviri.net) - Game Localization / [Discord](https://discord.com/invite/nApvcT6Tt6)
-* [PixelSaga (Discord)](https://discord.gg/ZZER4w3Mmx) - Game Localization
-* [Calypso (Discord)](https://discord.gg/calypsoceviri) - Game Localization
+* [PixelSaga](https://discord.gg/ZZER4w3Mmx) - Game Localization
+* [Calypso](https://discord.gg/calypsoceviri) - Game Localization
 * [Hangar](https://www.hangarceviri.com) - Game Localization / [Discord](https://discord.com/invite/hangar)
 
 ## ▷ Streaming
