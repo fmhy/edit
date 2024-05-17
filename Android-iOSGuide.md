@@ -591,7 +591,7 @@
 
 ## ▷ Maps / Location
 
-* [Maps](https://gitlab.com/divested-mobile/maps), [StreetComplete](https://streetcomplete.app/), [Magic Earth](https://www.magicearth.com/) or [OsmAnd](https://osmand.net/) - Maps / Streets
+* ↪️ **[Navigation / Transport Apps](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc/#wiki_.25B7_navigation_.2F_transport)**
 * [Breezy Weather](https://github.com/breezy-weather/breezy-weather), [Clima](https://codeberg.org/Lacerte/clima), [Rain](https://github.com/DarkMooNight/Rain), [KWeather](https://invent.kde.org/utilities/kweather), [WeatherWise](https://github.com/MGAndroidProjects/WeatherWise-Releases), [Flux](https://play.google.com/store/apps/details?id=de.bendix.flux), [Bura](https://github.com/davidtakac/bura) or [OMWeather](https://github.com/woheller69/omweather) - Weather Apps
 * [Tides Near Me](https://play.google.com/store/apps/details?id=me.tidesnear.free) - Tide Tracking App
 * [FindMyDevice](https://gitlab.com/Nulide/findmydevice), [phonetrack](https://gitlab.com/eneiluj/phonetrack-oc) / [2](https://gitlab.com/eneiluj/phonetrack-android) or [AutoWhatsAppTriggers](https://play.google.com/store/apps/details?id=om.roitman.autowhatsapptriggers) - Track Phones Location

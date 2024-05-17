@@ -275,6 +275,8 @@
 
 ## ▷ Navigation / Transport
 
+* [Maps](https://gitlab.com/divested-mobile/maps), [StreetComplete](https://streetcomplete.app/), [Magic Earth](https://www.magicearth.com/) or [OsmAnd](https://osmand.net/) - Maps / Streets
+
 * ⭐ **[Organic Maps](https://organicmaps.app/)** or **[OsmAnd](https://osmand.net/)** - Offline Mobile Maps
 * ⭐ **[OpenStreetMap](https://www.openstreetmap.org/)** - Online Maps / [Advanced Search](https://nominatim.openstreetmap.org/ui/search.html) / [Overpass API GUI](https://overpass-turbo.eu/)
 * ⭐ **[Google Maps](https://www.google.com/maps/)** - Online Maps / [Themes for Web Developers](https://snazzymaps.com/)
