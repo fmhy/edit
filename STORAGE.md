@@ -90,6 +90,7 @@
 * [organice](https://organice.200ok.ch/) - Sync Supported / Account Required
 * [Tasky](https://thatsmanmeet.github.io/tasky-web/)
 * [Alkaa](https://github.com/igorescodro/alkaa)
+* [Chaos Control 2](https://play.google.com/store/apps/details?id=com.tarasovmobile.cc2)
 * [SnapTick](https://github.com/vishal2376/snaptick)
 * [EverydayTasks](https://everydaytasks.jepfa.de/)
 * [Teuxdeux](https://teuxdeux.com/)
@@ -339,7 +340,7 @@
 
 ## Fun Indexes
 
-[Neal.fun](https://neal.fun/), [Oimo](https://oimo.io/works ), [AIDN](https://aidn.jp/), [Neave](https://codepen.io/neave) / [2](https://neave.com/), [BoredHumans](https://boredhumans.com/), [puissant](https://sandwichpuissant.net/), [ThisIsMyWebsiteNow](https://www.thisismywebsitenow.com/), [Mr.doob](https://mrdoob.com/), [Bimble Space](https://in.bimble.space/toys), [Creative Tech Guy](https://creativetechguy.com/), [Just For Fun](https://justforfun.io/), [Andrew Marsh](https://andrewmarsh.com/software), [JenniferDewalt](https://jenniferdewalt.com/), [Chrome Experiments](https://experiments.withgoogle.com/collection/chrome), [0x2a](https://0x2a.re/), [yezi](https://yezi.itch.io/), [topster](https://topster.net/), [p5aholic](https://experiments.p5aholic.me/), [vole.wtf](https://vole.wtf/), [WilliamHoza](https://williamhoza.com/misc/), [Rinkworks](http://www.rinkworks.com/), [Orteil](https://orteil.dashnet.org/), [funwebsite](https://funwebsite.fun/), [Toms.Toys](https://toms.toys/), [Pointless Sites](https://www.pointlesssites.com/)
+[Neal.fun](https://neal.fun/), [Oimo](https://oimo.io/works ), [AIDN](https://aidn.jp/), [Neave](https://codepen.io/neave) / [2](https://neave.com/), [BoredHumans](https://boredhumans.com/), [puissant](https://sandwichpuissant.net/), [ThisIsMyWebsiteNow](https://www.thisismywebsitenow.com/), [Mr.doob](https://mrdoob.com/), [Bimble Space](https://in.bimble.space/toys), [Creative Tech Guy](https://creativetechguy.com/), [Just For Fun](https://justforfun.io/), [Andrew Marsh](https://andrewmarsh.com/software), [JenniferDewalt](https://jenniferdewalt.com/), [Chrome Experiments](https://experiments.withgoogle.com/collection/chrome), [0x2a](https://0x2a.re/), [yezi](https://yezi.itch.io/), [topster](https://topster.net/), [p5aholic](https://experiments.p5aholic.me/), [vole.wtf](https://vole.wtf/), [WilliamHoza](https://williamhoza.com/misc/), [Rinkworks](http://www.rinkworks.com/), [Orteil](https://orteil.dashnet.org/), [funwebsite](https://funwebsite.fun/), [Toms.Toys](https://toms.toys/), [Pointless Sites](https://www.pointlesssites.com/), [Funny / Useless](https://rentry.org/aksry2vc)
 
 ***
 
@@ -601,7 +602,7 @@
 * ⭐ **[Simply Optimized](https://modrinth.com/modpack/sop)**
 * [Sodium](https://modrinth.com/mod/sodium) / [Indium](https://github.com/comp500/Indium/) / [Extra](https://modrinth.com/mod/sodium-extra) / [Nvidia Rendering](https://github.com/MCRcortex/nvidium)
 
-[OptiFine](https://optifine.net/), [Ferrite Core](https://modrinth.com/mod/ferrite-core), [Caffeine](https://github.com/CaffeineMC), [Lithium](https://modrinth.com/mod/lithium), [Ares](https://www.aresclient.com/), [VulkanMod](https://github.com/xCollateral/VulkanMod)
+[OptiFine](https://optifine.net/), [Ferrite Core](https://modrinth.com/mod/ferrite-core), [Caffeine](https://github.com/CaffeineMC), [Lithium](https://modrinth.com/mod/lithium), [Ares](https://www.aresclient.com/), [VulkanMod](https://github.com/xCollateral/VulkanMod), [essential](https://modrinth.com/mod/essential)
 
 ***
 
@@ -611,7 +612,7 @@
 * [MineColab](https://colab.research.google.com/github/thecoder-001/MineColab/blob/master/MineColab.ipynb) - [GitHub](https://github.com/thecoder-001/MineColab)
 * [LazyMc](https://github.com/timvisee/lazymc) - Idle Minecraft Server
 
-[MineFort](https://minefort.com/), [Minehut](https://minehut.com/), [Aternos](https://aternos.org/), [Cuberite](https://cuberite.org/), [FMHL](http://fmhl.free.nf/) / [GitHub](https://github.com/Myuui/Free-Minecraft-Hosts), [Pufferfish](https://github.com/pufferfish-gg/Pufferfish), [Paper](https://papermc.io/software/paper), [oracle-cloud ](https://www.setup.md/guides/oracle-cloud), [mcho](https://mcho.st/), [fps](https://fps.ms/)
+[MineFort](https://minefort.com/), [Minehut](https://minehut.com/), [Aternos](https://aternos.org/), [Cuberite](https://cuberite.org/), [FMHL](http://fmhl.free.nf/) / [GitHub](https://github.com/Myuui/Free-Minecraft-Hosts), [Pufferfish](https://github.com/pufferfish-gg/Pufferfish), [Paper](https://papermc.io/software/paper), [oracle-cloud ](https://www.setup.md/guides/oracle-cloud), [mcho](https://mcho.st/), [fps](https://fps.ms/), [World Host](https://modrinth.com/mod/world-host)
 
 ### Minecraft Server Tools
 
