@@ -210,6 +210,7 @@
 * [Xournal++](https://xournalpp.github.io/) / [GitHub](https://github.com/xournalpp/xournalpp)
 * [Notepads](https://www.notepadsapp.com/)
 * [MicroPad](https://getmicropad.com/)
+* [WriteDown](https://writedown.app/)
 * [Xed](https://github.com/linuxmint/xed)
 * [Flotes](https://flotes.app/)
 * [Standard Notes](https://standardnotes.com/)
