@@ -4,75 +4,6 @@
 ***
 ***
 
-# ► Torrent Clients
-
-**Warning** - Make sure you [BIND](https://redd.it/ssy8vv) your [VPN](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25BA_vpn) to your client to avoid ISP letters.
-
-***
-
-* ⭐ **[qBittorrent](https://www.qbittorrent.org/)** or [QBT Enhanced](https://github.com/c0re100/qBittorrent-Enhanced-Edition) - [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent#wiki_.25B7_qbittorrent_tools)
-* ⭐ **[Deluge](https://www.deluge-torrent.org/)** - [Plugins](https://dev.deluge-torrent.org/wiki/Plugins) / [Config](https://github.com/ratanakvlun/deluge-ltconfig/releases) / [Telegram Plugin](https://github.com/noam09/deluge-telegramer)
-* ⭐ **[Transmission](https://transmissionbt.com/)**
-* ⭐ **[Tixati](https://tixati.com/)**
-* ⭐ **[torrent-control](https://github.com/Mika-/torrent-control)** or [Remote Torrent Adder](https://github.com/bogenpirat/remote-torrent-adder) - Easily Send Torrents to Client
-* [Motrix](https://motrix.app/) - [GitHub](https://github.com/agalwood/Motrix)
-* [WizTorrent](https://wiztorrent.com/) - Torrent Player / WebShare
-* [Picotorrent](https://picotorrent.org/)
-* [BiglyBT](https://www.biglybt.com/)
-* [LIII](https://codecpack.co/download/LIII-BitTorrent-Client.html)
-* [PikaTorrent](https://www.pikatorrent.com/) - [GitHub](https://github.com/G-Ray/pikatorrent)
-* [Distribyted](https://distribyted.com/) - [GitHub](https://github.com/distribyted/distribyted)
-* [Crawfish](https://github.com/drakonkat/Crawfish)
-* [Tribler](https://www.tribler.org/) - Tor-inspired Client / [GitHub](https://github.com/Tribler/tribler)
-* [XD-Torrent](https://xd-torrent.github.io/) - Anonymous P2P Torrent Client
-* [BitSwarm](https://github.com/SuRGeoNix/BitSwarm/) - Bittorrent Client Library
-* [Instant.io](https://instant.io/) - Stream Torrents in Browser
-* [BTorrent](https://btorrent.xyz/) - Stream Torrents in Browser
-* [Magnet Player](https://ferrolho.github.io/magnet-player/) - Stream Torrents in Browser
-* [BitFord](https://github.com/astro/bitford) - Chrome
-* [Rats Search](https://github.com/DEgITx/rats-search) - Torrent Search Client
-* [Download Torrents Through I2P](https://decentnet.github.io/blog/20200329-download-torrents-through-i2p.html)
-* [flood](https://flood.js.org/) - rTorrent, Transmission & qBittorrent WebUI / [GitHub](https://github.com/jesec/flood)
-
-***
-
-## ▷ qBittorrent Tools
-
-* 🌐 **[QBT Plugins](https://github.com/qbittorrent/search-plugins?tab=readme-ov-file#search-plugins)** - Plugins Index
-* 🌐 **[QBT Themes](https://github.com/jagannatharjun/qbt-theme)** - Themes Index
-* [qBitMF](https://github.com/qBitMF/qBitMF) - Multi-Connection Tool
-* [VueTorrent](https://github.com/WDaan/VueTorrent) - Web Clients
-* [QBT Manager](https://github.com/Yash-Garg/qBittorrent-Manager) or [qBitController](https://github.com/Bartuzen/qBitController) - Mobile Controllers
-* [Docker QBT](https://github.com/linuxserver/docker-qbittorrent) or [QBT VPN](https://github.com/binhex/arch-qbittorrentvpn) - Docker Builds
-* [QBT Mega](https://colab.research.google.com/github/Xavy-13/qbittorrent/blob/main/qBittorrent_MEGA.ipynb) - Mega Upload Script
-* [QBT Gdrive](https://colab.research.google.com/github/Xavy-13/qbittorrent/blob/main/qBittorrent.ipynb) - Gdrive Upload Script
-* [Dark Theme](https://draculatheme.com/qbittorrent) or [iOS Style](https://github.com/ntoporcov/iQbit/) - QBT Themes
-* [qBitEndpoints](https://rentry.co/qBitEndpoints) - API Endpoints
-
-***
-
-## ▷ Remote Torrenting
-
-* ↪️ **[Torrent to GDrive](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_torrent_to_gdrive)**
-* ⭐ **[Multi-Up](https://multiup.io/en/upload/from-torrent)** - Torrent to DDL Sites / [Bypass 10GB Limit](https://pastebin.com/0aPaPqN9)
-* ⭐ **[webtor](https://webtor.io/)** - Torrent to Cloud and Stream / [Send Magnets](https://greasyfork.org/en/scripts/481975)
-* ⭐ **[Seedr](https://www.seedr.cc/)** - [Telegram Bot](https://t.me/TorrentSeedrBot) / [API Wrapper](https://github.com/theabbie/seedr-api), [2](https://github.com/AnjanaMadu/SeedrAPI) - Torrent to Cloud and Stream
-* [Bitport](https://bitport.io/welcome) - Torrent to Cloud and Stream
-* [TorrentSafe](https://www.torrentsafe.com/) - Torrent to Cloud and Stream
-* [ZBIGZ](https://zbigz.com/) - Torrent to Cloud and Stream
-* [TorBox](https://torbox.app/) - Torrent to Cloud
-* [Demagnetize](http://demagnetize.link/) - Torrent to DDL
-
-***
-
-## ▷ [Android Clients](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25BA_android_torrenting)
-
-***
-
-## ▷ [iOS Clients](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25BA_ios_torrenting)
-
-***
-
 # ► Torrent Sites
 
 **Warning** - It's best to avoid sites that allow anyone to upload without consequences when getting both software and games. Avoid users in the [Unsafe](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/unsafe-sites/) or [Untrusted](https://rentry.org/pgames#untrusted-uploaders) lists.
@@ -158,6 +89,75 @@
 ***
 
 ## ▷ [Audio Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/audio#wiki_.25BA_audio_torrenting)
+
+***
+
+# ► Torrent Clients
+
+**Warning** - Make sure you [BIND](https://redd.it/ssy8vv) your [VPN](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25BA_vpn) to your client to avoid ISP letters.
+
+***
+
+* ⭐ **[qBittorrent](https://www.qbittorrent.org/)** or [QBT Enhanced](https://github.com/c0re100/qBittorrent-Enhanced-Edition) - [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent#wiki_.25B7_qbittorrent_tools)
+* ⭐ **[Deluge](https://www.deluge-torrent.org/)** - [Plugins](https://dev.deluge-torrent.org/wiki/Plugins) / [Config](https://github.com/ratanakvlun/deluge-ltconfig/releases) / [Telegram Plugin](https://github.com/noam09/deluge-telegramer)
+* ⭐ **[Transmission](https://transmissionbt.com/)**
+* ⭐ **[Tixati](https://tixati.com/)**
+* ⭐ **[torrent-control](https://github.com/Mika-/torrent-control)** or [Remote Torrent Adder](https://github.com/bogenpirat/remote-torrent-adder) - Easily Send Torrents to Client
+* [Motrix](https://motrix.app/) - [GitHub](https://github.com/agalwood/Motrix)
+* [WizTorrent](https://wiztorrent.com/) - Torrent Player / WebShare
+* [Picotorrent](https://picotorrent.org/)
+* [BiglyBT](https://www.biglybt.com/)
+* [LIII](https://codecpack.co/download/LIII-BitTorrent-Client.html)
+* [PikaTorrent](https://www.pikatorrent.com/) - [GitHub](https://github.com/G-Ray/pikatorrent)
+* [Distribyted](https://distribyted.com/) - [GitHub](https://github.com/distribyted/distribyted)
+* [Crawfish](https://github.com/drakonkat/Crawfish)
+* [Tribler](https://www.tribler.org/) - Tor-inspired Client / [GitHub](https://github.com/Tribler/tribler)
+* [XD-Torrent](https://xd-torrent.github.io/) - Anonymous P2P Torrent Client
+* [BitSwarm](https://github.com/SuRGeoNix/BitSwarm/) - Bittorrent Client Library
+* [Instant.io](https://instant.io/) - Stream Torrents in Browser
+* [BTorrent](https://btorrent.xyz/) - Stream Torrents in Browser
+* [Magnet Player](https://ferrolho.github.io/magnet-player/) - Stream Torrents in Browser
+* [BitFord](https://github.com/astro/bitford) - Chrome
+* [Rats Search](https://github.com/DEgITx/rats-search) - Torrent Search Client
+* [Download Torrents Through I2P](https://decentnet.github.io/blog/20200329-download-torrents-through-i2p.html)
+* [flood](https://flood.js.org/) - rTorrent, Transmission & qBittorrent WebUI / [GitHub](https://github.com/jesec/flood)
+
+***
+
+## ▷ qBittorrent Tools
+
+* 🌐 **[QBT Plugins](https://github.com/qbittorrent/search-plugins?tab=readme-ov-file#search-plugins)** - Plugins Index
+* 🌐 **[QBT Themes](https://github.com/jagannatharjun/qbt-theme)** - Themes Index
+* [qBitMF](https://github.com/qBitMF/qBitMF) - Multi-Connection Tool
+* [VueTorrent](https://github.com/WDaan/VueTorrent) - Web Clients
+* [QBT Manager](https://github.com/Yash-Garg/qBittorrent-Manager) or [qBitController](https://github.com/Bartuzen/qBitController) - Mobile Controllers
+* [Docker QBT](https://github.com/linuxserver/docker-qbittorrent) or [QBT VPN](https://github.com/binhex/arch-qbittorrentvpn) - Docker Builds
+* [QBT Mega](https://colab.research.google.com/github/Xavy-13/qbittorrent/blob/main/qBittorrent_MEGA.ipynb) - Mega Upload Script
+* [QBT Gdrive](https://colab.research.google.com/github/Xavy-13/qbittorrent/blob/main/qBittorrent.ipynb) - Gdrive Upload Script
+* [Dark Theme](https://draculatheme.com/qbittorrent) or [iOS Style](https://github.com/ntoporcov/iQbit/) - QBT Themes
+* [qBitEndpoints](https://rentry.co/qBitEndpoints) - API Endpoints
+
+***
+
+## ▷ Remote Torrenting
+
+* ↪️ **[Torrent to GDrive](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_torrent_to_gdrive)**
+* ⭐ **[Multi-Up](https://multiup.io/en/upload/from-torrent)** - Torrent to DDL Sites / [Bypass 10GB Limit](https://pastebin.com/0aPaPqN9)
+* ⭐ **[webtor](https://webtor.io/)** - Torrent to Cloud and Stream / [Send Magnets](https://greasyfork.org/en/scripts/481975)
+* ⭐ **[Seedr](https://www.seedr.cc/)** - [Telegram Bot](https://t.me/TorrentSeedrBot) / [API Wrapper](https://github.com/theabbie/seedr-api), [2](https://github.com/AnjanaMadu/SeedrAPI) - Torrent to Cloud and Stream
+* [Bitport](https://bitport.io/welcome) - Torrent to Cloud and Stream
+* [TorrentSafe](https://www.torrentsafe.com/) - Torrent to Cloud and Stream
+* [ZBIGZ](https://zbigz.com/) - Torrent to Cloud and Stream
+* [TorBox](https://torbox.app/) - Torrent to Cloud
+* [Demagnetize](http://demagnetize.link/) - Torrent to DDL
+
+***
+
+## ▷ [Android Clients](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25BA_android_torrenting)
+
+***
+
+## ▷ [iOS Clients](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25BA_ios_torrenting)
 
 ***
 
