@@ -2470,6 +2470,10 @@ import Index from './.vitepress/theme/Posts.vue'
 * [Proxy-Checker](https://proxy-checker.net/), [proxy-scraper](https://github.com/iw4p/proxy-scraper), [What is my Proxy](http://www.whatismyproxy.com/), [proxy-scraper-checker](https://github.com/monosans/proxy-scraper-checker), [Socker](https://github.com/TheSpeedX/socker) or [Unfx Proxy Checker](https://openproxy.space/software/proxy-checker) / [GitHub](https://github.com/openproxyspace/unfx-proxy-checker) - Proxy Scrapers / Checkers
 * [CheckSocks5](https://checksocks5.com/) - Socks5 Proxy Checker
 * [Proxynova](https://www.proxynova.com/proxy-server-list/country-ir/) - Iranian Proxies
+### [Adblock Filter List](https://github.com/WindowsAurora/FMHYFilterlist/)
+
+^ Filter list with the sites listed below for adblockers.
+
 ***
 
 ### Game Sites
