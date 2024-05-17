@@ -401,6 +401,7 @@
 
 ## ▷ Live Sports
 
+* ⭐ **[Streamed](https://streamed.su/)** - Sports
 * ⭐ **[Sportsurge](https://sportsurge.net/)** - Sports / Stream Aggregator
 * ⭐ **[FreeSports](https://freesports.to/)** or [TheHomeSport](https://thehomesport.com/) - Sports
 * ⭐ **[Sports Plus](https://en12.sportplus.live/)** - Sports
@@ -410,7 +411,6 @@
 * ⭐ **[OlympicStreams](https://olympicstreams.me/)** - Sports
 * ⭐ **[Lord Latifi Streams](https://latifistreams.com/)** - Motorsports / Soccer / [Discord](https://discord.gg/6vr9CW7ZFa)
 * [Flowstreams](https://flowstreams.cx/) - Sports / [Discord](https://discord.gg/streams)
-* [Streamed](https://streamed.su/) - Sports
 * [Sportsurge.club](https://sportsurge.club/) - Sports
 * [1Stream](https://1stream.eu/) - Sports
 * [First Row Sports](https://firstsrowsports.tv/) - Sports
