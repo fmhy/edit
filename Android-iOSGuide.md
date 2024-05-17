@@ -135,14 +135,21 @@
 
 ## ▷ ReVanced Tools
 
-* ⭐ **[ReVanced Manager](https://revanced.app/download)** - Android App Patcher / [Discord](https://discord.com/invite/rF2YcEjcrT)
+* ⭐ **[ReVanced Manager](https://revanced.app/download)** - Android App Patcher / [GmsCore](https://github.com/ReVanced/GmsCore/) / [Discord](https://discord.com/invite/rF2YcEjcrT)
 * ⭐ **[ReVanced MMT](https://kazimmt.github.io/)** or [ReVanced Trouble​shooting Guide](https://sodawithoutsparkles.github.io/revanced-troubleshooting-guide/) - Unofficial ReVanced Docs, Guides, and Troubleshooting
-
 * [ReVanced Auto-Update](https://rentry.co/revanced-auto-update) - Update ReVanced Apps Automatically
-* [revanced-magisk-module](https://github.com/j-hc/revanced-magisk-module/releases) / [Telegram](https://t.me/rvc_magisk), [revanced-apks](https://github.com/revanced-apks/build-apps/releases) / [Telegram](https://t.me/revanced_apks_web), [docker-py-revanced](https://github.com/nikhilbadyal/docker-py-revanced/releases) or [AT-YT](https://github.com/Zenlua/AT-YT) - Automated Patchers
-* [revanced-cli](https://github.com/ReVanced/revanced-cli/), [Auto-CLI](https://github.com/taku-nm/auto-cli/), [Revancify](https://github.com/decipher3114/Revancify) or [revanced-creator](https://github.com/XDream8/revanced-creator) - CLI Patchers
-* [ReVanced Patcher 6.0-7.1](https://github.com/kitadai31/revanced-patches-android6-7) - 6.0-7.1 Patcher
-* [GmsCore](https://github.com/ReVanced/GmsCore/) - MicroG for ReVanced
+
+Automated Patchers:
+* [revanced-magisk-module](https://github.com/j-hc/revanced-magisk-module/releases) / [Telegram](https://t.me/rvc_magisk)
+* [revanced-apks](https://github.com/revanced-apks/build-apps/releases) / [Telegram](https://t.me/revanced_apks_web)
+* [docker-py-revanced](https://github.com/nikhilbadyal/docker-py-revanced/releases)
+* [AT-YT](https://github.com/Zenlua/AT-YT)
+
+CLI Patchers:
+* [revanced-cli](https://github.com/ReVanced/revanced-cli/)
+* [Auto-CLI](https://github.com/taku-nm/auto-cli/)
+* [Revancify](https://github.com/decipher3114/Revancify)
+* [revanced-creator](https://github.com/XDream8/revanced-creator)
 
 ***
 
@@ -864,8 +871,7 @@
 
 ## ▷ YouTube Apps
 
-* ⭐ **[ReVanced Manager](https://revanced.app/download)** - Ad-Free YouTube, Reddit, X etc. Patcher / [Discord](https://discord.com/invite/rF2YcEjcrT) / [Guide](https://redd.it/xlcny9)
-* ⭐ **[Kazimmt](https://kazimmt.github.io/)** - ReVanced Guides, Patches, Troubleshooting etc.
+* ⭐ **[ReVanced Manager](https://revanced.app/download)** - Ad-Free YouTube Patcher / [YT Guide](https://redd.it/xlcny9) / [Android 6.0-7.1](https://github.com/kitadai31/revanced-patches-android6-7) / [Discord](https://discord.com/invite/rF2YcEjcrT)
 * ⭐ **[LibreTube](https://libretube.dev/)** - Ad-free YouTube
 * ⭐ **[NewPipe](https://newpipe.net/)** - Ad-free YouTube
 * ⭐ **[Tubular](https://github.com/polymorphicshade/Tubular)** - Ad-free YouTube / SponsorBlock / ReturnYTDislikes
