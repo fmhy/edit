@@ -849,7 +849,7 @@
 
 ## ▷ YouTube Apps
 
-* ⭐ **[ReVanced Manager](https://revanced.app/download)** - Ad-Free YouTube, Reddit, X etc. Patcher / [Discord](https://discord.com/invite/rF2YcEjcrT) / [Guide](https://redd.it/xlcny9)
+* ⭐ **[ReVanced Manager](https://revanced.app/download)** - Ad-Free YouTube Patcher / [Discord](https://discord.com/invite/rF2YcEjcrT) / [YT Guide](https://redd.it/xlcny9)
 * ⭐ **[LibreTube](https://libretube.dev/)** - Ad-free YouTube
 * ⭐ **[NewPipe](https://newpipe.net/)** - Ad-free YouTube
 * ⭐ **[Tubular](https://github.com/polymorphicshade/Tubular)** - Ad-free YouTube / SponsorBlock / ReturnYTDislikes
