@@ -484,14 +484,13 @@
 * 🌐 **[Minecraft QOL Mods](https://rentry.co/mc-qol)** or [sk1er.club](https://sk1er.club/) - Quality of Life Mods
 * 🌐 **[OptiFine Alternatives](https://optifine.alternatives.lambdaurora.dev/)** - OptiFine Alternatives for Fabric
 * 🌐 **[ChunkBase](https://www.chunkbase.com/apps/)** - Minecraft Map Tools
+* ↪️ **[Minecraft Servers / Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_minecraft_servers)**
 * ↪️ **[Minecraft Launchers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_minecraft_launchers)** - [Beta](https://betacraft.uk/) / [Bedrock](https://bedrocklauncher.github.io/) / [Win10 Edition](https://rentry.co/FMHYBase64#minecraft-win-10-unlock)
 * ↪️ **[Minecraft Mods](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_minecraft_mods)**
 * ↪️ **[Minecraft Optimization](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_minecraft_optimization_mods)**
-* ↪️ **[Free Minecraft Servers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_minecraft_servers)**
 * ⭐ **[Minecraft Wiki](https://minecraft.wiki/)** or [DigiMinecraft](https://www.digminecraft.com/) - Minecraft Resources / Guides
 * ⭐ **[MCModdingGuide](https://rentry.org/MCModdingGuide)** - Minecraft Modding Guide
 * ⭐ **[Couleur Tweak Tips](https://ctt.cx/)** - Minecraft Tweaks / Tips / [Discord](https://discord.gg/CTT)
-* ⭐ **[paper-optimization](https://paper-chan.moe/paper-optimization/)** or [minecraft-optimization](https://github.com/YouHaveTrouble/minecraft-optimization) - Server Optimization Guides
 * ⭐ **[spark](https://spark.lucko.me/)** - Minecraft Performance Profiler
 * ⭐ **[MCPropertyEncyclopedia](https://joakimthorsen.github.io/MCPropertyEncyclopedia/)** - Block Property Encyclopedia
 * ⭐ **[Villager Trading Cheatsheet](https://i.ibb.co/sKBjbzg/e9f8d80e2376.png)**
@@ -515,15 +514,10 @@
 * [Pixelart Builder](https://play.google.com/store/apps/details?id=com.electricfoal.photocrafter&hl=en&gl=US) or [PixelStacker](https://taylorlove.info/pixelstacker/) - Turn Photos into Minecraft Art
 * [ReplayMod](https://replaymod.com/) - Record Minecraft Game Sessions / [GitHub](https://github.com/ReplayMod/ReplayMod)
 * [GeyserMC](https://geysermc.org/) - Join Minecraft Java Servers with Bedrock Client / [Consoles](https://wiki.geysermc.org/geyser/using-geyser-with-consoles/)
-* [CraftyControl](https://craftycontrol.com/), [MCSManager](https://mcsmanager.com/) or [Fork](https://www.fork.gg/) - Minecraft Server Managers
-* [Minekube Connect](https://connect.minekube.com/) - Ingress Tunnel for Minecraft Servers
 * [Minecraft Server Scanner](https://github.com/Footsiefat/Minecraft-Server-Scanner) - Minecraft Server Info
-* [NameMC](https://namemc.com/) - Minecraft Name Availability Tracker
-* [Setup.md](https://setup.md/) - Server Admin Guides
-* [mcsrvstat](https://mcsrvstat.us/) - Server Status Updates
-* [LazyMc](https://github.com/timvisee/lazymc) - Idle Minecraft Server
 * [Minecraft Server Checker](https://moistcatawumpus.github.io/minecraft-server-checker/) - Simple Server Checker
-* [mclo.gs](https://mclo.gs/) - Minecraft Log Sharing / Analyzing
+* [NameMC](https://namemc.com/) - Minecraft Name Availability Tracker
+* [mcsrvstat](https://mcsrvstat.us/) - Server Status Updates
 * [Forge](https://files.minecraftforge.net/), [Quilt](https://quiltmc.org/) or [Fabric](https://fabricmc.net/) / [Discord](https://discord.gg/VDGnGsFeuy) - Minecraft Modding API
 * [Mineflayer](https://prismarinejs.github.io/mineflayer/) - Minecraft Bot Creator
 * [PVPRP](https://pvprp.com/) - Minecraft Texture Packs
