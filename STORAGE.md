@@ -854,16 +854,6 @@
 
 ***
 
-## Satellite & Street View Maps
-
-* ⭐ **[OrganicMaps](https://organicmaps.app/)**
-* ⭐ **[DDG Maps](https://duckduckgo.com/?q=maps&ia=web&iaxm=maps)**
-* ⭐ **[Soar](https://soar.earth/)**
-
-[Yandex](https://yandex.com/maps/), [Google](https://www.google.com/maps/), [Satellites.pro](https://satellites.pro/), [Bing](https://www.bing.com/maps), [Wego.Here](https://wego.here.com/), [Terrafly](http://www.terrafly.com/), [EarthExplorer](https://earthexplorer.usgs.gov/), [EarthData](https://search.earthdata.nasa.gov/search), [PortalDeMapas](https://portaldemapas.ibge.gov.br/portal.php##homepage), [Qwant](https://www.qwant.com/maps/), [city2map](https://www.city2map.com/), [MapQuest](https://www.mapquest.com/), [InstantStreetView](https://www.instantstreetview.com/), [ShowMyStreet](https://showmystreet.com/)
-
-***
-
 ## Scene Release Trackers
 
 * [/r/CrackWatch](https://www.reddit.com/r/CrackWatch/)
