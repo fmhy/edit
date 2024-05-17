@@ -823,7 +823,7 @@
 * ⭐ **[PCPartPicker](https://pcpartpicker.com/)**, [Newegg PC Builder](https://www.newegg.com/tools/custom-pc-builder), [Build Redux](https://buildredux.com/), [CGDirector](https://www.cgdirector.com/pc-builder/) or [NZXTBld](https://nzxt.com/category/gaming-pcs/build) - PC Building Sites
 * ⭐ **[/r/PCMasterrace Wiki](https://www.reddit.com/r/pcmasterrace/wiki/builds/)**, [/r/BuildaPC Wiki](https://www.reddit.com/r/buildapc/wiki/index), [PC Tiers](https://pctiers.com/) or [Logical Increments](https://www.logicalincrements.com/) - PC Building Guides / **[Video](https://youtu.be/BL4DCEp7blY)**
 * ⭐ **[NanoReview](https://nanoreview.net/en)**, [Octoparts](https://octopart.com/), [Technical City](https://technical.city/), [TechPowerup](https://www.techpowerup.com/) or [Techspecs](https://techspecs.io/) - Hardware Comparisons
-* ⭐ **[LTT Labs](https://www.lttlabs.com/)** or [rtings](https://www.rtings.com/) - Hardware Reviews
+* ⭐ **[rtings](https://www.rtings.com/)** - Hardware Reviews
 * ⭐ **[Open Benchmarking](https://openbenchmarking.org/)** - Hardware Benchmarks
 * ⭐ **[GSMArena](https://www.gsmarena.com/)**, [PhoneDB](https://phonedb.net/), [GSMChoice](https://www.gsmchoice.com/en/) or [Kimovil](https://www.kimovil.com/en/) - Compare Phones / Prices
 * ⭐ **[CPUBenchmark](https://www.cpubenchmark.net/)** or [NoteBenchcheck](https://www.notebookcheck.net/Benchmarks-Tech.123.0.html) - GPU / CPU Benchmarks
