@@ -408,7 +408,7 @@
 * ⭐ **[VIP Box Sports](https://www.viprow.nu/)**, [2](https://vipleague.im/), [3](https://www.vipleague.la/), [4](https://www.vipbox.lc/) - Sports / [More Links](https://rentry.org/894dq2c9)
 * ⭐ **[SportsHub](https://reddit10.sportshub.stream/)** - Sports
 * ⭐ **[TotalSportek](https://totalsportek.pro/)**, [2](https://www.totalsportek.to/) - Sports
-* ⭐ **[OlympicStreams](https://olympicstreams.me/)** - Sports
+* ⭐ **[OlympicStreams](https://olympicstreams.co/)** - Sports
 * ⭐ **[Lord Latifi Streams](https://latifistreams.com/)** - Motorsports / Soccer / [Discord](https://discord.gg/6vr9CW7ZFa)
 * [Flowstreams](https://flowstreams.cx/) - Sports / [Discord](https://discord.gg/streams)
 * [Sportsurge.club](https://sportsurge.club/) - Sports
