@@ -36,11 +36,19 @@
 * [ImageBoards](https://imageboards.net/), [Chan List](https://archive.is/Npzwl) or [imageboards.json](https://github.com/ccd0/imageboards.json/blob/gh-pages/imageboards.json) - Imageboard Index
 * [Single Serving Sites](https://singleservingsites.cool/) - Single-Purpose Sites
 
-* [Similar Sites](https://www.similarsites.com/), [SimilarWeb](https://www.similarweb.com/), [xRanks](https://xranks.com/), [similarsitesearch](https://www.similarsitesearch.com/), [TopSimilarSites](https://www.topsimilarsites.com/), [odir.us](https://odir.us/), [Sitelike.org](https://www.sitelike.org/), [SitesLike](https://www.siteslike.com/) - Similar Site Indexes
+Similar Site Indexes: (needs checking)
+* [Similar Sites](https://www.similarsites.com/)
+* [SimilarWeb](https://www.similarweb.com/)
+* [xRanks](https://xranks.com/)
+* [similarsitesearch](https://www.similarsitesearch.com/)
+* [TopSimilarSites](https://www.topsimilarsites.com/)
+* [odir.us](https://odir.us/)
+* [Sitelike.org](https://www.sitelike.org/)
+* [SitesLike](https://www.siteslike.com/)
 
 ***
 
-## ▷ Site / Tool Indexes
+## ▷ Site / Tool Indexes (needs checking)
 
 * 🌐 **[BOOKMRKS-MTHRFCKR](https://github.com/whoisdsmith/BOOKMRKS-MTHRFCKR-II)** - Site / Tool Index
 * [Pixelated Pathways](https://courage-1984.github.io/pixelated-pathways/) / [2](https://rentry.org/Pixelated_Pathways) - Site / Tool Index
