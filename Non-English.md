@@ -579,7 +579,6 @@
 
 * ⭐ **[Braflix](https://www.braflix.video/)** - Movies / TV / Anime / Dub / 4K / 1080p / [Discord](https://discord.gg/wWKmxARaWH)
 * ⭐ **[BanglaPlex](https://banglaplex.art/)** - Movies / Sub / Dub / 1080p
-* ⭐ **[Einthusan](https://einthusan.tv/intro/)** - South Asian Movies / Sub / Dub / 1080p
 * ⭐ **[AnPlay](https://anplay.in/)** - Anime / Dub / 1080p
 * ⭐ **[ToonStream](https://toonstream.day/)** - Cartoons / 1080p / [Telegram](https://telegram.me/toonstream)
 * [9xmovies](https://9xmovies.fund/), [2](https://9kmovies.com/) - Movies / TV / Sub / Dub / 1080p / 4K
@@ -1878,7 +1877,6 @@
 * [zoom.lk](https://zoom.lk/) or [Cineru.lk](https://cineru.lk/) - Sinhalese / Subtitles
 * [Najdi.si](https://www.najdi.si/) - Slovene / Search
 * [BSF](https://bsf.si/) - Slovene Film Database
-* [Einthusan](https://einthusan.tv/intro/) - South Asian / Movie Archive
 * [iptv-ch](https://iptv-ch.github.io/) - Swiss / IPTV Resources
 * [tagalogdubbed](https://tagalogdubbed.com/) - Tagalog / Streaming / Movies / TV
 * [Segoideas](https://segoideas.com/) - Taiwanese / Streaming / TV
