@@ -274,7 +274,6 @@
 * [Cinetimes](https://cinetimes.org/en/) - Public Domain Films
 * [The Travel Film Archive](https://travelfilmarchive.com/) - Public Domain Stock Footage
 * [commons.wikimedia](https://commons.wikimedia.org/wiki/Category:Videos) - Wiki Commons Video Files
-* [Einthusan](https://einthusan.tv/) - South Asian Film Archive
 * [IndianCine](https://indiancine.ma/) - Indian Film Archive
 * [National Film Archive of Japan](https://meiji.filmarchives.jp/) - Japanese Film Archive
 * [TexasArchive](https://texasarchive.org/) - Texas Film Archive
