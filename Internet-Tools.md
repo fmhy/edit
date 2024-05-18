@@ -144,6 +144,7 @@
 * [Horizon Bio](https://hrzn.bio/)
 * [BioDrop](https://www.biodrop.io/)
 * [Taplink](https://taplink.at/)
+* [Linkezo](https://linkezo.com/)
 * [LinkBun](https://linkbun.io)
 * [Linkr](https://linkr.com/)
 * [seemless](https://www.linkinbio.website/) - Link in Bio for Tiktok & Instagram
