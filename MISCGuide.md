@@ -7,9 +7,6 @@
 # ► Indexes
 
 * 🌐 **[Awesome List Index](https://github.com/sindresorhus/awesome), [2](https://github.com/topics/awesome)** - All Awesome Lists
-
-* 🌐 **[BOOKMRKS-MTHRFCKR](https://github.com/whoisdsmith/BOOKMRKS-MTHRFCKR-II)** - Site / Tool Index
-
 * ↪️ **[AI Indexes](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/ai#wiki_.25BA_ai_indexes)**
 * ⭐ **[FMHY Guides](https://rentry.co/fmhy-guides)** - Automated Rentry Guide List / [Script](https://gist.github.com/Rust1667/e21e92ae385e71f0d87e869bed90fff2) / [Download](https://gist.github.com/Rust1667/efc055debaf4876e4de39cc0d32f18c1) / [Backup Rar](https://mega.nz/file/ajgAnZRY#dQgzhwk0v8L9PyoiSGzw54n1bUC35Brq2QgcK5bglHw)
 * ⭐ **[FMHY Search](https://www.reddit.com/r/FREEMEDIAHECKYEAH/comments/105xraz/howto_search_fmhy/)** - Search the Wiki
@@ -21,22 +18,6 @@
 * [Curlie](https://curlie.org/) - Topic Directory
 * [ooh.directory](https://ooh.directory/) - Blog Directory
 * [StatsCrop](https://www.statscrop.com/websites/top-sites/), [DirtyWarez](https://dirtywarez.org/) or [CuteStat](https://www.cutestat.com/) - Site Rankings & Stats
-
-* [No-Signup Tools](https://www.nosignup.tools/) - No-Signup Tool Index
-* [Pixelated Pathways](https://courage-1984.github.io/pixelated-pathways/) / [2](https://rentry.org/Pixelated_Pathways) - Site / Tool Index
-* [Delightful Creative Tools](https://codeberg.org/ADHDefy/delightful-creative-tools) - Site / Tool Index
-* [The More You Know](https://marckoxx.github.io/) - Site / Tool Index
-* [Size of Cat](https://sizeof.cat/links/) - Site / Tool Index
-* [RefDesk](https://www.refdesk.com/facts.html) - Site / Tool Index
-* [Cool Websites](https://rentry.co/cool_websites) - Site / Tool Index
-* [iBiblio](https://www.ibiblio.org/) - Site / Tool Index
-* [unapothecary's terminal](https://unapothecary.neocities.org/websites) - Site / Tool Index
-* [5000 Best](http://5000best.com/websites/) / [Tools](http://5000best.com/tools/) - Site / Tool Index
-* [mw.rat.bz](https://mw.rat.bz/index.html) - Site / Tool Index
-* [itch.io Tools](https://itch.io/tools/free) - Tool Index
-* [redshift](https://rdshft.net/) - Site Index
-* [ODP](http://odp.org/) - Site Index
-
 * [VRFavs](https://www.vrfavs.com/) - Virtual Reality Resources
 * [Simple Tools](https://simpletools.info/doku.php) - Simple Programs Index
 * [Appscope](https://appsco.pe/), [findPWA](https://findpwa.com/), [Store.app](https://store.app/), [SaaS Discovery](https://saasdiscovery.com/) or [Electron](https://www.electronjs.org/apps) - Web App Indexes
@@ -57,20 +38,37 @@
 
 * [Similar Sites](https://www.similarsites.com/), [SimilarWeb](https://www.similarweb.com/), [xRanks](https://xranks.com/), [similarsitesearch](https://www.similarsitesearch.com/), [TopSimilarSites](https://www.topsimilarsites.com/), [odir.us](https://odir.us/), [Sitelike.org](https://www.sitelike.org/), [SitesLike](https://www.siteslike.com/) - Similar Site Indexes
 
+***
+
+## ▷ Site / Tool Indexes
+
+* 🌐 **[BOOKMRKS-MTHRFCKR](https://github.com/whoisdsmith/BOOKMRKS-MTHRFCKR-II)** - Site / Tool Index
+* [Pixelated Pathways](https://courage-1984.github.io/pixelated-pathways/) / [2](https://rentry.org/Pixelated_Pathways) - Site / Tool Index
+* [Delightful Creative Tools](https://codeberg.org/ADHDefy/delightful-creative-tools) - Site / Tool Index
+* [The More You Know](https://marckoxx.github.io/) - Site / Tool Index
+* [Size of Cat](https://sizeof.cat/links/) - Site / Tool Index
+* [RefDesk](https://www.refdesk.com/facts.html) - Site / Tool Index
+* [Cool Websites](https://rentry.co/cool_websites) - Site / Tool Index
+* [iBiblio](https://www.ibiblio.org/) - Site / Tool Index
+* [unapothecary's terminal](https://unapothecary.neocities.org/websites) - Site / Tool Index
+* [5000 Best](http://5000best.com/websites/) / [Tools](http://5000best.com/tools/) - Site / Tool Index
+* [mw.rat.bz](https://mw.rat.bz/index.html) - Site / Tool Index
+* [itch.io Tools](https://itch.io/tools/free) - Tool Index
+* [redshift](https://rdshft.net/) - Site Index
+* [ODP](http://odp.org/) - Site Index
+
+***
+
 ## ▷ Piracy Wikis
 
 * ⭐ **[/r/Piracy Megathread](https://www.reddit.com/r/Piracy/wiki/megathread)** - Piracy Index / [Rentry Mirror](https://rentry.co/megathread)
 * ⭐ **[Awesome Piracy](https://shakil-shahadat.github.io/awesome-piracy/)** - Piracy Index / [Github](https://github.com/Shakil-Shahadat/awesome-piracy)
 * ⭐ **[Ripped](https://ripped.guide/)** - Piracy Index / [Discord](https://discord.ripped.guide/)
 * ⭐ **[/r/PiratedGames Mega](https://rentry.org/pgames)** - Game Piracy Index / [Discord](https://discord.gg/dZWwhUy)
-
 * ⭐ **[privateersclub](https://megathread.pages.dev/)** - Game Piracy Index / [Discord](https://discord.gg/jz8dUnnD6Q)
 * ⭐ **[The Index](https://theindex.moe)** - Japanese Piracy Index / [Discord](https://discord.gg/Snackbox) / [Wiki](https://thewiki.moe/)
 * ⭐ **[Wotaku](https://wotaku.moe/)** - Japanese Piracy Index
 * ⭐ **[EverythingMoe](https://everythingmoe.com/)** - Japanese Piracy Index
-* [blooem](https://blooem.pages.dev/) / [2](https://blooem.its.moe) - Piracy Guides
-* [pilssken](https://pilssken.neocities.org/warez/) or [The Pirate List](https://thepiratelist.com/) - Piracy Index
-* [PiracyBank](https://piracybank.org/websites) - Sites with Detected Copyright Infringement
 
 ***
 

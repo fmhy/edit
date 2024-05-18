@@ -133,23 +133,17 @@
 * [Let Me Downgrade](https://github.com/DavidBerdik/Let-Me-Downgrade) - Downgrade Apps on Android 12/13 / Root
 * [APKAdmin](https://apkadmin.com/) - APK Hosting Site
 
+***
+
 ## ▷ ReVanced Tools
 
 * ⭐ **[ReVanced Manager](https://revanced.app/download)** - Android App Patcher / [GmsCore](https://github.com/ReVanced/GmsCore/) / [Discord](https://discord.com/invite/rF2YcEjcrT)
 * ⭐ **[ReVanced MMT](https://kazimmt.github.io/)** or [ReVanced Trouble​shooting Guide](https://sodawithoutsparkles.github.io/revanced-troubleshooting-guide/) - Unofficial ReVanced Docs, Guides, and Troubleshooting
 * [ReVanced Auto-Update](https://rentry.co/revanced-auto-update) - Update ReVanced Apps Automatically
-
-Automated Patchers:
-* [revanced-magisk-module](https://github.com/j-hc/revanced-magisk-module/releases) / [Telegram](https://t.me/rvc_magisk)
-* [revanced-apks](https://github.com/revanced-apks/build-apps/releases) / [Telegram](https://t.me/revanced_apks_web)
-* [docker-py-revanced](https://github.com/nikhilbadyal/docker-py-revanced/releases)
-* [AT-YT](https://github.com/Zenlua/AT-YT)
-
-CLI Patchers:
-* [revanced-cli](https://github.com/ReVanced/revanced-cli/)
-* [Auto-CLI](https://github.com/taku-nm/auto-cli/)
-* [Revancify](https://github.com/decipher3114/Revancify)
-* [revanced-creator](https://github.com/XDream8/revanced-creator)
+* [ReVanced Magisk Module](https://github.com/j-hc/revanced-magisk-module) / [Telegram](https://t.me/rvc_magisk) - Pre-built ReVanced APKs
+* [Docker-Py-ReVanced](https://nikhilbadyal.github.io/docker-py-revanced/) / [GitHub](https://github.com/nikhilbadyal/docker-py-revanced) - Build APKs with Python
+* [ReVanced CLI](https://github.com/ReVanced/revanced-cli) / [Automated](https://github.com/taku-nm/auto-cli/), [2](https://github.com/XDream8/revanced-creator) - CLI Patcher
+* [Revancify](https://github.com/decipher3114/Revancify) - Termux-compatible CLI Patcher
 
 ***
 
@@ -610,10 +604,6 @@ CLI Patchers:
 ## ▷ Maps / Location
 
 * ↪️ **[Navigation / Transport Apps](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc/#wiki_.25B7_navigation_.2F_transport)**
-
-* ⭐ **[AccuWeather](https://app.accuweather.com/app-download)** / [Premium](https://forum.mobilism.org/search.php?keywords=accuweather&fid%5B%5D=398&sr=topics&sf=titleonly)
-* [Breezy Weather](https://github.com/breezy-weather/breezy-weather), [Clima](https://codeberg.org/Lacerte/clima), [Rain](https://github.com/DarkMooNight/Rain), [KWeather](https://invent.kde.org/utilities/kweather), [WeatherWise](https://github.com/MGAndroidProjects/WeatherWise-Releases), [Flux](https://play.google.com/store/apps/details?id=de.bendix.flux), [Bura](https://github.com/davidtakac/bura) or [OMWeather](https://github.com/woheller69/omweather) - Weather Apps
-
 * [Tides Near Me](https://play.google.com/store/apps/details?id=me.tidesnear.free) - Tide Tracking App
 * [FindMyDevice](https://gitlab.com/Nulide/findmydevice), [phonetrack](https://gitlab.com/eneiluj/phonetrack-oc) / [2](https://gitlab.com/eneiluj/phonetrack-android) or [AutoWhatsAppTriggers](https://play.google.com/store/apps/details?id=om.roitman.autowhatsapptriggers) - Track Phones Location
 * [OwnTracks](https://owntracks.org/), [Hauk](https://github.com/bilde2910/Hauk), [Positional](https://github.com/Hamza417/Positional) / [2](https://github.com/mtrewartha/positional), [GPSCockpit](https://github.com/woheller69/gpscockpit), [GPSTest](https://play.google.com/store/apps/details?id=com.android.gpstest) or [GnssLogger](https://play.google.com/store/apps/details?id=com.google.android.apps.location.gps.gnsslogger) - Track Own Location / GPS
@@ -629,7 +619,20 @@ CLI Patchers:
 * [Transportr](https://transportr.app/) - Public Transport Assistant
 * [Fuel.io](https://fuel.io/) - Vehicle Fuel Tracking
 * [Aftership](https://play.google.com/store/apps/details?id=com.aftership.AfterShip&hl=en&gl=US) - Package Tracker
-* [SuntimesWidget](https://github.com/forrestguice/SuntimesWidget) - Sun / Moon Light Time App
+
+***
+
+## ▷ Weather Apps
+
+* ⭐ **[AccuWeather](https://app.accuweather.com/app-download)** / [Premium](https://forum.mobilism.org/search.php?keywords=accuweather&fid%5B%5D=398&sr=topics&sf=titleonly)
+* [Breezy Weather](https://github.com/breezy-weather/breezy-weather)
+* [Clima](https://codeberg.org/Lacerte/clima)
+* [Rain](https://github.com/DarkMooNight/Rain)
+* [KWeather](https://invent.kde.org/utilities/kweather)
+* [WeatherWise](https://github.com/MGAndroidProjects/WeatherWise-Releases)
+* [Bura](https://github.com/davidtakac/bura)
+* [omWeather](https://github.com/woheller69/omweather)
+* [Suntimes](https://github.com/forrestguice/SuntimesWidget) - Sunlight / Moonlight Display App
 
 ***
 
@@ -877,10 +880,10 @@ CLI Patchers:
 * ⭐ **[Tubular](https://github.com/polymorphicshade/Tubular)** - Ad-free YouTube / SponsorBlock / ReturnYTDislikes
 * ⭐ **[Seal](https://github.com/JunkFood02/Seal)**, [YouTubeDL Android](https://github.com/yausername/youtubedl-android), [ytdlnis](https://github.com/deniscerri/ytdlnis) or [SongTube](https://github.com/SongTube/SongTube-App) - YouTube Audio / Video Downloaders
 * [GrayJay](https://grayjay.app/) - YouTube, Twitch, Rumble etc / [Gitlab](https://gitlab.futo.org/videostreaming/grayjay) / [Plugins](https://gitlab.futo.org/videostreaming/plugins)
-* [Clipious](https://github.com/lamarios/clipious) - YouTube Frontend
+* [Clipious](https://github.com/lamarios/clipious) - Android Invidious Client
 * [Hyperion](https://github.com/zt64/Hyperion) - YouTube Frontend
-* [SkyTube](https://github.com/SkyTubeTeam/SkyTube)
-* [FreeTubeAndroid](https://github.com/MarmadileManteater/FreeTubeCordova)
+* [SkyTube](https://github.com/SkyTubeTeam/SkyTube) - Youtube Player
+* [FreeTube Android](https://github.com/MarmadileManteater/FreeTubeCordova) - Youtube Player
 * [Float Tube](https://play.google.com/store/apps/details?id=com.xpp.tubeAssistant) - Floating YouTube Player
 * [VideoSummarizer](https://videosummarizer.net/) - YouTube Video Summaries
 
