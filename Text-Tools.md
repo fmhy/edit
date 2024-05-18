@@ -228,7 +228,6 @@
 * [Standard Notes](https://standardnotes.com/)
 * [KeyNote NF](https://github.com/dpradov/keynote-nf)
 * [Notes](https://www.get-notes.com/)
-* [BeaverNotes](https://beavernotes.com/)
 * [TinyList](https://tinylist.app/)
 * [SilentNotes](https://www.martinstoeckli.ch/silentnotes/) / [github](https://github.com/martinstoeckli/SilentNotes)
 * [QOwnNotes](https://www.qownnotes.org/)
