@@ -140,7 +140,7 @@
 * ⭐ **[ReVanced Manager](https://revanced.app/download)** - Android App Patcher / [GmsCore](https://github.com/ReVanced/GmsCore/) / [Discord](https://discord.com/invite/rF2YcEjcrT)
 * ⭐ **[ReVanced MMT](https://kazimmt.github.io/)** or [ReVanced Trouble​shooting Guide](https://sodawithoutsparkles.github.io/revanced-troubleshooting-guide/) - Unofficial ReVanced Docs, Guides, and Troubleshooting
 * [ReVanced Auto-Update](https://rentry.co/revanced-auto-update) - Update ReVanced Apps Automatically
-* [ReVanced Magisk Module](https://github.com/j-hc/revanced-magisk-module) / [Telegram](https://t.me/rvc_magisk) - Pre-built ReVanced APKs
+* [ReVanced APKs](https://revanced-apks.pages.dev/) / [GitHub](https://github.com/revanced-apks/build-apps) or [ReVanced Magisk Module](https://github.com/j-hc/revanced-magisk-module) / [Telegram](https://t.me/rvc_magisk) - Pre-built ReVanced APKs
 * [Docker-Py-ReVanced](https://nikhilbadyal.github.io/docker-py-revanced/) / [GitHub](https://github.com/nikhilbadyal/docker-py-revanced) - Build APKs with Python
 * [ReVanced CLI](https://github.com/ReVanced/revanced-cli) / [Automated](https://github.com/taku-nm/auto-cli/), [2](https://github.com/XDream8/revanced-creator) - CLI Patcher
 * [Revancify](https://github.com/decipher3114/Revancify) - Termux-compatible CLI Patcher
