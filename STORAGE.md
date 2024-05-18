@@ -55,7 +55,7 @@
 * [Finamp](https://github.com/jmshrv/finamp) - Jellyfin Music Player
 * [Ultrasonic](https://gitlab.com/ultrasonic/ultrasonic) - Subsonic Clients
 
-[Harmonoid](https://harmonoid.com/), [VLC for Android](https://www.videolan.org/vlc/download-android.html), [mpv-android](https://github.com/mpv-android/mpv-android), [Foobar2000](https://www.foobar2000.org/apk), [Vanilla Music](https://vanilla-music.github.io/), [Retro Music Player](https://retromusic.app/), [Auxio](https://github.com/OxygenCobalt/Auxio/), [Apollo Music Player](https://github.com/nuclearfog/Apollo-Music), [Music Player GO](https://github.com/enricocid/Music-Player-GO), [Nyx Music Player](https://play.google.com/store/apps/details?id=com.awedea.nyx), [ExoPlayer](https://github.com/google/ExoPlayer), [mucke](https://github.com/moritz-weber/mucke), [Phonograph Plus](https://github.com/chr56/Phonograph_Plus), [Musicmax](https://github.com/TheMusicmax/Musicmax), [Pulse Music](https://play.google.com/store/apps/details?id=com.hardcodecoder.pulse), [Zen Music Player](https://github.com/pakka-papad/Zen), [SimpleMP-Compose](https://github.com/lighttigerXIV/SimpleMP-Compose), [BladePlayer](https://github.com/vhaudiquet/BladePlayer)
+[Harmonoid](https://harmonoid.com/), [VLC for Android](https://www.videolan.org/vlc/download-android.html), [mpv-android](https://github.com/mpv-android/mpv-android), [Foobar2000](https://www.foobar2000.org/apk), [Vanilla Music](https://vanilla-music.github.io/), [Retro Music Player](https://retromusic.app/), [Auxio](https://github.com/OxygenCobalt/Auxio/), [Apollo Music Player](https://github.com/nuclearfog/Apollo-Music), [Music Player GO](https://github.com/enricocid/Music-Player-GO), [Nyx Music Player](https://play.google.com/store/apps/details?id=com.awedea.nyx), [ExoPlayer](https://github.com/google/ExoPlayer), [mucke](https://github.com/moritz-weber/mucke), [Phonograph Plus](https://github.com/chr56/Phonograph_Plus), [Musicmax](https://github.com/TheMusicmax/Musicmax), [Pulse Music](https://play.google.com/store/apps/details?id=com.hardcodecoder.pulse), [Zen Music Player](https://github.com/pakka-papad/Zen), [SimpleMP-Compose](https://github.com/lighttigerXIV/SimpleMP-Compose), [BladePlayer](https://github.com/vhaudiquet/BladePlayer), [Salt Player](https://github.com/Moriafly/SaltPlayerSource)
 
 ***
 
@@ -227,6 +227,7 @@
 * [Phrontistery](https://phrontistery.info/) - Obscure Word Dictionary
 * [LexiLogos](https://www.lexilogos.com/english/index.htm) - Multi Language Dictionary Index
 * [WikiDiff](https://wikidiff.com/) - Difference Between Any Words
+* [Websters 1913](https://www.websters1913.com/) - 1913 Websters Dictionary
 * [Unionpedia](https://en.unionpedia.org/), [Lexipedia](https://www.lexipedia.com/), [VisuWords](https://visuwords.com/) or [WordWeb](https://wordwebs.app/) - Word Connections / Visualizers
 * [DoesNotTranslate](https://doesnottranslate.com/) or [Eunoia](https://eunoia.world/) - Words with No Translation
 * [Tip of my Tongue](https://chir.ag/projects/tip-of-my-tongue/) - Find Words you Can't Remember
@@ -773,7 +774,7 @@
 
 ## PNG Images / Clipart
 
-[CleanPNG](https://www.cleanpng.com/), [PNGWing](https://www.pngwing.com/), [PNGEgg](https://www.pngegg.com/), [AnyRGB](https://www.anyrgb.com/), [HiClipart](https://www.hiclipart.com/), [HDClipArtAll](https://hdclipartall.com/), [pngmart](https://www.pngmart.com/), [pngall](https://www.pngall.com/), [pngplay](https://www.pngplay.com/), [freepngimg](https://www.freepngimg.com/), [KindPNG](https://www.kindpng.com/), [FreePNGLogos](https://www.freepnglogos.com/), [PNGFind](https://www.pngfind.com), [PikPng](https://www.pikpng.com/), [PNGHero](https://pnghero.com/), [PlusPNG](https://pluspng.com/), [PNGHut](https://pnghut.com/), [pinpng](https://pinpng.com/)
+[CleanPNG](https://www.cleanpng.com/), [PNGWing](https://www.pngwing.com/), [PNGEgg](https://www.pngegg.com/), [AnyRGB](https://www.anyrgb.com/), [HiClipart](https://www.hiclipart.com/), [HDClipArtAll](https://hdclipartall.com/), [pngmart](https://www.pngmart.com/), [pngall](https://www.pngall.com/), [pngplay](https://www.pngplay.com/), [freepngimg](https://www.freepngimg.com/), [KindPNG](https://www.kindpng.com/), [FreePNGLogos](https://www.freepnglogos.com/), [PNGFind](https://www.pngfind.com), [PikPng](https://www.pikpng.com/), [PNGHero](https://pnghero.com/), [PlusPNG](https://pluspng.com/), [PNGHut](https://pnghut.com/), [pinpng](https://pinpng.com/), [openclipart](https://openclipart.org)
 
 ***
 
@@ -1132,7 +1133,7 @@
 
 ### Simple Site Creators
 
-[Straw.Page](https://straw.page/), [Own Free Website](https://www.own-free-website.com), [itty.bitty](https://itty.bitty.site/), [mmm](https://build.mmm.page/), [cargo](https://cargo.site/), [Jigsy](https://jigsy.com/), [Temper](https://temper.one/), [Neocities](https://neocities.org/), [Mobirise](https://mobirise.com/), [Silex](https://www.silex.me/), [Publii](https://getpublii.com/), [Eleventy](https://11ty.dev/), [nekoweb](https://nekoweb.org/), [Kinsta](https://kinsta.com/static-site-hosting/)
+[Straw.Page](https://straw.page/), [Own Free Website](https://www.own-free-website.com), [itty.bitty](https://itty.bitty.site/), [mmm](https://build.mmm.page/), [cargo](https://cargo.site/), [Jigsy](https://jigsy.com/), [Temper](https://temper.one/), [Neocities](https://neocities.org/), [Mobirise](https://mobirise.com/), [Silex](https://www.silex.me/), [Publii](https://getpublii.com/), [Eleventy](https://11ty.dev/), [nekoweb](https://nekoweb.org/), [Kinsta](https://kinsta.com/static-site-hosting/), [Pelican](https://getpelican.com/)
 
 ***
 
