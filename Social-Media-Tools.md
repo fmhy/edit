@@ -357,7 +357,7 @@
 * [AnnotationsRestored](https://github.com/isaackd/AnnotationsRestored) or [YouTube Annotations](https://archive.org/details/youtubeannotations) - Restore YouTube Annotations
 * [YouTube Upload Time](https://chromewebstore.google.com/detail/youtube-upload-time/nenoecmaibjcahoahnmeinahlapheblg) - Check YouTube Upload Date
 * [TubeSync](https://github.com/meeb/tubesync) - Sync YouTube Channels / Playlists to a Media Server
-* [Playlist Creator for YouTube](https://chromewebstore.google.com/detail/drag-drop-playlist-creato/aklnkkbopjjemjlkffhamaepagbmblbg) or [Playlists at YouTube](https://playlists.at/youtube/) - Playlists Creators
+* [Playlists at YouTube](https://playlists.at/youtube/) - Playlists Creators
 * [Anon Playlists](https://neverducky.github.io/anonymous-youtube-playlists/) - Create Anon Playlists
 * [ytcc](https://github.com/woefe/ytcc) or [Multiselect](https://addons.mozilla.org/en-US/firefox/addon/multiselect-for-youtube/), [2](https://chromewebstore.google.com/detail/gpgbiinpmelaihndlegbgfkmnpofgfei) - Playlist Managers
 * [playlist.tools](https://playlist.tools/) - YouTube Playlist Reverser
