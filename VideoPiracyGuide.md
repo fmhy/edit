@@ -274,7 +274,6 @@
 * [Cinetimes](https://cinetimes.org/en/) - Public Domain Films
 * [The Travel Film Archive](https://travelfilmarchive.com/) - Public Domain Stock Footage
 * [commons.wikimedia](https://commons.wikimedia.org/wiki/Category:Videos) - Wiki Commons Video Files
-* [Einthusan](https://einthusan.tv/) - South Asian Film Archive
 * [IndianCine](https://indiancine.ma/) - Indian Film Archive
 * [National Film Archive of Japan](https://meiji.filmarchives.jp/) - Japanese Film Archive
 * [TexasArchive](https://texasarchive.org/) - Texas Film Archive
@@ -401,16 +400,16 @@
 
 ## ▷ Live Sports
 
+* ⭐ **[Streamed](https://streamed.su/)** - Sports
 * ⭐ **[Sportsurge](https://sportsurge.net/)** - Sports / Stream Aggregator
 * ⭐ **[FreeSports](https://freesports.to/)** or [TheHomeSport](https://thehomesport.com/) - Sports
 * ⭐ **[Sports Plus](https://en12.sportplus.live/)** - Sports
 * ⭐ **[VIP Box Sports](https://www.viprow.nu/)**, [2](https://vipleague.im/), [3](https://www.vipleague.la/), [4](https://www.vipbox.lc/) - Sports / [More Links](https://rentry.org/894dq2c9)
 * ⭐ **[SportsHub](https://reddit10.sportshub.stream/)** - Sports
 * ⭐ **[TotalSportek](https://totalsportek.pro/)**, [2](https://www.totalsportek.to/) - Sports
-* ⭐ **[OlympicStreams](https://olympicstreams.me/)** - Sports
+* ⭐ **[OlympicStreams](https://olympicstreams.co/)** - Sports
 * ⭐ **[Lord Latifi Streams](https://latifistreams.com/)** - Motorsports / Soccer / [Discord](https://discord.gg/6vr9CW7ZFa)
 * [Flowstreams](https://flowstreams.cx/) - Sports / [Discord](https://discord.gg/streams)
-* [Streamed](https://streamed.su/) - Sports
 * [Sportsurge.club](https://sportsurge.club/) - Sports
 * [1Stream](https://1stream.eu/) - Sports
 * [First Row Sports](https://firstsrowsports.tv/) - Sports

@@ -198,12 +198,13 @@
 
 ## ▷ Linux Video
 
-* ⭐ **[mpv](https://mpv.io/)** - Video Player / [Frontend](https://github.com/celluloid-player/celluloid)
+* ⭐ **[mpv](https://mpv.io/)** - Video Player
+* ⭐ **[Haruna](https://apps.kde.org/haruna/)** or **[Celluloid](https://github.com/celluloid-player/celluloid)** - MPV Frontends
+* ⭐ **[Kdenlive](https://apps.kde.org/kdenlive/)** or [Flowblade](https://jliljebl.github.io/flowblade/) - Video Editors
 * [MultiPlex](https://github.com/pojntfx/multiplex) - Torrent Watch Party / Use VPN
 * [Gromit MPX](https://github.com/bk138/gromit-mpx) - Screen Annotation
-* [Plumber](https://github.com/keshavbhatt/plumber) - Screen Recorder / Clipping
+* [Spectacle](https://apps.kde.org/spectacle/) - Screen Recorder / Clipping
 * [AV Linux](https://www.bandshed.net/avlinux/) - Video / Audio Editor
-* [Flowblade](https://jliljebl.github.io/flowblade/) - Video Editor
 * [4KTUBE](https://github.com/rishabh3354/4KTUBE) or [Video Downloader](https://github.com/Unrud/video-downloader) - Video Downloaders
 * [Peek](https://github.com/phw/peek) - Simple Video / GIF recorder
 * [Linux-Fake-Background-Webcam](https://github.com/fangfufu/Linux-Fake-Background-Webcam/) - Fake Webcam Background
@@ -328,7 +329,7 @@ Linux Gaming Guide
 * [Openconnect VPN Server](https://ocserv.gitlab.io/www/index.html) - Linux SSL VPN Server
 * [DSVPN](https://github.com/jedisct1/dsvpn) - Self-Hosted VPN
 * [wireguird](https://github.com/UnnoTed/wireguird) - Wireguard GUI
-* [vnStat](https://github.com/vergoh/vnstat) - Network Monitor
+* [Netbird](https://github.com/netbirdio/netbird) or [vnStat](https://github.com/vergoh/vnstat) - Network Monitors
 * [Howdy](https://github.com/boltgolt/howdy) - Linux Facial Authentication
 * [ShuffleStacks](https://shufflecake.net/) - Create Hidden Volumes
 * [Collision](https://flathub.org/apps/details/dev.geopjr.Collision) - Check File Hashes
