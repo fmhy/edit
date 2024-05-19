@@ -36,15 +36,18 @@
 * [ImageBoards](https://imageboards.net/), [Chan List](https://archive.is/Npzwl) or [imageboards.json](https://github.com/ccd0/imageboards.json/blob/gh-pages/imageboards.json) - Imageboard Index
 * [Single Serving Sites](https://singleservingsites.cool/) - Single-Purpose Sites
 
-Similar Site Indexes: (needs checking)
-* [Similar Sites](https://www.similarsites.com/)
-* [SimilarWeb](https://www.similarweb.com/)
-* [xRanks](https://xranks.com/)
-* [similarsitesearch](https://www.similarsitesearch.com/)
-* [TopSimilarSites](https://www.topsimilarsites.com/)
-* [odir.us](https://odir.us/)
-* [Sitelike.org](https://www.sitelike.org/)
-* [SitesLike](https://www.siteslike.com/)
+***
+
+## ▷ Alternative Software Sites
+
+* ⭐ **[AlternativeTo](https://alternativeto.net/)** - Crowdsourced Recommendations
+* [SaaSHub](https://www.saashub.com/)
+* [Alternative.me](https://alternative.me/)
+* [opensourcealternative.to](https://www.opensourcealternative.to/) - Open-source Alternatives
+* [TopAlter.com](https://topalter.com/)
+* [ListAlternative](https://www.listalternative.com/)
+* [Appmus](https://appmus.com/)
+* [SimilarSiteSearch](https://www.similarsitesearch.com/), [Sitelike.org](https://www.sitelike.org/), [SitesLike](https://www.siteslike.com/) - Similar Site Lists
 
 ***
 
@@ -852,6 +855,7 @@ Similar Site Indexes: (needs checking)
 * [GreenStash](https://github.com/Pool-Of-Tears/GreenStash) - Savings Tracking App
 * [Pepper](https://www.pepper.com/) - Shopping Community
 * [gedd.it](https://gedd.it/) - Shop via Reddit
+* [Slant](https://www.slant.co/) - "What are the best..." Product Rankings
 * [Randomicle](https://randomicle.com/) - Random Amazon Products
 * [Amazon International Links](https://greasyfork.org/en/scripts/38639-amazon-international-links) - International Amazon Products
 * [Facebook Ad Library](https://www.facebook.com/ads/library/) - Find Deals via Facebook Ad Search
