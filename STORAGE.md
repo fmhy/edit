@@ -37,11 +37,22 @@
 
 ***
 
-## Alternative Software / App Sites
+## Alternative Software / App Sites (needs checking)
 
 * ⭐ **[AlternativeTo](https://alternativeto.net/)**
 
-[Ethical](https://ethical.net/), [Slant](https://www.slant.co/), [SaaSHub](https://www.saashub.com/), [switching.software](https://switching.software/), [Alternative.me](https://alternative.me/), [Top Best Alternatives](https://www.topbestalternatives.com/), [gofoss.net](https://gitlab.com/curlycrixus/gofoss), [Open Source Alternative To](https://www.opensourcealternative.to/), [TopAlter.com](https://topalter.com/), [ListAlternative](https://www.listalternative.com/), [Free Competitors](https://notabug.org/jyamihud/FreeCompetitors), [AppMus](https://appmus.com/)
+* [Ethical](https://ethical.net/)
+* [Slant](https://www.slant.co/)
+* [SaaSHub](https://www.saashub.com/)
+* [switching.software](https://switching.software/)
+* [Alternative.me](https://alternative.me/)
+* [Top Best Alternatives](https://www.topbestalternatives.com/)
+* [gofoss.net](https://gitlab.com/curlycrixus/gofoss)
+* [Open Source Alternative To](https://www.opensourcealternative.to/)
+* [TopAlter.com](https://topalter.com/)
+* [ListAlternative](https://www.listalternative.com/)
+* [Free Competitors](https://notabug.org/jyamihud/FreeCompetitors)
+* [AppMus](https://appmus.com/)
 
 ***
 
