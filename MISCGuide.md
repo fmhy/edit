@@ -38,21 +38,16 @@
 
 ***
 
-## ▷ Alternative Software Sites
+## ▷ Piracy / Site / Tool Indexes (needs checking)
 
-* ⭐ **[AlternativeTo](https://alternativeto.net/)** - Crowdsourced Recommendations
-* [SaaSHub](https://www.saashub.com/)
-* [Alternative.me](https://alternative.me/)
-* [opensourcealternative.to](https://www.opensourcealternative.to/) - Open-source Alternatives
-* [TopAlter.com](https://topalter.com/)
-* [ListAlternative](https://www.listalternative.com/)
-* [Appmus](https://appmus.com/)
-* [SimilarSiteSearch](https://www.similarsitesearch.com/), [Sitelike.org](https://www.sitelike.org/), [SitesLike](https://www.siteslike.com/) - Similar Site Lists
-
-***
-
-## ▷ Site / Tool Indexes (needs checking)
-
+* ⭐ **[/r/Piracy Megathread](https://www.reddit.com/r/Piracy/wiki/megathread)** - Piracy Index / [Mirror](https://rentry.co/megathread)
+* ⭐ **[Awesome Piracy](https://shakil-shahadat.github.io/awesome-piracy/)** - Piracy Index / [Github](https://github.com/Shakil-Shahadat/awesome-piracy)
+* ⭐ **[Ripped](https://ripped.guide/)** - Piracy Index / [Discord](https://discord.ripped.guide/)
+* ⭐ **[/r/PiratedGames Mega](https://rentry.org/pgames)** - Game Piracy Index / [Discord](https://discord.gg/dZWwhUy)
+* ⭐ **[privateersclub](https://megathread.pages.dev/)** - Game Piracy Index / [Discord](https://discord.gg/jz8dUnnD6Q)
+* ⭐ **[The Index](https://theindex.moe)** - Japanese Piracy Index / [Discord](https://discord.gg/Snackbox) / [Wiki](https://thewiki.moe/)
+* ⭐ **[Wotaku](https://wotaku.moe/)** - Japanese Piracy Index
+* ⭐ **[EverythingMoe](https://everythingmoe.com/)** - Japanese Piracy Index
 * [Pixelated Pathways](https://courage-1984.github.io/pixelated-pathways/) / [2](https://rentry.org/Pixelated_Pathways) - Site / Tool Index
 * [Delightful Creative Tools](https://codeberg.org/ADHDefy/delightful-creative-tools) - Site / Tool Index
 * [The More You Know](https://marckoxx.github.io/) - Site / Tool Index
@@ -69,16 +64,16 @@
 
 ***
 
-## ▷ Piracy Wikis
+## ▷ Alternative Software Sites
 
-* ⭐ **[/r/Piracy Megathread](https://www.reddit.com/r/Piracy/wiki/megathread)** - Piracy Index / [Mirror](https://rentry.co/megathread)
-* ⭐ **[Awesome Piracy](https://shakil-shahadat.github.io/awesome-piracy/)** - Piracy Index / [Github](https://github.com/Shakil-Shahadat/awesome-piracy)
-* ⭐ **[Ripped](https://ripped.guide/)** - Piracy Index / [Discord](https://discord.ripped.guide/)
-* ⭐ **[/r/PiratedGames Mega](https://rentry.org/pgames)** - Game Piracy Index / [Discord](https://discord.gg/dZWwhUy)
-* ⭐ **[privateersclub](https://megathread.pages.dev/)** - Game Piracy Index / [Discord](https://discord.gg/jz8dUnnD6Q)
-* ⭐ **[The Index](https://theindex.moe)** - Japanese Piracy Index / [Discord](https://discord.gg/Snackbox) / [Wiki](https://thewiki.moe/)
-* ⭐ **[Wotaku](https://wotaku.moe/)** - Japanese Piracy Index
-* ⭐ **[EverythingMoe](https://everythingmoe.com/)** - Japanese Piracy Index
+* ⭐ **[AlternativeTo](https://alternativeto.net/)** - Crowdsourced Recommendations
+* [SaaSHub](https://www.saashub.com/)
+* [Alternative.me](https://alternative.me/)
+* [opensourcealternative.to](https://www.opensourcealternative.to/) - Open-source Alternatives
+* [TopAlter.com](https://topalter.com/)
+* [ListAlternative](https://www.listalternative.com/)
+* [Appmus](https://appmus.com/)
+* [SimilarSiteSearch](https://www.similarsitesearch.com/), [Sitelike.org](https://www.sitelike.org/), [SitesLike](https://www.siteslike.com/) - Similar Site Lists
 
 ***
 
