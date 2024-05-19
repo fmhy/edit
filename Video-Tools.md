@@ -80,27 +80,23 @@
 * ⭐ **[Encoding Guide](https://sometimes-archives-things.github.io/archived-things/)** / [2](https://encoding-guide.neocities.org/), [MDbook](https://silentaperture.gitlab.io/mdbook-guide/) or [Disc Rip](https://nullish.cat/blog/disc-rip) / [2](https://rentry.org/disc-rip) - Video Encoding / Ripping Guides
 * ⭐ **[Basics to the Art of Remuxing](https://rentry.co/Remuxing)** or [fs927](https://rentry.org/fs927) - Learn how to Remux Videos
 * ⭐ **[MKVToolNix](https://mkvtoolnix.download/)** - MKV Editing Tools
-* ⭐ **[HandBrake](https://handbrake.fr/)** / [Guide](https://www.rapidseedbox.com/blog/guide-to-mastering-handbrake)
+* ⭐ **[HandBrake](https://handbrake.fr/)** - Video Encoding Software / [Guide](https://www.rapidseedbox.com/blog/guide-to-mastering-handbrake)
 * ⭐ **[FFmpeg](https://github.com/FFmpeg/FFmpeg)** or [Axiomui](https://axiomui.github.io/)
 * ⭐ **FFmpeg Tools** - [Autobuild](https://github.com/BtbN/FFmpeg-Builds), [2](https://github.com/m-ab-s/media-autobuild_suite) / [Guide](https://github.com/leandromoreira/ffmpeg-libav-tutorial), [2](https://ffmpeg.guide/) / [Cheat Sheet](https://gist.github.com/steven2358/ba153c642fe2bb1e47485962df07c730) / [Commands](https://alfg.dev/ffmpeg-commander/), [2](https://evanhahn.github.io/ffmpeg-buddy/) / [WebM Converter](https://argorar.github.io/WebMConverter/) / [Preview Filters](https://ffmpeg.lav.io/) / [AI Commands](https://github.com/gstrenge/llmpeg)
 * [Swivel](https://www.newgrounds.com/wiki/creator-resources/flash-resources/swivel) - SWF to Video Converter
 * [DDVT](https://forum.doom9.org/showthread.php?t=183479) - Dolby Vision RPU Demuxing / Injecting / Editing
 * [MKV Muxing Batch GUI](https://github.com/yaser01/mkv-muxing-batch-gui) - Mux Videos
-* [XMedia Recode](https://www.xmedia-recode.de/en/)
-* [staxrip](https://github.com/staxrip/staxrip/) / [Guide](https://telegra.ph/HEVC-Encoding-with-StaxRip-Settings-for-best-compression-included-05-12 )
-* [FastFlix](https://fastflix.org/)
-* [NEAV1E](https://github.com/Alkl58/NotEnoughAV1Encodes)
-* [Video2Edit](https://www.video2edit.com/)
-* [Winnydows](https://winnydows.com/en/)
-* [sickbeard_mp4_automator](https://github.com/mdhiggins/sickbeard_mp4_automator)
-* [FastFlix](https://github.com/cdgriffith/FastFlix)
-* [Video Express Converter](https://vc.germanov.dev/)
-* [Av1an](https://github.com/master-of-zen/Av1an)
-* [Seven Converter](https://converter.sevenbytes.com/) / [GitHub](https://github.com/SevenbytesSoftware/SevenConverter)
-* [nmkoder](https://github.com/n00mkrad/nmkoder)
-* [VideoConverter](https://videoconverter.com/)
-* [Boram](https://github.com/Kagami/boram/)
-* [selur](https://www.selur.de/)
+* [XMedia Recode](https://www.xmedia-recode.de/en/) - Video Conversion
+* [staxrip](https://github.com/staxrip/staxrip/) - Video Encoding / [Guide](https://telegra.ph/HEVC-Encoding-with-StaxRip-Settings-for-best-compression-included-05-12 )
+* [FastFlix](https://fastflix.org/) / [github](https://github.com/cdgriffith/FastFlix) - Video Conversion
+* [NEAV1E](https://github.com/Alkl58/NotEnoughAV1Encodes), [Av1an](https://github.com/master-of-zen/Av1an) -  AV1 Encoding
+* [Winnydows](https://winnydows.com/en/) - Video Conversion Software
+* [sickbeard_mp4_automator](https://github.com/mdhiggins/sickbeard_mp4_automator) - Automate Video Processing
+* [Video Express Converter](https://vc.germanov.dev/) - Online Video Conversion
+* [Seven Converter](https://converter.sevenbytes.com/) / [GitHub](https://github.com/SevenbytesSoftware/SevenConverter) - Video Conversion
+* [nmkoder](https://github.com/n00mkrad/nmkoder) - Media Encoding And Muxing
+* [VideoConverter](https://videoconverter.com/) - Online Video Conversion
+* [selur](https://www.selur.de/) - Video Encoding
 * [vvenc](https://github.com/fraunhoferhhi/vvenc), [vvdec](https://github.com/fraunhoferhhi/vvdec), [VVCEasy](https://github.com/MartinEesmaa/VVCEasy) - VVC Encode / Decode
 
 ***
@@ -392,6 +388,7 @@
 * [VideoCandy](https://videocandy.com/)
 * [vidmix](https://vidmix.app/)
 * [mebm](https://bwasti.github.io/mebm/)
+* [Video2Edit](https://www.video2edit.com/)
 * [Crop Video](https://crop-video.com/) - Crop Videos
 * [LoopVid](https://loopvid.kastden.org/) - Loop Videos
 * [Crossfade](https://crossfade.io/) - Video and Audio Crossfading
