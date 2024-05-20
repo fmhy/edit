@@ -42,10 +42,9 @@
 * ⭐ **[snowbin](https://pastes.fmhy.net/)**, [2](https://paste.fmhy.net/) / [Source](https://github.com/fmhy/snowbin) - Markdown Support
 * ⭐ **[Linqbin](https://linqbin.cc/)** / [Source](https://github.com/daniel-lxs/linqbin) - Plain Text
 * ⭐ **[Katbin](https://katb.in/)** / [Source](https://github.com/sphericalkat/katbin) - Plain Text
-* ⭐ **[WriteXO](https://writexo.com/)** - WYSIWYG Pastebin
 * ⭐ **[Pastebin Search](https://cse.google.com/cse?cx=0cd79b819f26af9d0)** - Pastebin CSE
-* [ZeroBin](https://zerobin.net/) / [.onion](http://zerobinftagjpeeebbvyzjcqyjpmjvynj5qlexwyxe7l3vqejxnqv5qd.onion)- Markdown Support / Syntax Highlighting
-* [BPA](https://bpa.st/) - Multi-Syntax / Markdown Support
+* [ZeroBin.net](https://zerobin.net/) / [.onion](http://zerobinftagjpeeebbvyzjcqyjpmjvynj5qlexwyxe7l3vqejxnqv5qd.onion)- Markdown Support / Syntax Highlighting
+* [bpa.st](https://bpa.st/) - Multi-Syntax / Markdown Support
 * [Mozilla Community Pastebin](https://paste.mozilla.org/) - Multi-Syntax / Markdown Support
 * [dpaste](https://dpaste.org/) / [Source](https://github.com/DarrenOfficial/dpaste) - Multi-Syntax / Markdown Support
 * [cryptgeon](https://cryptgeon.org/) / [Source](https://github.com/cupcakearmy/cryptgeon) - Single View / Plain Text
@@ -56,15 +55,15 @@
 * [Pastebin.com](https://pastebin.com/) - Multi-Syntax
 * [pasteheaven.com](https://pasteheaven.com/) - Multi-Syntax
 * [paste.fo](https://paste.fo/) - Multi-Syntax
-* [bitbin.it](https://bitbin.it/) - Multi-Syntax
+* [BitBin](https://bitbin.it/) - Multi-Syntax
 * [pastebin.pl](https://pastebin.pl/) - Multi-Syntax
-* [Debian Pastezone](https://paste.debian.net/) / [Source](https://github.com/formorer/paste.pl) - Multi-Syntax
 * [CentOS Pastebin](https://paste.centos.org/) - Multi-Syntax
 * [snippet.host](https://snippet.host/) - Multi-Syntax
 * [MicroBin](https://pub.microbin.eu/) / [Source](https://github.com/szabodanika/microbin) - Multi-Syntax
-* [Markdown Pastebin](https://markdownpastebin.com/) - Markdown Support
-* [Riseup Pad](https://pad.riseup.net/) - WYSIWYG Pastebin
+* [MarkdownPastebin](https://markdownpastebin.com/) - Markdown Support
 * [Sparked Paste](https://paste.sparked.host/) - Plain Text / Syntax Highlighting
+* [Riseup Pad](https://pad.riseup.net/) - WYSIWYG Pastebin
+* [WriteXO](https://writexo.com/) - WYSIWYG Pastebin
 
 ***
 
