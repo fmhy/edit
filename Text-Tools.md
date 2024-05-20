@@ -34,7 +34,6 @@
 ## ▷ Pastebins
 
 * 🌐 **[PrivateBin Instances](https://privatebin.info/directory)** / [Disroot Bin](https://bin.disroot.org/), [IDRIX Secure Pastebin](https://bin.idrix.fr/), or [RIN Privatebin](https://privatebin.rinuploads.org/)
-* ↪️ **[Code Pastebins](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/dev-tools#wiki_.25B7_code_pastebins)**
 * ⭐ **[Rentry](https://rentry.co/)** / [CLI](https://github.com/radude/rentry) / [Styling](https://rentry.co/rentry) - Markdown Support
 * ⭐ **[snowbin](https://pastes.fmhy.net/)**, [2](https://paste.fmhy.net/) - Markdown Support
 * ⭐ **[Stellular](https://bundlrs.cc/)** / [Source](https://code.stellular.org/SentryTwo/bundlrs) - Markdown Support
