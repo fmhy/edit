@@ -381,7 +381,7 @@
 * [zone-ebook.com](https://zone-ebook.com/) - Books / Comics / Magazines / Newspapers / Audiobooks
 * [Audiocite](https://www.audiocite.net/) - Audiobooks
 * [nooSFere](https://www.noosfere.org/) - Science Fiction
-* [Origines](https://discord.com/invite/origines) - Manga / Manhwa / Manhua / NSFW
+* [Origines](https://discord.com/invite/origines) - Manga / Manhwa / Manhua / NSFW / Discord
 * [mangadraft](https://www.mangadraft.com/) - Manga / Comics / Webtoons / Light-Novels
 * [Planet-DB](https://planete-bd.org/) - Manga / Comics
 * [mangascan](https://mangascan-fr.co/), [2](https://scansmangas.me/), [3](https://scanmanga-vf.me/) - Manga
@@ -721,7 +721,7 @@
 * [Sukidesuost](https://sukidesuost.info/) - Music / MP3 / FLAC
 * [HikariNoAkari](https://hikarinoakari.com/) - Music / MP3 / FLAC
 * [JPop Singles](https://www.jpopsingles.eu/) - Music / MP3 / FLAC
-* [Doujin Cafe](https://discord.gg/doujincafe) - Music / MP3 / FLAC
+* [Doujin Cafe (Discord)](https://discord.gg/doujincafe) - Music / MP3 / FLAC
 * [DoujinStyle](https://doujinstyle.com/) - Music / MP3 / FLAC
 * [J-pop Music Download](https://jpop.xyz/) - Music / MP3 / FLAC
 * [MinimumMusic](https://minimummusic.com/) - FLAC / MP3 / FLAC
@@ -1566,7 +1566,7 @@
 # ► Swedish
 
 * [Eniro](https://www.eniro.se/) - Search
-* [CyberSkills](https://discord.com/invite/2tTwMvbSXu) - Cybersecurity Community
+* [CyberSkills](https://discord.com/invite/2tTwMvbSXu) - Cybersecurity Discord
 
 ## ▷ Streaming
 

@@ -539,7 +539,7 @@ Linux Gaming Guide
 * [Orion](https://kagi.com/orion/) - Browser w/ Chrome + Firefox Extension Support / [Discord](https://discord.com/invite/gKh5E6ys6D)
 * [Strongbox](https://strongboxsafe.com/) - Password Manager
 * [Maccy](https://maccy.app/) or [TRex](https://trex.ameba.co/) - Clipboard Managers
-* [Left on Read](https://leftonread.me/) or [PyPush](https://github.com/JJTech0130/pypush) /[Discord](https://discord.gg/BVvNukmfTC) - iMessage Clients
+* [Left on Read](https://leftonread.me/) or [PyPush](https://github.com/JJTech0130/pypush) / [Discord](https://discord.gg/BVvNukmfTC) - iMessage Clients
 * [LlamaChat](https://www.llamachat.app/) - Llama AI Chat
 * [MacBing](https://goodsnooze.gumroad.com/l/macbing) - Bing Chat
 * [ViennaRSS](https://www.vienna-rss.com/) - RSS Feed Reader

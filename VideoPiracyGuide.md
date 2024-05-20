@@ -479,7 +479,7 @@
 * [MMACore](https://www.mma-core.com) - MMA Replays
 * [BoxingVideo](https://boxingvideo.org/) - Boxing Replays
 * [Miselet](https://vk.com/video/@miselet) - Sumo Wrestling Replays
-* [NattoSumo](https://discord.gg/nattosumo) - Sumo Wrestling Highlights
+* [NattoSumo](https://discord.gg/nattosumo) - Sumo Wrestling Highlights Discord
 * [AllTheBestFights](https://www.allthebestfights.com/) - MMA / Boxing / Kickboxing Replays
 * [TNA / Impact Replays](https://www.youtube.com/playlist?list=PLSadBNbijyoGV44wd96Fda7-GDYh9UktC) - TNA / Impact Wrestling Replays
 * [/r/MotorsportsReplays](https://reddit.com/r/MotorsportsReplays) - Motorsports Replays
@@ -565,7 +565,7 @@
 * [CondensedAudioCatalog](https://condensedaudiocatalog.com/) - Asian Drama / 1080p
 * [DoraMax264](https://doramax264.com/) - Asian Drama / 480p
 * [Toku.fun](https://toku.fun/) - Japanese Superhero Movies / 360p
-* [Jackass Vault](https://discord.gg/ZH5MjcKmJJ) - Jackass Media
+* [Jackass Vault](https://discord.gg/ZH5MjcKmJJ) - Jackass Media Discord
 * [IRC Movie Channels](https://pastebin.com/2AeYizZK)
 * [mov-cli](https://mov-cli.github.io/) - Streaming / Downloading CLI
 * [IMDb-Scout-Mod](https://github.com/Purfview/IMDb-Scout-Mod) - Add Download Site Results to IMDb
