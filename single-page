@@ -7011,28 +7011,37 @@ Use this [browser extension](https://github.com/bpc-clone/bpc_updates/releases) 
 
 ## ▷ Pastebins
 
-* 🌐 **[PrivateBin Instances](https://privatebin.info/directory)** / [Disroot Bin](https://bin.disroot.org/), [IDRIX Secure Pastebin](https://bin.idrix.fr/), or [RIN Privatebin](https://privatebin.rinuploads.org/)
+* 🌐 **[PrivateBin Instances](https://privatebin.info/directory)**
 * ⭐ **[Rentry](https://rentry.co/)** / [CLI](https://github.com/radude/rentry) / [Styling](https://rentry.co/rentry) - Markdown Support
-* ⭐ **[snowbin](https://pastes.fmhy.net/)**, [2](https://paste.fmhy.net/) - Markdown Support
-* ⭐ **[Stellular](https://bundlrs.cc/)** / [Source](https://code.stellular.org/SentryTwo/bundlrs) - Markdown Support
-* ⭐ **[pastes.dev](https://pastes.dev/)** - Markdown Support
-* ⭐ **[PrivateBin](https://privatebin.net/)** / [Home Page](https://privatebin.info/) - Markdown Support
-* ⭐ **[Linqbin](https://linqbin.cc/)** - Text Only
-* ⭐ **[Katbin](https://katb.in/)** - Text Only
-* ⭐ **[WriteXO](https://writexo.com/)** - WYSIWYG Pastebin
+* ⭐ **[Github Gists](https://gist.github.com/)** - Multi-Syntax / Account Needed
+* ⭐ **[Stellular](https://stellular.net/)**, [2](https://bundlrs.cc/), [3](https://www.sentrytwo.com/) / [Source](https://code.stellular.org/stellular/bundlrs) - Markdown Support
+* ⭐ **[pastes.dev](https://pastes.dev/)** / [Source](https://github.com/lucko/paste) - Multi-Syntax / Markdown Support
+* ⭐ **[PrivateBin](https://privatebin.net/)** / [Source](https://github.com/PrivateBin/PrivateBin) - Markdown Support / Syntax Highlighting
+* ⭐ **[snowbin](https://pastes.fmhy.net/)**, [2](https://paste.fmhy.net/) / [Source](https://github.com/fmhy/snowbin) - Markdown Support
+* ⭐ **[Linqbin](https://linqbin.cc/)** / [Source](https://github.com/daniel-lxs/linqbin) - Plain Text
+* ⭐ **[Katbin](https://katb.in/)** / [Source](https://github.com/sphericalkat/katbin) - Plain Text
 * ⭐ **[Pastebin Search](https://cse.google.com/cse?cx=0cd79b819f26af9d0)** - Pastebin CSE
-* [Rlim](https://rlim.com/) - Markdown Support
-* [ZeroBin](https://zerobin.net/) - Markdown Support
-* [BPA](https://bpa.st/) - Markdown Support
-* [Markdown Pastebin](https://markdownpastebin.com/) - Markdown Support
-* [Sparked Paste](https://paste.sparked.host/) - Text Only
-* [Telegraph](https://telegra.ph/) - Text Only
-* [BlackHost](https://blackhost.xyz/?id=pst) - Text Only
-* [ProtectedText](https://www.protectedtext.com/) - Text Only
-* [MicroBin](https://microbin.eu/) - Self-Hosted
-* [Snips.sh](https://snips.sh/) - Self-Hosted
+* [ZeroBin.net](https://zerobin.net/) / [.onion](http://zerobinftagjpeeebbvyzjcqyjpmjvynj5qlexwyxe7l3vqejxnqv5qd.onion)- Markdown Support / Syntax Highlighting
+* [bpa.st](https://bpa.st/) - Multi-Syntax / Markdown Support
+* [Mozilla Community Pastebin](https://paste.mozilla.org/) - Multi-Syntax / Markdown Support
+* [dpaste](https://dpaste.org/) / [Source](https://github.com/DarrenOfficial/dpaste) - Multi-Syntax / Markdown Support
+* [cryptgeon](https://cryptgeon.org/) / [Source](https://github.com/cupcakearmy/cryptgeon) - Single View / Plain Text
+* [Paste.ee](https://paste.ee/) - Multi-Syntax / Markdown Support
+* [pst.moe](https://pst.moe/) / [Source](https://git.fuwafuwa.moe/lesderid/pastethingy) - Multi-Syntax / Markdown Support
+* [dpaste.com](https://dpaste.com/) - Multi-Syntax / Markdown Support
+* [pastebin.ai](https://pastebin.ai/) - Multi-Syntax / Markdown Support
+* [Pastebin.com](https://pastebin.com/) - Multi-Syntax
+* [pasteheaven.com](https://pasteheaven.com/) - Multi-Syntax
+* [paste.fo](https://paste.fo/) - Multi-Syntax
+* [BitBin](https://bitbin.it/) - Multi-Syntax
+* [pastebin.pl](https://pastebin.pl/) - Multi-Syntax
+* [CentOS Pastebin](https://paste.centos.org/) - Multi-Syntax
+* [snippet.host](https://snippet.host/) - Multi-Syntax
+* [MicroBin](https://pub.microbin.eu/) / [Source](https://github.com/szabodanika/microbin) - Multi-Syntax
+* [MarkdownPastebin](https://markdownpastebin.com/) - Markdown Support
+* [Sparked Paste](https://paste.sparked.host/) - Plain Text / Syntax Highlighting
 * [Riseup Pad](https://pad.riseup.net/) - WYSIWYG Pastebin
-* [cryptgeon](https://cryptgeon.org/) - Single View Pastebin
+* [WriteXO](https://writexo.com/) - WYSIWYG Pastebin
 
 ***
 
