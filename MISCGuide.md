@@ -117,9 +117,6 @@
 * 🌐 **[/m/food](https://www.reddit.com/user/Siryonkee/m/food/)** - Food Multireddit
 * 🌐 **[MapOfTheBest](https://mapofthebest.com/)** - Top Restaurant List
 * ↪️ **[Food Storage Tips](https://i.redd.it/qmcas4yuc2w81.png)** / [2](https://i.ibb.co/SKq3GT7/ca6f633c898b.png)
-* ⭐ **[Tandoor Recipes](https://docs.tandoor.dev/)**, [Cooked](https://cooked.wiki/) or [Pestle](https://pestlechef.app/) - Recipe Managers
-* ⭐ **[Just the Recipe](https://www.justtherecipe.com/)**, [WheresTheDish](https://www.wheresthedish.com/), [Copy Me That](https://www.copymethat.com/) or [PlainOldRecipe](https://www.plainoldrecipe.com/) - Extract Recipes from Sites / [Firefox](https://addons.mozilla.org/en-US/firefox/addon/recipe-filter/) / [Chrome](https://chromewebstore.google.com/detail/ahlcdjbkdaegmljnnncfnhiioiadakae)
-* ⭐ **[SuperCook](https://www.supercook.com/)** - Recipe Search
 * ⭐ **[Baking Calculators](https://bakingcalculators.com/)** - Measurement System Conversion Calculators
 * ⭐ **[Grocy](https://grocy.info/)** / [Android](https://patrickzedler.com/grocy/), [Listonic](https://new.app.listonic.com/en) or [Kitchen Owl](https://f-droid.org/en/packages/com.tombursch.kitchenowl/) - Grocery Managers
 * ⭐ **[Sporked](https://sporked.com/)** - Packaged Food Reviews
@@ -128,6 +125,28 @@
 * [KitchenConfidentials](https://kitchenconfidentials.com/) - Anonymous Food & Restaurant Reviews / [Subreddit](https://www.reddit.com/r/KitchenConfidential/)
 * [FoodExpirationDates](https://github.com/lorenzovngl/FoodExpirationDates) - Food Expiration Tracker
 * [cookEbooks](https://cookebooks.info/) - Cookbooks
+* [Dish Dragon AI](https://www.dishdragon.ai/) - Find Ingredients That Go Well Together
+* [Cheese.com](https://cheese.com/) - Cheese Resources
+* [Tea Guide](https://pastebin.com/raw/80GeeXJV) - Tea Guide Masterlist
+* [Coffee Guide](https://pastebin.com/raw/UEzwuyLz) - Coffee Guide Masterlist
+* [Coffee or Bust!](https://www.coffeeorbust.com/) - Coffee-Making Guides
+* [Cofi](https://github.com/rozPierog/Cofi) - Coffee Brew Timer / [Note](https://pastebin.com/qTSJek6f)
+* [NahBucks](https://nahbucks.com/) - Find Local Non-Starbucks Coffee Shops
+* [Coffee Flavor Wheel](https://notbadcoffee.com/flavor-wheel-en/) - Interactive Coffee Flavor Wheel
+* [DrinNnation](https://www.drinknation.com/bar) or [MyBar](https://makemeacocktail.com/mybar/) - Cocktail Builders
+* [Drinkable](https://github.com/MOIMOB/drinkable) - Create Cocktails from Home Ingredients
+* [Parsnip](https://www.parsnip.ai/) - Cooking Lessons / Skill Tracking App
+* [/r/Cooking](https://reddit.com/r/Cooking) - Cooking Discussion / Tips
+* [/r/AskCulinary](https://reddit.com/r/AskCulinary) - Get Cooking Advice
+* [FermenThings](https://wiki.fermenthings.be/) - Fermentation Wiki
+
+***
+
+## ▷ Recipes
+
+* ⭐ **[Tandoor Recipes](https://docs.tandoor.dev/)**, [Cooked](https://cooked.wiki/) or [Pestle](https://pestlechef.app/) - Recipe Managers
+* ⭐ **[Just the Recipe](https://www.justtherecipe.com/)**, [WheresTheDish](https://www.wheresthedish.com/), [Copy Me That](https://www.copymethat.com/) or [PlainOldRecipe](https://www.plainoldrecipe.com/) - Extract Recipes from Sites / [Firefox](https://addons.mozilla.org/en-US/firefox/addon/recipe-filter/) / [Chrome](https://chromewebstore.google.com/detail/ahlcdjbkdaegmljnnncfnhiioiadakae)
+* ⭐ **[SuperCook](https://www.supercook.com/)** - Recipe Search
 * [PunchFork](https://www.punchfork.com/) - Recipes
 * [Search-22](https://search-22.com/recipe-search-tools) - Multi-Site Recipe Search
 * [Wikibook Recipes](https://en.wikibooks.org/wiki/Category:Cookbook) - Recipe Wiki
@@ -141,25 +160,11 @@
 * [Recipeeper](https://www.recipeeper.com/) - Dietary-Based Recipes
 * [TasteAtlas](https://www.tasteatlas.com/) - Recipe Map
 * [CookingForEngineers](https://www.cookingforengineers.com/) - Recipes / Cooking Tests
-* [Dish Dragon AI](https://www.dishdragon.ai/) - Find Ingredients That Go Well Together
-* [Cheese.com](https://cheese.com/) - Cheese Resources
 * [AmazingRibs](https://amazingribs.com/) - Rib Recipes
 * [The Bread Code Manifesto](https://github.com/hendricius/the-sourdough-framework) - Bread Baking Recipes
-* [Tea Guide](https://pastebin.com/raw/80GeeXJV) - Tea Guide Masterlist
-* [Coffee Guide](https://pastebin.com/raw/UEzwuyLz) - Coffee Guide Masterlist
-* [Coffee or Bust!](https://www.coffeeorbust.com/) - Coffee-Making Guides
-* [Cofi](https://github.com/rozPierog/Cofi) - Coffee Brew Timer / [Note](https://pastebin.com/qTSJek6f)
-* [NahBucks](https://nahbucks.com/) - Find Local Non-Starbucks Coffee Shops
-* [Coffee Flavor Wheel](https://notbadcoffee.com/flavor-wheel-en/) - Interactive Coffee Flavor Wheel
-* [DrinNnation](https://www.drinknation.com/bar) or [MyBar](https://makemeacocktail.com/mybar/) - Cocktail Builders
-* [Drinkable](https://github.com/MOIMOB/drinkable) - Create Cocktails from Home Ingredients
 * [Historical Recipes](https://l-lists.com/en/lists/55cbww.html) - Historical Recipes
-* [Parsnip](https://www.parsnip.ai/) - Cooking Lessons / Skill Tracking App
-* [/r/Cooking](https://reddit.com/r/Cooking) - Cooking Discussion / Tips
 * [/r/GifRecipes](https://reddit.com/r/GifRecipes) - Recipes in GIF Format
 * [/r/recipes](https://reddit.com/r/recipes) - Share Recipes
-* [/r/AskCulinary](https://reddit.com/r/AskCulinary) - Get Cooking Advice
-* [FermenThings](https://wiki.fermenthings.be/) - Fermentation Wiki
 
 ***
 
@@ -193,15 +198,12 @@
 * ⭐ **[Atlas Obscura](https://www.atlasobscura.com/)**, [Turas](https://turas.app/), [CountryReports](https://www.countryreports.org/), [Wikivoyage](https://www.wikivoyage.org), [WikiTravel](https://wikitravel.org/) or [Wanderlog](https://wanderlog.com/guides) - Travel Guides
 * ⭐ **[JourneyPlan](https://journeyplan.co)**, [RoamAround](https://www.roamaround.io/), [TravelPlan](https://www.travelplan-ai.com/#get-trip) or [Eddy](https://chat.eddytravels.com/) - Trip Planning AIs
 * ⭐ **[twkids](https://www.twkids.app/)** - Find Theme Parks, Water Parks, Zoo's etc.
-* ⭐ **[Passport Index](https://www.passportindex.org/)** - Passport Ratings
-* ⭐ **[Visa Guide](https://visaguide.world/)** or [VisaIndex](https://visaindex.com/) - Worldwide Travel Visa Guides
 * ⭐ **[Borderless](https://borderless.safetywing.com/)** - Travel Restrictions Guide
 * ⭐ **[MapChecking](https://www.mapchecking.com/)** - Crowd Size Estimation
 * ⭐ **[Gas Price Map](https://www.gasbuddy.com/gaspricemap)** - US Gas Prices
 * ⭐ **[Parkopedia](https://www.parkopedia.com/)** - Car Parking Locations and Prices
 * ⭐ **[Refuge Restrooms](https://www.refugerestrooms.org/)** - Find Public Restrooms
 * [Packdensack](https://packdensack.com/) - Travel Packing List Generator
-* [Best Times to Visit](https://www.thebesttimetovisit.com/) - Find Best Times to Visit Countries
 * [Roadside America](https://www.roadsideamerica.com/), [RoadTrippers](https://roadtrippers.com/) or [MakeMyDriveFun](https://makemydrivefun.com/) - Roadside Attraction Guides
 * [TheSalmons](https://www.thesalmons.org/lynn/whgmap.html) - World Heritage Sites
 * [SongKick](https://www.songkick.com/) or [FindYourFest](https://www.findyourfest.com/) - Find Concerts / Music Festivals
@@ -220,12 +222,14 @@
 * [eSIMDB](https://esimdb.com/) - Compare eSIM Prices
 * [Travel Safe](https://www.travelsafe-abroad.com/) - Travel Destination Safety Ratings
 * [Hate Map](https://www.splcenter.org/hate-map) - Hate Group Locations
-* [LiveUAMap](https://liveuamap.com/) - Ukraine Conflict Areas LiveFeed
 
 ***
 
 ## ▷ Flights
 
+* ⭐ **[Passport Index](https://www.passportindex.org/)** - Passport Ratings
+* ⭐ **[Visa Guide](https://visaguide.world/)** or [VisaIndex](https://visaindex.com/) - Worldwide Travel Visa Guides
+* [Best Times to Visit](https://www.thebesttimetovisit.com/) - Find Best Times to Visit Countries
 * [Airline List](https://airlinelist.com/) - Airline Comparisons
 * [Google Flights](https://www.google.com/travel/flights) - Book Flights
 * [AZair](https://www.azair.eu/) - Flight Price Aggregator
