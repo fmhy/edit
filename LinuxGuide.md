@@ -401,6 +401,7 @@ Linux Gaming Guide
 * ⭐ **[Baobab](https://gitlab.gnome.org/GNOME/baobab)** - Disk Usage Analyzer
 * [ANGRYsearch](https://github.com/DoTheEvo/ANGRYsearch), [CatCLI](https://github.com/deadc0de6/catcli), [xplr](https://xplr.dev/) / [GitHub](https://github.com/sayanarijit/xplr) / [Discord](https://discord.com/invite/JmasSPCcz3), [logo-ls](https://github.com/Yash-Handa/logo-ls), [ugrep](https://ugrep.com) / [GitHub](https://github.com/Genivia/ugrep) or [Achoz](https://github.com/kcubeterm/achoz) - File Explorers
 * [Collector](https://mijorus.it/projects/collector/) - File Drag & Drop
+* [Bash Upload](https://bashupload.com/) - Bash File Upload 50GB / 3 days
 * [z](https://github.com/rupa/z) - Track Most used Directories
 * [Dolphin](https://userbase.kde.org/Dolphin) or [SpaceFM](https://ignorantguru.github.io/spacefm/) - File Managers
 * [p7zip](https://p7zip.sourceforge.net/), [GNU Gzip](https://www.gnu.org/software/gzip/) or [pigz](https://zlib.net/pigz/) - File Archivers / Unzippers
