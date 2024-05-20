@@ -226,6 +226,7 @@
 * [Words to Use](https://www.words-to-use.com/) - Find Alternative Words
 * [Phrontistery](https://phrontistery.info/) - Obscure Word Dictionary
 * [LexiLogos](https://www.lexilogos.com/english/index.htm) - Multi Language Dictionary Index
+* [Reverse Dictionary](https://reverse-dictionary.virock.org/) - Lookup Words via Phrases
 * [WikiDiff](https://wikidiff.com/) - Difference Between Any Words
 * [Websters 1913](https://www.websters1913.com/) - 1913 Websters Dictionary
 * [Unionpedia](https://en.unionpedia.org/), [Lexipedia](https://www.lexipedia.com/), [VisuWords](https://visuwords.com/) or [WordWeb](https://wordwebs.app/) - Word Connections / Visualizers
@@ -926,6 +927,7 @@
 * [M4uHD.tv](https://ww1.m4uhd.tv/) / [2](https://ww1.m4uhd.cc/) / [3](https://m4uhd.to/)
 * [Streamm4u](https://streamm4u.ws/) / [2](https://ww1.streamm4u.tv/) / [3](https://ww1.streamm4u.net/)
 * [M4uMV.org](https://m4umv.org/)
+* [MoviesM4U](https://moviesm4u.net/)
 
 ***
 
