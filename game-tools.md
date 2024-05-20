@@ -288,7 +288,7 @@
 * [bspview](https://sbuggay.github.io/bspview) / [GitHub](https://github.com/sbuggay/bspview) - Explore Quake & GoldSRC Maps
 * [NES Maps](https://www.nesmaps.com/) - NES Game Maps
 * [SNES Maps](https://www.snesmaps.com/) - SNES Game Maps
-* [Forgehub](https://www.forgehub.com/) - Halo Maps/ [Discord](https://discord.com/invite/ybGX7sv)
+* [Forgehub](https://www.forgehub.com/) - Halo Maps / [Discord](https://discord.com/invite/ybGX7sv)
 * [Zelda BotW Street View](https://nassimsoftware.github.io/zeldabotwstreetview/) - Breath of The Wild Map
 * [Palworld Interactive](https://palworld.th.gl/) - Palworld Map
 * [Fortnite.gg](https://fortnite.gg/) - Fortnite Map, Guides, Skins etc.
@@ -313,7 +313,7 @@
 * [GamesDatabase](https://www.gamesdatabase.org/) - Game Manuals
 * [SNES Manuals](https://sites.google.com/view/snesmanuals) - SNES Game Manuals
 * [FOUR.lol](https://four.lol/) - Tetris Openers Wiki
-* [Underdogs Cup Lounge](https://discord.gg/QCbC9cA) - Tetris Resources & Coaching
+* [Underdogs Cup Lounge](https://discord.gg/QCbC9cA) - Tetris Resources & Coaching Discord
 
 ***
 
@@ -384,8 +384,9 @@
 
 ## ▷ Wii U / Wii Homebrew
 
+* ⭐ **[WiiBrew](https://wiibrew.org/)** - Wii Homebrew Wiki
 * ⭐ **[Wii U Guide](https://wiiu.hacks.guide/)** - Wii U Jailbreak Guide
-* ⭐ **[Wii Guide](https://wii.hacks.guide/)** or [WiiBrew](https://wiibrew.org/) - Wii Jailbreak Guides
+* ⭐ **[Wii Hacks Guide](https://wii.hacks.guide/)** - Wii Jailbreak Guides
 * ⭐ **[Wiimmfi](https://wiimmfi.de/)** - Wii Multiplayer Servers
 * [Pretendo](https://pretendo.network/) - Wii U Network Replacement / [Discord](https://invite.gg/pretendo)
 * [/r/WiiUHacks](https://www.reddit.com/r/WiiUHacks/) - Wii U Homebrew Subreddit
@@ -411,7 +412,7 @@
 * [Luma3DS](https://github.com/LumaTeam/Luma3DS) - 3DS Custom Firmware
 * [GodMode9](https://github.com/d0k3/GodMode9) - 3DS File Browser
 * [Batch CIA 3DS Decryptor](https://gbatemp.net/threads/batch-cia-3ds-decryptor-a-simple-batch-file-to-decrypt-cia-3ds.512385/) - Decrypt 3DS Files
-* [Rverse](https://discord.gg/wCvJSCxf4G) - 3DS Miiverse Recreation
+* [Rverse](https://discord.gg/wCvJSCxf4G) - 3DS Miiverse Recreation Discord Server
 
 ***
 
@@ -445,7 +446,7 @@
 * [Kirigiri's Palword](https://rentry.co/FMHYBase64#kirigiris-palword) - Palworld Releases
 * [Palworld.gg](https://palworld.gg/), [PalworldTrainer.com](https://palworldtrainer.com/) or [Paldb.cc](https://paldb.cc/) - Palworld Databases
 * [Palworld Host Save Fix](https://github.com/xNul/palworld-host-save-fix) - Palworld Save Bug Fix
-* [The Halo Archive](https://discord.gg/feB7RgAHBh) or [405th](https://www.405th.com/) - Halo Assets Archive
+* [The Halo Archive (Discord)](https://discord.gg/feB7RgAHBh) or [405th](https://www.405th.com/) - Halo Assets Archive
 * [Grim Tools](https://www.grimtools.com/) - Grim Dawn Tools
 * [Stardew.app](https://stardew.app/) - Stardew Valley Progress Tracker
 * [Trackmania Replay Viewer](https://gbx.bigbang1112.cz/tool/replay-viewer) - View Trackmania Replays

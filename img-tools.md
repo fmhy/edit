@@ -535,7 +535,6 @@
 * [VISE](https://www.robots.ox.ac.uk/~vgg/software/vise/) - Image Search with Search Queries
 * [Have I Been Trained?](https://haveibeentrained.com/) - AI Image Search
 * [RootAbout](https://rootabout.com/) - Archive / OpenLibrary Reverse Image Search
-* [PimEyes](https://pimeyes.com/en/) - Reverse Face Image Search
 * [Multicolr](https://labs.tineye.com/multicolr/) - Color-Based Image Search
 * [trace.moe](https://trace.moe/) or [Saucekudasai](https://saucekudasai.com/) - Anime Reverse Image Search
 

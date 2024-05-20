@@ -667,6 +667,7 @@
 
 ## ▷ Mastodon Tools
 
+* 🌐 **[Awesome Mastodon](https://hueyy.github.io/awesome-mastodon/)**, [2](https://github.com/tleb/awesome-mastodon) - Mastodon Resources
 * ⭐ **[instances.social](https://instances.social/)** or [Mastodon Near Me](http://mastodon-near.me/) - Mastodon Instances
 * ⭐ **[Mastodon Apps](https://joinmastodon.org/apps)** - Mastodon Client List
 * [Phanpy](https://phanpy.social/) or [Mastodeck](https://mastodeck.com/) - Mastodon Clients
