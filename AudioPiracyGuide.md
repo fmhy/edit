@@ -496,7 +496,7 @@
 * ⭐ **[Tunefind](https://www.tunefind.com/)** - Find Music from Movies / TV
 * ⭐ **[Chosic](https://www.chosic.com/)**, [Dubolt](https://dubolt.com/) or [Maroofy](https://maroofy.com/) - Song Discovery Tools
 * ⭐ **[Discover Quickly](https://discoverquickly.com/)** - Discover Spotify Songs Easily
-* [Odesli](https://odesli.co/) - Song / Podcast Platform Search / [TG Bot](https://t.me/odesli_bot)
+* [Odesli](https://odesli.co/) / [TG Bot](https://t.me/odesli_bot) or [SongWhip](https://songwhip.com) - Song / Podcast Platform Search 
 * [Kworb](https://kworb.net/) - Music Top Charts
 * [TokChart](https://tokchart.com/) - TikTok Song Charts
 * [ClassicRockHistory](https://www.classicrockhistory.com/classic-rock-bands-list-and-directory/) - Classic Rock Band Archive
@@ -643,6 +643,7 @@
 * ⭐ **[Shazam](https://www.shazam.com/)** - Android / [System Audio](https://github.com/zemoto/WhatAmIHearing)
 * ⭐ **[WatZatSong](https://www.watzatsong.com/en)** - Song Identification Forum
 * [/r/NameThatSong](https://reddit.com/r/NameThatSong) - Song Identification Subreddit
+* [Vibra](https://github.com/BayernMuller/vibra)
 * [Midomi](https://www.midomi.com/)
 * [Aha Music](https://www.aha-music.com/identify-songs-music-recognition-online)
 * [AudioTag](https://audiotag.info/)
@@ -661,6 +662,8 @@
 * [Versefy](https://versefy.app/) or [Lyrics-In-Terminal](https://github.com/Jugran/lyrics-in-terminal) - Lyric Finder for Spotify / Tidal / VLC
 * [Lyrist](https://lyrist.app) - Write Lyrics with Beats
 * [LyricsTranslate](https://lyricstranslate.com/) - Lyric Translator
+* [LRCGET](https://github.com/tranxuanthang/lrcget) - Download Synced Lyrics
+* [LRCLIB](https://lrclib.net/) - Synced Lyrics Search
 
 ***
 
