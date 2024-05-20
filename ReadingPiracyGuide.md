@@ -495,7 +495,7 @@
 * ⭐ **[PDFMagazines](https://pdfmagazines.club/)** - Novafile
 * ⭐ **[DownMagaz](https://downmagaz.net/)** - Novafile / Turbobit
 * ⭐ **[MagazineLib](https://magazinelib.com/)** - VK
-* ⭐ **[MagzDB](http://magzdb.org/j)** - Direct DDL
+* ⭐ **[MagzDB](http://magzdb.org/j)** - DDL
 * [Calameo](https://calameo.com/) - Online Reading
 * [Magzter](https://www.magzter.com/top-free-magazines) - Online Reading
 * [FlipHTML5](https://fliphtml5.com/exploring) - Online Reading
@@ -764,7 +764,7 @@
 * ⭐ **[arXiv](https://arxiv.org/)** - Science / Math / Physics / [Search](https://arxiv-sanity-lite.com/), [2](https://searchthearxiv.com/) / [Chatbot](https://github.com/evanhu1/talk2arxiv)
 * ⭐ **[TheFreeLibrary](https://www.thefreelibrary.com/)** - Articles
 * ⭐ **[STC](https://libstc.cc/)** - Document / Article Text Search
-* ⭐ **[Nexus search](https://t.me/nexus_search/94)** - Science / Articles
+* ⭐ **[Nexus search](https://t.me/nexus_search/94)**, [2](https://t.me/nexus_search/214) - Science / Articles
 * [Wikisource](https://en.wikisource.org) - Poetry / Text / Documents
 * [Heystacks](https://heystacks.com/) - Public Google Docs
 * [PDFSlide](https://pdfslide.net/) - Document Search
@@ -845,17 +845,17 @@
 # ► Tracking / Discovery
 
 * ⭐ **[GoodReads](https://www.goodreads.com/)** / [Frontend](https://github.com/nesaku/BiblioReads) - Books / Comics / Manga / [Ratings Filter](https://www.book-filter.com/)
+* ⭐ **[TasteDive](https://tastedive.com/)** - Books
+* ⭐ **[StoryGraph](https://www.thestorygraph.com/)** - Books
 * ⭐ **[MyAnimeList](https://myanimelist.net/)** - Manga / Light Novels
 * ⭐ **MAL Tools** - [Redesign](https://hritikvaishnav.github.io/Project-Redesign/public/mal.html) / [Extension](https://anime.plus/) / [Scripts](https://myanimelist.net/forum/?topicid=1849731) / [Search Helper](https://greasyfork.org/en/scripts/429784) / [Site Sync](https://malsync.moe/) / [Discord](https://discord.com/invite/cTH4yaw) / [API](https://jikan.moe/) / [Graph](https://sekai.rl404.com/)
 * ⭐ **[Anilist](https://anilist.co/home)** - Manga / Light Novels / Manhwa / Manhua / [Wrapper](https://github.com/butterstroke/Anilist-Node) / [Extras](https://greasyfork.org/en/scripts/370473-automail)
 * ⭐ **[MangaUpdates](https://www.mangaupdates.com/)** - Manga (Has Obscure Stuff)
 * ⭐ **[LeagueOfComicGeeks](https://leagueofcomicgeeks.com/)** - Comics
-* ⭐ **[TasteDive](https://tastedive.com/)** - Book Recommendations
 * [Rec Charts](https://mega.nz/folder/kj5hWI6J#0cyw0-ZdvZKOJW3fPI6RfQ) - Books / Comics / Manga Recommendation Guides
 * [/r/ifyoulikeblank](https://www.reddit.com/r/ifyoulikeblank/) - Book / Comic Recommendations
 * [BookHype](https://bookhype.com/) - Books
 * [Oku](https://oku.club/) - Books
-* [StoryGraph](https://www.thestorygraph.com/) - Books
 * [Literal](https://literal.club/) - Books
 * [BookWyrm](https://bookwyrm.social/) - Books
 * [LibraryThings](https://www.librarything.com/) - Books
