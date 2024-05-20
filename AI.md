@@ -35,8 +35,10 @@
 * [NVIDIA NIM](https://build.nvidia.com/) - Llama 3
 * [Phind](https://www.phind.com/) - Llama Powered Search
 * [Komo](https://komo.ai/) - GPT-3.5 Powered Search
+* [Perplexica](https://github.com/ItzCrazyKns/Perplexica) - AI Search Engine
 * [iAsk](https://iask.ai/) - AI Search Engine
 * [Andi](https://andisearch.com/) - AI Search Engine
+* [iSeek](https://www.iseek.com/) - AI Search Engine
 * [Exa](https://exa.ai/) - AI Search Engine / [Discord](https://discord.com/invite/jvz7GS9W8Y)
 * [Lepton Search](https://search.lepton.run/) - AI Search Engine
 * [Pi](https://pi.ai/talk) - Inflection AI's Chatbot
