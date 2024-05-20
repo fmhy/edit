@@ -305,7 +305,7 @@
 * ⭐ **[9xbuddy](https://9xbuddy.com/)**, [2](https://9xbuddy.online/) or [3](https://9xbuddy.in/) - Multi-Site / Online
 * ⭐ **[Lux](https://github.com/iawia002/lux)** - Multi-Site / CLI
 * [VideoHelp Forum](https://forum.videohelp.com/) - All Things Media
-* [CD(R)M-Project](https://discord.gg/SYyvPxVyyW) - StreamFab Downloader
+* [CD(R)M-Project](https://discord.gg/SYyvPxVyyW) - StreamFab Downloading Discord
 * [TubeOffline](https://www.tubeoffline.com/) - Multi-Site / Online
 * [VideoFK](https://www.videofk.com/) - Multi-Site / Online
 * [you-get](https://you-get.org/) - Multi-Site / CLI
