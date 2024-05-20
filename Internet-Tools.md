@@ -526,6 +526,7 @@
 * [Save Page WE](https://pastebin.com/vbhUaG8E) or [SingleFile](https://github.com/gildas-lormeau/SingleFile) - Save Webpages as HTML
 * [Listly](https://www.listly.io/) - Webpage to Spreadsheet Converter
 * [Favicon Detector](https://github.com/BlackGlory/favicon-detector) - Detect Website Favicons
+* [Betterviewer](https://github.com/Ademking/Betterviewer) - Image View Mode
 * [behind!](https://github.com/kubuzetto/behind) - View Background Images
 * [Smart Upscale](https://tanalin.com/en/projects/smart-upscale/) - Browser Image Upscaling
 * [UI.Vision RPA](https://ui.vision/) - Workflow Automation
@@ -732,6 +733,7 @@
 * [80legs](https://80legs.com/) - Cloud-Based
 * [Crawly](https://crawly.diffbot.com/) - Online Scraper
 * [web.scraper.workers.dev](https://web.scraper.workers.dev/) - Web Scraper
+* [Waymore](https://github.com/xnl-h4ck3r/waymore/) - Web Scraper
 * [grab-site](https://github.com/ArchiveTeam/grab-site) - ArchiveTeam Web Crawler
 * [brozzler](https://github.com/internetarchive/brozzler) - Web Crawler
 
