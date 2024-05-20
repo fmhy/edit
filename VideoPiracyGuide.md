@@ -8,7 +8,7 @@
 
 ## ▷ Multi Server
 
-* ⭐ **[movie-web](https://erynith.github.io/movie-web-instances/)** - Movies / TV / Anime / 4K / 1080p / Ad-Free / [Add Sources](https://docs.sudo-flix.lol/extension) / [Docs](https://docs.sudo-flix.lol/) / [Discord](https://discord.gg/EDYT5bjSvp)
+* 🌐 **[movie-web](https://erynith.github.io/movie-web-instances/)** - Movies / TV / Anime / 4K / 1080p / Ad-Free / [Add Sources](https://docs.sudo-flix.lol/extension) / [Docs](https://docs.sudo-flix.lol/) / [Discord](https://discord.gg/EDYT5bjSvp)
 * ⭐ **[Binged](https://binged.live/)**, [2](https://binge.lol/), [3](https://binged.in/) - Movies / TV / Anime / 4K / 1080p / [Discord](https://discord.gg/f2SvhcKCKS)
 * ⭐ **[Braflix](https://www.braflix.video/)** - Movies / TV / Anime / 4K / 1080p / [Discord](https://discord.gg/wWKmxARaWH) / [Note](https://pastebin.com/4qWrYKtH)
 * ⭐ **[FMovies](https://fmoviesz.to/)** - Movies / TV / Anime / 1080p / [Mirrors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_fmovies_clones)
@@ -458,6 +458,7 @@
 ## ▷ Sports Replays
 
 * ⭐ **[720Pier](https://720pier.ru/)** - Sports Replays / Torrents / 1080p
+* ⭐ **[Basketball Video](https://basketball-video.com/)** - Basketball Replays / 1080p
 * ⭐ **[Fishker NFL](https://fishkernfl.com/)** - Football Replays / 720p
 * ⭐ **[Watch-Wrestling.eu](https://watch-wrestling.eu/)** - MMA / Wrestling Replays / 1080p
 * ⭐ **[WatchWrestling24](https://watchwrestling24.net/)** - MMA / Wrestling Replays / 720p
