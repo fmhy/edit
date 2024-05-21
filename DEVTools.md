@@ -236,7 +236,7 @@
 
 ## ▷ Cybersecurity
 
-* 🌐 **[Free Cyber Resources](https://github.com/gerryguy311/Free_CyberSecurity_Professional_Development_Resources)** or [Applied Cybersecurity](https://www.nist.gov/itl/applied-cybersecurity/nice/resources/online-learning-content) - Cybersecurity Learning Resources
+* 🌐 **[Free Cyber Resources](https://github.com/gerryguy311/Free_CyberSecurity_Professional_Development_Resources)**, [BlueTeam Tools](https://github.com/A-poc/BlueTeam-Tools) or [Applied Cybersecurity](https://www.nist.gov/itl/applied-cybersecurity/nice/resources/online-learning-content) - Cybersecurity Learning Resources
 * ↪️ **[Pentesting Resources](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_pentesting_resources)**
 * ⭐ **[crackmes.one](https://crackmes.one/)** / [Discord](https://discord.com/invite/2pPV3yq), [Hackers101](https://www.hacker101.com/), [EchoCTF](https://echoctf.red/), [SmashTheStack](https://smashthestack.org/), [WebHacking](https://webhacking.kr/) or [DefendTheWeb](https://defendtheweb.net/) - Cybersecurity Challenges
 * [CyberArsenal](https://cyberarsenal.org/) - Cybersecurity Forums
@@ -773,7 +773,8 @@
 * [Xamarin](https://dotnet.microsoft.com/en-us/apps/xamarin) - App Development Platform / [GitHub](https://github.com/xamarin)
 * [Framer](https://www.framer.com/) - Interactive Site / App Design Tool
 * [MemberPrism](http://r.ftqq.com/MemberPrism2/) - Member-Only App Builder
-* [butterfly](https://github.com/GetStream/butterfly) - Android UI Builder
+* [butterfly](https://github.com/GetStream/butterfly) - App UI Builder
+* [Layout Editor](https://apt.izzysoft.de/fdroid/index/apk/com.itsvks.layouteditor) - App Layout Editor
 * [Flutter Login Page Design](https://github.com/afgprogrammer/Flutter-Login-Page-Design) or [LoginCritter](https://github.com/cgoldsby/LoginCritter) - Login Page Designs
 * [App ideas](https://github.com/florinpop17/app-ideas) - Collection of App Ideas
 * [Fastlane](https://fastlane.tools/) - App Development Automation / [GitHub](https://github.com/fastlane/fastlane)
@@ -944,6 +945,7 @@
 * 🌐 **[DB Engines](https://db-engines.com/en/ranking)** - Database Rankings
 * 🌐 **[Awesome Opensource Data Engineering](https://github.com/gunnarmorling/awesome-opensource-data-engineering)** - Data Engineering Resources
 * 🌐 **[Awesome Big Data](https://github.com/newTendermint/awesome-bigdata)** - Big Data Resources
+* [EdgeDB](https://www.edgedb.com/) - SQL Alternative
 * [Grafana](https://grafana.com/) - Dev Data Dashboard
 * [DBeaver](https://dbeaver.io/) - Universal Database Tool
 * [Ingestr](https://bruin-data.github.io/ingestr/) - Transfer Data between Databases
@@ -1126,7 +1128,7 @@
 * [Decompiler](https://www.decompiler.com/) - Online Decompiler
 * [core-plot](https://github.com/core-plot/core-plot) - Core Plot Source Code / Apps
 * [tuc](https://github.com/riquito/tuc) - Improved Code Cut
-* [Lepton](https://hackjutsu.com/Lepton/) - Code Snippet Managers
+* [Lepton](https://hackjutsu.com/Lepton/) or [Snipp.in](https://snipp.in/) - Code Snippet Managers
 * [0xacab](https://about.0xacab.org/) - Code Host
 * [Mockaroo](https://mockaroo.com/) - Generate Mock Data
 * [Mockium](https://softwium.com/mockium/) - Generate Test Data
