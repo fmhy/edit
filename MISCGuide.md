@@ -839,6 +839,7 @@
 # ► Shopping
 
 * ⭐ **[ThisIsWhyImBroke](https://www.thisiswhyimbroke.com/)** or **[Didn't Know I Wanted That](https://www.didntknowiwantedthat.com/)** - Find Interesting Things to Buy
+* ⭐ **[BuyReddit](https://www.buyreddit.com/)** - Reddit Recommended Products
 * ⭐ **[DarkPatternsTipline](https://darkpatternstipline.org/)** - Deceptive Service Design Tipline
 * [Kit.co](https://kit.co/), [Looria](https://www.looria.com/), [ProductHunt](https://producthunt.com/) or [Consumer Reports](https://consumerreports.org/) - Product / Service Reviews
 * [GreenStash](https://github.com/Pool-Of-Tears/GreenStash) - Savings Tracking App
