@@ -32,10 +32,12 @@
 * [FlowGPT](https://flowgpt.com/chat) - Multiple Chatbots / [Discord](https://discord.com/invite/tWZGzcpTkf)
 * [infermatic](https://infermatic.ai/) / [Discord](https://discord.gg/9GUXmDx9GF) - Multiple Chatbots
 * [lollms-webui](https://github.com/ParisNeo/lollms-webui) - Multiple Chatbots
+* [Meta AI](https://www.meta.ai/) - Llama Chatbot / US only
 * [NVIDIA NIM](https://build.nvidia.com/) - Llama 3
-* [Phind](https://www.phind.com/) - Llama Powered Search
-* [Komo](https://komo.ai/) - GPT-3.5 Powered Search
+* [Phind](https://www.phind.com/) - Llama Search Engine
+* [Morphic](https://www.morphic.sh/) - AI Search Engine
 * [Perplexica](https://github.com/ItzCrazyKns/Perplexica) - AI Search Engine
+* [Komo](https://komo.ai/) - AI Search Engine
 * [iAsk](https://iask.ai/) - AI Search Engine
 * [Andi](https://andisearch.com/) - AI Search Engine
 * [iSeek](https://www.iseek.com/) - AI Search Engine
@@ -148,7 +150,7 @@
 * [ChatGPT Advanced](https://tools.zmo.ai/webchatgpt) - Add Search Results to ChatGPT
 * [SublimeGPT](https://chromewebstore.google.com/detail/sublimegpt-chatgpt-everyw/eecockeebhenbihmkaamjlgoehkngjea) or [GPTGO](https://gptgo.ai/) - Add ChatGPT to Search Results
 * [ChatGPTBox](https://github.com/josStorer/chatGPTBox), [ChatGPT Apps](https://github.com/adamlui/chatgpt-apps), [KeepChatGPT](https://github.com/xcanwin/KeepChatGPT/blob/main/docs/README_EN.md) or [Walles](https://walles.ai/) - ChatGPT Extensions
-* [Harpa](https://harpa.ai/), [Merlin](https://www.getmerlin.in/) / [Unlimited](https://rentry.co/MerlinAI-Unlim) or [Glimpse](https://glimpse.surf/) - ChatGPT Chrome Extensions
+* [Harpa](https://harpa.ai/), [Merlin](https://www.getmerlin.in/) / [Unlimited](https://rentry.co/MerlinAI-Unlim), [ChatHub](https://github.com/chathub-dev/chathub) or [Glimpse](https://glimpse.surf/) - ChatGPT Chrome Extensions
 * [/r/ChatGPT](https://www.reddit.com/r/ChatGPT/) - ChatGPT Subreddit
 * [ChatGPT Exporter](https://greasyfork.org/en/scripts/456055) - Export Chats
 * [VizGPT](https://www.vizgpt.ai/) - Chat Data Visualization
@@ -194,7 +196,7 @@
 * [TheresAnAIForThat](https://theresanaiforthat.com/) - AI Directory
 * [AI Tools](https://aitools.fyi/) - AI Directory
 * [FutureTools](https://www.futuretools.io/?pricing-model=free) - AI Directory
-* [ArtificialStudio](https://www.artificialstudio.ai/tools) - Multi-Tool Browser AI
+* [Sieve](https://www.sievedata.com/explore) or [ArtificialStudio](https://www.artificialstudio.ai/tools) - Multi-Tool Browser AIs
 * [Google Labs](https://labs.google/) or [AI Test Kitchen](https://aitestkitchen.withgoogle.com/) - Google AI Experiments
 
 ***
@@ -241,6 +243,7 @@
 * ⭐ **[Tensor.art](https://tensor.art/)** / 100 Daily
 * ⭐ **[Shakker](https://www.shakker.ai/)** / 50 Daily / [Discord](https://discord.gg/djyP5u3vHY) / [Guide](https://docs.google.com/document/d/1PZ6to6Nn995J0o0BbEPhucqge9uyc1acQoNuvWkK6M8/edit#heading=h.kkzhkyyy4ze4)
 * ⭐ **[Lexica](https://lexica.art/)** / 48 Weekly
+* [Meta AI](https://www.meta.ai/) - Images & Animation
 * [Stable Diffusion](https://huggingface.co/spaces/stabilityai/stable-diffusion) / Unlimited / [GitHub](https://github.com/Stability-AI/stablediffusion) / [Discord](https://discord.com/invite/stablediffusion)
 * [Prodia](https://app.prodia.com/) / [Discord](https://discord.com/invite/495hz6vrFN) / [Huggingchat Demo](https://huggingface.co/spaces/prodia/fast-stable-diffusion) / Unlimited
 * [Unstability.ai](https://www.unstability.ai/) / 52 Daily
