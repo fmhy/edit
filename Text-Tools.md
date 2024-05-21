@@ -322,7 +322,7 @@
 ## ▷ Spreadsheet Editors
 
 * 🌐 **[MTEB Leaderboard](https://huggingface.co/spaces/mteb/leaderboard)** - Text Embedding AI Leaderboard
-* [TinySheet](https://tinysheet.com/), [Tree Sheets](https://strlen.com/treesheets/), [Gnumeric](http://www.gnumeric.org/) or [Quadratic](https://www.quadratichq.com/)
+* [TinySheet](https://tinysheet.com/), [tad](https://github.com/antonycourtney/tad), [Tree Sheets](https://strlen.com/treesheets/), [Gnumeric](http://www.gnumeric.org/) or [Quadratic](https://www.quadratichq.com/) - Spreadsheet Viewers / Editors
 * [Baserow](https://gitlab.com/baserow/baserow), [Framacalc](https://framacalc.org/), [NocoDB](https://github.com/nocodb/nocodb) or [AirTable](https://airtable.com/) - Collaborative Spreadsheets
 * [Jamovi](https://www.jamovi.org/) - Statistical Spreadsheets
 * [Diagram.codes](https://www.diagram.codes/) - Convert Text to Diagrams
