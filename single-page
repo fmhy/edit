@@ -12482,7 +12482,7 @@ onMounted(() => {
 * ⭐ **[MKVToolNix](https://mkvtoolnix.download/)** - MKV Editing Tools
 * ⭐ **[HandBrake](https://handbrake.fr/)** - Video Encoding Software / [Guide](https://www.rapidseedbox.com/blog/guide-to-mastering-handbrake)
 * ⭐ **[FFmpeg](https://github.com/FFmpeg/FFmpeg)** or [Axiomui](https://axiomui.github.io/)
-* ⭐ **FFmpeg Tools** - [Autobuild](https://github.com/BtbN/FFmpeg-Builds), [2](https://github.com/m-ab-s/media-autobuild_suite) / [Guide](https://github.com/leandromoreira/ffmpeg-libav-tutorial), [2](https://ffmpeg.guide/) / [Cheat Sheet](https://gist.github.com/steven2358/ba153c642fe2bb1e47485962df07c730) / [Commands](https://alfg.dev/ffmpeg-commander/), [2](https://evanhahn.github.io/ffmpeg-buddy/) / [WebM Converter](https://argorar.github.io/WebMConverter/) / [Preview Filters](https://ffmpeg.lav.io/) / [AI Commands](https://github.com/gstrenge/llmpeg)
+* ⭐ **FFmpeg Tools** - [Autobuild](https://github.com/BtbN/FFmpeg-Builds), [2](https://github.com/m-ab-s/media-autobuild_suite) / [Guide](https://github.com/leandromoreira/ffmpeg-libav-tutorial), [2](https://ffmpeg.guide/) / [Cheat Sheet](https://gist.github.com/steven2358/ba153c642fe2bb1e47485962df07c730) / [Commands](https://alfg.dev/ffmpeg-commander/), [2](https://evanhahn.github.io/ffmpeg-buddy/) / [WebM Converter](https://argorar.github.io/WebMConverter/) / [Preview Filters](https://ffmpeg.lav.io/) / [AI Commands](https://github.com/gstrenge/llmpeg), [2](https://github.com/TejasQ/idli)
 * [Swivel](https://www.newgrounds.com/wiki/creator-resources/flash-resources/swivel) - SWF to Video Converter
 * [DDVT](https://forum.doom9.org/showthread.php?t=183479) - Dolby Vision RPU Demuxing / Injecting / Editing
 * [MKV Muxing Batch GUI](https://github.com/yaser01/mkv-muxing-batch-gui) - Mux Videos
@@ -12716,10 +12716,11 @@ onMounted(() => {
 * [SCrawler](https://github.com/AAndyProgram/SCrawler) - Multi-Site / Software / [Discord](https://discord.gg/uFNUXvFFmg)
 * [webvideo-downloader](https://github.com/jaysonlong/webvideo-downloader) - Multi-Site / CLI
 * [TikTok Scraper](https://github.com/drawrowfly/tiktok-scraper), [myfaveTT](https://myfavett.com/), [SnapTik](https://snaptik.app/), [tiktok-to-ytdlp](https://github.com/Dinoosauro/tiktok-to-ytdlp) - TikTok
+* [Threads Downloader](https://threadsdownloader.com/) - Threads
 * [urlescraper](https://github.com/Tomeriko96/urlescraper) - Urlebird
 * [DMVideo](https://dmvideo.download/) - DailyMotion / Online
 * [PinCase](https://pincase.xyz/) - Pinterest / Online
-* [hls-downloader](https://github.com/puemos/hls-downloader), [hls extension](https://webextension.org/listing/hls-downloader.html) or [hlsloader.com](https://www.hlsloader.com/) - HLS Downloaders
+* [hls-downloader](https://github.com/puemos/hls-downloader), [hls extension](https://webextension.org/listing/hls-downloader.html) or [hlsloader](https://www.hlsloader.com/) - HLS Downloaders
 * [GetWVKeys](https://getwvkeys.cc/) - Send Widevine Requests / [GitHub](https://github.com/GetWVKeys/)
 
 ***
