@@ -515,7 +515,7 @@
 * [FouadMODS](https://t.me/FouadMODS) - Modded WhatsApp
 * [Tellurium](https://play.google.com/store/apps/details?id=com.quadren.tellurium) - Numberless WhatsApp Chat
 * [WhatsappWebToGo](https://github.com/92lleo/WhatsappWebToGo) - Mobile WhatsApp Web Client
-* [WhatsAppPatcher](https://github.com/Schwartzblat/WhatsAppPatcher) - WhatsApp Patcher
+* [WhatsAppPatcher](https://github.com/Schwartzblat/WhatsAppPatcher) or [WaEnhancer](https://github.com/Dev4Mod/WaEnhancer) - WhatsApp Patchers
 * [MdgWa](https://github.com/ItsMadruga/MdgWa) - WhatsApp Customization
 * [Whatsapp Backup Reader](https://whatsappbr.netlify.app/) - Read Exported Whatsapp Chats
 * [FakeWhats](https://www.fakewhats.com/) or [FakeInfo](https://fakeinfo.net/fake-whatsapp-chat-generator) - Fake WhatsApp Messages
@@ -570,9 +570,9 @@
 * [Sectograph](https://play.google.com/store/apps/details?id=prox.lab.calclock) or [TimePlanner](https://github.com/v1tzor/TimePlanner) - Planner Apps
 * [FamilyWall](https://www.familywall.com/) - Family Oriented Planner
 * [Folksable](https://folksable.com/), [unhabits](https://github.com/iSoron/uhabits), [HabitBuilder](https://github.com/ofalvai/HabitBuilder), [MoreDays](https://gitlab.com/wuapps/moredays), [Goals](https://play.google.com/store/apps/details?id=io.rosenpin.goals), [TheFor](https://thefor.xyz/) or [MiindLeak](https://www.mindleak.app/) - Habit Trackers
-* [Farhan](https://github.com/tahaak67/Farhan) or [StopScroll](https://play.google.com/store/apps/details?id=com.noscroll.antiscroll) - Control Phone Addiction
+* [Farhan](https://github.com/tahaak67/Farhan), [DetoxDroid](https://github.com/flxapps/DetoxDroid) or [StopScroll](https://play.google.com/store/apps/details?id=com.noscroll.antiscroll) - Control Phone Addiction
+* [Ascent](https://play.google.com/store/apps/details?id=com.ascent) - App Blocker
 * [Forest](https://forestapp.cc/), [MyBrain](https://github.com/mhss1/MyBrain), [Success](https://eveningkid.com/success/), [Goodtime](https://github.com/adrcotfas/Goodtime) or [Mind Leak](https://play.google.com/store/apps/details?id=de.mdiener.android.mindleak) - Productivity Trackers
-* [DetoxDroid](https://github.com/flxapps/DetoxDroid) - Make Your Phone Less Distracting
 
 ***
 
@@ -796,6 +796,7 @@
 * ⭐ **[Kuukiyomi](https://github.com/LuftVerbot/kuukiyomi/)** / [Discord](https://discord.gg/s82Vu589Ya) or [Aniyomi](https://aniyomi.org/) - Movies / TV / Anime / [Extensions](https://aniyomi.org/extensions/) / [GitHub](https://github.com/aniyomiorg/aniyomi)
 * ⭐ **[Miru](https://miru.js.org/en/download)** - Movies / TV / Anime / [GitHub](https://github.com/miru-project/miru-app) / [Docs](https://miru.js.org/en/developer/)
 * ⭐ **[FlixQuest](https://flixquest.beamlak.dev/) / [GitHub](https://github.com/BeamlakAschalew/flixquest)** - Movies / TV
+* ⭐ **[HDO Box](https://rentry.co/FMHYBase64#hdo-box)** - Movies / TV / [Discord](https://discord.gg/VPRJVExUVD) / [Warning](https://i.ibb.co/ZBy93sr/image.png)
 * ⭐ **[Kodi](https://kodi.tv/)** - [/r/Addons4Kodi](https://www.reddit.com/r/Addons4Kodi/) / [Tracker](https://kinkeadtech.com/best-kodi-streaming-addons/) / [Trending](https://kodiapps.com/addons-chart) / [Real-Debrid](https://real-debrid.com/)
 * ⭐ **[Syncler](https://syncler.net/)** - Movies / TV / [Providers](https://www.reddit.com/r/providers4syncler/)
 * ⭐ **[BubblesUPNP](https://play.google.com/store/apps/details?id=com.bubblesoft.android.bubbleupnp&gl=US)**, [DMS](https://github.com/anacrolix/dms), [Macast](https://xfangfang.github.io/Macast/) or [Cinema Box](https://www.cinema-box.co.uk/) - Media Servers / Chromecast
@@ -804,7 +805,6 @@
 * [TeaTV](https://rentry.co/FMHYBase64#teatv) - Movies / TV
 * [Movies Cave](https://rentry.co/FMHYBase64#movies-cave-app) - Movies / TV
 * [LokLok](https://loklok.com/download) - Movies / TV
-* [HDO Box](https://rentry.co/FMHYBase64#hdo-box), [2](https://hdo.app/) - Movies / TV / [Discord](https://discord.gg/VPRJVExUVD) / [Warning](https://i.ibb.co/ZBy93sr/image.png)
 * [EncoreTVB](https://play.google.com/store/apps/details?id=com.tvbusa.english&amp;hl=en_US) - Chinese Drama
 * [aDrama](https://adrama.app/) - Asian Drama
 * [Amnis](https://play.google.com/store/apps/details?id=com.amnis) - Stream Videos from Torrents
@@ -881,6 +881,7 @@
 * [Samsung Smart TV Adblock](https://redd.it/gn7fw5) - Block Smart TV Ads
 * [TCL Browser](https://play.google.com/store/apps/details?id=com.tcl.browser) or [TV Bro](https://github.com/truefedex/tv-bro) - Ad Free Android TV Browsers
 * [YTCast](https://github.com/MarcoLucidi01/ytcast) - Cast YouTube Videos to Smart TV
+* [iSponsorBlockTV](https://github.com/dmunozv04/iSponsorBlockTV) - SponsorBlock App
 * [Dejavuln](https://github.com/throwaway96/dejavuln-autoroot) - Root LG TVs / Install Homebrew
 * [WebOS Youtube](https://github.com/webosbrew/youtube-webos) - Ad-Free YouTube for LG TVs
 * [YouTube AdFree](https://youtu.be/Zoc9Bt9TuZA), [2](https://redd.it/wzs6hg) - Guide for Ad-Free YouTube on LG TVs
