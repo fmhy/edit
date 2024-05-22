@@ -664,17 +664,6 @@
 
 ***
 
-## Multi Tool Sites
-
-* ⭐ **[Mr Free Tools](https://mrfreetools.com/)**
-* ⭐ **[LibreOps](https://libreops.cc/)** or [Luigi Auriemma](https://aluigi.altervista.org/) - Open-Source Tools
-* ⭐ **[tinywow](https://tinywow.com/)**
-* ⭐ **[PineTools](https://pinetools.com/)**
-
-[123Apps](https://123apps.com/), [Sumo](https://sumo.app/), [prepostseo](https://prepostseo.com/), [Digital Methods](https://wiki.digitalmethods.net/Dmi/ToolDatabase), [AppsCyborg](https://appscyborg.com/), [BfoTool](https://bfotool.com/), [SeoMagnifier](https://seomagnifier.com/), [10015.io](https://10015.io/), [TuckTools](https://www.tucktools.com/), [Ian Coleman](https://iancoleman.io/), [Media.io](https://www.media.io/), [URL Decode](https://url-decode.com/cat/all), [goonlinetools](https://goonlinetools.com/), [RandomTools](https://randomtools.io/), [piliapp](https://www.piliapp.com/), [KodyTools](https://www.kodytools.com/), [onlinetools](https://onlinetools.com/), [a.tools](https://www.a.tools/)
-
-***
-
 ## Music Notation Editors
 
 * ⭐ **[MuseScore](https://musescore.org/)** - Editor

@@ -1064,6 +1064,32 @@
 
 ***
 
+## ▷ Multi Tool Sites
+
+* ⭐ **[Mr Free Tools](https://mrfreetools.com/)**
+* ⭐ **[LibreOps](https://libreops.cc/)** or [Luigi Auriemma](https://aluigi.altervista.org/) - Open-Source Tools
+* ⭐ **[tinywow](https://tinywow.com/)** - Text / Image / PDF / File
+* ⭐ **[PineTools](https://pinetools.com/)** - Text / Multimedia / Colors / Code
+* [goonlinetools](https://goonlinetools.com/) - Text / Encode-Decode / Code / Random / Image
+* [10015.io](https://10015.io/) - Text / Image / Code / Colors
+* [RandomTools](https://randomtools.io/)
+* [AppsCyborg](https://appscyborg.com/) - File Conversion / Media 
+* [onlinetools](https://onlinetools.com/) - File Specific Tools
+* [a.tools](https://www.a.tools/)
+* [123Apps](https://123apps.com/) - Multimedia / File Conversion / PDF
+* [KodyTools](https://www.kodytools.com/) - Data / Text / Design / Cryptography / Unit Conversion
+* [Media.io](https://www.media.io/online-tools.html) - Multimedia
+* [Sumo](https://sumo.app/) - Design / Graphic / Music
+* [prepostseo](https://prepostseo.com/) - SEO / Text
+* [SeoMagnifier](https://seomagnifier.com/) - SEO
+* [Digital Methods](https://wiki.digitalmethods.net/Dmi/ToolDatabase) - Research Tools Database
+* [BfoTool](https://bfotool.com/) - File Conversion / Code / Text
+* [TuckTools](https://www.tucktools.com/) - Social Media
+* [Ian Coleman](https://iancoleman.io/) - Cryptography and Encoding Tools
+* [URL Decode](https://url-decode.com/cat/all) -  Dev Tools / Web Tools / File Conversion
+
+***
+
 ## ▷ Calendars / Scheduling
 
 * ⭐ **[Cal.com](https://cal.com/)** - [GitHub](https://github.com/calcom/cal.com)
