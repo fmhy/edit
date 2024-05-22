@@ -728,40 +728,27 @@
 ## ▷ Audio Editors
 
 * ⭐ **[G-MEH](https://g-meh.com/)** - Audio Editors / [Discord](https://discord.com/invite/xqPBaXUg7p)
-* ⭐ **[Tenacity](https://tenacityaudio.org/)** or [Audacity](https://www.audacityteam.org/) - Audio Editor
+* ⭐ **[Tenacity](https://tenacityaudio.org/)**, [Sneedacity](https://github.com/Sneeds-Feed-and-Seed/sneedacity) or [Audacity](https://www.audacityteam.org/) - Audio Editor
 * ⭐ **[Team V.R releases](https://codec.kiev.ua/releases.html)** - Audio Editors, Adobe Software, Plugins etc.
 * ⭐ **[Moises](https://moises.ai/)** - Live Music Mixer
-* ⭐ **[OpenMPT](https://openmpt.org/)** or [MilkyTracker](https://milkytracker.org/) - Music Trackers
-* [LMMS](https://lmms.io/) - Open Source DAW
+* ⭐ **[OpenMPT](https://openmpt.org/)**, [Schism Tracker](https://schismtracker.org/) or [MilkyTracker](https://milkytracker.org/) - Music Trackers
+* [Zrythm](https://www.zrythm.org/en/index.html) or [LMMS](https://lmms.io/) - Digital Audio Workstations
 * [Furnace](https://github.com/tildearrow/furnace), [FamiStudio](https://famistudio.org/), or [Pata Tracker](https://pixwlk.itch.io/pata-tracker) - Chiptune Music Trackers
 * [Ossia](https://ossia.io/) - Intermedia Sequencer
+* [Bosca Ceoil](https://terrycavanagh.itch.io/bosca-ceoil) - Simple Music Sequencers
 * [Sequencer](https://sequencer.henryfellerhoff.com/) or [DrawBeats](https://drawbeats.com/) - Scale Sequencers
-* [Petaporon](https://pixwlk.itch.io/petaporon) - Piano Sequencer / [Editor](https://pixwlk.itch.io/petaporon-editor)
-* [Bosca Ceoil](https://terrycavanagh.itch.io/bosca-ceoil), [AdventureMachine](https://adventuremachine.4thfloorcreative.co.uk/) or [Strofe](https://www.strofe.com/) - Simple Audio Sequencers
-* [Acid Machine 2](https://errozero.co.uk/acid-machine/) - Acid Techno Machine
 * [Mixxx](https://mixxx.org/) or [Serato](https://serato.com/) - DJ Software
-* [WD-1](https://www.worteldrie.com/WD5/) or [YOU.DJ](https://you.dj/) - Online DJ / Beat Creators
-* [RaveDJ](https://rave.dj/) - Easily Mix Songs Together
 * [plugdata](https://plugdata.org/) - Visual Audio Editor / [Discord](https://discord.com/invite/eT2RxdF9Nq)
+* [Element](https://kushview.net/element/), [Bespoke](https://www.bespokesynth.com/) or [SunVox](https://warmplace.ru/soft/sunvox/) - Modular Audio Environments / [Discord](https://discord.com/invite/RVk3RVJ)
 * [Music Experiment](https://petersalomonsen.com/webassemblymusic/livecodev2/), [Sonic-Pi](https://sonic-pi.net/), [SuperCollider](https://supercollider.github.io/) or [WebChuck IDE](https://ccrma.stanford.edu/~tzfeng/webchuck-ide/) - Create Music with Code
 * [Wavosaur](https://www.wavosaur.com/) - Audio Editor
-* [Sneedacity](https://github.com/Sneeds-Feed-and-Seed/sneedacity) - Audio Editor
-* [Schism Tracker](https://schismtracker.org/) - Audio Tracker
-* [Zrythm](https://www.zrythm.org/en/index.html) - Audio Editor
-* [Element](https://kushview.net/element/) - Audio Editor / [Discord](https://discord.com/invite/RVk3RVJ)
-* [BeatMachine](https://beatmachine.branchpanic.me/) or [SongSurgeon](https://songsurgeon.com/engine/ssweb/) - Audio Tempo Editors
-* [Audovia Music](https://audovia.co.uk/) - Classical Music Creator
-* [WubMachine](https://the.wubmachine.com/) - Dubstep Music Creator
+* [Audovia Music](https://audovia.co.uk/) - Classical Music Creator (Linux Only)
 * [danielx](https://danielx.net/composer/) or [AMS](https://flyx.org/ams/) - Mario Paint Composer Ports / [Archive](https://archive.org/details/mariopaintcomposer_201609)
 * [LittleSoundDJ](https://www.littlesounddj.com/lsd/index.php) - Game Boy Audio Editor
 * [Open Note Block Studio](https://opennbs.org/) - Minecraft Note Block Song Editor
-* [madeon](https://adventuremachine.4thfloorcreative.co.uk/) - Create Music with Madeon Samples
-* [Bespoke](https://www.bespokesynth.com/) - Modular Synth Environment
-* [SunVox](https://warmplace.ru/soft/sunvox/) - Modular Synth
-* [Melody Generator](https://dopeloop.ai/melody-generator), [Signal](https://signal.vercel.app/), [Rosegarden](https://rosegardenmusic.com/) or [Ariamaestosa](https://ariamaestosa.github.io/ariamaestosa/docs/index.html) - MIDI Editors
-* [MIDI City](https://midicity-2000.glitch.me/) - City Style MIDI Editor
+* [Upiano](https://github.com/eliasdorneles/upiano) - Terminal Piano
+* [Rosegarden](https://rosegardenmusic.com/) or [Ariamaestosa](https://ariamaestosa.github.io/ariamaestosa/docs/index.html) - Midi Sequencer / Notation Editors
 * [Basic Pitch](https://basicpitch.spotify.com/) - Create MIDI via Sound
-* [MIDI Recorder](https://midi-recorder.web.app/) - MIDI Keyboard Recorder
 * [BitMidi](https://bitmidi.com/) or [VGMusic](https://www.vgmusic.com/) - MIDI Files
 * [Mod Archive](https://modarchive.org/) - Audio Modules
 * [Fadr](https://fadr.com/) - STEM Creator / Editor
@@ -776,21 +763,29 @@
 * [UltraBox](https://ultraabox.github.io/), [JummBox](https://jummbus.bitbucket.io/) or [BeepBox](https://www.beepbox.co/) - Chiptune Sequencers
 * [Chrome Song Maker](https://musiclab.chromeexperiments.com/Song-Maker/) - Sequencer
 * [Pro-54](https://cmajor.dev/docs/Examples/Pro54/) - Pro-53 Browser Port
-* [AudioMass](https://audiomass.co/) - Online Editor
-* [editor.audio](https://editor.audio/) - Online Editor
-[OnlineSequencer](https://onlinesequencer.net/) - Online Editor
-* [Efflux](https://www.igorski.nl/application/efflux/) - Online Editor
-* [TwistedWave](https://twistedwave.com/online) - Online Editor
-* [xAudioPro](https://www.xaudiopro.com/en/) - Online Editor
-* [WebSynths](https://www.websynths.com/) - Collection of browser-based musical instruments
-* [Roland50.studio](https://roland50.studio/) - Drum Machine / TB-303 Bass Synth
+* [Roland50.studio](https://roland50.studio/) or [Acid Machine 2](https://errozero.co.uk/acid-machine/) - Drum Machine / TB-303 Bass Synth
+* [WubMachine](https://the.wubmachine.com/) - Dubstep Music Creator
+* [OnlineSequencer](https://onlinesequencer.net/) - Music Sequencer
+* [Petaporon](https://pixwlk.itch.io/petaporon) - Piano Sequencer / [Instrument Editor](https://pixwlk.itch.io/petaporon-editor)
+* [AudioMass](https://audiomass.co/) - Audio Editor
+* [editor.audio](https://editor.audio/) - Audio Editor
+* [Efflux](https://www.igorski.nl/application/efflux/) - Music Sequencer
+* [TwistedWave](https://twistedwave.com/online) - Audio Editor
+* [xAudioPro](https://www.xaudiopro.com/en/) - Audio Editor
+* [Signal](https://signal.vercel.app/) - MIDI Editor
+* [WebSynths](https://www.websynths.com/) - Browser Synthesizers
 * [NoiseCraft](https://noisecraft.app/) - Modular Synth Builder
 * [StarrynetsPiano](https://piano.starrynets.com/) or [VirtualPiano](https://virtualpiano.net/) - Browser Pianos
-* [Upiano](https://github.com/eliasdorneles/upiano) - Terminal Piano
 * [MK-1](https://ericrosenbaum.github.io/MK-1/) - Online Sampling Keyboard
 * [React Guitar](https://react-guitar.com/) - Virtual Guitar
 * [Theremin](https://femurdesign.com/theremin/) - Virtual Theremin
+* [RaveDJ](https://rave.dj/) - Easily Mix Songs Together
+* [Melody Generator](https://dopeloop.ai/melody-generator) - Generate Song Melodies
+* [WD-1](https://www.worteldrie.com/WD5/) or [YOU.DJ](https://you.dj/) - Online DJ / Beat Creators
 * [PIXELSYNTH](https://ojack.xyz/PIXELSYNTH/) - Image to Sound Synthesizer
+* [BeatMachine](https://beatmachine.branchpanic.me/) or [SongSurgeon](https://songsurgeon.com/engine/ssweb/) - Audio Tempo Editors
+* [MIDI City](https://midicity-2000.glitch.me/) - City Style MIDI Visualizer
+* [MIDI Recorder](https://midi-recorder.web.app/) - MIDI Keyboard Recorder
 
 ***
 
