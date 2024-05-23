@@ -1851,6 +1851,7 @@
 
 * 🌐 **[Non-English Ebook & Audiobook Sites](https://redd.it/gehkl0)**
 * ↪️ **[Asian Drama Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video#wiki_.25B7_drama_streaming)**
+* [kool.to](https://www.kool.to/) - Multilingual / Live TV
 * [Keyman](https://keyman.com/) - Multilingual / Keyboard Files
 * [Jainism Library of Jain Literature](https://www.atmadharma.com/index.html) - Multilingual / Sacred Texts
 * [Filma24](https://www.filma24.lol/) - Albanian / Movies / TV / 1080p
