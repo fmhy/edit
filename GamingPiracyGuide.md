@@ -16,10 +16,10 @@
 * ↪️ **[Scene Release Trackers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_scene_release_trackers)**
 * ⭐ **[GamesDrive](https://gamesdrive.net/)** - Download / [Discord](https://discord.gg/wXdNEhf73x) / [Divolt](https://gamesdrive.divolt.xyz/) / [Telegram](https://t.me/+qkrAOiq7k7ozNzRk)
 * ⭐ **[CS.RIN.RU](https://cs.rin.ru/forum)** - Download / Forum / [Status](https://csrinstaff.writeas.com/) / [Enhancement Mod](https://github.com/SubZeroPL/cs-rin-ru-enhanced-mod) / [Steam Buttons](https://github.com/Altansar69/CS.RIN.RU-Enhanced-external) / [Onion](http://csrinrutkb3tshptdctl5lyei4et35itl22qvk5ktdcat6aeavy6nhid.onion/forum)
+* ⭐ **[Game Bounty](https://gamebounty.world/)** - Download / [Discord](https://dsc.gg/gamebounty)
 * ⭐ **[SteamRIP](https://steamrip.com/)** - Download / Torrent / Pre-Installs / [Discord](https://discord.gg/ycDt32VpPH) / pw: 1234 or steamrip.com
 * ⭐ **[Torrminatorr](https://forum.torrminatorr.com/)** - Download
 * ⭐ **[GOG Games](https://gog-games.to/)** - Download / [.onion](http://goggamespyi7b6ybpnpnlwhb4md6owgbijfsuj6z5hesqt3yfyz42rad.onion/)
-* ⭐ **[Game Bounty](https://gamebounty.world/)** - Download / [Discord](https://dsc.gg/gamebounty)
 * ⭐ **[Online Fix](https://online-fix.me/)** - Download / Torrent / Multiplayer / [Discord](https://discord.gg/yExgFYncMD)
 * ⭐ **[Ova Games](https://www.ovagames.com/)** - Download / Use Adblocker
 * ⭐ **[SteamGG](https://steamgg.net/)** - Download / Pre-Installs / [Discord](https://discord.gg/3A9gpx8XeJ)
@@ -403,7 +403,7 @@
 * [ShellShock](https://www.shellshock.io/) - PvP FPS
 * [MiniRoyale](https://miniroyale.io/) - Battle Royal Game
 * [ZombsRoyale.io](https://zombsroyale.io/) - Top-Down Battle Royale 
-* [Tanki](https://tankionline.com/) - Online Team VS Team Tank Game
+* [Tanki](https://tankionline.com/) or [Diep](https://diep.io/) - Online Team VS Team Tank Games
 
 ***
 
@@ -629,6 +629,7 @@
 * [Guess The Price](https://guesstheprice.net/) - Price Guessing Game
 * [Apparle](https://www.apparle.com/) - Apparel Price Guessing Game
 * [Metazooa](https://metazooa.com/) - Animal Guessing Game
+* [ChessGuessr](https://www.chessguessr.com/) - Chess Style Guessing Game
 * [Guess The Year](https://guess-the-year.davjhan.com/) or [ChronoPhoto](https://www.chronophoto.app/) - Year Guessing Game
 * [Approved, or Not Approved?](https://approvednotapproved.com/) - Approved Advertising Guessing Game
 * [Wikitrivia](https://wikitrivia.tomjwatson.com/) - Guess Which Event Came First

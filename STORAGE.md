@@ -218,6 +218,7 @@
 * [Words to Use](https://www.words-to-use.com/) - Find Alternative Words
 * [Phrontistery](https://phrontistery.info/) - Obscure Word Dictionary
 * [LexiLogos](https://www.lexilogos.com/english/index.htm) - Multi Language Dictionary Index
+* [Reverse Dictionary](https://reverse-dictionary.virock.org/) - Lookup Words via Phrases
 * [WikiDiff](https://wikidiff.com/) - Difference Between Any Words
 * [Websters 1913](https://www.websters1913.com/) - 1913 Websters Dictionary
 * [Unionpedia](https://en.unionpedia.org/), [Lexipedia](https://www.lexipedia.com/), [VisuWords](https://visuwords.com/) or [WordWeb](https://wordwebs.app/) - Word Connections / Visualizers
@@ -320,8 +321,7 @@
 
 ## Encyclopedias
 
-* ⭐ **[Wikipedia](https://www.wikipedia.org/)**, [WikiWand](https://www.wikiwand.com/) or [Metastem](https://wiki.metastem.su/), [ModernWiki](https://www.modernwiki.app/) - Encyclopedia
-* ⭐ **Wikipedia Tools** - [Top Pages](https://top.hatnote.com/) / [Deleted Pages](https://deletionpedia.org/en/Main_Page) / [Page Connections](https://hyperleap.com/) / [Dark Mode](https://en.wikipedia.org/wiki/Wikipedia:Dark_mode) / [TUI](https://github.com/yashsinghcodes/wik) / [Galaxy View](https://wiki.polyfra.me/) / [Offline View](http://cdpedia.python.org.ar/index.en.es.html) / [Extract Text](https://github.com/attardi/wikiextractor) / [Shorten URLs](https://meta.wikimedia.org/wiki/Special:UrlShortener) / [Location Search](https://wikinearby.toolforge.org/)
+* ⭐ **[Wikipedia](https://www.wikipedia.org/)**, [WikiWand](https://www.wikiwand.com/), [Metastem](https://wiki.metastem.su/) or [ModernWiki](https://www.modernwiki.app/) - Encyclopedia
 * ⭐ **[Wolfram Alpha](https://www.wolframalpha.com/)** - Searchable Knowledgebase / [API Access](https://wolfreealpha.gitlab.io)
 * [EncycloReader](https://encycloreader.org/) - Encyclopedia Search
 * [Omniglot](https://www.omniglot.com/index.htm) - Writing Systems & Languages Encyclopedia
@@ -329,11 +329,18 @@
 
 [Britannica](https://www.britannica.com/),[EverybodyWiki](https://en.everybodywiki.com/), [Encyclopedia](https://www.encyclopedia.com/), [NewWorldEncyclopedia](https://www.newworldencyclopedia.org/), [Citizendium](https://citizendium.org/), [Wikitia](https://wikitia.com/), [Conze.pt](https://conze.pt/), [InfoPlease](https://www.infoplease.com/), [Refdesk](https://www.refdesk.com/factency.html)
 
+### Wikipedia Tools
+
+[Top Pages](https://top.hatnote.com/) / [Deleted Pages](https://deletionpedia.org/en/Main_Page) / [Page Connections](https://hyperleap.com/) / [Dark Mode](https://en.wikipedia.org/wiki/Wikipedia:Dark_mode) / [TUI](https://github.com/yashsinghcodes/wik) / [Galaxy View](https://wiki.polyfra.me/) / [Offline View](http://cdpedia.python.org.ar/index.en.es.html) / [Extract Text](https://github.com/attardi/wikiextractor) / [Shorten URLs](https://meta.wikimedia.org/wiki/Special:UrlShortener) / [Location Search](https://wikinearby.toolforge.org/)
+
 ***
 
 ## Fun Indexes
 
-[Neal.fun](https://neal.fun/), [Oimo](https://oimo.io/works ), [AIDN](https://aidn.jp/), [Neave](https://codepen.io/neave) / [2](https://neave.com/), [BoredHumans](https://boredhumans.com/), [puissant](https://sandwichpuissant.net/), [ThisIsMyWebsiteNow](https://www.thisismywebsitenow.com/), [Mr.doob](https://mrdoob.com/), [Bimble Space](https://in.bimble.space/toys), [Creative Tech Guy](https://creativetechguy.com/), [Just For Fun](https://justforfun.io/), [Andrew Marsh](https://andrewmarsh.com/software), [JenniferDewalt](https://jenniferdewalt.com/), [Chrome Experiments](https://experiments.withgoogle.com/collection/chrome), [0x2a](https://0x2a.re/), [yezi](https://yezi.itch.io/), [topster](https://topster.net/), [p5aholic](https://experiments.p5aholic.me/), [vole.wtf](https://vole.wtf/), [WilliamHoza](https://williamhoza.com/misc/), [Rinkworks](http://www.rinkworks.com/), [Orteil](https://orteil.dashnet.org/), [funwebsite](https://funwebsite.fun/), [Toms.Toys](https://toms.toys/), [Pointless Sites](https://www.pointlesssites.com/), [Funny / Useless](https://rentry.org/aksry2vc)
+* 🌐 **[Funny / Useless Sites](https://rentry.org/aksry2vc)**
+* ⭐ **[Neal.fun](https://neal.fun/)**
+
+[Oimo](https://oimo.io/works ), [AIDN](https://aidn.jp/), [Neave](https://codepen.io/neave) / [2](https://neave.com/), [BoredHumans](https://boredhumans.com/), [puissant](https://sandwichpuissant.net/), [ThisIsMyWebsiteNow](https://www.thisismywebsitenow.com/), [Mr.doob](https://mrdoob.com/), [Bimble Space](https://in.bimble.space/toys), [Creative Tech Guy](https://creativetechguy.com/), [Just For Fun](https://justforfun.io/), [Andrew Marsh](https://andrewmarsh.com/software), [JenniferDewalt](https://jenniferdewalt.com/), [Chrome Experiments](https://experiments.withgoogle.com/collection/chrome), [0x2a](https://0x2a.re/), [yezi](https://yezi.itch.io/), [topster](https://topster.net/), [p5aholic](https://experiments.p5aholic.me/), [vole.wtf](https://vole.wtf/), [WilliamHoza](https://williamhoza.com/misc/), [Rinkworks](http://www.rinkworks.com/), [Orteil](https://orteil.dashnet.org/), [funwebsite](https://funwebsite.fun/), [Toms.Toys](https://toms.toys/), [Pointless Sites](https://www.pointlesssites.com/), [The Scientific Place](https://scientific.place/)
 
 ***
 
@@ -664,7 +671,7 @@
 * ⭐ **[tinywow](https://tinywow.com/)**
 * ⭐ **[PineTools](https://pinetools.com/)**
 
-[123Apps](https://123apps.com/), [iTools](http://itools.com/), [Sumo](https://sumo.app/), [prepostseo](https://prepostseo.com/), [Digital Methods](https://wiki.digitalmethods.net/Dmi/ToolDatabase), [AppsCyborg](https://appscyborg.com/), [BfoTool](https://bfotool.com/), [SeoMagnifier](https://seomagnifier.com/), [10015.io](https://10015.io/), [TuckTools](https://www.tucktools.com/), [Ian Coleman](https://iancoleman.io/), [Media.io](https://www.media.io/), [URL Decode](https://url-decode.com/cat/all), [goonlinetools](https://goonlinetools.com/), [RandomTools](https://randomtools.io/), [piliapp](https://www.piliapp.com/), [KodyTools](https://www.kodytools.com/), [onlinetools](https://onlinetools.com/), [a.tools](https://www.a.tools/)
+[123Apps](https://123apps.com/), [Sumo](https://sumo.app/), [prepostseo](https://prepostseo.com/), [Digital Methods](https://wiki.digitalmethods.net/Dmi/ToolDatabase), [AppsCyborg](https://appscyborg.com/), [BfoTool](https://bfotool.com/), [SeoMagnifier](https://seomagnifier.com/), [10015.io](https://10015.io/), [TuckTools](https://www.tucktools.com/), [Ian Coleman](https://iancoleman.io/), [Media.io](https://www.media.io/), [URL Decode](https://url-decode.com/cat/all), [goonlinetools](https://goonlinetools.com/), [RandomTools](https://randomtools.io/), [piliapp](https://www.piliapp.com/), [KodyTools](https://www.kodytools.com/), [onlinetools](https://onlinetools.com/), [a.tools](https://www.a.tools/)
 
 ***
 
@@ -918,6 +925,7 @@
 * [M4uHD.tv](https://ww1.m4uhd.tv/) / [2](https://ww1.m4uhd.cc/) / [3](https://m4uhd.to/)
 * [Streamm4u](https://streamm4u.ws/) / [2](https://ww1.streamm4u.tv/) / [3](https://ww1.streamm4u.net/)
 * [M4uMV.org](https://m4umv.org/)
+* [MoviesM4U](https://moviesm4u.net/)
 
 ***
 

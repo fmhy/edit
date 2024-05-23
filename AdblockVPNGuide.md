@@ -237,7 +237,7 @@
 * [FirefoxMonitor](https://monitor.firefox.com/) - Data Breach Check
 * [BreachDirectory](https://breachdirectory.org), [Snusbase](https://snusbase.com/), [Leak Lookup](https://leak-lookup.com/), [Trufflehog](https://trufflesecurity.com/trufflehog) or [leakpeek](https://leakpeek.com/) - Data Breach Search Engines
 * [JustDeleteMe](https://justdeleteme.xyz/) - Find / Terminate Old Accounts
-* [OpenPhish](https://openphish.com/), [Netcraft Report](https://report.netcraft.com/report), [PhishStats](https://phishstats.info/) or [PhishTank](https://phishtank.org/) - Report Phishing Sites
+* [OpenPhish](https://openphish.com/), [Netcraft Report](https://report.netcraft.com/report), [isitPhishing](https://isitphishing.org/), [PhishStats](https://phishstats.info/) or [PhishTank](https://phishtank.org/) - Report Phishing Sites
 * [encrypted-sni](https://www.cloudflare.com/ssl/encrypted-sni/) - Check Network / Browser Security
 * [Element](https://element.io/), [linphone](https://www.linphone.org/), [Jami](https://jami.net/), [Tox](https://tox.chat/) or [Bitmask](https://bitmask.net/) - Encrypted Messaging / Video Calls
 * [SimpleDiscordCrypt](https://gitlab.com/An0/SimpleDiscordCrypt) - Discord Message Encryption
@@ -363,7 +363,7 @@
 * [Numblr](https://github.com/heyLu/numblr) - Self-Hosted Frontend Redirect
 * [Photon](https://photon-reddit.com/), [reditr](https://reditr.com/), [RDX](https://rdx.overdevs.com/) or [redlib](https://github.com/redlib-org/redlib) - Reddit Frontends
 * [Invidious Redirect](https://addons.mozilla.org/en-US/firefox/addon/hooktube-redirect/?src=search) - YouTube Frontend Redirect
-* [twstalker](https://twstalker.com/) - Twitter Frontend
+* [twstalker](https://twstalker.com/) or [nitter](https://nitter.poast.org/) - Twitter Frontends
 * [Proxigram](https://codeberg.org/ThePenguinDev/Proxigram) or [Imginn](https://imginn.com) - Instagram Frontends
 * [Proxitok](https://github.com/pablouser1/ProxiTok) or [TikNot](https://tiknot.netlify.app/) / [Redirect](https://greasyfork.org/en/scripts/482683) - TikTok Frontends
 * [Tumlook](https://www.tumlook.com/), [Tumgik](https://www.tumgik.com/) or [PriviBlur](https://github.com/syeopite/priviblur) - Tumblr Frontends

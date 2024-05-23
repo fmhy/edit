@@ -44,6 +44,7 @@
 * [exportify](https://github.com/watsonbox/exportify) or [SpotMyBackup](http://www.spotmybackup.com/) - Playlist Backup
 * [Opslagify](https://opslagify.deruever.nl/) - Library Size
 * [Awesome Spotify Stats](https://github.com/rimsiw/awesome-spotify-stats) - Listening Stats
+* [Spoticulum](https://spoticulum.xyz/) - Spotify Collection Snapshots
 * [Tierify](https://davitg.com/projects/tierify/) - Tier Lists
 * [Kira](https://kira.vercel.app/) - Song Country Search
 * [Syrics](https://syrics-web-akashrchandran.vercel.app/) - Download Synced Lyrics
@@ -72,7 +73,7 @@
 ## ▷ Streaming Sites
 
 * ⭐ **[YouTube Music](https://music.youtube.com/)**, [Hyperpipe](https://hyperpipe.surge.sh), [Nonoki](https://nonoki.com/music/), [YTMP](https://ytmp.itsvg.in/) or [Spotify One](https://spotfy.one/) - YouTube Music WebUIs
-* ⭐ **YouTube Music Tools** - [Enhancements](https://themesong.app/), [2](https://github.com/Sv443/BetterYTM) / [Lag Fix](https://greasyfork.org/en/scripts/432304-youtube-music-fix-performance) / [Library Delete](https://github.com/apastel/ytmusic-deleter) / [Upload Delete](https://rentry.co/tv4uo) / [Spotify Playlist Import](https://github.com/sigma67/spotify_to_ytmusic)
+* ⭐ **YouTube Music Tools** - [Enhancements](https://themesong.app/), [2](https://github.com/Sv443/BetterYTM) / [Lag Fix](https://greasyfork.org/en/scripts/432304-youtube-music-fix-performance) / [Library Delete](https://github.com/apastel/ytmusic-deleter) / [Upload Delete](https://rentry.co/tv4uo) / [Spotify Playlist Import](https://github.com/sigma67/spotify_to_ytmusic), [2](https://github.com/linsomniac/spotify_to_ytmusic)
 * ⭐ **[Reddit Music Player](https://reddit.musicplayer.io/)** - Subreddit Music Player
 * ⭐ **[SoundCloud](https://soundcloud.com/)** - User Made Songs / [Spotify Theme](https://userstyles.world/style/5470/soundfy-v3) / [Dark Theme](https://github.com/huds0nx/soundcloud-luna)
 * ⭐ **[hate5six](https://hate5six.com/)** - Concert Recordings
@@ -444,7 +445,7 @@
 
 # ► Media Soundtracks
 
-* ⭐ **[SittingOnClouds](https://www.sittingonclouds.net/)** / [Discord](https://discord.com/invite/x23SFbE) - Anime / Game Soundtracks
+* ⭐ **[Sitting on Clouds](https://www.sittingonclouds.net/)** / [Discord](https://discord.com/invite/x23SFbE) / [.onion](http://cloudscbr2l7prtthmz5jk5hxpndisu4ohqytsri5vyua3ksfswl7gyd.onion/) - Anime / Game Soundtracks
 * ⭐ **[Squid-Board](https://www.squid-board.org/)** - Media Soundtracks / Account Required
 * ⭐ **[Squidify](https://www.squidify.org)** - Game / Anime Soundtracks / [Resources](https://wotaku.pages.dev/guides/squidify/)
 * [MusicDex](https://musicdex.org/) - Anime Soundtracks / [Discord](https://discord.gg/yCXJkbdCHt)
@@ -496,7 +497,7 @@
 * ⭐ **[Tunefind](https://www.tunefind.com/)** - Find Music from Movies / TV
 * ⭐ **[Chosic](https://www.chosic.com/)**, [Dubolt](https://dubolt.com/) or [Maroofy](https://maroofy.com/) - Song Discovery Tools
 * ⭐ **[Discover Quickly](https://discoverquickly.com/)** - Discover Spotify Songs Easily
-* [Odesli](https://odesli.co/) - Song / Podcast Platform Search / [TG Bot](https://t.me/odesli_bot)
+* [Odesli](https://odesli.co/) / [TG Bot](https://t.me/odesli_bot) or [SongWhip](https://songwhip.com) - Song / Podcast Platform Search 
 * [Kworb](https://kworb.net/) - Music Top Charts
 * [TokChart](https://tokchart.com/) - TikTok Song Charts
 * [ClassicRockHistory](https://www.classicrockhistory.com/classic-rock-bands-list-and-directory/) - Classic Rock Band Archive
@@ -643,6 +644,7 @@
 * ⭐ **[Shazam](https://www.shazam.com/)** - Android / [System Audio](https://github.com/zemoto/WhatAmIHearing)
 * ⭐ **[WatZatSong](https://www.watzatsong.com/en)** - Song Identification Forum
 * [/r/NameThatSong](https://reddit.com/r/NameThatSong) - Song Identification Subreddit
+* [Vibra](https://github.com/BayernMuller/vibra)
 * [Midomi](https://www.midomi.com/)
 * [Aha Music](https://www.aha-music.com/identify-songs-music-recognition-online)
 * [AudioTag](https://audiotag.info/)
@@ -661,6 +663,8 @@
 * [Versefy](https://versefy.app/) or [Lyrics-In-Terminal](https://github.com/Jugran/lyrics-in-terminal) - Lyric Finder for Spotify / Tidal / VLC
 * [Lyrist](https://lyrist.app) - Write Lyrics with Beats
 * [LyricsTranslate](https://lyricstranslate.com/) - Lyric Translator
+* [LRCGET](https://github.com/tranxuanthang/lrcget) - Download Synced Lyrics
+* [LRCLIB](https://lrclib.net/) - Synced Lyrics Search
 
 ***
 
@@ -710,113 +714,114 @@
 * 🌐 **[MultiSong Leaderboard](https://mvsep.com/quality_checker/multisong_leaderboard)** - Music & Voice Separation AI Leaderboards
 * ↪️ **[AI Song Generators](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/ai#wiki_.25BA_audio_generators)**
 * ↪️ **[Remove Vocals](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_remove_vocals)**
+* ⭐ **[KVR Audio](https://www.kvraudio.com/)** or [VI-CONTROL](https://vi-control.net/community/) - Audio Production News / Forums
 * [Demucs](https://github.com/adefossez/demucs) / [Colab](https://colab.research.google.com/drive/1dC9nVxk3V_VPjUADsnFu8EiT-xnU1tGH?usp=s), [Vocal Remover](https://separatemusic.com/), [Acapella-Extractor](https://www.acapella-extractor.com/), [splitmysong](https://www.splitmysong.com/), [free-music-demixer](https://freemusicdemixer.com/), [Mikrotakt](https://mikrotakt.app/), [ezstems](https://ezstems.com/) or [melody ml](https://melody.ml/) - Separate Voice from Instrumentals
 * [Adobe Enhance](https://podcast.adobe.com/enhance) - Speech Enhancer
 * [Chowdhury DSP](https://chowdsp.com/products.html) - Audio Signal Processing
 * [Oscilloscope](https://bummsn.de/osc_txt/) - Audio Oscillation Test (turn volume down)
 * [MoFi](https://mofi.loud.red/) - Create Audio Loops
 * [Jukeblocks](https://jukeblocks.io/) - Generate Audio Project Templates (can lag browser)
+* [Music Software Deals](https://musicsoftwaredeals.com/) - Track Music Software Prices
 
 ***
 
 ## ▷ Audio Editors
 
 * ⭐ **[G-MEH](https://g-meh.com/)** - Audio Editors / [Discord](https://discord.com/invite/xqPBaXUg7p)
-* ⭐ **[Tenacity](https://tenacityaudio.org/)** or [Audacity](https://www.audacityteam.org/) - Audio Editor
-* ⭐ **[Audioalter](https://audioalter.com/)** - Online Editor
-* ⭐ **[WavaCity](https://wavacity.com/)** - Online Editor
-* ⭐ **[Team V.R releases](https://codec.kiev.ua/releases.html)** - Audio Editors, Adobe Software, Plugins etc.
+* ⭐ **[Tenacity](https://tenacityaudio.org/)**, [Sneedacity](https://github.com/Sneeds-Feed-and-Seed/sneedacity) or [Audacity](https://www.audacityteam.org/) - Audio Editor
+* ⭐ **[Team V.R releases](https://codec.kiev.ua/Audi0.htm)** - Audio Editors, Adobe Software, Plugins etc.
 * ⭐ **[Moises](https://moises.ai/)** - Live Music Mixer
+* ⭐ **[OpenMPT](https://openmpt.org/)**, [Schism Tracker](https://schismtracker.org/) or [MilkyTracker](https://milkytracker.org/) - Music Trackers
+* [Zrythm](https://www.zrythm.org/en/index.html) or [LMMS](https://lmms.io/) - Digital Audio Workstations
+* [Furnace](https://github.com/tildearrow/furnace), [FamiStudio](https://famistudio.org/) or [Pata Tracker](https://pixwlk.itch.io/pata-tracker) - Chiptune Music Trackers
 * [Ossia](https://ossia.io/) - Intermedia Sequencer
-* [Sequencer](https://sequencer.henryfellerhoff.com/) or [DrawBeats](https://drawbeats.com/) - Scale Sequencers
-* [Petaporon](https://pixwlk.itch.io/petaporon) - Piano Sequencer / [Editor](https://pixwlk.itch.io/petaporon-editor)
-* [Chrome Song Maker](https://musiclab.chromeexperiments.com/Song-Maker/), [Bosca Ceoil](https://terrycavanagh.itch.io/bosca-ceoil), [AdventureMachine](https://adventuremachine.4thfloorcreative.co.uk/) or [Strofe](https://www.strofe.com/) - Simple Audio Creators
-* [JummBox](https://jummbus.bitbucket.io/), [Furnace](https://github.com/tildearrow/furnace) or [Pata Tracker](https://pixwlk.itch.io/pata-tracker) - Chiptune Music Creators
-* [Acid Machine 2](https://errozero.co.uk/acid-machine/) - Acid Techno Machine
+* [Bosca Ceoil](https://terrycavanagh.itch.io/bosca-ceoil) - Simple Music Sequencer
 * [Mixxx](https://mixxx.org/) or [Serato](https://serato.com/) - DJ Software
-* [WD-1](https://www.worteldrie.com/WD5/) or [YOU.DJ](https://you.dj/) - Online DJ / Beat Creators
-* [RaveDJ](https://rave.dj/) - Easily Mix Songs Together
 * [plugdata](https://plugdata.org/) - Visual Audio Editor / [Discord](https://discord.com/invite/eT2RxdF9Nq)
-* [Music Experiment](https://petersalomonsen.com/webassemblymusic/livecodev2/), [Sonic-Pi](https://sonic-pi.net/) or [WebChuck IDE](https://ccrma.stanford.edu/~tzfeng/webchuck-ide/) - Create Music with Code
-* [LMMS](https://lmms.io/) - Audio Editor
-* [FamiStudio](https://famistudio.org/) - Audio Editor
+* [Element](https://kushview.net/element/), [Bespoke](https://www.bespokesynth.com/) or [SunVox](https://warmplace.ru/soft/sunvox/) - Modular Audio Environments / [Discord](https://discord.com/invite/RVk3RVJ)
+* [Music Experiment](https://petersalomonsen.com/webassemblymusic/livecodev2/), [Sonic-Pi](https://sonic-pi.net/), [SuperCollider](https://supercollider.github.io/) or [WebChuck IDE](https://ccrma.stanford.edu/~tzfeng/webchuck-ide/) - Create Music with Code
 * [Wavosaur](https://www.wavosaur.com/) - Audio Editor
-* [Sneedacity](https://github.com/Sneeds-Feed-and-Seed/sneedacity) - Audio Editor
-* [OpenMPT](https://openmpt.org/) - Audio Editor
-* [Schism Tracker](https://schismtracker.org/) - Audio Editor
-* [Zrythm](https://www.zrythm.org/en/index.html) - Audio Editor
-* [Element](https://kushview.net/element/) - Audio Editor / [Discord](https://discord.com/invite/RVk3RVJ)
-* [AudioMass](https://audiomass.co/) - Online Editor
-* [BeepBox](https://www.beepbox.co/) or [UltraBox](https://ultraabox.github.io/) - Online Editor
-* [editor.audio](https://editor.audio/) - Online Editor
-[OnlineSequencer](https://onlinesequencer.net/) - Online Editor
-* [Efflux](https://www.igorski.nl/application/efflux/) - Online Editor
-* [TwistedWave](https://twistedwave.com/online) - Online Editor
-* [xAudioPro](https://www.xaudiopro.com/en/) - Online Editor
-* [BeatMachine](https://beatmachine.branchpanic.me/) or [SongSurgeon](https://songsurgeon.com/engine/ssweb/) - Audio Tempo Editors
-* [Audovia Music](https://audovia.co.uk/) - Classical Music Creator
-* [WubMachine](https://the.wubmachine.com/) - Dubstep Music Creator
-* [danielx](https://danielx.net/composer/) or [AMS](https://flyx.org/ams/) - Mario Paint Audio Composers / [Archive](https://archive.org/details/mariopaintcomposer_201609)
-* [Famistudio](https://bleubleu.itch.io/famistudio) - NES / Famicom Audio Composers
+* [Audovia Music](https://audovia.co.uk/) - Classical Music Creator (Linux Only)
+* [danielx](https://danielx.net/composer/) or [AMS](https://flyx.org/ams/) - Mario Paint Composer Ports / [Archive](https://archive.org/details/mariopaintcomposer_201609)
 * [LittleSoundDJ](https://www.littlesounddj.com/lsd/index.php) - Game Boy Audio Editor
 * [Open Note Block Studio](https://opennbs.org/) - Minecraft Note Block Song Editor
-* [madeon](https://adventuremachine.4thfloorcreative.co.uk/) - Create Music with Madeon Samples
-* [MilkyTracker](https://milkytracker.org/) - Create .MOD and .XM module files
-* [Melody Generator](https://dopeloop.ai/melody-generator), [Signal](https://signal.vercel.app/), [Rosegarden](https://rosegardenmusic.com/) or [Ariamaestosa](https://ariamaestosa.github.io/ariamaestosa/docs/index.html) - MIDI Editors
-* [MIDI City](https://midicity-2000.glitch.me/) - City Style MIDI Editor
+* [QasarBeach](https://adamstrange.itch.io/qasarbeach) - Fairlight CMI Emulation
+* [Upiano](https://github.com/eliasdorneles/upiano) - Terminal Piano
+* [Rosegarden](https://rosegardenmusic.com/) or [Ariamaestosa](https://ariamaestosa.github.io/ariamaestosa/docs/index.html) - Midi Sequencer / Notation Editors
 * [Basic Pitch](https://basicpitch.spotify.com/) - Create MIDI via Sound
-* [MIDI Recorder](https://midi-recorder.web.app/) - MIDI Keyboard Recorder
 * [BitMidi](https://bitmidi.com/) or [VGMusic](https://www.vgmusic.com/) - MIDI Files
 * [Mod Archive](https://modarchive.org/) - Audio Modules
 * [Fadr](https://fadr.com/) - STEM Creator / Editor
 
 ***
 
-## ▷ Audio Synthesizers
+## ▷ Browser Editors / Synths
 
+* ⭐ **[Audioalter](https://audioalter.com/)** - Online Editor
+* ⭐ **[WavaCity](https://wavacity.com/)** - Online Editor
 * ⭐ **[Drumha](https://www.drumha.us/)**, [iO-808](https://io808.com/), [Sequencer64](https://www.sequencer64.com/), [Drummy](https://drummy.io/), [Hammmerhead](http://www.threechords.com/hammerhead/), [DrumBit](https://drumbit.app/), [orDrumbox](https://www.ordrumbox.com/), [Peel](https://peel.fm/) or [Hydrogen](http://hydrogen-music.org/) - Virtual Drum Machines
-* [/r/SynthRecipes](https://www.reddit.com/r/synthrecipes/) - Synth Request Subreddit
-* [samplv1](https://samplv1.sourceforge.io/) - Voice Synth
-* [WebSynths](https://www.websynths.com/) - Collection of browser-based musical instruments
-* [Roland50.studio](https://roland50.studio/) - Drum Machine / TB-303 Bass Synth
-* [SuperCollider](https://supercollider.github.io/)
-* [ZynAddSubFX](https://zynaddsubfx.sourceforge.io/)
-* [Surge XT](https://surge-synthesizer.github.io/)
-* [VCV Rack 2](https://vcvrack.com/Rack)
-* [Dexed](https://asb2m10.github.io/dexed/)
-* [NoiseCraft](https://noisecraft.app/)
-* [Bespoke](https://www.bespokesynth.com/)
-* [Helm](https://tytel.org/helm/)
-* [SunVox](https://warmplace.ru/soft/sunvox/)
-* [QasarBeach](https://adamstrange.itch.io/qasarbeach)
-* [StarrynetsPiano](https://piano.starrynets.com/), [Upiano](https://github.com/eliasdorneles/upiano), [The 88](https://impactsoundworks.com/product/the-88e/) (enter $0) or [VirtualPiano](https://virtualpiano.net/) - Virtual Pianos
+* [UltraBox](https://ultraabox.github.io/), [JummBox](https://jummbus.bitbucket.io/) or [BeepBox](https://www.beepbox.co/) - Chiptune Sequencers
+* [Chrome Song Maker](https://musiclab.chromeexperiments.com/Song-Maker/) - Sequencer
+* [Pro-54](https://cmajor.dev/docs/Examples/Pro54/) - Pro-53 Browser Port
+* [Roland50.studio](https://roland50.studio/) or [Acid Machine 2](https://errozero.co.uk/acid-machine/) - Drum Machine / TB-303 Bass Synth
+* [WubMachine](https://the.wubmachine.com/) - Dubstep Music Creator
+* [Sequencer](https://sequencer.henryfellerhoff.com/) or [DrawBeats](https://drawbeats.com/) - Scale Sequencers
+* [OnlineSequencer](https://onlinesequencer.net/) - Music Sequencer
+* [Petaporon](https://pixwlk.itch.io/petaporon) - Piano Sequencer / [Instrument Editor](https://pixwlk.itch.io/petaporon-editor)
+* [AudioMass](https://audiomass.co/) - Audio Editor
+* [editor.audio](https://editor.audio/) - Audio Editor
+* [Efflux](https://www.igorski.nl/application/efflux/) - Music Sequencer
+* [TwistedWave](https://twistedwave.com/online) - Audio Editor
+* [xAudioPro](https://www.xaudiopro.com/en/) - Audio Editor
+* [Signal](https://signal.vercel.app/) - MIDI Editor
+* [WebSynths](https://www.websynths.com/) - Browser Synthesizers
+* [NoiseCraft](https://noisecraft.app/) - Modular Synth Builder
+* [StarrynetsPiano](https://piano.starrynets.com/) or [VirtualPiano](https://virtualpiano.net/) - Browser Pianos
 * [MK-1](https://ericrosenbaum.github.io/MK-1/) - Online Sampling Keyboard
 * [React Guitar](https://react-guitar.com/) - Virtual Guitar
-* [GuitarML](https://guitarml.com/index.html) - Custom AI Guitar Tones
 * [Theremin](https://femurdesign.com/theremin/) - Virtual Theremin
+* [RaveDJ](https://rave.dj/) - Easily Mix Songs Together
+* [Melody Generator](https://dopeloop.ai/melody-generator) - Generate Song Melodies
+* [WD-1](https://www.worteldrie.com/WD5/) or [YOU.DJ](https://you.dj/) - Online DJ / Beat Creators
 * [PIXELSYNTH](https://ojack.xyz/PIXELSYNTH/) - Image to Sound Synthesizer
+* [BeatMachine](https://beatmachine.branchpanic.me/) or [SongSurgeon](https://songsurgeon.com/engine/ssweb/) - Audio Tempo Editors
+* [MIDI City](https://midicity-2000.glitch.me/) - City Style MIDI Visualizer
+* [MIDI Recorder](https://midi-recorder.web.app/) - MIDI Keyboard Recorder
 
 ***
 
 ## ▷ Audio Plugins
 
-* 🌐 **[Open-Source Audio Plugins](https://openaudio.webprofusion.com/)** - Open Source Plugin Projects Index
 * ⭐ **[G-MEH](https://g-meh.com/)** - Download / [Premium Bypass](https://gmehpremium.pages.dev/)
 * ⭐ **[bobdule](https://bobdule999.wixsite.com/bob-dule-factory-2)** - Kontakt / Native Instruments Plugins & Tools
 * ⭐ **[PLUGG SUPPLY](https://t.me/pluggsupply)** - Telegram / [VK](https://vk.com/pluggsupply)
 * ⭐ **[Plugin Clouds](https://t.me/joinchat/eBPFLPGucTU5YjQ9)** - Telegram / [Archive](https://t.me/plugincloudsarchive)
-* [Audioz](https://audioz.download/) / [Forum](https://audiosex.pro/) - Download / Use Debrid
-* [Free DAW plugins](https://docs.google.com/spreadsheets/d/1wr0RjPfQvD_VrIivi4U4tsnqMdL78sWOaDUI2Z95R9U/htmlview?fbclid=IwAR3jUwxfkL7aMruLKomutJZ7-H3xjM1X4JX422mSbCgECdt5ugkHtGWlsF8##gid=0) - Freeware Plugins
+* [Audioz](https://audioz.download/) - Download / Use Debrid / [Forum](https://audiosex.pro/)
 * [/u/BitterApple69 Plugins](https://rentry.co/FMHYBase64#ubitterapple69-plugins) - Torrent
 * [VST Torrents](https://vsttorrentz.net/) - Torrent
 * [PluginTorrent](https://plugintorrent.com/) - Torrent
 * [Kits4Beats](https://kits4beats.com/) - Download / Torrent / [Telegram](https://t.me/kits4beats)
 * [AudioTools](https://audiotools.in/) - Torrent / Use [translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)
 * [Producer Plug Sheet](https://rentry.co/FMHYBase64#producer-plug-sheet) - Plugin / Sample Index
+* [HQVst](https://t.me/HQVst) - Telegram
+
+***
+
+## ▷ Freeware Plugins
+
+* 🌐 **[Free VST Plguins](https://bedroomproducersblog.com/free-vst-plugins/)**, [2](https://docs.google.com/spreadsheets/d/1wr0RjPfQvD_VrIivi4U4tsnqMdL78sWOaDUI2Z95R9U/htmlview?fbclid=IwAR3jUwxfkL7aMruLKomutJZ7-H3xjM1X4JX422mSbCgECdt5ugkHtGWlsF8##gid=0) - Freeware Plugin Index
+* 🌐 **[Open-Source Audio Plugins](https://openaudio.webprofusion.com/)** - Open Source Plugin Projects Index
+* ⭐ **[Surge XT](https://surge-synthesizer.github.io/)** - Hybrid / Subtractive Synth
+* ⭐ **[Vital](https://vital.audio/)** or [Helm](https://tytel.org/helm/) - Wavetable Synth
+* ⭐ **[Dexed](https://asb2m10.github.io/dexed/)** - Yamaha DX7 Emulation
+* [VCV Rack 2](https://vcvrack.com/Rack) - Eurorack Simulator
 * [IEM Plug-in Suite](https://plugins.iem.at/) - Open Source
 * [ChowMultiTool](https://github.com/Chowdhury-DSP/ChowMultiTool) - Open Source
 * [SPARTA](https://leomccormack.github.io/sparta-site/) - Open Source
-* [HQVst](https://t.me/HQVst) - Telegram
+* [ZynAddSubFX](https://zynaddsubfx.sourceforge.io/)
+* [GuitarML](https://guitarml.com/index.html) or [TONEX CS](https://www.ikmultimedia.com/products/tonex/#tonexcs) - Custom AI Guitar Tones
+* [samplv1](https://samplv1.sourceforge.io/) - Voice Synth
+* [/r/SynthRecipes](https://www.reddit.com/r/synthrecipes/) - Synth Request Subreddit
 
 ***
 
@@ -843,6 +848,7 @@
 * [FreeSoundLibrary](https://www.freesoundslibrary.com/)
 * [SoundSnap](https://www.soundsnap.com/) - 5 Weekly
 * [SNES Soundfonts](https://www.williamkage.com/snes_soundfonts/) - SNES Soundfonts
+* [Musical Artifacts](https://musical-artifacts.com/) - Soundfonts
 
 ***
 

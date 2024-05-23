@@ -127,8 +127,6 @@
 * ⭐ **[OpenTable](https://www.opentable.com/)** - Restaurant Reservation Search
 * [KitchenConfidentials](https://kitchenconfidentials.com/) - Anonymous Food & Restaurant Reviews / [Subreddit](https://www.reddit.com/r/KitchenConfidential/)
 * [FoodExpirationDates](https://github.com/lorenzovngl/FoodExpirationDates) - Food Expiration Tracker
-* [cookEbooks](https://cookebooks.info/) - Cookbooks
-* [Dish Dragon AI](https://www.dishdragon.ai/) - Find Ingredients That Go Well Together
 * [Cheese.com](https://cheese.com/) - Cheese Resources
 * [Tea Guide](https://pastebin.com/raw/80GeeXJV) - Tea Guide Masterlist
 * [Coffee Guide](https://pastebin.com/raw/UEzwuyLz) - Coffee Guide Masterlist
@@ -147,9 +145,11 @@
 
 ## ▷ Recipes
 
-* ⭐ **[Tandoor Recipes](https://docs.tandoor.dev/)**, [Cooked](https://cooked.wiki/) or [Pestle](https://pestlechef.app/) - Recipe Managers
+* ⭐ **[Tandoor Recipes](https://docs.tandoor.dev/)**, [Cooked](https://cooked.wiki/, [ManageMeals](https://managemeals.com/) or [Pestle](https://pestlechef.app/) - Recipe Managers
 * ⭐ **[Just the Recipe](https://www.justtherecipe.com/)**, [WheresTheDish](https://www.wheresthedish.com/), [Copy Me That](https://www.copymethat.com/) or [PlainOldRecipe](https://www.plainoldrecipe.com/) - Extract Recipes from Sites / [Firefox](https://addons.mozilla.org/en-US/firefox/addon/recipe-filter/) / [Chrome](https://chromewebstore.google.com/detail/ahlcdjbkdaegmljnnncfnhiioiadakae)
 * ⭐ **[SuperCook](https://www.supercook.com/)** - Recipe Search
+* [cookEbooks](https://cookebooks.info/) - Cookbooks
+* [Dish Dragon AI](https://www.dishdragon.ai/) - Find Ingredients That Go Well Together
 * [PunchFork](https://www.punchfork.com/) - Recipes
 * [Search-22](https://search-22.com/recipe-search-tools) - Multi-Site Recipe Search
 * [Wikibook Recipes](https://en.wikibooks.org/wiki/Category:Cookbook) - Recipe Wiki
@@ -215,7 +215,6 @@
 * [Retro Directory](https://retro.directory/) - Find Arcades / Vintage Shops
 * [IOEA](https://ioea.info/) - Find Otaku Expos
 * [AnimeCons](https://animecons.com/) - Find Anime Expos
-* [Wanderer](https://github.com/Flomp/wanderer) - Self-Hosted Trail Database
 * [FreeCampSites](https://freecampsites.net/) - Free Camp Sites
 * [Traveler Map](https://travelermap.net/) - National Park Maps
 * [Bike Sharing](https://bikesharingworldmap.com/) - Bike Rental Map
@@ -545,7 +544,8 @@
 * [Hevy](https://www.hevyapp.com/), [Massive](https://gitea.presley.nz/brandon.presley/Massive), [GymRoutines](https://codeberg.org/noahjutz/GymRoutines), [Boostcamp](https://www.boostcamp.app/) or [FitHero](https://fithero.app/) - Workout Trackers
 * [OpenTrack](https://opentracksapp.com/) - Sports Tracking App
 * [GoldenCheetah](https://www.goldencheetah.org/), [AAT](https://bailu.ch/aat/) - Cycling / Biking Trackers
-* [AllTrails](https://www.alltrails.com/) - Hiking Routes
+* [AllTrails](https://www.alltrails.com/) or [TrailRouter](https://trailrouter.com/) - Hiking / Trail Routes
+* [Wanderer](https://github.com/Flomp/wanderer) - Self-Hosted Trail Database
 * [MapMyWalk](https://www.mapmywalk.com/) - Walking Tracker
 * [RunnerUp](https://github.com/jonasoreland/runnerup) or [Strava](https://www.strava.com/) - Run Trackers
 * [Runlytics](https://www.runlytics.app/) - Running Analytics
@@ -827,6 +827,7 @@
 
 * 🌐 **[ChainList](https://chainlist.org/)** - EVM RPC List
 * ⭐ **[WalletScrutiny](https://walletscrutiny.com/)** - Verify Crypto Wallets are Open-Source / Secure
+* [BitcoinTalk](https://bitcointalk.org/) - Bitcoin Forum
 * [BTCPay](https://btcpayserver.org/) - FOSS Bitcoin Payment Processor
 * [Trocador](https://trocador.app/en/) - Bitcoin Exchange App
 * [BitcoinWhosWho](https://www.bitcoinwhoswho.com/) - Bitcoin Address Scanner
@@ -844,6 +845,7 @@
 # ► Shopping
 
 * ⭐ **[ThisIsWhyImBroke](https://www.thisiswhyimbroke.com/)** or **[Didn't Know I Wanted That](https://www.didntknowiwantedthat.com/)** - Find Interesting Things to Buy
+* ⭐ **[BuyReddit](https://www.buyreddit.com/)** - Reddit Recommended Products
 * ⭐ **[DarkPatternsTipline](https://darkpatternstipline.org/)** - Deceptive Service Design Tipline
 * [Kit.co](https://kit.co/), [Looria](https://www.looria.com/), [ProductHunt](https://producthunt.com/) or [Consumer Reports](https://consumerreports.org/) - Product / Service Reviews
 * [GreenStash](https://github.com/Pool-Of-Tears/GreenStash) - Savings Tracking App
@@ -937,6 +939,7 @@
 * 🌐 **[Awesome Lego](https://github.com/ad-si/awesome-lego)** - Lego Resources
 * [Dinosaur Toy Blog](https://dinotoyblog.com/) or [Animal Toy Blog](https://animaltoyforum.com/blog/) - Animal Toy Reviews
 * [MyFigureCollection](https://myfigurecollection.net/) - Japanese Pop-Culture Merch Database
+* [Pokéchange](https://en.pokechange.net/) - Buy / Sell Pokémon Cards
 * [Ty Collector](https://tycollector.com/) or [Beaniepedia](https://beaniepedia.com/) - Ty Collectibles Databases
 * [BreyerHorseRef](https://www.breyerhorseref.com/) - Breyer Horse Database
 * [The Toy Pool](https://thetoypool.com/) - Multi-Brand Toy & Doll Database
@@ -1010,7 +1013,7 @@
 * [ThistoThat](https://www.thistothat.com/) - How to Glue Anything to Anything
 * [PEmbroider](https://github.com/CreativeInquiry/PEmbroider) - Embroidery Generator
 * [Dog Breed AI](https://www.whatbreedismydog.com) - Dog Breed Detector
-* [CarComplaints](https://www.carcomplaints.com/) - Car Problems, Car Complaints and Repairs
+* [CarCareKiosk](https://www.carcarekiosk.com/) or [CarComplaints](https://www.carcomplaints.com/) - Car Repair Sites
 * [PlateRecognizer](https://platerecognizer.com/) - License Plate Recognition
 * [Fragrantica](https://www.fragrantica.com/), [Basenotes](https://basenotes.com/) or [Parfumo](https://www.parfumo.com/) - Perfume / Fragrance Databases
 * [Stolen Drone](https://stolendrone.info/) - Stolen Drone Info

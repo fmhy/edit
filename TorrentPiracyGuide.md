@@ -121,6 +121,7 @@
 * [Rats Search](https://github.com/DEgITx/rats-search) - Torrent Search Client
 * [Download Torrents Through I2P](https://decentnet.github.io/blog/20200329-download-torrents-through-i2p.html)
 * [flood](https://flood.js.org/) - rTorrent, Transmission & qBittorrent WebUI / [GitHub](https://github.com/jesec/flood)
+* [/r/Seedboxes](https://www.reddit.com/r/seedboxes/) - Seedbox Subreddit
 
 ***
 

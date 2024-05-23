@@ -12,7 +12,6 @@
 * [horsicq](https://horsicq.github.io/) - File Tools / [GitHub](https://github.com/horsicq/)
 * [Beyond Compare](https://www.scootersoftware.com/) - File / Directory Comparison Tool / [Pro](https://rentry.co/FMHYBase64#beyond-compare-crack)
 * [UnLock IT](https://emcosoftware.com/unlock-it/download), [Lock Hunter](https://lockhunter.com/) or [FileExile](https://sourceforge.net/projects/filexile/) - File Unlocker / Deleter
-* [File Juggler](https://www.filejuggler.com/) - Organize Files Automatically
 * [Magika](https://github.com/google/magika) - AI File Content Type Detector
 * [Phockup](https://github.com/ivandokov/phockup) - Organize Photo / Video Files by Date
 * [Icaros](https://github.com/Xanashi/Icaros) - Add Explorer Thumbnails to any Video Format
@@ -232,10 +231,9 @@
 * [Bruji](https://www.bruji.com/) - Data Automation
 * [FileBot](https://www.filebot.net/) - Data Automation
 * [MediaElch](https://www.kvibes.de/mediaelch/) - Data Automation
-* [TVNamer](https://github.com/dbr/tvnamer) or [TVRename](https://www.tvrename.com/) - TV File Data Automation
+* [TVRename](https://www.tvrename.com/) - TV File Data Automation
 * [Shoko](https://github.com/shokoanime) - Anime File Data Automation
 * [Szyszka](https://github.com/qarmin/szyszka) - Bulk Renamer
-* [Massren](https://github.com/laurent22/massren) - Bulk Renamer
 * [PowerRename](https://learn.microsoft.com/en-us/windows/powertoys/powerrename) - Bulk Renamer
 * [Ant Renamer](https://www.antp.be/software/renamer) - Bulk Renamer
 * [renamer](https://github.com/sun-jiao/renamer) - Bulk Renamer
@@ -244,7 +242,7 @@
 
 ## ▷ PDF Tools
 
-* ⭐ **[Sejda](https://www.sejda.com/)**, [ILovePDF](https://www.ilovepdf.com/), [DigiPDF](https://digipdf.app/?lang=en_US), [PDF2Go](https://www.pdf2go.com/) or [SimplePDF](https://simplepdf.eu/) - Online PDF Toolkits
+* ⭐ **[Sejda](https://www.sejda.com/)**, [ILovePDF](https://www.ilovepdf.com/), [DigiPDF](https://digipdf.app/?lang=en_US), [PDF2Go](https://www.pdf2go.com/), [Stirling PDF](https://pdf.app.danian.co/ ) or [SimplePDF](https://simplepdf.eu/) - Online PDF Toolkits
 * ⭐ **[PDFGear](https://www.pdfgear.com/)**, **[PDF24](https://www.pdf24.org/)**, [xPDFReader](https://www.xpdfreader.com/), [PDF Arranger](https://github.com/pdfarranger/pdfarranger), [PrivatePDF](https://photown.github.io/private-pdf/), [PDFBox](https://pdfbox.apache.org/) or [OpenPDF](https://github.com/LibrePDF/OpenPDF) - Offline PDF Toolkits
 * [PDFGrep](https://pdfgrep.org/) - PDF Text Search
 * [View-only PDF](https://rentry.co/cm4b7) - Download View-Only PDF on GDrive
@@ -296,6 +294,7 @@
 * [MultiUp](https://multiup.io/), [MirrorAce](https://mirrorace.com/) or [Mirrorcreator](https://www.mirrored.to/) / [Extract / Upload](https://github.com/Reddiepoint/MultiUp-Direct) - Multi Host Uploaders
 * [Z-o-o-m](https://z-o-o-m.eu/) - Multi-Host Upload Desktop App
 * [Archive.org](https://archive.org/create/) - Signup Required
+* [Anondrop](https://anondrop.net/) - Unlimited / Forever / [Discord](https://discord.com/invite/7pX4mW3hnb)
 * [send](https://send.vis.ee/) / [instances](https://gitlab.com/timvisee/send-instances) - 2.5gb / 1 day
 * [edisk](https://www.edisk.cz/) - 10GB / 30 days
 * [file.kiwi](https://file.kiwi/) - Unlimited / 3.5 Days / [Free Download Duration](https://ibb.co/85z9D1s)
@@ -303,6 +302,7 @@
 * [fastupload](https://fastupload.io/en) - 10GB / 30 days
 * [desiupload](https://desiupload.co/) or [uploadraja](https://uploadraja.com/) - 10GB / 15 days
 * [fshare](https://www.fshare.vn/) - 10GB / 5 days
+* [AnonTransfer](https://anontransfer.com/) - 15GB / 30 days
 * [FileDitch](https://fileditch.com/) - 5GB / Forever / [Note](https://ibb.co/F0gTxNC)
 * [megaup](https://megaup.net/) - 5GB / 60 days
 * [ufile](https://ufile.io/) - 5GB / 30 days
@@ -384,11 +384,12 @@
 * [filepress](https://new.filepress.store/)
 * [sharrr](https://www.sharrr.com/)
 * [Photon](https://photondev.netlify.app/)
+* [EchoDuck](https://echoduck.com/)
 * [ffsend](https://github.com/timvisee/ffsend)
 * [File.love](https://file.love/)
 * [spacedrop](https://spacedrop.app/)
-* [IPFS](https://ipfs.tech/) - P2P Hypermedia Protocol / [Resources](https://github.com/ipfs/awesome-ipfs) / [Extension](https://github.com/ipfs/ipfs-companion) / [Desktop](https://github.com/ipfs/ipfs-desktop)
-* [IPFS Cluster](https://ipfscluster.io/) - Automated data availability and redundancy on IPFS
+* [IPFS](https://ipfs.tech/) or [kubo](https://github.com/ipfs/kubo) - P2P Hypermedia Protocol
+* IPFS Tools - [Resources](https://github.com/ipfs/awesome-ipfs) / [Extension](https://github.com/ipfs/ipfs-companion) / [Desktop](https://github.com/ipfs/ipfs-desktop) / [IPFS Cluster](https://ipfscluster.io/)
 
 ***
 

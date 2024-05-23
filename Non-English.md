@@ -534,29 +534,29 @@
 * ⭐ **[MultiMovies](https://multimovies.space/)** - Movies / TV / Anime / Sub / Dub / 1080p / [Telegram](https://telegram.me/multimoviesfun)
 * ⭐ **[MkvCinemas](https://mkvcinemas.wales/)** - Movies / TV / Anime / Sub / Dub / 1080p / 4K / [Telegram](https://t.me/+WzLYNDSawQk1MTk1)
 * ⭐ **[MoviesMod](https://moviesmod.info/)** - Movies / TV / Sub / Dub / 1080p / [Telegram](https://telegram.dog/moviesmodorg) / [Bypass](https://greasyfork.org/en/scripts/474747)
-* ⭐ **[Filmycity](https://filmycity.digital/)** - Movies / TV / Anime / 1080p
+* ⭐ **[Filmycity](https://filmycity.sbs/)** - Movies / TV / Anime / 1080p
 * ⭐ **[SD Toons](https://sdtoons.in)** - Movies / TV / Anime / 1080p
 * ⭐ **[AToZ Cartoonist](https://atozcartoonist.me/)** - Cartoons / Anime / Sub / Dub / 1080p / [Discord](https://discord.com/invite/EpQn49C4jX) / [Link Bypasser](https://greasyfork.org/en/scripts/484907)
 * ⭐ **[ToonsHub](https://www.toonshub.xyz/)** - Anime / Dub / 1080p / [Telegram](https://t.me/s/toonshubupdates) / [Discord](https://discord.com/invite/2mPFKykW4j)
 * ⭐ **[Free Lossless Desi Music](https://hindi-lossless.blogspot.com/)** - Music / FLAC
-* [Mallumv](https://mallumv.pro/) - Movies / Sub / Dub / 1080p / [Telegram](https://t.me/MalluMvoff)
+* [Mallumv](https://mallumv.bond/) - Movies / Sub / Dub / 1080p / [Telegram](https://t.me/MalluMvoff)
 * [SSR Movies](https://ssrmovies.casa/) - Movies / TV / Sub / Dub / 1080p / [Telegram](https://telegram.dog/+MF2EXeitLjMxY2Ux)
-* [MkvMoviesPoint](https://mkvmoviespoint.team/) - Movies / TV / Sub / Dub / 1080p / [Telegram](https://telegram.me/mkvpoint1)
+* [MkvMoviesPoint](https://mkvmoviespoint.blog/) - Movies / TV / Sub / Dub / 1080p / [Telegram](https://telegram.me/mkvpoint1)
 * [MKV Mad](https://www.mkvmad.cool/) - Movies / TV / Sub / Dub / 1080p / [Telegram](https://t.me/mkvmadofficial)
 * [KatMovieHD](https://katmoviehd.boo/) - Movies / TV / Anime / Sub / Dub / 1080p
-* [MoviesFD](https://moviesfd.pro/) - Movies / Sub / Dub / 1080p
+* [MoviesFD](https://moviesfd.shop/) - Movies / Sub / Dub / 1080p
 * [BollyFlix](https://bollyflix.cat/) - Movies / TV / Anime / Sub / Dub / 1080p
 * [Paidnaija](https://paidnaija.com/) - Movies / Sub / 720p / [Telegram](https://t.me/joinchat/E9cst-5oQDA5MzRk)
 * [mkvAnime](https://ww1.mkvanime.mov/) - Movies / Shows / Anime / Sub / Dub / 1080p / [Telegram](https://t.me/+t90Seng2e0QzNzhl)
 * [HDHub4u](https://hdhub4u.nexus/) - Movies / TV / 1080p
 * [Moviespapa](https://moviespapa.digital/m/) - Movies / TV / 1080p / [Telegram](https://t.me/moviespapaco)
 * [MKVHub](https://www.mkvhub.lol/) - Movies / TV / Sub / Dub / 1080p
-* [FilmyMeet](https://filmymeet.art/) - Movies / TV / Dub / 1080p / [Telegram](https://telegram.dog/+VV_6NFqFLTc1N2E1)
+* [FilmyMeet](https://filmy4web.de/) - Movies / TV / Dub / 1080p / [Telegram](https://telegram.dog/+VV_6NFqFLTc1N2E1)
 * [MoviesNation](https://moviesnation.wtf/) - Movies / TV / Sub / Dub / 1080p / [Telegram](https://t.me/+CQizt5B7q880ZDQ9/)
 * [DesireMovies](https://desiremovies.rsvp/) - Movies / TV / Sub / Dub / 1080p
 * [Moviehunt](https://moviehunt.us) - Movies / TV / Sub / Dub / 1080p
 * [UncutHD](https://www.jadoocinema.com/) - Movies / TV / Sub / Dub / 1080p / [Telegram](https://t.me/+6Kx9qLtPyO80OGM1)
-* [9xflix](https://9xflix.wtf/) - Movies / TV / NSFW / Sub / Dub / 720p / [Telegram](https://t.me/ninexflix)
+* [9xflix](https://9xflix.company/m/) - Movies / TV / NSFW / Sub / Dub / 720p / [Telegram](https://t.me/ninexflix)
 * [EdithSeedbox](https://t.me/EdithSeedBox) - Movies / TV / Sub / Dub / 720p / [Login](https://pastebin.com/bQkQpee4)
 * [AnimeAcademy](https://animeacademy.in/) - Anime / Sub / Dub / 1080p
 * [Anilot.in](https://anilot.in/) - Anime / 1080p / [Telegram](https://t.me/Anilot_Anime)
@@ -573,7 +573,7 @@
 ## ▷ Torrenting
 
 * ⭐ **[TamilBlasters](https://1tamilblasters.pm/)** - Movies / [Proxy](https://tamilblasters.unblockit.casa/)
-* ⭐ **[1tamilmv](https://www.1tamilmv.yt/)** - Movies
+* ⭐ **[1tamilmv](https://www.1tamilmv.eu/)** - Movies
 
 ## ▷ Streaming
 
@@ -591,7 +591,7 @@
 * [Bolly2Tolly](https://www.bolly2tolly.net/), [2](https://www.bolly2tolly.com/) - Movies / TV / Sub / Dub / 720p
 * [Piratop](https://piratop.com/) - Movies / TV / Sub / Dub / 720p
 * [OnlineMoviesHindi](https://111.90.159.132/) - Movies / TV / Sub / Dub / 720p
-* [Mp4Moviez](https://www.mp4moviez.limited/) - Movies / TV / 480p / [Telegram](https://t.me/mp4moviezofficial1)
+* [Mp4Moviez](https://www.mp4moviez.legal/) - Movies / TV / 480p / [Telegram](https://t.me/mp4moviezofficial1)
 * [aFimlyWap](https://www.afilmywap.org.tw/) - Movies / TV / 480p / [Telegram](https://telegram.me/+QkTcitP80VplMzhl)
 * [NamasteSerials](https://namasteserials.com/) - TV / Sub / Dub / 720p
 * [Cloudy](https://cloudy.pk/) - Movies / TV / Cartoons / Sub / Dub / 720p / [Telegram](https://t.me/cloudy_pk)
@@ -643,7 +643,7 @@
 * [MyNimeku](https://www.mynimeku.com/) - Anime /Sub / 1080p
 * [Samehadaku](https://samehadaku.care/) - Anime / Sub / 1080p / [Telegram](https://t.me/samehadaku_care)
 * [OtakuDesu](https://otakudesu.cloud/) - Anime / Sub / 720p
-* [Kuramanime](https://kuramanime.cam/) - Anime / Sub / 720p
+* [Kuramanime](https://kuramanime.boo/) - Anime / Sub / 720p
 * [ANIsub](https://anisub.monster/) - Anime / Sub / 720p
 * [Lesics](https://youtube.com/@LesicsIndo) - Engineering Courses
 
@@ -1363,7 +1363,7 @@
 * [SomosMovies](https://somosmovies.com/) - Movies / TV / 1080p / 4K / Latino
 * [LatinoMegaHD](https://www.latinomegahd.net/) - Movies / TV / 1080p / 4K / Latino
 * [GDRIVELatinoHD](https://gdrivelatinohd.net), [2](https://gdrivelatino.net/) - Movies / TV / 1080p / 4K / Latino
-* [Hackstore.rs](https://hackstore.rs/) - Movies / TV / Anime / 1080p / Latino / [Bypass](https://greasyfork.org/en/scripts/484944)
+* [Hackstore.rs](https://www.hackstore.to/) - Movies / TV / Anime / 1080p / Latino / [Bypass](https://greasyfork.org/en/scripts/484944)
 * [Mega-Mkv](https://mega-mkv.com/) - Movies / TV / 1080p / Latino / Castilian / [Bypass](https://greasyfork.org/en/scripts/477591)
 * [VerePeliculas](https://wvw.verepeliculas.com/) - Movies / TV / 1080p / Latino
 * [Mega1080](https://www.mega1080.com/) - Movies / Documentaries / 1080p / Latino
@@ -1581,7 +1581,6 @@
 ## ▷ Streaming
 
 * [moviehdfree]( https://moviehdfree.net/) - Movies / TV
-* [ThaiMovies&Shows](https://m.vk.com/thaimovies) - Movies / TV
 * [037hdmovie](https://www.037hdmovie.com/) - Movies
 * [movie11](https://movie11.com/) - Movies
 
@@ -1618,7 +1617,7 @@
 
 * [Dizilla](https://dizilla.club) - Movies / TV
 * [Yabancı Dizi](https://yabancidizi.pro) - Movies / TV
-* [Hdfilm Cehennemi](https://www.hdfilmcehennemi.us) - Movies / TV
+* [Hdfilm Cehennemi](https://www.hdfilmcehennemi.sh/) - Movies / TV
 * [Full HD Film İzlesene](https://www.fullhdfilmizlesene.de) - Movies / Cartoons
 * [Jet Film izle](https://jetfilmizle.de/) - Movies
 * [Film İzle](https://filmizle2022.info/) - Movies
@@ -1739,7 +1738,6 @@
 
 * [Fshare](https://timfshare.com/) - Video / Audio
 * [PhimDidibkk](https://phim.didibkk.com/) - Movies / TV / Anime
-* [CineTV](https://thuviencine.xyz/) - Movies / TV / Anime
 * [ThuvienHD](https://thuvienhd.com/) - Movies / TV / Anime
 * [HDVietnam](https://www.hdvietnam.xyz/) - Video / Audio
 * [TinMp3](https://tinmp3.com/) - Music
@@ -1764,7 +1762,6 @@
 * [NguonPhim](http://nguonphimd.com/) - Movies
 * [HoatHinh3D](https://hoathinh3d.fun/) - Chinese Animation
 * [HHNinja](https://hhninja2.tv/) - Chinese Animation
-* [HHKungfu](https://hhhkungfu.site/) - Chinese Animation
 * [HHTQvip](https://hhtq6.vip/) - Chinese Animation
 * [VuiGhe](https://vuighe3.com/) - Anime
 * [AnimeTVN](https://animetvn4.com/) - Anime
@@ -1774,7 +1771,7 @@
 * [Unime](https://unime.vercel.app/) - Anime
 * [AnimeHay](https://animehay.blog/) - Anime
 * [AnimeTVN](https://animetvn.com/) - Anime
-* [Anime47](https://anime47.biz/) - Anime
+* [Anime47](https://anime47.pro/) - Anime
 * [HHTQ](https://hhtrungquoc5.com/) - Chinese Anime / Sub / 720p
 * [POPS](https://pops.vn/) - Anime / Cartoon
 * [Tokuvn](https://tokuvn.com/) - Tokusatsu

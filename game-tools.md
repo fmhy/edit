@@ -42,6 +42,7 @@
 * [CSDb](https://csdb.dk/) or [GB64](https://gb64.com/index.php) - Commodore 64 Resources
 * [Textractor](https://github.com/Artikash/Textractor) - Extract Text from Games / Visual Novels
 * [GARbro](https://github.com/morkt/GARbro/) - Browse / Extract Visual Novel Resources
+* [UEVR](https://uevr.io/) - Convert Unreal Engine Games to VR
 * [Oculess](https://github.com/basti564/Oculess) - Remove Oculus Quest Account Requirements & Telemetry
 * [ALVR](https://github.com/alvr-org/ALVR) - Stream VR Games from PC to Headset
 * [ConceptArt](https://vk.com/conceptart) - Video Game Concept Art
@@ -81,9 +82,11 @@
 * [Steam Link](https://play.google.com/store/apps/details?id=com.valvesoftware.steamlink) - Stream Steam Library to TV
 * [Steam Mover](https://www.traynier.com/software/steammover) - Store Steam Games on Multiple Drives
 * [Steam Piracy](https://greasyfork.org/en/scripts/460862) or [Stream To Free](https://greasyfork.org/en/scripts/481139) - Add Piracy Site Links to Steam Store
+* [SteamScout](https://www.togeproductions.com/SteamScout/) - Steam Review Analyzer
 * [BoilR](https://github.com/PhilipK/BoilR) - Sync Game Platforms with Steam
 * [UWPHook](https://briano.dev/UWPHook/) - Add Windows Store Games to Steam
 * [Steam Rom Manager](https://github.com/SteamGridDB/steam-rom-manager) - Add ROMs to Steam
+* [SteamBorrowBypass](https://github.com/benjamin-dev1/SteamBorrowBypass-Windows-10-) - Steam Library Sharing
 * [HonestSteamBrowser](https://honeststeambrowser.com/) - Steam Server Browser
 * [The Wheelhaus](https://thewheelhaus.com/) - Find Random Steam Games
 * [Free Packages](https://steamdb.info/freepackages/) - Mass Activate All Free Steam Games / [Guide](https://youtu.be/svbdw-pYNT8)
@@ -92,7 +95,7 @@
 * [Idle Master Extended](https://github.com/JonasNilson/idle_master_extended) or [IdleDaddy](https://play.google.com/store/apps/details?id=com.steevsapps.idledaddy) - Steam Card Automation
 * [SteamAchievementManager](https://github.com/gibbed/SteamAchievementManager) - Steam Achievement Manager
 * [Steam Charts](https://steamcharts.com/) - Steam Statistics
-* [SteamRep](https://steamrep.com/), [SteamID](https://steamid.io/) / [2](https://steamid.uk/) or [SteamFinder](https://steamidfinder.com/) - Steam ID Lookup
+* [SteamRep](https://steamrep.com/), [SteamID](https://steamid.io/) / [2](https://steamid.uk/), [SteamDetective](https://steamdetective.com/) or [SteamFinder](https://steamidfinder.com/) - Steam ID Lookup
 * [SteamGuard](https://github.com/dyc3/steamguard-cli) - Generate Steam 2FA Codes
 * [Watt Toolkit](https://steampp.net/) - Enhance Steam Functionality / [GitHub](https://github.com/BeyondDimension/SteamTools)
 * [AugmentedSteam](https://augmentedsteam.com/) - Steam Web Enhancement Extension
@@ -282,7 +285,7 @@
 
 ## ▷ Game Maps
 
-* 🌐 **[Map Genie](https://mapgenie.io/)**, [GameMaps](https://www.gamemaps.com/) or [VGMaps](https://www.vgmaps.com/) - Game Map Indexes
+* 🌐 **[Map Genie](https://mapgenie.io/)**, [GameMaps](https://www.gamemaps.com/), [THGL](https://www.th.gl/) or [VGMaps](https://www.vgmaps.com/) - Game Map Indexes
 * [noclip](https://noclip.website/) - Explore Game Maps
 * [KudosPrime](https://www.kudosprime.com/) - Racing Game Maps
 * [bspview](https://sbuggay.github.io/bspview) / [GitHub](https://github.com/sbuggay/bspview) - Explore Quake & GoldSRC Maps
@@ -425,7 +428,7 @@
 * [DarkSoftware](https://www.darksoftware.xyz/) - PS4 / PS3 Firmware
 * [/r/ps3homebrew](https://reddit.com/r/ps3homebrew) - PS3 Homebrew Subreddit
 * [PS3 Disc Dumper](https://github.com/13xforever/ps3-disc-dumper) - Decrypted PS3 Disc Dumper
-* [PS3 Game Updater](https://www.psx-place.com/threads/ps3-game-updater-v1-5-psn-liberator-v0-96b-rudi-rastelli-adds-ps3p-pkg-ripper-support.3766/) or [Manually Updated](http://demo.aldostools.org/updates.html) - Update PS3 Games
+* [PS3 Game Updater](https://www.psx-place.com/threads/ps3-game-updater-v1-5-psn-liberator-v0-96b-rudi-rastelli-adds-ps3p-pkg-ripper-support.3766/), [Rusty Pan](https://github.com/RainbowCookie32/rusty-psn) or [Manually Updated](http://demo.aldostools.org/updates.html) - Update PS3 Games
 * [PS3Themes](http://www.ps3-themes.com/) - PS3 Themes
 * [PSXDev](https://www.psxdev.net/) - PS1 Development
 * [MemcardRex](https://shendosoft.blogspot.com/2014/01/memcardrex-18-released.html?m=1) - PS1 Save Transfer Tools / [Archive](https://archive.org/details/MemcardRex1.8)
@@ -454,6 +457,7 @@
 * [Hard Drop](https://harddrop.com/wiki/Tetris_Wiki) or [Tetris.wiki](https://tetris.wiki/) - Tetris Wikis
 * [Fumen](https://harddrop.com/fumen/) - Tetris Field Editor
 * [WRCsetups](https://wrcsetups.com/) - WRC Setups
+* [Peacock](https://github.com/thepeacockproject/Peacock) - Hitman World of Assassination Server Replacement
 * [Useful Osu](https://github.com/CarbonUwU/Useful-osu) - Osu! Resources
 * [Collection Manager](https://github.com/Piotrekol/CollectionManager) - Osu! Collection Manager
 * [osu trainer](https://github.com/FunOrange/osu-trainer) - Osu! Trainer
@@ -499,6 +503,7 @@
 * ⭐ **[MCPropertyEncyclopedia](https://joakimthorsen.github.io/MCPropertyEncyclopedia/)** - Block Property Encyclopedia
 * ⭐ **[Villager Trading Cheatsheet](https://i.ibb.co/sKBjbzg/e9f8d80e2376.png)**
 * ⭐ **[Minecraft Brewing Cheatsheet](https://minecraft.wiki/images/Minecraft_brewing_en.png)**
+* [GamerGeeks](https://www.gamergeeks.net/) - Minecraft Tools / Calculators
 * [Charm](https://svenhjol.github.io/Charm/), [Essential](https://essential.gg/) or [Quark](https://quarkmod.net/) - Minecraft Quality of Life Mods
 * [MCPEDL](https://mcpedl.com/) - Minecraft PE/Bedrock Mods, Maps & Resources
 * [Pax](https://github.com/froehlichA/pax) or [Mod Manager](https://github.com/kaniol-lck/modmanager) - Minecraft Mod Managers
@@ -606,12 +611,13 @@
 * 🌐 **[MixMods](https://www.mixmods.com.br/)** - GTASA Mods
 * ⭐ **[FiveM](https://fivem.net/)** - Modded GTAV Servers
 * ⭐ **[San Andreas: Multiplayer](https://www.sa-mp.mp/)** - Multiplayer GTA:SA / [Discord](https://discord.com/invite/samp)
-* ⭐ **[CLEO](https://cleo.li/)** - Extensible Library Plugin For III, VC & SA / [Discord](https://discord.com/invite/d5dZSfgBZr)
-* ⭐ **[SilentPatch](https://cookieplmonster.github.io/mods/gta/)** - Quality of Life Fixes For III, VC & SA
+* ⭐ **[CLEO](https://cleo.li/)** - Extensible Library Plugin For GTA III, VC & SA / [Discord](https://discord.com/invite/d5dZSfgBZr)
+* ⭐ **[SilentPatch](https://cookieplmonster.github.io/mods/gta/)** - Quality of Life Fixes For GTA III, VC & SA
 * [Grand Theft Wiki](https://www.grandtheftwiki.com/Main_Page) - GTA Wiki
 * [Rainbomizer](https://rainbomizer.com/) - GTA Randomizer Mods
 * [OpenIV](https://openiv.com/) - Rockstar Game Modding Tool
 * [Gillian's GTA](https://gillian-guide.github.io/) - GTA IV Modding Guide
+* [GTA Connected](https://gtaconnected.com/) - Multiplayer Mod / GTA III, IV, VC, SC / [Discord](https://discord.gg/YSyasDa)
 * [GTA 5 Grand Roleplay](https://gta5grand.com/) - GTAV Roleplay Server
 * [D.E.P](https://www.definitive-edition-project.com/) - Fix GTA PC Port Bugs
 * [Vice City: Multiplayer](https://vc-mp.org/) - Mutiplayer GTA:VC

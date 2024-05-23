@@ -345,7 +345,7 @@
 * ⭐ **[MAS](https://massgrave.dev/#Method_1_-_PowerShell)** / [GitHub](https://github.com/massgravel/Microsoft-Activation-Scripts/) / [Discord](https://discord.gg/gjJEfq7ux8)
 * ⭐ **[KMS_VL_ALL_AIO](https://github.com/abbodi1406/KMS_VL_ALL_AIO)**
 * [EzWindSLIC](https://github.com/Dir3ctr1x/EzWindSLIC) - Vista / 7 / Server 2008
-* [OfficeRTool](https://forums.mydigitallife.net/threads/how-to-support-chat-office-c2r-download-install-activation.62571/) - Office 2016 Activation
+* [OfficeRTool](https://forums.mydigitallife.net/threads/office-r-tool-project.84450/) - Office 2016 Activation
 * [Office Activation Fix](https://massgrave.dev/office-license-is-not-genuine.html)
 
 ***
@@ -463,6 +463,7 @@
 * [Anime Pictures](https://anime-pictures.net/), [N0va](https://n0vadp.hoyoverse.com), [Anime_WallpapersHD](https://t.me/Anime_WallpapersHD/), [WallpaperWaifu](https://wallpaperwaifu.com/) or [MyLiveWallpapers](https://mylivewallpapers.com/) - Anime Wallpapers
 * [99images](https://www.99images.com/) - Celebrity Wallpapers
 * [Dracula Wallpapers](https://draculatheme.com/wallpaper) - Dracula Wallpapers
+* [WallpaperHub](https://www.wallpaperhub.app/) - Windows Wallpapers
 * [Mac Walls](https://goo.gl/photos/HjY1hmo6p3jfFz8a7), [2](https://photos.google.com/share/AF1QipNNQyeVrqxBdNmBkq9ILswizuj-RYJFNt5GlxJZ90Y6hx0okrVSLKSnmFFbX7j5Mg?key=RV8tSXVJVGdfS1RIQUI0Q3RZZVhlTmw0WmhFZ2V3) - Mac Wallpapers
 * [Wallpapers.com](https://wallpapers.com/) - Wallpapers
 * [WallpaperSafari](https://wallpapersafari.com/) - Wallpapers

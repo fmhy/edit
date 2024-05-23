@@ -401,6 +401,7 @@ Linux Gaming Guide
 * ⭐ **[Baobab](https://gitlab.gnome.org/GNOME/baobab)** - Disk Usage Analyzer
 * [ANGRYsearch](https://github.com/DoTheEvo/ANGRYsearch), [CatCLI](https://github.com/deadc0de6/catcli), [xplr](https://xplr.dev/) / [GitHub](https://github.com/sayanarijit/xplr) / [Discord](https://discord.com/invite/JmasSPCcz3), [logo-ls](https://github.com/Yash-Handa/logo-ls), [ugrep](https://ugrep.com) / [GitHub](https://github.com/Genivia/ugrep) or [Achoz](https://github.com/kcubeterm/achoz) - File Explorers
 * [Collector](https://mijorus.it/projects/collector/) - File Drag & Drop
+* [Bash Upload](https://bashupload.com/) - Bash File Upload 50GB / 3 days
 * [z](https://github.com/rupa/z) - Track Most used Directories
 * [Dolphin](https://userbase.kde.org/Dolphin) or [SpaceFM](https://ignorantguru.github.io/spacefm/) - File Managers
 * [p7zip](https://p7zip.sourceforge.net/), [GNU Gzip](https://www.gnu.org/software/gzip/) or [pigz](https://zlib.net/pigz/) - File Archivers / Unzippers
@@ -408,7 +409,7 @@ Linux Gaming Guide
 * [Boxxy](https://github.com/queer/boxxy) - Contain Files / Directories
 * [Junction](https://github.com/sonnyp/Junction) - Change File Associations
 * [Krename](https://apps.kde.org/en-gb/krename/) - Bulk File Renamer
-* [FSLint](https://www.pixelbeat.org/fslint/), [Czkawka](https://qarmin.github.io/czkawka/) or [fclones](https://github.com/pkolaczk/fclones) - Duplicate File Finder
+* [FSLint](https://www.pixelbeat.org/fslint/), [Czkawka](https://qarmin.github.io/czkawka/), [kdiff3](https://apps.kde.org/en-gb/kdiff3/) or [fclones](https://github.com/pkolaczk/fclones) - Duplicate File Finder
 * [xdg-ninja](https://github.com/b3nj5m1n/xdg-ninja) - Unwanted File Finder
 * [rcm](https://github.com/thoughtbot/rcm) - Manage Dotfiles
 * [Zathura](https://git.pwmt.org/pwmt) - Document Viewer
@@ -607,6 +608,7 @@ Linux Gaming Guide
 * [Guitarix](https://guitarix.org/) - Virtual Guitar Amplifier / [Plugins](https://github.com/brummer10/GxPlugins.lv2)
 * [XLD](https://sourceforge.net/projects/xld/) - Lossless Audio Transcoder
 * [BlackHole](https://github.com/ExistentialAudio/BlackHole) - Pass Audio to Apps
+* [Donna](https://www.musicdonna.com/) - AI Music Generator
 * [Mubert AI](https://apps.apple.com/us/app/mubert-ai-music-streaming/id1154429580) - AI Music Radio
 * [Playlisty](https://apps.apple.com/us/app/playlisty-the-playlist-tool/id1459275972) - Transfer Apple Music Playlists to Spotify
 * [Image Tricks Lite](https://apps.apple.com/us/app/image-tricks-lite/id403735824?mt=12) or [SeaShore](https://sourceforge.net/projects/seashore/) - Image Editors
@@ -642,6 +644,7 @@ Linux Gaming Guide
 * 🌐 **[Awesome MacOS](https://github.com/iCHAIT/awesome-macOS)**, [OpenSourceApple](https://opensource.apple.com/), [Awesome Mac](https://github.com/jaywcjlove/awesome-mac) or [Awesome OS Apps](https://github.com/serhii-londar/open-source-mac-os-apps) - FOSS App Indexes
 * 🌐 **[Mac Menu Bar](https://macmenubar.com/)** - Menu Bar App Index
 * ⭐ **[Homebrew](https://brew.sh/)** / [GUI](https://corkmac.app/), [Munki](https://www.munki.org/munki/) or [AppLite](https://aerolite.dev/applite/index.html) - Package Managers
+* [AppsTorrent](https://appstorrent.ru/) / [Note](https://pastebin.com/dNirumnk)
 * [Macintosh Garden](https://macintoshgarden.org/)
 * [MacBed](https://www.macbed.com/)
 * [Pure Mac](https://www.pure-mac.com/)

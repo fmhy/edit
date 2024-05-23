@@ -386,6 +386,7 @@
 * [WebFeed](https://taoshu.in/webfeed/turn-browser-into-feed-reader.html) or [tt-rss](https://tt-rss.org/) - Web RSS Readers
 * [FreshRSS](https://freshrss.org/) or [CommaFeed](https://www.commafeed.com/#/welcome) - Self-Hosted RSS Readers
 * [Inoreader](https://www.inoreader.com/) - RSS Reader
+* [JungleReader](https://www.zajungle.com/) - RSS Reader
 * [Fluent Reader](https://hyliu.me/fluent-reader/) - RSS Reader
 * [NewsFlash](https://gitlab.com/news-flash/news_flash_gtk) - RSS Reader
 * [Miniflux](https://miniflux.app/) - RSS Reader
@@ -489,7 +490,7 @@
 * [Dictionaries](https://github.com/pnlpal/dictionariez), [phlinx](https://phlinx.com/) or [Definer](https://lumetrium.com/definer/) - Popup Dictionaries
 * [Yomitan](https://github.com/themoeway/yomitan) - Popup Japanese Dictionary
 * [CustomRightClickMenu](https://github.com/SanderRonde/CustomRightClickMenu) - Custom Right Click Menu
-* [BigSearch](https://github.com/garywill/BigSearch) - Context Search
+* [BigSearch](https://github.com/garywill/BigSearch) or [SearchJumper](https://hoothin.github.io/SearchJumper/) - Context Search
 * [Selecton](https://github.com/emvaized/selecton-extension) - Text Context Menu
 * [OceanHero](https://oceanhero.today/) - Save the Ocean via Search
 * [Magnifying Glass](https://mybrowseraddon.com/magnifying-glass.html) - Magnify Webpages
@@ -526,6 +527,7 @@
 * [Save Page WE](https://pastebin.com/vbhUaG8E) or [SingleFile](https://github.com/gildas-lormeau/SingleFile) - Save Webpages as HTML
 * [Listly](https://www.listly.io/) - Webpage to Spreadsheet Converter
 * [Favicon Detector](https://github.com/BlackGlory/favicon-detector) - Detect Website Favicons
+* [Betterviewer](https://github.com/Ademking/Betterviewer) - Image View Mode
 * [behind!](https://github.com/kubuzetto/behind) - View Background Images
 * [Smart Upscale](https://tanalin.com/en/projects/smart-upscale/) - Browser Image Upscaling
 * [UI.Vision RPA](https://ui.vision/) - Workflow Automation
@@ -732,6 +734,7 @@
 * [80legs](https://80legs.com/) - Cloud-Based
 * [Crawly](https://crawly.diffbot.com/) - Online Scraper
 * [web.scraper.workers.dev](https://web.scraper.workers.dev/) - Web Scraper
+* [Waymore](https://github.com/xnl-h4ck3r/waymore/) - Web Scraper
 * [grab-site](https://github.com/ArchiveTeam/grab-site) - ArchiveTeam Web Crawler
 * [brozzler](https://github.com/internetarchive/brozzler) - Web Crawler
 

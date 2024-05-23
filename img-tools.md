@@ -30,7 +30,7 @@
 ## ▷ Online Editors
 
 * ⭐ **[Lunapic](https://lunapic.com/)**
-* [Photopea](https://www.photopea.com/) / [Ad Script](https://greasyfork.org/en/scripts/449961)
+* [Photopea](https://www.photopea.com/) / [Ad Script](https://greasyfork.org/en/scripts/449961), [2](https://greasyfork.org/en/scripts/469575)
 * [Pixlr](https://pixlr.com/)
 * [Photomate](https://photomate.dev/)
 * [BeFunky](https://www.befunky.com/)
@@ -316,7 +316,7 @@
 
 ## ▷ Design Apps
 
-* ⭐ **[Canva](https://www.canva.com/)** - Design App/ [Premium Apk](https://rentry.co/FMHYBase64#canva-premium) / [Free Giveaways](https://t.me/canvapro365free), [2](https://t.me/sharecanvaprofree)
+* ⭐ **[Canva](https://www.canva.com/)** - Design App/ [Premium Apk](https://rentry.co/FMHYBase64#canva-premium) / [Free Giveaways](https://t.me/canvapro365free), [2](https://t.me/sharecanvaprofree), [3](https://www.proinvitelinks.com/)
 * ⭐ **[Figma](https://www.figma.com/)** - Design Collab App
 * [lunacy](https://icons8.com/lunacy) - Design App
 * [ArtBoard](https://artboard.studio/) - Design App
@@ -349,10 +349,10 @@
 * ⭐ **[Alphacoders Avatars](https://avatars.alphacoders.com/)** - PFP Icons / GIFs
 * [Icofont](https://icofont.com/icons), [svgl](https://svgl.app/), [iconer](https://iconer.app/), [SimpleIcons](https://simpleicons.org/), [xIcons](https://xicons.org), [Polaris](https://polaris.shopify.com/icons), [Phosphor Icons](https://phosphoricons.com/), [iCongo](https://icongo.github.io/), [IconFinder](https://www.iconfinder.com/), [Ant Design](https://ant.design/components/icon/) or [Orion](https://www.orioniconlibrary.com/) - SVG Icons
 * [FontIcon](https://gauger.io/fonticon/), [PFPMaker](https://pfpmaker.com/), [IconsFlow](https://iconsflow.com/), [Flat-Icon-Surge](https://flat-icon.surge.sh/), [favicon.io](https://favicon.io/) or [Favic-o-Matic](https://favicomatic.com/) - Icon / Logo Generators
-* [Logo Makr](https://logomakr.com/), [Logo Fast](https://shipfa.st/tools/logo-fast), [Hatchful](https://www.shopify.com/tools/logo-maker), [Logomak](https://logomak.com/), [The Logo Wizard](https://www.thelogowizard.com/), [DesignEvo](https://designevo.com/), [LogoFreeway](https://logofreeway.com/logos.php), [Logoshi](https://www.logoshi.com/), [OnlineLogoMaker](https://www.onlinelogomaker.com/), [Free Logo Maker](https://freelogomaker.net/), [LogoMaker](https://www.namecheap.com/logo-maker/app/new/) or [ACME](https://acme.com/labelmaker/) - Logo Creators / [Note](https://i.ibb.co/B3Mn3Hq/b7a4cf526ad1.png)
+* [Logo Makr](https://logomakr.com/), [Logo Fast](https://shipfa.st/tools/logo-fast), [Hatchful](https://www.shopify.com/tools/logo-maker), [Logomak](https://logomak.com/), [The Logo Wizard](https://www.thelogowizard.com/), [DesignEvo](https://designevo.com/), [LogoFreeway](https://logofreeway.com/logos.php), [Logoshi](https://www.logoshi.com/), [logofa.st](https://logofa.st/), [OnlineLogoMaker](https://www.onlinelogomaker.com/), [Free Logo Maker](https://freelogomaker.net/), [LogoMaker](https://www.namecheap.com/logo-maker/app/new/) or [ACME](https://acme.com/labelmaker/) - Logo Creators / [Note](https://i.ibb.co/B3Mn3Hq/b7a4cf526ad1.png)
 * [JSLogo](https://www.calormen.com/jslogo/) - Logo Interpreter
 * [ArtFlow](https://app.artflow.ai/), [Photo A2E](https://photo.a2e.ai) [Avatar Mixer](https://kenney.itch.io/avatar-mixer), [Bitmoji](https://www.bitmoji.com/), [Avatar Maker](https://avatarmaker.com/), [Pravatar](https://pravatar.cc/), [MultiAvatar](https://multiavatar.com/), [Personas](https://personas.draftbit.com/), [react-nice-avatar](https://nice-avatar.dapi.to/) or [Avataaars](https://getavataaars.com/) - Face / Avatar Creators
-* [Method](https://editor.method.ac/) - SVG Editor
+* [Method](https://editor.method.ac/) or [SVG Viewer](https://www.svgviewer.dev/) - SVG Editors / Viewers
 * [SVGFilters](https://svgfilters.com/) - SVG Filter Builder
 * [Crayon](https://designstripe.com/crayon) or [SVGArtista](https://svgartista.net/) - SVG Animation Tools
 * [PixelMe](https://xsgames.co/pixelme/) - 8bit Avatar Creator
@@ -636,7 +636,7 @@
 * [Swapface](https://swapface.org/) / [Discord](https://discord.com/invite/5yPew6Cy6a), [faceswap](https://faceswap.dev/), [AIFaceSwap](https://aifaceswap.io/), [Swapper](https://icons8.com/swapper) or [FaceFusion](https://github.com/facefusion/facefusion) - Face Swapping
 * [WiseTagger](https://github.com/0xb8/WiseTagger) - Image Tagger
 * [BooruDatasetTagManager](https://github.com/starik222/BooruDatasetTagManager) - Booru Image Tagger
-* [Cluttr](https://gitlab.com/bearjaws/cluttr) - Automatically Organize & Tag Photos
+* [Cluttr](https://gitlab.com/bearjaws/cluttr) or [TagStudio](https://github.com/TagStudioDev/TagStudio) - Image File Organizers 
 * [Allusion](https://allusion-app.github.io/) - Reference Image Manager
 * [DigicamControl](https://digicamcontrol.com/) - Camera Controller
 * [Camera Wiki](http://camera-wiki.org/) - Camera Model Wiki
