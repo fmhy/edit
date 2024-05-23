@@ -11,7 +11,7 @@
 * ⭐ **[FMHY Guides](https://rentry.co/fmhy-guides)** - Automated Rentry Guide List / [Script](https://gist.github.com/Rust1667/e21e92ae385e71f0d87e869bed90fff2) / [Download](https://gist.github.com/Rust1667/efc055debaf4876e4de39cc0d32f18c1) / [Backup Rar](https://mega.nz/file/ajgAnZRY#dQgzhwk0v8L9PyoiSGzw54n1bUC35Brq2QgcK5bglHw)
 * ⭐ **[FMHY Search](https://www.reddit.com/r/FREEMEDIAHECKYEAH/comments/105xraz/howto_search_fmhy/)** - Search the Wiki
 * ⭐ **[Awesome Search](https://awesomelists.top/)** - Awesome List Search
-* ⭐ **[/r/InternetIsBeautiful](https://reddit.com/r/InternetIsBeautiful)** - Helpful / Fun Sites
+* ⭐ **[r/InternetIsBeautiful](https://reddit.com/r/InternetIsBeautiful)** - Helpful / Fun Sites
 * [Track Awesome List](https://www.trackawesomelist.com/) - Daily Awesome List Updates
 * [Awesome CLI](https://github.com/umutphp/awesome-cli) - CLI Interface for Searching Awesome Lists
 * [lists](https://github.com/jnv/lists) - List Index
@@ -38,29 +38,24 @@
 
 ***
 
-## ▷ Piracy / Site / Tool Indexes (needs checking)
+## ▷ Site / Tool Indexes
 
-* ⭐ **[/r/Piracy Megathread](https://www.reddit.com/r/Piracy/wiki/megathread)** - Piracy Index / [Mirror](https://rentry.co/megathread)
+* ⭐ **[r/Piracy Megathread](https://www.reddit.com/r/Piracy/wiki/megathread)** - Piracy Index / [Mirror](https://rentry.co/megathread)
 * ⭐ **[Awesome Piracy](https://shakil-shahadat.github.io/awesome-piracy/)** - Piracy Index / [Github](https://github.com/Shakil-Shahadat/awesome-piracy)
 * ⭐ **[Ripped](https://ripped.guide/)** - Piracy Index / [Discord](https://discord.ripped.guide/)
-* ⭐ **[/r/PiratedGames Mega](https://rentry.org/pgames)** - Game Piracy Index / [Discord](https://discord.gg/dZWwhUy)
+* ⭐ **[r/PiratedGames Megathread](https://rentry.org/pgames)** - Game Piracy Index / [Discord](https://discord.gg/dZWwhUy)
 * ⭐ **[privateersclub](https://megathread.pages.dev/)** - Game Piracy Index / [Discord](https://discord.gg/jz8dUnnD6Q)
 * ⭐ **[The Index](https://theindex.moe)** - Japanese Piracy Index / [Discord](https://discord.gg/Snackbox) / [Wiki](https://thewiki.moe/)
 * ⭐ **[Wotaku](https://wotaku.moe/)** - Japanese Piracy Index
 * ⭐ **[EverythingMoe](https://everythingmoe.com/)** - Japanese Piracy Index
-* [Pixelated Pathways](https://courage-1984.github.io/pixelated-pathways/) / [2](https://rentry.org/Pixelated_Pathways) - Site / Tool Index
-* [Delightful Creative Tools](https://codeberg.org/ADHDefy/delightful-creative-tools) - Site / Tool Index
-* [The More You Know](https://marckoxx.github.io/) - Site / Tool Index
+* [Delightful Creative Tools](https://codeberg.org/ADHDefy/delightful-creative-tools) - Media Creation Index
+* [refdesk.com](https://www.refdesk.com/toc.html) - Fact-checking Index
+* [Pixelated Pathways](https://courage-1984.github.io/pixelated-pathways/) / [Mirror](https://rentry.org/Pixelated_Pathways) - Site / Tool Index
 * [Size of Cat](https://sizeof.cat/links/) - Site / Tool Index
-* [RefDesk](https://www.refdesk.com/facts.html) - Site / Tool Index
-* [Cool Websites](https://rentry.co/cool_websites) - Site / Tool Index
-* [iBiblio](https://www.ibiblio.org/) - Site / Tool Index
+* [ibiblio](https://www.ibiblio.org/) - Site / Tool Index
 * [unapothecary's terminal](https://unapothecary.neocities.org/websites) - Site / Tool Index
-* [5000 Best](http://5000best.com/websites/) / [Tools](http://5000best.com/tools/) - Site / Tool Index
 * [mw.rat.bz](https://mw.rat.bz/index.html) - Site / Tool Index
-* [itch.io Tools](https://itch.io/tools/free) - Tool Index
-* [redshift](https://rdshft.net/) - Site Index
-* [ODP](http://odp.org/) - Site Index
+* [redshift](https://rdshft.net/links/) - Site / Tool Index
 
 ***
 
@@ -228,7 +223,6 @@
 * [Seat61](https://www.seat61.com/) - Train Travel Guide
 * [SitInShade](https://sitinshade.com/) - Avoid the Sun While Traveling
 * [eSIMDB](https://esimdb.com/) - Compare eSIM Prices
-* [Travel Safe](https://www.travelsafe-abroad.com/) - Travel Destination Safety Ratings
 * [Hate Map](https://www.splcenter.org/hate-map) - Hate Group Locations
 
 ***
@@ -238,6 +232,7 @@
 * ⭐ **[Passport Index](https://www.passportindex.org/)** - Passport Ratings
 * ⭐ **[Visa Guide](https://visaguide.world/)** or [VisaIndex](https://visaindex.com/) - Worldwide Travel Visa Guides
 * [Best Times to Visit](https://www.thebesttimetovisit.com/) - Find Best Times to Visit Countries
+* [Travel Safe Abroad](https://www.travelsafe-abroad.com/) - Travel Destination Safety Ratings
 * [Airline List](https://airlinelist.com/) - Airline Comparisons
 * [Google Flights](https://www.google.com/travel/flights) - Book Flights
 * [AZair](https://www.azair.eu/) - Flight Price Aggregator
