@@ -232,7 +232,7 @@
 * [AudioTube](https://invent.kde.org/multimedia/audiotube) - Audio Player
 * [Monophony](https://gitlab.com/Vistaus/monophony) - YouTube Music Client
 * [ytermusic](https://github.com/ccgauche/ytermusic/) - YouTube Music Downloader
-* [Deezer Linux](https://github.com/aunetx/deezer-linux) - Deezer Client
+* [Deezer Linux](https://github.com/aunetx/deezer-linux or [DZR](https://github.com/yne/dzr) - Deezer Clients
 * [Myuzi](https://gitlab.com/albanobattistella/myuzi) - Music Streaming App
 * [HeadsetControl](https://github.com/Sapd/HeadsetControl) - Headset Settings Manager
 * [Pipewire](https://wiki.archlinux.org/title/PipeWire#Noise_suppression_for_voice) / [Plugins](https://github.com/wwmm/easyeffects) or [NoiseTorch](https://github.com/noisetorch/NoiseTorch) - Noise Suppression Software
