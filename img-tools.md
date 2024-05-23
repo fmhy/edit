@@ -106,7 +106,6 @@
 * [PixelHunter](https://pixelhunter.io/) - Resize Images for Different Sites
 * [TinyPNG](https://tinypng.com/), [Compress PNG](https://compresspng.com/), [OxiPNG](https://github.com/shssoichiro/oxipng) or [PNGQuant](https://pngquant.org/) - PNG Compressors
 * [JPEG.rocks](https://jpeg.rocks/) - JPEG Re-Encoder
-* [Innocenzi](https://avatar.innocenzi.dev/) - Create Round Avatars
 
 ***
 
@@ -316,7 +315,7 @@
 
 ## ▷ Design Apps
 
-* ⭐ **[Canva](https://www.canva.com/)** - Design App/ [Premium Apk](https://rentry.co/FMHYBase64#canva-premium) / [Free Giveaways](https://t.me/canvapro365free), [2](https://t.me/sharecanvaprofree), [3](https://www.proinvitelinks.com/)
+* ⭐ **[Canva](https://www.canva.com/)** - Design App / [Premium Apk](https://rentry.co/FMHYBase64#canva-premium) / [Free Giveaways](https://t.me/canvapro365free), [2](https://t.me/sharecanvaprofree), [3](https://www.proinvitelinks.com/)
 * ⭐ **[Figma](https://www.figma.com/)** - Design Collab App
 * [lunacy](https://icons8.com/lunacy) - Design App
 * [ArtBoard](https://artboard.studio/) - Design App
@@ -370,6 +369,7 @@
 * [svgco](https://svgco.de/) - Image to SVG Converter
 * [Vector Express](https://vector.express/) or [Vector Magic](https://vectormagic.com/) - Vector Converters
 * [AutoTracer](https://www.autotracer.org/) - Image Vectorizer
+* [Innocenzi](https://avatar.innocenzi.dev/) - Create Round Avatars
 
 ***
 
