@@ -15670,7 +15670,6 @@ onMounted(() => {
 * 🌐 **[Awesome Bug Bounty Builder](https://github.com/0xJin/awesome-bugbounty-builder)** or [Bug Bounty](https://github.com/sehno/Bug-bounty) - Bug Bounty Resources
 * ↪️ **[Multi-Tool Dev Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_multi_dev_tool_sites)**
 * [DevToys](https://devtoys.app/) or [DevToysMac](https://github.com/ObuchiYuki/DevToysMac) or [DevUtils](https://devutils.com/) - Dev Multi-Tool App
-* [Open Source Alternatives](https://www.btw.so/open-source-alternatives) - Open Source Development Software
 * [Student Developer Pack](https://education.github.com/pack) - Free Developer Tools for Students
 * [Mage](https://www.mage.ai/) - Data Science Pipelines
 * [Libera Chat](https://libera.chat/) - IRC Network for Project Collaboration
@@ -15700,17 +15699,10 @@ onMounted(() => {
 * [Penpot](https://penpot.app/) - Cross Domain Design & Prototyping Platform
 * [Webhook.site](https://webhook.site/) - Webhook Tools
 * [WebSequenceDiagrams](https://www.websequencediagrams.com/) - Draw Sequence Diagrams / [Comparisons](https://text-to-diagram.com/)
-* [Egui Node Graph](https://github.com/setzer22/egui_node_graph) or [litegraph.js](https://github.com/jagenjo/litegraph.js) - Build Node Graphs
-* [xNode](https://github.com/Siccity/xNode) - Unity Node Editor
 * [mingrammer](https://diagrams.mingrammer.com) - Diagram as Code / Prototyping
 * [Libraries.io](https://libraries.io/) - Package, Framework & Tool Search
 * [Deps.dev](https://deps.dev/) - Open Source Package Search
-* [pnpm](https://pnpm.io/) - Node.js Package Manager
-* [WebInstall](https://webinstall.dev/) - Easily Install Dev Packages
 * [Authorizer](https://authorizer.dev/) - Developer Authentication Apps
-* [Infisical](https://infisical.com/) - Encrypted Secret Management Platform
-* [Earthly](https://earthly.dev/) - CD/CD Framework Pipeline
-* [Kubespray](https://github.com/kubernetes-sigs/kubespray) - Kubernetes Cluster
 * [Devtron](https://devtron.ai/) - Kubernetes Tool Integration
 * [Hajimari](https://hajimari.io/) - Kubernetes Startpage / [Discord](https://discord.com/invite/HWGZSWJsA8)
 * [CFDocs](https://cfdocs.org/) - CFML Documentation Reference
