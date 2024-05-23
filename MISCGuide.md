@@ -129,6 +129,7 @@
 * ⭐ **[OpenTable](https://www.opentable.com/)** - Restaurant Reservation Search
 * [KitchenConfidentials](https://kitchenconfidentials.com/) - Anonymous Food & Restaurant Reviews / [Subreddit](https://www.reddit.com/r/KitchenConfidential/)
 * [FoodExpirationDates](https://github.com/lorenzovngl/FoodExpirationDates) - Food Expiration Tracker
+* [GoodCalculators](https://goodcalculators.com/raw-to-cooked-weight-conversion-calculator/) - Raw to Cooked Weight Conversion Calculator
 * [Cheese.com](https://cheese.com/) - Cheese Resources
 * [Tea Guide](https://pastebin.com/raw/80GeeXJV) - Tea Guide Masterlist
 * [Coffee Guide](https://pastebin.com/raw/UEzwuyLz) - Coffee Guide Masterlist
