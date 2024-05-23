@@ -197,6 +197,7 @@
 * [Defensive Computing Checklist](https://defensivecomputingchecklist.com/) - Educational Guide
 * [Ken Harris](https://cyber.kenharris.io/) - Educational Guide
 * [AvoidTheHack](https://avoidthehack.com/) - Educational Blog
+* [SNAKE WAREZ](https://pilssken.neocities.org/warez/) - Privacy Tools
 * [Privacy Tools List](https://privacytoolslist.com/) - Privacy Tools
 * [Hostux](https://hostux.network/) - Privacy Tools
 * [Privacy Settings](https://github.com/StellarSand/privacy-settings) - Privacy Setting Guides

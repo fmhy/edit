@@ -7,46 +7,17 @@
 # ► Indexes
 
 * 🌐 **[Awesome List Index](https://github.com/sindresorhus/awesome), [2](https://github.com/topics/awesome)** - All Awesome Lists
-* 🌐 **[Dbzer0 Megathread](https://wiki.dbzer0.com/piracy/)** - Piracy Index
-* 🌐 **[/r/Piracy Megathread](https://www.reddit.com/r/Piracy/wiki/megathread)** - Piracy Index / [Rentry](https://rentry.co/megathread), [2](https://rentry.org/megathread)
-* 🌐 **[Awesome Piracy](https://shakil-shahadat.github.io/awesome-piracy/)** - Piracy Index / [Github](https://github.com/Shakil-Shahadat/awesome-piracy)
-* 🌐 **[Ripped](https://ripped.guide/)** - Piracy Index / [Discord](https://discord.ripped.guide/)
-* 🌐 **[Esoterica Avenue](https://ori5000.github.io/)** - Piracy Index / [Site List](https://rentry.org/EsotericaSiteList) / [Discord](https://discord.gg/enMG8bXUbn)
-* 🌐 **[BOOKMRKS-MTHRFCKR](https://github.com/whoisdsmith/BOOKMRKS-MTHRFCKR-II)** - Site / Tool Index
-* 🌐 **[/r/PiratedGames Mega](https://rentry.org/pgames)** - Game Piracy Index / [Discord](https://discord.gg/dZWwhUy)
-* 🌐 **[CS.RIN Mega](https://cs.rin.ru/forum/viewtopic.php?f=10&t=95461)** - Game Piracy Index
-* 🌐 **[privateersclub](https://megathread.pages.dev/)** - Game Piracy Index / [Discord](https://discord.gg/jz8dUnnD6Q)
-* 🌐 **[Wotaku](https://wotaku.moe/)** - Japanese Piracy Index
-* 🌐 **[The Index](https://theindex.moe)** - Japanese Piracy Index / [Discord](https://discord.gg/Snackbox) / [Wiki](https://thewiki.moe/)
-* 🌐 **[EverythingMoe](https://everythingmoe.com/)** - Japanese Piracy Index
 * ↪️ **[AI Indexes](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/ai#wiki_.25BA_ai_indexes)**
 * ⭐ **[FMHY Guides](https://rentry.co/fmhy-guides)** - Automated Rentry Guide List / [Script](https://gist.github.com/Rust1667/e21e92ae385e71f0d87e869bed90fff2) / [Download](https://gist.github.com/Rust1667/efc055debaf4876e4de39cc0d32f18c1) / [Backup Rar](https://mega.nz/file/ajgAnZRY#dQgzhwk0v8L9PyoiSGzw54n1bUC35Brq2QgcK5bglHw)
 * ⭐ **[FMHY Search](https://www.reddit.com/r/FREEMEDIAHECKYEAH/comments/105xraz/howto_search_fmhy/)** - Search the Wiki
 * ⭐ **[Awesome Search](https://awesomelists.top/)** - Awesome List Search
-* ⭐ **[/r/InternetIsBeautiful](https://reddit.com/r/InternetIsBeautiful)** - Helpful / Fun Sites
+* ⭐ **[r/InternetIsBeautiful](https://reddit.com/r/InternetIsBeautiful)** - Helpful / Fun Sites
 * [Track Awesome List](https://www.trackawesomelist.com/) - Daily Awesome List Updates
 * [Awesome CLI](https://github.com/umutphp/awesome-cli) - CLI Interface for Searching Awesome Lists
-* [WebOas.is](https://weboasis.app/), [2](https://ndsamuelson.github.io/weboas-is/) - Startpage / Site Index / [Source Code](https://pastebin.com/CczqreS4) / [Archive](https://rentry.co/e9y6b) / [FAQ](https://bin.disroot.org/?6a50fab15330b762#7VwnxM9Jsvp8wWmW6eFmmxyXppWVjErn4CMgd8wii9pC)
 * [lists](https://github.com/jnv/lists) - List Index
 * [Curlie](https://curlie.org/) - Topic Directory
 * [ooh.directory](https://ooh.directory/) - Blog Directory
-* [No-Signup Tools](https://www.nosignup.tools/) - No-Signup Tool Index
 * [StatsCrop](https://www.statscrop.com/websites/top-sites/), [DirtyWarez](https://dirtywarez.org/) or [CuteStat](https://www.cutestat.com/) - Site Rankings & Stats
-* [blooem](https://blooem.pages.dev/) / [2](https://blooem.its.moe) - Piracy Guides
-* [pilssken](https://pilssken.neocities.org/warez/) or [The Pirate List](https://thepiratelist.com/) - Piracy Index
-* [Pixelated Pathways](https://courage-1984.github.io/pixelated-pathways/) / [2](https://rentry.org/Pixelated_Pathways) - Site / Tool Index
-* [Delightful Creative Tools](https://codeberg.org/ADHDefy/delightful-creative-tools) - Site / Tool Index
-* [The More You Know](https://marckoxx.github.io/) - Site / Tool Index
-* [Size of Cat](https://sizeof.cat/links/) - Site / Tool Index
-* [RefDesk](https://www.refdesk.com/facts.html) - Site / Tool Index
-* [Cool Websites](https://rentry.co/cool_websites) - Site / Tool Index
-* [iBiblio](https://www.ibiblio.org/) - Site / Tool Index
-* [unapothecary's terminal](https://unapothecary.neocities.org/websites) - Site / Tool Index
-* [5000 Best](http://5000best.com/websites/) / [Tools](http://5000best.com/tools/) - Site / Tool Index
-* [mw.rat.bz](https://mw.rat.bz/index.html) - Site / Tool Index
-* [itch.io Tools](https://itch.io/tools/free) - Tool Index
-* [redshift](https://rdshft.net/) - Site Index
-* [ODP](http://odp.org/) - Site Index
 * [VRFavs](https://www.vrfavs.com/) - Virtual Reality Resources
 * [Simple Tools](https://simpletools.info/doku.php) - Simple Programs Index
 * [Appscope](https://appsco.pe/), [findPWA](https://findpwa.com/), [Store.app](https://store.app/), [SaaS Discovery](https://saasdiscovery.com/) or [Electron](https://www.electronjs.org/apps) - Web App Indexes
@@ -62,10 +33,42 @@
 * [Creative Commons](https://github.com/fmhy/FMHYedit/issues/1386#issuecomment-1906854653) - Creative Commons Content Sites
 * [Cyberlife](https://cyberpunk-life.neocities.org/) - Cyberpunk-Related Content / Sites Index
 * [sourcehut](https://sr.ht/) - Public Project Index
-* [PiracyBank](https://piracybank.org/websites) - Sites with Detected Copyright Infringement
 * [ImageBoards](https://imageboards.net/), [Chan List](https://archive.is/Npzwl) or [imageboards.json](https://github.com/ccd0/imageboards.json/blob/gh-pages/imageboards.json) - Imageboard Index
 * [Single Serving Sites](https://singleservingsites.cool/) - Single-Purpose Sites
-* [Similar Sites](https://www.similarsites.com/), [SimilarWeb](https://www.similarweb.com/), [xRanks](https://xranks.com/), [similarsitesearch](https://www.similarsitesearch.com/), [TopSimilarSites](https://www.topsimilarsites.com/), [odir.us](https://odir.us/), [Sitelike.org](https://www.sitelike.org/), [SitesLike](https://www.siteslike.com/) - Similar Site Indexes
+
+***
+
+## ▷ Site / Tool Indexes
+
+* ⭐ **[r/Piracy Megathread](https://www.reddit.com/r/Piracy/wiki/megathread)** - Piracy Index / [Mirror](https://rentry.co/megathread)
+* ⭐ **[Awesome Piracy](https://shakil-shahadat.github.io/awesome-piracy/)** - Piracy Index / [Github](https://github.com/Shakil-Shahadat/awesome-piracy)
+* ⭐ **[Ripped](https://ripped.guide/)** - Piracy Index / [Discord](https://discord.ripped.guide/)
+* ⭐ **[r/PiratedGames Megathread](https://rentry.org/pgames)** - Game Piracy Index / [Discord](https://discord.gg/dZWwhUy)
+* ⭐ **[privateersclub](https://megathread.pages.dev/)** - Game Piracy Index / [Discord](https://discord.gg/jz8dUnnD6Q)
+* ⭐ **[The Index](https://theindex.moe)** - Japanese Piracy Index / [Discord](https://discord.gg/Snackbox) / [Wiki](https://thewiki.moe/)
+* ⭐ **[Wotaku](https://wotaku.moe/)** - Japanese Piracy Index
+* ⭐ **[EverythingMoe](https://everythingmoe.com/)** - Japanese Piracy Index
+* [Delightful Creative Tools](https://codeberg.org/ADHDefy/delightful-creative-tools) - Media Creation Index
+* [refdesk.com](https://www.refdesk.com/toc.html) - Fact-checking Index
+* [Pixelated Pathways](https://courage-1984.github.io/pixelated-pathways/) / [Mirror](https://rentry.org/Pixelated_Pathways) - Site / Tool Index
+* [Size of Cat](https://sizeof.cat/links/) - Site / Tool Index
+* [ibiblio](https://www.ibiblio.org/) - Site / Tool Index
+* [unapothecary's terminal](https://unapothecary.neocities.org/websites) - Site / Tool Index
+* [mw.rat.bz](https://mw.rat.bz/index.html) - Site / Tool Index
+* [redshift](https://rdshft.net/links/) - Site / Tool Index
+
+***
+
+## ▷ Alternative Software Sites
+
+* ⭐ **[AlternativeTo](https://alternativeto.net/)** - Crowdsourced Recommendations
+* [SaaSHub](https://www.saashub.com/)
+* [Alternative.me](https://alternative.me/)
+* [opensourcealternative.to](https://www.opensourcealternative.to/) - Open-source Alternatives
+* [TopAlter.com](https://topalter.com/)
+* [ListAlternative](https://www.listalternative.com/)
+* [Appmus](https://appmus.com/)
+* [SimilarSiteSearch](https://www.similarsitesearch.com/), [Sitelike.org](https://www.sitelike.org/), [SitesLike](https://www.siteslike.com/) - Similar Site Lists
 
 ***
 
@@ -219,7 +222,6 @@
 * [Seat61](https://www.seat61.com/) - Train Travel Guide
 * [SitInShade](https://sitinshade.com/) - Avoid the Sun While Traveling
 * [eSIMDB](https://esimdb.com/) - Compare eSIM Prices
-* [Travel Safe](https://www.travelsafe-abroad.com/) - Travel Destination Safety Ratings
 * [Hate Map](https://www.splcenter.org/hate-map) - Hate Group Locations
 
 ***
@@ -229,6 +231,7 @@
 * ⭐ **[Passport Index](https://www.passportindex.org/)** - Passport Ratings
 * ⭐ **[Visa Guide](https://visaguide.world/)** or [VisaIndex](https://visaindex.com/) - Worldwide Travel Visa Guides
 * [Best Times to Visit](https://www.thebesttimetovisit.com/) - Find Best Times to Visit Countries
+* [Travel Safe Abroad](https://www.travelsafe-abroad.com/) - Travel Destination Safety Ratings
 * [Airline List](https://airlinelist.com/) - Airline Comparisons
 * [Google Flights](https://www.google.com/travel/flights) - Book Flights
 * [AZair](https://www.azair.eu/) - Flight Price Aggregator
@@ -274,9 +277,10 @@
 
 ## ▷ Navigation / Transport
 
-* ⭐ **[Organic Maps](https://organicmaps.app/)** or **[OsmAnd](https://osmand.net/)** - Offline Mobile Maps
+* ⭐ **[Organic Maps](https://organicmaps.app/)**, **[OsmAnd](https://osmand.net/)** or [Magic Earth](https://www.magicearth.com/) - Mobile Maps
 * ⭐ **[OpenStreetMap](https://www.openstreetmap.org/)** - Online Maps / [Advanced Search](https://nominatim.openstreetmap.org/ui/search.html) / [Overpass API GUI](https://overpass-turbo.eu/)
 * ⭐ **[Google Maps](https://www.google.com/maps/)** - Online Maps / [Themes for Web Developers](https://snazzymaps.com/)
+* [GMaps WV](https://f-droid.org/packages/us.spotco.maps/) / [GitHub](https://gitlab.com/divested-mobile/maps) - Restricted Google Maps WebView Wrapper
 * [Bing Maps](https://www.bing.com/maps) - Online Maps
 * [Waze](https://www.waze.com/) / [Editor](https://www.waze.com/en-US/editor) - Traffic and Road Conditions Map
 * [Wikiroutes](https://wikiroutes.info/) - Public Transport Routes
@@ -390,6 +394,7 @@
 
 ## ▷ Satellite / Earth Data
 
+* [StreetComplete](https://streetcomplete.app/) - OpenStreetMap Surveyor App
 * [FacilMap](https://facilmap.org/) or [OsmAPP](https://osmapp.org/) - OSM Web Apps
 * [OpenMapTiles](https://openmaptiles.org/) - Self-hosted Map Tools
 * [Google Earth](https://earth.google.com/web/) - Earth Viewer
@@ -846,6 +851,7 @@
 * [GreenStash](https://github.com/Pool-Of-Tears/GreenStash) - Savings Tracking App
 * [Pepper](https://www.pepper.com/) - Shopping Community
 * [gedd.it](https://gedd.it/) - Shop via Reddit
+* [Slant](https://www.slant.co/) - "What are the best..." Product Rankings
 * [Randomicle](https://randomicle.com/) - Random Amazon Products
 * [Amazon International Links](https://greasyfork.org/en/scripts/38639-amazon-international-links) - International Amazon Products
 * [Facebook Ad Library](https://www.facebook.com/ads/library/) - Find Deals via Facebook Ad Search
