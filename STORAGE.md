@@ -37,14 +37,6 @@
 
 ***
 
-## Alternative Software / App Sites
-
-* ⭐ **[AlternativeTo](https://alternativeto.net/)**
-
-[Ethical](https://ethical.net/), [Slant](https://www.slant.co/), [SaaSHub](https://www.saashub.com/), [switching.software](https://switching.software/), [Alternative.me](https://alternative.me/), [Top Best Alternatives](https://www.topbestalternatives.com/), [gofoss.net](https://gitlab.com/curlycrixus/gofoss), [Open Source Alternative To](https://www.opensourcealternative.to/), [TopAlter.com](https://topalter.com/), [ListAlternative](https://www.listalternative.com/), [Free Competitors](https://notabug.org/jyamihud/FreeCompetitors), [AppMus](https://appmus.com/)
-
-***
-
 ## Android Audio Players
 
 * ⭐ **[Poweramp](https://forum.mobilism.org/search.php?keywords=poweramp&sr=topics&sf=titleonly)**
