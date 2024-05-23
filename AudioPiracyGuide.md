@@ -755,7 +755,7 @@
 
 ***
 
-## ▷ Browser Editors / Synthesizers
+## ▷ Browser Editors / Synths
 
 * ⭐ **[Audioalter](https://audioalter.com/)** - Online Editor
 * ⭐ **[WavaCity](https://wavacity.com/)** - Online Editor
