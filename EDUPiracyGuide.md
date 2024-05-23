@@ -471,10 +471,11 @@
 * ⭐ **[Wumbo](https://wumbo.net/)** - Math Reference Site
 * ⭐ **[AoPS Alcumus](https://artofproblemsolving.com/)** - Interactive Math Site
 * ⭐ **[BetterExplained](https://betterexplained.com/)** - Math Guides / Courses
-* ⭐ **[Wolfram|Alpha](https://www.wolframalpha.com/examples/mathematics)** - Calculator
-* ⭐ **[Omni Calculator](https://www.omnicalculator.com/)** - Calculator
-* [GigaCalculator](https://www.gigacalculator.com/) - Calculator
-* [numbr.dev](https://numbr.dev/) - Calculator
+* ⭐ **[Wolfram|Alpha](https://www.wolframalpha.com/examples/mathematics)** - Calculators
+* ⭐ **[Omni Calculator](https://www.omnicalculator.com/)** - Calculators
+* [GoodCalculators](https://goodcalculators.com/) - Calculators
+* [GigaCalculator](https://www.gigacalculator.com/) - Calculators
+* [numbr.dev](https://numbr.dev/) - Calculators
 * [Qalculate](https://qalculate.github.io/) - Desktop Calculator
 * [QwikTape](https://github.com/4silvertooth/QwikTape) - Note Style Calculator
 * [MathB.in](https://mathb.in/) - Mathematics pastebin with LaTeX and Markdown
