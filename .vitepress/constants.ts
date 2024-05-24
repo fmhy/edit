@@ -135,7 +135,7 @@ export const sidebar: DefaultTheme.Sidebar | DefaultTheme.NavItemWithLink[] = [
       },
       {
         text: '<span class="i-twemoji:alien-monster"></span> Gaming Tools',
-        link: '/game-tools'
+        link: '/gaming-tools'
       },
       {
         text: '<span class="i-twemoji:camera"></span> Image Tools',
