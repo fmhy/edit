@@ -48,7 +48,7 @@
 * [Animerco](https://animerco.org/) - Anime / Sub / 1080p
 * [shahiid](https://shahiid-anime.net/) - Anime / Sub / 720p
 * [jotorrent](https://www.jotorrent.com/) - Anime / Signups Open Every Month
-* [fomny](https://fomny-tv.com/), [qayadat](https://live.qayadat.org/) or [elahmad](http://www.elahmad.com/tv/arabic-channel.php) - Live TV
+* [elahmad](http://www.elahmad.com/tv/arabic-channel.php) - Live TV
 * [al-fann](https://www.al-fann.net/) - Music
 
 ## ▷ Reading / القراءة
@@ -217,7 +217,6 @@
 * [AutumnWindBookstore](https://www.qiufengshuwu.com/) - Fiction
 * [ixdzs](https://ixdzs8.tw/) - Fiction
 * [99csw.com](https://99csw.com/) - Fiction / Non-fiction
-* [3gfk](https://www.3gfk.com/)- Fiction
 * [nunubook.com](https://nunubook.com/) - Fiction / Non-fiction
 * [qianyege.com](https://www.qianyege.com/) - Fiction
 * [haodoo](https://haodoo.net/) - Fiction
@@ -225,7 +224,6 @@
 * [xxbiqudu](https://www.xxbiqudu.com/) - Fiction
 * [lingjingxingzhe](https://lingjingxingzhe.com/) - Fiction
 * [guoxuedashi.net](https://www.guoxuedashi.net/) - Fiction / Non-fiction
-* [huibooks.com](https://www.huibooks.com/) - Fiction / Non-fiction
 * [5165.org](https://5165.org/) - Fiction / Nonfiction
 * [zhonghuadiancang](https://www.zhonghuadiancang.com/) - Classic Books
 * [52shuku](https://www.52shuku.vip/) - Books / Light-Novels
@@ -234,7 +232,6 @@
 * [118book](https://www.118book.com/) - Books / Light-Novels
 * [Piaotian](https://www.piaotia.com/) - Books / Light-Novels
 * [qqszz](https://www.qqszz.net/) - Books / Light-Novels / Requires Sign-Up
-* [uukanshu](https://www.uukanshu.com/) - Light-Novels
 * [lightnovel.us](https://www.lightnovel.us/) - Light-Novels
 * [beqege](https://www.beqege.cc/) - Light-Novels
 * [Zongheng](https://www.zongheng.com/) - Light-Novels
@@ -800,7 +797,6 @@
 * [J-pop Music Download](https://jpop.xyz/category/k-pop/) - Music / MP3 / FLAC
 * [4Sashi](https://4sashi.com/) - Music / MP3 / FLAC
 * [KPopExplorer](https://kpopexplorer.net/) - Music / MP3 / FLAC
-* [KPopSea](https://kpopjams.com/) - Music / MP3 / FLAC
 * [ilKPOP](https://ilkpop.com/) - Music / MP3
 
 ## ▷ Torrenting
@@ -1088,7 +1084,6 @@
 * [Baixe Livros](https://www.baixelivros.com.br) - Books
 * [eBooksBrasil](https://ebooksbrasil.org) - Books
 * [Online Cursos Gatuitos](https://onlinecursosgratuitos.com) - Books
-* [Biblioteca Virtual](https://www.sp.senac.br/jsp/default.jsp?newsID=a21382.htm&testeira=386) - Open Digital Libraries
 * [Cultura Acadêmica](https://www.culturaacademica.com.br) - Educational Books
 * [Toomics](https://global.toomics.com/br) - Comics
 * [Arte HQs](http://www.artehqs.com.br) - Comics
@@ -1817,26 +1812,23 @@
 * [DocTaiLieu](https://doctailieu.com/) - Educational Books / Documents
 * [Fecomic](https://fecomic.cc/) - Manga / Manhwa / Manhua
 * [Truyencc](https://truyencc.com/) - Manga / Manhwa / Manhua
-* [KhoTruyen](https://khotruyenmoi.club/) - Manga / Manhwa / Manhua
 * [HanulTruyen](https://hanultruyen.net/) - Manga / Manhwa / Manhua
 * [ThichTruyen](https://thichtruyen.vn/) - Manga / Manhwa / Manhua
 * [CongTruyen](https://congtruyen.org/) - Manga / Manhwa / Manhua
 * [TruyenQQ](https://truyenqqviet.com/) - Manga / Manhwa / Manhua
-* [DichTruyen](https://dichtruyenprone.com/) - Manga / Manhwa / Manhua / [Facebook](https://www.facebook.com/dichtruyenteam/)
 * [COMI](https://comi.mobi/) - Manga / Manhwa / Manhua / Novel
 * [cuutruyen](https://cuutruyen.net/) - Manga
 * [Bao Tung Truyen](https://baotangtruyen10.com/) - Manga
 * [Kyoto Manga](https://kyotomanga.live/) - Manga
 * [NetTruyen](https://www.nettruyentt.com/) - Manga
 * [blogtruyen](https://blogtruyenvn.com/) - Manga
-* [truyenvn](https://truyenvnhay.lol/) - Manga/ Manhwa/ Manhua
-* [PheTruyen](https://phetruyen.vip/) - Manga/ Manhwa/ Manhua
-* [Dtruyen](https://dtruyen.com/) - Manga/ Manhwa/ Manhua
-* [Thichdoctruyen](https://thichdoctruyen.vip/) - Manga/ Manhwa/ Manhua
-* [Truyensieuhay](https://truyensieuhay.com/) - Manga/ Manhwa/ Manhua
-* [Goctruyen](https://goctruyentranhvui.com/trang-chu) - Manga/ Manhwa/ Manhua
-* [Vietwriter](https://vietwriter.vn/) - Manga/ Manhwa/ Manhua / Novel
-* [Doctruyen5s](https://doctruyen.vip/) - Manga/ Manhwa/ Manhua
+* [PheTruyen](https://phetruyen.vip/) - Manga / Manhwa / Manhua
+* [Dtruyen](https://dtruyen.com/) - Manga / Manhwa / Manhua
+* [Thichdoctruyen](https://thichdoctruyen.vip/) - Manga / Manhwa / Manhua
+* [Truyensieuhay](https://truyensieuhay.com/) - Manga / Manhwa / Manhua
+* [Goctruyen](https://goctruyentranhvui.com/trang-chu) - Manga / Manhwa/ Manhua
+* [Vietwriter](https://vietwriter.vn/) - Manga / Manhwa / Manhua / Novel
+* [Doctruyen5s](https://doctruyen.vip/) - Manga / Manhwa / Manhua
 * [truyengihay](https://truyengihotqua.com/) - Manga
 * [TruyenFull](https://truyenfull.vn/) - Manga / Light Novels
 * [Hako](https://docln.net/), [2](https://novelvn.net/) - Light Novels / [Facebook](https://www.facebook.com/groups/hako.group)
