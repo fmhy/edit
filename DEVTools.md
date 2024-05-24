@@ -347,14 +347,14 @@
 * [google-indexing-script](https://github.com/goenning/google-indexing-script) - Google Indexing Script
 * [ElasticSearch](https://www.elastic.co/products/elasticsearch) / [GitHub](https://github.com/elastic/elasticsearch) - Search & Analytics Engine
 * [SerPreview](https://serpreviewtool.com/) - Site Search Results
-* [Schema Markup Testing Tools](https://developers.google.com/search/docs/appearance/structured-data) - Test Sites Google Results
 * [Robots.txt Tester](https://support.google.com/webmasters/answer/6062598) - Test Your robots.txt
-* [Charles 3](https://www.charlesproxy.com/download/previous-release/) / [Activation](https://rentry.co/FMHYBase64#charles-activate) or [ProxyMan](https://proxyman.io/) - Web Debugging Proxy Apps
+* [Charles 3](https://www.charlesproxy.com/download/previous-release/) / [Activation](https://rentry.co/FMHYBase64#charles-activate) - Web Debugging Proxy App
 * [CORS Proxy](https://corsproxy.github.io/) - Free CORS Proxy
 * [Tabler](https://tabler.io/) - Site Admin Dashboard
 * [Octopus](https://octopus.do/sitemap) - Site Planning Tool
 * [Browser Default Styles](https://browserdefaultstyles.com/) - Default Browser Style Search
 * [Utom Design](https://utom.design/measure) - Sketch Measure
+* [Typeculator](https://typeculator.alexpaul.me/) - Type Scale Calculator
 * [WireFlow](https://wireflow.co/) - Flow Prototype Maker
 * [Lenis](https://lenis.studiofreight.com/) - Smooth Scroll Library
 * [Open Source Guides](https://opensource.guide/) - Open Source Software Tips / [GitHub](https://github.com/github/opensource.guide)
@@ -387,13 +387,8 @@
 * [SCM Music Player](https://www.scmplayer.net/), [WebAMP](https://webamp.org/), [cassette-yt](https://saint-images.github.io/player.html) or [webdeckplayer](https://webdeckplayer.neocities.org/) - Site Audio / Music Players
 * [Stream Defence](https://www.streamdefence.com/) - Website Video Backup System
 * [MapBox](https://www.mapbox.com/) or [leafletjs](https://leafletjs.com/) - Live Maps, Location Search & More
-* [Maps-Core](https://openmobilemaps.io/) - Mobile Map SDK
-* [Kontactr](https://kontactr.com/), [Tally](https://tally.so/), [JotForm](https://www.jotform.com/), [99Inbound](https://www.99inbound.com/), [Forms.id](https://forms.id/) or [Form.taxi](https://form.taxi/) - Form Creators
 * [LDRS](https://uiball.com/ldrs/) - Loading Animations
-* [Loading.io](https://loading.io/) - Customizable Loading SVG
-* [Fontello](https://github.com/fontello/fontello) - Combine Icon Webfonts
 * [Medusa](https://medusajs.com) - Digital Commerce Development Tool
-* [PlayWright](https://playwright.dev/) or [LaVague](https://github.com/lavague-ai/LaVague) - Web Automation
 * [Can I Use?](https://caniuse.com/) - Browser Support Tables
 * [Appwrite](https://appwrite.io/) or [Shuttle](https://www.shuttle.rs/) - Open-Source Backend Platforms
 * [squid](http://www.squid-cache.org/) - Caching Proxy / [MSI Installer](https://squid.diladele.com/)
@@ -654,32 +649,24 @@
 * 🌐 **[Awesome DataScience](https://github.com/academic/awesome-datascience)** or [Best Data Science Resources](https://github.com/Mohitkr95/Best-Data-Science-Resources) - Data Science Resources
 * 🌐 **[Awesome Bug Bounty Builder](https://github.com/0xJin/awesome-bugbounty-builder)** or [Bug Bounty](https://github.com/sehno/Bug-bounty) - Bug Bounty Resources
 * ↪️ **[Multi-Tool Dev Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_multi_dev_tool_sites)**
-* [DevToys](https://devtoys.app/) or [DevToysMac](https://github.com/ObuchiYuki/DevToysMac) or [DevUtils](https://devutils.com/) - Dev Multi-Tool App
+* [DevToys](https://devtoys.app/) - Dev Multi-Tool App
 * [Student Developer Pack](https://education.github.com/pack) - Free Developer Tools for Students
 * [Mage](https://www.mage.ai/) - Data Science Pipelines
-* [Libera Chat](https://libera.chat/) - IRC Network for Project Collaboration
 * [AppFlowy](https://appflowy.io/) / [GitHub](https://github.com/AppFlowy-IO/AppFlowy) - Project Workspace
 * [DevDeals](https://www.devdeals.org/) - Free Tools / Promotions for Developers
-* [CodeProject](https://www.codeproject.com/), [Spiceworks Community](https://community.spiceworks.com/)
-, [DEV Community](https://dev.to/) or [Blind](https://www.teamblind.com/) - Developer Forums
+* [CodeProject](https://www.codeproject.com/), [Spiceworks Community](https://community.spiceworks.com/), [DEV Community](https://dev.to/) or [Blind](https://www.teamblind.com/) - Developer Forums
 * [Tech-Blogs](https://tech-blogs.dev/) - Blogs for Developers
 * [The Devs Network](https://thedevs.network/) - Developer Chat
 * [StackShare](https://stackshare.io/) - Tech Stack Collaboration
 * [Codever](https://www.codever.dev/) - Bookmarks Manager for Developers
 * [hackertab.dev](https://hackertab.dev/) - Browser Startpage for Developers
-* [sli.dev](https://sli.dev/) - Markdown to Slideshow
-* [Volume](https://www.volumestories.com/) - Create Immersive Reading Experiences
 * [daily.dev](https://daily.dev/) - Replace New Tab Page with Developer Articles
-* [Typeculator](https://typeculator.alexpaul.me/) - Type Scale Calculator
-* [Hunspell](https://github.com/hunspell/hunspell) - Spellchecking Library
 * [Media Chrome](https://www.media-chrome.org/) - Media Player Elements / [GitHub](https://github.com/muxinc/media-chrome)
 * [ReadMeTemplate](https://github.com/roshanlam/ReadMeTemplate) - README Template
-* [Read the Docs](https://about.readthedocs.com/), [MkDocs](https://www.mkdocs.org/), [jsWiki](https://js.wiki/) / [GitHub](https://github.com/Requarks/wiki), [Mintlify](https://mintlify.com/), [marker](https://marker.pages.dev/), [MarkDoc](https://markdoc.dev/) or [mkdocstrings](https://mkdocstrings.github.io/) - Documentation Creators / [Theme](https://github.com/squidfunk/mkdocs-material)
 * [ZealDocs](https://zealdocs.org/) - Offline Document Viewer
-* [Changie](https://changie.dev/) - Automated Changelog / [GitHub](https://github.com/miniscruff/changie)
-* [ChooseALicense](https://choosealicense.com/) - List of Open Source Licenses & Help Choose Them
+* [choose-a-license](https://writefreesoftware.org/learn/participate/choose-a-license/) or [ChooseALicense](https://choosealicense.com/) - List of Open Source Licenses
 * [PrivacyPolicyTemplate](https://www.privacypolicytemplate.net/), [PrivacyBoard](https://www.privacyboard.co/) or [PrivacyLabel](https://www.privacylabel.org/) - Generate Privacy Policies
-* [OpenSSH](https://www.openssh.com/) or [Eternal Terminal](https://eternalterminal.dev/) - SSH Clients / Server
+* [Eternal Terminal](https://eternalterminal.dev/) - SSH Clients / Server
 * [PuTTY](https://www.chiark.greenend.org.uk/~sgtatham/putty/) - SSH & Telnet Client / [Multi-Tab](https://ttyplus.com/) / [Fork](https://www.9bis.net/kitty/#!index.md) / [GitHub](https://github.com/cyd01/KiTTY/)
 * [Penpot](https://penpot.app/) - Cross Domain Design & Prototyping Platform
 * [Webhook.site](https://webhook.site/) - Webhook Tools
@@ -693,13 +680,12 @@
 * [CFDocs](https://cfdocs.org/) - CFML Documentation Reference
 * [Input Delay Test](https://input-delay.glitch.me/) - Input Delay Experiment
 * [Asynchronous Messaging](https://github.com/clemensv/messaging) - Asynchronous Messaging Resources
-* [Discord Devs: Community Resources](https://discord.com/developers/docs/topics/community-resources) - Integrate Services with Discord
 * [discord-api-libs](https://github.com/Apacheli/discord-api-libs) - Community Libraries for Discord API
+* [Discord Devs: Community Resources](https://discord.com/developers/docs/topics/community-resources) - List of Discord bot libraries
 * [botwiki](https://botwiki.org/) - Learn How to Make Bots
 * [reddit-moderator-toolbox](https://github.com/toolbox-team/reddit-moderator-toolbox) - Toolbox for Reddit Extension Development
 * [Wokwi](https://wokwi.com/) - Arduino / ESP32 Board Simulator
 * [Tesseract](https://tesseract-ocr.github.io/) - Open Source OCR Engine / [GitHub](https://github.com/tesseract-ocr/tesseract)
-* [CLIP-as-service](https://clip-as-service.jina.ai) / [GitHub](https://github.com/jina-ai/clip-as-service) - Embed Images / Sentences via CLIP Models
 * [devSwag](https://devswag.io/) - Developer Giveaways
 
 ***
@@ -1272,6 +1258,7 @@
 * ⭐ **[Bluefish](https://bluefish.openoffice.nl/index.html)** - [Templates](https://templates.openoffice.org/en)
 * ⭐ **[Competitive Editor](https://cpeditor.org/)** - Competitive Programming Editor
 * ⭐ **[WebDen](https://webden.dev/)**, [Sharplab](https://sharplab.io/), [tech.io](https://tech.io/), [CodingGround](https://www.tutorialspoint.com/codingground.htm) or [Online Tools](https://onlinetool.io/) - Code Playgrounds
+* [Selenium](https://www.selenium.dev/), [PlayWright](https://playwright.dev/) or [Huginn](https://github.com/huginn/huginn) - Browser Automation
 * [Heynote](https://heynote.com/) - Code Editor / Notepad
 * [JetBrains](https://education.github.com/pack) - Code Editor
 * [CudaText](https://cudatext.github.io/) - Code Editor
