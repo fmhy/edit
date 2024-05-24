@@ -656,7 +656,7 @@
 * ↪️ **[Language Learning Networks](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_language_learning_networks)**
 * ↪️ **[Languages & Linguistics](https://rentry.co/FMHYBase64#languages-linguistics)**
 * ↪️ **[Translation Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools#wiki_.25B7_translators)**
-* ⭐ **[Duolingo](https://rentry.co/FMHYBase64#duolingo-guide)** / [Tips](https://duome.eu/tips), [Memrise](https://rentry.co/FMHYBase64#memrise), [LingoDeer](https://www.lingodeer.com/) or [Busuu](https://www.busuu.com/en/) - Language Learning Lessons
+* ⭐ **[Duolingo](https://rentry.co/FMHYBase64#duolingo-guide)** / [Tips](https://duome.eu/tips), [Memrise](https://rentry.co/FMHYBase64#memrise), [LingoDeer](https://www.lingodeer.com/) or [Busuu](https://rentry.co/FMHYBase64#busuu) - Language Learning Lessons
 * ⭐ **[Language Transfer](https://www.languagetransfer.org/)** - Language Learning Lectures
 * ⭐ **[Language Reactor](https://www.languagereactor.com/)** or [Easysubs](https://easysubs.cc/) - Learn Languages via Videos
 * ⭐ **[PolyReads](https://polyreads.com/)** - Learn Languages via Reading
