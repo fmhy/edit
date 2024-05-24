@@ -414,7 +414,6 @@
 * ⭐ **[BrowserBench](https://browserbench.org/)** or [WPT](https://wpt.fyi) - Browser Benchmark Tests
 * ⭐ **[Firefox Keyboard Shortcuts](https://support.mozilla.org/en-US/kb/keyboard-shortcuts-perform-firefox-tasks-quickly)**
 * ⭐ **[Chrome Keyboard Shortcuts](https://support.google.com/chrome/answer/157179)**
-* [Selenium](https://www.selenium.dev/) or [Huginn](https://github.com/huginn/huginn) - Browser Automation
 * [VsyncTester](https://vsynctester.com/) - Browser VSYNC Test
 * [QuteBrowser](https://qutebrowser.org/) - Keyboard Focused Browser
 * [Vieb](https://vieb.dev/) - Vim Inspired Browser
