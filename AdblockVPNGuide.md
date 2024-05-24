@@ -461,7 +461,7 @@
 
 * ⭐ **[Lantern](https://lantern.io/)** or **[Psiphon](https://psiphon.ca/)** - Free Proxy / VPN
 * ⭐ **[SecureDNSClient](https://github.com/msasanmh/SecureDNSClient)** - DNS Proxy GUI / [Guide](https://rentry.co/SecureDNSClient)
-* ⭐ **[Bypass ISP Blocks](https://rentry.co/enable-ech)** - Bypass ISP censorship with Firefox
+* ⭐ **[Bypass ISP Blocks](https://rentry.co/enable-ech)** - Bypass ISP Censorship
 * [No Thought is a Crime](https://ntc.party/) - Internet Censorship Discussion
 * [GoodbyeDPI](https://github.com/ValdikSS/GoodbyeDPI/) / [GUI](https://github.com/mguludag/GUI-for-GoodbyeDPI), [PowerTunnel](https://github.com/krlvm/PowerTunnel) or [Green Tunnel](https://github.com/SadeghHayeri/GreenTunnel) - DPI Circumvention Local Proxies
 * [Hola Proxy](https://github.com/Snawoot/hola-proxy) - Alternative Client for Hola Free Proxy Service
