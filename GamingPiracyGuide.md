@@ -537,7 +537,7 @@
 
 ## ▷ Puzzle Games
 
-* ⭐ **[BestCrosswords](https://www.bestcrosswords.com/)**, [USAToday](https://games.usatoday.com/category/word), [TheWordSearch](https://thewordsearch.com/) or [Regex-Crossword](https://jimbly.github.io/regex-crossword/) - Crossword Puzzles / [Creator](https://puzzlemaker.discoveryeducation.com/), [2](https://www.xwords-generator.de/en) / [Solver](https://www.wordplays.com/), [2](https://www.dictionary.com/e/crosswordsolver/), [3](https://crossword-solver.io/)
+* ⭐ **[BestCrosswords](https://www.bestcrosswords.com/)**, [TheWordSearch](https://thewordsearch.com/) or [Regex-Crossword](https://jimbly.github.io/regex-crossword/) - Crossword Puzzles / [Creator](https://puzzlemaker.discoveryeducation.com/), [2](https://www.xwords-generator.de/en) / [Solver](https://www.wordplays.com/), [2](https://www.dictionary.com/e/crosswordsolver/), [3](https://crossword-solver.io/)
 * ⭐ **[KillerCrossword](https://killercrossword.com/)** - No Clue Crosswords
 * ⭐ **[MoreWords](https://www.morewords.com/)** , [PlayScrabble](https://playscrabble.com/)or [WordHub](https://wordhub.com/) - Scrabble
 * ⭐ **[Rubik’s Cube Explorer](https://iamthecu.be/)**, [Grubiks](https://www.grubiks.com/), [pCubes](https://twistypuzzles.com/forum/viewtopic.php?f=1&t=27054) or [The Cube](https://bsehovac.github.io/the-cube/) - Rubix Cubes / [Solver](https://rubiksolve.com/), [2](https://rubiks-cube-solver.com/)
