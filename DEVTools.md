@@ -653,6 +653,17 @@
 
 # ► Developer Tools
 
+* 🌐 **[Awesome Livecoding](https://github.com/toplap/awesome-livecoding)** - Livecoding Resources
+* 🌐 **[Awesome Creative Coding](https://github.com/terkelg/awesome-creative-coding)** - Creative Coding Resources
+* 🌐 **[Awesome Python](https://awesome-python.com/)** - Pyapithon Resources
+* 🌐 **[Awesome Javascript](https://github.com/sorrycc/awesome-javascript)** - Javascript Resources
+* 🌐 **[Awesome Go](https://awesome-go.com/)** or [Go Recipes](https://github.com/nikolaydubina/go-recipes) - Go Resources
+* 🌐 **[Awesome Kotlin](https://kotlin.link/)** - Kotlin Resources / [GitHub](https://github.com/KotlinBy/awesome-kotlin)
+* 🌐 **[Awesome Emacs](https://github.com/emacs-tw/awesome-emacs)** or [Melpa](https://melpa.org/) - Emacs Packages / [Tiling](https://github.com/ch11ng/exwm)
+* 🌐 **[Awesome VSC Extensions](https://hl2guide.github.io/Awesome-Visual-Studio-Code-Extensions/)** - Visual Studio Code Extensions
+* 🌐 **[BenchmarksGame](https://benchmarksgame-team.pages.debian.net/benchmarksgame/)** or [Language Benchmarks](https://programming-language-benchmarks.vercel.app/) - Language Comparisons
+* 🌐 **[Best-Websites](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)**, [Tiny Tools](https://tinytools.directory/), [CarlosAG](https://www.carlosag.net/) or [Charm](https://charm.sh/) - Programming Resources
+* ⭐ **[JSON Hero](https://jsonhero.io/)**, [Jayson](https://apps.apple.com/us/app/jayson/id1447750768) or [JSONView](https://jsonview.com/) - JSON Viewers / Editors
 * 🌐 **[Free For Dev](https://free-for.dev/)** or [Free For Life](https://github.com/wdhdev/free-for-life/) - Developer Resourses
 * 🌐 **[Awesome Sys Admin](https://github.com/awesome-foss/awesome-sysadmin)** - System Admin Resources
 * 🌐 **[Awesome Microservices](https://github.com/mfornos/awesome-microservices)** - Microservice Architecture Resources
@@ -676,6 +687,7 @@
 * [PuTTY](https://www.chiark.greenend.org.uk/~sgtatham/putty/) - SSH & Telnet Client / [Multi-Tab](https://ttyplus.com/) / [Fork](https://www.9bis.net/kitty/#!index.md) / [GitHub](https://github.com/cyd01/KiTTY/)
 * [Penpot](https://penpot.app/) - Cross Domain Design & Prototyping Platform
 * [Webhook.site](https://webhook.site/) - Webhook Tools
+* [ImHex](https://imhex.werwolv.net) - Hex Editor / [Web Version](https://web.imhex.werwolv.net/)
 * [WebSequenceDiagrams](https://www.websequencediagrams.com/) - Draw Sequence Diagrams / [Comparisons](https://text-to-diagram.com/)
 * [mingrammer](https://diagrams.mingrammer.com) - Diagram as Code / Prototyping
 * [Libraries.io](https://libraries.io/) - Package, Framework & Tool Search
@@ -689,6 +701,185 @@
 * [reddit-moderator-toolbox](https://github.com/toolbox-team/reddit-moderator-toolbox) - Toolbox for Reddit Extension Development
 * [Wokwi](https://wokwi.com/) - Arduino / ESP32 Board Simulator
 * [devSwag](https://devswag.io/) - Developer Giveaways
+* [Node-RED](https://nodered.org/) - Low-Code Programming for Event-Driven Apps
+* [Commands.dev](https://www.commands.dev/) - Terminal Commands
+* [AirBroke](https://airbroke.icorete.ch/) or [Glitchtip](https://glitchtip.com) - Error Tracking Platforms
+* [Algorithm Visualizer](https://algorithm-visualizer.org/) or [Sorting Algorithms Visuallizer](https://sadanandpai.github.io/algo-visualizers/#/sorting-visualizer/bubble) / [GitHub](https://github.com/sadanandpai/sorting-visualizer) - Visualize Code Algorithms
+* [Code2Flow](https://app.code2flow.com/), [Flowchart.js](https://flowchart.js.org/) or [Flowchart Generator](https://github.com/MugilanGN/Flowchart-Generator) - Code to Flowchart Converter
+* [UMLet](https://www.umlet.com/) or [JDL Studio](https://start.jhipster.tech/jdl-studio/) - Create UML Diagrams
+* [Wasmer](https://wasmer.io/) - WebAssembly Apps / Libraries
+* [Decompiler](https://www.decompiler.com/) - Online Decompiler
+* [core-plot](https://github.com/core-plot/core-plot) - Core Plot Source Code / Apps
+* [tuc](https://github.com/riquito/tuc) - Improved Code Cut
+* [Lepton](https://hackjutsu.com/Lepton/) or [Snipp.in](https://snipp.in/) - Code Snippet Managers
+* [0xacab](https://about.0xacab.org/) - Code Host
+* [Mockaroo](https://mockaroo.com/) - Generate Mock Data
+* [Mockium](https://softwium.com/mockium/) - Generate Test Data
+* [OneLang IDE](https://ide.onelang.io/) - Convert Code to Multiple Languages
+* [Autosaved](https://github.com/nikochiko/autosaved) - Autosave Code / [GitHub](https://github.com/tkellogg/dura)
+* [Tasuku](https://github.com/privatenumber/tasuku) - Node.js Task Runner
+* [Globster](https://globster.xyz/) - Test Glob Patterns
+* [OctoLinker](https://octolinker.vercel.app/) - Turn Code Statements into Links / [GitHub](https://github.com/OctoLinker/OctoLinker)
+* [Qovery](https://www.qovery.com/) - AWS Development Platform
+* [Shell Cloud](https://shell.cloud.google.com/) - Google Cloud Shell Environment
+* [BrickHub](https://brickhub.dev/) - Share Code Brick Templates
+* [nunu](https://github.com/go-nunu/nunu) - Build Go Programs
+* [Python Patterns](https://python-patterns.guide/) - Python Design Patterns
+* [Clean Code Python](https://github.com/zedr/clean-code-python) - Clean Up Python Code
+* [pipx](https://pipx.pypa.io) - Execute Python Binaries in Isolated Environments
+* [PyPy](https://www.pypy.org/) - Alternate Python Implementation
+* [RustPython](https://rustpython.github.io/) - Python Interpreter
+* [Clean Code TypeScripts](https://labs42io.github.io/clean-code-typescript) - Clean Code for TypeScript
+* [Ruff](https://docs.astral.sh/ruff/) - Python Linter
+* [Big List of Naughty Strings](https://github.com/minimaxir/big-list-of-naughty-strings) - Check for Edge Case Inputs
+* [overmind](https://github.com/DarthSim/overmind) or [foreman](https://github.com/ddollar/foreman) - Process Managers
+* [PKL](https://pkl-lang.org/) - Generate Static Configurations
+* [cpp.sh](https://cpp.sh/) - Online C++ Compiler
+* [CP-Algorithms](https://cp-algorithms.com/) - C++ Algorithms
+* [The Algorithms](https://the-algorithms.com/) - Algorithms Index
+* [sed.js](https://sed.js.org/) - GNU sed Live Editor
+* [asdf](https://asdf-vm.com/) - Multi-Runtime Management CLI
+* [The SHA-256 Project](https://github.com/oconnor663/sha256_project) - Develop SHA-256 from Scratch
+* [Sourcegraph](https://sourcegraph.com/search) or [SeaGOAT](https://github.com/kantord/SeaGOAT) - Code Searching
+* [searchcode](https://searchcode.com/) or [PublicWWW](https://publicwww.com/) - Source Code Search
+* [Sourcecodester](https://www.sourcecodester.com/), [Code Projects](https://code-projects.org/), [Codastro](https://codeastro.com/), [Kashipara](https://www.kashipara.com/) or [ItSourceCode](https://www.itsourcecode.com/) - Source Code Projects
+* [ShortCode](https://shortcode.dev/) or [CodeList](https://codelist.cc/v3/) - Script / Code Indexes
+* [Chalk](https://chalk.ist/) or [Show Code](https://showcode.app/) - Code Screenshots
+* [AnimateCode](https://www.animate-code.com/) - Create Code Animations
+* [DelphiTools](https://www.delphitools.info/) - Code Profiler / Delphi Tools
+* [JavaScripting](https://www.javascripting.com/) - JavaScript Library
+* [LLRT](https://github.com/awslabs/llrt) - Lightweight JavaScript Runtime
+* [GraalVM](https://www.graalvm.org/) - Java Development Kit
+* [Adoptium](https://adoptium.net/) - Download OpenJDK Binaries
+* [Clean Code Javascript](https://github.com/ryanmcdermott/clean-code-javascript) - Clean Code for Javascript
+* [Vanilla List](https://vanillalist.top/) - Vanilla Javascript Repository
+* [RunKit](https://runkit.com/) - Browser Javascript Sandbox
+* [Adrenaline](https://useadrenaline.com/) or [Console Ninja](https://console-ninja.com/) - Code Debugging
+* [JBin](https://jsbin.com/) or [Replay](https://www.replay.io/) - Collaborative Code Debugging
+* [GPU.js](https://gpu.rocks/) - GPU Accelerated JavaScript
+* [JS.ORG](https://js.org/) - Free subdomain for JavaScript Developers
+* [1loc](https://phuoc.ng/collection/1-loc/) - JavaScript Code Snippets
+* [Javascript Algorithms](https://github.com/trekhleb/javascript-algorithms) - Algorithms and Data Structures in Javascript
+* [Gummy](https://gummyjs.vercel.app/) - Easily Build JavaScript Programs
+* [bytecode-viewer](https://bytecodeviewer.com), [jd-gui](https://github.com/java-decompiler/jd-gui), [Krakatau](https://github.com/Storyyeller/Krakatau), [Luyten](https://github.com/deathmarine/Luyten), [Vineflower](https://github.com/Vineflower/vineflower) or [Fernflower](https://github.com/fesh0r/fernflower) - Java Decompilers
+* [JEnv For Windows](https://github.com/FelixSelter/JEnv-for-Windows) - Change Java Version
+* [Obfuscator](https://obfuscator.io/) or [js-confuser](https://js-confuser.com/) - JavaScript Obfuscators
+* [jsdfe](https://avotoko.github.io/javascript-deobfuscator/) - JavaScript Deobfuscator
+* [anime.js](https://animejs.com/) - JavaScript Animation Library / [GitHub](https://github.com/juliangarnier/anime/)
+* [randomcolor](https://randomcolor.lllllllllllllllll.com/) - Random Javascript Color Generator
+* [ASTExplorer](https://astexplorer.net/) - AST Viewer
+* [Microdiff](https://github.com/AsyncBanana/microdiff) - Object and Array Comparison Library
+* [trzsz](https://trzsz.github.io/js) - Make trzsz Compatible with tmux in Terminal
+* [Transluna](https://transluna.net/) - JSON Translator
+* [JMESPath](https://jmespath.org/) - Query Language for JSON / [Tutorial](https://jmespath.org/tutorial.html)
+* [zio-json](https://zio.dev/zio-json)- JSON Library
+* [Mock Turtle](https://mockturtle.net/) - Generate Mock JSON Data
+* [JSON Bin](https://jsonbin.io/) - JSON Host
+* [Countries](https://mledoze.github.io/countries/) - World Countries in JSON, CSV, XML & YAML
+* [Asciidoctor](https://asciidoctor.org/) - Convert AsciiDoc to HTML5, DocBook, PDF etc.
+* [PlantText](https://www.planttext.com/) - UML Editor
+* [glogg](https://glogg.bonnefon.org/) or [Log Parser Lizard](https://lizard-labs.com/log_parser_lizard.aspx) - Log Analyzation Utilities
+* [Code::Stats](https://codestats.net/) or [Wakatime](https://wakatime.com/) - Programmer Stat Tracking
+* [oq](https://blacksmoke16.github.io/oq/) / [GitHub](https://github.com/Blacksmoke16/oq) - Programming Language Processor
+* [Tables Generator](https://www.tablesgenerator.com/) - Generates Tables in Various Languages
+* [WiredJS](https://wiredjs.github.io/designer/) - Wireframe Designer
+* [pueue](https://github.com/Nukesor/pueue) - Shell Command Manager
+* [Emojicode](https://www.emojicode.org/) - Emoji-Based Programming Language
+* [Crystalline](https://github.com/elbywan/crystalline) - Crystal Language Server
+* [icr](https://github.com/crystal-community/icr) - REPL for Crystal
+* [QBasic](https://www.qbasic.net/) - QBasic / QuickBASIC Programming Language Resources
+* [Spatie](https://spatie.be/open-source) / [GitHub](https://github.com/spatie/fork) or [3v4l](https://3v4l.org) - Run PHP Concurrently
+* [Winddown](https://github.com/schneefux/vscode-winddown) or [Sandman](https://alexanderepstein.github.io/Sandman/) - Coding Break Reminders
+* [Monaspace](https://monaspace.githubnext.com/), [ProgrammingFonts](https://www.programmingfonts.org/) or [Dev Fonts](https://devfonts.gafi.dev/) - Coding Fonts
+
+***
+
+## ▷ IDEs / Code Editors
+
+* ↪️ **[Text Editors / Notes](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools#wiki_.25BA_text_editors_.2F_notes)**
+* ⭐ **[Visual Studio Code](https://code.visualstudio.com/)**
+* ⭐ **[VSCodium](https://vscodium.com/)** - Code Editor / VScode Fork
+* ⭐ **[Neovim](https://neovim.io/)** - Code Editor
+* ⭐ **[Emacs](https://www.gnu.org/software/emacs/)** - [Docs](https://emacsdocs.org/)
+* ⭐ **[WebDen](https://webden.dev/)**, [Sharplab](https://sharplab.io/), [tech.io](https://tech.io/), [CodingGround](https://www.tutorialspoint.com/codingground.htm) or [Online Tools](https://onlinetool.io/) - Code Playgrounds
+* [Selenium](https://www.selenium.dev/), [PlayWright](https://playwright.dev/) or [Huginn](https://github.com/huginn/huginn) - Browser Automation
+* [Heynote](https://heynote.com/) - Code Editor / Notepad
+* [JetBrains](https://education.github.com/pack) - Code Editor
+* [Bluefish](https://bluefish.openoffice.nl/index.html) - [Templates](https://templates.openoffice.org/en)
+* [CudaText](https://cudatext.github.io/) - Code Editor
+* [Lapce](https://lapce.dev/) - Code Editor
+* [SpaceVim](https://spacevim.org/) - Code Editor
+* [zed.dev](https://zed.dev/) - Code Editor
+* [Pulsar](https://pulsar-edit.dev/) - Code Editor
+* [Lite XL](https://lite-xl.com/) - Code Editor
+* [Kakoune](https://kakoune.org/) - Code Editor
+* [Brackets](https://brackets.io/) - Code Editor
+* [Quill](https://quilljs.com/) - Code Editor
+* [Micro](https://micro-editor.github.io/index.html) - Code Editor
+* [WebStudio](https://webstudio.is/) - Code Editor
+* [Textadept](https://orbitalquark.github.io/textadept/) - Code Editor
+* [Spacemacs](https://www.spacemacs.org/) - Code Editor
+* [Sublime Text](https://www.sublimetext.com/) - Code Editor
+* [Avalonia UI](https://avaloniaui.net/) - Code Editor
+* [massCode](https://masscode.io/) - Code Editor
+* [Amp](https://amp.rs) - Code Editor
+* [Graviton](https://graviton.netlify.app/) - Code Editor
+* [BBEdit](https://www.barebones.com/) - Code Editor
+* [ecode](https://github.com/SpartanJ/ecode) - Code Editor
+* [Trinket](https://trinket.io/) - Browser Code Editor
+* [Competitive Editor](https://cpeditor.org/) - Competitive Programming Editor
+* [Acode](https://acode.app), [Sora](https://github.com/Rosemoe/sora-editor) or [Squircle-CE](https://github.com/massivemadness/Squircle-CE) - Android Code Editors
+* [Apache NetBeans](https://netbeans.apache.org/), [KDevelop](https://www.kdevelop.org/), [Lazarus](https://www.lazarus-ide.org/) or [OpenShift](https://developers.redhat.com/products/openshift-dev-spaces/overview) - Cross Platform IDEs
+* [RoslynPad](https://roslynpad.net/) - C# Editor
+* [RoslynQuoter](https://roslynquoter.azurewebsites.net/) - C# Syntax Tree API Viewer
+* [Recaf](https://www.coley.software/Recaf/) - Java Bytecode Editor
+* [Rescript](https://rescript-lang.org/) - Javascript Editor / Language
+* [TidalCycles](https://tidalcycles.org/) - Live Algorithmic Coding Environment / [Discord](https://discord.com/invite/ugFq7KfGnB)
+* [Thonny](https://thonny.org/) - Python IDE
+* [pipxu](https://github.com/bulletmark/pipxu) - Install / Run Python Apps in Isolated Environments
+* [SciTE](https://www.scintilla.org/SciTE.html) - Source Code Editor for Win32 and X
+* [OpenChakra](https://openchakra.app/) or [Plate](https://platejs.org/) - React Code Editors
+* [Package Control](https://packagecontrol.io/) - Sublime Text Package Manager
+* [editorcornfig](https://editorconfig.org/) - Maintain Code Styles Across Editors
+* [ThemesElection](https://themeselection.com/), [NordTheme](https://www.nordtheme.com/) or [Dracula](https://draculatheme.com/) - Code Editor Themes
+
+***
+
+## ▷ Cloud IDEs / Colab
+
+* 🌐 **[cloud](https://gist.github.com/imba-tjd/d73258f0817255dbe77d64d40d985e76#file-cloud-md)** - Cloud Platform Index
+* ↪️ **[Code Collaboration Platforms](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools#wiki_.25B7_text_.2F_code_collaboration)**
+* ⭐ **[goormIDE](https://ide.goorm.io/)**, [Fleet](https://www.jetbrains.com/fleet/), [CodeTasty](https://codetasty.com/), [Replit](https://replit.com/), [BoostNote](https://boostnote.io/), [Aither](https://github.com/enoki-inc/aither), [Deta](https://deta.space/), [TerraForm](https://www.terraform.io/), [Atheos](https://www.atheos.io/) / [GitHub](https://github.com/Atheos/Atheos), [Datalore](https://datalore.jetbrains.com/), [DeepNote](https://deepnote.com/), [Cloud9](https://aws.amazon.com/cloud9/) or [Glitch](https://glitch.com/) / [Replit Import](https://replit.com/glitch) / [GitHub](https://github.com/m3o/m3o) - Cloud IDEs
+* ⭐ **[CodeSandbox](https://codesandbox.io/)**, [StackBlitz](https://stackblitz.com/) or [GitPod](https://www.gitpod.io/) - VSCode Cloud IDE
+* ⭐ **[judge0](https://ide.judge0.com/)** - Online Code Editor / [Discord](https://discord.com/invite/GRc3v6n)
+* [JSFiddle](https://jsfiddle.net/) - Online Code Editor
+* [Collabedit](https://collabedit.com/) - Online Code Editor
+* [Portacode](https://portacode.com/) - Online Code Editor
+* [Ideone](https://www.ideone.com/) - Online Code Editor
+* [PlayCode](https://playcode.io/) - Online Code Editor
+* [ObjGen](https://www.objgen.com/) - Online Code Editor
+* [html-css-js](https://html-css-js.com/) - Online Code Editor
+* [Orbiton](https://orbiton.zip/) - Lightweight IDE
+* [Openshift](https://workspaces.openshift.com/) - Cloud IDE / Eclipse Che
+* [Arduino](https://cloud.arduino.cc/) - Cloud IDE for Arduino
+* [Blazepack](https://github.com/ameerthehacker/blazepack), [Flox](https://flox.dev/) or [DevPod](https://devpod.sh) - Development Environments
+* [bloop](https://bloop.ai/) - IDE AI Suggestion Extension
+* [glot.io](https://glot.io/) - Pastebin with Runnable Snippets, API & Compiler
+* [myCompiler](https://www.mycompiler.io/), [Compiler Explorer](https://compiler-explorer.com/), [GodBolt](https://godbolt.org/) or [Wandbox](https://wandbox.org/) - Compiler Explorers
+* [DogBolt](https://dogbolt.org/) or [Decompiler Explorer](https://github.com/decompiler-explorer/decompiler-explorer) - Decompiler Explorers
+* [Notebooks.azure](https://visualstudio.microsoft.com/vs/features/notebooks-at-microsoft/) - Access Jupyter Notebooks in VS Code
+* [NBviewer](https://nbviewer.org/) - Jupyter Notebook Sharing
+* [Jupyter Server](https://jupyter-server.readthedocs.io) - Jupyter Services / APIs
+* [Anywidget](https://anywidget.dev) / [GitHub](https://github.com/manzt/anywidget) - Create Jupyter Widgets
+* [CoCalc](https://cocalc.com/) - Virtual online workspace
+* [CodePen](https://codepen.io/), [Web Maker](https://webmaker.app/) or [Liveweave](https://liveweave.com/) - Code Sandbox
+* [Platform.uno](https://platform.uno/) or [Enact](https://enactjs.com/) - App Frameworks
+* [tio.run](https://tio.run/) - Programming Language Interpreters
+* [Online Python Compiler](https://www.onlinegdb.com/online_python_compiler) - Online Python Editor & Tester
+
+***
+
+## ▷ **[Coding AIs](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/ai#wiki_.25B7_coding_ais)**
 
 ***
 
@@ -1019,6 +1210,7 @@
 
 ## ▷ CLI Tools
 
+* [OhMyPosh](https://ohmyposh.dev/) - Terminal Theme Engine
 * [HTTPie](https://httpie.io/) - Command-Line HTTP Client
 * [cURL](https://curl.se/) - Transfer Data with URLs / [Converter](https://curlconverter.com/)
 * [WNIX](https://gitlab.com/gokhanettin/wnix) - UNIX-like Windows Development Environment
@@ -1034,206 +1226,6 @@
 
 ***
 
-## ▷ [Developer News](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25B7_tech_news)
-
-***
-
-# ► Programming / Coding
-
-* 🌐 **[Awesome Livecoding](https://github.com/toplap/awesome-livecoding)** - Livecoding Resources
-* 🌐 **[Awesome Creative Coding](https://github.com/terkelg/awesome-creative-coding)** - Creative Coding Resources
-* 🌐 **[Awesome Python](https://awesome-python.com/)** - Pyapithon Resources
-* 🌐 **[Awesome Javascript](https://github.com/sorrycc/awesome-javascript)** - Javascript Resources
-* 🌐 **[Awesome Go](https://awesome-go.com/)** or [Go Recipes](https://github.com/nikolaydubina/go-recipes) - Go Resources
-* 🌐 **[Awesome Kotlin](https://kotlin.link/)** - Kotlin Resources / [GitHub](https://github.com/KotlinBy/awesome-kotlin)
-* 🌐 **[Awesome Emacs](https://github.com/emacs-tw/awesome-emacs)** or [Melpa](https://melpa.org/) - Emacs Packages / [Tiling](https://github.com/ch11ng/exwm)
-* 🌐 **[Awesome VSC Extensions](https://hl2guide.github.io/Awesome-Visual-Studio-Code-Extensions/)** - Visual Studio Code Extensions
-* 🌐 **[BenchmarksGame](https://benchmarksgame-team.pages.debian.net/benchmarksgame/)** or [Language Benchmarks](https://programming-language-benchmarks.vercel.app/) - Language Comparisons
-* 🌐 **[Best-Websites](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)**, [Tiny Tools](https://tinytools.directory/), [CarlosAG](https://www.carlosag.net/) or [Charm](https://charm.sh/) - Programming Resources
-* ⭐ **[JSON Hero](https://jsonhero.io/)**, [Jayson](https://apps.apple.com/us/app/jayson/id1447750768) or [JSONView](https://jsonview.com/) - JSON Viewers / Editors
-* [Node-RED](https://nodered.org/) - Low-Code Programming for Event-Driven Apps
-* [Commands.dev](https://www.commands.dev/) - Terminal Commands
-* [AirBroke](https://airbroke.icorete.ch/) or [Glitchtip](https://glitchtip.com) - Error Tracking Platforms
-* [Algorithm Visualizer](https://algorithm-visualizer.org/) or [Sorting Algorithms Visuallizer](https://sadanandpai.github.io/algo-visualizers/#/sorting-visualizer/bubble) / [GitHub](https://github.com/sadanandpai/sorting-visualizer) - Visualize Code Algorithms
-* [Code2Flow](https://app.code2flow.com/), [Flowchart.js](https://flowchart.js.org/) or [Flowchart Generator](https://github.com/MugilanGN/Flowchart-Generator) - Code to Flowchart Converter
-* [UMLet](https://www.umlet.com/) or [JDL Studio](https://start.jhipster.tech/jdl-studio/) - Create UML Diagrams
-* [Wasmer](https://wasmer.io/) - WebAssembly Apps / Libraries
-* [Decompiler](https://www.decompiler.com/) - Online Decompiler
-* [core-plot](https://github.com/core-plot/core-plot) - Core Plot Source Code / Apps
-* [tuc](https://github.com/riquito/tuc) - Improved Code Cut
-* [Lepton](https://hackjutsu.com/Lepton/) or [Snipp.in](https://snipp.in/) - Code Snippet Managers
-* [0xacab](https://about.0xacab.org/) - Code Host
-* [Mockaroo](https://mockaroo.com/) - Generate Mock Data
-* [Mockium](https://softwium.com/mockium/) - Generate Test Data
-* [OneLang IDE](https://ide.onelang.io/) - Convert Code to Multiple Languages
-* [Autosaved](https://github.com/nikochiko/autosaved) - Autosave Code / [GitHub](https://github.com/tkellogg/dura)
-* [Tasuku](https://github.com/privatenumber/tasuku) - Node.js Task Runner
-* [Globster](https://globster.xyz/) - Test Glob Patterns
-* [OctoLinker](https://octolinker.vercel.app/) - Turn Code Statements into Links / [GitHub](https://github.com/OctoLinker/OctoLinker)
-* [Qovery](https://www.qovery.com/) - AWS Development Platform
-* [Shell Cloud](https://shell.cloud.google.com/) - Google Cloud Shell Environment
-* [BrickHub](https://brickhub.dev/) - Share Code Brick Templates
-* [nunu](https://github.com/go-nunu/nunu) - Build Go Programs
-* [Python Patterns](https://python-patterns.guide/) - Python Design Patterns
-* [Clean Code Python](https://github.com/zedr/clean-code-python) - Clean Up Python Code
-* [pipx](https://pipx.pypa.io) - Execute Python Binaries in Isolated Environments
-* [PyPy](https://www.pypy.org/) - Alternate Python Implementation
-* [RustPython](https://rustpython.github.io/) - Python Interpreter
-* [Clean Code TypeScripts](https://labs42io.github.io/clean-code-typescript) - Clean Code for TypeScript
-* [Ruff](https://docs.astral.sh/ruff/) - Python Linter
-* [Big List of Naughty Strings](https://github.com/minimaxir/big-list-of-naughty-strings) - Check for Edge Case Inputs
-* [overmind](https://github.com/DarthSim/overmind) or [foreman](https://github.com/ddollar/foreman) - Process Managers
-* [PKL](https://pkl-lang.org/) - Generate Static Configurations
-* [cpp.sh](https://cpp.sh/) - Online C++ Compiler
-* [CP-Algorithms](https://cp-algorithms.com/) - C++ Algorithms
-* [The Algorithms](https://the-algorithms.com/) - Algorithms Index
-* [sed.js](https://sed.js.org/) - GNU sed Live Editor
-* [asdf](https://asdf-vm.com/) - Multi-Runtime Management CLI
-* [The SHA-256 Project](https://github.com/oconnor663/sha256_project) - Develop SHA-256 from Scratch
-* [Sourcegraph](https://sourcegraph.com/search) or [SeaGOAT](https://github.com/kantord/SeaGOAT) - Code Searching
-* [searchcode](https://searchcode.com/) or [PublicWWW](https://publicwww.com/) - Source Code Search
-* [Sourcecodester](https://www.sourcecodester.com/), [Code Projects](https://code-projects.org/), [Codastro](https://codeastro.com/), [Kashipara](https://www.kashipara.com/) or [ItSourceCode](https://www.itsourcecode.com/) - Source Code Projects
-* [ShortCode](https://shortcode.dev/) or [CodeList](https://codelist.cc/v3/) - Script / Code Indexes
-* [Chalk](https://chalk.ist/) or [Show Code](https://showcode.app/) - Code Screenshots
-* [AnimateCode](https://www.animate-code.com/) - Create Code Animations
-* [DelphiTools](https://www.delphitools.info/) - Code Profiler / Delphi Tools
-* [OhMyPosh](https://ohmyposh.dev/) - Terminal Theme Engine
-* [JavaScripting](https://www.javascripting.com/) - JavaScript Library
-* [LLRT](https://github.com/awslabs/llrt) - Lightweight JavaScript Runtime
-* [GraalVM](https://www.graalvm.org/) - Java Development Kit
-* [Adoptium](https://adoptium.net/) - Download OpenJDK Binaries
-* [Clean Code Javascript](https://github.com/ryanmcdermott/clean-code-javascript) - Clean Code for Javascript
-* [Vanilla List](https://vanillalist.top/) - Vanilla Javascript Repository
-* [RunKit](https://runkit.com/) - Browser Javascript Sandbox
-* [Adrenaline](https://useadrenaline.com/) or [Console Ninja](https://console-ninja.com/) - Code Debugging
-* [JBin](https://jsbin.com/) or [Replay](https://www.replay.io/) - Collaborative Code Debugging
-* [GPU.js](https://gpu.rocks/) - GPU Accelerated JavaScript
-* [JS.ORG](https://js.org/) - Free subdomain for JavaScript Developers
-* [1loc](https://phuoc.ng/collection/1-loc/) - JavaScript Code Snippets
-* [Javascript Algorithms](https://github.com/trekhleb/javascript-algorithms) - Algorithms and Data Structures in Javascript
-* [Gummy](https://gummyjs.vercel.app/) - Easily Build JavaScript Programs
-* [bytecode-viewer](https://bytecodeviewer.com), [jd-gui](https://github.com/java-decompiler/jd-gui), [Krakatau](https://github.com/Storyyeller/Krakatau), [Luyten](https://github.com/deathmarine/Luyten), [Vineflower](https://github.com/Vineflower/vineflower) or [Fernflower](https://github.com/fesh0r/fernflower) - Java Decompilers
-* [JEnv For Windows](https://github.com/FelixSelter/JEnv-for-Windows) - Change Java Version
-* [Obfuscator](https://obfuscator.io/) or [js-confuser](https://js-confuser.com/) - JavaScript Obfuscators
-* [jsdfe](https://avotoko.github.io/javascript-deobfuscator/) - JavaScript Deobfuscator
-* [anime.js](https://animejs.com/) - JavaScript Animation Library / [GitHub](https://github.com/juliangarnier/anime/)
-* [randomcolor](https://randomcolor.lllllllllllllllll.com/) - Random Javascript Color Generator
-* [ASTExplorer](https://astexplorer.net/) - AST Viewer
-* [Microdiff](https://github.com/AsyncBanana/microdiff) - Object and Array Comparison Library
-* [trzsz](https://trzsz.github.io/js) - Make trzsz Compatible with tmux in Terminal
-* [Transluna](https://transluna.net/) - JSON Translator
-* [JMESPath](https://jmespath.org/) - Query Language for JSON / [Tutorial](https://jmespath.org/tutorial.html)
-* [zio-json](https://zio.dev/zio-json)- JSON Library
-* [Mock Turtle](https://mockturtle.net/) - Generate Mock JSON Data
-* [JSON Bin](https://jsonbin.io/) - JSON Host
-* [Countries](https://mledoze.github.io/countries/) - World Countries in JSON, CSV, XML & YAML
-* [Asciidoctor](https://asciidoctor.org/) - Convert AsciiDoc to HTML5, DocBook, PDF etc.
-* [PlantText](https://www.planttext.com/) - UML Editor
-* [glogg](https://glogg.bonnefon.org/) or [Log Parser Lizard](https://lizard-labs.com/log_parser_lizard.aspx) - Log Analyzation Utilities
-* [Code::Stats](https://codestats.net/) or [Wakatime](https://wakatime.com/) - Programmer Stat Tracking
-* [oq](https://blacksmoke16.github.io/oq/) / [GitHub](https://github.com/Blacksmoke16/oq) - Programming Language Processor
-* [Tables Generator](https://www.tablesgenerator.com/) - Generates Tables in Various Languages
-* [WiredJS](https://wiredjs.github.io/designer/) - Wireframe Designer
-* [pueue](https://github.com/Nukesor/pueue) - Shell Command Manager
-* [Emojicode](https://www.emojicode.org/) - Emoji-Based Programming Language
-* [Crystalline](https://github.com/elbywan/crystalline) - Crystal Language Server
-* [icr](https://github.com/crystal-community/icr) - REPL for Crystal
-* [QBasic](https://www.qbasic.net/) - QBasic / QuickBASIC Programming Language Resources
-* [Spatie](https://spatie.be/open-source) / [GitHub](https://github.com/spatie/fork) or [3v4l](https://3v4l.org) - Run PHP Concurrently
-* [Winddown](https://github.com/schneefux/vscode-winddown) or [Sandman](https://alexanderepstein.github.io/Sandman/) - Coding Break Reminders
-* [Monaspace](https://monaspace.githubnext.com/), [ProgrammingFonts](https://www.programmingfonts.org/) or [Dev Fonts](https://devfonts.gafi.dev/) - Coding Fonts
-
-***
-
-## ▷ IDEs / Code Editors
-
-* ↪️ **[Text Editors / Notes](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools#wiki_.25BA_text_editors_.2F_notes)**
-* ⭐ **[Visual Studio Code](https://code.visualstudio.com/)**
-* ⭐ **[VSCodium](https://vscodium.com/)** - Code Editor / VScode Fork
-* ⭐ **[Neovim](https://neovim.io/)** - Code Editor
-* ⭐ **[Emacs](https://www.gnu.org/software/emacs/)** - [Docs](https://emacsdocs.org/)
-* ⭐ **[WebDen](https://webden.dev/)**, [Sharplab](https://sharplab.io/), [tech.io](https://tech.io/), [CodingGround](https://www.tutorialspoint.com/codingground.htm) or [Online Tools](https://onlinetool.io/) - Code Playgrounds
-* [Selenium](https://www.selenium.dev/), [PlayWright](https://playwright.dev/) or [Huginn](https://github.com/huginn/huginn) - Browser Automation
-* [Heynote](https://heynote.com/) - Code Editor / Notepad
-* [JetBrains](https://education.github.com/pack) - Code Editor
-* [Bluefish](https://bluefish.openoffice.nl/index.html) - [Templates](https://templates.openoffice.org/en)
-* [CudaText](https://cudatext.github.io/) - Code Editor
-* [Lapce](https://lapce.dev/) - Code Editor
-* [SpaceVim](https://spacevim.org/) - Code Editor
-* [zed.dev](https://zed.dev/) - Code Editor
-* [Pulsar](https://pulsar-edit.dev/) - Code Editor
-* [Lite XL](https://lite-xl.com/) - Code Editor
-* [Kakoune](https://kakoune.org/) - Code Editor
-* [Brackets](https://brackets.io/) - Code Editor
-* [Quill](https://quilljs.com/) - Code Editor
-* [Micro](https://micro-editor.github.io/index.html) - Code Editor
-* [WebStudio](https://webstudio.is/) - Code Editor
-* [Textadept](https://orbitalquark.github.io/textadept/) - Code Editor
-* [Spacemacs](https://www.spacemacs.org/) - Code Editor
-* [Sublime Text](https://www.sublimetext.com/) - Code Editor
-* [Avalonia UI](https://avaloniaui.net/) - Code Editor
-* [massCode](https://masscode.io/) - Code Editor
-* [Amp](https://amp.rs) - Code Editor
-* [Graviton](https://graviton.netlify.app/) - Code Editor
-* [BBEdit](https://www.barebones.com/) - Code Editor
-* [ecode](https://github.com/SpartanJ/ecode) - Code Editor
-* [Trinket](https://trinket.io/) - Browser Code Editor
-* [Competitive Editor](https://cpeditor.org/) - Competitive Programming Editor
-* [Acode](https://acode.app), [Sora](https://github.com/Rosemoe/sora-editor) or [Squircle-CE](https://github.com/massivemadness/Squircle-CE) - Android Code Editors
-* [Apache NetBeans](https://netbeans.apache.org/), [KDevelop](https://www.kdevelop.org/), [Lazarus](https://www.lazarus-ide.org/) or [OpenShift](https://developers.redhat.com/products/openshift-dev-spaces/overview) - Cross Platform IDEs
-* [RoslynPad](https://roslynpad.net/) - C# Editor
-* [RoslynQuoter](https://roslynquoter.azurewebsites.net/) - C# Syntax Tree API Viewer
-* [Recaf](https://www.coley.software/Recaf/) - Java Bytecode Editor
-* [Rescript](https://rescript-lang.org/) - Javascript Editor / Language
-* [TidalCycles](https://tidalcycles.org/) - Live Algorithmic Coding Environment / [Discord](https://discord.com/invite/ugFq7KfGnB)
-* [Thonny](https://thonny.org/) - Python IDE
-* [pipxu](https://github.com/bulletmark/pipxu) - Install / Run Python Apps in Isolated Environments
-* [SciTE](https://www.scintilla.org/SciTE.html) - Source Code Editor for Win32 and X
-* [OpenChakra](https://openchakra.app/) or [Plate](https://platejs.org/) - React Code Editors
-* [Package Control](https://packagecontrol.io/) - Sublime Text Package Manager
-* [editorcornfig](https://editorconfig.org/) - Maintain Code Styles Across Editors
-* [ThemesElection](https://themeselection.com/), [NordTheme](https://www.nordtheme.com/) or [Dracula](https://draculatheme.com/) - Code Editor Themes
-
-***
-
-## ▷ Cloud IDEs / Colab
-
-* 🌐 **[cloud](https://gist.github.com/imba-tjd/d73258f0817255dbe77d64d40d985e76#file-cloud-md)** - Cloud Platform Index
-* ↪️ **[Code Collaboration Platforms](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools#wiki_.25B7_text_.2F_code_collaboration)**
-* ⭐ **[goormIDE](https://ide.goorm.io/)**, [Fleet](https://www.jetbrains.com/fleet/), [CodeTasty](https://codetasty.com/), [Replit](https://replit.com/), [BoostNote](https://boostnote.io/), [Aither](https://github.com/enoki-inc/aither), [Deta](https://deta.space/), [TerraForm](https://www.terraform.io/), [Atheos](https://www.atheos.io/) / [GitHub](https://github.com/Atheos/Atheos), [Datalore](https://datalore.jetbrains.com/), [DeepNote](https://deepnote.com/), [Cloud9](https://aws.amazon.com/cloud9/) or [Glitch](https://glitch.com/) / [Replit Import](https://replit.com/glitch) / [GitHub](https://github.com/m3o/m3o) - Cloud IDEs
-* ⭐ **[CodeSandbox](https://codesandbox.io/)**, [StackBlitz](https://stackblitz.com/) or [GitPod](https://www.gitpod.io/) - VSCode Cloud IDE
-* ⭐ **[judge0](https://ide.judge0.com/)** - Online Code Editor / [Discord](https://discord.com/invite/GRc3v6n)
-* [JSFiddle](https://jsfiddle.net/) - Online Code Editor
-* [Collabedit](https://collabedit.com/) - Online Code Editor
-* [Portacode](https://portacode.com/) - Online Code Editor
-* [Ideone](https://www.ideone.com/) - Online Code Editor
-* [PlayCode](https://playcode.io/) - Online Code Editor
-* [ObjGen](https://www.objgen.com/) - Online Code Editor
-* [html-css-js](https://html-css-js.com/) - Online Code Editor
-* [Orbiton](https://orbiton.zip/) - Lightweight IDE
-* [Openshift](https://workspaces.openshift.com/) - Cloud IDE / Eclipse Che
-* [Arduino](https://cloud.arduino.cc/) - Cloud IDE for Arduino
-* [Blazepack](https://github.com/ameerthehacker/blazepack), [Flox](https://flox.dev/) or [DevPod](https://devpod.sh) - Development Environments
-* [bloop](https://bloop.ai/) - IDE AI Suggestion Extension
-* [glot.io](https://glot.io/) - Pastebin with Runnable Snippets, API & Compiler
-* [myCompiler](https://www.mycompiler.io/), [Compiler Explorer](https://compiler-explorer.com/), [GodBolt](https://godbolt.org/) or [Wandbox](https://wandbox.org/) - Compiler Explorers
-* [DogBolt](https://dogbolt.org/) or [Decompiler Explorer](https://github.com/decompiler-explorer/decompiler-explorer) - Decompiler Explorers
-* [Notebooks.azure](https://visualstudio.microsoft.com/vs/features/notebooks-at-microsoft/) - Access Jupyter Notebooks in VS Code
-* [NBviewer](https://nbviewer.org/) - Jupyter Notebook Sharing
-* [Jupyter Server](https://jupyter-server.readthedocs.io) - Jupyter Services / APIs
-* [Anywidget](https://anywidget.dev) / [GitHub](https://github.com/manzt/anywidget) - Create Jupyter Widgets
-* [CoCalc](https://cocalc.com/) - Virtual online workspace
-* [CodePen](https://codepen.io/), [Web Maker](https://webmaker.app/) or [Liveweave](https://liveweave.com/) - Code Sandbox
-* [Platform.uno](https://platform.uno/) or [Enact](https://enactjs.com/) - App Frameworks
-* [tio.run](https://tio.run/) - Programming Language Interpreters
-* [Online Python Compiler](https://www.onlinegdb.com/online_python_compiler) - Online Python Editor & Tester
-
-***
-
-## ▷ **[Coding AIs](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/ai#wiki_.25B7_coding_ais)**
-
-***
-
 ## ▷ Markup Tools
 
 * 🌐 **[Awesome CSS](https://github.com/awesome-css-group/awesome-css)** - CSS Resources
@@ -1245,8 +1237,7 @@
 * ⭐ **[GenerateData](https://generatedata.com/)** - Generate Test Data
 * [markup.rocks](https://markup.rocks/) - Online Markup Editor
 * [HTML-Minifier](https://kangax.github.io/html-minifier/) - HTML Minifier
-* [HTML Sandbox](https://apps.apple.com/us/app/html-sandbox-2/id6443393029) - HTML Editors
-* [PageRip](https://webpagerip.com/) or [CSSPeeper](https://csspeeper.com/) - HTML / CSS Extractors
+* [CSSPeeper](https://csspeeper.com/) - HTML / CSS Extractors
 * [HTMLRev](https://htmlrev.com/) - Free HTML Templates
 * [Markup Validation Service](https://validator.w3.org/) - Validate Your Markup Language Structure
 * [typeset](https://typeset.lllllllllllllllll.com/) - HTML Typography Pre-Processor
@@ -1448,12 +1439,9 @@
 * [IP Intelligence](https://getipintel.net/), [AbuseIPDB](https://www.abuseipdb.com/ ) or [Proxy Check](https://proxycheck.io/) - Proxy / VPN / Bad IP Detection
 * [DarkVisitors](https://darkvisitors.com/) - Autonomous Chatbots / Data Scraper List
 * [Al-Khaser](https://github.com/LordNoteworthy/al-khaser) - Anti-Malware Stress Test
-* [YARA](https://virustotal.github.io/yara/) - Malware Identification Tool
-* [Winitor](https://www.winitor.com/) - EXE Malware Assessment
 * [HTTPLeaks](https://github.com/cure53/HTTPLeaks) - HTTP Sites Leak Information
 * [Cryptography](https://pub.dev/packages/cryptography) - Dart and Flutter Cryptography Library
 * [CVE Details](https://www.cvedetails.com/) - CVE Details
-* [ImHex](https://imhex.werwolv.net) - Hex Editor / [Web Version](https://web.imhex.werwolv.net/)
 * [YASNAC](https://github.com/RikkaW/YASNAC) - SafetyNet Attestation Checker
 * [AllSafe](https://github.com/t0thkr1s/allsafe) - Intentionally Vulnerable Android App
 * [ClassyShark](https://github.com/google/android-classyshark) - Android/Java Bytecode Viewer
@@ -1470,3 +1458,7 @@
 * [Flare VM](https://github.com/mandiant/flare-vm) - Reverse Engineering Environment Setup Script
 * [MSTG](https://mas.owasp.org/) or [DVIA-v2](https://github.com/prateek147/DVIA-v2) - App Security Testing / Reverse Engineering
 * [challenges.re](https://challenges.re/) - Reverse Engineer Code
+
+***
+
+# ►  [Developer News](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25B7_tech_news)
