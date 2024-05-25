@@ -334,323 +334,6 @@
 
 ***
 
-# ► Web Dev Tools
-
-* 🌐 **[Awesome Static Generators](https://myles.github.io/awesome-static-generators/)** - Static Site Resources
-* 🌐 **[Awesome PHP](https://github.com/ziadoz/awesome-php)** - PHP Resources
-* 🌐 **[Awesome Tunneling](https://github.com/anderspitman/awesome-tunneling)** - Tunneling Resources
-* 🌐 **[Awesome list of secrets in environment variables](https://github.com/Puliczek/awesome-list-of-secrets-in-environment-variables)** - Environment Variables Secrets
-* ↪️ **[Website Creators](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_website_creators)**
-* ↪️ **[Site Mockups](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_app_.2F_site_mockups)**
-* ↪️ **[Archive / Scrape / Crawl Webpages](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_web_archiving)**
-* ⭐ **[Ray.st](https://ray.st/)** or [Wappalyzer](https://www.wappalyzer.com/) - Identify Technologies on Websites / [Addons](https://www.wappalyzer.com/apps/)
-* ⭐ **[EmulatorJS](https://emulatorjs.org/)** - Embed Emulators on Websites
-* ⭐ **[GoAccess](https://goaccess.io/)** - Web Log Analyzer / [GitHub](https://github.com/allinurl/goaccess)
-* [Website Planet Tools](https://www.websiteplanet.com/webtools/), [Dan's Tools](https://www.danstools.com/), [Webdesign Assistant](https://webdesign-assistant.com/), [xWebTools](https://www.xwebtools.com/), [Tiny Helpers](https://tiny-helpers.dev/), [Browserling Tools](https://www.browserling.com/tools/), [WebCode](https://webcode.tools/), [ToolCool](https://toolcool.org/) or [CSSAuthor](https://cssauthor.com/) - Site Development Tools
-* [Grav](https://getgrav.org/) - Flat-File CMS
-* [Flux](https://www.runonflux.io/) - Decentralized Cloud Infrastructure
-* [URLPages](http://jstrieb.github.io/urlpages) / [GitHub](https://github.com/jstrieb/urlpages) - Store Entire Pages in URLs
-* [Shoelace](https://shoelace.style/), [Fast](https://www.fast.design/) or [Elix](https://component.kitchen/elix) - Web Component libraries
-* [Package Web](https://github.com/rsc/web) - Basic Site Serving Framework
-* [Web Developer](https://chromewebstore.google.com/detail/web-developer/bfbameneiokkgbdmiekhjnmfkcnldhhm) - Web Developer Toolbar Extension
-* [Aptabase](https://aptabase.com/), [GoatCounter](https://www.goatcounter.com/) or [Nibbler](https://nibbler.insites.com/) - Site Analytics
-* [google-indexing-script](https://github.com/goenning/google-indexing-script) - Google Indexing Script
-* [ElasticSearch](https://www.elastic.co/products/elasticsearch) / [GitHub](https://github.com/elastic/elasticsearch) - Search & Analytics Engine
-* [SerPreview](https://serpreviewtool.com/) - Site Search Results
-* [Robots.txt Tester](https://support.google.com/webmasters/answer/6062598) - Test Your robots.txt
-* [Charles 3](https://www.charlesproxy.com/download/previous-release/) / [Activation](https://rentry.co/FMHYBase64#charles-activate) - Web Debugging Proxy App
-* [CORS Proxy](https://corsproxy.github.io/) - Free CORS Proxy
-* [Tabler](https://tabler.io/) - Site Admin Dashboard
-* [Octopus](https://octopus.do/sitemap) - Site Planning Tool
-* [Browser Default Styles](https://browserdefaultstyles.com/) - Default Browser Style Search
-* [Utom Design](https://utom.design/measure) - Sketch Measure
-* [Typeculator](https://typeculator.alexpaul.me/) - Type Scale Calculator
-* [WireFlow](https://wireflow.co/) - Flow Prototype Maker
-* [Lenis](https://lenis.studiofreight.com/) - Smooth Scroll Library
-* [Open Source Guides](https://opensource.guide/) - Open Source Software Tips / [GitHub](https://github.com/github/opensource.guide)
-* [SSLMate CAA](https://sslmate.com/caa/) - CAA Record Helper
-* [free-website-translation](http://free-website-translation.com/), [transdict](http://transdict.com/meta/website.html) or [conveythis](https://www.conveythis.com/) - Website Translators
-* [Statically](https://statically.io/) - Load Websites Faster
-* [Qdrant](https://qdrant.tech/) - Vector Database
-* [Rest Test Test](https://resttesttest.com/) - Test REST / CORS Services
-* [WebUI](https://webui.me/) - Embed WebUI Libraries in Project
-* [Dagu](https://dagu.readthedocs.io) / [GitHub](https://github.com/dagu-dev/dagu) - WebUI Job Manager
-* [httpbin](https://httpbin.org/) or [Requestbin](https://pipedream.com/requestbin) - HTTP Request & Response Service
-* [Hydra](https://github.com/ory/hydra) - OAuth 2.0 Server / OpenID Connect Provider
-* [Easegress](https://github.com/megaease/easegress) - Traffic Orchestration System
-* [HITS](https://hits.seeyoufarm.com/) - Website Traffic Badges
-* [Partytown](https://partytown.builder.io) / [GitHub](https://github.com/BuilderIO/partytown) - Relocate Scripts to Web Worker
-* [Tempesta FW](https://tempesta-tech.com/) - DDoS / Web Attack Protection
-* [Shisho](https://shisho.dev/) - Infrastructure Code Security Patcher
-* [DNSDumpster](https://dnsdumpster.com/), [DNS Watch](https://dnswatch.info) or [WhatsMyDNS](https://whatsmydns.net/) - DNS Lookup / Security
-* [Plow](https://github.com/six-ddc/plow) - HTTP Benchmarking
-* [IPv6 Leak Test](https://ip6.nl/), [Test-IPv6](https://test-ipv6.com/) or [IPv6 Test](https://ipv6-test.com/) - IPV6 Test
-* [How To Turn off IPv6](https://www.itechguides.com/disable-ipv6-windows-10/) - Prevent IPv6 Leaks
-* [Flounder](https://flounder.online/) - Gemini Website Builder
-* [Transform](https://transform.tools/) - Polyglot Web Converter
-* [Framer](https://www.framer.com/) - Interactive Site / App Design Tool
-* [ProjectVisBug](https://visbug.web.app) / [GitHub](https://github.com/GoogleChromeLabs/ProjectVisBug) - Webpage Editor
-* [Brython](https://brython.info/) - Python 3 Web Scripting Language
-* [BuiltWith](https://builtwith.com/) - Find Out What Sites are Built With
-* [Bug](https://auz.github.io/Bug/) - Add Crawling Bugs to Website
-* [OneLinePlayer](https://onelineplayer.com/) - Vimeo / Dropbox Video Player
-* [SCM Music Player](https://www.scmplayer.net/), [WebAMP](https://webamp.org/), [cassette-yt](https://saint-images.github.io/player.html) or [webdeckplayer](https://webdeckplayer.neocities.org/) - Site Audio / Music Players
-* [Stream Defence](https://www.streamdefence.com/) - Website Video Backup System
-* [MapBox](https://www.mapbox.com/) or [leafletjs](https://leafletjs.com/) - Live Maps, Location Search & More
-* [LDRS](https://uiball.com/ldrs/) - Loading Animations
-* [Medusa](https://medusajs.com) - Digital Commerce Development Tool
-* [Can I Use?](https://caniuse.com/) - Browser Support Tables
-* [Appwrite](https://appwrite.io/) or [Shuttle](https://www.shuttle.rs/) - Open-Source Backend Platforms
-* [squid](http://www.squid-cache.org/) - Caching Proxy / [MSI Installer](https://squid.diladele.com/)
-* [Check for Cloudflare](https://checkforcloudflare.selesti.com/) - Check Sites for Cloudflare
-* [CFScanner](https://github.com/MortezaBashsiz/CFScanner/), [scanner](https://ircfspace.github.io/scanner/) or [cf-ip-scanner-py](https://github.com/vfarid/cf-ip-scanner-py) - Cloudflare IP Scanners
-* [cloudflare-ip-tester-app](https://github.com/xianshenglu/cloudflare-ip-tester-app/) - Cloudflare IP Tester
-* [console.watch](https://console.watch/) - Remote Console Polyfill for Cloudflare Workers
-* [Cloudflared](https://github.com/cloudflare/cloudflared) - Cloudflare Tunnel Client
-* [LightTPD](https://www.lighttpd.net/) or [Caddy](https://caddyserver.com/) - Web Server
-* [Bash-web-server](https://github.com/dzove855/Bash-web-server) - Bash Web Server
-* [Oracle](https://www.oracle.com/cloud/free/) - Free Server Tools
-* [http-server](https://github.com/http-party/http-server) - No Config HTTP Server
-* [Apache](https://httpd.apache.org/) - HTTP Server
-* [h5ai](https://larsjung.de/h5ai/) - HTTP Web Server Index / [GitHub](https://github.com/lrsjng/h5ai)
-* [webri.ng](https://webri.ng/) - Webring Host / [GitHub](https://github.com/webri-ng/webri.ng)
-* [onionring.js](https://garlic.garden/onionring/) - Webring Script
-* [Webring List](https://brisray.com/web/webring-list.htm) - Webring Directory
-* [SyAgent](https://syagent.com/), [TA Vivo](https://github.com/ta-vivo/ta-vivo) or [HertzBeat](https://hertzbeat.com/) - Server Monitors
-* [BawkBox](https://bawkbox.com/) - Website Widgets
-* [SDWebImage](https://github.com/SDWebImage/SDWebImage) - Asynchronous Image Downloader
-* [ApexCharts](https://apexcharts.com/) - Add Charts to Site
-* [LibreCaptcha](https://github.com/librecaptcha/lc-core) or [mCaptcha](https://mcaptcha.org/) - Captcha Systems
-* [Democaptcha](https://democaptcha.com/demo-form-eng/hcaptcha.html) or [ReCAPTCHA Demo](https://www.google.com/recaptcha/api2/demo) / [GitHub](https://patrickhlauke.github.io/recaptcha/) - Captcha Demo's
-* [SuperTokens](https://supertokens.com/) or [Lucia](https://lucia-auth.com/) - User Authentication
-* [The SSO Wall of Shame](https://sso.tax/) - Vendors without Built-in SSO
-* [Remarkbox](https://www.remarkbox.com/) or [HTML Comment Box](https://www.htmlcommentbox.com/) - Site Comment Systems
-* [CBox](https://www.cbox.ws/), [Typebot](https://typebot.io/) or [Tawk](https://www.tawk.to/) - Embedded Chat App
-* [Pay 2 Email](https://pay2.email/) - Simple Website Contact Form
-* [Seventy Seven](https://www.seventy-seven.dev/) - Customer Support Tool
-* [Twitcker](https://twitcker.com/) - Add Twitter Feed Ticker to Site
-* [Curator](https://curator.io/) - Embed Social Media Feeds
-* [MinIO](https://min.io/) or [Filebase](https://filebase.com/) - Cloud Native Object Storage
-* [Traefik](https://traefik.io/) - Cloud Native Stack
-* [Amazon S3](https://aws.amazon.com/s3) - Cloud Object Storage Amazon Simple Service Storage / [Desktop](https://s3browser.com/)
-* [howtheyaws](https://github.com/upgundecha/howtheyaws) - List of How Organizations Use AWS
-* [QuickEmailVerification](https://quickemailverification.com/), [Email Marker](https://www.emailmarker.com/) or [ZeroBounce](https://www.zerobounce.net/) - Email Verification Service
-* [Improvemx](https://improvmx.com/) - Domain Email Forwarding
-* [Postal](https://docs.postalserver.io/) - Mail Delivery Platform
-* [Microlink SDK](https://microlink.io/sdk) / [GitHub](https://github.com/microlinkhq/sdk), [React Tiny Link](https://winhtaikaung.github.io/react-tiny-link/) / [GitHub](https://github.com/winhtaikaung/react-tiny-link) or [Link Preview JS](https://github.com/OP-Engineering/link-preview-js) - Create Link Previews
-* [V2Ray](https://www.v2fly.org/) - Proxy Software
-* [mitmproxy](https://mitmproxy.org/) / [GitHub](https://github.com/mitmproxy/mitmproxy) - Analyze and modify HTTPS traffic
-* [Traefik](https://traefik.io/traefik/), [frp](https://github.com/fatedier/frp) or [reverse-proxy](https://github.com/microsoft/reverse-proxy) - Reverse Proxies
-* [Certbot](https://certbot.eff.org/) - Enable HTTPS Automatically
-* [XAMPP](https://www.apachefriends.org/) - PHP Development Environment
-* [PHP Beautifier](https://phpbeautifier.com/) - PHP Formatter
-* [Clean Code PHP](https://github.com/piotrplenik/clean-code-php) - Clean Code for PHP
-* [Valinor](https://valinor.cuyz.io) / [GitHub](https://github.com/CuyZ/Valinor) - PHP Object Mapper
-* [WhatPWACanDo](https://whatpwacando.today/) - PWA Examples
-* [Bubble](https://bubble.io/), [opensilver](https://opensilver.net/), [Anvil](https://anvil.works/), [Symfony](https://symfony.com/) / [CLI](https://github.com/symfony-cli/symfony-cli), [Create-react-app](https://create-react-app.dev) / [GitHub](https://github.com/facebook/create-react-app), [Lowdefy](https://lowdefy.com/) or [Sktch.io](https://sktch.io/) - Web App Creators
-* [Blazor](https://dotnet.microsoft.com/en-us/apps/aspnet/web-apps/blazor) or [FastUI](https://github.com/pydantic/FastUI) - Web App UI Creators
-* [Laravel](https://laravel.com/) or [Lona](https://lona-web.org/1.x/) - Web App Framework
-* [PWABuilder](https://www.pwabuilder.com/) - Turn Site into Progressive Web App
-* [Chaos Frontend Toolkit](https://chaos-frontend-toolkit.web.app/) - Break Your Web Apps to Improve Them
-* [ZAP](https://www.zaproxy.org/) - Web App Security Testing
-* [PWA Screenshot Generator](https://progressier.com/pwa-screenshots-generator) - Generate PWA Screenshots
-* [Form To Chatbot](https://formtochatbot.com/) - Convert Google Form to Chatbot
-* [Stackbit](https://www.stackbit.com/) - JamStack Tools
-* [the New Dynamic](https://www.tnd.dev/) - JamStack Directory
-* [NuxtJS](https://nuxt.com/) - Vue Framework / [Dev Tools](https://github.com/nuxt/devtools)
-* [Arco Design](https://arco.design/vue/en-US/docs/start) or [Naive-UI](https://www.naiveui.com/) / [GitHub](https://github.com/tusen-ai/naive-ui) - Vue 3 UI Components Library
-* [Vuejs Dev Tools](https://vuejs.org/) - Add Vue 3 Debugging to Browser
-* [Vue vben admin](https://github.com/vbenjs/vue-vben-admin) - Vue Admin
-* [Shiki](https://shiki.style/) or [Sight](https://github.com/tsenart/sight) - Syntax Highlighters
-* [mnm](https://mnmnotmail.org/) - Member Messaging Tools
-* [Website Grader](https://website.grader.com/) - Website Grading Tool
-* [ngrok](https://ngrok.com/) - Introspectable Tunnels to Localhost Tools
-* [NConfig](https://www.digitalocean.com/community/tools/nginx) - [NGINX](https://nginx.org/) Server Config
-* [tengine](https://tengine.taobao.org) / [GitHub](https://github.com/alibaba/tengine) - NGINX with Extra Features
-* [Nginx-Admins-Handbook](https://github.com/trimstray/nginx-admins-handbook) - Improve NGINX Performance
-* [Visual CSS Editor](https://chromewebstore.google.com/detail/visual-css-editor/cibffnhhlfippmhdmdkcfecncoaegdkh) - WordPress Site Designer
-* [Mantiq](https://wpmantiq.com/) - WordPress Visual Backend
-* [WPSQLite](https://github.com/hasinhayder/wpsqlite) or [LocalWP](https://localwp.com) - WordPress Site Deployment Tools
-* [Nulled Scripts](https://www.null-scripts.net/), [NullJungle](https://nulljungle.com/) or [Null PHP Script](https://nullphpscript.com/) - Nulled Scripts
-* [faustjs](https://faustjs.org) - WordPress Framework
-* [Timber](https://upstatement.com/timber/) - WordPress Theme Creator / [GitHub](https://github.com/timber/timber)
-* [KokoAnalytics](https://www.kokoanalytics.com/) - WordPress Analytics
-* [UUID Tools](https://www.uuidtools.com/) - UUID Generator
-
-***
-
-## ▷ Color Schemes
-
-* 🌐 **[Colorful](https://github.com/Siddharth11/Colorful)** - Color Scheme Resources
-* ↪️ **[Color Palette Generators](https://www.reddit.com//r/FREEMEDIAHECKYEAH/wiki/img-tools#wiki_.25B7_palette_generators)**
-* ↪️ **[Color Pickers](https://www.reddit.com//r/FREEMEDIAHECKYEAH/wiki/img-tools#wiki_.25B7_color_pickers)**
-* ⭐ **[ColorHexa](https://www.colorhexa.com/)** - Color Hex Encyclopedia
-* ⭐ **[Realtime Colors](https://realtimecolors.com/)** - Preview Color Palettes
-* ⭐ **[SpyColor](https://www.spycolor.com/)** or [Colouris](https://colouris.surge.sh/) - Color Model Conversions
-* ⭐ **[Color & Contrast](https://colorandcontrast.com/)** - Color / Contrast Guide
-* [ColorsAndFonts](https://www.colorsandfonts.com/) - Quickly Copy Colors & Typography Combinations
-* [Paletton](https://paletton.com/) - Color Scheme Designer
-* [Palettte](https://palettte.app/) - Color Palette Editor
-* [PaletteGenerator](https://palettegenerator.com/) or [Alwane](https://alwane.io/) - Color Palette Extractor
-* [Colorable](https://colorable.jxnblk.com/) / [GitHub](https://github.com/jxnblk/colorable), [color.review](https://color.review/), [accessible-color-matrix](https://toolness.github.io/accessible-color-matrix/) or [Accessible Brand Colors](https://abc.useallfive.com/) - Accessible Color Pallette Builders
-* [Color Oracle](https://colororacle.org/), [WhoCanUse](https://www.whocanuse.com/) or [Toptal](https://www.toptal.com/designers/colorfilter) - Color Blindness Simulator / Tests
-* [Simpler Color](https://github.com/arnelenero/simpler-color) - Create Web Color System
-* [Stylify Me](http://stylifyme.com/) - Extract Webpage Colors
-* [ColorZilla](https://www.colorzilla.com/) - Color Picker, Gradient Generator & more
-* [uiGradients](https://uigradients.com/) - Hex Gradients
-* [ShaderToy](https://www.shadertoy.com/browse) - User-Made Shaders
-* [MakeTintAndShade](https://maketintsandshades.com/) - Tint and Shade Generator
-* [Alphredo](https://alphredo.app/) - Create Translucent Colors
-* [Contrast Checker](https://webaim.org/resources/contrastchecker/) or [Colour Contrast](https://colourcontrast.cc/) - Background / Text Contrast Checkers
-
-***
-
-## ▷ Frontend Tools
-
-* 🌐 **[Awesome Web Animation](https://awesome-web-animation.netlify.app/)** - Web Animation Resources
-* ↪️ **[Icon Download Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/img-tools#wiki_.25B7_icons_.2F_svgs)**
-* ↪️ **[Design Resources](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/img-tools#wiki_.25BA_design_resources)** or [Open Source Design](https://opensourcedesign.net/)
-* ↪️ **[Website Templates](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_website_templates)**
-* ↪️ **[Wordpress Themes](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_wordpress_themes)**
-* ⭐ **[Design Checklist](https://www.checklist.design/)** or [Front-End Checklist](https://frontendchecklist.io/) - Front-End Development Checklist
-* [Aspect](https://aspect.app/) or [OpenUI](https://github.com/wandb/openui) - Make UI with AI
-* [Contentdrips](https://contentdrips.com/) or [CreatorKit](https://creatorkit.com/) - Brand Design Tools
-* [SuperNova](https://www.supernova.io/) - Design System Manager
-* [Interplay](https://interplayapp.com/) - Product Design Tool
-* [CollectUI](https://collectui.com/), [Hoverstat](https://www.hoverstat.es/), [httpster](https://httpster.net/), [Wave Guide](https://www.waveguide.io/), [ReallyGoodUX](https://goodux.appcues.com/) or [Pageflows](https://pageflows.com/) - UI Design Ideas
-* [StoryBook](https://storybook.js.org/) or [Mockend](https://mockend.com/) - UI Development Tools
-* [Tkinter Designer](https://github.com/ParthJadhav/Tkinter-Designer) - Create Python GUI
-* [UI Design Daily](https://www.uidesigndaily.com/) or [UIVerse](https://uiverse.io/) - Free UI Design Resources
-* [Open UI](https://open-ui.org/) - Open Standard UI
-* [CodeMyUI](https://codemyui.com/) or [Semantic UI](https://semantic-ui.com/) - User Interface Code Snippets
-* [Icon Shelf](https://icon-shelf.github.io/) - Icon Manager
-* [Favicon Maker](https://formito.com/tools/favicon) or [Favicon Generator](https://www.favicon-generator.org/) - Create Favicons
-* [Icon Horse](https://icon.horse/) or [Favicone](https://favicone.com/) - Download a Sites Favicon / [Note](https://pastebin.com/Awnn50HX)
-* [Meta-Mapper](https://meta-mapper.com/) - Website Metadata Thumbnails
-* [SREWorks](https://github.com/alibaba/SREWorks) - Operation & Maintenance Platform
-* [the component gallery](https://component.gallery/) - Design Components Gallery
-* [Scrollbar.app](https://scrollbar.app/) - Design Custom Scrollbars
-* [LogoTaco](https://www.logotaco.com/) - Project Logos
-* [Emanote](https://emanote.srid.ca/) - Create Sites from Plain-Text Notes / [GitHub](https://github.com/srid/emanote)
-* [Plunker](https://plnkr.co/) or [Bloo](https://bloouikit.com/) - Prototype / Test Websites Idea
-* [WebDesignMuseum](https://www.webdesignmuseum.org/) - Website Designs Over Time
-* [Bootstrap](https://getbootstrap.com/) - Mobile Site Creator / [Icons](https://icons.getbootstrap.com/) / [Snippets](https://bootsnipp.com/) / [UI Components](https://mdbootstrap.com/) / [Templates](https://bootswatch.com/), [2](https://bootstraptaste.com/)
-* [PsdRepo](https://psdrepo.com/) - Templates, Mockups, Logos, Videos
-* [Daft Page](https://daftpage.com/) - Landing Page Creator
-* [LandingPage](https://landingpage.fyi/index.html) - Landing Page Tool Index
-* [SaaS Pages](https://saaspages.xyz/), [SaaS Landing Page](https://saaslandingpage.com/) or [lapa](https://www.lapa.ninja/) - Landing Page Templates / Ideas
-* [Zeplin](https://zeplin.io/) - Design Templates / Editor
-* [Codebases](https://github.com/reacttips-dev/codebases) - ReactJS Project Source Codes
-* [vite](https://vitejs.dev/) or [layoutit](https://layoutit.com/) - Frontend Development Tools
-* [Frontend Development](https://github.com/dypsilon/frontend-dev-bookmarks) - Frontend Development Resources
-* [BoxCoding](https://www.avabucks.it/) - Frontend CSS Components
-* [Hydrogen](https://github.com/Shopify/hydrogen) - Online Store Templates
-* [MicroCopy](https://www.microcopy.me) - Copy Common Website Text
-* [RoughAnnotations](https://roughnotation.com/) - Webpage Annotations / Animations
-* [SVGX](https://svgx.app/) - SVG Assets Manager
-* [SVG2JSX](https://svg2jsx.com/) - SVG to JSX Converter
-* [Pattern Monster](https://pattern.monster/) - SVG Pattern Generator
-* [Broider](https://maxbittker.github.io/broider/) - Create Border Designs
-* [ShapeDivider](https://www.shapedivider.app/) - Make SVG Shape Divider
-* [SVG Path](https://svg-path-visualizer.netlify.app/) - SVG Path Visualizer
-* [svg-path-editor](https://yqnn.github.io/svg-path-editor/) - SVG Path Editor
-* [Get Waves](https://getwaves.io/), [Wavelry](https://wavelry.vercel.app/), [SVGWave](https://svgwave.in/) / [GitHub](https://github.com/anup-a/svgwave) or [SVG Wave](https://www.softr.io/tools/svg-wave-generator) - SVG Wave Generators
-* [Blobmaker](https://www.blobmaker.app/) - SVG Blob Generator
-* [Lorem.space](https://lorem.space/), [Placeholdifier](https://github.com/pomber/placeholdifier), [PlaceHolder](https://placeholder.pics/), [PicSum](https://picsum.photos/) or [FakeIMG](https://fakeimg.pl/) - Site Placeholder Images
-* [MinimalAvatars](https://minimalavatars.com/) - Minimal Site Avatars
-* [Visiwig](https://www.visiwig.com/) - Copy / Paste Site Graphics
-* [WebDesigner](https://webdesigner.withgoogle.com/), [T3](https://github.com/tooll3/t3), [Theatre.js](https://www.theatrejs.com/) / [GitHub](https://github.com/theatre-js/theatre), [GSAP](https://gsap.com/), [Stylie](https://jeremyckahn.github.io/stylie/), [RenderForest](https://www.renderforest.com), [Mantra](https://jeremyckahn.github.io/mantra/) or [Animate.css](https://animate.style/) - Create Interactive Motion Graphics
-* [useAnimations](https://useanimations.com/index.html) or [LordIcon](https://lordicon.com/) - Animated Icons
-* [Cursor Effects](https://tholman.com/cursor-effects/) - 90's Style Cursors
-* [NakerApp](https://app.naker.io/back/) - Interactive Background Maker
-* [Error404](https://error404.fun/) - Free 404 Pages
-* [HTTP Cats](https://http.cat/) - Put Cat Pictures in Your Status Codes
-
-***
-
-## ▷ Hosting Tools
-
-* 🌐 **[Awesome Cloudflare](https://github.com/irazasyed/awesome-cloudflare)** - Cloudflare Resources
-* 🌐 **[VPS Comparison Chart](https://lowendstock.com/deals/)** or [Bitcoin VPS](https://bitcoin-vps.com/) - VPS Comparisons
-* ↪️ **[Free Webhosting Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_free_webhosting_sites)**
-* ↪️ **[Free DNS Servers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_free_dns_servers)**
-* ↪️ **[Domain Info Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_domain_info_tools)**
-* ↪️ **[Domain Availability](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_domain_availability)**
-* ⭐ **[Offshore.CAT](https://offshore.cat/)** - DMCA Ignoring Hosting List
-* ⭐ **[Check-Host](https://check-host.net/)**, [StatPing](https://github.com/statping/statping), [Uptime](https://betterstack.com/uptime), [Uptime Kuma](https://github.com/louislam/uptime-kuma), [Highlight](https://www.highlight.io/), [AreWeDown?](https://github.com/shukriadams/arewedown), [UptimeRobot](https://uptimerobot.com/) or [24x7](https://www.site24x7.com/tools.html) - Site Uptime Monitors
-* [GoodBadISPs](https://gitlab.torproject.org/legacy/trac/-/wikis/doc/GoodBadISPs) - Best ISPs for Tor Hosting
-* [Server Hunter](https://www.serverhunter.com/) - Search / Compare Servers
-* [Sentora](https://sentora.org/) or [Moonlight](https://github.com/Moonlight-Panel/Moonlight) - Web Hosting Panels
-* [SegFault](https://shell.segfault.net/) - Disposable Root Servers
-* [GetDeploying](https://getdeploying.com/) - Compare Cloud Providers
-* [DNSPerf](https://www.dnsperf.com/dns-providers-list/) - DNS Provider Rankings
-* [GRC DNSBench](https://www.grc.com/dns/benchmark.htm) - DNS Benchmark
-* [DNS over HTTPS](https://github.com/curl/curl/wiki/DNS-over-HTTPS) - HTTPS DoH Queries
-* [DNS Propagation](https://dnspropagation.net/) - DNS Checker
-* [Meta Tag Gen](https://lewdev.github.io/apps/meta-tag-gen/), [OpenGraph](https://www.opengraph.xyz/) or [MetaTags](https://metatags.io/) - Meta Tag Generators
-* [DNForum](https://www.dnforum.com/) - Domain Name Forum
-* [WorthBuck](https://worthbuck.com/) or [SitePriace](https://www.siteprice.org/) - Domain Price Estimations
-* [HaveIBeenSquatted](https://haveibeensquatted.com) - Typosquatting Discovery Tool
-* [iana](https://www.iana.org/), [arin](https://www.arin.net/), [lacnic](https://www.lacnic.net/), [afrinic](https://www.afrinic.net/) or [apnic](https://www.apnic.net/) - Internet Registry Sites
-* [takingnames](https://takingnames.io/blog/instant-subdomains), [GetFreeDomain](https://www.getfreedomain.name/) or [EU.org](https://nic.eu.org/) / [2](https://nic.ua/en/domains/.pp.ua) - Free Subdomains
-* [Homepage](https://github.com/benphelps/homepage), [Flame](https://github.com/pawelmalak/flame), [Homer](https://github.com/bastienwirtz/homer) or [Dashy](https://dashy.to/) / [GitHub](https://github.com/lissy93/dashy) - Home Server Startpages
-* [TheDev](https://thedev.id/) - Free Developer Subdomains
-* [redirect.name](https://redirect.name/) - URL Forwarding
-* [PingDom](https://tools.pingdom.com) - Ping Website
-* [Kener](https://kener.ing/) - Self-Hosted Status Page
-* [Oracle VPS](https://rentry.co/oraclevps) - VPS
-* [Hitch](https://hitch-tls.org/) - SSL / TLS Proxy
-* [acme.sh](https://github.com/acmesh-official/acme.sh) - Auto Issues / Certificate Renewal
-* [Let's Encrypt](https://letsencrypt.org/) - Free TLS Certificates
-* [SSL for Free](https://www.sslforfree.com/) or [ZeroSSL](https://zerossl.com/) - Free SSL Certificates
-* [CertAlert](https://certalert.net/) - Alerts you when a TLS/SSL Certificate Expires
-* [mkcert](https://github.com/FiloSottile/mkcert) - Locally Trusted Development Certificates
-* [SSL Config Generator](https://ssl-config.mozilla.org/) - Generate SSL Configurations
-* [Sandstorm](https://sandstorm.org/), [Cosmos](https://cosmos-cloud.io/) or [CloudRon](https://www.cloudron.io/) - Web App Hosts
-* [vichan](https://vichan.info) / [GitHub](https://github.com/vichan-devel/vichan) or [overscript](https://overscript.net/) - Imageboard Hosting
-* [ProBoards](https://www.proboards.com/) - Forum & Imageboard Hosting
-* [MyBB](https://www.mybb.com/), [FreeFlarum](https://freeflarum.com/) or [PHPBB](https://www.phpbb.com/) - Forum Hosting
-* [Media Wiki](https://www.mediawiki.org/), [xWiki](https://www.xwiki.org/xwiki/bin/view/Main/), [DokuWiki](https://www.dokuwiki.org/dokuwiki), [Miraheze](https://miraheze.org/), [wikmd](https://linbreux.github.io/wikmd/) or [Fandom](https://www.fandom.com/) - Host Free Wiki
-* [HumHub](https://www.humhub.com) or [scuttlebutt](https://scuttlebutt.nz/) - Self-Hosted Social Network
-* [UNIT3D Community Edition](https://github.com/HDInnovations/UNIT3D-Community-Edition) - Private Tracker Hosting
-
-***
-
-## ▷ Regex Tools
-
-* 🌐 **[Awesome Regex](https://github.com/aloisdg/awesome-regex)** - Regex Resources
-* ⭐ **[Regex Vis](https://regex-vis.com/)**, [Regulex](https://jex.im/regulex/), [Regexper](https://regexper.com/) - Regex Visualizer
-* ⭐ **[RegexLearn](https://regexlearn.com/)**, [refrf.dev](https://refrf.dev/) or [learn-regex](https://github.com/ziishaned/learn-regex) - Learn Regex
-* ⭐ **[RegExr](https://regexr.com/)**, [Rubular](https://rubular.com/) or [Regex101](https://regex101.com/) - Regex Editors
-* ⭐ **[grex](https://pemistahl.github.io/grex-js/)** or [Regex Generator](https://regex-generator.olafneumann.org/) - Regex Generators
-* [RegexOne](https://regexone.com/) - Regex Practice
-* [iHateRegex](https://ihateregex.io/) - Regex Patterns
-* [Melody](https://yoav-lavi.github.io/melody/book/) - Compile to Regex / [GitHub](https://github.com/yoav-lavi/melody)
-* [PyRegex](http://www.pyregex.com/) - Python Regex Playground
-
-***
-
-## ▷ Benchmark Tools
-
-* 🌐 **[Awesome Accessibility](https://github.com/brunopulis/awesome-a11y)** - Accessibility Tools Index
-* ⭐ **[LightTest](https://lightest.app/)**, [Yellow Lab Tools](https://yellowlab.tools/), [PageSpeed](https://pagespeed.web.dev/), [SpeedVitals](https://speedvitals.com/), [PageSpeed Compare](https://pagespeed.compare/), [GTmetrix](https://gtmetrix.com/) or [Websu](https://websu.io/) - Test Webpage Speed
-* ⭐ **[Geekflare Tools](https://domsignal.com/toolbox)** or [Frontend Dogma](https://frontenddogma.com/tools/check/) - Site Benchmarking Tools
-* [LambDatest](https://www.lambdatest.com/) - Cross Browser Testing Cloud
-* [Accessibility Guide](https://accessibility.18f.gov/checklist/), [Pa11y](https://pa11y.org/), [Wave](https://wave.webaim.org/), [MagentaA11y](https://www.magentaa11y.com/), [Andi](https://www.ssa.gov/accessibility/andi/help/install.html) or [A11ygator](https://a11ygator.chialab.io/) - Accessibility Evaluation Tools
-* [Accessibility Insights](https://accessibilityinsights.io/) - Fix Accessibility Issues
-* [Accessibility Cheatsheet](https://moritzgiessmann.de/accessibility-cheatsheet/) or [A11Project](https://www.a11yproject.com/checklist) - Site Accessibility Guidelines
-* [Web Vitals Leaderboard](https://vitals-leaderboard.pazguille.me/), [CodSpeed](https://codspeed.io/) or [Lighthouse Metrics](https://lighthouse-metrics.com/) - Website Performance Tests
-* [Prometheus](https://prometheus.io/) - Site Metrics / [Setup](https://thanos.io/)
-* [Carbon Calculator](https://www.websitecarbon.com/) - Estimate Sites Carbon Footprint
-* [Site Inspector](https://www.getsiteinspector.com/) - Check Site for Spelling / Grammatical Errors
-* [UX Check](https://chromewebstore.google.com/detail/ux-check/giekhiebdpmljgchjojblnekkcgpdobp) - Site Heuristic Evaluation
-* [Testmail](https://testmail.app/) - Site Signup Test
-* [Responsive Viewer](https://responsiveviewer.org/) - Test Site on Multiple Screen Types / [Chrome](https://chromewebstore.google.com/detail/responsive-viewer/inmopeiepgfljkpkidclfgbgbmfcennb)
-* [Responsively](https://responsively.app/), [ResponsiveTestTool](https://responsivetesttool.com/), [Responsivize](https://virejdasani.github.io/Responsivize/) or [Am I Responsive](https://ui.dev/amiresponsive) - Website Responsiveness Tests
-* [LightHouse](https://github.com/GoogleChrome/lighthouse) - Web App Performance Test
-
-***
-
 # ► Developer Tools
 
 * 🌐 **[Awesome Livecoding](https://github.com/toplap/awesome-livecoding)** - Livecoding Resources
@@ -1409,6 +1092,323 @@
 * [minitorch](https://github.com/minitorch/minitorch) - Machine Learning Engineering Course Code
 * [ML-Youtube-Courses](https://github.com/dair-ai/ML-YouTube-Courses) - Machine Learning Courses on YouTube
 * [Cyberbotics](https://cyberbotics.com/) - Robot Simulator
+
+***
+
+# ► Web Dev Tools
+
+* 🌐 **[Awesome Static Generators](https://myles.github.io/awesome-static-generators/)** - Static Site Resources
+* 🌐 **[Awesome PHP](https://github.com/ziadoz/awesome-php)** - PHP Resources
+* 🌐 **[Awesome Tunneling](https://github.com/anderspitman/awesome-tunneling)** - Tunneling Resources
+* 🌐 **[Awesome list of secrets in environment variables](https://github.com/Puliczek/awesome-list-of-secrets-in-environment-variables)** - Environment Variables Secrets
+* ↪️ **[Website Creators](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_website_creators)**
+* ↪️ **[Site Mockups](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_app_.2F_site_mockups)**
+* ↪️ **[Archive / Scrape / Crawl Webpages](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_web_archiving)**
+* ⭐ **[Ray.st](https://ray.st/)** or [Wappalyzer](https://www.wappalyzer.com/) - Identify Technologies on Websites / [Addons](https://www.wappalyzer.com/apps/)
+* ⭐ **[EmulatorJS](https://emulatorjs.org/)** - Embed Emulators on Websites
+* ⭐ **[GoAccess](https://goaccess.io/)** - Web Log Analyzer / [GitHub](https://github.com/allinurl/goaccess)
+* [Website Planet Tools](https://www.websiteplanet.com/webtools/), [Dan's Tools](https://www.danstools.com/), [Webdesign Assistant](https://webdesign-assistant.com/), [xWebTools](https://www.xwebtools.com/), [Tiny Helpers](https://tiny-helpers.dev/), [Browserling Tools](https://www.browserling.com/tools/), [WebCode](https://webcode.tools/), [ToolCool](https://toolcool.org/) or [CSSAuthor](https://cssauthor.com/) - Site Development Tools
+* [Grav](https://getgrav.org/) - Flat-File CMS
+* [Flux](https://www.runonflux.io/) - Decentralized Cloud Infrastructure
+* [URLPages](http://jstrieb.github.io/urlpages) / [GitHub](https://github.com/jstrieb/urlpages) - Store Entire Pages in URLs
+* [Shoelace](https://shoelace.style/), [Fast](https://www.fast.design/) or [Elix](https://component.kitchen/elix) - Web Component libraries
+* [Package Web](https://github.com/rsc/web) - Basic Site Serving Framework
+* [Web Developer](https://chromewebstore.google.com/detail/web-developer/bfbameneiokkgbdmiekhjnmfkcnldhhm) - Web Developer Toolbar Extension
+* [Aptabase](https://aptabase.com/), [GoatCounter](https://www.goatcounter.com/) or [Nibbler](https://nibbler.insites.com/) - Site Analytics
+* [google-indexing-script](https://github.com/goenning/google-indexing-script) - Google Indexing Script
+* [ElasticSearch](https://www.elastic.co/products/elasticsearch) / [GitHub](https://github.com/elastic/elasticsearch) - Search & Analytics Engine
+* [SerPreview](https://serpreviewtool.com/) - Site Search Results
+* [Robots.txt Tester](https://support.google.com/webmasters/answer/6062598) - Test Your robots.txt
+* [Charles 3](https://www.charlesproxy.com/download/previous-release/) / [Activation](https://rentry.co/FMHYBase64#charles-activate) - Web Debugging Proxy App
+* [CORS Proxy](https://corsproxy.github.io/) - Free CORS Proxy
+* [Tabler](https://tabler.io/) - Site Admin Dashboard
+* [Octopus](https://octopus.do/sitemap) - Site Planning Tool
+* [Browser Default Styles](https://browserdefaultstyles.com/) - Default Browser Style Search
+* [Utom Design](https://utom.design/measure) - Sketch Measure
+* [Typeculator](https://typeculator.alexpaul.me/) - Type Scale Calculator
+* [WireFlow](https://wireflow.co/) - Flow Prototype Maker
+* [Lenis](https://lenis.studiofreight.com/) - Smooth Scroll Library
+* [Open Source Guides](https://opensource.guide/) - Open Source Software Tips / [GitHub](https://github.com/github/opensource.guide)
+* [SSLMate CAA](https://sslmate.com/caa/) - CAA Record Helper
+* [free-website-translation](http://free-website-translation.com/), [transdict](http://transdict.com/meta/website.html) or [conveythis](https://www.conveythis.com/) - Website Translators
+* [Statically](https://statically.io/) - Load Websites Faster
+* [Qdrant](https://qdrant.tech/) - Vector Database
+* [Rest Test Test](https://resttesttest.com/) - Test REST / CORS Services
+* [WebUI](https://webui.me/) - Embed WebUI Libraries in Project
+* [Dagu](https://dagu.readthedocs.io) / [GitHub](https://github.com/dagu-dev/dagu) - WebUI Job Manager
+* [httpbin](https://httpbin.org/) or [Requestbin](https://pipedream.com/requestbin) - HTTP Request & Response Service
+* [Hydra](https://github.com/ory/hydra) - OAuth 2.0 Server / OpenID Connect Provider
+* [Easegress](https://github.com/megaease/easegress) - Traffic Orchestration System
+* [HITS](https://hits.seeyoufarm.com/) - Website Traffic Badges
+* [Partytown](https://partytown.builder.io) / [GitHub](https://github.com/BuilderIO/partytown) - Relocate Scripts to Web Worker
+* [Tempesta FW](https://tempesta-tech.com/) - DDoS / Web Attack Protection
+* [Shisho](https://shisho.dev/) - Infrastructure Code Security Patcher
+* [DNSDumpster](https://dnsdumpster.com/), [DNS Watch](https://dnswatch.info) or [WhatsMyDNS](https://whatsmydns.net/) - DNS Lookup / Security
+* [Plow](https://github.com/six-ddc/plow) - HTTP Benchmarking
+* [IPv6 Leak Test](https://ip6.nl/), [Test-IPv6](https://test-ipv6.com/) or [IPv6 Test](https://ipv6-test.com/) - IPV6 Test
+* [How To Turn off IPv6](https://www.itechguides.com/disable-ipv6-windows-10/) - Prevent IPv6 Leaks
+* [Flounder](https://flounder.online/) - Gemini Website Builder
+* [Transform](https://transform.tools/) - Polyglot Web Converter
+* [Framer](https://www.framer.com/) - Interactive Site / App Design Tool
+* [ProjectVisBug](https://visbug.web.app) / [GitHub](https://github.com/GoogleChromeLabs/ProjectVisBug) - Webpage Editor
+* [Brython](https://brython.info/) - Python 3 Web Scripting Language
+* [BuiltWith](https://builtwith.com/) - Find Out What Sites are Built With
+* [Bug](https://auz.github.io/Bug/) - Add Crawling Bugs to Website
+* [OneLinePlayer](https://onelineplayer.com/) - Vimeo / Dropbox Video Player
+* [SCM Music Player](https://www.scmplayer.net/), [WebAMP](https://webamp.org/), [cassette-yt](https://saint-images.github.io/player.html) or [webdeckplayer](https://webdeckplayer.neocities.org/) - Site Audio / Music Players
+* [Stream Defence](https://www.streamdefence.com/) - Website Video Backup System
+* [MapBox](https://www.mapbox.com/) or [leafletjs](https://leafletjs.com/) - Live Maps, Location Search & More
+* [LDRS](https://uiball.com/ldrs/) - Loading Animations
+* [Medusa](https://medusajs.com) - Digital Commerce Development Tool
+* [Can I Use?](https://caniuse.com/) - Browser Support Tables
+* [Appwrite](https://appwrite.io/) or [Shuttle](https://www.shuttle.rs/) - Open-Source Backend Platforms
+* [squid](http://www.squid-cache.org/) - Caching Proxy / [MSI Installer](https://squid.diladele.com/)
+* [Check for Cloudflare](https://checkforcloudflare.selesti.com/) - Check Sites for Cloudflare
+* [CFScanner](https://github.com/MortezaBashsiz/CFScanner/), [scanner](https://ircfspace.github.io/scanner/) or [cf-ip-scanner-py](https://github.com/vfarid/cf-ip-scanner-py) - Cloudflare IP Scanners
+* [cloudflare-ip-tester-app](https://github.com/xianshenglu/cloudflare-ip-tester-app/) - Cloudflare IP Tester
+* [console.watch](https://console.watch/) - Remote Console Polyfill for Cloudflare Workers
+* [Cloudflared](https://github.com/cloudflare/cloudflared) - Cloudflare Tunnel Client
+* [LightTPD](https://www.lighttpd.net/) or [Caddy](https://caddyserver.com/) - Web Server
+* [Bash-web-server](https://github.com/dzove855/Bash-web-server) - Bash Web Server
+* [Oracle](https://www.oracle.com/cloud/free/) - Free Server Tools
+* [http-server](https://github.com/http-party/http-server) - No Config HTTP Server
+* [Apache](https://httpd.apache.org/) - HTTP Server
+* [h5ai](https://larsjung.de/h5ai/) - HTTP Web Server Index / [GitHub](https://github.com/lrsjng/h5ai)
+* [webri.ng](https://webri.ng/) - Webring Host / [GitHub](https://github.com/webri-ng/webri.ng)
+* [onionring.js](https://garlic.garden/onionring/) - Webring Script
+* [Webring List](https://brisray.com/web/webring-list.htm) - Webring Directory
+* [SyAgent](https://syagent.com/), [TA Vivo](https://github.com/ta-vivo/ta-vivo) or [HertzBeat](https://hertzbeat.com/) - Server Monitors
+* [BawkBox](https://bawkbox.com/) - Website Widgets
+* [SDWebImage](https://github.com/SDWebImage/SDWebImage) - Asynchronous Image Downloader
+* [ApexCharts](https://apexcharts.com/) - Add Charts to Site
+* [LibreCaptcha](https://github.com/librecaptcha/lc-core) or [mCaptcha](https://mcaptcha.org/) - Captcha Systems
+* [Democaptcha](https://democaptcha.com/demo-form-eng/hcaptcha.html) or [ReCAPTCHA Demo](https://www.google.com/recaptcha/api2/demo) / [GitHub](https://patrickhlauke.github.io/recaptcha/) - Captcha Demo's
+* [SuperTokens](https://supertokens.com/) or [Lucia](https://lucia-auth.com/) - User Authentication
+* [The SSO Wall of Shame](https://sso.tax/) - Vendors without Built-in SSO
+* [Remarkbox](https://www.remarkbox.com/) or [HTML Comment Box](https://www.htmlcommentbox.com/) - Site Comment Systems
+* [CBox](https://www.cbox.ws/), [Typebot](https://typebot.io/) or [Tawk](https://www.tawk.to/) - Embedded Chat App
+* [Pay 2 Email](https://pay2.email/) - Simple Website Contact Form
+* [Seventy Seven](https://www.seventy-seven.dev/) - Customer Support Tool
+* [Twitcker](https://twitcker.com/) - Add Twitter Feed Ticker to Site
+* [Curator](https://curator.io/) - Embed Social Media Feeds
+* [MinIO](https://min.io/) or [Filebase](https://filebase.com/) - Cloud Native Object Storage
+* [Traefik](https://traefik.io/) - Cloud Native Stack
+* [Amazon S3](https://aws.amazon.com/s3) - Cloud Object Storage Amazon Simple Service Storage / [Desktop](https://s3browser.com/)
+* [howtheyaws](https://github.com/upgundecha/howtheyaws) - List of How Organizations Use AWS
+* [QuickEmailVerification](https://quickemailverification.com/), [Email Marker](https://www.emailmarker.com/) or [ZeroBounce](https://www.zerobounce.net/) - Email Verification Service
+* [Improvemx](https://improvmx.com/) - Domain Email Forwarding
+* [Postal](https://docs.postalserver.io/) - Mail Delivery Platform
+* [Microlink SDK](https://microlink.io/sdk) / [GitHub](https://github.com/microlinkhq/sdk), [React Tiny Link](https://winhtaikaung.github.io/react-tiny-link/) / [GitHub](https://github.com/winhtaikaung/react-tiny-link) or [Link Preview JS](https://github.com/OP-Engineering/link-preview-js) - Create Link Previews
+* [V2Ray](https://www.v2fly.org/) - Proxy Software
+* [mitmproxy](https://mitmproxy.org/) / [GitHub](https://github.com/mitmproxy/mitmproxy) - Analyze and modify HTTPS traffic
+* [Traefik](https://traefik.io/traefik/), [frp](https://github.com/fatedier/frp) or [reverse-proxy](https://github.com/microsoft/reverse-proxy) - Reverse Proxies
+* [Certbot](https://certbot.eff.org/) - Enable HTTPS Automatically
+* [XAMPP](https://www.apachefriends.org/) - PHP Development Environment
+* [PHP Beautifier](https://phpbeautifier.com/) - PHP Formatter
+* [Clean Code PHP](https://github.com/piotrplenik/clean-code-php) - Clean Code for PHP
+* [Valinor](https://valinor.cuyz.io) / [GitHub](https://github.com/CuyZ/Valinor) - PHP Object Mapper
+* [WhatPWACanDo](https://whatpwacando.today/) - PWA Examples
+* [Bubble](https://bubble.io/), [opensilver](https://opensilver.net/), [Anvil](https://anvil.works/), [Symfony](https://symfony.com/) / [CLI](https://github.com/symfony-cli/symfony-cli), [Create-react-app](https://create-react-app.dev) / [GitHub](https://github.com/facebook/create-react-app), [Lowdefy](https://lowdefy.com/) or [Sktch.io](https://sktch.io/) - Web App Creators
+* [Blazor](https://dotnet.microsoft.com/en-us/apps/aspnet/web-apps/blazor) or [FastUI](https://github.com/pydantic/FastUI) - Web App UI Creators
+* [Laravel](https://laravel.com/) or [Lona](https://lona-web.org/1.x/) - Web App Framework
+* [PWABuilder](https://www.pwabuilder.com/) - Turn Site into Progressive Web App
+* [Chaos Frontend Toolkit](https://chaos-frontend-toolkit.web.app/) - Break Your Web Apps to Improve Them
+* [ZAP](https://www.zaproxy.org/) - Web App Security Testing
+* [PWA Screenshot Generator](https://progressier.com/pwa-screenshots-generator) - Generate PWA Screenshots
+* [Form To Chatbot](https://formtochatbot.com/) - Convert Google Form to Chatbot
+* [Stackbit](https://www.stackbit.com/) - JamStack Tools
+* [the New Dynamic](https://www.tnd.dev/) - JamStack Directory
+* [NuxtJS](https://nuxt.com/) - Vue Framework / [Dev Tools](https://github.com/nuxt/devtools)
+* [Arco Design](https://arco.design/vue/en-US/docs/start) or [Naive-UI](https://www.naiveui.com/) / [GitHub](https://github.com/tusen-ai/naive-ui) - Vue 3 UI Components Library
+* [Vuejs Dev Tools](https://vuejs.org/) - Add Vue 3 Debugging to Browser
+* [Vue vben admin](https://github.com/vbenjs/vue-vben-admin) - Vue Admin
+* [Shiki](https://shiki.style/) or [Sight](https://github.com/tsenart/sight) - Syntax Highlighters
+* [mnm](https://mnmnotmail.org/) - Member Messaging Tools
+* [Website Grader](https://website.grader.com/) - Website Grading Tool
+* [ngrok](https://ngrok.com/) - Introspectable Tunnels to Localhost Tools
+* [NConfig](https://www.digitalocean.com/community/tools/nginx) - [NGINX](https://nginx.org/) Server Config
+* [tengine](https://tengine.taobao.org) / [GitHub](https://github.com/alibaba/tengine) - NGINX with Extra Features
+* [Nginx-Admins-Handbook](https://github.com/trimstray/nginx-admins-handbook) - Improve NGINX Performance
+* [Visual CSS Editor](https://chromewebstore.google.com/detail/visual-css-editor/cibffnhhlfippmhdmdkcfecncoaegdkh) - WordPress Site Designer
+* [Mantiq](https://wpmantiq.com/) - WordPress Visual Backend
+* [WPSQLite](https://github.com/hasinhayder/wpsqlite) or [LocalWP](https://localwp.com) - WordPress Site Deployment Tools
+* [Nulled Scripts](https://www.null-scripts.net/), [NullJungle](https://nulljungle.com/) or [Null PHP Script](https://nullphpscript.com/) - Nulled Scripts
+* [faustjs](https://faustjs.org) - WordPress Framework
+* [Timber](https://upstatement.com/timber/) - WordPress Theme Creator / [GitHub](https://github.com/timber/timber)
+* [KokoAnalytics](https://www.kokoanalytics.com/) - WordPress Analytics
+* [UUID Tools](https://www.uuidtools.com/) - UUID Generator
+
+***
+
+## ▷ Color Schemes
+
+* 🌐 **[Colorful](https://github.com/Siddharth11/Colorful)** - Color Scheme Resources
+* ↪️ **[Color Palette Generators](https://www.reddit.com//r/FREEMEDIAHECKYEAH/wiki/img-tools#wiki_.25B7_palette_generators)**
+* ↪️ **[Color Pickers](https://www.reddit.com//r/FREEMEDIAHECKYEAH/wiki/img-tools#wiki_.25B7_color_pickers)**
+* ⭐ **[ColorHexa](https://www.colorhexa.com/)** - Color Hex Encyclopedia
+* ⭐ **[Realtime Colors](https://realtimecolors.com/)** - Preview Color Palettes
+* ⭐ **[SpyColor](https://www.spycolor.com/)** or [Colouris](https://colouris.surge.sh/) - Color Model Conversions
+* ⭐ **[Color & Contrast](https://colorandcontrast.com/)** - Color / Contrast Guide
+* [ColorsAndFonts](https://www.colorsandfonts.com/) - Quickly Copy Colors & Typography Combinations
+* [Paletton](https://paletton.com/) - Color Scheme Designer
+* [Palettte](https://palettte.app/) - Color Palette Editor
+* [PaletteGenerator](https://palettegenerator.com/) or [Alwane](https://alwane.io/) - Color Palette Extractor
+* [Colorable](https://colorable.jxnblk.com/) / [GitHub](https://github.com/jxnblk/colorable), [color.review](https://color.review/), [accessible-color-matrix](https://toolness.github.io/accessible-color-matrix/) or [Accessible Brand Colors](https://abc.useallfive.com/) - Accessible Color Pallette Builders
+* [Color Oracle](https://colororacle.org/), [WhoCanUse](https://www.whocanuse.com/) or [Toptal](https://www.toptal.com/designers/colorfilter) - Color Blindness Simulator / Tests
+* [Simpler Color](https://github.com/arnelenero/simpler-color) - Create Web Color System
+* [Stylify Me](http://stylifyme.com/) - Extract Webpage Colors
+* [ColorZilla](https://www.colorzilla.com/) - Color Picker, Gradient Generator & more
+* [uiGradients](https://uigradients.com/) - Hex Gradients
+* [ShaderToy](https://www.shadertoy.com/browse) - User-Made Shaders
+* [MakeTintAndShade](https://maketintsandshades.com/) - Tint and Shade Generator
+* [Alphredo](https://alphredo.app/) - Create Translucent Colors
+* [Contrast Checker](https://webaim.org/resources/contrastchecker/) or [Colour Contrast](https://colourcontrast.cc/) - Background / Text Contrast Checkers
+
+***
+
+## ▷ Frontend Tools
+
+* 🌐 **[Awesome Web Animation](https://awesome-web-animation.netlify.app/)** - Web Animation Resources
+* ↪️ **[Icon Download Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/img-tools#wiki_.25B7_icons_.2F_svgs)**
+* ↪️ **[Design Resources](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/img-tools#wiki_.25BA_design_resources)** or [Open Source Design](https://opensourcedesign.net/)
+* ↪️ **[Website Templates](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_website_templates)**
+* ↪️ **[Wordpress Themes](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_wordpress_themes)**
+* ⭐ **[Design Checklist](https://www.checklist.design/)** or [Front-End Checklist](https://frontendchecklist.io/) - Front-End Development Checklist
+* [Aspect](https://aspect.app/) or [OpenUI](https://github.com/wandb/openui) - Make UI with AI
+* [Contentdrips](https://contentdrips.com/) or [CreatorKit](https://creatorkit.com/) - Brand Design Tools
+* [SuperNova](https://www.supernova.io/) - Design System Manager
+* [Interplay](https://interplayapp.com/) - Product Design Tool
+* [CollectUI](https://collectui.com/), [Hoverstat](https://www.hoverstat.es/), [httpster](https://httpster.net/), [Wave Guide](https://www.waveguide.io/), [ReallyGoodUX](https://goodux.appcues.com/) or [Pageflows](https://pageflows.com/) - UI Design Ideas
+* [StoryBook](https://storybook.js.org/) or [Mockend](https://mockend.com/) - UI Development Tools
+* [Tkinter Designer](https://github.com/ParthJadhav/Tkinter-Designer) - Create Python GUI
+* [UI Design Daily](https://www.uidesigndaily.com/) or [UIVerse](https://uiverse.io/) - Free UI Design Resources
+* [Open UI](https://open-ui.org/) - Open Standard UI
+* [CodeMyUI](https://codemyui.com/) or [Semantic UI](https://semantic-ui.com/) - User Interface Code Snippets
+* [Icon Shelf](https://icon-shelf.github.io/) - Icon Manager
+* [Favicon Maker](https://formito.com/tools/favicon) or [Favicon Generator](https://www.favicon-generator.org/) - Create Favicons
+* [Icon Horse](https://icon.horse/) or [Favicone](https://favicone.com/) - Download a Sites Favicon / [Note](https://pastebin.com/Awnn50HX)
+* [Meta-Mapper](https://meta-mapper.com/) - Website Metadata Thumbnails
+* [SREWorks](https://github.com/alibaba/SREWorks) - Operation & Maintenance Platform
+* [the component gallery](https://component.gallery/) - Design Components Gallery
+* [Scrollbar.app](https://scrollbar.app/) - Design Custom Scrollbars
+* [LogoTaco](https://www.logotaco.com/) - Project Logos
+* [Emanote](https://emanote.srid.ca/) - Create Sites from Plain-Text Notes / [GitHub](https://github.com/srid/emanote)
+* [Plunker](https://plnkr.co/) or [Bloo](https://bloouikit.com/) - Prototype / Test Websites Idea
+* [WebDesignMuseum](https://www.webdesignmuseum.org/) - Website Designs Over Time
+* [Bootstrap](https://getbootstrap.com/) - Mobile Site Creator / [Icons](https://icons.getbootstrap.com/) / [Snippets](https://bootsnipp.com/) / [UI Components](https://mdbootstrap.com/) / [Templates](https://bootswatch.com/), [2](https://bootstraptaste.com/)
+* [PsdRepo](https://psdrepo.com/) - Templates, Mockups, Logos, Videos
+* [Daft Page](https://daftpage.com/) - Landing Page Creator
+* [LandingPage](https://landingpage.fyi/index.html) - Landing Page Tool Index
+* [SaaS Pages](https://saaspages.xyz/), [SaaS Landing Page](https://saaslandingpage.com/) or [lapa](https://www.lapa.ninja/) - Landing Page Templates / Ideas
+* [Zeplin](https://zeplin.io/) - Design Templates / Editor
+* [Codebases](https://github.com/reacttips-dev/codebases) - ReactJS Project Source Codes
+* [vite](https://vitejs.dev/) or [layoutit](https://layoutit.com/) - Frontend Development Tools
+* [Frontend Development](https://github.com/dypsilon/frontend-dev-bookmarks) - Frontend Development Resources
+* [BoxCoding](https://www.avabucks.it/) - Frontend CSS Components
+* [Hydrogen](https://github.com/Shopify/hydrogen) - Online Store Templates
+* [MicroCopy](https://www.microcopy.me) - Copy Common Website Text
+* [RoughAnnotations](https://roughnotation.com/) - Webpage Annotations / Animations
+* [SVGX](https://svgx.app/) - SVG Assets Manager
+* [SVG2JSX](https://svg2jsx.com/) - SVG to JSX Converter
+* [Pattern Monster](https://pattern.monster/) - SVG Pattern Generator
+* [Broider](https://maxbittker.github.io/broider/) - Create Border Designs
+* [ShapeDivider](https://www.shapedivider.app/) - Make SVG Shape Divider
+* [SVG Path](https://svg-path-visualizer.netlify.app/) - SVG Path Visualizer
+* [svg-path-editor](https://yqnn.github.io/svg-path-editor/) - SVG Path Editor
+* [Get Waves](https://getwaves.io/), [Wavelry](https://wavelry.vercel.app/), [SVGWave](https://svgwave.in/) / [GitHub](https://github.com/anup-a/svgwave) or [SVG Wave](https://www.softr.io/tools/svg-wave-generator) - SVG Wave Generators
+* [Blobmaker](https://www.blobmaker.app/) - SVG Blob Generator
+* [Lorem.space](https://lorem.space/), [Placeholdifier](https://github.com/pomber/placeholdifier), [PlaceHolder](https://placeholder.pics/), [PicSum](https://picsum.photos/) or [FakeIMG](https://fakeimg.pl/) - Site Placeholder Images
+* [MinimalAvatars](https://minimalavatars.com/) - Minimal Site Avatars
+* [Visiwig](https://www.visiwig.com/) - Copy / Paste Site Graphics
+* [WebDesigner](https://webdesigner.withgoogle.com/), [T3](https://github.com/tooll3/t3), [Theatre.js](https://www.theatrejs.com/) / [GitHub](https://github.com/theatre-js/theatre), [GSAP](https://gsap.com/), [Stylie](https://jeremyckahn.github.io/stylie/), [RenderForest](https://www.renderforest.com), [Mantra](https://jeremyckahn.github.io/mantra/) or [Animate.css](https://animate.style/) - Create Interactive Motion Graphics
+* [useAnimations](https://useanimations.com/index.html) or [LordIcon](https://lordicon.com/) - Animated Icons
+* [Cursor Effects](https://tholman.com/cursor-effects/) - 90's Style Cursors
+* [NakerApp](https://app.naker.io/back/) - Interactive Background Maker
+* [Error404](https://error404.fun/) - Free 404 Pages
+* [HTTP Cats](https://http.cat/) - Put Cat Pictures in Your Status Codes
+
+***
+
+## ▷ Hosting Tools
+
+* 🌐 **[Awesome Cloudflare](https://github.com/irazasyed/awesome-cloudflare)** - Cloudflare Resources
+* 🌐 **[VPS Comparison Chart](https://lowendstock.com/deals/)** or [Bitcoin VPS](https://bitcoin-vps.com/) - VPS Comparisons
+* ↪️ **[Free Webhosting Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_free_webhosting_sites)**
+* ↪️ **[Free DNS Servers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_free_dns_servers)**
+* ↪️ **[Domain Info Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_domain_info_tools)**
+* ↪️ **[Domain Availability](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_domain_availability)**
+* ⭐ **[Offshore.CAT](https://offshore.cat/)** - DMCA Ignoring Hosting List
+* ⭐ **[Check-Host](https://check-host.net/)**, [StatPing](https://github.com/statping/statping), [Uptime](https://betterstack.com/uptime), [Uptime Kuma](https://github.com/louislam/uptime-kuma), [Highlight](https://www.highlight.io/), [AreWeDown?](https://github.com/shukriadams/arewedown), [UptimeRobot](https://uptimerobot.com/) or [24x7](https://www.site24x7.com/tools.html) - Site Uptime Monitors
+* [GoodBadISPs](https://gitlab.torproject.org/legacy/trac/-/wikis/doc/GoodBadISPs) - Best ISPs for Tor Hosting
+* [Server Hunter](https://www.serverhunter.com/) - Search / Compare Servers
+* [Sentora](https://sentora.org/) or [Moonlight](https://github.com/Moonlight-Panel/Moonlight) - Web Hosting Panels
+* [SegFault](https://shell.segfault.net/) - Disposable Root Servers
+* [GetDeploying](https://getdeploying.com/) - Compare Cloud Providers
+* [DNSPerf](https://www.dnsperf.com/dns-providers-list/) - DNS Provider Rankings
+* [GRC DNSBench](https://www.grc.com/dns/benchmark.htm) - DNS Benchmark
+* [DNS over HTTPS](https://github.com/curl/curl/wiki/DNS-over-HTTPS) - HTTPS DoH Queries
+* [DNS Propagation](https://dnspropagation.net/) - DNS Checker
+* [Meta Tag Gen](https://lewdev.github.io/apps/meta-tag-gen/), [OpenGraph](https://www.opengraph.xyz/) or [MetaTags](https://metatags.io/) - Meta Tag Generators
+* [DNForum](https://www.dnforum.com/) - Domain Name Forum
+* [WorthBuck](https://worthbuck.com/) or [SitePriace](https://www.siteprice.org/) - Domain Price Estimations
+* [HaveIBeenSquatted](https://haveibeensquatted.com) - Typosquatting Discovery Tool
+* [iana](https://www.iana.org/), [arin](https://www.arin.net/), [lacnic](https://www.lacnic.net/), [afrinic](https://www.afrinic.net/) or [apnic](https://www.apnic.net/) - Internet Registry Sites
+* [takingnames](https://takingnames.io/blog/instant-subdomains), [GetFreeDomain](https://www.getfreedomain.name/) or [EU.org](https://nic.eu.org/) / [2](https://nic.ua/en/domains/.pp.ua) - Free Subdomains
+* [Homepage](https://github.com/benphelps/homepage), [Flame](https://github.com/pawelmalak/flame), [Homer](https://github.com/bastienwirtz/homer) or [Dashy](https://dashy.to/) / [GitHub](https://github.com/lissy93/dashy) - Home Server Startpages
+* [TheDev](https://thedev.id/) - Free Developer Subdomains
+* [redirect.name](https://redirect.name/) - URL Forwarding
+* [PingDom](https://tools.pingdom.com) - Ping Website
+* [Kener](https://kener.ing/) - Self-Hosted Status Page
+* [Oracle VPS](https://rentry.co/oraclevps) - VPS
+* [Hitch](https://hitch-tls.org/) - SSL / TLS Proxy
+* [acme.sh](https://github.com/acmesh-official/acme.sh) - Auto Issues / Certificate Renewal
+* [Let's Encrypt](https://letsencrypt.org/) - Free TLS Certificates
+* [SSL for Free](https://www.sslforfree.com/) or [ZeroSSL](https://zerossl.com/) - Free SSL Certificates
+* [CertAlert](https://certalert.net/) - Alerts you when a TLS/SSL Certificate Expires
+* [mkcert](https://github.com/FiloSottile/mkcert) - Locally Trusted Development Certificates
+* [SSL Config Generator](https://ssl-config.mozilla.org/) - Generate SSL Configurations
+* [Sandstorm](https://sandstorm.org/), [Cosmos](https://cosmos-cloud.io/) or [CloudRon](https://www.cloudron.io/) - Web App Hosts
+* [vichan](https://vichan.info) / [GitHub](https://github.com/vichan-devel/vichan) or [overscript](https://overscript.net/) - Imageboard Hosting
+* [ProBoards](https://www.proboards.com/) - Forum & Imageboard Hosting
+* [MyBB](https://www.mybb.com/), [FreeFlarum](https://freeflarum.com/) or [PHPBB](https://www.phpbb.com/) - Forum Hosting
+* [Media Wiki](https://www.mediawiki.org/), [xWiki](https://www.xwiki.org/xwiki/bin/view/Main/), [DokuWiki](https://www.dokuwiki.org/dokuwiki), [Miraheze](https://miraheze.org/), [wikmd](https://linbreux.github.io/wikmd/) or [Fandom](https://www.fandom.com/) - Host Free Wiki
+* [HumHub](https://www.humhub.com) or [scuttlebutt](https://scuttlebutt.nz/) - Self-Hosted Social Network
+* [UNIT3D Community Edition](https://github.com/HDInnovations/UNIT3D-Community-Edition) - Private Tracker Hosting
+
+***
+
+## ▷ Regex Tools
+
+* 🌐 **[Awesome Regex](https://github.com/aloisdg/awesome-regex)** - Regex Resources
+* ⭐ **[Regex Vis](https://regex-vis.com/)**, [Regulex](https://jex.im/regulex/), [Regexper](https://regexper.com/) - Regex Visualizer
+* ⭐ **[RegexLearn](https://regexlearn.com/)**, [refrf.dev](https://refrf.dev/) or [learn-regex](https://github.com/ziishaned/learn-regex) - Learn Regex
+* ⭐ **[RegExr](https://regexr.com/)**, [Rubular](https://rubular.com/) or [Regex101](https://regex101.com/) - Regex Editors
+* ⭐ **[grex](https://pemistahl.github.io/grex-js/)** or [Regex Generator](https://regex-generator.olafneumann.org/) - Regex Generators
+* [RegexOne](https://regexone.com/) - Regex Practice
+* [iHateRegex](https://ihateregex.io/) - Regex Patterns
+* [Melody](https://yoav-lavi.github.io/melody/book/) - Compile to Regex / [GitHub](https://github.com/yoav-lavi/melody)
+* [PyRegex](http://www.pyregex.com/) - Python Regex Playground
+
+***
+
+## ▷ Benchmark Tools
+
+* 🌐 **[Awesome Accessibility](https://github.com/brunopulis/awesome-a11y)** - Accessibility Tools Index
+* ⭐ **[LightTest](https://lightest.app/)**, [Yellow Lab Tools](https://yellowlab.tools/), [PageSpeed](https://pagespeed.web.dev/), [SpeedVitals](https://speedvitals.com/), [PageSpeed Compare](https://pagespeed.compare/), [GTmetrix](https://gtmetrix.com/) or [Websu](https://websu.io/) - Test Webpage Speed
+* ⭐ **[Geekflare Tools](https://domsignal.com/toolbox)** or [Frontend Dogma](https://frontenddogma.com/tools/check/) - Site Benchmarking Tools
+* [LambDatest](https://www.lambdatest.com/) - Cross Browser Testing Cloud
+* [Accessibility Guide](https://accessibility.18f.gov/checklist/), [Pa11y](https://pa11y.org/), [Wave](https://wave.webaim.org/), [MagentaA11y](https://www.magentaa11y.com/), [Andi](https://www.ssa.gov/accessibility/andi/help/install.html) or [A11ygator](https://a11ygator.chialab.io/) - Accessibility Evaluation Tools
+* [Accessibility Insights](https://accessibilityinsights.io/) - Fix Accessibility Issues
+* [Accessibility Cheatsheet](https://moritzgiessmann.de/accessibility-cheatsheet/) or [A11Project](https://www.a11yproject.com/checklist) - Site Accessibility Guidelines
+* [Web Vitals Leaderboard](https://vitals-leaderboard.pazguille.me/), [CodSpeed](https://codspeed.io/) or [Lighthouse Metrics](https://lighthouse-metrics.com/) - Website Performance Tests
+* [Prometheus](https://prometheus.io/) - Site Metrics / [Setup](https://thanos.io/)
+* [Carbon Calculator](https://www.websitecarbon.com/) - Estimate Sites Carbon Footprint
+* [Site Inspector](https://www.getsiteinspector.com/) - Check Site for Spelling / Grammatical Errors
+* [UX Check](https://chromewebstore.google.com/detail/ux-check/giekhiebdpmljgchjojblnekkcgpdobp) - Site Heuristic Evaluation
+* [Testmail](https://testmail.app/) - Site Signup Test
+* [Responsive Viewer](https://responsiveviewer.org/) - Test Site on Multiple Screen Types / [Chrome](https://chromewebstore.google.com/detail/responsive-viewer/inmopeiepgfljkpkidclfgbgbmfcennb)
+* [Responsively](https://responsively.app/), [ResponsiveTestTool](https://responsivetesttool.com/), [Responsivize](https://virejdasani.github.io/Responsivize/) or [Am I Responsive](https://ui.dev/amiresponsive) - Website Responsiveness Tests
+* [LightHouse](https://github.com/GoogleChrome/lighthouse) - Web App Performance Test
 
 ***
 
