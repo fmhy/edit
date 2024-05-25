@@ -154,11 +154,10 @@
 # ► Virtual Reality
 
 * ⭐ **[VRPirates](https://vrpirates.wiki/)** - VR Piracy Wiki / [Telegram](https://t.me/VRPirates) / [Discord](https://discord.com/invite/DcfEpwVa4a)
-* [ARMGDDN](https://t.me/ARMGDDNGames) / [Guide](https://cs.rin.ru/forum/viewtopic.php?f=14&t=140593) - 
-* [SideQuest](https://sidequestvr.com/) - 
 * [r/QuestPiracy](https://www.reddit.com/r/QuestPiracy/) - Oculus Quest Piracy
-* [VRCArena](https://www.vrcarena.com/) - Resources for Social VR Games
+* [SideQuest](https://sidequestvr.com/) - VR Sideloading Platform
 * [VRFavs](https://www.vrfavs.com/) - Virtual Reality Resources
+* [VRCArena](https://www.vrcarena.com/) - Resources for Social VR Games
 * [UEVR](https://uevr.io/) - Convert Unreal Engine Games to VR
 * [Oculess](https://github.com/basti564/Oculess) - Remove Oculus Quest Account Requirements & Telemetry
 * [ALVR](https://github.com/alvr-org/ALVR) - Stream VR Games from PC to Headset
