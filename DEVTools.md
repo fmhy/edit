@@ -4,6 +4,19 @@
 ***
 ***
 
+# ► Dev Communities
+
+* 🌐 **[Programming-Telegram-Group](https://github.com/hendisantika/List-All-Programming-Telegram-Group)** - Telegram Communities
+* ⭐ **[XDA](https://xdaforums.com/)** - App Development Forum
+* [CyberArsenal](https://cyberarsenal.org/) - Cybersecurity Forums
+* [TheSecMaster](https://twitter.com/TheSecMaster1) - Cybersecurity Twitter
+* [CodeProject](https://www.codeproject.com/), [Spiceworks Community](https://community.spiceworks.com/), [DEV Community](https://dev.to/) or [Blind](https://www.teamblind.com/) - Developer Forums
+* [Tech-Blogs](https://tech-blogs.dev/) - Blogs for Developers
+* [The Devs Network](https://thedevs.network/) - Developer Chat
+* [StackShare](https://stackshare.io/) - Tech Stack Collaboration
+
+***
+
 # ► Cheat Sheets
 
 * 🌐 **[Awesome Cheatsheets](https://lecoupa.github.io/awesome-cheatsheets/)**, [HowDoI](https://github.com/gleitz/howdoi), [OverApi](https://overapi.com/) or [Cheat Sheets](http://www.cheat-sheets.org/) - Programming Cheat Sheets
@@ -1065,19 +1078,6 @@
 * [yoctocolors](https://github.com/sindresorhus/yoctocolors) - Command Line Coloring Package
 * [open](https://github.com/sindresorhus/open) - Open URLs, Files, Executables in CLI or Scripts
 * [VisiData](https://www.visidata.org/) - Spreadsheet CLI Editor
-
-***
-
-## ▷ Dev Communities
-
-* 🌐 **[Programming-Telegram-Group](https://github.com/hendisantika/List-All-Programming-Telegram-Group)** - Telegram Communities
-* ⭐ **[XDA](https://xdaforums.com/)** - App Development Forum
-* [CyberArsenal](https://cyberarsenal.org/) - Cybersecurity Forums
-* [TheSecMaster](https://twitter.com/TheSecMaster1) - Cybersecurity Twitter
-* [CodeProject](https://www.codeproject.com/), [Spiceworks Community](https://community.spiceworks.com/), [DEV Community](https://dev.to/) or [Blind](https://www.teamblind.com/) - Developer Forums
-* [Tech-Blogs](https://tech-blogs.dev/) - Blogs for Developers
-* [The Devs Network](https://thedevs.network/) - Developer Chat
-* [StackShare](https://stackshare.io/) - Tech Stack Collaboration
 
 ***
 
