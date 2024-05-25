@@ -496,7 +496,7 @@
 * ↪️ **[Minecraft Launchers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_minecraft_launchers)** - [Beta](https://betacraft.uk/) / [Bedrock](https://bedrocklauncher.github.io/) / [Win10 Edition](https://rentry.co/FMHYBase64#minecraft-win-10-unlock)
 * ↪️ **[Minecraft Mods](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_minecraft_mods)**
 * ↪️ **[Minecraft Optimization](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_minecraft_optimization_mods)**
-* ⭐ **[Eaglercraft](https://eaglercraft.com/)** - Browser Minecraft / [Source](https://git.eaglercraft.rip/eaglercraft) / [Note](https://pastebin.com/wpDZzgN5)
+* ⭐ **[Eaglercraft](https://eaglercraft.com/)** - Browser Minecraft / [Source](https://git.eaglercraft.rip/eaglercraft) / [Note](https://pastebin.com/wpDZzgN5) / [Eaglercraft Client](https://eaglercraftx1-8.github.io/1.8/resent4.0/index.html) / [Mod Eaglercraft](https://eaglerforge.github.io/) / [find Eaglercraft mods](https://eaglerrinth.github.io/)
 * ⭐ **[Minecraft Wiki](https://minecraft.wiki/)** or [DigiMinecraft](https://www.digminecraft.com/) - Minecraft Resources / Guides
 * ⭐ **[MCModdingGuide](https://rentry.org/MCModdingGuide)** - Minecraft Modding Guide
 * ⭐ **[Couleur Tweak Tips](https://ctt.cx/)** - Minecraft Tweaks / Tips / [Discord](https://discord.gg/CTT)
