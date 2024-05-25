@@ -190,7 +190,7 @@ def replace_pages(text):
     )
     text = re.sub(
         "https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/game-tools",
-        "/game-tools",
+        "/gaming-tools",
         text,
     )
     text = re.sub(

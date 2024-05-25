@@ -43,7 +43,7 @@
 * ⭐ **[Linqbin](https://linqbin.cc/)** / [Source](https://github.com/daniel-lxs/linqbin) - Plain Text
 * ⭐ **[Katbin](https://katb.in/)** / [Source](https://github.com/sphericalkat/katbin) - Plain Text
 * ⭐ **[Pastebin Search](https://cse.google.com/cse?cx=0cd79b819f26af9d0)** - Pastebin CSE
-* [ZeroBin.net](https://zerobin.net/) / [.onion](http://zerobinftagjpeeebbvyzjcqyjpmjvynj5qlexwyxe7l3vqejxnqv5qd.onion)- Markdown Support / Syntax Highlighting
+* [ZeroBin.net](https://zerobin.net/) / [.onion](http://zerobinftagjpeeebbvyzjcqyjpmjvynj5qlexwyxe7l3vqejxnqv5qd.onion) - Markdown Support / Syntax Highlighting
 * [bpa.st](https://bpa.st/) - Multi-Syntax / Markdown Support
 * [Mozilla Community Pastebin](https://paste.mozilla.org/) - Multi-Syntax / Markdown Support
 * [dpaste](https://dpaste.org/) / [Source](https://github.com/DarrenOfficial/dpaste) - Multi-Syntax / Markdown Support

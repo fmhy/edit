@@ -464,10 +464,19 @@
 
 ## ▷ Tech News
 
+* ↪️ **[Security / Hacking News](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25B7_tech_news)**
 * ⭐ **[KrebsOnSecurity](https://krebsonsecurity.com/)** - Security News
 * ⭐ **[Hacker News](https://news.ycombinator.com/)**, [2](https://www.hckrnws.com/) - Tech / Hacking News
 * ⭐ **Hacker News Tools** - [Highlighter](https://greasyfork.org/en/scripts/39311) / [Search](https://hn.algolia.com/), [2](https://hn-recommend.julienc.me/) / [Top Posts](https://hn.lindylearn.io/) / [Web App](https://hackerwebapp.com/) / [Mobile App](https://github.com/Livinglist/Hacki), [2](https://play.google.com/store/apps/details?id=com.simon.harmonichackernews), [3](https://apps.apple.com/us/app/hackers-for-hacker-news/id603503901), [4](https://github.com/Mosc/Glider) / [Self-Host](https://www.hn.plus/)
-* ⭐ **[Lobsters](https://lobste.rs/)** / [Highlighter](https://greasyfork.org/en/scripts/40906), [TechURLs](https://techurls.com/), [DevURLs](https://devurls.com/), [Techmeme](https://www.techmeme.com/m/), [The Brutalist Report](https://brutalist.report/) or [jimmyr](https://jimmyr.com/) - Tech / Programming News Aggregators
+* ⭐ **[Lobsters](https://lobste.rs/)** - Dev News / [Highlighter](https://greasyfork.org/en/scripts/40906)
+* [TechURLs](https://techurls.com/) - Dev / Tech News
+* [DevURLs](https://devurls.com/) - Dev News
+* [Techmeme](https://www.techmeme.com/m/) - Dev News
+* [The Brutalist Report](https://brutalist.report/) - Dev News
+* [jimmyr](https://jimmyr.com/) - Dev News
+* [This Week in Rust](https://this-week-in-rust.org/) - Rust News / Updates
+* [BitsOfCode](https://bitsofco.de/) - Frontend Dev Articles
+* [hackertab.dev](https://hackertab.dev/) or [daily.dev](https://daily.dev/) - Dev Browser Startpages
 * [HackerNoon](https://hackernoon.com/), [gHacks](https://www.ghacks.net/), [NeoWin](https://www.neowin.net/), [TweakTown](https://www.tweaktown.com/) or [TechSpot](https://www.techspot.com/) - Tech News
 * [TuxURLs](https://tuxurls.com/) - Linux News
 * [Liliputing](https://liliputing.com/) - Hardware / Linux Mobile News
@@ -527,7 +536,6 @@
 * [/r/LoseIt](https://www.reddit.com/r/loseit/) - Weight Loss Subreddit
 * [MOVE! Coach](https://mobile.va.gov/app/move-coach) - Weight Loss Program
 * [Weight Loss Side Effects](https://weight-loss-side-effects.netlify.app/) - Weight Loss Side Effect Mitigation
-* [BodyVisualizer](https://bodyvisualizer.com/) - Exercise Benefit Visualization
 * [Muscleandstrength](https://muscleandstrength.com/) or [Feeel](https://gitlab.com/enjoyingfoss/feeel) - Workout Plans & Tools
 * [/r/GainIt](https://www.reddit.com/r/gainit/) - Healthy Weight Gain Subreddit
 * [/r/Fexibility](https://www.reddit.com/r/flexibility/) - Flexibility Subreddit
@@ -682,7 +690,6 @@
 ## ▷ Resume Makers
 
 * ⭐ **[RX Resume](https://rxresu.me/)** - Resume maker / [GitHub](https://github.com/amruthpillai/reactive-resume)
-* ⭐ **[CareerCup](https://www.careercup.com/resume)** - Resume / Cover Letter Guide
 * ⭐ **[KickResume](https://www.kickresume.com/en/help-center/resume-samples/)** or [ThisResumeDoesNotExist](https://thisresumedoesnotexist.com/) - Resume Samples
 * [ResumeMatcher](https://www.resumematcher.fyi/)
 * [resumonk](https://www.resumonk.com/)
@@ -785,7 +792,6 @@
 * [namelix](https://namelix.com/) or [looka](https://looka.com/business-name-generator) - Business Name Generators
 * [AcronymCreator](https://acronymcreator.net/) - Business Acronym Generator
 * [Business Card Generator](https://business-card-generator.vercel.app/) - Business Card Generator
-* [Recrooit](https://app.recrooit.com/job-description-generator) - Job Description Generator
 * [AvaDocs](https://www.avodocs.com/) - Generate Legal Documents for Startups
 
 ***
@@ -833,7 +839,7 @@
 * [BitcoinWhosWho](https://www.bitcoinwhoswho.com/) - Bitcoin Address Scanner
 * [BlockChain](https://www.blockchain.com/explorer), [CoinWatch](https://github.com/shorthouse/CoinWatch), [Hivexplorer](https://hivexplorer.com/), [BlockChair](https://blockchair.com/), [L2BEAT](https://l2beat.com/), [HiveblockExplorer](https://hiveblockexplorer.com/) or [LiveCoinWatch](https://www.livecoinwatch.com/) - Live Cryptocurrency Prices
 * [DefiLlama](https://defillama.com/) - TVL Aggregator
-* [WalletExplorer](https://www.walletexplorer.com/) or [OXT](https://oxt.me/) - Bitcoin Block Explorers
+* [WalletExplorer](https://www.walletexplorer.com/) - Bitcoin Block Explorers
 * [Cryptopedia](https://www.gemini.com/cryptopedia) or [Crypto Canon](https://a16zcrypto.com/posts/article/crypto-readings-resources/) - Crypto Learning Resources
 * [IQ.Wiki](https://iq.wiki/) - Crypto Encyclopedia
 * [protocol-reading-list](https://github.com/b-chiang/protocol-reading-list) - Crypto Protocols
@@ -870,7 +876,6 @@
 * [StockInformer](https://www.stockinformer.com/) - Product Stock Notifications
 * [GiftWhale](https://giftwhale.com/) or [Wishlephant](https://wishlephant.com/) - Wishlist Generators
 * [Throne](https://throne.com/) - Wishlists for Creators
-* [Ooak Finder](https://www.ooakfinder.com/) - Product Reverse Image Search
 * [Desenmascara](https://desenmascara.me/) - Spot Counterfeit Sites
 * [/r/FashionReps](https://www.reddit.com/r/FashionReps/) - Replica Clothing Community
 * [WornOnTV](https://wornontv.net/) - Find Outfits from TV Shows
@@ -889,7 +894,7 @@
 * ⭐ **[Open Benchmarking](https://openbenchmarking.org/)** - Hardware Benchmarks
 * ⭐ **[GSMArena](https://www.gsmarena.com/)**, [PhoneDB](https://phonedb.net/), [GSMChoice](https://www.gsmchoice.com/en/) or [Kimovil](https://www.kimovil.com/en/) - Compare Phones / Prices
 * ⭐ **[CPUBenchmark](https://www.cpubenchmark.net/)** or [NoteBenchcheck](https://www.notebookcheck.net/Benchmarks-Tech.123.0.html) - GPU / CPU Benchmarks
-* ⭐ **[MechMap](https://www.mechmap.tech/)** / [Discord](https://discord.com/invite/mechkeys), **[/r/MechanicalKeyboards Wiki](https://www.reddit.com/r/MechanicalKeyboards/wiki/index)** or [Alexotos](https://www.alexotos.com/keyboard-vendor-list/) / [Discord](https://discord.com/invite/xMQArAaGRB) - Mechanical Keyboard Recommendations
+* ⭐ **[/r/MechanicalKeyboards Wiki](https://www.reddit.com/r/MechanicalKeyboards/wiki/index)** or [Alexotos](https://www.alexotos.com/keyboard-vendor-list/) / [Discord](https://discord.com/invite/xMQArAaGRB) - Mechanical Keyboard Recommendations
 * ⭐ **[Mousepad Mastersheet](https://docs.google.com/spreadsheets/d/1RAnmZxDNduaGV8kB-GCvZ0MO6d9-0j9jmrU2f8dp0Ww/)** - Mousepad Comparison Chart
 * [LabGopher](https://www.labgopher.com/) - eBay Hardware Price Comparisons
 * [/r/buildapc](https://reddit.com/r/buildapc) - PC Building Community / [Discord](https://discord.com/invite/buildapc)

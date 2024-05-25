@@ -17,7 +17,6 @@
 * ⭐ **[HydraHD](https://hydrahd.com/)** - Movies / TV / Anime / 1080p
 * ⭐ **[SusFlix](https://susflix.tv/)**, [2](https://www.susmovies.lol/), [3](https://sushbo.com/), [4](https://hbosus.com) - Movies / TV / Anime / 4K / 1080p / Ad-Free / Sign-Up Required / [Discord](https://discord.gg/BE7kTVezBN)
 * ⭐ **[KipFlix](https://kipflix.vercel.app/)**, [2](https://www.kipflix.space/) - Movies / TV / Anime / 1080p / [Discord](https://discord.gg/tDKYeh9eQn)
-* ⭐ **[NetFilm](https://netfilm.app/)** - Movies / TV / Anime / 1080p / [Discord](https://discord.gg/g37Fc8u4ks)
 * ⭐ **[Watching Zone](https://www.watching.zone/)** - Movies / TV / Anime / 1080p
 * ⭐ **[PrimeFlix](https://primeflix.lol/)** - Movies / TV / Anime / 1080p / [Discord](https://discord.gg/GbW6gzAKgc)
 * ⭐ **[SFlix](https://sflix.to/)** - Movies / TV / Anime / 1080p / [Mirrors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_sflix_clones)
@@ -146,7 +145,7 @@
 * [Ryuk](https://ryuk.to/) - Sub / Dub / 1080p
 * [Kaguya](https://kaguya.app/) - Sub / 1080p / [Discord](https://discord.gg/382BEFfER6)
 * [Genoanime](https://genoanime.com/) - Sub / Dub / 1080p / [Discord](https://discord.com/invite/TMe9eVs2YY)
-* [Animeflix](https://animeflix.live/), [2](https://animeflix.li/) - Sub / Dub / 1080p / [Mirrors](https://animeflix.domains/)
+* [Animeflix](https://animeflix.gg/), [2](https://animeflix.li/) - Sub / Dub / 1080p / [Mirrors](https://animeflix.domains/)
 * [AnimeHeaven](https://animeheaven.me/) - Sub / 1080p / [Discord](https://discord.com/invite/QmgSMYD)
 * [AnimeNana](https://animenana.com/) - Sub / 1080p
 * [Animension](https://animension.to/) - Sub / Dub / 1080p
@@ -170,7 +169,6 @@
 * [Crimsonfansubs](https://crimsonfansubs.com/) - Chinese Anime / Sub / 1080p / Sub / [Discord](https://discord.gg/PmYn97vtue)
 * [Muse Asia](https://www.youtube.com/@MuseAsia) - Anime / Sub / Dub / 720p / Asian VPN Needed
 * [Ani-One Asia](https://www.youtube.com/@AniOneAsia) - Anime / Sub / Dub / 1080p / Asian VPN Needed
-* [Pokémon Asia ENG](https://www.youtube.com/@PokemonAsiaENG) - Pokémon Anime / Dub / 1080p / Asian VPN Needed
 * [Layendimator](https://github.com/Layendan/Layendanimator), [Akuse](https://github.com/akuse-app/Akuse), [Anikin](https://github.com/jerry08/Anikin) or [Miru](https://miru.js.org/en/) - Desktop Streaming Apps
 * [Tezuka Productions Official](https://www.youtube.com/@tezukaproductions-en) - Osamu Tezuka Anime
 * [Crunchyroll](https://www.crunchyroll.com/videos/anime) - Sub / Dub / [US Proxy](https://addons.mozilla.org/en-US/firefox/addon/crunchy-unblocker/) / [Intro Skip](https://github.com/aniskip/aniskip-extension)
@@ -423,7 +421,6 @@
 * [CrackStreams](https://crackstreams.io/), [2](https://the.crackstreams.me/) - Sports
 * [BuffStream](https://bestmlb.buffstream.io/) - Sports
 * [LiveTV](https://livetv780.me/enx/) - Sports
-* [SportsHD](http://sportshd.sx/) - Sports
 * [Raket TV](https://rakettvv.blogspot.com/) - Sports
 * [SportHD](https://my.livesoccer.sx/) - Sports
 * [SportsOnline](https://sportsonline.gl/) - Sports
@@ -512,10 +509,10 @@
 
 * ↪️ **[General DDL Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/download)**
 * ↪️ **[Video Download Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video-tools#wiki_.25BA_video_download)**
+* ⭐ **[Braflix](https://www.braflix.video/)** - Movies / TV / Anime / 4K / 1080p / Account Required / [Discord](https://discord.gg/wWKmxARaWH)
 * ⭐ **[Pahe](https://pahe.ink/)** - Movies / TV / Anime / 4K / [Discord](https://discord.gg/4AvaCsd2J4)
 * ⭐ **[PSARips](https://psa.wf/)** - Movies / TV / 4K
 * ⭐ **[Binged](https://binged.live/)**, [2](https://binge.lol/), [3](https://binged.in/) - Movies / TV / Anime / 4k / 1080p / [Discord](https://discord.gg/f2SvhcKCKS)
-* ⭐ **[Braflix](https://www.braflix.video/)** - Movies / TV / Anime / 4K / 1080p / Account Required / [Discord](https://discord.gg/wWKmxARaWH)
 * ⭐ **[LightDLMovies](https://lightdl.xyz/)**, [2](https://lightdlmovies.blogspot.com/) - Movies / TV / 1080p
 * ⭐ **[VegaMovies](https://vegamovies.yt/)** - Movies / TV / Anime / 1080p / 4K / [Telegram](https://telegram.dog/VegamoviesTo_Official)
 * ⭐ **[MovieParadise](https://movieparadise.org/)** - Movies / TV / 1080p / [Get Code](https://pastebin.com/5jTpFCCP) / Code unlocks faster file host (1fichier)
@@ -612,7 +609,6 @@
 * [Chiby](https://www.animechiby.com/) - Sub / [Discord](https://discord.com/invite/WagHbBz)
 * [anime7.download](https://anime7.download/) - Sub
 * [belia](https://rentry.co/FMHYBase64#belia) - Sub / Dub
-* [CartoonsArea](https://www.cartoonsarea.xyz/) - Sub / Dub
 * [nibl](https://nibl.co.uk/) - Sub / Dub / XDCC / [Discord](https://discord.com/invite/bUESsAg)
 * [Crunchyroll Downloader](https://github.com/hama3254/Crunchyroll-Downloader-v3.0) - Non-Prem Crunchyroll Downloaders
 * [anime-dl](https://github.com/gabelluardo/anime-dl) / [Frontend](https://github.com/vrienstudios/anime-dl) or [anigrab](https://github.com/ngomile/anigrab) - Anime CLI Downloaders

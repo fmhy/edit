@@ -64,7 +64,7 @@
 * ⭐ **[Reading CSE](https://cse.google.com/cse?cx=006516753008110874046:s9ddesylrm8)** / [2](https://cse.google.com/cse?cx=006516753008110874046:rc855wetniu) / [3](https://cse.google.com/cse?cx=e9657e69c76480cb8) / [4](https://cse.google.com/cse?cx=c46414ccb6a943e39), [Rave](https://ravebooksearch.com/) or [Recherche](https://recherche-ebook.fr/en/) - Multi-Site Book Search
 * irc://irc.undernet.org/bookz
 * irc://irc.irchighway.net/ebooks / [Request Guide](https://i.ibb.co/3WcCF56/3574e36b1bb2.png)
-* IRC Book Tools - [Guide](https://www.reddit.com/r/Piracy/comments/2oftbu/guide_the_idiot_proof_guide_to_downloading_ebooks/), [2](https://encyclopediadramatica.online/Bookz) / [mIRC](https://redd.it/znprct) / [Downloader](https://evan-buss.github.io/openbooks/)
+* IRC Book Tools - [Guide](https://www.reddit.com/r/Piracy/comments/2oftbu/guide_the_idiot_proof_guide_to_downloading_ebooks/) / [mIRC](https://redd.it/znprct) / [Downloader](https://evan-buss.github.io/openbooks/)
 * [BookSee](https://en.booksee.org/), [2](https://bookree.org/) - Books
 * [Bookstagram](https://vk.com/bookstagram_eng) - Books / Magazines
 * [WOW! eBook](https://www.wowebook.org/) - Books / Magazines / NSFW
@@ -202,7 +202,6 @@
 * [Spirituality Megadrive](https://rentry.co/FMHYBase64#spirituality-megadrive)
 * [IAPSOP](http://iapsop.com/) - Spiritualist / Occult Periodicals
 * [Dhushara Research](https://www.dhushara.com/index.htm) - Metaphysics / Conspiracies / Psychedelics
-* [Beyond Weird](https://www.beyondweird.com/) - Witchcraft / Conspiracies
 * [CraftStuff](https://rentry.co/FMHYBase64#craftstuff) - Witchcraft
 * [Witchcraft Library](https://rentry.co/FMHYBase64#witchcraft-library) - Witchcraft / Paganism
 * [Public Witchcraft Library](https://rentry.co/FMHYBase64#public-witchcraft-library) - Witchcraft / Paganism / Satanism
@@ -469,7 +468,6 @@
 * [Scribblehub](https://www.scribblehub.com/)
 * [All Novel Full](https://allnovelfull.com/)
 * [NovelFull](https://novelfull.me/)
-* [MTL Nation](https://mtlnation.com/)
 * [Novel Hall](https://www.novelhall.com/)
 * [Rekt Novel Compilations](https://rektnovelcompilations.wordpress.com/)
 * [WoopRead](https://woopread.com/)
@@ -501,10 +499,8 @@
 * [FlipHTML5](https://fliphtml5.com/exploring) - Online Reading
 * [Magazine Rack](https://archive.org/details/magazine_rack) - Archive.org
 * [Computer Magazines](https://archive.org/details/computermagazines) - Archive.org
-* [FreePDFMagazine](https://www.freepdfmagazine.com/) - VK
 * [freemagazines](https://freemagazines.top/) - VK
 * [FreeMagazinePDF](https://freemagazinespdf.com/) - VK
-* [AEBooks](https://aebook.net/) - FileSources
 * [ENMagazine](https://t.me/enmagazine) - Telegram
 * [newspaper_archive](https://t.me/newspaper_archive) - Telegram
 * [World Mags](https://www.worldmags.net/) - Nitroflare / Novafile

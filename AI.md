@@ -27,6 +27,7 @@
 * ⭐ **[groq](https://groq.com/)** - LLama 3 and Mixtral Chatbots
 * ⭐ **[LMSYS Chat](https://chat.lmsys.org/)** - Chat and Compare Multiple Chatbots
 * [CoolAGI](https://coolagi.vercel.app/) - GPT-4 Turbo Chatbot
+* [feyn](https://feyn.chat/) - GPT-4o / Multiple Chatbots
 * [LibreChat](https://librechat.ai/) - Multiple Chatbots
 * [HuggingChat](https://huggingface.co/chat/) - Open-Source Chatbots
 * [FlowGPT](https://flowgpt.com/chat) - Multiple Chatbots / [Discord](https://discord.com/invite/tWZGzcpTkf)
@@ -103,6 +104,7 @@
 * 🌐 **[EvalPlus Leaderboard](https://evalplus.github.io/leaderboard.html)** or [BigCode](https://huggingface.co/spaces/bigcode/bigcode-models-leaderboard) - Coding AI Leaderboards
 * 🌐 **[Awesome AI Agents](https://github.com/e2b-dev/awesome-ai-agents)** - Coding / Programming AIs
 * ⭐ **[Pieces](https://pieces.app/) / [Docs](https://docs.pieces.app)** - Multi-LLM Coding AI / GPT4 for Free
+* ⭐ **[Literally Anything](https://www.literallyanything.io/)** - Coding AI
 * [Cursor](https://cursor.sh/) - Coding AI
 * [Codeium](https://codeium.com/) - Coding AI
 * [tabnine](https://www.tabnine.com/) - Coding AI
@@ -121,12 +123,13 @@
 * [Codel](https://github.com/semanser/codel) - Coding AI
 * [CollectivAI](https://chat.collectivai.com/) - Coding AI
 * [Denigma](https://denigma.app/#demo) - Coding AI
+* [GPT Engineer](https://github.com/AntonOsika/gpt-engineer) - Coding AI
 * [Aider](https://aider.chat/) - Terminal Coding AI
 * [Codacy](https://www.codacy.com/) or [AI Code Review](https://ai-code-reviewer.com/) - Code Fixing AIs
 * [Open Interpreter](https://github.com/OpenInterpreter/open-interpreter) - Run Code Locally
 * [v0](https://v0.dev/) - Text to Site Code
 * [AI Code Translator](https://ai-code-translator.vercel.app/), [AI Code Convert](https://aicodeconvert.com/) or [Source Code Converters](https://www.tangiblesoftwaresolutions.com/) - AI Code Converters
-* [GPT Engineer](https://github.com/AntonOsika/gpt-engineer) - AI Code Generator
+* [RTutor](https://rtutor.ai/) - Translate Natural Language to R code
 * [Gorilla](https://gorilla.cs.berkeley.edu/) - API to Code LLM
 
 ***
@@ -186,7 +189,6 @@
 
 * 🌐 **[Toolify](https://www.toolify.ai/)** - AI Directory
 * 🌐 **[Phygital Library](https://library.phygital.plus/)** - AI Directory / Workflow Builder
-* 🌐 **[AI-MF](https://whoisdsmith.gitbook.io/ai-mf/)** - AI Directory / [GitHub](https://github.com/whoisdsmith/AI-MTHRFCKR)
 * 🌐 **[LifeArchitect](https://lifearchitect.ai/models-table/)** - LLM Index
 * [What AI Can Do Today](https://whataicandotoday.com/) - AI Search
 * [Awesome AI Tools](https://github.com/mahseema/awesome-ai-tools) - AI Directory

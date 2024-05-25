@@ -11,14 +11,13 @@
 * ⭐ **[czkawka](https://github.com/qarmin/czkawka)** or [dupeGuru](https://dupeguru.voltaicideas.net/) - Duplicate File Finders
 * [horsicq](https://horsicq.github.io/) - File Tools / [GitHub](https://github.com/horsicq/)
 * [Beyond Compare](https://www.scootersoftware.com/) - File / Directory Comparison Tool / [Pro](https://rentry.co/FMHYBase64#beyond-compare-crack)
-* [UnLock IT](https://emcosoftware.com/unlock-it/download), [Lock Hunter](https://lockhunter.com/) or [FileExile](https://sourceforge.net/projects/filexile/) - File Unlocker / Deleter
+* [UnLock IT](https://emcosoftware.com/unlock-it/download) or [Lock Hunter](https://lockhunter.com/) - File Unlocker / Deleter
 * [Magika](https://github.com/google/magika) - AI File Content Type Detector
 * [Phockup](https://github.com/ivandokov/phockup) - Organize Photo / Video Files by Date
 * [Icaros](https://github.com/Xanashi/Icaros) - Add Explorer Thumbnails to any Video Format
-* [TMSU](https://github.com/oniony/TMSU) or [Tagging for Windows](https://tagging.connectpaste.com/) - Tag-Based Filesystem
+* [Tagging for Windows](https://tagging.connectpaste.com/) - Tag-Based Filesystem
 * [HTTPDirfs](https://github.com/fangfufu/httpdirfs) - HTTP File System
 * [mergerfs](https://github.com/trapexit/mergerfs) - Union Filesystem
-* [Snap2HTML](https://rlvision.com/snap2html/about.php) - Take HTML Snapshots of Folder / File Structures
 * [filebrowser](https://github.com/filebrowser/filebrowser/) - Online File Viewer
 * [File-Examples](https://file-examples.com/) - Dummy File Examples
 * [What](https://github.com/bee-san/pyWhat) - File Analyzer
@@ -26,14 +25,12 @@
 * [WinMerge](https://winmerge.org/) - Compare / Merge Files & Folders
 * [Attribute Changer](https://www.petges.lu/) - Edit File & Folder Properties
 * [TagSpaces](https://www.tagspaces.org/) - Add Tags to Files and Folders
-* [DefaultProgramsEditor](https://defaultprogramseditor.com/) - File Association Editor
 * [SKTimeStamp](https://tools.stefankueng.com/SKTimeStamp.html) - Change File Created / Modified Time
 * [Corrupt My File](https://www.corruptmyfile.com/) or [Corrupt-A-File](https://corrupt-a-file.net/) - Intentionally Corrupt your Files
 * [ExtractMetadata](https://www.extractmetadata.com/) or [Metadata2Go](https://www.metadata2go.com/) - Metadata Viewers / Editors
 * [lessmsi](https://lessmsi.activescott.com/) - .msi Content Extractor / [GitHub](https://github.com/activescott/lessmsi)
 * [ProperTree](https://github.com/corpnewt/ProperTree) - GUI Plist Editor
 * [OpenBoardView](https://github.com/OpenBoardView/OpenBoardView) - View .brd Files
-* [pe_tree](https://github.com/blackberry/pe_tree) - PE File Tree View
 * [infekt](https://infekt.ws/) / [GitHub](https://github.com/syndicodefront/infekt), [nfoview](https://otsaloma.io/nfoview/) / [GitHub](https://github.com/otsaloma/nfoview) or [NFOmation](https://nfomation.net/) - NFO Viewers
 
 ***
@@ -68,9 +65,7 @@
 * [TurboBench](https://github.com/powturbo/TurboBench) - Compression Benchmark
 * [unzip-http](https://github.com/saulpw/unzip-http) - Unzip via HTTP without Downloading
 * [WinRAR](https://www.win-rar.com/) - File Archiver / [Licenses](https://rentry.co/FMHYBase64#winrar-licenses)
-* [Bandizip](https://www.bandisoft.com/bandizip/) - File Archiver
-* [IZArc](https://www.izarc.org/) - File Archiver
-* [FileOptimizer](https://nikkhokkho.sourceforge.io/static.php?page=FileOptimizer), [Efficient Compression Tool](https://github.com/fhanau/Efficient-Compression-Tool) or [Minuimus](https://birds-are-nice.me/software/minuimus.html) - File Archivers / Optimizers
+* [Efficient Compression Tool](https://github.com/fhanau/Efficient-Compression-Tool) or [Minuimus](https://birds-are-nice.me/software/minuimus.html) - File Archivers / Optimizers
 * [ZIP Extractor](https://zipextractor.app/) - Google Drive / Gmail File Archiver
 * [ezyZip](https://www.ezyzip.com/) - Zip Files Online
 * [unzip-online](https://unzip-online.com/en) - Unzip Files Online
@@ -150,8 +145,6 @@
 
 * ⭐ **[VeraCrypt](https://www.veracrypt.fr/en/Home.html)**
 * ⭐ **[Picocrypt](https://github.com/HACKERALERT/Picocrypt)**
-* [Yubikey Full Disk Encryption](https://github.com/agherzan/yubikey-full-disk-encryption) - Use YubiKey to unlock a LUKS partition
-* [EncFS MP](https://encfsmp.sourceforge.io/index.html)
 * [Hat](https://hat.sh/), [GNUPG](https://gnupg.org/)
 * [GPG4Win](https://www.gpg4win.org/)
 * [Encrypto](https://macpaw.com/encrypto)
@@ -255,9 +248,8 @@
 * [VancedPDF](https://vancepdf.com/) or [PDFtoWordConverter](https://xodo.com/pdf-to-word-converter) - PDF to Word Converter
 * [Marker](https://github.com/VikParuchuri/marker) - PDF to Markdown
 * [Adobe Excel to PDF](https://www.adobe.com/acrobat/online/excel-to-pdf.html) - Convert Excel Files to PDF
-* [Images to PDF](https://github.com/Swati4star/Images-to-PDF), [JPG2PDFBot](https://t.me/JPG2PDFBot), [Adobe Converter](https://www.adobe.com/acrobat/online/jpg-to-pdf.html) or [img2pdf](https://pypi.org/project/img2pdf/) - Image to PDF Converter
+* [Images to PDF](https://github.com/Swati4star/Images-to-PDF) or [Adobe Converter](https://www.adobe.com/acrobat/online/jpg-to-pdf.html) - Image to PDF Converter
 * [PDFCrowd](https://pdfcrowd.com/), [HTMLaPDF](https://www.htmlapdf.com/), [TailWindPDF](https://tailwindpdf.com/) or [wkhtmltopdf](https://wkhtmltopdf.org/) - HTML to PDF / Image Converter
-* [PSTOEdit](http://pstoedit.net/) - Convert PDF to other Vector Formats
 * [Issuu](https://issuu.com/) - Convert PDF Files to Webpages, Flipbooks, Brochures & More / [Downloader](https://docdownloader.com/), [2](https://vebuka.com/)
 * [WebToPDF](https://webtopdf.com/) or [Percollate](https://github.com/danburzo/percollate) - Webpage to PDF Converters
 * [GraphPaper](https://incompetech.com/graphpaper/) - PDF Graphs
@@ -286,15 +278,15 @@
 * ⭐ **[Pixeldrain](https://pixeldrain.com/)** - 20GB / 120 days / [Discord](https://discord.gg/TWKGvYAFvX) / [Speedtest](https://pixeldrain.com/speedtest) / [Bypass](https://pixeldrain-bypass.cybar.xyz) / [Bypass Userscript](https://greasyfork.org/en/scripts/491326-pixeldrain-download-bypass)
 * ⭐ **[Cipher Files](https://cipherfiles.com/)** - 5GB / Forever / [Discord](https://discord.gg/DmRhftYcvN)
 * ⭐ **[Send.cm](https://send.cm/)** - 100GB / 15 days
-* ⭐ **[Oshi](https://oshi.at/)** - 5GB / 90 days
-* ⭐ **[Hexupload](https://www.hexupload.net/)** - 15GB / 60 days
-* ⭐ **[Mixdrop](https://mixdrop.ag/)** - 2GB / 60 Days / Signup Required
 * ⭐ **[Qiwi](https://qiwi.gg)** - [Warning](https://pastebin.com/jn90QMEt) / Signup Required
 * ⭐ **[Catbox.moe](https://catbox.moe/)** - 200MB / Forever
 * [MultiUp](https://multiup.io/), [MirrorAce](https://mirrorace.com/) or [Mirrorcreator](https://www.mirrored.to/) / [Extract / Upload](https://github.com/Reddiepoint/MultiUp-Direct) - Multi Host Uploaders
 * [Z-o-o-m](https://z-o-o-m.eu/) - Multi-Host Upload Desktop App
 * [Archive.org](https://archive.org/create/) - Signup Required
 * [Anondrop](https://anondrop.net/) - Unlimited / Forever / [Discord](https://discord.com/invite/7pX4mW3hnb)
+* [Oshi](https://oshi.at/) - 5GB / 90 days
+* [Hexupload](https://www.hexupload.net/) - 15GB / 60 days
+* [Mixdrop](https://mixdrop.ag/) - 2GB / 60 Days / Signup Required
 * [send](https://send.vis.ee/) / [instances](https://gitlab.com/timvisee/send-instances) - 2.5gb / 1 day
 * [edisk](https://www.edisk.cz/) - 10GB / 30 days
 * [file.kiwi](https://file.kiwi/) - Unlimited / 3.5 Days / [Free Download Duration](https://ibb.co/85z9D1s)
@@ -453,7 +445,7 @@
 * [gdrivedl](https://github.com/matthuisman/gdrivedl) - Google Drive Python Download Script
 * [GDriveSearcherBot](https://github.com/TheHamkerCat/GdriveSearcherBot) - GDrive Search Bot
 * [ISAAC](https://github.com/harryeffinpotter/ISAAC) - Google Service Account Generators
-* [G-Index](https://github.com/LeeluPradhan/G-Index), [goindex](https://github.com/alx-xlx/goindex) / [Extended](https://github.com/menukaonline/goindex-extended) / [Themes](https://install.kenci.workers.dev/), [GDIndex](https://github.com/maple3142/GDIndex), [Google-Drive-Index](https://gitlab.com/GoogleDriveIndex/Google-Drive-Index) or [libDrive](https://github.com/libDrive/heroku) - Google Drive Indexers
+* [goindex](https://github.com/alx-xlx/goindex) / [Extended](https://github.com/menukaonline/goindex-extended) / [Themes](https://install.kenci.workers.dev/) or [Google-Drive-Index](https://gitlab.com/GoogleDriveIndex/Google-Drive-Index) - Google Drive Indexers
 * [Decrypt.Hashhackers](https://decrypt.hashhackers.com/) - Encrypt / Decrypt GDrive
 * [gdurl](https://gdurl.com/), [google-drive-direct-link-generator/](https://www.wonderplugin.com/online-tools/google-drive-direct-link-generator/),[Direct.GDrive](https://direct.gdrive.vip/en/), [Maulvi](https://maulvi.github.io/), [GDriveWebAppPublic ](https://github.com/CloudflareHackers/GDriveWebAppPublic), [Google Drive Direct Links](https://greasyfork.org/en/scripts/10052) or [Sharer](https://sharer.pw/) - Host Direct Links on GDrive
 * [GdriveCloneWeb](https://github.com/jsmsj/GdriveCloneWeb), [Google Drive Copy Folder](https://github.com/ericyd/gdrive-copy), [Copy Folder](https://chromewebstore.google.com/detail/copy-folder/kfbicpdhiofpicipfggljdhjokjblnhl) or [Google Drive Clone Bot](https://jsmsj.github.io/GdriveCloneBot/) - Copy Google Drives
