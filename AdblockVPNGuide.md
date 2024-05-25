@@ -143,6 +143,8 @@
 * ⭐ **VirusTotal Tools** - [CLI](https://github.com/VirusTotal/vt-cli) / [Telegram Bot](https://t.me/virus_total_scan_bot) / [Uploader](https://github.com/SamuelTulach/VirusTotalUploader) / [Lite Version](https://www.virustotal.com/old-browsers/)
 * [Microsoft Safety Scanner](https://learn.microsoft.com/en-us/defender-endpoint/safety-scanner-download) or [Emsisoft Emergency Kit](https://www.emsisoft.com/en/home/emergencykit/) - On-demand AV Scanners
 * [Manalyzer](https://manalyzer.org/) - PE File Scanner
+* [YARA](https://virustotal.github.io/yara/) - Malware Identification Tool
+* [Winitor](https://www.winitor.com/) - EXE Malware Assessment
 * [pyWhat](https://github.com/bee-san/pyWhat) - Identify Anything
 * [Grype](https://github.com/anchore/grype) - Container Images Vulnerability Scanner
 * [Malware Initial Assessment](https://www.winitor.com/) - Local Analysis Tool
@@ -461,7 +463,6 @@
 
 * ⭐ **[Lantern](https://lantern.io/)** or **[Psiphon](https://psiphon.ca/)** - Free Proxy / VPN
 * ⭐ **[SecureDNSClient](https://github.com/msasanmh/SecureDNSClient)** - DNS Proxy GUI / [Guide](https://rentry.co/SecureDNSClient)
-* ⭐ **[Bypass ISP Blocks](https://rentry.co/enable-ech)** - Bypass ISP Censorship
 * [No Thought is a Crime](https://ntc.party/) - Internet Censorship Discussion
 * [GoodbyeDPI](https://github.com/ValdikSS/GoodbyeDPI/) / [GUI](https://github.com/mguludag/GUI-for-GoodbyeDPI), [PowerTunnel](https://github.com/krlvm/PowerTunnel) or [Green Tunnel](https://github.com/SadeghHayeri/GreenTunnel) - DPI Circumvention Local Proxies
 * [Hola Proxy](https://github.com/Snawoot/hola-proxy) - Alternative Client for Hola Free Proxy Service
