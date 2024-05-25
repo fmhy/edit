@@ -13,9 +13,7 @@
 * [deploy-your-own-saas](https://github.com/Atarity/deploy-your-own-saas) - Self-Hosted Cloud Services
 * [Namechk](https://namechk.com/), [NameCheckr](https://www.namecheckr.com/) or [IUS](https://instantusername.com/) - Check Username Availability
 * [SiteExplainer](https://www.siteexplainer.com/) - AI Site Explanations
-* [BugMeNot](https://bugmenot.com/), [FreeAccount](https://freeaccount.biz/) or [Password Login](https://password-login.com/) - Access & Share Throwaway Accounts / [Extension](https://github.com/vantezzen/dontbugme)
 * [byp4xx](https://github.com/lobuhi/byp4xx) - Bypass "403 Forbidden" Messages
-* [Slideshow-Deslidefier](https://deslide.clusterfake.net/) - View Slideshows All At Once
 
 ***
 
@@ -440,6 +438,7 @@
 * [Floccus](https://floccus.org/) - Browser Bookmark Sync / [GitHub](https://github.com/floccusaddon/floccus)
 * [WhatIsMyBrowser](https://developers.whatismybrowser.com/) - User Agent Archive
 * [Irchiver](https://irchiver.com/) - Automatic Web Browser Screenshots
+* [BugMeNot](https://bugmenot.com/), [FreeAccount](https://freeaccount.biz/) or [Password Login](https://password-login.com/) - Access & Share Throwaway Accounts
 
 ***
 
@@ -703,6 +702,8 @@
 * [Perma.cc](https://perma.cc/) - Create Permalinks
 * [Ghost Archive](https://ghostarchive.org/) or [Megalodon](https://megalodon.jp/) - Archive Twitter Threads
 
+***
+
 ## ▷ Web Archiving Tools
 
 * 🌐 **[Awesome Web Archiving](https://github.com/iipc/awesome-web-archiving)** - Web Archiving Tools
@@ -718,11 +719,13 @@
 * [WikiTeam](https://github.com/WikiTeam/wikiteam) - Archive Wikis
 * [Wayback](https://github.com/wabarc/wayback) - Web Archiving Tool
 * [DownloadNet](https://github.com/dosyago/DownloadNet) or [Kiwix](https://kiwix.org/en/) / [Wiki DL Guide](https://practicalbetterments.com/download-all-of-wikipedia-on-your-phone/) - Offline Website Readers
-* [Wget2](https://gitlab.com/gnuwget/wget2) / [Commands](https://www.whatismybrowser.com/developers/tools/wget-wizard/), [SuckIT](https://github.com/skallwar/suckit), [Cyotek WebCopy](https://www.cyotek.com/cyotek-webcopy) or [Website Downloader](https://github.com/AhmadIbrahiim/Website-downloader) - Website Downloaders
+* [Wget2](https://gitlab.com/gnuwget/wget2) / [Commands](https://www.whatismybrowser.com/developers/tools/wget-wizard/), [SuckIT](https://github.com/skallwar/suckit), [Cyotek WebCopy](https://www.cyotek.com/cyotek-webcopy), [Website Downloader](https://github.com/AhmadIbrahiim/Website-downloader) or [PageRip](https://webpagerip.com/) - Website Downloaders
 * [Archivematica](https://www.archivematica.org/) - Digital Preservation System
 * [wallabag](https://wallabag.org/) - Save Articles
 * [CopySite](https://xdan.ru/copysite/) - Copy Websites
 * [Scoop](https://github.com/harvard-lil/scoop) - Capture Engine
+
+***
 
 ## ▷ Web Scraping / Crawling
 
