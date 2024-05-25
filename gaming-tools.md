@@ -26,7 +26,6 @@
 * [Save Game World](https://www.savegameworld.com/), [savegamedownload](https://www.savegamedownload.com/), [yoursavegames](https://www.yoursavegames.com/), [savesforgames](https://savesforgames.com/), [savegamefiles](https://www.savegamefiles.com/) or [savegame-download](https://savegame-download.com/) - PC Game Save Downloads
 * [Save Editor Online](https://www.saveeditonline.com/) - Game Save Editor
 
-
 * [The Models Resource](https://www.models-resource.com/) - Game Models
 * [The Spriters Resource](https://www.spriters-resource.com/) - Video Game Sprites
 * [MiiCharacters](https://www.miicharacters.com/) - Famous Mii Creation Guides
@@ -49,7 +48,6 @@
 * [UEVR](https://uevr.io/) - Convert Unreal Engine Games to VR
 * [Oculess](https://github.com/basti564/Oculess) - Remove Oculus Quest Account Requirements & Telemetry
 * [ALVR](https://github.com/alvr-org/ALVR) - Stream VR Games from PC to Headset
-
 
 * [ConceptArt](https://vk.com/conceptart) - Video Game Concept Art
 * [FatmanTutorial](https://archive.org/details/fatmantutorial) - How-to Repack Games
