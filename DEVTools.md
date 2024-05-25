@@ -1081,18 +1081,7 @@
 
 ***
 
-## ▷ Developer News
-
-* ↪️ **[Security / Hacking News](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25B7_tech_news)**
-* ⭐ **[Lobsters](https://lobste.rs/)** - Dev News / [Highlighter](https://greasyfork.org/en/scripts/40906)
-* [TechURLs](https://techurls.com/) - Dev News
-* [DevURLs](https://devurls.com/) - Dev News
-* [Techmeme](https://www.techmeme.com/m/) - Dev News
-* [The Brutalist Report](https://brutalist.report/) - Dev News
-* [jimmyr](https://jimmyr.com/) - Dev News
-* [This Week in Rust](https://this-week-in-rust.org/) - Rust News / Updates
-* [BitsOfCode](https://bitsofco.de/) - Frontend Dev Articles
-* [hackertab.dev](https://hackertab.dev/) or [daily.dev](https://daily.dev/) - Dev Browser Startpages
+## ▷ [Developer News](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25B7_tech_news)
 
 ***
 
