@@ -48,7 +48,6 @@
 * [Tierify](https://davitg.com/projects/tierify/) - Tier Lists
 * [Kira](https://kira.vercel.app/) - Song Country Search
 * [Syrics](https://syrics-web-akashrchandran.vercel.app/) - Download Synced Lyrics
-* [spotify-account-generator](https://github.com/davide-acanfora/spotify-account-generator), [2](https://github.com/ALIILAPRO/spotify-account-creator) - Account Gen
 * [spotify-github-profile](https://github.com/kittinan/spotify-github-profile) - GitHub Display
 
 ***
@@ -248,7 +247,6 @@
 * [YTiz](https://ytiz.xyz/) - YouTube / SoundCloud / Bandcamp / 128kb / AAC / [GitHub](https://github.com/tizerk/ytiz)
 * [YTMDL](https://ytmdl.deepjyoti30.dev/) - YouTube / 128kb AAC
 * [Download Bandcamp](https://downloadmusicschool.com/bandcamp/) - Bandcamp / 128kb MP3
-* [SoundCloud Downloader](https://addons.mozilla.org/firefox/addon/soundcloud-dl) - SoundCloud / 128kb MP3 / [GitHub](https://github.com/NotTobi/soundcloud-dl)
 * [SoundcloudMP3](https://soundcloudmp3.cc/) - SoundCloud / 128kb MP3
 * [SoundLoaders](https://www.soundloaders.com/) - Multi-Site Downloader
 
