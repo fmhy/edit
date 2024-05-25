@@ -389,7 +389,7 @@
 ## ▷ Wii U / Wii Homebrew
 
 * ⭐ **[WiiBrew](https://wiibrew.org/)** - Wii Homebrew Wiki
-* ⭐ **[Wii U Guide](https://wiiu.hacks.guide/)** - Wii U Jailbreak Guide
+* ⭐ **[Wii U Hacks Guide](https://wiiu.hacks.guide/)** - Wii U Jailbreak Guide
 * ⭐ **[Wii Hacks Guide](https://wii.hacks.guide/)** - Wii Jailbreak Guides
 * ⭐ **[Wiimmfi](https://wiimmfi.de/)** - Wii Multiplayer Servers
 * [Pretendo](https://pretendo.network/) - Wii U Network Replacement / [Discord](https://invite.gg/pretendo)
