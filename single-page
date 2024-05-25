@@ -15029,7 +15029,7 @@ onMounted(() => {
 * ⭐ **[HTML Reference](https://htmlreference.io/)**, [HTML Cheat Sheet](https://htmlcheatsheet.com/) or [HTML.com](https://html.com/) - HTML Guides / Cheat Sheets
 * [KeyCheck](https://keycheck.dev/) - Dev Tool Hotkeys
 * [Algorithms-Cheatsheet-Resources](https://github.com/starkblaze01/Algorithms-Cheatsheet-Resources) - Code Algorithm Cheat Sheets
-* [Python Cheatsheet](https://gto76.github.io/python-cheatsheet/) or [SpeedSheet](https://speedsheet.io/) or [python-cheatsheet](https://gto76.github.io/python-cheatsheet/) - Python Cheat Sheets
+* [Python Cheatsheet](https://gto76.github.io/python-cheatsheet/) or [SpeedSheet](https://speedsheet.io/) - Python Cheat Sheets
 * [cppreference](https://en.cppreference.com/w/) - C++ Cheat Sheets
 * [React Typescript Cheatsheet](https://react-typescript-cheatsheet.netlify.app) - React Typescript Cheat Sheets
 * [SQL Cheat Sheet](https://i.ibb.co/Ctr0Tn8/e289a15e2246.jpg) - SQL Cheat Sheet
@@ -15433,9 +15433,9 @@ onMounted(() => {
 * [Chalk](https://chalk.ist/) or [Show Code](https://showcode.app/) - Code Screenshots
 * [AnimateCode](https://www.animate-code.com/) - Create Code Animations
 * [DelphiTools](https://www.delphitools.info/) - Code Profiler / Delphi Tools
-* [JavaScripting](https://www.javascripting.com/) - JavaScript Library
+* [JavaScripting](https://www.javascripting.com/) - JavaScript Libraries
 * [LLRT](https://github.com/awslabs/llrt) - Lightweight JavaScript Runtime
-* [GraalVM](https://www.graalvm.org/) - Java Development Kit
+* [GraalVM](https://www.graalvm.org/) - Advanced Multi-language JVM
 * [Adoptium](https://adoptium.net/) - Download OpenJDK Binaries
 * [Clean Code Javascript](https://github.com/ryanmcdermott/clean-code-javascript) - Clean Code for Javascript
 * [Vanilla List](https://vanillalist.top/) - Vanilla Javascript Repository
@@ -15573,13 +15573,13 @@ onMounted(() => {
 
 * 🌐 **[Awesome Software Quality](https://github.com/ligurio/sqa-wiki/wiki)** - Software Quality Testing Resources
 * 🌐 **[Awesome DOS](https://github.com/balintkissdev/awesome-dos)** - DOS App Development Resources
-* ⭐ **[Electron](https://www.electronjs.org/)**, [Proton Native](https://proton-native.js.org/), [Neutralinojs](https://neutralino.js.org/), [Flet](https://flet.dev/) or [Tauri](https://tauri.app/) / [Resources](https://github.com/tauri-apps/awesome-tauri) - Desktop App Builders
+* ⭐ **[Every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know)**, [raylib technologie](https://raylibtech.itch.io/) or [bookmarks](https://github.com/MorganGeek/bookmarks) - Software Development Tools
 * ⭐ **Electron Tools** - [App Store](https://www.electronjs.org/apps/) / [Debugger](https://github.com/pd4d10/debugtron) / [Mod Loader](https://kernel.fish/) / [Builder](https://www.electron.build/)
 * ⭐ **[new(releases)](https://newreleases.io/)** - Software Release Notifications
+* [Proton Native](https://proton-native.js.org/), [Neutralinojs](https://neutralino.js.org/), [Electron](https://www.electronjs.org/), [Flet](https://flet.dev/) or [Tauri](https://tauri.app/) / [Resources](https://github.com/tauri-apps/awesome-tauri) - Desktop App Builders
 * [vfox](https://vfox.lhan.me/) - SDK Version Manager
 * [WinFsp](https://winfsp.dev/) - Write File Systems (i.e. "Windows drives")
 * [Budibase](https://budibase.com/), [ToolJet](https://tooljet.com/), [retool](https://retool.com/) or [AppSmith](https://github.com/appsmithorg/appsmith) - Internal Tool Builders
-* [raylib technologie](https://raylibtech.itch.io/), [bookmarks](https://github.com/MorganGeek/bookmarks) or [Every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) - Software Development Tools
 * [Theos](https://theos.dev/) - Program Build System / [GitHub](https://github.com/theos/theos) / [Jailed Tweaks](https://github.com/kabiroberai/theos-jailed/wiki/Installation)
 * [New Software](https://github.com/ardalis/new-software-project-checklist) - Project Decision Checklist
 * [Radicle](https://radicle.xyz/) - P2P Software Development
@@ -15993,27 +15993,14 @@ onMounted(() => {
 * [ReDoc](https://redocly.github.io/redoc/) - Generate API Documentation
 * [Mockable](https://www.mockable.io/), [Mocky](https://designer.mocky.io/) or [MockLab](https://www.wiremock.io/) - Mock APIs
 * [{JSON} Placeholder](https://jsonplaceholder.typicode.com/) - Fake APIs
-* [RandomAPI](https://randomapi.com/) - Generate Fake Data for Populating Mockups
-* [AIMG SRC](https://www.aimgsrc.com/) - Image Return API
 * [InstantAPIs](https://github.com/csharpfritz/InstantAPIs) - API Endpoint Generator
 * [Stein](https://steinhq.com/) - Turn Google Sheets into Database API
 * [Lanyard](https://github.com/Phineas/lanyard) / [Discord](https://discord.gg/lanyard) - Export Discord Rich Presence to API Endpoint / Websocket
-* [CollectionConcurrencyKit](https://github.com/JohnSundell/CollectionConcurrencyKit) - Async & Concurrent Versions of Swift APIs
-* [Algolia](https://www.algolia.com/), [TypeSense](https://typesense.org/), [StorkSearch](https://stork-search.net/), [Solr](https://solr.apache.org/), [MeiliSearch](https://meilisearch.com/), [Sphinx](https://sphinxsearch.com/) or [FusionBot](https://www.fusionbot.com/) - Search API
-* [Reacher](https://reacher.email/) - Email Verification API
-* [BotScout](https://botscout.com/) - Bot Check API
 * [Telegram Bot API](https://core.telegram.org/bots) / [GitHub](https://github.com/tdlib/telegram-bot-api) or [PHP Telegram Bot](https://github.com/php-telegram-bot/core) - Telegram Bot API
 * [cf-workers-telegram-bot](https://t.me/TuxRobot) / [Github](https://github.com/codebam/cf-workers-telegram-bot) - Serverless Telegram Bot
-* [mqtt2telegram](https://zjor.github.io/mqtt2telegram/) - Telegram Messaging API
-* [instagrapi](https://github.com/subzeroid/instagrapi) - Unofficial Instagram API for Python
 * [Perspective API](https://www.perspectiveapi.com/) - Toxicity Reduction API
 * [Plaid](https://plaid.com/) - Financial Account API / [GitHub](https://github.com/plaid)
 * [PDF Bot](https://github.com/esbenp/pdf-bot) - A Node queue API for generating PDFs
-* [aftership](https://www.aftership.com/) - Shipment Tracking API
-* [Calendarific](https://calendarific.com/) - Public Holidays API
-* [ipinfo.io](https://ipinfo.io/) - IP Data API
-* [TheCatAPI](https://thecatapi.com/) - Cat Rating API
-* [SWAPI](https://pipedream.com/apps/swapi) - Star Wars APIs
 
 ***
 
