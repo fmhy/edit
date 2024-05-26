@@ -917,9 +917,10 @@
 
 ***
 
-# ► Polish / polski
+# ► Polish / Polski
 
-* [Napisy24](https://napisy24.pl/), [GrupaHatak](https://grupahatak.pl/) or [KickAssSubtitles](https://kickasssubtitles.com/pl)
+* [Napisy24](https://napisy24.pl/), [GrupaHatak](https://grupahatak.pl/) or [KickAssSubtitles](https://kickasssubtitles.com/pl) - Subtitles
+* [Tekstowo](https://www.tekstowo.pl/) - Lyrics
 
 ## ▷ Downloading
 
@@ -933,6 +934,7 @@
 
 ## ▷ Streaming
 
+* ⭐ **[OgladajAnime](https://ogladajanime.pl/)** - Anime / Sub / 1080p / [Discord](https://discord.com/invite/XJTq5Ez5Kv)
 * ⭐ **[Grupa Mirai](https://www.grupa-mirai.pl/)** - Anime / Sub / 1080p / [Discord](https://discord.gg/WyXrp6ZK5J)
 * [FilmPolski](https://filmpolski.pl/fp/index.php) - Polish Video Archive
 * [Kinomoc](https://kinomoc.com/) - Movies / TV / Dub / 1080p
