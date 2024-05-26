@@ -33,12 +33,12 @@
 
 ## ▷ Streaming / البث
 
-* ⭐ **[FaselHD](https://www.faselhds.world/)** - Movies / TV / Anime / Sub / 1080p
+* ⭐ **[FaselHD](https://www.faselhds.world/)** - Movies / TV / Anime / Sub / 1080p / Use Adblocker
 * ⭐ **[RunTV](https://runtv.cc/)** - Anime / Sub / 1080p
-* [ArabLionz](https://arlionztv.click/) - Movies / TV / Sub / 1080p
+* [ArabLionz](https://arlionztv.pro/) - Movies / TV / Sub / 1080p
 * [egydead](https://egydead.space/) - Movies / TV / Anime / Sub / 1080p
 * [akwam](https://ak.sv/) - Movies / TV / Sub / 1080p
-* [arabseed](https://m5.asd.cam/) - Movies / TV / Wrestling / Sub / 1080p
+* [arabseed](https://m.asd.quest/) - Movies / TV / Wrestling / Sub / 1080p
 * [FajerShow](https://fajer.show) - Movies / TV / Cartoons / Sub / 720p
 * [AnimeTak](https://animetak.top/) - Anime / Sub / 1080p
 * [witanime](https://witanime.cyou/) - Anime / Sub / 1080p
@@ -923,6 +923,7 @@
 
 ## ▷ Downloading
 
+* ⭐ **[Grupa Mirai](https://www.grupa-mirai.pl/)** - Anime / Sub / 1080p / [Discord](https://discord.gg/WyXrp6ZK5J)
 * [animezone](https://www.animezone.pl/) - Anime / Sub / 720p
 
 ## ▷ Torrenting
@@ -932,7 +933,7 @@
 
 ## ▷ Streaming
 
-* ⭐ **[Grupa Mirai](https://www.grupa-mirai.pl/)** - Anime / Sub / 1080p
+* ⭐ **[Grupa Mirai](https://www.grupa-mirai.pl/)** - Anime / Sub / 1080p / [Discord](https://discord.gg/WyXrp6ZK5J)
 * [FilmPolski](https://filmpolski.pl/fp/index.php) - Polish Video Archive
 * [Kinomoc](https://kinomoc.com/) - Movies / TV / Dub / 1080p
 * [Virpe](https://virpe.cc/) - Movies / TV
