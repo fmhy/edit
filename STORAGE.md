@@ -75,6 +75,7 @@
 
 ### To-Do Apps
 
+* ⭐ **[SnapTick](https://github.com/vishal2376/snaptick)**
 * [Tasks](https://tasks.org/) - Sync Supported
 * [Any.do](https://www.any.do/) - Sync Supported
 * [doable](https://doable.at/) - Sync Supported / Extensions
@@ -83,7 +84,6 @@
 * [Tasky](https://thatsmanmeet.github.io/tasky-web/)
 * [Alkaa](https://github.com/igorescodro/alkaa)
 * [Chaos Control 2](https://play.google.com/store/apps/details?id=com.tarasovmobile.cc2)
-* [SnapTick](https://github.com/vishal2376/snaptick)
 * [EverydayTasks](https://everydaytasks.jepfa.de/)
 * [Teuxdeux](https://teuxdeux.com/)
 * [Taskito](https://taskito.io/)
@@ -347,6 +347,10 @@
 ## Free DNS Servers
 
 * ⭐ **[Quad9](https://quad9.net/)** - Malware, Phishing, Spyware & Botnet DNS Protection
+* [NextDNS](https://pastebin.com/vTxFat5r)
+* https://developers.cloudflare.com/1.1.1.1/ip-addresses/
+* https://adguard-dns.io/en/public-dns.html
+* https://mullvad.net/en/help/dns-over-https-and-dns-over-tls
 * https://dnsforfamily.com/
 * https://www.opennic.org/
 * https://www.publicdns.xyz/
