@@ -19,11 +19,6 @@
 * [humble-cli](https://github.com/smbl64/humble-cli) - Humble Bundle CLI
 * [Gog To Free](https://greasyfork.org/en/scripts/481134) - Add Piracy Site Links to GOG Store
 * [Moonlight Stream](https://moonlight-stream.org/) / [Server](https://app.lizardbyte.dev/Sunshine/) - Remote Desktop Client
-* [SaveLocation](https://savelocation.net/) - Game Save Locations
-* [GameCopyWorld](https://www.gamecopyworld.com/games/index.php), [MegaGames](https://megagames.com/) or [GTrainers](https://gtrainers.com/) - Game Fixes, Saves and Patches
-* [Ludusavi](https://github.com/mtkennerly/ludusavi) or [GameSave Manager](https://www.gamesave-manager.com/) - Game Save Managers
-* [Save Game World](https://www.savegameworld.com/), [savegamedownload](https://www.savegamedownload.com/), [yoursavegames](https://www.yoursavegames.com/), [savesforgames](https://savesforgames.com/), [savegamefiles](https://www.savegamefiles.com/) or [savegame-download](https://savegame-download.com/) - PC Game Save Downloads
-* [Save Editor Online](https://www.saveeditonline.com/) - Game Save Editor
 * [The Models Resource](https://www.models-resource.com/) - Game Models
 * [The Spriters Resource](https://www.spriters-resource.com/) - Video Game Sprites
 * [MiiCharacters](https://www.miicharacters.com/) - Famous Mii Creation Guides
@@ -42,9 +37,6 @@
 * [CSDb](https://csdb.dk/) or [GB64](https://gb64.com/index.php) - Commodore 64 Resources
 * [Textractor](https://github.com/Artikash/Textractor) - Extract Text from Games / Visual Novels
 * [GARbro](https://github.com/morkt/GARbro/) - Browse / Extract Visual Novel Resources
-* [UEVR](https://uevr.io/) - Convert Unreal Engine Games to VR
-* [Oculess](https://github.com/basti564/Oculess) - Remove Oculus Quest Account Requirements & Telemetry
-* [ALVR](https://github.com/alvr-org/ALVR) - Stream VR Games from PC to Headset
 * [ConceptArt](https://vk.com/conceptart) - Video Game Concept Art
 * [FatmanTutorial](https://archive.org/details/fatmantutorial) - How-to Repack Games
 * [How Denuvo Works](https://rentry.co/denuvo) or [Reverse Engineer Denuvo V4](https://drive.google.com/file/d/1CupcQMOyxbtNUGGSnq8xhIZIxhDzToFT/)
@@ -350,6 +342,17 @@
 * [MoreGamesLike](https://www.moregameslike.com/) or [Games Like Finder](https://gameslikefinder.com/) - Find Similar Games
 * [DigitalDreamDoor](https://digitaldreamdoor.com/pages/games.html) - List of the Best Games
 * [Unseen64](https://www.unseen64.net/) - Cancelled / Lost Games
+
+***
+
+## ▷ Game Save Tools
+
+* ↪️ **[File Backup / Sync](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/file-tools/#wiki_.25B7_file_backup_.2F_sync)**
+* ↪️ **[Game Save Downloads]()**
+* [Ludusavi](https://github.com/mtkennerly/ludusavi) or [GameSave Manager](https://www.gamesave-manager.com/) - Video Game Backup Tools
+* [Save Location](https://savelocation.net/) - Game Save Locations
+* [Save Editor Online](https://www.saveeditonline.com/) - Game Save Editor
+* [MegaGames](https://megagames.com/), [GTrainers](https://gtrainers.com/) or [GameCopyWorld](https://www.gamecopyworld.com/games/index.php) - Game Trainers
 
 ***
 

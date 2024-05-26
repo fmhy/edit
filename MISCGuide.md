@@ -18,7 +18,6 @@
 * [Curlie](https://curlie.org/) - Topic Directory
 * [ooh.directory](https://ooh.directory/) - Blog Directory
 * [StatsCrop](https://www.statscrop.com/websites/top-sites/), [DirtyWarez](https://dirtywarez.org/) or [CuteStat](https://www.cutestat.com/) - Site Rankings & Stats
-* [VRFavs](https://www.vrfavs.com/) - Virtual Reality Resources
 * [Simple Tools](https://simpletools.info/doku.php) - Simple Programs Index
 * [Appscope](https://appsco.pe/), [findPWA](https://findpwa.com/), [Store.app](https://store.app/), [SaaS Discovery](https://saasdiscovery.com/) or [Electron](https://www.electronjs.org/apps) - Web App Indexes
 * [SmartLinks](https://smartlinks.org/index.html) - Website Directory
