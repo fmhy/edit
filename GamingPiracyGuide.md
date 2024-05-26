@@ -17,6 +17,7 @@
 * ⭐ **[GamesDrive](https://gamesdrive.net/)** - Download / [Discord](https://discord.gg/wXdNEhf73x) / [Divolt](https://gamesdrive.divolt.xyz/) / [Telegram](https://t.me/+qkrAOiq7k7ozNzRk)
 * ⭐ **[CS.RIN.RU](https://cs.rin.ru/forum)** - Download / Forum / [Status](https://csrinstaff.writeas.com/) / [Enhancement Mod](https://github.com/SubZeroPL/cs-rin-ru-enhanced-mod) / [Steam Buttons](https://github.com/Altansar69/CS.RIN.RU-Enhanced-external) / [Onion](http://csrinrutkb3tshptdctl5lyei4et35itl22qvk5ktdcat6aeavy6nhid.onion/forum)
 * ⭐ **[Game Bounty](https://gamebounty.world/)** - Download / [Discord](https://dsc.gg/gamebounty)
+* ⭐ **[ARMGDDN Browser](https://cs.rin.ru/forum/viewtopic.php?f=14&t=140593)** / [Telegram](https://t.me/ARMGDDNGames) - Download
 * ⭐ **[SteamRIP](https://steamrip.com/)** - Download / Torrent / Pre-Installs / [Discord](https://discord.gg/ycDt32VpPH) / pw: 1234 or steamrip.com
 * ⭐ **[Torrminatorr](https://forum.torrminatorr.com/)** - Download
 * ⭐ **[GOG Games](https://gog-games.to/)** - Download / [.onion](http://goggamespyi7b6ybpnpnlwhb4md6owgbijfsuj6z5hesqt3yfyz42rad.onion/)
@@ -154,6 +155,7 @@
 # ► Virtual Reality
 
 * ⭐ **[VRPirates](https://vrpirates.wiki/)** - VR Piracy Wiki / [Telegram](https://t.me/VRPirates) / [Discord](https://discord.com/invite/DcfEpwVa4a)
+* ⭐ **[ARMGDDN Browser](https://cs.rin.ru/forum/viewtopic.php?f=14&t=140593)** / [Telegram](https://t.me/ARMGDDNGames) - VR Games
 * [r/QuestPiracy](https://www.reddit.com/r/QuestPiracy/) - Oculus Quest Piracy
 * [SideQuest](https://sidequestvr.com/) - VR Sideloading Platform
 * [VRFavs](https://www.vrfavs.com/) - Virtual Reality Resources
