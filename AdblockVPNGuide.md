@@ -399,7 +399,6 @@
 * ⭐ **[Araa](https://araa.extravi.dev/)**
 * ⭐ **[DuckDuckGo](https://duckduckgo.com/)** - [Shortcuts](https://duckduckgo.com/bangs)
 * [whoogle.fmhy](https://whoogle.fmhy.net/) - Whoogle Instance
-* [searx-qt](https://notabug.org/CYBERDEViL/searx-qt) - Searx Desktop App
 * [LibreY](https://github.com/Ahwxorg/librey) or [LibreX](https://github.com/hnhx/librex)
 * [4get](https://4get.ca/)
 * [Mojeek](https://www.mojeek.com/)
