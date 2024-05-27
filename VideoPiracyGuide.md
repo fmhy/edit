@@ -312,7 +312,7 @@
 
 ***
 
-## ▷ Video Hosts
+## ▷ Video Streaming Hosts
 
 **Note** - These are good for finding classic, obscure and short films
 

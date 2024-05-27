@@ -29,19 +29,11 @@
 
 ***
 
-## ▷ Video Hosting
+## ▷ Video File Hosts
 
-* ⭐ **[doodstream](https://doodstream.com/)** - No Limit / 1080p / 60 Days
-* ⭐ **[mixdrop](https://mixdrop.ag/)** - No Limit / 720p / 60 Days
-* ⭐ **[voe.sx](https://voe.sx/)** - No Limit / 720p / 60 Days
-* ⭐ **[catbox](https://catbox.moe/)** - 200MB
-* ⭐ **[streamtape](https://streamtape.com/)** / [2](https://streamtape.to/)
-* ⭐ **[upstream](https://upstream.to/)**
-* [vidyard](https://www.vidyard.com/) - No Limit / 25 Videos only
-* [sendvid](https://sendvid.com/) - 1GB / 720p
-* [vudeo](https://vudeo.ws/)
-* [supervideo](https://supervideo.cc/)
-* [youdbox](https://youdbox.site/)
+* ⭐ **[Catbox](https://catbox.moe/)** - 200MB / Forever / No Sign-Up
+* ⭐ **[Litterbox](https://litterbox.catbox.moe/)** - 1GB / Temporary / No Sign-Up
+
 * [powvideo](https://powvideo.net/)
 * [abyss](https://abyss.to/)
 * [videy](https://videy.co/)
