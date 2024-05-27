@@ -461,7 +461,7 @@
 * ⭐ **[Microsoft Math Solver](https://math.microsoft.com/)**, [SpeedCrunch](https://speedcrunch.org/) or [MathPapa](https://www.mathpapa.com/algebra-calculator.html) - Advanced Calculator
 * ⭐ **[Cymath](https://www.cymath.com/)**, [PhotoMath](https://rentry.co/FMHYBase64#photomath), [Mathway](https://www.mathway.com/), [Math Solver](https://mathsolver.microsoft.com/en), [Tiger Algebra](https://www.tiger-algebra.com/) or [Symbolab](https://www.symbolab.com/) - Math Problem Solvers
 * ⭐ **[Wumbo](https://wumbo.net/)** - Math Reference Site
-* ⭐ **[Open Source Society University (OSSU)](https://github.com/ossu/math)** - Math Roadmap
+* ⭐ **[Open Source Society University (OSSU)](https://github.com/ossu/math)** / [PT-BR](https://github.com/ossu/math-br)- Math Roadmap
 * ⭐ **[AoPS Alcumus](https://artofproblemsolving.com/)** - Interactive Math Site
 * ⭐ **[BetterExplained](https://betterexplained.com/)** - Math Guides / Courses
 * ⭐ **[Wolfram|Alpha](https://www.wolframalpha.com/examples/mathematics)** - Calculators
@@ -567,7 +567,7 @@
 * ⭐ **[Wikispecies](https://species.wikimedia.org/)**, [EOL](https://eol.org/), [A-Z Animal](https://a-z-animals.com/) or [The Catalogue of Life](https://www.catalogueoflife.org/) - Species Directories
 * ⭐ **[OneZoom](https://www.onezoom.org/)** - Tree of Life Explorer
 * ⭐ **[Lost and Found Nature](https://www.lostandfoundnature.com/)** - Re-Discovered Animals / Plants
-* ⭐ **[Bioinformatics](https://github.com/ossu/bioinformatics)** - Bioinformatics Courses
+* ⭐ **[Open Source Society University (OSSU)](https://github.com/ossu/bioinformatics)** - Bioinformatics Roadmap
 * [BiologyOnline](https://www.biologyonline.com/) - Biology Articles
 * [Biodiversity Heritage Library](https://www.biodiversitylibrary.org/) - Biodiversity Research
 * [Alien](https://alien-project.org/) - Artificial Life Simulator / [GitHub](https://github.com/chrxh/alien) / [Video](https://youtu.be/w9R6zrdl6jM)
