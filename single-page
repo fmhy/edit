@@ -8134,6 +8134,7 @@ onMounted(() => {
 * [WiFi Analyzer](https://apps.microsoft.com/store/detail/wifi-analyzer/9NBLGGH33N0N) - WiFi Analyzer
 * [WireShark](https://www.wireshark.org/) - Network Protocol Analyzer / [Profiles](https://github.com/amwalding/wireshark_profiles)
 * [Ethr](https://github.com/Microsoft/Ethr) - Network Performance Tool
+* [Trippy](https://trippy.cli.rs/) - Network Diagnostic Tool 
 * [MxToolbox](https://mxtoolbox.com/NetworkTools.aspx) - Network Tools
 * [NETworkManager](https://borntoberoot.net/NETworkManager/) / [GitHub](https://github.com/BornToBeRoot/NETworkManager) or [WLan10](https://github.com/afit/wlan10) - Network Manager
 * [mRemoteNG](https://mremoteng.org/) - Remote Connections Manager
@@ -8409,6 +8410,7 @@ onMounted(() => {
 * [AnyImage](https://anyimage.io/) - Create Social Card Links
 * [urlportal](https://raw.githubusercontent.com/gotbletu/shownotes/master/urlportal.sh) - Custom URL Handler
 * [Web Check](https://web-check.xyz/), [NSLookup](https://www.nslookup.io/) or [dog](https://github.com/ogham/dog) - DNS Information Tool
+* [DuckDNS](https://www.duckdns.org/), [FreeDNS](https://freedns.afraid.org/), [dynu](https://dynu.com/), [NoIP](https://www.noip.com/) or [Desec](https://desec.io/) - Dynamic DNS Service
 * [Site Worth Traffic](https://www.siteworthtraffic.com/) - Calculate Website Worth
 * [XML-Sitemaps](https://www.xml-sitemaps.com/) - Sitemap Creator
 * [CarbonDates](https://carbondate.cs.odu.edu/) - Check Site Creation Date
@@ -8561,7 +8563,7 @@ onMounted(() => {
 * ↪️ **[Reverse Image Search](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/img-tools#wiki_.25B7_reverse_image_search)**
 * ↪️ **[Tab Managers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_tab_managers)**
 * ↪️ **[Customizable New Tab Page](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_browser_startpages)**
-* ⭐ **[Stylus](https://add0n.com/stylus.html)** - Custom Website Color Schemes / [User Styles](https://userstyles.world/)
+* ⭐ **[Stylus](https://add0n.com/stylus.html)** - Custom Website Color Schemes / [User Styles](https://userstyles.world/), [2](https://uso.kkx.one/)
 * ⭐ **[DarkReader](https://darkreader.org/)**, [Midnight Lizard](https://midnight-lizard.org/) or [Custom Dark Mode](https://mybrowseraddon.com/custom-dark-mode.html) - Dark Mode
 * ⭐ **[Zoom WE](https://pastebin.com/SpCdPywv)** or [Custom Page Zoom](https://mybrowseraddon.com/custom-page-zoom.html) - Improves Zoom Functionality
 * ⭐ **[ScrollAnywhere](https://pastebin.com/W3jwbBac)** - Improves Scrolling Functionality
@@ -8650,6 +8652,7 @@ onMounted(() => {
 * [XKit](https://github.com/new-xkit/XKit) - Make Tumblr More Usable
 * [Tab Session Manager](https://tab-session-manager.sienori.com/), [Sessionic](https://github.com/navorite/sessionic) or [Session Buddy](https://sessionbuddy.com/) - Session Managers
 * [Peek](https://github.com/corbindavenport/peek) - Shows Images & Videos Behind Links & Thumbnails
+* [Edge Stats](https://edge-stats.com/) - Compare / Analyze Edge Extensions
 
 ***
 
@@ -8659,6 +8662,7 @@ onMounted(() => {
 * ⭐ **[Firefox Containers](https://addons.mozilla.org/en-US/firefox/addon/multi-account-containers/)**, [Container Tab Groups](https://addons.mozilla.org/en-US/firefox/addon/container-tab-groups/) or [Temporary Containers](https://github.com/stoically/temporary-containers) - Separate Firefox Sessions / [Guide](https://www.thechiefmeat.com/guides/containers.html)
 * ⭐ **[FoxyTab](https://addons.mozilla.org/en-US/firefox/addon/foxytab/)** - Multiple Tab Related Actions
 * ⭐ **[Context Search](https://addons.mozilla.org/en-US/firefox/addon/contextsearch-web-ext/)** - Search Selected Text / Multi Site Search
+* [Firefox Stats](https://firefox-stats.com/) - Compare / Analyze Firefox Extensions
 * [PWAsForFirefox](https://pwasforfirefox.filips.si) - Install Progressive Web Apps
 * [FoxyLink](https://addons.mozilla.org/en-US/firefox/addon/foxylink/) - Multiple Link Related Actions
 * [Multithreaded Download Manager](https://addons.mozilla.org/en-US/firefox/addon/multithreaded-download-manager/) - Download Manager
@@ -8707,7 +8711,7 @@ onMounted(() => {
 * ⭐ **[Foxified](https://foxified.org/)** - Use Firefox Extensions in Chrome
 * ⭐ **[Edge Chrome](https://greasyfork.org/en/scripts/439922)** - Use Edge Extensions in Chrome
 * [WebCRX](https://webcrx.io/) - Install Chrome CRX Files
-* [ChromeStats](https://chrome-stats.com/) - Compare / Analyze Chrome Extensions
+* [Chrome Stats](https://chrome-stats.com/) - Compare / Analyze Chrome Extensions
 * [Extension Source Downloader](https://chromewebstore.google.com/detail/extension-source-download/dlbdalfhhfecaekoakmanjflmdhmgpea) - View Extension Source Code / [Guide](https://gist.github.com/paulirish/78d6c1406c901be02c2d)
 * [MarvellousSuspender](https://chromewebstore.google.com/detail/the-marvellous-suspender/noogafoofpebimajpfpamcfhoaifemoa) - Tab Suspender
 * [Darkness](https://darkness.app/) - Dark Mode
@@ -8752,6 +8756,7 @@ onMounted(() => {
 * [Check My Links](https://chromewebstore.google.com/detail/check-my-links/ojkcdipcgfaekbeaelaapakgnjflfglf)
 * [Pip](https://www.getpip.com/pip-extension) - Web3 Payment Extension
 * [Source Downloader](https://mybrowseraddon.com/extension-source-downloader.html) - View Extension Source Code
+* [Disable All Extensions](https://chromewebstore.google.com/detail/disable-all-extensions/ailfldpmpboolaihojfagmmfbhcgohne) - Disable All Extensions
 
 ***
 
@@ -8852,7 +8857,7 @@ onMounted(() => {
 # ► Open Source Intelligence
 
 * 🌐 **[Awesome OSINT](https://github.com/jivoi/awesome-osint)** - Awesome OSINT
-* ↪️ **[Photo Forensics](https://new.reddit.com/r/FREEMEDIAHECKYEAH/wiki/img-tools/#wiki_.25B7_photo_forensics)**
+* ↪️ **[Photo Forensics](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/img-tools/#wiki_.25B7_photo_forensics)**
 * ⭐ **[IntelTechniques](https://inteltechniques.com/index.html)** or [OSINT Techniques](https://www.osinttechniques.com/) - OSINT Resources
 * ⭐ **[Analyst Research Tools](https://analystresearchtools.com/)** - Tools and Resources
 * [Osintracker](https://www.osintracker.com/) - Track Your Investigations
