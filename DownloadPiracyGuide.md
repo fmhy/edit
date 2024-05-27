@@ -282,7 +282,7 @@
 * 🌐 **[Free Premium Leech Wiki](https://filehostlist.miraheze.org/wiki/Free_Premium_Leeches)** or [leechlisting](https://www.leechlisting.com/) - Leech Lists
 * [@Transload](https://t.me/transload) - Telegram Leech Bots
 * [Multi-OCH Helper](https://greasyfork.org/en/scripts/13884-multi-och-helper) - Send Premium Files to Leeches / 2 Hosts Only
-* [RapidGrab](https://rapidgrab.pl/) or [Newscon](https://www.newscon.net/d1/) / [2](https://www.newscon.org/d3/) - Leech
+* [RapidGrab](https://rapidgrab.ovh/) or [Newscon](https://www.newscon.net/d1/) / [2](https://www.newscon.org/d3/) - Leech
 * [Real-Debrid](https://real-debrid.com/) - Paid Debrid service / [Torrent Client](https://github.com/rogerfar/rdt-client) / [Movies / TV](https://hdencode.org/)
 * [Debrid-Link](https://debrid-link.com) - Debrid with Free Tier
 * [AllDebrid](https://alldebrid.com/) - Paid Debrid service with seven day trial
