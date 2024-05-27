@@ -201,6 +201,7 @@
 
 ## ▷ Data Science
 
+* ⭐ **[Open Source Society University (OSSU](https://github.com/ossu/data-science)** - Data Science Roadmap
 * [Data Science Resources](https://rentry.co/FMHYBase64#data-science-resources) - Data Science Learning Resources
 * [365Datascience](https://365datascience.com/) - Data Science Courses
 * [Quick-R](https://www.statmethods.net/index.html) - R Tutorials
@@ -315,6 +316,7 @@
 
 * 🌐 **[CompSciLib](https://www.compscilib.com/)** - Computer Science Tools
 * ⭐ **[TeachYourselfComputerScience](https://teachyourselfcs.com/)** - Computer Science Book Recommendations
+* ⭐ **[Open Source Society University (OSSU)](https://github.com/ossu/computer-science)** / [PT-BR](https://github.com/ossu/computer-science-br) / [CN](https://github.com/ossu/computer-science-cn) - Computer Science Roadmap
 * [Big-O Cheatsheet](https://www.bigocheatsheet.com/) - Computer Science Complexities Cheatsheet
 * [CSDIY](https://csdiy.wiki/en/), [awesome-low-level-design](https://github.com/ashishps1/awesome-low-level-design), [awesome-system-design-resources](https://github.com/ashishps1/awesome-system-design-resources) or [LearnAIFromScratch](https://learnaifromscratch.github.io/) - Computer Science Learning Guides
 * [Code.org](https://code.org/) - Computer Science Courses
