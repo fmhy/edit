@@ -11678,6 +11678,7 @@ onMounted(() => {
 * [Synthesis Colab](https://github.com/camenduru/text-to-video-synthesis-colab), [text-to-video](https://text-to-video.vercel.app), [Text2Video-Zero](https://github.com/Picsart-AI-Research/Text2Video-Zero), [LensGo](https://lensgo.ai/), [Pika Labs](https://www.pika.art/) or [Damo](https://huggingface.co/spaces/damo-vilab/modelscope-text-to-video-synthesis) - Text to Video AIs
 * [Rollideo](https://rollideo.com/) - Text to Subbed Video
 * [Video Llava](https://replicate.com/nateraw/video-llava) - Video Description AI
+* [Brainrot.js](https://brainrotjs.com/) - AI Celebrity Discussion Short Video Generator
 * [VCSI](https://github.com/amietn/vcsi) - Create Video Contact Sheets / Thumbnails
 * [VMAF](https://github.com/Netflix/vmaf) - Video Quality Assessment
 * [TinyVid](https://kamua.com/tinyvid), [VideoSmaller](https://www.videosmaller.com/), [YouCompress](https://www.youcompress.com/), [Compress Video Online](https://compress-video-online.com/), [8mb.video](https://8mb.video/) or [MP4Compress](https://www.mp4compress.com/) - Video Compressors
@@ -11975,6 +11976,7 @@ onMounted(() => {
 * [CD(R)M-Project](https://discord.gg/SYyvPxVyyW) - StreamFab Downloading Discord
 * [TubeOffline](https://www.tubeoffline.com/) - Multi-Site / Online
 * [VideoFK](https://www.videofk.com/) - Multi-Site / Online
+* [SASRIP](https://sasrip.sas41.com/) - Multi-Site / Online
 * [you-get](https://you-get.org/) - Multi-Site / CLI
 * [Hitomi Downloader](https://github.com/KurtBestor/Hitomi-Downloader) - Multi-Site / Software
 * [Yout](https://yout.com/) - Multi-Site / Online
@@ -12050,6 +12052,7 @@ onMounted(() => {
 * [Kapwing](https://www.kapwing.com/)
 * [Panzoid](https://panzoid.com/)
 * [Convert2Video](https://convert2video.com/)
+* [Omniclip](https://omniclip.app/) - [GitHub](https://github.com/aegir-assembly/omni-clip)
 * [Video Cutter](https://video-cutter-js.com/)
 * [Vididoo](https://vididoo.vercel.app/)
 * [VideoToolbox](https://www.videotoolbox.com/)
