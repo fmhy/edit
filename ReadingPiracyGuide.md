@@ -90,6 +90,7 @@
 * [English E-Reader](https://english-e-reader.net/) - Books
 * [E-Books Directory](https://www.e-booksdirectory.com/) - Books
 * [Free-eBooks](https://www.free-ebooks.net/best-books) - Books
+* [Ebooks3000](https://ebook3000.com/) - Books
 * [eBookHunter.net](https://www.ebookhunter.net/) - Books
 * [obooko](https://www.obooko.com/) - Books
 * [Avalon Library](https://avalonlibrary.net/) - Books
@@ -206,6 +207,7 @@
 * [Witchcraft Library](https://rentry.co/FMHYBase64#witchcraft-library) - Witchcraft / Paganism
 * [Public Witchcraft Library](https://rentry.co/FMHYBase64#public-witchcraft-library) - Witchcraft / Paganism / Satanism
 * [Alchemy Drive](https://rentry.co/FMHYBase64#alchemy-drive) - Alchemy
+* [Alchemy Forums](https://alchemyforums.com/index.php) - Alchemy Forum
 * [LeftHandPath](https://rentry.co/FMHYBase64#lefthandpath) - Luciferianism
 * [Hellenistic Theism Drive](https://rentry.co/FMHYBase64#hellenistic-theism) - Hellenistic Theism
 * [The Theosophical Society](https://www.theosociety.org/) - Theosophy
@@ -509,6 +511,7 @@
 * [PDF Magazines Archive](https://pdf-magazines-archive.com/) - Novafile
 * [MagDownload](https://magdownload.org/) - Nitroflare
 * [WholeEarth](https://wholeearth.info/) - Whole Earth Science Magazines
+* [PubHTML5](https://pubhtml5.com/magazines/) - Online Magazines
 * [Lainzine](https://lainzine.org/) - Lain-inspired Magazine
 * [Retromags](https://www.retromags.com/) or [Annarchive](https://www.annarchive.com/) - Retro Game Magazines
 * [PC Zone](https://pixsoriginadventures.co.uk/PCZone/) - PC Zone Magazines
@@ -842,6 +845,7 @@
 * ⭐ **[GoodReads](https://www.goodreads.com/)** / [Frontend](https://github.com/nesaku/BiblioReads) - Books / Comics / Manga / [Ratings Filter](https://www.book-filter.com/)
 * ⭐ **[TasteDive](https://tastedive.com/)** - Books
 * ⭐ **[StoryGraph](https://www.thestorygraph.com/)** - Books
+* ⭐ **[The Greatest Books](https://www.thegreatestbooks.org/)** - Book Recommendations
 * ⭐ **[MyAnimeList](https://myanimelist.net/)** - Manga / Light Novels
 * ⭐ **MAL Tools** - [Redesign](https://hritikvaishnav.github.io/Project-Redesign/public/mal.html) / [Extension](https://anime.plus/) / [Scripts](https://myanimelist.net/forum/?topicid=1849731) / [Search Helper](https://greasyfork.org/en/scripts/429784) / [Site Sync](https://malsync.moe/) / [Discord](https://discord.com/invite/cTH4yaw) / [API](https://jikan.moe/) / [Graph](https://sekai.rl404.com/)
 * ⭐ **[Anilist](https://anilist.co/home)** - Manga / Light Novels / Manhwa / Manhua / [Wrapper](https://github.com/butterstroke/Anilist-Node) / [Extras](https://greasyfork.org/en/scripts/370473-automail)
@@ -868,7 +872,6 @@
 * [Break the Bubble!](https://abooklike.foo/escape) - Book Recommendations
 * [Most Recommended Books](https://www.mostrecommendedbooks.com/) - Book Recommendations
 * [Read This Twice](https://readthistwice.com/) - Book Recommendations
-* [The Greatest Books](https://www.thegreatestbooks.org/) - Book Recommendations
 * [Hacker Recommended Books](https://hacker-recommended-books.vercel.app/) - Book Recommendations
 * [PagePundit](https://pagepundit.com/) - Book Recommendations
 * [Mind Expanding Books](https://mindexpandingbooks.com) / [GitHub](https://github.com/hackerkid/Mind-Expanding-Books) - Book Recommendations
@@ -908,7 +911,6 @@
 * ⭐ **[Google Play Books](https://play.google.com/books)** - Store Pirated Books / Get Metadata Automatically
 * ⭐ **[Foxit](https://www.foxit.com/pdf-reader/)** - PDF Reader / PC / Android / iOS / Linux / Mac
 * ⭐ **[Koodo](https://www.koodoreader.com/)** - Ebook Reader / PC / Mac / Linux / [GitHub](https://github.com/troyeguo/koodo-reader)
-* ⭐ **[eBoox](https://eboox.ru/en/)** - Ebook Reader / Android / iOS
 * ⭐ **[SumatraPDFReader](https://www.sumatrapdfreader.org/free-pdf-reader)** - PDF / PC
 * ⭐ **[Calibre](https://calibre-ebook.com/)** - Ebook Reader / PC / Android / iOS
 * ⭐ **[EinkBro](https://github.com/plateaukao/einkbro)** - E-Ink Browser
