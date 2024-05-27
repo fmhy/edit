@@ -366,6 +366,7 @@
 * [PlusTransfer](https://www.plustransfer.com/)
 * [Wing FTP](https://www.wftpserver.com/)
 * [Xlight](https://xlightftpd.com/)
+* [FileZilla](https://filezilla-project.org/)
 * [uschovna](https://www.uschovna.cz/)
 * [posilej](https://posilej.cz/)
 * [filetransfer](https://filetransfer.kpn.com/)
