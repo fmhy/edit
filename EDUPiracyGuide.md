@@ -396,7 +396,7 @@
 * [LAMMPS](https://www.lammps.org/) - Molecular Dynamics (MD) Code
 * [avogadro](https://sourceforge.net/projects/avogadro/) or [MolView](https://molview.org/) - Molecular Viewers / Editors
 * [Simuwaerm](https://github.com/file-acomplaint/simuwaerm) - Heat Simulator
-* [Electromagnetic Radiation Spectrum Chart](https://i.ibb.co/XCyQNB7/01930032e368.jpg)
+* [Electromagnetic Radiation Spectrum Chart](https://i.ibb.co/XCyQNB7/01930032e368.jpg
 
 ***
 
@@ -461,6 +461,7 @@
 * ⭐ **[Microsoft Math Solver](https://math.microsoft.com/)**, [SpeedCrunch](https://speedcrunch.org/) or [MathPapa](https://www.mathpapa.com/algebra-calculator.html) - Advanced Calculator
 * ⭐ **[Cymath](https://www.cymath.com/)**, [PhotoMath](https://rentry.co/FMHYBase64#photomath), [Mathway](https://www.mathway.com/), [Math Solver](https://mathsolver.microsoft.com/en), [Tiger Algebra](https://www.tiger-algebra.com/) or [Symbolab](https://www.symbolab.com/) - Math Problem Solvers
 * ⭐ **[Wumbo](https://wumbo.net/)** - Math Reference Site
+* ⭐ **[Open Source Society University (OSSU)](https://github.com/ossu/math)** - Math Roadmap
 * ⭐ **[AoPS Alcumus](https://artofproblemsolving.com/)** - Interactive Math Site
 * ⭐ **[BetterExplained](https://betterexplained.com/)** - Math Guides / Courses
 * ⭐ **[Wolfram|Alpha](https://www.wolframalpha.com/examples/mathematics)** - Calculators
