@@ -340,6 +340,27 @@
 * ⭐ **[Flashpoint](https://flashpointarchive.org/)** / [Discord](https://discord.gg/Z4gGtJvvn8) or [Flash Library](https://rentry.co/FMHYBase64#software-library-flash) - Flash Game Archives 
 * ⭐ **[Ninjakiwi](https://ninjakiwi.com/archive)** - Flash Game Archives
 * ⭐ **[Allchemy](https://allchemy.io/)** or [Infinite Craft](https://neal.fun/infinite-craft/) / [Wiki](https://expitau.github.io/InfiniteCraftWiki/) / [Search](https://infinibrowser.zptr.cc/search) - Infinite Item Crafting Games
+* ⭐ **[Powerline.io](https://powerline.io/)** - Multiplayer Snake / [Discord](https://discord.com/invite/NckDSyb)
+* ⭐ **[QWOP](https://www.foddy.net/Athletics.html)** - Ragdoll Running Game
+* ⭐ **[TagPro](https://koalabeast.com/)** - Multiplyer Capture the Flag / [Discord](https://discord.com/invite/hhW3MDzrt3)
+* [Moo Moo](https://moomoo.io/) - Multiplayer Survival Game
+* [Slither.io](http://slither.io/) - Grow the Longest Worm
+* [Hexar.io](http://www.hexar.io/), [splix.io](https://splix.io/) or [paper-io](https://paper-io.com/) - Control the Map 
+* [agar.io](https://agar.io/) - Become the Biggest Circle 
+* [Hole.io](https://hole-io.com/) - Become the Biggest Hole / [Discord](https://discord.gg/UA2HdpT) 
+* [Deeeep](https://beta.deeeep.io/) - Multiplayer Feeding Frenzy Games
+* [SpaceCadetPinball](https://alula.github.io/SpaceCadetPinball) - Browser Space Cadet Pinball
+* [The Circle](https://the-circle.app/) - Dodge Circles
+* [JoeDangerTheGame](https://joedangerthegame.com/) - Trials Inspired Game
+* [Polka Dot Game](https://www.polkadotgame.com/) - Dodge & Eat Dots
+* [Spinner](https://hyperspace-wizard.itch.io/spinner) - Spinner Timing Game
+* [Ehmorris](https://ehmorris.com/lander/) - Spaceship Landing Game
+* [Dino Swords](https://dinoswords.gg/) - Stay Alive by Jumping / Destroying Cacti
+* [Bemuse](https://bemuse.ninja/) - Rhythm Game
+* [Pulsus](https://www.pulsus.cc/play/) - 3x3 Tile Board Rhythm Game
+* [Sans Fight](https://jcw87.github.io/c2-sans-fight/) - Undertale Fight Simulator
+* [Flappy Bird](https://flappybird.io/) - HTML5 Flappy Bird
+* [Marble Blast Gold Web](https://marbleblast.vaniverse.io/) - Marble Blast Gold in Browser
 * [Tensor Trust](https://tensortrust.ai/) - AI Prompting Multiplayer Skill Game
 * [Rooms](https://rooms.xyz/) - Room Design Game / [Discord](https://discord.gg/rooms)
 * [fsh.zone](https://fsh.zone/) / [Discord](https://discord.com/invite/FKEzJSf) - Fishing Games
@@ -416,6 +437,9 @@
 * [ShellShock](https://www.shellshock.io/) - PvP FPS
 * [MiniRoyale](https://miniroyale.io/) - Battle Royal Game
 * [ZombsRoyale.io](https://zombsroyale.io/) - Top-Down Battle Royale 
+* [Wings.io](https://wings.io/) - Multiplyer Plane Battles / [Discord](https://discord.com/invite/HQcTbuZByA)
+* [Operius](https://mors-games.itch.io/operius) - Space Shooter
+* [Galaxies](https://playcanv.as/p/Ikq6Uk6A/) - Space Combat Game 
 * [Tanki](https://tankionline.com/) or [Diep](https://diep.io/) - Online Team VS Team Tank Games
 
 ***
@@ -430,33 +454,6 @@
 * [Raptjs](https://madebyevan.com/rapt/) or [Synesthesia in Space](http://synesthesiagame.com/) - Puzzle Platformer
 * [Tales of Dorime](https://dorime.udany.net/) - 2D Platformer
 * [PrinceJS](https://princejs.com/) - Prince of Persia
-
-***
-
-## ▷ Arcade
-
-* ⭐ **[Powerline.io](https://powerline.io/)** - Multiplayer Snake / [Discord](https://discord.com/invite/NckDSyb)
-* ⭐ **[QWOP](https://www.foddy.net/Athletics.html)** - Ragdoll Running Game
-* ⭐ **[TagPro](https://koalabeast.com/)** - Multiplyer Capture the Flag / [Discord](https://discord.com/invite/hhW3MDzrt3)
-* [Wings.io](https://wings.io/) - Multiplyer Plane Battles / [Discord](https://discord.com/invite/HQcTbuZByA)
-* [Slither.io](http://slither.io/) - Grow the Longest Worm
-* [Hexar.io](http://www.hexar.io/), [splix.io](https://splix.io/) or [paper-io](https://paper-io.com/) - Control the Map 
-* [agar.io](https://agar.io/) - Become the Biggest Circle 
-* [Hole.io](https://hole-io.com/) - Become the Biggest Hole / [Discord](https://discord.gg/UA2HdpT) 
-* [SpaceCadetPinball](https://alula.github.io/SpaceCadetPinball) - Browser Space Cadet Pinball
-* [The Circle](https://the-circle.app/) - Dodge Circles
-* [JoeDangerTheGame](https://joedangerthegame.com/) - Trials Inspired Game
-* [Polka Dot Game](https://www.polkadotgame.com/) - Dodge & Eat Dots
-* [Spinner](https://hyperspace-wizard.itch.io/spinner) - Spinner Timing Game
-* [Ehmorris](https://ehmorris.com/lander/) - Spaceship Landing Game
-* [Dino Swords](https://dinoswords.gg/) - Stay Alive by Jumping / Destroying Cacti
-* [Bemuse](https://bemuse.ninja/) - Rhythm Game
-* [Pulsus](https://www.pulsus.cc/play/) - 3x3 Tile Board Rhythm Game
-* [Sans Fight](https://jcw87.github.io/c2-sans-fight/) - Undertale Fight Simulator
-* [Flappy Bird](https://flappybird.io/) - HTML5 Flappy Bird
-* [Operius](https://mors-games.itch.io/operius) - Space Shooter
-* [Galaxies](https://playcanv.as/p/Ikq6Uk6A/) - Space Combat Game 
-* [Marble Blast Gold Web](https://marbleblast.vaniverse.io/) - Marble Blast Gold in Browser
 
 ***
 
@@ -522,7 +519,7 @@
 
 ## ▷ Strategy
 
-* 🌐 **[Awesome Chess](https://github.com/hkirat/awesome-chess)** or [Chess Resources](https://redd.it/u43nrc) - Chess Resources
+* 🌐 **[Awesome Chess](https://github.com/hkirat/awesome-chess)**, [ImmortalChess101](https://t.me/immortalchess101), [Chess Domi](https://t.me/Chess_Domi) or [Chess Resources](https://redd.it/u43nrc) - Chess Resources
 * 🌐 **[/m/Chess](https://www.reddit.com/user/korfor/m/chess/)** or [/r/Chess](https://reddit.com/r/chess) - Chess Subreddits
 * 🌐 **[/r/Chess Books](https://reddit.com/r/chess/wiki/books)** - Recommended Chess Books
 * ⭐ **[lichess](https://lichess.org/)**, [GameKnot Chess](https://gameknot.com/), [SparkChess](https://www.sparkchess.com/) or [Chess.com](https://www.chess.com/) - Chess Platforms
