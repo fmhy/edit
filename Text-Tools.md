@@ -274,6 +274,7 @@
 * [MindMup](https://www.mindmup.com/)
 * [FreeMind](https://freemind.sourceforge.net/)
 * [Kinopio](https://kinopio.club/)
+* [Freeplane](https://github.com/freeplane/freeplane)
 * [Mindomo](https://www.mindomo.com/)
 * [Yuque](https://www.yuque.com/)
 * [MindMapp](https://mindmapp.cedoor.dev/app)
