@@ -31,21 +31,19 @@
 
 ## ▷ Video File Hosts
 
-* ⭐ **[Catbox](https://catbox.moe/)** - 200MB / Forever / No Sign-Up
-* ⭐ **[Litterbox](https://litterbox.catbox.moe/)** - 1GB / Temporary / No Sign-Up
+* ⭐ **[Litterbox](https://litterbox.catbox.moe/)** - 1GB / Temporary
+* ⭐ **[Catbox](https://catbox.moe/)** - 200MB / Forever
+* [VOE](https://voe.sx/) or [MixDrop](https://mixdrop.ag/) - Unlimited / 60 Days / 720p / Account Required
+* [Streamable](https://streamable.com/) - 250MB / 2 Days (90 Days With Account)
 
-* [powvideo](https://powvideo.net/)
 * [abyss](https://abyss.to/)
 * [videy](https://videy.co/)
 * [wolfstream](https://wolfstream.tv/)
 * [vidoza](https://vidoza.net/)
 * [fileone](https://fileone.tv/)
 * [uqload](https://uqload.co/)
-* [media.cm](https://media.cm/) - 300mb / 720p
-* [streamable](https://streamable.com/) - 250MB / 720p / 90 Days
-* [FileMoon](https://filemoon.sx/) - 100MB
-* [WebMShare](https://webmshare.com/) - WebM Hosting / 20MB
-* [HoraHora](https://github.com/horahoradev/horahora) or [minv](https://sr.ht/~thecashewtrader/minv/) - Self-Hosted
+* [webmshare](https://webmshare.com/) - WebM & GIF Hosting / 20MB / Forever
+* [minv](https://sr.ht/~thecashewtrader/minv/) - Self-Hosted
 
 ***
 
