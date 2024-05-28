@@ -6410,13 +6410,13 @@ Use this [browser extension](https://github.com/bpc-clone/bpc_updates/releases) 
 * ⭐ **[FFmpeg](https://ffmpeg.org/)**, [fre:ac](https://www.freac.org/), [FlicFlac](https://github.com/DannyBen/FlicFlac), [LameXP](https://sourceforge.net/projects/lamexp/) or [Sox](https://sourceforge.net/projects/sox/) - Audio Converters
 * ⭐ **[Equalizer APO](https://equalizerapo.com/)**, **[AutoEq]( https://autoeq.app/)**, [PeaceEqualizer](https://sourceforge.net/projects/peace-equalizer-apo-extension/) or [FXSound](https://www.fxsound.com/) - Audio Equalizers
 * ⭐ **[MP3Tag](https://www.mp3tag.de/en/)**, [beets.io](https://beets.io/) / [Guides](https://redd.it/11iaafu), [TagEditor](https://github.com/Martchus/tageditor), [EasyTAG](https://wiki.gnome.org/Apps/EasyTAG), [Kid3](https://kid3.kde.org/), [MetaTogger](https://www.luminescence-software.org/en/metatogger), [MusicBrainz](https://picard.musicbrainz.org/) or [TagScanner](https://www.xdlab.ru/en/) - Audio Metadata Organizers
+* ⭐ **[Pillowcase](https://pillowcase.su/)** - Audio File Host / 200MB / Forever (500MB With Account)
 * [tone](https://github.com/sandreas/tone) - View / Modify Audio Metadata
 * [Wave Link](https://help.elgato.com/hc/en-us/articles/360044566172-Wave-Link-First-Time-Setup-for-Windows-10) or [VoiceMeeter](https://vb-audio.com/Voicemeeter/index.htm) / [Banana](https://vb-audio.com/Voicemeeter/banana.htm) - Audio Mixers / Multi-Device Playback
 * [SoundSwitch](https://soundswitch.aaflalo.me/) - Switch Audio Device with Hotkey / [GitHub](https://github.com/Belphemur/SoundSwitch)
 * [Phiola](https://github.com/stsaz/phiola), [AudioToolSet](https://audiotoolset.com/) or [Safeaudiokit](https://safeaudiokit.com/) - Audio Multi-Tool Apps / Sites
 * [qAAC](https://github.com/nu774/qaac) - QuickTime AAC/ALAC encoder
 * [opus-tools](https://opus-codec.org/downloads/) - Encode, Inspect and Decode .opus Files
-* [Pillowcase](https://pillowcase.su/) - Audio File Host
 * [Audiocheck](https://www.audiocheck.net/) - Audio Tests
 * [LowAudioLatency](https://github.com/spddl/LowAudioLatency/) - Reduce Audio Latency
 * [DigitalFeed](https://abx.digitalfeed.net/) - Lossless Audio Sound System Test
@@ -7687,6 +7687,7 @@ onMounted(() => {
 * ⭐ **[EverythingToolbar](https://github.com/srwi/EverythingToolbar)** or [yasb](https://github.com/da-rth/yasb) - Improved Taskbars
 * ⭐ **[Open Shell](https://open-shell.github.io/Open-Shell-Menu/)** or [ValliStart](https://github.com/Jax-Core/ValliStart) - Improved Start Menus
 * ⭐ **[EarTrumpet](https://eartrumpet.app/)**, [Volumey](https://github.com/G-Stas/Volumey) or [Volume2](https://github.com/irzyxa/Volume2) - Improved Volume Mixer
+* ⭐ **[AltSnap](https://github.com/RamonUnch/AltSnap)** - Improved Windows Dragging
 * [Couleur Tweak Tips (Discord)](https://discord.gg/CTT) - Windows Tweaking Guides
 * [MajorGeeks Windows Tweaks](https://www.majorgeeks.com/files/details/majorgeeks_registry_tweaks.html), [Winaero](https://winaero.com/), [QuickBoost](https://github.com/SanGraphic/QuickBoost) or [Windhawk](https://windhawk.net/) - System Tweaking Tools / **[Warning](https://pastebin.com/vMYCiAGE)**
 * [abbodi1406](https://forums.mydigitallife.net/threads/abbodi1406s-batch-scripts-repo.74197/), [BatUtil](https://github.com/abbodi1406/BatUtil) or [TechNet-Gallery](https://github.com/MScholtes/TechNet-Gallery) - System Scripts
@@ -7807,7 +7808,6 @@ onMounted(() => {
 * [MiguruWM](https://github.com/imawizard/MiguruWM)
 * [DWM](https://github.com/prabirshrestha/dwm-win32)
 * [United Sets](https://github.com/Windows-Apps-Hub/UnitedSets) - Group Windows Into Tabs
-* [AltSnap](https://github.com/RamonUnch/AltSnap) - Improved Windows Dragging
 
 ***
 
@@ -7909,6 +7909,7 @@ onMounted(() => {
 
 * ⭐ **[DisplayFusion](https://www.displayfusion.com/)** or [Dual Monitor Tool](https://sourceforge.net/projects/dualmonitortool/) - Dual Monitor Tools
 * ⭐ **[f.lux](https://justgetflux.com/)**, [LightBulb](https://github.com/Tyrrrz/LightBulb), [ScreenTemperature](https://github.com/massaiTHEdog1/ScreenTemperature) or [SunsetScreen](https://www.skytopia.com/software/sunsetscreen/index.htm) - Adjust Display Color / Temperature
+* ⭐ **[Monitorian](https://github.com/emoacht/Monitorian)** or **[Twinkle Tray](https://twinkletray.com/)** / [GitHub](https://github.com/xanderfrangos/twinkle-tray) - Adjust Monitor Brightness
 * [Display Driver Uninstaller](https://www.wagnardsoft.com/display-driver-uninstaller-ddu-), [2](https://www.guru3d.com/download/display-driver-uninstaller-download) - Display Driver Removal Tool / [GitHub](https://github.com/Wagnard/display-drivers-uninstaller)
 * [EIZO](https://www.eizo.be/monitor-test/), [Monitor](https://www.monitortests.com/) or [LCDTech](https://lcdtech.info/en/tests/) - Monitor Performance Tests
 * [TestUFO](https://www.testufo.com/) - Monitor Framerate Test
@@ -7916,8 +7917,6 @@ onMounted(() => {
 * [Scalizer](https://github.com/wonmor/Scalizer-Windows) - Auto DPI Scaling / [YouTube](https://youtu.be/f_3XWlmyat4)
 * [ICM](https://rentry.co/ICM) or [ICC Profiles](https://tftcentral.co.uk/articles/icc_profiles) - ICC Profiles and Monitor Calibration
 * [Multi-Monitor Calculator](https://multimonitorcalculator.com/) - Dual-Monitor Setup Planning / Tests
-* [Dimmer](https://www.nelsonpires.com/software/dimmer) or [Monitorian](https://github.com/emoacht/Monitorian) - Dual-Monitor Brightness Control
-* [Twinkle Tray](https://twinkletray.com/) - System Tray Brightness Slider
 * [Wide Gamut](https://www.wide-gamut.com/) - Color Compatibility Test
 * [WhiteScreen](https://www.whitescreen.online/) - Screen Color Test
 * [Dead.Pixel](https://lcdtech.info/en/tests/dead.pixel.htm) - Dead Pixel Test
@@ -14077,6 +14076,7 @@ onMounted(() => {
 * ⭐ **[r/tipofmyjoystick](https://www.reddit.com/r/tipofmyjoystick/)** - Find Games via Screenshot or Description
 * ⭐ **[Game Pauser](https://madebyjase.com/game-pauser/)** - Pause Unpausable Cutscenes
 * ⭐ **[Valve Archive](https://valvearchive.com/)** - Rare Valve Data Archive
+* [Ludusavi](https://github.com/mtkennerly/ludusavi) or [GameSave Manager](https://www.gamesave-manager.com/) - Video Game Backup Tools
 * [Play Old PC Games](https://www.play-old-pc-games.com/) - Retro PC Game Setup Guides
 * [humble-cli](https://github.com/smbl64/humble-cli) - Humble Bundle CLI
 * [Gog To Free](https://greasyfork.org/en/scripts/481134) - Add Piracy Site Links to GOG Store
@@ -14346,7 +14346,6 @@ onMounted(() => {
 * [YourSaveGames](https://www.yoursavegames.com/) - PC / PSP
 * [SaveGame.Pro](https://savegame.pro/) - PC
 * [Saves For Games](https://savesforgames.com/) - PC
-* [Ludusavi](https://github.com/mtkennerly/ludusavi) or [GameSave Manager](https://www.gamesave-manager.com/) - Video Game Backup Tools
 * [Save Location](https://savelocation.net/) - Game Save Locations
 * [Save Editor Online](https://www.saveeditonline.com/) - Game Save Editor
 * [MegaGames](https://megagames.com/), [GTrainers](https://gtrainers.com/) or [GameCopyWorld](https://www.gamecopyworld.com/games/index.php) - Game Trainers
