@@ -229,7 +229,7 @@
 * [Szyszka](https://github.com/qarmin/szyszka) - Bulk Renamer
 * [PowerRename](https://learn.microsoft.com/en-us/windows/powertoys/powerrename) - Bulk Renamer
 * [Ant Renamer](https://www.antp.be/software/renamer) - Bulk Renamer
-* [renamer](https://github.com/sun-jiao/renamer) - Bulk Renamer
+* [Flut Renamer](https://github.com/sun-jiao/flut-renamer) - Bulk Renamer
 
 ***
 
