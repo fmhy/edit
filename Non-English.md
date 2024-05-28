@@ -66,6 +66,10 @@
 
 # ► Bangla / বাংলা
 
+## ▷ Fact Check / ফ্যাক্ট চেক
+* [Rumor Scanner](https://rumorscanner.com/)
+* [Fact Watch](https://www.fact-watch.org/)
+
 ## ▷ Reading / পড়া
 
 * [24livenewspaper](https://www.24livenewspaper.com/bangla-newspaper) or [allbanglanewspaper](https://www.allbanglanewspaper.xyz/) - Bangla Newspapers
