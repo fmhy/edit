@@ -31,17 +31,18 @@
 
 ## ▷ Video File Hosts
 
+* **Note** - The size describes the file size limit only and the time describes file expiry. Most hosts will only remove due to inactivity, i.e. days since last download/view. So if the file is downloaded in between then, it stays active past this time.
+
 * ⭐ **[Litterbox](https://litterbox.catbox.moe/)** - 1GB / Temporary
 * ⭐ **[Catbox](https://catbox.moe/)** - 200MB / Forever
 * [VOE](https://voe.sx/) or [MixDrop](https://mixdrop.ag/) - Unlimited / 60 Days / 720p / Account Required
 * [Streamable](https://streamable.com/) - 250MB / 2 Days (90 Days With Account)
 
-* [abyss](https://abyss.to/)
-* [videy](https://videy.co/)
+monetary focussed:
 * [wolfstream](https://wolfstream.tv/)
 * [vidoza](https://vidoza.net/)
-* [fileone](https://fileone.tv/)
-* [uqload](https://uqload.co/)
+
+* [Uqload](https://uqload.co/) - 4GB / 
 * [webmshare](https://webmshare.com/) - WebM & GIF Hosting / 20MB / Forever
 * [minv](https://sr.ht/~thecashewtrader/minv/) - Self-Hosted
 
