@@ -653,7 +653,7 @@
 * [XDGuru](https://www.xdguru.com/) - Adobe XD Resources
 * [Median](https://median.co/) - Convert Websites to Mobile Apps
 * [Media Kit](https://github.com/media-kit/media-kit) - Video / Audio Library for Flutter and Dart
-* [Uiautomator2](https://github.com/openatx/uiautomator2), [ABD](https://github.com/ashishb/adb-enhanced) or [Appium](https://appium.io/) / [GitHub](https://github.com/appium/appium) - Automated App Testing
+* [Uiautomator2](https://github.com/openatx/uiautomator2), [ADB](https://github.com/ashishb/adb-enhanced) or [Appium](https://appium.io/) / [GitHub](https://github.com/appium/appium) - Automated App Testing
 * [SigNoz](https://signoz.io/) - Detect App Issues
 * [jadx](https://github.com/skylot/jadx) - Dex to Java Decompiler
 * [Privado](https://docs.privado.ai) / [GitHub](https://github.com/Privado-Inc/privado) - Generate App Privacy Reports
