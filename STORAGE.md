@@ -525,7 +525,7 @@
 
 ## LibGen Tools
 
-[Desktop](https://wiki.mhut.org/software:libgen_desktop) / [Search Extension](https://chromewebstore.google.com/detail/libgen-search/cbcehgllfaddbjidleabcdjpldlognad) / [Amazon Buttons](https://pastebin.com/Pe4c8V7e) / [Need Seeds](https://phillm.net/libgen-seeds-needed.php) / [Telegram Bot](https://t.me/amazingbookdownloaderbot) / [Convert to Text](https://github.com/VikParuchuri/libgen_to_txt) / [Backup](https://redd.it/edwi9b) / [/r/libgen](https://reddit.com/r/libgen)
+[Desktop](https://wiki.mhut.org/software:libgen_desktop) / [Search Extension](https://chromewebstore.google.com/detail/libgen-search/cbcehgllfaddbjidleabcdjpldlognad) / [Amazon Buttons](https://pastebin.com/DdwbbhG8) / [Need Seeds](https://phillm.net/libgen-seeds-needed.php) / [Telegram Bot](https://t.me/amazingbookdownloaderbot) / [Convert to Text](https://github.com/VikParuchuri/libgen_to_txt) / [Backup](https://redd.it/edwi9b) / [/r/libgen](https://reddit.com/r/libgen)
 
 ***
 
