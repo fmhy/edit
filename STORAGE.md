@@ -53,7 +53,7 @@
 
 ## Android Browsers
 
-* ⭐ **[Firefox](https://www.mozilla.org/)** - [F-Droid](https://f-droid.org/packages/org.mozilla.fennec_fdroid/) / [Focus](https://www.mozilla.org/en-US/firefox/browsers/mobile/focus/)
+* ⭐ **[Firefox](https://www.mozilla.org/)** - [F-Droid](https://f-droid.org/packages/org.mozilla.fennec_fdroid/) / [Focus](https://www.mozilla.org/en-US/firefox/browsers/mobile/focus/) / [Nightly](https://www.mozilla.org/en-US/firefox/channel/android/#nightly)
 * ⭐ **[FFUpdater](https://github.com/Tobi823/ffupdater)** - Multi-Browser Updater
 
 [Iceraven Browser](https://github.com/fork-maintainers/iceraven-browser), [Kiwi Browser](https://kiwibrowser.com/), [Stargon Browser](https://play.google.com/store/apps/details?id=net.onecook.browser), [Ecosia](https://play.google.com/store/apps/details?id=com.ecosia.android), [Via Browser](https://play.google.com/store/apps/details?id=mark.via.gp), [Fulguris](https://github.com/Slion/Fulguris)
@@ -606,7 +606,7 @@
 * ⭐ **[Simply Optimized](https://modrinth.com/modpack/sop)**
 * [Sodium](https://modrinth.com/mod/sodium) / [Indium](https://github.com/comp500/Indium/) / [Extra](https://modrinth.com/mod/sodium-extra) / [Nvidia Rendering](https://github.com/MCRcortex/nvidium)
 
-[OptiFine](https://optifine.net/), [Ferrite Core](https://modrinth.com/mod/ferrite-core), [Caffeine](https://github.com/CaffeineMC), [Lithium](https://modrinth.com/mod/lithium), [Ares](https://www.aresclient.com/), [VulkanMod](https://github.com/xCollateral/VulkanMod), [essential](https://modrinth.com/mod/essential)
+[OptiFine](https://optifine.net/), [Ferrite Core](https://modrinth.com/mod/ferrite-core), [Caffeine](https://github.com/CaffeineMC), [Lithium](https://modrinth.com/mod/lithium), [Ares](https://www.aresclient.com/), [VulkanMod](https://github.com/xCollateral/VulkanMod)
 
 ***
 
@@ -828,7 +828,7 @@
 
 ### Random Sites
 
-[BoredButton](https://www.boredbutton.com/), [Sharkle!](https://sharkle.com/), [The Useless Web](https://theuselessweb.com/) / [2](https://theuselessweb.site/), [JumpStick](https://jumpstick.app/), [OpenBulkURL](https://openbulkurl.com/random/), [The Forest](https://theforest.link/), [WhatsMYIP](http://random.whatsmyip.org/), [Random-Website](https://random-website.com/), [Wilderness Land](https://wilderness.land/), [CloudHiker](https://cloudhiker.net/), [Moonjump](https://moonjump.app/)
+[The Red Button](https://clicktheredbutton.com/), [BoredButton](https://www.boredbutton.com/), [Sharkle!](https://sharkle.com/), [The Useless Web](https://theuselessweb.com/) / [2](https://theuselessweb.site/), [JumpStick](https://jumpstick.app/), [OpenBulkURL](https://openbulkurl.com/random/), [The Forest](https://theforest.link/), [WhatsMYIP](http://random.whatsmyip.org/), [Random-Website](https://random-website.com/), [Wilderness Land](https://wilderness.land/), [CloudHiker](https://cloudhiker.net/), [Moonjump](https://moonjump.app/)
 
 ***
 
