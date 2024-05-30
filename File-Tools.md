@@ -271,6 +271,7 @@
 
 ***
 
+* ↪️ **[Video File Hosts]()**
 * ⭐ **[Buzzheavier](https://buzzheavier.com/)** - Unlimited / Forever / [Discord](https://discord.gg/ttQjgC28WP)
 * ⭐ **[file.haus](https://filehaus.top/)**, [2](https://filehaus.pk/), [3](https://filehaus.su/) - 200GB / Forever / [onion](http://fileha3hjvudqs2moembtaegnpjo5ptec3tomf5dlxx6ydwtajkkahyd.onion/) / [i2p](http://xr256v4weabr3rdz3nqzb27bv3gkwjisuf2d57urqtmh3gx3w7da.b32.i2p/) / [loki ](http://nipqehne9zrtpryw6ig5y9gu7c8gwt8ymrrncufxg1g8wf5t4rqo.loki/)
 * ⭐ **[Gofile](https://gofile.io/)** - Unlimited / 10 days

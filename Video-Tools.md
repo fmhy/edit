@@ -33,16 +33,12 @@
 
 * **Note** - The size describes the file size limit only and the time describes file expiry. Most hosts will only remove due to inactivity, i.e. days since last download/view. So if the file is downloaded in between then, it stays active past this time.
 
+* ⭐ **[DoodStream](https://doodstream.com/)** - 5GB / 60 Days / Account Required
 * ⭐ **[Litterbox](https://litterbox.catbox.moe/)** - 1GB / Temporary
 * ⭐ **[Catbox](https://catbox.moe/)** - 200MB / Forever
 * [VOE](https://voe.sx/) or [MixDrop](https://mixdrop.ag/) - Unlimited / 60 Days / 720p / Account Required
+* [WolfStream](https://wolfstream.tv/) 30GB / 80 Days / Account Required
 * [Streamable](https://streamable.com/) - 250MB / 2 Days (90 Days With Account)
-
-monetary focussed:
-* [wolfstream](https://wolfstream.tv/)
-* [vidoza](https://vidoza.net/)
-
-* [Uqload](https://uqload.co/) - 4GB / 
 * [webmshare](https://webmshare.com/) - WebM & GIF Hosting / 20MB / Forever
 * [minv](https://sr.ht/~thecashewtrader/minv/) - Self-Hosted
 
