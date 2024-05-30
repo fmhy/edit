@@ -15108,10 +15108,10 @@ onMounted(() => {
 * [Learn X in Y minutes](https://learnxinyminutes.com/), [2](https://github.com/adambard/learnxinyminutes-docs) - Programming Language Rundowns
 * [Karel The Robot](https://github.com/fredoverflow/karel) - Basic Programming Teaching Environment
 * [Project Based Learning](https://github.com/practical-tutorials/project-based-learning) - Collection of Project-Based Tutorials
-* [Tech Dev Guide](https://techdevguide.withgoogle.com/) -
 * [Interview University](https://github.com/jwasham/coding-interview-university) - Software Engineer Study Guides
 * [Software Engineering Interview Preparation](https://github.com/orrsella/soft-eng-interview-prep) - Software Engineer Interview Preparation
 * [cs1000](https://cs1000.surge.sh/) - CS / Software Engineering
+* [Tech Dev Guide](https://techdevguide.withgoogle.com/) - CS Google Courses
 * [system-design-primer](https://github.com/donnemartin/system-design-primer) - Large Scale System Design Guides
 * [LearnToCloud](https://learntocloud.guide/) - Cloud Computing Guide
 * [LearnYouHaskell](http://learnyouahaskell.com/chapters) - Haskell Guide
@@ -15510,7 +15510,7 @@ onMounted(() => {
 
 * ↪️ **[Text Editors / Notes](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools#wiki_.25BA_text_editors_.2F_notes)**
 * ⭐ **[Visual Studio Code](https://code.visualstudio.com/)**
-* ⭐ **[VSCodium](https://vscodium.com/)** - Code Editor / VScode Fork
+* ⭐ **[VSCodium](https://vscodium.com/)** or [vscode.dev](https://vscode.dev/), [2](https://cs50.dev/) - Code Editor / VScode Fork
 * ⭐ **[Neovim](https://neovim.io/)** - Code Editor
 * ⭐ **[Emacs](https://www.gnu.org/software/emacs/)** - [Docs](https://emacsdocs.org/)
 * ⭐ **[WebDen](https://webden.dev/)**, [Sharplab](https://sharplab.io/), [tech.io](https://tech.io/), [CodingGround](https://www.tutorialspoint.com/codingground.htm) or [Online Tools](https://onlinetool.io/) - Code Playgrounds
@@ -15520,6 +15520,7 @@ onMounted(() => {
 * [Bluefish](https://bluefish.openoffice.nl/index.html) - [Templates](https://templates.openoffice.org/en)
 * [CudaText](https://cudatext.github.io/) - Code Editor
 * [Lapce](https://lapce.dev/) - Code Editor
+* [IDX](https://idx.google.com/) - Code Editor
 * [SpaceVim](https://spacevim.org/) - Code Editor
 * [zed.dev](https://zed.dev/) - Code Editor
 * [Pulsar](https://pulsar-edit.dev/) - Code Editor
@@ -15801,7 +15802,7 @@ onMounted(() => {
 * ⭐ **[Codeberg](https://codeberg.org/)**, [Drift](https://drift.lol/), [Gitea](https://about.gitea.com/), [GitLab](https://about.gitlab.com/) or [sourcehut](https://sourcehut.org/) - GitHub Alternatives
 * ⭐ **[Git Cheatsheet](https://www.ndpsoftware.com/git-cheatsheet.html#loc=index;)** or [Git Commands](https://gabrieldejesus.github.io/git-commands/) / [2](https://github.com/gabrieldejesus/git-commands) - Git Command Lists
 * [Git Guide](https://fateen45.notion.site/Git-GitHub-61bc81766b2e4c7d9a346db3078ce833) or [Git Tips](https://github.com/git-tips/tips) - Git Guides / Tips
-* [Gittea.dev](https://gittea.dev/), [FSFE](https://git.fsfe.org/), [git.sr.ht](https://git.sr.ht/), [GitGud](https://gitgud.io/), [CDM Project](https://cdm-project.com/) - Git Hosting
+* [Gittea.dev](https://gittea.dev/), [Savannah](https://savannah.gnu.org/), [FSFE](https://git.fsfe.org/), [git.sr.ht](https://git.sr.ht/), [GitGud](https://gitgud.io/), [CDM Project](https://cdm-project.com/) or [Notabug](https://notabug.org/) - Git Hosting / Software Forge
 * [Forgejo](https://forgejo.org/) or [Gogs](https://gogs.io/) - Self-Hosted Git Services / Forge
 * [posh-git](https://github.com/dahlbyk/posh-git) - Git Powershell Environment
 * [up-for-grabs](https://up-for-grabs.net/) - Curated List of Tasks for New Contributes
@@ -16060,7 +16061,6 @@ onMounted(() => {
 * [Discord Tools](https://github.com/Darkempire78/Discord-Tools)
 * [vscode-smart-clicks](https://github.com/antfu/vscode-smart-clicks) - Smart Clicks
 * [code-server](https://coder.com/) - Web Server
-* [vscode.dev](https://vscode.dev/), [2](https://cs50.dev/) - VSCode Browser Editor
 * [VHEditor](https://github.com/vhqtvn/VHEditor-Android) - VSCode Android Editor
 * [vscode-settings](https://github.com/antfu/vscode-settings) - VSCode Settings
 * [insiders.vscode](https://insiders.vscode.dev/) - Insider Build
