@@ -31,7 +31,7 @@
 
 ## ▷ Video Hosting
 
-* ⭐ **[doodstream](https://doodstream.com/)** - No Limit / 1080p / 60 Days
+* ⭐ **[doodstream](https://doodstream.com/)** - No Limit / 1080p / 60 Days / Account Required
 * ⭐ **[mixdrop](https://mixdrop.ag/)** - No Limit / 720p / 60 Days
 * ⭐ **[voe.sx](https://voe.sx/)** - No Limit / 720p / 60 Days
 * ⭐ **[catbox](https://catbox.moe/)** - 200MB
