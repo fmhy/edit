@@ -29,18 +29,31 @@
 
 ***
 
-## ▷ Video File Hosts
+## ▷ Video Hosting
 
-* **Note** - The size describes the file size limit only and the time describes file expiry. Most hosts will only remove due to inactivity, i.e. days since last download/view. So if the file is downloaded in between then, it stays active past this time.
-
-* ⭐ **[DoodStream](https://doodstream.com/)** - 5GB / 60 Days / Account Required
-* ⭐ **[Litterbox](https://litterbox.catbox.moe/)** - 1GB / Temporary
-* ⭐ **[Catbox](https://catbox.moe/)** - 200MB / Forever
-* [VOE](https://voe.sx/) or [MixDrop](https://mixdrop.ag/) - Unlimited / 60 Days / 720p / Account Required
-* [WolfStream](https://wolfstream.tv/) 30GB / 80 Days / Account Required
-* [Streamable](https://streamable.com/) - 250MB / 2 Days (90 Days With Account)
-* [webmshare](https://webmshare.com/) - WebM & GIF Hosting / 20MB / Forever
-* [minv](https://sr.ht/~thecashewtrader/minv/) - Self-Hosted
+* ⭐ **[doodstream](https://doodstream.com/)** - No Limit / 1080p / 60 Days / Account Required
+* ⭐ **[mixdrop](https://mixdrop.ag/)** - No Limit / 720p / 60 Days
+* ⭐ **[voe.sx](https://voe.sx/)** - No Limit / 720p / 60 Days
+* ⭐ **[catbox](https://catbox.moe/)** - 200MB
+* ⭐ **[streamtape](https://streamtape.com/)** / [2](https://streamtape.to/)
+* ⭐ **[upstream](https://upstream.to/)**
+* [vidyard](https://www.vidyard.com/) - No Limit / 25 Videos only
+* [sendvid](https://sendvid.com/) - 1GB / 720p
+* [vudeo](https://vudeo.ws/)
+* [supervideo](https://supervideo.cc/)
+* [youdbox](https://youdbox.site/)
+* [powvideo](https://powvideo.net/)
+* [abyss](https://abyss.to/)
+* [videy](https://videy.co/)
+* [wolfstream](https://wolfstream.tv/)
+* [vidoza](https://vidoza.net/)
+* [fileone](https://fileone.tv/)
+* [uqload](https://uqload.co/)
+* [media.cm](https://media.cm/) - 300mb / 720p
+* [streamable](https://streamable.com/) - 250MB / 720p / 90 Days
+* [FileMoon](https://filemoon.sx/) - 100MB
+* [WebMShare](https://webmshare.com/) - WebM Hosting / 20MB
+* [HoraHora](https://github.com/horahoradev/horahora) or [minv](https://sr.ht/~thecashewtrader/minv/) - Self-Hosted
 
 ***
 
