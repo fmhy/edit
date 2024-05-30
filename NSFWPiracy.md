@@ -375,7 +375,6 @@
 * ⭐ **[Hitomi](https://hitomi.la/)** - Hentai Manga
 * ⭐ **[3Hentai](https://3hentai.net/)** - Hentai Manga
 * ⭐ **[NHentai](https://nhentai.net/)** - Hentai Manga
-* ⭐ **[Anchira](https://anchira.to/)** - Official Fakku/Irodori Rips
 * ⭐ **NHentai Tools** - [Android Client](https://github.com/Dar9586/NClientV2), [2](https://ttdyce.com/apps/nhviewer/) / [Downloader](https://github.com/RicterZ/nhentai), [2](https://nhentaidownloader.zirk.eu/)
 * ⭐ **[Mihon](https://mihon.app/)** - Manga Reader
 * ⭐ **Mihon Tools** - [Extensions](https://keiyoushi.github.io/extensions/), [2](https://discord.gg/3FbCpdKbdY) / [Official Forks](https://mihon.app/forks/), [2](https://github.com/null2264/yokai), [3](https://github.com/nekomangaorg/Neko)

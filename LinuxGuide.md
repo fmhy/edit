@@ -29,7 +29,8 @@
 ## ▷ Linux Guides
 
 * ⭐ **[Archwiki](https://wiki.archlinux.org/)** - Arch Linux Guide / [Manuals](https://man.archlinux.org/) / [TUI](https://codeberg.org/theooo/mantra.py)
-* ⭐ **[InstallGentoo](https://wiki.installgentoo.com/)** or [Gentoo Wiki](https://wiki.gentoo.org/wiki/Main_Page) - Gentoo Guides
+* ⭐ **[InstallGentoo](https://wiki.installgentoo.com/)** - Linux Guides
+* [Gentoo Wiki](https://wiki.gentoo.org/wiki/Main_Page) - Gentoo Guides
 * [HowToLinux](https://howtolinux.vercel.app) - Linux Guides
 * [HowtoForge](https://www.howtoforge.com/) - Linux Guides
 * [Sindresorhus Guides](https://github.com/sindresorhus/guides) - Linux Guides
@@ -235,6 +236,7 @@
 * [ytermusic](https://github.com/ccgauche/ytermusic/) - YouTube Music Downloader
 * [Deezer Linux](https://github.com/aunetx/deezer-linux or [DZR](https://github.com/yne/dzr) - Deezer Clients
 * [Myuzi](https://gitlab.com/albanobattistella/myuzi) - Music Streaming App
+* [MusicPod](https://github.com/ubuntu-flutter-community/musicpod) - Podcast / Radio Player
 * [HeadsetControl](https://github.com/Sapd/HeadsetControl) - Headset Settings Manager
 * [Pipewire](https://wiki.archlinux.org/title/PipeWire#Noise_suppression_for_voice) / [Plugins](https://github.com/wwmm/easyeffects) or [NoiseTorch](https://github.com/noisetorch/NoiseTorch) - Noise Suppression Software
 * [Qtractor](https://qtractor.org/) - Audio Editor
@@ -285,6 +287,7 @@ Linux Gaming Guide
 * [steam-cli](https://github.com/berenm/steam-cli) - CLI for Steam
 * [Luxtorpeda](https://github.com/luxtorpeda-dev/luxtorpeda) or [Boxtron](https://github.com/dreamer/boxtron) - Run Steam Games on Linux
 * [RetroDECK](https://retrodeck.net/) - Emulator for Steam Deck
+* [CryoUtilities](https://github.com/CryoByte33/steam-deck-utilities) - Steam Deck Utilities
 * [GameScope](https://github.com/ValveSoftware/gamescope) - Steam Session Compositing Window Manager
 * [SamRewritten](https://github.com/PaulCombal/SamRewritten) - Steam Achievement Manager
 * [Steam for Linux](https://github.com/ValveSoftware/steam-for-linux) - Steam Linux Beta Issue Tracker

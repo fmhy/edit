@@ -20,7 +20,6 @@
 * [Napalm FTP](https://www.searchftps.net/), [Mamont](https://www.mmnt.ru/int/) or [Search-22](https://search-22.com/ftp-search-tools) - FTP Search
 * [dedigger](https://www.dedigger.com/) - GDrive File Search
 * [Sala De Espera](https://matrix.to/#/!qbOtnJEDGsPuWZBHLX:matrix.org?via=matrix.org) - Drive Sharing Community
-* [Create Open Directory Search Engine](https://redd.it/d3w2fu)
 * [Open Directory Downloader](https://github.com/KoalaBear84/OpenDirectoryDownloader) - Open Directory Indexer
 * [Pastebin CSE](https://cse.google.com/cse?cx=0cd79b819f26af9d0) - Search Pastebin Directories
 * [CD.TextFiles](http://cd.textfiles.com/) - CD Text File Archive
@@ -154,7 +153,6 @@
 * [Libreware](https://t.me/Libreware), [PC Cracked Software](https://t.me/pc_cracked_softwares) - Telegram Channels
 * [Rarewares](https://www.rarewares.org/) - Rare Software
 * [PLC4Me](https://plc4me.com/) - Automation Software
-* [civileng_soft](https://t.me/civileng_soft) - Civil Engineering Software
 * [Software Heritage](https://www.softwareheritage.org/) - Software Source Code Archive
 * [Team V.R releases](https://codec.kiev.ua/releases.html) - Professional Video, Audio & Adobe Software / Plugins
 * [WLSetup-All](https://rentry.co/FMHYBase64#wlsetup-all) - Windows Live Essentials 2012 Archive

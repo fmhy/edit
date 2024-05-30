@@ -132,7 +132,7 @@
 ## ▷ Link in Bio Sites
 
 * ↪️ **[Browser Startpages](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_browser_startpages)**
-* ⭐ **[Linktree](https://linktr.ee/)** - Link in Bio
+* ⭐ **[Linktree](https://linktr.ee/)**
 * ⭐ **[Linkstack](https://linkstack.org)** or [LittleLink](https://littlelink.io/) - Self-hosted
 * [Beacons](https://beacons.ai/)
 * [Carrd](https://carrd.co/)
@@ -143,6 +143,7 @@
 * [Horizon Bio](https://hrzn.bio/)
 * [BioDrop](https://www.biodrop.io/)
 * [Taplink](https://taplink.at/)
+* [Solo](https://solo.to/)
 * [Linkezo](https://linkezo.com/)
 * [LinkBun](https://linkbun.io)
 * [Linkr](https://linkr.com/)
@@ -350,30 +351,23 @@
 ## ▷ Email Tools
 
 * 🌐 **[Email Providers](https://en.wikipedia.org/wiki/Comparison_of_webmail_providers)** - Provider Comparisons
-* ↪️ **[Email Privacy](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25B7_email_privacy)**
+* ↪️ **[Encrypted Email](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25B7_email_privacy)**
 * ↪️ **[Email Clients](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_email_clients)**
 * ↪️ **[Temp Emails](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_temp_email_sites)**
 * ↪️ **[Anon Emails](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_send_anonymous_emails)**
-* ⭐ **[cock.li](https://cock.li/)** - Simple Email Service
 * ⭐ **[InboxReads](https://inboxreads.co/)** or [Readsom](https://readsom.com/) - Email Newsletter Archive
+* [Outlook](https://www.microsoft.com/en-us/microsoft-365/outlook/email-and-calendar-software-microsoft-outlook) or [cock.li](https://cock.li/) - Number-Free Email Services
 * [Delta Chat](https://delta.chat/en/) - Email Based Messenger
 * [Postsack](https://github.com/terhechte/postsack) - Email Visualizer
 * [Boomerang](https://www.boomeranggmail.com/), [NudgeMail](https://nudgemail.com/) or [FollowupThen](https://www.followupthen.com/) - Scheduled Email Sending & Reminders
 * [Email Tracker](https://snov.io/email-tracker), [GetNotify](https://www.getnotify.com/) or [Mailtrack](https://mailtrack.io/) - Email Engagement
-* [UnsubScan](https://github.com/LGUG2Z/unsubscan) - Unsubscribe from Emails
 * [Epieos](https://epieos.com/) - Retrieve Info Linked to Email Address
-* [zMail](https://zmail.sourceforge.net/) or [Emkei's Fake Mailer](https://emkei.cz/) - Send Fake Emails
-* [MailBait](https://mailbait.info/) - Fill Inbox with Mail
-* [Email Valid](https://ivit.pro/services/email-valid/) or [Ychecker](https://ychecker.com/) - Check Email Validity & Usage
 * [Holehe](https://github.com/megadose/holehe) - Find Accounts Connected to Emails
 * [Useplaintext](https://useplaintext.email/) - How-To Use Plaintext Email
-* [SignatureHound](https://signaturehound.com/) - Email Signature Creators
-* [CanIEmail](https://www.caniemail.com/) - CSS / HTML Support Tables
 * [Docker Mailserver](https://docker-mailserver.github.io/docker-mailserver/edge/), [UnInbox](https://github.com/un/inbox) or [Mail-in a Box](https://mailinabox.email/) - Self-Hosted Email Servers
 * [Gmail Desktop](https://github.com/timche/gmail-desktop) - Gmail Desktop Client
 * [Got Your Back](https://github.com/GAM-team/got-your-back) - Backup Gmail Messages
 * [ExtractMailAddress](https://extractemailaddress.com/) - Extract Emails, URLs and Numbers from Text
-* [Hunter.io](https://hunter.io/) - Business Email Address Search
 
 ***
 
@@ -723,7 +717,7 @@
 * [ArchiveWeb.page](https://archiveweb.page/) - Browser Extension
 * [WikiTeam](https://github.com/WikiTeam/wikiteam) - Archive Wikis
 * [Wayback](https://github.com/wabarc/wayback) - Web Archiving Tool
-* [DownloadNet](https://github.com/dosyago/DownloadNet) or [Kiwix](https://kiwix.org/en/) / [Wiki DL Guide](https://practicalbetterments.com/download-all-of-wikipedia-on-your-phone/) - Offline Website Readers
+* [DownloadNet](https://github.com/dosyago/DownloadNet) or [Kiwix](https://kiwix.org/en/) / [Zim Reader](https://zimit.kiwix.org/) / [Wiki DL Guide](https://practicalbetterments.com/download-all-of-wikipedia-on-your-phone/) - Offline Website Readers
 * [Wget2](https://gitlab.com/gnuwget/wget2) / [Commands](https://www.whatismybrowser.com/developers/tools/wget-wizard/), [SuckIT](https://github.com/skallwar/suckit), [Cyotek WebCopy](https://www.cyotek.com/cyotek-webcopy), [Website Downloader](https://github.com/AhmadIbrahiim/Website-downloader) or [PageRip](https://webpagerip.com/) - Website Downloaders
 * [Archivematica](https://www.archivematica.org/) - Digital Preservation System
 * [wallabag](https://wallabag.org/) - Save Articles

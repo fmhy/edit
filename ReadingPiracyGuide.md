@@ -772,6 +772,7 @@
 * [Higher Intellect](https://preterhuman.net/) - Document Search
 * [qDoc](https://idoc.tips/) - Document Search
 * [Doc Search](https://parksdigital.com/doc-search/) - Document Search
+* [Dirzon](https://www.dirzon.com/Doc/SearchAsync) -
 * [KUNDOC](https://c.coek.info/) - Science / Articles
 * [DOKU.PUB](https://doku.pub/) - Science / Articles
 * [Academic Journals](https://academicjournals.org/) - Science / Articles

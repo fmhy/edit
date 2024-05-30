@@ -75,10 +75,10 @@
 * [Learn X in Y minutes](https://learnxinyminutes.com/), [2](https://github.com/adambard/learnxinyminutes-docs) - Programming Language Rundowns
 * [Karel The Robot](https://github.com/fredoverflow/karel) - Basic Programming Teaching Environment
 * [Project Based Learning](https://github.com/practical-tutorials/project-based-learning) - Collection of Project-Based Tutorials
-* [Tech Dev Guide](https://techdevguide.withgoogle.com/) -
 * [Interview University](https://github.com/jwasham/coding-interview-university) - Software Engineer Study Guides
 * [Software Engineering Interview Preparation](https://github.com/orrsella/soft-eng-interview-prep) - Software Engineer Interview Preparation
 * [cs1000](https://cs1000.surge.sh/) - CS / Software Engineering
+* [Tech Dev Guide](https://techdevguide.withgoogle.com/) - CS Google Courses
 * [system-design-primer](https://github.com/donnemartin/system-design-primer) - Large Scale System Design Guides
 * [LearnToCloud](https://learntocloud.guide/) - Cloud Computing Guide
 * [LearnYouHaskell](http://learnyouahaskell.com/chapters) - Haskell Guide
@@ -201,6 +201,7 @@
 
 ## ▷ Data Science
 
+* ⭐ **[Open Source Society University (OSSU](https://github.com/ossu/data-science)** - Data Science Roadmap
 * [Data Science Resources](https://rentry.co/FMHYBase64#data-science-resources) - Data Science Learning Resources
 * [365Datascience](https://365datascience.com/) - Data Science Courses
 * [Quick-R](https://www.statmethods.net/index.html) - R Tutorials
@@ -315,6 +316,7 @@
 
 * 🌐 **[CompSciLib](https://www.compscilib.com/)** - Computer Science Tools
 * ⭐ **[TeachYourselfComputerScience](https://teachyourselfcs.com/)** - Computer Science Book Recommendations
+* ⭐ **[Open Source Society University (OSSU)](https://github.com/ossu/computer-science)** / [PT-BR](https://github.com/ossu/computer-science-br) / [CN](https://github.com/ossu/computer-science-cn) - Computer Science Roadmap
 * [Big-O Cheatsheet](https://www.bigocheatsheet.com/) - Computer Science Complexities Cheatsheet
 * [CSDIY](https://csdiy.wiki/en/), [awesome-low-level-design](https://github.com/ashishps1/awesome-low-level-design), [awesome-system-design-resources](https://github.com/ashishps1/awesome-system-design-resources) or [LearnAIFromScratch](https://learnaifromscratch.github.io/) - Computer Science Learning Guides
 * [Code.org](https://code.org/) - Computer Science Courses
@@ -337,7 +339,6 @@
 
 # ► Developer Tools
 
-* 🌐 **[Awesome Livecoding](https://github.com/toplap/awesome-livecoding)** - Livecoding Resources
 * 🌐 **[Awesome Creative Coding](https://github.com/terkelg/awesome-creative-coding)** - Creative Coding Resources
 * 🌐 **[Awesome Python](https://awesome-python.com/)** - Pyapithon Resources
 * 🌐 **[Awesome Javascript](https://github.com/sorrycc/awesome-javascript)** - Javascript Resources
@@ -353,8 +354,7 @@
 * 🌐 **[Awesome Subreddits](https://github.com/iCHAIT/awesome-subreddits)** - Programming Subreddits
 * 🌐 **[Awesome Bots](https://doppler.com) / [GitHub](https://github.com/DopplerHQ/awesome-bots)** - Developer Bot Index
 * 🌐 **[Awesome Design Patterns](https://github.com/DovAmir/awesome-design-patterns)** - Design Pattern Resources
-* 🌐 **[Awesome DataScience](https://github.com/academic/awesome-datascience)** or [Best Data Science Resources](https://github.com/Mohitkr95/Best-Data-Science-Resources) - Data Science Resources
-* 🌐 **[Bug Bounty](https://github.com/sehno/Bug-bounty)** - Bug Bounty Resources
+* 🌐 **[Awesome DataScience](https://github.com/academic/awesome-datascience)** - Data Science Resources
 * ↪️ **[Multi-Tool Dev Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_multi_dev_tool_sites)**
 * ↪️ **[Developer News](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25B7_tech_news)**
 * ⭐ **[JSON Hero](https://jsonhero.io/)**, [Jayson](https://apps.apple.com/us/app/jayson/id1447750768) or [JSONView](https://jsonview.com/) - JSON Viewers / Editors
@@ -373,15 +373,12 @@
 * [Penpot](https://penpot.app/) - Cross Domain Design & Prototyping Platform
 * [Webhook.site](https://webhook.site/) - Webhook Tools
 * [ImHex](https://imhex.werwolv.net) - Hex Editor / [Web Version](https://web.imhex.werwolv.net/)
-* [WebSequenceDiagrams](https://www.websequencediagrams.com/) - Draw Sequence Diagrams / [Comparisons](https://text-to-diagram.com/)
 * [mingrammer](https://diagrams.mingrammer.com) - Diagram as Code / Prototyping
 * [Libraries.io](https://libraries.io/) - Package, Framework & Tool Search
 * [Deps.dev](https://deps.dev/) - Open Source Package Search
 * [Hajimari](https://hajimari.io/) - Kubernetes Startpage / [Discord](https://discord.com/invite/HWGZSWJsA8)
 * [Input Delay Test](https://input-delay.glitch.me/) - Input Delay Experiment
-* [Asynchronous Messaging](https://github.com/clemensv/messaging) - Asynchronous Messaging Resources
 * [discord-api-libs](https://github.com/Apacheli/discord-api-libs) - Community Libraries for Discord API
-* [Discord Devs: Community Resources](https://discord.com/developers/docs/topics/community-resources) - List of Discord bot libraries
 * [botwiki](https://botwiki.org/) - Learn How to Make Bots
 * [reddit-moderator-toolbox](https://github.com/toolbox-team/reddit-moderator-toolbox) - Toolbox for Reddit Extension Development
 * [Wokwi](https://wokwi.com/) - Arduino / ESP32 Board Simulator
@@ -390,22 +387,19 @@
 * [Commands.dev](https://www.commands.dev/) - Terminal Commands
 * [AirBroke](https://airbroke.icorete.ch/) or [Glitchtip](https://glitchtip.com) - Error Tracking Platforms
 * [Algorithm Visualizer](https://algorithm-visualizer.org/) or [Sorting Algorithms Visuallizer](https://sadanandpai.github.io/algo-visualizers/#/sorting-visualizer/bubble) / [GitHub](https://github.com/sadanandpai/sorting-visualizer) - Visualize Code Algorithms
-* [Code2Flow](https://app.code2flow.com/), [Flowchart.js](https://flowchart.js.org/) or [Flowchart Generator](https://github.com/MugilanGN/Flowchart-Generator) - Code to Flowchart Converter
+* [Code2Flow](https://app.code2flow.com/) or [Flowchart.js](https://flowchart.js.org/) - Code to Flowchart Converter
 * [UMLet](https://www.umlet.com/) or [JDL Studio](https://start.jhipster.tech/jdl-studio/) - Create UML Diagrams
 * [Wasmer](https://wasmer.io/) - WebAssembly Apps / Libraries
 * [Decompiler](https://www.decompiler.com/) - Online Decompiler
-* [core-plot](https://github.com/core-plot/core-plot) - Core Plot Source Code / Apps
 * [tuc](https://github.com/riquito/tuc) - Improved Code Cut
 * [Lepton](https://hackjutsu.com/Lepton/) or [Snipp.in](https://snipp.in/) - Code Snippet Managers
 * [0xacab](https://about.0xacab.org/) - Code Host
 * [Mockaroo](https://mockaroo.com/) - Generate Mock Data
 * [Mockium](https://softwium.com/mockium/) - Generate Test Data
 * [OneLang IDE](https://ide.onelang.io/) - Convert Code to Multiple Languages
-* [Autosaved](https://github.com/nikochiko/autosaved) - Autosave Code / [GitHub](https://github.com/tkellogg/dura)
 * [Tasuku](https://github.com/privatenumber/tasuku) - Node.js Task Runner
 * [Globster](https://globster.xyz/) - Test Glob Patterns
 * [OctoLinker](https://octolinker.vercel.app/) - Turn Code Statements into Links / [GitHub](https://github.com/OctoLinker/OctoLinker)
-* [Qovery](https://www.qovery.com/) - AWS Development Platform
 * [Shell Cloud](https://shell.cloud.google.com/) - Google Cloud Shell Environment
 * [BrickHub](https://brickhub.dev/) - Share Code Brick Templates
 * [nunu](https://github.com/go-nunu/nunu) - Build Go Programs
@@ -483,7 +477,7 @@
 
 * ↪️ **[Text Editors / Notes](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools#wiki_.25BA_text_editors_.2F_notes)**
 * ⭐ **[Visual Studio Code](https://code.visualstudio.com/)**
-* ⭐ **[VSCodium](https://vscodium.com/)** - Code Editor / VScode Fork
+* ⭐ **[VSCodium](https://vscodium.com/)** or [vscode.dev](https://vscode.dev/), [2](https://cs50.dev/) - Code Editor / VScode Fork
 * ⭐ **[Neovim](https://neovim.io/)** - Code Editor
 * ⭐ **[Emacs](https://www.gnu.org/software/emacs/)** - [Docs](https://emacsdocs.org/)
 * ⭐ **[WebDen](https://webden.dev/)**, [Sharplab](https://sharplab.io/), [tech.io](https://tech.io/), [CodingGround](https://www.tutorialspoint.com/codingground.htm) or [Online Tools](https://onlinetool.io/) - Code Playgrounds
@@ -493,6 +487,7 @@
 * [Bluefish](https://bluefish.openoffice.nl/index.html) - [Templates](https://templates.openoffice.org/en)
 * [CudaText](https://cudatext.github.io/) - Code Editor
 * [Lapce](https://lapce.dev/) - Code Editor
+* [IDX](https://idx.google.com/) - Code Editor
 * [SpaceVim](https://spacevim.org/) - Code Editor
 * [zed.dev](https://zed.dev/) - Code Editor
 * [Pulsar](https://pulsar-edit.dev/) - Code Editor
@@ -659,7 +654,7 @@
 * [XDGuru](https://www.xdguru.com/) - Adobe XD Resources
 * [Median](https://median.co/) - Convert Websites to Mobile Apps
 * [Media Kit](https://github.com/media-kit/media-kit) - Video / Audio Library for Flutter and Dart
-* [Uiautomator2](https://github.com/openatx/uiautomator2), [ABD](https://github.com/ashishb/adb-enhanced) or [Appium](https://appium.io/) / [GitHub](https://github.com/appium/appium) - Automated App Testing
+* [Uiautomator2](https://github.com/openatx/uiautomator2), [ADB](https://github.com/ashishb/adb-enhanced) or [Appium](https://appium.io/) / [GitHub](https://github.com/appium/appium) - Automated App Testing
 * [SigNoz](https://signoz.io/) - Detect App Issues
 * [jadx](https://github.com/skylot/jadx) - Dex to Java Decompiler
 * [Privado](https://docs.privado.ai) / [GitHub](https://github.com/Privado-Inc/privado) - Generate App Privacy Reports
@@ -774,7 +769,7 @@
 * ⭐ **[Codeberg](https://codeberg.org/)**, [Drift](https://drift.lol/), [Gitea](https://about.gitea.com/), [GitLab](https://about.gitlab.com/) or [sourcehut](https://sourcehut.org/) - GitHub Alternatives
 * ⭐ **[Git Cheatsheet](https://www.ndpsoftware.com/git-cheatsheet.html#loc=index;)** or [Git Commands](https://gabrieldejesus.github.io/git-commands/) / [2](https://github.com/gabrieldejesus/git-commands) - Git Command Lists
 * [Git Guide](https://fateen45.notion.site/Git-GitHub-61bc81766b2e4c7d9a346db3078ce833) or [Git Tips](https://github.com/git-tips/tips) - Git Guides / Tips
-* [Gittea.dev](https://gittea.dev/), [FSFE](https://git.fsfe.org/), [git.sr.ht](https://git.sr.ht/), [GitGud](https://gitgud.io/), [CDM Project](https://cdm-project.com/) - Git Hosting
+* [Gittea.dev](https://gittea.dev/), [Savannah](https://savannah.gnu.org/), [FSFE](https://git.fsfe.org/), [git.sr.ht](https://git.sr.ht/), [GitGud](https://gitgud.io/), [CDM Project](https://cdm-project.com/) or [Notabug](https://notabug.org/) - Git Hosting / Software Forge
 * [Forgejo](https://forgejo.org/) or [Gogs](https://gogs.io/) - Self-Hosted Git Services / Forge
 * [posh-git](https://github.com/dahlbyk/posh-git) - Git Powershell Environment
 * [up-for-grabs](https://up-for-grabs.net/) - Curated List of Tasks for New Contributes
@@ -1033,7 +1028,6 @@
 * [Discord Tools](https://github.com/Darkempire78/Discord-Tools)
 * [vscode-smart-clicks](https://github.com/antfu/vscode-smart-clicks) - Smart Clicks
 * [code-server](https://coder.com/) - Web Server
-* [vscode.dev](https://vscode.dev/), [2](https://cs50.dev/) - VSCode Browser Editor
 * [VHEditor](https://github.com/vhqtvn/VHEditor-Android) - VSCode Android Editor
 * [vscode-settings](https://github.com/antfu/vscode-settings) - VSCode Settings
 * [insiders.vscode](https://insiders.vscode.dev/) - Insider Build
@@ -1425,7 +1419,7 @@
 * [Greenbone](https://github.com/greenbone) - Vulnerability Management
 * [Evervault](https://evervault.com/) - Security / Compliance Infrastructure
 * [HTTPToolkit](https://httptoolkit.com/) - Debug, Test & Build with HTTP(S)
-* [IP Intelligence](https://getipintel.net/), [AbuseIPDB](https://www.abuseipdb.com/ ) or [Proxy Check](https://proxycheck.io/) - Proxy / VPN / Bad IP Detection
+* [IP Intelligence](https://getipintel.net/), [AbuseIPDB](https://www.abuseipdb.com/) or [Proxy Check](https://proxycheck.io/) - Proxy / VPN / Bad IP Detection
 * [DarkVisitors](https://darkvisitors.com/) - Autonomous Chatbots / Data Scraper List
 * [Al-Khaser](https://github.com/LordNoteworthy/al-khaser) - Anti-Malware Stress Test
 * [HTTPLeaks](https://github.com/cure53/HTTPLeaks) - HTTP Sites Leak Information

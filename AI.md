@@ -23,6 +23,7 @@
 * ⭐ **[wrtn](https://wrtn.ai/)** - GPT-4 Chatbot / [Android](https://play.google.com/store/apps/details?id=com.wrtn.app) / [iOS](https://apps.apple.com/us/app/%EB%A4%BC%ED%8A%BC-%EB%AA%A8%EB%91%90%EB%A5%BC-%EC%9C%84%ED%95%9C-ai-%ED%8F%AC%ED%84%B8/id6448556170) (ask for english)
 * ⭐ **[Gemini](https://gemini.google.com/)** or [Gemma](https://github.com/google/gemma.cpp), [2](https://ai.google.dev/gemma/) - Google's Chatbot
 * ⭐ **[Claude](https://claude.ai/)** - Anthropic's Chatbot
+* ⭐ **[Morphic](https://www.morphic.sh/)** - GPT4o Powered Search 
 * ⭐ **[Perplexity](https://www.perplexity.ai/)** - GPT-3.5 Powered Search / [Open Source Models](https://labs.perplexity.ai/)
 * ⭐ **[groq](https://groq.com/)** - LLama 3 and Mixtral Chatbots
 * ⭐ **[LMSYS Chat](https://chat.lmsys.org/)** - Chat and Compare Multiple Chatbots
@@ -37,7 +38,6 @@
 * [Meta AI](https://www.meta.ai/) - Llama Chatbot / US only
 * [NVIDIA NIM](https://build.nvidia.com/) - Llama 3
 * [Phind](https://www.phind.com/) - Llama Search Engine
-* [Morphic](https://www.morphic.sh/) - AI Search Engine
 * [Perplexica](https://github.com/ItzCrazyKns/Perplexica) - AI Search Engine
 * [Komo](https://komo.ai/) - AI Search Engine
 * [iAsk](https://iask.ai/) - AI Search Engine
@@ -177,6 +177,7 @@
 * ⭐ **[quickref](https://quickref.me/chatgpt)** - Prompt Cheatsheets
 * [500 Best Prompts](https://puzzle-jute-202.notion.site/500-Best-ChatGPT-Prompts-f5b4ad65deec4b6385316fdb8740af74) - Prompt Directory
 * [SnackPrompt](https://snackprompt.com/) - Prompt Directory
+* [AIPRM](https://www.aiprm.com/prompts/) - Prompt Directory
 * [PromptPerfect](https://promptperfect.jina.ai/) - Prompt Optimization
 * [promptfoo](https://github.com/typpo/promptfoo) or [PromptKnit](https://promptknit.com/) - Prompt Playgrounds
 * [Marketing 2099](https://sintralabs.notion.site/Marketing-2099-Ultimate-ChatGPT-Marketing-Prompts-To-Copy-Paste-200-tasks-fc22c9142d6a4a4286a3fe755be932e6) - ChatGPT Marketing Prompts

@@ -57,6 +57,7 @@
 ## ▷ Streaming Apps
 
 * ⭐ **[Custom YouTube Music](https://th-ch.github.io/youtube-music/)**, [MooSync](https://moosync.app/), [SpoTube](https://spotube.krtirtho.dev/), [yewtube](https://github.com/mps-youtube/yewtube), [spmp](https://github.com/toasterofbread/spmp) or [Headset](https://headsetapp.co) - YouTube Music Clients
+* [BetterSoundcloud](https://alirezakj.com/bsc/) - Soundcloud Client / Ad-Free
 * [nuclear](https://nuclear.js.org/) - Streaming / [GitHub](https://github.com/nukeop/nuclear) / [Discord](https://discord.com/invite/JqPjKxE)
 * [FunkWhale](https://funkwhale.audio/) - Streaming
 * [MP3Jam](https://www.mp3jam.org/) - Streaming
@@ -71,7 +72,7 @@
 
 ## ▷ Streaming Sites
 
-* ⭐ **[YouTube Music](https://music.youtube.com/)**, [Hyperpipe](https://hyperpipe.surge.sh), [Nonoki](https://nonoki.com/music/), [YTMP](https://ytmp.itsvg.in/) or [Spotify One](https://spotfy.one/) - YouTube Music WebUIs
+* ⭐ **[YouTube Music](https://music.youtube.com/)**, [Hyperpipe](https://hyperpipe.surge.sh), [Nonoki](https://nonoki.com/music/), [YTMP](https://ytmp.itsvg.in/), [ytify](https://ytify.netlify.app/) or [Spotify One](https://spotfy.one/) - YouTube Music WebUIs
 * ⭐ **YouTube Music Tools** - [Enhancements](https://themesong.app/), [2](https://github.com/Sv443/BetterYTM) / [Lag Fix](https://greasyfork.org/en/scripts/432304-youtube-music-fix-performance) / [Library Delete](https://github.com/apastel/ytmusic-deleter) / [Upload Delete](https://rentry.co/tv4uo) / [Spotify Playlist Import](https://github.com/sigma67/spotify_to_ytmusic), [2](https://github.com/linsomniac/spotify_to_ytmusic)
 * ⭐ **[Reddit Music Player](https://reddit.musicplayer.io/)** - Subreddit Music Player
 * ⭐ **[SoundCloud](https://soundcloud.com/)** - User Made Songs / [Spotify Theme](https://userstyles.world/style/5470/soundfy-v3) / [Dark Theme](https://github.com/huds0nx/soundcloud-luna)
@@ -318,6 +319,7 @@
 
 * 🌐 **[Music Education Masterlist](https://rentry.co/FMHYBase64#music-education-masterlist)**
 * ↪️ **[Royalty Free Music](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_royalty_free_music)**
+* ⭐ **[MP3 Daddy](https://mp3-daddy.com/)** - 320kb / MP3 / FLAC
 * ⭐ **[Slider](https://hayqbhgr.slider.kz/)** - 320kb / MP3
 * ⭐ **[TrackerHub](https://rentry.co/FMHYBase64#trackerhub)** - Artists Spreadsheet / [Discord](https://discord.gg/trackerhub)
 * ⭐ **[Audio Download CSE](https://cse.google.com/cse?cx=006516753008110874046:ibmyuhh72io)** / [CSE 2](https://cse.google.com/cse?cx=006516753008110874046:ohobg3wvr_w) / [CSE 3](https://cse.google.com/cse?cx=32d85b41e2feacd3f) - Multi-Site Search
@@ -372,7 +374,12 @@
 * [Archive.org](https://archive.org/) - MP3
 * [xprm](https://xprm.net/) - MP3 / DL / Stream / Requests
 * [Jimmy R](https://jimmyr.com/mp3_search.php) or [Musgle](http://www.musgle.com/) - Google Directory Search / MP3
-* [Take Metal](https://takemetal.org/), [DTS-Metal](https://dts-metal.com/), [Me-4U](https://me-4u.com/index.php), [Metalminos](https://metalminos.net/), [TechnicalDeathMetal](https://technicaldeathmetal.org/) or [HeavyMetalRarities](https://heavymetalrarities.com/) - Metal / MP3
+* [Take Metal](https://takemetal.org/) - Metal / MP3
+* [DTS-Metal](https://dts-metal.com/) - Metal / MP3
+* [Me-4U](https://me-4u.com/index.php) - Metal / MP3
+* [Metalminos](https://metalminos.net/) - Metal / MP3
+* [TechnicalDeathMetal](https://technicaldeathmetal.org/) - Metal / MP3
+* [HeavyMetalRarities](https://heavymetalrarities.com/) - Metal / MP3
 * [GetMetal Club](https://getmetal.club/) - Metal / MP3 / FLAC
 * [Nuclear Holocaust]( https://nuclear-holocaust.blogspot.com/) - Metal / FLAC
 * [The Last Disaster](https://thelastdisaster.org/) - Metal / Hardcore / Rock / MP3 / FLAC
@@ -555,13 +562,13 @@
 * ⭐ **[FFmpeg](https://ffmpeg.org/)**, [fre:ac](https://www.freac.org/), [FlicFlac](https://github.com/DannyBen/FlicFlac), [LameXP](https://sourceforge.net/projects/lamexp/) or [Sox](https://sourceforge.net/projects/sox/) - Audio Converters
 * ⭐ **[Equalizer APO](https://equalizerapo.com/)**, **[AutoEq]( https://autoeq.app/)**, [PeaceEqualizer](https://sourceforge.net/projects/peace-equalizer-apo-extension/) or [FXSound](https://www.fxsound.com/) - Audio Equalizers
 * ⭐ **[MP3Tag](https://www.mp3tag.de/en/)**, [beets.io](https://beets.io/) / [Guides](https://redd.it/11iaafu), [TagEditor](https://github.com/Martchus/tageditor), [EasyTAG](https://wiki.gnome.org/Apps/EasyTAG), [Kid3](https://kid3.kde.org/), [MetaTogger](https://www.luminescence-software.org/en/metatogger), [MusicBrainz](https://picard.musicbrainz.org/) or [TagScanner](https://www.xdlab.ru/en/) - Audio Metadata Organizers
+* ⭐ **[Pillowcase](https://pillowcase.su/)** - Audio File Host / 200MB / Forever (500MB With Account)
 * [tone](https://github.com/sandreas/tone) - View / Modify Audio Metadata
 * [Wave Link](https://help.elgato.com/hc/en-us/articles/360044566172-Wave-Link-First-Time-Setup-for-Windows-10) or [VoiceMeeter](https://vb-audio.com/Voicemeeter/index.htm) / [Banana](https://vb-audio.com/Voicemeeter/banana.htm) - Audio Mixers / Multi-Device Playback
 * [SoundSwitch](https://soundswitch.aaflalo.me/) - Switch Audio Device with Hotkey / [GitHub](https://github.com/Belphemur/SoundSwitch)
 * [Phiola](https://github.com/stsaz/phiola), [AudioToolSet](https://audiotoolset.com/) or [Safeaudiokit](https://safeaudiokit.com/) - Audio Multi-Tool Apps / Sites
 * [qAAC](https://github.com/nu774/qaac) - QuickTime AAC/ALAC encoder
 * [opus-tools](https://opus-codec.org/downloads/) - Encode, Inspect and Decode .opus Files
-* [Pillowcase](https://pillowcase.su/) - Audio File Host
 * [Audiocheck](https://www.audiocheck.net/) - Audio Tests
 * [LowAudioLatency](https://github.com/spddl/LowAudioLatency/) - Reduce Audio Latency
 * [DigitalFeed](https://abx.digitalfeed.net/) - Lossless Audio Sound System Test

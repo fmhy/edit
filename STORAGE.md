@@ -53,7 +53,7 @@
 
 ## Android Browsers
 
-* ⭐ **[Firefox](https://www.mozilla.org/)** - [F-Droid](https://f-droid.org/packages/org.mozilla.fennec_fdroid/) / [Focus](https://www.mozilla.org/en-US/firefox/browsers/mobile/focus/)
+* ⭐ **[Firefox](https://www.mozilla.org/)** - [F-Droid](https://f-droid.org/packages/org.mozilla.fennec_fdroid/) / [Focus](https://www.mozilla.org/en-US/firefox/browsers/mobile/focus/) / [Nightly](https://www.mozilla.org/en-US/firefox/channel/android/#nightly)
 * ⭐ **[FFUpdater](https://github.com/Tobi823/ffupdater)** - Multi-Browser Updater
 
 [Iceraven Browser](https://github.com/fork-maintainers/iceraven-browser), [Kiwi Browser](https://kiwibrowser.com/), [Stargon Browser](https://play.google.com/store/apps/details?id=net.onecook.browser), [Ecosia](https://play.google.com/store/apps/details?id=com.ecosia.android), [Via Browser](https://play.google.com/store/apps/details?id=mark.via.gp), [Fulguris](https://github.com/Slion/Fulguris)
@@ -525,7 +525,7 @@
 
 ## LibGen Tools
 
-[Desktop](https://wiki.mhut.org/software:libgen_desktop) / [Search Extension](https://chromewebstore.google.com/detail/libgen-search/cbcehgllfaddbjidleabcdjpldlognad) / [Need Seeds](https://phillm.net/libgen-seeds-needed.php) / [Telegram Bot](https://t.me/amazingbookdownloaderbot) / [Convert to Text](https://github.com/VikParuchuri/libgen_to_txt) / [Backup](https://redd.it/edwi9b) / [/r/libgen](https://reddit.com/r/libgen)
+[Desktop](https://wiki.mhut.org/software:libgen_desktop) / [Search Extension](https://chromewebstore.google.com/detail/libgen-search/cbcehgllfaddbjidleabcdjpldlognad) / [Amazon Buttons](https://pastebin.com/DdwbbhG8) / [Need Seeds](https://phillm.net/libgen-seeds-needed.php) / [Telegram Bot](https://t.me/amazingbookdownloaderbot) / [Convert to Text](https://github.com/VikParuchuri/libgen_to_txt) / [Backup](https://redd.it/edwi9b) / [/r/libgen](https://reddit.com/r/libgen)
 
 ***
 
@@ -606,7 +606,7 @@
 * ⭐ **[Simply Optimized](https://modrinth.com/modpack/sop)**
 * [Sodium](https://modrinth.com/mod/sodium) / [Indium](https://github.com/comp500/Indium/) / [Extra](https://modrinth.com/mod/sodium-extra) / [Nvidia Rendering](https://github.com/MCRcortex/nvidium)
 
-[OptiFine](https://optifine.net/), [Ferrite Core](https://modrinth.com/mod/ferrite-core), [Caffeine](https://github.com/CaffeineMC), [Lithium](https://modrinth.com/mod/lithium), [Ares](https://www.aresclient.com/), [VulkanMod](https://github.com/xCollateral/VulkanMod), [essential](https://modrinth.com/mod/essential)
+[OptiFine](https://optifine.net/), [Ferrite Core](https://modrinth.com/mod/ferrite-core), [Caffeine](https://github.com/CaffeineMC), [Lithium](https://modrinth.com/mod/lithium), [Ares](https://www.aresclient.com/), [VulkanMod](https://github.com/xCollateral/VulkanMod)
 
 ***
 
@@ -633,7 +633,7 @@
 * ⭐ **[PrismLauncher](https://prismlauncher.org/)** / [GitHub](https://github.com/PrismLauncher/PrismLauncher) / [Free Method](https://rentry.co/Prism4Free) / [Offline Bypass](https://github.com/antunnitraj/Prism-Launcher-PolyMC-Offline-Bypass) / [Ely.by Version](https://github.com/Octol1ttle/ElyPrismLauncher) - Feature-rich Launcher
 * ⭐ **[SkLauncher](https://skmedix.pl/)** - User-friendly Launcher / Use Chrome or Disable Adblock to see Downloads
 * ⭐ **[ATLauncher](https://atlauncher.com/)** - Modpack Launcher
-* ⭐ **[Pojav](https://pojavlauncherteam.github.io/)** - Java Edition for Android / iOS
+* ⭐ **[Pojav](https://pojavlauncherteam.github.io/)** - Java Edition for Android / iOS / Requires Legit Copy
 * [MC Version Launcher](https://github.com/MCMrARM/mc-w10-version-launcher) - Multi-Version Launcher
 * [CheatBreaker](https://cheatbreaker.net/) - Anti-Cheat / FPS Boost / [GitHub](https://github.com/CheatBreakerNet)
 
@@ -665,7 +665,7 @@
 * ⭐ **[JetBrains](https://jetbrains.com/)** - [License Server](https://github.com/crazy-max/docker-jetbrains-license-server)
 * ⭐ **[Free for Developers](https://free-for.dev/)**
 
-[SmallDev.tools](https://smalldev.tools/), [WebdevHome](https://webdevhome.github.io/), [Eclipse Foundation](https://www.eclipse.org/), [DevBox](https://intab.io/resources/), [Free Developer Stuff](https://freestuff.dev/), [Tiny Tools](https://tinytools.directory/), [Clean CSS](https://www.cleancss.com/), [Dev Resources](https://devresourc.es/), [FreeFormatter.com](https://freeformatter.com/), [Utilities and Tools Online](https://utilities-online.info/), [Free Online Tools for Everyone](https://online-toolz.com/), [Online String Tools](https://onlinestringtools.com/), [Coders Tool](https://www.coderstool.com/), [Prototypr](https://prototypr.io/toolbox/page/1), [AppDevTools](https://appdevtools.com/), [IT Tools](https://it-tools.tech/), [Addy](https://toolkit.addy.codes/), [Omatsuri](https://omatsuri.app/), [devina](https://devina.io/), [wangchujiang](https://wangchujiang.com/tools/), [quickso](https://tools.quickso.cn/ )
+[SmallDev.tools](https://smalldev.tools/), [WebdevHome](https://webdevhome.github.io/), [Eclipse Foundation](https://www.eclipse.org/), [DevBox](https://intab.io/resources/), [Free Developer Stuff](https://freestuff.dev/), [Tiny Tools](https://tinytools.directory/), [Clean CSS](https://www.cleancss.com/), [Dev Resources](https://devresourc.es/), [FreeFormatter.com](https://freeformatter.com/), [Utilities and Tools Online](https://utilities-online.info/), [Free Online Tools for Everyone](https://online-toolz.com/), [Online String Tools](https://onlinestringtools.com/), [Coders Tool](https://www.coderstool.com/), [Prototypr](https://prototypr.io/toolbox/page/1), [AppDevTools](https://appdevtools.com/), [IT Tools](https://it-tools.tech/), [Addy](https://toolkit.addy.codes/), [Omatsuri](https://omatsuri.app/), [devina](https://devina.io/), [wangchujiang](https://wangchujiang.com/tools/), [quickso](https://tools.quickso.cn/)
 
 ***
 
@@ -828,7 +828,7 @@
 
 ### Random Sites
 
-[BoredButton](https://www.boredbutton.com/), [Sharkle!](https://sharkle.com/), [The Useless Web](https://theuselessweb.com/) / [2](https://theuselessweb.site/), [JumpStick](https://jumpstick.app/), [OpenBulkURL](https://openbulkurl.com/random/), [The Forest](https://theforest.link/), [WhatsMYIP](http://random.whatsmyip.org/), [Random-Website](https://random-website.com/), [Wilderness Land](https://wilderness.land/), [CloudHiker](https://cloudhiker.net/), [Moonjump](https://moonjump.app/)
+[The Red Button](https://clicktheredbutton.com/), [BoredButton](https://www.boredbutton.com/), [Sharkle!](https://sharkle.com/), [The Useless Web](https://theuselessweb.com/) / [2](https://theuselessweb.site/), [JumpStick](https://jumpstick.app/), [OpenBulkURL](https://openbulkurl.com/random/), [The Forest](https://theforest.link/), [WhatsMYIP](http://random.whatsmyip.org/), [Random-Website](https://random-website.com/), [Wilderness Land](https://wilderness.land/), [CloudHiker](https://cloudhiker.net/), [Moonjump](https://moonjump.app/)
 
 ***
 
@@ -1121,8 +1121,9 @@
 ## Website Creators
 
 * ⭐ **[Hugo](https://gohugo.io/)**
+* ⭐ **[vitepress](https://vitepress.dev/)**
 
-[vitepress](https://vitepress.dev/), [retype](https://retype.com/), [Feather Wiki](https://feather.wiki/), [SouPalt](https://soupault.app/), [Barly](https://github.com/charludo/barely), [Zola](https://www.getzola.org/), [Jamstack Generators](https://jamstack.org/generators/), [Jekyll](https://jekyllrb.com/), [Tails](https://devdojo.com/tails), [vveb](https://www.vvveb.com/), [Potion](https://potion.so/), [8b](https://8b.com/), [WebFlow](https://webflow.com/), [EasyLogic](https://www.easylogic.studio/), [Universe](https://onuniverse.com/), [Website.com](https://www.website.com/), [GrapeDrop](https://grapedrop.com/), [Specctr](https://specctr.com/cloud/home), [Astro](https://astro.build/), [TypeDream](https://typedream.com/), [Processwire](https://processwire.com/), [Google Sites](https://sites.google.com/new), [AngelFire](https://www.angelfire.lycos.com/)
+[retype](https://retype.com/), [Feather Wiki](https://feather.wiki/), [SouPalt](https://soupault.app/), [Barly](https://github.com/charludo/barely), [Zola](https://www.getzola.org/), [Jamstack Generators](https://jamstack.org/generators/), [Jekyll](https://jekyllrb.com/), [Tails](https://devdojo.com/tails), [vveb](https://www.vvveb.com/), [Potion](https://potion.so/), [8b](https://8b.com/), [WebFlow](https://webflow.com/), [EasyLogic](https://www.easylogic.studio/), [Universe](https://onuniverse.com/), [Website.com](https://www.website.com/), [GrapeDrop](https://grapedrop.com/), [Specctr](https://specctr.com/cloud/home), [Astro](https://astro.build/), [TypeDream](https://typedream.com/), [Processwire](https://processwire.com/), [Google Sites](https://sites.google.com/new), [AngelFire](https://www.angelfire.lycos.com/)
 
 ### Simple Site Creators
 

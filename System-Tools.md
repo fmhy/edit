@@ -24,7 +24,7 @@
 * [RegExp](https://github.com/zodiacon/TotalRegistry), [ripgrep-all](https://github.com/phiresky/ripgrep-all) or [Registry-Finder](https://registry-finder.com/) - Registry Explorers
 * [WinbIndex](https://winbindex.m417z.com/) - Windows System Files / Binaries
 * [OfflineInsiderEnroll](https://github.com/abbodi1406/offlineinsiderenroll) - Enable Windows Insider without Account
-* * [Google Assistant Desktop Client](https://github.com/Melvin-Abraham/Google-Assistant-Unofficial-Desktop-Client) or [Leon](https://getleon.ai/) - AI Assistant
+* [Google Assistant Desktop Client](https://github.com/Melvin-Abraham/Google-Assistant-Unofficial-Desktop-Client) or [Leon](https://getleon.ai/) - AI Assistant
 * [Rhasspy](https://rhasspy.readthedocs.io/en/latest/) - Voice Assistant
 * [Windrecorder](https://github.com/yuka-friends/Windrecorder/) - Memory Search App / System Recorder
 * [Time.is](https://time.is/) - Check Accuracy of System Clock
@@ -33,7 +33,7 @@
 
 ## ▷ System Debloating
 
-* **Warning** - It's not recommended to use debloaters unless you know what you're doing. Always research first, never just "Apply All" randomly.
+**Warning** - It's not recommended to use debloaters unless you know what you're doing. Always research first, never just "Apply All" randomly.
 
 ***
 
@@ -53,6 +53,7 @@
 * ⭐ **[EverythingToolbar](https://github.com/srwi/EverythingToolbar)** or [yasb](https://github.com/da-rth/yasb) - Improved Taskbars
 * ⭐ **[Open Shell](https://open-shell.github.io/Open-Shell-Menu/)** or [ValliStart](https://github.com/Jax-Core/ValliStart) - Improved Start Menus
 * ⭐ **[EarTrumpet](https://eartrumpet.app/)**, [Volumey](https://github.com/G-Stas/Volumey) or [Volume2](https://github.com/irzyxa/Volume2) - Improved Volume Mixer
+* ⭐ **[AltSnap](https://github.com/RamonUnch/AltSnap)** - Improved Windows Dragging
 * [Couleur Tweak Tips (Discord)](https://discord.gg/CTT) - Windows Tweaking Guides
 * [MajorGeeks Windows Tweaks](https://www.majorgeeks.com/files/details/majorgeeks_registry_tweaks.html), [Winaero](https://winaero.com/), [QuickBoost](https://github.com/SanGraphic/QuickBoost) or [Windhawk](https://windhawk.net/) - System Tweaking Tools / **[Warning](https://pastebin.com/vMYCiAGE)**
 * [abbodi1406](https://forums.mydigitallife.net/threads/abbodi1406s-batch-scripts-repo.74197/), [BatUtil](https://github.com/abbodi1406/BatUtil) or [TechNet-Gallery](https://github.com/MScholtes/TechNet-Gallery) - System Scripts
@@ -98,12 +99,12 @@
 * 🌐 **[Awesome CLI Apps](https://github.com/agarrharr/awesome-cli-apps)** or [Command Line Tools](https://github.com/learn-anything/command-line-tools) - Command Line Resources
 * ⭐ **[Clink](https://github.com/chrisant996/clink)** - Command Line Editing
 * ⭐ **[ss64](https://ss64.com/)** - Command Line Reference Index
-* [Windows Terminal](https://www.microsoft.com/store/productId/9N0DX20HK701) / [2](https://github.com/microsoft/terminal/), [kitty](https://sw.kovidgoyal.net/kitty/), [Tess](https://github.com/SquitchYT/Tess), [ConEmu](https://github.com/Maximus5/ConEmu), [Hyper](https://hyper.is/), [Terminus](https://eugeny.github.io/terminus/), [console 2](https://github.com/cbucher/console), [Tabby](https://tabby.sh/) or [MobaXterm](https://mobaxterm.mobatek.net/) - Windows Terminals
+* [Windows Terminal](https://www.microsoft.com/store/productId/9N0DX20HK701) / [2](https://github.com/microsoft/terminal/), [kitty](https://sw.kovidgoyal.net/kitty/), [Tess](https://github.com/SquitchYT/Tess), [ConEmu](https://github.com/Maximus5/ConEmu), [Hyper](https://hyper.is/), [Tabby](https://tabby.sh/), [console 2](https://github.com/cbucher/console), or [MobaXterm](https://mobaxterm.mobatek.net/) - Windows Terminals
 * [BusyBox](https://frippery.org/busybox/) - Unix Commands for Windows
 * [Tiny Care Terminal](https://github.com/notwaldorf/tiny-care-terminal) - Terminal Dashboard That Cares
 * [Gradient Terminal](https://github.com/aurora-0025/gradient-terminal) - Display Terminal Output as Gradient
 * [Command Challenge](https://cmdchallenge.com/) - Command Line Learning
-* [Alacritty](https://github.com/alacritty/alacritty), [Fluent Terminal](https://github.com/felixse/FluentTerminal), [Tabby](https://eugeny.github.io/tabby/), [Wives](https://github.com/KRTirtho/wives), [ExtraTerm](https://extraterm.org/) or [Terminus](https://github.com/Eugeny/tabby) - Terminal Emulators
+* [Alacritty](https://github.com/alacritty/alacritty), [Fluent Terminal](https://github.com/felixse/FluentTerminal), [Tabby](https://tabby.sh/), [Wives](https://github.com/KRTirtho/wives), or [ExtraTerm](https://extraterm.org/) - Terminal Emulators
 * [Mintty](https://mintty.github.io/) - Cygwin Terminal Emulator
 * [GetDNote](https://www.getdnote.com/) - Command Line Notebook
 * [cmder](https://cmder.app) - Console Emulator Package / [GitHub](https://github.com/cmderdev/cmder)
@@ -173,7 +174,6 @@
 * [MiguruWM](https://github.com/imawizard/MiguruWM)
 * [DWM](https://github.com/prabirshrestha/dwm-win32)
 * [United Sets](https://github.com/Windows-Apps-Hub/UnitedSets) - Group Windows Into Tabs
-* [AltSnap](https://github.com/RamonUnch/AltSnap) - Improved Windows Dragging
 
 ***
 
@@ -239,7 +239,6 @@
 * [AMDDebloat](https://rentry.co/AMDDebloat) or [RadeonSoftwareSlimmer](https://github.com/GSDragoon/RadeonSoftwareSlimmer) - Debloat AMD Drivers
 * [SMCAMDProcessor](https://github.com/trulyspinach/SMCAMDProcessor) - AMD Processor Power Management
 * [PresentMon](https://github.com/GameTechDev/PresentMon) - GPU Benchmarking
-* [AutoGpuAffinity](https://github.com/amitxv/AutoGpuAffinity/) - Singe-Core GPU Benchmarking
 * [Easy-GPU-PV](https://github.com/jamesstringerparsec/Easy-GPU-PV) - Easy GPU Paravirtualization
 * [GsyncSwitch](https://github.com/kwizatz88/GsyncSwitch) - Switch G-Sync or HDR on/off
 * [ThrottleStop](https://www.techpowerup.com/download/techpowerup-throttlestop/) - Laptop CPU Monitor / Optimizer
@@ -276,6 +275,7 @@
 
 * ⭐ **[DisplayFusion](https://www.displayfusion.com/)** or [Dual Monitor Tool](https://sourceforge.net/projects/dualmonitortool/) - Dual Monitor Tools
 * ⭐ **[f.lux](https://justgetflux.com/)**, [LightBulb](https://github.com/Tyrrrz/LightBulb), [ScreenTemperature](https://github.com/massaiTHEdog1/ScreenTemperature) or [SunsetScreen](https://www.skytopia.com/software/sunsetscreen/index.htm) - Adjust Display Color / Temperature
+* ⭐ **[Monitorian](https://github.com/emoacht/Monitorian)** or **[Twinkle Tray](https://twinkletray.com/)** / [GitHub](https://github.com/xanderfrangos/twinkle-tray) - Adjust Monitor Brightness
 * [Display Driver Uninstaller](https://www.wagnardsoft.com/display-driver-uninstaller-ddu-), [2](https://www.guru3d.com/download/display-driver-uninstaller-download) - Display Driver Removal Tool / [GitHub](https://github.com/Wagnard/display-drivers-uninstaller)
 * [EIZO](https://www.eizo.be/monitor-test/), [Monitor](https://www.monitortests.com/) or [LCDTech](https://lcdtech.info/en/tests/) - Monitor Performance Tests
 * [TestUFO](https://www.testufo.com/) - Monitor Framerate Test
@@ -283,8 +283,6 @@
 * [Scalizer](https://github.com/wonmor/Scalizer-Windows) - Auto DPI Scaling / [YouTube](https://youtu.be/f_3XWlmyat4)
 * [ICM](https://rentry.co/ICM) or [ICC Profiles](https://tftcentral.co.uk/articles/icc_profiles) - ICC Profiles and Monitor Calibration
 * [Multi-Monitor Calculator](https://multimonitorcalculator.com/) - Dual-Monitor Setup Planning / Tests
-* [Dimmer](https://www.nelsonpires.com/software/dimmer) or [Monitorian](https://github.com/emoacht/Monitorian) - Dual-Monitor Brightness Control
-* [Twinkle Tray](https://twinkletray.com/) - System Tray Brightness Slider
 * [Wide Gamut](https://www.wide-gamut.com/) - Color Compatibility Test
 * [WhiteScreen](https://www.whitescreen.online/) - Screen Color Test
 * [Dead.Pixel](https://lcdtech.info/en/tests/dead.pixel.htm) - Dead Pixel Test

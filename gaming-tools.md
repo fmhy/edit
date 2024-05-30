@@ -15,6 +15,7 @@
 * ⭐ **[r/tipofmyjoystick](https://www.reddit.com/r/tipofmyjoystick/)** - Find Games via Screenshot or Description
 * ⭐ **[Game Pauser](https://madebyjase.com/game-pauser/)** - Pause Unpausable Cutscenes
 * ⭐ **[Valve Archive](https://valvearchive.com/)** - Rare Valve Data Archive
+* [Ludusavi](https://github.com/mtkennerly/ludusavi) or [GameSave Manager](https://www.gamesave-manager.com/) - Video Game Backup Tools
 * [Play Old PC Games](https://www.play-old-pc-games.com/) - Retro PC Game Setup Guides
 * [humble-cli](https://github.com/smbl64/humble-cli) - Humble Bundle CLI
 * [Gog To Free](https://greasyfork.org/en/scripts/481134) - Add Piracy Site Links to GOG Store
@@ -104,8 +105,9 @@
 * [Steam Inventory Helper](https://steaminventoryhelper.com/) - Steam Inventory Enhancement Extension
 * [ArchiFarm](https://github.com/JustArchiNET/ArchiSteamFarm) - Farm Steam Trading Cards
 * [Fuck Off EA App](https://github.com/p0358/Fuck_off_EA_App) - Use Origin Instead of EA App
+* [/r/SteamDeckPirates](https://www.reddit.com/r/SteamDeckPirates/) - Steam Deck Piracy Subreddit
 * [Bazzite](https://bazzite.gg/) - Alt Steam Deck OS
-* [Decky Loader](https://decky.xyz/ ) - Steam Deck Plugin Loader / [GitHub](https://github.com/SteamDeckHomebrew/decky-loader)
+* [Decky Loader](https://decky.xyz/) - Steam Deck Plugin Loader / [Plugins](https://plugins.deckbrew.xyz/) / [GitHub](https://github.com/SteamDeckHomebrew/decky-loader)
 * [Steam Deck Tools](https://steam-deck-tools.ayufan.dev) - Fan Overlay, Power Control and Steam Controller
 * [great-on-deck-search](https://github.com/cptpiepmatz/great-on-deck-search) - Verified Steam Deck Game Search
 * [Steam-Deck.Force](https://github.com/scawp/Steam-Deck.Force-SteamOS-On-Boot) - Force SteamOS Boot
@@ -202,13 +204,14 @@
 * [CnCNet](https://cncnet.org/) - Multiplayer Command & Conquer / [Discord](https://discord.com/invite/aJRJFe5)
 * [Factorio.zone](https://factorio.zone/) - Free Factorio Servers
 * [Rusticaland](https://rusticaland.net/) - Free Rust Servers / [Discord](https://discord.com/invite/MD9RgdYhpf)
+* [Rust Labs](https://rustlabs.com/) - Rust Info / Tools
 * [Old School RuneScape](https://oldschool.runescape.com/) - Classic Runescape / [Discord](https://discord.com/invite/osrs)
 * [NolfRevival](http://nolfrevival.tk/) - NOLF, NOLF 2 & Contract Jack
 * [Mega Man Arena](https://www.megamanarena.com/) or [Megaman 2.5D](https://petersjostrand.com/) - Multiplayer Mega Man
 * [Toontown Rewritten](https://www.toontownrewritten.com/) - Toontown Multiplayer Revival
 * [Overwolf](https://www.overwolf.com/) - Create In-Game Overlay Apps
 * [Tracker.gg](https://tracker.gg/) - Game Leaderboards / Stats
-* [Plutonium](https://plutonium.pw/) - Black Ops 2 / MW3 Mod Project / [Discord](https://discord.gg/d95y8ah)
+* [Plutonium](https://plutonium.pw/) - Black Ops 2 / MW3 Mod Project / [Discord](https://discord.gg/d95y8ah) / Requires Legit Copy
 * [t7patch](https://github.com/shiversoftdev/t7patch) - Black Ops 3 Crash Fix
 * [Venice Unleashed](https://veniceunleashed.net/) / [Discord](https://discord.com/invite/dpJwaVZ) or [Warsaw Revamped](https://warsaw-revamped.com/) / [Discord](https://discord.com/invite/C9Zrh4G) - Battlefield Mod Projects
 * [BF2142 Reclamation](https://battlefield2142.co/) - BF2142 Multiplayer Project / [Discord](https://discord.gg/MEwBW9U)
@@ -243,7 +246,7 @@
 * ⭐ **[ModDB](https://moddb.com/)** - Game Mods
 * ⭐ **[Nexus Mods](https://www.nexusmods.com/)** - Game Mods / [Bulk Downloader](https://greasyfork.org/en/scripts/483337) / [Redirect Skip](https://greasyfork.org/en/scripts/394039) / [Discord](https://discord.com/invite/nexusmods)
 * ⭐ **[ModdingLinked](https://moddinglinked.com/)** - Bethesda Game Modding Guides / [Discord](https://discord.com/invite/S99Ary5eba)
-* [ModOrganizer](https://github.com/ModOrganizer2/modorganizer) - Mod Manager
+* [ModOrganizer](https://github.com/ModOrganizer2/modorganizer) or [WeMod](https://rentry.co/fmhybase64#wemod) - Mod Managers
 * [Otis_Inf Camera Mods](https://redd.it/hvttbd) - Game Camera Mods Index
 * [mod.io](https://www.mod.io/) - Cross Platform Game Mods Support / [Discord](https://discord.com/invite/modio)
 * [WabbaJack](https://www.wabbajack.org/) / [Discord](https://discord.com/invite/wabbajack) - Automated Modlist Installer
@@ -284,7 +287,6 @@
 * [YourSaveGames](https://www.yoursavegames.com/) - PC / PSP
 * [SaveGame.Pro](https://savegame.pro/) - PC
 * [Saves For Games](https://savesforgames.com/) - PC
-* [Ludusavi](https://github.com/mtkennerly/ludusavi) or [GameSave Manager](https://www.gamesave-manager.com/) - Video Game Backup Tools
 * [Save Location](https://savelocation.net/) - Game Save Locations
 * [Save Editor Online](https://www.saveeditonline.com/) - Game Save Editor
 * [MegaGames](https://megagames.com/), [GTrainers](https://gtrainers.com/) or [GameCopyWorld](https://www.gamecopyworld.com/games/index.php) - Game Trainers
@@ -313,7 +315,7 @@
 * 🌐 **[Mousepad Mastersheet](https://docs.google.com/spreadsheets/d/1RAnmZxDNduaGV8kB-GCvZ0MO6d9-0j9jmrU2f8dp0Ww/)** - Mousepad Comparison Chart
 * 🌐 **[Click Latencies](https://docs.google.com/spreadsheets/d/1-QI7-LY9Ul_DsVE4ZOqBQxqqqqrdJ04Ite8IY3AQMds/)** - Mouse Click Latency Chart
 * ⭐ **[Before I Play](https://beforeiplay.com/)** - Tips for any Game
-* ⭐ **[GamingSmart](https://gamingsmart.com/)** - Game Sensitivity Converters
+* ⭐ **[GamingSmart](https://gamingsmart.com/)** or [Mouse Sensitivity](https://www.mouse-sensitivity.com/) - Game Sensitivity Converters / Tools
 * ⭐ **[Aim400kg](https://aim400kg.com/)**, [3D Aim Trainer](https://www.3daimtrainer.com/), [Aimlabs](https://aimlabs.com/), [Aiming.Pro](https://aiming.pro/) or [AimTrainer](https://aimtrainer.io/) - Aim Training
 * [GameGuides](https://www.gamerguides.com/), [Retro Guides](https://rentry.co/FMHYBase64#retro-game-strategy-guides), [Game8](https://game8.co/), [StrategyWiki](https://strategywiki.org/), [Samurai Gamers](https://samurai-gamers.com/), [UHS Hints](https://www.uhs-hints.com/) or [Kirklands](https://archive.org/details/kirklands-manual-labor-sony-playstation-2-usa-4k-version) - Game Guides
 * [Piper](https://github.com/libratbag/piper) - Gaming Mouse Config Tool
@@ -368,10 +370,14 @@
 * ⭐ **[Hacks.Guide](https://hacks.guide/)**, **[CFW Guide](https://cfw.guide/)**, [ConsoleMods.org](https://consolemods.org/) / [Discord](https://discord.gg/x5vEnkR4C8), [Digiex](https://digiex.net/forums/), [Homebrew Guides](https://rentry.co/Guides), [CFWaifu](https://www.cfwaifu.com/), [Homebrew General](https://www.homebrewgeneral.net/) or [Gamebrew](https://www.gamebrew.org/) - Homebrew Guides
 * ⭐ **[Nintendo Homebrew](https://discord.gg/C29hYvh)** - Nintendo Homebrew Discord
 * ⭐ **[GBATemp](https://gbatemp.net/)** - Homebrew Forum
+* [/r/Homebrew](https://www.reddit.com/r/homebrew/) - Homebrew Subreddit
 * [Game Boy Tech Page](https://web.archive.org/web/19990209041732/http://home.hiwaay.net/%7Ejfrohwei/gameboy/home.html) - Game Boy Tools
 * [Game Boy Book Reader](https://www.mqp.com/fun/) - Game Boy Book Reader
 * [NESC-SNESC-Modifications](https://github.com/KMFDManic/NESC-SNESC-Modifications) - NES, SNES & Playstation Mods
 * [ModMyClassic](https://modmyclassic.com/) - Classic Console Mods
+* [N64Brew](https://n64brew.dev/wiki/Main_Page) - N64 Homebrew Wiki
+* [/r/XboxModding](https://www.reddit.com/r/XboxModding/) or [/r/XboxRetailHomebrew](https://www.reddit.com/r/XboxRetailHomebrew/) - Xbox Homebrew Subreddits
+* [/r/XboxHomebrew](https://www.reddit.com/r/XboxHomebrew/) - Xbox One/Series Homebrew Subreddit
 * [/r/360Hacks Guide](https://redd.it/8y9jql) - Xbox 360 Modding Guide
 * [C-Xbox Tool](https://gbatemp.net/download/c-xbox-tool.7615/) - .XBE to ISO File Converter
 * [NASOS](https://download.digiex.net/Consoles/GameCube/Apps/NASOSbeta1.rar) - Gamecube iso.dec to ISO Converter
@@ -396,6 +402,7 @@
 ## ▷ Wii U / Wii Homebrew
 
 * ⭐ **[WiiBrew](https://wiibrew.org/)** - Wii Homebrew Wiki
+* ⭐ **[WiiUBrew](https://wiiubrew.org/wiki/Main_Page)** - WiiU Homebrew Wiki
 * ⭐ **[Wii U Hacks Guide](https://wiiu.hacks.guide/)** - Wii U Jailbreak Guide
 * ⭐ **[Wii Hacks Guide](https://wii.hacks.guide/)** - Wii Jailbreak Guides
 * ⭐ **[Wiimmfi](https://wiimmfi.de/)** - Wii Multiplayer Servers
@@ -417,6 +424,7 @@
 * [Pretendo](https://pretendo.network/) - 3DS Network Replacement / [Discord](https://invite.gg/pretendo)
 * [Universal DB](https://db.universal-team.net/) - 3DS / DS Modding Apps
 * [Theme Plaza](https://themeplaza.art/themes) - 3DS Themes / [Discord](https://discord.com/invite/Pz25PX5vr5)
+* [Artic Base](https://github.com/PabloMK7/ArticBaseServer) - Play Physical 3DS Games on Citra
 * [BootNTR](https://github.com/Nanquitas/BootNTR) - Stream 3DS to PC or Mac / [Instructions](https://gbatemp.net/threads/3ds-screen-recording-without-a-capture-card-ntr-cfw-method.423445/)
 * [/r/3DSPiracy](https://www.reddit.com/r/3dspiracy/) or [3DSHacks](https://reddit.com/r/3dshacks/) - 3DS Modding Subreddit
 * [FlagBrew](https://flagbrew.org/) - 3DS Homebrew Apps / [Discord](https://discord.com/invite/4Rv8DTzGFa)
@@ -431,10 +439,11 @@
 
 * ⭐ **[PS4 Modding](https://youtu.be/vGhSgogxaG8)**, [PSX Hax](https://www.psxhax.com/), [PSDevWiki](https://www.psdevwiki.com/) or [Wololo](https://wololo.net/) - Playstation Modding Guides
 * [Chiaki](https://git.sr.ht/~thestr4ng3r/chiaki) - PS4 / PS5 Remote Play Client
-* [PS4Homebrew](https://www.reddit.com/r/ps4homebrew/) - PS4 Homebrew Subreddits
+* [/r/PS5Homebrew](https://www.reddit.com/r/ps5homebrew/) - PS5 Homebrew Subreddit
+* [/r/PS4Homebrew](https://www.reddit.com/r/ps4homebrew/) - PS4 Homebrew Subreddit
 * [Exploit Host](https://github.com/Al-Azif/ps4-exploit-host) - PS4 Exploit Hosting
 * [DarkSoftware](https://www.darksoftware.xyz/) - PS4 / PS3 Firmware
-* [/r/ps3homebrew](https://reddit.com/r/ps3homebrew) - PS3 Homebrew Subreddit
+* [/r/PS3Homebrew](https://reddit.com/r/ps3homebrew) - PS3 Homebrew Subreddit
 * [PS3 Disc Dumper](https://github.com/13xforever/ps3-disc-dumper) - Decrypted PS3 Disc Dumper
 * [PS3 Game Updater](https://www.psx-place.com/threads/ps3-game-updater-v1-5-psn-liberator-v0-96b-rudi-rastelli-adds-ps3p-pkg-ripper-support.3766/), [Rusty Pan](https://github.com/RainbowCookie32/rusty-psn) or [Manually Updated](http://demo.aldostools.org/updates.html) - Update PS3 Games
 * [PS3Themes](http://www.ps3-themes.com/) - PS3 Themes
@@ -503,7 +512,7 @@
 * ↪️ **[Minecraft Launchers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_minecraft_launchers)** - [Beta](https://betacraft.uk/) / [Bedrock](https://bedrocklauncher.github.io/) / [Win10 Edition](https://rentry.co/FMHYBase64#minecraft-win-10-unlock)
 * ↪️ **[Minecraft Mods](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_minecraft_mods)**
 * ↪️ **[Minecraft Optimization](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_minecraft_optimization_mods)**
-* ⭐ **[Eaglercraft](https://eaglercraft.com/)** - Browser Minecraft / [Source](https://git.eaglercraft.rip/eaglercraft) / [Note](https://pastebin.com/wpDZzgN5) / [Client](https://eaglercraftx1-8.github.io/1.8/resent4.0/index.html) / [Mod Client](https://eaglerforge.github.io/) / [Mod Search](https://eaglerrinth.github.io/) 
+* ⭐ **[Eaglercraft](https://eaglercraft.com/)** - Browser Minecraft / [Source](https://git.eaglercraft.rip/eaglercraft) / [Note](https://pastebin.com/wpDZzgN5) / [Client](https://eaglercraftx1-8.github.io/1.8/resent4.0/index.html) / [Mod Client](https://eaglerforge.github.io/) / [Mod Search](https://eaglerrinth.github.io/)  / [Code Mods](https://eaglerforge-builder.vercel.app/)
 * ⭐ **[Minecraft Wiki](https://minecraft.wiki/)** or [DigiMinecraft](https://www.digminecraft.com/) - Minecraft Resources / Guides
 * ⭐ **[MCModdingGuide](https://rentry.org/MCModdingGuide)** - Minecraft Modding Guide
 * ⭐ **[Couleur Tweak Tips](https://ctt.cx/)** - Minecraft Tweaks / Tips / [Discord](https://discord.gg/CTT)
@@ -617,11 +626,12 @@
 * 🌐 **[GTAAll](https://www.gtaall.com/)**, [GTAInside](https://gtainside.com/), [GameModding](https://gamemodding.com/), [GTAGarage](https://gtagarage.com/) or [LibertyCity](https://libertycity.net/) - GTA Mods, Walkthroughs & More
 * 🌐 **[GTA5-Mods](https://www.gta5-mods.com/)** - GTAV Mods
 * 🌐 **[MixMods](https://www.mixmods.com.br/)** - GTASA Mods
-* ⭐ **[FiveM](https://fivem.net/)** - Modded GTAV Servers
+* ⭐ **[FiveM](https://fivem.net/)** - Modded GTAV Servers / Requires Legit Copy
 * ⭐ **[San Andreas: Multiplayer](https://www.sa-mp.mp/)** - Multiplayer GTA:SA / [Discord](https://discord.com/invite/samp)
 * ⭐ **[CLEO](https://cleo.li/)** - Extensible Library Plugin For GTA III, VC & SA / [Discord](https://discord.com/invite/d5dZSfgBZr)
 * ⭐ **[SilentPatch](https://cookieplmonster.github.io/mods/gta/)** - Quality of Life Fixes For GTA III, VC & SA
 * [Grand Theft Wiki](https://www.grandtheftwiki.com/Main_Page) - GTA Wiki
+* [GTA Cars](https://gtacars.net/) - GTA Car Database / Stats
 * [Rainbomizer](https://rainbomizer.com/) - GTA Randomizer Mods
 * [OpenIV](https://openiv.com/) - Rockstar Game Modding Tool
 * [Gillian's GTA](https://gillian-guide.github.io/) - GTA IV Modding Guide
@@ -654,7 +664,6 @@
 * ⭐ **[Mario Kart Midnight](https://wiki.tockdom.com/wiki/Mario_Kart_Midnight)** - Custom MKW Tracks / Multiplayer
 * ⭐ **[MKWRs](https://mkwrs.com)** or [MKLeaderboards](https://www.mkleaderboards.com/) - Mario Kart Records / Videos
 * ⭐ **[MKW Lobbies](https://wiimmfi.de/stats/mkw)** - Online MKW Lobbies
-* [Mario Kart Wii Tips](https://docs.google.com/document/u/1/d/e/2PACX-1vRZObe4loAptsyRU5Ba-k0WdNQPnT_1DhG_r4H7wKZFm6BsKs28aPREV_649xTRT2cPZdz26GOB3zbR/pub) - MKW Techniques, Glitches, & Exploits
 * [/r/MarioKart](https://www.reddit.com/r/mariokart/) or [/r/MarioKartWii](https://www.reddit.com/r/MarioKartWii/) - Mario Kart Subreddits
 * [RiiBalanced](https://drive.google.com/file/d/1AKJH3s0YpxQ09eud0EEd2YVFJ56f9VuO/view) - Rebalanced MKW Mod / [Discord](https://discord.gg/YZxyK4f3EU)
 * [TTs Online](https://redd.it/ie6gi7) - MKW Online Time Trials Mod
@@ -743,8 +752,10 @@
 * ⭐ **[Kanka](https://kanka.io/en-US)** - Tabletop RPG Manager
 * [RPG.net](https://forum.rpg.net/) - RPG Forums
 * [Adventurer's Codex](https://adventurerscodex.com) - Online D&D 5e Campaign Manager / System
-* [The Acaeum](https://www.acaeum.com/) - Dungeons & Dragons Database
+* [NaturalCrit](https://www.naturalcrit.com/) - Create D&D Homebrews / Badges
+* [FantasiaArchive](https://fantasiaarchive.com/) - World Building / Documenting Tool
 * [DnD World Building](https://arcadia.net/Cruinne/DnD/Articles/worldbuilding.html) - Fantasy World Building Guides
+* [The Acaeum](https://www.acaeum.com/) - Dungeons & Dragons Database
 * [Archives of Nethys](https://aonprd.com/) - Pathfinder Database
 * [WarGamer](https://www.wargamer.com/) - Tabletop RPG Guides
 * [Roll20](https://roll20.net/) or [Rolisteam](https://rolisteam.org/) - Tabletop RPG Streaming
