@@ -26,6 +26,17 @@
 
 ***
 
+## ▷ Linux Communities
+
+* ⭐ **[All Things Linux](https://discord.gg/linux)** - Linux Discord Server
+* [Linux.Chat](https://discord.gg/linuxchat) - Linux Discord Server
+* [Linux x Technology](https://linuxdiscord.com/) - Linux Discord Server
+* [Discord-Linux](https://discord.gg/discord-linux) - Linux Discord Server
+* [Linux.org](https://linux.org/) - Linux Forum
+* [Ezlinux](https://ezlinux.net/) - Linux Forum
+
+***
+
 ## ▷ Linux Guides
 
 * ⭐ **[Archwiki](https://wiki.archlinux.org/)** - Arch Linux Guide / [Manuals](https://man.archlinux.org/) / [TUI](https://codeberg.org/theooo/mantra.py)
@@ -45,10 +56,8 @@
 ## ▷ Linux System
 
 * 🌐 **[Awesome Gnome](https://github.com/Kazhnuz/awesome-gnome)** - GNOME Resources
-* ⭐ **[All Things Linux](https://discord.gg/linux)**, [Linux.Chat](https://discord.gg/linuxchat), [Linux x Technology](https://linuxdiscord.com/), or [Discord-Linux](https://discord.gg/discord-linux) - Linux Discord Servers
 * ⭐ **[Ventoy](https://www.ventoy.net)** / [GitHub](https://github.com/ventoy/Ventoy) or [Impression](https://gitlab.com/adhami3310/Impression) - Create Bootable USB Linux Drives
 * ⭐ **[Btop](https://github.com/aristocratos/btop)**, **[fastfetch](https://github.com/fastfetch-cli/fastfetch)**, **[MangoHud](https://github.com/flightlessmango/MangoHud)**, [CPU-X](https://github.com/TheTumultuousUnicornOfDarkness/CPU-X), [vtop](https://github.com/MrRio/vtop), [Macchina](https://github.com/Macchina-CLI/macchina), [Archey4](https://github.com/HorlogeSkynet/archey4), [Hyfetch](https://github.com/hykilpikonna/hyfetch) or [LM Sensors](https://github.com/lm-sensors/lm-sensors) or [s-tui](https://github.com/amanusk/s-tui) - System Info / Resource Monitors
-* [Linux.org](https://linux.org/) or [Ezlinux](https://ezlinux.net/) - Linux Forums
 * [DistroSea](https://distrosea.com/), [anuraOS](https://github.com/MercuryWorkshop/anuraOS) or [JSLinux](https://bellard.org/jslinux/) - Linux Browser Emulators
 * [SysmonForLinux](https://github.com/Sysinternals/SysmonForLinux) - Monitor / Log System Activity
 * [screenFetch](https://github.com/KittyKatt/screenFetch) - Bash Screenshot Information Tool
@@ -235,7 +244,7 @@
 * [AudioTube](https://invent.kde.org/multimedia/audiotube) - Audio Player
 * [Monophony](https://gitlab.com/Vistaus/monophony) - YouTube Music Client
 * [ytermusic](https://github.com/ccgauche/ytermusic/) - YouTube Music Downloader
-* [Deezer Linux](https://github.com/aunetx/deezer-linux or [DZR](https://github.com/yne/dzr) - Deezer Clients
+* [Deezer Linux](https://github.com/aunetx/deezer-linux) or [DZR](https://github.com/yne/dzr) - Deezer Clients
 * [Myuzi](https://gitlab.com/albanobattistella/myuzi) - Music Streaming App
 * [MusicPod](https://github.com/ubuntu-flutter-community/musicpod) - Podcast / Radio Player
 * [HeadsetControl](https://github.com/Sapd/HeadsetControl) - Headset Settings Manager
