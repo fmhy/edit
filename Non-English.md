@@ -1623,8 +1623,11 @@
 * [Film İzle](https://filmizle2022.info/) - Movies
 * [4kFilmizlesene](https://www.4kfilmizlesene.org/) - Movies
 * [Film İzlesene](https://www.filmizlesene.pro) - Movies
-* [Dizilab](https://dizilab.com/) - TV
 * [Film Mom](https://www.filmmom.de/) - Movies
+* [Dizipal](https://dizipal807.com/) - Movies / Series
+* [Dizipal (alternative)](https://dizipal735.com/) - Movies / Series
+* [İnatflix](https://hdfilmcehennemi4.xyz/) - Movies / Series
+* [Dizilab](https://dizilab.com/) - TV
 * [Dizibox](https://www.dizibox.in) - TV
 * [Turkish123](https://turkish123.com/) - TV
 * [Yoturkish](https://www.yoturkish.com) - TV
