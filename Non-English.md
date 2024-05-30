@@ -1595,7 +1595,7 @@
 # ► Turkish / Türkçe
 
 * [Firmaa](http://www.firmaa.com/) - Company Directory
-* [Playstationhaber](https://playstationhaber.com/) - PlayStation Piracy Forum
+* [Playstation Haber](https://playstationhaber.com/) - PlayStation Piracy Forum
 * [MCpsp](https://www.mcpsp.com) - PlayStation Piracy Forum
 * [En ucuz oyun](https://www.enucuzoyun.com) - Price Tracker
 * [Teyit](https://teyit.org) - News Confirmation
@@ -1606,11 +1606,11 @@
 * [Türkçe Altyazı](https://turkcealtyazi.org/index.php) - Subtitles
 * [Turkish Audio Center](https://www.turkishaudiocenter.com) - Voiceovers
 * [Shareses](https://shareses.com) - Voiceovers
-* [Türkce Ses İndir](https://www.turkcesesindir.com/) - Voiceovers
-* [DwForce](http://dwa-audio.blogspot.com/) - Voiceovers
-* [SinnerClown](https://sinnerclownceviri.net) - Game Localization / [Discord](https://discord.com/invite/nApvcT6Tt6)
-* [PixelSaga](https://discord.gg/ZZER4w3Mmx) - Game Localization Discord
-* [Calypso](https://discord.gg/calypsoceviri) - Game Localization Discord
+* [Türkçe Ses İndir](https://www.turkcesesindir.com/) - Voiceovers
+* [Dw Force](http://dwa-audio.blogspot.com/) - Voiceovers
+* [Sinner Clown](https://sinnerclownceviri.net) - Game Localization / [Discord](https://discord.com/invite/nApvcT6Tt6)
+* [Pixel Saga](https://discord.gg/ZZER4w3Mmx) - Game Localization Discord
+* [Calypso](https://discord.com/invite/9zJe7ttAjS) - Game Localization Discord
 * [Hangar](https://www.hangarceviri.com) - Game Localization / [Discord](https://discord.com/invite/hangar)
 
 ## ▷ Streaming
