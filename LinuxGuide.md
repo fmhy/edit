@@ -114,7 +114,7 @@
 
 ***
 
-## ► Window Managers
+## ▷ Window Managers
 
 * **Note** - Most Window Managers have a steep learning curve. Customization (or "ricing") is a requirement. [See below](https://fmhy.net/linuxguide#ricing-customization) for some resources.
 
