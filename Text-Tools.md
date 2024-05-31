@@ -60,7 +60,7 @@
 * [CentOS Pastebin](https://paste.centos.org/) - Multi-Syntax
 * [snippet.host](https://snippet.host/) - Multi-Syntax
 * [MicroBin](https://pub.microbin.eu/) / [Source](https://github.com/szabodanika/microbin) - Multi-Syntax
-* [ProtectedText](https://www.protectedtext.com/i) - Multi-Tab
+* [ProtectedText](https://www.protectedtext.com/) - Multi-Tab
 * [MarkdownPastebin](https://markdownpastebin.com/) - Markdown Support
 * [Sparked Paste](https://paste.sparked.host/) - Plain Text / Syntax Highlighting
 * [Riseup Pad](https://pad.riseup.net/) - WYSIWYG Pastebin
