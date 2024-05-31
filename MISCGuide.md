@@ -1326,6 +1326,7 @@
 * ⭐ **[TVTropes](https://tvtropes.org/)** - TV Tropes Wiki
 * ⭐ **[Ranker](https://www.ranker.com/)**, [Listography](https://listography.com/), [hero](https://hero.page/), [TheTopsTens](https://www.thetoptens.com/), [CopyPasteList](https://copypastelist.co/) or [ListVerse](https://listverse.com/) - Create / Explore Lists
 * ⭐ **[The Lost Media Wiki](https://lostmediawiki.com/)** / [Forum](https://forums.lostmediawiki.com/) / [Discord](https://discord.gg/NFsM8YbBYH)
+* ⭐ **[Goody2](https://www.goody2.ai/chat)** - Worlds Most Ethical AI
 * [Internet Map](https://internet-map.net/) - Map of the Internet
 * [Google Earth](https://www.google.com/earth/about/versions/) - Explore Earth
 * [Land Lines](https://lines.chromeexperiments.com/) - Explore Google Earth via Gestures
@@ -1379,7 +1380,6 @@
 * [Bestiefy](https://bestiefy.com/) - Friend Quizzes
 * [theOtaku](https://theotaku.com/quizzes) - Anime Personality Quizzes
 * [8dreams](https://8dreams.github.io/) - Political Alignment Test
-* [Goody2](https://www.goody2.ai/chat) - Worlds Most Ethical AI
 * [HowNormalAmI?](https://www.hownormalami.eu/) - Face Judge AI
 * [Face Shape AI](https://www.detect-face-shape.com) or [FaceShape](https://www.faceshape.com/) - Face Shape Detectors
 * [Face Age AI](https://www.howolddoilook.io) - AI Age Guessing
