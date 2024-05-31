@@ -668,7 +668,7 @@
 * ⭐ **[qView](https://interversehq.com/qview/)**
 * ⭐ **[XnView MP](https://www.xnview.com/en/xnviewmp/)**
 * ⭐ **[Digikam](https://www.digikam.org/)**
-* ⭐ **[ImageGlass](https://github.com/d2phap/ImageGlass)**
+* ⭐ **[ImageGlass](https://imageglass.org/)**
 * [nomacs](https://github.com/nomacs/nomacs)
 * [qimgv](https://github.com/easymodo/qimgv)
 * [PhotoQt](https://github.com/luspi/photoqt)
