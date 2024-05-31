@@ -614,6 +614,7 @@
 
 * ⭐ **[AccuWeather](https://app.accuweather.com/app-download)** / [Premium](https://forum.mobilism.org/search.php?keywords=accuweather&fid%5B%5D=398&sr=topics&sf=titleonly)
 * [Breezy Weather](https://github.com/breezy-weather/breezy-weather)
+* [OSS Weather](https://github.com/Akylas/oss-weather)
 * [Clima](https://codeberg.org/Lacerte/clima)
 * [Rain](https://github.com/DarkMooNight/Rain)
 * [KWeather](https://invent.kde.org/utilities/kweather)
