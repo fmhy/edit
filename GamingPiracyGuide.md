@@ -411,6 +411,7 @@
 * ⭐ **[Codenames](https://codenames.game/)** - Party Card Games
 * ⭐ **[GarticPhone](https://garticphone.com/)** - Telephone Game
 * ⭐ **[skribbl](https://skribbl.io/)**, [Sketchful](https://sketchful.io/), [Drawize](https://www.drawize.com/) or [Gartic](https://gartic.io/) - Drawing / Guessing Game / Multiplayer
+* [Pixoguess](https://pixoguess.io/) - Guess Pixelated Images
 * [Gpop.io](https://gpop.io/) - Rhythm Game
 * [Bloob.io](https://bloob.io/)
 * [Betrayal](https://betrayal.io/) - Among Us Clone
@@ -428,6 +429,7 @@
 ## ▷ Shooter
 
 * ⭐ **[Play-CS](https://play-cs.com/)** - Browser Counter-Strike 1.6
+* ⭐ **[NZP](https://nzp.gay/)** - Browser COD Zombies
 * ⭐ **[Krunker.io](https://krunker.io/)**, [2](https://browserfps.com/) - PvP FPS / [Market Ping](https://yee.how/market-ping/)
 * [OpenArena Live](https://kosmi.io/openarena) - Quake 3 Arena Clone
 * [Venge](https://venge.io/) - PvP FPS
@@ -441,6 +443,7 @@
 * [Operius](https://mors-games.itch.io/operius) - Space Shooter
 * [Galaxies](https://playcanv.as/p/Ikq6Uk6A/) - Space Combat Game 
 * [Tanki](https://tankionline.com/) or [Diep](https://diep.io/) - Online Team VS Team Tank Games
+* [webXash](https://x8bitrain.github.io/webXash/) - Half Life Demo
 
 ***
 
@@ -576,7 +579,7 @@
 * [picture dots](https://www.picturedots.com/) - Make & Play Dot Puzzles
 * [MakeAWordSearch](http://www.makeawordsearch.net/) - Word Search Creator
 * [RobinWords](https://www.robinwords.com/) - Word Ladder Game
-* [Sqword](https://www.sqword.com/) - Word Game
+* [Sqword](https://www.sqword.com/) or [Pixletters](https://pixletters.com/) - Word Games
 * [Oh, My Dots!](https://www.ohmydots.com/) - Connect the Dots Game
 * [Kuku Kube](https://kuku-kube.com/) - Find the Different Squares
 * [MazeGenerator](https://www.mazegenerator.net/), [Maze Toys](https://maze.toys/) or [Maze](https://www.epgsoft.com/maze/) - Maze Generators
