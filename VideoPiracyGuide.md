@@ -27,7 +27,7 @@
 * [media4u.top](https://discord.gg/QSYBhAEF78) - Movies / TV / Jellyfin / Plex / Emby / 1080p
 * [Ask4Movies](https://ask4movie.li/) - Movies / TV / 1080p / Use Adblock / [Script](https://pastebin.com/uJUc5ah5)
 * [M4uFree](https://ww2.m4ufree.com/) - Movies / TV / Anime / 1080p / [Mirrors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_m4ufree_clones)
-* [SmashyStream](https://embed.smashystream.com/) - Movies / TV / Anime / 1080p / [Telegram](https://t.me/+vekZX4KtMPtiYmRl)
+* [SmashyStream](https://smashystream.xyz/), [2](https://flix.smashystream.xyz/), [3](https://smashystream.com/) - Movies / TV / Anime / 1080p / [Telegram](https://t.me/+vekZX4KtMPtiYmRl)
 * [Youplex](https://youplex.site/) - Movies / TV / Anime / 4K / 1080p / No ads / [Telegram](https://t.me/youplexannouncments) / [Discord](https://discord.com/invite/5eWu9Vz6tQ)
 * [Nkiri](https://nkiri.cc/) - Movies / TV / 1080p / Ad-Free
 * [HollyMovieHD](https://hollymoviehd.cc/), [YesHD](https://yeshd.net/) or [NovaMovie](https://novamovie.net/) - Movies / TV / Anime / 1080p / [Mirrors](https://hollymoviehd-official.com/)
@@ -72,6 +72,7 @@
 * [2embed](https://www.2embed.cc/) - Movies / TV / API / 1080p
 * [VidSrc](https://vidsrc.to/) or [VidSrc.me](https://vidsrc.me/) - Movies / TV / Anime / API / 1080p / [Resolver](https://github.com/Ciarands/vidsrc-to-resolver)
 * [VidSrc.pro](https://vidsrc.pro/) - Movies / TV / Anime / API / 4K / 1080p
+* [SmashyStream API](https://embed.smashystream.com/)  - Movies / TV / Anime / API / 1080p
 * [VidDroid](https://github.com/callisto-jovy/Viddroid) - Streaming App
 * [TG-FileStreamBot](https://github.com/EverythingSuckz/TG-FileStreamBot) - Telegram File Streaming
 * [IMDb Scout](https://greasyfork.org/en/scripts/407284-imdb-scout-mod) - Add Stream Search Buttons to IMDb
@@ -136,6 +137,7 @@
 * ⭐ **[AllManga](https://allmanga.to/)** - Sub / Dub / 1080p / [](https://discord.gg/YbuYYUwhpP)
 * ⭐ **[GoGoAnime](https://gogoanime3.co/)**, [2](https://anitaku.to/) - Sub / Dub / 1080p
 * ⭐ **GoGoAnime Tools** - [Mirrors](https://gogotaku.info/) / [Download Script](https://greasyfork.org/en/scripts/465970) / [DL Guide](https://rentry.org/gogodlscript) / [Discord](https://discord.gg/kyVfcGuCCQ)
+* ⭐ **[Layendimator](https://github.com/Layendan/Layendanimator)**, [Akuse](https://github.com/akuse-app/Akuse), [Anikin](https://github.com/jerry08/Anikin) or [Miru](https://miru.js.org/en/) - Desktop Streaming Apps
 * ⭐ **[Japanese Animated Film Classics](https://animation.filmarchives.jp/index.html)** - Japanese Animated Film Archive
 * ⭐ **[Anime Streaming CSE](https://cse.google.com/cse?cx=006516753008110874046:vzcl7wcfhei)** / [CSE 2](https://cse.google.com/cse?cx=006516753008110874046:mrfarx7-dxu) or [Kuroiru](https://kuroiru.co/) - Multi-Site Anime Search
 * [AnimeCross](https://anime.cross.moe/) - Sub / 1080p / [Discord](https://discord.com/invite/3AxZvGArdm)
@@ -171,7 +173,6 @@
 * [Crimsonfansubs](https://crimsonfansubs.com/) - Chinese Anime / Sub / 1080p / Sub / [Discord](https://discord.gg/PmYn97vtue)
 * [Muse Asia](https://www.youtube.com/@MuseAsia) - Anime / Sub / Dub / 720p / Asian VPN Needed
 * [Ani-One Asia](https://www.youtube.com/@AniOneAsia) - Anime / Sub / Dub / 1080p / Asian VPN Needed
-* [Layendimator](https://github.com/Layendan/Layendanimator), [Akuse](https://github.com/akuse-app/Akuse), [Anikin](https://github.com/jerry08/Anikin) or [Miru](https://miru.js.org/en/) - Desktop Streaming Apps
 * [Tezuka Productions Official](https://www.youtube.com/@tezukaproductions-en) - Osamu Tezuka Anime
 * [Crunchyroll](https://www.crunchyroll.com/videos/anime) - Sub / Dub / [US Proxy](https://addons.mozilla.org/en-US/firefox/addon/crunchy-unblocker/) / [Intro Skip](https://github.com/aniskip/aniskip-extension)
 * [Miu](https://discord.gg/pwkuanXBJh) or [AnimeThemes](https://animethemes.moe/) / [Discord](https://discord.com/invite/m9zbVyQ) - Anime Themes
@@ -394,6 +395,7 @@
 * [Baked](https://baked.live/) - Random Streams
 * [fun.cube](https://funcube.space/) - Random Streams
 * [Channel 99](http://www.pracdev.org/channel99/) - Random Streams
+* [SmashStream TV](https://tv.smashystream.com/) - Random Streams
 * [TV.Jest](https://tv.jest.one/) - News
 * [SHOWROOM](https://showroom-live.com/) - Live Performance Broadcasts
 * [KCNA](https://kcnawatch.us/korea-central-tv-livestream) - North Korean Live TV
@@ -454,6 +456,8 @@
 * [NHL66](https://nhl66.ir/) - Hockey
 * [NHLbite](https://nhlbite.com/) - Hockey
 * [/r/rugbystreams](https://www.reddit.com/r/rugbystreams/) - Rugby
+* [F1 Dashcam](https://f1-dash.com/) - F1 Live Stats
+* [TheHighLow](https://thehighlow.io/) - NBA Highlights Database
 
 ***
 
