@@ -8583,6 +8583,7 @@ onMounted(() => {
 * ↪️ **[Reverse Image Search](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/img-tools#wiki_.25B7_reverse_image_search)**
 * ↪️ **[Tab Managers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_tab_managers)**
 * ↪️ **[Customizable New Tab Page](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_browser_startpages)**
+* ↪️ **[Arkenfox](https://github.com/arkenfox/user.js/wiki/4.1-Extensions/#-dont-bother)** - Unnecessary browser extensions
 * ⭐ **[Stylus](https://add0n.com/stylus.html)** - Custom Website Color Schemes / [User Styles](https://userstyles.world/), [2](https://uso.kkx.one/)
 * ⭐ **[DarkReader](https://darkreader.org/)**, [Midnight Lizard](https://midnight-lizard.org/) or [Custom Dark Mode](https://mybrowseraddon.com/custom-dark-mode.html) - Dark Mode
 * ⭐ **[Zoom WE](https://pastebin.com/SpCdPywv)** or [Custom Page Zoom](https://mybrowseraddon.com/custom-page-zoom.html) - Improves Zoom Functionality
@@ -10510,7 +10511,7 @@ onMounted(() => {
 # ► Turkish / Türkçe
 
 * [Firmaa](http://www.firmaa.com/) - Company Directory
-* [Playstationhaber](https://playstationhaber.com/) - PlayStation Piracy Forum
+* [Playstation Haber](https://playstationhaber.com/) - PlayStation Piracy Forum
 * [MCpsp](https://www.mcpsp.com) - PlayStation Piracy Forum
 * [En ucuz oyun](https://www.enucuzoyun.com) - Price Tracker
 * [Teyit](https://teyit.org) - News Confirmation
@@ -10521,11 +10522,11 @@ onMounted(() => {
 * [Türkçe Altyazı](https://turkcealtyazi.org/index.php) - Subtitles
 * [Turkish Audio Center](https://www.turkishaudiocenter.com) - Voiceovers
 * [Shareses](https://shareses.com) - Voiceovers
-* [Türkce Ses İndir](https://www.turkcesesindir.com/) - Voiceovers
-* [DwForce](http://dwa-audio.blogspot.com/) - Voiceovers
-* [SinnerClown](https://sinnerclownceviri.net) - Game Localization / [Discord](https://discord.com/invite/nApvcT6Tt6)
-* [PixelSaga](https://discord.gg/ZZER4w3Mmx) - Game Localization Discord
-* [Calypso](https://discord.gg/calypsoceviri) - Game Localization Discord
+* [Türkçe Ses İndir](https://www.turkcesesindir.com/) - Voiceovers
+* [Dw Force](http://dwa-audio.blogspot.com/) - Voiceovers
+* [Sinner Clown](https://sinnerclownceviri.net) - Game Localization / [Discord](https://discord.com/invite/nApvcT6Tt6)
+* [Pixel Saga](https://discord.gg/ZZER4w3Mmx) - Game Localization Discord
+* [Calypso](https://discord.com/invite/9zJe7ttAjS) - Game Localization Discord
 * [Hangar](https://www.hangarceviri.com) - Game Localization / [Discord](https://discord.com/invite/hangar)
 
 ## ▷ Streaming
@@ -18992,7 +18993,7 @@ onMounted(() => {
 * [Screenshot Twitch](https://github.com/eramdam/userscripts/blob/main/Screenshot%20Twitch.user.js) - Add Screenshot Button to Twitch
 * [Auto Twitch Drops](https://chromewebstore.google.com/detail/automatic-twitch-drops-mo/kfhgpagdjjoieckminnmigmpeclkdmjm) - Twitch Drop Notifications
 * [Auto-Claim-Twitch-Channel-Points](https://github.com/mikeyaworski/Auto-Claim-Twitch-Channel-Points) or [TTVDropBot](https://github.com/Giingu/Enhanced-TTVDropBot) - Auto Claim Twitch Points
-* [Twitch Drops Miner](https://github.com/DevilXD/TwitchDropsMiner) - Auto Claim Twitch Drops
+* [Twitch Drops Miner](https://github.com/Windows200000/TwitchDropsMiner-updated) - Auto Claim Twitch Drops
 * [TwitchRSS](https://twitchrss.appspot.com/) or [twitchrss](https://twitchrss.com/) - Twitch RSS Generators
 * [TTV Favorites](https://github.com/jc9108/ttv-favorites) - Add Channel Favorites
 * [Streamlink Twitch GUI](https://github.com/streamlink/streamlink-twitch-gui) - Twitch Browser for Streamlink
