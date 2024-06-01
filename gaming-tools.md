@@ -688,7 +688,6 @@
 * [Globed](https://geode-sdk.org/mods/dankmeme.globed2/) - GD Multiplayer Mod
 * [GD Browser](https://gdbrowser.com/) - GD Level Browser
 * [GD Font Generator](https://gdcolon.com/gdfont) - Generate Custom GD Logos & Messages
-* [4GB Patch](https://ntcore.com/?page_id=371) - Lets GD use 4GB of RAM
 * [SPWN](https://spu7nix.net/spwn/#/) - GD Level Programming Language
 * [GD Docs](https://docs.gd-programming.org/) - GD Programming Documentation
 * [GD History](https://history.geometrydash.eu/) - GD Archival Project / [Downloader](https://github.com/Cvolton/GDHistory-Downloader)
