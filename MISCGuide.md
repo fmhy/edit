@@ -618,6 +618,8 @@
 
 ## ▷ Porn Quitting
 
+* ⭐ **[The Freedom Model for Addictions](https://www.thefreedommodel.org)**, [Abridged Ebook](https://www.thefreedommodel.org/wp-content/uploads/2020/02/TheFreedomModel-ABRIDGED-NEW.pdf), [Freedom Model Quick Lessons](https://www.youtube.com/playlist?list=PLd6KCmnSpHuE29G2f9JXHMcZKbvzSdInw), [The Addiction Solution Podcast](https://www.youtube.com/playlist?list=PLd6KCmnSpHuFBFw-ei2eTYJPrSoLuwBFL) - Solve addiction by getting the right information. [*Note*](https://rentry.co/nfmbkt8m)
+* ⭐ **[Jay Quit PMO YouTube](https://www.youtube.com/@Jay-Quit-PMO)** - Applies The Freedom Model to effortlessly quit/reduce PMO
 * 🌐 **[Awesome Adult Content Filtering](https://github.com/wesinator/awesome-Adult-Content-Filtering)** - Porn Quitting Tools Index
 * ↪️ **[Site Blocking](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25B7_productivity_tools)**
 * ⭐ **[EasyPeasy](https://easypeasymethod.org/)**, [2](https://gitlab.com/snuggy/easypeasy) - Painlessly Quit Pornography
