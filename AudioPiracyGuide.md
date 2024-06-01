@@ -243,7 +243,7 @@
 
 * ⭐ **[DoubleDouble](https://doubledouble.top/)** - [Multi-Site](https://pastebin.com/dPT8aE0R) / 320kb / MP3 / FLAC / [Telegram](https://t.me/+AuKfQGOOLrFlOTZk)
 * ⭐ **[squid.wtf](https://squid.wtf/)** - Deezer / FLAC / [Discord](https://discord.gg/ATjPbzR) / [Note](https://pastebin.com/eWErQNmN)
-* ⭐ **[yet another music server](https://yetanothermusicserver.top/invite/AaWeY6kV)** - Deezer / Tidal / Qobuz / Spotify / YouTube / FLAC
+* ⭐ **[yet another music server](https://yetanothermusicserver.top/)** - Deezer / Tidal / Qobuz / Spotify / YouTube / FLAC
 * ⭐ **[MP3 Daddy](https://mp3-daddy.com/)** - Deezer / 320kb / MP3 / FLAC
 * [EzMP3](https://ezmp3.cc/) - YouTube / 320kb / MP3 / Ad-Free / [Subreddit](https://www.reddit.com/r/EzMP3/)
 * [YTiz](https://ytiz.xyz/) - YouTube / SoundCloud / Bandcamp / 128kb / AAC / [GitHub](https://github.com/tizerk/ytiz)
