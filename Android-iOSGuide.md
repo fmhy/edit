@@ -14,7 +14,6 @@
 * [nsane.down](https://nsaneforums.com/)
 * [Sbenny](https://sbenny.com/)
 * [farsroid](https://www.farsroid.com/)
-* [Androeed](https://androeed.store/) / [Note](https://pastebin.com/1e5WR9kV)
 * [RevDL](https://www.revdl.com/)
 * [AndroidRepublic](https://androidrepublic.org/)
 * [AndroPalace](https://www.andropalace.org/) / [Telegram](https://telegram.me/officialandropalace)
