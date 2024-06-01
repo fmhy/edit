@@ -335,10 +335,10 @@
 
 * ⭐ **[ClearURLs](https://docs.clearurls.xyz)** - Remove Tracking Elements from URLs / [Features](https://gitlab.com/ClearURLs/ClearUrls#features), [2](https://i.ibb.co/4JsQwP5/sqzfmLD.png) / Can Break Sites
 * ⭐ **[CanvasBlocker](https://github.com/kkapsner/CanvasBlocker)** - Prevent Canvas Fingerprinting
-* ⭐ **[GameIndustry](https://gameindustry.eu/en/)** - Block Trackers in Desktop / Mobile Games
 * ⭐ **[Creepjs](https://abrahamjuliot.github.io/creepjs)**, [WEBKAY](https://webkay.robinlinus.com/), [BrowserRecon](https://www.computec.ch/projekte/browserrecon/?s=scan), [Device Info](https://www.deviceinfo.me/), [CoverYourTracks](https://firstpartysimulator.org/) / [2](https://coveryourtracks.eff.org/) or [PersonalData](https://personaldata.info/) - Tracking / Fingerprinting Tests
 * [dataskydd](https://webbkoll.dataskydd.net/) or [Blacklight](https://themarkup.org/blacklight) - Site Tracking Info
 * [Data Removal Guide](https://inteltechniques.com/workbook.html) - Remove Online Data
+* [GameIndustry](https://gameindustry.eu/en/) - Block Trackers in Desktop / Mobile Games
 * [BrowserLeaks](https://browserleaks.com/), [Do I leak?](https://www.top10vpn.com/tools/do-i-leak/) or [IPLeak.net](https://ipleak.net) - IP Leak Tests
 * [JShelter](https://jshelter.org/) - Prevent Fingerprinting / [Warning](https://github.com/arkenfox/user.js/issues/1729#issuecomment-1739135479)
 * [Extension Detector](https://z0ccc.github.io/extension-detector) / [GitHub](https://github.com/z0ccc/extension-detector) - Extension Fingerprinting Tests
