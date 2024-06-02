@@ -1608,6 +1608,7 @@
 * [Shareses](https://shareses.com) - Voiceovers
 * [Türkçe Ses İndir](https://www.turkcesesindir.com/) - Voiceovers
 * [Dw Force](http://dwa-audio.blogspot.com/) - Voiceovers
+* [Tr Sound Track](https://trsoundtrack.blogspot.com/) - Voiceovers
 * [Sinner Clown](https://sinnerclownceviri.net) - Game Localization / [Discord](https://discord.com/invite/nApvcT6Tt6)
 * [Pixel Saga](https://discord.gg/ZZER4w3Mmx) - Game Localization Discord
 * [Calypso](https://discord.com/invite/9zJe7ttAjS) - Game Localization Discord
@@ -1624,8 +1625,8 @@
 * [4kFilmizlesene](https://www.4kfilmizlesene.org/) - Movies
 * [Film İzlesene](https://www.filmizlesene.pro) - Movies
 * [Film Mom](https://www.filmmom.de/) - Movies
-* [Dizipal](https://dizipal807.com/), [2](https://dizipal735.com/) - Movies / Series
-* [İnatflix](https://hdfilmcehennemi4.xyz/) - Movies / Series
+* [Dizipal](https://dizipal807.com/), [2](https://dizipal735.com/) - Movies / TV
+* [İnatflix](https://hdfilmcehennemi4.xyz/) - Movies / TV
 * [Dizilab](https://dizilab.com/) - TV
 * [Dizibox](https://www.dizibox.in) - TV
 * [Turkish123](https://turkish123.com/) - TV
