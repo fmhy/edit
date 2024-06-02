@@ -1097,6 +1097,17 @@
 
 ***
 
+## TypeScript Tools
+
+* ⭐ **[TypeScript](https://www.typescriptlang.org/)** - JS Superset
+* [React Typescript Cheatsheets](https://react-typescript-cheatsheet.netlify.app) - Typescript Cheatsheet for React Devs
+* [Clean Code TypeScripts](https://labs42io.github.io/clean-code-typescript) - Clean Code for TypeScript
+* [Tackling TS](https://exploringjs.com/tackling-ts/toc.html) or [TypeScript Deep Drive](https://basarat.gitbook.io/typescript/getting-started) - TypeScript Guides
+* [TypeHero](https://typehero.dev/) or [Type Challenges](https://github.com/type-challenges/type-challenges) - TypeScript Exercises / Challenges
+* [tRPC](https://trpc.io/) - Build Typesafe TypeScript APIs
+
+***
+
 ## Udemy Coupons
 
 * **Note** - If you're in the US you should be able to access Udemy courses for free using your library and looking for "Gale Presents Udemy."
@@ -1130,6 +1141,16 @@
 * ⭐ **[CheckShortURL](https://checkshorturl.com/)**
 
 [ExpandURL](https://www.expandurl.net/), [Unshorten.it](https://unshorten.it/), [WhereGoes](https://wheregoes.com/), [urlxray](http://urlxray.com/), [unshorten](https://unshorten.me/), [linkunshorten](https://linkunshorten.com/)
+
+***
+
+## Vue Tools
+
+* ⭐ **[Vue.js](https://vuejs.org/)** - JS Framework
+* [NuxtJS](https://nuxt.com/) - Vue Framework / [Dev Tools](https://github.com/nuxt/devtools)
+* [Arco Design](https://arco.design/vue/en-US/docs/start) or [Naive-UI](https://www.naiveui.com/) / [GitHub](https://github.com/tusen-ai/naive-ui) - Vue 3 UI Components Library
+* [Vuejs Dev Tools](https://vuejs.org/) - Add Vue 3 Debugging to Browser
+* [Vue vben admin](https://github.com/vbenjs/vue-vben-admin) - Vue Admin
 
 ***
 
