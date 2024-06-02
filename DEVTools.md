@@ -47,9 +47,15 @@
 
 ***
 
-# ► Programming Languages / Coding
+# ► Programming Languages
 
-
+* 🌐 **[Awesome Go](https://awesome-go.com/)** or [Go Recipes](https://github.com/nikolaydubina/go-recipes) - Go Resources
+* ⭐ **[Benchmarks Game](https://benchmarksgame-team.pages.debian.net/benchmarksgame/)** - Measure PL Speeds
+* ⭐ **[Language Benchmarks](https://programming-language-benchmarks.vercel.app/)** - Benchmarks for PLs & Compilers
+* [nunu](https://github.com/go-nunu/nunu) - Build Go Programs
+* [LearnGo](https://github.com/inancgumus/learngo) or [play-with-go](https://play-with-go.dev/) - Learn Go Programming
+* [Learn X in Y minutes](https://learnxinyminutes.com/) / [GitHub](https://github.com/adambard/learnxinyminutes-docs) - Programming Language Rundowns
+* [OneLang](https://ide.onelang.io/) - Convert Code to Multiple Languages
 
 ## ▷ Python
 
@@ -58,9 +64,9 @@
 * ⭐ **[Automate The Boring Stuff](https://automatetheboringstuff.com/)** - Python Automation Book
 * [30 Days Of Python](https://github.com/Asabeneh/30-Days-Of-Python) - Python Guide
 * [Python AI](https://community.uuki.live/course/tdb3Vsl1/python-course/aitutor) - AI Python Tutor
-* [CodingBat](https://codingbat.com/) or [PyQuickie](https://chromewebstore.google.com/detail/pyquickie/okpdnfgpbpifbncoleieajiblmebbkci) - Python / Java Practice
+* [CodingBat](https://codingbat.com/python) or [PyQuickie](https://chromewebstore.google.com/detail/pyquickie/okpdnfgpbpifbncoleieajiblmebbkci) - Python Practice
 * [Python4Everyone](https://py4e.com/), [A Byte of Python](https://python.swaroopch.com/), [Hypermodern Python](https://cjolowicz.github.io/posts/hypermodern-python-01-setup/), [DataCamp](https://www.datacamp.com/), [Learn Python](https://www.learnpython.org/), [Learn-Python](https://github.com/trekhleb/learn-python) or [Magical Universe](https://github.com/zotroneneis/magical_universe) - Learn Python
-* [AmigosCode](https://www.youtube.com/@amigoscode) - Python/Kotlin/Java Tutorials
+* [AmigosCode](https://www.youtube.com/@amigoscode) - Python Tutorials
 * [High Performance Python: The Code](https://github.com/mynameisfiber/high_performance_python) - Python Lessons
 * [Real Python](https://realpython.com/), [Reeborg](https://reeborg.ca/docs/en/) or [AskPython](https://www.askpython.com/) - Python Tutorials
 * [FutureCoder](https://futurecoder.io/), [CS50](https://cs50.harvard.edu/python/, [python-mastery](https://github.com/dabeaz-course/python-mastery), [Python Full Course](https://youtu.be/XKHEtdqhLK8) or [A Practical Introduction to Python](https://www.brianheinold.net/python/python_book.html) - Python Courses
@@ -103,6 +109,22 @@
 
 ***
 
+## Java / Kotlin
+
+* 🌐 **[Awesome Kotlin](https://kotlin.link/)** - Kotlin Resources / [GitHub](https://github.com/KotlinBy/awesome-kotlin)
+* [AmigosCode](https://www.youtube.com/@amigoscode) - Java / Kotlin Tutorials
+* [learncs.online](https://www.learncs.online/) - Learn Java / Kotlin
+* [CodingBat](https://codingbat.com/python) - Java Practice
+* [Java Design Patterns](https://java-design-patterns.com/) - Java Guide
+* [Recaf](https://www.coley.software/Recaf/) - Java Bytecode Editor
+* [bytecode-viewer](https://bytecodeviewer.com), [jd-gui](https://github.com/java-decompiler/jd-gui), [Krakatau](https://github.com/Storyyeller/Krakatau), [Luyten](https://github.com/deathmarine/Luyten), [Vineflower](https://github.com/Vineflower/vineflower) or [Fernflower](https://github.com/fesh0r/fernflower) - Java Decompilers
+* [JEnv For Windows](https://github.com/FelixSelter/JEnv-for-Windows) - Change Java Version
+* [jadx](https://github.com/skylot/jadx) - Dex to Java Decompiler
+* [GraalVM](https://www.graalvm.org/) - Advanced Multi-language JVM
+* [Adoptium](https://adoptium.net/) - Download OpenJDK Binaries
+
+***
+
 # ► Web Development
 
 * 🌐 **[MDN](https://developer.mozilla.org/)** or [Web Dev Resources](https://joshjoshuap-webdevresources.vercel.app/) - Web Dev Learning Resources
@@ -123,7 +145,6 @@
 * [DOM Events](https://domevents.dev/) - Learn about DOM Events
 * [backendlore](https://github.com/fpereiro/backendlore) - Backend Coding Guide
 * [backend-challenges](https://github.com/CollabCodeTech/backend-challenges) - Backend Challenges for Practice
-* [Java Design Patterns](https://java-design-patterns.com/) - Java Design Guide
 * [Full Stack Solana Development Guide](https://dev.to/edge-and-node/the-complete-guide-to-full-stack-solana-development-with-react-anchor-rust-and-phantom-3291) - [Examples](https://github.com/dabit3/complete-guide-to-full-stack-solana-development)
 * [STPG](https://stpg-tk.netlify.app/guides/) - Startpage Creation Guides / [Discord](https://discord.com/invite/ExAGgVR)
 * [Web Design in 4 Minutes](https://jgthms.com/web-design-in-4-minutes/) or [Strml](https://www.strml.net/) - Interactive Web Design Tutorial
@@ -201,6 +222,8 @@
 ## ▷ JavaScript
 
 * 🌐 **[Awesome Javascript](https://github.com/sorrycc/awesome-javascript)** - Javascript Resources
+* ↪️ **[TypeScript Tools]()**
+* ↪️ **[Vue Tools]()**
 * ⭐ **[JavaScript.info](https://javascript.info/)**, [Patterns.dev](https://www.patterns.dev/) or [30 Days Of JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript) - Javascript Learning Sites
 * [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS) or [EloquentJavascript](https://eloquentjavascript.net/) - Javascript Learning Books
 * [Javascript Questions](https://github.com/lydiahallie/javascript-questions) or [JavaScriptQuiz](https://javascriptquiz.com/) - Javascript Questions for Practice
@@ -214,43 +237,49 @@
 * [Clean Code Javascript](https://github.com/ryanmcdermott/clean-code-javascript) - Clean Code for Javascript
 * [Vanilla List](https://vanillalist.top/) - Vanilla Javascript Repository
 * [RunKit](https://runkit.com/) - Browser Javascript Sandbox
-* [GPU.js](https://gpu.rocks/) - GPU Accelerated JavaScript
 * [JS.ORG](https://js.org/) - Free subdomain for JavaScript Developers
 * [1loc](https://phuoc.ng/collection/1-loc/) - JavaScript Code Snippets
 * [Javascript Algorithms](https://github.com/trekhleb/javascript-algorithms) - Algorithms and Data Structures in Javascript
 * [Gummy](https://gummyjs.vercel.app/) - Easily Build JavaScript Programs
 * [Obfuscator](https://obfuscator.io/) or [js-confuser](https://js-confuser.com/) - JavaScript Obfuscators
 * [jsdfe](https://avotoko.github.io/javascript-deobfuscator/) - JavaScript Deobfuscator
-* [anime.js](https://animejs.com/) - JavaScript Animation Library / [GitHub](https://github.com/juliangarnier/anime/)
 * [randomcolor](https://randomcolor.lllllllllllllllll.com/) - Random Javascript Color Generator
 * [Rescript](https://rescript-lang.org/) - Javascript Editor / Language
 * [Underdash](https://surma.github.io/underdash/) - JavaSscript Snippets
-
-.js stuff:
+* [GPU.js](https://gpu.rocks/) - GPU Accelerated JavaScript
+* [anime.js](https://animejs.com/) - JavaScript Animation Library / [GitHub](https://github.com/juliangarnier/anime/)
+* [onionring.js](https://garlic.garden/onionring/) - Webring Script
 * [Learn Next.js](https://nextjs.org/learn) / [Production-Grade Next.js](https://frontendmasters.com/courses/production-next/) / [Learn by Examples](https://github.com/vercel/next.js/tree/canary/examples) - Next.js Learning Resources
 * [Tasuku](https://github.com/privatenumber/tasuku) - Node.js Task Runner
 * [Amplication](https://amplication.com/) - Create Node.js Apps
 * [Node.js Best Practices](https://github.com/goldbergyoni/nodebestpractices) - Node.js Style Guide
 * [Discord.js Guide](https://discordjs.guide/) or [An Idiot's Guide](https://anidiots.guide/) - Discord.js Bot Guides
 
-Typescript:
-* [React Typescript Cheatsheet](https://react-typescript-cheatsheet.netlify.app) - React Typescript Cheat Sheets
-* [Clean Code TypeScripts](https://labs42io.github.io/clean-code-typescript) - Clean Code for TypeScript
-* [Tackling TS](https://exploringjs.com/tackling-ts/toc.html) or [TypeScript Deep Drive](https://basarat.gitbook.io/typescript/getting-started) - TypeScript Guides
-* [TypeHero](https://typehero.dev/) or [Type Challenges](https://github.com/type-challenges/type-challenges) - TypeScript Exercises / Challenges
-* [tRPC](https://trpc.io/) - Build Typesafe TypeScript APIs
-
-Vue:
-* [NuxtJS](https://nuxt.com/) - Vue Framework / [Dev Tools](https://github.com/nuxt/devtools)
-* [Arco Design](https://arco.design/vue/en-US/docs/start) or [Naive-UI](https://www.naiveui.com/) / [GitHub](https://github.com/tusen-ai/naive-ui) - Vue 3 UI Components Library
-* [Vuejs Dev Tools](https://vuejs.org/) - Add Vue 3 Debugging to Browser
-* [Vue vben admin](https://github.com/vbenjs/vue-vben-admin) - Vue Admin
-
 ***
 
 ## ▷ React
 
-
+* ⭐ **[React](https://react.dev/)** - JS Library
+* [OpenChakra](https://openchakra.app/) or [Plate](https://platejs.org/) - React Code Editors
+* [React Suite](https://rsuitejs.com/) - React Components
+* [Bulletproof React](https://github.com/alan2207/bulletproof-react) - React App Architecture
+* [Aspect](https://sample-code.aspect.app/) - Copy React Code from Any Site
+* [Refine](https://refine.dev/) or [GitWit](https://gitwit.dev/) - React App Builders
+* [Alright](https://github.com/DoneDeal0/alright-react-app) - Generate React Apps
+* [Codux](https://www.codux.com/) - Visual IDE for React
+* [React95](https://react95.io/) - Windows 95 React Components
+* [React SVG](https://react-svgr.com/playground/) - Convert SVG to React Components
+* [Zorm](https://github.com/esamattis/react-zorm) - Type-safe form for React
+* [Million](https://million.dev) - React Replacement
+* [novu](https://novu.co/) - Real-Time React Notifications / [GitHub](https://github.com/novuhq/novu)
+* [React Use](https://github.com/streamich/react-use) or [UseHooks](https://usehooks.com/) - React Hooks
+* [React Query](https://tanstack.com/query/v3/) - Fetch, Cache and Update React Data / [GitHub](https://github.com/TanStack/query)
+* [MMKV](https://github.com/mrousavy/react-native-mmkv) - React Key / Value Storage
+* [Vision Camera](https://www.react-native-vision-camera.com/) - React Camera Support / [GitHub](https://github.com/mrousavy/react-native-vision-camera)
+* [React PDF](https://react-pdf.org/) - Create PDFs in React
+* [react-spring](https://www.react-spring.dev/) - React Spring Animations
+* [Create React App](https://create-react-app.dev) - Set up React Web Apps / [GitHub](https://github.com/facebook/create-react-app)
+* [Codebases](https://github.com/reacttips-dev/codebases) - Collection of Projects Written in React
 
 ***
 
@@ -343,7 +372,6 @@ Vue:
 * [Apache](https://httpd.apache.org/) - HTTP Server
 * [h5ai](https://larsjung.de/h5ai/) - HTTP Web Server Index / [GitHub](https://github.com/lrsjng/h5ai)
 * [webri.ng](https://webri.ng/) - Webring Host / [GitHub](https://github.com/webri-ng/webri.ng)
-* [onionring.js](https://garlic.garden/onionring/) - Webring Script
 * [Webring List](https://brisray.com/web/webring-list.htm) - Webring Directory
 * [SyAgent](https://syagent.com/), [TA Vivo](https://github.com/ta-vivo/ta-vivo) or [HertzBeat](https://hertzbeat.com/) - Server Monitors
 * [BawkBox](https://bawkbox.com/) - Website Widgets
@@ -372,7 +400,7 @@ Vue:
 * [Traefik](https://traefik.io/traefik/), [frp](https://github.com/fatedier/frp) or [reverse-proxy](https://github.com/microsoft/reverse-proxy) - Reverse Proxies
 * [Certbot](https://certbot.eff.org/) - Enable HTTPS Automatically
 * [WhatPWACanDo](https://whatpwacando.today/) - PWA Examples
-* [Bubble](https://bubble.io/), [opensilver](https://opensilver.net/), [Anvil](https://anvil.works/), [Symfony](https://symfony.com/) / [CLI](https://github.com/symfony-cli/symfony-cli), [Create-react-app](https://create-react-app.dev) / [GitHub](https://github.com/facebook/create-react-app), [Lowdefy](https://lowdefy.com/) or [Sktch.io](https://sktch.io/) - Web App Creators
+* [Bubble](https://bubble.io/), [opensilver](https://opensilver.net/), [Anvil](https://anvil.works/), [Symfony](https://symfony.com/) / [CLI](https://github.com/symfony-cli/symfony-cli), [Lowdefy](https://lowdefy.com/) or [Sktch.io](https://sktch.io/) - Web App Creators
 * [Blazor](https://dotnet.microsoft.com/en-us/apps/aspnet/web-apps/blazor) or [FastUI](https://github.com/pydantic/FastUI) - Web App UI Creators
 * [Laravel](https://laravel.com/) or [Lona](https://lona-web.org/1.x/) - Web App Framework
 * [PWABuilder](https://www.pwabuilder.com/) - Turn Site into Progressive Web App
@@ -462,7 +490,6 @@ Wordpress:
 * [LandingPage](https://landingpage.fyi/index.html) - Landing Page Tool Index
 * [SaaS Pages](https://saaspages.xyz/), [SaaS Landing Page](https://saaslandingpage.com/) or [lapa](https://www.lapa.ninja/) - Landing Page Templates / Ideas
 * [Zeplin](https://zeplin.io/) - Design Templates / Editor
-* [Codebases](https://github.com/reacttips-dev/codebases) - ReactJS Project Source Codes
 * [vite](https://vitejs.dev/) or [layoutit](https://layoutit.com/) - Frontend Development Tools
 * [Frontend Development](https://github.com/dypsilon/frontend-dev-bookmarks) - Frontend Development Resources
 * [BoxCoding](https://www.avabucks.it/) - Frontend UI Components
@@ -604,7 +631,6 @@ Wordpress:
 * [Codecademy](https://www.codecademy.com/) - Coding Lessons
 * [CodinGame](https://www.codingame.com/) - Games to Practice Coding / Programming
 * [Advent of Code](https://adventofcode.com/) - Programming Puzzles
-* [Learn X in Y minutes](https://learnxinyminutes.com/), [2](https://github.com/adambard/learnxinyminutes-docs) - Programming Language Rundowns
 * [Karel The Robot](https://github.com/fredoverflow/karel) - Basic Programming Teaching Environment
 * [Project Based Learning](https://github.com/practical-tutorials/project-based-learning) - Collection of Project-Based Tutorials
 * [Interview University](https://github.com/jwasham/coding-interview-university) - Software Engineer Study Guides
@@ -614,7 +640,6 @@ Wordpress:
 * [system-design-primer](https://github.com/donnemartin/system-design-primer) - Large Scale System Design Guides
 * [LearnToCloud](https://learntocloud.guide/) - Cloud Computing Guide
 * [LearnYouHaskell](http://learnyouahaskell.com/chapters) - Haskell Guide
-* [LearnGo](https://github.com/inancgumus/learngo) or [play-with-go](https://play-with-go.dev/) - Learn Go Programming
 * [Learn Perl](https://www.learn-perl.org/) - Learn Perl
 * [Rust Learning](https://github.com/ctjhoa/rust-learning) - Rust Learning Resources
 * [explaine.rs](https://jrvidal.github.io/explaine.rs/) - Rust Syntax Explanation
@@ -645,7 +670,6 @@ Wordpress:
 * 🌐 **[Mobile Design Resources](https://github.com/josephgoksu/mobile-design-resources)** - App Design Learning Resources
 * ⭐ **[Android Developer Roadmap](https://github.com/skydoves/android-developer-roadmap)**
 * [Official Android Courses](https://developer.android.com/courses) or [Windows App Development](https://learn.microsoft.com/en-us/windows/apps/) - App Dev Courses
-* [LearnCS](https://www.learncs.online/lessons) - Lean Java/Kotlin
 * [Swift Playgrounds](https://developer.apple.com/tutorials/swiftui) - Learn Swift UI / [Samples](https://developer.apple.com/tutorials/sample-apps)
 * [SwiftDump](https://github.com/neil-wu/SwiftDump) - Retrieve Swift Object info from Mach-O file
 * [Flutter Tips and Tricks](https://github.com/vandadnp/flutter-tips-and-tricks) - Flutter Tips and Tricks
@@ -658,7 +682,7 @@ Wordpress:
 * ⭐ **Leetcode Tools** - [Solutions](https://walkccc.me/LeetCode/), [2](https://leetcode.ca/) / [Company Questions](https://github.com/MysteryVaibhav/leetcode_company_wise_questions), [2](https://docs.google.com/document/d/1icaNSRq6XcWO3EOycEP9F9P8SLerBanpY3Ni_ZzCfFA/), [3](https://seanprashad.com/leetcode-patterns/) / [Animations](https://github.com/MisterBooo/LeetCodeAnimation) / [Anki Cards](https://github.com/fspv/leetcode-anki) / [Videos](https://github.com/fishercoder1534/Leetcode) / [Resources](https://github.com/ashishps1/awesome-leetcode-resources)
 * ⭐ **[NeetCode](https://neetcode.io/)** - Coding Interview Practice
 * [algorithms](https://prashantbarahi.com.np/docs/algorithms/intro) - Code Algorithms & Data Structures Tutorials
-* [VisualGo](https://visualgo.net/) - Data Structures & Algorithm Animations
+* [VisuAlgo](https://visualgo.net/) - Data Structures & Algorithm Animations
 * [algonds](https://github.com/MaciejWas/algonds) - Coding Practice
 * [Codility](https://app.codility.com/programmers/) - Coding Practice
 * [ProjectLearn](https://projectlearn.io/) - Coding Practice
@@ -788,6 +812,8 @@ Wordpress:
 ## ▷ JSON
 
 * ⭐ **[JSON Hero](https://jsonhero.io/)**, [Jayson](https://apps.apple.com/us/app/jayson/id1447750768) or [JSONView](https://jsonview.com/) - JSON Viewers / Editors
+* [jq](https://jqlang.github.io/jq/) - CLI JSON Processor / [GitHub](https://github.com/jqlang/jq)
+* [oq](https://blacksmoke16.github.io/oq/) - Portable jq Wrapper / [GitHub](https://github.com/Blacksmoke16/oq)
 * [Transluna](https://transluna.net/) - JSON Translator
 * [JMESPath](https://jmespath.org/) - Query Language for JSON / [Tutorial](https://jmespath.org/tutorial.html)
 * [zio-json](https://zio.dev/zio-json)- JSON Library
@@ -799,11 +825,8 @@ Wordpress:
 # ► Developer Tools
 
 * 🌐 **[Awesome Creative Coding](https://github.com/terkelg/awesome-creative-coding)** - Creative Coding Resources
-* 🌐 **[Awesome Go](https://awesome-go.com/)** or [Go Recipes](https://github.com/nikolaydubina/go-recipes) - Go Resources
-* 🌐 **[Awesome Kotlin](https://kotlin.link/)** - Kotlin Resources / [GitHub](https://github.com/KotlinBy/awesome-kotlin)
 * 🌐 **[Awesome Emacs](https://github.com/emacs-tw/awesome-emacs)** or [Melpa](https://melpa.org/) - Emacs Packages / [Tiling](https://github.com/ch11ng/exwm)
 * 🌐 **[Awesome VSC Extensions](https://hl2guide.github.io/Awesome-Visual-Studio-Code-Extensions/)** - Visual Studio Code Extensions
-* 🌐 **[BenchmarksGame](https://benchmarksgame-team.pages.debian.net/benchmarksgame/)** or [Language Benchmarks](https://programming-language-benchmarks.vercel.app/) - Language Comparisons
 * 🌐 **[Best-Websites](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)**, [Tiny Tools](https://tinytools.directory/), [CarlosAG](https://www.carlosag.net/) or [Charm](https://charm.sh/) - Programming Resources
 * 🌐 **[Free For Dev](https://free-for.dev/)** or [Free For Life](https://github.com/wdhdev/free-for-life/) - Developer Resourses
 * 🌐 **[Awesome Sys Admin](https://github.com/awesome-foss/awesome-sysadmin)** - System Admin Resources
@@ -812,7 +835,6 @@ Wordpress:
 * 🌐 **[Awesome Bots](https://doppler.com) / [GitHub](https://github.com/DopplerHQ/awesome-bots)** - Developer Bot Index
 * 🌐 **[Awesome Design Patterns](https://github.com/DovAmir/awesome-design-patterns)** - Design Pattern Resources
 * ↪️ **[Multi-Tool Dev Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_multi_dev_tool_sites)**
-* ↪️ **[Developer News](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25B7_tech_news)**
 * [DevToys](https://devtoys.app/) - Dev Multi-Tool App
 * [Student Developer Pack](https://education.github.com/pack) - Free Developer Tools for Students
 * [AppFlowy](https://appflowy.io/) / [GitHub](https://github.com/AppFlowy-IO/AppFlowy) - Project Workspace
@@ -850,12 +872,10 @@ Wordpress:
 * [0xacab](https://about.0xacab.org/) - Code Host
 * [Mockaroo](https://mockaroo.com/) - Generate Mock Data
 * [Mockium](https://softwium.com/mockium/) - Generate Test Data
-* [OneLang IDE](https://ide.onelang.io/) - Convert Code to Multiple Languages
 * [Globster](https://globster.xyz/) - Test Glob Patterns
 * [OctoLinker](https://octolinker.vercel.app/) - Turn Code Statements into Links / [GitHub](https://github.com/OctoLinker/OctoLinker)
 * [Shell Cloud](https://shell.cloud.google.com/) - Google Cloud Shell Environment
 * [BrickHub](https://brickhub.dev/) - Share Code Brick Templates
-* [nunu](https://github.com/go-nunu/nunu) - Build Go Programs
 * [Big List of Naughty Strings](https://github.com/minimaxir/big-list-of-naughty-strings) - Check for Edge Case Inputs
 * [overmind](https://github.com/DarthSim/overmind) or [foreman](https://github.com/ddollar/foreman) - Process Managers
 * [PKL](https://pkl-lang.org/) - Generate Static Configurations
@@ -870,12 +890,8 @@ Wordpress:
 * [Chalk](https://chalk.ist/) or [Show Code](https://showcode.app/) - Code Screenshots
 * [AnimateCode](https://www.animate-code.com/) - Create Code Animations
 * [DelphiTools](https://www.delphitools.info/) - Code Profiler / Delphi Tools
-* [GraalVM](https://www.graalvm.org/) - Advanced Multi-language JVM
-* [Adoptium](https://adoptium.net/) - Download OpenJDK Binaries
 * [Adrenaline](https://useadrenaline.com/) or [Console Ninja](https://console-ninja.com/) - Code Debugging
 * [JBin](https://jsbin.com/) or [Replay](https://www.replay.io/) - Collaborative Code Debugging
-* [bytecode-viewer](https://bytecodeviewer.com), [jd-gui](https://github.com/java-decompiler/jd-gui), [Krakatau](https://github.com/Storyyeller/Krakatau), [Luyten](https://github.com/deathmarine/Luyten), [Vineflower](https://github.com/Vineflower/vineflower) or [Fernflower](https://github.com/fesh0r/fernflower) - Java Decompilers
-* [JEnv For Windows](https://github.com/FelixSelter/JEnv-for-Windows) - Change Java Version
 * [ASTExplorer](https://astexplorer.net/) - AST Viewer
 * [Microdiff](https://github.com/AsyncBanana/microdiff) - Object and Array Comparison Library
 * [trzsz](https://trzsz.github.io/js) - Make trzsz Compatible with tmux in Terminal
@@ -884,8 +900,6 @@ Wordpress:
 * [PlantText](https://www.planttext.com/) - UML Editor
 * [glogg](https://glogg.bonnefon.org/) or [Log Parser Lizard](https://lizard-labs.com/log_parser_lizard.aspx) - Log Analyzation Utilities
 * [Code::Stats](https://codestats.net/) or [Wakatime](https://wakatime.com/) - Programmer Stat Tracking
-* [oq](https://blacksmoke16.github.io/oq/) / [GitHub](https://github.com/Blacksmoke16/oq) - Programming Language Processor
-* [Tables Generator](https://www.tablesgenerator.com/) - Generates Tables in Various Languages
 * [WiredJS](https://wiredjs.github.io/designer/) - Wireframe Designer
 * [pueue](https://github.com/Nukesor/pueue) - Shell Command Manager
 * [Emojicode](https://www.emojicode.org/) - Emoji-Based Programming Language
@@ -934,10 +948,8 @@ Wordpress:
 * [Competitive Editor](https://cpeditor.org/) - Competitive Programming Editor
 * [Acode](https://acode.app), [Sora](https://github.com/Rosemoe/sora-editor) or [Squircle-CE](https://github.com/massivemadness/Squircle-CE) - Android Code Editors
 * [Apache NetBeans](https://netbeans.apache.org/), [KDevelop](https://www.kdevelop.org/), [Lazarus](https://www.lazarus-ide.org/) or [OpenShift](https://developers.redhat.com/products/openshift-dev-spaces/overview) - Cross Platform IDEs
-* [Recaf](https://www.coley.software/Recaf/) - Java Bytecode Editor
 * [TidalCycles](https://tidalcycles.org/) - Live Algorithmic Coding Environment / [Discord](https://discord.com/invite/ugFq7KfGnB)
 * [SciTE](https://www.scintilla.org/SciTE.html) - Source Code Editor for Win32 and X
-* [OpenChakra](https://openchakra.app/) or [Plate](https://platejs.org/) - React Code Editors
 * [Package Control](https://packagecontrol.io/) - Sublime Text Package Manager
 * [editorcornfig](https://editorconfig.org/) - Maintain Code Styles Across Editors
 * [ThemesElection](https://themeselection.com/), [NordTheme](https://www.nordtheme.com/) or [Dracula](https://draculatheme.com/) - Code Editor Themes
@@ -1072,26 +1084,9 @@ Wordpress:
 * [Media Kit](https://github.com/media-kit/media-kit) - Video / Audio Library for Flutter and Dart
 * [Uiautomator2](https://github.com/openatx/uiautomator2), [ADB](https://github.com/ashishb/adb-enhanced) or [Appium](https://appium.io/) / [GitHub](https://github.com/appium/appium) - Automated App Testing
 * [SigNoz](https://signoz.io/) - Detect App Issues
-* [jadx](https://github.com/skylot/jadx) - Dex to Java Decompiler
 * [Privado](https://docs.privado.ai) / [GitHub](https://github.com/Privado-Inc/privado) - Generate App Privacy Reports
 * [PM2](https://pm2.keymetrics.io/) - Process Manager
-* [Bulletproof React](https://github.com/alan2207/bulletproof-react) - React App Architecture
-* [Aspect](https://sample-code.aspect.app/) - Copy React Code from Any Site
-* [Refine](https://refine.dev/) or [GitWit](https://gitwit.dev/) - React App Builders
-* [Alright](https://github.com/DoneDeal0/alright-react-app) - Generate React Apps
-* [Codux](https://www.codux.com/) - Visual IDE for React
-* [React Suite](https://rsuitejs.com/) or [Mantine](https://mantine.dev/) - Components and Templates
-* [React95](https://react95.io/) - Windows 95 React Components
-* [React SVG](https://react-svgr.com/playground/) - Convert SVG to React Components
-* [Zorm](https://github.com/esamattis/react-zorm) - Type-safe form for React
-* [Million](https://million.dev) - React Replacement
-* [novu](https://novu.co/) - Real-Time React Notifications / [GitHub](https://github.com/novuhq/novu)
-* [React Use](https://github.com/streamich/react-use) or [UseHooks](https://usehooks.com/) - React Hooks
-* [React Query](https://tanstack.com/query/v3/) - Fetch, Cache and Update React Data / [GitHub](https://github.com/TanStack/query)
-* [MMKV](https://github.com/mrousavy/react-native-mmkv) - React Key / Value Storage
-* [Vision Camera](https://www.react-native-vision-camera.com/) - React Camera Support / [GitHub](https://github.com/mrousavy/react-native-vision-camera)
-* [React PDF](https://react-pdf.org/) - Create PDFs in React
-* [react-spring](https://www.react-spring.dev/) - React Spring Animations
+* [Mantine](https://mantine.dev/) - Components and Templates
 * [useAnimations](https://useanimations.com/index.html) - Animated Icon Pack
 * [Redex](https://fbredex.com/) - Android Bytecode Optimizer
 
@@ -1486,7 +1481,6 @@ Wordpress:
 * [CVE Details](https://www.cvedetails.com/) - CVE Details
 * [YASNAC](https://github.com/RikkaW/YASNAC) - SafetyNet Attestation Checker
 * [AllSafe](https://github.com/t0thkr1s/allsafe) - Intentionally Vulnerable Android App
-* [ClassyShark](https://github.com/google/android-classyshark) - Android/Java Bytecode Viewer
 
 ***
 
