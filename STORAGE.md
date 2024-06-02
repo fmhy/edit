@@ -124,7 +124,7 @@
 
 [8bitdash](https://www.8bitdash.com/), [8 Bit Dashboard](https://8bitdashboard.com/), [Startpage Emporium](https://startpages.github.io/), [Awesome Startpage](https://github.com/jnmcfly/awesome-startpage), [Clippingmini](https://www.clippingmini.com/), [Draggo](https://draggo.com/), [Pearltrees](https://www.pearltrees.com/), [Nextcloud](https://apps.nextcloud.com/apps/bookmarks), [Cling](https://cling.com/), [Symbaloo](https://www.symbaloo.com/), [Tixio](https://tixio.io/), [Bento](https://github.com/migueravila/Bento), [ez.lol](https://ez.lol/), [nightly](https://github.com/damnitharshit/nightly), [Protopage](https://www.protopage.com/), [tilde](https://github.com/xvvvyz/tilde), [Fluidity](https://prettycoffee.github.io/fluidity/) / [GitHub](https://github.com/PrettyCoffee/fluidity), [AllMyFaves](https://allmyfaves.com/)
 
-**Customizable New Tab Page**
+### Customizable New Tab Page
 
 * ⭐ **[Tab with A view](https://www.withaview.co/ext/)** - Virtual Sights New Tab Page
 * ⭐ **[MineWeather](https://github.com/sawyerpollard/MineWeather)** - Weather-Based Minecraft New Tab Page
@@ -180,6 +180,20 @@
 * ⭐ **[Cover Search Engine](https://covers.musichoarders.xyz)**
 
 [Album Art Downloader](https://sourceforge.net/projects/album-art/), [kunst](https://github.com/sdushantha/kunst), [Apple-Music-Animated-Artwork-Fetcher](https://github.com/bunnykek/Apple-Music-Animated-Artwork-Fetcher), [Classic Rock Covers](https://www.classic-rock-covers.com/)
+
+***
+
+## CSS Framework Tools
+
+* 🌐 **[Awesome CSS Frameworks](https://github.com/troxler/awesome-css-frameworks)** CSS Frameworks Index
+* 🌐 **[Classless CSS](https://github.com/dbohdan/classless-css)** - Classless CSS Themes & Frameworks
+* 🌐 **[Awesome TailwindCSS](https://tailwindcss.com)** - Tailwind CSS Resources
+* ⭐ **[Tailwind CSS](https://tailwindcss.com/)** - CSS Framework
+* [Tailwind Toolbox](https://tailwindtoolbox.com/) - Tailwind Starter Templates & Components
+* [Tailsc](https://tailsc.com/) - Free Tailwind CSS Components for Website Block
+* [TailBlocks](https://tailblocks.cc/) - Ready-to-use Tailwind CSS Blocks
+* [Terminal CSS](https://terminalcss.xyz/) - Terminal-style CSS Framework
+* [Bulma](https://bulma.io/) - CSS Framework
 
 ***
 
