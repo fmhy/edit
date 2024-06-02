@@ -60,7 +60,7 @@
 * [CentOS Pastebin](https://paste.centos.org/) - Multi-Syntax
 * [snippet.host](https://snippet.host/) - Multi-Syntax
 * [MicroBin](https://pub.microbin.eu/) / [Source](https://github.com/szabodanika/microbin) - Multi-Syntax
-* [ProtectedText](https://www.protectedtext.com/i) - Multi-Tab
+* [ProtectedText](https://www.protectedtext.com/) - Multi-Tab
 * [MarkdownPastebin](https://markdownpastebin.com/) - Markdown Support
 * [Sparked Paste](https://paste.sparked.host/) - Plain Text / Syntax Highlighting
 * [Riseup Pad](https://pad.riseup.net/) - WYSIWYG Pastebin
@@ -370,6 +370,7 @@
 ## ▷ To Do Lists
 
 * ⭐ **[Goblin.tools](https://goblin.tools/)** - Automatic Task Breakdown and more
+* ⭐ **[TickTick](https://www.ticktick.com/)**
 * [Columns](https://columns.app/) or [ChecklistGenerator](https://checklistgenerator.co/) - Checklists
 * [Wonder](https://wonder-bot.com/) - Remember Things Easily
 * [YearCompass](https://yearcompass.com/) - New Years Resolution Booklet
@@ -385,7 +386,6 @@
 * [Super Productivity](https://super-productivity.com/)
 * [Tasks](https://github.com/BaldissaraMatheus/Tasks.md)
 * [Taskwarrior](https://taskwarrior.org/)
-* [TickTick](https://www.ticktick.com/)
 * [Vikunja](https://vikunja.io/)
 
 ***
@@ -413,7 +413,7 @@
 * ⭐ **[TypeTrials](https://typetrials.com/)** - Variable Font Playground
 * ⭐ **[Nerd Fonts](https://www.nerdfonts.com/)** - Iconic Font Aggregator
 * ⭐ **[Make WordArt](https://www.makewordart.com/)**, [FlameText](https://www10.flamingtext.com/), [MakeText](https://maketext.io/), [TextGiraffe](https://www.textgiraffe.com/), [Text Pro](https://textpro.me/) or [CoolText](https://cooltext.com/) - WordArt Generators
-* ⭐ **[WhatTheFont](https://www.myfonts.com/WhatTheFont/)**, [Identifont](http://www.identifont.com/), [WhatFont](https://www.chengyinliu.com/whatfont.html) or [What Font Is](https://www.whatfontis.com/) - Font Identification Tools
+* ⭐ **[WhatTheFont](https://www.myfonts.com/WhatTheFont/)**, [Identifont](http://www.identifont.com/), [WhatFont](https://whatfonttool.com/) or [What Font Is](https://www.whatfontis.com/) - Font Identification Tools
 * ⭐ **[FontDrop](https://fontdrop.info/)** - Analyze Font Files
 * [Fork-Awesome](https://forkaweso.me/Fork-Awesome/) - Font Toolkit
 * [OpenDyslexic](https://opendyslexic.org/) - Increase Page Readability

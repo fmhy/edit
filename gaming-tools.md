@@ -157,7 +157,7 @@
 * [Lossless Scaling](https://rentry.co/FMHYBase64#lossless-scaling) - Windowed Game Scaling
 * [DxWnd](https://sourceforge.net/projects/dxwnd/) - Play Fullscreen Only Games in Window
 * [Widescreen Fixes Pack](https://thirteenag.github.io/wfp) / [GitHub](https://github.com/ThirteenAG/WidescreenFixesPack), [Widescreen Fixer v3.4](https://community.pcgamingwiki.com/files/file/1754-widescreen-fixer-v34-r737/) or [Flawless Widescreen](https://www.flawlesswidescreen.org/) - Widescreen Fixes
-* [4GB Patch](https://ntcore.com/?page_id=371) - Let Any Game use 4GB of RAM
+* [4GB Patch](https://ntcore.com/?page_id=371) - Patch x86 executables to use 4GB
 
 ***
 
@@ -287,7 +287,6 @@
 * [YourSaveGames](https://www.yoursavegames.com/) - PC / PSP
 * [SaveGame.Pro](https://savegame.pro/) - PC
 * [Saves For Games](https://savesforgames.com/) - PC
-* [Save Location](https://savelocation.net/) - Game Save Locations
 * [Save Editor Online](https://www.saveeditonline.com/) - Game Save Editor
 * [MegaGames](https://megagames.com/), [GTrainers](https://gtrainers.com/) or [GameCopyWorld](https://www.gamecopyworld.com/games/index.php) - Game Trainers
 
@@ -512,7 +511,7 @@
 * ↪️ **[Minecraft Launchers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_minecraft_launchers)** - [Beta](https://betacraft.uk/) / [Bedrock](https://bedrocklauncher.github.io/) / [Win10 Edition](https://rentry.co/FMHYBase64#minecraft-win-10-unlock)
 * ↪️ **[Minecraft Mods](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_minecraft_mods)**
 * ↪️ **[Minecraft Optimization](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_minecraft_optimization_mods)**
-* ⭐ **[Eaglercraft](https://eaglercraft.com/)** - Browser Minecraft / [Source](https://git.eaglercraft.rip/eaglercraft) / [Note](https://pastebin.com/wpDZzgN5) / [Client](https://eaglercraftx1-8.github.io/1.8/resent4.0/index.html) / [Mod Client](https://eaglerforge.github.io/) / [Mod Search](https://eaglerrinth.github.io/)  / [Code Mods](https://eaglerforge-builder.vercel.app/)
+* ⭐ **[Eaglercraft](https://eaglercraft.com/)** - Browser Minecraft / [Note](https://pastebin.com/wpDZzgN5) / [Source](https://git.eaglercraft.rip/eaglercraft) / [Client](https://eaglercraftx1-8.github.io/1.8/resent4.0/index.html) / [Mod Client](https://eaglerforge.github.io/) / [Mod Search](https://eaglerrinth.github.io/)  / [Code Mods](https://eaglerforge-builder.vercel.app/)
 * ⭐ **[Minecraft Wiki](https://minecraft.wiki/)** or [DigiMinecraft](https://www.digminecraft.com/) - Minecraft Resources / Guides
 * ⭐ **[MCModdingGuide](https://rentry.org/MCModdingGuide)** - Minecraft Modding Guide
 * ⭐ **[Couleur Tweak Tips](https://ctt.cx/)** - Minecraft Tweaks / Tips / [Discord](https://discord.gg/CTT)
@@ -689,7 +688,6 @@
 * [Globed](https://geode-sdk.org/mods/dankmeme.globed2/) - GD Multiplayer Mod
 * [GD Browser](https://gdbrowser.com/) - GD Level Browser
 * [GD Font Generator](https://gdcolon.com/gdfont) - Generate Custom GD Logos & Messages
-* [4GB Patch](https://ntcore.com/?page_id=371) - Lets GD use 4GB of RAM
 * [SPWN](https://spu7nix.net/spwn/#/) - GD Level Programming Language
 * [GD Docs](https://docs.gd-programming.org/) - GD Programming Documentation
 * [GD History](https://history.geometrydash.eu/) - GD Archival Project / [Downloader](https://github.com/Cvolton/GDHistory-Downloader)

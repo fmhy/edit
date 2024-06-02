@@ -284,7 +284,6 @@
 
 ## ▷ Kodi Tools
 
-* ⭐ [Kodi Setup Guide](https://redd.it/zzfdtb)
 * [EverythingKodi](https://rumble.com/c/EverythingKodi) - Kodi Addon Tutorials
 * [Kodi Builds Chart](https://kodiapps.com/builds-chart)
 * [r/Addons4Kodi](https://www.reddit.com/r/Addons4Kodi/) / [Tracker](https://kinkeadtech.com/best-kodi-streaming-addons/) / [Trending](https://kodiapps.com/addons-chart) - Kodi Addons

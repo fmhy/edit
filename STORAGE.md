@@ -844,7 +844,7 @@
 
 * ⭐ **[YouTube Studio](https://studio.youtube.com/)** - Click Audio Library
 
-[Free Music Archive](https://freemusicarchive.org/), [joshwoodward](https://www.joshwoodward.com/), [wowsound](https://wowsound.com/), [epidemicsound](https://www.epidemicsound.com/), [Pixabay Music](https://pixabay.com/music/), [audiomicro](https://www.audiomicro.com/), [Starfrosch](https://starfrosch.com/), [Mubert](https://mubert.com/), [ccHound](https://cchound.com/), [MusicScreen](https://www.musicscreen.org/), [FilmMusic](https://filmmusic.io/), [Fugue](https://icons8.com/music), [EDMRF](https://edmroyaltyfree.net/), [chosic](https://www.chosic.com/free-music/all/), [Anttis Instrumentals](https://www.gamedev.net/news/2000-instrumental-pieces-released-by-anttis-instrumentals-r1135/) / [Torrent](https://drive.google.com/open?id=0ByvAPNATAYsBR0FUczYzWHk3NEU), [Sampld](https://open.sampld.app/), [BLueFoxMusic](https://bluefoxmusic.com/), [ScottBuckley](https://www.scottbuckley.com.au/library/), [Creative Commons Jazz](https://jazz.mixremix.cc/), [tunetank](https://tunetank.com/), [audiolibrary](https://www.audiolibrary.com.co/), [purple-planet](https://www.purple-planet.com/), [freemusicpublicdomain](https://www.freemusicpublicdomain.com/)
+[FreePB](https://freepd.com/), [Free Music Archive](https://freemusicarchive.org/), [joshwoodward](https://www.joshwoodward.com/), [wowsound](https://wowsound.com/), [epidemicsound](https://www.epidemicsound.com/), [Pixabay Music](https://pixabay.com/music/), [audiomicro](https://www.audiomicro.com/), [Starfrosch](https://starfrosch.com/), [Mubert](https://mubert.com/), [ccHound](https://cchound.com/), [MusicScreen](https://www.musicscreen.org/), [FilmMusic](https://filmmusic.io/), [Fugue](https://icons8.com/music), [EDMRF](https://edmroyaltyfree.net/), [chosic](https://www.chosic.com/free-music/all/), [Anttis Instrumentals](https://www.gamedev.net/news/2000-instrumental-pieces-released-by-anttis-instrumentals-r1135/) / [Torrent](https://drive.google.com/open?id=0ByvAPNATAYsBR0FUczYzWHk3NEU), [Sampld](https://open.sampld.app/), [BLueFoxMusic](https://bluefoxmusic.com/), [ScottBuckley](https://www.scottbuckley.com.au/library/), [Creative Commons Jazz](https://jazz.mixremix.cc/), [tunetank](https://tunetank.com/), [audiolibrary](https://www.audiolibrary.com.co/), [purple-planet](https://www.purple-planet.com/), [freemusicpublicdomain](https://www.freemusicpublicdomain.com/)
 
 ***
 
@@ -981,6 +981,7 @@
 
 ## Switch ROMs
 
+* [Ziperto](https://ziperto.com/)
 * [ROMSLAB](https://romslab.com/)
 * [NXBrew](https://nxbrew.com/) / [Discord](https://discord.com/invite/aX93bFK9R6) / Scroll past Download Setup buttons
 * [nsw2u](https://nsw2u.com/), [2](https://nsw2u.net/)
@@ -1088,9 +1089,9 @@
 
 ***
 
+* ↪️ **[Udemy Course Megadrives](https://rentry.co/FMHYBase64#udemy-course-drives)**
 * ⭐ **[Coursevania](https://coursevania.com/)** / [Telegram](https://t.me/Coursevania)
 * ⭐ **[CouponScorpion](https://couponscorpion.com/)**
-* ↪️ **[Udemy Course Megadrives](https://rentry.co/FMHYBase64#udemy-course-drives)**
 * [Automatic-Course-Enroller](https://github.com/aapatre/Automatic-Udemy-Course-Enroller-GET-PAID-UDEMY-COURSES-for-FREE) or [Udemy-Course-Enroller](https://github.com/techtanic/Discounted-Udemy-Course-Enroller) - Auto Course Enrollment
 * [GUdemyBot](https://t.me/GUdemyBot), [UdemyBot](https://github.com/gautamajay52/UdemyBot), [UdemyScrapperZBot](https://t.me/UdemyScrapperZBot) or [UdemyPy](https://github.com/dylannalex/UdemyPy) - Udemy Course Bots
 * [Giga Course](https://gigacourse.com/) - Udemy Courses / Torrent
