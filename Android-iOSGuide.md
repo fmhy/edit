@@ -1036,7 +1036,6 @@
 * [Gala](https://github.com/codyd51/gala) - iOS 4 Interactive Jailbreak
 * [limera1n](https://limera1n.com/) - 3.2.2-4.2.1 Jailbreak
 * [JailbreakMe](https://www.jailbreakme.com/) - 3.1.2-iOS 4.0.1 Jailbreak
-* [redsn0w](https://sites.google.com/a/iphone-dev.com/files/home/) - 3.0-3.1 Jailbreak
 * [ipwndfu](https://github.com/axi0mX/ipwndfu) - Jailbreak iPhone 3GS
 * [n1ghtshade](https://github.com/synackuk/n1ghtshade/releases) - 32bit Jailbreak Tool
 * [/r/LegacyJailbreak](https://www.reddit.com/r/LegacyJailbreak/) - Jailbreak Old Devices / [Discord](https://discord.gg/bhDpTAu)
