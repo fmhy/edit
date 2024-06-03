@@ -23,7 +23,6 @@ export default defineConfig({
   lang: 'en-US',
   lastUpdated: false,
   cleanUrls: true,
-  appearance: 'dark',
   base: baseUrl,
   srcExclude: ['readme.md', 'single-page'],
   ignoreDeadLinks: true,
