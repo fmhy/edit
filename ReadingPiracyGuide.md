@@ -82,6 +82,7 @@
 * [BooksToLearn](https://www.booktolearn.com) - Books
 * [Read Novels](https://en.novelonlineread.com/) - Books
 * [EBooksCart](https://ebookscart.com/) - Books
+* [TPB Books](https://thepiratebay.org/search.php?q=top100:601) - Books / Torrents / **Avoid Software / Games**
 * [Novel12](https://novel12.com/) - Books
 * [IsIDore](https://rentry.co/FMHYBase64#isidore) - Books
 * [DigiLibraries](https://digilibraries.com/) - Books
