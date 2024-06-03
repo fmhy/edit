@@ -42,7 +42,7 @@ jobs:
         with:
           script: |
             const prNumber = context.payload.pull_request.number;
-            await github.issues.addAssignees({
+            await github.rest.issues.addAssignees({
               owner: context.repo.owner,
               repo: context.repo.repo,
               issue_number: prNumber,
