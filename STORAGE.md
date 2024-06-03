@@ -433,6 +433,25 @@
 
 ***
 
+## Game Development Assets
+
+* [CraftPix](https://craftpix.net/freebies/)
+* [Kenney](https://www.kenney.nl/)
+* [/r/GameAssets](https://www.reddit.com/r/gameassets/)
+* [UnityAssets4Free](https://unityassets4free.com/)
+* [Open Game Art](https://opengameart.org/)
+* [UnityFreaks](https://www.unityfreaks.com/)
+* [GameDevUE](https://t.me/GameDevUE)
+* [SreamGridDB](https://www.steamgriddb.com/)
+* [DevAssets](https://devassets.com/)
+* [Incern](https://www.incern.org/)
+* [GameDevAssets](https://www.gamedevmarket.net/category/3d/?type=free)
+* [xonotic](https://github.com/xonotic) - FPS Game Assets
+* [Vanguard](https://github.com/VanguardDev/Vanguard) / [2](https://project-vanguard.netlify.app/index.html) - FPS Game Assets
+* [Warsow](https://github.com/Warsow) - FPS Game Assets
+
+***
+
 ## Game Engines
 
 * ⭐ **[Game Engine Collection](https://github.com/collections/game-engines)**
