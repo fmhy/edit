@@ -261,7 +261,7 @@
 * [Wad Archive](https://archive.org/details/wadarchive) - 83k WAD Files
 * [Cah4e3](https://cah4e3.shedevr.org.ru/) - Unlicensed ROMs / Bootlegs
 * [Muds](https://muds.fandom.com/wiki/) - Text Adventure ROM Wiki
-* [PICOwesome](https://archive.org/details/picowesome-v1.3) - PICO-8 ROMs
+* [PICOwesome]( https://archive.org/details/picowesome-v-1.5-apr-12-2024) / [1](https://1fichier.com/?0756l6r5cp1bmy8onulz) / [2](https://drive.google.com/file/d/1vqrESHevM7FNBr44phIgXqAHk9Tz345C/view)- PICO-8 ROMs
 * [softcobra](https://softcobra.com/ntdo/ntdo/) - ROMs / Switch / 3DS / WiiU / [Decoder](https://nin10news.com/decode/)
 * [MarioCube](https://mariocube.com/) - ROMs / Wii / Gamecube
 * [64DD.org](https://64dd.org/) - ROMs / 64DD
