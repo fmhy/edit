@@ -381,9 +381,15 @@
 * [Anilyzer](https://anilyzer.com/) - Watch YouTube Videos in Slow Motion / Frame by Frame
 * [YTStamps](https://ytstamps.netlify.app/) - Create Custom Start / End Times
 * [Solidpoint](https://solidpoint.ai/), [Glasp](https://glasp.co/youtube-summary), [Quickvid](https://quickvid.vercel.app/), [Eightify](https://eightify.app/), [VideoGist](https://www.videogist.co/) or [VideoHighlight](https://videohighlight.com/) - Summarize YouTube Videos
+* [Stepify](https://stepify.tech/) - Get Step-By-Step Tutorial of YT Video
 * [Recover My Video](https://www.recovermy.video/) - Recover Titles of Deleted / Private YouTube Videos
 * [Filmot Title Restorer](https://greasyfork.org/en/scripts/430202-filmot-title-restorer) - Restore Deleted YouTube Video Titles in Playlists
 * [Kament](https://kament.io/) - Add Comments on Comment Disabled Videos
+* [Loadtup](https://loadtup.com/), [FrogBase](https://github.com/hayabhay/frogbase) or [Whisper](https://huggingface.co/spaces/BatuhanYilmaz/Whisper-Auto-Subtitled-Video-Generator) - YouTube Video Transcribers
+* [YT Sub Downloader](https://greasyfork.org/en/scripts/5368) or [YouTube_subtitle_downloader](https://t.me/youtube_subtitle_downloader_bot) - Download Subs from YouTube Videos
+* [amara](https://amara.org/en/) or [SubtitlesForYoutube](https://github.com/yashagarwal1411/SubtitlesForYoutube) - Add Subs to YouTube Videos / [Edge](https://microsoftedge.microsoft.com/addons/detail/subtitles-for-youtube/gfjcoflghpdkddjnpegonjhnbngeocfi)
+* [YouTube Subtitle Position](https://addons.mozilla.org/en-US/firefox/addon/youtube-subtitle-position/) - Change Position of YouTube Subtitles
+* [YTSubConverter](https://github.com/arcusmaximus/YTSubConverter) - Styled YouTube Subtitles
 * [ChatReplay](https://chatreplay.stream/) - YouTube Live Stream Chat Replay
 * [LiveTL](https://kentonishi.com/LiveTL/) - YouTube Live Stream Translator
 * [YouTubeLiveChatFlusher](https://github.com/ys-j/YoutubeLiveChatFlusher) - YouTube Live Bullet Chatting (Danmaku)
