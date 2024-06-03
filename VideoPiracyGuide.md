@@ -315,7 +315,7 @@
 
 ## ▷ Video Streaming
 
-* **Note** - These are good for finding classic, obscure, and short films.
+* **Note** - These are good for finding classic, obscure and short films.
 
 ***
 
