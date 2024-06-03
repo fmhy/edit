@@ -27,13 +27,13 @@ jobs:
         with:
           script: |
             const prNumber = context.payload.pull_request.number;
-            const labels = await github.issues.listLabelsOnIssue({
+            const { data: labels } = await github.rest.issues.listLabelsOnIssue({
               owner: context.repo.owner,
               repo: context.repo.repo,
               issue_number: prNumber,
             });
 
-            const hasCoreLabel = labels.data.some(label => label.name === 'core');
+            const hasCoreLabel = labels.some(label => label.name === 'core');
             return hasCoreLabel;
 
       - name: Auto-assign to PR
