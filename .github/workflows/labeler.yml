@@ -1,6 +1,7 @@
 name: 'Pull Request Labeler'
 on:
-  - pull_request_target
+  pull_request:
+    types: [opened, labeled, unlabeled]
 
 jobs:
   triage:
@@ -15,10 +16,35 @@ jobs:
         uses: actions/labeler@v4
         with:
           repo-token: ${{ secrets.GITHUB_TOKEN }}
-      - name: Auto-assign to core PRs
-        if: contains(github.event.pull_request.labels.*.name, 'core')
-        uses: kentaro-m/auto-assign-action@v1
+
+  auto-assign:
+    runs-on: ubuntu-latest
+    needs: triage
+    steps:
+      - name: Check if PR has 'core' label
+        id: check_label
+        uses: actions/github-script@v6
         with:
-          assignees: [taskylizard]
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          script: |
+            const prNumber = context.payload.pull_request.number;
+            const labels = await github.issues.listLabelsOnIssue({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              issue_number: prNumber,
+            });
+
+            const hasCoreLabel = labels.data.some(label => label.name === 'core');
+            return hasCoreLabel;
+
+      - name: Auto-assign to PR
+        if: steps.check_label.outputs.result == 'true'
+        uses: actions/github-script@v6
+        with:
+          script: |
+            const prNumber = context.payload.pull_request.number;
+            await github.issues.addAssignees({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              issue_number: prNumber,
+              assignees: ['taskylizard'],
+            });
