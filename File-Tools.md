@@ -20,7 +20,6 @@
 * [mergerfs](https://github.com/trapexit/mergerfs) - Union Filesystem
 * [filebrowser](https://github.com/filebrowser/filebrowser/) - Online File Viewer
 * [File-Examples](https://file-examples.com/) - Dummy File Examples
-* [What](https://github.com/bee-san/pyWhat) - File Analyzer
 * [OpenHashTab](https://github.com/namazso/OpenHashTab) - Compare / Display File Hashes
 * [WinMerge](https://winmerge.org/) - Compare / Merge Files & Folders
 * [Attribute Changer](https://www.petges.lu/) - Edit File & Folder Properties
@@ -349,6 +348,7 @@
 * ⭐ **[wormhole](https://wormhole.app/)**
 * ⭐ **[justbeamit](https://justbeamit.com/)**
 * ⭐ **[Tailscale](https://tailscale.com/)**
+* ⭐ **[spacedrop](https://spacedrop.app/)**
 * [Warpinator](https://github.com/linuxmint/warpinator) - Phone / Desktop Transfer
 * [QRServ](https://play.google.com/store/apps/details?id=dev.uint.qrserv) - Phone / Desktop Transfer / [GitHub](https://github.com/uintdev/qrserv)
 * [pairdrop](https://pairdrop.net/) or [Snapdrop](https://snapdrop.net/)
@@ -392,7 +392,6 @@
 * [EchoDuck](https://echoduck.com/)
 * [ffsend](https://github.com/timvisee/ffsend)
 * [File.love](https://file.love/)
-* [spacedrop](https://spacedrop.app/)
 * [IPFS](https://ipfs.tech/) or [kubo](https://github.com/ipfs/kubo) - P2P Hypermedia Protocol
 * IPFS Tools - [Resources](https://github.com/ipfs/awesome-ipfs) / [Extension](https://github.com/ipfs/ipfs-companion) / [Desktop](https://github.com/ipfs/ipfs-desktop) / [IPFS Cluster](https://ipfscluster.io/)
 

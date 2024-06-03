@@ -15,7 +15,7 @@
 * [AdslGate](https://www.adslgate.com/) - Arabic Tech Forum
 * [At4RE](https://www.at4re.net/) - Reverse Engineering Forum
 * [سعر الذهب](https://eg.goldratestoday.net/%d8%b3%d8%b9%d8%b1-%d8%a7%d9%84%d8%b0%d9%87%d8%a8-%d9%81%d9%8a-%d9%85%d8%b5%d8%b1/) - Check Live Gold Prices
-* [arabic-reddit-extension](https://github.com/andronasef/arabic-reddit-extension) - Fix Atabic Language on Reddit
+* [arabic-reddit-extension](https://github.com/andronasef/arabic-reddit-extension) - Fix Arabic Language on Reddit
 
 ## ▷ Downloading / تحميل
 
@@ -1595,7 +1595,7 @@
 # ► Turkish / Türkçe
 
 * [Firmaa](http://www.firmaa.com/) - Company Directory
-* [Playstationhaber](https://playstationhaber.com/) - PlayStation Piracy Forum
+* [Playstation Haber](https://playstationhaber.com/) - PlayStation Piracy Forum
 * [MCpsp](https://www.mcpsp.com) - PlayStation Piracy Forum
 * [En ucuz oyun](https://www.enucuzoyun.com) - Price Tracker
 * [Teyit](https://teyit.org) - News Confirmation
@@ -1606,11 +1606,12 @@
 * [Türkçe Altyazı](https://turkcealtyazi.org/index.php) - Subtitles
 * [Turkish Audio Center](https://www.turkishaudiocenter.com) - Voiceovers
 * [Shareses](https://shareses.com) - Voiceovers
-* [Türkce Ses İndir](https://www.turkcesesindir.com/) - Voiceovers
-* [DwForce](http://dwa-audio.blogspot.com/) - Voiceovers
-* [SinnerClown](https://sinnerclownceviri.net) - Game Localization / [Discord](https://discord.com/invite/nApvcT6Tt6)
-* [PixelSaga](https://discord.gg/ZZER4w3Mmx) - Game Localization Discord
-* [Calypso](https://discord.gg/calypsoceviri) - Game Localization Discord
+* [Türkçe Ses İndir](https://www.turkcesesindir.com/) - Voiceovers
+* [Dw Force](http://dwa-audio.blogspot.com/) - Voiceovers
+* [Tr Sound Track](https://trsoundtrack.blogspot.com/) - Voiceovers
+* [Sinner Clown](https://sinnerclownceviri.net) - Game Localization / [Discord](https://discord.com/invite/nApvcT6Tt6)
+* [Pixel Saga](https://discord.gg/ZZER4w3Mmx) - Game Localization Discord
+* [Calypso](https://discord.com/invite/9zJe7ttAjS) - Game Localization Discord
 * [Hangar](https://www.hangarceviri.com) - Game Localization / [Discord](https://discord.com/invite/hangar)
 
 ## ▷ Streaming
@@ -1623,8 +1624,10 @@
 * [Film İzle](https://filmizle2022.info/) - Movies
 * [4kFilmizlesene](https://www.4kfilmizlesene.org/) - Movies
 * [Film İzlesene](https://www.filmizlesene.pro) - Movies
-* [Dizilab](https://dizilab.com/) - TV
 * [Film Mom](https://www.filmmom.de/) - Movies
+* [Dizipal](https://dizipal807.com/), [2](https://dizipal735.com/) - Movies / TV
+* [İnatflix](https://hdfilmcehennemi4.xyz/) - Movies / TV
+* [Dizilab](https://dizilab.com/) - TV
 * [Dizibox](https://www.dizibox.in) - TV
 * [Turkish123](https://turkish123.com/) - TV
 * [Yoturkish](https://www.yoturkish.com) - TV
