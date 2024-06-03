@@ -19,6 +19,6 @@ jobs:
         if: contains(github.event.pull_request.labels.*.name, 'core')
         uses: kentaro-m/auto-assign-action@v1
         with:
-          assignees: [taskylizard]
+          assignees: 'taskylizard'
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
