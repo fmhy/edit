@@ -2865,6 +2865,7 @@ import Index from './.vitepress/theme/Posts.vue'
 * [Marios Alternative](https://rentry.co/FMHYBase64#hacked-super-mario) - Hacked Super Mario ROMs
 * [SMWCentral](https://smwcentral.net/) - Hacked Super Mario World ROMs
 * [Wario Land Hack Vault](https://wario-land.github.io/HackVault/index.html) - Hacked Wario Land ROMs
+* [PICOwesome]( https://archive.org/details/picowesome-v-1.5-apr-12-2024) - PICO-8 ROMs
 * [POP Unofficial Website](https://popuw.com/) - Prince of Persia ROMs / Mods
 * [Ship of Harkinian](https://github.com/HarbourMasters/Shipwright) - Ocarina of Time PC Port
 * [Super Mario Bros Crossover](https://archive.org/details/SuperMarioCrossoverOffline) - Play SMB with Alternative Characters
@@ -5501,7 +5502,6 @@ outline: false
 * [Gala](https://github.com/codyd51/gala) - iOS 4 Interactive Jailbreak
 * [limera1n](https://limera1n.com/) - 3.2.2-4.2.1 Jailbreak
 * [JailbreakMe](https://www.jailbreakme.com/) - 3.1.2-iOS 4.0.1 Jailbreak
-* [redsn0w](https://sites.google.com/a/iphone-dev.com/files/home/) - 3.0-3.1 Jailbreak
 * [ipwndfu](https://github.com/axi0mX/ipwndfu) - Jailbreak iPhone 3GS
 * [n1ghtshade](https://github.com/synackuk/n1ghtshade/releases) - 32bit Jailbreak Tool
 * [/r/LegacyJailbreak](https://www.reddit.com/r/LegacyJailbreak/) - Jailbreak Old Devices / [Discord](https://discord.gg/bhDpTAu)
@@ -10784,6 +10784,7 @@ onMounted(() => {
 * [Shareses](https://shareses.com) - Voiceovers
 * [Türkçe Ses İndir](https://www.turkcesesindir.com/) - Voiceovers
 * [Dw Force](http://dwa-audio.blogspot.com/) - Voiceovers
+* [Tr Sound Track](https://trsoundtrack.blogspot.com/) - Voiceovers
 * [Sinner Clown](https://sinnerclownceviri.net) - Game Localization / [Discord](https://discord.com/invite/nApvcT6Tt6)
 * [Pixel Saga](https://discord.gg/ZZER4w3Mmx) - Game Localization Discord
 * [Calypso](https://discord.com/invite/9zJe7ttAjS) - Game Localization Discord
@@ -10800,8 +10801,8 @@ onMounted(() => {
 * [4kFilmizlesene](https://www.4kfilmizlesene.org/) - Movies
 * [Film İzlesene](https://www.filmizlesene.pro) - Movies
 * [Film Mom](https://www.filmmom.de/) - Movies
-* [Dizipal](https://dizipal807.com/), [2](https://dizipal735.com/) - Movies / Series
-* [İnatflix](https://hdfilmcehennemi4.xyz/) - Movies / Series
+* [Dizipal](https://dizipal807.com/), [2](https://dizipal735.com/) - Movies / TV
+* [İnatflix](https://hdfilmcehennemi4.xyz/) - Movies / TV
 * [Dizilab](https://dizilab.com/) - TV
 * [Dizibox](https://www.dizibox.in) - TV
 * [Turkish123](https://turkish123.com/) - TV
@@ -11578,7 +11579,7 @@ onMounted(() => {
 * ⭐ **[Binged](https://binged.live/)**, [2](https://binge.lol/), [3](https://binged.in/) - Movies / TV / Anime / 4k / 1080p / [Discord](https://discord.gg/f2SvhcKCKS)
 * ⭐ **[LightDLMovies](https://lightdl.xyz/)**, [2](https://lightdlmovies.blogspot.com/) - Movies / TV / 1080p
 * ⭐ **[VegaMovies](https://vegamovies.yt/)** - Movies / TV / Anime / 1080p / 4K / [Telegram](https://telegram.dog/VegamoviesTo_Official)
-* ⭐ **[OlaMovies](https://olamovies.life/)** - Movies / TV / 4K / 1080p
+* ⭐ **[OlaMovies](https://olamovies.rent/)** - Movies / TV / 4K / 1080p
 * ⭐ **[MovieParadise](https://movieparadise.org/)** - Movies / TV / 1080p / [Get Code](https://pastebin.com/5jTpFCCP) / Code unlocks faster file host (1fichier)
 * ⭐ **[Drama Day](https://dramaday.me/)** - Asian Drama / 1080p
 * ⭐ **[Video Download CSE](https://cse.google.com/cse?cx=006516753008110874046:wevn3lkn9rr)** / [CSE 2](https://cse.google.com/cse?cx=89f2dfcea452fc451) / [CSE 3](https://cse.google.com/cse?cx=aab218d0aa53e3578)
@@ -14425,6 +14426,7 @@ onMounted(() => {
 * [SKSAppManifestGenerator](https://github.com/Sak32009/SKSAppManifestGenerator) - Create AppManifest Data
 * [Depressurizer](https://github.com/Depressurizer/Depressurizer) - Steam Library Organizer
 * [Steam Art Manager](https://github.com/Tormak9970/Steam-Art-Manager) - Find / Manage Game Art
+* [Steam API Check Bypass](https://github.com/oureveryday/Steam-API-Check-Bypass) - Steam API Check Bypass
 * [ColdAPI](https://github.com/Rat431/ColdAPI_Steam) - Offline Steam Emulator
 * [Super Steam Packer](https://cs.rin.ru/forum/viewtopic.php?f=29&t=131328&hilit=super+steam+packer) - Pack and share your Steam games
 * [Steam Link](https://play.google.com/store/apps/details?id=com.valvesoftware.steamlink) - Stream Steam Library to TV
@@ -14512,6 +14514,7 @@ onMounted(() => {
 * [Lossless Scaling](https://rentry.co/FMHYBase64#lossless-scaling) - Windowed Game Scaling
 * [DxWnd](https://sourceforge.net/projects/dxwnd/) - Play Fullscreen Only Games in Window
 * [Widescreen Fixes Pack](https://thirteenag.github.io/wfp) / [GitHub](https://github.com/ThirteenAG/WidescreenFixesPack), [Widescreen Fixer v3.4](https://community.pcgamingwiki.com/files/file/1754-widescreen-fixer-v34-r737/) or [Flawless Widescreen](https://www.flawlesswidescreen.org/) - Widescreen Fixes
+* [4GB Patch](https://ntcore.com/?page_id=371) - Patch x86 executables to use 4GB
 
 ***
 
@@ -14641,7 +14644,6 @@ onMounted(() => {
 * [YourSaveGames](https://www.yoursavegames.com/) - PC / PSP
 * [SaveGame.Pro](https://savegame.pro/) - PC
 * [Saves For Games](https://savesforgames.com/) - PC
-* [Save Location](https://savelocation.net/) - Game Save Locations
 * [Save Editor Online](https://www.saveeditonline.com/) - Game Save Editor
 * [MegaGames](https://megagames.com/), [GTrainers](https://gtrainers.com/) or [GameCopyWorld](https://www.gamecopyworld.com/games/index.php) - Game Trainers
 
@@ -15130,7 +15132,7 @@ onMounted(() => {
 * ⭐ **[RuTracker](https://rutracker.org/)**, [2](https://rutracker.nl/), [3](https://rutracker.net/) - Video / Audio / Games / Software / Android / Comics / Magazines
 * ⭐ **RuTracker Tools** - [Addon](https://addons.mozilla.org/en-US/firefox/addon/rutracker_torrent_search/) / [Wiki](http://rutracker.wiki/) / [Rules](https://rutracker.org/forum/viewtopic.php?t=1045) / [Translator](https://github.com/FilipePS/Traduzir-paginas-web#install)
 * ⭐ **[TorrentGalaxy](https://torrentgalaxy.to/)** - Video / Audio / NSFW / [Mirrors](https://proxygalaxy.me/)
-* ⭐ **[m0nkrus](https://w14.monkrus.ws/)** - Adobe Software Archive / [Search Engine](https://dvuzu.github.io/monkrus-search) / [How-to](https://rentry.co/adobesoftware)
+* ⭐ **[m0nkrus](https://w14.monkrus.ws/)** - Adobe Software Archive / [Search Engine](https://dvuzu.github.io/monkrus-search) / [How-to](https://rentry.co/adobesoftware) / [Block Adobe](https://rentry.co/psnfoandhostblock), [2](https://a.dove.isdumb.one/127.txt)
 * ⭐ **[Torrent CSE](https://cse.google.com/cse?cx=006516753008110874046:0led5tukccj)** / [CSE 2](https://cse.google.com/cse?cx=006516753008110874046:kh3piqxus6n) - Multi Site Search
 * [1337x](https://1337x.to/) - Video / Audio / NSFW / [Avoid Software](https://pastebin.com/8AaMuz5u)
 * 1337x Tools - [Mirrors](https://1337x-status.org/), [2](https://1337x.to/about) / [User Ranks](https://i.ibb.co/WfNhvtB/ebc2def26433.png) / [Discord Bot](https://github.com/brandongallagher1999/1337x-Bot) / [Telegram Bot](https://t.me/search_content_bot), [2](https://github.com/xbIm/1337x-torrent-telegram-bot) / [IMDb Ratings](https://github.com/kotylo/1337imdb) / [Proxy](https://redd.it/tz7nyx), [2](https://pastebin.com/3n5K0QrP) / [Enhancements](https://greasyfork.org/en/scripts/33379) / [Magnets](https://greasyfork.org/en/scripts/373230) / [Subtitles](https://greasyfork.org/en/scripts/29467) / [Timezone Fix](https://greasyfork.org/en/scripts/421635)
@@ -19339,7 +19341,7 @@ onMounted(() => {
 * ⭐ **[Eight Dollars](https://github.com/wseagar/eight-dollars)** - Show Twitter Blue vs. Real Verified Users
 * [Control Panel for Twitter](https://jbscript.dev/control-panel-for-twitter) - Twitter Enhancement Extensions
 * [Minimal Twitter](https://typefully.com/minimal-twitter) - Minimal Twitter Themes
-* [OldTwitter](https://github.com/dimdenGD/OldTwitter or [GoodTwitter2](https://github.com/Bl4Cc4t/GoodTwitter2) - Original Twitter Theme
+* [OldTwitter](https://github.com/dimdenGD/OldTwitter) or [GoodTwitter2](https://github.com/Bl4Cc4t/GoodTwitter2) - Original Twitter Theme
 * [OldTweetDeck](https://github.com/dimdenGD/OldTweetDeck) - TweetDeck Dashboard
 * [Twitter Plus](https://greasyfork.org/en/scripts/387969) - View Twitter Images in Original Quality
 * [Twitter Demetricator](https://bengrosser.com/projects/twitter-demetricator/) - Remove All Twitter Metrics
