@@ -607,7 +607,7 @@
 ***
 
 ## ▷ Detoxing
-
+* ⭐ **[The Freedom Model for Addictions](https://www.thefreedommodel.org)**, [Abridged Ebook](https://www.thefreedommodel.org/wp-content/uploads/2020/02/TheFreedomModel-ABRIDGED-NEW.pdf), [Freedom Model Quick Lessons](https://www.youtube.com/playlist?list=PLd6KCmnSpHuE29G2f9JXHMcZKbvzSdInw), [The Addiction Solution Podcast](https://www.youtube.com/playlist?list=PLd6KCmnSpHuFBFw-ei2eTYJPrSoLuwBFL) - Solve addiction by getting the right information. [*Note*](https://rentry.co/nfmbkt8m)
 * ⭐ **[Safe Substance](https://safesubstance.com/)**, [Drugs.com](https://www.drugs.com/) or [DrugBank](https://go.drugbank.com/) - Drug Information / Side Effects
 * ⭐ **[/r/NoSurf](https://www.reddit.com/r/nosurf/wiki/index)** - Digital Detox Community / [Discord](https://discordapp.com/invite/QFhXt2F)
 * [BreakFree](https://breakfree-2c089.web.app/) - Break Smoking Habits
