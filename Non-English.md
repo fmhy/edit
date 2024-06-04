@@ -274,6 +274,7 @@
 
 * [Seznam](https://www.seznam.cz/), [Atlas](https://searchatlas.centrum.cz/) or [Centrum](https://search.centrum.cz/) - Search Engines
 * [CSFD](https://www.csfd.cz/) - Czech Film Database
+* [databazeknih](https://www.databazeknih.cz/) - Czech Book Database
 
 ## ▷ Downloading
 
