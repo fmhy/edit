@@ -1162,7 +1162,7 @@
 * [EncoreTVD](https://apps.apple.com/us/app/encoretvb-english/id1191642382) - Chinese Drama
 * [STBEmu](https://apps.apple.com/app/stbemutv/id1567306197) - Emulate an STB and Watch IPTV
 * [VLC](https://apps.apple.com/ca/app/vlc-for-mobile/id650377962), [SPlayer](https://splayer.dev/), [Loader](https://apps.apple.com/us/app/documents-loader/id1442498151), [Pojobox](https://apps.apple.com/us/app/pojo-4k-hd-video-music-player/id1454098557) or [Infuse 6](https://apps.apple.com/us/app/infuse-6/id1136220934) - Video Players
-* [uYouPlus](https://uyouplus.com/), [uYouEnhanced](https://github.com/arichornlover/uYouEnhanced), [YTLitePlus](https://github.com/Balackburn/YTLitePlus/), [YT Tweaked](https://rentry.co/FMHYBase64#yt-tweaked-ipas), [YouTubeRebornPlus](https://github.com/arichornlover/YouTubeRebornPlus) or [Cercube](https://rejail.ru/pack/cercube) - Modded YouTube iPAs
+* [uYouPlus](https://github.com/qnblackcat/uYouPlus), [uYouEnhanced](https://github.com/arichornlover/uYouEnhanced), [YTLitePlus](https://github.com/Balackburn/YTLitePlus/), [YT Tweaked](https://rentry.co/FMHYBase64#yt-tweaked-ipas), [YouTubeRebornPlus](https://github.com/arichornlover/YouTubeRebornPlus) or [Cercube](https://rejail.ru/pack/cercube) - Modded YouTube iPAs
 * [Tunity](https://tunity.com/) - Hear Any Muted TV
 
 ***
