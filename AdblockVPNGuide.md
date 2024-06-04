@@ -292,7 +292,6 @@
 * [OTPClient](https://github.com/paolostivanin/OTPClient) - Linux 2FA
 * [2FAuth](https://docs.2fauth.app/) - Web App 2FA / Self-hosted
 * [Sentinel](https://getsentinel.io/) - iOS / Mac 2FA
-* [Raivo OTP](https://raivo-otp.com) - iOS 2FA
 * [OTP Auth](https://apps.apple.com/ca/app/otp-auth/id659877384) - iOS 2FA
 * [Tofu](https://www.tofuauth.com/) - iOS 2FA
 * [Authenticator](https://authenticator.cc/) - Generate Two-Factor QR Codes / [GitHub](https://gitlab.gnome.org/World/Authenticator)
