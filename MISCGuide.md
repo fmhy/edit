@@ -1134,7 +1134,6 @@
 * [Translation Party](https://www.translationparty.com/) - Translation Parties
 * [Status.Cafe](https://status.cafe/) - Share Current Status
 * [TwoCansAndAString](https://twocansandstring.com/) or [TellOnMe](https://tellonym.me/) - Anonymous Q&A
-* [IsItNormal](https://isitnormal.com/) - Ask if Things are Normal
 * [Earth 2050](https://2050.earth/) - Future Predictions
 * [FutureMe](https://www.futureme.org/) or [MessageToTheFuture](https://messagetothefutu.re/) - Send Messages to Future Self
 * [PostSecret](https://postsecret.com/) - Share Secrets via Postcard
@@ -1419,13 +1418,11 @@
 * [ShindanMaker](https://en.shindanmaker.com/) - Diagnoses / Fortune AI
 * [LMGTFY](https://lmgtfy2.com/), [LetMeGoogleThat](https://letmegooglethat.com/) or [GIYBF](https://giybf.com/) - Remind People that Google Exists
 * [AfterTheTone](https://afterthetone.com/) - Random Answering Machine Messages
-* [Talk Obama To Me](http://talkobamato.me/) - Make Obama Say Stuff
 * [Pink Trombone](https://dood.al/pinktrombone/) - Human Pitch Generator
 * [Purrli](https://purrli.com/) - Cat Purr Generator
 * [LongestPoemInTheWorld](https://www.longestpoemintheworld.com/) - Form Rhymes from Tweets
 * [The Nicest Place](https://thenicestplace.net/) - Internet Hugs
 * [InspiroBot](https://inspirobot.me/) - Inspirational Quote Generator
-* [Hypochondriapp](http://hypochondriapp.io/) - Get a Terrible Diagnosis
 * [HORG](http://www.horg.com/horg/) - Holotypic Occlupanid Research Group
 * [Waifu Labs](https://waifulabs.com/) - Meet your Waifu
 * [Satania](https://satania.moe/) - Satania Waifu / [GitHub](https://github.com/Pizzacus/satania.moe)
