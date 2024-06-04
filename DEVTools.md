@@ -231,28 +231,37 @@
 * ↪️ **[3D Models / Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/img-tools#wiki_.25B7_3d_models)**
 * ↪️ **[Game Development Assets]()**
 * ⭐ **[SpriteFusion](https://www.spritefusion.com/)** - Tilemap Editor / [Discord](https://discord.gg/8sCEAspmBV)
+* [PICO-8](https://mboffin.itch.io/pico8-educational-toolset) - Basic Game Development Concepts / [Web Version](https://www.pico-8-edu.com/)
+* [SebastianLague](https://www.youtube.com/c/SebastianLague/playlists?view=50&sort=dd&shelf_id=4) - Game Development Tutorials
+* [Trig for Games](https://demoman.net/?a=trig-for-games) - Trigonometry Lessons for Games
+* [Game Math](https://gamemath.com/book/intro.html) - Mathematics Lessons for Game Devs
+* [Graphics Workshop](https://github.com/ekzhang/graphics-workshop) - Learn Computer Graphics
+* [CharPad](https://subchristsoftware.itch.io/charpad-c64-free) - Commodore 64 Graphics Editor
+* [CHIP-8 Research](https://chip-8.github.io/) - CHIP-8 Research
 * [HiddenPalace](https://hiddenpalace.org/) - Game Development Media Archive
 * [Tommti Systems](https://www.tommti-systems.de/go.html?http://www.tommti-systems.de/main-Dateien/files.html) - 3D Benchmark Tools
 * [XeSS](https://github.com/intel/xess) - Increase Framerate of Game
+* [AMD Capsaicin Framework](https://gpuopen.com/capsaicin/) - Direct3D 12 Framework
 * [Serpent.ai](http://serpent.ai/) - Game Agent Framework
+* [Faux on 3D](https://gizmo199.itch.io/fauxton3d) - Sprite Stacking Framework
+* [Phaser](https://phaser.io/) - Mobile HTML5 Game Framework
 * [Tracy Profiler](https://github.com/wolfpld/tracy) - Frame Profiler
 * [PlanetSide](https://planetside.co.uk/) - CG Environment Generator
-* [Faux on 3D](https://gizmo199.itch.io/fauxton3d) - Sprite Stacking Framework
 * [MapEditor](https://www.mapeditor.org/) or [Tilesetter](https://www.tilesetter.org/) - Level Editor
 * [Designer Toolkit](https://ldtk.io/) or [Ogmo Editor](https://ogmo-editor-3.github.io/) - 2D Level Editor Level
 * [SPARTAN Procedural](https://pnjeffries.itch.io/spartan-procjam-edition) - Procedural Tile Generator
-* [Laigter](https://azagaya.itch.io/laigter) - 2D Texture Map
 * [Doshaven Programming List](https://www.doshaven.eu/programming-tools/) - DOS Game Creator Tools
 * [QB64SourceCode](https://www.qb64tutorial.com/) - QB64 Game Programming Tutorials
 * [Fantasy Consoles / Computers](https://github.com/paladin-t/fantasy) - List of Fantasy Consoles and Computers
 * [Kaboomjs](https://kaboomjs.com/) - Quickly Make Games with Javascript
-* [Phaser](https://phaser.io/) - Mobile HTML5 Game Framework
 * [PlayCanvas](https://playcanvas.com/) - Build HTML5 Visualizations / Games
 * [APlayer](http://aplayer.js.org) - HTML Audio Player
 * [DPlayer](https://dplayer.diygod.dev/) - HTML Video Player
 * [xgplayer](https://h5player.bytedance.com/en/) - HTML5 Video Player
 * [inkle](https://www.inklestudios.com/ink/) - Game Narrative Scripting Language
 * [Mansion Generator](https://watabou.itch.io/procgen-mansion) - Procedural Mansions Generator
+* [ProFantasy](https://rpgmaps.profantasy.com/) - Fantasy Map Making Tutorials
+* [Laigter](https://azagaya.itch.io/laigter) - 2D Texture Map
 * [Fantasy Map Generator](https://azgaar.github.io/Fantasy-Map-Generator/), [Inkarnate](https://inkarnate.com/), [HexHTML](https://hextml.playest.net/), [Inkwellideas](https://inkwellideas.com/free-tools/), [RPG Map Editor 2](https://deepnight.itch.io/tabletop-rpg-map-editor) or [MapTool](https://www.rptools.net/toolbox/maptool/) - Game Map Creators / Editors
 * [Dungeon Scrawl](https://probabletrain.itch.io/dungeon-scrawl) / [Discord](https://discord.com/invite/RxyZyXg) / [/r/Dungeonscrawl](https://www.reddit.com/r/dungeonscrawl/), [Dungeon Map Doodler](https://dungeonmapdoodler.com/) or [donjon](https://donjon.bin.sh/) or [One Page Dungeon](https://watabou.itch.io/one-page-dungeon) - Dungeon Map Creators / Editors
 * [Medieval Fantasy City Generator](https://watabou.itch.io/medieval-fantasy-city-generator) - Fantasy City Map Generator
@@ -266,7 +275,6 @@
 * [Electronic Arts GitHub](https://github.com/electronicarts) - EA GitHub Repos
 * [Game UI Database](https://www.gameuidatabase.com/) or [HUDSxGUIS](https://www.hudsandguis.com/) - Game HUDs / GUIs
 * [Nuklear](https://github.com/Immediate-Mode-UI/Nuklear) - Game GUI Creator
-* [CharPad](https://subchristsoftware.itch.io/charpad-c64-free) - Commodore 64 Graphics Editor
 * [Xelu's Controller Prompts](https://thoseawesomeguys.com/prompts/) - Free Game Prompts / [Video](https://youtu.be/d6GtGbI-now)
 * [Tuesday JS](https://kirill-live.itch.io/tuesday-js) / [GitHub](https://github.com/Kirilllive/tuesday-js) or [RenPy](https://www.renpy.org/) / [GitHub](https://github.com/renpy/renpy) - Visual Novel Editor
 * [Bookshelf](https://github.com/Darkhax-Minecraft/Bookshelf) - Minecraft Mod Code Support
@@ -513,7 +521,6 @@
 * [Netron](https://github.com/lutzroeder/netron) - Visualizer for Neural Network, Deep Learning, and Machine Learning Models
 * [Scikit Learn](https://scikit-learn.org/) - Machine Learning Library for Python
 * [PyTorch](https://pytorch.org) - Tensor library for deep learning using GPUs and CPUs
-* [Kobra](https://kobra.dev/) - Visual Programming Language for Machine Learning
 * [DialoGPT](https://github.com/microsoft/DialoGPT) - Dialogue Machine Learning Model
 * [MMDeploy](https://mmdeploy.readthedocs.io/en/latest/) / [GitHub](https://github.com/open-mmlab/mmdeploy) - Deep Learning Model Deployment Toolset
 * [MLC LLM](https://llm.mlc.ai/) - Native Language Model Deployment
@@ -581,6 +588,38 @@
 
 ***
 
+## ▷ Cloud IDEs / Collab
+
+* 🌐 **[cloud](https://gist.github.com/imba-tjd/d73258f0817255dbe77d64d40d985e76#file-cloud-md)** - Cloud Platform Index
+* ↪️ **[Code Collaboration Platforms](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools#wiki_.25B7_text_.2F_code_collaboration)**
+* ⭐ **[goormIDE](https://ide.goorm.io/)**, [Fleet](https://www.jetbrains.com/fleet/), [CodeTasty](https://codetasty.com/), [Replit](https://replit.com/), [BoostNote](https://boostnote.io/), [Aither](https://github.com/enoki-inc/aither), [Deta](https://deta.space/), [TerraForm](https://www.terraform.io/), [Atheos](https://www.atheos.io/) / [GitHub](https://github.com/Atheos/Atheos), [Datalore](https://datalore.jetbrains.com/), [DeepNote](https://deepnote.com/), [Cloud9](https://aws.amazon.com/cloud9/) or [Glitch](https://glitch.com/) / [Replit Import](https://replit.com/glitch) / [GitHub](https://github.com/m3o/m3o) - Cloud IDEs
+* ⭐ **[CodeSandbox](https://codesandbox.io/)**, [StackBlitz](https://stackblitz.com/) or [GitPod](https://www.gitpod.io/) - VSCode Cloud IDE
+* ⭐ **[judge0](https://ide.judge0.com/)** - Online Code Editor / [Discord](https://discord.com/invite/GRc3v6n)
+* [JSFiddle](https://jsfiddle.net/) - Online Code Editor
+* [Collabedit](https://collabedit.com/) - Online Code Editor
+* [Portacode](https://portacode.com/) - Online Code Editor
+* [Ideone](https://www.ideone.com/) - Online Code Editor
+* [PlayCode](https://playcode.io/) - Online Code Editor
+* [ObjGen](https://www.objgen.com/) - Online Code Editor
+* [html-css-js](https://html-css-js.com/) - Online Code Editor
+* [Orbiton](https://orbiton.zip/) - Lightweight IDE
+* [Openshift](https://workspaces.openshift.com/) - Cloud IDE / Eclipse Che
+* [Arduino](https://cloud.arduino.cc/) - Cloud IDE for Arduino
+* [Blazepack](https://github.com/ameerthehacker/blazepack), [Flox](https://flox.dev/) or [DevPod](https://devpod.sh) - Development Environments
+* [bloop](https://bloop.ai/) - IDE AI Suggestion Extension
+* [glot.io](https://glot.io/) - Pastebin with Runnable Snippets, API & Compiler
+* [myCompiler](https://www.mycompiler.io/), [Compiler Explorer](https://compiler-explorer.com/), [GodBolt](https://godbolt.org/) or [Wandbox](https://wandbox.org/) - Compiler Explorers
+* [DogBolt](https://dogbolt.org/) or [Decompiler Explorer](https://github.com/decompiler-explorer/decompiler-explorer) - Decompiler Explorers
+* [Notebooks.azure](https://visualstudio.microsoft.com/vs/features/notebooks-at-microsoft/) - Access Jupyter Notebooks in VS Code
+* [NBviewer](https://nbviewer.org/) - Jupyter Notebook Sharing
+* [Jupyter Server](https://jupyter-server.readthedocs.io) - Jupyter Services / APIs
+* [Anywidget](https://anywidget.dev) / [GitHub](https://github.com/manzt/anywidget) - Create Jupyter Widgets
+* [CoCalc](https://cocalc.com/) - Virtual online workspace
+* [CodePen](https://codepen.io/), [Web Maker](https://webmaker.app/) or [Liveweave](https://liveweave.com/) - Code Sandbox
+* [Platform.uno](https://platform.uno/) or [Enact](https://enactjs.com/) - App Frameworks
+
+***
+
 ## ▷ Vim / Neovim Tools
 
 * 🌐 **[Awesome Neovim](https://github.com/rockerBOO/awesome-neovim)** or [NeoVimCraft](https://neovimcraft.com/) - NeoVim Plugins Collections
@@ -624,39 +663,6 @@
 * [logos-vscode](https://github.com/tale/logos-vscode) - Logo Extension
 * [VSCodeThemes](https://vscodethemes.com/) or [VSColors](https://www.vscolors.com/) - VSCode Themes
 * [oslo](https://oslo-vsc.netlify.app/) - Theme Generator
-
-***
-
-## ▷ Cloud IDEs / Collab
-
-* 🌐 **[cloud](https://gist.github.com/imba-tjd/d73258f0817255dbe77d64d40d985e76#file-cloud-md)** - Cloud Platform Index
-* ↪️ **[Code Collaboration Platforms](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools#wiki_.25B7_text_.2F_code_collaboration)**
-* ⭐ **[goormIDE](https://ide.goorm.io/)**, [Fleet](https://www.jetbrains.com/fleet/), [CodeTasty](https://codetasty.com/), [Replit](https://replit.com/), [BoostNote](https://boostnote.io/), [Aither](https://github.com/enoki-inc/aither), [Deta](https://deta.space/), [TerraForm](https://www.terraform.io/), [Atheos](https://www.atheos.io/) / [GitHub](https://github.com/Atheos/Atheos), [Datalore](https://datalore.jetbrains.com/), [DeepNote](https://deepnote.com/), [Cloud9](https://aws.amazon.com/cloud9/) or [Glitch](https://glitch.com/) / [Replit Import](https://replit.com/glitch) / [GitHub](https://github.com/m3o/m3o) - Cloud IDEs
-* ⭐ **[CodeSandbox](https://codesandbox.io/)**, [StackBlitz](https://stackblitz.com/) or [GitPod](https://www.gitpod.io/) - VSCode Cloud IDE
-* ⭐ **[judge0](https://ide.judge0.com/)** - Online Code Editor / [Discord](https://discord.com/invite/GRc3v6n)
-* [JSFiddle](https://jsfiddle.net/) - Online Code Editor
-* [Collabedit](https://collabedit.com/) - Online Code Editor
-* [Portacode](https://portacode.com/) - Online Code Editor
-* [Ideone](https://www.ideone.com/) - Online Code Editor
-* [PlayCode](https://playcode.io/) - Online Code Editor
-* [ObjGen](https://www.objgen.com/) - Online Code Editor
-* [html-css-js](https://html-css-js.com/) - Online Code Editor
-* [Orbiton](https://orbiton.zip/) - Lightweight IDE
-* [Openshift](https://workspaces.openshift.com/) - Cloud IDE / Eclipse Che
-* [Arduino](https://cloud.arduino.cc/) - Cloud IDE for Arduino
-* [Blazepack](https://github.com/ameerthehacker/blazepack), [Flox](https://flox.dev/) or [DevPod](https://devpod.sh) - Development Environments
-* [bloop](https://bloop.ai/) - IDE AI Suggestion Extension
-* [glot.io](https://glot.io/) - Pastebin with Runnable Snippets, API & Compiler
-* [myCompiler](https://www.mycompiler.io/), [Compiler Explorer](https://compiler-explorer.com/), [GodBolt](https://godbolt.org/) or [Wandbox](https://wandbox.org/) - Compiler Explorers
-* [DogBolt](https://dogbolt.org/) or [Decompiler Explorer](https://github.com/decompiler-explorer/decompiler-explorer) - Decompiler Explorers
-* [Notebooks.azure](https://visualstudio.microsoft.com/vs/features/notebooks-at-microsoft/) - Access Jupyter Notebooks in VS Code
-* [NBviewer](https://nbviewer.org/) - Jupyter Notebook Sharing
-* [Jupyter Server](https://jupyter-server.readthedocs.io) - Jupyter Services / APIs
-* [Anywidget](https://anywidget.dev) / [GitHub](https://github.com/manzt/anywidget) - Create Jupyter Widgets
-* [CoCalc](https://cocalc.com/) - Virtual online workspace
-* [CodePen](https://codepen.io/), [Web Maker](https://webmaker.app/) or [Liveweave](https://liveweave.com/) - Code Sandbox
-* [Platform.uno](https://platform.uno/) or [Enact](https://enactjs.com/) - App Frameworks
-* [tio.run](https://tio.run/) - Programming Language Interpreters
 
 ***
 
@@ -800,18 +806,6 @@
 
 ***
 
-## ▷ Game Development (needs moving)
-
-* [PICO-8](https://mboffin.itch.io/pico8-educational-toolset) - Basic Game Development Concepts / [Web Version](https://www.pico-8-edu.com/)
-* [SebastianLague](https://www.youtube.com/c/SebastianLague/playlists?view=50&sort=dd&shelf_id=4) - Game Development Tutorials
-* [Trig for Games](https://demoman.net/?a=trig-for-games) - Trigonometry Lessons for Games
-* [ProFantasy](https://rpgmaps.profantasy.com/) - Fantasy Map Making Tutorials
-* [Game Math](https://gamemath.com/book/intro.html) - Mathematics Lessons for Game Devs
-* [CHIP-8 Research](https://chip-8.github.io/) - CHIP-8 Research
-* [Graphics Workshop](https://github.com/ekzhang/graphics-workshop) - Learn Computer Graphics
-
-***
-
 # ► Programming Languages
 
 * 🌐 **[Awesome Cheatsheets](https://lecoupa.github.io/awesome-cheatsheets/)**, **[QuickRef.me](https://quickref.me/)**, [HowDoI](https://github.com/gleitz/howdoi), [OverApi](https://overapi.com/) or [Cheat Sheets](http://www.cheat-sheets.org/) - Programming Cheat Sheets
@@ -819,7 +813,9 @@
 * ⭐ **[Benchmarks Game](https://benchmarksgame-team.pages.debian.net/benchmarksgame/)** - Measure PL Speeds
 * ⭐ **[Language Benchmarks](https://programming-language-benchmarks.vercel.app/)** - Benchmarks for PLs & Compilers
 * ⭐ **[30 Seconds of Code](https://www.30secondsofcode.org/)** or [FreeFrontend](https://freefrontend.com/) - Find Code Snippets
+* ⭐ **[generatedata.com](https://generatedata.com/)** - Generate Test Data in Different Languages
 * [Snipit](https://snipit.io/) - Code Snippets Manager / Organizer
+* [Try It Online](https://tio.run/) - Programming Language Interpreters
 * [nunu](https://github.com/go-nunu/nunu) - Build Go Programs
 * [LearnGo](https://github.com/inancgumus/learngo) or [play-with-go](https://play-with-go.dev/) - Learn Go Programming
 * [Learn X in Y minutes](https://learnxinyminutes.com/) - Programming Language Rundowns / [GitHub](https://github.com/adambard/learnxinyminutes-docs)
@@ -864,9 +860,11 @@
 
 ***
 
-## ▷ C / C++ / C# (rename to "C Languages"?)
+## ▷ C Languages
 
 * [Learn C](https://www.learn-c.org/) - C Tutorial
+* [RoslynPad](https://roslynpad.net/) - C# Editor
+* [RoslynQuoter](https://roslynquoter.azurewebsites.net/) - C# Syntax Tree API Viewer
 * [C++ Core Guidelines](https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines) - C++ Best Practices Guidelines / [Github](https://github.com/isocpp/CppCoreGuidelines)
 * [Modern C++ Programming](https://github.com/federico-busato/Modern-CPP-Programming) - Modern C++ Course
 * [Learn C++](https://www.learncpp.com/) - Learn C++
@@ -879,8 +877,6 @@
 * [cpp.sh](https://cpp.sh/) - Online C++ Compiler
 * [CP-Algorithms](https://cp-algorithms.com/) - C++ Algorithms
 * [cppreference](https://en.cppreference.com/w/) - C++ Cheat Sheets
-* [RoslynPad](https://roslynpad.net/) - C# Editor
-* [RoslynQuoter](https://roslynquoter.azurewebsites.net/) - C# Syntax Tree API Viewer
 
 ***
 
@@ -954,14 +950,15 @@
 * [BEM Cheat Sheet](https://bem-cheat-sheet.9elements.com/) - BEM Cheat Sheet
 * [CSS Cheat Sheet](https://docs.emmet.io/cheat-sheet/), [SmolCSS](https://smolcss.dev/) or [CSS Tricks](https://css-tricks.com/snippets/) - CSS Cheat Sheets
 * [Easings](https://easings.net/) - CSS Animation Cheat Sheet
+* [css-animation](https://css-animations.io/) - CSS Animation Tutorial
 * [100DayCSS](https://100dayscss.com/) , [CSS Challenges](https://css-challenges.com/) or [PlayCSS](https://playcss.app/) - CSS Challenges
 * [Codepip](https://codepip.com/games/), [Grid Garden](https://cssgridgarden.com/), [CSS Battle](https://cssbattle.dev/), [CSS Speedrun](https://css-speedrun.netlify.app/), [CodingFantasy](https://codingfantasy.com/) or [CSS Diner](https://flukeout.github.io/) - CSS Learning Games
 * [Guess CSS](https://www.guess-css.app/) - CSS Guessing Game
 * [Flexbox Froggy](https://flexboxfroggy.com/), [FlexboxDefense](http://www.flexboxdefense.com/) or [KnightsoftheFlexboxTable](https://knightsoftheflexboxtable.com/) - CSS Flexbox Learning Games
 * [DefensiveCSS](https://defensivecss.dev/) - CSS Tips
 * [LearnCSSGrid](https://learncssgrid.com/) or [GridByExample](https://gridbyexample.com/) - CSS Grid Guides
+* [CSSLayout](https://phuoc.ng/collection/css-layout/), [CSS Layout Generator](https://layout.bradwoods.io/), [BoxBox](https://seansleblanc.itch.io/boxboxhtml) or [CSSGridGenerator](https://cssgrid-generator.netlify.app/) - CSS Layout / Grid Generators
 * [You Don't Need JavaScript](https://github.com/you-dont-need/You-Dont-Need-JavaScript) - CSS Demos
-* [css-animation](https://css-animations.io/) - CSS Animation Tutorial
 * [CSSPeeper](https://csspeeper.com/) - Smart CSS Viewer
 * [CSS Scan](https://chromewebstore.google.com/detail/css-scan/gieabiemggnpnminflinemaickipbebg?hl=en) - CSS Editor
 * [CSS Protips](https://github.com/AllThingsSmitty/css-protips), [Modern CSS](https://moderncss.dev/) or [CSS Reference](https://cssreference.io/) - CSS Guides
@@ -969,29 +966,28 @@
 * [Pesticide for Chrome](https://chromewebstore.google.com/detail/pesticide-for-chrome-with/neonnmencpneifkhlmhmfhfiklgjmloi) - CSS Element Outline Extension
 * [Water.css](https://watercss.kognise.dev/) - CSS Styles
 * [Style Stage](https://stylestage.dev/) - Modern CSS Styles
-* [CSSLayout](https://phuoc.ng/collection/css-layout/), [CSS Layout Generator](https://layout.bradwoods.io/), [BoxBox](https://seansleblanc.itch.io/boxboxhtml) or [CSSGridGenerator](https://cssgrid-generator.netlify.app/) - CSS Layout / Grid Generators
+* [Leon's CSS](https://leonarnott.neocities.org/) or [Wordart](https://codepen.io/kathykato/details/omxPap) - CSS Text Styles
 * [Box-Shadow](https://box-shadow.art/) - CSS Box Shadow Generator
 * [Shadow Palette Generator](https://www.joshwcomeau.com/shadow-palette/) or [Neumorphism.io](https://neumorphism.io/) - CSS Shadow Generators
 * [css.glass](https://css.glass/) - CSS Glass Effect Generator
+* [Glass UI](https://ui.glass/generator/) - Glassmorphism CSS Generator
 * [ClassyFont](https://www.classyfont.com/) - CSS Font Generator
 * [Modern Fonts Stacks](https://modernfontstacks.com/) - CSS Fonts
-* [Leon's CSS](https://leonarnott.neocities.org/) or [Wordart](https://codepen.io/kathykato/details/omxPap) - CSS Text Styles
 * [Hover.CSS](https://ianlunn.github.io/Hover/) - CSS Hover Effects
 * [Clippy](https://bennettfeely.com/clippy/) - CSS Clip Creator
 * [Zerodivs](https://zerodivs.com/) - CSS Illustration Creator
 * [PixelArtCSS](https://www.pixelartcss.com/) - Pixel Art to CSS
 * [BestCSSButtonGenerator](https://www.bestcssbuttongenerator.com/) - CSS Button Generators
 * [Buttons.cool](https://www.buttons.cool/) - Copy CSS Buttons
-* [MagicPattern](https://www.magicpattern.design/tools/css-backgrounds), [css3patterns](https://projects.verou.me/css3patterns/), [gradienta](https://codioful.com/), [GradientMagic](https://www.gradientmagic.com/), [heropatterns](https://heropatterns.com/), [GradHunt](https://gradihunt.com/) or [CSSGradient](https://cssgradient.io/) - CSS Patterns / Gradients
 * [CSS Doodle](https://css-doodle.com/) - CSS Pattern Generator
 * [CSS3 Transform](https://css-transform.moro.es/) - 2D & 3D CSS Transform Functions Visualizer
+* [MagicPattern](https://www.magicpattern.design/tools/css-backgrounds), [css3patterns](https://projects.verou.me/css3patterns/), [gradienta](https://codioful.com/), [GradientMagic](https://www.gradientmagic.com/), [heropatterns](https://heropatterns.com/), [GradHunt](https://gradihunt.com/) or [CSSGradient](https://cssgradient.io/) - CSS Patterns / Gradients
 * [Gradient.style](https://gradient.style/) - CSS Gradient Generator
 * [Gradient Animator](https://www.gradient-animator.com/) - Animated CSS Gradient Generator
 * [147colors](https://147colors.com/) - CSS Color Pickers
 * [FilterBlend](https://ilyashubin.github.io/FilterBlend/) - CSS Blend Modes
 * [Animista](https://animista.net/), [Woah.css](https://www.joerezendes.com/projects/Woah.css/) or [Animate.css](https://animate.style/) - CSS Animations
 * [transition.css](https://www.transition.style/) - CSS Transitions
-* [Glass UI](https://ui.glass/generator/) - Glassmorphism CSS Generator
 
 ***
 
@@ -1001,6 +997,7 @@
 * ↪️ **[TypeScript Tools]()**
 * ↪️ **[Vue Tools]()**
 * ⭐ **[JavaScript.info](https://javascript.info/)**, [Patterns.dev](https://www.patterns.dev/) or [30 Days Of JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript) - Javascript Learning Sites
+* [Leaflet](https://leafletjs.com/) - Javascript Library for Interactive Maps
 * [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS) or [EloquentJavascript](https://eloquentjavascript.net/) - Javascript Learning Books
 * [Javascript Questions](https://github.com/lydiahallie/javascript-questions) or [JavaScriptQuiz](https://javascriptquiz.com/) - Javascript Questions for Practice
 * [33 JS Concepts](https://github.com/leonardomso/33-js-concepts) - Useful JavaScript Concepts
@@ -1110,16 +1107,16 @@
 * [WebUI](https://webui.me/) - Embed WebUI Libraries in Project
 * [Dagu](https://dagu.readthedocs.io) / [GitHub](https://github.com/dagu-dev/dagu) - WebUI Job Manager
 * [httpbin](https://httpbin.org/) or [Requestbin](https://pipedream.com/requestbin) - HTTP Request & Response Service
+* [Certbot](https://certbot.eff.org/) - Free HTTPS Certificates
+* [Plow](https://github.com/six-ddc/plow) - HTTP Benchmarking
+* [http-server](https://github.com/http-party/http-server) - No Config HTTP Server
+* [Apache](https://httpd.apache.org/) - HTTP Server
+* [h5ai](https://larsjung.de/h5ai/) - HTTP Web Server Index / [GitHub](https://github.com/lrsjng/h5ai)
 * [Hydra](https://github.com/ory/hydra) - OAuth 2.0 Server / OpenID Connect Provider
 * [Easegress](https://github.com/megaease/easegress) - Traffic Orchestration System
 * [HITS](https://hits.seeyoufarm.com/) - Website Traffic Badges
 * [Partytown](https://partytown.builder.io) / [GitHub](https://github.com/BuilderIO/partytown) - Relocate Scripts to Web Worker
-* [Tempesta FW](https://tempesta-tech.com/) - DDoS / Web Attack Protection
-* [Shisho](https://shisho.dev/) - Infrastructure Code Security Patcher
-* [DNSDumpster](https://dnsdumpster.com/), [DNS Watch](https://dnswatch.info) or [WhatsMyDNS](https://whatsmydns.net/) - DNS Lookup / Security
-* [Plow](https://github.com/six-ddc/plow) - HTTP Benchmarking
-* [IPv6 Leak Test](https://ip6.nl/), [Test-IPv6](https://test-ipv6.com/) or [IPv6 Test](https://ipv6-test.com/) - IPV6 Test
-* [How To Turn off IPv6](https://www.itechguides.com/disable-ipv6-windows-10/) - Prevent IPv6 Leaks
+* [SuperTokens](https://supertokens.com/) or [Lucia](https://lucia-auth.com/) - User Authentication
 * [Flounder](https://flounder.online/) - Gemini Website Builder
 * [Transform](https://transform.tools/) - Polyglot Web Converter
 * [Framer](https://www.framer.com/) - Interactive Site / App Design Tool
@@ -1130,7 +1127,6 @@
 * [OneLinePlayer](https://onelineplayer.com/) - Vimeo / Dropbox Video Player
 * [SCM Music Player](https://www.scmplayer.net/), [WebAMP](https://webamp.org/), [cassette-yt](https://saint-images.github.io/player.html) or [webdeckplayer](https://webdeckplayer.neocities.org/) - Site Audio / Music Players
 * [Stream Defence](https://www.streamdefence.com/) - Website Video Backup System
-* [MapBox](https://www.mapbox.com/) or [leafletjs](https://leafletjs.com/) - Live Maps, Location Search & More
 * [LDRS](https://uiball.com/ldrs/) - Loading Animations
 * [Medusa](https://medusajs.com) - Digital Commerce Development Tool
 * [Can I Use?](https://caniuse.com/) - Browser Support Tables
@@ -1144,9 +1140,6 @@
 * [LightTPD](https://www.lighttpd.net/) or [Caddy](https://caddyserver.com/) - Web Server
 * [Bash-web-server](https://github.com/dzove855/Bash-web-server) - Bash Web Server
 * [Oracle](https://www.oracle.com/cloud/free/) - Free Server Tools
-* [http-server](https://github.com/http-party/http-server) - No Config HTTP Server
-* [Apache](https://httpd.apache.org/) - HTTP Server
-* [h5ai](https://larsjung.de/h5ai/) - HTTP Web Server Index / [GitHub](https://github.com/lrsjng/h5ai)
 * [webri.ng](https://webri.ng/) - Webring Host / [GitHub](https://github.com/webri-ng/webri.ng)
 * [Webring List](https://brisray.com/web/webring-list.htm) - Webring Directory
 * [SyAgent](https://syagent.com/), [TA Vivo](https://github.com/ta-vivo/ta-vivo) or [HertzBeat](https://hertzbeat.com/) - Server Monitors
@@ -1155,7 +1148,6 @@
 * [ApexCharts](https://apexcharts.com/) - Add Charts to Site
 * [LibreCaptcha](https://github.com/librecaptcha/lc-core) or [mCaptcha](https://mcaptcha.org/) - Captcha Systems
 * [Democaptcha](https://democaptcha.com/demo-form-eng/hcaptcha.html) or [ReCAPTCHA Demo](https://www.google.com/recaptcha/api2/demo) / [GitHub](https://patrickhlauke.github.io/recaptcha/) - Captcha Demo's
-* [SuperTokens](https://supertokens.com/) or [Lucia](https://lucia-auth.com/) - User Authentication
 * [The SSO Wall of Shame](https://sso.tax/) - Vendors without Built-in SSO
 * [Remarkbox](https://www.remarkbox.com/) or [HTML Comment Box](https://www.htmlcommentbox.com/) - Site Comment Systems
 * [CBox](https://www.cbox.ws/), [Typebot](https://typebot.io/) or [Tawk](https://www.tawk.to/) - Embedded Chat App
@@ -1172,9 +1164,7 @@
 * [Postal](https://docs.postalserver.io/) - Mail Delivery Platform
 * [Microlink SDK](https://microlink.io/sdk) / [GitHub](https://github.com/microlinkhq/sdk), [React Tiny Link](https://winhtaikaung.github.io/react-tiny-link/) / [GitHub](https://github.com/winhtaikaung/react-tiny-link) or [Link Preview JS](https://github.com/OP-Engineering/link-preview-js) - Create Link Previews
 * [V2Ray](https://www.v2fly.org/) - Proxy Software
-* [mitmproxy](https://mitmproxy.org/) / [GitHub](https://github.com/mitmproxy/mitmproxy) - Analyze and modify HTTPS traffic
 * [Traefik](https://traefik.io/traefik/), [frp](https://github.com/fatedier/frp) or [reverse-proxy](https://github.com/microsoft/reverse-proxy) - Reverse Proxies
-* [Certbot](https://certbot.eff.org/) - Enable HTTPS Automatically
 * [WhatPWACanDo](https://whatpwacando.today/) - PWA Examples
 * [Bubble](https://bubble.io/), [opensilver](https://opensilver.net/), [Anvil](https://anvil.works/), [Symfony](https://symfony.com/) / [CLI](https://github.com/symfony-cli/symfony-cli), [Lowdefy](https://lowdefy.com/) or [Sktch.io](https://sktch.io/) - Web App Creators
 * [Blazor](https://dotnet.microsoft.com/en-us/apps/aspnet/web-apps/blazor) or [FastUI](https://github.com/pydantic/FastUI) - Web App UI Creators
@@ -1389,44 +1379,6 @@
 
 ***
 
-# ► Markup Tools (needs checking)
-
-* ⭐ **[GenerateData](https://generatedata.com/)** - Generate Test Data
-* [markup.rocks](https://markup.rocks/) - Online Markup Editor
-* [Markup Validation Service](https://validator.w3.org/) - Validate Your Markup Language Structure
-* [Capsaicin](https://gpuopen.com/capsaicin/) - Direct3D12 Framework
-* [DaisyUI](https://daisyui.com/), [FloatUI](https://github.com/MarsX-dev/floatui), [Aceternity](https://ui.aceternity.com/) or [Tailspark](https://tailspark.co/) - Component Libraries
-
-***
-
-## ▷ Markdown
-
-* ⭐ **[Markdown Guide](https://www.markdownguide.org/)** - Guide for Markdown (.md)
-* ⭐ **[HedgeDoc](https://hedgedoc.envs.net/)**, [zettlr](https://www.zettlr.com/), [Dillinger](https://dillinger.io/), [Notable](https://notable.app/), [vnote](https://github.com/vnotex/vnote), [MarkdownTools](https://www.markdowntools.com/), [StackEdit](https://stackedit.io/), [Markdownify](https://markdownify.js.org/), [Apostrophe](https://github.com/ApostropheEditor/Apostrophe), [Glow](https://github.com/charmbracelet/glow), [MarkdownLivePreview](https://markdownlivepreview.com/), [Proton](https://steventhanna.github.io/proton/), [Vrite](https://editor.vrite.io/), [Markflowy](https://markflowy.vercel.app/), [Mindforger](https://github.com/dvorka/mindforger), [PanWriter](https://panwriter.com/) or [Mark Text](https://github.com/marktext/marktext) - Markdown Editors
-* [readme.so](https://readme.so/) - Create README.md Files
-* [Tableconvert](https://tableconvert.com/) - Markdown / Code Converter
-* [Markdown Link Check](https://github.com/gaurav-nelson/github-action-markdown-link-check) - Check Markdown Files for Dead Links
-* [Table Magic](https://stevecat.net/table-magic/) or [Markdown Convert](https://markdown-convert.com/) - Table to Markdown Converters
-* [Clipboard2Markdown](https://euangoddard.github.io/clipboard2markdown/) - Text to Markdown Converter
-* [Quartz](https://quartz.jzhao.xyz/), [Perlite](https://perlite.secure77.de/) or [FlowerShow](https://flowershow.app/) - Publish Markdown
-* [Markdown Tutorial](https://www.markdowntutorial.com/) - Interactive Markdown Tutorial
-* [gd2md-html](https://github.com/evbacher/gd2md-html) - Convert Google Doc to Markdown
-
-***
-
-## ▷ JSON
-
-* ⭐ **[JSON Hero](https://jsonhero.io/)**, [Jayson](https://apps.apple.com/us/app/jayson/id1447750768) or [JSONView](https://jsonview.com/) - JSON Viewers / Editors
-* [jq](https://jqlang.github.io/jq/) - CLI JSON Processor / [GitHub](https://github.com/jqlang/jq)
-* [oq](https://blacksmoke16.github.io/oq/) - Portable jq Wrapper / [GitHub](https://github.com/Blacksmoke16/oq)
-* [Transluna](https://transluna.net/) - JSON Translator
-* [JMESPath](https://jmespath.org/) - Query Language for JSON / [Tutorial](https://jmespath.org/tutorial.html)
-* [zio-json](https://zio.dev/zio-json)- JSON Library
-* [Mock Turtle](https://mockturtle.net/) - Generate Mock JSON Data
-* [JSON Bin](https://jsonbin.io/) - JSON Host
-
-***
-
 # ► Cybersecurity
 
 * 🌐 **[Free Cyber Resources](https://github.com/gerryguy311/Free_CyberSecurity_Professional_Development_Resources)**, [BlueTeam Tools](https://github.com/A-poc/BlueTeam-Tools) or [Applied Cybersecurity](https://www.nist.gov/itl/applied-cybersecurity/nice/resources/online-learning-content) - Cybersecurity Learning Resources
@@ -1452,6 +1404,12 @@
 * [Open Source Security Software](https://open-source-security-software.net/) - Cybersecurity Software
 * [Advisory Database](https://github.com/github/advisory-database), [ThreatFox](https://threatfox.abuse.ch/) or [Att&ck](https://attack.mitre.org/) - Cybersecurity Defense Databases
 * [SSuite](https://spidersuite.github.io/SSuite/) - Web Security App
+* [Tempesta FW](https://tempesta-tech.com/) - DDoS / Web Attack Protection
+* [mitmproxy](https://mitmproxy.org/) / [GitHub](https://github.com/mitmproxy/mitmproxy) - Analyze and modify HTTPS traffic
+* [Shisho](https://shisho.dev/) - Infrastructure Code Security Patcher
+* [DNSDumpster](https://dnsdumpster.com/), [DNS Watch](https://dnswatch.info) or [WhatsMyDNS](https://whatsmydns.net/) - DNS Lookup / Security
+* [IPv6 Leak Test](https://ip6.nl/), [Test-IPv6](https://test-ipv6.com/) or [IPv6 Test](https://ipv6-test.com/) - IPV6 Test
+* [How To Turn off IPv6](https://www.itechguides.com/disable-ipv6-windows-10/) - Prevent IPv6 Leaks
 * [osquery](https://osquery.io) or [Nmap](https://nmap.org/) - Security Monitors
 * [Canarytokens](https://canarytokens.org/generate) - Network Breach Check
 * [Nuclei](https://docs.projectdiscovery.io/tools/nuclei) / [GitHub](https://github.com/projectdiscovery/nuclei) or [NVD](https://nvd.nist.gov/) - Vulnerability Tracking / Scanning
@@ -1495,3 +1453,41 @@
 * [Flare VM](https://github.com/mandiant/flare-vm) - Reverse Engineering Environment Setup Script
 * [MSTG](https://mas.owasp.org/) or [DVIA-v2](https://github.com/prateek147/DVIA-v2) - App Security Testing / Reverse Engineering
 * [challenges.re](https://challenges.re/) - Reverse Engineer Code
+
+***
+
+# ► Markup Tools
+
+* ⭐ **[generatedata.com](https://generatedata.com/)** - Generate Test Data in Markup Formats
+* [markup.rocks](https://markup.rocks/) - Online Markup Editor
+* [Markup Validation Service](https://validator.w3.org/) - Validate Your Markup Language Structure
+
+***
+
+## ▷ Markdown
+
+* ⭐ **[Markdown Guide](https://www.markdownguide.org/)** - Guide for Markdown (.md)
+* ⭐ **[HedgeDoc](https://hedgedoc.envs.net/)**, [zettlr](https://www.zettlr.com/), [Dillinger](https://dillinger.io/), [Notable](https://notable.app/), [vnote](https://github.com/vnotex/vnote), [MarkdownTools](https://www.markdowntools.com/), [StackEdit](https://stackedit.io/), [Markdownify](https://markdownify.js.org/), [Apostrophe](https://github.com/ApostropheEditor/Apostrophe), [Glow](https://github.com/charmbracelet/glow), [MarkdownLivePreview](https://markdownlivepreview.com/), [Proton](https://steventhanna.github.io/proton/), [Vrite](https://editor.vrite.io/), [Markflowy](https://markflowy.vercel.app/), [Mindforger](https://github.com/dvorka/mindforger), [PanWriter](https://panwriter.com/) or [Mark Text](https://github.com/marktext/marktext) - Markdown Editors
+* [readme.so](https://readme.so/) - Create README.md Files
+* [Tableconvert](https://tableconvert.com/) - Markdown / Code Converter
+* [Markdown Link Check](https://github.com/gaurav-nelson/github-action-markdown-link-check) - Check Markdown Files for Dead Links
+* [Table Magic](https://stevecat.net/table-magic/) or [Markdown Convert](https://markdown-convert.com/) - Table to Markdown Converters
+* [Clipboard2Markdown](https://euangoddard.github.io/clipboard2markdown/) - Text to Markdown Converter
+* [Quartz](https://quartz.jzhao.xyz/), [Perlite](https://perlite.secure77.de/) or [FlowerShow](https://flowershow.app/) - Publish Markdown
+* [Markdown Tutorial](https://www.markdowntutorial.com/) - Interactive Markdown Tutorial
+* [gd2md-html](https://github.com/evbacher/gd2md-html) - Convert Google Doc to Markdown
+
+***
+
+## ▷ JSON
+
+* ⭐ **[JSON Hero](https://jsonhero.io/)**, [Jayson](https://apps.apple.com/us/app/jayson/id1447750768) or [JSONView](https://jsonview.com/) - JSON Viewers / Editors
+* [jq](https://jqlang.github.io/jq/) - CLI JSON Processor / [GitHub](https://github.com/jqlang/jq)
+* [oq](https://blacksmoke16.github.io/oq/) - Portable jq Wrapper / [GitHub](https://github.com/Blacksmoke16/oq)
+* [Transluna](https://transluna.net/) - JSON Translator
+* [JMESPath](https://jmespath.org/) - Query Language for JSON / [Tutorial](https://jmespath.org/tutorial.html)
+* [zio-json](https://zio.dev/zio-json)- JSON Library
+* [Mock Turtle](https://mockturtle.net/) - Generate Mock JSON Data
+* [JSON Bin](https://jsonbin.io/) - JSON Host
+
+***
