@@ -560,6 +560,7 @@
 # ► LGBTQ+
 
 * 🌐 **[MyGaySites](https://mygaysites.com/)** - Gay Porn Site Index
+* [PlayHDPorn Gay](https://www.playhdporn.com/categories/gay/)
 * [Gay-Hotfile](https://gay-hotfile.errio.net/) - Downloads
 * [Yupdates](https://yupdates.neocities.org/) - Gay Porn Artwork / [Drives](https://cat.yupdates.art/) / [Discord](https://discord.com/invite/ECFKuBawQg)
 * [PBC](https://pbc.xxx/) - Gay Porn Encyclopedia
