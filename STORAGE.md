@@ -333,6 +333,24 @@
 
 ***
 
+## Encryption / Certificates
+
+* [DNS over HTTPS](https://github.com/curl/curl/wiki/DNS-over-HTTPS) - HTTPS DoH Queries
+* [How HTTPS Works](https://howhttps.works/) - Learn HTTPS
+* [mitmproxy](https://mitmproxy.org) - Interactive HTTPS Proxy / [GitHub](https://github.com/mitmproxy/mitmproxy)
+* [HTTPToolkit](https://httptoolkit.com/) - Intercept, Debug, and Mock HTTP(S)
+* [mitmproxy](https://mitmproxy.org/) / [GitHub](https://github.com/mitmproxy/mitmproxy) - Analyze and modify HTTPS traffic
+* [SSLMate CAA](https://sslmate.com/caa/) - CAA Record Helper
+* [Mozilla SSL](https://ssl-config.mozilla.org/) - SSL Configuration Generator
+* [Hitch](https://www.varnish-software.com/community/hitch) - SSL / TLS Proxy / [GitHub](https://github.com/varnish/hitch)
+* [Let's Encrypt](https://letsencrypt.org/) or [Certbot](https://certbot.eff.org/) - Free TLS Certificates
+* [SSL for Free](https://www.sslforfree.com/) or [ZeroSSL](https://zerossl.com/) - Free SSL Certificates
+* [CertAlert](https://certalert.net/) - Alerts you when a TLS/SSL Certificate Expires
+* [acme.sh](https://github.com/acmesh-official/acme.sh) - Auto Issues / Certificate Renewal
+* [mkcert](https://github.com/FiloSottile/mkcert) - Locally Trusted Development Certificates
+
+***
+
 ## Encyclopedias
 
 * ⭐ **[Wikipedia](https://www.wikipedia.org/)**, [WikiWand](https://www.wikiwand.com/), [Metastem](https://wiki.metastem.su/) or [ModernWiki](https://www.modernwiki.app/) - Encyclopedia
