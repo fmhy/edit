@@ -996,28 +996,17 @@
 * [33 JS Concepts](https://github.com/leonardomso/33-js-concepts) - Useful JavaScript Concepts
 * [You-Dont-Need-jQuery](https://github.com/camsong/You-Dont-Need-jQuery) - Javascript Query Style Events Guide
 * [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript) - Javascript Style Guide
-* [Javascript Today](https://blog.javascripttoday.com/) - Javascript Blog
 * [Untrusted](https://alexnisnevich.github.io/untrusted/) - Javascript Learning Game
 * [JavaScripting](https://www.javascripting.com/) - JavaScript Libraries
-* [LLRT](https://github.com/awslabs/llrt) - Lightweight JavaScript Runtime
-* [Clean Code Javascript](https://github.com/ryanmcdermott/clean-code-javascript) - Clean Code for Javascript
 * [Vanilla List](https://vanillalist.top/) - Vanilla Javascript Repository
 * [RunKit](https://runkit.com/) - Browser Javascript Sandbox
-* [JS.ORG](https://js.org/) - Free subdomain for JavaScript Developers
 * [1loc](https://phuoc.ng/collection/1-loc/) - JavaScript Code Snippets
 * [Javascript Algorithms](https://github.com/trekhleb/javascript-algorithms) - Algorithms and Data Structures in Javascript
 * [Gummy](https://gummyjs.vercel.app/) - Easily Build JavaScript Programs
 * [Obfuscator](https://obfuscator.io/) or [js-confuser](https://js-confuser.com/) - JavaScript Obfuscators
 * [jsdfe](https://avotoko.github.io/javascript-deobfuscator/) - JavaScript Deobfuscator
-* [randomcolor](https://randomcolor.lllllllllllllllll.com/) - Random Javascript Color Generator
-* [Rescript](https://rescript-lang.org/) - Javascript Editor / Language
 * [Underdash](https://surma.github.io/underdash/) - JavaSscript Snippets
-* [GPU.js](https://gpu.rocks/) - GPU Accelerated JavaScript
-* [anime.js](https://animejs.com/) - JavaScript Animation Library / [GitHub](https://github.com/juliangarnier/anime/)
-* [onionring.js](https://garlic.garden/onionring/) - Webring Script
-* [Learn Next.js](https://nextjs.org/learn) / [Production-Grade Next.js](https://frontendmasters.com/courses/production-next/) / [Learn by Examples](https://github.com/vercel/next.js/tree/canary/examples) - Next.js Learning Resources
-* [Tasuku](https://github.com/privatenumber/tasuku) - Node.js Task Runner
-* [Amplication](https://amplication.com/) - Create Node.js Apps
+* [Learn Next.js](https://nextjs.org/learn) - Next.js Learning Resources
 * [Node.js Best Practices](https://github.com/goldbergyoni/nodebestpractices) - Node.js Style Guide
 * [Discord.js Guide](https://discordjs.guide/) or [An Idiot's Guide](https://anidiots.guide/) - Discord.js Bot Guides
 
@@ -1072,7 +1061,7 @@
 * ⭐ **[Ray.st](https://ray.st/)** or [Wappalyzer](https://www.wappalyzer.com/) - Identify Technologies on Websites / [Addons](https://www.wappalyzer.com/apps/)
 * ⭐ **[EmulatorJS](https://emulatorjs.org/)** - Embed Emulators on Websites
 * ⭐ **[GoAccess](https://goaccess.io/)** - Web Log Analyzer / [GitHub](https://github.com/allinurl/goaccess)
-* [Website Planet Tools](https://www.websiteplanet.com/webtools/), [Dan's Tools](https://www.danstools.com/), [Webdesign Assistant](https://webdesign-assistant.com/), [xWebTools](https://www.xwebtools.com/), [Tiny Helpers](https://tiny-helpers.dev/), [Browserling Tools](https://www.browserling.com/tools/), [WebCode](https://webcode.tools/), [ToolCool](https://toolcool.org/) or [CSSAuthor](https://cssauthor.com/) - Site Development Tools
+* [Website Planet Tools](https://www.websiteplanet.com/webtools/), [Dan's Tools](https://www.danstools.com/), [Webdesign Assistant](https://webdesign-assistant.com/), [xWebTools](https://www.xwebtools.com/), [Tiny Helpers](https://tiny-helpers.dev/), [Browserling Tools](https://www.browserling.com/tools/), [WebCode](https://webcode.tools/), [Web Toolbox](https://web-toolbox.dev/en), [ToolCool](https://toolcool.org/) or [CSSAuthor](https://cssauthor.com/) - Site Development Tools
 * [Grav](https://getgrav.org/) - Flat-File CMS
 * [Flux](https://www.runonflux.io/) - Decentralized Cloud Infrastructure
 * [URLPages](http://jstrieb.github.io/urlpages) / [GitHub](https://github.com/jstrieb/urlpages) - Store Entire Pages in URLs
@@ -1269,6 +1258,7 @@
 * [HaveIBeenSquatted](https://haveibeensquatted.com) - Typosquatting Discovery Tool
 * [iana](https://www.iana.org/), [arin](https://www.arin.net/), [lacnic](https://www.lacnic.net/), [afrinic](https://www.afrinic.net/) or [apnic](https://www.apnic.net/) - Internet Registry Sites
 * [takingnames](https://takingnames.io/blog/instant-subdomains), [GetFreeDomain](https://www.getfreedomain.name/) or [EU.org](https://nic.eu.org/) / [2](https://nic.ua/en/domains/.pp.ua) - Free Subdomains
+* [JS.ORG](https://js.org/) - Free subdomain for JavaScript Developers
 * [Homepage](https://github.com/benphelps/homepage), [Flame](https://github.com/pawelmalak/flame), [Homer](https://github.com/bastienwirtz/homer) or [Dashy](https://dashy.to/) / [GitHub](https://github.com/lissy93/dashy) - Home Server Startpages
 * [TheDev](https://thedev.id/) - Free Developer Subdomains
 * [redirect.name](https://redirect.name/) - URL Forwarding
