@@ -495,6 +495,7 @@
 * [Zoom Redirector](https://github.com/arkadiyt/zoom-redirector) - Redirect Zoom Links to Web Client
 * [GlobalSpeed](https://github.com/polywock/globalSpeed) - Set Default Video / Audio Speed
 * [Web-Scrobbler](https://web-scrobbler.com/) - Scrobble with Last.fm, Libre.fm, etc.
+* [Indie Wiki Buddy](https://getindie.wiki/) - Redirect Fandom / Fextralife to Indie Wikis
 * [Form History Control](https://stephanmahieu.github.io/fhc-home/) - Formfill Manager
 * [Fake Data](https://www.fakedata.pro/) - Fill Forms With Fake Data
 * [External App Button](https://add0n.com/external-application-button.html) - Connect Browser to External Apps

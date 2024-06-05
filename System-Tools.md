@@ -324,28 +324,34 @@
 
 # ► Windows ISOs
 
-* ⭐ **[MAS ISO Index](https://massgrave.dev/genuine-installation-media.html)** - Windows ISOs / [Discord](https://discord.gg/gjJEfq7ux8) / [MSDL](https://msdl.gravesoft.dev/)
-* ⭐ **[Ventoy](https://www.ventoy.net/en/index.html)**, **[Rufus](https://rufus.ie/)**, [AIO Boot](https://www.aioboot.com/) or [MediaCreationTool](https://github.com/AveYo/MediaCreationTool.bat) - Create Bootable USB Drives
+* ⭐ **[MAS ISO Index](https://massgrave.dev/genuine-installation-media)** - Windows ISOs / [Discord](https://discord.gg/gjJEfq7ux8) / [MSDL](https://msdl.gravesoft.dev/)
 * [OS.click](https://os.click/en) - Windows ISOs
 * [MyDigitalLife](https://forums.mydigitallife.net/) - Windows ISOs
 * [Microsoft SD](https://www.microsoft.com/en-us/software-download/) - Windows ISOs
 * [Old School OS](https://www.oldschoolos.com/), [OS Vault](https://osvault.weebly.com/directory.html), [VETUSWARE](https://vetusware.com/) or [WinWorldPC](https://winworldpc.com/) - Oldschool ISOs
 * [Fido](https://github.com/pbatard/Fido) - ISO Powershell Script
 * [MSDN Files](https://files.rg-adguard.net/) or [MVS dump](https://awuctl.github.io/mvs/) - Verify ISO Legitimacy
-* [CloverBootloader](https://github.com/CloverHackyColor/CloverBootloader/) or [EasyBCD](https://neosmart.net/EasyBCD/) - Bootloaders / [Config](https://mackie100projects.altervista.org/)
-* [balenaEtcher](https://etcher.balena.io/) - Flash OS Image SD / USB / Non-Windows OS
-* [Hiren’s BootCD PE](https://www.hirensbootcd.org/) or [Win10XPE](https://github.com/ChrisRfr/Win10XPE) - Preinstallation Environments
 * [CoolStar](https://coolstar.org/chromebook/windows-install.html) - Install Windows on Chromebook
+
+***
+
+## ▷ USB / Bootloaders 
+
+* ⭐ **[Ventoy](https://www.ventoy.net/en/index.html)** - Create Bootable USB Drives
+* ⭐ **[Rufus](https://rufus.ie/)** - Create Bootable USB Drives
+* [MediaCreationTool](https://github.com/AveYo/MediaCreationTool.bat) - Windows Deployment Automation
+* [balenaEtcher](https://etcher.balena.io/) - Flash OS Image SD / USB / Non-Windows OS
+* [CloverBootloader](https://github.com/CloverHackyColor/CloverBootloader/) or [EasyBCD](https://neosmart.net/EasyBCD/) - Bootloaders / [Config](https://mackie100projects.altervista.org/)
+* [Hiren’s BootCD PE](https://www.hirensbootcd.org/) or [Win10XPE](https://github.com/ChrisRfr/Win10XPE) - Preinstallation Environments
 
 ***
 
 ## ▷ Windows Activation
 
 * ⭐ **[MAS](https://massgrave.dev/#Method_1_-_PowerShell)** / [GitHub](https://github.com/massgravel/Microsoft-Activation-Scripts/) / [Discord](https://discord.gg/gjJEfq7ux8)
-* ⭐ **[KMS_VL_ALL_AIO](https://github.com/abbodi1406/KMS_VL_ALL_AIO)**
+* ⭐ **[KMS_VL_ALL_AIO](https://github.com/abbodi1406/KMS_VL_ALL_AIO)** - Offline Activator
 * [EzWindSLIC](https://github.com/Dir3ctr1x/EzWindSLIC) - Vista / 7 / Server 2008
-* [OfficeRTool](https://forums.mydigitallife.net/threads/office-r-tool-project.84450/) - Office 2016 Activation
-* [Office Activation Fix](https://massgrave.dev/office-license-is-not-genuine.html)
+* [OfficeRTool](https://rentry.co/FMHYBase64#officertool-project) - Office 2016 Activator
 
 ***
 

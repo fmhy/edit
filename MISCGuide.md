@@ -413,6 +413,7 @@
 * 🌐 **[Current Events Wiki](https://en.m.wikipedia.org/wiki/Portal:Current_events)** or [Slower News](https://www.slowernews.com/) - Breaking News
 * ↪️ **[Newspaper Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/reading#wiki_.25B7_newspapers)**
 * ↪️ **[Bypass Article Paywalls](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools#wiki_.25B7_paywall_bypass)**
+* ↪️ **[Dev News](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/dev-tools#wiki_.25BA_dev_news)**
 * ⭐ **[/m/news](https://www.reddit.com/user/nbatman/m/news/)** - News Multireddit
 * ⭐ **[TorrentFreak](https://torrentfreak.com/)** / [Telegram](https://t.me/torrentfreaks) - Piracy News
 * ⭐ **[Good News Network](https://www.goodnewsnetwork.org/)** or [Happy Daze](https://happydaze.io/) - Uplifting News
@@ -470,15 +471,6 @@
 * ⭐ **[KrebsOnSecurity](https://krebsonsecurity.com/)** - Security News
 * ⭐ **[Hacker News](https://news.ycombinator.com/)**, [2](https://www.hckrnws.com/) - Tech / Hacking News
 * ⭐ **Hacker News Tools** - [Highlighter](https://greasyfork.org/en/scripts/39311) / [Search](https://hn.algolia.com/), [2](https://hn-recommend.julienc.me/) / [Top Posts](https://hn.lindylearn.io/) / [Web App](https://hackerwebapp.com/) / [Mobile App](https://github.com/Livinglist/Hacki), [2](https://play.google.com/store/apps/details?id=com.simon.harmonichackernews), [3](https://apps.apple.com/us/app/hackers-for-hacker-news/id603503901), [4](https://github.com/Mosc/Glider) / [Self-Host](https://www.hn.plus/)
-* ⭐ **[Lobsters](https://lobste.rs/)** - Dev News / [Highlighter](https://greasyfork.org/en/scripts/40906)
-* [TechURLs](https://techurls.com/) - Dev / Tech News
-* [DevURLs](https://devurls.com/) - Dev News
-* [Techmeme](https://www.techmeme.com/m/) - Dev News
-* [The Brutalist Report](https://brutalist.report/) - Dev News
-* [jimmyr](https://jimmyr.com/) - Dev News
-* [This Week in Rust](https://this-week-in-rust.org/) - Rust News / Updates
-* [BitsOfCode](https://bitsofco.de/) - Frontend Dev Articles
-* [hackertab.dev](https://hackertab.dev/) or [daily.dev](https://daily.dev/) - Dev Browser Startpages
 * [HackerNoon](https://hackernoon.com/), [gHacks](https://www.ghacks.net/), [NeoWin](https://www.neowin.net/), [TweakTown](https://www.tweaktown.com/) or [TechSpot](https://www.techspot.com/) - Tech News
 * [TuxURLs](https://tuxurls.com/) - Linux News
 * [Liliputing](https://liliputing.com/) - Hardware / Linux Mobile News
@@ -606,10 +598,11 @@
 
 ***
 
-## ▷ Detoxing
+## ▷ Detoxing / Sobriety
 
 * ⭐ **[Safe Substance](https://safesubstance.com/)**, [Drugs.com](https://www.drugs.com/) or [DrugBank](https://go.drugbank.com/) - Drug Information / Side Effects
 * ⭐ **[/r/NoSurf](https://www.reddit.com/r/nosurf/wiki/index)** - Digital Detox Community / [Discord](https://discordapp.com/invite/QFhXt2F)
+* [The Freedom Model](https://www.thefreedommodel.org/ebooks/) - Addiction-Help Model / [Books](https://www.youtube.com/playlist?list=PLd6KCmnSpHuE29G2f9JXHMcZKbvzSdInw) / [Lessons](https://www.youtube.com/playlist?list=PLd6KCmnSpHuFBFw-ei2eTYJPrSoLuwBFL) / [Full Book](https://pastebin.com/0hDKEXnP)
 * [BreakFree](https://breakfree-2c089.web.app/) - Break Smoking Habits
 * [Sobriety](https://github.com/KiARC/Sobriety) - Sobriety Tracker
 * [DrugFree](https://drugfree.org/) - Drug Abuse Prevention & Recovery Help
@@ -1142,7 +1135,6 @@
 * [Translation Party](https://www.translationparty.com/) - Translation Parties
 * [Status.Cafe](https://status.cafe/) - Share Current Status
 * [TwoCansAndAString](https://twocansandstring.com/) or [TellOnMe](https://tellonym.me/) - Anonymous Q&A
-* [IsItNormal](https://isitnormal.com/) - Ask if Things are Normal
 * [Earth 2050](https://2050.earth/) - Future Predictions
 * [FutureMe](https://www.futureme.org/) or [MessageToTheFuture](https://messagetothefutu.re/) - Send Messages to Future Self
 * [PostSecret](https://postsecret.com/) - Share Secrets via Postcard
@@ -1427,13 +1419,11 @@
 * [ShindanMaker](https://en.shindanmaker.com/) - Diagnoses / Fortune AI
 * [LMGTFY](https://lmgtfy2.com/), [LetMeGoogleThat](https://letmegooglethat.com/) or [GIYBF](https://giybf.com/) - Remind People that Google Exists
 * [AfterTheTone](https://afterthetone.com/) - Random Answering Machine Messages
-* [Talk Obama To Me](http://talkobamato.me/) - Make Obama Say Stuff
 * [Pink Trombone](https://dood.al/pinktrombone/) - Human Pitch Generator
 * [Purrli](https://purrli.com/) - Cat Purr Generator
 * [LongestPoemInTheWorld](https://www.longestpoemintheworld.com/) - Form Rhymes from Tweets
 * [The Nicest Place](https://thenicestplace.net/) - Internet Hugs
 * [InspiroBot](https://inspirobot.me/) - Inspirational Quote Generator
-* [Hypochondriapp](http://hypochondriapp.io/) - Get a Terrible Diagnosis
 * [HORG](http://www.horg.com/horg/) - Holotypic Occlupanid Research Group
 * [Waifu Labs](https://waifulabs.com/) - Meet your Waifu
 * [Satania](https://satania.moe/) - Satania Waifu / [GitHub](https://github.com/Pizzacus/satania.moe)

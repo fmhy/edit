@@ -1,7 +1,6 @@
-name: 'Pull Request Labeler'
-on:
-  pull_request:
-    types: [opened, labeled, unlabeled]
+name: 'Pull Request Housekeeping'
+
+on: [pull_request_target]
 
 jobs:
   triage:

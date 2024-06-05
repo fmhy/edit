@@ -124,7 +124,7 @@
 
 [8bitdash](https://www.8bitdash.com/), [8 Bit Dashboard](https://8bitdashboard.com/), [Startpage Emporium](https://startpages.github.io/), [Awesome Startpage](https://github.com/jnmcfly/awesome-startpage), [Clippingmini](https://www.clippingmini.com/), [Draggo](https://draggo.com/), [Pearltrees](https://www.pearltrees.com/), [Nextcloud](https://apps.nextcloud.com/apps/bookmarks), [Cling](https://cling.com/), [Symbaloo](https://www.symbaloo.com/), [Tixio](https://tixio.io/), [Bento](https://github.com/migueravila/Bento), [ez.lol](https://ez.lol/), [nightly](https://github.com/damnitharshit/nightly), [Protopage](https://www.protopage.com/), [tilde](https://github.com/xvvvyz/tilde), [Fluidity](https://prettycoffee.github.io/fluidity/) / [GitHub](https://github.com/PrettyCoffee/fluidity), [AllMyFaves](https://allmyfaves.com/)
 
-**Customizable New Tab Page**
+### Customizable New Tab Page
 
 * ⭐ **[Tab with A view](https://www.withaview.co/ext/)** - Virtual Sights New Tab Page
 * ⭐ **[MineWeather](https://github.com/sawyerpollard/MineWeather)** - Weather-Based Minecraft New Tab Page
@@ -180,6 +180,20 @@
 * ⭐ **[Cover Search Engine](https://covers.musichoarders.xyz)**
 
 [Album Art Downloader](https://sourceforge.net/projects/album-art/), [kunst](https://github.com/sdushantha/kunst), [Apple-Music-Animated-Artwork-Fetcher](https://github.com/bunnykek/Apple-Music-Animated-Artwork-Fetcher), [Classic Rock Covers](https://www.classic-rock-covers.com/)
+
+***
+
+## CSS Framework Tools
+
+* 🌐 **[Awesome CSS Frameworks](https://github.com/troxler/awesome-css-frameworks)** CSS Frameworks Index
+* 🌐 **[Classless CSS](https://github.com/dbohdan/classless-css)** - Classless CSS Themes & Frameworks
+* 🌐 **[Awesome TailwindCSS](https://tailwindcss.com)** - Tailwind CSS Resources
+* ⭐ **[Tailwind CSS](https://tailwindcss.com/)** - CSS Framework
+* [Tailwind Toolbox](https://tailwindtoolbox.com/) - Tailwind Starter Templates & Components
+* [Tailsc](https://tailsc.com/), [daisyUI](https://daisyui.com/), [Float UI](https://floatui.com/) / [GitHub](https://github.com/MarsX-dev/floatui), [Aceternity UI](https://ui.aceternity.com/) or [Tailspark](https://tailspark.co/) - Tailwind CSS Components
+* [TailBlocks](https://tailblocks.cc/) - Ready-to-use Tailwind CSS Blocks
+* [Terminal CSS](https://terminalcss.xyz/) - Terminal-style CSS Framework
+* [Bulma](https://bulma.io/) - CSS Framework
 
 ***
 
@@ -419,6 +433,25 @@
 
 ***
 
+## Game Development Assets
+
+* [CraftPix](https://craftpix.net/freebies/)
+* [Kenney](https://www.kenney.nl/)
+* [/r/GameAssets](https://www.reddit.com/r/gameassets/)
+* [UnityAssets4Free](https://unityassets4free.com/)
+* [Open Game Art](https://opengameart.org/)
+* [UnityFreaks](https://www.unityfreaks.com/)
+* [GameDevUE](https://t.me/GameDevUE)
+* [SreamGridDB](https://www.steamgriddb.com/)
+* [DevAssets](https://devassets.com/)
+* [Incern](https://www.incern.org/)
+* [GameDevAssets](https://www.gamedevmarket.net/category/3d/?type=free)
+* [xonotic](https://github.com/xonotic) - FPS Game Assets
+* [Vanguard](https://github.com/VanguardDev/Vanguard) / [2](https://project-vanguard.netlify.app/index.html) - FPS Game Assets
+* [Warsow](https://github.com/Warsow) - FPS Game Assets
+
+***
+
 ## Game Engines
 
 * ⭐ **[Game Engine Collection](https://github.com/collections/game-engines)**
@@ -637,7 +670,7 @@
 * [MC Version Launcher](https://github.com/MCMrARM/mc-w10-version-launcher) - Multi-Version Launcher
 * [CheatBreaker](https://cheatbreaker.net/) - Anti-Cheat / FPS Boost / [GitHub](https://github.com/CheatBreakerNet)
 
-[UltimMC](https://github.com/UltimMC/Launcher), [MultiMC](https://multimc.org/), [Legacy Launcher](https://tlaun.ch/) [2](https://lln4.ru/en), [HMCL](https://github.com/HMCL-dev/HMCL) / [2](https://hmcl.huangyuhui.net/), [TechnicPack](https://www.technicpack.net/), [LabyMod](https://www.labymod.net/), [Crystal Launcher](https://crystal-launcher.net/), [GDLauncher](https://gdlauncher.com/), [X Minecraft Launcher](https://xmcl.app/)
+[UltimMC](https://github.com/UltimMC/Launcher), [MultiMC](https://multimc.org/), [Legacy Launcher](https://tlaun.ch/) [2](https://lln4.ru/en), [HMCL](https://github.com/HMCL-dev/HMCL) / [2](https://hmcl.huangyuhui.net/), [TechnicPack](https://www.technicpack.net/), [LabyMod](https://www.labymod.net/), [Crystal Launcher](https://crystal-launcher.net/), [GDLauncher](https://gdlauncher.com/), [X Minecraft Launcher](https://xmcl.app/), [Salwyrr Client](https://www.salwyrr.com/) / [Crack](https://pastebin.com/ggcB7RNi)
 
 ***
 
@@ -981,7 +1014,7 @@
 
 ## Switch ROMs
 
-* [Ziperto](https://ziperto.com/)
+* [Ziperto](https://ziperto.com/) / Avoid [Fake](https://ibb.co/wWJbkX6) Buttons
 * [ROMSLAB](https://romslab.com/)
 * [NXBrew](https://nxbrew.com/) / [Discord](https://discord.com/invite/aX93bFK9R6) / Scroll past Download Setup buttons
 * [nsw2u](https://nsw2u.com/), [2](https://nsw2u.net/)
@@ -1083,6 +1116,17 @@
 
 ***
 
+## TypeScript Tools
+
+* ⭐ **[TypeScript](https://www.typescriptlang.org/)** - JS Superset
+* [React Typescript Cheatsheets](https://react-typescript-cheatsheet.netlify.app) - Typescript Cheatsheet for React Devs
+* [Clean Code TypeScripts](https://labs42io.github.io/clean-code-typescript) - Clean Code for TypeScript
+* [Tackling TS](https://exploringjs.com/tackling-ts/toc.html) or [TypeScript Deep Drive](https://basarat.gitbook.io/typescript/getting-started) - TypeScript Guides
+* [TypeHero](https://typehero.dev/) or [Type Challenges](https://github.com/type-challenges/type-challenges) - TypeScript Exercises / Challenges
+* [tRPC](https://trpc.io/) - Build Typesafe TypeScript APIs
+
+***
+
 ## Udemy Coupons
 
 * **Note** - If you're in the US you should be able to access Udemy courses for free using your library and looking for "Gale Presents Udemy."
@@ -1116,6 +1160,16 @@
 * ⭐ **[CheckShortURL](https://checkshorturl.com/)**
 
 [ExpandURL](https://www.expandurl.net/), [Unshorten.it](https://unshorten.it/), [WhereGoes](https://wheregoes.com/), [urlxray](http://urlxray.com/), [unshorten](https://unshorten.me/), [linkunshorten](https://linkunshorten.com/)
+
+***
+
+## Vue Tools
+
+* ⭐ **[Vue.js](https://vuejs.org/)** - JS Framework
+* [NuxtJS](https://nuxt.com/) - Vue Framework / [Dev Tools](https://github.com/nuxt/devtools)
+* [Arco Design](https://arco.design/vue/en-US/docs/start) or [Naive-UI](https://www.naiveui.com/) / [GitHub](https://github.com/tusen-ai/naive-ui) - Vue 3 UI Components Library
+* [Vuejs Dev Tools](https://vuejs.org/) - Add Vue 3 Debugging to Browser
+* [Vue vben admin](https://github.com/vbenjs/vue-vben-admin) - Vue Admin
 
 ***
 
