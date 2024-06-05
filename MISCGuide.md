@@ -1322,7 +1322,6 @@
 * [Google Earth](https://www.google.com/earth/about/versions/) - Explore Earth
 * [Land Lines](https://lines.chromeexperiments.com/) - Explore Google Earth via Gestures
 * [DamnInteresting](https://www.damninteresting.com/) - Interesting Stories
-* [Fucking Homepage](https://fuckinghomepage.com/) - Daily Interesting Stuff Homepage
 * [The Cutting Room Floor](https://tcrf.net/The_Cutting_Room_Floor) - Unused Video Game Content Research
 * [SongMeanings](https://songmeanings.com/) - Discover Song Meanings
 * [ColorNames](https://colornames.org/) - Help Name Colors
