@@ -284,6 +284,8 @@
 
 ## ▷ Streaming
 
+* [Kukaj](https://ww.kukaj.sx/) - Movies / TV / Anime / 1080p
+* [Sledujteto](https://www.sledujteto.cz/) - Movies / TV / Anime / 1080p
 * [FilmPlanet](https://www1.filmplanet.to/) - Movies / TV / Sub / Dub / 720p
 
 ***
