@@ -66,7 +66,7 @@
 * [Motherless](https://motherless.com/)
 * [ClipHunter](https://www.cliphunter.com/)
 * [Beeg](https://beeg.com/)
-* [ThisVid(https://thisvid.com/newest/)
+* [ThisVid](https://thisvid.com/newest/)
 * [FKBAE](https://fkbae.to/)
 * [Redtube](https://www.redtube.com/)
 * [txxx](https://txxx.com/)
