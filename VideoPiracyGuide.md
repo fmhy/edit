@@ -537,7 +537,7 @@
 * [Downloads-Anymovies](https://www.downloads-anymovies.co/) - Movies / 1080p
 * [RLSXTVT](https://rlsxtvt.icu/) - Movies / TV / 1080p
 * [PrimeFlix](https://primeflix.lol/) - Movies / TV / Anime / 4K / 1080p
-* [UHDMovies](https://uhdmovies.fans/) - Movies / 4K
+* [UHDMovies](https://uhdmovies.foo/) - Movies / 4K
 * [Best-Movies](https://best-movies.info/) - Movies / TV / 4K
 * [Onkyo4k](https://onkyo4k.com/) - Movies / TV / 4K
 * [ShareSpark](https://ww1.sharespark.cfd/) - Movies / TV / 1080p
