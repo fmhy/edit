@@ -1044,8 +1044,6 @@
 * [KodyTools](https://www.kodytools.com/) - Data / Text / Design / Cryptography / Unit Conversion
 * [Media.io](https://www.media.io/online-tools.html) - Multimedia
 * [Sumo](https://sumo.app/) - Design / Graphic / Music
-* [prepostseo](https://prepostseo.com/) - SEO / Text
-* [SeoMagnifier](https://seomagnifier.com/) - SEO
 * [Digital Methods Initiative](https://wiki.digitalmethods.net/Dmi/ToolDatabase) - Research Tools Database
 * [BfoTool](https://bfotool.com/) - Text / Image / Code / File Conversion
 * [TuckTools](https://www.tucktools.com/) - Social Media

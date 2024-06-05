@@ -477,12 +477,13 @@
 * ⭐ **[hoppscotch](https://hoppscotch.io/)**, [Firecamp](https://firecamp.dev/), [Strapi](https://strapi.io/), or [Postman](https://www.postman.com/) - API Builders
 * ⭐ **[Shizuku](https://shizuku.rikka.app/)** - Connect Apps to APIs
 * [HTTPie](https://httpie.io/) - Test REST, GraphQL, and HTTP APIs
+* [Rest Test Test](https://resttesttest.com/) - Test REST / CORS Services
+* [Beeceptor](https://beeceptor.com/) - Mock REST APIs
+* [Siesta](http://siestaframework.com) - Write REST API Clients for iOS / macOS
 * [Pipedream](https://pipedream.com/) - Connect APIs / [Tutorial](https://gist.github.com/ItsRauf/48f252c931ac394b1395312b61b8e35b)
 * [FastAPI](https://fastapi.tiangolo.com/) - API Framework
-* [Beeceptor](https://beeceptor.com/) - Mock REST APIs
 * [Insomnia](https://insomnia.rest/) or [Insomnium](https://github.com/ArchGPT/insomnium) (Privacy focused fork) - API Clients
 * [Bruno](https://www.usebruno.com/) - API Testing Client
-* [Siesta](http://siestaframework.com) - Write REST API Clients for iOS / macOS
 * [ReDoc](https://redocly.github.io/redoc/) - Generate API Documentation
 * [Mockable](https://www.mockable.io/), [Mocky](https://designer.mocky.io/) or [MockLab](https://www.wiremock.io/) - Mock APIs
 * [{JSON} Placeholder](https://jsonplaceholder.typicode.com/) - Fake APIs
@@ -901,13 +902,13 @@
 * ⭐ **[FullStackOpen](https://fullstackopen.com/en/)** - Full Stack Course
 * ⭐ **[LandChad](https://landchad.net/)** or [learn.sadgrl.online](https://learn.sadgrl.online/) - Site Development Guides
 * ⭐ **[Learn to Code HTML & CSS](https://learn.shayhowe.com/)** - HTML/CSS Course
+* [HTMLDog](https://htmldog.com/) - HTML/CSS and JavaScript Tutorials
 * [Web Dev for Beginners](https://microsoft.github.io/Web-Dev-For-Beginners/) - Web Dev Course
 * [Aquent Gymnasium](https://thegymnasium.com/) - Web Dev Tutorials
 * [Dash](https://dash.generalassemb.ly/) - Web Dev Courses
 * [Web Skills](https://andreasbm.github.io/web-skills/), [web.dev](https://web.dev/learn) or [Encodedna](https://www.encodedna.com/) - Web Dev Guides
 * [Codevolution](https://www.youtube.com/@Codevolution) - Web Dev Video Lessons
 * [Local-First Web](https://localfirstweb.dev/) - Local-First Web Development Guide / [Discord](https://discord.gg/lfwdev)
-* [HTMLDog](https://htmldog.com/) - HTML/CSS and JavaScript Tutorials
 * [DOM Events](https://domevents.dev/) - Learn about DOM Events
 * [backendlore](https://github.com/fpereiro/backendlore) - Backend Coding Guide
 * [backend-challenges](https://github.com/CollabCodeTech/backend-challenges) - Backend Challenges for Practice
@@ -915,8 +916,7 @@
 * [STPG](https://stpg-tk.netlify.app/guides/) - Startpage Creation Guides / [Discord](https://discord.com/invite/ExAGgVR)
 * [Web Design in 4 Minutes](https://jgthms.com/web-design-in-4-minutes/) or [Strml](https://www.strml.net/) - Interactive Web Design Tutorial
 * [WebGL and GLSL Workshop](https://mattdesl.github.io/workshop-webgl-glsl/) - Interactive WebGL / GLSL Tutorial
-* [LearningSEO](https://learningseo.io/) - SEO Guides
-* [SEO Cheat Sheet](https://seo-cheat-sheet.9elements.com/) - SEO Cheat Sheet
+* [Prepostseo](https://prepostseo.com/), [SEOMagnifier](https://seomagnifier.com/), [LearningSEO.io](https://learningseo.io/) or [SEO Cheat Sheet](https://seo-cheat-sheet.9elements.com/),  - SEO Tools / Resources
 
 ***
 
@@ -1098,14 +1098,13 @@
 * [SSLMate CAA](https://sslmate.com/caa/) - CAA Record Helper
 * [free-website-translation](http://free-website-translation.com/), [transdict](http://transdict.com/meta/website.html) or [conveythis](https://www.conveythis.com/) - Website Translators
 * [Statically](https://statically.io/) - Load Websites Faster
-* [Rest Test Test](https://resttesttest.com/) - Test REST / CORS Services
 * [WebUI](https://webui.me/) - Embed WebUI Libraries in Project
 * [Dagu](https://dagu.readthedocs.io) / [GitHub](https://github.com/dagu-dev/dagu) - WebUI Job Manager
-* [httpbin](https://httpbin.org/) or [Requestbin](https://pipedream.com/requestbin) - HTTP Request & Response Service
+* [QuickEmailVerification](https://quickemailverification.com/), [Email Marker](https://www.emailmarker.com/) or [ZeroBounce](https://www.zerobounce.net/) - Email Validation Services
+* [RequestBin](https://pipedream.com/requestbin) - Easy Webhook Debugging & Integration
 * [Plow](https://github.com/six-ddc/plow) - HTTP Benchmarking
 * [http-server](https://github.com/http-party/http-server) - No Config HTTP Server
 * [Apache](https://httpd.apache.org/) - HTTP Server
-* [h5ai](https://larsjung.de/h5ai/) - HTTP Web Server Index / [GitHub](https://github.com/lrsjng/h5ai)
 * [Easegress](https://github.com/megaease/easegress) - Traffic Orchestration System
 * [HITS](https://hits.seeyoufarm.com/) - Website Traffic Badges
 * [Partytown](https://partytown.builder.io) / [GitHub](https://github.com/BuilderIO/partytown) - Relocate Scripts to Web Worker
@@ -1151,7 +1150,6 @@
 * [Traefik](https://traefik.io/) - Cloud Native Stack
 * [Amazon S3](https://aws.amazon.com/s3) - Cloud Object Storage Amazon Simple Service Storage / [Desktop](https://s3browser.com/)
 * [howtheyaws](https://github.com/upgundecha/howtheyaws) - List of How Organizations Use AWS
-* [QuickEmailVerification](https://quickemailverification.com/), [Email Marker](https://www.emailmarker.com/) or [ZeroBounce](https://www.zerobounce.net/) - Email Verification Service
 * [Improvemx](https://improvmx.com/) - Domain Email Forwarding
 * [Postal](https://docs.postalserver.io/) - Mail Delivery Platform
 * [Microlink SDK](https://microlink.io/sdk) / [GitHub](https://github.com/microlinkhq/sdk), [React Tiny Link](https://winhtaikaung.github.io/react-tiny-link/) / [GitHub](https://github.com/winhtaikaung/react-tiny-link) or [Link Preview JS](https://github.com/OP-Engineering/link-preview-js) - Create Link Previews
@@ -1368,7 +1366,7 @@
 # ► Cybersecurity
 
 * 🌐 **[Free Cyber Resources](https://github.com/gerryguy311/Free_CyberSecurity_Professional_Development_Resources)**, [BlueTeam Tools](https://github.com/A-poc/BlueTeam-Tools) or [Applied Cybersecurity](https://www.nist.gov/itl/applied-cybersecurity/nice/resources/online-learning-content) - Cybersecurity Learning Resources
-* 🌐 **[CTF Sites](https://ctfsites.github.io/)**, [EchoCTF](https://echoctf.red/), [picoCTF](https://picoctf.org/), [CTF Guide](https://jaimelightfoot.com/blog/so-you-want-to-ctf-a-beginners-guide/) or [CTFLearn](https://ctflearn.com/) - CTF Challenges / Resources
+* 🌐 **[CTF Sites](https://ctfsites.github.io/)**, [echoCTF.RED](https://echoctf.red/), [picoCTF](https://picoctf.org/), [CTF Beginners Guide](https://jaimelightfoot.com/blog/so-you-want-to-ctf-a-beginners-guide/) or [CTFLearn](https://ctflearn.com/) - CTF Challenges / Resources
 * ↪️ **[Pentesting Resources](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_pentesting_resources)**
 * ⭐ **[crackmes.one](https://crackmes.one/)** / [Discord](https://discord.com/invite/2pPV3yq), [Hackers101](https://www.hacker101.com/), [SmashTheStack](https://smashthestack.org/), [WebHacking](https://webhacking.kr/) or [DefendTheWeb](https://defendtheweb.net/) - Cybersecurity Challenges
 * [Skills for All](https://skillsforall.com/) or [90DaysOfCyberSecurity](https://github.com/farhanashrafdev/90DaysOfCyberSecurity) - Cybersecurity Courses
@@ -1425,24 +1423,20 @@
 * [DNSPerf](https://www.dnsperf.com/dns-providers-list/) - DNS Provider Rankings
 * [GRC DNSBench](https://www.grc.com/dns/benchmark.htm) - DNS Benchmark
 * [DNS Propagation](https://dnspropagation.net/) - DNS Checker
-
+* [DNSDumpster](https://dnsdumpster.com/), [DNS Watch](https://dnswatch.info) or [WhatsMyDNS](https://whatsmydns.net/) - DNS Lookup / Security
 * [DNS over HTTPS](https://github.com/curl/curl/wiki/DNS-over-HTTPS) - HTTPS DoH Queries
 * [How HTTPS Works](https://howhttps.works/) - Learn HTTPS
 * [Certbot](https://certbot.eff.org/) - Free HTTPS Certificates
 * [mitmproxy](https://mitmproxy.org) - Interactive HTTPS Proxy / [GitHub](https://github.com/mitmproxy/mitmproxy)
 * [HTTPToolkit](https://httptoolkit.com/) - Intercept, Debug, and Mock HTTP(S)
 * [mitmproxy](https://mitmproxy.org/) / [GitHub](https://github.com/mitmproxy/mitmproxy) - Analyze and modify HTTPS traffic
-
 * [WebAuthn](https://webauthn.guide/) - Web Authentication API - [Demo](https://webauthn.io/)
 * [Hydra](https://github.com/ory/hydra) - OAuth 2.0 Server / OpenID Connect Provider
 * [SuperTokens](https://supertokens.com/) or [Lucia](https://lucia-auth.com/) - User Authentication
-
 * [ZAP](https://www.zaproxy.org/) - Web App Security Testing
-* [SSuite](https://spidersuite.github.io/SSuite/) - Web Security App (?)
 * [IP Intelligence](https://getipintel.net/), [AbuseIPDB](https://www.abuseipdb.com/) or [Proxy Check](https://proxycheck.io/) - Proxy / VPN / Bad IP Detection
 * [Fail2Ban](https://github.com/fail2ban/fail2ban) - Protect Servers from Brute Force Attacks
 * [Tempesta FW](https://tempesta-tech.com/) - DDoS / Web Attack Protection
-* [DNSDumpster](https://dnsdumpster.com/), [DNS Watch](https://dnswatch.info) or [WhatsMyDNS](https://whatsmydns.net/) - DNS Lookup / Security
 * [IPv6 Leak Test](https://ip6.nl/), [Test-IPv6](https://test-ipv6.com/) or [IPv6 Test](https://ipv6-test.com/) - IPV6 Test
 * [How To Turn off IPv6](https://www.itechguides.com/disable-ipv6-windows-10/) - Prevent IPv6 Leaks
 
