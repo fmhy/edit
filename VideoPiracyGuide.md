@@ -17,7 +17,6 @@
 * ⭐ **[HydraHD](https://hydrahd.com/)** - Movies / TV / Anime / 1080p
 * ⭐ **[SusFlix](https://susflix.tv/)**, [2](https://www.susmovies.lol/), [3](https://sushbo.com/), [4](https://hbosus.com) - Movies / TV / Anime / 4K / 1080p / Ad-Free / Sign-Up Required / [Discord](https://discord.gg/BE7kTVezBN)
 * ⭐ **[KipFlix](https://kipflix.vercel.app/)** - Movies / TV / Anime / 1080p / [Discord](https://discord.gg/tDKYeh9eQn)
-* ⭐ **[Watching Zone](https://www.watching.zone/)** - Movies / TV / Anime / 1080p
 * ⭐ **[PrimeFlix](https://primeflix.lol/)** - Movies / TV / Anime / 4K / 1080p / [Discord](https://discord.gg/GbW6gzAKgc)
 * ⭐ **[SFlix](https://sflix.to/)** - Movies / TV / Anime / 1080p / [Mirrors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_sflix_clones)
 * ⭐ **[MovieBeams](https://moviebeamz.com/)** - Movies / TV / Anime / 4K / 1080p
@@ -29,6 +28,7 @@
 * [SmashyStream](https://smashystream.xyz/), [2](https://flix.smashystream.xyz/), [3](https://smashystream.com/) - Movies / TV / Anime / 1080p / [Telegram](https://t.me/+vekZX4KtMPtiYmRl)
 * [Youplex](https://youplex.site/) - Movies / TV / Anime / 4K / 1080p / No ads / [Telegram](https://t.me/youplexannouncments) / [Discord](https://discord.com/invite/5eWu9Vz6tQ)
 * [Nkiri](https://nkiri.cc/) - Movies / TV / 1080p / Ad-Free
+* [VidPlay](https://vidplay.org/) - Movies / TV / Anime / 1080p / Ad-Free
 * [HollyMovieHD](https://hollymoviehd.cc/), [YesHD](https://yeshd.net/) or [NovaMovie](https://novamovie.net/) - Movies / TV / Anime / 1080p / [Mirrors](https://hollymoviehd-official.com/)
 * [WatchWave](https://watchwave-v2.vercel.app/watch) - Movies / TV / Anime / 1080p / Ad-Free
 * [FlixHQ](https://flixhq.click/) - Movies / TV / Anime / 1080p
@@ -516,14 +516,14 @@
 
 * ↪️ **[General DDL Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/download)**
 * ↪️ **[Video Download Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video-tools#wiki_.25BA_video_download)**
-* ⭐ **[Braflix](https://www.braflix.video/)** - Movies / TV / Anime / 4K / 1080p / Account Required / [Discord](https://discord.gg/wWKmxARaWH)
 * ⭐ **[Pahe](https://pahe.ink/)** - Movies / TV / Anime / 4K / [Discord](https://discord.gg/4AvaCsd2J4)
 * ⭐ **[PSARips](https://psa.wf/)** - Movies / TV / 4K
 * ⭐ **[OlaMovies](https://olamovies.rent/)** - Movies / TV / 4K / 1080p / [Telegram](https://t.me/olamovies_officialv6)
-* ⭐ **[Binged](https://binged.live/)**, [2](https://binge.lol/), [3](https://binged.in/) - Movies / TV / Anime / 4k / 1080p / [Discord](https://discord.gg/f2SvhcKCKS)
 * ⭐ **[LightDLMovies](https://lightdl.xyz/)**, [2](https://lightdlmovies.blogspot.com/) - Movies / TV / 1080p
 * ⭐ **[VegaMovies](https://vegamovies.yt/)** - Movies / TV / Anime / 1080p / 4K / [Telegram](https://telegram.dog/VegamoviesTo_Official)
 * ⭐ **[MovieParadise](https://movieparadise.org/)** - Movies / TV / 1080p / [Get Code](https://pastebin.com/5jTpFCCP) / Code unlocks faster file host (1fichier)
+* ⭐ **[Braflix](https://www.braflix.video/)** - Movies / TV / Anime / 4K / 1080p / Account Required / [Discord](https://discord.gg/wWKmxARaWH)
+* ⭐ **[Sudo-Flix](https://sudo-flix.lol/)** - Movies / TV / Anime / 4K / 1080p
 * ⭐ **[Drama Day](https://dramaday.me/)** - Asian Drama / 1080p
 * ⭐ **[Video Download CSE](https://cse.google.com/cse?cx=006516753008110874046:wevn3lkn9rr)** / [CSE 2](https://cse.google.com/cse?cx=89f2dfcea452fc451) / [CSE 3](https://cse.google.com/cse?cx=aab218d0aa53e3578)
 * [DDLBase](https://ddlbase.com/) - Movies / TV / 4K
@@ -808,9 +808,9 @@
 
 # ► Subtitles
 
-* 🌐 **[elSubtitle](https://www.elsubtitle.com/)** or [Subtitle Tools](https://subtitletools.com/) - Subtitle Tools
+* 🌐 **[elSubtitle](https://www.elsubtitle.com/)**, [SubConverter](https://subconverter.com/) or [Subtitle Tools](https://subtitletools.com/) - Subtitle Tools
 * ⭐ **[Substital](https://substital.com/)** or [Movie-Subtitles](https://github.com/gignupg/Movie-Subtitles) - External Subtitle Extensions
-* ⭐ **[Subtitle Edit](https://www.nikse.dk/SubtitleEdit/Online)**, [DST](https://www.syedgakbar.com/projects/dst), [Aegisub](https://aegisub.org/), [Subtitle Workshop](https://www.uruworks.net/), [Jubler Subtitle](https://www.jubler.org/), [DivXLand Subtitler](https://www.andreszsogon.com/divxland-media-subtitler/) or [Subtitld](https://subtitld.org/) - Subtitle Editor
+* ⭐ **[Subtitle Edit](https://www.nikse.dk/SubtitleEdit/Online)**, [DST](https://www.syedgakbar.com/projects/dst), [Aegisub](https://aegisub.org/), [Subtitle Workshop](https://www.uruworks.net/), [Jubler Subtitle](https://www.jubler.org/) or [Subtitld](https://subtitld.org/) - Subtitle Editor
 * [Penguin](https://github.com/carsonip/Penguin-Subtitle-Player) - External Subs Players
 * [Sub-Zero](https://github.com/pannal/Sub-Zero.bundle) - Plex Subtitles
 * [Adjust Subs Like a Pro](https://graph.org/Adjust-subtitles-in-seconds-like-a-pro-07-17) - Subtitle Syncing Guide
