@@ -425,7 +425,6 @@
 * ⭐ **[Novel Updates](https://www.novelupdates.com/)**
 * ⭐ **[jnovels](https://jnovels.com/)** or [MP4DIRECTS](https://mp4directs.com/)
 * ⭐ **[Just Light Novels](https://www.justlightnovels.com/)**
-* ⭐ **[server.elscione](https://rentry.co/FMHYBase64#serverelscione)**
 * [Vynovel](https://vynovel.com/)
 * [Light Novel World](https://www.lightnovelworld.com/), [2](https://www.novelpub.com)
 * [Ranobes](https://ranobes.top/)
