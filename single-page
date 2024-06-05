@@ -16815,7 +16815,6 @@ onMounted(() => {
 
 ## ▷ DNS / Web Security
 
-* ↪️ **[Encryption / Certificates]()**
 * ↪️ **[Free DNS Servers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_free_dns_servers)**
 * ⭐ **[mess with dns](https://messwithdns.net/)** - Experiment with DNS
 * [How DNS Works](https://howdns.works/) - Learn DNS
@@ -16834,6 +16833,23 @@ onMounted(() => {
 * [Tempesta FW](https://tempesta-tech.com/) - DDoS / Web Attack Protection
 * [IPv6 Leak Test](https://ip6.nl/), [Test-IPv6](https://test-ipv6.com/) or [IPv6 Test](https://ipv6-test.com/) - IPv6 Test
 * [How To Turn off IPv6](https://www.itechguides.com/disable-ipv6-windows-10/) - Prevent IPv6 Leaks
+
+***
+
+## ▷ Encryption / Certificates
+
+* [How HTTPS Works](https://howhttps.works/) - Learn HTTPS
+* [mitmproxy](https://mitmproxy.org) - Interactive HTTPS Proxy / [GitHub](https://github.com/mitmproxy/mitmproxy)
+* [HTTPToolkit](https://httptoolkit.com/) - Intercept, Debug, and Mock HTTP(S)
+* [mitmproxy](https://mitmproxy.org/) / [GitHub](https://github.com/mitmproxy/mitmproxy) - Analyze and modify HTTPS traffic
+* [Mozilla SSL](https://ssl-config.mozilla.org/) - SSL Configuration Generator
+* [Hitch](https://www.varnish-software.com/community/hitch) - SSL / TLS Proxy / [GitHub](https://github.com/varnish/hitch)
+* [Let's Encrypt](https://letsencrypt.org/) or [Certbot](https://certbot.eff.org/) - Free TLS Certificates
+* [SSL for Free](https://www.sslforfree.com/) or [ZeroSSL](https://zerossl.com/) - Free SSL Certificates
+* [CertAlert](https://certalert.net/) - Alerts you when a TLS/SSL Certificate Expires
+* [acme.sh](https://github.com/acmesh-official/acme.sh) - Auto Issues / Certificate Renewal
+* [mkcert](https://github.com/FiloSottile/mkcert) - Locally Trusted Development Certificates
+* [SSLMate CAA](https://sslmate.com/caa/) - CAA Record Helper
 
 ***
 
