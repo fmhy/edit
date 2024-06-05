@@ -43,7 +43,7 @@
 * [Spotify Dedup](https://spotify-dedup.com/) - Playlist Song Dedup
 * [exportify](https://github.com/watsonbox/exportify) or [SpotMyBackup](http://www.spotmybackup.com/) - Playlist Backup
 * [Opslagify](https://opslagify.deruever.nl/) - Library Size
-* [Awesome Spotify Stats](https://github.com/rimsiw/awesome-spotify-stats) - Listening Stats
+* [Awesome Spotify Stats](https://github.com/rimsiw/awesome-spotify-stats) or [NewTunes](https://newtunes.xyz/) - Listening Stats
 * [Spoticulum](https://spoticulum.xyz/) - Spotify Collection Snapshots
 * [Chart My Music](https://www.chartmymusic.com/) - Spotify Album Collages
 * [Tierify](https://davitg.com/projects/tierify/) - Tier Lists
