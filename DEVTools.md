@@ -1085,8 +1085,6 @@
 * [ElasticSearch](https://www.elastic.co/products/elasticsearch) / [GitHub](https://github.com/elastic/elasticsearch) - Search & Analytics Engine
 * [SerPreview](https://serpreviewtool.com/) - Site Search Results
 * [Robots.txt Tester](https://support.google.com/webmasters/answer/6062598) - Test Your robots.txt
-* [Charles 3](https://www.charlesproxy.com/download/previous-release/) / [Activation](https://rentry.co/FMHYBase64#charles-activate) - Web Debugging Proxy App
-* [CORS Proxy](https://corsproxy.github.io/) - Free CORS Proxy
 * [Tabler](https://tabler.io/) - Site Admin Dashboard
 * [Octopus](https://octopus.do/sitemap) - Site Planning Tool
 * [Browser Default Styles](https://browserdefaultstyles.com/) - Default Browser Style Search
@@ -1122,7 +1120,6 @@
 * [Medusa](https://medusajs.com) - Digital Commerce Development Tool
 * [Can I Use?](https://caniuse.com/) - Browser Support Tables
 * [Appwrite](https://appwrite.io/) or [Shuttle](https://www.shuttle.rs/) - Open-Source Backend Platforms
-* [squid](http://www.squid-cache.org/) - Caching Proxy / [MSI Installer](https://squid.diladele.com/)
 * [Check for Cloudflare](https://checkforcloudflare.selesti.com/) - Check Sites for Cloudflare
 * [CFScanner](https://github.com/MortezaBashsiz/CFScanner/), [scanner](https://ircfspace.github.io/scanner/) or [cf-ip-scanner-py](https://github.com/vfarid/cf-ip-scanner-py) - Cloudflare IP Scanners
 * [cloudflare-ip-tester-app](https://github.com/xianshenglu/cloudflare-ip-tester-app/) - Cloudflare IP Tester
@@ -1153,6 +1150,9 @@
 * [Improvemx](https://improvmx.com/) - Domain Email Forwarding
 * [Postal](https://docs.postalserver.io/) - Mail Delivery Platform
 * [Microlink SDK](https://microlink.io/sdk) / [GitHub](https://github.com/microlinkhq/sdk), [React Tiny Link](https://winhtaikaung.github.io/react-tiny-link/) / [GitHub](https://github.com/winhtaikaung/react-tiny-link) or [Link Preview JS](https://github.com/OP-Engineering/link-preview-js) - Create Link Previews
+* [Charles 3](https://www.charlesproxy.com/download/previous-release/) / [Activation](https://rentry.co/FMHYBase64#charles-activate) - Web Debugging Proxy App
+* [CORS Proxy](https://corsproxy.github.io/) - Free CORS Proxy
+* [squid](http://www.squid-cache.org/) - Caching Proxy / [MSI Installer](https://squid.diladele.com/)
 * [V2Ray](https://www.v2fly.org/) - Proxy Software
 * [Traefik](https://traefik.io/traefik/), [frp](https://github.com/fatedier/frp) or [reverse-proxy](https://github.com/microsoft/reverse-proxy) - Reverse Proxies
 * [WhatPWACanDo](https://whatpwacando.today/) - PWA Examples
@@ -1278,11 +1278,11 @@
 * [PingDom](https://tools.pingdom.com) - Ping Website
 * [Kener](https://kener.ing/) - Self-Hosted Status Page
 * [Oracle VPS](https://rentry.co/oraclevps) - VPS
-* [Hitch](https://hitch-tls.org/) - SSL / TLS Proxy
-* [acme.sh](https://github.com/acmesh-official/acme.sh) - Auto Issues / Certificate Renewal
-* [Let's Encrypt](https://letsencrypt.org/) - Free TLS Certificates
+* [Hitch](https://www.varnish-software.com/community/hitch) - SSL / TLS Proxy / [GitHub](https://github.com/varnish/hitch)
+* [Let's Encrypt](https://letsencrypt.org/) or [Certbot](https://certbot.eff.org/) - Free TLS Certificates
 * [SSL for Free](https://www.sslforfree.com/) or [ZeroSSL](https://zerossl.com/) - Free SSL Certificates
 * [CertAlert](https://certalert.net/) - Alerts you when a TLS/SSL Certificate Expires
+* [acme.sh](https://github.com/acmesh-official/acme.sh) - Auto Issues / Certificate Renewal
 * [mkcert](https://github.com/FiloSottile/mkcert) - Locally Trusted Development Certificates
 * [SSL Config Generator](https://ssl-config.mozilla.org/) - Generate SSL Configurations
 * [Sandstorm](https://sandstorm.org/), [Cosmos](https://cosmos-cloud.io/) or [CloudRon](https://www.cloudron.io/) - Web App Hosts
@@ -1426,7 +1426,6 @@
 * [DNSDumpster](https://dnsdumpster.com/), [DNS Watch](https://dnswatch.info) or [WhatsMyDNS](https://whatsmydns.net/) - DNS Lookup / Security
 * [DNS over HTTPS](https://github.com/curl/curl/wiki/DNS-over-HTTPS) - HTTPS DoH Queries
 * [How HTTPS Works](https://howhttps.works/) - Learn HTTPS
-* [Certbot](https://certbot.eff.org/) - Free HTTPS Certificates
 * [mitmproxy](https://mitmproxy.org) - Interactive HTTPS Proxy / [GitHub](https://github.com/mitmproxy/mitmproxy)
 * [HTTPToolkit](https://httptoolkit.com/) - Intercept, Debug, and Mock HTTP(S)
 * [mitmproxy](https://mitmproxy.org/) / [GitHub](https://github.com/mitmproxy/mitmproxy) - Analyze and modify HTTPS traffic
