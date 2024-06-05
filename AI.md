@@ -23,7 +23,8 @@
 * ⭐ **[wrtn](https://wrtn.ai/)** - GPT-4 Chatbot / [Android](https://play.google.com/store/apps/details?id=com.wrtn.app) / [iOS](https://apps.apple.com/us/app/%EB%A4%BC%ED%8A%BC-%EB%AA%A8%EB%91%90%EB%A5%BC-%EC%9C%84%ED%95%9C-ai-%ED%8F%AC%ED%84%B8/id6448556170) (ask for english)
 * ⭐ **[Gemini](https://gemini.google.com/)** or [Gemma](https://github.com/google/gemma.cpp), [2](https://ai.google.dev/gemma/) - Google's Chatbot
 * ⭐ **[Claude](https://claude.ai/)** - Anthropic's Chatbot
-* ⭐ **[Morphic](https://www.morphic.sh/)** - GPT4o Powered Search 
+* ⭐ **[sdk.vercel](https://sdk.vercel.ai/)** - GPT-4o / Multiple Chatbots
+* ⭐ **[Morphic](https://www.morphic.sh/)** - GPT-4o Powered Search 
 * ⭐ **[Perplexity](https://www.perplexity.ai/)** - GPT-3.5 Powered Search / [Open Source Models](https://labs.perplexity.ai/)
 * ⭐ **[groq](https://groq.com/)** - LLama 3 and Mixtral Chatbots
 * ⭐ **[LMSYS Chat](https://chat.lmsys.org/)** - Chat and Compare Multiple Chatbots
@@ -48,7 +49,6 @@
 * [Pi](https://pi.ai/talk) - Inflection AI's Chatbot
 * [Reka Playground](https://chat.reka.ai/) - Reka's Chatbot
 * [Poe](https://poe.com/) - Multiple Chatbots / 150 Daily / [Discord](https://discord.com/invite/joinpoe)
-* [play.vercel](https://play.vercel.ai/) - Compare Multiple Chatbots
 * [GlobalGPT](https://www.globalgpt.nspiketech.com/#/) - AI Chatbot with Document Support
 
 ***
@@ -63,6 +63,7 @@
 * ⭐ **[Oobabooga Text Generation WebUI](https://github.com/oobabooga/text-generation-webui)** - Self-Host Models / [Colab](https://colab.research.google.com/github/pcrii/Philo-Colab-Collection/blob/main/4bit_TextGen_Gdrive.ipynb)
 * ⭐ **[Aphrodite Engine](https://github.com/PygmalionAI/aphrodite-engine)** - Serve LLMs at Scale with Kobold & OpenAI APIs / [Colab](https://colab.research.google.com/github/AlpinDale/misc-scripts/blob/main/Aphrodite.ipynb)
 * [LLaVA](https://llava.hliu.cc/) - Chatbot with Image Support
+* [OpenAIPlayground](https://github.com/nat/openplayground) - LLM Playground
 * [Petals](https://petals.dev/) - Self-Hosted
 * [Mistral](https://chat.mistral.ai/chat) - Self-Hosted
 * [Ollama](https://ollama.ai/) - Self-Hosted
@@ -70,7 +71,6 @@
 * [GPT4All](https://gpt4all.io/) - Self-Hosted / [Github](https://github.com/nomic-ai/gpt4all) / [Discord](https://discord.com/invite/mGZE39AS3e)
 * [LlamaFile](https://github.com/Mozilla-Ocho/llamafile) - Run LLM with Single Files
 * [Generative AI for Beginners](https://microsoft.github.io/generative-ai-for-beginners/) - Generative AI Guides
-
 
 ***
 
