@@ -295,7 +295,7 @@
 * ⭐ **[Soar](https://soar.earth/)** - Digital Atlas
 * [LizardPoint](https://lizardpoint.com/) - Geography Quizzes
 * [AntipodesMap](https://www.antipodesmap.com/) - Find Antipodes
-* [The True Size](https://thetruesize.com/) - Compare Country Size
+* [The True Size](https://thetruesize.com/) or [True Size of Countries](https://truesizeofcountries.com/) - Compare Country Size
 * [Location Data](https://locationdata.us/) or [NationsEncyclopedia](https://www.nationsencyclopedia.com/) - Location / Population Data
 * [Global Consciousness Project](https://gcpdot.com/) - Real-Time Global Consciousness Data
 * [If It Were My Home](https://www.ifitweremyhome.com/), [GlobalEdge](https://globaledge.msu.edu/) or [MyLifeElsewhere](https://www.mylifeelsewhere.com/) - Country Data Comparisons
