@@ -222,7 +222,6 @@
 * [Edge Emulation](https://edgeemu.net/) - ROMs
 * [Zophar's Domain](https://www.zophar.net/) - Emulators / ROM Hacks
 * [TheRomDepot](https://theromdepot.com/) - ROMs
-* [Squid Proxy](https://rentry.co/FMHYBase64#squid-proxy) - ROMs
 * [BlueRoms](https://www.blueroms.ws/) - Emulators / ROMs / Torrents
 * [Rom GDrive](https://rentry.co/FMHYBase64#rom-gdrive) - ROMs
 * [Arquivista ROMs](https://rentry.co/FMHYBase64#arquivista) - ROMs
@@ -236,7 +235,6 @@
 * [GameGinie](https://gameginie.com/) - Emulators / ROMs
 * [LateGames](https://www.lategames.net/roms/) - Emulators / ROMs
 * [Technosagar](https://roms.technosagar.com/) - ROMs
-* [80s](https://rentry.co/FMHYBase64#80s) - Emulators / ROMs 
 * [The Old Computer](https://www.theoldcomputer.com/) - Emulators / ROMs
 * [Emulator Games](https://www.emulatorgames.net/) or [FreeROMsDownload](https://freeromsdownload.com/) - Emulators / ROMs
 * [Emuparadise](https://www.emuparadise.me/) - Emulators / ROMs / [Forum](https://www.epforums.org/) / [Workaround Script](https://web.archive.org/web/20230115181306/https://gist.github.com/byzantium225/484101c7846ce18e514b7b10bf4815c2)
@@ -274,7 +272,6 @@
 * [AtariMania](https://www.atarimania.com/) - ROMs / Emulators / Atari Consoles
 * [NesFiles](https://www.nesfiles.com/) - ROMs / NES
 * [/1CC/](https://1cc.kr.eu.org/1cc/index.html) / [Discord](https://discord.com/invite/e7xffWFf9p), [ROMs For MAME](https://www.romsformame.com/), [PleasureDome](https://pleasuredome.github.io/pleasuredome/mame/), [MAME World](https://mameworld.info/) or [Arcade Database](http://adb.arcadeitalia.net/default.php?lang=en) - Arcade MAME ROMs
-* [Marios Alternative](https://rentry.co/FMHYBase64#hacked-super-mario) - Hacked Super Mario ROMs
 * [SMWCentral](https://smwcentral.net/) - Hacked Super Mario World ROMs
 * [Wario Land Hack Vault](https://wario-land.github.io/HackVault/index.html) - Hacked Wario Land ROMs
 * [PICOwesome](https://rentry.co/FMHYBase64#picowesome) - PICO-8 ROMs
