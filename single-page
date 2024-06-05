@@ -36,6 +36,7 @@
 * [FlowGPT](https://flowgpt.com/chat) - Multiple Chatbots / [Discord](https://discord.com/invite/tWZGzcpTkf)
 * [infermatic](https://infermatic.ai/) / [Discord](https://discord.gg/9GUXmDx9GF) - Multiple Chatbots
 * [lollms-webui](https://github.com/ParisNeo/lollms-webui) - Multiple Chatbots
+* [MagAI](https://rentry.org/freegpt4withmagai) - Multiple Chatbots
 * [Meta AI](https://www.meta.ai/) - Llama Chatbot / US only
 * [NVIDIA NIM](https://build.nvidia.com/) - Llama 3
 * [Phind](https://www.phind.com/) - Llama Search Engine
