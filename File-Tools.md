@@ -272,34 +272,33 @@
 
 * ↪️ **[Video File Hosts]()**
 * ⭐ **[Buzzheavier](https://buzzheavier.com/)** - Unlimited / Forever / [Discord](https://discord.gg/ttQjgC28WP)
-* ⭐ **[Gofile](https://gofile.io/)** - Unlimited / 10 days
-* ⭐ **[1fichier](https://1fichier.com/)** - 300GB / 15 days (30 days if you sign up)
+* ⭐ **[Gofile](https://gofile.io/)** - Unlimited / 10 Days
+* ⭐ **[1fichier](https://1fichier.com/)** - 300GB / 15 Days (30 Days With Account)
 * ⭐ **[file.haus](https://filehaus.pk/)**, [2](https://filehaus.su/) - 200GB / Forever / [.onion](http://fileha3hjvudqs2moembtaegnpjo5ptec3tomf5dlxx6ydwtajkkahyd.onion/) / [.i2p](http://xr256v4weabr3rdz3nqzb27bv3gkwjisuf2d57urqtmh3gx3w7da.b32.i2p/) / [.loki](http://nipqehne9zrtpryw6ig5y9gu7c8gwt8ymrrncufxg1g8wf5t4rqo.loki/)
-* ⭐ **[Send.cm](https://send.cm/)** - 100GB / 15 days
-* ⭐ **[Pixeldrain](https://pixeldrain.com/)** - 20GB / 120 days / [Discord](https://discord.gg/TWKGvYAFvX)
+* ⭐ **[Send.cm](https://send.cm/)** - 100GB / 15 Days
+* ⭐ **[Pixeldrain](https://pixeldrain.com/)** - 20GB / 120 Days / [Discord](https://discord.gg/TWKGvYAFvX)
 * ⭐ **Pixeldrain Tools** - [Speedtest](https://pixeldrain.com/speedtest) / [Limit Bypass](https://pixeldrain-bypass.cybar.xyz) / [Limit Bypass Userscript](https://greasyfork.org/en/scripts/491326-pixeldrain-download-bypass)
 * ⭐ **[Cipher Files](https://cipherfiles.com/)** - 5GB / Forever / [Discord](https://discord.gg/DmRhftYcvN)
 * ⭐ **[Catbox](https://catbox.moe/)** - 200MB / Forever
 * ⭐ **[Qiwi](https://qiwi.gg)** - [Note](https://pastebin.com/QJDbgtRJ) / Account Required
-
-* [MultiUp](https://multiup.io/) / [Extract / Upload](https://github.com/Reddiepoint/MultiUp-Direct), [MirrorAce](https://mirrorace.com/) or [Mirrorcreator](https://www.mirrored.to/) - Multi Host Uploaders
+* [MultiUp.io](https://multiup.io/) / [Extract / Upload](https://github.com/Reddiepoint/MultiUp-Direct), [MirrorAce](https://mirrorace.com/), or [Mirrored.to](https://www.mirrored.to/) - Multi Host Uploaders
 * [Z-o-o-m](https://z-o-o-m.eu/) - Multi-Host Upload Desktop App
-
-* [filebin](https://filebin.net/) - Unlimited / 6 days total / Anyone with a link can delete
-* [file.kiwi](https://file.kiwi/) - Unlimited / 3.5 Days / [Free Download Duration](https://ibb.co/85z9D1s)
-
-* [fex](https://fex.net/) - 100GB total / 7 days total
-* [swisstransfer](https://www.swisstransfer.com/en) - 50GB / 30 days total / 250 download limit
-
-* [Hexupload](https://www.hexupload.net/) - 15GB / 60 days
+* [Filebin](https://filebin.net/) - Unlimited / 6 Days / [Note](https://pastebin.com/W0j4VDAN)
+* [file.kiwi](https://file.kiwi/) - Unlimited / 3.75 Days
+* [FEX.NET](https://fex.net/) - 100GB total / 7 Days
+* [SwissTransfer](https://www.swisstransfer.com/en) - 50GB / 30 Days / 250 Download Limit
+* [Hexupload](https://www.hexupload.net/) - 15GB / 30 Days
 * [AnonTransfer](https://anontransfer.com/) - 15GB / 30 days
+
+---
+
 * [filelu](https://filelu.com/) - 15GB / 10 days
 
 * [edisk](https://www.edisk.cz/) - 10GB / 30 days
 * [easyupload](https://easyupload.io/) - 10GB / 50gb total / 30 days
 * [fastupload](https://fastupload.io/en) - 10GB / 30 days
 * [desiupload](https://desiupload.co/) or [uploadraja](https://uploadraja.com/) - 10GB / 15 days
-* [grosfichiers](https://www.grosfichiers.com/) - 10GB / 14 days total
+* [grosfichiers](https://www.grosfichiers.com/) - 10GB / 14 Days
 * [Encl](https://encl.io/) - 10gb / 7 days total
 * [fshare](https://www.fshare.vn/) - 10GB / 5 days
 
@@ -333,8 +332,6 @@
 * [clicknupload](https://clicknupload.co/) - 2GB / 12 Days (5GB / 30 Days With Account)
 * [Smash](https://fromsmash.com/) - 2GB / 7 days
 * [WeTransfer](https://wetransfer.com/) - 2GB / 7 days total
-
-* [sfile](https://sfile.mobi/) - 100MB / 5gb total / Forever (?)
 
 * [Limited Upload Hosts](https://rentry.org/xc48kg) - More Hosts / 1GB or below
 
