@@ -620,6 +620,8 @@
 * [Pathology Outlines](https://www.pathologyoutlines.com/) - Pathology Info
 * [University of Utah Pathology](https://webpath.med.utah.edu/webpath.html) - Pathology Guide
 * [The Iowa Virtual Slidebox](https://www.mbfbioscience.com/iowavirtualslidebox) - Pathology Atlas Software
+* [Passmedicine](https://www.passmedicine.com/ucat/) - UCAT Practice Questions
+* [UCAT Score](https://codepen.io/souramoo/full/OJMQzVm) - UCAT Score Converter
 * [/r/medicalschoolanki](https://www.reddit.com/r/medicalschoolanki/) - Community for Medical Anki Cards
 * [CRAM.com](https://www.cram.com/medical) - Medical Flashcards
 
