@@ -5938,7 +5938,7 @@ Use this [browser extension](https://github.com/bpc-clone/bpc_updates/releases) 
 * [Lofi Rocks](https://www.lofi.rocks/) - Tiny / Minimal Client
 * [MooSync](https://moosync.app/) - Feature-Rich Client
 * [Spotify Web Client](https://open.spotify.com/)
-* Web Client Tools - [Enhanced UI](https://senpaihunters.github.io/SpotOn/) / [Customize](https://github.com/Darkempire78/Spotify-Customizer) / [Lyrics](https://github.com/mantou132/Spotify-Lyrics)
+* Web Client Tools - [Enhanced UI](https://senpaihunters.github.io/SpotOn/) / [Customize](https://github.com/Darkempire78/Spotify-Customizer) / [Lyrics](https://github.com/mantou132/Spotify-Lyrics), [2](https://greasyfork.org/en/scripts/377439)
 
 ***
 
@@ -6033,6 +6033,7 @@ Use this [browser extension](https://github.com/bpc-clone/bpc_updates/releases) 
 * [Audius](https://audius.co/) - User Made Music Platform
 * [AudionautiX](https://audionautix.com/) - Mood-Based Streaming
 * [Neko Network](https://live.neko-network.net/) - Anime Music Videos
+* [Youtaite](https://www.youtaite.com/) - Youtaite Resources / Songs
 * [Musicmap](https://musicmap.info/) - Genealogy / History of Music Genres
 * [Samplette](https://samplette.io/) - Random Songs
 * [Map of Metal](https://mapofmetal.com/) - Interactive Map of Metal History
@@ -6173,7 +6174,7 @@ Use this [browser extension](https://github.com/bpc-clone/bpc_updates/releases) 
 
 * ⭐ **[DoubleDouble](https://doubledouble.top/)** - [Multi-Site](https://pastebin.com/dPT8aE0R) / 320kb / MP3 / FLAC / [Telegram](https://t.me/+AuKfQGOOLrFlOTZk)
 * ⭐ **[squid.wtf](https://squid.wtf/)** - Deezer / FLAC / [Discord](https://discord.gg/ATjPbzR) / [Note](https://pastebin.com/eWErQNmN)
-* ⭐ **[yet another music server](https://yetanothermusicserver.top/)** - Deezer / Tidal / Qobuz / Spotify / FLAC
+* ⭐ **[yet another music server](https://yams.tf/)** - Deezer / Tidal / Qobuz / Spotify / FLAC
 * ⭐ **[MP3 Daddy](https://mp3-daddy.com/)** - Deezer / 320kb / MP3 / FLAC
 * [EzMP3](https://ezmp3.cc/) - YouTube / 320kb / MP3 / Ad-Free / [Subreddit](https://www.reddit.com/r/EzMP3/)
 * [YTiz](https://ytiz.xyz/) - YouTube / SoundCloud / Bandcamp / 128kb / AAC / [GitHub](https://github.com/tizerk/ytiz)
@@ -12930,8 +12931,7 @@ onMounted(() => {
 * [Essential Programming Books](https://www.programming-books.io/)
 * [free-programming-books](https://github.com/chrislgarry/free-programming-books)
 * [Free eBooks](https://books-pdf.blogspot.com/)
-* [goalkicker](https://goalkicker.com/)
-* [GoalKicker](https://books.goalkicker.com/)
+* [GoalKicker](https://goalkicker.com/)
 * [Flavio Copes](https://flaviocopes.com/)
 * [Free Ebooks Download List](https://free-ebook-download-links.blogspot.com/)
 * [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/) - Python Data Science / [GitHub](https://github.com/jakevdp/PythonDataScienceHandbook)
@@ -12949,7 +12949,7 @@ onMounted(() => {
 * ⭐ **[Sci-Hub](https://sci-hub.se/)** - Science Articles / Research Papers
 * ⭐ **Sci-Hub Tools** - [Telegram](https://t.me/freescience) / [Mirrors](https://vertsluisants.fr/index.php?article4/where-scihub-libgen-server-down), [2](https://sci-hub.hkvisa.net/) / [TG Bot](https://t.me/scihubot) / [Extension](https://addons.mozilla.org/en-US/firefox/addon/sci-hub-scholar/) / [DL Button](https://greasyfork.org/zh-CN/scripts/370246-sci-hub-button), [2](https://github.com/gchenfc/sci-hub-now) / [PDF Download](https://gagarine.medium.com/use-sci-hub-with-zotero-as-a-fall-back-pdf-resolver-cf139eb2cea7) / [Backup](https://redd.it/edwi9b) / [/r/scihub](https://reddit.com/r/scihub) / [VK](https://vk.com/sci_hub) / [DOI Redirect](https://greasyfork.org/en/scripts/412498)
 * ⭐ **[Google Scholar](https://scholar.google.com/)** - Academic Papers Search Engine
-* ⭐ **[Scinapse](https://scinapse.io/)** - Academic Papers Search Engine
+* ⭐ **[Scinapse](https://scinapse.io/)** - Academic Papers Search Engine / [Free Method](https://pastebin.com/XfHP7h1N)
 * ⭐ **[ResearchGate](https://www.researchgate.net/)** - Research Papers / Publications
 * ⭐ **[SciLit](https://www.scilit.net/)** - Research Papers / Publications
 * ⭐ **[Mendeley](https://www.mendeley.com/)** - Research Papers / [Data](https://data.mendeley.com/) / [Reference Manager](https://www.mendeley.com/download-reference-manager/)
