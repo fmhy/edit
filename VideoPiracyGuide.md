@@ -10,7 +10,7 @@
 
 * 🌐 **[movie-web](https://erynith.github.io/movie-web-instances/)** - Movies / TV / Anime / 4K / 1080p / Ad-Free / [Add Sources](https://docs.sudo-flix.lol/extension) / [Docs](https://docs.sudo-flix.lol/) / [Discord](https://discord.gg/EDYT5bjSvp)
 * ⭐ **[Binged](https://binged.live/)**, [2](https://binge.lol/), [3](https://binged.in/) - Movies / TV / Anime / 4K / 1080p / [Discord](https://discord.gg/f2SvhcKCKS)
-* ⭐ **[Braflix](https://www.braflix.video/)** - Movies / TV / Anime / 4K / 1080p / [Discord](https://discord.gg/wWKmxARaWH) / [Note](https://pastebin.com/4qWrYKtH)
+* ⭐ **[Braflix](https://www.braflix.so/)** - Movies / TV / Anime / 4K / 1080p / [Discord](https://discord.gg/wWKmxARaWH) / [Note](https://pastebin.com/4qWrYKtH)
 * ⭐ **[FMovies](https://fmovies24.to/)** - Movies / TV / Anime / 1080p / [Mirrors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_fmovies_clones)
 * ⭐ **[watch.lonelil](https://watch.lonelil.ru/)** - Movies / TV / Anime / 4K / 1080p / [Discord](https://discord.com/invite/BKts6Jb5sA) / [Telegram](https://t.me/watchlonelil)
 * ⭐ **[NunFlix](https://nunflix.com/)** - Movies / TV / Anime / 4K / 1080p / [Discord](https://discord.gg/CXVyfhgn26)
@@ -373,7 +373,7 @@
 * ⭐ **[TNSLIVE](https://tnslive.net/)** - TV / Sports / [Discord](https://discord.com/invite/mJyWFkGwQw)
 * ⭐ **[watch.lonelil](https://watch.lonelil.ru/tv)** - TV / Sports / [Schedule](https://watch.lonelil.ru/schedule)
 * ⭐ **[DaddyLive](https://dlhd.sx/)** or [miztv](https://miztv.shop/), [2](https://miztv.ru/) - TV / Sport / [Discord](https://discord.gg/SgbjFVn6th)
-* [Braflix](https://www.braflix.video/) - TV / Sports / [Discord](https://discord.gg/wWKmxARaWH)
+* [Braflix](https://www.braflix.so/) - TV / Sports / [Discord](https://discord.gg/wWKmxARaWH)
 * [SusFlix](https://susflix.tv/) - TV / Sports / [Discord](https://discord.gg/BE7kTVezBN)
 * [Xumo Play](https://play.xumo.com/networks) - TV / US only
 * [Pluto](https://pluto.tv/live-tv), [2](https://app-lgwebos.pluto.tv/live-tv) - TV / Sports / US Only
@@ -523,9 +523,9 @@
 * ⭐ **[PSARips](https://psa.wf/)** - Movies / TV / 4K
 * ⭐ **[OlaMovies](https://olamovies.rent/)** - Movies / TV / 4K / 1080p / [Telegram](https://t.me/olamovies_officialv6)
 * ⭐ **[LightDLMovies](https://lightdl.xyz/)**, [2](https://lightdlmovies.blogspot.com/) - Movies / TV / 1080p
-* ⭐ **[VegaMovies](https://vegamovies.yt/)** - Movies / TV / Anime / 1080p / 4K / [Telegram](https://telegram.dog/VegamoviesTo_Official)
+* ⭐ **[VegaMovies](https://vegamovies.ist/)** - Movies / TV / Anime / 1080p / 4K / [Telegram](https://telegram.dog/VegamoviesTo_Official)
 * ⭐ **[MovieParadise](https://movieparadise.org/)** - Movies / TV / 1080p / [Get Code](https://pastebin.com/5jTpFCCP) / Code unlocks faster file host (1fichier)
-* ⭐ **[Braflix](https://www.braflix.video/)** - Movies / TV / Anime / 4K / 1080p / Account Required / [Discord](https://discord.gg/wWKmxARaWH)
+* ⭐ **[Braflix](https://www.braflix.so/)** - Movies / TV / Anime / 4K / 1080p / Account Required / [Discord](https://discord.gg/wWKmxARaWH)
 * ⭐ **[Drama Day](https://dramaday.me/)** - Asian Drama / 1080p
 * ⭐ **[Video Download CSE](https://cse.google.com/cse?cx=006516753008110874046:wevn3lkn9rr)** / [CSE 2](https://cse.google.com/cse?cx=89f2dfcea452fc451) / [CSE 3](https://cse.google.com/cse?cx=aab218d0aa53e3578)
 * [DDLBase](https://ddlbase.com/) - Movies / TV / 4K
