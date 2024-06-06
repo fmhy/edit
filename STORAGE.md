@@ -888,6 +888,7 @@
 * [/r/RepackWorld](https://reddit.com/r/RepackWorld)
 * [GameStatus](https://gamestatus.info/)
 * [fitgirl_repack](https://t.me/fitgirl_repack)
+* [GitGud](https://discord.gg/APfesEBjjn)
 
 ***
 
