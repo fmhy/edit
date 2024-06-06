@@ -453,6 +453,7 @@
 * [Awesome Wallpaper](https://awesome-wallpaper.com/) - Wallpaper Manager
 * [SuperPaper](https://github.com/hhannine/superpaper) - Wallpaper Manager
 * [Faerber](https://farbenfroh.io/) - Edit Wallpaper to Match Color Scheme
+* [Background Switcher](https://johnsad.ventures/software/backgroundswitcher/) - Multi-Host Wallpaper Switcher
 * [AutoWall](https://github.com/SegoCode/AutoWall) - Turn Videos / GIFs to Live Wallpapers
 * [Scenic Illustrations](https://www.pixeltrue.com/scenic-illustrations) - Landscape Wallpapers
 * [CoolBackgrounds](https://coolbackgrounds.io/) or [wallup](https://wallup.net/) - Customizable Wallpapers
