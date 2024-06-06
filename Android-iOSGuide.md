@@ -149,7 +149,7 @@
 # ► Android Device
 
 * 🌐 **[Manufacturer Specific](https://rentry.org/ekrw4)** - Manufacturer Specific Mobile Tools
-* ↪️ **[Device Comparisons](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25BA_shopping)**
+* ↪️ **[Device Comparisons](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25B7_electronics)**
 * ⭐ **[XDA](https://forum.xda-developers.com/)** - Android Discussion Forum
 * ⭐ **[ADBAppControl](https://adbappcontrol.com/en/)** - Android Device Manager / Root Tool
 * ⭐ **[Gadget Bridge](https://gadgetbridge.org/)** - Bluetooth Device Manager
@@ -161,12 +161,13 @@
 * [ApkShellExt2](https://www.apkshellext.com/) - Desktop App Manager
 * [VMOS](https://www.vmos.com/) - Android on Android Virtual Machines
 * [EtchDroid](https://etchdroid.app/) - Write OS Images to USB Drive
-* [Fire Toolbox](https://forum.xda-developers.com/t/windows-tool-fire-toolbox-v12-0.3889604/) - Fire Tablet Tools
+* [ADB101](https://rentry.co/adb101) - Android Debug Bridge Setup Guide
 * [G-CPU](https://play.google.com/store/apps/details?id=com.insideinc.gcpu) - Hardware Monitor
 * [Castro](https://play.google.com/store/apps/details?id=com.itemstudio.castro), [Device Info HW](https://play.google.com/store/apps/details?id=ru.andr7e.deviceinfohw) or [SysLog](https://github.com/Tortel/SysLog) - View System Information
 * [Swappa](https://swappa.com/imei) or [SickW](https://www.sickw.com/) - IMEI, MEID, ESN Checker
 * [Fix My Speakers](https://fixmyspeakers.com/) - Eject Water from Phone Speakers
 * [FlashDim](https://github.com/cyb3rko/flashdim) - Adjust Flashlight Brightness
+* [Fire Toolbox](https://forum.xda-developers.com/t/windows-tool-fire-toolbox-v12-0.3889604/) - Fire Tablet Tools
 
 ***
 
@@ -297,6 +298,7 @@
 
 ## ▷ Number / SMS
 
+* [Quik](https://github.com/octoshrimpy/quik) - Stock Messaging App Replacement
 * [ConnectYou](https://github.com/you-apps/ConnectYou) - Contacts App
 * [OpenContacts](https://gitlab.com/sultanahamer/OpenContacts) - Save Contacts to Separate Database
 * [android-call-recorder](https://gitlab.com/axet/android-call-recorder) - Call Recorder
@@ -313,7 +315,7 @@
 
 ## ▷ Root / Flash
 
-* ⭐ **[Magisk](https://github.com/topjohnwu/Magisk)**, [KernelSU](https://kernelsu.org/), [MagiskOnWSALocal](https://github.com/LSPosed/MagiskOnWSALocal) or [Mtk Easy Su](https://github.com/JunioJsv/mtk-easy-su) - Android Root Tools
+* ⭐ **[Magisk](https://github.com/topjohnwu/Magisk)**, [KernelSU](https://kernelsu.org/), [MagiskOnWSALocal](https://github.com/LSPosed/MagiskOnWSALocal), [APatch](https://github.com/bmax121/APatch) or [Mtk Easy Su](https://github.com/JunioJsv/mtk-easy-su) - Android Root Tools
 * ⭐ **Magisk Tools** - [Module Manager](https://github.com/DerGoogler/MMRL), [2](https://github.com/MRepoApp/MRepo/) / [Mods](https://t.me/magiskmod_update) / [Support Layer](https://github.com/axonasif/rusty-magisk) / [PlayIntegrity Fix](https://xdaforums.com/t/module-play-integrity-fix-safetynet-fix.4607985/), [2](https://github.com/osm0sis/PlayIntegrityFork) / [Fix Guide](https://xdaforums.com/t/module-play-integrity-fix-safetynet-fix.4607985/page-177#post-89189572) / [Modules](https://www.androidacy.com/magisk-modules-repository/) / [Alt Repo](https://github.com/Magisk-Modules-Alt-Repo)
 * ⭐ **[Android Docker](https://gist.github.com/FreddieOliveira/efe850df7ff3951cb62d74bd770dce27)** - Run Docker on Android
 * [Root Checker](https://play.google.com/store/apps/details?id=com.joeykrim.rootcheck) - Root Checker
@@ -351,6 +353,7 @@
 ## ▷ Android Utilities
 
 * ⭐ **[OpenCalc](https://github.com/Darkempire78/OpenCalc)**, [Calculator++](https://play.google.com/store/apps/details?id=org.solovyev.android.calculator), [microMathematics](https://github.com/mkulesh/microMathematics), [yetCalc](https://github.com/Yet-Zio/yetCalc) or [Calculator-inator](https://github.com/prathameshmm02/Calculator-inator) - Calculators
+* [The Tool App](https://play.google.com/store/apps/details?id=com.yousx.thetoolsapp) - Multi-Tool App
 * [LightCut](https://play.google.com/store/apps/details?id=com.lightcut.videoeditor), [open-video-editor](https://github.com/devhyper/open-video-editor) or [Vaux](https://play.google.com/store/apps/details?id=com.vaux.vaux_editor) - Video Editors
 * [auto-auto-rotate](https://gitlab.com/juanitobananas/auto-auto-rotate) - Per App Rotation Settings
 * [Catima](https://catima.app/) - Loyalty Card Managers
@@ -511,7 +514,7 @@
 * [Nekogram](https://nekogram.app/), [AyuGram](https://t.me/ayugramchat), [NekoX](https://github.com/dic1911/NekoX), [TelegramAndroid](https://github.com/Forkgram/TelegramAndroid), [Nagram](https://github.com/nextalone/nagram), [exteraGram](https://exteragram.app/), [Cherrygram](https://github.com/arsLan4k1390/Cherrygram), [Nullgram](https://github.com/qwq233/Nullgram/), [Octogram](https://octogram.site/) or [Telegram-FOSS](https://github.com/Telegram-FOSS-Team/Telegram-FOSS) - Telegram Clients
 * [Telegram-Themer](https://github.com/therxmv/Telegram-Themer) or [Telegram Monet](https://github.com/mi-g-alex/Telegram-Monet) / [Telegram](https://t.me/tgmonet) - Telegram Theme Creators
 * [FouadMODS](https://t.me/FouadMODS) - Modded WhatsApp
-* [Tellurium](https://play.google.com/store/apps/details?id=com.quadren.tellurium) - Numberless WhatsApp Chat
+* [Tellurium](https://play.google.com/store/apps/details?id=com.quadren.tellurium) or [WhatsAppNoContact](https://github.com/theolm/WhatsAppNoContact) - Numbe-Free WhatsApp Chat
 * [WhatsappWebToGo](https://github.com/92lleo/WhatsappWebToGo) - Mobile WhatsApp Web Client
 * [WhatsAppPatcher](https://github.com/Schwartzblat/WhatsAppPatcher) or [WaEnhancer](https://github.com/Dev4Mod/WaEnhancer) - WhatsApp Patchers
 * [MdgWa](https://github.com/ItsMadruga/MdgWa) - WhatsApp Customization
@@ -787,7 +790,7 @@
 * ⭐ **[AntennaPod](https://antennapod.org/)** / [GitHub](https://github.com/AntennaPod/AntennaPod), [Snipd](https://www.snipd.com/) or [AudioAnchor](https://github.com/flackbash/AudioAnchor) - Podcast Players
 * [Escapepod](https://codeberg.org/y20k/escapepod), [Podbean](https://play.google.com/store/apps/details?id=com.podbean.app.podcast), [PocketCasts](https://www.pocketcasts.com/) or [Podcast Addict](https://play.google.com/store/apps/details?id=com.bambuna.podcastaddict) - Podcasts
 * [IHeartRadio](https://play.google.com/store/apps/details?id=com.clearchannel.iheartradio.controller), [MixCloud](https://play.google.com/store/apps/details?id=com.mixcloud.player&amp;hl=en) or [TuneIn](https://play.google.com/store/apps/details?id=tunein.player&amp;hl=en) - Podcasts / Radio
-* [Transistor](https://codeberg.org/y20k/transistor), [RadioTime](https://radiotimeapp.com/), [RadioUpnp](https://play.google.com/store/apps/details?id=com.watea.radio_upnp) or [RadioTime](https://play.google.com/store/apps/details?id=com.radiotime.app) - Radio
+* [Transistor](https://codeberg.org/y20k/transistor), [RadioTime](https://radiotimeapp.com/), [SiriusXM](https://rentry.co/FMHYBase64#siriusxm), [RadioUpnp](https://play.google.com/store/apps/details?id=com.watea.radio_upnp) or [RadioTime](https://play.google.com/store/apps/details?id=com.radiotime.app) - Radio
 * [SpiritF](https://www.apkmirror.com/apk/xiaomi-inc/miui-fm-radio/miui-fm-radio-1-0-478-release/) - FM Radio
 * [DI.FM](https://play.google.com/store/apps/details?id=com.audioaddict.di) - Electronic Radio
 * [Nightwave Plaza](https://play.google.com/store/apps/details?id=one.plaza.nightwaveplaza) - Nightwave Radio
@@ -875,9 +878,10 @@
 * [GrayJay](https://grayjay.app/) - YouTube, Twitch, Rumble etc / [Gitlab](https://gitlab.futo.org/videostreaming/grayjay) / [Plugins](https://gitlab.futo.org/videostreaming/plugins)
 * [Clipious](https://github.com/lamarios/clipious) - Android Invidious Client
 * [Hyperion](https://github.com/zt64/Hyperion) - YouTube Frontend
-* [SkyTube](https://github.com/SkyTubeTeam/SkyTube) - Youtube Player
-* [FreeTube Android](https://github.com/MarmadileManteater/FreeTubeCordova) - Youtube Player
+* [SkyTube](https://github.com/SkyTubeTeam/SkyTube) - YouTube Player
+* [FreeTube Android](https://github.com/MarmadileManteater/FreeTubeCordova) - YouTube Player
 * [Float Tube](https://play.google.com/store/apps/details?id=com.xpp.tubeAssistant) - Floating YouTube Player
+* [Video Summarizer](https://play.google.com/store/apps/details?id=com.emote.youtube_summarizer) - YouTube Video Summarizer
 
 ***
 
