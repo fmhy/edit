@@ -418,16 +418,21 @@
 ## ▷ Temporary Emails / Aliases
 
 * ↪️ **[Email Aliases]()**
-* ⭐ **[smailpro](https://smailpro.com/)** - Gmail
-* ⭐ **[Emailnator](https://www.emailnator.com/)** - Gmail
-* ⭐ **[Zemail](https://zemail.me/mailbox)** - Gmail
-* ⭐ **[Mail.tm](https://mail.tm/en)**
-* ⭐ **[inboxes](https://inboxes.com/)**
-* ⭐ **[Guerillamail](https://www.guerrillamail.com/)**
-* [Bloody Vikings!](https://addons.mozilla.org/en-US/firefox/addon/bloody-vikings/) - Temp Email Extension
-* [Trashmail](https://github.com/etaxi341/TrashMailClient-TelegramBot), [TrashEmail](https://t.me/trashemail_bot), [smtpbot](https://t.me/smtpbot), [smtpbot](https://t.me/smtpbot), [DropmailBot](https://t.me/DropmailBot), [fakemailbot](https://t.me/fakemailbot) - Temp Email Telegram Bots
+* ⭐ **[Smailpro](https://smailpro.com/)** - Gmail
+* ⭐ **[Gmailnator](https://www.emailnator.com/)** - Gmail
+* ⭐ **[Zemail](https://zemail.me/)** - Gmail
+* ⭐ **[Mail.tm](https://mail.tm/)**
+* ⭐ **[Inboxes](https://inboxes.com/)**
+* ⭐ **[Guerrilla Mail](https://www.guerrillamail.com/)**
+
+* [Temp Mail](https://temp-mail.org/) / [10 Minute Email](https://temp-mail.org/10minutemail)
+* [Adguard Temp Mail](https://adguard.com/adguard-temp-mail/overview.html)
+
+Gmail:
+* [Tmail.io](https://tmail.io/temporary-disposable-gmail) - Gmail
+* [22.Do](https://22.do/) - Gmail
+
 ---
-* [10 Minute Mail](https://temp-mail.org/en/10minutemail)
 * [10minutesemail](https://10minutesemail.net/)
 * [10minutesmail](http://10minutesmail.com/)
 * [10minutemail](https://10minutemail.net/)
@@ -435,11 +440,7 @@
 * [10minutemail](https://www.lite14.us/10minutemail/)
 * [10minutemail.com](https://10minutemail.com/)
 ---
-* [Adguard Temp Mail](https://adguard.com/en/adguard-temp-mail/overview.html)
-* [tmail](https://tmail.io/)
-* [Temp Mail](https://temp-mail.org/)
 * [maildrop](https://maildrop.cc/)
-* [mailinator](https://www.mailinator.com/)
 * [mailnesia](https://mailnesia.com/)
 * [anonbox](https://anonbox.net/)
 * [Generator.email](https://generator.email/)
@@ -455,7 +456,7 @@
 * [eyepaste](https://www.eyepaste.com/)
 * [mintemail](https://www.mintemail.com/)
 * [sharklasers](https://www.sharklasers.com/)
-* [yopmail](https://www.yopmail.com/en/)
+* [YOPmail](https://yopmail.com/email-generator)
 * [mail.td](https://mail.td/)
 * [dropmail](https://dropmail.me/en/)
 * [cryptogmail](https://cryptogmail.com/)
@@ -465,7 +466,6 @@
 * [one-off](https://one-off.email/)
 * [tempr](https://tempr.email/en/)
 * [fakemail](https://www.fakemail.net/)
-* [email-generator](https://yopmail.com/en/email-generator)
 * [moakt](https://www.moakt.com/)
 * [linshi-email](https://www.linshi-email.com/en)
 * [disposablemail](https://www.disposablemail.com/)
@@ -475,18 +475,17 @@
 * [temporary-email](https://temporary-email.com/)
 * [tempmail.plus](https://tempmail.plus/en/)
 * [mail-temp](https://mail-temp.com/)
-* [easytrashmail](https://www.easytrashmail.com/)
 * [1secmail](https://www.1secmail.com/)
 * [fex](https://fex.plus/en/)
 * [email-fake](https://email-fake.com/)
 * [luxusmail](https://luxusmail.org/)
-* [tempmail](https://tempmail.zone/)
 * [spambox](https://spambox.xyz/)
 * [tempmails](https://tempmails.net/)
 * [receivemail](https://www.receivemail.org/)
-* [rainmail](https://rainmail.xyz/)
 * [tempemail](https://tempemail.co/)
+
 * [burner](https://burner.kiwi/)
+
 * [tempmail.altmails](https://tempmail.altmails.com/)
 * [instant-email](https://instant-email.org/)
 * [temp-mail.io](https://temp-mail.io/)
@@ -498,9 +497,7 @@
 * [emaildrop](https://www.emaildrop.io/)
 * [temprmail](https://temprmail.com/)
 * [tempmail.email](https://tempmail.email/)
-* [temps-mail.com](https://temps-mail.com/)
 * [tempinbox](https://www.tempinbox.xyz/)
-* [yopmail](https://yopmail.com/)
 * [tmailor](https://tmailor.com/)
 * [temp-mailbox](https://temp-mailbox.com/)
 * [bottlemail](https://bottlemail.org/)
@@ -516,10 +513,11 @@
 * [email1](https://email1.io/)
 * [cs.email](https://cs.email/)
 * [haribu](https://haribu.net/)
-* [22.do](https://22.do/)
 * [Mail.cx](https://mail.cx/)
-* [YOPmail](https://yopmail.com/en/)
 * [vmail](https://vmail.dev/)
+
+* [Bloody Vikings!](https://addons.mozilla.org/en-US/firefox/addon/bloody-vikings/) - Temp Email Extension
+* [Trashmail](https://github.com/etaxi341/TrashMailClient-TelegramBot), [TrashEmail](https://t.me/trashemail_bot), [smtpbot](https://t.me/smtpbot), [smtpbot](https://t.me/smtpbot), [DropmailBot](https://t.me/DropmailBot), [fakemailbot](https://t.me/fakemailbot) - Temp Email Telegram Bots
 
 ***
 
