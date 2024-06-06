@@ -114,6 +114,7 @@
 * [KeepThisSite](https://keepthis.site/)
 * [ln.ht](https://ln.ht/), [link.horse](https://link.horse/), [currl](https://currl.io/) or [tinygem](https://tinygem.org/) - Social Bookmarking
 * [linkwarden](https://github.com/linkwarden/linkwarden) - Self-Hosted Bookmark Manager
+* ⭐ **[Stacks](https://betterstacks.com)** - Search engine and workspace for bookmarks
 
 ***
 
