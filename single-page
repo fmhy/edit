@@ -194,7 +194,7 @@
 * 🌐 **[Toolify](https://www.toolify.ai/)** - AI Directory
 * 🌐 **[Phygital Library](https://library.phygital.plus/)** - AI Directory / Workflow Builder
 * 🌐 **[LifeArchitect](https://lifearchitect.ai/models-table/)** - LLM Index
-* [What AI Can Do Today](https://whataicandotoday.com/) - AI Search
+* [What AI Can Do Today](https://whataicandotoday.com/) or [FindAISites](https://findaisites.pro/) - AI Index Search
 * [Awesome AI Tools](https://github.com/mahseema/awesome-ai-tools) - AI Directory
 * [ToolDirectory](https://www.tooldirectory.ai/) - AI Directory
 * [Futurepedia](https://www.futurepedia.io/) - AI Directory
