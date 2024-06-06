@@ -42,6 +42,7 @@
 * [Locomalito](https://locomalito.com/) - Classic Game Remakes
 * [Necromanthus](https://necromanthus.com/) - 3D Shockwave Games
 * [VGPErson](https://vgperson.com/games/) - Simple Japanese Games
+* [Clone Hero](https://clonehero.net/) - Guitar Hero Clone / [Setlists](https://rentry.co/FMHYBase64#setlists), [2](https://customsongscentral.com/), [3](https://rentry.co/FMHYBase64#frif-drive) / [Wii Controller Support](https://github.com/Meowmaritus/WiitarThing) / [Custom Client](https://clonehero.scorespy.online)
 * [DoujinStyle](https://doujinstyle.com) - Doujin Games / [Discord](https://discord.com/invite/z2QDFdA)
 * [MoriyaShrine](https://moriyashrine.org/) - Touhou Games
 * [GrimReaper's Scene ISO Collection](https://archive.org/details/@waffess) - ISO Collection
@@ -128,7 +129,6 @@
 * [Pac-Man](https://github.com/masonicGIT/pacman) - Pac-Man w/ Added Features
 * [SpaceCadetPinball](https://github.com/k4zmu2a/SpaceCadetPinball) - Space Cadet Pinball / [Android](https://github.com/fexed/Pinball-on-Android)
 * [Visual Pinball](https://github.com/vpinball/vpinball) - Pinball Table Editor / Simulator / [Tables](https://www.vpforums.org/)
-* [Clone Hero](https://clonehero.net/) - Guitar Hero Clone / [Setlists](https://rentry.co/FMHYBase64#setlists), [2](https://customsongscentral.com/), [3](https://rentry.co/FMHYBase64#frif-drive) / [Wii Controller Support](https://github.com/Meowmaritus/WiitarThing) / [Custom Client](https://clonehero.scorespy.online)
 * [YARC-Official](https://github.com/YARC-Official) - Rock Band Clone / [Launcher](https://github.com/YARC-Official/YARC-Launcher/releases)
 * [ITGmania](https://www.itgmania.com/) - DDR Clone
 * [beatoraja](https://mocha-repository.info/) - BMS Player as Alternative to IIDX / [beatoraja English Guide](https://github.com/wcko87/beatoraja-english-guide/wiki)
@@ -177,6 +177,7 @@
 * ⭐ **[Recommended Emulator Specs](https://emulation.gametechwiki.com/index.php/Computer_specs)**
 * ⭐ **[Emulator BIOS Files](https://emulation.gametechwiki.com/index.php/Emulator_files)** / **[Firmware Files](https://rentry.co/FMHYBase64#console-firmware)** / [2](https://rentry.co/FMHYBase64#sigmapatches)
 * ⭐ **[Skraper](https://www.skraper.net/)** - ROM Cover / Metadata Scraper
+* ⭐ **[RetroAchievements](https://retroachievements.org/)** - Achievements for Emulators
 * ⭐ **[Dolphin Guide](https://github.com/shiiion/dolphin/wiki/Performance-Guide)** - Dolphin Setup Guide
 * ⭐ **[Cemu Guide](https://cemu.cfw.guide/)** or [/r/CemuPiracy Tutorial](https://www.reddit.com/r/CemuPiracy/wiki/tutorial/) - WiiU / BOTW Setup Guides
 * ⭐ **[Switch Emu Guide](https://github.com/Abd-007/Switch-Emulators-Guide)** or [Ryujinx Guide](https://docs.google.com/document/d/1prxOJaE4WhPeYNHW17W5UaWZxDgB8e5wNHxt2O4FKvs/) - Switch Emulator Setup Guides
@@ -195,7 +196,6 @@
 * [PictoChat Online](https://pict.chat/) - Browser DS PictoChat
 * [Mudlet](https://www.mudlet.org/) - Text Adventure Game Platform
 * [webnofrendo](https://zardam.github.io/webnofrendo/) - NES Numworks Emulator
-* [RetroAchievements](https://retroachievements.org/) - Achievements for Emulators
 
 ***
 
@@ -211,11 +211,11 @@
 * ⭐ **[ROM Heaven](https://romheaven.com/)**, [2](https://romheaven.su) - ROMs
 * ⭐ **[CrocDB](https://crocdb.net/)** - Emulators / ROMs
 * ⭐ **[CDRomance](https://cdromance.org/)** - ROMs / [Discord](https://cdromance.org/discord)
-* ⭐ **[Vimms Lair](https://vimm.net/)** - Emulators / ROMs
 * ⭐ **[Gnarly Repacks](https://rentry.co/FMHYBase64#gnarly_repacks)** - ROMs / Emulator Repacks
 * ⭐ **[ROMhacking](https://www.romhacking.net/)** or [Reality Incorporated](https://sites.google.com/view/bonmarioinc/rom-hacks/released-rom-hacks) - ROM Fan Translations
 * ⭐ **[WiiUDownloader](https://github.com/Xpl0itU/WiiUDownloader)**, [WiiUSBHelper](https://github.com/FailedShack/USBHelperInstaller/releases), [WiiU ROMs](https://wiiuroms.net/) or [JNUSTool](https://gbatemp.net/threads/jnustool-nusgrabber-and-cdecrypt-combined.413179/) - ROMs / Wii U
 * [/r/ROMs](https://www.reddit.com/r/ROMs/) - Discussion Sub
+* [Vimms Lair](https://vimm.net/) - Emulators / ROMs
 * [ROM-Collections](https://rentry.co/ROM-Collections) - ROMs
 * [WowROMs](https://wowroms.com/en) - ROMs
 * [Edge Emulation](https://edgeemu.net/) - ROMs
