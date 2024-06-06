@@ -417,6 +417,10 @@
 
 ## ▷ Temporary Emails / Aliases
 
+* **Note** - 
+
+***
+
 * ↪️ **[Email Aliases]()**
 * ⭐ **[Smailpro](https://smailpro.com/)** - Gmail
 * ⭐ **[Gmailnator](https://www.emailnator.com/)** - Gmail
@@ -424,9 +428,9 @@
 * ⭐ **[Mail.tm](https://mail.tm/)**
 * ⭐ **[Inboxes](https://inboxes.com/)**
 * ⭐ **[Guerrilla Mail](https://www.guerrillamail.com/)**
-
 * [Temp Mail](https://temp-mail.org/) / [10 Minute Email](https://temp-mail.org/10minutemail)
 * [Adguard Temp Mail](https://adguard.com/adguard-temp-mail/overview.html)
+* [burner.kiwi](https://burner.kiwi/)
 
 Gmail:
 * [Tmail.io](https://tmail.io/temporary-disposable-gmail) - Gmail
@@ -434,11 +438,10 @@ Gmail:
 
 ---
 * [10minutesemail](https://10minutesemail.net/)
-* [10minutesmail](http://10minutesmail.com/)
 * [10minutemail](https://10minutemail.net/)
-* [10minemail](https://10minemail.com/)
 * [10minutemail](https://www.lite14.us/10minutemail/)
 * [10minutemail.com](https://10minutemail.com/)
+* [minuteinbox](https://minuteinbox.com/)
 ---
 * [maildrop](https://maildrop.cc/)
 * [mailnesia](https://mailnesia.com/)
@@ -463,7 +466,6 @@ Gmail:
 * [inboxkitten](https://inboxkitten.com/)
 * [anonymmail](https://anonymmail.net/)
 * [tmailweb](https://tmailweb.com/)
-* [one-off](https://one-off.email/)
 * [tempr](https://tempr.email/en/)
 * [fakemail](https://www.fakemail.net/)
 * [moakt](https://www.moakt.com/)
@@ -483,15 +485,11 @@ Gmail:
 * [tempmails](https://tempmails.net/)
 * [receivemail](https://www.receivemail.org/)
 * [tempemail](https://tempemail.co/)
-
-* [burner](https://burner.kiwi/)
-
 * [tempmail.altmails](https://tempmail.altmails.com/)
 * [instant-email](https://instant-email.org/)
 * [temp-mail.io](https://temp-mail.io/)
 * [temp-inbox](https://temp-inbox.com/)
 * [tempmaili](https://tempmaili.com/)
-* [minuteinbox](https://minuteinbox.com/)
 * [emailtemp](https://emailtemp.org/)
 * [tempmailid](https://tempmailid.com/)
 * [emaildrop](https://www.emaildrop.io/)
@@ -509,7 +507,6 @@ Gmail:
 * [email.ml](https://email.ml/)
 * [edumail](https://edumail.icu/)
 * [snapmail](https://www.snapmail.cc/)
-* [mailcatch](http://mailcatch.com/)
 * [email1](https://email1.io/)
 * [cs.email](https://cs.email/)
 * [haribu](https://haribu.net/)
