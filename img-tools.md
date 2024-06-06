@@ -95,7 +95,7 @@
 
 * ⭐ **[ImageMagick](https://imagemagick.org/index.php)** / [Scripts](https://www.fmwconcepts.com/imagemagick/index.php)
 * ⭐ **[Pingo](https://css-ig.net/pingo)** / [GUI](https://css-ig.net/pinga), [RIOT](https://riot-optimizer.com/), [YOGA](https://yoga.flozz.org/) or [ImageFoo](https://imagefoo.com/) - Image Optimization Tools
-* ⭐ **[Squoosh](https://squoosh.app/)**, [CompressOrDie](https://compress-or-die.com/), [TinyJPG](https://tinyjpg.com/), [ImageCompresser](https://imagecompresser.com/), [Caesium](https://saerasoft.com/caesium/), [ImageSmaller](https://www.imagesmaller.com/), [Compress JPEG](https://compressjpeg.com/), [CompressImage](https://compressimage.io/), [CrushImage](https://crushimage.com/), [ShrinkMe](https://shrinkme.app/), [Crushee](https://crushee.app/), [Seopix](https://www.seopix.io/), [Imagator](https://imagator.co/), [Compressor](https://compressor.io/) or [Batch Compress](https://batchcompress.com/en) - Image Compressors
+* ⭐ **[Squoosh](https://squoosh.app/)**, [CompressOrDie](https://compress-or-die.com/), [TinyJPG](https://tinyjpg.com/), [ImageCompresser](https://imagecompresser.com/), [Caesium](https://saerasoft.com/caesium/), [ImageSmaller](https://www.imagesmaller.com/), [Compress JPEG](https://compressjpeg.com/), [CompressImage](https://compressimage.io/), [CrushImage](https://crushimage.com/), [ShrinkMe](https://shrinkme.app/), [Crushee](https://crushee.app/), [Seopix](https://www.seopix.io/), [Imagator](https://imagator.co/), [Compressor](https://compressor.io/), [optimize.photos](https://optimize.photos/) or [Batch Compress](https://batchcompress.com/en) - Image Compressors
 * [Bulk Image Convert](https://bulkimageconvert.com), [Convertmyimage](https://convert-my-image.com/), [ImageConvert](https://imageconvert.org/), [imverter](https://www.imverter.com/), [Raw Pics](https://raw.pics.io/) or [Converseen](https://converseen.fasterland.net/) - Image Converters
 * [ImageWorsener](https://entropymine.com/imageworsener/) - Image Filters / Blur / Resizing
 * [tiny.pictures](https://tiny.pictures/) - Optimize Images
@@ -633,7 +633,7 @@
 * [APNG Maker](https://rukario.github.io/Schande/Uninteresting%20stuff/APNG%20Maker.html) - Create / Optimize APNG Images
 * [JPEGMedic ARWE](https://www.jpegmedic.com/tools/jpegmedic-arwe/) - Recover Ransomware-Encrypted Images
 * [CamScanner](https://apps.apple.com/us/app/camscanner-pdf-scanner-app/id388627783) or [Microsoft Lens](https://apps.apple.com/us/app/microsoft-lens-pdf-scanner/id975925059) - Scan & Digitize Documents / iOS
-* [Swapface](https://swapface.org/) / [Discord](https://discord.com/invite/5yPew6Cy6a), [faceswap](https://faceswap.dev/), [AIFaceSwap](https://aifaceswap.io/), [Swapper](https://icons8.com/swapper) or [FaceFusion](https://github.com/facefusion/facefusion) - Face Swapping
+* [FaceSwapApp](https://face-swap.app/) / [Discord](https://discord.gg/D8wYxUvwTD), [Swapface](https://swapface.org/) / [Discord](https://discord.com/invite/5yPew6Cy6a), [faceswap](https://faceswap.dev/), [AIFaceSwap](https://aifaceswap.io/), [Swapper](https://icons8.com/swapper) or [FaceFusion](https://github.com/facefusion/facefusion) - Face Swapping
 * [WiseTagger](https://github.com/0xb8/WiseTagger) - Image Tagger
 * [BooruDatasetTagManager](https://github.com/starik222/BooruDatasetTagManager) - Booru Image Tagger
 * [Cluttr](https://gitlab.com/bearjaws/cluttr) or [TagStudio](https://github.com/TagStudioDev/TagStudio) - Image File Organizers 
