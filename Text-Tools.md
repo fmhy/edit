@@ -73,6 +73,7 @@
 * ⭐ **[Translate Web Pages](https://github.com/FilipePS/Traduzir-paginas-web)**, [OpenAI Translator](https://github.com/yetone/openai-translator), [Simple Translate](https://simple-translate.sienori.com/), [Saladict](https://saladict.crimx.com/), [Linguist Translator](https://github.com/translate-tools/linguist), [S3Translator](https://www.s3blog.org/s3translator.html), [Firefox Translations](https://addons.mozilla.org/en-US/firefox/addon/firefox-translations/), [ImmersiveTranslate](https://immersivetranslate.com/en/), [Mate Translate](https://gikken.co/mate-translate) or [ImTranslator](https://imtranslator.net/) - Translation Extensions
 * ⭐ **[DeepLX](https://github.com/OwO-Network/DeepLX)** or [DeepL](https://www.deepl.com/translator)
 * ⭐ **[Google Translate](https://translate.google.com/)**
+* ⭐ **[/r/Translator](https://www.reddit.com/r/translator/)** - Translation Request Community
 * [Crow Translate](https://crow-translate.github.io/) or [Argos](https://github.com/argosopentech/argos-translate) - Translation Apps
 * [Translate Shell](https://www.soimort.org/translate-shell/) - Translation CLI / [github](https://github.com/soimort/translate-shell)
 * [OnlineDocTranslator](https://www.onlinedoctranslator.com/en/) - Document Translator
@@ -209,7 +210,6 @@
 * ⭐ **Obsidian Tools** - [Resources](https://github.com/kmaasrud/awesome-obsidian) / [Share Notes](https://noteshare.space/) / [Live Sync](https://github.com/vrtmrz/obsidian-livesync) / [Backup](https://github.com/denolehov/obsidian-git) / [ChatGPT Addon](https://github.com/logancyang/obsidian-copilot), [2](https://github.com/vasilecampeanu/obsidian-weaver)
 * ⭐ **[Notion](https://www.notion.so/)**
 * ⭐ **Notion Tools** - [Themes](https://notionthemes.yudax.me/) / [Templates](https://notionpages.com/) / [Resources](https://www.notioneverything.com/notion-world), [2](https://chief-ease-8ab.notion.site/List-of-200-Notion-Resources-e1b46cd365094265bd47b8a2b25bb41e) / [Guide](https://easlo.notion.site/Notion-Beginner-to-Advanced-8a492960b049433289c4a8d362204d20)
-* ⭐ **[Note Garden](https://notegarden.io/)** - Note-Taking / Auto Courses
 * ⭐ **[Notesnook](https://notesnook.com/)**
 * ⭐ **[AnyType](https://anytype.io/)**
 * ⭐ **[Logseq](https://logseq.com/)**
@@ -217,6 +217,7 @@
 * [Desklamp](https://desklamp.io/) - Reading / Note Taking / Highlighting Tool / [Guide](https://app.desklamp.io/read?id=46b203c6-d8df-453d-b546-95a8fa7a44b9&mode=explore)
 * [FromScratch](https://fromscratch.rocks/) - Note Taking
 * [Kompad](https://kompad.vercel.app/) - Note Taking
+* [Note Garden](https://notegarden.io/) - Note-Taking / Auto Courses
 * [benotes](https://benotes.org/) - Self-hosted Bookmarks and Note Taking
 * [Saber](https://saber.adil.hanney.org/) - Crossplatform Handwritten Notes
 * [Trilium](https://github.com/zadam/trilium) - Note Taking
