@@ -11,7 +11,6 @@
 ***
 
 * ⭐ **[Linux Difficulty Chart](https://i.ibb.co/kXJdBrF/98e87fc317dd.png)**
-* ⭐ **[Beginner Distros](https://ash.fail/distros.html)**
 * ⭐ **[DistroChooser](https://distrochooser.de/)**
 * ⭐ **[DistroWatch](https://distrowatch.com/dwres.php?resource=popularity)**
 * ⭐ **[Babbies First Linux](https://wiki.installgentoo.com/index.php/Babbies_First_Linux)**

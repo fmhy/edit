@@ -54,6 +54,7 @@
 * [Torrends](https://torrends.to/)
 * [CloudTorrents](https://cloudtorrents.com/)
 * [BTMET](https://btmet.com/)
+* [FileMood](https://filemood.com/)
 * [BT4G](https://bt4gprx.com/)
 * [Torlock](https://www.torlock.com/), [2](https://www.torlock2.com/)
 * [TorrentProject](https://torrentproject.cc/), [2](https://torrentproject2.net/)

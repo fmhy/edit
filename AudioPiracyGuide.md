@@ -43,7 +43,7 @@
 * [Spotify Dedup](https://spotify-dedup.com/) - Playlist Song Dedup
 * [exportify](https://github.com/watsonbox/exportify) or [SpotMyBackup](http://www.spotmybackup.com/) - Playlist Backup
 * [Opslagify](https://opslagify.deruever.nl/) - Library Size
-* [Awesome Spotify Stats](https://github.com/rimsiw/awesome-spotify-stats) - Listening Stats
+* [Awesome Spotify Stats](https://github.com/rimsiw/awesome-spotify-stats) or [NewTunes](https://newtunes.xyz/) - Listening Stats
 * [Spoticulum](https://spoticulum.xyz/) - Spotify Collection Snapshots
 * [Chart My Music](https://www.chartmymusic.com/) - Spotify Album Collages
 * [Tierify](https://davitg.com/projects/tierify/) - Tier Lists
@@ -334,8 +334,6 @@
 * [SongsLover](https://songslover.me/) - 256kb / MP3
 * [Freemp3cloud](https://freemp3cloud.com) - 256kb / MP3
 * [Ezhevika](https://ezhevika.blogspot.com/) - 192kb / MP3
-* [Rhapsody](https://rentry.co/FMHYBase64#rhapsody) - 128kb / MP3
-* [Tyler](https://rentry.co/FMHYBase64#tyler) - 128kb / MP3
 * [SoundClick](https://www.soundclick.com/default.cfm) - MP3
 * [nodata](https://nodata.tv/) - MP3
 * [z1.fm](https://z2.fm/) - MP3
