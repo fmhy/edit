@@ -19189,7 +19189,7 @@ onMounted(() => {
 * [Twitter Demetricator](https://bengrosser.com/projects/twitter-demetricator/) - Remove All Twitter Metrics
 * [Thread Reader App](https://threadreaderapp.com/) - Unroll Twitter Threads / Search
 * [Relink](https://www.relink.page/) - Fix Twitter Link Images
-* [Hide Content Warning](https://greasyfork.org/en/scripts/437359) - Remove Sensitive Content Blur
+* [Hide Content Warning](https://greasyfork.org/en/scripts/437359) or [Disable Blur](https://userstyles.world/style/15658/) - Remove Sensitive Content Blur
 
 ***
 
