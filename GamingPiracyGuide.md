@@ -128,7 +128,6 @@
 * [Pac-Man](https://github.com/masonicGIT/pacman) - Pac-Man w/ Added Features
 * [SpaceCadetPinball](https://github.com/k4zmu2a/SpaceCadetPinball) - Space Cadet Pinball / [Android](https://github.com/fexed/Pinball-on-Android)
 * [Visual Pinball](https://github.com/vpinball/vpinball) - Pinball Table Editor / Simulator / [Tables](https://www.vpforums.org/)
-* [Clone Hero](https://clonehero.net/) - Guitar Hero Clone / [Setlists](https://rentry.co/FMHYBase64#setlists), [2](https://customsongscentral.com/), [3](https://rentry.co/FMHYBase64#frif-drive) / [Wii Controller Support](https://github.com/Meowmaritus/WiitarThing) / [Custom Client](https://clonehero.scorespy.online)
 * [YARC-Official](https://github.com/YARC-Official) - Rock Band Clone / [Launcher](https://github.com/YARC-Official/YARC-Launcher/releases)
 * [ITGmania](https://www.itgmania.com/) - DDR Clone
 * [beatoraja](https://mocha-repository.info/) - BMS Player as Alternative to IIDX / [beatoraja English Guide](https://github.com/wcko87/beatoraja-english-guide/wiki)
@@ -176,6 +175,7 @@
 * ↪️ **[Android Emulators](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25BA_android_emulators)**
 * ⭐ **[Recommended Emulator Specs](https://emulation.gametechwiki.com/index.php/Computer_specs)**
 * ⭐ **[Emulator BIOS Files](https://emulation.gametechwiki.com/index.php/Emulator_files)**
+* ⭐ **[RetroAchievements](https://retroachievements.org/) - Achievements for Emulators**
 * ⭐ **[Skraper](https://www.skraper.net/)** - ROM Cover / Metadata Scraper
 * ⭐ **[Dolphin Guide](https://github.com/shiiion/dolphin/wiki/Performance-Guide)** - Dolphin Setup Guide
 * ⭐ **[Cemu Guide](https://cemu.cfw.guide/)** or [/r/CemuPiracy Tutorial](https://www.reddit.com/r/CemuPiracy/wiki/tutorial/) - WiiU / BOTW Setup Guides
@@ -195,7 +195,6 @@
 * [PictoChat Online](https://pict.chat/) - Browser DS PictoChat
 * [Mudlet](https://www.mudlet.org/) - Text Adventure Game Platform
 * [webnofrendo](https://zardam.github.io/webnofrendo/) - NES Numworks Emulator
-* [RetroAchievements](https://retroachievements.org/) - Achievements for Emulators
 
 ***
 
