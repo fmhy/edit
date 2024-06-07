@@ -547,6 +547,7 @@
 * [Loudness War](https://dr.loudness-war.info/) - Albums Dynamic Range Database
 * [rate.house](https://rate.house/) - Media Tracker
 * [MediaTracker](https://github.com/bonukai/MediaTracker) - Self-Hosted Media Tracker
+* [MusicReleaseTracker](https://github.com/BLCK-B/MusicReleaseTracker) - FOSS Music Tracker
 * [Maloja](https://maloja.krateng.ch) / [GitHub](https://github.com/krateng/maloja) - Self-Hosted Audio Scrobbling
 * [libib](https://www.libib.com/) - Desktop Media Catalog
 * [AME](https://notabug.org/SuperSaltyGamer/ame) - Music Site Enhancement Userscripts
