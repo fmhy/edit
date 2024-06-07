@@ -473,6 +473,7 @@
 * [FONToMASS](https://m.vk.com/topic-178186634_39300099?offset=0)
 * [Font Squirrel](https://www.fontsquirrel.com/)
 * [Free Fonts Family](https://freefontsfamily.com/)
+* [DFonts](https://www.dfonts.org/)
 * [FontSpark](https://fontspark.com/)
 * [Velvetyne](https://velvetyne.fr/)
 * [FontPair](https://www.fontpair.co/fonts)
