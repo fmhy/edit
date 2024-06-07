@@ -507,6 +507,7 @@
 * [Machine Learning Roadmap](https://rentry.org/machine-learning-roadmap), [SAAYN](https://spreadsheets-are-all-you-need.ai/), [machine-learning-zoomcamp](https://github.com/DataTalksClub/machine-learning-zoomcamp) or [LLM Course](https://github.com/mlabonne/llm-course) - Learn Machine Learning
 * [LLM Training](https://rentry.org/llm-training) - LLM Training Guide
 * [TeachableMachine](https://teachablemachine.withgoogle.com/) or [TensorFlow](https://www.tensorflow.org/) - Create Machine Learning Models
+* [Google AI Studio](https://aistudio.google.com/) - Generative Model Prototyping
 * [DVC](https://dvc.org/) - Machine Learning Version Control
 * [DeepSpeed](https://www.deepspeed.ai/) - Deep Learning Optimization Library
 * [FlowiseAI](https://flowiseai.com/) - LLM Flow Visualization
