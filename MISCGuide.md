@@ -797,7 +797,8 @@
 * 🌐 **[/r/PersonalFinance Wiki](https://old.reddit.com/r/personalfinance/wiki/index)** or [UK Personal Finance](https://ukpersonal.finance/) - Financial Advice / Resources
 * 🌐 **[KYCNOT.ME](https://kycnot.me/)** - Non-KYC Exchanges / Services
 * ⭐ **[TradingView](https://www.tradingview.com/)**, [Candle](https://gitlab.com/cosmosapps/candle), [finviz](https://finviz.com/) or [Markets.sh](https://markets.sh/) - Stock Market Trackers
-* [Maybe](https://hello.maybe.co/), [Ghostfolio](https://ghostfol.io/), [HomeBank](https://www.gethomebank.org/en/index.php), [Firefly III](https://firefly-iii.org/), [Money Manager EX](https://moneymanagerex.org/), [Paisa](https://github.com/RetroMusicPlayer/Paisa) or [Actual](https://github.com/actualbudget/actual) - Finance Managers
+* ⭐ **[Ghostfolio](https://ghostfol.io/)** / [Import](https://github.com/dickwolff/Export-To-Ghostfolio), [Maybe](https://hello.maybe.co/), [HomeBank](https://www.gethomebank.org/en/index.php), [Firefly III](https://firefly-iii.org/), [Money Manager EX](https://moneymanagerex.org/), [Paisa](https://github.com/RetroMusicPlayer/Paisa) or [Actual](https://github.com/actualbudget/actual) - Finance Managers
+* ⭐ **[Rotki](https://rotki.com/)** - Portfolio Manager
 * [Ivy Wallet](https://github.com/Ivy-Apps/ivy-wallet), [money-manager](https://github.com/moneymanagerex/android-money-manager-ex),[Buckwheat](https://buckwheat.app/), [My Expenses](https://www.myexpenses.mobi/), [Cashew](https://play.google.com/store/apps/details?id=com.budget.tracker_app) or [Sushi](https://github.com/jerameel/sushi) - Android Finance Managers
 * [Denaro](https://github.com/NickvisionApps/Denaro) - Linux Finance Managers
 * [Ledger](https://ledger-cli.org/) - CLI Accounting System
@@ -815,7 +816,6 @@
 * [Calculator](https://goldratestoday.net/gold-calculator/) - Gold Investment Calculators
 * [Kitco](https://www.kitco.com/) or [GoldRatesToday](https://goldratestoday.net/) - Gold Rate Calculators
 * [MortgageCalculator](https://www.mortgagecalculator.site/) - Mortgage Calculator
-* [Rotki](https://rotki.com/) - Portfolio Manager
 * [PortfolioVisualizer](https://www.portfoliovisualizer.com/) - Visualize Portfolio
 * [CoFolios](https://cofolios.com/) - Portfolio Sharing
 
@@ -829,9 +829,10 @@
 
 * 🌐 **[ChainList](https://chainlist.org/)** - EVM RPC List
 * ⭐ **[WalletScrutiny](https://walletscrutiny.com/)** - Verify Crypto Wallets are Open-Source / Secure
+* ⭐ **[Trocador](https://trocador.app/en/)** - Bitcoin Exchange App
 * [BitcoinTalk](https://bitcointalk.org/) - Bitcoin Forum
+* [Bitbox](https://bitbox.swiss/), [Ledger](https://www.ledger.com/) or [Trezor](https://trezor.io/) - Hardware Wallets
 * [BTCPay](https://btcpayserver.org/) - FOSS Bitcoin Payment Processor
-* [Trocador](https://trocador.app/en/) - Bitcoin Exchange App
 * [BitcoinWhosWho](https://www.bitcoinwhoswho.com/) - Bitcoin Address Scanner
 * [BlockChain](https://www.blockchain.com/explorer), [CoinWatch](https://github.com/shorthouse/CoinWatch), [Hivexplorer](https://hivexplorer.com/), [BlockChair](https://blockchair.com/), [L2BEAT](https://l2beat.com/), [HiveblockExplorer](https://hiveblockexplorer.com/) or [LiveCoinWatch](https://www.livecoinwatch.com/) - Live Cryptocurrency Prices
 * [DefiLlama](https://defillama.com/) - TVL Aggregator
