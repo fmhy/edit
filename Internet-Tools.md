@@ -417,25 +417,23 @@
 
 ## ▷ Temporary Emails / Aliases
 
-* **Note** - 
+* **Note** - Establish criteria: - Gmail, etc. Support Status / Email Address Lifespan / Inbox Messages Lifespan / No. of Domains to Choose From
 
 ***
 
-* ↪️ **[Email Aliases]()**
-* ⭐ **[Smailpro](https://smailpro.com/)** - Gmail
-* ⭐ **[Gmailnator](https://www.emailnator.com/)** - Gmail
-* ⭐ **[Zemail](https://zemail.me/)** - Gmail
-* ⭐ **[Mail.tm](https://mail.tm/)**
-* ⭐ **[Inboxes](https://inboxes.com/)**
-* ⭐ **[Guerrilla Mail](https://www.guerrillamail.com/)**
+* ↪️ **[Email Aliasing]()**
+* ⭐ **[Smailpro](https://smailpro.com/)** - Gmail & Outlook / Forever / N/A / 20+ Domains
+* ⭐ **[Zemail](https://zemail.me/)** - Gmail / Forever / 1 Day / 7 Domains
+* ⭐ **[Gmailnator](https://www.emailnator.com/)** - Gmail / Forever / 1 Day / 6 Domains
+* ⭐ **[Inboxes](https://inboxes.com/)** - Forever / 7 Days / 19 Domains
+* ⭐ **[Mail.tm](https://mail.tm/)** - Forever / 7 Days / 1 Domain
+* ⭐ **[Guerrilla Mail](https://www.guerrillamail.com/)** - Forever / 1 Hour / 11 Domains
+* [Tmail.io](https://tmail.io/) - Gmail / Forever / 1 Day / 4 Domains
+* [22.Do](https://22.do/) - Gmail / 1 Day / 1 Day / 3 Domains
+---
 * [Temp Mail](https://temp-mail.org/) / [10 Minute Email](https://temp-mail.org/10minutemail)
 * [Adguard Temp Mail](https://adguard.com/adguard-temp-mail/overview.html)
 * [burner.kiwi](https://burner.kiwi/)
-
-Gmail:
-* [Tmail.io](https://tmail.io/temporary-disposable-gmail) - Gmail
-* [22.Do](https://22.do/) - Gmail
-
 ---
 * [10minutesemail](https://10minutesemail.net/)
 * [10minutemail](https://10minutemail.net/)
@@ -529,7 +527,7 @@ Gmail:
 
 ***
 
-## ▷ [Email Privacy](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25B7_email_privacy)
+## ▷ [Email Privacy](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25B7_email_privacy)
 
 ***
 
