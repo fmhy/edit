@@ -134,19 +134,17 @@
 * ↪️ **[Browser Startpages](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_browser_startpages)**
 * ⭐ **[Linktree](https://linktr.ee/)**
 * ⭐ **[Linkstack](https://linkstack.org)** or [LittleLink](https://littlelink.io/) - Self-hosted
+* ⭐ **[Bio Link](https://bio.link/)**
 * [Beacons](https://beacons.ai/)
 * [Carrd](https://carrd.co/)
-* [Bio Link](https://bio.link/)
 * [Ayo](https://ayo.so/)
 * [ContactInBio](https://www.contactinbio.com/)
 * [Campsite.bio](https://campsite.bio/)
 * [Horizon Bio](https://hrzn.bio/)
-* [BioDrop](https://www.biodrop.io/)
 * [Taplink](https://taplink.at/)
-* [Solo](https://solo.to/)
 * [Linkezo](https://linkezo.com/)
-* [LinkBun](https://linkbun.io)
 * [Linkr](https://linkr.com/)
+* [LinkBun](https://linkbun.io)
 * [seemless](https://www.linkinbio.website/) - Link in Bio for Tiktok & Instagram
 * [itsmy.fyi](https://itsmy.fyi/) - Create Homepage via Github Issues / [Github](https://github.com/rishi-raj-jain/itsmy.fyi)
 
