@@ -121,7 +121,7 @@
 
 # ► Learning Sites
 
-* 🌐 **[The Free Learning List](https://freelearninglist.org/)**, **[LearnAwesome](https://learnawesome.org/)**, [Learning Lab](https://learn.uno/), [Quester](https://quester.io/), [AFAIK](https://afaik.io/) / [Discord](https://discord.gg/mMNwRvWM8s), [TutorAI](https://www.tutorai.me/), [Learney](https://maps.joindeltaacademy.com/) or [WISC](https://www.wisc-online.com/) - Learning Resources
+* 🌐 **[The Free Learning List](https://freelearninglist.org/)**, **[LearnAwesome](https://learnawesome.org/)**, [Learning Lab](https://learn.uno/), [Quester](https://quester.io/), [AFAIK](https://afaik.io/) / [Discord](https://discord.gg/mMNwRvWM8s), [TutorAI](https://www.tutorai.me/), [Learney](https://maps.joindeltaacademy.com/), [Learn Anything](https://learn-anything.xyz/) / [Free Method](https://rentry.co/FMHYBase64#learn-anything) or [WISC](https://www.wisc-online.com/) - Learning Resources
 * 🌐 **[Awesome Educational Games](https://github.com/yrgo/awesome-educational-games)** - Educational Games Index
 * ↪️ **[Ebook Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/reading#wiki_.25BA_educational_books)**
 * ↪️ **[Typing Tests / Games](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools#wiki_.25B7_typing_lessons)**
