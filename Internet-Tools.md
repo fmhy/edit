@@ -417,7 +417,8 @@
 
 ## ▷ Temporary Emails / Aliases
 
-* **Note** - Establish criteria: - Gmail, etc. Support Status / Email Address Lifespan / Inbox Messages Lifespan / No. of Domains to Choose From
+* **Note** - Establish criteria (different collumn meanings):
+             Gmail, etc. Support Status / Email Address Lifespan (Until you delete it) / Inbox Messages Lifespan / No. of Domains to Choose From
 
 ***
 
@@ -430,30 +431,19 @@
 * ⭐ **[Guerrilla Mail](https://www.guerrillamail.com/)** - Forever / 1 Hour / 11 Domains
 * [Tmail.io](https://tmail.io/) - Gmail / Forever / 1 Day / 4 Domains
 * [22.Do](https://22.do/) - Gmail / 1 Day / 1 Day / 3 Domains
+* [Temp Mail](https://temp-mail.org/) - Forever / N/A / 1 Domain / [10 Minute Email](https://temp-mail.org/10minutemail)
+* [Adguard Temp Mail](https://adguard.com/adguard-temp-mail/overview.html) - 7 Days / 1 Day / 1 Domain
+* [burner.kiwi](https://burner.kiwi/) - 1 Day / 1 Day / 3 Domains
+* [Vmail.DEV](https://vmail.dev/) - 1 Day / 1 Day / 2 Domains
+* [Mail.cx](https://mail.cx/) - 1 Day / 12 Hours / 5 Domains
 ---
-* [Temp Mail](https://temp-mail.org/) / [10 Minute Email](https://temp-mail.org/10minutemail)
-* [Adguard Temp Mail](https://adguard.com/adguard-temp-mail/overview.html)
-* [burner.kiwi](https://burner.kiwi/)
----
-* [10minutesemail](https://10minutesemail.net/)
-* [10minutemail](https://10minutemail.net/)
-* [10minutemail](https://www.lite14.us/10minutemail/)
-* [10minutemail.com](https://10minutemail.com/)
-* [minuteinbox](https://minuteinbox.com/)
----
-* [maildrop](https://maildrop.cc/)
+* [maildrop](https://maildrop.cc/) - 1 Domain
 * [mailnesia](https://mailnesia.com/)
 * [anonbox](https://anonbox.net/)
 * [Generator.email](https://generator.email/)
 * [kuku](https://m.kuku.lu/)
 * [Email on Deck](https://www.emailondeck.com/)
 * [Mohmal](https://www.mohmal.com/en)
-* [temporarymail](https://temporarymail.com/)
-* [FakeMailGenerator](https://www.fakemailgenerator.com/)
-* [emailfake](https://emailfake.com/)
-* [tempmailo](https://tempmailo.com/)
-* [tempm](https://tempm.com/)
-* [tempail](https://tempail.com/)
 * [eyepaste](https://www.eyepaste.com/)
 * [mintemail](https://www.mintemail.com/)
 * [sharklasers](https://www.sharklasers.com/)
@@ -464,38 +454,21 @@
 * [inboxkitten](https://inboxkitten.com/)
 * [anonymmail](https://anonymmail.net/)
 * [tmailweb](https://tmailweb.com/)
-* [tempr](https://tempr.email/en/)
-* [fakemail](https://www.fakemail.net/)
 * [moakt](https://www.moakt.com/)
 * [linshi-email](https://www.linshi-email.com/en)
 * [disposablemail](https://www.disposablemail.com/)
 * [trashmail](https://trashmail.ws/)
-* [fakermail](https://fakermail.com/)
 * [mailtemp](https://mailtemp.top/)
-* [temporary-email](https://temporary-email.com/)
-* [tempmail.plus](https://tempmail.plus/en/)
 * [mail-temp](https://mail-temp.com/)
 * [1secmail](https://www.1secmail.com/)
 * [fex](https://fex.plus/en/)
-* [email-fake](https://email-fake.com/)
 * [luxusmail](https://luxusmail.org/)
 * [spambox](https://spambox.xyz/)
-* [tempmails](https://tempmails.net/)
 * [receivemail](https://www.receivemail.org/)
-* [tempemail](https://tempemail.co/)
-* [tempmail.altmails](https://tempmail.altmails.com/)
 * [instant-email](https://instant-email.org/)
-* [temp-mail.io](https://temp-mail.io/)
-* [temp-inbox](https://temp-inbox.com/)
-* [tempmaili](https://tempmaili.com/)
 * [emailtemp](https://emailtemp.org/)
-* [tempmailid](https://tempmailid.com/)
 * [emaildrop](https://www.emaildrop.io/)
-* [temprmail](https://temprmail.com/)
-* [tempmail.email](https://tempmail.email/)
-* [tempinbox](https://www.tempinbox.xyz/)
 * [tmailor](https://tmailor.com/)
-* [temp-mailbox](https://temp-mailbox.com/)
 * [bottlemail](https://bottlemail.org/)
 * [internxt](https://internxt.com/temporary-email)
 * [tmail.gg](https://tmail.gg/en)
@@ -508,10 +481,34 @@
 * [email1](https://email1.io/)
 * [cs.email](https://cs.email/)
 * [haribu](https://haribu.net/)
-* [Mail.cx](https://mail.cx/)
-* [vmail](https://vmail.dev/)
-
+---
+* [FakeMailGenerator](https://www.fakemailgenerator.com/)
+* [emailfake](https://emailfake.com/)
+* [fakemail](https://www.fakemail.net/)
+* [fakermail](https://fakermail.com/)
+* [email-fake](https://email-fake.com/)
+---
+* [temporarymail](https://temporarymail.com/)
+* [tempmailo](https://tempmailo.com/)
+* [tempm](https://tempm.com/)
+* [tempail](https://tempail.com/)
+* [tempr](https://tempr.email/en/)
+* [temporary-email](https://temporary-email.com/)
+* [tempmail.plus](https://tempmail.plus/en/)
+* [tempmails](https://tempmails.net/)
+* [tempemail](https://tempemail.co/)
+* [tempmail.altmails](https://tempmail.altmails.com/)
+* [temp-mail.io](https://temp-mail.io/)
+* [temp-inbox](https://temp-inbox.com/)
+* [tempmaili](https://tempmaili.com/)
+* [tempmailid](https://tempmailid.com/)
+* [temprmail](https://temprmail.com/)
+* [tempmail.email](https://tempmail.email/)
+* [tempinbox](https://www.tempinbox.xyz/)
+* [temp-mailbox](https://temp-mailbox.com/)
+---
 * [Bloody Vikings!](https://addons.mozilla.org/en-US/firefox/addon/bloody-vikings/) - Temp Email Extension
+* [10minutesemail.net](https://10minutesemail.net/), [10minutemail.net](https://10minutemail.net/), [lite14.us](https://www.lite14.us/10minutemail/), [10minutemail.com](https://10minutemail.com/) or [MinuteInbox](https://minuteinbox.com/) - 10 Minute Lifespan Emails
 * [Trashmail](https://github.com/etaxi341/TrashMailClient-TelegramBot), [TrashEmail](https://t.me/trashemail_bot), [smtpbot](https://t.me/smtpbot), [smtpbot](https://t.me/smtpbot), [DropmailBot](https://t.me/DropmailBot), [fakemailbot](https://t.me/fakemailbot) - Temp Email Telegram Bots
 
 ***
