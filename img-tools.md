@@ -321,6 +321,7 @@
 * [ArtBoard](https://artboard.studio/) - Design App
 * [VistaCreate](https://create.vista.com/) - Design App
 * [PosterMyWall](https://www.postermywall.com/) - Design App
+* [Kosmik](https://www.kosmik.app/) - Design Asset Manager
 * [Venngage](https://venngage.com/) - Infographic Design
 * [Bannery](https://bannery.app/) - Banner Design
 * [Mind Your Banners](https://www.mindyourbanners.com/) - Social Media Banner Design
@@ -410,6 +411,7 @@
 ## ▷ Free Assets
 
 * ⭐ **[FreePreset](https://freepreset.net/)**
+* [UnliPresets](https://www.unlipresets.com/)
 * [Gumroad](https://discover.gumroad.com/) (Enter $0)
 * [psdkeys](https://psdkeys.com/)
 * [AvaxGFX](https://avxgfx.com/)
@@ -706,6 +708,7 @@
 * [Up1](https://github.com/Upload/Up1)
 * [Chevereto](https://chevereto.com/)
 * [Photofield](https://github.com/SmilyOrg/photofield)
+* [Google Photos Toolkit)](https://github.com/xob0t/Google-Photos-Toolkit) - Manage / Delete Google Photos
 * [Google Takeout](https://takeout.google.com/) - Export from Google Photos / [Script](https://github.com/TheLastGimbus/GooglePhotosTakeoutHelper)
 
 ***
