@@ -381,7 +381,8 @@
 * [BiOSBug](https://www.biosbug.com/) - Remove / Reset BiOS Password / [Tutorial](https://www.youtube.com/watch?v=GolIjI2HS5w)
 * [BIOS-PW](https://bios-pw.org/) - System Password Recovery Tools
 * [PC Health Check](https://aka.ms/GetPCHealthCheckApp) or [WhyNotWin11](https://github.com/rcmaehl/WhyNotWin11) - Identify why your PC isn't Windows 11 ready
-
+* [Medicatusb](https://medicatusb.com/) - Create a usb with all the tools recovery tools ex: Acronis Cyber Backup and Mini Windows 10 / you will need a 32gb usb and disable your antivirus
+  
 ***
 
 # ► Customization
