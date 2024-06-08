@@ -428,17 +428,17 @@
 * ⭐ **[Gmailnator](https://www.emailnator.com/)** - Gmail / Forever / 1 Day / 6 Domains
 * ⭐ **[Inboxes](https://inboxes.com/)** - Forever / 7 Days / 19 Domains
 * ⭐ **[Mail.tm](https://mail.tm/)** - Forever / 7 Days / 1 Domain
-* ⭐ **[Guerrilla Mail](https://www.guerrillamail.com/)** - Forever / 1 Hour / 11 Domains
 * [Tmail.io](https://tmail.io/) - Gmail / Forever / 1 Day / 4 Domains
 * [22.Do](https://22.do/) - Gmail / 1 Day / 1 Day / 3 Domains
-* [Temp Mail](https://temp-mail.org/) - Forever / N/A / 1 Domain / [10 Minute Email](https://temp-mail.org/10minutemail)
+* [Guerrilla Mail](https://www.guerrillamail.com/) - Forever / 1 Hour / 11 Domains
+* [Temp Mail](https://temp-mail.org/) - Forever / N/A / 4 Domains / [10 Minute Email](https://temp-mail.org/10minutemail)
 * [Adguard Temp Mail](https://adguard.com/adguard-temp-mail/overview.html) - 7 Days / 1 Day / 1 Domain
 * [burner.kiwi](https://burner.kiwi/) - 1 Day / 1 Day / 3 Domains
 * [Vmail.DEV](https://vmail.dev/) - 1 Day / 1 Day / 2 Domains
 * [Mail.cx](https://mail.cx/) - 1 Day / 12 Hours / 5 Domains
+* [Maildrop](https://maildrop.cc/) - Forever / 1 Day / 1 Domain
+* [Mailnesia](https://mailnesia.com/) - Forever / 2 Days / 1 Domain
 ---
-* [maildrop](https://maildrop.cc/) - 1 Domain
-* [mailnesia](https://mailnesia.com/)
 * [anonbox](https://anonbox.net/)
 * [Generator.email](https://generator.email/)
 * [kuku](https://m.kuku.lu/)
@@ -461,6 +461,7 @@
 * [mailtemp](https://mailtemp.top/)
 * [mail-temp](https://mail-temp.com/)
 * [1secmail](https://www.1secmail.com/)
+---
 * [fex](https://fex.plus/en/)
 * [luxusmail](https://luxusmail.org/)
 * [spambox](https://spambox.xyz/)
@@ -509,7 +510,7 @@
 ---
 * [Bloody Vikings!](https://addons.mozilla.org/en-US/firefox/addon/bloody-vikings/) - Temp Email Extension
 * [10minutesemail.net](https://10minutesemail.net/), [10minutemail.net](https://10minutemail.net/), [lite14.us](https://www.lite14.us/10minutemail/), [10minutemail.com](https://10minutemail.com/) or [MinuteInbox](https://minuteinbox.com/) - 10 Minute Lifespan Emails
-* [Trashmail](https://github.com/etaxi341/TrashMailClient-TelegramBot), [TrashEmail](https://t.me/trashemail_bot), [smtpbot](https://t.me/smtpbot), [smtpbot](https://t.me/smtpbot), [DropmailBot](https://t.me/DropmailBot), [fakemailbot](https://t.me/fakemailbot) - Temp Email Telegram Bots
+* [fakemailbot](https://t.me/fakemailbot) - Temp Email Telegram Bot
 
 ***
 
