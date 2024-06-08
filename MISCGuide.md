@@ -855,12 +855,14 @@
 * [Pepper](https://www.pepper.com/) - Shopping Community
 * [gedd.it](https://gedd.it/) - Shop via Reddit
 * [Slant](https://www.slant.co/) - "What are the best..." Product Rankings
+* [Claros](https://www.claros.so/) - AI Product Recommendations / [Discord](https://discord.gg/87KJvjpkF8)
 * [Randomicle](https://randomicle.com/) - Random Amazon Products
 * [Amazon International Links](https://greasyfork.org/en/scripts/38639-amazon-international-links) - International Amazon Products
 * [Facebook Ad Library](https://www.facebook.com/ads/library/) - Find Deals via Facebook Ad Search
 * [AllCraigslistSearch](https://allcraigslistsearch.com/) or [Craigs List Search](https://craigs-list-search.com/) - Craigslist Search
 * [PicFlick](https://picclick.com/) - Ebay Quick Search
 * [Type Hound](https://typohound.com/) or [FatFingers](https://fatfingers.com/) - Ebay Typo Search
+* [Spoken](https://www.spoken.io/) - Furniture Price Comparisons
 * [BTOD](https://www.btod.com/blog/category/buying-guides/) - Office Chair Buying Guides / Reviews
 * [Mousepad Mastersheet](https://docs.google.com/spreadsheets/d/1RAnmZxDNduaGV8kB-GCvZ0MO6d9-0j9jmrU2f8dp0Ww/) - Mousepad Buying Guide / Reviews
 * [Cars.com](https://www.cars.com/research/compare/), [Vehicle Rankings](https://cars.usnews.com/cars-trucks/rankings), [Motor1](https://www.motor1.com/reviews/) or [Edmunds](https://www.edmunds.com/car-reviews/) - Vehicle Reviews / Comparisons
@@ -942,8 +944,9 @@
 * 🌐 **[Awesome Lego](https://github.com/ad-si/awesome-lego)** - Lego Resources
 * [Dinosaur Toy Blog](https://dinotoyblog.com/) or [Animal Toy Blog](https://animaltoyforum.com/blog/) - Animal Toy Reviews
 * [MyFigureCollection](https://myfigurecollection.net/) - Japanese Pop-Culture Merch Database
-* [Pokéchange](https://en.pokechange.net/) - Buy / Sell Pokémon Cards
+* [Pokechange](https://en.pokechange.net/) - Buy / Sell Pokémon Cards
 * [Ty Collector](https://tycollector.com/) or [Beaniepedia](https://beaniepedia.com/) - Ty Collectibles Databases
+* [Matchbox University](http://mbx-u.com/) - Matchbox Car Database
 * [BreyerHorseRef](https://www.breyerhorseref.com/) - Breyer Horse Database
 * [The Toy Pool](https://thetoypool.com/) - Multi-Brand Toy & Doll Database
 * [Brickset](https://brickset.com/) - Lego Set Guide
@@ -1006,8 +1009,9 @@
 * [Label Studio](https://labelstud.io/) or [Cvat](https://www.cvat.ai/) - Data Organizing Tools
 * [Diff Checker](https://www.diffchecker.com/) - Check Differences in Text, Images, PDFs or Files
 * [Find Your Place](https://where-is-this.com/) - Find Places from Pictures
-* [Acoustic Gender](https://acousticgender.space/) - Measure Voice Pitch
 * [Forebears](https://forebears.io/) or [BehindTheName](https://www.behindthename.com/) - Name Etymologies
+* [Pronouns List](https://pronounslist.com/) - List of Prefferred Pronouns
+* [Acoustic Gender](https://acousticgender.space/) - Measure Voice Pitch
 * [Timeline Cascade](https://markwhen.com/) / [GitHub](https://github.com/mark-when/markwhen), [Timeline JS](https://timeline.knightlab.com/) or [Time.Graphics](https://time.graphics/) - Create Timelines
 * [Timeliner](https://timelinize.com/) - Create Personal Digital Timeline
 * [Familypedia](https://familypedia.fandom.com/), [Gramps](https://gramps-project.org/blog/) or [WikiTree](https://wikitree.com/) - Family Trees
@@ -1310,8 +1314,6 @@
 
 ## ▷ Interesting
 
-* 🌐 **[404PageFound](https://www.404pagefound.com/)** - Old Websites
-* 🌐 **[Websites From Hell](https://websitesfromhell.net/)** - Shitty Websites
 * ↪️ **[Online Virtual Tours](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu#wiki_.25BA_virtual_tours)**
 * ⭐ **[Iceberg Charts](https://icebergcharts.com/)** - Explore Obscure Topics / [/r/IcebergCharts](https://www.reddit.com/r/IcebergCharts/)
 * ⭐ **[InfiniteConversation](https://infiniteconversation.com/)** - Never-Ending Werner Herzog / Slavoj Žižek Conversation
@@ -1391,6 +1393,8 @@
 ## ▷ Random
 
 * 🌐 **[Funny / Useless Sites](https://rentry.org/aksry2vc)**
+* 🌐 **[Websites From Hell](https://websitesfromhell.net/)** - Shitty Websites
+* 🌐 **[404PageFound](https://www.404pagefound.com/)** - Old Websites
 * ↪️ **[Random Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_random_generators)** - Random Site Generators
 * ⭐ **[Project Random](https://0xbeef.co.uk/random)** or [The Red Button](https://clicktheredbutton.com/) - Random Video / Song Generators
 * ⭐ **[Copypasta Text](https://copypastatext.com/)** or [CopyPastaDB](https://copypastadb.com/) - Copypasta Databases
