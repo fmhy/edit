@@ -114,6 +114,7 @@
 ***
 
 ## ▷ Desktop Environments
+
 * ⭐ **[Xfce](https://xfce.org/)** - Desktop Environment
 * ⭐ **[GNOME](https://www.gnome.org/)** - Desktop Environment
 * ⭐ **[KDE Plasma](https://kde.org/)** - Desktop Environment
@@ -122,6 +123,8 @@
 * [MATE](https://mate-desktop.org/) - Desktop Environment
 * [LXQt](https://lxqt-project.org/) - Lightweight Desktop Environment
 * [LXDE](https://www.lxde.org/) - Lightweight Desktop Environment
+
+***
 
 ## ▷ Window Managers
 
