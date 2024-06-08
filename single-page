@@ -2230,6 +2230,7 @@ import Index from './.vitepress/theme/Posts.vue'
 # ► Web Privacy
 
 * 🌐 **[Google Alt List](https://www.techspot.com/article/2752-all-google-alternatives/)**, [/r/DeGoogle](https://www.reddit.com/r/degoogle), [Degoogle](https://tycrek.github.io/degoogle/) or [No More Google](https://nomoregoogle.com/) - Google App Alternatives
+* ↪️ **[Chat Service Comparisons](https://docs.google.com/spreadsheets/u/0/d/1-UlA4-tslROBDS9IqHalWVztqZo7uxlCeKPQ-8uoFOU)**
 * ↪️ **[Encrypted Messaging Apps](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_encrypted_messengers)** / [2](https://docs.google.com/spreadsheets/d/1-UlA4-tslROBDS9IqHalWVztqZo7uxlCeKPQ-8uoFOU) / [3](https://www.securemessagingapps.com/)
 * ↪️ **[Encrypted XMPP Servers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_encrypted_xmpp_servers)**
 * ↪️ **[Encode / Decode URLs](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools#wiki_.25B7_encode_.2F_decode)**
@@ -2424,7 +2425,7 @@ import Index from './.vitepress/theme/Posts.vue'
 * ⭐ **[AirVPN](https://airvpn.org/)**
 * ⭐ **[Windscribe](https://windscribe.com)** - Free Version Available / [Relief Codes](https://blog.windscribe.com/tag/relief-codes/)
 * ⭐ **[Proton](https://protonvpn.com)** - No Torrenting with Free Version / [Config Generation](https://gist.github.com/fusetim/1a1ee1bdf821a45361f346e9c7f41e5a)
-* ⭐ **[Warp](https://one.one.one.one/)** - Traffic Encryption VPN / [Client](https://github.com/ViRb3/wgcf) / [Warp+ Data](https://t.me/warpplus), [2](https://github.com/nxvvvv/warp-plus), [3](https://github.com/totoroterror/warp-cloner), [4](https://t.me/generatewarpplusbot), [5](https://rentry.co/warp_plus_free) / [Warp+ Warning](https://rentry.co/warpwarning) / [WireGuard Guide](https://rentry.co/foss-warp)
+* ⭐ **[Warp](https://one.one.one.one/)** - Traffic Encryption VPN / [Client](https://github.com/ViRb3/wgcf), [2](https://github.com/bepass-org/oblivion-desktop) / [Warp+ Data](https://t.me/warpplus), [2](https://github.com/nxvvvv/warp-plus), [3](https://github.com/totoroterror/warp-cloner), [4](https://t.me/generatewarpplusbot), [5](https://rentry.co/warp_plus_free) / [Warp+ Warning](https://rentry.co/warpwarning) / [WireGuard Guide](https://rentry.co/foss-warp)
 * ⭐ **[Riseup](https://riseup.net/en/vpn)** - Free VPN / [Config CLI Script](https://github.com/kmille/riseup-vpn-configurator)
 * [Mullvad](https://mullvad.net/) - [No-Logging](https://mullvad.net/en/blog/2023/4/20/mullvad-vpn-was-subject-to-a-search-warrant-customer-data-not-compromised/) / [Port Warning](https://mullvad.net/en/blog/2023/5/29/removing-the-support-for-forwarded-ports/)
 * [IVPN](https://www.ivpn.net/) - [No Logging](https://www.ivpn.net/knowledgebase/privacy/how-do-we-react-when-requested-by-an-authority-for-information-relating-to-a-customer/) / [Port Warning](https://www.ivpn.net/blog/gradual-removal-of-port-forwarding/)
