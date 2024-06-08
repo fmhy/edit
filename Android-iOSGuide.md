@@ -291,7 +291,7 @@
 * [Caffeine](https://lab.zhs.moe/caffeine/) - Keep Screen On
 * [FakeStandby](https://fakestandby.jonasbernard.de/) - Turn Off the Screen While App is Running
 * [WaveUp](https://gitlab.com/juanitobananas/wave-up) - Turn On Display via Waving
-* [Gesture Suite](https://play.google.com/store/apps/details?id=com.gesture.suite - Android Gestures
+* [Gesture Suite](https://play.google.com/store/apps/details?id=com.gesture.suite) - Android Gestures
 * [Tap Tap Double Tap](https://forum.xda-developers.com/t/app-beta-0-10-1-tap-tap-double-tap-on-back-of-device-gesture-from-android-11-port.4140573/) or [TapTap](https://github.com/KieronQuinn/TapTap) - Android Back Gesture Controls / Needs Root
 
 ***
