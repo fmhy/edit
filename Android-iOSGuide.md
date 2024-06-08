@@ -977,7 +977,6 @@
 * [Monal](https://monal-im.org) / [GitHub](https://github.com/monal-im/Monal) - XMPP App
 * [Jitsi](https://jitsi.org/) - Video Chat
 * [Meshenger](https://github.com/meshenger-app/meshenger-android), [Buz](https://www.buzmenow.com/ ) or [Mumla](https://gitlab.com/quite/mumla) - Voice Chat
-* [WO Mic](https://wolicheng.com/womic/) - Use Phone as Mic
 * [Walkie-Talkie](https://walkie-talkie.io/) - Walkie-Talkie App
 * [ZX81](https://apps.apple.com/us/app/zx81/id1180117434) - Sinclair ZX81 Emulator
 * [iMessage Exporter](https://github.com/ReagentX/imessage-exporter) - Export iMessage Chats
