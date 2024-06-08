@@ -1259,6 +1259,7 @@ Linux Gaming Guide
 * [Ilaria Upscaler](https://huggingface.co/spaces/TheStinger/Ilaria_Upscaler) - Image Upscaling
 * [Crunch](https://github.com/chrissimpkins/Crunch) - Image Upscaling
 * [PNG-Upscale](https://github.com/Araxeus/PNG-Upscale) - Image Upscaling
+* [Photo Magic AI](http://photomagicai.com/) - Image Upscaling
 * [Superimage](https://superimage.io/) - Image Upscaling
 * [ImageScaler](https://github.com/RoanH/ImageScaler/) - Image Upscaling
 * [Upscaler Stockphotos](https://upscaler.stockphotos.com/) - Image Upscaling
@@ -1705,9 +1706,18 @@ Linux Gaming Guide
 ## ▷ Stock Images
 
 * 🌐 **[Awesome Stock Resources](https://github.com/neutraltone/awesome-stock-resources#photography)** - Stock Photo Index
+* ⭐ **[GetPaidStock](https://getpaidstock.com/)**, **[DownPic](https://downpic.cc)**, **[Downloader.la](https://downloader.la/)**,[SystemErrorStock](https://t.me/SystemErrorStock) or [istock](https://istock.7xm.xyz/) - Paid Stock Photo Downloaders
 * ⭐ **[EveryPixel](https://www.everypixel.com/)** or [LibreStock](https://librestock.com/) - Stock Photo Search Engines
-* ⭐ **[GetPaidStock](https://getpaidstock.com/)**, **[DownPic](https://downpic.cc)**, **[Downloader.la](https://downloader.la/)**,[SystemErrorStock](https://t.me/SystemErrorStock) or [istock](https://istock.7xm.xyz/) - Download Paid Stock Photos
-* [PxHere](https://pxhere.com/), [Adobe Stock](https://stock.adobe.com/free), [themeisle](https://mystock.themeisle.com/), [burst](https://burst.shopify.com/), [Hippopx](https://www.hippopx.com/), [BarnImages](https://barnimages.com/), [Pixnio](https://pixnio.com/), [focastock](https://focastock.com/) or [Pikwizard](https://pikwizard.com/) - Misc Stock Photos
+* [PxHere](https://pxhere.com/) - Stock Photos
+* [Adobe Stock](https://stock.adobe.com/free) - Stock Photos
+* [themeisle](https://mystock.themeisle.com/) - Stock Photos
+* [burst](https://burst.shopify.com/) - Stock Photos
+* [Hippopx](https://www.hippopx.com/) - Stock Photos
+* [BarnImages](https://barnimages.com/) - Stock Photos
+* [Pixnio](https://pixnio.com/) - Stock Photos
+* [focastock](https://focastock.com/) - Stock Photos
+* [Pikwizard](https://pikwizard.com/) - Stock Photos
+* [Lummi](https://www.lummi.ai/) - AI Generated Stock Photos
 * [Smithsonian Open Access](https://www.si.edu/OpenAccess) - Smithsonian High-Quality Photos
 * [desirefx](https://desirefx.me/category/stock_images/) - Stock Photo Overlays
 * [creativity103](https://creativity103.com/) - Abstract Background Photos
@@ -1829,6 +1839,7 @@ Linux Gaming Guide
 * ⭐ **[IrfanView](https://www.irfanview.com/)**
 * ⭐ **[JPEGView](https://github.com/sylikc/jpegview)**
 * ⭐ **[ImageGlass](https://github.com/d2phap/ImageGlass)**
+* ⭐ **[FastStone](https://www.faststone.org/index.htm)**
 * ⭐ **[qView](https://interversehq.com/qview/)**
 * ⭐ **[XnView MP](https://www.xnview.com/en/xnviewmp/)**
 * ⭐ **[Digikam](https://www.digikam.org/)**
@@ -1841,7 +1852,6 @@ Linux Gaming Guide
 * [Fragment](https://www.fragmentapp.info/)
 * [HoneyView](https://en.bandisoft.com/honeyview/)
 * [picturama](https://picturama.github.io/)
-* [FastStone](https://www.faststone.org/index.htm)
 * [narrative](https://narrative.so/)
 * [G'MIC](https://gmic.eu/)
 * [BeeRef](https://beeref.org/) or [PureRef](https://www.pureref.com/) - Reference Image Viewers
