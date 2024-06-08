@@ -6,6 +6,23 @@
 
 # ► Image Editing
 
+* ⭐ **[Remove Background Web](https://huggingface.co/spaces/Xenova/remove-background-web)**, [remove.bg](https://www.remove.bg/), [RemoveBG-GIMP](https://github.com/manu12121999/RemoveBG-GIMP), [Rembg](https://github.com/danielgatis/rembg), [Adobe Express Background Remover](https://www.adobe.com/express/feature/image/remove-background) or [magic-copy](https://github.com/kevmo314/magic-copy) - Background Removers
+* [Scribus](https://www.scribus.net/) - Page Layout & Typesetting Program
+* [FilmDev](https://filmdev.org/) - Film Development Recipes
+* [StyleCLIP](https://github.com/orpatashnik/StyleCLIP) - Text Driven Image Manipulation / [Video](https://youtu.be/5icI0NgALnQ)
+* [Images.weserv.nl](https://images.weserv.nl/) - Image Editing Server
+* [Craft](https://www.invisionapp.com/craft) - Photoshop / Sketch Plugins
+* [Preset.id](https://preset.id/) - Adobe Lightroom Presets
+* [GradientArt](https://gra.dient.art/) or [TailBlend](https://tailblend.vercel.app/) - Gradient Editor
+* [VeoLuz](https://jaredforsyth.com/veoluz/) - Photon Path Art Tool
+* [Canvas](https://www.nvidia.com/en-us/studio/canvas/) - Turn Simple Art into Photo Realistic Landscapes
+* [Lama Cleaner](https://lama-cleaner-docs.vercel.app/), [Inpaint](https://theinpaint.com/), [Magic Eraser](https://magicstudio.com/magiceraser), [Remover](https://remover.zmo.ai/), [IOPaint](https://github.com/Sanster/IOPaint), [Cleanup.pictures](https://cleanup.pictures/), [ObjectRemover](https://objectremover.com/), [Segment Anything](https://segment-anything.com/), [ImageCleanr](https://www.imagecleanr.com), [Samist](https://github.com/dibrale/samist), [hama](https://www.hama.app/) or [sd-webui-segment-anything](https://github.com/continue-revolution/sd-webui-segment-anything) - Image Segmentation / Object Removal
+* [Supershots](https://superblog.ai/supershots/) - Add Backgrounds to Images
+* [Image Splitter](https://ruyili.ca/image-splitter/) - Split Images into Tiles
+* [PicFont](https://picfont.com/) - Add Text to Images
+
+***
+
 ## ▷ Editing Software
 
 * ⭐ **[Photoshop](https://w14.monkrus.ws/)** - Use a [VPN](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25BA_vpn) + [Client](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent#wiki_.25BA_torrent_clients)
@@ -91,21 +108,22 @@
 
 ***
 
-## ▷ Compress / Resize
+## ▷ Image Optimization
 
-* ⭐ **[ImageMagick](https://imagemagick.org/index.php)** / [Scripts](https://www.fmwconcepts.com/imagemagick/index.php)
-* ⭐ **[Pingo](https://css-ig.net/pingo)** / [GUI](https://css-ig.net/pinga), [RIOT](https://riot-optimizer.com/), [YOGA](https://yoga.flozz.org/) or [ImageFoo](https://imagefoo.com/) - Image Optimization Tools
-* ⭐ **[Squoosh](https://squoosh.app/)**, [CompressOrDie](https://compress-or-die.com/), [TinyJPG](https://tinyjpg.com/), [ImageCompresser](https://imagecompresser.com/), [Caesium](https://saerasoft.com/caesium/), [ImageSmaller](https://www.imagesmaller.com/), [Compress JPEG](https://compressjpeg.com/), [CompressImage](https://compressimage.io/), [CrushImage](https://crushimage.com/), [ShrinkMe](https://shrinkme.app/), [Crushee](https://crushee.app/), [Seopix](https://www.seopix.io/), [Imagator](https://imagator.co/), [Compressor](https://compressor.io/), [optimize.photos](https://optimize.photos/) or [Batch Compress](https://batchcompress.com/en) - Image Compressors
+* ↪️ **[Image Compressors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_image_compressors)**
+* ⭐ **[ImageMagick](https://imagemagick.org/index.php)** - Image Optimization / [Scripts](https://www.fmwconcepts.com/imagemagick/index.php)
+* ⭐ **[Pingo](https://css-ig.net/pingo)** - Image Optimization / [GUI](https://css-ig.net/pinga)
 * [Bulk Image Convert](https://bulkimageconvert.com), [Convertmyimage](https://convert-my-image.com/), [ImageConvert](https://imageconvert.org/), [imverter](https://www.imverter.com/), [Raw Pics](https://raw.pics.io/) or [Converseen](https://converseen.fasterland.net/) - Image Converters
-* [ImageWorsener](https://entropymine.com/imageworsener/) - Image Filters / Blur / Resizing
-* [tiny.pictures](https://tiny.pictures/) - Optimize Images
+* [Simple Image Resizer](https://www.simpleimageresizer.com/), [ImageResizer](https://imageresizer.com/), [PicResize](https://picresize.com/), [Birme](https://www.birme.net/), [ResizeNow](https://www.resizenow.com/en) or [BulkResizePhotos](https://bulkresizephotos.com/) - Resize Images
 * [Bulk Image Resize](https://bulkimageresize.com/) - Resize Images / [Crop](https://bulkimagecrop.com/) / [Compress](https://imagecompressr.com/)
-* [Croppola](https://croppola.com/) or [Avatar Cropper](https://avatarcropper.com/) - Cropping Tools
-* [Simple Image Resizer](https://www.simpleimageresizer.com/), [ImageResizer](https://imageresizer.com/), [PicResize](https://picresize.com/), [Birme](https://www.birme.net/) or [ResizeNow](https://www.resizenow.com/en), [BulkResizePhotos](https://bulkresizephotos.com/) - Resize Images
-* [Resize App Icon](https://resizeappicon.com/) - Resize Square Images
 * [PixelHunter](https://pixelhunter.io/) - Resize Images for Different Sites
-* [TinyPNG](https://tinypng.com/), [Compress PNG](https://compresspng.com/), [OxiPNG](https://github.com/shssoichiro/oxipng) or [PNGQuant](https://pngquant.org/) - PNG Compressors
-* [JPEG.rocks](https://jpeg.rocks/) - JPEG Re-Encoder
+* [Resize App Icon](https://resizeappicon.com/) - Resize Square Images
+* [Croppola](https://croppola.com/) or [Avatar Cropper](https://avatarcropper.com/) - Cropping Tools
+* [RIOT](https://riot-optimizer.com/) - Image Optimization
+* [YOGA](https://yoga.flozz.org/) - Image Optimization
+* [ImageFoo](https://imagefoo.com/) - Image Optimization
+* [tiny.pictures](https://tiny.pictures/) - Image Optimization
+* [ImageWorsener](https://entropymine.com/imageworsener/) - Image Filters / Blur / Resizing
 
 ***
 
@@ -136,25 +154,6 @@
 * [Party-ify](https://nathanielw.github.io/party-ify/) - Party-ify Images
 * [PFP.LGBT](https://pfp.lgbt/) - LGBTQ+fy Images
 * [SpiralBetty](https://www.spiralbetty.com/) - Image Spiralizer
-
-***
-
-## ▷ Editing Tools
-
-* ⭐ **[Remove Background Web](https://huggingface.co/spaces/Xenova/remove-background-web)**, [remove.bg](https://www.remove.bg/), [RemoveBG-GIMP](https://github.com/manu12121999/RemoveBG-GIMP), [Rembg](https://github.com/danielgatis/rembg), [Adobe Express Background Remover](https://www.adobe.com/express/feature/image/remove-background) or [magic-copy](https://github.com/kevmo314/magic-copy) - Background Removers
-* [Scribus](https://www.scribus.net/) - Page Layout & Typesetting Program
-* [FilmDev](https://filmdev.org/) - Film Development Recipes
-* [StyleCLIP](https://github.com/orpatashnik/StyleCLIP) - Text Driven Image Manipulation / [Video](https://youtu.be/5icI0NgALnQ)
-* [Images.weserv.nl](https://images.weserv.nl/) - Image Editing Server
-* [Craft](https://www.invisionapp.com/craft) - Photoshop / Sketch Plugins
-* [Preset.id](https://preset.id/) - Adobe Lightroom Presets
-* [GradientArt](https://gra.dient.art/) or [TailBlend](https://tailblend.vercel.app/) - Gradient Editor
-* [VeoLuz](https://jaredforsyth.com/veoluz/) - Photon Path Art Tool
-* [Canvas](https://www.nvidia.com/en-us/studio/canvas/) - Turn Simple Art into Photo Realistic Landscapes
-* [Lama Cleaner](https://lama-cleaner-docs.vercel.app/), [Inpaint](https://theinpaint.com/), [Magic Eraser](https://magicstudio.com/magiceraser), [Remover](https://remover.zmo.ai/), [IOPaint](https://github.com/Sanster/IOPaint), [Cleanup.pictures](https://cleanup.pictures/), [ObjectRemover](https://objectremover.com/), [Segment Anything](https://segment-anything.com/), [ImageCleanr](https://www.imagecleanr.com), [Samist](https://github.com/dibrale/samist), [hama](https://www.hama.app/) or [sd-webui-segment-anything](https://github.com/continue-revolution/sd-webui-segment-anything) - Image Segmentation / Object Removal
-* [Supershots](https://superblog.ai/supershots/) - Add Backgrounds to Images
-* [Image Splitter](https://ruyili.ca/image-splitter/) - Split Images into Tiles
-* [PicFont](https://picfont.com/) - Add Text to Images
 
 ***
 
@@ -633,6 +632,7 @@
 * [Glaze](https://glaze.cs.uchicago.edu/index.html) or [Nightshade](https://nightshade.cs.uchicago.edu/downloads.html) - Protect Digital Art from AI Copies
 * [FPNG](https://github.com/richgel999/fpng) - PNG Reader / Writer
 * [APNG Maker](https://rukario.github.io/Schande/Uninteresting%20stuff/APNG%20Maker.html) - Create / Optimize APNG Images
+* [JPEG.rocks](https://jpeg.rocks/) - JPEG Re-Encoder
 * [JPEGMedic ARWE](https://www.jpegmedic.com/tools/jpegmedic-arwe/) - Recover Ransomware-Encrypted Images
 * [CamScanner](https://apps.apple.com/us/app/camscanner-pdf-scanner-app/id388627783) or [Microsoft Lens](https://apps.apple.com/us/app/microsoft-lens-pdf-scanner/id975925059) - Scan & Digitize Documents / iOS
 * [FaceSwapApp](https://face-swap.app/) / [Discord](https://discord.gg/D8wYxUvwTD), [Swapface](https://swapface.org/) / [Discord](https://discord.com/invite/5yPew6Cy6a), [faceswap](https://faceswap.dev/), [AIFaceSwap](https://aifaceswap.io/), [Swapper](https://icons8.com/swapper) or [FaceFusion](https://github.com/facefusion/facefusion) - Face Swapping
