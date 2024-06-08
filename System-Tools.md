@@ -381,6 +381,7 @@
 * [BiOSBug](https://www.biosbug.com/) - Remove / Reset BiOS Password / [Tutorial](https://www.youtube.com/watch?v=GolIjI2HS5w)
 * [BIOS-PW](https://bios-pw.org/) - System Password Recovery Tools
 * [PC Health Check](https://aka.ms/GetPCHealthCheckApp) or [WhyNotWin11](https://github.com/rcmaehl/WhyNotWin11) - Identify why your PC isn't Windows 11 ready
+* [Medicat](https://medicatusb.com/) - All in one ventoy toolkit for repairing windows computers
 
 ***
 
