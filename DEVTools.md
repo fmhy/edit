@@ -229,6 +229,7 @@
 * ↪️ **[Game Development Assets](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_game_development_assets)**
 * ⭐ **[SpriteFusion](https://www.spritefusion.com/)** - Tilemap Editor / [Discord](https://discord.gg/8sCEAspmBV)
 * [PICO-8](https://mboffin.itch.io/pico8-educational-toolset) - Basic Game Development Concepts / [Web Version](https://www.pico-8-edu.com/)
+* [From Zero To Hero](https://therealpenaz91.itch.io/2dgd-f0th) - 2D Game Development Book
 * [SebastianLague](https://www.youtube.com/c/SebastianLague/playlists?view=50&sort=dd&shelf_id=4) - Game Development Tutorials
 * [Trig for Games](https://demoman.net/?a=trig-for-games) - Trigonometry Lessons for Games
 * [Game Math](https://gamemath.com/book/intro.html) - Mathematics Lessons for Game Devs
@@ -507,6 +508,7 @@
 * [Machine Learning Roadmap](https://rentry.org/machine-learning-roadmap), [SAAYN](https://spreadsheets-are-all-you-need.ai/), [machine-learning-zoomcamp](https://github.com/DataTalksClub/machine-learning-zoomcamp) or [LLM Course](https://github.com/mlabonne/llm-course) - Learn Machine Learning
 * [LLM Training](https://rentry.org/llm-training) - LLM Training Guide
 * [TeachableMachine](https://teachablemachine.withgoogle.com/) or [TensorFlow](https://www.tensorflow.org/) - Create Machine Learning Models
+* [Google AI Studio](https://aistudio.google.com/) - Generative Model Prototyping
 * [DVC](https://dvc.org/) - Machine Learning Version Control
 * [DeepSpeed](https://www.deepspeed.ai/) - Deep Learning Optimization Library
 * [FlowiseAI](https://flowiseai.com/) - LLM Flow Visualization
@@ -577,6 +579,7 @@
 * [Package Control](https://packagecontrol.io/) - Sublime Text Package Manager
 * [editorcornfig](https://editorconfig.org/) - Maintain Code Styles Across Editors
 * [ThemesElection](https://themeselection.com/), [NordTheme](https://www.nordtheme.com/) or [Dracula](https://draculatheme.com/) - Code Editor Themes
+* [Freeze](https://github.com/charmbracelet/freeze) - Generate Images of Code / Terminal Output
 
 ***
 
@@ -686,7 +689,7 @@
 * [Beej's Guides](https://www.beej.us/guide/) or [LearnByExample](https://learnbyexample.github.io/) - Programming Guides
 * [HelloWorldCollection](http://helloworldcollection.de/) - Hello World Programming Collection
 * [CodeTriage](https://www.codetriage.com/) - Learn Coding by Building Projects
-* [Codecademy](https://www.codecademy.com/) - Coding Lessons
+* [Codecademy](https://www.codecademy.com/) or [Coddy](https://coddy.tech/) - Coding Lessons
 * [CodinGame](https://www.codingame.com/) - Games to Practice Coding / Programming
 * [Advent of Code](https://adventofcode.com/) - Programming Puzzles
 * [Karel The Robot](https://github.com/fredoverflow/karel) - Basic Programming Teaching Environment
@@ -1018,6 +1021,7 @@
 * [OpenChakra](https://openchakra.app/) or [Plate](https://platejs.org/) - React Code Editors
 * [React Suite](https://rsuitejs.com/) - React Components
 * [Bulletproof React](https://github.com/alan2207/bulletproof-react) - React App Architecture
+* [React Native Apps](https://github.com/ReactNativeNews/React-Native-Apps/) - React App Examples
 * [Aspect](https://sample-code.aspect.app/) - Copy React Code from Any Site
 * [Refine](https://refine.dev/) or [GitWit](https://gitwit.dev/) - React App Builders
 * [Alright](https://github.com/DoneDeal0/alright-react-app) - Generate React Apps
@@ -1079,6 +1083,7 @@
 * [Typeculator](https://typeculator.alexpaul.me/) - Type Scale Calculator
 * [WireFlow](https://wireflow.co/) - Flow Prototype Maker
 * [Lenis](https://lenis.studiofreight.com/) - Smooth Scroll Library
+* [AOS](https://michalsnik.github.io/aos/) - Animeate on Scroll Library
 * [Open Source Guides](https://opensource.guide/) - Open Source Software Tips / [GitHub](https://github.com/github/opensource.guide)
 * [free-website-translation](http://free-website-translation.com/), [transdict](http://transdict.com/meta/website.html) or [conveythis](https://www.conveythis.com/) - Website Translators
 * [Statically](https://statically.io/) - Load Websites Faster

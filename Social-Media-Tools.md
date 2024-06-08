@@ -15,7 +15,7 @@
 * [tumblr-utils](https://github.com/bbolli/tumblr-utils) - Tumblr Utilities
 * [Tumblr Savior](https://bjornstar.com/tumblr-savior) - Tumblr Dashboard Filter
 * [TumblrOriginalPostFinder](https://jetblackcode.com/TumblrOriginalPostFinder) - Tumblr Post Finder
-* [Pillowfort](https://www.pillowfort.social/) - Tumblr Alternative
+* [Pillowfort](https://www.pillowfort.social/) or [Cohost](https://cohost.org/) - Tumblr Alternatives
 
 ***
 
@@ -177,6 +177,7 @@
 * [Unreadit](https://app.mailbrew.com/unreadit) - Reddit Newsletters
 * [Reddit Shadow Ban Info](https://redd.it/1btuwel) - Check if You've been Shadowbanned
 * [Reddit Markdown Guide](https://www.reddit.com/wiki/markdown) - Learn Reddit Markdown
+* [Redbar](https://chromewebstore.google.com/detail/redbar-sidebar-for-reddit/gkclfabkdcgimggblodknofgkigbfcid) - Sidebar for Reddit
 * [Reddit Preview](https://redditpreview.com/) - Preview Reddit Posts
 * [Redirect Privated](https://greasyfork.org/en/scripts/468945) - Redirect Private Pages to Cached Versions
 * [redditpx](https://www.redditpx.com/) or [Redditp](https://redditp.com/) - Reddit Image / Video Slideshows
@@ -221,6 +222,7 @@
 * [tildes](https://tildes.net/) - Reddit Alt
 * [Upgoat](https://www.upgoat.net/) - Reddit Alt
 * [Scored](https://communities.win/) - Reddit Alt
+* [Ramble](https://ramble.pw/) - Reddit Alt
 * [Squabblr](https://squabblr.co/) - Reddit Alt
 * [Discuit](https://discuit.net/) - Reddit Alt
 
@@ -233,7 +235,7 @@
 * ⭐ **[Reveddit](https://www.reveddit.com/)** or [Unedit](https://denvercoder1.github.io/unedit-for-reddit/) - View Deleted Reddit Posts
 * [ReSavr](https://www.resavr.com/) or [Comment History](https://academictorrents.com/details/89d24ff9d5fbc1efcdaf9d7689d72b7548f699fc) - Reddit Comment Archives
 * [RSOG](https://www.rsog.org/) - Reddit Search on Google / [Userscript](https://greasyfork.org/en/scripts/462356)
-* [Expanse](https://github.com/jc9108/expanse), [redarcs](https://the-eye.eu/redarcs/) or [Reddit Archive](https://www.redditarchive.com/) - Reddit Post Archive Tools / [Note](https://ibb.co/R9jC5bk)
+* [Expanse](https://github.com/jc9108/expanse), [redarcs](https://the-eye.eu/redarcs/), [Rareddit](https://www.rareddit.com/) or [Reddit Archive](https://www.redditarchive.com/) - Reddit Post Archive Tools / [Note](https://ibb.co/R9jC5bk)
 * [RedditMetis](https://redditmetis.com/), [Reddit-User-Analyser](https://reddit-user-analyser.netlify.app/) or [Redective](https://www.redective.com/) - Reddit Profile Information
 * [Reddit Comment Search](https://www.redditcommentsearch.com/) - Search Reddit Comments
 * [rComments](https://github.com/iampueroo/rComments) - Explore Comments / Replies without Clicking a Post
@@ -361,6 +363,7 @@
 * [Playlist Creator for YouTube](https://chromewebstore.google.com/detail/drag-drop-playlist-creato/aklnkkbopjjemjlkffhamaepagbmblbg) or [Playlists at YouTube](https://playlists.at/youtube/) - Playlists Creators
 * [Anon Playlists](https://neverducky.github.io/anonymous-youtube-playlists/) - Create Anon Playlists
 * [ytcc](https://github.com/woefe/ytcc) or [Multiselect](https://addons.mozilla.org/en-US/firefox/addon/multiselect-for-youtube/), [2](https://chromewebstore.google.com/detail/gpgbiinpmelaihndlegbgfkmnpofgfei) - Playlist Managers
+* [YTPlaylistSorter](https://ytplaylistsorter.carterrj.co.uk/index.php) - Sorts YT Playlists
 * [playlist.tools](https://playlist.tools/) - YouTube Playlist Reverser
 * [Playlist Randomizer](https://playlist-randomizer.com/) - YouTube Playlist Randomizer
 * [YT Playlist Length](https://ytplaylist-len.sharats.dev/) - Playlist Length Checker
@@ -613,7 +616,7 @@
 * [Twitter Demetricator](https://bengrosser.com/projects/twitter-demetricator/) - Remove All Twitter Metrics
 * [Thread Reader App](https://threadreaderapp.com/) - Unroll Twitter Threads / Search
 * [Relink](https://www.relink.page/) - Fix Twitter Link Images
-* [Hide Content Warning](https://greasyfork.org/en/scripts/437359) - Remove Sensitive Content Blur
+* [Hide Content Warning](https://greasyfork.org/en/scripts/437359) or [Disable Blur](https://userstyles.world/style/15658/) - Remove Sensitive Content Blur
 
 ***
 

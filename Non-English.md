@@ -611,6 +611,7 @@
 * [Bollyfunserial](https://freewatchserialonline.com/) - South Asian TV / Dub / 720p
 * [PakBcn](http://www.pakbcn.one/) - South Asian TV / Live / Dub / 720p
 * [DesiRulez](https://desirulez.co/) - Live TV
+* [Indian IPTV App](https://github.com/kananinirav/Indian-IPTV-App) - IPTV Android App
 * [Anime World India](https://anime-world.in/) - Cartoons / Anime / Sub / Dub / 1080p / [Discord](https://discord.com/invite/c3ete48q8H)
 * [kukufm.com](https://kukufm.com/) - Podcasts / Radio / Audiobooks
 * [OnlineFMRadio](https://www.onlinefmradio.in/) - Radio
@@ -1761,7 +1762,7 @@
 
 ## ▷ Streaming
 
-* [BiluTV](https://bilutv.link/) - Movies / TV / Anime
+* [BiluTV](https://bilutvw.com/) - Movies / TV / Anime
 * [MotChill](https://motchilli.vip/) - Movies / TV
 * [PhimMoi](https://phimmoiiii.net/) - Movies / TV
 * [Danet](https://danet.vn/) - Movies / TV
@@ -1807,6 +1808,7 @@
 ## ▷ Reading
 
 * ⭐ **[hoc10](https://hoc10.vn/)** - Textbooks, Study Material, Lecture Notes etc.
+* [Thư  Viện Pháp Luật](https://thuvienphapluat.vn/) - Legal Information Portal / [Facebook] (https://www.facebook.com/ThuVienPhapLuat.vn/) 
 * [SachVui](https://sachvuii.com/) - Books / [Direct Links](https://greasyfork.org/en/scripts/488558)
 * [MeTaiSach](https://metaisach.com/) - Books
 * [DocSachHay](https://docsachhay.net/) - Books
