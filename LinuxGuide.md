@@ -113,19 +113,6 @@
 
 ***
 
-## ▷ Desktop Environments
-
-* ⭐ **[Xfce](https://xfce.org/)** - Desktop Environment
-* ⭐ **[GNOME](https://www.gnome.org/)** - Desktop Environment
-* ⭐ **[KDE Plasma](https://kde.org/)** - Desktop Environment
-* [Budgie](https://buddiesofbudgie.org/) - Desktop Environment
-* [Cinnamon](https://github.com/linuxmint/Cinnamon) - Desktop Environment
-* [MATE](https://mate-desktop.org/) - Desktop Environment
-* [LXQt](https://lxqt-project.org/) - Lightweight Desktop Environment
-* [LXDE](https://www.lxde.org/) - Lightweight Desktop Environment
-
-***
-
 ## ▷ Window Managers
 
 * **Note** - Most Window Managers have a steep learning curve. Customization (or "ricing") is a requirement. [See below](https://fmhy.net/linuxguide#ricing-customization) for some resources.
