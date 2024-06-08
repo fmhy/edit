@@ -416,8 +416,7 @@
 
 ## ▷ Temporary Email Sites
 
-* **Note** - Establish criteria (different collumn meanings):
-             Gmail, etc. Support Status / Email Address Lifespan (Until you delete it) / Inbox Messages Lifespan / No. of Domains to Choose From
+* **Note** - If you're looking for something more private but still anonymous, check out our [Email Aliasing]() section. **Tag information:** Gmail, etc. Support Status **/** Address Lifespan (or until you delete it) **/** Messages Lifespan **/** No. of Domains Available.
 
 ***
 
@@ -426,6 +425,7 @@
 * ⭐ **[Gmailnator](https://www.emailnator.com/)** - Gmail / Forever / 1 Day / 6 Domains
 * ⭐ **[Inboxes](https://inboxes.com/)** - Forever / 7 Days / 19 Domains
 * ⭐ **[Mail.tm](https://mail.tm/)** - Forever / 7 Days / 1 Domain
+* ⭐ **[burner.kiwi](https://burner.kiwi/)** - 1 Day / 1 Day / 3 Domains
 * [Tmail.io](https://tmail.io/) - Gmail / Forever / 1 Day / 4 Domains
 * [22.Do](https://22.do/) - Gmail / 1 Day / 1 Day / 3 Domains
 * [Mailnesia](https://mailnesia.com/) - Forever / 2 Days / 1 Domain
@@ -433,9 +433,29 @@
 * [Guerrilla Mail](https://www.guerrillamail.com/) - Forever / 1 Hour / 11 Domains
 * [Temp Mail](https://temp-mail.org/) - Forever / 1 Hour / 4 Domains / [10 Minute Email](https://temp-mail.org/10minutemail)
 * [Adguard Temp Mail](https://adguard.com/adguard-temp-mail/overview.html) - 7 Days / 1 Day / 1 Domain
-* [burner.kiwi](https://burner.kiwi/) - 1 Day / 1 Day / 3 Domains
 * [Vmail.DEV](https://vmail.dev/) - 1 Day / 1 Day / 2 Domains
 * [Mail.cx](https://mail.cx/) - 1 Day / 12 Hours / 5 Domains
+---
+* [Generator.email](https://generator.email/)
+* [Email on Deck](https://www.emailondeck.com/)
+* [Mohmal](https://www.mohmal.com/en)
+* [eyepaste](https://www.eyepaste.com/)
+* [mintemail](https://www.mintemail.com/)
+* [sharklasers](https://www.sharklasers.com/)
+* [YOPmail](https://yopmail.com/email-generator)
+* [mail.td](https://mail.td/)
+* [dropmail](https://dropmail.me/en/)
+* [cryptogmail](https://cryptogmail.com/)
+* [inboxkitten](https://inboxkitten.com/)
+* [anonymmail](https://anonymmail.net/)
+* [tmailweb](https://tmailweb.com/)
+* [moakt](https://www.moakt.com/)
+* [linshi-email](https://www.linshi-email.com/en)
+* [disposablemail](https://www.disposablemail.com/)
+* [trashmail](https://trashmail.ws/)
+* [mailtemp](https://mailtemp.top/)
+* [mail-temp](https://mail-temp.com/)
+* [1secmail](https://www.1secmail.com/)
 ---
 * [luxusmail](https://luxusmail.org/)
 * [spambox](https://spambox.xyz/)
@@ -449,13 +469,6 @@
 * [tmail.gg](https://tmail.gg/en)
 * [gettempemail](https://gettempemail.com/)
 * [dispostable](https://www.dispostable.com/)
-* [trashmail](https://trashmail.com/)
-* [email.ml](https://email.ml/)
-* [edumail](https://edumail.icu/)
-* [snapmail](https://www.snapmail.cc/)
-* [email1](https://email1.io/)
-* [cs.email](https://cs.email/)
-* [haribu](https://haribu.net/)
 ---
 * [FakeMailGenerator](https://www.fakemailgenerator.com/)
 * [emailfake](https://emailfake.com/)
@@ -480,29 +493,6 @@
 * [tempmail.email](https://tempmail.email/)
 * [tempinbox](https://www.tempinbox.xyz/)
 * [temp-mailbox](https://temp-mailbox.com/)
----
-* [anonbox](https://anonbox.net/)
-* [Generator.email](https://generator.email/)
-* [kuku](https://m.kuku.lu/)
-* [Email on Deck](https://www.emailondeck.com/)
-* [Mohmal](https://www.mohmal.com/en)
-* [eyepaste](https://www.eyepaste.com/)
-* [mintemail](https://www.mintemail.com/)
-* [sharklasers](https://www.sharklasers.com/)
-* [YOPmail](https://yopmail.com/email-generator)
-* [mail.td](https://mail.td/)
-* [dropmail](https://dropmail.me/en/)
-* [cryptogmail](https://cryptogmail.com/)
-* [inboxkitten](https://inboxkitten.com/)
-* [anonymmail](https://anonymmail.net/)
-* [tmailweb](https://tmailweb.com/)
-* [moakt](https://www.moakt.com/)
-* [linshi-email](https://www.linshi-email.com/en)
-* [disposablemail](https://www.disposablemail.com/)
-* [trashmail](https://trashmail.ws/)
-* [mailtemp](https://mailtemp.top/)
-* [mail-temp](https://mail-temp.com/)
-* [1secmail](https://www.1secmail.com/)
 ---
 * [Bloody Vikings!](https://addons.mozilla.org/en-US/firefox/addon/bloody-vikings/) - Temp Email Extension
 * [10minutesemail.net](https://10minutesemail.net/), [10minutemail.net](https://10minutemail.net/), [lite14.us](https://www.lite14.us/10minutemail/), [10minutemail.com](https://10minutemail.com/) or [MinuteInbox](https://minuteinbox.com/) - 10 Minute Lifespan Emails
