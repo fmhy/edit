@@ -495,6 +495,7 @@
 * [GoodCalculators](https://goodcalculators.com/) - Calculators
 * [GigaCalculator](https://www.gigacalculator.com/) - Calculators
 * [numbr.dev](https://numbr.dev/) - Calculators
+* [Aqua Calc](https://www.aqua-calc.com/) - Calculators
 * [Qalculate](https://qalculate.github.io/) - Desktop Calculator
 * [QwikTape](https://github.com/4silvertooth/QwikTape) - Note Style Calculator
 * [MathB.in](https://mathb.in/) - Mathematics pastebin with LaTeX and Markdown
