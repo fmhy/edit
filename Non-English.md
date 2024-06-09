@@ -1808,7 +1808,7 @@
 ## ▷ Reading
 
 * ⭐ **[hoc10](https://hoc10.vn/)** - Textbooks, Study Material, Lecture Notes etc.
-* [Thư  Viện Pháp Luật](https://thuvienphapluat.vn/) - Legal Information Portal / [Facebook] (https://www.facebook.com/ThuVienPhapLuat.vn/) 
+* ⭐ **[Thư  Viện Pháp Luật](https://thuvienphapluat.vn/)** - Legal Information Portal / [Facebook](https://www.facebook.com/ThuVienPhapLuat.vn/) 
 * [SachVui](https://sachvuii.com/) - Books / [Direct Links](https://greasyfork.org/en/scripts/488558)
 * [MeTaiSach](https://metaisach.com/) - Books
 * [DocSachHay](https://docsachhay.net/) - Books
