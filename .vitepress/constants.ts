@@ -19,18 +19,54 @@ export const feedback = `<a href="/feedback" class="feedback-footer">Made with â
 export const search: DefaultTheme.Config['search'] = {
   options: {
     miniSearch: {
+      options: {
+        tokenize: (text) => text.split(/[\n\r #%*,=/:;?[\]{}()&]+/u), // simplified charset: removed [-_.@] and non-english chars (diacritics etc.)
+        processTerm: (term, fieldName) => {
+          term = term
+            .trim()
+            .toLowerCase()
+            .replace(/^\.+/, '')
+            .replace(/\.+$/, '')
+          const stopWords = [
+            'frontmatter',
+            '$frontmatter.synopsis',
+            'and',
+            'about',
+            'but',
+            'now',
+            'the',
+            'with',
+            'you'
+          ]
+          if (term.length < 2 || stopWords.includes(term)) return false
+
+          if (fieldName === 'text') {
+            const parts = term.split('.')
+            if (parts.length > 1) {
+              const newTerms = [term, ...parts]
+                .filter((t) => t.length >= 2)
+                .filter((t) => !stopWords.includes(t))
+              return newTerms
+            }
+          }
+          return term
+        }
+      },
       searchOptions: {
         combineWith: 'AND',
-        fuzzy: false,
+        fuzzy: true,
         // @ts-ignore
         boostDocument: (
-          _,
+          documentId,
           term,
           storedFields: Record<string, string | string[]>
         ) => {
           const titles = (storedFields?.titles as string[])
             .filter((t) => Boolean(t))
             .map((t) => t.toLowerCase())
+          // Downrank posts
+          if (documentId.match(/\/posts/)) return -5
+
           // Uprate if term appears in titles. Add bonus for higher levels (i.e. lower index)
           const titleIndex =
             titles

@@ -488,6 +488,7 @@
 * [NakedSkins](https://www.nakedskins.com/) - Naked Skins for Games
 * [WickedWhims](https://wickedwhimsmod.com/index) - NSFW Sims Mod
 * [HDoomGuy](https://hdoomguy.newgrounds.com/) - NSFW Doom Mod
+* [Sagaoz](https://sagaoz.net/savedata/) - Japanese Visual Novel Save Files
 * [FapCraft](https://fapcraft.org/) - NSFW Minecraft Mod
 * [Minegasm](https://www.minegasm.net/) - Connect Minecraft to Sex Toys
 * [AdultOyunÇeviri](https://adultoyunceviri.com) - Turkish Game Localizations
