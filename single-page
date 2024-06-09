@@ -8814,7 +8814,6 @@ onMounted(() => {
 * [AutoPagerize Advanced](https://addons.mozilla.org/en-US/firefox/addon/autopagerizeadvanced/) - Merge Multiple Pages
 * [Profile Switcher](https://github.com/null-dev/firefox-profile-switcher) - Profile Manager
 * [Always Visible](https://addons.mozilla.org/en-US/firefox/addon/always-visible/) - Always Active / On-Top Window
-* [600% Sound Volume](https://addons.mozilla.org/en-US/firefox/addon/600-sound-volume/) - Volume Booster
 * [SoundFixer](https://github.com/valpackett/soundfixer) - Fixes Audio Playing in one Channel
 * [Mute Sites By Default](https://github.com/abba23/mute-sites-by-default) - Mute All Sites by Default
 * [Read Aloud](https://readaloud.app/) - Text to Speech
