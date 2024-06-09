@@ -266,7 +266,7 @@
 
 # ► File Hosts
 
-* **Note** - Keep in mind that it's **never** a good idea to upload personal files to file hosts, even if they claim to be encrypted. The size describes the file size limit only and the time describes file expiry. Most file hosts will only remove due to inactivity, i.e. days since last download/view.
+* **Note** - Keep in mind that it's **never** a good idea to upload personal files to file hosts, even if they claim to be encrypted. **Tag Information:** The size describes the file size limit only and the time describes file expiry. Most file hosts will only remove due to inactivity, i.e. days since last download/view.
 
 ***
 
@@ -283,7 +283,7 @@
 * ⭐ **[Qiwi](https://qiwi.gg)** - [Note](https://pastebin.com/QJDbgtRJ) / Account Required
 * [MultiUp.io](https://multiup.io/) / [Extract / Upload](https://github.com/Reddiepoint/MultiUp-Direct), [MirrorAce](https://mirrorace.com/), or [Mirrored.to](https://www.mirrored.to/) - Multi Host Uploaders
 * [Z-o-o-m](https://z-o-o-m.eu/) - Multi-Host Upload Desktop App
-* [Filebin](https://filebin.net/) - Unlimited / 6 Days / [Note](https://pastebin.com/W0j4VDAN)
+* [Filebin](https://filebin.net/) - Unlimited / 6 Days / [Warning](https://pastebin.com/W0j4VDAN)
 * [file.kiwi](https://file.kiwi/) - Unlimited / 3.75 Days
 * [FEX.NET](https://fex.net/) - 100GB total / 7 Days
 * [SwissTransfer](https://www.swisstransfer.com/en) - 50GB / 30 Days / 250 Download Limit
@@ -309,18 +309,7 @@
 * [megaup](https://megaup.net/) - 5GB / 60 days
 * [ufile](https://ufile.io/) - 5GB / 30 days
 * [Lufi](https://upload.disroot.org/) - 5GB / 30 days
-* [sendbig](https://www.sendbig.com/) - 5GB / 7 days
-* [Smash](https://fromsmash.com/) - 2GB / 7 days
-* [alfafile](https://www.alfafile.net/) - 5GB / 30 days / Signup Required
-* [drop.download](https://drop.download/) - 5GB / 15 days / Signup Required
-* [clicknupload](https://clicknupload.co/) - 2GB / 12 Days or 5GB / 30 Days on sign-up
-* [doodrive](https://doodrive.com/) - 2GB / 30 days / Signup Required
-* [DropMB](https://dropmb.com/) - 2GB / 1 Year
-* [Imagenetz](https://www.imagenetz.de/) - 2GB / 90 days
-* [filelu](https://filelu.com/) - 15GB / 10 days
-* [fileconvoy](https://www.fileconvoy.com/) - 3GB / 21 days total
-* [filetransfer](https://filetransfer.io/) - 6GB / 21 days total / 50 download limit
-* [swisstransfer](https://www.swisstransfer.com/en) - 50GB / 30 days total / 250 download limit
+* [alfafile](https://www.alfafile.net/) - 5GB / 30 days / Account Required
 * [bowfile](https://bowfile.com/) - 5GB / 30 days total
 * [drop.download](https://drop.download/) - 5GB / 15 days / Account Required
 * [Internxt](https://send.internxt.com/) - 5GB / 100 files / 14 days
