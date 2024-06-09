@@ -623,6 +623,7 @@
 * [Rain](https://github.com/DarkMooNight/Rain)
 * [KWeather](https://invent.kde.org/utilities/kweather)
 * [WeatherWise](https://github.com/MGAndroidProjects/WeatherWise-Releases)
+* [OpenWeather](https://play.google.com/store/apps/details?id=uk.co.openweather)
 * [Bura](https://github.com/davidtakac/bura)
 * [omWeather](https://github.com/woheller69/omweather)
 * [Suntimes](https://github.com/forrestguice/SuntimesWidget) - Sunlight / Moonlight Display App
@@ -838,8 +839,7 @@
 * [PipePipe](https://github.com/InfinityLoop1308/PipePipe) - Bilibili / NicoNico Client
 * [Bilibili Evolved](https://github.com/the1812/Bilibili-Evolved) - Bilibili Client
 * [ScreenStream](https://github.com/dkrivoruchko/ScreenStream) - Cast Device to Screen
-* [Tunity](https://tunity.com/) - Hear Muted TVs
-* [Showly OSS](https://github.com/1RandomDev/showly-oss) - TV Tracker / Ad-Free
+* [MovieDB](https://github.com/WirelessAlien/MovieDB) - TMDB App
 * [Unchained for Android](https://github.com/LivingWithHippos/unchained-android) - Interact with Real-Debrid API
 * [How to Extract Widevine L3 CDM from Android](https://pastebin.com/zhpa3XSD)
 
@@ -866,6 +866,8 @@
 * [Live Sports HD](https://forum.mobilism.org/search.php?keywords=Live+Sports+HD+TV&sr=topics&sf=titleonly) - Sports
 * [Live NetTV](https://www.livenettv.bz/)
 * [FreeTV](https://phstudio2.github.io/FreeTV/) / [GitHub](https://github.com/phstudio2/FreeTV)
+* [Tunity](https://tunity.com/) - Hear Muted TVs
+* [Showly OSS](https://github.com/1RandomDev/showly-oss) - TV Tracker / Ad-Free
 
 ***
 
