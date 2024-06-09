@@ -543,7 +543,6 @@
 * ⭐ **[MoreWords](https://www.morewords.com/)** , [PlayScrabble](https://playscrabble.com/)or [WordHub](https://wordhub.com/) - Scrabble
 * ⭐ **[Rubik’s Cube Explorer](https://iamthecu.be/)**, [Grubiks](https://www.grubiks.com/), [pCubes](https://twistypuzzles.com/forum/viewtopic.php?f=1&t=27054) or [The Cube](https://bsehovac.github.io/the-cube/) - Rubix Cubes / [Solver](https://rubiksolve.com/), [2](https://rubiks-cube-solver.com/)
 * ⭐ **[jiggie](https://jiggie.fun/)** - Custom Puzzles + Multiplayer
-* [PROXX](https://proxx.app/) - Minesweeper
 * [Puzzle Party](https://artsandculture.google.com/experiment/puzzle-party/EwGBPZlIzv0KRw) - Multiplayer Jigsaws
 * [PuzzlePrime](https://www.puzzleprime.com/) - Problems / Puzzles
 * [HoverCats](https://hovercats.gg/) - Multiplayer Crosswords
