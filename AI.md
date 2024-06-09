@@ -28,7 +28,7 @@
 * ⭐ **[Perplexity](https://www.perplexity.ai/)** - GPT-3.5 Powered Search / [Open Source Models](https://labs.perplexity.ai/)
 * ⭐ **[groq](https://groq.com/)** - LLama 3 and Mixtral Chatbots
 * ⭐ **[LMSYS Chat](https://chat.lmsys.org/)** - Chat and Compare Multiple Chatbots
-* [LLM Playground](https://llmplayground.net/) - Multiple Chatbots / [Discord](https://discord.com/invite/q55gsH8z5F)
+* [LLM Playground](https://llmplayground.net/) - Multiple Chatbots / [Discord](https://discord.com/invite/q55gsH8z5F) / [API](https://api.discord.rocks/)
 * [CoolAGI](https://coolagi.vercel.app/) - GPT-4 Turbo Chatbot / [Note](https://rentry.co/coolaginotice)
 * [feyn](https://feyn.chat/) - GPT-4o / Multiple Chatbots
 * [LibreChat](https://librechat.ai/) - Multiple Chatbots
