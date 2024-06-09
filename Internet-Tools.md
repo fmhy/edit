@@ -416,7 +416,7 @@
 
 ## ▷ Temporary Email Sites
 
-* **Note** - If you're looking for something more private but still anonymous, check out our [Email Aliasing]() section. **Tag information:** Gmail, etc. Support Status **/** Address Lifespan (or until you delete it) **/** Messages Lifespan **/** No. of Domains Available.
+* **Note** - If you're looking for something more private but still anonymous, check out our [Email Aliasing]() section. **Tag Information:** Gmail, etc. Support Status **/** Address Lifespan (or until you delete it) **/** Messages Lifespan **/** No. of Domains Available.
 
 ***
 
@@ -436,10 +436,20 @@
 * [Vmail.DEV](https://vmail.dev/) - 1 Day / 1 Day / 2 Domains
 * [Mail.cx](https://mail.cx/) - 1 Day / 12 Hours / 5 Domains
 ---
+* [receivemail](https://www.receivemail.org/)
+* [instant-email](https://instant-email.org/)
+* [emailtemp](https://emailtemp.org/)
+* [emaildrop](https://www.emaildrop.io/)
+* [tmailor](https://tmailor.com/)
+* [bottlemail](https://bottlemail.org/)
+* [internxt](https://internxt.com/temporary-email)
+* [tmail.gg](https://tmail.gg/en)
+* [gettempemail](https://gettempemail.com/)
+* [dispostable](https://www.dispostable.com/)
+---
 * [Generator.email](https://generator.email/)
 * [Email on Deck](https://www.emailondeck.com/)
 * [Mohmal](https://www.mohmal.com/en)
-* [eyepaste](https://www.eyepaste.com/)
 * [mintemail](https://www.mintemail.com/)
 * [sharklasers](https://www.sharklasers.com/)
 * [YOPmail](https://yopmail.com/email-generator)
@@ -452,23 +462,9 @@
 * [moakt](https://www.moakt.com/)
 * [linshi-email](https://www.linshi-email.com/en)
 * [disposablemail](https://www.disposablemail.com/)
-* [trashmail](https://trashmail.ws/)
 * [mailtemp](https://mailtemp.top/)
 * [mail-temp](https://mail-temp.com/)
 * [1secmail](https://www.1secmail.com/)
----
-* [luxusmail](https://luxusmail.org/)
-* [spambox](https://spambox.xyz/)
-* [receivemail](https://www.receivemail.org/)
-* [instant-email](https://instant-email.org/)
-* [emailtemp](https://emailtemp.org/)
-* [emaildrop](https://www.emaildrop.io/)
-* [tmailor](https://tmailor.com/)
-* [bottlemail](https://bottlemail.org/)
-* [internxt](https://internxt.com/temporary-email)
-* [tmail.gg](https://tmail.gg/en)
-* [gettempemail](https://gettempemail.com/)
-* [dispostable](https://www.dispostable.com/)
 ---
 * [FakeMailGenerator](https://www.fakemailgenerator.com/)
 * [emailfake](https://emailfake.com/)
