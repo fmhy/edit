@@ -911,7 +911,7 @@
 * ⭐ **[Google Play Books](https://play.google.com/books)** - Store Pirated Books / Get Metadata Automatically
 * ⭐ **[Foxit](https://www.foxit.com/pdf-reader/)** - PDF Reader / PC / Android / iOS / Linux / Mac
 * ⭐ **[Koodo](https://www.koodoreader.com/)** - Ebook Reader / PC / Mac / Linux / [GitHub](https://github.com/troyeguo/koodo-reader)
-* ⭐ **[SumatraPDFReader](https://www.sumatrapdfreader.org/free-pdf-reader)** - PDF / PC
+* ⭐ **[SumatraPDFReader](https://www.sumatrapdfreader.org/free-pdf-reader)** - Ebook Reader / PDF / PC
 * ⭐ **[Calibre](https://calibre-ebook.com/)** - Ebook Reader / PC / Android / iOS
 * ⭐ **[EinkBro](https://github.com/plateaukao/einkbro)** - E-Ink Browser
 * [Postlight](https://reader.postlight.com/), [Reader Mode](https://readermode.io/) or [Tranquility](https://addons.mozilla.org/en-GB/firefox/addon/tranquility-1/) - Article Readers / Managers
