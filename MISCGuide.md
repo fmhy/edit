@@ -1043,7 +1043,8 @@
 * [goonlinetools](https://goonlinetools.com/) - Text / Encode-Decode / Code / Random / Image
 * [10015.io](https://10015.io/) - Text / Image / Code / Colors
 * [RandomTools](https://randomtools.io/) - Social Media / Text / Image / Code
-* [AppsCyborg](https://appscyborg.com/) - File Conversion / Media 
+* [IPVoid](https://www.ipvoid.com/) - Text / IP
+* [AppsCyborg](https://appscyborg.com/) - File Conversion / Media
 * [onlinetools](https://onlinetools.com/) - File Specific Tools
 * [a.tools](https://www.a.tools/) - Text / Image / Code / Cryptography
 * [123Apps](https://123apps.com/) - Multimedia / File Conversion / PDF
@@ -1065,6 +1066,7 @@
 * ⭐ **[Super-Productivity](http://super-productivity.com)** - Time Tacker / Productivity App / To-Do List
 * ⭐ **[Habitica](https://habitica.com/)** - Achievement Style Productivity App
 * ⭐ **[Timeblocking](https://timeblocking.atomiclife.app/)** - Online Atomic Time Blocking
+* [/r/GetMotivated](https://www.reddit.com/r/GetMotivated/) - Motivational Community
 * [Freeter](https://freeter.io) - Work Organizer / [GitHub](https://github.com/FreeterApp/Freeter)
 * [VisualizeHabit](https://visualizehabit.com/) - Habit Tracking
 * [Cold Turkey](https://getcoldturkey.com/) - Site Blocker / Productivity App / [Premium (use python)](https://rentry.co/FMHYBase64#cold-turkey-premium)
@@ -1368,8 +1370,7 @@
 * [Michaelbach](https://michaelbach.de/ot/) - Optical Illusions
 * [Strobe Illusion](https://strobe.cool/) - Hallucination Illusion
 * [Notpron](http://www.notpron.com/) - Worlds Hardest Internet Riddle
-* [Fun Trivia](https://www.funtrivia.com/) or [Sporcle](https://www.sporcle.com/) - Trivia
-* [ARealMe](https://www.arealme.com/) - Quiz Collection
+* [Fun Trivia](https://www.funtrivia.com/), [Sporcle](https://www.sporcle.com/), [ARealMe](https://www.arealme.com/) or [JetPunk](https://www.jetpunk.com/) - Quiz / Trivia
 * [Bestiefy](https://bestiefy.com/) - Friend Quizzes
 * [theOtaku](https://theotaku.com/quizzes) - Anime Personality Quizzes
 * [8dreams](https://8dreams.github.io/) - Political Alignment Test
