@@ -557,8 +557,8 @@
 
 # ► Audio Tools
 
-* 🌐 **[Music Megathread](https://github.com/MoonWalker440/Music-Megathread/)** - Audio Resource Index
-* 🌐 **[AudioMarx](https://audiomarx.mixa.site/)** - Audio Resource Index
+* 🌐 **[Music Megathread](https://github.com/MoonWalker440/Music-Megathread/)** or **[AudioMarx](https://audiomarx.mixa.site/)** - Audio Resources
+* 🌐 **[Binaural Audio](https://binaural-audio.slite.page/p/i38zsD7728/Binaural-Audio)** - Binaural / 3D Audio Resources / [Discord](https://kutt.it/BinauralDiscord)
 * ↪️ **[Album Artwork](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_covers_.2F_posters)**
 * ↪️ **[Voice Change / Clone](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/ai#wiki_.25B7_voice_change_.2F_clone)**
 * ↪️ **[Text to Speech](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/ai#wiki_.25B7_text_to_speech)**
