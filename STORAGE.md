@@ -578,6 +578,17 @@
 
 ***
 
+## LaTeX Tools
+
+* [Learn LaTeX](https://www.learnlatex.org/) - LaTeX Guide
+* [Lyx](https://www.lyx.org/), [Typst](https://typst.app/home), [TeXStudio](https://texstudio.org/) or [Papeeria](https://papeeria.com/) - LaTeX Editors
+* [Tables Generator](https://www.tablesgenerator.com/) - Create LaTeX Tables
+* [Tips for Writing a Research Paper using LaTeX](https://github.com/guanyingc/latex_paper_writing_tips)
+* [MathB.in](https://mathb.in/) - Share Mathematics with LaTeX and Markdown
+* [Math Scan](https://github.com/ekrem-qb/math_scan), [RapidLatexOCR](https://github.com/RapidAI/RapidLatexOCR) or [LaTeX-OCR](https://lukas-blecher.github.io/LaTeX-OCR/) - Extract Mathematical Expressions
+
+***
+
 ## LibGen Mirrors
 
 * https://libgen.rs/ - main
