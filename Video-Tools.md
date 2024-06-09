@@ -175,6 +175,7 @@
 * [Caracal Club](https://caracal.club/)
 * [CyTube](https://cytu.be/)
 * [VideoTogether](https://2gether.video/en-us/)
+* [PotatoLand](https://potato.land/)
 * [baked.live](https://baked.live/)
 * [Rave.io](https://rave.io/)
 * [twoseven](https://twoseven.xyz/)
