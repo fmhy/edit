@@ -287,7 +287,7 @@
 * [Shira](https://github.com/KraXen72/shira) - YouTube / SoundCloud / Bandcamp / 128kb AAC
 * [yewtube](https://github.com/mps-youtube/yewtube) - YouTube / 128kb AAC
 * [you-get](https://you-get.org/) - SoundCloud / Bilibili / 128kb MP3
-* [BandCamp-DL](https://github.com/iheanyi/bandcamp-dl) - Bandcamp / 128kbp MP3 / [Discord](https://discord.com/invite/nwdT4MP)
+* [BandCamp-DL](https://github.com/iheanyi/bandcamp-dl) - Bandcamp / 128kbp MP3 / [Discord](https://discord.com/invite/nwdT4MP) / Free Only
 
 ***
 
