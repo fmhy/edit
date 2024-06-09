@@ -3866,6 +3866,17 @@ outline: false
 
 ***
 
+## LaTeX Tools
+
+* [Learn LaTeX](https://www.learnlatex.org/) - LaTeX Guide
+* [Lyx](https://www.lyx.org/), [Typst](https://typst.app/home), [TeXStudio](https://texstudio.org/) or [Papeeria](https://papeeria.com/) - LaTeX Editors
+* [Tables Generator](https://www.tablesgenerator.com/) - Create LaTeX Tables
+* [Tips for Writing a Research Paper using LaTeX](https://github.com/guanyingc/latex_paper_writing_tips)
+* [MathB.in](https://mathb.in/) - Share Mathematics with LaTeX and Markdown
+* [Math Scan](https://github.com/ekrem-qb/math_scan), [RapidLatexOCR](https://github.com/RapidAI/RapidLatexOCR) or [LaTeX-OCR](https://lukas-blecher.github.io/LaTeX-OCR/) - Extract Mathematical Expressions
+
+***
+
 ## LibGen Mirrors
 
 * https://libgen.rs/ - main
@@ -7140,7 +7151,6 @@ Use this [browser extension](https://github.com/bpc-clone/bpc_updates/releases) 
 * ↪️ **[Study / Research](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu#wiki_.25B7_study_.2F_research)**
 * ⭐ **[RambleFix](https://ramblefix.com/)**, [SpeechTexter](https://www.speechtexter.com/), [SpeechNotes](https://speechnotes.co/), [LilySpeech](https://lilyspeech.com/), [VoiceToText](https://voicetotext.org/), [TalkTyper](https://talktyper.com/), [Dictation](https://dictation.io/speech) or [VoiceNotebook](https://voicenotebook.com/) - Speech to Text
 * ⭐ **[TextCleanr](https://www.textcleanr.com/)**, [Text Mechanic](https://textmechanic.com/), [TextFixer](https://www.textfixer.com/), [OnlineTextTools](https://onlinetexttools.com/), [Convert Case](https://convertcase.net/), [TextCleaner](https://textcleaner.net/all-tools/), [SortMyList](https://sortmylist.com/) or [The Alphabetizer](https://alphabetizer.flap.tv/) - Organize / Format Text
-* [Lyx](https://www.lyx.org/), [Typst](https://typst.app/home), [TeXStudio](https://texstudio.org/) or [Papeeria](https://papeeria.com/) - LaTeX Editors / [Guide](https://www.learnlatex.org/)
 * [OpenPaper](https://openpaper.work/en/), [papis](https://github.com/papis/papis), [PaperMerge](https://www.papermerge.com/), [Paperless-ngx](https://docs.paperless-ngx.com) or [DataShare](https://datashare.icij.org/) - Document Managers
 * [diffr](https://loilo.github.io/diffr/), [TextCompare](https://www.textcompare.org/), [Text-Compare](https://text-compare.com/) or [DiffNow](https://www.diffnow.com/) - Compare Text
 * [Count Duplicates](https://www.somacon.com/p568.php) or [DuplicateWord](https://duplicateword.com/) - Count / Remove Duplicates in a List
@@ -13768,6 +13778,7 @@ onMounted(() => {
 ## ▷ Math
 
 * 🌐 **[Awesome Math](https://github.com/rossant/awesome-math)** or [Math Resources](https://docs.google.com/document/d/1rtokzhpvkUPnymudl_ZVmfAA7H33VIyLQUpujNGwrTo/) - Math Resources
+* ↪️ **[LaTeX Tools]()**
 * ⭐ **[Number Academy](https://number.academy/)** - Encyclopedia of Numbers
 * ⭐ **[Microsoft Math Solver](https://math.microsoft.com/)**, [SpeedCrunch](https://speedcrunch.org/) or [MathPapa](https://www.mathpapa.com/algebra-calculator.html) - Advanced Calculator
 * ⭐ **[Cymath](https://www.cymath.com/)**, [PhotoMath](https://rentry.co/FMHYBase64#photomath), [Mathway](https://www.mathway.com/), [Math Solver](https://mathsolver.microsoft.com/en), [Tiger Algebra](https://www.tiger-algebra.com/) or [Symbolab](https://www.symbolab.com/) - Math Problem Solvers
@@ -13783,9 +13794,6 @@ onMounted(() => {
 * [Aqua Calc](https://www.aqua-calc.com/) - Calculators
 * [Qalculate](https://qalculate.github.io/) - Desktop Calculator
 * [QwikTape](https://github.com/4silvertooth/QwikTape) - Note Style Calculator
-* [MathB.in](https://mathb.in/) - Mathematics pastebin with LaTeX and Markdown
-* [Math Scan](https://github.com/ekrem-qb/math_scan), [RapidLatexOCR](https://github.com/RapidAI/RapidLatexOCR) or [LaTeX-OCR](https://lukas-blecher.github.io/LaTeX-OCR/) - Extract Mathematical Expressions
-* [Tables Generator](https://www.tablesgenerator.com/) - Create LaTeX Tables
 * [MatrixCalc](https://matrixcalc.org/en/) or [Reshish](https://matrix.reshish.com/) - Matrix Calculators
 * [Mathcha](https://www.mathcha.io/) or [Math Editor](https://math-editor.online/) - Online Math Editors
 * [EquatIO](https://chromewebstore.google.com/detail/equatio-math-made-digital/hjngolefdpdnooamgdldlkjgmdcmcjnc) - Math Equation Creator
@@ -14181,7 +14189,6 @@ onMounted(() => {
 * [Catma](https://catma.de/) - Research Markup & Analysis Tool
 * [BookStack](https://www.bookstackapp.com/) - Self-Hosted Information Manager
 * [OpenRefine](https://openrefine.org/) - Data Cleaning
-* [latex_paper_writing_tips](https://github.com/guanyingc/latex_paper_writing_tips) - Latex Research Paper Tips
 * [Taguette](https://app.taguette.org/) - Data Analysis Document Tagging
 * [Lurnby](https://www.lurnby.com) / [GitHub](https://github.com/Roznoshchik/Lurnby) or [StringMark](https://www.stringmark.com/) - Research Highlighting Tools
 * [Deepnote](https://deepnote.com/) - Data Science Notebook
