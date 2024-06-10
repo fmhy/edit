@@ -74,7 +74,6 @@
 * ⭐ **[PressPlay](https://www.pressplay.top/)** - Movies / TV / 1080p / [Discord](https://discord.gg/r4QrghF4B9)
 * ⭐ **[YesMovies](https://yesmovies.ag/)**, [2](https://ww4.solarmovie.to/), [3](https://ww5.0123movie.net/), [4](https://ww1.putlocker.vip/) - Movies / TV / 1080p
 * ⭐ **[LookMovie](https://lookmovie2.to/)** - Movies / TV / 720p / [Mirrors](https://proxymirrorlookmovie.github.io/)
-* [SusFlix](https://susflix.tv/) - TV / Sports / [Discord](https://discord.gg/BE7kTVezBN)
 * [Cinewave](https://discord.gg/ZrnqNtnbPy) - Movies / TV / Anime / 1080p / Jellyfin Required
 * [OnionPlay](https://onionplay.se/) - Movies / TV / 1080p / [Mirrors](https://onionplay.network/)
 * [FshareTV](https://fsharetv.co/) - Movies / 1080p
@@ -365,6 +364,7 @@
 * ⭐ **[watch.lonelil](https://watch.lonelil.ru/tv)** - TV / Sports / [Schedule](https://watch.lonelil.ru/schedule)
 * ⭐ **[DaddyLive](https://dlhd.sx/)** or [miztv](https://miztv.shop/), [2](https://miztv.ru/) - TV / Sport / [Discord](https://discord.gg/SgbjFVn6th)
 * [Braflix](https://www.braflix.so/) - TV / Sports / [Discord](https://discord.gg/wWKmxARaWH)
+* [SusFlix](https://susflix.tv/) - TV / Sports / [Discord](https://discord.gg/BE7kTVezBN)
 * [Xumo Play](https://play.xumo.com/networks) - TV / US only
 * [Pluto](https://pluto.tv/live-tv), [2](https://app-lgwebos.pluto.tv/live-tv) - TV / Sports / US Only
 * [Time4TV](https://time4tv.online/) - TV / Sports
