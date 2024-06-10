@@ -11979,6 +11979,7 @@ onMounted(() => {
 * ⭐ **[MPV](https://mpv.io/)** / [GUI](https://mpv-net.github.io/mpv.net-web-site/), [MPV-EASY-Player](https://github.com/422658476/MPV-EASY-Player) - Video Player / [Frontends](https://github.com/mpv-player/mpv/wiki/Applications-using-mpv)
 * ⭐ **[VLC](https://www.videolan.org/)** - Video Player
 * ⭐ **[Screenbox](https://github.com/huynhsontung/Screenbox)** - Video Player
+* [mov-cli](https://mov-cli.github.io/) - Streaming / Downloading CLI / [GitHub](https://github.com/mov-cli/mov-cli)
 * [Video Player Codecs](https://www.codecguide.com/)
 * [AVPlayer](http://www.awesomevideoplayer.com/) or [GridPlayer](https://github.com/vzhd1701/gridplayer) - Multi-Video Players
 * [SPlayer](https://www.splayer.org/) - Video Player w/ Smart Translation
