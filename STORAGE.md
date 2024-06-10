@@ -1002,7 +1002,7 @@
 
 ### FMovies Clones
 
-* [FlixHQ](https://flixhq.bz/)
+* [FlixHQ](https://flixhq.click/), [2](https://flixhq.bz/)
 * [FBox](https://fbox.to/)
 * [Movies7](https://movies7.to/)
 * [BFlix](https://bflix.to/)
@@ -1025,7 +1025,6 @@
 
 ### SFlix Clones
 
-* [FlixHQ.click](https://flixhq.click/)
 * [HiMovies](https://himovies.sx/)
 * [Solarmovies](https://solarmovies.win/)
 * [HuraMovies](https://huramovies.to/)
@@ -1068,6 +1067,7 @@
 * [Cataz](https://cataz.to)
 * [FMovie.ws](https://fmovie.ws/)
 * [FMovies.hn](https://fmovies.hn/)
+* [FlixHQ.to](https://flixhq.to)
 
 ***
 
