@@ -15146,7 +15146,7 @@ onMounted(() => {
 ## ▷ qBittorrent Tools
 
 * 🌐 **[QBT Plugins](https://github.com/qbittorrent/search-plugins?tab=readme-ov-file#search-plugins)** - Plugins Index
-* 🌐 **[QBT Themes](https://github.com/jagannatharjun/qbt-theme)** - Themes Index
+* 🌐 **[QBT Themes](https://github.com/qbittorrent/qBittorrent/wiki/List-of-known-qBittorrent-themes)** - Themes Index
 * [qBitMF](https://github.com/qBitMF/qBitMF) - Multi-Connection Tool
 * [VueTorrent](https://github.com/WDaan/VueTorrent) - Web Clients
 * [QBT Manager](https://github.com/Yash-Garg/qBittorrent-Manager) or [qBitController](https://github.com/Bartuzen/qBitController) - Mobile Controllers
