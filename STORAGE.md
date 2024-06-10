@@ -1002,12 +1002,13 @@
 
 ### FMovies Clones
 
-* [FlixHQ](https://flixhq.bz/)
+* [FlixHQ](https://flixhq.bz/). [2](https://flixhq.click/)
 * [FBox](https://fbox.to/)
 * [Movies7](https://movies7.to/)
 * [BFlix](https://bflix.to/)
-* [sWatchSeries.mx](https://swatchseries.mx/)
+* [sWatchSeries](https://swatchseries.mx/), [2](https://watchseries.bar/)
 * [Favmovies](https://favmovies.to/)
+* [NetMovies](https://netmovies.to/)
 
 ***
 
