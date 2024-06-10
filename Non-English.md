@@ -981,7 +981,7 @@
 # ► Portuguese / Português
 
 * 🌐 **[PiracyBG-PTBR](https://rentry.org/PiracyBG-PTBR)** - Beginners Guide to Piracy
-* 🌐 **[Pirataria](https://pirataria.digital/)** - Portuguese /r/Piracy Mega / [Subreddit](https://www.reddit.com/r/pirataria/)
+* 🌐 **[Pirataria](https://pirataria.digital/)** - Portuguese /r/Piracy Mega / [Reddit](https://www.reddit.com/r/pirataria/)
 * 🌐 **[Invertexto](https://www.invertexto.com)** - Online Tools Index
 * [SAPO](https://www.sapo.pt) - Search
 * [Legendas Brasil](https://legendasbrasil.org) - Subtitle Search App
