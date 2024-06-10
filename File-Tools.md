@@ -266,7 +266,7 @@
 
 # ► File Hosts
 
-* **Note** - Keep in mind that it's **never** a good idea to upload personal files to file hosts, even if they claim to be encrypted. **Tag Information:** The size describes the file size limit only and the time describes file expiry. Most file hosts will only remove due to inactivity, i.e. days since last download/view.
+* **Note** - Keep in mind that it's **never** a good idea to upload personal files to file hosts, even if they claim to be encrypted. **Tag Information:** The size describes the file size limit only and the time describes file expiry. Most file hosts will only remove due to inactivity, i.e. days since last download/view. The download limit describes the maximum number of downloads allowed per file.
 
 ***
 
@@ -279,20 +279,19 @@
 * ⭐ **[Pixeldrain](https://pixeldrain.com/)** - 20GB / 120 Days / [Discord](https://discord.gg/TWKGvYAFvX)
 * ⭐ **Pixeldrain Tools** - [Speedtest](https://pixeldrain.com/speedtest) / [Limit Bypass](https://pixeldrain-bypass.cybar.xyz) / [Limit Bypass Userscript](https://greasyfork.org/en/scripts/491326-pixeldrain-download-bypass)
 * ⭐ **[Cipher Files](https://cipherfiles.com/)** - 5GB / Forever / [Discord](https://discord.gg/DmRhftYcvN)
+* ⭐ **[Pillowcase](https://pillowcase.su/)** - Audio File Host / 200MB (500MB With Account) / Forever
 * ⭐ **[Catbox](https://catbox.moe/)** - 200MB / Forever
 * ⭐ **[Qiwi](https://qiwi.gg)** - [Note](https://pastebin.com/QJDbgtRJ) / Account Required
 * [MultiUp.io](https://multiup.io/) / [Extract / Upload](https://github.com/Reddiepoint/MultiUp-Direct), [MirrorAce](https://mirrorace.com/), or [Mirrored.to](https://www.mirrored.to/) - Multi Host Uploaders
 * [Z-o-o-m](https://z-o-o-m.eu/) - Multi-Host Upload Desktop App
 * [Filebin](https://filebin.net/) - Unlimited / 6 Days / [Warning](https://pastebin.com/W0j4VDAN)
-* [file.kiwi](https://file.kiwi/) - Unlimited / 3.75 Days
+* [file.kiwi](https://file.kiwi/) - Unlimited / [Note]()
 * [FEX.NET](https://fex.net/) - 100GB total / 7 Days
-* [SwissTransfer](https://www.swisstransfer.com/en) - 50GB / 30 Days / 250 Download Limit
-* [Hexupload](https://www.hexupload.net/) - 15GB / 30 Days
-* [AnonTransfer](https://anontransfer.com/) - 15GB / 30 days
+* [SwissTransfer](https://www.swisstransfer.com/) - 50GB / 30 Days / 250 Download Limit
+* [Hexupload](https://www.hexupload.net/) or [AnonTransfer](https://anontransfer.com/) - 15GB / 30 Days
+* [FileLu](https://filelu.com/) - 15GB / 1 Day (Unlimited With Account) / [Note](https://pastebin.com/Rr9ZqD2F)
 
 ---
-
-* [filelu](https://filelu.com/) - 15GB / 10 days
 
 * [edisk](https://www.edisk.cz/) - 10GB / 30 days
 * [easyupload](https://easyupload.io/) - 10GB / 50gb total / 30 days
@@ -323,7 +322,7 @@
 * [fileconvoy](https://www.fileconvoy.com/) - 3GB / 21 days total
 * [file-post](https://file-post.net/) - 3GB / 7 days total
 
-* [send](https://send.vis.ee/) / [instances](https://gitlab.com/timvisee/send-instances) - 2.5gb / 1 day
+* [send](https://send.vis.ee/) - 2.5gb / 1 day / [instances](https://gitlab.com/timvisee/send-instances)
 * [DropMB](https://dropmb.com/) - 2GB / 1 Year (365 days instead?)
 * [Imagenetz](https://www.imagenetz.de/) - 2GB / 90 days
 * [Mixdrop](https://mixdrop.ag/) - 2GB / 60 Days / Account Required

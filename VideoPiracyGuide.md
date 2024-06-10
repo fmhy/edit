@@ -323,21 +323,21 @@
 
 ***
 
+* ↪️ **[YouTube Movie Hosts](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_youtube_movies)**
 * ⭐ **[VK](https://vk.com/video)** / [Enhancement Extension](https://vknext.net/)
 * ⭐ **[OK](https://ok.ru/video)**
-* ⭐ **[YouTube](https://www.youtube.com/)** / [Advanced](https://playlists.at/youtube/search/) / [Download Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/social-media#wiki_.25B7_youtube_downloaders)
-* ⭐ **[Archive](https://archive.org/)** - Movies / TV
+* ⭐ **[YouTube](https://www.youtube.com/)** / [Advanced Search](https://playlists.at/youtube/search/) / [Download Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/social-media#wiki_.25B7_youtube_downloaders)
+* ⭐ **[Archive](https://archive.org/)** - Movies & TV Categories
 * ⭐ **[Dailymotion](https://www.dailymotion.com/us)**
-* ⭐ **[BiliBili](https://www.bilibili.com/)**, [2](https://www.bilibili.tv/) / [Multi-Platform Client](https://xfangfang.github.io/wiliwili/)
+* ⭐ **[BiliBili](https://www.bilibili.com/)** / [.tv](https://www.bilibili.tv/) / [Multi-Platform Client](https://xfangfang.github.io/wiliwili/)
 * ⭐ **[Niconico](https://www.nicovideo.jp/)**
 * ⭐ **[Veoh](https://www.veoh.com/)**
 * ⭐ **[Video Search CSE](https://cse.google.com/cse?cx=006516753008110874046:6v9mqdaai6q#gsc.tab=0)** or [Moviez.space](https://moviez.space/) - Multi-Site Video Search
-* [YouTube Movie Hosts](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_youtube_movies)
+* [MotionBox](https://omega.gg/MotionBox/) - Online Video Aggregation App
 * [Noodlemagazine](https://noodlemagazine.com) - Search Engine / NSFW Thumbnails
-* [PeerTube](https://joinpeertube.org/), [2](https://sepiasearch.org/) / [Instances](https://instances.joinpeertube.org/instances)
+* [PeerTube](https://joinpeertube.org/) / [Search Engine](https://sepiasearch.org/) / [Instances](https://instances.joinpeertube.org/instances)
 * [my.mail.ru](https://my.mail.ru/video)
 * [Vimeo](https://vimeo.com/)
-* [Facebook Videos](https://www.facebook.com/watch/search/?query=fmhy)
 * [Ronemo](https://ronemo.com/)
 * [rutube](https://rutube.ru)
 * [cda.pl](https://www.cda.pl/)
@@ -357,9 +357,6 @@
 * [Playeur](https://playeur.com/)
 * [Rumble](https://rumble.com/)
 * [Myspace Videos](https://myspace.com/search/videos)
-* [Google Videos](https://www.google.com/?tbm=vid)
-* [Yandex Videos](https://yandex.ru/video)
-* [MotionBox](https://omega.gg/MotionBox/) - Online Video Aggregation App
 
 ***
 
