@@ -17,6 +17,7 @@
 * [distro.moe](https://distro.moe/) - Find Random Distros
 * [Linux Live Kit](https://www.linux-live.org/) - Live Distro Creator
 * [DotShare](http://dotshare.it/) - Distro Config Index
+* [Recommended Linux distros](https://emulation.gametechwiki.com/index.php/Recommended_Linux_distros)
 * [ArchiveOS](https://archiveos.org/)
 * [OS.click](https://os.click/en)
 * [LinuxTracker](https://linuxtracker.org/)
