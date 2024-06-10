@@ -74,7 +74,6 @@
 
 # ► Free Stuff
 
-* ⭐ **[Give & Away](https://discord.gg/j9fvrxedkX)** - Giveaway Discord Server
 * ⭐ **[OneHack](https://forum.telugudjmusic.com/)** - Giveaway Community / [Telegram](https://t.me/Official_OneHack)
 * ⭐ **[Free Packages](https://steamdb.info/freepackages/)** - Mass Activate All Free Steam Games / [Guide](https://youtu.be/svbdw-pYNT8)
 * ⭐ **[Unlimited Trials](https://rentry.co/unlimited-trials)** - Unlimited Free Trials Guide
