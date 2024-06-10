@@ -1013,6 +1013,7 @@
 
 ### M4UFree Clones
 
+* [M4uFree.com](https://ww2.m4ufree.com/)
 * [M4uFree.tv](https://ww1.m4ufree.tv/) / [2](https://m4ufree.to/) / [3](https://m4ufree.vip/) / [4](https://m4ufree.pw/)
 * [M4uHD.tv](https://ww1.m4uhd.tv/) / [2](https://ww1.m4uhd.cc/) / [3](https://m4uhd.to/)
 * [Streamm4u](https://streamm4u.ws/) / [2](https://ww1.streamm4u.tv/) / [3](https://ww1.streamm4u.net/)
