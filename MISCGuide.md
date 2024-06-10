@@ -395,10 +395,10 @@
 
 ## ▷ Satellite / Earth Data
 
+* ⭐ **[Google Earth](https://earth.google.com/web/)** - Earth Viewer
 * [StreetComplete](https://streetcomplete.app/) - OpenStreetMap Surveyor App
 * [FacilMap](https://facilmap.org/) or [OsmAPP](https://osmapp.org/) - OSM Web Apps
 * [OpenMapTiles](https://openmaptiles.org/) - Self-hosted Map Tools
-* [Google Earth](https://earth.google.com/web/) - Earth Viewer
 * [NASA Earthdata](https://search.earthdata.nasa.gov/search) - Earth Data Archive
 * [Mapillary](https://www.mapillary.com/) - Open Street View Data
 * [Instant Street View](https://www.instantstreetview.com/) - Instantly Load Street View
