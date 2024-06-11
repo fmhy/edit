@@ -266,7 +266,7 @@
 
 # ► File Hosts
 
-* **Note** - Size is per file and time is after the last time someone downloaded the file unless specified otherwise. Also keep in mind it's NEVER a good idea to upload personal / private files to random file hosts, even if they claim to be encrypted.
+* **Note** - Keep in mind that it's **never** a good idea to upload personal or confidential files to any file host, even if they claim to be encrypted. **Tag Information:** Maximum(?) File Size Limit **/** Maximum(?) File Expiry Time ([More Info](https://pastebin.com/zkXcK56H)) **/** Maximum(?) Number of Downloads Allowed Per File.
 
 ***
 
@@ -288,27 +288,24 @@
 * [file.kiwi](https://file.kiwi/) - Unlimited / [Note]()
 * [FEX.NET](https://fex.net/) - 100GB / 7 Days
 * [SwissTransfer](https://www.swisstransfer.com/) - 50GB / 30 Days / 250 Download Limit
+* [BowFile](https://bowfile.com/) - 20GB / 20 Days
 * [Hexupload](https://www.hexupload.net/) or [AnonTransfer](https://anontransfer.com/) - 15GB / 30 Days
 * [FileLu](https://filelu.com/) - 15GB / 1 Day (Unlimited With Account) / [Note](https://pastebin.com/Rr9ZqD2F)
 * [Fastupload.io](https://fastupload.io/en) - 10GB / 30 Days (60 Days With Account)
 * [eDisk](https://www.edisk.cz/) or [Easyupload.io](https://easyupload.io/) - 10GB / 30 Days
+* [Drop Download](https://drop.download/) - 10GB / 30 Days / Account Required
 * [DesiUpload](https://desiupload.co/) - 10GB / 15 Days (15GB / 30 Days With Account)
 * [GrosFichiers](https://www.grosfichiers.com/) - 10GB / 14 Days
 * [Fshare](https://www.fshare.vn/) - 10GB / 5 Days
 * [Uploadraja.com](https://uploadraja.com/) - 10GB / 4 Days (30GB / 15 Days With Account)
 * [FileTransfer.io](https://filetransfer.io/) - 6GB / 21 Days / 50 Download Limit
-* [FileDitch](https://fileditch.com/) - 5GB / Forever
+* [FileDitch](https://fileditch.com/) or [Oshi](https://oshi.at/) - 5GB / 90 Days
+* [MegaUp](https://megaup.net/) - 5GB / 60 Days
+* [ufile.io](https://ufile.io/) - 5GB / 30 Days
+* [Internxt Send](https://send.internxt.com/) - 5GB / 15 Days
 
 ---
 
-* [Oshi](https://oshi.at/) - 5GB / 90 days
-* [megaup](https://megaup.net/) - 5GB / 60 days
-* [ufile](https://ufile.io/) - 5GB / 30 days
-* [Lufi](https://upload.disroot.org/) - 5GB / 30 days
-* [alfafile](https://www.alfafile.net/) - 5GB / 30 days / Account Required
-* [bowfile](https://bowfile.com/) - 5GB / 30 days total
-* [drop.download](https://drop.download/) - 5GB / 15 days / Account Required
-* [Internxt](https://send.internxt.com/) - 5GB / 100 files / 14 days
 * [sendbig](https://www.sendbig.com/) - 5GB / 7 days
 * [SendGB](https://www.sendgb.com/) - 5GB / 7 days total
 * [pCloud Transfer](https://transfer.pcloud.com/) - 5GB / 7 days total
@@ -319,6 +316,7 @@
 * [fileconvoy](https://www.fileconvoy.com/) - 3GB / 21 days total
 * [file-post](https://file-post.net/) - 3GB / 7 days total
 
+* [Lufi](https://upload.disroot.org/) - 2GB / 30 days
 * [send](https://send.vis.ee/) - 2.5gb / 1 day / [instances](https://gitlab.com/timvisee/send-instances)
 * [DropMB](https://dropmb.com/) - 2GB / 1 Year (365 days instead?)
 * [Imagenetz](https://www.imagenetz.de/) - 2GB / 90 days
