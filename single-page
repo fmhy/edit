@@ -567,11 +567,9 @@
 * [Wayland](https://wayland.freedesktop.org/) - Linux Display Server Protocol / [Tools](https://arewewaylandyet.com/)
 * [river](https://github.com/riverwm/river/) - Wayland Compositors
 * [LabWC](https://github.com/labwc/labwc) - Wayland Compositors
-* [Hyprland](https://hyprland.org/) - Wayland Compositors
 * [kiwmi](https://github.com/buffet/kiwmi) - Wayland Compositors
 * [picom](https://github.com/yshui/picom) - Wayland Compositors
 * [wayfire](https://github.com/WayfireWM/wayfire/) - Wayland Compositors
-* [sway](https://swaywm.org/) - Wayland Compositors
 * [Compix](https://github.com/xeome/compix) - Xorg Compositor
 * [Mako](https://github.com/emersion/mako) - Wayland Notifications
 
