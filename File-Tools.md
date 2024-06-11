@@ -266,7 +266,7 @@
 
 # ► File Hosts
 
-* **Note** - Keep in mind that it's **never** a good idea to upload personal files to file hosts, even if they claim to be encrypted. **Tag Information:** The size describes the file size limit only and the time describes file expiry. Most file hosts will only remove due to inactivity, i.e. days since last download/view. The download limit describes the maximum number of downloads allowed per file.
+* **Note** - Size is per file and time is after the last time someone downloaded the file unless specified otherwise. Also keep in mind it's NEVER a good idea to upload personal / private files to random file hosts, even if they claim to be encrypted.
 
 ***
 
