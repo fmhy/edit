@@ -450,7 +450,7 @@
 * [Open Game Art](https://opengameart.org/)
 * [UnityFreaks](https://www.unityfreaks.com/)
 * [GameDevUE](https://t.me/GameDevUE)
-* [SreamGridDB](https://www.steamgriddb.com/)
+* [SteamGridDB](https://www.steamgriddb.com/)
 * [DevAssets](https://devassets.com/)
 * [Incern](https://www.incern.org/)
 * [GameDevAssets](https://www.gamedevmarket.net/category/3d/?type=free)
