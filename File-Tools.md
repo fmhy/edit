@@ -286,24 +286,21 @@
 * [Z-o-o-m](https://z-o-o-m.eu/) - Multi-Host Upload Desktop App
 * [Filebin](https://filebin.net/) - Unlimited / 6 Days / [Warning](https://pastebin.com/W0j4VDAN)
 * [file.kiwi](https://file.kiwi/) - Unlimited / [Note]()
-* [FEX.NET](https://fex.net/) - 100GB total / 7 Days
+* [FEX.NET](https://fex.net/) - 100GB / 7 Days
 * [SwissTransfer](https://www.swisstransfer.com/) - 50GB / 30 Days / 250 Download Limit
 * [Hexupload](https://www.hexupload.net/) or [AnonTransfer](https://anontransfer.com/) - 15GB / 30 Days
 * [FileLu](https://filelu.com/) - 15GB / 1 Day (Unlimited With Account) / [Note](https://pastebin.com/Rr9ZqD2F)
+* [Fastupload.io](https://fastupload.io/en) - 10GB / 30 Days (60 Days With Account)
+* [eDisk](https://www.edisk.cz/) or [Easyupload.io](https://easyupload.io/) - 10GB / 30 Days
+* [DesiUpload](https://desiupload.co/) - 10GB / 15 Days (15GB / 30 Days With Account)
+* [GrosFichiers](https://www.grosfichiers.com/) - 10GB / 14 Days
+* [Fshare](https://www.fshare.vn/) - 10GB / 5 Days
+* [Uploadraja.com](https://uploadraja.com/) - 10GB / 4 Days (30GB / 15 Days With Account)
+* [FileTransfer.io](https://filetransfer.io/) - 6GB / 21 Days / 50 Download Limit
+* [FileDitch](https://fileditch.com/) - 5GB / Forever
 
 ---
 
-* [edisk](https://www.edisk.cz/) - 10GB / 30 days
-* [easyupload](https://easyupload.io/) - 10GB / 50gb total / 30 days
-* [fastupload](https://fastupload.io/en) - 10GB / 30 days
-* [desiupload](https://desiupload.co/) or [uploadraja](https://uploadraja.com/) - 10GB / 15 days
-* [grosfichiers](https://www.grosfichiers.com/) - 10GB / 14 Days
-* [Encl](https://encl.io/) - 10gb / 7 days total
-* [fshare](https://www.fshare.vn/) - 10GB / 5 days
-
-* [filetransfer](https://filetransfer.io/) - 6GB / 21 days total / 50 download limit
-
-* [FileDitch](https://fileditch.com/) - 5GB / Forever / [Note](https://ibb.co/F0gTxNC)
 * [Oshi](https://oshi.at/) - 5GB / 90 days
 * [megaup](https://megaup.net/) - 5GB / 60 days
 * [ufile](https://ufile.io/) - 5GB / 30 days
