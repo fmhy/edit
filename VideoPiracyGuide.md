@@ -23,35 +23,22 @@
 * ⭐ **[PrimeWire](https://www.primewire.tf/)** - Movies / TV / Anime / 1080p
 * [Streaming CSE](https://cse.google.com/cse?cx=006516753008110874046:cfdhwy9o57g##gsc.tab=0), [2](https://cse.google.com/cse?cx=006516753008110874046:o0mf6t-ugea##gsc.tab=0), [3](https://cse.google.com/cse?cx=98916addbaef8b4b6), [4](https://cse.google.com/cse?cx=0199ade0b25835f2e) - Multi-Site Search
 * [M4uFree](https://m4ufree.se/) - Movies / TV / Anime / 1080p / [Mirrors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_m4ufree_clones)
-* [SmashyStream](https://smashystream.xyz/), [2](https://flix.smashystream.xyz/), [3](https://smashystream.com/) - Movies / TV / Anime / 1080p / [Telegram](https://t.me/+vekZX4KtMPtiYmRl)
 * [Youplex](https://youplex.site/) - Movies / TV / Anime / 4K / 1080p / Ad-Free / [Telegram](https://t.me/youplexannouncments) / [Discord](https://discord.com/invite/5eWu9Vz6tQ)
 * [Rive](https://rivestream.vercel.app/) - Movies / TV / Anime / 4K / 1080p / Ad-Free / [GitHub](https://github.com/Developabile/rive-next)
-* [Nkiri](https://nkiri.cc/) - Movies / TV / 1080p / Ad-Free
-* [VidPlay](https://vidplay.org/) - Movies / TV / Anime / 1080p / Ad-Free
 * [HollyMovieHD](https://hollymoviehd.cc/), [YesHD](https://yeshd.net/) or [NovaMovie](https://novamovie.net/) - Movies / TV / Anime / 1080p / [Mirrors](https://hollymoviehd-official.com/)
-* [Movies4Fun](https://movies4fun.net/) - Movies / TV / 1080p
-* [StreamFlix](https://watch.streamflix.one/) - Movies / TV / Anime / 1080p / Ad-Free
+* [VidPlay](https://vidplay.org/) - Movies / TV / Anime / 1080p / Ad-Free / [Note](https://pastebin.com/kXrVBceh)
 * [YassFlix](https://yassflix.live/) - Movies / TV / Anime / 1080p / Ad-Free
 * [Seez](https://seez.su/) or [WatchWave](https://watchwave-v2.vercel.app/watch) - Movies / TV / 1080p / [Discord](https://discord.com/invite/v5mSB8gvcm)
-* [CriaFlix](https://criaflix.live/) - Movies / TV / Anime / 1080p
 * [Movierr](https://ww3.movierr.site/) - Movies / TV / Anime / [Discord](https://discord.gg/sxKN424ZYK)
-* [Levidia](https://www.levidia.ch/) - Movies / TV / Anime / 1080p
 * [EuroPixHD](https://europixhd.pro/) - Movies / TV / Anime / 1080p
 * [EMovies](https://emovies.si/) - Movies / TV / Anime / 1080p
-* [Goojara](https://www.goojara.to/) - Movies / TV / Anime / 1080p
 * [Downloads-Anymovies](https://www.downloads-anymovies.co/) - Movies / 1080p
-* [YMovies](https://ymovies.vip/) - Movies / TV / Anime / 1080p
-* [MoviesXK](https://moviexk.biz/) - Movies / TV / 1080p
 * [123MoviesFree](https://ww2.123moviesfree.net/) - Movies / TV / Anime / 1080p
-* [MovGoTV](https://movgotv.site/) - Movies / TV / Anime / 1080p
-* [TVids](https://www.tvids.net/) - Movies / TV / Anime / 1080p
 * [Yesmovies.pm](https://yesmovies.pm/) - Movies / TV / Anime / 1080p
-* [MKVKing](https://193.233.203.165/) - Movies / TV / Anime / 1080p
 * [Nova](https://novastream.top/) - Movies / TV / 1080p / [Github](https://github.com/ambr0sial/nova/)
-* [Supernova](https://supernova.to/) - Movies / TV / Anime / 720p
+* [Levidia](https://www.levidia.ch/), [Supernova](https://supernova.to/) or [Goojara](https://www.goojara.to/) - Movies / TV / Anime / 1080p
 * [MoviesLair](https://movielair.cc/) - Movies / TV / 720p / [Discord](https://discord.gg/ZvRTYqTWtZ)
 * [uFlix](https://uflix.cc/) - Movies / TV / Anime / 720p
-* [SlideMovies](https://slidemovies.org/) - Movies / TV / Anime / 720p
 * [GoMo](https://gomo.to/) - Movies / TV / Anime / API / 1080p
 * [SuperEmbed](https://www.superembed.stream/) - Movies / TV / API / 1080p
 * [2embed](https://www.2embed.cc/) - Movies / TV / API / 1080p
@@ -556,7 +543,6 @@
 * [YourSerie](https://www.yourserie.com/) - Movies / TV / 720p
 * [TV Shows](https://tvshows.me/) - TV / 720p
 * [TVSBoy](https://tvsboy.com/) - TV / 720p
-* [nKiri](https://nkiri.com/) - Movies / TV / 720p
 * [TodayTVSeries](https://www.todaytvseries6.com/) - TV / 720p
 * [TvShows4Mobile](https://tvshows4mobile.org/) - TV / Anime / 480p / [Telegram](https://t.me/o2tvseries_official)
 * [NetNaija](https://netnaija.xyz/) - Movies / 480p
@@ -564,6 +550,7 @@
 * [KimoiTV](https://www.kimoitv.com/) - Movies / TV / Anime / 360p
 * [Sinflix](https://rentry.co/FMHYBase64#sinflix) - Asian Drama / 1080p
 * [CondensedAudioCatalog](https://condensedaudiocatalog.com/) - Asian Drama / 1080p
+* [nKiri](https://nkiri.com/) - Asian Drama  / 720p
 * [DoraMax264](https://doramax264.com/) - Asian Drama / 480p
 * [Toku.fun](https://toku.fun/) - Japanese Superhero Movies / 360p
 * [Jackass Vault](https://discord.gg/ZH5MjcKmJJ) - Jackass Media Discord
