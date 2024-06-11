@@ -113,7 +113,7 @@ Use this [browser extension](https://github.com/bpc-clone/bpc_updates/releases) 
 
 ### Streaming
 
-**[movie-web](https://erynith.github.io/movie-web-instances/) + [Add Sources](https://docs.sudo-flix.lol/extension) / [Binged](https://binged.live/) / [Braflix](https://www.braflix.video/) / [watch.lonelil](https://watch.lonelil.ru/) / [FMovies](https://fmovies24.to/)** - Fast movie / TV streaming
+**[movie-web](https://erynith.github.io/movie-web-instances/) + [Add Sources](https://docs.sudo-flix.lol/extension) / [Braflix](https://www.braflix.so/) / [Binged](https://binged.live/) / [watch.lonelil](https://watch.lonelil.ru/) / [FMovies](https://fmovies24.to/)** - Fast movie / TV streaming
 **[HiAnime](https://hianime.to/)** - Fast anime streaming
 **[Dramacool](https://dramacool.cy/)** - Fast Asian drama streaming
 **[SportsSurge](https://sportsurge.net/)** - Live sports streaming
@@ -130,7 +130,6 @@ Use this [browser extension](https://github.com/bpc-clone/bpc_updates/releases) 
 **[LRepacks](https://lrepacks.net/) / [CRACKSurl](https://cracksurl.com/) / [M0nkrus](https://w14.monkrus.ws/)** - Trusted software sites
 **[Pahe](https://pahe.ink/)** - Fast video downloads
 **[FitGirl Repacks](https://fitgirl-repacks.site/)** / [Discord](https://discord.gg/Up3YARe4RW) / **[SteamRIP](https://steamrip.com/)** - Game download sites
-**[Vimms Lair](https://vimm.net/) / [No-Intro](https://rentry.co/FMHYBase64#no-intro)** - ROM download sites / [Emulators](https://emulation.gametechwiki.com/)
 **[Firehawk52](https://rentry.org/firehawk52)** - Music ripping guide
 **[DoubleDouble](https://doubledouble.top/)** - Multi-Site audio download
 **[Soulseek](https://slsknet.org/)** or [Nicotine+](https://nicotine-plus.org/) - Audio download app
@@ -163,7 +162,7 @@ Use this [browser extension](https://github.com/bpc-clone/bpc_updates/releases) 
 ### Reading
 
 **[Mobilism](https://forum.mobilism.org) / [Library Genesis](https://libgen.rs/) / [Z-Library](https://singlelogin.re/) / [Annas Archive](https://annas-archive.org/)** - Books, audiobooks, comics & more
-**[Audiobook Bay](https://audiobookbay.is/)** - Audiobook torrents / Avoid fake DL links, use [Torrents / Magnets](https://i.ibb.co/8sV2061/0fa8159b11bb.png)
+**[Audiobook Bay](https://audiobookbay.is/)** - Audiobook torrents / **Avoid fake DL links, use [Torrents / Magnets](https://i.ibb.co/8sV2061/0fa8159b11bb.png)**
 **[ReadComicsOnline](https://readcomiconline.li/)** - Read comics online
 **[MangaReader](https://mangareader.to/)** - Read manga online
 **[Reading CSE](https://cse.google.com/cse?cx=006516753008110874046:s9ddesylrm8) / [2](https://cse.google.com/cse?cx=006516753008110874046:rc855wetniu) / [3](https://cse.google.com/cse?cx=e9657e69c76480cb8) / [4](https://cse.google.com/cse?cx=c46414ccb6a943e39) / [5](https://ravebooksearch.com/)** - Multi-site book search

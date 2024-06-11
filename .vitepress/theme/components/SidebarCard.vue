@@ -1,6 +1,6 @@
 <script setup lang="ts">
 import Field from './CardField.vue'
-import Modal from './Modal.vue'
+import Feedback from './Feedback.vue'
 import InputField from './InputField.vue'
 import ToggleStarred from './ToggleStarred.vue'
 </script>
@@ -18,7 +18,7 @@ import ToggleStarred from './ToggleStarred.vue'
     </div>
     <InputField id="feedback" label="Feedback">
       <template #display>
-        <Modal />
+        <Feedback />
       </template>
     </InputField>
     <InputField id="toggle-starred" label="Toggle Starred">
