@@ -1009,6 +1009,7 @@
 * [sWatchSeries](https://swatchseries.mx/), [2](https://watchseries.bar/)
 * [Favmovies](https://favmovies.to/)
 * [NetMovies](https://netmovies.to/)
+* [Movies4Fun](https://movies4fun.net/)
 
 ***
 
