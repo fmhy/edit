@@ -1762,8 +1762,8 @@
 
 ## ▷ Streaming
 
-* [BiluTV](https://bilutvw.com/) - Movies / TV / Anime
-* [MotChill](https://motchilli.vip/) - Movies / TV
+* [BiluTV](https://bilutvw.com/) - Movies / TV / Anime / Sub / Dub
+* [MotChill](https://motchilltv.to/) - Movies / TV
 * [PhimMoi](https://phimmoiiii.net/) - Movies / TV
 * [Danet](https://danet.vn/) - Movies / TV
 * [XemPhim](https://xemphim.app/) - Movies / TV
@@ -1808,7 +1808,7 @@
 ## ▷ Reading
 
 * ⭐ **[hoc10](https://hoc10.vn/)** - Textbooks, Study Material, Lecture Notes etc.
-* [Thư  Viện Pháp Luật](https://thuvienphapluat.vn/) - Legal Information Portal / [Facebook] (https://www.facebook.com/ThuVienPhapLuat.vn/) 
+* ⭐ **[Thư  Viện Pháp Luật](https://thuvienphapluat.vn/)** - Legal Information Portal / [Facebook](https://www.facebook.com/ThuVienPhapLuat.vn/) 
 * [SachVui](https://sachvuii.com/) - Books / [Direct Links](https://greasyfork.org/en/scripts/488558)
 * [MeTaiSach](https://metaisach.com/) - Books
 * [DocSachHay](https://docsachhay.net/) - Books

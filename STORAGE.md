@@ -476,7 +476,7 @@
 
 ### 2D Engines
 
-[Torque2D](https://github.com/TorqueGameEngines/Torque2D) / [Discord](https://discord.com/invite/qdAZxT4), [starling](https://gamua.com/starling/) / [GitHub](https://github.com/Gamua/Starling-Framework), [HaxeFlixel](https://haxeflixel.com/), [GB Studio](https://www.gbstudio.dev/) / [GitHub](https://github.com/chrismaltby/gb-studio) / [Reddit](https://www.reddit.com/r/gbstudio) / [Discord](https://discord.com/invite/bxerKnc), [Flame](https://flame-engine.org/), [GameMaker](https://gamemaker.io/) / [Online](https://yellowafterlife.github.io/GMEdit/), [Arcade Game Designer](https://jonathan-cauldwell.itch.io/multi-platform-arcade-game-designer) / [2](https://jonathan-cauldwell.itch.io/arcade-game-designer)
+[Torque2D](https://github.com/TorqueGameEngines/Torque2D) / [Discord](https://discord.com/invite/qdAZxT4), [starling](https://gamua.com/starling/) / [GitHub](https://github.com/Gamua/Starling-Framework), [HaxeFlixel](https://haxeflixel.com/), [GB Studio](https://www.gbstudio.dev/) / [GitHub](https://github.com/chrismaltby/gb-studio) / [Subreddit](https://www.reddit.com/r/gbstudio) / [Discord](https://discord.com/invite/bxerKnc), [Flame](https://flame-engine.org/), [GameMaker](https://gamemaker.io/) / [Online](https://yellowafterlife.github.io/GMEdit/), [Arcade Game Designer](https://jonathan-cauldwell.itch.io/multi-platform-arcade-game-designer) / [2](https://jonathan-cauldwell.itch.io/arcade-game-designer)
 [Pixelbox](https://pixwlk.itch.io/pixelbox), [PQ93](https://charliezip.itch.io/pq93), [GDevelop](https://4ian.itch.io/gdevelop) / [2](https://gdevelop.io/), [Bitsy](https://make.bitsy.org/), [Script 8](https://script-8.github.io/), [Tic80](https://tic80.com/), [Byond](https://www.byond.com/), [LÖVE](https://love2d.org/), [Scratch](https://scratch.mit.edu/)
 
 ### 3D Engines
@@ -578,6 +578,17 @@
 
 ***
 
+## LaTeX Tools
+
+* [Learn LaTeX](https://www.learnlatex.org/) - LaTeX Guide
+* [Lyx](https://www.lyx.org/), [Typst](https://typst.app/home), [TeXStudio](https://texstudio.org/) or [Papeeria](https://papeeria.com/) - LaTeX Editors
+* [Tables Generator](https://www.tablesgenerator.com/) - Create LaTeX Tables
+* [Tips for Writing a Research Paper using LaTeX](https://github.com/guanyingc/latex_paper_writing_tips)
+* [MathB.in](https://mathb.in/) - Share Mathematics with LaTeX and Markdown
+* [Math Scan](https://github.com/ekrem-qb/math_scan), [RapidLatexOCR](https://github.com/RapidAI/RapidLatexOCR) or [LaTeX-OCR](https://lukas-blecher.github.io/LaTeX-OCR/) - Extract Mathematical Expressions
+
+***
+
 ## LibGen Mirrors
 
 * https://libgen.rs/ - main
@@ -655,6 +666,26 @@
 ### Self-Hosted
 
 [HappyPanda X](https://happypandax.github.io/), [Tenma](https://github.com/Tenma-Server/Tenma), [KavitaReader](https://www.kavitareader.com/), [Tanoshi](https://faldez.github.io/tanoshi/), [Komga](https://komga.org/) / [GitHub](https://github.com/gotson/komga) / [Discord](https://discord.gg/TdRpkDu), [atsumeru](https://atsumeru.xyz/)
+
+***
+
+## Media Database Site Tools
+
+### Trakt Tools
+
+[Apps](https://trakt.tv/apps) / [Universal Scrobble](https://github.com/trakt-tools/universal-trakt-scrobbler) / [Duplicate Remover](https://huere.net/trakt/duplicate_removal/) / [Create Lists](https://listrr.pro/) / [Anilist Sync](https://anitrakt.huere.net/)
+
+### Letterboxd Tools
+
+[Multi Tool](https://www.letterboxd.tools/) / [Shortcuts](https://github.com/alandours/letterboxd-shortcuts) / [Watchlist Picker](https://watchlistpicker.com/) / [Collections](https://mrdys.github.io/letterboxd-completionist/)
+
+### MyAnimeList Tools 
+
+[Redesign](https://hritikvaishnav.github.io/Project-Redesign/public/mal.html) / [Extension](https://anime.plus/) / [Scripts](https://myanimelist.net/forum/?topicid=1849731) / [Badges](https://www.mal-badges.com/) / [Search Helper](https://greasyfork.org/en/scripts/429784) / [Hide Seen](https://greasyfork.org/en/scripts/17961) / [Export](https://malscraper.azurewebsites.net/) / [Site Sync](https://malsync.moe/) / [MALSync Discord](https://discord.com/invite/cTH4yaw) / [API](https://jikan.moe/)
+
+### AniList Tools
+
+[Desktop](https://github.com/CosmicPredator/AniMoe) / [Wrapper](https://github.com/AurelicButter/AniList-Node) / [Extras](https://greasyfork.org/en/scripts/370473-automail) / [MPV Sync](https://github.com/hotsno/keroro)
 
 ***
 
@@ -910,7 +941,7 @@
 
 ## Royalty Free Music
 
-* ⭐ **[YouTube Studio](https://studio.youtube.com/)** - Click Audio Library
+* ⭐ **[YouTube Audio Library](https://www.youtube.com/audiolibrary)**
 
 [FreePB](https://freepd.com/), [Free Music Archive](https://freemusicarchive.org/), [joshwoodward](https://www.joshwoodward.com/), [wowsound](https://wowsound.com/), [epidemicsound](https://www.epidemicsound.com/), [Pixabay Music](https://pixabay.com/music/), [audiomicro](https://www.audiomicro.com/), [Starfrosch](https://starfrosch.com/), [Mubert](https://mubert.com/), [ccHound](https://cchound.com/), [MusicScreen](https://www.musicscreen.org/), [FilmMusic](https://filmmusic.io/), [Fugue](https://icons8.com/music), [EDMRF](https://edmroyaltyfree.net/), [chosic](https://www.chosic.com/free-music/all/), [Anttis Instrumentals](https://www.gamedev.net/news/2000-instrumental-pieces-released-by-anttis-instrumentals-r1135/) / [Torrent](https://drive.google.com/open?id=0ByvAPNATAYsBR0FUczYzWHk3NEU), [Sampld](https://open.sampld.app/), [BLueFoxMusic](https://bluefoxmusic.com/), [ScottBuckley](https://www.scottbuckley.com.au/library/), [Creative Commons Jazz](https://jazz.mixremix.cc/), [tunetank](https://tunetank.com/), [audiolibrary](https://www.audiolibrary.com.co/), [purple-planet](https://www.purple-planet.com/), [freemusicpublicdomain](https://www.freemusicpublicdomain.com/)
 
@@ -971,17 +1002,20 @@
 
 ### FMovies Clones
 
-* [FlixHQ](https://flixhq.bz/)
+* [FlixHQ](https://flixhq.click/), [2](https://flixhq.bz/)
 * [FBox](https://fbox.to/)
 * [Movies7](https://movies7.to/)
 * [BFlix](https://bflix.to/)
-* [sWatchSeries.mx](https://swatchseries.mx/)
+* [sWatchSeries](https://swatchseries.mx/), [2](https://watchseries.bar/)
 * [Favmovies](https://favmovies.to/)
+* [NetMovies](https://netmovies.to/)
+* [Movies4Fun](https://movies4fun.net/)
 
 ***
 
 ### M4UFree Clones
 
+* [M4uFree.com](https://ww2.m4ufree.com/)
 * [M4uFree.tv](https://ww1.m4ufree.tv/) / [2](https://m4ufree.to/) / [3](https://m4ufree.vip/) / [4](https://m4ufree.pw/)
 * [M4uHD.tv](https://ww1.m4uhd.tv/) / [2](https://ww1.m4uhd.cc/) / [3](https://m4uhd.to/)
 * [Streamm4u](https://streamm4u.ws/) / [2](https://ww1.streamm4u.tv/) / [3](https://ww1.streamm4u.net/)
@@ -1034,6 +1068,7 @@
 * [Cataz](https://cataz.to)
 * [FMovie.ws](https://fmovie.ws/)
 * [FMovies.hn](https://fmovies.hn/)
+* [FlixHQ.to](https://flixhq.to)
 
 ***
 
@@ -1042,8 +1077,9 @@
 * ⭐ **[Survivor Library](https://www.survivorlibrary.com/)**
 * ⭐ **[Primitive Technology](https://youtube.com/@primitivetechnology9550?si=NClgkWZP5Q3L_p_W)**
 * [SurvivalManual](https://ligi.de/) / [GitHub](https://github.com/ligi/SurvivalManual)
+* [r/Preppers](https://www.reddit.com/r/preppers/)
 
-[OffGridDownload](https://t.me/offgriddownload), [ExploreMarMaris](http://www.exploremarmaris.com/read/Survival/), [/r/PrepperFileShare](https://reddit.com/r/PrepperFileShare), [The Preparedness Encyclopedia](https://www.fluidicice.com/tpe) / [Reddit](https://redd.it/muc9ff)
+[OffGridDownload](https://t.me/offgriddownload), [ExploreMarMaris](http://www.exploremarmaris.com/read/Survival/), [/r/PrepperFileShare](https://reddit.com/r/PrepperFileShare), [The Preparedness Encyclopedia](https://www.fluidicice.com/tpe)
 
 ***
 
@@ -1142,22 +1178,15 @@
 
 ### Collab
 
-* ⭐ **[OneClickRun](https://colab.research.google.com/github/biplobsd/OneClickRun/blob/master/OneClickRun.ipynb)** / [GitHub](https://github.com/biplobsd/OneClickRun)
+* ⭐ **[OneClickRun](https://colab.research.google.com/github/biplobsd/OneClickRun/blob/master/OneClickRun.ipynb)**
 
 [QBit to Gdrive](https://colab.research.google.com/github/Xavy-13/qbittorrent/blob/main/qBittorrent.ipynb) / [How-To](https://rentry.co/TorrentColab), [Torrent_To_Google_Drive_Downloader](https://colab.research.google.com/github/FKLC/Torrent-To-Google-Drive-Downloader/blob/master/Torrent_To_Google_Drive_Downloader.ipynb)
 
 ### Telegram Bots
 
 * https://t.me/+qkrAOiq7k7ozNzRk
-* https://t.me/torrent_2_drive
-* https://t.me/torrentbcloudnew
-* https://t.me/slfilmtv
-* https://t.me/torrent_uploader
 * https://t.me/Punisherdiscussion
-* https://t.me/gtorr
-* https://t.me/yamb_mirror_bot
 * https://github.com/yash-dk/TorToolkit-Telegram
-* https://t.me/TorrentBots (List)
 * https://t.me/TorrentLeechingGroup (list)
 * https://t.me/MirrorBots (list)
 
