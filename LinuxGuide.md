@@ -121,7 +121,6 @@
 
 * 🌐 **[Window Manager Index](https://wiki.archlinux.org/title/Window_manager)** - List of Window Managers
 * ⭐ **[awesomewm](https://github.com/awesomeWM/awesome)** - Window Manager / [Arch Wiki](https://wiki.archlinux.org/title/Awesome)
-
 * [dwm](https://dwm.suckless.org) - Window Manager / [Arch Wiki](https://wiki.archlinux.org/title/Dwm)
 * [qtile](https://qtile.org/) - Window Manager / [Arch Wiki](https://wiki.archlinux.org/title/Qtile)
 * [xmonad](https://xmonad.org/) - Window Manager / [Arch Wiki](https://wiki.archlinux.org/title/Xmonad)
