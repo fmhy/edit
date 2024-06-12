@@ -232,7 +232,7 @@
 
 * ⭐ **[TheGigaBrain](https://thegigabrain.com/)**, [New PullPush](https://search-new.pullpush.io/) / [2](https://search.pullpush.io/), [Redditle](https://redditle.com/), [Reddit CSE](https://cse.google.com/cse?cx=016649841759798530173:rk2ezolwnw0) / [2](https://cse.google.com/cse?cx=007749065626525752968:qh5bqebwi30), [Samac](https://samac.io/), [ihsoyct](https://ihsoyct.github.io/index.html) or [Better Reddit Search](https://betterredditsearch.web.app/) - Reddit Search Engines
 * ⭐ **[RedditRepostSleuth](https://www.repostsleuth.com/)** - Reverse Post / Image Search
-* ⭐ **[Reveddit](https://www.reveddit.com/)** or [Unedit](https://denvercoder1.github.io/unedit-for-reddit/) - View Deleted Reddit Posts
+* ⭐ **[Undelete](https://undelete.pullpush.io/)** - View Deleted Reddit Posts
 * [ReSavr](https://www.resavr.com/) or [Comment History](https://academictorrents.com/details/89d24ff9d5fbc1efcdaf9d7689d72b7548f699fc) - Reddit Comment Archives
 * [RSOG](https://www.rsog.org/) - Reddit Search on Google / [Userscript](https://greasyfork.org/en/scripts/462356)
 * [Expanse](https://github.com/jc9108/expanse), [redarcs](https://the-eye.eu/redarcs/), [Rareddit](https://www.rareddit.com/) or [Reddit Archive](https://www.redditarchive.com/) - Reddit Post Archive Tools / [Note](https://ibb.co/R9jC5bk)
