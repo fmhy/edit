@@ -124,7 +124,6 @@
 * [Thanox](https://tornaco.github.io/Thanox-Docs/en) - Android System Manager
 * [Winmoes](https://winmoes.com/) - Anime Windows Themes / Wallpapers
 * [Gridea](https://open.gridea.dev/) - Blog Writing Client
-* [Etoland](https://etoland.co.kr/) - Bulletin Board
 * [China Firewall Bypass Guide](https://github.com/vpncn/vpncn.github.io), [gfwlist](https://github.com/gfwlist/gfwlist), [XX-Net](https://github.com/XX-net/XX-Net) or [New Pac](https://github.com/Alvin9999/new-pac) - Bypass Chinese Firewall
 * [Kaiheila](https://www.kookapp.cn/) - Chinese Discord
 * [taioan](https://ji.taioan.org/) - Chinese Spell Check
@@ -584,6 +583,8 @@
 * ⭐ **[BanglaPlex](https://banglaplex.art/)** - Movies / Sub / Dub / 1080p
 * ⭐ **[AnPlay](https://anplay.in/)** - Anime / Dub / 1080p
 * ⭐ **[ToonStream](https://toonstream.day/)** - Cartoons / 1080p / [Telegram](https://telegram.me/toonstream)
+* [AniTime](https://anitime.aniwow.in/) - Anime / Dub / 1080p / [Discord](https://discord.com/invite/FgWTxZc3zr)
+https://aniwow.in/ has only dubs though
 * [9xmovies](https://9xmovies.fund/), [2](https://9kmovies.com/) - Movies / TV / Sub / Dub / 1080p / 4K
 * [HHDMovies](https://hhdmovies.baby/) - Movies / TV / Sub / Dub / 1080p
 * [Desi Serials](https://www.desi-serials.cc/), [2](https://playdesi.net/playdesi/) - South Asian Movies / TV / Live / Sub / Dub / 1080p
@@ -797,6 +798,7 @@
 * [National Hangeul Museum](https://www.hangeul.go.kr/main.do) - Hangeul Museum Information
 * [NAVER](https://www.naver.com/) - Search
 * [Free Korean Fonts](https://www.freekoreanfont.com/) - Korean Fonts
+* [Etoland](https://etoland.co.kr/) - Bulletin Board
 
 ## ▷ Downloading
 
@@ -1763,7 +1765,7 @@
 ## ▷ Streaming
 
 * [BiluTV](https://bilutvw.com/) - Movies / TV / Anime / Sub / Dub
-* [MotChill](https://motchilltv.to/) - Movies / TV
+* [MotChill](https://motchilltv.to/) - Movies / TV / Subs
 * [PhimMoi](https://phimmoiiii.net/) - Movies / TV
 * [Danet](https://danet.vn/) - Movies / TV
 * [XemPhim](https://xemphim.app/) - Movies / TV
