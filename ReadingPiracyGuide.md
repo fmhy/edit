@@ -704,7 +704,7 @@
 * ⭐ **[Sci-Hub](https://sci-hub.se/)** - Science Articles / Research Papers
 * ⭐ **Sci-Hub Tools** - [Telegram](https://t.me/freescience) / [Mirrors](https://vertsluisants.fr/index.php?article4/where-scihub-libgen-server-down), [2](https://sci-hub.hkvisa.net/) / [TG Bot](https://t.me/scihubot) / [Extension](https://addons.mozilla.org/en-US/firefox/addon/sci-hub-scholar/) / [DL Button](https://greasyfork.org/zh-CN/scripts/370246-sci-hub-button), [2](https://github.com/gchenfc/sci-hub-now) / [PDF Download](https://gagarine.medium.com/use-sci-hub-with-zotero-as-a-fall-back-pdf-resolver-cf139eb2cea7) / [Backup](https://redd.it/edwi9b) / [/r/scihub](https://reddit.com/r/scihub) / [VK](https://vk.com/sci_hub) / [DOI Redirect](https://greasyfork.org/en/scripts/412498)
 * ⭐ **[Google Scholar](https://scholar.google.com/)** - Academic Papers Search Engine
-* ⭐ **[Scinapse](https://scinapse.io/)** - Academic Papers Search Engine / [Free Method](https://pastebin.com/XfHP7h1N)
+* ⭐ **[Scinapse](https://scinapse.io/)** - Academic Papers Search Engine
 * ⭐ **[ResearchGate](https://www.researchgate.net/)** - Research Papers / Publications
 * ⭐ **[SciLit](https://www.scilit.net/)** - Research Papers / Publications
 * ⭐ **[Mendeley](https://www.mendeley.com/)** - Research Papers / [Data](https://data.mendeley.com/) / [Reference Manager](https://www.mendeley.com/download-reference-manager/)
