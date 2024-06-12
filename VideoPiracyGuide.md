@@ -40,6 +40,7 @@
 * [Levidia](https://www.levidia.ch/), [Supernova](https://supernova.to/) or [Goojara](https://www.goojara.to/) - Movies / TV / Anime / 1080p
 * [MoviesLair](https://movielair.cc/) - Movies / TV / 720p / [Discord](https://discord.gg/ZvRTYqTWtZ)
 * [uFlix](https://uflix.cc/) - Movies / TV / Anime / 720p
+* [nKiri](https://nkiri.cc/) - Movies / TV / 1080p / Ad-Free
 * [GoMo](https://gomo.to/) - Movies / TV / Anime / API / 1080p
 * [SuperEmbed](https://www.superembed.stream/) - Movies / TV / API / 1080p
 * [2embed](https://www.2embed.cc/) - Movies / TV / API / 1080p
