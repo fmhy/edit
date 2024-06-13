@@ -997,7 +997,7 @@ https://aniwow.in/ has only dubs though
 * [Jogorama](https://jogorama.com.br) - Game Index / Tips
 * [Dicionário MPB](https://dicionariompb.com.br) - Top Song Charts
 
-## ▷ Downloading
+## ▷ Downloading Baixando
 
 * ⭐ **[WR Educacional](https://www.wreducacional.com.br)** - Courses
 * [Rei dos Torrents](https://reidostorrents.com) - Video / Audio / Books / Sub / Dub / 1080p
@@ -1009,7 +1009,7 @@ https://aniwow.in/ has only dubs though
 * [Escola Educação](https://escolaeducacao.com.br/estude-gratis) - Courses
 * [Mundo Ubuntu](https://www.mundoubuntu.com.br) - Courses / Tech Guides
 
-## ▷ Torrenting
+## ▷ Torrenting Pirateando 
 
 * [Rei dos Torrents](https://reidostorrents.com) - Video / Audio/ Books
 * [OnTorrent](https://ontorrent.org/) - Movies / TV
@@ -1023,7 +1023,7 @@ https://aniwow.in/ has only dubs though
 * [Sua Música](https://www.suamusica.com.br) - Audio / MP3
 * [Livros e Cursos Download](https://timaterial.blogspot.com) - Courses
 
-## ▷ Streaming
+## ▷ Streaming Transmitindo
 
 * ⭐ **[Braflix](https://www.braflix.so/)** - Movies / TV / Anime / Dub / 4K / 1080p
 * ⭐ **[CriaFlix](https://criaflix.live/)** - Movies / TV / Anime / 1080p
@@ -1090,7 +1090,7 @@ https://aniwow.in/ has only dubs though
 * [Kboing FM](https://www.kboingfm.com.br/podcast/) - Podcasts
 * [Tastemade](https://www.tastemade.com.br) - Recipe Videos
 
-## ▷ Reading
+## ▷ Reading Lendo
 
 * [Bússola Escolar](http://www.bussolaescolar.com.br) - Educational Search Engine
 * [Livros Narrados](https://livrosnarrados.blogspot.com) - Audiobooks
@@ -1358,7 +1358,7 @@ https://aniwow.in/ has only dubs though
 * [Steamcito](https://emilianog94.github.io/Steamcito-Precios-Steam-Argentina-Impuestos-Incluidos/landing/index.html) - Converts Steam Prices to Argentine Pesos
 * [Universia](https://www.universia.net) - Spanish University Search
 
-## ▷ Downloading
+## ▷ Downloading Descargar
 
 * ⭐ **[DescargasDD](https://descargasdd.org/)** - Video / Audio / Castilian / Latino / [Telegram](https://t.me/joinchat/VAWOu0TNfOXfnauA)
 * ⭐ **[eMule](https://www.emule-project.com/home/perl/help.cgi?l=17&rm=show_topic&topic_id=586)** - Video / Audio / Reading / NSFW / Castilian
@@ -1427,7 +1427,7 @@ https://aniwow.in/ has only dubs though
 * [Cursos En Mega](https://t.me/s/cursosenmega) - Courses / [Bypass](https://greasyfork.org/en/scripts/462492)
 * [Hello-Python](https://github.com/mouredev/Hello-Python) or [python-web](https://github.com/mouredev/python-web) - Python Courses
 
-## ▷ Torrenting
+## ▷ Torrenting Torrentear
 
 * ⭐ **[DonTorrent](https://dontorrent.business/)**, [2](https://donproxies.com/) - Movies / TV / Documentaries / Castilian / [Telegram](https://t.me/s/DonTorrent) / [.onion](https://dontorufwmbqhnoe2wvko5ynis6axf7bqod6wkmdvxmjyek64tantlqd.onion/)
 * ⭐ **[MejorTorrent](https://www15.mejortorrent.rip/)** - Movies / TV / Documentaries / Castilian / [Telegram](https://t.me/s/MejorTorrentAp)
@@ -1449,7 +1449,7 @@ https://aniwow.in/ has only dubs though
 * [elcano.top](https://sg.hideip.co/direct/aHR0cDovL2VsY2Fuby50b3Av), [2](https://sg.4everproxy.com/direct/aHR0cDovL2VsY2Fuby50b3Av) - Live Sports Acestream IDs / [Matrix](https://matrix.to/#/!zrcckivBbqZjmykTPi:sibnsk.net?via=matrix.org&via=sibnsk.net) / [Link Scraper](https://github.com/ddgarciad03/IDS-Export)
 * [eventos-liart](https://eventos-liart.vercel.app/) - Live Sports Acestream IDs
 
-## ▷ Streaming
+## ▷ Streaming Streamear
 
 * 🌐 **[El Bucanero del Deporte](https://deportebucanero.wordpress.com/)** - Sports Piracy Directory
 * ⭐ **[Braflix](https://www.braflix.so/)** - Movies / TV / Anime / Dub / 4K / 1080p
@@ -1526,7 +1526,7 @@ https://aniwow.in/ has only dubs though
 * [Television Gratis](https://www.televisiongratishd.com/) - Live TV / Latino
 * [LaCasadelTikiTaka](https://www.lacasadeltikitaka.net/) - Live Soccer / MMA
 
-## ▷ Reading
+## ▷ Reading Leer
 
 * ⭐ **[Spanish Reading CSE](https://cse.google.com/cse?cx=85e4a562f2abf40f6)** / [SMAGX](https://smagx.com/) - Multi-Site Book Search
 * [libronube](https://www.libronube.com/) - Books
