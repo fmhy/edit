@@ -7,7 +7,7 @@
 # ► Documentaries
 
 * ⭐ **[IHaveNoTV](https://ihavenotv.com)**
-* ⭐ **[DocumentaryArea](https://www.documentaryarea.com/)**
+* ⭐ **[DocumentaryArea](https://www.documentaryarea.com/)** / Use PIP to remove watermark
 * ⭐ **[DocPlus](https://www.docplus.com/)**
 * ⭐ **[1337x Documentaries](https://1337x.to/top-100-documentaries)**
 * [LearnOutLoud](https://www.learnoutloud.com/)
@@ -55,7 +55,6 @@
 * [DigitalGarage](https://grow.google/intl/uk/courses-and-tools/) - Google Courses
 * [Lagunita](https://online.stanford.edu/lagunita-learning-platform) - Courses
 * [Hillsdale College](https://online.hillsdale.edu/) - Courses
-* [SelfSchool](https://selfschool.me/) - Courses
 * [Cursa](https://cursa.app/) - Courses
 * [OpenHPI](https://open.hpi.de/) - Courses
 * [Academic Earth](https://academicearth.org/) - Courses
@@ -127,7 +126,6 @@
 * ↪️ **[Typing Tests / Games](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools#wiki_.25B7_typing_lessons)**
 * ↪️ **[Survival / Prepping](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_survival)**
 * ⭐ **[PhET](https://phet.colorado.edu/)**, [Oak National Academy](https://teachers.thenational.academy/), [Cognito](https://www.cognitoedu.org/), [Academo](https://academo.org/) or [Runestone Interactive](https://runestone.academy/) - Interactive Lessons
-* ⭐ **[Fact Check](https://toolbox.google.com/factcheck/)** - Quick Fact Check
 * ⭐ **[/r/coolguides](https://reddit.com/r/coolguides/)**, [info.stylee32](https://info.stylee32.net/) or [coolguid.es](https://coolguid.es/) - Guides & Tutorials
 * ⭐ **[/r/educationalgifs](https://reddit.com/r/educationalgifs)** - Learn With GIFs
 * ⭐ **[/r/explainlikeimfive](https://www.reddit.com/r/explainlikeimfive/)** - Have Anything Explained Very Simply
@@ -565,6 +563,7 @@
 * [Chemistry Basics](https://saylordotorg.github.io/text_the-basics-of-general-organic-and-biological-chemistry/index.html) - Basics of General, Organic, and Biological Chemistry
 * [Tyler DeWitt](https://www.youtube.com/user/tdewitt451), [TheOrganicChemistryTutor](https://www.youtube.com/c/TheOrganicChemistryTutor), [Allery Chemistry](https://www.youtube.com/channel/UCPtWS4fCi25YHw5SPGdPz0g), [Khan Academy AP Chemistry](https://www.khanacademy.org/science/ap-chemistry-beta), [Organic Chemistry etext](https://www.chem.ucalgary.ca/courses/351/Carey5th/Carey.html), [ChemistryScore](https://chemistryscore.com/) or [PeriodicVideos](http://www.periodicvideos.com/) - Chemistry Lessons
 * [ChemicalAid](https://www.chemicalaid.com/) - Chemistry Calculators / Element Tables
+* [QuickChem](https://play.google.com/store/apps/details?id=com.map.michael.chemistry) - Chemistry Calculator
 * [PubChem](https://pubchem.ncbi.nlm.nih.gov/), [MOTM](https://www.chm.bris.ac.uk/motm/motm.htm), [NIST](https://webbook.nist.gov/chemistry/) or [EssentialChemicalIndustry](https://www.essentialchemicalindustry.org/) - Chemistry Wikis
 * [ChemistrySteps](https://www.chemistrysteps.com/) or [DocBrown](https://docbrown.info/) - Chemistry Practice / Guides
 * [Cliffnotes Chemistry](https://www.cliffsnotes.com/study-guides/chemistry/chemistry/elements/discovery-and-similarity) / [Organic Chemistry I](https://www.cliffsnotes.com/study-guides/chemistry/organic-chemistry-i) / [Organic Chemistry II](https://www.cliffsnotes.com/study-guides/chemistry/organic-chemistry-ii), [Chem Wiki](https://wiki.ch.ic.ac.uk/wiki/), [chemhelper](https://chemhelper.com/) or [chemguide](https://www.chemguide.co.uk) - Study Guides
