@@ -56,6 +56,7 @@
 * [OIE](https://www.online-image-editor.com/)
 * [IMG online](https://www.imgonline.com.ua/eng/)
 * [BitMappery](https://www.igorski.nl/application/bitmappery/)
+* [iPiccy](https://ipiccy.com/)
 * [Kapwing](https://www.kapwing.com/)
 * [ILoveImg](https://www.iloveimg.com/photo-editor)
 * [Panzoid](https://panzoid.com/)
