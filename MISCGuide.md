@@ -94,7 +94,7 @@
 * [EpicFreeGamesList](https://josephmate.github.io/EpicFreeGamesList/) - Epic Free Games List
 * [Steam Mods](https://store.steampowered.com/search/?maxprice=free&category1=997) - Steam Mods
 * [Freetchio](https://shaigrorb.github.io/freetchio/) - itch.io Games
-* [/r/googleplaydeals](https://reddit.com/r/googleplaydeals) - Free / Cheap APKs
+* [/r/GooglePlayDeals](https://reddit.com/r/googleplaydeals) - Free / Cheap APKs / [Extension](https://github.com/a-ton/gpd-bot)
 * [App Sales](https://www.app-sales.net/) - Free / Cheap APKs
 * [Play-Deals](https://github.com/psuzn/Play-Deals) - Free / Cheap APKs
 * [/r/AppHookup](https://www.reddit.com/r/AppHookup/) - Free / Cheap Software & APKs
@@ -208,6 +208,7 @@
 * [Packdensack](https://packdensack.com/) - Travel Packing List Generator
 * [Roadside America](https://www.roadsideamerica.com/), [RoadTrippers](https://roadtrippers.com/) or [MakeMyDriveFun](https://makemydrivefun.com/) - Roadside Attraction Guides
 * [TheSalmons](https://www.thesalmons.org/lynn/whgmap.html) - World Heritage Sites
+* [Kyoto Guide](https://scrapbox.io/kyotoguide/) - Kyoto Travel Guide
 * [SongKick](https://www.songkick.com/) or [FindYourFest](https://www.findyourfest.com/) - Find Concerts / Music Festivals
 * [Cadenza](http://www.cadenza.org/) - Find Classical / Contemporary Concerts
 * [DemoParty](https://www.demoparty.net/) - Find Demoscene Events
@@ -249,6 +250,7 @@
 * 🌐 **[Soar](https://soar.earth/)**, [ArcGIS Living Atlas](https://livingatlas.arcgis.com/), [Cool Maps](https://coolmaps.esri.com/) - Atlases
 * 🌐 **[Maps and Geospatial Products](https://www.ncei.noaa.gov/maps-and-geospatial-products)** - All NCEI Maps
 * ⭐ **[CrisisWatch](https://www.crisisgroup.org/crisiswatch)**, [ACLED](https://acleddata.com/dashboard/), [Global Conflict Tracker](https://www.cfr.org/global-conflict-tracker), [LiveUAMap](https://liveuamap.com/) or [Israeli-Palestine Conflict](https://israelpalestine.liveuamap.com/) - Global Conflicts Map
+* [Huge Earth Maps](https://maps.drsys.eu/) - High Rest Earth Maps
 * [The Cartographers' Guild](https://www.cartographersguild.com/) - Cartography Forum
 * [Color Brewer](https://colorbrewer2.org/) - Cartography Color Advice
 * [FixPhrase](https://fixphrase.com/) or [TextToMap](https://www.textomap.com/) - Text Based Map Search
@@ -696,6 +698,7 @@
 * [sajilocv](https://sajilocv.com/)
 * [GotResumeBuilder](https://www.gotresumebuilder.com/)
 * [Resume.com](https://www.resume.com/)
+* [Resume.io](https://resume.io/)
 * [intelligentcv](https://www.intelligentcv.app/)
 * [cakeresume](https://www.cakeresume.com/)
 * [resumgo](https://www.resumgo.com/)
@@ -930,6 +933,7 @@
 * ⭐ **[IsThereAnyDeal](https://isthereanydeal.com/)**
 * ⭐ **[SteamDB](https://steamdb.info/sales/)**
 * [CheapShark](https://www.cheapshark.com/) / [Discord](https://discord.com/invite/cheapshark)
+* [/r/GameDeals](https://www.reddit.com/r/gamedeals)
 * [PSPrices](https://psprices.com/)
 * [EpicGamesDC](https://epicgamesdb.info/) - Epic Store Price Tracker
 * [PriceCharting](https://www.pricecharting.com/) - Game, Comic & Trading Card Price Tracker
@@ -1158,6 +1162,7 @@
 * ↪️ **[Random Webcams](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_live_webcams)**
 * ↪️ **[4chan Archives](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/social-media#wiki_.25B7_4chan_archives)**
 * ⭐ **[SakugaBooru](https://www.sakugabooru.com/)** - Anime Animation Booru / [Enhancements](https://chromewebstore.google.com/detail/sakuga-extended/khmnmdaghmhkcbooicndamlhkcmpklmc)
+* [Topsters](https://topsters.org/) - Make Taste / Recommendation Collages
 * [DreamWidth](https://www.dreamwidth.org/) - User-Made Images & Stories
 * [MSPFA](https://mspfa.com/) - MS Paint Fan Adventures
 * [GigaMacro](https://viewer.gigamacro.com/) or [Gigapan](https://www.gigapan.com/) - Panoramic Photography
@@ -1344,6 +1349,7 @@
 * [VGA Museum](https://www.vgamuseum.info/) - Graphic Cards History / Info
 * [MobilePhoneMuseum](https://www.mobilephonemuseum.com/) - Mobile Phone History / Info
 * [Museum of Failure](https://collection.museumoffailure.com/), [KilledByGoogle](https://killedbygoogle.com/), [KilledByMicrosoft](https://killedbymicrosoft.info/) or [KilledByTech](https://killedby.tech/) - Dead Projects
+* [Projectrho](https://www.projectrho.com/public_html/rocket/) - Fantasy Rocket Encyclopedia
 * [UFO Casebook](https://www.ufocasebook.com/), [UFO Discovery](https://app.polymersearch.com/polymerexamples/UFO_Sightings) or [UFO Sighting Chart](https://i.redd.it/0l9ugv9kz4091.jpg) - UFO Sighting Lists / Tracking
 * [BFRO](https://bfro.net/) - Bigfoot Research Site
 * [TheShadowlands](https://theshadowlands.net/) - Oldschool Paranormal Research Site
