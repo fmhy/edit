@@ -249,18 +249,40 @@
 
 ***
 
+## ▷ Fanfiction / Stories
+
+* ⭐ **[Short Stories](https://short-stories.co/)**
+* [Archive of Our Own](https://archiveofourown.org/) - Fanfiction Archive / [Enhancements](https://github.com/jsmnbom/ao3-enhancements/)
+* [SCP Foundation](https://scp-wiki.wikidot.com/) - Fictional Story Colabs / [Wiki](https://en.wikipedia.org/wiki/SCP_Foundation) / [Subreddit](https://www.reddit.com/r/SCPDeclassified/)
+* [OrionsArm](https://www.orionsarm.com/) - Fictional Story Colabs
+* [Everything2](https://everything2.com/) - Short Stories / Poetry / Writing Help
+* [Fanfiction.net](https://fanfiction.net/) - Fanfiction
+* [SquidgeWorld](https://squidgeworld.org/) - Fanfiction
+* [Inkitt](https://www.inkitt.com/fanfiction) - Fanfiction
+* [Wattpad](https://wattpad.com/) - Fanfiction
+* [Royal Road](https://royalroad.com/) - Fanfiction
+* [Quotev](https://www.quotev.com/stories/c/Fanfiction) - Fanfiction
+* [fiction.live](https://fiction.live/) - Fanfiction
+* [Booksie](https://www.booksie.com/) - Short Stories
+* [Vestal Review](https://www.vestalreview.net/) - Short Stories
+* [Library of Short Stories](https://www.libraryofshortstories.com/) - Short Stories
+* [Liminal Archives](http://liminal-archives.wikidot.com/) / [Discord](https://discord.gg/fxhwcsyKN2), [The Backrooms Wiki](http://backrooms-wiki.wikidot.com/) or [The Voidclusters](http://voidclusters.wikidot.com/) - Liminal Space Stories
+* [Potions and Snitches](https://www.potionsandsnitches.org/) - Harry Potter Fanfiction
+* [Fim Fiction](https://www.fimfiction.net/) - MLP Fanfiction
+* [Project Aon](https://www.projectaon.org/en/Main/Home) - Lone Wolf Gamebooks
+* [Projectrho](https://www.projectrho.com/public_html/rocket/) - Fantasy Rocket Encyclopedia
+
+***
+
 ## ▷ Special Interest
 
 * ↪️ **[Cookbooks / Recipes](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25BA_food)**
 * ↪️ **[Survival / Prepping](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_survival)**
 * ↪️ **[Quote Collections](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_quotes)**
 * ↪️ **[UFO Books](https://rentry.co/FMHYBase64#ufo-books)**
-* ⭐ **[Short Stories](https://short-stories.co/)**, [Booksie](https://www.booksie.com/), [Vestal Review](https://www.vestalreview.net/) or [Library of Short Stories](https://www.libraryofshortstories.com/) - Short Stories
 * ⭐ **[Poetry Foundation](https://www.poetryfoundation.org/)**, [Poetry In Translation](https://www.poetryintranslation.com/), [PoemHunter](https://www.poemhunter.com/), [CAPA](https://capa.conncoll.edu/), [DiscoverPoetry](https://discoverpoetry.com/), [RUVerses](https://ruverses.com/), [PoetryNook](https://poetrynook.com/) or [Poetry.com](https://www.poetry.com/) - Poetry
 * ⭐ **[MorbidKuriosity](https://morbidkuriosity.com/)** - Conspiracies, Dark History, Crime, Myths etc.
 * ⭐ **[The Anarchist Library](https://theanarchistlibrary.org/special/index)** - Anarchism
-* ⭐ **[EasyPeasy](https://easypeasymethod.org/)** - Painlessly Quit Pornography
-* [Everything2](https://everything2.com/) - Short Stories / Poetry / Writing Help
 * [FreeSFOnline](https://www.freesfonline.net/) - Sci-Fi / Fantasy
 * [EpubPuB](https://www.epub.pub/) - Romance / Fantasy
 * [HourWolf](https://www.hourwolf.com/sfbooks/) - Fantasy
@@ -280,14 +302,6 @@
 * [Film Books](https://rentry.co/FMHYBase64#film-books) - Books about Films
 * [HypnosisChatBooks](https://t.me/HypnosisChatBooks) - Hypnosis / Telegram
 * [diyhpluswiki](https://diyhpl.us/wiki/) - DIY Biohacking
-* [Project Aon](https://www.projectaon.org/en/Main/Home) - Lone Wolf Gamebooks
-* [Fanfiction.net](https://fanfiction.net/), [SquidgeWorld](https://squidgeworld.org/), [Wattpad](https://wattpad.com/), [Royal Road](https://royalroad.com/) or [fiction.live](https://fiction.live/) - Fanfiction Sites
-* [Archive of Our Own](https://archiveofourown.org/) - Fanfiction Archive / [Enhancements](https://github.com/jsmnbom/ao3-enhancements/)
-* [Potions and Snitches](https://www.potionsandsnitches.org/) - Harry Potter Fanfiction
-* [Fim Fiction](https://www.fimfiction.net/) - MLP Fanfiction
-* [Liminal Archives](http://liminal-archives.wikidot.com/) / [Discord](https://discord.gg/fxhwcsyKN2), [The Backrooms Wiki](http://backrooms-wiki.wikidot.com/) or [The Voidclusters](http://voidclusters.wikidot.com/) - Liminal Space Stories
-* [SCP Foundation](https://scp-wiki.wikidot.com/) / [Wiki](https://en.wikipedia.org/wiki/SCP_Foundation) / [Subreddit](https://www.reddit.com/r/SCPDeclassified/) or [OrionsArm](https://www.orionsarm.com/) - Fictional Story Colabs
-* [Projectrho](https://www.projectrho.com/public_html/rocket/) - Fantasy Rocket Encyclopedia
 * [The Trove](https://web.archive.org/web/20210614215400/https://thetrove.is/) - Books / Fantasy / TTRPG
 * [DriveThruRPG](https://www.drivethrurpg.com/browse.php?pfrom=&pto=0&x=0&y=0) or [TTRPG Torrent](https://rentry.co/FMHYBase64#ttrpg-books) - TTRPG Books
 * [Trans Reads](https://transreads.org/) - Transgender-focused Literature
@@ -883,6 +897,7 @@
 * [Pickwick](https://pickwick.app/) - Fanfiction / Story Database
 * [ISFDB](https://isfdb.org/) - Speculative Fiction
 * [nooSFere](https://www.noosfere.org/) - Science Fiction
+* [Romance.io](https://www.romance.io/ ) - Romance Database
 * [BookStash](https://bookstash.io/), [Summrize](https://www.summrize.com/) or [Glimbay](https://glimbay.netlify.app/) - Book Summaries
 * [/r/Marvel Recommended](https://www.reddit.com/r/Marvel/wiki/faq) - Marvel Comic Recommendations
 * [/r/DCcomics Recommended](https://www.reddit.com/r/DCcomics/wiki/recommended) - DC Comic Recommendations
