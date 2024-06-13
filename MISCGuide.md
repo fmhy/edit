@@ -832,6 +832,7 @@
 * 🌐 **[ChainList](https://chainlist.org/)** - EVM RPC List
 * ⭐ **[WalletScrutiny](https://walletscrutiny.com/)** - Verify Crypto Wallets are Open-Source / Secure
 * ⭐ **[Trocador](https://trocador.app/en/)** - Bitcoin Exchange App
+* ⭐ **[SecureShift](https://secureshift.io/en/)** - Bitcoin and defi Exchange App support multiple assest.
 * [BitcoinTalk](https://bitcointalk.org/) - Bitcoin Forum
 * [Bitbox](https://bitbox.swiss/), [Ledger](https://www.ledger.com/) or [Trezor](https://trezor.io/) - Hardware Wallets
 * [BTCPay](https://btcpayserver.org/) - FOSS Bitcoin Payment Processor
