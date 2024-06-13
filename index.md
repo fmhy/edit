@@ -28,7 +28,7 @@ features:
   - title: Movies / TV / Anime
     icon: <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 24 24"><g fill="none" stroke="#7aa2f7" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"><rect width="20" height="15" x="2" y="7" rx="2" ry="2"/><path d="m17 2l-5 5l-5-5"/></g></svg>
     link: /videopiracyguide
-    details: Download, stream, torrent and binge all your favourites movies or shows!
+    details: Stream, download, torrent and binge all your favourites movies or shows!
   - title: Music / Podcasts / Radio
     icon: <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 24 24"><g fill="none" stroke="#ad7fa8" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"><path d="M9 18V5l12-2v13M9 9l12-2"/><circle cx="6" cy="18" r="3"/><circle cx="18" cy="16" r="3"/></g></svg>
     link: /audiopiracyguide
