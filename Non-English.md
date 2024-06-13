@@ -144,7 +144,7 @@
 * [BlockedInChina](https://www.comparitech.com/privacy-security-tools/blockedinchina/) or [China Firewall Test](http://www.chinafirewalltest.com/) - Test if Site is Blocked in China
 * [ICIBA](https://www.iciba.com/) / [Client](https://cp.iciba.com/), [Fanyi](https://fanyi.qq.com/) or [YouDao](https://fanyi.youdao.com/) - Translators
 
-## ▷ Downloading 下载
+## ▷ Downloading / 下载
 
 * [shinybbs](https://sysub.vip/) - Movies / TV / 1080p
 * [Hifini](https://www.hifini.com/) or [J-pop Music Download](https://jpop.xyz/category/c-pop/) - Music / FLAC / MP3
@@ -169,7 +169,7 @@
 * [Mikan](https://mikanani.me/) - Anime
 * [AnimeTrackerList](https://github.com/DeSireFire/animeTrackerList) - Anime Trackers List
 
-## ▷ Streaming 流媒体  
+## ▷ Streaming / 流媒体  
 
 * 🌐 **[Tvlist-awesome-m3u-m3u8](https://github.com/imDazui/Tvlist-awesome-m3u-m3u8)** - IPTV Resources
 * 🌐 **[Chinese Drama Site Index](https://www.reddit.com/r/CDrama/wiki/streaming)** - Chinese Drama Sites Index
@@ -208,7 +208,7 @@
 * [free-project-course](https://github.com/resumejob/free-project-course) - Programming Courses
 * [Baidu SkyDrive Video Player](https://greasyfork.org/en/scripts/426952-%E7%99%BE%E5%BA%A6%E7%BD%91%E7%9B%98%E8%A7%86%E9%A2%91%E6%92%AD%E6%94%BE%E5%B0%8A%E4%BA%AB-vip-%E8%A7%A3%E9%94%81%E8%A7%86%E9%A2%91%E5%80%8D%E6%95%B0-%E8%A7%A3%E9%94%81%E5%85%A8%E9%83%A8%E6%B8%85%E6%99%B0%E5%BA%A6) - Baidu VIP Video Player
 
-## ▷ Reading 阅读 
+## ▷ Reading / 阅读 
 
 * ⭐ **[69xinshu](https://www.69shu.top/)** - Fiction
 * [Jiumo](https://www.jiumodiary.com/) - Book Search Engine
@@ -305,13 +305,13 @@
 * [finna.fi](https://www.finna.fi/) - Media Archive / Library Card Required
 * [Sanuli](https://sanuli.fi/) - Finnish Wordle
 
-## ▷ Streaming Suoratoisto
+## ▷ Streaming / Suoratoisto
 
 * [Elonet](https://elonet.finna.fi/) - Classic Movies
 * [Areena](https://areena.yle.fi/) - Movies / TV / 1080p
 * [TVKaista](https://www.tvkaista.org/) - Finnish IPTV
 
-## ▷ Reading Lukeminen
+## ▷ Reading / Lukeminen
 
 * [Lonnrot](http://www.lonnrot.net/) - Books
 * [HistDoc](https://histdoc.net/) - Historical Finnish Documents
@@ -340,7 +340,7 @@
 * [Abandonware France](https://www.abandonware-france.org/index.php) - Abandonware
 * [TousLesDrivers](https://www.touslesdrivers.com/) - Drivers
 
-## ▷ Torrenting Télecharger
+## ▷ Torrenting / Télecharger
 
 * [Torrent9](https://www.torrent9.se/), [2](https://www.torrent9.site/), [3](https://torrent9.app/) - Video / Audio / ROMs / Books
 * [Torrent911](https://www.torrent911.wf/) - Video / Audio / ROMs / Books
@@ -376,7 +376,7 @@
 * [CatoonHub](https://catoonhub.com/) - Cartoons / Dub / 720p / [Discord](https://discord.com/invite/M7gRTuXc6d)
 * [Lesics](https://youtube.com/@LesicsFR) - Engineering Courses
 
-## ▷ Reading Lecture 
+## ▷ Reading / Lecture 
 
 * [Bookys](https://ww8.bookys-ebooks.com/) - Books / Comics / Magazines / Newspapers / NSFW
 * [zone-ebook.com](https://zone-ebook.com/) - Books / Comics / Magazines / Newspapers / Audiobooks
@@ -636,14 +636,14 @@ https://aniwow.in/ has only dubs though
 
 * [bebasid](https://github.com/bebasid/bebasid) - Indonesian Site Unblock Proxies / [DNS](https://github.com/bebasid/bebasdns) / [Script](https://gist.github.com/mul14/eb05e88fcec5bb195cbb)
 
-## ▷ Downloading Mengunduh
+## ▷ Downloading / Mengunduh
 
 * [Kusonime](https://kusonime.com/) - Anime / Sub / Dub / 1080p / [Discord](https://discord.com/invite/4A7RqFraZW)
 * [AniBatch](https://anibatch.anibatch.moe/), [2](https://www.animebatch.id/) - Anime / Dub / 1080p
 * [Samehadaku](https://samehadaku.care/) - Anime / Sub / 1080p / [Telegram](https://t.me/samehadaku_care)
 * [IndonesiaEbook](https://ebook.twointomedia.com/) - Books
 
-## ▷ Streaming Menyiarkan
+## ▷ Streaming / Menyiarkan
 
 * [anoBoy](https://anoboy.baby/) - Anime / Sub / 1080p
 * [Kazefuri](https://kazesub.com/) - Anime / Sub / 1080p
@@ -654,7 +654,7 @@ https://aniwow.in/ has only dubs though
 * [ANIsub](https://anisub.monster/) - Anime / Sub / 720p
 * [Lesics](https://youtube.com/@LesicsIndo) - Engineering Courses
 
-## ▷ Reading Membaca
+## ▷ Reading / Membaca
 
 * [YuuManga](https://yuumanga.blogspot.com/) - Manga
 * [ManhwaIndo](https://manhwaindo.net/) - Manga
@@ -719,7 +719,7 @@ https://aniwow.in/ has only dubs though
 * [goo](https://www.goo.ne.jp/) or [Yahoo Japan](https://search.yahoo.co.jp/) - Search
 * [megalodon](https://megalodon.jp/) or [gyo.tc](https://gyo.tc/) - JP Web archive tool
 
-## ▷ Downloading ダウンロード
+## ▷ Downloading / ダウンロード
 
 * [Akiba-Online](https://www.akiba-online.com/) - Video / Audio / Comics / NSFW / 1080p
 * [Asia Media Blog](https://asiamediablog.com/) - Video / Audio / Magazines / NSFW / 1080p
@@ -734,14 +734,14 @@ https://aniwow.in/ has only dubs though
 * [MinimumMusic](https://minimummusic.com/) - FLAC / MP3 / FLAC
 * [Perfect Dark](http://kasumi.moe/pd/) - P2P App
 
-## ▷ Torrenting トレント
+## ▷ Torrenting / トレント
 
 * [share.dmhy](https://share.dmhy.org/) - Video / Audio / Games / NSFW
 * [Beatrice](https://beatrice-raws.org/) - Anime / [Discord](https://discord.com/invite/Hry7EkU) / [Telegram](https://t.me/BeatriceRaws)
 * [Anime-Torrent](https://www.anime-torrent.com/) - Anime
 * [VCB-S](https://vcb-s.com/) - Anime
 
-## ▷ Streaming ストリーミング
+## ▷ Streaming / ストリーミング
 
 * [NicoVideo](https://www.nicovideo.jp/) - Japanese YouTube Alternative
 * [momotheater](https://momotheater.com/) - Movies / Anime / Sub / 720p
@@ -754,7 +754,7 @@ https://aniwow.in/ has only dubs though
 * [kuukunen](https://touhou.kuukunen.net/) - Music
 * [SimulRadio](https://simulradio.info/) - Radio
 
-## ▷ Reading 読書,読む
+## ▷ Reading / 読書,読む
 
 * 🌐 **[Rawmangaz](https://rentry.co/rawmangaz)** - List of Raw Manga Sites
 * [senmanga](https://raw.senmanga.com/) - Manga / Novels / NSFW
@@ -863,7 +863,7 @@ https://aniwow.in/ has only dubs though
 * [Persian Calendar](https://github.com/persian-calendar/persian-calendar) - Android Persian Calendar
 * [parseek](https://www.parseek.com/) - Search
 
-## ▷ Downloading دانلود 
+## ▷ Downloading / دانلود 
 
 * 🌐 **[Persian Telegram Courses](https://rentry.co/sn66v)** - Persian Courses Index
 * [git_ir](https://t.me/git_ir) - Programming Courses
@@ -906,7 +906,7 @@ https://aniwow.in/ has only dubs though
 
 * [TorPlayBot](https://t.me/TorPlaybot) - Torrent Download Telegram Bot
 
-## ▷ Streaming پخش  
+## ▷ Streaming / پخش  
 
 * [FarsiLand](https://farsiland.com/) - Persian Movies / TV / 1080p
 * [IMVBox](https://www.imvbox.com/fa/) - Persian Movies / TV / 1080p
@@ -920,7 +920,7 @@ https://aniwow.in/ has only dubs though
 * [VMusic](https://vmusic.ir/) - Music / MP3
 * [Awesome Persian Podcasts](https://github.com/ashkanRmk/awesome-persian-podcasts) - Podcasts
 
-## ▷ Reading خواندن 
+## ▷ Reading / خواندن 
 
 * [parsbook.com](https://www.parsbook.com/) - Educational / Programming / Engineering
 * [Afghanistandl](https://afghanistandl.nyu.edu/) - Historical Books
@@ -997,7 +997,7 @@ https://aniwow.in/ has only dubs though
 * [Jogorama](https://jogorama.com.br) - Game Index / Tips
 * [Dicionário MPB](https://dicionariompb.com.br) - Top Song Charts
 
-## ▷ Downloading Baixando
+## ▷ Downloading / Baixando
 
 * ⭐ **[WR Educacional](https://www.wreducacional.com.br)** - Courses
 * [Rei dos Torrents](https://reidostorrents.com) - Video / Audio / Books / Sub / Dub / 1080p
@@ -1009,7 +1009,7 @@ https://aniwow.in/ has only dubs though
 * [Escola Educação](https://escolaeducacao.com.br/estude-gratis) - Courses
 * [Mundo Ubuntu](https://www.mundoubuntu.com.br) - Courses / Tech Guides
 
-## ▷ Torrenting Pirateando 
+## ▷ Torrenting / Pirateando 
 
 * [Rei dos Torrents](https://reidostorrents.com) - Video / Audio/ Books
 * [OnTorrent](https://ontorrent.org/) - Movies / TV
@@ -1023,7 +1023,7 @@ https://aniwow.in/ has only dubs though
 * [Sua Música](https://www.suamusica.com.br) - Audio / MP3
 * [Livros e Cursos Download](https://timaterial.blogspot.com) - Courses
 
-## ▷ Streaming Transmitindo
+## ▷ Streaming / Transmitindo
 
 * ⭐ **[Braflix](https://www.braflix.so/)** - Movies / TV / Anime / Dub / 4K / 1080p
 * ⭐ **[CriaFlix](https://criaflix.live/)** - Movies / TV / Anime / 1080p
@@ -1090,7 +1090,7 @@ https://aniwow.in/ has only dubs though
 * [Kboing FM](https://www.kboingfm.com.br/podcast/) - Podcasts
 * [Tastemade](https://www.tastemade.com.br) - Recipe Videos
 
-## ▷ Reading Lendo
+## ▷ Reading / Lendo
 
 * [Bússola Escolar](http://www.bussolaescolar.com.br) - Educational Search Engine
 * [Livros Narrados](https://livrosnarrados.blogspot.com) - Audiobooks
@@ -1196,7 +1196,7 @@ https://aniwow.in/ has only dubs though
 * [World Art](http://www.world-art.ru/) - Movie / Anime / Game Reviews and Art Display
 * [Cute Chan](https://kpop.re/) - K-Pop Imageboard
 
-## ▷ Downloading Скачивать
+## ▷ Downloading / Скачивать
 
 * ⭐ **[4PDA](https://4pda.to/forum/)** - Android / iOS
 * [m0nkrus](https://w14.monkrus.ws/) or [DC Hublist](https://dchublist.ru/hubs/) - Software
@@ -1212,7 +1212,7 @@ https://aniwow.in/ has only dubs though
 * [KinoMuzic](https://kinomuzic.ru/) - Soundtracks / Audiobooks / MP3 / FLAC
 * [Course Hunter](https://coursehunter.net/) or [Sliwbl](https://s1.sliwbl.com/) - Programming Courses
 
-## ▷ Torrenting Пиратить
+## ▷ Torrenting / Пиратить
 
 * 🌐 **[toptracker](https://toptracker.ru/)** - Torrent Site List
 * 🌐 **[UpTracker](https://www.uptracker.ru/)** - Torrent Tracker Index
@@ -1242,7 +1242,7 @@ https://aniwow.in/ has only dubs though
 * [Selezen](https://www.selezen.club/) - Movies
 * [RGFootball](http://rgfootball.net/) - Sports
 
-## ▷ Streaming Транслировать
+## ▷ Streaming / Транслировать
 
 * ⭐ **[rezka](https://rezka.ag/)**, [2](https://hdrezka.ag/) - Movies / TV / Anime / Sub / Dub / 4K / 1080p
 * ⭐ **[KinoProfi](https://content.kinoprofi.club/)** - Movies / TV / Cartoons / Dub / 1080p
@@ -1295,7 +1295,7 @@ https://aniwow.in/ has only dubs though
 * [Teach.in](https://teach-in.ru/) - Lectures
 * [videotuts](https://videotuts.ru/) - Design Video Tutorials
 
-## ▷ Reading читать
+## ▷ Reading / читать
 
 * ⭐ **[CyberLeninka](https://cyberleninka.ru/)** - Articles / Educational / Scientific / Legal
 * ⭐ **[Lib.ru](http://lib.ru/)** - Books
@@ -1358,7 +1358,7 @@ https://aniwow.in/ has only dubs though
 * [Steamcito](https://emilianog94.github.io/Steamcito-Precios-Steam-Argentina-Impuestos-Incluidos/landing/index.html) - Converts Steam Prices to Argentine Pesos
 * [Universia](https://www.universia.net) - Spanish University Search
 
-## ▷ Downloading Descargar
+## ▷ Downloading / Descargar
 
 * ⭐ **[DescargasDD](https://descargasdd.org/)** - Video / Audio / Castilian / Latino / [Telegram](https://t.me/joinchat/VAWOu0TNfOXfnauA)
 * ⭐ **[eMule](https://www.emule-project.com/home/perl/help.cgi?l=17&rm=show_topic&topic_id=586)** - Video / Audio / Reading / NSFW / Castilian
@@ -1427,7 +1427,7 @@ https://aniwow.in/ has only dubs though
 * [Cursos En Mega](https://t.me/s/cursosenmega) - Courses / [Bypass](https://greasyfork.org/en/scripts/462492)
 * [Hello-Python](https://github.com/mouredev/Hello-Python) or [python-web](https://github.com/mouredev/python-web) - Python Courses
 
-## ▷ Torrenting Torrentear
+## ▷ Torrenting / Torrentear
 
 * ⭐ **[DonTorrent](https://dontorrent.business/)**, [2](https://donproxies.com/) - Movies / TV / Documentaries / Castilian / [Telegram](https://t.me/s/DonTorrent) / [.onion](https://dontorufwmbqhnoe2wvko5ynis6axf7bqod6wkmdvxmjyek64tantlqd.onion/)
 * ⭐ **[MejorTorrent](https://www15.mejortorrent.rip/)** - Movies / TV / Documentaries / Castilian / [Telegram](https://t.me/s/MejorTorrentAp)
@@ -1449,7 +1449,7 @@ https://aniwow.in/ has only dubs though
 * [elcano.top](https://sg.hideip.co/direct/aHR0cDovL2VsY2Fuby50b3Av), [2](https://sg.4everproxy.com/direct/aHR0cDovL2VsY2Fuby50b3Av) - Live Sports Acestream IDs / [Matrix](https://matrix.to/#/!zrcckivBbqZjmykTPi:sibnsk.net?via=matrix.org&via=sibnsk.net) / [Link Scraper](https://github.com/ddgarciad03/IDS-Export)
 * [eventos-liart](https://eventos-liart.vercel.app/) - Live Sports Acestream IDs
 
-## ▷ Streaming Streamear
+## ▷ Streaming / Streamear
 
 * 🌐 **[El Bucanero del Deporte](https://deportebucanero.wordpress.com/)** - Sports Piracy Directory
 * ⭐ **[Braflix](https://www.braflix.so/)** - Movies / TV / Anime / Dub / 4K / 1080p
@@ -1526,7 +1526,7 @@ https://aniwow.in/ has only dubs though
 * [Television Gratis](https://www.televisiongratishd.com/) - Live TV / Latino
 * [LaCasadelTikiTaka](https://www.lacasadeltikitaka.net/) - Live Soccer / MMA
 
-## ▷ Reading Leer
+## ▷ Reading / Leer
 
 * ⭐ **[Spanish Reading CSE](https://cse.google.com/cse?cx=85e4a562f2abf40f6)** / [SMAGX](https://smagx.com/) - Multi-Site Book Search
 * [libronube](https://www.libronube.com/) - Books
@@ -1593,7 +1593,7 @@ https://aniwow.in/ has only dubs though
 * [037hdmovie](https://www.037hdmovie.com/) - Movies
 * [movie11](https://movie11.com/) - Movies
 
-## ▷ Reading การอ่าน
+## ▷ Reading / การอ่าน
 
 * [niceoppai](https://www.niceoppai.net/) - Manga
 * [kingsmanga](https://www.kingsmanga.net/) - Manga
@@ -1746,7 +1746,7 @@ https://aniwow.in/ has only dubs though
 * [Unity_Cheat_Sheet](https://github.com/NaomiLe1811/Unity_Cheat_Sheet_Tieng_Viet) - Unity Game Engine Cheat Sheet
 * [hostsVN](https://bigdargon.github.io/hostsVN/), [iBlockAds](https://iblockads.net/), [FMSF2](https://nmtrung.com/fmsf-2/) or [ABPVN](https://abpvn.com/) - Vietnamese Adblock Filters
 
-## ▷ Downloading Tải xuống
+## ▷ Downloading / Tải xuống
 
 * [Fshare](https://timfshare.com/) - Video / Audio
 * [PhimDidibkk](https://phim.didibkk.com/) - Movies / TV / Anime
@@ -1756,13 +1756,13 @@ https://aniwow.in/ has only dubs though
 * [NhacHay360](https://nhachayvn.net/) - Music
 * [123doc](https://123docz.net/trang-chu.htm) - Doccumentary
 
-## ▷ Torrenting Tải tệp bằng torrent
+## ▷ Torrenting / Tải tệp bằng torrent
 
 * [NetHD](https://nethd.org/) - Video / Audio
 * [3ChangTrai](https://3changtrai.com/) - Video / Audio
 * [HQMusic](http://hqmusic.info/index.php) - Audio / [Facebook](https://www.facebook.com/page.hqmusic.info/)
 
-## ▷ Streaming Phát trực tuyến
+## ▷ Streaming / Phát trực tuyến
 
 * [BiluTV](https://bilutvw.com/) - Movies / TV / Anime / Sub / Dub
 * [MotChill](https://motchilltv.to/) - Movies / TV / Sub
@@ -1807,7 +1807,7 @@ https://aniwow.in/ has only dubs though
 * [Keeng](https://keeng.vn/) - Music
 * [Imuzik](https://imuzik.com.vn/) - Music
 
-## ▷ Reading Đọc
+## ▷ Reading / Đọc
 
 * ⭐ **[hoc10](https://hoc10.vn/)** - Textbooks, Study Material, Lecture Notes etc.
 * ⭐ **[Thư  Viện Pháp Luật](https://thuvienphapluat.vn/)** - Legal Information Portal / [Facebook](https://www.facebook.com/ThuVienPhapLuat.vn/) 
