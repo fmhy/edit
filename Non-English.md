@@ -452,7 +452,7 @@
 * [mediathekviewweb](https://mediathekviewweb.de/) - IPTV
 * [hoerspielprojekt](https://www.hoerspielprojekt.de/) - Radio
 
-## ▷ Reading
+## ▷ Reading / Lesen
 
 * [Dokumen](https://dokumen.pub/) - Books
 * [EBook Land](https://www.ebook-land.cc/index.php) - Books / Magazines
