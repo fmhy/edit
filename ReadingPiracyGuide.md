@@ -270,7 +270,6 @@
 * [Potions and Snitches](https://www.potionsandsnitches.org/) - Harry Potter Fanfiction
 * [Fim Fiction](https://www.fimfiction.net/) - MLP Fanfiction
 * [Project Aon](https://www.projectaon.org/en/Main/Home) - Lone Wolf Gamebooks
-* [Projectrho](https://www.projectrho.com/public_html/rocket/) - Fantasy Rocket Encyclopedia
 
 ***
 
