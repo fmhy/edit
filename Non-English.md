@@ -4,7 +4,7 @@
 ***
 ***
 
-* **Note** - This section can be used to get movies, music, books, courses etc. but for anything you install, like games, software, or apks, its highly recommended to use the english sections instead. The only exceptions are sites like m0nkrus that have very good reputations. Keep in mind you can always change the language in the installers.
+* **Note** -  This section can be used to get movies, music, books, courses, etc. but for anything you install, like games, software, or APKs, it's highly recommended to use the English sections instead. The only exceptions are sites like m0nkrus that have very good reputations. Keep in mind that you can always change the language in the installers.
 
 ***
 
@@ -754,7 +754,7 @@ https://aniwow.in/ has only dubs though
 * [kuukunen](https://touhou.kuukunen.net/) - Music
 * [SimulRadio](https://simulradio.info/) - Radio
 
-## ▷ Reading / 読書,読む
+## ▷ Reading / 読書
 
 * 🌐 **[Rawmangaz](https://rentry.co/rawmangaz)** - List of Raw Manga Sites
 * [senmanga](https://raw.senmanga.com/) - Manga / Novels / NSFW
