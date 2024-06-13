@@ -73,7 +73,6 @@
 ## ▷ Bookmark Managers
 
 * ⭐ **[Raindrop.io](https://raindrop.io/)**
-* ⭐ **[Saved.io](https://saved.io/)**
 * [Pilgrim](https://pilgrim.are.na/) - Tree Style Path Bookmarking
 * [Bort](https://bort.io/) - Bookmark Manager that Syncs with Dropbox
 * [Bookmarklets Guide](https://rentry.co/bookmarklets-guide) - Useful Bookmarklets / Guide
@@ -97,7 +96,6 @@
 * [Openoox](https://openoox.com/)
 * [Mission Control](https://mission-control.app/)
 * [histre](https://histre.com/)
-* [BrainyTab](https://brainytab.com/)
 * [Zulu](https://tryzulu.com/)
 * [Contentle](https://contentle.com/)
 * [Clipix](https://www.clipix.com/)
