@@ -406,7 +406,7 @@
 * [F-Online](https://app.f-online.at/) - Austrian Driving License Learning App
 * [Cashback Optimizer](https://kolateeprojects.gitlab.io/cashback_optimizer/) - Cashback Checker
 
-## ▷ Downloading
+## ▷ Downloading / Herunterladen
 
 * [Crawli](https://crawli.net/) - Download Search
 * [ArchivX](https://www.archivx.to/) or [StartSeite](https://startseite.to/) - Warez Lists
