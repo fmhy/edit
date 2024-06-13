@@ -51,6 +51,7 @@
 * [Reka Playground](https://chat.reka.ai/) - Reka's Chatbot
 * [Poe](https://poe.com/) - Multiple Chatbots / 150 Daily / [Discord](https://discord.com/invite/joinpoe)
 * [GlobalGPT](https://www.globalgpt.nspiketech.com/#/) - AI Chatbot with Document Support
+* [Ai Uncensored](https://www.aiuncensored.info/) - AI Chatbot Uncensored
 
 ***
 
