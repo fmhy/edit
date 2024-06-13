@@ -98,6 +98,7 @@
 * [Meawfy](https://meawfy.com/) - Mega.nz Search
 * [File Host Search](https://cse.google.com/cse?cx=90a35b59cee2a42e1)
 * [scnlog](https://scnlog.me/)
+* [fidigger](https://fidigger.com/)
 * [filesearch.link](https://filesearch.link/)
 * [Linktury](https://www.linktury.com/)
 * [MediafireTrend](https://mediafiretrend.com/) - Mediafire Search
