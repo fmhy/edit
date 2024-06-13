@@ -47,11 +47,11 @@
 * [iSeek](https://www.iseek.com/) - AI Search Engine
 * [Exa](https://exa.ai/) - AI Search Engine / [Discord](https://discord.com/invite/jvz7GS9W8Y)
 * [Lepton Search](https://search.lepton.run/) - AI Search Engine
+* [Ai Uncensored](https://www.aiuncensored.info/) - "Uncensored" Chatbot 
 * [Pi](https://pi.ai/talk) - Inflection AI's Chatbot
 * [Reka Playground](https://chat.reka.ai/) - Reka's Chatbot
 * [Poe](https://poe.com/) - Multiple Chatbots / 150 Daily / [Discord](https://discord.com/invite/joinpoe)
 * [GlobalGPT](https://www.globalgpt.nspiketech.com/#/) - AI Chatbot with Document Support
-* [Ai Uncensored](https://www.aiuncensored.info/) - AI Chatbot Uncensored
 
 ***
 
