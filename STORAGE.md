@@ -37,20 +37,6 @@
 
 ***
 
-## Android Audio Players
-
-* ⭐ **[Poweramp](https://forum.mobilism.org/search.php?keywords=poweramp&sr=topics&sf=titleonly)**
-* ⭐ **[AIMP](https://www.aimp.ru/?do=download&os=android)**
-* ⭐ **[Musicolet Music Player](https://krosbits.in/musicolet/)**
-* ⭐ **[BlackPlayer EX](https://www.revdl.com/blackplayer-ex-apk-download.html/)**
-* ⭐ **[Symphony](https://zyrouge.github.io/symphony/)**
-* [Finamp](https://github.com/jmshrv/finamp) - Jellyfin Music Player
-* [Ultrasonic](https://gitlab.com/ultrasonic/ultrasonic) - Subsonic Clients
-
-[Harmonoid](https://harmonoid.com/), [VLC for Android](https://www.videolan.org/vlc/download-android.html), [mpv-android](https://github.com/mpv-android/mpv-android), [Foobar2000](https://www.foobar2000.org/apk), [Vanilla Music](https://vanilla-music.github.io/), [Retro Music Player](https://retromusic.app/), [Auxio](https://github.com/OxygenCobalt/Auxio/), [Apollo Music Player](https://github.com/nuclearfog/Apollo-Music), [Music Player GO](https://github.com/enricocid/Music-Player-GO), [Nyx Music Player](https://play.google.com/store/apps/details?id=com.awedea.nyx), [ExoPlayer](https://github.com/google/ExoPlayer), [mucke](https://github.com/moritz-weber/mucke), [Phonograph Plus](https://github.com/chr56/Phonograph_Plus), [Musicmax](https://github.com/TheMusicmax/Musicmax), [Pulse Music](https://play.google.com/store/apps/details?id=com.hardcodecoder.pulse), [Zen Music Player](https://github.com/pakka-papad/Zen), [SimpleMP-Compose](https://github.com/lighttigerXIV/SimpleMP-Compose), [BladePlayer](https://github.com/vhaudiquet/BladePlayer), [Salt Player](https://github.com/Moriafly/SaltPlayerSource)
-
-***
-
 ## Android Browsers
 
 * ⭐ **[Firefox](https://www.mozilla.org/)** - [F-Droid](https://f-droid.org/packages/org.mozilla.fennec_fdroid/) / [Focus](https://www.mozilla.org/en-US/firefox/browsers/mobile/focus/) / [Nightly](https://www.mozilla.org/en-US/firefox/channel/android/#nightly)
@@ -187,7 +173,7 @@
 
 * ⭐ **[Cover Search Engine](https://covers.musichoarders.xyz)**
 
-[Album Art Downloader](https://sourceforge.net/projects/album-art/), [kunst](https://github.com/sdushantha/kunst), [Apple-Music-Animated-Artwork-Fetcher](https://github.com/bunnykek/Apple-Music-Animated-Artwork-Fetcher), [Classic Rock Covers](https://www.classic-rock-covers.com/)
+[Album Art Downloader](https://sourceforge.net/projects/album-art/), [kunst](https://github.com/sdushantha/kunst), [Apple-Music-Animated-Artwork-Fetcher](https://github.com/bunnykek/Apple-Music-Animated-Artwork-Fetcher), [Classic Rock Covers](https://www.classic-rock-covers.com/), [Apple Artwork](https://artwork.thekvt.eu.org/), [albumart.digital](https://albumart.digital/)
 
 ***
 
@@ -866,7 +852,7 @@
 
 ## PNG Images / Clipart
 
-[CleanPNG](https://www.cleanpng.com/), [PNGWing](https://www.pngwing.com/), [PNGEgg](https://www.pngegg.com/), [AnyRGB](https://www.anyrgb.com/), [HiClipart](https://www.hiclipart.com/), [HDClipArtAll](https://hdclipartall.com/), [pngmart](https://www.pngmart.com/), [pngall](https://www.pngall.com/), [pngplay](https://www.pngplay.com/), [freepngimg](https://www.freepngimg.com/), [KindPNG](https://www.kindpng.com/), [FreePNGLogos](https://www.freepnglogos.com/), [PNGFind](https://www.pngfind.com), [PNGHero](https://pnghero.com/), [PlusPNG](https://pluspng.com/), [PNGHut](https://pnghut.com/), [pinpng](https://pinpng.com/), [openclipart](https://openclipart.org)
+[CleanPNG](https://www.cleanpng.com/), [PNGWing](https://www.pngwing.com/), [PNGEgg](https://www.pngegg.com/), [AnyRGB](https://www.anyrgb.com/), [HiClipart](https://www.hiclipart.com/), [HDClipArtAll](https://hdclipartall.com/), [pngmart](https://www.pngmart.com/), [pngall](https://www.pngall.com/), [pngplay](https://www.pngplay.com/), [freepngimg](https://www.freepngimg.com/), [KindPNG](https://www.kindpng.com/), [FreePNGLogos](https://www.freepnglogos.com/), [PNGFind](https://www.pngfind.com), [PNGHero](https://pnghero.com/), [PlusPNG](https://pluspng.com/), [PNGHut](https://pnghut.com/), [pinpng](https://pinpng.com/), [openclipart](https://openclipart.org), [pikpng](https://www.pikpng.com/)
 
 ***
 
@@ -974,7 +960,7 @@
 
 ## SMS Verification Sites
 
-[2ndline](https://www.2ndline.co/), [TextNow](https://www.textnow.com/), [smspool](https://www.smspool.net/free-sms-verification), [GetFreeSMSNUmber](https://getfreesmsnumber.com/), [SMS Receive](https://sms-receive.net/), [Receive SMS Online](https://www.receivesmsonline.net/), [receivesmsonline](https://receivesmsonline.in/), [My Trash Mobile](https://www.mytrashmobile.com/), [freesmsverification](http://freesmsverification.com/), [temp-sms](https://temp-sms.org/), [temporary-phone-number](https://temporary-phone-number.com/), [spoofbox](https://www.spoofbox.com/en/tool/trash-mobile/number), [receive-sms-online](https://www.receive-sms-online.info/), [smsfinders](https://smsfinders.com/), [yunjisms](https://yunjisms.xyz/), [smscodeonline](https://smscodeonline.com/), [mianfeijiema](https://mianfeijiema.com/), [jiemahao](https://jiemahao.com/), [storytrain](https://www.storytrain.info/), [Temp Number](https://temp-number.com/), [sms24](https://www.sms24.me/), [receive-smss](https://receive-smss.com), [freesmscenter](https://freesmscenter.com/), [receive-sms](https://receive-sms.cc/), [spytm](https://spytm.com/), [receive-sms-free](https://receive-sms-free.cc/), [tempsmss](https://tempsmss.com/), [quackr](https://quackr.io/), [smsnator](https://smsnator.online/), [InboxSMS](https://inboxsms.me/), [anonymsms](https://anonymsms.com/temporary-phone-number/), [onlinesim](https://onlinesim.io/), [ReceiveaSMS](https://receive-a-sms.com/), [Receive SMS Online Free](http://receivefreesms.com/), [sms-activate](https://sms-activate.org/en/freeNumbers), [proovl](https://proovl.com/numbers), [receivefreesms](http://receivefreesms.net/), [receivesmsonline](http://receivesmsonline.in/), [hs3x](http://hs3x.com/), [receiveonlinesms](http://receiveonlinesms.biz/), [freereceivesmsonline](http://freereceivesmsonline.com/), [shejiinn](https://www.shejiinn.com/), [jiemadi](https://www.jiemadi.com/en), [freephonenum](https://freephonenum.com/), [receivesmsonline](https://receivesmsonline.me/), [freereceivesmsonline](https://freereceivesmsonline.com/), [7sim](https://7sim.pro/), [jiemagou](https://www.jiemagou.com/en), [yunjiema](https://yunjiema.net/), [supercloudsms](https://supercloudsms.com/en), [us-phone-number](https://us-phone-number.com/), [shownumber](https://lothelper.com/en/shownumber), [receivesmsverification](https://receivesmsverification.com/), [yunduanxin](https://yunduanxin.net/), [bestsms](https://bestsms.xyz/), [114sim](https://114sim.com/), [smsget](https://smsget.net/), [free-sms-receive](https://www.free-sms-receive.com/), [sms247](https://sms247.net/), [otp4free](https://www.otp4free.com/)
+[2ndline](https://www.2ndline.co/), [TextNow](https://www.textnow.com/), [smspool](https://www.smspool.net/free-sms-verification), [GetFreeSMSNUmber](https://getfreesmsnumber.com/), [SMS Receive](https://sms-receive.net/), [Receive SMS Online](https://www.receivesmsonline.net/), [receivesmsonline](https://receivesmsonline.in/), [My Trash Mobile](https://www.mytrashmobile.com/), [freesmsverification](http://freesmsverification.com/), [temp-sms](https://temp-sms.org/), [temporary-phone-number](https://temporary-phone-number.com/), [spoofbox](https://www.spoofbox.com/en/tool/trash-mobile/number), [receive-sms-online](https://www.receive-sms-online.info/), [smsfinders](https://smsfinders.com/), [yunjisms](https://yunjisms.xyz/), [smscodeonline](https://smscodeonline.com/), [mianfeijiema](https://mianfeijiema.com/), [jiemahao](https://jiemahao.com/), [storytrain](https://www.storytrain.info/), [Temp Number](https://temp-number.com/), [sms24](https://www.sms24.me/), [receive-smss](https://receive-smss.com), [freesmscenter](https://freesmscenter.com/), [receive-sms](https://receive-sms.cc/), [spytm](https://spytm.com/), [receive-sms-free](https://receive-sms-free.cc/), [tempsmss](https://tempsmss.com/), [quackr](https://quackr.io/), [smsnator](https://smsnator.online/), [InboxSMS](https://inboxsms.me/), [anonymsms](https://anonymsms.com/temporary-phone-number/), [onlinesim](https://onlinesim.io/), [Receive SMS Online Free](http://receivefreesms.com/), [sms-activate](https://sms-activate.org/en/freeNumbers), [proovl](https://proovl.com/numbers), [receivefreesms](http://receivefreesms.net/), [receivesmsonline](http://receivesmsonline.in/), [hs3x](http://hs3x.com/), [receiveonlinesms](http://receiveonlinesms.biz/), [freereceivesmsonline](http://freereceivesmsonline.com/), [shejiinn](https://www.shejiinn.com/), [jiemadi](https://www.jiemadi.com/en), [freephonenum](https://freephonenum.com/), [receivesmsonline](https://receivesmsonline.me/), [freereceivesmsonline](https://freereceivesmsonline.com/), [7sim](https://7sim.pro/), [jiemagou](https://www.jiemagou.com/en), [yunjiema](https://yunjiema.net/), [supercloudsms](https://supercloudsms.com/en), [us-phone-number](https://us-phone-number.com/), [shownumber](https://lothelper.com/en/shownumber), [receivesmsverification](https://receivesmsverification.com/), [yunduanxin](https://yunduanxin.net/), [bestsms](https://bestsms.xyz/), [114sim](https://114sim.com/), [smsget](https://smsget.net/), [free-sms-receive](https://www.free-sms-receive.com/), [sms247](https://sms247.net/), [otp4free](https://www.otp4free.com/)
 
 ### No CC Required Trial Sites
 
@@ -1099,7 +1085,7 @@
 
 * [Ziperto](https://ziperto.com/) / Avoid [Fake](https://ibb.co/wWJbkX6) Buttons
 * [ROMSLAB](https://romslab.com/)
-* [NXBrew](https://nxbrew.com/) / [Discord](https://discord.com/invite/aX93bFK9R6) / Scroll past Download Setup buttons
+* [NXBrew](https://nxbrew.com/) / Scroll past Download Setup buttons
 * [nsw2u](https://nsw2u.com/), [2](https://nsw2u.net/)
 * [NswRoms](https://nswrom.com/)
 * [ROMSim](https://romsim.com/) / [Discord](https://discord.gg/Zgdhq7xDcd)
