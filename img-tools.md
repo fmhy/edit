@@ -312,7 +312,7 @@
 
 ## ▷ Design Apps
 
-* ⭐ **[Canva](https://www.canva.com/)** - Design App / [Free Giveaways](https://t.me/canvapro365free), [2](https://t.me/sharecanvaprofree), [3](https://www.proinvitelinks.com/)
+* ⭐ **[Canva](https://www.canva.com/)** - Design App / [Giveaways](https://rentry.co/FMHYBase64#canva)
 * ⭐ **[Figma](https://www.figma.com/)** - Design Collab App
 * [lunacy](https://icons8.com/lunacy) - Design App
 * [ArtBoard](https://artboard.studio/) - Design App
