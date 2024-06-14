@@ -225,7 +225,7 @@
 * [Libre Hardware Monitor](https://github.com/LibreHardwareMonitor/LibreHardwareMonitor) - Updated Fork of Open Hardware Monitor
 * [FanControl](https://getfancontrol.com/) - Control PC Fans / [GitHub](https://github.com/Rem0o/FanControl.Releases)
 * [Sidebar Diagnostics](https://github.com/ArcadeRenegade/SidebarDiagnostics) - Sidebar for Windows Desktop
-* [Traffic Monitor](https://github.com/zhongyang219/TrafficMonitor) - Network & Hardware Monitor
+* [Traffic Monitor](https://github.com/yxyzjuGIT/TrafficMonitor) - Network & Hardware Monitor
 * [bottom](https://github.com/ClementTsang/bottom) or [Glances](https://nicolargo.github.io/glances/) - Terminal Hardware Monitors
 
 ***
@@ -439,6 +439,7 @@
 * [Macdows11](https://redd.it/pd5ha6) - Windows 11 Mac Theme Guide
 * [AccentColorizer](https://github.com/krlvm/AccentColorizer) - Custom Windows Accent Color
 * [MicaForEveryone](https://github.com/MicaForEveryone/MicaForEveryone) - System Backdrop Customization
+* [Traffic Monitor](https://github.com/yxyzjuGIT/TrafficMonitor) - Network & Hardware Monitor Themes
 * [Pokemon Terminal](https://github.com/LazoCoder/Pokemon-Terminal) - Pokémon Terminal Themes
 * [ExcelDarkThemeFix](https://github.com/matafokka/ExcelDarkThemeFix) - Fix Excel on Themed Windows
 
