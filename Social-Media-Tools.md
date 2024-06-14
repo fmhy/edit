@@ -27,7 +27,7 @@
 
 * 🌐 **[DiscordTools](https://discordtools.io/)** or [Awesome Discord](https://github.com/jacc/awesome-discord) - Discord Tools Indexes
 * ⭐ **[x266.mov](https://x266.mov/discord-embed)**, [embeds.video](https://embeds.video/), [Stolen Shoes](https://stolen.shoes/), [autocompressor](https://autocompressor.net/), [noury](https://dc.noury.li/) or [Discord Embedder](https://discord.nfp.is/) - Embed Videos on Discord
-* ⭐ **[Revolt](https://revolt.chat/)** / [Bots](https://rvlt.gg/discover/bots) / [Resources](https://github.com/insertish/awesome-revolt) / [Divolt Resources](https://github.com/ggtylerr/awesome-divolt) or **[Guilded](https://www.guilded.gg/)** / [Mod](https://github.com/ReGuilded/ReGuilded/) - Discord Alternatives
+* ⭐ **[Revolt](https://revolt.chat/)** / [Bots](https://rvlt.gg/discover/bots) / [Resources](https://github.com/insertish/awesome-revolt) / [Divolt Resources](https://github.com/ggtylerr/awesome-divolt) or **[Guilded](https://www.guilded.gg/)** - Discord Alternatives
 * [Multi-Accounts 1 Email](https://generator.email/blog/gmail-generator) - Create Multi Accounts with One Email / [Guide](https://rentry.co/altmethod)
 * [AnswersOverflow](https://www.answeroverflow.com/) - Discord Search Engine
 * [DiscordFS](https://github.com/dhrumilp15/haystackfs) - Discord File Search
@@ -548,7 +548,7 @@
 * [SpeechChat](https://speechchat.com/) - Twitch Text to Speech Client
 * [Twitch Lite](https://thavixt.github.io/twitch-lite/) - Lightweight Twitch Webplayer
 * [Walrus](https://joinwalrus.tv/) - Make Twitch Watch Parties
-* [MuliTwitch.tv](https://multitwitch.tv/), [MultiTwitch.co](https://multitwitch.co/), [Twitch3D](https://hjjg200.github.io/twitch3d/), [Twitch Replay](https://www.twitch-replay.com/), [Multi](https://multi.raredrop.co/), [MultiStre.am](https://multistre.am/) or [TwitchTheater](https://twitchtheater.tv/) - Sync Twitch Videos w/ Friends / Mult-Stream
+* [MuliTwitch.tv](https://multitwitch.tv/), [MultiTwitch.co](https://multitwitch.co/), [Twitch3D](https://hjjg200.github.io/twitch3d/), [Twitch Replay](https://www.twitch-replay.com/), [Multi](https://multi.raredrop.co/), [MultiStre.am](https://multistre.am/), [MultiStreamer](https://multistreamer.lucidnet.app/) or [TwitchTheater](https://twitchtheater.tv/) - Twitch Mult-Stream
 * [Twitchls](https://twitchls.com/) - HTML5 Twitch Stream Player
 * [nobody.live](https://nobody.live/) or [Twitch Roulette](https://twitchroulette.net/) - Random Stream Roulette
 * [Alternate Player for Twitch.tv](https://pastebin.com/Z7NWxSfA) - Alternative Twitch Player
