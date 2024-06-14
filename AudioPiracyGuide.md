@@ -661,8 +661,7 @@
 * [MusicRecognizer](https://github.com/aleksey-saenko/MusicRecognizer) - Android
 * [Audire](https://github.com/alexmercerind/audire) - Android
 * [AmbientMusicMod](https://github.com/KieronQuinn/AmbientMusicMod) - Android
-* [Audd](https://aaududd.io/) - API
-* [Audile](https://github.com/aleksey-saenko/MusicRecognizer) - Android
+* [Audd](https://audd.io/) - API
 
 ***
 
