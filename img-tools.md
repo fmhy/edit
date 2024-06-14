@@ -56,6 +56,7 @@
 * [OIE](https://www.online-image-editor.com/)
 * [IMG online](https://www.imgonline.com.ua/eng/)
 * [BitMappery](https://www.igorski.nl/application/bitmappery/)
+* [iPiccy](https://ipiccy.com/)
 * [Kapwing](https://www.kapwing.com/)
 * [ILoveImg](https://www.iloveimg.com/photo-editor)
 * [Panzoid](https://panzoid.com/)
@@ -312,7 +313,7 @@
 
 ## ▷ Design Apps
 
-* ⭐ **[Canva](https://www.canva.com/)** - Design App / [Free Giveaways](https://t.me/canvapro365free), [2](https://t.me/sharecanvaprofree), [3](https://www.proinvitelinks.com/)
+* ⭐ **[Canva](https://www.canva.com/)** - Design App / [Giveaways](https://rentry.co/FMHYBase64#canva)
 * ⭐ **[Figma](https://www.figma.com/)** - Design Collab App
 * [lunacy](https://icons8.com/lunacy) - Design App
 * [ArtBoard](https://artboard.studio/) - Design App
