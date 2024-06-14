@@ -347,6 +347,7 @@
 
 ## ▷ Geology Maps
 
+* [USGS Maps](https://www.usgs.gov/products/maps) - Geologic Maps / 3-D Geologic Frameworks
 * [Macrostrat](https://macrostrat.org/) - Geological Data Map
 * [Fishermap](https://usa.fishermap.org/depth-map/) or [Bathymetric Data Viewer](https://www.ncei.noaa.gov/maps/bathymetry/) - Water Depth Maps
 * [River Runner](https://river-runner.samlearner.com/) / [3D Map](https://river-runner-global.samlearner.com/) - Raindrop Tracking Map
