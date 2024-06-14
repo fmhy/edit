@@ -29,7 +29,7 @@
 
 ## ▷ Video File Hosts
 
-* **Note** - The size describes the file size limit only and the time describes file expiry. Most file hosts will only remove due to inactivity, i.e. days since last download/view.
+* **Note** - **Tag Information:** File Size Limit **/** Maximum File Expiry Time ([More Info](https://pastebin.com/zkXcK56H)) **/** Resolution Limit
 
 ***
 
