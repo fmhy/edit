@@ -5222,13 +5222,13 @@ outline: false
 * [Andronix](https://andronix.app/) - Linux Emulator for Android
 * [AOPC](https://aopc.dev/) - Android Desktop OS Forums
 * [Docker Android](https://github.com/budtmo/docker-android) - Android on Docker
-* [Nox](https://www.bignox.com/) - Android Emulator on Windows [Screenshot](https://i.ibb.co/MkdmtYr/647f0f4f051c.jpg) / [Debloat Guide](https://gist.github.com/TameemS/72c4b92131977aced56e727d51599a48)
-* [GameLoop](https://www.gameloop.com/) - Android Emulator on Windows / [Screenshot](https://i.ibb.co/WyggSQM/26828a9408f1.png)
-* [MuMu](https://www.mumuplayer.com/) - Android Emulator on Windows / [Screenshot](https://i.ibb.co/vwBrY5M/bfa89c699ff7.png)
-* [MeMu](https://www.memuplay.com/) - Android Emulator on Windows / [Screenshot](https://i.ibb.co/FsMfk68/6b4ce185773e.png) / [Debloater](https://gist.github.com/TameemS/603686cec857ff1f91e68607e374b0d8)
-* [LDPlayer](https://www.ldplayer.net/) - Android Emulator on Windows / [Screenshot](https://i.ibb.co/CHKb40V/184625995e15.png)
-* [Genymotion](https://www.genymotion.com/download/) - Android Emulator on Windows / [Screenshot](https://i.ibb.co/6W7BXJn/6a291e5b5ac9.jpg)
-* [Wakuoo](https://wakuoo.com) - Android Emulator on Windows / [Screenshot](https://i.ibb.co/tMkxvQr/cfaea91031d7.png)
+* [Nox](https://www.bignox.com/) - Android Emulator on Windows / [Debloat](https://gist.github.com/TameemS/72c4b92131977aced56e727d51599a48)
+* [GameLoop](https://www.gameloop.com/) - Android Emulator on Windows
+* [MuMu](https://www.mumuplayer.com/) - Android Emulator on Windows
+* [MeMu](https://www.memuplay.com/) - Android Emulator on Windows / [Debloat](https://gist.github.com/TameemS/603686cec857ff1f91e68607e374b0d8)
+* [LDPlayer](https://www.ldplayer.net/) - Android Emulator on Windows / [Debloat](https://gist.github.com/TameemS/894cdb8adae1d6042a5f21c4e80bcd9e/)
+* [Genymotion](https://www.genymotion.com/download/) - Android Emulator on Windows
+* [Wakuoo](https://wakuoo.com) - Android Emulator on Windows
 * [Ubuntu on Android](https://udroid-rc.gitbook.io) / [GitHub](https://github.com/RandomCoderOrg/ubuntu-on-android) - Ubuntu Emulator on Android
 * [FlashLite](https://flashlite.games/) - Flash Emulator / [Discord](https://discord.gg/F2dsGhTX6y)
 * [/r/EmulationOnAndroid](https://www.reddit.com/r/emulationonandroid) - Android Game Emulation Subreddit
