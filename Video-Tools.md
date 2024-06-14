@@ -87,7 +87,7 @@
 * [DDVT](https://forum.doom9.org/showthread.php?t=183479) - Dolby Vision RPU Demuxing / Injecting / Editing
 * [MKV Muxing Batch GUI](https://github.com/yaser01/mkv-muxing-batch-gui) - Mux Videos
 * [XMedia Recode](https://www.xmedia-recode.de/en/) - Video Conversion
-* [staxrip](https://github.com/staxrip/staxrip/) - Video Encoding / [Guide](https://telegra.ph/HEVC-Encoding-with-StaxRip-Settings-for-best-compression-included-05-12)
+* [staxrip](https://github.com/staxrip/staxrip/) - Video Encoding
 * [FastFlix](https://fastflix.org/) - Video Conversion / [GitHub](https://github.com/cdgriffith/FastFlix)
 * [NEAV1E](https://github.com/Alkl58/NotEnoughAV1Encodes), [Av1an](https://github.com/master-of-zen/Av1an) -  AV1 Encoding
 * [Winnydows](https://winnydows.com/en/) - Video Conversion Software
@@ -175,6 +175,7 @@
 * [Caracal Club](https://caracal.club/)
 * [CyTube](https://cytu.be/)
 * [VideoTogether](https://2gether.video/en-us/)
+* [PotatoLand](https://potato.land/)
 * [baked.live](https://baked.live/)
 * [Rave.io](https://rave.io/)
 * [twoseven](https://twoseven.xyz/)

@@ -73,7 +73,6 @@
 ## ▷ Bookmark Managers
 
 * ⭐ **[Raindrop.io](https://raindrop.io/)**
-* ⭐ **[Saved.io](https://saved.io/)**
 * [Pilgrim](https://pilgrim.are.na/) - Tree Style Path Bookmarking
 * [Bort](https://bort.io/) - Bookmark Manager that Syncs with Dropbox
 * [Bookmarklets Guide](https://rentry.co/bookmarklets-guide) - Useful Bookmarklets / Guide
@@ -97,7 +96,6 @@
 * [Openoox](https://openoox.com/)
 * [Mission Control](https://mission-control.app/)
 * [histre](https://histre.com/)
-* [BrainyTab](https://brainytab.com/)
 * [Zulu](https://tryzulu.com/)
 * [Contentle](https://contentle.com/)
 * [Clipix](https://www.clipix.com/)
@@ -699,7 +697,6 @@
 * [AutoPagerize Advanced](https://addons.mozilla.org/en-US/firefox/addon/autopagerizeadvanced/) - Merge Multiple Pages
 * [Profile Switcher](https://github.com/null-dev/firefox-profile-switcher) - Profile Manager
 * [Always Visible](https://addons.mozilla.org/en-US/firefox/addon/always-visible/) - Always Active / On-Top Window
-* [600% Sound Volume](https://addons.mozilla.org/en-US/firefox/addon/600-sound-volume/) - Volume Booster
 * [SoundFixer](https://github.com/valpackett/soundfixer) - Fixes Audio Playing in one Channel
 * [Mute Sites By Default](https://github.com/abba23/mute-sites-by-default) - Mute All Sites by Default
 * [Read Aloud](https://readaloud.app/) - Text to Speech
