@@ -285,7 +285,7 @@
 * [Dats.site](https://dats.site/) or [No Intro](https://no-intro.org/) - ROM .dat Files
 * [Dat-O-Matic](https://datomatic.no-intro.org/index.php) - ROM Datasets
 * [NSWDB](https://www.nswdb.com) - Switch Release Tracker
-* [RomStation](https://www.romstation.fr/) - ROM Downloader / Manager / Multiplayer / [Screenshot](https://i.ibb.co/zSDH560/624adc3e44a8.png)
+* [RomStation](https://www.romstation.fr/) - ROM Downloader / Manager / Multiplayer
 
 ***
 
