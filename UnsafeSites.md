@@ -83,6 +83,6 @@
 
 ### [Fake Z-Lib Sites](https://redd.it/16xtm67) / [2](https://ibb.co/MhfGTWx)
 
-### [Fake Windows Activators](https://pastebin.com/gCmWs2GR) / [2](https://i.ibb.co/4SKQbB9/Lv2FYbw.png)
+### [Fake Windows Activators](https://web.archive.org/web/20240529222658/https://pastebin.com/gCmWs2GR)
 
 ### [Unsafe Wayback Machine Links](https://rentry.co/ue9qk)
