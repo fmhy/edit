@@ -250,7 +250,6 @@
 * 🌐 **[Soar](https://soar.earth/)**, [ArcGIS Living Atlas](https://livingatlas.arcgis.com/), [Cool Maps](https://coolmaps.esri.com/) - Atlases
 * 🌐 **[Maps and Geospatial Products](https://www.ncei.noaa.gov/maps-and-geospatial-products)** - All NCEI Maps
 * ⭐ **[CrisisWatch](https://www.crisisgroup.org/crisiswatch)**, [ACLED](https://acleddata.com/dashboard/), [Global Conflict Tracker](https://www.cfr.org/global-conflict-tracker), [LiveUAMap](https://liveuamap.com/) or [Israeli-Palestine Conflict](https://israelpalestine.liveuamap.com/) - Global Conflicts Map
-* [Huge Earth Maps](https://maps.drsys.eu/) - High Rest Earth Maps
 * [The Cartographers' Guild](https://www.cartographersguild.com/) - Cartography Forum
 * [Color Brewer](https://colorbrewer2.org/) - Cartography Color Advice
 * [FixPhrase](https://fixphrase.com/) or [TextToMap](https://www.textomap.com/) - Text Based Map Search
@@ -397,6 +396,7 @@
 ## ▷ Satellite / Earth Data
 
 * ⭐ **[Google Earth](https://earth.google.com/web/)** - Earth Viewer
+* [Huge Earth Maps](https://maps.drsys.eu/) - High Res Earth Maps
 * [StreetComplete](https://streetcomplete.app/) - OpenStreetMap Surveyor App
 * [FacilMap](https://facilmap.org/) or [OsmAPP](https://osmapp.org/) - OSM Web Apps
 * [OpenMapTiles](https://openmaptiles.org/) - Self-hosted Map Tools
@@ -831,7 +831,6 @@
 
 * 🌐 **[ChainList](https://chainlist.org/)** - EVM RPC List
 * ⭐ **[WalletScrutiny](https://walletscrutiny.com/)** - Verify Crypto Wallets are Open-Source / Secure
-* ⭐ **[Trocador](https://trocador.app/en/)** - Bitcoin Exchange App
 * [BitcoinTalk](https://bitcointalk.org/) - Bitcoin Forum
 * [Bitbox](https://bitbox.swiss/), [Ledger](https://www.ledger.com/) or [Trezor](https://trezor.io/) - Hardware Wallets
 * [BTCPay](https://btcpayserver.org/) - FOSS Bitcoin Payment Processor
@@ -1415,6 +1414,7 @@
 * [rrrather](https://rrrather.com/) - Would You Rather
 * [Scattergories](https://swellgarfo.com/scattergories) - Scattergories List Generator
 * [Gizoogle](https://www.gizoogle.net/) - Google Shiznit
+* [Uncyclopedia](https://en.uncyclopedia.co/) - Wikipedia Parody
 * [Mystery Search](https://www.mysterysearch.lol/) - Google, but you get last person's search
 * [Presence](https://presence.mrarich.com/) - Unwrap Presents Remotely
 * [Lots of Links](https://annierau.com/LOL-lots-of-links) - Random Funny Links
