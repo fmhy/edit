@@ -205,6 +205,7 @@
 ## ▷ Drama Streaming
 
 * 🌐 **[Chinese Drama Sites](https://www.reddit.com/r/CDrama/wiki/streaming)** - Chinese Drama Site Index
+* 🌐 **[EverythingMoe](https://everythingmoe.com/#section-drama)** - Asian Drama Index / [Discord](https://discord.gg/GuueaDgKdS)
 * ⭐ **[DramaCool](https://asianc.to/)**, [2](https://watchasia.to/), [3](https://dramanice.la/), [4](https://runasian.net/) - TV / Movies / 1080p / [Mirror List](https://asianwiki.co/)
 * ⭐ **[KissAsian](https://kissasian.lu/)**, [2](https://kissasian.video/), [3](https://kissasian.si) - TV / Movies
 * ⭐ **[GoPlay](https://goplay.pw)** [2](https://goplay.wtf/), [3](https://goplay.anontpp.com/) - TV / Movies / 1080p / Join [Discord](https://discord.com/invite/yY2P3DQR8S) for Code
@@ -584,6 +585,7 @@
 
 ***
 
+* 🌐 **[EverythingMoe](https://everythingmoe.com/#section-download)** - Anime DDL Index / [Discord](https://discord.gg/GuueaDgKdS)
 * 🌐 **[The Index DDL](https://theindex.moe/collection/ddl-communities)** - Anime DDL Sites / [Discord](https://discord.gg/Snackbox) / [Wiki](https://thewiki.moe/)
 * ↪️ **[Telegram Anime Downloads](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_telegram_anime_downloads)**
 * ⭐ **[Tokyo Insider](https://www.tokyoinsider.com/)** - Sub / Dub
