@@ -407,6 +407,7 @@ Linux Gaming Guide
 * [Discover](https://github.com/trigg/Discover) - Discord Overlay
 * [dvm](https://github.com/diced/dvm) - Discord Version Manager
 * [Rofimoji](https://github.com/fdw/rofimoji), [Shmoji](https://github.com/biox/shmoji) - Emoji CLI's
+* [Flash 32 Download](https://pastebin.com/0fNaeceW)
 
 ***
 
