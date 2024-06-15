@@ -1764,14 +1764,14 @@ https://aniwow.in/ has only dubs though
 
 ## ▷ Streaming / Phát trực tuyến
 
+* [LuotPhim](https://luotphimtv1.com/) - Movies / TV / Anime / Sub / Dub / 1080p
 * [BiluTV](https://bilutvw.com/) - Movies / TV / Anime / Sub / Dub
 * [MotChill](https://motchilltv.to/) - Movies / TV / Sub
 * [PhimMoi](https://phimmoiiii.net/) - Movies / TV / Sub
 * [Danet](https://danet.vn/) - Movies / TV Anime / Live TV / Sub / 720p
 * [XemPhim](https://xemphim.app/) - Movies / TV / Sub / 720p
 * [Redphim](https://redphim.com/) - Movies / TV / Anime / Sub / Dub / 720p
-* [LuotPhim](https://luotphimtv1.com/) - Movies / TV
-* [NguonPhim](http://nguonphimd.com/) - Movies
+* [NguonPhim](http://nguonphimf.com/) - Movies
 * [HoatHinh3D](https://hoathinh3d.fun/) - Chinese Animation
 * [HHNinja](https://hhninja2.tv/) - Chinese Animation
 * [HHTQvip](https://hhtq6.vip/) - Chinese Animation
