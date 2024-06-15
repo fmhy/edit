@@ -82,7 +82,7 @@
 
 * ↪️ **[Course Megadrives](https://rentry.co/FMHYBase64#course-megadrives)**
 * ⭐ **[TutFlix](https://tutflix.org/)** - Courses / Drives / Signup Opens Fridays
-* ⭐ **[OneHack](https://forum.telugudjmusic.com/)** - Courses / [Telegram](https://t.me/Official_OneHack)
+* ⭐ **[OneHack](https://onehack.us/)** - Courses / [Telegram](https://t.me/Official_OneHack)
 * ⭐ **[HackNation](https://hacksnation.com/)** - Courses
 * ⭐ **[TutsNode](https://tutsnode.net/)** - Courses
 * ⭐ **[tut4dl](https://tut4it.com/)** - Courses
@@ -101,7 +101,7 @@
 * [LinkedIn_Learning](https://t.me/linkedin_learning) - LinkedIn Courses
 * [CertCommunity](https://www.certcommunity.org/forum/) - IT Cert Courses
 * [Coursera-dl](https://github.com/coursera-dl/coursera-dl) - Download videos from Coursera
-* [firerip](https://github.com/lem6ns/firerip) - Fireship.io Course Grabber / [Script](https://greasyfork.org/en/scripts/455330-freeship)
+* [firerip](https://rentry.co/FMHYBase64#firerip) - Fireship.io Course Downloader
 
 ***
 
