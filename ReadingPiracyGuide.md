@@ -363,6 +363,7 @@
 
 * 🌐 **[Wotaku](https://wotaku.moe/)** - Japanese Piracy Index
 * 🌐 **[The Index](https://theindex.moe)** - Japanese Media Index / [Discord](https://discord.gg/Snackbox) / [Wiki](https://thewiki.moe/)
+* 🌐 **[EverythingMoe](https://everythingmoe.com/#section-manga)** - Manga Sites Index / [Discord](https://discord.gg/GuueaDgKdS)
 * ↪️ **[Manga Readers / Managers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_manga_readers)**
 * ↪️ **[Manga Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_manga_downloaders)**
 * ↪️ **[Raw Manga Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/non-eng#wiki_.25B7_reading8)**
