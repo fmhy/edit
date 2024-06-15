@@ -935,12 +935,11 @@ https://aniwow.in/ has only dubs though
 * [Tekstowo](https://www.tekstowo.pl/) - Lyrics
 * [JakDojade](https://jakdojade.pl/) - Public Transport Map
 
-## ▷ Downloading
-
+## ▷ Downloading / Pobieranie
 * ⭐ **[Grupa Mirai](https://www.grupa-mirai.pl/)** - Anime / Sub / 1080p / [Discord](https://discord.gg/WyXrp6ZK5J)
 * [animezone](https://www.animezone.pl/) - Anime / Sub / 720p
 
-## ▷ Torrenting
+## ▷ Torrenting / Torrentowanie
 
 * [polskie-torrenty](https://polskie-torrenty.net.pl/) - Video / Audio / Books / NSFW
 * [devil-torrents](https://devil-torrents.pl/) - Video / Audio / Books / NSFW
@@ -974,7 +973,7 @@ https://aniwow.in/ has only dubs though
 * [dokumentalne](https://dokumentalne.net/) - Documentaries
 * [WFDIF](https://wfdif.online/) - Documentaries
 
-## ▷ Reading
+## ▷ Reading / Czytanie 
 
 * [wolnelektury](https://wolnelektury.pl/) - Books / Fiction / Audiobooks
 * [Audiobook PL](https://audiobookpl.tumblr.com/) - Audiobooks
@@ -1768,9 +1767,9 @@ https://aniwow.in/ has only dubs though
 * [BiluTV](https://bilutvw.com/) - Movies / TV / Anime / Sub / Dub
 * [MotChill](https://motchilltv.to/) - Movies / TV / Sub
 * [PhimMoi](https://phimmoiiii.net/) - Movies / TV / Sub
-* [Danet](https://danet.vn/) - Movies / TV / Sub
-* [XemPhim](https://xemphim.app/) - Movies / TV
-* [Redphim](https://redphim.com/) - Movies / TV
+* [Danet](https://danet.vn/) - Movies / TV Anime / Live TV / Sub / 720p
+* [XemPhim](https://xemphim.app/) - Movies / TV / Sub / 720p
+* [Redphim](https://redphim.com/) - Movies / TV / Anime / Sub / Dub / 720p
 * [LuotPhim](https://luotphimtv1.com/) - Movies / TV
 * [NguonPhim](http://nguonphimd.com/) - Movies
 * [HoatHinh3D](https://hoathinh3d.fun/) - Chinese Animation
