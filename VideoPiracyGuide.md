@@ -525,7 +525,7 @@
 * [FilmDuty](https://filmduty.com/) - Movies / TV / Anime / 1080p
 * [Downloads-Anymovies](https://www.downloads-anymovies.co/) - Movies / 1080p
 * [RLSXTVT](https://rlsxtvt.icu/) - Movies / TV / 1080p
-* [PrimeFlix](https://primeflix-web.netlify.app/) - Movies / TV / Anime / 4K / 1080p / [Discord](https://discord.gg/GbW6gzAKgc)
+* [PrimeFlix](https://primeflix.lol/), [2](https://primeflix-web.netlify.app/) - Movies / TV / Anime / 4K / 1080p / [Discord](https://discord.gg/GbW6gzAKgc)
 * [UHDMovies](https://uhdmovies.foo/) - Movies / 4K
 * [Best-Movies](https://best-movies.info/) - Movies / TV / 4K
 * [Onkyo4k](https://onkyo4k.com/) - Movies / TV / 4K
