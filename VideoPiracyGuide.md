@@ -17,7 +17,7 @@
 * ⭐ **[HydraHD](https://hydrahd.com/)** - Movies / TV / Anime / 1080p
 * ⭐ **[KipFlix](https://kipflix.vercel.app/)** - Movies / TV / Anime / 1080p / [Discord](https://discord.gg/tDKYeh9eQn)
 * ⭐ **[Watching Zone](https://www.watching.zone/)** - Movies / TV / Anime / 1080p
-* ⭐ **[PrimeFlix](https://primeflix-web.netlify.app/)** - Movies / TV / Anime / 4K / 1080p / [Discord](https://discord.gg/GbW6gzAKgc)
+* ⭐ **[PrimeFlix](https://primeflix.lol/)**, [2](https://primeflix-web.netlify.app/) - Movies / TV / Anime / 4K / 1080p / [Discord](https://discord.gg/GbW6gzAKgc)
 * ⭐ **[SFlix](https://sflix.to/)** - Movies / TV / Anime / 1080p / [Mirrors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_sflix_clones)
 * ⭐ **[UpMovies](https://upmovies.net/)**, [2](https://flixwave.me/), [3](https://vumoo.mx/) - Movies / TV / Anime / 1080p / Use Adblock
 * ⭐ **[PrimeWire](https://www.primewire.tf/)** - Movies / TV / Anime / 1080p
