@@ -255,7 +255,7 @@
 
 * [Plxplainers](https://www.plxplainers.xyz/) or [Reddit Guide](https://redd.it/ma1hlm) - Plex Setup Guides
 * [Tautulli](https://tautulli.com/) - Server Monitor
-* [Gir-Society](https://discord.gg/girsociety) - Free Plex Server
+* [Gir Society](https://discord.gg/girsociety) - Free Plex Server
 * [SuperPlex](https://normantheidiot.neocities.org/superplex/) - Plex Plugins
 * [Kitana](https://github.com/pannal/Kitana) - Plugin Frontend
 * [PlexDrive](https://github.com/plexdrive/plexdrive) or [mergerfs](https://docs.ultra.cc/books/rclone/page/rclone-vfs-and-mergerfs-setup) - Mount GDrive
