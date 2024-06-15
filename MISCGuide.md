@@ -74,7 +74,7 @@
 
 # ► Free Stuff
 
-* ⭐ **[OneHack](https://forum.telugudjmusic.com/)** - Giveaway Community / [Telegram](https://t.me/Official_OneHack)
+* ⭐ **[OneHack](https://onehack.us/)** - Giveaway Community / [Telegram](https://t.me/Official_OneHack)
 * ⭐ **[Free Packages](https://steamdb.info/freepackages/)** - Mass Activate All Free Steam Games / [Guide](https://youtu.be/svbdw-pYNT8)
 * ⭐ **[Unlimited Trials](https://rentry.co/unlimited-trials)** - Unlimited Free Trials Guide
 * ⭐ **[IsThereAnyDeal](https://isthereanydeal.com/giveaways/)** - Games
@@ -875,8 +875,7 @@
 * [HiddenHousing](https://www.hiddenhousing.org/) - House Pricing Map
 * [Chipscribe](https://chipscribe.com/) - Split Service Subscription Costs Anonymously
 * [StockInformer](https://www.stockinformer.com/) - Product Stock Notifications
-* [GiftWhale](https://giftwhale.com/) or [Wishlephant](https://wishlephant.com/) - Wishlist Generators
-* [Throne](https://throne.com/) - Wishlists for Creators
+* [GiftWhale](https://giftwhale.com/), [Throne](https://throne.com/) or [Wishlephant](https://wishlephant.com/) - Wishlist Generators
 * [Desenmascara](https://desenmascara.me/) - Spot Counterfeit Sites
 * [/r/FashionReps](https://www.reddit.com/r/FashionReps/) - Replica Clothing Community
 * [WornOnTV](https://wornontv.net/) - Find Outfits from TV Shows
@@ -1257,6 +1256,7 @@
 * [Virtual x86](https://copy.sh/v86/) - x86-compatible OS Emulators
 * [PCjs Machines](https://www.pcjs.org/) - Classic Computer Emulators
 * [Quantum Playground](https://www.quantumplayground.net/#/home) - Quantum Computer Simulator
+* [Terminal 00](https://angusnicneven.com/), [corru.observer](https://corru.observer/), [lomando](https://lomando.com/main.html), [angelangelangel](https://angelangelangelangelangel.com/) or [SilverLadder](http://www.silverladder.com/) - Cursed Sites / Horror Games
 * [Kamogo](https://www.kamogo.com/faq/) - Useless Web Apps
 * [larsberg](https://www.larsberg.net/#/), [substack](https://substack.net/) or [mrdoob](https://mrdoob.neocities.org/) - Trippy 3D Experiments
 * [Google Doodles](https://www.google.com/doodles?q=interactive) - Interactive Google Doodles
@@ -1445,7 +1445,6 @@
 * [Mario Mayhem](https://www.mariomayhem.com/) - Mario Fansite
 * [ILoveJarJarBinks](https://ilovejarjarbinks.tripod.com/) - Jar Jar Binks Fansite
 * [User Inyerface](https://userinyerface.com/) - Worlds Most Annoying Website
-* [Terminal 00](https://angusnicneven.com/), [angelangelangel](https://angelangelangelangelangel.com/) or [SilverLadder](http://www.silverladder.com/) - Cursed Sites
 * [TheMostAmazingWebsiteOnTheInternet](http://www.themostamazingwebsiteontheinternet.com/) - The Internets Best Website
 * [Objection!](https://objection.lol/) - Ace Attorney Objecting on Your Behalf
 * [The Death Generator](https://deathgenerator.com/) - Video Game Text Generator
