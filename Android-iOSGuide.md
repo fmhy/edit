@@ -878,6 +878,7 @@
 
 ## ▷ Android Anime
 
+* 🌐 **[EverythingMoe](https://everythingmoe.com/#section-mobileapp)** - Anime App Index / [Discord](https://discord.gg/GuueaDgKdS)
 * ⭐ **[Aniyomi](https://aniyomi.org/)** or [Animiru](https://github.com/Quickdesh/Animiru) - Movies / TV / Anime
 * ⭐ **[Dantotsu](https://dantotsu.app)** / [GitHub](https://github.com/rebelonion/Dantotsu)
 * [Kaguya App](https://github.com/hoangvu12/kaguya-app/)
