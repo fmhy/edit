@@ -658,11 +658,10 @@
 * [Aha Music](https://www.aha-music.com/identify-songs-music-recognition-online)
 * [AudioTag](https://audiotag.info/)
 * [SoundHound](https://www.soundhound.com/soundhound) - Android
-* [MusicRecognizer](https://github.com/aleksey-saenko/MusicRecognizer) - Android
+* [Audile](https://github.com/aleksey-saenko/MusicRecognizer) - Android
 * [Audire](https://github.com/alexmercerind/audire) - Android
 * [AmbientMusicMod](https://github.com/KieronQuinn/AmbientMusicMod) - Android
 * [Audd](https://aaududd.io/) - API
-* [Audile](https://github.com/aleksey-saenko/MusicRecognizer) - Android
 
 ***
 
