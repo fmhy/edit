@@ -115,7 +115,7 @@
 * [Musico](https://www.musi-co.com/listen/) - AI Generated Songs
 * [BitMidi](https://bitmidi.com/) - Stream / Download MIDI Files
 * [Tasso Music](https://www.tassomusic.org/) - Early Modern Music
-* [i78s](https://i78s.org/), [UCSB Cylinders](https://cylinders.library.ucsb.edu/index.php), [CLPGS](https://www.clpgs.org.uk/), [Tinfoil](http://www.tinfoil.com/), [Phonobase](http://www.phonobase.org/index.php?langue=en) or [Archeophone](https://www.archeophone.org/windex.php) - Phonograph / Gramophone Recordings
+* [i78s](https://i78s.org/), [UCSB Cylinders](https://cylinders.library.ucsb.edu/index.php), [CLPGS](https://www.clpgs.org.uk/), [Tinfoil](http://www.tinfoil.com/), [Phonobase](http://www.phonobase.org/index.php?langue=en), [American Historical Recordings](https://adpprod2.library.ucsb.edu/) or [Archeophone](https://www.archeophone.org/windex.php) - Phonograph / Gramophone Recordings
 * [FirstSounds](https://www.firstsounds.org/) - Oldest Music Recordings
 * [Russian Records](https://www.russian-records.com/) - Russian Record Recordings
 * [Measuring Polyphony](https://measuringpolyphony.org/) - Digital Encoding of Late Medieval Music
@@ -442,7 +442,6 @@
 * [BlackTorrent](https://blacktorrent.ru/) or [iPlayMetal](https://metal.iplay.ro/) - Metal / MP3 / FLAC
 * [PunkTorrents](https://www.punktorrents.com/) - Punk / MP3
 * [the /kpg/ torrent](https://kpg.neocities.org/) - 800GB+ K-Pop Torrent File
-* [The Joe Rogan Experience](https://pastebin.com/gqwPPRL6) - Joe Rogan Podcast
 * [MixtapeTorrent](http://www.mixtapetorrent.com/) - Mixtapes / MP3
 * [TribalMixed](https://www.tribalmixes.com/) - DJ Mixes / MP3
 * [PandaCD](https://pandacd.io/) - User-Made Music / MP3
