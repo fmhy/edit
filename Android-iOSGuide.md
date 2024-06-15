@@ -26,6 +26,7 @@
 * [RockMods](https://www.rockmods.net/) / [Telegram](https://t.me/RBMods)
 * [ReXDL](https://rexdl.com/) / [Telegram](https://t.me/joinchat/AAAAAFVMhwX7IzS5hMc8OQ)
 * [PlatinMods](https://platinmods.com/) - Modded Games
+* [Androeed](https://androeed.store/)
 
 ***
 
