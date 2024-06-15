@@ -5216,7 +5216,6 @@ outline: false
 * [Docker Android](https://github.com/budtmo/docker-android) - Android on Docker
 * [Nox](https://www.bignox.com/) - Android Emulator on Windows / [Debloat](https://gist.github.com/TameemS/72c4b92131977aced56e727d51599a48)
 * [GameLoop](https://www.gameloop.com/) - Android Emulator on Windows
-* [MuMu](https://www.mumuplayer.com/) - Android Emulator on Windows
 * [MeMu](https://www.memuplay.com/) - Android Emulator on Windows / [Debloat](https://gist.github.com/TameemS/603686cec857ff1f91e68607e374b0d8)
 * [LDPlayer](https://www.ldplayer.net/) - Android Emulator on Windows / [Debloat](https://gist.github.com/TameemS/894cdb8adae1d6042a5f21c4e80bcd9e/)
 * [Genymotion](https://www.genymotion.com/download/) - Android Emulator on Windows
