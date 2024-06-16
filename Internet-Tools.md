@@ -73,7 +73,6 @@
 ## ▷ Bookmark Managers
 
 * ⭐ **[Raindrop.io](https://raindrop.io/)**
-* ⭐ **[Saved.io](https://saved.io/)**
 * [Pilgrim](https://pilgrim.are.na/) - Tree Style Path Bookmarking
 * [Bort](https://bort.io/) - Bookmark Manager that Syncs with Dropbox
 * [Bookmarklets Guide](https://rentry.co/bookmarklets-guide) - Useful Bookmarklets / Guide
@@ -97,7 +96,6 @@
 * [Openoox](https://openoox.com/)
 * [Mission Control](https://mission-control.app/)
 * [histre](https://histre.com/)
-* [BrainyTab](https://brainytab.com/)
 * [Zulu](https://tryzulu.com/)
 * [Contentle](https://contentle.com/)
 * [Clipix](https://www.clipix.com/)
@@ -428,6 +426,8 @@
 * [ThemeBeta](https://www.themebeta.com/) - Change Chrome Theme
 * [BrowserParrot](https://www.browserparrot.com/) - Browser History Search Engine
 * [Hurl](https://github.com/U-C-S/Hurl) - Select Browser on URL Clicks
+* [Ruffle](https://ruffle.rs/) - Flash Emulator
+* [Flash 32 Download](https://pastebin.com/CTLS5EVy) or [Clean Flash Builds](https://github.com/darktohka/clean-flash-builds/) - Flash Downloads
 * [Edge-Remover](https://rentry.co/uninstall_edge) - Microsoft Edge Removal Script
 * [NoMoreEdge](https://github.com/KodeByWrath/NoMoreEdge), [Edge_Removal.bat](https://github.com/AveYo/fox/blob/main/Edge_Removal.bat) or [MSEdgeRedirect](https://github.com/rcmaehl/MSEdgeRedirect) - Redirect Microsoft Edge
 * [Floccus](https://floccus.org/) - Browser Bookmark Sync / [GitHub](https://github.com/floccusaddon/floccus)

@@ -145,7 +145,6 @@
 * ⭐ **[Archivebate](https://archivebate.com/)**
 * ⭐ **[CamCaps](https://camcaps.ac/)**
 * ⭐ **[Peachurbate](https://peachurbate.com/en)**
-* [OnCam](https://oncam.me/)
 * [Cam Show Download](https://camshowdownload.com/)
 * [Curbate](https://curbate.tv/)
 * [Mobile Porn](https://www.mobilepornmovies.com/)
@@ -191,7 +190,7 @@
 
 * ↪️ **[General Torrent Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent)**
 * ⭐ **[myporn.club](https://myporn.club/)**
-* ⭐ **[XXXCLub](https://xxxclub.to/)*** or [NoisyBoY (Mirror)](https://torrentgalaxy.to/profile/NoisyBoY)
+* ⭐ **[XXXCLub](https://xxxclub.to/)*** or [NoisyBoY (Mirror)](https://torrentgalaxy.mx/profile/NoisyBoY)
 * ⭐ **[Nyaa Sukebei](https://sukebei.nyaa.si/)** - JAV
 * ⭐ **[ProjectJav](https://projectjav.com/)** - JAV
 * ⭐ **[OneJAV](https://onejav.com/)** - JAV
@@ -273,7 +272,6 @@
 * ⭐ **[SimpCity](https://simpcity.su/)** - OnlyFans / Patreon
 * [Reddit Plug](https://redditplug.com/) - OnlyFans
 * [Epic Leaks](https://t.me/+ajc9iF2hjWU3Mjgx) - OnlyFans
-* [Bunkr Albums](https://bunkr-albums.io/) - OnlyFans
 * [PornLeaks](https://pornleaks.in/) or [Vixenleaks](https://vixenleaks.com/) - OnlyFans / Patreon
 * [NobodyHome](https://nobodyhome.tv/index.php) - OnlyFans
 * [Vlixa](https://vlixa.com/) - OnlyFans
@@ -313,6 +311,7 @@
 ## ▷ Hentai Anime
 
 * 🌐 **[The Index](https://theindex.moe/library/hentai)** or [Best Hentai Sites](https://besthentaisites.github.io/) - Hentai Site Lists
+* 🌐 **[EverythingMoe](https://everythingmoe.com/?nsfw=true#section-hentai)** - Hentai Sites Index
 * 🌐 **[/cumg/](https://rentry.co/coom)** - Hentai Resources
 * ⭐ **[Nyaa Sukebei](https://sukebei.nyaa.si/)** - Hentai Torrents
 * ⭐ **[Anime-Sharing](https://www.anime-sharing.com/#downloads-requests)** - Hentai DDL
@@ -379,6 +378,7 @@
 
 ## ▷ Hentai Manga / Comics
 
+* 🌐 **[EverythingMoe](https://everythingmoe.com/?nsfw=true#section-hentairead)** - Hentai Manga / Comics Index
 * ⭐ **[E-Hentai](https://e-hentai.org/)** or [ExHentai](https://exhentai.org/) - Hentai Manga / Comics
 * ⭐ **E-Hentai Tools** - [Android Client](https://github.com/honjow/FEhViewer) / [Deleted Galleries](https://panda.chaika.moe/) / [Downloader](https://gitlab.com/squishydreams/pandaforever), [2](https://github.com/ccloli/E-Hentai-Downloader)
 * ⭐ **[IMHentai](https://imhentai.xxx/)** - Hentai Manga / Comics
@@ -467,6 +467,7 @@
 
 ## ▷ Games
 
+* 🌐 **[EverythingMoe](https://everythingmoe.com/?nsfw=true#section-games)** - Hentai Games Index
 * ⭐ **[F95Zone](https://f95zone.to/)**
 * ⭐ **[Nyaa Sukebei](https://sukebei.nyaa.si/)**
 * ⭐ **[Anime-Sharing](https://www.anime-sharing.com/#downloads-requests)** - Hentai Games DDL
@@ -597,7 +598,6 @@
 * [Javinizer](https://github.com/javinizer/Javinizer) - JAV File Organizer
 * [DeepMosaics](https://github.com/HypoX64/DeepMosaics) - Remove Mosaics from Porn
 * [ThePornDB](https://metadataapi.net/) - Porn Metadata
-* [Bypass Age Verification](https://greasyfork.org/en/scripts/393525-bypass-age-verification-deviantart-com) - Bypass Deviantart Age Restriction
 * [Sleazy Fork](https://sleazyfork.org/en/scripts) - Adult User Scripts / [Add to Greasyfork](https://greasyfork.org/en/scripts/23840)
 * [Anal Sex Guide](https://github.com/regdude/anal) - Anal Sex Guide / Safety
 * [FapInstructor](https://fapinstructor.com/) or [Joi.how](https://joi.how/) - Fap Instructor Tools
