@@ -266,64 +266,58 @@
 
 # ► File Hosts
 
-* **Note** - Size is per file and time is after the last time someone downloaded the file unless specified otherwise. Also keep in mind it's NEVER a good idea to upload personal / private files to random file hosts, even if they claim to be encrypted.
+* **Note** - Keep in mind that it's **never** a good idea to upload personal or confidential files to any file host, even if they claim to be encrypted. **Tag Information:** File Size Limit **/** Maximum File Expiry Time ([More Info](https://pastebin.com/zkXcK56H)) **/** Maximum Number of Downloads Allowed Per File.
 
 ***
 
+* ↪️ **[Video File Hosts]()**
 * ⭐ **[Buzzheavier](https://buzzheavier.com/)** - Unlimited / Forever / [Discord](https://discord.gg/ttQjgC28WP)
-* ⭐ **[file.haus](https://filehaus.pk/)**, [2](https://filehaus.su/) - 200GB / Forever / [onion](http://fileha3hjvudqs2moembtaegnpjo5ptec3tomf5dlxx6ydwtajkkahyd.onion/) / [i2p](http://xr256v4weabr3rdz3nqzb27bv3gkwjisuf2d57urqtmh3gx3w7da.b32.i2p/) / [loki ](http://nipqehne9zrtpryw6ig5y9gu7c8gwt8ymrrncufxg1g8wf5t4rqo.loki/)
-* ⭐ **[Gofile](https://gofile.io/)** - Unlimited / 10 days
-* ⭐ **[1fichier](https://1fichier.com/)** - 300GB / 15 days (30 days if you sign up)
-* ⭐ **[Pixeldrain](https://pixeldrain.com/)** - 20GB / 120 days / [Discord](https://discord.gg/TWKGvYAFvX) / [Speedtest](https://pixeldrain.com/speedtest) / [Bypass](https://pixeldrain-bypass.cybar.xyz) / [Bypass Userscript](https://greasyfork.org/en/scripts/491326-pixeldrain-download-bypass)
+* ⭐ **[Gofile](https://gofile.io/)** - Unlimited / 10 Days
+* ⭐ **[1fichier.com](https://1fichier.com/)** - 300GB / 15 Days (30 Days With Account)
+* ⭐ **[file.haus](https://filehaus.top/)** - 200GB / Forever / [.pk](https://filehaus.pk/) / [.su](https://filehaus.su/) / [.onion](http://fileha3hjvudqs2moembtaegnpjo5ptec3tomf5dlxx6ydwtajkkahyd.onion/) / [.i2p](http://xr256v4weabr3rdz3nqzb27bv3gkwjisuf2d57urqtmh3gx3w7da.b32.i2p/) / [.loki](http://nipqehne9zrtpryw6ig5y9gu7c8gwt8ymrrncufxg1g8wf5t4rqo.loki/)
+* ⭐ **[Send.cm](https://send.cm/)** - 100GB / 15 Days
+* ⭐ **[Pixeldrain](https://pixeldrain.com/)** - 20GB / 120 Days / [Discord](https://discord.gg/TWKGvYAFvX)
+* ⭐ **Pixeldrain Tools** - [Speedtest](https://pixeldrain.com/speedtest) / [Limit Bypass](https://pixeldrain-bypass.cybar.xyz) / [Limit Bypass Userscript](https://greasyfork.org/en/scripts/491326-pixeldrain-download-bypass)
 * ⭐ **[Cipher Files](https://cipherfiles.com/)** - 5GB / Forever / [Discord](https://discord.gg/DmRhftYcvN)
-* ⭐ **[Send.cm](https://send.cm/)** - 100GB / 15 days
-* ⭐ **[Qiwi](https://qiwi.gg)** - [Warning](https://pastebin.com/jn90QMEt) / Signup Required
-* ⭐ **[Catbox.moe](https://catbox.moe/)** - 200MB / Forever
-* [MultiUp](https://multiup.io/), [MirrorAce](https://mirrorace.com/) or [Mirrorcreator](https://www.mirrored.to/) / [Extract / Upload](https://github.com/Reddiepoint/MultiUp-Direct) - Multi Host Uploaders
+* ⭐ **[Pillowcase](https://pillowcase.su/)** - Audio File Host / 200MB (500MB With Account) / Forever
+* ⭐ **[Catbox](https://catbox.moe/)** - 200MB / Forever
+* ⭐ **[Qiwi](https://qiwi.gg)** - Account Required / [Note](https://pastebin.com/QJDbgtRJ)
+* [MultiUp.io](https://multiup.io/) / [Extract / Upload](https://github.com/Reddiepoint/MultiUp-Direct), [MirrorAce](https://mirrorace.com/), or [Mirrored.to](https://www.mirrored.to/) - Multi Host Uploaders
 * [Z-o-o-m](https://z-o-o-m.eu/) - Multi-Host Upload Desktop App
-* [Archive.org](https://archive.org/create/) - Signup Required
-* [Oshi](https://oshi.at/) - 5GB / 90 days
+* [MixDrop](https://mixdrop.ag/) - Unlimited / 60 Days / Account Required
 * [HIDAN](https://hidan.co/) - Unlimited / 10+ Days (from upload)
-* [Hexupload](https://www.hexupload.net/) - 15GB / 60 days
-* [Mixdrop](https://mixdrop.ag/) - 2GB / 60 Days / Signup Required
-* [send](https://send.vis.ee/) / [instances](https://gitlab.com/timvisee/send-instances) - 2.5gb / 1 day
-* [edisk](https://www.edisk.cz/) - 10GB / 30 days
-* [file.kiwi](https://file.kiwi/) - Unlimited / 3.5 Days / [Free Download Duration](https://ibb.co/85z9D1s)
-* [easyupload](https://easyupload.io/) - 10GB / 50gb total / 30 days
-* [fastupload](https://fastupload.io/en) - 10GB / 30 days
-* [desiupload](https://desiupload.co/) or [uploadraja](https://uploadraja.com/) - 10GB / 15 days
-* [fshare](https://www.fshare.vn/) - 10GB / 5 days
-* [AnonTransfer](https://anontransfer.com/) - 15GB / 30 days
-* [FileDitch](https://fileditch.com/) - 5GB / Forever / [Note](https://ibb.co/F0gTxNC)
-* [megaup](https://megaup.net/) - 5GB / 60 days
-* [ufile](https://ufile.io/) - 5GB / 30 days
-* [Internxt](https://send.internxt.com/) - 5GB / 100 files / 14 days
-* [Lufi](https://upload.disroot.org/) - 5GB / 30 days
-* [sendbig](https://www.sendbig.com/) - 5GB / 7 days
-* [Smash](https://fromsmash.com/) - 2GB / 7 days
-* [alfafile](https://www.alfafile.net/) - 5GB / 30 days / Signup Required
-* [drop.download](https://drop.download/) - 5GB / 15 days / Signup Required
-* [clicknupload](https://clicknupload.co/) - 2GB / 12 Days or 5GB / 30 Days on sign-up
-* [doodrive](https://doodrive.com/) - 2GB / 30 days / Signup Required
+* [Filebin](https://filebin.net/) - Unlimited / 6 Days / [Warning](https://pastebin.com/W0j4VDAN)
+* [file.kiwi](https://file.kiwi/) - Unlimited / [File Expiry Explanation](https://file.kiwi/en/price)
+* [FEX.NET](https://fex.net/) - 100GB / 7 Days
+* [SwissTransfer](https://www.swisstransfer.com/) - 50GB / 30 Days / 250 Downloads
+* [BowFile](https://bowfile.com/) - 20GB / 20 Days
+* [Hexupload](https://www.hexupload.net/) or [AnonTransfer](https://anontransfer.com/) - 15GB / 30 Days
+* [FileLu](https://filelu.com/) - 15GB / 1 Day (Unlimited With Account) / [Note](https://pastebin.com/Rr9ZqD2F)
+* [Fastupload.io](https://fastupload.io/en) - 10GB / 30 Days (60 Days With Account)
+* [eDisk](https://www.edisk.cz/) or [Easyupload.io](https://easyupload.io/) - 10GB / 30 Days
+* [Drop Download](https://drop.download/) - 10GB / 30 Days / Account Required
+* [DesiUpload](https://desiupload.co/) - 10GB / 15 Days (15GB / 30 Days With Account)
+* [GrosFichiers](https://www.grosfichiers.com/) - 10GB / 14 Days
+* [Fshare](https://www.fshare.vn/) - 10GB / 5 Days
+* [Uploadraja.com](https://uploadraja.com/) - 10GB / 4 Days (30GB / 15 Days With Account)
+* [FileTransfer.io](https://filetransfer.io/) - 6GB / 21 Days / 50 Downloads
+* [FileDitch](https://fileditch.com/), [Oshi](https://oshi.at/) or [SendGB](https://www.sendgb.com/) - 5GB / 90 Days
+* [MegaUp](https://megaup.net/) - 5GB / 60 Days
+* [ufile.io](https://ufile.io/) - 5GB / 30 Days
+* [Internxt Send](https://send.internxt.com/) - 5GB / 15 Days
+* [pCloud Transfer](https://transfer.pcloud.com/) or [Tresorit Send](https://send.tresorit.com/) - 5GB / 7 Days / Email Required
+* [Temp.sh](https://temp.sh/) - 4GB / 3 Days
+* [File Convoy](https://www.fileconvoy.com/) - 3GB / 21 Days
+* [FilePost](https://file-post.net/) - 3GB / 7 Days / Email Required
+* [Send](https://send.vis.ee/) - 2.5GB / 3 Days / 10 Downloads / [Instances](https://gitlab.com/timvisee/send-instances)
 * [DropMB](https://dropmb.com/) - 2GB / 1 Year
-* [Imagenetz](https://www.imagenetz.de/) - 2GB / 90 days
-* [filelu](https://filelu.com/) - 15GB / 10 days
-* [fileconvoy](https://www.fileconvoy.com/) - 3GB / 21 days total
-* [filetransfer](https://filetransfer.io/) - 6GB / 21 days total / 50 download limit
-* [swisstransfer](https://www.swisstransfer.com/en) - 50GB / 30 days total / 250 download limit
-* [bowfile](https://bowfile.com/) - 5GB / 30 days total
-* [grosfichiers](https://www.grosfichiers.com/) - 10GB / 14 days total
-* [filebin](https://filebin.net/) - Unlimited / 6 days total / Anyone with a link can delete
-* [fex](https://fex.net/) - 100GB total / 7 days total
-* [Encl](https://encl.io/) - 10gb / 7 days total
-* [SendGB](https://www.sendgb.com/) - 5GB / 7 days total
-* [pCloud Transfer](https://transfer.pcloud.com/) - 5GB / 7 days total
-* [tresorit](https://send.tresorit.com/) - 5GB / 7 days total
-* [temp.sh](https://temp.sh/) - 4GB / 3 days total
-* [file-post](https://file-post.net/) - 3GB / 7 days total
-* [FireLoad](https://www.fireload.com/) - 2GB / 60 days total / Signup Required
-* [WeTransfer](https://wetransfer.com/) - 2GB / 7 days total
-* [Limited Upload Hosts](https://rentry.org/xc48kg) - More Hosts / 1GB or below
+* [FireLoad](https://www.fireload.com/) - 2GB / 60 Days / Account Required
+* [Lufi](https://upload.disroot.org/) - 2GB / 30 Days
+* [DooDrive](https://doodrive.com/) - 2GB / 30 Days / Account Required
+* [Clicknupload](https://clicknupload.co/) - 2GB / 8 Days (10GB / 25 Days With Account)
+* [WeTransfer](https://wetransfer.com/) - 2GB / 7 Days
+* [Smash](https://fromsmash.com/) - 2GB / 7 Days / Email Required
+* [Limited Upload Hosts](https://rentry.org/xc48kg) - More Hosts / 1GB or Below
 
 ***
 
