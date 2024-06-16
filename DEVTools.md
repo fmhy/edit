@@ -223,8 +223,8 @@
 
 * 🌐 **[Awesome Gamedev](https://github.com/mbrukman/awesome-gamedev)**, [Game Dev Resources](https://www.newgrounds.com/wiki/creator-resources/game-dev-resources), [Magic Tools](https://github.com/ellisonleao/magictools), [LibGDX](https://libgdx.com/) / [Resources](https://github.com/rafaskb/awesome-libgdx) or [VG resource](https://www.vg-resource.com/) - Game Development Resources
 * 🌐 **[Awesome One Person Games](https://github.com/Yonaba/awesome-one-person-games)** - Single Dev Game Examples
-* ↪️ **[Textures / Patterns](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_.25B7_textures_.2F_patterns)**
-* ↪️ **[Free Game Engines](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_game_engines)**
+* ↪️ **[Textures / Patterns](https://new.reddit.com/r/FREEMEDIAHECKYEAH/wiki/img-tools/#wiki_.25B7_textures_.2F_patterns)**
+* ↪️ **[Game Engines](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_game_engines)**
 * ↪️ **[3D Models / Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/img-tools#wiki_.25B7_3d_models)**
 * ↪️ **[Game Development Assets](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_game_development_assets)**
 * ⭐ **[SpriteFusion](https://www.spritefusion.com/)** - Tilemap Editor / [Discord](https://discord.gg/8sCEAspmBV)
@@ -253,7 +253,7 @@
 * [Doshaven Programming List](https://www.doshaven.eu/programming-tools/) - DOS Game Creator Tools
 * [QB64SourceCode](https://www.qb64tutorial.com/) - QB64 Game Programming Tutorials
 * [Fantasy Consoles / Computers](https://github.com/paladin-t/fantasy) - List of Fantasy Consoles and Computers
-* [Kaboomjs](https://kaboomjs.com/) - Quickly Make Games with Javascript
+* [Kaboomjs](https://kaboomjs.com/) - Quickly Make Games with JavaScript
 * [inkle](https://www.inklestudios.com/ink/) - Game Narrative Scripting Language
 * [Mansion Generator](https://watabou.itch.io/procgen-mansion) - Procedural Mansions Generator
 * [ProFantasy](https://rpgmaps.profantasy.com/) - Fantasy Map Making Tutorials
@@ -669,7 +669,7 @@
 * 🌐 **[Awesome Podcasts](https://github.com/rShetty/awesome-podcasts)** - Podcasts for Software Engineers
 * 🌐 **[Awesome YouTubers](https://github.com/JoseDeFreitas/awesome-youtubers)** - YouTube Dev Channels Indexes
 * 🌐 **[ProgrammingLearningResources](https://rentry.co/ProgrammingLearningResources)** or [A-to-Z-Resources-for-Students](https://github.com/dipakkr/A-to-Z-Resources-for-Students) - Programming Learning Resources
-* ↪️ **[Programming Book Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/reading#wiki_.25B7_programming_books)** - Read / Download Programming Books
+* ↪️ **[Programming Books](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/reading#wiki_.25B7_programming_books)** - Read / Download Programming Books
 * ↪️ **[Programming / Coding Tutorials](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_coding_tutorials)**
 * ⭐ **[freeCodeCamp](https://www.freecodecamp.org/)** - Programming / Courses / Interactive
 * ⭐ **[StackOverflow](https://stackoverflow.com/)** / [Frontend](https://code.whatever.social/) or [DecodingDevOps](https://www.decodingdevops.com/) - Developer Q&A
@@ -991,22 +991,22 @@
 
 ## ▷ JavaScript
 
-* 🌐 **[Awesome Javascript](https://github.com/sorrycc/awesome-javascript)** - Javascript Resources
+* 🌐 **[Awesome JavaScript](https://github.com/sorrycc/awesome-javascript)** - JavaScript Resources
 * ↪️ **[TypeScript Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_typescript_tools)**
 * ↪️ **[Vue Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_vue_tools)**
-* ⭐ **[JavaScript.info](https://javascript.info/)**, [Patterns.dev](https://www.patterns.dev/) or [30 Days Of JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript) - Javascript Learning Sites
-* [Leaflet](https://leafletjs.com/) - Javascript Library for Interactive Maps
-* [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS) or [EloquentJavascript](https://eloquentjavascript.net/) - Javascript Learning Books
-* [Javascript Questions](https://github.com/lydiahallie/javascript-questions) or [JavaScriptQuiz](https://javascriptquiz.com/) - Javascript Questions for Practice
+* ⭐ **[JavaScript.info](https://javascript.info/)**, [Patterns.dev](https://www.patterns.dev/) or [30 Days Of JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript) - JavaScript Learning Sites
+* [Leaflet](https://leafletjs.com/) - JavaScript Library for Interactive Maps
+* [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS) or [EloquentJavaScript](https://eloquentjavascript.net/) - JavaScript Learning Books
+* [JavaScript Questions](https://github.com/lydiahallie/javascript-questions) or [JavaScriptQuiz](https://javascriptquiz.com/) - JavaScript Questions for Practice
 * [33 JS Concepts](https://github.com/leonardomso/33-js-concepts) - Useful JavaScript Concepts
-* [You-Dont-Need-jQuery](https://github.com/camsong/You-Dont-Need-jQuery) - Javascript Query Style Events Guide
-* [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript) - Javascript Style Guide
-* [Untrusted](https://alexnisnevich.github.io/untrusted/) - Javascript Learning Game
+* [You-Dont-Need-jQuery](https://github.com/camsong/You-Dont-Need-jQuery) - JavaScript Query Style Events Guide
+* [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript) - JavaScript Style Guide
+* [Untrusted](https://alexnisnevich.github.io/untrusted/) - JavaScript Learning Game
 * [JavaScripting](https://www.javascripting.com/) - JavaScript Libraries
-* [Vanilla List](https://vanillalist.top/) - Vanilla Javascript Repository
-* [RunKit](https://runkit.com/) - Browser Javascript Sandbox
+* [Vanilla List](https://vanillalist.top/) - Vanilla JavaScript Repository
+* [RunKit](https://runkit.com/) - Browser JavaScript Sandbox
 * [1loc](https://phuoc.ng/collection/1-loc/) - JavaScript Code Snippets
-* [Javascript Algorithms](https://github.com/trekhleb/javascript-algorithms) - Algorithms and Data Structures in Javascript
+* [JavaScript Algorithms](https://github.com/trekhleb/javascript-algorithms) - Algorithms and Data Structures in JavaScript
 * [Gummy](https://gummyjs.vercel.app/) - Easily Build JavaScript Programs
 * [Obfuscator](https://obfuscator.io/) or [js-confuser](https://js-confuser.com/) - JavaScript Obfuscators
 * [jsdfe](https://avotoko.github.io/javascript-deobfuscator/) - JavaScript Deobfuscator
@@ -1172,8 +1172,8 @@
 ## ▷ Color Schemes
 
 * 🌐 **[Colorful](https://github.com/Siddharth11/Colorful)** - Color Scheme Resources
-* ↪️ **[Color Palette Generators](https://www.reddit.com//r/FREEMEDIAHECKYEAH/wiki/img-tools#wiki_.25B7_palette_generators)**
-* ↪️ **[Color Pickers](https://www.reddit.com//r/FREEMEDIAHECKYEAH/wiki/img-tools#wiki_.25B7_color_pickers)**
+* ↪️ **[Color Palette Generators](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/img-tools#wiki_.25B7_palette_generators)**
+* ↪️ **[Color Pickers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/img-tools#wiki_.25B7_color_pickers)**
 * ⭐ **[ColorHexa](https://www.colorhexa.com/)** - Color Hex Encyclopedia
 * ⭐ **[Realtime Colors](https://realtimecolors.com/)** - Preview Color Palettes
 * ⭐ **[SpyColor](https://www.spycolor.com/)** or [Colouris](https://colouris.surge.sh/) - Color Model Conversions
@@ -1363,7 +1363,6 @@
 
 * 🌐 **[Free Cyber Resources](https://github.com/gerryguy311/Free_CyberSecurity_Professional_Development_Resources)**, [BlueTeam Tools](https://github.com/A-poc/BlueTeam-Tools) or [Applied Cybersecurity](https://www.nist.gov/itl/applied-cybersecurity/nice/resources/online-learning-content) - Cybersecurity Learning Resources
 * 🌐 **[CTF Sites](https://ctfsites.github.io/)**, [echoCTF.RED](https://echoctf.red/), [picoCTF](https://picoctf.org/), [CTF Beginners Guide](https://jaimelightfoot.com/blog/so-you-want-to-ctf-a-beginners-guide/) or [CTFLearn](https://ctflearn.com/) - CTF Challenges / Resources
-* ↪️ **[Pentesting Resources](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_pentesting_resources)**
 * ⭐ **[crackmes.one](https://crackmes.one/)** / [Discord](https://discord.com/invite/2pPV3yq), [Hackers101](https://www.hacker101.com/), [SmashTheStack](https://smashthestack.org/), [WebHacking](https://webhacking.kr/) or [DefendTheWeb](https://defendtheweb.net/) - Cybersecurity Challenges
 * [Skills for All](https://skillsforall.com/) or [90DaysOfCyberSecurity](https://github.com/farhanashrafdev/90DaysOfCyberSecurity) - Cybersecurity Courses
 * [TryHackMe](https://tryhackme.com/), [Hack The Box](https://www.hackthebox.com/) or [OpenSecurityTraining2](https://opensecuritytraining.info/) - Cybersecurity Lessons
@@ -1374,13 +1373,24 @@
 * [MicroCorruption](https://microcorruption.com/) - Learn Reverse Engineering / Cybersecurity
 * [OWASP Cheatsheet](https://cheatsheetseries.owasp.org/) - Application Security Guide
 * [John Hammond](https://www.youtube.com/@_JohnHammond) or [LowLevelLearning](https://www.youtube.com/@LowLevelLearning/) - Cybersecurity YouTube Tutorials
-* [sha256_project](https://github.com/oconnor663/sha256_project) or [cryptohack](https://cryptohack.org/) - Cryptography Learning
+
+***
+
+## ▷ Pen Testing
+
+* 🌐 **[Awesome Pen Testing](https://github.com/enaqx/awesome-pentest)** - Penetration Testing Resources
+* 🌐 **[Awesome Hacking](https://github.com/Hack-with-Github/Awesome-Hacking)** - Pentesting / Security Index
+* [Pentesting Bible](https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE) or [Juice Shop](https://owasp.org/www-project-juice-shop/) - Learn Pentesting
+* [Metasploit](https://www.metasploit.com/) / [Cheatsheet](https://www.comparitech.com/net-admin/metasploit-cheat-sheet/) - Pentesting Framework
+* [MobileApp-Pentest-Cheatsheet](https://github.com/tanprathan/MobileApp-Pentest-Cheatsheet) - App Pentesting Cheatsheet
+* [Pentest Contracts](https://github.com/cure53/Contracts) - Security Contract Templates
+* [Kali NetHunter](https://store.nethunter.com/en/) or [AndroGuard](https://github.com/androguard/androguard) - Penetration Testing / Forensics Apps
 
 ***
 
 ## ▷ Cybersecurity Tools
 
-* ⭐ **[What](https://github.com/bee-san/pyWhat)** - File Analyzer
+* ⭐ **[pyWhat](https://github.com/bee-san/pyWhat)** - File Analyzer
 * [Open Source Security Software](https://open-source-security-software.net/) - Cybersecurity Software
 * [Shisho](https://shisho.dev/) - Infrastructure Code Security Patcher
 * [osquery](https://osquery.io) or [Nmap](https://nmap.org/) - Security Monitors
@@ -1404,9 +1414,8 @@
 
 ## ▷ Cybersecurity Indexes
 
-* 🌐 **[Awesome Cyber Security](https://github.com/fabionoth/awesome-cyber-security)** - Cybersecurity Resources
-* 🌐 **[Awesome CI/CD Security](https://github.com/myugan/awesome-cicd-security)** - CI/CD Security Resources
-* 🌐 **[Awesome Cryptography](https://github.com/sobolevn/awesome-cryptography)** - Cryptography Resources
+* ⭐ **[Awesome Cyber Security](https://github.com/fabionoth/awesome-cyber-security)** - Cybersecurity Resources
+* ⭐ **[Awesome CI/CD Security](https://github.com/myugan/awesome-cicd-security)** - CI/CD Security Resources
 * [Advisory Database](https://github.com/github/advisory-database), [ThreatFox](https://threatfox.abuse.ch/) or [Att&ck](https://attack.mitre.org/) - Cybersecurity Defense Databases
 * [ThreatMap](https://threatmap.checkpoint.com/) or [CyberMap](https://cybermap.kaspersky.com/) - Live Malware Distribution Maps
 * [VirusShare](https://virusshare.com/), [PulseDive](https://pulsedive.com/) or [Malpedia](https://malpedia.caad.fkie.fraunhofer.de/) - Malware Search
@@ -1445,6 +1454,8 @@
 
 ## ▷ Encryption / Certificates
 
+* ⭐ **[Awesome Cryptography](https://github.com/sobolevn/awesome-cryptography)** - Cryptography Resources
+* [sha256_project](https://github.com/oconnor663/sha256_project) or [cryptohack](https://cryptohack.org/) - Cryptography Learning
 * [How HTTPS Works](https://howhttps.works/) - Learn HTTPS
 * [mitmproxy](https://mitmproxy.org) - Interactive HTTPS Proxy / [GitHub](https://github.com/mitmproxy/mitmproxy)
 * [HTTPToolkit](https://httptoolkit.com/) - Intercept, Debug, and Mock HTTP(S)
@@ -1463,7 +1474,6 @@
 ## ▷ Reverse Engineering
 
 * 🌐 **[Reverse Engineering Resources](https://github.com/wtsxDev/reverse-engineering)** - Reverse Engineering Resources
-* ↪️ **[Pentesting Resources](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_pentesting_resources)**
 * ⭐ **[GHIDRA](https://ghidra-sre.org/)** - Reverse Engineering
 * ⭐ **[x64dbg](https://x64dbg.com/)** - Debugger for Reverse Engineering
 * ⭐ **[RevShells](https://www.revshells.com/)** - Reverse Shell Generator
@@ -1489,8 +1499,8 @@
 
 ## ▷ Markdown
 
+* ↪️ **[Markdown Editors]()**
 * ⭐ **[Markdown Guide](https://www.markdownguide.org/)** - Guide for Markdown (.md)
-* ⭐ **[HedgeDoc](https://hedgedoc.envs.net/)**, [zettlr](https://www.zettlr.com/), [Dillinger](https://dillinger.io/), [Notable](https://notable.app/), [vnote](https://github.com/vnotex/vnote), [MarkdownTools](https://www.markdowntools.com/), [StackEdit](https://stackedit.io/), [Markdownify](https://markdownify.js.org/), [Apostrophe](https://github.com/ApostropheEditor/Apostrophe), [Glow](https://github.com/charmbracelet/glow), [MarkdownLivePreview](https://markdownlivepreview.com/), [Proton](https://steventhanna.github.io/proton/), [Vrite](https://editor.vrite.io/), [Markflowy](https://markflowy.vercel.app/), [Mindforger](https://github.com/dvorka/mindforger), [PanWriter](https://panwriter.com/) or [Mark Text](https://github.com/marktext/marktext) - Markdown Editors
 * [readme.so](https://readme.so/) - Create README.md Files
 * [Tableconvert](https://tableconvert.com/) - Markdown / Code Converter
 * [Linkspector](https://github.com/UmbrellaDocs/action-linkspector) - Check Markdown Files for Dead Links

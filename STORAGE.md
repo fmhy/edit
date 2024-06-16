@@ -655,6 +655,26 @@
 
 ***
 
+## Markdown Editors
+
+* ⭐ **[HedgeDoc](https://hedgedoc.envs.net/)**
+* [zettlr](https://www.zettlr.com/)
+* [Dillinger](https://dillinger.io/)
+* [Notable](https://notable.app/)
+* [vnote](https://github.com/vnotex/vnote)
+* [MarkdownTools](https://www.markdowntools.com/)
+* [StackEdit](https://stackedit.io/)
+* [Markdownify](https://markdownify.js.org/)
+* [Glow](https://github.com/charmbracelet/glow)
+* [MarkdownLivePreview](https://markdownlivepreview.com/)
+* [Vrite](https://editor.vrite.io/)
+* [Markflowy](https://markflowy.vercel.app/)
+* [Mindforger](https://github.com/dvorka/mindforger)
+* [PanWriter](https://panwriter.com/)
+* [Mark Text](https://github.com/marktext/marktext)
+
+***
+
 ## Media Database Site Tools
 
 ### Trakt Tools
@@ -829,18 +849,6 @@
 ## Open Directory Search String Builder
 
 [strixx](https://strixx.vercel.app/), [lendx](http://lendx.org/), [eyeofjustice](https://www.eyeofjustice.com/od/), [lumpysoft](https://lumpysoft.com/), [opendirsearch](https://opendirsearch.abifog.com/), [Ewasion](https://ewasion.github.io/opendirectory-finder/), [doyouneedmorehdd](https://doyou.needmorehdd.space/#), [Reecemercer](https://open-directories.reecemercer.dev/), [odfinder](https://odfinder.github.io/), [thuvien](https://thuvien.com/)
-
-***
-
-## Pentesting Resources
-
-* 🌐 **[Awesome Pen Testing](https://github.com/enaqx/awesome-pentest)** - Penetration Testing Resources
-* 🌐 **[Awesome Hacking](https://github.com/Hack-with-Github/Awesome-Hacking)** - Pentesting / Security Index
-* [Pentesting Bible](https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE) or [Juice Shop](https://owasp.org/www-project-juice-shop/) - Learn Pentesting
-* [Metasploit](https://www.metasploit.com/) / [Cheatsheet](https://www.comparitech.com/net-admin/metasploit-cheat-sheet/) - Pentesting Framework
-* [MobileApp-Pentest-Cheatsheet](https://github.com/tanprathan/MobileApp-Pentest-Cheatsheet) - App Pentesting Cheatsheet
-* [Pentest Contracts](https://github.com/cure53/Contracts) - Security Contract Templates
-* [Kali NetHunter](https://store.nethunter.com/en/) or [AndroGuard](https://github.com/androguard/androguard) - Penetration Testing / Forensics Apps
 
 ***
 
