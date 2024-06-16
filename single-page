@@ -5494,7 +5494,7 @@ outline: false
 * ⭐ **[Smart TV Guide](https://redd.it/xa0aya)** - Smart TV Piracy Guide
 * ⭐ **[Android TV Guide](https://www.androidtv-guide.com/)** - Android TV Piracy Guide / [Spreadsheet](https://docs.google.com/spreadsheets/d/1kdnHLt673EjoAJisOal2uIpcmVS2Defbgk1ntWRLY3E/)
 * ⭐ **[SmartTube](https://smarttubeapp.github.io/)** - Ad Free Android TV YouTube Player / [GitHub](https://github.com/yuliskov/SmartTubeNext)
-*⭐  **[S0undTV](https://github.com/S0und/S0undTV)** - Android TV Twitch Player / [Discord](https://discord.gg/zmNjK2S)
+* ⭐ **[S0undTV](https://github.com/S0und/S0undTV)** - Android TV Twitch Player / [Discord](https://discord.gg/zmNjK2S)
 * [Android TV Tools v3](https://xdaforums.com/t/tool-all-in-one-tool-for-windows-android-tv-tools-v3.4648239/) - Multiple Android TV Tools
 * [Dejavuln](https://github.com/throwaway96/dejavuln-autoroot) - LG TV Root / Homebrew Installer
 * [Dev Manager Desktop](https://github.com/webosbrew/dev-manager-desktop) - Webos Desktop Dev Mode Manager / Homebrew Installer
@@ -8057,8 +8057,8 @@ onMounted(() => {
 * [Easy-GPU-PV](https://github.com/jamesstringerparsec/Easy-GPU-PV) - Easy GPU Paravirtualization
 * [GsyncSwitch](https://github.com/kwizatz88/GsyncSwitch) - Switch G-Sync or HDR on/off
 * [ThrottleStop](https://www.techpowerup.com/download/techpowerup-throttlestop/) - Laptop CPU Monitor / Optimizer
-* [Universal x86 Tuning Utility](https://github.com/JamesCJ60/Universal-x86-Tuning-Utility) - Laptop GPU Controller
-* [AATU](https://amdaputuningutility.com/) or [RyzenAdj](https://github.com/FlyGoat/RyzenAdj) - Ryzen Laptop GPU Controllers
+* [Universal x86 Tuning Utility](https://amdaputuningutility.com/) / [Github](https://github.com/JamesCJ60/Universal-x86-Tuning-Utility) - Laptop GPU Controller
+* [RyzenAdj](https://github.com/FlyGoat/RyzenAdj) - Ryzen Laptop GPU Controller
 
 ***
 
