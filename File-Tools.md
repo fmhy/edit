@@ -283,7 +283,7 @@
 * [Z-o-o-m](https://z-o-o-m.eu/) - Multi-Host Upload Desktop App
 * [Archive.org](https://archive.org/create/) - Signup Required
 * [Oshi](https://oshi.at/) - 5GB / 90 days
-* [HIDAN](https://hidan.co/) - Unlimited / 10+ Days
+* [HIDAN](https://hidan.co/) - Unlimited / 10+ Days (from upload)
 * [Hexupload](https://www.hexupload.net/) - 15GB / 60 days
 * [Mixdrop](https://mixdrop.ag/) - 2GB / 60 Days / Signup Required
 * [send](https://send.vis.ee/) / [instances](https://gitlab.com/timvisee/send-instances) - 2.5gb / 1 day
