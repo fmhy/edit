@@ -834,6 +834,7 @@
 
 ## Pentesting Resources
 
+* ⭐ **[Hacktricks](https://book.hacktricks.xyz/)** - Practical penetration testing and security auditing tips
 * 🌐 **[Awesome Pen Testing](https://github.com/enaqx/awesome-pentest)** - Penetration Testing Resources
 * 🌐 **[Awesome Hacking](https://github.com/Hack-with-Github/Awesome-Hacking)** - Pentesting / Security Index
 * [Pentesting Bible](https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE) or [Juice Shop](https://owasp.org/www-project-juice-shop/) - Learn Pentesting
