@@ -423,48 +423,50 @@
 * ⭐ **[Gmailnator](https://www.emailnator.com/)** - Gmail / Forever / 1 Day / 6 Domains
 * ⭐ **[Inboxes](https://inboxes.com/)** - Forever / 7 Days / 19 Domains
 * ⭐ **[Mail.tm](https://mail.tm/)** - Forever / 7 Days / 1 Domain
-* ⭐ **[burner.kiwi](https://burner.kiwi/)** - 1 Day / 1 Day / 3 Domains
 * ⭐ **[Guerrilla Mail](https://www.guerrillamail.com/)** - Forever / 1 Hour / 11 Domains / [SharkLasers](https://www.sharklasers.com/)
+* ⭐ **[burner.kiwi](https://burner.kiwi/)** - 1 Day / 1 Day / 3 Domains
+---
 * [Tmail.io](https://tmail.io/) - Gmail / Forever / 1 Day / 4 Domains
 * [22.Do](https://22.do/) - Gmail / 1 Day / 1 Day / 3 Domains
+---
+* [Dispostable](https://www.dispostable.com/) - Forever / 2 Months / 1 Domain
+* [YOPmail](https://yopmail.com/email-generator) - Forever / 8 Days / 100+ Domains
+* [instant-email.org](https://instant-email.org/) - Forever / 3 Days / 7 Domains
+* [Snapmail.cc](https://www.snapmail.cc/) - Forever / 2 Days / 3 Domains
 * [Mailnesia](https://mailnesia.com/) - Forever / 2 Days / 1 Domain
 * [Maildrop](https://maildrop.cc/) - Forever / 1 Day / 1 Domain
 * [Temp Mail](https://temp-mail.org/) - Forever / 1 Hour / 4 Domains / [10 Minute Email](https://temp-mail.org/10minutemail)
+* [Email Generator](https://generator.email/) - Forever / N/A / 100+ Domains
+---
+* [linshi-email](https://www.linshi-email.com/en) - 1 Month / 1 Month / 1 Domain
+* [DisposableMail](https://www.disposablemail.com/) - 14 Days / 14 Days / 1 Domain
 * [Adguard Temp Mail](https://adguard.com/adguard-temp-mail/overview.html) - 7 Days / 1 Day / 1 Domain
+---
+* [Mail.td](https://mail.td/) - 3 Days / 3 Days / 5 Domains
+* [inboxkitten](https://inboxkitten.com/) - 3 Days / 3 Days / 1 Domain
+---
 * [Vmail.DEV](https://vmail.dev/) - 1 Day / 1 Day / 2 Domains
 * [Mail.cx](https://mail.cx/) - 1 Day / 12 Hours / 5 Domains
-* [Dispostable](https://www.dispostable.com/) - Forever / 2 Months / 1 Domain
-* [DropMail](https://dropmail.me/) - Forever / Upon Refresh / 12 Domains / [App](https://play.google.com/store/apps/details?id=com.dropmail.tempmail)
-* [Mail.td](https://mail.td/) - 3 Days / 3 Days / 5 Domains
-* [YOPmail](https://yopmail.com/email-generator) - Forever / 8 Days / 100+ Domains
+---
+* [Moakt](https://www.moakt.com/) - 1 Hour / 1 Hour / 13 Domains
 * [MintEmail.com](https://www.mintemail.com/) - 1 Hour / 1 Hour / 1 Domain
 * [Mohmal](https://www.mohmal.com/en) - 45 Mins / 45 Mins / 1 Domain
-* [Email Generator](https://generator.email/) - Forever / N/A / 100+ Domains
-* [instant-email.org](https://instant-email.org/) - Forever / 3 Days / 7 Domains
+---
+* [Temp Mail](https://mail-temp.com/) - 100+ Domains
+* [1secMail](https://www.1secmail.com/) - 8 Domains
+* [AnonymMail.net](https://anonymmail.net/) or [Tmail.gg](https://tmail.gg/) - 5 Domains
+* [EmailOnDeck](https://www.emailondeck.com/) or [EmailTemp](https://emailtemp.org/) - 1 Domain
+* [Tmailor.com](https://tmailor.com/)
+---
+working, needs tags:
 ---
 needs testing to confirm they work:
-* [cryptogmail](https://cryptogmail.com/)
-* [inboxkitten](https://inboxkitten.com/)
-* [anonymmail](https://anonymmail.net/)
-* [tmailweb](https://tmailweb.com/)
-* [moakt](https://www.moakt.com/)
-* [linshi-email](https://www.linshi-email.com/en)
-* [disposablemail](https://www.disposablemail.com/)
-* [mailtemp](https://mailtemp.top/)
-* [mail-temp](https://mail-temp.com/)
-* [1secmail](https://www.1secmail.com/)
----
-not enough info:
-* [Tmailor.com](https://tmailor.com/) - no info (double check ubo filter works now)
-* [Tmail.gg](https://tmail.gg/) - no info
-* [EmailOnDeck](https://www.emailondeck.com/) - 1 Domain + not enough info
-* [EmailTemp](https://emailtemp.org/) - no info but works
----
 * [FakeMailGenerator](https://www.fakemailgenerator.com/)
 * [emailfake](https://emailfake.com/)
 * [fakemail](https://www.fakemail.net/)
 * [fakermail](https://fakermail.com/)
 * [email-fake](https://email-fake.com/)
+---
 * [temporarymail](https://temporarymail.com/)
 * [tempmailo](https://tempmailo.com/)
 * [tempm](https://tempm.com/)
