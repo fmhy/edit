@@ -285,7 +285,7 @@
 * [MultiUp.io](https://multiup.io/) / [Extract / Upload](https://github.com/Reddiepoint/MultiUp-Direct), [MirrorAce](https://mirrorace.com/), or [Mirrored.to](https://www.mirrored.to/) - Multi Host Uploaders
 * [Z-o-o-m](https://z-o-o-m.eu/) - Multi-Host Upload Desktop App
 * [MixDrop](https://mixdrop.ag/) - Unlimited / 60 Days / Account Required
-* [HIDAN](https://hidan.co/) - Unlimited / 10+ Days
+* [HIDAN](https://hidan.co/) - Unlimited / 10+ Days (from upload)
 * [Filebin](https://filebin.net/) - Unlimited / 6 Days / [Warning](https://pastebin.com/W0j4VDAN)
 * [file.kiwi](https://file.kiwi/) - Unlimited / [File Expiry Explanation](https://file.kiwi/en/price)
 * [FEX.NET](https://fex.net/) - 100GB / 7 Days
