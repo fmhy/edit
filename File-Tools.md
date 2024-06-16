@@ -284,30 +284,32 @@
 * ⭐ **[Qiwi](https://qiwi.gg)** - Account Required / [Note](https://pastebin.com/QJDbgtRJ)
 * [MultiUp.io](https://multiup.io/) / [Extract / Upload](https://github.com/Reddiepoint/MultiUp-Direct), [MirrorAce](https://mirrorace.com/), or [Mirrored.to](https://www.mirrored.to/) - Multi Host Uploaders
 * [Z-o-o-m](https://z-o-o-m.eu/) - Multi-Host Upload Desktop App
-* [Archive.org](https://archive.org/create/) - Signup Required
-* [Oshi](https://oshi.at/) - 5GB / 90 days
-* [HIDAN](https://hidan.co/) - Unlimited / 10+ Days (from upload)
-* [Hexupload](https://www.hexupload.net/) - 15GB / 60 days
-* [Mixdrop](https://mixdrop.ag/) - 2GB / 60 Days / Signup Required
-* [send](https://send.vis.ee/) / [instances](https://gitlab.com/timvisee/send-instances) - 2.5gb / 1 day
-* [edisk](https://www.edisk.cz/) - 10GB / 30 days
-* [file.kiwi](https://file.kiwi/) - Unlimited / 3.5 Days / [Free Download Duration](https://ibb.co/85z9D1s)
-* [easyupload](https://easyupload.io/) - 10GB / 50gb total / 30 days
-* [fastupload](https://fastupload.io/en) - 10GB / 30 days
-* [desiupload](https://desiupload.co/) or [uploadraja](https://uploadraja.com/) - 10GB / 15 days
-* [fshare](https://www.fshare.vn/) - 10GB / 5 days
-* [AnonTransfer](https://anontransfer.com/) - 15GB / 30 days
-* [FileDitch](https://fileditch.com/) - 5GB / Forever / [Note](https://ibb.co/F0gTxNC)
-* [megaup](https://megaup.net/) - 5GB / 60 days
-* [ufile](https://ufile.io/) - 5GB / 30 days
-* [Internxt](https://send.internxt.com/) - 5GB / 100 files / 14 days
-* [Lufi](https://upload.disroot.org/) - 5GB / 30 days
-* [sendbig](https://www.sendbig.com/) - 5GB / 7 days
-* [Smash](https://fromsmash.com/) - 2GB / 7 days
-* [alfafile](https://www.alfafile.net/) - 5GB / 30 days / Signup Required
-* [drop.download](https://drop.download/) - 5GB / 15 days / Signup Required
-* [clicknupload](https://clicknupload.co/) - 2GB / 12 Days or 5GB / 30 Days on sign-up
-* [doodrive](https://doodrive.com/) - 2GB / 30 days / Signup Required
+* [MixDrop](https://mixdrop.ag/) - Unlimited / 60 Days / Account Required
+* [HIDAN](https://hidan.co/) - Unlimited / 10+ Days
+* [Filebin](https://filebin.net/) - Unlimited / 6 Days / [Warning](https://pastebin.com/W0j4VDAN)
+* [file.kiwi](https://file.kiwi/) - Unlimited / [File Expiry Explanation](https://file.kiwi/en/price)
+* [FEX.NET](https://fex.net/) - 100GB / 7 Days
+* [SwissTransfer](https://www.swisstransfer.com/) - 50GB / 30 Days / 250 Downloads
+* [BowFile](https://bowfile.com/) - 20GB / 20 Days
+* [Hexupload](https://www.hexupload.net/) or [AnonTransfer](https://anontransfer.com/) - 15GB / 30 Days
+* [FileLu](https://filelu.com/) - 15GB / 1 Day (Unlimited With Account) / [Note](https://pastebin.com/Rr9ZqD2F)
+* [Fastupload.io](https://fastupload.io/en) - 10GB / 30 Days (60 Days With Account)
+* [eDisk](https://www.edisk.cz/) or [Easyupload.io](https://easyupload.io/) - 10GB / 30 Days
+* [Drop Download](https://drop.download/) - 10GB / 30 Days / Account Required
+* [DesiUpload](https://desiupload.co/) - 10GB / 15 Days (15GB / 30 Days With Account)
+* [GrosFichiers](https://www.grosfichiers.com/) - 10GB / 14 Days
+* [Fshare](https://www.fshare.vn/) - 10GB / 5 Days
+* [Uploadraja.com](https://uploadraja.com/) - 10GB / 4 Days (30GB / 15 Days With Account)
+* [FileTransfer.io](https://filetransfer.io/) - 6GB / 21 Days / 50 Downloads
+* [FileDitch](https://fileditch.com/), [Oshi](https://oshi.at/) or [SendGB](https://www.sendgb.com/) - 5GB / 90 Days
+* [MegaUp](https://megaup.net/) - 5GB / 60 Days
+* [ufile.io](https://ufile.io/) - 5GB / 30 Days
+* [Internxt Send](https://send.internxt.com/) - 5GB / 15 Days
+* [pCloud Transfer](https://transfer.pcloud.com/) or [Tresorit Send](https://send.tresorit.com/) - 5GB / 7 Days / Email Required
+* [Temp.sh](https://temp.sh/) - 4GB / 3 Days
+* [File Convoy](https://www.fileconvoy.com/) - 3GB / 21 Days
+* [FilePost](https://file-post.net/) - 3GB / 7 Days / Email Required
+* [Send](https://send.vis.ee/) - 2.5GB / 3 Days / 10 Downloads / [Instances](https://gitlab.com/timvisee/send-instances)
 * [DropMB](https://dropmb.com/) - 2GB / 1 Year
 * [FireLoad](https://www.fireload.com/) - 2GB / 60 Days / Account Required
 * [Lufi](https://upload.disroot.org/) - 2GB / 30 Days
