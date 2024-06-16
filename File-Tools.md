@@ -286,9 +286,7 @@
 * [Z-o-o-m](https://z-o-o-m.eu/) - Multi-Host Upload Desktop App
 * [MixDrop](https://mixdrop.ag/) - Unlimited / 60 Days / Account Required
 * [Filebin](https://filebin.net/) - Unlimited / 6 Days / [Warning](https://pastebin.com/W0j4VDAN)
-
-* [file.kiwi](https://file.kiwi/) - Unlimited / [Note]()
-
+* [file.kiwi](https://file.kiwi/) - Unlimited / [File Expiry Explanation](https://file.kiwi/en/price)
 * [FEX.NET](https://fex.net/) - 100GB / 7 Days
 * [SwissTransfer](https://www.swisstransfer.com/) - 50GB / 30 Days / 250 Downloads
 * [BowFile](https://bowfile.com/) - 20GB / 20 Days
