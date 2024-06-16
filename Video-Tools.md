@@ -29,7 +29,7 @@
 
 ## ▷ Video File Hosts
 
-* **Note** - **Tag Information:** File Size Limit **/** Maximum File Expiry Time ([More Info](https://pastebin.com/zkXcK56H)) **/** Resolution Limit
+* **Note** - File Size Limit **/** Maximum File Expiry Time ([More Info](https://pastebin.com/zkXcK56H)) **/** Resolution Limit
 
 ***
 
