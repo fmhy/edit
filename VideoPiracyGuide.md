@@ -133,6 +133,7 @@
 * [AnimeHeaven](https://animeheaven.me/) - Sub / 1080p / [Discord](https://discord.com/invite/QmgSMYD)
 * [AnimeNana](https://animenana.com/) - Sub / 1080p
 * [Animension](https://animension.to/) - Sub / Dub / 1080p
+* [AnimeZ](https://animez.org/) - Sub / Dub / 1080p
 * [Animegg](https://www.animegg.org/) - Sub / Dub / 1080p
 * [YugenAnime](https://yugenanime.tv/) - Sub / Dub / 1080p / [Discord](https://discord.gg/MQqwQREyCz)
 * [AnimeParadise](https://www.animeparadise.moe/) - Sub / Dub / 1080p / [Discord](https://discord.com/invite/q3N6eWMMNP)
