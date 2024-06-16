@@ -519,7 +519,6 @@
 * [Tellurium](https://play.google.com/store/apps/details?id=com.quadren.tellurium) or [WhatsAppNoContact](https://github.com/theolm/WhatsAppNoContact) - Numbe-Free WhatsApp Chat
 * [WhatsappWebToGo](https://github.com/92lleo/WhatsappWebToGo) - Mobile WhatsApp Web Client
 * [WhatsAppPatcher](https://github.com/Schwartzblat/WhatsAppPatcher) or [WaEnhancer](https://github.com/Dev4Mod/WaEnhancer) - WhatsApp Patchers
-* [MdgWa](https://github.com/ItsMadruga/MdgWa) - WhatsApp Customization
 * [Whatsapp Backup Reader](https://whatsappbr.netlify.app/) - Read Exported Whatsapp Chats
 * [FakeWhats](https://www.fakewhats.com/) or [FakeInfo](https://fakeinfo.net/fake-whatsapp-chat-generator) - Fake WhatsApp Messages
 * [SnapEnhance](https://github.com/rhunk/SnapEnhance) / [Telegram](https://t.me/snapenhance) - Snapchat Client
