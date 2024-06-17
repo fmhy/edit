@@ -652,6 +652,7 @@
 * [AOPC](https://aopc.dev/) - Android Desktop OS Forums
 * [Docker Android](https://github.com/budtmo/docker-android) - Android on Docker
 * [Nox](https://www.bignox.com/) - Android Emulator on Windows / [Debloat](https://gist.github.com/TameemS/72c4b92131977aced56e727d51599a48)
+* [BlueStacks](https://www.bluestacks.com/) - Android Emulator on Windows
 * [GameLoop](https://www.gameloop.com/) - Android Emulator on Windows
 * [MuMu](https://www.mumuplayer.com/) - Android Emulator on Windows
 * [MeMu](https://www.memuplay.com/) - Android Emulator on Windows / [Debloat](https://gist.github.com/TameemS/603686cec857ff1f91e68607e374b0d8)
