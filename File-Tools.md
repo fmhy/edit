@@ -266,7 +266,7 @@
 
 # ► File Hosts
 
-* **Note** - Keep in mind that it's **never** a good idea to upload personal or confidential files to any file host, even if they claim to be encrypted. File Size Limit **/** Maximum File Expiry Time ([More Info](https://pastebin.com/zkXcK56H)) **/** Maximum Number of Downloads Allowed Per File.
+* **Note** - Keep in mind that it's **never** a good idea to upload personal or confidential files to any file host, even if they claim to be encrypted.
 
 ***
 
