@@ -190,7 +190,7 @@
 
 * ↪️ **[General Torrent Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent)**
 * ⭐ **[myporn.club](https://myporn.club/)**
-* ⭐ **[XXXCLub](https://xxxclub.to/)*** or [NoisyBoY (Mirror)](https://torrentgalaxy.mx/profile/NoisyBoY)
+* ⭐ **[XXXCLub](https://xxxclub.to/)*** or [NoisyBoY (Mirror)](https://torrentgalaxy.to/profile/NoisyBoY)
 * ⭐ **[Nyaa Sukebei](https://sukebei.nyaa.si/)** - JAV
 * ⭐ **[ProjectJav](https://projectjav.com/)** - JAV
 * ⭐ **[OneJAV](https://onejav.com/)** - JAV
