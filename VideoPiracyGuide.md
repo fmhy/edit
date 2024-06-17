@@ -48,6 +48,7 @@
 * [VidSrc.pro](https://vidsrc.pro/) - Movies / TV / Anime / API / 4K / 1080p
 * [SmashyStream API](https://embed.smashystream.com/)  - Movies / TV / Anime / API / 1080p
 * [VidDroid](https://github.com/callisto-jovy/Viddroid) - Streaming App
+* [VidBinge](https://www.vidbinge.com) - Movies / TV / Anime / 4K / 1080p / Ad-Free
 * [mov-cli](https://mov-cli.github.io/) - Streaming / Downloading CLI / [GitHub](https://github.com/mov-cli/mov-cli) / [Plugins](https://github.com/topics/mov-cli-plugin)
 * [TG-FileStreamBot](https://github.com/EverythingSuckz/TG-FileStreamBot) - Telegram File Streaming
 * [IMDb Scout](https://greasyfork.org/en/scripts/407284-imdb-scout-mod) - Add Stream Search Buttons to IMDb
