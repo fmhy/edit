@@ -304,7 +304,6 @@
 * [TubeOffline](https://www.tubeoffline.com/) - Multi-Site / Online
 * [VideoFK](https://www.videofk.com/) - Multi-Site / Online
 * [SASRIP](https://sasrip.sas41.com/) - Multi-Site / Online
-* [Paste2Download](https://www.paste2download.com/) - Multi-Site / Online / 720p / [Supported Sites](https://pastes.fmhy.net/0rfFsE) 
 * [you-get](https://you-get.org/) - Multi-Site / CLI
 * [Hitomi Downloader](https://github.com/KurtBestor/Hitomi-Downloader) - Multi-Site / Software
 * [Yout](https://yout.com/) - Multi-Site / Online
