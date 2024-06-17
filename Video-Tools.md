@@ -29,10 +29,6 @@
 
 ## ▷ Video File Hosts
 
-* **Note** - File Size Limit **/** Maximum File Expiry Time ([More Info](https://pastebin.com/zkXcK56H)) **/** Resolution Limit
-
-***
-
 * ⭐ **[UpStream](https://upstream.to/)** - 10GB / 30 Days / Account Required
 * ⭐ **[DoodStream](https://doodstream.com/)** - 5GB / 60 Days / Account Required
 * ⭐ **[Litterbox](https://litterbox.catbox.moe/)** - 1GB / Temporary
