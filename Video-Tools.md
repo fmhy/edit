@@ -29,6 +29,10 @@
 
 ## ▷ Video File Hosts
 
+* **Note** - Most file hosts remove files after inactivity, while some delete them regardless. Check each host if you're concerned about file expiry.
+
+***
+
 * ⭐ **[UpStream](https://upstream.to/)** - 10GB / 30 Days / Account Required
 * ⭐ **[DoodStream](https://doodstream.com/)** - 5GB / 60 Days / Account Required
 * ⭐ **[Litterbox](https://litterbox.catbox.moe/)** - 1GB / Temporary
@@ -36,11 +40,11 @@
 * [VOE](https://voe.sx/) - Unlimited / 60 Days / 720p / Account Required
 * [MixDrop](https://mixdrop.ag/) - Unlimited / 60 Days / 720p / Account Required
 * [WolfStream](https://wolfstream.tv/) 30GB / 80 Days / Account Required
+* [Vidoza](https://vidoza.net/) - 15GB / 15 Days / Account Required
+* [Streamtape](https://streamtape.com/) - 15GB / Account Required / [.to](https://streamtape.to/)
 * [Streamable](https://streamable.com/) - 250MB / 2 Days (90 Days With Account)
 * [webmshare](https://webmshare.com/) - WebM & GIF Hosting / 20MB / Forever
-* [streamtape](https://streamtape.com/) / [2](https://streamtape.to/) / Account Required
-* [vidoza](https://vidoza.net/)
-* [videy](https://videy.co/) - MP4 only
+* [Videy](https://videy.co/) - MP4 only
 * [minv](https://sr.ht/~thecashewtrader/minv/) - Self-Hosted
 
 ***
