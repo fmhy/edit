@@ -64,6 +64,7 @@
 * ⭐ **[YesMovies](https://yesmovies.ag/)**, [2](https://ww4.solarmovie.to/), [3](https://ww5.0123movie.net/), [4](https://ww1.putlocker.vip/) - Movies / TV / 1080p
 * ⭐ **[LookMovie](https://lookmovie2.to/)** - Movies / TV / 720p / [Mirrors](https://proxymirrorlookmovie.github.io/)
 * [Cinewave](https://discord.gg/ZrnqNtnbPy) - Movies / TV / Anime / 1080p / Jellyfin Required
+* [Gir Society](https://discord.gg/WHxeZ3aTtb) - Movies / TV / Anime / 1080p / Plex Required
 * [OnionPlay](https://onionplay.se/) - Movies / TV / 1080p / [Mirrors](https://onionplay.network/)
 * [FshareTV](https://fsharetv.co/) - Movies / 1080p
 * [FossaTV](https://fossa.tv/) or [CrossTV](https://tv.cross.moe/) - Movies / TV / 1080p
