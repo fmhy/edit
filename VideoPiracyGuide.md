@@ -122,7 +122,7 @@
 * ⭐ **[Anime Streaming CSE](https://cse.google.com/cse?cx=006516753008110874046:vzcl7wcfhei)** / [CSE 2](https://cse.google.com/cse?cx=006516753008110874046:mrfarx7-dxu) or [Kuroiru](https://kuroiru.co/) - Multi-Site Anime Search
 * [AnimeCross](https://anime.cross.moe/) - Sub / 1080p / [Discord](https://discord.com/invite/3AxZvGArdm)
 * [AnimeHub](https://animehub.ac/) - Sub / Dub / 1080p
-* [Animixplay](https://animixplay.tube) - Sub / Dub / 1080p
+* [Animixplay](https://animixplay.tube), [2](https://animixplay.name/), [3](https://animixplay.fun/) - Sub / Dub / 1080p
 * [AnimeOwl](https://animeowl.live/) - Sub / Dub / 1080p / [Discord](https://discord.com/invite/xHYcvdMvZ2)
 * [123Anime](https://123animes.ru/) - Sub / Dub / 1080p
 * [Ryuk](https://ryuk.to/) - Sub / Dub / 1080p
