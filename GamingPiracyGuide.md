@@ -229,15 +229,14 @@
 * [FinalBurn Neo](https://rentry.co/FMHYBase64#finalburn-neo) - ROMs / Zip 
 * [Retrostic](https://www.retrostic.com/) - Emulators / ROMs
 * [Romsever](https://romsever.com) - Emulators / ROMs
-* [lategames](https://www.lategames.net/) - Emulators / ROMs
+* [ROMsGames](https://www.romsgames.net/roms/) - Emulators / ROMs
 * [ConsoleROMs](https://www.consoleROMs.com/) - Emulators / ROMs
 * [Emu-Land](https://www.emu-land.net/en) - Emulators / ROMs
 * [HexRom](https://hexrom.com/) - Emulators / ROMs
 * [GameGinie](https://gameginie.com/) - Emulators / ROMs
-* [LateGames](https://www.lategames.net/roms/) - Emulators / ROMs
 * [Technosagar](https://roms.technosagar.com/) - ROMs
 * [The Old Computer](https://www.theoldcomputer.com/) - Emulators / ROMs
-* [Emulator Games](https://www.emulatorgames.net/) or [FreeROMsDownload](https://freeromsdownload.com/) - Emulators / ROMs
+* [Emulator Games](https://www.emulatorgames.net/) or [FreeROMsDownload](https://roms-download.com/) - Emulators / ROMs
 * [Emuparadise](https://www.emuparadise.me/) - Emulators / ROMs / [Forum](https://www.epforums.org/) / [Workaround Script](https://web.archive.org/web/20230115181306/https://gist.github.com/byzantium225/484101c7846ce18e514b7b10bf4815c2)
 * [ROMsPURE](https://ROMspure.cc/) - Emulators / ROMs
 * [Romspedia](https://www.romspedia.com/) - Emulators / ROMs
@@ -260,7 +259,6 @@
 * [Wad Archive](https://archive.org/details/wadarchive) - 83k WAD Files
 * [Cah4e3](https://cah4e3.shedevr.org.ru/) - Unlicensed ROMs / Bootlegs
 * [Muds](https://muds.fandom.com/wiki/) - Text Adventure ROM Wiki
-* [softcobra](https://softcobra.com/ntdo/ntdo/) - ROMs / Switch / 3DS / WiiU / [Decoder](https://nin10news.com/decode/)
 * [MarioCube](https://mariocube.com/) - ROMs / Wii / Gamecube
 * [64DD.org](https://64dd.org/) - ROMs / 64DD
 * [3DS ROMS](https://3dsroms.org), [taodung](https://taodung.com/) or [hShop](https://hshop.erista.me/) - ROMs / 3DS
