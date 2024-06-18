@@ -435,6 +435,7 @@
 
 ## ▷ Light Novels
 
+* 🌐 **[EverythingMoe](https://everythingmoe.com/#section-novel)** - Light Novel Sites Index / [Discord](https://discord.gg/GuueaDgKdS)
 * 🌐 **[The Index](https://theindex.moe/library/novels)** - Light Novel Site Index / [Discord](https://discord.gg/Snackbox) / [Wiki](https://thewiki.moe/)
 * ⭐ **[Novel Updates](https://www.novelupdates.com/)**
 * ⭐ **[jnovels](https://jnovels.com/)** or [MP4DIRECTS](https://mp4directs.com/)
