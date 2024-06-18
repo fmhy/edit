@@ -360,6 +360,8 @@
 * [time4tv.top](https://time4tv.top/) - TV / Sports
 * [CXtv](https://www.cxtvlive.com/) - TV / Sports
 * [TV247](https://tv247.us/) - TV / Sports
+* [24LIVETV](https://24livetv.us/) - TV / Sports
+* [USA TV GO](https://usatvgo.live/) - TV / Sports
 * [TvFlix](https://tvflix.netlify.app/) - TV / Sports
 * [FreeInterTV](http://www.freeintertv.com/) - TV / Sports
 * [huhu.to](http://huhu.to/) or [oha.to](http://oha.to/) - TV / Sports
