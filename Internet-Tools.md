@@ -414,7 +414,7 @@
 
 ## ▷ Temporary Email Sites
 
-* **Note** - If you're looking for something more private but still anonymous, check out our [Email Aliasing]() section. **Tag Information:** Gmail, etc. Support Status **/** Address Lifespan (or until you delete it) **/** Messages Lifespan **/** No. of Domains Available.
+* **Note** - If you're looking to send/receive or have conversations through email anonymously, or you just want something more private that can also forward emails, check out our [Email Aliasing]() section. **Tag Info:** Gmail, etc. Support Status **/** Email Address Lifespan (or until you delete it) **/** Email Messages Lifespan **/** Number of Domains Available.
 
 ***
 
@@ -426,57 +426,56 @@
 * ⭐ **[Guerrilla Mail](https://www.guerrillamail.com/)** - Forever / 1 Hour / 11 Domains / [SharkLasers](https://www.sharklasers.com/)
 * ⭐ **[burner.kiwi](https://burner.kiwi/)** - 1 Day / 1 Day / 3 Domains
 ---
+* [Bloody Vikings!](https://addons.mozilla.org/en-US/firefox/addon/bloody-vikings/) - Temp Email Extension
+* [fakemailbot](https://t.me/fakemailbot) - Temp Email Telegram Bot
+---
 * [Tmail.io](https://tmail.io/) - Gmail / Forever / 1 Day / 4 Domains
 * [22.Do](https://22.do/) - Gmail / 1 Day / 1 Day / 3 Domains
 ---
 * [Dispostable](https://www.dispostable.com/) - Forever / 2 Months / 1 Domain
+* [Tempr.email](https://tempr.email/en/) - Forever / 1 Month / 50+ Domains
 * [YOPmail](https://yopmail.com/email-generator) - Forever / 8 Days / 100+ Domains
 * [instant-email.org](https://instant-email.org/) - Forever / 3 Days / 7 Domains
 * [Snapmail.cc](https://www.snapmail.cc/) - Forever / 2 Days / 3 Domains
 * [Mailnesia](https://mailnesia.com/) - Forever / 2 Days / 1 Domain
-* [Maildrop](https://maildrop.cc/) - Forever / 1 Day / 1 Domain
-* [Temp Mail](https://temp-mail.org/) - Forever / 1 Hour / 4 Domains / [10 Minute Email](https://temp-mail.org/10minutemail)
+* [Spambox](https://spambox.xyz/) - Forever / 1 Day / 4 Domains
+* [Maildrop](https://maildrop.cc/) or [Trashmail](https://trashmail.ws/) - Forever / 1 Day / 1 Domain
+* [temp-mail.org](https://temp-mail.org/) - Forever / 1 Hour / 4 Domains / [10 Minute Email](https://temp-mail.org/10minutemail)
+* [tempail.com](https://tempail.com/) - Forever / 1 Hour / 1 Domain
 * [Email Generator](https://generator.email/) - Forever / N/A / 100+ Domains
 ---
 * [linshi-email](https://www.linshi-email.com/en) - 1 Month / 1 Month / 1 Domain
-* [DisposableMail](https://www.disposablemail.com/) - 14 Days / 14 Days / 1 Domain
+* [DisposableMail](https://www.disposablemail.com/) or [FakeMail](https://www.fakemail.net/) - 14 Days / 14 Days / 1 Domain
+---
+* [FEX+](https://fex.plus/) - 7 Days / 7 Days / 5 Domains
 * [Adguard Temp Mail](https://adguard.com/adguard-temp-mail/overview.html) - 7 Days / 1 Day / 1 Domain
 ---
 * [Mail.td](https://mail.td/) - 3 Days / 3 Days / 5 Domains
 * [inboxkitten](https://inboxkitten.com/) - 3 Days / 3 Days / 1 Domain
----
+----
+* [Tempmailo](https://tempmailo.com/) - 2 Days / 2 Days / N/A
 * [Vmail.DEV](https://vmail.dev/) - 1 Day / 1 Day / 2 Domains
 * [Mail.cx](https://mail.cx/) - 1 Day / 12 Hours / 5 Domains
 ---
+* [TemporaryMail.com](https://temporarymail.com/) - 6 Hours / 6 Hours / 7 Domains
 * [Moakt](https://www.moakt.com/) - 1 Hour / 1 Hour / 13 Domains
 * [MintEmail.com](https://www.mintemail.com/) - 1 Hour / 1 Hour / 1 Domain
 * [Mohmal](https://www.mohmal.com/en) - 45 Mins / 45 Mins / 1 Domain
 ---
-* [Temp Mail](https://mail-temp.com/) - 100+ Domains
+* [mail-temp.com](https://mail-temp.com/), [emailfake.com](https://emailfake.com/), [Fake Email](https://email-fake.com/) or [TempM](https://tempm.com/) - 100+ Domains
 * [1secMail](https://www.1secmail.com/) - 8 Domains
 * [AnonymMail.net](https://anonymmail.net/) or [Tmail.gg](https://tmail.gg/) - 5 Domains
 * [EmailOnDeck](https://www.emailondeck.com/) or [EmailTemp](https://emailtemp.org/) - 1 Domain
+* [Rainmail](https://rainmail.xyz/) - [Note]()
 * [Tmailor.com](https://tmailor.com/)
 ---
-working, needs tags:
----
 needs testing to confirm they work:
-* [FakeMailGenerator](https://www.fakemailgenerator.com/)
-* [emailfake](https://emailfake.com/)
-* [fakemail](https://www.fakemail.net/)
-* [fakermail](https://fakermail.com/)
-* [email-fake](https://email-fake.com/)
----
-* [temporarymail](https://temporarymail.com/)
-* [tempmailo](https://tempmailo.com/)
-* [tempm](https://tempm.com/)
-* [tempail](https://tempail.com/)
-* [tempr](https://tempr.email/en/)
 * [temporary-email](https://temporary-email.com/)
 * [tempmail.plus](https://tempmail.plus/en/)
 * [tempmails](https://tempmails.net/)
 * [tempemail](https://tempemail.co/)
 * [tempmail.altmails](https://tempmail.altmails.com/)
+---
 * [temp-mail.io](https://temp-mail.io/)
 * [temp-inbox](https://temp-inbox.com/)
 * [tempmaili](https://tempmaili.com/)
@@ -486,9 +485,7 @@ needs testing to confirm they work:
 * [tempinbox](https://www.tempinbox.xyz/)
 * [temp-mailbox](https://temp-mailbox.com/)
 ---
-* [Bloody Vikings!](https://addons.mozilla.org/en-US/firefox/addon/bloody-vikings/) - Temp Email Extension
-* [10minutesemail.net](https://10minutesemail.net/), [10minutemail.net](https://10minutemail.net/), [lite14.us](https://www.lite14.us/10minutemail/), [10minutemail.com](https://10minutemail.com/) or [MinuteInbox](https://minuteinbox.com/) - 10 Minute Lifespan Emails
-* [fakemailbot](https://t.me/fakemailbot) - Temp Email Telegram Bot
+* [10minemail.com](https://10minemail.com/), [10minutesemail.net](https://10minutesemail.net/), [10minutemail.net](https://10minutemail.net/), [lite14.us](https://www.lite14.us/10minutemail/), [10minutemail.com](https://10minutemail.com/) or [MinuteInbox](https://minuteinbox.com/) - 10 Minute Lifespan Emails
 
 ***
 
