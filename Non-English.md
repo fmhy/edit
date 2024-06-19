@@ -26,7 +26,6 @@
 * [Eternal Dream Arabization](https://www.etrdream.com/) - Modern / Official / Retro Games Arabic Localization
 * [Ataraxia](https://www.ataraxia-translations.com/) - Visual Novels / Games Arabic Localization
 
-
 ## ▷ Torrenting / التورنت
 
 * [ArabP2P](https://www.arabp2p.net/) - Video / Private Tracker
@@ -39,6 +38,7 @@
 * [egydead](https://egydead.space/) - Movies / TV / Anime / Sub / 1080p
 * [dramacafe](https://w10.dramacafe-tv.com/) - Movies / TV / Anime / Sub / 1080p
 * [akwam](https://ak.sv/) - Movies / TV / Sub / 1080p
+* [CinemaTy](https://66dogdol.shop/) - Movies / TV / Anime / Sub / 1080p
 * [arabseed](https://m.asd.quest/) - Movies / TV / Wrestling / Sub / 1080p
 * [FajerShow](https://fajer.show) - Movies / TV / Cartoons / Sub / 720p
 * [AnimeTak](https://animetak.top/) - Anime / Sub / 1080p
@@ -1781,7 +1781,7 @@ https://aniwow.in/ has only dubs though
 * [Ani4u](https://ani4u.org/) -  Anime / Sub / 1080p
 * [AnimeVSub](https://animevsub.eu.org/) - Anime / Chinese Animation / Sub / 1080p / [Extension](https://github.com/anime-vsub/extension-animevsub-helper)
 * [AnimeHay](https://animehay.bio/) - Anime / Chinese Animation / Sub / 1080p
-* [Anime47](https://anime47.lol/) - - Anime / Chinese Animation / Sub
+* [Anime47](https://anime47.lol/) - Anime / Chinese Animation / Sub
 * [Tokuvn](https://tokuvn.com/) - Tokusatsu
 * [Mocha](https://video.mocha.com.vn/) - Video
 * [MyClip](https://myclip.vn/) - Video
