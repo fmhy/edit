@@ -663,8 +663,8 @@
 * ⭐ **[RuTracker Movies](https://rutracker.org/forum/index.php?c=2)** - Movies / TV / Anime / [Wiki](http://rutracker.wiki/) / [Rules](https://rutracker.org/forum/viewtopic.php?t=1045)
 * ⭐ **[Kinozal](https://kinozal.tv/)** - Movies / TV / 4K
 * ⭐ **[EZTV](https://eztvx.to/)** - TV / Anime
+* ⭐ **[The Pirate Bay](https://thepiratebay.org/search.php?q=top100:200) - Movies / TV / 4K / 1080p / Camcorder** **Avoid Software / Games**
 * ⭐ **[Video Torrent CSE](https://cse.google.com/cse?cx=006516753008110874046:gaoebxgop7j)**
-* [TPB Movies](https://thepiratebay.org/search.php?q=top100:200) - Movies / TV / 4K / 1080p / **Avoid Software / Games**
 * [Youplex Torrents](https://torrents.youplex.site/) - Movies / TV / Anime / 4K / 1080p
 * [MSearch](https://msearch.vercel.app/) - Movies / TV
 * [WatchSoMuch](https://watchsomuch.com/) - Movies / TV / Anime / [Proxy](https://watchsomuchproxy.com/)
