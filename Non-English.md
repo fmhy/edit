@@ -899,6 +899,7 @@ https://aniwow.in/ has only dubs though
 * [SevilMusic](https://sevilmusic.com/) - Music / MP3
 * [Just Music](https://just-music.ir/) - Classical Music / MP3
 * [Pixinema](https://www.pixinema.ir/) - Soundtracks
+* [farsroid](https://www.farsroid.com/) - APKs
 * [TelFiles_Bot](https://t.me/TelFiles_Bot) - File to Direct Link Telegram Bot
 * [TeleLeecherbot](https://t.me/TeleLeecherbot) or [kLeechBot](https://t.me/kLeechBot) - Movie Leech Telegram Bots
 * [FilmgramBot](https://t.me/FilmgramBot) or [FileMovieBot](https://t.me/FileMovieBot) - Movie Search Telegram Bots
