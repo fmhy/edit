@@ -6,7 +6,7 @@
 
 # ► Adblocking
 
-* **Note** - **1.** Don't run multiple general adblockers (e.g., uBlock Origin and Adblock Plus) simultaneously to [avoid breakage](https://twitter.com/gorhill/status/1033706103782170625). Combining general adblockers with tools like SponsorBlock is fine. **2.** Google's Manifest V3 changes will [impact adblocking capabilities](https://www.eff.org/deeplinks/2021/12/chrome-users-beware-manifest-v3-deceitful-and-threatening) and cripple existing extensions on chromium-based browsers. If you still need to use one though, use [uBO Lite](https://github.com/uBlockOrigin/uBOL-home), which is MV3 compatible.
+* **Note** - **1.** Don't run multiple general adblockers (e.g., uBlock Origin and Adblock Plus) simultaneously to [avoid breakage](https://twitter.com/gorhill/status/1033706103782170625). Combining general adblockers with tools like SponsorBlock is fine. **2.** Google's Manifest V3 changes will [impact adblocking capabilities](https://www.eff.org/deeplinks/2021/12/chrome-users-beware-manifest-v3-deceitful-and-threatening) and cripple existing extensions on chromium-based browsers. If you still need to use a chromium-based browser, use [uBO Lite](https://github.com/uBlockOrigin/uBOL-home), which is MV3 compatible.
 
 ***
 
