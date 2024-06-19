@@ -514,6 +514,7 @@
 * [I still don't care about cookies](https://github.com/OhMyGuus/I-Still-Dont-Care-About-Cookies) or [Consent-O-matic](https://consentomatic.au.dk/) / [2](https://github.com/cavi-au/Consent-O-Matic) - Block Cookie Consent Popups
 * [EditThisCookie](https://www.editthiscookie.com/) or [Cookie-Editor](https://cookie-editor.cgagnier.ca/) - Cookies Managers
 * [Get-cookies.txt](https://github.com/kairi003/Get-cookies.txt-LOCALLY) or [ExportCookies](https://github.com/rotemdan/ExportCookies) - Cookies Exporters
+* [Cookie-Editor](https://cookie-editor.com/) - Cooke Editor
 * [Link Gopher](https://sites.google.com/site/linkgopher/), [Copy Selected Links](https://addons.mozilla.org/en-US/firefox/addon/copy-selected-links/) or [CopyLinks++](https://github.com/MichelePezza/CopyLinksplusplus) - Extract / Copy Links on Webpages
 * [Distil](https://distill.io/) or [Update Scanner](https://sneakypete81.github.io/updatescanner/) - Page Change Detection / Notification
 * [Offline Mode](https://mybrowseraddon.com/offline-mode.html) - Disconnect Browser from the Internet
@@ -780,4 +781,3 @@
 * [OSINT Resources](https://start.me/p/1kAP0b/osint-resources) - General Index
 * [OSINT Essentials](https://www.osintessentials.com/) - General Index
 * [OSINTgeek](https://osintgeek.de/tools) - General Index
-* [MIDASearch](https://midasearch.org/) - General Index
