@@ -36,7 +36,7 @@
 * [Downloads-Anymovies](https://www.downloads-anymovies.co/) - Movies / 1080p
 * [123MoviesFree](https://ww2.123moviesfree.net/) - Movies / TV / Anime / 1080p
 * [Yesmovies.pm](https://yesmovies.pm/) - Movies / TV / Anime / 1080p
-* [TVids](https://www.tvids.net/) - Movies / TV / Anime / 1080p
+* [TVids](https://www.tvids.net/) or [Watch-TvSeries](https://watch-tvseries.net/) - Movies / TV / Anime / 1080p
 * [Nova](https://novastream.top/) - Movies / TV / 1080p / [Github](https://github.com/ambr0sial/nova/)
 * [Levidia](https://www.levidia.ch/), [Supernova](https://supernova.to/) or [Goojara](https://www.goojara.to/) - Movies / TV / Anime / 1080p
 * [MoviesLair](https://movielair.cc/) - Movies / TV / 720p / [Discord](https://discord.gg/ZvRTYqTWtZ)
@@ -190,7 +190,6 @@
 * [databasegdriveplayer](https://databasegdriveplayer.co/series.php) - TV / Anime / 720p
 * [TVSeries](https://www.tvseries.in/) - TV / Anime / 720p
 * [AZSeries](https://azseries.org/) - TV / 1080p
-* [Watch-TvSeries](https://watch-tvseries.net/) - TV / 1080p
 * [play.history](https://play.history.com/) - Full History / A+E Episodes
 * [Adult Swim](https://www.adultswim.com/videos/) - Full Adult Swim Episodes
 * [Homestar Runner](https://homestarrunner.com/) - Web-Series / Games
@@ -410,7 +409,7 @@
 * [Sport365](https://live.sport365.stream/) - Sports
 * [Raket TV](https://rakettvv.blogspot.com/) - Sports
 * [SportHD](https://my.livesoccer.sx/) - Sports
-* [CrackStreams](https://crackstreams.dev/) - Sports
+* [CrackStreams](https://crack-streams.com/) - Sports
 * [FootyBite](https://www1.footybite.cc/) - Sports
 * [SportsOnline](https://sportsonline.gl/) - Sports
 * [AntenaSports](https://antenasports.ru/) - Sports
