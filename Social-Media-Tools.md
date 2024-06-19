@@ -311,7 +311,8 @@
 
 ## ▷ Telegram Bots
 
-* 🌐 **[BotsArchive](https://t.me/BotsArchive), [botlist](https://t.me/botlist), [TelegramBotsList](https://danyspin97.github.io/TelegramBotsList/), [botostore](https://botostore.com/) or [borodutch.eth](https://borodutch.com/)** - Telegram Bots Indexes
+* 🌐 **[BotsArchive](https://t.me/BotsArchive)**, [botlist](https://t.me/botlist), [TelegramBotsList](https://danyspin97.github.io/TelegramBotsList/), [botostore](https://botostore.com/) or [borodutch.eth](https://borodutch.com/)- Telegram Bots Indexes
+* 🌐 **[ChatGPT Telegram Bots](https://pastebin.com/WWZFk5Wb)** - ChatGPT Bot Index
 * ⭐ **[ChatGPT Telegram Bot](https://github.com/karfly/chatgpt_telegram_bot)** / [2](https://github.com/n3d1117/chatgpt-telegram-bot) / [3](https://github.com/watscho/chat-gpt-telegram-bot) or [chatgpt-serverless](https://github.com/franalgaba/chatgpt-telegram-bot-serverless) - ChatGPT Telegram Bots
 * [TG Bot](https://t.me/drlinkbot) - Ad Link Bypass Bot / [GitHub](https://github.com/TheCaduceus/Link-Bypasser-Bot)
 * [Now Playing](https://t.me/nowplaybot) - Now Playing Audio Bot
@@ -487,7 +488,7 @@
 
 * ⭐ **[Favoree](https://www.favoree.io/)** - Search / Discover YouTube Channels
 * ⭐ **[YouTube Advanced Search](https://playlists.at/youtube/search/)** - Search Engine
-* ⭐ **[Filmot](https://filmot.com/)** or [ytks](https://ytks.app/) - Search within YouTube Transcripts / [Firefox](https://addons.mozilla.org/en-US/firefox/addon/youtube-captions-search/) / [Chrome](https://chromewebstore.google.com/detail/youtube-captions-search/kimbeggjgnmckoikpckibeoaocafcpbg)
+* ⭐ **[Filmot](https://filmot.com/)**, [CTRL-F-VIDEO](https://github.com/Evan-Wildenhain/CTRL-F-VIDEO) or [ytks](https://ytks.app/) - Search within YouTube Transcripts / [Firefox](https://addons.mozilla.org/en-US/firefox/addon/youtube-captions-search/) / [Chrome](https://chromewebstore.google.com/detail/youtube-captions-search/kimbeggjgnmckoikpckibeoaocafcpbg)
 * [YouTube Search Fixer Suite](https://addons.mozilla.org/en-US/firefox/addon/youtube-suite-search-fixer/) - Fix YouTube Search / Declutter Homepage
 * [YouTube Search Grid View](https://greasyfork.org/en/scripts/481422-youtube-search-results-in-grid-view) - View Results in Grid
 * [Channel Crawler](https://channelcrawler.com/eng) or [YT-FTS](https://github.com/NotJoeMartinez/yt-fts) - Channel Search Tools
