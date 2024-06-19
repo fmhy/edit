@@ -1,12 +1,12 @@
 ---
-title: Welcome
+title: Welcome :3
 layout: home
-description: The largest collection of free stuff on the internet!
+description: The largest collection of free stuff on the internet! :3
 
 hero:
   name: FMHY
   text: freemediaheckyeah
-  tagline: The largest collection of free stuff on the internet!
+  tagline: The largest collection of free stuff on the internet! :3
   prelink:
     title: Monthly Updates [June 2024]
     link: /posts/june-2024
