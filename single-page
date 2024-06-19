@@ -13262,6 +13262,7 @@ Linux Gaming Guide
 * [Bike Sharing](https://bikesharingworldmap.com/) - Bike Rental Map
 * [SkyDB](https://www.skydb.net/) - Skyscraper Locations / Info
 * [Seat61](https://www.seat61.com/) - Train Travel Guide
+* [PackMate](https://play.google.com/store/apps/details?id=com.ouji.packmate) - Travel Packing List / Organizer
 * [SitInShade](https://sitinshade.com/) - Avoid the Sun While Traveling
 * [eSIMDB](https://esimdb.com/) - Compare eSIM Prices
 * [Hate Map](https://www.splcenter.org/hate-map) - Hate Group Locations
@@ -13458,7 +13459,6 @@ Linux Gaming Guide
 * 🌐 **[Current Events Wiki](https://en.m.wikipedia.org/wiki/Portal:Current_events)** or [Slower News](https://www.slowernews.com/) - Breaking News
 * ↪️ **[Newspaper Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/reading#wiki_.25B7_newspapers)**
 * ↪️ **[Bypass Article Paywalls](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools#wiki_.25B7_paywall_bypass)**
-* ↪️ **[Developer News](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/dev-tools#wiki_.25BA_dev_news)**
 * ⭐ **[/m/news](https://www.reddit.com/user/nbatman/m/news/)** - News Multireddit
 * ⭐ **[TorrentFreak](https://torrentfreak.com/)** / [Telegram](https://t.me/torrentfreaks) - Piracy News
 * ⭐ **[Good News Network](https://www.goodnewsnetwork.org/)** or [Happy Daze](https://happydaze.io/) - Uplifting News
@@ -13512,8 +13512,7 @@ Linux Gaming Guide
 
 ## ▷ Tech News
 
-* ↪️ **[Security / Hacking News](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25B7_tech_news)**
-* ⭐ **[KrebsOnSecurity](https://krebsonsecurity.com/)** - Security News
+* ↪️ **[Dev / Cybersecurity News](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/dev-tools#wiki_.25BA_dev_news)**
 * ⭐ **[Hacker News](https://news.ycombinator.com/)**, [2](https://www.hckrnws.com/) - Tech / Hacking News
 * ⭐ **Hacker News Tools** - [Highlighter](https://greasyfork.org/en/scripts/39311) / [Search](https://hn.algolia.com/), [2](https://hn-recommend.julienc.me/) / [Top Posts](https://hn.lindylearn.io/) / [Web App](https://hackerwebapp.com/) / [Mobile App](https://github.com/Livinglist/Hacki), [2](https://play.google.com/store/apps/details?id=com.simon.harmonichackernews), [3](https://apps.apple.com/us/app/hackers-for-hacker-news/id603503901), [4](https://github.com/Mosc/Glider) / [Self-Host](https://www.hn.plus/)
 * [HackerNoon](https://hackernoon.com/), [gHacks](https://www.ghacks.net/), [NeoWin](https://www.neowin.net/), [TweakTown](https://www.tweaktown.com/) or [TechSpot](https://www.techspot.com/) - Tech News
@@ -13523,7 +13522,6 @@ Linux Gaming Guide
 * [EmergentMind](https://www.emergentmind.com/), [Singularity Hub](https://singularityhub.com/) or [Dupple](https://www.dupple.com/techpresso-archives) - AI News
 * [xGamer](https://xgamer.gg/) - Gaming News
 * [Internet Society](https://pulse.internetsociety.org/blog) - Internet Infrastructure News
-* [Talos Blog](https://blog.talosintelligence.com/) or [IT Security Guru](https://www.itsecurityguru.org/) - Security News / Information
 * [RestorePrivacy](https://restoreprivacy.com/category/news-reports/) or [Privacy International](https://www.privacyinternational.org/) - Privacy / Security News
 * [Darknet Live News](http://darkzzx4avcsuofgfez5zq75cqc4mprjvfqywo45dfcaxrwqg6qrlfid.onion/), [Darknet Stats](https://www.darknetstats.com/) or [Tape News](http://tape6m4x7swc7lwx2n2wtyccu4lt2qyahgwinx563gqfzeedn5nb4gid.onion/) - Dark Web News
 
@@ -13569,7 +13567,7 @@ Linux Gaming Guide
 * [fastnfitness](https://github.com/brodeurlv/fastnfitness) - Track Your Exercise Progress
 * [ExRx.net](https://exrx.net/) - Exercise Resources
 * [wger](https://wger.de/) - Self-Hosted Workout, Nutrition / Weight App / [GitHub](https://github.com/wger-project/wger)
-* [openScale](https://f-droid.org/packages/com.health.openscale/) - Weight & Body Metrics Tracker
+* [openScale](https://f-droid.org/packages/com.health.openscale/) or [trale](https://github.com/QuantumPhysique/trale) - Weight & Body Metrics Trackers
 * [Effective Fitness](https://www.e-fitness.org/) - Fitness Discussion / [Discord](https://discord.gg/fitness)
 * [SailRabbit](https://www.sailrabbit.com/bmr/) - BMR / TDEE Calculator
 * [/r/BodyweightFitness](https://www.reddit.com/r/BodyweightFitness) - Bodyweight Fitness Subreddit / [Discord](https://discord.gg/bwf)
@@ -13584,7 +13582,7 @@ Linux Gaming Guide
 * [My Pacer](https://www.mypacer.com/) - Fitness App / Pedometer
 * [MyFitnessPal](https://www.myfitnesspal.com/) - Fitness / Health App
 * [CalorieScope](https://f-droid.org/packages/org.dynamicsoft.caloriescope/) or [PFCTE](https://github.com/SecUSo/privacy-friendly-circuit-training-exercises) - Exercise & Activity Tracker
-* [FitoTrack](https://codeberg.org/jannis/FitoTrack) or [openScale](https://github.com/oliexdev/openScale) - Fitness Trackers
+* [FitoTrack](https://codeberg.org/jannis/FitoTrack) or [Flexify](https://github.com/brandonp2412/Flexify) - Fitness Trackers
 * [Liftosaur](https://www.liftosaur.com/) or [StrongLifts](https://stronglifts.com/) - Weightlifting Trackers
 * [MuscleWiki](https://musclewiki.com/) or [The Casual Gym](https://gym.naya.com.np/) - Muscle / Exercise Information Tool
 * [SPSS Tutorials](https://www.spss-tutorials.com/) - SPSS Practice & Examples
@@ -14298,6 +14296,7 @@ Linux Gaming Guide
 * [Virtual x86](https://copy.sh/v86/) - x86-compatible OS Emulators
 * [PCjs Machines](https://www.pcjs.org/) - Classic Computer Emulators
 * [Quantum Playground](https://www.quantumplayground.net/#/home) - Quantum Computer Simulator
+* [Cafe and Diner](https://www.cafeanddiner.com/) - Browser Mystery Game
 * [Terminal 00](https://angusnicneven.com/), [corru.observer](https://corru.observer/), [lomando](https://lomando.com/main.html), [angelangelangel](https://angelangelangelangelangel.com/) or [SilverLadder](http://www.silverladder.com/) - Cursed Sites / Horror Games
 * [Kamogo](https://www.kamogo.com/faq/) - Useless Web Apps
 * [larsberg](https://www.larsberg.net/#/), [substack](https://substack.net/) or [mrdoob](https://mrdoob.neocities.org/) - Trippy 3D Experiments
