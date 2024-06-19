@@ -48,7 +48,8 @@
 * [Spoticulum](https://spoticulum.xyz/) - Spotify Collection Snapshots
 * [Chart My Music](https://www.chartmymusic.com/) - Spotify Album Collages
 * [Tierify](https://davitg.com/projects/tierify/) - Tier Lists
-* [Kira](https://kira.vercel.app/) - Song Country Search
+* [Kira](https://kira.vercel.app/) - Browse by Country
+* [ListenByLabel](https://www.lbl.fm/) - Browse by Labels
 * [Syrics](https://syrics-web-akashrchandran.vercel.app/) - Download Synced Lyrics
 * [spotify-github-profile](https://github.com/kittinan/spotify-github-profile) - GitHub Display
 
@@ -84,6 +85,7 @@
 * [Last.fm](https://www.last.fm/) - Browser Music
 * [ccMixter](https://dig.ccmixter.org/) - Browser Music
 * [BIFY](https://bify.net/) - Browser Music
+* [FreeListenOnline](https://freelistenonline.com/) - Browser Music
 * [Audiomack](https://audiomack.com/) - Browser Music
 * [Pandora](https://www.pandora.com/) - Browser Music
 * [Jango](https://jango.com/) - Browser Music
@@ -461,7 +463,7 @@
 * [RenovationRecords](https://renovatiorecords.blogspot.com/) - HQ Movies Soundtracks
 * [GTA Radio Stations Music](https://rentry.co/FMHYBase64#gta-radio-stations) - GTA Radio Stations
 * [Animal Crossing Radio](https://animal-crossing-radio.com/) - Animal Crossing Radio
-* [AniPlaylist](https://aniplaylist.com/), [SakuraOST](https://www.sakuraost.com/), [HiyoriOST](https://www.hiyoriost.com/), [OSAnime](https://osanime.com/) or [Anime Sharing](https://koe.anime-sharing.com/) - Anime Soundtracks
+* [AniPlaylist](https://aniplaylist.com/), [SakuraOST](https://www.sakuraost.com/), [HiyoriOST](https://www.hiyoriost.com/), [OSAnime](https://osanime.com/), [Okamimiost](https://okamimiost.com/) or [Anime Sharing](https://koe.anime-sharing.com/) - Anime Soundtracks
 * [OtakuOst](https://otakuost.net/) - Anime Soundtracks & Japanese Music
 * [KDramaOST](https://kdramaost.com/en) - Asian Drama Soundtracks
 * [Doujin Cafe (Discord)](https://discord.com/invite/doujincafe) or [DoujinStyle](https://doujinstyle.com/) / [Discord](https://discord.com/invite/z2QDFdA) - Doujin Music
@@ -602,7 +604,6 @@
 * [Muzik](https://muzik-apps.github.io/muzik-web/)
 * [TimeStetch](https://29a.ch/timestretch/) - Web Based
 * [MusikCube](https://musikcube.com/) - Terminal-Based
-* [Auddly](https://auddly.app/) or [Music Player Daemon](https://www.musicpd.org/) - Self-Hosted
 * [XMPlay](https://www.un4seen.com/) - Chiptune-Friendly
 * [Butterchurn Visualizer](https://butterchurnviz.com/), [MusicVid](https://musicvid.org/), [Vizzy](https://vizzy.io/) or [CatNip](https://github.com/noriah/catnip) - Audio Visualizers
 * [PartyEngine](https://aggrocrab.itch.io/partyengine) - Audio Party Visualizer
@@ -637,6 +638,9 @@
 * [SoundSync](https://soundsync.app/), [SnapCast](https://github.com/badaix/snapcast) or [SonoBus](https://sonobus.net/) - Sound System Sync
 * [mStream](https://mstream.io/)
 * [Mopidy](https://mopidy.com/)
+* [Auddly](https://auddly.app/)
+* [Black Candy](https://github.com/blackcandy-org/blackcandy)
+* [Music Player Daemon](https://www.musicpd.org/)
 * [Navidrome](https://www.navidrome.org/)
 * [Polaris](https://github.com/agersant/polaris)
 * [Black Candy](https://github.com/blackcandy-org/black_candy)
