@@ -17,7 +17,7 @@
 * ⭐ **[HydraHD](https://hydrahd.com/)** - Movies / TV / Anime / 1080p
 * ⭐ **[KipFlix](https://kipflix.vercel.app/)** - Movies / TV / Anime / 1080p / [Discord](https://discord.gg/tDKYeh9eQn)
 * ⭐ **[Watching Zone](https://www.watching.zone/)** - Movies / TV / Anime / 1080p
-* ⭐ **[StreamFlix](https://watch.streamflix.one/)**, [2](https://watchamovie.today/), [3](https://streamflix.space/) - Movies / TV / Anime / 1080p / [Discord](https://discord.gg/C8fyfz5pYz)
+* ⭐ **[StreamFlix](https://watch.streamflix.one/)**, [2](https://watchamovie.today/), [3](https://streamflix.space/) - Movies / TV / Anime / 4K / 1080p / [Discord](https://discord.gg/C8fyfz5pYz)
 * ⭐ **[PrimeFlix](https://primeflix.lol/)**, [2](https://primeflix-web.netlify.app/) - Movies / TV / Anime / 4K / 1080p / [Discord](https://discord.gg/GbW6gzAKgc)
 * ⭐ **[SFlix](https://sflix.to/)** - Movies / TV / Anime / 1080p / [Mirrors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_sflix_clones)
 * ⭐ **[UpMovies](https://upmovies.net/)**, [2](https://flixwave.me/), [3](https://vumoo.mx/) - Movies / TV / Anime / 1080p / Use Adblock
@@ -350,7 +350,6 @@
 * ⭐ **[IPTV Web](https://iptv-web.app/)** - TV / Sports
 * ⭐ **[TheTVApp](https://thetvapp.to/)** - TV / Sports
 * ⭐ **[TOTV](http://totv.org/channels)** - TV / Sports
-* ⭐ **[TNSLIVE](https://tnslive.net/)** - TV / Sports / [Discord](https://discord.com/invite/mJyWFkGwQw)
 * ⭐ **[watch.lonelil](https://watch.lonelil.ru/tv)** - TV / Sports / [Schedule](https://watch.lonelil.ru/schedule)
 * ⭐ **[DaddyLive](https://dlhd.sx/)** or [miztv](https://miztv.shop/), [2](https://miztv.ru/) - TV / Sport / [Discord](https://discord.gg/SgbjFVn6th)
 * [Braflix](https://www.braflix.ru/) - TV / Sports
@@ -411,6 +410,8 @@
 * [Sport365](https://live.sport365.stream/) - Sports
 * [Raket TV](https://rakettvv.blogspot.com/) - Sports
 * [SportHD](https://my.livesoccer.sx/) - Sports
+* [CrackStreams](https://crackstreams.dev/) - Sports
+* [FootyBite](https://www1.footybite.cc/) - Sports
 * [SportsOnline](https://sportsonline.gl/) - Sports
 * [AntenaSports](https://antenasports.ru/) - Sports
 * [WorldStreams](https://worldstreams.net/) - Sports
