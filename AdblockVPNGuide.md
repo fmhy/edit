@@ -6,14 +6,14 @@
 
 # ► Adblocking
 
-* **Note** - Don't run multiple general adblockers like uBlock Origin and Adblock Plus at the same time. Running more than one can [cause breakage](https://twitter.com/gorhill/status/1033706103782170625). This only applies to general adblockers, so running things like uBlock Origin and SponsorBlock at the same time is fine.
+* **Note** - **1.** Don't run multiple general adblockers (e.g., uBlock Origin and Adblock Plus) simultaneously to [avoid breakage](https://twitter.com/gorhill/status/1033706103782170625). Combining general adblockers with tools like SponsorBlock is fine. **2.** Google's Manifest V3 changes will [impact adblocking capabilities](https://www.eff.org/deeplinks/2021/12/chrome-users-beware-manifest-v3-deceitful-and-threatening) and cripple existing extensions. If you still require the use of chromium-based browsers, use [uBO Lite](https://github.com/uBlockOrigin/uBOL-home), which is MV3 compatible.
 
 ***
 
 * ↪️ **[Spotify Adblockers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/audio#wiki_.25B7_spotify_adblockers)**
 * ↪️ **[Twitch Adblockers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/social-media#wiki_.25B7_twitch_adblockers)**
 * ↪️ **[Bypass Article Paywalls](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools#wiki_.25B7_paywall_bypass)**
-* ⭐ **[uBlock Origin](https://github.com/gorhill/uBlock#installation)** - Adblocker / [Guide](https://addons.mozilla.org/blog/ublock-origin-everything-you-need-to-know-about-the-ad-blocker/) / [Advanced](https://youtu.be/2lisQQmWQkY) / [Redundant Extensions](https://github.com/arkenfox/user.js/wiki/4.1-Extensions/#-dont-bother) / [Report Issues](https://github.com/uBlockOrigin/uAssets/issues)
+* ⭐ **[uBlock Origin](https://github.com/gorhill/uBlock#installation)** - Adblocker / [Guide](https://addons.mozilla.org/blog/ublock-origin-everything-you-need-to-know-about-the-ad-blocker/) / [Advanced Tutorial](https://youtu.be/2lisQQmWQkY) / [Redundant Extensions](https://github.com/arkenfox/user.js/wiki/4.1-Extensions/#-dont-bother) / [Report Issues](https://github.com/uBlockOrigin/uAssets/issues)
 * ⭐ **[SponsorBlock](https://sponsor.ajay.app/)** - Skip Sponsored YouTube Ads / [Script](https://github.com/mchangrh/sb.js), [2](https://greasyfork.org/en/scripts/453320)
 * ⭐ **[BehindTheOverlay](https://github.com/NicolaeNMV/BehindTheOverlay)** - Hide Website Overlays
 * ⭐ **[OpenVideo](https://openvideofs.github.io)** or [Stream-Bypass](https://github.com/ByteDream/stream-bypass) - Play Videos in Ad-Free Player

@@ -589,7 +589,7 @@
 
 ## ▷ Chrome Extensions
 
-* **Note** - Chromium is implementing Manifest V3 which may [handicap adblocking](https://www.eff.org/deeplinks/2021/12/chrome-users-beware-manifest-v3-deceitful-and-threatening)
+* **Note** - For concerns about adblocking on chrome, see our [Adblocking](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25BA_adblocking) section.
 
 ***
 
