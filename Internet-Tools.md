@@ -589,7 +589,7 @@
 
 ## ▷ Chrome Extensions
 
-* **Note** - Chromium is implementing Manifest V3 which may [handicap adblocking](https://www.eff.org/deeplinks/2021/12/chrome-users-beware-manifest-v3-deceitful-and-threatening)
+* **Note** - Chromium is implementing Manifest V3 which may [handicap adblocking](https://www.eff.org/deeplinks/2021/12/chrome-users-beware-manifest-v3-deceitful-and-threatening), but [uBO Lite](https://github.com/uBlockOrigin/uBOL-home) should still work.
 
 ***
 
