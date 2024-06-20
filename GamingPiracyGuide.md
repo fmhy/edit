@@ -198,6 +198,10 @@
 * [PictoChat Online](https://pict.chat/) - Browser DS PictoChat
 * [Mudlet](https://www.mudlet.org/) - Text Adventure Game Platform
 * [webnofrendo](https://zardam.github.io/webnofrendo/) - NES Numworks Emulator
+* [RetroPie](https://retropie.org.uk/) - OS for retro gaming made for raspberry pi
+* [Recalbox](https://www.recalbox.com/) - OS for retro gaming
+* [Lakka](https://www.lakka.tv/) - OS for retro gaming
+* [Batocera](https://batocera.org/) - OS for retro gaming
 
 ***
 
