@@ -35,7 +35,7 @@
 * [Leeching Hell](http://www.leechinghell.pw/) - Download
 * [GamePCFull](https://gamepcfull.com/) - Download
 * [AWTDG](https://awtdg.site/) - Download / [Discord](https://discord.gg/kApRXRjJ7A)
-* [World of PC Games](https://worldof-pcgames.net/) - Download / [Discord](https://discord.com/invite/xzFH2yXs) / [Site Info](https://rentry.org/ikc3x8bt)
+* [World of PC Games](https://worldof-pcgames.net/) - Download / [Discord](https://discord.com/invite/xzFH2yXs) / [Site Info](https://rentry.org/ikc3x8bt) / Use Adblocker
 * [IWannaPlay](https://sites.google.com/view/iwannaplay/список-игр) - Download / Telegram Required
 * [IRC Games](https://redd.it/x804wg) - Download Games via IRC
 * [itch.io](https://itch.io/games/new-and-popular/featured/free), [Killed By A Pixel](https://frankforce.com/all-games/), [Gamdie](https://gamdie.com/), [DigiPen](https://games.digipen.edu/) or [Game Jolt](https://gamejolt.com/games?price=free) - Indie Games
