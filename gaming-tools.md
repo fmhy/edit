@@ -392,7 +392,9 @@
 
 ## ▷ Switch Homebrew
 
-* [Switch Guide](https://nh-server.github.io/switch-guide/) or [Switch Hacking Is Easy](https://rentry.org/SwitchHackingIsEasy) - Switch Homebrew Guides
+* ⭐ **[Switch Guide](https://nh-server.github.io/switch-guide/)** - Switch Homebrew Guide
+* ⭐ **[Switchway](https://switchway.net/)** - Switch Homebrew Guide
+* [Switch Hacking Is Easy](https://rentry.org/SwitchHackingIsEasy) - Switch Homebrew Guide
 * [/r/SwitchPirates](https://www.reddit.com/r/SwitchPirates/) or [/r/SwitchHacks](https://reddit.com/r/SwitchHacks) - Switch Homebrew Subreddits
 * [LAN Play Status](http://lan-play.com/) or [Switch-LAN-Play](https://github.com/spacemeowx2/switch-lan-play) / [Discord](https://discord.gg/PUEmfV4) - Switch Multiplayer Servers
 * [FlagBrew](https://flagbrew.org/) - Switch / [Discord](https://discord.com/invite/4Rv8DTzGFa)
@@ -508,7 +510,7 @@
 
 ## ▷ Minecraft Tools
 
-* 🌐 **[MCBEDOC](https://mcbedoc.openm.tech/)** - Minecraft Tools & Unlockers / [Discord](https://dsc.gg/openms)
+* 🌐 **[MCDOC](https://mcdoc.openm.tech/)** - Minecraft Tools & Unlockers / [Discord](https://dsc.gg/openms)
 * 🌐 **[Awesome Minecraft](https://github.com/bs-community/awesome-minecraft)**, [Birdflop]( https://www.birdflop.com/resources/) or [Minecraft Tools](https://minecraft.tools/en/) - Minecraft Resources
 * 🌐 **[Minecraft QOL Mods](https://rentry.co/mc-qol)** or [sk1er.club](https://sk1er.club/) - Quality of Life Mods
 * 🌐 **[OptiFine Alternatives](https://optifine.alternatives.lambdaurora.dev/)** - OptiFine Alternatives for Fabric
