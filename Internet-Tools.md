@@ -589,10 +589,6 @@
 
 ## ▷ Chrome Extensions
 
-* **Note** - Chromium is implementing Manifest V3 which may [handicap adblocking](https://www.eff.org/deeplinks/2021/12/chrome-users-beware-manifest-v3-deceitful-and-threatening), but [uBO Lite](https://github.com/uBlockOrigin/uBOL-home) should still work.
-
-***
-
 * 🌐 **[Chrome Web Store](https://chromewebstore.google.com/category/extensionsen)**, [Chrome-Extension](https://github.com/harshita214/Chrome-Extension) or [Crx4Chrome](https://www.crx4chrome.com/) - Chrome Addon Stores
 * ⭐ **[Extensity](https://chromewebstore.google.com/detail/extensity/jjmflmamggggndanpgfnpelongoepncg)** or [Extension Manager](https://chromewebstore.google.com/detail/extension-manager/gjldcdngmdknpinoemndlidpcabkggco) - Extension Managers
 * ⭐ **[chromium-web-store](https://github.com/NeverDecaf/chromium-web-store)** - Add Extensions to Ungoogled Chromium
