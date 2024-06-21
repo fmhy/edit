@@ -45,7 +45,7 @@
 * [GoMo](https://gomo.to/) - Movies / TV / Anime / API / 1080p
 * [SuperEmbed](https://www.superembed.stream/) - Movies / TV / API / 1080p
 * [2embed](https://www.2embed.cc/) - Movies / TV / API / 1080p
-* [VidSrc](https://vidsrc.to/) or [VidSrc.me](https://vidsrc.me/) - Movies / TV / Anime / API / 1080p / [Resolver](https://github.com/Ciarands/vidsrc-to-resolver)
+* [VidSrc](https://vidsrc.me/) - Movies / TV / Anime / API / 1080p / [Resolver](https://github.com/Ciarands/vidsrc-to-resolver)
 * [VidSrc.pro](https://vidsrc.pro/) - Movies / TV / Anime / API / 4K / 1080p
 * [SmashyStream API](https://embed.smashystream.com/)  - Movies / TV / Anime / API / 1080p
 * [VidDroid](https://github.com/callisto-jovy/Viddroid) - Streaming App
@@ -85,7 +85,7 @@
 * [Freevee](https://www.amazon.com/gp/video/storefront/ref=atv_hm_hom_c_9zZ8D2_1_3?contentType=home&amp;contentId=freetv) - Movies / TV / 1080p / US Only
 * [Roku](https://therokuchannel.roku.com/) - Movies / TV / 1080p / US Only
 * [Vudu](https://www.vudu.com/content/movies/uxpage/View-All-Free-Movies-TV/207) - Movies / TV / 1080p / US Only
-* [ShoutFactoryTV](https://shout-tv.com/) - Movies / TV / 1080p / US Only
+* [ShoutFactoryTV](https://shout-tv.com/) - Movies / TV / 1080p / US Only / Use Adblocker
 * [Kanopy](https://kanopy.com/) or [Hoopla](https://www.hoopladigital.com/) - Movies / TV / 1080p / US Only / Library Card Required
 * [7+](https://7plus.com.au/) - Movies / TV / 1080p / US + AU Only
 * [Playary](https://www.playary.com/) - Movies / TV / 1080p
@@ -397,6 +397,7 @@
 * ⭐ **[Lord Latifi Streams](https://latifistreams.com/)** - Motorsports / Soccer / [Discord](https://discord.gg/6vr9CW7ZFa)
 * [Flowstreams](https://flowstreams.pw/) - Sports / [Discord](https://discord.gg/streams)
 * [Sportsurge.club](https://sportsurge.club/) - Sports
+* [StreamEast](https://www.thestreameast.to/v8/) - Sports
 * [1Stream](https://1stream.eu/) - Sports
 * [WeakSpell](https://weakspell.to/) - Sports
 * [First Row Sports](https://firstsrowsports.tv/) - Sports
@@ -716,6 +717,7 @@
 * ⭐ **[RatS](https://github.com/StegSchreck/RatS)** - Transfer Ratings between Services
 * ⭐ **[MyAnimeList](https://myanimelist.net/)** - Anime / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_myanimelist_tools)
 * ⭐ **[AniList](https://anilist.co/)** - Anime / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_anilist_tools) / [Discord](https://discord.com/invite/TF428cr)
+* ⭐ **[serializd](https://www.serializd.com/)** - TV / Anime
 * ⭐ **[Simkl](https://simkl.com/)** - TV / Anime / Movies / [Apps](https://simkl.com/apps/) / [Import Tools](https://simkl.com/apps/import/)
 * [IMDb](https://www.imdb.com/) - Movies / TV / Anime / [Advanced Search](https://www.imdb.com/search/)
 * [IMDb Tomatoes](https://greasyfork.org/en/scripts/15222-imdb-tomatoes) - Rotten Tomatoes Ratings on IMDb
@@ -724,7 +726,6 @@
 * [TVDb](https://www.thetvdb.com/) - TV / Anime
 * [MetaCritic](https://www.metacritic.com/) - Movies / TV / Anime
 * [rate.house](https://rate.house/) - Media Tracker
-* [serializd](https://www.serializd.com/) - TV / Anime
 * [Movieo](https://movieo.me/) - Movies / TV / Anime
 * [AllMovie](https://www.allmovie.com/) - Movies / TV / Anime
 * [Anime-Planet](https://www.anime-planet.com/) - Anime
