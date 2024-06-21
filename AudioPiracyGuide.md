@@ -254,6 +254,7 @@
 * [YTiz](https://ytiz.xyz/) - YouTube / SoundCloud / Bandcamp / 128kb / AAC / [GitHub](https://github.com/tizerk/ytiz)
 * [YTMDL](https://ytmdl.deepjyoti30.dev/) - YouTube / 128kb AAC
 * [Download Bandcamp](https://downloadmusicschool.com/bandcamp/) - Bandcamp / 128kb MP3
+* [DownloadSound](https://downloadsound.cloud/) - SoundCloud / 128kb MP3 / [Discord](https://discord.com/invite/39bEkYuzrN)
 * [SoundcloudMP3](https://soundcloudmp3.cc/) - SoundCloud / 128kb MP3
 * [SoundLoaders](https://www.soundloaders.com/) - Multi-Site
 * [SASRIP](https://sasrip.sas41.com/) - Multi-Site
@@ -411,6 +412,8 @@
 * [The Noise-Arch Archive](https://archive.org/details/noise-arch) - Underground Cassette Tapes
 * [MusicRepublic](https://music-republic-world-traditional.blogspot.com/) - World / MP3 / FLAC
 * [KPopMusicDownload](https://kpopdownloadscmm.blogspot.com/) - K-Pop / MP3
+* [MP3JP](https://mp3jp.si/) - Japanese / MP3 / FLAC
+* [JP Music Blog](https://jpmusicblog.com/) - Japanese / MP3 / FLAC
 * [FondSound](https://www.fondsound.com/) - Experimental / MP3
 * [MikuDB](https://mikudb.moe/) - Vocaloid / MP3
 * [Guitars101](https://www.guitars101.com/) - Live Audio / Video
