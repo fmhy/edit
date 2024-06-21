@@ -1783,18 +1783,17 @@ https://aniwow.in/ has only dubs though
 * [AnimeVSub](https://animevsub.eu.org/) - Anime / Chinese Animation / Sub / 1080p / [Extension](https://github.com/anime-vsub/extension-animevsub-helper)
 * [AnimeHay](https://animehay.bio/) - Anime / Chinese Animation / Sub / 1080p
 * [Anime47](https://anime47.lol/) - Anime / Chinese Animation / Sub
-* [Tokuvn](https://tokuvn.com/) - Tokusatsu
-* [Mocha](https://video.mocha.com.vn/) - Video
-* [MyClip](https://myclip.vn/) - Video
-* [TVOnline](https://tvtructuyen.vn/) - Live TV
+* [Tokuvn](https://tokuvn.com/) - Tokusatsu / Sub
+* [Mocha](https://video.mocha.com.vn/) - Video / 1080p
+* [MyClip](https://myclip.vn/) - Video / 1080p
 * [VTVGo](https://vtvgo.vn/) - Live TV
-* [TV360](https://tv360.vn/) - Live TV
-* [TVHayHD](http://xemtv.tvhayhd.tv/) - Live TV
-* [Xtv](https://xemtiviviet.net/) - Live TV
+* [TV360](https://tv360.vn/) - Live TV / Sub / 1080p
+* [TVHayHD](http://xemtv.tvhayhd.tv/) - Live TV / 720p
+* [Xtv](https://xemtiviviet.net/) - Live TV / 1080p
 * [6SVN](https://xem.6svn.com/) - Live TV
-* [vieon](https://vieon.vn/) - Live TV / TV show / Anime / Cartoon / Movie
+* [vieon](https://vieon.vn/) - Live TV / TV show / Anime / Cartoon / Movie / 1080p / Sub / Dub
 * [FPTplay](https://fptplay.vn/) - Live TV / TV show / Anime / Cartoon / Movie
-* [HPlus](https://hplus.com.vn/), [2](https://htvc.com.vn/) - Live TV / TV Show
+* [HPlus](https://hplus.com.vn/), [2](https://htvc.com.vn/) - Live TV / TV Show / 1080p
 * [THVL](https://www.thvli.vn/) - Live TV / TV Show
 * [VTC](https://portal.vtc.gov.vn/live) - Live TV
 * [ZingMP3](https://zingmp3.vn/) - Music
