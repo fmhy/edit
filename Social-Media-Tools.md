@@ -673,7 +673,6 @@
 * [PodcastAP](https://podcastap.com/) - Podcast Feed Bridge
 * [The Fediverse Report](https://fediversereport.com/) - Fediverse News
 * [FediBuzz](https://fedi.buzz/in/en) - Fediverse Trends
-* [Sepia Search](https://sepiasearch.org/) - PeerTube Search
 
 ***
 
@@ -708,23 +707,23 @@
 
 ## ▷ Pixelfed Tools
 
-* [Pixelfed Apps](https://pixelfed.org/mobile-apps) - Pixelfed Client List
+* 🌐 **[Pixelfed Apps](https://pixelfed.org/mobile-apps)** - Pixelfed Client List
 * [Morri](https://github.com/glitchpizza/morii) - Pixelfed App
 * [The Federation Pixelfed](https://the-federation.info/platform/26) - Pixelfed Instances
 * [FediDB Pixelfed](https://fedidb.org/software/pixelfed) - Pixelfed Instances
 * [Fediverse Observer Pixelfed](https://pixelfed.fediverse.observer/list) - Pixelfed Instances
+* [Pixelfed.social](https://pixelfed.social/) - Pixelfed Instance
 
 ***
 
 ## ▷ Peertube Tools
 
-* [Peertube Apps](https://docs.joinpeertube.org/use/third-party-application) - Peertube Client List
+* 🌐 **[Peertube Apps](https://docs.joinpeertube.org/use/third-party-application)** - Peertube Client List
 * [Sepia Search](https://joinpeertube.org/browse-content), [2](https://sepiasearch.org/) - Peertube Search Engine
 * [Peertube Inctances](https://joinpeertube.org/instances), [2](https://instances.joinpeertube.org/instances) - Peertube Instances
 * [The Federation Peertube](https://the-federation.info/platform/29) - Peertube Instances
 * [FediDB Peertube](https://fedidb.org/software/peertube) - Peertube Instances
 * [Fediverse Observer Peertube](https://peertube.fediverse.observer/list) - Peertube Instances
-
 
 ***
 
