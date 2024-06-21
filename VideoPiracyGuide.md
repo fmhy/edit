@@ -439,6 +439,7 @@
 * [MotoGP](https://motogpstream.me/) - Motorsports
 * [DD12](https://dd12streams.com/) - Motorsports / [Discord](https://discord.com/invite/TTFE8Jfz7G)
 * [F1Box](https://f1box.me/) - Motorsports
+* [Formula 1 Streams](https://reddit.formula1stream.cc/) - Motorsports
 * [NHLstream](https://nhlstream.net/) - Hockey
 * [NHL66](https://nhl66.ir/) - Hockey
 * [NHLbite](https://nhlbite.com/) - Hockey
