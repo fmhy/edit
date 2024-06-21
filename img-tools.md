@@ -481,7 +481,7 @@
 * [PicTriev](http://www.pictriev.com/) - Find Look-Alike Images
 * [pfps.gg](https://pfps.gg/) - Profile Picture Index
 * [OpenMoji](https://openmoji.org/) - Emojis
-* [PixelJoint](https://pixeljoint.com/) - Pixel Art
+* [PixelJoint](https://pixeljoint.com/) or [rsrcs](https://rentry.co/rsrcs) - Pixel Art
 * [PimpMyDrawing](https://pimpmydrawing.com/) - Human Silhouettes
 * [Film.ai](https://beta.flim.ai/) or [Film Grab](https://film-grab.com/) - Movie Screenshots
 * [Footyrenders](https://www.footyrenders.com/) - Football Related Images
@@ -606,10 +606,11 @@
 * [fSpy](https://fspy.io/) - Still Image Camera Matching
 * [GlanceBack](https://glanceback.info/) - Daily Webcam Photo Journal
 * [Image Color Summarizer](http://mkweb.bcgsc.ca/color-summarizer/) - Image Color Summarizer
+* [Image Colors](https://franciscouzo.github.io/image_colors/) - Image Color Scatter Plot
+* [Image Pixel Sorter](http://birdhat.org/misc/sort-pixels/) - Sort Pixels of Images
 * [odiff](https://github.com/dmtrKovalenko/odiff) or [Image Comparison Tool](https://jklgit.github.io/Image-Comparison-in-Browser/index.html) - Image Differences / Comparisons
 * [FontAwesomePS](http://creativedo.co/FontAwesomePS) - Photoshop Icon Manager
 * [Adobe Bridge](https://adobe.com/products/bridge.html) - Adobe Assets Manager
-* [Image Colors](https://franciscouzo.github.io/image_colors/) - Image Color Scatter Plot
 * [detectron2](https://detectron2.readthedocs.io/) - Object / Human Detection
 * [behind!](https://github.com/kubuzetto/behind) - View Background Images
 * [Visual Center](https://javier.xyz/visual-center/) - Find the Visual Center of an Image
@@ -709,7 +710,7 @@
 * ⭐ **[Catbox.moe](https://catbox.moe/)**
 * [Imgur](https://imgur.com/)
 * Imgur Tools - [Frontends](https://rimgo.codeberg.page/), [2](https://git.voidnet.tech/kev/imgin), [3](https://codeberg.org/rimgo/rimgo), [4](https://codeberg.org/3np/rimgu), [5](https://rimgo.bus-hit.me/)
-* [pixelfed](https://pixelfed.org/) / [2](https://pixelfed.social/) - Decentralized Image Hosts
+* [pixelfed](https://pixelfed.org/)- Decentralized Image Host / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/social-media#wiki_.25B7_pixelfed_tools)
 * [Unsee](https://unsee.cc/) - Decentralized / Temporary Image Hosts / [Android](https://gitlab.shinice.net/pixeldroid/PixelDroid)
 * [WebOasis IPFS](https://weboasis.app/ipfs/)
 * [Shutterfly](https://www.shutterfly.com/)
