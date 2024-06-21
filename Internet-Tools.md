@@ -73,13 +73,13 @@
 ## ▷ Bookmark Managers
 
 * ⭐ **[Raindrop.io](https://raindrop.io/)**
+* [Auto-Sort Bookmarks](https://github.com/eric-bixby/auto-sort-bookmarks-webext) - Bookmark Sorting Extension
+* [Floccus](https://floccus.org/) - Browser Bookmark Sync Extension / [GitHub](https://github.com/floccusaddon/floccus)
+* [Keep or Delete](https://www.soeren-hentzschel.at/firefox-webextensions/keep-or-delete-bookmarks/) or [Bookmarks Cleanup](https://chromewebstore.google.com/detail/bookmarks-clean-up/oncbjlgldmiagjophlhobkogeladjijl) - Bookmarks Folder Cleanup Extension
 * [Pilgrim](https://pilgrim.are.na/) - Tree Style Path Bookmarking
-* [Bort](https://bort.io/) - Bookmark Manager that Syncs with Dropbox
+* [Bort](https://bort.io/) - Bookmark Manager / Dropbox Sync
 * [Bookmarklets Guide](https://rentry.co/bookmarklets-guide) - Useful Bookmarklets / Guide
 * [wallabag](https://wallabag.org/) - Save and Classify Articles
-* [Keep or Delete](https://www.soeren-hentzschel.at/firefox-webextensions/keep-or-delete-bookmarks/) or [Bookmarks Cleanup](https://chromewebstore.google.com/detail/bookmarks-clean-up/oncbjlgldmiagjophlhobkogeladjijl) - Bookmarks Folder Cleanup Extension
-* [Floccus](https://floccus.org/) - Browser Bookmark Sync Extension / [GitHub](https://github.com/floccusaddon/floccus)
-* [Auto-Sort Bookmarks](https://github.com/eric-bixby/auto-sort-bookmarks-webext) - Bookmark Sorting Extension
 * [Sidebery](https://github.com/mbnuqw/sidebery) - Extension
 * [Bookmarks Organizer](https://github.com/cadeyrn/bookmarks-organizer) - Extension
 * [Centroly](https://centroly.com/) - Extension
