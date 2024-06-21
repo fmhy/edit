@@ -373,7 +373,7 @@
 * ⭐ **[MangaDex](https://mangadex.org/)** - [Downloader](https://mangadex-dl.mansuf.link/) / [Script](https://github.com/frozenpandaman/mangadex-dl)
 * ⭐ **[ComicK](https://comick.io/)**, [2](https://comick.cc/) - [Discord](https://discord.gg/comick)
 * ⭐ **[MangaSee](https://mangasee123.com/)**, [2](https://manga4life.com/)
-* ⭐ **[MangaPark](https://mangapark.net/)** - [Discord](https://discord.gg/jctSzUBWyQ)
+* ⭐ **[MangaPark](https://mangapark.net/)** - [Discord](https://discord.gg/jctSzUBWyQ) / [Proxies](https://rentry.co/mangapark)
 * ⭐ **[Nyaa Manga / LNs](https://nyaa.si/?f=0&c=3_0&q=)** - Torrents
 * ⭐ **[MangaPiracy](https://discord.gg/ZgMtAyxFSU)** - Manga Piracy Server / [Subreddit](https://reddit.com/r/MangaPiracy)
 * ⭐ **[Manga CSE](https://cse.google.com/cse?cx=006516753008110874046:4im0fkhej3z)** / [CSE 2](https://cse.google.com/cse?cx=006516753008110874046:a5mavctjnsc#gsc.tab=0) - Multi-Site Manga Search
