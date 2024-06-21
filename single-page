@@ -4753,7 +4753,7 @@ https://aniwow.in/ has only dubs though
 * ⭐ **[SponsorBlock](https://sponsor.ajay.app/)** - Skip Sponsored YouTube Ads / [Script](https://github.com/mchangrh/sb.js), [2](https://greasyfork.org/en/scripts/453320)
 * ⭐ **[BehindTheOverlay](https://github.com/NicolaeNMV/BehindTheOverlay)** - Hide Website Overlays
 * ⭐ **[OpenVideo](https://openvideofs.github.io)** or [Stream-Bypass](https://github.com/ByteDream/stream-bypass) - Play Videos in Ad-Free Player
-* [uBO Lite](https://github.com/uBlockOrigin/uBOL-home) - MV3 Compatible for Chrome Users
+* [uBO Lite](https://github.com/uBlockOrigin/uBOL-home) - MV3 Compatible for Chrome Users / [Note](https://pastes.fmhy.net/jUyzXA)
 * [fadblock](https://github.com/0x48piraj/fadblock) or [Disable YT Video Ads](https://greasyfork.org/en/scripts/32626) - YouTube Adblockers
 * [Ad Blitz](https://ad-blitz.vercel.app/) - Speed Up YouTube Ads instead of Skipping to Support Creators
 * [Popupblocker All](https://addons.mozilla.org/en-US/firefox/addon/popupblockerall/), [PopUpOFF](https://romanisthere.github.io/PopUpOFF-Website/index.html) or [PopupBlocker](https://github.com/AdguardTeam/PopupBlocker) - Popup / New Tab Blockers
@@ -12857,10 +12857,6 @@ Linux Gaming Guide
 ***
 
 ## ▷ Chrome Extensions
-
-* **Note** - Chromium is implementing Manifest V3 which may [handicap adblocking](https://www.eff.org/deeplinks/2021/12/chrome-users-beware-manifest-v3-deceitful-and-threatening), but [uBO Lite](https://github.com/uBlockOrigin/uBOL-home) should still work.
-
-***
 
 * 🌐 **[Chrome Web Store](https://chromewebstore.google.com/category/extensionsen)**, [Chrome-Extension](https://github.com/harshita214/Chrome-Extension) or [Crx4Chrome](https://www.crx4chrome.com/) - Chrome Addon Stores
 * ⭐ **[Extensity](https://chromewebstore.google.com/detail/extensity/jjmflmamggggndanpgfnpelongoepncg)** or [Extension Manager](https://chromewebstore.google.com/detail/extension-manager/gjldcdngmdknpinoemndlidpcabkggco) - Extension Managers
