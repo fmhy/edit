@@ -158,7 +158,7 @@
 
 ## ▷ File Backup / Sync
 
-* ⭐ **[SyncThing](https://syncthing.net/)** - File Sync
+* ⭐ **[SyncThing](https://syncthing.net/)** - File Sync / [Tray Support](https://martchus.github.io/syncthingtray/)
 * ⭐ **[KDEConnect](https://kdeconnect.kde.org/)** - Phone / File Sync
 * ⭐ **[freefilesync](https://freefilesync.org/)** - File Backup
 * ⭐ **[Kopia](https://kopia.io/)** - File Backup
@@ -276,16 +276,16 @@
 * ⭐ **[1fichier.com](https://1fichier.com/)** - 300GB / 15 Days (30 Days With Account)
 * ⭐ **[file.haus](https://filehaus.top/)** - 200GB / Forever / [.pk](https://filehaus.pk/) / [.su](https://filehaus.su/) / [.onion](http://fileha3hjvudqs2moembtaegnpjo5ptec3tomf5dlxx6ydwtajkkahyd.onion/) / [.i2p](http://xr256v4weabr3rdz3nqzb27bv3gkwjisuf2d57urqtmh3gx3w7da.b32.i2p/) / [.loki](http://nipqehne9zrtpryw6ig5y9gu7c8gwt8ymrrncufxg1g8wf5t4rqo.loki/)
 * ⭐ **[Send.cm](https://send.cm/)** - 100GB / 15 Days
-* ⭐ **[Pixeldrain](https://pixeldrain.com/)** - 20GB / 120 Days / [Discord](https://discord.gg/TWKGvYAFvX)
-* ⭐ **Pixeldrain Tools** - [Speedtest](https://pixeldrain.com/speedtest) / [Limit Bypass](https://pixeldrain-bypass.cybar.xyz) / [Limit Bypass Userscript](https://greasyfork.org/en/scripts/491326-pixeldrain-download-bypass)
 * ⭐ **[Cipher Files](https://cipherfiles.com/)** - 5GB / Forever / [Discord](https://discord.gg/DmRhftYcvN)
 * ⭐ **[Pillowcase](https://pillowcase.su/)** - Audio File Host / 200MB (500MB With Account) / Forever
 * ⭐ **[Catbox](https://catbox.moe/)** - 200MB / Forever
 * ⭐ **[Qiwi](https://qiwi.gg)** - Account Required / [Note](https://pastebin.com/QJDbgtRJ)
+* ⭐ **[HIDAN](https://hidan.sh/)** - Unlimited / 10+ Days (from upload)
+* ⭐ **[Pixeldrain](https://pixeldrain.com/)** - 20GB / 120 Days / [Discord](https://discord.gg/TWKGvYAFvX)
+* ⭐ **Pixeldrain Tools** - [Speedtest](https://pixeldrain.com/speedtest) / [Limit Bypass](https://pixeldrain-bypass.cybar.xyz) / [Limit Bypass Userscript](https://greasyfork.org/en/scripts/491326-pixeldrain-download-bypass)
 * [MultiUp.io](https://multiup.io/) / [Extract / Upload](https://github.com/Reddiepoint/MultiUp-Direct), [MirrorAce](https://mirrorace.com/), or [Mirrored.to](https://www.mirrored.to/) - Multi Host Uploaders
 * [Z-o-o-m](https://z-o-o-m.eu/) - Multi-Host Upload Desktop App
 * [MixDrop](https://mixdrop.ag/) - Unlimited / 60 Days / Account Required
-* [HIDAN](https://hidan.co/) - Unlimited / 10+ Days (from upload)
 * [Filebin](https://filebin.net/) - Unlimited / 6 Days / [Warning](https://pastebin.com/W0j4VDAN)
 * [file.kiwi](https://file.kiwi/) - Unlimited / [File Expiry Explanation](https://file.kiwi/en/price)
 * [FEX.NET](https://fex.net/) - 100GB / 7 Days
