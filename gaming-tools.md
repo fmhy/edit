@@ -582,7 +582,6 @@
 * [Enchant Order](https://iamcal.github.io/enchant-order/) - Minecraft Enchantment Ordering Tool
 * [MiniMessageViewer](https://webui.advntr.dev/) - Format Plugin Messages
 * [MinecraftJSON](https://www.minecraftjson.com/) - Minecraft Tellraw Generator
-* [Minecraft Wiki Redirect](https://greasyfork.org/en/scripts/488541) - Redirect Minecraft Fandoms to minecraft.wiki
 * [MCDF](https://mcdf.wiki.gg/) - Discontinued Minecraft Features Wiki
 
 ***
