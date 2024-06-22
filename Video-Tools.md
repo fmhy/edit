@@ -27,31 +27,25 @@
 
 ***
 
-## ▷ Video Hosting
+## ▷ Video File Hosts
 
-* ⭐ **[doodstream](https://doodstream.com/)** - No Limit / 1080p / 60 Days / Account Required
-* ⭐ **[mixdrop](https://mixdrop.ag/)** - No Limit / 720p / 60 Days
-* ⭐ **[voe.sx](https://voe.sx/)** - No Limit / 720p / 60 Days
-* ⭐ **[catbox](https://catbox.moe/)** - 200MB
-* ⭐ **[streamtape](https://streamtape.com/)** / [2](https://streamtape.to/)
-* ⭐ **[upstream](https://upstream.to/)**
-* [vidyard](https://www.vidyard.com/) - No Limit / 25 Videos only
-* [sendvid](https://sendvid.com/) - 1GB / 720p
-* [vudeo](https://vudeo.ws/)
-* [supervideo](https://supervideo.cc/)
-* [youdbox](https://youdbox.site/)
-* [powvideo](https://powvideo.net/)
-* [abyss](https://abyss.to/)
-* [videy](https://videy.co/)
-* [wolfstream](https://wolfstream.tv/)
-* [vidoza](https://vidoza.net/)
-* [fileone](https://fileone.tv/)
-* [uqload](https://uqload.co/)
-* [media.cm](https://media.cm/) - 300mb / 720p
-* [streamable](https://streamable.com/) - 250MB / 720p / 90 Days
-* [FileMoon](https://filemoon.sx/) - 100MB
-* [WebMShare](https://webmshare.com/) - WebM Hosting / 20MB
-* [HoraHora](https://github.com/horahoradev/horahora) or [minv](https://sr.ht/~thecashewtrader/minv/) - Self-Hosted
+* **Note** - Most file hosts remove files after inactivity, while some delete them regardless. Check each host if you're concerned about file expiry.
+
+***
+
+* ⭐ **[UpStream](https://upstream.to/)** - 10GB / 30 Days / Account Required
+* ⭐ **[DoodStream](https://doodstream.com/)** - 5GB / 60 Days / Account Required
+* ⭐ **[Litterbox](https://litterbox.catbox.moe/)** - 1GB / Temporary
+* ⭐ **[Catbox](https://catbox.moe/)** - 200MB / Forever
+* [VOE](https://voe.sx/) - Unlimited / 60 Days / 720p / Account Required
+* [MixDrop](https://mixdrop.ag/) - Unlimited / 60 Days / 720p / Account Required
+* [WolfStream](https://wolfstream.tv/) 30GB / 80 Days / Account Required
+* [Vidoza](https://vidoza.net/) - 15GB / 15 Days / Account Required
+* [Streamtape](https://streamtape.com/) - 15GB / Account Required / [.to](https://streamtape.to/)
+* [Streamable](https://streamable.com/) - 250MB / 2 Days (90 Days With Account)
+* [webmshare](https://webmshare.com/) - WebM & GIF Hosting / 20MB / Forever
+* [Videy](https://videy.co/) - MP4 only
+* [minv](https://sr.ht/~thecashewtrader/minv/) - Self-Hosted
 
 ***
 
@@ -255,7 +249,6 @@
 
 * [Plxplainers](https://www.plxplainers.xyz/) or [Reddit Guide](https://redd.it/ma1hlm) - Plex Setup Guides
 * [Tautulli](https://tautulli.com/) - Server Monitor
-* [Free Plex Server](https://discord.gg/8Jv792Rs7m)
 * [SuperPlex](https://normantheidiot.neocities.org/superplex/) - Plex Plugins
 * [Kitana](https://github.com/pannal/Kitana) - Plugin Frontend
 * [PlexDrive](https://github.com/plexdrive/plexdrive) or [mergerfs](https://docs.ultra.cc/books/rclone/page/rclone-vfs-and-mergerfs-setup) - Mount GDrive
@@ -270,7 +263,7 @@
 ## ▷ Jellyfin Tools
 
 * 🌐 **[Awesome Jellyfin](https://github.com/awesome-jellyfin/awesome-jellyfin)** - Jellyfin Resources
-* ⭐ **[JellyPlayer](https://github.com/prayag17/JellyPlayer)** or [jellyfin-media-player](https://github.com/jellyfin/jellyfin-media-player) - Desktop Clients
+* ⭐ **[Blink](https://github.com/prayag17/Blink)** or [jellyfin-media-player](https://github.com/jellyfin/jellyfin-media-player) - Desktop Clients
 * [/r/JellyfinShare](https://www.reddit.com/r/JellyfinShare/) - Jellyfin Server Sharing
 * [Jellyfin Forum](https://forum.jellyfin.org/) - Official Jellyfin Forum
 * [Jellyfin Vue](https://github.com/jellyfin/jellyfin-vue) - Jellyfin Web Client
@@ -311,7 +304,6 @@
 * [TubeOffline](https://www.tubeoffline.com/) - Multi-Site / Online
 * [VideoFK](https://www.videofk.com/) - Multi-Site / Online
 * [SASRIP](https://sasrip.sas41.com/) - Multi-Site / Online
-* [Paste2Download](https://www.paste2download.com/) - Multi-Site / Online / 720p / [Supported Sites](https://pastes.fmhy.net/0rfFsE) 
 * [you-get](https://you-get.org/) - Multi-Site / CLI
 * [Hitomi Downloader](https://github.com/KurtBestor/Hitomi-Downloader) - Multi-Site / Software
 * [Yout](https://yout.com/) - Multi-Site / Online
@@ -413,6 +405,7 @@
 * [ShareAE](https://www.shareae.com/) - After Effects
 * [HunterAE](https://hunterae.com/) - After Effects
 * [AERiver](https://aeriver.com/) - After Effects
+* [MSRTC](https://msrtc-maharashtra.in/) - After Effects / [Telegram](https://t.me/aftereffectsplugins01)
 * [AEDownloadPro](https://aedownloadpro.com/) - After Effects
 * [Intro HD](https://intro-hd.net/) - After Effects
 * [Adobe After Effects Collection](https://rentry.co/FMHYBase64#adobe-after-effects-collection) - After Effects
