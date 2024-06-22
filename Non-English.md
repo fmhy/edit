@@ -1713,6 +1713,7 @@ https://aniwow.in/ has only dubs though
 
 * ⭐ **[Voz.vn](https://voz.vn/)**, **[TECHRUM.VN](https://www.techrum.vn/)** or **[WhiteHat.vn](https://whitehat.vn/)** - Tech Forum
 * ⭐ **[J2team](https://www.facebook.com/groups/j2team.community)** - Tech Community
+* ⭐ **[Unikey](https://www.unikey.org/en/)**, [Vietkey](https://vietkey.com.vn/) or [EVkey](https://evkeyvn.com/) - Vietnamese Typing Software
 * [Quantrimang](https://quantrimang.com/), [Anonyviet](https://anonyviet.com/) - Tech News
 * [CocCoc](https://coccoc.com/search) - Search
 * [Speedtest](https://speedtest.vn/), [Vinahost](https://speedtest.vinahost.vn/) - Internet Speed Test
@@ -1734,7 +1735,6 @@ https://aniwow.in/ has only dubs though
 * [TestMic](https://testmic.vn/) - Test Microphone
 * [TestCam](https://testcamera.vn/), [CamTest](https://cameratest.vn/) - Test Camera
 * [VNTyping](https://vntyping.com/), [VietnameseTyping](https://vietnamesetyping.com/) - Vietnamese Typing
-* [Unikey](https://www.unikey.org/), [Vietkey](https://vietkey.com.vn/) or [EVkey](https://evkeyvn.com/) - Vietnamese Typing Software
 * [Mail1s](https://mail1s.com/) - Temp Email
 * [MuaThongMinh](https://muathongminh.vn/) - E-commerce Price Tracker
 * [FBVN](https://chromewebstore.google.com/detail/hlnhbiajcpmjpgpedgfdigiccejengbi), [L.O.C](https://chromewebstore.google.com/detail/eojdckfcadamkapabechhbnkleligand) or [MonokaiToolkit](https://chromewebstore.google.com/detail/monokaitoolkit-extension/dagbggkfgebkmlmnlidioknbhilfnngn) - Friends Filter for Facebook
@@ -1769,6 +1769,8 @@ https://aniwow.in/ has only dubs though
 * [JenkaStudioVN](https://www.jenkastudiovn.net/) - Movies / Anime / Sub / Dub / 1080p
 * [MotChill](https://motchilltv.to/) - Movies / TV / Sub
 * [PhimMoi](https://phimmoiiii.net/) - Movies / TV / Sub
+* [Ô Phim](https://ophim.tuphim.net/) - Movies / Anime / Cartoon / TV shows / Sub / 1080p
+* [FIMMOI](https://vuaphimmoi7.net/) - Movies / TV shows / Anime / Sub / Dub / 720p 
 * [Danet](https://danet.vn/) - Movies / TV / Anime / Live TV / Sub / 720p
 * [XemPhim](https://xemphim.app/) - Movies / TV / Sub / 720p
 * [Redphim](https://redphim.com/) - Movies / TV / Anime / Sub / Dub / 720p
@@ -1777,6 +1779,7 @@ https://aniwow.in/ has only dubs though
 * [HHNinja](https://hhninja4.tv/) - Chinese Animation / Sub / 1080p
 * [PHIMHHTQ](https://phimhhtq.vip/) - Chinese Animation / Anime / Sub
 * [VuiGhe](https://vuighe3.com/) - Anime / Sub / 720p
+* [phim.in](https://phim.in.net/) - Anime / Movies / TV shows / Chinese Animation / Sub / Dub / 1080p
 * [AnimeTVN](https://animetvn4.com/) - Anime / Chinese Animation / Sub / 1080p
 * [animevietsub](https://animevietsub.dev/) - Anime / Chinese Animation / Sub / 1080p
 * [Ani4u](https://ani4u.org/) -  Anime / Sub / 1080p
@@ -1847,6 +1850,7 @@ https://aniwow.in/ has only dubs though
 * [TruyenFull](https://truyenfull.vn/) - Manga / Light Novels
 * [Hako](https://docln.net/), [2](https://novelvn.net/) - Light Novels / [Facebook](https://www.facebook.com/groups/hako.group)
 * [Sonako](https://sonako.fandom.com/vi/wiki/Sonako_Light_Novel) - Light Novels / [Facebook](https://www.facebook.com/SonakoWiki/)
+* [Truyenyy](https://truyenyy.pro/)  - Light Novels / Freemium
 * [Babla](https://www.babla.vn/) - Dictionary
 * [VDict](https://vdict.com/) - Dictionary
 * [VTuDien](https://vtudien.com/) - Dictionary
