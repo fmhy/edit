@@ -296,6 +296,7 @@
 * [Insta-3D](https://huggingface.co/spaces/ilumine-AI/Insta-3D) - Turn 2D images into 3D spaces
 * [Interactive Scenes](https://lumalabs.ai/interactive-scenes) - Generate Interactive Scenes
 * [IllusionDiffusion](https://huggingface.co/spaces/AP123/IllusionDiffusion) - Illusion Artwork Generator
+* [❤️‍🔥 funfun.ai](https://www.funfun.ai/) - AI Art Generator
 
 ***
 
