@@ -59,15 +59,11 @@
 * ⭐ **[TypeSet](https://typeset.io/)** - Research Paper Chatbot
 * [GPT Crawler](https://github.com/BuilderIO/gpt-crawler) - Turn Websites into Chatbots
 * [ChatGPTBox](https://github.com/josStorer/chatGPTBox), [ChatGPT Apps](https://github.com/adamlui/chatgpt-apps), [KeepChatGPT](https://github.com/xcanwin/KeepChatGPT/blob/main/docs/README_EN.md) or [Merlin](https://www.getmerlin.in/) / [Unlimited](https://rentry.co/MerlinAI-Unlim) - Extensions
-* [SublimeGPT](https://chromewebstore.google.com/detail/sublimegpt-chatgpt-everyw/eecockeebhenbihmkaamjlgoehkngjea) or [GPTGO](https://gptgo.ai/) - Add ChatGPT to Search Results
-* [Vault AI](https://vault.pash.city/), [Humata](https://www.humata.ai/), [Unriddle](https://www.unriddle.ai/), [Sharly](https://app.sharly.ai/), [Docalysis](https://docalysis.com/), [DAnswer](https://docs.danswer.dev/), [DocsGPT](https://docsgpt.arc53.com/) or [ChatDOC](https://chatdoc.com/) - Turn Documents into Chatbots
-* [PrivateGPT](https://docs.privategpt.dev/) or [ChatDocs](https://github.com/marella/chatdocs) - Offline Document Chatbots
-* [Erin](https://erin.ac/) or [SallyBot](https://github.com/DeSinc/SallyBot/) - ChatGPT Discord Bots
-* [TGPT](https://github.com/aandrew-me/tgpt) or [Elia](https://github.com/darrenburns/elia) - ChatGPT TUIs
+* [Humata](https://www.humata.ai/), [Sharly](https://app.sharly.ai/), [Docalysis](https://docalysis.com/), [DAnswer](https://docs.danswer.dev/), [DocsGPT](https://docsgpt.arc53.com/) or [ChatDOC](https://chatdoc.com/) - Turn Documents into Chatbots
+* [PrivateGPT](https://docs.privategpt.dev/) - Offline Document Chatbots
+* [SallyBot](https://github.com/DeSinc/SallyBot/) - ChatGPT Discord Bots
+* [TGPT](https://github.com/aandrew-me/tgpt) - ChatGPT TUIs
 * [Lobe Chat](https://chat-preview.lobehub.com) - Desktop App
-* [HemulGM](https://github.com/HemulGM/ChatGPT) - Desktop App
-* [SmolAI](https://github.com/smol-ai/menubar/) - Desktop App
-* [PandoraAI](https://github.com/Richard-Weiss/) - Desktop App
 * [Noi](https://noi.nofwl.com/) - Desktop App
 * [Chatbot-UI](https://chatbotui.com) - Desktop App / [GitHub](https://github.com/mckaywrigley/chatbot-ui)
 * [ChatRTX](https://www.nvidia.com/en-us/ai-on-rtx/chatrtx/) - Desktop App / RTX 30+ Series GPU Only
