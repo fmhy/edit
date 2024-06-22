@@ -22,6 +22,7 @@
 * [APKVision](https://apkvision.org/)
 * [APK Home](https://apkhome.io/)
 * [APK4Free](https://apk4free.net/)
+* [DLandroid](https://dlandroid.com/) / [Telegram](https://t.me/s/dlandroid_com)
 * [Release APK](https://forum.release-apk.com/)
 * [RockMods](https://www.rockmods.net/) / [Telegram](https://t.me/RBMods)
 * [ReXDL](https://rexdl.com/) / [Telegram](https://t.me/joinchat/AAAAAFVMhwX7IzS5hMc8OQ)
