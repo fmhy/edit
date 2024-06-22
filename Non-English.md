@@ -1525,7 +1525,6 @@ https://aniwow.in/ has only dubs though
 * [Lesics](https://youtube.com/@LesicsESP) - Engineering Courses
 * [Tele Gratis Online](https://telegratis.live/mira/) - Live TV
 * [Television Gratis](https://www.televisiongratishd.com/) - Live TV / Latino
-* [LaCasadelTikiTaka](https://www.lacasadeltikitaka.net/) - Live Soccer / MMA
 
 ## ▷ Reading / Leer
 
