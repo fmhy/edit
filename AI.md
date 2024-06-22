@@ -215,6 +215,7 @@
 * [perchance](https://perchance.org/generators) - Random AI Generators
 * [Sieve](https://www.sievedata.com/explore) or [ArtificialStudio](https://www.artificialstudio.ai/tools) - Multi-Tool Browser AIs
 * [Google Labs](https://labs.google/) or [AI Test Kitchen](https://aitestkitchen.withgoogle.com/) - Google AI Experiments
+* [🥳 funfun.tools](https://www.funfun.tools/) - AI Directory
 
 ***
 ***
