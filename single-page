@@ -9629,6 +9629,30 @@ Use this [browser extension](https://github.com/bpc-clone/bpc_updates/releases) 
 
 ***
 
+## ▷ Apps / UIs
+
+* 🌐 **[Awesome Free ChatGPT](https://github.com/LiLittleCat/awesome-free-chatgpt/blob/main/README_en.md)** or **[FOFA](https://en.fofa.info/result?qbase64=ImxvYWRpbmctd3JhcCIgJiYgImJhbGxzIiAmJiAiY2hhdCIgJiYgaXNfZG9tYWluPXRydWU%3D)** / [2](https://en.fofa.info/result?qbase64=dGl0bGU9PSJDaGF0R1BUIFdlYiI%3D) - ChatGPT WebUI Indexes
+* 🌐 **[Every ChatGPT GUI](https://github.com/billmei/every-chatgpt-gui)** - ChatGPT GUI Index
+* ⭐ **[ChatPDF](https://www.chatpdf.com/)**, [BookAI](https://www.bookai.chat/ ) or [Ask Your PDF](https://askyourpdf.com/) - Turn Books into Chatbots
+* ⭐ **[TypeSet](https://typeset.io/)** - Research Paper Chatbot
+* ⭐ **[ChatGPT Telegram Bot](https://github.com/karfly/chatgpt_telegram_bot)** / [2](https://github.com/n3d1117/chatgpt-telegram-bot) / [3](https://github.com/watscho/chat-gpt-telegram-bot) or [chatgpt-serverless](https://github.com/franalgaba/chatgpt-telegram-bot-serverless) - ChatGPT Telegram Bots
+* ⭐ **[ChatHub](https://chathub.gg/)**, [ChatGPTBox](https://github.com/josStorer/chatGPTBox), [ChatGPT Apps](https://github.com/adamlui/chatgpt-apps), [KeepChatGPT](https://github.com/xcanwin/KeepChatGPT/blob/main/docs/README_EN.md), [Walles](https://walles.ai/), [Harpa](https://harpa.ai/), [Merlin](https://www.getmerlin.in/) / [Unlimited](https://rentry.co/MerlinAI-Unlim) or [Glimpse](https://glimpse.surf/) - Extensions
+* [Vault AI](https://vault.pash.city/), [Humata](https://www.humata.ai/), [Unriddle](https://www.unriddle.ai/), [Sharly](https://app.sharly.ai/), [Docalysis](https://docalysis.com/), [DAnswer](https://docs.danswer.dev/), [DocsGPT](https://docsgpt.arc53.com/) or [ChatDOC](https://chatdoc.com/) - Turn Documents into Chatbots
+* [Erin](https://erin.ac/) or [SallyBot](https://github.com/DeSinc/SallyBot/) - ChatGPT Discord Bots
+* [TGPT](https://github.com/aandrew-me/tgpt) or [Elia](https://github.com/darrenburns/elia) - ChatGPT TUIs
+* [Lobe Chat](https://chat-preview.lobehub.com) - Desktop App
+* [HemulGM](https://github.com/HemulGM/ChatGPT) - Desktop App
+* [SmolAI](https://github.com/smol-ai/menubar/) - Desktop App
+* [PandoraAI](https://github.com/Richard-Weiss/) - Desktop App
+* [ChatRTX](https://www.nvidia.com/en-us/ai-on-rtx/chatrtx/)- Desktop App / Nvidia Only
+* [Noi](https://noi.nofwl.com/) - Desktop App
+* [Chatbot-UI](https://chatbotui.com) - Desktop App / [GitHub](https://github.com/mckaywrigley/chatbot-ui)
+* [PrivateGPT](https://docs.privategpt.dev/) or [ChatDocs](https://github.com/marella/chatdocs) - Offline Document Chatbots
+* [SublimeGPT](https://chromewebstore.google.com/detail/sublimegpt-chatgpt-everyw/eecockeebhenbihmkaamjlgoehkngjea) or [GPTGO](https://gptgo.ai/) - Add ChatGPT to Search Results
+* [GPT Crawler](https://github.com/BuilderIO/gpt-crawler) - Turn Websites into Chatbots
+
+***
+
 ## ▷ Self-Hosting Tools
 
 * ⭐ **[Jan.ai](https://jan.ai/)** - Self-Hosted
@@ -9713,24 +9737,11 @@ Use this [browser extension](https://github.com/bpc-clone/bpc_updates/releases) 
 ## ▷ ChatGPT Tools
 
 * 🌐 **[Awesome ChatGPT](https://github.com/uhub/awesome-chatgpt)** - ChatGPT Resources
-* 🌐 **[Awesome Free ChatGPT](https://github.com/LiLittleCat/awesome-free-chatgpt/blob/main/README_en.md)** or **[FOFA](https://en.fofa.info/result?qbase64=ImxvYWRpbmctd3JhcCIgJiYgImJhbGxzIiAmJiAiY2hhdCIgJiYgaXNfZG9tYWluPXRydWU%3D)** / [2](https://en.fofa.info/result?qbase64=dGl0bGU9PSJDaGF0R1BUIFdlYiI%3D) - ChatGPT WebUI Indexes
-* 🌐 **[Every ChatGPT GUI](https://github.com/billmei/every-chatgpt-gui)** - ChatGPT GUI Index
-* ⭐ **[ChatHub](https://chathub.gg/)**, [Harpa](https://harpa.ai/), [Merlin](https://www.getmerlin.in/) / [Unlimited](https://rentry.co/MerlinAI-Unlim) or [Glimpse](https://glimpse.surf/) - ChatGPT Chrome Extensions
-* ⭐ **[ChatPDF](https://www.chatpdf.com/)**, [BookAI](https://www.bookai.chat/ ) or [Ask Your PDF](https://askyourpdf.com/) - Turn Books into Chatbots
-* ⭐ **[TypeSet](https://typeset.io/)** - Research Paper Chatbot
-* [GPT Crawler](https://github.com/BuilderIO/gpt-crawler) - Turn Websites into Chatbots
-* [Lobe Chat](https://chat-preview.lobehub.com), [HemulGM](https://github.com/HemulGM/ChatGPT), [SmolAI](https://github.com/smol-ai/menubar/), [PandoraAI](https://github.com/Richard-Weiss/), [Noi](https://noi.nofwl.com/) or [Chatbot-UI](https://chatbotui.com) / [GitHub](https://github.com/mckaywrigley/chatbot-ui) - ChatGPT Desktop Apps / GUIs
-* [TGPT](https://github.com/aandrew-me/tgpt) or [Elia](https://github.com/darrenburns/elia) - ChatGPT TUIs
-* [Vault AI](https://vault.pash.city/), [Humata](https://www.humata.ai/), [Unriddle](https://www.unriddle.ai/), [Sharly](https://app.sharly.ai/), [Docalysis](https://docalysis.com/), [DAnswer](https://docs.danswer.dev/), [DocsGPT](https://docsgpt.arc53.com/) or [ChatDOC](https://chatdoc.com/) - Turn Documents into Chatbots
-* [PrivateGPT](https://docs.privategpt.dev/) or [ChatDocs](https://github.com/marella/chatdocs) - Offline Document Chatbots
-* [Erin](https://erin.ac/) or [SallyBot](https://github.com/DeSinc/SallyBot/) - ChatGPT Discord Bots
 * [ChatGPT DeMod](https://github.com/4as/ChatGPT-DeMod) - Block ChatGPT Moderation Checks
 * [ParallelGPT](https://www.parallelgpt.ai/) - Data Processing AI
 * [ChatGPT File Uploader](https://chromewebstore.google.com/detail/chatgpt-file-uploader/oaogphgfdbdbmhkiplemgehihiiececj) - File Upload Extension
-* [ChatGPT Advanced](https://tools.zmo.ai/webchatgpt) - Add Search Results to ChatGPT
-* [SublimeGPT](https://chromewebstore.google.com/detail/sublimegpt-chatgpt-everyw/eecockeebhenbihmkaamjlgoehkngjea) or [GPTGO](https://gptgo.ai/) - Add ChatGPT to Search Results
-* [ChatGPTBox](https://github.com/josStorer/chatGPTBox), [ChatGPT Apps](https://github.com/adamlui/chatgpt-apps), [KeepChatGPT](https://github.com/xcanwin/KeepChatGPT/blob/main/docs/README_EN.md) or [Walles](https://walles.ai/) - ChatGPT Extensions
 * [/r/ChatGPT](https://www.reddit.com/r/ChatGPT/) - ChatGPT Subreddit
+* [ChatGPT Advanced](https://tools.zmo.ai/webchatgpt) - Add Search Results to ChatGPT
 * [ChatGPT Exporter](https://greasyfork.org/en/scripts/456055) - Export Chats
 * [VizGPT](https://www.vizgpt.ai/) - Chat Data Visualization
 * [DeepSheet](https://deepsheet.dylancastillo.co/) - Data Visualization AI
