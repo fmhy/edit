@@ -1715,6 +1715,7 @@ https://aniwow.in/ has only dubs though
 * ⭐ **[J2team](https://www.facebook.com/groups/j2team.community)** - Tech Community
 * ⭐ **[Unikey](https://www.unikey.org/en/)**, [Vietkey](https://vietkey.com.vn/) or [EVkey](https://evkeyvn.com/) - Vietnamese Typing Software
 * [Quantrimang](https://quantrimang.com/), [Anonyviet](https://anonyviet.com/) - Tech News
+* [Phudeviet](http://phudeviet.org/) - Subtitles
 * [CocCoc](https://coccoc.com/search) - Search
 * [Speedtest](https://speedtest.vn/), [Vinahost](https://speedtest.vinahost.vn/) - Internet Speed Test
 * [Baomoi](https://baomoi.com/) - News Aggregator / [Mobile](https://play.google.com/store/apps/details?id=com.epi&hl=en_US)
@@ -1783,6 +1784,7 @@ https://aniwow.in/ has only dubs though
 * [AnimeTVN](https://animetvn4.com/) - Anime / Chinese Animation / Sub / 1080p
 * [animevietsub](https://animevietsub.dev/) - Anime / Chinese Animation / Sub / 1080p
 * [Ani4u](https://ani4u.org/) -  Anime / Sub / 1080p
+* [Phimplay](https://phimplay24h.com/) - Anime / Movies / TV shows / Sub / Dub / 720p
 * [AnimeVSub](https://animevsub.eu.org/) - Anime / Chinese Animation / Sub / 1080p / [Extension](https://github.com/anime-vsub/extension-animevsub-helper)
 * [AnimeHay](https://animehay.bio/) - Anime / Chinese Animation / Sub / 1080p
 * [Anime47](https://anime47.lol/) - Anime / Chinese Animation / Sub
