@@ -66,7 +66,7 @@
 * [HemulGM](https://github.com/HemulGM/ChatGPT) - Desktop App
 * [SmolAI](https://github.com/smol-ai/menubar/) - Desktop App
 * [PandoraAI](https://github.com/Richard-Weiss/) - Desktop App
-* [ChatRTX](https://www.nvidia.com/en-us/ai-on-rtx/chatrtx/)- Desktop App / Nvidia Only
+* [ChatRT X](https://www.nvidia.com/en-us/ai-on-rtx/chatrtx/) - Desktop App / RTX 30+ Series GPU Only
 * [Noi](https://noi.nofwl.com/) - Desktop App
 * [Chatbot-UI](https://chatbotui.com) - Desktop App / [GitHub](https://github.com/mckaywrigley/chatbot-ui)
 * [PrivateGPT](https://docs.privategpt.dev/) or [ChatDocs](https://github.com/marella/chatdocs) - Offline Document Chatbots
