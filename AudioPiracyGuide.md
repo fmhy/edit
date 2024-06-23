@@ -581,7 +581,6 @@
 * [Sound Meter](https://mybrowseraddon.com/sound-meter.html) or [REW](https://www.roomeqwizard.com) - Measure Surrounding Sound Level
 * [Krisp](https://krisp.ai/) or [noise-suppression-for-voice](https://github.com/werman/noise-suppression-for-voice) - Noise Suppression Tools
 * [AI-coustics](https://ai-coustics.com/) - Voice Clarity Enhancement AI
-* [mp4grep](https://github.com/o-oconnell/mp4grep) - Audio Transcribing
 * [AirPods Dirty Secret](https://docs.kenp.io/) - AirPods Repair Directory
 * [Musicara](https://www.musicara.ml/) or [X-Minus](https://x-minus.pro/) - Create Karaoke Songs
 * [Librescore Downloader](https://github.com/LibreScore/dl-librescore) - Librescore Downloader
