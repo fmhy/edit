@@ -572,7 +572,7 @@
 * [MineAtlas](http://mineatlas.com/), [Cubiomes Viewer](https://github.com/cubitect/cubiomes-viewer) or [MCSeeder](https://mcseeder.com/) - Minecraft Seeds
 * [MinecraftMaps](https://www.minecraftmaps.com/) or [Mapcraft](https://mapcraft.me/) - Minecraft Maps
 * [Minecraft Earth Map](https://earth.motfe.net/) - Earth Maps
-* [MapartCraft](https://rebane2001.com/mapartcraft/) - Mapart schematic / map.dat Generator / [GitHub](https://github.com/rebane2001/mapartcraft)
+* [MapartCraft](https://rebane2001.com/mapartcraft/) ([GitHub](https://github.com/rebane2001/mapartcraft)) or [Cartographer](https://cartographer-mc.com/) ([Github](https://github.com/julienvincent/cartographer)) - Mapart schematic / map.dat Generator
 * [Chunker](https://chunker.app/) - Minecraft Format Converter (can corrupt worlds)
 * [ObjtoSchematic](https://objtoschematic.com/) - Converts Minecraft Obj files to Schematics / [Discord](https://discord.com/invite/McS2VrBZPD)
 * [NBT Studio](https://github.com/tryashtar/nbt-studio/ ) or [webNBT](https://irath96.github.io/webNBT/) - Minecraft NBT File Editors
