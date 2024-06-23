@@ -208,6 +208,7 @@
 * [BasedTools](https://www.basedtools.ai/) - AI Directory / [Discord](https://discord.gg/D8wYxUvwTD)
 * [It's Better With AI](https://itsbetterwithai.com/) - AI Directory
 * [Futurepedia](https://www.futurepedia.io/) - AI Directory
+* [funfun.tools](https://www.funfun.tools/) - AI Directory
 * [PowerUsers](https://powerusers.ai/) - AI Directory
 * [TheresAnAIForThat](https://theresanaiforthat.com/) - AI Directory
 * [AI Tools](https://aitools.fyi/) - AI Directory
@@ -215,7 +216,6 @@
 * [perchance](https://perchance.org/generators) - Random AI Generators
 * [Sieve](https://www.sievedata.com/explore) or [ArtificialStudio](https://www.artificialstudio.ai/tools) - Multi-Tool Browser AIs
 * [Google Labs](https://labs.google/) or [AI Test Kitchen](https://aitestkitchen.withgoogle.com/) - Google AI Experiments
-* [🥳 funfun.tools](https://www.funfun.tools/) - AI Directory
 
 ***
 ***
