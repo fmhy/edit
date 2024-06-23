@@ -32,6 +32,7 @@
 * [Movierr](https://movierr.online/) - Movies / TV / Anime / [Discord](https://discord.gg/sxKN424ZYK)
 * [EuroPixHD](https://europixhd.pro/) - Movies / TV / Anime / 1080p
 * [EMovies](https://emovies.si/) - Movies / TV / Anime / 1080p
+* [PlayFlix](https://playflix.ru/) - Movies / TV / Anime / 4K / 1080p / Ad-Free
 * [Downloads-Anymovies](https://www.downloads-anymovies.co/) - Movies / 1080p
 * [123MoviesFree](https://ww2.123moviesfree.net/) - Movies / TV / Anime / 1080p
 * [Yesmovies.pm](https://yesmovies.pm/) - Movies / TV / Anime / 1080p
