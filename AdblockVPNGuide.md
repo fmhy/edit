@@ -31,8 +31,7 @@
 
 * ⭐ **[yokoffing's Recommended Filters](https://github.com/yokoffing/filterlists)**
 * ⭐ **[LegitimateURLShortener](https://github.com/DandelionSprout/adfilt/blob/master/LegitimateURLShortener.txt)**
-* ⭐ **[FMHY Filterlist](https://github.com/WindowsAurora/FMHYFilterlist/)** - [Unsafe Sites](https://redd.it/10bh0h9) Filter
-* [FilterLists.com](https://filterlists.com/) - Filters Search
+* ⭐ **[FMHY Filterlist](https://windowsaurora.github.io/FMHYFilterlist/site/index.html)** - Unsafe Sites Filter / [Github](https://github.com/WindowsAurora/FMHYFilterlist/)
 * [Adbox](http://raymondhill.net/ublock/adbox.html) - Test Filters
 * [DandelionSprout adlift](https://github.com/DandelionSprout/adfilt)
 * [Facebook Filters](https://www.reddit.com/r/uBlockOrigin/wiki/solutions#wiki_facebook)
@@ -246,12 +245,8 @@
 * [ssh-chat](https://github.com/shazow/ssh-chat) or [Devzat](https://github.com/quackduck/devzat) - SSH Chat / [Info](https://shazow.net/posts/ssh-how-does-it-even/)
 * [GPGTools](https://gpgtools.org/) - Encrypt & Sign Data / Communications
 * [PeerTube](https://joinpeertube.org/) - Decentralized Video Hosting / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/social-media#wiki_.25B7_peertube_tools)
-* [Redact](https://redact.dev/) - Delete Twitter / Reddit Posts
-* [Undiscord](https://victornpb.github.io/undiscord), [discord-delete](https://github.com/cedws/discord-delete), or [QuickDeleteMessages](https://u.nu/9i9jk) - Delete Discord Messages / [Warning](https://i.ibb.co/pdg4hRr/0b0d78219f05.png)
-* [Social Amnesia](https://github.com/Nick-Gottschlich/Social-Amnesia) - Reddit / Twitter Auto Post Delete
+* [Undiscord](https://victornpb.github.io/undiscord)- Delete Discord Messages / [Warning](https://i.ibb.co/pdg4hRr/0b0d78219f05.png)
 * [delete-likes-from-twitter](https://gist.github.com/aymericbeaumet/d1d6799a1b765c3c8bc0b675b1a1547d) - Delete Twitter Likes / Favorites
-* [Unfavinator](http://unfavinator.com/) - Delete Twitter Favorites
-* [TweetDelete](https://tweetdelete.net/) or [TweetEraser](https://www.tweeteraser.com/) - Delete Twitter Posts in Bulk
 * [PowerDeleteSuite](https://github.com/j0be/PowerDeleteSuite) - Reddit Auto Post Delete
 * [telegram-delete-all-messages](https://github.com/gurland/telegram-delete-all-messages) - Delete Telegram Message
 * [Freenet Project](https://freenetproject.org/) - Browse / Publish Freenet Sites
