@@ -879,7 +879,6 @@
 * 🌐 **[EverythingMoe](https://everythingmoe.com/#section-mobileapp)** - Anime App Index / [Discord](https://discord.gg/GuueaDgKdS)
 * ⭐ **[Aniyomi](https://aniyomi.org/)** / [Extension Guide](https://wotaku.moe/guides/misc#anime-manga-ext-repos)
 * ⭐ **[Dantotsu](https://dantotsu.app)** / [Extension Guide](https://wotaku.moe/guides/misc#anime-manga-ext-repos)
-* [Kaguya App](https://github.com/hoangvu12/kaguya-app/)
 * [AniLab](https://anilab.to/)
 * [Anikin](https://github.com/jerry08/Anikin)
 * [Animiru](https://github.com/Quickdesh/Animiru)
