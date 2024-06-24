@@ -133,6 +133,7 @@
 
 ## ▷ Grammar Check
 
+* [EditGPT](https://www.editgpt.app/)
 * [Grammarly](https://www.grammarly.com/grammar-check)
 * [ProWritingAid](https://prowritingaid.com/grammar-checker)
 * [QuillBot](https://quillbot.com/grammar-check)
@@ -145,21 +146,12 @@
 ## ▷ Text Rephrasing
 
 * ⭐ **[QuillBot AI](https://quillbot.com/)** - Text Rephrasing
-* ⭐ **[paraphrasetool](https://paraphrasetool.com/)** - Text Rephrasing
-* [Just Not Sorry](https://justnotsorry.com/) - Undermining Word Detection
-* [Rewrite Tool](https://rewritetool.net/) - Text Rephrasing
-* [Paraphraz](https://paraphraz.it/) - Text Rephrasing
-* [Rephrasely](https://rephrasely.com/) - Text Rephrasing
+* ⭐ **[paraphrasetool](https://paraphrasetool.com/)** or [Rephrasely](https://rephrasely.com/) - Text Rephrasing
+* ⭐ **[henshu](https://www.henshu.ai/)** - Text Rephrasing
 * [Paraphraser](https://www.paraphraser.io/) - Text Rephrasing
 * [Paraphrase-Online](https://paraphrase-online.com/) - Text Rephrasing
 * [paraphrasingtool](https://paraphrasingtool.ai/) - Text Rephrasing
-* [henshu](https://www.henshu.ai/) - Text Rephrasing
-* [GPTHero](https://gpthero.net/) - AI Detection Bypass
-* [Smry.ai](https://www.smry.ai/) - Text Summary
 * [SMMRY](https://smmry.com/) - Text Summary
-* [summarize.site](https://github.com/clmnin/summarize.site/) - Text Summary
-* [kagi](https://kagi.com/summarizer/index.html) - Text Summary
-* [MyReader](https://www.myreader.io/) - Text Summary
 * [Recast](https://www.letsrecast.ai/) - Text Summary
 
 ***
