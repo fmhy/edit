@@ -6,7 +6,25 @@
 
 # ► AI Chatbots
 
-* **Note** - Our [Discord](https://redd.it/17f8msf) has an AI bot with Llama, Mistral, and Stable Diffusion. Feel free to join and try it out.
+* 🌐 **[Awesome ChatGPT](https://github.com/uhub/awesome-chatgpt)** - ChatGPT Resources
+* 🌐 **[Awesome Free ChatGPT](https://github.com/LiLittleCat/awesome-free-chatgpt/blob/main/README_en.md)** or **[FOFA](https://en.fofa.info/result?qbase64=ImxvYWRpbmctd3JhcCIgJiYgImJhbGxzIiAmJiAiY2hhdCIgJiYgaXNfZG9tYWluPXRydWU%3D)** / [2](https://en.fofa.info/result?qbase64=dGl0bGU9PSJDaGF0R1BUIFdlYiI%3D) - ChatGPT WebUI Indexes
+* 🌐 **[Every ChatGPT GUI](https://github.com/billmei/every-chatgpt-gui)** - ChatGPT GUI Index
+* ⭐ **[ChatPDF](https://www.chatpdf.com/)** or [Ask Your PDF](https://askyourpdf.com/) - Turn Books into Chatbots
+* ⭐ **[TypeSet](https://typeset.io/)** - Research Paper Chatbot
+* [GPT Crawler](https://github.com/BuilderIO/gpt-crawler) - Turn Websites into Chatbots
+* [ChatGPTBox](https://github.com/josStorer/chatGPTBox), [ChatGPT Apps](https://github.com/adamlui/chatgpt-apps), [KeepChatGPT](https://github.com/xcanwin/KeepChatGPT/blob/main/docs/README_EN.md) or [Merlin](https://www.getmerlin.in/) / [Unlimited](https://rentry.co/MerlinAI-Unlim) - Extensions
+* [Humata](https://www.humata.ai/), [Sharly](https://app.sharly.ai/), [Docalysis](https://docalysis.com/), [DAnswer](https://docs.danswer.dev/), [DocsGPT](https://docsgpt.arc53.com/) or [ChatDOC](https://chatdoc.com/) - Turn Documents into Chatbots
+* [PrivateGPT](https://docs.privategpt.dev/) - Offline Document Chatbots
+* [SallyBot](https://github.com/DeSinc/SallyBot/) - ChatGPT Discord Bots
+* [TGPT](https://github.com/aandrew-me/tgpt) - ChatGPT TUIs
+* [Lobe Chat](https://chat-preview.lobehub.com) - Desktop App
+* [Noi](https://noi.nofwl.com/) - Desktop App
+* [Chatbot-UI](https://chatbotui.com) - Desktop App / [GitHub](https://github.com/mckaywrigley/chatbot-ui)
+* [ChatRTX](https://www.nvidia.com/en-us/ai-on-rtx/chatrtx/) - Desktop App / RTX 30+ Series GPU Only
+* [ChatGPT DeMod](https://github.com/4as/ChatGPT-DeMod) - Block ChatGPT Moderation Checks
+* [ParallelGPT](https://www.parallelgpt.ai/) - Data Processing AI
+* [ChatGPT Exporter](https://greasyfork.org/en/scripts/456055) - Export Chats
+* [GPThemes](https://github.com/itsmartashub/GPThemes) - ChatGPT Themes
 
 ***
 
@@ -23,7 +41,6 @@
 * ⭐ **[groq](https://groq.com/)** - Llama 3 and Mixtral Chatbots
 * ⭐ **[LMSYS Chat](https://chat.lmsys.org/)** - Chat and Compare Multiple Chatbots
 * [LLM Playground](https://llmplayground.net/) - Multiple Chatbots / [Discord](https://discord.com/invite/q55gsH8z5F) / [API](https://api.discord.rocks/)
-* [CoolAGI](https://coolagi.vercel.app/) - GPT-4 Turbo Chatbot / [Note](https://rentry.co/coolaginotice)
 * [feyn](https://feyn.chat/) - GPT-4o / Multiple Chatbots
 * [LibreChat](https://librechat.ai/) - Multiple Chatbots
 * [HuggingChat](https://huggingface.co/chat/) - Open-Source Chatbots
@@ -48,25 +65,6 @@
 * [Reka Playground](https://chat.reka.ai/) - Reka's Chatbot
 * [Poe](https://poe.com/) - Multiple Chatbots / 150 Daily / [Discord](https://discord.com/invite/joinpoe)
 * [GlobalGPT](https://www.globalgpt.nspiketech.com/#/) - AI Chatbot with Document Support
-
-***
-
-## ▷ Chatbot Interfaces
-
-* 🌐 **[Awesome Free ChatGPT](https://github.com/LiLittleCat/awesome-free-chatgpt/blob/main/README_en.md)** or **[FOFA](https://en.fofa.info/result?qbase64=ImxvYWRpbmctd3JhcCIgJiYgImJhbGxzIiAmJiAiY2hhdCIgJiYgaXNfZG9tYWluPXRydWU%3D)** / [2](https://en.fofa.info/result?qbase64=dGl0bGU9PSJDaGF0R1BUIFdlYiI%3D) - ChatGPT WebUI Indexes
-* 🌐 **[Every ChatGPT GUI](https://github.com/billmei/every-chatgpt-gui)** - ChatGPT GUI Index
-* ⭐ **[ChatPDF](https://www.chatpdf.com/)** or [Ask Your PDF](https://askyourpdf.com/) - Turn Books into Chatbots
-* ⭐ **[TypeSet](https://typeset.io/)** - Research Paper Chatbot
-* [GPT Crawler](https://github.com/BuilderIO/gpt-crawler) - Turn Websites into Chatbots
-* [ChatGPTBox](https://github.com/josStorer/chatGPTBox), [ChatGPT Apps](https://github.com/adamlui/chatgpt-apps), [KeepChatGPT](https://github.com/xcanwin/KeepChatGPT/blob/main/docs/README_EN.md) or [Merlin](https://www.getmerlin.in/) / [Unlimited](https://rentry.co/MerlinAI-Unlim) - Extensions
-* [Humata](https://www.humata.ai/), [Sharly](https://app.sharly.ai/), [Docalysis](https://docalysis.com/), [DAnswer](https://docs.danswer.dev/), [DocsGPT](https://docsgpt.arc53.com/) or [ChatDOC](https://chatdoc.com/) - Turn Documents into Chatbots
-* [PrivateGPT](https://docs.privategpt.dev/) - Offline Document Chatbots
-* [SallyBot](https://github.com/DeSinc/SallyBot/) - ChatGPT Discord Bots
-* [TGPT](https://github.com/aandrew-me/tgpt) - ChatGPT TUIs
-* [Lobe Chat](https://chat-preview.lobehub.com) - Desktop App
-* [Noi](https://noi.nofwl.com/) - Desktop App
-* [Chatbot-UI](https://chatbotui.com) - Desktop App / [GitHub](https://github.com/mckaywrigley/chatbot-ui)
-* [ChatRTX](https://www.nvidia.com/en-us/ai-on-rtx/chatrtx/) - Desktop App / RTX 30+ Series GPU Only
 
 ***
 
@@ -151,36 +149,14 @@
 
 ***
 
-## ▷ ChatGPT Tools
-
-* 🌐 **[Awesome ChatGPT](https://github.com/uhub/awesome-chatgpt)** - ChatGPT Resources
-* [ChatGPT DeMod](https://github.com/4as/ChatGPT-DeMod) - Block ChatGPT Moderation Checks
-* [ParallelGPT](https://www.parallelgpt.ai/) - Data Processing AI
-* [ChatGPT File Uploader](https://chromewebstore.google.com/detail/chatgpt-file-uploader/oaogphgfdbdbmhkiplemgehihiiececj) - File Upload Extension
-* [/r/ChatGPT](https://www.reddit.com/r/ChatGPT/) - ChatGPT Subreddit
-* [ChatGPT Advanced](https://tools.zmo.ai/webchatgpt) - Add Search Results to ChatGPT
-* [ChatGPT Exporter](https://greasyfork.org/en/scripts/456055) - Export Chats
-* [VizGPT](https://www.vizgpt.ai/) - Chat Data Visualization
-* [DeepSheet](https://deepsheet.dylancastillo.co/) - Data Visualization AI
-* [Autoclear ChatGPT History](https://github.com/adamlui/userscripts/tree/master/chatgpt/autoclear-chatgpt-history) - Autoclear Chats
-* [EditGPT](https://www.editgpt.app/) - Proofread Chats
-* [RepeatGPT](https://repeatgpt.com/) - Schedule Chats
-* [GPThemes](https://github.com/itsmartashub/GPThemes) - ChatGPT Themes
-
-***
-
 ## ▷ ChatGPT Prompts
 
 * ⭐ **[Awesome ChatGPT Prompts](https://prompts.chat/)** - Prompt Directory / [Github](https://github.com/f/awesome-chatgpt-prompts)
 * ⭐ **[BlackFriday GPTs Prompts](https://github.com/friuns2/BlackFriday-GPTs-Prompts)** - Prompt Directory
 * ⭐ **[FlowGPT](https://flowgpt.com/)** - Prompt Directory
 * ⭐ **[Leaked Prompts](https://github.com/linexjlin/GPTs)** - Prompt Directory
-* ⭐ **[Prompt Engineering Guide](https://www.promptingguide.ai)**, [LearnPrompting](https://learnprompting.org/docs/intro), [OpenAI Guide](https://platform.openai.com/docs/guides/prompt-engineering), [Claude Guide](https://docs.anthropic.com/claude/docs/prompt-engineering), [LearningPrompt](https://learningprompt.wiki/) or [Jailbreaking ChatGPT](https://arxiv.org/pdf/2305.13860) - Prompting Guides
-* ⭐ **[quickref](https://quickref.me/chatgpt)** - Prompt Cheatsheets
+* ⭐ **[Prompt Engineering Guide](https://www.promptingguide.ai)**, [LearnPrompting](https://learnprompting.org/docs/intro), [OpenAI Guide](https://platform.openai.com/docs/guides/prompt-engineering), [Claude Guide](https://docs.anthropic.com/claude/docs/prompt-engineering) or [LearningPrompt](https://learningprompt.wiki/) - Prompting Guides
 * [500 Best Prompts](https://puzzle-jute-202.notion.site/500-Best-ChatGPT-Prompts-f5b4ad65deec4b6385316fdb8740af74) - Prompt Directory
-* [SnackPrompt](https://snackprompt.com/) - Prompt Directory
-* [AIPRM](https://www.aiprm.com/prompts/) - Prompt Directory
-* [PromptPerfect](https://promptperfect.jina.ai/) - Prompt Optimization
 * [promptfoo](https://github.com/typpo/promptfoo) or [PromptKnit](https://promptknit.com/) - Prompt Playgrounds
 * [Marketing 2099](https://sintralabs.notion.site/Marketing-2099-Ultimate-ChatGPT-Marketing-Prompts-To-Copy-Paste-200-tasks-fc22c9142d6a4a4286a3fe755be932e6) - ChatGPT Marketing Prompts
 * [Tensor Trust](https://tensortrust.ai/) or [Gandalf](https://gandalf.lakera.ai/) - Prompting Skill Games
@@ -226,13 +202,8 @@
 * [Scrip AI](https://scripai.com/), [InkForAll](https://app.inkforall.com/tools), [QuickPenAI](https://quickpenai.com/) - Online AI Text Tools
 * [NovelAI](https://novelai.net/) - Story Writing AI / [Limit Bypass](https://pastebin.com/JDyvqZcz), [2](https://greasyfork.org/en/scripts/448926)
 * [Dreamily](https://dreamily.ai/) or [NightSaga](https://nightsaga.ai/) - Story Writing AIs
-* [Essaytyper](http://www.essaytyper.com/), [papertyper](https://papertyper.net/), [EssayBot](https://www.essaybot.com/) / [2](https://www.essayaibot.com/), [Textero](https://www.textero.ai/), [EssayBuilder](https://essay-builder.ai/) or [EssayService](https://www.essayservice.ai/) - Essay Writing AI
-* [Chat GPTPhantom](https://chatgpt-phantom.vercel.app/) - Article Writing AI
-* [GPT4Chat](https://gpt4chat.net/) or [ChatGPT Writer](https://chatgptwriter.ai/) - Email Reply AI
-* [Novel.sh](https://novel.sh/) or [TextSynth](https://textsynth.com/playground.html) - Text Autocomplete AI
-* [Compose](https://www.compose.ai/) - Text Autocomplete AI Extension
-* [NumerousAI](https://numerous.ai/) or [FormulaBot](https://formulabot.com/) - Excel AI Tools
-* [Auto Text Expander](https://pastebin.com/TFPRieVN) - Shortcuts to Expand & Replace Text as you Type
+* [EssayBot](https://www.essaybot.com/) / [2](https://www.essayaibot.com/), [Textero](https://www.textero.ai/), [EssayBuilder](https://essay-builder.ai/) or [EssayService](https://www.essayservice.ai/) - Essay Writing AI
+* [TextSynth](https://textsynth.com/playground.html) - Text Autocomplete AI
 
 ***
 
