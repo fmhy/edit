@@ -1140,6 +1140,7 @@
 * [CBox](https://www.cbox.ws/), [Typebot](https://typebot.io/) or [Tawk](https://www.tawk.to/) - Embedded Chat App
 * [Pay 2 Email](https://pay2.email/) - Simple Website Contact Form
 * [Seventy Seven](https://www.seventy-seven.dev/) - Customer Support Tool
+* [Chaindesk](https://www.chaindesk.ai/) - AI Chatbot for Customer Support
 * [Twitcker](https://twitcker.com/) - Add Twitter Feed Ticker to Site
 * [Curator](https://curator.io/) - Embed Social Media Feeds
 * [MinIO](https://min.io/) or [Filebase](https://filebase.com/) - Cloud Native Object Storage
