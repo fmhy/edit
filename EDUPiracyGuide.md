@@ -666,9 +666,9 @@
 
 * ⭐ **[Ptable](https://ptable.com/)** - Interactive Table
 * ⭐ **[Images-of-elements](https://images-of-elements.com/)** - Element Images
-* ⭐ **[periodic-table.org](https://www.periodic-table.org/)** or **[Material Properties](https://material-properties.org/)** - Elements Learning Resources
+* ⭐ **[periodic-table.org](https://www.periodic-table.org/)** or **[Material Properties](https://material-properties.org/)** - Material / Element Learning Resources
 * [Graph Overflow](https://graphoverflow.com/graphs/3d-periodic-table.html) or [3D Periodic Table](https://artsexperiments.withgoogle.com/periodic-table/) - 3D Visualizations of Atoms
-* [Atomic](https://play.google.com/store/apps/details?id=com.jlindemann.science) - Mobile App
+* [Atomic](https://play.google.com/store/apps/details?id=com.jlindemann.science) - Periodic Table Mobile App
 * [The Periodic Table Of Elements](https://periodictableofchemicalelements.com/) - Interactive Table
 * [periodic-table.io](https://periodic-table.io/) - Interactive Table
 * [Periodic Table App](https://periodictableapp.com/) - Interactive Table
