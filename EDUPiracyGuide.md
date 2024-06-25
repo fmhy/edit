@@ -21,7 +21,6 @@
 * [Rocumentaries](https://rocumentaries.com/)
 * [WatchDocumentaries](https://watchdocumentaries.com/)
 * [ThoughtMaybe](https://thoughtmaybe.com/)
-* [ihopplay](https://i.hopmarks.com/)
 * [PBS](https://www.pbs.org/video/)
 * [Nat Geo](https://www.nationalgeographic.com/tv/browse/watch-free)
 * [Folkstreams](https://www.folkstreams.net/)
@@ -120,7 +119,7 @@
 
 # ► Learning Sites
 
-* 🌐 **[The Free Learning List](https://freelearninglist.org/)**, **[LearnAwesome](https://learnawesome.org/)**, [Learning Lab](https://learn.uno/), [Quester](https://quester.io/), [AFAIK](https://afaik.io/) / [Discord](https://discord.gg/mMNwRvWM8s), [TutorAI](https://www.tutorai.me/), [Learney](https://maps.joindeltaacademy.com/), [Learn Anything](https://learn-anything.xyz/) / [Free Method](https://rentry.co/FMHYBase64#learn-anything) or [WISC](https://www.wisc-online.com/) - Learning Resources
+* 🌐 **[The Free Learning List](https://freelearninglist.org/)**, [Learning Lab](https://learn.uno/), [Quester](https://quester.io/), [AFAIK](https://afaik.io/) / [Discord](https://discord.gg/mMNwRvWM8s), [TutorAI](https://www.tutorai.me/), [Learn Anything](https://learn-anything.xyz/) / [Free Method](https://rentry.co/FMHYBase64#learn-anything) or [WISC](https://www.wisc-online.com/) - Learning Resources
 * 🌐 **[Awesome Educational Games](https://github.com/yrgo/awesome-educational-games)** - Educational Games Index
 * ↪️ **[Ebook Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/reading#wiki_.25BA_educational_books)**
 * ↪️ **[Typing Tests / Games](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools#wiki_.25B7_typing_lessons)**
@@ -325,7 +324,8 @@
 * [iCivics](https://www.icivics.org/games) - U.S. Law Learning Games
 * [Left vs. Right Side Driving Map](https://somerandomstuff1.files.wordpress.com/2019/02/left-or-right-side.png) - Left vs. Right Side Driving by Country
 * [Speed Limits Map](https://somerandomstuff1.files.wordpress.com/2019/02/highest-speed-limits-around-the-world.png) - Max Speed Limits
-* [License Plates Map](https://i.redd.it/ue2r7cdb2s861.png) - License Plate Map
+* [WorldLicensePlates](http://www.worldlicenseplates.com/) - World License Plate Index
+* [License Plates Map](https://i.redd.it/ue2r7cdb2s861.png) - World License Plate Map
 * [European License Plate Map](https://i.redd.it/wcazzhjir8941.png) - European License Plate Map
 * [Symbols](https://www.symbols.com/) - Symbol Database
 * [Flag Guesser](https://flagguesser.com/) - Flag Quizzes
@@ -388,7 +388,7 @@
 * [Virtual Vist Tours](https://www.virtualvisittours.com/) - Ireland Virtual Tours
 * [Matterport](https://matterport.com/discover) - Explore Real Places Digitally
 * [Hashima Island](https://www.hashima-island.co.uk/) - Hashima Island Virtual Tour
-* [Zhijianshang](https://www.zhijianshang.com/) or [Airpano](https://www.airpano.com/) - 360 Images / Videos
+* [Zhijianshang](https://www.zhijianshang.com/), [360Cities](https://www.360cities.net/) or [Airpano](https://www.airpano.com/) - 360 Images / Videos
 * [Smithsonian 3D](https://3d.si.edu/) - Smithsonian 3D Digitization Museum
 
 ***
@@ -576,7 +576,7 @@
 * [QuickChem](https://play.google.com/store/apps/details?id=com.map.michael.chemistry) - Chemistry Calculator
 * [PubChem](https://pubchem.ncbi.nlm.nih.gov/), [MOTM](https://www.chm.bris.ac.uk/motm/motm.htm), [NIST](https://webbook.nist.gov/chemistry/) or [EssentialChemicalIndustry](https://www.essentialchemicalindustry.org/) - Chemistry Wikis
 * [ChemistrySteps](https://www.chemistrysteps.com/) or [DocBrown](https://docbrown.info/) - Chemistry Practice / Guides
-* [Cliffnotes Chemistry](https://www.cliffsnotes.com/study-guides/chemistry/chemistry/elements/discovery-and-similarity) / [Organic Chemistry I](https://www.cliffsnotes.com/study-guides/chemistry/organic-chemistry-i) / [Organic Chemistry II](https://www.cliffsnotes.com/study-guides/chemistry/organic-chemistry-ii), [Chem Wiki](https://wiki.ch.ic.ac.uk/wiki/), [chemhelper](https://chemhelper.com/) or [chemguide](https://www.chemguide.co.uk) - Study Guides
+* [Cliffnotes Chemistry](https://www.cliffsnotes.com/study-guides/chemistry/chemistry/elements/discovery-and-similarity) / [Organic Chemistry I](https://www.cliffsnotes.com/study-guides/chemistry/organic-chemistry-i) / [Organic Chemistry II](https://www.cliffsnotes.com/study-guides/chemistry/organic-chemistry-ii), [Chem Wiki](https://wiki.ch.ic.ac.uk/wiki/) or [chemguide](https://www.chemguide.co.uk) - Study Guides
 * [ChemistryTalk](https://chemistrytalk.org/) - Tutorials / Experiments / Elements / Reference Articles
 * [Sciencenotes](https://sciencenotes.org) - Periodic Tables / Chemistry Projects and Questions
 * [Organic Chemistry](https://www.organic-chemistry.org) or [Synarchive](https://synarchive.com/) - Organic Reactions
@@ -611,7 +611,6 @@
 * [iNaturalist](https://www.inaturalist.org/) - Organism Identification
 * [Ocearch](https://www.ocearch.org/?list) - Track Marine Life
 * [The Deep Sea](https://neal.fun/deep-sea/) - Interactive Deep Sea Life Guide
-* [TheAquariumWiki](https://www.theaquariumwiki.com/) - Aquarium Wiki
 * [Pattern Radio](https://patternradio.withgoogle.com/) - Listen to Whale Songs
 * [EuroBirdPortal](https://www.eurobirdportal.org/) - European Bird Distribution Map
 * [BirdSounds](https://experiments.withgoogle.com/ai/bird-sounds/view/) - Thousands of Bird Sounds Visualized
@@ -662,7 +661,7 @@
 
 ***
 
-## ▷ Periodic Tables / Elements
+## ▷ Periodic Tables
 
 * ⭐ **[Ptable](https://ptable.com/)** - Interactive Table
 * ⭐ **[Images-of-elements](https://images-of-elements.com/)** - Element Images
@@ -965,6 +964,7 @@
 * [PowerThesaurus](https://www.powerthesaurus.org/) - Thesaurus
 * [VisualThesaurus](https://www.visualthesaurus.com/) - Thesaurus
 * [DescribingWords](https://describingwords.io/) - Adjectives
+* [Better Synonyms](https://www.bettersynonyms.com/) - Synonyms
 * [Thsrs](https://www.ironicsans.com/thsrs/) - Synonyms
 * [Synonym.com](https://www.synonym.com/) - Synonyms
 * [Feeels](https://feelu.vercel.app/) - Emotion Synonym Chart
