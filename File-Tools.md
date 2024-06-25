@@ -318,6 +318,7 @@
 * [WeTransfer](https://wetransfer.com/) - 2GB / 7 Days
 * [Smash](https://fromsmash.com/) - 2GB / 7 Days / Email Required
 * [Limited Upload Hosts](https://rentry.org/xc48kg) - More Hosts / 1GB or Below
+* [Tempfile](https://tempfile.me/) - 10GB / 90 Days
 
 ***
 
