@@ -172,8 +172,6 @@
 * [Paper Age](https://github.com/matiaskorhonen/paper-age) - Create Paper Backups of Secrets
 * [USBKill](https://github.com/hephaest0s/usbkill) - Anti-Forensic USB Killswitch
 * [HiddenVM](https://github.com/aforensics/HiddenVM) - Run an Oracle VM on TailsOS
-* [V2Ray](https://v2ray.com/en/), [V2Fly](https://www.v2fly.org/), [V2RayN](https://github.com/freefq/free) or [v2ray-core](https://github.com/v2fly/v2ray-core) - DIY Privacy Network
-* V2Ray Tools - [GUI](https://github.com/2dust/v2rayN), [2](https://github.com/Qv2ray/Qv2ray) / [GeoIP](https://github.com/Loyalsoldier/geoip) / [Free Server](https://fanqiang.network/) / [Cloudflare Scan](https://cloudflare-v2ray.vercel.app/) / [Tutorial](https://github.com/freefq/tutorials)
 * [FreeCarrierLookup](https://www.freecarrierlookup.com/) - Get Telephone Carrier Data
 * [/r/Privacy](https://reddit.com/r/privacy), [/r/TheHatedOne](https://www.reddit.com/r/thehatedone) or [/r/privatelife/](https://www.reddit.com/r/privatelife/) - Privacy Discussion, News & Tools
 * [Facebook Doc Stories](https://docs.google.com/document/d/1QYqmJsifBjf_xA23Ea7AdeMFyjGWaF_dvhi5EZdNUf4/edit) - Facebook Malpractices Index
@@ -206,6 +204,20 @@
 
 ***
 
+## ▷ Network Security
+
+* ⭐ **[simplewall](https://github.com/henrypp/simplewall)** - Firewall / Network Monitor
+* ⭐ **[Fort](https://github.com/tnodir/fort)** - Firewall / Network Monitor
+* ⭐ **[Safing Portmaster](https://safing.io/)** - Network Monitor / DNS Resolver / Firewall / Adblocker / Security Tool
+* [V2Ray](https://v2ray.com/en/), [V2Fly](https://www.v2fly.org/), [V2RayN](https://github.com/freefq/free) or [v2ray-core](https://github.com/v2fly/v2ray-core) - DIY Privacy Network
+* V2Ray Tools - [GUI](https://github.com/2dust/v2rayN), [2](https://github.com/Qv2ray/Qv2ray) / [GeoIP](https://github.com/Loyalsoldier/geoip) / [Free Server](https://fanqiang.network/) / [Cloudflare Scan](https://cloudflare-v2ray.vercel.app/) / [Tutorial](https://github.com/freefq/tutorials)
+* [WFC](https://www.binisoft.org/wfc.php) - Firewall / Network Monitor
+* [pfSense](https://www.pfsense.org/) - Firewall / Network Monitor / [How-to](https://youtu.be/am7xT-zU1Q0)
+* [Tinywall](https://tinywall.pados.hu/) - Firewall / Network Monitor
+* [encrypted-sni](https://www.cloudflare.com/ssl/encrypted-sni/) - Firewall / Network Monitor
+
+***
+
 ## ▷ [Linux Privacy](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/linux#wiki_.25BA_linux_adblock_.2F_privacy)
 
 ***
@@ -231,14 +243,11 @@
 * ↪️ **[Encode / Decode URLs](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools#wiki_.25B7_encode_.2F_decode)**
 * ⭐ **[PrivacySpy](https://privacyspy.org/)** or [Terms of Service; Didn't Read](https://tosdr.org/) - Sites Privacy Policies
 * ⭐ **[JustGetMyData](https://justgetmydata.com/)** - Links to Obtain Your Data from Websites
-* ⭐ **[Safing Portmaster](https://safing.io/)** - Network Monitor / DNS Resolver / Firewall / Adblocker / Security Tool
-* ⭐ **[simplewall](https://github.com/henrypp/simplewall)**, [WFC](https://www.binisoft.org/wfc.php), [pfSense](https://www.pfsense.org/) / [How-to](https://youtu.be/am7xT-zU1Q0) or [Tinywall](https://tinywall.pados.hu/) - Firewall / Network Monitors
 * ⭐ **[Cryptomator](https://cryptomator.org/)**, [Boxcryptor](https://www.boxcryptor.com/en/) or [Tahoe-LAFS](https://tahoe-lafs.org/trac/tahoe-lafs) - Cloud File Encryption
 * [FirefoxMonitor](https://monitor.firefox.com/) - Data Breach Check
 * [BreachDirectory](https://breachdirectory.org), [Snusbase](https://snusbase.com/), [Leak Lookup](https://leak-lookup.com/), [Trufflehog](https://trufflesecurity.com/trufflehog) or [leakpeek](https://leakpeek.com/) - Data Breach Search Engines
 * [JustDeleteMe](https://justdeleteme.xyz/) - Find / Terminate Old Accounts
 * [OpenPhish](https://openphish.com/), [Netcraft Report](https://report.netcraft.com/report), [isitPhishing](https://isitphishing.org/), [PhishStats](https://phishstats.info/) or [PhishTank](https://phishtank.org/) - Report Phishing Sites
-* [encrypted-sni](https://www.cloudflare.com/ssl/encrypted-sni/) - Check Network / Browser Security
 * [DNS Jumper](https://www.majorgeeks.com/files/details/dns_jumper.html) - DNS Switcher
 * [Element](https://element.io/), [linphone](https://www.linphone.org/), [Jami](https://jami.net/), [Tox](https://tox.chat/) or [Bitmask](https://bitmask.net/) - Encrypted Messaging / Video Calls
 * [SimpleDiscordCrypt](https://gitlab.com/An0/SimpleDiscordCrypt) - Discord Message Encryption
