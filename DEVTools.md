@@ -97,7 +97,7 @@
 * [searchcode](https://searchcode.com/) or [PublicWWW](https://publicwww.com/) - Source Code Search
 * [Sourcecodester](https://www.sourcecodester.com/), [Code Projects](https://code-projects.org/), [Codastro](https://codeastro.com/), [Kashipara](https://www.kashipara.com/) or [ItSourceCode](https://www.itsourcecode.com/) - Source Code Projects
 * [ShortCode](https://shortcode.dev/) or [CodeList](https://codelist.cc/v3/) - Script / Code Indexes
-* [Chalk](https://chalk.ist/) or [Show Code](https://showcode.app/) - Code Screenshots
+* [Chalk](https://chalk.ist/), [Carbon](https://github.com/carbon-app/carbon) or [Show Code](https://showcode.app/) - Code Screenshots
 * [AnimateCode](https://www.animate-code.com/) - Create Code Animations
 * [DelphiTools](https://www.delphitools.info/) - Code Profiler / Delphi Tools
 * [Adrenaline](https://useadrenaline.com/) or [Console Ninja](https://console-ninja.com/) - Code Debugging
