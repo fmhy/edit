@@ -153,6 +153,7 @@
 * [Linkezo](https://linkezo.com/)
 * [Linkr](https://linkr.com/)
 * [LinkBun](https://linkbun.io)
+* [pronouns.cc](https://pronouns.cc/) - Share Preferred Pronouns
 * [seemless](https://www.linkinbio.website/) - Link in Bio for Tiktok & Instagram
 * [itsmy.fyi](https://itsmy.fyi/) - Create Homepage via Github Issues / [Github](https://github.com/rishi-raj-jain/itsmy.fyi)
 
