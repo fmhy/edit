@@ -325,6 +325,23 @@
 
 ***
 
+## ▷ System Audio
+
+* ⭐ **[Equalizer APO](https://equalizerapo.com/)**, **[AutoEq](https://autoeq.app/)**, [PeaceEqualizer](https://sourceforge.net/projects/peace-equalizer-apo-extension/) or [FXSound](https://www.fxsound.com/) - Audio Equalizers
+* [Wave Link](https://help.elgato.com/hc/en-us/articles/360044566172-Wave-Link-First-Time-Setup-for-Windows-10) or [VoiceMeeter](https://vb-audio.com/Voicemeeter/index.htm) / [Banana](https://vb-audio.com/Voicemeeter/banana.htm) - Audio Mixers / Multi-Device Playback
+* [SoundSwitch](https://soundswitch.aaflalo.me/) - Switch Audio Device with Hotkey / [GitHub](https://github.com/Belphemur/SoundSwitch)
+* [SonyHeadphonesClient](https://github.com/Plutoberth/SonyHeadphonesClient) - Sony Headphones Clone
+* [Audiocheck](https://www.audiocheck.net/) - Audio Tests
+* [LowAudioLatency](https://github.com/spddl/LowAudioLatency/) - Reduce Audio Latency
+* [DigitalFeed](https://abx.digitalfeed.net/) - Lossless Audio Sound System Test
+* [Online Mic Test](https://onlinemictest.com/) or [Check Mic](https://webcammictest.com/check-mic.html) - Mic Test
+* [Sound Meter](https://mybrowseraddon.com/sound-meter.html) or [REW](https://www.roomeqwizard.com) - Measure Surrounding Sound Level
+* [Krisp](https://krisp.ai/) or [noise-suppression-for-voice](https://github.com/werman/noise-suppression-for-voice) - Noise Suppression Tools
+* [AI-coustics](https://ai-coustics.com/) - Voice Clarity Enhancement AI
+* [AirPods Dirty Secret](https://docs.kenp.io/) - AirPods Repair Directory
+
+***
+
 # ► Windows ISOs
 
 * ⭐ **[MAS ISO Index](https://massgrave.dev/genuine-installation-media)** - Windows ISOs / [Discord](https://discord.gg/gjJEfq7ux8) / [MSDL](https://msdl.gravesoft.dev/)
@@ -391,7 +408,7 @@
 
 * ⭐ **[Rainmeter](https://www.rainmeter.net/)** - Desktop Customization
 * ⭐ **Rainmeter Tools** - [Skins](https://visualskins.com/) / [Utilities](https://github.com/Jax-Core), [2](https://www.deviantart.com/jaxoriginals) / [Menu Bar / App Launcher](https://www.droptopfour.com/)
-* ⭐ **[OpenRGB](https://openrgb.org/)** / [Beta](https://pastebin.com/tgY55J4n), **[WLED](https://kno.wled.ge/)**, [SignalRGB](https://www.signalrgb.com/), [LiquidCTL](https://github.com/liquidctl/liquidctl), [Artemis](https://artemis-rgb.com/), [RBGSync](https://rgbsync.com/) or [FireLight](https://github.com/nicolasdeory/firelight) - Lighting Control
+* ⭐ **[OpenRGB](https://openrgb.org/)** / [Beta](https://pastebin.com/tgY55J4n), **[WLED](https://kno.wled.ge/)**, [Aurora](https://www.project-aurora.com/), [SignalRGB](https://www.signalrgb.com/), [LiquidCTL](https://github.com/liquidctl/liquidctl), [Artemis](https://artemis-rgb.com/), [RBGSync](https://rgbsync.com/) or [FireLight](https://github.com/nicolasdeory/firelight) - Lighting Control
 * [VirtualCustoms](https://virtualcustoms.net/) or [winthemers](https://discord.com/invite/8FFWAqdtc4) - Customization Communities
 * [XDesktopSoft](https://www.xwidget.com/) - Desktop Customization
 * [Taskbar Tweaker](https://tweaker.ramensoftware.com/), [NiceTaskbar](https://www.microsoft.com/en-us/p/nicetaskbar/9pkl2s93xwb5) - Taskbar Customization Tools
@@ -423,7 +440,7 @@
 ## ▷ Custom Themes
 
 * 🌐 **[Awesome Ricing](https://github.com/fosslife/awesome-ricing)** or [Windows-Ricing](https://github.com/winthemers/wiki) - Windows Ricing Resources
-* ⭐ **[Dracula](https://draculatheme.com/)** / [Discord](https://discord.com/invite/yDcFsrYuq9), [Something Beautiful](https://rosepinetheme.com/) / [Discord](https://discord.gg/r6wf35KVJW), [Catppuccin](https://github.com/catppuccin) / [Discord](https://discord.gg/r6Mdz5dpFc), [Aura Theme](https://github.com/daltonmenezes/aura-theme), [Windhawk](https://windhawk.net/) or [theme.park](https://theme-park.dev/) - Custom App Themes
+* ⭐ **[Dracula](https://draculatheme.com/)** / [Discord](https://discord.com/invite/yDcFsrYuq9), [Catppuccin](https://github.com/catppuccin) / [Discord](https://discord.gg/r6Mdz5dpFc), [Something Beautiful](https://rosepinetheme.com/) / [Discord](https://discord.gg/r6wf35KVJW), [Aura Theme](https://github.com/daltonmenezes/aura-theme), [Windhawk](https://windhawk.net/) or [theme.park](https://theme-park.dev/) - Custom App Themes
 * ⭐ **[terminal.sexy](https://terminal.sexy/)**, [TerminalSplash](https://terminalsplash.com/), [Solarized](https://ethanschoonover.com/solarized) or [WindowsTerminalThemes](https://windowsterminalthemes.dev/) - Terminal Themes
 * [Windows 10 Themes](https://github.com/niivu/Windows-10-themes), [Windows 11 Themes](https://github.com/niivu/Windows-11-themes) or [VSThemes](https://vsthemes.org/en/) - Custom Windows Themes
 * [Chloechantelle Guide](https://www.ricing.chloechantelle.com/) or [Heliohost Guide](https://ninjasr.heliohost.org/w/lb/windows) - Windows Customization Guides
