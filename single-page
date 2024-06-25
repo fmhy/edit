@@ -194,7 +194,7 @@
 * ⭐ **[HaloMe](https://halome.nu/)** - Halo Menu Screens
 * [Ambicular](https://ambicular.com/), [DevTunes FM](https://radio.madza.dev/), [Lofi Music](https://lofimusic.app/), [Lofi Player](https://lofi-players.netlify.app/), [Lofi Club](https://loficlub.vercel.app/), [Lofi Limo](https://lofi.limo/) or [Lofi Generator](https://lofigenerator.com/) - Lofi Radio
 * [lofi-player](https://magenta.tensorflow.org/lofi-player), [2](https://magenta.github.io/lofi-player/) - Create Room / Lofi Player
-* [Music For Programming](https://musicforprogramming.net/latest/), [FocusTube](https://focustube.app/) or [Wisdom Tree](https://github.com/HACKER097/wisdom-tree/) - Music for Focus
+* [Music For Programming](https://musicforprogramming.net/latest/) or [Wisdom Tree](https://github.com/HACKER097/wisdom-tree/) - Music for Focus
 * [Noizio](https://noiz.io/) - Ambient
 * [Calmsound](https://www.calmsound.com/) - Ambient
 * [Moss Garden](https://moss.garden/) - Ambient
@@ -374,7 +374,7 @@
 * [Exystence](https://exystence.net/) - MP3 / FLAC
 * [ThemFire](https://themfire.pro/) - MP3 / FLAC
 * [FindFlac](http://findflac.com/) - FLAC / MP3 / MP4
-* [iPlusFree](https://www7.iplusfree.org/), [iTDMusic](https://itdmusic.in/), [iTopMusicx](https://itopmusicx.com/) or [Plus Premieres](http://www128.pluspremieres.biz/) - iTunes M4A
+* [iPlusFree](https://www7.iplusfree.org/), [iTDMusic](https://itdmusic.in/), [iTopMusicx](https://itopmusicx.com/) or [Plus Premieres](http://www129.pluspremieres.biz//) - iTunes M4A
 * [Archive.org](https://archive.org/) - MP3
 * [xprm](https://xprm.net/) - MP3 / DL / Stream / Requests
 * [Jimmy R](https://jimmyr.com/mp3_search.php) or [Musgle](http://www.musgle.com/) - Google Directory Search / MP3
@@ -386,7 +386,7 @@
 * [HeavyMetalRarities](https://heavymetalrarities.com/) - Metal / MP3
 * [GetMetal Club](https://getmetal.club/) - Metal / MP3 / FLAC
 * [Nuclear Holocaust]( https://nuclear-holocaust.blogspot.com/) - Metal / FLAC
-* [The Last Disaster](https://thelastdisaster.org/) - Metal / Hardcore / Rock / MP3 / FLAC
+* [The Last Disaster](https://thelastdisaster.vip/) - Metal / Hardcore / Rock / MP3 / FLAC
 * [Sophie's Floorboard](https://sophiesfloorboard.blogspot.com/) - Hardcore / MP3
 * [1Gabba](https://1gabba.pw/), [Gabber](https://gabber.od.ua/), [EDM Lake](https://edmlake.com/), [EDMBoost](https://edmboost.org/), [EDMWaves](https://edmwaves.org/), [MusicFans](https://musicfans.space/), [PSYFP](https://psyfp.ucoz.ru/), [DMO](https://dance-music.org/), [MyPromoSound](https://mypromosound.com/), [ElectronicFresh](https://electronicfresh.com/) or [InEvil](https://www.inevil.com/) - Electronic / MP3
 * [Ektoplazm](https://ektoplazm.com/) - Electronic / MP3 / FLAC
@@ -560,28 +560,18 @@
 
 * 🌐 **[Music Megathread](https://github.com/MoonWalker440/Music-Megathread/)** or **[AudioMarx](https://audiomarx.mixa.site/)** - Audio Resources
 * 🌐 **[Binaural Audio](https://binaural-audio.slite.page/p/i38zsD7728/Binaural-Audio)** - Binaural / 3D Audio Resources / [Discord](https://kutt.it/BinauralDiscord)
-* ↪️ **[Album Artwork](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_covers_.2F_posters)**
+* ↪️ **[System Audio Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/system-tools#wiki_.25B7_system_audio)**
 * ↪️ **[Voice Change / Clone](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/ai#wiki_.25B7_voice_change_.2F_clone)**
 * ↪️ **[Text to Speech](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/ai#wiki_.25B7_text_to_speech)**
+* ↪️ **[Album Artwork](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_covers_.2F_posters)**
 * ⭐ **[FFmpeg](https://ffmpeg.org/)**, [fre:ac](https://www.freac.org/), [FlicFlac](https://github.com/DannyBen/FlicFlac), [LameXP](https://sourceforge.net/projects/lamexp/) or [Sox](https://sourceforge.net/projects/sox/) - Audio Converters
-* ⭐ **[Equalizer APO](https://equalizerapo.com/)**, **[AutoEq]( https://autoeq.app/)**, [PeaceEqualizer](https://sourceforge.net/projects/peace-equalizer-apo-extension/) or [FXSound](https://www.fxsound.com/) - Audio Equalizers
 * ⭐ **[MP3Tag](https://www.mp3tag.de/en/)**, [beets.io](https://beets.io/) / [Guides](https://redd.it/11iaafu), [TagEditor](https://github.com/Martchus/tageditor), [EasyTAG](https://wiki.gnome.org/Apps/EasyTAG), [Kid3](https://kid3.kde.org/), [MetaTogger](https://www.luminescence-software.org/en/metatogger), [MusicBrainz](https://picard.musicbrainz.org/) or [TagScanner](https://www.xdlab.ru/en/) - Audio Metadata Organizers
 * ⭐ **[Pillowcase](https://pillowcase.su/)** - Audio File Host / 200MB (500MB With Account) / Forever
-* [tone](https://github.com/sandreas/tone) - View / Modify Audio Metadata
-* [Wave Link](https://help.elgato.com/hc/en-us/articles/360044566172-Wave-Link-First-Time-Setup-for-Windows-10) or [VoiceMeeter](https://vb-audio.com/Voicemeeter/index.htm) / [Banana](https://vb-audio.com/Voicemeeter/banana.htm) - Audio Mixers / Multi-Device Playback
-* [SoundSwitch](https://soundswitch.aaflalo.me/) - Switch Audio Device with Hotkey / [GitHub](https://github.com/Belphemur/SoundSwitch)
 * [Phiola](https://github.com/stsaz/phiola), [AudioToolSet](https://audiotoolset.com/) or [Safeaudiokit](https://safeaudiokit.com/) - Audio Multi-Tool Apps / Sites
+* [tone](https://github.com/sandreas/tone) - View / Modify Audio Metadata
 * [qAAC](https://github.com/nu774/qaac) - QuickTime AAC/ALAC encoder
 * [opus-tools](https://opus-codec.org/downloads/) - Encode, Inspect and Decode .opus Files
-* [Audiocheck](https://www.audiocheck.net/) - Audio Tests
-* [LowAudioLatency](https://github.com/spddl/LowAudioLatency/) - Reduce Audio Latency
-* [DigitalFeed](https://abx.digitalfeed.net/) - Lossless Audio Sound System Test
 * [Cleanfeed](https://cleanfeed.net/) - Live Audio Recording
-* [Online Mic Test](https://onlinemictest.com/) or [Check Mic](https://webcammictest.com/check-mic.html) - Mic Test
-* [Sound Meter](https://mybrowseraddon.com/sound-meter.html) or [REW](https://www.roomeqwizard.com) - Measure Surrounding Sound Level
-* [Krisp](https://krisp.ai/) or [noise-suppression-for-voice](https://github.com/werman/noise-suppression-for-voice) - Noise Suppression Tools
-* [AI-coustics](https://ai-coustics.com/) - Voice Clarity Enhancement AI
-* [AirPods Dirty Secret](https://docs.kenp.io/) - AirPods Repair Directory
 * [Musicara](https://www.musicara.ml/) or [X-Minus](https://x-minus.pro/) - Create Karaoke Songs
 * [Librescore Downloader](https://github.com/LibreScore/dl-librescore) - Librescore Downloader
 * [YADG](https://yadg.cc/) - Scrape Music Release Date Info / [API](https://yadg.cc/api/)
@@ -664,7 +654,6 @@
 * [Audire](https://github.com/alexmercerind/audire) - Android
 * [AmbientMusicMod](https://github.com/KieronQuinn/AmbientMusicMod) - Android
 * [Audile](https://github.com/aleksey-saenko/MusicRecognizer) - Android
-* [Audd](https://aaududd.io/) - API
 
 ***
 
