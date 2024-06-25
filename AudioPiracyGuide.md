@@ -291,6 +291,9 @@
 * [yewtube](https://github.com/mps-youtube/yewtube) - YouTube / 128kb AAC
 * [you-get](https://you-get.org/) - SoundCloud / Bilibili / 128kb MP3
 * [BandCamp-DL](https://github.com/iheanyi/bandcamp-dl) - Bandcamp / 128kbp MP3 / [Discord](https://discord.com/invite/nwdT4MP) / Free Only
+* [Sharky's EAC Guide](https://docs.google.com/document/d/1b1JJsuZj2TdiXs--XDvuKdhFUdKCdB_1qrmOMGkyveg) - CD Audio Ripping Guide
+* [Exact Audio Copy](https://www.exactaudiocopy.de/) or [Whipper](https://github.com/whipper-team/whipper) - CD / DVD Audio Ripper
+* [AccurateRip](http://www.accuraterip.com/) - Verify Ripped Tracks are Error-Free
 
 ***
 
@@ -563,21 +566,14 @@
 * ↪️ **[System Audio Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/system-tools#wiki_.25B7_system_audio)**
 * ↪️ **[Voice Change / Clone](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/ai#wiki_.25B7_voice_change_.2F_clone)**
 * ↪️ **[Text to Speech](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/ai#wiki_.25B7_text_to_speech)**
-* ↪️ **[Album Artwork](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_covers_.2F_posters)**
 * ⭐ **[FFmpeg](https://ffmpeg.org/)**, [fre:ac](https://www.freac.org/), [FlicFlac](https://github.com/DannyBen/FlicFlac), [LameXP](https://sourceforge.net/projects/lamexp/) or [Sox](https://sourceforge.net/projects/sox/) - Audio Converters
-* ⭐ **[MP3Tag](https://www.mp3tag.de/en/)**, [beets.io](https://beets.io/) / [Guides](https://redd.it/11iaafu), [TagEditor](https://github.com/Martchus/tageditor), [EasyTAG](https://wiki.gnome.org/Apps/EasyTAG), [Kid3](https://kid3.kde.org/), [MetaTogger](https://www.luminescence-software.org/en/metatogger), [MusicBrainz](https://picard.musicbrainz.org/) or [TagScanner](https://www.xdlab.ru/en/) - Audio Metadata Organizers
 * ⭐ **[Pillowcase](https://pillowcase.su/)** - Audio File Host / 200MB (500MB With Account) / Forever
 * [Phiola](https://github.com/stsaz/phiola), [AudioToolSet](https://audiotoolset.com/) or [Safeaudiokit](https://safeaudiokit.com/) - Audio Multi-Tool Apps / Sites
-* [tone](https://github.com/sandreas/tone) - View / Modify Audio Metadata
 * [qAAC](https://github.com/nu774/qaac) - QuickTime AAC/ALAC encoder
 * [opus-tools](https://opus-codec.org/downloads/) - Encode, Inspect and Decode .opus Files
 * [Cleanfeed](https://cleanfeed.net/) - Live Audio Recording
 * [Musicara](https://www.musicara.ml/) or [X-Minus](https://x-minus.pro/) - Create Karaoke Songs
 * [Librescore Downloader](https://github.com/LibreScore/dl-librescore) - Librescore Downloader
-* [YADG](https://yadg.cc/) - Scrape Music Release Date Info / [API](https://yadg.cc/api/)
-* [Sharky's EAC Guide](https://docs.google.com/document/d/1b1JJsuZj2TdiXs--XDvuKdhFUdKCdB_1qrmOMGkyveg) - CD Audio Ripping Guide
-* [Exact Audio Copy](https://www.exactaudiocopy.de/) or [Whipper](https://github.com/whipper-team/whipper) - CD / DVD Audio Ripper
-* [AccurateRip](http://www.accuraterip.com/) - Verify Ripped Tracks are Error-Free
 
 ***
 
@@ -637,6 +633,22 @@
 * [Gonic](https://github.com/sentriz/gonic)
 * [SynchronousAudioRouter](https://github.com/eiz/SynchronousAudioRouter)
 * [Ampache](https://ampache.org/)
+
+***
+
+## ▷ Audio Metadata
+
+* ↪️ **[Album Artwork](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_covers_.2F_posters)**
+* ⭐ **[MP3Tag](https://www.mp3tag.de/en/)** - Metadata Organizer
+* [YADG](https://yadg.cc/) - Scrape Music Release Date Info / [API](https://yadg.cc/api/)
+* [beets.io](https://beets.io/) - Metadata Organizer / [Guides](https://redd.it/11iaafu)
+* [TagEditor](https://github.com/Martchus/tageditor) - Metadata Organizer
+* [EasyTAG](https://wiki.gnome.org/Apps/EasyTAG) - Metadata Organizer
+* [tone](https://github.com/sandreas/tone) - Metadata Organizer
+* [Kid3](https://kid3.kde.org/) - Metadata Organizer
+* [MetaTogger](https://www.luminescence-software.org/en/metatogger) - Metadata Organizer
+* [MusicBrainz](https://picard.musicbrainz.org/) - Metadata Organizer
+* [TagScanner](https://www.xdlab.ru/en/) - Metadata Organizer
 
 ***
 
