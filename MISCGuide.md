@@ -313,6 +313,7 @@
 * [Netweather](https://www.netweather.tv/charts-and-data/global-jetstream) - Global Jetstream Forcast Map
 * [Cyclocane](https://www.cyclocane.com/) - Cyclone and Hurricane Tracker Map
 * [tornado.live](https://tornado.live/) - Real-time US Severe Weather Alerts Map
+* [Tropical Tidbits](https://www.tropicaltidbits.com/) - Hurricane Forecast Models
 * [Tornado Archive](https://tornadoarchive.com/) - Tornado Archive Data Explorer
 * [Find Your Tornado Shelter](https://findyourtornadoshelter.com/) - Tornado Shelter Map
 * [Blitzortung.org](https://www.blitzortung.org/en/live_lightning_maps.php) - Real-time Lightning and Thunderstorms Map

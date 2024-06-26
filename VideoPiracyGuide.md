@@ -477,7 +477,7 @@
 * [MMACore](https://www.mma-core.com) - MMA Replays
 * [BoxingVideo](https://boxingvideo.org/) - Boxing Replays
 * [Miselet](https://vk.com/video/@miselet) - Sumo Wrestling Replays
-* [NattoSumo](https://discord.gg/nattosumo) - Sumo Wrestling Highlights Discord
+* [NattoSumo](https://discord.gg/nattosumo) - Sumo Wrestling Highlights Discord / [Telegram](https://t.me/NattoSumo)
 * [AllTheBestFights](https://www.allthebestfights.com/) - MMA / Boxing / Kickboxing Replays
 * [TNA / Impact Replays](https://www.youtube.com/playlist?list=PLSadBNbijyoGV44wd96Fda7-GDYh9UktC) - TNA / Impact Wrestling Replays
 * [/r/MotorsportsReplays](https://reddit.com/r/MotorsportsReplays) - Motorsports Replays

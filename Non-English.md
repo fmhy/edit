@@ -1010,7 +1010,7 @@ https://aniwow.in/ has only dubs though
 
 ## ▷ Torrenting / Pirateando 
 
-* [Rei dos Torrents](https://reidostorrents.com) - Video / Audio/ Books
+* [Rei dos Torrents](https://reidostorrents.com) - Video / Audio / Books
 * [OnTorrent](https://ontorrent.org/) - Movies / TV
 * [Torrent dos Filmes](https://torrentdosfilmes.se) - Movies / TV
 * [Comando](https://comando.la) - Movies / TV

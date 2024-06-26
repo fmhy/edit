@@ -275,6 +275,7 @@
 * [Line of Action](https://line-of-action.com/), [Timed Figure Poses](https://www.youtube.com/playlist?list=PL7EWYwaF6E-FZ8JiBlz2tF1DQUCw-GCmn), [LoveLifeDrawing](https://www.lovelifedrawing.com/) or [Daily Life Drawing Sessions](https://www.youtube.com/playlist?list=PL7EWYwaF6E-Exv72kVT4yYJM2lX-Xf66I) - Figure Sketch Tools / Lessons
 * [Artist Reference](https://artist-reference.com) - Photo References for Artists
 * [Thomas Romain Perspective](https://ibb.co/album/chGtPJ?sort=name_asc) - Perspective Guide
+* [Dimensions](https://www.dimensions.com/) - Object Dimension Reference
 * [The Dimensions Of Colour](http://www.huevaluechroma.com/) - Colour Theory Guide
 * [DevinKorwin Color Guide](https://twitter.com/devinkorwin/status/1278049901709012995) - Color in Paintings Guide
 * [Draw Mix Paint](https://www.drawmixpaint.com/) - Learn Oil Painting

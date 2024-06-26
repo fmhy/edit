@@ -167,7 +167,7 @@
 
 ## ▷ Freeware Sites
 
-* 🌐 **[Awesome Open Source](https://awesomeopensource.com/)**, [OpenAlternative](https://openalternative.co/), [Opensource Builders](https://opensource.builders/), [OSSSoftware](https://osssoftware.org/), [Awesome OSS](https://github.com/RunaCapital/awesome-oss-alternatives), [Gadgeteer](https://gadgeteer.co.za/opensourcesoftware/) or [FossHub](https://www.fosshub.com/) - FOSS Indexes
+* 🌐 **[Awesome Open Source](https://awesomeopensource.com/)**, [OpenAlternative](https://openalternative.co/), [Opensource Builders](https://opensource.builders/), [OSSSoftware](https://osssoftware.org/), [OSS Gallery](https://oss.gallery/), [Awesome OSS](https://github.com/RunaCapital/awesome-oss-alternatives), [Gadgeteer](https://gadgeteer.co.za/opensourcesoftware/) or [FossHub](https://www.fosshub.com/) - FOSS Indexes
 * 🌐 **[Awesome Free Software](https://github.com/johnjago/awesome-free-software)**, [Windows Ultimate Collection](https://xdaforums.com/t/windows-ultimate-collection-guides.4507867/), [Free Lunch](https://github.com/auctors/free-lunch), [MajorGeeks](https://www.majorgeeks.com/content/page/top_freeware_picks.html) or [TinyApps](https://tinyapps.org/) - Freeware Indexes
 * 🌐 **[Awesome Selfhosted](https://awesome-selfhosted.net/)**, [2](https://gitlab.com/awesome-selfhosted/awesome-selfhosted) or [Selfh.st](https://selfh.st/apps/) - Selfhosted Software Indexes
 * 🌐 **[Adobe Alternatives](https://github.com/KenneyNL/Adobe-Alternatives)** - Adobe Software Alternative Index
