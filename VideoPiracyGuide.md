@@ -436,6 +436,7 @@
 * [LaCasadelTikiTaka](https://www.lacasadeltikitaka.net/) - Soccer / MMA
 * [Football](https://socceronline.me/) - Soccer
 * [StarPlay](https://3rd-delta.vercel.app/) - Soccer / Cricket
+* [NFLBite](https://nflbite.tv/) - Football
 * [MLB66](https://mlb66.ir/) - Baseball
 * [MLBshows](https://mlbshow.com/) - Baseball
 * [Aceztrims](https://aceztrims.pages.dev/) - Motorsports
