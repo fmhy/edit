@@ -423,7 +423,7 @@
 
 ## ▷ Temporary Email Sites
 
-* **Note** - If you're looking for something more private, an address that can forward emails to your inbox, or to just easily have conversations anonymously, check out our [Email Aliasing]() section. For details about tags, refer to [this resource]().
+* **Note** - If you're looking for something more private, an address that can forward emails to your inbox(??) (considering temp-mail.io), or to just easily have conversations anonymously, check out our [Email Aliasing]() section. For details about tags, refer to [this resource]().
 
 ***
 
@@ -433,27 +433,24 @@
 * ⭐ **[Tempr.email](https://tempr.email/en/)** - Forever / 1 Month / 50+ Domains
 * ⭐ **[Inboxes](https://inboxes.com/)** - Forever / 7 Days / 19 Domains
 * ⭐ **[Mail.tm](https://mail.tm/)** - Forever / 7 Days / 1 Domain
-* ⭐ **[Guerrilla Mail](https://www.guerrillamail.com/)** - Forever / 1 Hour / 11 Domains / [SharkLasers Domain](https://www.sharklasers.com/)
+* ⭐ **[temp-mail.io](https://temp-mail.io/)** - Forever / 1 Day / 12 Domains
+* ⭐ **[temp-mail.org](https://temp-mail.org/)** - Forever / 2 Hours / N/A / [Telegram Bot](https://t.me/TempMail_org_bot)
+* ⭐ **[Guerrilla Mail](https://www.guerrillamail.com/)** - Forever / 1 Hour / 11 Domains / [SharkLasers](https://www.sharklasers.com/)
 * ⭐ **[burner.kiwi](https://burner.kiwi/)** - 1 Day / 1 Day / 3 Domains
 * [Bloody Vikings!](https://addons.mozilla.org/en-US/firefox/addon/bloody-vikings/) - Temp Email Extension
 * [fakemailbot](https://t.me/fakemailbot) - Temp Email Telegram Bot
 * [Tmail.io](https://tmail.io/) - Gmail / Forever / 1 Day / 4 Domains
 * [22.Do](https://22.do/) - Gmail / 1 Day / 1 Day / 3 Domains
 ---
-new stars:
-* ⭐ **[temp-mail.org](https://temp-mail.org/)** - Forever / 2 Hours / N/A (confirmed 15+, 100+ possibility?)
-* ⭐ **temp-mail.org Tools** - [Android](https://play.google.com/store/apps/details?id=com.tempmail), [iOS](https://apps.apple.com/us/app/temp-mail-temporary-email/id1214259095), [Firefox](https://addons.mozilla.org/en-GB/firefox/addon/temp-mail/), [Chrome](https://chromewebstore.google.com/detail/temp-mail-disposable-temp/inojafojbhdpnehkhhfjalgjjobnhomj), [Telegram Bot](https://t.me/TempMail_org_bot)
-* ⭐ **[temp-mail.io](https://temp-mail.io/)** - Forever / 1 Day / 12 Domains --- (double check info)
----
 * [Dispostable](https://www.dispostable.com/) - Forever / 2 Months / 1 Domain
 * [YOPmail](https://yopmail.com/email-generator) - Forever / 8 Days / 100+ Domains
 * [TempMail.Plus](https://tempmail.plus/en/) - Forever / 7 Days / 9 Domains / [.onion](http://tempmail4gi5qfqzjs2bxo3wf6eurpelxmior6ohzq5vw7aeay67wiyd.onion/)
 * [instant-email.org](https://instant-email.org/) - Forever / 3 Days / 7 Domains
-* [inboxkitten](https://inboxkitten.com/) - Forever / 3 Days / 1 Domain
 * [Snapmail.cc](https://www.snapmail.cc/) - Forever / 2 Days / 3 Domains
 * [Mailnesia](https://mailnesia.com/) - Forever / 2 Days / 1 Domain
 * [Spambox](https://spambox.xyz/) - Forever / 1 Day / 4 Domains
 * [Maildrop](https://maildrop.cc/) or [Trashmail](https://trashmail.ws/) - Forever / 1 Day / 1 Domain
+* [Temp Mail ID](https://tempmailid.com/) - Forever / 30 Mins / 2 Domains
 * [Email Generator](https://generator.email/) - Forever / N/A / 100+ Domains
 ---
 * [DisposableMail](https://www.disposablemail.com/) or [FakeMail](https://www.fakemail.net/) - 14 Days / 14 Days / 1 Domain
