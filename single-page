@@ -217,7 +217,6 @@
 * [Ambient Mixer](https://www.ambient-mixer.com/) - User-Made Soundscapes
 * [VibeOcean](https://defonic.com/vibeocean.html) or [VirtCcean](https://virtocean.com/) - Ambient Ocean Sounds
 * [Calm](https://www.calm.com/app) - Meditation / Sleep Music
-* [Tide.fm](https://tide.fm/) - Meditation / Sleep Sounds
 * [ChillOuts](http://www.chillouts.com/) - Meditation Aid
 * [August Ambiance](https://augustambience.com/) - Ambient Summer Sounds / Relaxation
 * [ASMRion](https://asmrion.com/), [2](https://defonic.com) - Ambient Noise Generator
