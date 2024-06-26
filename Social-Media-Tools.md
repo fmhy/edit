@@ -135,6 +135,7 @@
 * [Automod Config](https://docs.google.com/spreadsheets/d/1pUGVAARMBadmNqQW6cPKhSaT-uYDgQlRBnlQ9TMDXTI/edit#gid=730346323) - Automod Bot Config
 * [Modmail](https://github.com/modmail-dev/modmail) - Discord Modmail Bot
 * [Discord-Linux](https://discord-linux.com/) - Linux Container Bot
+* [FixEmbed](https://github.com/kenhendricks00/FixEmbedBot) - Fix Embeds on Discord Bot
 
 ***
 
