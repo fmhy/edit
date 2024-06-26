@@ -219,6 +219,7 @@
 * ⭐ **[WiiUDownloader](https://github.com/Xpl0itU/WiiUDownloader)**, [WiiUSBHelper](https://github.com/FailedShack/USBHelperInstaller/releases), [WiiU ROMs](https://wiiuroms.net/) or [JNUSTool](https://gbatemp.net/threads/jnustool-nusgrabber-and-cdecrypt-combined.413179/) - ROMs / Wii U
 * [/r/ROMs](https://www.reddit.com/r/ROMs/) - Discussion Sub
 * [Vimms Lair](https://vimm.net/) - Emulators / ROMs
+* [SafeROMs](https://www.saferoms.com/) - Emulators / ROMs
 * [Gnarly Repacks](https://rentry.co/FMHYBase64#gnarly_repacks) - ROMs / Emulator Repacks
 * [ROM-Collections](https://rentry.co/ROM-Collections) - ROMs
 * [WowROMs](https://wowroms.com/en) - ROMs
@@ -551,6 +552,7 @@
 * ⭐ **[jiggie](https://jiggie.fun/)** - Custom Puzzles + Multiplayer
 * [Puzzle Party](https://artsandculture.google.com/experiment/puzzle-party/EwGBPZlIzv0KRw) - Multiplayer Jigsaws
 * [PuzzlePrime](https://www.puzzleprime.com/) - Problems / Puzzles
+* [Truncate](https://truncate.town/) - Crossword Strategy Game
 * [HoverCats](https://hovercats.gg/) - Multiplayer Crosswords
 * [Regex Cross­word](https://regexcrossword.com/) - Regex Cross­words
 * [Web Paint-by-Number](https://webpbn.com/) or [Nonograms](https://www.nonograms.org/) - Graphic Crosswords
