@@ -236,7 +236,7 @@
 * ⭐ **[Firehawk52](https://rentry.org/firehawk52)** - Deezer / Qobuz Premium Accounts
 * ⭐ **[Soulseek](https://slsknet.org/)** or [Nicotine+](https://nicotine-plus.org/) - Download App / [Stats](https://github.com/mrusse/Slsk-Upload-Stats-Tracker) / [Server App](https://github.com/slskd/slskd)
 * ⭐ **[Soggfy](https://github.com/Rafiuth/Soggfy)** - Spotify / 160kb Free / 320kb Premium
-* ⭐ **[spotDL](https://spotdl.readthedocs.io/en/latest/)** - YouTube / SoundCloud / 128kb AAC
+* [spotDL](https://spotdl.readthedocs.io/en/latest/) - YouTube / SoundCloud / 128kb AAC
 * [CLSpotify](https://agent255.github.io/clspotifyweb/) - Spotify / 160kb Free / 320kb Premium / [GitHub](https://github.com/agent255/clspotify) - Direct Downloader
 * [Spytify](https://jwallet.github.io/spy-spotify/overview.html) - Spotify / 160kb Free / 320kb Premium
 * [DownOnSpot](https://github.com/oSumAtrIX/DownOnSpot) - Spotify / 160kb Free / 320kb Premium
