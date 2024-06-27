@@ -24,7 +24,7 @@
 * [Streaming CSE](https://cse.google.com/cse?cx=006516753008110874046:cfdhwy9o57g##gsc.tab=0), [2](https://cse.google.com/cse?cx=006516753008110874046:o0mf6t-ugea##gsc.tab=0), [3](https://cse.google.com/cse?cx=98916addbaef8b4b6), [4](https://cse.google.com/cse?cx=0199ade0b25835f2e) - Multi-Site Search
 * [M4uFree](https://m4ufree.se/) - Movies / TV / Anime / 1080p / [Mirrors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_m4ufree_clones)
 * [Youplex](https://youplex.site/) - Movies / TV / Anime / 4K / 1080p / Ad-Free / [Telegram](https://t.me/youplexannouncments) / [Discord](https://discord.com/invite/5eWu9Vz6tQ)
-* [Rive](https://rivestream.vercel.app/), [2](https://rivestream.xyz/) - Movies / TV / Anime / 4K / 1080p / Ad-Free / [GitHub](https://github.com/Developabile/rive-next)
+* [Rive](https://rivestream.vercel.app/), [2](https://rivestream.xyz/), [3](https://cinemaos-v2.vercel.app/) - Movies / TV / Anime / 4K / 1080p / Ad-Free / [GitHub](https://github.com/Developabile/rive-next)
 * [HollyMovieHD](https://hollymoviehd.cc/), [YesHD](https://yeshd.net/) or [NovaMovie](https://novamovie.net/) - Movies / TV / Anime / 1080p / [Mirrors](https://hollymoviehd-official.com/)
 * [VidPlay](https://vidplay.org/) - Movies / TV / Anime / 1080p / Ad-Free / [Note](https://pastebin.com/kXrVBceh)
 * [YassFlix](https://yassflix.live/) - Movies / TV / Anime / 1080p / Ad-Free
@@ -121,7 +121,7 @@
 * ⭐ **[KickAssAnime](https://kickassanime.mx/)** - Sub / Dub / 1080p / [Mirrors](https://watchanime.io/) / [Discord](https://discord.gg/qduzrvTG6p)
 * ⭐ **[Animeflix](https://animeflix.gg/)**, [2](https://animeflix.li/) - Sub / Dub / 1080p / [Mirrors](https://animeflix.domains/)
 * ⭐ **[AllManga](https://allmanga.to/)** - Sub / Dub / 1080p / [](https://discord.gg/YbuYYUwhpP)
-* ⭐ **[GoGoAnime](https://gogoanime3.co/)**, [2](https://anitaku.to/) - Sub / Dub / 1080p
+* ⭐ **[GoGoAnime](https://gogoanime3.co/)**, [2](https://anitaku.to/), [3](https://daftanime.com/) - Sub / Dub / 1080p
 * ⭐ **GoGoAnime Tools** - [Mirrors](https://gogotaku.info/) / [Download Script](https://greasyfork.org/en/scripts/465970) / [DL Guide](https://rentry.org/gogodlscript) / [Discord](https://discord.gg/kyVfcGuCCQ)
 * ⭐ **[Layendimator](https://github.com/Layendan/Layendanimator)**, [Akuse](https://github.com/akuse-app/Akuse), [Anikin](https://github.com/jerry08/Anikin) or [Miru](https://miru.js.org/en/) - Desktop Streaming Apps
 * ⭐ **[Japanese Animated Film Classics](https://animation.filmarchives.jp/index.html)** - Japanese Animated Film Archive
@@ -132,11 +132,13 @@
 * [AnimeOwl](https://animeowl.live/) - Sub / Dub / 1080p / [Discord](https://discord.com/invite/xHYcvdMvZ2)
 * [123Anime](https://123animes.ru/) - Sub / Dub / 1080p
 * [Ryuk](https://ryuk.to/) - Sub / Dub / 1080p
+* [Animetsu](https://animetsu.cc/) - Sub / Dub / 1080p / [Discord](https://discord.com/invite/f2SvhcKCKS)
 * [Anipulse](https://www.anipulse.to/) - Sub / Dub / 1080p / [Discord](https://discord.gg/KKuCUgSHVs)
 * [Kaguya](https://kaguya.app/) - Sub / 1080p / [Discord](https://discord.gg/382BEFfER6)
 * [Genoanime](https://genoanime.com/) - Sub / Dub / 1080p / [Discord](https://discord.com/invite/TMe9eVs2YY)
 * [AnimeHeaven](https://animeheaven.me/) - Sub / 1080p / [Discord](https://discord.com/invite/QmgSMYD)
 * [AnimeNana](https://animenana.com/) - Sub / 1080p
+* [AnimeZ](https://animez.org/) - Sub / 1080p
 * [Animension](https://animension.to/) - Sub / Dub / 1080p
 * [Animegg](https://www.animegg.org/) - Sub / Dub / 1080p
 * [YugenAnime](https://yugenanime.tv/) - Sub / Dub / 1080p / [Discord](https://discord.gg/MQqwQREyCz)
@@ -145,6 +147,7 @@
 * [KissAnime](https://kissanime.com.ru/) - Sub / Dub / 1080p / [Discord](https://discord.com/invite/w5ghWQG8uM) / [Mirrors](https://kissanime.help/)
 * [Animetake](https://animetake.tv/) - Sub / 1080p
 * [AnimeFox](https://animefox.in/) - Sub / Dub / 1080p
+* [Shinigamii](https://www.shinigamii.pw/) - Sub / 1080p
 * [Vanime](https://v.hopmarks.com/home) - Sub / Dub / 1080p
 * [BestDubbedAnime](https://bestdubbedanime.com/) - Dub / 1080p / [Discord](https://discord.com/invite/f2pHvauUPu)
 * [DubbedAnime](https://dubbedanime.biz/) - Sub / Dub / 1080p
@@ -219,6 +222,7 @@
 * [LokLok](https://loklok.com/) - TV / Movies
 * [KissKH](https://kisskh.co/) - TV
 * [onedrama](https://onedrama.me/) - TV / Movies
+* [DramaFull](https://dramafull.net/) - TV / Movies
 * [Viki](https://www.viki.com/) - TV / Movies
 * [KDramaHood](https://kdramahood.com/home2/) - TV / Movies
 * [MyAsianTV](https://myasiantv.ac/) - TV / Movies
@@ -255,7 +259,7 @@
 * [Zero1Cine](https://zero1cine.com/) - AI Generated Films
 * [The Library of Congress](https://www.loc.gov/film-and-videos/) - Movies / Short Films
 * [USNationalArchives](https://www.youtube.com/@USNationalArchives) - Movies / Short Films
-* [Viddsee](https://www.viddsee.com/), [MAFF](https://www.maff.tv/), [Short of the Week](https://www.shortoftheweek.com/), [Argo](https://web.watchargo.com/), [Shortly](https://watch.shortly.film/) or [Audpop](https://audpop.com/) - Short Films
+* [Viddsee](https://www.viddsee.com/), [Shortverse](https://www.shortverse.com/explore), [MAFF](https://www.maff.tv/), [Short of the Week](https://www.shortoftheweek.com/), [Argo](https://web.watchargo.com/), [Shortly](https://watch.shortly.film/) or [Audpop](https://audpop.com/) - Short Films
 * [HuntleyArchives](https://www.huntleyarchives.com/) - Rare / Forgotten Short Films
 * [0xDB](https://0xdb.org/) - Rare Movies / [How-to](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/find-rare-movies#wiki_method_2_-_streaming)
 * [FootageFarm](https://footagefarm.com/) - Public Domain Films
@@ -274,9 +278,9 @@
 * [NFSA](https://www.nfsa.gov.au/) - Australian Film Archive
 * [NGA Taonga](https://www.ngataonga.org.nz/search-use-collection/search/) or [NZOnScreen](https://www.nzonscreen.com/) - New Zealand Video Archive
 * [NLS](https://www.nls.uk/), [2](https://movingimage.nls.uk/) - Scottish Film Archive
-* [Northern Ireland Screen](https://digitalfilmarchive.net/) - Irish Film Archive
+* [Northern Ireland Screen](https://digitalfilmarchive.net/) or [IFI Archive](https://ifiarchiveplayer.ie/) - Irish Film Archives
 * [Cinematheque](https://www.cinematheque.fr/henri/english/) - Rare French Film Archive
-* [Stiftung imai](https://stiftung-imai.de/) or [Film Portal](https://www.filmportal.de/en/videos) - German Video Archives
+* [Stiftung imai](https://stiftung-imai.de/), [Digitaler Lesesaal](https://digitaler-lesesaal.bundesarchiv.de/en) or [Film Portal](https://www.filmportal.de/en/videos) - German Video Archives
 * [35mm](https://35mm.online/en) - Polish Film Archive
 * [FilmPolski](https://filmpolski.pl/fp/index.php) - Polish Video Archive
 * [Danish Silent Film](https://www.stumfilm.dk/en/stumfilm) - Silent Danish Film Archive
@@ -364,6 +368,7 @@
 * [CXtv](https://www.cxtvlive.com/) - TV / Sports
 * [TV247](https://tv247.us/) - TV / Sports
 * [TvFlix](https://tvflix.netlify.app/) - TV / Sports
+* [24LiveTV](https://24livetv.us/), [2](https://usatvgo.live/) - TV / Sports
 * [FreeInterTV](http://www.freeintertv.com/) - TV / Sports
 * [huhu.to](http://huhu.to/) or [oha.to](http://oha.to/) - TV / Sports
 * [vipotv](https://vipotv.com/) - TV / Sports
@@ -466,6 +471,7 @@
 * [MLBLive](https://mlblive.net/) - Baseball Replays
 * [FullReplays](https://www.fullreplays.com/) - Soccer Replays
 * [FootballOrigin](https://www.footballorgin.com/) - Soccer Replays
+* [123footy](https://123footy.com/) - Soccer Replays
 * [Footballia](https://footballia.net/), [2](https://footballia.eu/) - Soccer Replays
 * [Footyfull](https://footyfull.com/) - Soccer Replays
 * [/r/footballhighlights/](https://www.reddit.com/r/footballhighlights/) - Soccer Replays
@@ -812,7 +818,7 @@
 * [Subshifter](https://subshifter.bitsnbites.eu/), [subsync](https://github.com/sc0ty/subsync), [ffsubsync](https://github.com/smacke/ffsubsync), [autosubsync-mpv](https://github.com/joaquintorres/autosubsync-mpv), [Alass](https://github.com/kaegi/alass), [autosubsync](https://github.com/oseiskar/autosubsync) - Sync Subtitles
 * [asstosrt-wasm](https://sorz.github.io/asstosrt-wasm/) - ASS / SSA to SRT Subtitles Converter
 * [RenameThemSubs](https://github.com/Eshaan7/RenameThemSubs) - Rename Sub Files to match Video
-* [Subvert](https://subvert.dev/), [pyTranscriber](https://pytranscriber.github.io/), [Auto-Subtitle](https://www.veed.io/tools/auto-subtitle-generator-online), [FreeSubtitlesAI](https://freesubtitles.ai/), [Vibe](https://thewh1teagle.github.io/vibe/), [ecoute](https://github.com/SevaSk/ecoute) or [autosub](https://github.com/agermanidis/autosub), [2](https://github.com/BingLingGroup/autosub) - Video Transcribers
+* [Revoldiv](https://revoldiv.com/), [Subvert](https://subvert.dev/), [pyTranscriber](https://pytranscriber.github.io/), [Auto-Subtitle](https://www.veed.io/tools/auto-subtitle-generator-online), [FreeSubtitlesAI](https://freesubtitles.ai/), [Vibe](https://thewh1teagle.github.io/vibe/), [ecoute](https://github.com/SevaSk/ecoute) or [autosub](https://github.com/agermanidis/autosub), [2](https://github.com/BingLingGroup/autosub) - Video Transcribers
 * [CCaptioner](https://github.com/gorhill/ccaptioner) - Add Subtitles to Videos / Extension
 * [subtitle.js](https://github.com/gsantiago/subtitle.js) - Parse and manipulate SRT (SubRip)
 * [TranslatesSubtitles](https://translatesubtitles.com/) or [FreeSubtitles](https://freesubtitles.org/)- Translate Subtitles
