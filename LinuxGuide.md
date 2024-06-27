@@ -82,8 +82,8 @@
 * [CoreELEC](https://coreelec.org) / [GitHub](https://github.com/CoreELEC/CoreELEC) or [LibreELEC](https://libreelec.tv/) - Kodi-Based Operating System
 * [WSL](https://learn.microsoft.com/en-us/windows/wsl/)  - Run Linux on Windows / [Resources](https://github.com/sirredbeard/Awesome-WSL) / [Startup Launcher](https://github.com/nullpo-head/wsl-distrod) / [Wayland / X Server](https://github.com/microsoft/wslg)
 * [Boxes](https://wiki.gnome.org/Apps/Boxes) - Virtual Machine Manager
-* [Linux-KVM](https://www.linux-kvm.org/page/Downloads) - Kernel-Based Virtual Machine
-* [OSX-KVM](<https://github.com/kholia/OSX-KVM>), [OneClick-macOS-Simple-KVM](<https://notAperson535.github.io/OneClick-macOS-Simple-KVM>) or [macOS-Simple-KVM](<https://github.com/foxlet/macOS-Simple-KVM>) - macOS Virtual
+* [fvwm](https://www.fvwm.org/) or [Linux-KVM](https://www.linux-kvm.org/page/Downloads) - Virtual Machines
+* [OSX-KVM](https://github.com/kholia/OSX-KVM), [OneClick-macOS-Simple-KVM](https://notAperson535.github.io/OneClick-macOS-Simple-KVM) or [macOS-Simple-KVM](https://github.com/foxlet/macOS-Simple-KVM) - macOS Virtual Machines
 * [kmon](https://kmon.cli.rs/) - Kernel Manager and Activity Monitor
 * [Kernel Map](https://makelinux.github.io/kernel/map/) - Interactive Linux Kernel Map
 * [SystemRescue](https://www.system-rescue.org/) or [Super Grub2 Disk](https://www.supergrubdisk.org/super-grub2-disk/) - Bootable System Rescue Toolkits
@@ -597,10 +597,10 @@ Linux Gaming Guide
 * [OnlySwitch](https://github.com/jacklandrin/OnlySwitch) - Menu Bar Toggle Switches
 * [Sloth](https://github.com/sveinbjornt/Sloth) - Process Manager
 * [pongoOS](https://github.com/checkra1n/pongoOS) - Mac Pre-Boot Executor
-* [Yabai](https://github.com/koekeishiya/yabai), [Amethyst](https://ianyh.com/amethyst/) / [GitHub](https://github.com/ianyh/Amethyst), [1Piece](https://app1piece.com/), [Spaces](https://spacesformac.xyz/), [AeroSpace](https://github.com/nikitabobko/AeroSpace), [Phoenix](https://kasper.github.io/phoenix/) or [Rectangle](https://rectangleapp.com/) - Window Managers
+* [Yabai](https://github.com/koekeishiya/yabai), [Amethyst](https://ianyh.com/amethyst/) / [GitHub](https://github.com/ianyh/Amethyst), [1Piece](https://app1piece.com/), [Spaces](https://spacesformac.xyz/), [Loop](https://github.com/MrKai77/Loop), [AeroSpace](https://github.com/nikitabobko/AeroSpace), [Phoenix](https://kasper.github.io/phoenix/) or [Rectangle](https://rectangleapp.com/) - Window Managers
 * [Later](https://getlater.app/) - Restore App Sessions
 * [AlDente](https://apphousekitchen.com/) - Charging Manager
-* [Unlocker](https://rentry.co/FMHYBase64#vmware) - VMware Unlocker
+* [VMware](https://rentry.co/FMHYBase64#vmware) - Virtual Machine
 * [USBMap](https://github.com/corpnewt/USBMap) - Map MacOS USB Ports
 * [MacVim](https://macvim.org/), [CodeEdit](https://www.codeedit.app/) or [AuroraEditor](https://auroraeditor.com/) - Code Editors
 * [iTerm2](https://iterm2.com/) - Replacements for Terminal
