@@ -61,8 +61,8 @@
 
 ### To-Do Apps
 
+* ⭐ **[Tasks](https://tasks.org/)** - Sync Supported
 * ⭐ **[SnapTick](https://github.com/vishal2376/snaptick)**
-* [Tasks](https://tasks.org/) - Sync Supported
 * [Any.do](https://www.any.do/) - Sync Supported
 * [doable](https://doable.at/) - Sync Supported / Extensions
 * [Orgzly-revived](https://www.orgzly.com) - Sync Supported
