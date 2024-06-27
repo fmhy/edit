@@ -9,7 +9,7 @@ sidebar: false
 footer: true
 ---
 
-<Post authors="['nbats']"></Post>
+<Post authors="['nbats']" />
 
 ### [FMHY-Search](https://fmhy-search.streamlit.app/)
 
@@ -37,13 +37,13 @@ GitHub page search engine
 
 ### [Python Script](https://github.com/Rust1667/a-FMHY-search-engine)
 
-Search Markdown via a Python script
+Search markdown via python script
 
 ---
 
 ### [Raw Markdown](https://raw.githubusercontent.com/nbats/FMHYedit/main/single-page)
 
-Search Markdown manually (Ctrl + F)
+Search markdown manually (ctrl+f)
 
 ---
 

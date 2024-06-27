@@ -12,12 +12,10 @@ footer: true
 # Wiki Updates
 
 - Split Android Tools into subsections:
-  [Optimization](https://fmhy.net/android-iosguide#optimization), [Battery](https://fmhy.net/android-iosguide#battery-tools), [Keyboard](https://fmhy.net/android-iosguide#keyboard-text), [Screen](https://fmhy.net/android-iosguide#screen-tools), [Files](https://fmhy.net/android-iosguide#android-file-tools),
-  [Root / Flash](https://fmhy.net/android-iosguide#root-flash), [Productivity](https://fmhy.net/android-iosguide#productivity-calendars), [Maps](https://fmhy.net/android-iosguide#maps-location), [Notifications](https://fmhy.net/android-iosguide#notifications-widgets)
-  and [Social Media](https://fmhy.net/android-iosguide#social-media-apps).
+[Optimization](https://fmhy.net/android-iosguide#optimization), [Battery](https://fmhy.net/android-iosguide#battery-tools), [Keyboard](https://fmhy.net/android-iosguide#keyboard-text), [Screen](https://fmhy.net/android-iosguide#screen-tools), [Files](https://fmhy.net/android-iosguide#android-file-tools),
+[Root / Flash](https://fmhy.net/android-iosguide#root-flash), [Productivity](https://fmhy.net/android-iosguide#productivity-calendars), [Maps](https://fmhy.net/android-iosguide#maps-location), [Notifications](https://fmhy.net/android-iosguide#notifications-widgets) and [Social Media](https://fmhy.net/android-iosguide#social-media-apps). 
 
-- Added [Abandonware](https://fmhy.net/gamingpiracyguide#abandonware), [MOBA](https://fmhy.net/gamingpiracyguide#moba-tools), [Gacha](https://fmhy.net/gamingpiracyguide#gacha-tools), [Counter-Strike](https://fmhy.net/gamingpiracyguide#counter-strike-tools), [Doom](https://fmhy.net/gamingpiracyguide#doom-tools)
-and [Controller Tool](https://fmhy.net/gamingpiracyguide#controller-tools) sections to Gaming.
+- Added [Abandonware](https://fmhy.net/gamingpiracyguide#abandonware), [MOBA](https://fmhy.net/gamingpiracyguide#moba-tools), [Gacha](https://fmhy.net/gamingpiracyguide#gacha-tools), [Counter-Strike](https://fmhy.net/gamingpiracyguide#counter-strike-tools), [Doom](https://fmhy.net/gamingpiracyguide#doom-tools) and [Controller Tool](https://fmhy.net/gamingpiracyguide#controller-tools) sections to Gaming.
 
 - Added [Toys / Figures](https://fmhy.net/miscguide#toys-figures) section to Shopping.
 
@@ -31,8 +29,7 @@ and [Controller Tool](https://fmhy.net/gamingpiracyguide#controller-tools) secti
 
 - Our [FMHY Social](https://social.fmhy.net/@fmhy) (fediverse instance / account) is now live.
 
-- Removed wiki from saidit. It is our least used version, so we're not sure if it is worth the effort. If enough people want it
-  back, we will reconsider.
+- Removed wiki from saidit. Its our least used version so we're not sure its worth the effort. If enough people want it back we'll reconsider.
 
 ---
 
@@ -40,11 +37,9 @@ and [Controller Tool](https://fmhy.net/gamingpiracyguide#controller-tools) secti
 
 - Starred [Streamed](https://fmhy.net/videopiracyguide#live-sports) in Live Sports. Fast streams, no ads.
 
-- Starred [Poke](https://fmhy.net/social-media-tools#youtube-frontends) in YouTube Frontends. Nice UI, download support,
-  no ads.
+- Starred [Poke](https://fmhy.net/social-media-tools#youtube-frontends) in YouTube Frontends. Nice UI, download support, no ads.
 
-- Starred [Motrix](https://fmhy.net/file-tools#download-managers) in Download Managers. Some people prefer this over
-  JDownloader / IDM.
+- Starred [Motrix](https://fmhy.net/file-tools#download-managers) in Download Managers. Some people prefer this over Jdownloader / IDM.
 
 - Starred [Openlib](https://fmhy.net/android-iosguide#android-reading) in Android Reading. Anna’s Archive app.
 
@@ -54,36 +49,30 @@ and [Controller Tool](https://fmhy.net/gamingpiracyguide#controller-tools) secti
 
 - Starred [Claude](https://fmhy.net/ai#online-chatbots) in Online Chatbots. Works better than things like gemini.
 
-- Starred [Soft98](https://fmhy.net/downloadpiracyguide#software-sites) in Software Sites. Big library, single click
-  DDL.
+- Starred [Soft98](https://fmhy.net/downloadpiracyguide#software-sites) in Software Sites. Big library, single click DDL.
 
 - Starred [JellyPlayer](https://fmhy.net/video-tools#jellyfin-tools) in Jellyfin Tools. Modern Jellyfin client.
 
-- Starred [UniGetUI](https://fmhy.net/system-tools#package-managers) in Package Managers. Nice user-interface for
-  Winget.
+- Starred [UniGetUI](https://fmhy.net/system-tools#package-managers) in Package Managers. Nice user-interface for Winget.
 
-- Starred [Zipline](https://fmhy.net/img-tools#screenshot-tools) in Screenshot Tools. Self-hosted, feature-rich ShareX
-  server.
+- Starred [Zipline](https://fmhy.net/img-tools#screenshot-tools) in Screenshot Tools. Self-hosted, feature-rich ShareX server.
 
-- Starred [WSABuilds](https://fmhy.net/android-iosguide#android-emulators) in Android Emulators. Pre-built WSA binaries
-  that will continue to be [updated](https://ibb.co/R4hssDc).
+- Starred [WSABuilds](https://fmhy.net/android-iosguide#android-emulators) in Android Emulators. Pre-built WSA binaries that will continue to be [updated](https://ibb.co/R4hssDc).
 
-- Starred [SmartImage](https://fmhy.net/img-tools#reverse-image-search) in Reverse Image Search. Multi-site reverse
-  image search tool.
+- Starred [SmartImage](https://fmhy.net/img-tools#reverse-image-search) in Reverse Image Search. Multi-site reverse image search tool.
 
 ---
-
+ 
 # Things Removed
 
 - Removed free-mp3-download as they've shutdown.
 
-- Removed HolyUnblocker as
-  they've [shutdown](https://github.com/QuiteAFancyEmerald/Holy-Unblocker?tab=readme-ov-file#important-message-original).
+- Removed HolyUnblocker as they've [shutdown](https://github.com/QuiteAFancyEmerald/Holy-Unblocker?tab=readme-ov-file#important-message-original).
 
 - Removed WSA as support for it has been [dropped](https://ibb.co/zxB565S).
 
 - Unstarred FlixHQ in Streaming. This used to be good but seems to be a lot slower recently.
-
+ 
 ***
 
 ### [Previous Update Threads](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/updates)
@@ -94,8 +83,6 @@ and [Controller Tool](https://fmhy.net/gamingpiracyguide#controller-tools) secti
 
 ---
 
-*Note - These update threads only contain major updates. If you're interested in seeing all minor changes, you can
-follow our commits page on [GitHub](https://github.com/fmhy/FMHYedit/commits/main). Also keep in mind that this thread
-will be deleted and [archived](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/updates) at the end of the month.*
+*Note - These update threads only contains major updates. If you're interested in seeing all minor changes you can follow our commits page on [GitHub](https://github.com/fmhy/FMHYedit/commits/main). Also keep in mind that this thread will be deleted and [archived](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/updates) at the end of the month.*
 
 ---
