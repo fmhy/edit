@@ -173,6 +173,7 @@
 * 🌐 **[Toolify](https://www.toolify.ai/)** - AI Directory
 * 🌐 **[Phygital Library](https://library.phygital.plus/)** - AI Directory / Workflow Builder
 * 🌐 **[LifeArchitect](https://lifearchitect.ai/models-table/)** - LLM Index
+* 🌐 **[AI Search](https://ai-search.io)** - AI Tools Search
 * [WildBench](https://huggingface.co/spaces/allenai/WildBench) - Chatbot Benchmarks
 * [ArtificialAnalysis](https://artificialanalysis.ai/) - Chatbot Benchmarks
 * [The Fastest AI](https://thefastest.ai/) - Chatbot Benchmarks
