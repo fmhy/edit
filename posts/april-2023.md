@@ -9,7 +9,7 @@ sidebar: false
 footer: true
 ---
 
-<Post authors="['nbats']"></Post>
+<Post authors="['nbats']" />
 
 **Wiki Updates**
 
@@ -44,7 +44,7 @@ footer: true
   that turns any book into a chatbot.
 
 - Starred [Foogle](/videopiracyguide/#drives--directories)
-  in Video Download. Fast, single-click video downloads.
+  in Video Download. Fast, single click video downloads.
 
 - Starred [JustChill](/videopiracyguide/#dedicated-hosts)
   in Streaming Sites. Nice UI, fast 1080p.
@@ -69,13 +69,13 @@ footer: true
 **Things Removed**
 
 - Removed FTUApps. FTU got caught with [malware](https://redd.it/120xk62) by
-  r/Piracy.
+  /r/Piracy.
 
 - Removed star from FileCR. They added new anti-adblock measures recently, and
   adblock defenders are no longer working for many users.
 
 - Removed anti-anti-copy userscript. Script enables F7 "Caret Browsing mode"
-  without telling the user it has been enabled, or how to turn it off.
+  without telling the user its been enabled, or how to turn it off.
 
 ---
 

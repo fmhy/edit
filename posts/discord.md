@@ -9,7 +9,7 @@ sidebar: false
 footer: true
 ---
 
-<Post authors="['nbats']"></Post>
+<Post authors="['nbats']" />
 
 # Public URL: https://discord.gg/5W9QJKuPkD
 
