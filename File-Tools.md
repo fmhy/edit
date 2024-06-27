@@ -276,7 +276,6 @@
 * ⭐ **[1fichier.com](https://1fichier.com/)** - 300GB / 15 Days (30 Days With Account)
 * ⭐ **[file.haus](https://filehaus.top/)** - 200GB / Forever / [.pk](https://filehaus.pk/) / [.su](https://filehaus.su/) / [.onion](http://fileha3hjvudqs2moembtaegnpjo5ptec3tomf5dlxx6ydwtajkkahyd.onion/) / [.i2p](http://xr256v4weabr3rdz3nqzb27bv3gkwjisuf2d57urqtmh3gx3w7da.b32.i2p/) / [.loki](http://nipqehne9zrtpryw6ig5y9gu7c8gwt8ymrrncufxg1g8wf5t4rqo.loki/) / [Discord](https://discord.gg/5Ac25XZfv6) / [Telegram](https://t.me/tsutajanet)
 * ⭐ **[Send.cm](https://send.cm/)** - 100GB / 15 Days
-* ⭐ **[Cipher Files](https://cipherfiles.com/)** - 5GB / Forever / [Discord](https://discord.gg/DmRhftYcvN)
 * ⭐ **[Pillowcase](https://pillowcase.su/)** - Audio File Host / 200MB (500MB With Account) / Forever
 * ⭐ **[Catbox](https://catbox.moe/)** - 200MB / Forever
 * ⭐ **[Qiwi](https://qiwi.gg)** - Account Required / [Note](https://pastebin.com/QJDbgtRJ)
