@@ -292,7 +292,7 @@
 ## ▷ Database Tools
 
 * 🌐 **[DB Engines](https://db-engines.com/en/ranking)** - Database Rankings
-* 🌐 **[Awesome Opensource Data Engineering](https://github.com/gunnarmorling/awesome-opensource-data-engineering)** - Data Engineering Resources
+* 🌐 **[Awesome Opensource Data Engineering](https://github.com/gunnarmorling/awesome-opensource-data-engineering)** - Data Engineering Tools
 * 🌐 **[Awesome Big Data](https://github.com/newTendermint/awesome-bigdata)** - Big Data Resources
 * [Grafana](https://grafana.com/) - Dev Data Dashboard
 * [DBeaver](https://dbeaver.io/) - Universal Database Tool
@@ -748,6 +748,7 @@
 ## ▷ Data Science
 
 * 🌐 **[Awesome DataScience](https://github.com/academic/awesome-datascience)** - Data Science Resources
+* 🌐 **[Data Engineer Handbook](https://github.com/DataExpert-io/data-engineer-handbook)** - Data Engineer Resources
 * ⭐ **[Open Source Society University (OSSU](https://github.com/ossu/data-science)** - Data Science Roadmap
 * [Mage](https://www.mage.ai/) - Data Science Pipelines
 * [Data Science Resources](https://rentry.co/FMHYBase64#data-science-resources) - Data Science Learning Resources
@@ -836,7 +837,7 @@
 * 🌐 **[Awesome Python](https://awesome-python.com/)** - Python Resources
 * 🌐 **[Python Discord](https://pythondiscord.com/resources/)**, [Python Programming Hub](https://github.com/Tanu-N-Prabhu/Python) or [Python Reference](https://github.com/rasbt/python_reference) - Python Learning Resources
 * ⭐ **[Automate The Boring Stuff](https://automatetheboringstuff.com/)** - Python Automation Book
-* [30 Days Of Python](https://github.com/Asabeneh/30-Days-Of-Python) - Python Guide
+* [30 Days Of Python](https://github.com/Asabeneh/30-Days-Of-Python) or [Hitchhiker’s Guide to Python](https://docs.python-guide.org/) - Python Guides
 * [Python AI](https://community.uuki.live/course/tdb3Vsl1/python-course/aitutor) - AI Python Tutor
 * [CodingBat](https://codingbat.com/python) or [PyQuickie](https://chromewebstore.google.com/detail/pyquickie/okpdnfgpbpifbncoleieajiblmebbkci) - Python Practice
 * [Python4Everyone](https://py4e.com/), [A Byte of Python](https://python.swaroopch.com/), [Hypermodern Python](https://cjolowicz.github.io/posts/hypermodern-python-01-setup/), [DataCamp](https://www.datacamp.com/), [Learn Python](https://www.learnpython.org/), [Learn-Python](https://github.com/trekhleb/learn-python) or [Magical Universe](https://github.com/zotroneneis/magical_universe) - Learn Python
@@ -1026,7 +1027,7 @@
 
 * ⭐ **[React](https://react.dev/)** - JS Library
 * [OpenChakra](https://openchakra.app/) or [Plate](https://platejs.org/) - React Code Editors
-* [React Suite](https://rsuitejs.com/) - React Components
+* [React Suite](https://rsuitejs.com/) or [Radix UI](https://www.radix-ui.com/) - React Components
 * [Bulletproof React](https://github.com/alan2207/bulletproof-react) - React App Architecture
 * [React Native Apps](https://github.com/ReactNativeNews/React-Native-Apps/) - React App Examples
 * [Aspect](https://sample-code.aspect.app/) - Copy React Code from Any Site
