@@ -147,11 +147,11 @@
 
 * ⭐ **[QuillBot AI](https://quillbot.com/)** - Text Rephrasing
 * ⭐ **[paraphrasetool](https://paraphrasetool.com/)** or [Rephrasely](https://rephrasely.com/) - Text Rephrasing
-* ⭐ **[henshu](https://www.henshu.ai/)** - Text Rephrasing
 * [Paraphraser](https://www.paraphraser.io/) - Text Rephrasing
 * [Paraphrase-Online](https://paraphrase-online.com/) - Text Rephrasing
 * [paraphrasingtool](https://paraphrasingtool.ai/) - Text Rephrasing
 * [SMMRY](https://smmry.com/) - Text Summary
+* [henshu](https://www.henshu.ai/) - Text Rephrasing
 * [Recast](https://www.letsrecast.ai/) - Text Summary
 
 ***
