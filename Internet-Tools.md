@@ -150,6 +150,7 @@
 * [LinkSpace.Bio](https://linkspace.bio/)
 * [Campsite.bio](https://campsite.bio/)
 * [Taplink](https://taplink.at/)
+* [Lynk](https://lynk.id/)
 * [Linkezo](https://linkezo.com/)
 * [Linkr](https://linkr.com/)
 * [LinkBun](https://linkbun.io)
