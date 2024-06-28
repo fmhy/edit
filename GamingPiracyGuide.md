@@ -315,7 +315,7 @@
 * [QAOP](https://torinak.com/qaop/games) - ZX Spectrum
 * [MSXGamesWorld](https://www.msxgamesworld.com/) or [CheatMSX](https://www.cheatmsx.com/) - MSX Browser Emulators
 * [CommodoreGames](https://www.commodoregames.net/) or [C64Online](https://c64online.com/) - C64 Browser Emulators
-* [Super Mario Bros](https://supermariobros.io/), [SuperMarioBrosGames](https://supermariobrosgames.com/) or [SMBGames](https://smbgames.be/) - Super Mario Browser Emulators
+* [SMBGames](https://smbgames.be/) - Super Mario Browser Emulator
 * [SMWGames](https://www.smwgames.com/) - Hacked Super Mario World Browser Emulators
 * [Jelly Mario](https://jellymar.io/) - Jelly Super Mario
 * [Level Share Square](https://levelsharesquare.com/) - Custom Maps for Mario Fangames
