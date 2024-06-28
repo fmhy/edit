@@ -11589,7 +11589,7 @@ import Index from './.vitepress/theme/Posts.vue'
 * 🌐 **[Awesome Gnome](https://github.com/Kazhnuz/awesome-gnome)** - GNOME Resources
 * ⭐ **[Ventoy](https://www.ventoy.net)** / [GitHub](https://github.com/ventoy/Ventoy) or [Impression](https://gitlab.com/adhami3310/Impression) - Create Bootable USB Linux Drives
 * ⭐ **[Btop](https://github.com/aristocratos/btop)**, **[fastfetch](https://github.com/fastfetch-cli/fastfetch)**, **[MangoHud](https://github.com/flightlessmango/MangoHud)**, [CPU-X](https://github.com/TheTumultuousUnicornOfDarkness/CPU-X), [Macchina](https://github.com/Macchina-CLI/macchina), [Archey4](https://github.com/HorlogeSkynet/archey4), [Hyfetch](https://github.com/hykilpikonna/hyfetch) or [s-tui](https://github.com/amanusk/s-tui) - System Info / Resource Monitors
-* :star: **[TimeShift](https://github.com/linuxmint/timeshift)** - System Restore / Backup
+* ⭐ **[TimeShift](https://github.com/linuxmint/timeshift)** - System Restore / Backup
 * [DistroSea](https://distrosea.com/), [anuraOS](https://github.com/MercuryWorkshop/anuraOS) - Linux Browser Emulator
 * [SysmonForLinux](https://github.com/Sysinternals/SysmonForLinux) - Monitor / Log System Activity
 * [screenFetch](https://github.com/KittyKatt/screenFetch) - Bash Screenshot Information Tool
@@ -11988,7 +11988,7 @@ Linux Gaming Guide
 * [bash_loading_animations](https://github.com/Silejonu/bash_loading_animations) - Bash Loading Animations
 * [bash-it](https://github.com/Bash-it/bash-it) or [Bashly](https://bashly.dannyb.co/) - Bash Frameworks
 * [zx](https://google.github.io/zx/) or [dax](https://github.com/dsherret/dax) - Write Complex Scripts
-* [Basher](https://www.basher.it/) - Bash Script Package Manager
+* [Basher](https://www.basher.it/) or [bpkg](https://bpkg.sh/) - Bash Package Manager
 * [yakuake](https://apps.kde.org/yakuake/) - Terminal Emulator
 * [XTerm](https://invisible-island.net/xterm/) - X Window System Terminal Emulator
 * [hush](https://github.com/hush-shell/hush) - Unix Shell
