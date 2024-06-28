@@ -399,7 +399,8 @@
 * [Docker Mailserver](https://docker-mailserver.github.io/docker-mailserver/edge/), [UnInbox](https://github.com/un/inbox) or [Mail-in a Box](https://mailinabox.email/) - Self-Hosted Email Servers
 * [Gmail Desktop](https://github.com/timche/gmail-desktop) - Gmail Desktop Client
 * [Got Your Back](https://github.com/GAM-team/got-your-back) - Backup Gmail Messages
-* [ExtractMailAddress](https://extractemailaddress.com/) - Extract Emails, URLs and Numbers from Text
+* [ExtractMailAddress](https://extractemailaddress.com/) - Extract Emails, URLs, and Numbers from Text
+* [BugMeNot](https://bugmenot.com/), [FreeAccount](https://freeaccount.biz/) or [Password Login](https://password-login.com/) - Access & Share Throwaway Accounts
 
 ***
 
@@ -423,7 +424,7 @@
 
 ## ▷ Temporary Email Sites
 
-* **Note** - If you're looking for something more private, an address that can forward emails to your inbox(??) (considering temp-mail.io), or to just easily have conversations anonymously, check out our [Email Aliasing]() section. For details about tags, refer to [this resource]().
+* **Note** - If you're looking for something more private and convenient, check out our [Email Aliasing]() section. For details about tags, refer to [this resource](https://pastes.fmhy.net/CEtAPp).
 
 ***
 
@@ -433,12 +434,11 @@
 * ⭐ **[Tempr.email](https://tempr.email/en/)** - Forever / 1 Month / 50+ Domains
 * ⭐ **[Inboxes](https://inboxes.com/)** - Forever / 7 Days / 19 Domains
 * ⭐ **[Mail.tm](https://mail.tm/)** - Forever / 7 Days / 1 Domain
-* ⭐ **[temp-mail.io](https://temp-mail.io/)** - Forever / 1 Day / 12 Domains
 * ⭐ **[temp-mail.org](https://temp-mail.org/)** - Forever / 2 Hours / N/A / [Telegram Bot](https://t.me/TempMail_org_bot)
 * ⭐ **[Guerrilla Mail](https://www.guerrillamail.com/)** - Forever / 1 Hour / 11 Domains / [SharkLasers](https://www.sharklasers.com/)
+* ⭐ **[temp-mail.io](https://temp-mail.io/)** - 1 Day / 1 Day / 12 Domains
 * ⭐ **[burner.kiwi](https://burner.kiwi/)** - 1 Day / 1 Day / 3 Domains
 * [Bloody Vikings!](https://addons.mozilla.org/en-US/firefox/addon/bloody-vikings/) - Temp Email Extension
-* [fakemailbot](https://t.me/fakemailbot) - Temp Email Telegram Bot
 * [Tmail.io](https://tmail.io/) - Gmail / Forever / 1 Day / 4 Domains
 * [22.Do](https://22.do/) - Gmail / 1 Day / 1 Day / 3 Domains
 ---
@@ -449,9 +449,10 @@
 * [Snapmail.cc](https://www.snapmail.cc/) - Forever / 2 Days / 3 Domains
 * [Mailnesia](https://mailnesia.com/) - Forever / 2 Days / 1 Domain
 * [Spambox](https://spambox.xyz/) - Forever / 1 Day / 4 Domains
+* [temporary-email.com](https://temporary-email.com/) - Forever / 1 Day / 1 Domain
 * [Maildrop](https://maildrop.cc/) or [Trashmail](https://trashmail.ws/) - Forever / 1 Day / 1 Domain
 * [Temp Mail ID](https://tempmailid.com/) - Forever / 30 Mins / 2 Domains
-* [Email Generator](https://generator.email/) - Forever / N/A / 100+ Domains
+* [Email Generator](https://generator.email/), [Fake Email](https://email-fake.com/) or [TempM](https://tempm.com/) - Forever / N/A / 50+ Domains
 ---
 * [DisposableMail](https://www.disposablemail.com/) or [FakeMail](https://www.fakemail.net/) - 14 Days / 14 Days / 1 Domain
 * [FEX+](https://fex.plus/) - 7 Days / 7 Days / 5 Domains
@@ -465,16 +466,17 @@
 * [Moakt](https://www.moakt.com/) - 1 Hour / 1 Hour / 13 Domains
 * [MintEmail.com](https://www.mintemail.com/) or [tempail.com](https://tempail.com/) - 1 Hour / 1 Hour / 1 Domain
 * [Mohmal](https://www.mohmal.com/en) - 45 Mins / 45 Mins / 1 Domain
+* [lite14.us](https://www.lite14.us/10minutemail/), [linshi-email.com](https://www.linshi-email.com/), [MinuteInbox](https://minuteinbox.com/), [10minemail.com](https://10minemail.com/), [10minutesemail.net](https://10minutesemail.net/), [10minutemail.net](https://10minutemail.net/) or [10minutemail.com](https://10minutemail.com/) - 10 Minute Lifespan Emails
 ---
-* [mail-temp.com](https://mail-temp.com/), [emailfake.com](https://emailfake.com/), [Fake Email](https://email-fake.com/) or [TempM](https://tempm.com/) - 100+ Domains
+* [mail-temp.com](https://mail-temp.com/) or [emailfake.com](https://emailfake.com/) - 50+ Domains
 * [1secMail](https://www.1secmail.com/) - 8 Domains
 * [AnonymMail.net](https://anonymmail.net/), [Tmail.gg](https://tmail.gg/) or [Mail.td](https://mail.td/) - 5 Domains
 * [tempmail.email](https://tempmail.email/) - 3 Domains
 * [EmailOnDeck](https://www.emailondeck.com/) or [EmailTemp](https://emailtemp.org/) - 1 Domain
+* [tMail](https://tmailweb.com/) / [App](https://play.google.com/store/apps/details?id=com.clagt.tmail)
 * [Rainmail](https://rainmail.xyz/)
 * [Tmailor.com](https://tmailor.com/)
 ---
-* [lite14.us](https://www.lite14.us/10minutemail/), [linshi-email.com](https://www.linshi-email.com/), [MinuteInbox](https://minuteinbox.com/), [10minemail.com](https://10minemail.com/), [10minutesemail.net](https://10minutesemail.net/), [10minutemail.net](https://10minutemail.net/) or [10minutemail.com](https://10minutemail.com/) - 10 Minute Lifespan Emails
 * [More Sites]() - List of sites that didn't make it
 
 ***
@@ -543,7 +545,6 @@
 * [NoMoreEdge](https://github.com/KodeByWrath/NoMoreEdge), [Edge_Removal.bat](https://github.com/AveYo/fox/blob/main/Edge_Removal.bat) or [MSEdgeRedirect](https://github.com/rcmaehl/MSEdgeRedirect) - Redirect Microsoft Edge
 * [WhatIsMyBrowser](https://developers.whatismybrowser.com/) - User Agent Archive
 * [Irchiver](https://irchiver.com/) - Automatic Web Browser Screenshots
-* [BugMeNot](https://bugmenot.com/), [FreeAccount](https://freeaccount.biz/) or [Password Login](https://password-login.com/) - Access & Share Throwaway Accounts
 
 ***
 
