@@ -92,6 +92,7 @@
 * [FreeCourseSite](https://freecoursesite.com/), [2](https://freecoursesites.com/) - Courses
 * [technet24](https://technet24.ir/category/videos) - Courses
 * [AfraTafreeh](https://afratafreeh.com/) - Courses
+* [InfiCourses](https://www.inficourses.com/) - Courses
 * [Free-Courses-For-Everyone](https://github.com/MasterBrian99/Free-Courses-For-Everyone) - Courses
 * [WEBCHARMERS](https://t.me/WEBCHARMERS) - Courses / Telegram
 * [FreebieCourses](https://t.me/freebiecourses) - Courses / Telegram
