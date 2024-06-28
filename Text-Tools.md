@@ -115,6 +115,7 @@
 * [LilySpeech](https://lilyspeech.com/)
 * [VoiceToText](https://voicetotext.org/)
 * [TalkTyper](https://talktyper.com/)
+* [Turboscribe](https://turboscribe.ai/)
 * [Dictation](https://dictation.io/speech)
 * [VoiceNotebook](https://voicenotebook.com/)
 
