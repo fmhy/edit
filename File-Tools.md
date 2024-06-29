@@ -415,7 +415,6 @@
 * [InfiniDrive](https://github.com/nicomda/InfiniDrive) - Amazon Prime Photos Cloud Storage
 * [OneDriveFly](https://github.com/Tai7sy/OneDriveFly) or [OneDrive Vercel Index](https://ovi.swo.moe/) - OneDrive Indexes
 * [Fix-OneDrive-Zip](https://github.com/pmqs/Fix-OneDrive-Zip) - Fix OneDrive Zip Files >4gb
-* [Microsoft-E5-Auto-Renewal](https://github.com/TheCaduceus/Microsoft-E5-Auto-Renewal) - Developer E5 Auto Renewal
 * [Koofr](https://koofr.eu/) - Cloud Storage Manager
 * [SpaceDrive](https://www.spacedrive.com/) - Cloud Storage Manager
 * [CarotDAV](http://rei.to/carotdav_en.html) - Cloud Storage Manager
