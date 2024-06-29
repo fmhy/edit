@@ -10795,6 +10795,23 @@ comeback-1090560322760347649)
 
 ***
 
+## ▷ Cybersecurity 
+
+* 🌐 **[Free Cyber Resources](https://github.com/gerryguy311/Free_CyberSecurity_Professional_Development_Resources)**, [BlueTeam Tools](https://github.com/A-poc/BlueTeam-Tools) or [Applied Cybersecurity](https://www.nist.gov/itl/applied-cybersecurity/nice/resources/online-learning-content) - Cybersecurity Learning Resources
+* 🌐 **[CTF Sites](https://ctfsites.github.io/)**, [echoCTF.RED](https://echoctf.red/), [picoCTF](https://picoctf.org/), [CTF Beginners Guide](https://jaimelightfoot.com/blog/so-you-want-to-ctf-a-beginners-guide/) or [CTFLearn](https://ctflearn.com/) - CTF Challenges / Resources
+* ⭐ **[crackmes.one](https://crackmes.one/)** / [Discord](https://discord.com/invite/2pPV3yq), [Hackers101](https://www.hacker101.com/), [SmashTheStack](https://smashthestack.org/), [WebHacking](https://webhacking.kr/) or [DefendTheWeb](https://defendtheweb.net/) - Cybersecurity Challenges
+* [Skills for All](https://skillsforall.com/) or [90DaysOfCyberSecurity](https://github.com/farhanashrafdev/90DaysOfCyberSecurity) - Cybersecurity Courses
+* [TryHackMe](https://tryhackme.com/), [Hack The Box](https://www.hackthebox.com/) or [OpenSecurityTraining2](https://opensecuritytraining.info/) - Cybersecurity Lessons
+* [Cyber Talent Kids](https://cybertalentskids.com/) or [Teach Yourself Info Sec](https://teachyourselfinfosec.com/) - Learn About Cybersecurity
+* [pwn.college](https://pwn.college/) - Cybersecurity Practice
+* [OverTheWire](https://overthewire.org/wargames/) - Cybersecurity Learning Game
+* [Hacksplaining](https://www.hacksplaining.com/) - Developer Security Lessons
+* [MicroCorruption](https://microcorruption.com/) - Learn Reverse Engineering / Cybersecurity
+* [OWASP Cheatsheet](https://cheatsheetseries.owasp.org/) - Application Security Guide
+* [John Hammond](https://www.youtube.com/@_JohnHammond) or [LowLevelLearning](https://www.youtube.com/@LowLevelLearning/) - Cybersecurity YouTube Tutorials
+
+***
+
 # ► Programming Languages
 
 * 🌐 **[Awesome Cheatsheets](https://lecoupa.github.io/awesome-cheatsheets/)**, **[QuickRef.me](https://quickref.me/)**, [HowDoI](https://github.com/gleitz/howdoi), [OverApi](https://overapi.com/) or [Cheat Sheets](http://www.cheat-sheets.org/) - Programming Cheat Sheets
@@ -10977,7 +10994,7 @@ comeback-1090560322760347649)
 * [Gradient Animator](https://www.gradient-animator.com/) - Animated CSS Gradient Generator
 * [147colors](https://147colors.com/) - CSS Color Pickers
 * [FilterBlend](https://ilyashubin.github.io/FilterBlend/) - CSS Blend Modes
-* [Animista](https://animista.net/), [Woah.css](https://www.joerezendes.com/projects/Woah.css/) or [Animate.css](https://animate.style/) - CSS Animations
+* [Animista](https://animista.net/), [Woah.css](https://www.joerezendes.com/projects/Woah.css/), [Magic CSS](https://minimamente.com/project/magic/) or [Animate.css](https://animate.style/) - CSS Animations
 * [transition.css](https://www.transition.style/) - CSS Transitions
 
 ***
@@ -11355,36 +11372,7 @@ comeback-1090560322760347649)
 
 # ► Cybersecurity
 
-* 🌐 **[Free Cyber Resources](https://github.com/gerryguy311/Free_CyberSecurity_Professional_Development_Resources)**, [BlueTeam Tools](https://github.com/A-poc/BlueTeam-Tools) or [Applied Cybersecurity](https://www.nist.gov/itl/applied-cybersecurity/nice/resources/online-learning-content) - Cybersecurity Learning Resources
-* 🌐 **[CTF Sites](https://ctfsites.github.io/)**, [echoCTF.RED](https://echoctf.red/), [picoCTF](https://picoctf.org/), [CTF Beginners Guide](https://jaimelightfoot.com/blog/so-you-want-to-ctf-a-beginners-guide/) or [CTFLearn](https://ctflearn.com/) - CTF Challenges / Resources
-* ⭐ **[crackmes.one](https://crackmes.one/)** / [Discord](https://discord.com/invite/2pPV3yq), [Hackers101](https://www.hacker101.com/), [SmashTheStack](https://smashthestack.org/), [WebHacking](https://webhacking.kr/) or [DefendTheWeb](https://defendtheweb.net/) - Cybersecurity Challenges
-* [Skills for All](https://skillsforall.com/) or [90DaysOfCyberSecurity](https://github.com/farhanashrafdev/90DaysOfCyberSecurity) - Cybersecurity Courses
-* [TryHackMe](https://tryhackme.com/), [Hack The Box](https://www.hackthebox.com/) or [OpenSecurityTraining2](https://opensecuritytraining.info/) - Cybersecurity Lessons
-* [Cyber Talent Kids](https://cybertalentskids.com/) or [Teach Yourself Info Sec](https://teachyourselfinfosec.com/) - Learn About Cybersecurity
-* [pwn.college](https://pwn.college/) - Cybersecurity Practice
-* [OverTheWire](https://overthewire.org/wargames/) - Cybersecurity Learning Game
-* [Hacksplaining](https://www.hacksplaining.com/) - Developer Security Lessons
-* [MicroCorruption](https://microcorruption.com/) - Learn Reverse Engineering / Cybersecurity
-* [OWASP Cheatsheet](https://cheatsheetseries.owasp.org/) - Application Security Guide
-* [John Hammond](https://www.youtube.com/@_JohnHammond) or [LowLevelLearning](https://www.youtube.com/@LowLevelLearning/) - Cybersecurity YouTube Tutorials
-
-***
-
-## ▷ Pen Testing
-
-* 🌐 **[Awesome Pen Testing](https://github.com/enaqx/awesome-pentest)** - Penetration Testing Resources
-* 🌐 **[Awesome Hacking](https://github.com/Hack-with-Github/Awesome-Hacking)** - Pentesting / Security Index
-* ⭐ **[HackTricks](https://book.hacktricks.xyz/)** - Practical Penetration Testing & Security Auditing Tips
-* [Pentesting Bible](https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE) or [Juice Shop](https://owasp.org/www-project-juice-shop/) - Learn Pentesting
-* [Metasploit](https://www.metasploit.com/) / [Cheatsheet](https://www.comparitech.com/net-admin/metasploit-cheat-sheet/) - Pentesting Framework
-* [MobileApp-Pentest-Cheatsheet](https://github.com/tanprathan/MobileApp-Pentest-Cheatsheet) - App Pentesting Cheatsheet
-* [Pentest Contracts](https://github.com/cure53/Contracts) - Security Contract Templates
-* [Kali NetHunter](https://store.nethunter.com/en/) or [AndroGuard](https://github.com/androguard/androguard) - Penetration Testing / Forensics Apps
-
-***
-
-## ▷ Cybersecurity Tools
-
+* 🌐 **[Awesome GPT Agents](https://github.com/fr0gger/Awesome-GPT-Agents)** - Cybersecurity GPT Agent Index
 * ⭐ **[pyWhat](https://github.com/bee-san/pyWhat)** - File Analyzer
 * [Open Source Security Software](https://open-source-security-software.net/) - Cybersecurity Software
 * [Shisho](https://shisho.dev/) - Infrastructure Code Security Patcher
@@ -11421,6 +11409,19 @@ comeback-1090560322760347649)
 * [Infosec Resources](https://github.com/stong/infosec-resources) - Cybersecurity Resources
 * [Anon Security](https://t.me/anon_server) - Cybersecurity Resources
 * [CyberSecTools](https://cybersectools.com/) - Cybersecurity Resources
+
+***
+
+## ▷ Pen Testing
+
+* 🌐 **[Awesome Pen Testing](https://github.com/enaqx/awesome-pentest)** - Penetration Testing Resources
+* 🌐 **[Awesome Hacking](https://github.com/Hack-with-Github/Awesome-Hacking)** - Pentesting / Security Index
+* ⭐ **[HackTricks](https://book.hacktricks.xyz/)** - Practical Penetration Testing & Security Auditing Tips
+* [Pentesting Bible](https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE) or [Juice Shop](https://owasp.org/www-project-juice-shop/) - Learn Pentesting
+* [Metasploit](https://www.metasploit.com/) / [Cheatsheet](https://www.comparitech.com/net-admin/metasploit-cheat-sheet/) - Pentesting Framework
+* [MobileApp-Pentest-Cheatsheet](https://github.com/tanprathan/MobileApp-Pentest-Cheatsheet) - App Pentesting Cheatsheet
+* [Pentest Contracts](https://github.com/cure53/Contracts) - Security Contract Templates
+* [Kali NetHunter](https://store.nethunter.com/en/) or [AndroGuard](https://github.com/androguard/androguard) - Penetration Testing / Forensics Apps
 
 ***
 
