@@ -393,20 +393,20 @@
 * ⭐ **[searx.fmhy](https://searx.fmhy.net/)**, [Fuck Off Google](https://search.fuckoffgoogle.net/), [searx](https://searx.be/), [tiekoetter](https://searx.tiekoetter.com/), [monocles](https://monocles.de/) - Searx Instance
 * ⭐ **[Metager](https://metager.org/)**
 * ⭐ **[Stract](https://trystract.com/)**
-* ⭐ **[Araa](https://araa.extravi.dev/)**
-* ⭐ **[DuckDuckGo](https://duckduckgo.com/)** - [Shortcuts](https://duckduckgo.com/bangs), [2](https://github.com/dmlls/yang)
-* [whoogle.fmhy](https://whoogle.fmhy.net/) - Whoogle Instance
+* ⭐ **[Araa](https://araa.extravi.dev/)** / Uses Google / DDG / Qwant
+* ⭐ **[DuckDuckGo](https://duckduckgo.com/)** - [Shortcuts](https://duckduckgo.com/bangs), [2](https://github.com/dmlls/yang) / Uses Bing
+* [whoogle.fmhy](https://whoogle.fmhy.net/) - Whoogle Instance  / Uses Google
 * [LibreY](https://github.com/Ahwxorg/librey) or [LibreX](https://github.com/hnhx/librex)
 * [4get](https://4get.ca/)
 * [Mojeek](https://www.mojeek.com/)
 * [Qwant](https://www.qwant.com/)
-* [Swisscows](https://swisscows.com/)
+* [Swisscows](https://swisscows.com/) / Uses Bing
 * [YaCy](https://yacy.net/)
-* [Startpage](https://www.startpage.com/)
+* [Startpage](https://www.startpage.com/) / Uses Google
 * [Brave Search](https://search.brave.com/)
 * [Search Encrypt](https://www.searchencrypt.com/)
-* [ekoru](https://ekoru.org/)
-* [Gibiru](https://gibiru.com/)
+* [ekoru](https://ekoru.org/) / Uses Bing
+* [Gibiru](https://gibiru.com/) / Uses Google
 * [SearXNG](https://docs.searxng.org/) - Self-Hosted
 * [Whoogle](https://pypi.org/project/whoogle-search/) - Self-Hosted
 
