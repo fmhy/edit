@@ -81,6 +81,7 @@
 * [XMedia Recode](https://www.xmedia-recode.de/en/) - Video Conversion
 * [staxrip](https://github.com/staxrip/staxrip/) - Video Encoding
 * [IFME](https://github.com/Anime4000/IFME) - Video Encoding
+* [Voukoder](https://www.voukoder.org/) - Video Encoding Plugin
 * [FastFlix](https://fastflix.org/) - Video Conversion / [GitHub](https://github.com/cdgriffith/FastFlix)
 * [NEAV1E](https://github.com/Alkl58/NotEnoughAV1Encodes), [Av1an](https://github.com/master-of-zen/Av1an) -  AV1 Encoding
 * [Winnydows](https://winnydows.com/en/) - Video Conversion Software
