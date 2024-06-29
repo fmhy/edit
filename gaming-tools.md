@@ -69,6 +69,7 @@
 * [ScreamAPI](https://github.com/acidicoala/ScreamAPI) - Epic DLC Unlocker
 * [GetDataFromSteam-SteamDB](https://github.com/Sak32009/GetDataFromSteam-SteamDB) - Find SteamDB DLC Data / Create Configs
 * [SKSAppManifestGenerator](https://github.com/Sak32009/SKSAppManifestGenerator) - Create AppManifest Data
+* [Superheater](https://superheater.fgsfds.link/) - Fix / Patch Steam Games / [Discord](https://discord.gg/mWvKyxR4et)
 * [Depressurizer](https://github.com/Depressurizer/Depressurizer) - Steam Library Organizer
 * [Steam Art Manager](https://github.com/Tormak9970/Steam-Art-Manager) - Find / Manage Game Art
 * [Steam API Check Bypass](https://github.com/oureveryday/Steam-API-Check-Bypass) - Steam API Check Bypass
@@ -269,6 +270,7 @@
 * [Hidden Fallout 4 Mods](https://rentry.co/89gads), [2](https://docs.google.com/document/d/1Im5Mg-l2btRsYVOjaJa0slrjDcXNvi41J5pHw_Zuwqw/edit?usp=sharing) - Fallout 4 Mods Removed from Nexus
 * [UGX Mods](https://www.ugx-mods.com/) - COD Zombies Mods / [Discord](https://discord.gg/g9S2nSp)
 * [RimWorldBase](https://www.rimworldbase.com/) - RimWorld Mods
+* [NFL2KMod](https://www.nfl2kmod.com/ ) - NFL Game Mods
 * [StellarisMods](http://stellarismods.net/) - Stellaris Mods
 * [SMods](https://smods.ru/) - Cities: Skylines Mods
 * [MDMC](https://mdmc.moe/) - Muse Dash Mods / [Discord](https://discord.com/invite/mdmc)
@@ -410,7 +412,7 @@
 * ⭐ **[WiiUBrew](https://wiiubrew.org/wiki/Main_Page)** - WiiU Homebrew Wiki
 * ⭐ **[Wii U Hacks Guide](https://wiiu.hacks.guide/)** - Wii U Jailbreak Guide
 * ⭐ **[Wii Hacks Guide](https://wii.hacks.guide/)** - Wii Jailbreak Guides
-* ⭐ **[Wiimmfi](https://wiimmfi.de/)** - Wii Multiplayer Servers
+* ⭐ **[Wiimmfi](https://wiimmfi.de/)** or [WiiLink](https://wfc.wiilink24.com/) - Wii Multiplayer Servers
 * [Pretendo](https://pretendo.network/) - Wii U Network Replacement / [Discord](https://invite.gg/pretendo)
 * [/r/WiiUHacks](https://www.reddit.com/r/WiiUHacks/) - Wii U Homebrew Subreddit
 * [/r/WiiHacks](https://www.reddit.com/r/WiiHacks/) - Wii Homebrew Subreddit
@@ -458,6 +460,7 @@
 * [PSP Archive](https://psp-archive.github.io/) - PSP Homebrew Archive / [Discord](https://discord.gg/VZcjFvy3mT)
 * [VitaDB](https://vitadb.rinnegatamante.it/) - PS Vita Homebrews
 * [Vita Volume](https://gitlab.com/sinful-butterfly/vita-volume) - Set PS Vita Volume without Buttons
+* [PSPunk](https://www.pspunk.com/) - PSP Homebrew Info
 
 ***
 
@@ -720,6 +723,7 @@
 * [RoPro](https://ropro.io/), [Roblox+](https://chromewebstore.google.com/detail/roblox%20/jfbnmfgkohlfclfnplnlenbalpppohkm), [BTRoblox](https://twitter.com/AntiBoomz/status/1378597179556823040), [RoGold](https://rogold.live/) or [RoSeal](https://www.roseal.live/) - Enhance Roblox Website
 * [RBXServers](https://rbxservers.xyz/) or [Freevipservers](https://freevipservers.net/) - Roblox VIP Servers
 * [Roblox Web APIs](https://github.com/matthewdean/roblox-web-apis) - Roblox APIs
+* [ingame.clothing](https://ingame.clothing/) - Preview Avatar Clothing
 
 ***
 
