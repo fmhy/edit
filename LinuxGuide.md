@@ -222,6 +222,7 @@
 * [Gromit MPX](https://github.com/bk138/gromit-mpx) - Screen Annotation
 * [Spectacle](https://apps.kde.org/spectacle/) - Screen Recorder / Clipping
 * [AV Linux](https://www.bandshed.net/avlinux/) - Video / Audio Editor
+* [REAL Video Enhancer](https://github.com/TNTwise/REAL-Video-Enhancer) - Video Upscaling
 * [4KTUBE](https://github.com/rishabh3354/4KTUBE) or [Video Downloader](https://github.com/Unrud/video-downloader) - Video Downloaders
 * [Peek](https://github.com/phw/peek) - Simple Video / GIF recorder
 * [Linux-Fake-Background-Webcam](https://github.com/fangfufu/Linux-Fake-Background-Webcam/) - Fake Webcam Background
@@ -581,6 +582,7 @@ Linux Gaming Guide
 * [KeyCastr](https://github.com/keycastr/keycastr) - Keystroke Visualizer
 * [MonitorControl](https://monitorcontrol.app/) - External Monitor Brightness / Volume Control
 * [BackgroundMusic](https://github.com/kyleneideck/BackgroundMusic) - Volume Mixer / Auto-Pause
+* [BatFi](https://micropixels.gumroad.com/l/batfi) - Battery Manager
 * [BatteryBuddy](https://batterybuddy.app/) - Cute Battery Indicator
 * [Bunch](https://bunchapp.co/) - Task Automation
 * [MacScripter](https://www.macscripter.net/) - Automation Forum
@@ -617,6 +619,7 @@ Linux Gaming Guide
 * [DarkModeBuddy](https://github.com/insidegui/DarkModeBuddy) or [ThemeKit](https://github.com/luckymarmot/ThemeKit) - System Dark Mode Apps
 * [Bootcamp Drivers](https://bootcampdrivers.com/) - Mac Bootcamp AMD Drivers
 * [IINA](https://iina.io/) - Video Player
+* [REAL Video Enhancer](https://github.com/TNTwise/REAL-Video-Enhancer) - Video Upscaling
 * [Gifski](https://sindresorhus.com/gifski) - Image to GIF Converter / [GitHub](https://github.com/sindresorhus/Gifski)
 * [Darkroom](https://apps.apple.com/us/app/darkroom-photo-video-editor/id953286746) - Image / Video Editor
 * [Kap](https://getkap.co) or [ScreenTimeLapse](https://github.com/wkaisertexas/ScreenTimeLapse) - Screen Recorders
