@@ -1197,7 +1197,7 @@ https://aniwow.in/ has only dubs though
 
 ## ▷ Downloading / Скачивать
 
-* ⭐ **[4PDA](https://4pda.to/forum/)** - Android / iOS
+* ⭐ **[4PDA](https://4pda.to/forum/)** -  Android / iOS / [App](https://github.com/slartus/4pdaClient-plus)
 * [m0nkrus](https://w14.monkrus.ws/) or [DC Hublist](https://dchublist.ru/hubs/) - Software
 * [CWER](http://cwer.ru/), [2](http://cwer.ws/) - Video / Audio / Games / Books
 * [2BakSa](http://2baksa.ws/) - Video / Audio / Books
