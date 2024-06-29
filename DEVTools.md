@@ -146,6 +146,7 @@
 * [Slint](https://slint.dev) / [GitHub](https://github.com/slint-ui/slint), [Fyne](https://fyne.io/) or [QT Designer](https://build-system.fman.io/qt-designer-download) - GUI Development Tools
 * [BugSnag](https://www.bugsnag.com/) - Application Stability Monitor
 * [Inno Setup](https://jrsoftware.org/isinfo.php) or [InstallForge](https://www.installforge.net/) - Create Installation Programs
+* [CODEX-Installer](https://github.com/SolsticeSpectrum/CODEX-Installer) - Original CODEX Installer Code
 * [Sparkle](https://sparkle-project.org) - MacOS Update Framework
 * [TextBase](https://www.textbase.ai/) - AI Chatbot Framework
 * [Dify](https://dify.ai/) - Create AI Apps
@@ -308,10 +309,6 @@
 * [SQLTranslate](https://www.sqltranslate.app/) - SQL Translator
 * [SQLizer](https://sqlizer.io/) - Convert Files To SQL Databases
 * [franchise](https://franchise.cloud/) - SQL Notebook
-* [Learn SQL](https://sqlbolt.com/) - SQL Lessons
-* [SQL PD](https://sqlpd.com/) - SQL Learning Game
-* [PostgreSQL Tutorial](https://www.postgresqltutorial.com/) - PostgreSQL Tutorial
-* [MySQL Tutorial](https://www.mysqltutorial.org/) - MySQL Tutorial
 
 ***
 
@@ -707,6 +704,10 @@
 * [LearnToCloud](https://learntocloud.guide/) - Cloud Computing Guide
 * [LearnYouHaskell](http://learnyouahaskell.com/chapters) - Haskell Guide
 * [High Assurance Rust](https://highassurance.rs/) - Software Development Guide
+* [Learn SQL](https://sqlbolt.com/) - SQL Lessons
+* [SQL PD](https://sqlpd.com/) or [SQL Easy](https://www.sql-easy.com/) - SQL Learning Games
+* [PostgreSQL Tutorial](https://www.postgresqltutorial.com/) - PostgreSQL Tutorial
+* [MySQL Tutorial](https://www.mysqltutorial.org/) - MySQL Tutorial
 * [LearnOpenGL](https://learnopengl.com/) - Learn OpenGL
 * [Devops Exercises](https://github.com/bregman-arie/devops-exercises) - DevOps Exercises
 * [90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps) - Learn DevOps
