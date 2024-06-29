@@ -1493,6 +1493,7 @@
 * [Flare VM](https://github.com/mandiant/flare-vm) - Reverse Engineering Environment Setup Script
 * [MSTG](https://mas.owasp.org/) or [DVIA-v2](https://github.com/prateek147/DVIA-v2) - App Security Testing / Reverse Engineering
 * [challenges.re](https://challenges.re/) - Reverse Engineer Code
+* [Unity Decompilation Guide](https://www.youtube.com/watch?v=d5xlS7s0m_s) - Video Guide to Decompiling Unity Games
 
 ***
 
