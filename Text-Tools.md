@@ -149,6 +149,7 @@
 
 * ⭐ **[QuillBot AI](https://quillbot.com/)** - Text Rephrasing
 * ⭐ **[paraphrasetool](https://paraphrasetool.com/)** or [Rephrasely](https://rephrasely.com/) - Text Rephrasing
+* ⭐ **[Goblin.tools](https://goblin.tools/)** - Text Rephrasing
 * [Paraphraser](https://www.paraphraser.io/) - Text Rephrasing
 * [Paraphrase-Online](https://paraphrase-online.com/) - Text Rephrasing
 * [paraphrasingtool](https://paraphrasingtool.ai/) - Text Rephrasing
