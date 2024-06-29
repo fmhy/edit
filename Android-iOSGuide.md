@@ -414,7 +414,6 @@
 * [ceno-browser](https://censorship.no/en/index.html) / [GitHub](https://github.com/censorship-no/ceno-browser) - Proxy Browser
 * [husi](https://github.com/xchacha20-poly1305/husi) - Proxy Config Manager
 * [Privacy Guides](https://www.privacyguides.org/en/android/) - Android Privacy Guides
-* [Smartphone Hardening Guide](https://lemmy.ml/post/128667)
 * [DroidFS](https://forge.chapril.org/hardcoresushi/DroidFS) - Encrypted File Managers
 * [Extirpater](https://github.com/Divested-Mobile/extirpater) - Space Eraser / Make Deleted Files Irrecoverable
 * [Leon](https://github.com/svenjacobs/leon) or [Untracker](https://github.com/zhanghai/Untracker) - Remove URL Tracking
