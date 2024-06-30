@@ -870,18 +870,8 @@ https://aniwow.in/ has only dubs though
 * [Patoghu](https://patoghu.com/) - Software / Games
 * [Old Persian Games](https://oldpersiangames.org/) - Iranian Games
 * [Download.ir](https://download.ir/) - Video / Software / ROMs / Books
-* [dlfars](https://dlfars.ir/) - Movies / TV / Anime / Sub / 1080p
-* [Film2Media](https://www.f2mx.ir/) - Movies / TV / Dub / 1080p
 * [AIOFilm](https://aiofilm.ir/) - Movies / TV / Anime / Sub / 1080p
-* [dlrozaneh](https://dlrozaneh.ir/) - Movies / Sub / Dub / 1080p
 * [DigiMovie](https://digimoviez.com/) - Movies / TV / Sub / Dub / 1080p
-* [Tikfilmz](https://tikfilmz.ir/) - Movies / TV / Sub / 1080p
-* [GanjDL](http://www.ganjdl.ir/) - Movies / TV / Sub / Dub / 1080p
-* [KaranMovie](https://karanmovie.org/) - Movies / TV / Sub / Dub / 1080p
-* [HamrahMovies](https://hamrahmoviez.ir/) - Movies / TV / Sub / Dub / 1080p / [Telegram](https://t.me/hamrahmovieesir)
-* [HexDL](https://hexdl.com/) - Movies / TV / Cartoons / Dub / 1080p
-* [pishgammovie](https://pishgammovie.ir/) - Movies / TV / Dub / 1080p
-* [CenterDL](https://centerdl.ir/) - Movies / TV / Sub / Dub / 1080p
 * [iranianfilmarch](https://t.me/iranianfilmarch) - Iranian Movies / 1080p
 * [AnimeSubtitle](https://animesubtitle.ir/) - Anime Subtitles
 * [FLACColdSong](https://t.me/flacoldsong) - Music / FLAC
