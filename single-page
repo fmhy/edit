@@ -12744,7 +12744,6 @@ Linux Gaming Guide
 * ⭐ **[Zoom WE](https://pastebin.com/SpCdPywv)** or [Custom Page Zoom](https://mybrowseraddon.com/custom-page-zoom.html) - Improves Zoom Functionality
 * ⭐ **[ScrollAnywhere](https://pastebin.com/W3jwbBac)** - Improves Scrolling Functionality
 * ⭐ **[Clipboard2File](https://pastebin.com/JjDzqq8x)** - Upload Images from Clipboard
-* ⭐ **[Clipper](https://clipper.website/)** or [Copycat](https://github.com/BlackGlory/Copycat) - Copy Content in Multiple Formats
 * ⭐ **[Redirector](https://einaregilsson.com/redirector/)** - Page Redirector
 * ⭐ **[Feedbro](https://nodetics.com/feedbro/)**, [Brief](https://github.com/brief-rss/brief), [Smart-RSS](https://github.com/SmartRSS/Smart-RSS) or [Fraidycat](https://fraidyc.at/) - RSS Feed Readers
 * [Privacy Pass](https://github.com/cloudflare/pp-browser-extension) - Save Captcha Tokens
@@ -12792,6 +12791,7 @@ Linux Gaming Guide
 * [ColorZilla](https://www.colorzilla.com/) or [ColorFish](https://ui.vision/colorfish) - Color Picker
 * [Clippings](https://aecreations.io/clippings/index.php) or [Quick Copy](https://github.com/ramitmittal/quick-copy) - Clipboard Manager
 * [Emoji Addon](https://www.emojiaddon.com/) - Quickly Copy / Paste Emojis
+* [Copycat](https://github.com/BlackGlory/Copycat) - Copy Content in Multiple Formats
 * [Allow Right Click](https://add0n.com/allow-right-click.html) / [GitHub](https://github.com/lunu-bounir/allow-right-click) - Force Enable Right Click
 * [Copy Selection as Markdown](https://github.com/0x6b/copy-selection-as-markdown) - Copy Text as Markdown
 * [CopyFish](https://ocr.space/copyfish) - Grab Text from Images
@@ -12855,7 +12855,7 @@ Linux Gaming Guide
 * [Happy Right-Click](https://addons.mozilla.org/en-US/firefox/addon/%E5%BF%AB%E4%B9%90%E5%8F%B3%E9%94%AE/) - Force Enable Right Click
 * [User-Agent String Switcher](https://addons.mozilla.org/en-US/firefox/addon/user-agent-string-switcher/) - Switch your User-Agent
 * [Always Visible](https://addons.mozilla.org/en-US/firefox/addon/always-visible/) - Always Active / On-Top Window
-* [SoundFixer](https://github.com/valpackett/soundfixer) - Fixes Audio Playing in one Channel
+* [SoundFixer](https://github.com/valpackett/soundfixer) or [600% Sound](https://addons.mozilla.org/en-US/firefox/addon/600-sound-volume/) - Fixes / Increase Browser Audio
 * [Read Aloud](https://readaloud.app/) - Text to Speech
 * [Sage-Like](https://addons.mozilla.org/en-US/firefox/addon/sage-like/) - RSS Feed Reader
 * [Want My RSS](https://github.com/Reeywhaar/want-my-rss) - Restores Firefox RSS Features
@@ -12869,6 +12869,7 @@ Linux Gaming Guide
 * ⭐ **[chromium-web-store](https://github.com/NeverDecaf/chromium-web-store)** - Add Extensions to Ungoogled Chromium
 * ⭐ **[Foxified](https://foxified.org/)** - Use Firefox Extensions in Chrome
 * ⭐ **[Edge Chrome](https://greasyfork.org/en/scripts/439922)** - Use Edge Extensions in Chrome
+* ⭐ **[Clipper](https://clipper.website/)** - Copy Content in Multiple Formats
 * [WebCRX](https://webcrx.io/) - Install Chrome CRX Files
 * [Chrome Stats](https://chrome-stats.com/) - Compare / Analyze Chrome Extensions
 * [Extension Source Downloader](https://chromewebstore.google.com/detail/extension-source-download/dlbdalfhhfecaekoakmanjflmdhmgpea) - View Extension Source Code / [Guide](https://gist.github.com/paulirish/78d6c1406c901be02c2d)
