@@ -358,7 +358,6 @@
 * ⭐ **[Animeo TV](https://animeovf.fr)** - Anime / Sub / Dub / 1080p
 * [Sadisflix](https://sadisflix.wiki/) - Movies / TV / Anime / Dub / 1080p / [Telegram](https://t.me/sadisflix) / Use Adblocker
 * [VoirFilmsHD](https://flashfilms-hd.top/) - Movies / TV / Cartoons / Anime / Sub / Dub / 720p
-* [MesFilms](https://mesfilms.net/) - Movies / TV / Cartoons / Anime / Sub / Dub / 1080p
 * [Cinémathèque de Bretagne](https://www.cinematheque-bretagne.bzh/) - Classic / Amateur Movies
 * [OtakuFR](https://otakufr.cc/) - Anime / Sub / 1080p
 * [mavanimes](https://mavanimes.cc/) - Anime / Sub / 1080p
@@ -673,7 +672,6 @@ https://aniwow.in/ has only dubs though
 # ► Italian / Italiano
 
 * 🌐 **[The Italian Corsairs](https://rentry.co/the-italian-corsairs)** - Piracy Sites List
-* [PizzaGPT](https://www.pizzagpt.it/) - Italian ChatGPT Alternative
 
 ## ▷ Downloading
 
@@ -872,18 +870,8 @@ https://aniwow.in/ has only dubs though
 * [Patoghu](https://patoghu.com/) - Software / Games
 * [Old Persian Games](https://oldpersiangames.org/) - Iranian Games
 * [Download.ir](https://download.ir/) - Video / Software / ROMs / Books
-* [dlfars](https://dlfars.ir/) - Movies / TV / Anime / Sub / 1080p
-* [Film2Media](https://www.f2mx.ir/) - Movies / TV / Dub / 1080p
 * [AIOFilm](https://aiofilm.ir/) - Movies / TV / Anime / Sub / 1080p
-* [dlrozaneh](https://dlrozaneh.ir/) - Movies / Sub / Dub / 1080p
 * [DigiMovie](https://digimoviez.com/) - Movies / TV / Sub / Dub / 1080p
-* [Tikfilmz](https://tikfilmz.ir/) - Movies / TV / Sub / 1080p
-* [GanjDL](http://www.ganjdl.ir/) - Movies / TV / Sub / Dub / 1080p
-* [KaranMovie](https://karanmovie.org/) - Movies / TV / Sub / Dub / 1080p
-* [HamrahMovies](https://hamrahmoviez.ir/) - Movies / TV / Sub / Dub / 1080p / [Telegram](https://t.me/hamrahmovieesir)
-* [HexDL](https://hexdl.com/) - Movies / TV / Cartoons / Dub / 1080p
-* [pishgammovie](https://pishgammovie.ir/) - Movies / TV / Dub / 1080p
-* [CenterDL](https://centerdl.ir/) - Movies / TV / Sub / Dub / 1080p
 * [iranianfilmarch](https://t.me/iranianfilmarch) - Iranian Movies / 1080p
 * [AnimeSubtitle](https://animesubtitle.ir/) - Anime Subtitles
 * [FLACColdSong](https://t.me/flacoldsong) - Music / FLAC
@@ -1012,7 +1000,7 @@ https://aniwow.in/ has only dubs though
 
 ## ▷ Torrenting / Pirateando 
 
-* [Rei dos Torrents](https://reidostorrents.com) - Video / Audio/ Books
+* [Rei dos Torrents](https://reidostorrents.com) - Video / Audio / Books
 * [OnTorrent](https://ontorrent.org/) - Movies / TV
 * [Torrent dos Filmes](https://torrentdosfilmes.se) - Movies / TV
 * [Comando](https://comando.la) - Movies / TV
@@ -1199,7 +1187,7 @@ https://aniwow.in/ has only dubs though
 
 ## ▷ Downloading / Скачивать
 
-* ⭐ **[4PDA](https://4pda.to/forum/)** - Android / iOS
+* ⭐ **[4PDA](https://4pda.to/forum/)** -  Android / iOS / [App](https://github.com/slartus/4pdaClient-plus)
 * [m0nkrus](https://w14.monkrus.ws/) or [DC Hublist](https://dchublist.ru/hubs/) - Software
 * [CWER](http://cwer.ru/), [2](http://cwer.ws/) - Video / Audio / Games / Books
 * [2BakSa](http://2baksa.ws/) - Video / Audio / Books
@@ -1853,6 +1841,7 @@ https://aniwow.in/ has only dubs though
 * [Hako](https://docln.net/), [2](https://novelvn.net/) - Light Novels / [Facebook](https://www.facebook.com/groups/hako.group)
 * [Sonako](https://sonako.fandom.com/vi/wiki/Sonako_Light_Novel) - Light Novels / [Facebook](https://www.facebook.com/SonakoWiki/)
 * [Truyenyy](https://truyenyy.pro/)  - Light Novels / Freemium
+* [sstruyen](https://sstruyen.vn/) - Light Novels
 * [Babla](https://www.babla.vn/) - Dictionary
 * [VDict](https://vdict.com/) - Dictionary
 * [VTuDien](https://vtudien.com/) - Dictionary

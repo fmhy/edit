@@ -7,9 +7,9 @@
 # ► Documentaries
 
 * ⭐ **[IHaveNoTV](https://ihavenotv.com)**
-* ⭐ **[DocumentaryArea](https://www.documentaryarea.com/)** / Use PIP to remove watermark
+* ⭐ **[DocumentaryArea](https://www.documentaryarea.com/)** / [Remove Watermark](https://github.com/skitts4code/Clear-Mark) (or us PIP)
 * ⭐ **[DocPlus](https://www.docplus.com/)**
-* ⭐ **[1337x Documentaries](https://1337x.to/top-100-documentaries)**
+* ⭐ **[1337x Documentaries](https://1337x.to/top-100-documentaries)** / Torrent / [Avoid Software / Games](https://pastebin.com/8AaMuz5u)
 * [LearnOutLoud](https://www.learnoutloud.com/)
 * [Top Documentary Films](https://topdocumentaryfilms.com/)
 * [Media Burn Archive](https://mediaburn.org/)
@@ -21,7 +21,6 @@
 * [Rocumentaries](https://rocumentaries.com/)
 * [WatchDocumentaries](https://watchdocumentaries.com/)
 * [ThoughtMaybe](https://thoughtmaybe.com/)
-* [ihopplay](https://i.hopmarks.com/)
 * [PBS](https://www.pbs.org/video/)
 * [Nat Geo](https://www.nationalgeographic.com/tv/browse/watch-free)
 * [Folkstreams](https://www.folkstreams.net/)
@@ -93,6 +92,7 @@
 * [FreeCourseSite](https://freecoursesite.com/), [2](https://freecoursesites.com/) - Courses
 * [technet24](https://technet24.ir/category/videos) - Courses
 * [AfraTafreeh](https://afratafreeh.com/) - Courses
+* [InfiCourses](https://www.inficourses.com/) - Courses
 * [Free-Courses-For-Everyone](https://github.com/MasterBrian99/Free-Courses-For-Everyone) - Courses
 * [WEBCHARMERS](https://t.me/WEBCHARMERS) - Courses / Telegram
 * [FreebieCourses](https://t.me/freebiecourses) - Courses / Telegram
@@ -120,7 +120,10 @@
 
 # ► Learning Sites
 
-* 🌐 **[The Free Learning List](https://freelearninglist.org/)**, **[LearnAwesome](https://learnawesome.org/)**, [Learning Lab](https://learn.uno/), [Quester](https://quester.io/), [AFAIK](https://afaik.io/) / [Discord](https://discord.gg/mMNwRvWM8s), [TutorAI](https://www.tutorai.me/), [Learney](https://maps.joindeltaacademy.com/), [Learn Anything](https://learn-anything.xyz/) / [Free Method](https://rentry.co/FMHYBase64#learn-anything) or [WISC](https://www.wisc-online.com/) - Learning Resources
+* 🌐 **[The Free Learning List](https://freelearninglist.org/)** - Learning Resources
+* 🌐 **[Learn Anything](https://learn-anything.xyz/)** - Learning Resource Search / [Free Method](https://rentry.co/FMHYBase64#learn-anything)
+* 🌐 **[Wakelet](https://wakelet.com/explore)** - Learning Resources
+* 🌐 **[WISC](https://www.wisc-online.com/)** - Learning Resources
 * 🌐 **[Awesome Educational Games](https://github.com/yrgo/awesome-educational-games)** - Educational Games Index
 * ↪️ **[Ebook Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/reading#wiki_.25BA_educational_books)**
 * ↪️ **[Typing Tests / Games](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools#wiki_.25B7_typing_lessons)**
@@ -130,6 +133,7 @@
 * ⭐ **[/r/educationalgifs](https://reddit.com/r/educationalgifs)** - Learn With GIFs
 * ⭐ **[/r/explainlikeimfive](https://www.reddit.com/r/explainlikeimfive/)** - Have Anything Explained Very Simply
 * ⭐ **[The Punctuation Guide](https://www.thepunctuationguide.com/)** - Punctuation Guide
+* [AFAIK](https://afaik.io/) - Learning Map / [Discord](https://discord.gg/mMNwRvWM8s)
 * [Open Educational Resources](https://cdn-infographic.pressidium.com/wp-content/uploads/How-to-Search-for-Open-Educational-Resources-Infographic.jpg) - How to search for Open Educational Resources
 * [AnimaGraffs](https://animagraffs.com/) - Animated Infographs
 * [Eylenburg](https://eylenburg.github.io/) - Infographs, Maps & Papers
@@ -148,6 +152,7 @@
 * [Animated Knots](https://www.animatedknots.com/) or [NetKnots](https://www.netknots.com/) - Learn to Tie Knots
 * [Ian's Shoelace Site](https://www.fieggen.com/shoelace/) - Learn to Tie Shoelaces
 * [Perry Morse](https://www.perry.qa/morse), [Morse Typing Trainer](https://morse.withgoogle.com/learn/) or [ICWO](https://lcwo.net/) - Learn / Practice Morse Code
+* [Lock Picking 101](https://www.lockpicking101.com/) - Lock Picking Forum 
 * [BeatBlackjack](https://www.beatblackjack.org/) - Learn Blackjack Card Counting
 * [ActivistHandbook](https://activisthandbook.org/) - Campaigning / Activism Guides
 * [P2PU](https://www.p2pu.org/) - Join Learning Groups Using Free Courses
@@ -163,7 +168,6 @@
 * [HistoryMaps](https://history-maps.com/) - Learn History Visually
 * [Smithsonian Institution Archives](https://siarchives.si.edu/) - Historical Photos / Documents
 * [Imperial War Museums](https://www.iwm.org.uk/) - Historic War Footage
-* [NaturalHistory](https://naturalhistory.si.edu/visit/virtual-tour) - Natural History Museum Virtual Tour
 * [Museo](https://museo.app/) - Museum Search
 * [Wonderous](https://play.google.com/store/apps/details?id=com.gskinner.flutter.wonders) - Learn About Ancient Structures
 * [Letters of Note](https://news.lettersofnote.com/) - Historical Letters
@@ -171,6 +175,8 @@
 * [EyewitnesstoHistory](http://www.eyewitnesstohistory.com/index.html) - Historical Eyewitness Testimonies
 * [ManuscriptMiniatures](https://manuscriptminiatures.com/) - Medieval Manuscript Images
 * [TimeGuessr](https://timeguessr.com/) - Historical GeoGuessr
+* [BlackPast](https://www.blackpast.org/) - African History Encyclopedia
+* [Royal Constellations](https://royalconstellations.visualcinnamon.com/) - Royal Family Ancestral Visualization
 * [Sciphilos](https://sciphilos.info/) - Historical Discovery Timeline
 * [Royal Armouries Collections](https://royalarmouries.org/collection/) - Ancient Armaments Museum
 * [NuclearWeaponArchive](https://nuclearweaponarchive.org/) - Nuclear Weapons History
@@ -179,6 +185,7 @@
 * [Historical Recipes](https://l-lists.com/en/lists/55cbww.html) - Historical Recipes Site Index
 * [ChinesePosters](https://chineseposters.net/) - Chinese Propaganda Poster History
 * [Arachne](https://arachne.dainst.org/) - Ancient Sculpture Image Archive
+* [SmartHistory](https://smarthistory.org/) - Art / Cultural Object History
 * [CARI](https://cari.institute/) - Design Aesthetics History
 * [Historical Fashion](https://docs.google.com/document/d/1R8eulTsb9Zlc7h2H917dNJZS9s0rIq9OAu7LpSS9F2k/) - Historical Fashion History
 * [PessimistsArchive](https://pessimistsarchive.org/) - Historical Technological Pessimism Archive
@@ -276,6 +283,7 @@
 * [Line of Action](https://line-of-action.com/), [Timed Figure Poses](https://www.youtube.com/playlist?list=PL7EWYwaF6E-FZ8JiBlz2tF1DQUCw-GCmn), [LoveLifeDrawing](https://www.lovelifedrawing.com/) or [Daily Life Drawing Sessions](https://www.youtube.com/playlist?list=PL7EWYwaF6E-Exv72kVT4yYJM2lX-Xf66I) - Figure Sketch Tools / Lessons
 * [Artist Reference](https://artist-reference.com) - Photo References for Artists
 * [Thomas Romain Perspective](https://ibb.co/album/chGtPJ?sort=name_asc) - Perspective Guide
+* [Dimensions](https://www.dimensions.com/) - Object Dimension Reference
 * [The Dimensions Of Colour](http://www.huevaluechroma.com/) - Colour Theory Guide
 * [DevinKorwin Color Guide](https://twitter.com/devinkorwin/status/1278049901709012995) - Color in Paintings Guide
 * [Draw Mix Paint](https://www.drawmixpaint.com/) - Learn Oil Painting
@@ -325,11 +333,12 @@
 * [iCivics](https://www.icivics.org/games) - U.S. Law Learning Games
 * [Left vs. Right Side Driving Map](https://somerandomstuff1.files.wordpress.com/2019/02/left-or-right-side.png) - Left vs. Right Side Driving by Country
 * [Speed Limits Map](https://somerandomstuff1.files.wordpress.com/2019/02/highest-speed-limits-around-the-world.png) - Max Speed Limits
-* [License Plates Map](https://i.redd.it/ue2r7cdb2s861.png) - License Plate Map
+* [WorldLicensePlates](http://www.worldlicenseplates.com/) - World License Plate Index
+* [License Plates Map](https://i.redd.it/ue2r7cdb2s861.png) - World License Plate Map
 * [European License Plate Map](https://i.redd.it/wcazzhjir8941.png) - European License Plate Map
 * [Symbols](https://www.symbols.com/) - Symbol Database
 * [Flag Guesser](https://flagguesser.com/) - Flag Quizzes
-* [Flags of the World](https://i.redd.it/lxtu47hf5ll51.jpg) or [Flaglookup](https://flaglookup.com/) - Flag Databases
+* [FlagLog](https://www.flaglog.com/), [Flags of the World](https://i.redd.it/lxtu47hf5ll51.jpg) or [Flaglookup](https://flaglookup.com/) - Flag Databases
 * [Flag Stories](https://flagstories.co/) - Flag Design Breakdowns
 * [PrideFlags](https://www.prideflags.org/) - LGBT Flag Index
 * [Hate on Display](https://www.adl.org/hate-symbols) - Hate Symbol Database
@@ -384,11 +393,12 @@
 * [NaturalHistory](https://naturalhistory.si.edu/visit/virtual-tour) - Natural History Museum Virtual Tour
 * [Digital Giza](https://giza.mused.org/) - Great Pyramid Virtual Tours
 * [Persepolis Reimagined](https://persepolis.getty.edu/) - Explore Persepolis Recreation
+* [WW2 in 100 Objects](https://www.tweedewereldoorlog.nl/100voorwerpen/en/virtual-tour/) - WW2 Museum Virtual Tour
 * [Spitfire Panorama](https://www.haraldjoergens.com/panoramas/spitfire-td314/files/) - Spitfire Mark IX Cockpit Interactve Panorama
 * [Virtual Vist Tours](https://www.virtualvisittours.com/) - Ireland Virtual Tours
 * [Matterport](https://matterport.com/discover) - Explore Real Places Digitally
 * [Hashima Island](https://www.hashima-island.co.uk/) - Hashima Island Virtual Tour
-* [Zhijianshang](https://www.zhijianshang.com/) or [Airpano](https://www.airpano.com/) - 360 Images / Videos
+* [Zhijianshang](https://www.zhijianshang.com/), [360Cities](https://www.360cities.net/) or [Airpano](https://www.airpano.com/) - 360 Images / Videos
 * [Smithsonian 3D](https://3d.si.edu/) - Smithsonian 3D Digitization Museum
 
 ***
@@ -484,6 +494,7 @@
 * [Clear Dark Sky](https://cleardarksky.com/) - Star Gazing Weather Forecasts
 * [Dark Site Finder](https://darksitefinder.com/), [DarkSkyMap](https://darkskymap.com/) or [GoStarGazing](https://gostargazing.co.uk/) - Star Gazing Site Locators
 * [SpaceEngine](https://spaceengine.org/) - Universe Simulator / [Old Versions](https://forum.spaceengine.org/viewtopic.php?t=182)
+* [TheCMB](http://thecmb.org/) - 3D Cosmic Microwave Background Model
 
 ***
 
@@ -551,6 +562,7 @@
 * ↪️ **[Comp Sci Resources](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/dev-tools#wiki_.25B7_computer_science)**
 * ⭐ **[/r/AskEngineers](https://www.reddit.com/r/AskEngineers/)** / [Wiki](https://www.reddit.com/r/AskEngineers/wiki/), **[/r/engineering](https://www.reddit.com/r/engineering/)** or [/r/AutomotiveEngineering](https://www.reddit.com/r/AutomotiveEngineering/) - Engineering Subreddits
 * ⭐ **[NPTEL](https://nptel.ac.in/course.html)** or [Lesics](https://youtube.com/@Lesics?si=iv2muojj8T15Wzpq) - Engineering Courses
+* [Formulia](https://play.google.com/store/apps/details?id=m4.enginary) - Engineering Formulas / Tools
 * [Sanfoundry](https://www.sanfoundry.com/) - Engineering Questions & Answers
 * [CESDB](https://www.cesdb.com/) - Civil Engineering Software
 * [How a Car Works](https://www.howacarworks.com/) - Car Mechanics / Automotive Engineering Guides
@@ -566,7 +578,6 @@
 ## ▷ Chemistry
 
 * 🌐 **[Wolfram Alpha Chemistry](https://wolframalpha.com/examples/science-and-technology/chemistry)** - Chemistry Calculators / Tools
-* ↪️ **[Periodic Table Of Elements](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_periodic_tables)** / [App](https://play.google.com/store/apps/details?id=com.jlindemann.science)
 * ⭐ **[Lab Safety Guide / Intro](https://labmode.co.uk/)**
 * ⭐ **[LibreTexts Chemistry](https://chem.libretexts.org)** - Chemistry Texts
 * ⭐ **[Internet Chemistry](https://www.internetchemistry.com/search.php)** - Search Index
@@ -576,7 +587,7 @@
 * [QuickChem](https://play.google.com/store/apps/details?id=com.map.michael.chemistry) - Chemistry Calculator
 * [PubChem](https://pubchem.ncbi.nlm.nih.gov/), [MOTM](https://www.chm.bris.ac.uk/motm/motm.htm), [NIST](https://webbook.nist.gov/chemistry/) or [EssentialChemicalIndustry](https://www.essentialchemicalindustry.org/) - Chemistry Wikis
 * [ChemistrySteps](https://www.chemistrysteps.com/) or [DocBrown](https://docbrown.info/) - Chemistry Practice / Guides
-* [Cliffnotes Chemistry](https://www.cliffsnotes.com/study-guides/chemistry/chemistry/elements/discovery-and-similarity) / [Organic Chemistry I](https://www.cliffsnotes.com/study-guides/chemistry/organic-chemistry-i) / [Organic Chemistry II](https://www.cliffsnotes.com/study-guides/chemistry/organic-chemistry-ii), [Chem Wiki](https://wiki.ch.ic.ac.uk/wiki/), [chemhelper](https://chemhelper.com/) or [chemguide](https://www.chemguide.co.uk) - Study Guides
+* [Cliffnotes Chemistry](https://www.cliffsnotes.com/study-guides/chemistry/chemistry/elements/discovery-and-similarity) / [Organic Chemistry I](https://www.cliffsnotes.com/study-guides/chemistry/organic-chemistry-i) / [Organic Chemistry II](https://www.cliffsnotes.com/study-guides/chemistry/organic-chemistry-ii), [Chem Wiki](https://wiki.ch.ic.ac.uk/wiki/) or [chemguide](https://www.chemguide.co.uk) - Study Guides
 * [ChemistryTalk](https://chemistrytalk.org/) - Tutorials / Experiments / Elements / Reference Articles
 * [Sciencenotes](https://sciencenotes.org) - Periodic Tables / Chemistry Projects and Questions
 * [Organic Chemistry](https://www.organic-chemistry.org) or [Synarchive](https://synarchive.com/) - Organic Reactions
@@ -611,7 +622,6 @@
 * [iNaturalist](https://www.inaturalist.org/) - Organism Identification
 * [Ocearch](https://www.ocearch.org/?list) - Track Marine Life
 * [The Deep Sea](https://neal.fun/deep-sea/) - Interactive Deep Sea Life Guide
-* [TheAquariumWiki](https://www.theaquariumwiki.com/) - Aquarium Wiki
 * [Pattern Radio](https://patternradio.withgoogle.com/) - Listen to Whale Songs
 * [EuroBirdPortal](https://www.eurobirdportal.org/) - European Bird Distribution Map
 * [BirdSounds](https://experiments.withgoogle.com/ai/bird-sounds/view/) - Thousands of Bird Sounds Visualized
@@ -624,6 +634,7 @@
 * [Backyard Chickens](https://www.backyardchickens.com/) - Chicken Raising Forum
 * [DinosaurPictures](https://dinosaurpictures.org/) - Dinosaur Info / Images
 * [Pteros](https://www.pteros.com/) - Pterosaur Database
+* [WFO](https://www.worldfloraonline.org/) - Plant Database
 
 ***
 
@@ -665,15 +676,14 @@
 ## ▷ Periodic Tables
 
 * ⭐ **[Ptable](https://ptable.com/)** - Interactive Table
+* ⭐ **[Images-of-elements](https://images-of-elements.com/)** - Element Images
+* ⭐ **[periodic-table.org](https://www.periodic-table.org/)** or **[Material Properties](https://material-properties.org/)** - Material / Element Learning Resources
+* [Graph Overflow](https://graphoverflow.com/graphs/3d-periodic-table.html) or [3D Periodic Table](https://artsexperiments.withgoogle.com/periodic-table/) - 3D Visualizations of Atoms
+* [Atomic](https://play.google.com/store/apps/details?id=com.jlindemann.science) - Periodic Table Mobile App
 * [The Periodic Table Of Elements](https://periodictableofchemicalelements.com/) - Interactive Table
-* [Periodic Table](https://periodic-table.io/) - Interactive Table
-* [Images-Of-Elements](https://images-of-elements.com/) - Interactive Table
-* [Graph Overflow](https://graphoverflow.com/graphs/3d-periodic-table.html) - Interactive Table
-* [3D Periodic Table](https://artsexperiments.withgoogle.com/periodic-table/) - Interactive Table
-* [PeriodicTableApp](https://periodictableapp.com/) - Interactive Table
-* [Periodic Table](https://www.periodic-table.org/) - Interactive Table
+* [periodic-table.io](https://periodic-table.io/) - Interactive Table
+* [Periodic Table App](https://periodictableapp.com/) - Interactive Table
 * [WebElements](https://www.webelements.com) - Interactive Table
-* [Elements Database](http://www.elementsdatabase.com/) - Interactive Table
 
 ***
 
@@ -704,13 +714,13 @@
 * [LanguageGuide](https://www.languageguide.org/) - Visual Language Learning
 * [clozemaster](https://www.clozemaster.com/) - Context-Based Language Learning
 * [Sounter](https://sounter.com/), [LingoClip](https://lingoclip.com/) or [LyricFluent](https://lyricfluent.com/) - Learn Languages via Music
-* [IPA Reader](http://ipa-reader.xyz/) - International Phonetic Alphabet Reader
 * [Language Roadmap](https://languageroadmap.com/) - Foreign Language Media Difficulty Guide
 * [Hey! Lingo](https://www.heylingo.com/) or [LearnWithOliver](https://www.learnwitholiver.com/) - Language Learning Flashcards
 * [MyLanguages](https://mylanguages.org/) - Grammar / Vocabulary Language Learning
 * [Vocatra](https://esite.ch/vocatra/) - Vocabulary Trainer
 * [Verbix](https://www.verbix.com/) - Verb Conjugator
 * [ListLang](https://www.listlang.com/) - Most Used Words in Any Language
+* [Alphabetpedia](https://www.alphabetpedia.com/) - Multiple Language Alphabets
 * [wehewehe](https://wehewehe.org/) - Hawaiian Dictionary
 * [Polyglot](https://polyglotclub.com/) - Offline Language Exchange
 
@@ -852,6 +862,7 @@
 * [LingYourLanguage](https://lingyourlanguage.com/) or [Language Squad](https://www.languagesquad.com/) - Language Identification Test
 * [LocalLingual](https://localingual.com/) or [DialectArchive](https://www.dialectsarchive.com/globalmap) - Listen to Accents
 * [Interactive IPA Chart](https://www.ipachart.com/) - Learn Phonetic Alphabet Symbols
+* [IPA Reader](http://ipa-reader.xyz/) - International Phonetic Alphabet Reader
 * [Asian Script Differentiation Guide](https://i.ibb.co/f1YwHBM/50cb83cedf34.png)
 * [Omniglot](https://omniglot.com/) - Writing System & Language Encyclopedia
 * [Plover](https://www.openstenoproject.org/plover/) - Stenography Engine / [GitHub](https://github.com/openstenoproject/plover) / [Discord](https://discord.gg/NAzMz7C3wq)
@@ -966,8 +977,10 @@
 * [PowerThesaurus](https://www.powerthesaurus.org/) - Thesaurus
 * [VisualThesaurus](https://www.visualthesaurus.com/) - Thesaurus
 * [DescribingWords](https://describingwords.io/) - Adjectives
+* [Better Synonyms](https://www.bettersynonyms.com/) - Synonyms
 * [Thsrs](https://www.ironicsans.com/thsrs/) - Synonyms
 * [Synonym.com](https://www.synonym.com/) - Synonyms
 * [Feeels](https://feelu.vercel.app/) - Emotion Synonym Chart
 * [KnowYourMeme](https://knowyourmeme.com/) - Meme Database
 * [Pronouns List](https://pronounslist.com/) - List of Prefferred Pronouns
+* [Gender Neutral Dictionary](https://en.pronouns.page/dictionary) - Gender Neutral Language Dictionary

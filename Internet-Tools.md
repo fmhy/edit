@@ -130,6 +130,7 @@
 * ⭐ **[Bypass Paywalls Clean](https://github.com/bpc-clone/bpc_updates/releases)** / [Filter List](https://github.com/bpc-clone/bypass-paywalls-clean-filters) / [Twitter](https://twitter.com/Magnolia1234B) - Browser Extensions
 * ⭐ **[Freedium](https://freedium.cfd/)** or [Medium For All](https://medium-forall.vercel.app/) - Bypass Medium Paywalls
 * ⭐ **[wallabag](https://wallabag.org/)** / [Discord Bot](https://github.com/FahadBinHussain/wallabot) or [Ladder](https://github.com/everywall/ladder) - Self-Hosted
+* [Smry.ai](https://www.smry.ai/) - Article Paywall Bypass
 * [Bypass paywalls for scientific documents](https://greasyfork.org/en/scripts/35521) - Bypass Scientific Document Paywalls
 * [unpaywall](https://unpaywall.org/) - Bypass Scholarly Article Paywalls
 * [Open Access Button](https://openaccessbutton.org/) - Bypass Research Article Paywalls
@@ -149,9 +150,11 @@
 * [LinkSpace.Bio](https://linkspace.bio/)
 * [Campsite.bio](https://campsite.bio/)
 * [Taplink](https://taplink.at/)
+* [Lynk](https://lynk.id/)
 * [Linkezo](https://linkezo.com/)
 * [Linkr](https://linkr.com/)
 * [LinkBun](https://linkbun.io)
+* [pronouns.cc](https://pronouns.cc/) - Share Preferred Pronouns
 * [seemless](https://www.linkinbio.website/) - Link in Bio for Tiktok & Instagram
 * [itsmy.fyi](https://itsmy.fyi/) - Create Homepage via Github Issues / [Github](https://github.com/rishi-raj-jain/itsmy.fyi)
 
@@ -161,8 +164,8 @@
 
 * 🌐 **[CSE Utopia](https://start.me/p/EL84Km/cse-utopia)**, [Awesome CSEs](https://github.com/davzoku/awesome-custom-search-engines) or [Boolean Strings](https://booleanstrings.com/all-the-40-forty-custom-search-engines/) - Custom Search Engine Indexes
 * ↪️ **[Alt Search Engines](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_alternative_search_engines)** - Google Alternatives
+* ↪️ **[Reddit Search Engines](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/social-media#wiki_.25B7_reddit_search)**
 * ⭐ **[pSearch](https://serjsx.github.io/wpSearch/)**, [Search All](https://www.searchall.net/), [WebSitesSearch](https://web-sites-search.web.app/), [CombinedSearch](https://combinedsearch.io/) or [AIO Search](https://www.aiosearch.com/) - Multi-Site Search
-* ⭐ **[TheGigaBrain](https://thegigabrain.com/)** - Reddit Search AI
 * ⭐ **[The Search Engine Map](https://www.searchenginemap.com/)** - View Search Engine Connections
 * ⭐ **[TV Streaming CSE](https://cse.google.com/cse?cx=006516753008110874046:hrhinud6efg)** - Search TV Streaming Sites
 * ⭐ **[Streaming CSE](https://cse.google.com/cse?cx=006516753008110874046:cfdhwy9o57g##gsc.tab=0)**, [2](https://cse.google.com/cse?cx=006516753008110874046:o0mf6t-ugea##gsc.tab=0), [3](https://cse.google.com/cse?cx=98916addbaef8b4b6), [4](https://cse.google.com/cse?cx=0199ade0b25835f2e)
@@ -186,9 +189,9 @@
 * ⭐ **[Audio Torrent CSE](https://cse.google.com/cse?cx=006516753008110874046:v75cyb4ci55)** - Search Audio Torrent Sites
 * ⭐ **[Game Download CSE](https://cse.google.com/cse?cx=006516753008110874046:cbjowp5sdqg)**, [Rezi Search](https://rezi.one/) or [/r/PiratedGames CSE](https://cse.google.com/cse?cx=20c2a3e5f702049aa) - Multi-Site Search Engines
 * ⭐ **[Game Torrent CSE](https://cse.google.com/cse?cx=006516753008110874046:pobnsujblyx)** or [Rave Search](https://ravegamesearch.pages.dev/) - Search Game Torrent Sites
+* ⭐ **[Pastebin CSE](https://cse.google.com/cse?cx=0cd79b819f26af9d0)**, [PastebinSearch](https://cipher387.github.io/pastebinsearchengines/), [Pastebin.ga](https://pastebin.ga/) or [Paste Skimmer](https://sites.google.com/view/l33tech/tools/pasteskimmer) - Search Pastebins
 * [100 Search Engines](https://www.100searchengines.com/) - Search With 100 Search Engines
 * [File Host Search](https://cse.google.com/cse?cx=90a35b59cee2a42e1) - Search File Hosts
-* [Pastebin CSE](https://cse.google.com/cse?cx=0cd79b819f26af9d0), [PastebinSearch](https://cipher387.github.io/pastebinsearchengines/), [Pastebin.ga](https://pastebin.ga/) or [Paste Skimmer](https://sites.google.com/view/l33tech/tools/pasteskimmer) - Search Pastebins
 * [Linux Software CSE](https://cse.google.com/cse?cx=81bd91729fe2a412b) - Search Linux Software Sites
 * [ROM CSE](https://cse.google.com/cse?cx=f47f68e49301a07ac), [2](https://cse.google.com/cse?cx=744926a50bd7eb010) - Search ROM Sites
 * [DuckDuckBang](https://mosermichael.github.io/duckduckbang/html/main.html) - DuckDuckGo !bang Meta Search / [GitHub](https://github.com/MoserMichael/duckduckbang)
@@ -570,7 +573,6 @@
 * ⭐ **[Zoom WE](https://pastebin.com/SpCdPywv)** or [Custom Page Zoom](https://mybrowseraddon.com/custom-page-zoom.html) - Improves Zoom Functionality
 * ⭐ **[ScrollAnywhere](https://pastebin.com/W3jwbBac)** - Improves Scrolling Functionality
 * ⭐ **[Clipboard2File](https://pastebin.com/JjDzqq8x)** - Upload Images from Clipboard
-* ⭐ **[Clipper](https://clipper.website/)** or [Copycat](https://github.com/BlackGlory/Copycat) - Copy Content in Multiple Formats
 * ⭐ **[Redirector](https://einaregilsson.com/redirector/)** - Page Redirector
 * ⭐ **[Feedbro](https://nodetics.com/feedbro/)**, [Brief](https://github.com/brief-rss/brief), [Smart-RSS](https://github.com/SmartRSS/Smart-RSS) or [Fraidycat](https://fraidyc.at/) - RSS Feed Readers
 * [Privacy Pass](https://github.com/cloudflare/pp-browser-extension) - Save Captcha Tokens
@@ -618,6 +620,7 @@
 * [ColorZilla](https://www.colorzilla.com/) or [ColorFish](https://ui.vision/colorfish) - Color Picker
 * [Clippings](https://aecreations.io/clippings/index.php) or [Quick Copy](https://github.com/ramitmittal/quick-copy) - Clipboard Manager
 * [Emoji Addon](https://www.emojiaddon.com/) - Quickly Copy / Paste Emojis
+* [Copycat](https://github.com/BlackGlory/Copycat) - Copy Content in Multiple Formats
 * [Allow Right Click](https://add0n.com/allow-right-click.html) / [GitHub](https://github.com/lunu-bounir/allow-right-click) - Force Enable Right Click
 * [Copy Selection as Markdown](https://github.com/0x6b/copy-selection-as-markdown) - Copy Text as Markdown
 * [CopyFish](https://ocr.space/copyfish) - Grab Text from Images
@@ -670,31 +673,21 @@
 * [Bookmark Search Plus 2](https://github.com/aaFn/Bookmark-search-plus-2) - Search Bookmarks
 * [Multithreaded Download Manager](https://addons.mozilla.org/en-US/firefox/addon/multithreaded-download-manager/) - Download Manager
 * [cliget](https://github.com/zaidka/cliget) - Download Files from Command Line
-* [ShadowFox](https://overdodactyl.github.io/ShadowFox/) or [Dark Background and Light Text](https://github.com/m-khvoinitsky/dark-background-light-text-extension) - Dark Mode
 * [FX Cast](https://hensm.github.io/fx_cast/) - Enable Chromecast in Firefox
 * [Firefox Scripts](https://github.com/xiaoxiaoflood/firefox-scripts) - Chrome Extensions in Firefox
+* [Dark Background and Light Text](https://github.com/m-khvoinitsky/dark-background-light-text-extension) - Dark Mode
 * [New Tab Override](https://www.soeren-hentzschel.at/firefox-webextensions/new-tab-override/) - Pick Site that Opens in New Tabs
 * [Multi Tabs](https://addons.mozilla.org/en-US/firefox/addon/search-multi-tabs/) - Multi Tab Word Search
 * [Search Site WE](https://addons.mozilla.org/en-US/firefox/addon/search-site-we/) - Search Current Domain
 * [Firefox Color](https://color.firefox.com/) or [SwiftTheme](https://addons.mozilla.org/en-US/firefox/addon/swifttheme/) - Custom Firefox Theme Creation
-* [Dark Background for Firefox New Tabs](https://fedidat.com/640-dark-newtab-firefox/)
 * [Simple Gesture](https://github.com/utubo/firefox-simple_gesture) or [Gesturefy](https://github.com/Robbendebiene/Gesturefy) - Mouse Gestures
 * [Happy Right-Click](https://addons.mozilla.org/en-US/firefox/addon/%E5%BF%AB%E4%B9%90%E5%8F%B3%E9%94%AE/) - Force Enable Right Click
-* [Linkificator](https://addons.mozilla.org/en-US/firefox/addon/linkificator/) - Make Non-Hyperlinked URLs Clickable
 * [User-Agent String Switcher](https://addons.mozilla.org/en-US/firefox/addon/user-agent-string-switcher/) - Switch your User-Agent
-* [AutoPagerize Advanced](https://addons.mozilla.org/en-US/firefox/addon/autopagerizeadvanced/) - Merge Multiple Pages
-* [Profile Switcher](https://github.com/null-dev/firefox-profile-switcher) - Profile Manager
 * [Always Visible](https://addons.mozilla.org/en-US/firefox/addon/always-visible/) - Always Active / On-Top Window
-* [SoundFixer](https://github.com/valpackett/soundfixer) - Fixes Audio Playing in one Channel
-* [Mute Sites By Default](https://github.com/abba23/mute-sites-by-default) - Mute All Sites by Default
+* [SoundFixer](https://github.com/valpackett/soundfixer) or [600% Sound](https://addons.mozilla.org/en-US/firefox/addon/600-sound-volume/) - Fixes / Increase Browser Audio
 * [Read Aloud](https://readaloud.app/) - Text to Speech
 * [Sage-Like](https://addons.mozilla.org/en-US/firefox/addon/sage-like/) - RSS Feed Reader
 * [Want My RSS](https://github.com/Reeywhaar/want-my-rss) - Restores Firefox RSS Features
-* [Morning Coffee Quantum](https://addons.mozilla.org/en-US/firefox/addon/morning-coffee-quantum/) - Open Custom Website Lists
-* [Canvas](https://addons.mozilla.org/en-US/firefox/addon/canvas-google-images/) - View & Edit Google Images
-* [Sitemod](https://sitemod.io/) - Inspect Element Changes to a Website
-* [Plasma Integration](https://addons.mozilla.org/en-US/firefox/addon/plasma-integration/) - Control Browser via Plasma
-* [Session Sync](https://addons.mozilla.org/en-US/firefox/addon/session-sync/) - Session Manager
 
 ***
 
@@ -705,12 +698,11 @@
 * ⭐ **[chromium-web-store](https://github.com/NeverDecaf/chromium-web-store)** - Add Extensions to Ungoogled Chromium
 * ⭐ **[Foxified](https://foxified.org/)** - Use Firefox Extensions in Chrome
 * ⭐ **[Edge Chrome](https://greasyfork.org/en/scripts/439922)** - Use Edge Extensions in Chrome
+* ⭐ **[Clipper](https://clipper.website/)** - Copy Content in Multiple Formats
 * [WebCRX](https://webcrx.io/) - Install Chrome CRX Files
 * [Chrome Stats](https://chrome-stats.com/) - Compare / Analyze Chrome Extensions
 * [Extension Source Downloader](https://chromewebstore.google.com/detail/extension-source-download/dlbdalfhhfecaekoakmanjflmdhmgpea) - View Extension Source Code / [Guide](https://gist.github.com/paulirish/78d6c1406c901be02c2d)
-* [MarvellousSuspender](https://chromewebstore.google.com/detail/the-marvellous-suspender/noogafoofpebimajpfpamcfhoaifemoa) - Tab Suspender
 * [Darkness](https://darkness.app/) - Dark Mode
-* [OVC](https://chromewebstore.google.com/detail/ovc-one-video-control/analeldnikfgekckpcppegfekineelbb) - Video Controller
 * [Transpose](https://transpose.video/) - Online Video Pitch Shifter, Speed Changer and Looper
 * [Say Play](https://thanesh.dev/say-play) - Video Control Voice Commands
 * [Smart Mute](https://chromewebstore.google.com/detail/smart-mute/apadglapdamclpaedknbefnbcajfebgh) - Tab Mute Manager
@@ -721,11 +713,7 @@
 * [Copy Text Easily](https://chromewebstore.google.com/detail/copy-text-easily/fagmaopcbeobbfhkeodicjekiniefdlo) - Simple Text Copy
 * [TabCopy](https://github.com/hansifer/tab-copy) - Copy Tabs to Clipboard
 * [Simple Mass Downloader](https://chromewebstore.google.com/detail/simple-mass-downloader/abdkkegmcbiomijcbdaodaflgehfffed) - Download Multiple Links at Once
-* [Download Sorter](https://chromewebstore.google.com/detail/download-sorter/mebfblkahpknogabckmdjcmjbnpfdpcj) - Sort Downloads into Folders
-* [Hover](https://chromewebstore.google.com/detail/hover/eiiibfemcfcehadokcldlcdljfdlmolj) - Link Previews
-* [Multimedia Search](https://multimediasearchapp.com/) - Browser File Search
 * [Suggesty](https://chromewebstore.google.com/detail/suggesty/hbiphmiliockggpepniplkkfmnhdihjh) - Human Like Search Results
-* [Query Side-By-Side](https://chromewebstore.google.com/detail/double-shot-search-query/kddlkbpbepnaepdleclhdnfdpdogdhop) - Search Google & Bing at the Same Time
 * [Selectable](https://chromewebstore.google.com/detail/selectable-for-fanfiction/jcidlhgdoojamkbpmhbpgldmajnobefd?ucbcb=1) - Force Enable Select Text
 * [CrxMouse (chrome)](https://crxmouse.com/) - Mouse Gestures
 * [Night Shift Redux](https://nightshift.lu/) - Adapts Display Color to Time of Day
@@ -887,3 +875,4 @@
 * [OSINT Resources](https://start.me/p/1kAP0b/osint-resources) - General Index
 * [OSINT Essentials](https://www.osintessentials.com/) - General Index
 * [OSINTgeek](https://osintgeek.de/tools) - General Index
+* [Awesome Telegram OSINT](https://github.com/ItIsMeCall911/Awesome-Telegram-OSINT) or [The OSINT Toolbox](https://github.com/The-Osint-Toolbox/Telegram-OSINT) - Telegram OSINT Indexes

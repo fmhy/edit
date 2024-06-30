@@ -27,7 +27,7 @@
 * [OfflineInsiderEnroll](https://github.com/abbodi1406/offlineinsiderenroll) - Enable Windows Insider without Account
 * [Google Assistant Desktop Client](https://github.com/Melvin-Abraham/Google-Assistant-Unofficial-Desktop-Client) or [Leon](https://getleon.ai/) - AI Assistant
 * [Rhasspy](https://rhasspy.readthedocs.io/en/latest/) - Voice Assistant
-* [Windrecorder](https://github.com/yuka-friends/Windrecorder/) - Memory Search App / System Recorder
+* [OpenRecall](https://github.com/openrecall/openrecall) or [Windrecorder](https://github.com/yuka-friends/Windrecorder/) - Memory Search App / System Recorders
 * [Time.is](https://time.is/) - Check Accuracy of System Clock
 * [G-Helper](https://github.com/seerge/g-helper) - Lightweight Armoury Crate Alternative
 
@@ -46,7 +46,6 @@
 * [GhostBuster](https://bitbucket.org/wvd-vegt/ghostbuster/src/master/) or [Device Cleanup Tool](https://www.majorgeeks.com/files/details/device_cleanup_tool.html) - Remove Non-Present Devices
 * [Win11Debloat](https://github.com/Raphire/Win11Debloat) - Debloater
 * [Should I Remove It?](https://www.shouldiremoveit.com/) - Program Removal Guide
-* [Adobe Debloater](https://github.com/FlickyOs/Adobe-Debloater) - Debloat Adobe Apps
 
 ***
 
@@ -61,6 +60,7 @@
 * [abbodi1406](https://forums.mydigitallife.net/threads/abbodi1406s-batch-scripts-repo.74197/), [BatUtil](https://github.com/abbodi1406/BatUtil) or [TechNet-Gallery](https://github.com/MScholtes/TechNet-Gallery) - System Scripts
 * [Win10 Widgets](https://win10widgets.com/) or [Eww](https://github.com/elkowar/eww) - Widgets for Windows
 * [Wintoys](https://apps.microsoft.com/store/detail/wintoys/9P8LTPGCBZXD) - System App Tweaking
+* [Kando](https://github.com/kando-menu/kando) - App Launcher / Pie Menu / [Discord](https://discord.gg/hZwbVSDkhy)
 * [Hunt and Peck](https://github.com/zsims/hunt-and-peck/) or [Cerebro App](https://cerebroapp.com/) - Improved System Navigation
 * [SmartSystemMenu](https://github.com/AlexanderPro/SmartSystemMenu) - Improved System Menu
 * [EasyContextMenu](https://www.sordum.org/7615/easy-context-menu-v1-6/) or [Nilesoft Shell](https://nilesoft.org/) - Improved Context Menus
@@ -72,6 +72,7 @@
 * [Taskbar Hide](https://www.eusing.com/hidewindows/bosskey.htm) - Easily Hide / Show Taskbar
 * [minimize-to-tray](https://sourceforge.net/projects/minimize-to-tray/) - Minimize Windows to Tray
 * [QuickLook](https://github.com/QL-Win/QuickLook) - macOS Quick Look for Windows
+* [TopNotify](https://github.com/SamsidParty/TopNotify) - Move Windows Notifications
 * [BurntToast](https://github.com/Windos/BurntToast) - Create and display Toast Notifications
 * [WinMute](https://github.com/lx-s/WinMute/) - Automatically Mute PC
 
@@ -182,10 +183,16 @@
 ## ▷ Virtual Machines
 
 * ↪️ **[Android Emulators](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25BA_android_emulators)**
-* ⭐ **[VirtualBox](https://www.virtualbox.org/)** / [Portable](https://www.vbox.me/), [Looking Glass](https://looking-glass.io/), [Qemu](https://gitlab.com/qemu-project/qemu), [Hyper-V](https://learn.microsoft.com/en-us/virtualization/hyper-v-on-windows/), [fvwm](https://www.fvwm.org/) or [Denodo Test](https://community.denodo.com/test-drives/) - Virtual Machines / [Preinstalled VMS](https://www.osboxes.org/)
+* ⭐ **[VirtualBox](https://www.virtualbox.org/)** - Virtual Machine / [Portable](https://www.vbox.me/)
 * ⭐ **[Virt-Manager](https://virt-manager.org/)** or [Vagrantup](https://www.vagrantup.com/) - Virtual Machine Managers
 * ⭐ **[Hackintosh](https://hackintosh.com/)**, [Emaculation](https://www.emaculation.com/), [felixrieseberg](https://github.com/felixrieseberg/macintosh.js/) or [OneClick-macOS](https://github.com/notAperson535/OneClick-macOS-Simple-KVM) - macOS Virtual Machines
 * ⭐ **Hackintosh Tools** - [Guide](https://www.tonymacx86.com/) / [AMD Guide](https://chefkissinc.github.io/guide) / [Ryzen](https://github.com/mikigal/ryzen-hackintosh) / [XiaoMi](https://github.com/daliansky/XiaoMi-Pro-Hackintosh)
+* [VMware Workstation](https://blogs.vmware.com/workstation/2024/05/vmware-workstation-pro-now-available-free-for-personal-use.html) - Virtual Machine / [Signup Required](https://pastebin.com/JMdjhLyt)
+* [Looking Glass](https://looking-glass.io/) - Virtual Machine
+* [Qemu](https://gitlab.com/qemu-project/qemu) - Virtual Machine
+* [Hyper-V](https://learn.microsoft.com/en-us/virtualization/hyper-v-on-windows/) - Virtual Machine
+* [Denodo Test](https://community.denodo.com/test-drives/) - Virtual Machine
+* [OSBoxes](https://www.osboxes.org/) - Preinstalled Virtual Machine
 * [CollabVM](https://computernewb.com/collab-vm/) - Online Virtual Machines
 * [Virtual PC](https://www.microsoft.com/en-us/download/details.aspx?id=3243) - Windows XP Virtual Machine
 * [windows95](https://github.com/felixrieseberg/windows95) - Windows 95 in Electron
@@ -200,15 +207,13 @@
 
 # ► Hardware Tools
 
-* ↪️ **[PC Building / Shopping](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25BA_shopping)**
-* ⭐ **[PCPartPicker](https://pcpartpicker.com/)** - Build Calculators
+* ↪️ **[PC Building / Shopping](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25B7_electronics)**
 * ⭐ **[PSU Calculator](https://www.newegg.com/tools/power-supply-calculator/)** or [Power Supply Calculator](https://outervision.com/power-supply-calculator) - Find Compatible Power Supplies
 * [DeviceTests](https://devicetests.com/) - Multiple Device Tests
 * [NotCPUCores](https://github.com/rcmaehl/NotCPUCores), [ParkControl](https://bitsum.com/parkcontrol/), [QuickCPU](https://coderbag.com/product/quickcpu) or [Process Lasso](https://bitsum.com/) - CPU Optimizer
 * [Ozone3D](https://www.ozone3d.net/index_softwares.php) - System Benchmarking
 * [Testmem5](https://www.overclock.net/threads/memory-testing-with-testmem5-tm5-with-custom-configs.1751608/) - Memory Benchmarking
 * [SDIO](https://glenn.delahoy.com/snappy-driver-installer-origin), [Drivers Collection](https://driverscollection.com/), [Driverscape](https://www.driverscape.com/) or [DriverStoreExplorer](https://github.com/lostindark/DriverStoreExplorer) - Update / Install Missing Drivers
-* [PrintFriendly](https://www.printfriendly.com/) - Printer Formatting Tools
 * [VOGONS](https://www.vogons.org/) - Vintage Computer Hardware Forum
 
 ***
@@ -235,6 +240,7 @@
 * ⭐ **[nvtop](https://github.com/Syllo/nvtop)** - GPU / Accelerator Process Monitor
 * ⭐ **[GreenWithEnvy](https://gitlab.com/leinardi/gwe)** - Manage / Control NVIDIA Cards
 * ⭐ **[NVCleanInstall](https://www.techpowerup.com/download/techpowerup-nvcleanstall/)** or [NVSlimmer](https://www.majorgeeks.com/files/details/nvslimmer.html) - NVIDIA Driver Packages
+* [TinyNvidiaUpdateChecker](https://github.com/ElPumpo/TinyNvidiaUpdateChecker) - NVIDIA GPU Update Checker
 * [Amernime Zone](https://amernimezone.com/) - 3rd Party AMD Drivers
 * [Vintage3D](https://vintage3d.org/driver.php) - First Gen 3D Drivers
 * [nvidiaProfileInspector](https://github.com/Orbmu2k/nvidiaProfileInspector) - Modify / View Hidden NVIDIA Settings / [Guide](https://youtu.be/XncmeD8khKY)
@@ -324,6 +330,23 @@
 
 ***
 
+## ▷ System Audio
+
+* ⭐ **[Equalizer APO](https://equalizerapo.com/)**, **[AutoEq](https://autoeq.app/)**, [PeaceEqualizer](https://sourceforge.net/projects/peace-equalizer-apo-extension/) or [FXSound](https://www.fxsound.com/) - Audio Equalizers
+* [Wave Link](https://help.elgato.com/hc/en-us/articles/360044566172-Wave-Link-First-Time-Setup-for-Windows-10) or [VoiceMeeter](https://vb-audio.com/Voicemeeter/index.htm) / [Banana](https://vb-audio.com/Voicemeeter/banana.htm) - Audio Mixers / Multi-Device Playback
+* [SoundSwitch](https://soundswitch.aaflalo.me/) - Switch Audio Device with Hotkey / [GitHub](https://github.com/Belphemur/SoundSwitch)
+* [SonyHeadphonesClient](https://github.com/Plutoberth/SonyHeadphonesClient) - Sony Headphones Clone
+* [Audiocheck](https://www.audiocheck.net/) - Audio Tests
+* [LowAudioLatency](https://github.com/spddl/LowAudioLatency/) - Reduce Audio Latency
+* [DigitalFeed](https://abx.digitalfeed.net/) - Lossless Audio Sound System Test
+* [Online Mic Test](https://onlinemictest.com/) or [Check Mic](https://webcammictest.com/check-mic.html) - Mic Test
+* [Sound Meter](https://mybrowseraddon.com/sound-meter.html) or [REW](https://www.roomeqwizard.com) - Measure Surrounding Sound Level
+* [Krisp](https://krisp.ai/) or [noise-suppression-for-voice](https://github.com/werman/noise-suppression-for-voice) - Noise Suppression Tools
+* [AI-coustics](https://ai-coustics.com/) - Voice Clarity Enhancement AI
+* [AirPods Dirty Secret](https://docs.kenp.io/) - AirPods Repair Directory
+
+***
+
 # ► Windows ISOs
 
 * ⭐ **[MAS ISO Index](https://massgrave.dev/genuine-installation-media)** - Windows ISOs / [Discord](https://discord.gg/gjJEfq7ux8) / [MSDL](https://msdl.gravesoft.dev/)
@@ -390,7 +413,7 @@
 
 * ⭐ **[Rainmeter](https://www.rainmeter.net/)** - Desktop Customization
 * ⭐ **Rainmeter Tools** - [Skins](https://visualskins.com/) / [Utilities](https://github.com/Jax-Core), [2](https://www.deviantart.com/jaxoriginals) / [Menu Bar / App Launcher](https://www.droptopfour.com/)
-* ⭐ **[OpenRGB](https://openrgb.org/)** / [Beta](https://pastebin.com/tgY55J4n), **[WLED](https://kno.wled.ge/)**, [SignalRGB](https://www.signalrgb.com/), [LiquidCTL](https://github.com/liquidctl/liquidctl), [Artemis](https://artemis-rgb.com/), [RBGSync](https://rgbsync.com/) or [FireLight](https://github.com/nicolasdeory/firelight) - Lighting Control
+* ⭐ **[OpenRGB](https://openrgb.org/)** / [Beta](https://pastebin.com/tgY55J4n), **[WLED](https://kno.wled.ge/)**, [Aurora](https://www.project-aurora.com/), [SignalRGB](https://www.signalrgb.com/), [LiquidCTL](https://github.com/liquidctl/liquidctl), [Artemis](https://artemis-rgb.com/), [RBGSync](https://rgbsync.com/) or [FireLight](https://github.com/nicolasdeory/firelight) - Lighting Control
 * [VirtualCustoms](https://virtualcustoms.net/) or [winthemers](https://discord.com/invite/8FFWAqdtc4) - Customization Communities
 * [XDesktopSoft](https://www.xwidget.com/) - Desktop Customization
 * [Taskbar Tweaker](https://tweaker.ramensoftware.com/), [NiceTaskbar](https://www.microsoft.com/en-us/p/nicetaskbar/9pkl2s93xwb5) - Taskbar Customization Tools
@@ -422,7 +445,8 @@
 ## ▷ Custom Themes
 
 * 🌐 **[Awesome Ricing](https://github.com/fosslife/awesome-ricing)** or [Windows-Ricing](https://github.com/winthemers/wiki) - Windows Ricing Resources
-* ⭐ **[Dracula](https://draculatheme.com/)** / [Discord](https://discord.com/invite/yDcFsrYuq9), [Something Beautiful](https://rosepinetheme.com/) / [Discord](https://discord.gg/r6wf35KVJW), [Catppuccin](https://github.com/catppuccin) / [Discord](https://discord.gg/r6Mdz5dpFc), [Aura Theme](https://github.com/daltonmenezes/aura-theme), [Windhawk](https://windhawk.net/) or [theme.park](https://theme-park.dev/) - Custom App Themes
+* ⭐ **[Dracula](https://draculatheme.com/)** - Custom App Themes / [Discord](https://discord.com/invite/yDcFsrYuq9)
+* ⭐ **[Catppuccin](https://catppuccin.com/)** - Custom App Themes / [Discord](https://discord.gg/r6Mdz5dpFc)
 * ⭐ **[terminal.sexy](https://terminal.sexy/)**, [TerminalSplash](https://terminalsplash.com/), [Solarized](https://ethanschoonover.com/solarized) or [WindowsTerminalThemes](https://windowsterminalthemes.dev/) - Terminal Themes
 * [Windows 10 Themes](https://github.com/niivu/Windows-10-themes), [Windows 11 Themes](https://github.com/niivu/Windows-11-themes) or [VSThemes](https://vsthemes.org/en/) - Custom Windows Themes
 * [Chloechantelle Guide](https://www.ricing.chloechantelle.com/) or [Heliohost Guide](https://ninjasr.heliohost.org/w/lb/windows) - Windows Customization Guides
@@ -436,7 +460,11 @@
 * [SimpleClassicTheme](https://simpleclassictheme.nl/) - Classic Windows Theme
 * [Winmoes](https://winmoes.com/) - Anime Windows Themes / Wallpapers
 * [Desktops](https://deskto.ps/) - OS Theme Examples
-* [Macdows11](https://redd.it/pd5ha6) - Windows 11 Mac Theme Guide
+* [Macdows11](https://redd.it/pd5ha6) or [Macified Windows](https://github.com/Runixe786/Macified-Windows) - Win 11 Mac Theme Guides
+* [Rosé Pine](https://rosepinetheme.com/) - Custom App Themes / [Discord](https://discord.gg/r6wf35KVJW)
+* [Aura Theme](https://github.com/daltonmenezes/aura-theme) - Custom App Themes
+* [Windhawk](https://windhawk.net/) - Custom App Themes
+* [theme.park](https://theme-park.dev/) - Custom App Themes
 * [AccentColorizer](https://github.com/krlvm/AccentColorizer) - Custom Windows Accent Color
 * [MicaForEveryone](https://github.com/MicaForEveryone/MicaForEveryone) - System Backdrop Customization
 * [Traffic Monitor](https://github.com/zhongyang219/TrafficMonitor/) - Network & Hardware Monitor Themes
@@ -467,7 +495,6 @@
 * [Screencaps](https://screencaps.us/) or [shot.cafe](https://shot.cafe/) - Movie / TV Wallpapers
 * [Xbox Wallpapers](https://www.xbox.com/en-us/wallpapers/) - Game Wallpapers
 * [Anime Pictures](https://anime-pictures.net/), [N0va](https://n0vadp.hoyoverse.com), [Anime_WallpapersHD](https://t.me/Anime_WallpapersHD/), [WallpaperWaifu](https://wallpaperwaifu.com/) or [MyLiveWallpapers](https://mylivewallpapers.com/) - Anime Wallpapers
-* [99images](https://www.99images.com/) - Celebrity Wallpapers
 * [Dracula Wallpapers](https://draculatheme.com/wallpaper) - Dracula Wallpapers
 * [WallpaperHub](https://www.wallpaperhub.app/) - Windows Wallpapers
 * [Mac Walls](https://goo.gl/photos/HjY1hmo6p3jfFz8a7), [2](https://photos.google.com/share/AF1QipNNQyeVrqxBdNmBkq9ILswizuj-RYJFNt5GlxJZ90Y6hx0okrVSLKSnmFFbX7j5Mg?key=RV8tSXVJVGdfS1RIQUI0Q3RZZVhlTmw0WmhFZ2V3) - Mac Wallpapers

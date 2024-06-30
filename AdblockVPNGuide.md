@@ -13,11 +13,12 @@
 * ↪️ **[Spotify Adblockers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/audio#wiki_.25B7_spotify_adblockers)**
 * ↪️ **[Twitch Adblockers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/social-media#wiki_.25B7_twitch_adblockers)**
 * ↪️ **[Bypass Article Paywalls](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools#wiki_.25B7_paywall_bypass)**
-* ⭐ **[uBlock Origin](https://github.com/gorhill/uBlock#installation)** - Adblocker / [Report Issues](https://github.com/uBlockOrigin/uAssets/issues) / [Guide](https://addons.mozilla.org/blog/ublock-origin-everything-you-need-to-know-about-the-ad-blocker/) / [Advanced Tutorial](https://youtu.be/2lisQQmWQkY) / [Redundant Extensions](https://github.com/arkenfox/user.js/wiki/4.1-Extensions/#-dont-bother)
+* ⭐ **[uBlock Origin](https://github.com/gorhill/uBlock#installation)** - Adblocker
+* ⭐ **uBO Resources** - [Report Issues](https://github.com/uBlockOrigin/uAssets/issues) / [Report Hosts](https://github.com/uBlockOrigin/uAssets/discussions/17361) / [Guide](https://addons.mozilla.org/blog/ublock-origin-everything-you-need-to-know-about-the-ad-blocker/) / [Advanced](https://youtu.be/2lisQQmWQkY) / [Redundant Extensions](https://github.com/arkenfox/user.js/wiki/4.1-Extensions/#-dont-bother)
 * ⭐ **[SponsorBlock](https://sponsor.ajay.app/)** - Skip Sponsored YouTube Ads / [Script](https://github.com/mchangrh/sb.js), [2](https://greasyfork.org/en/scripts/453320)
 * ⭐ **[BehindTheOverlay](https://github.com/NicolaeNMV/BehindTheOverlay)** - Hide Website Overlays
 * ⭐ **[OpenVideo](https://openvideofs.github.io)** or [Stream-Bypass](https://github.com/ByteDream/stream-bypass) - Play Videos in Ad-Free Player
-* [uBO Lite](https://github.com/uBlockOrigin/uBOL-home) - MV3 Compatible for Chrome Users / [Note](https://pastes.fmhy.net/jUyzXA)
+* [uBO Lite](https://github.com/uBlockOrigin/uBOL-home) - MV3 Compatible for Chrome Users / [Note](https://rentry.org/nzvohpzf)
 * [fadblock](https://github.com/0x48piraj/fadblock) or [Disable YT Video Ads](https://greasyfork.org/en/scripts/32626) - YouTube Adblockers
 * [Ad Blitz](https://ad-blitz.vercel.app/) - Speed Up YouTube Ads instead of Skipping to Support Creators
 * [Popupblocker All](https://addons.mozilla.org/en-US/firefox/addon/popupblockerall/), [PopUpOFF](https://romanisthere.github.io/PopUpOFF-Website/index.html) or [PopupBlocker](https://github.com/AdguardTeam/PopupBlocker) - Popup / New Tab Blockers
@@ -31,8 +32,7 @@
 
 * ⭐ **[yokoffing's Recommended Filters](https://github.com/yokoffing/filterlists)**
 * ⭐ **[LegitimateURLShortener](https://github.com/DandelionSprout/adfilt/blob/master/LegitimateURLShortener.txt)**
-* ⭐ **[FMHY Filterlist](https://github.com/WindowsAurora/FMHYFilterlist/)** - [Unsafe Sites](https://redd.it/10bh0h9) Filter
-* [FilterLists.com](https://filterlists.com/) - Filters Search
+* ⭐ **[FMHY Filterlist](https://windowsaurora.github.io/FMHYFilterlist/site/index.html)** - Unsafe Sites Filter / [Github](https://github.com/WindowsAurora/FMHYFilterlist/)
 * [Adbox](http://raymondhill.net/ublock/adbox.html) - Test Filters
 * [DandelionSprout adlift](https://github.com/DandelionSprout/adfilt)
 * [Facebook Filters](https://www.reddit.com/r/uBlockOrigin/wiki/solutions#wiki_facebook)
@@ -73,7 +73,6 @@
 * [YogaDNS](https://yogadns.com/) - Custom DNS Client
 * [ControlD](https://controld.com/free-dns) - DNS Manager
 * [NextDNS](https://nextdns.io) - DNS Adblocking / [Guide](https://github.com/yokoffing/NextDNS-Config) / [Video](https://youtu.be/WUG57ynLb8I)
-* [AhaDNS](https://ahadns.com/) - DNS Adblocking
 * [BlahDNS](https://blahdns.com/) - DNS Adblocking
 * [Adguard DNS](https://adguard-dns.io/) - DNS Adblocking
 * [AlternateDNS](https://alternate-dns.com/index.php) - DNS Adblocking
@@ -174,8 +173,6 @@
 * [Paper Age](https://github.com/matiaskorhonen/paper-age) - Create Paper Backups of Secrets
 * [USBKill](https://github.com/hephaest0s/usbkill) - Anti-Forensic USB Killswitch
 * [HiddenVM](https://github.com/aforensics/HiddenVM) - Run an Oracle VM on TailsOS
-* [V2Ray](https://v2ray.com/en/), [V2Fly](https://www.v2fly.org/), [V2RayN](https://github.com/freefq/free) or [v2ray-core](https://github.com/v2fly/v2ray-core) - DIY Privacy Network
-* V2Ray Tools - [GUI](https://github.com/2dust/v2rayN), [2](https://github.com/Qv2ray/Qv2ray) / [GeoIP](https://github.com/Loyalsoldier/geoip) / [Free Server](https://fanqiang.network/) / [Cloudflare Scan](https://cloudflare-v2ray.vercel.app/) / [Tutorial](https://github.com/freefq/tutorials)
 * [FreeCarrierLookup](https://www.freecarrierlookup.com/) - Get Telephone Carrier Data
 * [/r/Privacy](https://reddit.com/r/privacy), [/r/TheHatedOne](https://www.reddit.com/r/thehatedone) or [/r/privatelife/](https://www.reddit.com/r/privatelife/) - Privacy Discussion, News & Tools
 * [Facebook Doc Stories](https://docs.google.com/document/d/1QYqmJsifBjf_xA23Ea7AdeMFyjGWaF_dvhi5EZdNUf4/edit) - Facebook Malpractices Index
@@ -208,6 +205,18 @@
 
 ***
 
+## ▷ Network Security
+
+* ⭐ **[simplewall](https://github.com/henrypp/simplewall)** - Firewall / Network Monitor
+* ⭐ **[Fort](https://github.com/tnodir/fort)** - Firewall
+* ⭐ **[Safing Portmaster](https://safing.io/)** - Network Monitor / DNS Resolver / Firewall
+* [V2Ray](https://v2ray.com/en/), [V2Fly](https://www.v2fly.org/), [V2RayN](https://github.com/freefq/free) or [v2ray-core](https://github.com/v2fly/v2ray-core) - DIY Privacy Network
+* V2Ray Tools - [GUI](https://github.com/2dust/v2rayN), [2](https://github.com/Qv2ray/Qv2ray) / [GeoIP](https://github.com/Loyalsoldier/geoip) / [Free Server](https://fanqiang.network/) / [Cloudflare Scan](https://cloudflare-v2ray.vercel.app/) / [Tutorial](https://github.com/freefq/tutorials)
+* [WFC](https://www.binisoft.org/wfc.php) - Firewall
+* [Tinywall](https://tinywall.pados.hu/) - Lightweight Firewall
+
+***
+
 ## ▷ [Linux Privacy](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/linux#wiki_.25BA_linux_adblock_.2F_privacy)
 
 ***
@@ -233,26 +242,19 @@
 * ↪️ **[Encode / Decode URLs](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools#wiki_.25B7_encode_.2F_decode)**
 * ⭐ **[PrivacySpy](https://privacyspy.org/)** or [Terms of Service; Didn't Read](https://tosdr.org/) - Sites Privacy Policies
 * ⭐ **[JustGetMyData](https://justgetmydata.com/)** - Links to Obtain Your Data from Websites
-* ⭐ **[Safing Portmaster](https://safing.io/)** - Network Monitor / DNS Resolver / Firewall / Adblocker / Security Tool
-* ⭐ **[simplewall](https://github.com/henrypp/simplewall)**, [WFC](https://www.binisoft.org/wfc.php), [pfSense](https://www.pfsense.org/) / [How-to](https://youtu.be/am7xT-zU1Q0) or [Tinywall](https://tinywall.pados.hu/) - Firewall / Network Monitors
 * ⭐ **[Cryptomator](https://cryptomator.org/)**, [Boxcryptor](https://www.boxcryptor.com/en/) or [Tahoe-LAFS](https://tahoe-lafs.org/trac/tahoe-lafs) - Cloud File Encryption
 * [FirefoxMonitor](https://monitor.firefox.com/) - Data Breach Check
 * [BreachDirectory](https://breachdirectory.org), [Snusbase](https://snusbase.com/), [Leak Lookup](https://leak-lookup.com/), [Trufflehog](https://trufflesecurity.com/trufflehog) or [leakpeek](https://leakpeek.com/) - Data Breach Search Engines
 * [JustDeleteMe](https://justdeleteme.xyz/) - Find / Terminate Old Accounts
 * [OpenPhish](https://openphish.com/), [Netcraft Report](https://report.netcraft.com/report), [isitPhishing](https://isitphishing.org/), [PhishStats](https://phishstats.info/) or [PhishTank](https://phishtank.org/) - Report Phishing Sites
-* [encrypted-sni](https://www.cloudflare.com/ssl/encrypted-sni/) - Check Network / Browser Security
 * [DNS Jumper](https://www.majorgeeks.com/files/details/dns_jumper.html) - DNS Switcher
 * [Element](https://element.io/), [linphone](https://www.linphone.org/), [Jami](https://jami.net/), [Tox](https://tox.chat/) or [Bitmask](https://bitmask.net/) - Encrypted Messaging / Video Calls
 * [SimpleDiscordCrypt](https://gitlab.com/An0/SimpleDiscordCrypt) - Discord Message Encryption
 * [ssh-chat](https://github.com/shazow/ssh-chat) or [Devzat](https://github.com/quackduck/devzat) - SSH Chat / [Info](https://shazow.net/posts/ssh-how-does-it-even/)
 * [GPGTools](https://gpgtools.org/) - Encrypt & Sign Data / Communications
 * [PeerTube](https://joinpeertube.org/) - Decentralized Video Hosting / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/social-media#wiki_.25B7_peertube_tools)
-* [Redact](https://redact.dev/) - Delete Twitter / Reddit Posts
-* [Undiscord](https://victornpb.github.io/undiscord), [discord-delete](https://github.com/cedws/discord-delete), or [QuickDeleteMessages](https://u.nu/9i9jk) - Delete Discord Messages / [Warning](https://i.ibb.co/pdg4hRr/0b0d78219f05.png)
-* [Social Amnesia](https://github.com/Nick-Gottschlich/Social-Amnesia) - Reddit / Twitter Auto Post Delete
+* [Undiscord](https://victornpb.github.io/undiscord)- Delete Discord Messages / [Warning](https://i.ibb.co/pdg4hRr/0b0d78219f05.png)
 * [delete-likes-from-twitter](https://gist.github.com/aymericbeaumet/d1d6799a1b765c3c8bc0b675b1a1547d) - Delete Twitter Likes / Favorites
-* [Unfavinator](http://unfavinator.com/) - Delete Twitter Favorites
-* [TweetDelete](https://tweetdelete.net/) or [TweetEraser](https://www.tweeteraser.com/) - Delete Twitter Posts in Bulk
 * [PowerDeleteSuite](https://github.com/j0be/PowerDeleteSuite) - Reddit Auto Post Delete
 * [telegram-delete-all-messages](https://github.com/gurland/telegram-delete-all-messages) - Delete Telegram Message
 * [Freenet Project](https://freenetproject.org/) - Browse / Publish Freenet Sites
@@ -352,7 +354,7 @@
 * [Numblr](https://github.com/heyLu/numblr) - Self-Hosted Frontend Redirect
 * [Photon](https://photon-reddit.com/), [reditr](https://reditr.com/), [RDX](https://rdx.overdevs.com/) or [redlib](https://github.com/redlib-org/redlib) - Reddit Frontends
 * [Invidious Redirect](https://addons.mozilla.org/en-US/firefox/addon/hooktube-redirect/?src=search) - YouTube Frontend Redirect
-* [twstalker](https://twstalker.com/) or [nitter](https://nitter.poast.org/) - Twitter Frontends
+* [twstalker](https://twstalker.com/) or [nitter](https://nitter.poast.org/) / [Instances](https://status.d420.de/), [2](https://github.com/zedeus/nitter/wiki/Instances) - Twitter Frontends
 * [Proxigram](https://codeberg.org/ThePenguinDev/Proxigram) or [Imginn](https://imginn.com) - Instagram Frontends
 * [Proxitok](https://github.com/pablouser1/ProxiTok) or [TikNot](https://tiknot.netlify.app/) / [Redirect](https://greasyfork.org/en/scripts/482683) - TikTok Frontends
 * [Tumlook](https://www.tumlook.com/), [Tumgik](https://www.tumgik.com/) or [PriviBlur](https://github.com/syeopite/priviblur) - Tumblr Frontends
@@ -383,20 +385,20 @@
 * ⭐ **[searx.fmhy](https://searx.fmhy.net/)**, [Fuck Off Google](https://search.fuckoffgoogle.net/), [searx](https://searx.be/), [tiekoetter](https://searx.tiekoetter.com/), [monocles](https://monocles.de/) - Searx Instance
 * ⭐ **[Metager](https://metager.org/)**
 * ⭐ **[Stract](https://trystract.com/)**
-* ⭐ **[Araa](https://araa.extravi.dev/)**
-* ⭐ **[DuckDuckGo](https://duckduckgo.com/)** - [Shortcuts](https://duckduckgo.com/bangs), [2](https://github.com/dmlls/yang)
-* [whoogle.fmhy](https://whoogle.fmhy.net/) - Whoogle Instance
+* ⭐ **[Araa](https://araa.extravi.dev/)** / Uses Google / DDG / Qwant
+* ⭐ **[DuckDuckGo](https://duckduckgo.com/)** - [Shortcuts](https://duckduckgo.com/bangs), [2](https://github.com/dmlls/yang) / Uses Bing
+* [whoogle.fmhy](https://whoogle.fmhy.net/) - Whoogle Instance  / Uses Google
 * [LibreY](https://github.com/Ahwxorg/librey) or [LibreX](https://github.com/hnhx/librex)
 * [4get](https://4get.ca/)
 * [Mojeek](https://www.mojeek.com/)
 * [Qwant](https://www.qwant.com/)
-* [Swisscows](https://swisscows.com/)
+* [Swisscows](https://swisscows.com/) / Uses Bing
 * [YaCy](https://yacy.net/)
-* [Startpage](https://www.startpage.com/)
+* [Startpage](https://www.startpage.com/) / Uses Google
 * [Brave Search](https://search.brave.com/)
 * [Search Encrypt](https://www.searchencrypt.com/)
-* [ekoru](https://ekoru.org/)
-* [Gibiru](https://gibiru.com/)
+* [ekoru](https://ekoru.org/) / Uses Bing
+* [Gibiru](https://gibiru.com/) / Uses Google
 * [SearXNG](https://docs.searxng.org/) - Self-Hosted
 * [Whoogle](https://pypi.org/project/whoogle-search/) - Self-Hosted
 

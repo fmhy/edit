@@ -6,14 +6,12 @@
 
 # ► Video Tools
 
-* ⭐ **[PixVerse](https://pixverse.ai/)** / [Discord](https://discord.com/invite/MXHErdJHMg), [StableVideo](https://www.stablevideo.com/), [Haiper](https://haiper.ai/) or [Stable Diffusion Videos](https://github.com/nateraw/stable-diffusion-videos) - AI Video Generators
-* ⭐ **[Waifu2x GUI](https://github.com/AaronFeng753/Waifu2x-Extension-GUI)**,[Video2x](https://github.com/k4yt3x/video2x), [Enhancr](https://github.com/mafiosnik777/enhancr) or [Dandere2x](https://github.com/akai-katto/dandere2x) - Video Upscalers
+* ↪️ **[AI Video Generators](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/ai#wiki_.25BA_video_generation)**
+* ⭐ **[Waifu2x GUI](https://github.com/AaronFeng753/Waifu2x-Extension-GUI)**, [Video2x](https://github.com/k4yt3x/video2x), [Enhancr](https://github.com/mafiosnik777/enhancr) or [Dandere2x](https://github.com/akai-katto/dandere2x) - Video Upscalers
 * ⭐ **[PlayPhrase](https://playphrase.me/)**, [clip.cafe](https://clip.cafe/), [ClipBase](https://clipbase.xyz/), [Filmot](https://filmot.com/) or [Yarn](https://yarn.co/) / [2](https://getyarn.io/) - Internet Clip Quote Search
-* [Synthesis Colab](https://github.com/camenduru/text-to-video-synthesis-colab), [text-to-video](https://text-to-video.vercel.app), [Text2Video-Zero](https://github.com/Picsart-AI-Research/Text2Video-Zero), [LensGo](https://lensgo.ai/), [Pika Labs](https://www.pika.art/) or [Damo](https://huggingface.co/spaces/damo-vilab/modelscope-text-to-video-synthesis) - Text to Video AIs
-* [Rollideo](https://rollideo.com/) - Text to Subbed Video
-* [Video Llava](https://replicate.com/nateraw/video-llava) - Video Description AI
 * [VCSI](https://github.com/amietn/vcsi) - Create Video Contact Sheets / Thumbnails
 * [VMAF](https://github.com/Netflix/vmaf) - Video Quality Assessment
+* [Video Llava](https://replicate.com/nateraw/video-llava) - Video Description AI
 * [TinyVid](https://kamua.com/tinyvid), [VideoSmaller](https://www.videosmaller.com/), [YouCompress](https://www.youcompress.com/), [Compress Video Online](https://compress-video-online.com/), [8mb.video](https://8mb.video/) or [MP4Compress](https://www.mp4compress.com/) - Video Compressors
 * [videoduplicatefinder](https://github.com/0x90d/videoduplicatefinder) - Duplicate Video Finder
 * [SimSwap](https://github.com/neuralchen/SimSwap) or [Roop](https://github.com/s0md3v/roop) - Video Face Swap Tools
@@ -70,18 +68,20 @@
 
 ## ▷ Convert / Encode
 
-* ⭐ **[archived-things](https://sometimes-archives-things.github.io/archived-things/)**, [The Encoding Guide](https://encoding-guide.neocities.org/) or [Silentaperture](https://silentaperture.gitlab.io/mdbook-guide/) - Video Encoding Guides
-* ⭐ **[Disc Rip](https://nullish.cat/blog/disc-rip)** - Disc Ripping Guide / [Mirror](https://rentry.org/disc-rip)
-* ⭐ **[Basics to the Art of Remuxing](https://rentry.co/Remuxing)** or [fs927](https://rentry.org/fs927) - Learn how to Remux Videos
-* ⭐ **[MKVToolNix](https://mkvtoolnix.download/)** - MKV Editing Tools
 * ⭐ **[HandBrake](https://handbrake.fr/)** - Video Encoding Software / [Guide](https://www.rapidseedbox.com/blog/guide-to-mastering-handbrake)
 * ⭐ **[FFmpeg](https://github.com/FFmpeg/FFmpeg)** or [Axiomui](https://axiomui.github.io/) - Tools to Process Multimedia
 * ⭐ **FFmpeg Tools** - [Autobuild](https://github.com/BtbN/FFmpeg-Builds), [2](https://github.com/m-ab-s/media-autobuild_suite) / [Guide](https://github.com/leandromoreira/ffmpeg-libav-tutorial), [2](https://ffmpeg.guide/) / [Cheat Sheet](https://gist.github.com/steven2358/ba153c642fe2bb1e47485962df07c730) / [Commands](https://alfg.dev/ffmpeg-commander/), [2](https://evanhahn.github.io/ffmpeg-buddy/) / [WebM Converter](https://argorar.github.io/WebMConverter/) / [Preview Filters](https://ffmpeg.lav.io/) / [AI Commands](https://github.com/gstrenge/llmpeg), [2](https://github.com/TejasQ/idli)
+* ⭐ **[MKVToolNix](https://mkvtoolnix.download/)** - MKV Editing Tools
+* ⭐ **[archived-things](https://sometimes-archives-things.github.io/archived-things/)**, [The Encoding Guide](https://encoding-guide.neocities.org/) or [Silentaperture](https://silentaperture.gitlab.io/mdbook-guide/) - Video Encoding Guides
+* ⭐ **[Disc Rip](https://nullish.cat/blog/disc-rip)** - Disc Ripping Guide / [Mirror](https://rentry.org/disc-rip)
+* ⭐ **[Basics to the Art of Remuxing](https://rentry.co/Remuxing)** or [fs927](https://rentry.org/fs927) - Learn how to Remux Videos
 * [Swivel](https://www.newgrounds.com/wiki/creator-resources/flash-resources/swivel) - SWF to Video Converter
 * [DDVT](https://forum.doom9.org/showthread.php?t=183479) - Dolby Vision RPU Demuxing / Injecting / Editing
 * [MKV Muxing Batch GUI](https://github.com/yaser01/mkv-muxing-batch-gui) - Mux Videos
 * [XMedia Recode](https://www.xmedia-recode.de/en/) - Video Conversion
 * [staxrip](https://github.com/staxrip/staxrip/) - Video Encoding
+* [IFME](https://github.com/Anime4000/IFME) - Video Encoding
+* [Voukoder](https://www.voukoder.org/) - Video Encoding Plugin
 * [FastFlix](https://fastflix.org/) - Video Conversion / [GitHub](https://github.com/cdgriffith/FastFlix)
 * [NEAV1E](https://github.com/Alkl58/NotEnoughAV1Encodes), [Av1an](https://github.com/master-of-zen/Av1an) -  AV1 Encoding
 * [Winnydows](https://winnydows.com/en/) - Video Conversion Software
@@ -98,7 +98,7 @@
 ## ▷ Live Streaming
 
 * 🌐 **[Awesome Streaming](https://github.com/juancarlospaco/awesome-streaming-tools)** or [StreamerFreebies](https://streamerfreebies.com/) - Live Streaming Resources
-* 🌐 **[Best VTuber](https://gist.github.com/emilianavt/cbf4d6de6f7fb01a42d4cce922795794)**, [VTResources](https://vtresources.carrd.co/) or [VTuber References](https://docs.google.com/spreadsheets/d/15UpI8GEqv22T45AD3L1EgcPB4l2Tvr64aDgLq7xZfMA/htmlview) - VTuber Tool Indexes
+* 🌐 **[Best VTuber](https://gist.github.com/emilianavt/cbf4d6de6f7fb01a42d4cce922795794)**, [VTResources](https://vtresources.carrd.co/), [VTuber Assets](https://discord.gg/acU3dFRtvC) or [VTuber References](https://docs.google.com/spreadsheets/d/15UpI8GEqv22T45AD3L1EgcPB4l2Tvr64aDgLq7xZfMA/htmlview) - VTuber Resources
 * ⭐ **[OBS](https://obsproject.com/)** - Live Stream Manager
 * ⭐ **OBS Tools** - [Virtual Cam](https://obsproject.com/forum/resources/obs-virtualcam.949/) / [Tweaks](https://discord.gg/CTT) / [Effects](https://github.com/exeldro/obs-shaderfilter/) / [Keyboard Visualiser](https://github.com/ThoNohT/NohBoard) / [Background Remover](https://github.com/occ-ai/obs-backgroundremoval) / [Phone Controller](https://github.com/Kounex/obs_blade) / [WebRTC Server](https://github.com/GRVYDEV/Project-Lightspeed) / [Plugin Updater](https://ko-fi.com/s/0b5bd4536d)
 * [Stream Elements](https://streamelements.com/) - Streaming Service Manager
@@ -236,6 +236,7 @@
 * [Chocolate](https://github.com/ChocolateApp/Chocolate) - Media Server
 * [SeaAnime](https://seanime.rahim.app/) - Anime Server
 * [Frames](https://github.com/Eleven-am/frames) - GDrive Server
+* [HTPC](https://r-htpc.github.io/wiki/) - Home Theater PC guides / [Subreddit](https://www.reddit.com/r/htpc/)
 * [MSX](https://msx.benzac.de/info/) - Web App
 * [ErsatzTV](https://ersatztv.org/) or [dizqueTV](https://github.com/vexorian/dizquetv) - Live Channel Media Servers
 * [YTDL-Sub](https://ytdl-sub.readthedocs.io/) - Add YouTube Channels to Media Servers

@@ -29,11 +29,16 @@
 * ⭐ **[Yandex](https://yandex.com/)**
 * ⭐ **[Ecosia](https://www.ecosia.org/)** - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/ecosia-the-green-search/) / [Chrome](https://chromewebstore.google.com/detail/ecosia-the-search-engine/eedlgdlajadkbbjoobobefphmfkcchfk)
 * [Leta](https://leta.mullvad.net) - Mullvad VPN required
-* [You](https://you.com/) - [AI Search](https://you.com/search?q=who+are+you&fromSearchBar=true&tbm=youchat)
 * [MWMBL](https://mwmbl.org/) - [GitHub](https://github.com/mwmbl/mwmbl)
 * [Presearch](https://presearch.com/) - [GitHub](https://github.com/presearchofficial)
 
 [Bing](https://www.bing.com/), [Lycos](https://www.lycos.com/), [WebCrawler](https://www.webcrawler.com/), [Million Short](https://millionshort.com/), [Andi](https://andisearch.com/), [Excite](https://search.excite.com/), [Metacrawler](https://www.metacrawler.com/), [entireweb](https://www.entireweb.com/), [Carrot2](https://search.carrot2.org/#/web), [4Search](https://www.4search.com/), [Info.com](https://www.info.com/), [Yahoo](https://www.yahoo.com/), [FrogFind!](http://frogfind.com/), [Visymo Search](https://search.visymo.com/), [AOL](https://search.aol.com/), [All in One](https://all-io.net/), [All the Internet](https://www.alltheinternet.com/), [eTools.ch](https://www.etools.ch/), [BizNar](https://biznar.com/biznar/desktop/en/search.html), [WorldWideScience](https://worldwidescience.org/), [ZincSearch](https://github.com/zincsearch/zincsearch), [Whoogle Search](https://benbusby.com/projects/whoogle-search/), [infospace](https://www.infospace.com/), [2lingual](https://www.2lingual.com/), [alexandria.org](https://www.alexandria.org/)
+
+***
+
+## Ambient Sound Mixers
+
+[myNoise](https://mynoise.net/), [ambiphone](https://ambiph.one/), [Moodist](https://moodist.app/), [Moodli](https://www.moodil.com/), [Soundscape](https://soundescape.io/), [Nature Mixer](https://naturemixer.com/), [CalmyLeon](https://calmyleon.com/), [Noises Online](https://noises.online/), [Relaxing Sounds](https://www.shuteye.ai/relaxing-sounds/), [A Soft Murmur](https://asoftmurmur.com/), [EcoSounds](https://en.ecosounds.net/), [VirtOcean](https://virtocean.com/), [ASMRion](https://asmrion.com/), [Defonic](https://defonic.com), [Sound Of Colleagues](https://soundofcolleagues.com/), [IMissTheOffice](https://imisstheoffice.eu/), [I Miss My Bar](http://imissmybar.com/), [Homesick](https://scoreascore.com/homesick)
 
 ***
 
@@ -61,8 +66,8 @@
 
 ### To-Do Apps
 
+* ⭐ **[Tasks](https://tasks.org/)** - Sync Supported
 * ⭐ **[SnapTick](https://github.com/vishal2376/snaptick)**
-* [Tasks](https://tasks.org/) - Sync Supported
 * [Any.do](https://www.any.do/) - Sync Supported
 * [doable](https://doable.at/) - Sync Supported / Extensions
 * [Orgzly-revived](https://www.orgzly.com) - Sync Supported
@@ -92,7 +97,7 @@
 * [Really Good Emails](https://reallygoodemails.com/) - Product Email Mobile Designs and Templates
 * [Screen from Traction](https://screen.traction.one/) - Create App Screenshots
 
-[Previewed](https://previewed.app/), [Mockup World](https://www.mockupworld.co/), [DeviceShots](https://deviceshots.com/), [DeviceFrames](https://deviceframes.com/), [shots.so](https://shots.so/), [medialoot](https://medialoot.com/free-mockups/), [MockMagic](https://www.mockmagic.com/), [MockupsForFree](https://mockupsforfree.com/), [zippypixels](https://zippypixels.com/), [Mockuphone](https://mockuphone.com/), [TheMockupClub](https://themockup.club/), [RiseShot](https://www.riseshot.com/), [Upmock](https://www.upmock.io/), [LS Graphics](https://www.ls.graphics/), [Picasso](https://www.picassoapp.ca/)
+[Previewed](https://previewed.app/), [Mockup World](https://www.mockupworld.co/), [DeviceShots](https://deviceshots.com/), [DeviceFrames](https://deviceframes.com/), [shots.so](https://shots.so/), [medialoot](https://medialoot.com/free-mockups/), [MockMagic](https://www.mockmagic.com/), [MockupsForFree](https://mockupsforfree.com/), [zippypixels](https://zippypixels.com/), [Mockuphone](https://mockuphone.com/), [TheMockupClub](https://themockup.club/), [RiseShot](https://www.riseshot.com/), [Upmock](https://www.upmock.io/), [LS Graphics](https://www.ls.graphics/), [Picasso](https://www.picassoapp.ca/), [minimalmockups](https://www.minimalmockups.com/), [mrmockup](https://mrmockup.com/free-mockups/), [mockupnest](https://mockupnest.com/)
 
 ***
 
@@ -126,7 +131,7 @@
 * [TabWave](https://www.tabwave.app/) - Minimal / Productivity New Tab
 * [Tabiverse](https://pastebin.com/tApHRJDv) / [Discord](https://discord.gg/MUgRGwE)
 
-[Minimal Startpage](https://github.com/deepjyoti30/startpage), [hexagonTab](https://github.com/zombieFox/hexagonTab), [CaretTab](https://www.carettab.com/), [mesmerized](https://mesmerized.me/), [Bonjourr](https://bonjourr.fr/), [Perfect Home](https://github.com/perfect-things/perfect-home), [Yet Another Speed Dial](https://github.com/conceptualspace/yet-another-speed-dial), [Tabliss](https://tabliss.io/), [Infinity New Tab](https://en.infinitynewtab.com/), [b2ntp](https://d3ward.github.io/b2ntp/), [Terminal-style new tab page](https://github.com/midnitefox/Nord-Theme-Ports-and-Assets/tree/main/custom-start-page), [Renewed Tab](https://renewedtab.com/), [Anori](https://anori.app/), [Momentum](https://momentumdash.com/)
+[Minimal Startpage](https://github.com/deepjyoti30/startpage), [hexagonTab](https://github.com/zombieFox/hexagonTab), [CaretTab](https://www.carettab.com/), [mesmerized](https://mesmerized.me/), [Bonjourr](https://bonjourr.fr/), [Perfect Home](https://github.com/perfect-things/perfect-home), [Yet Another Speed Dial](https://github.com/conceptualspace/yet-another-speed-dial), [Tabliss](https://tabliss.io/), [Infinity New Tab](https://en.infinitynewtab.com/), [b2ntp](https://d3ward.github.io/b2ntp/), [Terminal-style new tab page](https://github.com/midnitefox/Nord-Theme-Ports-and-Assets/tree/main/custom-start-page), [Renewed Tab](https://renewedtab.com/), [Anori](https://anori.app/), [Momentum](https://momentumdash.com/), [NightTab](https://github.com/zombieFox/nightTab)
 
 ***
 
@@ -134,7 +139,7 @@
 
 * ⭐ **[Linux Command Library](https://linuxcommandlibrary.com/)**
 
-[Awesome for One Liner](https://github.com/sheepla/awesome-for-oneliner), [You Don't Need GUI](https://github.com/you-dont-need/You-Dont-Need-GUI), [Helmanual](https://helpmanual.io/), [CommandlineFU](https://www.commandlinefu.com/), [how2](https://github.com/santinic/how2), [Bash Academy](https://guide.bash.academy/), [ss64 Bash](https://ss64.com/bash/), [Bash Oneliner](https://onceupon.github.io/Bash-Oneliner/)
+[Awesome for One Liner](https://github.com/sheepla/awesome-for-oneliner), [You Don't Need GUI](https://github.com/you-dont-need/You-Dont-Need-GUI), [Helmanual](https://helpmanual.io/), [CommandlineFU](https://www.commandlinefu.com/), [how2](https://github.com/santinic/how2), [Bash Academy](https://guide.bash.academy/), [ss64 Bash](https://ss64.com/bash/), [Bash Oneliner](https://onceupon.github.io/Bash-Oneliner/), [navi](https://github.com/denisidoro/navi)
 
 ***
 
@@ -182,7 +187,7 @@
 
 * 🌐 **[Awesome CSS Frameworks](https://github.com/troxler/awesome-css-frameworks)** CSS Frameworks Index
 * 🌐 **[Classless CSS](https://github.com/dbohdan/classless-css)** - Classless CSS Themes & Frameworks
-* 🌐 **[Awesome TailwindCSS](https://tailwindcss.com)** - Tailwind CSS Resources
+* 🌐 **[Awesome TailwindCSS](https://github.com/aniftyco/awesome-tailwindcss)** - Tailwind CSS Resources
 * ⭐ **[Tailwind CSS](https://tailwindcss.com/)** - CSS Framework
 * [Tailwind Toolbox](https://tailwindtoolbox.com/) - Tailwind Starter Templates & Components
 * [Tailsc](https://tailsc.com/), [daisyUI](https://daisyui.com/), [Float UI](https://floatui.com/) / [GitHub](https://github.com/MarsX-dev/floatui), [Aceternity UI](https://ui.aceternity.com/) or [Tailspark](https://tailspark.co/) - Tailwind CSS Components
@@ -329,7 +334,7 @@
 
 ### Wikipedia Tools
 
-[Top Pages](https://top.hatnote.com/) / [Deleted Pages](https://deletionpedia.org/en/Main_Page) / [Page Connections](https://hyperleap.com/) / [Dark Mode](https://en.wikipedia.org/wiki/Wikipedia:Dark_mode) / [TUI](https://github.com/yashsinghcodes/wik) / [Offline View](http://cdpedia.python.org.ar/index.en.es.html) / [Extract Text](https://github.com/attardi/wikiextractor) / [Shorten URLs](https://meta.wikimedia.org/wiki/Special:UrlShortener) / [Location Search](https://wikinearby.toolforge.org/)
+[Top Pages](https://top.hatnote.com/) / [Deleted Pages](https://deletionpedia.org/en/Main_Page) / [Page Connections](https://hyperleap.com/) / [Dark Mode](https://en.wikipedia.org/wiki/Wikipedia:Dark_mode) / [TUI](https://github.com/yashsinghcodes/wik) / [Offline View](http://cdpedia.python.org.ar/index.en.es.html) / [Extract Text](https://github.com/attardi/wikiextractor) / [Extract Markdown](https://substance.reorx.com/) / [Shorten URLs](https://meta.wikimedia.org/wiki/Special:UrlShortener) / [Location Search](https://wikinearby.toolforge.org/)
 
 ***
 
@@ -337,7 +342,7 @@
 
 * ⭐ **[Neal.fun](https://neal.fun/)**
 
-[Oimo](https://oimo.io/works ), [AIDN](https://aidn.jp/), [Neave](https://codepen.io/neave) / [2](https://neave.com/), [BoredHumans](https://boredhumans.com/), [puissant](https://sandwichpuissant.net/), [Mr.doob](https://mrdoob.com/), [Bimble Space](https://in.bimble.space/toys), [Creative Tech Guy](https://creativetechguy.com/), [Just For Fun](https://justforfun.io/), [Andrew Marsh](https://andrewmarsh.com/software), [JenniferDewalt](https://jenniferdewalt.com/), [Chrome Experiments](https://experiments.withgoogle.com/collection/chrome), [yezi](https://yezi.itch.io/), [topster](https://topster.net/), [p5aholic](https://experiments.p5aholic.me/), [vole.wtf](https://vole.wtf/), [WilliamHoza](https://williamhoza.com/misc/), [Rinkworks](http://www.rinkworks.com/), [Orteil](https://orteil.dashnet.org/), [funwebsite](https://funwebsite.fun/), [Toms.Toys](https://toms.toys/), [Pointless Sites](https://www.pointlesssites.com/), [The Scientific Place](https://scientific.place/)
+[Oimo](https://oimo.io/works ), [AIDN](https://aidn.jp/), [Neave](https://codepen.io/neave) / [2](https://neave.com/), [BoredHumans](https://boredhumans.com/), [puissant](https://sandwichpuissant.net/), [Mr.doob](https://mrdoob.com/), [Bimble Space](https://in.bimble.space/toys), [Creative Tech Guy](https://creativetechguy.com/), [Just For Fun](https://justforfun.io/), [Andrew Marsh](https://andrewmarsh.com/software), [JenniferDewalt](https://jenniferdewalt.com/), [Chrome Experiments](https://experiments.withgoogle.com/collection/chrome), [yezi](https://yezi.itch.io/), [topster](https://topster.net/), [p5aholic](https://experiments.p5aholic.me/), [vole.wtf](https://vole.wtf/), [WilliamHoza](https://williamhoza.com/misc/), [Rinkworks](http://www.rinkworks.com/), [Orteil](https://orteil.dashnet.org/), [funwebsite](https://funwebsite.fun/), [Toms.Toys](https://toms.toys/), [Pointless Sites](https://www.pointlesssites.com/), [The Scientific Place](https://scientific.place/), [Aiza Lab](https://lab.aizastudio.com/)
 
 ***
 
@@ -411,9 +416,8 @@
 * ⭐ **[vercel](https://vercel.com/)**
 * ⭐ **[netlify](https://www.netlify.com/)**
 * ⭐ **[sourcehut pages](https://srht.site/)**
-* [is-a.dev](https://www.is-a.dev/) - Developer Homepages
 
-[codeberg](https://codeberg.page/), [profreehost](https://profreehost.com/), [000webhost](https://www.000webhost.com/), [infinityfree](https://infinityfree.net/), [openshift](https://www.redhat.com/en/technologies/cloud-computing/openshift), [cloudaccess](https://www.cloudaccess.net/), [Gitlab Pages](https://docs.gitlab.com/ee/user/project/pages/index.html), [glitch](https://glitch.com/), [biz.nf](https://www.biz.nf/), [coolify](https://coolify.io/), [wix](https://www.wix.com/), [byet.host](https://byet.host/free-hosting), [webs](https://www.webs.com/), [yola](https://www.yola.com/), [WordPress](https://wordpress.com/) / [2](https://wordpress.org/), [jimdo](https://www.jimdo.com/), [awardspace](https://www.awardspace.com/), [pythonanywhere](https://www.pythonanywhere.com/), [droppages](https://droppages.com/), [Zeronet](https://cheapskatesguide.org/articles/zeronet-site.html), [Zeronet 2](https://zeronet.io/docs/site_development/getting_started/), [ibm cloud](https://www.ibm.com/cloud/free), [hubzilla](https://zotlabs.org/page/zotlabs/home), [site123](https://www.site123.com/), [hostbreak](https://hostbreak.com/web-hosting/free), [tilda](https://tilda.cc/), [BitBucket](https://support.atlassian.com/bitbucket-cloud/docs/publishing-a-website-on-bitbucket-cloud/), [render](https://render.com/), [Fleek](https://fleek.co/), [stormkit](https://www.stormkit.io/), [freehosting](https://freehosting.host/), [freewebhostingarea](https://www.freewebhostingarea.com/), [milkshake](https://milkshake.app/), [ikoula](https://www.ikoula.com/), [fanspace](http://www.fanspace.com/), [dotera](https://dotera.net/), [fc2](https://web.fc2.com/en/), [w3schools](https://www.w3schools.com/spaces/), [freehostia](https://www.freehostia.com/), [olitt](https://www.olitt.com/), [uhostfull](https://www.uhostfull.com/), [x10hosting](https://x10hosting.com/), [lenyxo](https://lenyxo.com/freehosting/), [yunohost](https://yunohost.org/), [1freehosting](https://www.1freehosting.net/), [5gb.club](http://www.5gb.club/free-hosting.php?i=1), [ultifreehosting](https://ultifreehosting.com/), [aeonfree](https://aeonfree.com/), [bravenet](https://www.bravenet.com/), [atspace](https://www.atspace.com/), [aava](https://aava.dy.fi/), [netlib](https://netlib.re/), [unison](https://www.unison.cloud/)
+[codeberg](https://codeberg.page/), [profreehost](https://profreehost.com/), [000webhost](https://www.000webhost.com/), [infinityfree](https://infinityfree.net/), [openshift](https://www.redhat.com/en/technologies/cloud-computing/openshift), [cloudaccess](https://www.cloudaccess.net/), [Gitlab Pages](https://docs.gitlab.com/ee/user/project/pages/index.html), [glitch](https://glitch.com/), [biz.nf](https://www.biz.nf/), [coolify](https://coolify.io/), [wix](https://www.wix.com/), [byet.host](https://byet.host/free-hosting), [webs](https://www.webs.com/), [yola](https://www.yola.com/), [WordPress](https://wordpress.com/) / [2](https://wordpress.org/), [jimdo](https://www.jimdo.com/), [awardspace](https://www.awardspace.com/), [pythonanywhere](https://www.pythonanywhere.com/), [droppages](https://droppages.com/), [Zeronet](https://cheapskatesguide.org/articles/zeronet-site.html), [Zeronet 2](https://zeronet.io/docs/site_development/getting_started/), [ibm cloud](https://www.ibm.com/cloud/free), [hubzilla](https://zotlabs.org/page/zotlabs/home), [site123](https://www.site123.com/), [hostbreak](https://hostbreak.com/web-hosting/free), [tilda](https://tilda.cc/), [BitBucket](https://support.atlassian.com/bitbucket-cloud/docs/publishing-a-website-on-bitbucket-cloud/), [render](https://render.com/), [Fleek](https://fleek.co/), [stormkit](https://www.stormkit.io/), [freehosting](https://freehosting.host/), [freewebhostingarea](https://www.freewebhostingarea.com/), [milkshake](https://milkshake.app/), [ikoula](https://www.ikoula.com/), [fanspace](http://www.fanspace.com/), [dotera](https://dotera.net/), [fc2](https://web.fc2.com/en/), [w3schools](https://www.w3schools.com/spaces/), [freehostia](https://www.freehostia.com/), [olitt](https://www.olitt.com/), [uhostfull](https://www.uhostfull.com/), [x10hosting](https://x10hosting.com/), [lenyxo](https://lenyxo.com/freehosting/), [yunohost](https://yunohost.org/), [1freehosting](https://www.1freehosting.net/), [5gb.club](http://www.5gb.club/free-hosting.php?i=1), [ultifreehosting](https://ultifreehosting.com/), [aeonfree](https://aeonfree.com/), [bravenet](https://www.bravenet.com/), [atspace](https://www.atspace.com/), [aava](https://aava.dy.fi/), [netlib](https://netlib.re/), [unison](https://www.unison.cloud/), [tinkerhost](https://tinkerhost.net/)
 
 ***
 
@@ -700,6 +704,7 @@
 * ⭐ **[Fabulously Optimized](https://download.fo) / [GitHub](https://github.com/Fabulously-Optimized/fabulously-optimized)**
 * ⭐ **[Simply Optimized](https://modrinth.com/modpack/sop)**
 * ⭐ **[Sodium](https://modrinth.com/mod/sodium)** / [Indium](https://github.com/comp500/Indium/) / [Extra](https://modrinth.com/mod/sodium-extra) / [Nvidia Rendering](https://github.com/MCRcortex/nvidium)
+* [Additive](https://modrinth.com/modpack/additive) - Additive Mod Pack
 
 [OptiFine](https://optifine.net/), [Ferrite Core](https://modrinth.com/mod/ferrite-core), [Caffeine](https://github.com/CaffeineMC), [Lithium](https://modrinth.com/mod/lithium), [Ares](https://www.aresclient.com/), [VulkanMod](https://github.com/xCollateral/VulkanMod)
 
@@ -743,7 +748,7 @@
 * ⭐ **[Console Living Room](https://archive.org/details/consolelivingroom)**
 * ⭐ **[My Abandonware](https://www.myabandonware.com/)**
 
-[CrocDB](https://crocdb.net/), [WebRCade](https://www.webrcade.com/), [RetroGames](https://www.retrogames.cz/), [retrogames.cc](https://www.retrogames.cc/), [ClassicReload](https://classicreload.com/), [Retro Games Bot](https://retrogamesbot.com/), [Vizzed](https://www.vizzed.com/), [Free80sArcade](https://www.free80sarcade.com/), [Retro Uprising](https://www.retrouprising.com/), [Retro Games](https://www.retrogames.onl/), [Play Classic Games](https://playclassic.games/), [ClassicGames](https://www.classicgames.me/), [Emulator.Games](https://www.emugames.net/), [GamulatoR](https://www.gamulator.com/ROMs), [AfterPlay](https://afterplay.io/), [Aurora](https://skitty.xyz/aurora/). [Emulator.online](http://emulator.online/), [Online.OldGames](https://online.oldgames.sk/), [Retro Games Online](https://www.playretrogames.com/), [PlayEmulator](https://playemulator.online/), [2](https://www.playemulator.io/games/), [Emulator Games Online](https://gamesfrog.com/), [Virtual Consoles](https://virtualconsoles.com/), [OldGameShelf](https://oldgameshelf.com/), [Emulator Online](https://emulatoronline.com/), [PlayRetroGames](https://playretrogames.net/), [Retro Games Free](https://retrogamesfree.com/), [PlayRetroGames](https://playretrogames.com/), [Piepacker](https://piepacker.com/), [Tiny8bit](https://floooh.github.io/tiny8bit/), [ClassicGame](https://www.classicgame.com/), [ClassicGamesArcade](https://classicgamesarcade.com/), [Radyolojinet](https://www.radyolojinet.com/retro/), [WePlayOld](https://www.weplayold.com/)
+[The Retro Saga](https://theretrosaga.com/), [CrocDB](https://crocdb.net/), [WebRCade](https://www.webrcade.com/), [RetroGames](https://www.retrogames.cz/), [retrogames.cc](https://www.retrogames.cc/), [ClassicReload](https://classicreload.com/), [Retro Games Bot](https://retrogamesbot.com/), [Vizzed](https://www.vizzed.com/), [Free80sArcade](https://www.free80sarcade.com/), [Retro Uprising](https://www.retrouprising.com/), [Retro Games](https://www.retrogames.onl/), [Play Classic Games](https://playclassic.games/), [ClassicGames](https://www.classicgames.me/), [Emulator.Games](https://www.emugames.net/), [GamulatoR](https://www.gamulator.com/ROMs), [AfterPlay](https://afterplay.io/), [Aurora](https://skitty.xyz/aurora/). [Emulator.online](http://emulator.online/), [Online.OldGames](https://online.oldgames.sk/), [Retro Games Online](https://www.playretrogames.com/), [PlayEmulator](https://playemulator.online/), [2](https://www.playemulator.io/games/), [Emulator Games Online](https://gamesfrog.com/), [Virtual Consoles](https://virtualconsoles.com/), [OldGameShelf](https://oldgameshelf.com/), [Emulator Online](https://emulatoronline.com/), [PlayRetroGames](https://playretrogames.net/), [Retro Games Free](https://retrogamesfree.com/), [PlayRetroGames](https://playretrogames.com/), [Piepacker](https://piepacker.com/), [Tiny8bit](https://floooh.github.io/tiny8bit/), [ClassicGame](https://www.classicgame.com/), [ClassicGamesArcade](https://classicgamesarcade.com/), [Radyolojinet](https://www.radyolojinet.com/retro/), [WePlayOld](https://www.weplayold.com/)
 
 ***
 
@@ -927,7 +932,7 @@
 
 * ⭐ **[YouTube Audio Library](https://www.youtube.com/audiolibrary)**
 
-[FreePB](https://freepd.com/), [Free Music Archive](https://freemusicarchive.org/), [joshwoodward](https://www.joshwoodward.com/), [wowsound](https://wowsound.com/), [epidemicsound](https://www.epidemicsound.com/), [Pixabay Music](https://pixabay.com/music/), [audiomicro](https://www.audiomicro.com/), [Starfrosch](https://starfrosch.com/), [Mubert](https://mubert.com/), [ccHound](https://cchound.com/), [MusicScreen](https://www.musicscreen.org/), [FilmMusic](https://filmmusic.io/), [Fugue](https://icons8.com/music), [EDMRF](https://edmroyaltyfree.net/), [chosic](https://www.chosic.com/free-music/all/), [Anttis Instrumentals](https://www.gamedev.net/news/2000-instrumental-pieces-released-by-anttis-instrumentals-r1135/) / [Torrent](https://drive.google.com/open?id=0ByvAPNATAYsBR0FUczYzWHk3NEU), [Sampld](https://open.sampld.app/), [BLueFoxMusic](https://bluefoxmusic.com/), [ScottBuckley](https://www.scottbuckley.com.au/library/), [Creative Commons Jazz](https://jazz.mixremix.cc/), [tunetank](https://tunetank.com/), [audiolibrary](https://www.audiolibrary.com.co/), [purple-planet](https://www.purple-planet.com/), [freemusicpublicdomain](https://www.freemusicpublicdomain.com/)
+[FreePB](https://freepd.com/), [Free Music Archive](https://freemusicarchive.org/), [joshwoodward](https://www.joshwoodward.com/), [wowsound](https://wowsound.com/), [epidemicsound](https://www.epidemicsound.com/), [Pixabay Music](https://pixabay.com/music/), [audiomicro](https://www.audiomicro.com/), [Starfrosch](https://starfrosch.com/), [Mubert](https://mubert.com/), [ccHound](https://cchound.com/), [MusicScreen](https://www.musicscreen.org/), [FilmMusic](https://filmmusic.io/), [Fugue](https://icons8.com/music), [EDMRF](https://edmroyaltyfree.net/), [chosic](https://www.chosic.com/free-music/all/), [Anttis Instrumentals](https://www.gamedev.net/news/2000-instrumental-pieces-released-by-anttis-instrumentals-r1135/) / [Torrent](https://drive.google.com/open?id=0ByvAPNATAYsBR0FUczYzWHk3NEU), [Sampld](https://open.sampld.app/), [BLueFoxMusic](https://bluefoxmusic.com/), [ScottBuckley](https://www.scottbuckley.com.au/library/), [Creative Commons Jazz](https://jazz.mixremix.cc/), [tunetank](https://tunetank.com/), [audiolibrary](https://www.audiolibrary.com.co/), [purple-planet](https://www.purple-planet.com/), [freemusicpublicdomain](https://www.freemusicpublicdomain.com/), [Incompetech Music](https://incompetech.com/music/royalty-free/music.html)
 
 ***
 
@@ -1002,54 +1007,6 @@
 
 ***
 
-### SFlix Clones
-
-* [HiMovies](https://himovies.sx/)
-* [Solarmovies](https://solarmovies.win/)
-* [HuraMovies](https://huramovies.to/)
-* [Solarmovie](https://solarmovie.pe/)
-* [6movies](https://www2.6movies.net/)
-* [GoMovies](https://gomovies.sx/)
-* [TheFlixer.se](https://theflixer.se/)
-* [TheFlixerTv.to](https://theflixertv.to/)
-* [MyFlixer](https://myflixertv.to/)
-* [MovieOrca](https://www2.movieorca.com/)
-* [sWatchSeries.is](https://swatchseries.is/)
-* [Freemoviesfull](https://www1.freemoviesfull.com/)
-* [Actvid](https://www.actvid.rs/)
-* [HDToday.to](https://hdtoday.to/)
-* [HDToday.cc](https://hdtoday.cc/)
-* [MoviesJoy.plus](https://moviesjoy.plus/)
-* [MoviesJoy.is](https://moviesjoy.is/)
-* [DopeBox](https://dopebox.to/)
-* [Fboxtv](https://fboxtv.com/)
-* [Movies2watch.cc](https://movies2watch.cc/)
-* [Ev01](https://ev01.to/)
-* [Movies2watch.tv](https://movies2watch.tv/)
-* [TinyZoneTV.se](https://tinyzonetv.se/) / [TinyZoneTV.cc](https://tinyzonetv.cc/)
-* [F2movies](https://www6.f2movies.to/)
-* [Movie2k](https://2kmovie.cc/)
-* [GOKU](https://goku.sx/)
-* [BingeWatch](https://bingewatch.to/)
-* [Divicast](https://www.divicast.com/)
-* [FlixHD](https://flixhd.cc/)
-* [Zoechip.org](https://zoechip.org/)
-* [Zoechip.cc](https://zoechip.cc/)
-* [Zoechip.com](https://www3.zoechip.com/)
-* [123movies TV](https://123moviestv.net/)
-* [MovieCracker](https://moviecracker.net/)
-* [ShadowboxMovies](https://www.showboxmovies.net/)
-* [Watch4FreeMovies](https://www.watch4freemovies.com/)
-* [Filmlicious](https://www2.filmlicious.net/)
-* [MovieKid](https://www.moviekids.tv/)
-* [Yesmovies](https://yesmovies.mn/)
-* [Cataz](https://cataz.to)
-* [FMovie.ws](https://fmovie.ws/)
-* [FMovies.hn](https://fmovies.hn/)
-* [FlixHQ.to](https://flixhq.to)
-
-***
-
 ## Survival
 
 * ⭐ **[Survivor Library](https://www.survivorlibrary.com/)**
@@ -1075,13 +1032,13 @@
 
 ## Switch ROMs
 
-* [Ziperto](https://ziperto.com/) / Avoid [Fake](https://ibb.co/wWJbkX6) Buttons
-* [ROMSLAB](https://romslab.com/)
-* [NXBrew](https://nxbrew.com/) / Scroll past Download Setup buttons
+* [NXBrew](https://nxbrew.com/) / Scroll past Download Setup buttons / [Discord](https://discord.gg/UkBCS39dnJ)
+* [Ziperto](https://ziperto.com/) / Avoid [Fake](https://ibb.co/wWJbkX6) Buttons / [Discord](https://discord.gg/VgZ66bM87u)
 * [nsw2u](https://nsw2u.com/), [2](https://nsw2u.net/)
-* [NswRoms](https://nswrom.com/)
-* [ROMSim](https://romsim.com/) / [Discord](https://discord.gg/Zgdhq7xDcd)
+* [NswRom](https://nswrom.com/)
 * [taodung](https://taodung.com/)
+* [ROMSim](https://romsim.com/) / [Discord](https://discord.gg/Zgdhq7xDcd)
+* [ROMSLAB](https://romslab.com/)
 * [Hopmarks](https://www.hopmarks.com/) - Torrent
 
 ***

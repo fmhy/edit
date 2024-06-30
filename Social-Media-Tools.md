@@ -12,7 +12,7 @@
 * [LiveCounts](https://livecounts.io/) - Live Social Media Stats
 * [ExportComments](https://exportcomments.com/) - Export Social Media Comments
 * [socid_extractor](https://github.com/soxoj/socid-extractor) - Extract Social Media User Info from Pages
-* [tumblr-utils](https://github.com/bbolli/tumblr-utils) - Tumblr Utilities
+* [tumblr-utils](https://github.com/cebtenzzre/tumblr-utils) - Tumblr Utilities
 * [Tumblr Savior](https://bjornstar.com/tumblr-savior) - Tumblr Dashboard Filter
 * [TumblrOriginalPostFinder](https://jetblackcode.com/TumblrOriginalPostFinder) - Tumblr Post Finder
 * [Pillowfort](https://www.pillowfort.social/) or [Cohost](https://cohost.org/) - Tumblr Alternatives
@@ -25,7 +25,7 @@
 
 ***
 
-* 🌐 **[DiscordTools](https://discordtools.io/)** or [Awesome Discord](https://github.com/jacc/awesome-discord) - Discord Tools Indexes
+* 🌐 **[Awesome Discord](https://github.com/jacc/awesome-discord)** - Discord Tool Index
 * ⭐ **[x266.mov](https://x266.mov/discord-embed)**, [embeds.video](https://embeds.video/), [Stolen Shoes](https://stolen.shoes/), [autocompressor](https://autocompressor.net/), [noury](https://dc.noury.li/) or [Discord Embedder](https://discord.nfp.is/) - Embed Videos on Discord
 * ⭐ **[Revolt](https://revolt.chat/)** / [Bots](https://rvlt.gg/discover/bots) / [Resources](https://github.com/insertish/awesome-revolt) / [Divolt Resources](https://github.com/ggtylerr/awesome-divolt) or **[Guilded](https://www.guilded.gg/)** - Discord Alternatives
 * [Multi-Accounts 1 Email](https://generator.email/blog/gmail-generator) - Create Multi Accounts with One Email / [Guide](https://rentry.co/altmethod)
@@ -73,7 +73,9 @@
 * ⭐ **BetterDiscord Tools** - [Plugins](https://betterdiscord.app/plugins) / [Banned Plugins](https://rentry.co/BDBannedPlugins), [2](https://github.com/mov-ebx/BannedBetterDiscordPlugins) / [Support](https://discord.gg/0Tmfo5ZbORCRqbAd) / [Nitro](https://github.com/riolubruh/YABDP4Nitro) / [Re-install Guide](https://gist.github.com/Knewest/ee59d3960e18e6d813c9221b54b36ab1)
 * ⭐ **[OpenAsar](https://openasar.dev/)** - Improved Discord Desktop's app.asar / [GitHub](https://github.com/GooseMod/OpenAsar)
 * ⭐ **[WebCord](https://github.com/SpacingBat3/WebCord)** - Privacy-Hardened Client / [Discord](https://discord.gg/Vm4CwZx)
-* [ArmCord](https://github.com/ArmCord/ArmCord) or [abaddon](https://github.com/uowuo/abaddon) - Lightweight Discord Clients
+* [Replugged](https://replugged.dev/) - Discord Client Mod / Lightweight
+* [ArmCord](https://github.com/ArmCord/ArmCord) - Discord Client Mod / Lightweight
+* [abaddon](https://github.com/uowuo/abaddon) - Discord Client Mod / Lightweight
 * [Discordo](https://github.com/ayn2op/discordo) - Discord Terminal Client
 * [Unicord](https://github.com/UnicordDev/Unicord) - Discord Client for Windows / [Discord](https://discord.gg/64g7M5Y)
 * [Spacebar](https://github.com/spacebarchat/spacebarchat) - Self-hostable Discord Client
@@ -120,6 +122,7 @@
 ## ▷ Discord Bots
 
 * ⭐ **[FreeStuff Bot](https://freestuffbot.xyz/)** - Free Games Alert Bot
+* [FixEmbed](https://github.com/kenhendricks00/FixEmbedBot) - Fix Embeds on Discord Bot
 * [NotQuiteNitro](https://nqn.blue/) - Discord Nitro Alternative
 * [fmbot](https://fmbot.xyz/) - Discord Voice Chat Scrobbling
 * [Chuu](https://github.com/ishwi/Chuu) - Last.fm Discord Bot
@@ -139,7 +142,6 @@
 ## ▷ Server / Bot Indexes
 
 * 🌐 **[Alternatives to MEE6](https://alternativestomee6.com/)** - MEE6 Alternatives / [Discord](https://discord.gg/WrbMdWHfNd)
-* ↪️ **[Discord ChatGPT Bots](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/ai#wiki_.25B7_chatgpt_tools)**
 * [DISBOARD](https://disboard.org/) - Server / Bot Index
 * [Discord Servers](https://discordservers.com/) - Server / Bot Index
 * [Discadia](https://discadia.com/) - Server / Bot Index
@@ -338,22 +340,19 @@
 
 * 🌐 **[YT Large](https://ytlarge.com/)** - YouTube Tools
 * ⭐ **[PocketTube](https://pockettube.io/)** or [Kadium](https://kadium.kasper.space/) - Subscription Managers
-* ⭐ **[SponsorBlock](https://sponsor.ajay.app/)** - Skip Sponsored YouTube Ads / [Chromecast](https://github.com/gabe565/CastSponsorSkip) / [Script](https://github.com/mchangrh/sb.js), [2](https://greasyfork.org/en/scripts/453320)
-* ⭐ **[Fast Forward YouTube Shorts](https://greasyfork.org/en/scripts/466438)** - Add Skip Keys to Shorts
 * [shorts-deflector](https://github.com/attituding/shorts-deflector), [Remove YouTube Shorts](https://addons.mozilla.org/en-US/firefox/addon/remove-youtube-shorts/), [ublock-hide-yt-shorts](https://github.com/gijsdev/ublock-hide-yt-shorts) or [youtube-shorts-block](https://github.com/doma-itachi/Youtube-shorts-block) - Hide YouTube Shorts
 * [YouTube_Subs_Bot](https://t.me/youtube_subs_bot) - Sub to Channels without Account
+* [YouTube-Subscriptions-RS](https://github.com/jeb5/YouTube-Subscriptions-RSS) - Export Subscriptions to RSS Feed
+* [YouTube Subscription History](https://xxluke.de/subscription-history/) - Subscription History Tracker
+* [FreshTube](https://porjo.github.io/freshtube/) - Display Latest Videos from Subscriptions
 * [YouTube Spammer Purge](https://github.com/ThioJoe/YT-Spammer-Purge) - Delete All YouTube Spam Comments / [Domain List](https://github.com/ThioJoe/YT-Spam-Lists)
 * [Age Restriction Bypass](https://github.com/zerodytrash/Simple-YouTube-Age-Restriction-Bypass) / [2](https://greasyfork.org/en/scripts/423851-simple-youtube-age-restriction-bypass) - Bypass YouTube Age Restrictions
 * [BlockTube](https://github.com/amitbl/blocktube) - YouTube Content Blocker
 * [Playboard](https://playboard.co) or [ViewStats](https://www.viewstats.com/) - YouTube Channel Stats
 * [YouTube Watchmarker](https://github.com/sniklaus/youtube-watchmarker) - Fade Thumbnails of Watched Videos
-* [Video Resumer](https://addons.mozilla.org/en-US/firefox/addon/video-resumer/) - Resume Videos Where You Left Off / [Note](https://pastebin.com/Jd1DJW8w)
 * [vidIQ](https://chromewebstore.google.com/detail/vidiq-vision-for-youtube/pachckjkecffpdphbpmfolblodfkgbhl) - YouTube Viewership Data
 * [Video Recap](https://videorecap.viewodyssey.com/) - YouTube Year in Review Stats
-* [Campfire](https://campfire.gg), [Walrus](https://joinwalrus.tv/), [Sync-Tube](https://sync-tube.de/), [YouTube Party](https://youtubeparty.netlify.app/) or [Hergetto](https://hergetto.live/) - YouTube Watch Parties
 * [yt2pod](https://github.com/frou/yt2pod) - Create Podcasts from YouTube Channels
-* [YouTube-Subscriptions-RS](https://github.com/jeb5/YouTube-Subscriptions-RSS) - Export Subscriptions to RSS Feed
-* [YouTube Subscription History](https://xxluke.de/subscription-history/) - Find when you subscribed to channels
 * [SpeechChat](https://speechchat.com/) - Text to Speech Client
 * [AnnotationsRestored](https://github.com/isaackd/AnnotationsRestored) or [YouTube Annotations](https://archive.org/details/youtubeannotations) - Restore YouTube Annotations
 * [YouTube Metadata](https://mattw.io/youtube-metadata/) - YouTube Video Metadata Viewer
@@ -367,20 +366,11 @@
 * [Playlist Randomizer](https://playlist-randomizer.com/) - YouTube Playlist Randomizer
 * [YT Playlist Length](https://ytplaylist-len.sharats.dev/) - Playlist Length Checker
 * [YouTube Region Checker](https://polsy.org.uk/stuff/ytrestrict.cgi) - YouTube Region Restrictions Check
-* [YouTube Web Tweaks](https://greasyfork.org/en/scripts/447802) - Speed Up YouTube
-* [YourCodecs](https://github.com/undecV/YourCodecs) - Enable / Disable Player Codecs
-* [YT CPU Tamer](https://greasyfork.org/en/scripts/431573), [YT JS Tamer](https://greasyfork.org/en/scripts/473972) or [Unhold YouTube](https://greasyfork.org/en/scripts/457205) - YouTube CPU Optimization
 * [FREEZE](https://chromewebstore.google.com/detail/freeze/bejbbhcoefpmeejcnknjfepoocehopii) - Control YouTube via Webcam
 * [RapidTags](https://www.rapidtags.io/) - YouTube Tag Generators
 * [songs-to-youtube](https://github.com/7x11x13/songs-to-youtube) - Upload Audio to YouTube Automatically
 * [YouBit](https://github.com/MeViMo/youbit) - Use YouTube as File Host
-* [Video Speed Controller](https://github.com/igrigorik/videospeed) or [TimerHooker](https://timer.palerock.cn/en/) - Control Speed of YouTube Videos
-* [Jump Cutter](https://github.com/WofWca/jumpcutter) - Skip Silent Parts of Videos
 * [ytcropper](https://ytcropper.com/), [yt_clipper](https://github.com/exwm/yt_clipper) or [YTCutter.com](https://ytcutter.com/) - Crop YouTube Videos / Create Clips
-* [Rotate YouTube Video](https://addons.mozilla.org/en-US/firefox/addon/rotate-youtube-video/) - Rotate YouTube Videos
-* [StretchSite](https://www.stretch.site/) - Custom YouTube Aspect Ratio Viewer
-* [TwitchTheater](https://twitchtheater.tv/), [VidGrid](https://vidgrid.tk.gg/), [YouTube Multiplier](https://www.youtubemultiplier.com/) or [ViewSync](https://viewsync.net/) - Watch Multiple YouTube Videos
-* [Anilyzer](https://anilyzer.com/) - Watch YouTube Videos in Slow Motion / Frame by Frame
 * [YTStamps](https://ytstamps.netlify.app/) - Create Custom Start / End Times
 * [Solidpoint](https://solidpoint.ai/), [Glasp](https://glasp.co/youtube-summary), [Quickvid](https://quickvid.vercel.app/), [Eightify](https://eightify.app/), [VideoGist](https://www.videogist.co/) or [VideoHighlight](https://videohighlight.com/) - Summarize YouTube Videos
 * [Stepify](https://stepify.tech/) - Get Step-By-Step Tutorial of YT Video
@@ -399,7 +389,6 @@
 * [YTArchive](https://github.com/Kethsar/ytarchive) - YouTube Livestream Recorder
 * [YouTube Livestream Theatre](https://gitlab.com/-/snippets/2099898) - Twitch-style Theater Mode for YouTube Live
 * [fadblock](https://github.com/0x48piraj/fadblock) or [Disable YT Video Ads](https://greasyfork.org/en/scripts/32626) - YouTube Adblockers
-* [Ad Blitz](https://ad-blitz.vercel.app/) - Speed Up YouTube Ads instead of Skipping to Support Creators
 
 ***
 
@@ -455,6 +444,26 @@
 
 ***
 
+## ▷ YouTube Players
+
+* ⭐ **[SponsorBlock](https://sponsor.ajay.app/)** - Skip Sponsored YouTube Ads / [Chromecast](https://github.com/gabe565/CastSponsorSkip) / [Script](https://github.com/mchangrh/sb.js), [2](https://greasyfork.org/en/scripts/453320)
+* ⭐ **[PKGA](https://greasyfork.org/en/scripts/442089)** or [YouTube WideScreen](https://greasyfork.org/en/scripts/409893) - Improved YouTube Cinema Mode
+* ⭐ **[Fast Forward YouTube Shorts](https://greasyfork.org/en/scripts/466438)** - Add Skip Keys to Shorts
+* [Campfire](https://campfire.gg), [Walrus](https://joinwalrus.tv/), [Sync-Tube](https://sync-tube.de/), [YouTube Party](https://youtubeparty.netlify.app/) or [Hergetto](https://hergetto.live/) - YouTube Watch Parties
+* [TwitchTheater](https://twitchtheater.tv/), [VidGrid](https://vidgrid.tk.gg/), [YouTube Multiplier](https://www.youtubemultiplier.com/) or [ViewSync](https://viewsync.net/) - Watch Multiple YouTube Videos
+* [Ytfzf](https://github.com/pystardust/ytfzf) or [YewTube](https://github.com/mps-youtube/yewtube) - Terminal YouTube Players
+* [Video Resumer](https://addons.mozilla.org/en-US/firefox/addon/video-resumer/) - Resume Videos Where You Left Off / [Note](https://pastebin.com/Jd1DJW8w)
+* [Video Speed Controller](https://github.com/igrigorik/videospeed), [YouTube Web Tweaks](https://greasyfork.org/en/scripts/447802) or [TimerHooker](https://timer.palerock.cn/en/) - Control Speed of YouTube Videos
+* [Anilyzer](https://anilyzer.com/) - Watch YouTube Videos in Slow Motion / Frame by Frame
+* [Jump Cutter](https://github.com/WofWca/jumpcutter) - Skip Silent Parts of Videos
+* [YourCodecs](https://github.com/undecV/YourCodecs) - Enable / Disable Player Codecs
+* [YT CPU Tamer](https://greasyfork.org/en/scripts/431573), [YT JS Tamer](https://greasyfork.org/en/scripts/473972) or [Unhold YouTube](https://greasyfork.org/en/scripts/457205) - YouTube CPU Optimization
+* [Rotate YouTube Video](https://addons.mozilla.org/en-US/firefox/addon/rotate-youtube-video/) - Rotate YouTube Videos
+* [StretchSite](https://www.stretch.site/) or [Ultrawidify](https://github.com/tamius-han/ultrawidify) - Custom YouTube Aspect Ratio
+* [YouTube: Audio Only](https://greasyfork.org/en/scripts/484611) or [Audio Only YouTube](https://chromewebstore.google.com/detail/audio-only-youtube/pkocpiliahoaohbolmkelakpiphnllog) - Audio Only YouTube
+
+***
+
 ## ▷ YouTube Customization
 
 * ⭐ **[Enhancer for YT](https://www.mrfdev.com/enhancer-for-youtube)**, [ImprovedTube](https://improvedtube.com/), [Tweaks for YT](https://inzk.dev/tweaks-for-youtube/) or [Magic Actions](https://www.chromeactions.com/) - YouTube Enhancement Extensions
@@ -465,20 +474,15 @@
 * [youtube-like-dislike-shortcut](https://github.com/avi12/youtube-like-dislike-shortcut) - Video Like / Dislike Hotkeys
 * [YT Not Interested Button on Hover](https://greasyfork.org/en/scripts/396936-yt-not-interested-in-one-click) - Easily Display Not Interested Button
 * [YouTube Fixes](https://greasyfork.org/en/scripts/405614) - YouTube Tweaks
-* [Focused YouTube](https://github.com/makaroni4/focused_youtube) or [GoodTube](https://github.com/goodtube4u/goodtube) - Minimalist YouTube
+* [Focused YouTube](https://github.com/makaroni4/focused_youtube), [yt-neuter](https://github.com/mchangrh/yt-neuter) or [GoodTube](https://github.com/goodtube4u/goodtube) - Minimalist YouTube
 * [YouTube Redux](https://github.com/omnidevZero/YouTubeRedux), [VORAPIS](https://vorapis.pages.dev/) / [Discord](https://vorapis.pages.dev/#/join_community) / [Features](https://greasyfork.org/en/scripts/485622) or [Cosmic Cat](https://github.com/cosmic-cat-yt/Cosmic-Cat) - Restore Classic YouTube Layout
 * [/r/OldYouTubeLayout](https://www.reddit.com/r/oldyoutubelayout/) - Classic YouTube Layout Subreddit
 * [Disable Rounded Buttons](https://greasyfork.org/en/scripts/453802) - Disable Rounded YouTube Buttons
-* [YouTube WideScreen](https://greasyfork.org/en/scripts/409893) - Improved YouTube Cinema Mode
-* [Ultrawidify](https://github.com/tamius-han/ultrawidify) - Fix YouTube Aspect Ratio
-* [YouTube: Audio Only](https://greasyfork.org/en/scripts/484611) or [Audio Only YouTube](https://chromewebstore.google.com/detail/audio-only-youtube/pkocpiliahoaohbolmkelakpiphnllog) - Audio Only YouTube
 * [Feed Remover](https://github.com/kwkr/feed-remover) - Remove YouTube Homepage Feed
-* [FreshTube](https://porjo.github.io/freshtube/) - Display Latest Videos from Subscriptions
 * [Upvote Anywhere](https://github.com/z0ccc/comet) - Replace YouTube Comments with Reddit Comments
 * [Timestamped YouTube Comments](https://chromewebstore.google.com/detail/timestamped-youtube-comme/gnpppldhfbbagiaalkddddajadhlgofm) - View Timestamped Comments
 * [TabView YouTube](https://greasyfork.org/en/scripts/428651) - View Comments / Info in Tab View
 * [Super Fast Chat](https://greasyfork.org/en/scripts/469878) - YouTube Chat Performance Enhancer
-* [Ytfzf](https://github.com/pystardust/ytfzf) or [YewTube](https://github.com/mps-youtube/yewtube) - Terminal YouTube Players
 
 ***
 
@@ -581,7 +585,7 @@
 
 * ⭐ **[Trends24](https://trends24.in/)** or [GetDayTrends](https://getdaytrends.com/) - Trending Hashtags Trackers
 * ⭐ **[/r/Twitter](https://reddit.com/r/Twitter)** - Twitter Subreddit
-* [TumblThree](https://tumblthreeapp.github.io/TumblThree/) or [Thread Safe](https://github.com/dkaslovsky/thread-safe) - Twitter / Tumblr Backup Tools
+* [Tumbl Backup Guide](https://docs.google.com/document/d/1yBWlk-yEgpSoEh3c9oLhz_kbLtUGqbqzOpCtJsvQgjI/), [TumblThree](https://tumblthreeapp.github.io/TumblThree/) or [Thread Safe](https://github.com/dkaslovsky/thread-safe) - Twitter / Tumblr Backup Tools
 * [Typefully](https://typefully.com/) - Schedule Tweets
 * [Chirr App](https://getchirrapp.com/) - Turn Articles into Twitter Threads / [Firefox](https://addons.mozilla.org/en-US/firefox/addon/chirr-app/) / [Chrome](https://chromewebstore.google.com/detail/chirr-app/cmbconaimdngicdnbpjnjocbpkdpmfkg)
 * [OneMillionTweetMap](https://onemilliontweetmap.com/) - Real-Time Tweet Map
@@ -632,6 +636,7 @@
 * [Kill Fbclid](https://chromewebstore.google.com/detail/kill-fbclid/jlmdkcaiejonohbmkgickmkgbpceokmn) or [Remove FBclid](https://chromewebstore.google.com/detail/remove-fbclid-and-utm/ehkdoijaaigomfliimepliikhjkoipob) - Removes fbclid and utm_ query parameters in URLs
 * [News Feed Eradicator](https://west.io/news-feed-eradicator/) - Hide Facebook News Feed
 * [Lookup ID](https://lookup-id.com/) - Find Facebook ID
+* [Unlike-Everything](https://github.com/tyrtles/Unlike-Everything-on-Facebook) - Remove All Facebook Likes
 
 ***
 
@@ -655,6 +660,7 @@
 * [otzberg](https://www.otzberg.net/iguserid/index.php) or [Find-User-ID](https://codeofaninja.com/tools/find-instagram-user-id/) - ID Finder
 * [Image Counter](https://openuserjs.org/scripts/darkred/Instagram_-_visible_images_counter) - Count Page Images
 * [InstaAddict](https://github.com/Androz2091/instaddict) - Instagram Addiction Test
+* [Unfollow-Everyone](https://github.com/tyrtles/Unfollow-Everyone-on-Instagram/) - Bulk Instagram Unfollow
 
 ***
 
@@ -699,6 +705,7 @@
 * ⭐ **[Lemmy Explorer](https://lemmyverse.net/)**, [Feddit Community Browser](https://browse.feddit.de/) or [Awesome Lemmy Instances](https://github.com/maltfield/awesome-lemmy-instances) - Lemmy Instances
 * ⭐ **[Lemmy Apps](https://join-lemmy.org/apps)** - Lemmy Client List
 * ⭐ **[Divisions by zero](https://lemmy.dbzer0.com/)** - Piracy Focused Instance
+* [Quiblr](https://quiblr.com/) - Lemmy Instance Browser
 * [Fediverser](https://portal.alien.top/) - Reddit to Lemmy Community Auto-Sync
 * [LemmyTools](https://github.com/howdy-tsc/LemmyTools) - Lemmy Improvement Extension
 
@@ -719,7 +726,7 @@
 
 * 🌐 **[Peertube Apps](https://docs.joinpeertube.org/use/third-party-application)** - Peertube Client List
 * [Sepia Search](https://joinpeertube.org/browse-content), [2](https://sepiasearch.org/) - Peertube Search Engine
-* [Peertube Inctances](https://joinpeertube.org/instances), [2](https://instances.joinpeertube.org/instances) - Peertube Instances
+* [Peertube Instances](https://joinpeertube.org/instances), [2](https://instances.joinpeertube.org/instances) - Peertube Instances
 * [The Federation Peertube](https://the-federation.info/platform/29) - Peertube Instances
 * [FediDB Peertube](https://fedidb.org/software/peertube) - Peertube Instances
 * [Fediverse Observer Peertube](https://peertube.fediverse.observer/list) - Peertube Instances

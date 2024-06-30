@@ -83,7 +83,6 @@
 * [SteamGifts](https://www.steamgifts.com/), [/r/FreeGamesOnSteam](https://reddit.com/r/FreeGamesOnSteam) or [SteamDB](https://steamdb.info/upcoming/free/) - Steam Games
 * [IndieGala](https://freebies.indiegala.com/) - Games
 * [FreeGameCodes](https://freegames.codes/) - Games / [Discord](https://discord.gg/ZmUbRcp)
-* [FreeToKeep](https://freetokeep.gg/) - Games
 * [/r/freegames](https://www.reddit.com/r/freegames/) - Games
 * [/r/RandomActsOfGaming](https://www.reddit.com/r/RandomActsOfGaming/) - Games
 * [TemporarilyFreeGames](https://t.me/temporarilyfreegames) - Games
@@ -161,7 +160,6 @@
 * [Recipe Site List](https://pastebin.com/f1wAjWEB) - List of Recipe Sites
 * [Recipeeper](https://www.recipeeper.com/) - Dietary-Based Recipes
 * [TasteAtlas](https://www.tasteatlas.com/) - Recipe Map
-* [CookingForEngineers](https://www.cookingforengineers.com/) - Recipes / Cooking Tests
 * [AmazingRibs](https://amazingribs.com/) - Rib Recipes
 * [The Bread Code Manifesto](https://github.com/hendricius/the-sourdough-framework) - Bread Baking Recipes
 * [Historical Recipes](https://l-lists.com/en/lists/55cbww.html) - Historical Recipes
@@ -310,10 +308,11 @@
 
 ## ▷ Climate / Weather
 
-* [Earth Observatory](https://earthobservatory.nasa.gov/global-maps), [Earth Now](https://climate.nasa.gov/earth-now/), [Windy](https://www.windy.com/), [Earth](https://earth.nullschool.net/), [satellite-map.gosur](https://satellite-map.gosur.com/) or [Ventusky](https://www.ventusky.com/) - General Weather / Climate Maps 
+* [Earth Observatory](https://earthobservatory.nasa.gov/global-maps), [Zoom Earth](https://zoom.earth/), [Earth Now](https://climate.nasa.gov/earth-now/), [Windy](https://www.windy.com/), [Earth](https://earth.nullschool.net/), [satellite-map.gosur](https://satellite-map.gosur.com/) or [Ventusky](https://www.ventusky.com/) - General Weather / Climate Maps 
 * [Netweather](https://www.netweather.tv/charts-and-data/global-jetstream) - Global Jetstream Forcast Map
 * [Cyclocane](https://www.cyclocane.com/) - Cyclone and Hurricane Tracker Map
 * [tornado.live](https://tornado.live/) - Real-time US Severe Weather Alerts Map
+* [Tropical Tidbits](https://www.tropicaltidbits.com/) - Hurricane Forecast Models
 * [Tornado Archive](https://tornadoarchive.com/) - Tornado Archive Data Explorer
 * [Find Your Tornado Shelter](https://findyourtornadoshelter.com/) - Tornado Shelter Map
 * [Blitzortung.org](https://www.blitzortung.org/en/live_lightning_maps.php) - Real-time Lightning and Thunderstorms Map
@@ -455,6 +454,7 @@
 * ⭐ **[QotNews](https://news.t0.vc/)** - Hacker News / Reddit / Lobsters / Tildes
 * ⭐ **[Anime Blog Tracker](https://aniblogtracker.com/)** - Anime News Blogs
 * [NewsMinimalist](https://www.newsminimalist.com/), [AllAINews](https://allainews.com/) or [Brief](https://www.brief.news/) - AI News Aggregators
+* [devo](https://github.com/karakanb/devo) - New Tab Page News Extension
 * [RealClearPolitics](https://www.realclearpolitics.com/), [Ground News](https://ground.news/), [AllSides](https://www.allsides.com/), [SPIDR](https://spidr.today/) or [LegibleNews](https://legiblenews.com/) - Political News / World Events
 * [Fark](https://www.fark.com/) - User-Curated News
 * [AlDaily](https://www.aldaily.com/) - Art / Philosophy / Literature News
@@ -606,6 +606,7 @@
 * [The Freedom Model](https://www.thefreedommodel.org/ebooks/) - Addiction-Help Model / [Books](https://www.youtube.com/playlist?list=PLd6KCmnSpHuE29G2f9JXHMcZKbvzSdInw) / [Lessons](https://www.youtube.com/playlist?list=PLd6KCmnSpHuFBFw-ei2eTYJPrSoLuwBFL) / [Full Book](https://pastebin.com/0hDKEXnP)
 * [BreakFree](https://breakfree-2c089.web.app/) - Break Smoking Habits
 * [Sobriety](https://github.com/KiARC/Sobriety) - Sobriety Tracker
+* [Petals](https://github.com/LeoColman/Petals) - Quit / Reduce Marijuana Usage
 * [DrugFree](https://drugfree.org/) - Drug Abuse Prevention & Recovery Help
 
 ***
@@ -711,7 +712,7 @@
 
 ## ▷ Remote Jobs
 
-* 🌐 **[Awesome Remote Jobs](https://github.com/lukasz-madon/awesome-remote-job)** - Remote Job Resources Index
+* 🌐 **[Awesome Remote Jobs](https://github.com/lukasz-madon/awesome-remote-job)** or [Established Remote](https://github.com/yanirs/established-remote) - Remote Job Resources
 * ⭐ **[Real Work From Anywhere](https://www.realworkfromanywhere.com/)** - Global "Work-From-Anywhere" Job Board
 * [Overemployed](https://overemployed.com/) - Discuss Working 2+ Remote Jobs / [Subreddit](https://www.reddit.com/r/overemployed) / [Discord](https://discord.com/invite/a8VGhbZyek)
 * [WFH Companies India](https://github.com/abhagsain/WFH-Companies-India) - Work from Home Jobs in India
@@ -798,9 +799,9 @@
 * 🌐 **[/r/PersonalFinance Wiki](https://old.reddit.com/r/personalfinance/wiki/index)** or [UK Personal Finance](https://ukpersonal.finance/) - Financial Advice / Resources
 * 🌐 **[KYCNOT.ME](https://kycnot.me/)** - Non-KYC Exchanges / Services
 * ⭐ **[TradingView](https://www.tradingview.com/)**, [ticker](https://github.com/achannarasappa/ticker), [Candle](https://gitlab.com/cosmosapps/candle), [finviz](https://finviz.com/) or [Markets.sh](https://markets.sh/) - Stock Market Trackers
-* ⭐ **[Ghostfolio](https://ghostfol.io/)** / [Import](https://github.com/dickwolff/Export-To-Ghostfolio), [Maybe](https://hello.maybe.co/), [HomeBank](https://www.gethomebank.org/en/index.php), [Firefly III](https://firefly-iii.org/), [Money Manager EX](https://moneymanagerex.org/), [Paisa](https://github.com/RetroMusicPlayer/Paisa) or [Actual](https://github.com/actualbudget/actual) - Finance Managers
+* ⭐ **[Ghostfolio](https://ghostfol.io/)** / [Import](https://github.com/dickwolff/Export-To-Ghostfolio), [Maybe](https://hello.maybe.co/), [HomeBank](https://www.gethomebank.org/en/index.php), [Firefly III](https://firefly-iii.org/), [Money Manager EX](https://moneymanagerex.org/) or [Actual](https://github.com/actualbudget/actual) - Finance Managers
 * ⭐ **[Rotki](https://rotki.com/)** - Portfolio Manager
-* [Ivy Wallet](https://github.com/Ivy-Apps/ivy-wallet), [money-manager](https://github.com/moneymanagerex/android-money-manager-ex),[Buckwheat](https://buckwheat.app/), [My Expenses](https://www.myexpenses.mobi/), [Cashew](https://play.google.com/store/apps/details?id=com.budget.tracker_app) or [Sushi](https://github.com/jerameel/sushi) - Android Finance Managers
+* [Paisa](https://github.com/h4h13/paisa), [Ivy Wallet](https://github.com/Ivy-Apps/ivy-wallet), [money-manager](https://github.com/moneymanagerex/android-money-manager-ex),[Buckwheat](https://buckwheat.app/), [My Expenses](https://www.myexpenses.mobi/), [Cashew](https://play.google.com/store/apps/details?id=com.budget.tracker_app) or [Sushi](https://github.com/jerameel/sushi) - Android Finance / Expense Managers
 * [Denaro](https://github.com/NickvisionApps/Denaro) - Linux Finance Managers
 * [Ledger](https://ledger-cli.org/) - CLI Accounting System
 * [financial_advice](https://github.com/emilepetrone/financial_lessons)or [r/povertyfinance wiki](https://www.reddit.com/r/povertyfinance/wiki/index/) - Financial Tips / Resources
@@ -818,6 +819,7 @@
 * [Calculator](https://goldratestoday.net/gold-calculator/) - Gold Investment Calculators
 * [Kitco](https://www.kitco.com/) or [GoldRatesToday](https://goldratestoday.net/) - Gold Rate Calculators
 * [MortgageCalculator](https://www.mortgagecalculator.site/) - Mortgage Calculator
+* [Dopefolio](https://github.com/rammcodes/Dopefolio) - Developer Portfolio Template
 * [PortfolioVisualizer](https://www.portfoliovisualizer.com/) - Visualize Portfolio
 * [CoFolios](https://cofolios.com/) - Portfolio Sharing
 
@@ -889,7 +891,7 @@
 * ⭐ **[PCPartPicker](https://pcpartpicker.com/)**, [Newegg PC Builder](https://www.newegg.com/tools/custom-pc-builder), [Build Redux](https://buildredux.com/), [CGDirector](https://www.cgdirector.com/pc-builder/) or [NZXTBld](https://nzxt.com/category/gaming-pcs/build) - PC Building Sites
 * ⭐ **[/r/PCMasterrace Wiki](https://www.reddit.com/r/pcmasterrace/wiki/builds/)**, [/r/BuildaPC Wiki](https://www.reddit.com/r/buildapc/wiki/index), [PC Tiers](https://pctiers.com/) or [Logical Increments](https://www.logicalincrements.com/) - PC Building Guides / **[Video](https://youtu.be/s1fxZ-VWs2U)**
 * ⭐ **[NanoReview](https://nanoreview.net/en)**, [Octoparts](https://octopart.com/), [Technical City](https://technical.city/), [TechPowerup](https://www.techpowerup.com/) or [Techspecs](https://techspecs.io/) - Hardware Comparisons
-* ⭐ **[rtings](https://www.rtings.com/)** - Hardware Reviews
+* ⭐ **[rtings](https://www.rtings.com/)** - Hardware Reviews / Clear Cookies Reset Limit
 * ⭐ **[Open Benchmarking](https://openbenchmarking.org/)** - Hardware Benchmarks
 * ⭐ **[GSMArena](https://www.gsmarena.com/)**, [PhoneDB](https://phonedb.net/), [GSMChoice](https://www.gsmchoice.com/en/) or [Kimovil](https://www.kimovil.com/en/) - Compare Phones / Prices
 * ⭐ **[CPUBenchmark](https://www.cpubenchmark.net/)** or [NoteBenchcheck](https://www.notebookcheck.net/Benchmarks-Tech.123.0.html) - GPU / CPU Benchmarks
@@ -918,7 +920,7 @@
 * [Erin's Audio Corner](https://www.erinsaudiocorner.com/), [Speakerzilla](https://speakerzilla.com/) or [Equipboard](https://equipboard.com/) - Audio Equipment Comparisons
 * [InStockAlert_DataLover](https://discord.gg/jd6KaBUHG4) or [Fixitfixitfixit](https://discord.gg/gpu) - GPU / Xbox / PS5 Drop Notifications / [Guide](https://youtu.be/2cBRW9FeQ3A)
 * [Don’t kill my app!](https://dontkillmyapp.com/) - Manufacturer Battery Life vs. App Functionality
-* [PhoneSized](https://phonesized.com/) - Phone Size Comparisons
+* [PhoneSized](https://phonesized.com/) or [HotSpot3D](https://www.hotspot3d.com/) - Phone Size Comparisons
 * [DXOMARK](https://www.dxomark.com/) - Smartphone Quality Testing
 * [Dumbphone Finder](https://dumbphones.pory.app/) - Dumbphone Comparisons
 * [Camera Decision](https://cameradecision.com/) or [Digicamfinder](https://digicamfinder.com/) - Compare Cameras
@@ -985,6 +987,7 @@
 * ⭐ **[FindHelp](https://www.findhelp.org/)** - Find Assistive Programs
 * ⭐ **[BeMyEyes](https://www.bemyeyes.com/)** - Assist the Visually Impaired
 * ⭐ **[TinyKitten](https://tinykittens.com/)** - Kitten Rescue / Donation
+* [barcodrod.io](https://barcodrod.io/) or [QR Code Scan](https://qrcodescan.in/) - QR Code Scanners
 * [Dashboard](https://zzanehip.github.io/Dashboard/) - Mac-Style Dashboard Widget
 * [The Measure Of Things](https://www.themeasureofthings.com) - Comparative / Relative Quantity Measurements
 * [Compare Sizes](https://comparesizes.com/) - Size Comparison Tool
@@ -1130,6 +1133,7 @@
 * [Virtual World List](https://virtualworldslist.neocities.org/) - Virtual World List
 * [Monkey](https://www.monkey.app/) - Random Chat Rooms
 * [Wireclub](https://www.wireclub.com/) - Topic Chat Rooms
+* [MyCast](https://www.mycast.io/) - Dream Casting Discussions
 * [FandomPost](https://fandompost.vbulletin.net/) - Fandom Discussions
 * [AnimeSuki](https://forums.animesuki.com/), [AnimeUKNews](https://forums.animeuknews.net/) or [Fanverse](https://www.fanverse.org/) - Anime Discussion
 * [/r/Piracy](https://www.reddit.com/r/Piracy/) - Piracy Discussion
@@ -1147,7 +1151,6 @@
 * [PostSecret](https://postsecret.com/) - Share Secrets via Postcard
 * [PenPal World](https://www.penpalworld.com/) or [GlobalPenFriends](https://www.globalpenfriends.com/) - Pen Pal Community
 * [WriteAPrisoner](https://writeaprisoner.com/) - Pen Pals for Inmates
-* [Tinder for Bananas](https://tinderforbananas.com/) - Tinder for Bananas
 * [Magic Crystal Ball](https://www.oproot.com/ball/) - Get Messages from Beyond
 
 ***
@@ -1307,6 +1310,7 @@
 * [A.I. DUET](https://experiments.withgoogle.com/ai/ai-duet/view/) - AI Piano Duet
 * [MultiplayerPiano](https://multiplayerpiano.com/) - Multiplayer Piano
 * [Incredibox](https://www.incredibox.com/demo/) - Make Beatboxing Beats
+* [Viola the Bird](https://artsandculture.google.com/experiment/viola-the-bird/nAEJVwNkp-FnrQ?cp) - Browser Cello
 * [bongo.cat](https://bongo.cat/) - Become Bongo Cat
 * [ambient.garden](https://ambient.garden/) - 3D Audio Landscape
 * [SND](https://s-n-d.si/) - Strange Scrollable Story
@@ -1330,6 +1334,7 @@
 * [Internet Map](https://internet-map.net/) - Map of the Internet
 * [Google Earth](https://www.google.com/earth/about/versions/) - Explore Earth
 * [Land Lines](https://lines.chromeexperiments.com/) - Explore Google Earth via Gestures
+* [QuarterMaester](https://quartermaester.info/) - Game of Thrones Map
 * [DamnInteresting](https://www.damninteresting.com/) - Interesting Stories
 * [The Cutting Room Floor](https://tcrf.net/The_Cutting_Room_Floor) - Unused Video Game Content Research
 * [SongMeanings](https://songmeanings.com/) - Discover Song Meanings
@@ -1406,16 +1411,16 @@
 * ⭐ **[Copypasta Text](https://copypastatext.com/)** or [CopyPastaDB](https://copypastadb.com/) - Copypasta Databases
 * ⭐ **[CreepyPasta](https://www.creepypasta.com/)** - Creepypasta Database
 * ⭐ **[TheOnion](https://theonion.com/)** or [DailyWrong](https://dailywrong.com/) - Fake News Articles
+* ⭐ **[Uncyclopedia](https://en.uncyclopedia.co/)** - Wikipedia Parody
 * ⭐ **[Drinking Game Zone](https://drinkinggamezone.com/)** - Drinking Games Encyclopedia
 * ⭐ **[PokeSmash](https://pokesmash.xyz/)** - Pokémon Smash or Pass
 * ⭐ **[Library of Babel](https://libraryofbabel.info/)** - Every Book of Past, Present, and Future
-* ⭐ **[Bouncing DVD Logo](https://www.bouncingdvdlogo.com/)** - DVD Logo Screen
+* [Bouncing DVD Logo](https://www.bouncingdvdlogo.com/) - DVD Logo Screen
 * [Things to Do](https://randomthingstodo.com/), [HobbyGenerator](https://hobbygenerator.com/) or [TheZen](https://thezen.zone/) - Activity Suggestions
 * [BoozeTube](https://boozetube.netlify.app/) - Turn Videos in Drinking Games
 * [rrrather](https://rrrather.com/) - Would You Rather
 * [Scattergories](https://swellgarfo.com/scattergories) - Scattergories List Generator
 * [Gizoogle](https://www.gizoogle.net/) - Google Shiznit
-* [Uncyclopedia](https://en.uncyclopedia.co/) - Wikipedia Parody
 * [Mystery Search](https://www.mysterysearch.lol/) - Google, but you get last person's search
 * [Presence](https://presence.mrarich.com/) - Unwrap Presents Remotely
 * [Lots of Links](https://annierau.com/LOL-lots-of-links) - Random Funny Links

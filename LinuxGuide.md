@@ -57,7 +57,7 @@
 * 🌐 **[Awesome Gnome](https://github.com/Kazhnuz/awesome-gnome)** - GNOME Resources
 * ⭐ **[Ventoy](https://www.ventoy.net)** / [GitHub](https://github.com/ventoy/Ventoy) or [Impression](https://gitlab.com/adhami3310/Impression) - Create Bootable USB Linux Drives
 * ⭐ **[Btop](https://github.com/aristocratos/btop)**, **[fastfetch](https://github.com/fastfetch-cli/fastfetch)**, **[MangoHud](https://github.com/flightlessmango/MangoHud)**, [CPU-X](https://github.com/TheTumultuousUnicornOfDarkness/CPU-X), [Macchina](https://github.com/Macchina-CLI/macchina), [Archey4](https://github.com/HorlogeSkynet/archey4), [Hyfetch](https://github.com/hykilpikonna/hyfetch) or [s-tui](https://github.com/amanusk/s-tui) - System Info / Resource Monitors
-* :star: **[TimeShift](https://github.com/linuxmint/timeshift)** - System Restore / Backup
+* ⭐ **[TimeShift](https://github.com/linuxmint/timeshift)** - System Restore / Backup
 * [DistroSea](https://distrosea.com/), [anuraOS](https://github.com/MercuryWorkshop/anuraOS) - Linux Browser Emulator
 * [SysmonForLinux](https://github.com/Sysinternals/SysmonForLinux) - Monitor / Log System Activity
 * [screenFetch](https://github.com/KittyKatt/screenFetch) - Bash Screenshot Information Tool
@@ -82,8 +82,8 @@
 * [CoreELEC](https://coreelec.org) / [GitHub](https://github.com/CoreELEC/CoreELEC) or [LibreELEC](https://libreelec.tv/) - Kodi-Based Operating System
 * [WSL](https://learn.microsoft.com/en-us/windows/wsl/)  - Run Linux on Windows / [Resources](https://github.com/sirredbeard/Awesome-WSL) / [Startup Launcher](https://github.com/nullpo-head/wsl-distrod) / [Wayland / X Server](https://github.com/microsoft/wslg)
 * [Boxes](https://wiki.gnome.org/Apps/Boxes) - Virtual Machine Manager
-* [Linux-KVM](https://www.linux-kvm.org/page/Downloads) - Kernel-Based Virtual Machine
-* [OSX-KVM](<https://github.com/kholia/OSX-KVM>), [OneClick-macOS-Simple-KVM](<https://notAperson535.github.io/OneClick-macOS-Simple-KVM>) or [macOS-Simple-KVM](<https://github.com/foxlet/macOS-Simple-KVM>) - macOS Virtual
+* [fvwm](https://www.fvwm.org/) or [Linux-KVM](https://www.linux-kvm.org/page/Downloads) - Virtual Machines
+* [OSX-KVM](https://github.com/kholia/OSX-KVM), [OneClick-macOS-Simple-KVM](https://notAperson535.github.io/OneClick-macOS-Simple-KVM) or [macOS-Simple-KVM](https://github.com/foxlet/macOS-Simple-KVM) - macOS Virtual Machines
 * [kmon](https://kmon.cli.rs/) - Kernel Manager and Activity Monitor
 * [Kernel Map](https://makelinux.github.io/kernel/map/) - Interactive Linux Kernel Map
 * [SystemRescue](https://www.system-rescue.org/) or [Super Grub2 Disk](https://www.supergrubdisk.org/super-grub2-disk/) - Bootable System Rescue Toolkits
@@ -183,6 +183,7 @@
 
 ## ▷ Software Sites
 
+* 🌐 **[ArchWiki App Sites](https://wiki.archlinux.org/title/List_of_applications)** - Linux Software / Site Index
 * 🌐 **[Awesome Linux](https://luong-komorebi.github.io/Awesome-Linux-Software/)** - FOSS Software Index
 * ⭐ **[Kapital Sin](https://www.kapitalsin.com/forum/index.php?board=5.0)** / Use [Translator](https://github.com/FilipePS/Traduzir-paginas-web#install)
 * ⭐ **[RuTracker](https://rutracker.org/forum/viewforum.php?f=1381)** / [Translator](https://github.com/FilipePS/Traduzir-paginas-web#install) / [Wiki](http://rutracker.wiki/) / [Rules](https://rutracker.org/forum/viewtopic.php?t=1045)
@@ -221,6 +222,7 @@
 * [Gromit MPX](https://github.com/bk138/gromit-mpx) - Screen Annotation
 * [Spectacle](https://apps.kde.org/spectacle/) - Screen Recorder / Clipping
 * [AV Linux](https://www.bandshed.net/avlinux/) - Video / Audio Editor
+* [REAL Video Enhancer](https://github.com/TNTwise/REAL-Video-Enhancer) - Video Upscaling
 * [4KTUBE](https://github.com/rishabh3354/4KTUBE) or [Video Downloader](https://github.com/Unrud/video-downloader) - Video Downloaders
 * [Peek](https://github.com/phw/peek) - Simple Video / GIF recorder
 * [Linux-Fake-Background-Webcam](https://github.com/fangfufu/Linux-Fake-Background-Webcam/) - Fake Webcam Background
@@ -455,7 +457,7 @@ Linux Gaming Guide
 * [bash_loading_animations](https://github.com/Silejonu/bash_loading_animations) - Bash Loading Animations
 * [bash-it](https://github.com/Bash-it/bash-it) or [Bashly](https://bashly.dannyb.co/) - Bash Frameworks
 * [zx](https://google.github.io/zx/) or [dax](https://github.com/dsherret/dax) - Write Complex Scripts
-* [Basher](https://www.basher.it/) - Bash Script Package Manager
+* [Basher](https://www.basher.it/) or [bpkg](https://bpkg.sh/) - Bash Package Manager
 * [yakuake](https://apps.kde.org/yakuake/) - Terminal Emulator
 * [XTerm](https://invisible-island.net/xterm/) - X Window System Terminal Emulator
 * [hush](https://github.com/hush-shell/hush) - Unix Shell
@@ -580,6 +582,7 @@ Linux Gaming Guide
 * [KeyCastr](https://github.com/keycastr/keycastr) - Keystroke Visualizer
 * [MonitorControl](https://monitorcontrol.app/) - External Monitor Brightness / Volume Control
 * [BackgroundMusic](https://github.com/kyleneideck/BackgroundMusic) - Volume Mixer / Auto-Pause
+* [BatFi](https://micropixels.gumroad.com/l/batfi) - Battery Manager
 * [BatteryBuddy](https://batterybuddy.app/) - Cute Battery Indicator
 * [Bunch](https://bunchapp.co/) - Task Automation
 * [MacScripter](https://www.macscripter.net/) - Automation Forum
@@ -592,13 +595,14 @@ Linux Gaming Guide
 * [Clocker](https://abhishekbanthia.com/clocker/) or [MeetingBar](https://meetingbar.app/) - Menu Bar Meetings Calendars
 * [xbar](https://xbarapp.com/) - Manage Menu Bar Items / [GitHub](https://github.com/matryer/xbar)
 * [MacLaunch](https://github.com/hazcod/maclaunch) - Manage Startup Items
+* [Ice](https://icemenubar.app/) - Menu Bar Manager
 * [OnlySwitch](https://github.com/jacklandrin/OnlySwitch) - Menu Bar Toggle Switches
 * [Sloth](https://github.com/sveinbjornt/Sloth) - Process Manager
 * [pongoOS](https://github.com/checkra1n/pongoOS) - Mac Pre-Boot Executor
-* [Yabai](https://github.com/koekeishiya/yabai), [Amethyst](https://ianyh.com/amethyst/) / [GitHub](https://github.com/ianyh/Amethyst), [1Piece](https://app1piece.com/), [Spaces](https://spacesformac.xyz/), [AeroSpace](https://github.com/nikitabobko/AeroSpace), [Phoenix](https://kasper.github.io/phoenix/) or [Rectangle](https://rectangleapp.com/) - Window Managers
+* [Yabai](https://github.com/koekeishiya/yabai), [Amethyst](https://ianyh.com/amethyst/) / [GitHub](https://github.com/ianyh/Amethyst), [1Piece](https://app1piece.com/), [Spaces](https://spacesformac.xyz/), [Loop](https://github.com/MrKai77/Loop), [AeroSpace](https://github.com/nikitabobko/AeroSpace), [Phoenix](https://kasper.github.io/phoenix/) or [Rectangle](https://rectangleapp.com/) - Window Managers
 * [Later](https://getlater.app/) - Restore App Sessions
 * [AlDente](https://apphousekitchen.com/) - Charging Manager
-* [Unlocker](https://rentry.co/FMHYBase64#vmware) - VMware Unlocker
+* [VMware](https://rentry.co/FMHYBase64#vmware) - Virtual Machine
 * [USBMap](https://github.com/corpnewt/USBMap) - Map MacOS USB Ports
 * [MacVim](https://macvim.org/), [CodeEdit](https://www.codeedit.app/) or [AuroraEditor](https://auroraeditor.com/) - Code Editors
 * [iTerm2](https://iterm2.com/) - Replacements for Terminal
@@ -615,6 +619,7 @@ Linux Gaming Guide
 * [DarkModeBuddy](https://github.com/insidegui/DarkModeBuddy) or [ThemeKit](https://github.com/luckymarmot/ThemeKit) - System Dark Mode Apps
 * [Bootcamp Drivers](https://bootcampdrivers.com/) - Mac Bootcamp AMD Drivers
 * [IINA](https://iina.io/) - Video Player
+* [REAL Video Enhancer](https://github.com/TNTwise/REAL-Video-Enhancer) - Video Upscaling
 * [Gifski](https://sindresorhus.com/gifski) - Image to GIF Converter / [GitHub](https://github.com/sindresorhus/Gifski)
 * [Darkroom](https://apps.apple.com/us/app/darkroom-photo-video-editor/id953286746) - Image / Video Editor
 * [Kap](https://getkap.co) or [ScreenTimeLapse](https://github.com/wkaisertexas/ScreenTimeLapse) - Screen Recorders

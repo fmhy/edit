@@ -97,7 +97,7 @@
 * [searchcode](https://searchcode.com/) or [PublicWWW](https://publicwww.com/) - Source Code Search
 * [Sourcecodester](https://www.sourcecodester.com/), [Code Projects](https://code-projects.org/), [Codastro](https://codeastro.com/), [Kashipara](https://www.kashipara.com/) or [ItSourceCode](https://www.itsourcecode.com/) - Source Code Projects
 * [ShortCode](https://shortcode.dev/) or [CodeList](https://codelist.cc/v3/) - Script / Code Indexes
-* [Chalk](https://chalk.ist/) or [Show Code](https://showcode.app/) - Code Screenshots
+* [Chalk](https://chalk.ist/), [Carbon](https://github.com/carbon-app/carbon) or [Show Code](https://showcode.app/) - Code Screenshots
 * [AnimateCode](https://www.animate-code.com/) - Create Code Animations
 * [DelphiTools](https://www.delphitools.info/) - Code Profiler / Delphi Tools
 * [Adrenaline](https://useadrenaline.com/) or [Console Ninja](https://console-ninja.com/) - Code Debugging
@@ -146,6 +146,7 @@
 * [Slint](https://slint.dev) / [GitHub](https://github.com/slint-ui/slint), [Fyne](https://fyne.io/) or [QT Designer](https://build-system.fman.io/qt-designer-download) - GUI Development Tools
 * [BugSnag](https://www.bugsnag.com/) - Application Stability Monitor
 * [Inno Setup](https://jrsoftware.org/isinfo.php) or [InstallForge](https://www.installforge.net/) - Create Installation Programs
+* [CODEX-Installer](https://github.com/SolsticeSpectrum/CODEX-Installer) - Original CODEX Installer Code
 * [Sparkle](https://sparkle-project.org) - MacOS Update Framework
 * [TextBase](https://www.textbase.ai/) - AI Chatbot Framework
 * [Dify](https://dify.ai/) - Create AI Apps
@@ -292,7 +293,7 @@
 ## ▷ Database Tools
 
 * 🌐 **[DB Engines](https://db-engines.com/en/ranking)** - Database Rankings
-* 🌐 **[Awesome Opensource Data Engineering](https://github.com/gunnarmorling/awesome-opensource-data-engineering)** - Data Engineering Resources
+* 🌐 **[Awesome Opensource Data Engineering](https://github.com/gunnarmorling/awesome-opensource-data-engineering)** - Data Engineering Tools
 * 🌐 **[Awesome Big Data](https://github.com/newTendermint/awesome-bigdata)** - Big Data Resources
 * [Grafana](https://grafana.com/) - Dev Data Dashboard
 * [DBeaver](https://dbeaver.io/) - Universal Database Tool
@@ -308,10 +309,6 @@
 * [SQLTranslate](https://www.sqltranslate.app/) - SQL Translator
 * [SQLizer](https://sqlizer.io/) - Convert Files To SQL Databases
 * [franchise](https://franchise.cloud/) - SQL Notebook
-* [Learn SQL](https://sqlbolt.com/) - SQL Lessons
-* [SQL PD](https://sqlpd.com/) - SQL Learning Game
-* [PostgreSQL Tutorial](https://www.postgresqltutorial.com/) - PostgreSQL Tutorial
-* [MySQL Tutorial](https://www.mysqltutorial.org/) - MySQL Tutorial
 
 ***
 
@@ -650,8 +647,7 @@
 
 ## ▷ VSCode Tools
 
-* 🌐 **[Awesome VSC Extensions](https://hl2guide.github.io/Awesome-Visual-Studio-Code-Extensions/)** - Visual Studio Code Extensions
-* 🌐 **[Awesome Visual Studio Code Extensions](https://hl2guide.github.io/Awesome-Visual-Studio-Code-Extensions/)**, [2](https://marketplace.visualstudio.com/) - VSCode Extensions
+* 🌐 **[Awesome VSC Extensions]](https://hl2guide.github.io/Awesome-Visual-Studio-Code-Extensions/)**, [2](https://marketplace.visualstudio.com/) - VSCode Extensions
 * [github-vscode-icons](https://github.com/dderevjanik/github-vscode-icons) - VSCode Icons
 * [chatgpt-vscode](https://github.com/mpociot/chatgpt-vscode) - VSCode ChatGPT
 * [Open VSX](https://open-vsx.org/) - Open VSX Registry
@@ -674,6 +670,7 @@
 * 🌐 **[Awesome Podcasts](https://github.com/rShetty/awesome-podcasts)** - Podcasts for Software Engineers
 * 🌐 **[Awesome YouTubers](https://github.com/JoseDeFreitas/awesome-youtubers)** - YouTube Dev Channels Indexes
 * 🌐 **[ProgrammingLearningResources](https://rentry.co/ProgrammingLearningResources)** or [A-to-Z-Resources-for-Students](https://github.com/dipakkr/A-to-Z-Resources-for-Students) - Programming Learning Resources
+* 🌐 **[Path to Senior Engineer](https://github.com/jordan-cutler/path-to-senior-engineer-handbook)** - Software Engineer Resources
 * ↪️ **[Programming Books](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/reading#wiki_.25B7_programming_books)** - Read / Download Programming Books
 * ↪️ **[Programming / Coding Tutorials](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_coding_tutorials)**
 * ⭐ **[freeCodeCamp](https://www.freecodecamp.org/)** - Programming / Courses / Interactive
@@ -707,6 +704,10 @@
 * [LearnToCloud](https://learntocloud.guide/) - Cloud Computing Guide
 * [LearnYouHaskell](http://learnyouahaskell.com/chapters) - Haskell Guide
 * [High Assurance Rust](https://highassurance.rs/) - Software Development Guide
+* [Learn SQL](https://sqlbolt.com/) - SQL Lessons
+* [SQL PD](https://sqlpd.com/) or [SQL Easy](https://www.sql-easy.com/) - SQL Learning Games
+* [PostgreSQL Tutorial](https://www.postgresqltutorial.com/) - PostgreSQL Tutorial
+* [MySQL Tutorial](https://www.mysqltutorial.org/) - MySQL Tutorial
 * [LearnOpenGL](https://learnopengl.com/) - Learn OpenGL
 * [Devops Exercises](https://github.com/bregman-arie/devops-exercises) - DevOps Exercises
 * [90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps) - Learn DevOps
@@ -748,6 +749,7 @@
 ## ▷ Data Science
 
 * 🌐 **[Awesome DataScience](https://github.com/academic/awesome-datascience)** - Data Science Resources
+* 🌐 **[Data Engineer Handbook](https://github.com/DataExpert-io/data-engineer-handbook)** - Data Engineer Resources
 * ⭐ **[Open Source Society University (OSSU](https://github.com/ossu/data-science)** - Data Science Roadmap
 * [Mage](https://www.mage.ai/) - Data Science Pipelines
 * [Data Science Resources](https://rentry.co/FMHYBase64#data-science-resources) - Data Science Learning Resources
@@ -807,6 +809,29 @@
 
 ***
 
+## ▷ Cybersecurity 
+
+* 🌐 **[Free Cyber Resources](https://github.com/gerryguy311/Free_CyberSecurity_Professional_Development_Resources)**, [BlueTeam Tools](https://github.com/A-poc/BlueTeam-Tools) or [Applied Cybersecurity](https://www.nist.gov/itl/applied-cybersecurity/nice/resources/online-learning-content) - Cybersecurity Learning Resources
+* 🌐 **[CTF Sites](https://ctfsites.github.io/)**, [echoCTF.RED](https://echoctf.red/), [picoCTF](https://picoctf.org/), [CTF Beginners Guide](https://jaimelightfoot.com/blog/so-you-want-to-ctf-a-beginners-guide/) or [CTFLearn](https://ctflearn.com/) - CTF Challenges / Resources
+* ⭐ **[crackmes.one](https://crackmes.one/)** / [Discord](https://discord.com/invite/2pPV3yq), [Hackers101](https://www.hacker101.com/), [SmashTheStack](https://smashthestack.org/), [WebHacking](https://webhacking.kr/) or [DefendTheWeb](https://defendtheweb.net/) - Cybersecurity Challenges
+* ⭐ **[HackTricks](https://book.hacktricks.xyz/)** - Practical Penetration Testing & Security Auditing Tips
+* [Skills for All](https://skillsforall.com/) or [90DaysOfCyberSecurity](https://github.com/farhanashrafdev/90DaysOfCyberSecurity) - Cybersecurity Courses
+* [TryHackMe](https://tryhackme.com/), [Hack The Box](https://www.hackthebox.com/) or [OpenSecurityTraining2](https://opensecuritytraining.info/) - Cybersecurity Lessons
+* [Cyber Talent Kids](https://cybertalentskids.com/) or [Teach Yourself Info Sec](https://teachyourselfinfosec.com/) - Learn About Cybersecurity
+* [pwn.college](https://pwn.college/) - Cybersecurity Practice
+* [OverTheWire](https://overthewire.org/wargames/) - Cybersecurity Learning Game
+* [Hacksplaining](https://www.hacksplaining.com/) - Developer Security Lessons
+* [MicroCorruption](https://microcorruption.com/) - Learn Reverse Engineering / Cybersecurity
+* [OWASP Cheatsheet](https://cheatsheetseries.owasp.org/) - Application Security Guide
+* [John Hammond](https://www.youtube.com/@_JohnHammond) or [LowLevelLearning](https://www.youtube.com/@LowLevelLearning/) - Cybersecurity YouTube Tutorials
+* [Pentesting Bible](https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE) or [Juice Shop](https://owasp.org/www-project-juice-shop/) - Learn Pentesting
+* [How DNS Works](https://howdns.works/) - Learn DNS
+* [How DNSSEC Works](https://howdnssec.works/) - Learn DNSSEC
+* [sha256_project](https://github.com/oconnor663/sha256_project) or [cryptohack](https://cryptohack.org/) - Cryptography Learning
+* [How HTTPS Works](https://howhttps.works/) - Learn HTTPS****
+
+***
+
 # ► Programming Languages
 
 * 🌐 **[Awesome Cheatsheets](https://lecoupa.github.io/awesome-cheatsheets/)**, **[QuickRef.me](https://quickref.me/)**, [HowDoI](https://github.com/gleitz/howdoi), [OverApi](https://overapi.com/) or [Cheat Sheets](http://www.cheat-sheets.org/) - Programming Cheat Sheets
@@ -836,7 +861,7 @@
 * 🌐 **[Awesome Python](https://awesome-python.com/)** - Python Resources
 * 🌐 **[Python Discord](https://pythondiscord.com/resources/)**, [Python Programming Hub](https://github.com/Tanu-N-Prabhu/Python) or [Python Reference](https://github.com/rasbt/python_reference) - Python Learning Resources
 * ⭐ **[Automate The Boring Stuff](https://automatetheboringstuff.com/)** - Python Automation Book
-* [30 Days Of Python](https://github.com/Asabeneh/30-Days-Of-Python) - Python Guide
+* [30 Days Of Python](https://github.com/Asabeneh/30-Days-Of-Python) or [Hitchhiker’s Guide to Python](https://docs.python-guide.org/) - Python Guides
 * [Python AI](https://community.uuki.live/course/tdb3Vsl1/python-course/aitutor) - AI Python Tutor
 * [CodingBat](https://codingbat.com/python) or [PyQuickie](https://chromewebstore.google.com/detail/pyquickie/okpdnfgpbpifbncoleieajiblmebbkci) - Python Practice
 * [Python4Everyone](https://py4e.com/), [A Byte of Python](https://python.swaroopch.com/), [Hypermodern Python](https://cjolowicz.github.io/posts/hypermodern-python-01-setup/), [DataCamp](https://www.datacamp.com/), [Learn Python](https://www.learnpython.org/), [Learn-Python](https://github.com/trekhleb/learn-python) or [Magical Universe](https://github.com/zotroneneis/magical_universe) - Learn Python
@@ -989,7 +1014,7 @@
 * [Gradient Animator](https://www.gradient-animator.com/) - Animated CSS Gradient Generator
 * [147colors](https://147colors.com/) - CSS Color Pickers
 * [FilterBlend](https://ilyashubin.github.io/FilterBlend/) - CSS Blend Modes
-* [Animista](https://animista.net/), [Woah.css](https://www.joerezendes.com/projects/Woah.css/) or [Animate.css](https://animate.style/) - CSS Animations
+* [Animista](https://animista.net/), [Woah.css](https://www.joerezendes.com/projects/Woah.css/), [Magic CSS](https://minimamente.com/project/magic/) or [Animate.css](https://animate.style/) - CSS Animations
 * [transition.css](https://www.transition.style/) - CSS Transitions
 
 ***
@@ -1026,7 +1051,7 @@
 
 * ⭐ **[React](https://react.dev/)** - JS Library
 * [OpenChakra](https://openchakra.app/) or [Plate](https://platejs.org/) - React Code Editors
-* [React Suite](https://rsuitejs.com/) - React Components
+* [React Suite](https://rsuitejs.com/) or [Radix UI](https://www.radix-ui.com/) - React Components
 * [Bulletproof React](https://github.com/alan2207/bulletproof-react) - React App Architecture
 * [React Native Apps](https://github.com/ReactNativeNews/React-Native-Apps/) - React App Examples
 * [Aspect](https://sample-code.aspect.app/) - Copy React Code from Any Site
@@ -1103,11 +1128,11 @@
 * [Apache](https://httpd.apache.org/) - HTTP Server
 * [Easegress](https://github.com/megaease/easegress) - Traffic Orchestration System
 * [HITS](https://hits.seeyoufarm.com/) - Website Traffic Badges
-* [Partytown](https://partytown.builder.io) / [GitHub](https://github.com/BuilderIO/partytown) - Relocate Scripts to Web Worker
+* [Partytown](https://partytown.builder.io)- Relocate Scripts to Web Worker
 * [Flounder](https://flounder.online/) - Gemini Website Builder
 * [Transform](https://transform.tools/) - Polyglot Web Converter
 * [Framer](https://www.framer.com/) - Interactive Site / App Design Tool
-* [ProjectVisBug](https://visbug.web.app) / [GitHub](https://github.com/GoogleChromeLabs/ProjectVisBug) - Webpage Editor
+* [ProjectVisBug](https://visbug.web.app) - Webpage Editor
 * [Brython](https://brython.info/) - Python 3 Web Scripting Language
 * [BuiltWith](https://builtwith.com/) - Find Out What Sites are Built With
 * [Bug](https://auz.github.io/Bug/) - Add Crawling Bugs to Website
@@ -1139,6 +1164,7 @@
 * [CBox](https://www.cbox.ws/), [Typebot](https://typebot.io/) or [Tawk](https://www.tawk.to/) - Embedded Chat App
 * [Pay 2 Email](https://pay2.email/) - Simple Website Contact Form
 * [Seventy Seven](https://www.seventy-seven.dev/) - Customer Support Tool
+* [Chaindesk](https://www.chaindesk.ai/) - AI Chatbot for Customer Support
 * [Twitcker](https://twitcker.com/) - Add Twitter Feed Ticker to Site
 * [Curator](https://curator.io/) - Embed Social Media Feeds
 * [MinIO](https://min.io/) or [Filebase](https://filebase.com/) - Cloud Native Object Storage
@@ -1270,7 +1296,7 @@
 * [HaveIBeenSquatted](https://haveibeensquatted.com) - Typosquatting Discovery Tool
 * [iana](https://www.iana.org/), [arin](https://www.arin.net/), [lacnic](https://www.lacnic.net/), [afrinic](https://www.afrinic.net/) or [apnic](https://www.apnic.net/) - Internet Registry Sites
 * [takingnames](https://takingnames.io/blog/instant-subdomains), [GetFreeDomain](https://www.getfreedomain.name/) or [EU.org](https://nic.eu.org/) / [2](https://nic.ua/en/domains/.pp.ua) - Free Subdomains
-* [JS.ORG](https://js.org/) - Free subdomain for JavaScript Developers
+* [is-a.dev](https://www.is-a.dev/) or [JS.ORG](https://js.org/) - Developer Homepages
 * [Homepage](https://github.com/benphelps/homepage), [Flame](https://github.com/pawelmalak/flame), [Homer](https://github.com/bastienwirtz/homer) or [Dashy](https://dashy.to/) / [GitHub](https://github.com/lissy93/dashy) - Home Server Startpages
 * [TheDev](https://thedev.id/) - Free Developer Subdomains
 * [redirect.name](https://redirect.name/) - URL Forwarding
@@ -1366,36 +1392,6 @@
 
 # ► Cybersecurity
 
-* 🌐 **[Free Cyber Resources](https://github.com/gerryguy311/Free_CyberSecurity_Professional_Development_Resources)**, [BlueTeam Tools](https://github.com/A-poc/BlueTeam-Tools) or [Applied Cybersecurity](https://www.nist.gov/itl/applied-cybersecurity/nice/resources/online-learning-content) - Cybersecurity Learning Resources
-* 🌐 **[CTF Sites](https://ctfsites.github.io/)**, [echoCTF.RED](https://echoctf.red/), [picoCTF](https://picoctf.org/), [CTF Beginners Guide](https://jaimelightfoot.com/blog/so-you-want-to-ctf-a-beginners-guide/) or [CTFLearn](https://ctflearn.com/) - CTF Challenges / Resources
-* ⭐ **[crackmes.one](https://crackmes.one/)** / [Discord](https://discord.com/invite/2pPV3yq), [Hackers101](https://www.hacker101.com/), [SmashTheStack](https://smashthestack.org/), [WebHacking](https://webhacking.kr/) or [DefendTheWeb](https://defendtheweb.net/) - Cybersecurity Challenges
-* [Skills for All](https://skillsforall.com/) or [90DaysOfCyberSecurity](https://github.com/farhanashrafdev/90DaysOfCyberSecurity) - Cybersecurity Courses
-* [TryHackMe](https://tryhackme.com/), [Hack The Box](https://www.hackthebox.com/) or [OpenSecurityTraining2](https://opensecuritytraining.info/) - Cybersecurity Lessons
-* [Cyber Talent Kids](https://cybertalentskids.com/) or [Teach Yourself Info Sec](https://teachyourselfinfosec.com/) - Learn About Cybersecurity
-* [pwn.college](https://pwn.college/) - Cybersecurity Practice
-* [OverTheWire](https://overthewire.org/wargames/) - Cybersecurity Learning Game
-* [Hacksplaining](https://www.hacksplaining.com/) - Developer Security Lessons
-* [MicroCorruption](https://microcorruption.com/) - Learn Reverse Engineering / Cybersecurity
-* [OWASP Cheatsheet](https://cheatsheetseries.owasp.org/) - Application Security Guide
-* [John Hammond](https://www.youtube.com/@_JohnHammond) or [LowLevelLearning](https://www.youtube.com/@LowLevelLearning/) - Cybersecurity YouTube Tutorials
-
-***
-
-## ▷ Pen Testing
-
-* 🌐 **[Awesome Pen Testing](https://github.com/enaqx/awesome-pentest)** - Penetration Testing Resources
-* 🌐 **[Awesome Hacking](https://github.com/Hack-with-Github/Awesome-Hacking)** - Pentesting / Security Index
-* ⭐ **[HackTricks](https://book.hacktricks.xyz/)** - Practical Penetration Testing & Security Auditing Tips
-* [Pentesting Bible](https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE) or [Juice Shop](https://owasp.org/www-project-juice-shop/) - Learn Pentesting
-* [Metasploit](https://www.metasploit.com/) / [Cheatsheet](https://www.comparitech.com/net-admin/metasploit-cheat-sheet/) - Pentesting Framework
-* [MobileApp-Pentest-Cheatsheet](https://github.com/tanprathan/MobileApp-Pentest-Cheatsheet) - App Pentesting Cheatsheet
-* [Pentest Contracts](https://github.com/cure53/Contracts) - Security Contract Templates
-* [Kali NetHunter](https://store.nethunter.com/en/) or [AndroGuard](https://github.com/androguard/androguard) - Penetration Testing / Forensics Apps
-
-***
-
-## ▷ Cybersecurity Tools
-
 * ⭐ **[pyWhat](https://github.com/bee-san/pyWhat)** - File Analyzer
 * [Open Source Security Software](https://open-source-security-software.net/) - Cybersecurity Software
 * [Shisho](https://shisho.dev/) - Infrastructure Code Security Patcher
@@ -1420,8 +1416,9 @@
 
 ## ▷ Cybersecurity Indexes
 
-* ⭐ **[Awesome Cyber Security](https://github.com/fabionoth/awesome-cyber-security)** - Cybersecurity Resources
-* ⭐ **[Awesome CI/CD Security](https://github.com/myugan/awesome-cicd-security)** - CI/CD Security Resources
+* 🌐 **[Awesome Cyber Security](https://github.com/fabionoth/awesome-cyber-security)** - Cybersecurity Resources
+* 🌐 **[Awesome CI/CD Security](https://github.com/myugan/awesome-cicd-security)** - CI/CD Security Resources
+* 🌐 **[Awesome GPT Agents](https://github.com/fr0gger/Awesome-GPT-Agents)** - Cybersecurity GPT Agent Index
 * [Advisory Database](https://github.com/github/advisory-database), [ThreatFox](https://threatfox.abuse.ch/) or [Att&ck](https://attack.mitre.org/) - Cybersecurity Defense Databases
 * [ThreatMap](https://threatmap.checkpoint.com/) or [CyberMap](https://cybermap.kaspersky.com/) - Live Malware Distribution Maps
 * [VirusShare](https://virusshare.com/), [PulseDive](https://pulsedive.com/) or [Malpedia](https://malpedia.caad.fkie.fraunhofer.de/) - Malware Search
@@ -1435,12 +1432,21 @@
 
 ***
 
+## ▷ Pen Testing
+
+* 🌐 **[Awesome Pen Testing](https://github.com/enaqx/awesome-pentest)** - Penetration Testing Resources
+* 🌐 **[Awesome Hacking](https://github.com/Hack-with-Github/Awesome-Hacking)** - Pentesting / Security Index
+* [Metasploit](https://www.metasploit.com/) / [Cheatsheet](https://www.comparitech.com/net-admin/metasploit-cheat-sheet/) - Pentesting Framework
+* [MobileApp-Pentest-Cheatsheet](https://github.com/tanprathan/MobileApp-Pentest-Cheatsheet) - App Pentesting Cheatsheet
+* [Pentest Contracts](https://github.com/cure53/Contracts) - Security Contract Templates
+* [Kali NetHunter](https://store.nethunter.com/en/) or [AndroGuard](https://github.com/androguard/androguard) - Penetration Testing / Forensics Apps
+
+***
+
 ## ▷ DNS / Web Security
 
 * ↪️ **[Free DNS Servers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_free_dns_servers)**
 * ⭐ **[mess with dns](https://messwithdns.net/)** - Experiment with DNS
-* [How DNS Works](https://howdns.works/) - Learn DNS
-* [How DNSSEC Works](https://howdnssec.works/) - Learn DNSSEC
 * [DNS over HTTPS](https://github.com/curl/curl/wiki/DNS-over-HTTPS) - Encrypted DNS Providers & Resources
 * [DNSPerf](https://www.dnsperf.com/dns-providers-list/) - DNS Provider Rankings
 * [GRC DNSBench](https://www.grc.com/dns/benchmark.htm) - DNS Benchmark
@@ -1461,8 +1467,6 @@
 ## ▷ Encryption / Certificates
 
 * ⭐ **[Awesome Cryptography](https://github.com/sobolevn/awesome-cryptography)** - Cryptography Resources
-* [sha256_project](https://github.com/oconnor663/sha256_project) or [cryptohack](https://cryptohack.org/) - Cryptography Learning
-* [How HTTPS Works](https://howhttps.works/) - Learn HTTPS
 * [mitmproxy](https://mitmproxy.org) - Interactive HTTPS Proxy / [GitHub](https://github.com/mitmproxy/mitmproxy)
 * [HTTPToolkit](https://httptoolkit.com/) - Intercept, Debug, and Mock HTTP(S)
 * [mitmproxy](https://mitmproxy.org/) / [GitHub](https://github.com/mitmproxy/mitmproxy) - Analyze and modify HTTPS traffic

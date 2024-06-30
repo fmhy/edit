@@ -36,9 +36,9 @@
 
 ## ▷ Download Managers
 
+* ⭐ **[JDownloader](https://jdownloader.org/jdownloader2)** - Download Manager / [Debloat](https://rentry.org/jdownloader2) / [Dark Theme](https://redd.it/q3xrgj) / [Dracula Theme](https://draculatheme.com/jdownloader2)
+* ⭐ **[Go Speed](https://gopeed.com/)** - Download Manager / [GitHub](https://github.com/GopeedLab/gopeed) / [Extension](https://github.com/GopeedLab/browser-extension) / [Plugins](https://github.com/search?q=topic%3Agopeed-extension&type=repositories)
 * ⭐ **[IDM](https://rentry.co/FMHYBase64#idm)** - Download Manager
-* ⭐ **[JDownloader](https://jdownloader.org/jdownloader2)** - Download Manager / [Debloat](https://rentry.org/jdownloader2) / [Captcha Solver](https://github.com/cracker0dks/CaptchaSolver) / [Dark Theme](https://redd.it/q3xrgj) / [Dracula Theme](https://draculatheme.com/jdownloader2)
-* ⭐ **[Gopeed](https://gopeed.com/)** - Download Manager / [GitHub](https://github.com/GopeedLab/gopeed) / [Extension](https://github.com/GopeedLab/browser-extension) / [Plugins](https://github.com/search?q=topic%3Agopeed-extension&type=repositories)
 * [XDM](https://xtremedownloadmanager.com/) - Download Manager / [GitHub](https://github.com/subhra74/xdm)
 * [Motrix](https://www.motrix.app/) or [imFile](https://github.com/imfile-io/imfile-desktop) - Download Manager / [GitHub](https://github.com/agalwood/Motrix)
 * [aria2](https://aria2.github.io/) - Terminal Download Manager / [GitHub](https://github.com/aria2/aria2) / [Download Bot](https://github.com/gaowanliang/DownloadBot) / [GUI](https://github.com/persepolisdm/persepolis) / [Frontend](https://ariang.mayswind.net/) / [WebUI](https://github.com/ziahamza/webui-aria2) / [GUI](https://persepolisdm.github.io/)
@@ -261,6 +261,7 @@
 * [Google Drive PDF Downloader](https://github.com/zeltox/Google-Drive-PDF-Downloader) - Download Protected GDrive PDFs
 * [PDFCoffee](https://pdfcoffee.com/) - Upload PDF, Word or PowerPoint Files
 * [Adobe Sign](https://www.adobe.com/acrobat/online/sign-pdf.html) - Fill & sign a PDF
+* [PrintFriendly](https://www.printfriendly.com/) - Printer Formatting Tools
 
 ***
 
@@ -274,12 +275,10 @@
 * ⭐ **[Buzzheavier](https://buzzheavier.com/)** - Unlimited / Forever / [Discord](https://discord.gg/ttQjgC28WP)
 * ⭐ **[Gofile](https://gofile.io/)** - Unlimited / 10 Days
 * ⭐ **[1fichier.com](https://1fichier.com/)** - 300GB / 15 Days (30 Days With Account)
-* ⭐ **[file.haus](https://filehaus.top/)** - 200GB / Forever / [.pk](https://filehaus.pk/) / [.su](https://filehaus.su/) / [.onion](http://fileha3hjvudqs2moembtaegnpjo5ptec3tomf5dlxx6ydwtajkkahyd.onion/) / [.i2p](http://xr256v4weabr3rdz3nqzb27bv3gkwjisuf2d57urqtmh3gx3w7da.b32.i2p/) / [.loki](http://nipqehne9zrtpryw6ig5y9gu7c8gwt8ymrrncufxg1g8wf5t4rqo.loki/)
+* ⭐ **[file.haus](https://filehaus.top/)** - 200GB / Forever / [.pk](https://filehaus.pk/) / [.su](https://filehaus.su/) / [.onion](http://fileha3hjvudqs2moembtaegnpjo5ptec3tomf5dlxx6ydwtajkkahyd.onion/) / [.i2p](http://xr256v4weabr3rdz3nqzb27bv3gkwjisuf2d57urqtmh3gx3w7da.b32.i2p/) / [.loki](http://nipqehne9zrtpryw6ig5y9gu7c8gwt8ymrrncufxg1g8wf5t4rqo.loki/) / [Discord](https://discord.gg/5Ac25XZfv6) / [Telegram](https://t.me/tsutajanet)
 * ⭐ **[Send.cm](https://send.cm/)** - 100GB / 15 Days
-* ⭐ **[Cipher Files](https://cipherfiles.com/)** - 5GB / Forever / [Discord](https://discord.gg/DmRhftYcvN)
 * ⭐ **[Pillowcase](https://pillowcase.su/)** - Audio File Host / 200MB (500MB With Account) / Forever
 * ⭐ **[Catbox](https://catbox.moe/)** - 200MB / Forever
-* ⭐ **[Qiwi](https://qiwi.gg)** - Account Required / [Note](https://pastebin.com/QJDbgtRJ)
 * ⭐ **[HIDAN](https://hidan.sh/)** - Unlimited / 10+ Days (from upload)
 * ⭐ **[Pixeldrain](https://pixeldrain.com/)** - 20GB / 120 Days / [Discord](https://discord.gg/TWKGvYAFvX)
 * ⭐ **Pixeldrain Tools** - [Speedtest](https://pixeldrain.com/speedtest) / [Limit Bypass](https://pixeldrain-bypass.cybar.xyz) / [Limit Bypass Userscript](https://greasyfork.org/en/scripts/491326-pixeldrain-download-bypass)
@@ -291,6 +290,8 @@
 * [FEX.NET](https://fex.net/) - 100GB / 7 Days
 * [SwissTransfer](https://www.swisstransfer.com/) - 50GB / 30 Days / 250 Downloads
 * [BowFile](https://bowfile.com/) - 20GB / 20 Days
+* [Qiwi](https://qiwi.gg) - Account Required / [Warning](https://pastebin.com/ubuCDi65)
+* [Cipher Files](https://cipherfiles.com/) - 5GB / Forever / [Not Encrypted](https://i.ibb.co/0nR7dBG/image.png) / [Discord](https://discord.gg/DmRhftYcvN)
 * [Hexupload](https://www.hexupload.net/) or [AnonTransfer](https://anontransfer.com/) - 15GB / 30 Days
 * [FileLu](https://filelu.com/) - 15GB / 1 Day (Unlimited With Account) / [Note](https://pastebin.com/Rr9ZqD2F)
 * [Fastupload.io](https://fastupload.io/en) - 10GB / 30 Days (60 Days With Account)
@@ -301,6 +302,7 @@
 * [Fshare](https://www.fshare.vn/) - 10GB / 5 Days
 * [Uploadraja.com](https://uploadraja.com/) - 10GB / 4 Days (30GB / 15 Days With Account)
 * [FileTransfer.io](https://filetransfer.io/) - 6GB / 21 Days / 50 Downloads
+* [Tempfile](https://tempfile.me/) - 10GB / 90 Days
 * [FileDitch](https://fileditch.com/), [Oshi](https://oshi.at/) or [SendGB](https://www.sendgb.com/) - 5GB / 90 Days
 * [MegaUp](https://megaup.net/) - 5GB / 60 Days
 * [ufile.io](https://ufile.io/) - 5GB / 30 Days
@@ -413,7 +415,6 @@
 * [InfiniDrive](https://github.com/nicomda/InfiniDrive) - Amazon Prime Photos Cloud Storage
 * [OneDriveFly](https://github.com/Tai7sy/OneDriveFly) or [OneDrive Vercel Index](https://ovi.swo.moe/) - OneDrive Indexes
 * [Fix-OneDrive-Zip](https://github.com/pmqs/Fix-OneDrive-Zip) - Fix OneDrive Zip Files >4gb
-* [Microsoft-E5-Auto-Renewal](https://github.com/TheCaduceus/Microsoft-E5-Auto-Renewal) - Developer E5 Auto Renewal
 * [Koofr](https://koofr.eu/) - Cloud Storage Manager
 * [SpaceDrive](https://www.spacedrive.com/) - Cloud Storage Manager
 * [CarotDAV](http://rei.to/carotdav_en.html) - Cloud Storage Manager

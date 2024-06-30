@@ -12,7 +12,6 @@
 * ↪️ **[Study / Research](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu#wiki_.25B7_study_.2F_research)**
 * ↪️ **[Data Visualization](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_data_visualization_tools)**
 * ⭐ **[TextCleanr](https://www.textcleanr.com/)**, [Text Mechanic](https://textmechanic.com/), [TextFixer](https://www.textfixer.com/), [OnlineTextTools](https://onlinetexttools.com/), [Convert Case](https://convertcase.net/), [TextCleaner](https://textcleaner.net/all-tools/), [SortMyList](https://sortmylist.com/) or [The Alphabetizer](https://alphabetizer.flap.tv/) - Organize / Format Text
-* [SpeechTexter](https://www.speechtexter.com/), [SpeechNotes](https://speechnotes.co/), [LilySpeech](https://lilyspeech.com/), [VoiceToText](https://voicetotext.org/), [TalkTyper](https://talktyper.com/), [Dictation](https://dictation.io/speech) or [VoiceNotebook](https://voicenotebook.com/) - Speech to Text
 * [OpenPaper](https://openpaper.work/en/), [papis](https://github.com/papis/papis), [PaperMerge](https://www.papermerge.com/), [Paperless-ngx](https://docs.paperless-ngx.com) or [DataShare](https://datashare.icij.org/) - Document Managers
 * [diffr](https://loilo.github.io/diffr/), [TextCompare](https://www.textcompare.org/), [Text-Compare](https://text-compare.com/) or [DiffNow](https://www.diffnow.com/) - Compare Text
 * [Count Duplicates](https://www.somacon.com/p568.php) or [DuplicateWord](https://duplicateword.com/) - Count / Remove Duplicates in a List
@@ -106,6 +105,22 @@
 
 ***
 
+## ▷ Audio Transcription
+
+* [mp4grep](https://github.com/o-oconnell/mp4grep)
+* [SpeechTexter](https://www.speechtexter.com/)
+* [Revoldiv](https://revoldiv.com/)
+* [Vibe](https://thewh1teagle.github.io/vibe/)
+* [SpeechNotes](https://speechnotes.co/)
+* [LilySpeech](https://lilyspeech.com/)
+* [VoiceToText](https://voicetotext.org/)
+* [TalkTyper](https://talktyper.com/)
+* [Turboscribe](https://turboscribe.ai/)
+* [Dictation](https://dictation.io/speech)
+* [VoiceNotebook](https://voicenotebook.com/)
+
+***
+
 ## ▷ Encode / Decode
 
 * ⭐ **[CyberChef](https://gchq.github.io/CyberChef/)** - Encode / Decode Text
@@ -120,6 +135,7 @@
 
 ## ▷ Grammar Check
 
+* [EditGPT](https://www.editgpt.app/)
 * [Grammarly](https://www.grammarly.com/grammar-check)
 * [ProWritingAid](https://prowritingaid.com/grammar-checker)
 * [QuillBot](https://quillbot.com/grammar-check)
@@ -132,21 +148,13 @@
 ## ▷ Text Rephrasing
 
 * ⭐ **[QuillBot AI](https://quillbot.com/)** - Text Rephrasing
-* ⭐ **[paraphrasetool](https://paraphrasetool.com/)** - Text Rephrasing
-* [Just Not Sorry](https://justnotsorry.com/) - Undermining Word Detection
-* [Rewrite Tool](https://rewritetool.net/) - Text Rephrasing
-* [Paraphraz](https://paraphraz.it/) - Text Rephrasing
-* [Rephrasely](https://rephrasely.com/) - Text Rephrasing
+* ⭐ **[paraphrasetool](https://paraphrasetool.com/)** or [Rephrasely](https://rephrasely.com/) - Text Rephrasing
+* ⭐ **[Goblin.tools](https://goblin.tools/)** - Text Rephrasing
 * [Paraphraser](https://www.paraphraser.io/) - Text Rephrasing
 * [Paraphrase-Online](https://paraphrase-online.com/) - Text Rephrasing
 * [paraphrasingtool](https://paraphrasingtool.ai/) - Text Rephrasing
-* [henshu](https://www.henshu.ai/) - Text Rephrasing
-* [GPTHero](https://gpthero.net/) - AI Detection Bypass
-* [Smry.ai](https://www.smry.ai/) - Text Summary
 * [SMMRY](https://smmry.com/) - Text Summary
-* [summarize.site](https://github.com/clmnin/summarize.site/) - Text Summary
-* [kagi](https://kagi.com/summarizer/index.html) - Text Summary
-* [MyReader](https://www.myreader.io/) - Text Summary
+* [henshu](https://www.henshu.ai/) - Text Rephrasing
 * [Recast](https://www.letsrecast.ai/) - Text Summary
 
 ***
@@ -211,7 +219,7 @@
 * ⭐ **[Obsidian](https://obsidian.md/)**
 * ⭐ **Obsidian Tools** - [Resources](https://github.com/kmaasrud/awesome-obsidian) / [Share Notes](https://noteshare.space/) / [Live Sync](https://github.com/vrtmrz/obsidian-livesync) / [Backup](https://github.com/denolehov/obsidian-git) / [ChatGPT Addon](https://github.com/logancyang/obsidian-copilot), [2](https://github.com/vasilecampeanu/obsidian-weaver)
 * ⭐ **[Notion](https://www.notion.so/)**
-* ⭐ **Notion Tools** - [Themes](https://notionthemes.yudax.me/) / [Templates](https://notionpages.com/) / [Resources](https://www.notioneverything.com/notion-world), [2](https://chief-ease-8ab.notion.site/List-of-200-Notion-Resources-e1b46cd365094265bd47b8a2b25bb41e) / [Guide](https://easlo.notion.site/Notion-Beginner-to-Advanced-8a492960b049433289c4a8d362204d20)
+* ⭐ **Notion Tools** - [Themes](https://notionthemes.yudax.me/) / [Templates](https://notionpages.com/) / [Resources](https://www.notioneverything.com/notion-world), [2](https://chief-ease-8ab.notion.site/List-of-200-Notion-Resources-e1b46cd365094265bd47b8a2b25bb41e) / [Guide](https://easlo.notion.site/Notion-Beginner-to-Advanced-8a492960b049433289c4a8d362204d20) / [Markdown Extractor](https://github.com/souvikinator/notion-to-md)
 * ⭐ **[Notesnook](https://notesnook.com/)**
 * ⭐ **[AnyType](https://anytype.io/)**
 * ⭐ **[Logseq](https://logseq.com/)**
@@ -334,6 +342,7 @@
 * [Baserow](https://gitlab.com/baserow/baserow), [Framacalc](https://framacalc.org/), [NocoDB](https://github.com/nocodb/nocodb) or [AirTable](https://airtable.com/) - Collaborative Spreadsheets
 * [Jamovi](https://www.jamovi.org/) - Statistical Spreadsheets
 * [Excel Macro Mastery](https://excelmacromastery.com/vba-articles/) - Excel VBA Guides
+* [ExcelJet](https://exceljet.net/formulas) or [Excel Functions](https://www.excelfunctions.net/) - Excel Formulas
 * [Vertex42](https://www.vertex42.com/) - Excel Templates
 * [Plain Text Table](https://plaintexttools.github.io/plain-text-table/) - Text Tables
 * [EditCSVOnline](https://www.editcsvonline.com/) - Online CSV Editor
@@ -352,17 +361,18 @@
 * ⭐ **[NovelWriter](https://novelwriter.io/)** or [Bibisco](https://bibisco.com/) - Novel Editors
 * ⭐ **[Linked](https://uselinked.com/)**, [journaltxt](https://journaltxt.github.io/), [Gekri](https://gekri.com/), [Microsoft Journal](https://www.microsoft.com/en-us/garage/profiles/journal/), [Diarium](https://diariumapp.com/), [Gemlog](https://gemlog.blue/) or [jrnl.sh](https://jrnl.sh/) - Journal Apps / [Songs](https://deardiary.ai/)
 * ⭐ **[ChaoticShiny](http://chaoticshiny.com/)**, [Seventh Sanctum](https://www.seventhsanctum.com/), [Notebook.ai](https://www.notebook.ai/) or [WorldAnvil](https://www.worldanvil.com/) - Fantasy Writing Generators
+* [Infinite Story](https://infinite-story.com/), [Strand](https://strand.jinay.dev/), [Agora](https://www.agorawriter.com/) or [WriteAlong](https://www.writealong.io/) - Collaborative Writing / Feedback
 * [LanguageIsAVirus](https://www.languageisavirus.com/) - Writing Prompts
 * [Storylines](https://github.com/morning4coffe-dev/storylines) - Chapter Based Story Writing
 * [Twinery](https://twinery.org/) - Interactive Non-Linear Story Creator
 * [Fortelling](https://www.fortelling.app/) - Novel Plotting & Editing Workspace
-* [Infinite Story](https://infinite-story.com/) or [WriteAlong](https://www.writealong.io/) - Collaborative Story Writing
 * [Blackout Poetry](https://blackoutpoetry.glitch.me/) - Blackout Poetry Creator
 * [Idyll](https://idyll-lang.org/editor) - Create Interactive Essays / [github](https://github.com/idyll-lang/idyll)
 * [Papyrus Author](https://www.papyrusauthor.com/) - Creative Writing Suite
 * [STARC](https://starc.app/) - Screen Writing Tool
 * [Unsell](https://www.unsell.design/) - Portfolio / Magazine Templates
 * [Rarebit](https://rarebit.neocities.org/) - Webcomics Template
+* [watchout4snakes](http://watchout4snakes.com/) - Generate Random Sentences, Phrases, Words etc.
 * [Glossary Generator](https://www.jamesmurdo.com/glossary_generator.html) - Generate Glossaries
 * [Fantasy Name Generators](https://www.fantasynamegenerators.com/) - Fantasy Name Generators
 * [PolyGlot](https://draquet.github.io/PolyGlot/) or [VulgarLang](https://www.vulgarlang.com/) - Spoken Language Construction Tools

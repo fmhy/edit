@@ -22,11 +22,10 @@
 * ⭐ **[Game Bounty](https://gamebounty.world/)** - Download / [Discord](https://dsc.gg/gamebounty)
 * ⭐ **[GOG Games](https://gog-games.to/)** - Download / [.onion](http://goggamespyi7b6ybpnpnlwhb4md6owgbijfsuj6z5hesqt3yfyz42rad.onion/)
 * ⭐ **[Online Fix](https://online-fix.me/)** - Download / Torrent / Multiplayer / [Discord](https://discord.gg/yExgFYncMD)
-* ⭐ **[SteamGG](https://steamgg.net/)** - Download / Pre-Installs / [Discord](https://discord.gg/3A9gpx8XeJ)
+* ⭐ **[SteamGG](https://steamgg.net/)** - Download / Pre-Installs / [Discord](https://discord.gg/3A9gpx8XeJ) 
 * ⭐ **[Ova Games](https://www.ovagames.com/)** - Download / [Bypass All Shortlinks Required](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25B7_redirect_bypass)
 * ⭐ **[FreeToGame](https://www.freetogame.com/games)**, [Acid Play](https://acid-play.com/) or [/v/ Recs](https://vsrecommendedgames.fandom.com/wiki/Freeware_Games) - F2P Games / [Trackers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25BA_free_stuff)
 * ⭐ **[Game Download CSE](https://cse.google.com/cse?cx=006516753008110874046:cbjowp5sdqg)**, [Game Torrent CSE](https://cse.google.com/cse?cx=006516753008110874046:pobnsujblyx), [Rezi Search](https://rezi.one/), [Rave Search](https://idleendeavor.github.io/gamesearch/) / [2](https://ravegamesearch.pages.dev/) or [/r/PiratedGames CSE](https://cse.google.com/cse?cx=20c2a3e5f702049aa) - Multi-Site Search Engines
-* [ARMGDDN Browser](https://cs.rin.ru/forum/viewtopic.php?f=14&t=140593) / [Telegram](https://t.me/ARMGDDNGames) - Download
 * [g4u](https://g4u.to/) - Download / pw: 404
 * [appnetica](https://appnetica.com/) - Download / Torrent / Pre-Installs
 * [AtopGames](https://atopgames.com/) - Download / Pre-Installs / [Discord](https://discord.gg/KSG9Tg2s7b)
@@ -63,6 +62,7 @@
 * ⭐ **[KaOsKrew](https://www.kaoskrew.org/)** - Download / Torrent / [Discord](https://discord.com/invite/WF2pqPTFBs)
 * ⭐ **[FitGirl Repacks](https://fitgirl-repacks.site/)** - Download / Torrent / ROM Repacks / [Discord](https://discord.gg/Up3YARe4RW)
 * ⭐ **[M4CKD0GE Repacks](https://m4ckd0ge-repacks.site/)** - Download / [Discord](https://discord.gg/693hNBdymb)
+* ⭐ **[ARMGDDN Browser](https://cs.rin.ru/forum/viewtopic.php?f=14&t=140593)** / [Telegram](https://t.me/ARMGDDNGames) - Download
 * [Gnarly Repacks](https://rentry.co/FMHYBase64#gnarly_repacks) - Download
 * [ScOOt3r Repacks (Discord)](https://discord.gg/xe3Fys8Upy) - Download / Torrent
 * [Elamigos](https://elamigos.site/) - Download
@@ -219,6 +219,7 @@
 * ⭐ **[WiiUDownloader](https://github.com/Xpl0itU/WiiUDownloader)**, [WiiUSBHelper](https://github.com/FailedShack/USBHelperInstaller/releases), [WiiU ROMs](https://wiiuroms.net/) or [JNUSTool](https://gbatemp.net/threads/jnustool-nusgrabber-and-cdecrypt-combined.413179/) - ROMs / Wii U
 * [/r/ROMs](https://www.reddit.com/r/ROMs/) - Discussion Sub
 * [Vimms Lair](https://vimm.net/) - Emulators / ROMs
+* [SafeROMs](https://www.saferoms.com/) - Emulators / ROMs
 * [Gnarly Repacks](https://rentry.co/FMHYBase64#gnarly_repacks) - ROMs / Emulator Repacks
 * [ROM-Collections](https://rentry.co/ROM-Collections) - ROMs
 * [WowROMs](https://wowroms.com/en) - ROMs
@@ -314,7 +315,7 @@
 * [QAOP](https://torinak.com/qaop/games) - ZX Spectrum
 * [MSXGamesWorld](https://www.msxgamesworld.com/) or [CheatMSX](https://www.cheatmsx.com/) - MSX Browser Emulators
 * [CommodoreGames](https://www.commodoregames.net/) or [C64Online](https://c64online.com/) - C64 Browser Emulators
-* [Super Mario Bros](https://supermariobros.io/), [SuperMarioBrosGames](https://supermariobrosgames.com/) or [SMBGames](https://smbgames.be/) - Super Mario Browser Emulators
+* [SMBGames](https://smbgames.be/) - Super Mario Browser Emulator
 * [SMWGames](https://www.smwgames.com/) - Hacked Super Mario World Browser Emulators
 * [Jelly Mario](https://jellymar.io/) - Jelly Super Mario
 * [Level Share Square](https://levelsharesquare.com/) - Custom Maps for Mario Fangames
@@ -338,8 +339,8 @@
 # ► Browser Games
 
 * ↪️ **[Interactive Text Adventures](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_text_adventures)**
-* ⭐ **[Flashpoint](https://flashpointarchive.org/)** / [Discord](https://discord.gg/Z4gGtJvvn8) or [Flash Library](https://rentry.co/FMHYBase64#software-library-flash) - Flash Game Archives 
-* ⭐ **[Ninjakiwi](https://ninjakiwi.com/archive)** - Flash Game Archives
+* ⭐ **[Flashpoint](https://flashpointarchive.org/)** / [Discord](https://discord.gg/Z4gGtJvvn8), [Flash by Night](http://www.flashbynight.com/) or [Flash Library](https://rentry.co/FMHYBase64#software-library-flash) - Flash Game Archives 
+* ⭐ **[Ninja Kiwi Archive](https://ninjakiwi.com/archive)** - Ninja Kiwi / Bloons Archive
 * ⭐ **[Allchemy](https://allchemy.io/)** or [Infinite Craft](https://neal.fun/infinite-craft/) / [Wiki](https://expitau.github.io/InfiniteCraftWiki/) / [Search](https://infinibrowser.zptr.cc/search) - Infinite Item Crafting Games
 * ⭐ **[Powerline.io](https://powerline.io/)** - Multiplayer Snake / [Discord](https://discord.com/invite/NckDSyb)
 * ⭐ **[QWOP](https://www.foddy.net/Athletics.html)** - Ragdoll Running Game
@@ -389,6 +390,7 @@
 * [Y8](https://www.y8.com/) - Browser Games
 * [Crazy Games](https://www.crazygames.com/) - Browser Games
 * [GamezHero](https://www.gamezhero.com/) - Browser Games
+* [Deepnight](https://deepnight.net/) - Browser Games
 * [Nicky Case](https://ncase.me/) - Browser Games
 * [yell0wsuit](https://yell0wsuit.page/games.html) - Browser Games
 * [N-Arcade](https://n-arcade.io/) - Browser Games
@@ -501,6 +503,7 @@
 * 🌐 **[Curlie Cards](https://curlie.org/en/Games/Video_Games/Recreation/Browser_Based/Cards)** - Card Game Index
 * 🌐 **[Curlie Yahtzee](https://curlie.org/en/Games/Video_Games/Recreation/Browser_Based/Dice/Yahtzee)** - Yahtzee Game Index
 * ⭐ **[WorldOfCardGames](https://worldofcardgames.com/)**, [CardGames.io](https://cardgames.io/), [247Games](https://www.247games.com/), [CardzMania](https://www.cardzmania.com/) or [World of Solitaire](https://worldofsolitaire.com/) - Multiplayer Card Games
+* [PartyProject](https://char64.itch.io/partyproject) - Mario Party Style Multiplayer Game
 * [FlyOrDie](https://www.flyordie.com/) - Multiplayer Card Games
 * [Playok](https://www.playok.com/) - Multiplayer Card Games
 * [PlayingCards](https://playingcards.io/) - Multiplayer Card Games
@@ -550,6 +553,7 @@
 * ⭐ **[jiggie](https://jiggie.fun/)** - Custom Puzzles + Multiplayer
 * [Puzzle Party](https://artsandculture.google.com/experiment/puzzle-party/EwGBPZlIzv0KRw) - Multiplayer Jigsaws
 * [PuzzlePrime](https://www.puzzleprime.com/) - Problems / Puzzles
+* [Truncate](https://truncate.town/) - Crossword Strategy Game
 * [HoverCats](https://hovercats.gg/) - Multiplayer Crosswords
 * [Regex Cross­word](https://regexcrossword.com/) - Regex Cross­words
 * [Web Paint-by-Number](https://webpbn.com/) or [Nonograms](https://www.nonograms.org/) - Graphic Crosswords

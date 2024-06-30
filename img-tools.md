@@ -90,7 +90,7 @@
 * ⭐ **[OpenModelDB](https://openmodeldb.info/)** - AI Upscaling Model Database
 * [Real-ESRGAN](https://github.com/xinntao/Real-ESRGAN) - Image Restoration Algorithms / [Face Restoration](https://github.com/TencentARC/GFPGAN)
 * [/r/estoration](https://www.reddit.com/r/estoration/) - Photo Restoration Requests
-* [Photo Face Restorer](https://www.restorephotos.io/) - Face Restoration / Colorization Tool
+* [Photo Face Restorer](https://www.restorephotos.io/) - Face Restoration / Colorization Tool / 2 Daily
 * [upscaler](https://icons8.com/upscaler) - Image Upscaling
 * [Bigjpg](https://bigjpg.com/) - Image Upscaling
 * [Ilaria Upscaler](https://huggingface.co/spaces/TheStinger/Ilaria_Upscaler) - Image Upscaling
@@ -139,7 +139,7 @@
 ## ▷ Image Effects
 
 * ⭐ **[PhotoMosh](https://photomosh.com/)**, [jpg-glitch-electron](https://snorpey.github.io/jpg-glitch-electron/), [glitch-this!](https://github.com/TotallyNotChase/glitch-this), [glitch2](https://akx.github.io/glitch2/), [Image Glitcher](https://www.airtightinteractive.com/demos/js/imageglitcher/) or [GlitchyImage](https://glitchyimage.com/) - Glitch Images
-* [PhotoFunia](https://photofunia.com/) or [Designify](https://designify.com/) - Photo Effects / Filters
+* [PhotoFunia](https://photofunia.com/), [Image Mage](https://imagemageage.github.io/) or [Designify](https://designify.com/) - Photo Effects / Filters
 * [distort-grid](https://github.com/snorpey/distort-grid) - Grid Based Image Distortion
 * [Tinter](https://tinter.uxie.io/) - Image Hue Editor
 * [ordered-dither-maker](https://seleb.github.io/ordered-dither-maker/) - Image Dithering
@@ -319,6 +319,7 @@
 * [ArtBoard](https://artboard.studio/) - Design App
 * [VistaCreate](https://create.vista.com/) - Design App
 * [PosterMyWall](https://www.postermywall.com/) - Design App
+* [Kittl](https://app.kittl.com/) - Design App
 * [Kosmik](https://www.kosmik.app/) - Design Asset Manager
 * [Venngage](https://venngage.com/) - Infographic Design
 * [Bannery](https://bannery.app/) - Banner Design
@@ -398,6 +399,7 @@
 * [GraphixTree](https://graphixtree.com/)
 * [PSDLY](https://www.psdly.com/)
 * [Heroturko](https://heroturko1.com/)
+* [Unblast](https://unblast.com/)
 * [CGArchives](https://cgarchives.com/)
 * [CGPlugin](https://t.me/s/cgplugin)
 * [SearchGFX](https://searchgfx.com/)
@@ -624,7 +626,7 @@
 * [JPEG.rocks](https://jpeg.rocks/) - JPEG Re-Encoder
 * [JPEGMedic ARWE](https://www.jpegmedic.com/tools/jpegmedic-arwe/) - Recover Ransomware-Encrypted Images
 * [CamScanner](https://apps.apple.com/us/app/camscanner-pdf-scanner-app/id388627783) or [Microsoft Lens](https://apps.apple.com/us/app/microsoft-lens-pdf-scanner/id975925059) - Scan & Digitize Documents / iOS
-* [FaceSwapApp](https://face-swap.app/) / [Discord](https://discord.gg/D8wYxUvwTD), [Swapface](https://swapface.org/) / [Discord](https://discord.com/invite/5yPew6Cy6a), [faceswap](https://faceswap.dev/), [AIFaceSwap](https://aifaceswap.io/), [Swapper](https://icons8.com/swapper) or [FaceFusion](https://github.com/facefusion/facefusion) - Face Swapping
+* [FaceSwapApp](https://face-swap.app/) / [Discord](https://discord.gg/D8wYxUvwTD), [Swapface](https://swapface.org/) / [Discord](https://discord.com/invite/5yPew6Cy6a), [faceswap](https://faceswap.dev/), [AIFaceSwap](https://aifaceswap.io/), [face-swap](https://face-swap.io/), [Swapper](https://icons8.com/swapper) or [FaceFusion](https://github.com/facefusion/facefusion) - Face Swapping
 * [WiseTagger](https://github.com/0xb8/WiseTagger) - Image Tagger
 * [BooruDatasetTagManager](https://github.com/starik222/BooruDatasetTagManager) - Booru Image Tagger
 * [Cluttr](https://gitlab.com/bearjaws/cluttr) or [TagStudio](https://github.com/TagStudioDev/TagStudio) - Image File Organizers 
@@ -697,7 +699,7 @@
 * [Up1](https://github.com/Upload/Up1)
 * [Chevereto](https://chevereto.com/)
 * [Photofield](https://github.com/SmilyOrg/photofield)
-* [Google Photos Toolkit)](https://github.com/xob0t/Google-Photos-Toolkit) - Manage / Delete Google Photos
+* [Google Photos Toolkit](https://github.com/xob0t/Google-Photos-Toolkit) - Manage / Delete Google Photos
 * [Google Takeout](https://takeout.google.com/) - Export from Google Photos / [Script](https://github.com/TheLastGimbus/GooglePhotosTakeoutHelper)
 
 ***

@@ -69,6 +69,7 @@
 * [ScreamAPI](https://github.com/acidicoala/ScreamAPI) - Epic DLC Unlocker
 * [GetDataFromSteam-SteamDB](https://github.com/Sak32009/GetDataFromSteam-SteamDB) - Find SteamDB DLC Data / Create Configs
 * [SKSAppManifestGenerator](https://github.com/Sak32009/SKSAppManifestGenerator) - Create AppManifest Data
+* [Superheater](https://superheater.fgsfds.link/) - Fix / Patch Steam Games / [Discord](https://discord.gg/mWvKyxR4et)
 * [Depressurizer](https://github.com/Depressurizer/Depressurizer) - Steam Library Organizer
 * [Steam Art Manager](https://github.com/Tormak9970/Steam-Art-Manager) - Find / Manage Game Art
 * [Steam API Check Bypass](https://github.com/oureveryday/Steam-API-Check-Bypass) - Steam API Check Bypass
@@ -269,6 +270,7 @@
 * [Hidden Fallout 4 Mods](https://rentry.co/89gads), [2](https://docs.google.com/document/d/1Im5Mg-l2btRsYVOjaJa0slrjDcXNvi41J5pHw_Zuwqw/edit?usp=sharing) - Fallout 4 Mods Removed from Nexus
 * [UGX Mods](https://www.ugx-mods.com/) - COD Zombies Mods / [Discord](https://discord.gg/g9S2nSp)
 * [RimWorldBase](https://www.rimworldbase.com/) - RimWorld Mods
+* [NFL2KMod](https://www.nfl2kmod.com/ ) - NFL Game Mods
 * [StellarisMods](http://stellarismods.net/) - Stellaris Mods
 * [SMods](https://smods.ru/) - Cities: Skylines Mods
 * [MDMC](https://mdmc.moe/) - Muse Dash Mods / [Discord](https://discord.com/invite/mdmc)
@@ -338,7 +340,7 @@
 * 🌐 **[Awesome Engineering Games](https://github.com/arcataroger/awesome-engineering-games)** - Engineering Games
 * ⭐ **[Glitchwave](https://glitchwave.com/)**, [Grouvee](https://www.grouvee.com/), [InfiniteBacklog](https://infinitebacklog.net/) or [Backloggd](https://www.backloggd.com/) - Game Trackers
 * ⭐ **[IGDB](https://www.igdb.com/)** or **[GiantBomb](https://www.giantbomb.com/games/)** - Game Database
-* ⭐ **[TasteDive](https://tastedive.com/games )**, [50GamesLike](https://www.50gameslike.com/) or [/r/ifyoulikeblank](https://www.reddit.com/r/ifyoulikeblank/) - Game Recommendations
+* ⭐ **[TasteDive](https://tastedive.com/games )**, [50GamesLike](https://www.50gameslike.com/), [Mythic Maps](https://mythicmap.com/) / [Discord](https://discord.gg/xw6cgmjDzB) or [/r/ifyoulikeblank](https://www.reddit.com/r/ifyoulikeblank/) - Game Recommendations
 * [Rec Charts](https://mega.nz/folder/kj5hWI6J#0cyw0-ZdvZKOJW3fPI6RfQ) - Game Recommendation Guides
 * [Incendar](https://incendar.com/) - Game Release Date Tracker
 * [OpenCritic](https://opencritic.com/) - Critic Game Reviews / Ratings
@@ -410,7 +412,7 @@
 * ⭐ **[WiiUBrew](https://wiiubrew.org/wiki/Main_Page)** - WiiU Homebrew Wiki
 * ⭐ **[Wii U Hacks Guide](https://wiiu.hacks.guide/)** - Wii U Jailbreak Guide
 * ⭐ **[Wii Hacks Guide](https://wii.hacks.guide/)** - Wii Jailbreak Guides
-* ⭐ **[Wiimmfi](https://wiimmfi.de/)** - Wii Multiplayer Servers
+* ⭐ **[Wiimmfi](https://wiimmfi.de/)** or [WiiLink](https://wfc.wiilink24.com/) - Wii Multiplayer Servers
 * [Pretendo](https://pretendo.network/) - Wii U Network Replacement / [Discord](https://invite.gg/pretendo)
 * [/r/WiiUHacks](https://www.reddit.com/r/WiiUHacks/) - Wii U Homebrew Subreddit
 * [/r/WiiHacks](https://www.reddit.com/r/WiiHacks/) - Wii Homebrew Subreddit
@@ -458,6 +460,7 @@
 * [PSP Archive](https://psp-archive.github.io/) - PSP Homebrew Archive / [Discord](https://discord.gg/VZcjFvy3mT)
 * [VitaDB](https://vitadb.rinnegatamante.it/) - PS Vita Homebrews
 * [Vita Volume](https://gitlab.com/sinful-butterfly/vita-volume) - Set PS Vita Volume without Buttons
+* [PSPunk](https://www.pspunk.com/) - PSP Homebrew Info
 
 ***
 
@@ -515,6 +518,7 @@
 * 🌐 **[Minecraft QOL Mods](https://rentry.co/mc-qol)** or [sk1er.club](https://sk1er.club/) - Quality of Life Mods
 * 🌐 **[OptiFine Alternatives](https://optifine.alternatives.lambdaurora.dev/)** - OptiFine Alternatives for Fabric
 * 🌐 **[ChunkBase](https://www.chunkbase.com/apps/)** - Minecraft Map Tools
+* 🌐 **[TMC Links](https://gist.github.com/JoakimThorsen/e90bd7a588af25ae529530987d9acc8a)** - Technical Minecraft Resources
 * ↪️ **[Minecraft Servers / Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_minecraft_servers)**
 * ↪️ **[Minecraft Launchers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_minecraft_launchers)** - [Beta](https://betacraft.uk/) / [Bedrock](https://bedrocklauncher.github.io/)
 * ↪️ **[Minecraft Mods](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_minecraft_mods)**
@@ -572,7 +576,7 @@
 * [MineAtlas](http://mineatlas.com/), [Cubiomes Viewer](https://github.com/cubitect/cubiomes-viewer) or [MCSeeder](https://mcseeder.com/) - Minecraft Seeds
 * [MinecraftMaps](https://www.minecraftmaps.com/) or [Mapcraft](https://mapcraft.me/) - Minecraft Maps
 * [Minecraft Earth Map](https://earth.motfe.net/) - Earth Maps
-* [MapartCraft](https://rebane2001.com/mapartcraft/) - Mapart schematic / map.dat Generator / [GitHub](https://github.com/rebane2001/mapartcraft)
+* [MapartCraft](https://rebane2001.com/mapartcraft/) or [Cartographer](https://cartographer-mc.com/)  - Mapart schematic / map.dat Generator
 * [Chunker](https://chunker.app/) - Minecraft Format Converter (can corrupt worlds)
 * [ObjtoSchematic](https://objtoschematic.com/) - Converts Minecraft Obj files to Schematics / [Discord](https://discord.com/invite/McS2VrBZPD)
 * [NBT Studio](https://github.com/tryashtar/nbt-studio/ ) or [webNBT](https://irath96.github.io/webNBT/) - Minecraft NBT File Editors
@@ -712,13 +716,14 @@
 * 🌐 **[Roblox Archive](https://archive.roblonium.com/)** - Roblox Client Archive
 * ⭐ **[Roblox Account Manager](https://github.com/ic3w0lf22/Roblox-Account-Manager)** - Roblox Account Manager
 * ⭐ **[Rolimon's](https://www.rolimons.com/games)** or [RoMonitor Stats](https://romonitorstats.com/) - Roblox Experience Stats
-* [Bloxstrap](https://github.com/pizzaboxer/bloxstrap) - Roblox Player Bootstrapper / [Dev Note](https://github.com/pizzaboxer/bloxstrap/wiki/Addressing-usability-problems-with-Bloxstrap-v2.5.4)
+* ⭐ **[Bloxstrap](https://github.com/pizzaboxer/bloxstrap)** - Roblox Player Bootstrapper
 * [RBXFPSUnlocker](https://github.com/axstin/rbxfpsunlocker) - Unlock Roblox FPS Cap
 * [Novetus](https://bitl.itch.io/novetus) - Self-Hosted Multi-version Roblox Client
 * [Roblox Studio Mod Manager](https://github.com/MaximumADHD/Roblox-Studio-Mod-Manager) - Roblox Studio Bootstrapper
 * [RoPro](https://ropro.io/), [Roblox+](https://chromewebstore.google.com/detail/roblox%20/jfbnmfgkohlfclfnplnlenbalpppohkm), [BTRoblox](https://twitter.com/AntiBoomz/status/1378597179556823040), [RoGold](https://rogold.live/) or [RoSeal](https://www.roseal.live/) - Enhance Roblox Website
-* [RBXServers](https://rbxservers.xyz/) - Roblox VIP Servers
+* [RBXServers](https://rbxservers.xyz/) or [Freevipservers](https://freevipservers.net/) - Roblox VIP Servers
 * [Roblox Web APIs](https://github.com/matthewdean/roblox-web-apis) - Roblox APIs
+* [ingame.clothing](https://ingame.clothing/) - Preview Avatar Clothing
 
 ***
 
