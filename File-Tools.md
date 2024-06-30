@@ -279,7 +279,6 @@
 * ⭐ **[Send.cm](https://send.cm/)** - 100GB / 15 Days
 * ⭐ **[Pillowcase](https://pillowcase.su/)** - Audio File Host / 200MB (500MB With Account) / Forever
 * ⭐ **[Catbox](https://catbox.moe/)** - 200MB / Forever
-* ⭐ **[Qiwi](https://qiwi.gg)** - Account Required / [Note](https://pastebin.com/QJDbgtRJ)
 * ⭐ **[HIDAN](https://hidan.sh/)** - Unlimited / 10+ Days (from upload)
 * ⭐ **[Pixeldrain](https://pixeldrain.com/)** - 20GB / 120 Days / [Discord](https://discord.gg/TWKGvYAFvX)
 * ⭐ **Pixeldrain Tools** - [Speedtest](https://pixeldrain.com/speedtest) / [Limit Bypass](https://pixeldrain-bypass.cybar.xyz) / [Limit Bypass Userscript](https://greasyfork.org/en/scripts/491326-pixeldrain-download-bypass)
@@ -289,9 +288,10 @@
 * [Filebin](https://filebin.net/) - Unlimited / 6 Days / [Warning](https://pastebin.com/W0j4VDAN)
 * [file.kiwi](https://file.kiwi/) - Unlimited / [File Expiry Explanation](https://file.kiwi/en/price)
 * [FEX.NET](https://fex.net/) - 100GB / 7 Days
-* [Cipher Files](https://cipherfiles.com/) - 5GB / Forever / [Not Encrypted](https://i.ibb.co/0nR7dBG/image.png) / [Discord](https://discord.gg/DmRhftYcvN)
 * [SwissTransfer](https://www.swisstransfer.com/) - 50GB / 30 Days / 250 Downloads
 * [BowFile](https://bowfile.com/) - 20GB / 20 Days
+* [Qiwi](https://qiwi.gg) - Account Required / [Warning](https://pastebin.com/M9y7XztB)
+* [Cipher Files](https://cipherfiles.com/) - 5GB / Forever / [Not Encrypted](https://i.ibb.co/0nR7dBG/image.png) / [Discord](https://discord.gg/DmRhftYcvN)
 * [Hexupload](https://www.hexupload.net/) or [AnonTransfer](https://anontransfer.com/) - 15GB / 30 Days
 * [FileLu](https://filelu.com/) - 15GB / 1 Day (Unlimited With Account) / [Note](https://pastebin.com/Rr9ZqD2F)
 * [Fastupload.io](https://fastupload.io/en) - 10GB / 30 Days (60 Days With Account)
