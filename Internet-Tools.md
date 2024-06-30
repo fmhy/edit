@@ -424,7 +424,7 @@
 
 ## ▷ Temporary Email Sites
 
-* **Note** - If you're looking for something more private and convenient, check out our [Email Aliasing]() section. For details about tags, refer to [this resource](https://pastes.fmhy.net/CEtAPp).
+* **Note** - If you're looking for something more private and convenient, check out our [Email Aliasing]() section. For details about tags, refer to [this resource](https://rentry.org/9i2uu6dx).
 
 ***
 
@@ -439,8 +439,10 @@
 * ⭐ **[temp-mail.io](https://temp-mail.io/)** - 1 Day / 1 Day / 12 Domains
 * ⭐ **[burner.kiwi](https://burner.kiwi/)** - 1 Day / 1 Day / 3 Domains
 * [Bloody Vikings!](https://addons.mozilla.org/en-US/firefox/addon/bloody-vikings/) - Temp Email Extension
+* [TrashMail](https://trashmail.com/) - Email Forwarding Service
 * [Tmail.io](https://tmail.io/) - Gmail / Forever / 1 Day / 4 Domains
 * [22.Do](https://22.do/) - Gmail / 1 Day / 1 Day / 3 Domains
+* [Ago Gmail](https://www.agogmail.com/) - Gmail / 2 Domains
 ---
 * [Dispostable](https://www.dispostable.com/) - Forever / 2 Months / 1 Domain
 * [YOPmail](https://yopmail.com/email-generator) - Forever / 8 Days / 100+ Domains
@@ -448,23 +450,25 @@
 * [instant-email.org](https://instant-email.org/) - Forever / 3 Days / 7 Domains
 * [Snapmail.cc](https://www.snapmail.cc/) - Forever / 2 Days / 3 Domains
 * [Mailnesia](https://mailnesia.com/) - Forever / 2 Days / 1 Domain
-* [Spambox](https://spambox.xyz/) - Forever / 1 Day / 4 Domains
-* [temporary-email.com](https://temporary-email.com/) - Forever / 1 Day / 1 Domain
-* [Maildrop](https://maildrop.cc/) or [Trashmail](https://trashmail.ws/) - Forever / 1 Day / 1 Domain
+* [Spambox](https://spambox.xyz/) or [Trashinbox](https://trashinbox.net/) - Forever / 1 Day / 4 Domains
+* [Maildrop](https://maildrop.cc/),[Trashmail](https://trashmail.ws/) or [temporary-email.com](https://temporary-email.com/) - Forever / 1 Day / 1 Domain
+* [cs.email](https://cs.email/) - Forever / 1 Hour / 12 Domains
 * [Temp Mail ID](https://tempmailid.com/) - Forever / 30 Mins / 2 Domains
 * [Email Generator](https://generator.email/), [Fake Email](https://email-fake.com/) or [TempM](https://tempm.com/) - Forever / N/A / 50+ Domains
 ---
+* [EduMail](https://edumail.icu/) - 1 Month / 1 Month / 10 Domains
 * [DisposableMail](https://www.disposablemail.com/) or [FakeMail](https://www.fakemail.net/) - 14 Days / 14 Days / 1 Domain
 * [FEX+](https://fex.plus/) - 7 Days / 7 Days / 5 Domains
 * [Adguard Temp Mail](https://adguard.com/adguard-temp-mail/overview.html) - 7 Days / 1 Day / 1 Domain
-----
+* [48hr.email](https://48hr.email/) - 2 Days / 2 Days / 7 Domains
 * [Tempmailo](https://tempmailo.com/) - 2 Days / 2 Days / N/A
 * [Vmail.DEV](https://vmail.dev/) - 1 Day / 1 Day / 2 Domains
 * [Mail.cx](https://mail.cx/) - 1 Day / 12 Hours / 5 Domains
 ---
 * [TemporaryMail.com](https://temporarymail.com/) - 6 Hours / 6 Hours / 7 Domains
 * [Moakt](https://www.moakt.com/) - 1 Hour / 1 Hour / 13 Domains
-* [MintEmail.com](https://www.mintemail.com/) or [tempail.com](https://tempail.com/) - 1 Hour / 1 Hour / 1 Domain
+* [MintEmail.com](https://www.mintemail.com/), [tempail.com](https://tempail.com/) or [tempmail.zone](https://tempmail.zone/) - 1 Hour / 1 Hour / 1 Domain
+* [tempmaili.com](https://tempmaili.com/) - N/A / 1 Hour / 1 Domain
 * [Mohmal](https://www.mohmal.com/en) - 45 Mins / 45 Mins / 1 Domain
 * [lite14.us](https://www.lite14.us/10minutemail/), [linshi-email.com](https://www.linshi-email.com/), [MinuteInbox](https://minuteinbox.com/), [10minemail.com](https://10minemail.com/), [10minutesemail.net](https://10minutesemail.net/), [10minutemail.net](https://10minutemail.net/) or [10minutemail.com](https://10minutemail.com/) - 10 Minute Lifespan Emails
 ---
@@ -472,7 +476,7 @@
 * [1secMail](https://www.1secmail.com/) - 8 Domains
 * [AnonymMail.net](https://anonymmail.net/), [Tmail.gg](https://tmail.gg/) or [Mail.td](https://mail.td/) - 5 Domains
 * [tempmail.email](https://tempmail.email/) - 3 Domains
-* [EmailOnDeck](https://www.emailondeck.com/) or [EmailTemp](https://emailtemp.org/) - 1 Domain
+* [EmailOnDeck](https://www.emailondeck.com/), [EmailTemp](https://emailtemp.org/), [Haribu](https://haribu.net/) or [Maildax](https://maildax.com/) - 1 Domain
 * [tMail](https://tmailweb.com/) / [App](https://play.google.com/store/apps/details?id=com.clagt.tmail)
 * [Rainmail](https://rainmail.xyz/)
 * [Tmailor.com](https://tmailor.com/)
