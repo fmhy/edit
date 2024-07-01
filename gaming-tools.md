@@ -41,7 +41,7 @@
 * [GARbro](https://github.com/morkt/GARbro/) - Browse / Extract Visual Novel Resources
 * [ConceptArt](https://vk.com/conceptart) - Video Game Concept Art
 * [FatmanTutorial](https://archive.org/details/fatmantutorial) - How-to Repack Games
-* [How Denuvo Works](https://rentry.co/denuvo) or [Reverse Engineer Denuvo V4](https://drive.google.com/file/d/1CupcQMOyxbtNUGGSnq8xhIZIxhDzToFT/)
+* [How Denuvo Works](https://rentry.co/denuvo)
 
 ***
 
