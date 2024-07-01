@@ -265,26 +265,9 @@
 
 ***
 
-## Domain Info Tools
-
-* [DNSTwist](https://dnstwist.it/) or [DNSTwister](https://dnstwister.report/) / [Github](https://github.com/elceef/dnstwist)
-
-[WhoisRequest](https://whoisrequest.com/), [Rankchart](https://rankchart.org/), [Harpoon](https://hakin9.org/harpoon-osint-cli-tool/), [MXToolBox](https://mxtoolbox.com/DNSLookup.aspx), [Whois Lookup](https://whois.domaintools.com/), [IPIP.NET](https://whois.ipip.net/), [WebStatsDomain](https://webstatsdomain.org/), [AtSameIP](https://atsameip.intercode.ca/), [DNSlytics](https://dnslytics.com/), [AnalyzeID](https://analyzeid.com/), [LinkScope](https://accentusoft.com/)
-
-***
-
 ## DOS Games
 
 [DOS Games Archive](https://www.dosgamesarchive.com/), [DOSBox](https://www.dosbox.com/), [DOS HAVEN](https://www.doshaven.eu/), [The Software Library](https://archive.org/details/softwarelibrary_msdos), [Best Old Games](https://www.bestoldgames.net/), [DOSGames](https://dosgames.com/), [PlayDOSGames](https://www.playdosgames.com/), [RGB Classic Games](https://www.classicdosgames.com/), [Abandonware DOS](https://www.abandonwaredos.com/), [Online DOS games](https://dos.zczc.cz/), [Classic Games](https://classicdosgames.com/)
-
-***
-
-## Down Site Checkers
-
-* ⭐ **[Down for Everyone or Just Me](https://downforeveryoneorjustme.com/)**
-* ⭐ **[Is It Down Right Now](https://www.isitdownrightnow.com/)**
-
-[Is The Service Down?](https://istheservicedown.com/), [Down.com](https://down.com/), [Downdetector](https://downdetector.com/), [websitedown](http://www.websitedown.info/), [UpDown Radar](https://updownradar.com/), [lychee](https://lychee.cli.rs/#/), [Dead Link Checker](https://www.deadlinkchecker.com/), [Online Broken Link Checker](https://brokenlinkcheck.com/broken-links.php), [Dr. Link Check](https://www.drlinkcheck.com/), [HTTPStatus](https://httpstatus.io/), [UpDownToday](https://updowntoday.com/)
 
 ***
 
@@ -1139,15 +1122,6 @@
 * [udemyforu](https://t.me/udemyforu)
 * [CGPERS](https://t.me/CGPERS)
 * [Udemy_Courses_Free_Daily](https://t.me/Udemy_Courses_Free_Daily)
-
-***
-
-## URL Unshorteners
-
-* ⭐ **[urlex](https://urlex.org/)**
-* ⭐ **[CheckShortURL](https://checkshorturl.com/)**
-
-[ExpandURL](https://www.expandurl.net/), [Unshorten.it](https://unshorten.it/), [WhereGoes](https://wheregoes.com/), [urlxray](http://urlxray.com/), [unshorten](https://unshorten.me/), [linkunshorten](https://linkunshorten.com/)
 
 ***
 
