@@ -425,7 +425,7 @@
 
 ***
 
-## ▷ Temporary Email Sites
+## ▷ Temp Mail
 
 * **Note** - If you're looking for something more private and convenient, check out our [Email Aliasing]() section. For details about tags, refer to [this resource](https://rentry.org/9i2uu6dx).
 
@@ -483,7 +483,7 @@
 
 ***
 
-## ▷ Send Anonymous Emails
+## ▷ Anonymous Emails
 
 * [5yMail](https://www.5ymail.com/)
 * [anonymousemail.me](https://anonymousemail.me/)
