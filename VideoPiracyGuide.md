@@ -554,6 +554,7 @@
 * [TwitchDL](https://dl2.twitchdl.us/) - Movies / TV / Anime / 1080p
 * [SD Toons](https://sdtoons.in) - Movies / TV / Anime / 1080p
 * [PrivateMovieZ](https://privatemoviez.xyz/) - Movies / TV / 1080p
+* [HDencode](https://hdencode.org) - Movies / TV / 4K / 1080p / Remuxes / Variety of releases / Only rapidgator and nitroflare
 * [FilmGo](https://www.filmgo.live/) - Movies / TV / 720p
 * [FZMovies](https://fzmovies.host/), [2](https://fzmovies.net/) - Movies / 720p
 * [YourSerie](https://www.yourserie.com/) - Movies / TV / 720p
