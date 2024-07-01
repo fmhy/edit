@@ -422,7 +422,7 @@
 * [IVPN](https://www.ivpn.net/) - [No Logging](https://www.ivpn.net/knowledgebase/privacy/how-do-we-react-when-requested-by-an-authority-for-information-relating-to-a-customer/) / [Port Warning](https://www.ivpn.net/blog/gradual-removal-of-port-forwarding/)
 * [OVPN](https://www.ovpn.com/) - [No Logging](https://www.ovpn.com/en/blog/ovpn-wins-court-order)
 * [VPN Gate](https://www.vpngate.net/en/download.aspx) - Free VPN / [Note](https://pastebin.com/TrSw7EpF)
-* [PrivadoVPN](https://privadovpn.com/) - Free VPN / Unlimited Accounts via [Temp Mail](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_temp_email_sites)
+* [PrivadoVPN](https://privadovpn.com/) - Free VPN / Unlimited Accounts via [Temp Mail](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools#wiki_.25B7_temp_mail)
 * [Leap VPN](https://leap.se/) - Free VPNs
 * [VPNBook](https://www.vpnbook.com/) - Free VPN Accounts
 
