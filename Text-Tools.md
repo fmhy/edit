@@ -73,7 +73,7 @@
 * ⭐ **[DeepLX](https://github.com/OwO-Network/DeepLX)** or [DeepL](https://www.deepl.com/translator)
 * ⭐ **[Google Translate](https://translate.google.com/)**
 * ⭐ **[/r/Translator](https://www.reddit.com/r/translator/)** - Translation Request Community
-* [Translate Web Pages](https://github.com/FilipePS/Traduzir-paginas-web), [OpenAI Translator](https://github.com/yetone/openai-translator), [Simple Translate](https://simple-translate.sienori.com/), [Saladict](https://saladict.crimx.com/), [Linguist Translator](https://github.com/translate-tools/linguist), [S3Translator](https://www.s3blog.org/s3translator.html), [Firefox Translations](https://addons.mozilla.org/en-US/firefox/addon/firefox-translations/), [ImmersiveTranslate](https://immersivetranslate.com/en/), [Mate Translate](https://gikken.co/mate-translate) or [ImTranslator](https://imtranslator.net/) - Translation Extensions
+* ⭐ **[Translate Web Pages](https://github.com/FilipePS/Traduzir-paginas-web)** - Browser Extension
 * [Crow Translate](https://crow-translate.github.io/) or [Argos](https://github.com/argosopentech/argos-translate) - Translation Apps
 * [Translate Shell](https://www.soimort.org/translate-shell/) - Translation CLI / [github](https://github.com/soimort/translate-shell)
 * [OnlineDocTranslator](https://www.onlinedoctranslator.com/en/) - Document Translator
@@ -85,6 +85,15 @@
 * [OmegaT](https://omegat.org/) - Translation Memory Tool
 * [Morsecode World](https://morsecode.world/) or [MorseDecoder](https://morsedecoder.com/) - Morse Code / Binary Translators
 * [Emojify](https://madelinemiller.dev/apps/emojify/) - Emojify Text
+* [OpenAI Translator](https://github.com/yetone/openai-translator) - Browser Extension
+* [Simple Translate](https://simple-translate.sienori.com/) - Browser Extension
+* [Saladict](https://saladict.crimx.com/) - Browser Extension
+* [Linguist Translator](https://github.com/translate-tools/linguist) - Browser Extension
+* [S3Translator](https://www.s3blog.org/s3translator.html) - Browser Extension
+* [Firefox Translations](https://addons.mozilla.org/en-US/firefox/addon/firefox-translations/) - Browser Extension
+* [ImmersiveTranslate](https://immersivetranslate.com/en/) - Browser Extension
+* [Mate Translate](https://gikken.co/mate-translate) - Browser Extension
+* [ImTranslator](https://imtranslator.net/) - Browser Extension
 * [Papago](https://papago.naver.com/)
 * [Libretranslate](https://libretranslate.com/) / [2](https://github.com/LibreTranslate/LibreTranslate)
 * [Translate.com](https://www.translate.com/)
