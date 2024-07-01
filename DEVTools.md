@@ -828,7 +828,7 @@
 * [How DNS Works](https://howdns.works/) - Learn DNS
 * [How DNSSEC Works](https://howdnssec.works/) - Learn DNSSEC
 * [sha256_project](https://github.com/oconnor663/sha256_project) or [cryptohack](https://cryptohack.org/) - Cryptography Learning
-* [How HTTPS Works](https://howhttps.works/) - Learn HTTPS****
+* [How HTTPS Works](https://howhttps.works/) - Learn HTTPS
 
 ***
 
@@ -1390,7 +1390,7 @@
 
 ***
 
-# ► Cybersecurity
+# ► Cybersecurity Tools
 
 * ⭐ **[pyWhat](https://github.com/bee-san/pyWhat)** - File Analyzer
 * [Open Source Security Software](https://open-source-security-software.net/) - Cybersecurity Software
