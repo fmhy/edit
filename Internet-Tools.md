@@ -315,7 +315,6 @@
 * ⭐ **[Flagfox](https://flagfox.wordpress.com/)** - Displays Country's Flag on Sites / [Adds Many URL Tools](https://i.ibb.co/N7Mq56Q/889730aa3863.png)
 * ⭐ **[HTTPStatus](https://httpstatus.io/)** - Check URL Status Codes / Redirect Chains
 * ⭐ **[lychee](https://lychee.cli.rs/)** - URL Scanner / [GitHub](https://github.com/lycheeverse/lychee/)
-* [Emojied](https://emojied.net/), [vi8hl0c](https://xn--vi8hl0c.ws/) or [kn8h](https://xn--kn8h.to/)
 * [cuttly](https://cutt.ly/) - Multiple URL Tools
 * [ChangeDetection.io](https://github.com/dgtlmoon/changedetection.io), [urlwatch](https://thp.io/2008/urlwatch/), [Visualping](https://visualping.io/), [changd](https://github.com/paschmann/changd) or [FollowThatPage](https://www.followthatpage.com/) - Page Change Detection / Notification
 * [W.A.R. Links Checker Premium](https://greasyfork.org/en/scripts/2024) - Checks If File Links are Alive or Not
@@ -325,19 +324,16 @@
 * [SpyOffers](https://www.spyoffers.com/) - Affiliate Link Checker
 * [Link-Lock](https://rekulous.github.io/link-lock/) - Encrypt & Decrypt Links with Passwords
 * [dcrypt.it](https://dcrypt.it/) - Decrypt Link Containers
-* [Linkify Plus Plus](https://greasyfork.org/scripts/4255) - [Core](https://github.com/eight04/linkify-plus-plus-core) / Turn Plain txt URLs into Links
+* [Linkify Plus Plus](https://greasyfork.org/scripts/4255) / [Core](https://github.com/eight04/linkify-plus-plus-core) - Turn Plain Text URLs Into Links
 * [Temporary-Url](https://www.temporary-url.com/) - Temporary URLs / QR Codes
 * [scrt.link](https://scrt.link/) - Single Use Links
 * [AmputatorBot](https://www.amputatorbot.com/) - Remove AMP from URLs
 * [HoverCode](https://hovercode.com/), [QR Code Generator](https://www.qr-code-generator.com/), [QRCode Monkey](https://www.qrcode-monkey.com/), [2qr](https://2qr.info/) or [link-to-qr](https://link-to-qr.com/) - QR Code Generator For URLs / Text
 * [AnyImage](https://anyimage.io/) - Create Social Card Links
 * [urlportal](https://raw.githubusercontent.com/gotbletu/shownotes/master/urlportal.sh) - Custom URL Handler
-* [Web Check](https://web-check.xyz/), [NSLookup](https://www.nslookup.io/) or [dog](https://github.com/ogham/dog) - DNS Information Tool
-* [DuckDNS](https://www.duckdns.org/), [FreeDNS](https://freedns.afraid.org/), [dynu](https://dynu.com/), [NoIP](https://www.noip.com/) or [Desec](https://desec.io/) - Dynamic DNS Service
 * [Site Worth Traffic](https://www.siteworthtraffic.com/) - Calculate Website Worth
 * [XML-Sitemaps](https://www.xml-sitemaps.com/) - Sitemap Creator
 * [CarbonDates](https://carbondate.cs.odu.edu/) - Check Site Creation Date
-* [SubDomainizer](https://github.com/nsonaniya2010/SubDomainizer), [Search Console](https://search.google.com/search-console/), [SubdomainFinder](https://subdomainfinder.c99.nl/) - Find Hidden Subdomains
 * [pyfuzz](https://github.com/AyoobAli/pyfuzz) - URL Fuzzing Tool
 * [Backlink Tool](https://backlinktool.io/) or [Index Kings](http://www.indexkings.com/) - URL Indexer
 * [Blocked](https://www.blocked.org.uk/) - UK ISP Site Blocking Test
@@ -382,6 +378,7 @@
 * [Anonymiz](https://anonymiz.com/shorten-url) - Anonymous URLs / `anonymiz.com/vwiq`
 * [Anon.to](https://anon.to/) - Anonymous URLs / `anon.to/7SWqpG`
 * [Thinfi](https://thinfi.com/) - Password protect a short URL / `thinfi.com/q8aw`
+* [Emojied](https://emojied.net/), [vi8hl0c](https://xn--vi8hl0c.ws/) or [kn8h](https://xn--kn8h.to/) - Emoji URL Shorteners
 * [ShortShare](https://shortshare.app/) - Short Link App
 * [BR3F](https://www.br3f.com/) - Single-Click Short Links
 * [ShortUrLinksbot](https://t.me/ShortUrLinksbot) or [ShortUrlBot](https://t.me/ShortUrlBot) - Telegram Link Shortener Bot
@@ -436,6 +433,8 @@
 * [DNSlytics](https://dnslytics.com/)
 * [AnalyzeID](https://analyzeid.com/)
 * [LinkScope](https://accentusoft.com/)
+
+* [SubDomainizer](https://github.com/nsonaniya2010/SubDomainizer), [Search Console](https://search.google.com/search-console/), [SubdomainFinder](https://subdomainfinder.c99.nl/) - Find Hidden Subdomains
 
 ***
 
@@ -505,7 +504,7 @@
 * [Snapmail.cc](https://www.snapmail.cc/) - Forever / 2 Days / 3 Domains
 * [Mailnesia](https://mailnesia.com/) - Forever / 2 Days / 1 Domain
 * [Spambox](https://spambox.xyz/) or [Trashinbox](https://trashinbox.net/) - Forever / 1 Day / 4 Domains
-* [Maildrop](https://maildrop.cc/),[Trashmail](https://trashmail.ws/) or [temporary-email.com](https://temporary-email.com/) - Forever / 1 Day / 1 Domain
+* [Maildrop](https://maildrop.cc/), [Trashmail](https://trashmail.ws/) or [temporary-email.com](https://temporary-email.com/) - Forever / 1 Day / 1 Domain
 * [cs.email](https://cs.email/) - Forever / 1 Hour / 12 Domains
 * [Temp Mail ID](https://tempmailid.com/) - Forever / 30 Mins / 2 Domains
 * [Email Generator](https://generator.email/), [Fake Email](https://email-fake.com/) or [TempM](https://tempm.com/) - Forever / N/A / 50+ Domains
