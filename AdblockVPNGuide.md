@@ -313,24 +313,15 @@
 
 ## ▷ Email Privacy
 
-* ↪️ **[Temp Mail Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_temp_email_sites)** - Create Temporary Throwaway Emails
-* ⭐ **[Have I been Pwned?](https://haveibeenpwned.com/)** - Monitor Email Breaches
+* ↪️ **[Temp Email Sites]()** - Create Temporary / Throwaway Emails
+* ↪️ **[Email Aliasing]()** - Create Permanent Anonymous Emails
+* ⭐ **[Have I Been Pwned?](https://haveibeenpwned.com/)** - Monitor Email Breaches
 * ⭐ **[Proton Mail](https://proton.me/mail)** - Encrypted Email
-* ⭐ **[SimpleLogin](https://simplelogin.io/)** - Email Aliasing / [GitHub](https://github.com/simple-login/app)
-* ⭐ **[addy.io](https://addy.io/)** - Email Aliasing / [GitHub](https://github.com/anonaddy/anonaddy)
-* ⭐ **[DuckDuckGo Email Protection](https://duckduckgo.com/email/)** - Email Aliasing
 * [Tuta](https://tuta.com/) - Encrypted Email
 * [Disroot](https://disroot.org/en/services/email) - Encrypted Email
 * [EmailPrivacyTester](https://www.emailprivacytester.com/) - Email Privacy Test
 * [SecLists](https://seclists.org/) - Security Mailing List Archive
 * [Phish.ly](https://phish.ly/) - Scan Suspicious Emails
-* [Mailvelope](https://mailvelope.com/) - Email Aliasing Extension
-* [scr.im](http://scr.im/) - Email Aliasing
-* [altmails](https://altmails.com/) - Email Aliasing
-* [Mailgw](https://mailgw.com/) - Email Aliasing
-* [erine.email](https://erine.email/) - Email Aliasing
-* [33mail](https://33mail.com/) - Email Aliasing
-* [forwardemail](https://github.com/forwardemail/forwardemail.net) - Email Aliasing
 * [Have I Been Sold?](https://haveibeensold.app/) - Monitor Third Party Email Sales
 
 ***

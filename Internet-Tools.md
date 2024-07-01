@@ -357,29 +357,6 @@
 
 ***
 
-## ▷ Email Tools
-
-* 🌐 **[Email Providers](https://en.wikipedia.org/wiki/Comparison_of_webmail_providers)** - Provider Comparisons
-* ↪️ **[Email Privacy](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25B7_email_privacy)**
-* ↪️ **[Email Clients](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_email_clients)**
-* ↪️ **[Temp Emails](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_temp_email_sites)**
-* ↪️ **[Anon Emails](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_send_anonymous_emails)**
-* ⭐ **[InboxReads](https://inboxreads.co/)** or [Readsom](https://readsom.com/) - Email Newsletter Archive
-* [Outlook](https://www.microsoft.com/en-us/microsoft-365/outlook/email-and-calendar-software-microsoft-outlook) or [cock.li](https://cock.li/) - Number-Free Email Services
-* [Delta Chat](https://delta.chat/en/) - Email Based Messenger
-* [Postsack](https://github.com/terhechte/postsack) - Email Visualizer
-* [Boomerang](https://www.boomeranggmail.com/), [NudgeMail](https://nudgemail.com/) or [FollowupThen](https://www.followupthen.com/) - Scheduled Email Sending & Reminders
-* [Email Tracker](https://snov.io/email-tracker), [GetNotify](https://www.getnotify.com/) or [Mailtrack](https://mailtrack.io/) - Email Engagement
-* [Epieos](https://epieos.com/) - Retrieve Info Linked to Email Address
-* [Holehe](https://github.com/megadose/holehe) - Find Accounts Connected to Emails
-* [Useplaintext](https://useplaintext.email/) - How-To Use Plaintext Email
-* [Docker Mailserver](https://docker-mailserver.github.io/docker-mailserver/edge/), [UnInbox](https://github.com/un/inbox) or [Mail-in a Box](https://mailinabox.email/) - Self-Hosted Email Servers
-* [Gmail Desktop](https://github.com/timche/gmail-desktop) - Gmail Desktop Client
-* [Got Your Back](https://github.com/GAM-team/got-your-back) - Backup Gmail Messages
-* [ExtractMailAddress](https://extractemailaddress.com/) - Extract Emails, URLs and Numbers from Text
-
-***
-
 ## ▷ RSS Tools
 
 * ⭐ **[All about RSS](https://github.com/AboutRSS/ALL-about-RSS)** / [Telegram](https://t.me/s/aboutrss), [RSSTango](https://rentry.org/rrstango), [To RSS](https://www.to-rss.xyz/), [Awesome RSS Feeds](https://github.com/plenaryapp/awesome-rss-feeds) or [RSS](https://gist.github.com/thefranke/63853a6f8c499dc97bc17838f6cedcc2) - RSS Feeds / Tools
@@ -407,6 +384,132 @@
 * [Spinner](https://spinner.fullcontentrss.com/) - RSS Article Rewriter
 * [RSS.app](https://rss.app/) - RSS Search
 * [Kill the Newsletter](https://kill-the-newsletter.com/) - Convert email newsletters into Atom Feeds
+
+***
+
+# ► Email Tools
+
+* 🌐 **[Email Providers](https://en.wikipedia.org/wiki/Comparison_of_webmail_providers)** - Provider Comparisons
+* ⭐ **[InboxReads](https://inboxreads.co/)** or [Readsom](https://readsom.com/) - Email Newsletter Archive
+* [Outlook](https://www.microsoft.com/en-us/microsoft-365/outlook/email-and-calendar-software-microsoft-outlook) or [cock.li](https://cock.li/) - Number-Free Email Services
+* [Delta Chat](https://delta.chat/en/) - Email Based Messenger
+* [Postsack](https://github.com/terhechte/postsack) - Email Visualizer
+* [Boomerang](https://www.boomeranggmail.com/), [NudgeMail](https://nudgemail.com/) or [FollowupThen](https://www.followupthen.com/) - Scheduled Email Sending & Reminders
+* [Email Tracker](https://snov.io/email-tracker), [GetNotify](https://www.getnotify.com/) or [Mailtrack](https://mailtrack.io/) - Email Engagement
+* [Epieos](https://epieos.com/) - Retrieve Info Linked to Email Address
+* [Holehe](https://github.com/megadose/holehe) - Find Accounts Connected to Emails
+* [Useplaintext](https://useplaintext.email/) - How-To Use Plaintext Email
+* [Docker Mailserver](https://docker-mailserver.github.io/docker-mailserver/edge/), [UnInbox](https://github.com/un/inbox) or [Mail-in a Box](https://mailinabox.email/) - Self-Hosted Email Servers
+* [Gmail Desktop](https://github.com/timche/gmail-desktop) - Gmail Desktop Client
+* [Got Your Back](https://github.com/GAM-team/got-your-back) - Backup Gmail Messages
+* [ExtractMailAddress](https://extractemailaddress.com/) - Extract Emails, URLs, and Numbers from Text
+* [BugMeNot](https://bugmenot.com/), [FreeAccount](https://freeaccount.biz/) or [Password Login](https://password-login.com/) - Access & Share Throwaway Accounts
+
+***
+
+## ▷ Email Clients
+
+* ⭐ **[Betterbird](https://www.betterbird.eu/)**
+* ⭐ **[Thunderbird](https://www.thunderbird.net/en-US/)** - [Tray Icon](https://github.com/Ximi1970/systray-x)
+* ⭐ **[Mailspring](https://getmailspring.com/)** - [Themes](https://github.com/topics/mailspring-theme)
+* [Outlook](https://outlook.live.com/owa/)
+* [ElectronMail](https://github.com/vladimiry/ElectronMail)
+* [eM Client](https://www.emclient.com/)
+* [RainLoop](https://www.rainloop.net/)
+* [Roundcube](https://roundcube.net/)
+* [Spike](https://www.spikenow.com/)
+* [Canary](https://canarymail.io/)
+* [Twobird](https://www.twobird.com/)
+* [Kanmail](https://kanmail.io/)
+* [Wino](https://www.winomail.app/)
+
+***
+
+## ▷ Temporary Email Sites
+
+* **Note** - If you're looking for something more private and convenient, check out our [Email Aliasing]() section. For details about tags, refer to [this resource](https://rentry.org/9i2uu6dx).
+
+***
+
+* ⭐ **[Smailpro](https://smailpro.com/)** - Gmail & Outlook / Forever / N/A / 20+ Domains
+* ⭐ **[Zemail](https://zemail.me/)** - Gmail / Forever / 1 Day / 7 Domains
+* ⭐ **[Gmailnator](https://www.emailnator.com/)** - Gmail / Forever / 1 Day / 6 Domains
+* ⭐ **[Tempr.email](https://tempr.email/en/)** - Forever / 1 Month / 50+ Domains
+* ⭐ **[Inboxes](https://inboxes.com/)** - Forever / 7 Days / 19 Domains
+* ⭐ **[Mail.tm](https://mail.tm/)** - Forever / 7 Days / 1 Domain
+* ⭐ **[temp-mail.org](https://temp-mail.org/)** - Forever / 2 Hours / N/A / [Telegram Bot](https://t.me/TempMail_org_bot)
+* ⭐ **[Guerrilla Mail](https://www.guerrillamail.com/)** - Forever / 1 Hour / 11 Domains / [SharkLasers](https://www.sharklasers.com/)
+* ⭐ **[temp-mail.io](https://temp-mail.io/)** - 1 Day / 1 Day / 12 Domains
+* ⭐ **[burner.kiwi](https://burner.kiwi/)** - 1 Day / 1 Day / 3 Domains
+* [Bloody Vikings!](https://addons.mozilla.org/en-US/firefox/addon/bloody-vikings/) - Temp Email Extension
+* [TrashMail](https://trashmail.com/) - Email Forwarding Service
+* [Tmail.io](https://tmail.io/) - Gmail / Forever / 1 Day / 4 Domains
+* [22.Do](https://22.do/) - Gmail / 1 Day / 1 Day / 3 Domains
+* [Ago Gmail](https://www.agogmail.com/) - Gmail / 2 Domains
+* [Dispostable](https://www.dispostable.com/) - Forever / 2 Months / 1 Domain
+* [YOPmail](https://yopmail.com/email-generator) - Forever / 8 Days / 100+ Domains
+* [TempMail.Plus](https://tempmail.plus/en/) - Forever / 7 Days / 9 Domains / [.onion](http://tempmail4gi5qfqzjs2bxo3wf6eurpelxmior6ohzq5vw7aeay67wiyd.onion/)
+* [instant-email.org](https://instant-email.org/) - Forever / 3 Days / 7 Domains
+* [Snapmail.cc](https://www.snapmail.cc/) - Forever / 2 Days / 3 Domains
+* [Mailnesia](https://mailnesia.com/) - Forever / 2 Days / 1 Domain
+* [Spambox](https://spambox.xyz/) or [Trashinbox](https://trashinbox.net/) - Forever / 1 Day / 4 Domains
+* [Maildrop](https://maildrop.cc/),[Trashmail](https://trashmail.ws/) or [temporary-email.com](https://temporary-email.com/) - Forever / 1 Day / 1 Domain
+* [cs.email](https://cs.email/) - Forever / 1 Hour / 12 Domains
+* [Temp Mail ID](https://tempmailid.com/) - Forever / 30 Mins / 2 Domains
+* [Email Generator](https://generator.email/), [Fake Email](https://email-fake.com/) or [TempM](https://tempm.com/) - Forever / N/A / 50+ Domains
+* [EduMail](https://edumail.icu/) - 1 Month / 1 Month / 10 Domains
+* [DisposableMail](https://www.disposablemail.com/) or [FakeMail](https://www.fakemail.net/) - 14 Days / 14 Days / 1 Domain
+* [FEX+](https://fex.plus/) - 7 Days / 7 Days / 5 Domains
+* [Adguard Temp Mail](https://adguard.com/adguard-temp-mail/overview.html) - 7 Days / 1 Day / 1 Domain
+* [48hr.email](https://48hr.email/) - 2 Days / 2 Days / 7 Domains
+* [Tempmailo](https://tempmailo.com/) - 2 Days / 2 Days / N/A
+* [Vmail.DEV](https://vmail.dev/) - 1 Day / 1 Day / 2 Domains
+* [Mail.cx](https://mail.cx/) - 1 Day / 12 Hours / 5 Domains
+* [TemporaryMail.com](https://temporarymail.com/) - 6 Hours / 6 Hours / 7 Domains
+* [Moakt](https://www.moakt.com/) - 1 Hour / 1 Hour / 13 Domains
+* [MintEmail.com](https://www.mintemail.com/), [tempail.com](https://tempail.com/) or [tempmail.zone](https://tempmail.zone/) - 1 Hour / 1 Hour / 1 Domain
+* [tempmaili.com](https://tempmaili.com/) - N/A / 1 Hour / 1 Domain
+* [Mohmal](https://www.mohmal.com/en) - 45 Mins / 45 Mins / 1 Domain
+* [lite14.us](https://www.lite14.us/10minutemail/), [linshi-email.com](https://www.linshi-email.com/), [MinuteInbox](https://minuteinbox.com/), [10minemail.com](https://10minemail.com/), [10minutesemail.net](https://10minutesemail.net/), [10minutemail.net](https://10minutemail.net/) or [10minutemail.com](https://10minutemail.com/) - 10 Minute Lifespan Emails
+* [mail-temp.com](https://mail-temp.com/) or [emailfake.com](https://emailfake.com/) - 50+ Domains
+* [1secMail](https://www.1secmail.com/) - 8 Domains
+* [AnonymMail.net](https://anonymmail.net/), [Tmail.gg](https://tmail.gg/) or [Mail.td](https://mail.td/) - 5 Domains
+* [tempmail.email](https://tempmail.email/) - 3 Domains
+* [EmailOnDeck](https://www.emailondeck.com/), [EmailTemp](https://emailtemp.org/), [Haribu](https://haribu.net/) or [Maildax](https://maildax.com/) - 1 Domain
+* [tMail](https://tmailweb.com/) / [App](https://play.google.com/store/apps/details?id=com.clagt.tmail)
+* [Rainmail](https://rainmail.xyz/)
+* [Tmailor.com](https://tmailor.com/)
+* [More Sites](https://rentry.org/i3ozxg6f) - List of sites that didn't make it
+
+***
+
+## ▷ Send Anonymous Emails
+
+* [5yMail](https://www.5ymail.com/)
+* [anonymousemail.me](https://anonymousemail.me/)
+* [Anonymouse](http://anonymouse.org/anonemail.html)
+* [Send Anonymous Email](http://www.sendanonymousemail.net/)
+* [Paranoia Remailer](https://remailer.paranoici.org/index.php)
+* [MailFreeOnline.com](https://www.mailfreeonline.com/home)
+
+***
+
+## ▷ Email Aliasing
+
+* ⭐ **[SimpleLogin](https://simplelogin.io/)** - Email Aliasing / [GitHub](https://github.com/simple-login/app)
+* ⭐ **[addy.io](https://addy.io/)** - Email Aliasing / [GitHub](https://github.com/anonaddy/anonaddy)
+* ⭐ **[DuckDuckGo Email Protection](https://duckduckgo.com/email/)** - Email Aliasing
+* [Mailvelope](https://mailvelope.com/) - Email Aliasing Extension
+* [scr.im](http://scr.im/) - Email Aliasing
+* [altmails](https://altmails.com/) - Email Aliasing
+* [Mailgw](https://mailgw.com/) - Email Aliasing
+* [erine.email](https://erine.email/) - Email Aliasing
+* [33mail](https://33mail.com/) - Email Aliasing
+* [forwardemail](https://github.com/forwardemail/forwardemail.net) - Email Aliasing
+
+***
+
+## ▷ [Email Privacy](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25B7_email_privacy)
 
 ***
 
@@ -444,7 +547,6 @@
 * [NoMoreEdge](https://github.com/KodeByWrath/NoMoreEdge), [Edge_Removal.bat](https://github.com/AveYo/fox/blob/main/Edge_Removal.bat) or [MSEdgeRedirect](https://github.com/rcmaehl/MSEdgeRedirect) - Redirect Microsoft Edge
 * [WhatIsMyBrowser](https://developers.whatismybrowser.com/) - User Agent Archive
 * [Irchiver](https://irchiver.com/) - Automatic Web Browser Screenshots
-* [BugMeNot](https://bugmenot.com/), [FreeAccount](https://freeaccount.biz/) or [Password Login](https://password-login.com/) - Access & Share Throwaway Accounts
 
 ***
 
