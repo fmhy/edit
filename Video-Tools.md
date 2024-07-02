@@ -126,10 +126,6 @@
 
 ***
 
-## Video Summarization 
-* [VideoGist](https://www.videogist.co)
-* [Clipnote](https://clipnote.ai/)
-
 # ► Video Players
 
 * 🌐 **[Awesome Video](https://github.com/krzemienski/awesome-video)** - Video Streaming Resources
