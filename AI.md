@@ -183,6 +183,7 @@
 * [The Fastest AI](https://thefastest.ai/) - Chatbot Benchmarks
 * [YP for AI](https://www.ypforai.com) - AI Directory
 * [AI Search](https://ai-search.io), [What AI Can Do Today](https://whataicandotoday.com/) or [FindAISites](https://findaisites.pro/) - AI Index Search
+* [AIDirectories](https://www.aidirectori.es/) - AI Directory
 * [Awesome AI Tools](https://github.com/mahseema/awesome-ai-tools) - AI Directory
 * [ToolDirectory](https://www.tooldirectory.ai/) - AI Directory
 * [BasedTools](https://www.basedtools.ai/) - AI Directory / [Discord](https://discord.gg/D8wYxUvwTD)
