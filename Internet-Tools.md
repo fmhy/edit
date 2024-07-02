@@ -156,7 +156,7 @@
 * [LinkBun](https://linkbun.io)
 * [pronouns.cc](https://pronouns.cc/) - Share Preferred Pronouns
 * [seemless](https://www.linkinbio.website/) - Link in Bio for Tiktok & Instagram
-* [itsmy.fyi](https://itsmy.fyi/) - Create Homepage via Github Issues / [Github](https://github.com/rishi-raj-jain/itsmy.fyi)
+* [itsmy.fyi](https://itsmy.fyi/) - Create Homepage via Github Issues / [GitHub](https://github.com/rishi-raj-jain/itsmy.fyi)
 
 ***
 
@@ -311,7 +311,6 @@
 # ► URL Tools
 
 * ↪️ **[Encode / Decode URLs](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools#wiki_.25B7_encode_.2F_decode)**
-* ↪️ **[Reverse URL Search]()**
 * ⭐ **[Flagfox](https://flagfox.wordpress.com/)** - Displays Country's Flag on Sites / [Adds Many URL Tools](https://i.ibb.co/N7Mq56Q/889730aa3863.png)
 * ⭐ **[HTTPStatus](https://httpstatus.io/)** - Check URL Status Codes / Redirect Chains
 * ⭐ **[lychee](https://lychee.cli.rs/)** - URL Scanner / [GitHub](https://github.com/lycheeverse/lychee/)
@@ -324,13 +323,12 @@
 * [SpyOffers](https://www.spyoffers.com/) - Affiliate Link Checker
 * [Link-Lock](https://rekulous.github.io/link-lock/) - Encrypt & Decrypt Links with Passwords
 * [dcrypt.it](https://dcrypt.it/) - Decrypt Link Containers
-* [Linkify Plus Plus](https://greasyfork.org/scripts/4255) / [Core](https://github.com/eight04/linkify-plus-plus-core) - Turn Plain Text URLs Into Links
 * [Temporary-Url](https://www.temporary-url.com/) - Temporary URLs / QR Codes
 * [scrt.link](https://scrt.link/) - Single Use Links
+* [Linkify Plus Plus](https://greasyfork.org/scripts/4255) - Turn Plain Text URLs Into Links / [JS Library](https://github.com/eight04/linkify-plus-plus-core)
 * [AmputatorBot](https://www.amputatorbot.com/) - Remove AMP from URLs
 * [HoverCode](https://hovercode.com/), [QR Code Generator](https://www.qr-code-generator.com/), [QRCode Monkey](https://www.qrcode-monkey.com/), [2qr](https://2qr.info/) or [link-to-qr](https://link-to-qr.com/) - QR Code Generator For URLs / Text
 * [AnyImage](https://anyimage.io/) - Create Social Card Links
-* [urlportal](https://raw.githubusercontent.com/gotbletu/shownotes/master/urlportal.sh) - Custom URL Handler
 * [Site Worth Traffic](https://www.siteworthtraffic.com/) - Calculate Website Worth
 * [XML-Sitemaps](https://www.xml-sitemaps.com/) - Sitemap Creator
 * [CarbonDates](https://carbondate.cs.odu.edu/) - Check Site Creation Date
@@ -360,21 +358,19 @@
 * [by.com.vn](https://by.com.vn/) - `by.com.vn/tKYeSo`
 * [sum.vn](https://sum.vn/) - `sum.vn/DTrXk`
 * [picsee](https://picsee.io/) - `psee.io/5pye68`
-* [soo.run](https://soo.run) - `soo.run/e0j07`
 * [pxmd](https://pxmd.co/) - `pxmd.co/8HDku`
 * [jii.li](https://jii.li/) - `jii.li/hNFXP`
-* [Rebrandly](https://www.rebrandly.com/) - `rb.gy/4m25hq` / [Extension](https://mybrowseraddon.com/g-url-shortener.html)
-* [zws](https://zws.im/) - `zws.im/󠁡󠁷󠁴󠁪󠁷󠁫󠁯`
 * [u.nu](https://u.nu/) - `u.nu/5nhzi`
 * [Kutt](https://kutt.it/) - `kutt.it/sQnBLz`
 * [wal.ee](https://wal.ee/) - `wal.ee/zluqo`
 * [n9.cl](https://n9.cl/) - `n9.cl/6gjfj`
 * [upto](https://upto.site/) - `upto.site/3e04d1`
 * [xy2.eu](https://xy2.eu/) - `xy2.eu/p7YP`
-* [goo.su](https://goo.su/) - `goo.su/7pNRjy7` / [Extension](https://chromewebstore.google.com/detail/free-link-shortener-goosu/clcoifeibkncgnegebeehkodandleohn)
-* [tny.im](https://tny.im) - `tny.im/rw-`
+* [goo.su](https://goo.su/) - `goo.su/7pNRjy7` / [Chrome Extension](https://chromewebstore.google.com/detail/free-link-shortener-goosu/clcoifeibkncgnegebeehkodandleohn)
 * [ai6.net](https://ai6.net/) - `ai6.net/nm3tyz`
 * [SmartLinks](https://smartlnks.com/) - `smartlnks.com/Vjr0m`
+* [tny.im](https://tny.im) - `tny.im/rw-` / Account Required
+* [zws](https://zws.im/) - Zero Character Width Shortener / `zws.im/󠁡󠁷󠁴󠁪󠁷󠁫󠁯`
 * [Anonymiz](https://anonymiz.com/shorten-url) - Anonymous URLs / `anonymiz.com/vwiq`
 * [Anon.to](https://anon.to/) - Anonymous URLs / `anon.to/7SWqpG`
 * [Thinfi](https://thinfi.com/) - Password protect a short URL / `thinfi.com/q8aw`
@@ -420,21 +416,14 @@
 ## ▷ Domain / DNS Info Tools
 
 * ↪️ **[DNS / Web Security](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/dev-tools/#wiki_.25B7_dns_.2F_web_security)**
-* [DNSTwist](https://dnstwist.it/) or [DNSTwister](https://dnstwister.report/) / [Github](https://github.com/elceef/dnstwist)
-
-* [WhoisRequest](https://whoisrequest.com/)
-* [Rankchart](https://rankchart.org/)
-* [Harpoon](https://hakin9.org/harpoon-osint-cli-tool/)
-* [MXToolBox](https://mxtoolbox.com/DNSLookup.aspx)
-* [Whois Lookup](https://whois.domaintools.com/)
-* [IPIP.NET](https://whois.ipip.net/)
-* [WebStatsDomain](https://webstatsdomain.org/)
-* [AtSameIP](https://atsameip.intercode.ca/)
-* [DNSlytics](https://dnslytics.com/)
-* [AnalyzeID](https://analyzeid.com/)
-* [LinkScope](https://accentusoft.com/)
-
-* [SubDomainizer](https://github.com/nsonaniya2010/SubDomainizer), [Search Console](https://search.google.com/search-console/), [SubdomainFinder](https://subdomainfinder.c99.nl/) - Find Hidden Subdomains
+* [LinkScope](https://accentusoft.com/) or [DNSlytics](https://dnslytics.com/) - Domain Investigation Tools
+* [Rankchart](https://rankchart.org/) - Multiple Domain Tools
+* [DNSTwist](https://dnstwist.it/) / [GitHub](https://github.com/elceef/dnstwist) or [DNSTwister](https://dnstwister.report/) - Phishing Domain Scanners
+* [WhoisRequest](https://whoisrequest.com/) - Whois Search
+* [Whois Lookup](https://whois.domaintools.com/) - Whois Search
+* [IPIP.NET](https://whois.ipip.net/) - Country / Region ASNs
+* [AtSameIP](https://atsameip.intercode.ca/) - Find websites on the same IP
+* [SubDomainizer](https://github.com/nsonaniya2010/SubDomainizer), [Google Search Console](https://search.google.com/search-console/) or [Subdomain Finder](https://subdomainfinder.c99.nl/) - Find Hidden Subdomains
 
 ***
 
@@ -887,10 +876,12 @@
 
 * 🌐 **[Awesome OSINT](https://github.com/jivoi/awesome-osint)** - Awesome OSINT
 * ↪️ **[Photo Forensics](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/img-tools/#wiki_.25B7_photo_forensics)**
+* ↪️ **[Domain / DNS Info Tools]()**
 * ⭐ **[IntelTechniques](https://inteltechniques.com/index.html)** or [OSINT Techniques](https://www.osinttechniques.com/) - OSINT Resources
 * ⭐ **[Analyst Research Tools](https://analystresearchtools.com/)** - Tools and Resources
 * [Osintracker](https://www.osintracker.com/) - Track Your Investigations
 * [Cyber Detective](https://cybdetective.com/) / [GitHub](https://github.com/cipher387) - Tools, Techniques, and Projects
+* [Harpoon](https://github.com/Te-k/harpoon) - OSINT CLI Tool
 * [Project Owl](https://discord.com/invite/projectowl) - OSINT Community
 * [OSINT Dojo](https://www.osintdojo.com/resources/) - OSINT Guides
 * [Hackers Arise OSINT](https://www.hackers-arise.com/osint) - OSINT Guides
