@@ -316,11 +316,10 @@
 * ⭐ **[lychee](https://lychee.cli.rs/)** - URL Scanner / [GitHub](https://github.com/lycheeverse/lychee/)
 * [cuttly](https://cutt.ly/) - Multiple URL Tools
 * [ChangeDetection.io](https://github.com/dgtlmoon/changedetection.io), [urlwatch](https://thp.io/2008/urlwatch/), [Visualping](https://visualping.io/), [changd](https://github.com/paschmann/changd) or [FollowThatPage](https://www.followthatpage.com/) - Page Change Detection / Notification
-* [W.A.R. Links Checker Premium](https://greasyfork.org/en/scripts/2024) - Checks If File Links are Alive or Not
-* [Open Bulk URL](https://openbulkurl.com/) or [OpenAllURLs](https://www.openallurls.com/) - URL Bulk Opener
-* [ListURLs](https://listurls.com/) - URL List Generator
-* [CrowdTangle](https://apps.crowdtangle.com/chrome-extension) - Check Where Links Have Been Shared
+* [W.A.R. Links Checker Premium](https://greasyfork.org/en/scripts/2024) - Auto-check the status of File Host links.
 * [SpyOffers](https://www.spyoffers.com/) - Affiliate Link Checker
+* [Open Bulk URL](https://openbulkurl.com/) or [OpenAllURLs](https://www.openallurls.com/) - URL Bulk Opener
+* [CrowdTangle](https://apps.crowdtangle.com/chrome-extension) - Check Where Links Have Been Shared
 * [Link-Lock](https://rekulous.github.io/link-lock/) - Encrypt & Decrypt Links with Passwords
 * [dcrypt.it](https://dcrypt.it/) - Decrypt Link Containers
 * [Temporary-Url](https://www.temporary-url.com/) - Temporary URLs / QR Codes
@@ -369,7 +368,7 @@
 * [goo.su](https://goo.su/) - `goo.su/7pNRjy7` / [Chrome Extension](https://chromewebstore.google.com/detail/free-link-shortener-goosu/clcoifeibkncgnegebeehkodandleohn)
 * [ai6.net](https://ai6.net/) - `ai6.net/nm3tyz`
 * [SmartLinks](https://smartlnks.com/) - `smartlnks.com/Vjr0m`
-* [tny.im](https://tny.im) - `tny.im/rw-` / Account Required
+* [tny.im](https://tny.im) - Account Required / `tny.im/rw-`
 * [zws](https://zws.im/) - Zero Character Width Shortener / `zws.im/󠁡󠁷󠁴󠁪󠁷󠁫󠁯`
 * [Anonymiz](https://anonymiz.com/shorten-url) - Anonymous URLs / `anonymiz.com/vwiq`
 * [Anon.to](https://anon.to/) - Anonymous URLs / `anon.to/7SWqpG`
