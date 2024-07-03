@@ -453,7 +453,7 @@
 * ⭐ **[Upstract](https://upstract.com/)**
 * ⭐ **[QotNews](https://news.t0.vc/)** - Hacker News / Reddit / Lobsters / Tildes
 * ⭐ **[Anime Blog Tracker](https://aniblogtracker.com/)** - Anime News Blogs
-* [NewsMinimalist](https://www.newsminimalist.com/), [AllAINews](https://allainews.com/) or [Brief](https://www.brief.news/) - AI News Aggregators
+* [NewsMinimalist](https://www.newsminimalist.com/) or [Brief](https://www.brief.news/) - AI News Aggregators
 * [devo](https://github.com/karakanb/devo) - New Tab Page News Extension
 * [RealClearPolitics](https://www.realclearpolitics.com/), [Ground News](https://ground.news/), [AllSides](https://www.allsides.com/), [SPIDR](https://spidr.today/) or [LegibleNews](https://legiblenews.com/) - Political News / World Events
 * [Fark](https://www.fark.com/) - User-Curated News
