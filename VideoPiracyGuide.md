@@ -92,7 +92,6 @@
 * [Playary](https://www.playary.com/) - Movies / TV / 1080p
 * [Fawesome](https://fawesome.tv/) - Movies / TV / 1080p
 * [ARTE](https://www.arte.tv/en) - Movies / TV / 1080p
-* [BBC iPlayer](https://www.bbc.co.uk/iplayer) - Movies / TV / 1080p / [Downloader](https://github.com/get-iplayer/get_iplayer) / UK VPN required / Windscribe has UK free
 * [Pluto](https://pluto.tv/) - Movies / TV / 720p
 * [9PM](https://9pm.to/) - Movies / TV / 720p
 * [Watchug](https://watchug.com/) - Movies / TV / 720p
