@@ -1398,6 +1398,9 @@
 * [Where's George?](https://www.wheresgeorge.com/) or [TrackDollar](http://trackdollar.com/) - Dollar Tracking
 * [WordCount](https://www.vidarholen.net/contents/wordcount/) - Most Common Linux Kernel Source Code Words
 * [DeletedCity](http://deletedcity.net/) - Geocities Visualizer
+* [ColorAnalysisAI](https://www.personal-color-analysis.com) - AI Personal Colors Finder
+* [PoemAI](https://www.ai-poem-generator.com) - AI Poem Generator
+* [BibleAI](https://www.bibleaihub.com) - AI Bible Chat
 
 ***
 
