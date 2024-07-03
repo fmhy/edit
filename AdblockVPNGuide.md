@@ -354,7 +354,7 @@
 * [Numblr](https://github.com/heyLu/numblr) - Self-Hosted Frontend Redirect
 * [Photon](https://photon-reddit.com/), [reditr](https://reditr.com/), [RDX](https://rdx.overdevs.com/) or [redlib](https://github.com/redlib-org/redlib) - Reddit Frontends
 * [Invidious Redirect](https://addons.mozilla.org/en-US/firefox/addon/hooktube-redirect/?src=search) - YouTube Frontend Redirect
-* [twstalker](https://twstalker.com/) or [nitter](https://nitter.poast.org/) / [Instances](https://status.d420.de/), [2](https://github.com/zedeus/nitter/wiki/Instances) - Twitter Frontends
+* [twstalker](https://twstalker.com/), [X Cancelled](https://xcancel.com/) or [nitter](https://nitter.poast.org/) / [Instances](https://status.d420.de/), [2](https://github.com/zedeus/nitter/wiki/Instances) - Twitter Frontends
 * [Proxigram](https://codeberg.org/ThePenguinDev/Proxigram) or [Imginn](https://imginn.com) - Instagram Frontends
 * [Proxitok](https://github.com/pablouser1/ProxiTok) or [TikNot](https://tiknot.netlify.app/) / [Redirect](https://greasyfork.org/en/scripts/482683) - TikTok Frontends
 * [Tumlook](https://www.tumlook.com/), [Tumgik](https://www.tumgik.com/) or [PriviBlur](https://github.com/syeopite/priviblur) - Tumblr Frontends
