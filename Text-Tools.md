@@ -394,7 +394,7 @@
 ## ▷ To Do Lists
 
 * ⭐ **[Goblin.tools](https://goblin.tools/)** - Automatic Task Breakdown and more
-* ⭐ **[TickTick](https://www.ticktick.com/)**
+* ⭐ **[TickTick](https://www.ticktick.com/)**, [Premium Unlock](https://github.com/yazdipour/unlimited-ticktick-windows/releases)
 * [Columns](https://columns.app/) or [ChecklistGenerator](https://checklistgenerator.co/) - Checklists
 * [Wonder](https://wonder-bot.com/) - Remember Things Easily
 * [YearCompass](https://yearcompass.com/) - New Years Resolution Booklet
