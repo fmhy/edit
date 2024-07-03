@@ -469,7 +469,7 @@
 
 # ► Download Images
 
-* 🌐 **[2ndBrain](https://rentry.co/2ndBrain)** or [designer](https://start.me/p/jj0JAp/designer) - Image Download Site Indexs
+* 🌐 **[2ndBrain](https://rentry.co/2ndBrain)** or [designer](https://start.me/p/jj0JAp/designer) - Image Download Site Indexes
 * ↪️ **[Image Download Extensions](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_image_download_extensions)**
 * ↪️ **[Random Images](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_random_generators)**
 * ↪️ **[PNG Images / Clipart](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_png_images_.2F_clipart)**

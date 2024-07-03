@@ -647,7 +647,7 @@
 
 ## ▷ VSCode Tools
 
-* 🌐 **[Awesome VSC Extensions]](https://hl2guide.github.io/Awesome-Visual-Studio-Code-Extensions/)**, [2](https://marketplace.visualstudio.com/) - VSCode Extensions
+* 🌐 **[Awesome VSC Extensions](https://hl2guide.github.io/Awesome-Visual-Studio-Code-Extensions/)**, [2](https://marketplace.visualstudio.com/) - VSCode Extensions
 * [github-vscode-icons](https://github.com/dderevjanik/github-vscode-icons) - VSCode Icons
 * [chatgpt-vscode](https://github.com/mpociot/chatgpt-vscode) - VSCode ChatGPT
 * [Open VSX](https://open-vsx.org/) - Open VSX Registry
@@ -828,7 +828,7 @@
 * [How DNS Works](https://howdns.works/) - Learn DNS
 * [How DNSSEC Works](https://howdnssec.works/) - Learn DNSSEC
 * [sha256_project](https://github.com/oconnor663/sha256_project) or [cryptohack](https://cryptohack.org/) - Cryptography Learning
-* [How HTTPS Works](https://howhttps.works/) - Learn HTTPS****
+* [How HTTPS Works](https://howhttps.works/) - Learn HTTPS
 
 ***
 
@@ -1390,7 +1390,7 @@
 
 ***
 
-# ► Cybersecurity
+# ► Cybersecurity Tools
 
 * ⭐ **[pyWhat](https://github.com/bee-san/pyWhat)** - File Analyzer
 * [Open Source Security Software](https://open-source-security-software.net/) - Cybersecurity Software

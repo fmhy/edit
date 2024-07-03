@@ -117,8 +117,9 @@
 * ⭐ **[HiAnime](https://hianime.to/)**, [2](https://4anime.gg/), [3](https://kaido.to/), [4](https://9animetv.to/), [5](https://anicrush.to/), [6](https://aniwatchtv.to/) - Sub / Dub / 1080p / [Auto-Focus](https://greasyfork.org/en/scripts/464019) / [Discord](https://discord.gg/hianime)
 * ⭐ **[AnimePahe](https://animepahe.ru/)** - Sub / 1080p / [Downloader](https://github.com/KevCui/animepahe-dl)
 * ⭐ **[KickAssAnime](https://kickassanime.mx/)** - Sub / Dub / 1080p / [Mirrors](https://watchanime.io/) / [Discord](https://discord.gg/qduzrvTG6p)
+* ⭐ **[Animetsu](https://animetsu.cc/)** - Sub / Dub / 1080p / [Discord](https://discord.com/invite/f2SvhcKCKS)
 * ⭐ **[Animeflix](https://animeflix.gg/)**, [2](https://animeflix.li/) - Sub / Dub / 1080p / [Mirrors](https://animeflix.domains/)
-* ⭐ **[AllManga](https://allmanga.to/)** - Sub / Dub / 1080p / [](https://discord.gg/YbuYYUwhpP)
+* ⭐ **[AllManga](https://allmanga.to/)** - Sub / Dub / 1080p / [Discord](https://discord.gg/YbuYYUwhpP)
 * ⭐ **[GoGoAnime](https://gogoanime3.co/)**, [2](https://anitaku.to/), [3](https://daftanime.com/) - Sub / Dub / 1080p
 * ⭐ **GoGoAnime Tools** - [Mirrors](https://gogotaku.info/) / [Download Script](https://greasyfork.org/en/scripts/465970) / [DL Guide](https://rentry.org/gogodlscript) / [Discord](https://discord.gg/kyVfcGuCCQ)
 * ⭐ **[Layendimator](https://github.com/Layendan/Layendanimator)**, [Akuse](https://github.com/akuse-app/Akuse), [Anikin](https://github.com/jerry08/Anikin) or [Miru](https://miru.js.org/en/) - Desktop Streaming Apps
@@ -130,7 +131,6 @@
 * [AnimeOwl](https://animeowl.live/) - Sub / Dub / 1080p / [Discord](https://discord.com/invite/xHYcvdMvZ2)
 * [123Anime](https://123animes.ru/) - Sub / Dub / 1080p
 * [Ryuk](https://ryuk.to/) - Sub / Dub / 1080p
-* [Animetsu](https://animetsu.cc/) - Sub / Dub / 1080p / [Discord](https://discord.com/invite/f2SvhcKCKS)
 * [Anipulse](https://www.anipulse.to/) - Sub / Dub / 1080p / [Discord](https://discord.gg/KKuCUgSHVs)
 * [Kaguya](https://kaguya.app/) - Sub / 1080p / [Discord](https://discord.gg/382BEFfER6)
 * [Genoanime](https://genoanime.com/) - Sub / Dub / 1080p / [Discord](https://discord.com/invite/TMe9eVs2YY)
@@ -396,11 +396,10 @@
 * ⭐ **[FreeSports](https://freesports.to/)** or [TheHomeSport](https://thehomesport.com/) - Sports
 * ⭐ **[Sports Plus](https://en12.sportplus.live/)** - Sports
 * ⭐ **[VIP Box Sports](https://www.viprow.nu/)**, [2](https://vipleague.im/), [3](https://www.vipleague.la/), [4](https://www.vipbox.lc/) - Sports / [More Links](https://rentry.org/894dq2c9)
+* ⭐ **[Flowstreams](https://flowstreams.pw/)** - Sports / Live Events / [Discord](https://discord.gg/streams) 
 * ⭐ **[SportsHub](https://sportshub.stream/)**, [2](https://reddit10.sportshub.stream/) - Sports
 * ⭐ **[TotalSportek](https://totalsportek.pro/)**, [2](https://www.totalsportek.to/) - Sports
 * ⭐ **[OlympicStreams](https://olympicstreams.co/)** - Sports
-* ⭐ **[Lord Latifi Streams](https://latifistreams.com/)** - Motorsports / Soccer / [Discord](https://discord.gg/6vr9CW7ZFa)
-* [Flowstreams](https://flowstreams.pw/) - Sports / [Discord](https://discord.gg/streams)
 * [Sportsurge.club](https://sportsurge.club/) - Sports
 * [StreamEast](https://www.thestreameast.to/v8/) - Sports
 * [1Stream](https://1stream.eu/) - Sports
@@ -486,7 +485,6 @@
 * [AllTheBestFights](https://www.allthebestfights.com/) - MMA / Boxing / Kickboxing Replays
 * [TNA / Impact Replays](https://www.youtube.com/playlist?list=PLSadBNbijyoGV44wd96Fda7-GDYh9UktC) - TNA / Impact Wrestling Replays
 * [/r/MotorsportsReplays](https://reddit.com/r/MotorsportsReplays) - Motorsports Replays
-* [Lord Latifi Streams](https://latifistreams.com/) - Motorsports Replays / [Discord](https://discord.gg/6vr9CW7ZFa)
 * [FullMatchSports](https://fullmatchsports.cc/) - Motorsports Replays
 * [F1 Full Races](https://f1fullraces.com/) - Motorsports Replays
 * [Rugby24](https://rugby24.net/) - Rugby Replays
@@ -810,7 +808,7 @@
 
 * 🌐 **[elSubtitle](https://www.elsubtitle.com/)**, [SubConverter](https://subconverter.com/) or [Subtitle Tools](https://subtitletools.com/) - Subtitle Tools
 * ⭐ **[Substital](https://substital.com/)** or [Movie-Subtitles](https://github.com/gignupg/Movie-Subtitles) - External Subtitle Extensions
-* ⭐ **[Subtitle Edit](https://www.nikse.dk/SubtitleEdit/Online)**, [DST](https://www.syedgakbar.com/projects/dst), [Aegisub](https://aegisub.org/), [Subtitle Workshop](https://www.uruworks.net/), [Jubler Subtitle](https://www.jubler.org/) or [Subtitld](https://subtitld.org/) - Subtitle Editor
+* [DST](https://www.syedgakbar.com/projects/dst), [Aegisub](https://aegisub.org/), [Subtitle Workshop](https://www.uruworks.net/), [Jubler Subtitle](https://www.jubler.org/) or [Subtitld](https://subtitld.org/) - Subtitle Editor
 * [Penguin](https://github.com/carsonip/Penguin-Subtitle-Player) - External Subs Players
 * [Sub-Zero](https://github.com/pannal/Sub-Zero.bundle) - Plex Subtitles
 * [Adjust Subs Like a Pro](https://graph.org/Adjust-subtitles-in-seconds-like-a-pro-07-17) - Subtitle Syncing Guide

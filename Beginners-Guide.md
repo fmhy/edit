@@ -88,7 +88,7 @@ Use this [browser extension](https://github.com/bpc-clone/bpc_updates/releases) 
 
 ### Anti-virus
 
-**[VirusTotal](https://www.virustotal.com) / [Kaspersky Cloud](https://opentip.kaspersky.com/)** - Test the safety of files
+**[VirusTotal](https://www.virustotal.com)** - Test the safety of files
 **[VTGuide](https://rentry.co/VTGuide)** - Virus scan results guide
 **[Malwarebytes Premium](https://rentry.co/FMHYBase64#malwarebytes-prem)** - Antivirus software
 
@@ -161,7 +161,7 @@ Use this [browser extension](https://github.com/bpc-clone/bpc_updates/releases) 
 
 ### Reading
 
-**[Mobilism](https://forum.mobilism.org) / [Library Genesis](https://libgen.rs/) / [Z-Library](https://singlelogin.re/) / [Annas Archive](https://annas-archive.org/)** - Books, audiobooks, comics & more
+**[Mobilism](https://forum.mobilism.org) / [Library Genesis](https://libgen.rs/) / [Z-Library](https://singlelogin.re/) / [Annas Archive](https://annas-archive.gs/)** / [2](https://annas-archive.se/) - Books, audiobooks, comics & more
 **[Audiobook Bay](https://audiobookbay.is/)** - Audiobook torrents / **Avoid fake DL links, use [Torrents / Magnets](https://i.ibb.co/8sV2061/0fa8159b11bb.png)**
 **[ReadComicsOnline](https://readcomiconline.li/)** - Read comics online
 **[MangaReader](https://mangareader.to/)** - Read manga online

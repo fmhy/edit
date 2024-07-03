@@ -12,7 +12,7 @@
 * ⭐ **[PDALife](https://pdalife.com/)** / [Telegram](https://t.me/pdalife_official)
 * ⭐ **[LiteAPKs](https://liteapks.com/)** / [App](https://liteapks.com/app.html)
 * ⭐ **[Modyolo](https://modyolo.com/)**
-* ⭐ **[4PDA](https://4pda.to/forum/)** - [App](https://github.com/slartus/4pdaClient-plus) /Use [translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)
+* ⭐ **[4PDA](https://4pda.to/forum/)** - [App](https://github.com/slartus/4pdaClient-plus) / Use [translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)
 * ⭐ **[PlatinMods](https://platinmods.com/)** - Modded Games
 * [nsane.down](https://nsaneforums.com/)
 * [Sbenny](https://sbenny.com/)
@@ -271,9 +271,9 @@
 
 * ⭐ **[Thumb-Key](https://github.com/dessalines/thumb-key)**, [HeliBoard](https://github.com/Helium314/HeliBoard), [Flickboard](https://github.com/nightkr/flickboard) or [Unexpected Keyboard](https://github.com/Julow/Unexpected-Keyboard) - Keyboard Apps
 * ⭐ **[Florisboard](https://florisboard.org)** or [AnySoftKeyboard](https://anysoftkeyboard.github.io/) - Incognito Keyboard
+* ⭐ **[FUTO](https://voiceinput.futo.org/)** or [Sayboard](https://github.com/ElishaAz/Sayboard)  - AI Voice Keyboard
 * [NotificationDictionary](https://github.com/tirkarthi/NotificationDictionary) - Dictionary App
 * [DeepLAndroid](https://github.com/sakusaku3939/DeepLAndroid) or [TranslateYou](https://github.com/you-apps/TranslateYou) - Translation Apps
-* [Sayboard](https://github.com/ElishaAz/Sayboard) or [FUTO](https://voiceinput.futo.org/) - AI Voice Keyboard
 * [Grammarly](https://rentry.co/FMHYBase64#grammarly-keyboard-premium) - Grammarly Keyboard Premium
 * [UnicodePad](https://play.google.com/store/apps/details?id=jp.ddo.hotmist.unicodepad) / [GitHub](https://github.com/Ryosuke839/UnicodePad) - Emoji / Unicode Manager
 * [Memory Guardian](https://github.com/hashemi-hossein/memory-guardian/) or [Clipboard CopyPaste](https://www.evvasoft.com/ccp.html) - Clipboard Managers
@@ -398,7 +398,7 @@
 ## ▷ Android Privacy
 
 * 🌐 **[Awesome Android Security](https://github.com/ashishb/android-security-awesome)** - Security Resources
-* 🌐 **[Guardian Project](https://guardianproject.info/)** / [2](https://guardianproject.info/fdroid/repo), [I Like Android Privacy](https://moistcatawumpus.github.io/i-like-android-privacy/) or [Divestos Apps](https://divestos.org/pages/recommended_apps) - Privacy Apps
+* 🌐 **[Guardian Project](https://guardianproject.info/)** / [2](https://guardianproject.info/fdroid/repo), [I Like Android Privacy](https://i-like-android.github.io/) or [Divestos Apps](https://divestos.org/pages/recommended_apps) - Privacy Apps
 * 🌐 **[SelfPrivacy](https://selfprivacy.org/)** - Self-Hosted Privacy Apps
 * ↪️ **[Privacy Based Browsers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_android_browsers)**
 * ↪️ **[Encrypted Messengers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_encrypted_android_messengers)**
