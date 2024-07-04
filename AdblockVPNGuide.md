@@ -272,6 +272,7 @@
 * [Librewolf](https://librewolf.net/) - Pre-tweaked Firefox Fork / [Use Auto-Updater](https://github.com/ltguillaume/librewolf-winupdater)
 * [Brave](https://brave.com/) - Privacy-Focused Browser
 * [CookieStatus](https://www.cookiestatus.com/) - Browser Tracking Protection Comparisons
+* [Encrypted SNI](https://www.cloudflare.com/ssl/encrypted-sni/) - Cloudflare Browser Check
 * [I2P](https://geti2p.net/en/) - Encrypted Private Network Layer / [Guide](https://rentry.co/CBGI2P)
 * [Whack](https://lcamtuf.coredump.cx/whack/) or [Earthling](https://earthlng.github.io/testpages/visited_links.html) - Browser History Leak Example Games
 * [SSL Labs](https://clienttest.ssllabs.com:8443/ssltest/viewMyClient.html) - SSL/TLS Browser Capabilities Test
