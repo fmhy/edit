@@ -149,7 +149,7 @@
 * [AI Code Translator](https://ai-code-translator.vercel.app/), [AI Code Convert](https://aicodeconvert.com/) or [Source Code Converters](https://www.tangiblesoftwaresolutions.com/) - AI Code Converters
 * [RTutor](https://rtutor.ai/) - Translate Natural Language to R code
 * [Gorilla](https://gorilla.cs.berkeley.edu/) - API to Code LLM
-
+* [CS50.ai](https://cs50.ai/) - An experimental AI for rubberducking
 ***
 
 ## ▷ ChatGPT Prompts
