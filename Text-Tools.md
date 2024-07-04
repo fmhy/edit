@@ -236,6 +236,7 @@
 * [Desklamp](https://desklamp.io/) - Reading / Note Taking / Highlighting Tool / [Guide](https://app.desklamp.io/read?id=46b203c6-d8df-453d-b546-95a8fa7a44b9&mode=explore)
 * [FromScratch](https://fromscratch.rocks/) - Note Taking
 * [Kompad](https://kompad.vercel.app/) - Note Taking
+* [LockBook](https://github.com/lockbook/lockbook) - Note Taking
 * [Note Garden](https://notegarden.io/) - Note-Taking / Auto Courses
 * [benotes](https://benotes.org/) - Self-hosted Bookmarks and Note Taking
 * [Saber](https://saber.adil.hanney.org/) - Crossplatform Handwritten Notes
