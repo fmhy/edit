@@ -6,13 +6,9 @@ def output():
     read = glob.glob("*.md")
     content = ""
     nsfw_content = ""
+    ignore_files = {"README.md", "feedback.md", "posts.md", "index.md"}
     for file in read:
-        if (
-            file != "README.md"
-            or file != "feedback.md"
-            or file != "posts.md"
-            or file != "index.md"
-        ):
+        if file not in ignore_files:
             with open(file, "r") as f:
                 if "NSFWPiracy.md" == file:
                     nsfw_content += f.read()
