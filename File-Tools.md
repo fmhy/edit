@@ -285,12 +285,12 @@
 * [MultiUp.io](https://multiup.io/) / [Extract / Upload](https://github.com/Reddiepoint/MultiUp-Direct), [MirrorAce](https://mirrorace.com/), or [Mirrored.to](https://www.mirrored.to/) - Multi Host Uploaders
 * [Z-o-o-m](https://z-o-o-m.eu/) - Multi-Host Upload Desktop App
 * [MixDrop](https://mixdrop.ag/) - Unlimited / 60 Days / Account Required
+* [Qiwi](https://qiwi.gg) - Account Required
 * [Filebin](https://filebin.net/) - Unlimited / 6 Days / [Warning](https://pastebin.com/W0j4VDAN)
 * [file.kiwi](https://file.kiwi/) - Unlimited / [File Expiry Explanation](https://file.kiwi/en/price)
 * [FEX.NET](https://fex.net/) - 100GB / 7 Days
 * [SwissTransfer](https://www.swisstransfer.com/) - 50GB / 30 Days / 250 Downloads
 * [BowFile](https://bowfile.com/) - 20GB / 20 Days
-* [Qiwi](https://qiwi.gg) - Account Required / [Warning](https://pastebin.com/ubuCDi65)
 * [Cipher Files](https://cipherfiles.com/) - 5GB / Forever / [Not Encrypted](https://i.ibb.co/0nR7dBG/image.png) / [Discord](https://discord.gg/DmRhftYcvN)
 * [Hexupload](https://www.hexupload.net/) or [AnonTransfer](https://anontransfer.com/) - 15GB / 30 Days
 * [FileLu](https://filelu.com/) - 15GB / 1 Day (Unlimited With Account) / [Note](https://pastebin.com/Rr9ZqD2F)
