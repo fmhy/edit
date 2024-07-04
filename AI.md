@@ -207,6 +207,7 @@
 * [Dreamily](https://dreamily.ai/) or [NightSaga](https://nightsaga.ai/) - Story Writing AIs
 * [EssayBot](https://www.essaybot.com/) / [2](https://www.essayaibot.com/), [Textero](https://www.textero.ai/), [EssayBuilder](https://essay-builder.ai/) or [EssayService](https://www.essayservice.ai/) - Essay Writing AI
 * [TextSynth](https://textsynth.com/playground.html) - Text Autocomplete AI
+* [Product Description Generator](https://www.aidirectori.es/tools/product-description-generator)
 
 ***
 
@@ -225,6 +226,7 @@
 * [StableVideo](https://www.stablevideo.com/) - Video Generator
 * [Haiper](https://haiper.ai/) - Video Generator
 * [Stable Diffusion Videos](https://github.com/nateraw/stable-diffusion-videos) - Video Generator
+* [Dream Machine](https://lumalabs.ai/dream-machine) - Video Generator
 * [text-to-video](https://text-to-video.vercel.app) - Video Generator
 * [Text2Video-Zero](https://github.com/Picsart-AI-Research/Text2Video-Zero) - Video Generator
 * [LensGo](https://lensgo.ai/) - Video Generator
