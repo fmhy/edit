@@ -65,6 +65,7 @@
 * ⭐ **[PressPlay](https://www.pressplay.top/)** - Movies / TV / 1080p / [Discord](https://discord.gg/r4QrghF4B9)
 * ⭐ **[YesMovies](https://yesmovies.ag/)**, [2](https://ww4.solarmovie.to/), [3](https://ww5.0123movie.net/), [4](https://ww1.putlocker.vip/) - Movies / TV / 1080p
 * ⭐ **[LookMovie](https://lookmovie2.to/)** - Movies / TV / 720p / [Mirrors](https://proxymirrorlookmovie.github.io/)
+* [Tubi](https://tubitv.com) - Movies / TV / 720p / Use Adblock / [Downloader](https://github.com/warren-bank/node-hls-downloader-tubitv) / US Only
 * [Cinewave](https://discord.gg/ZrnqNtnbPy) - Movies / TV / Anime / 1080p / Jellyfin Required
 * [Gir Society](https://discord.gg/WHxeZ3aTtb) - Movies / TV / Anime / 1080p / Plex Required
 * [OnionPlay](https://onionplay.se/) - Movies / TV / 1080p / [Mirrors](https://onionplay.network/)
@@ -82,7 +83,6 @@
 * [GotyTV](https://gotytv.com/) - Movies / TV / 1080p / Requires Signup
 * [PopcornFlix](https://www.popcornflix.com/) - Movies / TV / 1080p
 * [Crackle](https://www.crackle.com/) - Movies / TV / 1080p / US Only
-* [Tubi](https://tubitv.com) - Movies / TV / 720p / Use Adblock / [Downloader](https://github.com/warren-bank/node-hls-downloader-tubitv) / US Only
 * [Freevee](https://www.amazon.com/gp/video/storefront/ref=atv_hm_hom_c_9zZ8D2_1_3?contentType=home&amp;contentId=freetv) - Movies / TV / 1080p / US Only
 * [Roku](https://therokuchannel.roku.com/) - Movies / TV / 1080p / US Only
 * [Vudu](https://www.vudu.com/content/movies/uxpage/View-All-Free-Movies-TV/207) - Movies / TV / 1080p / US Only
