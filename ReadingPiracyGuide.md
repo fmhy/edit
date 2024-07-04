@@ -783,10 +783,7 @@
 * ⭐ **[Nexus search](https://t.me/nexus_search/94)**, [2](https://t.me/nexus_search/214) - Science / Articles
 * [Wikisource](https://en.wikisource.org) - Poetry / Text / Documents
 * [Heystacks](https://heystacks.com/) - Public Google Docs
-* [PDFSlide](https://pdfslide.net/) - Document Search
 * [IDoc](https://idoc.pub/) - Document Search
-* [VDocuments](https://vdocuments.site/) - Document Search
-* [docplayer](https://docplayer.net/) - Document Search
 * [Higher Intellect](https://preterhuman.net/) - Document Search
 * [qDoc](https://idoc.tips/) - Document Search
 * [Doc Search](https://parksdigital.com/doc-search/) - Document Search

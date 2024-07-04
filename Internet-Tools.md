@@ -156,7 +156,7 @@
 * [LinkBun](https://linkbun.io)
 * [pronouns.cc](https://pronouns.cc/) - Share Preferred Pronouns
 * [seemless](https://www.linkinbio.website/) - Link in Bio for Tiktok & Instagram
-* [itsmy.fyi](https://itsmy.fyi/) - Create Homepage via Github Issues / [Github](https://github.com/rishi-raj-jain/itsmy.fyi)
+* [itsmy.fyi](https://itsmy.fyi/) - Create Homepage via Github Issues / [GitHub](https://github.com/rishi-raj-jain/itsmy.fyi)
 
 ***
 
@@ -244,85 +244,6 @@
 
 ***
 
-## ▷ URL Tools
-
-* 🌐 **[URLS-MTHRFCKR](https://github.com/whoisdsmith/urls-mthrfckr)** - Python URL Scripts
-* ↪️ **[Check if Sites are Down](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_down_site_checkers)**
-* ↪️ **[Encode / Decode URLs](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools#wiki_.25B7_encode_.2F_decode)**
-* ↪️ **[Reverse URL Search](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_domain_info_tools)**
-* ↪️ **[URL Unshorteners](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_url_unshorteners)**
-* ⭐ **[Flagfox](https://flagfox.wordpress.com/)** - Displays Country's Flag on Sites / [Adds Many URL Tools](https://i.ibb.co/N7Mq56Q/889730aa3863.png)
-* ⭐ **[HTTPStatus](https://httpstatus.io/)** - Check URL Status Codes / Redirect Chains
-* ⭐ **[Wiki Shortener](https://meta.wikimedia.org/wiki/Special:UrlShortener)** - Wiki URL Shortener
-* ⭐ **[Linqbin](https://linqbin.cc/)** - Temp Link Shortener / [GitHub](https://github.com/daniel-lxs/linqbin)
-* ⭐ **[t.ly](https://t.ly/)** - `t.ly/qqH6`
-* ⭐ **[is.gd](https://www.is.gd/)** - `is.gd/9dkISG`
-* ⭐ **[Reduced](https://reduced.to/)** - `reduced.to/nuwad`
-* [v.gd](https://v.gd/) - `v.gd/Gj8oLR`
-* [gg.gg](https://gg.gg/) - `gg.gg/oggp7`
-* [Linkify](https://creator.linkify.cz/) - `linkify.cz/1a0O`
-* [bitly](https://bitly.com/) - `bit.ly/3cmqPIu` / [Reveal URL](https://i.ibb.co/tQVKYRq/3a97e5dd64b2.png)
-* [TinyUrl](https://tinyurl.com/) - `tinyurl.com/twgf2ks` / [Reveal URL](https://i.ibb.co/Wv90gT4/0d2992342fc7.png)
-* [id](https://home.s.id/) - `s.id/EQBsg`
-* [Tiny.cc](https://tiny.cc/) - `tiny.cc/akl1mz`
-* [1kb](https://1kb.link/) - `1kb.link/acc0a`
-* [x.gd](https://x.gd/) `x.gd/rcg0Z`
-* [bom.so](https://bom.so/) - `bom.so/VevMJv`
-* [by.com.vn](https://by.com.vn/) - `by.com.vn/tKYeSo`
-* [sum.vn](https://sum.vn/) - `sum.vn/DTrXk`
-* [picsee](https://picsee.io/) - `psee.io/5pye68`
-* [soo.run](https://soo.run) - `soo.run/e0j07`
-* [pxmd](https://pxmd.co/) - `pxmd.co/8HDku`
-* [jii.li](https://jii.li/) - `jii.li/hNFXP`
-* [Rebrandly](https://www.rebrandly.com/) - `rb.gy/4m25hq` / [Extension](https://mybrowseraddon.com/g-url-shortener.html)
-* [zws](https://zws.im/) - `zws.im/󠁡󠁷󠁴󠁪󠁷󠁫󠁯`
-* [u.nu](https://u.nu/) - `u.nu/5nhzi`
-* [Kutt](https://kutt.it/) - `kutt.it/sQnBLz`
-* [wal.ee](https://wal.ee/) - `wal.ee/zluqo`
-* [n9.cl](https://n9.cl/) - `n9.cl/6gjfj`
-* [upto](https://upto.site/) - `upto.site/3e04d1`
-* [xy2.eu](https://xy2.eu/) - `xy2.eu/p7YP`
-* [goo.su](https://goo.su/) - `goo.su/7pNRjy7` / [Extension](https://chromewebstore.google.com/detail/free-link-shortener-goosu/clcoifeibkncgnegebeehkodandleohn)
-* [tny.im](https://tny.im) - `tny.im/rw-`
-* [ai6.net](https://ai6.net/) - `ai6.net/nm3tyz`
-* [SmartLinks](https://smartlnks.com/) - `smartlnks.com/Vjr0m`
-* [Emojied](https://emojied.net/), [vi8hl0c](https://xn--vi8hl0c.ws/) or [kn8h](https://xn--kn8h.to/)
-* [ShortShare](https://shortshare.app/) - Short Link App
-* [BR3F](https://www.br3f.com/) - Single-Click Short Links
-* [Anonymiz](https://anonymiz.com/shorten-url) - Anonymous URLs - `anonymiz.com/vwiq`
-* [Anon.to](https://anon.to/) - Anonymous URLs - `anon.to/7SWqpG`
-* [Thinfi](https://thinfi.com/) - Password protect a short URL - `thinfi.com/q8aw`
-* [ShortUrLinksbot](https://t.me/ShortUrLinksbot) or [ShortUrlBot](https://t.me/ShortUrlBot) - Telegram Link Shortener Bot
-* [suri](https://github.com/jstayton/suri) or [mpngin](https://github.com/thewalkingtoast/mpngin) - Self-Hosted Link Shorteners
-* [cuttly](https://cutt.ly/) - Multiple URL Tools
-* [ChangeDetection.io](https://github.com/dgtlmoon/changedetection.io), [urlwatch](https://thp.io/2008/urlwatch/), [Visualping](https://visualping.io/), [changd](https://github.com/paschmann/changd) or [FollowThatPage](https://www.followthatpage.com/) - Page Change Detection / Notification
-* [W.A.R. Links Checker Premium](https://greasyfork.org/en/scripts/2024) - Checks If File Links are Alive or Not
-* [Open Bulk URL](https://openbulkurl.com/) or [OpenAllURLs](https://www.openallurls.com/) - URL Bulk Opener
-* [ListURLs](https://listurls.com/) - URL List Generator
-* [CrowdTangle](https://apps.crowdtangle.com/chrome-extension) - Check Where Links Have Been Shared
-* [SpyOffers](https://www.spyoffers.com/) - Affiliate Link Checker
-* [Link-Lock](https://rekulous.github.io/link-lock/) - Encrypt & Decrypt Links with Passwords
-* [dcrypt.it](https://dcrypt.it/) - Decrypt Link Containers
-* [Linkify Plus Plus](https://greasyfork.org/scripts/4255) - [Core](https://github.com/eight04/linkify-plus-plus-core) / Turn Plain txt URLs into Links
-* [Perma](https://perma.cc/) - Permanent URLs
-* [Temporary-Url](https://www.temporary-url.com/) - Temporary URLs / QR Codes
-* [scrt.link](https://scrt.link/) - Single Use Links
-* [AmputatorBot](https://www.amputatorbot.com/) - Remove AMP from URLs
-* [HoverCode](https://hovercode.com/), [QR Code Generator](https://www.qr-code-generator.com/), [QRCode Monkey](https://www.qrcode-monkey.com/), [2qr](https://2qr.info/) or [link-to-qr](https://link-to-qr.com/) - QR Code Generator For URLs / Text
-* [AnyImage](https://anyimage.io/) - Create Social Card Links
-* [urlportal](https://raw.githubusercontent.com/gotbletu/shownotes/master/urlportal.sh) - Custom URL Handler
-* [Web Check](https://web-check.xyz/), [NSLookup](https://www.nslookup.io/) or [dog](https://github.com/ogham/dog) - DNS Information Tool
-* [DuckDNS](https://www.duckdns.org/), [FreeDNS](https://freedns.afraid.org/), [dynu](https://dynu.com/), [NoIP](https://www.noip.com/) or [Desec](https://desec.io/) - Dynamic DNS Service
-* [Site Worth Traffic](https://www.siteworthtraffic.com/) - Calculate Website Worth
-* [XML-Sitemaps](https://www.xml-sitemaps.com/) - Sitemap Creator
-* [CarbonDates](https://carbondate.cs.odu.edu/) - Check Site Creation Date
-* [SubDomainizer](https://github.com/nsonaniya2010/SubDomainizer), [Search Console](https://search.google.com/search-console/), [SubdomainFinder](https://subdomainfinder.c99.nl/) - Find Hidden Subdomains
-* [pyfuzz](https://github.com/AyoobAli/pyfuzz) - URL Fuzzing Tool
-* [Backlink Tool](https://backlinktool.io/) or [Index Kings](http://www.indexkings.com/) - URL Indexer
-* [Blocked](https://www.blocked.org.uk/) - UK ISP Site Blocking Test
-
-***
-
 ## ▷ Chat Tools
 
 * ↪️ **[IRC Clients / Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/download#wiki_.25B7_irc_tools)**
@@ -387,6 +308,125 @@
 
 ***
 
+# ► URL Tools
+
+* ↪️ **[Encode / Decode URLs](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools#wiki_.25B7_encode_.2F_decode)**
+* ⭐ **[Flagfox](https://flagfox.wordpress.com/)** - Displays Country's Flag on Sites / [Adds Many URL Tools](https://i.ibb.co/N7Mq56Q/889730aa3863.png)
+* ⭐ **[HTTPStatus](https://httpstatus.io/)** - Check URL Status Codes / Redirect Chains
+* ⭐ **[lychee](https://lychee.cli.rs/)** - URL Scanner / [GitHub](https://github.com/lycheeverse/lychee/)
+* [cuttly](https://cutt.ly/) - Multiple URL Tools
+* [ChangeDetection.io](https://github.com/dgtlmoon/changedetection.io), [urlwatch](https://thp.io/2008/urlwatch/), [Visualping](https://visualping.io/), [changd](https://github.com/paschmann/changd) or [FollowThatPage](https://www.followthatpage.com/) - Page Change Detection / Notification
+* [W.A.R. Links Checker Premium](https://greasyfork.org/en/scripts/2024) - Auto-check the status of File Host links.
+* [SpyOffers](https://www.spyoffers.com/) - Affiliate Link Checker
+* [Open Bulk URL](https://openbulkurl.com/) or [OpenAllURLs](https://www.openallurls.com/) - URL Bulk Opener
+* [CrowdTangle](https://apps.crowdtangle.com/chrome-extension) - Check Where Links Have Been Shared
+* [Link-Lock](https://rekulous.github.io/link-lock/) - Encrypt & Decrypt Links with Passwords
+* [dcrypt.it](https://dcrypt.it/) - Decrypt Link Containers
+* [Temporary-Url](https://www.temporary-url.com/) - Temporary URLs / QR Codes
+* [scrt.link](https://scrt.link/) - Single Use Links
+* [Linkify Plus Plus](https://greasyfork.org/scripts/4255) - Turn Plain Text URLs Into Links / [JS Library](https://github.com/eight04/linkify-plus-plus-core)
+* [AmputatorBot](https://www.amputatorbot.com/) - Remove AMP from URLs
+* [HoverCode](https://hovercode.com/), [QR Code Generator](https://www.qr-code-generator.com/), [QRCode Monkey](https://www.qrcode-monkey.com/), [2qr](https://2qr.info/) or [link-to-qr](https://link-to-qr.com/) - QR Code Generator For URLs / Text
+* [AnyImage](https://anyimage.io/) - Create Social Card Links
+* [Site Worth Traffic](https://www.siteworthtraffic.com/) - Calculate Website Worth
+* [XML-Sitemaps](https://www.xml-sitemaps.com/) - Sitemap Creator
+* [CarbonDates](https://carbondate.cs.odu.edu/) - Check Site Creation Date
+* [pyfuzz](https://github.com/AyoobAli/pyfuzz) - URL Fuzzing Tool
+* [Backlink Tool](https://backlinktool.io/) or [Index Kings](http://www.indexkings.com/) - URL Indexer
+* [Blocked](https://www.blocked.org.uk/) - UK ISP Site Blocking Test
+
+***
+
+## ▷ URL Shorteners
+
+* ⭐ **[Wiki Shortener](https://meta.wikimedia.org/wiki/Special:UrlShortener)** - Wiki URL Shortener
+* ⭐ **[Linqbin](https://linqbin.cc/)** - Temp Link Shortener / [GitHub](https://github.com/daniel-lxs/linqbin)
+* ⭐ **[t.ly](https://t.ly/)** - `t.ly/qqH6`
+* ⭐ **[is.gd](https://www.is.gd/)** - `is.gd/9dkISG`
+* ⭐ **[Reduced](https://reduced.to/)** - `reduced.to/nuwad`
+* [v.gd](https://v.gd/) - `v.gd/Gj8oLR`
+* [gg.gg](https://gg.gg/) - `gg.gg/oggp7`
+* [Linkify](https://creator.linkify.cz/) - `linkify.cz/1a0O`
+* [bitly](https://bitly.com/) - `bit.ly/3cmqPIu` / [Reveal URL](https://i.ibb.co/tQVKYRq/3a97e5dd64b2.png)
+* [TinyUrl](https://tinyurl.com/) - `tinyurl.com/twgf2ks` / [Reveal URL](https://i.ibb.co/Wv90gT4/0d2992342fc7.png)
+* [id](https://home.s.id/) - `s.id/EQBsg`
+* [Tiny.cc](https://tiny.cc/) - `tiny.cc/akl1mz`
+* [1kb](https://1kb.link/) - `1kb.link/acc0a`
+* [x.gd](https://x.gd/) `x.gd/rcg0Z`
+* [bom.so](https://bom.so/) - `bom.so/VevMJv`
+* [by.com.vn](https://by.com.vn/) - `by.com.vn/tKYeSo`
+* [sum.vn](https://sum.vn/) - `sum.vn/DTrXk`
+* [picsee](https://picsee.io/) - `psee.io/5pye68`
+* [pxmd](https://pxmd.co/) - `pxmd.co/8HDku`
+* [jii.li](https://jii.li/) - `jii.li/hNFXP`
+* [u.nu](https://u.nu/) - `u.nu/5nhzi`
+* [Kutt](https://kutt.it/) - `kutt.it/sQnBLz`
+* [wal.ee](https://wal.ee/) - `wal.ee/zluqo`
+* [n9.cl](https://n9.cl/) - `n9.cl/6gjfj`
+* [upto](https://upto.site/) - `upto.site/3e04d1`
+* [xy2.eu](https://xy2.eu/) - `xy2.eu/p7YP`
+* [goo.su](https://goo.su/) - `goo.su/7pNRjy7` / [Chrome Extension](https://chromewebstore.google.com/detail/free-link-shortener-goosu/clcoifeibkncgnegebeehkodandleohn)
+* [ai6.net](https://ai6.net/) - `ai6.net/nm3tyz`
+* [SmartLinks](https://smartlnks.com/) - `smartlnks.com/Vjr0m`
+* [tny.im](https://tny.im) - Account Required / `tny.im/rw-`
+* [zws](https://zws.im/) - Zero Character Width Shortener / `zws.im/󠁡󠁷󠁴󠁪󠁷󠁫󠁯`
+* [Anonymiz](https://anonymiz.com/shorten-url) - Anonymous URLs / `anonymiz.com/vwiq`
+* [Anon.to](https://anon.to/) - Anonymous URLs / `anon.to/7SWqpG`
+* [Thinfi](https://thinfi.com/) - Password protect a short URL / `thinfi.com/q8aw`
+* [Emojied](https://emojied.net/), [vi8hl0c](https://xn--vi8hl0c.ws/) or [kn8h](https://xn--kn8h.to/) - Emoji URL Shorteners
+* [ShortShare](https://shortshare.app/) - Short Link App
+* [BR3F](https://www.br3f.com/) - Single-Click Short Links
+* [ShortUrLinksbot](https://t.me/ShortUrLinksbot) or [ShortUrlBot](https://t.me/ShortUrlBot) - Telegram Link Shortener Bot
+* [suri](https://github.com/jstayton/suri) or [mpngin](https://github.com/thewalkingtoast/mpngin) - Self-Hosted Link Shorteners
+
+***
+
+## ▷ URL Unshorteners
+
+* ↪️ **[Redirect Bypassers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25B7_redirect_bypass)**
+* ⭐ **[urlex](https://urlex.org/)**
+* ⭐ **[CheckShortURL](https://checkshorturl.com/)**
+* [ExpandURL](https://www.expandurl.net/)
+* [Unshorten.it](https://unshorten.it/)
+* [WhereGoes](https://wheregoes.com/)
+* [urlxray](http://urlxray.com/)
+* [unshorten](https://unshorten.me/)
+* [linkunshorten](https://linkunshorten.com/)
+
+***
+
+## ▷ Down Site Checkers
+
+* ⭐ **[Down for Everyone or Just Me](https://downforeveryoneorjustme.com/)**
+* ⭐ **[Is It Down Right Now](https://www.isitdownrightnow.com/)**
+* ⭐ **[Downdetector](https://downdetector.com/)** / [UK](https://downdetector.co.uk/)
+* [Is The Service Down?](https://istheservicedown.com/)
+* [Down.com](https://down.com/)
+* [websitedown](http://www.websitedown.info/)
+* [UpDown Radar](https://updownradar.com/)
+* [Dead Link Checker](https://www.deadlinkchecker.com/)
+* [Online Broken Link Checker](https://brokenlinkcheck.com/broken-links.php)
+* [Dr. Link Check](https://www.drlinkcheck.com/)
+* [HTTPStatus](https://httpstatus.io/)
+* [UpDownToday](https://updowntoday.com/)
+
+***
+
+## ▷ Domain / DNS
+
+* ↪️ **[DNS / Web Security](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/dev-tools/#wiki_.25B7_dns_.2F_web_security)**
+* ↪️ **[Domain Availability](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_domain_availability)**
+* [LinkScope](https://accentusoft.com/) or [DNSlytics](https://dnslytics.com/) - Domain Investigation Tools
+* [Rankchart](https://rankchart.org/) - Multiple Domain Tools
+* [DNSTwist](https://dnstwist.it/) / [GitHub](https://github.com/elceef/dnstwist) or [DNSTwister](https://dnstwister.report/) - Phishing Domain Scanners
+* [WhoisRequest](https://whoisrequest.com/) - Whois Search
+* [Whois Lookup](https://whois.domaintools.com/) - Whois Search
+* [IPIP.NET](https://whois.ipip.net/) - Country / Region ASNs
+* [AtSameIP](https://atsameip.intercode.ca/) - Find websites on the same IP
+* [SubDomainizer](https://github.com/nsonaniya2010/SubDomainizer), [Google Search Console](https://search.google.com/search-console/) or [Subdomain Finder](https://subdomainfinder.c99.nl/) - Find Hidden Subdomains
+
+***
+
 # ► Email Tools
 
 * 🌐 **[Email Providers](https://en.wikipedia.org/wiki/Comparison_of_webmail_providers)** - Provider Comparisons
@@ -434,13 +474,13 @@
 * ⭐ **[Smailpro](https://smailpro.com/)** - Gmail & Outlook / Forever / N/A / 20+ Domains
 * ⭐ **[Zemail](https://zemail.me/)** - Gmail / Forever / 1 Day / 7 Domains
 * ⭐ **[Gmailnator](https://www.emailnator.com/)** - Gmail / Forever / 1 Day / 6 Domains
+* ⭐ **[burner.kiwi](https://burner.kiwi/)** - 1 Day / 1 Day / 3 Domains
 * ⭐ **[Tempr.email](https://tempr.email/en/)** - Forever / 1 Month / 50+ Domains
 * ⭐ **[Inboxes](https://inboxes.com/)** - Forever / 7 Days / 19 Domains
 * ⭐ **[Mail.tm](https://mail.tm/)** - Forever / 7 Days / 1 Domain
 * ⭐ **[temp-mail.org](https://temp-mail.org/)** - Forever / 2 Hours / N/A / [Telegram Bot](https://t.me/TempMail_org_bot)
 * ⭐ **[Guerrilla Mail](https://www.guerrillamail.com/)** - Forever / 1 Hour / 11 Domains / [SharkLasers](https://www.sharklasers.com/)
 * ⭐ **[temp-mail.io](https://temp-mail.io/)** - 1 Day / 1 Day / 12 Domains
-* ⭐ **[burner.kiwi](https://burner.kiwi/)** - 1 Day / 1 Day / 3 Domains
 * [Bloody Vikings!](https://addons.mozilla.org/en-US/firefox/addon/bloody-vikings/) - Temp Email Extension
 * [TrashMail](https://trashmail.com/) - Email Forwarding Service
 * [Tmail.io](https://tmail.io/) - Gmail / Forever / 1 Day / 4 Domains
@@ -453,7 +493,7 @@
 * [Snapmail.cc](https://www.snapmail.cc/) - Forever / 2 Days / 3 Domains
 * [Mailnesia](https://mailnesia.com/) - Forever / 2 Days / 1 Domain
 * [Spambox](https://spambox.xyz/) or [Trashinbox](https://trashinbox.net/) - Forever / 1 Day / 4 Domains
-* [Maildrop](https://maildrop.cc/),[Trashmail](https://trashmail.ws/) or [temporary-email.com](https://temporary-email.com/) - Forever / 1 Day / 1 Domain
+* [Maildrop](https://maildrop.cc/), [Trashmail](https://trashmail.ws/) or [temporary-email.com](https://temporary-email.com/) - Forever / 1 Day / 1 Domain
 * [cs.email](https://cs.email/) - Forever / 1 Hour / 12 Domains
 * [Temp Mail ID](https://tempmailid.com/) - Forever / 30 Mins / 2 Domains
 * [Email Generator](https://generator.email/), [Fake Email](https://email-fake.com/) or [TempM](https://tempm.com/) - Forever / N/A / 50+ Domains
@@ -836,10 +876,12 @@
 
 * 🌐 **[Awesome OSINT](https://github.com/jivoi/awesome-osint)** - Awesome OSINT
 * ↪️ **[Photo Forensics](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/img-tools/#wiki_.25B7_photo_forensics)**
+* ↪️ **[Domain / DNS Info](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools#wiki_.25B7_domain_.2F_dns)**
 * ⭐ **[IntelTechniques](https://inteltechniques.com/index.html)** or [OSINT Techniques](https://www.osinttechniques.com/) - OSINT Resources
 * ⭐ **[Analyst Research Tools](https://analystresearchtools.com/)** - Tools and Resources
 * [Osintracker](https://www.osintracker.com/) - Track Your Investigations
 * [Cyber Detective](https://cybdetective.com/) / [GitHub](https://github.com/cipher387) - Tools, Techniques, and Projects
+* [Harpoon](https://github.com/Te-k/harpoon) - OSINT CLI Tool
 * [Project Owl](https://discord.com/invite/projectowl) - OSINT Community
 * [OSINT Dojo](https://www.osintdojo.com/resources/) - OSINT Guides
 * [Hackers Arise OSINT](https://www.hackers-arise.com/osint) - OSINT Guides
