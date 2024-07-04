@@ -269,6 +269,7 @@
 
 ## ▷ Online Editors
 
+* ⭐ **[Proton Docs](https://proton.me/drive/docs)** - Local / Cloud Saves
 * ⭐ **[takenote](https://takenote.dev/)** - Local Saves
 * ⭐ **[Zen](https://zen.unit.ms/)** - Local Saves
 * [Browserpad](https://browserpad.org/) - Local Saves
@@ -284,10 +285,11 @@
 * [Write Box](https://write-box.appspot.com/) - Local / Cloud Saves
 * [NimbleText](https://nimbletext.com/Live) - Cloud Saves
 * [ZippyJot](https://www.zippyjot.com/) - Cloud Saves
-* [TextSlave](https://www.textslave.com/)
-* [GhostText](https://ghosttext.fregante.com/)
-* [AnyTextEditor](https://anytexteditor.com/)
-* [KiloDoc](https://www.kilodoc.com/), [Edit-Document](https://edit-document.com/) or [GroupDocs](https://products.groupdocs.app/viewer/total) - Online Document Editors
+* [KiloDoc](https://www.kilodoc.com/) - Cloud Saves
+* [Edit-Document](https://edit-document.com/) - Local / Cloud Saves
+* [TextSlave](https://www.textslave.com/) - Cloud Saves
+* [GhostText](https://ghosttext.fregante.com/) - Cloud Saves
+* [AnyTextEditor](https://anytexteditor.com/) - Cloud Saves
 
 ***
 
@@ -365,7 +367,7 @@
 ## ▷ Writing Tools
 
 * ↪️ **[AI Text Generators](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/ai#wiki_.25BA_text_generators)**
-* ⭐ **[Writer](https://www.gibney.org/writer)**, [FocusWriter](https://gottcode.org/focuswriter/), [Writemonkey](https://writemonkey.com/), [blank.page](https://blank.page/) or [WriteNext](https://www.writenext.io/) - Distraction-Free Writing
+* ⭐ **[Writer](https://www.gibney.org/writer)**, [FocusWriter](https://gottcode.org/focuswriter/), [Writemonkey](https://writemonkey.com/), [blank.page](https://blank.page/), [Telegra.ph](https://telegra.ph/) or [WriteNext](https://www.writenext.io/) - Distraction-Free Writing
 * ⭐ **[Manuskript](https://www.theologeek.ch/manuskript/)** - Writing Organizer / Planner
 * ⭐ **[NovelWriter](https://novelwriter.io/)** or [Bibisco](https://bibisco.com/) - Novel Editors
 * ⭐ **[Linked](https://uselinked.com/)**, [journaltxt](https://journaltxt.github.io/), [Gekri](https://gekri.com/), [Microsoft Journal](https://www.microsoft.com/en-us/garage/profiles/journal/), [Diarium](https://diariumapp.com/), [Gemlog](https://gemlog.blue/) or [jrnl.sh](https://jrnl.sh/) - Journal Apps / [Songs](https://deardiary.ai/)
