@@ -634,7 +634,6 @@
 * [Audile](https://github.com/aleksey-saenko/MusicRecognizer) - Android
 * [Audire](https://github.com/alexmercerind/audire) - Android
 * [AmbientMusicMod](https://github.com/KieronQuinn/AmbientMusicMod) - Android
-* [Audile](https://github.com/aleksey-saenko/MusicRecognizer) - Android
 
 ***
 
