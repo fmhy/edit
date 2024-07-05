@@ -510,7 +510,7 @@
 
 ## ▷ Game Engines
 
-* 🌐 **[Game Engine Dev](https://github.com/stevinz/awesome-game-engine-dev)** - Game Engine Development Resources
+* 🌐 **[Awesome Game Engine](https://github.com/stevinz/awesome-game-engine-dev)** - Game Engine Development Resources
 * 🌐 **[EnginesDatabase](https://enginesdatabase.com/)** - Game Engines Database
 * ↪️ **[2D Only Engines]()**
 * ↪️ **[3D Only Engines]()**
@@ -534,7 +534,7 @@
 
 ## ▷ Game Design
 
-* ↪️ **[Design Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/img-tools/)**
+* ↪️ **[Design Tools / Resources](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/img-tools/)**
 * ↪️ **[Art Resources](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu/#wiki_.25B7_art_.2F_editing)**
 * ↪️ **[Writing Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools/#wiki_.25B7_writing_tools)**
 * [Nuklear](https://github.com/Immediate-Mode-UI/Nuklear) - Game GUI Creator
@@ -546,25 +546,24 @@
 
 ***
 
-## ▷ Game Assets
+## ▷ Asset Creation
 
-* ↪️ **[3D Models / Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/img-tools#wiki_.25B7_3d_models)**
+* ↪️ **[Pre-made Assets]()**
+* ↪️ **[3D Models / Modeling Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/img-tools#wiki_.25B7_3d_models)**
 * [Game UI Database](https://www.gameuidatabase.com/) - Game UI Database
 * [Game-icons](https://game-icons.net/) - Game Icons
 * [/r/GameAssets](https://www.reddit.com/r/gameassets/) - Community
-* [xonotic](https://github.com/xonotic) - FPS Game Assets
-* [Warsow](https://github.com/Warsow) - FPS Game Assets
-* [Vanguard](https://project-vanguard.netlify.app/index.html) - FPS Game Assets / [GitHub](https://github.com/VanguardDev/Vanguard)
 * [CraftPix](https://craftpix.net/freebies/)
 * [Kenney](https://www.kenney.nl/)
-* [UnityAssets4Free](https://unityassets4free.com/)
+* [UnityAssets4Free](https://unityassets4free.com/) - Free Paid Unity Assets
 * [Open Game Art](https://opengameart.org/)
 * [UnityFreaks](https://www.unityfreaks.com/)
 * [GameDevUE](https://t.me/GameDevUE)
 * [SteamGridDB](https://www.steamgriddb.com/)
 * [DevAssets](https://devassets.com/)
 * [Incern](https://www.incern.org/)
-* [GameDevAssets](https://www.gamedevmarket.net/category/3d/?type=free)
+* [GameDev Market](https://www.gamedevmarket.net/)
+* [Vanguard](https://project-vanguard.netlify.app/index.html) / [GitHub](https://github.com/VanguardDev/Vanguard), [xonotic](https://github.com/xonotic) or [Warsow](https://github.com/Warsow) - FPS Game Assets
 
 ***
 
