@@ -414,7 +414,7 @@
 * [HaxeFlixel](https://haxeflixel.com/)
 * [GB Studio](https://www.gbstudio.dev/) / [GitHub](https://github.com/chrismaltby/gb-studio) / [Subreddit](https://www.reddit.com/r/gbstudio) / [Discord](https://discord.com/invite/bxerKnc)
 * [Flame](https://flame-engine.org/)
-* [GameMaker](https://gamemaker.io/) / [Online](https://yellowafterlife.github.io/GMEdit/)
+* [GameMaker](https://gamemaker.io/) / [Resources](https://github.com/bytecauldron/awesome-gamemaker) / [Online](https://yellowafterlife.github.io/GMEdit/)
 * [Arcade Game Designer](https://jonathan-cauldwell.itch.io/arcade-game-designer) / [Multi-platform](https://jonathan-cauldwell.itch.io/multi-platform-arcade-game-designer)
 * [Pixelbox](https://pixwlk.itch.io/pixelbox)
 * [PQ93](https://charliezip.itch.io/pq93)

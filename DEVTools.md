@@ -477,6 +477,7 @@
 # ► Game Dev Tools
 
 * 🌐 **[Awesome One Person Games](https://github.com/Yonaba/awesome-one-person-games)** - Single Dev Game Examples
+* 🌐 **[Awesome Game Production](https://github.com/vhladiienko/awesome-game-production)** - Game Production Resources
 * ↪️ **[Learn Game Development]()**
 * [Haxe](https://haxe.org/) - Cross-platform Compiler / [Resources](https://github.com/Dvergar/awesome-haxe-gamedev)
 * [libGDX](https://libgdx.com/) - Java Game Dev Framework / [Resources](https://github.com/rafaskb/awesome-libgdx)
@@ -510,12 +511,12 @@
 ## ▷ Game Engines
 
 * 🌐 **[Game Engine Dev](https://github.com/stevinz/awesome-game-engine-dev)** - Game Engine Development Resources
-* 🌐 **[Game Engines](https://github.com/collections/game-engines)** - GitHub Game Engine Collection
+* 🌐 **[EnginesDatabase](https://enginesdatabase.com/)** - Game Engines Database
 * ↪️ **[2D Only Engines]()**
 * ↪️ **[3D Only Engines]()**
 * ⭐ **[Godot](https://godotengine.org/)** / [Resources](https://github.com/godotengine/awesome-godot) / [Input Actions](https://github.com/Orama-Interactive/Keychain)
 * [Unity](https://unity.com/products/unity-personal)
-* Unity Tools - / [Cheat Sheet](https://github.com/NaomiLe1811/Unity_Cheat_Sheet) / [Unity / XNA Framework](https://github.com/BepInEx/BepInEx) / [Post Processing Pipeline](https://github.com/GarrettGunnell/Post-Processing) / [Node Editor](https://github.com/Siccity/xNode)
+* Unity Tools - [Cheat Sheet](https://github.com/NaomiLe1811/Unity_Cheat_Sheet) / [Unity / XNA Framework](https://github.com/BepInEx/BepInEx) / [Post Processing Pipeline](https://github.com/GarrettGunnell/Post-Processing) / [Node Editor](https://github.com/Siccity/xNode)
 * [GDevelop](https://gdevelop.io/) / [GitHub](https://github.com/4ian/GDevelop)
 * [Defold](https://defold.com/)
 * [Bevy Engine](https://bevyengine.org/) / [Extensions](https://bevy-cheatbook.github.io/setup/unofficial-plugins.html)
@@ -534,7 +535,7 @@
 ## ▷ Game Design
 
 * ↪️ **[Design Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/img-tools/)**
-* ↪️ **[Art Resources](https://new.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu/#wiki_.25B7_art_.2F_editing)**
+* ↪️ **[Art Resources](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu/#wiki_.25B7_art_.2F_editing)**
 * ↪️ **[Writing Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools/#wiki_.25B7_writing_tools)**
 * [Nuklear](https://github.com/Immediate-Mode-UI/Nuklear) - Game GUI Creator
 * [HUDSxGUIS](https://www.hudsandguis.com/) - UI Design Concepts
@@ -572,7 +573,7 @@
 * ⭐ **[SpriteFusion](https://www.spritefusion.com/)** - Tilemap Editor / [Discord](https://discord.gg/8sCEAspmBV)
 * [CharPad](https://subchristsoftware.itch.io/charpad-c64-free) - Commodore 64 Graphics Editor
 * [MapEditor](https://www.mapeditor.org/) or [Tilesetter](https://www.tilesetter.org/) - Level Editors
-* [Designer Toolkit](https://ldtk.io/) or [Ogmo Editor](https://ogmo-editor-3.github.io/) - 2D Level Editors
+* [LDtk](https://ldtk.io/) or [Ogmo Editor](https://ogmo-editor-3.github.io/) - 2D Level Editors
 
 Game Map Creators / Editors:
 * [Fantasy Map Generator](https://azgaar.github.io/Fantasy-Map-Generator/)
