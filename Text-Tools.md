@@ -220,13 +220,9 @@
 
 # ► Text Editors / Notes
 
-* 🌐 **[List of Text Editors](https://en.wikipedia.org/wiki/List_of_text_editors)** - Text Editor / Notepad Indexes
+* 🌐 **[List of Text Editors](https://en.wikipedia.org/wiki/List_of_text_editors)** - Text Editor / Notepad Index
 * ↪️ **[Code Editors / IDEs](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/dev-tools#wiki_.25B7_ides_.2F_code_editors)**
 * ⭐ **[Notepad++](https://notepad-plus-plus.org/)** / [Markdown](https://nea.github.io/MarkdownViewerPlusPlus/)
-* ⭐ **[LibreOffice](https://www.libreoffice.org/)** - FOSS Office Suite
-* ⭐ **[OnlyOffice](https://www.onlyoffice.com/)** - FOSS Office Suite
-* ⭐ **[Microsoft Office](https://gravesoft.dev/office_c2r_links)** - Office Suite
-* ⭐ **Microsoft Office Tools** - [Activation](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/system-tools#wiki_.25B7_windows_activation) / [Activation Guide](https://redd.it/1814gmp) / [Hot Keys](https://support.microsoft.com/en-us/office/keyboard-shortcuts-in-microsoft-365-e765366f-24fc-4054-870d-39b214f223fd), [2](https://i.ibb.co/0m9t95b/ebacd47bf83b.png)
 * ⭐ **[Obsidian](https://obsidian.md/)**
 * ⭐ **Obsidian Tools** - [Resources](https://github.com/kmaasrud/awesome-obsidian) / [Share Notes](https://noteshare.space/) / [Live Sync](https://github.com/vrtmrz/obsidian-livesync) / [Backup](https://github.com/denolehov/obsidian-git) / [ChatGPT Addon](https://github.com/logancyang/obsidian-copilot), [2](https://github.com/vasilecampeanu/obsidian-weaver)
 * ⭐ **[Notion](https://www.notion.so/)**
@@ -236,8 +232,6 @@
 * ⭐ **[Logseq](https://logseq.com/)**
 * [Mochi Cards](https://mochi.cards/) or [Silicon](https://github.com/cu/silicon) - Note-Taking / Study Tools
 * [Desklamp](https://desklamp.io/) - Reading / Note Taking / Highlighting Tool / [Guide](https://app.desklamp.io/read?id=46b203c6-d8df-453d-b546-95a8fa7a44b9&mode=explore)
-* [Custom Office](https://gravesoft.dev/office_c2r_custom) - FOSS Office Suite
-* [Calligra](https://calligra.org/) - FOSS Office Suite
 * [FromScratch](https://fromscratch.rocks/) - Note Taking
 * [Kompad](https://kompad.vercel.app/) - Note Taking
 * [LockBook](https://github.com/lockbook/lockbook) - Note Taking
@@ -269,6 +263,17 @@
 * [QOwnNotes](https://www.qownnotes.org/)
 * [FastNotes](https://fastedit.frozenassassine.de/)
 * [Google Keep](https://keep.google.com/)
+
+***
+
+## ▷ Office Suites
+
+* ⭐ **[LibreOffice](https://www.libreoffice.org/)** - FOSS Office Suite
+* ⭐ **[OnlyOffice](https://www.onlyoffice.com/)** - FOSS Office Suite
+* ⭐ **[Microsoft Office](https://gravesoft.dev/office_c2r_links)** - Office Suite
+* ⭐ **Microsoft Office Tools** - [Activation](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/system-tools#wiki_.25B7_windows_activation) / [Activation Guide](https://redd.it/1814gmp) / [Hot Keys](https://support.microsoft.com/en-us/office/keyboard-shortcuts-in-microsoft-365-e765366f-24fc-4054-870d-39b214f223fd), [2](https://i.ibb.co/0m9t95b/ebacd47bf83b.png)
+* [Custom Office](https://gravesoft.dev/office_c2r_custom) - FOSS Office Suite
+* [Calligra](https://calligra.org/) - FOSS Office Suite
 
 ***
 
