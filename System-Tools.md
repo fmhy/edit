@@ -402,6 +402,7 @@
 * [MemTest](https://www.memtest.org/) - Memory Diagnostic Tool
 * [Windows Repair Toolbox](https://windows-repair-toolbox.com/) - Multi-Tool Repair App
 * [Medicat](https://medicatusb.com/) - Computer Diagnostic / Recovery Toolkit
+* [PhoenixPE](https://github.com/PhoenixPE/PhoenixPE) - Recovery Environment
 * [OpenBoardData](https://openboarddata.org/) - Board Repair Data
 * [Magic Trace](https://github.com/janestreet/magic-trace) - Diagnose Performance Issues using Intel Processor Trace
 * [Intel BIOS Guide](https://docs.google.com/document/d/1s43_3YGJIy3zs0ZIksoOmxgrDKnu4ZNhhnXW_NiJZ0I/edit) - Intel BIOS Settings Explanation
