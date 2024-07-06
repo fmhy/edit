@@ -235,10 +235,6 @@
 * [Note Garden](https://notegarden.io/) - Auto Courses
 * [benotes](https://benotes.org/) - Self-hosted Bookmarks and Note Taking
 * [Saber](https://saber.adil.hanney.org/) - Crossplatform Handwritten Notes
-* [Trilium](https://github.com/zadam/trilium)
-* [UseMemos](https://usememos.com/) / [Discord](https://discord.gg/tfPJa4UmAv)
-* [Tiddly](https://tiddlywiki.com/) / [Desktop](https://github.com/tiddly-gittly/TidGi-Desktop)
-* [Joplin](https://joplinapp.org/) / [Firefox](https://addons.mozilla.org/en-US/firefox/addon/joplin-web-clipper/) / [Chrome](https://chromewebstore.google.com/detail/joplin-web-clipper/alofnhikmmkdbbbgpnglcpdollgjjfeken-GB)
 * [Simplenote](https://simplenote.com/) - Crossplatform Note Taking
 * [Butterfly](https://docs.butterfly.linwood.dev/) - Handwritten Notes / [Discord](https://discord.com/invite/97zFtYN) / [Github](https://github.com/LinwoodDev/Butterfly)
 * [EncryptPad](https://evpo.net/encryptpad/) - Encrypted Text Editor
@@ -250,7 +246,11 @@
 * [Flotes](https://flotes.app/) - Markdown Note Taking
 * [tomboy-ng](https://github.com/tomboy-notes/tomboy-ng) - TomBoy Based Text Editor
 * [Helix](https://helix-editor.com/) - Kakuone/Neovim Based Text Editor
+* [UseMemos](https://usememos.com/) / [Discord](https://discord.gg/tfPJa4UmAv)
+* [Tiddly](https://tiddlywiki.com/) / [Desktop](https://github.com/tiddly-gittly/TidGi-Desktop)
+* [Joplin](https://joplinapp.org/) / [Firefox](https://addons.mozilla.org/en-US/firefox/addon/joplin-web-clipper/) / [Chrome](https://chromewebstore.google.com/detail/joplin-web-clipper/alofnhikmmkdbbbgpnglcpdollgjjfeken-GB)
 * [FromScratch](https://fromscratch.rocks/)
+* [Trilium](https://github.com/zadam/trilium)
 * [Kompad](https://kompad.vercel.app/)
 * [MicroPad](https://getmicropad.com/)
 * [WriteDown](https://writedown.app/)
