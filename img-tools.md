@@ -645,12 +645,18 @@
 
 * ⭐ **[Capture2Text](https://capture2text.sourceforge.net/)** - OCR Desktop App
 * ⭐ **[Text Grab](https://github.com/TheJoeFin/Text-Grab)** - Minimal OCR Windows Tool
-*  [i2ocr](https://www.i2ocr.com/) or [OCR.SPACE](https://ocr.space/) - Online OCRs
 * [TextShot](https://github.com/ianzhao05/textshot) - Cross Platform OCR
 * [ImageScanOCR](https://github.com/ttop32/ImageScanOCR) - Windows OCR Tool
 * [Handwriting-OCR](https://github.com/Breta01/handwriting-ocr) - Handwriting OCR
 * [Project Naptha](https://projectnaptha.com/) - Automatic OCR while Browsing Images
-* [2OCR](https://2ocr.com/), [OnlineOCR](https://onlineocr.org/), [NewOCR](https://www.newocr.com/), [Extract Text from Image](https://brandfolder.com/workbench/extract-text-from-image), [ImageToText](https://www.imagetotext.info/) or [OnlineOCR](https://www.onlineocr.net/) - Online OCRs
+* [i2ocr](https://www.i2ocr.com/) - Online OCR
+* [OCR.SPACE](https://ocr.space/) - Online OCR
+* [2OCR](https://2ocr.com/) - Online OCR
+* [OnlineOCR](https://onlineocr.org/) - Online OCR
+* [NewOCR](https://www.newocr.com/) - Online OCR
+* [Extract Text from Image](https://brandfolder.com/workbench/extract-text-from-image) - Online OCR
+* [ImageToText](https://www.imagetotext.info/) - Online OCR
+* [OnlineOCR](https://www.onlineocr.net/) - Online OCR
 
 ***
 
