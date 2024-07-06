@@ -480,11 +480,11 @@
 * 🌐 **[Awesome Game Production](https://github.com/vhladiienko/awesome-game-production)** - Game Production Resources
 * ↪️ **[Learn Game Development]()**
 * [Haxe](https://haxe.org/) - Cross-platform Compiler / [Resources](https://github.com/Dvergar/awesome-haxe-gamedev)
-* [libGDX](https://libgdx.com/) - Java Game Dev Framework / [Resources](https://github.com/rafaskb/awesome-libgdx)
 * [CHIP-8 Research](https://chip-8.github.io/) - CHIP-8 Research
 * [HiddenPalace](https://hiddenpalace.org/) - Game Development Media Archive
 * [Tommti Systems](https://www.tommti-systems.de/go.html?http://www.tommti-systems.de/main-Dateien/files.html) - 3D Benchmark Tools
 * [XeSS](https://github.com/intel/xess) - Increase Framerate of Game
+* [libGDX](https://libgdx.com/) - Java Game Dev Framework / [Resources](https://github.com/rafaskb/awesome-libgdx)
 * [AMD Capsaicin Framework](https://gpuopen.com/capsaicin/) - Direct3D 12 Framework
 * [Serpent.ai](http://serpent.ai/) - Game Agent Framework
 * [Faux on 3D](https://gizmo199.itch.io/fauxton3d) - Sprite Stacking Framework
@@ -526,14 +526,15 @@
 * [microStudio](https://microstudio.itch.io/microstudio)
 * [AnyRPG](https://www.anyrpg.org/) - RPG Engine
 * [RPG Playground](https://rpgplayground.com/) - Simple RPG Creator
-* [Spring RTS](https://springrts.com/ ) - 3D RTS Game Engine
 * [Playerio](https://playerio.com/) - Online Game Engine
 * [stencyl](https://www.stencyl.com/) - Codeless Game Engine
 
 ***
 
-## ▷ Game Design
+## ▷ Asset Creation
 
+* ↪️ **[Pre-made Assets]()**
+* ↪️ **[3D Models / Modeling Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/img-tools#wiki_.25B7_3d_models)**
 * ↪️ **[Design Tools / Resources](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/img-tools/)**
 * ↪️ **[Art Resources](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu/#wiki_.25B7_art_.2F_editing)**
 * ↪️ **[Writing Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools/#wiki_.25B7_writing_tools)**
@@ -546,41 +547,19 @@
 
 ***
 
-## ▷ Asset Creation
-
-* ↪️ **[Pre-made Assets]()**
-* ↪️ **[3D Models / Modeling Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/img-tools#wiki_.25B7_3d_models)**
-* [Game UI Database](https://www.gameuidatabase.com/) - Game UI Database
-* [Game-icons](https://game-icons.net/) - Game Icons
-* [/r/GameAssets](https://www.reddit.com/r/gameassets/) - Community
-* [CraftPix](https://craftpix.net/freebies/)
-* [Kenney](https://www.kenney.nl/)
-* [UnityAssets4Free](https://unityassets4free.com/) - Free Paid Unity Assets
-* [Open Game Art](https://opengameart.org/)
-* [UnityFreaks](https://www.unityfreaks.com/)
-* [GameDevUE](https://t.me/GameDevUE)
-* [SteamGridDB](https://www.steamgriddb.com/)
-* [DevAssets](https://devassets.com/)
-* [Incern](https://www.incern.org/)
-* [GameDev Market](https://www.gamedevmarket.net/)
-* [Vanguard](https://project-vanguard.netlify.app/index.html) / [GitHub](https://github.com/VanguardDev/Vanguard), [xonotic](https://github.com/xonotic) or [Warsow](https://github.com/Warsow) - FPS Game Assets
-
-***
-
 ## ▷ Map Creators / Editors
 
 * ⭐ **[SpriteFusion](https://www.spritefusion.com/)** - Tilemap Editor / [Discord](https://discord.gg/8sCEAspmBV)
-* [CharPad](https://subchristsoftware.itch.io/charpad-c64-free) - Commodore 64 Graphics Editor
-* [MapEditor](https://www.mapeditor.org/) or [Tilesetter](https://www.tilesetter.org/) - Level Editors
-* [LDtk](https://ldtk.io/) or [Ogmo Editor](https://ogmo-editor-3.github.io/) - 2D Level Editors
 
-Game Map Creators / Editors:
-* [Fantasy Map Generator](https://azgaar.github.io/Fantasy-Map-Generator/)
+Fantasy Map Creators / Tools:
+* [Fantasy Map Generator](https://azgaar.github.io/Fantasy-Map-Generator/) - Fantasy Map Creator
 * [Inkarnate](https://inkarnate.com/)
 * [HexHTML](https://hextml.playest.net/)
 * [Inkwellideas](https://inkwellideas.com/free-tools/)
 * [RPG Map Editor 2](https://deepnight.itch.io/tabletop-rpg-map-editor)
 * [MapTool](https://www.rptools.net/toolbox/maptool/)
+* [ProFantasy](https://rpgmaps.profantasy.com/) - Fantasy Map Making Tutorials
+* [Medieval Fantasy City Generator](https://watabou.itch.io/medieval-fantasy-city-generator) - Fantasy City Map Generator
 
 Dungeon Map Creators / Editors:
 * [Dungeon Scrawl](https://probabletrain.itch.io/dungeon-scrawl) / [Subreddit](https://www.reddit.com/r/dungeonscrawl/) / [Discord](https://discord.com/invite/RxyZyXg)
@@ -588,10 +567,11 @@ Dungeon Map Creators / Editors:
 * [donjon](https://donjon.bin.sh/)
 * [One Page Dungeon](https://watabou.itch.io/one-page-dungeon)
 
+* [MapEditor](https://www.mapeditor.org/) or [Tilesetter](https://www.tilesetter.org/) - Level Editors
+* [LDtk](https://ldtk.io/) or [Ogmo Editor](https://ogmo-editor-3.github.io/) - 2D Level Editors
+* [CharPad](https://subchristsoftware.itch.io/charpad-c64-free) - Commodore 64 Graphics Editor
 * [Neighbourhood](https://watabou.itch.io/neighbourhood) - Neighborhood Map Generator
 * [Laigter](https://azagaya.itch.io/laigter) - 2D Texture Map
-* [ProFantasy](https://rpgmaps.profantasy.com/) - Fantasy Map Making Tutorials
-* [Medieval Fantasy City Generator](https://watabou.itch.io/medieval-fantasy-city-generator) - Fantasy City Map Generator
 
 ***
 

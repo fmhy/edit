@@ -404,6 +404,25 @@
 
 ***
 
+## Game Assets
+
+* [Game UI Database](https://www.gameuidatabase.com/) - Game UI Database
+* [Game-icons](https://game-icons.net/) - Game Icons
+* [/r/GameAssets](https://www.reddit.com/r/gameassets/) - Community
+* [CraftPix](https://craftpix.net/freebies/)
+* [Kenney](https://www.kenney.nl/)
+* [UnityAssets4Free](https://unityassets4free.com/) - Free Paid Unity Assets
+* [Open Game Art](https://opengameart.org/)
+* [UnityFreaks](https://www.unityfreaks.com/)
+* [GameDevUE](https://t.me/GameDevUE)
+* [SteamGridDB](https://www.steamgriddb.com/)
+* [DevAssets](https://devassets.com/)
+* [Incern](https://www.incern.org/)
+* [GameDev Market](https://www.gamedevmarket.net/)
+* [Vanguard](https://project-vanguard.netlify.app/index.html) / [GitHub](https://github.com/VanguardDev/Vanguard), [xonotic](https://github.com/xonotic) or [Warsow](https://github.com/Warsow) - FPS Game Assets
+
+***
+
 ## Game Engines
 
 ### 2D Game Engines
@@ -428,13 +447,14 @@
 
 * ⭐ **[Unreal Engine](https://www.unrealengine.com/)**
 * ⭐ **Unreal Engine Tools** - [Unlocker](https://framedsc.com/GeneralGuides/universal_ue4_consoleunlocker.htm) / [Megascans](https://quixel.com/megascans) / [Model Viewer](https://www.gildor.org/en/projects/umodel) / [Model Viewer](https://www.gildor.org/en/projects/umodel)
+* [Spring RTS](https://springrts.com/ ) - 3D RTS Game Engine
 * [Archives Explorer](https://fmodel.app/)
 * [Cave Engine](https://unidaystudio.itch.io/cave-engine)
+* [Panda3D](https://www.panda3d.org/)
 * [OpenXRay](https://github.com/OpenXRay) / [Discord](https://discord.com/invite/sjRMQwv)
 * [cryengine](https://www.cryengine.com/) / [Discord](https://discord.com/invite/cryengine)
 * [armory3d](https://armory3d.org/) / [GitHub](https://github.com/armory3d/armory)
 * [torque3d](https://torque3d.org/) / [GitHub](https://github.com/TorqueGameEngines/Torque3D) / [Discord](https://discord.com/invite/qdAZxT4)
-* [Panda3D](https://www.panda3d.org/)
 
 ***
 
