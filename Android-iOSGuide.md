@@ -62,7 +62,7 @@
 * 🌐 **[Awesome Shizuku](https://github.com/timschneeb/awesome-shizuku)** - Shizuku App Index
 * ⭐ **[F-Droid](https://f-droid.org/)** - FOSS App Installer
 * ⭐ **F-Droid Tools** - [Resources](https://fdroidfamily.codeberg.page/) / [Desktop](https://github.com/mvdan/fdroidcl) / [Build Status](https://codeberg.org/pstorch/F-Droid_Build_Status)
-* ⭐ **F-Droid Clients** - [Droid-ify](https://github.com/Droid-ify/client) / [Neo Store](https://github.com/NeoApplications/Neo-Store)
+* ⭐ **F-Droid Clients** - [Droid-ify](https://github.com/Droid-ify/client) / [Neo Store](https://github.com/NeoApplications/Neo-Store) / [F-Droid Basic](https://f-droid.org/en/packages/org.fdroid.basic/)
 * ⭐ **[FossifyOrg](https://github.com/FossifyOrg)**
 * ⭐ **[Known Repositories](https://forum.f-droid.org/t/known-repositories/)** - F-Droid Repositories
 * [IzzyOnDroid](https://android.izzysoft.de/applists.php) - App Repo / [F-Droid](https://apt.izzysoft.de/fdroid/index.php)
@@ -196,6 +196,7 @@
 * [CanvasDownloader](https://www.canvasdownloader.com/) - Extract Spotify Canvas Walls
 * [/r/iWallpaper](https://www.reddit.com/r/iWallpaper/) or [/r/MobileWallpaper](https://www.reddit.com/r/MobileWallpaper/) - Mobile Wallpaper Subs
 * [wallhaven](https://wallhaven.cc/search?categories=110&purity=100&ratios=portrait) - Wallpapers
+* [WallFlow](https://github.com/ammargitham/WallFlow) - Wallpapers
 * [Wallpaper Engine](https://www.wallpaperengine.io/android/en) - Wallpapers
 * [wallman](https://gitlab.com/colorata/wallman) - Wallpapers
 * [FreshWalls](https://play.google.com/store/apps/details?id=com.techburner.freshwalls) - Wallpapers
@@ -262,6 +263,7 @@
 * [EasyWatermark](https://github.com/rosuH/EasyWatermark) - Add Watermark to Images
 * [Tidy](https://github.com/slavabarkov/tidy) - Text-to-Image / Image-to-Image search
 * [Image Searcher](https://play.google.com/store/apps/details?id=sansunsen3.imagesearcher) - Image Search App
+* [SauceNAO](https://github.com/LuK1337/SauceNAO) - Reverse Image Search
 * [AppMockUp](https://app-mockup.com/) - Screenshot Builder
 * [Scrambled Exif](https://gitlab.com/juanitobananas/scrambled-exif/tree/HEAD), [MetadataRemover](https://github.com/Crazy-Marvin/MetadataRemover) or [exif-eraser](https://github.com/Tommy-Geenexus/exif-eraser) - Remove Image Metadata
 
@@ -273,7 +275,7 @@
 * ⭐ **[Florisboard](https://florisboard.org)** or [AnySoftKeyboard](https://anysoftkeyboard.github.io/) - Incognito Keyboard
 * ⭐ **[FUTO](https://voiceinput.futo.org/)** or [Sayboard](https://github.com/ElishaAz/Sayboard)  - AI Voice Keyboard
 * [NotificationDictionary](https://github.com/tirkarthi/NotificationDictionary) - Dictionary App
-* [DeepLAndroid](https://github.com/sakusaku3939/DeepLAndroid) or [TranslateYou](https://github.com/you-apps/TranslateYou) - Translation Apps
+* [DeepLAndroid](https://github.com/sakusaku3939/DeepLAndroid), [RTranslator](https://github.com/niedev/RTranslator) or [TranslateYou](https://github.com/you-apps/TranslateYou) - Translation Apps
 * [Grammarly](https://rentry.co/FMHYBase64#grammarly-keyboard-premium) - Grammarly Keyboard Premium
 * [UnicodePad](https://play.google.com/store/apps/details?id=jp.ddo.hotmist.unicodepad) / [GitHub](https://github.com/Ryosuke839/UnicodePad) - Emoji / Unicode Manager
 * [Memory Guardian](https://github.com/hashemi-hossein/memory-guardian/) or [Clipboard CopyPaste](https://www.evvasoft.com/ccp.html) - Clipboard Managers
@@ -402,7 +404,7 @@
 * ↪️ **[Privacy Based Browsers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_android_browsers)**
 * ↪️ **[Encrypted Messengers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_encrypted_android_messengers)**
 * ↪️ **[Android 2FA](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25B7_password_privacy_.2F_2fa)**
-* ⭐ **[TrackerControl](https://trackercontrol.org/)**, [Permission Pilot](https://github.com/d4rken-org/permission-pilot), [Exodus](https://reports.exodus-privacy.eu.org/en/) or [HideDroid](https://github.com/Mobile-IoT-Security-Lab/HideDroid) - App Permission Managers
+* ⭐ **[TrackerControl](https://trackercontrol.org/)**, [Permission Pilot](https://github.com/d4rken-org/permission-pilot), [Exodus](https://reports.exodus-privacy.eu.org/en/), [PermissionManagerX](https://github.com/mirfatif/PermissionManagerX) or [HideDroid](https://github.com/Mobile-IoT-Security-Lab/HideDroid) - App Permission Managers
 * ⭐ **[VirusTotal](https://docs.virustotal.com/docs/mobile-apps)** or [Pithus](https://beta.pithus.org/) - APK / URL Virus Scanners
 * ⭐ **[DPITunnel](https://github.com/nomoresat/DPITunnel-android)** or [Intra](https://getintra.org) - Proxies
 * ⭐ **[Shadowsocks-Android](https://github.com/shadowsocks/shadowsocks-android)** - Shadowsocks Proxy App
@@ -554,7 +556,7 @@
 * [Folksable](https://folksable.com/), [unhabits](https://github.com/iSoron/uhabits), [HabitBuilder](https://github.com/ofalvai/HabitBuilder), [MoreDays](https://gitlab.com/wuapps/moredays), [Goals](https://play.google.com/store/apps/details?id=io.rosenpin.goals), [TheFor](https://thefor.xyz/) or [MiindLeak](https://www.mindleak.app/) - Habit Trackers
 * [Farhan](https://github.com/tahaak67/Farhan), [DetoxDroid](https://github.com/flxapps/DetoxDroid) or [StopScroll](https://play.google.com/store/apps/details?id=com.noscroll.antiscroll) - Control Phone Addiction
 * [Ascent](https://play.google.com/store/apps/details?id=com.ascent) - App Blocker
-* [Forest](https://forestapp.cc/), [MyBrain](https://github.com/mhss1/MyBrain), [Success](https://eveningkid.com/success/), [Goodtime](https://github.com/adrcotfas/Goodtime) or [Mind Leak](https://play.google.com/store/apps/details?id=de.mdiener.android.mindleak) - Productivity Trackers
+* [Forest](https://forestapp.cc/), [MyBrain](https://github.com/mhss1/MyBrain), [Success](https://eveningkid.com/success/), [Goodtime](https://github.com/adrcotfas/Goodtime), [timeto](https://github.com/medvedev91/timetome) or [Mind Leak](https://play.google.com/store/apps/details?id=de.mdiener.android.mindleak) - Productivity Trackers
 
 ***
 
@@ -710,7 +712,7 @@
 
 * ⭐ **[Mihon](https://mihon.app/) / [Discord](https://discord.gg/mihon)** - Manga Reader / [Extensions](https://keiyoushi.github.io/extensions/), [2](https://discord.gg/3FbCpdKbdY), [3](https://wotaku.moe/guides/tech/repo) / [Official Forks](https://mihon.app/forks/), [2](https://github.com/null2264/yokai), [3](https://github.com/nekomangaorg/Neko), [4](https://github.com/komikku-app/komikku)
 * ⭐ **[Kotatsu](https://kotatsu.app/) / [Discord](https://discord.gg/NNJ5RgVBC5) / [Telegram](https://t.me/kotatsuapp)** - Manga Reader
-* ⭐ **[Dantotsu](https://dantotsu.app)** - Manga Reader / [GitHub](https://github.com/rebelonion/Dantotsu)
+* ⭐ **[Dantotsu](https://github.com/rebelonion/Dantotsup)** - Manga Reader / [Extension Guide](https://wotaku.moe/guides/tech/repo) / [Discord](https://discord.gg/W9KHG7zzKd)
 * [Neko](https://github.com/nekomangaorg/Neko) / [Discord](https://discord.gg/4vmK42QuKG) - Manga Reader
 * [Perfect Viewer](https://rentry.co/FMHYBase64#perfect-viewer) - Manga File Viewer
 * [Manga Tag](https://www.mangatag.com/) - Manga File Viewer
@@ -733,6 +735,7 @@
 * ⭐ **[CApod](https://github.com/d4rken-org/capod)**, [OpenPods](https://github.com/adolfintel/OpenPods) or [MaterialPods](https://play.google.com/store/apps/details?id=com.pryshedko.materialpods) - AirPod Monitors / Battery Trackers
 * [ListenBrainsz](https://github.com/metabrainz/listenbrainz-android) - Music Tracking / Rating
 * [Spowlo](https://spowlo.com/) - Spotify Audio Downloader / [Telegram](https://t.me/spowlo_chatroom) / [GitHub](https://github.com/BobbyESP/Spowlo/)
+* [Record Player](https://record-player.glitch.me/) - Find Records on Spotify via Pictures
 * [YouTubeDL Android](https://github.com/yausername/youtubedl-android), [ytdlnis](https://github.com/deniscerri/ytdlnis), [Seal](https://github.com/JunkFood02/Seal) or [SongTube](https://github.com/SongTube/SongTube-App) / [Telegram](https://t.me/songtubechannel) - YouTube Audio Downloaders
 * [Redomi](https://github.com/acszo/Redomi/) - Multi-Platform Streaming
 * [Soundcloud](https://play.google.com/store/apps/details?id=com.soundcloud.android&amp;hl=us) or [GrayJay](https://grayjay.app/) - Streaming
@@ -802,7 +805,7 @@
 * [SpiritF](https://www.apkmirror.com/apk/xiaomi-inc/miui-fm-radio/miui-fm-radio-1-0-478-release/) - FM Radio
 * [DI.FM](https://play.google.com/store/apps/details?id=com.audioaddict.di) - Electronic Radio
 * [Nightwave Plaza](https://play.google.com/store/apps/details?id=one.plaza.nightwaveplaza) - Nightwave Radio
-* [LISTEN.moe](https://play.google.com/store/apps/details?id=me.echeung.moemoekyun) - K-Pop Radio
+* [LISTEN.moe](https://github.com/LISTEN-moe/android-app) - K-Pop Radio
 * [Muviz](https://www.sparkine.com/muviz/) - Navbar Audio Visualizer
 * [Inspod](https://play.google.com/store/apps/details?id=com.kdanmobile.android.podsnote) - Podcast Notes
 
@@ -857,7 +860,7 @@
 
 * 🌐 **[EverythingMoe](https://everythingmoe.com/#section-mobileapp)** - Anime App Index / [Discord](https://discord.gg/GuueaDgKdS)
 * ⭐ **[Aniyomi](https://aniyomi.org/)** / [Extension Guide](https://wotaku.moe/guides/tech/repo)
-* ⭐ **[Dantotsu](https://dantotsu.app)** / [Extension Guide](https://wotaku.moe/guides/tech/repo)
+* ⭐ **[Dantotsu](https://github.com/rebelonion/Dantotsu)** / [Extension Guide](https://wotaku.moe/guides/tech/repo) / [Discord](https://discord.gg/W9KHG7zzKd)
 * [AniLab](https://anilab.to/)
 * [Anikin](https://github.com/jerry08/Anikin)
 * [Animiru](https://github.com/Quickdesh/Animiru)
@@ -878,6 +881,7 @@
 * [FreeTV](https://phstudio2.github.io/FreeTV/) / [GitHub](https://github.com/phstudio2/FreeTV)
 * [Tunity](https://tunity.com/) - Hear Muted TVs
 * [Showly OSS](https://github.com/1RandomDev/showly-oss) - TV Tracker / Ad-Free
+* [BoxBox](https://github.com/BrightDV/BoxBox) - Formula 1 News / Rankings
 
 ***
 
