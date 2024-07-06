@@ -550,28 +550,24 @@
 ## ▷ Map Creators / Editors
 
 * ⭐ **[SpriteFusion](https://www.spritefusion.com/)** - Tilemap Editor / [Discord](https://discord.gg/8sCEAspmBV)
-
-Fantasy Map Creators / Tools:
-* [Fantasy Map Generator](https://azgaar.github.io/Fantasy-Map-Generator/) - Fantasy Map Creator
-* [Inkarnate](https://inkarnate.com/)
-* [HexHTML](https://hextml.playest.net/)
-* [Inkwellideas](https://inkwellideas.com/free-tools/)
-* [RPG Map Editor 2](https://deepnight.itch.io/tabletop-rpg-map-editor)
-* [MapTool](https://www.rptools.net/toolbox/maptool/)
-* [ProFantasy](https://rpgmaps.profantasy.com/) - Fantasy Map Making Tutorials
-* [Medieval Fantasy City Generator](https://watabou.itch.io/medieval-fantasy-city-generator) - Fantasy City Map Generator
-
-Dungeon Map Creators / Editors:
-* [Dungeon Scrawl](https://probabletrain.itch.io/dungeon-scrawl) / [Subreddit](https://www.reddit.com/r/dungeonscrawl/) / [Discord](https://discord.com/invite/RxyZyXg)
-* [Dungeon Map Doodler](https://dungeonmapdoodler.com/)
-* [donjon](https://donjon.bin.sh/)
-* [One Page Dungeon](https://watabou.itch.io/one-page-dungeon)
-
 * [MapEditor](https://www.mapeditor.org/) or [Tilesetter](https://www.tilesetter.org/) - Level Editors
 * [LDtk](https://ldtk.io/) or [Ogmo Editor](https://ogmo-editor-3.github.io/) - 2D Level Editors
 * [CharPad](https://subchristsoftware.itch.io/charpad-c64-free) - Commodore 64 Graphics Editor
+* [Fantasy Map Generator](https://azgaar.github.io/Fantasy-Map-Generator/) - Fantasy Map Generator
+* [Inkarnate](https://inkarnate.com/) - Fantasy Map Editor
+* [HexHTML](https://hextml.playest.net/) - Hexagon Fantasy Map Editor
+* [ProFantasy](https://rpgmaps.profantasy.com/) - Fantasy Map Tutorials
+* [Medieval Fantasy City Generator](https://watabou.itch.io/medieval-fantasy-city-generator) - Medieval Fantasy City Generator
+* [donjon](https://donjon.bin.sh/) - RPG Resources / Tools
+* [RPG Map II](https://deepnight.itch.io/tabletop-rpg-map-editor) - RPG Map Editor
+* [MapTool](https://www.rptools.net/toolbox/maptool/) - Virtual Tabletop for RPG Games
+* [Inkwell Ideas](https://inkwellideas.com/free-tools/) - Free Map Tools
 * [Neighbourhood](https://watabou.itch.io/neighbourhood) - Neighborhood Map Generator
-* [Laigter](https://azagaya.itch.io/laigter) - 2D Texture Map
+* [Laigter](https://azagaya.itch.io/laigter) - Map Generator for 2D Sprites
+---
+* [Dungeon Scrawl](https://probabletrain.itch.io/dungeon-scrawl) / [Subreddit](https://www.reddit.com/r/dungeonscrawl/) / [Discord](https://discord.com/invite/RxyZyXg)
+* [Dungeon Map Doodler](https://dungeonmapdoodler.com/) - Draw Dungeon & Terrain Maps
+* [One Page Dungeon](https://watabou.itch.io/one-page-dungeon)
 
 ***
 
@@ -872,7 +868,8 @@ Dungeon Map Creators / Editors:
 
 * ⭐ **[Learn Gamedev](https://github.com/notpresident35/awesome-learn-gamedev)** - Resources
 * ⭐ **[MagicTools](https://github.com/ellisonleao/magictools)** - Resources
-* ⭐ **[develop.games](https://www.develop.games/)** - Game Dev Guide
+* ⭐ **[develop.games](https://www.develop.games/)** - Game Dev Guides
+* ⭐ **[Brackeys](https://www.youtube.com/channel/UCYbK_tjZ2OrIZFBvU6CCMiA)** - Game Dev Tutorials
 * [r/gamedev](https://www.reddit.com/r/gamedev/) - Game Dev Community
 * [Newgrounds Wiki: Game Dev Resources](https://www.newgrounds.com/wiki/creator-resources/game-dev-resources) - Resources
 * [The VG Resource](https://www.vg-resource.com/) - Resources
