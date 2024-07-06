@@ -11730,7 +11730,7 @@ Use this [browser extension](https://github.com/bpc-clone/bpc_updates/releases) 
 * [g4music](https://gitlab.gnome.org/neithern/g4music) - Audio Player
 * [dopamine](https://github.com/digimezzo/dopamine) - Audio Player
 * [AudioTube](https://invent.kde.org/multimedia/audiotube) - Audio Player
-* [Monophony](https://gitlab.com/Vistaus/monophony) - YouTube Music Client
+* [Monophony](https://gitlab.com/zehkira/monophony) - YouTube Music Client
 * [ytermusic](https://github.com/ccgauche/ytermusic/) - YouTube Music Downloader
 * [Deezer Linux](https://github.com/aunetx/deezer-linux) or [DZR](https://github.com/yne/dzr) - Deezer Clients
 * [Myuzi](https://gitlab.com/albanobattistella/myuzi) - Music Streaming App
@@ -11750,7 +11750,7 @@ Use this [browser extension](https://github.com/bpc-clone/bpc_updates/releases) 
 ## ▷ Linux Images
 
 * ⭐ **[Flameshot](https://flameshot.org/)** or [Scrot](https://github.com/resurrecting-open-source-projects/scrot) - Screenshot Tools
-* ⭐ **[TextSnatcher](https://textsnatcher.rf.gd/)** or [Frog](https://tenderowl.com/work/frog/) - Image to Text
+* ⭐ **[TextSnatcher](https://textsnatcher.rf.gd/)** or [Frog](https://getfrog.app/) / [GitHub](https://github.com/TenderOwl/Frog/) - Image to Text
 * [photoshopCClinux](https://github.com/Gictorbit/photoshopCClinux) - Linux Photoshop Installer
 * [V4L2Loopback](https://github.com/umlaeute/v4l2loopback) - Create Virtual Cameras
 * [Drawing](https://maoschanz.github.io/drawing/) - Drawing App
@@ -11767,6 +11767,7 @@ Use this [browser extension](https://github.com/bpc-clone/bpc_updates/releases) 
 
 * 🌐 **[Awesome-ttygames](https://github.com/ligurio/awesome-ttygames)** - Unix ASCII Games
 Linux Gaming Guide
+* 🌐 **[Are We Anti-Cheat Yet?](https://areweanticheatyet.com/)** - Anti-Cheat Game Database / GNU/Linux & Wine/Proton Compatibility 
 * ⭐ **[Comprehensive Gaming Guide](https://linux-gaming.kwindu.eu/index.php?title=Main_Page)** / [2](https://github.com/rimsiw/linux-gaming-omg) / [3](https://web.archive.org/web/20221022121735/https://www.reddit.com/r/Piracy/comments/ndrtlf/comment/gyccwhk/?context=3) / [4](https://www.reddit.com/r/LinuxCrackSupport/wiki/index) - Linux Gaming Guides
 * ⭐ **[protondb](https://www.protondb.com/)**- Proton Compatibility Descriptions / [Steam Extension](https://github.com/Trsnaqe/protondb-community-extension)
 * ⭐ **[Lutris](https://lutris.net/)** - Games Manager
@@ -12039,7 +12040,7 @@ Linux Gaming Guide
 * [Browserosaurus](https://browserosaurus.com/) - Browser Prompter
 * [Orion](https://kagi.com/orion/) - Browser w/ Chrome + Firefox Extension Support / [Discord](https://discord.com/invite/gKh5E6ys6D)
 * [Strongbox](https://strongboxsafe.com/) - Password Manager
-* [Maccy](https://maccy.app/) or [TRex](https://trex.ameba.co/) - Clipboard Managers
+* [Maccy](https://maccy.app/), [ClipBook](https://clipbook.app/) or [TRex](https://trex.ameba.co/) - Clipboard Managers
 * [Left on Read](https://leftonread.me/) or [PyPush](https://github.com/JJTech0130/pypush) / [Discord](https://discord.gg/BVvNukmfTC) - iMessage Clients
 * [LlamaChat](https://www.llamachat.app/) - Llama AI Chat
 * [MacBing](https://goodsnooze.gumroad.com/l/macbing) - Bing Chat
