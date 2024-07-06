@@ -80,7 +80,7 @@
 
 ***
 
-## ▷ NSFW Movies
+## ▷ Adult Movies / Grindhouse
 
 * ⭐ **[NSFW Movie Site Search](https://cse.google.com/cse?cx=006516753008110874046:3-svpblbro8)** / [2](https://cse.google.com/cse?cx=b5a63746fc84a456d)
 * ⭐ **[Film1k](https://www.film1k.com/)**
@@ -97,7 +97,6 @@
 * [VintageClassix](http://www.vintageclassix.com/)
 * [paradisehill](https://en.paradisehill.cc/)
 * [Cat3Movies](https://cat3movie.org/)
-* [PornDune](https://porndune.com/)
 * [pornxtheatre](https://pornxtheatre.com/)
 * [AdultLoad](https://adultload.ws/)
 * [WIPFilms](https://wipfilms.net/)
