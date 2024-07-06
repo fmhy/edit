@@ -130,7 +130,6 @@
 * [ID Ransomware](https://id-ransomware.malwarehunterteam.com/) - Ransomware Identification Tool
 * [ConfigureDefender](https://github.com/AndyFul/ConfigureDefender) - Configure Windows Defender Settings
 * [DefenderUI](https://www.defenderui.com/) - Improved Windows Defender UI
-* [Antivirus Removal Tool](https://antivirus-removal-tool.com/) - Antivirus Software Removal Tool
 
 ***
 
