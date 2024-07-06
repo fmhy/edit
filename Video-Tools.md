@@ -297,7 +297,7 @@
 * ↪️ **[Twitch Video Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/social-media#wiki_.25B7_twitch_downloaders)**
 * ⭐ **[Download Helper](https://www.downloadhelper.net/)**, [Cococut](https://cococut.net/), [FetchV](https://fetchv.net/) or [MPMux](https://mpmux.com/) - Extensions
 * ⭐ **[YT-DLP](https://github.com/yt-dlp/yt-dlp)** - Multi-Site / CLI / [Easy Installer](https://github.com/kazukikasama/youtube-dlp-gui-installer), [GUI](https://github.com/StefanLobbenmeier/youtube-dl-gui)
-* ⭐ **[cobalt](https://cobalt.tools/)** - Multi-Site / Online
+* ⭐ **[cobalt](https://cobalt.tools/)** - Multi-Site / Online / [Instances](https://instances.hyper.lol/)
 * ⭐ **[9xbuddy](https://9xbuddy.com/)**, [2](https://9xbuddy.online/) or [3](https://9xbuddy.in/) - Multi-Site / Online
 * ⭐ **[Lux](https://github.com/iawia002/lux)** - Multi-Site / CLI
 * [VideoHelp Forum](https://forum.videohelp.com/) - All Things Media
