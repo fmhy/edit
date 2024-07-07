@@ -152,7 +152,9 @@
 * [Taplink](https://taplink.at/)
 * [Lynk](https://lynk.id/)
 * [Linkezo](https://linkezo.com/)
+* [Hipolink](https://hipolink.net/)
 * [Linkr](https://linkr.com/)
+* [LinkPop](https://linkpop.com/)
 * [LinkBun](https://linkbun.io)
 * [pronouns.cc](https://pronouns.cc/) - Share Preferred Pronouns
 * [seemless](https://www.linkinbio.website/) - Link in Bio for Tiktok & Instagram
@@ -674,7 +676,7 @@
 * [EditThisCookie](https://www.editthiscookie.com/) or [Cookie-Editor](https://cookie-editor.cgagnier.ca/) - Cookies Managers
 * [Get-cookies.txt](https://github.com/kairi003/Get-cookies.txt-LOCALLY) or [ExportCookies](https://github.com/rotemdan/ExportCookies) - Cookies Exporters
 * [Cookie-Editor](https://cookie-editor.com/) - Cooke Editor
-* [Link Gopher](https://sites.google.com/site/linkgopher/), [Copy Selected Links](https://addons.mozilla.org/en-US/firefox/addon/copy-selected-links/) or [CopyLinks++](https://github.com/MichelePezza/CopyLinksplusplus) - Extract / Copy Links on Webpages
+* [Link Gopher](https://sites.google.com/site/linkgopher/), [Link Extractor](https://link-extractor.cssnr.com/), [Copy Selected Links](https://addons.mozilla.org/en-US/firefox/addon/copy-selected-links/) or [CopyLinks++](https://github.com/MichelePezza/CopyLinksplusplus) - Extract / Copy Links on Webpages
 * [Distil](https://distill.io/) or [Update Scanner](https://sneakypete81.github.io/updatescanner/) - Page Change Detection / Notification
 * [Offline Mode](https://mybrowseraddon.com/offline-mode.html) - Disconnect Browser from the Internet
 * [Page Edit](https://mybrowseraddon.com/page-edit.html) - Turn Webpages into Editable Documents
