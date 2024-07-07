@@ -58,19 +58,6 @@
 
 ***
 
-## ▷ Alternative Software Sites
-
-* ⭐ **[AlternativeTo](https://alternativeto.net/)** - Crowdsourced Recommendations
-* [SaaSHub](https://www.saashub.com/)
-* [Alternative.me](https://alternative.me/)
-* [opensourcealternative.to](https://www.opensourcealternative.to/) - Open-source Alternatives
-* [TopAlter.com](https://topalter.com/)
-* [ListAlternative](https://www.listalternative.com/)
-* [Appmus](https://appmus.com/)
-* [SimilarSiteSearch](https://www.similarsitesearch.com/), [Sitelike.org](https://www.sitelike.org/), [SitesLike](https://www.siteslike.com/) - Similar Site Lists
-
-***
-
 # ► Free Stuff
 
 * ⭐ **[OneHack](https://onehack.us/)** - Giveaway Community / [Telegram](https://t.me/Official_OneHack)

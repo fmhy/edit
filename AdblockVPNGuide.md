@@ -159,7 +159,7 @@
 * ⭐ **[Privacy.Sexy](https://privacy.sexy/)** - Privacy Scripts
 * ⭐ **[Tails](https://tails.net/)**, [whonix](https://www.whonix.org/) or [Qubes](https://www.qubes-os.org/) - Privacy-Based Operating Systems
 * [ShutUp10](https://www.oo-software.com/en/shutup10), [W10Privacy](https://www.w10privacy.de/english-home/) or [private-secure-windows](https://github.com/troennes/private-secure-windows) - Antispy Tools
-* [Telemetry.md](https://gist.github.com/ave9858/a2153957afb053f7d0e7ffdd6c3dcb89) - Disable Windows 10/11 Telemetry
+* [Telemetry.md](https://gist.github.com/ave9858/a2153957afb053f7d0e7ffdd6c3dcb89), [2](https://rentry.co/telemetry) - Disable Windows 10/11 Telemetry
 * [Frigate](https://frigate.video/), [Smart Sec Cam](https://github.com/scottbarnesg/smart-sec-cam) or [ZoneMinder](https://zoneminder.com/) - Security Camera Systems
 * [Team Elite](https://www.te-home.net/) or [Technet24](https://technet24.ir/) - Security Software / [Translator](https://github.com/FilipePS/Traduzir-paginas-web)
 * [Big Ass Data Broker Opt-Out List](https://github.com/yaelwrites/Big-Ass-Data-Broker-Opt-Out-List) - List of Data Broker Opt-Out Resources
@@ -185,20 +185,17 @@
 
 ## ▷ Privacy Indexes
 
-* ⭐ **[Lissy93's Awesome Privacy](https://awesome-privacy.xyz/)** / [GitHub](https://github.com/lissy93/awesome-privacy) or [pluja's Awesome Privacy](https://pluja.github.io/awesome-privacy/) / [GitHub](https://github.com/pluja/awesome-privacy) - List of Privacy Software & Services
-* ⭐ **[Digital Defense](https://digital-defense.io/)** - Personal Checklist for Privacy & Security
-* ⭐ **[The Hitchhiker’s Guide](https://anonymousplanet.org/)** - Extensive Guide to Online Anonymity
 * ⭐ **[Privacy Guides](https://www.privacyguides.org/)** - Educational Guide
+* ⭐ **[Digital Defense](https://digital-defense.io/)** - Personal Checklist for Privacy & Security
 * ⭐ **[Surveillance Self-Defense](https://ssd.eff.org/)** - Educational Guide
 * ⭐ **[The New Oil](https://thenewoil.org/)** - Educational Guide
+* [Lissy93's Awesome Privacy](https://awesome-privacy.xyz/) / [GitHub](https://github.com/lissy93/awesome-privacy) or [pluja's Awesome Privacy](https://pluja.github.io/awesome-privacy/) / [GitHub](https://github.com/pluja/awesome-privacy) - List of Privacy Software & Services
 * [Defensive Computing Checklist](https://defensivecomputingchecklist.com/) - Educational Guide
 * [Ken Harris](https://cyber.kenharris.io/) - Educational Guide
 * [AvoidTheHack](https://avoidthehack.com/) - Educational Blog
-* [SNAKE WAREZ](https://pilssken.neocities.org/warez/) - Privacy Tools
-* [Privacy Tools List](https://privacytoolslist.com/) - Privacy Tools
 * [Hostux](https://hostux.network/) - Privacy Tools
+* [The Hitchhiker’s Guide](https://anonymousplanet.org/) - Extensive Guide to Online Anonymity
 * [Privacy Settings](https://github.com/StellarSand/privacy-settings) - Privacy Setting Guides
-* [Alternative Internet](https://github.com/redecentralize/alternative-internet) - Collection of Decentralised Tools
 * [EncryptedList](https://encryptedlist.xyz/) - List of Encrypted Services/Apps
 * [ProductivePrivacy](https://productiveprivacy.com/) - Privacy-Focused Productivity Apps
 
@@ -411,7 +408,7 @@
 ***
 
 * 🌐 **[VPN Comparisons](https://redd.it/171h9qa)** or [Techlore Chart](https://techlore.tech/vpn) - VPN Comparison Charts
-* 🌐 **[VPN Relationships](https://kumu.io/sobeyharker/vpn-relationships)** - VPN Relationship Chart
+* 🌐 **[VPN Relationships](https://kumu.io/Windscribe/vpn-relationships)** - VPN Relationship Chart
 * ⭐ **[/r/VPNs](https://www.reddit.com/r/vpns/)** - VPN Help and Discussion
 * ⭐ **[AirVPN](https://airvpn.org/)**
 * ⭐ **[Windscribe](https://windscribe.com)** - Free Version Available / [Relief Codes](https://blog.windscribe.com/tag/relief-codes/)

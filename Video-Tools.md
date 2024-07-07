@@ -74,7 +74,7 @@
 * ⭐ **[MKVToolNix](https://mkvtoolnix.download/)** - MKV Editing Tools
 * ⭐ **[archived-things](https://sometimes-archives-things.github.io/archived-things/)**, [The Encoding Guide](https://encoding-guide.neocities.org/) or [Silentaperture](https://silentaperture.gitlab.io/mdbook-guide/) - Video Encoding Guides
 * ⭐ **[Disc Rip](https://nullish.cat/blog/disc-rip)** - Disc Ripping Guide / [Mirror](https://rentry.org/disc-rip)
-* ⭐ **[Basics to the Art of Remuxing](https://rentry.co/Remuxing)** or [fs927](https://rentry.org/fs927) - Learn how to Remux Videos
+* ⭐ **[Basics to the Art of Remuxing](https://rentry.co/Remuxing)** - Learn how to Remux Videos
 * [Swivel](https://www.newgrounds.com/wiki/creator-resources/flash-resources/swivel) - SWF to Video Converter
 * [DDVT](https://forum.doom9.org/showthread.php?t=183479) - Dolby Vision RPU Demuxing / Injecting / Editing
 * [MKV Muxing Batch GUI](https://github.com/yaser01/mkv-muxing-batch-gui) - Mux Videos
