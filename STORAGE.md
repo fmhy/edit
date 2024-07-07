@@ -419,7 +419,9 @@
 * [SteamGridDB](https://www.steamgriddb.com/)
 * [DevAssets](https://devassets.com/)
 * [Incern](https://www.incern.org/)
-* [GameDev Market](https://www.gamedevmarket.net/)
+* [GameDevAssets](https://www.gamedevmarket.net/category/3d/?type=free)
+* [xonotic](https://github.com/xonotic) - FPS Game Assets
+* [Warsow](https://github.com/Warsow) - FPS Game Assets
 
 ***
 
