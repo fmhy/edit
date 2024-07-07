@@ -4748,7 +4748,7 @@ https://aniwow.in/ has only dubs though
 * ↪️ **[Twitch Adblockers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/social-media#wiki_.25B7_twitch_adblockers)**
 * ↪️ **[Bypass Article Paywalls](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools#wiki_.25B7_paywall_bypass)**
 * ⭐ **[uBlock Origin](https://github.com/gorhill/uBlock#installation)** - Adblocker
-* ⭐ **uBO Resources** - [Report Issues](https://github.com/uBlockOrigin/uAssets/issues) / [Report Hosts](https://github.com/uBlockOrigin/uAssets/discussions/17361) / [Guide](https://addons.mozilla.org/blog/ublock-origin-everything-you-need-to-know-about-the-ad-blocker/) / [Advanced](https://youtu.be/2lisQQmWQkY) / [Redundant Extensions](https://github.com/arkenfox/user.js/wiki/4.1-Extensions/#-dont-bother)
+* ⭐ **uBO Resources** - [Report Issues](https://github.com/uBlockOrigin/uAssets/issues) / [Report Hosts](https://github.com/uBlockOrigin/uAssets/discussions/17361) / [Guides](https://www.reddit.com/r/uBlockOrigin/wiki/index/) / [Advanced](https://youtu.be/2lisQQmWQkY) / [Redundant Extensions](https://github.com/arkenfox/user.js/wiki/4.1-Extensions/#-dont-bother)
 * ⭐ **[SponsorBlock](https://sponsor.ajay.app/)** - Skip Sponsored YouTube Ads / [Script](https://github.com/mchangrh/sb.js), [2](https://greasyfork.org/en/scripts/453320)
 * ⭐ **[BehindTheOverlay](https://github.com/NicolaeNMV/BehindTheOverlay)** - Hide Website Overlays
 * ⭐ **[OpenVideo](https://openvideofs.github.io)** or [Stream-Bypass](https://github.com/ByteDream/stream-bypass) - Play Videos in Ad-Free Player
@@ -5050,6 +5050,7 @@ https://aniwow.in/ has only dubs though
 * ⭐ **[Proton Mail](https://proton.me/mail)** - Encrypted Email
 * [Tuta](https://tuta.com/) - Encrypted Email
 * [Disroot](https://disroot.org/en/services/email) - Encrypted Email
+* [lil mail server](https://uq.ci/) - Simple Privacy-Focused Email
 * [EmailPrivacyTester](https://www.emailprivacytester.com/) - Email Privacy Test
 * [SecLists](https://seclists.org/) - Security Mailing List Archive
 * [Phish.ly](https://phish.ly/) - Scan Suspicious Emails
@@ -5151,7 +5152,6 @@ https://aniwow.in/ has only dubs though
 * ⭐ **[Riseup](https://riseup.net/en/vpn)** - Free VPN / [Config CLI Script](https://github.com/kmille/riseup-vpn-configurator)
 * [Mullvad](https://mullvad.net/) - [No-Logging](https://mullvad.net/en/blog/2023/4/20/mullvad-vpn-was-subject-to-a-search-warrant-customer-data-not-compromised/) / [Port Warning](https://mullvad.net/en/blog/2023/5/29/removing-the-support-for-forwarded-ports/)
 * [IVPN](https://www.ivpn.net/) - [No Logging](https://www.ivpn.net/knowledgebase/privacy/how-do-we-react-when-requested-by-an-authority-for-information-relating-to-a-customer/) / [Port Warning](https://www.ivpn.net/blog/gradual-removal-of-port-forwarding/)
-* [OVPN](https://www.ovpn.com/) - [No Logging](https://www.ovpn.com/en/blog/ovpn-wins-court-order)
 * [VPN Gate](https://www.vpngate.net/en/download.aspx) - Free VPN / [Note](https://pastebin.com/TrSw7EpF)
 * [PrivadoVPN](https://privadovpn.com/) - Free VPN / Unlimited Accounts via [Temp Mail](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools#wiki_.25B7_temp_mail)
 * [Leap VPN](https://leap.se/) - Free VPNs
