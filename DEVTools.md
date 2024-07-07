@@ -478,7 +478,7 @@
 
 * 🌐 **[Awesome One Person Games](https://github.com/Yonaba/awesome-one-person-games)** - Single Dev Game Examples
 * 🌐 **[Awesome Game Production](https://github.com/vhladiienko/awesome-game-production)** - Game Production Resources
-* ↪️ **[Learn Game Development]()**
+* ↪️ **[Learn Game Development](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/dev-tools#wiki_.25B7_game_development)**
 * [Haxe](https://haxe.org/) - Cross-platform Compiler / [Resources](https://github.com/Dvergar/awesome-haxe-gamedev)
 * [CHIP-8 Research](https://chip-8.github.io/) - CHIP-8 Research
 * [HiddenPalace](https://hiddenpalace.org/) - Game Development Media Archive
@@ -512,8 +512,8 @@
 
 * 🌐 **[Awesome Game Engine](https://github.com/stevinz/awesome-game-engine-dev)** - Game Engine Development Resources
 * 🌐 **[EnginesDatabase](https://enginesdatabase.com/)** - Game Engines Database
-* ↪️ **[2D Only Engines]()**
-* ↪️ **[3D Only Engines]()**
+* ↪️ **[2D Only Engines](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_2d_game_engines)**
+* ↪️ **[3D Only Engines](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_3d_game_engines)**
 * ⭐ **[Godot](https://godotengine.org/)** / [Resources](https://github.com/godotengine/awesome-godot) / [Input Actions](https://github.com/Orama-Interactive/Keychain)
 * [Unity](https://unity.com/products/unity-personal)
 * Unity Tools - [Cheat Sheet](https://github.com/NaomiLe1811/Unity_Cheat_Sheet) / [Unity / XNA Framework](https://github.com/BepInEx/BepInEx) / [Post Processing Pipeline](https://github.com/GarrettGunnell/Post-Processing) / [Node Editor](https://github.com/Siccity/xNode)
@@ -533,7 +533,7 @@
 
 ## ▷ Asset Creation
 
-* ↪️ **[Pre-made Assets]()**
+* ↪️ **[Download Game Assets](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_game_assets)**
 * ↪️ **[3D Models / Modeling Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/img-tools#wiki_.25B7_3d_models)**
 * ↪️ **[Design Tools / Resources](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/img-tools/)**
 * ↪️ **[Art Resources](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu/#wiki_.25B7_art_.2F_editing)**
