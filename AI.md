@@ -122,9 +122,9 @@
 
 * 🌐 **[EvalPlus Leaderboard](https://evalplus.github.io/leaderboard.html)** or [BigCode](https://huggingface.co/spaces/bigcode/bigcode-models-leaderboard) - Coding AI Leaderboards
 * 🌐 **[Awesome AI Agents](https://github.com/e2b-dev/awesome-ai-agents)** - Coding / Programming AIs
+* ⭐ **[Codeium](https://codeium.com/)** - Coding AI
 * ⭐ **[Pieces](https://pieces.app/) / [Docs](https://docs.pieces.app)** - Multi-LLM Coding AI / GPT-4 for Free
 * [Cursor](https://cursor.sh/) - Coding AI
-* [Codeium](https://codeium.com/) - Coding AI
 * [tabnine](https://www.tabnine.com/) - Coding AI
 * [ImageCook](https://imgcook.com) / [GitHub](https://github.com/imgcook/imgcook) - Coding AI
 * [CodeWhisperer](https://aws.amazon.com/codewhisperer/) - Coding AI
@@ -134,9 +134,9 @@
 * [Devv](https://devv.ai/) - Coding AI
 * [Cody](https://about.sourcegraph.com/cody) - Coding AI
 * [OpenDevin](https://github.com/OpenDevin/OpenDevin) - Coding AI
-* [CodiumAI](https://www.codium.ai/) - Coding AI
 * [continue](https://continue.dev/) - Coding AI
 * [Bito AI](https://bito.ai/) - Coding AI
+* [CodiumAI](https://www.codium.ai/) - Coding AI
 * [Blackbox](https://www.blackbox.ai/) - Coding AI
 * [Codel](https://github.com/semanser/codel) - Coding AI
 * [CollectivAI](https://chat.collectivai.com/) - Coding AI
@@ -264,6 +264,7 @@
 * [AIGallery](https://aigallery.app/) / Unlimited
 * [ComfyUI Web](https://comfyuiweb.com/) / Unlimited
 * [Recraft](https://www.recraft.ai/) / Unlimited
+* [PicSynth](https://www.picsynth.me/generation) / Unlimited
 * [ImageLabs](https://editor.imagelabs.net/) / Unlimited
 * [Pollinations](https://pollinations.ai/) / Unlimited / [Discord](https://discord.com/invite/8HqSRhJVxn)
 * [PicFinder](https://picfinder.ai/) / Unlimited
@@ -273,6 +274,7 @@
 * [Adobe Firefly](https://firefly.adobe.com/) / 25 Monthly / [Discord](https://discord.com/invite/dJnsV5s8PZ) / Sign-Up Required
 * [AITurbo](https://app.aitubo.ai/) / 25 Daily / [Discord](https://discord.gg/qTu6YsRn7F)
 * [Artsio](https://artsio.xyz/) / 20 Daily
+* [Yodayo](https://yodayo.com/) / 15 Daily
 * [Maze.guru](https://maze.guru/gallery) / 12 Daily
 * [DreamLike](https://dreamlike.art) / 12 Daily
 * [Craiyon](https://www.craiyon.com/) / 10 Daily / [Github](https://github.com/borisdayma/dalle-mini) / [Colab](https://colab.research.google.com/github/borisdayma/dalle-mini/blob/main/tools/inference/inference_pipeline.ipynb)

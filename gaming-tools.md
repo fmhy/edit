@@ -189,6 +189,7 @@
 * ⭐ **[Playit.gg](https://playit.gg/)** - Multiplayer Fix / [Discord](https://discord.gg/AXAbujx)
 * ⭐ **[TrackyServer](https://www.trackyserver.com/)** - Find Private Multiplayer Servers
 * ⭐ **[Find-PlayDate](https://www.find-playdate.com/)** - Find People to Play Games With
+* [Nucleus Co-op](https://github.com/SplitScreen-Me/splitscreenme-nucleus) - Local Split-Screen PC Multiplayer
 * [Liquipedia](https://liquipedia.net/) - Competitve Gaming / Esports Wiki / [Discord](https://discord.com/invite/liquipedia)
 * [zerotier](https://www.zerotier.com/) - Multiplayer Fix
 * [Radmin](https://www.radmin-vpn.com/) - Multiplayer Fix / [Discord](https://discord.com/invite/8MapDM7m96)
@@ -271,7 +272,8 @@
 * [Hidden Fallout 4 Mods](https://rentry.co/89gads), [2](https://docs.google.com/document/d/1Im5Mg-l2btRsYVOjaJa0slrjDcXNvi41J5pHw_Zuwqw/edit?usp=sharing) - Fallout 4 Mods Removed from Nexus
 * [UGX Mods](https://www.ugx-mods.com/) - COD Zombies Mods / [Discord](https://discord.gg/g9S2nSp)
 * [RimWorldBase](https://www.rimworldbase.com/) - RimWorld Mods
-* [NFL2KMod](https://www.nfl2kmod.com/ ) - NFL Game Mods
+* [PvZ Link Server](https://discord.gg/TySsGQWB5A) - Plants vs Zombies Mods
+* [NFL2KMod](https://www.nfl2kmod.com/) - NFL Game Mods
 * [StellarisMods](http://stellarismods.net/) - Stellaris Mods
 * [SMods](https://smods.ru/) - Cities: Skylines Mods
 * [MDMC](https://mdmc.moe/) - Muse Dash Mods / [Discord](https://discord.com/invite/mdmc)
@@ -365,6 +367,7 @@
 * [Board Game Breakdown](https://boardgamebreakdown.com/) - Board Game Reviews
 * [MoreGamesLike](https://www.moregameslike.com/) or [Games Like Finder](https://gameslikefinder.com/) - Find Similar Games
 * [DigitalDreamDoor](https://digitaldreamdoor.com/pages/games.html) - List of the Best Games
+* [Are We Anti-Cheat Yet?](https://areweanticheatyet.com/) - Anti-Cheat Game Database / GNU/Linux or Wine/Proton Compatibility 
 * [Unseen64](https://www.unseen64.net/) - Cancelled / Lost Games
 
 ***
@@ -525,7 +528,7 @@
 * ↪️ **[Minecraft Launchers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_minecraft_launchers)** - [Beta](https://betacraft.uk/) / [Bedrock](https://bedrocklauncher.github.io/)
 * ↪️ **[Minecraft Mods](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_minecraft_mods)**
 * ↪️ **[Minecraft Optimization](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_minecraft_optimization_mods)**
-* ⭐ **[Eaglercraft](https://eaglercraft.com/)** - Browser Minecraft / [Note](https://pastebin.com/wpDZzgN5) / [Source](https://git.eaglercraft.rip/eaglercraft) / [Client](https://eaglercraftx1-8.github.io/1.8/resent4.0/index.html) / [Mod Client](https://eaglerforge.github.io/) / [Mod Search](https://eaglerrinth.github.io/)  / [Code Mods](https://eaglerforge-builder.vercel.app/)
+* ⭐ **[Eaglercraft](https://eaglercraft.com/)** - Browser Minecraft / [Note](https://pastebin.com/wpDZzgN5) / [Source](https://git.eaglercraft.rip/eaglercraft) / [Client](https://eaglercraftx1-8.github.io/1.8/resent4.0/index.html) / [Mod Client](https://eaglerforge.github.io/) / [Mod Search](https://eaglerrinth.github.io/)  / [Code Mods](https://eaglerforge-builder.vercel.app/) / [Eaglercrack](https://eaglercrack.net/)
 * ⭐ **[Minecraft Wiki](https://minecraft.wiki/)** or [DigiMinecraft](https://www.digminecraft.com/) - Minecraft Resources / Guides
 * ⭐ **[MCModdingGuide](https://rentry.org/MCModdingGuide)** - Minecraft Modding Guide
 * ⭐ **[Couleur Tweak Tips](https://ctt.cx/)** - Minecraft Tweaks / Tips / [Discord](https://discord.gg/CTT)
@@ -563,7 +566,7 @@
 * [ShadersMods](https://shadersmods.com/) or [MinecraftShader](https://minecraftshader.com/) - Minecraft Shaders
 * [Iris Shaders](https://modrinth.com/mod/iris) - Fabric Shadermod for Minecraft
 * [Block Palettes](https://www.blockpalettes.com/) - Block Color Palettes
-* [Laby](https://laby.net/) - Minecraft User Search / Skin Library / [Discord](https://discord.com/invite/8JBMHDfWKp)
+* [Laby](https://laby.net/) / [Discord](https://discord.com/invite/8JBMHDfWKp), [MinecraftSkins](https://www.minecraftskins.com/) or [MSkins](https://mskins.net/en) - Minecraft Skins
 * [Ely.by](https://ely.by/) - Skin System / Authorization
 * [Nova Skin](https://minecraft.novaskin.me/) or [Blockbench](https://www.blockbench.net/)- Minecraft Skin Editor
 * [MinecraftCapes](https://minecraftcapes.net/) or [Capes](https://modrinth.com/mod/capes) - Minecraft Capes

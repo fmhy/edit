@@ -32,7 +32,7 @@
 
 ## ▷ Streaming / البث
 
-* ⭐ **[FaselHD](https://www.faselhds.world/)** - Movies / TV / Anime / Sub / 1080p / Use Adblocker
+* ⭐ **[FaselHD](https://www.faselhd.world/)** - Movies / TV / Anime / Sub / 1080p / Use Adblocker
 * ⭐ **[RunTV](https://runtv.cc/)** - Anime / Sub / 1080p
 * [ArabLionz](https://arlionztv.pro/) - Movies / TV / Sub / 1080p
 * [egydead](https://egydead.space/) - Movies / TV / Anime / Sub / 1080p
@@ -492,6 +492,7 @@
 
 * [AB-Maps](https://www.abmaps.com/) - Map Tool
 * [WizdomSubs](https://wizdom.xyz/) or [Ktuvit](https://www.ktuvit.me/) - Subtitles
+* [TranslationsMovieHEB](https://t.me/translationsmoviesheb) - Request Subtitle Translations
 
 ## ▷ Streaming / הזרמה
 

@@ -130,7 +130,6 @@
 * [ID Ransomware](https://id-ransomware.malwarehunterteam.com/) - Ransomware Identification Tool
 * [ConfigureDefender](https://github.com/AndyFul/ConfigureDefender) - Configure Windows Defender Settings
 * [DefenderUI](https://www.defenderui.com/) - Improved Windows Defender UI
-* [Antivirus Removal Tool](https://antivirus-removal-tool.com/) - Antivirus Software Removal Tool
 
 ***
 
@@ -497,8 +496,7 @@
 * [UnblockSites](https://unblocksites.online/)
 * [Proxyium](https://proxyium.com/)
 * [Proxy Site](https://proxysite.cloud/)
-* [Google Translate](https://translate.google.com/) - [How to use](https://redd.it/fawkjy)
-* [Proxy Scrape](https://github.com/JaredLGillespie/proxyscrape) - Python Library for Retrieving Free Proxies
+* [Google Translate](https://translate.google.com/) / [Proxy Explanation](https://redd.it/fawkjy), [2](https://ibb.co/BtWc8ML)
 * [Proxy-Checker](https://proxy-checker.net/), [proxy-scraper](https://github.com/iw4p/proxy-scraper), [What is my Proxy](http://www.whatismyproxy.com/), [proxy-scraper-checker](https://github.com/monosans/proxy-scraper-checker), [Socker](https://github.com/TheSpeedX/socker) or [Unfx Proxy Checker](https://openproxy.space/software/proxy-checker) / [GitHub](https://github.com/openproxyspace/unfx-proxy-checker) - Proxy Scrapers / Checkers
 * [CheckSocks5](https://checksocks5.com/) - Socks5 Proxy Checker
 * [Proxynova](https://www.proxynova.com/proxy-server-list/country-ir/) - Iranian Proxies

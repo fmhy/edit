@@ -52,6 +52,7 @@
 * [Student Developer Pack](https://education.github.com/pack) - Free Developer Tools for Students
 * [AppFlowy](https://appflowy.io/) / [GitHub](https://github.com/AppFlowy-IO/AppFlowy) - Project Workspace
 * [DevDeals](https://www.devdeals.org/) - Free Tools / Promotions for Developers
+* [GitBook](https://www.gitbook.com/) or [DocMost](https://docmost.com/) - Document Collaboration
 * [Codever](https://www.codever.dev/) - Bookmarks Manager for Developers
 * [Media Chrome](https://www.media-chrome.org/) - Media Player Elements / [GitHub](https://github.com/muxinc/media-chrome)
 * [ZealDocs](https://zealdocs.org/) - Offline Document Viewer
@@ -270,7 +271,6 @@
 * [GitKraken](https://www.gitkraken.com/), [RelaGit](https://rela.dev/), [Sourcetree](https://www.sourcetreeapp.com/), [lazygit](https://github.com/jesseduffield/lazygit) or [gitui](https://github.com/Extrawurst/gitui) - Git GUIs
 * [Gut](https://gut-cli.dev/), [Jujutsu](https://github.com/martinvonz/jj) or [gitu](https://github.com/altsem/gitu) - Git CLI / TUI
 * [SparkleShare](https://sparkleshare.org) / [GitHub](https://github.com/hbons/SparkleShare) - Git Collab Tool
-* [GitBook](https://www.gitbook.com/) - Document Collaboration
 * [Git-notify](https://github.com/jevakallio/git-notify) - Embed Announcements into Git Commit Messages
 * [Allstar](https://github.com/ossf/allstar) - Git Repository Security App
 * [git-bug](https://github.com/MichaelMure/git-bug) - Git Embedded Bug Tracker
@@ -767,6 +767,7 @@
 * [Computerphile](https://www.youtube.com/@Computerphile/) or [CSDojo](https://www.youtube.com/@CSDojo) - Computer Science YouTube Channels
 * [ApressOpen](https://www.apress.com/us/apress-open/apressopen-titles) - Computer Science Books
 * [Papers We Love](https://paperswelove.org/) - Computer Science Research Papers
+* [CS Academy](https://csacademy.com/) - Interactive Computer Science Lessons
 * [NandGame](https://nandgame.com/) - Computer Building Puzzle
 * [From Nand To Tetris](https://www.nand2tetris.org/course) - Computer Building Lesson
 * [Copetti](https://www.copetti.org/) - In-depth Console Architecture Analysis / [GitHub](https://github.com/flipacholas/Architecture-of-consoles)
@@ -1317,7 +1318,7 @@
 * [Lorem.space](https://lorem.space/), [Placeholdifier](https://github.com/pomber/placeholdifier), [PlaceHolder](https://placeholder.pics/), [PicSum](https://picsum.photos/) or [FakeIMG](https://fakeimg.pl/) - Site Placeholder Images
 * [MinimalAvatars](https://minimalavatars.com/) - Minimal Site Avatars
 * [Visiwig](https://www.visiwig.com/) - Copy / Paste Site Graphics
-* [WebDesigner](https://webdesigner.withgoogle.com/), [T3](https://github.com/tooll3/t3), [Theatre.js](https://www.theatrejs.com/) / [GitHub](https://github.com/theatre-js/theatre), [GSAP](https://gsap.com/), [Stylie](https://jeremyckahn.github.io/stylie/), [RenderForest](https://www.renderforest.com), [Mantra](https://jeremyckahn.github.io/mantra/) - Create Interactive Motion Graphics
+* [WebDesigner](https://webdesigner.withgoogle.com/), [T3](https://github.com/tooll3/t3), [Theatre.js](https://www.theatrejs.com/) / [GitHub](https://github.com/theatre-js/theatre), [GSAP](https://gsap.com/), [Stylie](https://jeremyckahn.github.io/stylie/), [RenderForest](https://www.renderforest.com), [Mantra](https://jeremyckahn.github.io/mantra/) or [Lottielab](https://www.lottielab.com/) - Create Motion Graphics
 * [useAnimations](https://useanimations.com/index.html) or [LordIcon](https://lordicon.com/) - Animated Icons
 * [Cursor Effects](https://tholman.com/cursor-effects/) - 90's Style Cursors
 * [NakerApp](https://app.naker.io/back/) - Interactive Background Maker

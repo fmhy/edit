@@ -55,7 +55,6 @@
 * [ibiblio](https://www.ibiblio.org/) - Site / Tool Index
 * [unapothecary's terminal](https://unapothecary.neocities.org/websites) - Site / Tool Index
 * [mw.rat.bz](https://mw.rat.bz/index.html) - Site / Tool Index
-* [redshift](https://rdshft.net/links/) - Site / Tool Index
 
 ***
 
@@ -196,7 +195,7 @@
 # ► Travel
 
 * ⭐ **[Atlas Obscura](https://www.atlasobscura.com/)**, [Turas](https://turas.app/), [CountryReports](https://www.countryreports.org/), [Wikivoyage](https://www.wikivoyage.org), [WikiTravel](https://wikitravel.org/) or [Wanderlog](https://wanderlog.com/guides) - Travel Guides
-* ⭐ **[JourneyPlan](https://journeyplan.co)**, [RoamAround](https://www.roamaround.io/), [TravelPlan](https://www.travelplan-ai.com/#get-trip) or [Eddy](https://chat.eddytravels.com/) - Trip Planning AIs
+* ⭐ **[JourneyPlan](https://journeyplan.co)**, [RoamAround](https://www.roamaround.io/), [TravelPlan](https://www.travelplan-ai.com/#get-trip), [maps.gpt](https://maps.gptcall.net/) or [Eddy](https://chat.eddytravels.com/) - Trip Planning AIs
 * ⭐ **[twkids](https://www.twkids.app/)** - Find Theme Parks, Water Parks, Zoo's etc.
 * ⭐ **[Borderless](https://borderless.safetywing.com/)** - Travel Restrictions Guide
 * ⭐ **[MapChecking](https://www.mapchecking.com/)** - Crowd Size Estimation
@@ -657,6 +656,7 @@
 * [Contact Card](https://contact-card.vercel.app/) - Contact Card Generator
 * [MS Word Cover Page Templates](https://www.mswordcoverpages.com/) - Cover Page Templates
 * [PolyWork](https://www.polywork.com/) - Turn LinkedIn Profile to Personal Website
+* [Linkedin Preview](https://www.alarapp.com/en/linkedin-preview) - Preview Linkedin Posts
 * [Airtable](https://www.airtable.com/) or [Teatable](https://teable.io/) - Build Collaborative Apps
 * [WhoPaysWriters](http://whopayswriters.com/) - Freelance Writing Publications
 * [Creator Monetization Platforms](https://docs.google.com/spreadsheets/d/1ii59-tKBwsol4jGwVehXy-oaJfVLKUciwXtB2tuKqQg/edit#gid=0) - Monetization Platforms Comparisons
@@ -914,6 +914,7 @@
 * [Click Latencies](https://docs.google.com/spreadsheets/d/1-QI7-LY9Ul_DsVE4ZOqBQxqqqqrdJ04Ite8IY3AQMds/) - Mouse Click Latency Chart
 * [AudioScienceReview](https://www.audiosciencereview.com/forum/index.php) - Audio Equipment Discussion
 * [Scarbir](https://www.scarbir.com/) or [Crinacle](https://crinacle.com/) - Headset & Earphone Comparisons
+* [Squiglink](https://squig.link/) - Earphone / IEM Frequency Response Database
 * [MechGroupBuys](https://www.mechgroupbuys.com/) - Group Mechanical Keyboard Buying / [Discord](https://discord.com/invite/mechgroupbuys) / [Subreddit](https://www.reddit.com/r/MechGroupBuys/)
 * [PSU Tier List](https://cultists.network/140/psu-tier-list/) - PSU Buying Guide
 * [PC Monitors](https://pcmonitors.info/), [TFTCentral](https://tftcentral.co.uk/), [Monitor Hunter](https://docs.google.com/document/d/1illeNLsUfZ4KuJ9cIWKwTDUEXUVpplhUYHAiom-FaDo/), [DisplaySpecifications](https://www.displayspecifications.com/), [Monitor Spreadsheet](https://pastebin.com/tkmakRNW) or [DisplayNinja](https://www.displayninja.com/) - Monitor Buying Guides
@@ -1015,7 +1016,7 @@
 * [Diff Checker](https://www.diffchecker.com/) - Check Differences in Text, Images, PDFs or Files
 * [Find Your Place](https://where-is-this.com/) - Find Places from Pictures
 * [Forebears](https://forebears.io/) or [BehindTheName](https://www.behindthename.com/) - Name Etymologies
-* [Pronouns List](https://pronounslist.com/) - List of Prefferred Pronouns
+* [Pronouns List](https://pronounslist.com/) - List of Preferred Pronouns
 * [Acoustic Gender](https://acousticgender.space/) - Measure Voice Pitch
 * [Timeline Cascade](https://markwhen.com/) / [GitHub](https://github.com/mark-when/markwhen), [Timeline JS](https://timeline.knightlab.com/) or [Time.Graphics](https://time.graphics/) - Create Timelines
 * [Timeliner](https://timelinize.com/) - Create Personal Digital Timeline
@@ -1286,7 +1287,7 @@
 * [Fold & Cut](https://www.onemotion.com/fold-cut-paper/) - Make Digital Paper Snowflakes
 * [Iceberger](https://joshdata.me/iceberger.html) - Draw an Iceberg, See how it Floats
 * [BubblesPop](https://bubblespop.netlify.app/), [2](https://brainteaser.top/bubblespop.html) - Pop Bubble Wrap
-* [Checkbox Olympics](https://checkbox.toys/) - Checkbox Game
+* [OneMillionCheckboxes](https://onemillioncheckboxes.com/), [Checkbox Life](https://huth.me/checkbox-life/) or [Checkbox Olympics](https://checkbox.toys/) - Checkbox Games
 * [Fidget Page](https://www.fidgetpage.com/) - Play with Fidget Spinner
 * [Keep calm and poke me.](https://calm.ovh/) - Poke & Pull
 * [Elastic Man](https://www.adultswim.com/etcetera/elastic-man/) - Elastic Morty

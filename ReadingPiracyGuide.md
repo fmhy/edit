@@ -932,12 +932,12 @@
 * ⭐ **[Calibre](https://calibre-ebook.com/)** - Ebook Reader / PC / Android / iOS
 * ⭐ **[EinkBro](https://github.com/plateaukao/einkbro)** - E-Ink Browser
 * [Postlight](https://reader.postlight.com/), [Reader Mode](https://readermode.io/) or [Tranquility](https://addons.mozilla.org/en-GB/firefox/addon/tranquility-1/) - Article Readers / Managers
-* [Librum](https://librumreader.com) / [GitHub](https://github.com/Librum-Reader/Librum) - Ebook Reader / PC / Linux / Mac
 * [EBook Reader](https://epub-reader.online/) - Ebook Reader / PC / Android / iOS / Mac
 * [KoReader](https://koreader.rocks/) - Ebook Reader / PC / Android / [GitHub](https://github.com/koreader/koreader)
-* [FBReader](https://fbreader.org/) - Ebook Reader / PC / Android / iOS
-* [Thorium](https://thorium.edrlab.org/) - Ebook Reader / PC / Mac / Linux
 * [Jane Reader](https://janereader.com/) - Ebook Reader / PC / Mac
+* [FBReader](https://fbreader.org/) - Ebook Reader / PC / Android / iOS
+* [Librum](https://librumreader.com) / [GitHub](https://github.com/Librum-Reader/Librum) - Ebook Reader / PC / Linux / Mac
+* [Thorium](https://thorium.edrlab.org/) - Ebook Reader / PC / Mac / Linux
 * [Okular](https://okular.kde.org/) - PDF / Linux / PC / Mac
 * [Foliate](https://johnfactotum.github.io/foliate/) - Ebook Reader / Linux
 * [Adobe Acrobat](https://acrobat.adobe.com/us/en/acrobat/pdf-reader.html) - PDF / PC

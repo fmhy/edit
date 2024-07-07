@@ -598,7 +598,7 @@
 * ⭐ **[ImgOps](https://imgops.com/)** - Image Operations Meta-Tool
 * ⭐ **[AntiDupl](https://github.com/ermig1979/AntiDupl)** or [cbird](https://github.com/scrubbbbs/cbird) - Duplicate Image Removers
 * ⭐ **[Muzli](https://search.muz.li/)** - Design Inspiration Search
-* [WebOasis Editors](https://weboasis.app/editors/), [RedKetchup](https://redketchup.io/), [Img2Go](https://www.img2go.com/), [fffuel](https://fffuel.co/) or [Mara](https://mara.photos/) - Multi-Tool Sites
+* [PicSynth](https://www.picsynth.me/), [WebOasis Editors](https://weboasis.app/editors/), [RedKetchup](https://redketchup.io/), [Img2Go](https://www.img2go.com/), [fffuel](https://fffuel.co/) or [Mara](https://mara.photos/) - Multi-Tool Sites
 * [PhotoFeeler](https://www.photofeeler.com/) - Get Photo Feedback
 * [Picviewer CE+](https://github.com/hoothin/UserScripts/tree/master/Picviewer%20CE+) - Turn Webpages into Image Galleries
 * [Binternet](https://github.com/Ahwxorg/Binternet) - Pinterest Frontend
@@ -643,14 +643,21 @@
 
 ## ▷ Image to Text / OCR
 
+* ↪️ **[AI Chatbots](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/ai#wiki_.25B7_online_chatbots)** - Most Chatbots have Built-in Image to Text
 * ⭐ **[Capture2Text](https://capture2text.sourceforge.net/)** - OCR Desktop App
 * ⭐ **[Text Grab](https://github.com/TheJoeFin/Text-Grab)** - Minimal OCR Windows Tool
-*  [i2ocr](https://www.i2ocr.com/) or [OCR.SPACE](https://ocr.space/) - Online OCRs
 * [TextShot](https://github.com/ianzhao05/textshot) - Cross Platform OCR
 * [ImageScanOCR](https://github.com/ttop32/ImageScanOCR) - Windows OCR Tool
 * [Handwriting-OCR](https://github.com/Breta01/handwriting-ocr) - Handwriting OCR
 * [Project Naptha](https://projectnaptha.com/) - Automatic OCR while Browsing Images
-* [2OCR](https://2ocr.com/), [OnlineOCR](https://onlineocr.org/), [NewOCR](https://www.newocr.com/), [Extract Text from Image](https://brandfolder.com/workbench/extract-text-from-image), [ImageToText](https://www.imagetotext.info/) or [OnlineOCR](https://www.onlineocr.net/) - Online OCRs
+* [i2ocr](https://www.i2ocr.com/) - Online OCR
+* [OCR.SPACE](https://ocr.space/) - Online OCR
+* [2OCR](https://2ocr.com/) - Online OCR
+* [OnlineOCR](https://onlineocr.org/) - Online OCR
+* [NewOCR](https://www.newocr.com/) - Online OCR
+* [Extract Text from Image](https://brandfolder.com/workbench/extract-text-from-image) - Online OCR
+* [ImageToText](https://www.imagetotext.info/) - Online OCR
+* [OnlineOCR](https://www.onlineocr.net/) - Online OCR
 
 ***
 
@@ -701,6 +708,7 @@
 * [Photofield](https://github.com/SmilyOrg/photofield)
 * [Google Photos Toolkit](https://github.com/xob0t/Google-Photos-Toolkit) - Manage / Delete Google Photos
 * [Google Takeout](https://takeout.google.com/) - Export from Google Photos / [Script](https://github.com/TheLastGimbus/GooglePhotosTakeoutHelper)
+* [GPhotos Guide](https://github.com/g8row/gphotos-guide) - Unlimited Google Photos Storage Guide
 
 ***
 
@@ -721,6 +729,7 @@
 * [pasteboard](https://www.pasteboard.co/)
 * [picsur](https://picsur.org/)
 * [vgy](https://vgy.me/)
+* [Catimage](https://catimages.org/)
 * [i](https://tikolu.net/i/)
 * [tixte](https://tixte.com/)
 * [linkpicture](https://www.linkpicture.com/)

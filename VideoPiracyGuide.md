@@ -19,6 +19,7 @@
 * ⭐ **[VidPlay](https://vidplay.org/)** - Movies / TV / Anime / 1080p / Ad-Free / [Note](https://pastebin.com/kXrVBceh)
 * ⭐ **[Rive](https://rivestream.live/)**, [2](https://rivestream.netlify.app/) , [3](https://rivestream.xyz/), [4](https://cinemaos-v2.vercel.app/) - Movies / TV / Anime / 4K / 1080p / Ad-Free / [GitHub](https://github.com/Developabile/rive-next) / [Status](https://github.com/Developabile/rive-next/blob/dev/Domains.md) / [Discord](https://discord.gg/6xJmJja8fV)
 * [Streaming CSE](https://cse.google.com/cse?cx=006516753008110874046:cfdhwy9o57g##gsc.tab=0), [2](https://cse.google.com/cse?cx=006516753008110874046:o0mf6t-ugea##gsc.tab=0), [3](https://cse.google.com/cse?cx=98916addbaef8b4b6), [4](https://cse.google.com/cse?cx=0199ade0b25835f2e) - Multi-Site Search
+* [StreamFlix](https://watch.streamflix.one/), [2](https://watchamovie.today/), [3](https://streamflix.space/) - Movies / TV / Anime / 4K / 1080p / [Discord](https://discord.gg/C8fyfz5pYz)
 * [WatchingZone](https://www.watching.zone/) - Movies / TV / Anime / 1080p
 * [PrimeWire](https://www.primewire.tf/) - Movies / TV / Anime / 1080p
 * [Levidia](https://www.levidia.ch/), [2](https://supernova.to/), [3](https://www.goojara.to/) - Movies / TV / Anime / 1080p
@@ -27,12 +28,11 @@
 * [M4uFree](https://m4ufree.se/) - Movies / TV / Anime / 1080p / [Mirrors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_m4ufree_clones)
 * [PlayFlix](https://playflix.ru/) - Movies / TV / Anime / 4K / 1080p
 * [123MoviesFree](https://ww2.123moviesfree.net/) - Movies / TV / Anime / 1080p
-* [StreamFlix](https://watch.streamflix.one/), [2](https://watchamovie.today/), [3](https://streamflix.space/) - Movies / TV / Anime / 4K / 1080p / [Discord](https://discord.gg/C8fyfz5pYz)
 * [RgShows](https://www.rgshows.me/) - Movies / TV / Anime / 4K / 1080p / [Discord](https://discord.com/invite/bosskingdom-comeback-1090560322760347649)
 * [Cinema Deck](https://cinemadeck.com/) - Movies / TV / Anime / 4K / 1080p / Ad-Free / [Discord](https://l.cinemadeck.com/discord)
 * [Yesmovies.pm](https://yesmovies.pm/) - Movies / TV / Anime / 1080p
 * [TVids](https://www.tvids.net/), [2](https://watch-tvseries.net/) - Movies / TV / Anime / 1080p
-* [Smashystream](https://smashystream.xyz/), [2](https://smashystream.com/), [3](https://flix.smashystream.xyz/) - Movies / TV / Anime / 1080p
+* [Smashystream](https://smashystream.xyz/), [2](https://smashy.stream/), [3](https://flix.smashystream.xyz/), [4](https://smashystream.com/) - Movies / TV / Anime / 1080p
 * [Nova](https://novastream.top/) - Movies / TV / 1080p / [Github](https://github.com/ambr0sial/nova/)
 * [HollyMovieHD](https://hollymoviehd.cc/), [2](https://yeshd.net/), [3](https://novamovie.net/) - Movies / TV / Anime / 1080p / [Mirrors](https://hollymoviehd-official.com/)
 * [YassFlix](https://yassflix.live/) - Movies / TV / Anime / 1080p / Ad-Free
@@ -404,6 +404,7 @@
 * [StreamEast](https://www.thestreameast.to/v8/) - Sports
 * [1Stream](https://1stream.eu/) - Sports
 * [WeakSpell](https://weakspell.to/) - Sports
+* [AJ Sports](https://ajsportstv.ch/) - Sports
 * [First Row Sports](https://firstsrowsports.tv/) - Sports
 * [FSL](https://freestreams-live.my/) - Sports / [Discord](https://discord.gg/eXXJzDPchU)
 * [KobeStreams](http://watchkobestreams.info/) - Sports / [Discord](https://discord.com/invite/SEmFE8bdtR)
@@ -424,6 +425,7 @@
 * [p2pstreams](https://p2pstreams.live/) - Sports
 * [StrikeOut](https://strikeout.im/) - Sports
 * [Strims](https://strims.in/) - Sports
+* [uSport](https://usport.pro/) - Sports
 * [HesGoal](https://www.hesgoal.watch/) - Sports
 * [Sport-TV](https://sport-tv.live/) - Sports
 * [DudeStream](https://www.dudestream.com/) - Sports
@@ -448,6 +450,7 @@
 * [Formula 1 Streams](https://reddit.formula1stream.cc/) - Motorsports
 * [NHLstream](https://nhlstream.net/) - Hockey
 * [NHL66](https://nhl66.ir/) - Hockey
+* [OnHockey](http://onhockey.tv/) - Hockey
 * [NHLbite](https://nhlbite.com/) - Hockey
 * [/r/rugbystreams](https://www.reddit.com/r/rugbystreams/) - Rugby
 * [F1 Dashcam](https://f1-dash.com/) - F1 Live Stats
@@ -458,6 +461,7 @@
 ## ▷ Sports Replays
 
 * ⭐ **[720Pier](https://720pier.ru/)** - Sports Replays / Torrents / 1080p
+* ⭐ **[FullReplays](https://www.fullreplays.com/)** - Soccer Replays
 * ⭐ **[Basketball Video](https://basketball-video.com/)** - Basketball Replays / 1080p
 * ⭐ **[Fishker NFL](https://fishkernfl.com/)** - Football Replays / 720p
 * ⭐ **[Watch-Wrestling.eu](https://watch-wrestling.eu/)** - MMA / Wrestling Replays / 1080p
@@ -466,7 +470,6 @@
 * ⭐ **[Nascar Classics](https://classics.nascar.com/)** - Nascar Replays / 1080p
 * [SportsReplay](https://linktr.ee/suisports) - Sports Replays / [Basketball](https://watchreplay.net/) / [Motorsports](https://watchf1full.com/) / [MMA / Wrestling](https://watchmmafull.com/) / [Discord](https://discord.com/invite/2r4pj67gCv)
 * [MLBLive](https://mlblive.net/) - Baseball Replays
-* [FullReplays](https://www.fullreplays.com/) - Soccer Replays
 * [FootballOrigin](https://www.footballorgin.com/) - Soccer Replays
 * [123footy](https://123footy.com/) - Soccer Replays
 * [Footballia](https://footballia.net/), [2](https://footballia.eu/) - Soccer Replays

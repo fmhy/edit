@@ -258,7 +258,8 @@
 * [BlueBubbles](https://bluebubbles.app/) - iMessage Client
 * [Atlus](https://github.com/amanharwara/altus) or [WAO](https://dedg3.com/wao/) - WhatsApp Clients
 * [WhatsApp-Chat-Exporter](https://wts.knugi.dev/) - WhatsApp Skype Chats
-* [WAIncognito](https://chromewebstore.google.com/detail/waincognito/alhmbbnlcggfcjjfihglopfopcbigmil) - Disable WhatsApps Read Receipts & Presence Updates
+* [WAIncognito](https://chromewebstore.google.com/detail/waincognito/alhmbbnlcggfcjjfihglopfopcbigmil) - Disable WhatsApp Read Receipts & Presence Updates
+* [Tom el Transcriptor](https://api.whatsapp.com/message/GO6PJ7A2GVKRK1) - WhatsApp Voice to Text Bot
 * [Skype Exports for Humans](https://becausecurious.me/skype_exports_for_humans) - Export Skype Chats
 * [TikTok Chat Reader](https://tiktok-chat-reader.zerody.one/) - Live TikTok Chat Reader
 * [Urlebird](https://urlebird.com/) - Third-Party TikTok with better UI
@@ -416,7 +417,7 @@
 
 * ↪️ **[DNS / Web Security](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/dev-tools/#wiki_.25B7_dns_.2F_web_security)**
 * ↪️ **[Domain Availability](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_domain_availability)**
-* [LinkScope](https://accentusoft.com/) or [DNSlytics](https://dnslytics.com/) - Domain Investigation Tools
+* [LinkScope](https://accentusoft.com/), [URLDNA](https://urldna.io/) or [DNSlytics](https://dnslytics.com/) - Domain Investigation Tools
 * [Rankchart](https://rankchart.org/) - Multiple Domain Tools
 * [DNSTwist](https://dnstwist.it/) / [GitHub](https://github.com/elceef/dnstwist) or [DNSTwister](https://dnstwister.report/) - Phishing Domain Scanners
 * [WhoisRequest](https://whoisrequest.com/) - Whois Search
@@ -473,7 +474,6 @@
 
 * ⭐ **[Smailpro](https://smailpro.com/)** - Gmail & Outlook / Forever / N/A / 20+ Domains
 * ⭐ **[Zemail](https://zemail.me/)** - Gmail / Forever / 1 Day / 7 Domains
-* ⭐ **[Gmailnator](https://www.emailnator.com/)** - Gmail / Forever / 1 Day / 6 Domains
 * ⭐ **[burner.kiwi](https://burner.kiwi/)** - 1 Day / 1 Day / 3 Domains
 * ⭐ **[Tempr.email](https://tempr.email/en/)** - Forever / 1 Month / 50+ Domains
 * ⭐ **[Inboxes](https://inboxes.com/)** - Forever / 7 Days / 19 Domains
@@ -638,7 +638,7 @@
 * [OceanHero](https://oceanhero.today/) - Save the Ocean via Search
 * [Magnifying Glass](https://mybrowseraddon.com/magnifying-glass.html) - Magnify Webpages
 * [Print Edit WE](https://pastebin.com/LJeT3NyB) - Edit Pages to Make them Printable
-* [Grammarly](https://www.grammarly.com/) - Grammar Checker
+* [Grammarly](https://www.grammarly.com/) - Grammar Check
 * [PageZipper](https://www.printwhatyoulike.com/pagezipper) or [AutoPagerize](http://autopagerize.net/) - Merges a Sites "Next" Pages
 * [Turn Off the Lights](https://www.turnoffthelights.com/) or [Theater Mode](https://mybrowseraddon.com/theater-mode.html) - Play Videos in Theater Mode
 * [Zoom Redirector](https://github.com/arkadiyt/zoom-redirector) - Redirect Zoom Links to Web Client
@@ -714,6 +714,7 @@
 * [New Tab Override](https://www.soeren-hentzschel.at/firefox-webextensions/new-tab-override/) - Pick Site that Opens in New Tabs
 * [Multi Tabs](https://addons.mozilla.org/en-US/firefox/addon/search-multi-tabs/) - Multi Tab Word Search
 * [Search Site WE](https://addons.mozilla.org/en-US/firefox/addon/search-site-we/) - Search Current Domain
+* [LanguageTool](https://addons.mozilla.org/en-US/firefox/addon/languagetool/) - Grammar Check
 * [Firefox Color](https://color.firefox.com/) or [SwiftTheme](https://addons.mozilla.org/en-US/firefox/addon/swifttheme/) - Custom Firefox Theme Creation
 * [Simple Gesture](https://github.com/utubo/firefox-simple_gesture) or [Gesturefy](https://github.com/Robbendebiene/Gesturefy) - Mouse Gestures
 * [Happy Right-Click](https://addons.mozilla.org/en-US/firefox/addon/%E5%BF%AB%E4%B9%90%E5%8F%B3%E9%94%AE/) - Force Enable Right Click
