@@ -862,7 +862,7 @@
 * ⭐ **[GoodReads](https://www.goodreads.com/)** / [Frontend](https://github.com/nesaku/BiblioReads) - Books / Comics / Manga / [Ratings Filter](https://www.book-filter.com/)
 * ⭐ **[TasteDive](https://tastedive.com/)** - Books
 * ⭐ **[StoryGraph](https://www.thestorygraph.com/)** - Books
-* ⭐ **[The Greatest Books](https://www.thegreatestbooks.org/)** - Book Recommendations
+* ⭐ **[The Greatest Books](https://www.thegreatestbooks.org/)** - Book Recommendations / [Download](https://rentry.co/FMHYBase64#top-200)
 * ⭐ **[MyAnimeList](https://myanimelist.net/)** - Manga / Light Novels / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_myanimelist_tools)
 * ⭐ **[Anilist](https://anilist.co/home)** - Manga / Light Novels / Manhwa / Manhua / [Wrapper](https://github.com/butterstroke/Anilist-Node) / [Extras](https://greasyfork.org/en/scripts/370473-automail)
 * ⭐ **[MangaUpdates](https://www.mangaupdates.com/)** - Manga (Has Obscure Stuff)
