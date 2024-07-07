@@ -77,10 +77,13 @@
 * [ArmCord](https://github.com/ArmCord/ArmCord) - Discord Client Mod / Lightweight
 * [abaddon](https://github.com/uowuo/abaddon) - Discord Client Mod / Lightweight
 * [Discordo](https://github.com/ayn2op/discordo) - Discord Terminal Client
+* [discord-PWA](https://github.com/NeverDecaf/discord-PWA) - Discord PWA Client
+* [Unicord](https://github.com/UnicordDev/Unicord) - Discord Client for Windows / [Discord](https://discord.gg/64g7M5Y)
 * [Spacebar](https://github.com/spacebarchat/spacebarchat) - Self-hostable Discord Client
 * [Dorion](https://github.com/SpikeHD/Dorion) - Lightweight Discord Client
 * [Dissent](https://github.com/diamondburned/dissent) - GTK4 Discord Client
 * [Discord Portable](https://portapps.io/app/discord-portable/) / [PTB PortApps](https://portapps.io/app/discord-ptb-portable/) - Portable Discord Stable
+* [litecord](https://gitlab.com/litecord/litecord) - Reimplementation of Discord's Backend / [Clients](https://gitlab.com/litecord/litecord/-/blob/master/docs/clients.md)
 
 ***
 
@@ -411,6 +414,7 @@
 * [yt.d0.cx](https://yt.d0.cx/) - YouTube Frontend
 * [Ytfzf](https://github.com/pystardust/ytfzf) or [YewTube](https://github.com/mps-youtube/yewtube) - Terminal YouTube Players
 * [Video Resumer](https://addons.mozilla.org/en-US/firefox/addon/video-resumer/) - Resume Videos Where You Left Off / [Note](https://pastebin.com/Jd1DJW8w)
+* [Looptube](https://www.looptube.xyz/) - Loop YouTube Videos / Segments
 * [Video Speed Controller](https://github.com/igrigorik/videospeed), [YouTube Web Tweaks](https://greasyfork.org/en/scripts/447802) or [TimerHooker](https://timer.palerock.cn/en/) - Control Speed of YouTube Videos
 * [Anilyzer](https://anilyzer.com/) - Watch YouTube Videos in Slow Motion / Frame by Frame
 * [Jump Cutter](https://github.com/WofWca/jumpcutter) - Skip Silent Parts of Videos
@@ -689,6 +693,7 @@
 * [Mastodon Embed Timeline](https://gitlab.com/idotj/mastodon-embed-timeline) or [Mastofeed](https://mastofeed.com/) - Embedded Mastodon Feeds
 * [Cheap Bots, Toot Sweet!](https://cheapbotstootsweet.com/) - Create Bots
 * [emojos.in](https://emojos.in/) - Mastodon Custom Emoji Lists
+* [MastoMetrics](https://mastometrics.com/) - Mastodon Analytics
 
 ***
 
