@@ -225,72 +225,6 @@
 
 ***
 
-## ▷ Game Dev Tools
-
-* 🌐 **[Awesome Gamedev](https://github.com/mbrukman/awesome-gamedev)**, [Game Dev Resources](https://www.newgrounds.com/wiki/creator-resources/game-dev-resources), [Magic Tools](https://github.com/ellisonleao/magictools), [LibGDX](https://libgdx.com/) / [Resources](https://github.com/rafaskb/awesome-libgdx) or [VG resource](https://www.vg-resource.com/) - Game Development Resources
-* 🌐 **[Awesome One Person Games](https://github.com/Yonaba/awesome-one-person-games)** - Single Dev Game Examples
-* ↪️ **[Textures / Patterns](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/img-tools/#wiki_.25B7_textures_.2F_patterns)**
-* ↪️ **[Game Engines](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_game_engines)**
-* ↪️ **[3D Models / Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/img-tools#wiki_.25B7_3d_models)**
-* ↪️ **[Game Development Assets](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_game_development_assets)**
-* ⭐ **[SpriteFusion](https://www.spritefusion.com/)** - Tilemap Editor / [Discord](https://discord.gg/8sCEAspmBV)
-* [PICO-8](https://mboffin.itch.io/pico8-educational-toolset) - Basic Game Development Concepts / [Web Version](https://www.pico-8-edu.com/)
-* [From Zero To Hero](https://therealpenaz91.itch.io/2dgd-f0th) - 2D Game Development Book
-* [SebastianLague](https://www.youtube.com/c/SebastianLague/playlists?view=50&sort=dd&shelf_id=4) - Game Development Tutorials
-* [develop.games](https://www.develop.games/) - Game Development Guide
-* [Trig for Games](https://demoman.net/?a=trig-for-games) - Trigonometry Lessons for Games
-* [Game Math](https://gamemath.com/book/intro.html) - Mathematics Lessons for Game Devs
-* [Graphics Workshop](https://github.com/ekzhang/graphics-workshop) - Learn Computer Graphics
-* [CharPad](https://subchristsoftware.itch.io/charpad-c64-free) - Commodore 64 Graphics Editor
-* [CHIP-8 Research](https://chip-8.github.io/) - CHIP-8 Research
-* [HiddenPalace](https://hiddenpalace.org/) - Game Development Media Archive
-* [Tommti Systems](https://www.tommti-systems.de/go.html?http://www.tommti-systems.de/main-Dateien/files.html) - 3D Benchmark Tools
-* [XeSS](https://github.com/intel/xess) - Increase Framerate of Game
-* [AMD Capsaicin Framework](https://gpuopen.com/capsaicin/) - Direct3D 12 Framework
-* [Serpent.ai](http://serpent.ai/) - Game Agent Framework
-* [Faux on 3D](https://gizmo199.itch.io/fauxton3d) - Sprite Stacking Framework
-* [Phaser](https://phaser.io/) - Mobile HTML5 Game Framework
-* [PlayCanvas](https://playcanvas.com/) - Build HTML5 Visualizations / Games
-* [Tracy Profiler](https://github.com/wolfpld/tracy) - Frame Profiler
-* [PlanetSide](https://planetside.co.uk/) - CG Environment Generator
-* [MapEditor](https://www.mapeditor.org/) or [Tilesetter](https://www.tilesetter.org/) - Level Editor
-* [Designer Toolkit](https://ldtk.io/) or [Ogmo Editor](https://ogmo-editor-3.github.io/) - 2D Level Editor Level
-* [SPARTAN Procedural](https://pnjeffries.itch.io/spartan-procjam-edition) - Procedural Tile Generator
-* [Doshaven Programming List](https://www.doshaven.eu/programming-tools/) - DOS Game Creator Tools
-* [QB64SourceCode](https://www.qb64tutorial.com/) - QB64 Game Programming Tutorials
-* [Fantasy Consoles / Computers](https://github.com/paladin-t/fantasy) - List of Fantasy Consoles and Computers
-* [Kaboomjs](https://kaboomjs.com/) - Quickly Make Games with JavaScript
-* [inkle](https://www.inklestudios.com/ink/) - Game Narrative Scripting Language
-* [Mansion Generator](https://watabou.itch.io/procgen-mansion) - Procedural Mansions Generator
-* [ProFantasy](https://rpgmaps.profantasy.com/) - Fantasy Map Making Tutorials
-* [Laigter](https://azagaya.itch.io/laigter) - 2D Texture Map
-* [Fantasy Map Generator](https://azgaar.github.io/Fantasy-Map-Generator/), [Inkarnate](https://inkarnate.com/), [HexHTML](https://hextml.playest.net/), [Inkwellideas](https://inkwellideas.com/free-tools/), [RPG Map Editor 2](https://deepnight.itch.io/tabletop-rpg-map-editor) or [MapTool](https://www.rptools.net/toolbox/maptool/) - Game Map Creators / Editors
-* [Dungeon Scrawl](https://probabletrain.itch.io/dungeon-scrawl) / [Discord](https://discord.com/invite/RxyZyXg) / [/r/Dungeonscrawl](https://www.reddit.com/r/dungeonscrawl/), [Dungeon Map Doodler](https://dungeonmapdoodler.com/) or [donjon](https://donjon.bin.sh/) or [One Page Dungeon](https://watabou.itch.io/one-page-dungeon) - Dungeon Map Creators / Editors
-* [Medieval Fantasy City Generator](https://watabou.itch.io/medieval-fantasy-city-generator) - Fantasy City Map Generator
-* [Neighbourhood](https://watabou.itch.io/neighbourhood) - Neighborhood Map Generator
-* [Loot](https://www.lootproject.com/) - Randomized Adventure Game Gear
-* [UE Viewer](https://www.gildor.org/en/projects/umodel) - Unreal Engine Model Viewer / [GitHub](https://github.com/gildor2/UEViewer)
-* [Bleeper](https://pixwlk.itch.io/bleeper) or [jfxr](https://jfxr.frozenfractal.com/) - Game Sound Effects Creators
-* [Engine Simulator](https://www.engine-sim.parts/) - Engine Sound Simulator / [GitHub](https://github.com/ange-yaghi/engine-sim)
-* [The Sounds Resource](https://www.sounds-resource.com/) - Game Sounds Examples
-* [EZ Conversion](https://spacefoon.itch.io/ez-game-audio-format-conversion) - Game Audio Converter
-* [Electronic Arts GitHub](https://github.com/electronicarts) - EA GitHub Repos
-* [Game-icons](https://game-icons.net/) - Game Icons
-* [Game UI Database](https://www.gameuidatabase.com/) or [HUDSxGUIS](https://www.hudsandguis.com/) - Game HUDs / GUIs
-* [Nuklear](https://github.com/Immediate-Mode-UI/Nuklear) - Game GUI Creator
-* [Xelu's Controller Prompts](https://thoseawesomeguys.com/prompts/) - Free Game Prompts / [Video](https://youtu.be/d6GtGbI-now)
-* [Tuesday JS](https://kirill-live.itch.io/tuesday-js) / [GitHub](https://github.com/Kirilllive/tuesday-js) or [RenPy](https://www.renpy.org/) / [GitHub](https://github.com/renpy/renpy) - Visual Novel Editor
-* [Bookshelf](https://github.com/Darkhax-Minecraft/Bookshelf) - Minecraft Mod Code Support
-* [VEEDI](https://www.veedi.com/) - Create Game Walkthrough Videos
-* [Post-Processing](https://github.com/GarrettGunnell/Post-Processing) - Post Processing Pipeline For Unity
-* [xNode](https://github.com/Siccity/xNode) - Unity Node Graph Editor
-* [N64Recomp](https://github.com/N64Recomp/N64Recomp) - Recompile N64 Games into .exe
-* [AnyRPG](https://www.anyrpg.org/) - RPG Editor
-* [Pixel Art Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/img-tools#wiki_.25B7_pixel_art) - Tools to Create Sprites & Pixel Art
-* [Basic Computer Games](https://github.com/coding-horror/basic-computer-games) - Basic Computer Game Examples
-
-***
-
 ## ▷ Database Tools
 
 * 🌐 **[DB Engines](https://db-engines.com/en/ranking)** - Database Rankings
@@ -537,6 +471,102 @@
 ***
 
 ## ▷ **[Coding AIs](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/ai#wiki_.25B7_coding_ais)**
+
+***
+
+# ► Game Dev Tools
+
+* 🌐 **[Awesome One Person Games](https://github.com/Yonaba/awesome-one-person-games)** - Single Dev Game Examples
+* 🌐 **[Awesome Game Production](https://github.com/vhladiienko/awesome-game-production)** - Game Production Resources
+* ↪️ **[Learn Game Development]()**
+* [Haxe](https://haxe.org/) - Cross-platform Compiler / [Resources](https://github.com/Dvergar/awesome-haxe-gamedev)
+* [CHIP-8 Research](https://chip-8.github.io/) - CHIP-8 Research
+* [HiddenPalace](https://hiddenpalace.org/) - Game Development Media Archive
+* [Tommti Systems](https://www.tommti-systems.de/go.html?http://www.tommti-systems.de/main-Dateien/files.html) - 3D Benchmark Tools
+* [XeSS](https://github.com/intel/xess) - Increase Framerate of Game
+* [libGDX](https://libgdx.com/) - Java Game Dev Framework / [Resources](https://github.com/rafaskb/awesome-libgdx)
+* [AMD Capsaicin Framework](https://gpuopen.com/capsaicin/) - Direct3D 12 Framework
+* [Serpent.ai](http://serpent.ai/) - Game Agent Framework
+* [Faux on 3D](https://gizmo199.itch.io/fauxton3d) - Sprite Stacking Framework
+* [Phaser](https://phaser.io/) - Mobile HTML5 Game Framework
+* [PlayCanvas](https://playcanvas.com/) - Build HTML5 Visualizations / Games
+* [Tracy Profiler](https://github.com/wolfpld/tracy) - Frame Profiler
+* [PlanetSide](https://planetside.co.uk/) - CG Environment Generator
+* [SPARTAN Procedural](https://pnjeffries.itch.io/spartan-procjam-edition) - Procedural Tile Generator
+* [Doshaven Programming List](https://www.doshaven.eu/programming-tools/) - DOS Game Creator Tools
+* [Fantasy Consoles / Computers](https://github.com/paladin-t/fantasy) - List of Fantasy Consoles and Computers
+* [Kaboomjs](https://kaboomjs.com/) - Quickly Make Games with JavaScript
+* [inkle](https://www.inklestudios.com/ink/) - Game Narrative Scripting Language
+* [Mansion Generator](https://watabou.itch.io/procgen-mansion) - Procedural Mansions Generator
+* [Loot](https://www.lootproject.com/) - Randomized Adventure Game Gear
+* [Electronic Arts GitHub](https://github.com/electronicarts) - EA GitHub Repos
+* [Xelu's Controller Prompts](https://thoseawesomeguys.com/prompts/) - Free Game Prompts / [Video](https://youtu.be/d6GtGbI-now)
+* [Bookshelf](https://github.com/Darkhax-Minecraft/Bookshelf) - Minecraft Mod Code Support
+* [VEEDI](https://www.veedi.com/) - Create Game Walkthrough Videos
+* [N64Recomp](https://github.com/N64Recomp/N64Recomp) - Recompile N64 Games into .exe
+* [Basic Computer Games](https://github.com/coding-horror/basic-computer-games) - Basic Computer Game Examples
+
+***
+
+## ▷ Game Engines
+
+* 🌐 **[Awesome Game Engine](https://github.com/stevinz/awesome-game-engine-dev)** - Game Engine Development Resources
+* 🌐 **[EnginesDatabase](https://enginesdatabase.com/)** - Game Engines Database
+* ↪️ **[2D Only Engines]()**
+* ↪️ **[3D Only Engines]()**
+* ⭐ **[Godot](https://godotengine.org/)** / [Resources](https://github.com/godotengine/awesome-godot) / [Input Actions](https://github.com/Orama-Interactive/Keychain)
+* [Unity](https://unity.com/products/unity-personal)
+* Unity Tools - [Cheat Sheet](https://github.com/NaomiLe1811/Unity_Cheat_Sheet) / [Unity / XNA Framework](https://github.com/BepInEx/BepInEx) / [Post Processing Pipeline](https://github.com/GarrettGunnell/Post-Processing) / [Node Editor](https://github.com/Siccity/xNode)
+* [GDevelop](https://gdevelop.io/) / [GitHub](https://github.com/4ian/GDevelop)
+* [Defold](https://defold.com/)
+* [Bevy Engine](https://bevyengine.org/) / [Extensions](https://bevy-cheatbook.github.io/setup/unofficial-plugins.html)
+* [ursina engine](https://www.ursinaengine.org/)
+* [stride3d](https://www.stride3d.net/) / [GitHub](https://github.com/stride3d/stride)
+* [cocos](https://www.cocos.com/en/) / [GitHub](https://github.com/cocos2d/cocos2d-x)
+* [microStudio](https://microstudio.itch.io/microstudio)
+* [AnyRPG](https://www.anyrpg.org/) - RPG Engine
+* [RPG Playground](https://rpgplayground.com/) - Simple RPG Creator
+* [Playerio](https://playerio.com/) - Online Game Engine
+* [stencyl](https://www.stencyl.com/) - Codeless Game Engine
+
+***
+
+## ▷ Asset Creation
+
+* ↪️ **[Pre-made Assets]()**
+* ↪️ **[3D Models / Modeling Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/img-tools#wiki_.25B7_3d_models)**
+* ↪️ **[Design Tools / Resources](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/img-tools/)**
+* ↪️ **[Art Resources](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu/#wiki_.25B7_art_.2F_editing)**
+* ↪️ **[Writing Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools/#wiki_.25B7_writing_tools)**
+* [Nuklear](https://github.com/Immediate-Mode-UI/Nuklear) - Game GUI Creator
+* [HUDSxGUIS](https://www.hudsandguis.com/) - UI Design Concepts
+* [Bleeper](https://pixwlk.itch.io/bleeper) or [jfxr](https://jfxr.frozenfractal.com/) - Game Sound Effects Creators
+* [Engine Simulator](https://www.engine-sim.parts/) - Engine Sound Simulator / [GitHub](https://github.com/ange-yaghi/engine-sim)
+* [The Sounds Resource](https://www.sounds-resource.com/) - Game Sounds Examples
+* [EZ Conversion](https://spacefoon.itch.io/ez-game-audio-format-conversion) - Game Audio Converter
+
+***
+
+## ▷ Map Creators / Editors
+
+* ⭐ **[SpriteFusion](https://www.spritefusion.com/)** - Tilemap Editor / [Discord](https://discord.gg/8sCEAspmBV)
+* [MapEditor](https://www.mapeditor.org/) or [Tilesetter](https://www.tilesetter.org/) - Level Editors
+* [LDtk](https://ldtk.io/) or [Ogmo Editor](https://ogmo-editor-3.github.io/) - 2D Level Editors
+* [CharPad](https://subchristsoftware.itch.io/charpad-c64-free) - Commodore 64 Graphics Editor
+* [Fantasy Map Generator](https://azgaar.github.io/Fantasy-Map-Generator/) - Fantasy Map Generator
+* [Inkarnate](https://inkarnate.com/) - Fantasy Map Editor
+* [HexHTML](https://hextml.playest.net/) - Hexagon Fantasy Map Editor
+* [ProFantasy](https://rpgmaps.profantasy.com/) - Fantasy Map Tutorials
+* [Medieval Fantasy City Generator](https://watabou.itch.io/medieval-fantasy-city-generator) - Medieval Fantasy City Generator
+* [donjon](https://donjon.bin.sh/) - RPG Resources / Tools
+* [RPG Map II](https://deepnight.itch.io/tabletop-rpg-map-editor) - RPG Map Editor
+* [MapTool](https://www.rptools.net/toolbox/maptool/) - Virtual Tabletop for RPG Games
+* [Inkwell Ideas](https://inkwellideas.com/free-tools/) - Free Map Tools
+* [Neighbourhood](https://watabou.itch.io/neighbourhood) - Neighborhood Map Generator
+* [Laigter](https://azagaya.itch.io/laigter) - Map Generator for 2D Sprites
+* [Dungeon Scrawl](https://probabletrain.itch.io/dungeon-scrawl) - Dungeon Mapmaking Tool / [Subreddit](https://www.reddit.com/r/dungeonscrawl/) / [Discord](https://discord.com/invite/RxyZyXg)
+* [Dungeon Map Doodler](https://dungeonmapdoodler.com/) - Draw Dungeon & Terrain Maps
+* [One Page Dungeon](https://watabou.itch.io/one-page-dungeon) - Single-page Dungeon Map Generator
 
 ***
 
@@ -831,6 +861,25 @@
 * [How DNSSEC Works](https://howdnssec.works/) - Learn DNSSEC
 * [sha256_project](https://github.com/oconnor663/sha256_project) or [cryptohack](https://cryptohack.org/) - Cryptography Learning
 * [How HTTPS Works](https://howhttps.works/) - Learn HTTPS
+
+***
+
+## ▷ Game Development
+
+* ⭐ **[Learn Gamedev](https://github.com/notpresident35/awesome-learn-gamedev)** - Resources
+* ⭐ **[MagicTools](https://github.com/ellisonleao/magictools)** - Resources
+* ⭐ **[develop.games](https://www.develop.games/)** - Game Dev Guides
+* ⭐ **[Brackeys](https://www.youtube.com/channel/UCYbK_tjZ2OrIZFBvU6CCMiA)** - Game Dev Tutorials
+* [r/gamedev](https://www.reddit.com/r/gamedev/) - Game Dev Community
+* [Newgrounds Wiki: Game Dev Resources](https://www.newgrounds.com/wiki/creator-resources/game-dev-resources) - Resources
+* [The VG Resource](https://www.vg-resource.com/) - Resources
+* [PICO-8](https://mboffin.itch.io/pico8-educational-toolset) - Basic Game Dev Concepts / [Web Version](https://www.pico-8-edu.com/)
+* [From Zero To Hero](https://therealpenaz91.itch.io/2dgd-f0th) - 2D Game Dev Book
+* [SebastianLague](https://www.youtube.com/c/SebastianLague/playlists?view=50&sort=dd&shelf_id=4) - Game Dev Tutorials
+* [Trig for Games](https://demoman.net/?a=trig-for-games) - Trigonometry Lessons for Games
+* [Game Math](https://gamemath.com/book/intro.html) - Mathematics Lessons for Game Devs
+* [Graphics Workshop](https://github.com/ekzhang/graphics-workshop) - Learn Computer Graphics
+* [QB64SourceCode](https://www.qb64tutorial.com/) - QB64 Game Programming Tutorials
 
 ***
 
@@ -1393,6 +1442,7 @@
 
 # ► Cybersecurity Tools
 
+* ↪️ **[Learn Cybersecurity](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/dev-tools/#wiki_.25B7_cybersecurity)**
 * ⭐ **[pyWhat](https://github.com/bee-san/pyWhat)** - File Analyzer
 * [Open Source Security Software](https://open-source-security-software.net/) - Cybersecurity Software
 * [Shisho](https://shisho.dev/) - Infrastructure Code Security Patcher

@@ -406,46 +406,56 @@
 
 ***
 
-## Game Development Assets
+## Game Assets
 
-* [CraftPix](https://craftpix.net/freebies/)
-* [Kenney](https://www.kenney.nl/)
-* [/r/GameAssets](https://www.reddit.com/r/gameassets/)
-* [UnityAssets4Free](https://unityassets4free.com/)
-* [Open Game Art](https://opengameart.org/)
-* [UnityFreaks](https://www.unityfreaks.com/)
-* [GameDevUE](https://t.me/GameDevUE)
-* [SteamGridDB](https://www.steamgriddb.com/)
-* [DevAssets](https://devassets.com/)
-* [Incern](https://www.incern.org/)
-* [GameDevAssets](https://www.gamedevmarket.net/category/3d/?type=free)
-* [xonotic](https://github.com/xonotic) - FPS Game Assets
-* [Warsow](https://github.com/Warsow) - FPS Game Assets
+* [Kenney](https://www.kenney.nl/) - Free Game Assets
+* [Dev Assets](https://devassets.com/) - Free Game Assets
+* [Game UI Database](https://www.gameuidatabase.com/) - Game UI Database
+* [Game-icons](https://game-icons.net/) - Game Icons
+* [r/GameAssets](https://www.reddit.com/r/gameassets/) - Reddit Community
+* [UnityAssets4Free](https://unityassets4free.com/) - Free Paid Unity Assets
+* [Incern](https://www.incern.org/) - Free Unity Assets
+* [CraftPix](https://craftpix.net/freebies/) - 2D Game Assets
+* [xonotic](https://github.com/xonotic) or [Warsow](https://github.com/Warsow) - FPS Game Assets
+* [GameDev Market](https://www.gamedevmarket.net/) - Assets for Indie Developers
+* [OpenGameArt.org](https://opengameart.org/) - Game Art Community
+* [UnityFreaks](https://www.unityfreaks.com/) or [GameDevUE](https://t.me/GameDevUE) - Unity & Unreal Engine Assets
+* [SteamGridDB](https://www.steamgriddb.com/) - Custom Video Game Assets
 
 ***
 
 ## Game Engines
 
-* ⭐ **[Game Engine Collection](https://github.com/collections/game-engines)**
-* ⭐ **[Unreal Engine](https://www.unrealengine.com/)** / [Python](https://github.com/20tab/UnrealEnginePython) / [C#](https://gamefromscratch.com/getting-started-with-unrealclr/) / [3D Scans](https://quixel.com/megascans) / [File Explorer](https://github.com/4sval/FModel), [2](https://fmodel.app/) / [Console Unlocker](https://framedsc.com/GeneralGuides/universal_ue4_consoleunlocker.htm)
-* ⭐ **[Godot](https://godotengine.org/)** / [Resources](https://github.com/godotengine/awesome-godot) / [Input Actions](https://github.com/Orama-Interactive/Keychain)
-* [RPG Playground](https://rpgplayground.com/) - Simple RPG Creator
+### 2D Game Engines
+
+* [Torque2D](https://github.com/TorqueGameEngines/Torque2D) / [Discord](https://discord.com/invite/qdAZxT4)
+* [starling](https://gamua.com/starling/) / [GitHub](https://github.com/Gamua/Starling-Framework)
+* [LÖVE](https://love2d.org/) / [Resources](https://github.com/love2d-community/awesome-love2d)
+* [GB Studio](https://www.gbstudio.dev/) / [GitHub](https://github.com/chrismaltby/gb-studio) / [Subreddit](https://www.reddit.com/r/gbstudio) / [Discord](https://discord.com/invite/bxerKnc)
+* [GameMaker](https://gamemaker.io/) / [Resources](https://github.com/bytecauldron/awesome-gamemaker) / [Online](https://yellowafterlife.github.io/GMEdit/)
+* [Arcade Game Designer](https://jonathan-cauldwell.itch.io/arcade-game-designer) / [Multi-platform](https://jonathan-cauldwell.itch.io/multi-platform-arcade-game-designer)
+* [HaxeFlixel](https://haxeflixel.com/)
+* [Flame](https://flame-engine.org/)
+* [Pixelbox](https://pixwlk.itch.io/pixelbox)
+* [PQ93](https://charliezip.itch.io/pq93)
+* [Bitsy](https://make.bitsy.org/)
+* [Script 8](https://script-8.github.io/)
+* [Tic80](https://tic80.com/)
+* [Byond](https://www.byond.com/)
+* [Scratch](https://scratch.mit.edu/)
+
+### 3D Game Engines
+
+* ⭐ **[Unreal Engine](https://www.unrealengine.com/)**
+* ⭐ **Unreal Engine Tools** - [Unlocker](https://framedsc.com/GeneralGuides/universal_ue4_consoleunlocker.htm) / [Megascans](https://quixel.com/megascans) / [Model Viewer](https://www.gildor.org/en/projects/umodel) / [Model Viewer](https://www.gildor.org/en/projects/umodel)
 * [Spring RTS](https://springrts.com/ ) - 3D RTS Game Engine
-* [Playerio](https://playerio.com/) - Online Game Engine
-* [stencyl](https://www.stencyl.com/) - Codeless Game Engine
-
-### 2D / 3D Engines
-
-[Unity](https://unity.com/products/unity-personal) / [Cheat Sheet](https://github.com/NaomiLe1811/Unity_Cheat_Sheet) / [Patcher](https://github.com/BepInEx/BepInEx), [Defold](https://defold.com/), [Bevy Engine](https://bevyengine.org/), / [Extensions](https://bevy-cheatbook.github.io/setup/unofficial-plugins.html), [ursina engine](https://www.ursinaengine.org/), [stride3d](https://www.stride3d.net/) / [GitHub](https://github.com/stride3d/stride), [cocos](https://www.cocos.com/en/) / [GitHub](https://github.com/cocos2d/cocos2d-x), [microStudio](https://microstudio.itch.io/microstudio), [GDevelop](https://4ian.itch.io/gdevelop) / [2](https://gdevelop.io/)
-
-### 2D Engines
-
-[Torque2D](https://github.com/TorqueGameEngines/Torque2D) / [Discord](https://discord.com/invite/qdAZxT4), [starling](https://gamua.com/starling/) / [GitHub](https://github.com/Gamua/Starling-Framework), [HaxeFlixel](https://haxeflixel.com/), [GB Studio](https://www.gbstudio.dev/) / [GitHub](https://github.com/chrismaltby/gb-studio) / [Subreddit](https://www.reddit.com/r/gbstudio) / [Discord](https://discord.com/invite/bxerKnc), [Flame](https://flame-engine.org/), [GameMaker](https://gamemaker.io/) / [Online](https://yellowafterlife.github.io/GMEdit/), [Arcade Game Designer](https://jonathan-cauldwell.itch.io/multi-platform-arcade-game-designer) / [2](https://jonathan-cauldwell.itch.io/arcade-game-designer)
-[Pixelbox](https://pixwlk.itch.io/pixelbox), [PQ93](https://charliezip.itch.io/pq93), [Bitsy](https://make.bitsy.org/), [Script 8](https://script-8.github.io/), [Tic80](https://tic80.com/), [Byond](https://www.byond.com/), [LÖVE](https://love2d.org/), [Scratch](https://scratch.mit.edu/)
-
-### 3D Engines
-
-[Cave Engine](https://unidaystudio.itch.io/cave-engine), [OpenXRay](https://github.com/OpenXRay) / [Discord](https://discord.com/invite/sjRMQwv), [cryengine](https://www.cryengine.com/) / [Discord](https://discord.com/invite/cryengine), [armory3d](https://armory3d.org/) / [GitHub](https://github.com/armory3d/armory), [torque3d](https://torque3d.org/) / [GitHub](https://github.com/TorqueGameEngines/Torque3D) / [Discord](https://discord.com/invite/qdAZxT4), [Panda3D](https://www.panda3d.org/)
+* [Archives Explorer](https://fmodel.app/)
+* [Cave Engine](https://unidaystudio.itch.io/cave-engine)
+* [Panda3D](https://www.panda3d.org/)
+* [OpenXRay](https://github.com/OpenXRay) / [Discord](https://discord.com/invite/sjRMQwv)
+* [cryengine](https://www.cryengine.com/) / [Discord](https://discord.com/invite/cryengine)
+* [armory3d](https://armory3d.org/) / [GitHub](https://github.com/armory3d/armory)
+* [torque3d](https://torque3d.org/) / [GitHub](https://github.com/TorqueGameEngines/Torque3D) / [Discord](https://discord.com/invite/qdAZxT4)
 
 ***
 
