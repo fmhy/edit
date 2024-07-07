@@ -36,6 +36,7 @@
 * [Nova](https://novastream.top/) - Movies / TV / 1080p / [Github](https://github.com/ambr0sial/nova/)
 * [HollyMovieHD](https://hollymoviehd.cc/), [2](https://yeshd.net/), [3](https://novamovie.net/) - Movies / TV / Anime / 1080p / [Mirrors](https://hollymoviehd-official.com/)
 * [YassFlix](https://yassflix.live/) - Movies / TV / Anime / 1080p / Ad-Free
+* * [SnackPW](https://snack.pw/) - Movies / TV / 1080p / Ad-Free
 * [Seez](https://seez.su/), [2](https://watchwave-v2.vercel.app/watch) - Movies / TV / 1080p / [Discord](https://discord.com/invite/v5mSB8gvcm)
 * [Movierr](https://movierr.online/) - Movies / TV / Anime / [Discord](https://discord.gg/sxKN424ZYK)
 * [EuroPixHD](https://europixhd.pro/) - Movies / TV / Anime / 1080p
