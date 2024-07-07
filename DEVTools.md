@@ -564,10 +564,9 @@
 * [Inkwell Ideas](https://inkwellideas.com/free-tools/) - Free Map Tools
 * [Neighbourhood](https://watabou.itch.io/neighbourhood) - Neighborhood Map Generator
 * [Laigter](https://azagaya.itch.io/laigter) - Map Generator for 2D Sprites
----
-* [Dungeon Scrawl](https://probabletrain.itch.io/dungeon-scrawl) / [Subreddit](https://www.reddit.com/r/dungeonscrawl/) / [Discord](https://discord.com/invite/RxyZyXg)
+* [Dungeon Scrawl](https://probabletrain.itch.io/dungeon-scrawl) - Dungeon Mapmaking Tool / [Subreddit](https://www.reddit.com/r/dungeonscrawl/) / [Discord](https://discord.com/invite/RxyZyXg)
 * [Dungeon Map Doodler](https://dungeonmapdoodler.com/) - Draw Dungeon & Terrain Maps
-* [One Page Dungeon](https://watabou.itch.io/one-page-dungeon)
+* [One Page Dungeon](https://watabou.itch.io/one-page-dungeon) - Single-page Dungeon Map Generator
 
 ***
 

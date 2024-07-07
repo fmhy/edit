@@ -408,18 +408,18 @@
 
 * [Game UI Database](https://www.gameuidatabase.com/) - Game UI Database
 * [Game-icons](https://game-icons.net/) - Game Icons
-* [/r/GameAssets](https://www.reddit.com/r/gameassets/) - Community
-* [CraftPix](https://craftpix.net/freebies/)
-* [Kenney](https://www.kenney.nl/)
+* [r/GameAssets](https://www.reddit.com/r/gameassets/) - Community
 * [UnityAssets4Free](https://unityassets4free.com/) - Free Paid Unity Assets
-* [Open Game Art](https://opengameart.org/)
+* [CraftPix](https://craftpix.net/freebies/) - 2D Game Assets
+* [Kenney](https://www.kenney.nl/) - Free Game Assets
+* [xonotic](https://github.com/xonotic) or [Warsow](https://github.com/Warsow) - FPS Game Assets
+* [OpenGameArt.org](https://opengameart.org/)
 * [UnityFreaks](https://www.unityfreaks.com/)
 * [GameDevUE](https://t.me/GameDevUE)
 * [SteamGridDB](https://www.steamgriddb.com/)
 * [DevAssets](https://devassets.com/)
 * [Incern](https://www.incern.org/)
 * [GameDev Market](https://www.gamedevmarket.net/)
-* [Vanguard](https://project-vanguard.netlify.app/index.html) / [GitHub](https://github.com/VanguardDev/Vanguard), [xonotic](https://github.com/xonotic) or [Warsow](https://github.com/Warsow) - FPS Game Assets
 
 ***
 
@@ -430,11 +430,11 @@
 * [Torque2D](https://github.com/TorqueGameEngines/Torque2D) / [Discord](https://discord.com/invite/qdAZxT4)
 * [starling](https://gamua.com/starling/) / [GitHub](https://github.com/Gamua/Starling-Framework)
 * [LÖVE](https://love2d.org/) / [Resources](https://github.com/love2d-community/awesome-love2d)
-* [HaxeFlixel](https://haxeflixel.com/)
 * [GB Studio](https://www.gbstudio.dev/) / [GitHub](https://github.com/chrismaltby/gb-studio) / [Subreddit](https://www.reddit.com/r/gbstudio) / [Discord](https://discord.com/invite/bxerKnc)
-* [Flame](https://flame-engine.org/)
 * [GameMaker](https://gamemaker.io/) / [Resources](https://github.com/bytecauldron/awesome-gamemaker) / [Online](https://yellowafterlife.github.io/GMEdit/)
 * [Arcade Game Designer](https://jonathan-cauldwell.itch.io/arcade-game-designer) / [Multi-platform](https://jonathan-cauldwell.itch.io/multi-platform-arcade-game-designer)
+* [HaxeFlixel](https://haxeflixel.com/)
+* [Flame](https://flame-engine.org/)
 * [Pixelbox](https://pixwlk.itch.io/pixelbox)
 * [PQ93](https://charliezip.itch.io/pq93)
 * [Bitsy](https://make.bitsy.org/)
