@@ -40,7 +40,6 @@
 * [Pinta Project](https://www.pinta-project.com/)
 * [Luna Paint](https://marketplace.visualstudio.com/items?itemName=Tyriar.luna-paint) - VS Code
 * [Gimel Studio](https://gimelstudio.github.io/)
-* [MagickUtils](https://github.com/n00mkrad/magick-utils)
 
 ***
 
