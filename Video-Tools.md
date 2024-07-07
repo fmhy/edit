@@ -123,7 +123,7 @@
 
 ## ▷ VTuber Tools
 
-* 🌐 **[Runa Archive](https://kekuwi.github.io/Runa-Archive)** - VTuber Resources
+* 🌐 **[Runa's Archive](https://kekuwi.github.io/Runa-Archive)** - VTuber Resources
 * [Best VTuber](https://gist.github.com/emilianavt/cbf4d6de6f7fb01a42d4cce922795794) - VTuber Resources
 * [VTResources](https://vtresources.carrd.co/) - VTuber Resources
 * [VTuber Assets](https://discord.gg/acU3dFRtvC) - VTuber Resources
