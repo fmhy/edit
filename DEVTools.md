@@ -870,7 +870,7 @@
 * ⭐ **[MagicTools](https://github.com/ellisonleao/magictools)** - Resources
 * ⭐ **[develop.games](https://www.develop.games/)** - Game Dev Guides
 * ⭐ **[Brackeys](https://www.youtube.com/channel/UCYbK_tjZ2OrIZFBvU6CCMiA)** - Game Dev Tutorials
-* ⭐ **[r/gamedev](https://www.reddit.com/r/gamedev/)** - Game Dev Community
+* ⭐ **[r/gamedev](https://www.reddit.com/r/gamedev/)** - Reddit Community
 * [Newgrounds Wiki: Game Dev Resources](https://www.newgrounds.com/wiki/creator-resources/game-dev-resources) - Resources
 * [The VG Resource](https://www.vg-resource.com/) - Resources
 * [PICO-8](https://mboffin.itch.io/pico8-educational-toolset) - Basic Game Dev Concepts / [Web Version](https://www.pico-8-edu.com/)
