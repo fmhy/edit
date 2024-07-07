@@ -435,7 +435,7 @@
 * ⭐ **[Squid-Board](https://www.squid-board.org/)** - Media Soundtracks / Account Required
 * ⭐ **[Squidify](https://www.squidify.org)** - Game / Anime Soundtracks / [Resources](https://wotaku.pages.dev/guides/squidify/)
 * [MusicDex](https://musicdex.org/) - Anime Soundtracks / [Discord](https://discord.gg/yCXJkbdCHt)
-* [Download-Soundtracks](https://download-soundtracks.com/), [3ost](https://3ost.ru/), [joshw](https://pc.joshw.info/) / [Search](https://vgm.hcs64.com/) or [tanikal](https://www.tanikal.com/) - Soundtracks
+* [3ost](https://3ost.ru/), [joshw](https://pc.joshw.info/) / [Search](https://vgm.hcs64.com/) or [tanikal](https://www.tanikal.com/) - Soundtracks
 * [RenovationRecords](https://renovatiorecords.blogspot.com/) - HQ Movies Soundtracks
 * [GTA Radio Stations Music](https://rentry.co/FMHYBase64#gta-radio-stations) - GTA Radio Stations
 * [Animal Crossing Radio](https://animal-crossing-radio.com/) - Animal Crossing Radio
@@ -493,7 +493,7 @@
 * [IDM Discovery](https://www.idmdiscovery.com/) - IDM Artist Archive
 * [Rec Charts](https://mega.nz/folder/kj5hWI6J#0cyw0-ZdvZKOJW3fPI6RfQ) - Music Recommendation Guides
 * [45Cat](https://www.45cat.com/) - Vinyl Ratings / Reviews
-* [Spotalike](https://spotalike.com/), [playlist-generator](https://www.playlist-generator.com/), [Chat Jams](https://www.chatjams.ai/), [MagicPlaylist](https://magicplaylist.co/), [Vibesition](https://vibesition.jordantwells.com/), [NautrualLanguage](https://www.naturallanguageplaylist.com/), [Groovifi](https://groovifi.com/), [Highlights2SPotify](https://highlights2spotify.com/) or [RadioNewify](https://radionewify.com/) - Spotify Playlist Generators
+* [Spotalike](https://spotalike.com/), [playlist-generator](https://www.playlist-generator.com/), [Chat Jams](https://www.chatjams.ai/), [MagicPlaylist](https://magicplaylist.co/), [Vibesition](https://vibesition.jordantwells.com/), [NautrualLanguage](https://www.naturallanguageplaylist.com/), [Groovifi](https://groovifi.com/), [spotgen](https://epsil.github.io/spotgen), [Highlights2SPotify](https://highlights2spotify.com/) or [RadioNewify](https://radionewify.com/) - Spotify Playlist Generators
 * [Spotify Playlist Archive](https://spotifyplaylistarchive.com/) - Archive of Official Spotify Playlists
 * [Spoqify](https://spoqify.com/) - Anonymous Playlist Generator
 * [TuneMunk](https://www.tunemunk.com/) - Spotify Playlist Sharing
