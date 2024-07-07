@@ -408,22 +408,19 @@
 
 ## Game Assets
 
+* [Kenney](https://www.kenney.nl/) - Free Game Assets
+* [Dev Assets](https://devassets.com/) - Free Game Assets
 * [Game UI Database](https://www.gameuidatabase.com/) - Game UI Database
 * [Game-icons](https://game-icons.net/) - Game Icons
 * [r/GameAssets](https://www.reddit.com/r/gameassets/) - Community
 * [UnityAssets4Free](https://unityassets4free.com/) - Free Paid Unity Assets
+* [Incern](https://www.incern.org/) - Free Unity Assets
 * [CraftPix](https://craftpix.net/freebies/) - 2D Game Assets
-* [Kenney](https://www.kenney.nl/) - Free Game Assets
 * [xonotic](https://github.com/xonotic) or [Warsow](https://github.com/Warsow) - FPS Game Assets
-* [OpenGameArt.org](https://opengameart.org/)
-* [UnityFreaks](https://www.unityfreaks.com/)
-* [GameDevUE](https://t.me/GameDevUE)
-* [SteamGridDB](https://www.steamgriddb.com/)
-* [DevAssets](https://devassets.com/)
-* [Incern](https://www.incern.org/)
-* [GameDevAssets](https://www.gamedevmarket.net/category/3d/?type=free)
-* [xonotic](https://github.com/xonotic) - FPS Game Assets
-* [Warsow](https://github.com/Warsow) - FPS Game Assets
+* [GameDev Market](https://www.gamedevmarket.net/) - Assets for Indie Developers
+* [OpenGameArt.org](https://opengameart.org/) - Game Art Community
+* [UnityFreaks](https://www.unityfreaks.com/) or [GameDevUE](https://t.me/GameDevUE) - Unity & Unreal Engine Assets
+* [SteamGridDB](https://www.steamgriddb.com/) - Custom Video Game Assets
 
 ***
 
