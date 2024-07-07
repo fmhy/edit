@@ -77,13 +77,10 @@
 * [ArmCord](https://github.com/ArmCord/ArmCord) - Discord Client Mod / Lightweight
 * [abaddon](https://github.com/uowuo/abaddon) - Discord Client Mod / Lightweight
 * [Discordo](https://github.com/ayn2op/discordo) - Discord Terminal Client
-* [Unicord](https://github.com/UnicordDev/Unicord) - Discord Client for Windows / [Discord](https://discord.gg/64g7M5Y)
 * [Spacebar](https://github.com/spacebarchat/spacebarchat) - Self-hostable Discord Client
-* [discord-PWA](https://github.com/NeverDecaf/discord-PWA) - Discord PWA Client
 * [Dorion](https://github.com/SpikeHD/Dorion) - Lightweight Discord Client
 * [Dissent](https://github.com/diamondburned/dissent) - GTK4 Discord Client
 * [Discord Portable](https://portapps.io/app/discord-portable/) / [PTB PortApps](https://portapps.io/app/discord-ptb-portable/) - Portable Discord Stable
-* [litecord](https://gitlab.com/litecord/litecord) - Reimplementation of Discord's Backend / [Clients](https://gitlab.com/litecord/litecord/-/blob/master/docs/clients.md)
 
 ***
 
