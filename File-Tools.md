@@ -41,7 +41,7 @@
 * ⭐ **[IDM](https://rentry.co/FMHYBase64#idm)** - Download Manager
 * [XDM](https://xtremedownloadmanager.com/) - Download Manager / [GitHub](https://github.com/subhra74/xdm)
 * [Motrix](https://www.motrix.app/) or [imFile](https://github.com/imfile-io/imfile-desktop) - Download Manager / [GitHub](https://github.com/agalwood/Motrix)
-* [aria2](https://aria2.github.io/) - Terminal Download Manager / [GitHub](https://github.com/aria2/aria2) / [Download Bot](https://github.com/gaowanliang/DownloadBot) / [GUI](https://github.com/persepolisdm/persepolis) / [Frontend](https://ariang.mayswind.net/) / [WebUI](https://github.com/ziahamza/webui-aria2) / [GUI](https://persepolisdm.github.io/)
+* [aria2](https://aria2.github.io/) or [Persepolis](https://persepolisdm.github.io/) - Terminal Download Manager / [GitHub](https://github.com/aria2/aria2) / [Download Bot](https://github.com/gaowanliang/DownloadBot) / [WebUI](https://github.com/ziahamza/webui-aria2), [2](https://ariang.mayswind.net/)
 * [FDM](https://www.freedownloadmanager.org/) - Download Manager / [YTDL Addon](https://github.com/meowcateatrat/elephant) / [Note](https://pastebin.com/Vgwf3avH)
 * [pyLoad](https://pyload.net/) - Lightweight Download Manager
 * [File Centipede](https://filecxx.com/) - Upload / Download Manager
