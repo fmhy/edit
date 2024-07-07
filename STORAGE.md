@@ -412,7 +412,7 @@
 * [Dev Assets](https://devassets.com/) - Free Game Assets
 * [Game UI Database](https://www.gameuidatabase.com/) - Game UI Database
 * [Game-icons](https://game-icons.net/) - Game Icons
-* [r/GameAssets](https://www.reddit.com/r/gameassets/) - Community
+* [r/GameAssets](https://www.reddit.com/r/gameassets/) - Reddit Community
 * [UnityAssets4Free](https://unityassets4free.com/) - Free Paid Unity Assets
 * [Incern](https://www.incern.org/) - Free Unity Assets
 * [CraftPix](https://craftpix.net/freebies/) - 2D Game Assets
