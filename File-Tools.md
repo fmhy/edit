@@ -74,7 +74,7 @@
 
 ## ▷ File Converters
 
-* 🌐 **[.to Sites](https://rentry.co/nsq29)** - File Converters Index
+* 🌐 **[.to Sites](https://rentry.co/tosites)** - File Converters Index
 * ⭐ **[File Converter](https://file-converter.io/)** / [GitHub](https://github.com/Tichau/FileConverter) - Convert / Compress Files
 * ⭐ **[CloudConvert](https://cloudconvert.com/)** - Convert Files / 1 GB Limit
 * [Pandoc](https://pandoc.org/) - Document Converter
