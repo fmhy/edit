@@ -240,19 +240,15 @@
 * [View-only PDF](https://rentry.co/cm4b7) - Download View-Only PDF on GDrive
 * [online2pdf](https://online2pdf.com/) or [2PDFConverter](https://www.2pdfconverter.com/) - Convert Files to PDF
 * [PDFConverter](https://www.pdfconverter.com/) or [PDFconvert](https://docupub.com/pdfconvert/) - PDF File Converters
-* [Adobe Compress PDF](https://www.adobe.com/acrobat/online/compress-pdf.html) - PDF Compressor
 * [PDF Mergy](https://pdfmerge.w69b.com/) or [PDFSnake](https://pdfsnake.app/) - Merge PDF Files
-* [Adobe Word Converter](https://www.adobe.com/acrobat/online/word-to-pdf.html) - Word to PDF Converter
 * [PDFLayoutTextStripper](https://github.com/JonathanLink/PDFLayoutTextStripper) - PDF to Text Converter
 * [VancedPDF](https://vancepdf.com/) or [PDFtoWordConverter](https://xodo.com/pdf-to-word-converter) - PDF to Word Converter
 * [Marker](https://github.com/VikParuchuri/marker) - PDF to Markdown
-* [Adobe Excel to PDF](https://www.adobe.com/acrobat/online/excel-to-pdf.html) - Convert Excel Files to PDF
 * [Images to PDF](https://github.com/Swati4star/Images-to-PDF) or [Adobe Converter](https://www.adobe.com/acrobat/online/jpg-to-pdf.html) - Image to PDF Converter
 * [PDFCrowd](https://pdfcrowd.com/), [HTMLaPDF](https://www.htmlapdf.com/), [TailWindPDF](https://tailwindpdf.com/) or [wkhtmltopdf](https://wkhtmltopdf.org/) - HTML to PDF / Image Converter
 * [Issuu](https://issuu.com/) - Convert PDF Files to Webpages, Flipbooks, Brochures & More / [Downloader](https://docdownloader.com/), [2](https://vebuka.com/)
 * [WebToPDF](https://webtopdf.com/) or [Percollate](https://github.com/danburzo/percollate) - Webpage to PDF Converters
 * [GraphPaper](https://incompetech.com/graphpaper/) - PDF Graphs
-* [PPT To PDF](https://www.adobe.com/acrobat/online/ppt-to-pdf.html) - Convert PowerPoint to PDF Adobe
 * [Aspose](https://products.aspose.app/pdf/annotation) or [pdf-unstamper](https://github.com/hwding/pdf-unstamper) - PDF Watermark Remover
 * [Scan Your PDF](https://www.scanyourpdf.com/) - Make PDFs look Scanned
 * [PDF Fixer](https://pdffixer.com/) - Repair Damaged PDFs
