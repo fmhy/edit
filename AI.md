@@ -50,7 +50,7 @@
 * [lollms-webui](https://github.com/ParisNeo/lollms-webui) - Multiple Chatbots
 * [MagAI](https://rentry.org/freegpt4withmagai) - Multiple Chatbots
 * [freegpt4](https://rentry.org/freegpt4) - Free GPT-4 Methods
-* [Meta AI](https://www.meta.ai/) - Llama Chatbot / US only
+* [Meta AI](https://www.meta.ai/) - Llama 3 Chatbot
 * [NVIDIA NIM](https://build.nvidia.com/) - Llama 3
 * [Phind](https://www.phind.com/) - Llama Search Engine
 * [Perplexica](https://github.com/ItzCrazyKns/Perplexica) - AI Search Engine
