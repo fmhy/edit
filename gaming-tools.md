@@ -676,7 +676,7 @@
 
 ## ▷ Mario Kart Tools
 
-* ⭐ **[Retro Rewind](https://wiki.tockdom.com/wiki/Retro_Rewind)** - Retro MKW Tracks / Multiplayer / [Launcher / Updater](https://github.com/patchzyy/CT-MKWII-WPF)
+* ⭐ **[Retro Rewind](https://wiki.tockdom.com/wiki/Retro_Rewind)** - Retro MKW Tracks / Multiplayer
 * ⭐ **[CTGP Revolution](https://www.chadsoft.co.uk/)** - Custom MKW Tracks / Multiplayer / Disc required
 * ⭐ **[Mario Kart Midnight](https://wiki.tockdom.com/wiki/Mario_Kart_Midnight)** - Custom MKW Tracks / Multiplayer
 * ⭐ **[MKWRs](https://mkwrs.com)** or [MKLeaderboards](https://www.mkleaderboards.com/) - Mario Kart Records / Videos
