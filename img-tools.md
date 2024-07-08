@@ -603,14 +603,12 @@
 * [Binternet](https://github.com/Ahwxorg/Binternet) - Pinterest Frontend
 * [/r/Photography Guide](https://www.reddit.com/r/photography/wiki/introduction) - Photography / Camera Guide
 * [PhotoEphemeris](https://photoephemeris.com/) - Photography Sunlight Calculator
-* [DataFilm](http://datafilm.io/) - Notebook for Film Photographers
 * [fSpy](https://fspy.io/) - Still Image Camera Matching
 * [GlanceBack](https://glanceback.info/) - Daily Webcam Photo Journal
 * [Image Color Summarizer](http://mkweb.bcgsc.ca/color-summarizer/) - Image Color Summarizer
 * [Image Colors](https://franciscouzo.github.io/image_colors/) - Image Color Scatter Plot
 * [Image Pixel Sorter](http://birdhat.org/misc/sort-pixels/) - Sort Pixels of Images
 * [odiff](https://github.com/dmtrKovalenko/odiff) or [Image Comparison Tool](https://jklgit.github.io/Image-Comparison-in-Browser/index.html) - Image Differences / Comparisons
-* [FontAwesomePS](http://creativedo.co/FontAwesomePS) - Photoshop Icon Manager
 * [Adobe Bridge](https://adobe.com/products/bridge.html) - Adobe Assets Manager
 * [detectron2](https://detectron2.readthedocs.io/) - Object / Human Detection
 * [behind!](https://github.com/kubuzetto/behind) - View Background Images
