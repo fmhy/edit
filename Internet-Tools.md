@@ -80,6 +80,7 @@
 * [Bort](https://bort.io/) - Bookmark Manager / Dropbox Sync
 * [Bookmarklets Guide](https://rentry.co/bookmarklets-guide) - Useful Bookmarklets / Guide
 * [wallabag](https://wallabag.org/) - Save and Classify Articles
+* [SuperMemory](https://supermemory.ai/) - AI Bookmark App
 * [Sidebery](https://github.com/mbnuqw/sidebery) - Extension
 * [Bookmarks Organizer](https://github.com/cadeyrn/bookmarks-organizer) - Extension
 * [Centroly](https://centroly.com/) - Extension
@@ -298,7 +299,7 @@
 * ⭐ **[RSS Bridge](https://rss-bridge.org/bridge01/) / [GitHub](https://github.com/RSS-Bridge/rss-bridge)**, **[Feedless](https://feedless.org/)**, [MoRSS](https://morss.it/), [RSSHub](https://github.com/DIYgod/RSSHub), [Open RSS](https://openrss.org/), [RSS Please](https://rsspls.7bit.org/), [FetchRSS](https://fetchrss.com/), [Politepol](https://politepol.com/en/), [Janicek](https://feed.janicek.co/) or [FiveFilters](https://createfeed.fivefilters.org/) - RSS Feed Generators
 * [TheFeedReaderBot](https://thefeedreaderbot.com/) or [NewsBoat](https://newsboat.org/) - Console RSS Readers
 * [WebFeed](https://taoshu.in/webfeed/turn-browser-into-feed-reader.html) or [tt-rss](https://tt-rss.org/) - Web RSS Readers
-* [FreshRSS](https://freshrss.org/) or [CommaFeed](https://www.commafeed.com/#/welcome) - Self-Hosted RSS Readers
+* [FreshRSS](https://freshrss.org/), [Fusion](https://github.com/0x2E/fusion) or [CommaFeed](https://www.commafeed.com/#/welcome) - Self-Hosted RSS Readers
 * [Inoreader](https://www.inoreader.com/) - RSS Reader
 * [JungleReader](https://www.zajungle.com/) - RSS Reader
 * [Fluent Reader](https://hyliu.me/fluent-reader/) - RSS Reader
@@ -570,6 +571,7 @@
 * 🌐 **[Browser Comparisons](https://privacytests.org/)**, [2](https://avoidthehack.com/util/browser-comparison), [3](https://github.com/nerdyslacker/desktop-web-browsers)
 * ↪️ **[Privacy Browsers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25BA_web_privacy)**
 * ⭐ **[BrowserBench](https://browserbench.org/)** or [WPT](https://wpt.fyi) - Browser Benchmark Tests
+* ⭐ **[WhatTrainIsItNow?](https://whattrainisitnow.com/)** - Track Firefox Releases
 * ⭐ **[Firefox Keyboard Shortcuts](https://support.mozilla.org/en-US/kb/keyboard-shortcuts-perform-firefox-tasks-quickly)**
 * ⭐ **[Chrome Keyboard Shortcuts](https://support.google.com/chrome/answer/157179)**
 * [VsyncTester](https://vsynctester.com/) - Browser VSYNC Test
@@ -698,7 +700,7 @@
 * [GoFullPage](https://gofullpage.com/), [Easy Screenshot](https://webextension.org/listing/screenshot.html) or [FireShot](https://addons.mozilla.org/en-GB/firefox/addon/fireshot/) - Full Page Screenshots
 * [Bulk URL Opener](https://bulkurlopener.com/) or [Open-Multiple-URLs](https://github.com/htrinter/Open-Multiple-URLs/) - Open Multiple URLs in One Click
 * [PronounDB](https://pronoundb.org/) - Pronoun Addon
-* [XKit](https://github.com/new-xkit/XKit) - Make Tumblr More Usable
+* [XKit](https://github.com/new-xkit/XKit) - Tumblr Enhancement Extension
 * [Tab Session Manager](https://tab-session-manager.sienori.com/), [Sessionic](https://github.com/navorite/sessionic) or [Session Buddy](https://sessionbuddy.com/) - Session Managers
 * [Peek](https://github.com/corbindavenport/peek) - Shows Images & Videos Behind Links & Thumbnails
 * [Edge Stats](https://edge-stats.com/) - Compare / Analyze Edge Extensions
