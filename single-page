@@ -10316,6 +10316,7 @@ Use this [browser extension](https://github.com/bpc-clone/bpc_updates/releases) 
 * [GitHub Profile Readme Generator](https://rahuldkjain.github.io/gh-profile-readme-generator/) or [GPRM](https://gprm.itsvg.in/) - Generate Git Profile Readme
 * [GitStalk](https://gitstalk.netlify.app/) - GitHub Profile Info Search
 * [ProfileMe.dev](https://www.profileme.dev/) - Create GitHub Profile
+* [Beautify GitHub Profile](https://github.com/rzashakeri/beautify-github-profile) - Custom GitHub Profile Resources
 * [Discord MD Badge](https://github.com/gitlimes/discord-md-badge) - Add Discord Badge to GitHub
 * [github-material-icons-extension](https://github.com/Claudiohbsantos/github-material-icons-extension) - Material Icons
 * [gist.io](https://gist.io/) - Git Blog Platform
@@ -10327,7 +10328,7 @@ Use this [browser extension](https://github.com/bpc-clone/bpc_updates/releases) 
 
 * 🌐 **[Awesome Docker](https://moistcatawumpus.github.io/awesome-docker/)** - Docker Services Index
 * ⭐ **[Docker](https://www.docker.com/)** - Build, Manage and Run Apps in Containers
-* ⭐ **[portainer](https://portainer.io/)**, [sudobox](https://sudobox.io/) / [Discord](https://discord.gg/Ebh9rKQ5Ws), [yacht](https://yacht.sh/), [moncho](https://moncho.github.io/dry/) or [podman](https://podman.io/) - Container Managers
+* ⭐ **[portainer](https://portainer.io/)**, [sudobox](https://sudobox.io/) / [Discord](https://discord.gg/Ebh9rKQ5Ws), [yacht](https://yacht.sh/), [moncho](https://moncho.github.io/dry/) or [podman](https://podman.io/) / [2](https://podman-desktop.io/) - Container Managers
 * ⭐ **[Composerize](https://www.composerize.com/)**, [2](https://github.com/irbigdata/data-dockerfiles) - Compose Docker Files
 * ⭐ **[Hub Docker](https://hub.docker.com/)**, [2](https://linuxserver.io/), [3](https://hotio.dev/) - Docker Images
 * [Docker Desktop](https://www.docker.com/products/docker-desktop/) - Docker Desktop App
@@ -10397,6 +10398,7 @@ Use this [browser extension](https://github.com/bpc-clone/bpc_updates/releases) 
 
 ## ▷ Machine Learning
 
+* 🌐 **[LiveBench](https://livebench.ai/)** - LLM Benchmarks / Leaderboards
 * 🌐 **[Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)**, [Caffee](https://caffe.berkeleyvision.org/) / [GitHub](https://github.com/BVLC/caffe), [SuperAGI](https://superagi.com/) / [GitHub](https://github.com/TransformerOptimus/SuperAGI), [Rasa](https://rasa.com/docs/rasa/) or [OpenNN](https://www.opennn.net/) / [GitHub](https://github.com/Artelnics/OpenNN) - Machine Learning Frameworks
 * 🌐 **[Awesome List of Awesomes](https://github.com/Nachimak28/awesome-list-of-awesomes)**, [Awesome ML](https://github.com/underlines/awesome-marketing-datascience/), [Awesome LLM JSON](https://github.com/imaurer/awesome-llm-json), [CyberCowboy](https://local-llm.cybercowboy.de) or [ML_Resources](https://github.com/tunguz/ML_Resources) - Machine Learning Resources
 * 🌐 **[Awesome Google Colab](https://github.com/firmai/awesome-google-colab)** - Machine Learning Collabs
@@ -10440,6 +10442,7 @@ Use this [browser extension](https://github.com/bpc-clone/bpc_updates/releases) 
 
 # ► Game Dev Tools
 
+* 🌐 **[Awesome Game Dev](https://github.com/Calinou/awesome-gamedev)** - Game Dev Resources
 * 🌐 **[Awesome One Person Games](https://github.com/Yonaba/awesome-one-person-games)** - Single Dev Game Examples
 * 🌐 **[Awesome Game Production](https://github.com/vhladiienko/awesome-game-production)** - Game Production Resources
 * ↪️ **[Learn Game Development](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/dev-tools#wiki_.25B7_game_development)**
@@ -10544,6 +10547,7 @@ Use this [browser extension](https://github.com/bpc-clone/bpc_updates/releases) 
 * ⭐ **[WebDen](https://webden.dev/)**, [Sharplab](https://sharplab.io/), [tech.io](https://tech.io/), [CodingGround](https://www.tutorialspoint.com/codingground.htm) or [Online Tools](https://onlinetool.io/) - Code Playgrounds
 * [Selenium](https://www.selenium.dev/), [PlayWright](https://playwright.dev/) or [Huginn](https://github.com/huginn/huginn) - Browser Automation
 * [Heynote](https://heynote.com/) - Code Editor / Notepad
+* [Edna](https://edna.arslexis.io/) - Code Editor / Notepad
 * [JetBrains](https://education.github.com/pack) - Code Editor / [License Server](https://github.com/crazy-max/docker-jetbrains-license-server) / [Free Method](https://rentry.co/FMHYBase64#jetbrain-ide)
 * [Bluefish](https://bluefish.openoffice.nl/index.html) - [Templates](https://templates.openoffice.org/en)
 * [CudaText](https://cudatext.github.io/) - Code Editor
@@ -10585,9 +10589,22 @@ Use this [browser extension](https://github.com/bpc-clone/bpc_updates/releases) 
 
 * 🌐 **[cloud](https://gist.github.com/imba-tjd/d73258f0817255dbe77d64d40d985e76#file-cloud-md)** - Cloud Platform Index
 * ↪️ **[Code Collaboration Platforms](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools#wiki_.25B7_text_.2F_code_collaboration)**
-* ⭐ **[goormIDE](https://ide.goorm.io/)**, [Fleet](https://www.jetbrains.com/fleet/), [CodeTasty](https://codetasty.com/), [Replit](https://replit.com/), [BoostNote](https://boostnote.io/), [Aither](https://github.com/enoki-inc/aither), [Deta](https://deta.space/), [TerraForm](https://www.terraform.io/), [Atheos](https://www.atheos.io/) / [GitHub](https://github.com/Atheos/Atheos), [Datalore](https://datalore.jetbrains.com/), [DeepNote](https://deepnote.com/), [Cloud9](https://aws.amazon.com/cloud9/) or [Glitch](https://glitch.com/) / [Replit Import](https://replit.com/glitch) / [GitHub](https://github.com/m3o/m3o) - Cloud IDEs
+* ⭐ **[goormIDE](https://ide.goorm.io/)** - Cloud IDE
 * ⭐ **[CodeSandbox](https://codesandbox.io/)**, [StackBlitz](https://stackblitz.com/) or [GitPod](https://www.gitpod.io/) - VSCode Cloud IDE
 * ⭐ **[judge0](https://ide.judge0.com/)** - Online Code Editor / [Discord](https://discord.com/invite/GRc3v6n)
+* [Fleet](https://www.jetbrains.com/fleet/) - Cloud IDE
+* [CodeTasty](https://codetasty.com/) - Cloud IDE
+* [Replit](https://replit.com/) - Cloud IDE
+* [BoostNote](https://boostnote.io/) - Cloud IDE
+* [Moonbit](https://www.moonbitlang.com/) - Cloud IDE
+* [Aither](https://github.com/enoki-inc/aither) - Cloud IDE
+* [Deta](https://deta.space/) - Cloud IDE
+* [TerraForm](https://www.terraform.io/) - Cloud IDE
+* [Atheos](https://www.atheos.io/) - Cloud IDE / [GitHub](https://github.com/Atheos/Atheos)
+* [Datalore](https://datalore.jetbrains.com/) - Cloud IDE
+* [DeepNote](https://deepnote.com/) - Cloud IDE
+* [Cloud9](https://aws.amazon.com/cloud9/) - Cloud IDE
+* [Glitch](https://glitch.com/) - Cloud IDE / [Replit Import](https://replit.com/glitch) / [GitHub](https://github.com/m3o/m3o)
 * [JSFiddle](https://jsfiddle.net/) - Online Code Editor
 * [Collabedit](https://collabedit.com/) - Online Code Editor
 * [Portacode](https://portacode.com/) - Online Code Editor
@@ -11123,7 +11140,7 @@ Use this [browser extension](https://github.com/bpc-clone/bpc_updates/releases) 
 * ⭐ **[EmulatorJS](https://emulatorjs.org/)** - Embed Emulators on Websites
 * ⭐ **[GoAccess](https://goaccess.io/)** - Web Log Analyzer / [GitHub](https://github.com/allinurl/goaccess)
 * [Website Planet Tools](https://www.websiteplanet.com/webtools/), [Dan's Tools](https://www.danstools.com/), [Webdesign Assistant](https://webdesign-assistant.com/), [xWebTools](https://www.xwebtools.com/), [Tiny Helpers](https://tiny-helpers.dev/), [Browserling Tools](https://www.browserling.com/tools/), [WebCode](https://webcode.tools/), [Web Toolbox](https://web-toolbox.dev/en), [ToolCool](https://toolcool.org/) or [CSSAuthor](https://cssauthor.com/) - Site Development Tools
-* [Grav](https://getgrav.org/) - Flat-File CMS
+* [Grav](https://getgrav.org/) - Flat-File CMS / [GitHub](https://github.com/getgrav/grav)
 * [Flux](https://www.runonflux.io/) - Decentralized Cloud Infrastructure
 * [URLPages](http://jstrieb.github.io/urlpages) / [GitHub](https://github.com/jstrieb/urlpages) - Store Entire Pages in URLs
 * [Shoelace](https://shoelace.style/), [Fast](https://www.fast.design/) or [Elix](https://component.kitchen/elix) - Web Component libraries
@@ -11189,6 +11206,7 @@ Use this [browser extension](https://github.com/bpc-clone/bpc_updates/releases) 
 * [Pay 2 Email](https://pay2.email/) - Simple Website Contact Form
 * [Seventy Seven](https://www.seventy-seven.dev/) - Customer Support Tool
 * [Chaindesk](https://www.chaindesk.ai/) - AI Chatbot for Customer Support
+* [Formshare](https://formshare.ai/) - AI Form / Feedback Builder
 * [Twitcker](https://twitcker.com/) - Add Twitter Feed Ticker to Site
 * [Curator](https://curator.io/) - Embed Social Media Feeds
 * [MinIO](https://min.io/) or [Filebase](https://filebase.com/) - Cloud Native Object Storage
