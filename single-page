@@ -424,7 +424,7 @@
 * [TribalMixed](https://www.tribalmixes.com/) - DJ Mixes / MP3
 * [PandaCD](https://pandacd.io/) - User-Made Music / MP3
 * [ZOMB Torrents](http://zombtracker.the-zomb.com/) - Forum
-* [bt.etree](https://bt.etree.org/), [LiveBootlegConcert](https://livebootlegconcert.blogspot.com/) or [DreamingTree](https://dreamingtree.org/) - Live Concert Recordings
+* [bt.etree](https://bt.etree.org/), [etreedb](https://etreedb.org/ ), [LiveBootlegConcert](https://livebootlegconcert.blogspot.com/) or [DreamingTree](https://dreamingtree.org/) - Live Concert Recordings
 * [NFO db](https://nfodb.ru/) - MP3 NFO Database
 
 ***
@@ -493,7 +493,7 @@
 * [IDM Discovery](https://www.idmdiscovery.com/) - IDM Artist Archive
 * [Rec Charts](https://mega.nz/folder/kj5hWI6J#0cyw0-ZdvZKOJW3fPI6RfQ) - Music Recommendation Guides
 * [45Cat](https://www.45cat.com/) - Vinyl Ratings / Reviews
-* [Spotalike](https://spotalike.com/), [playlist-generator](https://www.playlist-generator.com/), [Chat Jams](https://www.chatjams.ai/), [MagicPlaylist](https://magicplaylist.co/), [Vibesition](https://vibesition.jordantwells.com/), [NautrualLanguage](https://www.naturallanguageplaylist.com/), [Groovifi](https://groovifi.com/), [spotgen](https://epsil.github.io/spotgen), [Highlights2SPotify](https://highlights2spotify.com/) or [RadioNewify](https://radionewify.com/) - Spotify Playlist Generators
+* [Spotalike](https://spotalike.com/), [playlist-generator](https://www.playlist-generator.com/), [Chat Jams](https://www.chatjams.ai/), [MagicPlaylist](https://magicplaylist.co/), [Vibesition](https://vibesition.jordantwells.com/), [NautrualLanguage](https://www.naturallanguageplaylist.com/), [Groovifi](https://groovifi.com/), [spotgen](https://epsil.github.io/spotgen), [Highlights2SPotify](https://highlights2spotify.com/), [Moodify](https://moodify.app/) or [RadioNewify](https://radionewify.com/) - Spotify Playlist Generators
 * [Spotify Playlist Archive](https://spotifyplaylistarchive.com/) - Archive of Official Spotify Playlists
 * [Spoqify](https://spoqify.com/) - Anonymous Playlist Generator
 * [TuneMunk](https://www.tunemunk.com/) - Spotify Playlist Sharing
@@ -542,6 +542,7 @@
 * [Phiola](https://github.com/stsaz/phiola), [AudioToolSet](https://audiotoolset.com/) or [Safeaudiokit](https://safeaudiokit.com/) - Audio Multi-Tool Apps / Sites
 * [qAAC](https://github.com/nu774/qaac) - QuickTime AAC/ALAC encoder
 * [opus-tools](https://opus-codec.org/downloads/) - Encode, Inspect and Decode .opus Files
+* [Tunebat](https://tunebat.com/) - Music Key / BPM Database
 * [Cleanfeed](https://cleanfeed.net/) - Live Audio Recording
 * [Musicara](https://www.musicara.ml/) or [X-Minus](https://x-minus.pro/) - Create Karaoke Songs
 * [Librescore Downloader](https://github.com/LibreScore/dl-librescore) - Librescore Downloader
