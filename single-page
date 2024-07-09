@@ -15254,8 +15254,8 @@ Linux Gaming Guide
 
 * ⭐ **[CyberChef](https://gchq.github.io/CyberChef/)** - Encode / Decode Text
 * ⭐ **[Base64 Decode](https://www.base64decode.org/) / [Encode](https://www.base64encode.org/)** / [Dynamic](https://apps.maximelafarie.com/base64/) / [Chrome](https://chromewebstore.google.com/detail/base64-encoderdecoder/afdannbjainhcddbjjlhamdgnojibeoi), [2](https://chromewebstore.google.com/detail/base64-decode-copy/llcfmnginbnmkeddkjjellcimmffjdcf), [3](https://chromewebstore.google.com/detail/clip64-base64-decoder/hdneaoibdfdmifgfjjlkbkceanhjmgch) / [Firefox](https://addons.mozilla.org/en-US/firefox/addon/base64-decoder/) / [Opera](https://addons.opera.com/en/extensions/details/base64-encode-and-decode/)
-* [Universal Encoding Tool](https://unenc.com/) - Encode / Convert Text
 * [Ciphey](https://github.com/Ciphey/Ciphey) - Automated Decryption Tool
+* [Universal Encoding Tool](https://unenc.com/) - Encode / Convert Text
 * [cryptii](https://cryptii.com/), [DenCode](https://dencode.com/) - Text / URL Encoding
 * [Online Tools](https://emn178.github.io/online-tools/index.html) - Text / URL Encoding and Decoding
 * [URL Decode](https://url-decode.com/) / [Encode](https://url-decode.com/tool/url-encode) - URL Encoding / Decoding
@@ -15284,6 +15284,7 @@ Linux Gaming Guide
 * [paraphrasingtool](https://paraphrasingtool.ai/) - Text Rephrasing
 * [SMMRY](https://smmry.com/) - Text Summary
 * [henshu](https://www.henshu.ai/) - Text Rephrasing
+* [WriteFull](https://www.writefull.com/) - Text Rephrasing
 * [Recast](https://www.letsrecast.ai/) - Text Summary
 
 ***
@@ -15351,6 +15352,7 @@ Linux Gaming Guide
 * ⭐ **[AnyType](https://anytype.io/)**
 * ⭐ **[Logseq](https://logseq.com/)**
 * [Mochi Cards](https://mochi.cards/) or [Silicon](https://github.com/cu/silicon) - Note-Taking / Study Tools
+* [BookStack](https://www.bookstackapp.com/) or [Siyuan](https://github.com/siyuan-note/siyuan) - Self-Hosted Information Managers
 * [Desklamp](https://desklamp.io/) - Reading / Note Taking / Highlighting Tool / [Guide](https://app.desklamp.io/read?id=46b203c6-d8df-453d-b546-95a8fa7a44b9&mode=explore)
 * [Note Garden](https://notegarden.io/) - Auto Courses
 * [benotes](https://benotes.org/) - Self-hosted Bookmarks and Note Taking
@@ -15358,7 +15360,7 @@ Linux Gaming Guide
 * [Simplenote](https://simplenote.com/) - Crossplatform Note Taking
 * [Butterfly](https://docs.butterfly.linwood.dev/) - Handwritten Notes / [Discord](https://discord.com/invite/97zFtYN) / [Github](https://github.com/LinwoodDev/Butterfly)
 * [EncryptPad](https://evpo.net/encryptpad/) - Encrypted Text Editor
-* [NotebookLM](https://notebooklm.google/) - AI Notes App
+* [NotebookLM](https://notebooklm.google/) or [Raven](https://www.ravenotes.com/) - AI Note Taking
 * [Xournal++](https://xournalpp.github.io/) - Handwritten Notes / [Github](https://github.com/xournalpp/xournalpp)
 * [Notepads](https://www.notepadsapp.com/) - Text Editor
 * [Xed](https://github.com/linuxmint/xed) - GTK3 Text Editor
@@ -15509,6 +15511,7 @@ Linux Gaming Guide
 * [LanguageIsAVirus](https://www.languageisavirus.com/) - Writing Prompts
 * [Storylines](https://github.com/morning4coffe-dev/storylines) - Chapter Based Story Writing
 * [Twinery](https://twinery.org/) - Interactive Non-Linear Story Creator
+* [TextUSM](https://textusm.com/) - User Story Map Generator / [GitHub](https://github.com/harehare/textusm)
 * [Blackout Poetry](https://blackoutpoetry.glitch.me/) - Blackout Poetry Creator
 * [Idyll](https://idyll-lang.org/editor) - Create Interactive Essays / [Github](https://github.com/idyll-lang/idyll)
 * [Papyrus Author](https://www.papyrusauthor.com/) - Creative Writing Suite
