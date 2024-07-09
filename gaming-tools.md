@@ -37,6 +37,7 @@
 * [Shmuplations](https://shmuplations.com/) - Japanese Developer Interviews
 * [Wiki.gg](https://wiki.gg/wikis/) - Game Wikis / [Redirector](https://support.wiki.gg/wiki/Redirect_to_wiki.gg)
 * [CSDb](https://csdb.dk/) or [GB64](https://gb64.com/index.php) - Commodore 64 Resources
+* [MORT](https://github.com/killkimno/MORT) - Real-time Game Text Translation
 * [Textractor](https://github.com/Artikash/Textractor) - Extract Text from Games / Visual Novels
 * [GARbro](https://github.com/morkt/GARbro/) - Browse / Extract Visual Novel Resources
 * [ConceptArt](https://vk.com/conceptart) - Video Game Concept Art
@@ -265,10 +266,12 @@
 * [Top Mods](https://www.top-mods.com/) - PC Game Mods
 * [ProAsm](http://www.proasm.com/) - Retro Game Mods
 * [ProWrestlingMods](https://prowrestlingmods.io/) - Wrestling Game Mods / [Discord](https://discord.gg/ctUmSTueV3)
+* [Pre-Fortress 2](https://prefortress.com/) - TF1 Style TF2 Mod
 * [Unreal Archive](https://unrealarchive.org/index.html) - Unreal Tournament Mods, Maps, Skins etc.
 * [Quaddicted](https://www.quaddicted.com/) - Classic Quake Mods, Maps & Tools
 * [ZagruzkaMods](https://zagruzkamods.com/) or [GameJunkie](https://www.gamejunkie.pro/) - Simulator Game Mods
 * [ESO Addons](https://github.com/arviceblot/eso-addons) - Elder Scrolls Online Mod Manager
+* [Funky](https://pukmajster.github.io/funky/) - Left 4 Dead 2 Mod Manager
 * [Hidden Fallout 4 Mods](https://rentry.co/89gads), [2](https://docs.google.com/document/d/1Im5Mg-l2btRsYVOjaJa0slrjDcXNvi41J5pHw_Zuwqw/edit?usp=sharing) - Fallout 4 Mods Removed from Nexus
 * [UGX Mods](https://www.ugx-mods.com/) - COD Zombies Mods / [Discord](https://discord.gg/g9S2nSp)
 * [RimWorldBase](https://www.rimworldbase.com/) - RimWorld Mods
@@ -525,8 +528,8 @@
 * 🌐 **[OptiFine Alternatives](https://optifine.alternatives.lambdaurora.dev/)** - OptiFine Alternatives for Fabric
 * 🌐 **[ChunkBase](https://www.chunkbase.com/apps/)** - Minecraft Map Tools
 * 🌐 **[TMC Links](https://gist.github.com/JoakimThorsen/e90bd7a588af25ae529530987d9acc8a)** - Technical Minecraft Resources
-* ↪️ **[Minecraft Servers / Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_minecraft_servers)**
-* ↪️ **[Minecraft Launchers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_minecraft_launchers)** - [Beta](https://betacraft.uk/) / [Bedrock](https://bedrocklauncher.github.io/)
+* ↪️ **[Minecraft Server Hosts / Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_minecraft_hosting)**
+* ↪️ **[Minecraft Launchers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_minecraft_launchers)** / [Beta](https://betacraft.uk/) / [Bedrock](https://bedrocklauncher.github.io/)
 * ↪️ **[Minecraft Mods](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_minecraft_mods)**
 * ↪️ **[Minecraft Optimization](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_minecraft_optimization_mods)**
 * ⭐ **[Eaglercraft](https://eaglercraft.com/)** - Browser Minecraft / [Note](https://pastebin.com/wpDZzgN5) / [Source](https://git.eaglercraft.rip/eaglercraft) / [Client](https://eaglercraftx1-8.github.io/1.8/resent4.0/index.html) / [Mod Client](https://eaglerforge.github.io/) / [Mod Search](https://eaglerrinth.github.io/)  / [Code Mods](https://eaglerforge-builder.vercel.app/) / [Eaglercrack](https://eaglercrack.net/)
@@ -675,7 +678,7 @@
 
 ## ▷ Mario Kart Tools
 
-* ⭐ **[Retro Rewind](https://wiki.tockdom.com/wiki/Retro_Rewind)** - Retro MKW Tracks / Multiplayer
+* ⭐ **[Retro Rewind](https://discord.gg/jczByGAqb6)** - Retro MKW Tracks / Multiplayer / [Wiki](https://wiki.tockdom.com/wiki/Retro_Rewind)
 * ⭐ **[CTGP Revolution](https://www.chadsoft.co.uk/)** - Custom MKW Tracks / Multiplayer / Disc required
 * ⭐ **[Mario Kart Midnight](https://wiki.tockdom.com/wiki/Mario_Kart_Midnight)** - Custom MKW Tracks / Multiplayer
 * ⭐ **[MKWRs](https://mkwrs.com)** or [MKLeaderboards](https://www.mkleaderboards.com/) - Mario Kart Records / Videos
