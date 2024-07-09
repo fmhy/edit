@@ -275,6 +275,7 @@
 * [GetIMG.ai](https://getimg.ai/) / [Discord](https://discord.com/invite/5KsUXSzVwS) / 100 Monthly
 * [Adobe Firefly](https://firefly.adobe.com/) / 25 Monthly / [Discord](https://discord.com/invite/dJnsV5s8PZ) / Sign-Up Required
 * [AITurbo](https://app.aitubo.ai/) / 25 Daily / [Discord](https://discord.gg/qTu6YsRn7F)
+* [Venice](https://venice.ai/chat/Wyg_3w4M5KDFAcAHnqf-s) / 25 Daily
 * [Artsio](https://artsio.xyz/) / 20 Daily
 * [Yodayo](https://yodayo.com/) / 15 Daily
 * [Maze.guru](https://maze.guru/gallery) / 12 Daily
@@ -393,7 +394,7 @@
 * [VoiceCraft](https://github.com/jasonppy/VoiceCraft)
 * [Murf.ai](https://murf.ai/)
 * [EmotiVoice](https://github.com/netease-youdao/EmotiVoice)
-* [Fish Diffusion](https://diff.fish.audio) / [GitHub](https://github.com/fishaudio/fish-diffusion)
+* [Fish Audio](https://fish.audio/) / [Docs](https://diff.fish.audio) / [GitHub](https://github.com/fishaudio/fish-diffusion)
 * [Audio-WebUI](https://github.com/gitmylo/audio-webui)
 * [Vanilla Voice](https://www.vanillavoice.com/)
 * [Sam](https://discordier.github.io/sam/), [2](https://simulationcorner.net/index.php?page=sam) / [BetterSam](https://imrane03.github.io/better-sam/)
