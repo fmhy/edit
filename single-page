@@ -17926,6 +17926,20 @@ Linux Gaming Guide
 
 ***
 
+***
+
+## Background Removers
+
+* ⭐ **[Remove Background Web](https://huggingface.co/spaces/Xenova/remove-background-web)**
+
+[remove.bg](https://www.remove.bg/), [RemoveBG-GIMP](https://github.com/manu12121999/RemoveBG-GIMP), [BGBye](https://fyrean.itch.io/bgbye-background-remover), [Rembg](https://github.com/danielgatis/rembg), [Adobe Express Background Remover](https://www.adobe.com/express/feature/image/remove-background), [magic-copy](https://github.com/kevmo314/magic-copy)
+
+### Object Removers
+
+[Lama Cleaner](https://lama-cleaner-docs.vercel.app/), [Inpaint](https://theinpaint.com/), [Magic Eraser](https://magicstudio.com/magiceraser), [Remover](https://remover.zmo.ai/), [IOPaint](https://github.com/Sanster/IOPaint), [Cleanup.pictures](https://cleanup.pictures/), [ObjectRemover](https://objectremover.com/), [Segment Anything](https://segment-anything.com/), [ImageCleanr](https://www.imagecleanr.com), [Samist](https://github.com/dibrale/samist), [hama](https://www.hama.app/), [sd-webui-segment-anything](https://github.com/continue-revolution/sd-webui-segment-anything)
+
+***
+
 ## Browser eBook Readers
 
 * ⭐ **[Reader View](https://webextension.org/listing/chrome-reader-view.html)**, [2](https://mybrowseraddon.com/reader-view.html)
@@ -18093,7 +18107,7 @@ Linux Gaming Guide
 * ⭐ **[Signal](https://signal.org/#signal)**
 * ⭐ **[Briar](https://briarproject.org/)**
 
-[Status](https://status.im/), [Confide](https://play.google.com/store/apps/details?id=cm.confide.android), [ChatSecure](https://ballinger.io/apps/chatsecure/), [Snikket](https://snikket.org/), [RetroShare](https://retroshare.cc/), [BiP](https://bip.com/en/), [Olvid](https://olvid.io/en/), [Berty](https://berty.tech/), [OpenKeychain](https://www.openkeychain.org/), [NewNode](https://newnode.com/), [Kontalk](https://www.kontalk.org/), [Wire](https://wire.com/en/download/)
+[Status](https://status.im/), [Confide](https://play.google.com/store/apps/details?id=cm.confide.android), [ChatSecure](https://ballinger.io/apps/chatsecure/), [Snikket](https://snikket.org/), [RetroShare](https://retroshare.cc/), [BiP](https://bip.com/en/), [Olvid](https://olvid.io/en/), [Berty](https://berty.tech/), [OpenKeychain](https://www.openkeychain.org/), [NewNode](https://newnode.com/), [Kontalk](https://www.kontalk.org/), [Wire](https://wire.com/en/download/), [Databag](https://github.com/balzack/databag)
 
 **Video / Text**
 
@@ -18443,7 +18457,7 @@ Linux Gaming Guide
 * ⭐ **Suwayomi Tools** - [Extensions](https://keiyoushi.github.io/), [2](https://discord.gg/3FbCpdKbdY) / [Desktop Client](https://github.com/Suwayomi/Tachidesk-Server)
 * ⭐ **[Houdoku](https://houdoku.org/)**
 
-[AllMangasReader](https://allmangasreader.com/), [Adolla](https://github.com/AdollaApp/Adolla), [OpenComic](https://github.com/ollm/OpenComic), [Tachidesk-Sorayomi](https://github.com/Suwayomi/Tachidesk-Sorayomi), [Manga-Organizer](https://gitgud.io/Nagru/Manga-Organizer), [MangaOnlineViewer](https://github.com/TagoDR/MangaOnlineViewer), [LANraragi](https://github.com/Difegue/LANraragi), [Mangayomi](https://github.com/kodjodevf/mangayomi), [Fukayo](https://github.com/JiPaix/Fukayo/)
+[AllMangasReader](https://allmangasreader.com/), [Adolla](https://github.com/AdollaApp/Adolla), [OpenComic](https://github.com/ollm/OpenComic), [Tachidesk-Sorayomi](https://github.com/Suwayomi/Tachidesk-Sorayomi), [Manga-Organizer](https://gitgud.io/Nagru/Manga-Organizer), [MangaOnlineViewer](https://github.com/TagoDR/MangaOnlineViewer), [LANraragi](https://github.com/Difegue/LANraragi), [Mangayomi](https://github.com/kodjodevf/mangayomi), [Fukayo](https://github.com/JiPaix/Fukayo/), [Unyo](https://github.com/K3vinb5/Unyo)
 
 ### Self-Hosted
 
@@ -18453,7 +18467,7 @@ Linux Gaming Guide
 
 ## Markdown Editors
 
-* ⭐ **[HedgeDoc](https://hedgedoc.envs.net/)**
+* ⭐ **[HedgeDoc](https://hedgedoc.org/)**
 * [zettlr](https://www.zettlr.com/)
 * [Dillinger](https://dillinger.io/)
 * [Notable](https://notable.app/)
@@ -18465,7 +18479,7 @@ Linux Gaming Guide
 * [MarkdownLivePreview](https://markdownlivepreview.com/)
 * [Vrite](https://editor.vrite.io/)
 * [Markflowy](https://markflowy.vercel.app/)
-* [Mindforger](https://github.com/dvorka/mindforger)
+* [MindForger](https://www.mindforger.com/)
 * [PanWriter](https://panwriter.com/)
 * [MarkText](https://www.marktext.cc/)
 
@@ -18512,21 +18526,23 @@ Linux Gaming Guide
 
 ***
 
-## Minecraft Servers
+## Minecraft Hosting
 
-* ⭐ **[Playit.gg](https://playit.gg/)** - [Discord](https://discord.gg/AXAbujx)
-* [MineColab](https://colab.research.google.com/github/thecoder-001/MineColab/blob/master/MineColab.ipynb) - [GitHub](https://github.com/thecoder-001/MineColab)
-* [LazyMc](https://github.com/timvisee/lazymc) - Idle Minecraft Server
-
-[MineFort](https://minefort.com/), [Minehut](https://minehut.com/), [Aternos](https://aternos.org/), [Cuberite](https://cuberite.org/), [FMHL](https://fmhl.devloo.xyz/), [Pufferfish](https://github.com/pufferfish-gg/Pufferfish), [Paper](https://papermc.io/software/paper), [oracle-cloud ](https://www.setup.md/guides/oracle-cloud), [mcho](https://mcho.st/), [fps](https://fps.ms/), [World Host](https://modrinth.com/mod/world-host), [auto-mcs](https://www.auto-mcs.com/)
+[MineColab](https://colab.research.google.com/github/thecoder-001/MineColab/blob/master/MineColab.ipynb) / [GitHub](https://github.com/thecoder-001/MineColab), [MineFort](https://minefort.com/), [Minehut](https://minehut.com/), [Aternos](https://aternos.org/), [FMHL](https://fmhl.devloo.xyz/), , [oracle-cloud ](https://www.setup.md/guides/oracle-cloud), [mcho](https://mcho.st/), [fps](https://fps.ms/)
 
 ### Minecraft Server Tools
 
+* ⭐ **[Playit.gg](https://playit.gg/)** - Global Proxy [Discord](https://discord.gg/AXAbujx)
 * ⭐ **[paper-optimization](https://paper-chan.moe/paper-optimization/)** or [minecraft-optimization](https://github.com/YouHaveTrouble/minecraft-optimization) - Server Optimization Guides
 * [Setup.md](https://setup.md/) - Server Admin Guides
 * [CraftyControl](https://craftycontrol.com/), [MCSManager](https://mcsmanager.com/) or [Fork](https://www.fork.gg/) - Minecraft Server Managers
 * [Minekube Connect](https://connect.minekube.com/) - Ingress Tunnel for Minecraft Servers
 * [mclo.gs](https://mclo.gs/) - Minecraft Log Sharing / Analyzing
+* [LazyMc](https://github.com/timvisee/lazymc) - Idle Minecraft Server
+* [auto-mcs](https://www.auto-mcs.com/) - Easy Server Setup
+* [Cuberite](https://cuberite.org/) - Server Setup
+* [World Host](https://modrinth.com/mod/world-host) - No Server Single Player
+* [Pufferfish](https://github.com/pufferfish-gg/Pufferfish) or [Paper](https://papermc.io/software/paper) - Performance Enhancement Servers
 
 ***
 
@@ -18960,7 +18976,7 @@ Linux Gaming Guide
 * ⭐ **[Hugo](https://gohugo.io/)**
 * ⭐ **[vitepress](https://vitepress.dev/)**
 
-[retype](https://retype.com/), [Feather Wiki](https://feather.wiki/), [SouPalt](https://soupault.app/), [Barly](https://github.com/charludo/barely), [Zola](https://www.getzola.org/), [Jamstack Generators](https://jamstack.org/generators/), [Jekyll](https://jekyllrb.com/), [Tails](https://devdojo.com/tails), [vveb](https://www.vvveb.com/), [Potion](https://potion.so/), [8b](https://8b.com/), [WebFlow](https://webflow.com/), [EasyLogic](https://www.easylogic.studio/), [Universe](https://onuniverse.com/), [Website.com](https://www.website.com/), [GrapeDrop](https://grapedrop.com/), [Specctr](https://specctr.com/cloud/home), [Astro](https://astro.build/), [TypeDream](https://typedream.com/), [Processwire](https://processwire.com/), [Google Sites](https://sites.google.com/new), [AngelFire](https://www.angelfire.lycos.com/), [Odoo](https://www.odoo.com/app/website)
+[retype](https://retype.com/), [Feather Wiki](https://feather.wiki/), [SouPalt](https://soupault.app/), [Barly](https://github.com/charludo/barely), [Zola](https://www.getzola.org/), [Jamstack Generators](https://jamstack.org/generators/), [Jekyll](https://jekyllrb.com/), [Tails](https://devdojo.com/tails), [vveb](https://www.vvveb.com/), [Potion](https://potion.so/), [8b](https://8b.com/), [WebFlow](https://webflow.com/), [EasyLogic](https://www.easylogic.studio/), [Universe](https://onuniverse.com/), [Website.com](https://www.website.com/), [GrapeDrop](https://grapedrop.com/), [Specctr](https://specctr.com/cloud/home), [Astro](https://astro.build/), [TypeDream](https://typedream.com/), [Processwire](https://processwire.com/), [Google Sites](https://sites.google.com/new), [AngelFire](https://www.angelfire.lycos.com/), [Odoo](https://www.odoo.com/app/website), [Docusaurus](https://github.com/facebook/docusaurus)
 
 ### Simple Site Creators
 
