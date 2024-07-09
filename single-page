@@ -16978,7 +16978,7 @@ Linux Gaming Guide
 
 # ► Image Editing
 
-* ⭐ **[Remove Background Web](https://huggingface.co/spaces/Xenova/remove-background-web)**, [remove.bg](https://www.remove.bg/), [RemoveBG-GIMP](https://github.com/manu12121999/RemoveBG-GIMP), [Rembg](https://github.com/danielgatis/rembg), [Adobe Express Background Remover](https://www.adobe.com/express/feature/image/remove-background) or [magic-copy](https://github.com/kevmo314/magic-copy) - Background Removers
+* ↪️  **[Background / Object Removers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_background_removers)**
 * [Scribus](https://www.scribus.net/) - Page Layout & Typesetting Program
 * [FilmDev](https://filmdev.org/) - Film Development Recipes
 * [StyleCLIP](https://github.com/orpatashnik/StyleCLIP) - Text Driven Image Manipulation / [Video](https://youtu.be/5icI0NgALnQ)
@@ -16988,7 +16988,6 @@ Linux Gaming Guide
 * [GradientArt](https://gra.dient.art/) or [TailBlend](https://tailblend.vercel.app/) - Gradient Editor
 * [VeoLuz](https://jaredforsyth.com/veoluz/) - Photon Path Art Tool
 * [Canvas](https://www.nvidia.com/en-us/studio/canvas/) - Turn Simple Art into Photo Realistic Landscapes
-* [Lama Cleaner](https://lama-cleaner-docs.vercel.app/), [Inpaint](https://theinpaint.com/), [Magic Eraser](https://magicstudio.com/magiceraser), [Remover](https://remover.zmo.ai/), [IOPaint](https://github.com/Sanster/IOPaint), [Cleanup.pictures](https://cleanup.pictures/), [ObjectRemover](https://objectremover.com/), [Segment Anything](https://segment-anything.com/), [ImageCleanr](https://www.imagecleanr.com), [Samist](https://github.com/dibrale/samist), [hama](https://www.hama.app/) or [sd-webui-segment-anything](https://github.com/continue-revolution/sd-webui-segment-anything) - Image Segmentation / Object Removal
 * [Supershots](https://superblog.ai/supershots/) - Add Backgrounds to Images
 * [Image Splitter](https://ruyili.ca/image-splitter/) - Split Images into Tiles
 * [PicFont](https://picfont.com/) - Add Text to Images
@@ -17668,6 +17667,7 @@ Linux Gaming Guide
 * [Photoview](https://github.com/photoview/photoview)
 * [Photonix](https://photonix.org/)
 * [photos](https://github.com/nextcloud/photos/)
+* [imagestore](https://github.com/gregordr/imagestore)
 * [Memories](https://memories.gallery/)
 * [Piwigo](https://piwigo.org/)
 * [PiGallery 2](https://bpatrik.github.io/pigallery2/)
@@ -17779,7 +17779,7 @@ Linux Gaming Guide
 * 🌐 **[Photo OSINT](https://start.me/p/0PgzqO/photo-osint)** - Image OSINT Resources
 * ⭐ **[Fawkes](http://sandlab.cs.uchicago.edu/fawkes/)** or **[Lowkey](https://lowkey.umiacs.umd.edu/)** - Facial Cloaking
 * ⭐ **[FotoForensics](https://www.fotoforensics.com/)** or [Forensically](https://29a.ch/photo-forensics/) - Photo Forensics Tool
-* ⭐ **[GeoSpy](https://geospy.web.app/)** or [GeoEstimation](https://labs.tib.eu/geoestimation) - Estimate Image Geolocation
+* ⭐ **[GeoSpy](https://geospy.web.app/)**, [Picarta](https://picarta.ai/) / [Discord](https://discord.gg/g5BAd2UFbs) or [GeoEstimation](https://labs.tib.eu/geoestimation) - Estimate Image Geolocation
 * [Image Identification Project](https://www.imageidentify.com/) - Image Identification Tool
 * [StegOnline](https://stegonline.georgeom.net/image), [OpenStego](https://www.openstego.com/), [OpenPuff](https://embeddedsw.net/OpenPuff_Steganography_Home.html), [Steganography-PNG](https://pedrooaugusto.github.io/steganography-png/) / [GitHub](https://github.com/pedrooaugusto/steganography-png), [ImSter](https://github.com/DJayalath/ImSter), [stegano](https://bztsrc.gitlab.io/stegano/) or [stegpy](https://github.com/dhsdshdhk/stegpy) - Images Steganography Tools
 * [Aperisolve](https://aperisolve.fr/) / [2](https://www.aperisolve.com/) or [stegextract](https://github.com/evyatarmeged/stegextract) - Steganography Analysis Tool
