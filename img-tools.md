@@ -45,7 +45,7 @@
 ## ▷ Online Editors
 
 * ⭐ **[Lunapic](https://lunapic.com/)**
-* [Photopea](https://www.photopea.com/) / [Ad Script](https://greasyfork.org/en/scripts/449961), [2](https://greasyfork.org/en/scripts/469575)
+* ⭐ **[Photopea](https://www.photopea.com/)** / [Ad Script](https://greasyfork.org/en/scripts/449961), [2](https://greasyfork.org/en/scripts/469575)
 * [Pixlr](https://pixlr.com/)
 * [Photomate](https://photomate.dev/)
 * [BeFunky](https://www.befunky.com/)
