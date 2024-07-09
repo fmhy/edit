@@ -1,4 +1,3 @@
-![image](https://github.com/fmhy/FMHYedit/assets/44333466/754c7acf-34a0-4edc-b8a0-39c8e6322478)---
 title: Mario Kart Wii Retro Rewind
 description: Retro Rewind
 date: 2024-07-09
