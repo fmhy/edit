@@ -405,6 +405,7 @@
 * [storj](https://www.storj.io/) - 25GB Free / ~$4 for 1TB
 * [Blomp](https://www.blomp.com/) - 20GB Free / ~$3 for 2TB
 * [internxt](https://internxt.com/) - 10GB Free / ~4.85 for 1TB
+* [1Cloud File](https://1cloudfile.com/) - 10GB Free
 * [xpipe](https://xpipe.io) - Remote File Manager
 * [bookmarkfs](https://github.com/CoolElectronics/bookmarkfs) - Chrome's Profile Sync Cloud Storage
 * [InfiniDrive](https://github.com/nicomda/InfiniDrive) - Amazon Prime Photos Cloud Storage
