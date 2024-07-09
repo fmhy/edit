@@ -51,7 +51,7 @@ async function handleSubmit() {
   }
 
   try {
-    const response = await fetch('https://feedback.godamnit.workers.dev', {
+    const response = await fetch('https://feedback.tasky.workers.dev', {
       method: 'POST',
       headers: {
         'Content-Type': 'application/json'
