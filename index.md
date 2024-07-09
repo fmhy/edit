@@ -8,8 +8,8 @@ hero:
   text: freemediaheckyeah
   tagline: The largest collection of free stuff on the internet!
   prelink:
-    title: Monthly Updates [July 2024]
-    link: /posts/july-2024
+    title: Check out Retro Rewind!
+    link: /posts/Retro-Rewind
   image:
     src: /test.png
     alt: FMHY Icon
