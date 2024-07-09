@@ -30,6 +30,8 @@
 * [PlayFlix](https://playflix.ru/) - Movies / TV / Anime / 4K / 1080p
 * [123MoviesFree](https://ww2.123moviesfree.net/) - Movies / TV / Anime / 1080p
 * [RgShows](https://www.rgshows.me/) - Movies / TV / Anime / 4K / 1080p / [Discord](https://discord.com/invite/bosskingdom-comeback-1090560322760347649)
+* [Way2Movies](https://way2movies.vercel.app/) - Movies / TV / Anime / 4K
+* [WatchNest](https://watchnest.site/), [2](https://watchnest.top/), [3](https://watchnest.xyz/) - Movies / TV / Anime / 4K / 1080p / [Discord](https://discord.gg/n2sjPKcZ)
 * [Cinema Deck](https://cinemadeck.com/) - Movies / TV / Anime / 4K / 1080p / Ad-Free / [Discord](https://l.cinemadeck.com/discord)
 * [Yesmovies.pm](https://yesmovies.pm/) - Movies / TV / Anime / 1080p
 * [TVids](https://www.tvids.net/), [2](https://watch-tvseries.net/) - Movies / TV / Anime / 1080p
@@ -45,6 +47,7 @@
 * [MoviesLair](https://movielair.cc/) - Movies / TV / 720p / [Discord](https://discord.gg/ZvRTYqTWtZ)
 * [uFlix](https://uflix.cc/) - Movies / TV / Anime / 720p
 * [nKiri](https://nkiri.cc/), [2](https://soapertv.cc/), [3](https://popcorntimeonline.cc/) - Movies / TV / 1080p / Ad-Free
+* [VidSrc](https://rentry.org/vidsrc) -
 * [GoMo](https://gomo.to/) - Movies / TV / Anime / API / 1080p
 * [SuperEmbed](https://www.superembed.stream/) - Movies / TV / API / 1080p
 * [2embed](https://www.2embed.cc/) - Movies / TV / API / 1080p
@@ -123,7 +126,7 @@
 * ⭐ **[AllManga](https://allmanga.to/)** - Sub / Dub / 1080p / [Discord](https://discord.gg/YbuYYUwhpP)
 * ⭐ **[GoGoAnime](https://gogoanime3.co/)**, [2](https://anitaku.to/), [3](https://daftanime.com/) - Sub / Dub / 1080p
 * ⭐ **GoGoAnime Tools** - [Mirrors](https://gogotaku.info/) / [Download Script](https://greasyfork.org/en/scripts/465970) / [DL Guide](https://rentry.org/gogodlscript) / [Discord](https://discord.gg/kyVfcGuCCQ)
-* ⭐ **[Layendimator](https://github.com/Layendan/Layendanimator)**, [Akuse](https://github.com/akuse-app/Akuse), [Anikin](https://github.com/jerry08/Anikin) or [Miru Project](https://miru.js.org/en/) - Desktop Streaming Apps
+* ⭐ **[Layendimator](https://github.com/Layendan/Layendanimator)**, [Akuse](https://github.com/akuse-app/Akuse), [Anikin](https://github.com/jerry08/Anikin), [Unyo](https://github.com/K3vinb5/Unyo) or [Miru Project](https://miru.js.org/en/) - Desktop Streaming Apps
 * ⭐ **[Japanese Animated Film Classics](https://animation.filmarchives.jp/index.html)** - Japanese Animated Film Archive
 * ⭐ **[Anime Streaming CSE](https://cse.google.com/cse?cx=006516753008110874046:vzcl7wcfhei)** / [CSE 2](https://cse.google.com/cse?cx=006516753008110874046:mrfarx7-dxu) or [Kuroiru](https://kuroiru.co/) - Multi-Site Anime Search
 * [AnimeCross](https://anime.cross.moe/) - Sub / 1080p / [Discord](https://discord.com/invite/3AxZvGArdm)
@@ -132,6 +135,7 @@
 * [AnimeOwl](https://animeowl.live/) - Sub / Dub / 1080p / [Discord](https://discord.com/invite/xHYcvdMvZ2)
 * [123Anime](https://123animes.ru/) - Sub / Dub / 1080p
 * [Ryuk](https://ryuk.to/) - Sub / Dub / 1080p
+* [Miruro](https://www.miruro.com/) - Sub / Dub / 1080p / [Discord](https://discord.gg/miruro)
 * [Anipulse](https://www.anipulse.to/) - Sub / Dub / 1080p / [Discord](https://discord.gg/KKuCUgSHVs)
 * [Kaguya](https://kaguya.app/) - Sub / 1080p / [Discord](https://discord.gg/382BEFfER6)
 * [Genoanime](https://genoanime.com/) - Sub / Dub / 1080p / [Discord](https://discord.com/invite/TMe9eVs2YY)
@@ -171,7 +175,6 @@
 
 ## ▷ Cartoon Streaming
 
-* ⭐ **[KimCartoon](https://kimcartoon.li/)** - 720p / [Discord](https://discord.com/invite/Zs67BcB6tm)
 * ⭐ **[WCO](https://www.wco.tv/)**, [2](https://www.wcofun.net/), [3](https://www.wcostream.tv/) - Anime / Cartoons / 720p / [Downloader](https://github.com/NobilityDeviant/Wcofun.com_Downloader)
 * [Kimcartoon.si](https://kimcartoon.si/) - Anime / Cartoons
 * [TopCartoons](https://www.topcartoons.tv/) - 720p
@@ -434,6 +437,9 @@
 * [CricHD.tv](https://v4.crichd.tv/) - Sports
 * [CricHD.stream](https://www.crichd.stream/) - Sports
 * [Rojadirecta](http://www.rojadirecta.eu/) - Sports / [Forum](http://forum.rojadirecta.es/)
+* [NFLBite](https://nflbite.tv/) - Football
+* [MLB66](https://mlb66.ir/) - Baseball
+* [MLBshows](https://mlbshow.com/) - Baseball
 * [BoxingStreams100](https://fight.boxingstreams100.com/) - Boxing
 * [Boxing Stream](https://boxingstream.ai/) - Boxing
 * [BoxingStreamLinks](https://boxingstreamlinks.com/) - Boxing
@@ -443,9 +449,7 @@
 * [SoccerOnline](https://socceronline.me/) - Soccer
 * [55Goal](https://55goal.com/) - Soccer
 * [StarPlay](https://3rd-delta.vercel.app/) - Soccer / Cricket
-* [NFLBite](https://nflbite.tv/) - Football
-* [MLB66](https://mlb66.ir/) - Baseball
-* [MLBshows](https://mlbshow.com/) - Baseball
+* [Mazespin](https://mazespin.live/) - Motorsports / Soccer / Cycling
 * [Aceztrims](https://aceztrims.pages.dev/) - Motorsports
 * [MotoGP](https://motogpstream.me/) - Motorsports
 * [DD12](https://dd12streams.com/) - Motorsports / [Discord](https://discord.com/invite/TTFE8Jfz7G)
