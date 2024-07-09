@@ -6,16 +6,12 @@
 
 # ► Social Media Tools
 
+* ⭐ **[SocialBlade](https://socialblade.com/)** - Social Media Stats
+* ⭐ **[LiveCounts](https://livecounts.io/)** - Live Social Media Stats
 * [Social-Searcher](https://www.social-searcher.com/), [WeVerify](https://cse.google.com/cse?cx=006976128084956795641:ad1xj14zfap) or [Social Media CSE](https://cse.google.com/cse?cx=73dda67fd05b4405f#gsc.tab=1&gsc.sort=) - Social Media Search Engine
 * [Social Media Hacker List](https://github.com/MobileFirstLLC/social-media-hacker-list) - Social Media Apps / Tools
-* [SocialBlade](https://socialblade.com/) - Social Media Stats
-* [LiveCounts](https://livecounts.io/) - Live Social Media Stats
 * [ExportComments](https://exportcomments.com/) - Export Social Media Comments
 * [socid_extractor](https://github.com/soxoj/socid-extractor) - Extract Social Media User Info from Pages
-* [tumblr-utils](https://github.com/cebtenzzre/tumblr-utils) - Tumblr Utilities
-* [Tumblr Savior](https://bjornstar.com/tumblr-savior) - Tumblr Dashboard Filter
-* [TumblrOriginalPostFinder](https://jetblackcode.com/TumblrOriginalPostFinder) - Tumblr Post Finder
-* [Pillowfort](https://www.pillowfort.social/) or [Cohost](https://cohost.org/) - Tumblr Alternatives
 
 ***
 
@@ -581,7 +577,7 @@
 
 * ⭐ **[Trends24](https://trends24.in/)** or [GetDayTrends](https://getdaytrends.com/) - Trending Hashtags Trackers
 * ⭐ **[/r/Twitter](https://reddit.com/r/Twitter)** - Twitter Subreddit
-* [Tumbl Backup Guide](https://docs.google.com/document/d/1yBWlk-yEgpSoEh3c9oLhz_kbLtUGqbqzOpCtJsvQgjI/), [TumblThree](https://tumblthreeapp.github.io/TumblThree/) or [Thread Safe](https://github.com/dkaslovsky/thread-safe) - Twitter / Tumblr Backup Tools
+* [Thread Safe](https://github.com/dkaslovsky/thread-safe) - Twitter Backup Tool
 * [Typefully](https://typefully.com/) - Schedule Tweets
 * [Chirr App](https://getchirrapp.com/) - Turn Articles into Twitter Threads / [Firefox](https://addons.mozilla.org/en-US/firefox/addon/chirr-app/) / [Chrome](https://chromewebstore.google.com/detail/chirr-app/cmbconaimdngicdnbpjnjocbpkdpmfkg)
 * [OneMillionTweetMap](https://onemilliontweetmap.com/) - Real-Time Tweet Map
@@ -657,6 +653,19 @@
 * [Image Counter](https://openuserjs.org/scripts/darkred/Instagram_-_visible_images_counter) - Count Page Images
 * [InstaAddict](https://github.com/Androz2091/instaddict) - Instagram Addiction Test
 * [Unfollow-Everyone](https://github.com/tyrtles/Unfollow-Everyone-on-Instagram/) - Bulk Instagram Unfollow
+
+***
+
+# ► Tumblr Tools
+
+* [Tumlook](https://www.tumlook.com/), [Tumgik](https://www.tumgik.com/) or [PriviBlur](https://github.com/syeopite/priviblur) - Tumblr Frontends
+* [Pillowfort](https://www.pillowfort.social/) or [Cohost](https://cohost.org/) - Tumblr Alternatives
+* [tumblr-utils](https://github.com/cebtenzzre/tumblr-utils) - Tumblr Utilities
+* [XKit](https://github.com/new-xkit/XKit) - Tumblr Enhancement Extension
+* [Tumblr Savior](https://bjornstar.com/tumblr-savior) - Tumblr Dashboard Filter
+* [tumbex](https://www.tumbex.com/) - Tumblr Search
+* [TumblrOriginalPostFinder](https://jetblackcode.com/TumblrOriginalPostFinder) - Tumblr Post Finder
+* [Tumbl Backup Guide](https://docs.google.com/document/d/1yBWlk-yEgpSoEh3c9oLhz_kbLtUGqbqzOpCtJsvQgjI/) or [TumblThree](https://tumblthreeapp.github.io/TumblThree/) - Tumblr Backup Tools
 
 ***
 
