@@ -1,4 +1,4 @@
----
+![image](https://github.com/fmhy/FMHYedit/assets/44333466/754c7acf-34a0-4edc-b8a0-39c8e6322478)---
 title: Mario Kart Wii Retro Rewind
 description: Retro Rewind
 date: 2024-07-09
@@ -11,7 +11,7 @@ footer: true
 
 # What is Retro Rewind?
 
-[Retro Rewind](https://wiki.tockdom.com/wiki/Retro_Rewind) is a Mario Kart Wii custom track distribution that features ***every retro track*** from Super Mario Kart to Mario Kart 7, as well as some from Mario Kart 8 and Mario Kart Tour, totaling 144. Retro Rewind can be played online in public rooms with Dolphin Emulator, a Wii or WiiU.
+[Retro Rewind](https://wiki.tockdom.com/wiki/Retro_Rewind) is a Mario Kart Wii custom track distribution that features ***every retro track*** from Super Mario Kart to Mario Kart 7, as well as some from Mario Kart 8 and Mario Kart Tour, totaling 152. Retro Rewind can be played online in public rooms with Dolphin Emulator, a Wii or WiiU.
 
 It also features many [enhancements](https://ibb.co/RCckmdT) such as:
 
