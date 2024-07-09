@@ -4,30 +4,6 @@
 ***
 ***
 
-# ► AI Chatbots
-
-* 🌐 **[Awesome ChatGPT](https://github.com/uhub/awesome-chatgpt)** - ChatGPT Resources
-* 🌐 **[Awesome Free ChatGPT](https://github.com/LiLittleCat/awesome-free-chatgpt/blob/main/README_en.md)** or **[FOFA](https://en.fofa.info/result?qbase64=ImxvYWRpbmctd3JhcCIgJiYgImJhbGxzIiAmJiAiY2hhdCIgJiYgaXNfZG9tYWluPXRydWU%3D)** / [2](https://en.fofa.info/result?qbase64=dGl0bGU9PSJDaGF0R1BUIFdlYiI%3D) - ChatGPT WebUI Indexes
-* 🌐 **[Every ChatGPT GUI](https://github.com/billmei/every-chatgpt-gui)** - ChatGPT GUI Index
-* ⭐ **[ChatPDF](https://www.chatpdf.com/)** or [Ask Your PDF](https://askyourpdf.com/) - Turn Books into Chatbots
-* ⭐ **[TypeSet](https://typeset.io/)** - Research Paper Chatbot
-* [GPT Crawler](https://github.com/BuilderIO/gpt-crawler) - Turn Websites into Chatbots
-* [ChatGPTBox](https://github.com/josStorer/chatGPTBox), [ChatGPT Apps](https://github.com/adamlui/chatgpt-apps), [KeepChatGPT](https://github.com/xcanwin/KeepChatGPT/blob/main/docs/README_EN.md) or [Merlin](https://www.getmerlin.in/) / [Unlimited](https://rentry.co/MerlinAI-Unlim) - Extensions
-* [Humata](https://www.humata.ai/), [Sharly](https://app.sharly.ai/), [Docalysis](https://docalysis.com/), [DAnswer](https://docs.danswer.dev/), [DocsGPT](https://docsgpt.arc53.com/) or [ChatDOC](https://chatdoc.com/) - Turn Documents into Chatbots
-* [PrivateGPT](https://docs.privategpt.dev/) - Offline Document Chatbots
-* [SallyBot](https://github.com/DeSinc/SallyBot/) - ChatGPT Discord Bot
-* [TGPT](https://github.com/aandrew-me/tgpt) - ChatGPT TUIs
-* [Lobe Chat](https://chat-preview.lobehub.com) - Desktop App
-* [Noi](https://noi.nofwl.com/) - Desktop App
-* [Chatbot-UI](https://chatbotui.com) - Desktop App / [GitHub](https://github.com/mckaywrigley/chatbot-ui)
-* [ChatRTX](https://www.nvidia.com/en-us/ai-on-rtx/chatrtx/) - Desktop App / RTX 30+ Series GPU Only
-* [ChatGPT DeMod](https://github.com/4as/ChatGPT-DeMod) - Block ChatGPT Moderation Checks
-* [ParallelGPT](https://www.parallelgpt.ai/) - Data Processing AI
-* [Voice Control](https://voicecontrol.chat/) - ChatGPT Voice Control
-* [ChatGPT Exporter](https://greasyfork.org/en/scripts/456055) - Export Chats
-* [GPThemes](https://github.com/itsmartashub/GPThemes) - ChatGPT Themes
-
-***
 
 ## ▷ Online Chatbots
 
@@ -68,6 +44,34 @@
 * [Poe](https://poe.com/) - Multiple Chatbots / 150 Daily / [Discord](https://discord.com/invite/joinpoe)
 * [GlobalGPT](https://www.globalgpt.nspiketech.com/#/) - AI Chatbot with Document Support
 * [Ai Uncensored](https://www.aiuncensored.info/) - "Uncensored" Chatbot 
+* [Venice](https://venice.ai/chat) - Private and Permissionless Chatbot
+
+***
+
+
+
+# ► AI Chatbots
+
+* 🌐 **[Awesome ChatGPT](https://github.com/uhub/awesome-chatgpt)** - ChatGPT Resources
+* 🌐 **[Awesome Free ChatGPT](https://github.com/LiLittleCat/awesome-free-chatgpt/blob/main/README_en.md)** or **[FOFA](https://en.fofa.info/result?qbase64=ImxvYWRpbmctd3JhcCIgJiYgImJhbGxzIiAmJiAiY2hhdCIgJiYgaXNfZG9tYWluPXRydWU%3D)** / [2](https://en.fofa.info/result?qbase64=dGl0bGU9PSJDaGF0R1BUIFdlYiI%3D) - ChatGPT WebUI Indexes
+* 🌐 **[Every ChatGPT GUI](https://github.com/billmei/every-chatgpt-gui)** - ChatGPT GUI Index
+* ⭐ **[ChatPDF](https://www.chatpdf.com/)** or [Ask Your PDF](https://askyourpdf.com/) - Turn Books into Chatbots
+* ⭐ **[TypeSet](https://typeset.io/)** - Research Paper Chatbot
+* [GPT Crawler](https://github.com/BuilderIO/gpt-crawler) - Turn Websites into Chatbots
+* [ChatGPTBox](https://github.com/josStorer/chatGPTBox), [ChatGPT Apps](https://github.com/adamlui/chatgpt-apps), [KeepChatGPT](https://github.com/xcanwin/KeepChatGPT/blob/main/docs/README_EN.md) or [Merlin](https://www.getmerlin.in/) / [Unlimited](https://rentry.co/MerlinAI-Unlim) - Extensions
+* [Humata](https://www.humata.ai/), [Sharly](https://app.sharly.ai/), [Docalysis](https://docalysis.com/), [DAnswer](https://docs.danswer.dev/), [DocsGPT](https://docsgpt.arc53.com/) or [ChatDOC](https://chatdoc.com/) - Turn Documents into Chatbots
+* [PrivateGPT](https://docs.privategpt.dev/) - Offline Document Chatbots
+* [SallyBot](https://github.com/DeSinc/SallyBot/) - ChatGPT Discord Bot
+* [TGPT](https://github.com/aandrew-me/tgpt) - ChatGPT TUIs
+* [Lobe Chat](https://chat-preview.lobehub.com) - Desktop App
+* [Noi](https://noi.nofwl.com/) - Desktop App
+* [Chatbot-UI](https://chatbotui.com) - Desktop App / [GitHub](https://github.com/mckaywrigley/chatbot-ui)
+* [ChatRTX](https://www.nvidia.com/en-us/ai-on-rtx/chatrtx/) - Desktop App / RTX 30+ Series GPU Only
+* [ChatGPT DeMod](https://github.com/4as/ChatGPT-DeMod) - Block ChatGPT Moderation Checks
+* [ParallelGPT](https://www.parallelgpt.ai/) - Data Processing AI
+* [Voice Control](https://voicecontrol.chat/) - ChatGPT Voice Control
+* [ChatGPT Exporter](https://greasyfork.org/en/scripts/456055) - Export Chats
+* [GPThemes](https://github.com/itsmartashub/GPThemes) - ChatGPT Themes
 
 ***
 
