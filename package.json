@@ -1,7 +1,7 @@
 {
   "name": "fmhy",
   "type": "module",
-  "packageManager": "pnpm@9.0.4",
+  "packageManager": "pnpm@9.4.0",
   "scripts": {
     "docs:dev": "vitepress dev",
     "docs:build": "vitepress build",
@@ -12,7 +12,9 @@
     "api:preview": "node .output/server/index.mjs",
     "og:dev": "x-satori -t ./.vitepress/hooks/Template.vue -c ./.vitepress/hooks/satoriConfig.ts --dev",
     "format": "prettier -w --cache --check .",
-    "lint": "eslint .vitepress -f pretty --cache",
+    "lint": "biome lint .",
+    "lint:fix": "biome lint . --write",
+    "lint:fix:unsafe": "biome lint . --write --unsafe",
     "postinstall": "nitropack prepare"
   },
   "dependencies": {
@@ -33,9 +35,11 @@
     "zod": "^3.22.4"
   },
   "devDependencies": {
+    "@biomejs/biome": "^1.8.3",
     "@iconify-json/carbon": "^1.1.28",
     "@iconify-json/heroicons-solid": "^1.1.11",
     "@iconify-json/twemoji": "^1.1.15",
+    "@taskylizard/biome-config": "^1.0.1",
     "@types/fs-extra": "^11.0.4",
     "@types/node": "^20.11.15",
     "@types/nprogress": "^0.2.3",

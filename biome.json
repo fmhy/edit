@@ -1,0 +1,52 @@
+{
+  "$schema": "https://biomejs.dev/schemas/1.8.3/schema.json",
+  "extends": ["@taskylizard/biome-config"],
+  "formatter": {
+    "enabled": false
+  },
+  "linter": {
+    "rules": {
+      "style": {
+        "noDefaultExport": "off",
+        "useNamingConvention": {
+          "level": "error",
+          "options": {
+            "strictCase": false,
+            "conventions": [
+              {
+                "selector": {
+                  "kind": "typeParameter"
+                },
+                "formats": ["PascalCase"]
+              },
+              {
+                "selector": {
+                  "kind": "any"
+                },
+                "match": "[ab_]|(.{2,})"
+              },
+              {
+                "selector": {
+                  "kind": "objectLiteralMember"
+                },
+                "match": ".*"
+              },
+              {
+                "selector": {
+                  "kind": "typeMember"
+                },
+                "match": ".*"
+              },
+              {
+                "selector": {
+                  "kind": "variable"
+                },
+                "match": ".*"
+              }
+            ]
+          }
+        }
+      }
+    }
+  }
+}
