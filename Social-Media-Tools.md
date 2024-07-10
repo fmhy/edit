@@ -597,7 +597,7 @@
 * [GetVideoBot](https://twitsave.com/), [DownloadTwitterVideo](https://www.downloadtwittervideo.com/), [TwitterVid](https://twittervid.com/) or [sssTwitter](https://ssstwitter.com/) - Download Twitter Videos
 * [Pikaso](https://twitter.com/pikaso_me) - Twitter Screenshot Bot
 * [memory.lol](https://github.com/travisbrown/memory.lol/) - Twitter Account Archive
-* [Ghost Archive](https://ghostarchive.org/) or [Megalodon](https://megalodon.jp/) - Archive Twitter Threads
+* [Ghost Archive](https://ghostarchive.org/) or [Megalodon](https://megalodon.jp/) - Twitter Archive Services
 * [Twitter Archive Parser](https://github.com/timhutton/twitter-archive-parser) or [twitter-web-exporter](https://github.com/prinsss/twitter-web-exporter) - Tweet Archivers
 * [Twayback Machine](https://staringispolite.github.io/twayback-machine/) - View Users' Old Tweets
 
