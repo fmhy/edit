@@ -36,11 +36,9 @@
     "@iconify-json/carbon": "^1.1.28",
     "@iconify-json/heroicons-solid": "^1.1.11",
     "@iconify-json/twemoji": "^1.1.15",
-    "@taskylizard/eslint-config": "^1.1.1",
     "@types/fs-extra": "^11.0.4",
     "@types/node": "^20.11.15",
     "@types/nprogress": "^0.2.3",
-    "eslint": "^8.56.0",
     "prettier": "^3.2.4",
     "tailwindcss": "^3.4.4"
   }
