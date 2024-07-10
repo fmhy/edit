@@ -1,4 +1,4 @@
-import { type MarkdownRenderer } from 'vitepress'
+import type { MarkdownRenderer } from 'vitepress'
 
 // FIXME: tasky: possibly write less horror jank?
 export function base64DecodePlugin(md: MarkdownRenderer) {
@@ -7,7 +7,7 @@ export function base64DecodePlugin(md: MarkdownRenderer) {
   // Save the original rule for backticks
   const defaultRender =
     md.renderer.rules.code_inline ||
-    function (tokens, idx, options, env, self) {
+    function (tokens, idx, options, _env, self) {
       return self.renderToken(tokens, idx, options)
     }
 

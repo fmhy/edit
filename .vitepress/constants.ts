@@ -14,7 +14,7 @@ export const commitRef = process.env.CF_PAGES
     }">${process.env.CF_PAGES_COMMIT_SHA.slice(0, 8)}</a>`
   : 'dev'
 
-export const feedback = `<a href="/feedback" class="feedback-footer">Made with ❤️</a>`
+export const feedback = `<a href="/feedback" class="feedback-footer">Made with ❤</a>`
 
 export const search: DefaultTheme.Config['search'] = {
   options: {
@@ -22,6 +22,7 @@ export const search: DefaultTheme.Config['search'] = {
       options: {
         tokenize: (text) => text.split(/[\n\r #%*,=/:;?[\]{}()&]+/u), // simplified charset: removed [-_.@] and non-english chars (diacritics etc.)
         processTerm: (term, fieldName) => {
+          // biome-ignore lint/style/noParameterAssign: h
           term = term
             .trim()
             .toLowerCase()

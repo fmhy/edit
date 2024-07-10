@@ -11,8 +11,7 @@ export function toggleStarredPlugin(md: MarkdownRenderer) {
       contentToken.content.startsWith(':star:')
     ) {
       return `<li class="starred">`
-    } else {
-      return self.renderToken(tokens, index, options)
     }
+    return self.renderToken(tokens, index, options)
   }
 }

@@ -1,51 +1,31 @@
 {
   "$schema": "https://biomejs.dev/schemas/1.8.3/schema.json",
   "extends": ["@taskylizard/biome-config"],
+  "files": {
+    "ignore": [".vitepress/**/*.vue", ".vitepress/vue-shim.d.ts"]
+  },
   "formatter": {
     "enabled": false
+  },
+  "javascript": {
+    "globals": [
+      "defineNitroConfig",
+      "eventHandler",
+      "useRuntimeConfig",
+      "readValidatedBody",
+      "defineEventHandler"
+    ]
   },
   "linter": {
     "rules": {
       "style": {
-        "noDefaultExport": "off",
-        "useNamingConvention": {
-          "level": "error",
+        "useFilenamingConvention": {
+          "level": "info",
           "options": {
-            "strictCase": false,
-            "conventions": [
-              {
-                "selector": {
-                  "kind": "typeParameter"
-                },
-                "formats": ["PascalCase"]
-              },
-              {
-                "selector": {
-                  "kind": "any"
-                },
-                "match": "[ab_]|(.{2,})"
-              },
-              {
-                "selector": {
-                  "kind": "objectLiteralMember"
-                },
-                "match": ".*"
-              },
-              {
-                "selector": {
-                  "kind": "typeMember"
-                },
-                "match": ".*"
-              },
-              {
-                "selector": {
-                  "kind": "variable"
-                },
-                "match": ".*"
-              }
-            ]
+            "filenameCases": ["camelCase", "PascalCase"]
           }
-        }
+        },
+        "noDefaultExport": "off"
       }
     }
   }
