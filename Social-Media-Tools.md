@@ -576,24 +576,30 @@
 
 * ⭐ **[Trends24](https://trends24.in/)** or [GetDayTrends](https://getdaytrends.com/) - Trending Hashtags Trackers
 * ⭐ **[/r/Twitter](https://reddit.com/r/Twitter)** - Twitter Subreddit
-* [Thread Safe](https://github.com/dkaslovsky/thread-safe) - Twitter Backup Tool
 * [Typefully](https://typefully.com/) - Schedule Tweets
 * [Chirr App](https://getchirrapp.com/) - Turn Articles into Twitter Threads / [Firefox](https://addons.mozilla.org/en-US/firefox/addon/chirr-app/) / [Chrome](https://chromewebstore.google.com/detail/chirr-app/cmbconaimdngicdnbpjnjocbpkdpmfkg)
 * [OneMillionTweetMap](https://onemilliontweetmap.com/) - Real-Time Tweet Map
 * [Klear](https://klear.com/free-tools/find-twitter-influencers) - Find Influencers
 * [FollowerWonk](https://followerwonk.com/) - Find / Analyze / Optimize Followers
-* [TwitterMediaHarvest](https://github.com/EltonChou/TwitterMediaHarvest) or [InThisTweet](https://inthistweet.app/) - Twitter Media Downloader
-* [GetVideoBot](https://twitsave.com/), [DownloadTwitterVideo](https://www.downloadtwittervideo.com/), [TwitterVid](https://twittervid.com/) or [sssTwitter](https://ssstwitter.com/) - Download Twitter Videos
-* [Pikaso](https://twitter.com/pikaso_me) - Twitter Screenshot Bot
-* [memory.lol](https://github.com/travisbrown/memory.lol/) - Twitter Account Archive
-* [Twitter Archive Parser](https://github.com/timhutton/twitter-archive-parser) or [twitter-web-exporter](https://github.com/prinsss/twitter-web-exporter) - Tweet Archivers
-* [Twayback Machine](https://staringispolite.github.io/twayback-machine/) - View Users' Old Tweets
 * [Scoutzen](https://www.scoutzen.com/twitter-lists/search) - Search Twitter Use Lists
 * [Hoaxy](https://hoaxy.osome.iu.edu/) - Twitter Info Spread Data
 * [tinfoleak](https://tinfoleak.com/) - View Your Geosocial Footprint
 * [Unfollow All](https://chromewebstore.google.com/detail/twitter-unfollow-all/mgehkbclkipppdjiemnhmnledicalkld) - Twitter Unfollower
 * [Fix Twitter Links](https://openuserjs.org/scripts/lucio-martinez/Fix_Twitter_links) - Unshorten Twitter Feed URLs
 * [Twitter Detector](https://github.com/stilliard/Twitter-detector) - Detect Twitter Link on a Page
+
+***
+
+## ▷ Twitter Archiving
+
+* [Thread Safe](https://github.com/dkaslovsky/thread-safe) - Twitter Backup Tool
+* [TwitterMediaHarvest](https://github.com/EltonChou/TwitterMediaHarvest) or [InThisTweet](https://inthistweet.app/) - Twitter Media Downloader
+* [GetVideoBot](https://twitsave.com/), [DownloadTwitterVideo](https://www.downloadtwittervideo.com/), [TwitterVid](https://twittervid.com/) or [sssTwitter](https://ssstwitter.com/) - Download Twitter Videos
+* [Pikaso](https://twitter.com/pikaso_me) - Twitter Screenshot Bot
+* [memory.lol](https://github.com/travisbrown/memory.lol/) - Twitter Account Archive
+* [Ghost Archive](https://ghostarchive.org/) or [Megalodon](https://megalodon.jp/) - Archive Twitter Threads
+* [Twitter Archive Parser](https://github.com/timhutton/twitter-archive-parser) or [twitter-web-exporter](https://github.com/prinsss/twitter-web-exporter) - Tweet Archivers
+* [Twayback Machine](https://staringispolite.github.io/twayback-machine/) - View Users' Old Tweets
 
 ***
 
