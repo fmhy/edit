@@ -14,7 +14,7 @@ footer: true
 
 It also features many [enhancements](https://ibb.co/RCckmdT) such as:
 
-* Max VR has been is increased from 9999 to 30000.
+* Max VR has been increased from 9999 to 30000.
 * Thunderclouds are now [Mega Clouds](https://i.imgur.com/8H54rGH.mp4), which give Mega Mushrooms, rather than shrinking.
 * Added (optional) inside drift to all vehicles, meaning more of them are competitive. 
 * Outside drift bikes have an extra level of mini turbo, and karts have three levels, similar to MK8DX.
