@@ -30,7 +30,7 @@ It also features many [enhancements](https://ibb.co/RCckmdT) such as:
 1. Download [Mario Kart Wii](https://fmhy.net/), or [dump your disc](https://youtu.be/36nNq49tfSM). 
 1. Download [Dolphin](https://dolphin-emu.org/download/) and [extract it](https://fmhy.net/file-tools#file-archivers).
 1. Open Dolphins controller tab and set up your controller. For gamecube you'll need an [adapter](https://dolphin-emu.org/docs/guides/how-use-official-gc-controller-adapter-wii-u/).
-1. Download [WheelWizard](https://github.com/patchzyy/WheelWizard/releases), go to settings, [set the paths](https://ibb.co/WHqWgcb), click save, select home, run the installer, 
+1. Download [WheelWizard](https://github.com/patchzyy/WheelWizard/releases), go to settings, [set the paths](https://ibb.co/WHqWgcb), click save, select home, run the installer. 
 1. Go back to settings, select "Launch Mii channel" and create a Mii to use for your license, and that's it, you can now launch and play Retro Rewind!
 
 ***
