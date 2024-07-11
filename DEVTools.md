@@ -229,6 +229,7 @@
 * 🌐 **[DB Engines](https://db-engines.com/en/ranking)** - Database Rankings
 * 🌐 **[Awesome Opensource Data Engineering](https://github.com/gunnarmorling/awesome-opensource-data-engineering)** - Data Engineering Tools
 * 🌐 **[Awesome Big Data](https://github.com/newTendermint/awesome-bigdata)** - Big Data Resources
+* ⭐ **[DB Browser](https://sqlitebrowser.org/)** or [HeidiSQL](https://www.heidisql.com/) - SQL Managers
 * [Grafana](https://grafana.com/) - Dev Data Dashboard
 * [DBeaver](https://dbeaver.io/) - Universal Database Tool
 * [Ingestr](https://bruin-data.github.io/ingestr/) - Transfer Data between Databases
@@ -238,7 +239,6 @@
 * [SQL Cheat Sheet](https://i.ibb.co/Ctr0Tn8/e289a15e2246.jpg) - SQL Cheat Sheet
 * [EdgeDB](https://www.edgedb.com/) - SQL Alternative
 * [Text-to-SQL](https://datalynx.ai/text-to-sql) - AI Generated SQL Queries
-* [HeidiSQL](https://www.heidisql.com/) - SQL Manager
 * [QueryStorm](https://querystorm.com/) - SQL and .NET programming in Excel
 * [SQLTranslate](https://www.sqltranslate.app/) - SQL Translator
 * [SQLizer](https://sqlizer.io/) - Convert Files To SQL Databases
@@ -1542,6 +1542,7 @@
 * [HTTPToolkit](https://httptoolkit.com/) - Intercept, Debug, and Mock HTTP(S)
 * [mitmproxy](https://mitmproxy.org/) / [GitHub](https://github.com/mitmproxy/mitmproxy) - Analyze and modify HTTPS traffic
 * [Mozilla SSL](https://ssl-config.mozilla.org/) - SSL Configuration Generator
+* [Tailscale](https://tailscale.com/) - Secure Network VPN
 * [Hitch](https://www.varnish-software.com/community/hitch) - SSL / TLS Proxy / [GitHub](https://github.com/varnish/hitch)
 * [Let's Encrypt](https://letsencrypt.org/) or [Certbot](https://certbot.eff.org/) - Free TLS Certificates
 * [SSL for Free](https://www.sslforfree.com/) or [ZeroSSL](https://zerossl.com/) - Free SSL Certificates
