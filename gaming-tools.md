@@ -361,14 +361,14 @@
 
 ## ▷ Multiplayer Fixes
 
-* ⭐ **[Online Fix](https://online-fix.me/)** - Multiplayer Fix / [Discord](https://discord.gg/yExgFYncMD)
-* ⭐ **[Playit.gg](https://playit.gg/)** - Multiplayer Fix / [Discord](https://discord.gg/AXAbujx)
-* [zerotier](https://www.zerotier.com/) - Multiplayer Fix
-* [Radmin](https://www.radmin-vpn.com/) - Multiplayer Fix / [Discord](https://discord.com/invite/8MapDM7m96)
-* [Hamachi](https://vpn.net/) - Multiplayer Fix
-* [NetMaker](https://www.netmaker.io/) - Multiplayer Fix
-* [Team XLink](https://www.teamxlink.co.uk/) - Multiplayer Fix / [Discord](https://discord.com/invite/XUS9n73KSP)
-* [ZLOEmu](https://zloemu.net/) - Multiplayer Fix
+* ⭐ **[Online Fix](https://online-fix.me/)** - LAN Multiplayer Fix / [Discord](https://discord.gg/yExgFYncMD)
+* ⭐ **[Playit.gg](https://playit.gg/)** - LAN Multiplayer Fix / [Discord](https://discord.gg/AXAbujx)
+* ⭐ **[zerotier](https://www.zerotier.com/)** - LAN Multiplayer Fix
+* [Radmin](https://www.radmin-vpn.com/) - LAN Multiplayer Fix / [Discord](https://discord.com/invite/8MapDM7m96)
+* [Hamachi](https://vpn.net/) - LAN Multiplayer Fix
+* [NetMaker](https://www.netmaker.io/) - LAN Multiplayer Fix
+* [Team XLink](https://www.teamxlink.co.uk/) - LAN Multiplayer Fix / [Discord](https://discord.com/invite/XUS9n73KSP)
+* [ZLOEmu](https://zloemu.net/) - LAN Multiplayer Fix
 * [t7patch](https://github.com/shiversoftdev/t7patch) - Black Ops 3 Crash Fix
 
 ***
