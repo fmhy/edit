@@ -344,7 +344,7 @@
 * ⭐ **[Allchemy](https://allchemy.io/)** or [Infinite Craft](https://neal.fun/infinite-craft/) / [Wiki](https://expitau.github.io/InfiniteCraftWiki/) / [Search](https://infinibrowser.zptr.cc/search) - Infinite Item Crafting Games
 * ⭐ **[Powerline.io](https://powerline.io/)** - Multiplayer Snake / [Discord](https://discord.com/invite/NckDSyb)
 * ⭐ **[QWOP](https://www.foddy.net/Athletics.html)** - Ragdoll Running Game
-* ⭐ **[TagPro](https://koalabeast.com/)** - Multiplyer Capture the Flag / [Discord](https://discord.com/invite/hhW3MDzrt3)
+* ⭐ **[TagPro](https://koalabeast.com/)** - Multiplayer Capture the Flag / [Discord](https://discord.com/invite/hhW3MDzrt3)
 * [Moo Moo](https://moomoo.io/) - Multiplayer Survival Game
 * [Slither.io](http://slither.io/) - Grow the Longest Worm
 * [Hexar.io](http://www.hexar.io/), [splix.io](https://splix.io/) or [paper-io](https://paper-io.com/) - Control the Map 
@@ -441,7 +441,7 @@
 * [ShellShock](https://www.shellshock.io/) - PvP FPS
 * [MiniRoyale](https://miniroyale.io/) - Battle Royal Game
 * [ZombsRoyale.io](https://zombsroyale.io/) - Top-Down Battle Royale 
-* [Wings.io](https://wings.io/) - Multiplyer Plane Battles / [Discord](https://discord.com/invite/HQcTbuZByA)
+* [Wings.io](https://wings.io/) - Multiplayer Plane Battles / [Discord](https://discord.com/invite/HQcTbuZByA)
 * [Operius](https://mors-games.itch.io/operius) - Space Shooter
 * [Galaxies](https://playcanv.as/p/Ikq6Uk6A/) - Space Combat Game 
 * [Tanki](https://tankionline.com/) or [Diep](https://diep.io/) - Online Team VS Team Tank Games
