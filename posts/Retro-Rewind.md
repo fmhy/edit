@@ -28,7 +28,7 @@ It also features many [enhancements](https://ibb.co/RCckmdT) such as:
 
 # PC Setup Guide
 
-1. Download [Mario Kart Wii](https://fmhy.net/gamingpiracyguide#rom-sites), or [dump your disc](https://youtu.be/36nNq49tfSM). 
+1. Download [Mario Kart Wii](https://fmhy.net/), or [dump your disc](https://youtu.be/36nNq49tfSM). 
 1. Download [Dolphin](https://dolphin-emu.org/download/) and [extract it](https://fmhy.net/file-tools#file-archivers).
 1. Open Dolphins controller tab and set up your controller. For gamecube you'll need an [adapter](https://dolphin-emu.org/docs/guides/how-use-official-gc-controller-adapter-wii-u/).
 1. Select tools in the Dolphin menu and perform a online system update. Select tools again, Load Wii System Menu 4.3U, do the setup and select "above tv." Launch the Mii channel and create a Mii.
