@@ -26,7 +26,6 @@
 * [quipqiup](https://www.quipqiup.com/) or [dCode](https://www.dcode.fr/en) - Cryptogram Solvers
 * [DocuSeal](https://www.docuseal.co/) - Free Document Signing
 * [TemplateLab](https://templatelab.com/) - Free Document Templates
-* [Butterick’s Practical Typography](https://practicaltypography.com/) - Typography Guide Book
 
 ***
 
@@ -248,6 +247,7 @@
 * [Flotes](https://flotes.app/) - Markdown Note Taking
 * [tomboy-ng](https://github.com/tomboy-notes/tomboy-ng) - TomBoy Based Text Editor
 * [Helix](https://helix-editor.com/) - Kakuone/Neovim Based Text Editor
+* [cherrytree](https://www.giuspen.net/cherrytree/) - Hierarchical Note Taking 
 * [UseMemos](https://usememos.com/) / [Discord](https://discord.gg/tfPJa4UmAv)
 * [Tiddly](https://tiddlywiki.com/) / [Desktop](https://github.com/tiddly-gittly/TidGi-Desktop)
 * [Joplin](https://joplinapp.org/) / [Firefox](https://addons.mozilla.org/en-US/firefox/addon/joplin-web-clipper/) / [Chrome](https://chromewebstore.google.com/detail/joplin-web-clipper/alofnhikmmkdbbbgpnglcpdollgjjfeken-GB)
