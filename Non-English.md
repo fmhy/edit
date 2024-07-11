@@ -725,7 +725,6 @@ https://aniwow.in/ has only dubs though
 * [jpddl](https://jpddl.com/) - Manga / Raw Anime / Music / Drama / 1080p
 * [JPLearner](http://www.jplearner.to/) - Video / Manga / Raw Anime / Magazines / 1080p
 * [Sukidesuost](https://sukidesuost.info/) - Music / MP3 / FLAC
-* [HikariNoAkari](https://hikarinoakari.com/) - Music / MP3 / FLAC
 * [JPop Singles](https://www.jpopsingles.eu/) - Music / MP3 / FLAC
 * [Doujin Cafe (Discord)](https://discord.gg/doujincafe) - Music / MP3 / FLAC
 * [DoujinStyle](https://doujinstyle.com/) - Music / MP3 / FLAC
