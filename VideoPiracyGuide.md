@@ -131,6 +131,7 @@
 * ⭐ **[Layendimator](https://github.com/Layendan/Layendanimator)**, [Akuse](https://github.com/akuse-app/Akuse), [Anikin](https://github.com/jerry08/Anikin), [Unyo](https://github.com/K3vinb5/Unyo) or [Miru Project](https://miru.js.org/en/) - Desktop Streaming Apps
 * ⭐ **[Japanese Animated Film Classics](https://animation.filmarchives.jp/index.html)** - Japanese Animated Film Archive
 * ⭐ **[Anime Streaming CSE](https://cse.google.com/cse?cx=006516753008110874046:vzcl7wcfhei)** / [CSE 2](https://cse.google.com/cse?cx=006516753008110874046:mrfarx7-dxu) or [Kuroiru](https://kuroiru.co/) - Multi-Site Anime Search
+* [RiveKun](https://rivekun.rivestream.live/), [2](https://rivekun.pages.dev) - Sub / Dub / 1080p / Ad-Free / [GitHub](https://github.com/Developabile/rive-anime) / [Status](https://github.com/Developabile/rive-anime/blob/dev/Domains.md) / [Discord](https://discord.gg/6xJmJja8fV)
 * [AnimeCross](https://anime.cross.moe/) - Sub / 1080p / [Discord](https://discord.com/invite/3AxZvGArdm)
 * [AnimeHub](https://animehub.ac/) - Sub / Dub / 1080p
 * [Animixplay](https://animixplay.tube), [2](https://animixplay.name/), [3](https://animixplay.fun/) - Sub / Dub / 1080p
