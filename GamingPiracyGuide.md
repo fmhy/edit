@@ -437,9 +437,9 @@
 * [Venge](https://venge.io/) - PvP FPS
 * [kour.io](https://kour.io/) - PvP FPS
 * [LolShot](https://lolshot.io/) - PvP FPS
-* [1v1.LOL](https://1v1.lol/) - 1v1 Building / Battle Sim
+* [1v1.LOL](https://1v1.lol/) - 1v1 Building / Battle Simulator
 * [ShellShock](https://www.shellshock.io/) - PvP FPS
-* [MiniRoyale](https://miniroyale.io/) - Battle Royal Game
+* [MiniRoyale](https://miniroyale.io/) - Battle Royale Game
 * [ZombsRoyale.io](https://zombsroyale.io/) - Top-Down Battle Royale 
 * [Wings.io](https://wings.io/) - Multiplayer Plane Battles / [Discord](https://discord.com/invite/HQcTbuZByA)
 * [Operius](https://mors-games.itch.io/operius) - Space Shooter
@@ -467,7 +467,7 @@
 * [FSHistory](https://s-macke.github.io/FSHistory/) - Play Classic Flight Simulator 
 * [Hacker Wars](https://hackerwars.io/) or [SlaveHack2](https://www.slavehack2.com/) - Hacking Simulators
 * [Startup Simulator](https://toggl.com/startup-simulator/) - Startup Simulation Game
-* [Sim CB](https://benoitessiambre.com/macro.html) - Central Bank Sim
+* [Sim CB](https://benoitessiambre.com/macro.html) - Central Bank Simulator
 * [Orbity](https://orbity.io/game.php) - Spaceship Launching Game
 * [Plane Food Simulator](https://sheepandram.itch.io/pfs2021) - Plane Food Eating Game
 * [Alternate History Simulator](https://abw.blue/) - Write Alternate History 
@@ -598,7 +598,7 @@
 * [WarClicks](https://warclicks.com/) - Incremental War Game
 * [Goblin Bet](https://goblin.bet/) - Bet on 1v1 Monster Fights
 * [The First Alkahistorian](https://nagshell.github.io/elemental-inception-incremental/) - Incremental Elemental Game
-* [FactoryIdle](https://factoryidle.com/) - Factory Idle Sim
+* [FactoryIdle](https://factoryidle.com/) - Factory Idle Simulator
 * [Idlescape](https://www.play.idlescape.com/) - Idle MMORPG
 * [ProgressQuest](http://progressquest.com/) - Idle RPG
 * [Anti Matter Dimesions](https://ivark.github.io/) - Anti Matter Idle Game
