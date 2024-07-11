@@ -43,7 +43,7 @@ It also features many [enhancements](https://ibb.co/RCckmdT) such as:
 1. Download [Retro Rewind](https://wiki.tockdom.com/wiki/Retro_Rewind) and drag the files to your SD card.
 1. Plug your SD card into your Wii and launch Homebrew. 
 1. You can launch Retro Rewind from here, but follow the steps below get get a Wii system channel.
-1. Launch YAWM Modmii in Homebrew, select your SD card, and install the RetroRewind.wad for the console you're on. Thats it, you now have a Retro Rewind system channel with a updater. If the channel updater wont work just download the files manually and replace them in your SD.
+1. Launch YAWM Modmii in Homebrew, select your SD card, and install the RetroRewind.wad for the console you're on. Thats it, you now have a Retro Rewind system channel and updater. If the channel updater wont work just download the files manually and replace them in your SD.
 
 **[Video Guide](https://youtu.be/qH4ou21r8ic)**
 
