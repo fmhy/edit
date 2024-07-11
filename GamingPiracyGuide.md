@@ -331,6 +331,7 @@
 * [First-Person Tetris](https://firstpersontetris.com/) - Play Tetris in First Person 
 * [Play Snake](https://playsnake.org/) - Retro Snake 
 * [Google Maps Snake](https://snake.googlemaps.com/) - Google Snake
+* [Google Snake Mods](https://googlesnakemods.com/) - Google Snake Mods
 * [Snake-Game](https://www.onemotion.com/snake-game/) - 3D Snake
 * [TENNIS!](https://snek-vunderkind.vercel.app/games/tennis.html) - JavaScript Pong
 
