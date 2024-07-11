@@ -227,7 +227,7 @@
 * [Refseek](https://www.refseek.com/) - Academic Search Engine
 * [Sources.com](https://www.sources.com/) - Journalism Source Search
 * [GrayHatWarfare](https://buckets.grayhatwarfare.com/) or [OpenBuckets](https://openbuckets.io/) - Amazon s3 Buckets Search
-* [UserSearch](https://usersearch.org/), [Sherlock](https://sherlock-project.github.io/), [Maigret](https://github.com/soxoj/maigret), [Nexfil](https://github.com/thewhiteh4t/nexfil), [Lullar](https://lullar-com-3.appspot.com/), [Blackbird](https://github.com/p1ngul1n0/blackbird) or [WhatsMyName](https://whatsmyname.app/) - Username Search
+* [UserSearch](https://usersearch.org/), [Sherlock](https://sherlockproject.xyz/), [Maigret](https://github.com/soxoj/maigret), [Nexfil](https://github.com/thewhiteh4t/nexfil), [Lullar](https://lullar-com-3.appspot.com/), [Blackbird](https://github.com/p1ngul1n0/blackbird) or [WhatsMyName](https://whatsmyname.app/) - Username Search
 * [FindAGrave](https://findagrave.com/) - Gravestone Search
 * [Telegago](https://cse.google.com/cse?&cx=006368593537057042503:efxu7xprihg#gsc.tab=0) or [TG CSE](https://cse.google.com/cse?cx=006249643689853114236:a3iibfpwexa) - Telegram CSE
 * [ISearchFrom](http://isearchfrom.com/) - Change Location / Device for Google Search
