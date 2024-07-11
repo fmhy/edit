@@ -1,14 +1,3 @@
----
-title: Mario Kart Wii Retro Rewind
-description: Retro Rewind
-date: 2024-07-09
-next: false
-aside: left
-prev: false
-sidebar: false
-footer: true
----
-
 # What is Retro Rewind?
 
 [Retro Rewind](https://wiki.tockdom.com/wiki/Retro_Rewind) is a Mario Kart Wii custom track distribution that features ***every retro track*** from Super Mario Kart to Mario Kart 7, as well as some from Mario Kart 8 and Mario Kart Tour, totaling 152. Retro Rewind can be played online in public rooms with Dolphin Emulator, a Wii or WiiU.
@@ -31,7 +20,7 @@ It also features many [enhancements](https://ibb.co/RCckmdT) such as:
 1. Download [Mario Kart Wii](https://fmhy.net/), or [dump your disc](https://youtu.be/36nNq49tfSM). 
 1. Download [Dolphin](https://dolphin-emu.org/download/) and [extract it](https://fmhy.net/file-tools#file-archivers).
 1. Open Dolphins controller tab and set up your controller. For gamecube you'll need an [adapter](https://dolphin-emu.org/docs/guides/how-use-official-gc-controller-adapter-wii-u/).
-1. Select tools in the Dolphin menu and perform a online system update. Select tools again, Load Wii System Menu 4.3U, do the setup and select "above tv." Launch the Mii channel and create a Mii.
+1. Select tools in the Dolphin menu and perform a online system update. Select tools again, Load Wii System Menu 4.3U, do the setup and select "above tv." Launch the Mii channel and create a Mii to for your license.
 1. Download [WheelWizard](https://github.com/patchzyy/WheelWizard/releases), go to settings, [set the paths](https://ibb.co/WHqWgcb), click save, select home, run the installer, and that's it, you can now launch and play Retro Rewind!
 
 ***
@@ -54,7 +43,7 @@ It also features many [enhancements](https://ibb.co/RCckmdT) such as:
 
 * You need to turn on things like inside drift, fast menus, and finishing times in the Retro Rewind settings.
 
-* Retro Rewind uses WiiLink, and does NOT require a NAND to play online with Dolphin.
+* Retro Rewind uses a modified version of WiiLink, meaning it does NOT require a NAND to play online with Dolphin.
 
 * If you don't know anything about Mario Kart Wii, or why it has a cult following 16 years after its release, I'd suggest checking out [TWD98](https://www.youtube.com/@TWD98). Troy plays a lot, so its a good way to learn about the game and improve.
 
