@@ -99,7 +99,9 @@ export default defineConfig({
         items: [
           { text: 'Posts', link: '/posts' },
           { text: 'Feedback', link: '/feedback' },
-          { text: 'snowbin', link: 'https://pastes.fmhy.net' }
+          { text: 'snowbin', link: 'https://pastes.fmhy.net' },
+          { text: 'SearXNG', link: 'https://searx.fmhy.net/'},
+          { text: 'Whoogle', link: 'https://whoogle.fmhy.net/'}
         ]
       }
     ],
