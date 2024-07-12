@@ -65,6 +65,10 @@ https://wiki.tockdom.com/wiki/Retro_Rewind
 
 **Discord Server**
 
+https://discord.gg/UxHmgNdPxw
+
+**ZPL's Hideaway**
+
 https://discord.gg/jczByGAqb6
 
 **YouTube Channel**
