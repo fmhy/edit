@@ -713,7 +713,14 @@
 
 ## Minecraft Hosting
 
-[MineColab](https://colab.research.google.com/github/thecoder-001/MineColab/blob/master/MineColab.ipynb) / [GitHub](https://github.com/thecoder-001/MineColab), [MineFort](https://minefort.com/), [Minehut](https://minehut.com/), [Aternos](https://aternos.org/), [FMHL](https://fmhl.devloo.xyz/), , [oracle-cloud ](https://www.setup.md/guides/oracle-cloud), [mcho](https://mcho.st/), [fps](https://fps.ms/)
+* 🌐 **[FMHL](https://fmhl.devloo.xyz/)** - Free Minecraft Hosts List
+* [MineColab](https://colab.research.google.com/github/thecoder-001/MineColab/blob/master/MineColab.ipynb) / [GitHub](https://github.com/thecoder-001/MineColab)
+* [MineFort](https://minefort.com/)
+* [Minehut](https://minehut.com/)
+* [Aternos](https://aternos.org/)
+* [oracle-cloud](https://www.setup.md/guides/oracle-cloud) / [Tutorial](https://blogs.oracle.com/developers/post/how-to-set-up-and-run-a-really-powerful-free-minecraft-server-in-the-cloud)
+* [mcho](https://mcho.st/)
+* [fps](https://fps.ms/)
 
 ### Minecraft Server Tools
 
@@ -1086,7 +1093,7 @@
 
 ## Text Adventures
 
-[IFDB](https://ifdb.org/) (Index), [Seedship](https://philome.la/johnayliff/seedship/play/index.html), [TextAventures](http://textadventures.co.uk/), [Web Adventures](https://www.web-adventures.org/), [WrittenRealms](https://writtenrealms.com/), [doublespeak](https://doublespeak.chat/), [Genesis](https://www.genesismud.org/), [Fateful Quest](https://fateful.quest/), [Level 13](https://nroutasuo.github.io/level13/), [Year 01](https://year01.life/), [AI Murder Mystery](https://ai-murder-mystery.onrender.com/)
+[IFDB](https://ifdb.org/) (Index), [Seedship](https://philome.la/johnayliff/seedship/play/index.html), [TextAventures](http://textadventures.co.uk/), [Web Adventures](https://www.web-adventures.org/), [WrittenRealms](https://writtenrealms.com/), [doublespeak](https://doublespeak.chat/), [Genesis](https://www.genesismud.org/), [Fateful Quest](https://fateful.quest/), [Level 13](https://nroutasuo.github.io/level13/), [Year 01](https://year01.life/)
 
 ***
 
