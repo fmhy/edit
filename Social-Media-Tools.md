@@ -118,7 +118,7 @@
 ## ▷ Discord Bots
 
 * ⭐ **[FreeStuff Bot](https://freestuffbot.xyz/)** - Free Games Alert Bot
-* [FixEmbed](https://github.com/kenhendricks00/FixEmbedBot) - Fix Embeds on Discord Bot
+* [FixEmbed](https://github.com/kenhendricks00/FixEmbed) - Fix Embeds on Discord Bot
 * [NotQuiteNitro](https://nqn.blue/) - Discord Nitro Alternative
 * [fmbot](https://fmbot.xyz/) - Discord Voice Chat Scrobbling
 * [Chuu](https://github.com/ishwi/Chuu) - Last.fm Discord Bot
