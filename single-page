@@ -681,499 +681,437 @@
 ***
 ***
 
-# ► Adblocking
+# ► AI Chatbots
 
-* **Note** - Don't run multiple general adblockers (e.g., uBlock Origin and Adblock Plus) simultaneously to [avoid breakage](https://twitter.com/gorhill/status/1033706103782170625). Combining general adblockers with tools like SponsorBlock is fine. 
-
-***
-
-* ↪️ **[Spotify Adblockers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/audio#wiki_.25B7_spotify_adblockers)**
-* ↪️ **[Twitch Adblockers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/social-media#wiki_.25B7_twitch_adblockers)**
-* ↪️ **[Bypass Article Paywalls](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools#wiki_.25B7_paywall_bypass)**
-* ⭐ **[uBlock Origin](https://github.com/gorhill/uBlock#installation)** - Adblocker
-* ⭐ **uBO Resources** - [Report Issues](https://github.com/uBlockOrigin/uAssets/issues) / [Report Hosts](https://github.com/uBlockOrigin/uAssets/discussions/17361) / [Guides](https://www.reddit.com/r/uBlockOrigin/wiki/index/) / [Advanced](https://youtu.be/2lisQQmWQkY) / [Redundant Extensions](https://github.com/arkenfox/user.js/wiki/4.1-Extensions/#-dont-bother)
-* ⭐ **[SponsorBlock](https://sponsor.ajay.app/)** - Skip Sponsored YouTube Ads / [Script](https://github.com/mchangrh/sb.js), [2](https://greasyfork.org/en/scripts/453320)
-* ⭐ **[BehindTheOverlay](https://github.com/NicolaeNMV/BehindTheOverlay)** - Hide Website Overlays
-* ⭐ **[OpenVideo](https://openvideofs.github.io)** or [Stream-Bypass](https://github.com/ByteDream/stream-bypass) - Play Videos in Ad-Free Player
-* [uBO Lite](https://github.com/uBlockOrigin/uBOL-home) - MV3 Compatible for Chrome Users / [Note](https://rentry.org/nzvohpzf)
-* [fadblock](https://github.com/0x48piraj/fadblock) or [Disable YT Video Ads](https://greasyfork.org/en/scripts/32626) - YouTube Adblockers
-* [Ad Blitz](https://ad-blitz.vercel.app/) - Speed Up YouTube Ads instead of Skipping to Support Creators
-* [Popupblocker All](https://addons.mozilla.org/en-US/firefox/addon/popupblockerall/), [PopUpOFF](https://romanisthere.github.io/PopUpOFF-Website/index.html) or [PopupBlocker](https://github.com/AdguardTeam/PopupBlocker) - Popup / New Tab Blockers
-* [Adguard](https://github.com/AdguardTeam/AdguardBrowserExtension#installation) - Adblocker
-* [Adblock Tester](https://adblock-tester.com/) or [AdBlocker Test](https://d3ward.github.io/toolz/adblock.html) - Adblocking Tests
-* [12ft.io](https://12ft.io/) - Share Ad-Free URLs
-
-***
-
-## ▷ Adblock Filters
-
-* ⭐ **[yokoffing's Recommended Filters](https://github.com/yokoffing/filterlists)**
-* ⭐ **[LegitimateURLShortener](https://github.com/DandelionSprout/adfilt/blob/master/LegitimateURLShortener.txt)**
-* ⭐ **[FMHY Filterlist](https://windowsaurora.github.io/FMHYFilterlist/site/index.html)** - Unsafe Sites Filter / [Github](https://github.com/WindowsAurora/FMHYFilterlist/)
-* [Adbox](http://raymondhill.net/ublock/adbox.html) - Test Filters
-* [DandelionSprout adlift](https://github.com/DandelionSprout/adfilt)
-* [Facebook Filters](https://www.reddit.com/r/uBlockOrigin/wiki/solutions#wiki_facebook)
-* [Clear URLs for uBO](https://github.com/DandelionSprout/adfilt/blob/master/ClearURLs%20for%20uBo/clear_urls_uboified.txt)
-* [webannoyances](https://github.com/yourduskquibbles/webannoyances)
-* [NoADS_RU](https://raw.githubusercontent.com/Zalexanninev15/NoADS_RU/main/ads_list.txt)
-* [Anifiltrs](https://github.com/Karmesinrot/Anifiltrs)
+* 🌐 **[Awesome ChatGPT](https://github.com/uhub/awesome-chatgpt)** - ChatGPT Resources
+* 🌐 **[Every ChatGPT GUI](https://github.com/billmei/every-chatgpt-gui)** - ChatGPT GUI Index
+* ⭐ **[ChatPDF](https://www.chatpdf.com/)** or [Ask Your PDF](https://askyourpdf.com/) - Turn Books into Chatbots
+* ⭐ **[TypeSet](https://typeset.io/)** - Research Paper Chatbot
+* [GPT Crawler](https://github.com/BuilderIO/gpt-crawler) - Turn Websites into Chatbots
+* [ChatGPTBox](https://github.com/josStorer/chatGPTBox), [ChatGPT Apps](https://github.com/adamlui/chatgpt-apps), [KeepChatGPT](https://github.com/xcanwin/KeepChatGPT/blob/main/docs/README_EN.md) or [Merlin](https://www.getmerlin.in/) / [Unlimited](https://rentry.co/MerlinAI-Unlim) - Extensions
+* [Humata](https://www.humata.ai/), [Sharly](https://app.sharly.ai/), [Docalysis](https://docalysis.com/), [DAnswer](https://docs.danswer.dev/), [DocsGPT](https://docsgpt.arc53.com/) or [ChatDOC](https://chatdoc.com/) - Turn Documents into Chatbots
+* [PrivateGPT](https://docs.privategpt.dev/) - Offline Document Chatbots
+* [SallyBot](https://github.com/DeSinc/SallyBot/) - ChatGPT Discord Bot
+* [TGPT](https://github.com/aandrew-me/tgpt) - ChatGPT TUIs
+* [Lobe Chat](https://chat-preview.lobehub.com) - Desktop App
+* [Noi](https://noi.nofwl.com/) - Desktop App
+* [Chatbot-UI](https://chatbotui.com) - Desktop App / [GitHub](https://github.com/mckaywrigley/chatbot-ui)
+* [ChatRTX](https://www.nvidia.com/en-us/ai-on-rtx/chatrtx/) - Desktop App / RTX 30+ Series GPU Only
+* [ChatGPT DeMod](https://github.com/4as/ChatGPT-DeMod) - Block ChatGPT Moderation Checks
+* [ParallelGPT](https://www.parallelgpt.ai/) - Data Processing AI
+* [Voice Control](https://voicecontrol.chat/) - ChatGPT Voice Control
+* [ChatGPT Exporter](https://greasyfork.org/en/scripts/456055) - Export Chats
+* [GPThemes](https://github.com/itsmartashub/GPThemes) - ChatGPT Themes
 
 ***
 
-## ▷ Redirect Bypass
+## ▷ Online Chatbots
 
-* ⭐ **[Bypass All Shortlinks](https://codeberg.org/Amm0ni4/bypass-all-shortlinks-debloated/)**
-* ⭐ **[bypass.city](https://bypass.city/)**, [2](https://adbypass.org/) / [Userscript](https://bypass.city/how-to-install-userscript) / [Discord](https://discord.com/invite/uMEtrpRvAf)
-* [FastForward](https://fastforward.team/) / [Discord](https://discord.gg/RSAf7b5njt) / [Note](https://pastebin.com/Gr2AhsE8)
-* [AdsBypasser](https://adsbypasser.github.io/) / [2](https://github.com/adsbypasser/adsbypasser)
-* [TheBypasser](https://thebypasser.com/)
-* [Bypass-Links](https://bypass-links.vercel.app) / [GitHub](https://github.com/amitsingh-007/bypass-links)
-* [Yuumari](https://yuumari.com/bypass/) / [Extension](https://chromewebstore.google.com/detail/auto-link-bypasser/doiagnjlaingkmdjlbfalakpnphfmnoh) / [Script](https://yuumari.com/m-links/#js-code)
-* [UploadHEaven](https://greasyfork.org/en/scripts/442019)
-* [Bypass FileCrypt](https://greasyfork.org/en/scripts/403170) - FileCrypt Bypass
-
-***
-
-## ▷ DNS Adblocking
-
-* **Note** - If your goal is to block browser ads, it's best to just stick with uBlock Origin, as additional filters can cause conflicts or anti-adblock.
-
-***
-
-* 🌐 **[DNS Providers](https://adguard-dns.io/kb/general/dns-providers/)** - DNS Provider Index
-* ↪️ **[DNS Filters / Blocklists](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_dns_filters)**
-* ↪️ **[Free DNS Servers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_free_dns_servers)**
-* ⭐ **[Pi-Hole](https://pi-hole.net/)** - DNS Adblocking / Self-Hosted
-* ⭐ **Pi-Hole Tools** - [Install Script](https://github.com/DesktopECHO/Pi-Hole-for-WSL1) / [Filter](https://firebog.net/) / [Firefox](https://addons.mozilla.org/en-US/firefox/addon/alanine/) / [Chrome](https://chromewebstore.google.com/detail/alanine/lohlpbknpcngpjifmofkidennikljlfi) / [Docker](https://hub.docker.com/repository/docker/kulda22/alanine) / [Antitelemetry](https://github.com/MoralCode/pihole-antitelemetry)
-* ⭐ **[AdGuard Home](https://github.com/AdguardTeam/AdGuardHome/wiki/Docker)** - DNS Adblocking / Self-Hosted / [Setup](https://github.com/klutchell/balena-adguard) / [Filters](https://github.com/hl2guide/AdGuard-Home-Whitelist)
-* ⭐ **[Mullvad DNS](https://mullvad.net/en/help/dns-over-https-and-dns-over-tls/)** - DNS Adblocking / [Extension](https://mullvad.net/en/download/browser/extension)
-* [YogaDNS](https://yogadns.com/) - Custom DNS Client
-* [ControlD](https://controld.com/free-dns) - DNS Manager
-* [NextDNS](https://nextdns.io) - DNS Adblocking / [Guide](https://github.com/yokoffing/NextDNS-Config) / [Video](https://youtu.be/WUG57ynLb8I)
-* [BlahDNS](https://blahdns.com/) - DNS Adblocking
-* [Adguard DNS](https://adguard-dns.io/) - DNS Adblocking
-* [AlternateDNS](https://alternate-dns.com/index.php) - DNS Adblocking
-* [LibreDNS](https://libredns.gr/) - DNS Adblocking
-* [Diversion](https://diversion.ch/) - DNS Adblocking
-* [NxFilter](https://nxfilter.org/) - DNS Adblocking
-* [personalDNSfilter](https://www.zenz-solutions.de/personaldnsfilter-wp/) - DNS Adblocking
-* [TBlock](https://tblock.me/) - DNS Adblocking / [Filters](https://codeberg.org/tblock/filters)
-* [dog](https://dns.lookup.dog/) - DNS CLI
-* [Stubby](https://dnsprivacy.org/dns_privacy_daemon_-_stubby/) - DNS Stub Resolver
-* [Phishing Army](https://phishing.army/) - DNS Phishing Blocklist
-* [BIND](https://gitlab.isc.org/isc-projects/bind9) - Portable DNS Protocol
-* [Maza](https://maza-ad-blocking.andros.dev/) - Local DNS Adblocking
-* [DNS Party](https://encrypted-dns.party/) - DNS Config Profiles for Apple Devices Encrypted
-* [no-google](https://github.com/nickspaargaren/no-google) - Block All Google Services
-* [Samsung Smart TV Adblock](https://redd.it/gn7fw5) - Block Smart TV Ads
-* [DNS Resolver Privacy-First](https://doh.tiar.app/) - DNS Resolver
-* [Technitium](https://technitium.com/dns) or [Hickory DNS](https://github.com/hickory-dns/hickory-dns) - Self-Hosted DNS Server
-* [DNS Perf](https://dnsperf.com/dns-speed-benchmark) or [NameBench](https://code.google.com/archive/p/namebench/) - DNS Speed Tests
+* 🌐 **[Awesome Free ChatGPT](https://github.com/LiLittleCat/awesome-free-chatgpt/blob/main/README_en.md)** or [ChinaGPT](https://github.com/GoldenMelon-Studio/chinagpt-4/) - Online GPT Indexes
+* ⭐ **[ChatGPT](https://chatgpt.com/)** - GPT-4o Chatbot / [Discord](https://discord.com/invite/openai)
+* ⭐ **[Microsoft Copilot](https://copilot.microsoft.com)** - GPT-4/3.5 Powered Search / [SydneyQT Jailbreak](https://github.com/juzeon/SydneyQt)
+* ⭐ **[Morphic](https://www.morphic.sh/)** - GPT-4o Powered Search 
+* ⭐ **[Perplexity](https://www.perplexity.ai/)** - GPT-3.5 Powered Search / [Open Source Models](https://labs.perplexity.ai/)
+* ⭐ **[wrtn](https://wrtn.ai/)** - GPT-4 Chatbot / [Android](https://play.google.com/store/apps/details?id=com.wrtn.app) / [iOS](https://apps.apple.com/us/app/%EB%A4%BC%ED%8A%BC-%EB%AA%A8%EB%91%90%EB%A5%BC-%EC%9C%84%ED%95%9C-ai-%ED%8F%AC%ED%84%B8/id6448556170) (ask for english)
+* ⭐ **[Gemini](https://gemini.google.com/)** or [Gemma](https://github.com/google/gemma.cpp), [2](https://ai.google.dev/gemma/) - Google's Chatbot
+* ⭐ **[Claude](https://claude.ai/)** - Anthropic's Chatbot
+* ⭐ **[sdk.vercel](https://sdk.vercel.ai/)** - GPT-4o / Multiple Chatbots
+* ⭐ **[groq](https://groq.com/)** - Llama 3 and Mixtral Chatbots
+* ⭐ **[LMSYS Chat](https://chat.lmsys.org/)** - Chat and Compare Multiple Chatbots
+* [LLM Playground](https://llmplayground.net/) - Multiple Chatbots / [Discord](https://discord.com/invite/q55gsH8z5F) / [API](https://api.discord.rocks/)
+* [feyn](https://feyn.chat/) - GPT-4o / Multiple Chatbots
+* [GPT4o.so](https://gpt4o.so/app) - GPT-4o
+* [LibreChat](https://librechat.ai/) - Multiple Chatbots
+* [DDG Chat](https://duckduckgo.com/chat) - Multiple Chatbots
+* [HuggingChat](https://huggingface.co/chat/) - Open-Source Chatbots
+* [infermatic](https://infermatic.ai/) / [Discord](https://discord.gg/9GUXmDx9GF) - Multiple Chatbots
+* [lollms-webui](https://github.com/ParisNeo/lollms-webui) - Multiple Chatbots
+* [MagAI](https://rentry.org/freegpt4withmagai) - Multiple Chatbots
+* [freegpt4](https://rentry.org/freegpt4) - Free GPT-4 Methods
+* [Meta AI](https://www.meta.ai/) - Llama 3 Chatbot
+* [NVIDIA NIM](https://build.nvidia.com/) - Llama 3
+* [Phind](https://www.phind.com/) - Llama Search Engine
+* [Perplexica](https://github.com/ItzCrazyKns/Perplexica) - AI Search Engine
+* [Komo](https://komo.ai/) - AI Search Engine
+* [iAsk](https://iask.ai/) - AI Search Engine
+* [Mindfulq](https://www.mindfulq.com/) - AI Search Engine
+* [Andi](https://andisearch.com/) - AI Search Engine
+* [You](https://you.com/) - AI Search Engine
+* [iSeek](https://www.iseek.com/) - AI Search Engine
+* [Farfalle](https://www.farfalle.dev/) - AI Search Engine
+* [Exa](https://exa.ai/) - AI Search Engine / [Discord](https://discord.com/invite/jvz7GS9W8Y)
+* [Lepton Search](https://search.lepton.run/) - AI Search Engine
+* [Pi](https://pi.ai/talk) - Inflection AI's Chatbot
+* [Reka Playground](https://chat.reka.ai/) - Reka's Chatbot
+* [Poe](https://poe.com/) - Multiple Chatbots / 150 Daily / [Discord](https://discord.com/invite/joinpoe)
+* [GlobalGPT](https://www.globalgpt.nspiketech.com/#/) - AI Chatbot with Document Support
+* [Ai Uncensored](https://www.aiuncensored.info/) - "Uncensored" Chatbot 
 
 ***
 
-## ▷ [Linux Adblocking](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/linux#wiki_.25B7_adblock_.2F_privacy)
+## ▷ Self-Hosting Tools
+
+* ⭐ **[Jan.ai](https://jan.ai/)** - Self-Hosted
+* ⭐ **[SillyTavern](https://docs.sillytavern.app/)** - Front-end for LLMs
+* ⭐ **[llama.cpp](https://github.com/ggerganov/llama.cpp)** - Self-Host Transformer Based LLMs / [Guide](https://rentry.org/llama-mini-guide)
+* ⭐ **[kobold.cpp](https://github.com/LostRuins/koboldcpp)** - llama.cpp with API + GUI / [rocM](https://github.com/YellowRoseCx/koboldcpp-rocm) / [Colab](https://colab.research.google.com/github/LostRuins/koboldcpp/blob/concedo/colab.ipynb)
+* ⭐ **[Pinokio](https://pinokio.computer/)** - Single Click AI Model Installer / [Discord](https://discord.gg/TQdNwadtE4)
+* ⭐ **[Oobabooga Text Generation WebUI](https://github.com/oobabooga/text-generation-webui)** - Self-Host Models / [Colab](https://colab.research.google.com/github/pcrii/Philo-Colab-Collection/blob/main/4bit_TextGen_Gdrive.ipynb)
+* ⭐ **[Aphrodite Engine](https://github.com/PygmalionAI/aphrodite-engine)** - Serve LLMs at Scale with Kobold & OpenAI APIs / [Colab](https://colab.research.google.com/github/AlpinDale/misc-scripts/blob/main/Aphrodite.ipynb)
+* [LLaVA](https://llava.hliu.cc/) - Chatbot with Image Support
+* [OpenAIPlayground](https://github.com/nat/openplayground) - LLM Playground
+* [Petals](https://petals.dev/) - Self-Hosted
+* [Mistral](https://chat.mistral.ai/chat) - Self-Hosted
+* [Ollama](https://ollama.ai/) - Self-Hosted
+* [LMStudio](https://lmstudio.ai/) - Self-Hosted
+* [GPT4All](https://www.nomic.ai/gpt4all) - Self-Hosted / [Github](https://github.com/nomic-ai/gpt4all) / [Discord](https://discord.com/invite/mGZE39AS3e)
+* [LlamaFile](https://github.com/Mozilla-Ocho/llamafile) - Run LLM with Single Files
+* [Generative AI for Beginners](https://microsoft.github.io/generative-ai-for-beginners/) - Generative AI Guides
 
 ***
 
-## ▷ [Mac Adblocking](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/linux#wiki_.25BA_mac_adblock_.2F_privacy)
+## ▷ Roleplaying Chatbots
+
+* 🌐 **[Ayumi LLM](http://ayumi.m8geil.de/ayumi_bench_v3_results.html)** or [BestERP](https://besterp.ai/) - Roleplaying LLM Lists
+* 🌐 **[Img-Resources](https://rentry.org/lmg-resources)** - LLM Character Resources / [Templates](https://rentry.org/lmg_template)
+* ⭐ **[PygmalionAI](https://discord.com/invite/pygmalionai)** - Self-Hosted Roleplaying Models with Resources / [Resources](https://rentry.co/PygmalionLinks)
+* ⭐ **[Call Annie](https://callannie.ai/)** - GPT-3.5 Chatbot with Real-Time Voice and Video / [Discord](https://discord.gg/Rfbzet5R3v)
+* ⭐ **[Character AI](https://character.ai/)** - Roleplaying Chatbots / [Extract Params](https://rentry.org/reverseCAI)
+* ⭐ **[FlowGPT](https://flowgpt.com/chat)** - Roleplaying Chatbots / [Discord](https://discord.com/invite/tWZGzcpTkf)
+* ⭐ **[Bot Creation Guide](https://wikia.schneedc.com/bot-creation/intro)** - Character Creation Guide
+* ⭐ **[Chub](https://www.chub.ai/)** - Character Cards
+* [LlaMA + SillyTavern](https://rentry.org/llama_v2_sillytavern) - LlaMA + SillyTavern Roleplaying Setup Guide
+* [KoboldAI](https://github.com/henk717/KoboldAI) - GUI for Roleplaying Chatbots / [Web App](https://lite.koboldai.net/)
+* [GPT Call](https://gptcall.net/) - Roleplaying Chatbots / [Discord](https://discord.gg/88fQT5Bgfe)
+* [Figgs](https://www.figgs.ai/) - Roleplaying Chatbots
+* [Dreamshow](https://dreamshow.ai/) - Roleplaying Chatbots
+* [Spicychat.ai](https://spicychat.ai/) - Roleplaying Chatbots
+* [Sakura](https://www.sakura.fm/) - Roleplaying Chatbots
+* [4thWall AI](https://beta.4wall.ai/) - Roleplaying Chatbots
+* [Faraday](https://faraday.dev/) - Self-Hosted Roleplaying Chatbot
+* [TavernAI](https://tavernai.net/) - Roleplaying / Adventure Chatbot
+* [AI Dungeon](https://play.aidungeon.io/main/landing) - Roleplaying / Adventure Chatbot
+* [Shapes.ai](https://shapes.inc/) - Discord Roleplaying Bot
+* [Broken Bear](https://www.brokenbear.com/) - Vent to AI Bear
+* [Kajiwoto](https://kajiwoto.ai/), [Miku](https://docs.miku.gg/) / [Discord](https://discord.gg/3XPdpUdGgV) or [Agnai](https://agnai.chat/) - Chatbot Builders
 
 ***
 
-## ▷ [Android Adblocking](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_android_adblocking)
+## ▷ Coding AIs
+
+* 🌐 **[EvalPlus Leaderboard](https://evalplus.github.io/leaderboard.html)** or [BigCode](https://huggingface.co/spaces/bigcode/bigcode-models-leaderboard) - Coding AI Leaderboards
+* 🌐 **[Awesome AI Agents](https://github.com/e2b-dev/awesome-ai-agents)** - Coding / Programming AIs
+* ⭐ **[Codeium](https://codeium.com/)** - Coding AI
+* ⭐ **[Pieces](https://pieces.app/) / [Docs](https://docs.pieces.app)** - Multi-LLM Coding AI / GPT-4 for Free
+* [Cursor](https://cursor.sh/) - Coding AI
+* [tabnine](https://www.tabnine.com/) - Coding AI
+* [ImageCook](https://imgcook.com) / [GitHub](https://github.com/imgcook/imgcook) - Coding AI
+* [CodeWhisperer](https://aws.amazon.com/codewhisperer/) - Coding AI
+* [Telosys](https://www.telosys.org/) - Coding AI
+* [WDTCD?](https://whatdoesthiscodedo.com/) - Coding AI
+* [Sourcery](https://sourcery.ai/) - Coding AI
+* [Devv](https://devv.ai/) - Coding AI
+* [Cody](https://about.sourcegraph.com/cody) - Coding AI
+* [Cursor](https://www.trycursor.com/) - Coding AI / [Discord](https://discord.gg/PJEgRywgRy)
+* [OpenDevin](https://github.com/OpenDevin/OpenDevin) - Coding AI
+* [continue](https://continue.dev/) - Coding AI
+* [Bito AI](https://bito.ai/) - Coding AI
+* [CodiumAI](https://www.codium.ai/) - Coding AI
+* [Blackbox](https://www.blackbox.ai/) - Coding AI
+* [Codel](https://github.com/semanser/codel) - Coding AI
+* [CollectivAI](https://chat.collectivai.com/) - Coding AI
+* [Denigma](https://denigma.app/#demo) - Coding AI
+* [GPT Engineer](https://github.com/AntonOsika/gpt-engineer) - Coding AI
+* [Aider](https://aider.chat/) - Terminal Coding AI
+* [Codacy](https://www.codacy.com/) or [AI Code Review](https://ai-code-reviewer.com/) - Code Fixing AIs
+* [Open Interpreter](https://github.com/OpenInterpreter/open-interpreter) - Run Code Locally
+* [v0](https://v0.dev/) - Text to Site Code
+* [AI Code Translator](https://ai-code-translator.vercel.app/), [AI Code Convert](https://aicodeconvert.com/) or [Source Code Converters](https://www.tangiblesoftwaresolutions.com/) - AI Code Converters
+* [RTutor](https://rtutor.ai/) - Translate Natural Language to R code
+* [Gorilla](https://gorilla.cs.berkeley.edu/) - API to Code LLM
+* [CS50.ai](https://cs50.ai/) - AI Rubberducking
+
+
+## ▷ ChatGPT Prompts
+
+* 🌐 **[Jailbreak Listings](https://rentry.org/jb-listing)** - Prompt / Jailbreak Lists
+* ⭐ **[Awesome ChatGPT Prompts](https://prompts.chat/)** - Prompt Directory / [Github](https://github.com/f/awesome-chatgpt-prompts)
+* ⭐ **[BlackFriday GPTs Prompts](https://github.com/friuns2/BlackFriday-GPTs-Prompts)** - Prompt Directory
+* ⭐ **[Leaked Prompts](https://github.com/linexjlin/GPTs)** - Prompt Directory
+* ⭐ **[Prompt Engineering Guide](https://www.promptingguide.ai)**, [LearnPrompting](https://learnprompting.org/docs/intro), [OpenAI Guide](https://platform.openai.com/docs/guides/prompt-engineering), [Claude Guide](https://docs.anthropic.com/claude/docs/prompt-engineering) or [LearningPrompt](https://learningprompt.wiki/) - Prompting Guides
+* [500 Best Prompts](https://puzzle-jute-202.notion.site/500-Best-ChatGPT-Prompts-f5b4ad65deec4b6385316fdb8740af74) - Prompt Directory
+* [L1B3RT45](https://github.com/elder-plinius/L1B3RT45) - Jailbreak Prompts / [Discord](https://discord.gg/basi) / [Twitter](https://x.com/elder_plinius)
+* [promptfoo](https://github.com/typpo/promptfoo) or [PromptKnit](https://promptknit.com/) - Prompt Playgrounds
+* [Marketing 2099](https://sintralabs.notion.site/Marketing-2099-Ultimate-ChatGPT-Marketing-Prompts-To-Copy-Paste-200-tasks-fc22c9142d6a4a4286a3fe755be932e6) - ChatGPT Marketing Prompts
+* [Tensor Trust](https://tensortrust.ai/) or [Gandalf](https://gandalf.lakera.ai/) - Prompting Skill Games
+* [chat-gpt-games](https://github.com/AdmTal/chat-gpt-games) - Prompt Games
+* [Gobble Bot](https://gobble.bot/) - Generate Text Files for Chatbots
+
+***
+***
+
+# ► AI Indexes
+
+* 🌐 **[LMSYS Arena](https://chat.lmsys.org/?leaderboard)** - Chatbot Leaderboards / Benchmarks
+* 🌐 **[LLM Leaderboard](https://huggingface.co/spaces/open-llm-leaderboard/open_llm_leaderboard)** - Chatbot Leaderboards / Benchmarks
+* 🌐 **[Transformer Models Timeline](https://ai.v-gar.de/ml/transformer/timeline/)** - LLM Timeline
+* 🌐 **[Toolify](https://www.toolify.ai/)** - AI Directory
+* 🌐 **[Phygital Library](https://library.phygital.plus/)** - AI Directory / Workflow Builder
+* 🌐 **[LifeArchitect](https://lifearchitect.ai/models-table/)** - LLM Index
+* [Glif](https://glif.app/) or [perchance](https://perchance.org/generators) - Simple AI Builders
+* [WildBench](https://huggingface.co/spaces/allenai/WildBench) - Chatbot Benchmarks
+* [ArtificialAnalysis](https://artificialanalysis.ai/) - Chatbot Benchmarks
+* [The Fastest AI](https://thefastest.ai/) - Chatbot Benchmarks
+* [YP for AI](https://www.ypforai.com) - AI Directory
+* [AI Search](https://ai-search.io), [What AI Can Do Today](https://whataicandotoday.com/) or [FindAISites](https://findaisites.pro/) - AI Index Search
+* [Awesome AI Tools](https://github.com/mahseema/awesome-ai-tools) - AI Directory
+* [ToolDirectory](https://www.tooldirectory.ai/) - AI Directory
+* [BasedTools](https://www.basedtools.ai/) - AI Directory / [Discord](https://discord.gg/D8wYxUvwTD)
+* [It's Better With AI](https://itsbetterwithai.com/) - AI Directory
+* [Futurepedia](https://www.futurepedia.io/) - AI Directory
+* [funfun.tools](https://www.funfun.tools/) - AI Directory
+* [PowerUsers](https://powerusers.ai/) - AI Directory
+* [TheresAnAIForThat](https://theresanaiforthat.com/) - AI Directory
+* [AI Tools](https://aitools.fyi/) - AI Directory
+* [FutureTools](https://www.futuretools.io/?pricing-model=free) - AI Directory
+* [Sieve](https://www.sievedata.com/explore) or [ArtificialStudio](https://www.artificialstudio.ai/tools) - Multi-Tool Browser AIs
+* [Google Labs](https://labs.google/) or [AI Test Kitchen](https://aitestkitchen.withgoogle.com/) - Google AI Experiments
+
+***
+***
+
+# ► Text Generators
+
+* ⭐ **[TextFX](https://textfx.withgoogle.com/)** or [rytr](https://rytr.me/) - AI Creative Writing Tools
+* [Scrip AI](https://scripai.com/), [InkForAll](https://app.inkforall.com/tools), [QuickPenAI](https://quickpenai.com/) - Online AI Text Tools
+* [NovelAI](https://novelai.net/) - Story Writing AI / [Limit Bypass](https://pastebin.com/JDyvqZcz), [2](https://greasyfork.org/en/scripts/448926)
+* [Dreamily](https://dreamily.ai/) or [NightSaga](https://nightsaga.ai/) - Story Writing AIs
+* [EssayBot](https://www.essaybot.com/) / [2](https://www.essayaibot.com/), [Textero](https://www.textero.ai/), [EssayBuilder](https://essay-builder.ai/) or [EssayService](https://www.essayservice.ai/) - Essay Writing AI
+* [TextSynth](https://textsynth.com/playground.html) - Text Autocomplete AI
+* [Product Description Generator](https://www.aidirectori.es/tools/product-description-generator)
 
 ***
 
-## ▷ [iOS Adblocking](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_ios_adblocking)
+## ▷ [Text Rephrasing](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools#wiki_.25B7_text_rephrasing)
 
 ***
 
-# ► Antivirus / Malware
-
-* 🌐 **[/r/Antivirus Index](https://www.reddit.com/r/antivirus/wiki/index/)** - Antivirus Tools Index
-* 🌐 **[Awesome Malware Analysis](https://github.com/rshipp/awesome-malware-analysis)** - Malware Analysis Resources
-* ↪️ **[Site Legitimacy Check](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_site_legitimacy_check)**
-* ⭐ **[How to Avoid Malware](https://www.reddit.com/r/Piracy/wiki/browsing_and_downloading_guide)** - Malware Avoidance Guide
-* ⭐ **[Sandboxie Plus](https://sandboxie-plus.com/)** / [Guide](https://rentry.co/sandboxie-guide), [Windows Sandbox](https://learn.microsoft.com/en-us/windows/security/application-security/application-isolation/windows-sandbox/windows-sandbox-overview) or [Virtual Machines](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/system-tools#wiki_.25B7_virtual_machines) - Sandbox Environments
-* ⭐ **[AdwCleaner](https://www.malwarebytes.com/adwcleaner/)** - Anti-Adware
-* ⭐ **[Malwarebytes Premium](https://rentry.co/fmhybase64#malwarebytes-prem)** - Antivirus
-* ⭐ **[Security / Antivirus Multireddit](https://www.reddit.com/user/goretsky/m/security/)** - Reddit Communities
-* [BleepingComputer Forums](https://www.bleepingcomputer.com/forums/f/22/virus-trojan-spyware-and-malware-removal-help/), [Malwarebytes Forums](https://forums.malwarebytes.com/forum/7-windows-malware-removal-help-support/) or [Sysnative Forums](https://www.sysnative.com/forums/forums/security-arena.66/) - Malware Removal Forums / [Note](https://pastebin.com/0mrmPXgz)
-* [ESET](https://rentry.co/FMHYBase64#eset) - Antivirus
-* [Dangerzone](https://dangerzone.rocks/) / [GitHub](https://github.com/freedomofpress/dangerzone) - Convert dangerous PDFs to safe PDFs
-* [ANY.RUN](https://any.run/), [Triage](https://tria.ge/) or [Cuckoo](https://cuckoo.cert.ee/) - Online Sandboxes
-* [PE-sieve](https://github.com/hasherezade/pe-sieve) - Process Scanner
-* [No More Ransom](https://www.nomoreransom.org/en/decryption-tools.html) - Ransomware Decryption Tools
-* [ID Ransomware](https://id-ransomware.malwarehunterteam.com/) - Ransomware Identification Tool
-* [ConfigureDefender](https://github.com/AndyFul/ConfigureDefender) - Configure Windows Defender Settings
-* [DefenderUI](https://www.defenderui.com/) - Improved Windows Defender UI
+## ▷ [Grammar Check](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools#wiki_.25B7_grammar_check)
 
 ***
 
-## ▷ File Scanners
+# ► Video Generation
 
-* 🌐 **[The Second Opinion](https://rentry.co/thesecondopinion)** - Portable Malware Scanners / Removal Tools
-* ⭐ **[VirusTotal](https://www.virustotal.com/)** / [Scan Results Guide](https://rentry.co/piracy-faq-virustotal), [2](https://rentry.co/VTGuide) or **[Hybrid Analysis](https://hybrid-analysis.com/)** - Online File Analyzer
-* ⭐ **VirusTotal Tools** - [CLI](https://github.com/VirusTotal/vt-cli) / [Telegram Bot](https://t.me/virus_total_scan_bot) / [Uploader](https://github.com/SamuelTulach/VirusTotalUploader) / [Lite Version](https://www.virustotal.com/old-browsers/)
-* [Microsoft Safety Scanner](https://learn.microsoft.com/en-us/defender-endpoint/safety-scanner-download) or [Emsisoft Emergency Kit](https://www.emsisoft.com/en/home/emergencykit/) - On-demand AV Scanners
-* [Manalyzer](https://manalyzer.org/) - PE File Scanner
-* [YARA](https://virustotal.github.io/yara/) - Malware Identification Tool
-* [Winitor](https://www.winitor.com/) - EXE Malware Assessment
-* [pyWhat](https://github.com/bee-san/pyWhat) - Identify Anything
-* [Grype](https://github.com/anchore/grype) - Container Images Vulnerability Scanner
-* [Malware Initial Assessment](https://www.winitor.com/) - Local Analysis Tool
-* [Jotti](https://virusscan.jotti.org/en) - Online File Scanner
-* [Farbar](https://www.bleepingcomputer.com/download/farbar-recovery-scan-tool/) / [Guide](https://www.bleepingcomputer.com/forums/t/781976/) - Local File Scanner
-
-***
-
-# ► Privacy
-
-* 🌐 **[Awesome Vehicle Security](https://github.com/jaredthecoder/awesome-vehicle-security)** - Vehicle Security Resources
-* ↪️ **[SMS Verification Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_sms_verification_sites)**
-* ↪️ **[File Encryption](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/file-tools#wiki_.25B7_file_encryption)**
-* ↪️ **[Drive Formatting / File Deletion](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/file-tools#wiki_.25B7_formatting_.2F_deletion)**
-* ⭐ **[Privacy.Sexy](https://privacy.sexy/)** - Privacy Scripts
-* ⭐ **[Tails](https://tails.net/)**, [whonix](https://www.whonix.org/) or [Qubes](https://www.qubes-os.org/) - Privacy-Based Operating Systems
-* [ShutUp10](https://www.oo-software.com/en/shutup10), [W10Privacy](https://www.w10privacy.de/english-home/) or [private-secure-windows](https://github.com/troennes/private-secure-windows) - Antispy Tools
-* [Telemetry.md](https://gist.github.com/ave9858/a2153957afb053f7d0e7ffdd6c3dcb89), [2](https://rentry.co/telemetry) - Disable Windows 10/11 Telemetry
-* [Frigate](https://frigate.video/), [Smart Sec Cam](https://github.com/scottbarnesg/smart-sec-cam) or [ZoneMinder](https://zoneminder.com/) - Security Camera Systems
-* [Team Elite](https://www.te-home.net/) or [Technet24](https://technet24.ir/) - Security Software / [Translator](https://github.com/FilipePS/Traduzir-paginas-web)
-* [Big Ass Data Broker Opt-Out List](https://github.com/yaelwrites/Big-Ass-Data-Broker-Opt-Out-List) - List of Data Broker Opt-Out Resources
-* [Gauth](https://github.com/pcarrier/gauth) - Google Authenticator for Laptops
-* [F-Secure Identity Theft Checker](https://www.f-secure.com/en/identity-theft-checker) - Identity Theft Check
-* [FakePhoneNumber](https://fakephonenumber.net/) - Generate Fake Phone Numbers
-* [PDFEncrypt](https://pdfencrypt.net/) - PDF File Encryption
-* [PrivNote](https://privnote.com/), [SafeNote](https://safenote.co/), [Burn.Link](https://burn.link/), [ThisLinkWillSelfDestruct](https://thislinkwillselfdestruct.com/), [s.cr](https://s.cr/) or [OneTimeSecret](https://onetimesecret.com/) - Send Self-Destructing Messages
-* [chausies encrypt](https://chausies.xyz/encrypt), [Steg Cloak](https://stegcloak.surge.sh/) or [spam mimic](https://www.spammimic.com/index.cgi) - Send Encrypted Text
-* [Paper Age](https://github.com/matiaskorhonen/paper-age) - Create Paper Backups of Secrets
-* [USBKill](https://github.com/hephaest0s/usbkill) - Anti-Forensic USB Killswitch
-* [HiddenVM](https://github.com/aforensics/HiddenVM) - Run an Oracle VM on TailsOS
-* [FreeCarrierLookup](https://www.freecarrierlookup.com/) - Get Telephone Carrier Data
-* [/r/Privacy](https://reddit.com/r/privacy), [/r/TheHatedOne](https://www.reddit.com/r/thehatedone) or [/r/privatelife/](https://www.reddit.com/r/privatelife/) - Privacy Discussion, News & Tools
-* [Facebook Doc Stories](https://docs.google.com/document/d/1QYqmJsifBjf_xA23Ea7AdeMFyjGWaF_dvhi5EZdNUf4/edit) - Facebook Malpractices Index
-* [Privacy.com](https://privacy.com/) - Make Secure Payments / US only
-* [image-scrubber](https://everestpipkin.github.io/image-scrubber) / [GitHub](https://github.com/everestpipkin/image-scrubber) - Anonymize Protest Photos
-* [Mobile Verification Toolkit](https://www.privacyguides.org/en/device-integrity/) - Test for Potential Compromises on Android / iOS
-* [GoFOSS](https://gofoss.net/) - Why You Should Use FOSS Alternatives
-* [If An Agent Knocks](https://docs.google.com/document/d/176Yds1p63Q3iaKilw0luChMzlJhODdiPvF2I4g9eIXo/) - Best Practices if Contacted by Agents
+* ⭐ **[PixVerse](https://pixverse.ai/)** - Video Generator / [Discord](https://discord.com/invite/MXHErdJHMg)
+* [Synthesis Colab](https://github.com/camenduru/text-to-video-synthesis-colab) - Video Generator
+* [StableVideo](https://www.stablevideo.com/) - Video Generator
+* [Haiper](https://haiper.ai/) - Video Generator
+* [Stable Diffusion Videos](https://github.com/nateraw/stable-diffusion-videos) - Video Generator
+* [Dream Machine](https://lumalabs.ai/dream-machine) - Video Generator
+* [text-to-video](https://text-to-video.vercel.app) - Video Generator
+* [Text2Video-Zero](https://github.com/Picsart-AI-Research/Text2Video-Zero) - Video Generator
+* [LensGo](https://lensgo.ai/) - Video Generator
+* [Pika Labs](https://www.pika.art/) - Video Generator
+* [Damo](https://huggingface.co/spaces/damo-vilab/modelscope-text-to-video-synthesis) - Video Generator
+* [Rollideo](https://rollideo.com/) - Text to Subbed Video
 
 ***
 
-## ▷ Privacy Indexes
+# ► Image Generation
 
-* ⭐ **[Privacy Guides](https://www.privacyguides.org/)** - Educational Guide
-* ⭐ **[Digital Defense](https://digital-defense.io/)** - Personal Checklist for Privacy & Security
-* ⭐ **[Surveillance Self-Defense](https://ssd.eff.org/)** - Educational Guide
-* ⭐ **[The New Oil](https://thenewoil.org/)** - Educational Guide
-* [Lissy93's Awesome Privacy](https://awesome-privacy.xyz/) / [GitHub](https://github.com/lissy93/awesome-privacy) or [pluja's Awesome Privacy](https://pluja.github.io/awesome-privacy/) / [GitHub](https://github.com/pluja/awesome-privacy) - List of Privacy Software & Services
-* [Defensive Computing Checklist](https://defensivecomputingchecklist.com/) - Educational Guide
-* [Ken Harris](https://cyber.kenharris.io/) - Educational Guide
-* [AvoidTheHack](https://avoidthehack.com/) - Educational Blog
-* [Hostux](https://hostux.network/) - Privacy Tools
-* [The Hitchhiker’s Guide](https://anonymousplanet.org/) - Extensive Guide to Online Anonymity
-* [Privacy Settings](https://github.com/StellarSand/privacy-settings) - Privacy Setting Guides
-* [EncryptedList](https://encryptedlist.xyz/) - List of Encrypted Services/Apps
-* [ProductivePrivacy](https://productiveprivacy.com/) - Privacy-Focused Productivity Apps
+* **Note** - Because Stable Diffusion works so well, most innovation in image generation is happening using it as the base model. As such, almost all sections and links are based on SD, unless stated otherwise.
 
 ***
 
-## ▷ Network Security
-
-* ⭐ **[simplewall](https://github.com/henrypp/simplewall)** - Firewall / Network Monitor
-* ⭐ **[Fort](https://github.com/tnodir/fort)** - Firewall
-* ⭐ **[Safing Portmaster](https://safing.io/)** - Network Monitor / DNS Resolver / Firewall
-* [V2Ray](https://v2ray.com/en/), [V2Fly](https://www.v2fly.org/), [V2RayN](https://github.com/freefq/free) or [v2ray-core](https://github.com/v2fly/v2ray-core) - DIY Privacy Network
-* V2Ray Tools - [GUI](https://github.com/2dust/v2rayN), [2](https://github.com/Qv2ray/Qv2ray) / [GeoIP](https://github.com/Loyalsoldier/geoip) / [Free Server](https://fanqiang.network/) / [Cloudflare Scan](https://cloudflare-v2ray.vercel.app/) / [Tutorial](https://github.com/freefq/tutorials)
-* [WFC](https://www.binisoft.org/wfc.php) - Firewall
-* [Tinywall](https://tinywall.pados.hu/) - Lightweight Firewall
-
-***
-
-## ▷ [Linux Privacy](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/linux#wiki_.25BA_linux_adblock_.2F_privacy)
-
-***
-
-## ▷ [Mac Privacy](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/linux#wiki_.25BA_mac_adblock_.2F_privacy)
-
-***
-
-## ▷ [Android Privacy](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_android_privacy)
-
-***
-
-## ▷ [iOS Privacy](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_ios_privacy)
-
-***
-
-# ► Web Privacy
-
-* 🌐 **[Google Alt List](https://www.techspot.com/article/2752-all-google-alternatives/)**, [/r/DeGoogle](https://www.reddit.com/r/degoogle), [Degoogle](https://tycrek.github.io/degoogle/) or [No More Google](https://nomoregoogle.com/) - Google App Alternatives
-* ↪️ **[Chat Service Comparisons](https://docs.google.com/spreadsheets/u/0/d/1-UlA4-tslROBDS9IqHalWVztqZo7uxlCeKPQ-8uoFOU)**
-* ↪️ **[Encrypted Messaging Apps](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_encrypted_messengers)** / [2](https://docs.google.com/spreadsheets/d/1-UlA4-tslROBDS9IqHalWVztqZo7uxlCeKPQ-8uoFOU) / [3](https://www.securemessagingapps.com/)
-* ↪️ **[Encrypted XMPP Servers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_encrypted_xmpp_servers)**
-* ↪️ **[Encode / Decode URLs](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools#wiki_.25B7_encode_.2F_decode)**
-* ⭐ **[PrivacySpy](https://privacyspy.org/)** or [Terms of Service; Didn't Read](https://tosdr.org/) - Sites Privacy Policies
-* ⭐ **[JustGetMyData](https://justgetmydata.com/)** - Links to Obtain Your Data from Websites
-* ⭐ **[Cryptomator](https://cryptomator.org/)**, [Boxcryptor](https://www.boxcryptor.com/en/) or [Tahoe-LAFS](https://tahoe-lafs.org/trac/tahoe-lafs) - Cloud File Encryption
-* [FirefoxMonitor](https://monitor.firefox.com/) - Data Breach Check
-* [BreachDirectory](https://breachdirectory.org), [Snusbase](https://snusbase.com/), [Leak Lookup](https://leak-lookup.com/), [Trufflehog](https://trufflesecurity.com/) or [leakpeek](https://leakpeek.com/) - Data Breach Search Engines
-* [JustDeleteMe](https://justdeleteme.xyz/) - Find / Terminate Old Accounts
-* [OpenPhish](https://openphish.com/), [Netcraft Report](https://report.netcraft.com/report), [isitPhishing](https://isitphishing.org/), [PhishStats](https://phishstats.info/) or [PhishTank](https://phishtank.org/) - Report Phishing Sites
-* [DNS Jumper](https://www.majorgeeks.com/files/details/dns_jumper.html) - DNS Switcher
-* [Element](https://element.io/), [linphone](https://www.linphone.org/), [Jami](https://jami.net/), [Tox](https://tox.chat/) or [Bitmask](https://bitmask.net/) - Encrypted Messaging / Video Calls
-* [SimpleDiscordCrypt](https://gitlab.com/An0/SimpleDiscordCrypt) - Discord Message Encryption
-* [ssh-chat](https://github.com/shazow/ssh-chat) or [Devzat](https://github.com/quackduck/devzat) - SSH Chat / [Info](https://shazow.net/posts/ssh-how-does-it-even/)
-* [GPGTools](https://gpgtools.org/) - Encrypt & Sign Data / Communications
-* [PeerTube](https://joinpeertube.org/) - Decentralized Video Hosting / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/social-media#wiki_.25B7_peertube_tools)
-* [Undiscord](https://victornpb.github.io/undiscord)- Delete Discord Messages / [Warning](https://i.ibb.co/pdg4hRr/0b0d78219f05.png)
-* [delete-likes-from-twitter](https://gist.github.com/aymericbeaumet/d1d6799a1b765c3c8bc0b675b1a1547d) - Delete Twitter Likes / Favorites
-* [PowerDeleteSuite](https://github.com/j0be/PowerDeleteSuite) - Reddit Auto Post Delete
-* [telegram-delete-all-messages](https://github.com/gurland/telegram-delete-all-messages) - Delete Telegram Message
-* [Freenet Project](https://freenetproject.org/) - Browse / Publish Freenet Sites
-* [Mat2](https://0xacab.org/jvoisin/mat2) / [Desktop](https://metadatacleaner.romainvigier.fr/), [2](https://0xacab.org/jvoisin/mat2-web), [metadata-cleaner](https://gitlab.com/rmnvgr/metadata-cleaner) - Remove Metadata from Files
+* ⭐ **[Microsoft Designer](https://designer.microsoft.com/image-creator)**, [2](https://www.bing.com/images/create) / Unlimited / [Tips](https://rentry.co/bingimagecreatortips) / [Bulk Download](https://github.com/Richard-Weiss/Bing-Creator-Image-Downloader)
+* ⭐ **[Mage](https://www.mage.space/)** / [Discord](https://discord.com/invite/GT9bPgxyFP) / Unlimited
+* ⭐ **[Poe](https://poe.com/)** / 100 Daily / [Discord](https://discord.com/invite/joinpoe)
+* ⭐ **[Dezgo](https://dezgo.com/)** / [Discord](https://discord.com/invite/RQrGpUhPhx) / Unlimited
+* ⭐ **[Meta AI](https://imagine.meta.com/)** / Unlimited
+* ⭐ **[Playground](https://playground.com/)** / 100 Daily
+* ⭐ **[Ideogram](https://ideogram.ai/)** / 100 Daily
+* ⭐ **[Tensor.art](https://tensor.art/)** / 100 Daily
+* ⭐ **[Shakker](https://www.shakker.ai/)** / 50 Daily / [Discord](https://discord.gg/djyP5u3vHY) / [Guide](https://docs.google.com/document/d/1PZ6to6Nn995J0o0BbEPhucqge9uyc1acQoNuvWkK6M8/edit#heading=h.kkzhkyyy4ze4)
+* ⭐ **[Lexica](https://lexica.art/)** / 48 Weekly
+* ⭐ **[Leonardo.ai](https://app.leonardo.ai/)** / 30 Daily
+* [Stable Diffusion](https://huggingface.co/spaces/stabilityai/stable-diffusion) / Unlimited / [GitHub](https://github.com/Stability-AI/stablediffusion) / [Discord](https://discord.com/invite/stablediffusion)
+* [Prodia](https://app.prodia.com/) / [Discord](https://discord.com/invite/495hz6vrFN) / [Huggingchat Demo](https://huggingface.co/spaces/prodia/fast-stable-diffusion) / Unlimited
+* [Unstability.ai](https://www.unstability.ai/) / 52 Daily
+* [NVIDIA NIM](https://build.nvidia.com/) / 50 Daily
+* [SeaArt](https://www.seaart.ai/) / 40 Daily
+* [OpenArt](https://openart.ai/) / [Discord](https://discord.com/invite/yTMNvk5z97) / 50 Daily
+* [StableDiffusionWeb](https://stablediffusionweb.com/) / 10 Daily
+* [AIGallery](https://aigallery.app/) / Unlimited
+* [ComfyUI Web](https://comfyuiweb.com/) / Unlimited
+* [Recraft](https://www.recraft.ai/) / Unlimited
+* [PicSynth](https://www.picsynth.me/generation) / Unlimited
+* [ImageLabs](https://editor.imagelabs.net/) / Unlimited
+* [Pollinations](https://pollinations.ai/) / Unlimited / [Discord](https://discord.com/invite/8HqSRhJVxn)
+* [PicFinder](https://picfinder.ai/) / Unlimited
+* [Perchance](https://perchance.org/ai-text-to-image-generator) / Unlimited
+* [PixArt-alpha](https://huggingface.co/spaces/PixArt-alpha/PixArt-alpha) / Unlimited
+* [GetIMG.ai](https://getimg.ai/) / [Discord](https://discord.com/invite/5KsUXSzVwS) / 100 Monthly
+* [Adobe Firefly](https://firefly.adobe.com/) / 25 Monthly / [Discord](https://discord.com/invite/dJnsV5s8PZ) / Sign-Up Required
+* [AITurbo](https://app.aitubo.ai/) / 25 Daily / [Discord](https://discord.gg/qTu6YsRn7F)
+* [Venice](https://venice.ai/chat/Wyg_3w4M5KDFAcAHnqf-s) / 25 Daily
+* [Artsio](https://artsio.xyz/) / 20 Daily
+* [Yodayo](https://yodayo.com/) / 15 Daily
+* [Maze.guru](https://maze.guru/gallery) / 12 Daily
+* [DreamLike](https://dreamlike.art) / 12 Daily
+* [Craiyon](https://www.craiyon.com/) / 10 Daily / [Github](https://github.com/borisdayma/dalle-mini) / [Colab](https://colab.research.google.com/github/borisdayma/dalle-mini/blob/main/tools/inference/inference_pipeline.ipynb)
+* [POKEIT](https://pokeit.ai/) / 10 Daily
+* [PixAI](https://pixai.art/) / 10 Daily
+* [Krea](https://search.krea.ai/) / [Discord](https://discord.gg/rJurUAR8Kz)
+* [ArtHub.ai](https://arthub.ai/)
+* [HotPot](https://hotpot.ai/)
+* [clipdrop](https://clipdrop.co/tools)
+* [imgsys](https://imgsys.org/) - Compare AI Image Generators
+* [MemeCam](https://www.memecam.io/) - AI Meme Generator
+* [Genie](https://lumalabs.ai/genie), [Shap-e](https://github.com/openai/shap-e), [Stable Dreamfusion](https://github.com/ashawkey/stable-dreamfusion) or [ThreeStudio](https://github.com/threestudio-project/threestudio) - 3D Image Generators
+* [Insta-3D](https://huggingface.co/spaces/ilumine-AI/Insta-3D) - Turn 2D images into 3D spaces
+* [Interactive Scenes](https://lumalabs.ai/interactive-scenes) - Generate Interactive Scenes
+* [IllusionDiffusion](https://huggingface.co/spaces/AP123/IllusionDiffusion) - Illusion Artwork Generator
 
 ***
 
-## ▷ Browser Privacy
+## ▷ Local Frontends
 
-* 🌐 **[Awesome I2P](https://github.com/mikalv/awesome-i2p)** - I2P Resources
-* ↪️ **[Browser Comparisons](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools#wiki_.25BA_browser_tools)**
-* ⭐ **[Tor Browser](https://www.torproject.org/)** - Onion-Routed Browser / [Gitlab](https://gitlab.torproject.org/tpo/applications/tor-browser)
-* ⭐ **[Mullvad Browser](https://mullvad.net/en/browser)** - Tor Browser Fork (without Tor network)
-* ⭐ **[arkenfox](https://github.com/arkenfox/user.js)** - Firefox Privacy Tweak / [Video](https://youtu.be/F7-bW2y6lcI)
-* [Librewolf](https://librewolf.net/) - Pre-tweaked Firefox Fork / [Use Auto-Updater](https://github.com/ltguillaume/librewolf-winupdater)
-* [Brave](https://brave.com/) - Privacy-Focused Browser
-* [CookieStatus](https://www.cookiestatus.com/) - Browser Tracking Protection Comparisons
-* [Encrypted SNI](https://www.cloudflare.com/ssl/encrypted-sni/) - Cloudflare Browser Check
-* [I2P](https://geti2p.net/en/) - Encrypted Private Network Layer / [Guide](https://rentry.co/CBGI2P)
-* [Whack](https://lcamtuf.coredump.cx/whack/) or [Earthling](https://earthlng.github.io/testpages/visited_links.html) - Browser History Leak Example Games
-* [SSL Labs](https://clienttest.ssllabs.com:8443/ssltest/viewMyClient.html) - SSL/TLS Browser Capabilities Test
-
-***
-
-## ▷ Password Privacy / 2FA
-
-* 🌐 **[2FA Directory](https://2fa.directory/)** - List of Sites with 2FA Support
-* ⭐ **[Ente Auth](https://github.com/ente-io/ente#ente-auth)** - Windows / Mac / Android / iOS 2FA / [Audit](https://ente.io/blog/cryptography-audit/)
-* ⭐ **[Aegis](https://getaegis.app/)** - Android 2FA
-* ⭐ **[AuthenticatorPro](https://authenticatorpro.jmh.me)** - Android 2FA
-* ⭐ **[HaveIBeenPwned PW](https://haveibeenpwned.com/Passwords)** - Password Breach Check
-* ⭐ **[Password Strength Chart](https://i.ibb.co/vZdqMvm/6728c7ef02e9.png)**
-* [2FAS](https://2fas.com/) - Android / iOS 2FA / [Discord](https://discord.gg/q4cP6qh2g5)
-* [Mauth](https://github.com/X1nto/Mauth) - Android 2FA
-* [FreeOTPPlus](https://github.com/helloworld1/FreeOTPPlus) - Android 2FA
-* [KeePassXC](https://keepassxc.org/) - Windows / Mac / Linux 2FA / [Guide](https://youtu.be/ckWPHaQwft8)
-* [AuthMe](https://authme.levminer.com/) - Windows / Mac / Linux 2FA / [GitHub](https://github.com/Levminer/authme)
-* [Tauthy](https://github.com/pwltr/tauthy) - Windows / Mac / Linux 2FA
-* [Yubioath](https://developers.yubico.com/yubioath-flutter/) - Windows / Android 2FA / YubiKeys
-* [Protecc](https://apps.microsoft.com/store/detail/protecc-2fa-client/9PJX91M06TZS) / [GitHub](https://github.com/FireCubeStudios/Protecc) - Windows 2FA
-* [OTPClient](https://github.com/paolostivanin/OTPClient) - Linux 2FA
-* [2FAuth](https://docs.2fauth.app/) - Web App 2FA / Self-hosted
-* [Sentinel](https://getsentinel.io/) - iOS / Mac 2FA
-* [OTP Auth](https://apps.apple.com/ca/app/otp-auth/id659877384) - iOS 2FA
-* [Tofu](https://www.tofuauth.com/) - iOS 2FA
-* [Authenticator](https://authenticator.cc/) - Generate Two-Factor QR Codes / [GitHub](https://gitlab.gnome.org/World/Authenticator)
-* [Android OTP Extractor](https://github.com/puddly/android-otp-extractor) or [OTP Helper](https://github.com/jd1378/otphelper) - Extract OTP Tokens
-* [SteamGuard](https://github.com/dyc3/steamguard-cli) - Generate Steam 2FA Codes
-* [PasswordsGenerator](https://passwordsgenerator.net/) - Secure Password Generator
-* [Intelligence X](https://intelx.io/) - Password Breach Check
-* [psbdmp](https://psbdmp.ws/) - Password Breach Check
-* [Dehashed](https://dehashed.com/) - Password Breach Check
-* [Spycloud](https://spycloud.com/) - Password Breach Check
-* [ScatteredSecrets](https://scatteredsecrets.com/) - Password Breach Check
+* ⭐ **[Stability Matrix](https://lykos.ai/)** / [GitHub](https://github.com/LykosAI/StabilityMatrix)
+* ⭐ **[Automatic1111](https://github.com/AUTOMATIC1111/stable-diffusion-webui)** / [Fork](https://github.com/anapnoe/stable-diffusion-webui-ux), [2](https://github.com/vladmandic/automatic) / [Collab](https://colab.research.google.com/drive/1kw3egmSn-KgWsikYvOMjJkVDsPLjEMzl) / [Photoshop](https://github.com/AbdullahAlfaraj/Auto-Photoshop-StableDiffusion-Plugin) / [Templates](https://github.com/ThereforeGames/unprompted) / [Upscaling](https://github.com/Coyote-A/ultimate-upscale-for-automatic1111), [2](https://github.com/pkuliyi2015/multidiffusion-upscaler-for-automatic1111)
+* ⭐ **[InvokeAI](https://invoke-ai.github.io/InvokeAI/) / [GitHub](https://github.com/invoke-ai/InvokeAI)** / [Discord](https://discord.com/invite/ZmtBAhwWhy)
+* ⭐ **[ComfyUI](https://github.com/comfyanonymous/ComfyUI)**
+* ⭐ **[Fooocus](https://github.com/lllyasviel/Fooocus)**, [2](https://github.com/MoonRide303/Fooocus-MRE) / [Colab](https://colab.research.google.com/github/lllyasviel/Fooocus/blob/main/fooocus_colab.ipynb) / [Search](https://genly.ai/)
+* ⭐ **[MochiDiffusion](https://github.com/godly-devotion/MochiDiffusion)** - Stable Diffusion for Mac / [Discord](https://discord.com/invite/x2kartzxGv)
+* ⭐ **[DiffusionBee](https://diffusionbee.com/)** - Stable Diffusion for Mac / [GitHub](https://github.com/divamgupta/diffusionbee-stable-diffusion-ui) / [Discord](https://discord.com/invite/t6rC5RaJQn)
+* [StableStudio](https://github.com/Stability-AI/StableStudio)
+* [Easy Diffusion](https://stable-diffusion-ui.github.io/)
+* [Makeayo](https://makeayo.com) / [Discord](https://discord.gg/FbdSxdeV8m)
+* [Sygil WebUI](https://github.com/Sygil-Dev/sygil-webui) / [Discord](https://discord.com/invite/ttM8Tm6wge)
+* [Radiata](https://ddpn08.github.io/Radiata/en/)
+* [SD WebUI Forge](https://github.com/lllyasviel/stable-diffusion-webui-forge)
+* [NMKD Stable Diffusion GUI](https://github.com/n00mkrad/text2image-gui)
+* [aiimag.es](https://sunija.itch.io/aiimages) / [Discord](https://discord.com/invite/Fge4dVHFM2)
 
 ***
 
-## ▷ Email Privacy
+## ▷ Guides / Tools
 
-* ↪️ **[Temp Mail Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools#wiki_.25B7_temp_mail)** - Create Temporary / Throwaway Emails
-* ↪️ **[Email Aliasing](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools#wiki_.25B7_email_aliasing)** - Create Permanent Anonymous Emails
-* ⭐ **[Have I Been Pwned?](https://haveibeenpwned.com/)** - Monitor Email Breaches
-* ⭐ **[Proton Mail](https://proton.me/mail)** - Encrypted Email
-* [Tuta](https://tuta.com/) - Encrypted Email
-* [Disroot](https://disroot.org/en/services/email) - Encrypted Email
-* [lil mail server](https://uq.ci/) - Simple Privacy-Focused Email
-* [EmailPrivacyTester](https://www.emailprivacytester.com/) - Email Privacy Test
-* [SecLists](https://seclists.org/) - Security Mailing List Archive
-* [Phish.ly](https://phish.ly/) - Scan Suspicious Emails
-* [Have I Been Sold?](https://haveibeensold.app/) - Monitor Third Party Email Sales
-
-***
-
-## ▷ Fingerprinting / Tracking
-
-* ⭐ **[ClearURLs](https://docs.clearurls.xyz)** - Remove Tracking Elements from URLs / [Features](https://gitlab.com/ClearURLs/ClearUrls#features), [2](https://i.ibb.co/4JsQwP5/sqzfmLD.png) / Can Break Sites
-* ⭐ **[CanvasBlocker](https://github.com/kkapsner/CanvasBlocker)** - Prevent Canvas Fingerprinting
-* ⭐ **[Creepjs](https://abrahamjuliot.github.io/creepjs)**, [WEBKAY](https://webkay.robinlinus.com/), [BrowserRecon](https://www.computec.ch/projekte/browserrecon/?s=scan), [Device Info](https://www.deviceinfo.me/), [CoverYourTracks](https://firstpartysimulator.org/) / [2](https://coveryourtracks.eff.org/) or [PersonalData](https://personaldata.info/) - Tracking / Fingerprinting Tests
-* [dataskydd](https://webbkoll.dataskydd.net/) or [Blacklight](https://themarkup.org/blacklight) - Site Tracking Info
-* [Data Removal Guide](https://inteltechniques.com/workbook.html) - Remove Online Data
-* [GameIndustry](https://gameindustry.eu/en/) - Block Trackers in Desktop / Mobile Games
-* [BrowserLeaks](https://browserleaks.com/), [Do I leak?](https://www.top10vpn.com/tools/do-i-leak/) or [IPLeak.net](https://ipleak.net) - IP Leak Tests
-* [JShelter](https://jshelter.org/) - Prevent Fingerprinting / [Warning](https://github.com/arkenfox/user.js/issues/1729#issuecomment-1739135479)
-* [Extension Detector](https://z0ccc.github.io/extension-detector) / [GitHub](https://github.com/z0ccc/extension-detector) - Extension Fingerprinting Tests
-* [NoScriptFingerprint](https://noscriptfingerprint.com/) - Non-JavaScript Fingerprinting
-* [Language Switcher](https://chromewebstore.google.com/detail/locale-switcher/kngfjpghaokedippaapkfihdlmmlafcc) / [GitHub](https://github.com/locale-switcher/locale-switcher), [2](https://addons.mozilla.org/en-US/firefox/addon/languageswitch) - Change Language Identifier
-* [AnonymousRedirect](https://adguardteam.github.io/AnonymousRedirect/) - Anonymize Links
-* [Simple Opt Out](https://simpleoptout.com/) - Turn off Targeted Ads
-* [AdNauseam](https://adnauseam.io/) - Adblocker / Fakes Clicks to Confuse Tracking
-* [Twitter Direct](https://greasyfork.org/en/scripts/404632) - Removes t.co Tracking from Twitter
+* 🌐 **[RentrySD](https://rentry.org/RentrySD/)**, **[Pharmapsychotic](https://pharmapsychotic.com/tools.html)**, [Paper2GUI](https://github.com/Baiyuetribe/paper2gui/blob/main/README_en.md), [LocalModelsLinks](https://rentry.org/LocalModelsLinks), [SD Goldmine](https://rentry.org/sdgoldmine), [Akashic](https://github.com/Maks-s/sd-akashic), [sdg-link](https://rentry.org/sdg-link), [SDTools](https://sdtools.org) or [AI Creation Tools](https://docs.google.com/spreadsheets/d/1zYJUM-srhgIA7wrj4Pe4QqepAsHIEC00DydoTPv4PWg/edit#gid=0) - AI Image Resources
+* 🌐 **[CivitAI](https://civitai.com/)** or [Stable Diffusion Models](https://cyberes.github.io/stable-diffusion-models/) - SD Models Index
+* 🌐 **[PromptMania](https://promptomania.com/)**, [PTSearch](https://www.ptsearch.info/tags/list/) or [PublicPrompts](https://publicprompts.art/) / [Discord](https://discord.com/invite/jvQJFFFx26) - Prompt Indexes
+* ⭐ **[A Traveler’s Guide to the Latent Space](https://sweet-hall-e72.notion.site/A-Traveler-s-Guide-to-the-Latent-Space-85efba7e5e6a40e5bd3cae980f30235f)** - AI Art Guide
+* ⭐ **[Voldy](https://rentry.org/voldy)**, [SD Quickstart](https://redd.it/xvhavo) or [1 Min Stable Diffusion](https://youtu.be/l3JjTDvyVdw) - Stable Diffusion Guides
+* ⭐ **[CLIP Interrogator](https://huggingface.co/spaces/pharma/CLIP-Interrogator)** / [2](https://huggingface.co/spaces/fffiloni/CLIP-Interrogator-2) - Determine Likely Used Image Prompts
+* [Prompt Llibrary](https://promptlibrary.org/) - Image Prompt Library
+* [SD Dynamic Prompts](https://github.com/adieyal/sd-dynamic-prompts) - Dynamic Prompts Extension
+* [Stable Horde](https://stablehorde.net/) - Distributed Network of GPUs running Stable Diffusion / [Interface](https://aqualxx.github.io/stable-ui/), [2](https://tinybots.net/artbot), [3](https://artificial-art.eu/)
+* [NOP / WAS](https://colab.research.google.com/drive/1jUwJ0owjigpG-9m6AI_wEStwimisUE17) - AI Image Generation Colab
+* [image-mixer-demo](https://huggingface.co/spaces/lambdalabs/image-mixer-demo), [AITransformer](https://aitransformer.net/) - AI Image Transformers
+* [SD Inpainting](https://huggingface.co/spaces/runwayml/stable-diffusion-inpainting), [Inpaint Anything](https://github.com/geekyutao/Inpaint-Anything) or [Lama Cleaner](https://github.com/Sanster/lama-cleaner) - Image Fill / Item Removal
+* [Unstable Diffusion](https://discord.com/invite/unstablediffusion) - AI Image Community
+* [/r/sdforall](https://www.reddit.com/r/sdforall/) - Stable Diffusion Subreddit
+* [TheAlly's Guide](https://civitai.com/models/22881/) - Stable Diffusion Guide
+* [StableDiffusion Cheatsheet](https://supagruen.github.io/StableDiffusion-CheatSheet/) - Stable Diffusion Cheatsheet
+* [Textard](https://rentry.org/textard) - Textual Inversion Guide
+* [drfar](https://rentry.org/drfar) - InPainting Guide
+* [AnimAnon](https://rentry.org/AnimAnon) - AI Animation Guide
+* [The Other](https://rentry.org/59xed3), [DummyLoRA](https://rentry.org/dummylora), [ezlora](https://rentry.org/ezlora), [Dreambooth](https://rentry.org/2chAI_LoRA_Dreambooth_guide_english), [ora_train](https://rentry.org/lora_train) - SD LoRA Guides
+* [SafeTensorsGuide](https://rentry.org/safetensorsguide) - How-to Convert .ckpt to .safetensors
+* [DummyControlNet](https://rentry.org/dummycontrolnet) - ControlNet Guide
 
 ***
 
-## ▷ Frontends
-
-* 🌐 **[Alt Frontends](https://github.com/mendel5/alternative-front-ends)** / [2](https://rentry.co/8kqrrn), [Farside](https://farside.link/) or [alternative-frontends](https://github.com/digitalblossom/alternative-frontends) - Frontend Indexes
-* ↪️ **[YouTube Frontends](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/social-media#wiki_.25B7_players_.2F_frontends)**
-* ⭐ **[LibRedirect](https://libredirect.github.io/)** / [2](https://github.com/libredirect/libredirect), [Predirect](https://github.com/libreom/predirect) or [Proxy Redirect](https://openuserjs.org/scripts/sjehuda/Proxy_Redirect) - Frontend Redirect Extensions
-* [Numblr](https://github.com/heyLu/numblr) - Self-Hosted Frontend Redirect
-* [Photon](https://photon-reddit.com/), [reditr](https://reditr.com/), [RDX](https://rdx.overdevs.com/) or [redlib](https://github.com/redlib-org/redlib) - Reddit Frontends
-* [Invidious Redirect](https://addons.mozilla.org/en-US/firefox/addon/hooktube-redirect/?src=search) - YouTube Frontend Redirect
-* [twstalker](https://twstalker.com/), [X Cancelled](https://xcancel.com/) or [nitter](https://nitter.poast.org/) / [Instances](https://status.d420.de/), [2](https://github.com/zedeus/nitter/wiki/Instances) - Twitter Frontends
-* [Proxigram](https://codeberg.org/ThePenguinDev/Proxigram) or [Imginn](https://imginn.com) - Instagram Frontends
-* [Proxitok](https://github.com/pablouser1/ProxiTok) - TikTok Frontend
-* [Tumlook](https://www.tumlook.com/), [Tumgik](https://www.tumgik.com/) or [PriviBlur](https://github.com/syeopite/priviblur) - Tumblr Frontends
-* [BreezeWiki](https://breezewiki.com/) - Fandom Frontend / [Mirrors](https://pastebin.com/DmbrhEDD)
-* [MikuInvidious](https://0xacab.org/johnxina/mikuinvidious) - BiliBili Frontend
-* [SafeTwitch](https://codeberg.org/SafeTwitch/safetwitch) or [Twineo](https://codeberg.org/CloudyyUw/twineo) - Twitch Frontends
-* [Whoogle](https://benbusby.com/projects/whoogle-search/) - Google Search Frontend
-* [Lingva Translate](https://github.com/TheDavidDelta/lingva-translate) - Google Translate Frontend
-* [Scribe](https://sr.ht/~edwardloveall/Scribe/), [medium.rip](https://medium.rip/) or [LibMedium](https://libmedium.batsense.net/) - Medium Frontends
-* [Quetre](https://quetre.iket.me) / [GitHub](https://github.com/zyachel/quetre) - Quora Frontend
-* [Rimgo](https://codeberg.org/rimgo/rimgo) - Imgur Frontend / [Instances](https://rimgo.codeberg.page/), [2](https://codeberg.org/rimgo/instances)
-* [Binternet](https://github.com/Ahwxorg/Binternet) - Pinterest Frontend
-* [Pixivfe](https://codeberg.org/VnPower/pixivfe) - Pixiv Frontend
-* [Gothub](https://codeberg.org/gothub/gothub) - GitHub Frontend
-* [AnonymousOverflow](https://code.whatever.social) - StackOverflow Frontend
-* [Tent](https://codeberg.org/sun/Tent) - Bandcamp Frontend
-* [Dumb](https://codeberg.org/rramiachraf/dumb) or [Intellectual](https://intellectual.insprill.net/) - Genius Frontend
-* [Rural Dictionary](https://codeberg.org/zortazert/rural-dictionary) - Urban Dictionary Frontend
-* [BiblioReads](https://codeberg.org/nesaku/BiblioReads) - Goodreads Frontend
-* [LibreMDb](https://libremdb.iket.me) - IMDb Frontend
-* [Neuters](https://neuters.de/) - Reuters Frontend
+## ▷ [Image Restoration](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/img-tools#wiki_.25B7_upscale_.2F_restore)
 
 ***
 
-## ▷ Search Engines
+# ► Audio Generation
 
-* 🌐 **[nixnet](https://searx.nixnet.services/)**, [searx.space](https://searx.space/) or [Searx Index](https://www.startpage.com/sp/search?q=%22powered%20by%20Searx%22) - Searx Instance Indexes
-* ⭐ **[searx.fmhy](https://searx.fmhy.net/)**, [Fuck Off Google](https://search.fuckoffgoogle.net/), [searx](https://searx.be/), [tiekoetter](https://searx.tiekoetter.com/), [monocles](https://monocles.de/) - Searx Instance
-* ⭐ **[Metager](https://metager.org/)**
-* ⭐ **[Stract](https://trystract.com/)**
-* ⭐ **[Araa](https://araa.extravi.dev/)** / Uses Google / DDG / Qwant
-* ⭐ **[DuckDuckGo](https://duckduckgo.com/)** - [Shortcuts](https://duckduckgo.com/bangs), [2](https://github.com/dmlls/yang) / Uses Bing
-* [whoogle.fmhy](https://whoogle.fmhy.net/) - Whoogle Instance  / Uses Google
-* [LibreY](https://github.com/Ahwxorg/librey) or [LibreX](https://github.com/hnhx/librex)
-* [4get](https://4get.ca/)
-* [Mojeek](https://www.mojeek.com/)
-* [Qwant](https://www.qwant.com/)
-* [Swisscows](https://swisscows.com/) / Uses Bing
-* [YaCy](https://yacy.net/)
-* [Startpage](https://www.startpage.com/) / Uses Google
-* [Brave Search](https://search.brave.com/)
-* [Search Encrypt](https://www.searchencrypt.com/)
-* [ekoru](https://ekoru.org/) / Uses Bing
-* [Gibiru](https://gibiru.com/) / Uses Google
-* [SearXNG](https://docs.searxng.org/) - Self-Hosted
-* [Whoogle](https://pypi.org/project/whoogle-search/) - Self-Hosted
-
-***
-
-# ► VPN
-
-* **Note** - For torrenting, it's recommended to use a paid rather than free VPN. Free VPNs are only really useful for things like viewing sites blocked by your ISP / country.
+* ⭐ **[MusicGen](https://huggingface.co/spaces/facebook/MusicGen)** - Text to Music AI
+* ⭐ **[Riffusion](https://www.riffusion.com/)**
+* ⭐ **[Suno](https://suno.com/)** / [Wiki](https://sunoaiwiki.com/en)
+* [Wolfram Tones](https://tones.wolfram.com/)
+* [StableAudio](https://www.stableaudio.com/)
+* [Udio](https://www.udio.com/)
+* [audio visual generator](https://fredericbriolet.com/avg/)
+* [Fake Music Generator](https://www.fakemusicgenerator.com/)
+* [Sonauto](https://sonauto.ai/) / [Discord](https://discord.gg/pfXar3ChH8)
+* [Jingle](https://aidn.jp/jingle/)
+* [BeatOven](https://www.beatoven.ai/)
+* [Waveformer](https://waveformer.replicate.dev/)
+* [SoundDraw](https://soundraw.io/)
+* [Aiva](https://aiva.ai/)
+* [Boomy](https://boomy.com/)
+* [Melobytes](https://melobytes.com/en)
+* [AI Jukebox](https://huggingface.co/spaces/enzostvs/ai-jukebox)
+* [Drum Loop AI](https://www.drumloopai.com/) - Drum Loop Generator
+* [WOMBO](https://www.wombo.ai/) - AI Powered Lip Sync
 
 ***
 
-* 🌐 **[VPN Comparisons](https://redd.it/171h9qa)** or [Techlore Chart](https://techlore.tech/vpn) - VPN Comparison Charts
-* 🌐 **[VPN Relationships](https://kumu.io/Windscribe/vpn-relationships)** - VPN Relationship Chart
-* ⭐ **[/r/VPNs](https://www.reddit.com/r/vpns/)** - VPN Help and Discussion
-* ⭐ **[AirVPN](https://airvpn.org/)**
-* ⭐ **[Windscribe](https://windscribe.com)** - Free Version Available / [Relief Codes](https://blog.windscribe.com/tag/relief-codes/)
-* ⭐ **[Proton](https://protonvpn.com)** - No Torrenting with Free Version / [Config Generation](https://gist.github.com/fusetim/1a1ee1bdf821a45361f346e9c7f41e5a)
-* ⭐ **[Warp](https://one.one.one.one/)** - Traffic Encryption VPN / [Client](https://github.com/ViRb3/wgcf), [2](https://github.com/bepass-org/oblivion-desktop) / [Warp+ Data](https://t.me/warpplus), [2](https://github.com/nxvvvv/warp-plus), [3](https://github.com/totoroterror/warp-cloner), [4](https://t.me/generatewarpplusbot), [5](https://rentry.co/warp_plus_free) / [Warp+ Warning](https://rentry.co/warpwarning) / [WireGuard Guide](https://rentry.co/foss-warp)
-* ⭐ **[Riseup](https://riseup.net/en/vpn)** - Free VPN / [Config CLI Script](https://github.com/kmille/riseup-vpn-configurator)
-* [Mullvad](https://mullvad.net/) - [No-Logging](https://mullvad.net/en/blog/2023/4/20/mullvad-vpn-was-subject-to-a-search-warrant-customer-data-not-compromised/) / [Port Warning](https://mullvad.net/en/blog/2023/5/29/removing-the-support-for-forwarded-ports/)
-* [IVPN](https://www.ivpn.net/) - [No Logging](https://www.ivpn.net/knowledgebase/privacy/how-do-we-react-when-requested-by-an-authority-for-information-relating-to-a-customer/) / [Port Warning](https://www.ivpn.net/blog/gradual-removal-of-port-forwarding/)
-* [VPN Gate](https://www.vpngate.net/en/download.aspx) - Free VPN / [Note](https://pastebin.com/TrSw7EpF)
-* [PrivadoVPN](https://privadovpn.com/) - Free VPN / Unlimited Accounts via [Temp Mail](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools#wiki_.25B7_temp_mail)
-* [Leap VPN](https://leap.se/) - Free VPNs
-* [VPNBook](https://www.vpnbook.com/) - Free VPN Accounts
+## ▷ Text to Speech
+
+* 🌐 **[TTS Arena](https://huggingface.co/spaces/TTS-AGI/TTS-Arena)** - Text to Speech Voting / Leaderboards
+* ⭐ **[ElevenLabs](https://beta.elevenlabs.io/)** / [Discord](https://discord.com/invite/elevenlabs)
+* ⭐ **[Uberduck](https://uberduck.ai/)**
+* ⭐ **[WhisperSpeech](https://huggingface.co/spaces/collabora/WhisperSpeech)** - [Discord](https://discord.com/invite/FANw4rHD5E)
+* ⭐ **[Tortoise TTS](https://github.com/neonbjb/tortoise-tts)**
+* ⭐ **[Bark](https://huggingface.co/spaces/suno/bark)** - [Github](https://github.com/suno-ai/bark) / [Discord](https://discord.com/invite/J2B2vsjKuE)
+* [Balabolka](https://www.cross-plus-a.com/bportable.htm)
+* [ttsMP3](https://ttsmp3.com/)
+* [Vall-e](https://github.com/enhuiz/vall-e)
+* [TextToMP3](https://www.texttomp3.online/)
+* [Listnr](https://listnr.ai/)
+* [FakeYou](https://fakeyou.com/)
+* [Woord](https://www.getwoord.com/)
+* [TTSMaker](https://ttsmaker.com/)
+* [Speakonia](https://archive.org/details/speakonia_1036)
+* [TextToSpeech](https://texttospeech.io/)
+* [SAPI4](https://tetyys.com/SAPI4/)
+* [LazyPY](https://lazypy.ro/tts/)
+* [VoiceCraft](https://github.com/jasonppy/VoiceCraft)
+* [Murf.ai](https://murf.ai/)
+* [EmotiVoice](https://github.com/netease-youdao/EmotiVoice)
+* [Fish Audio](https://fish.audio/) / [Docs](https://diff.fish.audio) / [GitHub](https://github.com/fishaudio/fish-diffusion)
+* [Audio-WebUI](https://github.com/gitmylo/audio-webui)
+* [Vanilla Voice](https://www.vanillavoice.com/)
+* [Sam](https://discordier.github.io/sam/), [2](https://simulationcorner.net/index.php?page=sam) / [BetterSam](https://imrane03.github.io/better-sam/)
+* [MicrosoftSamOnline](https://lingojam.com/MicrosoftSamOnline)
+* [TTSFree](https://ttsfree.com/)
+* [Wideo](https://wideo.co/text-to-speech/)
+* [VoiceGenerator](https://voicegenerator.io/)
+* [Text to Speech Free](https://www.texttospeechfree.com/)
+* [Lovo ai](https://lovo.ai/)
+* [TextToSpeechRobot](https://texttospeechrobot.com/)
+* [SoundofText](https://soundoftext.com/)
+* [FreeTTS](https://freetts.com/)
+* [zvukogram](https://zvukogram.com/)
+* [Nuance](https://www.nuance.com/de-de/omni-channel-customer-engagement/voice-and-ivr/text-to-speech.html)
+* [VoiceMaker](https://voicemaker.in/)
+* [readloud](https://readloud.net/)
+* [NaturalReaders](https://www.naturalreaders.com/online/)
+* [TTS](https://github.com/coqui-ai/tts)
+* [Clash](https://clash.me/)
+* [Moe TTS](https://huggingface.co/spaces/skytnt/moe-tts)
+* [TTS Paper](https://github.com/coqui-ai/TTS-papers) - Text to Speech Papers
 
 ***
 
-## ▷ VPN Tools
+## ▷ Voice Change / Clone
 
-* ↪️ **[Free VPN Configs](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_free_vpn_configs)**
-* ⭐ **[How-to Bind VPN to Client](https://redd.it/ssy8vv)** - Bind VPN to Client to Avoid ISP Letters
-* ⭐ **[WireGuard](https://www.wireguard.com/)** - VPN Tunnel / [Setup Guide](https://github.com/amritb/poor-mans-vpn) / [Tools](https://guardline-vpn.github.io/wireguard-tools/) / [Manager](https://github.com/perara/wg-manager) / [WebUI](https://hub.docker.com/r/weejewel/wg-easy)
-* [OpenVPN](https://openvpn.net/) or [TincVPN](https://www.tinc-vpn.org/) - VPN Tunnels
-* [WireHole](https://github.com/IAmStoxe/wirehole) - Wireguard VPN with Adblocking Capabilities / [User-Interface](https://github.com/10h30/wirehole-ui)
-* [Syntropy](https://www.syntropystack.com/vpn), [Self Hosted VPN](https://github.com/rajannpatel/Pi-Hole-on-Google-Compute-Engine-Free-Tier-with-Full-Tunnel-and-Split-Tunnel-Wireguard-VPN-Configs), [VpnHood](https://github.com/vpnhood/VpnHood), [n2n](https://github.com/ntop/n2n), [ipsec-vpn](https://github.com/hwdsl2/setup-ipsec-vpn) or [Outline](https://getoutline.org/) - Self-Hosted VPN
-* [OpenConnect](https://www.infradead.org/openconnect/) - SSL VPN / [GUI](https://openconnect.github.io/openconnect-gui/)
-* [Gluetun](https://hub.docker.com/r/qmcgaw/gluetun) / [GitHub](https://github.com/qdm12/gluetun) - Tunnel your Docker containers through a VPN
-* [Pritunl](https://pritunl.com/) - VPN Server
-* [Algo VPN](https://blog.trailofbits.com/2016/12/12/meet-algo-the-vpn-that-works/) / [GitHub](https://github.com/trailofbits/algo) - Cloud VPN
-* [Amnezia](https://amnezia.org/) - Self-hosted VPN
-* [VPNHotspot](https://github.com/Mygod/VPNHotspot) - Share VPN Connection over Hotspot
+* ⭐ **[Applio](https://github.com/IAHispano/Applio-RVC-Fork)** - Voice Cloning / [Discord](https://discord.com/invite/iahispano)
+* ⭐ **[weights.gg](https://www.weights.gg/) / [Discord](https://discord.gg/aihub)** - AI Voice Models and Guides
+* ⭐ **[RVC V2](https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI/blob/main/docs/en/README.en.md)** - RVC V2 Voice Cloning (locally)
+* ⭐ **[voice-changer](https://github.com/w-okada/voice-changer)** - Realtime Voice Changer (W-Okada) - [Guide](https://rentry.co/VoiceChangerGuide)
+* ⭐ **[Ilaria RVC](https://huggingface.co/spaces/TheStinger/Ilaria_RVC)** - RVC V2 Voice Cloning (Cloud/Colab)
+* [Replay](https://www.tryreplay.io/) - RVC Desktop App
+* [Bark with Voice Clone](https://huggingface.co/spaces/kevinwang676/Bark-with-Voice-Cloning) - Voice Cloning
+* [RVC_HFv2](https://huggingface.co/spaces/r3gm/RVC_HFv2) - Voice Cloning
+* [RVC Docs](https://docs.aihub.wtf/) - RVC AI Documentation
 
 ***
 
-# ► Proxy
-
-## ▷ Proxy Apps
-
-* ⭐ **[Lantern](https://lantern.io/)** or **[Psiphon](https://psiphon.ca/)** - Free Proxy / VPN
-* ⭐ **[SecureDNSClient](https://github.com/msasanmh/SecureDNSClient)** - DNS Proxy GUI / [Guide](https://rentry.co/SecureDNSClient)
-* [No Thought is a Crime](https://ntc.party/) - Internet Censorship Discussion
-* [GoodbyeDPI](https://github.com/ValdikSS/GoodbyeDPI/) / [GUI](https://github.com/mguludag/GUI-for-GoodbyeDPI), [PowerTunnel](https://github.com/krlvm/PowerTunnel) or [Green Tunnel](https://github.com/SadeghHayeri/GreenTunnel) - DPI Circumvention Local Proxies
-* [Hola Proxy](https://github.com/Snawoot/hola-proxy) - Alternative Client for Hola Free Proxy Service
-* [Hide.me Firefox](https://addons.mozilla.org/en-US/firefox/addon/hide-me-vpn-free-proxy/) / [Chrome](https://chromewebstore.google.com/detail/hideme-proxy/ohjocgmpmlfahafbipehkhbaacoemojp) or [anonymoX](https://anonymox.net/en) - Free Proxy Service Browser Extension
-* [Snowflake](https://snowflake.torproject.org/) - Tor Proxy Browser Extension
-* [CensorTracker](https://censortracker.org/), [FoxyProxy](https://getfoxyproxy.org/) or [SwitchyOmega](https://github.com/FelisCatus/SwitchyOmega) - Proxy Extensions
-* [Acrylic](https://mayakron.altervista.org/) - DNS Cache Local Proxy
-* [SimpleDnsCrypt](https://github.com/instantsc/SimpleDnsCrypt) or [DNSCrypt](https://www.dnscrypt.org/) - Local DNS Encryption Proxy
-* [Blocky](https://github.com/0xERR0R/blocky) - DNS Proxy
-* [Proxifier](https://www.proxifier.com/) - Add Proxy Functionality to Apps / [Keys](https://rentry.co/FMHYBase64#proxifier-keys)
-* [wireproxy](https://github.com/pufferffish/wireproxy) - Use VPNs as proxies
-* [Hiddify](https://hiddify.com/) - Auto-Proxy Client
-* [NginxProxyManager](https://nginxproxymanager.com) / [GitHub](https://github.com/NginxProxyManager/nginx-proxy-manager) - Self-Hosted Proxy Server
-* [Shadowsocks](https://shadowsocks.org/) - Proxy Client and Self-Hosted Server / [Free Servers](https://github.com/ruanfei/cross), [2](https://github.com/vxiaov/free_proxies), [3](https://shadowmere.akiel.dev/) / [Client](https://github.com/shadowsocks/shadowsocks-windows)
-* [Hysteria](https://v2.hysteria.network/) - Proxy Client and Self-Hosted Server
-* [Xray](https://github.com/XTLS/Xray-core) - Proxy Client and Self-Hosted Server / [Telegram](https://t.me/projectXray)
-* [Ultraviolet](https://docs.titaniumnetwork.org/proxies/ultraviolet) or [Metallic](https://github.com/cognetwork-dev/Metallic) - Self-Hosted Proxy Websites
-* [1337x Proxy](https://redd.it/tz7nyx) - 1337x Proxy Guide / [Example](https://pastebin.com/3n5K0QrP)
-
-***
-
-## ▷ Proxy Sites
-
-* ↪️ **[Proxy Lists](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_proxy_lists)**
-* ↪️ **[Piracy Site Proxies](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_piracy_site_proxies)**
-* [ProxySite](https://www.proxysite.com/)
-* [GenMirror](https://www.genmirror.com/)
-* [Hide.me](https://hide.me/en/proxy)
-* [SSLSecureProxy](https://www.sslsecureproxy.com/)
-* [HideIP](https://www.hideip.co/)
-* [4EverProxy](https://www.4everproxy.com/)
-* [KProxy](https://www.kproxy.com/)
-* [Free Proxy](https://freeproxy.win/)
-* [Blockaway](https://www.blockaway.net/)
-* [Free Proxy Servers](https://www.free-proxy-servers.com/)
-* [VPN Book](https://www.vpnbook.com/webproxy)
-* [CroxyProxy](https://www.croxyproxy.com/)
-* [ProxyPx](https://croxyproxy.best/)
-* [ProxySite](https://www.proxysite.cc/)
-* [ProxyOf2](https://proxyof2.com/)
-* [Proxy-URLs](https://www.proxy-urls.com/)
-* [Sitenable](https://freeproxy.io/)
-* [UnblockSites](https://unblocksites.online/)
-* [Proxyium](https://proxyium.com/)
-* [Proxy Site](https://proxysite.cloud/)
-* [Google Translate](https://translate.google.com/) / [Proxy Explanation](https://redd.it/fawkjy), [2](https://ibb.co/BtWc8ML)
-* [Proxy-Checker](https://proxy-checker.net/), [proxy-scraper](https://github.com/iw4p/proxy-scraper), [What is my Proxy](http://www.whatismyproxy.com/), [proxy-scraper-checker](https://github.com/monosans/proxy-scraper-checker), [Socker](https://github.com/TheSpeedX/socker) or [Unfx Proxy Checker](https://openproxy.space/software/proxy-checker) / [GitHub](https://github.com/openproxyspace/unfx-proxy-checker) - Proxy Scrapers / Checkers
-* [CheckSocks5](https://checksocks5.com/) - Socks5 Proxy Checker
-* [Proxynova](https://www.proxynova.com/proxy-server-list/country-ir/) - Iranian Proxies
+# ► [Machine Learning](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/dev-tools#wiki_.25B7_machine_learning)
 ***
 ***
 **[◄◄ Back to Wiki Index](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/index)**
