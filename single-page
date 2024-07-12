@@ -100,6 +100,7 @@
 * 🌐 **[OSGL](https://trilarion.github.io/opensourcegames/)**, [Awesome Open Source Games](https://github.com/michelpereira/awesome-open-source-games) or [LibreGameWiki](https://libregamewiki.org/List_of_games) - Open-Source Games
 * 🌐 **[Awesome Game Remakes](https://github.com/radek-sprta/awesome-game-remakes)** or [Game Clones](https://osgameclones.com/) - Open-Source Remakes
 * 🌐 **[Awesome Terminal Games](https://ligurio.github.io/awesome-ttygames/)** - ASCII Terminal Games
+* 🌐 **[Kliktopia](https://kliktopia.org/)** - Klik Games
 * ⭐ **[OpenRCT2](https://openrct2.io/)**, [2](https://openrct2.org/) - Open-Source RollerCoaster Tycoon 2
 * [Minetest](https://www.minetest.net/) or [Cassicube](https://www.classicube.net/) - Open-Source Minecraft Alternatives
 * [OpenFortress](https://openfortress.fun/) - Team Fortress 2 Mod
@@ -642,6 +643,7 @@
 * [Guess The Year](https://guess-the-year.davjhan.com/) or [ChronoPhoto](https://www.chronophoto.app/) - Year Guessing Game
 * [Approved, or Not Approved?](https://approvednotapproved.com/) - Approved Advertising Guessing Game
 * [Wikitrivia](https://wikitrivia.tomjwatson.com/) - Guess Which Event Came First
+* [WhatBeatsRock](https://www.whatbeatsrock.com/) - Guess What Beats What
 * [LoLdle](https://loldle.net/) - League of Legends Wordle
 * [Minecraftle](https://minecraftle.zachmanson.com/) - Minecraft Crafting Style Wordle
 * [Squirdle](https://squirdle.fireblend.com/) - Pokémon Style Wordle
