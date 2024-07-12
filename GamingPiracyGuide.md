@@ -654,9 +654,9 @@
 
 ## ▷ Word Games
 
-* 🌐 **[Awesome Wordle](https://github.com/prakhar897/awesome-wordle)** - Wordle Game Index
+* 🌐 **[Awesome Wordle](https://github.com/prakhar897/awesome-wordle)**, [Wordles of the World](https://rwmpelstilzchen.gitlab.io/wordles/), [Wordleverse](https://wordleverse.net/games) - Wordle Game Index
 * ⭐ **[Wordle](https://www.nytimes.com/games/wordle/index.html)** - Original Wordle
-* ⭐ **[Wordles of the World](https://rwmpelstilzchen.gitlab.io/wordles/)** - [Analyzer](https://wordle-analyzer.com/)
+* ⭐ **[Wordle Analyzer](https://wordle-analyzer.com/)**
 * [JKLM.FUN](https://jklm.fun/) - Multiplayer Word Guessing Game
 * [Sqword](https://www.sqword.com/)
 * [Wordle Unlimited](https://wordleunlimited.org/)
