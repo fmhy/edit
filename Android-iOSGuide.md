@@ -117,7 +117,7 @@
 ## ▷ APK Tools
 
 * ⭐ **[AppManager](https://muntashirakon.github.io/AppManager/)**, [Inure](https://rentry.co/FMHYBase64#inure) or [PackageManager](https://f-droid.org/packages/com.smartpack.packagemanager/) - Package Managers
-* ⭐ **[Lucky Patcher](https://www.luckypatchers.com/download/)** - App Patcher / [Avoid "LP Downloader"](https://pastebin.com/UXxaVqX9)
+* ⭐ **[Lucky Patcher](https://rentry.co/FMHYBase64#lucky-patcher)** - App Patcher / [Avoid "LP Downloader"](https://pastebin.com/EikpPCAW)
 * ⭐ **Lucky Patcher Tools** - [Guide](https://flixbox.github.io/lp-compat/docs/intro) / [Compatibility](https://flixbox.github.io/lp-compat/) / [Subreddit](https://www.reddit.com/r/luckypatcher/) / [Discord](https://discord.com/invite/RS5ddYf7mw)
 * ⭐ **[Obtainium](https://github.com/ImranR98/Obtainium/)**, [UpgradeAll](https://up-a.org/en/) / [GitHub](https://github.com/DUpdateSystem/UpgradeAll), [APKUpdater](https://github.com/rumboalla/apkupdater) or [InstallerX](https://t.me/InstallerX) (root) - APK Installers / Updaters
 * ⭐ **[Android APK CSE](https://cse.google.com/cse?cx=e0d1769ccf74236e8)** / [CSE 2](https://cse.google.com/cse?cx=73948689c2c206528) / [CSE 3](https://cse.google.com/cse?cx=a805854b6a196d6a6), [App Finder](https://play.google.com/store/apps/details?id=scadica.aq) or [ShowAppsLike](https://showappslike.com/) - APK Search Engines
