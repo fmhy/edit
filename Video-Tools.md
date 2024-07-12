@@ -46,6 +46,7 @@
 * [Fastupload.io](https://fastupload.io/en) - 10GB / 30 Days (60 Days With Account)
 * [Vidoza](https://vidoza.net/) - 15GB / 15 Days / Account Required
 * [Streamtape](https://streamtape.com/) - 15GB / Account Required / [.to](https://streamtape.to/)
+* [Dubz](https://dubz.co/) - 200MB / Forever
 * [Streamable](https://streamable.com/) - 250MB / 2 Days (90 Days With Account)
 * [webmshare](https://webmshare.com/) - WebM & GIF Hosting / 20MB / Forever
 * [Videy](https://videy.co/) - MP4 only
