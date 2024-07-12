@@ -43,6 +43,7 @@
 * ⭐ **[LMSYS Chat](https://chat.lmsys.org/)** - Chat and Compare Multiple Chatbots
 * [LLM Playground](https://llmplayground.net/) - Multiple Chatbots / [Discord](https://discord.com/invite/q55gsH8z5F) / [API](https://api.discord.rocks/)
 * [feyn](https://feyn.chat/) - GPT-4o / Multiple Chatbots
+* [gpt4o.so](https://gpt4o.so/app) - GPT-4o
 * [LibreChat](https://librechat.ai/) - Multiple Chatbots
 * [DDG Chat](https://duckduckgo.com/chat) - Multiple Chatbots
 * [HuggingChat](https://huggingface.co/chat/) - Open-Source Chatbots
