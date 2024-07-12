@@ -182,7 +182,7 @@
 # ► Travel
 
 * ⭐ **[Atlas Obscura](https://www.atlasobscura.com/)**, [Turas](https://turas.app/), [CountryReports](https://www.countryreports.org/), [Wikivoyage](https://www.wikivoyage.org), [WikiTravel](https://wikitravel.org/) or [Wanderlog](https://wanderlog.com/guides) - Travel Guides
-* ⭐ **[JourneyPlan](https://journeyplan.co)**, [RoamAround](https://www.roamaround.io/), [TravelPlan](https://www.travelplan-ai.com/#get-trip), [maps.gpt](https://maps.gptcall.net/) or [Eddy](https://chat.eddytravels.com/) - Trip Planning AIs
+* ⭐ **[JourneyPlan](https://journeyplan.co)**, [RoamAround](https://www.roamaround.io/), [TravelPlan](https://www.travelplan-ai.com/#get-trip), [maps.gpt](https://maps.gptcall.net/) , [Holiwise](https://www.holiwise.com) or [Eddy](https://chat.eddytravels.com/) - Trip Planning
 * ⭐ **[twkids](https://www.twkids.app/)** - Find Theme Parks, Water Parks, Zoo's etc.
 * ⭐ **[Borderless](https://borderless.safetywing.com/)** - Travel Restrictions Guide
 * ⭐ **[MapChecking](https://www.mapchecking.com/)** - Crowd Size Estimation
@@ -373,6 +373,7 @@
 
 * [Open Infrastructure Map](https://openinframap.org/) - Global Infrastructure Map
 * [PowerOutage.us](https://poweroutage.us/) - US Power Outage Map
+* [CoverageMap](https://coveragemap.com/) - Cell Coverage Map
 * [CellMapper](https://www.cellmapper.net/) - Cell Tower Map
 * [Spectrum Ownership Map](https://specmap.sequence-omega.net/) - Cell Carrier FCC Spectrum Map
 * [WiGLE](https://wigle.net/) - Wireless Networks Map
@@ -898,7 +899,7 @@
 * [/r/SuggestALaptop](https://reddit.com/r/SuggestALaptop), [Jarrod's Tech](https://jarrods.tech/resources/) or [Noteb](https://noteb.com/) - Laptop Suggestions / [Discord](https://discord.gg/pes68JM)
 * [Laptop Wiki](https://laptopwiki.eu/) - Laptop Info Database
 * [EveryMac](https://everymac.com/) - Mac Info Database
-* [EloShapes](https://www.eloshapes.com/), [Sensor.fyi](https://sensor.fyi/info/), [RocketJumpNinja](https://www.rocketjumpninja.com/) or [/r/MouseReview](https://www.reddit.com/r/MouseReview/) / [Wiki](https://discord.gg/mousereview) - Mouse Buying Guides
+* [Mouse Ratings](https://www.rtings.com/mouse/reviews/best), [EloShapes](https://www.eloshapes.com/), [Sensor.fyi](https://sensor.fyi/info/), [RocketJumpNinja](https://www.rocketjumpninja.com/) or [/r/MouseReview](https://www.reddit.com/r/MouseReview/) / [Discord](https://discord.gg/mousereview) - Mouse Buying Guides
 * [Hackerboards](https://hackerboards.com/) - Single-Board Computer Comparisons
 * [Click Latencies](https://docs.google.com/spreadsheets/d/1-QI7-LY9Ul_DsVE4ZOqBQxqqqqrdJ04Ite8IY3AQMds/) - Mouse Click Latency Chart
 * [AudioScienceReview](https://www.audiosciencereview.com/forum/index.php) - Audio Equipment Discussion
@@ -1137,7 +1138,7 @@
 * [Websleuths](https://www.websleuths.com/) - Crime Solving Forum
 * [Translation Party](https://www.translationparty.com/) - Translation Parties
 * [Status.Cafe](https://status.cafe/) - Share Current Status
-* [TwoCansAndAString](https://twocansandstring.com/) or [TellOnMe](https://tellonym.me/) - Anonymous Q&A
+* [TwoCansAndAString](https://twocansandstring.com/), [Anonify](https://anonify.link/) or [TellOnMe](https://tellonym.me/) - Anonymous Q&A
 * [Earth 2050](https://2050.earth/) - Future Predictions
 * [FutureMe](https://www.futureme.org/) or [MessageToTheFuture](https://messagetothefutu.re/) - Send Messages to Future Self
 * [PostSecret](https://postsecret.com/) - Share Secrets via Postcard
