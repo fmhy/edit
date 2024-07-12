@@ -507,6 +507,7 @@
 
 ## ▷ Downloading / הורדה
 
+* [AnimeBlood](https://animebloodsub.net/)  - Anime / Download / Sub
 * [ultsub](https://ultsub.co.il/) - Anime / Sub / [Discord](https://discord.gg/4Bc8b2W) / [Telegram](https://t.me/UltSub)
 
 ***
@@ -673,7 +674,7 @@ https://aniwow.in/ has only dubs though
 
 * 🌐 **[The Italian Corsairs](https://rentry.co/the-italian-corsairs)** - Piracy Sites List
 
-## ▷ Downloading
+## ▷ Downloading / Scaricare
 
 * [eurekaddl](https://eurekaddl.makeup/) - Video / Audio / Books / Magazines / Newspapers / Comics / NSFW / Sub / 1080p
 * [OverDay](https://overday.info/) - Courses / Books
@@ -696,7 +697,7 @@ https://aniwow.in/ has only dubs though
 * [AnimeWorld](https://www.animeworld.so/) - Anime / Sub / 1080p
 * [Ovovideo](http://ovovideo.com/) - Video Encyclopedia
 
-## ▷ Reading
+## ▷ Reading / Leggere
 
 * [LiberLiber](https://liberliber.it/opere/libri/) - Books
 * [hastateam](https://ddt.hastateam.com/) - Manga
