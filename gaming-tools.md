@@ -510,6 +510,7 @@
 * [ACPatterns](https://acpatterns.com/) - Animal Crossing Pattern Tool / [Discord](https://discord.com/invite/9rGkZNk)
 * [Hard Drop](https://harddrop.com/wiki/Tetris_Wiki) or [Tetris.wiki](https://tetris.wiki/) - Tetris Wikis
 * [Fumen](https://harddrop.com/fumen/) - Tetris Field Editor
+* [Minesweepergame.com](https://minesweepergame.com/) and [Minesweeper.online Wiki](https://minesweeper.online/help/gameplay) - All about Minesweeper
 * [WRCsetups](https://wrcsetups.com/) - WRC Setups
 * [Peacock](https://github.com/thepeacockproject/Peacock) - Hitman World of Assassination Server Replacement
 * [Useful Osu](https://github.com/CarbonUwU/Useful-osu) - Osu! Resources
