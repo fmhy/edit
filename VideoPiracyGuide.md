@@ -529,7 +529,7 @@
 * ⭐ **[PSARips](https://psa.wf/)** - Movies / TV / 4K
 * ⭐ **[OlaMovies](https://olamovies.rent/)** - Movies / TV / 4K / 1080p / [Telegram](https://t.me/olamovies_officialv6)
 * ⭐ **[LightDLMovies](https://lightdl.xyz/)**, [2](https://lightdlmovies.blogspot.com/) - Movies / TV / 1080p
-* ⭐ **[VegaMovies](https://vegamovies.ist/)** - Movies / TV / Anime / 1080p / 4K / [Telegram](https://telegram.dog/VegamoviesTo_Official)
+* ⭐ **[VegaMovies](https://vegamovies.nz/)** - Movies / TV / Anime / 1080p / 4K / [Telegram](https://telegram.dog/VegamoviesTo_Official)
 * ⭐ **[MovieParadise](https://movieparadise.org/)** - Movies / TV / 1080p / [Get Code](https://pastebin.com/5jTpFCCP) / Code unlocks faster file host (1fichier)
 * ⭐ **[Braflix](https://www.braflix.ru/)** - Movies / TV / Anime / 4K / 1080p / Account Required
 * ⭐ **[Drama Day](https://dramaday.me/)** - Asian Drama / 1080p
@@ -555,7 +555,7 @@
 * [MovieSeriesTV](https://www.movieseriestv.net/) - Movies / TV / 1080p
 * [SeriesVault](https://seriesvault.win/) - TV / Anime / 1080p
 * [FilmFans](https://filmfans.org/) - Movies / 4K
-* [WorldFree4u](https://worldfree4u.wf/) - Movies / 1080p
+* [WorldFree4u](https://worldfree4u.pm/) - Movies / 1080p
 * [SSR Movies](https://ssrmovies.meme/) - Movies / TV / 1080p
 * [Best-MovieZ](https://www.best-moviez.ws/) - Movies / TV / 1080p
 * [SeriezLoaded NG](https://www.seriezloaded.com.ng/) - Movies / TV / 1080p
