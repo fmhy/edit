@@ -422,7 +422,7 @@
 
 ## ▷ Voice Change / Clone
 
-* ⭐ **[Applio](https://github.com/IAHispano/Applio-RVC-Fork)** - Voice Cloning / [Discord](https://discord.com/invite/iahispano)
+* ⭐ **[Applio](https://github.com/IAHispano/Applio-RVC-Fork)** - Voice Cloning / [Discord](https://discord.com/invite/iahispano) / [Playground](https://applio.org/playground)
 * ⭐ **[weights.gg](https://www.weights.gg/) / [Discord](https://discord.gg/aihub)** - AI Voice Models and Guides
 * ⭐ **[RVC V2](https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI/blob/main/docs/en/README.en.md)** - RVC V2 Voice Cloning (locally)
 * ⭐ **[voice-changer](https://github.com/w-okada/voice-changer)** - Realtime Voice Changer (W-Okada) - [Guide](https://rentry.co/VoiceChangerGuide)
