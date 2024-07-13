@@ -532,7 +532,7 @@
 ## ▷ Downloading
 
 * ⭐ **[OlaMovies](https://olamovies.rent/)** - Movies / TV / Sub / Dub / 1080p / 4K / [Telegram](https://t.me/olamovies_officialv6)
-* ⭐ **[VegaMovies](https://vegamovies.ist/)** - Movies / TV / Anime / 1080p / 4K / [Telegram](https://telegram.dog/VegamoviesTo_Official)
+* ⭐ **[VegaMovies](https://vegamovies.nz/)** - Movies / TV / Anime / 1080p / 4K / [Telegram](https://telegram.dog/VegamoviesTo_Official)
 * ⭐ **[MultiMovies](https://multimovies.space/)** - Movies / TV / Anime / Sub / Dub / 1080p / [Telegram](https://telegram.me/multimoviesfun)
 * ⭐ **[MkvCinemas](https://mkvcinemas.cymru/)** - Movies / TV / Anime / Sub / Dub / 1080p / 4K / [Telegram](https://t.me/+WzLYNDSawQk1MTk1)
 * ⭐ **[MoviesMod](https://moviesmod.life/)** - Movies / TV / Sub / Dub / 1080p / [Telegram](https://telegram.dog/moviesmodorg) / [Bypass](https://greasyfork.org/en/scripts/474747)
@@ -1447,7 +1447,7 @@ https://aniwow.in/ has only dubs though
 * ⭐ **[LaQuay TDT Channels](https://www.tdtchannels.com/) / [GitHub](https://github.com/LaQuay/TDTChannels)** - Live TV / Live Radio / IPTV / Castilian
 * ⭐ **[El Plan](https://www.reddit.com/user/No_Land656)** - Live Sports Acestream IDs
 * ⭐ **[Flipax](https://jepsikuydo1.foroactivo.com/h1-agenda)** - Live Sports
-* [PlayDede](https://playdede.us/) - Movies / TV / Anime / 1080p / Castilian / Latino / [Telegram](https://t.me/s/playdedeinformacion)
+* [PlayDede](https://playdede.eu/) - Movies / TV / Anime / 1080p / Castilian / Latino / [Telegram](https://t.me/s/playdedeinformacion)
 * [Zonaleros](https://www.zona-leros.com/peliculas-hd-online-lat) - Movies / TV / 1080p / Latino
 * [Solo Latino](https://sololatino.net/) - Movies / TV / Anime / 1080p / Latino
 * [PelisPlusHD.nz](https://pelisplushd.nz/) - Movies / TV / Anime / Latino / [Telegram](https://t.me/pelisplushd_nu)
