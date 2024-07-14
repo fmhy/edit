@@ -80,7 +80,6 @@
 * [FossaTV](https://fossa.tv/), [2](https://tv.cross.moe/) - Movies / TV / 1080p
 * [Catflix](https://catflix.su/) - Movies / TV / 1080p / Ad-Free
 * [RidoMovies](https://ridomovies.tv/) - Movies / 1080p
-* [Ling.online](https://ling-online.net/en/videos/films/) - Movies / TV / 1080p
 * [UniqueStream](https://uniquestream.net/) - Movies / TV / 1080p
 * [English Movies](https://m.vk.com/english_movies) - Movies / 1080p
 * [StreamLord](http://www.streamlord.com/) - Movies / TV / 1080p
