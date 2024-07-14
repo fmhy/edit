@@ -75,7 +75,8 @@
 * [GamePower](https://www.gamerpower.com/) - Games
 * [ClaimFreeGames](https://claimfreegames.com/) - Games
 * [GrabFreeGames](https://grabfreegames.com/) - Games
-* [Epic Games Free](https://www.epicgames.com/store/en-US/free-games), [egsnotifier_bot](https://t.me/egsnotifier_bot) or [Epic Free Games](https://t.me/epicfreegames) - Games
+* [Free250](https://steam250.com/price/free) - Free Steam Games
+* [Epic Games Free](https://www.epicgames.com/store/en-US/free-games), [egsnotifier_bot](https://t.me/egsnotifier_bot) or [Epic Free Games](https://t.me/epicfreegames) - Free Epic Games
 * [EpicFreeGamesList](https://josephmate.github.io/EpicFreeGamesList/) - Epic Free Games List
 * [Steam Mods](https://store.steampowered.com/search/?maxprice=free&category1=997) - Steam Mods
 * [Freetchio](https://shaigrorb.github.io/freetchio/) - itch.io Games
@@ -490,6 +491,7 @@
 * [Medito](https://github.com/meditohq/medito-app) or [Heartfulness](https://www.heartfulnessapp.org/) - Meditation App
 * [Balance](https://balance.dvy.io/) - Challenge Anxious Thoughts with AI
 * [Plees Tracker](https://vmiklos.hu/plees-tracker/) - Sleep Tracker
+* [Safe Substance](https://safesubstance.com/), [TripSit](https://tripsit.me/) / [Discord](https://discord.gg/tripsit), [Drugs.com](https://www.drugs.com/) or [DrugBank](https://go.drugbank.com/) - Drug Information / Side Effects
 
 ***
 
@@ -589,7 +591,6 @@
 
 ## ▷ Detoxing / Sobriety
 
-* ⭐ **[Safe Substance](https://safesubstance.com/)**, [Drugs.com](https://www.drugs.com/) or [DrugBank](https://go.drugbank.com/) - Drug Information / Side Effects
 * ⭐ **[/r/NoSurf](https://www.reddit.com/r/nosurf/wiki/index)** - Digital Detox Community / [Discord](https://discordapp.com/invite/QFhXt2F)
 * [Farhan](https://github.com/tahaak67/Farhan), [LockMeOut](https://play.google.com/store/apps/details?id=vikesh.dass.lockmeout), [DetoxDroid](https://github.com/flxapps/DetoxDroid) or [StopScroll](https://play.google.com/store/apps/details?id=com.noscroll.antiscroll) - Control Phone Addiction
 * [The Freedom Model](https://www.thefreedommodel.org/ebooks/) - Addiction-Help Model / [Books](https://www.youtube.com/playlist?list=PLd6KCmnSpHuE29G2f9JXHMcZKbvzSdInw) / [Lessons](https://www.youtube.com/playlist?list=PLd6KCmnSpHuFBFw-ei2eTYJPrSoLuwBFL) / [Full Book](https://pastebin.com/0hDKEXnP)
