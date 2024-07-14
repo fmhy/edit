@@ -1184,7 +1184,7 @@ https://aniwow.in/ has only dubs though
 * [World Art](http://www.world-art.ru/) - Movie / Anime / Game Reviews and Art Display
 * [Cute Chan](https://kpop.re/) - K-Pop Imageboard
 
-## ▷ Downloading / Скачивать
+## ▷ Downloading / Скачивание
 
 * ⭐ **[4PDA](https://4pda.to/forum/)** - Android / iOS / [App](https://github.com/slartus/4pdaClient-plus)
 * [Androeed](https://androeed.store/), [2](https://androeed.ru/) - Android
@@ -1200,7 +1200,7 @@ https://aniwow.in/ has only dubs though
 * [KinoSoundtrack](https://www.kinosoundtrack.com/) - Soundtracks / MP3
 * [Course Hunter](https://coursehunter.net/) or [Sliwbl](https://s1.sliwbl.com/) - Programming Courses
 
-## ▷ Torrenting / Пиратить
+## ▷ Torrenting / Торрентинг
 
 * 🌐 **[toptracker](https://toptracker.ru/)** - Torrent Site List
 * 🌐 **[UpTracker](https://www.uptracker.ru/)** - Torrent Tracker Index
@@ -1230,7 +1230,7 @@ https://aniwow.in/ has only dubs though
 * [Selezen](https://www.selezen.club/) - Movies
 * [RGFootball](http://rgfootball.net/) - Sports
 
-## ▷ Streaming / Транслировать
+## ▷ Streaming / Стриминг
 
 * ⭐ **[rezka](https://rezka.ag/)**, [2](https://hdrezka.ag/) - Movies / TV / Anime / Sub / Dub / 4K / 1080p
 * ⭐ **[KinoProfi](https://content.kinoprofi.club/)** - Movies / TV / Cartoons / Dub / 1080p
@@ -1283,7 +1283,7 @@ https://aniwow.in/ has only dubs though
 * [Teach.in](https://teach-in.ru/) - Lectures
 * [videotuts](https://videotuts.ru/) - Design Video Tutorials
 
-## ▷ Reading / читать
+## ▷ Reading / Чтение
 
 * ⭐ **[CyberLeninka](https://cyberleninka.ru/)** - Articles / Educational / Scientific / Legal
 * ⭐ **[Lib.ru](http://lib.ru/)** - Books
