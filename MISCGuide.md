@@ -1401,7 +1401,8 @@
 * 🌐 **[Funny / Useless Sites](https://rentry.org/aksry2vc)**
 * 🌐 **[Websites From Hell](https://websitesfromhell.net/)** - Shitty Websites
 * 🌐 **[404PageFound](https://www.404pagefound.com/)** - Old Websites
-* ↪️ **[Random Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_random_generators)** - Random Site Generators
+* ↪️ **[Random Generators](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_random_generators)** - Random Site Generators
+* ⭐ **[Vijay's Virtual Vibes](https://vijaysvibes.uk/)** - Find Random Sites / [iFrame Version](https://vijaysvibes.uk/iframe-version.html)
 * ⭐ **[Project Random](https://0xbeef.co.uk/random)** or [The Red Button](https://clicktheredbutton.com/) - Random Video / Song Generators
 * ⭐ **[Copypasta Text](https://copypastatext.com/)** or [CopyPastaDB](https://copypastadb.com/) - Copypasta Databases
 * ⭐ **[CreepyPasta](https://www.creepypasta.com/)** - Creepypasta Database
@@ -1410,7 +1411,18 @@
 * ⭐ **[Drinking Game Zone](https://drinkinggamezone.com/)** - Drinking Games Encyclopedia
 * ⭐ **[PokeSmash](https://pokesmash.xyz/)** - Pokémon Smash or Pass
 * ⭐ **[Library of Babel](https://libraryofbabel.info/)** - Every Book of Past, Present, and Future
-* [Bouncing DVD Logo](https://www.bouncingdvdlogo.com/) - DVD Logo Screen
+* [The Red Button](https://clicktheredbutton.com/) - Find Random Sites 
+* [BoredButton](https://www.boredbutton.com/) - Find Random Sites 
+* [Sharkle!](https://sharkle.com/) - Find Random Sites 
+* [The Useless Web](https://theuselessweb.com/), [2](https://theuselessweb.site/) - Find Random Sites 
+* [JumpStick](https://jumpstick.app/) - Find Random Sites 
+* [OpenBulkURL](https://openbulkurl.com/random/) - Find Random Sites 
+* [The Forest](https://theforest.link/) - Find Random Sites 
+* [WhatsMYIP](http://random.whatsmyip.org/) - Find Random Sites 
+* [Random-Website](https://random-website.com/) - Find Random Sites 
+* [Wilderness Land](https://wilderness.land/) - Find Random Sites 
+* [CloudHiker](https://cloudhiker.net/) - Find Random Sites 
+* [Moonjump](https://moonjump.app/) - Find Random Sites 
 * [Things to Do](https://randomthingstodo.com/), [HobbyGenerator](https://hobbygenerator.com/) or [TheZen](https://thezen.zone/) - Activity Suggestions
 * [BoozeTube](https://boozetube.netlify.app/) - Turn Videos in Drinking Games
 * [rrrather](https://rrrather.com/) - Would You Rather
@@ -1439,13 +1451,7 @@
 * [Satania](https://satania.moe/) - Satania Waifu / [GitHub](https://github.com/Pizzacus/satania.moe)
 * [Skynet](https://pierrepapierciseaux.net/.skynet/?lang=en) - View Websites like they're from the 90's
 * [CameronsWorld](https://www.cameronsworld.net/) - 90's Themed Website
-* [World's Highest Website](https://worlds-highest-website.com/) - World's Longest Website
 * [Classic GTA Sites](https://classicgtasites.com/) - Original GTA Site
-* [Space Jam 1996](https://www.spacejam.com/1996/) - Original Space Jam Site
-* [Mario Mayhem](https://www.mariomayhem.com/) - Mario Fansite
-* [ILoveJarJarBinks](https://ilovejarjarbinks.tripod.com/) - Jar Jar Binks Fansite
-* [User Inyerface](https://userinyerface.com/) - Worlds Most Annoying Website
-* [TheMostAmazingWebsiteOnTheInternet](http://www.themostamazingwebsiteontheinternet.com/) - The Internets Best Website
 * [Objection!](https://objection.lol/) - Ace Attorney Objecting on Your Behalf
 * [The Death Generator](https://deathgenerator.com/) - Video Game Text Generator
 * [IASIP App](https://iasip.app/) - It's Always Sunny Title Generator
@@ -1465,28 +1471,3 @@
 * [Hair on Screen](https://chromewebstore.google.com/detail/hair-on-screen/egkikapjpndmjflbjjoondbihalgdjco) - Fake Hair on Screen Prank
 * [Hacktyper](https://hackertyper.net/), [Hoacks](https://hoacks.com/) or [Geektyper](https://geektyper.com/) - Fake Hacking Screen
 * [VeryLegit](https://verylegit.link/) or [Urlify](http://urlify.io/) - Make links look shady
-* [Busy Simulator](https://busysimulator.com/) - Pretend You're Busy
-* [PointerPointer](https://pointerpointer.com/) - Get Your Pointer Pointed At
-* [Splits](https://mana.works/splits) - Split or Fall
-* [Moments of Happiness](https://moments.epic.net/) - Animated WebGL Animals
-* [Pablo The Flamingo](https://pablotheflamingo.com/) - Party with Pablo
-* [The Pug in the Rug](https://puginarug.com/) - Watch the Pug be in the Rug
-* [MTA](http://mta.me/) - Create Sounds via NY Subway Movement
-* [Robotics.ovh](https://robotics.ovh/) - Robotics Dance
-* [StaggeringBeauty](http://www.staggeringbeauty.com/) - Party Worm (Warning: Contains Flashing Images)
-* [Slap Kirk](https://www.slapkirk.com/) - Slap Captain Kirk
-* [Slap Chris](https://slapchris.com/) - Slap Chris Rock
-* [Eel Slap](https://www.eelslap.com/) - Slap Guy with Eel
-* [Slide Ventura](https://slideventura.com/) - Ace Ventura Sliding Door Simulator
-* [CAT BOUNCE!](https://cat-bounce.com/) - Bounce Cats
-* [Long Doge Challenge](https://longdogechallenge.com/) - Worlds Longest Doge
-* [Endless Horse](http://endless.horse/) - Worlds Longest Horse
-* [Money printer go BRRR](https://brrr.money/) - Print it, baby!
-* [You wouldn't steal a website](https://youwouldntsteala.website/) - Steal a Website
-* [Shell Color Scripts](https://gitlab.com/dwt1/shell-color-scripts) - Terminal Color Scripts
-* [Bad Licenses](https://github.com/ErikMcClure/bad-licenses) - Funny Open Source Licenses Index
-* [Vim Cubed](https://github.com/oakes/vim_cubed) - Generate Cube Vim Text Editor
-* [Typewaiter](https://oisinmoran.com/typewaiter) - Endlessly Moving Typewriter
-* [Fontbutts](https://fontbutts.netlify.app/) - Create Butts with Different Fonts
-* [Do not open the door](http://mexicans.eu/) - Don't you dare...
-* [Dial-Up Sound](https://www.dialupsound.com/) - Dial-Up Sounds
