@@ -293,17 +293,9 @@
 * [VGArtbooks](https://vk.com/vgartbooks) - Video Game Artbooks
 * [Deep-Blue-Sea](http://library.deep-blue-sea.net/) - Self-Help
 * [The Eldritch Dark](http://www.eldritchdark.com/) - Clark Ashton Smith
-* [Appropedia](https://www.appropedia.org/) - Sustainability Wiki
 * [Auto-Brochures.com](https://www.auto-brochures.com/) - Auto Brochures
 * [QSL](https://rentry.co/FMHYBase64#qsl) - Ham Radio & Antenna Books
-* [FoodTimeLine](https://www.foodtimeline.org/) - Food History
-* [Erowid](https://www.erowid.org/) - Psychoactive Information
-* [PsychonautWiki](https://psychonautwiki.org/wiki/Main_Page) - Phychonauts Wiki
-* [Shroomery](https://www.shroomery.org/) - Magic Mushroom Forum
-* [HerbologyY](https://t.me/HerbologyY) - Herbology / Telegram
-* [Film Books](https://rentry.co/FMHYBase64#film-books) - Books about Films
-* [HypnosisChatBooks](https://t.me/HypnosisChatBooks) - Hypnosis / Telegram
-* [diyhpluswiki](https://diyhpl.us/wiki/) - DIY Biohacking
+* [Film Books](https://rentry.co/FMHYBase64#film-books) - Film Books
 * [The Trove](https://web.archive.org/web/20210614215400/https://thetrove.is/) - Books / Fantasy / TTRPG
 * [DriveThruRPG](https://www.drivethrurpg.com/browse.php?pfrom=&pto=0&x=0&y=0) or [TTRPG Torrent](https://rentry.co/FMHYBase64#ttrpg-books) - TTRPG Books
 * [Trans Reads](https://transreads.org/) - Transgender-focused Literature
@@ -314,7 +306,6 @@
 * [Red Texts](https://redtexts.org/) - Communism
 * [Communism Essays / FAQs](https://dessalines.github.io/essays) - Communism
 * [Third World Traveler](https://thirdworldtraveler.com/) - Human Rights / Conspiracies / Anti-War
-* [Rookie Road]( https://www.rookieroad.com/) - Sport Guides
 
 ***
 
