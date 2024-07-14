@@ -10,7 +10,7 @@ footer: true
 ---
 # What is Retro Rewind?
 
-[Retro Rewind](https://wiki.tockdom.com/wiki/Retro_Rewind) is a Mario Kart Wii custom track distribution that features ***every retro track*** from Super Mario Kart to Mario Kart 7, as well as some from Mario Kart 8 and Mario Kart Tour, totaling 152. Retro Rewind can be played online in public rooms with Dolphin Emulator, a Wii or WiiU.
+[Retro Rewind](https://discord.gg/UxHmgNdPxw) is a Mario Kart Wii custom track distribution that features ***every retro track*** from Super Mario Kart to Mario Kart 7, as well as some from Mario Kart 8 and Mario Kart Tour, totaling 152. Retro Rewind can be played online in public rooms with Dolphin Emulator, a Wii or WiiU.
 
 It also features many [enhancements](https://ibb.co/RCckmdT) such as:
 
@@ -27,7 +27,7 @@ It also features many [enhancements](https://ibb.co/RCckmdT) such as:
 
 # PC Setup Guide
 
-1. Download [Mario Kart Wii](https://fmhy.net/), or [dump your disc](https://youtu.be/36nNq49tfSM). 
+1. Download Mario Kart Wii, or [dump your disc](https://youtu.be/36nNq49tfSM). 
 1. Download [Dolphin](https://dolphin-emu.org/download/) and [extract it](https://fmhy.net/file-tools#file-archivers).
 1. Open Dolphins controller tab and set up your controller. For gamecube you'll need an [adapter](https://dolphin-emu.org/docs/guides/how-use-official-gc-controller-adapter-wii-u/).
 1. Download [WheelWizard](https://github.com/patchzyy/WheelWizard/releases), go to settings, [set the paths](https://ibb.co/WHqWgcb), click save, select home, run the installer. 
