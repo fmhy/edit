@@ -33,6 +33,8 @@ It also features many [enhancements](https://ibb.co/RCckmdT) such as:
 1. Download [WheelWizard](https://github.com/patchzyy/WheelWizard/releases), go to settings, [set the paths](https://ibb.co/WHqWgcb), click save, select home, run the installer. 
 1. Go back to settings, select "Launch Mii channel," create a Mii to use for your license, and that's it, you can now launch and play Retro Rewind!
 
+**Note** - WheelWizard can be slow, especially if you're installing RR for the first time, so it may be worth doing  [manually](https://youtu.be/ZiQ7WAOlJOk) instead to speed up the process.
+
 ***
 
 # Wii / WiiU Setup Guide
