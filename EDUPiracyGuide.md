@@ -149,14 +149,22 @@
 * [CuriousCat](https://curiouscat.live/) or [RetroSpring](https://retrospring.net/) - Q&A Communities
 * [LitCharts](https://www.litcharts.com/) - Literature Guides
 * [Bridge Command](https://www.bridgecommand.co.uk/) - Bridge Command Ship Simulator
+* [Appropedia](https://www.appropedia.org/) - Sustainability Wiki
 * [British & Exotic Mineralogy](https://www.c82.net/mineralogy/) - Mineralogy Database
 * [AirVectors](https://www.airvectors.net/) - Aircraft Wiki
+* [Rookie Road]( https://www.rookieroad.com/) - Sport Guides
 * [Animated Knots](https://www.animatedknots.com/) or [NetKnots](https://www.netknots.com/) - Learn to Tie Knots
 * [Ian's Shoelace Site](https://www.fieggen.com/shoelace/) - Learn to Tie Shoelaces
 * [Perry Morse](https://www.perry.qa/morse), [Morse Typing Trainer](https://morse.withgoogle.com/learn/) or [ICWO](https://lcwo.net/) - Learn / Practice Morse Code
-* [Lock Picking 101](https://www.lockpicking101.com/) - Lock Picking Forum 
+* [Lock Picking 101](https://www.lockpicking101.com/) - Lock Picking Forum
+* [diyhpluswiki](https://diyhpl.us/wiki/) - DIY Biohacking
 * [BeatBlackjack](https://www.beatblackjack.org/) - Learn Blackjack Card Counting
 * [ActivistHandbook](https://activisthandbook.org/) - Campaigning / Activism Guides
+* [Erowid](https://www.erowid.org/) - Psychoactive Information
+* [PsychonautWiki](https://psychonautwiki.org/wiki/Main_Page) - Phychonauts Wiki
+* [Shroomery](https://www.shroomery.org/) - Magic Mushroom Forum
+* [HerbologyY](https://t.me/HerbologyY) - Herbology / Telegram
+* [HypnosisChatBooks](https://t.me/HypnosisChatBooks) - Hypnosis / Telegram
 * [P2PU](https://www.p2pu.org/) - Join Learning Groups Using Free Courses
 
 ***
