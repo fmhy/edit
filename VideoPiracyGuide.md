@@ -485,6 +485,7 @@
 * [Footballia](https://footballia.net/), [2](https://footballia.eu/) - Soccer Replays
 * [Footyfull](https://footyfull.com/) - Soccer Replays
 * [/r/footballhighlights/](https://www.reddit.com/r/footballhighlights/) - Soccer Replays
+* [Full Match](https://fullmatch.info/) - Soccer Replays / Avoid Fake Download Buttons
 * [Sport Video](https://www.sport-video.org.ua/) - Sports Replays / Torrents
 * [WatchWrestling.ae](https://watchwrestling.ae/) - MMA / Wrestling Replays
 * [WatchWrestling.wtf](https://watchwrestling.wtf/) - MMA / Wrestling Replays
