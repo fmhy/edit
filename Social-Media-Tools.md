@@ -365,7 +365,7 @@
 * [RapidTags](https://www.rapidtags.io/) - YouTube Tag Generators
 * [songs-to-youtube](https://github.com/7x11x13/songs-to-youtube) - Upload Audio to YouTube Automatically
 * [YouBit](https://github.com/MeViMo/youbit) - Use YouTube as File Host
-* [ytcropper](https://ytcropper.com/), [yt_clipper](https://github.com/exwm/yt_clipper) or [YTCutter.com](https://ytcutter.com/) - Crop YouTube Videos / Create Clips
+* [ytcropper](https://ytcropper.com/), [yt_clipper](https://github.com/exwm/yt_clipper), [Apps Golem](https://appsgolem.com/en/cut-youtube-video) or [YTCutter.com](https://ytcutter.com/) - Crop YouTube Videos / Create Clips
 * [YTStamps](https://ytstamps.netlify.app/) - Create Custom Start / End Times
 * [Solidpoint](https://solidpoint.ai/), [Glasp](https://glasp.co/youtube-summary), [Glarity](https://glarity.app/), [Quickvid](https://quickvid.vercel.app/), [Eightify](https://eightify.app/), [VideoGist](https://www.videogist.co/)[VideoHighlight](https://videohighlight.com/), [Clipnote](https://clipnote.ai/) or [Summarize](https://summarize.tech/)- Summarize YouTube Videos
 * [Stepify](https://stepify.tech/) - Get Step-By-Step Tutorial of YT Video
