@@ -51,7 +51,7 @@
 # ► Ebooks
 
 * ↪️ **[Telegram Ebook Channels](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_telegram_ebook_download)**
-* ⭐ **[Anna’s Archive](https://annas-archive.gs/)**, [2](https://annas-archive.se/) - Books / Comics / Educational / [Expand Downloads](https://greasyfork.org/en/scripts/494262)
+* ⭐ **[Anna’s Archive](https://annas-archive.org/)**, [2](https://annas-archive.se/), [3](https://annas-archive.li/), [4](https://annas-archive.gs/) - Books / Comics / Educational / [Expand Downloads](https://greasyfork.org/en/scripts/494262) / [Host Mirror](https://annas-archive.se/mirrors)
 * ⭐ **[Library Genesis](https://libgen.is)** - Books / Comics / Manga / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_libgen_tools) / [Mirrors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_libgen__mirrors)
 * ⭐ **[Z-Library](https://singlelogin.re/)**, [2](https://singlelogin.rs/) - Books / Comics / Educational / [Desktop / Extensions](https://zlibrary-qq.re/), [2](https://go-to-library.sk/) / [.Onion](http://loginzlib2vrak5zzpcocc3ouizykn6k5qecgj2tzlnab5wcbqhembyd.onion/) / [Subreddit](https://www.reddit.com/r/zlibrary/) / [Telegram](https://t.me/zlibrary_official)
 * ⭐ **[Liber3](https://liber3.eth.limo/)** - Books / [Telegram](https://t.me/liber3eth)
