@@ -61,7 +61,7 @@ It also features many [enhancements](https://ibb.co/RCckmdT) such as:
 
 ***
 
-**Official Downloads**
+**Official Wiki**
 
 https://wiki.tockdom.com/wiki/Retro_Rewind
 
