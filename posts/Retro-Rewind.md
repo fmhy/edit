@@ -30,10 +30,8 @@ It also features many [enhancements](https://ibb.co/RCckmdT) such as:
 1. Download Mario Kart Wii, or [dump your disc](https://youtu.be/36nNq49tfSM). 
 1. Download [Dolphin](https://dolphin-emu.org/download/) and [extract it](https://fmhy.net/file-tools#file-archivers).
 1. Open the controller tab, set the [gamecube port](https://i.ibb.co/jTGZdKx/image.png) to your main controller, and the [wiimote](https://i.ibb.co/wYk0R4L/image.png) to your mouse.
-1. Download [WheelWizard](https://github.com/patchzyy/WheelWizard/releases), go to settings, [set the paths](https://ibb.co/WHqWgcb), click save, select home, run the installer. 
+1. Download [WheelWizard](https://github.com/patchzyy/WheelWizard/releases), go to settings, [set the paths](https://ibb.co/WHqWgcb), click save, select home, run the installer.
 1. Go back to settings, select "Launch Mii channel," create a Mii to use for your license, and that's it, you can now launch and play Retro Rewind via WheelWizard!
-
-**Note** - WheelWizard can be slow, especially if you're installing RR for the first time, so it may be worth doing [manually](https://youtu.be/ZiQ7WAOlJOk) instead to speed up the process. To use a real gamecube controller on PC you'll need an [adapter](https://dolphin-emu.org/docs/guides/how-use-official-gc-controller-adapter-wii-u/).
 
 ***
 
@@ -44,7 +42,7 @@ It also features many [enhancements](https://ibb.co/RCckmdT) such as:
 1. Install the Homebrew Channel using this [guide for Wii](https://wii.hacks.guide/) or this [guide for WiiU](https://youtu.be/w44Iz3HQuIo).
 1. Download [Retro Rewind](https://discord.gg/UxHmgNdPxw) and drag the files to your SD card.
 1. Plug your SD card into your Wii and launch Homebrew. 
-1. You can launch Retro Rewind from here, but follow the steps below get get a Wii system channel.
+1. You can launch Retro Rewind from here, but follow the steps below get get a Wii system channel / updater.
 1. Launch YAWM Modmii in Homebrew, select your SD card, and install the RetroRewind.wad for the console you're on. Thats it, you now have a Retro Rewind system channel and updater. If the channel updater wont work just download the files manually and replace them in your SD.
 
 **[Video Guide](https://youtu.be/qH4ou21r8ic)**
@@ -53,11 +51,17 @@ It also features many [enhancements](https://ibb.co/RCckmdT) such as:
 
 # Things to Note
 
+* WheelWizard can be slow, especially if you're installing RR for the first time, so it may be worth doing [manually](https://youtu.be/ZiQ7WAOlJOk) instead to speed up the process. 
+
 * You need to turn on things like inside drift, fast menus, and finishing times in the Retro Rewind settings.
 
-* Open-Host can be enabled by pressing start or + on the Retro WFC friend menu. This will allow anyone to join your games via friend code, even if you don't have them added yourself.
-
 * Retro Rewind uses a modified version of WiiLink, meaning it does NOT require a NAND to play online with Dolphin.
+
+* If using your mouse as a wiimote isn't working well, try switching to "above tv" in Wii settings. 
+
+* To use a real gamecube controller on PC you'll need an [adapter](https://dolphin-emu.org/docs/guides/how-use-official-gc-controller-adapter-wii-u/).
+
+* Open-Host can be enabled by pressing start or + on the Retro WFC friend menu. This will allow anyone to join your games via friend code, even if you don't have them added yourself.
 
 * If you don't know anything about Mario Kart Wii, or why it has a cult following 16 years after its release, I'd suggest checking out [TWD98](https://www.youtube.com/@TWD98). Troy plays a lot, so its a good way to learn about the game and improve.
 
