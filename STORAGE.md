@@ -486,12 +486,13 @@
 ## Geometry Dash Demon Lists
 
 * ⭐ **[Pointercrate](https://pointercrate.com/demonlist/)** - Original Demon List / [Stats Viewer](https://pointercrate.com/demonlist/statsviewer/)
-* [Challenge List](https://challengelist.gd/challenges/) - GD Challenge Level List
+* [Challenge List](https://challengelist.gd/challenges/) - Challenge Level List
 * [AREDL](https://aredl.net/) - All Rated Extreme Demons List
 * [UDL](https://udl.pages.dev/) - Unrated Demons List
 * [DemonList](https://demonlist.com/platformer/rated) - Platformer Demon List
 * [IDL](https://insanedemonlist.com/) - Insane Demon List
 * [MobileWRList](https://gdmobilewrlist.com/main) - Mobile World Records List
+* [HRR Mobile List](https://mobilepointercrate.com/) - High Refresh Rate Mobile List
 * [Impossible Levels List](https://docs.google.com/document/d/1byBf60vW_Tq7TjQPyniBxQ1Iw9CtSURJU4_Cl1IziqY/edit)
 * [Nine Circles Demonlist](https://sites.google.com/view/nine-circles-demonlist/home)
 
