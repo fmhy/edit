@@ -355,7 +355,7 @@
 
 ## ▷ Manga
 
-* 🌐 **[Wotaku](https://wotaku.moe/websites#manga)** - Manga Sites Index
+* 🌐 **[Wotaku](https://wotaku.moe/websites#manga)** - Manga Sites Index / [Discord](https://discord.gg/vShRGx8ZBC)
 * 🌐 **[The Index](https://theindex.moe/library/manga)** - Manga Sites Index / [Discord](https://discord.gg/Snackbox) / [Wiki](https://thewiki.moe/)
 * 🌐 **[EverythingMoe](https://everythingmoe.com/#section-manga)** - Manga Sites Index / [Discord](https://discord.gg/GuueaDgKdS)
 * ↪️ **[Manga Readers / Managers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_manga_readers)**
@@ -429,6 +429,7 @@
 
 ## ▷ Light Novels
 
+* 🌐 **[Wotaku](https://wotaku.moe/websites#novels)** - Light Novel Index / [Discord](https://discord.gg/vShRGx8ZBC)
 * 🌐 **[EverythingMoe](https://everythingmoe.com/#section-novel)** - Light Novel Sites Index / [Discord](https://discord.gg/GuueaDgKdS)
 * 🌐 **[The Index](https://theindex.moe/library/novels)** - Light Novel Site Index / [Discord](https://discord.gg/Snackbox) / [Wiki](https://thewiki.moe/)
 * ⭐ **[Novel Updates](https://www.novelupdates.com/)**

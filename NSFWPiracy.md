@@ -311,6 +311,7 @@
 
 ## ▷ Hentai Anime
 
+* 🌐 **[Wotaku](https://wotaku.moe/nsfw#anime)** - Hentai Anime Index / [Discord](https://discord.gg/vShRGx8ZBC)
 * 🌐 **[The Index](https://theindex.moe/library/hentai)** or [Best Hentai Sites](https://besthentaisites.github.io/) - Hentai Site Lists
 * 🌐 **[EverythingMoe](https://everythingmoe.com/?nsfw=true#section-hentai)** - Hentai Sites Index
 * 🌐 **[/cumg/](https://rentry.co/coom)** - Hentai Resources
@@ -379,6 +380,7 @@
 
 ## ▷ Hentai Manga / Comics
 
+* 🌐 **[Wotaku](https://wotaku.moe/nsfw#manga)** - Hentai Manga Index / [Discord](https://discord.gg/vShRGx8ZBC)
 * 🌐 **[EverythingMoe](https://everythingmoe.com/?nsfw=true#section-hentairead)** - Hentai Manga / Comics Index
 * ⭐ **[E-Hentai](https://e-hentai.org/)** or [ExHentai](https://exhentai.org/) - Hentai Manga / Comics
 * ⭐ **E-Hentai Tools** - [Android Client](https://github.com/honjow/FEhViewer) / [Deleted Galleries](https://panda.chaika.moe/) / [Downloader](https://gitlab.com/squishydreams/pandaforever), [2](https://github.com/ccloli/E-Hentai-Downloader)
@@ -468,6 +470,7 @@
 
 ## ▷ Games
 
+* 🌐 **[Wotaku](https://wotaku.moe/nsfw#games)** - Eroge Index / [Discord](https://discord.gg/vShRGx8ZBC)
 * 🌐 **[EverythingMoe](https://everythingmoe.com/?nsfw=true#section-games)** - Hentai Games Index
 * ⭐ **[F95Zone](https://f95zone.to/)**
 * ⭐ **[Nyaa Sukebei](https://sukebei.nyaa.si/)**
