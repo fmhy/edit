@@ -485,15 +485,15 @@
 
 ## Geometry Dash Demon Lists
 
-* ⭐ **[Original Demon List](https://pointercrate.com/demonlist/)**
-* [Challenge List](https://challengelist.gd/challenges/)
-* [Unrated Demons List](https://udl.pages.dev/#/)
-* [Rated Extremes List](https://aredl.net/list/86407629)
-* [Demon List](https://www.demonlist.com/)
+* ⭐ **[Pointercrate](https://pointercrate.com/demonlist/)** - Original Demon List / [Stats Viewer](https://pointercrate.com/demonlist/statsviewer/)
+* [Challenge List](https://challengelist.gd/challenges/) - GD Challenge Level List
+* [AREDL](https://aredl.net/) - All Rated Extreme Demons List
+* [UDL](https://udl.pages.dev/) - Unrated Demons List
+* [DemonList](https://demonlist.com/platformer/rated) - Platformer Demon List
+* [IDL](https://insanedemonlist.com/) - Insane Demon List
+* [MobileWRList](https://gdmobilewrlist.com/main) - Mobile World Records List
 * [Impossible Levels List](https://docs.google.com/document/d/1byBf60vW_Tq7TjQPyniBxQ1Iw9CtSURJU4_Cl1IziqY/edit)
-* [Nine Circles List](https://sites.google.com/view/nine-circles-demonlist/main-list)
-* [HRR Mobile List](https://mobilepointercrate.com/)
-* [60hz Mobile List](https://sites.google.com/view/gd-mobile-lists/top-100-demons-completed?authuser=0)
+* [Nine Circles Demonlist](https://sites.google.com/view/nine-circles-demonlist/home)
 
 ***
 
