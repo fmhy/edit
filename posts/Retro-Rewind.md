@@ -31,7 +31,7 @@ It also features many [enhancements](https://ibb.co/RCckmdT) such as:
 1. Download [Dolphin](https://dolphin-emu.org/download/) and [extract it](https://fmhy.net/file-tools#file-archivers).
 1. Open the controller tab, set the [gamecube port](https://i.ibb.co/jTGZdKx/image.png) to your main controller, and the [wiimote](https://i.ibb.co/wYk0R4L/image.png) to your mouse.
 1. Download [WheelWizard](https://github.com/patchzyy/WheelWizard/releases), go to settings, [set the paths](https://ibb.co/WHqWgcb), click save, select home, run the installer. 
-1. Go back to settings, select "Launch Mii channel," create a Mii to use for your license, and that's it, you can now launch and play Retro Rewind!
+1. Go back to settings, select "Launch Mii channel," create a Mii to use for your license, and that's it, you can now launch and play Retro Rewind via WheelWizard!
 
 **Note** - WheelWizard can be slow, especially if you're installing RR for the first time, so it may be worth doing [manually](https://youtu.be/ZiQ7WAOlJOk) instead to speed up the process. To use a real gamecube controller on PC you'll need an [adapter](https://dolphin-emu.org/docs/guides/how-use-official-gc-controller-adapter-wii-u/).
 
