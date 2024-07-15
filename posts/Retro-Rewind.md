@@ -55,6 +55,8 @@ It also features many [enhancements](https://ibb.co/RCckmdT) such as:
 
 * You need to turn on things like inside drift, fast menus, and finishing times in the Retro Rewind settings.
 
+* Open-Host can be enabled by press start or + on the Retro WFC main menu. This will allow anyone to join your games via friend code, even if you don't have them added yourself.
+
 * Retro Rewind uses a modified version of WiiLink, meaning it does NOT require a NAND to play online with Dolphin.
 
 * If you don't know anything about Mario Kart Wii, or why it has a cult following 16 years after its release, I'd suggest checking out [TWD98](https://www.youtube.com/@TWD98). Troy plays a lot, so its a good way to learn about the game and improve.
