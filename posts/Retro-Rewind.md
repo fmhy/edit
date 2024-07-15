@@ -21,6 +21,7 @@ It also features many [enhancements](https://ibb.co/RCckmdT) such as:
 * Vehicles can brake while drifting, making all tracks playable, and more vehicles viable.
 * Ability to change or randomize vehicle/character combo between races.
 * Significantly faster menu animations and load times between races.
+* Online Time Trial mode is available in multiplayer.
 * Unpopular modes like 100cc and mirror have been removed from online.
 
 ***
