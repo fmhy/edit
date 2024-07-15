@@ -10,7 +10,7 @@ footer: true
 ---
 # What is Retro Rewind?
 
-[Retro Rewind](https://discord.gg/UxHmgNdPxw) is a Mario Kart Wii custom track distribution that features ***every retro track*** from Super Mario Kart to Mario Kart 7, as well as some from Mario Kart 8 and Mario Kart Tour, totaling 152. Retro Rewind can be played online in public rooms with Dolphin Emulator, a Wii or WiiU.
+[Retro Rewind](https://discord.gg/qbr3Y4PJFH) is a Mario Kart Wii custom track distribution that features ***every retro track*** from Super Mario Kart to Mario Kart 7, as well as some from Mario Kart 8 and Mario Kart Tour, totaling 152. Retro Rewind can be played online in public rooms with Dolphin Emulator, a Wii or WiiU.
 
 It also features many [enhancements](https://ibb.co/RCckmdT) such as:
 
@@ -73,7 +73,7 @@ https://wiki.tockdom.com/wiki/Retro_Rewind
 
 **Discord Server**
 
-https://discord.gg/UxHmgNdPxw
+https://discord.gg/qbr3Y4PJFH
 
 **ZPL's Hideaway**
 
