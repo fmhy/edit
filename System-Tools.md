@@ -487,7 +487,7 @@
 * [Scenic Illustrations](https://www.pixeltrue.com/scenic-illustrations) - Landscape Wallpapers
 * [CoolBackgrounds](https://coolbackgrounds.io/) or [wallup](https://wallup.net/) - Customizable Wallpapers
 * [Simple Desktops](https://simpledesktops.com/), [Positron Dream](https://www.positrondream.com/) or [SetAsWall](https://www.setaswall.com/) - Minimalistic Wallpapers
-* [/r/LivingBackgrounds](https://reddit.com/r/LivingBackgrounds), [Lively](https://www.rocksdanister.com/lively/), [WALLegend](https://wallegend.net/en/) or [MoeWalls](https://moewalls.com/) - Animated Wallpapers
+* [/r/LivingBackgrounds](https://reddit.com/r/LivingBackgrounds), [WALLegend](https://wallegend.net/en/) or [MoeWalls](https://moewalls.com/) - Animated Wallpapers
 * [AutoWall](https://github.com/SegoCode/AutoWall) - Turn Videos / GIFs to Live Wallpapers
 * [Screencaps](https://screencaps.us/) or [shot.cafe](https://shot.cafe/) - Movie / TV Wallpapers
 * [Anime Pictures](https://anime-pictures.net/), [N0va](https://n0vadp.hoyoverse.com), [Anime_WallpapersHD](https://t.me/Anime_WallpapersHD/), [WallpaperWaifu](https://wallpaperwaifu.com/) or [MyLiveWallpapers](https://mylivewallpapers.com/) - Anime Wallpapers
@@ -514,6 +514,7 @@
 ## ▷ Wallpaper Managers
 
 * ⭐ **[Wallpaper Engine](https://rentry.co/FMHYBase64#wallpaper-engine)** - Wallpaper Manager / [PKG to Zip](https://github.com/TheRioMiner/Wallpaper-Engine-Pkg-to-Zip) / [Collections](https://www.wallpaperengine.space/collections), [2](https://steamcommunity.com/sharedfiles/filedetails/?id=2801058904) / [Workshop DL](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_steam_workshop_downloaders)
+* [Lively](https://www.rocksdanister.com/lively/) - Live Wallpaper Manager
 * [DualMonitorBackgrounds](https://www.dualmonitorbackgrounds.com/) or [WallpaperFusion](https://www.wallpaperfusion.com/) - Dual Monitor Wallpapers
 * [ScreenPlay](https://screen-play.app/) - Wallpaper Manager
 * [backiee](https://apps.microsoft.com/store/detail/backiee-wallpaper-studio-10/9WZDNCRFHZCD) - Wallpaper Manager
