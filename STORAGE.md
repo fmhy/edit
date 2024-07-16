@@ -428,7 +428,6 @@
 * [Game-icons](https://game-icons.net/) - Game Icons
 * [r/GameAssets](https://www.reddit.com/r/gameassets/) - Reddit Community
 * [UnityAssets4Free](https://unityassets4free.com/) - Free Paid Unity Assets
-* [Incern](https://www.incern.org/) - Free Unity Assets
 * [AssetRipper](https://github.com/AssetRipper/AssetRipper) / [Discord](https://discord.gg/XqXa53W2Yh) or [AssetStudio](https://github.com/zhangjiequan/AssetStudio) - Extract Assets from Unity Files 
 * [CraftPix](https://craftpix.net/freebies/) - 2D Game Assets
 * [xonotic](https://github.com/xonotic) or [Warsow](https://github.com/Warsow) - FPS Game Assets
