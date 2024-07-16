@@ -1340,7 +1340,7 @@
 * [VCSI](https://github.com/amietn/vcsi) - Create Video Contact Sheets / Thumbnails
 * [VMAF](https://github.com/Netflix/vmaf) - Video Quality Assessment
 * [Video Llava](https://replicate.com/nateraw/video-llava) - Video Description AI
-* [TinyVid](https://kamua.com/tinyvid), [VideoSmaller](https://www.videosmaller.com/), [YouCompress](https://www.youcompress.com/), [Compress Video Online](https://compress-video-online.com/), [8mb.video](https://8mb.video/) or [MP4Compress](https://www.mp4compress.com/) - Video Compressors
+* [VideoSmaller](https://www.videosmaller.com/), [YouCompress](https://www.youcompress.com/), [Compress Video Online](https://compress-video-online.com/), [8mb.video](https://8mb.video/) or [MP4Compress](https://www.mp4compress.com/) - Video Compressors
 * [videoduplicatefinder](https://github.com/0x90d/videoduplicatefinder) - Duplicate Video Finder
 * [SimSwap](https://github.com/neuralchen/SimSwap) or [Roop](https://github.com/s0md3v/roop) - Video Face Swap Tools
 * [ImgBurn](https://www.majorgeeks.com/files/details/imgburn.html), [DVDStyler](https://www.dvdstyler.org/en/), [DeepBurner](https://www.deepburner.com/) or [Alcohol Soft](https://www.alcohol-soft.com/) - CD / DVD Burning
@@ -1514,7 +1514,6 @@
 * [Caracal Club](https://caracal.club/)
 * [CyTube](https://cytu.be/)
 * [VideoTogether](https://2gether.video/en-us/)
-* [PotatoLand](https://potato.land/)
 * [baked.live](https://baked.live/)
 * [Rave.io](https://rave.io/)
 * [twoseven](https://twoseven.xyz/)
@@ -1624,6 +1623,7 @@
 
 ## ▷ Kodi Tools
 
+* ⭐ **[Elementum](https://elementum.surge.sh/)** - Torrent Streaming / Trakt Sync
 * [EverythingKodi](https://rumble.com/c/EverythingKodi) - Kodi Addon Tutorials
 * [Kodi Builds Chart](https://kodiapps.com/builds-chart)
 * [r/Addons4Kodi](https://www.reddit.com/r/Addons4Kodi/) / [Tracker](https://kinkeadtech.com/best-kodi-streaming-addons/) / [Trending](https://kodiapps.com/addons-chart) - Kodi Addons
@@ -1631,7 +1631,11 @@
 * [quasar](https://quasar.surge.sh/) - Torrent Plugin
 * [IPTV Client](https://kodi.wiki/view/Add-on:PVR_IPTV_Simple_Client)
 * [Simkl](https://simkl.com/) - Media Tracker
-* [Elementum](https://elementum.surge.sh/) - Trakt Sync
+
+
+
+It integrates with kodi to play movies from torrents. It is something like torrentio + stremio
+
 * [mediaelch](https://github.com/komet/mediaelch) - Media Manager
 
 ***
