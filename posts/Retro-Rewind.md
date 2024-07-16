@@ -85,3 +85,9 @@ https://discord.gg/jczByGAqb6
 **YouTube Channel**
 
 https://www.youtube.com/@ZPL__/
+
+**Guide Links**
+
+https://redd.it/1dzerns 
+
+https://fmhy.net/posts/Retro-Rewind
