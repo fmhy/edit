@@ -600,7 +600,6 @@ https://aniwow.in/ has only dubs though
 * [OnlineMoviesHindi](https://111.90.159.132/) - Movies / TV / Sub / Dub / 720p
 * [Mp4Moviez](https://www.mp4moviez.bingo/) - Movies / TV / 480p / [Telegram](https://t.me/mp4moviezofficial1)
 * [aFimlyWap](https://www.afilmywap.org.vc/) - Movies / TV / 480p / [Telegram](https://telegram.me/+QkTcitP80VplMzhl)
-* [NamasteSerials](https://namasteserials.com/) - TV / Sub / Dub / 720p
 * [Cloudy](https://cloudy.pk/) - Movies / TV / Cartoons / Sub / Dub / 720p / [Telegram](https://t.me/cloudy_pk)
 * [MovieHDPlus](https://www.moviehdplus.com/) - South Asian Movies / TV / Sub / Dub / 720p
 * [HindiPix](https://hindipix.com/) - Movies / TV / Dub / 720p
@@ -1702,6 +1701,7 @@ https://aniwow.in/ has only dubs though
 * ⭐ **[J2team](https://www.facebook.com/groups/j2team.community)** - Tech Community
 * ⭐ **[Unikey](https://www.unikey.org/en/)**, [Vietkey](https://vietkey.com.vn/) or [EVkey](https://evkeyvn.com/) - Vietnamese Typing Software
 * [Quantrimang](https://quantrimang.com/), [Anonyviet](https://anonyviet.com/) - Tech News
+* [VozForums](https://vozforum.org/) - Tech Forum
 * [Phudeviet](http://phudeviet.org/) - Subtitles
 * [CocCoc](https://coccoc.com/search) - Search
 * [Speedtest](https://speedtest.vn/), [Vinahost](https://speedtest.vinahost.vn/) - Internet Speed Test
