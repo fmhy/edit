@@ -9,7 +9,7 @@ hero:
   tagline: The largest collection of free stuff on the internet!
   prelink:
     title: Check out Retro Rewind!
-    link: /posts/retro-rewind
+    link: /posts/Retro-Rewind
   image:
     src: /test.png
     alt: FMHY Icon
