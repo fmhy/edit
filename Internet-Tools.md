@@ -156,6 +156,7 @@
 * [Hipolink](https://hipolink.net/)
 * [Linkr](https://linkr.com/)
 * [LinkPop](https://linkpop.com/)
+* [Mylinx](https://mylinx.cc/)
 * [LinkBun](https://linkbun.io)
 * [pronouns.cc](https://pronouns.cc/) - Share Preferred Pronouns
 * [seemless](https://www.linkinbio.website/) - Link in Bio for Tiktok & Instagram
