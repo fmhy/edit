@@ -163,7 +163,7 @@
 
 ***
 
-## ▷ App Dev Tools
+## ▷ Mobile Dev Tools
 
 * 🌐 **[AndroidRepo](https://androidrepo.com/)** - Android Development Resources
 * 🌐 **[Awesome iOS](https://github.com/vsouza/awesome-ios)** - iOS Development Resources
