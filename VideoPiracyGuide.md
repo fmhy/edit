@@ -30,6 +30,7 @@
 * [CinemaUnlocked](https://cinemaunlocked.com/) - Movies / TV / Anime / 1080p
 * [M4uFree](https://m4ufree.se/) - Movies / TV / Anime / 1080p / [Mirrors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_m4ufree_clones)
 * [PlayFlix](https://playflix.ru/) - Movies / TV / Anime / 4K / 1080p
+* [CriaFlix](https://criaflix.live/) - Movies / TV / Anime / 1080p / [Discord](https://discord.com/z72kQpKRUP)
 * [123MoviesFree](https://ww2.123moviesfree.net/) - Movies / TV / Anime / 1080p
 * [Way2Movies](https://way2movies.vercel.app/) - Movies / TV / Anime / 4K
 * [WatchNest](https://watchnest.site/), [2](https://watchnest.top/), [3](https://watchnest.xyz/) - Movies / TV / Anime / 4K / 1080p / [Discord](https://discord.gg/n2sjPKcZ)
