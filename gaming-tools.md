@@ -237,7 +237,6 @@
 * [SaveGame.Pro](https://savegame.pro/) - PC
 * [Saves For Games](https://savesforgames.com/) - PC
 * [Save Editor Online](https://www.saveeditonline.com/) - Game Save Editor
-* [MegaGames](https://megagames.com/), [GTrainers](https://gtrainers.com/) or [GameCopyWorld](https://www.gamecopyworld.com/games/index.php) - Game Trainers
 
 ***
 
@@ -269,9 +268,7 @@
 * [GameGuides](https://www.gamerguides.com/), [Retro Guides](https://rentry.co/FMHYBase64#retro-game-strategy-guides), [Game8](https://game8.co/), [StrategyWiki](https://strategywiki.org/), [Samurai Gamers](https://samurai-gamers.com/), [UHS Hints](https://www.uhs-hints.com/) or [Kirklands](https://archive.org/details/kirklands-manual-labor-sony-playstation-2-usa-4k-version) - Game Guides
 * [Piper](https://github.com/libratbag/piper) - Gaming Mouse Config Tool
 * [LiveSplit](https://livesplit.org/) - Customizable Speedrun Timer
-* [TASVideos](https://tasvideos.org/) - Watch and Publish Tool Assisted Speedruns
 * [Tomatoanus](https://www.youtube.com/@tomatoanus/) - Speedrun Breakdowns
-* [BakkesMod](https://bakkesmod.com/) - Rocket League Trainer
 * [ReplacementDocs](http://replacementdocs.com/) or [GamesDatabase](https://www.gamesdatabase.org/) - Game Manuals
 * [SNES Manuals](https://sites.google.com/view/snesmanuals) - SNES Game Manuals
 * [FOUR.lol](https://four.lol/) - Tetris Openers Wiki
@@ -548,7 +545,6 @@
 * 🌐 **[ChunkBase](https://www.chunkbase.com/apps/)** - Minecraft Map Tools
 * 🌐 **[TMC Links](https://gist.github.com/JoakimThorsen/e90bd7a588af25ae529530987d9acc8a)** - Technical Minecraft Resources
 * 🌐 **[ShaderLABS](https://shaderlabs.org/wiki/Main_Page)** - Shader Comparisons and Resources
-* 🌐 **[Minecraft TAS](https://minecrafttas.com/)** - All about Minecraft Tool-Assisted Speedruns
 * ↪️ **[Minecraft Server Hosts / Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_minecraft_hosting)**
 * ↪️ **[Minecraft Launchers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_minecraft_launchers)** / [Beta](https://betacraft.uk/) / [Bedrock](https://bedrocklauncher.github.io/)
 * ↪️ **[Minecraft Mods](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_minecraft_mods)**
