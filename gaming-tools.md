@@ -445,7 +445,6 @@
 * [/r/WiiHacks](https://www.reddit.com/r/WiiHacks/) - Wii Homebrew Subreddit
 * [Open Shop Channel](https://oscwii.org/) - Wii Homebrew App Library
 * [WBFStoISO](https://www.wbfstoiso.com/) - WBFS to ISO
-* [WiiLink](https://www.wiilink24.com/) - WiiConnect24 Replacement
 
 ***
 
