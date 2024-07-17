@@ -295,7 +295,8 @@
 
 ## ▷ Kodi Tools
 
-* ⭐ **[Elementum](https://elementum.surge.sh/)** - Torrent Streaming / Trakt Sync
+
+* ⭐ **[Elementum](https://elementum.surge.sh/)** - Torrent Streaming / Trakt Sync / Similar to Stremio + Torrentio
 * [EverythingKodi](https://rumble.com/c/EverythingKodi) - Kodi Addon Tutorials
 * [Kodi Builds Chart](https://kodiapps.com/builds-chart)
 * [r/Addons4Kodi](https://www.reddit.com/r/Addons4Kodi/) / [Tracker](https://kinkeadtech.com/best-kodi-streaming-addons/) / [Trending](https://kodiapps.com/addons-chart) - Kodi Addons
@@ -303,11 +304,6 @@
 * [quasar](https://quasar.surge.sh/) - Torrent Plugin
 * [IPTV Client](https://kodi.wiki/view/Add-on:PVR_IPTV_Simple_Client)
 * [Simkl](https://simkl.com/) - Media Tracker
-
-
-
-It integrates with kodi to play movies from torrents. It is something like torrentio + stremio
-
 * [mediaelch](https://github.com/komet/mediaelch) - Media Manager
 
 ***
