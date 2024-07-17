@@ -422,7 +422,7 @@
 * [MangaWeebs](https://mangaweebs.in/)
 * [Manhuafast](https://manhuafast.com/)
 * [Manhwasco](https://manhwasco.net/)
-* [ManhuaScan](https://manhuascan.io/)
+* [Kaliscan](https://kaliscan.io/)
 * [Manhwatop](https://manhwatop.com/)
 * [Manhwafull](https://manhwafull.com/)
 
