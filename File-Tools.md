@@ -247,7 +247,7 @@
 * [Marker](https://github.com/VikParuchuri/marker) - PDF to Markdown
 * [Images to PDF](https://github.com/Swati4star/Images-to-PDF) or [Adobe Converter](https://www.adobe.com/acrobat/online/jpg-to-pdf.html) - Image to PDF Converter
 * [PDFCrowd](https://pdfcrowd.com/), [HTMLaPDF](https://www.htmlapdf.com/), [TailWindPDF](https://tailwindpdf.com/) or [wkhtmltopdf](https://wkhtmltopdf.org/) - HTML to PDF / Image Converter
-* [Issuu](https://issuu.com/) - Convert PDF Files to Webpages, Flipbooks, Brochures & More / [Downloader](https://docdownloader.com/), [2](https://vebuka.com/)
+* [Issuu](https://issuu.com/) - Convert PDF Files to Webpages, Flipbooks, Brochures & More / [Downloader](https://docdownloader.com/)
 * [WebToPDF](https://webtopdf.com/) or [Percollate](https://github.com/danburzo/percollate) - Webpage to PDF Converters
 * [GraphPaper](https://incompetech.com/graphpaper/) - PDF Graphs
 * [Aspose](https://products.aspose.app/pdf/annotation) or [pdf-unstamper](https://github.com/hwding/pdf-unstamper) - PDF Watermark Remover
@@ -365,7 +365,6 @@
 * [Diode](https://diode.io/)
 * [WebWormhole](https://webwormhole.io/)
 * [Destiny](https://github.com/LeastAuthority/destiny)
-* [filepress](https://new.filepress.store/)
 * [sharrr](https://www.sharrr.com/)
 * [Photon](https://photondev.netlify.app/)
 * [EchoDuck](https://echoduck.com/)
