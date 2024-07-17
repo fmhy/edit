@@ -597,7 +597,7 @@
 * [Graviton](https://graviton.netlify.app/) - Code Editor
 * [BBEdit](https://www.barebones.com/) - Code Editor
 * [ecode](https://github.com/SpartanJ/ecode) - Code Editor
-* [Orbiton](https://orbiton.zip/) - Lightweight IDE
+* [Orbiton](https://github.com/xyproto/orbiton) - Lightweight IDE
 * [Trinket](https://trinket.io/) - Browser Code Editor
 * [Competitive Editor](https://cpeditor.org/) - Competitive Programming Editor
 * [Acode](https://acode.app), [Sora](https://github.com/Rosemoe/sora-editor) or [Squircle-CE](https://github.com/massivemadness/Squircle-CE) - Android Code Editors
@@ -730,7 +730,6 @@
 * [CloudSkillsBoost](https://www.cloudskillsboost.google/paths) - Programming Courses
 * [EggHead](https://egghead.io/) - Programming Courses
 * [TechSchool](https://techschool.dev/en) - Programming Courses / [Discord](https://discord.com/invite/C4abRX5skH)
-* [Goldfish](https://goldfish-app-5igcw.ondigitalocean.app/) - Programming Courses
 * [Beej's Guides](https://www.beej.us/guide/) or [LearnByExample](https://learnbyexample.github.io/) - Programming Guides
 * [HelloWorldCollection](http://helloworldcollection.de/) - Hello World Programming Collection
 * [CodeTriage](https://www.codetriage.com/) - Learn Coding by Building Projects
