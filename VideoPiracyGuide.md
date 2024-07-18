@@ -178,7 +178,7 @@
 
 ## ▷ Cartoon Streaming
 
-* ⭐ **[WCO](https://www.wco.tv/)**, [2](https://www.wcofun.net/), [3](https://www.wcostream.tv/) - Anime / Cartoons / 720p / [Downloader](https://github.com/NobilityDeviant/Wcofun.com_Downloader)
+* ⭐ **[WCO](https://www.wco.tv/)**, [2](https://www.wcofun.net/), [3](https://www.wcostream.tv/) - Anime / Cartoons / 720p
 * [Kimcartoon.si](https://kimcartoon.si/) - Anime / Cartoons
 * [TopCartoons](https://www.topcartoons.tv/) - 720p
 * [WatchCartoonsOnline](https://www1.watchcartoononline.bz/) - 720p
