@@ -228,14 +228,16 @@
 
 ## ▷ Reddit Search
 
-* ⭐ **[TheGigaBrain](https://thegigabrain.com/)**, [New PullPush](https://search-new.pullpush.io/) / [2](https://search.pullpush.io/), [Redditle](https://redditle.com/), [Reddit CSE](https://cse.google.com/cse?cx=016649841759798530173:rk2ezolwnw0) / [2](https://cse.google.com/cse?cx=007749065626525752968:qh5bqebwi30), [Samac](https://samac.io/), [ihsoyct](https://ihsoyct.github.io/index.html) or [Better Reddit Search](https://betterredditsearch.web.app/) - Reddit Search Engines
-* ⭐ **[RedditRepostSleuth](https://www.repostsleuth.com/)** - Reverse Post / Image Search
+* ⭐ **[TheGigaBrain](https://thegigabrain.com/)** or [Reddit CSE](https://cse.google.com/cse?cx=016649841759798530173:rk2ezolwnw0) / [2](https://cse.google.com/cse?cx=007749065626525752968:qh5bqebwi30) - Reddit Search Engines
+* ⭐ **[Reddit Repost Sleuth](https://www.repostsleuth.com/)** - Reverse Post / Image Search
 * ⭐ **[Undelete](https://undelete.pullpush.io/)** - View Deleted Reddit Posts
-* [ReSavr](https://www.resavr.com/) or [Comment History](https://academictorrents.com/details/89d24ff9d5fbc1efcdaf9d7689d72b7548f699fc) - Reddit Comment Archives
 * [RSOG](https://www.rsog.org/) - Reddit Search on Google / [Userscript](https://greasyfork.org/en/scripts/462356)
-* [Expanse](https://github.com/jc9108/expanse), [redarcs](https://the-eye.eu/redarcs/), [Rareddit](https://www.rareddit.com/) or [Reddit Archive](https://www.redditarchive.com/) - Reddit Post Archive Tools / [Note](https://ibb.co/R9jC5bk)
+* [New PullPush](https://search-new.pullpush.io/) / [2](https://search.pullpush.io/), [Samac](https://samac.io/) or [Better Reddit Search](https://betterredditsearch.web.app/) - Advanced Reddit Search
+* [Redditle](https://redditle.com/) - Reddit-only Google Search
+* [Arctic Shift](https://arctic-shift.photon-reddit.com/) - Reddit Archive Dump Search / [GitHub](https://github.com/ArthurHeitmann/arctic_shift)
+* [ReSavr](https://www.resavr.com/) or [Reddit Dump Files](https://academictorrents.com/browse.php?search=stuck_in_the_matrix%2C+Watchful1%2C+RaiderBDev&sort_field=added&sort_dir=DESC) - Reddit Comment Archives
+* [Expanse](https://github.com/jc9108/expanse), [redarcs](https://the-eye.eu/redarcs/), [Rareddit](https://www.rareddit.com/) or [Reddit Archive](https://www.redditarchive.com/) - Reddit Post Archive Tools / [Note](https://www.reddit.com/r/stupidpol/comments/13aaacn/psa_reddit_killed_pushshift_all_reddit_threads/)
 * [RedditMetis](https://redditmetis.com/), [Reddit-User-Analyser](https://reddit-user-analyser.netlify.app/) or [Redective](https://www.redective.com/) - Reddit Profile Information
-* [Reddit Comment Search](https://www.redditcommentsearch.com/) - Search Reddit Comments
 * [rComments](https://github.com/iampueroo/rComments) - Explore Comments / Replies without Clicking a Post
 * [ScrollDrop](https://scrolldrop.com/) - Reddit Media Crawler
 * [Wiki Downloader](https://github.com/michealespinola/reddit.wikidownloader) - Reddit Wiki Page Scraper
