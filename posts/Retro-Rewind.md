@@ -16,9 +16,8 @@ It also features many [enhancements](https://ibb.co/RCckmdT) such as:
 
 * Max VR has been increased from 9999 to 30000.
 * Thunderclouds are now [Mega Clouds](https://i.imgur.com/8H54rGH.mp4), which give Mega Mushrooms, rather than shrinking.
-* Added (optional) inside drift to all vehicles, meaning more of them are competitive. 
+* Added (optional) inside drift and brake drifting to all vehicles, meaning more of them are competitive.
 * Outside drift bikes have an extra level of mini turbo, and karts have three levels, similar to MK8DX.
-* Vehicles can brake while drifting, making all tracks playable, and more vehicles viable.
 * Ability to change or randomize vehicle/character combo between races.
 * Significantly faster menu animations and load times between races.
 * A online multiplayer version of Time Trials has been added.
