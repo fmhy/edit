@@ -847,7 +847,6 @@
 * [Kit.co](https://kit.co/), [Looria](https://www.looria.com/), [ProductHunt](https://producthunt.com/) or [Consumer Reports](https://consumerreports.org/) - Product / Service Reviews
 * [GreenStash](https://github.com/Pool-Of-Tears/GreenStash) - Savings Tracking App
 * [Pepper](https://www.pepper.com/) - Shopping Community
-* [gedd.it](https://gedd.it/) - Shop via Reddit
 * [Slant](https://www.slant.co/) - "What are the best..." Product Rankings
 * [Claros](https://www.claros.so/) - AI Product Recommendations / [Discord](https://discord.gg/87KJvjpkF8)
 * [Randomicle](https://randomicle.com/) - Random Amazon Products
