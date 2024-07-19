@@ -350,12 +350,19 @@
 
 ## ▷ Google Search Tools
 
-* [Mastering Google Search Operators](https://moz.com/learn/seo/search-operators), [2](https://moz.com/blog/mastering-google-search-operators-in-67-steps), [3](https://ahrefs.com/blog/google-advanced-search-operators/), [4](https://l-lists.com/en/lists/m1mdwx.html), [5](https://github.com/BushidoUK/OSINT-SearchOperators), [6](https://seranking.com/ru/blog/operatory-poiska-google/) - Google Search Operator Resources
-* [qDorks](https://qdorks.com/composer), [sitedorks](https://github.com/Zarcolio/sitedorks), [Dorks-collections-list](https://github.com/cipher387/Dorks-collections-list/), [Google Dork List](https://www.boxpiper.com/posts/google-dork-list), [Dork Genius](https://dorkgenius.com/) or [DorkSearch](https://www.dorksearch.com/) - Search Engine Dorking Tools
+* [Mastering Google Search Operators](https://moz.com/blog/mastering-google-search-operators-in-67-steps), [2](https://ahrefs.com/blog/google-advanced-search-operators/), [3](https://moz.com/learn/seo/search-operators), [4](https://seranking.com/ru/blog/operatory-poiska-google/) - Google Search Operator Resources
+* [qDorks](https://qdorks.com/composer), [sitedorks](https://github.com/Zarcolio/sitedorks), [Dorks-collections-list](https://github.com/cipher387/Dorks-collections-list/), [OSINT Dorks](https://github.com/BushidoUK/OSINT-SearchOperators), [Google Dork List](https://www.boxpiper.com/posts/google-dork-list), [Dork Genius](https://dorkgenius.com/) or [DorkSearch](https://www.dorksearch.com/) - Search Engine Dorking Tools
 * [ISearchFrom](http://isearchfrom.com/) - Change Location / Device for Google Search
 * [goosh](https://goosh.org/) - Simple Google Web Client
 * [Google Trends](https://trends.google.com/trends/) - Google Search Trends
-
+* [View Image](https://github.com/bijij/ViewImage) - Adds Back "View Image" Button to Google Image Search
+---
+* [Show Image Dimensions](https://greasyfork.org/scripts/401432) - Add Image Dimensions to Google
+* [Google DWIMages](https://greasyfork.org/en/scripts/29420) - Add Direct Image Links
+* [Endless Google](https://openuserjs.org/scripts/tumpio/Endless_Google) - Google Search Endless Scrolling
+* [Extra Search Buttons](https://greasyfork.org/en/scripts/7543-google-search-extra-buttons) - Extra Google Search Buttons
+* [Google Bangs](https://greasyfork.org/en/scripts/424160) - DDG !bangs in Google
+* [DisableAMP](https://github.com/AdguardTeam/DisableAMP) - Disable Google AMP Links
 
 ***
 
@@ -732,7 +739,6 @@
 * [Session Alive](https://github.com/arunelias/session-alive/) - Keep Website Sessions Alive
 * [Caffeine](https://add0n.com/caffeine.html) - Prevent OS From Sleeping
 * [Broken Link Checker](https://add0n.com/broken-link-checker.html) - Checks Page for Broken Links
-* [ViewImage](https://github.com/bijij/ViewImage) - Adds Back "View Image" Button to Google Image Search
 * [GoFullPage](https://gofullpage.com/), [Easy Screenshot](https://webextension.org/listing/screenshot.html) or [FireShot](https://addons.mozilla.org/en-GB/firefox/addon/fireshot/) - Full Page Screenshots
 * [Bulk URL Opener](https://bulkurlopener.com/) or [Open-Multiple-URLs](https://github.com/htrinter/Open-Multiple-URLs/) - Open Multiple URLs in One Click
 * [PronounDB](https://pronoundb.org/) - Pronoun Addon
@@ -856,14 +862,8 @@
 * [Microsoft Store Direct Download](https://greasyfork.org/en/scripts/394420-microsoft-store-direct-download) - Microsoft Store Direct Downloads
 * [Maximize Video](https://greasyfork.org/en/scripts/4870) - Maximize Playing Videos via Button
 * [TimerHooker](https://timer.palerock.cn/en/) - YouTube Video Speed Control
-* [Show Image Dimensions](https://greasyfork.org/scripts/401432) - Add Image Dimensions to Google
-* [Google DWIMages](https://greasyfork.org/en/scripts/29420) - Add Direct Image Links
-* [Endless Google](https://openuserjs.org/scripts/tumpio/Endless_Google) - Google Search Endless Scrolling
-* [Extra Search Buttons](https://greasyfork.org/en/scripts/7543-google-search-extra-buttons) - Extra Google Search Buttons
-* [Google Bangs](https://greasyfork.org/en/scripts/424160) - DDG !bangs in Google
 * [Pagetual](https://hoothin.github.io/PagetualGuide/en/) - Merge Sites "Next" Pages
 * [Mouseover Popup Image Viewer](https://greasyfork.org/en/scripts/394820-mouseover-popup-image-viewer) - Shows Images & Videos Behind Links & Thumbnails
-* [DisableAMP](https://github.com/AdguardTeam/DisableAMP) - Disable Google AMP Links
 
 ***
 
