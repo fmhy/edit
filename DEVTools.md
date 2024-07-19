@@ -637,6 +637,7 @@
 * [Ideone](https://www.ideone.com/) - Online Code Editor
 * [PlayCode](https://playcode.io/) - Online Code Editor
 * [ObjGen](https://www.objgen.com/) - Online Code Editor
+* [RunJS](https://runjs.app/play/) - Online Code Editor
 * [html-css-js](https://html-css-js.com/) - Online Code Editor
 * [Openshift](https://workspaces.openshift.com/) - Cloud IDE / Eclipse Che
 * [Arduino](https://cloud.arduino.cc/) - Cloud IDE for Arduino
@@ -652,7 +653,6 @@
 * [CoCalc](https://cocalc.com/) - Virtual online workspace
 * [CodePen](https://codepen.io/), [Web Maker](https://webmaker.app/) or [Liveweave](https://liveweave.com/) - Code Sandbox
 * [Platform.uno](https://platform.uno/) or [Enact](https://enactjs.com/) - App Frameworks
-* [RunJS](https://runjs.app/play/) - Online Code Editor
 
 ***
 
