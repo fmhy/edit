@@ -70,19 +70,18 @@ It also features many [enhancements](https://ibb.co/RCckmdT) such as:
 
 ***
 
-**Official Wiki**
-
-https://wiki.tockdom.com/wiki/Retro_Rewind
 
 **Discord Servers**
 
-main: https://discord.gg/qbr3Y4PJFH
+Main: https://discord.gg/qbr3Y4PJFH
 
-zpl: https://discord.gg/jczByGAqb6
+ZPL: https://discord.gg/jczByGAqb6
 
-**YouTube Channel**
+Wheel Wizard: https://discord.gg/vZ7T2wJnsq
 
-https://www.youtube.com/@ZPL__/
+**Official Wiki**
+
+https://wiki.tockdom.com/wiki/Retro_Rewind
 
 **Online Rooms**
 
@@ -94,7 +93,7 @@ https://kevinvg207.github.io/rr-rooms/
 
 https://imgur.com/a/mario-kart-wii-character-vehicle-stats-tr1y8FI
 
-**Item Probabilities / Timing**
+**Item Probabilities**
 
 https://xer.forgotten-legends.org/re/mkw/items/
 
@@ -103,6 +102,5 @@ https://xer.forgotten-legends.org/re/mkw/items/
 https://redd.it/1dzerns 
 
 https://fmhy.net/posts/Retro-Rewind
-
 
 ---
