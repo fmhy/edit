@@ -51,13 +51,13 @@ It also features many [enhancements](https://ibb.co/RCckmdT) such as:
 
 # Things to Note
 
-* WheelWizard can be slow, especially if you're installing RR for the first time, so it may be worth doing [manually](https://youtu.be/ZiQ7WAOlJOk) instead to speed up the process. 
 * You need to turn on things like inside drift, brake drifting, fast menus, and finishing times in the Retro Rewind settings.
 * Retro Rewind uses a modified version of WiiLink, meaning it does NOT require a NAND to play online with Dolphin.
 * If using your mouse as a wiimote isn't working well, try switching to "above tv" in Wii settings. 
 * To use a real gamecube controller on PC you'll need an [adapter](https://dolphin-emu.org/docs/guides/how-use-official-gc-controller-adapter-wii-u/).
 * Online multiplayer Time Trials can be enabled in the top right of WheelWizard, or by right clicking mario kart in dolphin, selecting run with riivolution patches, enabling online TTs, and running the game.
 * Open-Host can be enabled by pressing start or + on the Retro WFC friend menu. This will allow anyone to join your games via friend code, even if you don't have them added yourself.
+* If WheelWizard isn't working, you can always try installing Retro Rewind [manually](https://youtu.be/ZiQ7WAOlJOk).
 * If you don't know anything about Mario Kart Wii, or why it has a cult following 16 years after its release, I'd suggest checking out [TWD98](https://www.youtube.com/@TWD98). Troy plays a lot, so its a good way to learn about the game and improve.
 
 ***
