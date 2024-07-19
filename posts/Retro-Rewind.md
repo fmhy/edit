@@ -91,7 +91,7 @@ https://kevinvg207.github.io/rr-rooms/
 
 **Vehicle / Character Stats**
 
-https://imgur.com/a/mario-kart-wii-character-vehicle-stats-tr1y8FI
+https://i.imgur.com/5zRvWWB.png / [legend](https://i.imgur.com/uJO5Doh.png)
 
 **Item Probabilities**
 
