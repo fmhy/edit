@@ -300,7 +300,3 @@
 * [Debrid-Link](https://debrid-link.com) - Debrid with Free Tier
 * [AllDebrid](https://alldebrid.com/) - Paid Debrid service with seven day trial
 * [Debrid Media Manager](https://debridmediamanager.com/) - Manage / Stream / Download RD Files
-
-***
-
-# ► [File Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/file-tools)
