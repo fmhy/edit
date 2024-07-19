@@ -497,6 +497,7 @@
 * [TrashMail](https://trashmail.com/) - Email Forwarding Service
 * [Tmail.io](https://tmail.io/) - Gmail / Forever / 1 Day / 4 Domains
 * [22.Do](https://22.do/) - Gmail / 1 Day / 1 Day / 3 Domains
+* [Gmailnator](https://www.emailnator.com/) - Gmail / Forever / 1 Day / 6 Domains
 * [Ago Gmail](https://www.agogmail.com/) - Gmail / 2 Domains
 * [Dispostable](https://www.dispostable.com/) - Forever / 2 Months / 1 Domain
 * [YOPmail](https://yopmail.com/email-generator) - Forever / 8 Days / 100+ Domains
