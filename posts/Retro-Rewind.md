@@ -8,7 +8,6 @@ prev: false
 sidebar: false
 footer: true
 ---
-
 # What is Retro Rewind?
 
 [Retro Rewind](https://discord.gg/qbr3Y4PJFH) is a Mario Kart Wii custom track distribution that features ***every retro track*** from Super Mario Kart to Mario Kart 7, as well as some from Mario Kart 8 and Mario Kart Tour, totaling 152. Retro Rewind can be played online in public rooms with Dolphin Emulator, a Wii or WiiU.
@@ -28,7 +27,7 @@ It also features many [enhancements](https://ibb.co/RCckmdT) such as:
 
 # PC Setup Guide
 
-1. Download Mario Kart Wii, or [dump your disc](https://youtu.be/36nNq49tfSM). 
+1. Download MKW, or [dump your disc](https://youtu.be/36nNq49tfSM). 
 1. Download [Dolphin](https://dolphin-emu.org/download/) and [extract it](https://fmhy.net/file-tools#file-archivers).
 1. Open Dolphins controller tab, set [gamecube port](https://i.ibb.co/SXtDkXt/image.png) to standard, press configure, and select your controller in the drop down menu. Go back to the controller tab, set [Wii Remote 1](https://i.ibb.co/wYk0R4L/image.png) to "Emulated Wii Remote," press configure, and select your mouse from the dropdown menu. 
 1. Download [WheelWizard](https://github.com/patchzyy/WheelWizard/releases), go to settings, set the 3 paths, click save, select home, run the installer.
@@ -53,19 +52,12 @@ It also features many [enhancements](https://ibb.co/RCckmdT) such as:
 # Things to Note
 
 * WheelWizard can be slow, especially if you're installing RR for the first time, so it may be worth doing [manually](https://youtu.be/ZiQ7WAOlJOk) instead to speed up the process. 
-
 * You need to turn on things like inside drift, brake drifting, fast menus, and finishing times in the Retro Rewind settings.
-
 * Retro Rewind uses a modified version of WiiLink, meaning it does NOT require a NAND to play online with Dolphin.
-
 * If using your mouse as a wiimote isn't working well, try switching to "above tv" in Wii settings. 
-
 * To use a real gamecube controller on PC you'll need an [adapter](https://dolphin-emu.org/docs/guides/how-use-official-gc-controller-adapter-wii-u/).
-
 * Online multiplayer Time Trials can be enabled in the top right of WheelWizard, or by right clicking mario kart in dolphin, selecting run with riivolution patches, enabling online TTs, and running the game.
-
 * Open-Host can be enabled by pressing start or + on the Retro WFC friend menu. This will allow anyone to join your games via friend code, even if you don't have them added yourself.
-
 * If you don't know anything about Mario Kart Wii, or why it has a cult following 16 years after its release, I'd suggest checking out [TWD98](https://www.youtube.com/@TWD98). Troy plays a lot, so its a good way to learn about the game and improve.
 
 ***
