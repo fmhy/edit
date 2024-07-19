@@ -12,6 +12,7 @@
 * ⭐ **[FMHY Search](https://www.reddit.com/r/FREEMEDIAHECKYEAH/comments/105xraz/howto_search_fmhy/)** - Search the Wiki
 * ⭐ **[Awesome Search](https://awesomelists.top/)** - Awesome List Search
 * ⭐ **[r/InternetIsBeautiful](https://reddit.com/r/InternetIsBeautiful)** - Helpful / Fun Sites
+* ⭐ **[FMHY Base 64](https://rentry.co/FMHYBase64)** - Miscellaneous downloads from all sections / [Auto Decode](https://greasyfork.org/en/scripts/485772-fmhy-base64-auto-decoder)
 * [Track Awesome List](https://www.trackawesomelist.com/) - Daily Awesome List Updates
 * [Awesome CLI](https://github.com/umutphp/awesome-cli) - CLI Interface for Searching Awesome Lists
 * [lists](https://github.com/jnv/lists) - List Index
