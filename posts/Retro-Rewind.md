@@ -90,6 +90,14 @@ https://ppeb.me/RetroRewind/
 
 https://kevinvg207.github.io/rr-rooms/
 
+**Vehicle / Character Stats**
+
+https://imgur.com/a/mario-kart-wii-character-vehicle-stats-tr1y8FI
+
+**Item Probabilities / Timing**
+
+https://xer.forgotten-legends.org/re/mkw/items/
+
 **Guide Links**
 
 https://redd.it/1dzerns 
