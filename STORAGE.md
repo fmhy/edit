@@ -989,17 +989,21 @@
 
 ## Streaming Site Clones
 
-### FMovies Clones
+### Fbox Clones
 
-* [FlixHQ](https://flixhq.click/), [2](https://flixhq.bz/)
-* [Movies7](https://movies7.to/)
-* [sWatchSeries](https://swatchseries.mx/), [2](https://watchseries.bar/)
-* [Favmovies](https://favmovies.to/)
-* [NetMovies](https://netmovies.to/)
-* [Movies4Fun](https://movies4fun.net/)
+* [Flix2day](https://flix2day.to/home)
+* [Mov2day](https://mov2day.to/)
+* [2flix](https://2flix.to/)
+* [1mov](https://1mov.to/)
 * [Flixflare](https://flixflare.to/)
+* [Flixhive](https://flixhive.to/)
+* [Flixrave](https://flixrave.to/)
+* [CineZone](https://cinezone.to/)
 * [BFlixHD](https://bflixhd.to/)
-* [1Mov](https://1mov.to/m)
+* [WatchSeries](https://watchseriesx.to/)
+* [Theflixtor](https://theflixtor.to/)
+* [Losmovies](https://losmoviesz.to/)
+
 
 ***
 
@@ -1011,6 +1015,8 @@
 * [Streamm4u](https://streamm4u.ws/) / [2](https://ww1.streamm4u.tv/) / [3](https://ww1.streamm4u.net/)
 * [M4uMV.org](https://m4umv.org/)
 * [MoviesM4U](https://moviesm4u.net/)
+* [Filmzie](https://filmzie.cc/)
+* [Andyday](https://andyday.cc/)
 
 ***
 
