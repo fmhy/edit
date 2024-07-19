@@ -442,7 +442,6 @@
 * [Baka-Tsuki](https://www.baka-tsuki.org)
 * [Armaell's Library](https://armaell-library.net/)
 * [Novel Online Free](https://novelonlinefree.com/homepage), [2](https://novelonlinefull.com/), [3](https://bestlightnovel.com/)
-* [ThatNovelCorner](https://thatnovelcorner.com/)
 * [English Light Novels](https://englishlightnovels.com)
 * [Shin Translations](https://shintranslations.com/)
 * [WuxiaWorld](https://www.wuxiaworld.com/)
