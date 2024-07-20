@@ -408,7 +408,9 @@
 ## ▷ Android Privacy
 
 * 🌐 **[Awesome Android Security](https://github.com/ashishb/android-security-awesome)** - Security Resources
-* 🌐 **[Guardian Project](https://guardianproject.info/)** / [2](https://guardianproject.info/fdroid/repo), [I Like Android](https://i-like-android.github.io/) or [Divestos Apps](https://divestos.org/pages/recommended_apps) - Privacy Apps
+* 🌐 **[I Like Android](https://i-like-android.github.io/)** - Privacy App Index
+* 🌐 **[Guardian Project](https://guardianproject.info/)** / [2](https://guardianproject.info/fdroid/repo) - Privacy App Index
+* 🌐 **[Divestos Apps](https://divestos.org/pages/recommended_apps)** - Privacy App Index
 * 🌐 **[SelfPrivacy](https://selfprivacy.org/)** - Self-Hosted Privacy Apps
 * ↪️ **[Privacy Based Browsers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_android_browsers)**
 * ↪️ **[Encrypted Messengers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_encrypted_android_messengers)**
@@ -457,7 +459,7 @@
 * ↪️ **[Android Browsers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_android_browsers)**
 * ⭐ **[KeePassDX](https://www.keepassdx.com/)**, **[BitWarden](https://play.google.com/store/apps/details?id=com.x8bit.bitwarden)**, [Keyspace](https://keyspace.cloud/), [Keyguard](https://github.com/AChep/keyguard-app), [AuthPass](https://authpass.app/), [KeyPass](https://github.com/yogeshpaliyal/KeyPass) or [Keepass2Android](https://play.google.com/store/apps/details?id=keepass2android.keepass2android) / [GitHub](https://github.com/PhilippC/keepass2android) - Password Managers
 * ⭐ **[PairVPN Hotspot](https://pairvpn.com/hotspot)**, [Tetherfi](https://github.com/pyamsoft/tetherfi) or [NetShare](https://netshare.app/) - Create Wi-Fi Hotspots
-* [Feeder](https://f-droid.org/en/packages/com.nononsenseapps.feeder/), [Twine](https://github.com/msasikanth/twine), [FeedMe](https://github.com/seazon/FeedMe), [news](https://f-droid.org/packages/co.appreactor.news/) / [GitHub](https://github.com/bubelov/news), [nunti](https://gitlab.com/ondrejfoltyn/nunti) or [ReadYou](https://github.com/Ashinch/ReadYou) - RSS Readers
+* [Feeder](https://f-droid.org/en/packages/com.nononsenseapps.feeder/), [Twine](https://github.com/msasikanth/twine), [FeedMe](https://github.com/seazon/FeedMe), [news](https://f-droid.org/packages/co.appreactor.news/) / [GitHub](https://github.com/bubelov/news), [nunti](https://gitlab.com/ondrejfoltyn/nunti), [Aggregator News](https://play.google.com/store/apps/details?id=com.and96.aggregator_news) or [ReadYou](https://github.com/Ashinch/ReadYou) - RSS Readers
 * [Thud](https://github.com/aerotoad/Thud) or [Raven](https://github.com/ksh-b/raven) - News Apps
 * [Mix](https://mix.com/) - Browse Images, Videos & Articles 
 * [Mitch](https://sr.ht/~gardenapple/mitch/) - Mobile Frontend for itch.io
@@ -628,7 +630,7 @@
 * ⭐ **[WSABuilds](https://github.com/MustardChef/WSABuilds)** - Android Emulator on Windows / Windows Subsystem / Pre-built Binaries
 * ⭐ **[WayDroid](https://waydro.id/)** / [GitHub](https://github.com/waydroid) / [Scripts](https://github.com/casualsnek/waydroid_script), [Redroid](https://github.com/remote-android/redroid-doc), [PostmarketOS](https://www.postmarketos.org/), [Ubuntu Touch](https://ubuntu-touch.io/get-ubuntu-touch), [Plasma Mobile](https://plasma-mobile.org/) or [Mobian](https://mobian-project.org/) - Android Emulator on Linux
 * ⭐ **[Android Studio Emulator](https://developer.android.com/studio/run/managing-avds#createavd)**
-* ⭐ **[mobox](https://github.com/olegos2/mobox)**, [Box64Droid](https://github.com/Ilya114/Box64Droid), [Vectras](http://vectras.netlify.app) / [GitHub](https://github.com/epicstudios856/Vectras-VM-Android) or [Winlator](https://winlator.org) / [GitHub](https://github.com/brunodev85/winlator) - Windows Emulators on Android
+* ⭐ **[mobox](https://github.com/olegos2/mobox)**, [Box64Droid](https://github.com/Ilya114/Box64Droid) or [Winlator](https://winlator.org) / [GitHub](https://github.com/brunodev85/winlator) - Windows Emulators on Android
 * ⭐ **[Google Play Games](https://play.google.com/googleplaygames)** - Android Mobile Games on Windows
 * [PhoenixOS - BR (Discord)](https://discord.gg/BQ4td84) - Android Emulator on Windows
 * [PhoenixOS Darkmatter](https://aopc.dev/r/phoenixos-darkmatter-supercharged-for-everyone.2/) - Android Emulator on Windows / [Discord](https://discord.com/invite/AcGAGrzZ4e)
@@ -646,7 +648,7 @@
 * [Ubuntu on Android](https://udroid-rc.gitbook.io) / [GitHub](https://github.com/RandomCoderOrg/ubuntu-on-android) - Ubuntu Emulator on Android
 * [FlashLite](https://flashlite.games/) - Flash Emulator / [Discord](https://discord.gg/F2dsGhTX6y)
 * [/r/EmulationOnAndroid](https://www.reddit.com/r/emulationonandroid) - Android Game Emulation Subreddit
-* [Dan's Palace](https://discord.gg/RqQeZwrP8k) - Android / PSVita PC Game Ports Discord
+* [Dan's Palace](https://discord.gg/RqQeZwrP8k) - Android / PSVita PC Game Ports Discord  / [Telegram](https://t.me/danspalace)
 * [Source Engine 4 Android](https://discord.gg/source-engine-4-android-672055862608658432) - Source Engine Ports
 * [JoiPlay](https://joiplay.cyou/) - RPG Maker Game Interpreter
 * [AdrenoToolsDrivers](https://github.com/K11MCH1/AdrenoToolsDrivers) - Adreno Drivers for Android Emulators / [Systemwide](https://github.com/SEGAINDEED/Adreno-ToolsDriversMagisk)
@@ -956,11 +958,11 @@
 # ► iOS Tools
 
 * 🌐 **[JulioverneHYI](https://julio.hackyouriphone.org/)** - Piracy Tools
+* ↪️ **[Safari Extension](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools#wiki_.25B7_safari_extensions)** -
 * ⭐ **[Orion](https://kagi.com/orion/)** - Browser w/ Chrome + Firefox Extension Support / [Discord](https://discord.com/invite/gKh5E6ys6D)
 * ⭐ **[Bitwarden](https://apps.apple.com/app/bitwarden-free-password-manager/id1137397744)**, [Keepassium](https://keepassium.com/), [AuthPass](https://authpass.app/), [Strongbox](https://strongboxsafe.com/) or [PasswordStore](https://passwordstore.app/) - Password Managers
 * ⭐ **[PairVPN Hotspot](https://pairvpn.com/hotspot)** - Create Mobile Hotspots
 * [Gear4](https://gear4.app/) - Browser w/ Userscript Support
-* [Userscripts](https://apps.apple.com/us/app/userscripts/id1463298887) - Safari Userscript Manager
 * [Arc](https://apps.apple.com/us/app/arc-search-find-it-faster/id6472513080) - Feature-Rich iOS Adblock Browser
 * [iOS Settings URLs](https://github.com/FifiTheBulldog/ios-settings-urls) - iOS Settings URL List
 * [Das Image](https://apps.apple.com/ca/app/das-image-search-and-explore/id1464079804), [iPhone11papers](https://iphone11papers.com/), [FreshWalls](https://apps.apple.com/in/app/freshwalls-4k-hd-wallpapers/id1627085956) or [iOS Wallpapers](https://goo.gl/photos/ZVpabTtcezd35XBa9/) - iOS Wallpapers

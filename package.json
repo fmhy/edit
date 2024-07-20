@@ -1,7 +1,7 @@
 {
   "name": "fmhy",
   "type": "module",
-  "packageManager": "pnpm@9.4.0",
+  "packageManager": "pnpm@9.5.0",
   "scripts": {
     "docs:dev": "vitepress dev",
     "docs:build": "vitepress build",
@@ -18,32 +18,33 @@
     "postinstall": "nitropack prepare"
   },
   "dependencies": {
+    "@fmhy/colors": "^0.0.11",
     "@headlessui/vue": "^1.7.22",
     "@resvg/resvg-js": "^2.6.0",
+    "vitepress": "npm:@taskylizard/vitepress@1.1.1",
     "consola": "^3.2.3",
     "feed": "^4.2.2",
     "fs-extra": "^11.2.0",
     "itty-fetcher": "^0.9.4",
-    "nitro-cors": "^0.7.0",
+    "nitro-cors": "^0.7.1",
     "nitropack": "latest",
     "nprogress": "^0.2.0",
     "pathe": "^1.1.2",
-    "unocss": "^0.58.4",
-    "vitepress": "npm:@taskylizard/vitepress@1.1.1",
-    "vue": "^3.4.15",
+    "unocss": "^0.58.9",
+    "vue": "^3.4.33",
     "x-satori": "^0.1.5",
-    "zod": "^3.22.4"
+    "zod": "^3.23.8"
   },
   "devDependencies": {
     "@biomejs/biome": "^1.8.3",
-    "@iconify-json/carbon": "^1.1.28",
+    "@iconify-json/carbon": "^1.1.36",
     "@iconify-json/heroicons-solid": "^1.1.11",
     "@iconify-json/twemoji": "^1.1.15",
     "@taskylizard/biome-config": "^1.0.1",
     "@types/fs-extra": "^11.0.4",
-    "@types/node": "^20.11.15",
+    "@types/node": "^20.14.11",
     "@types/nprogress": "^0.2.3",
-    "prettier": "^3.2.4",
-    "tailwindcss": "^3.4.4"
+    "prettier": "^3.3.3",
+    "tailwindcss": "^3.4.6"
   }
 }

@@ -518,7 +518,7 @@ Linux Gaming Guide
 * ⭐ **[NearDrop](https://github.com/grishka/NearDrop)** or [maestral](https://maestral.app/) - File Sharing Apps
 * ⭐ **[shottr](https://shottr.cc/)** or [MagicCap](https://magiccap.me/) - Screenshot Tool
 * ⭐ **[Aptonic](https://aptonic.com/)** - Mac Productivity App
-* ⭐ **[Alfred](https://www.alfredapp.com/)**, [Quicksilver](https://qsapp.com/) or [Raycast](https://www.raycast.com/) - Keystroke Launchers
+* ⭐ **[Alfred](https://www.alfredapp.com/)**, [Quicksilver](https://qsapp.com/), [SOL](https://sol.ospfranco.com/) or [Raycast](https://www.raycast.com/) - Keystroke Launchers
 * ⭐ **[CustomShortcuts](https://www.houdah.com/customShortcuts/)**, [Karabiner-Elements](https://karabiner-elements.pqrs.org/) or [ShortcutKeeper](https://shortcutkeeper.com/) - Custom Keyboard Shortcuts
 * ⭐ **[alt-tab-macos](https://alt-tab-macos.netlify.app/)** - Alt-Tab for Mac
 * ⭐ **[Fantastical](https://flexibits.com/fantastical)** - Calendar

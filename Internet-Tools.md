@@ -537,6 +537,7 @@
 * [TrashMail](https://trashmail.com/) - Email Forwarding Service
 * [Tmail.io](https://tmail.io/) - Gmail / Forever / 1 Day / 4 Domains
 * [22.Do](https://22.do/) - Gmail / 1 Day / 1 Day / 3 Domains
+* [Gmailnator](https://www.emailnator.com/) - Gmail / Forever / 1 Day / 6 Domains
 * [Ago Gmail](https://www.agogmail.com/) - Gmail / 2 Domains
 * [Dispostable](https://www.dispostable.com/) - Forever / 2 Months / 1 Domain
 * [YOPmail](https://yopmail.com/email-generator) - Forever / 8 Days / 100+ Domains
@@ -829,6 +830,7 @@
 
 ## ▷ Safari Extensions
 
+* [Userscripts](https://apps.apple.com/us/app/userscripts/id1463298887) - Safari Userscript Manager
 * [Night Eye](https://apps.apple.com/us/app/night-eye-for-safari/id1450504903?mt=12), [Dark Reader Script](https://gist.github.com/kfur/266c456dd69072eb7533f457ee5f18a0) - Dark Mode
 * [Amerigo](https://apps.apple.com/us/app/amerigo-file-manager/id605569663) - File Download Manager
 * [PiPifier](https://apps.apple.com/us/app/pipifier/id1234771095) - Picture in Picture Mode

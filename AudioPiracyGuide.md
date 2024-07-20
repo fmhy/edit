@@ -67,7 +67,7 @@
 * [MP3Jam](https://www.mp3jam.org/) - Streaming
 * [MellowPlayer](https://colinduquesnoy.gitlab.io/MellowPlayer/) - Streaming
 * [Muffon](https://muffon.netlify.app/) - Streaming
-* [Deezer](https://www.deezer.com/) - Streaming / [Free Unlock](https://uhwotgit.fly.dev/uhwot/dzunlock)
+* [Deezer](https://www.deezer.com/) - Streaming / [HiFi Unlock](https://uhwotgit.fly.dev/uhwot/dzunlock)
 * [MusicBucket](https://musicbucket.net/) - Track / Share Music / Telegram
 * [JukeboxStar](https://jukeboxstar.com/) or [JukeboxToday](https://jukebox.today/) - Collaborative Streaming / Listening Parties
 * [stemplayerplayer](https://github.com/nn9dev/stemplayerplayer) or [StemPlayer](https://stemplayer.io/) - Kanye West STEM Player Emulators
@@ -191,7 +191,7 @@
 
 * ↪️ **[Ambient Sound Mixers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_ambient_sound_mixers)**
 * ⭐ **[Rainy Mood](https://www.rainymood.com/)**, [Rainbow Hunt](https://rainbowhunt.com/), [Pluvior](https://pluvior.com/), [rainfor.me](https://rainfor.me/), [Raining.fm](https://raining.fm/) or [Rainyscope](https://rainyscope.com/) - Ambient Rain
-* ⭐ **[lofi.cafe](https://www.lofi.cafe/)**, **[Chillhop](https://chillhop.com/)**, [Ambicular](https://ambicular.com/), [Lofi Music](https://lofimusic.app/), [Lofi Player](https://lofi-players.netlify.app/), [lofi](https://lofi.co/), [Lofi Club](https://loficlub.vercel.app/), [Lofi Limo](https://lofi.limo/), [DevTunes FM](https://radio.madza.dev/) or [Moss Garden](https://moss.garden/) - Lofi Radio
+* ⭐ **[lofi.cafe](https://www.lofi.cafe/)**, **[Chillhop](https://chillhop.com/)**, [Moon Phase Radio](https://www.moonphaseradio.com/), [Ambient Sleeping Pill](https://ambientsleepingpill.com/), [Ambicular](https://ambicular.com/), [Lofi Music](https://lofimusic.app/), [Lofi Player](https://lofi-players.netlify.app/), [lofi](https://lofi.co/), [Lofi Club](https://loficlub.vercel.app/), [Lofi Limo](https://lofi.limo/), [DevTunes FM](https://radio.madza.dev/) or [Moss Garden](https://moss.garden/) - Lofi Radio
 * ⭐ **[Music For Programming](https://musicforprogramming.net/latest/)** - Ambient Playlists
 * ⭐ **[CityHop](https://www.cityhop.cafe/)** or [Japan Walkaround](https://thatguyedd.github.io/) - Lofi Radio / City Walks
 * ⭐ **[Coding Cat](https://hostrider.com/)** - Lofi Radio / Nyan Cat's Cousin
@@ -476,7 +476,7 @@
 # ► Tracking / Discovery
 
 * ⭐ **[Last.fm](https://www.last.fm/home)**, [Music Board](https://musicboard.app/) or [Libre](https://libre.fm/) - Track Music you Listen to
-* ⭐ **Last.fm Tools** - [Manual Scrobble](https://openscrobbler.com/) / [Web Scrobble](https://web-scrobbler.com/) / [Album Collages](https://www.chartmymusic.com/), [2](https://www.tapmusic.net/), [3](https://musicorumapp.com/generate) / [Artist Iceberg](https://lastfm-iceberg.dawdle.space/) / [Tag Cloud](https://tagcloud.joshuarainbow.co.uk/) / [Now Playing](https://descent.live/now)
+* ⭐ **Last.fm Tools** - [Manual Scrobble](https://openscrobbler.com/) / [Web Scrobble](https://web-scrobbler.com/) / [Album Collages](https://www.chartmymusic.com/), [2](https://www.tapmusic.net/), [3](https://musicorumapp.com/generate) / [Artist Iceberg](https://lastfm-iceberg.dawdle.space/) / [Tag Cloud](https://tagcloud.joshuarainbow.co.uk/) / [Mainstream Calc](http://mainstream.ghan.nl/) / [Now Playing](https://descent.live/now)
 * ⭐ **[Has it leaked](https://hasitleaked.com/)** or [LEAKED](https://leaked.cx/) - Album Leak Tracker
 * ⭐ **[Muspy](https://muspy.com/)**, [MusicButler](https://www.musicbutler.io/) or [Brew.fm](https://www.brew.fm/) - Get Album Release Updates
 * ⭐ **[RateYourMusic](https://rateyourmusic.com/)**, **[Sputnik](https://www.sputnikmusic.com/)**, [Discogs](https://www.discogs.com/) / [Scout](https://greasyfork.org/en/scripts/439452-discogs-scout) / [Timestamps](https://martinbarker.me/tagger), [AlbumOfTheYear](https://www.albumoftheyear.org/), [AllMusic](https://www.allmusic.com/) or [MusicBrainz](https://musicbrainz.org/) / [Insights](https://listenbrainz.org/) - Ratings / Reviews

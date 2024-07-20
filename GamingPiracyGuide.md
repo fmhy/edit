@@ -13,7 +13,7 @@
 * 🌐 **[/r/PiratedGames Mega](https://rentry.org/pgames)** / [Discord](https://discord.gg/dZWwhUy) - Game Piracy Megathread
 * 🌐 **[CS.RIN Mega](https://cs.rin.ru/forum/viewtopic.php?f=10&t=95461)** - Game Piracy Megathread
 * 🌐 **[privateersclub](https://megathread.pages.dev/)** - Game Piracy Megathread / [Discord](https://discord.gg/jz8dUnnD6Q)
-* 🌐 **[Wotaku](https://wotaku.moe/games)** - Otaku game Index / [Discord](https://discord.gg/vShRGx8ZBC)
+* 🌐 **[Wotaku](https://wotaku.moe/games)** - Otaku Games Index / [Discord](https://discord.gg/vShRGx8ZBC)
 * 🌐 **[EverythingMoe](https://everythingmoe.com/?nsfw=true#section-game)** - Otaku Games Index / [Discord](https://discord.gg/GuueaDgKdS)
 * ↪️ **[Scene Release Trackers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_scene_release_trackers)**
 * ⭐ **[GamesDrive](https://gamesdrive.net/)** - Download / [Discord](https://discord.gg/wXdNEhf73x) / [Divolt](https://gamesdrive.divolt.xyz/) / [Telegram](https://t.me/+qkrAOiq7k7ozNzRk)
@@ -290,7 +290,7 @@
 * [Super Mario Bros Crossover](https://archive.org/details/SuperMarioCrossoverOffline) - Play SMB with Alternative Characters
 * [perfect_dark](https://github.com/fgsfdsfgs/perfect_dark), [2](https://github.com/n64decomp/perfect_dark) - Perfect Dark Decompilation
 * [sm64](https://github.com/n64decomp/sm64) / [Discord](https://discord.gg/DuYH3Fh) - Super Mario 64 Decompilation
-* [Dan's Palace](https://discord.gg/RqQeZwrP8k) - Android / PSVita PC Game Ports Discord
+* [Dan's Palace](https://discord.gg/RqQeZwrP8k) - Android / PSVita PC Game Ports Discord / [Telegram](https://t.me/danspalace)
 * [wide-snes](https://github.com/VitorVilela7/wide-snes) - Widescreen Super Mario World
 * [Dats.site](https://dats.site/) or [No Intro](https://no-intro.org/) - ROM .dat Files
 * [Dat-O-Matic](https://datomatic.no-intro.org/index.php) - ROM Datasets
@@ -325,6 +325,7 @@
 * [SMWGames](https://www.smwgames.com/) - Hacked Super Mario World Browser Emulators
 * [Jelly Mario](https://jellymar.io/) - Jelly Super Mario
 * [Level Share Square](https://levelsharesquare.com/) - Custom Maps for Mario Fangames
+* [Mario Kart PC](https://mkpc.malahieude.net/mariokart.php) - Browser Mario Kart
 * [Mega Man Games](https://www.megamangames.net/) - Mega Man Browser Emulator
 * [Q1K3](https://js13kgames.com/games/q1k3/index.html) - Quake Inspired Browser Game
 * [Lain Game](https://laingame.net/) - Lain Game Browser Emulator
@@ -395,6 +396,7 @@
 * [Kongregate](https://www.kongregate.com/) - Browser Games
 * [Addicting Games](https://www.addictinggames.com/) - Browser Games
 * [Y8](https://www.y8.com/) - Browser Games
+* [Poki](https://poki.com/) - Browser Games
 * [Crazy Games](https://www.crazygames.com/) - Browser Games
 * [GamezHero](https://www.gamezhero.com/) - Browser Games
 * [Deepnight](https://deepnight.net/) - Browser Games

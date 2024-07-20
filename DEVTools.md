@@ -58,7 +58,7 @@
 * [ZealDocs](https://zealdocs.org/) - Offline Document Viewer
 * [choose-a-license](https://writefreesoftware.org/learn/participate/choose-a-license/) or [ChooseALicense](https://choosealicense.com/) - How to pick a license
 * [PrivacyPolicyTemplate](https://www.privacypolicytemplate.net/), [PrivacyBoard](https://www.privacyboard.co/) or [PrivacyLabel](https://www.privacylabel.org/) - Generate Privacy Policies
-* [Eternal Terminal](https://eternalterminal.dev/) - SSH Clients / Server
+* [Eternal Terminal](https://eternalterminal.dev/) or [NxShell](https://nxshell.github.io/) - SSH Clients / Servers
 * [PuTTY](https://www.chiark.greenend.org.uk/~sgtatham/putty/) - SSH & Telnet Client / [Multi-Tab](https://ttyplus.com/) / [Fork](https://www.9bis.net/kitty/#!index.md) / [GitHub](https://github.com/cyd01/KiTTY/)
 * [Penpot](https://penpot.app/) - Cross Domain Design & Prototyping Platform
 * [Webhook.site](https://webhook.site/) - Webhook Tools
@@ -637,6 +637,7 @@
 * [Ideone](https://www.ideone.com/) - Online Code Editor
 * [PlayCode](https://playcode.io/) - Online Code Editor
 * [ObjGen](https://www.objgen.com/) - Online Code Editor
+* [RunJS](https://runjs.app/play/) - Online Code Editor
 * [html-css-js](https://html-css-js.com/) - Online Code Editor
 * [Openshift](https://workspaces.openshift.com/) - Cloud IDE / Eclipse Che
 * [Arduino](https://cloud.arduino.cc/) - Cloud IDE for Arduino
@@ -728,6 +729,7 @@
 * [Learn to Program](https://github.com/karlhorky/learn-to-program) - Programming Courses
 * [FreeCourses](https://freecourses.github.io/) - Programming Courses
 * [CloudSkillsBoost](https://www.cloudskillsboost.google/paths) - Programming Courses
+* [Hyperskill](https://hyperskill.org/) - Programming Courses
 * [EggHead](https://egghead.io/) - Programming Courses
 * [TechSchool](https://techschool.dev/en) - Programming Courses / [Discord](https://discord.com/invite/C4abRX5skH)
 * [Beej's Guides](https://www.beej.us/guide/) or [LearnByExample](https://learnbyexample.github.io/) - Programming Guides

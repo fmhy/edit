@@ -53,7 +53,6 @@
 * ↪️ **[Steam Workshop Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_steam_workshop_downloaders)**
 * ⭐ **[Koalageddon](https://github.com/acidicoala/Koalageddon/)** / [v2](https://github.com/acidicoala/Koalageddon2) - DLC Unlocker for Steam, Epic, Origin, EA and Uplay
 * ⭐ **[SmokeAPI](https://github.com/acidicoala/SmokeAPI)** - Steam DLC Unlocker / [Auto Installer](https://github.com/pointfeev/CreamInstaller)
-* ⭐ **[Goldberg](https://github.com/otavepto/gbe_fork)** / [GUI](https://github.com/brunolee-GIT/GSE-Generator) / [Guide](https://rentry.co/goldberg_emulator) / [SmartSteamEmu](https://cs.rin.ru/forum/viewtopic.php?p=2009102#p2009102) - Offline Steam DRM Bypass / Multiplayer Emulator
 * ⭐ **[Steamtools](https://github.com/st2024/Steamtools/releases)** / [Guide](https://rentry.co/Steamtools) or [GreenLuma](https://cs.rin.ru/forum/viewtopic.php?f=29&t=103709) / [Manager](https://github.com/BlueAmulet/GreenLuma-2024-Manager) - Offline Steam DRM Bypass / DLC Unlockers
 * ⭐ **[Unsteam](https://cs.rin.ru/forum/viewtopic.php?f=20&t=134707&hilit=unsteam)** - Online Steam DRM Bypass / Cracked Servers Only / Multiplayer Emulator
 * ⭐ **[Steamless](https://github.com/atom0s/Steamless)** - Steam DRM Remover
@@ -624,7 +623,7 @@
 * ⭐ **[Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Main_Page)** - Pokémon Wiki
 * ⭐ **[Serebii.net](https://www.serebii.net/)**, [Pokémon Database](https://pokemondb.net/) or [PocketMonsters.net](https://pocketmonsters.net/) - Pokémon Databases
 * ⭐ **[PokeList](https://pokemonlist.netlify.app/)**, [Pokedex](https://github.com/skydoves/Pokedex) or [PokeAPI](https://pokeapi.co/) - Pokedexes
-* ⭐ **[Pokémon Typechart](https://pokemondb.net/type)** - Pokémon Type Charts / [Image](https://img.pokemondb.net/images/typechart.png)
+* ⭐ **[Pokémon Typechart](https://pokemondb.net/type)** or [Type Calculator](https://www.pkmn.help/) - Pokémon Type Charts / [Image](https://img.pokemondb.net/images/typechart.png)
 * ⭐ **[PokeMMO](https://pokemmo.com/en/)**, [DelugeRPG](https://www.delugerpg.com/), [Pokémon Legends Gods](https://www.pokemongods.com/) or [Pokémon Revolution Online](https://pokemonrevolution.net/) - Pokémon MMOs
 * ⭐ **[Pokémon Showdown](https://pokemonshowdown.com/)** - Online Pokémon Battles
 * [PokeCommunity](https://www.pokecommunity.com/) - Pokémon Community
@@ -648,7 +647,6 @@
 ## ▷ Counter-Strike Tools
 
 * ⭐ **[HLTV](https://www.hltv.org/)** - Counter-Strike News
-* ⭐ **[CsWarzOnE](https://cswarzone.com/)** - Counter-Strike Downloads
 * [CSGO Trader](https://csgotrader.app/) - CS:GO Trading Enhancements
 * [ArminC-AutoExec](https://github.com/ArmynC/ArminC-AutoExec) - ArminC's CS2 Config
 * [CS2 Browser](https://cs2browser.com/) or [CS2 Server Picker](https://github.com/FN-FAL113/cs2-server-picker) - Counter-Strike 2 Server Browser
@@ -694,7 +692,7 @@
 
 ## ▷ Mario Kart Tools
 
-* ⭐ **[Retro Rewind](https://discord.gg/qbr3Y4PJFH)** - Retro MKW Tracks / Multiplayer / [Wiki](https://wiki.tockdom.com/wiki/Retro_Rewind) / [Auto-Updater](https://github.com/patchzyy/WheelWizard/releases) / [Setup Guide](https://redd.it/1dzerns)
+* ⭐ **[Retro Rewind](https://discord.gg/qbr3Y4PJFH)** - Retro MKW Tracks / Multiplayer / [Wiki](https://wiki.tockdom.com/wiki/Retro_Rewind) / [Auto-Updater](https://github.com/patchzyy/WheelWizard/releases) / [Setup Guide](https://rentry.org/Retro-Rewind) / [Troubleshooting](https://rentry.org/RR-Fixes)
 * ⭐ **[CTGP Revolution](https://www.chadsoft.co.uk/)** - Custom MKW Tracks / Multiplayer / Disc required
 * ⭐ **[Mario Kart Midnight](https://wiki.tockdom.com/wiki/Mario_Kart_Midnight)** - Custom MKW Tracks / Multiplayer
 * ⭐ **[MKWRs](https://mkwrs.com)** or [MKLeaderboards](https://www.mkleaderboards.com/) - Mario Kart Records / Videos

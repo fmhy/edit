@@ -272,7 +272,7 @@
 * ⭐ **[Buzzheavier](https://buzzheavier.com/)** - Unlimited / Forever / [Discord](https://discord.gg/ttQjgC28WP)
 * ⭐ **[Gofile](https://gofile.io/)** - Unlimited / 10 Days
 * ⭐ **[1fichier.com](https://1fichier.com/)** - 300GB / 15 Days (30 Days With Account)
-* ⭐ **[file.haus](https://filehaus.top/)** - 200GB / Forever / [.pk](https://filehaus.pk/) / [.su](https://filehaus.su/) / [.onion](http://fileha3hjvudqs2moembtaegnpjo5ptec3tomf5dlxx6ydwtajkkahyd.onion/) / [.i2p](http://xr256v4weabr3rdz3nqzb27bv3gkwjisuf2d57urqtmh3gx3w7da.b32.i2p/) / [.loki](http://nipqehne9zrtpryw6ig5y9gu7c8gwt8ymrrncufxg1g8wf5t4rqo.loki/) / [Discord](https://discord.gg/5Ac25XZfv6) / [Telegram](https://t.me/tsutajanet)
+* ⭐ **[file.haus](https://filehaus.top/)** - 300GB / Forever / [.pk](https://filehaus.pk/) / [.su](https://filehaus.su/) / [.onion](http://fileha3hjvudqs2moembtaegnpjo5ptec3tomf5dlxx6ydwtajkkahyd.onion/) / [.i2p](http://xr256v4weabr3rdz3nqzb27bv3gkwjisuf2d57urqtmh3gx3w7da.b32.i2p/) / [.loki](http://nipqehne9zrtpryw6ig5y9gu7c8gwt8ymrrncufxg1g8wf5t4rqo.loki/) / [Discord](https://discord.gg/5Ac25XZfv6) / [Telegram](https://t.me/tsutajanet)
 * ⭐ **[Send.cm](https://send.cm/)** - 100GB / 15 Days
 * ⭐ **[Pillowcase](https://pillowcase.su/)** - Audio File Host / 200MB (500MB With Account) / Forever
 * ⭐ **[Catbox](https://catbox.moe/)** - 200MB / Forever
@@ -434,7 +434,7 @@
 * [GDrive Downloader](https://github.com/Akianonymus/gdrive-downloader) - Google Drive Folder Downloader
 * [gdrivedl](https://github.com/matthuisman/gdrivedl) - Google Drive Python Download Script
 * [GDriveSearcherBot](https://github.com/TheHamkerCat/GdriveSearcherBot) - GDrive Search Bot
-* [ISAAC](https://github.com/harryeffinpotter/ISAAC) - Google Service Account Generators
+* [ISAAC](https://rentry.co/FMHYBase64#gservice-gen) - Google Service Account Generators
 * [goindex](https://github.com/alx-xlx/goindex) / [Extended](https://github.com/menukaonline/goindex-extended) / [Themes](https://install.kenci.workers.dev/) or [Google-Drive-Index](https://gitlab.com/GoogleDriveIndex/Google-Drive-Index) - Google Drive Indexers
 * [Decrypt.Hashhackers](https://decrypt.hashhackers.com/) - Encrypt / Decrypt GDrive
 * [gdurl](https://gdurl.com/), [google-drive-direct-link-generator/](https://www.wonderplugin.com/online-tools/google-drive-direct-link-generator/),[Direct.GDrive](https://direct.gdrive.vip/en/), [Maulvi](https://maulvi.github.io/), [GDriveWebAppPublic ](https://github.com/CloudflareHackers/GDriveWebAppPublic), [Google Drive Direct Links](https://greasyfork.org/en/scripts/10052) or [Sharer](https://sharer.pw/) - Host Direct Links on GDrive
@@ -458,3 +458,4 @@
 * [Mega-Downloader](https://github.com/ZonD80/mega-downloader) - Mega Download Script
 * [Mega.nz-Rclone-Index-Heroku](https://github.com/developeranaz/Mega-index-heroku) - Mega to HTTP
 * [MegaKeep](https://github.com/maybecryptic/MegaKeep) - Login to Multiple Mega Accounts
+* [Mega Gen](https://rentry.co/FMHYBase64#mega-gen) - Mega Account Generator
