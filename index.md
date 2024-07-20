@@ -8,7 +8,7 @@ hero:
   text: freemediaheckyeah
   tagline: The largest collection of free stuff on the internet!
   prelink:
-    title: July 2024 Updates
+    title: July Updates
     link: /posts/july-2024
   image:
     src: /test.png
