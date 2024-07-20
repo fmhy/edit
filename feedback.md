@@ -1,26 +1,16 @@
 ---
-name: Feedback
+title: Feedback
 description: Anonymous comments, taken from reddit, discord, twitter, and our feedback system.
 next: false
 prev: false
 lastUpdated: false
 outline: false
 ---
+
 ### Feedback
 
 :::tip What is this?
 Anonymous comments, taken from reddit, discord, twitter, and our feedback system. This is why we do it. People are the motivation, equality is the goal.
-:::
-
-
-:::info Balls
-nyaboom > explodives
-:::
-
-
-
-:::danger Balls
-nyaboom > explodives
 :::
 
 ***
