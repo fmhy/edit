@@ -282,11 +282,12 @@
 * 🌐 **[Fagan Finder](https://www.faganfinder.com/)**, [DirectSearch.Net](http://www.directsearch.net/), [Search Engine Colossus](https://www.searchenginecolossus.com/) or [Search-Engine](https://start.me/p/wM7y15/search-engine) - Search Engine Indexes
 * ↪️ **[Privacy Search Engines](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25B7_search_engines)**
 * ⭐ **[Yandex](https://yandex.com/)**
-* ⭐ **[Ecosia](https://www.ecosia.org/)** - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/ecosia-the-green-search/) / [Chrome](https://chromewebstore.google.com/detail/ecosia-the-search-engine/eedlgdlajadkbbjoobobefphmfkcchfk)
+* ⭐ **[Ecosia](https://www.ecosia.org/)** / [Firefox](https://addons.mozilla.org/en-US/firefox/addon/ecosia-the-green-search/) / [Chrome](https://chromewebstore.google.com/detail/ecosia-the-search-engine/eedlgdlajadkbbjoobobefphmfkcchfk)
 * [Leta](https://leta.mullvad.net) - Mullvad VPN required
-* [MWMBL](https://mwmbl.org/) - [GitHub](https://github.com/mwmbl/mwmbl)
-* [Presearch](https://presearch.com/) - [GitHub](https://github.com/presearchofficial)
----
+* [MWMBL](https://mwmbl.org/) / [GitHub](https://github.com/mwmbl/mwmbl)
+* [Presearch](https://presearch.com/) / [GitHub](https://github.com/presearchofficial)
+* [ZincSearch](https://zincsearch-docs.zinc.dev/) / [GitHub](https://github.com/zincsearch/zincsearch)
+* [Whoogle Search](https://github.com/benbusby/whoogle-search)
 * [Bing](https://www.bing.com/)
 * [Lycos](https://www.lycos.com/)
 * [WebCrawler](https://www.webcrawler.com/)
@@ -306,10 +307,7 @@
 * [eTools.ch](https://www.etools.ch/)
 * [BizNar](https://biznar.com/biznar/desktop/en/search.html)
 * [WorldWideScience](https://worldwidescience.org/)
-* [ZincSearch](https://github.com/zincsearch/zincsearch)
-* [Whoogle Search](https://benbusby.com/projects/whoogle-search/)
 * [infospace](https://www.infospace.com/)
-* [2lingual](https://www.2lingual.com/)
 * [alexandria.org](https://www.alexandria.org/)
 
 ***
@@ -356,11 +354,9 @@
 * [goosh](https://goosh.org/) - Simple Google Web Client
 * [Google Trends](https://trends.google.com/trends/) - Google Search Trends
 * [View Image](https://github.com/bijij/ViewImage) - Adds Back "View Image" Button to Google Image Search
----
 * [Show Image Dimensions](https://greasyfork.org/scripts/401432) - Add Image Dimensions to Google
-* [Google DWIMages](https://greasyfork.org/en/scripts/29420) - Add Direct Image Links
+* [Google DWIMages](https://greasyfork.org/en/scripts/29420) - Direct Links to Images & Pages on Google
 * [Endless Google](https://openuserjs.org/scripts/tumpio/Endless_Google) - Google Search Endless Scrolling
-* [Extra Search Buttons](https://greasyfork.org/en/scripts/7543-google-search-extra-buttons) - Extra Google Search Buttons
 * [Google Bangs](https://greasyfork.org/en/scripts/424160) - DDG !bangs in Google
 * [DisableAMP](https://github.com/AdguardTeam/DisableAMP) - Disable Google AMP Links
 
@@ -843,6 +839,7 @@
 ## ▷ Userscripts
 
 * 🌐 **[Awesome Userscripts](https://github.com/awesome-scripts/awesome-userscripts)**, [XIU2](https://github.com/XIU2/UserScript), [Scripts](https://gitlab.com/loopvid/scripts) or [Userscript.zone](https://www.userscript.zone/) - Userscript Indexes
+* ↪️ **[Google Search Userscripts]()**
 * ⭐ **[Violentmonkey](https://violentmonkey.github.io/)**, **[Tampermonkey](https://www.tampermonkey.net/)**, or [Firemonkey](https://addons.mozilla.org/en-US/firefox/addon/firemonkey/) - Userscript Managers
 * ⭐ **[Greasy Fork](https://greasyfork.org/)**, [OpenUserJS](https://openuserjs.org/) or [Userscripts](https://userscripts-mirror.org/) - Install Userscripts
 * ⭐ **Greasy Fork Tools** - [Enhancements](https://greasyfork.org/en/scripts/473830) / [Helper](https://greasyfork.org/en/scripts/393396) / [Tweaks](https://greasyfork.org/en/scripts/368183) / [Cleanup Script](https://greasyfork.org/en/scripts/12179) / [Themes](https://greasyfork.org/en/scripts/4336) / [Dark Theme](https://greasyfork.org/en/scripts/404443) / [Git Install](https://greasyfork.org/en/scripts/6456)
@@ -925,6 +922,7 @@
 * 🌐 **[Awesome OSINT](https://github.com/jivoi/awesome-osint)** - Awesome OSINT
 * ↪️ **[Photo Forensics](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/img-tools/#wiki_.25B7_photo_forensics)**
 * ↪️ **[Domain / DNS Info](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools#wiki_.25B7_domain_.2F_dns)**
+* ↪️ **[Search Engine OSINT]()**
 * ⭐ **[IntelTechniques](https://inteltechniques.com/index.html)** or [OSINT Techniques](https://www.osinttechniques.com/) - OSINT Resources
 * ⭐ **[Analyst Research Tools](https://analystresearchtools.com/)** - Tools and Resources
 * [Osintracker](https://www.osintracker.com/) - Track Your Investigations
