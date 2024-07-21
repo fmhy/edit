@@ -555,7 +555,6 @@
 
 ## ▷ Audio Players
 
-* 🌐 **[Awesome Audio Visualization](https://github.com/willianjusten/awesome-audio-visualization)** - Audio Visualization Index
 * ⭐ **[Foobar2000](https://www.foobar2000.org/)**
 * ⭐ **Foobar2000 Tools** - [Components](https://audio-file.org/foobar2000-list-of-components/), [2](https://www.foobar2000.org/components) / [VU Meter](https://audio-file.org/foobar2000-vu-meter-skins-gallery/) / [Scrobble](https://github.com/gix/foo_scrobble) / [Lyric Sync](https://rentry.co/FB2K-SyncedLyrics)
 * ⭐ **[WACUP](https://getwacup.com/)** / [Discord](https://discord.gg/5pVTdbj)
