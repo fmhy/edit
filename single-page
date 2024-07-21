@@ -2415,7 +2415,7 @@
 * [Ruffle](https://ruffle.rs/) - Flash Emulator
 * [Flash 32 Download](https://pastebin.com/CTLS5EVy) or [Clean Flash Builds](https://github.com/darktohka/clean-flash-builds/) - Flash Downloads
 * [Edge-Remover](https://rentry.co/uninstall_edge) - Microsoft Edge Removal Script
-* [NoMoreEdge](https://github.com/KodeByWrath/NoMoreEdge), [Edge_Removal.bat](https://github.com/AveYo/fox/blob/main/Edge_Removal.bat) or [MSEdgeRedirect](https://github.com/rcmaehl/MSEdgeRedirect) - Redirect Microsoft Edge
+* [Edge_Removal.bat](https://github.com/AveYo/fox/blob/main/Edge_Removal.bat) or [MSEdgeRedirect](https://github.com/rcmaehl/MSEdgeRedirect) - Redirect Microsoft Edge
 * [WhatIsMyBrowser](https://developers.whatismybrowser.com/) - User Agent Archive
 * [Irchiver](https://irchiver.com/) - Automatic Web Browser Screenshots
 
@@ -2835,7 +2835,7 @@
 * ⭐ **[VLC](https://www.videolan.org/vlc/download-android.html)**
 * ⭐ **[Just Player](https://github.com/moneytoo/Player)**
 
-[MX Player](https://rentry.co/FMHYBase64#mx-player) / [Codec](https://github.com/USBhost/MX_FFmpeg), [mpv-android](https://github.com/mpv-android/mpv-android), [Nova Video Player](https://github.com/nova-video-player), [Fermata Media Player](https://github.com/AndreyPavlenko/Fermata), [Aos AVP](https://github.com/nova-video-player/aos-AVP), [SPlayer](https://splayer.dev/), [Next Player](https://github.com/anilbeesetti/nextplayer), [M3UAndroid](https://github.com/realOxy/M3UAndroid) / [Telegram](https://t.me/m3u_android), [Audiofy](https://github.com/iZakirSheikh/Audiofy)
+[MX Player](https://rentry.co/FMHYBase64#mx-player) / [Codec](https://github.com/USBhost/MX_FFmpeg), [mpv-android](https://github.com/mpv-android/mpv-android), [Nova Video Player](https://github.com/nova-video-player), [Fermata Media Player](https://github.com/AndreyPavlenko/Fermata), [SPlayer](https://splayer.dev/), [Next Player](https://github.com/anilbeesetti/nextplayer), [M3UAndroid](https://github.com/realOxy/M3UAndroid) / [Telegram](https://t.me/m3u_android), [Audiofy](https://github.com/iZakirSheikh/Audiofy)
 
 ***
 
@@ -4196,10 +4196,10 @@ Use this [browser extension](https://github.com/bpc-clone/bpc_updates/releases) 
 * ⭐ **[JDownloader](https://jdownloader.org/jdownloader2)** - Download Manager / [Debloat](https://rentry.org/jdownloader2) / [Dark Theme](https://redd.it/q3xrgj) / [Dracula Theme](https://draculatheme.com/jdownloader2)
 * ⭐ **[Go Speed](https://gopeed.com/)** - Download Manager / [GitHub](https://github.com/GopeedLab/gopeed) / [Extension](https://github.com/GopeedLab/browser-extension) / [Plugins](https://github.com/search?q=topic%3Agopeed-extension&type=repositories)
 * ⭐ **[IDM](https://rentry.co/FMHYBase64#idm)** - Download Manager
+* [FDM](https://www.freedownloadmanager.org/) - Download Manager / [YTDL Addon](https://github.com/meowcateatrat/elephant) / [Note](https://pastebin.com/Vgwf3avH)
 * [XDM](https://xtremedownloadmanager.com/) - Download Manager / [GitHub](https://github.com/subhra74/xdm)
 * [Motrix](https://www.motrix.app/) or [imFile](https://github.com/imfile-io/imfile-desktop) - Download Manager / [GitHub](https://github.com/agalwood/Motrix)
 * [aria2](https://aria2.github.io/) or [Persepolis](https://persepolisdm.github.io/) - Terminal Download Manager / [GitHub](https://github.com/aria2/aria2) / [Download Bot](https://github.com/gaowanliang/DownloadBot) / [WebUI](https://github.com/ziahamza/webui-aria2), [2](https://ariang.mayswind.net/)
-* [FDM](https://www.freedownloadmanager.org/) - Download Manager / [YTDL Addon](https://github.com/meowcateatrat/elephant) / [Note](https://pastebin.com/Vgwf3avH)
 * [ArrowDL](https://github.com/setvisible/ArrowDL/) - Download Manager
 * [pyLoad](https://pyload.net/) - Lightweight Download Manager
 * [File Centipede](https://filecxx.com/) - Upload / Download Manager
@@ -4784,7 +4784,7 @@ Use this [browser extension](https://github.com/bpc-clone/bpc_updates/releases) 
 
 ## ▷ Controller Tools
 
-* [DS4Windows](https://ryochan7.github.io/ds4windows-site/), [AntiMicroX](https://github.com/AntiMicroX/antimicroX), [DualSenseX](https://github.com/Paliverse/DualSenseX), [PCXSense](https://github.com/Denellyne/PCXSense) or [Input Remapper](https://github.com/sezanzeb/input-remapper) - Gamepad Input Tools / [Steam Note](https://pastebin.com/ycswQGVR)
+* [DS4Windows](https://github.com/Ryochan7/DS4Windows), [AntiMicroX](https://github.com/AntiMicroX/antimicroX), [DualSenseX](https://github.com/Paliverse/DualSenseX), [PCXSense](https://github.com/Denellyne/PCXSense) or [Input Remapper](https://github.com/sezanzeb/input-remapper) - Gamepad Input Tools / [Steam Note](https://pastebin.com/ycswQGVR)
 * [x360ce](https://www.x360ce.com/) / [GitHub](https://github.com/x360ce/x360ce) - DS4 / 360 Controller Emulator
 * [XOutput](https://github.com/csutorasa/XOutput) - DirectInput to Xinput wrapper
 * [DsHidMini](https://docs.nefarius.at/projects/DsHidMini/) - Use PS3 Controllers on Windows
@@ -5356,12 +5356,13 @@ Use this [browser extension](https://github.com/bpc-clone/bpc_updates/releases) 
 * ⭐ **[Roblox Account Manager](https://github.com/ic3w0lf22/Roblox-Account-Manager)** - Roblox Account Manager
 * ⭐ **[Rolimon's](https://www.rolimons.com/games)** or [RoMonitor Stats](https://romonitorstats.com/) - Roblox Experience Stats
 * ⭐ **[Bloxstrap](https://bloxstrap.pizzaboxer.xyz/)** - Roblox Player Bootstrapper / **[GitHub](https://github.com/pizzaboxer/bloxstrap)**
-* [Novetus](https://bitl.itch.io/novetus) - Self-Hosted Multi-version Roblox Client
-* [Roblox Studio Mod Manager](https://github.com/MaximumADHD/Roblox-Studio-Mod-Manager) - Roblox Studio Bootstrapper
-* [RoPro](https://ropro.io/), [Roblox+](https://chromewebstore.google.com/detail/roblox%20/jfbnmfgkohlfclfnplnlenbalpppohkm), [BTRoblox](https://twitter.com/AntiBoomz/status/1378597179556823040), [RoGold](https://rogold.live/) or [RoSeal](https://www.roseal.live/) - Enhance Roblox Website
-* [RBXServers](https://rbxservers.xyz/) or [Freevipservers](https://freevipservers.net/) - Roblox VIP Servers
-* [Roblox Web APIs](https://github.com/matthewdean/roblox-web-apis) - Roblox APIs
-* [ingame.clothing](https://ingame.clothing/) - Preview Avatar Clothing
+* ⭐ **[TBROGER](https://rentry.co/TBROGER)** - Roblox Optimization Guide
+* **[Novetus](https://bitl.itch.io/novetus)** - Self-Hosted Multi-version Roblox Client
+* **[Roblox Studio Mod Manager](https://github.com/MaximumADHD/Roblox-Studio-Mod-Manager)** - Roblox Studio Bootstrapper
+* **[RoPro](https://ropro.io/)**, **[Roblox+](https://chromewebstore.google.com/detail/roblox/jfbnmfgkohlfclfnplnlenbalpppohkm)**, **[BTRoblox](https://twitter.com/AntiBoomz/status/1378597179556823040)**, **[RoGold](https://rogold.live/)** or **[RoSeal](https://www.roseal.live/)** - Enhance Roblox Website
+* **[RBXServers](https://rbxservers.xyz/)** or **[Freevipservers](https://freevipservers.net/)** - Roblox VIP Servers
+* **[Roblox Web APIs](https://github.com/matthewdean/roblox-web-apis)** - Roblox APIs
+* **[ingame.clothing](https://ingame.clothing/)** - Preview Avatar Clothing
 
 ***
 
@@ -10531,7 +10532,6 @@ Use this [browser extension](https://github.com/bpc-clone/bpc_updates/releases) 
 
 ## ▷ Audio Players
 
-* 🌐 **[Awesome Audio Visualization](https://github.com/willianjusten/awesome-audio-visualization)** - Audio Visualization Index
 * ⭐ **[Foobar2000](https://www.foobar2000.org/)**
 * ⭐ **Foobar2000 Tools** - [Components](https://audio-file.org/foobar2000-list-of-components/), [2](https://www.foobar2000.org/components) / [VU Meter](https://audio-file.org/foobar2000-vu-meter-skins-gallery/) / [Scrobble](https://github.com/gix/foo_scrobble) / [Lyric Sync](https://rentry.co/FB2K-SyncedLyrics)
 * ⭐ **[WACUP](https://getwacup.com/)** / [Discord](https://discord.gg/5pVTdbj)
@@ -16399,6 +16399,7 @@ https://aniwow.in/ has only dubs though
 * ⭐ **[Download CSE](https://cse.google.com/cse?cx=006516753008110874046:1ugcdt3vo7z)** / [CSE 2](https://cse.google.com/cse?cx=006516753008110874046:reodoskmj7h) - Multi-Site Search
 * ⭐ **[FilePursuit](https://filepursuit.com)** - [Discord](https://discord.gg/xRfFd8h)
 * ⭐ **[4Shared](https://www.4shared.com/)**
+* ⭐ **[Hatt](https://github.com/FrenchGithubUser/Hatt)** - File Search App
 * [Meawfy](https://meawfy.com/) - Mega.nz Search
 * [File Host Search](https://cse.google.com/cse?cx=90a35b59cee2a42e1)
 * [scnlog](https://scnlog.me/)
@@ -16602,7 +16603,6 @@ https://aniwow.in/ has only dubs though
 * [RapidGrab](https://rapidgrab.ovh/) or [Newscon](https://www.newscon.net/d1/) / [2](https://www.newscon.org/d3/) - Leech
 * [Real-Debrid](https://real-debrid.com/) - Paid Debrid service / [Torrent Client](https://github.com/rogerfar/rdt-client) / [Movies / TV](https://hdencode.org/)
 * [Debrid-Link](https://debrid-link.com) - Debrid with Free Tier
-* [AllDebrid](https://alldebrid.com/) - Paid Debrid service with seven day trial
 * [Debrid Media Manager](https://debridmediamanager.com/) - Manage / Stream / Download RD Files
 ***
 ***
@@ -16634,9 +16634,9 @@ https://aniwow.in/ has only dubs though
 * [PrimeWire](https://www.primewire.tf/) - Movies / TV / Anime / 1080p
 * [Levidia](https://www.levidia.ch/), [2](https://supernova.to/), [3](https://www.goojara.to/) - Movies / TV / Anime / 1080p
 * [UpMovies](https://upmovies.net/), [2](https://flixwave.me/), [3](https://vumoo.mx/) - Movies / TV / Anime / 1080p / Use Adblock
-* [SFlix](https://sflix.to/), [2](https://vidstream.to/), [3](https://gostream.to/) - Movies / TV / 1080p / [Mirrors](https://rentry.co/sflix)
+* [SFlix](https://sflix.to/), [2](https://vidstream.to/), [3](https://gostream.to/) - Movies / TV / 1080p / [Clones](https://rentry.co/sflix)
 * [CinemaUnlocked](https://cinemaunlocked.com/) - Movies / TV / Anime / 1080p
-* [M4uFree](https://m4ufree.se/) - Movies / TV / Anime / 1080p / [Mirrors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_m4ufree_clones)
+* [M4uFree](https://m4ufree.se/) - Movies / TV / Anime / 1080p / [Clones](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_m4ufree_clones)
 * [PlayFlix](https://playflix.ru/) - Movies / TV / Anime / 4K / 1080p
 * [CriaFlix](https://criaflix.live/) - Movies / TV / Anime / 1080p / [Discord](https://discord.com/invite/z72kQpKRUP)
 * [123MoviesFree](https://ww2.123moviesfree.net/) - Movies / TV / Anime / 1080p
@@ -16646,7 +16646,7 @@ https://aniwow.in/ has only dubs though
 * [Yesmovies.pm](https://yesmovies.pm/) - Movies / TV / Anime / 1080p
 * [TVids](https://www.tvids.net/), [2](https://watch-tvseries.net/) - Movies / TV / Anime / 1080p
 * [Nova](https://novastream.top/) - Movies / TV / 1080p / [Github](https://github.com/ambr0sial/nova/)
-* [HollyMovieHD](https://hollymoviehd.cc/), [2](https://yeshd.net/), [3](https://novamovie.net/) - Movies / TV / Anime / 1080p / [Mirrors](https://hollymoviehd-official.com/)
+* [HollyMovieHD](https://hollymoviehd.cc/), [2](https://yeshd.net/), [3](https://novamovie.net/) - Movies / TV / Anime / 1080p / [Clones](https://hollymoviehd-official.com/)
 * [ProjectFreeTV](https://projectfreetv.sx/) - Movies / TV / 1080p
 * [YassFlix](https://yassflix.live/) - Movies / TV / Anime / 1080p / Ad-Free
 * [Seez](https://seez.su/), [2](https://watchwave-v2.vercel.app/watch) - Movies / TV / 1080p / [Discord](https://discord.com/invite/v5mSB8gvcm)
@@ -16680,10 +16680,10 @@ https://aniwow.in/ has only dubs though
 * ⭐ **[BFlix](https://w1.nites.is/)** - Movies / TV / 1080p
 * ⭐ **[PressPlay](https://www.pressplay.top/)** - Movies / TV / 1080p / [Discord](https://discord.gg/r4QrghF4B9)
 * ⭐ **[YesMovies](https://yesmovies.ag/)**, [2](https://ww4.solarmovie.to/), [3](https://ww5.0123movie.net/), [4](https://ww1.putlocker.vip/) - Movies / TV / 1080p
-* ⭐ **[LookMovie](https://lookmovie2.to/)** - Movies / TV / 720p / [Mirrors](https://proxymirrorlookmovie.github.io/)
+* ⭐ **[LookMovie](https://lookmovie2.to/)** - Movies / TV / 720p / [Clones](https://proxymirrorlookmovie.github.io/)
 * [Tubi](https://tubitv.com) - Movies / TV / 720p / Use Adblock / [Downloader](https://github.com/warren-bank/node-hls-downloader-tubitv) / US Only
 * [Gir Society](https://discord.gg/WHxeZ3aTtb) - Movies / TV / Anime / 1080p / Plex Required
-* [OnionPlay](https://onionplay.se/) - Movies / TV / 1080p / [Mirrors](https://onionplay.network/)
+* [OnionPlay](https://onionplay.se/) - Movies / TV / 1080p / [Clones](https://onionplay.network/)
 * [FshareTV](https://fsharetv.co/) - Movies / 1080p
 * [FossaTV](https://fossa.tv/), [2](https://tv.cross.moe/) - Movies / TV / 1080p
 * [Catflix](https://catflix.su/) - Movies / TV / 1080p / Ad-Free
@@ -16730,11 +16730,11 @@ https://aniwow.in/ has only dubs though
 * ⭐ **[AniWave](https://aniwave.to/)** or [Anix](https://anix.to/), [2](https://animesuge.to/), [3](https://gogoanimex.to/home), [4](https://zoroxtv.to/) - Sub / Dub / 1080p / [Lite](https://lite.aniwave.to)
 * ⭐ **[HiAnime](https://hianime.to/)**, [2](https://4anime.gg/), [3](https://kaido.to/), [4](https://9animetv.to/), [5](https://anicrush.to/), [6](https://aniwatchtv.to/) - Sub / Dub / 1080p / [Auto-Focus](https://greasyfork.org/en/scripts/464019) / [Discord](https://discord.gg/hianime)
 * ⭐ **[AnimePahe](https://animepahe.ru/)** - Sub / 1080p / [Downloader](https://github.com/KevCui/animepahe-dl)
-* ⭐ **[KickAssAnime](https://kickassanime.mx/)** - Sub / Dub / 1080p / [Mirrors](https://watchanime.io/) / [Discord](https://discord.gg/qduzrvTG6p)
+* ⭐ **[KickAssAnime](https://kickassanime.mx/)** - Sub / Dub / 1080p / [Clones](https://watchanime.io/) / [Discord](https://discord.gg/qduzrvTG6p)
 * ⭐ **[Animetsu](https://animetsu.cc/)** - Sub / Dub / 1080p / [Discord](https://discord.com/invite/f2SvhcKCKS)
 * ⭐ **[AllManga](https://allmanga.to/)** - Sub / Dub / 1080p / [Discord](https://discord.gg/YbuYYUwhpP)
 * ⭐ **[GoGoAnime](https://gogoanime3.co/)**, [2](https://anitaku.to/), [3](https://daftanime.com/) - Sub / Dub / 1080p
-* ⭐ **GoGoAnime Tools** - [Mirrors](https://gogotaku.info/) / [Download Script](https://greasyfork.org/en/scripts/465970) / [DL Guide](https://rentry.org/gogodlscript) / [Discord](https://discord.gg/kyVfcGuCCQ)
+* ⭐ **GoGoAnime Tools** - [Clones](https://gogotaku.info/) / [Download Script](https://greasyfork.org/en/scripts/465970) / [DL Guide](https://rentry.org/gogodlscript) / [Discord](https://discord.gg/kyVfcGuCCQ)
 * ⭐ **[Layendimator](https://github.com/Layendan/Layendanimator)**, [Akuse](https://github.com/akuse-app/Akuse), [Anikin](https://github.com/jerry08/Anikin), [Unyo](https://github.com/K3vinb5/Unyo) or [Miru Project](https://miru.js.org/en/) - Desktop Streaming Apps
 * ⭐ **[Japanese Animated Film Classics](https://animation.filmarchives.jp/index.html)** - Japanese Animated Film Archive
 * ⭐ **[Anime Streaming CSE](https://cse.google.com/cse?cx=006516753008110874046:vzcl7wcfhei)** / [CSE 2](https://cse.google.com/cse?cx=006516753008110874046:mrfarx7-dxu) or [Kuroiru](https://kuroiru.co/) - Multi-Site Anime Search
@@ -16757,7 +16757,7 @@ https://aniwow.in/ has only dubs though
 * [YugenAnime](https://yugenanime.tv/) - Sub / Dub / 1080p / [Discord](https://discord.gg/MQqwQREyCz)
 * [AnimeParadise](https://www.animeparadise.moe/) - Sub / Dub / 1080p / [Discord](https://discord.com/invite/q3N6eWMMNP)
 * [AnimeLandTV](https://w4.animeland.tv/) - Dub / 1080p
-* [KissAnime](https://kissanime.com.ru/) - Sub / Dub / 1080p / [Discord](https://discord.com/invite/w5ghWQG8uM) / [Mirrors](https://kissanime.help/)
+* [KissAnime](https://kissanime.com.ru/) - Sub / Dub / 1080p / [Discord](https://discord.com/invite/w5ghWQG8uM) / [Clones](https://kissanime.help/)
 * [Animetake](https://animetake.tv/) - Sub / 1080p
 * [AnimeFox](https://animefox.in/) - Sub / Dub / 1080p
 * [Shinigamii](https://www.shinigamii.pw/) - Sub / 1080p
@@ -16826,7 +16826,7 @@ https://aniwow.in/ has only dubs though
 
 * 🌐 **[Chinese Drama Sites](https://www.reddit.com/r/CDrama/wiki/streaming)** - Chinese Drama Site Index
 * 🌐 **[EverythingMoe](https://everythingmoe.com/#section-drama)** - Asian Drama Index / [Discord](https://discord.gg/GuueaDgKdS)
-* ⭐ **[DramaCool](https://asianc.to/)**, [2](https://watchasia.to/), [3](https://dramanice.la/), [4](https://runasian.net/) - TV / Movies / 1080p / [Mirror List](https://asianwiki.co/)
+* ⭐ **[DramaCool](https://asianc.to/)**, [2](https://watchasia.to/), [3](https://dramanice.la/), [4](https://runasian.net/) - TV / Movies / 1080p / [Clones List](https://asianwiki.co/)
 * ⭐ **[KissAsian](https://kissasian.lu/)**, [2](https://kissasian.video/), [3](https://kissasian.si) - TV / Movies
 * ⭐ **[GoPlay](https://goplay.pw)** [2](https://goplay.wtf/), [3](https://goplay.anontpp.com/) - TV / Movies / 1080p / Join [Discord](https://discord.com/invite/yY2P3DQR8S) for Code
 * [GDrive KDrama](https://databasegdriveplayer.co/drama.php) - TV / Movies
@@ -17306,7 +17306,7 @@ https://aniwow.in/ has only dubs though
 * [Vuze](https://www.vuze.com/content/) - Movies / TV
 * [YAPs](https://yaps.therarbg.to/) - Movies / TV / [GitHub](https://github.com/the-rarbg/yaps)
 * [Public Domain Movie Torrents](https://www.publicdomaintorrents.info/) - Movies
-* [YTS](https://yts.mx/) or [YifyMovies](https://yifymovies.xyz/) - Movies / [Discord](https://discord.gg/GwDraJjMga) / [Mirrors](https://www.yifystatus.com/) / [Search](https://yify.netlify.app/)
+* [YTS](https://yts.mx/) or [YifyMovies](https://yifymovies.xyz/) - Movies / [Discord](https://discord.gg/GwDraJjMga) / [Clones](https://www.yifystatus.com/) / [Search](https://yify.netlify.app/)
 * [kunkka-tor.rent](https://torrent.klesun.net/) - Torrent Streaming Site (use VPN)
 * [JapaneseTorrents](https://japanesetorrents.wordpress.com/) - Asian Drama
 * [TV-Nihon](https://tracker.tvnihon.com/) - Japanese Commercial Archive

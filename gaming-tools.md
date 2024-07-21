@@ -166,7 +166,7 @@
 
 ## ▷ Controller Tools
 
-* [DS4Windows](https://ryochan7.github.io/ds4windows-site/), [AntiMicroX](https://github.com/AntiMicroX/antimicroX), [DualSenseX](https://github.com/Paliverse/DualSenseX), [PCXSense](https://github.com/Denellyne/PCXSense) or [Input Remapper](https://github.com/sezanzeb/input-remapper) - Gamepad Input Tools / [Steam Note](https://pastebin.com/ycswQGVR)
+* [DS4Windows](https://github.com/Ryochan7/DS4Windows), [AntiMicroX](https://github.com/AntiMicroX/antimicroX), [DualSenseX](https://github.com/Paliverse/DualSenseX), [PCXSense](https://github.com/Denellyne/PCXSense) or [Input Remapper](https://github.com/sezanzeb/input-remapper) - Gamepad Input Tools / [Steam Note](https://pastebin.com/ycswQGVR)
 * [x360ce](https://www.x360ce.com/) / [GitHub](https://github.com/x360ce/x360ce) - DS4 / 360 Controller Emulator
 * [XOutput](https://github.com/csutorasa/XOutput) - DirectInput to Xinput wrapper
 * [DsHidMini](https://docs.nefarius.at/projects/DsHidMini/) - Use PS3 Controllers on Windows
@@ -738,12 +738,13 @@
 * ⭐ **[Roblox Account Manager](https://github.com/ic3w0lf22/Roblox-Account-Manager)** - Roblox Account Manager
 * ⭐ **[Rolimon's](https://www.rolimons.com/games)** or [RoMonitor Stats](https://romonitorstats.com/) - Roblox Experience Stats
 * ⭐ **[Bloxstrap](https://bloxstrap.pizzaboxer.xyz/)** - Roblox Player Bootstrapper / **[GitHub](https://github.com/pizzaboxer/bloxstrap)**
-* [Novetus](https://bitl.itch.io/novetus) - Self-Hosted Multi-version Roblox Client
-* [Roblox Studio Mod Manager](https://github.com/MaximumADHD/Roblox-Studio-Mod-Manager) - Roblox Studio Bootstrapper
-* [RoPro](https://ropro.io/), [Roblox+](https://chromewebstore.google.com/detail/roblox%20/jfbnmfgkohlfclfnplnlenbalpppohkm), [BTRoblox](https://twitter.com/AntiBoomz/status/1378597179556823040), [RoGold](https://rogold.live/) or [RoSeal](https://www.roseal.live/) - Enhance Roblox Website
-* [RBXServers](https://rbxservers.xyz/) or [Freevipservers](https://freevipservers.net/) - Roblox VIP Servers
-* [Roblox Web APIs](https://github.com/matthewdean/roblox-web-apis) - Roblox APIs
-* [ingame.clothing](https://ingame.clothing/) - Preview Avatar Clothing
+* ⭐ **[TBROGER](https://rentry.co/TBROGER)** - Roblox Optimization Guide
+* **[Novetus](https://bitl.itch.io/novetus)** - Self-Hosted Multi-version Roblox Client
+* **[Roblox Studio Mod Manager](https://github.com/MaximumADHD/Roblox-Studio-Mod-Manager)** - Roblox Studio Bootstrapper
+* **[RoPro](https://ropro.io/)**, **[Roblox+](https://chromewebstore.google.com/detail/roblox/jfbnmfgkohlfclfnplnlenbalpppohkm)**, **[BTRoblox](https://twitter.com/AntiBoomz/status/1378597179556823040)**, **[RoGold](https://rogold.live/)** or **[RoSeal](https://www.roseal.live/)** - Enhance Roblox Website
+* **[RBXServers](https://rbxservers.xyz/)** or **[Freevipservers](https://freevipservers.net/)** - Roblox VIP Servers
+* **[Roblox Web APIs](https://github.com/matthewdean/roblox-web-apis)** - Roblox APIs
+* **[ingame.clothing](https://ingame.clothing/)** - Preview Avatar Clothing
 
 ***
 

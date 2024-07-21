@@ -94,6 +94,7 @@
 * ⭐ **[Download CSE](https://cse.google.com/cse?cx=006516753008110874046:1ugcdt3vo7z)** / [CSE 2](https://cse.google.com/cse?cx=006516753008110874046:reodoskmj7h) - Multi-Site Search
 * ⭐ **[FilePursuit](https://filepursuit.com)** - [Discord](https://discord.gg/xRfFd8h)
 * ⭐ **[4Shared](https://www.4shared.com/)**
+* ⭐ **[Hatt](https://github.com/FrenchGithubUser/Hatt)** - File Search App
 * [Meawfy](https://meawfy.com/) - Mega.nz Search
 * [File Host Search](https://cse.google.com/cse?cx=90a35b59cee2a42e1)
 * [scnlog](https://scnlog.me/)
@@ -297,5 +298,4 @@
 * [RapidGrab](https://rapidgrab.ovh/) or [Newscon](https://www.newscon.net/d1/) / [2](https://www.newscon.org/d3/) - Leech
 * [Real-Debrid](https://real-debrid.com/) - Paid Debrid service / [Torrent Client](https://github.com/rogerfar/rdt-client) / [Movies / TV](https://hdencode.org/)
 * [Debrid-Link](https://debrid-link.com) - Debrid with Free Tier
-* [AllDebrid](https://alldebrid.com/) - Paid Debrid service with seven day trial
 * [Debrid Media Manager](https://debridmediamanager.com/) - Manage / Stream / Download RD Files
