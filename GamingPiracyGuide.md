@@ -423,6 +423,7 @@
 * ⭐ **[GarticPhone](https://garticphone.com/)** - Telephone Game
 * ⭐ **[skribbl](https://skribbl.io/)**, [Sketchful](https://sketchful.io/), [Drawize](https://www.drawize.com/) or [Gartic](https://gartic.io/) - Drawing / Guessing Game / Multiplayer
 * [Bloob.io](https://bloob.io/) - Multiple Games
+* [Foony](https://foony.com/) - Multiple Games
 * [Gidd.io](https://gidd.io/) - Multiple Games
 * [Yucata](https://www.yucata.de/en/) - Multiple Games
 * [Pixoguess](https://pixoguess.io/) - Guess Pixelated Images
