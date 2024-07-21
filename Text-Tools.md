@@ -143,11 +143,11 @@
 
 ## ▷ Grammar Check
 
+* ⭐ **[DeepL Write](https://www.deepl.com/write)**
 * [EditGPT](https://www.editgpt.app/)
 * [Grammarly](https://www.grammarly.com/grammar-check)
 * [ProWritingAid](https://prowritingaid.com/grammar-checker)
 * [QuillBot](https://quillbot.com/grammar-check)
-* [DeepL Write](https://www.deepl.com/write)
 * [LanguageTool](https://languagetool.org/)
 * [Scribens](https://www.scribens.com/)
 
