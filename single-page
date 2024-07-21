@@ -2072,8 +2072,9 @@
 * [Sources.com](https://www.sources.com/) - Journalism Source Search
 * [GrayHatWarfare](https://buckets.grayhatwarfare.com/) or [OpenBuckets](https://openbuckets.io/) - Amazon s3 Buckets Search
 * [UserSearch](https://usersearch.org/), [Sherlock](https://sherlockproject.xyz/), [Maigret](https://github.com/soxoj/maigret), [Nexfil](https://github.com/thewhiteh4t/nexfil), [Lullar](https://lullar-com-3.appspot.com/), [Blackbird](https://github.com/p1ngul1n0/blackbird) or [WhatsMyName](https://whatsmyname.app/) - Username Search
-* [FindAGrave](https://findagrave.com/) - Gravestone Search
+* [qDorks](https://qdorks.com/composer), [sitedorks](https://github.com/Zarcolio/sitedorks), [Dorks-collections-list](https://github.com/cipher387/Dorks-collections-list/), [OSINT Dorks](https://github.com/BushidoUK/OSINT-SearchOperators), [Google Dork List](https://www.boxpiper.com/posts/google-dork-list), [Dork Genius](https://dorkgenius.com/) or [DorkSearch](https://www.dorksearch.com/) - Search Engine Dorking Tools
 * [Yandex Search Operators](https://yandex.com/support/direct/keywords/symbols-and-operators.html), [2](https://seosly.com/yandex-search-operators/) - Yandex Search Operator Resources
+* [FindAGrave](https://findagrave.com/) - Gravestone Search
 * [rfc.fyi](https://rfc.fyi/) - RFC Search
 * [Shodan](https://www.shodan.io/) - Internet Connected Device Search
 * [OCCRP Aleph](https://aleph.occrp.org/) - Public Records / Leaks Search
@@ -2167,7 +2168,6 @@
 ## ▷ Google Search Tools
 
 * [Mastering Google Search Operators](https://moz.com/blog/mastering-google-search-operators-in-67-steps), [2](https://ahrefs.com/blog/google-advanced-search-operators/), [3](https://moz.com/learn/seo/search-operators), [4](https://seranking.com/ru/blog/operatory-poiska-google/) - Google Search Operator Resources
-* [qDorks](https://qdorks.com/composer), [sitedorks](https://github.com/Zarcolio/sitedorks), [Dorks-collections-list](https://github.com/cipher387/Dorks-collections-list/), [OSINT Dorks](https://github.com/BushidoUK/OSINT-SearchOperators), [Google Dork List](https://www.boxpiper.com/posts/google-dork-list), [Dork Genius](https://dorkgenius.com/) or [DorkSearch](https://www.dorksearch.com/) - Search Engine Dorking Tools
 * [ISearchFrom](http://isearchfrom.com/) - Change Location / Device for Google Search
 * [goosh](https://goosh.org/) - Simple Google Web Client
 * [Google Trends](https://trends.google.com/trends/) - Google Search Trends
