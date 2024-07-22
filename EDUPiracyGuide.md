@@ -985,7 +985,6 @@
 
 ## ▷ Reference Sites
 
-* ↪️ **[Dictionary Index](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_dictionaries)** - Dictionary Sites / Tools
 * ↪️ **[Encyclopedia Index](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_encyclopedias)** - Encyclopedia Sites / Tools
 * ⭐ **[NGrams](https://books.google.com/ngrams/)** or [Netspeak](https://netspeak.org/) - Word Usage Trackers
 * [Time Traveler](https://www.merriam-webster.com/time-traveler) - See when a word was first used in print
@@ -1007,3 +1006,45 @@
 * [KnowYourMeme](https://knowyourmeme.com/) - Meme Database
 * [Pronouns List](https://pronounslist.com/) - List of Prefferred Pronouns
 * [Gender Neutral Dictionary](https://en.pronouns.page/dictionary) - Gender Neutral Language Dictionary
+
+***
+
+## ▷ Dictionaries
+
+* 🌐 **[Dictionary Index](https://onelook.com/?d=all_gen)** - List of Online Dictionaries
+* ⭐ **[The Piracy Glossary](https://rentry.org/The-Piracy-Glossary)** - Piracy Dictionary
+* ⭐ **[Merriam-Webster](https://www.merriam-webster.com/)** or [TheSage](https://www.sequencepublishing.com/) - Dictionary / Thesaurus
+* ⭐ **[UrbanDictionary](https://www.urbandictionary.com/)** / [Frontends](https://codeberg.org/zortazert/rural-dictionary/) or [Slangit](https://slang.net/) - Slang Word / Phrase Dictionaries
+* ⭐ **[OneLook](https://onelook.com/)** - Multi Dictionary Search
+* [GoldenDict](https://xiaoyifang.github.io/goldendict-ng/) / [2](https://sourceforge.net/projects/goldendict/) - Dictionary
+* [NinjaWords](https://ninjawords.com/) - Dictionary
+* [Wordnik](https://www.wordnik.com/) - Dictionary
+* [Oxford English Dictionary](https://oed.com/) - Dictionary / [Bypass](https://rentry.co/freeoed)
+* [Cambridge Dictionary](https://dictionary.cambridge.org/) - Dictionary
+* [LDOCE](https://www.ldoceonline.com/) - Dictionary
+* [Wiktionary](https://www.wiktionary.org/) - Dictionary
+* [Lexicool](https://www.lexicool.com/) - Dictionary
+* [Vocabulary](https://www.vocabulary.com/) - Dictionary
+* [TheFreeDictionary](https://www.thefreedictionary.com/) - Dictionary
+* [WordSense](https://www.wordsense.eu/) - Dictionary
+* [Dictionary](https://www.dictionary.com/) - Dictionary
+* [Spellcheck](https://www.spellcheck.net/) - Dictionary
+* [Webopedia](https://www.webopedia.com/) or [TechTerms](https://techterms.com/) - Tech Dictionary
+* [Why The Fluff](https://www.whythefluff.com/) - Common Jargon Dictionary
+* [Phrases.org](https://phrases.org.uk/) - Phrase Dictionary
+* [Words to Use](https://www.words-to-use.com/) - Find Alternative Words
+* [Phrontistery](https://phrontistery.info/) - Obscure Word Dictionary
+* [LexiLogos](https://www.lexilogos.com/english/index.htm) - Multi Language Dictionary Index
+* [Reverse Dictionary](https://reverse-dictionary.virock.org/) - Lookup Words via Phrases
+* [WikiDiff](https://wikidiff.com/) - Difference Between Any Words
+* [Websters 1913](https://www.websters1913.com/) - 1913 Websters Dictionary
+* [Unionpedia](https://en.unionpedia.org/), [Lexipedia](https://www.lexipedia.com/), [VisuWords](https://visuwords.com/) or [WordWeb](https://wordwebs.app/) - Word Connections / Visualizers
+* [DoesNotTranslate](https://doesnottranslate.com/) or [Eunoia](https://eunoia.world/) - Words with No Translation
+* [Tip of my Tongue](https://chir.ag/projects/tip-of-my-tongue/) - Find Words you Can't Remember
+* [TheIdioms](https://www.theidioms.com/) - Idiom Dictionary
+* [RhymeZones](https://www.rhymezone.com/) or [Rhymer](https://rhymer.com/) - Rhyme Dictionary
+* [The Dictionary of Obscure Sorrows](https://www.dictionaryofobscuresorrows.com/) - Dictionary of Sorrows
+* [TheDevilsDictionary](https://www.thedevilsdictionary.com/) - Cynical Dictionary
+* [WordSafety](http://wordsafety.com/) - Swear Word Indexes
+* [FreeMdict](https://freemdict.com/) - Dictionary Downloads / [Archive](https://downloads.freemdict.com/)
+* [PyGlossary](https://github.com/ilius/pyglossary) - Convert Dictionary Files
