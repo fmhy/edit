@@ -959,24 +959,6 @@
 
 ## Streaming Site Clones
 
-### Fbox Clones
-
-* [Flix2day](https://flix2day.to/home)
-* [Mov2day](https://mov2day.to/)
-* [2flix](https://2flix.to/)
-* [1mov](https://1mov.to/)
-* [Flixflare](https://flixflare.to/)
-* [Flixhive](https://flixhive.to/)
-* [Flixrave](https://flixrave.to/)
-* [CineZone](https://cinezone.to/)
-* [BFlixHD](https://bflixhd.to/)
-* [WatchSeries](https://watchseriesx.to/)
-* [Theflixtor](https://theflixtor.to/)
-* [Losmovies](https://losmoviesz.to/)
-
-
-***
-
 ### M4UFree Clones
 
 * [M4uFree.com](https://ww2.m4ufree.com/)
