@@ -296,7 +296,7 @@
 * [JScreenFix](https://www.jscreenfix.com/) - Repair Stuck Pixels
 * [CenterOfMyScreen](https://centerofmyscreen.com/) - Find Center of Monitor
 * [ShowDesktopOneMonitor](https://github.com/ruzrobert/ShowDesktopOneMonitor) - Show Desktop For Only One Monitor
-* [Deskreen](https://deskreen.com/) or [SpaceDesk](https://www.spacedesk.net/) - Use Mobile Device as Monitor / [GitHub](https://github.com/pavlobu/deskreen)
+* [Deskreen](https://deskreen.com/) / [GitHub](https://github.com/pavlobu/deskreen) or [SpaceDesk](https://www.spacedesk.net/) - Use Mobile Device as Monitor
 * [ShaderGlass](https://github.com/mausimus/ShaderGlass) - Custom Screen Shaders
 * [DaltonLens](https://daltonlens.org/) or [Toptal](https://www.toptal.com/designers/colorfilter) - Color Blindness Filters
 * [NVDA](https://www.nvaccess.org/download/) - Screen Reader for Blind Users / [GitHub](https://github.com/nvaccess/nvda)
@@ -492,6 +492,7 @@
 * [Dracula Wallpapers](https://draculatheme.com/wallpaper) - Dracula Wallpapers
 * [WallpaperHub](https://www.wallpaperhub.app/) or [Windows Wallpaper Pack](https://drive.google.com/drive/folders/1-80cROdVY-GSwu9fGnJJyglcERKyJ-gP) - Windows Wallpapers
 * [Mac Walls](https://goo.gl/photos/HjY1hmo6p3jfFz8a7), [2](https://photos.google.com/share/AF1QipNNQyeVrqxBdNmBkq9ILswizuj-RYJFNt5GlxJZ90Y6hx0okrVSLKSnmFFbX7j5Mg?key=RV8tSXVJVGdfS1RIQUI0Q3RZZVhlTmw0WmhFZ2V3) - Mac Wallpapers
+* [Aesthetic Wallpapers](https://github.com/D3Ext/aesthetic-wallpapers/)
 * [Wallpapers.com](https://wallpapers.com/)
 * [WallpaperSafari](https://wallpapersafari.com/)
 * [WallpapersDen](https://wallpapersden.com/)
