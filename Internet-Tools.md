@@ -449,10 +449,10 @@
 ## ▷ Down Site Checkers
 
 * ⭐ **[Down for Everyone or Just Me](https://downforeveryoneorjustme.com/)**
-* ⭐ **[Is It Down Right Now](https://www.isitdownrightnow.com/)**
 * ⭐ **[Downdetector](https://downdetector.com/)** / [UK](https://downdetector.co.uk/)
 * [Is The Service Down?](https://istheservicedown.com/)
 * [Down.com](https://down.com/)
+* [Is It Down Right Now](https://www.isitdownrightnow.com/)
 * [websitedown](http://www.websitedown.info/)
 * [UpDown Radar](https://updownradar.com/)
 * [Dead Link Checker](https://www.deadlinkchecker.com/)
