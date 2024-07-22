@@ -5452,23 +5452,24 @@ Use this [browser extension](https://github.com/bpc-clone/bpc_updates/releases) 
 ## ▷ Pastebins
 
 * 🌐 **[PrivateBin Instances](https://privatebin.info/directory)**
-* ⭐ **[Rentry](https://rentry.co/)** / [CLI](https://github.com/radude/rentry) / [Styling](https://rentry.co/rentry) - Markdown Support
+* ⭐ **[Rentry](https://rentry.co/)** - Markdown Support / [CLI](https://github.com/radude/rentry) / [Styling](https://rentry.co/rentry)
 * ⭐ **[Github Gists](https://gist.github.com/)** - Multi-Syntax / Account Needed
-* ⭐ **[Stellular](https://stellular.net/)**, [2](https://bundlrs.cc/), [3](https://www.sentrytwo.com/) / [Source](https://code.stellular.org/stellular/bundlrs) - Markdown Support
-* ⭐ **[pastes.dev](https://pastes.dev/)** / [Source](https://github.com/lucko/paste) - Multi-Syntax / Markdown Support
-* ⭐ **[PrivateBin](https://privatebin.net/)** / [Source](https://github.com/PrivateBin/PrivateBin) - Markdown Support / Syntax Highlighting
-* ⭐ **[snowbin](https://pastes.fmhy.net/)**, [2](https://paste.fmhy.net/) / [Source](https://github.com/fmhy/snowbin) - Markdown Support
-* ⭐ **[Linqbin](https://linqbin.cc/)** / [Source](https://github.com/daniel-lxs/linqbin) - Plain Text
-* ⭐ **[Katbin](https://katb.in/)** / [Source](https://github.com/sphericalkat/katbin) - Plain Text
+* ⭐ **[Stellular](https://stellular.net/)**, [2](https://bundlrs.cc/), [3](https://www.sentrytwo.com/) - Markdown Support  / [Source](https://code.stellular.org/stellular/bundlrs)
+* ⭐ **[pastes.dev](https://pastes.dev/)** - Multi-Syntax / Markdown Support / [Source](https://github.com/lucko/paste)
+* ⭐ **[PrivateBin](https://privatebin.net/)** - Markdown Support / Syntax Highlighting / [Source](https://github.com/PrivateBin/PrivateBin)
+* ⭐ **[snowbin](https://pastes.fmhy.net/)**, [2](https://paste.fmhy.net/) - Markdown Support / [Source](https://github.com/fmhy/snowbin)
+* ⭐ **[Linqbin](https://linqbin.cc/)** - Plain Text / [Source](https://github.com/daniel-lxs/linqbin)
+* ⭐ **[Katbin](https://katb.in/)** - Plain Text / [Source](https://github.com/sphericalkat/katbin)
 * ⭐ **[Pastebin Search](https://cse.google.com/cse?cx=0cd79b819f26af9d0)** - Pastebin CSE
 * [ZeroBin.net](https://zerobin.net/) / [.onion](http://zerobinftagjpeeebbvyzjcqyjpmjvynj5qlexwyxe7l3vqejxnqv5qd.onion) - Markdown Support / Syntax Highlighting
+* [Text.is](https://text.is/) - Markdown Support / Rentry Clone
 * [bpa.st](https://bpa.st/) - Multi-Syntax / Markdown Support
 * [Mozilla Community Pastebin](https://paste.mozilla.org/) - Multi-Syntax / Markdown Support
-* [dpaste](https://dpaste.org/) / [Source](https://github.com/DarrenOfficial/dpaste) - Multi-Syntax / Markdown Support
-* [cryptgeon](https://cryptgeon.org/) / [Source](https://github.com/cupcakearmy/cryptgeon) - Single View / Plain Text
+* [dpaste](https://dpaste.org/) - Multi-Syntax / Markdown Support / [Source](https://github.com/DarrenOfficial/dpaste)
+* [cryptgeon](https://cryptgeon.org/) - Single View / Plain Text / [Source](https://github.com/cupcakearmy/cryptgeon)
 * [0bin](https://0bin.net/) - Multi-Syntax / Markdown Support
 * [Paste.ee](https://paste.ee/) - Multi-Syntax / Markdown Support
-* [pst.moe](https://pst.moe/) / [Source](https://git.fuwafuwa.moe/lesderid/pastethingy) - Multi-Syntax / Markdown Support
+* [pst.moe](https://pst.moe/) - Multi-Syntax / Markdown Support / [Source](https://git.fuwafuwa.moe/lesderid/pastethingy)
 * [dpaste.com](https://dpaste.com/) - Multi-Syntax / Markdown Support
 * [pastebin.ai](https://pastebin.ai/) - Multi-Syntax / Markdown Support
 * [Pastebin.com](https://pastebin.com/) - Multi-Syntax
@@ -5478,7 +5479,7 @@ Use this [browser extension](https://github.com/bpc-clone/bpc_updates/releases) 
 * [pastebin.pl](https://pastebin.pl/) - Multi-Syntax
 * [CentOS Pastebin](https://paste.centos.org/) - Multi-Syntax
 * [snippet.host](https://snippet.host/) - Multi-Syntax
-* [MicroBin](https://pub.microbin.eu/) / [Source](https://github.com/szabodanika/microbin) - Multi-Syntax
+* [MicroBin](https://pub.microbin.eu/) - Multi-Syntax / [Source](https://github.com/szabodanika/microbin)
 * [ProtectedText](https://www.protectedtext.com/) - Multi-Tab
 * [MarkdownPastebin](https://markdownpastebin.com/) - Markdown Support
 * [Sparked Paste](https://paste.sparked.host/) - Plain Text / Syntax Highlighting
@@ -6270,7 +6271,7 @@ Use this [browser extension](https://github.com/bpc-clone/bpc_updates/releases) 
 * [up-for-grabs](https://up-for-grabs.net/) - Curated List of Tasks for New Contributes
 * [GitKraken](https://www.gitkraken.com/), [RelaGit](https://rela.dev/), [Sourcetree](https://www.sourcetreeapp.com/), [lazygit](https://github.com/jesseduffield/lazygit) or [gitui](https://github.com/Extrawurst/gitui) - Git GUIs
 * [Gut](https://gut-cli.dev/), [Jujutsu](https://github.com/martinvonz/jj) or [gitu](https://github.com/altsem/gitu) - Git CLI / TUI
-* [SparkleShare](https://sparkleshare.org) / [GitHub](https://github.com/hbons/SparkleShare) - Git Collab Tool
+* [SparkleShare](https://sparkleshare.org) or [git-pr](https://github.com/picosh/git-pr) - Git Collab Tools
 * [Git-notify](https://github.com/jevakallio/git-notify) - Embed Announcements into Git Commit Messages
 * [Allstar](https://github.com/ossf/allstar) - Git Repository Security App
 * [git-bug](https://github.com/MichaelMure/git-bug) - Git Embedded Bug Tracker
@@ -6579,6 +6580,7 @@ Use this [browser extension](https://github.com/bpc-clone/bpc_updates/releases) 
 * ⭐ **[Visual Studio Code](https://code.visualstudio.com/)**
 * ⭐ **[VSCodium](https://vscodium.com/)** or [vscode.dev](https://vscode.dev/), [2](https://cs50.dev/) - Code Editor / VSC Fork
 * ⭐ **[Neovim](https://neovim.io/)** - Code Editor
+* ⭐ **[Lite XL](https://lite-xl.com/)** - Code Editor / [Plugin Manager](https://github.com/lite-xl/lite-xl-plugin-manager) / [Plugins](https://github.com/lite-xl/lite-xl-plugins) / [Themes](https://github.com/lite-xl/lite-xl-colors)
 * ⭐ **[Emacs](https://www.gnu.org/software/emacs/)** - [Docs](https://emacsdocs.org/)
 * ⭐ **[WebDen](https://webden.dev/)**, [Sharplab](https://sharplab.io/), [tech.io](https://tech.io/), [CodingGround](https://www.tutorialspoint.com/codingground.htm) or [Online Tools](https://onlinetool.io/) - Code Playgrounds
 * [Selenium](https://www.selenium.dev/), [PlayWright](https://playwright.dev/) or [Huginn](https://github.com/huginn/huginn) - Browser Automation
@@ -6592,7 +6594,6 @@ Use this [browser extension](https://github.com/bpc-clone/bpc_updates/releases) 
 * [SpaceVim](https://spacevim.org/) - Code Editor
 * [zed.dev](https://zed.dev/) - Code Editor
 * [Pulsar](https://pulsar-edit.dev/) - Code Editor
-* [Lite XL](https://lite-xl.com/) - Code Editor
 * [Kakoune](https://kakoune.org/) - Code Editor
 * [Brackets](https://brackets.io/) - Code Editor
 * [Quill](https://quilljs.com/) - Code Editor
@@ -6643,6 +6644,7 @@ Use this [browser extension](https://github.com/bpc-clone/bpc_updates/releases) 
 * [Glitch](https://glitch.com/) - Cloud IDE / [Replit Import](https://replit.com/glitch) / [GitHub](https://github.com/m3o/m3o)
 * [JSFiddle](https://jsfiddle.net/) - Online Code Editor
 * [Collabedit](https://collabedit.com/) - Online Code Editor
+* [CoderPad](https://pad.new/) - Online Code Editor
 * [Portacode](https://portacode.com/) - Online Code Editor
 * [Ideone](https://www.ideone.com/) - Online Code Editor
 * [PlayCode](https://playcode.io/) - Online Code Editor
@@ -7124,7 +7126,7 @@ Use this [browser extension](https://github.com/bpc-clone/bpc_updates/releases) 
 * [JavaScript Algorithms](https://github.com/trekhleb/javascript-algorithms) - Algorithms and Data Structures in JavaScript
 * [Gummy](https://gummyjs.vercel.app/) - Easily Build JavaScript Programs
 * [Obfuscator](https://obfuscator.io/) or [js-confuser](https://js-confuser.com/) - JavaScript Obfuscators
-* [jsdfe](https://avotoko.github.io/javascript-deobfuscator/) - JavaScript Deobfuscator
+* [jsdfe](https://avotoko.github.io/javascript-deobfuscator/) or [Deobfuscate](https://deobfuscate.io/) - JavaScript Deobfuscators
 * [Underdash](https://surma.github.io/underdash/) - JavaSscript Snippets
 * [Learn Next.js](https://nextjs.org/learn) - Next.js Learning Resources
 * [Node.js Best Practices](https://github.com/goldbergyoni/nodebestpractices) - Node.js Style Guide
