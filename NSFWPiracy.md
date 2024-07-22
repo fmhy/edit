@@ -382,20 +382,20 @@
 
 * 🌐 **[Wotaku](https://wotaku.moe/nsfw#manga)** - Hentai Manga Index / [Discord](https://discord.gg/vShRGx8ZBC)
 * 🌐 **[EverythingMoe](https://everythingmoe.com/?nsfw=true#section-hentairead)** - Hentai Manga / Comics Index
+* 🌐 **[Wholesome Hentai](https://wholesomelist.com/)** - Wholesome Manga Index
 * ⭐ **[E-Hentai](https://e-hentai.org/)** or [ExHentai](https://exhentai.org/) - Hentai Manga / Comics
 * ⭐ **E-Hentai Tools** - [Android Client](https://github.com/honjow/FEhViewer) / [Deleted Galleries](https://panda.chaika.moe/) / [Downloader](https://gitlab.com/squishydreams/pandaforever), [2](https://github.com/ccloli/E-Hentai-Downloader)
-* ⭐ **[IMHentai](https://imhentai.xxx/)** - Hentai Manga / Comics
+* ⭐ **[Koharu](https://koharu.to/)** or **[HentaiNexus](https://hentainexus.com/)** - Official Translatations / [Backup](https://fakku.cc/)
 * ⭐ **[Hitomi](https://hitomi.la/)** - Hentai Manga
-* ⭐ **[3Hentai](https://3hentai.net/)** - Hentai Manga
 * ⭐ **[NHentai](https://nhentai.net/)** - Hentai Manga
 * ⭐ **NHentai Tools** - [Android Client](https://github.com/Dar9586/NClientV2), [2](https://ttdyce.com/apps/nhviewer/) / [Downloader](https://github.com/RicterZ/nhentai), [2](https://nhentaidownloader.zirk.eu/)
-* ⭐ **[Mihon](https://mihon.app/)** - Manga Reader
-* ⭐ **Mihon Tools** - [Extensions](https://keiyoushi.github.io/extensions/), [2](https://discord.gg/3FbCpdKbdY), [3](https://wotaku.moe/guides/tech/repo) / [Official Forks](https://mihon.app/forks/), [2](https://github.com/null2264/yokai), [3](https://github.com/nekomangaorg/Neko)
-* ⭐ **[Anime-Sharing](https://www.anime-sharing.com/#downloads-requests)** - Hentai Manga DDL
+* ⭐ **[Manga District](https://mangadistrict.com/)** - Pornhwa
+* ⭐ **[BATO.TO](https://bato.to/)** - Pornhwa / [Discord](https://discord.com/invite/batoto) / [Proxies](https://rentry.co/batoto)
 * ⭐ **[Nyaa Sukebei](https://sukebei.nyaa.si/)** - Hentai Manga Torrents
-* ⭐ **[Wholesome Hentai](https://wholesomelist.com/)** - Wholesome Manga Index
 * ⭐ **[Hitomi Downloader](https://github.com/KurtBestor/Hitomi-Downloader)**, **[Hakuneko](https://hakuneko.download/)** or [NN Downloader](https://github.com/Official-Husko/NN-Downloader) - Multi-Site Manga Downloaders
 * [/r/Pornwha](https://www.reddit.com/r/Pornwha/) or [/r/Pornhwa](https://www.reddit.com/r/pornhwa/) - Pornwha / Pornhwa Subreddits
+* [IMHentai](https://imhentai.xxx/) - Hentai Manga / Comics
+* [3Hentai](https://3hentai.net/) - Hentai Manga
 * [Hentai2Read](https://hentai2read.com/) or [HentaiHere](https://hentaihere.com/) - Hentai Manga
 * [Doujins.com](https://doujins.com/) - Hentai Manga / [Discord](https://discord.com/invite/EPnJqPf7xh)
 * [Luscious](https://www.luscious.net/) - Hentai Manga / Comics
@@ -461,6 +461,7 @@
 * [TMOHentai](https://tmohentai.com/) - Spanish Hentai Manga
 * [Manhwas](https://www.manhwas.net/) - Spanish Pornhwa
 * [Mihentai](https://mihentai.com/) - Indo Hentai Manga
+* [Anime-Sharing](https://www.anime-sharing.com/#downloads-requests) - Hentai Manga Forums
 * [Hentaiser](https://hentaiser.com/en/) - Android Hentai
 * [Violet](https://github.com/project-violet/violet) - Android Hentai/ [Discord](https://discord.com/invite/fqrtRxC)
 * [Hentoid](https://github.com/avluis/Hentoid) - Android Hentai / [Discord](https://discord.com/invite/QEZ3qk9)
