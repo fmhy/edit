@@ -684,6 +684,7 @@
 * [Resuminator](https://www.resuminator.in/)
 * [flowcv](https://flowcv.com/)
 * [cvservant](https://cvservant.com/cv/)
+* [Resumake](https://github.com/saadq/resumake)
 * [resume-nation](https://resume-nation.github.io/)
 * [sajilocv](https://sajilocv.com/)
 * [GotResumeBuilder](https://www.gotresumebuilder.com/)
@@ -1376,6 +1377,7 @@
 * [Michaelbach](https://michaelbach.de/ot/) - Optical Illusions
 * [Strobe Illusion](https://strobe.cool/) - Hallucination Illusion
 * [Notpron](http://www.notpron.com/) - Worlds Hardest Internet Riddle
+* [Buzzinga](https://buzzinga.io/) - Jeopardy Creator
 * [Fun Trivia](https://www.funtrivia.com/), [Sporcle](https://www.sporcle.com/), [uQuiz](https://uquiz.com/), [ARealMe](https://www.arealme.com/) or [JetPunk](https://www.jetpunk.com/) - Quiz / Trivia
 * [Bestiefy](https://bestiefy.com/) - Friend Quizzes
 * [theOtaku](https://theotaku.com/quizzes) - Anime Personality Quizzes
