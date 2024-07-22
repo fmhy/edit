@@ -236,7 +236,7 @@
 * ⭐ **[Aves](https://github.com/deckerst/aves)**, [Gallery](https://play.google.com/store/apps/details?id=com.google.android.apps.photosgo), [Photok](https://github.com/leonlatsch/Photok), [Stingle](https://stingle.org/), [QuickPic](https://github.com/WSTxda/QP-Gallery-Releases), [UhuruPhotos](https://uhuru.photos) / [GitHub](https://github.com/savvasdalkitsis/uhuruphotos-android), [Gallery](https://www.fossify.org) / [GitHub](https://github.com/FossifyOrg/Gallery) or [IacobIonut01](https://github.com/IacobIonut01/Gallery) - Photo / Video Galleries
 * [googlecameraport](https://www.celsoazevedo.com/files/android/google-camera) or [Camator](https://gcamator.com/) - Google Cam Downloads / [Telegram](https://t.me/googlecameraport) / [Mods](https://apkw.ru/) / [XML Configs](https://t.me/xmlshamimmod)
 * [Libre Camera](https://github.com/iakmds/librecamera), [ProofMode](https://gitlab.com/guardianproject/proofmode/proofmode-android) or [Open Camera](https://sourceforge.net/projects/opencamera/) - FOSS Camera Apps
-* [RecordYou](https://github.com/you-apps/RecordYou), [notesGPT](https://usenotesgpt.com/) or [AudioNote](https://certified84.github.io/AudioNote/) - Video / Voice Recorders
+* [RecordYou](https://github.com/you-apps/RecordYou), [notesGPT](https://usenotesgpt.com/), [FadCam](https://github.com/anonfaded/FadCam) or [AudioNote](https://certified84.github.io/AudioNote/) - Video / Voice Recorders
 * [Jitsi](https://jitsi.org/) - Video Chat
 * [RemoteVideoCam](https://github.com/izivkov/RemoteVideoCam) - Video Lan
 * [Minutiae](https://play.google.com/store/apps/details?id=com.minutiae) or [1 Second Everyday](https://1se.co/) - Video-a-Day App
@@ -769,7 +769,7 @@
 * [Volumee](https://maslanka.app/volumee/) or [SoundTap](https://play.google.com/store/apps/details?id=fr.angel.soundtap) - Volume Button Track Control
 * [Musekit](https://github.com/Kwasow/Musekit) - Tuning Fork / Metronome
 * [SongSync](https://github.com/Lambada10/SongSync) - Download Lyrics
-* [FastLyrics](https://github.com/TecCheck/FastLyrics) - Find Lyrics for Playing Song
+* [FastLyrics](https://github.com/TecCheck/FastLyrics) or [Rush](https://github.com/shub39/Rush) - Find Lyrics for Playing Song
 
 ***
 
