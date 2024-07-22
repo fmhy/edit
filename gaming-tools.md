@@ -166,7 +166,7 @@
 
 ## ▷ Controller Tools
 
-* [DS4Windows](https://github.com/Ryochan7/DS4Windows), [AntiMicroX](https://github.com/AntiMicroX/antimicroX), [DualSenseX](https://github.com/Paliverse/DualSenseX), [PCXSense](https://github.com/Denellyne/PCXSense) or [Input Remapper](https://github.com/sezanzeb/input-remapper) - Gamepad Input Tools / [Steam Note](https://pastebin.com/ycswQGVR)
+* [DS4Windows](https://github.com/TRARS/DS4Windows) / [2](https://github.com/Ryochan7/DS4Windows), [AntiMicroX](https://github.com/AntiMicroX/antimicroX), [DualSenseX](https://github.com/Paliverse/DualSenseX), [PCXSense](https://github.com/Denellyne/PCXSense) or [Input Remapper](https://github.com/sezanzeb/input-remapper) - Gamepad Input Tools / [Steam Note](https://pastebin.com/ycswQGVR)
 * [x360ce](https://www.x360ce.com/) / [GitHub](https://github.com/x360ce/x360ce) - DS4 / 360 Controller Emulator
 * [XOutput](https://github.com/csutorasa/XOutput) - DirectInput to Xinput wrapper
 * [DsHidMini](https://docs.nefarius.at/projects/DsHidMini/) - Use PS3 Controllers on Windows
@@ -278,7 +278,7 @@
 ## ▷ Tracking / Discovery
 
 * 🌐 **[Awesome Engineering Games](https://github.com/arcataroger/awesome-engineering-games)** - Engineering Games
-* ⭐ **[Glitchwave](https://glitchwave.com/)**, [Grouvee](https://www.grouvee.com/), [RankOne](https://www.rankone.global/), [InfiniteBacklog](https://infinitebacklog.net/) or [Backloggd](https://www.backloggd.com/) - Game Trackers
+* ⭐ **[Glitchwave](https://glitchwave.com/)**, [Grouvee](https://www.grouvee.com/), [RankOne](https://www.rankone.global/), [InfiniteBacklog](https://infinitebacklog.net/), [KeepTrackOfMyGames](https://keeptrackofmygames.com/) or [Backloggd](https://www.backloggd.com/) - Game Trackers
 * ⭐ **[OpenCritic](https://opencritic.com/)** - Critic Game Reviews / Ratings
 * ⭐ **[IGDB](https://www.igdb.com/)** or **[GiantBomb](https://www.giantbomb.com/games/)** - Game Database
 * ⭐ **[TasteDive](https://tastedive.com/games )**, [50GamesLike](https://www.50gameslike.com/), [Mythic Maps](https://mythicmap.com/) / [Discord](https://discord.gg/xw6cgmjDzB) or [/r/ifyoulikeblank](https://www.reddit.com/r/ifyoulikeblank/) - Game Recommendations
@@ -646,6 +646,7 @@
 
 ## ▷ Counter-Strike Tools
 
+* ⭐ **[CsWarzOnE](https://cswarzone.com/)** - Counter-Strike Downloads
 * ⭐ **[HLTV](https://www.hltv.org/)** - Counter-Strike News
 * [CSGO Trader](https://csgotrader.app/) - CS:GO Trading Enhancements
 * [ArminC-AutoExec](https://github.com/ArmynC/ArminC-AutoExec) - ArminC's CS2 Config
