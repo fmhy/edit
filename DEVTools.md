@@ -260,7 +260,7 @@
 * [up-for-grabs](https://up-for-grabs.net/) - Curated List of Tasks for New Contributes
 * [GitKraken](https://www.gitkraken.com/), [RelaGit](https://rela.dev/), [Sourcetree](https://www.sourcetreeapp.com/), [lazygit](https://github.com/jesseduffield/lazygit) or [gitui](https://github.com/Extrawurst/gitui) - Git GUIs
 * [Gut](https://gut-cli.dev/), [Jujutsu](https://github.com/martinvonz/jj) or [gitu](https://github.com/altsem/gitu) - Git CLI / TUI
-* [SparkleShare](https://sparkleshare.org) / [GitHub](https://github.com/hbons/SparkleShare) - Git Collab Tool
+* [SparkleShare](https://sparkleshare.org) or [git-pr](https://github.com/picosh/git-pr) - Git Collab Tools
 * [Git-notify](https://github.com/jevakallio/git-notify) - Embed Announcements into Git Commit Messages
 * [Allstar](https://github.com/ossf/allstar) - Git Repository Security App
 * [git-bug](https://github.com/MichaelMure/git-bug) - Git Embedded Bug Tracker
@@ -569,6 +569,7 @@
 * ⭐ **[Visual Studio Code](https://code.visualstudio.com/)**
 * ⭐ **[VSCodium](https://vscodium.com/)** or [vscode.dev](https://vscode.dev/), [2](https://cs50.dev/) - Code Editor / VSC Fork
 * ⭐ **[Neovim](https://neovim.io/)** - Code Editor
+* ⭐ **[Lite XL](https://lite-xl.com/)** - Code Editor / [Plugin Manager](https://github.com/lite-xl/lite-xl-plugin-manager) / [Plugins](https://github.com/lite-xl/lite-xl-plugins) / [Themes](https://github.com/lite-xl/lite-xl-colors)
 * ⭐ **[Emacs](https://www.gnu.org/software/emacs/)** - [Docs](https://emacsdocs.org/)
 * ⭐ **[WebDen](https://webden.dev/)**, [Sharplab](https://sharplab.io/), [tech.io](https://tech.io/), [CodingGround](https://www.tutorialspoint.com/codingground.htm) or [Online Tools](https://onlinetool.io/) - Code Playgrounds
 * [Selenium](https://www.selenium.dev/), [PlayWright](https://playwright.dev/) or [Huginn](https://github.com/huginn/huginn) - Browser Automation
@@ -582,7 +583,6 @@
 * [SpaceVim](https://spacevim.org/) - Code Editor
 * [zed.dev](https://zed.dev/) - Code Editor
 * [Pulsar](https://pulsar-edit.dev/) - Code Editor
-* [Lite XL](https://lite-xl.com/) - Code Editor
 * [Kakoune](https://kakoune.org/) - Code Editor
 * [Brackets](https://brackets.io/) - Code Editor
 * [Quill](https://quilljs.com/) - Code Editor
@@ -633,6 +633,7 @@
 * [Glitch](https://glitch.com/) - Cloud IDE / [Replit Import](https://replit.com/glitch) / [GitHub](https://github.com/m3o/m3o)
 * [JSFiddle](https://jsfiddle.net/) - Online Code Editor
 * [Collabedit](https://collabedit.com/) - Online Code Editor
+* [CoderPad](https://pad.new/) - Online Code Editor
 * [Portacode](https://portacode.com/) - Online Code Editor
 * [Ideone](https://www.ideone.com/) - Online Code Editor
 * [PlayCode](https://playcode.io/) - Online Code Editor
@@ -1114,7 +1115,7 @@
 * [JavaScript Algorithms](https://github.com/trekhleb/javascript-algorithms) - Algorithms and Data Structures in JavaScript
 * [Gummy](https://gummyjs.vercel.app/) - Easily Build JavaScript Programs
 * [Obfuscator](https://obfuscator.io/) or [js-confuser](https://js-confuser.com/) - JavaScript Obfuscators
-* [jsdfe](https://avotoko.github.io/javascript-deobfuscator/) - JavaScript Deobfuscator
+* [jsdfe](https://avotoko.github.io/javascript-deobfuscator/) or [Deobfuscate](https://deobfuscate.io/) - JavaScript Deobfuscators
 * [Underdash](https://surma.github.io/underdash/) - JavaSscript Snippets
 * [Learn Next.js](https://nextjs.org/learn) - Next.js Learning Resources
 * [Node.js Best Practices](https://github.com/goldbergyoni/nodebestpractices) - Node.js Style Guide
