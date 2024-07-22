@@ -44,6 +44,7 @@
 * [RPG Maker Games](https://rpgmaker.net/games/?name_filter=&amp;engine=&amp;status=&amp;rating=&amp;commercial=exclude&amp;sort=&amp;portal=None) - Games made via RPG Maker
 * [Locomalito](https://locomalito.com/) - Classic Game Remakes
 * [Necromanthus](https://necromanthus.com/) - 3D Shockwave Games
+* [LemmaSoft](https://lemmasoft.renai.us/) - Visual Novel Games / [Discord](https://discord.gg/6ckxWYm)
 * [VGPErson](https://vgperson.com/games/) - Simple Japanese Games
 * [SAGE](https://sagexpo.org/) - Sonic Fan Games / [Discord](https://discord.sonicfangameshq.com/)
 * [Clone Hero](https://clonehero.net/) - Guitar Hero Clone / [Setlists](https://rentry.co/FMHYBase64#setlists), [2](https://customsongscentral.com/), [3](https://rentry.co/FMHYBase64#frif-drive) / [Wii Controller Support](https://github.com/Meowmaritus/WiitarThing) / [Custom Client](https://clonehero.scorespy.online)
@@ -624,8 +625,7 @@
 * ⭐ **[Globle](https://globle-game.com/)**, [OpenGuessr](https://openguessr.netlify.app/), [City Guesser](https://virtualvacation.us/guess), [Quizzity](https://david-peter.de/quizzity/), [Where Am I?](https://whereami.io/) or [Geotastic](https://geotastic.de/) - Location Guessing Games
 * [GeoTips](https://geotips.net/) / [Discord](https://discord.gg/svhWzU7FMa), [Plonk It](https://www.plonkit.net/) / [Discord](https://discord.gg/plonk-it-854419081813164042) or [Top Tricks](https://somerandomstuff1.wordpress.com/2019/02/08/geoguessr-the-top-tips-tricks-and-techniques/) - GeoGuessr Guides
 * ⭐ **[Free Rice](https://freerice.com/)** - Earn Rice for the World Food Programme
-* [Huedle](https://huedle.com/)
-* [BoxOfficeGA](https://boxofficega.me/)
+* [BoxOfficeGA](https://boxofficega.me/) - Box Office Guessing
 * [Akinator](https://en.akinator.com/) - 20 Questions
 * [LostGamer](https://lostgamer.io/) - Video Game GeoGuessr
 * [GTA V GeoGuesser](https://gta-geoguesser.com/) - GTA V GeoGuessr
@@ -675,6 +675,7 @@
 * [Squaredle](https://squaredle.app/)
 * [Wordlevs](https://wordlevs.com/)
 * [Octordle](https://www.britannica.com/games/octordle/)
+* [Huedle](https://huedle.com/)
 * [Nerdle](https://nerdlegame.com/) - Number Guessing Game
 * [Factle](https://factle.app/) - Fact Style Wordle
 * [Countle](https://www.countle.org/) - Math Style Wordle
