@@ -125,7 +125,7 @@
 * [Black Pearl Origin](https://github.com/BlackPearlOrigin/blackpearlorigin) - Cross Platform Game Library / Launcher / [Plugins](https://bpo-store.github.io/) / [Discord](https://discord.com/invite/WpBr3hJVf5)
 * [Launchbox](https://www.launchbox-app.com/) - Retro / Console Game Library / Launcher
 * [GameHUB Launcher](https://www.deviantart.com/not-finch/art/GameHUB-launcher-2-for-Rainmeter-785369648) - Rainmeter Game Launcher
-* [Hydra](https://github.com/hydralauncher/hydra) - Game Launcher / Torrent Client
+* [Hydra](https://github.com/hydralauncher/hydra) - Game Launcher / Torrent Client / [Plugins](https://hydralinks.cloud/)
 * [Arc](https://www.arcgames.com/en/about/client) - Gearbox Game Launcher / Library
 * [GameVault](https://gamevau.lt) - Self-Hosted Gaming Platform / [Discord](https://discord.gg/NEdNen2dSu)
 * [XIVLauncher](https://goatcorp.github.io/) - Fixed FFXIV Launcher
