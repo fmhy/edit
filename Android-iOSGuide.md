@@ -104,6 +104,7 @@
 * [mLauncher](https://github.com/DroidWorksStudio/mLauncher) - Minimalist / Clean Launcher
 * [KISS](https://kisslauncher.com/) or [TBLauncher](https://tbog.github.io/TBLauncher/) - Low-Memory Usage Launcher
 * [NeoLauncher](https://github.com/NeoApplications/Neo-Launcher) - Customizable Launcher
+* [Shelf](https://github.com/coleblvck/Shelf) - Productivity Launcher
 * [Unlauncher](https://jkuester.github.io/unlauncher/) - Distraction-Free Launcher
 * [Kvaesitso](https://kvaesitso.mm20.de/) - Search-Focused Launcher
 * [Notcha](https://play.google.com/store/apps/details?id=com.notch.launcher) - Secondary Launcher
@@ -770,6 +771,7 @@
 * [Musekit](https://github.com/Kwasow/Musekit) - Tuning Fork / Metronome
 * [SongSync](https://github.com/Lambada10/SongSync) - Download Lyrics
 * [FastLyrics](https://github.com/TecCheck/FastLyrics) or [Rush](https://github.com/shub39/Rush) - Find Lyrics for Playing Song
+* [Metadator](https://github.com/BobbyESP/Metadator) - ID3 Metadata Editor
 
 ***
 
@@ -818,6 +820,7 @@
 * [Escapepod](https://codeberg.org/y20k/escapepod) - Podcast Player
 * [Podbean](https://play.google.com/store/apps/details?id=com.podbean.app.podcast) - Podcast Player
 * [PocketCasts](https://www.pocketcasts.com/) - Podcast Player
+* [Podcini](https://github.com/XilinJia/Podcini) - Podcast Player
 * [Podcast Addict](https://play.google.com/store/apps/details?id=com.bambuna.podcastaddict) - Podcast Player
 * [Transistor](https://codeberg.org/y20k/transistor) - Radio App
 * [RadioTime](https://radiotimeapp.com/) - Radio App
@@ -915,7 +918,7 @@
 * ⭐ **[NewPipe](https://newpipe.net/)** - Ad-free YouTube
 * ⭐ **[Tubular](https://github.com/polymorphicshade/Tubular)** - Ad-free YouTube / SponsorBlock / ReturnYTDislikes
 * ⭐ **[Seal](https://github.com/JunkFood02/Seal)**, [YouTubeDL Android](https://github.com/yausername/youtubedl-android), [ytdlnis](https://github.com/deniscerri/ytdlnis) or [SongTube](https://github.com/SongTube/SongTube-App) - Audio / Video Downloaders
-* [GrayJay](https://grayjay.app/) - YouTube, Twitch, Rumble etc / [Gitlab](https://gitlab.futo.org/videostreaming/grayjay) / [Plugins](https://gitlab.futo.org/videostreaming/plugins)
+* ⭐ **[GrayJay](https://grayjay.app/)** - YouTube, Twitch, Rumble etc / [Gitlab](https://gitlab.futo.org/videostreaming/grayjay) / [Plugins](https://gitlab.futo.org/videostreaming/plugins)
 * [Clipious](https://github.com/lamarios/clipious) - Android Invidious Client
 * [Hyperion](https://github.com/zt64/Hyperion) - YouTube Frontend
 * [SkyTube](https://github.com/SkyTubeTeam/SkyTube) - YouTube Player
