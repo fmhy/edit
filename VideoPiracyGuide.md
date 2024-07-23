@@ -533,7 +533,7 @@
 * ⭐ **[OlaMovies](https://olamovies.rent/)** - Movies / TV / 4K / 1080p / [Telegram](https://t.me/olamovies_officialv6)
 * ⭐ **[LightDLMovies](https://lightdl.xyz/)**, [2](https://lightdlmovies.blogspot.com/) - Movies / TV / 1080p
 * ⭐ **[VegaMovies](https://vegamovies.nz/)** - Movies / TV / Anime / 1080p / 4K / [Telegram](https://telegram.dog/VegamoviesTo_Official)
-* ⭐ **[MovieParadise](https://movieparadise.org/)** - Movies / TV / 1080p / [Get Code](https://pastebin.com/5jTpFCCP) / Code unlocks faster file host (1fichier)
+* ⭐ **[MovieParadise](https://movieparadise.org/)** - Movies / TV / 1080p / [Get Code](https://rentry.org/he8fhzku) / Code unlocks faster file host (1fichier)
 * ⭐ **[Braflix](https://www.braflix.ru/)** - Movies / TV / Anime / 4K / 1080p / Account Required
 * ⭐ **[Drama Day](https://dramaday.me/)** - Asian Drama / 1080p
 * ⭐ **[Video Download CSE](https://cse.google.com/cse?cx=006516753008110874046:wevn3lkn9rr)** / [CSE 2](https://cse.google.com/cse?cx=89f2dfcea452fc451) / [CSE 3](https://cse.google.com/cse?cx=aab218d0aa53e3578)
