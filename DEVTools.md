@@ -877,6 +877,7 @@
 * [The Algorithms](https://the-algorithms.com/) - Algorithms Index
 * [CSES Problemset](https://cses.fi/problemset/) - Collection of Algorithmic Programming Problems
 * [Memery Spy](https://memory-spy.wizardzines.com/) - Learn how Bytes Represent Variables
+* [CraftingInterpreters](http://www.craftinginterpreters.com/) - Scripting Language Implementation Book / [GitHub](https://github.com/munificent/craftinginterpreters)
 
 ***
 
