@@ -44,7 +44,7 @@
 * ⭐ **[LMSYS Chat](https://chat.lmsys.org/)** - Chat and Compare Multiple Chatbots
 * [LLM Playground](https://llmplayground.net/) - Multiple Chatbots / [Discord](https://discord.com/invite/q55gsH8z5F) / [API](https://api.discord.rocks/)
 * [feyn](https://feyn.chat/) - GPT-4o / Multiple Chatbots
-* [OAICHAT](https://chat.oaichat.cc/), [2](https://oi.sorapi.dev/), [3](https://zhucn.org/), [4](https://ffa.chat/) - GPT-4o / Multiple Chatbots
+* [OAICHAT](https://chat.oaichat.cc/), [2](https://chat.sorapi.dev/), [3](https://zhucn.org/), [4](https://ffa.chat/) - GPT-4o / Multiple Chatbots
 * [GPT4o.so](https://gpt4o.so/app) - GPT-4o
 * [LibreChat](https://librechat.ai/) - Multiple Chatbots
 * [DuckDuckGo AI](https://duck.ai/) - Multiple Chatbots
