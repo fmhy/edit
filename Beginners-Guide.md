@@ -127,7 +127,7 @@ Use this [browser extension](https://github.com/bpc-clone/bpc_updates/releases) 
 
 ### Downloading
 
-**[LRepacks](https://lrepacks.net/) / [CRACKSurl](https://cracksurl.com/) / [M0nkrus](https://w14.monkrus.ws/)** - Trusted software sites
+**[CRACKSurl](https://cracksurl.com/) / [LRepacks](https://lrepacks.net/) / [M0nkrus](https://w14.monkrus.ws/)** - Trusted software sites
 **[Pahe](https://pahe.ink/)** - Fast video downloads
 **[FitGirl Repacks](https://fitgirl-repacks.site/)** / [Discord](https://discord.gg/Up3YARe4RW) / **[SteamRIP](https://steamrip.com/)** - Game download sites
 **[Firehawk52](https://rentry.org/firehawk52)** - Music ripping guide
