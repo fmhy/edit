@@ -653,6 +653,7 @@ Linux Gaming Guide
 * [NHCalc](https://github.com/KhaosT/nhcalc) - Compute Image NeuralHash
 * [AppleNeuralHash2ONNX](https://github.com/AsuharietYgvar/AppleNeuralHash2ONNX) - Convert NeuralHash for CSAM Detection to ONNX / [Collision Finder](https://github.com/anishathalye/neural-hash-collider)
 * [Is Apple Silicon ready?](https://isapplesiliconready.com/) - M1 App Compatibility Chart
+* [Does It Arm?](https://doesitarm.com/) - M2 / M3 App Compatibility Chart
 * [SelfControlApp](https://selfcontrolapp.com/) - Website Blocker
 * [Typist](https://apps.apple.com/us/app/typist/id415166115?ign-mpt=uo%3D4&mt=12) - Typing Practice
 * [Comet](https://apps.apple.com/us/app/comet-for-reddit/id1146204813) or [RedditOS](https://github.com/Dimillian/RedditOS) - Reddit Client
