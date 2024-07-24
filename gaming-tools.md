@@ -610,6 +610,8 @@
 * [MiniMessageViewer](https://webui.advntr.dev/) - Format Plugin Messages
 * [MinecraftJSON](https://www.minecraftjson.com/) - Minecraft Tellraw Generator
 * [MCDF](https://mcdf.wiki.gg/) - Discontinued Minecraft Features Wiki
+* [CaveX](https://oscwii.org/library/app/cavex) - Minecraft for Wii
+* [Blocks-TI-84](https://github.com/TheScienceElf/Blocks-TI-84) - Minecraft for TI 84 CE Calculator
 
 ***
 
