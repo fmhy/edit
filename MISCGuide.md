@@ -124,6 +124,7 @@
 * [/r/Cooking](https://reddit.com/r/Cooking) - Cooking Discussion / Tips
 * [/r/AskCulinary](https://reddit.com/r/AskCulinary) - Get Cooking Advice
 * [FermenThings](https://wiki.fermenthings.be/) - Fermentation Wiki
+* [Taconomical](https://taconomical.com/) or [ChipotleCost](https://www.chipotlecost.com/) - Restaurant Price Maps
 
 ***
 
@@ -1237,6 +1238,10 @@
 * ⭐ **[Human Benchmark](https://humanbenchmark.com/)** - Brain Games & Cognitive Tests
 * ⭐ **[Got Rhythm?](https://www.concerthotels.com/got-rhythm)** - Rhythm / Tempo Test
 * ⭐ **[2020 Game](https://2020game.io/)** - Play through 2020
+* [Virtual x86](https://copy.sh/v86/) - x86-compatible OS Emulators
+* [PCjs Machines](https://www.pcjs.org/) or [Windows93](https://www.windows93.net/) - Classic Computer Emulators
+* [InfiniteMac](https://infinitemac.org/) - Apple OS Emulators
+* [Quantum Playground](https://www.quantumplayground.net/#/home) - Quantum Computer Simulator
 * [Little Alchemy](https://littlealchemy.com/) or [Little Alchemy 2](https://littlealchemy2.com/) - Alchemy Game
 * [JUST SCREAM!](https://justscream.baby/) - Scream Into the Universe
 * [VentScape](https://www.ventscape.life/) or [PostSecretVoicemail](https://www.postsecretvoicemail.com/) - Speak into a Void
@@ -1251,9 +1256,6 @@
 * [MagicKeyboard](http://magickeyboard.io/) - Try "feross", "hexbin", "rain", or "semi"
 * [Just Type Stuff](https://web.archive.org/web/20191229101209/https://justtypestuff.com/) - Type Things into Existence
 * [deardiary](https://deardiary.wtf/) - Machine Learning Diary / [Concept Video](https://youtu.be/Zc3qayGmYZQ)
-* [Virtual x86](https://copy.sh/v86/) - x86-compatible OS Emulators
-* [PCjs Machines](https://www.pcjs.org/) or [Windows93](https://www.windows93.net/) - Classic Computer Emulators
-* [Quantum Playground](https://www.quantumplayground.net/#/home) - Quantum Computer Simulator
 * [Cafe and Diner](https://www.cafeanddiner.com/) - Browser Mystery Game
 * [Terminal 00](https://angusnicneven.com/), [corru.observer](https://corru.observer/), [lomando](https://lomando.com/main.html), [angelangelangel](https://angelangelangelangelangel.com/) or [SilverLadder](http://www.silverladder.com/) - Cursed Sites / Horror Games
 * [Kamogo](https://www.kamogo.com/faq/) - Useless Web Apps
@@ -1330,6 +1332,7 @@
 * [Internet Map](https://internet-map.net/) - Map of the Internet
 * [Google Earth](https://www.google.com/earth/about/versions/) - Explore Earth
 * [Land Lines](https://lines.chromeexperiments.com/) - Explore Google Earth via Gestures
+* [elgooG](https://elgoog.im/) - Google Easter Eggs
 * [QuarterMaester](https://quartermaester.info/) - Game of Thrones Map
 * [DamnInteresting](https://www.damninteresting.com/) - Interesting Stories
 * [The Cutting Room Floor](https://tcrf.net/The_Cutting_Room_Floor) - Unused Video Game Content Research
