@@ -108,10 +108,7 @@
 * [LlaMA + SillyTavern](https://rentry.org/llama_v2_sillytavern) - LlaMA + SillyTavern Roleplaying Setup Guide
 * [KoboldAI](https://github.com/henk717/KoboldAI) - GUI for Roleplaying Chatbots / [Web App](https://lite.koboldai.net/)
 * [GPT Call](https://gptcall.net/) - Roleplaying Chatbots / [Discord](https://discord.gg/88fQT5Bgfe)
-* [Figgs](https://www.figgs.ai/) - Roleplaying Chatbots
 * [Dreamshow](https://dreamshow.ai/) - Roleplaying Chatbots
-* [Spicychat.ai](https://spicychat.ai/) - Roleplaying Chatbots
-* [Sakura](https://www.sakura.fm/) - Roleplaying Chatbots
 * [4thWall AI](https://beta.4wall.ai/) - Roleplaying Chatbots
 * [Faraday](https://faraday.dev/) - Self-Hosted Roleplaying Chatbot
 * [TavernAI](https://tavernai.net/) - Roleplaying / Adventure Chatbot
@@ -276,7 +273,7 @@
 * [ImageLabs](https://editor.imagelabs.net/) / Unlimited
 * [Pollinations](https://pollinations.ai/) / Unlimited / [Discord](https://discord.com/invite/8HqSRhJVxn)
 * [PicFinder](https://picfinder.ai/) / Unlimited
-* [Perchance](https://perchance.org/ai-text-to-image-generator) / Unlimited
+* [Perchance](https://perchance.org/ai-text-to-image-generator), [2](https://perchance.org/ai-photo-generator) / Unlimited
 * [PixArt-alpha](https://huggingface.co/spaces/PixArt-alpha/PixArt-alpha) / Unlimited
 * [GetIMG.ai](https://getimg.ai/) / [Discord](https://discord.com/invite/5KsUXSzVwS) / 100 Monthly
 * [Adobe Firefly](https://firefly.adobe.com/) / 25 Monthly / [Discord](https://discord.com/invite/dJnsV5s8PZ) / Sign-Up Required
