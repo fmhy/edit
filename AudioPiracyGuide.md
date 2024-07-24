@@ -340,6 +340,7 @@
 * [LosslessAlbums](https://losslessalbums.club/) or [HDMusic](https://hdmusic.cc/) - FLAC
 * [DocOverBlog](https://docoverblog.blogspot.com/) - FLAC
 * [Creamusic](https://creamusic.net/) - FLAC / Bypass Limit with VPN
+* [QMusic](https://rentry.co/FMHYBase64#qmusic) - MP3 / FLAC
 * [IntMusic](https://intmusic.net/) - MP3 / FLAC
 * [Gangster](https://gangster.su/) - MP3 / FLAC
 * [GetRockMusic](https://getrockmusic.net/) - MP3 / FLAC
