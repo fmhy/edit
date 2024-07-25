@@ -121,6 +121,8 @@
 * [ImageFoo](https://imagefoo.com/) - Image Optimization
 * [tiny.pictures](https://tiny.pictures/) - Image Optimization
 * [ImageWorsener](https://entropymine.com/imageworsener/) - Image Filters / Blur / Resizing
+* [Ihancer](https://ihancer.com) - Image Optimization
+* [Waifu2x](https://waifu2x.booru.pics) - Image Optimization 
 
 ***
 
