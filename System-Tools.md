@@ -458,7 +458,6 @@
 * [Auto Night Mode](https://github.com/AutoDarkMode/Windows-Auto-Night-Mode) or [Darker](https://mswin.me/darker/) - Dark / Light Mode Theme Switcher
 * [SecureUxTheme](https://github.com/namazso/SecureUxTheme) or [UltraUXThemePatcher](https://mhoefs.eu/software_uxtheme.php?ref=syssel&lang=en) - Ux Theme Patcher
 * [7TSP GUI](https://www.deviantart.com/devillnside/art/7TSP-GUI-2019-Edition-804769422) - Theme Source Patcher
-* [SimpleClassicTheme](https://simpleclassictheme.nl/) - Classic Windows Theme
 * [Winmoes](https://winmoes.com/) - Anime Windows Themes / Wallpapers
 * [Desktops](https://deskto.ps/) - OS Theme Examples
 * [Macdows11](https://redd.it/pd5ha6) or [Macified Windows](https://github.com/Runixe786/Macified-Windows) - Win 11 Mac Theme Guides
