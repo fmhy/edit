@@ -416,6 +416,7 @@
 * [StreamEast](https://www.thestreameast.to/v8/) - Sports
 * [1Stream](https://1stream.eu/) - Sports
 * [WeakSpell](https://weakspell.to/) - Sports
+* [CricHD.li](https://crichd.li/), [2](https://totalsportek.me/), [3](https://streameast.bz/) - Sports
 * [AJ Sports](https://ajsportstv.ch/) - Sports
 * [First Row Sports](https://firstsrowsports.tv/) - Sports
 * [FSL](https://freestreams-live.my/) - Sports / [Discord](https://discord.gg/eXXJzDPchU)
@@ -442,7 +443,6 @@
 * [Sport-TV](https://sport-tv.live/) - Sports
 * [DudeStream](https://www.dudestream.com/) - Sports
 * [CricHD](https://crichdplayer.com/) - Sports
-* [CricHD.li](https://crichd.li/), [2](https://totalsportek.me/), [3](https://streameast.bz/) - Sports
 * [CricHD.stream](https://www.crichd.stream/) - Sports
 * [Rojadirecta](http://www.rojadirecta.eu/) - Sports / [Forum](http://forum.rojadirecta.es/)
 * [NFLBite](https://nflbite.tv/) - Football
