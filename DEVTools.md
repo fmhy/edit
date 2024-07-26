@@ -128,7 +128,7 @@
 * [Proton Native](https://proton-native.js.org/), [Neutralinojs](https://neutralino.js.org/), [Electron](https://www.electronjs.org/), [Flet](https://flet.dev/) or [Tauri](https://tauri.app/) / [Resources](https://github.com/tauri-apps/awesome-tauri) - Desktop App Builders
 * [vfox](https://vfox.lhan.me/) - SDK Version Manager
 * [WinFsp](https://winfsp.dev/) - Write File Systems (i.e. "Windows drives")
-* [Budibase](https://budibase.com/), [ToolJet](https://tooljet.com/), [retool](https://retool.com/) or [AppSmith](https://github.com/appsmithorg/appsmith) - Internal Tool Builders
+* [Budibase](https://budibase.com/), [ToolJet](https://tooljet.com/), [retool](https://retool.com/) or [Appsmith](https://www.appsmith.com/) - Internal Tool Builders
 * [Theos](https://theos.dev/) - Program Build System / [GitHub](https://github.com/theos/theos) / [Jailed Tweaks](https://github.com/kabiroberai/theos-jailed/wiki/Installation)
 * [New Software](https://github.com/ardalis/new-software-project-checklist) - Project Decision Checklist
 * [Radicle](https://radicle.xyz/) - P2P Software Development
@@ -815,6 +815,7 @@
 * ⭐ **[TeachYourselfComputerScience](https://teachyourselfcs.com/)** - Computer Science Book Recommendations
 * ⭐ **[Open Source Society University (OSSU)](https://github.com/ossu/computer-science)** / [PT-BR](https://github.com/ossu/computer-science-br) / [CN](https://github.com/ossu/computer-science-cn) - Computer Science Roadmap
 * ⭐ **[NandGame](https://nandgame.com/)** - Computer Building Puzzle
+* ⭐ **[CraftingInterpreters](http://www.craftinginterpreters.com/)** - Scripting Language Implementation Book / [GitHub](https://github.com/munificent/craftinginterpreters)
 * [CS1000](https://cs1000.surge.sh/) - Computer Science / Software Engineering
 * [Tech Dev Guide](https://techdevguide.withgoogle.com/) - Computer Science Google Courses
 * [Big-O Cheatsheet](https://www.bigocheatsheet.com/) - Computer Science Complexities Cheatsheet
@@ -831,7 +832,6 @@
 * [CS Academy](https://csacademy.com/) - Interactive Computer Science Lessons
 * [From Nand To Tetris](https://www.nand2tetris.org/course) - Computer Building Lesson
 * [Copetti](https://www.copetti.org/) - In-depth Console Architecture Analysis / [GitHub](https://github.com/flipacholas/Architecture-of-consoles)
-* [CraftingInterpreters](http://www.craftinginterpreters.com/) - Scripting Language Implementation Book / [GitHub](https://github.com/munificent/craftinginterpreters)
 * [Web Browser Engineering](https://browser.engineering/) - Learn about Browser Engineering
 * [CPU Land](https://cpu.land/) - What Happens when you run Programs
 * [Computer Science Lecture Links](https://github.com/riti2409/Resources-for-preparation-Of-Placements)
@@ -990,7 +990,6 @@
 * [Python Patterns](https://python-patterns.guide/) - Python Design Patterns
 * [Clean Code Python](https://github.com/zedr/clean-code-python) - Clean Up Python Code
 * [pipx](https://pipx.pypa.io) - Execute Python Binaries in Isolated Environments
-* [PyPy](https://www.pypy.org/) - Alternate Python Implementation
 * [RustPython](https://rustpython.github.io/) - Python Interpreter
 * [Ruff](https://docs.astral.sh/ruff/) - Python Linter
 * [pipxu](https://github.com/bulletmark/pipxu) - Install / Run Python Apps in Isolated Environments
