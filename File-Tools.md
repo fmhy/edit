@@ -219,7 +219,7 @@
 * ⭐ **[Bulk Rename Utility](https://www.bulkrenameutility.co.uk/)** - Bulk Renamer
 * [MediaMonkey](https://www.mediamonkey.com/) - Data Automation
 * [mnamer](https://github.com/jkwill87/mnamer) - Data Automation
-* [MediaInfo](https://mediaarea.net/en/MediaInfo) / [Online](https://mediaarea.net/MediaInfoOnline) - Data Automation
+* [MediaInfo](https://mediaarea.net/en/MediaInfo) - Data Automation / [Online](https://mediaarea.net/MediaInfoOnline)
 * [tinyMediaManager](https://www.tinymediamanager.org/) - Data Automation
 * [Bruji](https://www.bruji.com/) - Data Automation
 * [FileBot](https://www.filebot.net/) - Data Automation
@@ -227,6 +227,7 @@
 * [TVRename](https://www.tvrename.com/) - TV File Data Automation
 * [Shoko](https://github.com/shokoanime) - Anime File Data Automation
 * [Szyszka](https://github.com/qarmin/szyszka) - Bulk Renamer
+* [F2](https://github.com/ayoisaiah/f2) - Bulk Renamer
 * [PowerRename](https://learn.microsoft.com/en-us/windows/powertoys/powerrename) - Bulk Renamer
 * [Ant Renamer](https://www.antp.be/software/renamer) - Bulk Renamer
 * [Flut Renamer](https://github.com/sun-jiao/flut-renamer) - Bulk Renamer
