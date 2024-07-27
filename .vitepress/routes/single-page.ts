@@ -23,9 +23,14 @@ interface File {
 
 export default defineEventHandler(async () => {
   let body = ''
+  const f = fetcher({
+    headers: {
+      'User-Agent': 'taskylizard'
+    }
+  })
+
   try {
     // event.waitUntil(async () => {
-    const f = fetcher()
 
     // Fetch the list of files in the repository
     const files = await f.get<File[]>(GITHUB_REPO)
