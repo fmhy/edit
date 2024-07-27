@@ -81,7 +81,7 @@
 
 ***
 
-### [Fake Z-Lib Sites](https://redd.it/16xtm67) / [2](https://ibb.co/MhfGTWx)
+### [Fake Z-Lib Sites](https://www.reddit.com/r/zlibrary/wiki/index/scamsites/) / [2](https://ibb.co/MhfGTWx)
 
 ### [Fake Windows Activators](https://web.archive.org/web/20240529222658/https://pastebin.com/gCmWs2GR)
 
