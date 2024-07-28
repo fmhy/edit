@@ -273,7 +273,7 @@
 ## ▷ Tracking / Discovery
 
 * 🌐 **[Awesome Engineering Games](https://github.com/arcataroger/awesome-engineering-games)** - Engineering Games
-* ⭐ **[Glitchwave](https://glitchwave.com/)**, [Grouvee](https://www.grouvee.com/), [RankOne](https://www.rankone.global/), [InfiniteBacklog](https://infinitebacklog.net/), [KeepTrackOfMyGames](https://keeptrackofmygames.com/) or [Backloggd](https://www.backloggd.com/) - Game Trackers
+* ⭐ **[Glitchwave](https://glitchwave.com/)**, [Grouvee](https://www.grouvee.com/), [RankOne](https://www.rankone.global/), [InfiniteBacklog](https://infinitebacklog.net/), [KeepTrackOfMyGames](https://keeptrackofmygames.com/), [PlayTracker](https://playtracker.net/) or [Backloggd](https://www.backloggd.com/) - Game Trackers
 * ⭐ **[OpenCritic](https://opencritic.com/)** - Critic Game Reviews / Ratings
 * ⭐ **[IGDB](https://www.igdb.com/)** or **[GiantBomb](https://www.giantbomb.com/games/)** - Game Database
 * ⭐ **[TasteDive](https://tastedive.com/games )**, [50GamesLike](https://www.50gameslike.com/), [Mythic Maps](https://mythicmap.com/) / [Discord](https://discord.gg/xw6cgmjDzB) or [/r/ifyoulikeblank](https://www.reddit.com/r/ifyoulikeblank/) - Game Recommendations
