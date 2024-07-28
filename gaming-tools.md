@@ -598,7 +598,8 @@
 * [MinecraftMaps](https://www.minecraftmaps.com/) or [Mapcraft](https://mapcraft.me/) - Minecraft Maps
 * [Minecraft Earth Map](https://earth.motfe.net/) - Earth Maps
 * [MapartCraft](https://rebane2001.com/mapartcraft/) or [Cartographer](https://cartographer-mc.com/)  - Mapart schematic / map.dat Generator
-* [Minecraft Map Converter](https://archive.org/details/Minecraft-map-converter) or [Chunker](https://chunker.app/) - Minecraft World Format Converters
+* [Chunker](https://chunker.app/) - Java / Bedrock Format Converter
+* [Minecraft Map Converter](https://archive.org/details/Minecraft-map-converter) - PS3/360 Format Converter
 * [ObjtoSchematic](https://objtoschematic.com/) - Converts Minecraft Obj files to Schematics / [Discord](https://discord.com/invite/McS2VrBZPD)
 * [NBT Studio](https://github.com/tryashtar/nbt-studio/ ) or [webNBT](https://irath96.github.io/webNBT/) - Minecraft NBT File Editors
 * [TerraForged](https://github.com/TerraForged/TerraForged) - Improved Biomes Mod
