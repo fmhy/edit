@@ -164,7 +164,34 @@
 
 ***
 
-## ▷ Religion / Esoterica
+## ▷ Fanfiction / Stories
+
+* ⭐ **[Short Stories](https://short-stories.co/)**
+* [Archive of Our Own](https://archiveofourown.org/) - Fanfiction Archive / [Enhancements](https://github.com/jsmnbom/ao3-enhancements/)
+* [SCP Foundation](https://scp-wiki.wikidot.com/) - Fictional Story Colabs / [Wiki](https://en.wikipedia.org/wiki/SCP_Foundation) / [Subreddit](https://www.reddit.com/r/SCPDeclassified/)
+* [the Wanderers' Library](https://wanderers-library.wikidot.com/) - Fictional Story Colabs
+* [RPC Authority](http://rpc-wiki.net/) - Fictional Story Colabs
+* [OrionsArm](https://www.orionsarm.com/) - Fictional Story Colabs
+* [Everything2](https://everything2.com/) - Short Stories / Poetry / Writing Help
+* [Fanfiction.net](https://fanfiction.net/) - Fanfiction
+* [SquidgeWorld](https://squidgeworld.org/) - Fanfiction
+* [Inkitt](https://www.inkitt.com/fanfiction) - Fanfiction
+* [Wattpad](https://wattpad.com/) - Fanfiction
+* [Royal Road](https://royalroad.com/) - Fanfiction
+* [Quotev](https://www.quotev.com/stories/c/Fanfiction) - Fanfiction
+* [fiction.live](https://fiction.live/) - Fanfiction
+* [Booksie](https://www.booksie.com/) - Short Stories
+* [Vestal Review](https://www.vestalreview.net/) - Short Stories
+* [Library of Short Stories](https://www.libraryofshortstories.com/) - Short Stories
+* [Vocal Media](https://vocal.media/fiction/) - Short Stories
+* [Liminal Archives](http://liminal-archives.wikidot.com/) / [Discord](https://discord.gg/fxhwcsyKN2), [The Backrooms Wiki](http://backrooms-wiki.wikidot.com/) or [The Voidclusters](http://voidclusters.wikidot.com/) - Liminal Space Stories
+* [Potions and Snitches](https://www.potionsandsnitches.org/) - Harry Potter Fanfiction
+* [Fim Fiction](https://www.fimfiction.net/) - MLP Fanfiction
+* [Project Aon](https://www.projectaon.org/en/Main/Home) - Lone Wolf Gamebooks
+
+***
+
+## ▷ Esoteric / Cultural
 
 * 🌐 **[WiLd's Occult Ebook Sources](https://rentry.co/FMHYBase64#wilds-occult-ebook-sources)** - Occult / Esoterica
 * 🌐 **[Soren Megathread](https://odysee.com/@Soren:71/%F0%9F%94%B0Megathread_with_Resources%F0%9F%94%B0:1)** - Occult / Esoterica
@@ -192,6 +219,7 @@
 * [Biblioteca Pleyades](https://www.bibliotecapleyades.net/esp_tema.htm) - Mythology / Conspiracy / Esoterica
 * [Gnostic Society Library](http://www.gnosis.org/library.html) - Gnosticism
 * [Logoi Library](https://logoilibrary.com/) - Gnosticism / Hermeticism
+* [The Library of Consciousness](https://www.organism.earth/library/) - Esoterica
 * [Esoteric Archive](http://esotericarchives.com/) - Esoterica
 * [Esoterica Drive](https://rentry.co/FMHYBase64#archive) - Esoterica
 * [Masonic Library](https://masonicshop.com/masonic-library/) - Esoterica / Freemasonry
@@ -243,33 +271,6 @@
 * [Five Prayers](https://github.com/Five-Prayers/five-prayers-android) - Muslim Tools App
 * [Questions on Islam](https://questionsonislam.com/) - Muslim Q&A
 * [Sunnah.com](https://sunnah.com/) - Hadith Translation
-
-***
-
-## ▷ Fanfiction / Stories
-
-* ⭐ **[Short Stories](https://short-stories.co/)**
-* [Archive of Our Own](https://archiveofourown.org/) - Fanfiction Archive / [Enhancements](https://github.com/jsmnbom/ao3-enhancements/)
-* [SCP Foundation](https://scp-wiki.wikidot.com/) - Fictional Story Colabs / [Wiki](https://en.wikipedia.org/wiki/SCP_Foundation) / [Subreddit](https://www.reddit.com/r/SCPDeclassified/)
-* [the Wanderers' Library](https://wanderers-library.wikidot.com/) - Fictional Story Colabs
-* [RPC Authority](http://rpc-wiki.net/) - Fictional Story Colabs
-* [OrionsArm](https://www.orionsarm.com/) - Fictional Story Colabs
-* [Everything2](https://everything2.com/) - Short Stories / Poetry / Writing Help
-* [Fanfiction.net](https://fanfiction.net/) - Fanfiction
-* [SquidgeWorld](https://squidgeworld.org/) - Fanfiction
-* [Inkitt](https://www.inkitt.com/fanfiction) - Fanfiction
-* [Wattpad](https://wattpad.com/) - Fanfiction
-* [Royal Road](https://royalroad.com/) - Fanfiction
-* [Quotev](https://www.quotev.com/stories/c/Fanfiction) - Fanfiction
-* [fiction.live](https://fiction.live/) - Fanfiction
-* [Booksie](https://www.booksie.com/) - Short Stories
-* [Vestal Review](https://www.vestalreview.net/) - Short Stories
-* [Library of Short Stories](https://www.libraryofshortstories.com/) - Short Stories
-* [Vocal Media](https://vocal.media/fiction/) - Short Stories
-* [Liminal Archives](http://liminal-archives.wikidot.com/) / [Discord](https://discord.gg/fxhwcsyKN2), [The Backrooms Wiki](http://backrooms-wiki.wikidot.com/) or [The Voidclusters](http://voidclusters.wikidot.com/) - Liminal Space Stories
-* [Potions and Snitches](https://www.potionsandsnitches.org/) - Harry Potter Fanfiction
-* [Fim Fiction](https://www.fimfiction.net/) - MLP Fanfiction
-* [Project Aon](https://www.projectaon.org/en/Main/Home) - Lone Wolf Gamebooks
 
 ***
 
@@ -929,7 +930,7 @@
 * [Icecream Reader](https://icecreamapps.com/Ebook-Reader/) - Ebook Reader / PC
 * [Foliate](https://johnfactotum.github.io/foliate/) - Ebook Reader / Linux
 * [qPDFview](https://launchpad.net/qpdfview) - PDF / PC
-* [mupdf](https://mupdf.com/) - PDF / PC
+* [mupdf](https://mupdf.com/) - PDF / PC / Linux / Android
 * [Evince](https://wiki.gnome.org/Apps/Evince) - PDF / DjVu Reader / Linux
 * [Sioyek](https://sioyek.info/) - PDF / PC / Mac / Linux
 * [FF PDF](https://github.com/sdushantha/ff-pdf/) - PDF / Linux
