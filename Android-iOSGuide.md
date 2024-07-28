@@ -721,7 +721,7 @@
 
 * ⭐ **[Mihon](https://mihon.app/) / [Discord](https://discord.gg/mihon)** - Manga Reader / [Extensions](https://keiyoushi.github.io/extensions/), [2](https://discord.gg/3FbCpdKbdY), [3](https://wotaku.moe/guides/tech/repo) / [Official Forks](https://mihon.app/forks/), [2](https://github.com/null2264/yokai), [3](https://github.com/nekomangaorg/Neko), [4](https://github.com/komikku-app/komikku)
 * ⭐ **[Kotatsu](https://kotatsu.app/) / [Discord](https://discord.gg/NNJ5RgVBC5) / [Telegram](https://t.me/kotatsuapp)** - Manga Reader
-* ⭐ **[Dantotsu](https://github.com/rebelonion/Dantotsup)** - Manga Reader / [Extension Guide](https://wotaku.moe/guides/tech/repo) / [Discord](https://discord.gg/W9KHG7zzKd)
+* ⭐ **[Dantotsu](https://github.com/rebelonion/Dantotsu)** - Manga Reader / [Extension Guide](https://wotaku.moe/guides/tech/repo) / [Discord](https://discord.gg/W9KHG7zzKd)
 * [Neko](https://github.com/nekomangaorg/Neko) / [Discord](https://discord.gg/4vmK42QuKG) - Manga Reader
 * [Perfect Viewer](https://rentry.co/FMHYBase64#perfect-viewer) - Manga File Viewer
 * [Manga Tag](https://www.mangatag.com/) - Manga File Viewer
