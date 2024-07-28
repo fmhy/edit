@@ -402,7 +402,6 @@
 
 ## ▷ Live Sports
 
-* ⭐ **[Streamed](https://streamed.su/)** - Sports
 * ⭐ **[Sportsurge](https://v2.sportsurge.net/home4/)** - Sports / Stream Aggregator
 * ⭐ **[WatchSports](https://watchsports.to/)** - Sports / Stream Aggregator
 * ⭐ **[FreeSports](https://freesports.to/)** or [TheHomeSport](https://thehomesport.com/) - Sports
@@ -412,6 +411,7 @@
 * ⭐ **[SportsHub](https://sportshub.stream/)**, [2](https://reddit10.sportshub.stream/) - Sports
 * ⭐ **[TotalSportek](https://totalsportek.pro/)**, [2](https://www.totalsportek.to/) - Sports
 * ⭐ **[OlympicStreams](https://olympicstreams.co/)** - Sports
+* [Streamed](https://streamed.su/) - Sports
 * [Sportsurge.club](https://sportsurge.club/) - Sports
 * [StreamEast](https://www.thestreameast.to/v8/) - Sports
 * [1Stream](https://1stream.eu/) - Sports
