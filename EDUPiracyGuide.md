@@ -708,7 +708,7 @@
 * 🌐 **[LexiLogos](https://www.lexilogos.com/english/index.htm)** - Multi-Language Dictionary Index
 * ↪️ **[Languages & Linguistics](https://rentry.co/FMHYBase64#languages-linguistics)**
 * ↪️ **[Translation Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools#wiki_.25B7_translators)**
-* ⭐ **[Duolingo](https://rentry.co/FMHYBase64#duolingo)** / [Tips](https://duome.eu/tips), [Memrise](https://rentry.co/FMHYBase64#memrise), [LingoDeer](https://www.lingodeer.com/), [Busuu](https://rentry.co/FMHYBase64#busuu) or [Babbel](https://www.babbel.com/mobile) - Language Learning Lessons
+* ⭐ **[Duolingo](https://rentry.co/FMHYBase64#duolingo)** / [Tips](https://duome.eu/tips), [Memrise](https://rentry.co/FMHYBase64#memrise), [LingoDeer](https://www.lingodeer.com/) or [Busuu](https://rentry.co/FMHYBase64#busuu) - Language Learning Lessons
 * ⭐ **[Language Transfer](https://www.languagetransfer.org/)** - Language Learning Lectures
 * ⭐ **[Language Reactor](https://www.languagereactor.com/)** or [Easysubs](https://easysubs.cc/) - Learn Languages via Videos
 * ⭐ **[PolyReads](https://polyreads.com/)** - Learn Languages via Reading
@@ -740,6 +740,7 @@
 
 * 🌐 **[The Language Exchange Network](https://redd.it/5m5426)**, [2](https://docs.google.com/document/d/14is9MfGfKC-ptDhXGWLQFYSAaWTJSnUxj6zK0RGqNIk/) - Language Exchange Communities / [Discord](https://discord.gg/jxcVmHJ)
 * [InterPals](https://www.interpals.net/)
+* [Episoden](https://www.episoden.com/)
 * [Tandem](https://www.tandem.net/)
 * [Conversation Exchange](https://www.conversationexchange.com/)
 * [RhinoSpike](https://rhinospike.com/)
