@@ -144,7 +144,7 @@
 ## ▷ File Encryption
 
 * ⭐ **[VeraCrypt](https://www.veracrypt.fr/en/Home.html)**
-* ⭐ **[Picocrypt](https://github.com/HACKERALERT/Picocrypt)**
+* ⭐ **[Picocrypt](https://github.com/Picocrypt/Picocrypt)**
 * [Hat](https://hat.sh/), [GNUPG](https://gnupg.org/)
 * [GPG4Win](https://www.gpg4win.org/)
 * [Encrypto](https://macpaw.com/encrypto)
