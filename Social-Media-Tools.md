@@ -431,7 +431,6 @@
 * ↪️ **[Multi-Site Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video-tools#wiki_.25BA_video_download)**
 * ⭐ **[YT-DLP](https://github.com/yt-dlp/yt-dlp)** - YouTube Downloader / [Discord](https://discord.gg/H5MNcFW63r) / [Commands](https://github.com/TheFrenchGhosty/TheFrenchGhostys-Ultimate-YouTube-DL-Scripts-Collection)
 * ⭐ **[Stacher](https://stacher.io/)** - YT-DL GUI
-* ⭐ **[Y232](https://y232.live/)** - YT-DL WebUI
 * [yt-dlp-gui](https://github.com/kannagi0303/yt-dlp-gui) - YT-DL GUI / [Easy Installer](https://github.com/kazukikasama/youtube-dlp-gui-installer)
 * [YTDL-PATCHED](https://github.com/ytdl-patched/ytdl-patched) - YT-DL GUI
 * [Parabolic](https://github.com/NickvisionApps/Parabolic) - YT-DL GUI
