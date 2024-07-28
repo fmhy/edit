@@ -16,7 +16,6 @@
 * [BigAudiobooks](https://bigaudiobooks.com/) - Listen Online
 * [HotAudioBooks](https://hotaudiobooks.com/) - Listen Online
 * [BookAudiobook](https://bookaudiobooks.com/) - Listen Online
-* [FreeAudiobooks](https://freeaudiobooks.top/) - Listen Online / DL: [audiobooksnatcher](https://github.com/nazdridoy/audiobooksnatcher)
 * [GalaxyAudiobooks](https://galaxyaudiobook.com/) - Listen Online / DL: [audiobooksnatcher](https://github.com/nazdridoy/audiobooksnatcher)
 * [Audiobooks Lab](https://audiobooklabs.com/) - Listen Online
 * [Find Audiobook](https://findaudiobook.com/) - Listen Online
