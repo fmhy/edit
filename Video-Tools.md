@@ -112,7 +112,6 @@
 * [Streamlabs-OBS](https://github.com/stream-labs/desktop) - Live Stream Manager
 * [SteamLabs](https://streamlabs.com/) - Live Stream Manager
 * [Restream](https://restream.io/) - Live Stream Manager
-* [Twitch Studio](https://www.twitch.tv/broadcast/studio) - Live Stream Manager
 * [FBX](https://fbx.gg/) - Live Stream Manager
 * [XSplit](https://www.xsplit.com/) - Live Stream Manager
 * [TwitchChat](https://twitchat.fr/) - Live Stream Manager / [Discord](https://discord.com/invite/fmqD2xUYvP)
