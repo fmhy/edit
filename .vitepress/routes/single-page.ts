@@ -30,8 +30,6 @@ export default defineEventHandler(async () => {
   })
 
   try {
-    // event.waitUntil(async () => {
-
     // Fetch the list of files in the repository
     const files = await f.get<File[]>(GITHUB_REPO)
 
@@ -57,7 +55,6 @@ export default defineEventHandler(async () => {
     )
 
     body += contents.join('\n\n')
-    // })
   } catch (error) {
     return {
       status: 500,
@@ -65,8 +62,5 @@ export default defineEventHandler(async () => {
     }
   }
 
-  return {
-    status: 200,
-    body
-  }
+  return body
 })
