@@ -551,6 +551,7 @@
 * [Professor Leonard](https://www.youtube.com/channel/UCoHhuummRZaIVX7bD4t2czg) or [MisterWootube](https://www.youtube.com/c/misterwootube) - YouTube Math Lessons
 * [Mathispower4u](https://www.mathispower4u.com/), [SchoolYourself](https://schoolyourself.org/), [mathhelp](https://www.mathhelp.com/), [MathPortal](https://www.mathportal.org/), [mathonline](http://mathonline.wikidot.com/) or [CoolMath](https://www.coolmath.com/) - Math Lessons / Practice
 * [CoolMathGames](https://www.coolmathgames.com/1-number-games) - Math Games
+* [MathDash](https://mathdash.live/) - Online Math Competitions
 * [Mathlets](https://mathlets.org/), [GeoGebra](https://www.geogebra.org/) or [Mathspad](https://www.mathspad.co.uk/resources.php?interactives=1) - Interactive Math Sites
 * [Cut The Knot](https://cut-the-knot.org/) or [TeachYourselfMath](https://teachyourselfmath.app/tags ) - Math Equations / Problems
 * [IXL Learning](https://au.ixl.com/math/) - Math Practice / Quizzes
@@ -949,7 +950,7 @@
 * [SearchifyX](https://github.com/daijro/SearchifyX) - Search Flashcards
 * [ForgetMeNot](https://github.com/tema6120/ForgetMeNot) - Flashcard Mobile App
 * [BookFlashCard](https://www.bookflashcard.com/) - Turn Books into Flashcards
-* [Homeworkify](https://homeworkify.st/), [TheQuizing](https://www.thequizing.com/), [Get Unstuck](https://socratic.org/) or [Brainly](https://brainly.com/) / [Limit Bypass](https://greasyfork.org/en/scripts/430355) - Homework Help Bots / Communities
+* [TheQuizing](https://www.thequizing.com/), [Get Unstuck](https://socratic.org/) or [Brainly](https://brainly.com/) / [Limit Bypass](https://greasyfork.org/en/scripts/430355) - Homework Help Bots / Communities
 * [Toppr](https://www.toppr.com/), [FreeOnlineTest](https://www.freeonlinetest.in/) or [AE Old (Discord)](https://discord.gg/VCXGudY) - Test Practice & Homework Help
 * [DoubtNut](https://www.doubtnut.com/) - Exam Solutions / Help
 * [DLStudocu](https://dlstudocu.com/) or [DownStudocu](https://downstudocu.com/) - Studocu Downloaders
