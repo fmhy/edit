@@ -24,7 +24,6 @@
 * [ExtraTorrent](https://extratorrent.st/) - Video / Audio / Books / NSFW
 * [rutor.info](https://rutor.info/) or [rutor.is](https://rutor.is/) - Video / Audio / Books / ROMs / Magazines / Use [Translator](https://github.com/FilipePS/Traduzir-paginas-web#install)
 * [NNM-Club](https://nnmclub.to/) - Video / Audio / [Note](https://i.ibb.co/MPRttDC/6a35c3c79cde.png)
-* [Torrentz2k](https://torrentz2k.xyz/) - Video / Audio / NSFW
 * [Torrenting](https://www.torrenting.com/) - Video / Audio / Books / NSFW / Signup Required
 * [Tigole](https://infogalactic.com/info/Tigole#Getting_Tigole_torrents) - Torrent Index
 * [ZeroTorrent](http://127.0.0.1:43110/ZeroTorrent.bit/) - [ZeroNet Required](https://zeronet.io/) / Video / Audio
