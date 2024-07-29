@@ -146,8 +146,8 @@
 * ⭐ **[VeraCrypt](https://www.veracrypt.fr/en/Home.html)**
 * ⭐ **[age](https://github.com/FiloSottile/age)**
 * [Picocrypt](https://github.com/Picocrypt/Picocrypt)
-* [Hat](https://hat.sh/), [GNUPG](https://gnupg.org/)
-* [GPG4Win](https://www.gpg4win.org/)
+* [Hat](https://hat.sh/)
+* [GPG4Win](https://www.gpg4win.org/) 
 * [Encrypto](https://macpaw.com/encrypto)
 * [FreeCrypt](https://freecrypt.org/)
 * [Vmola](https://vmola.com/)
