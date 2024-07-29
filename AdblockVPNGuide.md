@@ -410,7 +410,7 @@
 ***
 
 * 🌐 **[VPN Comparisons](https://redd.it/171h9qa)** or [Techlore Chart](https://techlore.tech/vpn) - VPN Comparison Charts
-* 🌐 **[VPN Relationships](https://kumu.io/Windscribe/vpn-relationships)** - VPN Relationship Chart
+* 🌐 **[VPN Relationships](https://kumu.io/Windscribe/vpn-relationships)**, [2](https://windscribe.com/vpnmap) - VPN Relationship Chart
 * ⭐ **[/r/VPNs](https://www.reddit.com/r/vpns/)** - VPN Help and Discussion
 * ⭐ **[Windscribe](https://windscribe.com)** - Paid w/ Free Version Available
 * ⭐ **[AirVPN](https://airvpn.org/)**
