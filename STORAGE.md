@@ -688,6 +688,11 @@
 * [Cuberite](https://cuberite.org/) - Server Setup
 * [World Host](https://modrinth.com/mod/world-host) - No Server Single Player
 * [Pufferfish](https://github.com/pufferfish-gg/Pufferfish), [Purpur](https://purpurmc.org/) / [Discord](https://purpurmc.org/discord) or [Paper](https://papermc.io/software/paper) - Performance Enhancement Servers
+* [GeyserMC](https://geysermc.org/) - Join Minecraft Java Servers with Bedrock Client / [Consoles](https://wiki.geysermc.org/geyser/using-geyser-with-consoles/)
+* [Minecraft Server Scanner](https://github.com/Footsiefat/Minecraft-Server-Scanner) - Minecraft Server Info
+* [Minecraft Server Checker](https://moistcatawumpus.github.io/minecraft-server-checker/) - Simple Server Checker
+* [mcsrvstat](https://mcsrvstat.us/) - Server Status Updates
+* [MC-Server-Banner-API](https://github.com/LOOHP/MC-Server-Banner-API) - Realtime Updated Server Banners
 
 ***
 
@@ -927,7 +932,7 @@
 
 ## Speed Test Sites
 
-* ⭐ **[fast](https://fast.com/)** / [CLI](https://github.com/sindresorhus/fast-cli) - Speed Test
+* ⭐ **[fast](https://fast.com/)** - Speed Test / [Blur Info](https://userstyles.world/style/17413) / [CLI](https://github.com/sindresorhus/fast-cli)
 * ⭐ **[Cloudflare Speed Test](https://speed.cloudflare.com/)** - Speed Test
 * ⭐ **[LibreSpeed](https://librespeed.org/)** - Speed Test
 * [OpenSpeedTest](https://openspeedtest.com) / [GitHub](https://github.com/openspeedtest/Speed-Test) - Speed Test
