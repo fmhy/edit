@@ -333,6 +333,20 @@
 
 ***
 
+## ▷ Multiplayer Fixes
+
+* ⭐ **[Online Fix](https://online-fix.me/)** - LAN Multiplayer Fix / [Discord](https://discord.gg/yExgFYncMD)
+* ⭐ **[Playit.gg](https://playit.gg/)** - LAN Multiplayer Fix / [Discord](https://discord.gg/AXAbujx)
+* ⭐ **[zerotier](https://www.zerotier.com/)** - LAN Multiplayer Fix
+* [Radmin](https://www.radmin-vpn.com/) - LAN Multiplayer Fix / [Discord](https://discord.com/invite/8MapDM7m96)
+* [Hamachi](https://vpn.net/) - LAN Multiplayer Fix
+* [NetMaker](https://www.netmaker.io/) - LAN Multiplayer Fix
+* [Team XLink](https://www.teamxlink.co.uk/) - LAN Multiplayer Fix / [Discord](https://discord.com/invite/XUS9n73KSP)
+* [ZLOEmu](https://zloemu.net/) - LAN Multiplayer Fix
+* [t7patch](https://github.com/shiversoftdev/t7patch) - Black Ops 3 Crash Fix
+
+***
+
 ## ▷ Multiplayer Mods
 
 * 🌐 **[Multiplayer Mods](https://docs.google.com/spreadsheets/d/e/2PACX-1vSV41AswEt3EpzSyd85YRVtoJaIIXWjtBy347dISJg4fs6xSNPqcgfsh76TxX_l-mnT7pjMlSqTW-87/pubhtml)** or [Unmoddable](https://unmoddable.com/) - Multiplayer Mods for Singleplayer Games
@@ -352,20 +366,6 @@
 
 ***
 
-## ▷ Multiplayer Fixes
-
-* ⭐ **[Online Fix](https://online-fix.me/)** - LAN Multiplayer Fix / [Discord](https://discord.gg/yExgFYncMD)
-* ⭐ **[Playit.gg](https://playit.gg/)** - LAN Multiplayer Fix / [Discord](https://discord.gg/AXAbujx)
-* ⭐ **[zerotier](https://www.zerotier.com/)** - LAN Multiplayer Fix
-* [Radmin](https://www.radmin-vpn.com/) - LAN Multiplayer Fix / [Discord](https://discord.com/invite/8MapDM7m96)
-* [Hamachi](https://vpn.net/) - LAN Multiplayer Fix
-* [NetMaker](https://www.netmaker.io/) - LAN Multiplayer Fix
-* [Team XLink](https://www.teamxlink.co.uk/) - LAN Multiplayer Fix / [Discord](https://discord.com/invite/XUS9n73KSP)
-* [ZLOEmu](https://zloemu.net/) - LAN Multiplayer Fix
-* [t7patch](https://github.com/shiversoftdev/t7patch) - Black Ops 3 Crash Fix
-
-***
-
 ## ▷ Multiplayer Servers
 
 * ⭐ **[TrackyServer](https://www.trackyserver.com/)** - Find Private Multiplayer Servers
@@ -381,7 +381,7 @@
 * [Northstar](https://thunderstore.io/c/northstar/), [2](https://northstar.tf/) - Titanfall 2 Server Hosting & Modding / [GitHub](https://github.com/R2Northstar/Northstar/releases) / [Guide](https://rentry.org/northstar-guide) / [Discord](https://discord.gg/CEszSguY3A)
 * [Factorio.zone](https://factorio.zone/) - Free Factorio Servers
 * [Rusticaland](https://rusticaland.net/) - Free Rust Servers / [Discord](https://discord.com/invite/MD9RgdYhpf)
-
+* [PSO Servers](https://www.reddit.com/r/PSO/wiki/servers) - Phantasy Star Online 1 Server Revivals
 
 ***
 
