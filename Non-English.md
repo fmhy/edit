@@ -1108,6 +1108,7 @@ https://aniwow.in/ has only dubs though
 * [VerCapas](https://www.vercapas.com.br) - Magazines
 * [Revista do Linux](https://augustocampos.net/revista-do-linux/index.html) - Linux Magazine
 * [Jornais Brasileiros](https://www.jornaisbrasileiros.net.br) - News App
+* [Free Educa](https://github.com/free-educa/books ) - Dev / Programming Books
 * [Microsoft Learn](https://learn.microsoft.com/pt-br/training/) - Development Tutorials
 * [Toda Matéria](https://www.todamateria.com.br) - Learning Material
 * [Brasil Escola](https://brasilescola.uol.com.br) - Learning Material
