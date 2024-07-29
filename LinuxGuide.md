@@ -57,6 +57,7 @@
 ## ▷ Linux System
 
 * 🌐 **[Awesome Gnome](https://github.com/Kazhnuz/awesome-gnome)** - GNOME Resources
+* 🌐 **[Window Manager Index](https://wiki.archlinux.org/title/Window_manager)** - List of Window Managers
 * ⭐ **[Ventoy](https://www.ventoy.net)** / [GitHub](https://github.com/ventoy/Ventoy) or [Impression](https://gitlab.com/adhami3310/Impression) - Create Bootable USB Linux Drives
 * ⭐ **[Btop](https://github.com/aristocratos/btop)**, **[fastfetch](https://github.com/fastfetch-cli/fastfetch)**, **[MangoHud](https://github.com/flightlessmango/MangoHud)**, [CPU-X](https://github.com/TheTumultuousUnicornOfDarkness/CPU-X), [Macchina](https://github.com/Macchina-CLI/macchina), [Archey4](https://github.com/HorlogeSkynet/archey4), [Hyfetch](https://github.com/hykilpikonna/hyfetch) or [s-tui](https://github.com/amanusk/s-tui) - System Info / Resource Monitors
 * ⭐ **[TimeShift](https://github.com/linuxmint/timeshift)** - System Restore / Backup
@@ -109,28 +110,11 @@
 
 ***
 
-## ▷ Window Managers
-
-* **Note** - Most Window Managers have a steep learning curve. Customization (or "ricing") is a requirement. [See below](https://fmhy.net/linuxguide#ricing-customization) for some resources.
-
-***
-
-* 🌐 **[Window Manager Index](https://wiki.archlinux.org/title/Window_manager)** - List of Window Managers
-* [awesomewm](https://github.com/awesomeWM/awesome) - Window Manager / [Arch Wiki](https://wiki.archlinux.org/title/Awesome)
-* [dwm](https://dwm.suckless.org) - Window Manager / [Arch Wiki](https://wiki.archlinux.org/title/Dwm)
-* [qtile](https://qtile.org/) - Window Manager / [Arch Wiki](https://wiki.archlinux.org/title/Qtile)
-* [xmonad](https://xmonad.org/) - Window Manager / [Arch Wiki](https://wiki.archlinux.org/title/Xmonad)
-* [Compix](https://github.com/xeome/compix) - Window Manager
-* [bspwm](https://github.com/baskerville/bspwm) - Tiling Window Manager / [Binds](https://github.com/baskerville/sxhkd) / [Arch Wiki](https://wiki.archlinux.org/title/Bspwm)
-
-***
-
 ## ▷ Wayland Compositors
 
 * 🌐 **[Wayland Compositor Index](https://wiki.archlinux.org/title/Wayland#Compositors)** - List of Wayland Compositors
 * ⭐ **[Hyprland](https://hyprland.org/)** - Wayland Compositor / [Arch Wiki](https://wiki.archlinux.org/title/Hyprland) / [Simple Config](https://end-4.github.io/dots-hyprland-wiki/en/)
 * ⭐ **[Sway](https://github.com/swaywm/sway)** or [SwayFx](https://github.com/WillPower3309/swayfx) - i3-compatible Wayland Compositor / [Arch Wiki](https://wiki.archlinux.org/title/Sway)
-* [Wayland](https://wayland.freedesktop.org/) - Linux Display Server Protocol / [Tools](https://arewewaylandyet.com/)
 * [river](https://github.com/riverwm/river/) - Wayland Compositors
 * [LabWC](https://github.com/labwc/labwc) - Wayland Compositors
 * [kiwmi](https://github.com/buffet/kiwmi) - Wayland Compositors
@@ -389,6 +373,7 @@ Linux Gaming Guide
 * [Nala](https://gitlab.com/volian/nala) - APT Frontend
 * [aMule](https://www.amule.org/) - eMule-like P2P Client
 * [Linux Router](https://github.com/garywill/linux-router) - Set Linux as Router
+* [Wayland](https://wayland.freedesktop.org/) - Linux Display Server Protocol / [Tools](https://arewewaylandyet.com/)
 * [EasyPanel](https://easypanel.io/) - Server Control Panel
 * [Free Cloud Linux Server](https://rentry.co/FMHYBase64#free-cloud-linux-server) - Free Cloud Server Guide
 * [yet another bench script](https://github.com/masonr/yet-another-bench-script) - Server Performance Script
