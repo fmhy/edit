@@ -29,7 +29,6 @@
 * [APK4Free](https://apk4free.net/)
 * [Release APK](https://forum.release-apk.com/)
 * [ReXDL](https://rexdl.com/) / [Telegram](https://t.me/joinchat/AAAAAFVMhwX7IzS5hMc8OQ)
-* [RockMods](https://www.rockmods.net/) / [Telegram](https://t.me/RBMods) / Use "Alt Link"
 
 ***
 
