@@ -144,7 +144,8 @@
 ## ▷ File Encryption
 
 * ⭐ **[VeraCrypt](https://www.veracrypt.fr/en/Home.html)**
-* ⭐ **[Picocrypt](https://github.com/Picocrypt/Picocrypt)**
+* ⭐ **[age](https://github.com/FiloSottile/age)**
+* [Picocrypt](https://github.com/Picocrypt/Picocrypt)
 * [Hat](https://hat.sh/), [GNUPG](https://gnupg.org/)
 * [GPG4Win](https://www.gpg4win.org/)
 * [Encrypto](https://macpaw.com/encrypto)
@@ -153,7 +154,6 @@
 * [Kryptor](https://www.kryptor.co.uk/)
 * [SecureFolderFS](https://github.com/securefolderfs-community/SecureFolderFS)
 * [wdcrypt](https://github.com/stefins/wdcrypt)
-* [age](https://github.com/FiloSottile/age)
 
 ***
 
