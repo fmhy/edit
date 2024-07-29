@@ -562,7 +562,7 @@
 * [QRAlarm](https://github.com/sweakpl/qralarm-android) - Scan QR Code to Turn Off Alarm
 * [Calendar Notifications](https://play.google.com/store/apps/details?id=com.tuogol.calendar.notification) - View Calendar as Notifications
 * [Birday](https://github.com/m-i-n-a-r/birday) - Birthday Reminders / Calendar
-* [Sectograph](https://play.google.com/store/apps/details?id=prox.lab.calclock) or [TimePlanner](https://github.com/v1tzor/TimePlanner) - Planner Apps
+* [Sectograph](https://play.google.com/store/apps/details?id=prox.lab.calclock), [Journal it](https://play.google.com/store/apps/details?id=org.de_studio.diary) or [TimePlanner](https://github.com/v1tzor/TimePlanner) - Planner Apps
 * [FamilyWall](https://www.familywall.com/) - Family Oriented Planner
 * [Folksable](https://folksable.com/), [unhabits](https://github.com/iSoron/uhabits), [HabitBuilder](https://github.com/ofalvai/HabitBuilder), [MoreDays](https://gitlab.com/wuapps/moredays), [Goals](https://play.google.com/store/apps/details?id=io.rosenpin.goals), [TheFor](https://thefor.xyz/) or [MiindLeak](https://www.mindleak.app/) - Habit Trackers
 * [Ascent](https://play.google.com/store/apps/details?id=com.ascent) - App Blocker
@@ -632,7 +632,7 @@
 * ⭐ **[WSABuilds](https://github.com/MustardChef/WSABuilds)** - Android Emulator on Windows / Windows Subsystem / Pre-built Binaries
 * ⭐ **[WayDroid](https://waydro.id/)** / [GitHub](https://github.com/waydroid) / [Scripts](https://github.com/casualsnek/waydroid_script), [Redroid](https://github.com/remote-android/redroid-doc), [PostmarketOS](https://www.postmarketos.org/), [Ubuntu Touch](https://ubuntu-touch.io/get-ubuntu-touch), [Plasma Mobile](https://plasma-mobile.org/) or [Mobian](https://mobian-project.org/) - Android Emulator on Linux
 * ⭐ **[Android Studio Emulator](https://developer.android.com/studio/run/managing-avds#createavd)**
-* ⭐ **[mobox](https://github.com/olegos2/mobox)**, [Box64Droid](https://github.com/Ilya114/Box64Droid) or [Winlator](https://winlator.org) / [GitHub](https://github.com/brunodev85/winlator) - Windows Emulators on Android
+* ⭐ **[mobox](https://github.com/olegos2/mobox)**, [Box64Droid](https://github.com/Ilya114/Box64Droid), [Boxvidra](https://github.com/Boxvidra/Boxvidra-Android) or [Winlator](https://winlator.org) / [GitHub](https://github.com/brunodev85/winlator) - Windows Emulators on Android
 * ⭐ **[Google Play Games](https://play.google.com/googleplaygames)** - Android Mobile Games on Windows
 * [PhoenixOS - BR (Discord)](https://discord.gg/BQ4td84) - Android Emulator on Windows
 * [PhoenixOS Darkmatter](https://aopc.dev/r/phoenixos-darkmatter-supercharged-for-everyone.2/) - Android Emulator on Windows / [Discord](https://discord.com/invite/AcGAGrzZ4e)
@@ -1041,6 +1041,7 @@
 * [Sim Daltoinism](https://michelf.ca/projects/sim-daltonism/) - Color Blindness Simulator
 * [1 Second Everyday](https://1se.co/) - 1 Second Video Diary
 * [Twobird](https://apps.apple.com/us/app/twobird/id1455545515), [‎Twodos](https://apps.apple.com/ca/app/twodos-simple-todos/id6463499163) or [beorg](https://beorgapp.com/) - To-Do Apps
+* [Journal it](https://apps.apple.com/US/app/id1501944799) - Planner / Journal App
 * [Success](https://apps.apple.com/us/app/success-weekly-planner/id1544852780) - Productivity Booster
 * [PictureThis](https://apps.apple.com/us/app/picturethis-plant-identifier/id1252497129) - Plant Identifier
 * [Parcel](https://apps.apple.com/us/app/parcel-delivery-tracking/id375589283) or [Aftership](https://apps.apple.com/kg/app/aftership-package-tracker/id507014023) - Delivery Tracker
