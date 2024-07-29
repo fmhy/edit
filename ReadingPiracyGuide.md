@@ -44,6 +44,9 @@
 * [/r/audiobooksonyoutube](https://reddit.com/r/audiobooksonyoutube)
 * [audiobook-dl](https://github.com/jo1gi/audiobook-dl) - Audiobook Download Tool
 * [OverDrive](https://github.com/chbrown/overdrive) - OverDrive Audiobook Download Script
+* [AudioBookConverter](https://github.com/yermak/AudioBookConverter) - Audiobook Converter
+* [Ebook2Audiobook](https://hub.docker.com/repository/docker/athomasson2/ebook2audiobookxtts/general) - Ebook to Audiobook Converter
+* [Audible Tools](https://audible-tools.kamsker.at/), [AaxAudioConverter](https://github.com/audiamus/AaxAudioConverter) or [Libation](https://getlibation.com/) - Remove DRM from Audible Audiobooks
 * [AudiobookShelf](https://www.audiobookshelf.org/) or [BookSonic](https://booksonic.org/) - Self-Hosted Audiobook Servers
 
 ***
@@ -173,6 +176,7 @@
 * [RPC Authority](http://rpc-wiki.net/) - Fictional Story Colabs
 * [OrionsArm](https://www.orionsarm.com/) - Fictional Story Colabs
 * [Everything2](https://everything2.com/) - Short Stories / Poetry / Writing Help
+* [Fork Read](https://forkread.com/) - Publish Short Stories
 * [Fanfiction.net](https://fanfiction.net/) - Fanfiction
 * [SquidgeWorld](https://squidgeworld.org/) - Fanfiction
 * [Inkitt](https://www.inkitt.com/fanfiction) - Fanfiction
@@ -967,8 +971,6 @@
 * [ebook-converter-bot](https://t.me/ebook_converter_bot) / [Github](https://github.com/yshalsager/ebook-converter-bot) - Telegram Ebook Converter
 * [CrowBook](https://github.com/lise-henry/crowbook) - Markdown to EPUB Converter
 * [MD2PDF](https://md2pdf.netlify.app/) - Markdown to PDF Converter
-* [AudioBookConverter](https://github.com/yermak/AudioBookConverter) - Audiobook Converter
-* [Audible Tools](https://audible-tools.kamsker.at/), [AaxAudioConverter](https://github.com/audiamus/AaxAudioConverter) or [Libation](https://getlibation.com/) - Remove DRM from Audible Audiobooks
 * [Remove Kindle DRM](https://itsfoss.com/calibre-remove-drm-kindle/) - Remove DRM from Kindle
 * [Libby](https://libbyapp.com/) - Library Search / [Downloader](https://github.com/bookbonobo/libby-download-extension)
 * [How-to Get Library Card Online](https://rentry.co/9b3vdo)
