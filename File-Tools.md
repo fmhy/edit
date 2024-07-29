@@ -57,7 +57,7 @@
 ## ▷ File Archivers
 
 * 🌐 **[SuperCompression](https://supercompression.org/)** - File Compression Resources
-* ⭐ **[7-Zip](https://www.7-zip.org/)** - File Archiver / [Dark Mode](https://github.com/ozone10/7zip-Dark7zip)
+* ⭐ **[7-Zip](https://www.7-zip.org/)** - File Archiver
 * ⭐ **[NanaZip](https://github.com/M2Team/NanaZip)** - File Archiver
 * ⭐ **[PeaZip](https://peazip.github.io/)** - Cross Platform File Archiver
 * ⭐ **[CompactGUI](https://github.com/IridiumIO/CompactGUI)** or [Compactor](https://github.com/Freaky/Compactor) - Transparent Compression
