@@ -147,13 +147,7 @@
 * ⭐ **[age](https://github.com/FiloSottile/age)**
 * [Picocrypt](https://github.com/Picocrypt/Picocrypt)
 * [Hat](https://hat.sh/)
-* [GPG4Win](https://www.gpg4win.org/) 
-* [Encrypto](https://macpaw.com/encrypto)
-* [FreeCrypt](https://freecrypt.org/)
-* [Vmola](https://vmola.com/)
 * [Kryptor](https://www.kryptor.co.uk/)
-* [SecureFolderFS](https://github.com/securefolderfs-community/SecureFolderFS)
-* [wdcrypt](https://github.com/stefins/wdcrypt)
 
 ***
 
