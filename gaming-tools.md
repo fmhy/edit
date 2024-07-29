@@ -570,11 +570,7 @@
 * [Cubical](https://www.cubical.xyz/) / [Beta](https://beta.cubical.xyz/) - Minecraft Schematic Tool
 * [Pixelart Builder](https://play.google.com/store/apps/details?id=com.electricfoal.photocrafter&hl=en&gl=US) or [PixelStacker](https://taylorlove.info/pixelstacker/) - Turn Photos into Minecraft Art
 * [ReplayMod](https://replaymod.com/) - Record Minecraft Game Sessions / [GitHub](https://github.com/ReplayMod/ReplayMod)
-* [GeyserMC](https://geysermc.org/) - Join Minecraft Java Servers with Bedrock Client / [Consoles](https://wiki.geysermc.org/geyser/using-geyser-with-consoles/)
-* [Minecraft Server Scanner](https://github.com/Footsiefat/Minecraft-Server-Scanner) - Minecraft Server Info
-* [Minecraft Server Checker](https://moistcatawumpus.github.io/minecraft-server-checker/) - Simple Server Checker
 * [NameMC](https://namemc.com/) - Minecraft Name Availability Tracker
-* [mcsrvstat](https://mcsrvstat.us/) - Server Status Updates
 * [Forge](https://files.minecraftforge.net/), [Quilt](https://quiltmc.org/) or [Fabric](https://fabricmc.net/) / [Discord](https://discord.gg/VDGnGsFeuy) - Minecraft Modding API
 * [Mineflayer](https://prismarinejs.github.io/mineflayer/) - Minecraft Bot Creator
 * [PVPRP](https://pvprp.com/) - Minecraft Texture Packs
