@@ -110,7 +110,7 @@
 * ⭐ **[Still Tasty](https://www.stilltasty.com/)** or [EatByDate](https://www.eatbydate.com/) - Shelf Life Guides
 * ⭐ **[OpenTable](https://www.opentable.com/)** - Restaurant Reservation Search
 * [KitchenConfidentials](https://kitchenconfidentials.com/) - Anonymous Food & Restaurant Reviews / [Subreddit](https://www.reddit.com/r/KitchenConfidential/)
-* [FoodExpirationDates](https://github.com/lorenzovngl/FoodExpirationDates) - Food Expiration Tracker
+* [FoodExpirationDates](https://github.com/lorenzovngl/FoodExpirationDates) or [Fridgey](https://f-droid.org/packages/lying.fengfeng.foodrecords/) - Food Expiration Trackers
 * [Cheese.com](https://cheese.com/) - Cheese Resources
 * [Tea Guide](https://pastebin.com/raw/80GeeXJV) - Tea Guide Masterlist
 * [Coffee Guide](https://pastebin.com/raw/UEzwuyLz) - Coffee Guide Masterlist
@@ -412,7 +412,7 @@
 * [Pocket](https://getpocket.com/) - Discover & Save Articles
 * [News as Facts](https://newsasfacts.com/) - Wiki Based News
 * [Google Alerts](https://www.google.com/alerts) - News Alerts by Topics
-* [Attabit](https://attabit.com/) - AI News Summaries
+* [Attabit](https://attabit.com/) or [Dunce Media](https://www.dunce.media/) - News Summaries
 * [Top Stories](https://murmel.social/top) - Top Fediverse News
 * [CBM](https://comicbookmovie.com/) - Comic / Movie / TV News
 * [Anime News Network](https://www.animenewsnetwork.com/) - Anime News
@@ -665,6 +665,7 @@
 * [Cody](https://meetcody.ai/) - Company Management AI
 * [PHPCRM](https://www.phpcrm.com/) or [Monday](https://monday.com/) or [Twenty](https://github.com/twentyhq/twenty) - Company Management Tools
 * [Invoicely](https://invoiceto.me/), [InvoiceNinja](https://invoiceninja.com/) or [Akaunting](https://akaunting.com/) - Invoicing Tools
+* [Google Patents](https://patents.google.com/) - Searchable Patents Database
 * [PatentsExpiringToday](https://patentsexpiringtoday.com/) - Find Expired Patents
 * [Candor](https://candor.co/hiring-freezes/) - Hiring Freezes
 * [Layoffs.fyi](https://layoffs.fyi/) - Recent Layoffs Tracker
