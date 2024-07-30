@@ -707,10 +707,9 @@
 
 ## ▷ Geometry Dash Tools
 
-* 🌐 **[Cvolton Tools](https://github.com/Cvolton?tab=repositories)** - Multiple GD Tools
 * ↪️ **[GD Demon Lists](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_geometry_dash_demon_lists)**
 * ⭐ **[Geode](https://geode-sdk.org/)** - Mod Menu & Modding Framework
-* ⭐ **[GDDP](https://gddp.pro/)** or [GD Demon Ladder](https://gdladder.com/) - Practice & Improve Your Skills
+* ⭐ **[GDDP](https://gddp.pro/)** or **[GD Demon Ladder](https://gdladder.com/)** - Practice & Improve Your Skills
 * [Soluble Texture Packs](https://solubletexturepacks.com/) - GD Texture Packs / [Manager](https://geode-sdk.org/mods/geode.texture-loader/)
 * [Spritesheet Splitter](https://gdcolon.com/gdsplitter/) - Split & Merge GD Spritesheets
 * [GD Save Explorer](https://gdcolon.com/gdsave/) - View Detailed Stats & Data of Save Files
@@ -719,7 +718,7 @@
 * [GD Browser](https://gdbrowser.com/) - GD Level Browser
 * [GD Font Generator](https://gdcolon.com/gdfont) - Generate Custom GD Logos & Messages
 * [SPWN](https://spu7nix.net/spwn/#/) - GD Level Programming Language
-* [GD Docs](https://docs.gd-programming.org/) - GD Programming Documentation
+* [GD Docs](https://wyliemaster.github.io/gddocs/) - GD Programming Documentation
 * [GD History](https://history.geometrydash.eu/) - GD Archival Project / [Downloader](https://github.com/Cvolton/GDHistory-Downloader)
 * [GMD Private Server](https://github.com/Cvolton/GMDprivateServer) - Private Server Maker
 * [Report Bugged 2.2 Levels](https://docs.google.com/forms/d/e/1FAIpQLScDKMIxPKeMxGpyDbQnsDDhW7ba0Lh4ZFAD4RA_ZIt5sbId9A/viewform)
