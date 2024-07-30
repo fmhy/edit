@@ -586,6 +586,7 @@
 * [Klear](https://klear.com/free-tools/find-twitter-influencers) - Find Influencers
 * [FollowerWonk](https://followerwonk.com/) - Find / Analyze / Optimize Followers
 * [Scoutzen](https://www.scoutzen.com/twitter-lists/search) - Search Twitter Use Lists
+* [Community Notes Leaderboard](https://community-notes-leaderboard.com/) - Twitter Community Notes Leaderboard
 * [Hoaxy](https://hoaxy.osome.iu.edu/) - Twitter Info Spread Data
 * [tinfoleak](https://tinfoleak.com/) - View Your Geosocial Footprint
 * [Twitter Mass Unfollow](https://github.com/luqmanoop/twitter-mass-unfollow) - Twitter Unfollow Tool
