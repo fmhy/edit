@@ -284,6 +284,7 @@
 * ↪️ **[Privacy Search Engines](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25B7_search_engines)**
 * ⭐ **[Yandex](https://yandex.com/)**
 * ⭐ **[Ecosia](https://www.ecosia.org/)** / [Firefox](https://addons.mozilla.org/en-US/firefox/addon/ecosia-the-green-search/) / [Chrome](https://chromewebstore.google.com/detail/ecosia-the-search-engine/eedlgdlajadkbbjoobobefphmfkcchfk)
+* [OceanHero](https://oceanhero.today/) - Save the Ocean via Search
 * [Leta](https://leta.mullvad.net) - Mullvad VPN required
 * [MWMBL](https://mwmbl.org/) / [GitHub](https://github.com/mwmbl/mwmbl)
 * [Presearch](https://presearch.com/) / [GitHub](https://github.com/presearchofficial)
@@ -664,8 +665,7 @@
 * [CRX Viewer](https://robwu.nl/crxviewer/) - View Extension Source Code
 * [Browserboost](https://browserboost.org/) - Add Features to Browsers
 * [Extensions CSE](https://cse.google.com/cse?cx=86d64a73544824102) - Multi-Site Extension Search
-* [Into The Black Hole](https://pastebin.com/sTMkqJWD) - Dark Mode Browser Theme
-* [Vimium](https://vimium.github.io/) / [GitHub](https://github.com/philc/vimium), [Surfingkeys](https://github.com/brookhong/Surfingkeys), [Tridactyl](https://tridactyl.xyz/), [VimC](https://github.com/1995eaton/chromium-vim), [Web Search Navigator](https://github.com/infokiller/web-search-navigator) or [Vimium C](https://github.com/gdh1995/vimium-c) - Keyboard Shortcuts
+* [Vimium](https://vimium.github.io/) / [GitHub](https://github.com/philc/vimium), [Surfingkeys](https://github.com/brookhong/Surfingkeys), [Tridactyl](https://tridactyl.xyz/), [Web Search Navigator](https://github.com/infokiller/web-search-navigator) or [Vimium C](https://github.com/gdh1995/vimium-c) - Keyboard Shortcuts
 * [Automa](https://www.automa.site/) or [Browserflow](https://browserflow.app/) - Browser Automation
 * [Snap Links Plus](https://cpriest.github.io/SnapLinksPlus/) or [Link Clump](https://github.com/benblack86/linkclump) - Select & Open Multiple Links at Once
 * [Glitter Drag](https://github.com/harytfw/glitterdrag) - Adds Actions on Dragging
@@ -680,21 +680,16 @@
 * [Tab for a Cause](https://tab.gladly.io/) - New Tabs = Charity Donation
 * [Panic Button](https://aecreations.io/panicbutton/index.php) - Quickly Close All Tabs
 * [Dictionaries](https://github.com/pnlpal/dictionariez), [phlinx](https://phlinx.com/) or [Definer](https://lumetrium.com/definer/) - Popup Dictionaries
-* [Yomitan](https://github.com/themoeway/yomitan) - Popup Japanese Dictionary
 * [CustomRightClickMenu](https://github.com/SanderRonde/CustomRightClickMenu) - Custom Right Click Menu
 * [BigSearch](https://github.com/garywill/BigSearch) or [SearchJumper](https://hoothin.github.io/SearchJumper/) - Context Search
 * [Selecton](https://github.com/emvaized/selecton-extension) - Text Context Menu
-* [OceanHero](https://oceanhero.today/) - Save the Ocean via Search
 * [Magnifying Glass](https://mybrowseraddon.com/magnifying-glass.html) - Magnify Webpages
 * [Print Edit WE](https://pastebin.com/LJeT3NyB) - Edit Pages to Make them Printable
 * [Grammarly](https://www.grammarly.com/) - Grammar Check
 * [PageZipper](https://www.printwhatyoulike.com/pagezipper) or [AutoPagerize](http://autopagerize.net/) - Merges a Sites "Next" Pages
 * [Turn Off the Lights](https://www.turnoffthelights.com/) or [Theater Mode](https://mybrowseraddon.com/theater-mode.html) - Play Videos in Theater Mode
-* [Zoom Redirector](https://github.com/arkadiyt/zoom-redirector) - Redirect Zoom Links to Web Client
 * [GlobalSpeed](https://github.com/polywock/globalSpeed) - Set Default Video / Audio Speed
-* [Web-Scrobbler](https://web-scrobbler.com/) - Scrobble with Last.fm, Libre.fm, etc.
 * [Indie Wiki Buddy](https://getindie.wiki/) - Redirect Fandom / Fextralife to Indie Wikis
-* [Form History Control](https://stephanmahieu.github.io/fhc-home/) - Formfill Manager
 * [Fake Data](https://www.fakedata.pro/) - Fill Forms With Fake Data
 * [External App Button](https://add0n.com/external-application-button.html) - Connect Browser to External Apps
 * [xBrowserSync](https://www.xbrowsersync.org/) - Browser Syncing
@@ -783,44 +778,28 @@
 * ⭐ **[Foxified](https://foxified.org/)** - Use Firefox Extensions in Chrome
 * ⭐ **[Edge Chrome](https://greasyfork.org/en/scripts/439922)** - Use Edge Extensions in Chrome
 * ⭐ **[Clipper](https://clipper.website/)** - Copy Content in Multiple Formats
-* [WebCRX](https://webcrx.io/) - Install Chrome CRX Files
 * [Chrome Stats](https://chrome-stats.com/) - Compare / Analyze Chrome Extensions
 * [Extension Source Downloader](https://chromewebstore.google.com/detail/extension-source-download/dlbdalfhhfecaekoakmanjflmdhmgpea) - View Extension Source Code / [Guide](https://gist.github.com/paulirish/78d6c1406c901be02c2d)
 * [Darkness](https://darkness.app/) - Dark Mode
 * [Transpose](https://transpose.video/) - Online Video Pitch Shifter, Speed Changer and Looper
-* [Say Play](https://thanesh.dev/say-play) - Video Control Voice Commands
 * [Smart Mute](https://chromewebstore.google.com/detail/smart-mute/apadglapdamclpaedknbefnbcajfebgh) - Tab Mute Manager
 * [Volume Master](https://chromewebstore.google.com/detail/volume-master/jghecgabfgfdldnmbfkhmffcabddioke) - Increase Browser Volume
-* [Audion](https://github.com/GoogleChrome/audion) - Web Audio Graph Visualizer
-* [Compose](https://www.compose.ai/) - Text Autocomplete AI
 * [Text Blaze](https://blaze.today/) - Create Text Snippets
-* [Copy Text Easily](https://chromewebstore.google.com/detail/copy-text-easily/fagmaopcbeobbfhkeodicjekiniefdlo) - Simple Text Copy
 * [TabCopy](https://github.com/hansifer/tab-copy) - Copy Tabs to Clipboard
 * [Simple Mass Downloader](https://chromewebstore.google.com/detail/simple-mass-downloader/abdkkegmcbiomijcbdaodaflgehfffed) - Download Multiple Links at Once
-* [Suggesty](https://chromewebstore.google.com/detail/suggesty/hbiphmiliockggpepniplkkfmnhdihjh) - Human Like Search Results
 * [Selectable](https://chromewebstore.google.com/detail/selectable-for-fanfiction/jcidlhgdoojamkbpmhbpgldmajnobefd?ucbcb=1) - Force Enable Select Text
 * [CrxMouse (chrome)](https://crxmouse.com/) - Mouse Gestures
 * [Night Shift Redux](https://nightshift.lu/) - Adapts Display Color to Time of Day
 * [SmoothKeyScroll](https://www.smoothkeyscroll.com/) - Smooth Key Scrolling
-* [Simple Todo](https://chromewebstore.google.com/detail/simple-todo/kobeijgkgkcgknodjkganceliljepmjf) - To-Do List
-* [Blueticks](https://chromewebstore.google.com/detail/blueticks/adgnjhngogijkkppficiiepmjebijinl) - WhatsApp Scheduler
-* [Beanote](https://chromewebstore.google.com/detail/beanote-note-taking-on-we/nikccehomlnjkmgmhnieecolhgdafajb) or [Page Pad](https://chromewebstore.google.com/detail/page-pad-make-quick-notes/igobdfagkcadgcfooegonbbeeggagakn) - Web Page Note-Taking
-* [ProjectNaptha](https://chromewebstore.google.com/detail/project-naptha/molncoemjfmpgdkbdlbjmhlcgniigdnf) - Manipulate Browser Image Text
+* [Page Pad](https://chromewebstore.google.com/detail/page-pad-make-quick-notes/igobdfagkcadgcfooegonbbeeggagakn) - Web Page Note-Taking
 * [Text to Image](https://chromewebstore.google.com/detail/text-to-image/nkljaohokglebeljcgchmehnhdieakda) - Text to Image
-* [A+ Font Size Changer](https://chromewebstore.google.com/detail/a%20-fontsize-changer-lite/ckihgechpahhpompcinglebkgcdgpkil) - Change Browser Font Size & Color
-* [Sticky Notes](https://www.getstickynotes.com/) - Browser Sticky Notes
-* [Toby](https://www.gettoby.com/), [SuperTab](https://supatabs.com/), [Prune](https://chromewebstore.google.com/detail/prune/gblddboefgbljpngfhgekbpoigikbenh) / [GitHub](https://github.com/tbrockman/prune), [Freezetab](https://freezetab.com/), [Tab Modifier](https://github.com/furybee/chrome-tab-modifier) or [Tabs Outliner](https://chromewebstore.google.com/detail/tabs-outliner/eggkanocgddhmamlbiijnphhppkpkmkl) - Tab Managers
+* [SuperTab](https://supatabs.com/), [Prune](https://chromewebstore.google.com/detail/prune/gblddboefgbljpngfhgekbpoigikbenh) / [GitHub](https://github.com/tbrockman/prune) or [Tab Modifier](https://github.com/furybee/chrome-tab-modifier) - Tab Managers
 * [Rearrange Tabs](https://chromewebstore.google.com/detail/rearrange-tabs/ccnnhhnmpoffieppjjkhdakcoejcpbga) - Rearrange Tabs
-* [Dualless](https://chromewebstore.google.com/detail/dualless/bgdpkilkheacbboffppjgceiplijhfpd) or [Tab Resize](https://chromewebstore.google.com/detail/tab-resize-split-screen-l/bkpenclhmiealbebdopglffmfdiilejc) - Split Browser Window
-* [chromewm](https://gitlab.com/EduCampi/chromewm) - Tile Windows / Emulate Workspaces
 * [Popup Tab Switcher](https://github.com/dvdvdmt/popup-tab-switcher) - Improved Tab Switching
 * [uAutoPagerize](https://chromewebstore.google.com/detail/kdplapeciagkkjoignnkfpbfkebcfbpb) or [Infy Scroll](https://chromewebstore.google.com/detail/infy-scroll/gdnpnkfophbmbpcjdlbiajpkgdndlino) - Merges a Sites "Next" Pages
 * [Amino](https://aminoeditor.com/) - Customize Webpage CSS
 * [Resizing](https://resizing.app/) - Resize Images
-* [SiteScrubber](https://chromewebstore.google.com/detail/sitescrubber/ffadalgofahhohaciekjchkikcglcpla) - Hide Offensive / Swear Words on Sites
-* [Typio Form Recovery](https://typiorecovery.github.io/), [2](https://chromewebstore.google.com/detail/typio-form-recovery/djkbihbnjhkjahbhjaadbepppbpoedaa) - Autosave Input Data in Forms
 * [Check My Links](https://chromewebstore.google.com/detail/check-my-links/ojkcdipcgfaekbeaelaapakgnjflfglf)
-* [Pip](https://www.getpip.com/pip-extension) - Web3 Payment Extension
 * [Source Downloader](https://mybrowseraddon.com/extension-source-downloader.html) - View Extension Source Code
 * [Disable All Extensions](https://chromewebstore.google.com/detail/disable-all-extensions/ailfldpmpboolaihojfagmmfbhcgohne) - Disable All Extensions
 
