@@ -802,7 +802,7 @@
 * [CrxMouse (chrome)](https://crxmouse.com/) - Mouse Gestures
 * [Night Shift Redux](https://nightshift.lu/) - Adapts Display Color to Time of Day
 * [SmoothKeyScroll](https://www.smoothkeyscroll.com/) - Smooth Key Scrolling
-* [Simple Todo](https://chromewebstore.google.com/detail/simple-todo/kobeijgkgkcgknodjkganceliljepmjf) or [Todoist](https://chromewebstore.google.com/detail/todoist-for-chrome/jldhpllghnbhlbpcmnajkpdmadaolakhen) - To-Do List
+* [Simple Todo](https://chromewebstore.google.com/detail/simple-todo/kobeijgkgkcgknodjkganceliljepmjf) - To-Do List
 * [Blueticks](https://chromewebstore.google.com/detail/blueticks/adgnjhngogijkkppficiiepmjebijinl) - WhatsApp Scheduler
 * [Beanote](https://chromewebstore.google.com/detail/beanote-note-taking-on-we/nikccehomlnjkmgmhnieecolhgdafajb) or [Page Pad](https://chromewebstore.google.com/detail/page-pad-make-quick-notes/igobdfagkcadgcfooegonbbeeggagakn) - Web Page Note-Taking
 * [ProjectNaptha](https://chromewebstore.google.com/detail/project-naptha/molncoemjfmpgdkbdlbjmhlcgniigdnf) - Manipulate Browser Image Text
