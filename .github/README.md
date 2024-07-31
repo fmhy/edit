@@ -15,7 +15,7 @@ Here are a few ways you can get involved:
 * Approved changes will be applied to the [site](https://fmhy.net) and all [🔒 backups](https://github.com/fmhy/FMHY/wiki/Backups).
 * You can send us stuff directly via [💬 Discord](https://discord.gg/5W9QJKuPkD).
 * You can also check out our [website](https://fmhy.net) and the [posts](https://fmhy.net/posts) section to know about any major updates to the wiki.
-* To help us find new sites, check out these lists: [Site Hunting](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/find-new-sites/) / [Go Through](https://rentry.org/oghty)
+* To help us find new sites, check out these lists: [Site Hunting](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/find-new-sites/) / [Go Through](https://rentry.org/oghty).
 
 ***
 
