@@ -48,7 +48,7 @@
 * [Awesome Spotify Stats](https://github.com/rimsiw/awesome-spotify-stats) or [NewTunes](https://newtunes.xyz/) - Listening Stats
 * [Spoticulum](https://spoticulum.xyz/) - Spotify Collection Snapshots
 * [Chart My Music](https://www.chartmymusic.com/) - Spotify Album Collages
-* [Tierify](https://davitg.com/projects/tierify/) - Tier Lists
+* [Tierify](https://tierify.app/) - Tier Lists
 * [Kira](https://kira.vercel.app/) - Browse by Country
 * [ListenByLabel](https://www.lbl.fm/) - Browse by Labels
 * [Syrics](https://syrics-web-akashrchandran.vercel.app/) - Download Synced Lyrics
