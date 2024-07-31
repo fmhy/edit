@@ -532,7 +532,7 @@
 
 ## ▷ Minecraft Tools
 
-* 🌐 **[MCDOC](https://mcdoc.openm.tech/)** - Minecraft Tools & Unlockers / [Discord](https://dsc.gg/openms)
+* 🌐 **[MCDOC](https://mcdoc.openm.tech/)** - Minecraft Tools & Unlockers / [Discord](https://dsc.gg/open-m)
 * 🌐 **[Awesome Minecraft](https://github.com/bs-community/awesome-minecraft)**, [Birdflop]( https://www.birdflop.com/resources/) or [Minecraft Tools](https://minecraft.tools/en/) - Minecraft Resources
 * 🌐 **[Minecraft QOL Mods](https://rentry.co/mc-qol)** or [sk1er.club](https://sk1er.club/) - Quality of Life Mods
 * 🌐 **[OptiFine Alternatives](https://optifine.alternatives.lambdaurora.dev/)** - OptiFine Alternatives for Fabric
