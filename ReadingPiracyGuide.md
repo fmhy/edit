@@ -545,6 +545,8 @@
 * [Chronicling America](https://chroniclingamerica.loc.gov/newspapers/)
 * [Kiosko](https://en.kiosko.net/)
 * [AEBooks](https://aebook.net/)
+* [FullOnHistory](https://fultonhistory.com/)
+* [Loc.gov Newspapers](https://www.loc.gov/newspapers/)
 * [EurekaDDL](https://eurekaddl.autos/newspapers/)
 * [Newspapers com](https://newspapers.com/)
 * [ThoughtCo](https://www.thoughtco.com/us-historical-newspapers-online-by-state-1422215)
@@ -821,7 +823,7 @@
 * [NASA NTRS](https://ntrs.nasa.gov/collections/pubspace) - NASA Documents
 * [PapalEncyclicals](https://www.papalencyclicals.net/) - Catholic Church Documents
 * [Aesthetics Archive](https://contempaesthetics.org/) - Aesthetics Articles / Notes Contemporary
-* [CourtListerner](https://www.courtlistener.com/recap/) - Pacer Documents
+* [CourtListerner](https://www.courtlistener.com/), [USA Courts](https://pacer.uscourts.gov/) or [Case.law](https://case.law/) - Court Documents
 * [Aleph](https://docs.aleph.occrp.org/) - Document Index Tool
 * [Dataset Search](https://datasetsearch.research.google.com/) - Dataset Search Google
 * [PDF / Doc Search Engine](https://cse.google.com/cse?cx=000013508089310229747:qf70z1tyrs0)
