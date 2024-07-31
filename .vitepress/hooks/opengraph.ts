@@ -74,11 +74,11 @@ async function generateImage({
     props: {
       title:
         frontmatter.layout === 'home'
-          ? frontmatter.hero.name ?? frontmatter.title
+          ? (frontmatter.hero.name ?? frontmatter.title)
           : frontmatter.title,
       description:
         frontmatter.layout === 'home'
-          ? frontmatter.hero.tagline ?? frontmatter.description
+          ? (frontmatter.hero.tagline ?? frontmatter.description)
           : frontmatter.description
     }
   }

@@ -40,7 +40,7 @@ export async function generateFeed(config: SiteConfig): Promise<void> {
       id: `${meta.hostname}${url.replace(/\/\d+\./, '/')}`,
       link: `${meta.hostname}${url.replace(/\/\d+\./, '/')}`,
       date: frontmatter.date,
-      content: html?.replaceAll('&ZeroWidthSpace;', ''),
+      content: html?.replaceAll('&ZeroWidthSpace;', '')
     })
   }
 
