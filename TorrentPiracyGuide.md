@@ -53,6 +53,7 @@
 * [BTMET](https://btmet.com/)
 * [Torrents-CSV](https://torrents-csv.com/)
 * [FileMood](https://filemood.com/)
+* [iDope](https://idope.se/)
 * [BT4G](https://bt4gprx.com/)
 * [Torlock](https://www.torlock.com/), [2](https://www.torlock2.com/)
 * [TorrentProject](https://torrentproject.cc/), [2](https://torrentproject2.net/)
