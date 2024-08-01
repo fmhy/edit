@@ -419,10 +419,11 @@
 * [n9.cl](https://n9.cl/) - `n9.cl/6gjfj`
 * [upto](https://upto.site/) - `upto.site/3e04d1`
 * [xy2.eu](https://xy2.eu/) - `xy2.eu/p7YP`
-* [goo.su](https://goo.su/) - `goo.su/7pNRjy7` / [Chrome Extension](https://chromewebstore.google.com/detail/free-link-shortener-goosu/clcoifeibkncgnegebeehkodandleohn)
+* [goo.su](https://goo.su/) - `goo.su/7pNRjy7`/ [Chrome Extension](https://chromewebstore.google.com/detail/free-link-shortener-goosu/clcoifeibkncgnegebeehkodandleohn)
 * [ai6.net](https://ai6.net/) - `ai6.net/nm3tyz`
 * [SmartLinks](https://smartlnks.com/) - `smartlnks.com/Vjr0m`
 * [tny.im](https://tny.im) - Account Required / `tny.im/rw-`
+* [wr.do](https://wr.do/) - Account Required
 * [zws](https://zws.im/) - Zero Character Width Shortener / `zws.im/󠁡󠁷󠁴󠁪󠁷󠁫󠁯`
 * [Anonymiz](https://anonymiz.com/shorten-url) - Anonymous URLs / `anonymiz.com/vwiq`
 * [Anon.to](https://anon.to/) - Anonymous URLs / `anon.to/7SWqpG`
@@ -440,6 +441,7 @@
 * ↪️ **[Redirect Bypassers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25B7_redirect_bypass)**
 * ⭐ **[urlex](https://urlex.org/)**
 * ⭐ **[CheckShortURL](https://checkshorturl.com/)**
+* [Unshorten.it](https://unshorten.it/)
 * [ExpandURL](https://www.expandurl.net/)
 * [WhereGoes](https://wheregoes.com/)
 * [unshorten](https://unshorten.me/)
