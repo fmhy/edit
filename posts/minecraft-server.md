@@ -13,20 +13,20 @@ footer: true
 
 # Join at: `fmhy.net`
 
-***
-
-- You will be spawned at the hub.
+- You will be spawned at the [hub](https://cornhub.website/).
 - To go to vanilla, head to the end portal.
 - To go to modded, head to the nether portal.
 - Modded requires Minecraft 1.20.1 Forge.
 - Vanilla requires Minecraft 1.20.4.
 
-***
+---
 
 ### Mod Downloads
 
-**Attached is the mod pack for modded**: [RAR](https://buzzheavier.com/f/GIr%2FvkDOsAA=) + [Guide](https://rentry.org/fmhy-modded)
-or you could use the .mrpack files and add it to Prism or other compatible launchers: 
+**Attached is the mod pack for modded**:
+[RAR](https://buzzheavier.com/f/GIr%2FvkDOsAA=) +
+[Guide](https://rentry.org/fmhy-modded) or you could use the .mrpack files and
+add it to Prism or other compatible launchers:
 
 [FMHY_Modpack-2.mrpack](https://cdn.discordapp.com/attachments/1207087196327120896/1218042133382959184/FMHY_Modpack-2.mrpack?ex=66063922&is=65f3c422&hm=a3fecfe897d81368f91f6860f96e5359706c292269bafd82429d72b5323bf1a1)
 
@@ -34,13 +34,15 @@ or you could use the .mrpack files and add it to Prism or other compatible launc
 
 [Optional Modpack with QOL mods added](https://buzzheavier.com/f/GIr+b3jOsAA=)
 
-***
+---
 
-###  Things to Know
+### Things to Know
 
 - If it times out when joining then just try rejoining again.
-- If you get stuck in the lobby, use the command `/server modded` or`/server survival` to join.
-- If you can't break blocks or it's glitching, you are probably too close to the spawn and need to go farther.
+- If you get stuck in the lobby, use the command `/server modded`
+  or`/server survival` to join.
+- If you can't break blocks or it's glitching, you are probably too close to the
+  spawn and need to go farther.
 - (Modded) To set a skin, use the `/skin` command.
 - To hide yourself from being shown in Dynmap, run this command `/dynmap hide`.
 - For modded 6GB+ RAM is required, but 12GB+ is recommended.

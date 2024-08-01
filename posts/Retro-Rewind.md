@@ -9,6 +9,6 @@ sidebar: false
 footer: true
 ---
 
-https://rentry.org/Retro-Rewind
+<Post authors="['nbats']" />
 
----
+https://rentry.org/Retro-Rewind

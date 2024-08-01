@@ -13,8 +13,9 @@ footer: true
 
 ### New URL: https://fmhy.net/
 
-:::info Old frontend
-You can use https://old.fmhy.net if you'd like to use the original version.
+:::info Old Frontend
+You can use https://old.fmhy.net if you'd like to use the
+original version.
 :::
 
 Hey everyone, just wanted to let you all know that we're finally done with the
