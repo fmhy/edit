@@ -664,10 +664,11 @@
 * ⭐ **[Acode](https://acode.app)** - Android Code Editor
 * [Sora](https://github.com/Rosemoe/sora-editor) - Android Code Editor
 * [Squircle-CE](https://github.com/massivemadness/Squircle-CE) - Android Code Editor
-* [droidvim](https://github.com/shiftrot/droidvim) - Vim Android Frontend
-* [VHEditor](https://github.com/vhqtvn/VHEditor-Android) - VSCode Android Editor
-* [Gidget](https://github.com/GDGVIT/gidget) - GitHub Notifications / Android
+* [droidvim](https://github.com/shiftrot/droidvim) - Vim Code Editor
+* [VHEditor](https://github.com/vhqtvn/VHEditor-Android) - VSCode Editor
 * [diohub](https://github.com/NamanShergill/diohub) or [OctoDroid](https://github.com/slapperwan/gh4a) - Android GitHub Clients
+* [Gidget](https://github.com/GDGVIT/gidget) - GitHub Notifications / Android
+
 
 ***
 
@@ -1208,7 +1209,7 @@
 * [free-website-translation](http://free-website-translation.com/), [transdict](http://transdict.com/meta/website.html) or [conveythis](https://www.conveythis.com/) - Website Translators
 * [Statically](https://statically.io/) - Load Websites Faster
 * [WebUI](https://webui.me/) - Embed WebUI Libraries in Project
-* [Dagu](https://dagu.readthedocs.io) / [GitHub](https://github.com/dagu-dev/dagu) - WebUI Job Manager
+* [Dagu](https://dagu.readthedocs.io) - WebUI Job Manager / [GitHub](https://github.com/dagu-dev/dagu)
 * [QuickEmailVerification](https://quickemailverification.com/), [Email Marker](https://www.emailmarker.com/) or [ZeroBounce](https://www.zerobounce.net/) - Email Validation Services
 * [RequestBin](https://pipedream.com/requestbin) - Easy Webhook Debugging & Integration
 * [Plow](https://github.com/six-ddc/plow) - HTTP Benchmarking
