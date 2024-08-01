@@ -68,7 +68,7 @@
 }
 
 .vp-doc a {
-  color: var(--vp-c-brand-soft);
+  color: var(--vp-c-brand-1);
   text-decoration: underline;
   text-underline-offset: 4px;
   text-decoration-style: solid;
@@ -78,9 +78,9 @@
 }
 
 .vp-doc a:hover {
-  color: var(--vp-c-brand-soft);
-  text-decoration-color: var(--vp-c-brand-soft);
-  -webkit-text-decoration-color: var(--vp-c-brand-soft);
+  color: var(--vp-c-brand-1);
+  text-decoration-color: var(--vp-c-brand-1);
+  -webkit-text-decoration-color: var(--vp-c-brand-1);
 }
 
 .vp-doc .custom-block a {

@@ -82,26 +82,27 @@ export default defineConfig({
   themeConfig: {
     search,
     footer: {
-      message: `${feedback} (rev: ${commitRef})`
+      message: `${feedback} (rev: ${commitRef})`,
+      copyright: `© ${new Date().getFullYear()}, <a href="https://github.com/nbats">nbats</a>, <a href="https://github.com/taskylizard">taskylizard</a> and contributors.`
     },
     outline: 'deep',
     logo: '/fmhy.ico',
     nav: [
-      { text: 'Beginners Guide', link: '/beginners-guide' },
-      { text: 'Glossary', link: 'https://rentry.org/The-Piracy-Glossary' },
-      { text: 'Guides', link: 'https://rentry.co/fmhy-guides' },
+      { text: '📚 Beginners Guide', link: '/beginners-guide' },
+      { text: '🔖 Glossary', link: 'https://rentry.org/The-Piracy-Glossary' },
+      { text: '📑 Guides', link: 'https://rentry.co/fmhy-guides' },
       {
-        text: 'Backups',
+        text: '💾 Backups',
         link: 'https://github.com/fmhy/FMHY/wiki/Backups'
       },
       {
-        text: 'Ecosystem',
+        text: '🪅 Ecosystem',
         items: [
-          { text: 'Posts', link: '/posts' },
-          { text: 'Feedback', link: '/feedback' },
-          { text: 'snowbin', link: 'https://pastes.fmhy.net' },
-          { text: 'SearXNG', link: 'https://searx.fmhy.net/' },
-          { text: 'Whoogle', link: 'https://whoogle.fmhy.net/' }
+          { text: '📰 Posts', link: '/posts' },
+          { text: '💬 Feedback', link: '/feedback' },
+          { text: '📋 snowbin', link: 'https://pastes.fmhy.net' },
+          { text: '🔍 SearXNG', link: 'https://searx.fmhy.net/' },
+          { text: '🔍 Whoogle', link: 'https://whoogle.fmhy.net/' }
         ]
       }
     ],
