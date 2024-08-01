@@ -8,8 +8,8 @@ hero:
   text: freemediaheckyeah
   tagline: The largest collection of free stuff on the internet!
   prelink:
-    title: July Updates
-    link: /posts/july-2024
+    title: August Updates
+    link: /posts/aug-2024
   image:
     src: /test.png
     alt: FMHY Icon
