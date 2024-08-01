@@ -173,7 +173,7 @@
 * ↪️ **[App Mockups](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_app_.2F_site_mockups)**
 * ⭐ **[Tizen](https://www.tizen.org/)** - Android TV App Creator
 * ⭐ **[Android Developer Roadmap](https://github.com/skydoves/android-developer-roadmap)**
-* [SupaBase](https://supabase.com/), [Kodular](https://www.kodular.io/), [Glide](https://www.glideapps.com/), [AppCreator24](https://www.appcreator24.com/), [Dokku](https://dokku.com/), [AndroidIDE](https://androidide.com/), [Flutter](https://flutter.dev/) / [Resources](https://github.com/Solido/awesome-flutter), [2](https://github.com/leanflutter/awesome-flutter-desktop), [Plasmic](https://www.plasmic.app/), [noodl](https://www.noodl.net/) or [Android Studio](https://developer.android.com/studio/index.html) - App Creators / Builders
+* [SupaBase](https://supabase.com/), [Kodular](https://www.kodular.io/), [Glide](https://www.glideapps.com/), [AppCreator24](https://www.appcreator24.com/), [Dokku](https://dokku.com/), [Flutter](https://flutter.dev/) / [Resources](https://github.com/Solido/awesome-flutter), [2](https://github.com/leanflutter/awesome-flutter-desktop), [Plasmic](https://www.plasmic.app/), [noodl](https://www.noodl.net/) or [Android Studio](https://developer.android.com/studio/index.html) - App Creators / Builders
 * [StreamLit](https://streamlit.io/) - Data Science App Creator / [Templates](https://extras.streamlit.app/)
 * [Windows App Development](https://learn.microsoft.com/en-us/windows/apps/) - Windows App Dev Docs
 * [Xamarin](https://dotnet.microsoft.com/en-us/apps/xamarin) - App Development Platform / [GitHub](https://github.com/xamarin)
@@ -306,7 +306,6 @@
 * [ActionServerless](https://github.com/gitx-io/ActionServerless) - Create Serverless Service
 * [Rahularity](https://gist.github.com/rahularity/86da20fe3858e6b311de068201d279e3) - Use Multiple Git Accounts at Once
 * [dotfiles](https://dotfiles.github.io/) - GitHub Dotfiles
-* [Gidget](https://github.com/GDGVIT/gidget) - GitHub Notifications / Android
 * [GitHub Web IDE](https://chromewebstore.google.com/detail/github-web-ide/adjiklnjodbiaioggfpbpkhbfcnhgkfe) / [GitHub](https://github.com/zvizvi/GitHub-Web-IDE) - Web IDE
 * [Octobox](https://octobox.io/), [Gitify](https://www.gitify.io/), [advanced-github-notifier](https://github.com/freaktechnik/advanced-github-notifier), [PR Monitor](https://github.com/fwouts/prmonitor), [Gitification](https://github.com/Gitification-App/gitification), [CatLight](https://catlight.io/) or [Ghostly](https://ghostlyapp.net/) / [GitHub](https://github.com/patriksvensson/ghostly) - GitHub Notifications
 * [github1s](https://github1s.com/) - GitHub Code Viewer / GUI: do `gitk` in Repo Folder
@@ -347,7 +346,6 @@
 * [Discord MD Badge](https://github.com/gitlimes/discord-md-badge) - Add Discord Badge to GitHub
 * [github-material-icons-extension](https://github.com/Claudiohbsantos/github-material-icons-extension) - Material Icons
 * [gist.io](https://gist.io/) - Git Blog Platform
-* [diohub](https://github.com/NamanShergill/diohub) or [OctoDroid](https://github.com/slapperwan/gh4a) - Android GitHub Clients
 
 ***
 
@@ -604,7 +602,6 @@
 * [Orbiton](https://github.com/xyproto/orbiton) - Lightweight IDE
 * [Trinket](https://trinket.io/) - Browser Code Editor
 * [Competitive Editor](https://cpeditor.org/) - Competitive Programming Editor
-* [Acode](https://acode.app), [Sora](https://github.com/Rosemoe/sora-editor) or [Squircle-CE](https://github.com/massivemadness/Squircle-CE) - Android Code Editors
 * [Apache NetBeans](https://netbeans.apache.org/), [KDevelop](https://www.kdevelop.org/), [Mitosis](https://mitosis.builder.io/), [Lazarus](https://www.lazarus-ide.org/) or [OpenShift](https://developers.redhat.com/products/openshift-dev-spaces/overview) - Cross Platform IDEs
 * [TidalCycles](https://tidalcycles.org/) - Live Algorithmic Coding Environment / [Discord](https://discord.com/invite/ugFq7KfGnB)
 * [SciTE](https://www.scintilla.org/SciTE.html) - Source Code Editor for Win32 and X
@@ -661,6 +658,19 @@
 
 ***
 
+## ▷ Android Code Editors
+
+* ⭐ **[AndroidIDE](https://androidide.com/)** - Android Code Editor
+* ⭐ **[Acode](https://acode.app)** - Android Code Editor
+* [Sora](https://github.com/Rosemoe/sora-editor) - Android Code Editor
+* [Squircle-CE](https://github.com/massivemadness/Squircle-CE) - Android Code Editor
+* [droidvim](https://github.com/shiftrot/droidvim) - Vim Android Frontend
+* [VHEditor](https://github.com/vhqtvn/VHEditor-Android) - VSCode Android Editor
+* [Gidget](https://github.com/GDGVIT/gidget) - GitHub Notifications / Android
+* [diohub](https://github.com/NamanShergill/diohub) or [OctoDroid](https://github.com/slapperwan/gh4a) - Android GitHub Clients
+
+***
+
 ## ▷ Vim / Neovim Tools
 
 * 🌐 **[Awesome Neovim](https://github.com/rockerBOO/awesome-neovim)** or [NeoVimCraft](https://neovimcraft.com/) - NeoVim Plugins Collections
@@ -675,7 +685,6 @@
 * [Vim Plug](https://github.com/junegunn/vim-plug), [vim-pathogen](http://www.vim.org/scripts/script.php?script_id=2332) / [GitHub](https://github.com/tpope/vim-pathogen) or [Shougo](https://github.com/Shougo/dein.vim) - Vim Plugin Managers
 * [VimAwesome](https://vimawesome.com/) - Vim Plugins
 * [nerdtree](https://github.com/preservim/nerdtree) - Vim Tree Explorer
-* [droidvim](https://github.com/shiftrot/droidvim) - Vim Android Frontend
 * [VimColorSchemes](https://vimcolorschemes.com/) - Vim Color Schemes
 * [The Ultimate vimrc](https://github.com/amix/vimrc) - Vim Config
 * [Vim Markdown](https://github.com/preservim/vim-markdown) or [Markdown Preview](https://github.com/iamcco/markdown-preview.nvim) - Vim Markdown Plugins
@@ -692,7 +701,6 @@
 * [Discord Tools](https://github.com/Darkempire78/Discord-Tools)
 * [vscode-smart-clicks](https://github.com/antfu/vscode-smart-clicks) - Smart Clicks
 * [code-server](https://coder.com/) - Web Server
-* [VHEditor](https://github.com/vhqtvn/VHEditor-Android) - VSCode Android Editor
 * [vscode-settings](https://github.com/antfu/vscode-settings) - VSCode Settings
 * [insiders.vscode](https://insiders.vscode.dev/) - Insider Build
 * [logos-vscode](https://github.com/tale/logos-vscode) - Logo Extension
