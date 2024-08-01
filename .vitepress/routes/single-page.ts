@@ -44,7 +44,7 @@ export default defineEventHandler(async (event) => {
       return isMarkdownFile && !isExcludedFile && !isInExcludedDirectory
     })
 
-    console.info(markdownFiles.map((f) => f.name))
+    // console.info(markdownFiles.map((f) => f.name))
 
     // Fetch and concatenate the contents of the markdown files
     const contents = await Promise.all(
@@ -63,6 +63,6 @@ export default defineEventHandler(async (event) => {
   }
 
   // biome-ignore lint/correctness/noUndeclaredVariables: <explanation>
-  appendResponseHeader(event, 'content-type', 'text/plain')
+  appendResponseHeader(event, 'content-type', 'text/markdown;charset=utf-8')
   return body
 })
