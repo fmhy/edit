@@ -468,6 +468,8 @@
 * [Xray](https://github.com/XTLS/Xray-core) - Proxy Client and Self-Hosted Server / [Telegram](https://t.me/projectXray)
 * [Ultraviolet](https://docs.titaniumnetwork.org/proxies/ultraviolet) or [Metallic](https://github.com/cognetwork-dev/Metallic) - Self-Hosted Proxy Websites
 * [1337x Proxy](https://redd.it/tz7nyx) - 1337x Proxy Guide / [Example](https://pastebin.com/3n5K0QrP)
+* [GoodbyeDPI](https://github.com/ValdikSS/GoodbyeDPI) - Deep Packet Inspection circumvention utility
+* [Zapret](https://github.com/bol-van/zapret) - May allow to bypass http(s) website blocking or speed shaping, resist signature tcp/udp protocol discovery.
 
 ***
 
