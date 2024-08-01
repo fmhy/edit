@@ -8,7 +8,7 @@ hero:
   text: freemediaheckyeah
   tagline: The largest collection of free stuff on the internet!
   prelink:
-    title: August Updates
+    title: August Updates 🆕
     link: /posts/aug-2024
   image:
     src: /test.png
