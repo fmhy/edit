@@ -7,10 +7,14 @@
 # ► Dev Communities
 
 * 🌐 **[Programming-Telegram-Group](https://github.com/hendisantika/List-All-Programming-Telegram-Group)** - Telegram Communities
+* ⭐ **[StackOverflow](https://stackoverflow.com/)** - Developer Forum / [Frontend](https://code.whatever.social/)
 * ⭐ **[XDA](https://xdaforums.com/)** - App Development Forum
+* [CodeProject](https://www.codeproject.com/) - Developer Forum
+* [Spiceworks Community](https://community.spiceworks.com/) - Developer Forum
+* [DEV Community](https://dev.to/) - Developer Forum
+* [Blind](https://www.teamblind.com/) - Developer Forum
 * [CyberArsenal](https://cyberarsenal.org/) - Cybersecurity Forums
 * [TheSecMaster](https://twitter.com/TheSecMaster1) - Cybersecurity Twitter
-* [CodeProject](https://www.codeproject.com/), [Spiceworks Community](https://community.spiceworks.com/), [DEV Community](https://dev.to/) or [Blind](https://www.teamblind.com/) - Developer Forums
 * [Tech-Blogs](https://tech-blogs.dev/) - Blogs for Developers
 * [The Devs Network](https://thedevs.network/) - Developer Chat
 * [StackShare](https://stackshare.io/) - Tech Stack Collaboration
@@ -375,6 +379,7 @@
 ## ▷ CLI Tools
 
 * ↪️ **[CLI Cheat Sheets](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_cli_cheat_sheets)**
+* [Awesome CLI](https://github.com/umutphp/awesome-cli) - CLI Interface for Searching Awesome Lists
 * [OhMyPosh](https://ohmyposh.dev/) - Terminal Theme Engine
 * [cURL](https://curl.se/) - Transfer Data with URLs / [Converter](https://curlconverter.com/)
 * [WNIX](https://gitlab.com/gokhanettin/wnix) - UNIX-like Windows Development Environment
@@ -720,7 +725,6 @@
 * ↪️ **[Programming Books](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/reading#wiki_.25B7_programming_books)** - Read / Download Programming Books
 * ↪️ **[Programming / Coding Tutorials](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_coding_tutorials)**
 * ⭐ **[freeCodeCamp](https://www.freecodecamp.org/)** - Programming / Courses / Interactive
-* ⭐ **[StackOverflow](https://stackoverflow.com/)** / [Frontend](https://code.whatever.social/) or [DecodingDevOps](https://www.decodingdevops.com/) - Developer Q&A
 * ⭐ **[Git Cheatsheet](https://www.ndpsoftware.com/git-cheatsheet.html#loc=index;)** or [Git Commands](https://gabrieldejesus.github.io/git-commands/) / [2](https://github.com/gabrieldejesus/git-commands) - Git Command Lists
 * ⭐ **[OpenVim](https://openvim.com/)** - Interactive Vim Tutorial
 * [First Timers Only](https://www.firsttimersonly.com/) or [First Contributions](https://firstcontributions.github.io/) - Contribution Guides for Beginners
@@ -734,6 +738,7 @@
 * [Audio Dev](https://audiodev.blog/newbie-resources/) - Audio Programming Learning Resources
 * [DZone](https://dzone.com/) - Developer Tutorials
 * [Dev.tube](https://dev.tube/) - Developer Talks
+* [DecodingDevOps](https://www.decodingdevops.com/) - Developer Q&A
 * [Roadmap](https://roadmap.sh/) - Developer Roadmaps / [GitHub](https://github.com/kamranahmedse/developer-roadmap)
 * [Programming Challenges](https://i.ibb.co/J3ppPQ3/5bdea0d754ac.png), [LightOJ](https://lightoj.com/) or [Code Golf](https://codegolf.stackexchange.com/) - Programming Challenges
 * [RoboMind](https://www.robomind.net/) or [Checki0](https://checkio.org/) - Code Learning Games
