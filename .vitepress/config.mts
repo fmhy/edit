@@ -12,6 +12,7 @@ import {
 import { generateImages, generateMeta, generateFeed } from './hooks'
 import { toggleStarredPlugin } from './markdown/toggleStarred'
 import { movePlugin, emojiRender, defs } from './markdown/emoji'
+import { OramaPlugin } from '@orama/plugin-vitepress'
 
 // @unocss-include
 
@@ -54,6 +55,14 @@ export default defineConfig({
     plugins: [
       UnoCSS({
         configFile: '../unocss.config.ts'
+      }),
+      // @ts-expect-error broken fucking type defs
+      OramaPlugin({
+        analytics: {
+          enabled: true,
+          apiKey: 'nZiDdThSSSQK6tEhakUBp7o3JlXjY13R',
+          indexId: 'xs3kwrwwxr1re7ey43c9g58i'
+        }
       }),
       {
         name: 'custom:adjust-order',
