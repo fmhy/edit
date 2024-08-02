@@ -16,6 +16,7 @@
 * ⭐ **[uBlock Origin](https://github.com/gorhill/uBlock#installation)** - Adblocker
 * ⭐ **uBO Resources** - [Report Issues](https://github.com/uBlockOrigin/uAssets/issues) / [Report Hosts](https://github.com/uBlockOrigin/uAssets/discussions/17361) / [Guides](https://www.reddit.com/r/uBlockOrigin/wiki/index/) / [Advanced](https://youtu.be/2lisQQmWQkY) / [Redundant Extensions](https://github.com/arkenfox/user.js/wiki/4.1-Extensions/#-dont-bother)
 * ⭐ **[SponsorBlock](https://sponsor.ajay.app/)** - Skip Sponsored YouTube Ads / [Script](https://github.com/mchangrh/sb.js), [2](https://greasyfork.org/en/scripts/453320)
+* ⭐ **[Disblock Origin](https://codeberg.org/AllPurposeMat/Disblock-Origin)** or [Discord Adblock](https://github.com/CroissantDuNord/discord-adblock) - Hide Discord Nitro / Boost Ads
 * ⭐ **[BehindTheOverlay](https://github.com/NicolaeNMV/BehindTheOverlay)** - Hide Website Overlays
 * ⭐ **[OpenVideo](https://openvideofs.github.io)** or [Stream-Bypass](https://github.com/ByteDream/stream-bypass) - Play Videos in Ad-Free Player
 * [uBO Lite](https://github.com/uBlockOrigin/uBOL-home) - MV3 Compatible for Chrome Users / [Note](https://rentry.org/nzvohpzf)
@@ -416,7 +417,8 @@
 * ⭐ **[Windscribe](https://windscribe.com)** - Paid w/ Free Version Available
 * ⭐ **[AirVPN](https://airvpn.org/)**
 * ⭐ **[Proton](https://protonvpn.com)** - No Torrenting with Free Version / [Config Generation](https://gist.github.com/fusetim/1a1ee1bdf821a45361f346e9c7f41e5a)
-* ⭐ **[Warp](https://one.one.one.one/)** - Free VPN / [Client](https://github.com/ViRb3/wgcf), [2](https://github.com/bepass-org/oblivion-desktop) / [Warp+ Data](https://t.me/warpplus), [2](https://github.com/nxvvvv/warp-plus), [3](https://github.com/totoroterror/warp-cloner), [4](https://t.me/generatewarpplusbot), [5](https://rentry.co/warp_plus_free) / [Warp+ Warning](https://rentry.co/warpwarning2) / [WireGuard Guide](https://rentry.co/foss-warp)
+* ⭐ **[Warp](https://one.one.one.one/)** - Free VPN / Check #Free-Stuff Discord Pins for Keys
+* ⭐ **Warp Tools** -  [WireGuard Guide](https://rentry.co/foss-warp) / [Client](https://github.com/ViRb3/wgcf), [2](https://github.com/bepass-org/oblivion-desktop) / [Warp+ Data](https://t.me/warpplus), [2](https://github.com/nxvvvv/warp-plus), [3](https://github.com/totoroterror/warp-cloner), [4](https://t.me/generatewarpplusbot), [5](https://rentry.co/warp_plus_free) / [Warp+ Warning](https://rentry.co/warpwarning2)
 * ⭐ **[Riseup](https://riseup.net/en/vpn)** - Free VPN / [Config CLI Script](https://github.com/kmille/riseup-vpn-configurator)
 * [Mullvad](https://mullvad.net/) - [No-Logging](https://mullvad.net/en/blog/2023/4/20/mullvad-vpn-was-subject-to-a-search-warrant-customer-data-not-compromised/) / [Port Warning](https://mullvad.net/en/blog/2023/5/29/removing-the-support-for-forwarded-ports/)
 * [IVPN](https://www.ivpn.net/) - [No Logging](https://www.ivpn.net/knowledgebase/privacy/how-do-we-react-when-requested-by-an-authority-for-information-relating-to-a-customer/) / [Port Warning](https://www.ivpn.net/blog/gradual-removal-of-port-forwarding/)
