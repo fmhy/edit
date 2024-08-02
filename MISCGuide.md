@@ -220,6 +220,7 @@
 * [Airline List](https://airlinelist.com/) - Airline Comparisons
 * [Google Flights](https://www.google.com/travel/flights) - Book Flights
 * [AZair](https://www.azair.eu/) - Flight Price Aggregator
+* [Matrix](https://matrix.itasoftware.com/) - Airfare Search
 * [plane-notify](https://github.com/Jxck-S/plane-notify) - Plane Takeoff Notifications
 * [Misery Map](https://flightaware.com/miserymap/) - Flight Delay Map
 * [FlightConnections](https://www.flightconnections.com/) - Interactive Flight Routes
@@ -269,6 +270,7 @@
 * ⭐ **[Google Maps](https://www.google.com/maps/)** - Online Maps / [Themes for Web Developers](https://snazzymaps.com/)
 * [GMaps WV](https://f-droid.org/packages/us.spotco.maps/) / [GitHub](https://gitlab.com/divested-mobile/maps) - Restricted Google Maps WebView Wrapper
 * [Bing Maps](https://www.bing.com/maps) - Online Maps
+* [Apple Maps](https://beta.maps.apple.com/) - Online Maps
 * [Waze](https://www.waze.com/) / [Editor](https://www.waze.com/en-US/editor) - Traffic and Road Conditions Map
 * [Wikiroutes](https://wikiroutes.info/) - Public Transport Routes
 * [Mini Tokyo 3D](https://minitokyo3d.com/) - Tokyo Public Transport Map
@@ -1069,7 +1071,6 @@
 * [Freeter](https://freeter.io) - Work Organizer / [GitHub](https://github.com/FreeterApp/Freeter)
 * [VisualizeHabit](https://visualizehabit.com/) - Habit Tracking
 * [Cold Turkey](https://getcoldturkey.com/) - Site Blocker / Productivity App / [Premium (use python)](https://rentry.co/FMHYBase64#cold-turkey-premium)
-* [Tempus](https://tempus.keziahmoselle.fr/) - Tray Break Reminders / Time Tracker
 * [ActivityWatch](https://activitywatch.net/) - Device / App Time Tracker / [Extensions](https://github.com/ActivityWatch/aw-watcher-web)
 * [ProcrastiTracker](https://strlen.com/procrastitracker/) - Device / App Time Tracker
 * [ManicTime](https://www.manictime.com/) - Device / App Time Tracker
