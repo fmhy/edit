@@ -32,7 +32,6 @@
 * [Linux x Technology](https://linuxdiscord.com/) - Linux Discord Server
 * [Discord-Linux](https://discord.gg/discord-linux) - Linux Discord Server
 * [Linux.org](https://linux.org/) - Linux Forum
-* [Ezlinux](https://ezlinux.net/) - Linux Forum
 
 ***
 
