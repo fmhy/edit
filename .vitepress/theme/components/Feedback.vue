@@ -51,7 +51,7 @@ async function handleSubmit() {
   }
 
   try {
-    const response = await fetch('https://feedback.tasky.workers.dev', {
+    const response = await fetch('https://api.fmhy.net/feedback', {
       method: 'POST',
       headers: {
         'Content-Type': 'application/json'

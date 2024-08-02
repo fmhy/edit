@@ -7,14 +7,16 @@ export default defineEventHandler(async (event) => {
     FeedbackSchema.parseAsync
   )
   const env = useRuntimeConfig(event)
-  const { pathname } = new URL(event.node.req.url)
 
-  const { success } = await env.MY_RATE_LIMITER.limit({ key: pathname })
-  if (!success) {
-    return new Response(`429 Failure – rate limit exceeded for ${pathname}`, {
-      status: 429
-    })
-  }
+  // FIXME: somehow this is not working, but it worked before
+  // const path = 'feedback'
+  //
+  // const { success } = await env.MY_RATE_LIMITER.limit({ key: path })
+  // if (!success) {
+  //   return new Response('429 Failure – global rate limit exceeded', {
+  //     status: 429
+  //   })
+  // }
 
   let description = `${message}\n\n`
   if (page) description += `**Page:** \`${page}\``

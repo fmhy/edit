@@ -21,7 +21,6 @@
     "@fmhy/colors": "^0.0.11",
     "@headlessui/vue": "^1.7.22",
     "@resvg/resvg-js": "^2.6.0",
-    "vitepress": "npm:@taskylizard/vitepress@1.1.1",
     "consola": "^3.2.3",
     "feed": "^4.2.2",
     "fs-extra": "^11.2.0",
@@ -31,6 +30,7 @@
     "nprogress": "^0.2.0",
     "pathe": "^1.1.2",
     "unocss": "^0.58.9",
+    "vitepress": "npm:@taskylizard/vitepress@1.1.1",
     "vue": "^3.4.33",
     "x-satori": "^0.1.5",
     "zod": "^3.23.8"
@@ -45,6 +45,7 @@
     "@types/node": "^20.14.11",
     "@types/nprogress": "^0.2.3",
     "prettier": "^3.3.3",
-    "tailwindcss": "^3.4.6"
+    "tailwindcss": "^3.4.6",
+    "wrangler": "^3.68.0"
   }
 }
