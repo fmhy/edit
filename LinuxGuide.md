@@ -66,6 +66,7 @@
 * [Nanobench](https://github.com/andreas-abel/nanoBench) - CPU Microbenchmark / [Documentation](https://nanobench.ankerl.com/)
 * [ScanMem](https://github.com/scanmem/scanmem) - Memory Scanner / Debugger
 * [pacwall](https://github.com/Kharacternyk/pacwall) - Live Wallpaper Dependency Graph / Package Status
+* [picom](https://github.com/yshui/picom) - Wayland Compositors
 * [keyd](https://github.com/rvaiya/keyd) or [xremap](https://github.com/k0kubun/xremap) - Keyboard Remapping
 * [LAN Mouse](https://github.com/feschber/lan-mouse) - Mouse & Keyboard Sharing
 * [Input Leap](https://github.com/input-leap/input-leap) - Multi-Computer Control
@@ -84,7 +85,7 @@
 * [CoreELEC](https://coreelec.org) / [GitHub](https://github.com/CoreELEC/CoreELEC) or [LibreELEC](https://libreelec.tv/) - Kodi-Based Operating System
 * [WSL](https://learn.microsoft.com/en-us/windows/wsl/)  - Run Linux on Windows / [Resources](https://github.com/sirredbeard/Awesome-WSL) / [Startup Launcher](https://github.com/nullpo-head/wsl-distrod) / [Wayland / X Server](https://github.com/microsoft/wslg)
 * [Boxes](https://wiki.gnome.org/Apps/Boxes) - Virtual Machine Manager
-* [fvwm](https://www.fvwm.org/) or [Linux-KVM](https://www.linux-kvm.org/page/Downloads) - Virtual Machines
+* [Linux-KVM](https://www.linux-kvm.org/page/Downloads) - Virtualization Kernel module
 * [WebVM](https://webvm.io/) - Browser Virtual Machine / [Discord](https://discord.gg/yTNZgySKGa)
 * [OSX-KVM](https://github.com/kholia/OSX-KVM), [OneClick-macOS-Simple-KVM](https://notAperson535.github.io/OneClick-macOS-Simple-KVM) or [macOS-Simple-KVM](https://github.com/foxlet/macOS-Simple-KVM) - macOS Virtual Machines
 * [kmon](https://kmon.cli.rs/) - Kernel Manager and Activity Monitor
@@ -116,8 +117,6 @@
 * ⭐ **[Sway](https://github.com/swaywm/sway)** or [SwayFx](https://github.com/WillPower3309/swayfx) - i3-compatible Wayland Compositor / [Arch Wiki](https://wiki.archlinux.org/title/Sway)
 * [river](https://github.com/riverwm/river/) - Wayland Compositors
 * [LabWC](https://github.com/labwc/labwc) - Wayland Compositors
-* [kiwmi](https://github.com/buffet/kiwmi) - Wayland Compositors
-* [picom](https://github.com/yshui/picom) - Wayland Compositors
 * [wayfire](https://github.com/WayfireWM/wayfire/) - Wayland Compositors
 
 ***
