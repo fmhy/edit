@@ -150,9 +150,11 @@
 * [Rutt-Etra-Izer](https://airtightinteractive.com/demos/js/ruttetra/) - Scanned-line Images
 * [Geometrize](https://www.geometrize.co.uk/) - Redraw Images with Geometric Shapes
 * [PBNify](https://pbnify.com/) - Paint by Number Tool
+* [SpiralBetty](https://www.spiralbetty.com/) - Image Spiralizer
+* [Shimmer](https://github.com/collidingScopes/shimmer) - Oscillating Wave Images
+* [CollidingScopes](https://github.com/collidingScopes/collidingScopes.github.io) - Kaleidoscope Images
 * [Party-ify](https://nathanielw.github.io/party-ify/) - Party-ify Images
 * [PFP.LGBT](https://pfp.lgbt/) - LGBTQ+fy Images
-* [SpiralBetty](https://www.spiralbetty.com/) - Image Spiralizer
 
 ***
 
