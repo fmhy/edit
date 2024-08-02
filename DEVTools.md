@@ -137,7 +137,6 @@
 * [New Software](https://github.com/ardalis/new-software-project-checklist) - Project Decision Checklist
 * [Radicle](https://radicle.xyz/) - P2P Software Development
 * [MSYS2](https://www.msys2.org/) - Windows Software Creator
-* [Pakkly](https://pakkly.com/) - Desktop App Deployment
 * [Nomad](https://www.nomadproject.io/) / [GitHub](https://github.com/hashicorp/nomad), [Kamal](https://kamal-deploy.org/) / [Discord](https://discord.gg/YgHVT7GCXS) or [Waypoint](https://www.waypointproject.io) - App Deployment Automation
 * [Dotnet Content Creators](https://www.wearedotnet.io/) - .NET Content Creators Index
 * [Dotnet Releaser](https://github.com/xoofx/dotnet-releaser) - Automate Release of .NET Applications
@@ -153,7 +152,6 @@
 * [Inno Setup](https://jrsoftware.org/isinfo.php) or [InstallForge](https://www.installforge.net/) - Create Installation Programs
 * [CODEX-Installer](https://github.com/SolsticeSpectrum/CODEX-Installer) - Original CODEX Installer Code
 * [Sparkle](https://sparkle-project.org) - MacOS Update Framework
-* [TextBase](https://www.textbase.ai/) - AI Chatbot Framework
 * [Dify](https://dify.ai/) - Create AI Apps
 * [Jina](https://docs.jina.ai) - Create AI Applications
 * [Ink](https://github.com/vadimdemedes/ink) - Create Interactive CLI Apps
