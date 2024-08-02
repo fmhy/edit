@@ -180,7 +180,7 @@
 * [streamWriter](https://streamwriter.org/en/) - Internet Radio Audio Downloader
 * [castero](https://github.com/xgi/castero) - TUI Terminal Podcast Client
 * [Grover](https://www.microsoft.com/store/productId/9NBLGGH6C4BC) or [GPodder](https://gpodder.github.io/) - Podcast Client
-* [ListenLater](https://www.listenlater.fm/) or [EchoWalk](https://www.echowalk.com/) - Turn Articles / Webpages into Podcasts
+* [EchoWalk](https://www.echowalk.com/) - Turn Articles / Webpages into Podcasts
 * [ListenBox](https://listenbox.app/) or [PodSync](https://github.com/mxpv/podsync) - Turn YouTube Video into Podcasts
 * [JRE Missing](https://www.jremissing.com/) - Tracks Missing JRE Podcasts
 * [Podcatalysts](https://podcatalysts.substack.com/) - Podcast Recommendation Newsletter
@@ -229,7 +229,6 @@
 * [Download Bandcamp](https://downloadmusicschool.com/bandcamp/) - Bandcamp / 128kb MP3
 * [DownloadSound](https://downloadsound.cloud/) - SoundCloud / 128kb MP3 / [Discord](https://discord.com/invite/39bEkYuzrN)
 * [SoundcloudMP3](https://soundcloudmp3.cc/) - SoundCloud / 128kb MP3
-* [SoundLoaders](https://www.soundloaders.com/) - Multi-Site
 * [SASRIP](https://sasrip.sas41.com/) - Multi-Site
 
 ***
@@ -249,8 +248,9 @@
 * [OnTheSpot](https://github.com/casualsnek/onthespot) - Spotify / 160kb Free / 320kb Premium / [Discord](https://discord.com/invite/hz4mAwSujH)
 * [spotify_sync](https://github.com/jbh-cloud/spotify_sync) - Deezer / 128kbpFree / FLAC Premium
 * [streamrip](https://github.com/nathom/streamrip) - Deezer / Tidal / Qobuz / SoundCloud / 128 kb Free / FLAC Premium / [Colab](https://github.com/r-piratedgames/rip)
-* [d-fi](https://notabug.org/sayem314/d-fi) - Deezer / FLAC / Requires Premium / [GUI](https://github.com/jaylex32/BeatOn)
+* [d-fi](https://notabug.org/sayem314/d-fi) - Deezer / FLAC / Requires Premium (Firehawk52) / [GUI](https://github.com/jaylex32/BeatOn)
 * [Orpheus](https://github.com/yarrm80s/orpheusdl) - Deezer / Qobuz / 128 kb Free / FLAC Premium / [Deezer Module](https://github.com/uhwot/orpheusdl-deezer) / [Qobuz Module](https://github.com/yarrm80s/orpheusdl-qobuz)
+* [SaturnMusic](https://github.com/SaturnMusic/) - Deezer / FLAC / Requires Premium (Firehawk52)
 * [QobuzDownloaderX-MOD](https://github.com/DJDoubleD/QobuzDownloaderX-MOD) - Qobuz / 128 kb Free / FLAC Premium
 * [qobuz-dl](https://github.com/vitiko98/qobuz-dl) - Qobuz /128 kb Free / FLAC Premium
 * [GamDL](https://github.com/glomatico/gamdl) - Apple / FLAC / Requires Premium
@@ -421,7 +421,6 @@
 * [TheMixingBowl](https://themixingbowl.org/) - MP3 / Signup Required
 * [Metal Tracker](https://en.metal-tracker.com/) or [RockBox](https://rawkbawx.rocks/) - Metal / MP3
 * [BlackTorrent](https://blacktorrent.ru/) or [iPlayMetal](https://metal.iplay.ro/) - Metal / MP3 / FLAC
-* [PunkTorrents](https://www.punktorrents.com/) - Punk / MP3
 * [the /kpg/ torrent](https://kpg.neocities.org/) - 800GB+ K-Pop Torrent File
 * [MixtapeTorrent](http://www.mixtapetorrent.com/) - Mixtapes / MP3
 * [TribalMixed](https://www.tribalmixes.com/) - DJ Mixes / MP3
@@ -500,7 +499,6 @@
 * [Spotify Playlist Archive](https://spotifyplaylistarchive.com/) - Archive of Official Spotify Playlists
 * [Spoqify](https://spoqify.com/) - Anonymous Playlist Generator
 * [TuneMunk](https://www.tunemunk.com/) - Spotify Playlist Sharing
-* [Forgotify](https://forgotify.com/) - Songs with No Plays on Spotify
 * [MusitcTo](https://www.musicto.com/) - Musician Curated Playlists
 * [BoilTheFrog](http://boilthefrog.playlistmachinery.com/) - Create Playlist from 2 Artists
 * [UpcomingPlaylists](https://www.upcomingplaylists.com/) - Playlists of Artists Playing Live Near You
@@ -646,6 +644,7 @@
 
 * ⭐ **[dumb](https://github.com/rramiachraf/dumb)** or [genius](https://genius.com/) - Lyric Explanations
 * [AZLyrics](https://www.azlyrics.com/), [Lyricsify](https://www.lyricsify.com/), [FindMusicByLyrics](https://findmusicbylyrics.com/) or [Lyrics.com](https://www.lyrics.com/) - Lyric Search
+* [Lyricify](https://github.com/WXRIW/Lyricify-App) - Lyrics Desktop App
 * [Versefy](https://versefy.app/) or [Lyrics-In-Terminal](https://github.com/Jugran/lyrics-in-terminal) - Lyric Finder for Spotify / Tidal / VLC
 * [Lyrist](https://lyrist.app) - Write Lyrics with Beats
 * [LyricsTranslate](https://lyricstranslate.com/) - Lyric Translator
