@@ -24,6 +24,7 @@
 * 🌐 **[Awesome Discord](https://github.com/jacc/awesome-discord)** - Discord Tool Index
 * ⭐ **[x266.mov](https://x266.mov/discord-embed)**, [embeds.video](https://embeds.video/), [Stolen Shoes](https://stolen.shoes/), [autocompressor](https://autocompressor.net/), [noury](https://dc.noury.li/) or [Discord Embedder](https://discord.nfp.is/) - Embed Videos on Discord
 * ⭐ **[Revolt](https://revolt.chat/)** / [Bots](https://rvlt.gg/discover/bots) / [Resources](https://github.com/insertish/awesome-revolt) / [Divolt Resources](https://github.com/ggtylerr/awesome-divolt) or **[Guilded](https://www.guilded.gg/)** - Discord Alternatives
+* ⭐ **[Disblock Origin](https://codeberg.org/AllPurposeMat/Disblock-Origin)** or [Discord Adblock](https://github.com/CroissantDuNord/discord-adblock) - Hide Nitro / Boost Ads
 * [Multi-Accounts 1 Email](https://generator.email/blog/gmail-generator) - Create Multi Accounts with One Email / [Guide](https://rentry.co/altmethod)
 * [AnswersOverflow](https://www.answeroverflow.com/) - Discord Search Engine
 * [DiscordFS](https://github.com/dhrumilp15/haystackfs) - Discord File Search
@@ -42,7 +43,6 @@
 * [Discord Templates](https://discordtemplates.me/) - Discord Server Templates
 * [Discord UI Mockup](https://www.figma.com/community/file/994323951589690341/Discord-Desktop-UI) - Discord UI Mockups
 * [discord-badges](https://github.com/mezotv/discord-badges) - Discord Badges Image Files
-* [DisblockOrigin](https://gist.github.com/TheSunCat/58fedaa19d6154ef3e4b2b676c286906) or [Discord Adblock](https://github.com/CroissantDuNord/discord-adblock) - Hide Nitro / Boost Upsells
 * [Discord Creation Date Check](https://github.com/hugonun/discordid2date) - Check Creation Date of User / Channel / Server
 * [Discord Lookup](https://discord.id/) - Look up a Discord User or Bot ID
 * [Guild Counter](https://rauf.wtf/guildcount) - Check How Many Servers You're In
@@ -693,6 +693,8 @@
 * [Fediverse People Directory](https://fediverse.info/explore/people) - Self-Submitted User Directory
 * [FediverseRedirect](https://github.com/zacharee/MastodonRedirect) - Frontend Redirect
 * [Bridgy Fed](https://fed.brid.gy/) - Fediverse Bridge
+* [Friendica](https://friendi.ca/) - Fediverse Bridge
+* [DiasporaFoundation](https://diasporafoundation.org/) - Fediverse Bridge
 * [PodcastAP](https://podcastap.com/) - Podcast Feed Bridge
 * [The Fediverse Report](https://fediversereport.com/) - Fediverse News
 * [FediBuzz](https://fedi.buzz/in/en) - Fediverse Trends
