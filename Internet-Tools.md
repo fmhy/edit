@@ -145,6 +145,7 @@
 * [Linkezo](https://linkezo.com/)
 * [Hipolink](https://hipolink.net/)
 * [Linkr](https://linkr.com/)
+* [LinkMix](https://linkmix.co/)
 * [LinkPop](https://linkpop.com/)
 * [Mylinx](https://mylinx.cc/)
 * [LinkBun](https://linkbun.io)
@@ -196,6 +197,7 @@
 * [Briefing](https://brie.fi/ng) - Video Chat
 * [Talky](https://talky.io/) - Video Chat
 * [GoTeam](https://goteam.video/) - Video Chat
+* [Chat Analytics](https://github.com/mlomb/chat-analytics) - Generate Chat Analytics
 
 ***
 
@@ -265,7 +267,6 @@
 * [OffshoreLeaks](https://offshoreleaks.icij.org/) - Offshore Company Leaks Search
 * [judyrecords](https://www.judyrecords.com/) - US Court Case Search
 * [Is it big?](https://isitbig.org/) - Brand Corporation Connection Search
-* [Matrix](https://matrix.itasoftware.com/) - Airfare Search
 * [ImportYeti](https://www.importyeti.com/) - Search U.S. Customs Shipment Records
 * [Social-Analyzer](https://github.com/qeeqbox/social-analyzer) - Profile Search CLI
 * [Justia](https://trademarks.justia.com/) - Trademark Search
