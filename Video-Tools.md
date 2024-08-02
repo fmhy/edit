@@ -66,6 +66,7 @@
 * [Shar.ec](https://shar.ec/)
 * [Screen Recorder](https://github.com/akon47/ScreenRecorder)
 * [ScreenREC](https://screen-rec.vercel.app/)
+* [KazCap](https://recorder.kazcap.com/)
 * [RecordScreen](https://recordscreen.io/)
 * [vokoscreenNG](https://github.com/vkohaupt/vokoscreenNG)
 * [Fluent Screen Recorder](https://github.com/MarcAnt01/Fluent-Screen-Recorder)
