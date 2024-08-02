@@ -329,7 +329,7 @@
 * [weibomiaopai](https://weibomiaopai.com/download-video-parser.php) - Multi-Site / Online
 * [SCrawler](https://github.com/AAndyProgram/SCrawler) - Multi-Site / Software / [Discord](https://discord.gg/uFNUXvFFmg)
 * [webvideo-downloader](https://github.com/jaysonlong/webvideo-downloader) - Multi-Site / CLI
-* [TikTok Scraper](https://github.com/drawrowfly/tiktok-scraper), [myfaveTT](https://myfavett.com/), [SnapTik](https://snaptik.app/), [tiktok-to-ytdlp](https://github.com/Dinoosauro/tiktok-to-ytdlp) - TikTok
+* [myfaveTT](https://myfavett.com/), [SnapTik](https://snaptik.app/), [tiktok-to-ytdlp](https://github.com/Dinoosauro/tiktok-to-ytdlp) - TikTok
 * [Threads Downloader](https://threadsdownloader.com/) - Threads
 * [urlescraper](https://github.com/Tomeriko96/urlescraper) - Urlebird
 * [DMVideo](https://dmvideo.download/) - DailyMotion / Online
