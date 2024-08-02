@@ -1134,8 +1134,10 @@
 * [JavaScript Algorithms](https://github.com/trekhleb/javascript-algorithms) - Algorithms and Data Structures in JavaScript
 * [Gummy](https://gummyjs.vercel.app/) - Easily Build JavaScript Programs
 * [Obfuscator](https://obfuscator.io/) or [js-confuser](https://js-confuser.com/) - JavaScript Obfuscators
-* [jsdfe](https://avotoko.github.io/javascript-deobfuscator/) or [Deobfuscate](https://deobfuscate.io/) - JavaScript Deobfuscators
-* [Underdash](https://surma.github.io/underdash/) - JavaSscript Snippets
+* [jsdfe](https://avotoko.github.io/javascript-deobfuscator/), [Deobfuscate](https://deobfuscate.relative.im/) or [deobfuscate.io/](https://deobfuscate.io/) - JavaScript Deobfuscators
+* [Unibeautify](https://github.com/Unibeautify/unibeautify) - JavaScript Beautifier
+* [Minify JS](https://minify-js.com/) - JavaScript Minifier
+* [Underdash](https://surma.github.io/underdash/) - JavaScript Snippets
 * [Learn Next.js](https://nextjs.org/learn) - Next.js Learning Resources
 * [Node.js Best Practices](https://github.com/goldbergyoni/nodebestpractices) - Node.js Style Guide
 * [Discord.js Guide](https://discordjs.guide/) or [An Idiot's Guide](https://anidiots.guide/) - Discord.js Bot Guides
