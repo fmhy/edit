@@ -2,67 +2,70 @@ import os
 
 
 headers = {
-    "AdblockVPNGuide.md": [
+    "adblockvpnguide.md": [
         "Adblocking / Privacy",
         "Adblocking, Privacy, VPN's, Proxies, Antivirus",
     ],
-    "AI.md": [
+    "ai.md": [
         "Artificial Intelligence",
         "Chat Bots, Text Generators, Image Generators, ChatGPT Tools",
     ],
-    "Android-iOSGuide.md": ["Android / iOS", "Apps, Jailbreaking, Android Emulators"],
-    "AudioPiracyGuide.md": [
+    "android-iosguide.md": ["Android / iOS", "Apps, Jailbreaking, Android Emulators"],
+    "audiopiracyguide.md": [
         "Music / Podcasts / Radio",
         "Stream Audio, Download Audio, Torrent Audio",
     ],
-    "Beginners-Guide.md": ["Beginners Guide", "A Guide for Beginners to Piracy"],
-    "DownloadPiracyGuide.md": [
+    "beginners-guide.md": ["Beginners Guide", "A Guide for Beginners to Piracy"],
+    "downloadpiracyguide.md": [
         "Downloading",
         "Download Sites, Software Sites, Open Directories",
     ],
-    "EDUPiracyGuide.md": ["Educational", "Courses, Documentaries, Learning Resources"],
-    "GamingPiracyGuide.md": [
+    "edupiracyguide.md": ["Educational", "Courses, Documentaries, Learning Resources"],
+    "gamingpiracyguide.md": [
         "Gaming / Emulation",
         "Download Games, ROMs, Gaming Tools",
     ],
-    "LinuxGuide.md": ["Linux / MacOS", "Apps, Software Sites, Gaming"],
-    "MISCGuide.md": ["Miscellaneous", "Extensions, Indexes, News, Health, Food, Fun"],
-    "NSFWPiracy.md": ["NSFW", "NSFW Indexes, Streaming, Downloading"],
-    "Non-English.md": ["Non-English", "International Piracy Sites"],
-    "ReadingPiracyGuide.md": [
+    "linuxguide.md": ["Linux / MacOS", "Apps, Software Sites, Gaming"],
+    "miscguide.md": ["Miscellaneous", "Extensions, Indexes, News, Health, Food, Fun"],
+    "nsfwpiracy.md": ["NSFW", "NSFW Indexes, Streaming, Downloading"],
+    "non-english.md": ["Non-English", "International Piracy Sites"],
+    "readingpiracyguide.md": [
         "Books / Comics / Manga",
         "Books, Comics, Magazines, Newspapers",
     ],
-    "gaming-tools.md": ["Gaming Tools", "Gaming Optimization, Game Launchers, Multiplayer"],
-    "DEVTools.md": ["Developer Tools", "Git, Hosting, App Dev, Software Dev"],
+    "gaming-tools.md": [
+        "Gaming Tools",
+        "Gaming Optimization, Game Launchers, Multiplayer",
+    ],
+    "devtools.md": ["Developer Tools", "Git, Hosting, App Dev, Software Dev"],
     "img-tools.md": ["Image Tools", "Image Editors, Generators, Compress"],
-    "Audio-Tools.md": [
+    "audio-tools.md": [
         "Audio Tools",
         "Audio Players, Audio Editors, Audio Downloaders",
     ],
-    "System-Tools.md": [
+    "system-tools.md": [
         "System Tools",
         "System Tools, Hardware Tools, Windows ISOs, Customization",
     ],
-    "File-Tools.md": ["File Tools", "Download Managers, File Hosting, File Archivers"],
-    "Video-Tools.md": [
+    "file-tools.md": ["File Tools", "Download Managers, File Hosting, File Archivers"],
+    "video-tools.md": [
         "Video Tools",
         "Video Players, Video Editors, Live Streaming, Animation",
     ],
-    "Text-Tools.md": ["Text Tools", "Text Editors, Pastebins, Fonts, Translators"],
-    # "Internet-Tools.md": ["Internet Tools", "Browsers, Extensions, Search Engines"],
-    "Social-Media-Tools.md": [
+    "text-tools.md": ["Text Tools", "Text Editors, Pastebins, Fonts, Translators"],
+    # "internet-tools.md": ["Internet Tools", "Browsers, Extensions, Search Engines"],
+    "social-media-tools.md": [
         "Social Media Tools",
         "Discord Tools, Reddit Tools, YouTube Tools",
     ],
-    "STORAGE.md": ["Storage", "Sections too big to fit on main pages"],
-    "TorrentPiracyGuide.md": ["Torrenting", "Torrent Clients, Torrent Sites, Trackers"],
-    "VideoPiracyGuide.md": [
+    "storage.md": ["Storage", "Sections too big to fit on main pages"],
+    "torrentpiracyguide.md": ["Torrenting", "Torrent Clients, Torrent Sites, Trackers"],
+    "videopiracyguide.md": [
         "Movies / TV / Anime",
         "Stream Videos, Download Videos, Torrent Videos",
     ],
     "base64.md": ["Base64", "Base64 storage"],
-    "UnsafeSites.md": ["Unsafe Sites", "Unsafe/harmful sites to avoid."],
+    "unsafesites.md": ["Unsafe Sites", "Unsafe/harmful sites to avoid."],
 }
 
 title = '<div class="space-y-2 not-prose"><h1 class="text-4xl font-extrabold tracking-tight text-primary underline lg:text-5xl lg:leading-[3.5rem]">'
@@ -82,13 +85,13 @@ def getHeader(page: str):
 
 
 def main():
-    files = os.listdir(".")
+    files = os.listdir("docs/")
     for file in files:
         if file in headers:
-            with open(file, "r", encoding="utf-8") as f:
+            with open(f"docs/{file}", "r", encoding="utf-8") as f:
                 content = f.read()
                 if not content.startswith("---"):
-                    with open(file, "w", encoding="utf-8") as f2:
+                    with open(f"docs/{file}", "w", encoding="utf-8") as f2:
                         header = getHeader(file)
                         f2.write(header + content)
 

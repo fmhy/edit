@@ -36,7 +36,11 @@ def individual(text: str):
     text = re.sub("/linuxguide#software-sites2", "/linuxguide#software-sites-1", text)
     text = re.sub("/linuxguide#software_sites", "/linuxguide#software-sites", text)
     text = re.sub("/non-english#reading10", "/non-english#reading-9", text)
-    text = re.sub("/storage#satellite-.26amp.3B_street_view_maps", "/storage#satellite-street-view-maps", text)
+    text = re.sub(
+        "/storage#satellite-.26amp.3B_street_view_maps",
+        "/storage#satellite-street-view-maps",
+        text,
+    )
 
     # Base64-decoder script link
     text = re.sub(
@@ -259,15 +263,15 @@ def replace_urls(text):
 
 
 def main():
-    files = os.listdir(".")
+    files = os.listdir("docs")
     for file in files:
         if file.endswith(".md"):
-            with open(file, "r", encoding="utf-8") as f:
+            with open(f"docs/{file}", "r", encoding="utf-8") as f:
                 content = f.read()
                 content = replace_urls(content)
-                if file == "Beginners-Guide.md":
+                if file == "beginners-guide.md":
                     content = beginners_guide(content)
-                with open(file, "w", encoding="utf-8") as f2:
+                with open(f"docs/{file}", "w", encoding="utf-8") as f2:
                     f2.write(content)
 
 
@@ -277,5 +281,5 @@ what = """
 ![meow](https://files.catbox.moe/901c40.gif) 
 """
 
-with open("meow.md", "w", encoding="utf-8") as file:
+with open("docs/meow.md", "w", encoding="utf-8") as file:
     file.write(what)

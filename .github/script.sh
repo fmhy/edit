@@ -1,4 +1,3 @@
-
 set -e
 
 python .github/replace.py
