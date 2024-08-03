@@ -100,6 +100,7 @@ export default defineConfig({
         items: [
           { text: '📰 Posts', link: '/posts' },
           { text: '💬 Feedback', link: '/feedback' },
+          { text: '🏞 Wallpapers', link: '/other/wallpapers' },
           { text: '📋 snowbin', link: 'https://pastes.fmhy.net' },
           { text: '🔍 SearXNG', link: 'https://searx.fmhy.net/' },
           { text: '🔍 Whoogle', link: 'https://whoogle.fmhy.net/' }
