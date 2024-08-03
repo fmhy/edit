@@ -964,21 +964,17 @@
 
 ### FBOX Clones
 
-* [Flix2day](https://flix2day.to/home)
+* [Flix2day](https://flix2day.to/)
 * [Mov2day](https://mov2day.to/)
 * [2flix](https://2flix.to/)
-* [1mov](https://1mov.to/)
-* [Flixflare](https://flixflare.to/)
+* [SflixTV](https://sflixtv.to/)
 * [Flixhive](https://flixhive.to/)
-* [Flixrave](https://flixrave.to/)
 * [CineZone](https://cinezone.to/)
-* [WatchSeries](https://watchseriesx.to/)
+* [WatchSeriesX](https://watchseriesx.to/)
 * [Theflixtor](https://theflixtor.to/)
-* [Losmovies](https://losmoviesz.to/)
 * [VumooX](https://vumoox.to/)
-* [HuraWatch](https://hurawatch2.to/)
+* [HuraWatch2](https://hurawatch2.to/)
 * [TheFlixersz](https://theflixerz.to/)
-* [MyFlixersz](https://myflixerz2.to/)
 
 ***
 
