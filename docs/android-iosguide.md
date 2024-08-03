@@ -924,7 +924,7 @@
 
 ***
 
-## ▷ YouTube Apps
+## ▷ Android YouTube Apps
 
 * ⭐ **[ReVanced Manager](https://revanced.app/)** - Ad-Free YouTube Patcher / [YT Guide](https://redd.it/xlcny9) / [Discord](https://discord.com/invite/rF2YcEjcrT)
 * ⭐ **[LibreTube](https://libretube.dev/)** - Ad-free YouTube
@@ -1216,7 +1216,6 @@
 * ⭐ **[Stremio](https://web.stremio.com/)** - Movies / TV / Anime / Use VPN / [Alt Method](https://files.catbox.moe/dins97.mp4)
 * ⭐ **[Streamer](https://github.com/StreamerApp/Streamer)** - Movies / TV
 * ⭐ **[Kodi](https://kodi.tv/)** - Movies / TV / Anime / [/r/Addons4Kodi](https://www.reddit.com/r/Addons4Kodi/) / [Tracker](https://kinkeadtech.com/best-kodi-streaming-addons/) / [Trending](https://kodiapps.com/addons-chart)
-* ⭐ **[Yattee](https://github.com/yattee/yattee)**, [Pretub](https://apps.apple.com/in/app/pretub-no-ads-in-video/id1603057438) or [Video Lite](https://apps.apple.com/in/app/video-lite/id1598997500) - YouTube Players
 * [Swiftfin](https://apps.apple.com/us/app/swiftfin/id1604098728) - Jellyfin Client
 * [Wako-TV](https://apps.apple.com/us/app/wako-tv/id1456393880) - Movies / TV / Anime / Real Debrid required
 * [Video Lite](https://apps.apple.com/sa/app/video-lite-no-ads/id1598997500) - Video Browser with Adblock
@@ -1226,7 +1225,6 @@
 * [EncoreTVD](https://apps.apple.com/us/app/encoretvb-english/id1191642382) - Chinese Drama
 * [STBEmu](https://apps.apple.com/app/stbemutv/id1567306197) - Emulate an STB and Watch IPTV
 * [VLC](https://apps.apple.com/ca/app/vlc-for-mobile/id650377962), [Breeze](https://apps.apple.com/app/id6499268526), [SPlayer](https://splayer.dev/), [Loader](https://apps.apple.com/us/app/documents-loader/id1442498151), [Pojobox](https://apps.apple.com/us/app/pojo-4k-hd-video-music-player/id1454098557) or [Infuse 6](https://apps.apple.com/us/app/infuse-6/id1136220934) - Video Players
-* [uYouPlus](https://github.com/qnblackcat/uYouPlus), [uYouEnhanced](https://github.com/arichornlover/uYouEnhanced), [YTLitePlus](https://github.com/Balackburn/YTLitePlus/), [YT Tweaked](https://rentry.co/FMHYBase64#yt-tweaked-ipas), [YouTubeRebornPlus](https://github.com/arichornlover/YouTubeRebornPlus) or [Cercube](https://rejail.ru/pack/cercube) - Modded YouTube iPAs
 * [Tunity](https://tunity.com/) - Hear Any Muted TV
 
 ***
@@ -1238,6 +1236,20 @@
 * [Tweaked Crunchyroll ++](http://www.iosemulatorspot.com/tweaked-crunchyroll/) - Tweaked Crunchyroll
 * [MyAnimeList Client](https://apps.apple.com/us/app/myanimelist-official/id1469330778) - MyAnimeList Client
 * [Otraku](https://github.com/lotusprey/otraku), [Ryuusei](https://ryuusei.moe/) or [AniHyou](https://axiel7.github.io/anihyou) / [GitHub](https://github.com/axiel7/AniHyou-android) - AniList Apps
+
+***
+
+## ▷ iOS YouTube Apps
+
+* ⭐ **[Yattee](https://github.com/yattee/yattee)** - YouTube Player
+* [Pretub](https://apps.apple.com/in/app/pretub-no-ads-in-video/id1603057438) - YouTube Player
+* [Video Lite](https://apps.apple.com/in/app/video-lite/id1598997500) - YouTube Player
+* [uYouPlus](https://github.com/qnblackcat/uYouPlus) - Modded YouTube iPA
+* [uYouEnhanced](https://github.com/arichornlover/uYouEnhanced) - Modded YouTube iPA
+* [YTLitePlus](https://github.com/Balackburn/YTLitePlus/) - Modded YouTube iPA
+* [YT Tweaked](https://rentry.co/FMHYBase64#yt-tweaked-ipas) - Modded YouTube iPA
+* [YouTubeRebornPlus](https://github.com/arichornlover/YouTubeRebornPlus) - Modded YouTube iPA
+* [Cercube](https://rejail.ru/pack/cercube) - Modded YouTube iPA
 
 ***
 
