@@ -52,7 +52,7 @@
 * [AllYouLike](https://allyoulike.org/) - Video / Audio Books / Magazines / ROMs / Comics / NSFW
 * [DDLValley](https://www.ddlvalley.me/) - Video / Audio / ROMs / Books / Comics / Magazines / [Forum](https://forum.ddlvalley.me/)
 * [MaxRelease](https://max-rls.com/) - Video / Audio / Magazines
-* [DarkSoftware](https://darksoftware.net/) - Video / Audio / ROMs
+* [AyakaLounge](https://ayakalounge.me/) - Video / Audio / ROMs
 * [2DDL](https://2ddl.it/) - Video / Audio / Books / Comics / Magazines
 * [WarezLover](https://warezlover.xyz/) - Video / Audio / ROMs / Books / Magazines
 * [TFPDL](https://tfpdl.se/), [2](https://tfpdl.to/) - Video / Magazines / NSFW
@@ -151,7 +151,6 @@
 * [Heidoc](https://www.heidoc.net/joomla/)
 * [AsanDL](http://asandl.com/) - Use [translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)
 * [RetroSystemRevival](https://retrosystemsrevival.blogspot.com/)
-* [ZOMBIE-WAREZ](https://pastebin.com/Mv32ibns)
 * [Libreware](https://t.me/Libreware), [PC Cracked Software](https://t.me/pc_cracked_softwares) or [Xetrin RePacks](https://t.me/repacks_by_xetrin) - Telegram Channels
 * [Rarewares](https://www.rarewares.org/) - Rare Software
 * [PLC4Me](https://plc4me.com/) - Automation Software
@@ -217,7 +216,7 @@
 # ► File Sharing Apps
 
 * ⭐ **[Soulseek](https://slsknet.org/)** or [Nicotine+](https://nicotine-plus.org/) - File Sharing App / [Stats](https://github.com/mrusse/Slsk-Upload-Stats-Tracker) / [Server App](https://github.com/slskd/slskd)
-* [DC++](https://dcplusplus.sourceforge.io/index.html) - File Sharing App / [Clients](https://dchublists.com/clients/) / [Hubs](https://dchublists.com/), [2](https://dchublist.org/), [3](https://dchublist.biz/)
+* [DC++](https://dcplusplus.sourceforge.io/index.html) - File Sharing App / [Hubs](https://dchublists.com/), [2](https://dchublist.org/), [3](https://dchublist.biz/)
 * [eMule](https://www.emule-project.net/), [Fopnu](https://fopnu.com/), [Shareaza](https://shareaza.sourceforge.net/) or [eMule Plus](https://sourceforge.net/projects/emuleplus/) - File Sharing App
 * [WinMX](https://patch.winmxconex.com/) - File Sharing App / [Forum](https://forum.winmxworld.com/)
 
