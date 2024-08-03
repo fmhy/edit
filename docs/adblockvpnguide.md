@@ -495,7 +495,6 @@
 * [Sitenable](https://freeproxy.io/)
 * [UnblockSites](https://unblocksites.online/)
 * [Proxyium](https://proxyium.com/)
-* [Proxy Site](https://proxysite.cloud/)
 * [Google Translate](https://translate.google.com/) / [Proxy Explanation](https://redd.it/fawkjy), [2](https://ibb.co/BtWc8ML)
 * [Proxy-Checker](https://proxy-checker.net/), [proxy-scraper](https://github.com/iw4p/proxy-scraper), [What is my Proxy](http://www.whatismyproxy.com/), [proxy-scraper-checker](https://github.com/monosans/proxy-scraper-checker), [Socker](https://github.com/TheSpeedX/socker) or [Unfx Proxy Checker](https://openproxy.space/software/proxy-checker) / [GitHub](https://github.com/openproxyspace/unfx-proxy-checker) - Proxy Scrapers / Checkers
 * [CheckSocks5](https://checksocks5.com/) - Socks5 Proxy Checker
