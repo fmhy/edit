@@ -332,7 +332,6 @@
 * [webvideo-downloader](https://github.com/jaysonlong/webvideo-downloader) - Multi-Site / CLI
 * [myfaveTT](https://myfavett.com/), [SnapTik](https://snaptik.app/), [tiktok-to-ytdlp](https://github.com/Dinoosauro/tiktok-to-ytdlp) - TikTok
 * [Threads Downloader](https://threadsdownloader.com/) - Threads
-* [urlescraper](https://github.com/Tomeriko96/urlescraper) - Urlebird
 * [DMVideo](https://dmvideo.download/) - DailyMotion / Online
 * [PinCase](https://pincase.xyz/) - Pinterest / Online
 * [hls-downloader](https://github.com/puemos/hls-downloader), [hls extension](https://webextension.org/listing/hls-downloader.html) or [hlsloader](https://www.hlsloader.com/) - HLS Downloaders
