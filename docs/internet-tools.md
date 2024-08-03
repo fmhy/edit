@@ -418,6 +418,7 @@
 * [Kutt](https://kutt.it/) - `kutt.it/sQnBLz`
 * [wal.ee](https://wal.ee/) - `wal.ee/zluqo`
 * [n9.cl](https://n9.cl/) - `n9.cl/6gjfj`
+* [refer.is](https://refer.is/) - `refer.is/gpdvk7zf`
 * [upto](https://upto.site/) - `upto.site/3e04d1`
 * [xy2.eu](https://xy2.eu/) - `xy2.eu/p7YP`
 * [goo.su](https://goo.su/) - `goo.su/7pNRjy7`/ [Chrome Extension](https://chromewebstore.google.com/detail/free-link-shortener-goosu/clcoifeibkncgnegebeehkodandleohn)
