@@ -44,7 +44,7 @@
 * ⭐ **[LMSYS Chat](https://chat.lmsys.org/)** - Chat and Compare Multiple Chatbots
 * [LLM Playground](https://llmplayground.net/) - Multiple Chatbots / [Discord](https://discord.com/invite/q55gsH8z5F) / [API](https://api.discord.rocks/)
 * [feyn](https://feyn.chat/) - GPT-4o / Multiple Chatbots
-* [OAICHAT](https://chat.oaichat.cc/), [2](https://chat.sorapi.dev/), [3](https://zhucn.org/), [4](https://ffa.chat/) - GPT-4o / Multiple Chatbots
+* [OAICHAT](https://chat.oaichat.cc/), [2](https://chat.sorapi.dev/), [3](https://ffa.chat/) - GPT-4o / Multiple Chatbots
 * [GPT4o.so](https://gpt4o.so/app) - GPT-4o
 * [LibreChat](https://librechat.ai/) - Multiple Chatbots
 * [DuckDuckGo AI](https://duck.ai/) - Multiple Chatbots
@@ -287,14 +287,13 @@
 * [Craiyon](https://www.craiyon.com/) / 10 Daily / [Github](https://github.com/borisdayma/dalle-mini) / [Colab](https://colab.research.google.com/github/borisdayma/dalle-mini/blob/main/tools/inference/inference_pipeline.ipynb)
 * [POKEIT](https://pokeit.ai/) / 10 Daily
 * [PixAI](https://pixai.art/) / 10 Daily
-* [Krea](https://search.krea.ai/) / [Discord](https://discord.gg/rJurUAR8Kz)
+* [Krea](https://www.krea.ai/home) / [Discord](https://discord.gg/rJurUAR8Kz)
 * [ArtHub.ai](https://arthub.ai/)
 * [HotPot](https://hotpot.ai/)
 * [clipdrop](https://clipdrop.co/tools)
 * [imgsys](https://imgsys.org/) - Compare AI Image Generators
 * [MemeCam](https://www.memecam.io/) - AI Meme Generator
 * [Genie](https://lumalabs.ai/genie), [Shap-e](https://github.com/openai/shap-e), [Stable Dreamfusion](https://github.com/ashawkey/stable-dreamfusion) or [ThreeStudio](https://github.com/threestudio-project/threestudio) - 3D Image Generators
-* [Insta-3D](https://huggingface.co/spaces/ilumine-AI/Insta-3D) - Turn 2D images into 3D spaces
 * [Interactive Scenes](https://lumalabs.ai/interactive-scenes) - Generate Interactive Scenes
 * [IllusionDiffusion](https://huggingface.co/spaces/AP123/IllusionDiffusion) - Illusion Artwork Generator
 
@@ -325,7 +324,7 @@
 
 * 🌐 **[RentrySD](https://rentry.org/RentrySD/)**, **[Pharmapsychotic](https://pharmapsychotic.com/tools.html)**, [Paper2GUI](https://github.com/Baiyuetribe/paper2gui/blob/main/README_en.md), [LocalModelsLinks](https://rentry.org/LocalModelsLinks), [SD Goldmine](https://rentry.org/sdgoldmine), [Akashic](https://github.com/Maks-s/sd-akashic), [sdg-link](https://rentry.org/sdg-link), [SDTools](https://sdtools.org) or [AI Creation Tools](https://docs.google.com/spreadsheets/d/1zYJUM-srhgIA7wrj4Pe4QqepAsHIEC00DydoTPv4PWg/edit#gid=0) - AI Image Resources
 * 🌐 **[CivitAI](https://civitai.com/)** or [Stable Diffusion Models](https://cyberes.github.io/stable-diffusion-models/) - SD Models Index
-* 🌐 **[PromptMania](https://promptomania.com/)**, [PTSearch](https://www.ptsearch.info/tags/list/) or [PublicPrompts](https://publicprompts.art/) / [Discord](https://discord.com/invite/jvQJFFFx26) - Prompt Indexes
+* 🌐 **[PromptMania](https://promptomania.com/)** or [PublicPrompts](https://publicprompts.art/) / [Discord](https://discord.com/invite/jvQJFFFx26) - Prompt Indexes
 * ⭐ **[A Traveler’s Guide to the Latent Space](https://sweet-hall-e72.notion.site/A-Traveler-s-Guide-to-the-Latent-Space-85efba7e5e6a40e5bd3cae980f30235f)** - AI Art Guide
 * ⭐ **[Voldy](https://rentry.org/voldy)**, [SD Quickstart](https://redd.it/xvhavo) or [1 Min Stable Diffusion](https://youtu.be/l3JjTDvyVdw) - Stable Diffusion Guides
 * ⭐ **[CLIP Interrogator](https://huggingface.co/spaces/pharma/CLIP-Interrogator)** / [2](https://huggingface.co/spaces/fffiloni/CLIP-Interrogator-2) - Determine Likely Used Image Prompts
