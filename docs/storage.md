@@ -91,9 +91,14 @@
 
 ## Avatar / Logo Creators
 
-* [PixelMe](https://xsgames.co/pixelme/) - 8bit Avatar Creator
-
-[ArtFlow](https://app.artflow.ai/), [Avatar Mixer](https://kenney.itch.io/avatar-mixer), [Bitmoji](https://www.bitmoji.com/), [Avatar Maker](https://avatarmaker.com/), [Pravatar](https://pravatar.cc/), [MultiAvatar](https://multiavatar.com/), [Personas](https://personas.draftbit.com/), [react-nice-avatar](https://nice-avatar.dapi.to/), [Avataaars](https://getavataaars.com/), [Logo Makr](https://logomakr.com/), [Logo Fast](https://shipfa.st/tools/logo-fast), [Hatchful](https://www.shopify.com/tools/logo-maker), [Logomak](https://logomak.com/), [The Logo Wizard](https://www.thelogowizard.com/), [DesignEvo](https://designevo.com/), [LogoFreeway](https://logofreeway.com/logos.php), [Logoshi](https://www.logoshi.com/), [logofa.st](https://logofa.st/), [OnlineLogoMaker](https://www.onlinelogomaker.com/), [Free Logo Maker](https://freelogomaker.net/), [LogoMaker](https://www.namecheap.com/logo-maker/app/new/),[ACME](https://acme.com/labelmaker/) / [Note](https://i.ibb.co/B3Mn3Hq/b7a4cf526ad1.png), [FontIcon](https://gauger.io/fonticon/), [PFPMaker](https://pfpmaker.com/), [IconsFlow](https://iconsflow.com/), [Flat-Icon-Surge](https://flat-icon.surge.sh/), [favicon.io](https://favicon.io/), [Favic-o-Matic](https://favicomatic.com/), [m.a2e.ai](https://m.a2e.ai/), [LogoMVP](https://logomvp.com/)
+* ⭐ **[Picrew](https://picrew.me/en/)** - Avatar Creator
+* [PixelMe](https://xsgames.co/pixelme/) or [Avatar Mixer](https://kenney.itch.io/avatar-mixer) - 8bit Avatar Creators
+* [Bitmoji](https://www.bitmoji.com/) - Full Body Avatar Creator
+* [Avatar Maker](https://avatarmaker.com/), [Avataaars](https://getavataaars.com/), [nice-avatar](https://nice-avatar.dapi.to/) or [Personas](https://personas.draftbit.com/) - Simple Avatar Creators
+* [MultiAvatar](https://multiavatar.com/) - Generate Random Avatars
+* [Logo Makr](https://logomakr.com/), [DesignEvo](https://designevo.com/) or [OnlineLogoMaker](https://www.onlinelogomaker.com/) - Logo Creators
+* [Logo Fast](https://logofa.st/), [LogoMVP](https://logomvp.com/) or [LogoFreeway](https://logofreeway.com/logos.php) - Simple Logo Creators based on Premade Icons
+* [hatchful](https://www.shopify.com/tools/logo-maker) or [LogoMaker](https://www.namecheap.com/logo-maker/app/new/) - Generate Logos based on Project Name & Style
 
 ***
 
