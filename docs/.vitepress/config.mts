@@ -103,7 +103,8 @@ export default defineConfig({
           { text: '🏞 Wallpapers', link: '/other/wallpapers' },
           { text: '📋 snowbin', link: 'https://pastes.fmhy.net' },
           { text: '🔍 SearXNG', link: 'https://searx.fmhy.net/' },
-          { text: '🔍 Whoogle', link: 'https://whoogle.fmhy.net/' }
+          { text: '🔍 Whoogle', link: 'https://whoogle.fmhy.net/' },
+          { text: '🔗 Bookmark HTML', link: 'https://github.com/Rust1667/make-fmhy-bookmarks' }
         ]
       }
     ],
