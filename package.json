@@ -3,14 +3,14 @@
   "type": "module",
   "packageManager": "pnpm@9.5.0",
   "scripts": {
-    "docs:dev": "vitepress dev",
-    "docs:build": "vitepress build",
-    "docs:preview": "vitepress preview",
+    "docs:dev": "vitepress dev docs/",
+    "docs:build": "vitepress build docs/",
+    "docs:preview": "vitepress preview docs/",
     "api:prepare": "nitropack prepare",
     "api:dev": "nitropack dev",
     "api:build": "nitropack build",
     "api:preview": "node .output/server/index.mjs",
-    "og:dev": "x-satori -t ./.vitepress/hooks/Template.vue -c ./.vitepress/hooks/satoriConfig.ts --dev",
+    "og:dev": "x-satori -t ./docs/.vitepress/hooks/Template.vue -c ./.vitepress/hooks/satoriConfig.ts --dev",
     "format": "prettier -w --cache --check .",
     "lint": "biome lint .",
     "lint:fix": "biome lint . --write",
@@ -23,7 +23,6 @@
     "@resvg/resvg-js": "^2.6.0",
     "consola": "^3.2.3",
     "feed": "^4.2.2",
-    "fs-extra": "^11.2.0",
     "itty-fetcher": "^0.9.4",
     "nitro-cors": "^0.7.1",
     "nitropack": "latest",
@@ -41,11 +40,9 @@
     "@iconify-json/heroicons-solid": "^1.1.11",
     "@iconify-json/twemoji": "^1.1.15",
     "@taskylizard/biome-config": "^1.0.1",
-    "@types/fs-extra": "^11.0.4",
     "@types/node": "^20.14.11",
     "@types/nprogress": "^0.2.3",
     "prettier": "^3.3.3",
-    "tailwindcss": "^3.4.6",
     "wrangler": "^3.68.0"
   }
 }

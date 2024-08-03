@@ -2,7 +2,7 @@
   "$schema": "https://biomejs.dev/schemas/1.8.3/schema.json",
   "extends": ["@taskylizard/biome-config"],
   "files": {
-    "ignore": [".vitepress/**/*.vue", ".vitepress/vue-shim.d.ts"]
+    "ignore": ["docs/.vitepress/**/*.vue", "docs/.vitepress/vue-shim.d.ts"]
   },
   "formatter": {
     "enabled": false
