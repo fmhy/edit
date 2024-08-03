@@ -399,6 +399,7 @@
 * ⭐ **[t.ly](https://t.ly/)** - `t.ly/qqH6`
 * ⭐ **[is.gd](https://www.is.gd/)** - `is.gd/9dkISG`
 * ⭐ **[Reduced](https://reduced.to/)** - `reduced.to/nuwad`
+* [refer.is](https://refer.is/) - `refer.is/gpdvk7zf` [Chrome Extension](https://chromewebstore.google.com/detail/link-shortener/limbafgpllbmaiggknoeanhlfdhonlnm)
 * [v.gd](https://v.gd/) - `v.gd/Gj8oLR`
 * [gg.gg](https://gg.gg/) - `gg.gg/oggp7`
 * [Linkify](https://creator.linkify.cz/) - `linkify.cz/1a0O`
