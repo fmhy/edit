@@ -170,6 +170,7 @@
 * [StreamLink](https://streamlink.github.io/) - Extract Videos from Sites to Players / [Twitch Adblock](https://github.com/2bc4/streamlink-ttvlol)
 * [Hohoema](https://github.com/tor4kichi/Hohoema) - Nico Nico Video Player
 * [polsy.org.uk](https://polsy.org.uk/) - Alt Players for Video Sites
+* [Potplayer](https://potplayer.daum.net/) - Hardware accelerated video player and supports 3D.
 
 ***
 
