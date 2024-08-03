@@ -1041,7 +1041,6 @@
 * [Watusi](https://watusi.fouadraheb.com/) - Modded WhatsApp
 * [GoodLinks](https://goodlinks.app/), [Plinky](https://www.plinky.app/), [Omnivore](https://omnivore.app/) or [DoMarks](https://www.domarks.app/) - Bookmark Managers
 * [Audoir](https://audoir.com/) - Lyric Text Editor
-* [Group Transcribe](https://apps.apple.com/us/app/group-transcribe/id1527145885) - Real Time Transcribing
 * [TranslatedLabs](https://translatedlabs.com/) - Translation Apps
 * [Scan Thing](https://apps.apple.com/us/app/scan-thing-scan-anything/id1542730895) - Scan & Digitize Anything
 * [magicplan](https://apps.apple.com/us/app/magicplan/id427424432) - AR & LiDAR Scanning
@@ -1123,7 +1122,6 @@
 * [AdGuard Safari](https://adguard.com/en/adguard-safari/overview.html) - AdGuard for Safari
 * [KF Panda-Player](https://apps.apple.com/us/app/kfpanda-player/id1460792262) - Turn any site into an App, without Ads
 * [1Blocker](https://1blocker.com/) - Adblocker
-* [DNSCloak](https://apps.apple.com/us/app/dnscloak-secure-dns-client/id1452162351) - DNS Adblockers
 * [Video Lite](https://apps.apple.com/sa/app/video-lite-no-ads/id1598997500) - Video Browser w/Adblock
 * [Apollo](https://apps.apple.com/au/app/apollo-for-reddit/id979274575) - Adfree Reddit Client / Use [Artemis](https://chariz.com/get/artemis) or [Tweak](https://redd.it/14osa6i)
 * [iSponsorBlock](https://github.com/Galactic-Dev/iSponsorBlock) - Skip YouTube Sponsorships
@@ -1224,7 +1222,7 @@
 * [Viki](https://apps.apple.com/us/app/viki-asian-tv-dramas-movies/id445553058) - Asian Drama
 * [EncoreTVD](https://apps.apple.com/us/app/encoretvb-english/id1191642382) - Chinese Drama
 * [STBEmu](https://apps.apple.com/app/stbemutv/id1567306197) - Emulate an STB and Watch IPTV
-* [VLC](https://apps.apple.com/ca/app/vlc-for-mobile/id650377962), [Breeze](https://apps.apple.com/app/id6499268526), [SPlayer](https://splayer.dev/), [Loader](https://apps.apple.com/us/app/documents-loader/id1442498151), [Pojobox](https://apps.apple.com/us/app/pojo-4k-hd-video-music-player/id1454098557) or [Infuse 6](https://apps.apple.com/us/app/infuse-6/id1136220934) - Video Players
+* [VLC](https://apps.apple.com/ca/app/vlc-for-mobile/id650377962), [SPlayer](https://splayer.dev/), [Loader](https://apps.apple.com/us/app/documents-loader/id1442498151), [Pojobox](https://apps.apple.com/us/app/pojo-4k-hd-video-music-player/id1454098557) or [Infuse 6](https://apps.apple.com/us/app/infuse-6/id1136220934) - Video Players
 * [Tunity](https://tunity.com/) - Hear Any Muted TV
 
 ***
@@ -1245,10 +1243,8 @@
 * [Pretub](https://apps.apple.com/in/app/pretub-no-ads-in-video/id1603057438) - YouTube Player
 * [Video Lite](https://apps.apple.com/in/app/video-lite/id1598997500) - YouTube Player
 * [uYouPlus](https://github.com/qnblackcat/uYouPlus) - Modded YouTube iPA
-* [uYouEnhanced](https://github.com/arichornlover/uYouEnhanced) - Modded YouTube iPA
 * [YTLitePlus](https://github.com/Balackburn/YTLitePlus/) - Modded YouTube iPA
 * [YT Tweaked](https://rentry.co/FMHYBase64#yt-tweaked-ipas) - Modded YouTube iPA
-* [YouTubeRebornPlus](https://github.com/arichornlover/YouTubeRebornPlus) - Modded YouTube iPA
 * [Cercube](https://rejail.ru/pack/cercube) - Modded YouTube iPA
 
 ***
@@ -1262,6 +1258,4 @@
 * [SideBooks](https://apps.apple.com/us/app/sidebooks/id409777225) - PDF Reader
 * [BookPlayer](https://github.com/TortugaPower/BookPlayer) - Audiobook Player
 * [MangaToon](https://apps.apple.com/us/app/mangatoon-manga-reader/id1385287093), [ZETSU](https://apps.apple.com/us/app/zetsu-by-orion/id1510161371) or [Hanami](https://github.com/oolxg/Hanami) - Manga Reader
-* [NovelLoop](https://apps.apple.com/in/app/novelloop/id1170755867) - Light Novels
 * [Libby](https://apps.apple.com/us/app/libby-by-overdrive/id1076402606) - Borrow Digital Library Books
-* [K2pdfopt](https://willus.com/k2pdfopt/) - Optimize PDF/DJVU Files for Mobile E-Readers
