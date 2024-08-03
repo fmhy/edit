@@ -188,6 +188,7 @@
 * [AI Search](https://ai-search.io), [What AI Can Do Today](https://whataicandotoday.com/) or [FindAISites](https://findaisites.pro/) - AI Index Search
 * [Toolnest](https://toolnest.ai/) - AI Directory
 * [YP for AI](https://www.ypforai.com) - AI Directory
+* [intersys](https://intersys.ai) - AI Directory
 * [Awesome AI Tools](https://github.com/mahseema/awesome-ai-tools) - AI Directory
 * [ToolDirectory](https://www.tooldirectory.ai/) - AI Directory
 * [BasedTools](https://www.basedtools.ai/) - AI Directory / [Discord](https://discord.gg/D8wYxUvwTD)
