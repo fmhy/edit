@@ -355,7 +355,7 @@
 
 * 🌐 **[Awesome Docker](https://moistcatawumpus.github.io/awesome-docker/)** - Docker Services Index
 * ⭐ **[Docker](https://www.docker.com/)** - Build, Manage and Run Apps in Containers
-* ⭐ **[portainer](https://portainer.io/)**, [sudobox](https://sudobox.io/) / [Discord](https://discord.gg/Ebh9rKQ5Ws), [yacht](https://yacht.sh/), [moncho](https://moncho.github.io/dry/) or [podman](https://podman.io/) / [2](https://podman-desktop.io/) - Container Managers
+* ⭐ **[portainer](https://portainer.io/)**, [yacht](https://yacht.sh/), [moncho](https://moncho.github.io/dry/) or [podman](https://podman.io/) / [2](https://podman-desktop.io/) - Container Managers
 * ⭐ **[Composerize](https://www.composerize.com/)**, [2](https://github.com/irbigdata/data-dockerfiles) - Compose Docker Files
 * ⭐ **[Hub Docker](https://hub.docker.com/)**, [2](https://linuxserver.io/), [3](https://hotio.dev/) - Docker Images
 * [Docker Desktop](https://www.docker.com/products/docker-desktop/) - Docker Desktop App
@@ -451,14 +451,14 @@
 * [MMDeploy](https://mmdeploy.readthedocs.io/en/latest/) / [GitHub](https://github.com/open-mmlab/mmdeploy) - Deep Learning Model Deployment Toolset
 * [MLC LLM](https://llm.mlc.ai/) - Native Language Model Deployment
 * [Langchain](https://python.langchain.com) - Build Apps via LLM / [Extract](https://github.com/langchain-ai/langchain-extract)
-* [PlugBear](https://plugbear.io/) - Connect LLMs to Apps
+* [RunBear](https://runbear.io/) - Connect LLMs to Apps
 * [GPTCache](https://gptcache.readthedocs.io) - LLM Response Cache
 * [Code2Prompt](https://github.com/mufeedvh/code2prompt) - Convert Codebase to LLM Prompt
 * [Dump Dir](https://github.com/fargusplumdoodle/dump_dir) - Provide Context to LLMs via Clipboard Content
 * [OpenCog](https://opencog.org/) or [AForge](https://github.com/andrewkirillov/AForge.NET) - Artificial Intelligence Frameworks
 * [Nixified](https://nixified.ai/) - Nix Flake for AI Projects
 * [Approaching (Almost) Any Machine Learning Problem](https://github.com/abhishekkrthakur/approachingalmost/blob/master/AAAMLP.pdf) - Machine Learning Problem-Solving Book
-* [MetaAcademy](https://metacademy.org/), [AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners), [Beginner Guides](https://microsoft.github.io/generative-ai-for-beginners/) or [HF Learn](https://huggingface.co/learn) - Machine Learning Guides
+* [AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners), [Beginner Guides](https://microsoft.github.io/generative-ai-for-beginners/) or [HF Learn](https://huggingface.co/learn) - Machine Learning Guides
 * [ML Course Notes](https://github.com/dair-ai/ML-Course-Notes) - Machine Learning Course Notes
 * [100-Days-Of-ML-Code](https://github.com/Avik-Jain/100-Days-Of-ML-Code) or [Practical Deep Learning](https://course.fast.ai/) - Machine Learning Coding Lessons
 * [minitorch](https://github.com/minitorch/minitorch) - Machine Learning Engineering Course Code
@@ -634,7 +634,7 @@
 * [Datalore](https://datalore.jetbrains.com/) - Cloud IDE
 * [DeepNote](https://deepnote.com/) - Cloud IDE
 * [Cloud9](https://aws.amazon.com/cloud9/) - Cloud IDE
-* [Glitch](https://glitch.com/) - Cloud IDE / [Replit Import](https://replit.com/glitch) / [GitHub](https://github.com/m3o/m3o)
+* [Glitch](https://glitch.com/) - Cloud IDE / [Replit Import](https://replit.com/glitch)
 * [JSFiddle](https://jsfiddle.net/) - Online Code Editor
 * [Collabedit](https://collabedit.com/) - Online Code Editor
 * [CoderPad](https://pad.new/) - Online Code Editor
@@ -778,7 +778,6 @@
 * [90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps) - Learn DevOps
 * [Hasura](https://hasura.io/learn/) - GraphQL Courses
 * [systemd-by-example](https://systemd-by-example.com/) - Systemd Learning
-* [Slip](https://www.slip.so/) - Build Programming Courses
 * [The Linux Kernel](https://www.kernel.org/doc/html/latest/) - Linux Kernel Development Guides / [Archives](https://kernel.org/)
 * [Workbench](https://apps.gnome.org/Workbench) / [GitHub](https://github.com/workbenchdev/Workbench) - Learn / Experiment with Gnome
 
@@ -1533,7 +1532,7 @@
 * [Metasploit](https://www.metasploit.com/) / [Cheatsheet](https://www.comparitech.com/net-admin/metasploit-cheat-sheet/) - Pentesting Framework
 * [MobileApp-Pentest-Cheatsheet](https://github.com/tanprathan/MobileApp-Pentest-Cheatsheet) - App Pentesting Cheatsheet
 * [Pentest Contracts](https://github.com/cure53/Contracts) - Security Contract Templates
-* [Kali NetHunter](https://store.nethunter.com/en/) or [AndroGuard](https://github.com/androguard/androguard) - Penetration Testing / Forensics Apps
+* [Kali NetHunter](https://store.nethunter.com/) or [AndroGuard](https://github.com/androguard/androguard) - Penetration Testing / Forensics Apps
 
 ***
 
