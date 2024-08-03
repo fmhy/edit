@@ -464,7 +464,6 @@ Linux Gaming Guide
 * [cbonsai](https://gitlab.com/jallbrit/cbonsai) - Generate Bonsai Trees in Terminal
 * [pipes.sh](https://pipeseroni.github.io/) or [pipes-rs](https://github.com/lhvy/pipes-rs) - Animated Pipes in Terminal
 * [Terminal Locomotive Train](https://pastebin.com/ayrFjrh6) - Train Terminal Easter Egg
-* [ASCIIQuarium](https://robobunny.com/projects/asciiquarium/html/) - Fish in Terminal
 
 ***
 
