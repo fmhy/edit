@@ -30,14 +30,8 @@ jobs:
           cache: pnpm
       - name: Setup Pages
         uses: actions/configure-pages@v3
-      - name: Setup Python
-        uses: actions/setup-python@v4
-        with:
-          python-version: '3.10'
       - name: Install dependencies
         run: pnpm install
-      - name: Preprocess files
-        run: bash .github/script.sh
       - name: Build with VitePress
         run: |
           pnpm docs:build

@@ -1,6 +1,7 @@
-import { defineConfig } from 'vitepress'
-import UnoCSS from 'unocss/vite'
 import consola from 'consola'
+import { basename } from 'pathe'
+import UnoCSS from 'unocss/vite'
+import { defineConfig } from 'vitepress'
 import {
   commitRef,
   feedback,
@@ -9,9 +10,10 @@ import {
   sidebar,
   socialLinks
 } from './constants'
-import { generateImages, generateMeta, generateFeed } from './hooks'
+import { generateFeed, generateImages, generateMeta } from './hooks'
+import { defs, emojiRender, movePlugin } from './markdown/emoji'
 import { toggleStarredPlugin } from './markdown/toggleStarred'
-import { movePlugin, emojiRender, defs } from './markdown/emoji'
+import { transformer } from './transformer'
 
 // @unocss-include
 
@@ -55,6 +57,7 @@ export default defineConfig({
       UnoCSS({
         configFile: '../unocss.config.ts'
       }),
+      transformer(),
       {
         name: 'custom:adjust-order',
         configResolved(c) {
@@ -63,6 +66,12 @@ export default defineConfig({
             'vitepress',
             'before',
             'unocss:transformers:pre'
+          )
+          movePlugin(
+            c.plugins as any,
+            'custom:transform-content',
+            'before',
+            'vitepress'
           )
         }
       }
@@ -104,7 +113,10 @@ export default defineConfig({
           { text: '📋 snowbin', link: 'https://pastes.fmhy.net' },
           { text: '🔍 SearXNG', link: 'https://searx.fmhy.net/' },
           { text: '🔍 Whoogle', link: 'https://whoogle.fmhy.net/' },
-          { text: '🔗 Bookmarks', link: 'https://github.com/Rust1667/make-fmhy-bookmarks' }
+          {
+            text: '🔗 Bookmarks',
+            link: 'https://github.com/Rust1667/make-fmhy-bookmarks'
+          }
         ]
       }
     ],

@@ -44,5 +44,13 @@
     "@types/nprogress": "^0.2.3",
     "prettier": "^3.3.3",
     "wrangler": "^3.68.0"
+  },
+  "pnpm": {
+    "peerDependencyRules": {
+      "ignoreMissing": [
+        "@algolia/client-search",
+        "search-insights"
+      ]
+    }
   }
 }
