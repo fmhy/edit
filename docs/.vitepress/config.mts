@@ -107,6 +107,7 @@ export default defineConfig({
       {
         text: '🪅 Ecosystem',
         items: [
+          { text: '🌐 Search', link: '/posts/search' },
           { text: '📰 Posts', link: '/posts' },
           { text: '💬 Feedback', link: '/feedback' },
           { text: '🏞 Wallpapers', link: '/other/wallpapers' },
