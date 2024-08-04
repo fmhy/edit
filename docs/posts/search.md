@@ -17,15 +17,15 @@ Search engine hosted on Streamlit
 
 ---
 
-### [FMHY.pages Search](/)
+### [FMHY.net Search](https://fmhy.net/)
 
-Search engine hosted on FMHY.pages
+Search engine hosted on FMHY.net
 
 ---
 
-### [FMHY.tk Search](https://www.fmhy.tk/search)
+### [old.fmhy.net Search](https://old.fmhy.net/search)
 
-Search engine hosted on FMHY.tk
+Search engine hosted on old.fmhy.net
 
 ---
 
@@ -35,13 +35,19 @@ GitHub page search engine
 
 ---
 
+### [Bookmark HTML](https://github.com/Rust1667/make-fmhy-bookmarks)
+
+Turn FMHY into Bookmarks
+
+---
+
 ### [Python Script](https://github.com/Rust1667/a-FMHY-search-engine)
 
 Search markdown via python script
 
 ---
 
-### [Raw Markdown](https://raw.githubusercontent.com/nbats/FMHYedit/main/single-page)
+### [Raw Markdown](https://api.fmhy.net/single-page)
 
 Search markdown manually (ctrl+f)
 
