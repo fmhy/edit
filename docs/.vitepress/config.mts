@@ -111,6 +111,7 @@ export default defineConfig({
           { text: '💬 Feedback', link: '/feedback' },
           { text: '🏞 Wallpapers', link: '/other/wallpapers' },
           { text: '📋 snowbin', link: 'https://pastes.fmhy.net' },
+          { text: '🌐 Search', link: '/posts/search' },
           { text: '🔍 SearXNG', link: 'https://searx.fmhy.net/' },
           { text: '🔍 Whoogle', link: 'https://whoogle.fmhy.net/' },
           {
