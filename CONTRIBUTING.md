@@ -7,7 +7,7 @@ There are three ways you can contribute to this repository:
 
 ## Submitting a Link
 
-> [!IMPORTANT]
+> [!INFO]
 > If you haven't tested the link you'd like to submit, especially if it's a DDL site, please open an **[Issue](https://github.com/fmhy/FMHYedit/issues)** or reach out to us on **[Discord](https://discord.gg/5W9QJKuPkD)** rather than making a Pull Request.
 
 1. Before submitting a link, please **[search](https://redd.it/105xraz)** to make sure it's not already in the wiki.
@@ -53,7 +53,7 @@ You can do one of the following:
 
 If you want to make changes with instant site feedback, or are simply going to work with the site, you can do so with these 3 ways:
 
-- [Using gitpod.io or GitHub Codespaces (recommended)](#using-gitpodio-or-github-codespaces)
+- [Using gitpod.io or GitHub Codespaces (recommended)](#using-gitpod-io-or-github-codespaces)
 - [Using the GitHub editor](#using-the-github-editor)
 - [Manually setting up a development environment](#manually-setting-up-a-development-environment)
 
@@ -62,7 +62,7 @@ If you want to make changes with instant site feedback, or are simply going to w
 
 ### Using gitpod.io or GitHub Codespaces
 
-You can also use [gitpod.io](https://gitpod.io/) or [GitHub Codespaces](https://github.com/features/codespaces) to edit the wiki.
+You can use either [gitpod.io](https://gitpod.io/) or [GitHub Codespaces](https://github.com/features/codespaces) to edit the wiki.
 
 Follow these steps:
 
@@ -71,12 +71,16 @@ Follow these steps:
 2. Now, to make changes, you can either use gitpod.io or GitHub Codespaces.
 
 #### Gitpod.io
+
 Login to your GitHub account and click on the "New Workspace" button. Then select your fork and you should be in your gitpod workspace.
 
 To close the workspace, click on the "Gitpod" button at the bottom left corner then type "Stop Workspace" and hit enter.
 
 #### GitHub Codespaces
+
 Click on the "Code" button on the top right corner of the page and select "Codespaces" from the dropdown menu.
+
+To close the workspace, click on the "Code" button at the top right corner then click on "Stop Codespace" and hit enter.
 
 ### Using the GitHub editor
 
@@ -86,7 +90,7 @@ Click on the "Code" button on the top right corner of the page and select "Codes
 Select edit button and make your changes.
 ![Select edit button](https://i.imgur.com/lnQfeo3.png)
 
-3. Scroll down and select "Propose changes", and "Create Pull Request" on the next page.
+3. Scroll down and select "Propose changes", and "Create Pull Request" on the next page, and don't forget to explain why you think the site(s) in question should be removed, unstarred, and/or changed.
 
 ![propose changes](https://i.imgur.com/IaSJvnO.png)
 ![create pull request](https://i.imgur.com/z5Za72l.png)
@@ -95,7 +99,7 @@ Select edit button and make your changes.
 
 1. Fork the repository by clicking the "Fork" button in the top right corner.
 
-2. Make sure you have [Node.js](https://nodejs.org/en/), [git](https://git-scm.com/), and [VSCode](https://code.visualstudio.com/) or any other editor installed.
+2. Make sure you have [Node.js](https://nodejs.org/en/), [pnpm](https://pnpm.io/), [git](https://git-scm.com/), and [VSCode](https://code.visualstudio.com/) or any other editor installed.
 
 3. Clone your forked repository to your local machine.
 
@@ -103,4 +107,4 @@ Select edit button and make your changes.
 
 5. Add your changes with git (`git add <file>`) and commit (`git commit -m "commit message"`), then push them (`git push`).
 
-6. Create a pull request by clicking the "New Pull Request" button in your forked repository.
+6. Create a pull request by clicking the "New Pull Request" button in your forked repository, and don't forget to explain why you think the site(s) in question should be removed, unstarred, and/or changed.
