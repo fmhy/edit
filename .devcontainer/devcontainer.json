@@ -1,0 +1,8 @@
+{
+  "name": "FMHYedit",
+  "postStartCommand": "pnpm install",
+  "postAttachCommand": "pnpm docs:dev",
+  "appPort": 5173,
+  "image": "mcr.microsoft.com/devcontainers/universal:2",
+  "features": {}
+}
