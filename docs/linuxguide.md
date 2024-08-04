@@ -320,6 +320,7 @@ Linux Gaming Guide
 ## ▷ Adblock / Privacy
 
 * ↪️ **[Linux 2FA](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25B7_password_privacy_.2F_2fa)**
+* ↪️ **[DNS Adblocking](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25B7_dns_adblocking)**
 * ⭐ **[Arch Security Wiki](https://wiki.archlinux.org/title/Security)**, [Linux Hardening](https://vez.mrsk.me/linux-hardening.html) / [2](https://madaidans-insecurities.github.io/guides/linux-hardening.html) or [How to Secure a Linux Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server) - Linux Security Guides
 * ⭐ **[SpoofDPI](https://github.com/xvzc/SpoofDPI)** or [zapret](https://github.com/bol-van/zapret) - DPI circumvention
 * ⭐ **[CryptSetup](https://gitlab.com/cryptsetup/cryptsetup)** or [Tomb](https://dyne.org/software/tomb/) - File Encryption
