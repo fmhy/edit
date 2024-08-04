@@ -4,19 +4,23 @@
 
 **The largest collection of free stuff on the internet!**
 
-## Contribute
+## 📖 Wiki
+
+- Website: [fmhy.net](https://fmhy.net)
+- News & Monthly Updates: [fmhy.net/posts](https://fmhy.net/posts)
+- Backups: https://github.com/fmhy/FMHY/wiki/Backups
+
+## 📝 Contribute
 
 We invite you to contribute and help improve the wiki! 💙
 
 Here are a few ways you can get involved:
 
-* Anyone can suggest changes or corrections to the wiki. Please read our [contribution guide](https://github.com/fmhy/FMHYedit/blob/main/CONTRIBUTING.md) before trying to add or remove anything.
+* Anyone can suggest changes or corrections to the wiki. Please read our [contribution guide](../CONTRIBUTING.md) before trying to add or remove anything.
 * If you're adding a new site, please [search](https://api.fmhy.net/single-page) (control + f) first to make sure we don't already have it.
 * Approved changes will be applied to the [site](https://fmhy.net) and all [🔒 backups](https://github.com/fmhy/FMHY/wiki/Backups).
 * You can send us stuff directly via [💬 Discord](https://discord.gg/5W9QJKuPkD).
-* You can also check out our [website](https://fmhy.net) and the [posts](https://fmhy.net/posts) section to know about any major updates to the wiki.
 * To help us find new sites, check out these lists: [site hunting](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/find-new-sites/) / [go through](https://rentry.org/oghty).
-* If you're interested in site development, its recommended to use [gitpod.io](https://gitpod.io/#https://github.com/fmhy/fmhyedit).
 
 ***
 
@@ -27,7 +31,7 @@ Emoji Legend:
 * ⭐ - Community Recommendations
 
 
-## Follow
+## 👋 Follow
 
 <p valign="center">
   <a href="https://discord.gg/Stz6y6NgNg"><img width="20px" src="./assets/discord.svg" alt="Discord"></a>&nbsp;&nbsp;<a href="https://github.com/fmhy"><img width="20px" src="./assets/github.svg" alt="GitHub"></a>&nbsp;&nbsp;<a href="https://social.fmhy.net/@fmhy"><img width="20px" src="./assets/firefish.svg" alt="Firefish"></a>

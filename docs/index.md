@@ -21,6 +21,9 @@ hero:
       text: Posts
       link: /posts
     - theme: alt
+      text: Contribute
+      link: /other/contributing
+    - theme: alt
       text: Discord
       link: https://discord.gg/Stz6y6NgNg
 
