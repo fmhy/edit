@@ -392,7 +392,7 @@
 ***
 
 ## ▷ Android Adblocking
-
+* ↪️ **[DNS Adblocking](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25B7_dns_adblocking)**
 * ⭐ **[System Wide Adblocking](https://redd.it/oyfmr1)** - System Wide Adblocking Guide
 * ⭐ **[AdGuard Premium](https://rentry.co/FMHYBase64#adguard-premium)** - Adblocking App
 * ⭐ **[Cromite](https://github.com/uazo/cromite)** or [jQuarks](https://f-droid.org/packages/com.oF2pks.jquarks/) - Adblocking Browsers / [Filter](https://github.com/xarantolus/filtrite) / [Adblock Scripts](https://userscripts.010.one/)
@@ -1117,7 +1117,7 @@
 ***
 
 ## ▷ iOS Adblocking
-
+* ↪️ **[DNS Adblocking](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25B7_dns_adblocking)**
 * ⭐ **[AdGuard Pro](https://rentry.co/FMHYBase64#adguard-pro-ios)** - Adblocker / [Config](https://1fichier.com/?ef26ks4abjzct7o1k8os) / [Remote](https://apps.apple.com/app/apple-store/id1543143740)
 * [AdGuard Safari](https://adguard.com/en/adguard-safari/overview.html) - AdGuard for Safari
 * [KF Panda-Player](https://apps.apple.com/us/app/kfpanda-player/id1460792262) - Turn any site into an App, without Ads
