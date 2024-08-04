@@ -11,11 +11,11 @@ We invite you to contribute and help improve the wiki! 💙
 Here are a few ways you can get involved:
 
 * Anyone can suggest [changes or corrections](https://rentry.org/fmhyedit) to the wiki. Please read our [contribution guide](https://rentry.co/Contrib-Guide) before trying to add or remove anything.
-* If you're adding a new site, please [search](https://api.fmhy.net/single-page) / [2](https://fmhy.xyz/single-page) (control + f) first to make sure we don't already have it.
+* If you're adding a new site, please [search](https://api.fmhy.net/single-page) (control + f) first to make sure we don't already have it.
 * Approved changes will be applied to the [site](https://fmhy.net) and all [🔒 backups](https://github.com/fmhy/FMHY/wiki/Backups).
 * You can send us stuff directly via [💬 Discord](https://discord.gg/5W9QJKuPkD).
 * You can also check out our [website](https://fmhy.net) and the [posts](https://fmhy.net/posts) section to know about any major updates to the wiki.
-* To help us find new sites, check out these lists: [Site Hunting](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/find-new-sites/) / [Go Through](https://rentry.org/oghty).
+* To help us find new sites, check out these lists: [site hunting](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/find-new-sites/) / [go through](https://rentry.org/oghty).
 * If you're interested in site development, its recommended to use [gitpod.io](https://gitpod.io/#https://github.com/fmhy/fmhyedit).
 
 ***
