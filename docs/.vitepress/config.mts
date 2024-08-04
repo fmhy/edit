@@ -107,11 +107,11 @@ export default defineConfig({
       {
         text: '🪅 Ecosystem',
         items: [
+          { text: '🌐 Search', link: '/posts/search' },
           { text: '📰 Posts', link: '/posts' },
           { text: '💬 Feedback', link: '/feedback' },
           { text: '🏞 Wallpapers', link: '/other/wallpapers' },
           { text: '📋 snowbin', link: 'https://pastes.fmhy.net' },
-          { text: '🌐 Search', link: '/posts/search' },
           { text: '🔍 SearXNG', link: 'https://searx.fmhy.net/' },
           { text: '🔍 Whoogle', link: 'https://whoogle.fmhy.net/' },
           {
