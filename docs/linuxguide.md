@@ -66,7 +66,7 @@
 * [Nanobench](https://github.com/andreas-abel/nanoBench) - CPU Microbenchmark / [Documentation](https://nanobench.ankerl.com/)
 * [ScanMem](https://github.com/scanmem/scanmem) - Memory Scanner / Debugger
 * [pacwall](https://github.com/Kharacternyk/pacwall) - Live Wallpaper Dependency Graph / Package Status
-* [picom](https://github.com/yshui/picom) - Wayland Compositors
+* [picom](https://github.com/yshui/picom) - Compositor for standalone X11 Window Managers
 * [keyd](https://github.com/rvaiya/keyd) or [xremap](https://github.com/k0kubun/xremap) - Keyboard Remapping
 * [LAN Mouse](https://github.com/feschber/lan-mouse) - Mouse & Keyboard Sharing
 * [Input Leap](https://github.com/input-leap/input-leap) - Multi-Computer Control
