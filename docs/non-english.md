@@ -1589,75 +1589,36 @@ https://aniwow.in/ has only dubs though
 ***
 
 # ► Turkish / Türkçe
-
-* [Firmaa](http://www.firmaa.com/) - Company Directory
 * [Playstation Haber](https://playstationhaber.com/) - PlayStation Piracy Forum
 * [MCpsp](https://www.mcpsp.com) - PlayStation Piracy Forum
 * [En ucuz oyun](https://www.enucuzoyun.com) - Price Tracker
 * [Teyit](https://teyit.org) - News Confirmation
 
-## ▷ Downloading
+## ▷ Downloading / İndirme
+* [Türkçe Altyazı](https://turkcealtyazi.org/) - Subtitles
+* [Turkish Audio Center](https://www.turkishaudiocenter.com), [Shareses](https://shareses.com), [Türkçe Ses İndir](https://www.turkcesesindir.com/), [Dw Force](http://dwa-audio.blogspot.com/), [Tr Sound Track](https://trsoundtrack.blogspot.com/) - Turkish dubs
+* [Sinner Clown](https://sinnerclownceviri.net) / [Discord](https://discord.com/invite/nApvcT6Tt6), [Pixel Saga](https://discord.gg/ZZER4w3Mmx), [Hangar](https://www.hangarceviri.com) - Game Localization
 
-* [MP3 İndir](https://www.mp3indirdur.io/) - Music
-* [Türkçe Altyazı](https://turkcealtyazi.org/index.php) - Subtitles
-* [Turkish Audio Center](https://www.turkishaudiocenter.com) - Voiceovers
-* [Shareses](https://shareses.com) - Voiceovers
-* [Türkçe Ses İndir](https://www.turkcesesindir.com/) - Voiceovers
-* [Dw Force](http://dwa-audio.blogspot.com/) - Voiceovers
-* [Tr Sound Track](https://trsoundtrack.blogspot.com/) - Voiceovers
-* [Sinner Clown](https://sinnerclownceviri.net) - Game Localization / [Discord](https://discord.com/invite/nApvcT6Tt6)
-* [Pixel Saga](https://discord.gg/ZZER4w3Mmx) - Game Localization Discord
-* [Calypso](https://discord.com/invite/9zJe7ttAjS) - Game Localization Discord
-* [Hangar](https://www.hangarceviri.com) - Game Localization
-
-## ▷ Streaming
-
-* [Dizilla](https://dizilla.club) - Movies / TV
-* [Yabancı Dizi](https://yabancidizi.pro) - Movies / TV
-* [Hdfilm Cehennemi](https://www.hdfilmcehennemi.sh/) - Movies / TV
-* [Full HD Film İzlesene](https://www.fullhdfilmizlesene.de) - Movies / Cartoons
-* [Jet Film izle](https://jetfilmizle.de/) - Movies
-* [Film İzle](https://filmizle2022.info/) - Movies
-* [4kFilmizlesene](https://www.4kfilmizlesene.org/) - Movies
-* [Film İzlesene](https://www.filmizlesene.pro) - Movies
-* [Film Mom](https://www.filmmom.de/) - Movies
-* [Dizipal](https://dizipal807.com/), [2](https://dizipal735.com/) - Movies / TV
-* [İnatflix](https://hdfilmcehennemi4.xyz/) - Movies / TV
+## ▷ Streaming / İzleme
+* ⭐ [Yabancıdizi](https://yabancidizi.tv) - Movies / TV / Sub / Dub / 1080p
+* ⭐ [Dizipal](https://dizipal810.com/), [2](https://dizipal786.com/) - Movies / TV / Sub / Dub / 1080p
+* ⭐ [Hdfilmcehennemi](https://www.hdfilmcehennemi.com/) - Movies / TV / Sub / Dub / 1080p
+* ⭐ [FullHDFilmizlesene](https://www.fullhdfilmizlesene.com) - Movies / Dub / Sub / 4K / 1080p
+* [İnat TV](https://inattv100.link/) / [Twitter](https://twitter.com/inattvapk) - App / Movies / TV / Sports
+* [Dizibox](https://www.dizibox.com) - TV / Sub / 1080p
+* [Diziwatch](https://diziwatch.net/) - TV / Anime / Sub / 1080p
+* [Diziyou](https://www.diziyou.co/) - TV / Sub / Dub / 1080p
 * [Dizilab](https://dizilab.com/) - TV
-* [Dizibox](https://www.dizibox.in) - TV
-* [Turkish123](https://turkish123.com/) - TV
-* [Yoturkish](https://www.yoturkish.com) - TV
-* [Expressdizi](https://www.expressdizi.com/) - TV
-* [Makkitv](https://makkitv.co/) - TV
-* [Osman Online](https://osmanonline.pk/) - TV
-* [AR Dirilis Ertugrul](https://ardirilisertugrul.net/) - TV
-* [Osman Online](https://osmanonline.co.uk/) - TV
-* [Kayi Family](https://kayifamily.com/), [KayiFamilyTV](https://kayifamilytv.com) - TV / Documentaries
-* [Anime Haber](https://animehaber.com) - Anime News
-* [Animeler](https://www.animeler.net) - Anime News
-* [Anime Kalesi](https://www.animekalesi.com) - Anime Subtitles / Download
-* [Anime Densetsu](https://www.animedensetsu.com) - Anime Download
-* [Türk Anime](https://www.turkanime.co/) - Anime / [Downloader](https://github.com/KebabLord/turkanime-indirici)
-* [Anizm](https://anizm.net/) - Anime
-* [TR Anime İzle](https://www.tranimeizle.co) - Anime
-* [Anime Who](https://animewho.com) - Anime / Fansub
-* [Anisekai](https://anisekai.com) - Anime / Fansub
+* [Dizilla](https://dizilla.club) - Movies / TV
+* [filmmodu](https://www.filmmodu.tv/), [Jet Film izle](https://jetfilmizle.de/), [4kFilmizlesene](https://www.4kfilmizlesene.org/), [Film İzlesene](https://www.filmizlesene.pro), [Film Mom](https://www.filmmom.de/), [filmmax](https://filmmax.org/) - Movies
+* [Turkish123](https://turkish123.com/), [Yoturkish](https://www.yoturkish.com) - Turkish TV series with English subtitles
+* [Türk Anime](https://www.turkanime.co/) / [Downloader](https://github.com/KebabLord/turkanime-indirici), [Anizm](https://anizm.net/), [Anime Who](https://animewho.com), [TR Anime İzle](https://www.tranimeizle.co) - Anime
 
-
-## ▷ Reading
-
-* [Kuflu e-kitap](https://www.kuflu.com/forums/e-kitap.58), [Kuflu manga](https://www.kuflu.com/forums/anime-ve-manga.28)- Books / Magazines
+## ▷ Reading / Okuma
 * [Booksfer](https://booksfer.com) - Books
 * [Telegram Groups](https://t.me/addlist/SWhexU5B_hoxMTc8) - Books
-* [Manga Denizi](https://www.mangadenizi.net/) - Manga / [Discord](https://discord.com/invite/8zBMSGZ)
-* [Manga TR](https://manga-tr.com/) - Manga
-* [Manga Ay](https://manga-ay.com/) - Manga
-* [Mavi Manga](https://mavimanga.com/) - Manga
-* [Trwebtoon](https://trwebtoon.com/) - Manga
-* [Nirvana Manga](https://nirvanamanga.com/) - Manga
-* [Raindrop](https://www.raindropteamfan.com/) - Manga
-* [Seri Manga](https://serimangas.com/) - Manga
-* [Glory Manga](https://glorymanga.com/) - Manga
+* [Küflü e-kitap](https://www.kuflu.com/forums/e-kitap.58), [Küflü manga](https://www.kuflu.com/forums/anime-ve-manga.28) - Books / Magazines
+* [Manga Denizi](https://www.mangadenizi.net/) / [Discord](https://discord.com/invite/8zBMSGZ), [Manga TR](https://manga-tr.com/), [Manga Ay](https://manga-ay.com/), [Mavi Manga](https://mavimanga.com/), [Trwebtoon](https://trwebtoon.com/), [Nirvana Manga](https://nirvanamanga.com/), [Raindrop](https://www.raindropteamfan.com/), [Seri Manga](https://serimangas.com/), [Glory Manga](https://glorymanga.com/) - Manga
 
 ***
 
