@@ -10,7 +10,7 @@ We invite you to contribute and help improve the wiki! 💙
 
 Here are a few ways you can get involved:
 
-* Anyone can suggest [changes or corrections](https://rentry.org/fmhyedit) to the wiki. Please read our [Contribution Guide](https://rentry.co/Contrib-Guide) before trying to add or remove anything.
+* Anyone can suggest [changes or corrections](https://rentry.org/fmhyedit) to the wiki. Please read our [contribution guide](https://rentry.co/Contrib-Guide) before trying to add or remove anything.
 * If you're adding a new site, please [search](https://api.fmhy.net/single-page) / [2](https://fmhy.xyz/single-page) (control + f) first to make sure we don't already have it.
 * Approved changes will be applied to the [site](https://fmhy.net) and all [🔒 backups](https://github.com/fmhy/FMHY/wiki/Backups).
 * You can send us stuff directly via [💬 Discord](https://discord.gg/5W9QJKuPkD).
