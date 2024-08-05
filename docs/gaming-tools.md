@@ -783,6 +783,7 @@
 * [RPG.net](https://forum.rpg.net/) - RPG Forums
 * [Adventurer's Codex](https://adventurerscodex.com) - Online D&D 5e Campaign Manager / System
 * [NaturalCrit](https://www.naturalcrit.com/) - Create D&D Homebrews / Badges
+* [DnD-Books](https://github.com/EllatharTheHalfling/DnD-Books/) - DnD4e/5e Books
 * [FantasiaArchive](https://fantasiaarchive.com/) - World Building / Documenting Tool
 * [DnD World Building](https://arcadia.net/Cruinne/DnD/Articles/worldbuilding.html) - Fantasy World Building Guides
 * [The Acaeum](https://www.acaeum.com/) - Dungeons & Dragons Database
