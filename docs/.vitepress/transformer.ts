@@ -136,14 +136,14 @@ export function transformer(): Plugin {
         !id.includes('posts') &&
         !id.includes('other')
       ) {
-        const header = getHeader(id)
+        const header = getHeader(_id)
         const contents = transform(code)
 
         if (_id === 'beginners-guide.md') {
           const _contents = transformGuide(contents)
           return header + _contents
         }
-        return header + contents
+        return header + transformLinks(contents)
       }
     }
   }
@@ -155,8 +155,7 @@ function getHeader(id: string) {
 
   const description = '<p class="text-black dark:text-text-2">'
 
-  const _id = basename(id)
-  const data = headers[_id]
+  const data = headers[id]
   let header = '---\n'
   header += `title: "${data.title}"\n`
   header += `description: ${data.description}\n`
@@ -185,15 +184,17 @@ export function transformGuide(text: string): string {
 function replaceUnderscore(text: string): string {
   const pattern = /\/#[\w\-]+(?:_[\w]+)*/g
   const matches = text.match(pattern) || []
+  let _text = text
   for (const match of matches) {
     const replacement = match.replace(/_/g, '-')
-    text = text.replace(match, replacement)
+    _text = _text.replace(match, replacement)
   }
-  return text
+  return _text
 }
 
 export function transform(text: string): string {
   let _text = text
+    // Transform reddit index links
     .replace(
       /\*\*\[◄◄ Back to Wiki Index\]\(https:\/\/www\.reddit\.com\/r\/FREEMEDIAHECKYEAH\/wiki\/index\)\*\*\n/gm,
       ''
@@ -206,11 +207,13 @@ export function transform(text: string): string {
       /\*\*\[Table of Contents\]\(https?:\/\/.*?ibb\.co.*\)\*\* - For mobile users\n/gm,
       ''
     )
+    // Remove extra lines
     .replace(/\*\*\*\n\*\*\*\n\*\*\*\n\*\*\*\n\n\n\*\*\*\n\*\*\*\n\n/gm, '')
     .replace(/\*\*\*\n\*\*\*\n\*\*\*\n\*\*\*\n\n\n\*\*\*\n\*\*\* \n\n/gm, '')
     .replace(/\*\*\*\n\*\*\*\n\*\*\*\n\n\n\*\*\*\n\*\*\*\n\n/gm, '')
     .replace(/\*\*\*\n\*\*\*\n\*\*\*\n\*\*\*\n\n\n\*\*\*\n\n/gm, '')
     .replace(/\*\*\*\n\*\*\*\n\n\n\*\*\*\n\n/gm, '')
+    // Transform reddit links
     .replace(/https:\/\/www.reddit.com\/r\/FREEMEDIAHECKYEAH\/wiki\/ai/g, '/ai')
     .replace(
       /https:\/\/www.reddit.com\/r\/FREEMEDIAHECKYEAH\/wiki\/adblock-vpn-privacy/g,
@@ -308,6 +311,7 @@ export function transform(text: string): string {
       /https:\/\/github.com\/nbats\/FMHYedit\/blob\/main\/base64.md#/g,
       '/base64/#'
     )
+    // Remove extra characters
     .replace(/\/#wiki_/g, '/#')
     .replace(/#wiki_/g, '/#')
     .replace(/.25BA_/g, '')
@@ -323,14 +327,17 @@ export function transform(text: string): string {
     .replace(/# ►/g, '##')
     .replace(/## ▷/g, '###')
     .replace(/####/g, '###')
+    // Replace emojis
     .replace(/⭐/g, ':star:')
     .replace(/🌐/g, ':globe-with-meridians: ')
-    .replace(/↪ /g, ':repeat-button: ')
+    .replace(/↪/g, ':repeat-button: ')
+    // Replace note/warning/tip
     .replace(/^\*\*Note\*\* - (.+)$/gm, ':::tip\n$1\n:::')
     .replace(/^\* \*\*Note\*\* - (.+)$/gm, ':::tip\n$1\n:::')
     .replace(/^Note - (.+)$/gm, ':::tip\n$1\n:::')
     .replace(/^\*\*Warning\*\* - (.+)$/gm, ':::warning\n$1\n:::')
     .replace(/^\*\s([^*])/gm, '- $1')
+    // Replace links
     .replace(
       /\/storage\/#encode--decode_urls/g,
       '/storage/#encode--decode-urls'
@@ -347,6 +354,17 @@ export function transform(text: string): string {
     .replace(
       /(.+?) site or extension\.\n/gm,
       'Click on the texts to copy them decoded.\n'
+    )
+
+  return _text
+}
+
+function transformLinks(text: string): string {
+  const _text = text
+    // Transform Discord links to icons
+    .replace(
+      /\[Discord\]\(([^\)]*?)\)/gm,
+      '<a target="_blank" href="$1"><div alt="Discord" class="i-carbon:logo-discord" /></a>'
     )
   return _text
 }

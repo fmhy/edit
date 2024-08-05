@@ -1,32 +1,44 @@
 {
-  "extends": "./.nitro/types/tsconfig.json"
-  // "compilerOptions": {
-  //   "verbatimModuleSyntax": true,
-  //   "baseUrl": ".",
-  //   "module": "esnext",
-  //   "target": "esnext",
-  //   "lib": ["DOM", "ESNext"],
-  //   "strict": true,
-  //   "jsx": "preserve",
-  //   "esModuleInterop": true,
-  //   "skipLibCheck": true,
-  //   "moduleResolution": "node",
-  //   "resolveJsonModule": true,
-  //   "noUnusedLocals": true,
-  //   "strictNullChecks": true,
-  //   "forceConsistentCasingInFileNames": true,
-  //   "sourceMap": true,
-  //   "isolatedModules": true
-  // },
-  // "include": [
-  //   "**/*.vue",
-  //   "**/*.tsx",
-  //   "**/*.ts",
-  //   ".vitepress/**/**/*.ts",
-  //   ".vitepress/**/**/*.tsx",
-  //   ".vitepress/**/**/*.vue"
-  // ],
-  // "exclude": ["**/node_modules/**", "dist/**"],
-  // "extensions": [".js", ".ts", ".tsx", ".jsx", ".vue"],
-  // "allowSyntheticDefaultImports": true
+  "extends": "./.nitro/types/tsconfig.json",
+  "compileroptions": {
+    "verbatimmodulesyntax": true,
+    "baseurl": ".",
+    "module": "esnext",
+    "target": "esnext",
+    "lib": [
+      "dom",
+      "esnext"
+    ],
+    "strict": true,
+    "jsx": "preserve",
+    "esmoduleinterop": true,
+    "skiplibcheck": true,
+    "moduleresolution": "node",
+    "resolvejsonmodule": true,
+    "nounusedlocals": true,
+    "strictnullchecks": true,
+    "forceconsistentcasinginfilenames": true,
+    "sourcemap": true,
+    "isolatedmodules": true
+  },
+  "include": [
+    "**/*.vue",
+    "**/*.tsx",
+    "**/*.ts",
+    ".vitepress/**/**/*.ts",
+    ".vitepress/**/**/*.tsx",
+    ".vitepress/**/**/*.vue"
+  ],
+  "exclude": [
+    "**/node_modules/**",
+    "dist/**"
+  ],
+  "extensions": [
+    ".js",
+    ".ts",
+    ".tsx",
+    ".jsx",
+    ".vue"
+  ],
+  "allowSyntheticDefaultImports": true
 }
