@@ -971,7 +971,7 @@
 * ⭐ **[arch1ve](https://rentry.org/arch1ve)** or [Borrowing Picture Books](https://redd.it/fm1xpw) - Download Borrow Only Archive.org Books / [Script](https://redd.it/ofcqds)
 * ⭐ **[Kindle Comic Converter](https://github.com/ciromattia/kcc)** - Multi-Format Converter
 * ⭐ **[papeer](https://papeer.tech/)** or [epub-creator](https://github.com/NiklasGollenstede/epub-creator) - Webpage to EPUB Converter
-* [ebook-converter-bot](https://t.me/ebook_converter_bot) / [Github](https://github.com/yshalsager/ebook-converter-bot) - Telegram Ebook Converter
+* [ebook-converter-bot](https://t.me/ebook_converter_bot) / [GitHub](https://github.com/yshalsager/ebook-converter-bot) - Telegram Ebook Converter
 * [CrowBook](https://github.com/lise-henry/crowbook) - Markdown to EPUB Converter
 * [MD2PDF](https://md2pdf.netlify.app/) - Markdown to PDF Converter
 * [Remove Kindle DRM](https://itsfoss.com/calibre-remove-drm-kindle/) - Remove DRM from Kindle

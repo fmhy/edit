@@ -368,5 +368,20 @@ function transformLinks(text: string): string {
       /\[Discord\]\(([^\)]*?)\)/gm,
       '<a target="_blank" href="$1"><div alt="Discord" class="i-carbon:logo-discord" /></a>'
     )
+    // Transform GitHub links to icons
+    .replace(
+      /\[GitHub\]\(([^\)]*?)\)/gm,
+      '<a target="_blank" href="$1"><div alt="GitHub" class="i-carbon:logo-github mb-1" /></a>'
+    )
+    // Fallback for GitHub
+    .replace(
+      /\[Github\]\(([^\)]*?)\)/gm,
+      '<a target="_blank" href="$1"><div alt="GitHub" class="i-carbon:logo-github mb-1" /></a>'
+    )
+    // Transform Telegram links to icons
+    .replace(
+      /\[Telegram\]\(([^\)]*?)\)/gm,
+      '<a target="_blank" href="$1"><div alt="Telegram" class="i-mdi:telegram" /></a>'
+    )
   return _text
 }

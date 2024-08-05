@@ -65,7 +65,7 @@
 ## ▷ Discord Clients
 
 * 🌐 **[Discord3rdParties](https://github.com/Discord-Client-Encyclopedia-Management/Discord3rdparties)** - Discord Clients Index
-* ⭐ **[Vencord](https://vencord.dev/)** - Discord Client Mod / [Github](https://github.com/Vendicated/Vencord) / [Desktop Client](https://github.com/Vencord/Vesktop)
+* ⭐ **[Vencord](https://vencord.dev/)** - Discord Client Mod / [GitHub](https://github.com/Vendicated/Vencord) / [Desktop Client](https://github.com/Vencord/Vesktop)
 * ⭐ **[BetterDiscord](https://betterdiscord.app/)** - Discord Client Mod / [GitHub](https://github.com/BetterDiscord/BetterDiscord)
 * ⭐ **BetterDiscord Tools** - [Plugins](https://betterdiscord.app/plugins) / [Banned Plugins](https://rentry.co/BDBannedPlugins), [2](https://github.com/mov-ebx/BannedBetterDiscordPlugins) / [Support](https://discord.gg/0Tmfo5ZbORCRqbAd) / [Nitro](https://github.com/riolubruh/YABDP4Nitro) / [Re-install Guide](https://gist.github.com/Knewest/ee59d3960e18e6d813c9221b54b36ab1)
 * ⭐ **[OpenAsar](https://openasar.dev/)** - Improved Discord Desktop's app.asar / [GitHub](https://github.com/GooseMod/OpenAsar)
@@ -307,7 +307,7 @@
 * [telegram-download-daemon](https://github.com/alfem/telegram-download-daemon/) - Download Large Telegram Files
 * [convrt_bot](https://t.me/convrt_bot), [FileConvertBot](https://t.me/FileConvertBot), [newfileconverterbot](https://t.me/newfileconverterbot), [SmartConverter_bot](https://t.me/SmartConverter_bot), [cloud_convert_bot](https://t.me/cloud_convert_bot), [wololopdfbot](https://t.me/wololopdfbot), [pdfbot](https://t.me/pdfbot) or [Gpdfbot](https://t.me/Gpdfbot) - File Converters
 * [ILovePDF](https://github.com/nabilanavab/ilovepdf) - Telegram File to PDF Converter
-* [Unzip Bot](https://t.me/unzip_edm115bot) / [Github](https://github.com/EDM115/unzip-bot) - File Extractor / Unzipper
+* [Unzip Bot](https://t.me/unzip_edm115bot) / [GitHub](https://github.com/EDM115/unzip-bot) - File Extractor / Unzipper
 
 ***
 

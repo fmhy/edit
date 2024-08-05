@@ -38,6 +38,7 @@
     "@biomejs/biome": "^1.8.3",
     "@iconify-json/carbon": "^1.1.36",
     "@iconify-json/heroicons-solid": "^1.1.11",
+    "@iconify-json/mdi": "^1.1.68",
     "@iconify-json/twemoji": "^1.1.15",
     "@taskylizard/biome-config": "^1.0.1",
     "@types/node": "^20.14.11",

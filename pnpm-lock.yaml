@@ -63,6 +63,9 @@ importers:
       '@iconify-json/heroicons-solid':
         specifier: ^1.1.11
         version: 1.1.11
+      '@iconify-json/mdi':
+        specifier: ^1.1.68
+        version: 1.1.68
       '@iconify-json/twemoji':
         specifier: ^1.1.15
         version: 1.1.15
@@ -869,6 +872,9 @@ packages:
 
   '@iconify-json/heroicons-solid@1.1.11':
     resolution: {integrity: sha512-Nzhjs8voo4d+gcrfhlY/F0bRonEmLHT1+DeD2nYubvAF151pxXPqTS9bRB49Hqpdxl1l9LS2VTPtQPRypj/csQ==}
+
+  '@iconify-json/mdi@1.1.68':
+    resolution: {integrity: sha512-7//TKCiXLU6kNWeOJRTBbisofVO7rF1sD1TZTL4/V9nqlmVNczQ5IOY0GgKOTsitkcTnX9GXgrgbjw3OI5B69w==}
 
   '@iconify-json/twemoji@1.1.15':
     resolution: {integrity: sha512-ze2CAOwIWBKIP6ih6qMDItasVjRicktl2Qr3/ohZSMToAHm9z3Q6HCwE48eT0+D+uFpGBlNRQ22HHyE5izyhDg==}
@@ -3959,6 +3965,10 @@ snapshots:
       '@iconify/types': 2.0.0
 
   '@iconify-json/heroicons-solid@1.1.11':
+    dependencies:
+      '@iconify/types': 2.0.0
+
+  '@iconify-json/mdi@1.1.68':
     dependencies:
       '@iconify/types': 2.0.0
 
