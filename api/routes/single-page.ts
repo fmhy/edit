@@ -2,12 +2,7 @@ import { fetcher } from 'itty-fetcher'
 
 // Look inside tbe docs directory
 const GITHUB_REPO = 'https://api.github.com/repos/fmhy/FMHYEdit/contents/docs/'
-const EXCLUDE_FILES = [
-  'README.md',
-  'docs/index.md',
-  'docs/feedback.md',
-  'docs/posts.md'
-]
+const EXCLUDE_FILES = ['README.md', 'index.md', 'feedback.md', 'posts.md']
 const EXCLUDE_DIRECTORIES = ['posts/']
 
 interface File {
