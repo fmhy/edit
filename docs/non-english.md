@@ -633,18 +633,18 @@ https://aniwow.in/ has only dubs though
 
 ***
 
-# ► Indonesian Penduduk Indonesia
+# ► Indonesian / Bahasa Indonesia
 
 * [bebasid](https://github.com/bebasid/bebasid) - Indonesian Site Unblock Proxies / [DNS](https://github.com/bebasid/bebasdns) / [Script](https://gist.github.com/mul14/eb05e88fcec5bb195cbb)
 
-## ▷ Downloading / Mengunduh
+## ▷ Downloading
 
 * [Kusonime](https://kusonime.com/) - Anime / Sub / Dub / 1080p / [Discord](https://discord.com/invite/4A7RqFraZW)
 * [AniBatch](https://anibatch.anibatch.moe/), [2](https://www.animebatch.id/) - Anime / Dub / 1080p
 * [Samehadaku](https://samehadaku.care/) - Anime / Sub / 1080p / [Telegram](https://t.me/samehadaku_care)
 * [IndonesiaEbook](https://ebook.twointomedia.com/) - Books
 
-## ▷ Streaming / Menyiarkan
+## ▷ Streaming
 
 * [anoBoy](https://anoboy.baby/) - Anime / Sub / 1080p
 * [Kazefuri](https://kazesub.com/) - Anime / Sub / 1080p
@@ -655,7 +655,7 @@ https://aniwow.in/ has only dubs though
 * [ANIsub](https://anisub.monster/) - Anime / Sub / 720p
 * [Lesics](https://youtube.com/@LesicsIndo) - Engineering Courses
 
-## ▷ Reading / Membaca
+## ▷ Reading
 
 * [YuuManga](https://yuumanga.blogspot.com/) - Manga
 * [ManhwaIndo](https://manhwaindo.net/) - Manga
