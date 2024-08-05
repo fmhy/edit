@@ -633,7 +633,7 @@ https://aniwow.in/ has only dubs though
 
 ***
 
-# ► Indonesian Penduduk Indonesia
+# ► Indonesian / Bahasa Indonesia
 
 * [bebasid](https://github.com/bebasid/bebasid) - Indonesian Site Unblock Proxies / [DNS](https://github.com/bebasid/bebasdns) / [Script](https://gist.github.com/mul14/eb05e88fcec5bb195cbb)
 
