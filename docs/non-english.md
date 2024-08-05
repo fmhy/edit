@@ -598,7 +598,6 @@ https://aniwow.in/ has only dubs though
 * [Movi](https://www.movi.pk/) - Movies / TV / Dub / 1080p
 * [Bolly2Tolly](https://www.bolly2tolly.net/), [2](https://www.bolly2tolly.com/) - Movies / TV / Sub / Dub / 720p
 * [Piratop](https://piratop.com/) - Movies / TV / Sub / Dub / 720p
-* [OnlineMoviesHindi](https://111.90.159.132/) - Movies / TV / Sub / Dub / 720p
 * [Mp4Moviez](https://www.mp4moviez.bingo/) - Movies / TV / 480p / [Telegram](https://t.me/mp4moviezofficial1)
 * [aFimlyWap](https://www.afilmywap.org.vc/) - Movies / TV / 480p / [Telegram](https://telegram.me/+QkTcitP80VplMzhl)
 * [Cloudy](https://cloudy.pk/) - Movies / TV / Cartoons / Sub / Dub / 720p / [Telegram](https://t.me/cloudy_pk)
