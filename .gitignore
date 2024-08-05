@@ -8,3 +8,4 @@ node_modules
 .env
 dist
 .eslintcache
+docs/.vitepress/.temp

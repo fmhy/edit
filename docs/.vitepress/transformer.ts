@@ -166,7 +166,7 @@ function getHeader(id: string) {
   return header
 }
 
-function transformGuide(text: string): string {
+export function transformGuide(text: string): string {
   const _text = text
     .replace(/\[TOC\]\n/gm, '')
     .replace(/\*\*Table of Contents\*\*\n\[TOC2\]\n/gm, '')
@@ -192,7 +192,7 @@ function replaceUnderscore(text: string): string {
   return text
 }
 
-function transform(text: string): string {
+export function transform(text: string): string {
   let _text = text
     .replace(
       /\*\*\[◄◄ Back to Wiki Index\]\(https:\/\/www\.reddit\.com\/r\/FREEMEDIAHECKYEAH\/wiki\/index\)\*\*\n/gm,

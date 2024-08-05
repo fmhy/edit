@@ -1,4 +1,5 @@
 import type { DefaultTheme } from 'vitepress'
+import { transform, transformGuide } from './transformer'
 // @unocss-include
 
 export const meta = {
@@ -8,16 +9,25 @@ export const meta = {
   keywords: ['stream', 'movies', 'gaming', 'reading', 'anime']
 }
 
-export const commitRef = process.env.CF_PAGES
-  ? `<a href="https://github.com/fmhy/FMHYEdit/commit/${
-      process.env.CF_PAGES_COMMIT_SHA
+export const commitRef =
+  process.env.CF_PAGES && process.env.CF_PAGES_COMMIT_SHA
+    ? `<a href="https://github.com/fmhy/FMHYEdit/commit/${process.env.CF_PAGES_COMMIT_SHA
     }">${process.env.CF_PAGES_COMMIT_SHA.slice(0, 8)}</a>`
-  : 'dev'
+    : 'dev'
 
 export const feedback = `<a href="/feedback" class="feedback-footer">Made with ❤</a>`
 
 export const search: DefaultTheme.Config['search'] = {
   options: {
+    _render(src, env, md) {
+      let contents = src
+      // I do this as env.frontmatter is not available until I call `md.render`
+      if (contents.includes('Beginners Guide'))
+        contents = transformGuide(contents)
+      contents = transform(contents)
+      const html = md.render(contents, env)
+      return html
+    },
     miniSearch: {
       options: {
         tokenize: (text) => text.split(/[\n\r #%*,=/:;?[\]{}()&]+/u), // simplified charset: removed [-_.@] and non-english chars (diacritics etc.)
@@ -67,6 +77,8 @@ export const search: DefaultTheme.Config['search'] = {
             .map((t) => t.toLowerCase())
           // Downrank posts
           if (documentId.match(/\/posts/)) return -5
+          // Downrank /other
+          if (documentId.match(/\/other/)) return -5
 
           // Uprate if term appears in titles. Add bonus for higher levels (i.e. lower index)
           const titleIndex =
