@@ -14,7 +14,6 @@
 * ⭐ **[Binged](https://binged.live/)**, [2](https://binge.lol/), [3](https://binged.in/) - Movies / TV / Anime / 4K / 1080p / [Discord](https://discord.gg/f2SvhcKCKS)
 * ⭐ **[watch.lonelil](https://watch.lonelil.ru/)** - Movies / TV / Anime / 4K / 1080p / [Discord](https://discord.com/invite/BKts6Jb5sA) / [Telegram](https://t.me/watchlonelil)
 * ⭐ **[HydraHD](https://hydrahd.com/)** - Movies / TV / Anime / 1080p
-* ⭐ **[StreamFlix](https://watch.streamflix.one/)**, [2](https://watchamovie.today/), [3](https://streamflix.space/) - Movies / TV / Anime / 4K / 1080p / [Discord](https://discord.gg/C8fyfz5pYz)
 * ⭐ **[KipFlix](https://kipflix.space/)** - Movies / TV / Anime / 1080p / [Discord](https://discord.gg/tDKYeh9eQn)
 * ⭐ **[PrimeFlix](https://primeflix-web.vercel.app/)**, [2](https://www.primeflix.lol/) - Movies / TV / Anime / 4K / 1080p / [Discord](https://discord.gg/GbW6gzAKgc)
 * ⭐ **[NunFlix](https://nunflix.com/)** - Movies / TV / Anime / 4K / 1080p / [Discord](https://discord.gg/CXVyfhgn26)
@@ -25,6 +24,7 @@
 * [WatchingZone](https://www.watching.zone/) - Movies / TV / Anime / 1080p
 * [Smashystream](https://smashystream.xyz/), [2](https://flix.smashystream.xyz/), [3](https://smashystream.com/) or [smashy.stream](https://smashy.stream/) (ad-free) - Movies / TV / Anime / 1080p
 * [RgShows](https://www.rgshows.me/) - Movies / TV / Anime / 4K / 1080p
+* [StreamFlix](https://watch.streamflix.one/), [2](https://watchamovie.today/), [3](https://streamflix.space/) - Movies / TV / Anime / 4K / 1080p / [Discord](https://discord.gg/C8fyfz5pYz)
 * [NetPlay](https://streamcloud.netplayz.ru/) - Movies / TV / Anime / 1080 / [Discord](https://discord.gg/NCH4rzxJ36)
 * [FilmHaven](https://fh.snipcola.com/) - Movies / TV / Anime / 4K / 1080p / [Git](https://git.snipcola.com/snipcola/FilmHaven)
 * [PrimeWire](https://www.primewire.tf/) - Movies / TV / Anime / 1080p
