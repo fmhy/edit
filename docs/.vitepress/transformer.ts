@@ -143,6 +143,8 @@ export function transformer(): Plugin {
           const _contents = transformGuide(contents)
           return header + _contents
         }
+        if (_id === 'storage.md') return header + contents
+
         return header + transformLinks(contents)
       }
     }
