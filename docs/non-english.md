@@ -1589,17 +1589,20 @@ https://aniwow.in/ has only dubs though
 ***
 
 # ► Turkish / Türkçe
+
 * [Playstation Haber](https://playstationhaber.com/) - PlayStation Piracy Forum
 * [MCpsp](https://www.mcpsp.com) - PlayStation Piracy Forum
 * [En ucuz oyun](https://www.enucuzoyun.com) - Price Tracker
 * [Teyit](https://teyit.org) - News Confirmation
 
 ## ▷ Downloading / İndirme
+
 * [Türkçe Altyazı](https://turkcealtyazi.org/) - Subtitles
 * [Turkish Audio Center](https://www.turkishaudiocenter.com), [Shareses](https://shareses.com), [Türkçe Ses İndir](https://www.turkcesesindir.com/), [Dw Force](http://dwa-audio.blogspot.com/), [Tr Sound Track](https://trsoundtrack.blogspot.com/) - Turkish dubs
 * [Sinner Clown](https://sinnerclownceviri.net) / [Discord](https://discord.com/invite/nApvcT6Tt6), [Pixel Saga](https://discord.gg/ZZER4w3Mmx), [Hangar](https://www.hangarceviri.com) - Game Localization
 
 ## ▷ Streaming / İzleme
+
 * ⭐ [Yabancıdizi](https://yabancidizi.tv) - Movies / TV / Sub / Dub / 1080p
 * ⭐ [Dizipal](https://dizipal810.com/), [2](https://dizipal786.com/) - Movies / TV / Sub / Dub / 1080p
 * ⭐ [Hdfilmcehennemi](https://www.hdfilmcehennemi.com/) - Movies / TV / Sub / Dub / 1080p
@@ -1615,6 +1618,7 @@ https://aniwow.in/ has only dubs though
 * [Türk Anime](https://www.turkanime.co/) / [Downloader](https://github.com/KebabLord/turkanime-indirici), [Anizm](https://anizm.net/), [Anime Who](https://animewho.com), [TR Anime İzle](https://www.tranimeizle.co) - Anime
 
 ## ▷ Reading / Okuma
+
 * [Booksfer](https://booksfer.com) - Books
 * [Telegram Groups](https://t.me/addlist/SWhexU5B_hoxMTc8) - Books
 * [Küflü e-kitap](https://www.kuflu.com/forums/e-kitap.58), [Küflü manga](https://www.kuflu.com/forums/anime-ve-manga.28) - Books / Magazines
