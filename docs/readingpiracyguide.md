@@ -308,7 +308,7 @@
 * [Red Texts](https://redtexts.org/) - Communism
 * [Communism Essays / FAQs](https://dessalines.github.io/essays) - Communism
 * [Third World Traveler](https://thirdworldtraveler.com/) - Human Rights / Conspiracies / Anti-War
-* [DnD-Books](https://github.com/EllatharTheHalfling/DnD-Books/tree/master/) - DnD4e/5e Books
+* [DnD-Books](https://github.com/EllatharTheHalfling/DnD-Books/) - DnD4e/5e Books
 
 ***
 
