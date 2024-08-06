@@ -382,5 +382,9 @@ function transformLinks(text: string): string {
       /\[Telegram\]\(([^\)]*?)\)/gm,
       '<a target="_blank" href="$1"><div alt="Telegram" class="i-mdi:telegram" /></a>'
     )
+    .replace(
+      /\[Subreddit\]\(([^\)]*?)\)/gm,
+      '<a target="_blank" href="$1"><div alt="Telegram" class="i-mdi:reddit" /></a>'
+    )
   return _text
 }
