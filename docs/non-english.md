@@ -14,7 +14,6 @@
 * [Wudooh](https://wudooh.app/) - Make Arabic Text Clearer
 * [AdslGate](https://www.adslgate.com/) - Arabic Tech Forum
 * [At4RE](https://www.at4re.net/) - Reverse Engineering Forum
-* [سعر الذهب](https://eg.goldratestoday.net/%d8%b3%d8%b9%d8%b1-%d8%a7%d9%84%d8%b0%d9%87%d8%a8-%d9%81%d9%8a-%d9%85%d8%b5%d8%b1/) - Check Live Gold Prices
 * [arabic-reddit-extension](https://github.com/andronasef/arabic-reddit-extension) - Fix Arabic Language on Reddit
 
 ## ▷ Downloading / تحميل
@@ -1677,8 +1676,8 @@ https://aniwow.in/ has only dubs though
 * [MayTinhOnline](https://maytinhonline.com/) - Calculator
 * [BusMap](https://busmap.vn/) - Bus Journey
 * [abProxy](https://proxy.abtech.vn/) - Web Proxy
-* [NguoiLa](https://nguoila.io/) or [CVNL](https://cvnl.app/) - Random Chat
-* [XaBuon](https://xabuon.com/), [Xem](https://xem.vn/) - Meme
+* [Zalo](https://chat.zalo.me/) - Chat App / [Dark Mode](https://zadark.com/) / [Desktop](https://zalo.me/pc)
+* [XaBuon](https://xabuon.com/) or [Xem](https://xem.vn/) - Memes
 * [GameVui](https://gamevui.vn/) or [Game24h](https://game24h.vn/) - Browser Games
 * [KiTuHay](https://kituhay.com/), [Symbols](https://symbols.vn/), [KTDB](https://ktdb.vn/) or [KiTuAz](https://kituaz.com/) - Special Characters
 * [Run](https://run.vn/) or [IconFB](https://iconfb.net/) - Emojis
