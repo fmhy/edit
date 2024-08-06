@@ -31,7 +31,7 @@
 
 ## ▷ Online Chatbots
 
-* 🌐 **[Awesome Free ChatGPT](https://github.com/LiLittleCat/awesome-free-chatgpt/blob/main/README_en.md)**, [Zhucn](https://zhucn.org/) or [ChinaGPT](https://github.com/GoldenMelon-Studio/chinagpt-4/) - Online GPT Indexes
+* 🌐 **[Awesome Free ChatGPT](https://github.com/LiLittleCat/awesome-free-chatgpt/blob/main/README_en.md)** or [ChinaGPT](https://github.com/GoldenMelon-Studio/chinagpt-4/) - Online GPT Indexes
 * ⭐ **[ChatGPT](https://chatgpt.com/)** - GPT-4o Chatbot / [Discord](https://discord.com/invite/openai)
 * ⭐ **[Microsoft Copilot](https://copilot.microsoft.com)** - GPT-4/3.5 Powered Search / [SydneyQT Jailbreak](https://github.com/juzeon/SydneyQt)
 * ⭐ **[Morphic](https://www.morphic.sh/)** - GPT-4o Powered Search
@@ -46,6 +46,7 @@
 * [feyn](https://feyn.chat/) - GPT-4o / Multiple Chatbots
 * [OAICHAT](https://chat.oaichat.cc/), [2](https://chat.sorapi.dev/), [3](https://ffa.chat/) - GPT-4o / Multiple Chatbots
 * [GPT4o.so](https://gpt4o.so/app) - GPT-4o
+* [Zhucn](https://zhucn.org/) - GPT-4o Mirror Pool
 * [LibreChat](https://librechat.ai/) - Multiple Chatbots
 * [DuckDuckGo AI](https://duck.ai/) - Multiple Chatbots
 * [HuggingChat](https://huggingface.co/chat/) - Open-Source Chatbots
