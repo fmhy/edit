@@ -338,6 +338,7 @@ export function transform(text: string): string {
     .replace(/^\* \*\*Note\*\* - (.+)$/gm, ':::tip\n$1\n:::')
     .replace(/^Note - (.+)$/gm, ':::tip\n$1\n:::')
     .replace(/^\*\*Warning\*\* - (.+)$/gm, ':::warning\n$1\n:::')
+    .replace(/^\* \*\*Warning\*\* - (.+)$/gm, ':::warning\n$1\n:::')
     .replace(/^\*\s([^*])/gm, '- $1')
     // Replace links
     .replace(
