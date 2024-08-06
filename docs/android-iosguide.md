@@ -630,6 +630,25 @@
 
 ***
 
+# ► Emulation on Android
+
+***
+
+* 🌐 **[Emulators on Android](https://emulation.gametechwiki.com/index.php/Emulators_on_Android)** - Emulators on Android
+* ⭐ **[Termux](https://termux.com/)**, [Termux Monet](https://github.com/KitsunedFox/termux-monet), [Limbo](https://github.com/limboemu/limbo) or [TermOne Plus](https://termoneplus.com/) - Windows Emulator on Android / Terminal Emulators / OS Environments
+* ⭐ **Termux Tools** - [YT-DL](https://github.com/OzakIOne/termux-youtube-dl), [2](https://github.com/khansaad1275/Termux-YTD) / [GUI](https://github.com/termux/termux-gui) / [ADB / Fastboot Tools](https://github.com/MasterDevX/Termux-ADB) / [Beautify](https://github.com/mayTermux/myTermux)
+* ⭐ **[mobox](https://github.com/olegos2/mobox)**, [Box64Droid](https://github.com/Ilya114/Box64Droid), [Boxvidra](https://github.com/Boxvidra/Boxvidra-Android) or [Winlator](https://winlator.org) / [GitHub](https://github.com/brunodev85/winlator) - Windows Emulators on Android
+* [Andronix](https://andronix.app/) - Linux Emulator for Android
+* [Ubuntu on Android](https://udroid-rc.gitbook.io) / [GitHub](https://github.com/RandomCoderOrg/ubuntu-on-android) - Ubuntu Emulator on Android
+* [FlashLite](https://flashlite.games/) - Flash Emulator / [Discord](https://discord.gg/F2dsGhTX6y)
+* [/r/EmulationOnAndroid](https://www.reddit.com/r/emulationonandroid) - Android Game Emulation Subreddit
+* [Dan's Palace](https://discord.gg/RqQeZwrP8k) - Android / PSVita PC Game Ports Discord  / [Telegram](https://t.me/danspalace)
+* [Source Engine 4 Android](https://discord.gg/source-engine-4-android-672055862608658432) - Source Engine Ports
+* [JoiPlay](https://joiplay.cyou/) - RPG Maker Game Interpreter
+* [AdrenoToolsDrivers](https://github.com/K11MCH1/AdrenoToolsDrivers) - Adreno Drivers for Android Emulators / [Systemwide](https://github.com/SEGAINDEED/Adreno-ToolsDriversMagisk)
+
+***
+
 # ► Android Emulators
 
 **Warning** - Closed-source emulators (like Nox) contain intrusive ads and trackers, so it's best to use open-source options or android subsystems (like WayDroid).
@@ -637,17 +656,12 @@
 ***
 
 * 🌐 **[Android Emulators](https://emulation.gametechwiki.com/index.php/Android_emulators)** - Android Emulator Index
-* 🌐 **[Emulators on Android](https://emulation.gametechwiki.com/index.php/Emulators_on_Android)** - Emulators on Android
-* ⭐ **[Termux](https://termux.com/)**, [Termux Monet](https://github.com/KitsunedFox/termux-monet), [Limbo](https://github.com/limboemu/limbo) or [TermOne Plus](https://termoneplus.com/) - Windows Emulator on Android / Terminal Emulators / OS Environments
-* ⭐ **Termux Tools** - [YT-DL](https://github.com/OzakIOne/termux-youtube-dl), [2](https://github.com/khansaad1275/Termux-YTD) / [GUI](https://github.com/termux/termux-gui) / [ADB / Fastboot Tools](https://github.com/MasterDevX/Termux-ADB) / [Beautify](https://github.com/mayTermux/myTermux)
 * ⭐ **[WSABuilds](https://github.com/MustardChef/WSABuilds)** - Android Emulator on Windows / Windows Subsystem / Pre-built Binaries
 * ⭐ **[WayDroid](https://waydro.id/)** / [GitHub](https://github.com/waydroid) / [Scripts](https://github.com/casualsnek/waydroid_script), [Redroid](https://github.com/remote-android/redroid-doc), [PostmarketOS](https://www.postmarketos.org/), [Ubuntu Touch](https://ubuntu-touch.io/get-ubuntu-touch), [Plasma Mobile](https://plasma-mobile.org/) or [Mobian](https://mobian-project.org/) - Android Emulator on Linux
 * ⭐ **[Android Studio Emulator](https://developer.android.com/studio/run/managing-avds#createavd)**
-* ⭐ **[mobox](https://github.com/olegos2/mobox)**, [Box64Droid](https://github.com/Ilya114/Box64Droid), [Boxvidra](https://github.com/Boxvidra/Boxvidra-Android) or [Winlator](https://winlator.org) / [GitHub](https://github.com/brunodev85/winlator) - Windows Emulators on Android
 * ⭐ **[Google Play Games](https://play.google.com/googleplaygames)** - Android Mobile Games on Windows
 * [PhoenixOS - BR (Discord)](https://discord.gg/BQ4td84) - Android Emulator on Windows
 * [PhoenixOS Darkmatter](https://aopc.dev/r/phoenixos-darkmatter-supercharged-for-everyone.2/) - Android Emulator on Windows / [Discord](https://discord.com/invite/AcGAGrzZ4e)
-* [Andronix](https://andronix.app/) - Linux Emulator for Android
 * [AOPC](https://aopc.dev/) - Android Desktop OS Forums
 * [Docker Android](https://github.com/budtmo/docker-android) - Android on Docker
 * [Nox](https://www.bignox.com/) - Android Emulator on Windows / [Debloat](https://gist.github.com/TameemS/72c4b92131977aced56e727d51599a48)
@@ -657,13 +671,6 @@
 * [MeMu](https://www.memuplay.com/) - Android Emulator on Windows / [Debloat](https://gist.github.com/TameemS/603686cec857ff1f91e68607e374b0d8)
 * [LDPlayer](https://www.ldplayer.net/) - Android Emulator on Windows / [Debloat](https://gist.github.com/TameemS/894cdb8adae1d6042a5f21c4e80bcd9e/)
 * [Genymotion](https://www.genymotion.com/download/) - Android Emulator on Windows
-* [Ubuntu on Android](https://udroid-rc.gitbook.io) / [GitHub](https://github.com/RandomCoderOrg/ubuntu-on-android) - Ubuntu Emulator on Android
-* [FlashLite](https://flashlite.games/) - Flash Emulator / [Discord](https://discord.gg/F2dsGhTX6y)
-* [/r/EmulationOnAndroid](https://www.reddit.com/r/emulationonandroid) - Android Game Emulation Subreddit
-* [Dan's Palace](https://discord.gg/RqQeZwrP8k) - Android / PSVita PC Game Ports Discord  / [Telegram](https://t.me/danspalace)
-* [Source Engine 4 Android](https://discord.gg/source-engine-4-android-672055862608658432) - Source Engine Ports
-* [JoiPlay](https://joiplay.cyou/) - RPG Maker Game Interpreter
-* [AdrenoToolsDrivers](https://github.com/K11MCH1/AdrenoToolsDrivers) - Adreno Drivers for Android Emulators / [Systemwide](https://github.com/SEGAINDEED/Adreno-ToolsDriversMagisk)
 
 ***
 
