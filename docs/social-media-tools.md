@@ -200,7 +200,7 @@
 
 ## ▷ Reddit Downloaders
 
-**Note** - You can download a reddit video by commenting /u/SaveVideo.
+* **Note** - You can download a reddit video by commenting /u/SaveVideo.
 
 ***
 

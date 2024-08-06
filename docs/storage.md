@@ -1079,7 +1079,7 @@
 
 ## Torrent to GDrive
 
-**Note** - Use throwaway accounts with these
+* **Note** - Use throwaway accounts with these
 
 ### Collab
 
