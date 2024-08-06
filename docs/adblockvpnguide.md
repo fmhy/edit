@@ -33,7 +33,7 @@
 
 * ⭐ **[yokoffing's Recommended Filters](https://github.com/yokoffing/filterlists)**
 * ⭐ **[LegitimateURLShortener](https://github.com/DandelionSprout/adfilt/blob/master/LegitimateURLShortener.txt)**
-* ⭐ **[FMHY Filterlist](https://windowsaurora.github.io/FMHYFilterlist/site/index.html)** - Unsafe Sites Filter / [GitHub](https://github.com/WindowsAurora/FMHYFilterlist/)
+* ⭐ **[FMHY Filterlist](https://windowsaurora.github.io/FMHYFilterlist/site/index.html)** - Unsafe Sites Filter / [Github](https://github.com/WindowsAurora/FMHYFilterlist/)
 * [FilterLists](https://filterlists.com/) Filter and host lists directory
 * [Adbox](http://raymondhill.net/ublock/adbox.html) - Test Filters
 * [DandelionSprout adfilt](https://github.com/DandelionSprout/adfilt)
@@ -275,7 +275,6 @@
 * [Encrypted SNI](https://www.cloudflare.com/ssl/encrypted-sni/) - Cloudflare Browser Check
 * [I2P](https://geti2p.net/en/) - Encrypted Private Network Layer / [Guide](https://rentry.co/CBGI2P)
 * [Whack](https://lcamtuf.coredump.cx/whack/) or [Earthling](https://earthlng.github.io/testpages/visited_links.html) - Browser History Leak Example Games
-* [SSL Labs](https://clienttest.ssllabs.com:8443/ssltest/viewMyClient.html) - SSL/TLS Browser Capabilities Test
 
 ***
 
