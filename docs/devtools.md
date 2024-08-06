@@ -13,6 +13,7 @@
 * [Spiceworks Community](https://community.spiceworks.com/) - Developer Forum
 * [DEV Community](https://dev.to/) - Developer Forum
 * [Blind](https://www.teamblind.com/) - Developer Forum
+* [IndieHackers](https://www.indiehackers.com/) - Developer Forum
 * [CyberArsenal](https://cyberarsenal.org/) - Cybersecurity Forums
 * [TheSecMaster](https://twitter.com/TheSecMaster1) - Cybersecurity Twitter
 * [Tech-Blogs](https://tech-blogs.dev/) - Blogs for Developers
