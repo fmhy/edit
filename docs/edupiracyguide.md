@@ -729,7 +729,7 @@
 * [Language Roadmap](https://languageroadmap.com/) - Foreign Language Media Difficulty Guide
 * [Hey! Lingo](https://www.heylingo.com/) or [LearnWithOliver](https://www.learnwitholiver.com/) - Language Learning Flashcards
 * [MyLanguages](https://mylanguages.org/) or [50Languages](https://www.50languages.com/) - Grammar / Vocabulary Language Learning
-* [Vocatra](https://esite.ch/vocatra/) - Vocabulary Trainer
+* [Vocatra](https://esite.ch/vocatra/) or [QuizFlow](https://apt.izzysoft.de/fdroid/index/apk/jdm.apps.quizflow/) - Vocabulary Trainers
 * [Verbix](https://www.verbix.com/) - Verb Conjugator
 * [ListLang](https://www.listlang.com/) - Most Used Words in Any Language
 * [Alphabetpedia](https://www.alphabetpedia.com/) - Multiple Language Alphabets
@@ -778,7 +778,7 @@
 
 ## ▷ Japanese
 
-* 🌐 **[GaijinRyman's Resources](https://github.com/GaijinRyman/JapaneseResources)**, [Nihongo](https://nihongo-e-na.com/eng/), [Best Japanese Websites](https://sites.uni.edu/becker/japanese222.html), [Japanese Resources](https://forum.wordreference.com/threads/japanese-resources-%E2%80%94-constantly-updated.787986/) or [AnimeCards](https://animecards.site/) - Japanese Learning Resources
+* 🌐 **[GaijinRyman's Resources](https://github.com/GaijinRyman/JapaneseResources)**, [Nihongo](https://nihongo-e-na.com/eng/), [Japanese Resources](https://forum.wordreference.com/threads/japanese-resources-%E2%80%94-constantly-updated.787986/) or [AnimeCards](https://animecards.site/) - Japanese Learning Resources
 * 🌐 **[Japanese Pitch Accent Resources](https://github.com/olety/japanese-pitch-accent-resources)** - Japanese Accent Resources
 * ⭐ **[TheMoeWay](https://learnjapanese.moe/)** / [Discord](https://discord.gg/nhqjydaR8j), [Kakugo](https://github.com/blastrock/kakugo), [Marshall's Site](https://marshallyin.com/), [HeyJapan](https://heyjapan.net/), [Renshuu](https://www.renshuu.org/), [GuideToJapanese](https://guidetojapanese.org/), [jpdb](https://jpdb.io/), [NativShark](https://www.nativshark.com/), [Donkuri](https://donkuri.github.io/learn-japanese/) or [Tofugu](https://www.tofugu.com/) - Learn Japanese
 * ⭐ **[Animelon](https://animelon.com/)** - Learn Japanese with Anime

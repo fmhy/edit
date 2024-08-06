@@ -382,6 +382,7 @@
 * [Overwatch-Server-Selector](https://github.com/foryVERX/Overwatch-Server-Selector) - Overwatch Server Selector
 * [Northstar](https://thunderstore.io/c/northstar/), [2](https://northstar.tf/) - Titanfall 2 Server Hosting & Modding / [GitHub](https://github.com/R2Northstar/Northstar/releases) / [Guide](https://rentry.org/northstar-guide) / [Discord](https://discord.gg/CEszSguY3A)
 * [Factorio.zone](https://factorio.zone/) - Free Factorio Servers
+* [Clash of Magic](https://www.clashofmagic.io/) / [Discord](https://discord.gg/eSbkhDF) or [Atrasis](https://atrasisclash.net/) / [Discord](https://discord.gg/wmSjaTJ) - Clash of Clans Private Servers
 * [Rusticaland](https://rusticaland.net/) - Free Rust Servers / [Discord](https://discord.com/invite/MD9RgdYhpf)
 * [PSO Servers](https://www.reddit.com/r/PSO/wiki/servers) - Phantasy Star Online 1 Server Revivals
 

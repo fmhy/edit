@@ -53,7 +53,7 @@ Search markdown manually (ctrl+f)
 
 ---
 
-### [Google CSEs](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/tools-misc#wiki_.25B7_search_tools)
+### [Google CSEs](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools/#wiki_.25B7_custom_search_engines)
 
 Multi-site search engines
 

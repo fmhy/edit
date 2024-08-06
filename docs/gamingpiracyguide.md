@@ -47,6 +47,8 @@
 * [LemmaSoft](https://lemmasoft.renai.us/) - Visual Novel Games / [Discord](https://discord.gg/6ckxWYm)
 * [VGPErson](https://vgperson.com/games/) - Simple Japanese Games
 * [SAGE](https://sagexpo.org/) - Sonic Fan Games / [Discord](https://discord.sonicfangameshq.com/)
+* [TeamForever](https://teamforeveronline.wixsite.com/home) - Sonic 1 & 2 Enhanced / [S1F Mods](https://gamebanana.com/games/10601) / [S2A Modss](https://gamebanana.com/games/15019) 
+* [Sonic 3 A.I.R.](https://sonic3air.org/) - Sonic 3 & Knuckles Enhanced / [Mods](https://gamebanana.com/games/6878) 
 * [Clone Hero](https://clonehero.net/) - Guitar Hero Clone / [Setlists](https://rentry.co/FMHYBase64#setlists), [2](https://customsongscentral.com/), [3](https://rentry.co/FMHYBase64#frif-drive) / [Wii Controller Support](https://github.com/Meowmaritus/WiitarThing) / [Custom Client](https://clonehero.scorespy.online)
 * [DoujinStyle](https://doujinstyle.com) - Doujin Games / [Discord](https://discord.com/invite/z2QDFdA)
 * [MoriyaShrine](https://moriyashrine.org/) - Touhou Games
@@ -72,7 +74,7 @@
 * [DigitalZone](https://digitalzone.vercel.app/), [2](https://god0654.github.io/DigitalZone/) - Download / Portable Repacks / [Discord](https://discord.gg/F7juJ4RryJ)
 * [Elamigos](https://elamigos.site/) - Download
 * [Tiny-Repacks](https://www.tiny-repacks.win) - Torrent
-* [DODI Repacks](https://dodi-repacks.site/) - Torrent / [Discord](https://discord.gg/uE273qJ) / [Forum](https://dodi-forums.win/) / [Opera Bypass](https://rentry.co/lootlink) / [Warning](https://pastebin.com/n5xS3v6k)
+* [DODI Repacks](https://dodi-repacks.site/) - Torrent / [Discord](https://discord.gg/uE273qJ) / [Opera Bypass](https://rentry.co/lootlink) / [Warning](https://pastebin.com/n5xS3v6k)
 * [FreeGOGPCGames](https://freegogpcgames.com/) - GOG Games Torrent Uploads / [Hash Note](https://pastebin.com/pNMj3nay), [2](https://i.ibb.co/XbF2dv1/image.png)
 * [Magipack](https://www.magipack.games), [CollectionChamber](https://collectionchamber.blogspot.com/) or [ClassicPCGames](https://archive.org/details/classicpcgames) - Retro PC Games
 * [~archive](https://websites.umich.edu/~archive/) - Retro PC / Mac Games

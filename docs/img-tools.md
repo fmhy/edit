@@ -9,7 +9,6 @@
 * ↪️  **[Background / Object Removers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_background_removers)**
 * [Scribus](https://www.scribus.net/) - Page Layout & Typesetting Program
 * [FilmDev](https://filmdev.org/) - Film Development Recipes
-* [StyleCLIP](https://github.com/orpatashnik/StyleCLIP) - Text Driven Image Manipulation / [Video](https://youtu.be/5icI0NgALnQ)
 * [Images.weserv.nl](https://images.weserv.nl/) - Image Editing Server
 * [Craft](https://www.invisionapp.com/craft) - Photoshop / Sketch Plugins
 * [Preset.id](https://preset.id/) - Adobe Lightroom Presets
@@ -25,17 +24,14 @@
 ## ▷ Editing Software
 
 * ⭐ **[Photoshop](https://w14.monkrus.ws/)** - Use a [VPN](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25BA_vpn) + [Client](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent#wiki_.25BA_torrent_clients)
-* ⭐ **[Gimp](https://www.gimp.org/)**, [2](https://github.com/cttynul/gimpshop-reloaded)
+* ⭐ **[Gimp](https://www.gimp.org/)**
 * ⭐ **Gimp Tools** - [Photoshop UI](https://github.com/Diolinux/PhotoGIMP) / [Texture Synthesizer](https://github.com/bootchk/resynthesizer) / [Batch Editor](https://github.com/alessandrofrancesconi/gimp-plugin-bimp)
 * [darktable](https://www.darktable.org/) - Virtual Lighttable & Darkroom
-* [DragGAN](https://github.com/XingangPan/DragGAN) - AI Image Editor
 * [RawTherapee](https://www.rawtherapee.com/) - Raw Image Editor
-* [UFRaw](https://ufraw.sourceforge.net/) - Raw Image Editor
 * [StitchTool](https://www.jdeploy.com/~stitchtool) - Image Stitcher, Splitter, Upscaler & more
 * [PhotoDemon](https://photodemon.org/)
 * [Paint.net](https://www.getpaint.net/index.html)
 * [PhotoFiltre](https://www.photofiltre-studio.com/)
-* [Polarr](https://www.polarr.com/)
 * [Pinta Project](https://www.pinta-project.com/)
 * [Luna Paint](https://marketplace.visualstudio.com/items?itemName=Tyriar.luna-paint) - VS Code
 * [Gimel Studio](https://gimelstudio.github.io/)
@@ -130,8 +126,7 @@
 
 * [AnimeColorDeOldify](https://github.com/Dakini/AnimeColorDeOldify) - Anime / Manga Image Colorization
 * [style2paints](https://github.com/lllyasviel/style2paints) - Lineart Colorization
-* [Petalica Paint](https://petalica.com/), [playback](https://playback.fm/colorize-photo), [cutout](https://www.cutout.pro/photo-colorizer-black-and-white), [hotpot](https://hotpot.ai/colorize-picture), [9may](https://9may.mail.ru/restoration/?lang=en), [InColor](https://www.myheritage.com/incolor) or [Colorizer](https://deepai.org/machine-learning-model/colorizer) - Online Image Colorization
-* [DeOldify](https://github.com/jantic/DeOldify) - Image / Video Colorization
+* [Petalica Paint](https://petalica.com/), [DeOldify](https://github.com/jantic/DeOldify), [InColor](https://www.myheritage.com/incolor) or [Colorizer](https://deepai.org/machine-learning-model/colorizer) - Online Image Colorization
 * [imagecolorizer](https://imagecolorizer.com/) - Image Colorization / Restoration
 
 ***
@@ -689,7 +684,7 @@
 ## ▷ Self-Hosted Galleries
 
 * 🌐 **[FOSS Photo Libraries](https://meichthys.github.io/foss_photo_libraries/)**
-* [Immich](https://immich.app/) / [GitHub](https://github.com/immich-app/immich)
+* [Immich](https://immich.app/) / [Github](https://github.com/immich-app/immich)
 * [Damselfly](https://github.com/Webreaper/Damselfly)
 * [HomeGallery](https://home-gallery.org/)
 * [LibrePhotos](https://github.com/LibrePhotos/librephotos)

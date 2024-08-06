@@ -13,6 +13,7 @@
 * [Spiceworks Community](https://community.spiceworks.com/) - Developer Forum
 * [DEV Community](https://dev.to/) - Developer Forum
 * [Blind](https://www.teamblind.com/) - Developer Forum
+* [IndieHackers](https://www.indiehackers.com/) - Developer Forum
 * [CyberArsenal](https://cyberarsenal.org/) - Cybersecurity Forums
 * [TheSecMaster](https://twitter.com/TheSecMaster1) - Cybersecurity Twitter
 * [Tech-Blogs](https://tech-blogs.dev/) - Blogs for Developers
@@ -228,7 +229,7 @@
 
 ## ▷ Database Tools
 
-* 🌐 **[DB Engines](https://db-engines.com/en/ranking)** - Database Rankings
+* 🌐 **[DB Engines](https://db-engines.com/en/ranking)** or [DBDB](https://dbdb.io/stats) - Database Rankings
 * 🌐 **[Awesome Opensource Data Engineering](https://github.com/gunnarmorling/awesome-opensource-data-engineering)** - Data Engineering Tools
 * 🌐 **[Awesome Big Data](https://github.com/newTendermint/awesome-bigdata)** - Big Data Resources
 * ⭐ **[DB Browser](https://sqlitebrowser.org/)** or [HeidiSQL](https://www.heidisql.com/) - SQL Managers
