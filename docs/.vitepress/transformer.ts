@@ -334,10 +334,8 @@ export function transform(text: string): string {
     .replace(/🌐/g, ':globe-with-meridians: ')
     .replace(/↪/g, ':repeat-button: ')
     // Replace note/warning/tip
-    .replace(/^\*\*Note\*\* - (.+)$/gm, ':::tip\n$1\n:::')
     .replace(/^\* \*\*Note\*\* - (.+)$/gm, ':::tip\n$1\n:::')
     .replace(/^Note - (.+)$/gm, ':::tip\n$1\n:::')
-    .replace(/^\*\*Warning\*\* - (.+)$/gm, ':::warning\n$1\n:::')
     .replace(/^\* \*\*Warning\*\* - (.+)$/gm, ':::warning\n$1\n:::')
     .replace(/^\*\s([^*])/gm, '- $1')
     // Replace links
