@@ -6,7 +6,7 @@
 
 # ► Adblocking
 
-* **Note** - Don't run multiple general adblockers (e.g., uBlock Origin and Adblock Plus) simultaneously to [avoid breakage](https://twitter.com/gorhill/status/1033706103782170625). Combining general adblockers with tools like SponsorBlock is fine. 
+* **Note** - Don't run multiple general adblockers (e.g., uBlock Origin and Adblock Plus) simultaneously to [avoid breakage](https://twitter.com/gorhill/status/1033706103782170625). Combining general adblockers with tools like SponsorBlock is fine.
 
 ***
 
@@ -266,7 +266,7 @@
 
 * 🌐 **[Awesome I2P](https://github.com/mikalv/awesome-i2p)** - I2P Resources
 * ↪️ **[Browser Comparisons](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools#wiki_.25BA_browser_tools)**
-* ⭐ **[Tor Browser](https://www.torproject.org/)** - Onion-Routed Browser / [Gitlab](https://gitlab.torproject.org/tpo/applications/tor-browser)
+* ⭐ **[Tor Browser](https://www.torproject.org/)** - Onion-Routed Browser / [GitLab](https://gitlab.torproject.org/tpo/applications/tor-browser)
 * ⭐ **[Mullvad Browser](https://mullvad.net/en/browser)** - Tor Browser Fork (without Tor network)
 * ⭐ **[arkenfox](https://github.com/arkenfox/user.js)** - Firefox Privacy Tweak / [Video](https://youtu.be/F7-bW2y6lcI)
 * [Librewolf](https://librewolf.net/) - Pre-tweaked Firefox Fork / [Use Auto-Updater](https://github.com/ltguillaume/librewolf-winupdater)

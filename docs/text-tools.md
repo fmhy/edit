@@ -19,7 +19,7 @@
 * [WindowTextExtractor](https://github.com/AlexanderPro/WindowTextExtractor) - Extract Text From Any Window
 * [Textify](https://ramensoftware.com/textify) - Copy Text from Any Dialog
 * [BeefText](https://beeftext.org/) - Text Substitution Tool
-* [Scanner](https://simon-knuth.github.io/scanner/index) or [NAPS2](https://www.naps2.com/) - Scanner Apps / [Github](https://github.com/simon-knuth/scanner)
+* [Scanner](https://simon-knuth.github.io/scanner/index) or [NAPS2](https://www.naps2.com/) - Scanner Apps / [GitHub](https://github.com/simon-knuth/scanner)
 * [Text to Handwriting](https://saurabhdaware.github.io/text-to-handwriting/), [texttohandwriting](https://texttohandwriting.com/) or [HandWrittner](https://handwrittner.com/?lang=en) - Text to Handwriting Converters
 * [StegCloak](https://stegcloak.surge.sh/) - Hide Messages in Text
 * [telescopictext](https://www.telescopictext.org/) - Write Text Within Text
@@ -74,7 +74,7 @@
 * ⭐ **[/r/Translator](https://www.reddit.com/r/translator/)** - Translation Request Community
 * ⭐ **[Translate Web Pages](https://github.com/FilipePS/Traduzir-paginas-web)** - Browser Extension
 * [Crow Translate](https://crow-translate.github.io/) or [Argos](https://github.com/argosopentech/argos-translate) - Translation Apps
-* [Translate Shell](https://www.soimort.org/translate-shell/) - Translation CLI / [Github](https://github.com/soimort/translate-shell)
+* [Translate Shell](https://www.soimort.org/translate-shell/) - Translation CLI / [GitHub](https://github.com/soimort/translate-shell)
 * [OnlineDocTranslator](https://www.onlinedoctranslator.com/en/) - Document Translator
 * [Matecat](https://www.matecat.com) - Online Translation Editor
 * [LingoJam](https://lingojam.com/) - Create Translator
@@ -237,10 +237,10 @@
 * [benotes](https://benotes.org/) - Self-hosted Bookmarks and Note Taking
 * [Saber](https://saber.adil.hanney.org/) - Crossplatform Handwritten Notes
 * [Simplenote](https://simplenote.com/) - Crossplatform Note Taking
-* [Butterfly](https://docs.butterfly.linwood.dev/) - Handwritten Notes / [Discord](https://discord.com/invite/97zFtYN) / [Github](https://github.com/LinwoodDev/Butterfly)
+* [Butterfly](https://docs.butterfly.linwood.dev/) - Handwritten Notes / [Discord](https://discord.com/invite/97zFtYN) / [GitHub](https://github.com/LinwoodDev/Butterfly)
 * [EncryptPad](https://evpo.net/encryptpad/) - Encrypted Text Editor
 * [NotebookLM](https://notebooklm.google/) or [Raven](https://www.ravenotes.com/) - AI Note Taking
-* [Xournal++](https://xournalpp.github.io/) - Handwritten Notes / [Github](https://github.com/xournalpp/xournalpp)
+* [Xournal++](https://xournalpp.github.io/) - Handwritten Notes / [GitHub](https://github.com/xournalpp/xournalpp)
 * [Notepads](https://www.notepadsapp.com/) - Text Editor
 * [Xed](https://github.com/linuxmint/xed) - GTK3 Text Editor
 * [Zim Wiki](https://zim-wiki.org/) - Wiki Text Editor
@@ -394,7 +394,7 @@
 * [Twinery](https://twinery.org/) - Interactive Non-Linear Story Creator
 * [TextUSM](https://textusm.com/) - User Story Map Generator / [GitHub](https://github.com/harehare/textusm)
 * [Blackout Poetry](https://blackoutpoetry.glitch.me/) - Blackout Poetry Creator
-* [Idyll](https://idyll-lang.org/editor) - Create Interactive Essays / [Github](https://github.com/idyll-lang/idyll)
+* [Idyll](https://idyll-lang.org/editor) - Create Interactive Essays / [GitHub](https://github.com/idyll-lang/idyll)
 * [Papyrus Author](https://www.papyrusauthor.com/) - Creative Writing Suite
 * [STARC](https://starc.app/) - Screen Writing Tool
 * [Unsell](https://www.unsell.design/) - Portfolio / Magazine Templates
