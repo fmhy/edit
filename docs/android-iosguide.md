@@ -206,6 +206,7 @@
 * [Wallpaper Engine](https://www.wallpaperengine.io/android/en) - Wallpapers
 * [wallman](https://gitlab.com/colorata/wallman) - Wallpapers
 * [FreshWalls](https://play.google.com/store/apps/details?id=com.techburner.freshwalls) - Wallpapers
+* [Paperize](https://github.com/Anthonyy232/Paperize) - Wallpapers
 * [Backdrops](https://www.backdrops.io/) - Wallpapers
 * [Phonetones](http://onj3.andrelouis.com/phonetones/) or [RingtoneRobot](https://t.me/RingtoneRobot) - Ringtones Directories
 * [Panels](https://play.google.com/store/apps/details?id=com.fossor.panels&hl=en_US&gl=QA) - Android Sidebar Panel
@@ -534,6 +535,7 @@
 * ⭐ **[LocalSend](https://localsend.org/)** - File Sync / Sharing / [Platforms](https://i.ibb.co/nsfMf04/8010dd28ed2d.png)
 * ⭐ **[Snapdrop Android](https://github.com/fm-sys/snapdrop-android)** or [pairdrop](https://pairdrop.net/) - File Sync / Sharing
 * ⭐ **[Aria2App](https://github.com/devgianlu/Aria2App)**, **[1DM](https://play.google.com/store/apps/details?id=idm.internet.download.manager&hl=en_US)**, [ADM](https://play.google.com/store/apps/details?id=com.dv.adm) or [FDM](https://play.google.com/store/apps/details?id=org.freedownloadmanager.fdm) - Download Managers
+* [Total Commander](https://www.ghisler.com/ce.htm), [Cx File Explorer](https://play.google.com/store/apps/details?id=com.cxinventor.file.explorer), [Xplore](https://play.google.com/store/apps/details?id=com.lonelycatgames.Xplore) or [FileNavigator](https://github.com/w2sv/FileNavigator) - File Managers / Explorers
 * [Round Sync](https://github.com/newhinton/Round-Sync), [MetaCTRL](https://metactrl.com/) or [FolderSync](https://www.tacit.dk/) - Multi-Site Cloud Storage File Managers
 * [dropbox](https://www.dropbox.com/) / [Sync](https://play.google.com/store/apps/details?id=com.ttxapps.dropsync) / [GUI](https://github.com/howeyc/crocgui) - Cloud Storage
 * [aQRoss](https://aqross.app/) - QR Code File Sharing
@@ -542,11 +544,9 @@
 * [iyox-Wormhole](https://github.com/iyox-studios/iyox-Wormhole) or [Wormhole](https://gitlab.com/lukas-heiligenbrunner/wormhole) - File Sync / Sharing
 * [Save on Device](https://github.com/lmj0011/save-on-device) - File Sync / Sharing
 * [DriveSync](https://play.google.com/store/apps/details?id=com.ttxapps.drivesync) - Google Drive Sync
-* [Total Commander](https://www.ghisler.com/ce.htm) - File Manager
 * [Disky](https://felixnuesse.de/disky/) - Disk Usage Analyzer
 * [Adebar](https://codeberg.org/izzy/Adebar), [OpenAndroidBackup](https://www.openandroidbackup.me/), [DataBackup](https://github.com/XayahSuSuSu/Android-DataBackup) (root), [Swift Backup](https://swiftapps.org/), [Neo Backup](https://github.com/NeoApplications/Neo-Backup) (root) - Device Backup Tools
 * [Folder in Folder](https://play.google.com/store/apps/details?id=com.ss.folderinfolder) - Create Subfolders
-* [Cx File Explorer](https://play.google.com/store/apps/details?id=com.cxinventor.file.explorer) or [FileNavigator](https://github.com/w2sv/FileNavigator) - File Managers
 * [Marc Files](https://play.google.com/store/apps/details?id=com.marc.files) - File Manager Shortcut
 * [ZipXtract](https://github.com/WirelessAlien/ZipXtract) - Unrar / Zip File App
 * [PDF2Images](https://codeberg.org/oparaskos/android-pdf2images) - PDF to Image Converter
@@ -573,7 +573,6 @@
 * [MoreDays](https://gitlab.com/wuapps/moredays) - Habit Tracker
 * [Goals](https://play.google.com/store/apps/details?id=io.rosenpin.goals) - Habit Tracker
 * [TheFor](https://thefor.xyz/) - Habit Tracker
-* [Forest](https://forestapp.cc/) - Productivity Tracker
 * [MyBrain](https://github.com/mhss1/MyBrain) - Productivity Tracker
 * [Success](https://eveningkid.com/success/) - Productivity Tracker
 * [Goodtime](https://github.com/adrcotfas/Goodtime) - Productivity Tracker
@@ -931,6 +930,7 @@
 * ⭐ **[Tubular](https://github.com/polymorphicshade/Tubular)** - Ad-free YouTube / SponsorBlock / ReturnYTDislikes
 * ⭐ **[Seal](https://github.com/JunkFood02/Seal)**, [YouTubeDL Android](https://github.com/yausername/youtubedl-android), [ytdlnis](https://github.com/deniscerri/ytdlnis) or [SongTube](https://github.com/SongTube/SongTube-App) - Audio / Video Downloaders
 * ⭐ **[GrayJay](https://grayjay.app/)** - YouTube, Twitch, Rumble etc / [Gitlab](https://gitlab.futo.org/videostreaming/grayjay) / [Plugins](https://gitlab.futo.org/videostreaming/plugins)
+* [FluxTube](https://github.com/mu-fazil-vk/FluxTube) - Ad-free YouTube
 * [Clipious](https://github.com/lamarios/clipious) - Android Invidious Client
 * [Hyperion](https://github.com/zt64/Hyperion) - YouTube Frontend
 * [SkyTube](https://github.com/SkyTubeTeam/SkyTube) - YouTube Player
