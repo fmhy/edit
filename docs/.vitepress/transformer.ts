@@ -383,5 +383,15 @@ function transformLinks(text: string): string {
       /\[Telegram\]\(([^\)]*?)\)/gm,
       '<a target="_blank" href="$1"><div alt="Telegram" class="i-mdi:telegram" /></a>'
     )
+    // Transform Gitlab links to icons
+    .replace(
+      /\[GitLab\]\(([^\)]*?)\)/gm,
+      '<a target="_blank" href="$1"><div alt="GitLab" class="i-mdi:gitlab" /></a>'
+    )
+    // Fallback for GitHub
+    .replace(
+      /\[Gitlab\]\(([^\)]*?)\)/gm,
+      '<a target="_blank" href="$1"><div alt="GitLab" class="i-mdi:gitlab" /></a>'
+    )
   return _text
 }
