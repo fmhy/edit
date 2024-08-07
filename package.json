@@ -1,0 +1,57 @@
+{
+  "name": "fmhy",
+  "type": "module",
+  "packageManager": "pnpm@9.5.0",
+  "scripts": {
+    "docs:dev": "vitepress dev docs/",
+    "docs:build": "vitepress build docs/",
+    "docs:preview": "vitepress preview docs/",
+    "api:prepare": "nitropack prepare",
+    "api:dev": "nitropack dev",
+    "api:build": "nitropack build",
+    "api:preview": "node .output/server/index.mjs",
+    "og:dev": "x-satori -t ./docs/.vitepress/hooks/Template.vue -c ./.vitepress/hooks/satoriConfig.ts --dev",
+    "format": "prettier -w --cache --check .",
+    "lint": "biome lint .",
+    "lint:fix": "biome lint . --write",
+    "lint:fix:unsafe": "biome lint . --write --unsafe",
+    "postinstall": "nitropack prepare"
+  },
+  "dependencies": {
+    "@fmhy/colors": "^0.0.11",
+    "@headlessui/vue": "^1.7.22",
+    "@resvg/resvg-js": "^2.6.0",
+    "consola": "^3.2.3",
+    "feed": "^4.2.2",
+    "itty-fetcher": "^0.9.4",
+    "nitro-cors": "^0.7.1",
+    "nitropack": "latest",
+    "nprogress": "^0.2.0",
+    "pathe": "^1.1.2",
+    "unocss": "^0.58.9",
+    "vitepress": "npm:@taskylizard/vitepress@1.1.1",
+    "vue": "^3.4.33",
+    "x-satori": "^0.1.5",
+    "zod": "^3.23.8"
+  },
+  "devDependencies": {
+    "@biomejs/biome": "^1.8.3",
+    "@iconify-json/carbon": "^1.1.36",
+    "@iconify-json/heroicons-solid": "^1.1.11",
+    "@iconify-json/mdi": "^1.1.68",
+    "@iconify-json/twemoji": "^1.1.15",
+    "@taskylizard/biome-config": "^1.0.1",
+    "@types/node": "^20.14.11",
+    "@types/nprogress": "^0.2.3",
+    "prettier": "^3.3.3",
+    "wrangler": "^3.68.0"
+  },
+  "pnpm": {
+    "peerDependencyRules": {
+      "ignoreMissing": [
+        "@algolia/client-search",
+        "search-insights"
+      ]
+    }
+  }
+}

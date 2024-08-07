@@ -1,0 +1,32 @@
+{
+  "$schema": "https://biomejs.dev/schemas/1.8.3/schema.json",
+  "extends": ["@taskylizard/biome-config"],
+  "files": {
+    "ignore": ["docs/.vitepress/**/*.vue", "docs/.vitepress/vue-shim.d.ts"]
+  },
+  "formatter": {
+    "enabled": false
+  },
+  "javascript": {
+    "globals": [
+      "defineNitroConfig",
+      "eventHandler",
+      "useRuntimeConfig",
+      "readValidatedBody",
+      "defineEventHandler"
+    ]
+  },
+  "linter": {
+    "rules": {
+      "style": {
+        "useFilenamingConvention": {
+          "level": "info",
+          "options": {
+            "filenameCases": ["camelCase", "PascalCase"]
+          }
+        },
+        "noDefaultExport": "off"
+      }
+    }
+  }
+}

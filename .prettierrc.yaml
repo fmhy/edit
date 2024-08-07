@@ -1,0 +1,6 @@
+proseWrap: always
+semi: false
+singleQuote: true
+printWidth: 80
+trailingComma: none
+htmlWhitespaceSensitivity: ignore

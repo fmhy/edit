@@ -1,0 +1,7 @@
+# See https://github.com/actions/labeler
+
+docs:
+  - '**/*.md'
+
+core:
+  - '.vitepress/**'
