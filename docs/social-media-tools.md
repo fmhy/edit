@@ -17,7 +17,7 @@
 
 # ► Discord Tools
 
-**Warning** - Misuse of chat archivers, deleters, mods & third-party clients is against Discords TOS, so use them at your own risk.
+* **Warning** - Misuse of chat archivers, deleters, mods & third-party clients is against Discords TOS, so use them at your own risk.
 
 ***
 
@@ -200,7 +200,7 @@
 
 ## ▷ Reddit Downloaders
 
-**Note** - You can download a reddit video by commenting /u/SaveVideo.
+* **Note** - You can download a reddit video by commenting /u/SaveVideo.
 
 ***
 
