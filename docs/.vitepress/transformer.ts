@@ -394,6 +394,7 @@ function transformLinks(text: string): string {
       /\[Telegram\]\(([^\)]*?)\)/gm,
       '<a target="_blank" href="$1"><div alt="Telegram" class="i-mdi:telegram" /></a>'
     )
+    // Transform Subreddit links to icons
     .replace(
       /\[Subreddit\]\(([^\)]*?)\)/gm,
       '<a target="_blank" href="$1"><div alt="Telegram" class="i-mdi:reddit" /></a>'
