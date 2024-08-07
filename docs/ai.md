@@ -179,6 +179,7 @@
 * 🌐 **[LMSYS Arena](https://chat.lmsys.org/?leaderboard)** - Chatbot Leaderboards / Benchmarks
 * 🌐 **[LLM Leaderboard](https://huggingface.co/spaces/open-llm-leaderboard/open_llm_leaderboard)** - Chatbot Leaderboards / Benchmarks
 * 🌐 **[Transformer Models Timeline](https://ai.v-gar.de/ml/transformer/timeline/)** - LLM Timeline
+* 🌐 **[Electron Hub](https://discord.gg/apUUqbxCBQ)** - AI Directory
 * 🌐 **[Toolify](https://www.toolify.ai/)** - AI Directory
 * 🌐 **[Phygital Library](https://library.phygital.plus/)** - AI Directory / Workflow Builder
 * 🌐 **[LifeArchitect](https://lifearchitect.ai/models-table/)** - LLM Index
@@ -214,6 +215,7 @@
 * [Dreamily](https://dreamily.ai/) - Story Writing AIs
 * [EssayBot](https://www.essaybot.com/) / [2](https://www.essayaibot.com/), [Textero](https://www.textero.ai/), [EssayBuilder](https://essay-builder.ai/) or [EssayService](https://www.essayservice.ai/) - Essay Writing AI
 * [TextSynth](https://textsynth.com/playground.html) - Text Autocomplete AI
+* [edyt.ai](https://app.edyt.ai/) - Content Writing
 * [Product Description Generator](https://www.aidirectori.es/tools/product-description-generator)
 
 ***

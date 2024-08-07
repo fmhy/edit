@@ -543,6 +543,7 @@
 * [Tunebat](https://tunebat.com/) - Music Key / BPM Database
 * [Cleanfeed](https://cleanfeed.net/) - Live Audio Recording
 * [Musicara](https://www.musicara.ml/) or [X-Minus](https://x-minus.pro/) - Create Karaoke Songs
+* [VB Cables](https://rentry.co/FMHYBase64#vb-cables) - Virtual Audio Cables
 * [Librescore Downloader](https://github.com/LibreScore/dl-librescore) - Librescore Downloader
 
 ***

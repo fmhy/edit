@@ -277,6 +277,7 @@
 * [Custom Office](https://gravesoft.dev/office_c2r_custom) - FOSS Office Suite
 * [Calligra](https://calligra.org/) - FOSS Office Suite
 * [Office Scrubber](https://github.com/abbodi1406/WHD/raw/master/scripts/OfficeScrubber_12r.zip) - Office Removal Tool / [Readme](https://github.com/abbodi1406/BatUtil/blob/master/OfficeScrubber/README.md)
+* [Office365Version](https://www.office365versions.com/) - Office 365 Version History
 
 ***
 
@@ -421,7 +422,7 @@
 * [Diry AI](https://www.diry.ai/)
 * [Fokus](https://fokus-website.netlify.app/)
 * [OpenToDoList](https://gitlab.com/rpdev/opentodolist)
-* [Microsoft To Do](https://apps.microsoft.com/store/detail/microsoft-to-do-lists-tasks-reminders/9NBLGGH5R558)
+* [Microsoft To Do](https://to-do.office.com/)
 * [ToDo R](https://todo-r.com/)
 * [ToDoZero](https://todozero.com/)
 * [LifeAt](https://lifeat.io/)

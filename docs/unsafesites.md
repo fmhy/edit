@@ -35,7 +35,7 @@
 * FTUApps - Caught with [malware](https://redd.it/120xk62)
 * S0ft4PC / Portable4PC - Caught with malware
 * CracksHash - Caught with [malware](https://redd.it/lklst7)
-* haxNode - Caught with [malware](https://www.virustotal.com/gui/file/e6318aa4432c304b234df65f5d87bf2577b930ed68ac7e68efcb76b465dc0784)
+* haxNode - Caught with [malware](https://rentry.org/scurvy_malware) / [2](https://www.virustotal.com/gui/file/e6318aa4432c304b234df65f5d87bf2577b930ed68ac7e68efcb76b465dc0784)
 * IGI30 - Caught with malware
 * MainRepo / MRepo - Caught with [malware](https://rentry.co/zu3i6) / Note that Magisk Module MRepo is unrelated
 * YASDL - Uploaded versions of stardock / jetbrains with malware
@@ -56,7 +56,7 @@
 * BitTorrent / BitComet - Adware
 * Frostwire - [Adware](https://www.virustotal.com/gui/file/6a501792717fd86635d80fb258979b823fd53000c6d683904e2fb2407f1706fd)
 * BitLord - Adware
-* [Fake 1337x Sites](https://redd.it/117fq8t)
+* [Fake 1337x Sites](https://pastebin.com/cpnVRy1A)
 
 ***
 

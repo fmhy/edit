@@ -39,6 +39,7 @@
 * ⭐ **[JDownloader](https://jdownloader.org/jdownloader2)** - Download Manager / [Debloat](https://rentry.org/jdownloader2) / [Dark Theme](https://redd.it/q3xrgj), [2](https://github.com/moktavizen/material-darker-jdownloader/) / [Dracula Theme](https://draculatheme.com/jdownloader2)
 * ⭐ **[Go Speed](https://gopeed.com/)** - Download Manager / [GitHub](https://github.com/GopeedLab/gopeed) / [Extension](https://github.com/GopeedLab/browser-extension) / [Plugins](https://github.com/search?q=topic%3Agopeed-extension&type=repositories)
 * ⭐ **[IDM](https://rentry.co/FMHYBase64#idm)** - Download Manager
+* [AB Download Manager](https://abdownloadmanager.com/) - Download Manager / [GitHub](https://github.com/amir1376/ab-download-manager) / [Telegram](https://t.me/abdownloadmanager_discussion)
 * [FDM](https://www.freedownloadmanager.org/) - Download Manager / [YTDL Addon](https://github.com/meowcateatrat/elephant) / [Note](https://pastebin.com/Vgwf3avH)
 * [XDM](https://xtremedownloadmanager.com/) - Download Manager / [GitHub](https://github.com/subhra74/xdm)
 * [Motrix](https://www.motrix.app/) or [imFile](https://github.com/imfile-io/imfile-desktop) - Download Manager / [GitHub](https://github.com/agalwood/Motrix)
@@ -388,23 +389,24 @@
 * ⭐ **gclone Tools** - [Guide](https://telegra.ph/Gclone-Guide-for-Windows-07-20) / [Telegram](https://github.com/wrenfairbank/telegram_gcloner) / [Bot](https://github.com/MsGsuite/CloneBot) / [Discord Bot](https://github.com/Rekulous/CloneCord-bot), [2](https://github.com/jsmsj/GcloneDiscordify)
 * ⭐ **[Air Explorer](https://airexplorer.net/en/)** - Cloud Storage Manager
 * ⭐ **[RaiDrive](https://www.raidrive.com/)** - Cloud Storage Manager
-* ⭐ **[GDrive](https://drive.google.com/)** - 15GB Free / ~$3.25 for 1TB
-* ⭐ **[mega](https://mega.nz/)** - 20GB Free / ~$4.5 for 1TB / [GitHub](https://github.com/meganz)
-* ⭐ **[disk.yandex](https://disk.yandex.com/)** - 5GB Free / $2.42 for 1TB
+* ⭐ **[GDrive](https://drive.google.com/)** - 15GB Free / ~$3 for 1TB
+* ⭐ **[mega](https://mega.nz/)** - 20GB Free / ~$4.50 for 1TB / [GitHub](https://github.com/meganz)
+* ⭐ **[disk.yandex](https://disk.yandex.com/)** - 5GB Free / $2 for 1TB
 * ⭐ **[filen](https://filen.io/)** - 10GB Free / ~$8 for 1TB
 * ⭐ **[Cyberduck](https://cyberduck.io/)** - Libre Server / Cloud Storage Browser
 * [Cloud Storage Archiving Guide](https://pastebin.com/kLhLHsXg) - How To Safely Archive Files on Cloud Storage Sites
 * [terabox](https://terabox.com/) - 1TB Free / $3.50 for 2TB / [Downloader](https://indexsubtitle.cc/terabox-direct-link-generator)
 * [dropbox](https://www.dropbox.com/) - 1 or 2 GB Free / ~$5 for 1TB / [Client](https://github.com/SamSchott/maestral)
-* [mediafire](https://www.mediafire.com/) - 10GB Free / $5.83 for 1TB
+* [mediafire](https://www.mediafire.com/) - 10GB Free / $5 for 1TB
 * [icedrive](https://icedrive.net/) - 10GB Free / $5 for 1TB
-* [PCloud](https://www.pcloud.com/) - 10GB Free / ~$4.16 for 1TB
+* [PCloud](https://www.pcloud.com/) - 10GB Free / ~$4 for 1TB
+* [Proton Drive](https://proton.me/drive) - 5GB Free / ~$23 for 3TB
 * [JumpShare](https://jumpshare.com/) - 2GB Free / $8.25 for 1TB
 * [CyberFile](https://cyberfile.me/) - 10GB Free
-* [MrOwl](https://www.mrowl.com/) - 10GB Free / ~$16.67 for 1TB
+* [MrOwl](https://www.mrowl.com/) - 10GB Free / ~$16 for 1TB
 * [storj](https://www.storj.io/) - 25GB Free / ~$4 for 1TB
 * [Blomp](https://www.blomp.com/) - 20GB Free / ~$3 for 2TB
-* [internxt](https://internxt.com/) - 10GB Free / ~4.85 for 1TB
+* [internxt](https://internxt.com/) - 10GB Free / ~4 for 1TB
 * [Akira Box](https://akirabox.com/) - 20GB Free
 * [1Cloud File](https://1cloudfile.com/) - 10GB Free
 * [xpipe](https://xpipe.io) - Remote File Manager
