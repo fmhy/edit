@@ -6,7 +6,7 @@
 
 # ► Torrent Sites
 
-**Warning** - It's best to avoid sites that allow anyone to make accounts when getting both software and games. Avoid users in the [Unsafe](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/unsafe-sites/) or [Untrusted](https://rentry.org/pgames#untrusted-uploaders) lists.
+* **Warning** - It's best to avoid sites that allow anyone to make accounts when getting both software and games. Avoid users in the [Unsafe](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/unsafe-sites/) or [Untrusted](https://rentry.org/pgames#untrusted-uploaders) lists.
 
 ***
 
@@ -32,11 +32,11 @@
 
 ## ▷ Aggregators
 
-**Warning** - Aggregators include many sources, so it's best to avoid using them for software and games. Avoid users in the [Unsafe](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/unsafe-sites/) or [Untrusted](https://rentry.org/pgames#untrusted-uploaders) lists.
+* **Warning** - Aggregators include many sources, so it's best to avoid using them for software and games. Avoid users in the [Unsafe](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/unsafe-sites/) or [Untrusted](https://rentry.org/pgames#untrusted-uploaders) lists.
 
 ***
 
-* ⭐ **[BTDigg](https://btdig.com/index.htm)** - [.onion](http://btdigggink2pdqzqrik3blmqemsbntpzwxottujilcdjfz56jumzfsyd.onion/), [2](https://btdigggink2pdqzqrik3blmqemsbntpzwxottujilcdjfz56jumzfsyd.onion.ly/) / [i2p](http://btdigg.i2p/)
+* ⭐ **[BTDigg](https://btdig.com/index.htm)** - [.onion](http://btdigggink2pdqzqrik3blmqemsbntpzwxottujilcdjfz56jumzfsyd.onion/), [2](https://btdigggink2pdqzqrik3blmqemsbntpzwxottujilcdjfz56jumzfsyd.onion.ly/) / [.i2p](http://btdigg.i2p/)
 * ⭐ **[snowfl](https://snowfl.com/)**
 * ⭐ **[Knaben](https://knaben.eu/)**
 * ⭐ **[SolidTorrents](https://solidtorrents.to/)**, [2](https://solidtorrents.eu/)
@@ -94,7 +94,7 @@
 
 # ► Torrent Clients
 
-**Warning** - Make sure you [BIND](https://redd.it/ssy8vv) your [VPN](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25BA_vpn) to your client to avoid ISP letters.
+* **Warning** - Make sure you [BIND](https://redd.it/ssy8vv) your [VPN](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25BA_vpn) to your client to avoid ISP letters.
 
 ***
 
