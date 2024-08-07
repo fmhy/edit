@@ -338,6 +338,7 @@ export function transform(text: string): string {
     .replace(/^\* \*\*Note\*\* - (.+)$/gm, ':::tip\n$1\n:::')
     .replace(/^Note - (.+)$/gm, ':::tip\n$1\n:::')
     .replace(/^\*\*Warning\*\* - (.+)$/gm, ':::warning\n$1\n:::')
+    .replace(/^\* \*\*Warning\*\* - (.+)$/gm, ':::warning\n$1\n:::')
     .replace(/^\*\s([^*])/gm, '- $1')
     // Replace links
     .replace(
@@ -373,15 +374,29 @@ function transformLinks(text: string): string {
       /\[GitHub\]\(([^\)]*?)\)/gm,
       '<a target="_blank" href="$1"><div alt="GitHub" class="i-carbon:logo-github mb-1" /></a>'
     )
-    // Fallback for GitHub
+    // Fallback
     .replace(
       /\[Github\]\(([^\)]*?)\)/gm,
       '<a target="_blank" href="$1"><div alt="GitHub" class="i-carbon:logo-github mb-1" /></a>'
+    )
+    // Transform GitLab links to icons
+    .replace(
+      /\[GitLab\]\(([^\)]*?)\)/gm,
+      '<a target="_blank" href="$1"><div alt="GitLab" class="i-carbon:logo-gitlab" /></a>'
+    )
+    // Fallback
+    .replace(
+      /\[Gitlab\]\(([^\)]*?)\)/gm,
+      '<a target="_blank" href="$1"><div alt="GitLab" class="i-carbon:logo-gitlab" /></a>'
     )
     // Transform Telegram links to icons
     .replace(
       /\[Telegram\]\(([^\)]*?)\)/gm,
       '<a target="_blank" href="$1"><div alt="Telegram" class="i-mdi:telegram" /></a>'
+    )
+    .replace(
+      /\[Subreddit\]\(([^\)]*?)\)/gm,
+      '<a target="_blank" href="$1"><div alt="Telegram" class="i-mdi:reddit" /></a>'
     )
   return _text
 }
