@@ -630,7 +630,7 @@
 
 ***
 
-# ► Emulation on Android
+# ► Android Emulators
 
 ***
 
@@ -649,7 +649,7 @@
 
 ***
 
-# ► Android Emulators
+## ▷ Android on Windows
 
 * **Warning** - Closed-source emulators (like Nox) contain intrusive ads and trackers, so it's best to use open-source options or android subsystems (like WayDroid).
 
