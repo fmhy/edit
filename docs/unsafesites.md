@@ -6,7 +6,7 @@
 
 ### Game Sites
 
-**Note** - Scene groups do not have their own sites, so it's best to avoid anything claiming to represent one.
+* **Note** - Scene groups do not have their own sites, so it's best to avoid anything claiming to represent one.
 
 * 🌐 **[Untrusted Uploaders](https://rentry.org/pgames#untrusted-uploaders)**
 * 🌐 **[Fake FitGirl Sites](https://rentry.co/FakeFitgirlwebsites)**
@@ -25,7 +25,7 @@
 
 ### Software / App Sites
 
-**Note** - YouTube videos claiming to give away free software are nearly always scams.
+* **Note** - YouTube videos claiming to give away free software are nearly always scams.
 
 * GetIntoPC / GetIntoMAC - Caught with malware multiple times
 * SadeemPC / SadeemAPK - Caught with malware multiple times
@@ -48,7 +48,7 @@
 
 ### Torrent Sites / Clients
 
-**Note** - Torrent aggregators pull results from multiple sites, so it's recommended to avoid using them for software and games.
+* **Note** - Torrent aggregators pull results from multiple sites, so it's recommended to avoid using them for software and games.
 
 * Kickass Torrents - Official site is long gone, all that remain are sketchy copycats
 * VSTorrent - Caught with [malware](https://redd.it/x66rz2)
