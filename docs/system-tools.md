@@ -35,7 +35,7 @@
 
 ## ▷ System Debloating
 
-**Warning** - It's not recommended to use debloaters unless you know what you're doing. Always research first, never just "Apply All" randomly.
+* **Warning** - It's not recommended to use debloaters unless you know what you're doing. Always research first, never just "Apply All" randomly.
 
 ***
 
@@ -249,7 +249,7 @@
 * [Easy-GPU-PV](https://github.com/jamesstringerparsec/Easy-GPU-PV) - Easy GPU Paravirtualization
 * [GsyncSwitch](https://github.com/kwizatz88/GsyncSwitch) - Switch G-Sync or HDR on/off
 * [ThrottleStop](https://www.techpowerup.com/download/techpowerup-throttlestop/) - Laptop CPU Monitor / Optimizer
-* [Universal x86 Tuning Utility](https://amdaputuningutility.com/) / [Github](https://github.com/JamesCJ60/Universal-x86-Tuning-Utility) - Laptop GPU Controller
+* [Universal x86 Tuning Utility](https://amdaputuningutility.com/) / [GitHub](https://github.com/JamesCJ60/Universal-x86-Tuning-Utility) - Laptop GPU Controller
 * [RyzenAdj](https://github.com/FlyGoat/RyzenAdj) - Ryzen Laptop GPU Controller
 
 ***
