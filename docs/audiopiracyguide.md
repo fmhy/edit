@@ -433,7 +433,7 @@
 
 * ⭐ **[Sitting on Clouds](https://www.sittingonclouds.net/)** / [Discord](https://discord.com/invite/x23SFbE) / [.onion](http://cloudscbr2l7prtthmz5jk5hxpndisu4ohqytsri5vyua3ksfswl7gyd.onion/) - Anime / Game Soundtracks
 * ⭐ **[Squid-Board](https://www.squid-board.org/)** - Media Soundtracks / Account Required
-* ⭐ **[Squidify](https://www.squidify.org)** - Game / Anime Soundtracks / [Resources](https://wotaku.moe/guides/music/squidify)
+* ⭐ **[Squidify](https://www.squidify.org)** - Game / Anime Soundtracks / [Resources](https://wotaku.wiki/guides/music/squidify)
 * [MusicDex](https://musicdex.org/) - Anime Soundtracks / [Discord](https://discord.gg/yCXJkbdCHt)
 * [3ost](https://3ost.ru/), [joshw](https://pc.joshw.info/) / [Search](https://vgm.hcs64.com/) or [tanikal](https://www.tanikal.com/) - Soundtracks
 * [RenovationRecords](https://renovatiorecords.blogspot.com/) - HQ Movies Soundtracks

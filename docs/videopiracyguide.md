@@ -119,7 +119,7 @@
 
 ## ▷ Anime Streaming
 
-* 🌐 **[Wotaku](https://wotaku.moe/websites)** - Anime Streaming Index/ [Discord](https://discord.gg/vShRGx8ZBC)
+* 🌐 **[Wotaku](https://wotaku.wiki/websites)** - Anime Streaming Index/ [Discord](https://discord.gg/vShRGx8ZBC)
 * 🌐 **[The Index](https://theindex.moe/library/anime)** - Anime Streaming Index / [Discord](https://discord.gg/Snackbox) / [Wiki](https://thewiki.moe/)
 * 🌐 **[EverythingMoe](https://everythingmoe.com/)** - Anime Streaming Index / [Discord](https://discord.gg/GuueaDgKdS)
 * ⭐ **[AniWave](https://aniwave.to/)** or [Anix](https://anix.to/), [2](https://animesuge.to/), [3](https://zoroxtv.to/) - Sub / Dub / 1080p / [Lite](https://lite.aniwave.to)
@@ -608,7 +608,7 @@
 
 ***
 
-* 🌐 **[Wotaku](https://wotaku.moe/websites#download)** - Anime Download Index / [Discord](https://discord.gg/vShRGx8ZBC)
+* 🌐 **[Wotaku](https://wotaku.wiki/websites#download)** - Anime Download Index / [Discord](https://discord.gg/vShRGx8ZBC)
 * 🌐 **[EverythingMoe](https://everythingmoe.com/#section-download)** - Anime DDL Index / [Discord](https://discord.gg/GuueaDgKdS)
 * 🌐 **[The Index DDL](https://theindex.moe/collection/ddl-communities)** - Anime DDL Sites / [Discord](https://discord.gg/Snackbox) / [Wiki](https://thewiki.moe/)
 * ↪️ **[Telegram Anime Downloads](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_telegram_anime_downloads)**

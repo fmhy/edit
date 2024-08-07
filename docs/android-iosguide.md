@@ -738,9 +738,9 @@
 
 ## ▷ Android Manga
 
-* ⭐ **[Mihon](https://mihon.app/) / [Discord](https://discord.gg/mihon)** - Manga Reader / [Extensions](https://keiyoushi.github.io/extensions/), [2](https://discord.gg/3FbCpdKbdY), [3](https://wotaku.moe/guides/tech/repo) / [Official Forks](https://mihon.app/forks/), [2](https://github.com/null2264/yokai), [3](https://github.com/nekomangaorg/Neko), [4](https://github.com/komikku-app/komikku)
+* ⭐ **[Mihon](https://mihon.app/) / [Discord](https://discord.gg/mihon)** - Manga Reader / [Extensions](https://keiyoushi.github.io/extensions/), [2](https://discord.gg/3FbCpdKbdY), [3](https://wotaku.wiki/guides/tech/repo) / [Official Forks](https://mihon.app/forks/), [2](https://github.com/null2264/yokai), [3](https://github.com/nekomangaorg/Neko), [4](https://github.com/komikku-app/komikku)
 * ⭐ **[Kotatsu](https://kotatsu.app/) / [Discord](https://discord.gg/NNJ5RgVBC5) / [Telegram](https://t.me/kotatsuapp)** - Manga Reader
-* ⭐ **[Dantotsu](https://github.com/rebelonion/Dantotsu)** - Manga Reader / [Extension Guide](https://wotaku.moe/guides/tech/repo) / [Discord](https://discord.gg/W9KHG7zzKd)
+* ⭐ **[Dantotsu](https://github.com/rebelonion/Dantotsu)** - Manga Reader / [Extension Guide](https://wotaku.wiki/guides/tech/repo) / [Discord](https://discord.gg/W9KHG7zzKd)
 * [Neko](https://github.com/nekomangaorg/Neko) / [Discord](https://discord.gg/4vmK42QuKG) - Manga Reader
 * [Perfect Viewer](https://rentry.co/FMHYBase64#perfect-viewer) - Manga File Viewer
 * [Manga Tag](https://www.mangatag.com/) - Manga File Viewer
@@ -874,7 +874,7 @@
 * ⭐ **[CloudStream](https://cloudstream-on-fleek-co.ipns.dweb.link/)** - Movies / TV / Anime
 * ⭐ **CloudStream Resources** - [Plugins](https://discord.com/invite/wpX5Rfcx87), [2](https://github.com/Rowdy-Avocado/Rowdycado-Extensions), [3](https://rentry.org/cs3-repos) / [Discord](https://discord.com/invite/5Hus6fM) / [Docs](https://recloudstream.github.io/csdocs/), [2](https://cloudstream.miraheze.org/wiki/Main_Page) / [GitHub](https://github.com/recloudstream/cloudstream)
 * ⭐ **[FlixQuest](https://flixquest.beamlak.dev/)** - Movies / TV / [GitHub](https://github.com/BeamlakAschalew/flixquest)
-* ⭐ **[Kuukiyomi](https://github.com/LuftVerbot/kuukiyomi/)** / [Extension Guide](https://wotaku.moe/guides/tech/repo) / [Discord](https://discord.gg/s82Vu589Ya)
+* ⭐ **[Kuukiyomi](https://github.com/LuftVerbot/kuukiyomi/)** / [Extension Guide](https://wotaku.wiki/guides/tech/repo) / [Discord](https://discord.gg/s82Vu589Ya)
 * ⭐ **[Miru Project](https://miru.js.org/en/download)** - Movies / TV / Anime / [GitHub](https://github.com/miru-project/miru-app) / [Docs](https://miru.js.org/en/developer/)
 * ⭐ **[HDO Box](https://rentry.co/FMHYBase64#hdo-box)** - Movies / TV / [Discord](https://discord.gg/VPRJVExUVD) / [Warning](https://i.ibb.co/ZBy93sr/image.png)
 * ⭐ **[Kodi](https://kodi.tv/)** - [/r/Addons4Kodi](https://www.reddit.com/r/Addons4Kodi/) / [Tracker](https://kinkeadtech.com/best-kodi-streaming-addons/) / [Trending](https://kodiapps.com/addons-chart) / [Real-Debrid](https://real-debrid.com/)
@@ -902,10 +902,10 @@
 
 ## ▷ Android Anime
 
-* 🌐 **[Wotaku](https://wotaku.moe/software#anime-streaming)** - Anime Streaming Index / [Discord](https://discord.gg/vShRGx8ZBC)
+* 🌐 **[Wotaku](https://wotaku.wiki/software#anime-streaming)** - Anime Streaming Index / [Discord](https://discord.gg/vShRGx8ZBC)
 * 🌐 **[EverythingMoe](https://everythingmoe.com/#section-mobileapp)** - Anime App Index / [Discord](https://discord.gg/GuueaDgKdS)
-* ⭐ **[Aniyomi](https://aniyomi.org/)** / [Extension Guide](https://wotaku.moe/guides/tech/repo)
-* ⭐ **[Dantotsu](https://github.com/rebelonion/Dantotsu)** / [Extension Guide](https://wotaku.moe/guides/tech/repo) / [Discord](https://discord.gg/W9KHG7zzKd)
+* ⭐ **[Aniyomi](https://aniyomi.org/)** / [Extension Guide](https://wotaku.wiki/guides/tech/repo)
+* ⭐ **[Dantotsu](https://github.com/rebelonion/Dantotsu)** / [Extension Guide](https://wotaku.wiki/guides/tech/repo) / [Discord](https://discord.gg/W9KHG7zzKd)
 * [AniLab](https://anilab.to/)
 * [Anikin](https://github.com/jerry08/Anikin)
 * [Animiru](https://github.com/Quickdesh/Animiru)

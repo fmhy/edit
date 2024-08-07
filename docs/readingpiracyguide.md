@@ -356,7 +356,7 @@
 
 ## ▷ Manga
 
-* 🌐 **[Wotaku](https://wotaku.moe/websites#manga)** - Manga Sites Index / [Discord](https://discord.gg/vShRGx8ZBC)
+* 🌐 **[Wotaku](https://wotaku.wiki/websites#manga)** - Manga Sites Index / [Discord](https://discord.gg/vShRGx8ZBC)
 * 🌐 **[The Index](https://theindex.moe/library/manga)** - Manga Sites Index / [Discord](https://discord.gg/Snackbox) / [Wiki](https://thewiki.moe/)
 * 🌐 **[EverythingMoe](https://everythingmoe.com/#section-manga)** - Manga Sites Index / [Discord](https://discord.gg/GuueaDgKdS)
 * ↪️ **[Manga Readers / Managers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_manga_readers)**
@@ -372,7 +372,7 @@
 * [MangaKatana](https://mangakatana.com/)
 * [Cubari Proxy](https://proxy.cubari.moe/) - Multi Site Web Client / [Discord](https://discord.com/invite/SavdUC45MS)
 * [Great Discord Links](https://discord.gg/xAsyVb52a9) or [Mangadex Groups](https://mangadex.org/groups) - Manga Scanlation Groups
-* [Madokami](https://wotaku.moe/guides/mado) / [Archive](https://rentry.co/FMHYBase64#madokami)
+* [Madokami](https://wotaku.wiki/guides/mado) / [Archive](https://rentry.co/FMHYBase64#madokami)
 * [The Manga Library](https://rentry.co/FMHYBase64#the-manga-library)
 * [MangaNelo](https://m.manganelo.com/wwww), [Manganato](https://manganato.com/) or [Mangakakalot](https://mangakakalot.com/)
 * [MangaFire](https://mangafire.to/) - [Discord](https://discord.com/invite/KRQQKzQ6CS)
@@ -423,7 +423,7 @@
 
 ## ▷ Light Novels
 
-* 🌐 **[Wotaku](https://wotaku.moe/websites#novels)** - Light Novel Index / [Discord](https://discord.gg/vShRGx8ZBC)
+* 🌐 **[Wotaku](https://wotaku.wiki/websites#novels)** - Light Novel Index / [Discord](https://discord.gg/vShRGx8ZBC)
 * 🌐 **[EverythingMoe](https://everythingmoe.com/#section-novel)** - Light Novel Sites Index / [Discord](https://discord.gg/GuueaDgKdS)
 * 🌐 **[The Index](https://theindex.moe/library/novels)** - Light Novel Site Index / [Discord](https://discord.gg/Snackbox) / [Wiki](https://thewiki.moe/)
 * ⭐ **[Novel Updates](https://www.novelupdates.com/)**
