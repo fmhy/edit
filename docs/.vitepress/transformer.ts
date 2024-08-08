@@ -2,10 +2,10 @@ import { basename } from 'pathe'
 import type { Plugin } from 'vitepress'
 
 interface Header {
-  [key: string]: { title: string; description: string }
+  [file: string]: { title: string; description: string }
 }
 
-const headers: Header = {
+export const headers: Header = {
   'adblockvpnguide.md': {
     title: 'Adblocking / Privacy',
     description: "Adblocking, Privacy, VPN's, Proxies, Antivirus"
@@ -118,7 +118,7 @@ const headers: Header = {
     title: 'Unsafe Sites',
     description: 'Unsafe/harmful sites to avoid.'
   }
-}
+} as const
 
 const excluded = ['readme.md', 'single-page', 'feedback.md', 'index.md']
 
@@ -374,7 +374,7 @@ function transformLinks(text: string): string {
       /\[GitHub\]\(([^\)]*?)\)/gm,
       '<a target="_blank" href="$1"><div alt="GitHub" class="i-carbon:logo-github mb-1" /></a>'
     )
-    // Fallback
+    // Fallback for GitHub
     .replace(
       /\[Github\]\(([^\)]*?)\)/gm,
       '<a target="_blank" href="$1"><div alt="GitHub" class="i-carbon:logo-github mb-1" /></a>'
@@ -384,7 +384,7 @@ function transformLinks(text: string): string {
       /\[GitLab\]\(([^\)]*?)\)/gm,
       '<a target="_blank" href="$1"><div alt="GitLab" class="i-carbon:logo-gitlab" /></a>'
     )
-    // Fallback
+    // Fallback for GitLab
     .replace(
       /\[Gitlab\]\(([^\)]*?)\)/gm,
       '<a target="_blank" href="$1"><div alt="GitLab" class="i-carbon:logo-gitlab" /></a>'
@@ -397,7 +397,7 @@ function transformLinks(text: string): string {
     // Transform Subreddit links to icons
     .replace(
       /\[Subreddit\]\(([^\)]*?)\)/gm,
-      '<a target="_blank" href="$1"><div alt="Telegram" class="i-mdi:reddit" /></a>'
+      '<a target="_blank" href="$1"><div alt="Reddit" class="i-mdi:reddit" /></a>'
     )
   return _text
 }
