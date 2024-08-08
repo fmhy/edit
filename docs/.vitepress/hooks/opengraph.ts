@@ -71,14 +71,14 @@ async function generateImage({
   const _page = getPage(url)
   const title =
     frontmatter.layout === 'home'
-      ? frontmatter.hero.name ?? frontmatter.title
+      ? (frontmatter.hero.name ?? frontmatter.title)
       : frontmatter.title
         ? frontmatter.title
         : _page?.title
 
   const description =
     frontmatter.layout === 'home'
-      ? frontmatter.hero.tagline ?? frontmatter.description
+      ? (frontmatter.hero.tagline ?? frontmatter.description)
       : frontmatter.description
         ? frontmatter.description
         : _page?.description
