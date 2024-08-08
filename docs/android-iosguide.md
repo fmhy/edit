@@ -901,6 +901,7 @@
 * [MovieDB](https://github.com/WirelessAlien/MovieDB) - TMDB App
 * [Unchained for Android](https://github.com/LivingWithHippos/unchained-android) - Interact with Real-Debrid API
 * [How to Extract Widevine L3 CDM from Android](https://pastebin.com/zhpa3XSD)
+* [Myflixerz](https://myflixerz.to/android-movies-apk) - Android & AndroidTV Client for Movies / TV / Anime  
 
 ***
 
