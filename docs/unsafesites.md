@@ -1,4 +1,4 @@
-### [Adblock Filter List](https://windowsaurora.github.io/FMHYFilterlist/site/index.html)
+### [Adblock Filter List](https://fmhy.github.io/FMHYFilterlist/)
 
 ***
 

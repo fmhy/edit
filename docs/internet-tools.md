@@ -120,7 +120,7 @@
 
 * ⭐ **[Archive.is](https://archive.is/)** - Archived Articles
 * ⭐ **[Bypass Paywalls Clean](https://github.com/bpc-clone/bpc_updates/releases)** / [Filter List](https://github.com/bpc-clone/bypass-paywalls-clean-filters) / [Twitter](https://twitter.com/Magnolia1234B) - Browser Extensions
-* ⭐ **[Freedium](https://freedium.cfd/)** or [Medium For All](https://medium-forall.vercel.app/) - Bypass Medium Paywalls
+* ⭐ **[Freedium](https://freedium.cfd/)**, [Medium Parser](https://github.com/Xatta-Trone/medium-parser-extension) or [Medium For All](https://medium-forall.vercel.app/) - Bypass Medium Paywalls
 * ⭐ **[wallabag](https://wallabag.org/)** / [Discord Bot](https://github.com/FahadBinHussain/wallabot) or [Ladder](https://github.com/everywall/ladder) - Self-Hosted
 * [Smry.ai](https://www.smry.ai/) - Article Paywall Bypass
 * [Bypass paywalls for scientific documents](https://greasyfork.org/en/scripts/35521) - Bypass Scientific Document Paywalls
@@ -204,7 +204,7 @@
 ## ▷ RSS Tools
 
 * ⭐ **[All about RSS](https://github.com/AboutRSS/ALL-about-RSS)** / [Telegram](https://t.me/s/aboutrss), [RSSTango](https://rentry.org/rrstango), [To RSS](https://www.to-rss.xyz/), [Awesome RSS Feeds](https://github.com/plenaryapp/awesome-rss-feeds) or [RSS](https://gist.github.com/thefranke/63853a6f8c499dc97bc17838f6cedcc2) - RSS Feeds / Tools
-* ⭐ **[Feedly](https://feedly.com/)** - RSS Reader
+* ⭐ **[Feedly](https://feedly.com/)** - RSS Reader / [Notifier](https://olsh.me/Feedly-Notifier/)
 * ⭐ **[RSS Bridge](https://rss-bridge.org/bridge01/) / [GitHub](https://github.com/RSS-Bridge/rss-bridge)**, **[Feedless](https://feedless.org/)**, [MoRSS](https://morss.it/), [RSSHub](https://github.com/DIYgod/RSSHub), [Open RSS](https://openrss.org/), [RSS Please](https://rsspls.7bit.org/), [FetchRSS](https://fetchrss.com/), [Politepol](https://politepol.com/en/), [Janicek](https://feed.janicek.co/) or [FiveFilters](https://createfeed.fivefilters.org/) - RSS Feed Generators
 * [TheFeedReaderBot](https://thefeedreaderbot.com/) or [NewsBoat](https://newsboat.org/) - Console RSS Readers
 * [WebFeed](https://taoshu.in/webfeed/turn-browser-into-feed-reader.html) or [tt-rss](https://tt-rss.org/) - Web RSS Readers
@@ -217,6 +217,7 @@
 * [Photon](https://git.sr.ht/~ghost08/photon) - RSS Reader
 * [selfoss](https://selfoss.aditu.de/) - RSS Reader
 * [gorss](https://github.com/Lallassu/gorss) - RSS Reader
+* [NewsPipe](https://github.com/cedricbonhomme/newspipe) - RSS Reader
 * [RSS Guard](https://github.com/martinrotter/rssguard) - RSS Reader
 * [NewsBlur](http://www.newsblur.com) / [GitHub](https://github.com/samuelclay/NewsBlur) - RSS Reader
 * [Osmosfeed](https://osmoscraft.org) / [GitHub](https://github.com/osmoscraft/osmosfeed) - RSS Reader

@@ -990,6 +990,7 @@
 * 🌐 **[Awesome Python](https://awesome-python.com/)** - Python Resources
 * 🌐 **[Python Discord](https://pythondiscord.com/resources/)**, [Python Programming Hub](https://github.com/Tanu-N-Prabhu/Python) or [Python Reference](https://github.com/rasbt/python_reference) - Python Learning Resources
 * ⭐ **[Automate The Boring Stuff](https://automatetheboringstuff.com/)** - Python Automation Book
+* ⭐ **[Ruff](https://docs.astral.sh/ruff/)** - Python Linter / [GitHub](https://github.com/astral-sh/ruff)
 * [30 Days Of Python](https://github.com/Asabeneh/30-Days-Of-Python) or [Hitchhiker’s Guide to Python](https://docs.python-guide.org/) - Python Guides
 * [Python AI](https://community.uuki.live/course/tdb3Vsl1/python-course/aitutor) - AI Python Tutor
 * [CodingBat](https://codingbat.com/python) or [PyQuickie](https://chromewebstore.google.com/detail/pyquickie/okpdnfgpbpifbncoleieajiblmebbkci) - Python Practice
@@ -1008,7 +1009,6 @@
 * [Clean Code Python](https://github.com/zedr/clean-code-python) - Clean Up Python Code
 * [pipx](https://pipx.pypa.io) - Execute Python Binaries in Isolated Environments
 * [RustPython](https://rustpython.github.io/) - Python Interpreter
-* [Ruff](https://docs.astral.sh/ruff/) - Python Linter
 * [pipxu](https://github.com/bulletmark/pipxu) - Install / Run Python Apps in Isolated Environments
 * [Thonny](https://thonny.org/) - Python IDE
 * [Online Python Compiler](https://www.onlinegdb.com/online_python_compiler) - Online Python Editor & Tester
