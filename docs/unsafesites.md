@@ -1,7 +1,5 @@
 **[Adblock Filter List](https://windowsaurora.github.io/FMHYFilterlist/site/index.html)** / [GitHub](https://github.com/WindowsAurora/FMHYFilterlist/)
 
-^ Filter list with the sites listed below for adblockers.
-
 ***
 
 ### Game Sites
