@@ -1,4 +1,4 @@
-# FMHYedit
+# FMHY
 
 ![FMHY Banner](https://external-preview.redd.it/new-fmhy-website-v0-siM0tvJb685u2tZSfXkrpRANBH2IrPuVPDYmNA5Mkv0.jpg?auto=webp&s=a3185c2493e1c4da71863362f10b03c57e232974)
 
