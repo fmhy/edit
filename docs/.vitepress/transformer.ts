@@ -331,8 +331,8 @@ export function transform(text: string): string {
     .replace(/####/g, '###')
     // Replace emojis
     .replace(/⭐/g, ':star:')
-    .replace(/🌐/g, ':globe-with-meridians: ')
-    .replace(/↪/g, ':repeat-button: ')
+    .replace(/🌐/g, ':globe-with-meridians:')
+    .replace(/↪/g, ':repeat-button:')
     // Replace note/warning/tip
     .replace(/^\*\*Note\*\* - (.+)$/gm, ':::tip\n$1\n:::')
     .replace(/^\* \*\*Note\*\* - (.+)$/gm, ':::tip\n$1\n:::')
