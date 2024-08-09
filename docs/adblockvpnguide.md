@@ -193,12 +193,11 @@
 * ⭐ **[Surveillance Self-Defense](https://ssd.eff.org/)** - Educational Guide
 * ⭐ **[The New Oil](https://thenewoil.org/)** - Educational Guide
 * ⭐ **[No Trace](https://www.notrace.how/)** - Educational Guide / [.onion](http://i4pd4zpyhrojnyx5l3d2siauy4almteocqow4bp2lqxyocrfy6prycad.onion/)
-* [Lissy93's Awesome Privacy](https://awesome-privacy.xyz/) / [GitHub](https://github.com/lissy93/awesome-privacy) or [pluja's Awesome Privacy](https://pluja.github.io/awesome-privacy/) / [GitHub](https://github.com/pluja/awesome-privacy) - List of Privacy Software & Services
+* [Lissy93's Awesome Privacy](https://awesome-privacy.xyz/) / [GitHub](https://github.com/lissy93/awesome-privacy), [pluja's Awesome Privacy](https://pluja.github.io/awesome-privacy/) / [GitHub](https://github.com/pluja/awesome-privacy) or [yuuire](https://guide.yuuire.com/recommendations/) - Privacy App / Service Lists
 * [Defensive Computing Checklist](https://defensivecomputingchecklist.com/) - Educational Guide
 * [Ken Harris](https://cyber.kenharris.io/) - Educational Guide
 * [AvoidTheHack](https://avoidthehack.com/) - Educational Blog
 * [Hostux](https://hostux.network/) - Privacy Tools
-* [yuuire](https://guide.yuuire.com/recommendations/) - Educational Guide
 * [The Hitchhiker’s Guide](https://anonymousplanet.org/) - Extensive Guide to Online Anonymity
 * [Privacy Settings](https://github.com/StellarSand/privacy-settings) - Privacy Setting Guides
 * [EncryptedList](https://encryptedlist.xyz/) - List of Encrypted Services/Apps
@@ -452,7 +451,7 @@
 ## ▷ Proxy Apps
 
 * ⭐ **[SecureDNSClient](https://github.com/msasanmh/SecureDNSClient)** - DNS Proxy GUI / [Guide](https://rentry.co/SecureDNSClient)
-* [Lantern](https://lantern.io/) or [Psiphon](https://psiphon.ca/) - Free Proxy / VPN
+* [Psiphon](https://psiphon.ca/) - Free Proxy / VPN
 * [No Thought is a Crime](https://ntc.party/) - Internet Censorship Discussion
 * [GoodbyeDPI](https://github.com/ValdikSS/GoodbyeDPI/) / [GUI](https://github.com/mguludag/GUI-for-GoodbyeDPI), [PowerTunnel](https://github.com/krlvm/PowerTunnel), [zapret](https://github.com/bol-van/zapret) or [Green Tunnel](https://github.com/SadeghHayeri/GreenTunnel) - DPI Circumvention Local Proxies
 * [Hola Proxy](https://github.com/Snawoot/hola-proxy) - Alternative Client for Hola Free Proxy Service

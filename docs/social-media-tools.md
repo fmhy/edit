@@ -12,6 +12,7 @@
 * [Social Media Hacker List](https://github.com/MobileFirstLLC/social-media-hacker-list) - Social Media Apps / Tools
 * [ExportComments](https://exportcomments.com/) - Export Social Media Comments
 * [socid_extractor](https://github.com/soxoj/socid-extractor) - Extract Social Media User Info from Pages
+* [BlackTwist](https://www.blacktwist.app/) - Free Threads Analytics
 
 ***
 
@@ -712,6 +713,7 @@
 * [Phanpy](https://phanpy.social/) or [Mastodeck](https://mastodeck.com/) - Mastodon Clients
 * [MastoVue](https://mastovue.glitch.me/) or [FediWall](https://fediwall.social/) - View Public Timelines / Hashtags
 * [Followgraph](https://followgraph.vercel.app/) or [StreetPass](https://streetpass.social/) - Find Mastodon Users
+* [Tokimeki Mastodon](https://tokimeki-mastodon.vercel.app/) - Mastodon Following Manager
 * [western.social](https://western.social/) - User Search
 * [Tootfinder](https://www.tootfinder.ch/) - Opt-In Full Text Search
 * [Mastodon Scheduler](https://scheduler.mastodon.tools/) or [FediPlan](https://plan.fedilab.app/) - Schedule Posts

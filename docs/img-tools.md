@@ -240,7 +240,16 @@
 
 * 🌐 **[Awesome Pixel Art](https://github.com/Siilwyn/awesome-pixel-art)** - Pixel Art Resource Index
 * ↪️ **[ASCII Art](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools#wiki_.25B7_ascii_art)**
-* [Piskel](https://www.piskelapp.com/), [rx](https://rx.cloudhead.io/), [Pixelated](https://pixelated.vercel.app/), [PaintWith](https://paintwith.webflow.io/), [Aseprite](https://dacap.itch.io/aseprite), [PixelCraft](https://pixelcraft.web.app/) / [GitHub](https://github.com/rgab1508/PixelCraft), [Kleki](https://kleki.com/), [CSprite](https://csprite.github.io/) or [PixilArt](https://www.pixilart.com/draw) - Pixel Art Editors
+* [Piskel](https://www.piskelapp.com/) - Pixel Art Editor
+* [rx](https://rx.cloudhead.io/) - Pixel Art Editor
+* [Pixelated](https://pixelated.vercel.app/) - Pixel Art Editor
+* [PyDPainter](https://github.com/mriale/PyDPainter) - Bitmap Graphics Editor
+* [PaintWith](https://paintwith.webflow.io/) - Pixel Art Editor
+* [Aseprite](https://dacap.itch.io/aseprite) - Pixel Art Editor
+* [PixelCraft](https://pixelcraft.web.app/) - Pixel Art Editor / [GitHub](https://github.com/rgab1508/PixelCraft)
+* [Kleki](https://kleki.com/) - Pixel Art Editor
+* [CSprite](https://csprite.github.io/) - Pixel Art Editor
+* [PixilArt](https://www.pixilart.com/draw) - Pixel Art Editor
 * [Strike](https://amorphous.itch.io/strike) - 1-Bit Pixel Art Editor
 * [Pixel Painter](https://jenniferdewalt.com/pixel_painter.html) or [Pixel Paint](https://codepen.io/quinlo/full/RvPPKG) - Paint with Pixels
 * [pixels.land](https://pixel.land/), [EveryoneDraw](https://everyonedraw.com/), [pxls.space](https://pxls.space/) or [World of Pixels](https://ourworldofpixels.com/) - Infinite Online Pixel Art
@@ -473,7 +482,7 @@
 * ↪️ **[AI Galleries](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/ai#wiki_.25B7_prompts_.2F_galleries)**
 * ↪️ **[Media Covers / Posters](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_covers_.2F_posters)**
 * ⭐ **[Search Anything](https://search.anything.io/)** - Image Search Engine
-* ⭐ **[gallery-dl](https://github.com/mikf/gallery-dl)**, [RipMe](https://github.com/RipMeApp2/ripme), [ImgDownloader](https://imgdownloader.com/), [SCrawler](https://github.com/AAndyProgram/SCrawler) / [Discord](https://discord.gg/uFNUXvFFmg) or [Image Extractor](https://extract.pics/) - Image Download Tools
+* ⭐ **[gallery-dl](https://github.com/mikf/gallery-dl)**, [RipMe](https://github.com/RipMeApp2/ripme), [WFDownloader](https://www.wfdownloader.xyz/), [ImgDownloader](https://imgdownloader.com/), [SCrawler](https://github.com/AAndyProgram/SCrawler) / [Discord](https://discord.gg/uFNUXvFFmg) or [Image Extractor](https://extract.pics/) - Image Download Tools
 * [same.energy](https://same.energy/) - Visual Search Engine
 * [Dezoomify](https://dezoomify.ophir.dev/) - Download Zoomable Images
 * [Clip Retrieval](https://rom1504.github.io/clip-retrieval/) - Clip Retrieval System
@@ -666,6 +675,7 @@
 * ⭐ **[Digikam](https://www.digikam.org/)**
 * [nomacs](https://github.com/nomacs/nomacs)
 * [qimgv](https://github.com/easymodo/qimgv)
+* [oculante](https://github.com/woelper/oculante)
 * [PhotoQt](https://github.com/luspi/photoqt)
 * [PicView](https://picview.org/)
 * [Image Eye](https://www.fmjsoft.com/imageeye.html)
