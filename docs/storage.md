@@ -668,13 +668,13 @@
 * 🌐 **[OptiFine Alternatives](https://optifine.alternatives.lambdaurora.dev/)** - OptiFine Alternatives for Fabric
 * ⭐ **[Fabulously Optimized](https://download.fo)** - Performance Modpack / [GitHub](https://github.com/Fabulously-Optimized/fabulously-optimized)
 * ⭐ **[Simply Optimized](https://modrinth.com/modpack/sop)** - Performance Modpack
-* ⭐ **[Sodium](https://modrinth.com/mod/sodium)** - Rendering Optimization / [Extra](https://modrinth.com/mod/sodium-extra)
+* ⭐ **[Sodium](https://modrinth.com/mod/sodium)** - Rendering Optimization / [Extra Features](https://modrinth.com/mod/sodium-extra) / [Reese's Options](https://modrinth.com/mod/reeses-sodium-options)
 * [Additive](https://modrinth.com/modpack/additive) - Performance Modpack
 * [Lithium](https://modrinth.com/mod/lithium) - Game Logic & Server Optimization
 * [FerriteCore](https://modrinth.com/mod/ferrite-core) - Memory Usage Optimizations
 * [Nvidium](https://modrinth.com/mod/nvidium) - Improved Rendering Capability (Nvidia GPUs Only) / [GitHub](https://github.com/MCRcortex/nvidium)
 * [Distant Horizons](https://gitlab.com/jeseibel/distant-horizons) - Increased Render Distance / [Note]()
-* [Embeddium](https://modrinth.com/mod/embeddium) - Unofficial Sodium Fork (Forge Compatible)
+* [Embeddium](https://modrinth.com/mod/embeddium) - Unofficial Sodium Fork for Forge / [Embeddium Extra](https://modrinth.com/mod/rubidium-extra)
 * [VulkanMod](https://github.com/xCollateral/VulkanMod) - Rendering Optimization
 
 ***

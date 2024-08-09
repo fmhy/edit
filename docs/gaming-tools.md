@@ -497,14 +497,12 @@
 * ⭐ **[Couleur Tweak Tips](https://ctt.cx/)** - Minecraft Tweaks / Tips / [Discord](https://discord.gg/CTT)
 * ⭐ **[spark](https://spark.lucko.me/)** - Minecraft Performance Profiler
 * ⭐ **[MCPropertyEncyclopedia](https://joakimthorsen.github.io/MCPropertyEncyclopedia/)** - Block Property Encyclopedia
-* ⭐ **[Villager Trading Cheatsheet](https://i.ibb.co/sKBjbzg/e9f8d80e2376.png)**
+* ⭐ **[Villager Trading Cheatsheet](https://rayb78.github.io/minecraft-villager-trade-chart.html)**, [2](https://i.ibb.co/sKBjbzg/e9f8d80e2376.png)
 * ⭐ **[Minecraft Brewing Cheatsheet](https://minecraft.wiki/images/Minecraft_brewing_en.png)**
 * [GamerGeeks](https://www.gamergeeks.net/) - Minecraft Tools / Calculators
-* [Vanillatweaks](https://www.vanillatweaks.net/), [Smithed](https://smithed.net/) or [VoodooBeard](https://mc.voodoobeard.com/) / [Discord](https://discord.gg/SnJQcfq) - Minecraft Data Packs
 * [Minecraft Command Science](https://minecraftcommand.science/) or [MCStacker](https://mcstacker.net/) - Minecraft Command Generators
 * [Minecraft Performance Flags](https://github.com/Mukul1127/Minecraft-Performance-Flags-Benchmarks) - Java Minecraft Benchmarks
 * [Report Inspector](https://misode.github.io/report/) - Crash Report / Profiling Inspector
-* [Data Pack Generators](https://misode.github.io/) - Minecraft Data Pack Generators
 * [ViveCraft](https://www.vivecraft.org/) - VR Minecraft
 * [Skyclient](https://skyclient.co/) - Hypixel Asset Installer
 * [SkyCrypt](https://sky.shiiyu.moe/) - SkyBlock Stats
@@ -512,7 +510,7 @@
 * [Pixelart Builder](https://play.google.com/store/apps/details?id=com.electricfoal.photocrafter&hl=en&gl=US) or [PixelStacker](https://taylorlove.info/pixelstacker/) - Turn Photos into Minecraft Art
 * [NameMC](https://namemc.com/) - Minecraft Name Availability Tracker
 * [Mineflayer](https://prismarinejs.github.io/mineflayer/) - Minecraft Bot Creator
-* [PVPRP](https://pvprp.com/) - Minecraft Texture Packs
+* [PVPRP](https://pvprp.com/) - PVP Texture Packs
 * [ShadersMods](https://shadersmods.com/) or [MinecraftShader](https://minecraftshader.com/) - Minecraft Shaders
 * [Iris Shaders](https://modrinth.com/mod/iris) - Fabric Shadermod for Minecraft
 * [Block Palettes](https://www.blockpalettes.com/) or [Block Colors](https://blockcolors.app/) - Block Color Palettes
@@ -571,7 +569,7 @@
 
 ***
 
-## ▷ Mods
+## ▷ Mods / Data Packs
 
 * 🌐 **[Minecraft QOL Mods](https://rentry.co/mc-qol)** or [quark](https://quarkmod.net/) - Quality of Life Mods
 * ↪️ **[Mod Indexes]()**
@@ -588,6 +586,14 @@
 * [Tectonic](https://modrinth.com/datapack/tectonic) - Improved Biomes Mod
 * [Terralith](https://modrinth.com/mod/terralith) or [Biomes O' Plenty](https://modrinth.com/mod/biomes-o-plenty) - Extra Biomes Mod
 * [Outvoted](https://modrinth.com/mod/outvoted) - Outvoted Minecraft Live Mobs
+* [Vanilla Wweaks](https://www.vanillatweaks.net/), [Smithed](https://smithed.net/) or [Voodoo Packs](https://mc.voodoobeard.com/) / [Discord](https://discord.gg/SnJQcfq) - Minecraft Data Packs
+* [Data Pack Generators](https://misode.github.io/) - Minecraft Data Pack Generators
+
+***
+
+## ▷ Resources
+
+
 
 ***
 
