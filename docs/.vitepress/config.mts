@@ -1,5 +1,4 @@
 import consola from 'consola'
-import { basename } from 'pathe'
 import UnoCSS from 'unocss/vite'
 import { defineConfig } from 'vitepress'
 import {
@@ -13,7 +12,7 @@ import {
 import { generateFeed, generateImages, generateMeta } from './hooks'
 import { defs, emojiRender, movePlugin } from './markdown/emoji'
 import { toggleStarredPlugin } from './markdown/toggleStarred'
-import { transformer } from './transformer'
+import { transforms } from './transformer'
 
 // @unocss-include
 
@@ -57,7 +56,7 @@ export default defineConfig({
       UnoCSS({
         configFile: '../unocss.config.ts'
       }),
-      transformer(),
+      transforms(),
       {
         name: 'custom:adjust-order',
         configResolved(c) {

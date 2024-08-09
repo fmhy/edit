@@ -6,7 +6,7 @@ import type { ContentData, SiteConfig } from 'vitepress'
 import { type SatoriOptions, satoriVue } from 'x-satori/vue'
 import { renderAsync } from '@resvg/resvg-js'
 import consola from 'consola'
-import { headers } from '../transformer'
+import { headers } from '../transformer/constants'
 
 const __dirname = dirname(fileURLToPath(import.meta.url))
 const __fonts = resolve(__dirname, '../fonts')
@@ -71,19 +71,19 @@ async function generateImage({
   const _page = getPage(url)
   const title =
     frontmatter.layout === 'home'
-      ? (frontmatter.hero.name ?? frontmatter.title)
+      ? frontmatter.hero.name ?? frontmatter.title
       : frontmatter.title
         ? frontmatter.title
         : _page?.title
 
   const description =
     frontmatter.layout === 'home'
-      ? (frontmatter.hero.tagline ?? frontmatter.description)
+      ? frontmatter.hero.tagline ?? frontmatter.description
       : frontmatter.description
         ? frontmatter.description
         : _page?.description
 
-  consola.info(url, title, description)
+  // consola.info(url, title, description)
   const options: SatoriOptions = {
     width: 1200,
     height: 628,
