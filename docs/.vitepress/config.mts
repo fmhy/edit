@@ -120,7 +120,7 @@ export default defineConfig({
           { text: '🔍 Whoogle', link: 'https://whoogle.fmhy.net/' },
           {
             text: '🔗 Bookmarks',
-            link: 'https://github.com/Rust1667/make-fmhy-bookmarks'
+            link: '/bookmarks'
           }
         ]
       }
