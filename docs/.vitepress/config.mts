@@ -1,5 +1,4 @@
 import consola from 'consola'
-import { basename } from 'pathe'
 import UnoCSS from 'unocss/vite'
 import { defineConfig } from 'vitepress'
 import {
@@ -13,7 +12,7 @@ import {
 import { generateFeed, generateImages, generateMeta } from './hooks'
 import { defs, emojiRender, movePlugin } from './markdown/emoji'
 import { toggleStarredPlugin } from './markdown/toggleStarred'
-import { transformer } from './transformer'
+import { transforms } from './transformer'
 
 // @unocss-include
 
@@ -57,7 +56,7 @@ export default defineConfig({
       UnoCSS({
         configFile: '../unocss.config.ts'
       }),
-      transformer(),
+      transforms(),
       {
         name: 'custom:adjust-order',
         configResolved(c) {
@@ -120,7 +119,7 @@ export default defineConfig({
           { text: '🔍 Whoogle', link: 'https://whoogle.fmhy.net/' },
           {
             text: '🔗 Bookmarks',
-            link: 'https://github.com/Rust1667/make-fmhy-bookmarks'
+            link: 'https://github.com/fmhy/bookmarks'
           }
         ]
       }

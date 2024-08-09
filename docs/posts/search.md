@@ -35,7 +35,7 @@ GitHub page search engine
 
 ---
 
-### [Bookmark HTML](https://github.com/Rust1667/make-fmhy-bookmarks)
+### [Bookmark HTML](https://github.com/fmhy/bookmarks)
 
 Turn FMHY into Bookmarks
 

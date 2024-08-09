@@ -1,9 +1,9 @@
 :root {
   /* Colors: Brand */
-  --vp-c-brand-1: theme('colors.swarm.400');
-  --vp-c-brand-2: theme('colors.swarm.500');
-  --vp-c-brand-3: theme('colors.swarm.700');
-  --vp-c-brand-soft: theme('colors.swarm.300');
+  --vp-c-brand-1: theme('colors.swarm.500');
+  --vp-c-brand-2: theme('colors.swarm.600');
+  --vp-c-brand-3: theme('colors.swarm.800');
+  --vp-c-brand-soft: theme('colors.swarm.400');
 
   /* Colors: Button */
   --vp-button-brand-bg: var(--vp-c-brand-1);
@@ -43,6 +43,12 @@
 }
 
 .dark {
+  /* Colors: Brand */
+  --vp-c-brand-1: theme('colors.swarm.400');
+  --vp-c-brand-2: theme('colors.swarm.500');
+  --vp-c-brand-3: theme('colors.swarm.700');
+  --vp-c-brand-soft: theme('colors.swarm.300');
+
   /* Colors: Background */
   --vp-c-bg: rgb(26, 26, 26);
   --vp-c-bg-alt: rgb(23, 23, 23);
@@ -90,6 +96,10 @@
 }
 
 ::selection {
+  background-color: #5586a6;
+}
+
+.dark ::selection {
   background-color: #0f2c47;
 }
 

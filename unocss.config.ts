@@ -23,7 +23,6 @@ export default defineConfig({
       div: 'var(--vp-c-divider)'
     }
   },
-  shortcuts,
   presets: [
     presetUno(),
     presetAttributify(),
