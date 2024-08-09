@@ -93,7 +93,7 @@
 
 * ⭐ **[Niagara Launcher](https://niagaralauncher.app/)** - Single-Hand Launcher
 * ⭐ **[SmartLauncher](https://www.smartlauncher.net/)** - Customizable Launcher
-* ⭐ **[Lawnchair](https://lawnchair.app/)** - Pixel-Based Launcher / [Feed](https://github.com/LawnchairLauncher/lawnfeed/releases/download/v3.0.0/Lawnfeed.3.apk) / [Icons](https://github.com/LawnchairLauncher/lawnicons/releases/download/v2.5.0/Lawnicons-2.5.0.apk)
+* ⭐ **[Lawnchair](https://lawnchair.app/)** - Pixel-Based Launcher / [Feed](https://github.com/LawnchairLauncher/lawnfeed/releases/latest) / [Icons](https://github.com/LawnchairLauncher/lawnicons/releases/latest)
 * [Blue Line Console](https://github.com/nhirokinet/bluelineconsole) - Keyboard Based Launcher
 * [Discreet Launcher](https://vincent-falzon.com/) - Minimalist / Clean Launcher
 * [Lunar Launcher](https://github.com/iamrasel/lunar-launcher) - Minimalist / Clean Launcher
@@ -1091,7 +1091,7 @@
 * [unc0ver](https://github.com/pwn20wndstuff/Undecimus) - 11.0-14.8 Jailbreak
 * [Totally Not Spyware](https://totally-not.spyware.lol/) - 10.0 - 10.3.3 WebKit-based Jailbreak (64-bit only)
 * [Meridian](https://meridian.sparkes.zone/) - 10.0-10.3.3 Jailbreak
-* [sockH3lix](https://github.com/SongXiaoXi/sockH3lix/releases/tag/v1.4) - 10.0.1-10.3.3 Jailbreak
+* [sockH3lix](https://github.com/SongXiaoXi/sockH3lix/releases/latest) - 10.0.1-10.3.3 Jailbreak
 * [doubleH3lix](https://github.com/tihmstar/doubleH3lix) - 10.0-10.3.3 Jailbreak
 * [kok3shi](https://dora2ios.web.app/kokeshiJB.html) - 9.3-9.3.5 Semi-tethered Jailbreak
 * [Phoenix](https://phoenixpwn.com/) - 9.3.5-9.3.6 32-bit Jailbreak
