@@ -266,6 +266,7 @@
 * [SNES Manuals](https://sites.google.com/view/snesmanuals) - SNES Game Manuals
 * [FOUR.lol](https://four.lol/) - Tetris Openers Wiki
 * [Underdogs Cup Lounge](https://discord.gg/QCbC9cA) - Tetris Resources & Coaching Discord
+* [Voltaic](https://voltaic.gg/) - Aim Benchmark & Guides
 
 ***
 
