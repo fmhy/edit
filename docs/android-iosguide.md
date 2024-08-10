@@ -540,7 +540,7 @@
 * ⭐ **[SyncThing](https://github.com/Catfriend1/syncthing-android)** - File Sync / Sharing
 * ⭐ **[LocalSend](https://localsend.org/)** - File Sharing / [Platforms](https://i.ibb.co/nsfMf04/8010dd28ed2d.png)
 * ⭐ **[Snapdrop Android](https://github.com/fm-sys/snapdrop-android)** or [pairdrop](https://pairdrop.net/) - File Sharing
-* ⭐**[1DM](https://play.google.com/store/apps/details?id=idm.internet.download.manager&hl=en_US)**, [ADM](https://play.google.com/store/apps/details?id=com.dv.adm) or [FDM](https://play.google.com/store/apps/details?id=org.freedownloadmanager.fdm) - Download Managers
+* ⭐ **[FDM](https://play.google.com/store/apps/details?id=org.freedownloadmanager.fdm)**, **[1DM](https://play.google.com/store/apps/details?id=idm.internet.download.manager&hl=en_US)** or [ADM](https://play.google.com/store/apps/details?id=com.dv.adm) - Download Managers
 * ⭐ **[Aria2App](https://github.com/devgianlu/Aria2App)** - Download Manager Controller
 * [Total Commander](https://www.ghisler.com/ce.htm), [Cx File Explorer](https://play.google.com/store/apps/details?id=com.cxinventor.file.explorer), [Xplore](https://play.google.com/store/apps/details?id=com.lonelycatgames.Xplore) or [FileNavigator](https://github.com/w2sv/FileNavigator) - File Managers / Explorers
 * [Round Sync](https://github.com/newhinton/Round-Sync), [MetaCTRL](https://metactrl.com/) or [FolderSync](https://www.tacit.dk/) - Multi-Site Cloud Storage File Managers
@@ -884,7 +884,7 @@
 * ⭐ **[FlixQuest](https://flixquest.beamlak.dev/)** - Movies / TV / [GitHub](https://github.com/BeamlakAschalew/flixquest)
 * ⭐ **[Kuukiyomi](https://github.com/LuftVerbot/kuukiyomi/)** / [Extension Guide](https://wotaku.wiki/guides/tech/repo) / [Discord](https://discord.gg/s82Vu589Ya)
 * ⭐ **[Miru Project](https://miru.js.org/en/download)** - Movies / TV / Anime / [GitHub](https://github.com/miru-project/miru-app) / [Docs](https://miru.js.org/en/developer/)
-* ⭐ **[HDO Box](https://rentry.co/FMHYBase64#hdo-box)** - Movies / TV / [Discord](https://discord.gg/VPRJVExUVD) / [Warning](https://i.ibb.co/ZBy93sr/image.png)
+* ⭐ **[HDO Box](https://rentry.co/FMHYBase64#hdo-box)** - Movies / TV / [Discord](https://discord.gg/VPRJVExUVD) / [Telegram](https://t.me/+Ywz5HnhvFHA3Zjk1) / [Warning](https://i.ibb.co/ZBy93sr/image.png)
 * ⭐ **[Kodi](https://kodi.tv/)** - [/r/Addons4Kodi](https://www.reddit.com/r/Addons4Kodi/) / [Tracker](https://kinkeadtech.com/best-kodi-streaming-addons/) / [Trending](https://kodiapps.com/addons-chart) / [Real-Debrid](https://real-debrid.com/)
 * ⭐ **[Syncler](https://syncler.net/)** - Movies / TV / [Providers](https://www.reddit.com/r/providers4syncler/)
 * ⭐ **[BubblesUPNP](https://play.google.com/store/apps/details?id=com.bubblesoft.android.bubbleupnp&gl=US)**, [DMS](https://github.com/anacrolix/dms) or [Macast](https://xfangfang.github.io/Macast/) - Media Servers / Chromecast
@@ -899,7 +899,6 @@
 * [Amnis](https://play.google.com/store/apps/details?id=com.amnis) - Stream Videos from Torrents
 * [Great Courses Plus Premium](https://forum.mobilism.org/search.php?keywords=great+courses+plus&terms=all&author=&sc=1&sf=titleonly&sr=topics&sk=t&sd=d&st=0&ch=300&t=0&submit=Search) - Courses
 * [Findroid](https://github.com/jarnedemeulemeester/findroid) - JellyFin Client
-* [PipePipe](https://github.com/InfinityLoop1308/PipePipe) - Bilibili / NicoNico Client
 * [Bilibili Evolved](https://github.com/the1812/Bilibili-Evolved) - Bilibili Client
 * [ScreenStream](https://github.com/dkrivoruchko/ScreenStream) - Cast Device to Screen
 * [MovieDB](https://github.com/WirelessAlien/MovieDB) - TMDB App
@@ -946,6 +945,7 @@
 * ⭐ **[Seal](https://github.com/JunkFood02/Seal)**, [YouTubeDL Android](https://github.com/yausername/youtubedl-android), [ytdlnis](https://github.com/deniscerri/ytdlnis) or [SongTube](https://github.com/SongTube/SongTube-App) - Audio / Video Downloaders
 * ⭐ **[GrayJay](https://grayjay.app/)** - YouTube, Twitch, Rumble etc / [GitLab](https://gitlab.futo.org/videostreaming/grayjay) / [Plugins](https://gitlab.futo.org/videostreaming/plugins)
 * [FluxTube](https://github.com/mu-fazil-vk/FluxTube) - Ad-free YouTube
+* [PipePipe](https://github.com/InfinityLoop1308/PipePipe) - YouTube Client
 * [Clipious](https://github.com/lamarios/clipious) - Android Invidious Client
 * [Hyperion](https://github.com/zt64/Hyperion) - YouTube Frontend
 * [SkyTube](https://github.com/SkyTubeTeam/SkyTube) - YouTube Player

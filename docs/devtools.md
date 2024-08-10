@@ -515,7 +515,7 @@
 * [Bevy Engine](https://bevyengine.org/) / [Extensions](https://bevy-cheatbook.github.io/setup/unofficial-plugins.html)
 * [ursina engine](https://www.ursinaengine.org/)
 * [stride3d](https://www.stride3d.net/) / [GitHub](https://github.com/stride3d/stride)
-* [cocos](https://www.cocos.com/en/) / [GitHub](https://github.com/cocos2d/cocos2d-x)
+* [cocos](https://www.cocos.com/en/) / [Resources](https://github.com/cocos/awesome-cocos) / [GitHub](https://github.com/cocos/cocos-engine)
 * [microStudio](https://microstudio.itch.io/microstudio)
 * [AnyRPG](https://www.anyrpg.org/) - RPG Engine
 * [RPG Playground](https://rpgplayground.com/) - Simple RPG Creator

@@ -143,7 +143,7 @@
 * [OCAT](https://gpuopen.com/ocat/) / [GitHub](https://github.com/GPUOpen-Tools/ocat), [Rivatuner Statistics Server](https://www.guru3d.com/files-details/rtss-rivatuner-statistics-server-download.html), [CapFrameX](https://www.capframex.com/) or [Xbox Game Bar](https://rentry.co/WindowsFPS) - FPS Benchmarking
 * [SSTap](https://github.com/FQrabbit/SSTap-Rule) - Decrease Ping
 * [Overclock](https://www.overclock.net/) - Overclocking Forum
-* [Ryzen Master Utility](https://www.amd.com/en/technologies/ryzen-master) - Overclocking Control for Ryzen Desktop CPU
+* [Ryzen Master Utility](https://www.amd.com/en/products/software/ryzen-master.html) - Overclocking Control for Ryzen Desktop CPU
 * [AMD-APU-Tuning-Utility](https://github.com/JamesCJ60/Universal-x86-Tuning-Utility) - AMD APU Tuning
 * [dlss-swap](https://github.com/beeradmoore/dlss-swapper) - Download, Manage & Swap DLSS
 * [dgVoodoo2](http://dege.freeweb.hu/dgVoodoo2/) - Glide & DirectX Graphics Wrapper
@@ -259,6 +259,7 @@
 * ⭐ **[Aim400kg](https://aim400kg.com/)**, [3D Aim Trainer](https://www.3daimtrainer.com/), [Aimlabs](https://aimlabs.com/), [Aiming.Pro](https://aiming.pro/) or [AimTrainer](https://aimtrainer.io/) - Aim Training
 * ⭐ **[Speedrun](https://www.speedrun.com/)** - Speedrunning Streams, Leaderboards, Resources etc.
 * [GameGuides](https://www.gamerguides.com/), [Retro Guides](https://rentry.co/FMHYBase64#retro-game-strategy-guides), [Game8](https://game8.co/), [StrategyWiki](https://strategywiki.org/), [Samurai Gamers](https://samurai-gamers.com/), [UHS Hints](https://www.uhs-hints.com/) or [Kirklands](https://archive.org/details/kirklands-manual-labor-sony-playstation-2-usa-4k-version) - Game Guides
+* [Voltaic](https://voltaic.gg/) - Aim Benchmark & Guides
 * [Piper](https://github.com/libratbag/piper) - Gaming Mouse Config Tool
 * [LiveSplit](https://livesplit.org/) - Customizable Speedrun Timer
 * [Tomatoanus](https://www.youtube.com/@tomatoanus/) - Speedrun Breakdowns
@@ -266,7 +267,7 @@
 * [SNES Manuals](https://sites.google.com/view/snesmanuals) - SNES Game Manuals
 * [FOUR.lol](https://four.lol/) - Tetris Openers Wiki
 * [Underdogs Cup Lounge](https://discord.gg/QCbC9cA) - Tetris Resources & Coaching Discord
-* [Voltaic](https://voltaic.gg/) - Aim Benchmark & Guides
+* [Fumen](https://harddrop.com/fumen/) - Tetris Field Editor
 
 ***
 
@@ -306,30 +307,9 @@
 
 # ► Multiplayer Tools
 
-* ⭐ **[Find-PlayDate](https://www.find-playdate.com/)** - Find People to Play Games With
-* ⭐ **[Nucleus Co-op](https://github.com/SplitScreen-Me/splitscreenme-nucleus)** - Local Split-Screen PC Multiplayer
+* ⭐ **[Nucleus Co-op](https://github.com/SplitScreen-Me/splitscreenme-nucleus)** - Local Split-Screen PC Multiplayer / [Subreddit](https://www.reddit.com/r/nucleuscoop/)
 * [Liquipedia](https://liquipedia.net/) - Competitve Gaming / Esports Wiki / [Discord](https://discord.com/invite/liquipedia)
-* [Overwolf](https://www.overwolf.com/) - Create In-Game Overlay Apps
 * [Tracker.gg](https://tracker.gg/) - Game Leaderboards / Stats
-* [StatsVerse](http://statsverse.com/) - Battlefield Leaderboards
-* [Sym.gg](https://sym.gg/) - Battlefield Info & Weapon Stats / [Discord](https://discord.com/invite/RVRZ3RgYNP)
-* [PaladinsGuru](https://paladins.guru/) - Paladins Leaderboards / [Discord](https://discord.com/invite/5aKtMB7)
-* [TrueGameData](https://truegamedata.com/) - COD Leaderboards
-* [Warzone Loadout](https://warzoneloadout.games/) - Warzone Loadouts and Builds
-* [Rust Labs](https://rustlabs.com/) - Rust Info / Tools
-* [ET: Legacy](https://www.etlegacy.com/) - Wolfenstein Enemy Territory Multiplayer Project / [Discord](https://discord.com/invite/UBAZFys)
-* [Braytech](https://bray.tech/) - Destiny 2 Stats
-* [Leaf](https://leafapp.co/) or [HaloDataHive](https://halodatahive.com/) - Halo Infinite Leaderboards / Stats
-* [D4Builds](https://d4builds.gg/) - Diablo 4 Builds
-* [WoWProgress](https://www.wowprogress.com) or [CheckPVP](https://www.check-pvp.fr/) - WoW Rankings
-* [RaidPlan](https://raidplan.io/) - WoW Raid Planner / [Discord](https://discord.com/invite/mTuHsfb)
-* [FallGuysStats](https://github.com/ShootMe/FallGuysStats) or [Fallalytics](https://fallalytics.com/) - Fall Guys Stat Trackers
-* [Pancake Patcher](https://gamebanana.com/tools/7382) - Fall Guys String Patcher
-* [FallGuysDB](https://fallguys-db.pages.dev/) - Fall Guys Store & Show Rotations
-* [Fortnite Tracker](https://fortnitetracker.com/) - Fortnite Leaderboards / Stats
-* [FortniteEXP](https://www.fortnitexp.net/) - Fortnite XP Progression / Leveling Rates
-* [SaveTheWorldClaimer](https://github.com/PRO100KatYT/SaveTheWorldClaimer) - Fortnite Auto-Points Claimer
-* [CrewLink](https://github.com/ottomated/CrewLink) - Among Us Proximity Chat
 
 ***
 
@@ -381,6 +361,7 @@
 * [SiMPLE](https://team-simple.org/forum/) - Battlefield 1942 Servers / [Discord](https://discord.team-simple.org/)
 * [Overwatch-Server-Selector](https://github.com/foryVERX/Overwatch-Server-Selector) - Overwatch Server Selector
 * [Northstar](https://thunderstore.io/c/northstar/), [2](https://northstar.tf/) - Titanfall 2 Server Hosting & Modding / [GitHub](https://github.com/R2Northstar/Northstar/releases) / [Guide](https://rentry.org/northstar-guide) / [Discord](https://discord.gg/CEszSguY3A)
+* [ET: Legacy](https://www.etlegacy.com/) - Wolfenstein Enemy Territory Servers / [Discord](https://discord.com/invite/UBAZFys)
 * [Factorio.zone](https://factorio.zone/) - Free Factorio Servers
 * [Clash of Magic](https://www.clashofmagic.io/) / [Discord](https://discord.gg/eSbkhDF) or [Atrasis](https://atrasisclash.net/) / [Discord](https://discord.gg/wmSjaTJ) - Clash of Clans Private Servers
 * [Rusticaland](https://rusticaland.net/) - Free Rust Servers / [Discord](https://discord.com/invite/MD9RgdYhpf)
@@ -488,24 +469,27 @@
 # ► Game Specific
 
 * 🌐 **[Awesome Trackmania](https://github.com/EvoEsports/awesome-trackmania)** - Trackmania Resources
-* ⭐ **[Super Mario Wiki](https://www.mariowiki.com/)** - Super Mario Wiki
 * [Half Life Project Beta](https://hl2-beta.ru/?language=english) - Unreleased / Cut Half-Life Content
 * [CyberCAT-SimpleGUI](https://github.com/Deweh/CyberCAT-SimpleGUI) - Cyberpunk 2077 Save Editor
-* [Cyberpunk Hacker](https://cyberpunk-hacker.com/) - Cyberpunk 2077 Hacking Minigame Solver
-* [Flowey's Time Machine](https://crumblingstatue.github.io/FloweysTimeMachine/) - Undertale Save Editor
-* [Kirigiri's Palword](https://rentry.co/FMHYBase64#kirigiris-palword) - Palworld Releases
 * [Palworld.gg](https://palworld.gg/), [PalworldTrainer.com](https://palworldtrainer.com/) or [Paldb.cc](https://paldb.cc/) - Palworld Databases
 * [Palworld Host Save Fix](https://github.com/xNul/palworld-host-save-fix) - Palworld Save Bug Fix
+* [TrueGameData](https://truegamedata.com/) - COD Leaderboards
+* [Warzone Loadout](https://warzoneloadout.games/) - Warzone Loadouts and Builds
+* [Braytech](https://bray.tech/) - Destiny 2 Stats
 * [The Halo Archive (Discord)](https://discord.gg/feB7RgAHBh) or [405th](https://www.405th.com/) - Halo Assets Archive
-* [Grim Tools](https://www.grimtools.com/) - Grim Dawn Tools
+* [Sym.gg](https://sym.gg/) - Battlefield Info & Weapon Stats / [Discord](https://discord.com/invite/RVRZ3RgYNP)
+* [Rust Clash](https://wiki.rustclash.com/) - Rust Info / Tools
 * [Stardew.app](https://stardew.app/) - Stardew Valley Progress Tracker
 * [Trackmania Replay Viewer](https://gbx.bigbang1112.cz/tool/replay-viewer) - View Trackmania Replays
 * [ACPatterns](https://acpatterns.com/) - Animal Crossing Pattern Tool / [Discord](https://discord.com/invite/9rGkZNk)
-* [Hard Drop](https://harddrop.com/wiki/Tetris_Wiki) or [Tetris.wiki](https://tetris.wiki/) - Tetris Wikis
-* [Fumen](https://harddrop.com/fumen/) - Tetris Field Editor
+* [D4Builds](https://d4builds.gg/) - Diablo 4 Builds
+* [Fortnite Tracker](https://fortnitetracker.com/) - Fortnite Leaderboards / Stats
+* [FortniteEXP](https://www.fortnitexp.net/) - Fortnite XP Progression / Leveling Rates
 * [Minesweepergame.com](https://minesweepergame.com/) and [Minesweeper.online Wiki](https://minesweeper.online/help/gameplay) - All about Minesweeper
 * [WRCsetups](https://wrcsetups.com/) - WRC Setups
 * [Peacock](https://github.com/thepeacockproject/Peacock) - Hitman World of Assassination Server Replacement
+* [WoWProgress](https://www.wowprogress.com) or [CheckPVP](https://www.check-pvp.fr/) - WoW Rankings
+* [RaidPlan](https://raidplan.io/) - WoW Raid Planner / [Discord](https://discord.com/invite/mTuHsfb)
 * [Useful Osu](https://github.com/CarbonUwU/Useful-osu) - Osu! Resources
 * [Collection Manager](https://github.com/Piotrekol/CollectionManager) - Osu! Collection Manager
 * [osu trainer](https://github.com/FunOrange/osu-trainer) - Osu! Trainer

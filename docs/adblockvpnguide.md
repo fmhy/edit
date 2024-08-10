@@ -140,7 +140,7 @@
 
 * 🌐 **[The Second Opinion](https://jijirae.github.io/thesecondopinion/index.html)** - Portable Malware Scanners / Removal Tools
 * ⭐ **[VirusTotal](https://www.virustotal.com/)** / [Scan Results Guide](https://rentry.co/piracy-faq-virustotal), [2](https://rentry.co/VTGuide) or **[Hybrid Analysis](https://hybrid-analysis.com/)** - Online File Analyzer
-* ⭐ **VirusTotal Tools** - [CLI](https://github.com/VirusTotal/vt-cli) / [Telegram Bot](https://t.me/virus_total_scan_bot) / [Uploader](https://github.com/SamuelTulach/VirusTotalUploader) / [Lite Version](https://www.virustotal.com/old-browsers/)
+* ⭐ **VirusTotal Tools** - [CLI](https://github.com/VirusTotal/vt-cli) / [Uploader](https://github.com/SamuelTulach/VirusTotalUploader) / [Lite Version](https://www.virustotal.com/old-browsers/)
 * [Microsoft Safety Scanner](https://learn.microsoft.com/en-us/defender-endpoint/safety-scanner-download) or [Emsisoft Emergency Kit](https://www.emsisoft.com/en/home/emergencykit/) - On-demand AV Scanners
 * [Manalyzer](https://manalyzer.org/) - PE File Scanner
 * [YARA](https://virustotal.github.io/yara/) - Malware Identification Tool
