@@ -125,7 +125,7 @@
 
 * 🌐 **[EvalPlus Leaderboard](https://evalplus.github.io/leaderboard.html)** or [BigCode](https://huggingface.co/spaces/bigcode/bigcode-models-leaderboard) - Coding AI Leaderboards
 * 🌐 **[Awesome AI Agents](https://github.com/e2b-dev/awesome-ai-agents)** - Coding / Programming AIs
-* ⭐ **[Codeium](https://codeium.com/)** - Coding AI
+* ⭐ **[Codeium](https://codeium.com/) / [Live Chat](https://codeium.com/live/general)** / [Discord](https://discord.com/invite/3XFf78nAx5) - Coding AI
 * ⭐ **[Pieces](https://pieces.app/) / [Docs](https://docs.pieces.app)** - Multi-LLM Coding AI / GPT-4 for Free
 * [Cursor](https://cursor.sh/) - Coding AI
 * [ImageCook](https://imgcook.com) / [GitHub](https://github.com/imgcook/imgcook) - Coding AI
