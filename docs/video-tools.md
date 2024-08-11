@@ -386,6 +386,7 @@
 * [ProPainter](https://github.com/sczhou/ProPainter) - Video Inpainting
 * [Kurku](https://app.kurku.tech/) or [FreeMoCap](https://freemocap.org/) - Motion Tracking Tools
 * [VSeeFace](https://www.vseeface.icu/) - Face / Hand Tracking VRM
+* [ClipChamp](https://app.clipchamp.com/) - Online Video Editor without watermark
 
 ***
 
