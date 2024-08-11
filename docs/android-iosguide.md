@@ -91,9 +91,9 @@
 
 ## ▷ App Launchers
 
-* ⭐ **[Niagara Launcher](https://niagaralauncher.app/)** - Single-Hand Launcher
-* ⭐ **[SmartLauncher](https://www.smartlauncher.net/)** - Customizable Launcher
-* ⭐ **[Lawnchair](https://lawnchair.app/)** - Pixel-Based Launcher / [Feed](https://github.com/LawnchairLauncher/lawnfeed/releases/download/v3.0.0/Lawnfeed.3.apk) / [Icons](https://github.com/LawnchairLauncher/lawnicons/releases/download/v2.5.0/Lawnicons-2.5.0.apk)
+* ⭐ **[Niagara Launcher](https://niagaralauncher.app/)** / [Telegram](https://t.me/niagara_news) - Single-Hand Launcher
+* ⭐ **[SmartLauncher](https://www.smartlauncher.net/)** / [Telegram](https://t.me/smartlauncher) - Customizable Launcher
+* ⭐ **[Lawnchair](https://lawnchair.app/)** / [Telegram](https://t.me/lawnchairci) - Pixel-Based Launcher / [Feed](https://github.com/LawnchairLauncher/lawnfeed/releases/download/v3.0.0/Lawnfeed.3.apk) / [Icons](https://github.com/LawnchairLauncher/lawnicons/releases/download/v2.5.0/Lawnicons-2.5.0.apk)
 * [Blue Line Console](https://github.com/nhirokinet/bluelineconsole) - Keyboard Based Launcher
 * [Discreet Launcher](https://vincent-falzon.com/) - Minimalist / Clean Launcher
 * [Lunar Launcher](https://github.com/iamrasel/lunar-launcher) - Minimalist / Clean Launcher
