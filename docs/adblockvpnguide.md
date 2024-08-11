@@ -36,7 +36,7 @@
 * [FilterLists](https://filterlists.com/) Filter and host lists directory
 * [Adbox](http://raymondhill.net/ublock/adbox.html) - Test Filters
 * [DandelionSprout adfilt](https://github.com/DandelionSprout/adfilt)
-* [FMHY Filterlist](https://fmhy.github.io/FMHYFilterlist/) - Unsafe Sites Filter
+* [FMHY Filterlist](https://fmhy.github.io/FMHYFilterlist/site/index.html), [2](https://fmhy.github.io/FMHYFilterlist/) - Unsafe Sites Filter
 * [Facebook Filters](https://www.reddit.com/r/uBlockOrigin/wiki/solutions#wiki_facebook)
 * [Clear URLs for uBO](https://github.com/DandelionSprout/adfilt/blob/master/ClearURLs%20for%20uBo/clear_urls_uboified.txt)
 * [webannoyances](https://github.com/yourduskquibbles/webannoyances)
