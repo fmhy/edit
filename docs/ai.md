@@ -41,7 +41,7 @@
 * ⭐ **[Claude](https://claude.ai/)** - Anthropic's Chatbot
 * ⭐ **[sdk.vercel](https://sdk.vercel.ai/)** - Multiple Chatbots
 * ⭐ **[groq](https://groq.com/)** - Llama 3 and Mixtral Chatbots
-* ⭐ **[LMSYS Chat](https://chat.lmsys.org/)** - Chat and Compare Multiple Chatbots
+* ⭐ **[LMSYS Chat](https://lmarena.ai/)**, [2](https://chat.lmsys.org/) - Chat and Compare Multiple Chatbots
 * [LLM Playground](https://llmplayground.net/) - Multiple Chatbots / [Discord](https://discord.com/invite/q55gsH8z5F) / [API](https://api.discord.rocks/)
 * [feyn](https://feyn.chat/) - GPT-4o / Multiple Chatbots
 * [OAICHAT](https://chat.oaichat.cc/), [2](https://chat.sorapi.dev/), [3](https://ffa.chat/) - GPT-4o / Multiple Chatbots
@@ -125,7 +125,7 @@
 
 * 🌐 **[EvalPlus Leaderboard](https://evalplus.github.io/leaderboard.html)** or [BigCode](https://huggingface.co/spaces/bigcode/bigcode-models-leaderboard) - Coding AI Leaderboards
 * 🌐 **[Awesome AI Agents](https://github.com/e2b-dev/awesome-ai-agents)** - Coding / Programming AIs
-* ⭐ **[Codeium](https://codeium.com/) / [Live Chat](https://codeium.com/live/general)** - Coding AI / [Discord](https://discord.com/invite/3XFf78nAx5) 
+* ⭐ **[Codeium](https://codeium.com/)** - Coding AI / [Live Chat](https://codeium.com/live/general) / [Discord](https://discord.com/invite/3XFf78nAx5)
 * ⭐ **[Pieces](https://pieces.app/) / [Docs](https://docs.pieces.app)** - Multi-LLM Coding AI / GPT-4 for Free
 * [Cursor](https://cursor.sh/) - Coding AI
 * [ImageCook](https://imgcook.com) / [GitHub](https://github.com/imgcook/imgcook) - Coding AI
@@ -251,7 +251,7 @@
 
 ***
 
-* ⭐ **[Microsoft Designer](https://designer.microsoft.com/image-creator)**, [2](https://www.bing.com/images/create) / Unlimited / [Tips](https://rentry.co/bingimagecreatortips) / [Bulk Download](https://github.com/Richard-Weiss/Bing-Creator-Image-Downloader)
+* ⭐ **[Microsoft Designer](https://designer.microsoft.com/image-creator)**, [2](https://www.bing.com/images/create) / Unlimited / [Tips](https://rentry.co/bingimagecreatortips)
 * ⭐ **[Mage](https://www.mage.space/)** / [Discord](https://discord.com/invite/GT9bPgxyFP) / Unlimited
 * ⭐ **[Poe](https://poe.com/)** / 100 Daily / [Discord](https://discord.com/invite/joinpoe)
 * ⭐ **[Dezgo](https://dezgo.com/)** / [Discord](https://discord.com/invite/RQrGpUhPhx) / Unlimited
