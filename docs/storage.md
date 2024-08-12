@@ -994,6 +994,8 @@
 * [HuraWatch2](https://hurawatch2.to/)
 * [TheFlixersz](https://theflixerz.to/)
 * [Soap2dayX2](https://soap2dayx2.to/)
+* [MyFlixerz2](https://myflixerz2.to/)
+* [WatchSeriesTV](https://watchseriestv.nl/)
 
 ***
 
