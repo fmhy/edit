@@ -657,7 +657,7 @@
 * ⭐ **[Modrinth](https://modrinth.com/)** / [Redirector](https://github.com/devBoi76/modrinthify)
 * ⭐ **[UsefulMods](https://github.com/TheUsefulLists/UsefulMods)**
 * ⭐ **[Alternatives](https://alternatives.microcontrollers.dev/)** / [2](https://microcontrollersdev.github.io/Alternatives/)
-* [CurseForge](https://www.curseforge.com/minecraft)
+* [CurseForge](https://www.curseforge.com/minecraft) / [QOL Fixes](https://greasyfork.org/en/scripts/389255-curseforge-qol-fixes), [2](https://greasyfork.org/en/scripts/445993-modrinthify)
 * [Planet Minecraft](https://www.planetminecraft.com/)
 * [MC Archive](https://mcarchive.net/)
 * [ModBay](https://modbay.org/)
@@ -673,7 +673,7 @@
 * [Lithium](https://modrinth.com/mod/lithium) - Game Logic & Server Optimization
 * [FerriteCore](https://modrinth.com/mod/ferrite-core) - Memory Usage Optimizations
 * [Nvidium](https://modrinth.com/mod/nvidium) - Improved Rendering Capability (Nvidia GPUs Only) / [GitHub](https://github.com/MCRcortex/nvidium)
-* [Distant Horizons](https://gitlab.com/jeseibel/distant-horizons) - Increased Render Distance / [Note]()
+* [Distant Horizons](https://gitlab.com/jeseibel/distant-horizons) - Increased Render Distance
 * [Embeddium](https://modrinth.com/mod/embeddium) - Unofficial Sodium Fork for Forge / [Embeddium Extra](https://modrinth.com/mod/rubidium-extra)
 * [VulkanMod](https://github.com/xCollateral/VulkanMod) - Rendering Optimization
 
@@ -682,11 +682,7 @@
 ## Minecraft Hosting
 
 * 🌐 **[FMHL](https://fmhl.devloo.xyz/)** - Free Minecraft Hosts List
-* [MineColab](https://colab.research.google.com/github/thecoder-001/MineColab/blob/master/MineColab.ipynb) / [GitHub](https://github.com/thecoder-001/MineColab)
-* [MineFort](https://minefort.com/)
-* [Aternos](https://aternos.org/)
-* [oracle-cloud](https://www.setup.md/guides/oracle-cloud) / [Tutorial](https://blogs.oracle.com/developers/post/how-to-set-up-and-run-a-really-powerful-free-minecraft-server-in-the-cloud)
-* [fps](https://fps.ms/)
+* [MineColab](https://colab.research.google.com/github/thecoder-001/MineColab/blob/master/MineColab.ipynb) - Free MC Host / [GitHub](https://github.com/thecoder-001/MineColab)
 
 ### Minecraft Server Tools
 
