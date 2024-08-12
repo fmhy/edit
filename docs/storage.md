@@ -714,19 +714,6 @@
 
 ***
 
-## Minecraft Launchers
-
-* ⭐ **[PrismLauncher](https://prismlauncher.org/)** / [GitHub](https://github.com/PrismLauncher/PrismLauncher) / [Free Method](https://rentry.co/Prism4Free) / [Offline Bypass](https://github.com/antunnitraj/Prism-Launcher-PolyMC-Offline-Bypass) / [Ely.by Version](https://github.com/Octol1ttle/ElyPrismLauncher) - Feature-rich Launcher
-* ⭐ **[ATLauncher](https://atlauncher.com/)** - Modpack Launcher
-* ⭐ **[Pojav](https://pojavlauncherteam.github.io/)** - Java Edition for Android / iOS / Requires Legit Copy
-* [MC Version Launcher](https://github.com/MCMrARM/mc-w10-version-launcher) - Multi-Version Launcher
-* [SkLauncher](https://skmedix.pl/) - User-friendly Launcher / Use Chrome or Disable Adblock to see Downloads
-* [CheatBreaker](https://cheatbreaker.net/) - Anti-Cheat / FPS Boost / [GitHub](https://github.com/CheatBreakerNet)
-
-[UltimMC](https://github.com/UltimMC/Launcher), [MultiMC](https://multimc.org/), [Legacy Launcher](https://lln4.ru/en) / [2](https://tlaun.ch/), [HMCL](https://github.com/HMCL-dev/HMCL) / [2](https://hmcl.huangyuhui.net/), [TechnicPack](https://www.technicpack.net/), [LabyMod](https://www.labymod.net/), [Crystal Launcher](https://crystal-launcher.net/), [GDLauncher](https://gdlauncher.com/), [X Minecraft Launcher](https://xmcl.app/), [Salwyrr Client](https://www.salwyrr.com/) / [Crack](https://pastebin.com/ggcB7RNi)
-
-***
-
 ## Multi-Console Browser Emulators
 
 * ⭐ **[EmulatorJS](https://demo.emulatorjs.org/)** - Multi-Console Browser Emulator / [Supported Systems](https://emulatorjs.org/docs/systems) 
