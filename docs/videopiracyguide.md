@@ -677,7 +677,7 @@
 ## ▷ Stremio Tools
 
 * 🌐 **[Stremio Addons](https://stremio-addons.netlify.app/)** - Stremio Addons
-* [PrivateStremio](https://rentry.co/privatestremio) - Stremio Guide
+* [Viren070's Guides](viren070.github.io/guides/stremio/guide) - Stremio Guide
 * [Stremio Addon Manager](https://stremio-addon-manager.vercel.app/) - Addons Manager
 * [streamio-ffmpeg](https://github.com/streamio/streamio-ffmpeg) - ffmpeg Wrapper
 * [Stremio Simkl](https://simkl.com/apps/stremio/) - Stremio Simkl Addon
