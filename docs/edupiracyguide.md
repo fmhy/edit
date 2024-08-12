@@ -41,7 +41,7 @@
 * 🌐 **[Awesome Courses](https://github.com/prakhar1989/awesome-courses/)** - Courses
 * 🌐 **[Limnology](https://limnology.co/)** - Educational YouTube Channels
 * ↪️ **[Udemy Tools / Coupons](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_udemy_coupons)**
-* ⭐ **[Coursera](https://www.coursera.org/)** - Courses / [Financial Aid](https://github.com/abdelrahmaan/Financial-aid-on-coursera-) / [Download](https://github.com/raffaem/cs-dlp), [2](https://github.com/raffaem/cs-dlp)
+* ⭐ **[Coursera](https://www.coursera.org/)** - Courses / [Financial Aid](https://github.com/abdelrahmaan/Financial-aid-on-coursera-) / [Download](https://github.com/raffaem/cs-dlp)
 * ⭐ **[edX](https://www.edx.org/)** - Courses / [Downloader](https://github.com/rehmatworks/edx-downloader)
 * ⭐ **[MitOpenCourseWare](https://ocw.mit.edu/index.htm)** - Courses
 * ⭐ **[Khan Academy](https://www.khanacademy.org/)** - Courses / [Downloader](https://github.com/rand-net/khan-dl)

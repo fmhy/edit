@@ -1664,6 +1664,7 @@ https://aniwow.in/ has only dubs though
 
 * ⭐ **[Voz.vn](https://voz.vn/)**, **[TECHRUM.VN](https://www.techrum.vn/)** or **[WhiteHat.vn](https://whitehat.vn/)** - Tech Forum
 * ⭐ **[J2team](https://www.facebook.com/groups/j2team.community)** - Tech Community
+* ⭐ **[Zalo](https://chat.zalo.me/)** - Chat App / [Dark Mode](https://zadark.com/) / [Desktop](https://zalo.me/pc)
 * ⭐ **[Unikey](https://www.unikey.org/en/)**, [Vietkey](https://vietkey.com.vn/) or [EVkey](https://evkeyvn.com/) - Vietnamese Typing Software
 * [Quantrimang](https://quantrimang.com/), [Anonyviet](https://anonyviet.com/) - Tech News
 * [VozForums](https://vozforum.org/) - Tech Forum
@@ -1677,7 +1678,6 @@ https://aniwow.in/ has only dubs though
 * [MayTinhOnline](https://maytinhonline.com/) - Calculator
 * [BusMap](https://busmap.vn/) - Bus Journey
 * [abProxy](https://proxy.abtech.vn/) - Web Proxy
-* [Zalo](https://chat.zalo.me/) - Chat App / [Dark Mode](https://zadark.com/) / [Desktop](https://zalo.me/pc)
 * [XaBuon](https://xabuon.com/) or [Xem](https://xem.vn/) - Memes
 * [GameVui](https://gamevui.vn/) or [Game24h](https://game24h.vn/) - Browser Games
 * [KiTuHay](https://kituhay.com/), [Symbols](https://symbols.vn/), [KTDB](https://ktdb.vn/) or [KiTuAz](https://kituaz.com/) - Special Characters
@@ -1764,6 +1764,9 @@ https://aniwow.in/ has only dubs though
 
 * ⭐ **[hoc10](https://hoc10.vn/)** - Textbooks, Study Material, Lecture Notes etc.
 * ⭐ **[Thư  Viện Pháp Luật](https://thuvienphapluat.vn/)** - Legal Information Portal / [Facebook](https://www.facebook.com/ThuVienPhapLuat.vn/) 
+* ⭐ **[VietJack](https://vietjack.com/)** - Educational Books / Documents
+* ⭐ **[LoiGiaiHay](https://loigiaihay.com/)** - Educational Books / Documents
+* ⭐ **[VNDoc](https://vndoc.com/)** - Educational Books / Documents
 * [SachVui](https://sachvuii.com/) - Books / [Direct Links](https://greasyfork.org/en/scripts/488558)
 * [MeTaiSach](https://metaisach.com/) - Books
 * [DocSachHay](https://docsachhay.net/) - Books
@@ -1777,9 +1780,6 @@ https://aniwow.in/ has only dubs though
 * [DocSach24](https://docsach24.co/) - Books
 * [SachHay](https://www.sachhayonline.com/) - Books
 * [TruyenPlus](https://Truyenplus.vn) - Books / Novel
-* [VNDoc](https://vndoc.com/) - Educational Books / Documents
-* [LoiGiaiHay](https://loigiaihay.com/) - Educational Books / Documents
-* [VietJack](https://vietjack.com/) - Educational Books / Documents
 * [DocTaiLieu](https://doctailieu.com/) - Educational Books / Documents
 * [Fecomic](https://fecomic.cc/) - Manga / Manhwa / Manhua
 * [Truyencc](https://truyencc.com/) - Manga / Manhwa / Manhua
