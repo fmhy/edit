@@ -33,10 +33,10 @@
 
 * ⭐ **[yokoffing's Recommended Filters](https://github.com/yokoffing/filterlists)**
 * ⭐ **[LegitimateURLShortener](https://github.com/DandelionSprout/adfilt/blob/master/LegitimateURLShortener.txt)**
-* ⭐ **[FMHY Filterlist](https://fmhy.github.io/FMHYFilterlist/)** - Unsafe Sites Filter
 * [FilterLists](https://filterlists.com/) Filter and host lists directory
 * [Adbox](http://raymondhill.net/ublock/adbox.html) - Test Filters
 * [DandelionSprout adfilt](https://github.com/DandelionSprout/adfilt)
+* [FMHY Filterlist](https://fmhy.github.io/FMHYFilterlist/site/index.html), [2](https://fmhy.github.io/FMHYFilterlist/) - Unsafe Sites Filter
 * [Facebook Filters](https://www.reddit.com/r/uBlockOrigin/wiki/solutions#wiki_facebook)
 * [Clear URLs for uBO](https://github.com/DandelionSprout/adfilt/blob/master/ClearURLs%20for%20uBo/clear_urls_uboified.txt)
 * [webannoyances](https://github.com/yourduskquibbles/webannoyances)
@@ -140,7 +140,7 @@
 
 * 🌐 **[The Second Opinion](https://jijirae.github.io/thesecondopinion/index.html)** - Portable Malware Scanners / Removal Tools
 * ⭐ **[VirusTotal](https://www.virustotal.com/)** / [Scan Results Guide](https://rentry.co/piracy-faq-virustotal), [2](https://rentry.co/VTGuide) or **[Hybrid Analysis](https://hybrid-analysis.com/)** - Online File Analyzer
-* ⭐ **VirusTotal Tools** - [CLI](https://github.com/VirusTotal/vt-cli) / [Telegram Bot](https://t.me/virus_total_scan_bot) / [Uploader](https://github.com/SamuelTulach/VirusTotalUploader) / [Lite Version](https://www.virustotal.com/old-browsers/)
+* ⭐ **VirusTotal Tools** - [CLI](https://github.com/VirusTotal/vt-cli) / [Uploader](https://github.com/SamuelTulach/VirusTotalUploader) / [Lite Version](https://www.virustotal.com/old-browsers/)
 * [Microsoft Safety Scanner](https://learn.microsoft.com/en-us/defender-endpoint/safety-scanner-download) or [Emsisoft Emergency Kit](https://www.emsisoft.com/en/home/emergencykit/) - On-demand AV Scanners
 * [Manalyzer](https://manalyzer.org/) - PE File Scanner
 * [YARA](https://virustotal.github.io/yara/) - Malware Identification Tool
@@ -193,12 +193,11 @@
 * ⭐ **[Surveillance Self-Defense](https://ssd.eff.org/)** - Educational Guide
 * ⭐ **[The New Oil](https://thenewoil.org/)** - Educational Guide
 * ⭐ **[No Trace](https://www.notrace.how/)** - Educational Guide / [.onion](http://i4pd4zpyhrojnyx5l3d2siauy4almteocqow4bp2lqxyocrfy6prycad.onion/)
-* [Lissy93's Awesome Privacy](https://awesome-privacy.xyz/) / [GitHub](https://github.com/lissy93/awesome-privacy) or [pluja's Awesome Privacy](https://pluja.github.io/awesome-privacy/) / [GitHub](https://github.com/pluja/awesome-privacy) - List of Privacy Software & Services
+* [Lissy93's Awesome Privacy](https://awesome-privacy.xyz/) / [GitHub](https://github.com/lissy93/awesome-privacy) or [pluja's Awesome Privacy](https://pluja.github.io/awesome-privacy/) / [GitHub](https://github.com/pluja/awesome-privacy) - Privacy App / Service Lists
 * [Defensive Computing Checklist](https://defensivecomputingchecklist.com/) - Educational Guide
 * [Ken Harris](https://cyber.kenharris.io/) - Educational Guide
 * [AvoidTheHack](https://avoidthehack.com/) - Educational Blog
 * [Hostux](https://hostux.network/) - Privacy Tools
-* [yuuire](https://guide.yuuire.com/recommendations/) - Educational Guide
 * [The Hitchhiker’s Guide](https://anonymousplanet.org/) - Extensive Guide to Online Anonymity
 * [Privacy Settings](https://github.com/StellarSand/privacy-settings) - Privacy Setting Guides
 * [EncryptedList](https://encryptedlist.xyz/) - List of Encrypted Services/Apps
@@ -452,7 +451,7 @@
 ## ▷ Proxy Apps
 
 * ⭐ **[SecureDNSClient](https://github.com/msasanmh/SecureDNSClient)** - DNS Proxy GUI / [Guide](https://rentry.co/SecureDNSClient)
-* [Lantern](https://lantern.io/) or [Psiphon](https://psiphon.ca/) - Free Proxy / VPN
+* [Psiphon](https://psiphon.ca/) - Free Proxy / VPN
 * [No Thought is a Crime](https://ntc.party/) - Internet Censorship Discussion
 * [GoodbyeDPI](https://github.com/ValdikSS/GoodbyeDPI/) / [GUI](https://github.com/mguludag/GUI-for-GoodbyeDPI), [PowerTunnel](https://github.com/krlvm/PowerTunnel), [zapret](https://github.com/bol-van/zapret) or [Green Tunnel](https://github.com/SadeghHayeri/GreenTunnel) - DPI Circumvention Local Proxies
 * [Hola Proxy](https://github.com/Snawoot/hola-proxy) - Alternative Client for Hola Free Proxy Service

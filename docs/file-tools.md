@@ -15,9 +15,10 @@
 * [Magika](https://github.com/google/magika) - AI File Content Type Detector
 * [Phockup](https://github.com/ivandokov/phockup) - Organize Photo / Video Files by Date
 * [Icaros](https://github.com/Xanashi/Icaros) - Add Explorer Thumbnails to any Video Format
-* [Tagging for Windows](https://tagging.connectpaste.com/) - Tag-Based Filesystem
+* [Tagging for Windows](https://tagging.connectpaste.com/) - Tag-Based File System
+* [WinBtrfs](https://github.com/maharmstone/btrfs) - Btrfs File System
 * [HTTPDirfs](https://github.com/fangfufu/httpdirfs) - HTTP File System
-* [mergerfs](https://github.com/trapexit/mergerfs) - Union Filesystem
+* [mergerfs](https://github.com/trapexit/mergerfs) - Union File System
 * [filebrowser](https://github.com/filebrowser/filebrowser/) - Online File Viewer
 * [File-Examples](https://file-examples.com/) - Dummy File Examples
 * [OpenHashTab](https://github.com/namazso/OpenHashTab) - Compare / Display File Hashes
@@ -254,11 +255,9 @@
 * [Aspose](https://products.aspose.app/pdf/annotation) or [pdf-unstamper](https://github.com/hwding/pdf-unstamper) - PDF Watermark Remover
 * [Scan Your PDF](https://www.scanyourpdf.com/) - Make PDFs look Scanned
 * [PDF Fixer](https://pdffixer.com/) - Repair Damaged PDFs
-* [JustSignPDF](https://justsignpdf.com/) - Sign PDF Online
-* [FalsiScan](https://gitlab.com/edouardklein/falsisign) - PDF Hand Signature Generator
+* [OpenSign](https://github.com/OpenSignLabs/OpenSign), [FalsiScan](https://gitlab.com/edouardklein/falsisign), [JustSignPDF](https://justsignpdf.com/) or [Adobe Sign](https://www.adobe.com/acrobat/online/sign-pdf.html) - PDF Signature Tools
 * [Google Drive PDF Downloader](https://github.com/zeltox/Google-Drive-PDF-Downloader) - Download Protected GDrive PDFs
 * [PDFCoffee](https://pdfcoffee.com/) - Upload PDF, Word or PowerPoint Files
-* [Adobe Sign](https://www.adobe.com/acrobat/online/sign-pdf.html) - Fill & sign a PDF
 * [PrintFriendly](https://www.printfriendly.com/) - Printer Formatting Tools
 
 ***
@@ -278,8 +277,7 @@
 * ⭐ **[Pillowcase](https://pillowcase.su/)** - Audio File Host / 200MB (500MB With Account) / Forever
 * ⭐ **[Catbox](https://catbox.moe/)** - 200MB / Forever
 * ⭐ **[HIDAN](https://hidan.sh/)** - Unlimited / 10+ Days (from upload)
-* ⭐ **[Pixeldrain](https://pixeldrain.com/)** - 20GB / 120 Days / [Discord](https://discord.gg/TWKGvYAFvX)
-* ⭐ **Pixeldrain Tools** - [Speedtest](https://pixeldrain.com/speedtest) / [Limit Bypass](https://pixeldrain-bypass.cybar.xyz) / [Limit Bypass Userscript](https://greasyfork.org/en/scripts/491326-pixeldrain-download-bypass)
+* ⭐ **[Pixeldrain](https://pixeldrain.com/)** - 20GB / 120 Days / [Discord](https://discord.gg/TWKGvYAFvX) / [Speedtest](https://pixeldrain.com/speedtest)
 * [MultiUp.io](https://multiup.io/) / [Extract / Upload](https://github.com/Reddiepoint/MultiUp-Direct), [MirrorAce](https://mirrorace.com/), or [Mirrored.to](https://www.mirrored.to/) - Multi Host Uploaders
 * [Z-o-o-m](https://z-o-o-m.eu/) - Multi-Host Upload Desktop App
 * [MixDrop](https://mixdrop.ag/) - Unlimited / 60 Days / Account Required
@@ -404,7 +402,6 @@
 * [JumpShare](https://jumpshare.com/) - 2GB Free / $8.25 for 1TB
 * [CyberFile](https://cyberfile.me/) - 10GB Free
 * [MrOwl](https://www.mrowl.com/) - 10GB Free / ~$16 for 1TB
-* [storj](https://www.storj.io/) - 25GB Free / ~$4 for 1TB
 * [Blomp](https://www.blomp.com/) - 20GB Free / ~$3 for 2TB
 * [internxt](https://internxt.com/) - 10GB Free / ~4 for 1TB
 * [Akira Box](https://akirabox.com/) - 20GB Free

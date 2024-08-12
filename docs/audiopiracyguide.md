@@ -217,7 +217,7 @@
 
 ## ▷ Audio Ripping Sites
 
-* ⭐ **[lucida](https://lucida.to/)** - Multi-Site / 320kb / MP3 / FLAC / [Telegram](https://t.me/lucidahasmusic) / [Discord](https://discord.gg/5EEexMqVuE)
+* ⭐ **[lucida](https://lucida.to/)**, [2](https://lucida.su/) - Multi-Site / 320kb / MP3 / FLAC / [Telegram](https://t.me/lucidahasmusic) / [Discord](https://discord.gg/5EEexMqVuE)
 * ⭐ **[DoubleDouble](https://doubledouble.top/)** - [Multi-Site](https://pastebin.com/dPT8aE0R) / 320kb / MP3 / FLAC / [Telegram](https://t.me/+AuKfQGOOLrFlOTZk) / [Important Note](https://rentry.co/LucidaDoubleDouble)
 * ⭐ **[squid.wtf](https://squid.wtf/)** - Deezer / FLAC / [Discord](https://discord.gg/ATjPbzR) / [Note](https://pastebin.com/eWErQNmN)
 * ⭐ **[yet another music server](https://yams.tf/)** - Deezer / Tidal / Qobuz / Spotify / FLAC
@@ -237,7 +237,7 @@
 
 * 🌐 **[Music Ripping Guide](https://ori5000.github.io/musicripping.html)**, [MusicDL](https://rentry.org/musicdl) or [Florin](https://rentry.org/florinsmusicrippingguide) - Downloading / Ripping Guides
 * ↪️ **[YT-DLP](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/social-media#wiki_.25B7_youtube_downloaders)** - YouTube Downloaders
-* ⭐ **[Firehawk52](https://rentry.org/firehawk52)** - Deezer / Qobuz Premium Accounts
+* ⭐ **[Firehawk52](https://rentry.co/FMHYBase64#firehawk)** - Deezer / Qobuz
 * ⭐ **[Soulseek](https://slsknet.org/)** or [Nicotine+](https://nicotine-plus.org/) - Download App / [Stats](https://github.com/mrusse/Slsk-Upload-Stats-Tracker) / [Server App](https://github.com/slskd/slskd)
 * ⭐ **[Soggfy](https://github.com/Rafiuth/Soggfy)** - Spotify / 160kb Free / 320kb Premium
 * [spotDL](https://spotdl.readthedocs.io/en/latest/) - YouTube / SoundCloud / 128kb AAC
@@ -246,11 +246,12 @@
 * [DownOnSpot](https://github.com/oSumAtrIX/DownOnSpot) - Spotify / 160kb Free / 320kb Premium
 * [Zotify](https://zotify.xyz/) - Spotify / 160kb Free / 320kb Premium / [Discord](https://discord.gg/Arpx9hunkm)
 * [OnTheSpot](https://github.com/casualsnek/onthespot) - Spotify / 160kb Free / 320kb Premium / [Discord](https://discord.com/invite/hz4mAwSujH)
-* [spotify_sync](https://github.com/jbh-cloud/spotify_sync) - Deezer / 128kbpFree / FLAC Premium
-* [streamrip](https://github.com/nathom/streamrip) - Deezer / Tidal / Qobuz / SoundCloud / 128 kb Free / FLAC Premium / [Colab](https://github.com/r-piratedgames/rip)
+* [spotify_sync](https://github.com/jbh-cloud/spotify_sync) - Deezer / 128kb Free / FLAC Premium (Firehawk52)
+* [streamrip](https://github.com/nathom/streamrip) - Deezer / Tidal / Qobuz / SoundCloud / 128kb Free / FLAC Premium (Firehawk52)/ [Colab](https://github.com/r-piratedgames/rip)
 * [d-fi](https://notabug.org/sayem314/d-fi) - Deezer / FLAC / Requires Premium (Firehawk52) / [GUI](https://github.com/jaylex32/BeatOn)
-* [Orpheus](https://github.com/yarrm80s/orpheusdl) - Deezer / Qobuz / 128 kb Free / FLAC Premium / [Deezer Module](https://github.com/uhwot/orpheusdl-deezer) / [Qobuz Module](https://github.com/yarrm80s/orpheusdl-qobuz)
+* [Orpheus](https://github.com/yarrm80s/orpheusdl) - Deezer / Qobuz / 128kb Free / FLAC Premium / [Deezer Module](https://github.com/uhwot/orpheusdl-deezer) / [Qobuz Module](https://github.com/yarrm80s/orpheusdl-qobuz)
 * [SaturnMusic](https://github.com/SaturnMusic/) - Deezer / FLAC / Requires Premium (Firehawk52)
+* [DeemixFix](https://gitlab.com/deeplydrumming/DeemixFix) - Deezer / FLAC / Requires Premium (Firehawk52)
 * [QobuzDownloaderX-MOD](https://github.com/DJDoubleD/QobuzDownloaderX-MOD) - Qobuz / 128 kb Free / FLAC Premium
 * [qobuz-dl](https://github.com/vitiko98/qobuz-dl) - Qobuz /128 kb Free / FLAC Premium
 * [GamDL](https://github.com/glomatico/gamdl) - Apple / FLAC / Requires Premium
@@ -471,7 +472,7 @@
 
 # ► Tracking / Discovery
 
-* ⭐ **[Last.fm](https://www.last.fm/home)**, [Music Board](https://musicboard.app/) or [Libre](https://libre.fm/) - Track Music you Listen to
+* ⭐ **[Last.fm](https://www.last.fm/home)** or [Music Board](https://musicboard.app/) - Track Music you Listen to
 * ⭐ **Last.fm Tools** - [Manual Scrobble](https://openscrobbler.com/) / [Web Scrobble](https://web-scrobbler.com/) / [Album Collages](https://www.chartmymusic.com/), [2](https://www.tapmusic.net/), [3](https://musicorumapp.com/generate) / [Artist Iceberg](https://lastfm-iceberg.dawdle.space/) / [Tag Cloud](https://tagcloud.joshuarainbow.co.uk/) / [Mainstream Calc](http://mainstream.ghan.nl/) / [Now Playing](https://descent.live/now)
 * ⭐ **[Has it leaked](https://hasitleaked.com/)** or [LEAKED](https://leaked.cx/) - Album Leak Tracker
 * ⭐ **[Muspy](https://muspy.com/)**, [MusicButler](https://www.musicbutler.io/) or [Brew.fm](https://www.brew.fm/) - Get Album Release Updates

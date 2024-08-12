@@ -12,6 +12,7 @@
 * [Social Media Hacker List](https://github.com/MobileFirstLLC/social-media-hacker-list) - Social Media Apps / Tools
 * [ExportComments](https://exportcomments.com/) - Export Social Media Comments
 * [socid_extractor](https://github.com/soxoj/socid-extractor) - Extract Social Media User Info from Pages
+* [BlackTwist](https://www.blacktwist.app/) - Free Threads Analytics
 
 ***
 
@@ -75,12 +76,10 @@
 * [abaddon](https://github.com/uowuo/abaddon) - Discord Client Mod / Lightweight
 * [Discordo](https://github.com/ayn2op/discordo) - Discord Terminal Client
 * [discord-PWA](https://github.com/NeverDecaf/discord-PWA) - Discord PWA Client
-* [Unicord](https://github.com/UnicordDev/Unicord) - Discord Client for Windows / [Discord](https://discord.gg/64g7M5Y)
 * [Spacebar](https://github.com/spacebarchat/spacebarchat) - Self-hostable Discord Client
 * [Dorion](https://github.com/SpikeHD/Dorion) - Lightweight Discord Client
 * [Dissent](https://github.com/diamondburned/dissent) - GTK4 Discord Client
 * [Discord Portable](https://portapps.io/app/discord-portable/) / [PTB PortApps](https://portapps.io/app/discord-ptb-portable/) - Portable Discord Stable
-* [litecord](https://gitlab.com/litecord/litecord) - Reimplementation of Discord's Backend / [Clients](https://gitlab.com/litecord/litecord/-/blob/master/docs/clients.md)
 
 ***
 
@@ -104,7 +103,6 @@
 * [Discord-Emoji-Downloader](https://thatiemsz.github.io/Discord-Emoji-Downloader/) - Emoji Downloader
 * [ImageClipboard](https://imageclipboard.com/), [Slackmoji](https://github.com/seanprashad/slackmoji) or [emoji.gg](https://emoji.gg/)- Free Discord Nitro Emojis
 * [Snowsgiving Icons & Emotes](https://web.archive.org/web/20230729100139/https://cdn.discordapp.com/attachments/689605845058715801/862281806820278292/Snow.zip) - Snowsgiving Event Icons / Emojis
-* [6gk Turtles](https://github.com/6gk/turtles) - Discord Turtle Emojis
 * [Discord Text to Emoji](https://jtprince.com/discord/) - Convert Text to Discord Emojis
 * [Stickers.gg](https://stickers.gg) - Free Discord Stickers
 * [PreMiD](https://premid.app/) - Display Web Activity in Discord Status / [GitHub](https://github.com/PreMiD/PreMiD) / [Discord](https://discord.premid.app/)
@@ -292,6 +290,7 @@
 * [Materialgram](https://github.com/kukuruzka165/materialgram) - Desktop Client
 * [Pyrogram](https://docs.pyrogram.org/) / [Session Strings](https://t.me/SessionStringGeneratorZBot) - Telegram API Client
 * [Telega.el](https://github.com/zevlg/telega.el) - Telegram Emacs Client
+* [VanillaTG](https://t.me/VanillaTG) - Client Themes
 
 ***
 
@@ -712,6 +711,7 @@
 * [Phanpy](https://phanpy.social/) or [Mastodeck](https://mastodeck.com/) - Mastodon Clients
 * [MastoVue](https://mastovue.glitch.me/) or [FediWall](https://fediwall.social/) - View Public Timelines / Hashtags
 * [Followgraph](https://followgraph.vercel.app/) or [StreetPass](https://streetpass.social/) - Find Mastodon Users
+* [Tokimeki Mastodon](https://tokimeki-mastodon.vercel.app/) - Mastodon Following Manager
 * [western.social](https://western.social/) - User Search
 * [Tootfinder](https://www.tootfinder.ch/) - Opt-In Full Text Search
 * [Mastodon Scheduler](https://scheduler.mastodon.tools/) or [FediPlan](https://plan.fedilab.app/) - Schedule Posts
