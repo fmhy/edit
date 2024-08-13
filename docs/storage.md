@@ -831,7 +831,7 @@
 
 ## Piracy Site Proxies
 
-[Knaben's Proxy List](https://knaben.info/), [unblockninja](https://unblockninja.com/), [uProxy](https://uproxy.to/), [unblocktorrent](https://unblocktorrent.com/), [unblock.soy](https://unblock.soy/) / [2](https://en-proxy.com/) / [3](https://unb.how/) / [4](https://unblockedscene.com/), [piracyproxy](https://piracyproxy.page/), [dirproxy](https://dirproxy.cc/), [ProxyNinja](https://proxyninja.org/), [ninjaproxy1](https://ninjaproxy1.com/), [immortalproxy](https://immortalproxy.com/)
+[Knaben's Proxy List](https://knaben.info/), [unblockninja](https://unblockninja.com/), [unblocktorrent](https://unblocktorrent.com/), [unblock.soy](https://unblock.soy/) / [2](https://en-proxy.com/) / [3](https://unb.how/) / [4](https://unblockedscene.com/), [piracyproxy](https://piracyproxy.page/), [dirproxy](https://dirproxy.cc/), [ProxyNinja](https://proxyninja.org/), [ninjaproxy1](https://ninjaproxy1.com/), [immortalproxy](https://immortalproxy.com/)
 
 ***
 
@@ -1011,6 +1011,17 @@
 * [Filmzie](https://filmzie.cc/)
 * [Andyday](https://andyday.cc/)
 * [FouMovies](https://foumovies.tv/)
+
+***
+
+### HiAnime Clones
+
+* [4anime](https://4anime.gg/)
+* [kaido](https://kaido.to/)
+* [9animetv](https://9animetv.to/)
+* [anicrush](https://anicrush.to/)
+* [aniwatchtv](https://aniwatchtv.to/)
+* [9anime.pe](https://9anime.pe/)
 
 ***
 

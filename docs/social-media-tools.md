@@ -13,6 +13,8 @@
 * [ExportComments](https://exportcomments.com/) - Export Social Media Comments
 * [socid_extractor](https://github.com/soxoj/socid-extractor) - Extract Social Media User Info from Pages
 * [BlackTwist](https://www.blacktwist.app/) - Free Threads Analytics
+* [Mind Your Banners](https://www.mindyourbanners.com/) - Social Media Banner Design
+* [CleanSnap](https://www.cleansnap.co/) - Customize Social Media Screenshots
 
 ***
 
@@ -232,7 +234,7 @@
 * ⭐ **[Reddit Repost Sleuth](https://www.repostsleuth.com/)** - Reverse Post / Image Search
 * ⭐ **[Undelete](https://undelete.pullpush.io/)** - View Deleted Reddit Posts
 * [RSOG](https://www.rsog.org/) - Reddit Search on Google / [Userscript](https://greasyfork.org/en/scripts/462356)
-* [New PullPush](https://search-new.pullpush.io/) / [2](https://search.pullpush.io/), [Samac](https://samac.io/) or [Better Reddit Search](https://betterredditsearch.web.app/) - Advanced Reddit Search
+* [New PullPush](https://search-new.pullpush.io/) / [2](https://search.pullpush.io/) / [3](https://ihsoyct.github.io/), [Samac](https://samac.io/) or [Better Reddit Search](https://betterredditsearch.web.app/) - Advanced Reddit Search
 * [Redditle](https://redditle.com/) - Reddit-only Google Search
 * [Arctic Shift](https://arctic-shift.photon-reddit.com/) - Reddit Archive Dump Search / [GitHub](https://github.com/ArthurHeitmann/arctic_shift)
 * [RedditCommentSearch](https://redditcommentsearch.com/) - Reddit Comment Search
