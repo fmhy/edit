@@ -46,6 +46,7 @@
 * [GhostBuster](https://bitbucket.org/wvd-vegt/ghostbuster/src/master/) or [Device Cleanup Tool](https://www.majorgeeks.com/files/details/device_cleanup_tool.html) - Remove Non-Present Devices
 * [Win11Debloat](https://github.com/Raphire/Win11Debloat) - Debloater
 * [Should I Remove It?](https://www.shouldiremoveit.com/) - Program Removal Guide
+* [Schneegans autounattend.xml File Generator](https://schneegans.de/windows/unattend-generator/) - Create Your Own Customized [Windows Answer File](https://learn.microsoft.com/en-us/windows-hardware/manufacture/desktop/update-windows-settings-and-scripts-create-your-own-answer-file-sxs?view=windows-11)
 
 ***
 
