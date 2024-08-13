@@ -342,7 +342,8 @@
 * [Tetris](https://tetris.com/), [Tetr.js](http://farter.cn/tetr.js/), [OpenTetris Classic](https://sourceforge.net/projects/opentetrisclassic/) or [NullpoMino](https://github.com/nullpomino/nullpomino) - Play Tetris
 * [TETR.IO](https://tetr.io/) - Multiplayer Tetris / [Plus](https://gitlab.com/UniQMG/tetrio-plus) / [Skin Database](https://you.have.fail/tetrioplus//) / [Stats](https://tetrio.team2xh.net/)
 * [Jstris](https://jstris.jezevec10.com/) - Multiplayer Tetris / [Plus](https://discord.gg/mtX8ek82xb) / [Skin Database](https://docs.google.com/spreadsheets/d/1xO8DTORacMmSJAQicpJscob7WUkOVuaNH0wzkR_X194/htmlview#)
-* [First-Person Tetris](https://firstpersontetris.com/) - Play Tetris in First Person 
+* [First-Person Tetris](https://firstpersontetris.com/) - Play Tetris in First Person
+* [Sandtris](https://sandtris.com/) - Tetris with falling sand physics
 * [Play Snake](https://playsnake.org/) - Retro Snake 
 * [Google Maps Snake](https://snake.googlemaps.com/) - Google Snake
 * [Google Snake Mods](https://googlesnakemods.com/) - Google Snake Mods
