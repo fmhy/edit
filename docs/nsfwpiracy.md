@@ -1,3 +1,5 @@
+* **Note** - If sites are blocked in your country try using a [VPN](https://fmhy.net/adblockvpnguide#vpn).
+
 # ► NSFW Indexes
 
 * 🌐 **[PornDude](https://theporndude.com/)** / [More Sites](https://theporndude.com/hall-of-fame)

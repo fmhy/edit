@@ -146,7 +146,6 @@
 * [KuPDF](https://kupdf.net/) - Books
 * [ePDF](https://epdf.mx/) - Books
 * [PDFCoffee](https://pdfcoffee.com) - Books
-* [Moam](https://moam.info/) - Books
 * [PDFCookie](https://pdfcookie.com/) - Books
 * [PDFSearches](https://pdfsearches.com/) - Books
 * [iDoc](https://idoc.tips/) - Books
