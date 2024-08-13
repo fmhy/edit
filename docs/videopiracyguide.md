@@ -689,7 +689,7 @@
 # ► Torrent Sites
 
 * ↪️ **[General Torrent Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent)**
-* ⭐ **[1337x Movies](https://1337x.to/movie-library/1/)** - Movies / TV / Anime
+* ⭐ **[1337x Movies](https://1337x.to/movie-library/1/), [2](https://x1337x.cc/movie-library/1/)** - Movies / TV / Anime
 * ⭐ **[TorrentGalaxy Movies](https://torrentgalaxy.to/torrents.php?parent_cat=Movies)** - Movies / TV / Anime
 * ⭐ **[RuTracker Movies](https://rutracker.org/forum/index.php?c=2)** - Movies / TV / Anime / [Wiki](http://rutracker.wiki/) / [Rules](https://rutracker.org/forum/viewtopic.php?t=1045)
 * ⭐ **[Kinozal](https://kinozal.tv/)** - Movies / TV / 4K
