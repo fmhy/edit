@@ -426,7 +426,8 @@
 * [Script 8](https://script-8.github.io/)
 * [Tic80](https://tic80.com/)
 * [Byond](https://www.byond.com/)
-* [Scratch](https://scratch.mit.edu/)
+* [Scratch](https://scratch.mit.edu/) / [Wiki](https://scratch-wiki.info/) / [Addons](https://scratchaddons.com/)
+* Scratch Forks - [Turbowarp](https://turbowarp.org/), [Penguin Mod](https://penguinmod.com/), [Snail IDE](https://www.snail-ide.com/), [Gandi IDE](https://getgandi.com/), [Adacraft](https://www.adacraft.org/)
 
 ### 3D Game Engines
 
