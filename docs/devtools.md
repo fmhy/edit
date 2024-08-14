@@ -799,7 +799,7 @@
 * [Web Dev for Beginners](https://microsoft.github.io/Web-Dev-For-Beginners/) - Web Dev Course
 * [Aquent Gymnasium](https://thegymnasium.com/) or [TheValleyOfCode](https://thevalleyofcode.com/) - Web Dev Tutorials
 * [Dash](https://dash.generalassemb.ly/) - Web Dev Courses
-* [Web Skills](https://andreasbm.github.io/web-skills/), [web.dev](https://web.dev/learn) or [Encodedna](https://www.encodedna.com/) - Web Dev Guides
+* [Web Skills](https://andreasbm.github.io/web-skills/), [Codeguage](https://www.codeguage.com/) / [Discord](https://discord.gg/V8jcS8d2H5), [web.dev](https://web.dev/learn) or [Encodedna](https://www.encodedna.com/) - Web Dev Guides
 * [Codevolution](https://www.youtube.com/@Codevolution) - Web Dev Video Lessons
 * [Local-First Web](https://localfirstweb.dev/) - Local-First Web Development Guide
 * [DOM Events](https://domevents.dev/) - Learn about DOM Events
