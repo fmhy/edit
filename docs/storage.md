@@ -686,27 +686,6 @@
 * [Embeddium](https://modrinth.com/mod/embeddium) - Unofficial Sodium Fork for Forge / [Embeddium Extra](https://modrinth.com/mod/rubidium-extra)
 * [VulkanMod](https://github.com/xCollateral/VulkanMod) - Rendering Optimization
 
-### Server Tools
-
-* 🌐 **[FMHL](https://fmhl.devloo.xyz/)** - Free Minecraft Hosts List
-* ⭐ **[Playit.gg](https://playit.gg/)** - Global Proxy / [Discord](https://discord.gg/AXAbujx)
-* ⭐ **[paper-optimization](https://paper-chan.moe/paper-optimization/)** or [minecraft-optimization](https://github.com/YouHaveTrouble/minecraft-optimization) - Server Optimization Guides
-* ⭐ **[auto-mcs](https://www.auto-mcs.com/)** - Easy Server Setup
-* [Setup.md](https://setup.md/) - Server Admin Guides
-* [CraftyControl](https://craftycontrol.com/), [MCSManager](https://mcsmanager.com/) or [Fork](https://www.fork.gg/) - Minecraft Server Managers
-* [Minekube Connect](https://connect.minekube.com/) - Ingress Tunnel for Minecraft Servers
-* [mclo.gs](https://mclo.gs/) - Minecraft Log Sharing / Analyzing
-* [LazyMc](https://github.com/timvisee/lazymc) - Idle Minecraft Server
-* [Cuberite](https://cuberite.org/) - Server Setup
-* [DriveBackupV2](https://modrinth.com/plugin/drivebackupv2) - Server Plugin to Create Cloud Backups of Worlds
-* [World Host](https://modrinth.com/mod/world-host) - No Server Single Player
-* [Pufferfish](https://github.com/pufferfish-gg/Pufferfish), [Purpur](https://purpurmc.org/) / [Discord](https://purpurmc.org/discord) or [Paper](https://papermc.io/software/paper) - Performance Enhancement Servers
-* [GeyserMC](https://geysermc.org/) - Join Minecraft Java Servers with Bedrock Client / [Consoles](https://wiki.geysermc.org/geyser/using-geyser-with-consoles/)
-* [Minecraft Server Scanner](https://github.com/Footsiefat/Minecraft-Server-Scanner) - Minecraft Server Info
-* [Minecraft Server Checker](https://moistcatawumpus.github.io/minecraft-server-checker/) - Simple Server Checker
-* [mcsrvstat](https://mcsrvstat.us/) - Server Status Updates
-* [MC-Server-Banner-API](https://github.com/LOOHP/MC-Server-Banner-API) - Realtime Updated Server Banners
-
 ***
 
 ## Multi-Console Browser Emulators
