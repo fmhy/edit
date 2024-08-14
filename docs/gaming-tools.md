@@ -480,7 +480,6 @@
 * [SkyCrypt](https://sky.shiiyu.moe/) - SkyBlock Stats
 * [Pixelart Builder](https://play.google.com/store/apps/details?id=com.electricfoal.photocrafter&hl=en&gl=US) or [PixelStacker](https://taylorlove.info/pixelstacker/) - Turn Photos into Minecraft Art
 * [Block Palettes](https://www.blockpalettes.com/) or [Block Colors](https://blockcolors.app/) - Block Color Palettes
-* [Mineflayer](https://prismarinejs.github.io/mineflayer/) - Minecraft Bot Creator
 * [The Minecraft Archive Project](https://map.crummy.com/) - Minecraft Archive
 * [Voyager](https://voyager.minedojo.org/) - Minecraft AI
 * [MiniMessageViewer](https://webui.advntr.dev/) - Format Plugin Messages
@@ -581,6 +580,7 @@
 * ⭐ **[spark](https://spark.lucko.me/)** - Minecraft Performance Profiler
 * [Minecraft Performance Flags](https://github.com/Mukul1127/Minecraft-Performance-Flags-Benchmarks) - Java Minecraft Benchmarks
 * [Report Inspector](https://misode.github.io/report/) - Crash Report / Profiling Inspector
+* [Mineflayer](https://prismarinejs.github.io/mineflayer/) - Minecraft Bot Creator / [GitHub](https://github.com/PrismarineJS/mineflayer)
 * [Minecraft Armor Stand](https://haselkern.com/Minecraft-ArmorStand/) - Design Poses for Armorstands
 * [Enchant Order](https://iamcal.github.io/enchant-order/) - Minecraft Enchantment Ordering Tool
 * [Minecraft Tools](https://minecraft.tools/en/) or [GamerGeeks](https://www.gamergeeks.net/) - Minecraft Tools / Calculators
@@ -593,18 +593,16 @@
 
 ***
 
-## ▷ Assets
+## ▷ Customization
 
+* 🌐 **[ShaderLABS](https://shaderlabs.org/wiki/Main_Page)** - Shader Comparisons and Resources
 * ⭐ **[NameMC](https://namemc.com/)** - Minecraft Name & Skin Availability Tracker
+* [ShadersMods](https://shadersmods.com/) or [MinecraftShader](https://minecraftshader.com/) - Minecraft Shaders
+* [Iris Shaders](https://modrinth.com/mod/iris) - Fabric Shadermod for Minecraft
 * [MinecraftSkins](https://www.minecraftskins.com/) or [SkinMC](https://skinmc.net/) - Minecraft Skins
 * [Laby](https://laby.net/) / [Discord](https://discord.com/invite/8JBMHDfWKp) or [MSkins](https://mskins.net/en) - Skin Grabbers
 * [Ely.by](https://ely.by/) - Skin System / Authorization
-* [Nova Skin](https://minecraft.novaskin.me/) or [Blockbench](https://www.blockbench.net/)- Minecraft Skin Editor
----
-* 🌐 **[ShaderLABS](https://shaderlabs.org/wiki/Main_Page)** - Shader Comparisons and Resources
-* [ShadersMods](https://shadersmods.com/) or [MinecraftShader](https://minecraftshader.com/) - Minecraft Shaders
-* [Iris Shaders](https://modrinth.com/mod/iris) - Fabric Shadermod for Minecraft
----
+* [Nova Skin](https://minecraft.novaskin.me/) or [Blockbench](https://www.blockbench.net/) - Minecraft Skin Editor
 * [MinecraftCapes](https://minecraftcapes.net/) or [Capes](https://modrinth.com/mod/capes) - Minecraft Capes
 * [PVPRP](https://pvprp.com/) - PVP Texture Packs
 
