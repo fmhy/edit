@@ -138,7 +138,7 @@
 * [New Software](https://github.com/ardalis/new-software-project-checklist) - Project Decision Checklist
 * [Radicle](https://radicle.xyz/) - P2P Software Development
 * [MSYS2](https://www.msys2.org/) - Windows Software Creator
-* [Nomad](https://www.nomadproject.io/) / [GitHub](https://github.com/hashicorp/nomad), [Kamal](https://kamal-deploy.org/) / [Discord](https://discord.gg/YgHVT7GCXS) or [Waypoint](https://www.waypointproject.io) - App Deployment Automation
+* [Nomad](https://www.nomadproject.io/) / [GitHub](https://github.com/hashicorp/nomad), [Dokploy](https://github.com/dokploy/dokploy), [Kamal](https://kamal-deploy.org/) / [Discord](https://discord.gg/YgHVT7GCXS) or [Waypoint](https://www.waypointproject.io) - App Deployment
 * [Dotnet Content Creators](https://www.wearedotnet.io/) - .NET Content Creators Index
 * [Dotnet Releaser](https://github.com/xoofx/dotnet-releaser) - Automate Release of .NET Applications
 * [dnSpyEx](https://github.com/dnSpyEx/dnSpy) - .NET Debugger and Assembly Editor
@@ -281,6 +281,7 @@
 * [Sourcegraph](https://about.sourcegraph.com/) - Git Repository Sourcegraph Editor
 * [Conventional Commits](https://www.conventionalcommits.org/) - Commit Message Specification
 * [AICommits](https://github.com/Nutlope/aicommits) - Auto Commit Messages
+* [Serie](https://github.com/lusingander/serie) - Commit Graph
 * [lastversion](https://lastversion.getpagespeed.com) or [ghrel](https://github.com/jreisinger/ghrel) - Download / View Latest Stable Repos
 * [Git Cliff](https://git-cliff.org) - Changelog Generator
 * [github-readme-terminal](https://github.com/x0rzavi/github-readme-terminal) - Terminal Style Readme
@@ -400,6 +401,7 @@
 * 🌐 **[Awesome API Security](https://github.com/arainho/awesome-api-security)** or [APIKit](https://github.com/API-Security/APIKit) - API Security Resources
 * 🌐 **[List of Providers](https://docs.consumet.org/list-of-providers)** - Piracy Site APIs
 * 🌐 **[Free AI Stuff](https://github.com/zukixa/cool-ai-stuff)** or [API Together](https://api.together.xyz/playground) - AI APIs and Sites
+* ↪️ **[Streaming APIs](https://old.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video#wiki_.25B7_streaming_apis)**
 * ⭐ **[hoppscotch](https://hoppscotch.io/)**, [Firecamp](https://firecamp.dev/), [Strapi](https://strapi.io/), or [Postman](https://www.postman.com/) - API Builders
 * ⭐ **[Shizuku](https://shizuku.rikka.app/)** - Connect Apps to APIs
 * [HTTPie](https://httpie.io/) - Test REST, GraphQL, and HTTP APIs
@@ -1134,7 +1136,7 @@
 * [JavaScript Algorithms](https://github.com/trekhleb/javascript-algorithms) - Algorithms and Data Structures in JavaScript
 * [Gummy](https://gummyjs.vercel.app/) - Easily Build JavaScript Programs
 * [Obfuscator](https://obfuscator.io/) or [js-confuser](https://js-confuser.com/) - JavaScript Obfuscators
-* [jsdfe](https://avotoko.github.io/javascript-deobfuscator/), [Deobfuscate](https://deobfuscate.relative.im/) or [deobfuscate.io/](https://deobfuscate.io/) - JavaScript Deobfuscators
+* [jsdfe](https://avotoko.github.io/javascript-deobfuscator/), [de4js](https://lelinhtinh.github.io/de4js/), [Deobfuscator](https://willnode.github.io/deobfuscator/), [Deobfuscate](https://deobfuscate.relative.im/) or [deobfuscate.io/](https://deobfuscate.io/) - JavaScript Deobfuscators
 * [Unibeautify](https://github.com/Unibeautify/unibeautify) - JavaScript Beautifier
 * [Minify JS](https://minify-js.com/) - JavaScript Minifier
 * [Underdash](https://surma.github.io/underdash/) - JavaScript Snippets

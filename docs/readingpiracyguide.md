@@ -198,7 +198,7 @@
 * 🌐 **[WiLd's Occult Ebook Sources](https://rentry.co/FMHYBase64#wilds-occult-ebook-sources)** - Occult / Esoterica
 * 🌐 **[Soren Megathread](https://odysee.com/@Soren:71/%F0%9F%94%B0Megathread_with_Resources%F0%9F%94%B0:1)** - Occult / Esoterica
 * ↪️ **[Esoterica Telegram Channels](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_magic_.2F_esoteric_telegram_ebooks)**
-* ⭐ **[Sacred Text Archive](https://sacred-texts.com/)** - Religion / Mythology / Folklore / Esoterica
+* ⭐ **[Sacred Text Archive](https://sacred-texts.com/)** - Religion / Mythology / Folklore / Esoterica / [Classic View](https://archive.sacred-texts.com/)
 * ⭐ **[The Exerdex](https://rentry.co/FMHYBase64#echerdex-repository)** - Esoterica / [Discord](https://discord.gg/dS5X3d7ype) / [Subreddit](https://www.reddit.com/r/Echerdex/)
 * [FairyTalez](https://fairytalez.com/) - Mythology / Folklore / Fairy Tales
 * [ObscUrban Legend Wiki](https://obscurban-legend.fandom.com/) - Mythology / Urban Legends
@@ -428,15 +428,15 @@
 * ⭐ **[Novel Updates](https://www.novelupdates.com/)**
 * ⭐ **[jnovels](https://jnovels.com/)** or [MP4DIRECTS](https://mp4directs.com/)
 * ⭐ **[Just Light Novels](https://www.justlightnovels.com/)**
+* [LightNovelHeaven](https://lightnovelheaven.com), [AllNovel](https://allnovel.org), [NovelFull](https://novelfull.com/) or [All Novel Full](https://allnovelfull.com/)
 * [Vynovel](https://vynovel.com/)
 * [Light Novel World](https://www.lightnovelworld.com/), [2](https://www.novelpub.com)
 * [Ranobes](https://ranobes.top/)
 * [Baka-Tsuki](https://www.baka-tsuki.org)
 * [Armaell's Library](https://armaell-library.net/)
 * [Novel Online Free](https://novelonlinefree.com/homepage), [2](https://novelonlinefull.com/), [3](https://bestlightnovel.com/)
-* [English Light Novels](https://englishlightnovels.com)
-* [Shin Translations](https://shintranslations.com/)
 * [WuxiaWorld](https://www.wuxiaworld.com/)
+* [WuxiaSpot](https://www.wuxiaspot.com/)
 * [LightNovelPub](https://www.lightnovelpub.com/)
 * [WebNovel.com](https://www.webnovel.com/)
 * [AsianHobbyist](https://www.asianhobbyist.com/)
@@ -449,37 +449,23 @@
 * [ReadNovelFull](https://readnovelfull.com)
 * [Panda Novel](https://www.panda-novel.com/)
 * [FreeWebNovel](https://freewebnovel.com/)
-* [NovelsOnline](https://novelsonline.net/)
-* [EnglishNovelsOnline](https://englishnovelonline.com/)
-* [ReadLiteNovel](https://readlitenovel.com/)
-* [AllNovel](https://allnovel.org)
 * [MyBoxNovel](https://myboxnovel.com/)
-* [MTLReader](https://mtlreader.com/)
 * [Foxaholic](https://www.foxaholic.com/)
 * [Translated Light Novels](https://rentry.co/FMHYBase64#translated-light-novels)
 * [NovelNext](https://novelnext.com/)
-* [InfiniteNovelTranslations](https://infinitenoveltranslations.net/)
-* [NovelBuddy](https://novelbuddy.com/)
-* [NeoSekaiTranslations](https://www.neosekaitranslations.com/)
+* [NovelBuddy](https://novelbuddy.io/)
 * [Wuxia Blog](https://www.wuxia.blog)
-* [Wuxia Here](https://www.wuxiahere.com/)
-* [Novel Translations](https://lightnovelstranslations.com/)
+https://www.wuxiaspot.com/
 * [Readwn](https://www.readwn.com/)
-* [LightNovelHeaven](https://lightnovelheaven.com)
 * [NovelCool](https://www.novelcool.com/)
 * [Novels.pl](https://www.novels.pl/)
 * [Scribblehub](https://www.scribblehub.com/)
-* [All Novel Full](https://allnovelfull.com/)
-* [NovelFull](https://novelfull.me/)
 * [Novel Hall](https://www.novelhall.com/)
 * [Rekt Novel Compilations](https://rektnovelcompilations.wordpress.com/)
 * [WoopRead](https://woopread.com/)
-* [Light Novel Archive](https://t.me/LightNovelArchives) or [LN_Index](https://t.me/LN_Index)
 * [MTL Novel](https://www.mtlnovel.com/)
-* [NovelFull](https://novelfull.com/)
-* [ExiledRebels](https://exiledrebelsscanlations.com/)
-* [Moon Bunny Cafe](https://moonbunnycafe.com/)
 * [Royal Road](https://www.royalroad.com/) - Web Novels
+* [Light Novel Archive](https://t.me/LightNovelArchives) or [LN_Index](https://t.me/LN_Index) - Telegram
 * [Light Novel Archive](https://t.me/lightnovelarchive_bot) - Telegram / Bot
 * [Book Smelting Bot](https://t.me/epub_smelter_bot) - Telegram / Bot
 * [Baka-Tsuki](https://www.baka-tsuki.org/project/?title=Main_Page) - Novels / Audio Recordings

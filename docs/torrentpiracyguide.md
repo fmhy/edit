@@ -6,7 +6,7 @@
 
 # ► Torrent Sites
 
-* **Warning** - It's best to avoid sites that allow anyone to make accounts when getting both software and games. Avoid users in the [Unsafe](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/unsafe-sites/) or [Untrusted](https://rentry.org/pgames#untrusted-uploaders) lists.
+**Warning** - It's best to avoid sites that allow anyone to make accounts when getting both software and games. Avoid users in the [Unsafe](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/unsafe-sites/) or [Untrusted](https://rentry.org/pgames#untrusted-uploaders) lists.
 
 ***
 
@@ -16,7 +16,7 @@
 * ⭐ **[m0nkrus](https://w14.monkrus.ws/)** - Adobe Software Archive / [Search Engine](https://monkrus.dvuzu.com/) / [Block Adobe](https://github.com/ignaciocastro/a-dove-is-dumb), [2](https://rentry.co/psnfoandhostblock)
 * ⭐ **[Torrent CSE](https://cse.google.com/cse?cx=006516753008110874046:0led5tukccj)** / [CSE 2](https://cse.google.com/cse?cx=006516753008110874046:kh3piqxus6n) - Multi Site Search
 * [1337x](https://1337x.to/) - Video / Audio / NSFW
-* 1337x Tools - [Mirrors](https://1337x-status.org/), [2](https://1337x.to/about) / [User Ranks](https://i.ibb.co/WfNhvtB/ebc2def26433.png)  / [Telegram Bot](https://t.me/search_content_bot), [2](https://github.com/xbIm/1337x-torrent-telegram-bot) / [IMDb Ratings](https://github.com/kotylo/1337imdb) / [Proxy](https://redd.it/tz7nyx), [2](https://pastebin.com/3n5K0QrP) [.onion](http://l337xdarkkaqfwzntnfk5bmoaroivtl6xsbatabvlb52umg6v3ch44yd.onion/) / [Magnets](https://greasyfork.org/en/scripts/373230) / [Timezone Fix](https://greasyfork.org/en/scripts/421635)
+* 1337x Tools - [Mirrors](https://1337x-status.org/), [2](https://1337x.to/about), [3](https://ibb.co/py0RCz9) / [User Ranks](https://i.ibb.co/WfNhvtB/ebc2def26433.png)  / [Telegram Bot](https://t.me/search_content_bot), [2](https://github.com/xbIm/1337x-torrent-telegram-bot) / [IMDb Ratings](https://github.com/kotylo/1337imdb) / [Proxy](https://redd.it/tz7nyx), [2](https://pastebin.com/3n5K0QrP) [.onion](http://l337xdarkkaqfwzntnfk5bmoaroivtl6xsbatabvlb52umg6v3ch44yd.onion/) / [Magnets](https://greasyfork.org/en/scripts/373230) / [Timezone Fix](https://greasyfork.org/en/scripts/421635)
 * [GloTorrents](https://glodls.to) - Video / Audio / Books / NSFW
 * [LimeTorrents](https://www.limetorrents.lol/) - Video / Audio / Books
 * [IsoHunt](https://isohunts.to/) or [IsoHunt.nz](https://isohunt.nz/) - Video / Audio / Books
@@ -32,11 +32,11 @@
 
 ## ▷ Aggregators
 
-* **Warning** - Aggregators include many sources, so it's best to avoid using them for software and games. Avoid users in the [Unsafe](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/unsafe-sites/) or [Untrusted](https://rentry.org/pgames#untrusted-uploaders) lists.
+**Warning** - Aggregators include many sources, so it's best to avoid using them for software and games. Avoid users in the [Unsafe](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/unsafe-sites/) or [Untrusted](https://rentry.org/pgames#untrusted-uploaders) lists.
 
 ***
 
-* ⭐ **[BTDigg](https://btdig.com/index.htm)** - [.onion](http://btdigggink2pdqzqrik3blmqemsbntpzwxottujilcdjfz56jumzfsyd.onion/), [2](https://btdigggink2pdqzqrik3blmqemsbntpzwxottujilcdjfz56jumzfsyd.onion.ly/) / [.i2p](http://btdigg.i2p/)
+* ⭐ **[BTDigg](https://btdig.com/index.htm)** - [.onion](http://btdigggink2pdqzqrik3blmqemsbntpzwxottujilcdjfz56jumzfsyd.onion/), [2](https://btdigggink2pdqzqrik3blmqemsbntpzwxottujilcdjfz56jumzfsyd.onion.ly/) / [i2p](http://btdigg.i2p/)
 * ⭐ **[snowfl](https://snowfl.com/)**
 * ⭐ **[Knaben](https://knaben.eu/)**
 * ⭐ **[SolidTorrents](https://solidtorrents.to/)**, [2](https://solidtorrents.eu/)
@@ -94,7 +94,7 @@
 
 # ► Torrent Clients
 
-* **Warning** - Make sure you [BIND](https://redd.it/ssy8vv) your [VPN](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25BA_vpn) to your client to avoid ISP letters.
+**Warning** - Make sure you [BIND](https://redd.it/ssy8vv) your [VPN](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25BA_vpn) to your client to avoid ISP letters.
 
 ***
 

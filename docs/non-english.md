@@ -1664,11 +1664,11 @@ https://aniwow.in/ has only dubs though
 
 * ⭐ **[Voz.vn](https://voz.vn/)**, **[TECHRUM.VN](https://www.techrum.vn/)** or **[WhiteHat.vn](https://whitehat.vn/)** - Tech Forum
 * ⭐ **[J2team](https://www.facebook.com/groups/j2team.community)** - Tech Community
-* ⭐ **[Zalo](https://chat.zalo.me/)** - Chat App / [Dark Mode](https://zadark.com/) / [Desktop](https://zalo.me/pc)
 * ⭐ **[Unikey](https://www.unikey.org/en/)**, [Vietkey](https://vietkey.com.vn/) or [EVkey](https://evkeyvn.com/) - Vietnamese Typing Software
 * [Quantrimang](https://quantrimang.com/), [Anonyviet](https://anonyviet.com/) - Tech News
 * [VozForums](https://vozforum.org/) - Tech Forum
 * [Phudeviet](http://phudeviet.org/) - Subtitles
+* [Zalo](https://id.zalo.me/), [2](https://chat.zalo.me/) - Chat App / [Dark Mode](https://zadark.com/) / [Desktop](https://zalo.me/pc) / [Android](https://play.google.com/store/apps/details?id=com.zing.zalo&hl=en) / [iOS](https://apps.apple.com/us/app/zalo/id579523206)
 * [CocCoc](https://coccoc.com/search) - Search
 * [Speedtest](https://speedtest.vn/), [Vinahost](https://speedtest.vinahost.vn/) - Internet Speed Test
 * [Baomoi](https://baomoi.com/) - News Aggregator / [Mobile](https://play.google.com/store/apps/details?id=com.epi&hl=en_US)
@@ -1791,7 +1791,6 @@ https://aniwow.in/ has only dubs though
 * [cuutruyen](https://cuutruyen.net/) - Manga
 * [Bao Tung Truyen](https://baotangtruyen10.com/) - Manga
 * [Kyoto Manga](https://kyotomanga.live/) - Manga
-* [NetTruyen](https://www.nettruyentt.com/) - Manga
 * [blogtruyen](https://blogtruyenvn.com/) - Manga
 * [PheTruyen](https://phetruyen.vip/) - Manga / Manhwa / Manhua
 * [Dtruyen](https://dtruyen.com/) - Manga / Manhwa / Manhua

@@ -330,7 +330,6 @@
 * [Kosmik](https://www.kosmik.app/) - Design Asset Manager
 * [Venngage](https://venngage.com/) - Infographic Design
 * [Bannery](https://bannery.app/) - Banner Design
-* [Mind Your Banners](https://www.mindyourbanners.com/) - Social Media Banner Design
 * [CoverView](https://coverview.vercel.app/) - Blog Banner Design
 * [blush](https://blush.design/) or [IRA Design](https://iradesign.io/) - Illustration Design
 * [SuperDesigner](https://superdesigner.co/) or [Pattern Ninja](https://patterninja.com/) - Background / Pattern Design
@@ -352,6 +351,7 @@
 * ↪️ **[Icon Drives](https://rentry.co/FMHYBase64#icon-drives)** - Icon Drives
 * ↪️ **[SVG Icons](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_svg_icons)** / **[SVG Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/dev-tools#wiki_.25B7_svg_tools)**
 * ⭐ **[Alphacoders Avatars](https://avatars.alphacoders.com/)** - PFPs / Avatars
+* [Random Avatars](https://randomavatar.com/) - PFPs / Avatars
 * [pfps.gg](https://pfps.gg/) - Profile Picture Index
 * [Innocenzi](https://avatar.innocenzi.dev/) - Create Round Avatars
 * [RealFaviconGenerator](https://realfavicongenerator.net/) - Favicon Generator
@@ -739,6 +739,7 @@
 * [i](https://tikolu.net/i/)
 * [tixte](https://tixte.com/)
 * [imagebam](https://www.imagebam.com/)
+* [Horizon](https://horizon.pics/)
 * [imagevenue](https://www.imagevenue.com/)
 * [BayIMG](https://bayimg.com/)
 * [Imagem](https://imagem.app/?lang=en)

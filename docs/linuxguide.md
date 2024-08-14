@@ -158,6 +158,7 @@
 * [Linux-PowerToys](https://github.com/domferr/Linux-PowerToys) - PowerToys for Linux
 * [libmui](https://github.com/buserror/libmui) - Mac Style Widget Library
 * [Railway](https://flathub.org/apps/de.schmidhuberj.DieBahn) - Travel Info Manager
+* [Wike](https://github.com/hugolabe/Wike) - Wikipedia App
 * [Komikku](https://valos.gitlab.io/Komikku/), [Suwayomi-VaadinUI](https://github.com/Suwayomi/Tachidesk-VaadinUI) or [Manga Reader](https://flathub.org/apps/details/com.georgefb.mangareader) - Manga Readers
 * [Mako](https://github.com/emersion/mako), [dunst](https://dunst-project.org/) - Customizable Notification Daemon / [GitHub](https://github.com/dunst-project/dunst)
 * [DidYouMean](https://github.com/hisbaan/didyoumean) - Grammar Check
@@ -547,6 +548,7 @@ Linux Gaming Guide
 * [What Route](https://whatroute.net/) - Network Diagnostic Tool
 * [Kexts](https://www.tonymacx86.com/resources/categories/kexts.11/) - UEFI Kexts
 * [File Find](https://gitlab.com/Pixel-Mqster/File-Find) or [Superfile](https://github.com/yorukot/superfile) - File Explorer / Managers
+* [OSXFuse](https://osxfuse.github.io/) - Mac File Integration
 * [Download Shuttle](https://apps.apple.com/in/app/download-shuttle-fast-file/id847809913) or [Progressive Downloader](https://macpsd.net/) - File Download Manager
 * [FlyingCarpet](https://github.com/spieglt/FlyingCarpet) - Cross-Platform AirDrop / [Guide](https://redd.it/vthltc)
 * [Adobe Creative Cloud](https://rentry.co/FMHYBase64#adobe-after-effects-collection) - Adobe CC Guides

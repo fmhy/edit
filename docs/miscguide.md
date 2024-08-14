@@ -421,6 +421,7 @@
 * [CBM](https://comicbookmovie.com/) - Comic / Movie / TV News
 * [Anime News Network](https://www.animenewsnetwork.com/) - Anime News
 * [Anime Corner](https://animecorner.me/) - Anime / Manga News
+* [ArtDaily](https://artdaily.com) - Art News
 * [EventMap](https://rsoe-edis.org/eventMap) or [RiskMap](https://www.riskmap.com) - Emergency and Disaster Maps
 * [Interactive News Map](https://usa.liveuamap.com/) or [Atlas Politica](https://www.atlaspolitica.com/) - Geolocated News Alerts / Headlines U.S.
 * [MedicineNet](https://www.medicinenet.com/), [MedPageToday](https://www.medpagetoday.com/), [EverydayHealth](https://www.everydayhealth.com/), [Medscape](https://www.medscape.com/), [healthline](https://www.healthline.com/) or [WebMD](https://www.webmd.com/) - Health News
@@ -680,10 +681,15 @@
 
 ***
 
-## ▷ Resume Makers
+## ▷ Resume / Portfolio
 
 * ⭐ **[RX Resume](https://rxresu.me/)** - Resume maker / [GitHub](https://github.com/amruthpillai/reactive-resume)
 * ⭐ **[KickResume](https://www.kickresume.com/en/help-center/resume-samples/)** or [ThisResumeDoesNotExist](https://thisresumedoesnotexist.com/) - Resume Samples
+* ⭐ **[Rotki](https://rotki.com/)** - Portfolio Manager
+* [ChatProfolio](https://chatprofolio.vercel.app/) or [PeerList](https://peerlist.io/) - Portfolio Builders
+* [Dopefolio](https://github.com/rammcodes/Dopefolio) - Developer Portfolio Template
+* [PortfolioVisualizer](https://www.portfoliovisualizer.com/) - Visualize Portfolio
+* [CoFolios](https://cofolios.com/) - Portfolio Sharing
 * [ResumeMatcher](https://www.resumematcher.fyi/)
 * [resumonk](https://www.resumonk.com/)
 * [creddle](http://creddle.io/)
@@ -798,7 +804,6 @@
 * 🌐 **[KYCNOT.ME](https://kycnot.me/)** - Non-KYC Exchanges / Services
 * ⭐ **[TradingView](https://www.tradingview.com/)**, [ticker](https://github.com/achannarasappa/ticker), [Candle](https://gitlab.com/cosmosapps/candle), [finviz](https://finviz.com/) or [Markets.sh](https://markets.sh/) - Stock Market Trackers
 * ⭐ **[Ghostfolio](https://ghostfol.io/)** / [Import](https://github.com/dickwolff/Export-To-Ghostfolio), [Maybe](https://hello.maybe.co/), [HomeBank](https://www.gethomebank.org/en/index.php), [Firefly III](https://firefly-iii.org/), [Money Manager EX](https://moneymanagerex.org/) or [Actual](https://github.com/actualbudget/actual) - Finance Managers
-* ⭐ **[Rotki](https://rotki.com/)** - Portfolio Manager
 * [Ivy Wallet](https://github.com/Ivy-Apps/ivy-wallet), [money-manager](https://github.com/moneymanagerex/android-money-manager-ex),[Buckwheat](https://buckwheat.app/), [My Expenses](https://www.myexpenses.mobi/), [Cashew](https://play.google.com/store/apps/details?id=com.budget.tracker_app) or [Sushi](https://github.com/jerameel/sushi) - Android Finance / Expense Managers
 * [GreenStash](https://github.com/Pool-Of-Tears/GreenStash) - Savings Tracking App
 * [Denaro](https://github.com/NickvisionApps/Denaro) - Linux Finance Managers
@@ -818,9 +823,6 @@
 * [Calculator](https://goldratestoday.net/gold-calculator/) - Gold Investment Calculators
 * [Kitco](https://www.kitco.com/) or [GoldRatesToday](https://goldratestoday.net/) - Gold Rate Calculators
 * [MortgageCalculator](https://www.mortgagecalculator.site/) - Mortgage Calculator
-* [Dopefolio](https://github.com/rammcodes/Dopefolio) - Developer Portfolio Template
-* [PortfolioVisualizer](https://www.portfoliovisualizer.com/) - Visualize Portfolio
-* [CoFolios](https://cofolios.com/) - Portfolio Sharing
 
 ***
 
@@ -982,7 +984,6 @@
 * ⭐ **[Versus](https://versus.com/)**, [SocialCompare](https://socialcompare.com/en) or [Diffen](https://www.diffen.com/) - Compare Anything
 * ⭐ **[endoflife.date](https://endoflife.date/)** - Tools & Technologies' End of life Index
 * ⭐ **[USPS Shipping Supplies](https://store.usps.com/store/results/free-shipping-supplies/_/N-alnx4j)** - Free Shipping Supplies
-* ⭐ **[TurboTaxSucksAss](https://turbotaxsucksass.org/)**, [US Taxes](https://ustaxes.org/) or [FreeTaxUSA](https://www.freetaxusa.com/) - File Taxes for Free / [Get Pin](https://youtu.be/iPw8I-cZ1eY) / [Form Calc](https://opentaxsolver.sourceforge.net/)
 * ⭐ **[BeMyEyes](https://www.bemyeyes.com/)** - Assist the Visually Impaired
 * ⭐ **[TinyKitten](https://tinykittens.com/)** - Kitten Rescue / Donation
 * [barcodrod.io](https://barcodrod.io/) or [QR Code Scan](https://qrcodescan.in/) - QR Code Scanners
@@ -996,6 +997,7 @@
 * [Grocy](https://grocy.info/) - Grocery / Household Management Tool
 * [WhoBrings](https://whobrings.com/) - Party Item Management Tool
 * [MyPhone](https://github.com/BestOwl/MyPhone) - Make Calls via Desktop
+* [US Taxes](https://ustaxes.org/) or [FreeTaxUSA](https://www.freetaxusa.com/) - File Taxes for Free / [Get Pin](https://youtu.be/iPw8I-cZ1eY) / [Form Calc](https://opentaxsolver.sourceforge.net/)
 * [Free-lookup](https://free-lookup.net/) - Phone # Lookup
 * [BudgetDuo](https://budgetduo.com/) - Split Household Expenses
 * [KittySplit](https://www.kittysplit.com/en/) or [Spliit](https://spliit.app/) - Group Expense Splitting Calculators
@@ -1391,7 +1393,6 @@
 * [HowNormalAmI?](https://www.hownormalami.eu/) - Face Judge AI
 * [Face Shape AI](https://www.detect-face-shape.com) or [FaceShape](https://www.faceshape.com/) - Face Shape Detectors
 * [Face Age AI](https://www.howolddoilook.io) - AI Age Guessing
-* [OnThisDay](https://www.onthisday.com/) - What Happened on Specific Days
 * [You're Getting Old](https://you.regettingold.com/) - Age Perspective
 * [Death Date Calculators](https://pastebin.com/LDRycXk3) - Calculate Your Day of *DEATH* (how fun!)
 * [HeyFromTheFuture](https://heyfromthefuture.com/) - What People Wish they knew at your Age

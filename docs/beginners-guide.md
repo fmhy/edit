@@ -185,7 +185,7 @@ Use this [browser extension](https://github.com/bpc-clone/bpc_updates/releases) 
 * **[APKMirror](https://www.apkmirror.com/)** - Untouched APKs
 * **[F-Droid](https://f-droid.org/)** - FOSS Android Apps
 * **[Android APK CSE](https://cse.google.com/cse?cx=e0d1769ccf74236e8) / [2](https://cse.google.com/cse?cx=73948689c2c206528) / [3](https://cse.google.com/cse?cx=a805854b6a196d6a6)** - Multi-site APK search
-* **[Stremio](https://www.stremio.com/)** - Video streaming app / Use VPN / [Guide](https://rentry.co/privatestremio)
+* **[Stremio](https://www.stremio.com/)** - Video streaming app / Use VPN / [Guide](https://viren070.github.io/guides/stremio/guide)
 * **[Patch Reddit Clients](https://docs.google.com/document/u/0/d/1wHvqQwCYdJrQg4BKlGIVDLksPN0KpOnJWniT6PbZSrI/mobilebasic)** - How To Patch 3rd Party Reddit Clients
 * **[ReVanced Manager](https://github.com/revanced/revanced-manager)** - Ad-Free YouTube, Reddit, X etc. Patcher / [Discord](https://discord.com/invite/rF2YcEjcrT) / [Guide](https://redd.it/xlcny9)
 * **[Complete Jailbreak Chart](https://ios.cfw.guide/)** - Jailbreaking info & tools

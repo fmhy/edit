@@ -61,6 +61,7 @@
 * [MicroBin](https://pub.microbin.eu/) - Multi-Syntax / [GitHub](https://github.com/szabodanika/microbin)
 * [ProtectedText](https://www.protectedtext.com/) - Multi-Tab
 * [bin](https://basedbin.fly.dev/) - Minimal Pastebin
+* [txt.fyi](https://txt.fyi/) - Markdown Pastebin
 * [MarkdownPastebin](https://markdownpastebin.com/) - Markdown Support
 * [Sparked Paste](https://paste.sparked.host/) - Plain Text / Syntax Highlighting
 * [Riseup Pad](https://pad.riseup.net/) - WYSIWYG Pastebin
@@ -253,6 +254,7 @@
 * [Tiddly](https://tiddlywiki.com/) / [Desktop](https://github.com/tiddly-gittly/TidGi-Desktop)
 * [Joplin](https://joplinapp.org/) / [Firefox](https://addons.mozilla.org/en-US/firefox/addon/joplin-web-clipper/) / [Chrome](https://chromewebstore.google.com/detail/joplin-web-clipper/alofnhikmmkdbbbgpnglcpdollgjjfeken-GB)
 * [FromScratch](https://fromscratch.rocks/)
+* [Org-roam](https://www.orgroam.com/) / [GitHub](https://github.com/org-roam/org-roam)
 * [Trilium](https://github.com/zadam/trilium)
 * [Kompad](https://kompad.vercel.app/)
 * [MicroPad](https://getmicropad.com/)
@@ -381,6 +383,7 @@
 
 ## ▷ Writing Tools
 
+* 🌐 **[Author Stash](https://authorstash.com/)** - Writing Tools / Resources
 * ↪️ **[AI Text Generators](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/ai#wiki_.25BA_text_generators)**
 * ⭐ **[Writer](https://www.gibney.org/writer)**, [FocusWriter](https://gottcode.org/focuswriter/), [Writemonkey](https://writemonkey.com/), [blank.page](https://blank.page/), [Telegra.ph](https://telegra.ph/) or [WriteNext](https://www.writenext.io/) - Distraction-Free Writing
 * ⭐ **[Manuskript](https://www.theologeek.ch/manuskript/)** - Writing Organizer / Planner
@@ -398,7 +401,7 @@
 * [Blackout Poetry](https://blackoutpoetry.glitch.me/) - Blackout Poetry Creator
 * [Idyll](https://idyll-lang.org/editor) - Create Interactive Essays / [GitHub](https://github.com/idyll-lang/idyll)
 * [Papyrus Author](https://www.papyrusauthor.com/) - Creative Writing Suite
-* [STARC](https://starc.app/) - Screen Writing Tool
+* [STARC](https://starc.app/) or [Celtx](https://www.celtx.com/) - Script / Screen Writing Tools
 * [Unsell](https://www.unsell.design/) - Portfolio / Magazine Templates
 * [Rarebit](https://rarebit.neocities.org/) - Webcomics Template
 * [watchout4snakes](http://watchout4snakes.com/) - Generate Random Sentences, Phrases, Words etc.

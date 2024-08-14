@@ -119,7 +119,7 @@
 * [Sigma](https://sigma-file-manager.vercel.app) - Modern File Manager for Windows / Linux / [GitHub](https://github.com/aleksey-hoffman/sigma-file-manager)
 * [ChromaFiler](https://chroma.zone/chromafiler/) - Column-based Windows File Manager
 * [WinFile](https://github.com/microsoft/winfile) - Original Windows File Explorer
-* [Yazi](https://github.com/sxyazi/yazi) - Terminal File Explorer / [Plugins](https://github.com/sachinsenal0x64/awesome-yazi)
+* [Yazi](https://yazi-rs.github.io/) - Terminal File Explorer / [Plugins](https://github.com/sachinsenal0x64/awesome-yazi) / [GitHub](https://github.com/sxyazi/yazi)
 * [One Commander](https://www.onecommander.com/) - File Explorer
 * [Free Commander](https://freecommander.com/) - File Explorer
 * [Q-Dir](https://www.softwareok.com/?seite=Freeware/Q-Dir) - File Explorer
