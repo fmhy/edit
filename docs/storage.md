@@ -329,7 +329,6 @@
 * https://www.cloudns.net/
 * https://dns.he.net/
 * https://www.dnspod.com/
-* https://rethinkdns.com/
 * https://acavalin.com/p/free_dns
 * https://www.luadns.com/
 * https://www.dns0.eu/
