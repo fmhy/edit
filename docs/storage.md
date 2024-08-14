@@ -686,15 +686,9 @@
 * [Embeddium](https://modrinth.com/mod/embeddium) - Unofficial Sodium Fork for Forge / [Embeddium Extra](https://modrinth.com/mod/rubidium-extra)
 * [VulkanMod](https://github.com/xCollateral/VulkanMod) - Rendering Optimization
 
-***
-
-## Minecraft Hosting
+### Server Tools
 
 * 🌐 **[FMHL](https://fmhl.devloo.xyz/)** - Free Minecraft Hosts List
-* [MineColab](https://colab.research.google.com/github/thecoder-001/MineColab/blob/master/MineColab.ipynb) - Free MC Host / [GitHub](https://github.com/thecoder-001/MineColab)
-
-### Minecraft Server Tools
-
 * ⭐ **[Playit.gg](https://playit.gg/)** - Global Proxy / [Discord](https://discord.gg/AXAbujx)
 * ⭐ **[paper-optimization](https://paper-chan.moe/paper-optimization/)** or [minecraft-optimization](https://github.com/YouHaveTrouble/minecraft-optimization) - Server Optimization Guides
 * ⭐ **[auto-mcs](https://www.auto-mcs.com/)** - Easy Server Setup
