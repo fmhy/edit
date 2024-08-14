@@ -481,9 +481,6 @@
 * [Pixelart Builder](https://play.google.com/store/apps/details?id=com.electricfoal.photocrafter&hl=en&gl=US) or [PixelStacker](https://taylorlove.info/pixelstacker/) - Turn Photos into Minecraft Art
 * [Block Palettes](https://www.blockpalettes.com/) or [Block Colors](https://blockcolors.app/) - Block Color Palettes
 * [Mineflayer](https://prismarinejs.github.io/mineflayer/) - Minecraft Bot Creator
-* [Minecraft Armor Stand](https://haselkern.com/Minecraft-ArmorStand/) - Design Poses for Armorstands
-* [Enchant Order](https://iamcal.github.io/enchant-order/) - Minecraft Enchantment Ordering Tool
-* [DriveBackupV2](https://modrinth.com/plugin/drivebackupv2) - Minecraft Cloud Storage Backup
 * [The Minecraft Archive Project](https://map.crummy.com/) - Minecraft Archive
 * [Voyager](https://voyager.minedojo.org/) - Minecraft AI
 * [MiniMessageViewer](https://webui.advntr.dev/) - Format Plugin Messages
@@ -500,7 +497,7 @@
 * ⭐ **[ATLauncher](https://atlauncher.com/)** or [Technic Launcher](https://www.technicpack.net/) - Modpack Launcher
 * ⭐ **[Pojav](https://pojavlauncherteam.github.io/)** - Java Edition for Android & iOS (Requires Legit Account)
 * [MCLauncher](https://github.com/MCMrARM/mc-w10-version-launcher) or [Bedrock Launcher](https://bedrocklauncher.github.io/) - Launchers for Bedrock Edition
-* [SkLauncher](https://skmedix.pl/) - User-friendly Launcher / Use Chrome or Disable Adblock to see Downloads
+* [SkLauncher](https://skmedix.pl/) - User-friendly Launcher
 * [UltimMC](https://github.com/UltimMC/Launcher) - Launcher for Cracked Accounts
 * [Betacraft](https://betacraft.uk/) - Legacy Versions Launcher
 * [CheatBreaker](https://cheatbreaker.net/) - FPS Modpack Launcher / [GitHub](https://github.com/CheatBreakerNet/Launcher)
@@ -561,6 +558,8 @@
 * ⭐ **[spark](https://spark.lucko.me/)** - Minecraft Performance Profiler
 * [Minecraft Performance Flags](https://github.com/Mukul1127/Minecraft-Performance-Flags-Benchmarks) - Java Minecraft Benchmarks
 * [Report Inspector](https://misode.github.io/report/) - Crash Report / Profiling Inspector
+* [Minecraft Armor Stand](https://haselkern.com/Minecraft-ArmorStand/) - Design Poses for Armorstands
+* [Enchant Order](https://iamcal.github.io/enchant-order/) - Minecraft Enchantment Ordering Tool
 * [GamerGeeks](https://www.gamergeeks.net/) - Minecraft Tools / Calculators
 * [Minecraft Command Science](https://minecraftcommand.science/) or [MCStacker](https://mcstacker.net/) - Minecraft Command Generators
 * [NBT Studio](https://github.com/tryashtar/nbt-studio/ ) or [webNBT](https://irath96.github.io/webNBT/) - Minecraft NBT File Editors
