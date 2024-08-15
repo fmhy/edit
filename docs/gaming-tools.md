@@ -538,8 +538,8 @@
 ## ▷ Mods / Data Packs
 
 * 🌐 **[Minecraft QOL Mods](https://rentry.co/mc-qol)** or [quark](https://quarkmod.net/) - Quality of Life Mods
-* ↪️ **[Mod Indexes]()**
-* ↪️ **[Optimization Mods]()**
+* ↪️ **[Mod Indexes](https://old.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_mod_indexes)**
+* ↪️ **[Optimization Mods](https://old.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_optimization_mods)**
 * ⭐ **[MCModdingGuide](https://rentry.org/MCModdingGuide)** - Minecraft Modding Guide
 * [Bobby](https://modrinth.com/mod/bobby) - Uncap Render Distance Slider
 * [e4mc](https://modrinth.com/mod/e4mc) / [Lan Server Properties](https://www.curseforge.com/minecraft/mc-mods/lan-server-properties) or [Essential](https://modrinth.com/mod/essential) - Multiplayer Mods
