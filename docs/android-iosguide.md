@@ -212,7 +212,7 @@
 * [Panels](https://play.google.com/store/apps/details?id=com.fossor.panels&hl=en_US&gl=QA) - Android Sidebar Panel
 * [Statusbar Icon Hider](https://play.google.com/store/apps/details?id=com.cooliehat.statusbariconhider) - Hide Status Bar Items
 * [Candybar](https://github.com/zixpo/candybar) - Custom Icon Pack Dashboard
-* [Arcticons](https://arcticons.onnno.nl/) - Monotone Icon Pack
+* [Arcticons](https://arcticons.com/) - Monotone Icon Pack
 * [Giga Icon](https://play.google.com/store/apps/details?id=it.mirko.gigaicon&hl=en_IN&gl=US) - Make Icons Bigger
 * [IconRequest](https://github.com/Kaiserdragon2/IconRequest) - Find Missing Icons
 
