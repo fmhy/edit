@@ -88,7 +88,7 @@
 * [OpenAIPlayground](https://github.com/nat/openplayground) - LLM Playground
 * [Petals](https://petals.dev/) - Self-Hosted
 * [Mistral](https://chat.mistral.ai/chat) - Self-Hosted
-* [Ollama](https://ollama.ai/) - Self-Hosted
+* [Ollama](https://ollama.com/) - Self-Hosted
 * [LMStudio](https://lmstudio.ai/) - Self-Hosted
 * [GPT4All](https://www.nomic.ai/gpt4all) - Self-Hosted / [Github](https://github.com/nomic-ai/gpt4all) / [Discord](https://discord.com/invite/mGZE39AS3e)
 * [LlamaFile](https://github.com/Mozilla-Ocho/llamafile) - Run LLM with Single Files
@@ -270,7 +270,7 @@
 * [OpenArt](https://openart.ai/) / [Discord](https://discord.com/invite/yTMNvk5z97) / 50 Daily
 * [StableDiffusionWeb](https://stablediffusionweb.com/) / 10 Daily
 * [AIGallery](https://aigallery.app/) / Unlimited
-* [ComfyUI Web](https://comfyuiweb.com/) / Unlimited
+* [ComfyUI Web](https://comfyuiweb.com/) or [RunComfy](https://www.runcomfy.com/comfyui-web) / Unlimited
 * [Recraft](https://www.recraft.ai/) / Unlimited
 * [PicSynth](https://www.picsynth.me/generation) / Unlimited
 * [OIChat](https://chat.oaichat.cc/) / Unlimited
