@@ -401,7 +401,7 @@
 * 🌐 **[Awesome API Security](https://github.com/arainho/awesome-api-security)** or [APIKit](https://github.com/API-Security/APIKit) - API Security Resources
 * 🌐 **[List of Providers](https://docs.consumet.org/list-of-providers)** - Piracy Site APIs
 * 🌐 **[Free AI Stuff](https://github.com/zukixa/cool-ai-stuff)** or [API Together](https://api.together.xyz/playground) - AI APIs and Sites
-* ↪️ **[Streaming APIs](https://old.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video#wiki_.25B7_streaming_apis)**
+* ↪️ **[Streaming APIs](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video#wiki_.25B7_streaming_apis)**
 * ⭐ **[hoppscotch](https://hoppscotch.io/)**, [Firecamp](https://firecamp.dev/), [Strapi](https://strapi.io/), or [Postman](https://www.postman.com/) - API Builders
 * ⭐ **[Shizuku](https://shizuku.rikka.app/)** - Connect Apps to APIs
 * [HTTPie](https://httpie.io/) - Test REST, GraphQL, and HTTP APIs

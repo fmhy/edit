@@ -801,7 +801,7 @@
 
 ## ▷ Finance / Savings
 
-* 🌐 **[/r/PersonalFinance Wiki](https://old.reddit.com/r/personalfinance/wiki/index)** or [UK Personal Finance](https://ukpersonal.finance/) - Financial Advice / Resources
+* 🌐 **[/r/PersonalFinance Wiki](https://www.reddit.com/r/personalfinance/wiki/index)** or [UK Personal Finance](https://ukpersonal.finance/) - Financial Advice / Resources
 * 🌐 **[KYCNOT.ME](https://kycnot.me/)** - Non-KYC Exchanges / Services
 * ⭐ **[TradingView](https://www.tradingview.com/)**, [ticker](https://github.com/achannarasappa/ticker), [Candle](https://gitlab.com/cosmosapps/candle), [finviz](https://finviz.com/) or [Markets.sh](https://markets.sh/) - Stock Market Trackers
 * ⭐ **[Ghostfolio](https://ghostfol.io/)** / [Import](https://github.com/dickwolff/Export-To-Ghostfolio), [Maybe](https://hello.maybe.co/), [HomeBank](https://www.gethomebank.org/en/index.php), [Firefly III](https://firefly-iii.org/), [Money Manager EX](https://moneymanagerex.org/) or [Actual](https://github.com/actualbudget/actual) - Finance Managers

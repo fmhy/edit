@@ -366,7 +366,7 @@
 ## ▷ Android Utilities
 
 * ↪️ **[Text Editors / To-Do](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_android_note_apps)**
-* ↪️  **[Android Code Editors](https://old.reddit.com/r/FREEMEDIAHECKYEAH/wiki/dev-tools#wiki_.25B7_android_code_editors)**
+* ↪️ **[Android Code Editors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/dev-tools#wiki_.25B7_android_code_editors)**
 * ⭐ **[OpenCalc](https://github.com/Darkempire78/OpenCalc)**, [Calculator++](https://play.google.com/store/apps/details?id=org.solovyev.android.calculator), [Calc 991](https://play.google.com/store/apps/details?id=advanced.scientific.calculator.calc991.plus), [microMathematics](https://github.com/mkulesh/microMathematics) or [yetCalc](https://github.com/Yet-Zio/yetCalc) - Calculators
 * [Tooly](https://play.google.com/store/apps/details?id=com.yousx.thetoolsapp) - Multi-Tool App
 * [LightCut](https://play.google.com/store/apps/details?id=com.lightcut.videoeditor), [open-video-editor](https://github.com/devhyper/open-video-editor) or [Vaux](https://play.google.com/store/apps/details?id=com.vaux.vaux_editor) - Video Editors
@@ -644,7 +644,7 @@ https://github.com/Akylas/alpimaps
 ***
 
 * 🌐 **[Emulators on Android](https://emulation.gametechwiki.com/index.php/Emulators_on_Android)**
-* ↪️ **[Emulators on Linux](https://old.reddit.com/r/FREEMEDIAHECKYEAH/wiki/linux#wiki_.25B7_android_emulators)**
+* ↪️ **[Emulators on Linux](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/linux#wiki_.25B7_android_emulators)**
 * ⭐ **[Termux](https://termux.com/)**, [Termux Monet](https://github.com/KitsunedFox/termux-monet), [Limbo](https://github.com/limboemu/limbo) or [TermOne Plus](https://termoneplus.com/) - Windows Emulator on Android / Terminal Emulators / OS Environments
 * ⭐ **Termux Tools** - [YT-DL](https://github.com/OzakIOne/termux-youtube-dl), [2](https://github.com/khansaad1275/Termux-YTD) / [GUI](https://github.com/termux/termux-gui) / [ADB / Fastboot Tools](https://github.com/MasterDevX/Termux-ADB) / [Beautify](https://github.com/mayTermux/myTermux)
 * ⭐ **[mobox](https://github.com/olegos2/mobox)**, [Box64Droid](https://github.com/Ilya114/Box64Droid), [Boxvidra](https://github.com/Boxvidra/Boxvidra-Android) or [Winlator](https://winlator.org) / [GitHub](https://github.com/brunodev85/winlator) - Windows Emulators on Android
