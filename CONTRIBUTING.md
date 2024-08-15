@@ -53,14 +53,14 @@ You can do one of the following:
 
 If you want to make changes with instant site feedback, or are simply going to work with the site, you can do so with these 3 ways:
 
-- [Using gitpod.io or GitHub Codespaces (recommended)](#using-gitpod-io-or-github-codespaces)
+- [Using gitpod.io or GitHub Codespaces (recommended)](#using-gitpod-or-github-codespaces)
 - [Using the GitHub editor](#using-the-github-editor)
 - [Manually setting up a development environment](#manually-setting-up-a-development-environment)
 
 > [!TIP]
 > You can just use our [💬 Discord](https://redd.it/17f8msf) to send us sites or any changes.
 
-### Using gitpod.io or GitHub Codespaces
+### Using Gitpod or GitHub Codespaces
 
 You can use either [gitpod.io](https://gitpod.io/) or [GitHub Codespaces](https://github.com/features/codespaces) to edit the wiki.
 
