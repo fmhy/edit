@@ -967,8 +967,8 @@ https://aniwow.in/ has only dubs though
 * [wolnelektury](https://wolnelektury.pl/) - Books / Fiction / Audiobooks
 * [Audiobook PL](https://audiobookpl.tumblr.com/) - Audiobooks
 * [Academica](https://academica.edu.pl/) - Online Library
-* [doci PL](https://doci.pl/) - Books 
-* [Docer PL](https://docer.pl/) - Books  
+* [doci PL](https://doci.pl/) - Books
+* [Docer PL](https://docer.pl/) - Books
 
 ***
 
