@@ -1240,6 +1240,7 @@ https://aniwow.in/ has only dubs though
 * [EX-FS](https://ex-fs.net/) - Movies / TV / Anime / Dub / 1080p
 * [KinoGo](https://kinogo.biz/) - Movies / TV / Anime / Dub / 1080p
 * [KinoFlux](https://kinoflux.biz/) - Movies / TV / Dub / 1080p
+* [zona.plus](https://w140.zona.plus/) - Movies / TV / Dub / 1080p
 * [KinoKrad](https://kinokrad.film/) - Movies / TV / Dub / 1080p
 * [baskino](https://baskino.film/) - Movies / Dub / 1080p
 * [gidonline](https://gidonline.eu/) - Movies / TV / Anime / Sub / Dub / 1080p

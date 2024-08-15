@@ -129,7 +129,7 @@ Use this [browser extension](https://github.com/bpc-clone/bpc_updates/releases) 
 
 * **[CRACKSurl](https://cracksurl.com/) / [LRepacks](https://lrepacks.net/) / [M0nkrus](https://w14.monkrus.ws/)** - Trusted software sites
 * **[Pahe](https://pahe.ink/)** - Fast video downloads
-* **[FitGirl Repacks](https://fitgirl-repacks.site/)** / [Discord](https://discord.gg/Up3YARe4RW) / **[SteamRIP](https://steamrip.com/)** - Game download sites
+* **[FitGirl Repacks](https://fitgirl-repacks.site/)** / **[SteamRIP](https://steamrip.com/)** - Game download sites
 * **[Firehawk52](https://rentry.org/firehawk52)** - Music ripping guide
 * **[lucida](https://lucida.to/), [2](https://lucida.su/) / [DoubleDouble](https://doubledouble.top/)** - Multi-Site audio download
 * **[Soulseek](https://slsknet.org/)** or [Nicotine+](https://nicotine-plus.org/) - Audio download app

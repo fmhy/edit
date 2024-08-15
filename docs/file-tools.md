@@ -276,12 +276,12 @@
 * ⭐ **[Send.cm](https://send.cm/)** - 100GB / 15 Days
 * ⭐ **[Pillowcase](https://pillowcase.su/)** - Audio File Host / 200MB (500MB With Account) / Forever
 * ⭐ **[Catbox](https://catbox.moe/)** - 200MB / Forever
-* ⭐ **[HIDAN](https://hidan.sh/)** - Unlimited / 10+ Days (from upload)
 * ⭐ **[Pixeldrain](https://pixeldrain.com/)** - 20GB / 120 Days / [Discord](https://discord.gg/TWKGvYAFvX) / [Speedtest](https://pixeldrain.com/speedtest)
 * [MultiUp.io](https://multiup.io/) / [Extract / Upload](https://github.com/Reddiepoint/MultiUp-Direct), [MirrorAce](https://mirrorace.com/), or [Mirrored.to](https://www.mirrored.to/) - Multi Host Uploaders
 * [Z-o-o-m](https://z-o-o-m.eu/) - Multi-Host Upload Desktop App
 * [MixDrop](https://mixdrop.ag/) - Unlimited / 60 Days / Account Required
 * [Qiwi](https://qiwi.gg) - Account Required
+* [HIDAN](https://hidan.sh/) - Unlimited / 10+ Days (from upload)
 * [Filebin](https://filebin.net/) - Unlimited / 6 Days / [Warning](https://pastebin.com/W0j4VDAN)
 * [file.kiwi](https://file.kiwi/) - Unlimited / [File Expiry Explanation](https://file.kiwi/en/price)
 * [FEX.NET](https://fex.net/) - 100GB / 7 Days

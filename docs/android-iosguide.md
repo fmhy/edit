@@ -366,7 +366,7 @@
 ## ▷ Android Utilities
 
 * ↪️ **[Text Editors / To-Do](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_android_note_apps)**
-* ↪️  **[Android Code Editors](https://old.reddit.com/r/FREEMEDIAHECKYEAH/wiki/dev-tools#wiki_.25B7_android_code_editors)**
+* ↪️ **[Android Code Editors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/dev-tools#wiki_.25B7_android_code_editors)**
 * ⭐ **[OpenCalc](https://github.com/Darkempire78/OpenCalc)**, [Calculator++](https://play.google.com/store/apps/details?id=org.solovyev.android.calculator), [Calc 991](https://play.google.com/store/apps/details?id=advanced.scientific.calculator.calc991.plus), [microMathematics](https://github.com/mkulesh/microMathematics) or [yetCalc](https://github.com/Yet-Zio/yetCalc) - Calculators
 * [Tooly](https://play.google.com/store/apps/details?id=com.yousx.thetoolsapp) - Multi-Tool App
 * [LightCut](https://play.google.com/store/apps/details?id=com.lightcut.videoeditor), [open-video-editor](https://github.com/devhyper/open-video-editor) or [Vaux](https://play.google.com/store/apps/details?id=com.vaux.vaux_editor) - Video Editors
@@ -506,7 +506,7 @@
 * ⭐ **[Voyager](https://vger.app) / [GitHub](https://github.com/aeharding/voyager)**, [Jerboa](https://github.com/dessalines/jerboa), [Eternity](https://codeberg.org/Bazsalanszky/Eternity) or [Thunder](https://github.com/thunder-app/thunder) - Lemmy Clients
 * ⭐ **[Tusky](https://tusky.app/)**, [Mastify](https://github.com/whitescent/Mastify), [tooot](https://tooot.app/ ), [SubwayTooter](https://github.com/tateisu/SubwayTooter), [Megalodon](https://sk22.github.io/megalodon/) or [Dimett](https://github.com/MateriiApps/Dimett) - Mastodon Clients / [Improved Notifications](https://LucasGGamerM.github.io/moshidon/) / [GitHub](https://github.com/LucasGGamerM/moshidon)
 * ⭐ **[Reddit Client Patch Guide](https://github.com/KobeW50/ReVanced-Documentation/blob/main/Reddit-Client-ID-Guide.md)** - How To Patch 3rd Party Reddit Clients
-* ⭐ **[AyuGram](https://t.me/ayugramchat)**, **[Nagram](https://github.com/nextalone/nagram)**, [Nekogram](https://nekogram.app/), , [NekoX](https://github.com/dic1911/NekoX), [TelegramAndroid](https://github.com/Forkgram/TelegramAndroid), , [exteraGram](https://exteragram.app/), [Cherrygram](https://github.com/arsLan4k1390/Cherrygram), [TurboTel](https://t.me/s/TurboTel), [Nullgram](https://github.com/qwq233/Nullgram/), [Octogram](https://octogram.me/) or [Telegram-FOSS](https://github.com/Telegram-FOSS-Team/Telegram-FOSS) - Telegram Clients
+* ⭐ **[AyuGram](https://t.me/ayugramchat)**, **[Nagram](https://github.com/nextalone/nagram)**, [Nekogram](https://nekogram.app/), [NekoX](https://github.com/dic1911/NekoX), [TelegramAndroid](https://github.com/Forkgram/TelegramAndroid), [exteraGram](https://exteragram.app/), [Cherrygram](https://github.com/arsLan4k1390/Cherrygram), [TurboTel](https://t.me/s/TurboTel), [Nullgram](https://github.com/qwq233/Nullgram/), [Octogram](https://octogram.me/) or [Telegram-FOSS](https://github.com/Telegram-FOSS-Team/Telegram-FOSS) - Telegram Clients
 * ⭐ **[piko](https://t.me/pikopatches)** / [GitHub](https://github.com/crimera/piko) or [Squawker](https://github.com/j-fbriere/squawker) - Twitter Apps
 * [Watomatic](https://watomatic.app/) / [GitHub](https://github.com/adeekshith/watomatic) or [AutoResponder](https://www.autoresponder.ai/) - Chat App Auto-Responders
 * [MessengerEx](https://github.com/C10udburst/MessengerEx/) - Facebook Messenger Adblocker
@@ -644,7 +644,7 @@ https://github.com/Akylas/alpimaps
 ***
 
 * 🌐 **[Emulators on Android](https://emulation.gametechwiki.com/index.php/Emulators_on_Android)**
-* ↪️ **[Emulators on Linux](https://old.reddit.com/r/FREEMEDIAHECKYEAH/wiki/linux#wiki_.25B7_android_emulators)**
+* ↪️ **[Emulators on Linux](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/linux#wiki_.25B7_android_emulators)**
 * ⭐ **[Termux](https://termux.com/)**, [Termux Monet](https://github.com/KitsunedFox/termux-monet), [Limbo](https://github.com/limboemu/limbo) or [TermOne Plus](https://termoneplus.com/) - Windows Emulator on Android / Terminal Emulators / OS Environments
 * ⭐ **Termux Tools** - [YT-DL](https://github.com/OzakIOne/termux-youtube-dl), [2](https://github.com/khansaad1275/Termux-YTD) / [GUI](https://github.com/termux/termux-gui) / [ADB / Fastboot Tools](https://github.com/MasterDevX/Termux-ADB) / [Beautify](https://github.com/mayTermux/myTermux)
 * ⭐ **[mobox](https://github.com/olegos2/mobox)**, [Box64Droid](https://github.com/Ilya114/Box64Droid), [Boxvidra](https://github.com/Boxvidra/Boxvidra-Android) or [Winlator](https://winlator.org) / [GitHub](https://github.com/brunodev85/winlator) - Windows Emulators on Android

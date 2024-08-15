@@ -395,7 +395,6 @@
 ## ▷ URL Shorteners
 
 * ⭐ **[Wiki Shortener](https://meta.wikimedia.org/wiki/Special:UrlShortener)** - Wiki URL Shortener
-* ⭐ **[Linqbin](https://linqbin.cc/)** - Temp Link Shortener / [GitHub](https://github.com/daniel-lxs/linqbin)
 * ⭐ **[t.ly](https://t.ly/)** - `t.ly/qqH6`
 * ⭐ **[is.gd](https://www.is.gd/)** - `is.gd/9dkISG`
 * ⭐ **[Reduced](https://reduced.to/)** - `reduced.to/nuwad`

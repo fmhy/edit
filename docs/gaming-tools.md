@@ -81,9 +81,7 @@
 * [BoilR](https://github.com/PhilipK/BoilR) - Sync Game Platforms with Steam
 * [UWPHook](https://briano.dev/UWPHook/) - Add Windows Store Games to Steam
 * [Steam Rom Manager](https://github.com/SteamGridDB/steam-rom-manager) - Add ROMs to Steam
-* [SteamBorrowBypass](https://github.com/benjamin-dev1/SteamBorrowBypass-Windows-10-) - Steam Library Sharing
 * [HonestSteamBrowser](https://honeststeambrowser.com/) - Steam Server Browser
-* [The Wheelhaus](https://thewheelhaus.com/) or [Pick A Game](https://pickaga.me/) - Find Random Steam Games
 * [Free Packages](https://steamdb.info/freepackages/) - Mass Activate All Free Steam Games / [Guide](https://youtu.be/svbdw-pYNT8)
 * [Idle Master Extended](https://github.com/JonasNilson/idle_master_extended) - Steam Card Automation
 * [SteamAchievementManager](https://github.com/gibbed/SteamAchievementManager) - Steam Achievement Manager

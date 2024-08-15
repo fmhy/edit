@@ -66,7 +66,7 @@
 ***
 
 * ⭐ **[KaOsKrew](https://www.kaoskrew.org/)** - Download / Torrent / [Discord](https://discord.com/invite/WF2pqPTFBs)
-* ⭐ **[FitGirl Repacks](https://fitgirl-repacks.site/)** - Download / Torrent / ROM Repacks / [Discord](https://discord.gg/Up3YARe4RW)
+* ⭐ **[FitGirl Repacks](https://fitgirl-repacks.site/)** - Download / Torrent / ROM Repacks / [Unofficial Discord](https://discord.gg/Up3YARe4RW)
 * ⭐ **[M4CKD0GE Repacks](https://m4ckd0ge-repacks.site/)** - Download / [Discord](https://discord.gg/693hNBdymb)
 * ⭐ **[ARMGDDN Browser](https://cs.rin.ru/forum/viewtopic.php?f=14&t=140593)** / [Telegram](https://t.me/ARMGDDNGames) - Download
 * ⭐ **[Gnarly Repacks](https://rentry.co/FMHYBase64#gnarly_repacks)** - Download / Password: gnarly
