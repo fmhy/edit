@@ -684,7 +684,7 @@
 * [FerriteCore](https://modrinth.com/mod/ferrite-core) - Memory Usage Optimizations
 * [Nvidium](https://modrinth.com/mod/nvidium) - Improved Rendering Capability (Nvidia GPUs Only) / [GitHub](https://github.com/MCRcortex/nvidium)
 * [Distant Horizons](https://gitlab.com/jeseibel/distant-horizons) - Increased Render Distance
-* [Embeddium](https://modrinth.com/mod/embeddium) - Unofficial Sodium Fork for Forge / [Embeddium Extra](https://modrinth.com/mod/rubidium-extra)
+* [Embeddium](https://modrinth.com/mod/embeddium) - Unofficial Sodium Fork for Forge / [Extra Features](https://modrinth.com/mod/rubidium-extra)
 * [VulkanMod](https://github.com/xCollateral/VulkanMod) - Rendering Optimization
 
 ***
