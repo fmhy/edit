@@ -518,6 +518,7 @@
 * ⭐ **[BetterExplained](https://betterexplained.com/)** - Math Guides / Courses
 * ⭐ **[Wolfram|Alpha](https://www.wolframalpha.com/examples/mathematics)** - Calculators
 * ⭐ **[Omni Calculator](https://www.omnicalculator.com/)** - Calculators
+* ⭐ **[Manim](https://www.manim.community/)**, [2](https://github.com/3b1b/manim) - Generate Explanatory Math Videos / [Videos](https://github.com/3b1b/videos) / [Difference Between Versions](https://docs.manim.community/en/stable/faq/installation.html#different-versions)
 * [GoodCalculators](https://goodcalculators.com/) - Calculators
 * [GigaCalculator](https://www.gigacalculator.com/) - Calculators
 * [numbr.dev](https://numbr.dev/) - Calculators
@@ -541,7 +542,6 @@
 * [ISciDAVis](https://sourceforge.net/projects/scidavis/) - Scientific Data Plotter
 * [FreeFEM](https://freefem.org/) - Partial Differential Equations Solver
 * [Approach0](https://approach0.xyz/search/) - Math Formula Search
-* [3b1b](https://github.com/3b1b/videos) / [2](https://github.com/3b1b/manim) - Generate Explanatory Math Videos
 * [MathOnline](http://mathonline.wikidot.com/) or [Mathigon](https://mathigon.org/) - Math / Courses
 * [Professor Leonard](https://www.youtube.com/channel/UCoHhuummRZaIVX7bD4t2czg) or [MisterWootube](https://www.youtube.com/c/misterwootube) - YouTube Math Lessons
 * [Mathispower4u](https://www.mathispower4u.com/), [SchoolYourself](https://schoolyourself.org/), [mathhelp](https://www.mathhelp.com/), [MathPortal](https://www.mathportal.org/), [mathonline](http://mathonline.wikidot.com/) or [CoolMath](https://www.coolmath.com/) - Math Lessons / Practice
