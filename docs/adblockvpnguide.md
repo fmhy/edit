@@ -19,7 +19,7 @@
 * ⭐ **[SponsorBlock](https://sponsor.ajay.app/)** - Skips unwanted YouTube segments using crowdsourced data. / [Script](https://github.com/mchangrh/sb.js), [2](https://greasyfork.org/en/scripts/453320)
 * ⭐ **[Disblock Origin](https://codeberg.org/AllPurposeMat/Disblock-Origin)** or [Discord Adblock](https://github.com/CroissantDuNord/discord-adblock) - Hide Discord Nitro / Boost Ads
 * ⭐ **[BehindTheOverlay](https://github.com/NicolaeNMV/BehindTheOverlay)** - Hide Website Overlays
-* ⭐ **FastStream**(https://faststream.online/) or [Stream-Bypass](https://github.com/ByteDream/stream-bypass) [OpenVideo](https://openvideofs.github.io) - Play Videos in Ad-Free Player
+* ⭐ **[FastStream](https://faststream.online/)** or [Stream-Bypass](https://github.com/ByteDream/stream-bypass) [OpenVideo](https://openvideofs.github.io) - Play Videos in Ad-Free Player
 * [uBO Lite](https://github.com/uBlockOrigin/uBOL-home) - MV3 Compatible for Chromium-based browsers / [Note](https://rentry.org/nzvohpzf)
 * [Ad Blitz](https://ad-blitz.vercel.app/) - Speed Up YouTube Ads instead of Skipping to Support Creators
 * [Popupblocker All](https://addons.mozilla.org/en-US/firefox/addon/popupblockerall/), [PopUpOFF](https://romanisthere.github.io/PopUpOFF-Website/index.html) or [PopupBlocker](https://github.com/AdguardTeam/PopupBlocker) - Popup / New Tab Blockers
