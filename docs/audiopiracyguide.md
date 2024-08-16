@@ -839,6 +839,7 @@
 * [SoundSnap](https://www.soundsnap.com/) - 5 Weekly
 * [SNES Soundfonts](https://www.williamkage.com/snes_soundfonts/) - SNES Soundfonts
 * [Musical Artifacts](https://musical-artifacts.com/) - Soundfonts
+* [Sonniss](https://sonniss.com/gameaudiogdc) - Annual Giveaway Archive
 
 ***
 
