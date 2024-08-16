@@ -481,7 +481,6 @@
 * [The Minecraft Archive Project](https://map.crummy.com/) - Minecraft Archive
 * [Voyager](https://voyager.minedojo.org/) - Minecraft AI
 * [MiniMessageViewer](https://webui.advntr.dev/) - Format Plugin Messages
-* [MinecraftJSON](https://www.minecraftjson.com/) - Minecraft Tellraw Generator
 * [CaveX](https://oscwii.org/library/app/cavex) - Minecraft for Wii
 * [Blocks-TI-84](https://github.com/TheScienceElf/Blocks-TI-84) - Minecraft for TI 84 CE Calculator
 
@@ -583,6 +582,7 @@
 * [Minecraft Tools](https://minecraft.tools/en/) or [GamerGeeks](https://www.gamergeeks.net/) - Minecraft Tools / Calculators
 * [Minecraft Command Science](https://minecraftcommand.science/) or [MCStacker](https://mcstacker.net/) - Minecraft Command Generators
 * [NBT Studio](https://github.com/tryashtar/nbt-studio/ ) or [webNBT](https://irath96.github.io/webNBT/) - Minecraft NBT File Editors
+* [MinecraftJSON](https://www.minecraftjson.com/) - Minecraft Tellraw Generator
 * [Cubical](https://www.cubical.xyz/) - Minecraft 3D Schematic Tool / [Beta](https://beta.cubical.xyz/)
 * [Custom-MC-Render-Cweeper](https://rentry.co/custom-mc-render-cweeper) - Import Custom 3D Models into Minecraft
 * [ObjToSchematic](https://objtoschematic.com/) - Converts 3D Models into MC Formats / [Discord](https://discord.com/invite/McS2VrBZPD)
