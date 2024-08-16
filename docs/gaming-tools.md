@@ -524,7 +524,7 @@
 * [Betacraft](https://betacraft.uk/) - Legacy Versions Launcher
 * [CheatBreaker](https://cheatbreaker.net/) - FPS Modpack Launcher / [GitHub](https://github.com/CheatBreakerNet/Launcher)
 * [MultiMC](https://multimc.org/) - Launcher
-* [Legacy Launcher](https://llaun.ch/en), [2](https://lln4.ru/en) - Launcher / [Discord](https://discord.com/invite/cVJuz5R)
+* [Legacy Launcher](https://lln4.ru/en), [2](https://llaun.ch/en) - Launcher / [Discord](https://discord.com/invite/cVJuz5R)
 * [HMCL](https://hmcl.huangyuhui.net/) - Launcher / [GitHub](https://github.com/HMCL-dev/HMCL)
 * [LabyMod](https://www.labymod.net/) - Launcher
 * [Crystal Launcher](https://crystal-launcher.net/) - Launcher
