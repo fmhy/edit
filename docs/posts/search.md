@@ -41,12 +41,6 @@ Turn FMHY into Bookmarks
 
 ---
 
-### [Python Script](https://github.com/Rust1667/a-FMHY-search-engine)
-
-Search markdown via python script
-
----
-
 ### [Raw Markdown](https://api.fmhy.net/single-page)
 
 Search markdown manually (ctrl+f)
