@@ -15,6 +15,7 @@
 * [BlackTwist](https://www.blacktwist.app/) - Free Threads Analytics
 * [Mind Your Banners](https://www.mindyourbanners.com/) - Social Media Banner Design
 * [CleanSnap](https://www.cleansnap.co/) - Customize Social Media Screenshots
+* [Schedul](https://www.schedulthreads.com) - Threads Content Publishing & Scheduling
 
 ***
 
