@@ -272,7 +272,7 @@
 * [Diskovery](https://diskovery.io/) - Disk Usage Analyzer
 * [DiskInfo](https://github.com/MicaApps/DiskInfo) - Disk Usage Analyzer
 * [Erdtree](https://github.com/solidiquis/erdtree) - Disk Usage Analyzer
-* [PC Manger](https://pcmanager-en.microsoft.com/) or [CleanmgrPlus](https://github.com/builtbybel/CleanmgrPlus) - Disk Managers / Cleanup
+* [PC Manager](https://pcmanager-en.microsoft.com/) or [CleanmgrPlus](https://github.com/builtbybel/CleanmgrPlus) - Disk Managers / Cleanup
 * [Air Live Drive](https://www.airlivedrive.com/en/) - Mount Cloud Drives as Local Disks
 * [SFTPDrive](https://www.nsoftware.com/sftpdrive) - Mount SFTP Servers as Local Disks
 
@@ -363,7 +363,6 @@
 
 ## ▷ USB / Bootloaders 
 
-* ⭐ **[Ventoy](https://www.ventoy.net/en/index.html)** - Create Bootable USB Drives
 * ⭐ **[Rufus](https://rufus.ie/)** - Create Bootable USB Drives
 * [MediaCreationTool](https://github.com/AveYo/MediaCreationTool.bat) - Windows Deployment Automation
 * [balenaEtcher](https://etcher.balena.io/) - Flash OS Image SD / USB / Non-Windows OS

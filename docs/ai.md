@@ -142,7 +142,7 @@
 * [CodiumAI](https://www.codium.ai/) - Coding AI
 * [Blackbox](https://www.blackbox.ai/) - Coding AI
 * [Codel](https://github.com/semanser/codel) - Coding AI
-* [CollectivAI](https://chat.collectivai.com/) - Coding AI
+* [DoWhile](https://chat.collectivai.com/) - Coding AI
 * [Denigma](https://denigma.app/#demo) - Coding AI
 * [GPT Engineer](https://github.com/AntonOsika/gpt-engineer) - Coding AI
 * [Aider](https://aider.chat/) - Terminal Coding AI
@@ -150,7 +150,7 @@
 * [Open Interpreter](https://github.com/OpenInterpreter/open-interpreter) - Run Code Locally
 * [v0](https://v0.dev/) - Text to Site Code
 * [Composio](https://github.com/ComposioHQ/composio) - Add Tools to Coding AI
-* [AI Code Translator](https://ai-code-translator.vercel.app/), [AI Code Convert](https://aicodeconvert.com/) or [Source Code Converters](https://www.tangiblesoftwaresolutions.com/) - AI Code Converters
+* [AI Code Convert](https://aicodeconvert.com/) or [Source Code Converters](https://www.tangiblesoftwaresolutions.com/) - AI Code Converters
 * [RTutor](https://rtutor.ai/) - Translate Natural Language to R code
 * [Gorilla](https://gorilla.cs.berkeley.edu/) - API to Code LLM
 * [CS50.ai](https://cs50.ai/) - AI Rubberducking
@@ -257,6 +257,7 @@
 * ⭐ **[Poe](https://poe.com/)** / 100 Daily / [Discord](https://discord.com/invite/joinpoe)
 * ⭐ **[Dezgo](https://dezgo.com/)** / [Discord](https://discord.com/invite/RQrGpUhPhx) / Unlimited
 * ⭐ **[Meta AI](https://imagine.meta.com/)** / Unlimited
+* ⭐ **[FastFLUX](https://fastflux.ai/)** / Unlimited
 * ⭐ **[Playground](https://playground.com/)** / 100 Daily
 * ⭐ **[Ideogram](https://ideogram.ai/)** / 100 Daily
 * ⭐ **[Tensor.art](https://tensor.art/)** / 100 Daily
