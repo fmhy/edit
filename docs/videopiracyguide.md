@@ -399,6 +399,7 @@
 * ⭐ **[OlympicStreams](https://olympicstreams.co/)** - Sports
 * [Sportsurge.club](https://sportsurge.club/) - Sports
 * [1Stream](https://1stream.eu/) - Sports
+* [Streameast](https://www.streameast.co/v8/) - Sports
 * [WeakSpell](https://weakspell.to/) - Sports
 * [CricHD.li](https://crichd.li/), [2](https://totalsportek.me/), [3](https://streameast.bz/) - Sports
 * [First Row Sports](https://firstsrowsports.tv/) - Sports
