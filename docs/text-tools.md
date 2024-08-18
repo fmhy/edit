@@ -37,7 +37,6 @@
 * ⭐ **[pastes.dev](https://pastes.dev/)** - Multi-Syntax / Markdown Support / [GitHub](https://github.com/lucko/paste)
 * ⭐ **[PrivateBin](https://privatebin.net/)** - Markdown Support / Syntax Highlighting / [GitHub](https://github.com/PrivateBin/PrivateBin)
 * ⭐ **[snowbin](https://pastes.fmhy.net/)**, [2](https://paste.fmhy.net/) - Markdown Support / [GitHub](https://github.com/fmhy/snowbin)
-* ⭐ **[Linqbin](https://linqbin.cc/)** - Plain Text / [GitHub](https://github.com/daniel-lxs/linqbin)
 * ⭐ **[Katbin](https://katb.in/)** - Plain Text / [GitHub](https://github.com/sphericalkat/katbin)
 * ⭐ **[Pastebin Search](https://cse.google.com/cse?cx=0cd79b819f26af9d0)** - Pastebin CSE
 * [Text.is](https://text.is/) - Markdown Support / Rentry Clone
@@ -74,6 +73,7 @@
 * ⭐ **[Google Translate](https://translate.google.com/)** / [API](https://github.com/vitalets/google-translate-api)
 * ⭐ **[/r/Translator](https://www.reddit.com/r/translator/)** - Translation Request Community
 * ⭐ **[Translate Web Pages](https://github.com/FilipePS/Traduzir-paginas-web)** - Browser Extension
+* [Mozhi](https://translate.bus-hit.me/) - Multi Translator Frontend
 * [Argos](https://github.com/argosopentech/argos-translate) - Translation Apps
 * [Translate Shell](https://www.soimort.org/translate-shell/) - Translation CLI / [GitHub](https://github.com/soimort/translate-shell)
 * [OnlineDocTranslator](https://www.onlinedoctranslator.com/en/) - Document Translator
@@ -91,11 +91,11 @@
 * [Linguist Translator](https://github.com/translate-tools/linguist) - Browser Extension
 * [S3Translator](https://www.s3blog.org/s3translator.html) - Browser Extension
 * [Firefox Translations](https://addons.mozilla.org/en-US/firefox/addon/firefox-translations/) - Browser Extension
-* [ImmersiveTranslate](https://immersivetranslate.com/en/) - Browser Extension
 * [Mate Translate](https://gikken.co/mate-translate) - Browser Extension
 * [ImTranslator](https://imtranslator.net/) - Browser Extension
 * [Papago](https://papago.naver.com/)
 * [Libretranslate](https://libretranslate.com/) / [2](https://github.com/LibreTranslate/LibreTranslate)
+* [ImmersiveTranslate](https://app.immersivetranslate.com/) / [Extension](https://immersivetranslate.com/en/)
 * [Translate.com](https://www.translate.com/)
 * [MyMemory](https://mymemory.translated.net/)
 * [Nice Translator](https://nicetranslator.com/)
@@ -149,6 +149,7 @@
 * [EditGPT](https://www.editgpt.app/)
 * [Grammarly](https://www.grammarly.com/grammar-check)
 * [ProWritingAid](https://prowritingaid.com/grammar-checker)
+* [Outwrite](https://www.outwrite.com/)
 * [QuillBot](https://quillbot.com/grammar-check)
 * [Scribens](https://www.scribens.com/)
 
@@ -418,7 +419,6 @@
 * ⭐ **[Goblin.tools](https://goblin.tools/)** - Automatic Task Breakdown and more
 * ⭐ **[TickTick](https://www.ticktick.com/)** / [Premium](https://rentry.co/FMHYBase64#tiktik)
 * [Columns](https://columns.app/) or [ChecklistGenerator](https://checklistgenerator.co/) - Checklists
-* [Wonder](https://wonder-bot.com/) - Remember Things Easily
 * [YearCompass](https://yearcompass.com/) - New Years Resolution Booklet
 * [daily.place](https://www.daily.place/)
 * [SuperList](https://www.superlist.com/)

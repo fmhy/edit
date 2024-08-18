@@ -390,6 +390,7 @@
 * [MP3JP](https://mp3jp.si/) - Japanese / MP3 / FLAC
 * [JP Music Blog](https://jpmusicblog.com/) - Japanese / MP3 / FLAC
 * [FondSound](https://www.fondsound.com/) - Experimental / MP3
+* [Hipstrumentals](https://hipstrumentals.com/) - Instrumentals / MP3
 * [MikuDB](https://mikudb.moe/) - Vocaloid / MP3
 * [Guitars101](https://www.guitars101.com/) - Live Audio / Video
 * [SongStems](https://songstems.net/) - STEM Files

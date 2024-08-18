@@ -215,6 +215,7 @@
 * [Messy Occult Library](https://rentry.co/FMHYBase64#messy-occult-library) - Occult / Esoterica / Gnosticism
 * [Hermetic International](https://www.hermetics.net/) - Religion / Occult / Gnosticism / Hermetic / Philosophy
 * [Hermetics](https://www.hermetics.org/library.html) - Ancient Texts / Mythology / Occult
+* [EatTheFruit](https://www.eatthefruit.com/media-library/pdf-library/) - Ancient Texts / Mythology
 * [Dhamma Talks](https://www.dhammatalks.org/) - Sacred Texts / Religion / Buddhism
 * [Sutta Central](https://suttacentral.net/) - Sacred Texts / Religion / Buddhism
 * [Jainism Library of Jain Literature](https://www.atmadharma.com/index.html) - Sacred Texts / Religion
@@ -783,7 +784,6 @@ https://www.wuxiaspot.com/
 * [Parliament Archives](https://archives.parliament.uk/) - UK Parliamentary Documents
 * [SecretCanada](https://www.secretcanada.com/) - Canadian Document Archive
 * [Pandora](https://pandora.nla.gov.au/) - Australian Document Archive
-* [ndltd](http://search.ndltd.org/) - Search Theses and Dissertations
 * [oatd](https://oatd.org/) - Theses / Dissertations
 * [lolmythesis](https://lolmythesis.com/) - Summarized Theses
 * [WorldBank](https://www.worldbank.org/en/home) - Poverty Solution Research Data

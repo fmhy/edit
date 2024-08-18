@@ -63,7 +63,6 @@
 * [Fotor](https://www.fotor.com/)
 * [PictureEditor](https://www.pictureeditor.com/)
 * [PhotoStack](https://photostack.app/)
-* [MyPhotoFilter](https://www.myphotofilter.com/)
 * [Facet](https://facet.ai/)
 * [Peko-Step](https://www.peko-step.com/en/tool/imageeditor.html)
 * [imageamigo](https://imageamigo.com)
@@ -182,27 +181,18 @@
 * ⭐ **Krita Tools** - [Custom Backend](https://github.com/Interpause/auto-sd-paint-ext) / [AI Generation](https://github.com/Acly/krita-ai-diffusion/) / [Forums](https://krita-artists.org/)
 * ⭐ **[miniPaint](https://viliusle.github.io/miniPaint/)** - Browser Painting
 * [SmoothDraw](https://qrli.github.io/smoothdraw/) - Painting App
-* [MyPaint](https://mypaint.app/) - Painting App
 * [FireAlpaca](https://firealpaca.com/) - Painting App
-* [Tux Paint](https://tuxpaint.org/) - Painting App
 * [LazPaint](https://github.com/bgrabitmap/lazpaint/) - Painting App
-* [SpeedyPainter](https://speedypainter.altervista.org/) - Painting App
-* [JSPaint](https://github.com/00000o1/jspaint.exe) - Classic MS Paint Revival
 * [PaintOnline](https://paintonline.com.br/paint.html) - Browser Painting
 * [jspaint](https://jspaint.app/) - Browser Painting
 * [PinTor](https://pintor.app/) - Browser Painting
 * [miniPaint](https://viliusle.github.io/miniPaint/) - Browser Painting
 * [Tegaki](https://desuwa.github.io/tegaki.html) - Browser Painting
-* [JS Kid Pix](https://kidpix.app/) - Browser JS KidPix
-* [SpeedPaint](https://www.speedpaint.info/) - Browser Speedpainting
-* [bomomo](https://bomomo.com/) - Multi-Brush Painting
-* [LizardPaint](https://lizardrive.itch.io/lizardpaint) - Sega / Megadrive Painting
 * [Milton](https://www.miltonpaint.com/) - Infinite Canvas Painting
 * [IOGraphica](https://iographica.com/) - Turn Mouse Movement into Art
 * [HeavyPaint](https://www.heavypaint.com/) - Water Color Painting
 * [Mixbox Painter](https://scrtwpns.com/mixbox/painter/) - Realistic Paint Mixing
 * [Vervette](https://www.taron.de/Vervette/sandbox/) - Realistic Fluid Painting
-* [JacksonPollock](https://www.jacksonpollock.org/) - Splatter Painting / Click to Change Color
 * [brush-photoshop](https://www.brush-photoshop.fr/), [wowbrushes](https://wowbrushes.com/), [getbrushes](https://getbrushes.com/), [gfxfever](https://www.gfxfever.com/), [fbrushes](https://fbrushes.com/), [brushes_and_patterns](https://t.me/brushes_and_patterns), [myphotoshopbrushes](https://myphotoshopbrushes.com/), [brusheezy](https://www.brusheezy.com/brushes), [brushking](https://www.brushking.eu/) or [tala](https://t.me/tala_photoshop_brushes) - Digital Art Brushes
 
 ***
@@ -246,7 +236,6 @@
 * [Pixelated](https://pixelated.vercel.app/) - Pixel Art Editor
 * [PyDPainter](https://github.com/mriale/PyDPainter) - Bitmap Graphics Editor
 * [PaintWith](https://paintwith.webflow.io/) - Pixel Art Editor
-* [Aseprite](https://dacap.itch.io/aseprite) - Pixel Art Editor
 * [PixelCraft](https://pixelcraft.web.app/) - Pixel Art Editor / [GitHub](https://github.com/rgab1508/PixelCraft)
 * [Kleki](https://kleki.com/) - Pixel Art Editor
 * [CSprite](https://csprite.github.io/) - Pixel Art Editor
@@ -273,7 +262,6 @@
 * 🌐 **[Online GIF Tools](https://onlinegiftools.com/)** - GIF Tools
 * [Giphy](https://giphy.com/), [Tenor](https://tenor.com/), [Gifer](https://gifer.com/en), [Curlie GIFs](https://curlie.org/en/Computers/Graphics/Web/Free/Animated_GIFs), [GifCities](https://gifcities.org/), [Animations](https://bleuje.com/animationsite/) or [GIFBin](https://gifbin.com/) - View / Download GIFs
 * [/r/animegifs](https://www.reddit.com/r/animegifs/) - View / Download Anime GIFs
-* [Reaction GIFs](https://reactiongifs.me/) - Reaction GIFs
 * [EZGif](https://ezgif.com/), [GIFCurry](https://lettier.github.io/gifcurry/) / [GitHub](https://github.com/lettier/gifcurry), [Giflr](https://giflr.com/), [GIFMemes](https://gifmemes.io/), [GIFnText](https://www.gifntext.com/), [makeagif](https://makeagif.com/), [Gifsicle](http://www.lcdf.org/gifsicle/) or [Pixteller](https://pixteller.com/) - GIF Creators / Editors
 * [EatMyArt](https://www.eatmy.art/), [DrawIsland](https://drawisland.com/) or [Sketch Machine](https://sketchmachine.net/) - Create GIFs from Drawings
 * [Kinegram](https://kinegram.app/) - Kinegram GIF Creator
@@ -329,7 +317,6 @@
 * [Kittl](https://app.kittl.com/) - Design App
 * [Kosmik](https://www.kosmik.app/) - Design Asset Manager
 * [Venngage](https://venngage.com/) - Infographic Design
-* [Bannery](https://bannery.app/) - Banner Design
 * [CoverView](https://coverview.vercel.app/) - Blog Banner Design
 * [blush](https://blush.design/) or [IRA Design](https://iradesign.io/) - Illustration Design
 * [SuperDesigner](https://superdesigner.co/) or [Pattern Ninja](https://patterninja.com/) - Background / Pattern Design
@@ -757,7 +744,7 @@
 
 ## ▷ Screenshot Tools
 
-* ⭐ **[ShareX](https://getsharex.com/)** / [Free Host](https://encrypting.host/), [2](https://sxcu.net/), [3](https://www.sharexhosting.com/) / [File Manager](https://xbackbone.app/)
+* ⭐ **[ShareX](https://getsharex.com/)** / [Free Host](https://sxcu.net/), [2](https://www.sharexhosting.com/) / [File Manager](https://xbackbone.app/)
 * ⭐ **[Zipline](https://zipline.diced.sh/)** / [GitHub](https://github.com/diced/zipline) or [ass](https://github.com/tycrek/ass) - Self-Hosted ShareX Server
 * ⭐ **[Flameshot](https://flameshot.org/)** / [GitHub](https://github.com/flameshot-org/flameshot) / [Imgur Upload](https://slproweb.com/products/Win32OpenSSL.html)
 * [Greenshot](https://getgreenshot.org/)
@@ -797,7 +784,7 @@
 
 * 🌐 **[React Color](https://casesandberg.github.io/react-color/)** - Color Pickers Index
 * 🌐 **[BrandColors](https://brandcolors.net/)** - Brand Color Palettes Index
-* [Material UI](https://materialui.co/colors/), [Color Deck](https://color.obscuredetour.com/), [Picular](https://picular.co/) or [ColorKit's Color Picker](https://colorkit.co/color-picker/) - Color Pickers
+* [Material UI](https://materialui.co/colors/), [OKLCH](https://oklch.com/), [Color Deck](https://color.obscuredetour.com/), [Picular](https://picular.co/) or [ColorKit's Color Picker](https://colorkit.co/color-picker/) - Color Pickers
 * [Colorpicker](https://colorpicker.fr/), [Just Color Picker](https://annystudio.com/software/colorpicker/) or [epick](https://github.com/vv9k/epick) - Color Picker Desktop Apps
 * [Colorscales](https://www.colorscales.com/en/start) - Find Colors in Color Space
 * [ColourCode](https://www.toptal.com/designers/colourcode/) or [Colordot](https://color.hailpixel.com/) - Find Colors by Moving Mouse

@@ -125,6 +125,7 @@
 * [Q-Dir](https://www.softwareok.com/?seite=Freeware/Q-Dir) - File Explorer
 * [Quick Access Popup](https://www.quickaccesspopup.com/) - File Explorer
 * [FileExplorer](https://github.com/omeryanar/FileExplorer) - File Explorer
+* [FileStash](https://www.filestash.app/) - File Manager / [GitHub](https://github.com/mickael-kerjean/filestash)
 * [Explorer++](https://explorerplusplus.com/) - Lightweight Windows File Manager
 * [Far Manager](https://www.farmanager.com/) - Windows File / Archive Manager
 * [Total Commander](https://www.ghisler.com/) - Shareware Windows File Manager
@@ -160,10 +161,10 @@
 
 ## ▷ File Backup / Sync
 
-* ⭐ **[SyncThing](https://syncthing.net/)** - File Sync / [Tray Support](https://martchus.github.io/syncthingtray/)
-* ⭐ **[KDEConnect](https://kdeconnect.kde.org/)** - Phone / File Sync
+* ⭐ **[SyncThing](https://syncthing.net/)** - File Sync / [GitHub](https://github.com/syncthing/syncthing)
 * ⭐ **[freefilesync](https://freefilesync.org/)** - File Backup
-* ⭐ **[Kopia](https://kopia.io/)** - File Backup
+* ⭐ **[Kopia](https://kopia.io/)** - File Backup / [GitHub](https://github.com/kopia/kopia/)
+* [SyncThingTray](https://martchus.github.io/syncthingtray/) - Tray Support / [GitHub](https://github.com/Martchus/syncthingtray)
 * [MyPhoneExplorer](https://www.fjsoft.at/) - Phone / Desktop Sync
 * [SyncFolder](https://apps.microsoft.com/detail/9nc73mjwhsww?rtc=1&hl=en-us&gl=US) - Phone / Desktop Sync
 * [etesync](https://www.etesync.com/) - File Sync
@@ -322,14 +323,15 @@
 
 * ⭐ **[ToffeeShare](https://toffeeshare.com/)**
 * ⭐ **[Blaze](https://blaze.vercel.app/)** / [GitHub](https://github.com/blenderskool/blaze)
-* ⭐ **[LocalSend](https://localsend.org/)** - Phone / Desktop Transfer / [Platforms](https://i.ibb.co/nsfMf04/8010dd28ed2d.png)
+* ⭐ **[LocalSend](https://localsend.org/)** - Phone / Desktop Transfer / [Discord](https://discord.com/invite/GSRWmQNP87) / [GitHub](https://github.com/localsend/localsend)
 * ⭐ **[wormhole](https://wormhole.app/)**
 * ⭐ **[justbeamit](https://justbeamit.com/)**
-* ⭐ **[Tailscale](https://tailscale.com/)**
 * ⭐ **[spacedrop](https://spacedrop.app/)**
+* [KDEConnect](https://kdeconnect.kde.org/)
 * [Warpinator](https://github.com/linuxmint/warpinator) - Phone / Desktop Transfer
 * [QRServ](https://play.google.com/store/apps/details?id=dev.uint.qrserv) - Phone / Desktop Transfer / [GitHub](https://github.com/uintdev/qrserv)
-* [pairdrop](https://pairdrop.net/) or [Snapdrop](https://snapdrop.net/)
+* [pairdrop](https://pairdrop.net/) / [GitHub](https://github.com/schlagmichdoch/pairdrop)
+* [Snapdrop](https://snapdrop.net/) / [GitHub](https://github.com/SnapDrop/snapdrop)
 * [sharedrop](https://www.sharedrop.io/)
 * [new.space](https://new.space/)
 * [file.pizza](https://file.pizza/)
@@ -337,9 +339,7 @@
 * [Magic Wormhole](https://github.com/magic-wormhole/magic-wormhole)
 * [onionshare](https://onionshare.org/)
 * [Horizon Send](https://send.hrzn.cool/)
-* [OwnCloud](https://owncloud.com/)
 * [WinSCP](https://winscp.net/eng/index.php)
-* [FileBrowser](https://filebrowser.org/)
 * [croc](https://github.com/schollz/croc) / [GUI](https://github.com/howeyc/crocgui)
 * [landrop](https://landrop.app/)
 * [Surge](https://getsurge.io/)
@@ -361,7 +361,6 @@
 * [uschovna](https://www.uschovna.cz/)
 * [posilej](https://posilej.cz/)
 * [filetransfer](https://filetransfer.kpn.com/)
-* [Diode](https://diode.io/)
 * [WebWormhole](https://webwormhole.io/)
 * [Destiny](https://github.com/LeastAuthority/destiny)
 * [sharrr](https://www.sharrr.com/)
@@ -381,17 +380,10 @@
 ***
 
 * ⭐ **[Cloud Storage Comparisons](https://eylenburg.github.io/cloud_comparison.htm)** - Compare Cloud Storage Polices
-* ⭐ **[Rclone](https://rclone.org/)** - Cloud Storage Manager
-* ⭐ **Rclone Tools** - [Guide](https://telegra.ph/Simple-rclone-usage-01-13) / [Colab](https://colab.research.google.com/github/szyha/RcloneLabArchive/blob/master/RcloneLab.ipynb) / [Telegram](https://t.me/rclonexbot) / [Transfer Tool](https://github.com/TheCaduceus/Multi-Cloud-Transfer-Tool)
-* ⭐ **[gclone](https://github.com/dogbutcat/gclone)** - Cloud Storage Manager
-* ⭐ **gclone Tools** - [Guide](https://telegra.ph/Gclone-Guide-for-Windows-07-20) / [Telegram](https://github.com/wrenfairbank/telegram_gcloner) / [Bot](https://github.com/MsGsuite/CloneBot) / [Discord Bot](https://github.com/Rekulous/CloneCord-bot), [2](https://github.com/jsmsj/GcloneDiscordify)
-* ⭐ **[Air Explorer](https://airexplorer.net/en/)** - Cloud Storage Manager
-* ⭐ **[RaiDrive](https://www.raidrive.com/)** - Cloud Storage Manager
 * ⭐ **[GDrive](https://drive.google.com/)** - 15GB Free / ~$3 for 1TB
 * ⭐ **[mega](https://mega.nz/)** - 20GB Free / ~$4.50 for 1TB / [GitHub](https://github.com/meganz)
 * ⭐ **[disk.yandex](https://disk.yandex.com/)** - 5GB Free / $2 for 1TB
 * ⭐ **[filen](https://filen.io/)** - 10GB Free / ~$8 for 1TB
-* ⭐ **[Cyberduck](https://cyberduck.io/)** - Libre Server / Cloud Storage Browser
 * [Cloud Storage Archiving Guide](https://pastebin.com/kLhLHsXg) - How To Safely Archive Files on Cloud Storage Sites
 * [terabox](https://terabox.com/) - 1TB Free / $3.50 for 2TB / [Downloader](https://indexsubtitle.cc/terabox-direct-link-generator)
 * [dropbox](https://www.dropbox.com/) - 1 or 2 GB Free / ~$5 for 1TB / [Client](https://github.com/SamSchott/maestral)
@@ -406,25 +398,31 @@
 * [internxt](https://internxt.com/) - 10GB Free / ~4 for 1TB
 * [Akira Box](https://akirabox.com/) - 20GB Free
 * [1Cloud File](https://1cloudfile.com/) - 10GB Free
-* [xpipe](https://xpipe.io) - Remote File Manager
-* [bookmarkfs](https://github.com/CoolElectronics/bookmarkfs) - Chrome's Profile Sync Cloud Storage
-* [InfiniDrive](https://github.com/nicomda/InfiniDrive) - Amazon Prime Photos Cloud Storage
-* [OneDriveFly](https://github.com/Tai7sy/OneDriveFly) or [OneDrive Vercel Index](https://ovi.swo.moe/) - OneDrive Indexes
+* [OneDriveFly](https://github.com/Tai7sy/OneDriveFly) - OneDrive Indexes
 * [Fix-OneDrive-Zip](https://github.com/pmqs/Fix-OneDrive-Zip) - Fix OneDrive Zip Files >4gb
-* [Koofr](https://koofr.eu/) - Cloud Storage Manager
+* [SeaFile](https://www.seafile.com/en/home/) - Self-Hosted Cloud Storage
+
+***
+
+## ▷ Cloud Managers
+
+* ⭐ **[Rclone](https://rclone.org/)** - Cloud Storage Manager
+* ⭐ **Rclone Tools** - [Guide](https://telegra.ph/Simple-rclone-usage-01-13) / [Colab](https://colab.research.google.com/github/szyha/RcloneLabArchive/blob/master/RcloneLab.ipynb) / [Telegram](https://t.me/rclonexbot) / [Transfer Tool](https://github.com/TheCaduceus/Multi-Cloud-Transfer-Tool)
+* ⭐ **[gclone](https://github.com/dogbutcat/gclone)** - Cloud Storage Manager / [Guide](https://telegra.ph/Gclone-Guide-for-Windows-07-20)
+* ⭐ **[Air Explorer](https://airexplorer.net/en/)** - Cloud Storage Manager
+* ⭐ **[RaiDrive](https://www.raidrive.com/)** - Cloud Storage Manager
+* ⭐ **[Cyberduck](https://cyberduck.io/)** - Libre Server / Cloud Storage Browser
 * [SpaceDrive](https://www.spacedrive.com/) - Cloud Storage Manager
 * [CarotDAV](http://rei.to/carotdav_en.html) - Cloud Storage Manager
 * [MultCloud](https://www.multcloud.com/) - Cloud Storage Manager
-* [MSP360](https://www.msp360.com/explorer.aspx) - Cloud Storage Manager
-* [AList](https://alist.nn.ci) - Cloud Storage Manager
-* [SeaFile](https://www.seafile.com/en/home/) or [FileStash](https://www.filestash.app/) - Self-Hosted Cloud Storage / [Fork](https://github.com/ZizzyDizzyMC/linx-server/)
+* [xpipe](https://xpipe.io) - Remote File Manager
 
 ***
 
 ## ▷ GDrive Tools
 
 * ↪️ **[GDrive File Sharing](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_gdrive_file_sharing)**
-* ⭐ **[OneClickRun](https://colab.research.google.com/github/biplobsd/OneClickRun/blob/master/OneClickRun.ipynb)** - Google Drive Tools Colab / [GitHub](https://github.com/biplobsd/OneClickRun) / [Features](https://i.ibb.co/BfF3djW/f0ab560a3aef.png) / Use Throwaways
+* ⭐ **[OneClickRun](https://colab.research.google.com/github/biplobsd/OneClickRun/blob/master/OneClickRun.ipynb)** - Google Drive Tools Colab / [Features](https://i.ibb.co/BfF3djW/f0ab560a3aef.png) / Use Throwaways
 * ⭐ **[SA Drive](https://github.com/jsmsj/sa-drive/)** - Service Account Drive Manager
 * [Any File to GDrive](https://github.com/menukaonline/Any-file-to-Google-Drive) - DDL to GDrive Tool
 * [DriveUploader](https://driveuploader.com/) - Receive Files via GDrive
@@ -432,13 +430,11 @@
 * [goodls](https://github.com/tanaikech/goodls) - Google Drive Downloader
 * [GDrive Downloader](https://github.com/Akianonymus/gdrive-downloader) - Google Drive Folder Downloader
 * [gdrivedl](https://github.com/matthuisman/gdrivedl) - Google Drive Python Download Script
-* [GDriveSearcherBot](https://github.com/TheHamkerCat/GdriveSearcherBot) - GDrive Search Bot
 * [ISAAC](https://rentry.co/FMHYBase64#gservice-gen) - Google Service Account Generators
-* [goindex](https://github.com/alx-xlx/goindex) / [Extended](https://github.com/menukaonline/goindex-extended) / [Themes](https://install.kenci.workers.dev/) or [Google-Drive-Index](https://gitlab.com/GoogleDriveIndex/Google-Drive-Index) - Google Drive Indexers
+* [goindex-extended](https://github.com/menukaonline/goindex-extended) / [Themes](https://install.kenci.workers.dev/) or [Google-Drive-Index](https://gitlab.com/GoogleDriveIndex/Google-Drive-Index) - Google Drive Indexers
 * [Decrypt.Hashhackers](https://decrypt.hashhackers.com/) - Encrypt / Decrypt GDrive
-* [gdurl](https://gdurl.com/), [google-drive-direct-link-generator/](https://www.wonderplugin.com/online-tools/google-drive-direct-link-generator/),[Direct.GDrive](https://direct.gdrive.vip/en/), [Maulvi](https://maulvi.github.io/), [GDriveWebAppPublic ](https://github.com/CloudflareHackers/GDriveWebAppPublic), [Google Drive Direct Links](https://greasyfork.org/en/scripts/10052) or [Sharer](https://sharer.pw/) - Host Direct Links on GDrive
-* [GdriveCloneWeb](https://github.com/jsmsj/GdriveCloneWeb), [Google Drive Copy Folder](https://github.com/ericyd/gdrive-copy), [Copy Folder](https://chromewebstore.google.com/detail/copy-folder/kfbicpdhiofpicipfggljdhjokjblnhl) or [Google Drive Clone Bot](https://jsmsj.github.io/GdriveCloneBot/) - Copy Google Drives
-* [CloneBot](https://github.com/MsGsuite/CloneBot_Heroku) - Copy GDrive to TeamDrive
+* [gdurl](https://gdurl.com/), [google-drive-direct-link-generator/](https://www.wonderplugin.com/online-tools/google-drive-direct-link-generator/),[Direct.GDrive](https://direct.gdrive.vip/en/), [Maulvi](https://maulvi.github.io/) or [GDriveWebAppPublic ](https://github.com/CloudflareHackers/GDriveWebAppPublic) - Host Direct Links on GDrive
+* [GdriveCloneWeb](https://github.com/jsmsj/GdriveCloneWeb) or [Google Drive Clone Bot](https://jsmsj.github.io/GdriveCloneBot/) / [GitHub](https://github.com/jsmsj/GdriveCloneBot) - Copy Google Drives
 * [GD-EFC Link Encryptor](https://rekulous.github.io/gd-efc-encryptor/) - Google Drive Link Encryptor for GD-EFC
 * [gd-efc](https://anadius.github.io/gd-efc/) - Copy Encrypted Google Drive
 * [Gdrive Guide-Noob Friendly](https://telegra.ph/Gdrive-Guide-Noob-Friendly-04-10) - GDrive Guide
@@ -450,11 +446,7 @@
 
 * ⭐ **[Mega-to-Google-Drive](https://github.com/menukaonline/Mega-to-Google-Drive)** - Transfer Files from Mega to GDrive
 * ⭐ **[Megabasterd](https://github.com/tonikelope/megabasterd)** - MEGA Quota Bypass / [Note](https://pastebin.com/BpS2mwKX)
-* ⭐ **[Mega_account_generator](https://github.com/qtchaos/py_mega_account_generator)** - Unlimited Upload Size / [Note](https://pastebin.com/Jwuc5Tpf)
+* ⭐ **[Mega_account_generator](https://github.com/qtchaos/py_mega_account_generator)** - Unlimited Upload Size
 * ⭐ **[MegaDoctor](https://github.com/tonikelope/megadoctor)** - Mega Upload Manager
-* [MEGASync](https://mega.io/desktop) - Mega Desktop App
-* [MegaCMD](https://mega.io/cmd) or [megatools](https://megatools.megous.com/) - Mega CLIs
-* [Mega-Downloader](https://github.com/ZonD80/mega-downloader) - Mega Download Script
-* [Mega.nz-Rclone-Index-Heroku](https://github.com/developeranaz/Mega-index-heroku) - Mega to HTTP
-* [MegaKeep](https://github.com/maybecryptic/MegaKeep) - Login to Multiple Mega Accounts
+* [MEGASync](https://mega.io/desktop) or [MegaCMD](https://mega.io/cmd) - Mega Apps
 * [Mega Gen](https://rentry.co/FMHYBase64#mega-gen) - Mega Account Generator
