@@ -610,7 +610,8 @@
 
 # ► Browser Tools
 
-* 🌐 **[Browser Comparisons](https://privacytests.org/)**, [2](https://avoidthehack.com/util/browser-comparison), [3](https://github.com/nerdyslacker/desktop-web-browsers)
+* 🌐 **[Desktop Web Browsers](https://github.com/nerdyslacker/desktop-web-browsers)** - Desktop Browser Index
+* 🌐 **[Browser Comparisons](https://privacytests.org/)** or [ATH Comparisons](https://avoidthehack.com/util/browser-comparison) - Compare Popular Browsers
 * ↪️ **[Privacy Browsers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25B7_browser_privacy)**
 * ⭐ **[BrowserBench](https://browserbench.org/)** or [WPT](https://wpt.fyi) - Browser Benchmark Tests
 * ⭐ **[WhatTrainIsItNow?](https://whattrainisitnow.com/)** - Track Firefox Releases
