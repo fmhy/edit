@@ -181,7 +181,6 @@
 * [KDE Applications](https://apps.kde.org/) - KDE Apps
 * [The Book of Secret Knowledge](https://github.com/trimstray/the-book-of-secret-knowledge)
 * [Ultimate Cheatsheet](https://gist.github.com/bgoonz/be5c5be77169ef333b431bc37d331176)
-* [ArchWiki List of Applications](https://wiki.archlinux.org/title/list_of_applications)
 * [LinuxAlt](https://www.linuxalt.com/)
 * [Plan9Port](https://9fans.github.io/plan9port/) / [GitHub](https://github.com/9fans/plan9port)
 * [tlanyan](https://itlanyan.com/)
