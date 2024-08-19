@@ -103,13 +103,13 @@
 * ⭐ **[Transmission](https://transmissionbt.com/)**
 * ⭐ **[Tixati](https://tixati.com/)**
 * ⭐ **[torrent-control](https://github.com/Mika-/torrent-control)** or [Remote Torrent Adder](https://github.com/bogenpirat/remote-torrent-adder) - Easily Send Torrents to Client
-* [Motrix](https://motrix.app/) - [GitHub](https://github.com/agalwood/Motrix)
-* [WizTorrent](https://wiztorrent.com/) - Torrent Player / WebShare
+* [Motrix](https://motrix.app/) / [GitHub](https://github.com/agalwood/Motrix)
+* [WizTorrent](https://wiztorrent.com/) / Torrent Player / WebShare
 * [Picotorrent](https://picotorrent.org/)
 * [BiglyBT](https://www.biglybt.com/)
 * [LIII](https://codecpack.co/download/LIII-BitTorrent-Client.html)
-* [PikaTorrent](https://www.pikatorrent.com/) - [GitHub](https://github.com/G-Ray/pikatorrent)
-* [Distribyted](https://distribyted.com/) - [GitHub](https://github.com/distribyted/distribyted)
+* [PikaTorrent](https://www.pikatorrent.com/) / [GitHub](https://github.com/G-Ray/pikatorrent)
+* [Distribyted](https://distribyted.com/) / [GitHub](https://github.com/distribyted/distribyted)
 * [Crawfish](https://github.com/drakonkat/Crawfish)
 * [Tribler](https://www.tribler.org/) - Tor-inspired Client / [GitHub](https://github.com/Tribler/tribler)
 * [XD-Torrent](https://xd-torrent.github.io/) - Anonymous P2P Torrent Client
