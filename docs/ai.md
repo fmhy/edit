@@ -39,7 +39,7 @@
 * ⭐ **[Gemini](https://gemini.google.com/)** or [Gemma](https://github.com/google/gemma.cpp), [2](https://ai.google.dev/gemma/) - Google's Chatbot
 * ⭐ **[Claude](https://claude.ai/)** - Anthropic's Chatbot
 * ⭐ **[sdk.vercel](https://sdk.vercel.ai/)** - Multiple Chatbots
-* ⭐ **[groq](https://groq.com/)** - Llama 3 and Mixtral Chatbots
+* ⭐ **[groq](https://groq.com/)** - Llama 3 and Mixtral Chatbots / [Discord](https://discord.gg/groq)
 * ⭐ **[LMSYS Chat](https://lmarena.ai/)**, [2](https://chat.lmsys.org/) - Chat and Compare Multiple Chatbots
 * [LLM Playground](https://llmplayground.net/) - Multiple Chatbots / [Discord](https://discord.com/invite/q55gsH8z5F) / [API](https://api.discord.rocks/)
 * **[Morphic](https://www.morphic.sh/)** - GPT-4o-mini Powered Search / [Discord](https://discord.gg/zRxaseCuGq)
