@@ -782,6 +782,7 @@ https://github.com/NobodyForNothing/blood-pressure-monitor-fl
 * [9Tut](https://www.9tut.com/) - CCNA Certification Training
 * [Comptia](https://www.comptia.org/), [Cisco Training](https://www.cisco.com/c/en/us/training-events/training-certifications/certifications.html) or [UI.com](https://www.ui.com/training/) - Training / Certifications
 * [web3.career](https://web3.career/) or [FindWeb3](https://findweb3.com/) - Find Web3 Jobs
+* [Christian Tech Jobs](https://www.christiantechjobs.io/) - Tech jobs at Christian companies
 
 ***
 
