@@ -54,7 +54,6 @@
 * [Hillsdale College](https://online.hillsdale.edu/) - Courses
 * [OpenHPI](https://open.hpi.de/) - Courses
 * [LearnOutLoud](https://www.learnoutloud.com/) - Documentaries / Coursesd
-* [ProfessorMesser](https://www.professormesser.com/) - IT Courses
 * [Video Lectures](https://videolectures.net/) - Lectures
 * [Crash Course](https://thecrashcourse.com/) - Topic Crash Courses
 
