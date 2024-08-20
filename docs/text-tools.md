@@ -69,8 +69,12 @@
 
 ## ▷ Translators
 
+* **Note** - Chatbots like ChatGPT and Claude can also translate text, and are sometimes better the the ones listed below.
+
+***
+
 * ⭐ **[DeepLX](https://github.com/OwO-Network/DeepLX)** or [DeepL](https://www.deepl.com/translator)
-* ⭐ **[Google Translate](https://translate.google.com/)** / [API](https://github.com/vitalets/google-translate-api)
+* ⭐ **[Google Translate](https://translate.google.com/)** / [API](https://github.com/vitalets/google-translate-api) or [GTranslate](https://git.sr.ht/~yerinalexey/gtranslate)
 * ⭐ **[/r/Translator](https://www.reddit.com/r/translator/)** - Translation Request Community
 * ⭐ **[Translate Web Pages](https://github.com/FilipePS/Traduzir-paginas-web)** - Browser Extension
 * [Mozhi](https://translate.bus-hit.me/) - Multi Translator Frontend
@@ -81,17 +85,13 @@
 * [LingoJam](https://lingojam.com/) - Create Translator
 * [Translator++](https://www.patreon.com/collection/13346) - Automatic Translator / Editor
 * [Renpy Translator](https://github.com/anonymousException/renpy-translator) or [Renpy Editor](https://github.com/anonymousException/renpy-runtime-editor) - Ren'py Automatic Translator / Editor
-* [QTlinguist](https://github.com/lelegard/qtlinguist-installers), [Eazypo](http://www.eazypo.ca/), [Poedit](https://poedit.net/) - Translation Editor
+* [Eazypo](http://www.eazypo.ca/) or [Poedit](https://poedit.net/) - Translation Editor
 * [OmegaT](https://omegat.org/) - Translation Memory Tool
 * [Morsecode World](https://morsecode.world/) or [MorseDecoder](https://morsedecoder.com/) - Morse Code / Binary Translators
 * [Emojify](https://madelinemiller.dev/apps/emojify/) - Emojify Text
 * [OpenAI Translator](https://github.com/yetone/openai-translator) - Browser Extension
 * [Simple Translate](https://simple-translate.sienori.com/) - Browser Extension
-* [Saladict](https://saladict.crimx.com/) - Browser Extension
 * [Linguist Translator](https://github.com/translate-tools/linguist) - Browser Extension
-* [S3Translator](https://www.s3blog.org/s3translator.html) - Browser Extension
-* [Firefox Translations](https://addons.mozilla.org/en-US/firefox/addon/firefox-translations/) - Browser Extension
-* [Mate Translate](https://gikken.co/mate-translate) - Browser Extension
 * [ImTranslator](https://imtranslator.net/) - Browser Extension
 * [Papago](https://papago.naver.com/)
 * [Libretranslate](https://libretranslate.com/) / [2](https://github.com/LibreTranslate/LibreTranslate)
@@ -102,14 +102,10 @@
 * [Yandex Translator](https://translate.yandex.com/)
 * [Bing Translator](https://www.bing.com/translator)
 * [Reverso](https://www.reverso.net/)
-* [GTranslate](https://git.sr.ht/~yerinalexey/gtranslate)
 * [babelfish](https://www.babelfish.com/)
 * [translation2](https://translation2.paralink.com/)
-* [Apertium](https://apertium.org/)
 * [collinsdictionary](https://www.collinsdictionary.com/translator)
-* [online-translator](https://www.online-translator.com/translation)
 * [translatedict](https://www.translatedict.com/)
-* [Systrane Translate](https://www.systransoft.com/translate/)
 * [Translator.eu](https://www.translator.eu/)
 
 ***

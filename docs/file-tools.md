@@ -307,7 +307,7 @@
 * [File Convoy](https://www.fileconvoy.com/) - 3GB / 21 Days
 * [FilePost](https://file-post.net/) - 3GB / 7 Days / Email Required
 * [Send](https://send.vis.ee/) - 2.5GB / 3 Days / 10 Downloads / [Instances](https://gitlab.com/timvisee/send-instances)
-* [DropMB](https://dropmb.com/) - 2GB / 1 Year
+* [DropMB](https://dropmb.com/) - 512MB / 5 Years
 * [FireLoad](https://www.fireload.com/) - 2GB / 60 Days / Account Required
 * [Lufi](https://upload.disroot.org/) - 2GB / 30 Days
 * [DooDrive](https://doodrive.com/) - 2GB / 30 Days / Account Required

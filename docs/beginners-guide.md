@@ -30,9 +30,6 @@ Use the tools listed [here](https://fmhy.net/gamingpiracyguide#steam-epic) to un
 No, don't do that. Windows Defender is more than enough to keep you safe, but if you're still set on installing a secondary AV, the only one worth installing is Malwarebytes. Please read the note [here](#anti-virus).
 !!!warning Stay away from Avast, Norton, and McAfee, as these are "bloatware" and generally unsafe software.
 
- > How can I bypass a paywalled article?
-Use this [browser extension](https://github.com/bpc-clone/bpc_updates/releases) / [filter list](https://github.com/bpc-clone/bypass-paywalls-clean-filters) to read the article easily.
-
 > How can I download an image from *insert stock image site*?
  You can use [this downloader](https://downloader.la/), and if it doesn't work you can find other stock image downloaders [here](https://fmhy.net/img-tools#stock-photos).
 

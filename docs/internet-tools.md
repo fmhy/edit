@@ -103,7 +103,6 @@
 * [Clipix](https://www.clipix.com/)
 * [WebCull](https://webcull.com/)
 * [Collect](https://colllect.io/)
-* [Trove](https://trovenow.com/)
 * [GGather](https://web.ggather.com/)
 * [Dropmark](https://www.dropmark.com/)
 * [Bookmarkme](https://bookmarkme.io/)
@@ -120,7 +119,7 @@
 ## ▷ Paywall Bypass
 
 * ⭐ **[Archive.is](https://archive.is/)** - Archived Articles
-* ⭐ **[Bypass Paywalls Clean](https://github.com/bpc-clone/bpc_updates/releases)** / [Filter List](https://github.com/bpc-clone/bypass-paywalls-clean-filters) / [Twitter](https://twitter.com/Magnolia1234B) - Browser Extensions
+* ⭐ **[Bypass Paywalls Clean](https://gitflic.ru/project/magnolia1234/bpc_uploads)** / [Filter List](https://github.com/bpc-clone/bypass-paywalls-clean-filters) / [Twitter](https://twitter.com/Magnolia1234B) - Browser Extensions
 * ⭐ **[Freedium](https://freedium.cfd/)**, [Medium Parser](https://github.com/Xatta-Trone/medium-parser-extension) or [Medium For All](https://medium-forall.vercel.app/) - Bypass Medium Paywalls
 * ⭐ **[wallabag](https://wallabag.org/)** / [Discord Bot](https://github.com/FahadBinHussain/wallabot) or [Ladder](https://github.com/everywall/ladder) - Self-Hosted
 * [Smry.ai](https://www.smry.ai/) - Article Paywall Bypass
