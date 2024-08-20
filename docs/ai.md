@@ -56,8 +56,8 @@
 * [freegpt4](https://rentry.org/freegpt4) - Free GPT-4 Methods
 * [Meta AI](https://www.meta.ai/) - Llama 3 Chatbot
 * [NVIDIA NIM](https://build.nvidia.com/) - Llama 3
-* [Phind](https://www.phind.com/) - Llama Search Engine
-* [Morphic](https://www.morphic.sh/) - AI Search Engine
+* [Phind](https://www.phind.com/) - Llama Search Engine / [Discord](https://discord.gg/S25yW8TebZ)
+* [Morphic](https://www.morphic.sh/) - AI Search Engine / [Discord](https://discord.gg/zRxaseCuGq)
 * [Perplexica](https://github.com/ItzCrazyKns/Perplexica) - AI Search Engine
 * [Komo](https://komo.ai/) - AI Search Engine
 * [iAsk](https://iask.ai/) - AI Search Engine
