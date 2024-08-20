@@ -47,7 +47,7 @@
 * [OAICHAT](https://chat.oaichat.cc/), [2](https://chat.sorapi.dev/), [3](https://ffa.chat/) - GPT-4o / Multiple Chatbots
 * [GPT4o.so](https://gpt4o.so/app) - GPT-4o
 * [Zhucn](https://zhucn.org/) - GPT-4o Mirror Pool
-* [LibreChat](https://librechat.ai/) - Multiple Chatbots
+* [LibreChat](https://librechat.ai/) - Multiple Chatbots / [Discord](https://discord.librechat.ai/)
 * [DuckDuckGo AI](https://duck.ai/) - Multiple Chatbots
 * [HuggingChat](https://huggingface.co/chat/) - Open-Source Chatbots
 * [infermatic](https://infermatic.ai/) / [Discord](https://discord.gg/9GUXmDx9GF) - Multiple Chatbots
