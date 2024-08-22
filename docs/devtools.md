@@ -613,7 +613,6 @@
 * [Package Control](https://packagecontrol.io/) - Sublime Text Package Manager
 * [pylyzer](https://github.com/mtshiba/pylyzer) - Static Code Analyzer
 * [Bacon](https://github.com/Canop/bacon) - Background Rust Code Check
-* [egui](https://github.com/emilk/egui) - Rust GUI
 * [editorcornfig](https://editorconfig.org/) - Maintain Code Styles Across Editors
 * [ThemesElection](https://themeselection.com/), [NordTheme](https://www.nordtheme.com/) or [Dracula](https://draculatheme.com/) - Code Editor Themes
 * [Freeze](https://github.com/charmbracelet/freeze) - Generate Images of Code / Terminal Output
