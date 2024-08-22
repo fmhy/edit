@@ -495,13 +495,14 @@
 
 ## ▷ Reverse Image Search
 
+* ⭐ **[Yandex Images](https://yandex.com/images/)** - Image Search
+* ⭐ **[Google Lens](https://lens.google.com/)** - Image Search
 * ⭐ **[Search by Image](https://github.com/dessant/search-by-image)** - Browser Extension
 * ⭐ **[SauceNao](https://saucenao.com/)** - Multi Site Search / [Extension](https://saucenao.com/tools/)
 * ⭐ **[SmartImage](https://github.com/Decimation/SmartImage)** - Multi Site Search App
-* ⭐ **[Yandex Images](https://yandex.com/images/)** - Image Search
 * ⭐ **[TinEye](https://tineye.com/)** - Image Search / [Extension](https://tineye.com/extensions)
+* [Bing Visual Search](https://www.bing.com/visualsearch)
 * [IQDB](https://iqdb.org/) - Multi Site Search
-* [Google Images](https://images.google.com/) - Image Search
 * [CopySeeker](https://copyseeker.net/) - Image Search
 * [MaxURL](https://qsniyg.github.io/maxurl/) - Larger Image Search / [GitHub](https://github.com/qsniyg/maxurl)
 * [VISE](https://www.robots.ox.ac.uk/~vgg/software/vise/) - Image Search with Search Queries
