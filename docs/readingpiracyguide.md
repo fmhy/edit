@@ -139,7 +139,7 @@
 
 ## ▷ PDF Search
 
-* ⭐ **[PDF Drive](https://www.pdfdrive.com/)** - Books
+* ⭐ **[PDF Drive](https://www.pdfdrive.com/)** / [2](https://pdfdrive.to/) - Books
 * [8kun Library](https://8kun.top/pdfs/index.html) - Books
 * [Ocean of PDF](https://oceanofpdf.com/) - Books / Comics
 * [pdfroom](https://pdfroom.com/) - Books / Comics
