@@ -413,7 +413,7 @@
 * [DNS Speed Test & Changer](https://rentry.co/FMHYBase64#dns-speed-test-changer) - DNS Speed Test
 * [PrivateDNSAndroid](https://github.com/karasevm/PrivateDNSAndroid) - DNS Switchers
 * [ad-free](https://abertschi.github.io/ad-free/landing/) - Audio Adblocking App
-* [piko](https://github.com/crimera/piko) - Remove Twitter App Ads
+* [piko](https://github.com/crimera/piko) / [Telegram](https://t.me/pikopatches) - Remove Twitter App Ads
 
 ***
 
