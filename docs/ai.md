@@ -296,6 +296,7 @@
 * [Krea](https://www.krea.ai/home) / [Discord](https://discord.gg/rJurUAR8Kz)
 * [ArtHub.ai](https://arthub.ai/)
 * [HotPot](https://hotpot.ai/)
+* [GenXi](https://genxi.ai/)
 * [clipdrop](https://clipdrop.co/tools)
 * [imgsys](https://imgsys.org/) - Compare AI Image Generators
 * [MemeCam](https://www.memecam.io/) - AI Meme Generator
