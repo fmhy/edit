@@ -1593,6 +1593,7 @@
 * [Teyit](https://teyit.org) - News Confirmation
 
 ## ▷ Downloading / İndirme
+
 * ⭐ [Android Oyun Club](https://androidoyun.club/)
 * [Türkçe Altyazı](https://turkcealtyazi.org/) - Subtitles
 * [Turkish Audio Center](https://www.turkishaudiocenter.com), [Shareses](https://shareses.com), [Türkçe Ses İndir](https://www.turkcesesindir.com/), [Dw Force](http://dwa-audio.blogspot.com/), [Tr Sound Track](https://trsoundtrack.blogspot.com/) - Turkish dubs
