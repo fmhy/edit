@@ -223,6 +223,7 @@
 * [ScribbleDiffusion](https://scribblediffusion.com/) - Turn Doodles into Artwork
 * [MonsterMash](https://monstermash.zone/) - Sketch-Based Modeling & Animation Tool
 * [Animated Drawings](https://sketch.metademolab.com/), [FAIR Animated Drawings](https://fairanimateddrawings.com/site/home), [MotorPen](https://motorpen.com/) or [Scratch](https://scratch.mit.edu/) - Animate Drawings
+* [Mutsuacen](https://mutsuacen.com/) - Create Moving Drawings
 * [DrawingNow](https://www.drawingnow.com/) - Learn to Draw
 
 ***
@@ -495,13 +496,14 @@
 
 ## ▷ Reverse Image Search
 
+* ⭐ **[Yandex Images](https://yandex.com/images/)** - Image Search
 * ⭐ **[Search by Image](https://github.com/dessant/search-by-image)** - Browser Extension
 * ⭐ **[SauceNao](https://saucenao.com/)** - Multi Site Search / [Extension](https://saucenao.com/tools/)
 * ⭐ **[SmartImage](https://github.com/Decimation/SmartImage)** - Multi Site Search App
-* ⭐ **[Yandex Images](https://yandex.com/images/)** - Image Search
+* ⭐ **[Google Lens](https://www.google.com/?olud)** - Image Search
 * ⭐ **[TinEye](https://tineye.com/)** - Image Search / [Extension](https://tineye.com/extensions)
+* [Visual Search](https://www.bing.com/visualsearch) - Image Search
 * [IQDB](https://iqdb.org/) - Multi Site Search
-* [Google Images](https://images.google.com/) - Image Search
 * [CopySeeker](https://copyseeker.net/) - Image Search
 * [MaxURL](https://qsniyg.github.io/maxurl/) - Larger Image Search / [GitHub](https://github.com/qsniyg/maxurl)
 * [VISE](https://www.robots.ox.ac.uk/~vgg/software/vise/) - Image Search with Search Queries
@@ -768,7 +770,7 @@
 * ⭐ **[Color Designer](https://colordesigner.io/gradient-generator)**, [Super Color Palette](https://supercolorpalette.com/) or [Coolors](https://coolors.co/) - Color Palette Generators
 * [Color Space](https://mycolor.space/) - Generate Gradient Color Palettes
 * [Colors Wall](https://colorswall.com/) or [ColorKit](https://colorkit.co/color-palette-generator/) - Generate Random Color Palettes
-* [Color Palette Generator](https://www.degraeve.com/color-palette) or [Color Picker](https://imagecolorpicker.com/) - Generate Color Palettes from Images
+* [Color Palette Generator](https://www.degraeve.com/color-palette), [Palitra](https://palitra.app/) or [Color Picker](https://imagecolorpicker.com/) - Generate Color Palettes from Images
 * [Color Kit](https://colorkit.io/) - Generate Color Palettes by Mixing 2 Colors
 * [Pigment](https://pigment.shapefactory.co/), [Eva Design System](https://colors.eva.design/), [Scale](https://hihayk.github.io/scale/), [copypalette](https://copypalette.app/), [Personal Color Analysis](https://www.personal-color-analysis.com/) or [Huey](https://huey.design/) - Simple Color Palette Generators
 * [ColorBox](https://colorbox.io/), [hue.tools](https://hue.tools/), [Randoma11y](https://randoma11y.com/), [accessiblepalette](https://accessiblepalette.com/) or [colorcolor](https://colorcolor.in/) - Advanced Color Palette Generators

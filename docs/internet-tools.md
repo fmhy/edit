@@ -20,7 +20,7 @@
 ## ▷ Network Tools
 
 * ↪️ **[Speed Test Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_speed_test_sites)**
-* [Pinging](https://www.pinging.net/) - Internet Uptime Monitor
+* [Pinging](https://www.pinging.net/) or [PingTracer](https://github.com/bp2008/pingtracer) - Internet Uptime / Ping Monitors
 * [NetBlocks](https://api.webprobe.org/) or [OpenNetMeter](https://github.com/Ashfaaq18/OpenNetMeter) - Internet Performance Monitor
 * [WiFi Analyzer](https://apps.microsoft.com/store/detail/wifi-analyzer/9NBLGGH33N0N) - WiFi Analyzer
 * [WireShark](https://www.wireshark.org/) - Network Protocol Analyzer / [Profiles](https://github.com/amwalding/wireshark_profiles)
@@ -64,6 +64,7 @@
 
 ## ▷ Bookmark Managers
 
+* ⭐ **[Sidebery](https://github.com/mbnuqw/sidebery)** - Extension
 * ⭐ **[Raindrop.io](https://raindrop.io/)**
 * [Auto-Sort Bookmarks](https://github.com/eric-bixby/auto-sort-bookmarks-webext) - Bookmark Sorting Extension
 * [Floccus](https://floccus.org/) - Browser Bookmark Sync Extension / [GitHub](https://github.com/floccusaddon/floccus)
@@ -73,7 +74,6 @@
 * [Bookmarklets Guide](https://rentry.co/bookmarklets-guide) - Useful Bookmarklets / Guide
 * [wallabag](https://wallabag.org/) - Save and Classify Articles
 * [SuperMemory](https://supermemory.ai/) - AI Bookmark App
-* [Sidebery](https://github.com/mbnuqw/sidebery) - Extension
 * [Bookmarks Organizer](https://github.com/cadeyrn/bookmarks-organizer) - Extension
 * [Centroly](https://centroly.com/) - Extension
 * [Omni](https://github.com/alyssaxuu/omni) - Extension
@@ -112,6 +112,7 @@
 * [LinkSnatch](https://linksnatch.pages.dev/)
 * [KeepThisSite](https://keepthis.site/)
 * [ln.ht](https://ln.ht/), [link.horse](https://link.horse/) or [tinygem](https://tinygem.org/) - Social Bookmarking
+* [GetBookmarklets](https://getbookmarklets.com/) - Download / Share Bookmarklets
 * [linkwarden](https://github.com/linkwarden/linkwarden) - Self-Hosted Bookmark Manager
 
 ***
@@ -119,7 +120,7 @@
 ## ▷ Paywall Bypass
 
 * ⭐ **[Archive.is](https://archive.is/)** - Archived Articles
-* ⭐ **[Bypass Paywalls Clean](https://gitflic.ru/project/magnolia1234/bpc_uploads)** / [Filter List](https://github.com/bpc-clone/bypass-paywalls-clean-filters) / [Twitter](https://twitter.com/Magnolia1234B) - Browser Extensions
+* ⭐ **[Bypass Paywalls Clean](https://gitflic.ru/project/magnolia1234/bpc_uploads)** / [Twitter](https://twitter.com/Magnolia1234B) - Browser Extensions
 * ⭐ **[Freedium](https://freedium.cfd/)**, [Medium Parser](https://github.com/Xatta-Trone/medium-parser-extension) or [Medium For All](https://medium-forall.vercel.app/) - Bypass Medium Paywalls
 * ⭐ **[wallabag](https://wallabag.org/)** / [Discord Bot](https://github.com/FahadBinHussain/wallabot) or [Ladder](https://github.com/everywall/ladder) - Self-Hosted
 * [Smry.ai](https://www.smry.ai/) - Article Paywall Bypass
@@ -146,7 +147,6 @@
 * [Hipolink](https://hipolink.net/)
 * [Linkr](https://linkr.com/)
 * [LinkMix](https://linkmix.co/)
-* [LinkPop](https://linkpop.com/)
 * [Mylinx](https://mylinx.cc/)
 * [LinkBun](https://linkbun.io)
 * [pronouns.cc](https://pronouns.cc/) - Share Preferred Pronouns
@@ -271,7 +271,6 @@
 * [Is it big?](https://isitbig.org/) - Brand Corporation Connection Search
 * [ImportYeti](https://www.importyeti.com/) - Search U.S. Customs Shipment Records
 * [Social-Analyzer](https://github.com/qeeqbox/social-analyzer) - Profile Search CLI
-* [Justia](https://trademarks.justia.com/) - Trademark Search
 * [TMHunt](http://www.tmhunt.com/) - Clothing Trademark Search
 * [BrownBook](https://www.brownbook.net/) - Business Listing Search
 * [txtai](https://neuml.github.io/txtai/) - Build Semantic Search Apps
@@ -566,6 +565,7 @@
 * [MintEmail.com](https://www.mintemail.com/), [tempail.com](https://tempail.com/) or [tempmail.zone](https://tempmail.zone/) - 1 Hour / 1 Hour / 1 Domain
 * [Mohmal](https://www.mohmal.com/en) - 45 Mins / 45 Mins / 1 Domain
 * [MinuteInbox](https://minuteinbox.com/), [10minemail.com](https://10minemail.com/), [10minutesemail.net](https://10minutesemail.net/) or [10minutemail.com](https://10minutemail.com/) - 10 Minute Lifespan Emails
+* [PhantomSign](https://phantomsign.com/)
 * [mail-temp.com](https://mail-temp.com/) or [emailfake.com](https://emailfake.com/) - 50+ Domains
 * [1secMail](https://www.1secmail.com/) - 8 Domains
 * [AnonymMail.net](https://anonymmail.net/), [Tmail.gg](https://tmail.gg/) or [Mail.td](https://mail.td/) - 5 Domains
@@ -595,7 +595,6 @@
 * ⭐ **[DuckDuckGo Email Protection](https://duckduckgo.com/email/)** - Email Aliasing
 * [Mailvelope](https://mailvelope.com/) - Email Aliasing Extension
 * [scr.im](http://scr.im/) - Email Aliasing
-* [altmails](https://altmails.com/) - Email Aliasing
 * [Mailgw](https://mailgw.com/) - Email Aliasing
 * [erine.email](https://erine.email/) - Email Aliasing
 * [33mail](https://33mail.com/) - Email Aliasing

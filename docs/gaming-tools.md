@@ -4,7 +4,7 @@
 ***
 ***
 
-***
+***1
 
 # ► Gaming Tools
 
@@ -166,6 +166,7 @@
 * [Spud Controller](https://sadwhale-studios.itch.io/) - Controller / Mouse Input Displays
 * [PC Remote](https://play.google.com/store/apps/details?id=com.monect.portable) - Use Phone as Controller
 * [Gamepad-Tester](https://gamepad-tester.com/) or [AresLuna](https://aresluna.org/gamepad-tester/) - Controller Connectivity Testers
+* [hidusbf](https://github.com/LordOfMice/hidusbf) - Decrease DS4/5 Input Lag / [Video](https://youtu.be/x0wcJM4FtXQ )
 * [HidHide](https://docs.nefarius.at/projects/HidHide/) - Input Device Firewall
 * [Whitescent Engine](https://apt.izzysoft.de/fdroid/index/apk/com.github.whitescent.engine) - Use Phone as Joy Stick / [GitHub](https://github.com/whitescent/Engine)
 * [JoystickGremlin](https://whitemagic.github.io/JoystickGremlin/) - Remap Joystick Devices
@@ -395,15 +396,14 @@
 
 ## ▷ Switch Homebrew
 
-* ⭐ **[Switch Guide](https://nh-server.github.io/switch-guide/)** - Switch Homebrew Guide
-* ⭐ **[Switchway](https://switchway.net/)** - Switch Homebrew Guide
-* [Switch Hacking Is Easy](https://rentry.org/SwitchHackingIsEasy) - Switch Homebrew Guide
+* ⭐ **[Switch Hacking Is Easy](https://rentry.co/FMHYBase64#switch-hacking-is-easy)** - Switch Homebrew Guide
+* ⭐ **[Homebrew App Store](https://hb-app.store/)** - Switch / WiiU Homebrew App Store
+* [Switch Guide](https://nh-server.github.io/switch-guide/) - Switch Homebrew Guide
+* [Switchway](https://switchway.net/) - Switch Homebrew Guide
 * [/r/SwitchPirates](https://www.reddit.com/r/SwitchPirates/) or [/r/SwitchHacks](https://reddit.com/r/SwitchHacks) - Switch Homebrew Subreddits
 * [LAN Play Status](http://lan-play.com/) or [Switch-LAN-Play](https://github.com/spacemeowx2/switch-lan-play) / [Discord](https://discord.gg/PUEmfV4) - Switch Multiplayer Servers
 * [FlagBrew](https://flagbrew.org/) - Switch / [Discord](https://discord.com/invite/4Rv8DTzGFa)
 * [NSP Forwarder](https://nsp-forwarder.n8.io/) - Switch NSP Forwarder
-* [DeepSea](https://github.com/Team-Neptune/DeepSea) - Switch CFW Package
-* [emuiibo](https://github.com/XorTroll/emuiibo) - Amiibo Emulator
 
 ***
 
@@ -414,6 +414,7 @@
 * ⭐ **[Wii U Hacks Guide](https://wiiu.hacks.guide/)** - Wii U Jailbreak Guide
 * ⭐ **[Wii Hacks Guide](https://wii.hacks.guide/)** - Wii Jailbreak Guides
 * ⭐ **[Wiimmfi](https://wiimmfi.de/)** or [WiiLink](https://wfc.wiilink24.com/) - Wii Multiplayer Servers
+* ⭐ **[Homebrew App Store](https://hb-app.store/)** - Switch / WiiU Homebrew App Store
 * [Pretendo](https://pretendo.network/) - Wii U Network Replacement
 * [/r/WiiUHacks](https://www.reddit.com/r/WiiUHacks/) - Wii U Homebrew Subreddit
 * [/r/WiiHacks](https://www.reddit.com/r/WiiHacks/) - Wii Homebrew Subreddit
@@ -477,6 +478,7 @@
 * [ViveCraft](https://www.vivecraft.org/) - VR Minecraft
 * [Skyclient](https://skyclient.co/) - Hypixel Asset Installer
 * [SkyCrypt](https://sky.shiiyu.moe/) - SkyBlock Stats
+* [MC Icons](https://mcicons.pages.dev/) - Minecraft Icon Search / [Github](https://github.com/kuronekony4n/mcicons)
 * [Pixelart Builder](https://play.google.com/store/apps/details?id=com.electricfoal.photocrafter&hl=en&gl=US) or [PixelStacker](https://taylorlove.info/pixelstacker/) - Turn Photos into Minecraft Art
 * [Block Palettes](https://www.blockpalettes.com/) or [Block Colors](https://blockcolors.app/) - Block Color Palettes
 * [The Minecraft Archive Project](https://map.crummy.com/) - Minecraft Archive
@@ -492,7 +494,7 @@
 * 🌐 **[FMHL](https://fmhl.devloo.xyz/)** - Free Minecraft Hosts List
 * ⭐ **[Playit.gg](https://playit.gg/)** - Global Proxy / [Discord](https://discord.gg/AXAbujx)
 * ⭐ **[paper-optimization](https://paper-chan.moe/paper-optimization/)** or [minecraft-optimization](https://github.com/YouHaveTrouble/minecraft-optimization) - Server Optimization Guides
-* ⭐ **[auto-mcs](https://www.auto-mcs.com/)** - Easy Server Setup
+* ⭐ **[auto-mcs](https://www.auto-mcs.com/)** - Easy Server Setup / [GitHub](https://github.com/macarooni-man/auto-mcs)
 * [e4mc](https://modrinth.com/mod/e4mc) / [Lan Server Properties](https://www.curseforge.com/minecraft/mc-mods/lan-server-properties), [World Host](https://modrinth.com/mod/world-host) or [Essential](https://modrinth.com/mod/essential) - Local Server Multiplayer Mods
 * [setup.md](https://setup.md/) - Server Admin Guides / Wiki
 * [CraftyControl](https://craftycontrol.com/), [MCSManager](https://mcsmanager.com/) or [Fork](https://www.fork.gg/) - Minecraft Server Managers

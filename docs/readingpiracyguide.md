@@ -18,6 +18,7 @@
 * [BookAudiobook](https://bookaudiobooks.com/) - Listen Online
 * [GalaxyAudiobooks](https://galaxyaudiobook.com/) - Listen Online / DL: [audiobooksnatcher](https://github.com/nazdridoy/audiobooksnatcher)
 * [Audiobooks Lab](https://audiobooklabs.com/) - Listen Online
+* [zAudiobooks](https://zaudiobooks.com/) - Listen Online
 * [Find Audiobook](https://findaudiobook.com/) - Listen Online
 * [Audio AZ](https://audioaz.com/) - Listen Online
 * [AudioBooksBeyond](https://odysee.com/@AudioBooksBeyond:1) - Listen Online
@@ -385,11 +386,8 @@
 * [Mangairo](https://h.mangairo.com/)
 * [OniManga](https://onimanga.com)
 * [MangaBat](https://m.mangabat.com/)
-* [MangaEffect](https://mangaeffect.com/)
 * [Mangahasu](https://mangahasu.se/)
 * [mangapill](https://mangapill.com/)
-* [MangaRead](https://www.mangaread.org/)
-* [MangaSail](https://www.sailmanga.com/)
 * [MangaHere](https://www.mangahere.cc/) or [MangaFox](https://fanfox.net/)
 * [MangaBuddy](https://mangabuddy.com), [MangaForest](https://mangaforest.me/) or [MangaMirror](https://mangamirror.com/)
 * [MP4DIRECTS](https://mp4directs.com/) - Manga / Light Novels Download Forum
@@ -407,6 +405,8 @@
 
 ***
 
+* ⭐ **[ComicK](https://comick.io/)**, [2](https://comick.cc/) - [Discord](https://discord.gg/comick)
+* ⭐ **[BATO.TO](https://bato.to/)** - [Discord](https://discord.com/invite/batoto) / [Proxies](https://rentry.co/batoto)
 * ⭐ **[Webtoon](https://www.webtoons.com/)**
 * ⭐ **[Toonily](https://toonily.com/)**
 * [Like Manga](https://likemanga.io/)
@@ -889,7 +889,6 @@ https://www.wuxiaspot.com/
 * [/r/VisualNovel Recs](https://sites.google.com/view/rvisualnovels-recs/) or [VN Recs](https://vnrecs.github.io/) - Visual Novel Recommendations
 * [rate.house](https://rate.house/) - Media Tracker
 * [libib](https://www.libib.com/) - Desktop Media Catalog
-* [MythBank](https://mythbank.com/) - Media Timelines / Watch Orders
 
 ***
 
