@@ -46,11 +46,10 @@
 * [APKCombo](https://apkcombo.com/)
 * [Top Androids](https://top-androids.com/)
 * [APK Thing](https://www.apkthing.com/)
-* [APKGit](https://apkgit.co/)
+* [APKSum](https://www.apksum.com/)
 * [APKMonk](https://www.apkmonk.com/)
 * [APKToy](https://www.apktoy.com/)
 * [APKamp](https://apkamp.com/)
-* [APKSum](https://www.apksum.com/)
 * [APKKit](https://apkkit.com/)
 * [Material-You-app-list](https://github.com/nyas1/Material-You-app-list)
 * [NikGapps](https://nikgapps.com/) - Google App Packages / [Telegram](https://t.me/NikGapps)
@@ -62,7 +61,7 @@
 
 * 🌐 **[OS Apps](https://github.com/pcqpcq/open-source-android-apps)**, [AAA](https://github.com/Psyhackological/AAA), [Cool FOSS](https://albertomosconi.github.io/foss-apps/) or [Android FOSS](https://github.com/offa/android-foss) - FOSS App Indexes
 * 🌐 **[Awesome Shizuku](https://github.com/timschneeb/awesome-shizuku)** - Shizuku App Index / [Tools](https://github.com/legendsayantan/ShizuTools)
-* ⭐ **[FossifyOrg](https://github.com/FossifyOrg)** - FOSS Apps 
+* ⭐ **[FossifyOrg](https://github.com/FossifyOrg)** - FOSS Simple Apps 
 * ⭐ **[Droid-ify](https://github.com/Droid-ify/client)**, [F-Droid](https://f-droid.org/) or [Neo Store](https://github.com/NeoApplications/Neo-Store) - FOSS App Installer / [Basic](https://f-droid.org/en/packages/org.fdroid.basic/)
 * F-Droid Tools - [Repositories](https://forum.f-droid.org/t/known-repositories/) / [Resources](https://fdroidfamily.codeberg.page/) / [Desktop](https://github.com/mvdan/fdroidcl) / [Build Status](https://codeberg.org/pstorch/F-Droid_Build_Status)
 * [IzzyOnDroid](https://android.izzysoft.de/applists.php) - FOSS Apps / [F-Droid](https://apt.izzysoft.de/fdroid/index.php)
