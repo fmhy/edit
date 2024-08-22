@@ -13,33 +13,29 @@
 * ↪️ **[Spotify Adblockers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/audio#wiki_.25B7_spotify_adblockers)**
 * ↪️ **[Twitch Adblockers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/social-media#wiki_.25B7_twitch_adblockers)**
 * ↪️ **[Bypass Article Paywalls](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools#wiki_.25B7_paywall_bypass)**
-* ⭐ **[uBlock Origin](https://github.com/gorhill/uBlock#installation)** - Adblocker
-* ⭐ **uBO Resources** - [Report Issues](https://github.com/uBlockOrigin/uAssets/issues) / [Report Hosts](https://github.com/uBlockOrigin/uAssets/discussions/17361) / [Guides](https://www.reddit.com/r/uBlockOrigin/wiki/index/) / [Advanced](https://youtu.be/2lisQQmWQkY) / [Redundant Extensions](https://github.com/arkenfox/user.js/wiki/4.1-Extensions/#-dont-bother)
-* ⭐ **[SponsorBlock](https://sponsor.ajay.app/)** - Skip Sponsored YouTube Ads / [Script](https://github.com/mchangrh/sb.js), [2](https://greasyfork.org/en/scripts/453320)
+* ⭐ **[uBlock Origin](https://github.com/gorhill/uBlock#installation)** - Wide-spectrum content/ad blocker
+* ⭐ **uBO Resources** - [Github Wiki](https://github.com/gorhill/uBlock/wiki) / [Reddit Wiki](https://www.reddit.com/r/uBlockOrigin/wiki/index/) / [Advanced Tutorial](https://youtu.be/2lisQQmWQkY) / [Redundant Extensions](https://github.com/arkenfox/user.js/wiki/4.1-Extensions/#-dont-bother)
+* ⭐ **Report Issues** - [uAssets](https://github.com/uBlockOrigin/uAssets/issues) / [Hosts](https://github.com/uBlockOrigin/uAssets/discussions/17361) / [AdGuardFilters](https://reports.adguard.com/new_issue.html) / [EasyList](https://github.com/easylist/easylist/issues) / [DandelionSprout adfilt](https://github.com/DandelionSprout/adfilt/issues)
+* ⭐ **[SponsorBlock](https://sponsor.ajay.app/)** - Crowdsourced unwanted YouTube segments skipper / [Script](https://github.com/mchangrh/sb.js), [2](https://greasyfork.org/en/scripts/453320)
 * ⭐ **[Disblock Origin](https://codeberg.org/AllPurposeMat/Disblock-Origin)** or [Discord Adblock](https://github.com/CroissantDuNord/discord-adblock) - Hide Discord Nitro / Boost Ads
 * ⭐ **[BehindTheOverlay](https://github.com/NicolaeNMV/BehindTheOverlay)** - Hide Website Overlays
 * ⭐ **[OpenVideo](https://openvideofs.github.io)** or [Stream-Bypass](https://github.com/ByteDream/stream-bypass) - Play Videos in Ad-Free Player
-* [uBO Lite](https://github.com/uBlockOrigin/uBOL-home) - MV3 Compatible for Chrome Users / [Note](https://rentry.org/nzvohpzf)
-* [fadblock](https://github.com/0x48piraj/fadblock) or [Disable YT Video Ads](https://greasyfork.org/en/scripts/32626) - YouTube Adblockers
+* [uBO Lite](https://github.com/uBlockOrigin/uBOL-home) - MV3 Compatible AdBlocker for Chromium-based browsers / [Note](https://rentry.org/nzvohpzf)
 * [Ad Blitz](https://ad-blitz.vercel.app/) - Speed Up YouTube Ads instead of Skipping to Support Creators
 * [Popupblocker All](https://addons.mozilla.org/en-US/firefox/addon/popupblockerall/), [PopUpOFF](https://romanisthere.github.io/PopUpOFF-Website/index.html) or [PopupBlocker](https://github.com/AdguardTeam/PopupBlocker) - Popup / New Tab Blockers
 * [Adguard](https://github.com/AdguardTeam/AdguardBrowserExtension#installation) - Adblocker
-* [Adblock Tester](https://adblock-tester.com/) or [AdBlocker Test](https://d3ward.github.io/toolz/adblock.html) - Adblocking Tests
+* [Test Ad Block](https://d3ward.github.io/toolz/adblock.html) or [Adblock Tester](https://adblock-tester.com/) - Adblocking Tests
 * [12ft.io](https://12ft.io/) - Share Ad-Free URLs
 
 ***
 
 ## ▷ Adblock Filters
-
+* ⭐ **Filterlists Maintainers Repos** - [uAssets](https://github.com/uBlockOrigin/uAssets) / [AdGuard](https://github.com/AdguardTeam/AdguardFilters) / [EasyList](https://github.com/easylist/easylist) / [DandelionSprout adfilt](https://github.com/DandelionSprout/adfilt)
 * ⭐ **[yokoffing's Recommended Filters](https://github.com/yokoffing/filterlists)**
 * ⭐ **[LegitimateURLShortener](https://github.com/DandelionSprout/adfilt/blob/master/LegitimateURLShortener.txt)**
 * [FilterLists](https://filterlists.com/) Filter and host lists directory
-* [Adbox](http://raymondhill.net/ublock/adbox.html) - Test Filters
-* [DandelionSprout adfilt](https://github.com/DandelionSprout/adfilt)
-* [FMHY Filterlist](https://fmhy.github.io/FMHYFilterlist/site/index.html), [2](https://fmhy.github.io/FMHYFilterlist/) - Unsafe Sites Filter
-* [Facebook Filters](https://www.reddit.com/r/uBlockOrigin/wiki/solutions#wiki_facebook)
+* [FMHY Filterlist](https://fmhy.github.io/FMHYFilterlist/site/index.html), [2](https://fmhy.github.io/FMHYFilterlist/) - Unsafe Sites Filter for all blockers
 * [Clear URLs for uBO](https://github.com/DandelionSprout/adfilt/blob/master/ClearURLs%20for%20uBo/clear_urls_uboified.txt)
-* [webannoyances](https://github.com/yourduskquibbles/webannoyances)
 * [NoADS_RU](https://raw.githubusercontent.com/Zalexanninev15/NoADS_RU/main/ads_list.txt)
 * [Anifiltrs](https://github.com/Karmesinrot/Anifiltrs)
 

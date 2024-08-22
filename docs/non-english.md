@@ -1586,6 +1586,7 @@
 
 # ► Turkish / Türkçe
 
+* ⭐ [Yandex TR](https://yandex.com.tr) - Uncensored search engine / Good for Media&File searches
 * [Playstation Haber](https://playstationhaber.com/) - PlayStation Piracy Forum
 * [MCpsp](https://www.mcpsp.com) - PlayStation Piracy Forum
 * [En ucuz oyun](https://www.enucuzoyun.com) - Price Tracker
@@ -1593,6 +1594,7 @@
 
 ## ▷ Downloading / İndirme
 
+* ⭐ [Android Oyun Club](https://androidoyun.club/)
 * [Türkçe Altyazı](https://turkcealtyazi.org/) - Subtitles
 * [Turkish Audio Center](https://www.turkishaudiocenter.com), [Shareses](https://shareses.com), [Türkçe Ses İndir](https://www.turkcesesindir.com/), [Dw Force](http://dwa-audio.blogspot.com/), [Tr Sound Track](https://trsoundtrack.blogspot.com/) - Turkish dubs
 * [Sinner Clown](https://sinnerclownceviri.net) / [Discord](https://discord.com/invite/nApvcT6Tt6), [Pixel Saga](https://discord.gg/ZZER4w3Mmx), [Hangar](https://www.hangarceviri.com) - Game Localization
