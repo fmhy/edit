@@ -35,7 +35,7 @@
 * [SFlix](https://sflix.to/), [2](https://vidstream.to/), [3](https://gostream.to/) - Movies / TV / 1080p / [Clones](https://rentry.co/sflix)
 * [MP4Hydra](https://mp4hydra.org/), [2](https://mp4hydra.top/) - Movies / 1080p / [Mirrors](https://mp4hydra.info/)
 * [CinemaUnlocked](https://cinemaunlocked.com/) - Movies / TV / Anime / 1080p
-* [Heartive](https://heartive.pages.dev/live/) - Movies / TV / Anime / 4K / 1080p
+* [Heartive](https://heartive.pages.dev/) - Movies / TV / Anime / 1080p
 * [AZMovies](https://azm.to/) - Movies  / 1080p
 * [M4uFree](https://m4ufree.se/) - Movies / TV / Anime / 1080p / [Clones](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_m4ufree_clones)
 * [Hopcorn](https://c.hopmarks.com/) - Movies / TV / Anime / 4K / 1080p
