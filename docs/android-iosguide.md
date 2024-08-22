@@ -345,11 +345,11 @@
 
 * 🌐 **[Android ROM Comparisons](https://eylenburg.github.io/android_comparison.htm)** or [Android ROM List](https://github.com/musabcel/android_rom_list)
 * ⭐ **[CustomRomBay](https://customrombay.org/)** - ROMs Compatibility Search
-* ⭐ **[GrapheneOS](https://grapheneos.org/)** - Privacy-Based OS
+* ⭐ **[GrapheneOS](https://grapheneos.org/)** - Privacy-Based OS / [Discord](https://discord.com/invite/grapheneos) / [Telegram](https://t.me/GrapheneOS)
 * [CalyXOS](https://calyxos.org/) - Privacy-Based OS
 * [DivestOS](https://divestos.org/) - Privacy-Based OS
-* [LineageOS](https://www.lineageos.org/) - CyanogenMod Fork / [MicroG](https://lineage.microg.org/)
-* [BlissROMs](https://blissroms.org/) - Customizable / Open-Source OS
+* [LineageOS](https://www.lineageos.org/)- CyanogenMod Fork / [Discord](https://discord.gg/gD6DMtf) / [MicroG](https://lineage.microg.org/)
+* [BlissROMs](https://blissroms.org/) - Customizable / Open-Source OS / [Telegram](https://t.me/Team_Bliss_Community)
 
 ***
 
