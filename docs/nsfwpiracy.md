@@ -86,6 +86,7 @@
 ## ▷ Adult Movies / Grindhouse
 
 * ⭐ **[NSFW Movie Site Search](https://cse.google.com/cse?cx=006516753008110874046:3-svpblbro8)** / [2](https://cse.google.com/cse?cx=b5a63746fc84a456d)
+* ⭐ **[Noodlemagazine](https://noodlemagazine.com)**, [2](https://mat6tube.com/), [3](https://18.tyler-brown.com/), [4](https://waterdamagesandiego.org/), [5](https://hot.exporntoons.net/), [6](https://actionviewphotography.com/), [7](https://ukdevilz.com/) - Search Engine
 * ⭐ **[Film1k](https://www.film1k.com/)**
 * ⭐ **[RareLust](https://rarelust.com/movies-index/)**
 * ⭐ **[PandaMovies](https://pandamovies.pw/)**
