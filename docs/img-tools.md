@@ -1,4 +1,4 @@
-***
+![image](https://github.com/user-attachments/assets/6efb857c-a755-468b-94ab-1717505a18dc)***
 ***
 **[◄◄ Back to Wiki Index](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/tools-index)**
 ***
@@ -172,6 +172,8 @@
 * [NoiseDeck](https://noisedeck.app/) - Art Generator
 * [Pulp-O-Mizer](https://thrilling-tales.webomator.com/derange-o-lab/pulp-o-mizer/pulp-o-mizer.html ) - Vintage Magazine Cover Generator
 * [Mirro-Ai](https://mirror-ai.com/) - Get Stickers with Your Face
+* [Ideogram 2.0 AI generator]([https://mirror-ai.com/](https://fluximage.app/models/Ideogram/V-2)) - Best AI tool for precise text rendering and design
+
 
 ***
 
