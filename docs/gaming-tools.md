@@ -4,8 +4,6 @@
 ***
 ***
 
-***1
-
 # ► Gaming Tools
 
 * ↪️ **[Media Posters / Covers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_covers_.2F_posters)**
