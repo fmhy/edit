@@ -1597,7 +1597,7 @@
 * [Android Oyun Club](https://androidoyun.club/apks) - APKs
 * [Türkçe Altyazı](https://turkcealtyazi.org/) - Subtitles
 * [Turkish Audio Center](https://www.turkishaudiocenter.com), [Shareses](https://shareses.com), [Türkçe Ses İndir](https://www.turkcesesindir.com/), [Dw Force](http://dwa-audio.blogspot.com/), [Tr Sound Track](https://trsoundtrack.blogspot.com/) - Turkish dubs
-* [Sinner Clown](https://sinnerclownceviri.net) / [Discord](https://discord.com/invite/nApvcT6Tt6),[Calypso](https://discord.com/invite/9zJe7ttAjS),[Makine Çeviri](https://discord.com/invite/QDezpy4QtV), [Pixel Saga](https://discord.gg/ZZER4w3Mmx), [Hangar](https://www.hangarceviri.com), [NSFW Games](https://fmhy.pages.dev/nsfwpiracy#games) - Game Localization
+* [Sinner Clown](https://sinnerclownceviri.net) / [Discord](https://discord.com/invite/nApvcT6Tt6), [Calypso](https://discord.com/invite/9zJe7ttAjS), [Makine Çeviri](https://discord.com/invite/QDezpy4QtV), [Pixel Saga](https://discord.gg/ZZER4w3Mmx), [Hangar](https://www.hangarceviri.com), [NSFW](https://fmhy.pages.dev/nsfwpiracy#games) - Game Localization
 
 ## ▷ Streaming / İzleme
 
