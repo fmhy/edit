@@ -31,14 +31,11 @@
 
 ## ▷ Adblock Filters
 
-* ⭐ **Maintainer Repos** - [uAssets](https://github.com/uBlockOrigin/uAssets) / [AdGuard](https://github.com/AdguardTeam/AdguardFilters) / [EasyList](https://github.com/easylist/easylist) / [DandelionSprout adfilt](https://github.com/DandelionSprout/adfilt)
 * ⭐ **[yokoffing's Recommended Filters](https://github.com/yokoffing/filterlists)**
 * ⭐ **[LegitimateURLShortener](https://github.com/DandelionSprout/adfilt/blob/master/LegitimateURLShortener.txt)**
 * [FilterLists](https://filterlists.com/) Filter and host lists directory
 * [FMHY Filterlist](https://fmhy.github.io/FMHYFilterlist/site/index.html), [2](https://fmhy.github.io/FMHYFilterlist/) - Unsafe Sites Filter
 * [Clear URLs for uBO](https://github.com/DandelionSprout/adfilt/blob/master/ClearURLs%20for%20uBo/clear_urls_uboified.txt)
-* [NoADS_RU](https://raw.githubusercontent.com/Zalexanninev15/NoADS_RU/main/ads_list.txt)
-* [Anifiltrs](https://github.com/Karmesinrot/Anifiltrs)
 
 ***
 
@@ -253,7 +250,7 @@
 * [ssh-chat](https://github.com/shazow/ssh-chat) or [Devzat](https://github.com/quackduck/devzat) - SSH Chat / [Info](https://shazow.net/posts/ssh-how-does-it-even/)
 * [GPGTools](https://gpgtools.org/) - Encrypt & Sign Data / Communications
 * [PeerTube](https://joinpeertube.org/) - Decentralized Video Hosting / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/social-media#wiki_.25B7_peertube_tools)
-* [Undiscord](https://victornpb.github.io/undiscord)- Delete Discord Messages / [Warning](https://i.ibb.co/pdg4hRr/0b0d78219f05.png)
+* [Undiscord](https://github.com/VendorAttestation/undiscord-reborn) - Delete Discord Messages / [Warning](https://i.ibb.co/pdg4hRr/0b0d78219f05.png)
 * [Redact](https://redact.dev/) - Delete Twitter / Reddit Data
 * [delete-likes-from-twitter](https://gist.github.com/aymericbeaumet/d1d6799a1b765c3c8bc0b675b1a1547d) - Delete Twitter Likes / Favorites
 * [PowerDeleteSuite](https://github.com/j0be/PowerDeleteSuite) - Reddit Auto Post Delete

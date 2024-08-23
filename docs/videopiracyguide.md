@@ -14,7 +14,7 @@
 * ⭐ **[FBOX](https://fboxz.to/)** - Movies / TV / Anime / 1080p / [Clones](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_fbox_clones)
 * ⭐ **[watch.lonelil](https://watch.lonelil.ru/)** - Movies / TV / Anime / 4K / 1080p / [Discord](https://discord.com/invite/BKts6Jb5sA) / [Telegram](https://t.me/watchlonelil)
 * ⭐ **[HydraHD](https://hydrahd.com/)** - Movies / TV / Anime / 1080p
-* ⭐ **[KipFlix](https://kipflix.space/)** - Movies / TV / Anime / 1080p / [Discord](https://discord.gg/tDKYeh9eQn)
+* ⭐ **[KipFlix](https://kipflix.xyz/)** - Movies / TV / Anime / 1080p / [Discord](https://discord.gg/tDKYeh9eQn)
 * ⭐ **[PrimeFlix](https://primeflix-web.vercel.app/)**, [2](https://www.primeflix.lol/) - Movies / TV / Anime / 4K / 1080p / [Discord](https://discord.gg/GbW6gzAKgc)
 * ⭐ **[NunFlix](https://nunflix.com/)** - Movies / TV / Anime / 4K / 1080p / [Discord](https://discord.gg/CXVyfhgn26)
 * ⭐ **[VidPlay](https://vidplay.org/)** - Movies / TV / Anime / 1080p / [Note](https://pastebin.com/kXrVBceh)
@@ -424,6 +424,7 @@
 * [SportHD](https://sporthd.live/) - Sports
 * [CrackStreams](https://crack-streams.com/) - Sports
 * [FootyBite](https://www1.footybite.cc/) - Sports
+* [RBTV77](https://www.rbtv77.store/) - Sports
 * [SportsOnline](https://sportsonline.gl/) - Sports
 * [AntenaSports](https://antenasports.ru/) - Sports
 * [WorldStreams](https://worldstreams.net/) - Sports
@@ -484,7 +485,7 @@
 * [FootballOrigin](https://www.footballorgin.com/) - Soccer Replays
 * [123footy](https://123footy.com/) - Soccer Replays
 * [Footballia](https://footballia.net/), [2](https://footballia.eu/) - Soccer Replays
-* [Footyfull](https://footyfull.com/) - Soccer Replays
+* [Soccer Full Match](https://soccerfullmatch.com/ ) - Soccer Replays
 * [/r/footballhighlights/](https://www.reddit.com/r/footballhighlights/) - Soccer Replays
 * [Full Match](https://fullmatch.info/) - Soccer Replays
 * [Sport Video](https://www.sport-video.org.ua/) - Sports Replays / Torrents
@@ -598,8 +599,6 @@
 * [ProSearch4Bot](https://t.me/ProSearch4Bot) - Movies
 * [Mobile movies request bot](https://t.me/cc_mmrequestbot) - Movies / 480p
 * [SolidarityCinema](https://www.solidaritycinema.com/) - Movies
-* [Remux Collection](https://rentry.co/FMHYBase64#17tb-mega-drive) - HD Movies
-* [4K Collection](https://rentry.co/FMHYBase64#4k-movie-collection) - HD Movies
 
 ***
 
