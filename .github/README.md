@@ -1,6 +1,6 @@
 # FMHY
 
-![FMHY Banner](https://external-preview.redd.it/new-fmhy-website-v0-siM0tvJb685u2tZSfXkrpRANBH2IrPuVPDYmNA5Mkv0.jpg?auto=webp&s=a3185c2493e1c4da71863362f10b03c57e232974)
+![FMHY Banner](https://small.fileditchstuff.me/s8/vgvTipkpOUPxFdKyCGuf.png)
 
 **The largest collection of free stuff on the internet!**
 
@@ -8,7 +8,7 @@
 
 - Website: [fmhy.net](https://fmhy.net)
 - News & Monthly Updates: [fmhy.net/posts](https://fmhy.net/posts)
-- Backups: https://github.com/fmhy/FMHY/wiki/Backups
+- Backups: [github.com/fmhy/FMHY/wiki/Backups](https://github.com/fmhy/FMHY/wiki/Backups)
 
 ## 📝 Contribute
 
@@ -24,15 +24,15 @@ Here are a few ways you can get involved:
 
 ***
 
-Emoji Legend:
+**Emoji Legend:**
 
-* 🌐 - 3rd Party Indexes
-* ↪️ - Storage Page Links
-* ⭐ - Community Recommendations
+* 🌐 - **3rd Party Indexes**
+* ↪️ - **Storage Page Links**
+* ⭐ - **Community Recommendations**
 
 
 ## 👋 Follow
 
 <p valign="center">
-  <a href="https://discord.gg/Stz6y6NgNg"><img width="20px" src="./assets/discord.svg" alt="Discord"></a>&nbsp;&nbsp;<a href="https://github.com/fmhy"><img width="20px" src="./assets/github.svg" alt="GitHub"></a>&nbsp;&nbsp;<a href="https://bsky.app/profile/fmhy.bsky.social"><img width="20px" src="./assets/bluesky.svg" alt="Bluesky"></a>
+  <a href="https://discord.gg/Stz6y6NgNg"><img width="30px" src="./assets/discord.svg" alt="Discord"></a>&nbsp;&nbsp;<a href="https://github.com/fmhy"><img width="30px" src="./assets/github.svg" alt="GitHub"></a>&nbsp;&nbsp;<a href="https://bsky.app/profile/fmhy.bsky.social"><img width="30px" src="./assets/bluesky.svg" alt="Bluesky"></a>
 </p>
