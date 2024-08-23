@@ -8,7 +8,7 @@
 
 - Website: [fmhy.net](https://fmhy.net)
 - News & Monthly Updates: [fmhy.net/posts](https://fmhy.net/posts)
-- Backups: https://github.com/fmhy/FMHY/wiki/Backups
+- Backups: [github.com/fmhy/FMHY/wiki/Backups](https://github.com/fmhy/FMHY/wiki/Backups)
 
 ## 📝 Contribute
 
@@ -24,15 +24,15 @@ Here are a few ways you can get involved:
 
 ***
 
-Emoji Legend:
-
-* 🌐 - 3rd Party Indexes
-* ↪️ - Storage Page Links
-* ⭐ - Community Recommendations
+ **Emoji Legend:**
+ 
+ 🌐 - **3rd Party Indexes**
+* ↪️ - **Storage Page Links**
+* ⭐ - **Community Recommendations**
 
 
 ## 👋 Follow
 
 <p valign="center">
-  <a href="https://discord.gg/Stz6y6NgNg"><img width="20px" src="./assets/discord.svg" alt="Discord"></a>&nbsp;&nbsp;<a href="https://github.com/fmhy"><img width="20px" src="./assets/github.svg" alt="GitHub"></a>&nbsp;&nbsp;<a href="https://bsky.app/profile/fmhy.bsky.social"><img width="20px" src="./assets/bluesky.svg" alt="Bluesky"></a>
+  <a href="https://discord.gg/Stz6y6NgNg"><img width="20px" src="./discord.svg" alt="Discord"></a>&nbsp;&nbsp;<a href="https://github.com/fmhy"><img width="20px" src="./github.svg" alt="GitHub"></a>&nbsp;&nbsp;<a href="https://bsky.app/profile/fmhy.bsky.social"><img width="20px" src="./bluesky.svg" alt="Bluesky"></a>
 </p>
