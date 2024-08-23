@@ -657,18 +657,18 @@ https://github.com/Akylas/alpimaps
 ***
 
 * 🌐 **[Android Emulators](https://emulation.gametechwiki.com/index.php/Android_emulators)** - Android Emulator Index
-* ⭐ **[WSABuilds](https://github.com/MustardChef/WSABuilds)** - Android Emulator on Windows / Windows Subsystem / Pre-built Binaries
+* ⭐ **[WSABuilds](https://github.com/MustardChef/WSABuilds)** / Windows Subsystem / Pre-built Binaries
 * ⭐ **[Android Studio Emulator](https://developer.android.com/studio/run/managing-avds#createavd)**
 * ⭐ **[Google Play Games](https://play.google.com/googleplaygames)** - Android Mobile Games on Windows
 * [AOPC](https://aopc.dev/) - Android Desktop OS Forums
 * [Docker Android](https://github.com/budtmo/docker-android) - Android on Docker
-* [Nox](https://www.bignox.com/) - Android Emulator on Windows / [Debloat](https://gist.github.com/TameemS/72c4b92131977aced56e727d51599a48)
-* [BlueStacks](https://www.bluestacks.com/) - Android Emulator on Windows
-* [GameLoop](https://www.gameloop.com/) - Android Emulator on Windows
-* [MuMu](https://www.mumuplayer.com/) - Android Emulator on Windows
-* [MeMu](https://www.memuplay.com/) - Android Emulator on Windows / [Debloat](https://gist.github.com/TameemS/603686cec857ff1f91e68607e374b0d8)
-* [LDPlayer](https://www.ldplayer.net/) - Android Emulator on Windows / [Debloat](https://gist.github.com/TameemS/894cdb8adae1d6042a5f21c4e80bcd9e/)
-* [Genymotion](https://www.genymotion.com/download/) - Android Emulator on Windows
+* [Nox](https://www.bignox.com/) / [Debloat](https://gist.github.com/TameemS/72c4b92131977aced56e727d51599a48)
+* [BlueStacks](https://www.bluestacks.com/)
+* [GameLoop](https://www.gameloop.com/)
+* [MuMu](https://www.mumuplayer.com/)
+* [MeMu](https://www.memuplay.com/) / [Debloat](https://gist.github.com/TameemS/603686cec857ff1f91e68607e374b0d8)
+* [LDPlayer](https://www.ldplayer.net/) / [Debloat](https://gist.github.com/TameemS/894cdb8adae1d6042a5f21c4e80bcd9e/)
+* [Genymotion](https://www.genymotion.com/download/)
 
 ***
 

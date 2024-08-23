@@ -595,7 +595,6 @@
 * [Hoaxy](https://hoaxy.osome.iu.edu/) - Twitter Info Spread Data
 * [tinfoleak](https://tinfoleak.com/) - View Your Geosocial Footprint
 * [Twitter Mass Unfollow](https://github.com/luqmanoop/twitter-mass-unfollow) - Twitter Unfollow Tool
-* [Fix Twitter Links](https://openuserjs.org/scripts/lucio-martinez/Fix_Twitter_links) - Unshorten Twitter Feed URLs
 * [Twitter Detector](https://github.com/stilliard/Twitter-detector) - Detect Twitter Link on a Page
 
 ***
