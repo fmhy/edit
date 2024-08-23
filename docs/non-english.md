@@ -1586,16 +1586,18 @@
 
 # ► Turkish / Türkçe
 
-* [Playstation Haber](https://playstationhaber.com/) - PlayStation Piracy Forum
-* [MCpsp](https://www.mcpsp.com) - PlayStation Piracy Forum
+* [Playstation Haber](https://playstationhaber.com/), [MCpsp](https://www.mcpsp.com) - PlayStation Piracy Forum
 * [En ucuz oyun](https://www.enucuzoyun.com) - Price Tracker
 * [Teyit](https://teyit.org) - News Confirmation
+* [Yükleme Bot](https://t.me/feltaBot) - Miscellaneous / Public upload
 
 ## ▷ Downloading / İndirme
 
+* [MP3 İndir](https://www.mp3indirdur.io/) - Music
+* [Android Oyun Club](https://androidoyun.club/apks) - APKs
 * [Türkçe Altyazı](https://turkcealtyazi.org/) - Subtitles
 * [Turkish Audio Center](https://www.turkishaudiocenter.com), [Shareses](https://shareses.com), [Türkçe Ses İndir](https://www.turkcesesindir.com/), [Dw Force](http://dwa-audio.blogspot.com/), [Tr Sound Track](https://trsoundtrack.blogspot.com/) - Turkish dubs
-* [Sinner Clown](https://sinnerclownceviri.net) / [Discord](https://discord.com/invite/nApvcT6Tt6), [Pixel Saga](https://discord.gg/ZZER4w3Mmx), [Hangar](https://www.hangarceviri.com) - Game Localization
+* [Sinner Clown](https://sinnerclownceviri.net) / [Discord](https://discord.com/invite/nApvcT6Tt6),[Calypso](https://discord.com/invite/9zJe7ttAjS),[Makine Çeviri](https://discord.com/invite/QDezpy4QtV), [Pixel Saga](https://discord.gg/ZZER4w3Mmx), [Hangar](https://www.hangarceviri.com), [NSFW Games](https://fmhy.pages.dev/nsfwpiracy#games) - Game Localization
 
 ## ▷ Streaming / İzleme
 
@@ -1603,20 +1605,22 @@
 * ⭐ [Dizipal](https://dizipal810.com/), [2](https://dizipal786.com/) - Movies / TV / Sub / Dub / 1080p
 * ⭐ [Hdfilmcehennemi](https://www.hdfilmcehennemi.com/) - Movies / TV / Sub / Dub / 1080p
 * ⭐ [FullHDFilmizlesene](https://www.fullhdfilmizlesene.com) - Movies / Dub / Sub / 4K / 1080p
+* [Film Bot](https://t.me/dafilm_bot) - Movies / Dub / Sub / 1080p
 * [İnat TV](https://inattv100.link/) / [Twitter](https://twitter.com/inattvapk) - App / Movies / TV / Sports
 * [Dizibox](https://www.dizibox.com) - TV / Sub / 1080p
 * [Diziwatch](https://diziwatch.net/) - TV / Anime / Sub / 1080p
 * [Diziyou](https://www.diziyou.co/) - TV / Sub / Dub / 1080p
 * [Dizilab](https://dizilab.com/) - TV
 * [Dizilla](https://dizilla.club) - Movies / TV
-* [filmmodu](https://www.filmmodu.tv/), [Jet Film izle](https://jetfilmizle.de/), [4kFilmizlesene](https://www.4kfilmizlesene.org/), [Film İzlesene](https://www.filmizlesene.pro), [Film Mom](https://www.filmmom.de/), [filmmax](https://filmmax.org/) - Movies
+* [Filmmodu](https://www.filmmodu.tv/), [Jet Film izle](https://jetfilmizle.de/), [4kFilmizlesene](https://www.4kfilmizlesene.org/), [Film İzlesene](https://www.filmizlesene.pro), [Film Mom](https://www.filmmom.de/), [filmmax](https://filmmax.org/) - Movies
 * [Turkish123](https://turkish123.com/), [Yoturkish](https://www.yoturkish.com) - Turkish TV series with English subtitles
 * [Türk Anime](https://www.turkanime.co/) / [Downloader](https://github.com/KebabLord/turkanime-indirici), [Anizm](https://anizm.net/), [Anime Who](https://animewho.com), [TR Anime İzle](https://www.tranimeizle.co) - Anime
 
 ## ▷ Reading / Okuma
 
 * [Booksfer](https://booksfer.com) - Books
-* [Telegram Groups](https://t.me/addlist/SWhexU5B_hoxMTc8) - Books
+* [Telegram Groups](https://t.me/addlist/XeOr3go8Q2MwZTNk), [Kütüphanem Yeniden](https://t.me/davetbotu5_bot) [Kitap Botu](https://t.me/Arakitappbot) / [2](https://t.me/KKCI_BOT)  - Books
+* [Udemy Bot](https://t.me/birikursbotumudedibot) - Udemy
 * [Küflü e-kitap](https://www.kuflu.com/forums/e-kitap.58), [Küflü manga](https://www.kuflu.com/forums/anime-ve-manga.28) - Books / Magazines
 * [Manga Denizi](https://www.mangadenizi.net/) / [Discord](https://discord.com/invite/8zBMSGZ), [Manga TR](https://manga-tr.com/), [Manga Ay](https://manga-ay.com/), [Mavi Manga](https://mavimanga.com/), [Trwebtoon](https://trwebtoon.com/), [Nirvana Manga](https://nirvanamanga.com/), [Raindrop](https://www.raindropteamfan.com/), [Seri Manga](https://serimangas.com/), [Glory Manga](https://glorymanga.com/) - Manga
 
