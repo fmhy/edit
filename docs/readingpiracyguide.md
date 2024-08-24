@@ -6,23 +6,20 @@
 
 # ► Audiobooks
 
+* [Audiobooks Unleashed](https://audiobooksunleashed.com/) - Audiobook Codes
+* [AudioBookConverter](https://github.com/yermak/AudioBookConverter) - Audiobook Converter
+* [Ebook2Audiobook](https://hub.docker.com/repository/docker/athomasson2/ebook2audiobookxtts/general) - Ebook to Audiobook Converter
+* [Audible Tools](https://audible-tools.kamsker.at/), [AaxAudioConverter](https://github.com/audiamus/AaxAudioConverter) or [Libation](https://getlibation.com/) - Remove DRM from Audible Audiobooks
+* [AudiobookShelf](https://www.audiobookshelf.org/) or [BookSonic](https://booksonic.org/) - Self-Hosted Audiobook Servers
+
+***
+
+## ▷ Downloading
+
 * ⭐ **[MyAnonaMouse](https://www.myanonamouse.net/)** - [Interviews](https://www.myanonamouse.net/inviteapp.php)
 * ⭐ **[Mobilism Audiobooks](https://forum.mobilism.org/viewforum.php?f=124)** / [User Ranks](https://rentry.co/mobilismranks), [2](https://pastebin.com/pZuuMxYm)
 * ⭐ **[AudiobookBay](https://audiobookbay.lu/)** - Torrents / Avoid Fake DL links, Use [Torrents / Magnets](https://i.ibb.co/8sV2061/0fa8159b11bb.png) / [Discord](https://discord.com/invite/2zkHuwP3mW)
-* ⭐ **[Tokybook](https://tokybook.com/)** - Listen Online / [Downloader](https://github.com/rahaaatul/TokySnatcher) / [audiobooksnatcher](https://github.com/nazdridoy/audiobooksnatcher)
 * ⭐ **[Audiobook CSE](https://cse.google.com/cse?cx=006516753008110874046:cwbbza56vhd)** or **[Rave Search](https://ravebooksearch.com/index-audiobooks)** - Multi-Site Audiobook Search
-* [FullLengthAudiobooks](https://fulllengthaudiobook.com/) - Listen Online
-* [HDAudiobooks](https://hdaudiobooks.com/) - Listen Online
-* [BigAudiobooks](https://bigaudiobooks.com/) - Listen Online
-* [HotAudioBooks](https://hotaudiobooks.com/) - Listen Online
-* [BookAudiobook](https://bookaudiobooks.com/) - Listen Online
-* [GalaxyAudiobooks](https://galaxyaudiobook.com/) - Listen Online / DL: [audiobooksnatcher](https://github.com/nazdridoy/audiobooksnatcher)
-* [Audiobooks Lab](https://audiobooklabs.com/) - Listen Online
-* [zAudiobooks](https://zaudiobooks.com/) - Listen Online
-* [Find Audiobook](https://findaudiobook.com/) - Listen Online
-* [Audio AZ](https://audioaz.com/) - Listen Online
-* [AudioBooksBeyond](https://odysee.com/@AudioBooksBeyond:1) - Listen Online
-* [Spotify Audiobooks](https://open.spotify.com/artist/1FSWXfsYsosTxjcV9WoLax) - Listen Online / Select Playlists
 * [AudioBooksBee](https://audiobooksbee.com/)
 * [Audiobookss](https://audiobookss.com/)
 * [LearnOutLoud](https://www.learnoutloud.com/Free-Audiobooks)
@@ -41,14 +38,27 @@
 * [FreeClassicAudiobooks](https://www.freeclassicaudiobooks.com/) - Classic Audiobooks
 * [Storynory](https://www.storynory.com/) - Children Audio Stories
 * [Audiobooks Poetry](https://archive.org/details/audio_bookspoetry) - Audiobooks / Poetry
-* [Audiobooks Unleashed](https://audiobooksunleashed.com/) - Audiobook Codes
-* [/r/audiobooksonyoutube](https://reddit.com/r/audiobooksonyoutube)
 * [audiobook-dl](https://github.com/jo1gi/audiobook-dl) - Audiobook Download Tool
 * [OverDrive](https://github.com/chbrown/overdrive) - OverDrive Audiobook Download Script
-* [AudioBookConverter](https://github.com/yermak/AudioBookConverter) - Audiobook Converter
-* [Ebook2Audiobook](https://hub.docker.com/repository/docker/athomasson2/ebook2audiobookxtts/general) - Ebook to Audiobook Converter
-* [Audible Tools](https://audible-tools.kamsker.at/), [AaxAudioConverter](https://github.com/audiamus/AaxAudioConverter) or [Libation](https://getlibation.com/) - Remove DRM from Audible Audiobooks
-* [AudiobookShelf](https://www.audiobookshelf.org/) or [BookSonic](https://booksonic.org/) - Self-Hosted Audiobook Servers
+
+***
+
+## ▷ Streaming
+
+* ⭐ **[Tokybook](https://tokybook.com/)** / [Downloader](https://github.com/rahaaatul/TokySnatcher) / [audiobooksnatcher](https://github.com/nazdridoy/audiobooksnatcher)
+* [FullLengthAudiobooks](https://fulllengthaudiobook.com/)
+* [HDAudiobooks](https://hdaudiobooks.com/)
+* [BigAudiobooks](https://bigaudiobooks.com/)
+* [HotAudioBooks](https://hotaudiobooks.com/)
+* [BookAudiobook](https://bookaudiobooks.com/)
+* [GalaxyAudiobooks](https://galaxyaudiobook.com/) / DL: [audiobooksnatcher](https://github.com/nazdridoy/audiobooksnatcher)
+* [Audiobooks Lab](https://audiobooklabs.com/)
+* [zAudiobooks](https://zaudiobooks.com/)
+* [Find Audiobook](https://findaudiobook.com/)
+* [Audio AZ](https://audioaz.com/)
+* [AudioBooksBeyond](https://odysee.com/@AudioBooksBeyond:1)
+* [/r/audiobooksonyoutube](https://reddit.com/r/audiobooksonyoutube)
+* [Spotify Audiobooks](https://open.spotify.com/artist/1FSWXfsYsosTxjcV9WoLax) / Select Playlists
 
 ***
 
