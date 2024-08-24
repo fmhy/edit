@@ -41,6 +41,7 @@
 * [Hopcorn](https://c.hopmarks.com/) - Movies / TV / Anime / 4K / 1080p
 * [PlayFlix](https://playflix.ru/) - Movies / TV / Anime / 4K / 1080p
 * [123MoviesFree](https://ww2.123moviesfree.net/) - Movies / TV / Anime / 1080p
+* [Dollhouse TV](https://www.easkme.com/2022/12/123movies-faqs-20-sites-like-123movies.html) - Movies / TV / Anime / 1080p
 * [r123movie](https://r123movie.com/) - Movies / TV / Anime / 1080p
 * [Way2Movies](https://way2movies.vercel.app/) - Movies / TV / Anime / 4K
 * [ValhallaStream](https://valhallastream.us.kg/), [2](https://valhallastream.pages.dev/) - Movies / TV / Anime / 4K
