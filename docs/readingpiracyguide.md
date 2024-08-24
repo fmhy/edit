@@ -45,13 +45,13 @@
 
 ## ▷ Streaming
 
-* ⭐ **[Tokybook](https://tokybook.com/)** / [Downloader](https://github.com/rahaaatul/TokySnatcher) / [audiobooksnatcher](https://github.com/nazdridoy/audiobooksnatcher)
+* ⭐ **[Tokybook](https://tokybook.com/)** / [Downloader](https://github.com/rahaaatul/TokySnatcher), [2](https://github.com/nazdridoy/audiobooksnatcher)
 * [FullLengthAudiobooks](https://fulllengthaudiobook.com/)
 * [HDAudiobooks](https://hdaudiobooks.com/)
 * [BigAudiobooks](https://bigaudiobooks.com/)
 * [HotAudioBooks](https://hotaudiobooks.com/)
 * [BookAudiobook](https://bookaudiobooks.com/)
-* [GalaxyAudiobooks](https://galaxyaudiobook.com/) / DL: [audiobooksnatcher](https://github.com/nazdridoy/audiobooksnatcher)
+* [GalaxyAudiobooks](https://galaxyaudiobook.com/) / [Downloader](https://github.com/nazdridoy/audiobooksnatcher)
 * [Audiobooks Lab](https://audiobooklabs.com/)
 * [zAudiobooks](https://zaudiobooks.com/)
 * [Find Audiobook](https://findaudiobook.com/)
