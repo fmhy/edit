@@ -80,6 +80,7 @@
 * [Tubi](https://tubitv.com) - Movies / TV / 720p / Use Adblock / [Downloader](https://github.com/warren-bank/node-hls-downloader-tubitv) / US Only
 * [Gir Society](https://discord.gg/WHxeZ3aTtb) - Movies / TV / Anime / 1080p / Plex Required
 * [OnionPlay](https://onionplay.se/) - Movies / TV / 1080p / [Clones](https://onionplay.network/)
+* [ViewVault](https://viewvault.org/) - Movies / TV / 1080p
 * [FreeTubeSpot](https://www.freetubespot.com/) - Movies / 480p
 * [9PM](https://9pm.to/) - Movies / TV / 720p
 * [FshareTV](https://fsharetv.co/) - Movies / 1080p
