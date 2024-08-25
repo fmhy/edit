@@ -125,12 +125,14 @@ export function getHeader(id: string) {
 
   const description = '<p class="text-black dark:text-text-2">'
 
+  const feedback = '<Feedback />'
+
   const data = headers[id]
   let header = '---\n'
   header += `title: "${data.title}"\n`
   header += `description: ${data.description}\n`
   header += '---\n'
   header += `${title}${data.title}</h1>\n`
-  header += `${description}${data.description}</p></div>\n\n`
+  header += `${description}${data.description}</p></div>\n\n${feedback}\n\n`
   return header
 }

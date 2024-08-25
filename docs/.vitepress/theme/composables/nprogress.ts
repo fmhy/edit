@@ -1,7 +1,9 @@
 import nprogress, { type NProgress } from 'nprogress'
 import type { EnhanceAppContext } from 'vitepress'
 
-export function loadProgress(router: EnhanceAppContext['router']): NProgress {
+export function loadProgress(
+  router: EnhanceAppContext['router']
+): NProgress | undefined {
   if (typeof window === 'undefined') return
 
   setTimeout(() => {

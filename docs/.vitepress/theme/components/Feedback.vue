@@ -1,53 +1,100 @@
 <script setup lang="ts">
-import { ref, reactive } from 'vue'
+import { computed, ref, reactive } from 'vue'
 import {
-  TransitionRoot,
-  TransitionChild,
-  Dialog,
-  DialogPanel,
-  DialogTitle,
-  DialogDescription,
-  Listbox,
-  ListboxLabel,
-  ListboxButton,
-  ListboxOptions,
-  ListboxOption
-} from '@headlessui/vue'
-import { useRouter } from 'vitepress'
-import {
+  feedbackOptions,
   type FeedbackType,
-  getFeedbackOption,
-  feedbackOptions
+  getFeedbackOption
 } from '../../types/Feedback'
+import { useRouter } from 'vitepress'
+
+const props = defineProps<{
+  heading?: string
+}>()
+
+const prompts = [
+  'Make it count!',
+  'Leave some feedback for us!',
+  `We're all ears 🐰`,
+  'Tell us what is missing in FMHY',
+  'Your thoughts matter to us 💡',
+  'Feedback is a gift 🎁',
+  'What do you think?',
+  'We appreciate your support 🙏',
+  'Help us make FMHY better 🤝',
+  'We need your help 👋',
+  'Your feedback is valuable 💯',
+  'So... what do you think?',
+  "I guess you don't need to say anything 😉",
+  'Spill the beans 💣',
+  "We're always looking for ways to improve!.",
+  'Your feedback is valuable and helps us make FMHY better.',
+  'aliens are watching you 👽',
+  'tasky was here 👀',
+  'The internet is full of crap 😱'
+]
+
+function getPrompt() {
+  return prompts[Math.floor(Math.random() * prompts.length)]
+}
+
+const messages = {
+  bug: [
+    "We're sorry to hear that!",
+    'Please try to be as specific as possible and provide us with the steps to reproduce the bug.'
+  ],
+  suggestion: [
+    "We're glad you want to share your ideas!",
+    'Nix the fluff and just tell us what you think!',
+    "We'll be happy to read your thoughts and incorporate them into our wiki.",
+    "Hello! We're glad you want to share your ideas!"
+  ],
+  appreciation: [
+    'We appreciate your support!',
+    "We're always looking for ways to improve!.",
+    'Your feedback is valuable and helps us make FMHY better.'
+  ],
+  other: [
+    "We're always looking for ways to improve!",
+    'Your feedback is valuable and helps us make FMHY better.'
+  ]
+}
+
+function getMessage(type: FeedbackType['type']) {
+  return messages[type][Math.floor(Math.random() * messages[type].length)]
+}
 
 const loading = ref<boolean>(false)
 const error = ref<unknown>(null)
 const success = ref<boolean>(false)
 
+const isDisabled = computed(() => {
+  return (
+    !feedback.message.length ||
+    feedback.message.length < 5 ||
+    feedback.message.length > 1000
+  )
+})
+
 const router = useRouter()
-const feedback = reactive<FeedbackType>({ message: '' })
+// prettier-ignore
+const feedback = reactive<
+  Pick<FeedbackType, 'message' | 'page'> & Partial<Pick<FeedbackType, 'type'>>
+>({
+  page: router.route.path,
+  message: ''
+})
 
-const options = [
-  {
-    label: '💡 Suggestion',
-    value: 'suggestion'
-  },
-  {
-    label: '❤️ Appreciation',
-    value: 'appreciate'
-  },
-  { label: '🐞 Bug', value: 'bug' },
-  { label: '📂 Other', value: 'other' }
-]
-const selectedOption = ref(options[0])
+const selectedOption = ref(feedbackOptions[0])
 
-async function handleSubmit() {
+async function handleSubmit(type?: FeedbackType['type']) {
+  if (type) feedback.type = type
   loading.value = true
 
   const body: FeedbackType = {
     message: feedback.message,
     type: selectedOption.value.value,
-    page: router.route.path
+    page: feedback.page,
+    ...(props.heading && { heading: props.heading })
   }
 
   try {
@@ -60,7 +107,6 @@ async function handleSubmit() {
     })
 
     const data = await response.json()
-
     if (data.error) {
       error.value = data.error
       return
@@ -68,262 +114,214 @@ async function handleSubmit() {
     if (data.status === 'ok') {
       success.value = true
     }
-  } catch (error) {
-    error.value = error
+  } catch (err) {
+    error.value = err
   } finally {
     loading.value = false
   }
 }
 
-const isOpen = ref(false)
+const isCardShown = ref<boolean>(false)
+const helpfulText = props.heading
+  ? 'What do you think about this section?'
+  : 'What do you think about this page?'
+const helpfulDescription = props.heading
+  ? 'Let us know how helpful this section is.'
+  : 'Let us know how helpful this page is.'
 
-function closeModal() {
-  isOpen.value = false
-}
-function openModal() {
-  isOpen.value = true
-}
+const prompt = computed(() => getPrompt())
+const message = computed(() => getMessage(feedback.type!))
+const toggleCard = () => (isCardShown.value = !isCardShown.value)
 </script>
 
 <template>
-  <button
-    type="button"
-    class="inline-flex items-center justify-center whitespace-nowrap text-sm text-primary font-medium border border-primary bg-bg-alt h-8 rounded-md px-2 py-2"
-    @click="openModal"
-  >
-    <span class="i-carbon-send-alt" />
-  </button>
+  <template v-if="props.heading">
+    <button @click="toggleCard()"
+      class="bg-$vp-c-default-soft hover:bg-$vp-c-default-soft/40 text-primary border-$vp-c-default-soft hover:border-primary ml-3 inline-flex h-7 items-center justify-center whitespace-nowrap rounded-md border-2 border-solid px-1.5 py-1.5 text-sm font-medium transition-all duration-300 sm:h-6">
+      <span :class="isCardShown === false
+          ? `i-lucide:heart-handshake`
+          : `i-lucide:circle-x`
+        " />
+    </button>
+  </template>
+  <template v-else>
+    <button
+      class="bg-$vp-c-default-soft hover:bg-$vp-c-default-soft/40 text-primary px2 py1 border-$vp-c-default-soft hover:border-primary mt-2 select-none rounded border-2 border-solid font-bold transition-all duration-300"
+      @click="toggleCard()">
+      <span :class="isCardShown === false
+          ? `i-lucide:heart-handshake mr-2`
+          : `i-lucide:circle-x mr-2`
+        " />
+      <span>Send Feedback</span>
+    </button>
+  </template>
 
-  <Teleport to="body">
-    <TransitionRoot appear :show="isOpen" as="template">
-      <Dialog as="div" class="relative z-10" @close="closeModal">
-        <TransitionChild
-          as="template"
-          enter="duration-300 ease-out"
-          enter-from="opacity-0"
-          enter-to="opacity-100"
-          leave="duration-200 ease-in"
-          leave-from="opacity-100"
-          leave-to="opacity-0"
-        >
-          <div class="fixed inset-0 bg-black/25" />
-        </TransitionChild>
-
-        <div class="fixed inset-0 overflow-y-auto">
-          <div
-            class="flex min-h-full items-center justify-center p-4 text-center"
-          >
-            <TransitionChild
-              as="template"
-              enter="duration-300 ease-out"
-              enter-from="opacity-0 scale-95"
-              enter-to="opacity-100 scale-100"
-              leave="duration-200 ease-in"
-              leave-from="opacity-100 scale-100"
-              leave-to="opacity-0 scale-95"
-            >
-              <DialogPanel
-                class="w-full max-w-md transform overflow-hidden rounded-2xl bg-bg p-6 text-left align-middle shadow-xl transition-all"
-              >
-                <DialogTitle
-                  as="h3"
-                  class="text-lg font-medium leading-6 text-text"
-                >
-                  Feedback
-                </DialogTitle>
-
-                <div class="mt-4 top-16 w-72" v-if="!success">
-                  <Listbox v-model="selectedOption">
-                    <div class="relative mt-1">
-                      <ListboxButton
-                        class="relative w-full cursor-default rounded-lg bg-bg-alt text-text py-2 pl-3 pr-10 text-left shadow-md focus:outline-none focus-visible:border-indigo-500 focus-visible:ring-2 focus-visible:ring-white/75 focus-visible:ring-offset-2 focus-visible:ring-offset-orange-300 sm:text-sm"
-                      >
-                        <span class="block truncate">
-                          {{ selectedOption.label }}
-                        </span>
-                        <span
-                          class="pointer-events-none absolute inset-y-0 right-0 flex items-center pr-2"
-                        >
-                          <div
-                            class="i-heroicons-solid:chevron-up-down h-5 w-5 text-gray-400"
-                            aria-hidden="true"
-                          />
-                        </span>
-                      </ListboxButton>
-
-                      <transition
-                        leave-active-class="transition duration-100 ease-in"
-                        leave-from-class="opacity-100"
-                        leave-to-class="opacity-0"
-                      >
-                        <ListboxOptions
-                          class="absolute mt-1 max-h-60 w-full overflow-auto rounded-md bg-bg-alt py-1 text-base shadow-lg ring-1 ring-black/5 focus:outline-none sm:text-sm"
-                        >
-                          <ListboxOption
-                            v-slot="{ active, selected }"
-                            v-for="option in options"
-                            :key="option.value"
-                            :value="option"
-                            as="template"
-                          >
-                            <li
-                              :class="[
-                                active ? 'text-primary' : 'text-gray-500',
-                                'relative cursor-default select-none py-2 pl-10 pr-4'
-                              ]"
-                            >
-                              <span
-                                :class="[
-                                  selected ? 'font-medium' : 'font-normal',
-                                  'block truncate'
-                                ]"
-                              >
-                                {{ option.label }}
-                              </span>
-                              <span
-                                v-if="selected"
-                                class="absolute inset-y-0 left-0 flex items-center pl-3 text-primary"
-                              >
-                                <div
-                                  class="i-heroicons-solid:check h-5 w-5"
-                                  aria-hidden="true"
-                                />
-                              </span>
-                            </li>
-                          </ListboxOption>
-                        </ListboxOptions>
-                      </transition>
-                    </div>
-                  </Listbox>
-
-                  <div class="mt-2">
-                    <div>
-                      <label class="field-label">Message</label>
-                      <textarea
-                        v-model="feedback.message"
-                        class="mt-2 h-32"
-                        placeholder="What a lovely wiki!"
-                        rows="5"
-                      />
-                    </div>
-                  </div>
-                  <p class="text-sm text-gray-400 mb-2">
-                    If you want a reply to your feedback, feel free to mention a
-                    contact in the message or join our
-                    <a
-                      class="text-primary font-semibold text-underline"
-                      href="https://discord.gg/Stz6y6NgNg"
-                    >
-                      Discord.
-                    </a>
-                  </p>
-
-                  <details
-                    v-if="selectedOption.value === 'suggestion'"
-                    class="text-sm text-gray-400"
-                  >
-                    <summary class="mb-2">Submission Guidelines</summary>
-                    <strong>🕹️ Emulators</strong>
-                    <p>
-                      They're already on the
-                      <a
-                        class="text-primary font-bold text-underline"
-                        href="https://emulation.gametechwiki.com/index.php/Main_Page"
-                      >
-                        Game Tech Wiki.
-                      </a>
-                    </p>
-                    <strong>🔻 Leeches</strong>
-                    <p>
-                      They're already on the
-                      <a
-                        class="text-primary font-bold text-underline"
-                        href="https://filehostlist.miraheze.org/wiki/Free_Premium_Leeches"
-                      >
-                        File Hosting Wiki.
-                      </a>
-                    </p>
-                    <strong>🐧 Distros</strong>
-                    <p>
-                      They're already on
-                      <a
-                        class="text-primary font-bold text-underline"
-                        href="https://distrowatch.com/"
-                      >
-                        DistroWatch.
-                      </a>
-                    </p>
-                    <strong>🎲 Mining / Betting Sites</strong>
-                    <p>
-                      Don't post anything related to betting, mining, BINs, CCs,
-                      etc.
-                    </p>
-                    <strong>🎮 Multiplayer Game Hacks</strong>
-                    <p>
-                      Don't post any hacks/exploits that give unfair advantages
-                      in multiplayer games.
-                    </p>
-                  </details>
-
-                  <div class="mt-4">
-                    <button
-                      type="button"
-                      class="inline-flex justify-center rounded-md border border-transparent bg-blue-500 px-4 py-2 text-sm font-medium text-blue-100 hover:bg-blue-600 focus:outline-none focus-visible:ring-2 focus-visible:ring-blue-500 focus-visible:ring-offset-2 disabled:bg-blue-400"
-                      :disabled="
-                        feedback.message.length < 5 ||
-                        feedback.message.length > 1000
-                      "
-                      @click="handleSubmit()"
-                    >
-                      Submit
-                    </button>
-
-                    <button
-                      type="button"
-                      class="ml-2 inline-flex justify-center rounded-md border border-transparent bg-red-500 px-4 py-2 text-sm font-medium text-red-100 hover:bg-red-600 focus:outline-none focus-visible:ring-2 focus-visible:ring-red-500 focus-visible:ring-offset-2"
-                      @click="closeModal()"
-                    >
-                      Close
-                    </button>
-                  </div>
-                </div>
-                <div v-else-if="error">
-                  <div class="text-sm font-medium leading-6 text-text">
-                    Error!
-                  </div>
-                  <details>{{ error }}</details>
-                </div>
-                <div v-else>
-                  <TransitionRoot
-                    enter="transition-opacity duration-75"
-                    enter-from="opacity-0"
-                    enter-to="opacity-100"
-                  >
-                    Thanks!
-                  </TransitionRoot>
-                </div>
-              </DialogPanel>
-            </TransitionChild>
+  <Transition name="fade" mode="out-in">
+    <div v-if="isCardShown"
+      class="border-$vp-c-divider bg-$vp-c-bg-alt b-rd-4 m-[2rem 0] step mt-4 border-2 border-solid p-6">
+      <Transition name="fade" mode="out-in">
+        <div v-if="!feedback.type" class="step">
+          <div>
+            <div>
+              <p class="desc">{{ prompt }}</p>
+              <p class="heading">
+                {{ helpfulText }}
+              </p>
+            </div>
+          </div>
+          <div class="flex flex-wrap gap-2">
+            <button v-for="item in feedbackOptions" :key="item.value" class="btn" @click="handleSubmit(item.value)">
+              <span>{{ item.label }}</span>
+            </button>
           </div>
         </div>
-      </Dialog>
-    </TransitionRoot>
-  </Teleport>
+        <div v-else-if="feedback.type && !success" class="step">
+          <div>
+            <p class="desc">
+              {{ helpfulDescription }}
+            </p>
+            <div>
+              <span>{{ getFeedbackOption(feedback.type)?.label }}</span>
+              <button style="margin-left: 0.5rem" class="btn" @click="feedback.type = undefined">
+                <span class="i-lucide:arrow-left-from-line">close</span>
+              </button>
+            </div>
+          </div>
+          <p class="heading">
+            {{ message }}
+          </p>
+          <div v-if="feedback.type === 'suggestion'" class="mb-2 text-sm">
+            <details>
+              <summary>
+                <span class="i-lucide:shield-alert bg-cerise-400 mb-1 ml-1" />
+                Do not submit any of the following:
+              </summary>
+              <strong>🕹️ Emulators</strong>
+              <p class="desc">
+                They're already on the
+                <a class="text-primary text-underline font-bold"
+                  href="https://emulation.gametechwiki.com/index.php/Main_Page">
+                  Game Tech Wiki.
+                </a>
+              </p>
+              <strong>🔻 Leeches</strong>
+              <p class="desc">
+                They're already on the
+                <a class="text-primary text-underline font-bold"
+                  href="https://filehostlist.miraheze.org/wiki/Free_Premium_Leeches">
+                  File Hosting Wiki.
+                </a>
+              </p>
+              <strong>🐧 Distros</strong>
+              <p class="desc">
+                They're already on
+                <a class="text-primary text-underline font-bold" href="https://distrowatch.com/">
+                  DistroWatch.
+                </a>
+              </p>
+              <strong>🎲 Mining / Betting Sites</strong>
+              <p class="desc">
+                Don't post anything related to betting, mining, BINs, CCs, etc.
+              </p>
+              <strong>🎮 Multiplayer Game Hacks</strong>
+              <p class="desc">
+                Don't post any hacks/exploits that give unfair advantages in
+                multiplayer games.
+              </p>
+            </details>
+          </div>
+          <textarea v-model="feedback.message" autofocus class="input" placeholder="What a lovely wiki!" />
+          <p class="desc mb-2">
+            If you want a reply to your feedback, feel free to mention a contact
+            in the message or join our
+            <a class="text-primary text-underline font-semibold" href="https://discord.gg/Stz6y6NgNg">
+              Discord.
+            </a>
+          </p>
+          <button type="submit" class="btn btn-primary" :disabled="isDisabled" @click="handleSubmit()">
+            Send Feedback 📩
+          </button>
+        </div>
+        <div v-else class="step">
+          <p class="heading">Thanks for your feedback!</p>
+        </div>
+      </Transition>
+    </div>
+  </Transition>
 </template>
 
-<style scoped>
-textarea,
-input {
-  font-family: var(--vp-font-family-base);
-  background: var(--vp-c-bg-soft);
-  font-size: 14px;
-  border-radius: 4px;
-  padding: 16px;
-  width: 100%;
+<style scoped lang="css">
+.step>*+* {
+  margin-top: 1rem;
+}
 
-  &::placeholder {
-    color: var(--vp-c-text-2) !important;
-    opacity: 1;
-  }
+.btn {
+  border: 1px solid var(--vp-c-divider);
+  background-color: var(--vp-c-bg);
+  border-radius: 8px;
+  transition:
+    border-color 0.25s,
+    background-color 0.25s;
+  display: inline-block;
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 1.5;
+  margin: 0;
+  padding: 0.375rem 0.75rem;
+  text-align: center;
+  vertical-align: middle;
+  white-space: nowrap;
+}
+
+.btn:disabled {
+  opacity: 0.5;
+}
+
+.btn:hover {
+  border-color: var(--vp-c-brand);
+}
+
+.btn-primary {
+  color: #fff;
+  background-color: var(--vp-c-brand);
+  border-color: var(--vp-c-brand);
+}
+
+.btn-primary:hover {
+  background-color: var(--vp-c-brand-darker);
+  border-color: var(--vp-c-brand-darker);
+}
+
+.heading {
+  font-size: 1.2rem;
+  font-weight: 700;
+}
+
+.input {
+  background-color: var(--vp-c-bg-alt);
+  color: var(--vp-c-text-2);
+  width: 100%;
+  height: 100px;
+  border: 1px solid var(--vp-c-divider);
+  border-radius: 4px;
+  padding: 0.375rem 0.75rem;
+}
+
+.desc {
+  display: block;
+  line-height: 20px;
+  font-size: 12px;
+  font-weight: 500;
+  color: var(--vp-c-text-2);
+}
+
+.fade-enter-active,
+.fade-leave-active {
+  transition: opacity 0.25s ease;
+}
+
+.fade-enter-from,
+.fade-leave-to {
+  opacity: 0;
 }
 </style>

@@ -2,27 +2,34 @@ import z from 'zod'
 
 export const FeedbackSchema = z.object({
   message: z.string().min(5).max(1000),
-  type: z.enum(['bug', 'suggestion', 'appreciate', 'other']),
-  page: z.string().optional()
+  type: z.enum(['bug', 'suggestion', 'appreciation', 'other']),
+  page: z.string().min(3).max(20),
+  // For heading based feedback
+  heading: z.string().min(3).max(20).optional()
 })
 
-export const feedbackOptions = [
-  { label: '🐞 Bug', value: 'bug' },
+export interface Option {
+  label: string
+  value: FeedbackType['type']
+}
+
+export const feedbackOptions: Option[] = [
   {
-    label: '💡 Suggestion',
+    label: '💡 I have a suggestion',
     value: 'suggestion'
   },
-  { label: '📂 Other', value: 'other' },
+
+  { label: '🐛 I want to report a website bug', value: 'bug' },
   {
-    label: '❤️ Appreciation',
-    value: 'appreciate'
-  }
+    label: '👍 I appreciate the work',
+    value: 'appreciation'
+  },
+  { label: '📂 Something else', value: 'other' }
 ]
 
-export function getFeedbackOption(value: string): {
-  label: string
-  value: string
-} {
+export function getFeedbackOption(
+  value: FeedbackType['type']
+): Option | undefined {
   return feedbackOptions.find((option) => option.value === value)
 }
 

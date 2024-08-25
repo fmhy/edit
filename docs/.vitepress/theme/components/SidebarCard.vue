@@ -1,6 +1,5 @@
 <script setup lang="ts">
 import Field from './CardField.vue'
-import Feedback from './Feedback.vue'
 import InputField from './InputField.vue'
 import ToggleStarred from './ToggleStarred.vue'
 </script>
@@ -16,11 +15,6 @@ import ToggleStarred from './ToggleStarred.vue'
     <div class="card-header">
       <div class="card-title">Options</div>
     </div>
-    <InputField id="feedback" label="Feedback">
-      <template #display>
-        <Feedback />
-      </template>
-    </InputField>
     <InputField id="toggle-starred" label="Toggle Starred">
       <template #display>
         <ToggleStarred />

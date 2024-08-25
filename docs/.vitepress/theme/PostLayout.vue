@@ -1,5 +1,4 @@
 <script setup lang="ts">
-import { useData } from 'vitepress'
 import Authors from './components/Authors.vue'
 
 const props = defineProps<{

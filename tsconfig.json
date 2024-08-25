@@ -1,3 +1,26 @@
 {
-  "extends": "./.nitro/types/tsconfig.json"
+  "compilerOptions": {
+    "verbatimModuleSyntax": true,
+    "baseUrl": ".",
+    "module": "esnext",
+    "target": "esnext",
+    "lib": ["DOM", "ESNext"],
+    "strict": true,
+    "jsx": "preserve",
+    "esModuleInterop": true,
+    "skipLibCheck": true,
+    "moduleResolution": "Bundler",
+    "resolveJsonModule": true,
+    "noUnusedLocals": true,
+    "strictNullChecks": true,
+    "forceConsistentCasingInFileNames": true,
+    "types": ["vitepress"]
+  },
+  "exclude": ["node_modules"],
+  "include": [
+    "**/.vitepress/**/*.ts",
+    "**/.vitepress/**/*.mts",
+    "**/.vitepress/**/*.vue",
+    "./docs/.vitepress/imports.d.ts"
+  ]
 }

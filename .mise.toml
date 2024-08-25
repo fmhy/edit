@@ -1,3 +1,9 @@
 # https://github.com/vitejs/vite/issues/17291
 [tools]
 node = "21"
+
+[tasks]
+d = "nrr docs:dev --host"
+b = "nrr docs:build"
+s = "nrr docs:preview --host"
+bb = "nrr docs:build && nrr docs:preview --host"

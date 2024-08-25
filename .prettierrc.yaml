@@ -4,3 +4,6 @@ singleQuote: true
 printWidth: 80
 trailingComma: none
 htmlWhitespaceSensitivity: ignore
+plugins:
+  - prettier-plugin-tailwindcss
+  - prettier-plugin-pkgsort

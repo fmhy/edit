@@ -1,7 +1,5 @@
 <script setup lang="ts">
 import DefaultTheme from 'vitepress/theme'
-import { useData } from 'vitepress'
-import { nextTick, provide } from 'vue'
 import Sidebar from './components/SidebarCard.vue'
 import Announcement from './components/Announcement.vue'
 

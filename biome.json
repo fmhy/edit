@@ -1,8 +1,12 @@
 {
   "$schema": "https://biomejs.dev/schemas/1.8.3/schema.json",
-  "extends": ["@taskylizard/biome-config"],
+  "extends": ["@taskylizard/biome-config", "./docs/.vitepress/.imports.json"],
   "files": {
-    "ignore": ["docs/.vitepress/**/*.vue", "docs/.vitepress/vue-shim.d.ts"]
+    "ignore": [
+      "docs/.vitepress/**/*.vue",
+      "docs/.vitepress/vue-shim.d.ts",
+      "docs/.vitepress/imports.d.ts"
+    ]
   },
   "formatter": {
     "enabled": false
@@ -19,12 +23,7 @@
   "linter": {
     "rules": {
       "style": {
-        "useFilenamingConvention": {
-          "level": "info",
-          "options": {
-            "filenameCases": ["camelCase", "PascalCase"]
-          }
-        },
+        "useFilenamingConvention": "off",
         "noDefaultExport": "off"
       }
     }
