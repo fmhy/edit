@@ -408,6 +408,7 @@
 * [designbloody](https://vk.com/designbloody)
 * [designarchiv](https://t.me/designarchiv)
 * [grphc dsgn](https://t.me/+xx1YjI6DC4RiZjJk)
+* [creativemrkt](https://t.me/creativemrkt)
 * [freepsdvn](https://freepsdvn.com/)
 * [ae-project](https://ae-project.su/)
 * [godownloads](https://godownloads.net/)
@@ -541,8 +542,8 @@
 * [twnsnd](https://nos.twnsnd.co/) - Vintage Photos
 * [PNGIMG](https://pngimg.com/) or [stickpng](https://www.stickpng.com/) - PNG Photos
 * [gfxmountain](https://gfxmountain.com/stock-photos/) - Stock Photo Collections
-* [FreePik Downloader](https://freepik-downloader.beatsnoop.com/) - FreePik Downloader
-* [Flickr Commons](https://www.flickr.com/commons) / [Downloader](https://github.com/beaufour/flickr-download) - Public Photo Archives
+* [FreePik Downloader](https://freepik-downloader.beatsnoop.com/) or [freepikuz_pro](https://t.me/freepikuz_pro) - FreePik Downloaders
+* [Flickr Commons](https://www.flickr.com/commons) - Public Photo Archives / [Downloader](https://github.com/beaufour/flickr-download) 
 * [Shutterstock Premium](https://t.me/shutterstockpremium), [freestockphotos](https://t.me/freestockphotos) or [Shutter](https://t.me/Shutter) - Shutterstock Telegram Downloaders
 * [Nohat](https://nohat.cc/), [FreeImages](https://www.freeimages.com/), [cgispread](https://cgispread.com/), [Vecteezy](https://www.vecteezy.com/) or [FreeDesignFile](https://freedesignfile.com/) - Misc Stock Photos / Vectors
 * [argfx](https://argfx.co/), [publicdomainvectors](https://publicdomainvectors.org/), [Free Vector](https://www.freevector.com/), [VectorJunky](https://www.vectorjunky.com/), [freevectors](https://www.freevectors.net/) or [vector4free](https://www.vector4free.com/) - Misc Vectors

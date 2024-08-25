@@ -411,10 +411,9 @@
 * ⭐ **[gclone](https://github.com/dogbutcat/gclone)** - Cloud Storage Manager / [Guide](https://telegra.ph/Gclone-Guide-for-Windows-07-20)
 * ⭐ **[Air Explorer](https://airexplorer.net/en/)** - Cloud Storage Manager
 * ⭐ **[RaiDrive](https://www.raidrive.com/)** - Cloud Storage Manager
-* ⭐ **[Cyberduck](https://cyberduck.io/)** - Libre Server / Cloud Storage Browser
+* ⭐ **[Cyberduck](https://cyberduck.io/)** - Libre Server / Cloud Storage Browser / [GitHub](https://github.com/iterate-ch/cyberduck)
 * [SpaceDrive](https://www.spacedrive.com/) - Cloud Storage Manager
 * [AList](https://alist.nn.ci) - Cloud Storage Manager
-* [CarotDAV](http://rei.to/carotdav_en.html) - Cloud Storage Manager
 * [MultCloud](https://www.multcloud.com/) - Cloud Storage Manager
 * [xpipe](https://xpipe.io) - Remote File Manager
 

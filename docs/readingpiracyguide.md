@@ -218,9 +218,7 @@
 * [ABookOfCreatures](https://abookofcreatures.com/), [Demons of the Deep](https://seademons.weebly.com/) or [Bestiary](https://bestiary.ca/beasts.htm) - Mythological Encyclopedias
 * [Theoi](https://www.theoi.com/) - Greek Mythology
 * [Germanic Mythology](https://www.germanicmythology.com/index.html) - Germanic Mythology
-* [Japanese Mythology](https://japanesemythology.wordpress.com/) or [Yokai](https://yokai.com/) - Japanese Mythology / Folklore
 * [Inuit Myths](https://www.inuitmyths.com/index.htm) - Inuit Mythology
-* [BlackDrago](https://www.blackdrago.com/) - Dragon Encyclopedia
 * [Grimoar.cz](http://english.grimoar.cz/?Loc=key&Lng=2), [Occult Rentry](https://rentry.co/FMHYBase64#occult-rentry), [766 Occult Books](https://rentry.co/FMHYBase64#766-occult-books), [Darkbooks](https://darkbooks.org/collection/top250.html) or [Astrum Argenteum](https://www.astrumargenteum.org/library/) - Occult Books
 * [Messy Occult Library](https://rentry.co/FMHYBase64#messy-occult-library) - Occult / Esoterica / Gnosticism
 * [Hermetic International](https://www.hermetics.net/) - Religion / Occult / Gnosticism / Hermetic / Philosophy
@@ -247,11 +245,9 @@
 * [Witchcraft Library](https://rentry.co/FMHYBase64#witchcraft-library) - Witchcraft / Paganism
 * [Public Witchcraft Library](https://rentry.co/FMHYBase64#public-witchcraft-library) - Witchcraft / Paganism / Satanism
 * [Alchemy Drive](https://rentry.co/FMHYBase64#alchemy-drive) - Alchemy
-* [Alchemy Forums](https://alchemyforums.com/index.php) - Alchemy Forum
 * [LeftHandPath](https://rentry.co/FMHYBase64#lefthandpath) - Luciferianism
 * [Hellenistic Theism Drive](https://rentry.co/FMHYBase64#hellenistic-theism) - Hellenistic Theism
 * [The Theosophical Society](https://www.theosociety.org/) - Theosophy
-* [GodChecker](https://www.godchecker.com/) - Religion / Mythology
 * [Sankaracharya](https://www.sankaracharya.org/index.php) - Hinduism
 * [Vedanta Shastras](https://www.shastras.com/) - Hinduism
 * [Siva.sh](https://siva.sh/) - Study Hindu Knowledge via Tech / AI
@@ -305,6 +301,7 @@
 * [VGArtbooks](https://vk.com/vgartbooks) - Video Game Artbooks
 * [Deep-Blue-Sea](http://library.deep-blue-sea.net/) - Self-Help
 * [The Eldritch Dark](http://www.eldritchdark.com/) - Clark Ashton Smith
+* [Booklet Library](https://bookletlibrary.org/) - Booklet Library
 * [Auto-Brochures.com](https://www.auto-brochures.com/) - Auto Brochures
 * [QSL](https://rentry.co/FMHYBase64#qsl) - Ham Radio & Antenna Books
 * [Film Books](https://rentry.co/FMHYBase64#film-books) - Film Books

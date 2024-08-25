@@ -66,11 +66,12 @@
 
 * ⭐ **[Sidebery](https://github.com/mbnuqw/sidebery)** - Extension
 * ⭐ **[Raindrop.io](https://raindrop.io/)**
-* [Auto-Sort Bookmarks](https://github.com/eric-bixby/auto-sort-bookmarks-webext) - Bookmark Sorting Extension
-* [Floccus](https://floccus.org/) - Browser Bookmark Sync Extension / [GitHub](https://github.com/floccusaddon/floccus)
-* [Keep or Delete](https://www.soeren-hentzschel.at/firefox-webextensions/keep-or-delete-bookmarks/) or [Bookmarks Cleanup](https://chromewebstore.google.com/detail/bookmarks-clean-up/oncbjlgldmiagjophlhobkogeladjijl) - Bookmarks Folder Cleanup Extension
 * [Pilgrim](https://pilgrim.are.na/) - Tree Style Path Bookmarking
 * [Bort](https://bort.io/) - Bookmark Manager / Dropbox Sync
+* [WebCull](https://webcull.com/) - End-to-end Encryption / Extension / Webapp
+* [Floccus](https://floccus.org/) - Browser Bookmark Sync Extension / [GitHub](https://github.com/floccusaddon/floccus)
+* [Keep or Delete](https://www.soeren-hentzschel.at/firefox-webextensions/keep-or-delete-bookmarks/) or [Bookmarks Cleanup](https://chromewebstore.google.com/detail/bookmarks-clean-up/oncbjlgldmiagjophlhobkogeladjijl) - Bookmarks Folder Cleanup Extension
+* [Auto-Sort Bookmarks](https://github.com/eric-bixby/auto-sort-bookmarks-webext) - Bookmark Sorting Extension
 * [Bookmarklets Guide](https://rentry.co/bookmarklets-guide) - Useful Bookmarklets / Guide
 * [wallabag](https://wallabag.org/) - Save and Classify Articles
 * [SuperMemory](https://supermemory.ai/) - AI Bookmark App
@@ -101,7 +102,6 @@
 * [Zulu](https://tryzulu.com/)
 * [Contentle](https://contentle.com/)
 * [Clipix](https://www.clipix.com/)
-* [WebCull](https://webcull.com/)
 * [Collect](https://colllect.io/)
 * [GGather](https://web.ggather.com/)
 * [Dropmark](https://www.dropmark.com/)
@@ -172,7 +172,7 @@
 * ⭐ **[Mumble](https://www.mumble.info/)**, [Jam](https://jam.systems/), [TeaSpeak](https://teaspeak.de/gb/), [TeamSpeak](https://www.teamspeak.com/) / [Warning](https://pastebin.com/479TbKq5), [Zoiper](https://www.zoiper.com/) or [Google Voice](https://voice.google.com/) - Voice Chat
 * ⭐ **[Hack.chat](https://hack.chat/)**, [Shick](https://shick.me/), [LeapChat](https://www.leapchat.org/), [Yap](https://yap.chat/), [Convene](https://letsconvene.im/), [Stinto](https://stin.to/en) or [tik.io](https://tlk.io/) - Minimal Account Free Chats
 * ⭐ **[Gajim](https://gajim.org/)** or [xabber](https://www.xabber.com/) - XMPP Clients
-* [Pidgin](https://www.pidgin.im/), [Beeper](https://www.beeper.com/), [Texts](https://texts.com/) or [Ferdium](https://ferdium.org/) - Combine Web Apps / Chats
+* [Pidgin](https://www.pidgin.im/), [Voximity](https://voximity.chat/), [Beeper](https://www.beeper.com/), [Texts](https://texts.com/) or [Ferdium](https://ferdium.org/) - Combine Web Apps / Chats
 * [Cirlos](https://www.cirlos.net/), [Miranda NG](https://www.miranda-ng.org/en/), [Escargot](https://escargot.chat/) or [WeeChat](https://weechat.org/) - Chat Apps
 * [Twist](https://twist.com/) - Collaboration Chat Manager
 * [Cabal](https://cabal.chat/) - P2P Chat / [GitHub](https://github.com/cabal-club)

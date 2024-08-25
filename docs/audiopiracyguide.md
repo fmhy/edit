@@ -6,7 +6,8 @@
 
 # ► Spotify Clients
 
-* ⭐ **[Spotify Desktop](https://www.spotify.com/us/download/)**
+* ⭐ **[Spotify Desktop](https://www.spotify.com/us/download/)** - Official Client / Use Adblockers Below
+* ⭐ **[Spicetify](https://spicetify.app/)** - Modded Client w/ Adblock Plugins
 * [Lofi Rocks](https://www.lofi.rocks/) - Tiny / Minimal Client
 * [MooSync](https://moosync.app/) - Feature-Rich Client
 * [Spotify Web Client](https://open.spotify.com/)
@@ -16,9 +17,8 @@
 
 ## ▷ Spotify Adblockers
 
-* ⭐ **[SpotX](https://github.com/SpotX-Official/SpotX)** - [Telegram](https://t.me/SpotxCommunity)
-* ⭐ **[Spicetify](https://spicetify.app/)** - Has Adblock Plugins
-* ⭐ **[BlockTheSpot](https://github.com/mrpond/BlockTheSpot)** - [Discord](https://discord.gg/9tCNMFESuC)
+* ⭐ **[SpotX](https://github.com/SpotX-Official/SpotX)** / [Telegram](https://t.me/SpotxCommunity)
+* ⭐ **[BlockTheSpot](https://github.com/mrpond/BlockTheSpot)** / [Discord](https://discord.gg/9tCNMFESuC)
 * [BurntSushi](https://github.com/OpenByteDev/burnt-sushi)
 * [Block Ad Host Files](https://gist.github.com/opus-x/3e673a9d5db2a214df05929a4eee6a57)
 * [Spotify Adblock Guide](https://redd.it/yme7pf)
@@ -250,14 +250,15 @@
 * [DownOnSpot](https://github.com/oSumAtrIX/DownOnSpot) - Spotify / 160kb Free / 320kb Premium
 * [Zotify](https://zotify.xyz/) - Spotify / 160kb Free / 320kb Premium / [Discord](https://discord.gg/Arpx9hunkm)
 * [OnTheSpot](https://github.com/casualsnek/onthespot) - Spotify / 160kb Free / 320kb Premium / [Discord](https://discord.com/invite/hz4mAwSujH)
+* [Spotify Direct Downloader](https://github.com/afkarxyz/spotify-downloader-gui) - Lucida / Spotifydown Frontend 
 * [spotify_sync](https://github.com/jbh-cloud/spotify_sync) - Deezer / 128kb Free / FLAC Premium (Firehawk52)
 * [streamrip](https://github.com/nathom/streamrip) - Deezer / Tidal / Qobuz / SoundCloud / 128kb Free / FLAC Premium (Firehawk52)/ [Colab](https://github.com/r-piratedgames/rip)
 * [d-fi](https://notabug.org/sayem314/d-fi) - Deezer / FLAC / Requires Premium (Firehawk52) / [GUI](https://github.com/jaylex32/BeatOn)
 * [Orpheus](https://github.com/yarrm80s/orpheusdl) - Deezer / Qobuz / 128kb Free / FLAC Premium / [Deezer Module](https://github.com/uhwot/orpheusdl-deezer) / [Qobuz Module](https://github.com/yarrm80s/orpheusdl-qobuz)
 * [SaturnMusic](https://github.com/SaturnMusic/) - Deezer / FLAC / Requires Premium (Firehawk52)
 * [DeemixFix](https://gitlab.com/deeplydrumming/DeemixFix) - Deezer / FLAC / Requires Premium (Firehawk52)
-* [QobuzDownloaderX-MOD](https://github.com/DJDoubleD/QobuzDownloaderX-MOD) - Qobuz / 128 kb Free / FLAC Premium
-* [qobuz-dl](https://github.com/vitiko98/qobuz-dl) - Qobuz /128 kb Free / FLAC Premium
+* [QobuzDownloaderX-MOD](https://github.com/DJDoubleD/QobuzDownloaderX-MOD) - Qobuz / 128kb Free / FLAC Premium
+* [qobuz-dl](https://github.com/vitiko98/qobuz-dl) - Qobuz /128kb Free / FLAC Premium
 * [GamDL](https://github.com/glomatico/gamdl) - Apple / FLAC / Requires Premium
 * [Murglar](https://murglar.app/) - Deezer / SoundCloud / VK / 320kb MP3
 * [Savify](https://github.com/LaurenceRawlings/savify) - YouTube / SoundCloud / 128kb AAC
@@ -743,6 +744,7 @@
 * [Element](https://kushview.net/element/), [Bespoke](https://www.bespokesynth.com/) or [SunVox](https://warmplace.ru/soft/sunvox/) - Modular Audio Environments / [Discord](https://discord.com/invite/RVk3RVJ)
 * [Music Experiment](https://petersalomonsen.com/webassemblymusic/livecodev2/), [Sonic-Pi](https://sonic-pi.net/), [SuperCollider](https://supercollider.github.io/) or [WebChuck IDE](https://ccrma.stanford.edu/~tzfeng/webchuck-ide/) - Create Music with Code
 * [TuneFlow](https://tuneflow.com/) - AI Audio Editor
+* [ocenaudio](https://www.ocenaudio.com/) - Audio Editor
 * [Wavosaur](https://www.wavosaur.com/) - Audio Editor
 * [Reaper](https://www.reaper.fm/) - Audio Editor / [Note](https://pastebin.com/aP4M6ArY)
 * [Cakewalk](https://www.bandlab.com/products/cakewalk) - Audio Editor / [Discord](https://discord.com/invite/bandlab)
@@ -779,6 +781,7 @@
 * [TwistedWave](https://twistedwave.com/online) - Online Editor
 * [xAudioPro](https://www.xaudiopro.com/en/) - Online Editor
 * [Signal](https://signal.vercel.app/) - MIDI Editor
+* [Tonecraft](https://dinahmoelabs.com/tonecraft ) - 3D Song Creator
 * [WebSynths](https://www.websynths.com/) - Browser Synthesizers
 * [NoiseCraft](https://noisecraft.app/) - Modular Synth Builder
 * [StarrynetsPiano](https://piano.starrynets.com/) or [VirtualPiano](https://virtualpiano.net/) - Browser Pianos

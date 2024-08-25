@@ -52,19 +52,19 @@
 
 ## ▷ System Tweaks
 
-* ⭐ **[EverythingToolbar](https://github.com/srwi/EverythingToolbar)** or [yasb](https://github.com/da-rth/yasb) - Improved Taskbars
-* ⭐ **[Open Shell](https://open-shell.github.io/Open-Shell-Menu/)** or [ValliStart](https://github.com/Jax-Core/ValliStart) - Improved Start Menus
-* ⭐ **[EarTrumpet](https://eartrumpet.app/)**, [Volumey](https://github.com/G-Stas/Volumey) or [Volume2](https://github.com/irzyxa/Volume2) - Improved Volume Mixer
-* ⭐ **[AltSnap](https://github.com/RamonUnch/AltSnap)** - Improved Windows Dragging
-* [MajorGeeks Windows Tweaks](https://www.majorgeeks.com/files/details/majorgeeks_registry_tweaks.html), [Winaero](https://winaero.com/), [QuickBoost](https://github.com/SanGraphic/QuickBoost) or [Windhawk](https://windhawk.net/) - System Tweaking Tools / **[Warning](https://pastebin.com/vMYCiAGE)**
+* ⭐ **[EverythingToolbar](https://github.com/srwi/EverythingToolbar)** or [yasb](https://github.com/da-rth/yasb) - Tweaked Taskbars
+* ⭐ **[Open Shell](https://open-shell.github.io/Open-Shell-Menu/)** - Tweak Start Menu
+* ⭐ **[EarTrumpet](https://eartrumpet.app/)**, [Volumey](https://github.com/G-Stas/Volumey) or [Volume2](https://github.com/irzyxa/Volume2) - Tweak Volume Mixer
+* ⭐ **[AltSnap](https://github.com/RamonUnch/AltSnap)** - Tweaked Windows Dragging
+* [MajorGeeks Windows Tweaks](https://www.majorgeeks.com/files/details/majorgeeks_registry_tweaks.html), [Winaero](https://winaero.com/) or [Windhawk](https://windhawk.net/) - System Tweaking Tools / **[Warning](https://pastebin.com/vMYCiAGE)**
 * [abbodi1406](https://forums.mydigitallife.net/threads/abbodi1406s-batch-scripts-repo.74197/), [BatUtil](https://github.com/abbodi1406/BatUtil) or [TechNet-Gallery](https://github.com/MScholtes/TechNet-Gallery) - System Scripts
 * [Win10 Widgets](https://win10widgets.com/) or [Eww](https://github.com/elkowar/eww) - Widgets for Windows
 * [Wintoys](https://apps.microsoft.com/store/detail/wintoys/9P8LTPGCBZXD) - System App Tweaking
 * [Listary](https://www.listary.com/), [FlowLauncher](https://www.flowlauncher.com/), [Ueli](https://ueli.app/) / [GitHub](https://github.com/oliverschwendener/ueli) - Keystroke / App Launchers
 * [Kando](https://github.com/kando-menu/kando) - App Launcher / Pie Menu / [Discord](https://discord.gg/hZwbVSDkhy)
-* [Hunt and Peck](https://github.com/zsims/hunt-and-peck/) or [Cerebro App](https://cerebroapp.com/) - Improved System Navigation
-* [SmartSystemMenu](https://github.com/AlexanderPro/SmartSystemMenu) - Improved System Menu
-* [EasyContextMenu](https://www.sordum.org/7615/easy-context-menu-v1-6/) or [Nilesoft Shell](https://nilesoft.org/) - Improved Context Menus
+* [Hunt and Peck](https://github.com/zsims/hunt-and-peck/) or [Cerebro App](https://cerebroapp.com/) - Tweaked System Navigation
+* [SmartSystemMenu](https://github.com/AlexanderPro/SmartSystemMenu) - Tweak System Menu
+* [EasyContextMenu](https://www.sordum.org/7615/easy-context-menu-v1-6/) or [Nilesoft Shell](https://nilesoft.org/) - Tweaked Context Menus
 * [ContextMenuManager](https://github.com/BluePointLilac/ContextMenuManager/blob/master/README-en.md) - Customize Context Menu
 * [RCWM](https://github.com/GChuf/RCWM) - Context Menu Tools
 * [Spencer](https://www.the-sz.com/products/spencer/) or [Fluent-Metro](https://github.com/bonzibudd/Fluent-Metro) - Classic Start Menu
@@ -131,10 +131,8 @@
 * ⭐ **[RustDesk](https://rustdesk.com/)** / [GitHub](https://github.com/rustdesk/rustdesk)
 * ⭐ **[Parsec](https://parsec.app/)**
 * [RealVNC](https://www.realvnc.com/en/) - Max 3, Multi-OS Support
-* [Ammyy](https://www.ammyy.com/en/)
 * [FreeRDP](https://www.freerdp.com/)
 * [Remotly](https://remotly.com/)
-* [Myrtille](https://cedrozor.github.io/myrtille/)
 * [Aspia](https://aspia.org/)
 * [ChromeRemoteDesktop](https://remotedesktop.google.com/)
 * [TightVNC](https://www.tightvnc.com/)

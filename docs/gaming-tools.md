@@ -52,7 +52,7 @@
 * ⭐ **[GreenLuma](https://cs.rin.ru/forum/viewtopic.php?f=29&t=103709)** / [Manager](https://github.com/BlueAmulet/GreenLuma-2024-Manager) - Offline Steam DRM Bypass / DLC Unlockers
 * ⭐ **[Unsteam](https://cs.rin.ru/forum/viewtopic.php?f=20&t=134707&hilit=unsteam)** - Online Steam DRM Bypass / Cracked Servers Only / Multiplayer Emulator
 * ⭐ **[Steamless](https://github.com/atom0s/Steamless)** - Steam DRM Remover
-* ⭐ **[Goldberg](https://github.com/Detanup01/gbe_fork)** / [GUI](https://github.com/brunolee-GIT/GSE-Generator) / [Guide](https://rentry.co/goldberg_emulator) / [SmartSteamEmu](https://cs.rin.ru/forum/viewtopic.php?p=2009102#p2009102) - Offline Steam DRM Bypass / Multiplayer Emulator
+* ⭐ **[Goldberg](https://github.com/Detanup01/gbe_fork)** / [GUI](https://github.com/brunolee-GIT/GSE-Generator) / [Guide](https://rentry.co/goldberg_emulator) / [SmartSteamEmu](https://cs.rin.ru/forum/viewtopic.php?f=29&t=62935&sid=c6b5dadd40d56ac20a8789121bb743c5) - Offline Steam DRM Bypass / Multiplayer Emulator
 * ⭐ **[Steam-Auto-Crack](https://github.com/oureveryday/Steam-auto-crack)** or [SteamAutoCracker](https://github.com/BigBoiCJ/SteamAutoCracker) - Auto Apply Goldberg + Steamless / [Guide](https://codeberg.org/fernbacher/How-To-Crack)
 * ⭐ **[SteamDB](https://steamdb.info/)** or [Steambase](https://steambase.io/) - Steam Insights Tools / [Extension](https://steamdb.info/extension/)
 * ⭐ **[SDD GUI](https://github.com/mmvanheusden/SteamDepotDownloaderGUI)** or [DepotDownloader](https://github.com/SteamRE/DepotDownloader) - Steam Depot Downloaders
@@ -193,6 +193,8 @@
 * [FlingTrainer](https://flingtrainer.com/) - Game Mods / Trainers
 * [Top Mods](https://www.top-mods.com/) - PC Game Mods
 * [ProAsm](http://www.proasm.com/) - Retro Game Mods
+* [Thunderstore](https://thunderstore.io/) - Unity Game Mods
+* [Gale](https://github.com/Kesomannen/gale/) or [r2modman](https://github.com/ebkr/r2modmanPlus) - Thunderstore / BepInEx Unity Mod Managers
 * [ProWrestlingMods](https://prowrestlingmods.io/) - Wrestling Game Mods / [Discord](https://discord.gg/ctUmSTueV3)
 * [KSP-CKAN](https://github.com/KSP-CKAN/CKAN/) - Kerbal Space Program Mod Loader
 * [Pre-Fortress 2](https://prefortress.com/) - TF1 Style TF2 Mod
@@ -328,9 +330,12 @@
 
 ## ▷ Multiplayer Mods
 
-* 🌐 **[Multiplayer Mods](https://docs.google.com/spreadsheets/d/e/2PACX-1vSV41AswEt3EpzSyd85YRVtoJaIIXWjtBy347dISJg4fs6xSNPqcgfsh76TxX_l-mnT7pjMlSqTW-87/pubhtml)** or [Unmoddable](https://unmoddable.com/) - Multiplayer Mods for Singleplayer Games
-* [AlterWare](https://alterware.dev/) - COD Multiplayer Projects
-* [Plutonium](https://plutonium.pw/) - Black Ops 2 / MW3 Mod Project / [Setup Guide](https://guides.viren070.me/plutonium) / [Offline Launcher](https://github.com/JugAndDoubleTap/LanLauncher) / [Discord](https://discord.gg/d95y8ah)
+* 🌐 **[Multiplayer Mods](https://docs.google.com/spreadsheets/d/e/2PACX-1vSV41AswEt3EpzSyd85YRVtoJaIIXWjtBy347dISJg4fs6xSNPqcgfsh76TxX_l-mnT7pjMlSqTW-87/pubhtml)** or [Unmoddable](https://unmoddable.com/) - Multiplayer Mods for Single-Player Games
+* [AlterWare](https://alterware.dev/) - COD Multiplayer Projects / [Discord](https://discord.gg/2ETE8engZM)
+* [Plutonium](https://plutonium.pw/) - COD Multiplayer Projects / [Setup Guide](https://guides.viren070.me/plutonium) / [Video Guide](https://youtu.be/8F7hv98t8ck) / [Offline Launcher](https://github.com/JugAndDoubleTap/LanLauncher) / [Discord](https://discord.gg/d95y8ah)
+* [MRON Warzone](https://www.mronwarzone.ru/) - MW2019 Multiplayer Client / [Guide](https://youtu.be/mDAVpNILA7s) / [Discord](https://discord.gg/dxy6kVdf)
+* [Feitan H2M Service](https://discord.gg/wRqJq8uk), [H2M Backup](https://discord.gg/JxYz9kSyRs ), [Justeeno H2M](https://discord.gg/kz5AMmeDnB) or [HorizonMW](https://discord.gg/t3Xezdwy) - Modern Warfare Remastered Multiplayer Client / [Guide](https://rentry.org/hz2uthaa) / [Video Guide](https://youtu.be/Sbgom13CJbk), [2](https://youtu.be/uTY_mdciMCg) / [Servers / Info](https://master.iw4.zip/) / [Tools](https://github.com/z6m/h2m-tool)
+* [CoD4x Mod](https://cod4x.ovh/) - COD4 Multiplayer Project / Requires MP Key / [Discord](https://discord.com/invite/fMGb7BGVvy)
 * [Venice Unleashed](https://veniceunleashed.net/) / [Discord](https://discord.com/invite/dpJwaVZ) or [Warsaw Revamped](https://warsaw-revamped.com/) / [Discord](https://discord.com/invite/C9Zrh4G) - Battlefield Mod Projects
 * [Smash64](https://smash64.online/) - Smash Bros 64 Online / [Discord](https://discord.gg/ssb64)
 * [Marne](https://marne.io/) - BF1 Multiplayer Project / [Discord](https://marne.io/discord)
@@ -576,7 +581,7 @@
 * 🌐 **[TMC Links](https://gist.github.com/JoakimThorsen/e90bd7a588af25ae529530987d9acc8a)** - Technical Minecraft Resources
 * ⭐ **[MCPropertyEncyclopedia](https://joakimthorsen.github.io/MCPropertyEncyclopedia/)** - Block Property Encyclopedia
 * ⭐ **[spark](https://spark.lucko.me/)** - Minecraft Performance Profiler
-* [Minecraft Performance Flags](https://github.com/Mukul1127/Minecraft-Performance-Flags-Benchmarks) - Java Minecraft Benchmarks
+* ⭐ **[Minecraft Performance Flags](https://github.com/Mukul1127/Minecraft-Performance-Flags-Benchmarks)** - Java Minecraft Benchmarks
 * [Report Inspector](https://misode.github.io/report/) - Crash Report / Profiling Inspector
 * [Mineflayer](https://prismarinejs.github.io/mineflayer/) - Minecraft Bot Creator / [GitHub](https://github.com/PrismarineJS/mineflayer)
 * [Minecraft Armor Stand](https://haselkern.com/Minecraft-ArmorStand/) - Design Poses for Armorstands
@@ -606,7 +611,7 @@
 ## ▷ 3D Tools
 
 * ⭐ **[MCprep](https://theduckcow.com/dev/blender/mcprep/)** - All-in-one Blender addon / [GitHub](https://github.com/Moo-Ack-Productions/MCprep) / [Discord](https://discord.com/invite/mb8hBUC)
-* ⭐ **[Mineways](https://www.realtimerendering.com/erich/minecraft/public/mineways/)**, **[jmc2obj](https://www.jmc2obj.net/)**, [MiEX](https://bramstout.nl/en/miex/), [Minutor](https://seancode.com/minutor/) - Minecraft World Exporters
+* ⭐ **[jmc2obj](https://www.jmc2obj.net/)**, [Mineways](https://www.realtimerendering.com/erich/minecraft/public/mineways/), [MiEX](https://bramstout.nl/en/miex/), [Minutor](https://seancode.com/minutor/) - Minecraft World Exporters
 * [Mine-imator](https://www.mineimator.com/) - Animation tool / [2.0 Version](https://www.mineimatorforums.com/index.php?/topic/90789-mine-imator-202/) / [Forum](https://www.mineimatorforums.com/) / [GitHub](https://github.com/stuffbydavid/Mine-imator) / [Discord](https://discord.com/invite/GxFp6xv)
 * [Chunky](https://chunky-dev.github.io/docs/) - Photorealistic Renderer / [GitHub](https://github.com/chunky-dev/chunky) / [Discord](https://discord.com/invite/VqcHpsF)
 * [Cubical](https://www.cubical.xyz/) - Minecraft 3D Schematic Tool / [Beta](https://beta.cubical.xyz/)
@@ -786,7 +791,7 @@
 * 🌐 **[Roblox Archive](https://archive.roblonium.com/)** - Roblox Client Archive
 * ⭐ **[Roblox Account Manager](https://github.com/ic3w0lf22/Roblox-Account-Manager)** - Roblox Account Manager
 * ⭐ **[Rolimon's](https://www.rolimons.com/games)** or [RoMonitor Stats](https://romonitorstats.com/) - Roblox Experience Stats
-* ⭐ **[Bloxstrap](https://bloxstrap.pizzaboxer.xyz/)** - Roblox Player Bootstrapper / **[GitHub](https://github.com/pizzaboxer/bloxstrap)**
+* ⭐ **[Bloxstrap](https://bloxstrap.pizzaboxer.xyz/)** - Roblox Player Bootstrapper / [Discord](https://discord.com/invite/nKjV3mGq6R) / [GitHub](https://github.com/pizzaboxer/bloxstrap)
 * [Novetus](https://bitl.itch.io/novetus) - Self-Hosted Multi-version Roblox Client
 * [Roblox Studio Mod Manager](https://github.com/MaximumADHD/Roblox-Studio-Mod-Manager) - Roblox Studio Bootstrapper
 * [RoPro](https://ropro.io/), [Roblox+](https://chromewebstore.google.com/detail/roblox/jfbnmfgkohlfclfnplnlenbalpppohkm), [BTRoblox](https://twitter.com/AntiBoomz/status/1378597179556823040), [RoGold](https://rogold.live/) or [RoSeal](https://www.roseal.live/) - Enhance Roblox Website

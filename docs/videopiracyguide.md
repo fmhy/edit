@@ -42,6 +42,7 @@
 * [PlayFlix](https://playflix.ru/) - Movies / TV / Anime / 4K / 1080p
 * [123MoviesFree](https://ww2.123moviesfree.net/) - Movies / TV / Anime / 1080p
 * [r123movie](https://r123movie.com/) - Movies / TV / Anime / 1080p
+* [Daitign](https://daiflix.daitign.com/) - Movies / TV / Anime / 1080p / Signup Required
 * [Way2Movies](https://way2movies.vercel.app/) - Movies / TV / Anime / 4K
 * [ValhallaStream](https://valhallastream.us.kg/), [2](https://valhallastream.pages.dev/) - Movies / TV / Anime / 4K
 * [WatchNest](https://watchnest.site/), [2](https://watchnest.top/), [3](https://watchnest.xyz/) - Movies / TV / Anime / 4K / 1080p
@@ -537,7 +538,6 @@
 * ⭐ **[Drama Day](https://dramaday.me/)** - Asian Drama / 1080p
 * ⭐ **[Video Download CSE](https://cse.google.com/cse?cx=006516753008110874046:wevn3lkn9rr)** / [CSE 2](https://cse.google.com/cse?cx=89f2dfcea452fc451) / [CSE 3](https://cse.google.com/cse?cx=aab218d0aa53e3578)
 * [DDLBase](https://ddlbase.com/) - Movies / TV / 4K
-* [Binged](https://binged.live/), [2](https://binge.lol/), [3](https://binged.in/) - Movies / TV / Anime / 4K / 1080p / [Discord](https://discord.gg/f2SvhcKCKS)
 * [KatMovieHD](https://katmoviehd.boo/) - Movies / TV / Anime / 1080p / [Telegram](https://t.me/joinchat/TMuzf8VYH7M1YWVh)
 * [RareLust](https://rarelust.com/) - Rare Movies / NSFW / 1080p
 * [My Duck Is Dead](https://myduckisdead.org/) - Rare Movies / NSFW / 1080p
@@ -712,7 +712,7 @@
 
 * ⭐ **[Nyaa](https://nyaa.si/)**, [2](https://nyaa.iss.one/) [3](https://nyaa.iss.ink/) - Sub / Dub
 * ⭐ **Nyaa Tools** - [TUI](https://github.com/Beastwick18/nyaa) / [CLI](https://github.com/johnvictorfs/nyaa-cli) / [Telegram Bot](https://github.com/ejnshtein/nyaasi-bot), [2](https://t.me/meow_in_japanese_bot), [2](https://t.me/NyaaTorrents) / [Python Wrapper](https://github.com/JuanjoSalvador/NyaaPy) / [Torrent Fetch](https://github.com/daynum/nyaabag), [2](https://nyaaapi.onrender.com/docs) / [Downloader](https://github.com/marcpinet/nyaadownloader) / [Quality Guide](https://greasyfork.org/en/scripts/441017-nyaablue)
-* ⭐ **[Miru](https://miru.watch/)** - Stream Anime Torrents
+* ⭐ **[Miru](https://miru.watch/)** or [Migu](https://miguapp.pages.dev/ ) - Stream Anime Torrents
 * ⭐ **[AnimeTosho](https://animetosho.org/)** - Sub / Dub
 * ⭐ **[TokyoTosho](https://www.tokyotosho.info/)** - Sub
 * ⭐ **[ShanaProject](https://www.shanaproject.com/)** - Sub

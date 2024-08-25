@@ -51,6 +51,7 @@
 * 🌐 **[Awesome Bots](https://doppler.com) / [GitHub](https://github.com/DopplerHQ/awesome-bots)** - Developer Bot Index
 * 🌐 **[Awesome Design Patterns](https://github.com/DovAmir/awesome-design-patterns)** - Design Pattern Resources
 * ↪️ **[Multi-Tool Dev Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_multi_dev_tool_sites)**
+* ⭐ **[DevDocs](https://devdocs.io/)** - Dev Documentation
 * [Devhints](https://devhints.io/) - Developer Cheat Sheets
 * [DevToys](https://devtoys.app/) - Dev Multi-Tool App
 * [Student Developer Pack](https://education.github.com/pack) - Free Developer Tools for Students

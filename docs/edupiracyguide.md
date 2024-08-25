@@ -152,6 +152,7 @@
 * [Shroomery](https://www.shroomery.org/) - Magic Mushroom Forum
 * [HerbologyY](https://t.me/HerbologyY) - Herbology / Telegram
 * [HypnosisChatBooks](https://t.me/HypnosisChatBooks) - Hypnosis / Telegram
+* [Alchemy Forums](https://alchemyforums.com/index.php) - Alchemy Forum
 * [P2PU](https://www.p2pu.org/) - Join Learning Groups Using Free Courses
 
 ***
@@ -174,6 +175,8 @@
 * [TimeGuessr](https://timeguessr.com/) - Historical GeoGuessr
 * [BlackPast](https://www.blackpast.org/) - African History Encyclopedia
 * [Mission US](https://www.mission-us.org/) - American History Learning Games
+* [GodChecker](https://www.godchecker.com/) - Religion / Mythology History
+* [Japanese Mythology](https://japanesemythology.wordpress.com/) or [Yokai](https://yokai.com/) - Japanese Mythology / Folklore
 * [OnThisDay](https://www.onthisday.com/) or [Curiosity Of The Day](https://www.curiosityoftheday.com/) - What Happened on Specific Days
 * [Royal Constellations](https://royalconstellations.visualcinnamon.com/) - Royal Family Ancestral Visualization
 * [Sciphilos](https://sciphilos.info/) or [Calculating Empires](https://calculatingempires.net/) - Historical Discovery Timelines
@@ -182,10 +185,10 @@
 * [911 Realtime](https://911realtime.org/) - 9/11 in Realtime
 * [The Food Timeline](https://www.foodtimeline.org/) - Food History Timeline
 * [Historical Recipes](https://l-lists.com/en/lists/55cbww.html) - Historical Recipes Site Index
-* [ChinesePosters](https://chineseposters.net/) - Chinese Propaganda Poster History
 * [Arachne](https://arachne.dainst.org/) - Ancient Sculpture Image Archive
 * [SmartHistory](https://smarthistory.org/) - Art / Cultural Object History
 * [CARI](https://cari.institute/) - Design Aesthetics History
+* [ChinesePosters](https://chineseposters.net/) - Chinese Propaganda Poster History
 * [Historical Fashion](https://docs.google.com/document/d/1R8eulTsb9Zlc7h2H917dNJZS9s0rIq9OAu7LpSS9F2k/) - Historical Fashion History
 * [PessimistsArchive](https://pessimistsarchive.org/) - Historical Technological Pessimism Archive
 

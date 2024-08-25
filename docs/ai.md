@@ -41,6 +41,7 @@
 * ⭐ **[Claude](https://claude.ai/)** - Anthropic's Chatbot / Phone # Required
 * ⭐ **[sdk.vercel](https://sdk.vercel.ai/)** - Multiple Chatbots
 * ⭐ **[groq](https://groq.com/)** - Llama 3 and Mixtral Chatbots
+* ⭐ **[Tune AI](https://chat.tune.app/)** - Multiple Chatbots / 24 Msgs per Chat / [Discord](https://discord.gg/EkH7px4JNW)
 * ⭐ **[LMSYS Chat](https://lmarena.ai/)**, [2](https://chat.lmsys.org/) - Chat and Compare Multiple Chatbots
 * [DuckDuckGo AI](https://duck.ai/) - Multiple Chatbots
 * [LLM Playground](https://llmplayground.net/) - Multiple Chatbots / 1000 word limit / [Discord](https://discord.com/invite/q55gsH8z5F) / [API](https://api.discord.rocks/)
@@ -133,6 +134,7 @@
 * [WDTCD?](https://whatdoesthiscodedo.com/) - Coding AI
 * [Sourcery](https://sourcery.ai/) - Coding AI
 * [Devv](https://devv.ai/) - Coding AI
+* [SuperMaven](https://supermaven.com/) - Coding AI / [Discord](https://discord.com/invite/QQpqBmQH3w)
 * [Cody](https://about.sourcegraph.com/cody) - Coding AI
 * [OpenDevin](https://github.com/OpenDevin/OpenDevin) - Coding AI
 * [continue](https://continue.dev/) - Coding AI
@@ -265,8 +267,9 @@
 * ⭐ **[Tensor.art](https://tensor.art/)** / 100 Daily
 * ⭐ **[Shakker](https://www.shakker.ai/)** / 50 Daily / [Discord](https://discord.gg/djyP5u3vHY) / [Guide](https://docs.google.com/document/d/1PZ6to6Nn995J0o0BbEPhucqge9uyc1acQoNuvWkK6M8/edit#heading=h.kkzhkyyy4ze4)
 * ⭐ **[Leonardo.ai](https://app.leonardo.ai/)** / 30 Daily
+* [FLUX.1 [Schnell]](https://huggingface.co/spaces/black-forest-labs/FLUX.1-schnell) / [2](https://fal.ai/models/fal-ai/flux/schnell?ref=blog.fal.ai) or [FLUX.1 [Dev]](https://huggingface.co/spaces/black-forest-labs/FLUX.1-dev) / [2](https://fal.ai/models/fal-ai/flux/dev?ref=blog.fal.ai) / Unlimited
 * [Stable Diffusion](https://huggingface.co/spaces/stabilityai/stable-diffusion) / Unlimited / [GitHub](https://github.com/Stability-AI/stablediffusion) / [Discord](https://discord.com/invite/stablediffusion)
-* [Prodia](https://app.prodia.com/) / [Discord](https://discord.com/invite/495hz6vrFN) / [Huggingchat Demo](https://huggingface.co/spaces/prodia/fast-stable-diffusion) / Unlimited
+* [Prodia](https://app.prodia.com/) / Unlimited / [Huggingchat Demo](https://huggingface.co/spaces/prodia/fast-stable-diffusion) / [Discord](https://discord.com/invite/495hz6vrFN)
 * [Unstability.ai](https://www.unstability.ai/) / 52 Daily
 * [NVIDIA NIM](https://build.nvidia.com/) / 50 Daily
 * [SeaArt](https://www.seaart.ai/) / 40 Daily

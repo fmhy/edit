@@ -552,7 +552,7 @@
 * [SpeechChat](https://speechchat.com/) - Twitch Text to Speech Client
 * [Twitch Lite](https://thavixt.github.io/twitch-lite/) - Lightweight Twitch Webplayer
 * [Walrus](https://joinwalrus.tv/) - Make Twitch Watch Parties
-* [MuliTwitch.tv](https://multitwitch.tv/), [MultiTwitch.co](https://multitwitch.co/), [Twitch3D](https://hjjg200.github.io/twitch3d/), [Twitch Replay](https://www.twitch-replay.com/), [Multi](https://multi.raredrop.co/), [MultiStre.am](https://multistre.am/), [MultiStreamer](https://multistreamer.lucidnet.app/) or [TwitchTheater](https://twitchtheater.tv/) - Twitch Mult-Stream
+* [MuliTwitch.tv](https://multitwitch.tv/), [MultiTwitch.co](https://multitwitch.co/), [Twitch3D](https://hjjg200.github.io/twitch3d/), [Twitch Replay](https://www.twitch-replay.com/), [Multi](https://multi.raredrop.co/), [MultiStre.am](https://multistre.am/), [MultiStreamer](https://multistreamer.lucidnet.app/) or [TwitchTheater](https://twitchtheater.tv/) - Twitch Multi-Stream
 * [Twitchls](https://twitchls.com/) - HTML5 Twitch Stream Player
 * [nobody.live](https://nobody.live/) or [Twitch Roulette](https://twitchroulette.net/) - Random Stream Roulette
 * [Alternate Player for Twitch.tv](https://pastebin.com/Z7NWxSfA) - Alternative Twitch Player
@@ -729,7 +729,7 @@
 * ⭐ **[Lemmy Explorer](https://lemmyverse.net/)** or [Awesome Lemmy Instances](https://github.com/maltfield/awesome-lemmy-instances) - Lemmy Instances
 * ⭐ **[Lemmy Apps](https://join-lemmy.org/apps)** - Lemmy Client List
 * ⭐ **[Divisions by zero](https://lemmy.dbzer0.com/)** - Piracy Focused Instance
-* [Quiblr](https://quiblr.com/) - Lemmy Instance Browser
+* [Quiblr](https://quiblr.com/) - Lemmy Instance Browser / [GitHub](https://github.com/Technicolor-Dreamcoat/Quiblr)
 * [Fediverser](https://portal.alien.top/) - Reddit to Lemmy Community Auto-Sync
 * [LemmyTools](https://github.com/howdy-tsc/LemmyTools) - Lemmy Improvement Extension
 

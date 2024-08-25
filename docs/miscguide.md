@@ -312,7 +312,7 @@
 * [Tropical Tidbits](https://www.tropicaltidbits.com/) - Hurricane Forecast Models
 * [Tornado Archive](https://tornadoarchive.com/) - Tornado Archive Data Explorer
 * [Find Your Tornado Shelter](https://findyourtornadoshelter.com/) - Tornado Shelter Map
-* [Blitzortung.org](https://www.blitzortung.org/en/live_lightning_maps.php) - Real-time Lightning and Thunderstorms Map
+* [Blitzortung.org](https://www.blitzortung.org/en/live_lightning_maps.php) or [Lightning Maps](https://www.lightningmaps.org/) - Lightning / Thunderstorms Maps
 * [aqicn.org](https://aqicn.org/map/world) - Air Quality Map
 * [Light Pollution Map](https://lightpollutionmap.info/) - Light Pollution Map
 * [CPRE](https://www.cpre.org.uk/light-pollution-dark-skies-map/) - England Light Pollution Map
@@ -942,7 +942,11 @@ https://github.com/NobodyForNothing/blood-pressure-monitor-fl
 ## ▷ Games
 
 * ⭐ **[IsThereAnyDeal](https://isthereanydeal.com/)**
-* ⭐ **[SteamDB](https://steamdb.info/sales/)** or [GG.deals Steam](https://gg.deals/deals/steam-deals/) - Steam Sales
+* ⭐ **[SteamDB](https://steamdb.info/sales/)** - Steam Sales
+[GG.deals Steam](https://gg.deals/deals/steam-deals/) - Steam Sales
+* [SteamBase](https://steambase.io/sales) - Steam Sales
+* [SteamDeals](https://www.reddit.com/r/steamdeals/) - Steam Sales
+* [SteamSpy](https://steamspy.com/deal/) - Steam Sales
 * [Steam Coupons](https://pastebin.com/embed_iframe/i8ri7Ne7) - Updated List of Every Steam Coupon
 * [CheapShark](https://www.cheapshark.com/) / [Discord](https://discord.com/invite/cheapshark)
 * [/r/GameDeals](https://www.reddit.com/r/gamedeals)
@@ -1377,6 +1381,7 @@ https://github.com/NobodyForNothing/blood-pressure-monitor-fl
 * [UFO Casebook](https://www.ufocasebook.com/), [UFO Discovery](https://app.polymersearch.com/polymerexamples/UFO_Sightings) or [UFO Sighting Chart](https://i.redd.it/0l9ugv9kz4091.jpg) - UFO Sighting Lists / Tracking
 * [BFRO](https://bfro.net/) - Bigfoot Research Site
 * [TheShadowlands](https://theshadowlands.net/) - Oldschool Paranormal Research Site
+* [BlackDrago](https://www.blackdrago.com/) - Dragon Encyclopedia
 * [FutureTimeline](https://www.futuretimeline.net/) - Timeline of Future Predictions
 * [Letters of Note](https://news.lettersofnote.com/) - Historical Letters
 * [CommSpeeches](https://commspeeches.softr.app/) - Famous Graduation Speeches

@@ -47,6 +47,7 @@
 * [Android Ultimate Collection](https://xdaforums.com/t/android-ultimate-collection-guides.4513231/)
 * [APKMonk](https://www.apkmonk.com/)
 * [APKToy](https://www.apktoy.com/)
+* [Mix Mods](https://t.me/Mix_Mods) - Telegram
 * [Material-You-app-list](https://github.com/nyas1/Material-You-app-list)
 * [NikGapps](https://nikgapps.com/) - Google App Packages / [Telegram](https://t.me/NikGapps)
 * [Shelf](https://play.google.com/store/apps/details?id=com.shelf.app) - App Recommendations
@@ -62,6 +63,7 @@
 * F-Droid Tools - [Repositories](https://forum.f-droid.org/t/known-repositories/) / [Resources](https://fdroidfamily.codeberg.page/) / [Desktop](https://github.com/mvdan/fdroidcl) / [Build Status](https://codeberg.org/pstorch/F-Droid_Build_Status) / [Advanced Search](https://github.com/dbeley/fdroid-insights)
 * [IzzyOnDroid](https://android.izzysoft.de/applists.php) - FOSS Apps / [F-Droid](https://apt.izzysoft.de/fdroid/index.php)
 * [You Apps](https://you-apps.net/) - FOSS Apps / [GitHub](https://github.com/you-apps)
+* [FossDroidAndroid](https://t.me/FossDroidAndroid) - FOSS Apps / Telegram
 * [GrapheneOS Apps](https://github.com/GrapheneOS/Apps) - Work on Non-GrapheneOS Devices
 * [Android Auto Apps Downloader](https://github.com/shmykelsa/aaad) - Android Vehicle Apps
 
@@ -153,7 +155,6 @@
 * ⭐ **[scrcpy](https://github.com/Genymobile/scrcpy)**, **[PlainApp](https://docs.plain.icu/)**, [anl](https://anl.ink/), [WebADB](https://app.webadb.com/) or [QtScrcpy](https://github.com/barry-ran/QtScrcpy) - Control Android via Desktop
 * [Plexus](https://plexus.techlore.tech/) - De-googled Device Compatibility
 * [GSMHosting](https://forum.gsmhosting.com/vbb/) - GSM Discussion Forum
-* [Automate](https://llamalab.com/automate/) - Android Automation
 * [AVNC](https://github.com/gujjwal00/avnc) or [DroidVNC-NG](https://github.com/bk138/droidVNC-NG) - Remote Desktop Clients / VNC
 * [EtchDroid](https://etchdroid.app/) - Write OS Images to USB Drive
 * [Techbone](https://www.techbone.net/) or [LunarEclipseCode](https://lunareclipsecode.github.io/engrc-3500-team2/content/intro.html) - Android Usage Guides
@@ -359,6 +360,7 @@
 
 * ↪️ **[Text Editors / To-Do](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_android_note_apps)**
 * ↪️ **[Android Code Editors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/dev-tools#wiki_.25B7_android_code_editors)**
+* ⭐ **[Automate](https://llamalab.com/automate/)** - Android Automation / [Subreddit](https://www.reddit.com/r/AutomateUser/)
 * ⭐ **[OpenCalc](https://github.com/Darkempire78/OpenCalc)**, [Calculator++](https://play.google.com/store/apps/details?id=org.solovyev.android.calculator), [Calc 991](https://play.google.com/store/apps/details?id=advanced.scientific.calculator.calc991.plus), [microMathematics](https://github.com/mkulesh/microMathematics) or [yetCalc](https://github.com/Yet-Zio/yetCalc) - Calculators
 * [Tooly](https://play.google.com/store/apps/details?id=com.yousx.thetoolsapp) - Multi-Tool App
 * [LightCut](https://play.google.com/store/apps/details?id=com.lightcut.videoeditor), [open-video-editor](https://github.com/devhyper/open-video-editor) or [Vaux](https://play.google.com/store/apps/details?id=com.vaux.vaux_editor) - Video Editors
@@ -752,7 +754,7 @@ https://github.com/Akylas/alpimaps
 * ↪️ **[Song Identification Apps](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/audio#wiki_.25B7_song_identification)**
 * ⭐ **[xManager](https://www.xmanagerapp.com/)** / [Discord](https://discord.com/invite/dnpKn5Wufm) or [Modded Spotify](https://rentry.co/FMHYBase64#modded-spotify-apk) - Ad Free Spotify
 * ⭐ **Spotify Tools** - [Friend Activity](https://spotivity.me/) / [Mute Ads](https://play.google.com/store/apps/details?id=live.teekamsuthar.mutify), [2](https://github.com/aghontpi/ad-silence) / [Stats](https://stats.fm/)
-* ⭐ **[InnerTune](https://github.com/Malopieds/InnerTune)**, **[Namida](https://github.com/namidaco/namida)**, [RiMusic](https://rimusic.xyz) / [GitHub](https://github.com/fast4x/RiMusic), [Harmony Music](https://github.com/anandnet/Harmony-Music), [SimpMusic](https://simpmusic.tech/), [spmp](https://github.com/toasterofbread/spmp), [ViTune](https://github.com/25huizengek1/ViTune), [Gyawun](https://jhelumcorp.github.io/) or [Vibe You](https://github.com/you-apps/VibeYou) - YouTube Music Players
+* ⭐ **[InnerTune](https://github.com/z-huang/InnerTune)** / [2](https://github.com/Malopieds/InnerTune), **[Namida](https://github.com/namidaco/namida)**, [RiMusic](https://rimusic.xyz) / [GitHub](https://github.com/fast4x/RiMusic), [Harmony Music](https://github.com/anandnet/Harmony-Music), [SimpMusic](https://simpmusic.tech/), [spmp](https://github.com/toasterofbread/spmp), [ViTune](https://github.com/25huizengek1/ViTune), [Gyawun](https://jhelumcorp.github.io/) or [Vibe You](https://github.com/you-apps/VibeYou) - YouTube Music Players
 * ⭐ **[Seeker](https://play.google.com/store/apps/details?id=com.companyname.andriodapp1)** - Audio Download App / Soulseek Frontend
 * ⭐ **[AutomaTag](http://automatag.com/)** or [AutoTagger](https://autotagger.ru/) - Metadata Organizers
 * ⭐ **[AudioRelay](https://audiorelay.net/)** or [Audio Share](https://github.com/mkckr0/audio-share) - Stream PC Audio to Phone
@@ -815,7 +817,6 @@ https://github.com/Akylas/alpimaps
 * [Apollo Music Player](https://github.com/nuclearfog/Apollo-Music)
 * [Music Player GO](https://github.com/enricocid/Music-Player-GO)
 * [Nyx Music Player](https://play.google.com/store/apps/details?id=com.awedea.nyx)
-* [AndroidX Media](https://github.com/androidx/media)
 * [mucke](https://github.com/moritz-weber/mucke)
 * [Phonograph Plus](https://github.com/chr56/Phonograph_Plus)
 * [Vanilla](https://play.google.com/store/apps/details?id=com.kyant.vanilla&hl=en)

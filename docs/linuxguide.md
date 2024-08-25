@@ -363,6 +363,7 @@ Linux Gaming Guide
 * [Luakit](https://luakit.github.io/) - Lightweight Linux Browser
 * [browsh](https://www.brow.sh/) - Text Based Browser
 * [ElectronMail](https://github.com/vladimiry/ElectronMail), [Claws Mail](https://www.claws-mail.org/) or [dodo](https://github.com/akissinger/dodo) - Email Clients
+* [iRedMail](https://www.iredmail.org/) - Mail Server
 * [Akregator](https://apps.kde.org/akregator/) - RSS Feed Reader
 * [pass](https://www.passwordstore.org/) - Unix Password Manager
 * [Seahorse](https://gitlab.gnome.org/GNOME/seahorse) or [GnomeKeyring](https://wiki.gnome.org/Projects/GnomeKeyring) - GNOME Password Manager

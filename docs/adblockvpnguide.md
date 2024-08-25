@@ -162,6 +162,7 @@
 * [Frigate](https://frigate.video/), [Smart Sec Cam](https://github.com/scottbarnesg/smart-sec-cam) or [ZoneMinder](https://zoneminder.com/) - Security Camera Systems
 * [Team Elite](https://www.te-home.net/) or [Technet24](https://technet24.ir/) - Security Software / [Translator](https://github.com/FilipePS/Traduzir-paginas-web)
 * [Big Ass Data Broker Opt-Out List](https://github.com/yaelwrites/Big-Ass-Data-Broker-Opt-Out-List) - List of Data Broker Opt-Out Resources
+* [Surfer](https://github.com/CEREBRUS-MAXIMUS/Surfer-Data) - Multi-platform User Data Exporter
 * [Gauth](https://github.com/pcarrier/gauth) - Google Authenticator for Laptops
 * [F-Secure Identity Theft Checker](https://www.f-secure.com/en/identity-theft-checker) - Identity Theft Check
 * [FakePhoneNumber](https://fakephonenumber.net/) - Generate Fake Phone Numbers
