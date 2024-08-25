@@ -4,6 +4,7 @@ There are three ways you can contribute to this repository:
 - [Link submissions](#submitting-a-link)
 - [Reporting a site](#reporting-a-site)
 - [Changes to the website itself](#making-changes)
+- [Finding new sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/find-new-sites/)
 
 ## Submitting a Link
 
