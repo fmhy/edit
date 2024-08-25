@@ -11,11 +11,9 @@
 * 🌐 **[RevAPIs](https://rentry.co/revvapis)** - Freemium AI Proxy APIs
 * ⭐ **[ChatPDF](https://www.chatpdf.com/)** or [Ask Your PDF](https://askyourpdf.com/) - Turn Books into Chatbots
 * ⭐ **[TypeSet](https://typeset.io/)** - Research Paper Chatbot
-* [GPT Crawler](https://github.com/BuilderIO/gpt-crawler) - Turn Websites into Chatbots
-* [ChatGPTBox](https://github.com/josStorer/chatGPTBox), [ChatGPT Apps](https://github.com/adamlui/chatgpt-apps), [KeepChatGPT](https://github.com/xcanwin/KeepChatGPT/blob/main/docs/README_EN.md) or [Merlin](https://www.getmerlin.in/) / [Unlimited](https://rentry.co/MerlinAI-Unlim) - Extensions
-* [Humata](https://www.humata.ai/), [Sharly](https://app.sharly.ai/), [Docalysis](https://docalysis.com/), [DAnswer](https://docs.danswer.dev/), [DocsGPT](https://docsgpt.arc53.com/) or [ChatDOC](https://chatdoc.com/) - Turn Documents into Chatbots
+* [ChatGPTBox](https://github.com/josStorer/chatGPTBox), [KeepChatGPT](https://github.com/xcanwin/KeepChatGPT/blob/main/docs/README_EN.md) or [Merlin](https://www.getmerlin.in/) / [Unlimited](https://rentry.co/MerlinAI-Unlim) - Extensions
+* [DAnswer](https://docs.danswer.dev/) or [DocsGPT](https://docsgpt.arc53.com/) - Turn Documents into Chatbots
 * [PrivateGPT](https://docs.privategpt.dev/) - Offline Document Chatbots
-* [SallyBot](https://github.com/DeSinc/SallyBot/) - ChatGPT Discord Bot
 * [TGPT](https://github.com/aandrew-me/tgpt) - ChatGPT TUIs
 * [LLM](https://github.com/simonw/llm) - ChatGPT CLI
 * [Lobe Chat](https://chat-preview.lobehub.com) - Desktop App
@@ -180,23 +178,11 @@
 
 # ► AI Indexes
 
-* 🌐 **[LMSYS Arena](https://chat.lmsys.org/?leaderboard)** - Chatbot Leaderboards / Benchmarks
-* 🌐 **[LLM Leaderboard](https://huggingface.co/spaces/open-llm-leaderboard/open_llm_leaderboard)** - Chatbot Leaderboards / Benchmarks
 * 🌐 **[Transformer Models Timeline](https://ai.v-gar.de/ml/transformer/timeline/)** - LLM Timeline
-* 🌐 **[Electron Hub](https://discord.gg/apUUqbxCBQ)** - AI Directory
-* 🌐 **[Toolify](https://www.toolify.ai/)** - AI Directory
-* 🌐 **[Phygital Library](https://library.phygital.plus/)** - AI Directory / Workflow Builder
 * 🌐 **[LifeArchitect](https://lifearchitect.ai/models-table/)** - LLM Index
-* [Glif](https://glif.app/) or [perchance](https://perchance.org/generators) - Simple AI Builders
-* [WildBench](https://huggingface.co/spaces/allenai/WildBench) - Chatbot Benchmarks
-* [ArtificialAnalysis](https://artificialanalysis.ai/) - Chatbot Benchmarks
-* [The Fastest AI](https://thefastest.ai/) - Chatbot Benchmarks
-* [AI Search](https://ai-search.io), [What AI Can Do Today](https://whataicandotoday.com/) or [FindAISites](https://findaisites.pro/) - AI Index Search
-* [Toolnest](https://toolnest.ai/) - AI Directory
+* [perchance](https://perchance.org/generators) - Simple AI Builder
 * [YP for AI](https://www.ypforai.com) - AI Directory
 * [Awesome AI Tools](https://github.com/mahseema/awesome-ai-tools) - AI Directory
-* [ToolDirectory](https://www.tooldirectory.ai/) - AI Directory
-* [BasedTools](https://www.basedtools.ai/) - AI Directory / [Discord](https://discord.gg/D8wYxUvwTD)
 * [It's Better With AI](https://itsbetterwithai.com/) - AI Directory
 * [Futurepedia](https://www.futurepedia.io/) - AI Directory
 * [funfun.tools](https://www.funfun.tools/) - AI Directory
@@ -208,6 +194,16 @@
 * [Sieve](https://www.sievedata.com/explore) or [ArtificialStudio](https://www.artificialstudio.ai/tools) - Multi-Tool Browser AIs
 * [Google Labs](https://labs.google/) or [AI Test Kitchen](https://aitestkitchen.withgoogle.com/) - Google AI Experiments
 * [DokeyAI](https://dokeyai.com/) - AI Directory and More
+
+***
+
+## ▷ AI Benchmarks
+
+* 🌐 **[LMSYS Arena](https://chat.lmsys.org/?leaderboard)** - Chatbot Leaderboards / Benchmarks
+* 🌐 **[LLM Leaderboard](https://huggingface.co/spaces/open-llm-leaderboard/open_llm_leaderboard)** - Chatbot Leaderboards / Benchmarks
+* [WildBench](https://huggingface.co/spaces/allenai/WildBench) - Chatbot Benchmarks
+* [ArtificialAnalysis](https://artificialanalysis.ai/) - Chatbot Benchmarks
+* [The Fastest AI](https://thefastest.ai/) - Chatbot Benchmarks
 
 ***
 ***
@@ -300,6 +296,8 @@
 * [ArtHub.ai](https://arthub.ai/)
 * [HotPot](https://hotpot.ai/)
 * [clipdrop](https://clipdrop.co/tools)
+* [Glif](https://glif.app/)
+* [AlpacaML](https://www.alpacaml.com/) - AI Powered Canvas
 * [imgsys](https://imgsys.org/) - Compare AI Image Generators
 * [MemeCam](https://www.memecam.io/) - AI Meme Generator
 * [Mobians](https://mobians.ai/) - Sonic Image Generator / [Discord](https://discord.com/invite/jUsN8kcF)
