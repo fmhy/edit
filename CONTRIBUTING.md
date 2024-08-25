@@ -1,6 +1,6 @@
 # How to Edit FMHY
 
-There are three ways you can contribute to this repository:
+There are multiple ways you can contribute to this repository:
 - [Link submissions](#submitting-a-link)
 - [Reporting a site](#reporting-a-site)
 - [Changes to the website itself](#making-changes)
