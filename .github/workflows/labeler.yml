@@ -15,35 +15,3 @@ jobs:
         uses: actions/labeler@v4
         with:
           repo-token: ${{ secrets.GITHUB_TOKEN }}
-
-  auto-assign:
-    runs-on: ubuntu-latest
-    needs: triage
-    steps:
-      - name: Check if PR has 'core' label
-        id: check_label
-        uses: actions/github-script@v6
-        with:
-          script: |
-            const prNumber = context.payload.pull_request.number;
-            const { data: labels } = await github.rest.issues.listLabelsOnIssue({
-              owner: context.repo.owner,
-              repo: context.repo.repo,
-              issue_number: prNumber,
-            });
-
-            const hasCoreLabel = labels.some(label => label.name === 'core');
-            return hasCoreLabel;
-
-      - name: Auto-assign to PR
-        if: steps.check_label.outputs.result == 'true'
-        uses: actions/github-script@v6
-        with:
-          script: |
-            const prNumber = context.payload.pull_request.number;
-            await github.rest.issues.addAssignees({
-              owner: context.repo.owner,
-              repo: context.repo.repo,
-              issue_number: prNumber,
-              assignees: ['taskylizard'],
-            });
