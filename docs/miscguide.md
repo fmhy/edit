@@ -517,7 +517,6 @@
 * [epocrates](https://online.epocrates.com/), [medlineplus](https://medlineplus.gov/), [merckmanuals](https://www.merckmanuals.com/), [mayoclinic](https://www.mayoclinic.org/), [rxlist](https://www.rxlist.com/), [nejm](https://www.nejm.org/), [ncbi](https://www.ncbi.nlm.nih.gov/pmc/), [hhs](https://www.hhs.gov/), [nih](https://www.nih.gov/), [cdc](https://www.cdc.gov/) - Government Health Resources
 * [osh](https://www.osh.net/) - Occupational Health and Safety Resources
 * [Blood Pressure Monitor](https://github.com/NobodyForNothing/blood-pressure-monitor-fl) - Blood Pressure Tracker
-https://github.com/NobodyForNothing/blood-pressure-monitor-fl
 * [CancerFactFinder](https://cancerfactfinder.org/) - Cancer Fact Search
 * [INCIDecoder](https://incidecoder.com/) or [Skin Signal](https://skinsignal.com/) - Skincare Ingredient Lists
 * [AMMFitness](https://www.ammfitness.co.uk/) - Fitness / Nutrition Info
