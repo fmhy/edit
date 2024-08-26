@@ -134,7 +134,7 @@
 ***
 
 * ↪️ **[Windows ISOs / Activation](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/system-tools#wiki_.25BA_windows_isos)**
-* ⭐ **[CRACKSurl](https://cracksurl.com/)** - [Telegram](https://t.me/cracksurldotcom)
+* ⭐ **[CRACKSurl](https://cracksurl.com/)** / [Telegram](https://t.me/cracksurldotcom)
 * ⭐ **[LRepacks](https://lrepacks.net/)**
 * ⭐ **[Game Bounty Software](https://gamebounty.world/software/)** - Download / [Discord](https://dsc.gg/gamebounty)
 * ⭐ **[Mobilism](https://forum.mobilism.org/)** - [Mobile App](https://forum.mobilism.org/app/)

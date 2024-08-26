@@ -360,7 +360,7 @@
 
 * ↪️ **[Text Editors / To-Do](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_android_note_apps)**
 * ↪️ **[Android Code Editors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/dev-tools#wiki_.25B7_android_code_editors)**
-* ⭐ **[Automate](https://llamalab.com/automate/)** - Android Automation / [Subreddit](https://www.reddit.com/r/AutomateUser/)
+* ⭐ **[MacroDroid](https://rentry.co/FMHYBase64#macrodroid)** or [Automate](https://llamalab.com/automate/)  / [Subreddit](https://www.reddit.com/r/AutomateUser/) - Android Automation
 * ⭐ **[OpenCalc](https://github.com/Darkempire78/OpenCalc)**, [Calculator++](https://play.google.com/store/apps/details?id=org.solovyev.android.calculator), [Calc 991](https://play.google.com/store/apps/details?id=advanced.scientific.calculator.calc991.plus), [microMathematics](https://github.com/mkulesh/microMathematics) or [yetCalc](https://github.com/Yet-Zio/yetCalc) - Calculators
 * [Tooly](https://play.google.com/store/apps/details?id=com.yousx.thetoolsapp) - Multi-Tool App
 * [LightCut](https://play.google.com/store/apps/details?id=com.lightcut.videoeditor), [open-video-editor](https://github.com/devhyper/open-video-editor) or [Vaux](https://play.google.com/store/apps/details?id=com.vaux.vaux_editor) - Video Editors
@@ -429,7 +429,7 @@
 * ⭐ **[Amarok](https://github.com/deltazefiro/Amarok-Hider)** - Hide Files / Apps
 * [ceno-browser](https://censorship.no/en/index.html) / [GitHub](https://github.com/censorship-no/ceno-browser) - Proxy Browser
 * [husi](https://github.com/xchacha20-poly1305/husi) - Proxy Config Manager
-* [ByeDPIAndroid](https://github.com/dovecoteescapee/ByeDPIAndroid) - Anti-Censorship Proxy
+* [ByeDPIAndroid](https://github.com/dovecoteescapee/ByeDPIAndroid) or [Lantern](https://lantern.io/download?os=android) - Anti-Censorship Proxies
 * [Privacy Guides](https://www.privacyguides.org/en/android/) - Android Privacy Guides
 * [DroidFS](https://forge.chapril.org/hardcoresushi/DroidFS) - Encrypted File Managers
 * [Extirpater](https://github.com/Divested-Mobile/extirpater) - Space Eraser / Make Deleted Files Irrecoverable
@@ -766,7 +766,7 @@ https://github.com/Akylas/alpimaps
 * [YouTubeDL Android](https://github.com/yausername/youtubedl-android), [ytdlnis](https://github.com/deniscerri/ytdlnis), [Seal](https://github.com/JunkFood02/Seal) or [SongTube](https://github.com/SongTube/SongTube-App) / [Telegram](https://t.me/songtubechannel) - YouTube Audio Downloaders
 * [Redomi](https://github.com/acszo/Redomi/) - Multi-Platform Streaming
 * [Soundcloud](https://play.google.com/store/apps/details?id=com.soundcloud.android&amp;hl=us) or [GrayJay](https://grayjay.app/) - Streaming
-* [Musify](https://gokadzev.github.io/Musify/) - Streaming
+* [Musify](https://gokadzev.github.io/Musify/) - Streaming / [GitHub](https://github.com/gokadzev/Musify)
 * [BloomeeTunes](https://github.com/HemantKArya/BloomeeTunes) - Streaming
 * [Soundbound App](https://soundbound.app/) - Steaming / Download / [Telegram](https://t.me/soundboundofficial)
 * [Seeker](https://github.com/jackBonadies/SeekerAndroid) or [AIDS](https://forum.mobilism.org/search.php?st=0&sk=t&sd=d&sr=topics&keywords=aids&sf=titleonly) - Download / MP3
@@ -1029,6 +1029,7 @@ https://github.com/Akylas/alpimaps
 * [PhotoSync](https://www.photosync-app.com/home.html) - Transfer Photos Between Devices
 * [Locket Widget](https://apps.apple.com/us/app/locket-widget/id1600525061) - Real-time Photo Sharing
 * [BlackMagic Camera](https://apps.apple.com/us/app/blackmagic-camera/id6449580241) - Extra Camera Features
+* [ImgPls](https://andadinosaur.com/launch-imgpls) - Image Host / Imgur App
 * [PicsArt++](https://picsart.com/apps) or [PhotoWizard](https://apps.apple.com/us/app/photowizard-photo-editor/id370833324) - Image Editor
 * [Tailor](http://www.trytailor.com/) - Automatic Screenshot Stitching
 * [ToonMe](https://toonme.com/) - Turn Photos into Cartoons

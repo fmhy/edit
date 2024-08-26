@@ -600,6 +600,8 @@
 * [Binternet](https://github.com/Ahwxorg/Binternet) - Pinterest Frontend
 * [/r/Photography Guide](https://www.reddit.com/r/photography/wiki/introduction) - Photography / Camera Guide
 * [PhotoEphemeris](https://photoephemeris.com/) - Photography Sunlight Calculator
+* [MagicLantern](https://www.magiclantern.fm/) - Custom Canon EOS Firmware / [Unsupported](https://magiclantern.fandom.com/wiki/Other_dslr) / [Twitter](https://twitter.com/autoexec_bin) / [Subreddit](https://www.reddit.com/r/MagicLantern/) / [Discord](https://discord.gg/uaY8akC) 
+* [CHDK](https://chdk.fandom.com/wiki/CHDK) - Custom Canon PowerShot Firmware
 * [fSpy](https://fspy.io/) - Still Image Camera Matching
 * [GlanceBack](https://glanceback.info/) - Daily Webcam Photo Journal
 * [Image Color Summarizer](http://mkweb.bcgsc.ca/color-summarizer/) - Image Color Summarizer

@@ -332,11 +332,9 @@
 * [GloryBeats](https://glorybeats.com/) - MP3
 * [Cliggo](https://music.cliggo.com/) - MP3
 * [Mixupload](https://mixupload.com/) - MP3
-* [MartinRadio](https://www.martinradio.com/) - FLAC
 * [FLAC Attack](https://flacattack.net/) or [Lossless-Music](https://lossless-music.org/) - FLAC
 * [Losslessma](https://losslessma.net/) - FLAC
 * [FlacMusic](https://www.flacmusic.info/) - FLAC
-* [Music HiRes](https://music-hires.blogspot.com/) - FLAC
 * [FLAC.xyz](https://flac.xyz/) - FLAC
 * [Sacd](https://sacd.xyz/) - FLAC
 * [Lossless-FLAC](https://lossless-flac.com/) - FLAC
@@ -559,7 +557,7 @@
 * [Tunebat](https://tunebat.com/) - Music Key / BPM Database
 * [ASAK](https://github.com/chaosprint/asak) - Audio Recording
 * [Cleanfeed](https://cleanfeed.net/) - Live Audio Recording
-* [Musicara](https://www.musicara.ml/) or [X-Minus](https://x-minus.pro/) - Create Karaoke Songs
+* [X-Minus](https://x-minus.pro/) or [karaoke-maker](https://humtools.com/karaoke-maker/) - Create Karaoke Songs
 * [VB Cables](https://rentry.co/FMHYBase64#vb-cables) - Virtual Audio Cables
 * [Librescore Downloader](https://github.com/LibreScore/dl-librescore) - Librescore Downloader
 
@@ -625,12 +623,11 @@
 
 ## ▷ Audio Metadata
 
-* ↪️ **[Album Artwork](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_covers_.2F_posters)**
+* ↪️ **[Album Artwork](https://old.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_album_art)**
 * ⭐ **[MP3Tag](https://www.mp3tag.de/en/)** - Metadata Organizer
 * [YADG](https://yadg.cc/) - Scrape Music Release Date Info / [API](https://yadg.cc/api/)
 * [beets.io](https://beets.io/) - Metadata Organizer / [Guides](https://redd.it/11iaafu)
 * [TagEditor](https://github.com/Martchus/tageditor) - Metadata Organizer
-* [EasyTAG](https://wiki.gnome.org/Apps/EasyTAG) - Metadata Organizer
 * [tone](https://github.com/sandreas/tone) - Metadata Organizer
 * [Kid3](https://kid3.kde.org/) - Metadata Organizer
 * [MetaTogger](https://www.luminescence-software.org/en/metatogger) - Metadata Organizer
@@ -641,11 +638,10 @@
 
 ## ▷ Song Identification
 
-* ⭐ **[Shazam](https://www.shazam.com/)** - Android
+* ⭐ **[Shazam](https://www.shazam.com/)** - Android / [Desktop App](https://github.com/BayernMuller/vibra)
 * ⭐ **[WhatAmIHearing](https://github.com/zemoto/WhatAmIHearing)** - Song Identification App
 * ⭐ **[WatZatSong](https://www.watzatsong.com/en)** - Song Identification Forum
 * [/r/NameThatSong](https://reddit.com/r/NameThatSong) - Song Identification Subreddit
-* [Vibra](https://github.com/BayernMuller/vibra)
 * [Midomi](https://www.midomi.com/)
 * [Aha Music](https://www.aha-music.com/identify-songs-music-recognition-online)
 * [AudioTag](https://audiotag.info/)
@@ -676,9 +672,8 @@
 * ↪️ **[Music Notation Editors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_music_notation_editors)**
 * ↪️ **[Music Sheet Collections](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_music_sheet_collections)**
 * [Sheethost](https://sheet.host/) - Publish Sheet Music
-* [Swara Notebook](https://swaranotebook.com/) - Classical Indian Music Notation Generator
 * [The ABC Music Project](https://abc.sourceforge.net/) / [Editor](https://sourceforge.net/projects/toadflax/), [2](https://runabc.sourceforge.io/), [3](https://easyabc.sourceforge.net/) / [PNG Convert](https://sourceforge.net/projects/abccairo/) / [MIDI Convert](https://abcmidi.sourceforge.io/) / [Webpages](https://netabc.sourceforge.io/) - Notation Markup Language
-* [Chordly](https://chordly.co.uk/) - Chord Sheet Creator
+* [Chordly](https://chordly.co.uk/) - Chord Sheet Creator / [GitHub](https://github.com/stufro/chordly)
 * [Piascore](https://apps.apple.com/us/app/piascore-hd/id406141702) - iOS Music Score Viewer
 * [IMSLP](https://imslp.org/wiki/Main_Page) - Public Domain Scores
 * [/r/sheetmusic](https://reddit.com/r/sheetmusic) - Reddit Community

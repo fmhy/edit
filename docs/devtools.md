@@ -31,6 +31,7 @@
 * [Techmeme](https://www.techmeme.com/m/) - Dev News
 * [The Brutalist Report](https://brutalist.report/) - Dev News
 * [jimmyr](https://jimmyr.com/) - Dev News
+* [daily.dev](https://app.daily.dev/posts) - Dev News
 * [TheCyberPost](https://thecyberpost.com/) - Cybersecurity News
 * [Talos Blog](https://blog.talosintelligence.com/) - Cybersecurity News
 * [IT Security Guru](https://www.itsecurityguru.org/) - Cybersecurity News
@@ -184,7 +185,7 @@
 * [Media Kit](https://github.com/media-kit/media-kit) - Video / Audio Library for Flutter and Dart
 * [Uiautomator2](https://github.com/openatx/uiautomator2), [ADB](https://github.com/ashishb/adb-enhanced) or [Appium](https://appium.io/) / [GitHub](https://github.com/appium/appium) - Automated App Testing
 * [SigNoz](https://signoz.io/) - Detect App Issues
-* [Privado](https://docs.privado.ai) / [GitHub](https://github.com/Privado-Inc/privado) - Generate App Privacy Reports
+* [Privado](https://docs.privado.ai) - Generate App Privacy Reports / [GitHub](https://github.com/Privado-Inc/privado)
 * [PM2](https://pm2.keymetrics.io/) - Process Manager
 * [Mantine](https://mantine.dev/) - Components and Templates
 * [useAnimations](https://useanimations.com/index.html) - Animated Icon Pack
@@ -195,6 +196,7 @@
 * [AndroidAssetStudio](https://romannurik.github.io/AndroidAssetStudio/) - Android App Assets
 * [Contacts Android](https://vestrel00.github.io/contacts-android/) - Android Contacts APIs
 * [Compose Samples](https://developer.android.com/develop/ui/compose) - Android UI Toolkit
+* [Push Notifications API](https://github.com/viktorholk/push-notifications-api) - Push Notifications API
 * [TV Samples](https://github.com/android/tv-samples) - Android TV App Samples
 * [Lich](https://github.com/line/lich) - Android Development Libraries
 * [androidx](https://github.com/androidx/androidx) - Android Development Environment for Jetpack Extensions
@@ -412,7 +414,7 @@
 ## ▷ Machine Learning
 
 * 🌐 **[LiveBench](https://livebench.ai/)** - LLM Benchmarks / Leaderboards
-* 🌐 **[Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)**, [Caffee](https://caffe.berkeleyvision.org/) / [GitHub](https://github.com/BVLC/caffe), [SuperAGI](https://superagi.com/) / [GitHub](https://github.com/TransformerOptimus/SuperAGI), [Rasa](https://rasa.com/docs/rasa/) or [OpenNN](https://www.opennn.net/) / [GitHub](https://github.com/Artelnics/OpenNN) - Machine Learning Frameworks
+* 🌐 **[Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)** - Machine Learning Framework Index
 * 🌐 **[Awesome List of Awesomes](https://github.com/Nachimak28/awesome-list-of-awesomes)**, [Awesome ML](https://github.com/underlines/awesome-marketing-datascience/), [Awesome LLM JSON](https://github.com/imaurer/awesome-llm-json), [CyberCowboy](https://local-llm.cybercowboy.de) or [ML_Resources](https://github.com/tunguz/ML_Resources) - Machine Learning Resources
 * 🌐 **[Awesome Google Colab](https://github.com/firmai/awesome-google-colab)** - Machine Learning Collabs
 * 🌐 **[Awesome Machine Learning Art](https://github.com/vibertthio/awesome-machine-learning-art)** - Machine Learning Art Resources
@@ -420,6 +422,13 @@
 * ⭐ **[Hugging Face](https://huggingface.co/)** or [OpenML](https://www.openml.org/) - Machine Learning Datasets
 * ⭐ **[Deep playground](http://playground.tensorflow.org/)** - Neural Networks Playground
 * ⭐ **[LLM Visualization](https://bbycroft.net/llm)** - Learn how LLMs Work
+* [Caffee](https://caffe.berkeleyvision.org/) - Machine Learning Framework / [GitHub](https://github.com/BVLC/caffe)
+* [SuperAGI](https://superagi.com/) - Machine Learning Framework / [GitHub](https://github.com/TransformerOptimus/SuperAGI)
+* [Rasa](https://rasa.com/docs/rasa/) - Machine Learning Framework
+* [OpenNN](https://www.opennn.net/) - Machine Learning Framework / [GitHub](https://github.com/Artelnics/OpenNN) - Machine Learning Framework
+* [LobeChat](https://chat.luzhenhua.com/) - Machine Learning Framework / [Discord](https://discord.gg/AYFPHvv2jT ) / [GitHub](https://github.com/lobehub/lobe-chat)
+* [OpenCog](https://opencog.org/) - Machine Learning Framework
+* [AForge](https://github.com/andrewkirillov/AForge.NET) - Machine Learning Framework
 * [Awesome Generative AI Guide](https://github.com/aishwaryanr/awesome-generative-ai-guide) - LLM Research Resources
 * [Machine Learning Roadmap](https://rentry.org/machine-learning-roadmap), [SAAYN](https://spreadsheets-are-all-you-need.ai/), [machine-learning-zoomcamp](https://github.com/DataTalksClub/machine-learning-zoomcamp) or [LLM Course](https://github.com/mlabonne/llm-course) - Learn Machine Learning
 * [LLM Training](https://rentry.org/llm-training) - LLM Training Guide
@@ -440,7 +449,6 @@
 * [GPTCache](https://gptcache.readthedocs.io) - LLM Response Cache
 * [Code2Prompt](https://github.com/mufeedvh/code2prompt) - Convert Codebase to LLM Prompt
 * [Dump Dir](https://github.com/fargusplumdoodle/dump_dir) - Provide Context to LLMs via Clipboard Content
-* [OpenCog](https://opencog.org/) or [AForge](https://github.com/andrewkirillov/AForge.NET) - Artificial Intelligence Frameworks
 * [Nixified](https://nixified.ai/) - Nix Flake for AI Projects
 * [Approaching (Almost) Any Machine Learning Problem](https://github.com/abhishekkrthakur/approachingalmost/blob/master/AAAMLP.pdf) - Machine Learning Problem-Solving Book
 * [AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners), [Beginner Guides](https://microsoft.github.io/generative-ai-for-beginners/) or [HF Learn](https://huggingface.co/learn) - Machine Learning Guides
@@ -560,7 +568,6 @@
 * ⭐ **[Lite XL](https://lite-xl.com/)** - Code Editor / [Plugin Manager](https://github.com/lite-xl/lite-xl-plugin-manager) / [Plugins](https://github.com/lite-xl/lite-xl-plugins) / [Themes](https://github.com/lite-xl/lite-xl-colors)
 * ⭐ **[Emacs](https://www.gnu.org/software/emacs/)** - Code Editor / [Docs](https://emacsdocs.org/)
 * ⭐ **[WebDen](https://webden.dev/)**, [Sharplab](https://sharplab.io/), [tech.io](https://tech.io/), [CodingGround](https://www.tutorialspoint.com/codingground.htm) or [Online Tools](https://onlinetool.io/) - Code Playgrounds
-* [Prettier](https://prettier.io/) - Code Formatting Tool / [GitHub](https://github.com/prettier/prettier)
 * [Heynote](https://heynote.com/) - Code Editor / Notepad
 * [Edna](https://edna.arslexis.io/) - Code Editor / Notepad
 * [Bluefish](https://bluefish.openoffice.nl/index.html) - [Templates](https://templates.openoffice.org/en)
@@ -640,7 +647,7 @@
 ## ▷ Android Code Editors
 
 * ⭐ **[AndroidIDE](https://androidide.com/)** - Android Code Editor
-* ⭐ **[Acode](https://acode.app)** - Android Code Editor
+* ⭐ **[Acode](https://acode.app)** - Android Code Editor / [GitHub](https://github.com/deadlyjack/Acode)
 * [Sora](https://github.com/Rosemoe/sora-editor) - Android Code Editor
 * [Squircle-CE](https://github.com/massivemadness/Squircle-CE) - Android Code Editor
 * [droidvim](https://github.com/shiftrot/droidvim) - Vim Code Editor
@@ -653,6 +660,7 @@
 ## ▷ Coding Tools
 
 * 🌐 **[Awesome Creative Coding](https://github.com/terkelg/awesome-creative-coding)** - Creative Coding Resources
+* [Prettier](https://prettier.io/) or [codebeautify](https://codebeautify.org/) - Code Formatting Tools
 * [Package Control](https://packagecontrol.io/) - Sublime Text Package Manager
 * [pylyzer](https://github.com/mtshiba/pylyzer) - Static Code Analyzer
 * [Bacon](https://github.com/Canop/bacon) - Background Rust Code Check
@@ -673,7 +681,7 @@
 * [searchcode](https://searchcode.com/) or [PublicWWW](https://publicwww.com/) - Source Code Search
 * [Sourcecodester](https://www.sourcecodester.com/), [Code Projects](https://code-projects.org/), [Codastro](https://codeastro.com/), [Kashipara](https://www.kashipara.com/) or [ItSourceCode](https://www.itsourcecode.com/) - Source Code Projects
 * [ShortCode](https://shortcode.dev/) or [CodeList](https://codelist.cc/v3/) - Script / Code Indexes
-* [Chalk](https://chalk.ist/), [Carbon](https://github.com/carbon-app/carbon) or [Show Code](https://showcode.app/) - Code Screenshots
+* [Chalk](https://chalk.ist/), [Carbon](https://carbon.now.sh/), [Ray](https://ray.so/) or [Show Code](https://showcode.app/) - Code Screenshots
 * [AnimateCode](https://www.animate-code.com/) - Create Code Animations
 * [DelphiTools](https://www.delphitools.info/) - Code Profiler / Delphi Tools
 * [Adrenaline](https://useadrenaline.com/) or [Console Ninja](https://console-ninja.com/) - Code Debugging

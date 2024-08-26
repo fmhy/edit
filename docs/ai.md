@@ -40,7 +40,7 @@
 * ⭐ **[Tune AI](https://chat.tune.app/)** - Multiple Chatbots / 24 Msgs per Chat / [Discord](https://discord.gg/EkH7px4JNW)
 * ⭐ **[LMSYS Chat](https://lmarena.ai/)**, [2](https://chat.lmsys.org/) - Chat and Compare Multiple Chatbots
 * [DuckDuckGo AI](https://duck.ai/) - Multiple Chatbots
-* [LLM Playground](https://llmplayground.net/) - Multiple Chatbots / 1000 word limit / [Discord](https://discord.com/invite/q55gsH8z5F) / [API](https://api.discord.rocks/)
+* [LLM Playground](https://llmplayground.net/) - Multiple Chatbots / 1000 word limit / [API](https://api.discord.rocks/) / [Discord](https://discord.com/invite/q55gsH8z5F)
 * [feyn](https://feyn.chat/) - GPT-4o / Multiple Chatbots
 * [OAICHAT](https://chat.oaichat.cc/), [2](https://chat.sorapi.dev/), [3](https://ffa.chat/) - GPT-4o / Multiple Chatbots
 * [GPT4o.so](https://gpt4o.so/app) - GPT-4o
@@ -48,7 +48,7 @@
 * [LibreChat](https://librechat.ai/) - Multiple Chatbots / [Discord](https://discord.librechat.ai/)
 * [Mistral](https://chat.mistral.ai/chat) - Multiple Chatbots
 * [HuggingChat](https://huggingface.co/chat/) - Open-Source Chatbots
-* [infermatic](https://infermatic.ai/) / [Discord](https://discord.gg/9GUXmDx9GF) - Multiple Chatbots
+* [infermatic](https://infermatic.ai/) - Multiple Chatbots / [Discord](https://discord.gg/9GUXmDx9GF) 
 * [lollms-webui](https://github.com/ParisNeo/lollms-webui) - Multiple Chatbots
 * [MagAI](https://rentry.org/freegpt4withmagai) - Multiple Chatbots
 * [freegpt4](https://rentry.org/freegpt4) - Free GPT-4 Methods
