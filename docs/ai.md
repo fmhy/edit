@@ -32,8 +32,6 @@
 
 * 🌐 **[Awesome Free ChatGPT](https://github.com/LiLittleCat/awesome-free-chatgpt/blob/main/README_en.md)** - Online GPT Indexes
 * ⭐ **[ChatGPT](https://chatgpt.com/)** - GPT-4o Chatbot / [Discord](https://discord.com/invite/openai)
-* ⭐ **[Microsoft Copilot](https://copilot.microsoft.com)** - GPT-4/3.5 Powered Search / [SydneyQT Jailbreak](https://github.com/juzeon/SydneyQt)
-* ⭐ **[Perplexity](https://www.perplexity.ai/)** - GPT-4o Powered Search / [Open Source Models](https://labs.perplexity.ai/)
 * ⭐ **[wrtn](https://wrtn.ai/)** - GPT-4 Chatbot / [Android](https://play.google.com/store/apps/details?id=com.wrtn.app) / [iOS](https://apps.apple.com/us/app/%EB%A4%BC%ED%8A%BC-%EB%AA%A8%EB%91%90%EB%A5%BC-%EC%9C%84%ED%95%9C-ai-%ED%8F%AC%ED%84%B8/id6448556170) / Ask for English
 * ⭐ **[Gemini](https://gemini.google.com/)** or [Gemma](https://github.com/google/gemma.cpp), [2](https://ai.google.dev/gemma/) - Google's Chatbot
 * ⭐ **[Claude](https://claude.ai/)** - Anthropic's Chatbot / Phone # Required
@@ -56,11 +54,23 @@
 * [freegpt4](https://rentry.org/freegpt4) - Free GPT-4 Methods
 * [Meta AI](https://www.meta.ai/) - Llama 3 Chatbot
 * [NVIDIA NIM](https://build.nvidia.com/) - Llama 3
+* [Pi](https://pi.ai/talk) - Inflection AI's Chatbot
+* [Reka Playground](https://chat.reka.ai/) - Reka's Chatbot
+* [Poe](https://poe.com/) - Multiple Chatbots / 150 Daily / [Discord](https://discord.com/invite/joinpoe)
+* [Ai Uncensored](https://www.aiuncensored.info/) - "Uncensored" Chatbot 
+
+***
+
+## ▷ AI Search Engines
+
+* ⭐ **[Microsoft Copilot](https://copilot.microsoft.com)** - GPT-4/3.5 Powered Search / [SydneyQT Jailbreak](https://github.com/juzeon/SydneyQt)
+* ⭐ **[Perplexity](https://www.perplexity.ai/)** - GPT-4o Powered Search / [Open Source Models](https://labs.perplexity.ai/)
 * [Phind](https://www.phind.com/) - Llama Search Engine / [Discord](https://discord.gg/S25yW8TebZ)
 * [Morphic](https://www.morphic.sh/) - AI Search Engine / [Discord](https://discord.gg/zRxaseCuGq)
 * [Perplexica](https://github.com/ItzCrazyKns/Perplexica) - AI Search Engine
 * [Komo](https://komo.ai/) - AI Search Engine
 * [iAsk](https://iask.ai/) - AI Search Engine
+* [AyeSoul](https://ayesoul.com/) - AI Search Engine
 * [Mindfulq](https://www.mindfulq.com/) - AI Search Engine
 * [Andi](https://andisearch.com/) - AI Search Engine
 * [You](https://you.com/) - AI Search Engine
@@ -68,10 +78,6 @@
 * [Farfalle](https://www.farfalle.dev/) - AI Search Engine
 * [Exa](https://exa.ai/) - AI Search Engine / [Discord](https://discord.com/invite/jvz7GS9W8Y)
 * [Lepton Search](https://search.lepton.run/) - AI Search Engine
-* [Pi](https://pi.ai/talk) - Inflection AI's Chatbot
-* [Reka Playground](https://chat.reka.ai/) - Reka's Chatbot
-* [Poe](https://poe.com/) - Multiple Chatbots / 150 Daily / [Discord](https://discord.com/invite/joinpoe)
-* [Ai Uncensored](https://www.aiuncensored.info/) - "Uncensored" Chatbot 
 
 ***
 
@@ -180,27 +186,20 @@
 
 * 🌐 **[Transformer Models Timeline](https://ai.v-gar.de/ml/transformer/timeline/)** - LLM Timeline
 * 🌐 **[LifeArchitect](https://lifearchitect.ai/models-table/)** - LLM Index
+* 🌐 **[FutureTools](https://www.futuretools.io/?pricing-model=free)** - AI Directory
 * [perchance](https://perchance.org/generators) - Simple AI Builder
 * [YP for AI](https://www.ypforai.com) - AI Directory
 * [Awesome AI Tools](https://github.com/mahseema/awesome-ai-tools) - AI Directory
 * [It's Better With AI](https://itsbetterwithai.com/) - AI Directory
-* [Futurepedia](https://www.futurepedia.io/) - AI Directory
-* [funfun.tools](https://www.funfun.tools/) - AI Directory
-* [PowerUsers](https://powerusers.ai/) - AI Directory
-* [TheresAnAIForThat](https://theresanaiforthat.com/) - AI Directory
-* [AI Tools](https://aitools.fyi/) - AI Directory
-* [AI Tool Trek](https://aitooltrek.com/) - AI Directory
-* [FutureTools](https://www.futuretools.io/?pricing-model=free) - AI Directory
-* [Sieve](https://www.sievedata.com/explore) or [ArtificialStudio](https://www.artificialstudio.ai/tools) - Multi-Tool Browser AIs
+* [ArtificialStudio](https://www.artificialstudio.ai/tools) - Multi-Tool Browser AIs
 * [Google Labs](https://labs.google/) or [AI Test Kitchen](https://aitestkitchen.withgoogle.com/) - Google AI Experiments
-* [DokeyAI](https://dokeyai.com/) - AI Directory and More
 
 ***
 
 ## ▷ AI Benchmarks
 
-* 🌐 **[LMSYS Arena](https://chat.lmsys.org/?leaderboard)** - Chatbot Leaderboards / Benchmarks
-* 🌐 **[LLM Leaderboard](https://huggingface.co/spaces/open-llm-leaderboard/open_llm_leaderboard)** - Chatbot Leaderboards / Benchmarks
+* ⭐ **[LMSYS Arena](https://chat.lmsys.org/?leaderboard)** - Chatbot Leaderboards / Benchmarks
+* ⭐ **[LLM Leaderboard](https://huggingface.co/spaces/open-llm-leaderboard/open_llm_leaderboard)** - Chatbot Leaderboards / Benchmarks
 * [WildBench](https://huggingface.co/spaces/allenai/WildBench) - Chatbot Benchmarks
 * [ArtificialAnalysis](https://artificialanalysis.ai/) - Chatbot Benchmarks
 * [The Fastest AI](https://thefastest.ai/) - Chatbot Benchmarks
@@ -263,9 +262,11 @@
 * ⭐ **[Tensor.art](https://tensor.art/)** / 100 Daily
 * ⭐ **[Shakker](https://www.shakker.ai/)** / 50 Daily / [Discord](https://discord.gg/djyP5u3vHY) / [Guide](https://docs.google.com/document/d/1PZ6to6Nn995J0o0BbEPhucqge9uyc1acQoNuvWkK6M8/edit#heading=h.kkzhkyyy4ze4)
 * ⭐ **[Leonardo.ai](https://app.leonardo.ai/)** / 30 Daily
+* [imgsys](https://imgsys.org/) - Compare AI Image Generators
 * [FLUX.1 [Schnell]](https://huggingface.co/spaces/black-forest-labs/FLUX.1-schnell) / [2](https://fal.ai/models/fal-ai/flux/schnell?ref=blog.fal.ai) or [FLUX.1 [Dev]](https://huggingface.co/spaces/black-forest-labs/FLUX.1-dev) / [2](https://fal.ai/models/fal-ai/flux/dev?ref=blog.fal.ai) / Unlimited
 * [Stable Diffusion](https://huggingface.co/spaces/stabilityai/stable-diffusion) / Unlimited / [GitHub](https://github.com/Stability-AI/stablediffusion) / [Discord](https://discord.com/invite/stablediffusion)
 * [Prodia](https://app.prodia.com/) / Unlimited / [Huggingchat Demo](https://huggingface.co/spaces/prodia/fast-stable-diffusion) / [Discord](https://discord.com/invite/495hz6vrFN)
+* [Kling AI](https://klingai.com/) / 75+ Daily
 * [Unstability.ai](https://www.unstability.ai/) / 52 Daily
 * [NVIDIA NIM](https://build.nvidia.com/) / 50 Daily
 * [SeaArt](https://www.seaart.ai/) / 40 Daily
@@ -298,7 +299,6 @@
 * [clipdrop](https://clipdrop.co/tools)
 * [Glif](https://glif.app/)
 * [AlpacaML](https://www.alpacaml.com/) - AI Powered Canvas
-* [imgsys](https://imgsys.org/) - Compare AI Image Generators
 * [MemeCam](https://www.memecam.io/) - AI Meme Generator
 * [Mobians](https://mobians.ai/) - Sonic Image Generator / [Discord](https://discord.com/invite/jUsN8kcF)
 * [Genie](https://lumalabs.ai/genie), [Shap-e](https://github.com/openai/shap-e), [Stable Dreamfusion](https://github.com/ashawkey/stable-dreamfusion) or [ThreeStudio](https://github.com/threestudio-project/threestudio) - 3D Image Generators
