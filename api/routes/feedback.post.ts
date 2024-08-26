@@ -25,7 +25,7 @@ export default defineEventHandler(async (event) => {
   ]
 
   if (heading) {
-    fields.push({
+    fields.unshift({
       name: 'Section',
       value: heading,
       inline: true
