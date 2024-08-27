@@ -1407,6 +1407,7 @@
 * ⭐ **[Check-Host](https://check-host.net/)**, [StatPing](https://github.com/statping/statping), [Uptime](https://betterstack.com/uptime), [Uptime Kuma](https://github.com/louislam/uptime-kuma), [Highlight](https://www.highlight.io/), [AreWeDown?](https://github.com/shukriadams/arewedown), [UptimeRobot](https://uptimerobot.com/) or [24x7](https://www.site24x7.com/tools.html) - Site Uptime Monitors
 * [GoodBadISPs](https://gitlab.torproject.org/legacy/trac/-/wikis/doc/GoodBadISPs) - Best ISPs for Tor Hosting
 * [Server Hunter](https://www.serverhunter.com/) - Search / Compare Servers
+* [srvrlss.io](https://srvrlss.io/) - Search / Compare Serverless Providers and Products
 * [Sentora](https://sentora.org/) or [Moonlight](https://github.com/Moonlight-Panel/Moonlight) - Web Hosting Panels
 * [SegFault](https://shell.segfault.net/) - Disposable Root Servers
 * [GetDeploying](https://getdeploying.com/) - Compare Cloud Providers
