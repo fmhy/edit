@@ -150,7 +150,7 @@
 * [Heidoc](https://www.heidoc.net/joomla/)
 * [AsanDL](http://asandl.com/) - Use [translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)
 * [RetroSystemRevival](https://retrosystemsrevival.blogspot.com/)
-* [Libreware](https://t.me/Libreware), [PC Cracked Software](https://t.me/pc_cracked_softwares) or [Xetrin RePacks](https://t.me/repacks_by_xetrin) - Telegram Channels
+* [Libreware](https://t.me/Libreware) or [Xetrin RePacks](https://t.me/repacks_by_xetrin) - Telegram Channels
 * [Rarewares](https://www.rarewares.org/) - Rare Software
 * [PLC4Me](https://plc4me.com/) - Automation Software
 * [Software Heritage](https://www.softwareheritage.org/) - Software Source Code Archive
