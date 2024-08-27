@@ -31,6 +31,8 @@ Anonymous comments, taken from reddit, discord, twitter, and our feedback system
 
 * *"Literally, when I need something, all I need to do is check here first! thank you for being here, for being access to everyone and anyone, I really really appreciate it!"*
 
+* *"Great site! It's so useful, I now know about a lot more apps and such. Definitely made my life easier!"*
+
 * *"I want to express my sincere appreciation for the wiki of useful resources. It has proven to be an invaluable source of information, providing a wide range of knowledge on various topics. The well-organized and comprehensive nature of the wiki has been instrumental in aiding my research and learning. I am truly grateful for the effort and dedication that has gone into curating and maintaining such a valuable repository of knowledge. Thank you for this exceptional resource."*
 
 * *"Amazing stuff. Spent almost whole day browsing this and I got introduced to tons of great software. Thank you!!"*
@@ -38,6 +40,8 @@ Anonymous comments, taken from reddit, discord, twitter, and our feedback system
 * *"I love FMHY's wiki, to the point I can't use the internet without it."*
 
 * *"This wiki is one of the best out there, seriously. Keep up the great work!"*
+
+* *"This is the best wiki EVER, and I hope that the admins/people maintaining this wiki keep on adding cool stuff like this!"*
 
 * *"I love having an extreme amount of privacy. And it's not just for piracy, so this is REALLY useful. Thanks!"*
 
