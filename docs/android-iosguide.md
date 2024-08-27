@@ -350,7 +350,6 @@
 * [CalyXOS](https://calyxos.org/) - Privacy-Based OS
 * [DivestOS](https://divestos.org/) - Privacy-Based OS
 * [LineageOS](https://www.lineageos.org/)- CyanogenMod Fork / [Discord](https://discord.gg/gD6DMtf) / [MicroG](https://lineage.microg.org/)
-* [BlissROMs](https://blissroms.org/) - Customizable / Open-Source OS / [Telegram](https://t.me/Team_Bliss_Community)
 
 ***
 
@@ -515,7 +514,6 @@
 * [MessengerPro](https://rentry.co/FMHYBase64#messengerpro) - Modded Facebook Messenger
 * [Telegram-Themer](https://github.com/therxmv/Telegram-Themer) or [Telegram Monet](https://github.com/mi-g-alex/Telegram-Monet) / [Telegram](https://t.me/tgmonet) - Telegram Theme Creators
 * [Launch Chat](https://github.com/vinaygopinath/launch-chat), [WhatsAppNoContact](https://github.com/theolm/WhatsAppNoContact) or [Tellurium](https://play.google.com/store/apps/details?id=com.quadren.tellurium) - Number-Free WhatsApp Chat
-* [WhatsappWebToGo](https://github.com/92lleo/WhatsappWebToGo) - Mobile WhatsApp Web Client
 * [WhatsAppPatcher](https://github.com/Schwartzblat/WhatsAppPatcher) or [WaEnhancer](https://github.com/Dev4Mod/WaEnhancer) - WhatsApp Patchers
 * [Whatsapp Backup Reader](https://whatsappbr.netlify.app/) - Read Exported Whatsapp Chats
 * [FakeWhats](https://www.fakewhats.com/) or [FakeInfo](https://fakeinfo.net/fake-whatsapp-chat-generator) - Fake WhatsApp Messages
@@ -754,7 +752,6 @@ https://github.com/Akylas/alpimaps
 * ↪️ **[Song Identification Apps](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/audio#wiki_.25B7_song_identification)**
 * ⭐ **[xManager](https://www.xmanagerapp.com/)** / [Discord](https://discord.com/invite/dnpKn5Wufm) or [Modded Spotify](https://rentry.co/FMHYBase64#modded-spotify-apk) - Ad Free Spotify
 * ⭐ **Spotify Tools** - [Friend Activity](https://spotivity.me/) / [Mute Ads](https://play.google.com/store/apps/details?id=live.teekamsuthar.mutify), [2](https://github.com/aghontpi/ad-silence) / [Stats](https://stats.fm/)
-* ⭐ **[InnerTune](https://github.com/z-huang/InnerTune)** / [2](https://github.com/Malopieds/InnerTune), **[Namida](https://github.com/namidaco/namida)**, [RiMusic](https://rimusic.xyz) / [GitHub](https://github.com/fast4x/RiMusic), [Harmony Music](https://github.com/anandnet/Harmony-Music), [SimpMusic](https://simpmusic.tech/), [spmp](https://github.com/toasterofbread/spmp), [ViTune](https://github.com/25huizengek1/ViTune), [Gyawun](https://jhelumcorp.github.io/) or [Vibe You](https://github.com/you-apps/VibeYou) - YouTube Music Players
 * ⭐ **[Seeker](https://play.google.com/store/apps/details?id=com.companyname.andriodapp1)** - Audio Download App / Soulseek Frontend
 * ⭐ **[AutomaTag](http://automatag.com/)** or [AutoTagger](https://autotagger.ru/) - Metadata Organizers
 * ⭐ **[AudioRelay](https://audiorelay.net/)** or [Audio Share](https://github.com/mkckr0/audio-share) - Stream PC Audio to Phone
@@ -763,7 +760,6 @@ https://github.com/Akylas/alpimaps
 * [ListenBrainsz](https://github.com/metabrainz/listenbrainz-android) - Music Tracking / Rating
 * [Spowlo](https://spowlo.com/) - Spotify Audio Downloader / [Telegram](https://t.me/spowlo_chatroom) / [GitHub](https://github.com/BobbyESP/Spowlo/)
 * [Record Player](https://record-player.glitch.me/) - Find Records on Spotify via Pictures
-* [YouTubeDL Android](https://github.com/yausername/youtubedl-android), [ytdlnis](https://github.com/deniscerri/ytdlnis), [Seal](https://github.com/JunkFood02/Seal) or [SongTube](https://github.com/SongTube/SongTube-App) / [Telegram](https://t.me/songtubechannel) - YouTube Audio Downloaders
 * [Redomi](https://github.com/acszo/Redomi/) - Multi-Platform Streaming
 * [Soundcloud](https://play.google.com/store/apps/details?id=com.soundcloud.android&amp;hl=us) or [GrayJay](https://grayjay.app/) - Streaming
 * [Musify](https://gokadzev.github.io/Musify/) - Streaming / [GitHub](https://github.com/gokadzev/Musify)
@@ -825,6 +821,24 @@ https://github.com/Akylas/alpimaps
 * [BladePlayer](https://github.com/vhaudiquet/BladePlayer)
 * [Salt Player](https://github.com/Moriafly/SaltPlayerSource)
 * [Black Candy](https://github.com/blackcandy-org/android) - Self-Hosted Streaming Server
+
+***
+
+## ▷ YouTube Music Players
+
+* ⭐ **[InnerTune](https://github.com/z-huang/InnerTune)**, [2](https://github.com/Malopieds/InnerTune) - YouTube Music Player
+* ⭐ **[Namida](https://github.com/namidaco/namida)** - YouTube Music Player
+* [RiMusic](https://rimusic.xyz) - YouTube Music Player / [GitHub](https://github.com/fast4x/RiMusic)
+* [Harmony Music](https://github.com/anandnet/Harmony-Music) - YouTube Music Player
+* [SimpMusic](https://simpmusic.tech/) - YouTube Music Player
+* [spmp](https://github.com/toasterofbread/spmp) - YouTube Music Player
+* [ViTune](https://github.com/25huizengek1/ViTune) - YouTube Music Player
+* [Gyawun](https://jhelumcorp.github.io/) - YouTube Music Player
+* [Vibe You](https://github.com/you-apps/VibeYou) - YouTube Music Player
+* [YouTubeDL Android](https://github.com/yausername/youtubedl-android) - YouTube Audio Downloader
+* [ytdlnis](https://github.com/deniscerri/ytdlnis) - YouTube Audio Downloader
+* [Seal](https://github.com/JunkFood02/Seal) - YouTube Audio Downloader
+* [SongTube](https://github.com/SongTube/SongTube-App) - YouTube Audio Downloader
 
 ***
 
