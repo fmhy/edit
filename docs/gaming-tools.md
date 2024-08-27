@@ -547,6 +547,9 @@
 * ↪️ **[Mod Indexes](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_mod_indexes)**
 * ↪️ **[Optimization Mods](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_optimization_mods)**
 * ⭐ **[MCModdingGuide](https://rentry.org/MCModdingGuide)** - Minecraft Modding Guide
+* [Builders Refuge](https://modrinth.com/modpack/builders-refuge) - Building Modpack
+* [WorldEdit](https://enginehub.org/worldedit), [Axiom](https://modrinth.com/mod/axiom) - Building Tools
+* Worldedit Tools - [Docs](https://worldedit.enginehub.org/en/latest/) / [CUI](https://modrinth.com/mod/worldedit-cui) / [Discord](https://discord.gg/enginehub) / [GitHub](https://github.com/EngineHub/WorldEdit)
 * [Bobby](https://modrinth.com/mod/bobby) - Uncap Render Distance Slider
 * [Forge](https://files.minecraftforge.net/), [Quilt](https://quiltmc.org/) or [Fabric](https://fabricmc.net/) / [Discord](https://discord.gg/VDGnGsFeuy) - Mod Loaders
 * [Pax](https://github.com/froehlichA/pax) or [Mod Manager](https://github.com/kaniol-lck/modmanager) - Minecraft Mod Managers
@@ -554,7 +557,7 @@
 * [r/feedthebeast](https://reddit.com/r/feedthebeast/) - MC Modding Community
 * [Fabric-Bedrock-Miner](https://github.com/LXYan2333/Fabric-Bedrock-Miner) - Automatic Bedrock Miner Mod
 * [No Telemetry](https://modrinth.com/mod/no-telemetry) - Disable Telemetry Data
-* [ReplayMod](https://replaymod.com/) - Record Game Sessions / [GitHub](https://github.com/ReplayMod/ReplayMod)
+* [ReplayMod](https://replaymod.com/), [FlashBack](https://modrinth.com/mod/flashback) - Record Game Sessions
 * [Terralith](https://modrinth.com/mod/terralith) or [Biomes O' Plenty](https://modrinth.com/mod/biomes-o-plenty) - Extra Biomes Mod
 * [Outvoted](https://modrinth.com/mod/outvoted) - Outvoted Minecraft Live Mobs
 * [Tectonic](https://modrinth.com/datapack/tectonic) - Improved Biomes Mod & Data Pack
