@@ -824,7 +824,7 @@ https://github.com/Akylas/alpimaps
 
 ***
 
-## ▷ YouTube Music Players
+## ▷ YouTube Music Clients
 
 * ⭐ **[InnerTune](https://github.com/z-huang/InnerTune)**, [2](https://github.com/Malopieds/InnerTune) - YouTube Music Player
 * ⭐ **[Namida](https://github.com/namidaco/namida)** - YouTube Music Player
