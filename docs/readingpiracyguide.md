@@ -180,7 +180,7 @@
 ## ▷ Fanfiction / Stories
 
 * ⭐ **[Short Stories](https://short-stories.co/)**
-* [Archive of Our Own](https://archiveofourown.org/) - Fanfiction Archive / [Enhancements](https://github.com/jsmnbom/ao3-enhancements/)
+* ⭐ **[Archive of Our Own](https://archiveofourown.org/)** - Fanfiction Archive / [Enhancements](https://github.com/jsmnbom/ao3-enhancements/)
 * [SCP Foundation](https://scp-wiki.wikidot.com/) - Fictional Story Colabs / [Wiki](https://en.wikipedia.org/wiki/SCP_Foundation) / [Subreddit](https://www.reddit.com/r/SCPDeclassified/)
 * [the Wanderers' Library](https://wanderers-library.wikidot.com/) - Fictional Story Colabs
 * [RPC Authority](http://rpc-wiki.net/) - Fictional Story Colabs
