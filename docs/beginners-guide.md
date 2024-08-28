@@ -63,7 +63,6 @@ No, don't do that. Windows Defender is more than enough to keep you safe, but if
 
 ### Browser
 
-* **[Firefox](https://www.mozilla.org/en-US/firefox/new/)** / **[Browser Comparisons](https://avoidthehack.com/util/browser-comparison)** - Normal Browsers
 * **[Privacy Browsers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25BA_web_privacy)** - Privacy-Focused Browsers
 * **[Browser Extensions](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools#wiki_.25B7_browser_extensions) / [Userscripts](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools#wiki_.25B7_userscripts)** - Add features & functionality to browsers
 * **[Dark Reader](https://darkreader.org/)** - Dark mode for all sites
@@ -114,10 +113,6 @@ No, don't do that. Windows Defender is more than enough to keep you safe, but if
 * **[HiAnime](https://hianime.to/)** - Fast anime streaming
 * **[Dramacool](https://dramacool.cy/)** - Fast Asian drama streaming
 * **[SportsSurge](https://v2.sportsurge.net/home4/)** - Live sports streaming
-* **[Spotify](https://spotify.com/) / [YouTube Music](https://music.youtube.com/)** - Music & podcast streaming / [Spotify Adblock](https://github.com/SpotX-Official/SpotX)
-* **[Streaming CSE](https://cse.google.com/cse?cx=006516753008110874046:cfdhwy9o57g##gsc.tab=0)**, [2](https://cse.google.com/cse?cx=006516753008110874046:o0mf6t-ugea##gsc.tab=0), [3](https://cse.google.com/cse?cx=98916addbaef8b4b6), [4](https://cse.google.com/cse?cx=0199ade0b25835f2e) - Multi-Site Search
-* **[TV CSE](https://cse.google.com/cse?cx=006516753008110874046:hrhinud6efg)** - Multi-site TV search
-* **[Anime Streaming CSE](https://cse.google.com/cse?cx=006516753008110874046:vzcl7wcfhei) / [2](https://cse.google.com/cse?cx=006516753008110874046:mrfarx7-dxu)** - Multi-site anime search
 * **[How-to Find Rare Movies](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/find-rare-movies)** - Find obscure films
 
 ***
@@ -131,11 +126,6 @@ No, don't do that. Windows Defender is more than enough to keep you safe, but if
 * **[lucida](https://lucida.to/), [2](https://lucida.su/) / [DoubleDouble](https://doubledouble.top/)** - Multi-Site audio download
 * **[Soulseek](https://slsknet.org/)** or [Nicotine+](https://nicotine-plus.org/) - Audio download app
 * **[squid.wtf](https://squid.wtf/)** - Deezer FLAC download
-* **[Download CSE](https://cse.google.com/cse?cx=006516753008110874046:1ugcdt3vo7z) / [2](https://cse.google.com/cse?cx=006516753008110874046:reodoskmj7h)** - Multi-site download search
-* **[Video Download CSE](https://cse.google.com/cse?cx=006516753008110874046:wevn3lkn9rr#gsc.tab=0) / [2](https://cse.google.com/cse?cx=89f2dfcea452fc451) / [3](https://cse.google.com/cse?cx=aab218d0aa53e3578#gsc.tab=0)** - Multi-site video download search
-* **[Anime Download CSE](https://cse.google.com/cse?cx=006516753008110874046:osnah6w0yw8)** - Multi-site anime download search
-* **[Game Download CSE](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_game_download_cse)** - Multi-site game download search
-* **[Audio Download CSE](https://cse.google.com/cse?cx=006516753008110874046:ibmyuhh72io) / [2](https://cse.google.com/cse?cx=006516753008110874046:ohobg3wvr_w) / [3](https://cse.google.com/cse?cx=aab218d0aa53e3578)** - Multi-site audio download search
 
 !!!note When using DDLs, it's generally recommended to use a download manager such as JDownloader, as they improve the ease of downloading along with the speed. You can find them listed [here](https://fmhy.net/file-tools#download-managers).
 
@@ -150,11 +140,6 @@ No, don't do that. Windows Defender is more than enough to keep you safe, but if
 * **[FitGirl Repacks](https://fitgirl-repacks.site/)** - Trusted game repacker
 * **[Stremio](https://www.stremio.com/)** - Torrent video streaming app
 * **[Nyaa](https://nyaa.si/)** - Anime Torrents
-* **[Torrent CSE](https://cse.google.com/cse?cx=006516753008110874046:0led5tukccj) / [2](https://cse.google.com/cse?cx=006516753008110874046:kh3piqxus6n)** - Multi-site torrent search
-* **[Video Torrent CSE](https://cse.google.com/cse?cx=006516753008110874046:gaoebxgop7j)** - Multi-site video torrent search
-* **[Anime Torrent CSE](https://cse.google.com/cse?cx=006516753008110874046:lamzt6ls4iz)** - Multi-site anime torrent search
-* **[Game Torrent CSE](https://cse.google.com/cse?cx=006516753008110874046:pobnsujblyx) / [2](https://idleendeavor.github.io/gamesearch/)** - Multi-site game torrent search
-* **[Audio Torrent CSE](https://cse.google.com/cse?cx=006516753008110874046:v75cyb4ci55)** - Multi-site audio torrent search
 
 ***
 
@@ -164,10 +149,6 @@ No, don't do that. Windows Defender is more than enough to keep you safe, but if
 * **[Audiobook Bay](https://audiobookbay.is/)** - Audiobook torrents / **Avoid fake DL links, use [Torrents / Magnets](https://i.ibb.co/8sV2061/0fa8159b11bb.png)**
 * **[ReadComicsOnline](https://readcomiconline.li/)** - Read comics online
 * **[MangaReader](https://mangareader.to/)** - Read manga online
-* **[Reading CSE](https://cse.google.com/cse?cx=006516753008110874046:s9ddesylrm8) / [2](https://cse.google.com/cse?cx=006516753008110874046:rc855wetniu) / [3](https://cse.google.com/cse?cx=e9657e69c76480cb8) / [4](https://cse.google.com/cse?cx=c46414ccb6a943e39) / [5](https://ravebooksearch.com/)** - Multi-site book search
-* **[Audiobook CSE](https://cse.google.com/cse?cx=006516753008110874046:cwbbza56vhd)** - Multi-site audiobook search
-* **[Comic CSE](https://cse.google.com/cse?cx=006516753008110874046:p4hgytyrohg)** - Multi-site comic search
-* **[Manga CSE](https://cse.google.com/cse?cx=006516753008110874046:4im0fkhej3z) / [2](https://cse.google.com/cse?cx=006516753008110874046:a5mavctjnsc#gsc.tab=0)** - Multi-site manga search
 * **[Ebook Readers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/reading#wiki_.25BA_ebook_readers)** - List of ebook readers
 
 ***
@@ -181,7 +162,6 @@ No, don't do that. Windows Defender is more than enough to keep you safe, but if
 * **[/r/ApkApps Megathread](https://apksapps.notion.site/apksapps/096ef38f452342ba99b4e1509a449729?v=9970360b443643789c333bd2c7180009)** - Updated list of modded APKs / [Subreddit](https://www.reddit.com/r/ApksApps) / [Discord](https://discord.gg/Kr5EWKZU5Y)
 * **[APKMirror](https://www.apkmirror.com/)** - Untouched APKs
 * **[F-Droid](https://f-droid.org/)** - FOSS Android Apps
-* **[Android APK CSE](https://cse.google.com/cse?cx=e0d1769ccf74236e8) / [2](https://cse.google.com/cse?cx=73948689c2c206528) / [3](https://cse.google.com/cse?cx=a805854b6a196d6a6)** - Multi-site APK search
 * **[Stremio](https://www.stremio.com/)** - Video streaming app / Use VPN / [Guide](https://viren070.github.io/guides/stremio/guide)
 * **[Patch Reddit Clients](https://docs.google.com/document/u/0/d/1wHvqQwCYdJrQg4BKlGIVDLksPN0KpOnJWniT6PbZSrI/mobilebasic)** - How To Patch 3rd Party Reddit Clients
 * **[ReVanced Manager](https://github.com/revanced/revanced-manager)** - Ad-Free YouTube, Reddit, X etc. Patcher / [Discord](https://discord.com/invite/rF2YcEjcrT) / [Guide](https://redd.it/xlcny9)
