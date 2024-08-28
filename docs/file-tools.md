@@ -270,7 +270,7 @@
 ***
 
 * ↪️ **[Video File Hosts](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video-tools#wiki_.25B7_video_file_hosts)**
-* ⭐ **[Buzzheavier](https://buzzheavier.com/)** - Unlimited / Forever / [Discord](https://discord.gg/ttQjgC28WP)
+* ⭐ **[Buzzheavier](https://buzzheavier.com/)** - Unlimited / Forever / **Use Adblocker** / [Discord](https://discord.gg/ttQjgC28WP)
 * ⭐ **[Gofile](https://gofile.io/)** - Unlimited / 10 Days
 * ⭐ **[1fichier.com](https://1fichier.com/)** - 300GB / 15 Days (30 Days With Account)
 * ⭐ **[file.haus](https://filehaus.top/)** - 300GB / Forever / [.pk](https://filehaus.pk/) / [.su](https://filehaus.su/) / [.onion](http://fileha3hjvudqs2moembtaegnpjo5ptec3tomf5dlxx6ydwtajkkahyd.onion/) / [.i2p](http://xr256v4weabr3rdz3nqzb27bv3gkwjisuf2d57urqtmh3gx3w7da.b32.i2p/) / [.loki](http://nipqehne9zrtpryw6ig5y9gu7c8gwt8ymrrncufxg1g8wf5t4rqo.loki/) / [Shortener](https://filehaus.xyz/) [(note)](https://pastebin.com/Q2sWEYVj) / [Discord](https://discord.gg/5Ac25XZfv6) / [Telegram](https://t.me/tsutajanet)
