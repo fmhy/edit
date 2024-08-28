@@ -12,8 +12,8 @@
 * ⭐ **[PowerToys](https://learn.microsoft.com/en-us/windows/powertoys/)** / [Search](https://github.com/lin-ycv/EverythingPowerToys) or [Sysinternals](https://learn.microsoft.com/en-us/sysinternals/) / [Suite](https://apps.microsoft.com/store/detail/sysinternals-suite/9P7KNL5RWT25) - System Tools
 * ⭐ **[CPU-Z](https://www.cpuid.com/softwares/cpu-z.html)**, [winfetch](https://github.com/lptstr/winfetch), [CPU Fetch](https://github.com/Dr-Noob/cpufetch) or [GPU-Z](https://www.techpowerup.com/download/techpowerup-gpu-z/) - System Information Tools
 * ⭐ **[SuperF4](https://stefansundin.github.io/superf4/)** or [FKill](https://github.com/sindresorhus/fkill-cli) - Process Killers
-* ⭐ **[AutoHotkey](https://www.autohotkey.com/)** / [Discord](https://discord.com/invite/Aat7KHmG7v), [AutoIt](https://www.autoitscript.com/) / [Resources](https://github.com/J2TEAM/awesome-AutoIt), [Power Automate](https://learn.microsoft.com/en-us/power-automate/desktop-flows/install), [sikulix](http://sikulix.com/) or [ChoEazyCopy](https://github.com/Cinchoo/ChoEazyCopy) - Task Automation
-* ⭐ **AutoHotkey Tools** - [Script Gen](https://www.ahkgen.com/) / [Resources](https://github.com/ahkscript/awesome-AutoHotkey)
+* ⭐ **[AutoHotkey](https://www.autohotkey.com/)** / [Discord](https://discord.com/invite/Aat7KHmG7v) / [Script Gen](https://www.ahkgen.com/) / [Resources](https://github.com/ahkscript/awesome-AutoHotkey) - Task Automation
+* [AutoIt](https://www.autoitscript.com/) / [Resources](https://github.com/J2TEAM/awesome-AutoIt), [Power Automate](https://learn.microsoft.com/en-us/power-automate/desktop-flows/install), [sikulix](http://sikulix.com/) or [ChoEazyCopy](https://github.com/Cinchoo/ChoEazyCopy) - Task Automation
 * [Windows-11-Guide](https://github.com/mikeroyal/Windows-11-Guide), [Pastas](https://rentry.org/pastas#guides), [Eleven Forums Guides](https://www.elevenforum.com/tutorials/) or [Ten Forums Guides](https://www.tenforums.com/tutorials/) - Windows Guides
 * [Autoruns](https://learn.microsoft.com/en-us/sysinternals/downloads/autoruns) - Change Startup Programs
 * [NanaRun](https://github.com/M2Team/NanaRun) - System Admin Tools
@@ -75,26 +75,24 @@
 * [QuickLook](https://github.com/QL-Win/QuickLook) - macOS Quick Look for Windows
 * [SageThumbs](https://sourceforge.net/projects/sagethumbs/) - Image Thumbnail Previews
 * [TopNotify](https://github.com/SamsidParty/TopNotify) - Move Windows Notifications
-* [BurntToast](https://github.com/Windos/BurntToast) - Create and display Toast Notifications
+* [BurntToast](https://github.com/Windos/BurntToast) - Create and Display Toast Notifications
 * [WinMute](https://github.com/lx-s/WinMute/) - Automatically Mute PC
 
 ***
 
 ## ▷ Package Managers
 
-* ⭐ **[Scoop](https://scoop.sh/)**
-* ⭐ **[Ninite](https://ninite.com/)**
-* ⭐ **[UniGetUI](https://github.com/marticliment/WingetUI)** or [winget-cli](https://github.com/microsoft/winget-cli)
+* ⭐ **[Scoop](https://scoop.sh/) or [winget-cli](https://github.com/microsoft/winget-cli)** - CLI Package Managers
 * ⭐ **WinGet Tools** - [Tools](https://github.com/jdhitsolutions/WingetTools) / [Repo Browser](https://winstall.app/) / [Packages](https://github.com/microsoft/winget-pkgs), [2](https://winget.run/) / [Automation](https://github.com/topgrade-rs/topgrade) / [Pac-Man](https://github.com/rami3l/pacaptr) / [Auto Updates](https://github.com/Romanitho/Winget-AutoUpdate)
-* [NirLauncher](https://launcher.nirsoft.net/)
-* [Chocolatey](https://chocolatey.org/) / [GUI](https://github.com/chocolatey/ChocolateyGUI)
+* ⭐ **[Ninite](https://ninite.com/)** - Automatically Install / Update Popular Apps
+* ⭐ **[UniGetUI](https://github.com/marticliment/WingetUI)** - GUI for Popular Package Managers
+* [Chocolatey](https://github.com/chocolatey/choco) / [GUI](https://github.com/chocolatey/ChocolateyGUI), [Patch My PC](https://patchmypc.com/home-updater) or [RuckZuck](https://ruckzuck.tools/)  - Package Managers
 * [Spinel](https://spinel.ovh/) - Multi-Program Install Script Generator
 * [Silent Install](https://www.silentinstall.org/) - Build Multi-Program Installers
-* [Patch My PC](https://patchmypc.com/home-updater)
-* [RuckZuck](https://ruckzuck.tools/)
-* [0Install](https://0install.net/)
-* [portableapps](https://portableapps.com/download)
-* [Baulk](https://github.com/baulk/baulk)
+* [0Install](https://0install.net/) - Decentralized Cross-Platform Package Manager
+* [portableapps](https://portableapps.com/download) - Package Manager for Portable Apps
+* [Baulk](https://github.com/baulk/baulk) - Minimalist Package Manager
+* [NirLauncher](https://launcher.nirsoft.net/) - Portable Package Manager for NirSoft Utilities
 
 ***
 
@@ -128,7 +126,7 @@
 
 ## ▷ Remote Desktop
 
-* ⭐ **[RustDesk](https://rustdesk.com/)** / [GitHub](https://github.com/rustdesk/rustdesk)
+* ⭐ **[RustDesk](https://rustdesk.com/)** / [GitHub](https://github.com/rustdesk/rustdesk) - FOSS Remote Desktop
 * ⭐ **[Parsec](https://parsec.app/)**
 * [RealVNC](https://www.realvnc.com/en/) - Max 3, Multi-OS Support
 * [FreeRDP](https://www.freerdp.com/)
@@ -157,25 +155,21 @@
 
 ## ▷ Clipboard Managers
 
-* ⭐ **[Ditto](https://ditto-cp.sourceforge.io/)**
-* [ArsClip](https://www.joejoesoft.com/vcms/97/)
-* [CopyQ](https://hluk.github.io/CopyQ/)
-* [ClipAngel](https://sourceforge.net/projects/clip-angel/)
-* [XClipper](https://kaustubhpatange.github.io/XClipper/)
-* [MultiClipBoardSlots](https://www.softwareok.com/?seite=Microsoft/MultiClipBoardSlots)
-* [Xtra Clipboard](https://xtra-clipboard.com/)
-* [Control V](https://ctrl.vi/)
+* ⭐ **[Ditto](https://ditto-cp.sourceforge.io/)** - Clipboard Manager
+* [ArsClip](https://www.joejoesoft.com/vcms/97/) or [ClipAngel](https://sourceforge.net/projects/clip-angel/) - Clipboard Managers
+* [CopyQ](https://hluk.github.io/CopyQ/) or [XClipper](https://kaustubhpatange.github.io/XClipper/) - Clipboard Managers with Editing and Scripting Features
+* [MultiClipBoardSlots](https://www.softwareok.com/?seite=Microsoft/MultiClipBoardSlots) - Extend Clipboard by 10 Memory Slots
+* [Xtra Clipboard](https://xtra-clipboard.com/) - Chrome Clipboard Manager
+* [Control V](https://ctrl.vi/) - Share Images in your Clipboard via Secret URL
 
 ***
 
 ## ▷ Window Managers
 
-* ⭐ **[GlazeWM](https://github.com/glzr-io/glazewm)**
-* ⭐ **[Komorebi](https://github.com/LGUG2Z/komorebi)**
-* ⭐ **[WorkSpacer](https://workspacer.org/)**
-* [Whim](https://github.com/dalyIsaac/Whim/)
-* [MiguruWM](https://github.com/imawizard/MiguruWM)
-* [DWM](https://github.com/prabirshrestha/dwm-win32)
+* ⭐ **[GlazeWM](https://github.com/glzr-io/glazewm)** - Tiling Window Manager Inspired by i3wm
+* ⭐ **[Komorebi](https://github.com/LGUG2Z/komorebi) or [WorkSpacer](https://workspacer.org/)** - Tiling Window Managers
+* [Whim](https://github.com/dalyIsaac/Whim/) - Pluggable Dynamic Window Manager
+* [DWM](https://github.com/prabirshrestha/dwm-win32) - Port of X11 dwm to Windows
 * [United Sets](https://github.com/Windows-Apps-Hub/UnitedSets) - Group Windows Into Tabs
 
 ***
@@ -183,15 +177,12 @@
 ## ▷ Virtual Machines
 
 * ↪️ **[Android Emulators](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25BA_android_emulators)**
-* ⭐ **[VMware Workstation](https://rentry.co/FMHYBase64#vmware)**
-* ⭐ **[VirtualBox](https://www.virtualbox.org/)** / [Portable](https://www.vbox.me/)
+* ⭐ **[VMware Workstation](https://rentry.co/FMHYBase64#vmware) or [VirtualBox](https://www.virtualbox.org/)** / [Portable](https://www.vbox.me/) - Virtual Machines
 * ⭐ **[Virt-Manager](https://virt-manager.org/)** or [Vagrantup](https://www.vagrantup.com/) - Virtual Machine Managers
 * ⭐ **[Hackintosh](https://hackintosh.com/)**, [Emaculation](https://www.emaculation.com/), [felixrieseberg](https://github.com/felixrieseberg/macintosh.js/) or [OneClick-macOS](https://github.com/notAperson535/OneClick-macOS-Simple-KVM) - macOS Virtual Machines
 * ⭐ **Hackintosh Tools** - [Guide](https://www.tonymacx86.com/) / [AMD Guide](https://chefkissinc.github.io/guide) / [Ryzen](https://github.com/mikigal/ryzen-hackintosh) / [XiaoMi](https://github.com/daliansky/XiaoMi-Pro-Hackintosh)
-* [Looking Glass](https://looking-glass.io/)
-* [Qemu](https://gitlab.com/qemu-project/qemu)
-* [Hyper-V](https://learn.microsoft.com/en-us/virtualization/hyper-v-on-windows/)
-* [Denodo Test](https://community.denodo.com/test-drives/)
+* [Looking Glass](https://looking-glass.io/) - App for Using Kernel-based Virtual Machine Configured for VGA PCI Pass-through
+* [Qemu](https://gitlab.com/qemu-project/qemu), [Hyper-V](https://learn.microsoft.com/en-us/virtualization/hyper-v-on-windows/) or [Denodo Test](https://community.denodo.com/test-drives/) - Virtual Machines
 * [OSBoxes](https://www.osboxes.org/) - Preinstalled Virtual Machine
 * [CollabVM](https://computernewb.com/collab-vm/) - Online Virtual Machines
 * [Virtual PC](https://www.microsoft.com/en-us/download/details.aspx?id=3243) - Windows XP Virtual Machine
@@ -222,9 +213,8 @@
 * [Scrutiny](https://github.com/AnalogJ/scrutiny), [GSmartControl](https://gsmartcontrol.shaduri.dev/) or [smartmontools](https://www.smartmontools.org/) - Hard Drive Monitors
 * [CoolerControl](https://gitlab.com/coolercontrol/coolercontrol) - Cooling Device Monitor
 * [BatteryMode](https://github.com/tarcode-apps/BatteryMode) - System Tray Battery Percentage / Managers
-* [HWRadar](https://coderbag.com/product/hwradar) - Hardware Monitor
-* [HWMonitor](https://www.cpuid.com/softwares/hwmonitor.html) - Hardware Monitor
 * [Netdata](https://www.netdata.cloud/) - Cloud-based Monitoring
+* [HWRadar](https://coderbag.com/product/hwradar) or [HWMonitor](https://www.cpuid.com/softwares/hwmonitor.html) - Hardware Monitors
 * [Open Hardware Monitor](https://openhardwaremonitor.org/) - Portable Hardware Monitor / [GitHub](https://github.com/openhardwaremonitor/openhardwaremonitor)
 * [Libre Hardware Monitor](https://github.com/LibreHardwareMonitor/LibreHardwareMonitor) - Updated Fork of Open Hardware Monitor
 * [FanControl](https://getfancontrol.com/) - Control PC Fans / [GitHub](https://github.com/Rem0o/FanControl.Releases)
@@ -247,7 +237,7 @@
 * [SMCAMDProcessor](https://github.com/trulyspinach/SMCAMDProcessor) - AMD Processor Power Management
 * [PresentMon](https://github.com/GameTechDev/PresentMon) - GPU Benchmarking
 * [Easy-GPU-PV](https://github.com/jamesstringerparsec/Easy-GPU-PV) - Easy GPU Paravirtualization
-* [GsyncSwitch](https://github.com/kwizatz88/GsyncSwitch) - Switch G-Sync or HDR on/off
+* [GsyncSwitch](https://github.com/kwizatz88/GsyncSwitch) - Switch G-Sync or HDR On / Off
 * [ThrottleStop](https://www.techpowerup.com/download/techpowerup-throttlestop/) - Laptop CPU Monitor / Optimizer
 * [Universal x86 Tuning Utility](https://amdaputuningutility.com/) / [GitHub](https://github.com/JamesCJ60/Universal-x86-Tuning-Utility) - Laptop GPU Controller
 * [RyzenAdj](https://github.com/FlyGoat/RyzenAdj) - Ryzen Laptop GPU Controller
@@ -257,7 +247,7 @@
 ## ▷ Disk Tools
 
 * 🌐 **[Awesome Storage](https://github.com/okhosting/awesome-storage)** - File Storage Resources
-* 🌐 **[Awesome DataHoarding](https://github.com/simon987/awesome-datahoarding)** - DataHoarding Resources
+* 🌐 **[Awesome DataHoarding](https://github.com/simon987/awesome-datahoarding)** - Data Hoarding Resources
 * ⭐ **[WizTree](https://www.diskanalyzer.com/)** - Disk Usage Analyzer
 * ⭐ **[CrystalDiskMark](https://crystalmark.info/en/software/crystaldiskmark/)** or [CCISOBench](https://ccsiobench.com/) - Disk Benchmarking Tools
 * ⭐ **[GParted](https://gparted.org/)**, [Rescuezilla](https://rescuezilla.com/), [CloneZilla](https://clonezilla.org/), [Partition Wizard](https://www.partitionwizard.com/) or [AOMEI](https://www.diskpart.com/) - Partition Managers
@@ -265,13 +255,10 @@
 * [TrueNAS](https://www.truenas.com/) - Storage System
 * [QDirStat](https://github.com/shundhammer/qdirstat) - Directory Statistics
 * [CrystalDiskInfo](https://crystalmark.info/en/software/crystaldiskinfo/) - S.M.A.R.T. Data Analyzer
-* [WinDirStat](https://windirstat.net/) - Disk Usage Analyzer
-* [Macrorit Partition Expert](https://macrorit.com/partition-magic-manager/partition-expert-download.html) - Disk Usage Analyzer
-* [Gdu](https://github.com/dundee/gdu) - Disk Usage Analyzer
-* [dua](https://lib.rs/crates/dua-cli) - Disk Usage Analyzer
-* [Diskovery](https://diskovery.io/) - Disk Usage Analyzer
-* [DiskInfo](https://github.com/MicaApps/DiskInfo) - Disk Usage Analyzer
-* [Erdtree](https://github.com/solidiquis/erdtree) - Disk Usage Analyzer
+* [Macrorit Partition Expert](https://macrorit.com/partition-magic-manager/partition-expert-download.html) or [Diskovery](https://diskovery.io/) - Disk Usage Analyzers
+* [WinDirStat](https://windirstat.net/) - Disk Usage Analyzer / Cleanup Tool
+* [Gdu](https://github.com/dundee/gdu) or [dua](https://lib.rs/crates/dua-cli) - Disk Usage Analyzer with Parallel Processing
+* [Erdtree](https://github.com/solidiquis/erdtree) - Cross-Platform Disk Usage Analyzer
 * [PC Manager](https://pcmanager-en.microsoft.com/) or [CleanmgrPlus](https://github.com/builtbybel/CleanmgrPlus) - Disk Managers / Cleanup
 * [Air Live Drive](https://www.airlivedrive.com/en/) - Mount Cloud Drives as Local Disks
 * [SFTPDrive](https://www.nsoftware.com/sftpdrive) - Mount SFTP Servers as Local Disks
@@ -351,9 +338,7 @@
 
 * ⭐ **[Clean Install Windows](https://gravesoft.dev/clean_install_windows)** or [Clean Install](https://rentry.co/Clean_Install) - Windows Clean Installation Guides
 * ⭐ **[MAS ISO Index](https://massgrave.dev/genuine-installation-media)** - Windows ISOs / [Discord](https://discord.gg/gjJEfq7ux8) / [MSDL](https://msdl.gravesoft.dev/)
-* [OS.click](https://os.click/en) - Windows ISOs
-* [MyDigitalLife](https://forums.mydigitallife.net/) - Windows ISOs
-* [Microsoft SD](https://www.microsoft.com/en-us/software-download/) - Windows ISOs
+* [OS.click](https://os.click/en), [MyDigitalLife](https://forums.mydigitallife.net/) or [Microsoft SD](https://www.microsoft.com/en-us/software-download/) - Windows ISOs
 * [Old School OS](https://www.oldschoolos.com/), [OS Vault](https://osvault.weebly.com/directory.html), [VETUSWARE](https://vetusware.com/) or [WinWorldPC](https://winworldpc.com/) - Oldschool ISOs
 * [Fido](https://github.com/pbatard/Fido) - ISO Powershell Script
 * [MSDN Files](https://files.rg-adguard.net/) or [MVS dump](https://awuctl.github.io/mvs/) - Verify ISO Legitimacy
@@ -373,7 +358,7 @@
 
 ## ▷ Windows Activation
 
-* ⭐ **[MAS](https://massgrave.dev/#Method_1_-_PowerShell)** / [GitHub](https://github.com/massgravel/Microsoft-Activation-Scripts/) / [Discord](https://discord.gg/gjJEfq7ux8)
+* ⭐ **[MAS](https://massgrave.dev/#Method_1_-_PowerShell)** / [GitHub](https://github.com/massgravel/Microsoft-Activation-Scripts/) / [Discord](https://discord.gg/gjJEfq7ux8) - Windows Activation Scripts
 * ⭐ **[KMS_VL_ALL_AIO](https://github.com/abbodi1406/KMS_VL_ALL_AIO)** - Offline Activator
 * [EzWindSLIC](https://github.com/Dir3ctr1x/EzWindSLIC) - Vista / 7 / Server 2008
 * [OfficeRTool](https://rentry.co/FMHYBase64#officertool-project) - Office 2016 Activator
@@ -405,7 +390,7 @@
 * [OpenBoardData](https://openboarddata.org/) - Board Repair Data
 * [Magic Trace](https://github.com/janestreet/magic-trace) - Diagnose Performance Issues using Intel Processor Trace
 * [Intel BIOS Guide](https://docs.google.com/document/d/1s43_3YGJIy3zs0ZIksoOmxgrDKnu4ZNhhnXW_NiJZ0I/edit) - Intel BIOS Settings Explanation
-* [PC Health Check](https://aka.ms/GetPCHealthCheckApp) or [WhyNotWin11](https://github.com/rcmaehl/WhyNotWin11) - Identify why your PC isn't Windows 11 ready
+* [PC Health Check](https://aka.ms/GetPCHealthCheckApp) or [WhyNotWin11](https://github.com/rcmaehl/WhyNotWin11) - Identify why your PC isn't Ready for Windows 11
 
 ***
 
@@ -446,8 +431,7 @@
 ## ▷ Custom Themes
 
 * 🌐 **[Awesome Ricing](https://github.com/fosslife/awesome-ricing)** or [Windows-Ricing](https://github.com/winthemers/wiki) - Windows Ricing Resources
-* ⭐ **[Dracula](https://draculatheme.com/)** - Custom App Themes / [Discord](https://discord.com/invite/yDcFsrYuq9)
-* ⭐ **[Catppuccin](https://catppuccin.com/)** - Custom App Themes / [Discord](https://discord.gg/r6Mdz5dpFc)
+* ⭐ **[Dracula](https://draculatheme.com/)** /  [Discord](https://discord.com/invite/yDcFsrYuq9) or **[Catppuccin](https://catppuccin.com/)** / [Discord](https://discord.gg/r6Mdz5dpFc) - Custom App Themes
 * ⭐ **[terminal.sexy](https://terminal.sexy/)**, [TerminalSplash](https://terminalsplash.com/), [Solarized](https://ethanschoonover.com/solarized) or [WindowsTerminalThemes](https://windowsterminalthemes.dev/) - Terminal Themes
 * [Windows 10 Themes](https://github.com/niivu/Windows-10-themes), [Windows 11 Themes](https://github.com/niivu/Windows-11-themes) or [VSThemes](https://vsthemes.org/en/) - Custom Windows Themes
 * [Chloechantelle Guide](https://www.ricing.chloechantelle.com/) or [Heliohost Guide](https://ninjasr.heliohost.org/w/lb/windows) - Windows Customization Guides
@@ -461,10 +445,7 @@
 * [Winmoes](https://winmoes.com/) - Anime Windows Themes / Wallpapers
 * [Desktops](https://deskto.ps/) - OS Theme Examples
 * [Macdows11](https://redd.it/pd5ha6) or [Macified Windows](https://github.com/Runixe786/Macified-Windows) - Win 11 Mac Theme Guides
-* [Rosé Pine](https://rosepinetheme.com/) - Custom App Themes / [Discord](https://discord.gg/r6wf35KVJW)
-* [Aura Theme](https://github.com/daltonmenezes/aura-theme) - Custom App Themes
-* [Windhawk](https://windhawk.net/) - Custom App Themes
-* [theme.park](https://theme-park.dev/) - Custom App Themes
+* [Rosé Pine](https://rosepinetheme.com/) / [Discord](https://discord.gg/r6wf35KVJW), [Aura Theme](https://github.com/daltonmenezes/aura-theme), [Windhawk](https://windhawk.net/) or [theme.park](https://theme-park.dev/) - Custom App Themes
 * [Totally Awesome List](https://forum.spacehey.com/topic?id=94545) - Oldschool App Themes
 * [AccentColorizer](https://github.com/krlvm/AccentColorizer) - Custom Windows Accent Color
 * [MicaForEveryone](https://github.com/MicaForEveryone/MicaForEveryone) - System Backdrop Customization
@@ -476,15 +457,15 @@
 
 ## ▷ Wallpapers
 
-* ⭐ **[wallhaven](https://wallhaven.cc/)** / [Downloader](https://github.com/eramdam/WallbaseDirectDownloader) / [Client](https://github.com/luisflorido/wallhaven-desktop)
-* ⭐ **[Wallpaper Abyss](https://wall.alphacoders.com/)**
-* ⭐ **[Studio Ghibli Wallpapers](https://www.ghibli.jp/info/013772)** or [Ghibli Upscaled](https://rentry.co/FMHYBase64#ghibli-upscaled)
+* ⭐ **[wallhaven](https://wallhaven.cc/)** / [Downloader](https://github.com/eramdam/WallbaseDirectDownloader) / [Client](https://github.com/luisflorido/wallhaven-desktop) or **[Wallpaper Abyss](https://wall.alphacoders.com/)** - Find Wallpapers
+* ⭐ **[Studio Ghibli Wallpapers](https://www.ghibli.jp/info/013772)** or [Ghibli Upscaled](https://rentry.co/FMHYBase64#ghibli-upscaled) - Studio Ghibli Wallpapers
 * ⭐ **[LWP](https://github.com/jszczerbinsky/lwp)** - Move Wallpapers with Cursor
 * [/r/Wallpaper/](https://www.reddit.com/r/wallpaper/) - Wallpapers Community
-* [Faerber](https://farbenfroh.io/) - Edit Wallpaper to Match Color Scheme
+* [Faerber](https://farbenfroh.io/) - Edit Wallpapers to Match Color Scheme
+* [DualMonitorBackgrounds](https://www.dualmonitorbackgrounds.com/) - Dual Monitor Wallpapers
 * [Scenic Illustrations](https://www.pixeltrue.com/scenic-illustrations) - Landscape Wallpapers
 * [CoolBackgrounds](https://coolbackgrounds.io/) or [wallup](https://wallup.net/) - Customizable Wallpapers
-* [Simple Desktops](https://simpledesktops.com/), [Positron Dream](https://www.positrondream.com/) or [SetAsWall](https://www.setaswall.com/) - Minimalistic Wallpapers
+* [Simple Desktops](https://simpledesktops.com/), [Positron Dream](https://www.positrondream.com/) or [SetAsWall](https://www.setaswall.com/) - Minimalist Wallpapers
 * [/r/LivingBackgrounds](https://reddit.com/r/LivingBackgrounds), [WALLegend](https://wallegend.net/en/) or [MoeWalls](https://moewalls.com/) - Animated Wallpapers
 * [AutoWall](https://github.com/SegoCode/AutoWall) - Turn Videos / GIFs to Live Wallpapers
 * [Screencaps](https://screencaps.us/) or [shot.cafe](https://shot.cafe/) - Movie / TV Wallpapers
@@ -493,31 +474,17 @@
 * [WallpaperHub](https://www.wallpaperhub.app/) or [Windows Wallpaper Pack](https://drive.google.com/drive/folders/1-80cROdVY-GSwu9fGnJJyglcERKyJ-gP) - Windows Wallpapers
 * [Mac Walls](https://goo.gl/photos/HjY1hmo6p3jfFz8a7), [2](https://photos.google.com/share/AF1QipNNQyeVrqxBdNmBkq9ILswizuj-RYJFNt5GlxJZ90Y6hx0okrVSLKSnmFFbX7j5Mg?key=RV8tSXVJVGdfS1RIQUI0Q3RZZVhlTmw0WmhFZ2V3) - Apple Wallpapers
 * [BasicAppleBlog](https://basicappleguy.com/basicappleblog/category/Wallpaper) - Custom Apple Wallpapers
-* [Aesthetic Wallpapers](https://github.com/D3Ext/aesthetic-wallpapers/)
-* [Wallpapers.com](https://wallpapers.com/)
-* [WallpaperSafari](https://wallpapersafari.com/)
-* [WallpapersDen](https://wallpapersden.com/)
-* [WallpaperCave](https://wallpapercave.com/)
-* [Wallpaper Tip](https://wallpapertip.com/)
-* [4KWallpapers](https://4kwallpapers.com/)
-* [WallsPic](https://wallspic.com/)
-* [WallpaperFlare](https://www.wallpaperflare.com/)
-* [HDQwalls](https://hdqwalls.com/)
-* [UHD Wallpaper](https://www.uhdpaper.com/) - Wallpapers
-* [WallpapersCraft](https://wallpaperscraft.com/)
-* [wallha](https://wallha.com/)
-* [G_Walls](https://t.me/G_Walls) - TG Wallpapers
-* [pengwyn](https://t.me/pengwyn) - TG Wallpapers
+* [Aesthetic Wallpapers](https://github.com/D3Ext/aesthetic-wallpapers/) - Curated List of Wallpapers from Different Sources
+* [Wallpaper Tip](https://wallpapertip.com/), [WallsPic](https://wallspic.com/), [WallpaperFlare](https://www.wallpaperflare.com/), [HDQwalls](https://hdqwalls.com/) or [UHD Wallpaper](https://www.uhdpaper.com/) - Misc Wallpapers
+* [G_Walls](https://t.me/G_Walls) or [pengwyn](https://t.me/pengwyn) - Telegram Wallpaper Channels
 
 ***
 
 ## ▷ Wallpaper Managers
 
-* ⭐ **[Wallpaper Engine](https://rentry.co/FMHYBase64#wallpaper-engine)** - Wallpaper Manager / [PKG to Zip](https://github.com/TheRioMiner/Wallpaper-Engine-Pkg-to-Zip) / [Collections](https://www.wallpaperengine.space/collections), [2](https://steamcommunity.com/sharedfiles/filedetails/?id=2801058904) / [Workshop DL](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_steam_workshop_downloaders)
-* [Lively](https://www.rocksdanister.com/lively/) - Live Wallpaper Manager
-* [DualMonitorBackgrounds](https://www.dualmonitorbackgrounds.com/) or [WallpaperFusion](https://www.wallpaperfusion.com/) - Dual Monitor Wallpapers
-* [ScreenPlay](https://screen-play.app/) - Wallpaper Manager
+* ⭐ **[Wallpaper Engine](https://rentry.co/FMHYBase64#wallpaper-engine)** / [PKG to Zip](https://github.com/TheRioMiner/Wallpaper-Engine-Pkg-to-Zip) / [Collections](https://www.wallpaperengine.space/collections), [2](https://steamcommunity.com/sharedfiles/filedetails/?id=2801058904) / [Workshop DL](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_steam_workshop_downloaders) - Wallpaper Manager
+* [Lively](https://www.rocksdanister.com/lively/) or [ScreenPlay](https://screen-play.app/) - Live Wallpaper Manager
 * [backiee](https://apps.microsoft.com/store/detail/backiee-wallpaper-studio-10/9WZDNCRFHZCD) - Wallpaper Manager
-* [Awesome Wallpaper](https://awesome-wallpaper.com/) - Wallpaper Manager
-* [SuperPaper](https://github.com/hhannine/superpaper) - Wallpaper Manager
+* [SuperPaper](https://github.com/hhannine/superpaper) - Cross-Platform Multi-Monitor Wallpaper Manager
 * [Background Switcher](https://johnsad.ventures/software/backgroundswitcher/) - Multi-Host Wallpaper Switcher
+* [Awesome Wallpaper](https://awesome-wallpaper.com/) - Show System Information on Wallpaper
