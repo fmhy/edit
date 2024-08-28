@@ -25,6 +25,7 @@
 * [Voice Control](https://voicecontrol.chat/) - ChatGPT Voice Control
 * [ChatGPT Exporter](https://greasyfork.org/en/scripts/456055) - Export Chats
 * [GPThemes](https://github.com/itsmartashub/GPThemes) - ChatGPT Themes
+* [LLMChat](https://llmchat.co) - Multi LLM chat interface
 
 ***
 
