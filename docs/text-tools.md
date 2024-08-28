@@ -417,6 +417,7 @@
 * [YearCompass](https://yearcompass.com/) - New Years Resolution Booklet
 * [daily.place](https://www.daily.place/)
 * [SuperList](https://www.superlist.com/)
+* [ToDo List](https://www.abstractspoon.com/) / [GitHub](https://github.com/abstractspoon)
 * [Diry AI](https://www.diry.ai/)
 * [Fokus](https://fokus-website.netlify.app/)
 * [OpenToDoList](https://gitlab.com/rpdev/opentodolist)

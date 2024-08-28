@@ -39,14 +39,13 @@
 * [CinemaUnlocked](https://cinemaunlocked.com/) - Movies / TV / Anime / 1080p
 * [AZMovies](https://azm.to/) - Movies  / 1080p
 * [M4uFree](https://m4ufree.se/) - Movies / TV / Anime / 1080p / [Clones](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_m4ufree_clones)
-* [Hopcorn](https://c.hopmarks.com/) - Movies / TV / Anime / 4K / 1080p
+* [Hopcorn](https://c.hopmarks.com/) or [Hopplay](https://p.hopmarks.com/) - Movies / TV / Anime / 4K / 1080p
 * [PlayFlix](https://playflix.ru/) - Movies / TV / Anime / 4K / 1080p
 * [123MoviesFree](https://ww2.123moviesfree.net/) - Movies / TV / Anime / 1080p
 * [r123movie](https://r123movie.com/) - Movies / TV / Anime / 1080p
 * [Daitign](https://daiflix.daitign.com/) - Movies / TV / Anime / 1080p / Signup Required
 * [Way2Movies](https://way2movies.vercel.app/) - Movies / TV / Anime / 4K
 * [ValhallaStream](https://valhallastream.us.kg/), [2](https://valhallastream.pages.dev/) - Movies / TV / Anime / 4K
-* [WatchNest](https://watchnest.site/), [2](https://watchnest.top/), [3](https://watchnest.xyz/) - Movies / TV / Anime / 4K / 1080p
 * [Cinema Deck](https://cinemadeck.com/) - Movies / TV / Anime / 4K / 1080p / Ad-Free / [Discord](https://l.cinemadeck.com/discord)
 * [Yesmovies.pm](https://yesmovies.pm/) - Movies / TV / Anime / 1080p
 * [TVids](https://www.tvids.net/), [2](https://watch-tvseries.net/) - Movies / TV / Anime / 1080p
@@ -181,7 +180,6 @@
 * [Kimcartoon.si](https://kimcartoon.si/)
 * [TopCartoons](https://www.topcartoons.tv/)
 * [WatchCartoonsOnline](https://www1.watchcartoononline.bz/)
-* [WatchCartoonsOnline.com](https://watchcartoononline.com/)
 * [Supercartoons](https://www.supercartoons.net/)
 * [FunnierMoments](https://www.funniermoments.net/)
 * [b98](https://www.b98.tv/)
@@ -395,7 +393,7 @@
 
 ## ▷ Live Sports
 
-* ⭐ **[Streamed](https://streamed.su/)** - Sports
+* ⭐ **[Streamed](https://streamed.su/)** - Sports / [Discord](https://discord.gg/streamed)
 * ⭐ **[Sportsurge](https://v2.sportsurge.net/home4/)** - Sports / Stream Aggregator
 * ⭐ **[WatchSports](https://watchsports.to/)** - Sports / Stream Aggregator
 * ⭐ **[Sports Plus](https://en12.sportplus.live/)** - Sports
@@ -459,6 +457,7 @@
 * [DD12](https://dd12streams.com/) - Motorsports / [Discord](https://discord.com/invite/TTFE8Jfz7G)
 * [F1Box](https://f1box.me/) - Motorsports
 * [Formula 1 Streams](https://reddit.formula1stream.cc/) - Motorsports
+* [NHLStreams](https://nhlstreams.io/) - Hockey
 * [NHLstream](https://nhlstream.net/) - Hockey
 * [NHL66](https://nhl66.ir/) - Hockey
 * [OnHockey](http://onhockey.tv/) - Hockey
@@ -913,6 +912,7 @@
 
 ## ▷ Streaming APIs
 
+* [VidSrc.rip](https://vidsrc.rip/) -  Movies / TV / Anime / Drama  / 1080p / API / [Discord](https://discord.com/invite/streamflix)
 * [AutoEmbed](https://autoembed.cc/), [2](https://autoembed.cc/anime/), [3](https://autoembed.cc/drama/) - Movies / TV / Anime / Drama  / 1080p / API / [Telegram](https://t.me/auto_embed)
 * [GoMo](https://gomo.to/) - Movies / TV / Anime / API / 1080p
 * [SuperEmbed](https://www.superembed.stream/) - Movies / TV / API / 1080p

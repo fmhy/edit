@@ -17,7 +17,7 @@
 * [VideoSmaller](https://www.videosmaller.com/), [YouCompress](https://www.youcompress.com/), [Compress Video Online](https://compress-video-online.com/), [8mb.video](https://8mb.video/), [Rotato](https://tools.rotato.app/) or [MP4Compress](https://www.mp4compress.com/) - Video Compressors
 * [videoduplicatefinder](https://github.com/0x90d/videoduplicatefinder) - Duplicate Video Finder
 * [ImgBurn](https://www.majorgeeks.com/files/details/imgburn.html), [DVDStyler](https://www.dvdstyler.org/en/), [DeepBurner](https://www.deepburner.com/) or [Alcohol Soft](https://www.alcohol-soft.com/) - CD / DVD Burning
-* [MakeMKV](https://www.makemkv.com/) - Create MKV From Blu-ray / DVD
+* [MakeMKV](https://www.makemkv.com/) - Create MKV From Blu-ray / DVD / [Beta Keys](https://rentry.co/FMHYBase64#makemkv-beta)
 * [VidCoder](https://vidcoder.net/) or [DVDDecrypter](http://dvddecrypter.org.uk/) - DVD / Blu-ray Ripping
 * [DGDemux](https://www.rationalqm.us/dgdemux/dgdemux.html) - Blu-Ray/UHD Disk Demuxer
 * [PgcDemux](https://www.videohelp.com/software/PgcDemux) - DVD Disk Demuxer

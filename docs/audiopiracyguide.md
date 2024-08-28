@@ -8,10 +8,10 @@
 
 * ⭐ **[Spotify Desktop](https://www.spotify.com/us/download/)** - Official Client / Use Adblockers Below
 * ⭐ **[Spicetify](https://spicetify.app/)** - Modded Client w/ Adblock Plugins
-* [Lofi Rocks](https://www.lofi.rocks/) - Tiny / Minimal Client
-* [MooSync](https://moosync.app/) - Feature-Rich Client
+* [Lofi Rocks](https://www.lofi.rocks/) - Tiny / Minimal Client / [GitHub](https://github.com/dvx/lofi)
+* [MooSync](https://moosync.app/) - Feature-Rich Client / [GitHub](https://github.com/Moosync/Moosync)
 * [Spotify Web Client](https://open.spotify.com/)
-* Web Client Tools - [Enhanced UI](https://senpaihunters.github.io/SpotOn/) / [Customize](https://github.com/Darkempire78/Spotify-Customizer) / [Lyrics](https://github.com/mantou132/Spotify-Lyrics), [2](https://greasyfork.org/en/scripts/377439)
+* Web Client Tools - [Enhanced UI](https://senpaihunters.github.io/SpotOn/) / [Lyrics](https://github.com/mantou132/Spotify-Lyrics), [2](https://greasyfork.org/en/scripts/377439)
 
 ***
 
@@ -43,7 +43,7 @@
 * [Playlistor](https://playlistor.io/) - Apple Music Playlist Converter
 * [Spotr](https://github.com/XDGFX/spotr) - Export Tracks as Deezer Playlists
 * [SpotifyCloud](https://spotifycloud.zamar-roura.com/) - Playlist Words
-* [Spotify Dedup](https://spotify-dedup.com/) - Playlist Song Dedup
+* [Spotify Dedup](https://spotify-dedup.com/) - Playlist Song Dedup / [GitHub](https://github.com/JMPerez/spotify-dedup/)
 * [exportify](https://github.com/watsonbox/exportify) or [SpotMyBackup](http://www.spotmybackup.com/) - Playlist Backup
 * [Opslagify](https://opslagify.deruever.nl/) - Library Size
 * [Awesome Spotify Stats](https://github.com/rimsiw/awesome-spotify-stats) or [NewTunes](https://newtunes.xyz/) - Listening Stats
@@ -52,7 +52,7 @@
 * [Tierify](https://tierify.app/) - Tier Lists
 * [Kira](https://kira.vercel.app/) - Browse by Country
 * [ListenByLabel](https://www.lbl.fm/) - Browse by Labels
-* [Syrics](https://syrics-web-akashrchandran.vercel.app/) - Download Synced Lyrics
+* [Syrics](https://syrics-web-akashrchandran.vercel.app/) - Download Synced Lyrics / [GitHub](https://github.com/akashrchandran/syrics-web)
 * [spotify-github-profile](https://github.com/kittinan/spotify-github-profile) - GitHub Display
 
 ***
@@ -62,12 +62,12 @@
 ## ▷ Streaming Apps
 
 * ⭐ **[Custom YouTube Music](https://th-ch.github.io/youtube-music/)** - YouTube Music Client / [Themes](https://github.com/kerichdev/themes-for-ytmdesktop-player/)
-* [MooSync](https://moosync.app/) - YouTube Music Client
+* [MooSync](https://moosync.app/) - YouTube Music Client / [GitHub](https://github.com/Moosync/Moosync)
 * [SpoTube](https://spotube.krtirtho.dev/) - YouTube Music Client
 * [yewtube](https://github.com/mps-youtube/yewtube) - YouTube Music Client
 * [spmp](https://github.com/toasterofbread/spmp) - YouTube Music Client
 * [Headset](https://headsetapp.co) - YouTube Music Client
-* [BetterSoundcloud](https://alirezakj.com/bsc/) - Soundcloud Client / Ad-Free
+* [BetterSoundcloud](https://alirezakj.com/bsc/) - Soundcloud Client / Ad-Free / [GitHub](https://github.com/AlirezaKJ/BetterSoundCloud)
 * [nuclear](https://nuclear.js.org/) - Streaming / [GitHub](https://github.com/nukeop/nuclear) / [Discord](https://discord.com/invite/JqPjKxE)
 * [FunkWhale](https://funkwhale.audio/) - Streaming
 * [MP3Jam](https://www.mp3jam.org/) - Streaming
@@ -76,7 +76,6 @@
 * [Deezer](https://www.deezer.com/) - Streaming / [HiFi Unlock](https://uhwotgit.fly.dev/uhwot/dzunlock)
 * [MusicBucket](https://musicbucket.net/) - Track / Share Music / Telegram
 * [JukeboxStar](https://jukeboxstar.com/) or [JukeboxToday](https://jukebox.today/) - Collaborative Streaming / Listening Parties
-* [stemplayerplayer](https://github.com/nn9dev/stemplayerplayer) - Kanye West STEM Player Emulators
 
 ***
 
@@ -87,6 +86,7 @@
 * ⭐ **[Reddit Music Player](https://reddit.musicplayer.io/)** - Subreddit Music Player
 * ⭐ **[SoundCloud](https://soundcloud.com/)** - User Made Songs / [Spotify Theme](https://userstyles.world/style/5470/soundfy-v3) / [Dark Theme](https://github.com/huds0nx/soundcloud-luna)
 * ⭐ **[hate5six](https://hate5six.com/)** - Concert Recordings
+* [Spotify Web Client](https://open.spotify.com/)
 * [WProject](https://wproject.vercel.app/) - Browser Music
 * [Groovesharks](https://groovesharks.org/) - Browser Music
 * [Last.fm](https://www.last.fm/) - Browser Music
@@ -113,13 +113,12 @@
 * [Dream of the 90s](https://www.youtube.com/@Dreamofthe90s/playlists) - Obscure 90s
 * [OperaOnVideo](https://www.operaonvideo.com/) - Opera Recordings
 * [Classical Music Only](https://classicalmusiconly.com/) or [musopen](https://musopen.org/music/) - Classical Music
-* [Bandcamp](https://bandcamp.com/tag/free-music?tab=all_releases) - Free Bandcamp Music
+* [Bandcamp](https://bandcamp.com/tag/free-music?tab=all_releases) or [Mirlo](https://mirlo.space/) - Free Music Release Platforms
 * [Audius](https://audius.co/) - User Made Music Platform
 * [AudionautiX](https://audionautix.com/) - Mood-Based Streaming
 * [Neko Network](https://live.neko-network.net/) - Anime Music Videos
 * [Youtaite](https://www.youtaite.com/) - Youtaite Resources / Songs
 * [Musicmap](https://musicmap.info/) - Genealogy / History of Music Genres
-* [Samplette](https://samplette.io/) - Random Songs
 * [Map of Metal](https://mapofmetal.com/) - Interactive Map of Metal History
 * [LostMyspace](http://lostmyspace.com/) - Lost Myspace Songs
 * [Mideastunes](https://mideastunes.com/) - Underground Music
@@ -513,7 +512,7 @@
 * [UpcomingPlaylists](https://www.upcomingplaylists.com/) - Playlists of Artists Playing Live Near You
 * [TuneMyMusic](https://www.tunemymusic.com/) - Transfer Playlists between Services
 * [Obscurify](https://obscurifymusic.com/) or [MusicTaste](https://musictaste.space/) - Compare Music Taste to Others
-* [Random Song Generator](https://randomsonggenerator.com/) or [UnknownMusicBot](https://t.me/UnknownMusicBot) - Play Random YouTube Songs
+* [Random Song Generator](https://randomsonggenerator.com/), [Samplette](https://samplette.io/) or [UnknownMusicBot](https://t.me/UnknownMusicBot) - Play Random YouTube Songs
 * [Random Songs](https://random-song.com/) - Play Random Spotify Songs
 * [Random Album Bookmark Script](https://pastebin.com/rR4qrvnX) - Find Random Albums
 * [1001 Albums Generator](https://1001albumsgenerator.com/) - Generates Random Album Each Weekday
@@ -549,7 +548,7 @@
 * ↪️ **[Voice Change / Clone](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/ai#wiki_.25B7_voice_change_.2F_clone)**
 * ↪️ **[Text to Speech](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/ai#wiki_.25B7_text_to_speech)**
 * ⭐ **[Audio Glossary](https://wotaku.wiki/glossary/audio)** - Audio Terms Glossary
-* ⭐ **[FFmpeg](https://ffmpeg.org/)**, [fre:ac](https://www.freac.org/), [FlicFlac](https://github.com/DannyBen/FlicFlac), [LameXP](https://sourceforge.net/projects/lamexp/) or [Sox](https://sourceforge.net/projects/sox/) - Audio Converters
+* ⭐ **[FFmpeg](https://ffmpeg.org/)**, [fre:ac](https://www.freac.org/) / [GitHub](https://github.com/enzo1982/freac), [FlicFlac](https://github.com/DannyBen/FlicFlac), [LameXP](https://sourceforge.net/projects/lamexp/) or [Sox](https://sourceforge.net/projects/sox/) - Audio Converters
 * ⭐ **[Pillowcase](https://pillowcase.su/)** - Audio File Host / 200MB (500MB With Account) / Forever
 * [Phiola](https://github.com/stsaz/phiola), [AudioToolSet](https://audiotoolset.com/) or [Safeaudiokit](https://safeaudiokit.com/) - Audio Multi-Tool Apps / Sites
 * [qAAC](https://github.com/nu774/qaac) - QuickTime AAC/ALAC encoder

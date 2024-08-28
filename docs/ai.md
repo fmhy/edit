@@ -44,6 +44,7 @@
 * [OAICHAT](https://chat.oaichat.cc/), [2](https://chat.sorapi.dev/), [3](https://ffa.chat/) - GPT-4o / Multiple Chatbots
 * [GPT4o.so](https://gpt4o.so/app) - GPT-4o
 * [Zhucn](https://zhucn.org/) - GPT-4o Mirror Pool
+* [Kelaode](https://kelaode.ai/) - Claude Mirror Pool / Set 8 Letter Password 
 * [LibreChat](https://librechat.ai/) - Multiple Chatbots / [Discord](https://discord.librechat.ai/)
 * [Mistral](https://chat.mistral.ai/chat) - Multiple Chatbots
 * [HuggingChat](https://huggingface.co/chat/) - Open-Source Chatbots
@@ -173,6 +174,7 @@
 * [ChatGPT System Prompt](https://github.com/LouisShark/chatgpt_system_prompt) - Prompt Directory
 * [500 Best Prompts](https://puzzle-jute-202.notion.site/500-Best-ChatGPT-Prompts-f5b4ad65deec4b6385316fdb8740af74) - Prompt Directory
 * [ChatGPT-Prompts](https://github.com/yokoffing/ChatGPT-Prompts) - Prompt Directory
+* [Awesome Claude Prompts](https://github.com/langgptai/awesome-claude-prompts/) - Prompt Directory
 * [L1B3RT45](https://github.com/elder-plinius/L1B3RT45) - Jailbreak Prompts / [Discord](https://discord.gg/basi) / [Twitter](https://x.com/elder_plinius)
 * [promptfoo](https://github.com/typpo/promptfoo) or [PromptKnit](https://promptknit.com/) - Prompt Playgrounds
 * [Marketing 2099](https://sintralabs.notion.site/Marketing-2099-Ultimate-ChatGPT-Marketing-Prompts-To-Copy-Paste-200-tasks-fc22c9142d6a4a4286a3fe755be932e6) - ChatGPT Marketing Prompts
@@ -214,10 +216,7 @@
 * [Scrip AI](https://scripai.com/), [InkForAll](https://app.inkforall.com/tools), [QuickPenAI](https://quickpenai.com/) - Online AI Text Tools
 * [NovelAI](https://novelai.net/) - Story Writing AI / [Limit Bypass](https://pastebin.com/JDyvqZcz), [2](https://greasyfork.org/en/scripts/448926)
 * [Dreamily](https://dreamily.ai/) - Story Writing AIs
-* [EssayBot](https://www.essaybot.com/) / [2](https://www.essayaibot.com/), [Textero](https://www.textero.ai/), [EssayBuilder](https://essay-builder.ai/) or [EssayService](https://www.essayservice.ai/) - Essay Writing AI
-* [TextSynth](https://textsynth.com/playground.html) - Text Autocomplete AI
 * [edyt.ai](https://app.edyt.ai/) - Content Writing
-* [Product Description Generator](https://www.aidirectori.es/tools/product-description-generator)
 
 ***
 
@@ -238,7 +237,6 @@
 * [Stable Diffusion Videos](https://github.com/nateraw/stable-diffusion-videos) - Video Generator
 * [Dream Machine](https://lumalabs.ai/dream-machine) - Video Generator
 * [text-to-video](https://text-to-video.vercel.app) - Video Generator
-* [Text2Video-Zero](https://github.com/Picsart-AI-Research/Text2Video-Zero) - Video Generator
 * [LensGo](https://lensgo.ai/) - Video Generator
 * [Pika Labs](https://www.pika.art/) - Video Generator
 * [Damo](https://huggingface.co/spaces/damo-vilab/modelscope-text-to-video-synthesis) - Video Generator
@@ -287,17 +285,10 @@
 * [Adobe Firefly](https://firefly.adobe.com/) / 25 Monthly / [Discord](https://discord.com/invite/dJnsV5s8PZ) / Sign-Up Required
 * [AITurbo](https://app.aitubo.ai/) / 25 Daily / [Discord](https://discord.gg/qTu6YsRn7F)
 * [Venice](https://venice.ai/chat/Wyg_3w4M5KDFAcAHnqf-s) / 25 Daily
-* [Artsio](https://artsio.xyz/) / 20 Daily
 * [Yodayo](https://yodayo.com/) / 15 Daily
 * [Maze.guru](https://maze.guru/gallery) / 12 Daily
-* [DreamLike](https://dreamlike.art) / 12 Daily
-* [Craiyon](https://www.craiyon.com/) / 10 Daily / [Github](https://github.com/borisdayma/dalle-mini) / [Colab](https://colab.research.google.com/github/borisdayma/dalle-mini/blob/main/tools/inference/inference_pipeline.ipynb)
-* [POKEIT](https://pokeit.ai/) / 10 Daily
 * [PixAI](https://pixai.art/) / 10 Daily
-* [Krea](https://www.krea.ai/home) / [Discord](https://discord.gg/rJurUAR8Kz)
-* [ArtHub.ai](https://arthub.ai/)
 * [HotPot](https://hotpot.ai/)
-* [clipdrop](https://clipdrop.co/tools)
 * [Glif](https://glif.app/)
 * [AlpacaML](https://www.alpacaml.com/) - AI Powered Canvas
 * [MemeCam](https://www.memecam.io/) - AI Meme Generator
@@ -324,8 +315,6 @@
 * [Sygil WebUI](https://github.com/Sygil-Dev/sygil-webui) / [Discord](https://discord.com/invite/ttM8Tm6wge)
 * [Radiata](https://ddpn08.github.io/Radiata/en/)
 * [SD WebUI Forge](https://github.com/lllyasviel/stable-diffusion-webui-forge)
-* [NMKD Stable Diffusion GUI](https://github.com/n00mkrad/text2image-gui)
-* [aiimag.es](https://sunija.itch.io/aiimages) / [Discord](https://discord.com/invite/Fge4dVHFM2)
 
 ***
 
@@ -394,42 +383,26 @@
 * ⭐ **[Bark](https://huggingface.co/spaces/suno/bark)** - [Github](https://github.com/suno-ai/bark) / [Discord](https://discord.com/invite/J2B2vsjKuE)
 * [Balabolka](https://www.cross-plus-a.com/bportable.htm)
 * [ttsMP3](https://ttsmp3.com/)
-* [Vall-e](https://github.com/enhuiz/vall-e)
-* [TextToMP3](https://www.texttomp3.online/)
-* [Listnr](https://listnr.ai/)
 * [FakeYou](https://fakeyou.com/)
 * [LuvVoice](https://luvvoice.com/)
-* [Woord](https://www.getwoord.com/)
 * [TTSMaker](https://ttsmaker.com/)
-* [Speakonia](https://archive.org/details/speakonia_1036)
 * [TextToSpeech](https://texttospeech.io/)
-* [SAPI4](https://tetyys.com/SAPI4/)
 * [LazyPY](https://lazypy.ro/tts/)
 * [VoiceCraft](https://github.com/jasonppy/VoiceCraft)
-* [Murf.ai](https://murf.ai/)
 * [EmotiVoice](https://github.com/netease-youdao/EmotiVoice)
 * [Fish Audio](https://fish.audio/) / [Docs](https://diff.fish.audio) / [GitHub](https://github.com/fishaudio/fish-diffusion)
 * [Audio-WebUI](https://github.com/gitmylo/audio-webui)
 * [Vanilla Voice](https://www.vanillavoice.com/)
-* [Sam](https://discordier.github.io/sam/), [2](https://simulationcorner.net/index.php?page=sam) / [BetterSam](https://imrane03.github.io/better-sam/)
-* [MicrosoftSamOnline](https://lingojam.com/MicrosoftSamOnline)
 * [TTSFree](https://ttsfree.com/)
 * [Wideo](https://wideo.co/text-to-speech/)
-* [VoiceGenerator](https://voicegenerator.io/)
-* [Text to Speech Free](https://www.texttospeechfree.com/)
 * [Lovo ai](https://lovo.ai/)
-* [TextToSpeechRobot](https://texttospeechrobot.com/)
 * [SoundofText](https://soundoftext.com/)
 * [FreeTTS](https://freetts.com/)
-* [zvukogram](https://zvukogram.com/)
-* [Nuance](https://www.nuance.com/de-de/omni-channel-customer-engagement/voice-and-ivr/text-to-speech.html)
 * [VoiceMaker](https://voicemaker.in/)
-* [readloud](https://readloud.net/)
 * [NaturalReaders](https://www.naturalreaders.com/online/)
 * [TTS](https://github.com/coqui-ai/tts)
 * [Clash](https://clash.me/)
 * [Moe TTS](https://huggingface.co/spaces/skytnt/moe-tts)
-* [TTS Paper](https://github.com/coqui-ai/TTS-papers) - Text to Speech Papers
 
 ***
 

@@ -1110,8 +1110,8 @@
 * [BreakMessage](https://breakmessage.com/) - Online Break Reminders
 * [TabWave](https://www.tabwave.app/) - Minimal / Productivity New Tab
 * [Virtual Cottage](https://dui.itch.io/virtual-cottage) - Activity / Tasks Virtual Cottage
-* [Plucky](https://pluckyfilter.com/), [Block Site](https://webextension.org/listing/block-site.html), [LeechBlock](https://www.proginosko.com/leechblock), [uBlacklist](https://iorate.github.io/ublacklist/docs), [Forest](https://pastebin.com/rYuAivA0), [Wiper](https://github.com/davidahmed/wiper) or [Tomato Clock](https://github.com/samueljun/tomato-clock) - Site Blocking Extensions
-* [NudgeWare](https://nudgeware.io/), [Minto](https://chromewebstore.google.com/detail/minto/hcgkjlalkeaekjkelpilagbjcengeebl), [GoGo Productivity](https://chromewebstore.google.com/detail/gogo-productivity/mgefagaoblmbfcjoaiibbmobmkgoljia), [UnDistracted](https://www.undistracted.app/), [Focus-ToDo](https://chromewebstore.google.com/detail/ngceodoilcgpmkijopinlkmohnfifjfb) or [HabitLab](https://habitlab.github.io/) - Chrome Productivity Managers
+* [Plucky](https://pluckyfilter.com/), [Block Site](https://webextension.org/listing/block-site.html), [LeechBlock](https://www.proginosko.com/leechblock), [uBlacklist](https://iorate.github.io/ublacklist/docs) or [Forest](https://pastebin.com/rYuAivA0) - Site Blocking Extensions
+* [UnDistracted](https://www.undistracted.app/) or [Focus-ToDo](https://chromewebstore.google.com/detail/ngceodoilcgpmkijopinlkmohnfifjfb) - Chrome Productivity Managers
 
 ***
 

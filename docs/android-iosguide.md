@@ -202,8 +202,7 @@
 * [Phonetones](http://onj3.andrelouis.com/phonetones/) or [RingtoneRobot](https://t.me/RingtoneRobot) - Ringtones Directories
 * [Panels](https://play.google.com/store/apps/details?id=com.fossor.panels&hl=en_US&gl=QA) - Android Sidebar Panel
 * [Statusbar Icon Hider](https://play.google.com/store/apps/details?id=com.cooliehat.statusbariconhider) - Hide Status Bar Items
-* [Candybar](https://github.com/zixpo/candybar) - Custom Icon Pack Dashboard
-* [Arcticons](https://arcticons.com/) - Monotone Icon Pack
+* [Candybar](https://github.com/zixpo/candybar), [Arcticons](https://arcticons.com/) or [Iconeration](https://f-droid.org/packages/com.kaanelloed.iconeration/) - Custom Icon Packs
 * [Giga Icon](https://play.google.com/store/apps/details?id=it.mirko.gigaicon&hl=en_IN&gl=US) - Make Icons Bigger
 * [IconRequest](https://github.com/Kaiserdragon2/IconRequest) - Find Missing Icons
 
@@ -260,7 +259,8 @@
 * [FFShare](https://github.com/caydey/ffshare) - Compress Videos / Images
 * [RealSR](https://github.com/tumuyan/RealSR-NCNN-Android), [MintAI](https://play.google.com/store/apps/details?id=com.mingkun.mintAI) or [Galaxy Enhance-X](https://www.apkmirror.com/apk/samsung-electronics-co-ltd/galaxy-enhance-x/) - Image Upscalers
 * [EasyWatermark](https://github.com/rosuH/EasyWatermark) or [free-watermark](https://github.com/free-watermark/mobile-app) - Add Watermark to Images
-* [Tidy](https://github.com/slavabarkov/tidy) - Text-to-Image / Image-to-Image search
+* [Tidy](https://github.com/slavabarkov/tidy) - Text to Image / Image-to-Image search
+* [AndroidOCR](https://github.com/SubhamTyagi/android-ocr) - Extract Text from Images
 * [Image Searcher](https://play.google.com/store/apps/details?id=sansunsen3.imagesearcher) - Image Search App
 * [SauceNAO](https://github.com/LuK1337/SauceNAO) - Reverse Image Search
 * [AppMockUp](https://app-mockup.com/) - Screenshot Builder
@@ -346,10 +346,10 @@
 
 * 🌐 **[Android ROM Comparisons](https://eylenburg.github.io/android_comparison.htm)** or [Android ROM List](https://github.com/musabcel/android_rom_list)
 * ⭐ **[CustomRomBay](https://customrombay.org/)** - ROMs Compatibility Search
-* ⭐ **[GrapheneOS](https://grapheneos.org/)** - Privacy-Based OS / [Discord](https://discord.com/invite/grapheneos) / [Telegram](https://t.me/GrapheneOS)
-* [CalyXOS](https://calyxos.org/) - Privacy-Based OS
-* [DivestOS](https://divestos.org/) - Privacy-Based OS
-* [LineageOS](https://www.lineageos.org/)- CyanogenMod Fork / [Discord](https://discord.gg/gD6DMtf) / [MicroG](https://lineage.microg.org/)
+* ⭐ **[GrapheneOS](https://grapheneos.org/)** - Security / Privacy Hardened Android / [Discord](https://discord.com/invite/grapheneos) / [Telegram](https://t.me/GrapheneOS)
+* [CalyxOS](https://calyxos.org/) - Privacy-Based OS
+* [LineageOS](https://www.lineageos.org/) - Privacy-Based OS / [Discord](https://discord.gg/gD6DMtf) / [MicroG](https://lineage.microg.org/)
+* [DivestOS](https://divestos.org/) - Harm Reduction for EOL Devices
 
 ***
 
@@ -509,7 +509,7 @@
 * [OldLander](https://github.com/OctoNezd/oldlander) - Improve Old Reddit
 * [Updoot](https://updoot.app/) - Reddit Saved Post / Comment Manager
 * [MobiChan](https://github.com/Rukkaitto/mobichan), [Kuroba](https://github.com/K1rakishou/Kuroba-Experimental) / [2](https://github.com/Adamantcheese/Kuroba) or [Chan](https://github.com/moffatman/chan) - 4Chan Apps
-* [Instander](https://thedise.me/instander/), [Instadev](https://instadevofficial.netlify.app/) / [Telegram](https://t.me/Instadevofficial), [Instafel](https://t.me/instafel/41) or [MyInsta](https://t.me/instasmashrepo) - Modded Instagram Clients / [Telegram](https://t.me/instander) / [Tools](https://play.google.com/store/apps/details?id=com.dageek.socialtoolbox_android)
+* [Instander](https://thedise.me/instander/), [Instafel](https://t.me/instafel/41), [MyInsta](https://t.me/instasmashrepo) or [Instadev](https://instadevofficial.netlify.app/) / [Telegram](https://t.me/Instadevofficial) - Modded Instagram Clients / [Telegram](https://t.me/instander) / [Tools](https://play.google.com/store/apps/details?id=com.dageek.socialtoolbox_android)
 * [TikTokModCloud](https://t.me/TikTokModCloud) - Modded TikTok Client
 * [MessengerPro](https://rentry.co/FMHYBase64#messengerpro) - Modded Facebook Messenger
 * [Telegram-Themer](https://github.com/therxmv/Telegram-Themer) or [Telegram Monet](https://github.com/mi-g-alex/Telegram-Monet) / [Telegram](https://t.me/tgmonet) - Telegram Theme Creators
@@ -807,7 +807,7 @@ https://github.com/Akylas/alpimaps
 * [VLC for Android](https://www.videolan.org/vlc/download-android.html)
 * [mpv-android](https://github.com/mpv-android/mpv-android)
 * [Foobar2000](https://www.foobar2000.org/apk)
-* [Vanilla Music](https://vanilla-music.github.io/)
+* [Vanilla Music](https://vanilla-music.github.io/) / [GitHub](https://github.com/vanilla-music/vanilla)
 * [Retro Music Player](https://retromusic.app/)
 * [Auxio](https://github.com/OxygenCobalt/Auxio/)
 * [Apollo Music Player](https://github.com/nuclearfog/Apollo-Music)
@@ -826,7 +826,7 @@ https://github.com/Akylas/alpimaps
 
 ## ▷ YouTube Music Clients
 
-* ⭐ **[InnerTune](https://github.com/z-huang/InnerTune)**, [2](https://github.com/Malopieds/InnerTune) - YouTube Music Player
+* ⭐ **[InnerTune](https://github.com/z-huang/InnerTune)**, [2](https://github.com/Malopieds/InnerTune), [3](https://github.com/DD3Boh/OuterTune) - YouTube Music Player
 * ⭐ **[Namida](https://github.com/namidaco/namida)** - YouTube Music Player
 * [RiMusic](https://rimusic.xyz) - YouTube Music Player / [GitHub](https://github.com/fast4x/RiMusic)
 * [Harmony Music](https://github.com/anandnet/Harmony-Music) - YouTube Music Player

@@ -56,7 +56,6 @@
 * [zAudiobooks](https://zaudiobooks.com/)
 * [Find Audiobook](https://findaudiobook.com/)
 * [Audio AZ](https://audioaz.com/)
-* [AudioBooksBeyond](https://odysee.com/@AudioBooksBeyond:1)
 * [/r/audiobooksonyoutube](https://reddit.com/r/audiobooksonyoutube)
 * [Spotify Audiobooks](https://open.spotify.com/artist/1FSWXfsYsosTxjcV9WoLax) / Select Playlists
 
@@ -70,7 +69,7 @@
 * ⭐ **[Z-Library](https://singlelogin.re/)**, [2](https://singlelogin.rs/) - Books / Comics / Educational / [Desktop / Extensions](https://zlibrary-qq.re/), [2](https://go-to-library.sk/) / [.onion](http://loginzlib2vrak5zzpcocc3ouizykn6k5qecgj2tzlnab5wcbqhembyd.onion/) / [Subreddit](https://www.reddit.com/r/zlibrary/) / [Telegram](https://t.me/zlibrary_official)
 * ⭐ **[Liber3](https://liber3.eth.limo/)** - Books / [Telegram](https://t.me/liber3eth)
 * ⭐ **[Mobilism](https://forum.mobilism.org)** - Books / Audiobooks / Magazines / Newspapers / Comics / [User Ranks](https://rentry.co/mobilismranks), [2](https://pastebin.com/pZuuMxYm)
-* ⭐ **[Archive.org](https://archive.org/details/texts)** - Books / Audiobooks / Magazines / Newspapers / [Downloader](https://bookripper.neocities.org/)
+* ⭐ **[Archive.org](https://archive.org/details/texts)** - Books / Audiobooks / Magazines / Newspapers / [Downloader](https://rentry.org/arch1ve), [2](https://bookripper.neocities.org/), [3](https://redd.it/fm1xpw) / [Extension](https://github.com/elementdavv/internet_archive_downloader) / [Script](https://redd.it/ofcqds)
 * ⭐ **[Calibre](https://calibre-ebook.com/)** - Ebook Manager / Downloader / [Libraries / Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/reading#wiki_.25B7_calibre_libraries)
 * ⭐ **[The Library](https://discord.gg/mSyFJz9)** - Book Discord Server
 * ⭐ **[eBookHunter](https://ebook-hunter.org/)** - Books / Comics / Use Adblocker
@@ -80,7 +79,7 @@
 * irc://irc.undernet.org/bookz
 * irc://irc.irchighway.net/ebooks / [Request Guide](https://i.ibb.co/3WcCF56/3574e36b1bb2.png)
 * IRC Book Tools - [Guide](https://www.reddit.com/r/Piracy/comments/2oftbu/guide_the_idiot_proof_guide_to_downloading_ebooks/) / [mIRC](https://redd.it/znprct) / [Downloader](https://evan-buss.github.io/openbooks/)
-* [Bookracy](https://lite.bookracy.org/) - Books / [Subreddit](https://reddit.com/r/bookracy) / [Discord](https://discord.com/bookracy)
+* [Bookracy](https://bookracy.ru/), [2](https://bookracy.org/), [3](https://lite.bookracy.org/) - Books / [Subreddit](https://reddit.com/r/bookracy) / [Discord](https://discord.com/bookracy)
 * [BookSee](https://en.booksee.org/), [2](https://bookree.org/) - Books
 * [Bookstagram](https://vk.com/bookstagram_eng) - Books / Magazines
 * [Docutr](https://www.docutr.com/) - Books / Magazines / Newspapers
@@ -364,10 +363,10 @@
 * ↪️ **[Manga Readers / Managers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_manga_readers)**
 * ↪️ **[Manga Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_manga_downloaders)**
 * ↪️ **[Raw Manga Sites](https://old.reddit.com/r/FREEMEDIAHECKYEAH/wiki/non-eng#wiki_.25B7_reading_.2F_.8AAD.66F8)**
-* ⭐ **[MangaDex](https://mangadex.org/)** - [Downloader](https://mangadex-dl.mansuf.link/) / [Script](https://github.com/frozenpandaman/mangadex-dl)
-* ⭐ **[ComicK](https://comick.io/)**, [2](https://comick.cc/) - [Discord](https://discord.gg/comick)
+* ⭐ **[MangaDex](https://mangadex.org/)** / [Downloader](https://mangadex-dl.mansuf.link/) / [Script](https://github.com/frozenpandaman/mangadex-dl)
+* ⭐ **[ComicK](https://comick.io/)**, [2](https://comick.cc/) / [Discord](https://discord.gg/comick)
 * ⭐ **[MangaSee](https://mangasee123.com/)**, [2](https://manga4life.com/)
-* ⭐ **[MangaPark](https://mangapark.net/)** - [Discord](https://discord.gg/jctSzUBWyQ) / [Proxies](https://rentry.co/mangapark)
+* ⭐ **[MangaPark](https://mangapark.net/)** / [Discord](https://discord.gg/jctSzUBWyQ) / [Proxies](https://rentry.co/mangapark)
 * ⭐ **[Nyaa Manga / LNs](https://nyaa.si/?f=0&c=3_0&q=)** - Torrents
 * ⭐ **[MangaPiracy](https://discord.gg/ZgMtAyxFSU)** - Manga Piracy Server / [Subreddit](https://reddit.com/r/MangaPiracy)
 * ⭐ **[Manga CSE](https://cse.google.com/cse?cx=006516753008110874046:4im0fkhej3z)** / [CSE 2](https://cse.google.com/cse?cx=006516753008110874046:a5mavctjnsc#gsc.tab=0) - Multi-Site Manga Search
@@ -377,13 +376,14 @@
 * [Madokami](https://wotaku.wiki/guides/mado) / [Archive](https://rentry.co/FMHYBase64#madokami)
 * [The Manga Library](https://rentry.co/FMHYBase64#the-manga-library)
 * [MangaNelo](https://m.manganelo.com/wwww), [Manganato](https://manganato.com/) or [Mangakakalot](https://mangakakalot.com/)
-* [MangaFire](https://mangafire.to/) - [Discord](https://discord.com/invite/KRQQKzQ6CS)
-* [BATO.TO](https://bato.to/) - [Discord](https://discord.com/invite/batoto) / [Proxies](https://rentry.co/batoto)
-* [MangaReader](https://mangareader.to/) - [Discord](https://discord.com/invite/Bvc5mVcUqE) / [Subreddit](https://www.reddit.com/r/MangaReaderOfficial/)
-* [Atsumaru](https://atsu.moe/) - [Discord](https://discord.gg/Tj4QmEF4uV)
+* [MangaFire](https://mangafire.to/) / [Discord](https://discord.com/invite/KRQQKzQ6CS)
+* [BATO.TO](https://bato.to/) / [Discord](https://discord.com/invite/batoto) / [Proxies](https://rentry.co/batoto)
+* [MangaReader](https://mangareader.to/) / [Discord](https://discord.com/invite/Bvc5mVcUqE) / [Subreddit](https://www.reddit.com/r/MangaReaderOfficial/)
+* [Atsumaru](https://atsu.moe/) / [Discord](https://discord.gg/Tj4QmEF4uV)
 * [MangaHub](https://mangahub.io/)
 * [MangaTown](https://www.mangatown.com/)
 * [Mangairo](https://h.mangairo.com/)
+* [MangaBerri](https://mangaberri.com/)
 * [OniManga](https://onimanga.com)
 * [MangaBat](https://m.mangabat.com/)
 * [Mangahasu](https://mangahasu.se/)
@@ -405,8 +405,8 @@
 
 ***
 
-* ⭐ **[ComicK](https://comick.io/)**, [2](https://comick.cc/) - [Discord](https://discord.gg/comick)
-* ⭐ **[BATO.TO](https://bato.to/)** - [Discord](https://discord.com/invite/batoto) / [Proxies](https://rentry.co/batoto)
+* ⭐ **[ComicK](https://comick.io/)**, [2](https://comick.cc/) / [Discord](https://discord.gg/comick)
+* ⭐ **[BATO.TO](https://bato.to/)** / [Discord](https://discord.com/invite/batoto) / [Proxies](https://rentry.co/batoto)
 * ⭐ **[Webtoon](https://www.webtoons.com/)**
 * ⭐ **[Toonily](https://toonily.com/)**
 * [Like Manga](https://likemanga.io/)
@@ -507,6 +507,7 @@ https://www.wuxiaspot.com/
 * [PC Zone](https://pixsoriginadventures.co.uk/PCZone/) - PC Zone Magazines
 * [CGW Museum](https://www.cgwmuseum.org/) - Computer Gaming World Magazines
 * [Atari Magazines](https://www.atarimagazines.com/) - Classic Computer Magazine Archive
+* [RadioShack Catalogs](https://www.radioshackcatalogs.com/) - RadioShack Catalog Archive
 * [HomePower](https://www.homepower.com/archive-browse ) - Home Power Magazines
 * [Archive Fashion for the World](https://www.archivepdf.net/) - Fashion Magazines
 
@@ -942,7 +943,6 @@ https://www.wuxiaspot.com/
 * ⭐ **[ChatPDF](https://www.chatpdf.com/)**, [BookAI](https://www.bookai.chat/ ) or [Ask Your PDF](https://askyourpdf.com/) - Turn Books into Chatbots
 * ⭐ **[TypeSet](https://typeset.io/)** - Research Paper Chatbot
 * ⭐ **[Spreeder](https://www.spreeder.com/app.php?intro=1)**, [BR Script](https://greasyfork.org/en/scripts/465635), [PlayText](https://playtext.app/), [AccelaReader](https://accelareader.com/), [Jiffy](https://www.jiffyreader.com/), [SwiftRead](https://swiftread.com/), [Notation](https://github.com/numanzamandipuu/Notation), [Bionic Reading](https://app.bionic-reading.com/?type=text), [Tailwind BR](https://crisanlucid.github.io/vite-react-tailwind-bionic-reading/) or [SpeedRead](https://github.com/pasky/speedread) - Speed Reading Tools
-* ⭐ **[arch1ve](https://rentry.org/arch1ve)** or [Borrowing Picture Books](https://redd.it/fm1xpw) - Download Borrow Only Archive.org Books / [Script](https://redd.it/ofcqds)
 * ⭐ **[Kindle Comic Converter](https://github.com/ciromattia/kcc)** - Multi-Format Converter
 * ⭐ **[papeer](https://papeer.tech/)** or [epub-creator](https://github.com/NiklasGollenstede/epub-creator) - Webpage to EPUB Converter
 * [ebook-converter-bot](https://t.me/ebook_converter_bot) / [Github](https://github.com/yshalsager/ebook-converter-bot) - Telegram Ebook Converter

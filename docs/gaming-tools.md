@@ -181,7 +181,7 @@
 * ⭐ **[Nexus Mods](https://www.nexusmods.com/)** - Game Mods / [Bulk Downloader](https://greasyfork.org/en/scripts/483337) / [Redirect Skip](https://greasyfork.org/en/scripts/394039) / [Discord](https://discord.com/invite/nexusmods)
 * ⭐ **[ModdingLinked](https://moddinglinked.com/)** - Bethesda Game Modding Guides / [Discord](https://discord.com/invite/S99Ary5eba)
 * [ModOrganizer](https://github.com/ModOrganizer2/modorganizer) or [WeMod](https://rentry.co/fmhybase64#wemod) - Mod Managers
-* [Otis_Inf Camera Mods](https://kemono.su/patreon/user/37343853) or [CinematicTools Archive](https://rentry.co/FMHYBase64#cam-mods) - Game Camera Mods
+* [Otis_Inf Camera Mods](https://kemono.su/patreon/user/37343853) or [CinematicTools Archive](https://rentry.co/FMHYBase64#cinematictools-archive) - Game Camera Mods
 * [mod.io](https://www.mod.io/) - Cross Platform Game Mods Support / [Discord](https://discord.com/invite/modio)
 * [WabbaJack](https://www.wabbajack.org/) / [Discord](https://discord.com/invite/wabbajack) - Automated Modlist Installer
 * [NextGenUpdate](https://www.nextgenupdate.com/) - Game Mods
@@ -332,7 +332,7 @@
 ## ▷ Multiplayer Mods
 
 * 🌐 **[Multiplayer Mods](https://docs.google.com/spreadsheets/d/e/2PACX-1vSV41AswEt3EpzSyd85YRVtoJaIIXWjtBy347dISJg4fs6xSNPqcgfsh76TxX_l-mnT7pjMlSqTW-87/pubhtml)** or [Unmoddable](https://unmoddable.com/) - Multiplayer Mods for Single-Player Games
-* [AlterWare](https://alterware.dev/) - COD Multiplayer Projects / [Discord](https://discord.gg/2ETE8engZM)
+* [AlterWare](https://alterware.dev/) - COD Multiplayer Projects / [Discord](https://discord.gg/2ETE8engZM) / [GitHub](https://github.com/mxve/alterware-launcher)
 * [Plutonium](https://plutonium.pw/) - COD Multiplayer Projects / [Setup Guide](https://guides.viren070.me/plutonium) / [Video Guide](https://youtu.be/8F7hv98t8ck) / [Offline Launcher](https://github.com/JugAndDoubleTap/LanLauncher) / [Discord](https://discord.gg/d95y8ah)
 * [MRON Warzone](https://www.mronwarzone.ru/) - MW2019 Multiplayer Client / [Guide](https://youtu.be/mDAVpNILA7s) / [Discord](https://discord.gg/dxy6kVdf)
 * [Feitan H2M Service](https://discord.gg/wRqJq8uk), [H2M Backup](https://discord.gg/JxYz9kSyRs ), [Justeeno H2M](https://discord.gg/kz5AMmeDnB) or [HorizonMW](https://discord.gg/t3Xezdwy) - Modern Warfare Remastered Multiplayer Client / [Guide](https://rentry.org/hz2uthaa) / [Video Guide](https://youtu.be/Sbgom13CJbk), [2](https://youtu.be/uTY_mdciMCg) / [Servers / Info](https://master.iw4.zip/) / [Tools](https://github.com/z6m/h2m-tool)
@@ -451,7 +451,7 @@
 
 ## ▷ Playstation Homebrew
 
-* ⭐ **[PS4 Modding](https://youtu.be/vGhSgogxaG8)**, [PSX Hax](https://www.psxhax.com/), [PSDevWiki](https://www.psdevwiki.com/) or [Wololo](https://wololo.net/) - Playstation Modding Guides
+* ⭐ **[PS4 Modding](https://youtu.be/c99oey4lz9Q)**, [PSX Hax](https://www.psxhax.com/), [PSDevWiki](https://www.psdevwiki.com/) or [Wololo](https://wololo.net/) - Playstation Modding Guides
 * [Chiaki](https://git.sr.ht/~thestr4ng3r/chiaki) - PS4 / PS5 Remote Play Client
 * [/r/PS5Homebrew](https://www.reddit.com/r/ps5homebrew/) - PS5 Homebrew Subreddit
 * [/r/PS4Homebrew](https://www.reddit.com/r/ps4homebrew/) - PS4 Homebrew Subreddit
@@ -548,7 +548,7 @@
 * ↪️ **[Optimization Mods](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_optimization_mods)**
 * ⭐ **[MCModdingGuide](https://rentry.org/MCModdingGuide)** - Minecraft Modding Guide
 * [Builders Refuge](https://modrinth.com/modpack/builders-refuge) - Building Modpack
-* [WorldEdit](https://enginehub.org/worldedit), [Axiom](https://modrinth.com/mod/axiom) - Building Tools
+* [WorldEdit](https://enginehub.org/worldedit) or [Axiom](https://modrinth.com/mod/axiom) - Building Tools
 * Worldedit Tools - [Docs](https://worldedit.enginehub.org/en/latest/) / [CUI](https://modrinth.com/mod/worldedit-cui) / [Discord](https://discord.gg/enginehub) / [GitHub](https://github.com/EngineHub/WorldEdit)
 * [Bobby](https://modrinth.com/mod/bobby) - Uncap Render Distance Slider
 * [Forge](https://files.minecraftforge.net/), [Quilt](https://quiltmc.org/) or [Fabric](https://fabricmc.net/) / [Discord](https://discord.gg/VDGnGsFeuy) - Mod Loaders
@@ -557,7 +557,7 @@
 * [r/feedthebeast](https://reddit.com/r/feedthebeast/) - MC Modding Community
 * [Fabric-Bedrock-Miner](https://github.com/LXYan2333/Fabric-Bedrock-Miner) - Automatic Bedrock Miner Mod
 * [No Telemetry](https://modrinth.com/mod/no-telemetry) - Disable Telemetry Data
-* [ReplayMod](https://replaymod.com/), [FlashBack](https://modrinth.com/mod/flashback) - Record Game Sessions
+* [ReplayMod](https://replaymod.com/) or [FlashBack](https://modrinth.com/mod/flashback) - Record Game Sessions
 * [Terralith](https://modrinth.com/mod/terralith) or [Biomes O' Plenty](https://modrinth.com/mod/biomes-o-plenty) - Extra Biomes Mod
 * [Outvoted](https://modrinth.com/mod/outvoted) - Outvoted Minecraft Live Mobs
 * [Tectonic](https://modrinth.com/datapack/tectonic) - Improved Biomes Mod & Data Pack
@@ -801,6 +801,7 @@
 * [RBXServers](https://rbxservers.xyz/) or [Freevipservers](https://freevipservers.net/) - Roblox VIP Servers
 * [Roblox Web APIs](https://github.com/matthewdean/roblox-web-apis) - Roblox APIs
 * [ingame.clothing](https://ingame.clothing/) - Preview Avatar Clothing
+* [FastFlags Collection](https://github.com/GoingCrazyDude/fastflags-collection/) - Roblox FastFlags Collection
 
 ***
 

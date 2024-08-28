@@ -20,11 +20,11 @@
 * ⭐ **[Disblock Origin](https://codeberg.org/AllPurposeMat/Disblock-Origin)** or [Discord Adblock](https://github.com/CroissantDuNord/discord-adblock) - Hide Discord Nitro / Boost Ads
 * ⭐ **[BehindTheOverlay](https://github.com/NicolaeNMV/BehindTheOverlay)** - Hide Website Overlays
 * ⭐ **[OpenVideo](https://openvideofs.github.io)** or [Stream-Bypass](https://github.com/ByteDream/stream-bypass) - Play Videos in Ad-Free Player
-* [uBO Lite](https://github.com/uBlockOrigin/uBOL-home) - MV3 Compatible AdBlocker for Chromium-based browsers / [Note](https://rentry.org/nzvohpzf)
+* [uBO Lite](https://github.com/uBlockOrigin/uBOL-home) - MV3 Compatible AdBlocker for Chromium-Based Browsers
 * [Ad Blitz](https://ad-blitz.vercel.app/) - Speed Up YouTube Ads instead of Skipping to Support Creators
 * [Popupblocker All](https://addons.mozilla.org/en-US/firefox/addon/popupblockerall/), [PopUpOFF](https://romanisthere.github.io/PopUpOFF-Website/index.html) or [PopupBlocker](https://github.com/AdguardTeam/PopupBlocker) - Popup / New Tab Blockers
 * [Adguard](https://github.com/AdguardTeam/AdguardBrowserExtension#installation) - Adblocker
-* [Test Ad Block](https://d3ward.github.io/toolz/adblock.html) or [Adblock Tester](https://adblock-tester.com/) - Adblocking Tests
+* [Test Ad Block](https://d3ward.github.io/toolz/adblock.html) - Adblocking Tests
 * [12ft.io](https://12ft.io/) - Share Ad-Free URLs
 
 ***
