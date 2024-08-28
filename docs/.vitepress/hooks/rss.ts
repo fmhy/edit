@@ -13,15 +13,13 @@
  *  See the License for the specific language governing permissions and
  *  limitations under the License.
  */
-import path from 'node:path'
+
+import type { ContentData, SiteConfig } from 'vitepress'
 import { writeFileSync } from 'node:fs'
-import { Feed } from 'feed'
-import {
-  createContentLoader,
-  type ContentData,
-  type SiteConfig
-} from 'vitepress'
+import path from 'node:path'
 import consola from 'consola'
+import { Feed } from 'feed'
+import { createContentLoader } from 'vitepress'
 import { meta } from '../constants'
 
 export async function generateFeed(config: SiteConfig): Promise {

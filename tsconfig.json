@@ -21,6 +21,6 @@
     "**/.vitepress/**/*.ts",
     "**/.vitepress/**/*.mts",
     "**/.vitepress/**/*.vue",
-    "./docs/.vitepress/imports.d.ts"
+    "./.cache/imports.d.ts"
   ]
 }

@@ -13,10 +13,11 @@
  *  See the License for the specific language governing permissions and
  *  limitations under the License.
  */
+
+import type { SatoriOptions } from 'x-satori/vue'
 import { readFile } from 'node:fs/promises'
 import { dirname, resolve } from 'node:path'
 import { fileURLToPath } from 'node:url'
-import type { SatoriOptions } from 'x-satori/vue'
 import { defineSatoriConfig } from 'x-satori/vue'
 
 const __dirname = dirname(fileURLToPath(import.meta.url))

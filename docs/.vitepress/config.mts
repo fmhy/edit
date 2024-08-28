@@ -1,5 +1,6 @@
 import consola from 'consola'
 import UnoCSS from 'unocss/vite'
+import AutoImport from 'unplugin-auto-import/vite'
 import { defineConfig } from 'vitepress'
 import {
   commitRef,
@@ -11,10 +12,9 @@ import {
 } from './constants'
 import { generateFeed, generateImages, generateMeta } from './hooks'
 import { defs, emojiRender, movePlugin } from './markdown/emoji'
-import { toggleStarredPlugin } from './markdown/toggleStarred'
 import { headersPlugin } from './markdown/headers'
+import { toggleStarredPlugin } from './markdown/toggleStarred'
 import { transforms } from './transformer'
-import AutoImport from 'unplugin-auto-import/vite'
 
 // @unocss-include
 
@@ -59,12 +59,12 @@ export default defineConfig({
         configFile: '../unocss.config.ts'
       }),
       AutoImport({
-        dts: './.vitepress/imports.d.ts',
+        dts: '../.cache/imports.d.ts',
         imports: ['vue', 'vitepress'],
         vueTemplate: true,
         biomelintrc: {
           enabled: true,
-          filepath: './docs/.vitepress/.imports.json'
+          filepath: './.cache/imports.json'
         }
       }),
       transforms(),

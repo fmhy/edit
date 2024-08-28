@@ -1,3 +1,7 @@
+import type { ContentData } from 'vitepress'
+import { createContentLoader } from 'vitepress'
+import { groupBy } from '../utils'
+
 /**
  *  Copyright (c) taskylizard. All rights reserved.
  *
@@ -13,8 +17,6 @@
  *  See the License for the specific language governing permissions and
  *  limitations under the License.
  */
-import { createContentLoader, type ContentData } from 'vitepress'
-import { groupBy } from '../utils'
 
 interface Post {
   title: string

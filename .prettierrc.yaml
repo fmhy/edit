@@ -7,3 +7,17 @@ htmlWhitespaceSensitivity: ignore
 plugins:
   - prettier-plugin-tailwindcss
   - prettier-plugin-pkgsort
+  - '@ianvs/prettier-plugin-sort-imports'
+
+importOrder:
+  [
+    '',
+    '<TYPES>^(node:)',
+    '<TYPES>',
+    '<TYPES>^[.]',
+    '<BUILTIN_MODULES>',
+    '<THIRD_PARTY_MODULES>',
+    '^[.]',
+    '^(?!.*[.]css$)[./].*$',
+    '.css$'
+  ]

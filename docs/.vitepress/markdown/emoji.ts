@@ -13,8 +13,9 @@
  *  See the License for the specific language governing permissions and
  *  limitations under the License.
  */
-import { icons as twemoji } from '@iconify-json/twemoji'
+
 import type { MarkdownRenderer } from 'vitepress'
+import { icons as twemoji } from '@iconify-json/twemoji'
 
 export const defs = {
   ...Object.fromEntries(

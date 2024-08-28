@@ -1,3 +1,7 @@
+import type { NProgress } from 'nprogress'
+import type { EnhanceAppContext } from 'vitepress'
+import nprogress from 'nprogress'
+
 /**
  *  Copyright (c) taskylizard. All rights reserved.
  *
@@ -13,8 +17,6 @@
  *  See the License for the specific language governing permissions and
  *  limitations under the License.
  */
-import nprogress, { type NProgress } from 'nprogress'
-import type { EnhanceAppContext } from 'vitepress'
 
 export function loadProgress(
   router: EnhanceAppContext['router']

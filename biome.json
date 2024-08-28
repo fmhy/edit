@@ -1,11 +1,11 @@
 {
   "$schema": "https://biomejs.dev/schemas/1.8.3/schema.json",
-  "extends": ["@taskylizard/biome-config", "./docs/.vitepress/.imports.json"],
+  "extends": ["@taskylizard/biome-config", "./.cache/imports.json"],
   "files": {
     "ignore": [
       "docs/.vitepress/**/*.vue",
       "docs/.vitepress/vue-shim.d.ts",
-      "docs/.vitepress/imports.d.ts"
+      ".cache/imports.d.ts"
     ]
   },
   "formatter": {

@@ -13,13 +13,16 @@
  *  See the License for the specific language governing permissions and
  *  limitations under the License.
  */
+
 import type { Theme } from 'vitepress'
 import DefaultTheme from 'vitepress/theme'
+import { loadProgress } from './composables/nprogress'
 import Layout from './Layout.vue'
 import Post from './PostLayout.vue'
-import { loadProgress } from './composables/nprogress'
+
 import './style.css'
 import 'uno.css'
+
 import Feedback from './components/Feedback.vue'
 
 export default {

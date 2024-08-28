@@ -13,14 +13,16 @@
  *  See the License for the specific language governing permissions and
  *  limitations under the License.
  */
+
+import type { ContentData, SiteConfig } from 'vitepress'
+import type { SatoriOptions } from 'x-satori/vue'
 import { mkdir, readFile, writeFile } from 'node:fs/promises'
 import { dirname, resolve } from 'node:path'
 import { fileURLToPath } from 'node:url'
-import { createContentLoader } from 'vitepress'
-import type { ContentData, SiteConfig } from 'vitepress'
-import { type SatoriOptions, satoriVue } from 'x-satori/vue'
 import { renderAsync } from '@resvg/resvg-js'
 import consola from 'consola'
+import { createContentLoader } from 'vitepress'
+import { satoriVue } from 'x-satori/vue'
 import { headers } from '../transformer/constants'
 
 const __dirname = dirname(fileURLToPath(import.meta.url))
@@ -86,14 +88,14 @@ async function generateImage({
   const _page = getPage(url)
   const title =
     frontmatter.layout === 'home'
-      ? frontmatter.hero.name ?? frontmatter.title
+      ? (frontmatter.hero.name ?? frontmatter.title)
       : frontmatter.title
         ? frontmatter.title
         : _page?.title
 
   const description =
     frontmatter.layout === 'home'
-      ? frontmatter.hero.tagline ?? frontmatter.description
+      ? (frontmatter.hero.tagline ?? frontmatter.description)
       : frontmatter.description
         ? frontmatter.description
         : _page?.description

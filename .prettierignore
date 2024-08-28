@@ -1,2 +1,4 @@
 **/*.md
 pnpm-lock.yaml
+.turbo
+.cache
