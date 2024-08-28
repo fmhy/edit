@@ -7,6 +7,7 @@
   },
   "scripts": {
     "api:build": "nitropack build",
+    "api:deploy": "wrangler deploy",
     "api:dev": "nitropack dev",
     "api:prepare": "nitropack prepare",
     "api:preview": "node .output/server/index.mjs",
