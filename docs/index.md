@@ -8,8 +8,8 @@ hero:
   text: freemediaheckyeah
   tagline: The largest collection of free stuff on the internet!
   prelink:
-    title: August Updates ✨
-    link: /posts/aug-2024
+    title: Goodbye Fmovies, and thank you 🤍
+    link: /posts/Goodbye-Fmovies
   image:
     src: /test.png
     alt: FMHY Icon
