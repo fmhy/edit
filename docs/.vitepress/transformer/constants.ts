@@ -132,7 +132,13 @@ export const headers: Header = {
   }
 } as const
 
-export const excluded = ['readme.md', 'single-page', 'feedback.md', 'index.md']
+export const excluded = [
+  'readme.md',
+  'single-page',
+  'feedback.md',
+  'index.md',
+  'sandbox.md'
+]
 
 export function getHeader(id: string) {
   const title =

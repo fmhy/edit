@@ -20,7 +20,7 @@ import { loadProgress } from './composables/nprogress'
 import Layout from './Layout.vue'
 import Post from './PostLayout.vue'
 
-import './style.css'
+import './style.scss'
 import 'uno.css'
 
 import Feedback from './components/Feedback.vue'

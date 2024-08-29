@@ -24,19 +24,22 @@
   --vp-c-bg-mark: rgb(232, 232, 232);
 
   /* Colors: Custom Block */
+  /** Info */
   --vp-custom-block-info-bg: theme('colors.swarm.100');
   --vp-custom-block-info-border: theme('colors.swarm.800');
   --vp-custom-block-info-text: theme('colors.swarm.800');
   --vp-custom-block-info-text-deep: theme('colors.swarm.900');
+  /** Tip */
   --vp-custom-block-tip-bg: theme('colors.meadow.100');
   --vp-custom-block-tip-border: theme('colors.meadow.800');
   --vp-custom-block-tip-text: theme('colors.meadow.800');
   --vp-custom-block-tip-text-deep: theme('colors.meadow.900');
-  --vp-custom-block-warning-bg: rgba(253, 224, 71, 0.1);
-  --vp-custom-block-warning-border: rgba(202, 138, 4, 1);
-  --vp-custom-block-warning-text: rgba(234, 179, 8, 1);
-  --vp-custom-block-warning-text-deep: rgba(250, 204, 21, 1);
-  --vp-custom-block-danger-bg: theme('colors.carnation.100');
+  /** Warning */
+  --vp-custom-block-warning-bg: theme('colors.merlin.100'),
+    --vp-custom-block-warning-border: theme('colors.merlin.800'),
+    --vp-custom-block-warning-text: theme('colors.merlin.800'),
+    --vp-custom-block-warning-text-deep: theme('colors.merlin.900'),
+    /** Danger */ --vp-custom-block-danger-bg: theme('colors.carnation.100');
   --vp-custom-block-danger-border: theme('colors.carnation.800');
   --vp-custom-block-danger-text: theme('colors.carnation.800');
   --vp-custom-block-danger-text-deep: theme('colors.carnation.900');
@@ -55,22 +58,26 @@
   --vp-c-bg-elv: rgba(23, 23, 23, 0.8);
 
   /* Colors: Custom Block */
+  /** Info */
   --vp-custom-block-info-bg: theme('colors.swarm.950');
-  --vp-custom-block-info-border: theme('colors.swarm.600');
-  --vp-custom-block-info-text: theme('colors.swarm.500');
-  --vp-custom-block-info-text-deep: theme('colors.swarm.600');
+  --vp-custom-block-info-border: theme('colors.swarm.800');
+  --vp-custom-block-info-text: theme('colors.swarm.200');
+  --vp-custom-block-info-text-deep: theme('colors.swarm.200');
+  /** Tip */
   --vp-custom-block-tip-bg: theme('colors.meadow.950');
-  --vp-custom-block-tip-border: theme('colors.meadow.600');
-  --vp-custom-block-tip-text: theme('colors.meadow.500');
-  --vp-custom-block-tip-text-deep: theme('colors.meadow.600');
-  --vp-custom-block-warning-bg: rgba(253, 224, 71, 0.1);
-  --vp-custom-block-warning-border: rgba(202, 138, 4, 1);
-  --vp-custom-block-warning-text: rgba(234, 179, 8, 1);
-  --vp-custom-block-warning-text-deep: rgba(250, 204, 21, 1);
+  --vp-custom-block-tip-border: theme('colors.meadow.800');
+  --vp-custom-block-tip-text: theme('colors.meadow.200');
+  --vp-custom-block-tip-text-deep: theme('colors.meadow.200');
+  /** Warning */
+  --vp-custom-block-warning-bg: theme('colors.merlin.950');
+  --vp-custom-block-warning-border: theme('colors.merlin.800');
+  --vp-custom-block-warning-text: theme('colors.merlin.200');
+  --vp-custom-block-warning-text-deep: theme('colors.merlin.200');
+  /** Danger */
   --vp-custom-block-danger-bg: theme('colors.carnation.950');
-  --vp-custom-block-danger-border: theme('colors.carnation.600');
-  --vp-custom-block-danger-text: theme('colors.carnation.400');
-  --vp-custom-block-danger-text-deep: theme('colors.carnation.500');
+  --vp-custom-block-danger-border: theme('colors.carnation.800');
+  --vp-custom-block-danger-text: theme('colors.carnation.200');
+  --vp-custom-block-danger-text-deep: theme('colors.carnation.200');
 }
 
 .vp-doc a {
@@ -81,12 +88,12 @@
   text-decoration-color: transparent;
   -webkit-text-decoration-color: transparent;
   transition: text-decoration-color 0.25s;
-}
 
-.vp-doc a:hover {
-  color: var(--vp-c-brand-1);
-  text-decoration-color: var(--vp-c-brand-1);
-  -webkit-text-decoration-color: var(--vp-c-brand-1);
+  &:hover {
+    color: var(--vp-c-brand-1);
+    text-decoration-color: var(--vp-c-brand-1);
+    -webkit-text-decoration-color: var(--vp-c-brand-1);
+  }
 }
 
 .vp-doc .custom-block a {
@@ -97,10 +104,10 @@
 
 ::selection {
   background-color: #5586a6;
-}
 
-.dark ::selection {
-  background-color: #0f2c47;
+  .dark & {
+    background-color: #0f2c47;
+  }
 }
 
 .VPFooter a {
@@ -108,13 +115,13 @@
   text-decoration-style: dashed;
   text-underline-offset: 5px;
   transition: 0.3s;
-}
 
-.VPFooter a:hover {
-  color: var(--vp-c-text-1);
-  text-decoration-line: underline;
-  text-decoration-style: dashed;
-  text-underline-offset: 5px;
+  &:hover {
+    color: var(--vp-c-text-1);
+    text-decoration-line: underline;
+    text-decoration-style: dashed;
+    text-underline-offset: 5px;
+  }
 }
 
 /* Custom scrollbar */
@@ -165,57 +172,56 @@
 /* Make clicks pass-through */
 #nprogress {
   pointer-events: none;
+
+  & .bar {
+    background: var(--vp-c-brand-1);
+    position: fixed;
+    z-index: 1031;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 2px;
+  }
+
+  /* Fancy blur effect */
+  & .peg {
+    display: block;
+    position: absolute;
+    right: 0px;
+    width: 100px;
+    height: 100%;
+    box-shadow:
+      0 0 10px var(--vp-c-brand-1),
+      0 0 5px var(--vp-c-brand-1);
+    opacity: 1;
+
+    -webkit-transform: rotate(3deg) translate(0px, -4px);
+    -ms-transform: rotate(3deg) translate(0px, -4px);
+    transform: rotate(3deg) translate(0px, -4px);
+  }
+
+  & .spinner {
+    display: block;
+    position: fixed;
+    z-index: 1031;
+    top: 15px;
+    right: 15px;
+  }
+
+  & .spinner-icon {
+    width: 18px;
+    height: 18px;
+    box-sizing: border-box;
+
+    border: solid 2px transparent;
+    border-top-color: var(--vp-c-brand);
+    border-left-color: var(--vp-c-brand);
+    border-radius: 50%;
+
+    -webkit-animation: nprogress-spinner 400ms linear infinite;
+    animation: nprogress-spinner 400ms linear infinite;
+  }
 }
-
-#nprogress .bar {
-  background: var(--vp-c-brand-1);
-  position: fixed;
-  z-index: 1031;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 2px;
-}
-
-/* Fancy blur effect */
-#nprogress .peg {
-  display: block;
-  position: absolute;
-  right: 0px;
-  width: 100px;
-  height: 100%;
-  box-shadow:
-    0 0 10px var(--vp-c-brand-1),
-    0 0 5px var(--vp-c-brand-1);
-  opacity: 1;
-
-  -webkit-transform: rotate(3deg) translate(0px, -4px);
-  -ms-transform: rotate(3deg) translate(0px, -4px);
-  transform: rotate(3deg) translate(0px, -4px);
-}
-
-#nprogress .spinner {
-  display: block;
-  position: fixed;
-  z-index: 1031;
-  top: 15px;
-  right: 15px;
-}
-
-#nprogress .spinner-icon {
-  width: 18px;
-  height: 18px;
-  box-sizing: border-box;
-
-  border: solid 2px transparent;
-  border-top-color: var(--vp-c-brand);
-  border-left-color: var(--vp-c-brand);
-  border-radius: 50%;
-
-  -webkit-animation: nprogress-spinner 400ms linear infinite;
-  animation: nprogress-spinner 400ms linear infinite;
-}
-
 .nprogress-custom-parent {
   overflow: hidden;
   position: relative;
