@@ -107,7 +107,6 @@
 * [Vapor Archive](https://vaporarchive.neocities.org/) - Vaporwave
 * [Keygen Music](https://keygenmusic.tk/) - Keygen Music
 * [hypem](https://hypem.com/popular) - Rising
-* [datpiff](https://www.datpiff.com/) - Mixtapes
 * [The Urban Emporium](https://www.youtube.com/@theurbanemporium204/playlists) - Hip Hop
 * [CitizenFreak](https://citizenfreak.com/) - Canadian Music
 * [Dream of the 90s](https://www.youtube.com/@Dreamofthe90s/playlists) - Obscure 90s
@@ -122,7 +121,6 @@
 * [Map of Metal](https://mapofmetal.com/) - Interactive Map of Metal History
 * [LostMyspace](http://lostmyspace.com/) - Lost Myspace Songs
 * [Mideastunes](https://mideastunes.com/) - Underground Music
-* [/r/PluggnB](https://www.reddit.com/r/PluggnB/) - User-Made PluggnB Songs
 * [Musico](https://www.musi-co.com/listen/) - AI Generated Songs
 * [BitMidi](https://bitmidi.com/) - Stream / Download MIDI Files
 * [Tasso Music](https://www.tassomusic.org/) - Early Modern Music

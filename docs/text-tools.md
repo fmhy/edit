@@ -69,7 +69,7 @@
 
 ## ▷ Translators
 
-* **Note** - Chatbots like ChatGPT and Claude can also translate text, and are sometimes better the the ones listed below.
+* **Note** - Chatbots like ChatGPT and Claude can also translate text, and are sometimes better than the ones listed below.
 
 ***
 
@@ -207,6 +207,7 @@
 * [Typing Club](https://www.typingclub.com/) - Touch Typing Lessons
 * [typing.academy](https://www.typing.academy/) - Typing Lessons / Requires Javascript Enabled
 * [Typings](https://typings.gg/) - Typing Tests
+* [typing.works](https://typing.works/) - Typing Tests
 * [TypeRacer](https://play.typeracer.com/), [ZType](https://zty.pe/), [TypeRush](https://www.typerush.com/) or [ARRRType](https://www.arrrtype.com/) - Typing Games
 * [NGram Type](https://ranelpadon.github.io/ngram-type/), [Keyzen3](https://adamgradzki.com/keyzen3/) or [Keyzen Colmak](https://ranelpadon.github.io/keyzen-colemak-dh/) - Touch Typing Tests
 * [TypeLit.io](https://www.typelit.io/) or [Entertrained](https://entertrained.app/) - Book Typing Tests
