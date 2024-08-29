@@ -152,14 +152,13 @@
 ***
 
 ## ▷ Text Rephrasing
+
 * ⭐ **[QuillBot AI](https://quillbot.com/)** - AI-Enhanced Text Rephrasing
-* ⭐ **[Paraphrasetool](https://paraphrasetool.com/)** or **[Rephrasely](https://rephrasely.com/)** - AI Text Rephrasing And Generation
-* ⭐ **[Goblin.tools](https://goblin.tools/)** - Transform Text With Spiciness Levels
-* **[Paraphraser](https://www.paraphraser.io/)**- Effortless, Accurate, Multilingual Text Rephrasing
-* **[Recast](https://www.letsrecast.ai/)** or **[SMMRY](https://smmry.com/)** - Text Summaries For Lengthy Texts
-* **[Paraphrase-Online](https://paraphrase-online.com/)**, **[Paraphrasingtool](https://paraphrasingtool.ai/)**, **[Henshu](https://www.henshu.ai/)** or **[WriteFull](https://www.writefull.com/)** - Versatile Text Rewriting
-
-
+* ⭐ **[Paraphrasetool](https://paraphrasetool.com/)** or [Rephrasely](https://rephrasely.com/) - AI Text Rephrasing /Generation
+* ⭐ **[Goblin.tools](https://goblin.tools/)** - Transform Text w/ Spiciness Levels
+* [Paraphraser](https://www.paraphraser.io/) - Multilingual Text Rephrasing
+* [Recast](https://www.letsrecast.ai/) or [SMMRY](https://smmry.com/) - Text Summaries
+* [Paraphrase-Online](https://paraphrase-online.com/), [Paraphrasingtool](https://paraphrasingtool.ai/), [Henshu](https://www.henshu.ai/) or [WriteFull](https://www.writefull.com/) - Versatile Text Rewriting
 
 ***
 
