@@ -13,6 +13,8 @@ footer: true
 
 ACE [confirmed today](https://torrentfreak.com/fmovies-piracy-ring-was-shut-down-by-vietnam-assisted-by-ace-240829/) that they were responsible for getting FMovies, Aniwave, and Vidsrc.to all shut down.
 
+***
+
 First I just want to wish everyone involved in these projects the best. I don't know what anyone's exact situation is, but if there is any way we can use FMHY to help support those involved I'd be more than willing to do so.
 
 Fmovies and Aniwave made the world a better place. They archived a huge amount of content, both popular, and obscure, made the lives of many people more comfortable, and those behind these sites should feel very proud of what they were able to accomplish. Sharing in this way is exactly what computers were meant to do, its exactly what *humans* are meant to do, and I am beyond grateful to those who risked their livelihoods to do what is right for so long.
