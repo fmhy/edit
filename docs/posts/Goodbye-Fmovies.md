@@ -21,7 +21,7 @@ Fmovies and Aniwave made the world a better place. They archived a huge amount o
 
 Sadly, with the shutdown of these sites, humanity has lost a huge amount of content in favor of protecting some of the worlds richest companies. ACE has not only decreased the amount of happiness in the world, but they may have ripped a lot of obscure content from existence with no thought whatsoever. I know things seem bad now, but I promise you this isn't the end of the story. 
 
-A long time ago I said that sharing is, always has been, and always will be the right thing to do, and I stand by it 100%. I speak not only for myself, but on behalf of many other pirates when I say sharing is the hill we are willing to die to protect. It may be the end of Fmovies and Aniwave, but it isn't the end of sharing, not even close.
+A long time ago I said that sharing is, always has been, and always will be the right thing to do, and I stand by it 100%. I speak not only for myself, but on behalf of many other pirates when I say sharing is the hill we are willing to die on to protect. It may be the end of Fmovies and Aniwave, but it isn't the end of sharing, not even close.
 
 ***
 
