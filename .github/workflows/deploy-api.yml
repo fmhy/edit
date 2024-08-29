@@ -1,13 +1,19 @@
 name: Deploy API
 
+# Only run this workflow when the API directory changes
 on:
+  push:
+    paths:
+      - 'api/**'
+    branches:
+      - main
   workflow_dispatch:
 
 concurrency: ${{ github.workflow }}-${{ github.ref }}
 
 jobs:
   ci:
-    name: Release
+    name: Build and Deploy
     runs-on: ubuntu-latest
     strategy:
       matrix:
