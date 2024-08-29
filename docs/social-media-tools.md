@@ -217,15 +217,15 @@
 ## ▷ Reddit Alternatives
 
 * ↪️ **[Lemmy Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/social-media#wiki_.25B7_lemmy_tools)**
-* ⭐ **[Raddle](https://raddle.me/)** / [.onion](http://c32zjeghcp5tj3kb72pltz56piei66drc63vkhn5yixiyk4cmerrjtid.onion/) - Minimalist, privacy-focused Reddit Alternative
-* ⭐ **[Saidit](https://saidit.net/)** - Free-speech Reddit Alternative with dual upvote system.
+* ⭐ **[Raddle](https://raddle.me/)** / [.onion](http://c32zjeghcp5tj3kb72pltz56piei66drc63vkhn5yixiyk4cmerrjtid.onion/) - Minimalist / Privacy-Focused
+* ⭐ **[Saidit](https://saidit.net/)** - Free-Speech / Dual Upvote System
 * [/r/RedditAlternatives](https://reddit.com/r/RedditAlternatives) - Find Reddit Alternatives
 * [sub.rehab](https://sub.rehab/) - Reddit Communities on Alternative Platforms
-* [tildes](https://tildes.net/) - Non-profit, user-driven discussion platform.
-* [Scored](https://communities.win/) - User-driven Reddit Alternative
-* [Ramble](https://ramble.pw/) - Privacy-first Reddit Alt 
-* [Squabblr](https://squabblr.co/) - Follow, discuss: Twitter meets Reddit.
-* [Discuit](https://discuit.net/) - Centralized Reddit alternative with user control
+* [tildes](https://tildes.net/) - Non-profit / User-Driven Discussion
+* [Scored](https://communities.win/) - User-Driven Discussion
+* [Ramble](https://ramble.pw/) - Privacy-Focused
+* [Squabblr](https://squabblr.co/) - Twitter / Reddit Style Alt
+* [Discuit](https://discuit.net/) - Centralized Reddit Alt w/ User Control
 
 ***
 
