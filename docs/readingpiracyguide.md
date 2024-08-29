@@ -67,9 +67,10 @@
 * ⭐ **[Anna’s Archive](https://annas-archive.org/)**, [2](https://annas-archive.se/), [3](https://annas-archive.li/), [4](https://annas-archive.gs/) - Books / Comics / Educational / [Expand Downloads](https://greasyfork.org/en/scripts/494262)
 * ⭐ **[Library Genesis](https://libgen.is)** - Books / Comics / Manga / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_libgen_tools) / [Mirrors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_libgen__mirrors)
 * ⭐ **[Z-Library](https://singlelogin.re/)**, [2](https://singlelogin.rs/) - Books / Comics / Educational / [Desktop / Extensions](https://zlibrary-qq.re/), [2](https://go-to-library.sk/) / [.onion](http://loginzlib2vrak5zzpcocc3ouizykn6k5qecgj2tzlnab5wcbqhembyd.onion/) / [Subreddit](https://www.reddit.com/r/zlibrary/) / [Telegram](https://t.me/zlibrary_official)
-* ⭐ **[Liber3](https://liber3.eth.limo/)** - Books / [Telegram](https://t.me/liber3eth)
 * ⭐ **[Mobilism](https://forum.mobilism.org)** - Books / Audiobooks / Magazines / Newspapers / Comics / [User Ranks](https://rentry.co/mobilismranks), [2](https://pastebin.com/pZuuMxYm)
+* ⭐ **[Bookracy](https://bookracy.ru/)**, [2](https://bookracy.org/), [3](https://lite.bookracy.org/) - Books / [Subreddit](https://reddit.com/r/bookracy) / [Discord](https://discord.com/invite/bookracy)
 * ⭐ **[Archive.org](https://archive.org/details/texts)** - Books / Audiobooks / Magazines / Newspapers / [Downloader](https://rentry.org/arch1ve), [2](https://bookripper.neocities.org/), [3](https://redd.it/fm1xpw) / [Extension](https://github.com/elementdavv/internet_archive_downloader) / [Script](https://redd.it/ofcqds)
+* ⭐ **[Liber3](https://liber3.eth.limo/)** - Books / [Telegram](https://t.me/liber3eth)
 * ⭐ **[Calibre](https://calibre-ebook.com/)** - Ebook Manager / Downloader / [Libraries / Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/reading#wiki_.25B7_calibre_libraries)
 * ⭐ **[The Library](https://discord.gg/mSyFJz9)** - Book Discord Server
 * ⭐ **[eBookHunter](https://ebook-hunter.org/)** - Books / Comics / Use Adblocker
@@ -79,7 +80,6 @@
 * irc://irc.undernet.org/bookz
 * irc://irc.irchighway.net/ebooks / [Request Guide](https://i.ibb.co/3WcCF56/3574e36b1bb2.png)
 * IRC Book Tools - [Guide](https://www.reddit.com/r/Piracy/comments/2oftbu/guide_the_idiot_proof_guide_to_downloading_ebooks/) / [mIRC](https://redd.it/znprct) / [Downloader](https://evan-buss.github.io/openbooks/)
-* [Bookracy](https://bookracy.ru/), [2](https://bookracy.org/), [3](https://lite.bookracy.org/) - Books / [Subreddit](https://reddit.com/r/bookracy) / [Discord](https://discord.com/invite/bookracy)
 * [BookSee](https://en.booksee.org/), [2](https://bookree.org/) - Books
 * [Bookstagram](https://vk.com/bookstagram_eng) - Books / Magazines
 * [Docutr](https://www.docutr.com/) - Books / Magazines / Newspapers
@@ -625,6 +625,7 @@
 
 ## ▷ History Books
 
+* 🌐 **[/r/AskHistorians Recommended](https://www.reddit.com/r/AskHistorians/wiki/books)** - Recommended History Books 
 * ⭐ **[Media History](https://mediahistoryproject.org/)** - Books / Magazines
 * ⭐ **[EarlyModernTexts](https://www.earlymoderntexts.com)** - Historical Texts
 * ⭐ **[World History](https://www.worldhistory.org/)** or [Livius](https://www.livius.org/) - History Encyclopedias

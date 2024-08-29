@@ -31,7 +31,7 @@
 
 ## ▷ Streaming / البث
 
-* ⭐ **[FaselHD](https://www.faselhd.world/)** - Movies / TV / Anime / Sub / 1080p / Use Adblocker
+* ⭐ **[FaselHD](https://www.faselhd.center/)** - Movies / TV / Anime / Sub / 1080p / Use Adblocker
 * ⭐ **[RunTV](https://runtv.cc/)** - Anime / Sub / 1080p
 * [ArabLionz](https://arlionztv.pro/) - Movies / TV / Sub / 1080p
 * [egydead](https://egydead.space/) - Movies / TV / Anime / Sub / 1080p
@@ -119,7 +119,6 @@
 * 🌐 **[heji](https://233heji.com/)** or [bajins](https://www.bajins.com/) - Chinese Sites / Tools Indexes
 * 🌐 **[Awesome GitHub Repo](https://github.com/Wechat-ggGitHub/Awesome-GitHub-Repo)** - Programming Resources Index
 * [Anti-Ad](https://anti-ad.net/) - Adblock Filters
-* [chat2ai](https://www.chat2ai.cn/) - AI Index
 * [GameLoop](https://syzs.qq.com/) - Android Emulator
 * [Thanox](https://tornaco.github.io/Thanox-Docs/en) - Android System Manager
 * [Winmoes](https://winmoes.com/) - Anime Windows Themes / Wallpapers
@@ -933,6 +932,7 @@
 
 * ⭐ **[OgladajAnime](https://ogladajanime.pl/)** - Anime / Sub / 1080p / [Discord](https://discord.com/invite/XJTq5Ez5Kv)
 * ⭐ **[Grupa Mirai](https://www.grupa-mirai.pl/)** - Anime / Sub / 1080p / [Discord](https://discord.gg/WyXrp6ZK5J)
+* ⭐ **[Strims](https://strims.in/)** - Live Sports
 * [FilmPolski](https://filmpolski.pl/fp/index.php) - Polish Video Archive
 * [Kinomoc](https://kinomoc.com/) - Movies / TV / Dub / 1080p
 * [Virpe](https://virpe.cc/) - Movies / TV
@@ -1596,14 +1596,13 @@
 * [Türkçe Altyazı](https://turkcealtyazi.org/) - Subtitles
 * [Turkish Audio Center](https://www.turkishaudiocenter.com), [Shareses](https://shareses.com), [Türkçe Ses İndir](https://www.turkcesesindir.com/), [Dw Force](http://dwa-audio.blogspot.com/), [Tr Sound Track](https://trsoundtrack.blogspot.com/) - Turkish dubs
 
-
 ## ▷ Streaming / İzleme
 
 * ⭐ [Yabancıdizi](https://yabancidizi.tv) - Movies / TV / Sub / Dub / 1080p
 * ⭐ [Dizipal](https://dizipal810.com/), [2](https://dizipal786.com/) - Movies / TV / Sub / Dub / 1080p
 * ⭐ [Hdfilmcehennemi](https://www.hdfilmcehennemi.com/) - Movies / TV / Sub / Dub / 1080p
 * ⭐ [FullHDFilmizlesene](https://www.fullhdfilmizlesene.com) - Movies / Dub / Sub / 4K / 1080p
-* [İnat TV](https://inattv100.link/) / [Twitter](https://twitter.com/inattvapk) - App / Movies / TV / Sports
+* [İnat TV](https://inattv105.link/) / [Twitter](https://twitter.com/inattvapk) - App / Movies / TV / Sports
 * [Dizibox](https://www.dizibox.com) - TV / Sub / 1080p
 * [Diziwatch](https://diziwatch.net/) - TV / Anime / Sub / 1080p
 * [Diziyou](https://www.diziyou.co/) - TV / Sub / Dub / 1080p

@@ -566,6 +566,8 @@
 * [CESDB](https://www.cesdb.com/) - Civil Engineering Software
 * [How a Car Works](https://www.howacarworks.com/) - Car Mechanics / Automotive Engineering Guides
 * [Robot Shop](https://community.robotshop.com/) - Robotics Forum
+* [VisRo Robotics](https://vis-ro.web.app) - Robotics Learning / [Discord](https://discord.com/invite/TfwZ3hH2D2)
+* [Humanoid Robots Wiki](https://humanoids.wiki/w/Main_Page) - Robotics Courses Index
 * [Diode](https://www.withdiode.com/) - 3D Hardware Simulator
 * [HDLBits](https://hdlbits.01xz.net/) - Learn Circuit Design
 * [BatteryUniversity](https://batteryuniversity.com/articles) - Learn About Batteries

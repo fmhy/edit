@@ -23,7 +23,7 @@
 * ⭐ **[GOG Games](https://gog-games.to/)** - Download / [.onion](http://goggamespyi7b6ybpnpnlwhb4md6owgbijfsuj6z5hesqt3yfyz42rad.onion/)
 * ⭐ **[Ova Games](https://www.ovagames.com/)** - Download / [Bypass All Shortlinks Required](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25B7_redirect_bypass)
 * ⭐ **[Online Fix](https://online-fix.me/)** - Download / Torrent / Multiplayer / [Discord](https://discord.gg/yExgFYncMD)
-* ⭐ **[SteamGG](https://steamgg.net/)** - Download / Pre-Installs / [Discord](https://discord.gg/3A9gpx8XeJ) 
+* ⭐ **[SteamGG](https://steamgg.net/)** - Download / Pre-Installs / [Subreddit](https://www.reddit.com/r/OfficialSteamGG/) / [Discord](https://discord.gg/3A9gpx8XeJ) 
 * ⭐ **[Game Bounty](https://gamebounty.world/)** - Download / [Discord](https://dsc.gg/gamebounty)
 * ⭐ **[FreeToGame](https://www.freetogame.com/games)**, [Acid Play](https://acid-play.com/) or [/v/'s Recommended](https://vsrecommendedgames.fandom.com/wiki/Freeware_Games) - F2P Games / [Trackers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25BA_free_stuff)
 * ⭐ **[Game Download CSE](https://cse.google.com/cse?cx=006516753008110874046:cbjowp5sdqg)**, [Game Torrent CSE](https://cse.google.com/cse?cx=006516753008110874046:pobnsujblyx), [Rezi Search](https://rezi.one/), [Rave Search](https://idleendeavor.github.io/gamesearch/) / [2](https://ravegamesearch.pages.dev/) or [/r/PiratedGames CSE](https://cse.google.com/cse?cx=20c2a3e5f702049aa) - Multi-Site Search Engines
@@ -95,7 +95,6 @@
 * [World of Spectrum](https://worldofspectrum.org/) or [SpectrumComputing](https://spectrumcomputing.co.uk/) - Sinclair ZX Spectrum
 * [GamesNostalgia](https://gamesnostalgia.com/), [lemon64](https://www.lemon64.com/) or [C64.com](https://www.c64.com/) - Commodore 64
 * [whdload](https://www.whdload.de/), [lemonamiga](https://www.lemonamiga.com/), [exotica](https://www.exotica.org.uk/) or [hol abime](https://amiga.abime.net/) - Amiga
-* [PC-98 Drive](https://rentry.co/FMHYBase64#pc-98) - PC-98
 * [LegendsWorld](https://www.legendsworld.net/) - Retro PC Adventures
 * [Win7Games](https://win7games.com/) - Classic Windows Games
 
@@ -231,7 +230,6 @@
 * ⭐ **[CDRomance](https://cdromance.org/)** - ROMs / [Discord](https://cdromance.org/discord)
 * ⭐ **[WiiUDownloader](https://github.com/Xpl0itU/WiiUDownloader)**, [WiiUSBHelper](https://github.com/FailedShack/USBHelperInstaller/releases) or [JNUSTool](https://gbatemp.net/threads/jnustool-nusgrabber-and-cdecrypt-combined.413179/) - ROMs / Wii U
 * ⭐ **[Skraper](https://www.skraper.net/)** - ROM Cover / Metadata Scraper
-* [IGIR](https://github.com/emmercm/igir) - ROM Manager / Metadata
 * [ROMhacking](https://www.romhacking.net/) or [Reality Incorporated](https://sites.google.com/view/bonmarioinc/rom-hacks/released-rom-hacks) - ROM Fan Translations
 * [/r/ROMs](https://www.reddit.com/r/ROMs/) - Discussion Sub
 * [Vimms Lair](https://vimm.net/) - Emulators / ROMs

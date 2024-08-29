@@ -104,13 +104,13 @@
 * ⭐ **[ss64](https://ss64.com/)** - Command Line Reference Index
 * [Windows Terminal](https://www.microsoft.com/store/productId/9N0DX20HK701) / [2](https://github.com/microsoft/terminal/), [kitty](https://sw.kovidgoyal.net/kitty/), [Tess](https://github.com/SquitchYT/Tess), [ConEmu](https://github.com/Maximus5/ConEmu), [Hyper](https://hyper.is/), [Tabby](https://tabby.sh/) or [MobaXterm](https://mobaxterm.mobatek.net/) - Windows Terminals
 * [BusyBox](https://frippery.org/busybox/) - Unix Commands for Windows
+* [Nushell](https://www.nushell.sh/) - Alt Shell
 * [Tiny Care Terminal](https://github.com/notwaldorf/tiny-care-terminal) - Terminal Dashboard That Cares
 * [Gradient Terminal](https://github.com/aurora-0025/gradient-terminal) - Display Terminal Output as Gradient
 * [Command Challenge](https://cmdchallenge.com/) - Command Line Learning
-* [Alacritty](https://github.com/alacritty/alacritty), [Fluent Terminal](https://github.com/felixse/FluentTerminal), [Tabby](https://tabby.sh/), [Wives](https://github.com/KRTirtho/wives), or [ExtraTerm](https://extraterm.org/) - Terminal Emulators
+* [Alacritty](https://github.com/alacritty/alacritty), [cmder](https://cmder.app), [Fluent Terminal](https://github.com/felixse/FluentTerminal), [Tabby](https://tabby.sh/), [Wives](https://github.com/KRTirtho/wives), or [ExtraTerm](https://extraterm.org/) - Terminal Emulators
 * [Mintty](https://mintty.github.io/) - Cygwin Terminal Emulator
 * [GetDNote](https://www.getdnote.com/) - Command Line Notebook
-* [cmder](https://cmder.app) - Console Emulator Package / [GitHub](https://github.com/cmderdev/cmder)
 * [PowerShell](https://github.com/powershell/powershell) - PC / Mac / Linux PowerShell
 * [Write-Menu](https://github.com/QuietusPlus/Write-Menu) or [ps-menu](https://github.com/chrisseroka/ps-menu) - PowerShell Console Menu
 * [LeanandMean](https://github.com/AveYo/LeanAndMean) - Powershell Snippets / Use with Caution
@@ -119,7 +119,6 @@
 * [SystemNightware](https://github.com/GossiTheDog/SystemNightmare) - Instant System Command Prompt
 * [Starship](https://starship.rs/) - Cross-Shell Prompt
 * [GNU Parallel](https://www.gnu.org/software/parallel/) - Execute Commands / Scripts in Parallel using Multiple Computers
-* [Nushell](https://www.nushell.sh/) - Alt Shell
 * [GSudo](https://github.com/gerardog/gsudo) - Sudo Alternative for Windows
 
 ***

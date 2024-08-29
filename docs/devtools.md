@@ -419,7 +419,7 @@
 * 🌐 **[Awesome Google Colab](https://github.com/firmai/awesome-google-colab)** - Machine Learning Collabs
 * 🌐 **[Awesome Machine Learning Art](https://github.com/vibertthio/awesome-machine-learning-art)** - Machine Learning Art Resources
 * 🌐 **[Awesome Instruction Dataset](https://github.com/yaodongC/awesome-instruction-dataset)** or [Dataset Card for Alpaca](https://huggingface.co/datasets/tatsu-lab/alpaca) - Language Model Training Datasets
-* ⭐ **[Hugging Face](https://huggingface.co/)** or [OpenML](https://www.openml.org/) - Machine Learning Datasets
+* ⭐ **[Hugging Face](https://huggingface.co/)**, [LLM Papers](https://potent-twister-29f.notion.site/b0fc32542854456cbde923e0adb48845?v=e2d14d2ef0c848f5a1d5b71f9977d7c5) or [OpenML](https://www.openml.org/) - Machine Learning Datasets / Papers
 * ⭐ **[Deep playground](http://playground.tensorflow.org/)** - Neural Networks Playground
 * ⭐ **[LLM Visualization](https://bbycroft.net/llm)** - Learn how LLMs Work
 * [Caffee](https://caffe.berkeleyvision.org/) - Machine Learning Framework / [GitHub](https://github.com/BVLC/caffe)

@@ -76,7 +76,6 @@
 * ⭐ **[PressPlay](https://www.pressplay.top/)** - Movies / TV / 1080p / [Discord](https://discord.gg/r4QrghF4B9)
 * ⭐ **[YesMovies](https://yesmovies.ag/)**, [2](https://ww4.solarmovie.to/), [3](https://ww5.0123movie.net/), [4](https://ww1.putlocker.vip/) - Movies / TV / 1080p
 * ⭐ **[LookMovie](https://lookmovie2.to/)** - Movies / TV / 720p / [Clones](https://proxymirrorlookmovie.github.io/)
-* ⭐ **[SusFlix](https://susflix.tv/)**, [2](https://www.susmovies.lol/), [3](https://sushbo.com/), [4](https://hbosus.com) - Movies / TV / Anime / 4K / 1080p / Ad-Free / Sign-Up Required / [Discord](https://discord.gg/BE7kTVezBN)
 * [Tubi](https://tubitv.com) - Movies / TV / 720p / Use Adblock / [Downloader](https://github.com/warren-bank/node-hls-downloader-tubitv) / US Only
 * [Gir Society](https://discord.gg/WHxeZ3aTtb) - Movies / TV / Anime / 1080p / Plex Required
 * [OnionPlay](https://onionplay.se/) - Movies / TV / 1080p / [Clones](https://onionplay.network/)
@@ -178,6 +177,7 @@
 
 * ⭐ **[WCO](https://www.wco.tv/)**, [2](https://www.wcofun.net/), [3](https://www.wcostream.tv/)
 * [Kimcartoon.si](https://kimcartoon.si/)
+* [KissCartoon](https://kisscartoon.nz/) / [Discord](https://discord.gg/YwpgPrWVSH)
 * [TopCartoons](https://www.topcartoons.tv/)
 * [WatchCartoonsOnline](https://www1.watchcartoononline.bz/)
 * [Supercartoons](https://www.supercartoons.net/)
@@ -401,6 +401,7 @@
 * ⭐ **[Flowstreams](https://flowstreams.pw/)** - Sports / Live Events
 * ⭐ **[SportsHub](https://sportshub.stream/)**, [2](https://reddit10.sportshub.stream/) - Sports
 * ⭐ **[TotalSportek](https://totalsportek.pro/)**, [2](https://www.totalsportek.to/) - Sports
+* ⭐ **[Strims](https://strims.in/)** - Sports
 * ⭐ **[OlympicStreams](https://olympicstreams.co/)** - Sports
 * [Streameast](https://www.streameast.co/v8/) - Sports
 * [Sportsurge.club](https://sportsurge.club/) - Sports
@@ -430,7 +431,6 @@
 * [PlentyPass](http://plentypass.com/) - Sports
 * [p2pstreams](https://p2pstreams.live/) - Sports
 * [StrikeOut](https://strikeout.im/) - Sports
-* [Strims](https://strims.in/) - Sports
 * [uSport](https://usport.pro/) - Sports
 * [HesGoal](https://www.hesgoal.watch/) - Sports
 * [Sport-TV](https://sport-tv.live/) - Sports

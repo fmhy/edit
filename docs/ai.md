@@ -36,9 +36,10 @@
 * ⭐ **[Claude](https://claude.ai/)** - Anthropic's Chatbot / # Required
 * ⭐ **[sdk.vercel](https://sdk.vercel.ai/)** - Multiple Chatbots
 * ⭐ **[groq](https://groq.com/)** - Llama 3 and Mixtral Chatbots
+* ⭐ **[Not Diamond](https://chat.notdiamond.ai/)** - Multiple Chatbots
 * ⭐ **[Tune AI](https://chat.tune.app/)** - Multiple Chatbots / 24 Msgs per Chat / Google Login / [Discord](https://discord.gg/EkH7px4JNW)
 * ⭐ **[Gemini](https://gemini.google.com/)** or [Gemma](https://github.com/google/gemma.cpp), [2](https://ai.google.dev/gemma/) - Google's Chatbot
-* ⭐ **[LMSYS Chat](https://lmarena.ai/)**, [2](https://chat.lmsys.org/) - Chat and Compare Multiple Chatbots
+* ⭐ **[LMSYS Chat](https://lmarena.ai/)** - Chat and Compare Multiple Chatbots
 * [DuckDuckGo AI](https://duck.ai/) - Multiple Chatbots
 * [LLM Playground](https://llmplayground.net/) - Multiple Chatbots / 1000 word limit / [API](https://api.discord.rocks/) / [Discord](https://discord.com/invite/q55gsH8z5F)
 * [OAICHAT](https://chat.oaichat.cc/), [2](https://chat.sorapi.dev/), [3](https://ffa.chat/) - GPT-4o / Multiple Chatbots
@@ -46,7 +47,7 @@
 * [Zhucn](https://zhucn.org/) - GPT-4o Mirror Pool
 * [Kelaode](https://kelaode.ai/) - Claude Mirror Pool / Set 8 Letter Password 
 * [LibreChat](https://librechat.ai/) - Multiple Chatbots / [Discord](https://discord.librechat.ai/)
-* [Mistral](https://chat.mistral.ai/chat) - Multiple Chatbots
+* [Mistral](https://chat.mistral.ai/chat) - Multiple Chatbots / Account Required
 * [HuggingChat](https://huggingface.co/chat/) - Open-Source Chatbots
 * [infermatic](https://infermatic.ai/) - Multiple Chatbots / [Discord](https://discord.gg/9GUXmDx9GF) 
 * [lollms-webui](https://github.com/ParisNeo/lollms-webui) - Multiple Chatbots
