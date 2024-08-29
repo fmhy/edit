@@ -152,17 +152,14 @@
 ***
 
 ## ▷ Text Rephrasing
+* ⭐ **[QuillBot AI](https://quillbot.com/)** - AI-Enhanced Text Rephrasing
+* ⭐ **[Paraphrasetool](https://paraphrasetool.com/)** or **[Rephrasely](https://rephrasely.com/)** - AI Text Rephrasing And Generation
+* ⭐ **[Goblin.tools](https://goblin.tools/)** - Transform Text With Spiciness Levels
+* **[Paraphraser](https://www.paraphraser.io/)**- Effortless, Accurate, Multilingual Text Rephrasing
+* **[Recast](https://www.letsrecast.ai/)** Or **[SMMRY](https://smmry.com/)** - Text Summaries For Lengthy Texts
+* **[Paraphrase-Online](https://paraphrase-online.com/)** Or **[Paraphrasingtool](https://paraphrasingtool.ai/)** **[Henshu](https://www.henshu.ai/)** **[WriteFull](https://www.writefull.com/)** - Versatile Text Rewriting
 
-* ⭐ **[QuillBot AI](https://quillbot.com/)** - AI-enhanced Text Rephrasing, simplified focus
-* ⭐ **[paraphrasetool](https://paraphrasetool.com/)** or [Rephrasely](https://rephrasely.com/) - Versatile AI tool: rephrase, generate.
-* ⭐ **[Goblin.tools](https://goblin.tools/)** - Transform text styles with spiciness.
-* [Paraphraser](https://www.paraphraser.io/) - Effortless, accurate, multilingual text rephrasing
-* [Paraphrase-Online](https://paraphrase-online.com/) - Streamlined, precise, versatile text rewriting
-* [paraphrasingtool](https://paraphrasingtool.ai/) - Smart AI for precise rephrasing
-* [SMMRY](https://smmry.com/) - Concise summaries for lengthy texts
-* [henshu](https://www.henshu.ai/) - AI-driven tool for text rephrasing
-* [WriteFull](https://www.writefull.com/) - Refine and rephrase your writing.
-* [Recast](https://www.letsrecast.ai/) - Efficiently distill text into summaries.
+
 
 ***
 
