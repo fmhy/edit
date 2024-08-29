@@ -8,7 +8,7 @@
 
 * 🌐 **[Awesome ChatGPT](https://github.com/uhub/awesome-chatgpt)** - ChatGPT Resources
 * 🌐 **[Every ChatGPT GUI](https://github.com/billmei/every-chatgpt-gui)** - ChatGPT GUI Index
-* 🌐 **[RevAPIs](https://rentry.co/revvapis)** - Freemium AI Proxy APIs
+* 🌐 **[cool-ai-stuff](https://cas.xyzbot.net)** - Comparison Overview of Free(mium) AI API Proxies
 * ⭐ **[ChatPDF](https://www.chatpdf.com/)** or [Ask Your PDF](https://askyourpdf.com/) - Turn Books into Chatbots
 * ⭐ **[TypeSet](https://typeset.io/)** - Research Paper Chatbot
 * [ChatGPTBox](https://github.com/josStorer/chatGPTBox), [KeepChatGPT](https://github.com/xcanwin/KeepChatGPT/blob/main/docs/README_EN.md) or [Merlin](https://www.getmerlin.in/) - Extensions
