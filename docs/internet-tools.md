@@ -619,7 +619,7 @@
 * [Vieb](https://vieb.dev/) - Vim Inspired Browser
 * [Browsh](https://www.brow.sh/) - Text-Based Browser
 * [woob](https://woob.tech/) - Use Sites without a Browser
-* [Browser.lol](https://browser.lol/) or [Browserling](https://www.browserling.com/) - Browser Emulators
+* [Browserling](https://www.browserling.com/) - Browser Emulators
 * [NYXT](https://nyxt.atlas.engineer/ ) - Information Extraction Browser
 * [Lagrange](https://gmi.skyjake.fi/lagrange/) or [Amfora](https://github.com/makew0rld/amfora) - Gemini Browsers
 * [Gemini Portal](https://geminiprotocol.net/), [2](https://yesterweb.org/gemini) - Gemini to https Web Proxy Service
@@ -629,7 +629,6 @@
 * [Firemin](https://www.rizonesoft.com/downloads/firemin/) or `about:memory` - Reduce Firefox Memory Usage
 * [Hidden Settings](https://gitlab.com/Madis0/hidden-settings/) - Firefox Hidden Settings
 * [Firefox-UI-Fix](https://github.com/black7375/Firefox-UI-Fix) - Firefox UI Enhancements
-* [Firefox Onebar](https://codeberg.org/Freeplay/Firefox-Onebar) - Single Bar UI
 * [FirefoxCSS Store](https://firefoxcss-store.github.io/) - Firefox Themes List
 * [/r/FirefoxCSS](https://reddit.com/r/FirefoxCSS) or [Firefox CSS Hacks](https://github.com/MrOtherGuy/firefox-csshacks) - Firefox CSS Resources
 * [ThemeBeta](https://www.themebeta.com/) - Change Chrome Theme
