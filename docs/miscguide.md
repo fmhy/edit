@@ -617,7 +617,6 @@
 
 ## ▷ Porn Quitting
 
-* 🌐 **[Awesome Adult Content Filtering](https://github.com/wesinator/awesome-Adult-Content-Filtering)** - Porn Quitting Tools Index
 * ↪️ **[Site Blocking](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25B7_productivity_tools)**
 * ⭐ **[EasyPeasy](https://easypeasymethod.org/)**, [2](https://gitlab.com/snuggy/easypeasy) - Painlessly Quit Pornography
 * ⭐ **[NoFap Forums](https://forum.nofap.com/index.php)** - Forums
