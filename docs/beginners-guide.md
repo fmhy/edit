@@ -24,7 +24,7 @@ You can use [WhereYouWatch](https://whereyouwatch.com) for finding movies, and f
 !!!warning Please avoid downloading games from any site listed [here](https://fmhy.net/unsafesites) as they're very likely to contain malicious links.
 
 > How can I unlock *insert random game title* DLCs?
-Use the tools listed [here](https://fmhy.net/gamingpiracyguide#steam-epic) to unlock DLCs.
+Use the tools listed [here](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/game-tools/#wiki_.25B7_steam_.2F_epic) to unlock DLCs.
 
 > Should I install and use *insert random antivirus software* instead of using Windows Defender?
 No, don't do that. Windows Defender is more than enough to keep you safe, but if you're still set on installing a secondary AV, the only one worth installing is Malwarebytes. Please read the note [here](#anti-virus).
