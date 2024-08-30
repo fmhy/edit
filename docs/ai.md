@@ -6,28 +6,6 @@
 
 # ► AI Chatbots
 
-* 🌐 **[Awesome ChatGPT](https://github.com/uhub/awesome-chatgpt)** - ChatGPT Resources
-* 🌐 **[Every ChatGPT GUI](https://github.com/billmei/every-chatgpt-gui)** - ChatGPT GUI Index
-* 🌐 **[cool-ai-stuff](https://cas.xyzbot.net)** - Comparison Overview of Free(mium) AI API Proxies
-* ⭐ **[ChatPDF](https://www.chatpdf.com/)** or [Ask Your PDF](https://askyourpdf.com/) - Turn Books into Chatbots
-* ⭐ **[TypeSet](https://typeset.io/)** - Research Paper Chatbot
-* [ChatGPTBox](https://github.com/josStorer/chatGPTBox), [KeepChatGPT](https://github.com/xcanwin/KeepChatGPT/blob/main/docs/README_EN.md) or [Merlin](https://www.getmerlin.in/) - Extensions
-* [DAnswer](https://docs.danswer.dev/) or [DocsGPT](https://docsgpt.arc53.com/) - Turn Documents into Chatbots
-* [PrivateGPT](https://docs.privategpt.dev/) - Offline Document Chatbots
-* [TGPT](https://github.com/aandrew-me/tgpt) - ChatGPT TUIs
-* [LLM](https://github.com/simonw/llm) - ChatGPT CLI
-* [Lobe Chat](https://chat-preview.lobehub.com) - Desktop App
-* [Noi](https://noi.nofwl.com/) - Desktop App
-* [Chatbot-UI](https://chatbotui.com) - Desktop App / [GitHub](https://github.com/mckaywrigley/chatbot-ui)
-* [ChatRTX](https://www.nvidia.com/en-us/ai-on-rtx/chatrtx/) - Desktop App / RTX 30+ Series GPU Only
-* [ChatGPT DeMod](https://github.com/4as/ChatGPT-DeMod) - Block ChatGPT Moderation Checks
-* [ParallelGPT](https://www.parallelgpt.ai/) - Data Processing AI
-* [Voice Control](https://voicecontrol.chat/) - ChatGPT Voice Control
-* [ChatGPT Exporter](https://greasyfork.org/en/scripts/456055) - Export Chats
-* [GPThemes](https://github.com/itsmartashub/GPThemes) - ChatGPT Themes
-
-***
-
 ## ▷ Online Chatbots
 
 * 🌐 **[Awesome Free ChatGPT](https://github.com/LiLittleCat/awesome-free-chatgpt/blob/main/README_en.md)** - Online GPT Indexes
@@ -40,6 +18,8 @@
 * ⭐ **[Tune AI](https://chat.tune.app/)** - Multiple Chatbots / 24 Msgs per Chat / Google Login / [Discord](https://discord.gg/EkH7px4JNW)
 * ⭐ **[Gemini](https://gemini.google.com/)** or [Gemma](https://github.com/google/gemma.cpp), [2](https://ai.google.dev/gemma/) - Google's Chatbot
 * ⭐ **[LMSYS Chat](https://lmarena.ai/)** - Chat and Compare Multiple Chatbots
+* ⭐ **[ChatPDF](https://www.chatpdf.com/)** or [Ask Your PDF](https://askyourpdf.com/) - Turn Books into Chatbots
+* ⭐ **[TypeSet](https://typeset.io/)** - Research Paper Chatbot
 * [DuckDuckGo AI](https://duck.ai/) - Multiple Chatbots
 * [LLM Playground](https://llmplayground.net/) - Multiple Chatbots / 1000 word limit / [API](https://api.discord.rocks/) / [Discord](https://discord.com/invite/q55gsH8z5F)
 * [OAICHAT](https://chat.oaichat.cc/), [2](https://chat.sorapi.dev/), [3](https://ffa.chat/) - GPT-4o / Multiple Chatbots
@@ -60,6 +40,8 @@
 * [Reka Playground](https://chat.reka.ai/) - Reka's Chatbot
 * [Poe](https://poe.com/) - Multiple Chatbots / 150 Daily / [Discord](https://discord.com/invite/joinpoe)
 * [Ai Uncensored](https://www.aiuncensored.info/) - "Uncensored" Chatbot 
+* [ChatGPTBox](https://github.com/josStorer/chatGPTBox), [KeepChatGPT](https://github.com/xcanwin/KeepChatGPT/blob/main/docs/README_EN.md) or [Merlin](https://www.getmerlin.in/) - Extensions
+* [DAnswer](https://docs.danswer.dev/) or [DocsGPT](https://docsgpt.arc53.com/) - Turn Documents into Chatbots
 
 ***
 
@@ -162,6 +144,26 @@
 * [RTutor](https://rtutor.ai/) - Translate Natural Language to R code
 * [Gorilla](https://gorilla.cs.berkeley.edu/) - API to Code LLM
 * [CS50.ai](https://cs50.ai/) - AI Rubberducking
+
+***
+
+# ► ChatGPT Tools
+
+* 🌐 **[Awesome ChatGPT](https://github.com/uhub/awesome-chatgpt)** - ChatGPT Resources
+* 🌐 **[Every ChatGPT GUI](https://github.com/billmei/every-chatgpt-gui)** - ChatGPT GUI Index
+* 🌐 **[cool-ai-stuff](https://cas.xyzbot.net)** - Comparison Overview of Free(mium) AI API Proxies
+* [PrivateGPT](https://docs.privategpt.dev/) - Offline Document Chatbots
+* [TGPT](https://github.com/aandrew-me/tgpt) - ChatGPT TUIs
+* [LLM](https://github.com/simonw/llm) - ChatGPT CLI
+* [Lobe Chat](https://chat-preview.lobehub.com) - Desktop App
+* [Noi](https://noi.nofwl.com/) - Desktop App
+* [Chatbot-UI](https://chatbotui.com) - Desktop App / [GitHub](https://github.com/mckaywrigley/chatbot-ui)
+* [ChatRTX](https://www.nvidia.com/en-us/ai-on-rtx/chatrtx/) - Desktop App / RTX 30+ Series GPU Only
+* [ChatGPT DeMod](https://github.com/4as/ChatGPT-DeMod) - Block ChatGPT Moderation Checks
+* [ParallelGPT](https://www.parallelgpt.ai/) - Data Processing AI
+* [Voice Control](https://voicecontrol.chat/) - ChatGPT Voice Control
+* [ChatGPT Exporter](https://greasyfork.org/en/scripts/456055) - Export Chats
+* [GPThemes](https://github.com/itsmartashub/GPThemes) - ChatGPT Themes
 
 ***
 
