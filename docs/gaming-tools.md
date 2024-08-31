@@ -551,7 +551,7 @@
 * [WorldEdit](https://enginehub.org/worldedit) or [Axiom](https://modrinth.com/mod/axiom) - Building Tools
 * Worldedit Tools - [Docs](https://worldedit.enginehub.org/en/latest/) / [CUI](https://modrinth.com/mod/worldedit-cui) / [Discord](https://discord.gg/enginehub) / [GitHub](https://github.com/EngineHub/WorldEdit)
 * [Bobby](https://modrinth.com/mod/bobby) - Uncap Render Distance Slider
-* [Forge](https://files.minecraftforge.net/), [Quilt](https://quiltmc.org/) or [Fabric](https://fabricmc.net/) / [Discord](https://discord.gg/VDGnGsFeuy) - Mod Loaders
+* [Forge](https://files.minecraftforge.net/), [NeoForged](https://neoforged.net/), [Quilt](https://quiltmc.org/) or [Fabric](https://fabricmc.net/) / [Discord](https://discord.gg/VDGnGsFeuy) - Mod Loaders
 * [Pax](https://github.com/froehlichA/pax) or [Mod Manager](https://github.com/kaniol-lck/modmanager) - Minecraft Mod Managers
 * [Forgix](https://github.com/PacifistMC/Forgix) - Merge Mod Loaders
 * [r/feedthebeast](https://reddit.com/r/feedthebeast/) - MC Modding Community
