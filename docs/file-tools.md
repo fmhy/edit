@@ -217,22 +217,15 @@
 
 ## ▷ Data Automation
 
-* ⭐ **[Advanced Renamer](https://www.advancedrenamer.com/)** - Bulk Renamer
-* ⭐ **[Bulk Rename Utility](https://www.bulkrenameutility.co.uk/)** - Bulk Renamer
-* [MediaMonkey](https://www.mediamonkey.com/) - Data Automation
-* [mnamer](https://github.com/jkwill87/mnamer) - Data Automation
-* [MediaInfo](https://mediaarea.net/en/MediaInfo) - Data Automation / [Online](https://mediaarea.net/MediaInfoOnline)
-* [tinyMediaManager](https://www.tinymediamanager.org/) - Data Automation
-* [Bruji](https://www.bruji.com/) - Data Automation
-* [FileBot](https://www.filebot.net/) - Data Automation
-* [MediaElch](https://www.kvibes.de/mediaelch/) - Data Automation
+* ⭐ **[Advanced Renamer](https://www.advancedrenamer.com/)** or **[Bulk Rename Utility](https://www.bulkrenameutility.co.uk/)** - Bulk Renamers
+* [MediaMonkey](https://www.mediamonkey.com/) - Media Organizer
+* [MediaInfo](https://mediaarea.net/en/MediaInfo) - Media File Analysis  / [Online](https://mediaarea.net/MediaInfoOnline)
+* [tinyMediaManager](https://www.tinymediamanager.org/) or [MediaElch](https://www.kvibes.de/mediaelch/) - Media Collection Managers
+* [Bruji](https://www.bruji.com/) - Media Cataloging Software Suite
+* [FileBot](https://www.filebot.net/) - Media File Renaming
 * [TVRename](https://www.tvrename.com/) - TV File Data Automation
 * [Shoko](https://github.com/shokoanime) - Anime File Data Automation
-* [Szyszka](https://github.com/qarmin/szyszka) - Bulk Renamer
-* [F2](https://github.com/ayoisaiah/f2) - Bulk Renamer
-* [PowerRename](https://learn.microsoft.com/en-us/windows/powertoys/powerrename) - Bulk Renamer
-* [Ant Renamer](https://www.antp.be/software/renamer) - Bulk Renamer
-* [Flut Renamer](https://github.com/sun-jiao/flut-renamer) - Bulk Renamer
+* [PowerRename](https://learn.microsoft.com/en-us/windows/powertoys/powerrename), [Szyszka](https://github.com/qarmin/szyszka), [F2](https://github.com/ayoisaiah/f2), [Ant Renamer](https://www.antp.be/software/renamer) or [Flut Renamer](https://github.com/sun-jiao/flut-renamer) - Bulk Renamers
 
 ***
 
