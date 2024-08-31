@@ -5,11 +5,11 @@ date: 2023-10-24
 next: false
 aside: left
 prev: false
-sidebar: false
+
 footer: true
 ---
 
-<Post authors="['nbats']" />
+<Post authors="nbats" />
 
 # Public URL: https://discord.gg/5W9QJKuPkD
 

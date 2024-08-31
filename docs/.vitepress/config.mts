@@ -1,6 +1,8 @@
 import consola from 'consola'
 import UnoCSS from 'unocss/vite'
 import AutoImport from 'unplugin-auto-import/vite'
+import OptimizeExclude from 'vite-plugin-optimize-exclude'
+import Terminal from 'vite-plugin-terminal'
 import { defineConfig } from 'vitepress'
 import {
   commitRef,
@@ -53,8 +55,16 @@ export default defineConfig({
       .finally(() => consola.success('Success!'))
   },
   vite: {
+    ssr: {
+      noExternal: ['@fmhy/components']
+    },
     optimizeDeps: { exclude: ['workbox-window'] },
     plugins: [
+      OptimizeExclude(),
+      Terminal({
+        console: 'terminal',
+        output: ['console', 'terminal']
+      }),
       UnoCSS({
         configFile: '../unocss.config.ts'
       }),
@@ -112,7 +122,6 @@ export default defineConfig({
     outline: 'deep',
     logo: '/fmhy.ico',
     nav: [
-      { text: '📚 Beginners Guide', link: '/beginners-guide' },
       { text: '🔖 Glossary', link: 'https://rentry.org/The-Piracy-Glossary' },
       { text: '📑 Guides', link: 'https://rentry.co/fmhy-guides' },
       {
@@ -122,10 +131,8 @@ export default defineConfig({
       {
         text: '🪅 Ecosystem',
         items: [
+          { text: '💙 Feedback', link: '/feedback' },
           { text: '🌐 Search', link: '/posts/search' },
-          { text: '📰 Posts', link: '/posts' },
-          { text: '💬 Feedback', link: '/feedback' },
-          { text: '💙 Contribute', link: 'other/contributing' },
           { text: '🏞 Wallpapers', link: '/other/wallpapers' },
           { text: '📋 snowbin', link: 'https://pastes.fmhy.net' },
           { text: '🔍 SearXNG', link: 'https://searx.fmhy.net/' },

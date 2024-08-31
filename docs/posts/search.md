@@ -5,11 +5,11 @@ date: 2023-01-07
 next: false
 aside: left
 prev: false
-sidebar: false
+
 footer: true
 ---
 
-<Post authors="['nbats']" />
+<Post authors="nbats" />
 
 ### [FMHY-Search](https://fmhy-search.streamlit.app/)
 

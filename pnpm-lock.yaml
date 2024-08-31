@@ -11,6 +11,9 @@ importers:
       '@fmhy/colors':
         specifier: ^0.0.11
         version: 0.0.11
+      '@fmhy/components':
+        specifier: ^0.0.3
+        version: 0.0.3(@taskylizard/vitepress@1.1.1(@algolia/client-search@4.22.1)(@types/node@20.15.0)(nprogress@0.2.0)(postcss@8.4.41)(sass@1.77.8)(terser@5.22.0))(vue@3.4.38)
       '@headlessui/vue':
         specifier: ^1.7.22
         version: 1.7.22(vue@3.4.38)
@@ -105,6 +108,12 @@ importers:
       unplugin-auto-import:
         specifier: ^0.18.2
         version: 0.18.2(@vueuse/core@10.11.0(vue@3.4.38))(rollup@4.19.0)
+      vite-plugin-optimize-exclude:
+        specifier: ^0.0.1
+        version: 0.0.1(vite@5.3.4(@types/node@20.15.0)(sass@1.77.8)(terser@5.22.0))
+      vite-plugin-terminal:
+        specifier: ^1.2.0
+        version: 1.2.0(rollup@4.19.0)(vite@5.3.4(@types/node@20.15.0)(sass@1.77.8)(terser@5.22.0))
       wrangler:
         specifier: ^3.68.0
         version: 3.68.0
@@ -898,6 +907,14 @@ packages:
     resolution: {integrity: sha512-sNwSoifyPi+9s/wOXXl9B3qpcfMDNj4HtNlxtf6FQs2LUshcxx226KIJgnxRwawGmQq26Vck1dcJESC6s4QwiA==}
     engines: {node: '>=18.16.1'}
 
+  '@fmhy/components@0.0.3':
+    resolution: {integrity: sha512-5L+O5aYb17gB18nhIMMXRNtFM/j2OL+W8NjZR+cdLfI5T6HoFFeIkUHHqsTLQCsjzPLStZoVhQgywroXDfVwOA==}
+    engines: {node: '>=18.16.1'}
+    peerDependencies:
+      typescript: ^5.0.0
+      vitepress: ^1.3.2
+      vue: ^3.4.21
+
   '@headlessui/vue@1.7.22':
     resolution: {integrity: sha512-Hoffjoolq1rY+LOfJ+B/OvkhuBXXBFgd8oBlN+l1TApma2dB0En0ucFZrwQtb33SmcCqd32EQd0y07oziXWNYg==}
     engines: {node: '>=10'}
@@ -1200,6 +1217,15 @@ packages:
 
   '@rollup/plugin-replace@5.0.5':
     resolution: {integrity: sha512-rYO4fOi8lMaTg/z5Jb+hKnrHHVn8j2lwkqwyS4kTRhKyWOLf2wST2sWXr4WzWiTcoHTp2sTjqUbqIj2E39slKQ==}
+    engines: {node: '>=14.0.0'}
+    peerDependencies:
+      rollup: ^1.20.0||^2.0.0||^3.0.0||^4.0.0
+    peerDependenciesMeta:
+      rollup:
+        optional: true
+
+  '@rollup/plugin-strip@3.0.4':
+    resolution: {integrity: sha512-LDRV49ZaavxUo2YoKKMQjCxzCxugu1rCPQa0lDYBOWLj6vtzBMr8DcoJjsmg+s450RbKbe3qI9ZLaSO+O1oNbg==}
     engines: {node: '>=14.0.0'}
     peerDependencies:
       rollup: ^1.20.0||^2.0.0||^3.0.0||^4.0.0
@@ -3632,6 +3658,17 @@ packages:
     resolution: {integrity: sha512-BNGbWLfd0eUPabhkXUVm0j8uuvREyTh5ovRa/dyow/BqAbZJyC+5fU+IzQOzmAKzYqYRAISoRhdQr3eIZ/PXqg==}
     engines: {node: '>= 0.8'}
 
+  vite-plugin-optimize-exclude@0.0.1:
+    resolution: {integrity: sha512-vRb2u5XlvNa51bt+mz6QS+UHns2tGi1Z9CHuaAnPOWiAtQCZEjavUf/56oRFXauj/0ROl2FvOJ2YFD1k6sGJNQ==}
+    peerDependencies:
+      vite: '>=2.0.0'
+
+  vite-plugin-terminal@1.2.0:
+    resolution: {integrity: sha512-IIw1V+IySth8xlrGmH4U7YmfTp681vTzYpa7b8A3KNCJ2oW1BGPPwW8tSz6BQTvSgbRmrP/9NsBLsfXkN4e8sA==}
+    engines: {node: '>=14'}
+    peerDependencies:
+      vite: ^2.0.0||^3.0.0||^4.0.0||^5.0.0
+
   vite@5.3.4:
     resolution: {integrity: sha512-Cw+7zL3ZG9/NZBB8C+8QbQZmR54GwqIz+WMI4b3JgdYJvX+ny9AjJXqkGQlDXSXRP9rP0B4tbciRMOVEKulVOA==}
     engines: {node: ^18.0.0 || >=20.0.0}
@@ -4438,6 +4475,11 @@ snapshots:
 
   '@fmhy/colors@0.0.11': {}
 
+  '@fmhy/components@0.0.3(@taskylizard/vitepress@1.1.1(@algolia/client-search@4.22.1)(@types/node@20.15.0)(nprogress@0.2.0)(postcss@8.4.41)(sass@1.77.8)(terser@5.22.0))(vue@3.4.38)':
+    dependencies:
+      vitepress: '@taskylizard/vitepress@1.1.1(@algolia/client-search@4.22.1)(@types/node@20.15.0)(nprogress@0.2.0)(postcss@8.4.41)(sass@1.77.8)(terser@5.22.0)'
+      vue: 3.4.38
+
   '@headlessui/vue@1.7.22(vue@3.4.38)':
     dependencies:
       '@tanstack/vue-virtual': 3.0.2(vue@3.4.38)
@@ -4484,7 +4526,7 @@ snapshots:
       '@antfu/install-pkg': 0.1.1
       '@antfu/utils': 0.7.7
       '@iconify/types': 2.0.0
-      debug: 4.3.4
+      debug: 4.3.6
       kolorist: 1.8.0
       local-pkg: 0.5.0
       mlly: 1.7.1
@@ -4723,6 +4765,14 @@ snapshots:
       magic-string: 0.30.11
     optionalDependencies:
       rollup: 3.29.4
+
+  '@rollup/plugin-strip@3.0.4(rollup@4.19.0)':
+    dependencies:
+      '@rollup/pluginutils': 5.1.0(rollup@4.19.0)
+      estree-walker: 2.0.2
+      magic-string: 0.30.11
+    optionalDependencies:
+      rollup: 4.19.0
 
   '@rollup/plugin-terser@0.4.4(rollup@3.29.4)':
     dependencies:
@@ -5218,13 +5268,13 @@ snapshots:
 
   agent-base@6.0.2:
     dependencies:
-      debug: 4.3.4
+      debug: 4.3.6
     transitivePeerDependencies:
       - supports-color
 
   agent-base@7.1.0:
     dependencies:
-      debug: 4.3.4
+      debug: 4.3.6
     transitivePeerDependencies:
       - supports-color
 
@@ -5416,7 +5466,7 @@ snapshots:
 
   capnp-ts@0.7.0:
     dependencies:
-      debug: 4.3.4
+      debug: 4.3.6
       tslib: 2.6.3
     transitivePeerDependencies:
       - supports-color
@@ -6064,14 +6114,14 @@ snapshots:
   https-proxy-agent@5.0.1:
     dependencies:
       agent-base: 6.0.2
-      debug: 4.3.4
+      debug: 4.3.6
     transitivePeerDependencies:
       - supports-color
 
   https-proxy-agent@7.0.2:
     dependencies:
       agent-base: 7.1.0
-      debug: 4.3.4
+      debug: 4.3.6
     transitivePeerDependencies:
       - supports-color
 
@@ -6109,7 +6159,7 @@ snapshots:
     dependencies:
       '@ioredis/commands': 1.2.0
       cluster-key-slot: 1.1.2
-      debug: 4.3.4
+      debug: 4.3.6
       denque: 2.1.0
       lodash.defaults: 4.2.0
       lodash.isarguments: 3.1.0
@@ -7405,6 +7455,22 @@ snapshots:
   utils-merge@1.0.1: {}
 
   vary@1.1.2: {}
+
+  vite-plugin-optimize-exclude@0.0.1(vite@5.3.4(@types/node@20.15.0)(sass@1.77.8)(terser@5.22.0)):
+    dependencies:
+      vite: 5.3.4(@types/node@20.15.0)(sass@1.77.8)(terser@5.22.0)
+
+  vite-plugin-terminal@1.2.0(rollup@4.19.0)(vite@5.3.4(@types/node@20.15.0)(sass@1.77.8)(terser@5.22.0)):
+    dependencies:
+      '@rollup/plugin-strip': 3.0.4(rollup@4.19.0)
+      debug: 4.3.6
+      kolorist: 1.8.0
+      sirv: 2.0.4
+      ufo: 1.5.4
+      vite: 5.3.4(@types/node@20.15.0)(sass@1.77.8)(terser@5.22.0)
+    transitivePeerDependencies:
+      - rollup
+      - supports-color
 
   vite@5.3.4(@types/node@20.15.0)(sass@1.77.8)(terser@5.22.0):
     dependencies:

@@ -5,11 +5,11 @@ date: 2024-02-11
 next: false
 aside: left
 prev: false
-sidebar: false
+
 footer: true
 ---
 
-<Post authors="['nbats']" />
+<Post authors="nbats" />
 
 # Join at: `fmhy.net`
 

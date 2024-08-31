@@ -5,11 +5,11 @@ date: 2024-03-01
 next: false
 aside: left
 prev: false
-sidebar: false
+
 footer: true
 ---
 
-<Post authors="['nbats']"/>
+<Post authors="nbats"/>
 
 :::info These update threads only contains major updates. If you're interested
 in seeing all minor changes you can follow our
