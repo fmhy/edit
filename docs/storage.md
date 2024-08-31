@@ -1010,6 +1010,7 @@
 
 ## Switch ROMs
 
+* [RUTracker Switch](https://rutracker.org/forum/viewforum.php?f=1605) - Use VPN
 * [NXBrew](https://nxbrew.com/) / Scroll past Download Setup buttons
 * [Ziperto](https://ziperto.com/) / Avoid [Fake](https://ibb.co/wWJbkX6) Buttons / [Discord](https://discord.gg/VgZ66bM87u)
 * [nsw2u](https://nsw2u.com/), [2](https://nsw2u.net/)
