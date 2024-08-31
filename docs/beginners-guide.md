@@ -108,9 +108,9 @@ No, don't do that. Windows Defender is more than enough to keep you safe, but if
 
 ### Streaming
 
-* **[movie-web](https://erynith.github.io/movie-web-instances/) / [2](https://docs.undi.rest/instances) + [Add Sources](https://pastebin.com/w8Brq2UA) / [Braflix](https://www.braflix.ru/) / [watch.lonelil](https://watch.lonelil.ru/) / [Binged](https://binged.live/)** - Fast movie / TV streaming
-* **[HiAnime](https://hianime.to/)** - Fast anime streaming
-* **[Dramacool](https://dramacool.cy/)** - Fast Asian drama streaming
+* **[movie-web](https://erynith.github.io/movie-web-instances/) / [2](https://docs.undi.rest/instances) + [Add Sources](https://pastebin.com/w8Brq2UA) / [Braflix](https://www.braflix.ru/) / [watch.lonelil](https://watch.lonelil.ru/) / [Binged](https://binged.live/)** -  Movie / TV streaming
+* **[HiAnime](https://hianime.to/)** - Anime Streaming
+* **[Dramacool](https://dramacool.cy/)** - Asian drama streaming
 * **[SportsSurge](https://v2.sportsurge.net/home4/)** - Live sports streaming
 * **[How-to Find Rare Movies](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/find-rare-movies)** - Find obscure films
 
@@ -126,7 +126,7 @@ No, don't do that. Windows Defender is more than enough to keep you safe, but if
 * **[Soulseek](https://slsknet.org/)** or [Nicotine+](https://nicotine-plus.org/) - Audio download app
 * **[squid.wtf](https://squid.wtf/)** - Deezer FLAC download
 
-!!!note When using DDLs, it's generally recommended to use a download manager such as JDownloader, as they improve the ease of downloading along with the speed. You can find them listed [here](https://fmhy.net/file-tools#download-managers).
+!!!note When using DDLs, it's generally recommended to use a download manager such as JDownloader, as they improve the ease of downloading as well as the speed. You can find them listed [here](https://fmhy.net/file-tools#download-managers).
 
 ***
 
@@ -137,7 +137,7 @@ No, don't do that. Windows Defender is more than enough to keep you safe, but if
 * **[qBittorrent](https://www.qbittorrent.org/) / [Transmission](https://transmissionbt.com/) / [Deluge](https://www.deluge-torrent.org/) / [Remote Torrenting](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent#wiki_.25B7_remote_torrenting)** - Torrent clients
 * **[RuTracker](https://rutracker.org/)** / [Wiki](http://rutracker.wiki/) / [Rules](https://rutracker.org/forum/viewtopic.php?t=1045) - Torrent video, audio, games, software & more / Only download from reputable users
 * **[FitGirl Repacks](https://fitgirl-repacks.site/)** - Trusted game repacker
-* **[Stremio](https://www.stremio.com/)** - Torrent video streaming app
+* **[Stremio](https://www.stremio.com/)** - Torrent video streaming app / [Addons](https://stremio-addons.netlify.app/)
 * **[Nyaa](https://nyaa.si/)** - Anime Torrents
 
 ***
