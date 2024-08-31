@@ -177,28 +177,24 @@
 
 ## ▷ Stream Sync
 
-* ⭐ **[SyncPlay](https://syncplay.pl/)**
-* ⭐ **[Watch2Gether](https://w2g.tv/)**
-* ⭐ **[SyncWatch](https://github.com/Semro/syncwatch)**
-* ⭐ **[Kosmi](https://kosmi.io/)**
-* ⭐ **[neko](https://neko.m1k1o.net/)** / [GitHub](https://github.com/m1k1o/neko)
-* [HyperBeam](https://hyperbeam.com/) / [VIP](https://greasyfork.org/en/scripts/457795)
-* [Trast](https://trast.live/)
-* [bear.cat](https://bear.cat/)
-* [Metastream](https://getmetastream.com/)
-* [Caracal Club](https://caracal.club/)
-* [CyTube](https://cytu.be/)
-* [VideoTogether](https://2gether.video/en-us/)
-* [baked.live](https://baked.live/)
-* [Rave.io](https://rave.io/)
-* [twoseven](https://twoseven.xyz/)
-* [WatchPubs](https://watchpubs.com/)
-* [MovieNight](https://github.com/zorchenhimer/MovieNight) / [Discord](https://discord.gg/F2VSgjJ)
-* [WatchParty](https://www.watchparty.me/)
-* [Kast](https://kast.gg/)
-* [Screen Share Party](https://ba.net/screen/)
-* [TurtleTV](https://turtletv.app/)
-* [OpenTogetherTube](https://opentogethertube.com/)
+* ⭐ **[SyncPlay](https://syncplay.pl/)** - App
+* ⭐ **[Watch2Gether](https://w2g.tv/)** - Online
+* ⭐ **[SyncWatch](https://github.com/Semro/syncwatch)** - Online Extension
+* ⭐ **[Kosmi](https://kosmi.io/)** - Online 
+* ⭐ **[neko](https://neko.m1k1o.net/)** / [GitHub](https://github.com/m1k1o/neko) - Docker Virtual Browser
+* [HyperBeam](https://hyperbeam.com/) / [VIP](https://greasyfork.org/en/scripts/457795) - Virtual Computer Embed
+* [Trast](https://trast.live/),  [OpenTogetherTube](https://opentogethertube.com/), [TurtleTV](https://turtletv.app/) or [twoseven](https://twoseven.xyz/) - Online
+* [bear.cat](https://bear.cat/) - Online Virtual Machine / Allows NSFW
+* [Metastream](https://getmetastream.com/) - Online Extension
+* [Caracal Club](https://caracal.club/) - Online Video Player
+* [CyTube](https://cytu.be/) - Online Video Player
+* [VideoTogether](https://2gether.video/en-us/) - App
+* [baked.live](https://baked.live/) - Online Video Player
+* [Rave.io](https://rave.io/) - Online Extension 
+* [MovieNight](https://github.com/zorchenhimer/MovieNight) / [Discord](https://discord.gg/F2VSgjJ) - Docker
+* [WatchParty](https://www.watchparty.me/) - Online / Virtual Browser
+* [Kast](https://kast.gg/) - Screen Share
+* [Screen Share Party](https://ba.net/screen/) - Online Screen Share
 
 ***
 
