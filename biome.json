@@ -11,6 +11,26 @@
   "formatter": {
     "enabled": false
   },
+  "css": {
+    "linter": {
+      "enabled": false
+    },
+    "formatter": {
+      "enabled": false
+    }
+  },
+  "json": {
+    "formatter": {
+      "enabled": false
+    },
+    "linter": {
+      "enabled": false
+    }
+  },
+  "vcs": {
+    "enabled": true,
+    "clientKind": "git"
+  },
   "javascript": {
     "globals": [
       "defineNitroConfig",

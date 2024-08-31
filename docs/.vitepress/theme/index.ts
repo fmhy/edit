@@ -15,13 +15,14 @@
  */
 
 import type { Theme } from 'vitepress'
+import Components from '@fmhy/components'
 import DefaultTheme from 'vitepress/theme'
 import { loadProgress } from './composables/nprogress'
 import Layout from './Layout.vue'
 import Post from './PostLayout.vue'
 
 import './style.scss'
-import 'uno.css'
+import 'virtual:uno.css'
 
 import Feedback from './components/Feedback.vue'
 
@@ -29,6 +30,7 @@ export default {
   extends: DefaultTheme,
   Layout,
   enhanceApp({ router, app }) {
+    app.use(Components)
     app.component('Post', Post)
     app.component('Feedback', Feedback)
     loadProgress(router)

@@ -5,11 +5,11 @@ date: 2024-08-29
 next: false
 aside: left
 prev: false
-sidebar: false
+
 footer: true
 ---
 
-<Post authors="['nbats']"/>
+<Post authors="nbats"/>
 
 ACE [confirmed today](https://torrentfreak.com/fmovies-piracy-ring-was-shut-down-by-vietnam-assisted-by-ace-240829/) that they were responsible for getting Fmovies, Aniwave, and Vidsrc all shut down.
 

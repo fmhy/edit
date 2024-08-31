@@ -2,6 +2,7 @@
 title: Wallpapers
 description: Elevate yourself to the next level with our beautiful wallpapers.
 next: false
+prev: false
 ---
 
 <script setup>

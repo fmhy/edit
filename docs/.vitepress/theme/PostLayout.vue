@@ -2,7 +2,7 @@
 import Authors from './components/Authors.vue'
 
 const props = defineProps<{
-  authors: string[]
+  authors: string
 }>()
 
 const formatDate = (raw: string): string => {
@@ -14,10 +14,11 @@ const formatDate = (raw: string): string => {
 }
 
 const { frontmatter } = useData()
+const authors = computed(() => props.authors.split(','))
 </script>
 
 <template>
   <h1>{{ frontmatter.title }}</h1>
   <div>{{ frontmatter.description }} • {{ formatDate(frontmatter.date) }}</div>
-  <Authors :authors="props.authors" />
+  <Authors :authors="authors" />
 </template>

@@ -5,11 +5,11 @@ date: 2023-11-12
 next: false
 aside: left
 prev: false
-sidebar: false
+
 footer: true
 ---
 
-<Post authors="['taskylizard']" />
+<Post authors="taskylizard" />
 
 ### New URL: https://fmhy.net/
 

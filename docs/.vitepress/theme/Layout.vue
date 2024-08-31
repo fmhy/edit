@@ -50,6 +50,12 @@ const { Layout } = DefaultTheme
     <template #home-hero-prelink>
       <Announcement />
     </template>
+    <template #home-features-before>
+      <p class="text-center text-lg text-text-2 mb-2">
+        Or browse these pages
+        <span class="inline-block i-twemoji:sparkles" />
+      </p>
+    </template>
     <Content />
   </Layout>
 </template>

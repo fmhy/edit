@@ -5,11 +5,11 @@ date: 2024-02-18
 next: false
 aside: left
 prev: false
-sidebar: false
+
 footer: true
 ---
 
-<Post authors="['nbats']" />
+<Post authors="nbats" />
 
 For those of you who don't know, the VFX site Download Pirate was removed by
 /r/Piracy and placed in their unsafe list following this

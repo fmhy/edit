@@ -1,7 +1,3 @@
-import type { ContentData } from 'vitepress'
-import { createContentLoader } from 'vitepress'
-import { groupBy } from '../utils'
-
 /**
  *  Copyright (c) taskylizard. All rights reserved.
  *
@@ -18,18 +14,22 @@ import { groupBy } from '../utils'
  *  limitations under the License.
  */
 
+import type { ContentData } from 'vitepress'
+import { createContentLoader } from 'vitepress'
+import { groupBy } from '../utils'
+
 interface Post {
   title: string
   url: string
   date: string
 }
 
-type Dictionary = ReturnType
+type Dictionary = ReturnType<typeof createContentLoader>
 
 declare const data: Dictionary
 export { data }
 
-function transformRawPosts(rawPosts: ContentData[]): Record {
+function transformRawPosts(rawPosts: ContentData[]): Record<string, Post[]> {
   const posts: Post[] = rawPosts
     .map(({ url, frontmatter }) => ({
       title: frontmatter.title,
