@@ -152,11 +152,11 @@
 
 ## ▷ File Encryption
 
-* ⭐ **[VeraCrypt](https://www.veracrypt.fr/en/Home.html)**
-* ⭐ **[age](https://github.com/FiloSottile/age)**
-* [Picocrypt](https://github.com/Picocrypt/Picocrypt)
-* [Hat](https://hat.sh/)
-* [Kryptor](https://www.kryptor.co.uk/)
+* ⭐ **[VeraCrypt](https://www.veracrypt.fr/en/Home.html)** -  Disk Encryption 
+* ⭐ **[age](https://github.com/FiloSottile/age)** - File Encryption
+* [Picocrypt](https://github.com/Picocrypt/Picocrypt) - Lightweight File Encryption Tool
+* [Hat](https://hat.sh/) - Browser-Based Encryption Tool
+* [Kryptor](https://www.kryptor.co.uk/) - Encryption Software
 
 ***
 
