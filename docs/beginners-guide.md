@@ -78,15 +78,14 @@ No, don't do that. Windows Defender is more than enough to keep you safe, but if
 * **[Twitch Adblockers](https://fmhy.net/social-media-tools#twitch-adblockers)** - Block Twitch ads
 * **[Redirect Skippers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25B7_redirect_bypass)** - Bypass redirect sites
 
-!!!note Don't run multiple general adblockers like ublock and adblock plus at the same time. Running more than one can [cause breakage](https://twitter.com/gorhill/status/1033706103782170625). This only applies to general adblockers, so running things like ublock and sponsorblock at the same time is fine.
+!!!note Don't run multiple general adblockers like uBlock and Adblock Plus at the same time. Running more than one can [cause breakage](https://twitter.com/gorhill/status/1033706103782170625). This only applies to general adblockers, so running things like uBlock and Sponsorblock at the same time is fine.
 
 ***
 
-### Anti-virus
+### Antivirus
 
-* **[VirusTotal](https://www.virustotal.com)** - Test the safety of files
-* **[VTGuide](https://rentry.co/VTGuide)** - Virus scan results guide
-* **[Malwarebytes Premium](https://rentry.co/FMHYBase64#malwarebytes-prem)** - Antivirus software
+* **[VirusTotal](https://www.virustotal.com)** - Test the safety of files / [Results Guide](https://rentry.co/VTGuide)
+* **[Malwarebytes Premium](https://rentry.co/FMHYBase64#malwarebytes-prem)** - Real-time anti-malware software / Premium
 
 !!!note Antivirus software is usually bloatware. Stick to trusted sources for games and software and you will be fine with nothing but Windows Defender and an occasional Malwarebytes scan. Remember to always scan software before installing it with tools like **[VirusTotal](https://www.virustotal.com/)** or use it in **[Sandboxie](https://rentry.co/sandboxie-guide)**.
 
