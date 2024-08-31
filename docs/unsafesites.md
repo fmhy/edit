@@ -2,6 +2,8 @@
 
 * **Note** - Scene groups do not have their own sites, so it's best to avoid anything claiming to represent one.
 
+***
+
 * 🌐 **[Untrusted Uploaders](https://rentry.org/pgames#untrusted-uploaders)**
 * 🌐 **[Fake FitGirl Sites](https://rentry.co/FakeFitgirlwebsites)**
 * IGG Games / Load Games - Caught with [malware](https://redd.it/bzczk6) / [2](https://i.ibb.co/fkXpgsq/jyFj8Kh.png) / [3](https://i.ibb.co/xmj2Vqh/9w5dyTU.png), doxxed member, added DRM to games
@@ -21,6 +23,8 @@
 
 * **Note** - YouTube videos claiming to give away free software are nearly always scams.
 
+***
+
 * GetIntoPC / GetIntoMAC - Caught with malware multiple times
 * SadeemPC / SadeemAPK - Caught with malware multiple times
 * KaranPC - Caught with malware multiple times
@@ -37,13 +41,15 @@
 * RSLOAD - Uploaded the same version of malwarebytes that got FileCR in trouble / [utorrent malware](https://i.ibb.co/QXrCfqQ/Untitled.png)
 * AppValley / TutuBox / Ignition - History of [ddos attacks](https://github.com/nbats/FMHYedit/pull/307)
 * CNET / Download.com / ZDNET / Softonic - History of [adware](https://www.reddit.com/r/software/comments/9s7wyb/whats_the_deal_with_sites_like_cnet_softonic_and/e8mtye9/) / [2](https://ibb.co/tLc5KR7)
-* IObit - History of [Adware](https://www.malwarebytes.com/blog/detections/pup-iobit) and shady products.
+* IObit - History of [Adware](https://www.malwarebytes.com/blog/detections/pup-iobit) and shady products
 
 ***
 
 ### Torrent Sites / Clients
 
 * **Note** - Torrent aggregators pull results from multiple sites, so it's recommended to avoid using them for software and games.
+
+***
 
 * Kickass Torrents - Official site is long gone, all that remain are sketchy copycats
 * VSTorrent - Caught with [malware](https://redd.it/x66rz2)
