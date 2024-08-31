@@ -111,7 +111,7 @@
 
 ## ▷ Game Launchers
 
-* ⭐ **[Playnite](https://playnite.link/)** - Game Library / Launcher / [Extensions](https://playnite.link/addons.html) / [Achievements](https://github.com/Lacro59/playnite-successstory-plugin) / [Auto-Crack](https://github.com/turusudiro/SteamEmuUtility) / [Discord](https://discord.com/invite/BrtABqe)
+* ⭐ **[Playnite](https://playnite.link/)** - Game Library / Launcher / [Extensions](https://playnite.link/addons.html) / [Achievements](https://github.com/Lacro59/playnite-successstory-plugin) / [Discord](https://discord.com/invite/BrtABqe)
 * ⭐ **[GoG Galaxy](https://www.gog.com/galaxy)** or **[Project GLD](https://github.com/Y0URD34TH/Project-GLD/)** - Game Libraries / Launchers
 * [Launchbox](https://www.launchbox-app.com/) - Retro / Console Game Library / Launcher
 * [GameHUB Launcher](https://www.deviantart.com/not-finch/art/GameHUB-launcher-2-for-Rainmeter-785369648) - Rainmeter Game Launcher

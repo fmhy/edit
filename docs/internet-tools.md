@@ -636,6 +636,7 @@
 * [Hurl](https://github.com/U-C-S/Hurl) - Select Browser on URL Clicks
 * [Ruffle](https://ruffle.rs/) - Flash Emulator
 * [Flash 32 Download](https://pastebin.com/CTLS5EVy) or [Clean Flash Builds](https://github.com/darktohka/clean-flash-builds/) - Flash Downloads
+* [Edge_Removal.bat](https://github.com/AveYo/fox/blob/main/Edge_Removal.bat) or [MSEdgeRedirect](https://github.com/rcmaehl/MSEdgeRedirect) - Redirect Microsoft Edge
 * [Edge-Remover](https://rentry.co/uninstall_edge) - Microsoft Edge Removal Script
 * [WhatIsMyBrowser](https://developers.whatismybrowser.com/) - User Agent Archive
 * [Irchiver](https://irchiver.com/) - Automatic Web Browser Screenshots

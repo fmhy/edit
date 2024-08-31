@@ -156,7 +156,7 @@
 * ⭐ **[age](https://github.com/FiloSottile/age)** - File Encrypter
 * [Picocrypt](https://github.com/Picocrypt/Picocrypt) - Lightweight File Encrypter 
 * [Hat](https://hat.sh/) - Browser-Based Encrypter 
-* [Kryptor](https://www.kryptor.co.uk/) -  File Encrypter 
+* [Kryptor](https://www.kryptor.co.uk/) -  File Encrypter
 
 ***
 
@@ -217,9 +217,9 @@
 
 ## ▷ Data Automation
 
-* ⭐ **[Advanced Renamer](https://www.advancedrenamer.com/)** or **[Bulk Rename Utility](https://www.bulkrenameutility.co.uk/)** - Bulk Renamers
+* ⭐ **[Advanced Renamer](https://www.advancedrenamer.com/)** or [Bulk Rename Utility](https://www.bulkrenameutility.co.uk/) - Bulk Renamers
 * [MediaMonkey](https://www.mediamonkey.com/) - Media Organizer
-* [MediaInfo](https://mediaarea.net/en/MediaInfo) - Media File Analysis  / [Online](https://mediaarea.net/MediaInfoOnline)
+* [MediaInfo](https://mediaarea.net/en/MediaInfo) - Media File Analysis / [Online](https://mediaarea.net/MediaInfoOnline)
 * [tinyMediaManager](https://www.tinymediamanager.org/) or [MediaElch](https://www.kvibes.de/mediaelch/) - Media Collection Managers
 * [Bruji](https://www.bruji.com/) - Media Cataloging Software Suite
 * [FileBot](https://www.filebot.net/) - Media File Renaming

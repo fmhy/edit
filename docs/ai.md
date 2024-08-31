@@ -12,10 +12,8 @@
 * ⭐ **[ChatGPT](https://chatgpt.com/)** - GPT-4o Chatbot / [Discord](https://discord.com/invite/openai)
 * ⭐ **[wrtn](https://wrtn.ai/)** - GPT-4 Chatbot / [Android](https://play.google.com/store/apps/details?id=com.wrtn.app) / [iOS](https://apps.apple.com/us/app/%EB%A4%BC%ED%8A%BC-%EB%AA%A8%EB%91%90%EB%A5%BC-%EC%9C%84%ED%95%9C-ai-%ED%8F%AC%ED%84%B8/id6448556170) / Ask for English
 * ⭐ **[Claude](https://claude.ai/)** - Anthropic's Chatbot / Account Required
-* ⭐ **[sdk.vercel](https://sdk.vercel.ai/)** - Multiple Chatbots
 * ⭐ **[groq](https://groq.com/)** - Llama 3 and Mixtral Chatbots
 * ⭐ **[Not Diamond](https://chat.notdiamond.ai/)** - Multiple Chatbots
-* ⭐ **[Tune AI](https://chat.tune.app/)** - Multiple Chatbots / 24 Msgs per Chat / Google Login / [Discord](https://discord.gg/EkH7px4JNW)
 * ⭐ **[Gemini](https://gemini.google.com/)** or [Gemma](https://github.com/google/gemma.cpp), [2](https://ai.google.dev/gemma/) - Google's Chatbot
 * ⭐ **[LMSYS Chat](https://lmarena.ai/)** - Chat and Compare Multiple Chatbots
 * ⭐ **[ChatPDF](https://www.chatpdf.com/)** or [Ask Your PDF](https://askyourpdf.com/) - Turn Books into Chatbots
@@ -24,8 +22,9 @@
 * [LLM Playground](https://llmplayground.net/) - Multiple Chatbots / 1000 word limit / [API](https://api.discord.rocks/) / [Discord](https://discord.com/invite/q55gsH8z5F)
 * [OAICHAT](https://chat.oaichat.cc/), [2](https://chat.sorapi.dev/), [3](https://ffa.chat/) - GPT-4o / Multiple Chatbots
 * [GPT4o.so](https://gpt4o.so/app) - GPT-4o
-* [Zhucn](https://zhucn.org/) - GPT-4o Mirror Pool
-* [Kelaode](https://kelaode.ai/) - Claude Mirror Pool / Set 8 Letter Password 
+* [sdk.vercel](https://sdk.vercel.ai/) - Multiple Chatbots
+* [Zhucn](https://zhucn.org/) - GPT-4o Mirror Pool / [Guide](https://rentry.org/mirrorpools)
+* [Kelaode](https://kelaode.ai/) - Claude Mirror Pool / Set 8 Letter Password / [Guide](https://rentry.org/mirrorpools)
 * [LibreChat](https://librechat.ai/) - Multiple Chatbots / [Discord](https://discord.librechat.ai/)
 * [Mistral](https://chat.mistral.ai/chat) - Multiple Chatbots / Account Required
 * [HuggingChat](https://huggingface.co/chat/) - Open-Source Chatbots
@@ -33,6 +32,7 @@
 * [lollms-webui](https://github.com/ParisNeo/lollms-webui) - Multiple Chatbots
 * [feyn](https://feyn.chat/) - GPT-4o / Multiple Chatbots / # Required
 * [MagAI](https://rentry.org/freegpt4withmagai) - Multiple Chatbots
+* [Tune AI](https://chat.tune.app/) - Multiple Chatbots / 24 Msgs per Chat / [Discord](https://discord.gg/EkH7px4JNW)
 * [freegpt4](https://rentry.org/freegpt4) - Free GPT-4 Methods
 * [Meta AI](https://www.meta.ai/) - Llama 3 Chatbot
 * [NVIDIA NIM](https://build.nvidia.com/) - Llama 3

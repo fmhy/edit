@@ -178,12 +178,12 @@
 ## ▷ Stream Sync
 
 * ⭐ **[SyncPlay](https://syncplay.pl/)** - App
-* ⭐ **[Watch2Gether](https://w2g.tv/)** - Online
+* ⭐ **[Watch2Gether](https://w2g.tv/)** - Online Player
 * ⭐ **[SyncWatch](https://github.com/Semro/syncwatch)** - Online Extension
-* ⭐ **[Kosmi](https://kosmi.io/)** - Online 
+* ⭐ **[Kosmi](https://kosmi.io/)** - Online Player
 * ⭐ **[neko](https://neko.m1k1o.net/)** / [GitHub](https://github.com/m1k1o/neko) - Docker Virtual Browser
 * [HyperBeam](https://hyperbeam.com/) / [VIP](https://greasyfork.org/en/scripts/457795) - Virtual Computer Embed
-* [Trast](https://trast.live/),  [OpenTogetherTube](https://opentogethertube.com/), [TurtleTV](https://turtletv.app/) or [twoseven](https://twoseven.xyz/) - Online
+* [Trast](https://trast.live/),  [OpenTogetherTube](https://opentogethertube.com/), [TurtleTV](https://turtletv.app/) or [twoseven](https://twoseven.xyz/) - Online Player
 * [bear.cat](https://bear.cat/) - Online Virtual Machine / Allows NSFW
 * [Metastream](https://getmetastream.com/) - Online Extension
 * [Caracal Club](https://caracal.club/) - Online Video Player
@@ -412,6 +412,7 @@
 * [VideoCoPilot](https://www.videocopilot.net/)
 * [VFXmed](https://www.vfxmed.com/)
 * [flex_cg_vfx](https://t.me/flex_cg_vfx)
+* [Download Pirate](https://www.downloadpirate.com/) - ** Use Adblock / Avoid Fake Download Buttons** / [Discord](https://discord.gg/ucTvVtBz9Z)
 * [ShareAE](https://www.shareae.com/) - After Effects
 * [HunterAE](https://hunterae.com/) - After Effects
 * [Visual Effects Pack](https://t.me/visual_effects_pack) - After Effects

@@ -562,7 +562,7 @@
 
 * ↪️ **[Text Editors / Notes](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools#wiki_.25BA_text_editors_.2F_notes)**
 * ⭐ **[Visual Studio Code](https://code.visualstudio.com/)**
-* ⭐ **[VSCodium](https://vscodium.com/)** or [vscode.dev](https://vscode.dev/), [2](https://cs50.dev/) - Code Editor / VSC Fork
+* ⭐ **[VSCodium](https://vscodium.com/)** - Code Editor
 * ⭐ **[JetBrains](https://jetbrains.com/)** - [License Server](https://github.com/crazy-max/docker-jetbrains-license-server) / [Free Method](https://rentry.co/FMHYBase64#jetbrain-ide) / [Trial Reset](https://rentry.co/FMHYBase64#jetbrains-reset)
 * ⭐ **[Neovim](https://neovim.io/)** - Code Editor
 * ⭐ **[Lite XL](https://lite-xl.com/)** - Code Editor / [Plugin Manager](https://github.com/lite-xl/lite-xl-plugin-manager) / [Plugins](https://github.com/lite-xl/lite-xl-plugins) / [Themes](https://github.com/lite-xl/lite-xl-colors)
@@ -573,6 +573,7 @@
 * [Bluefish](https://bluefish.openoffice.nl/index.html) - [Templates](https://templates.openoffice.org/en)
 * [CudaText](https://cudatext.github.io/) - Code Editor
 * [Lapce](https://lapce.dev/) - Code Editor
+* [vscode.dev](https://vscode.dev/), [2](https://cs50.dev/) - Code Editor
 * [IDX](https://idx.google.com/) - Code Editor
 * [SpaceVim](https://spacevim.org/) - Code Editor
 * [zed.dev](https://zed.dev/) - Code Editor

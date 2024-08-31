@@ -358,7 +358,7 @@
 
 * ↪️ **[Text Editors / To-Do](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_android_note_apps)**
 * ↪️ **[Android Code Editors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/dev-tools#wiki_.25B7_android_code_editors)**
-* ⭐ **[MacroDroid](https://rentry.co/FMHYBase64#macrodroid)** or [Automate](https://llamalab.com/automate/)  / [Subreddit](https://www.reddit.com/r/AutomateUser/) - Android Automation
+* ⭐ **[MacroDroid](https://rentry.co/FMHYBase64#macrodroid)** / [Subreddit](https://www.reddit.com/r/macrodroid/) or [Automate](https://llamalab.com/automate/)  / [Subreddit](https://www.reddit.com/r/AutomateUser/) - Android Automation
 * ⭐ **[OpenCalc](https://github.com/Darkempire78/OpenCalc)**, [Calculator++](https://play.google.com/store/apps/details?id=org.solovyev.android.calculator), [Calc 991](https://play.google.com/store/apps/details?id=advanced.scientific.calculator.calc991.plus), [microMathematics](https://github.com/mkulesh/microMathematics) or [yetCalc](https://github.com/Yet-Zio/yetCalc) - Calculators
 * [Tooly](https://play.google.com/store/apps/details?id=com.yousx.thetoolsapp) - Multi-Tool App
 * [LightCut](https://play.google.com/store/apps/details?id=com.lightcut.videoeditor), [open-video-editor](https://github.com/devhyper/open-video-editor) or [Vaux](https://play.google.com/store/apps/details?id=com.vaux.vaux_editor) - Video Editors
@@ -1191,7 +1191,7 @@ https://github.com/Akylas/alpimaps
 * [StarFiles](https://starfiles.co/) - App Library
 * [AppStore](https://t.me/iOSAppsFree) - Tweaked Apps
 * [iOSObscura](https://archive.org/details/iOSObscura) - Old App Archive
-* [TestFlight](https://testflight.apple.com/) - Test Beta Apps / 
+* [TestFlight](https://testflight.apple.com/) - Test Beta Apps
 * [AppleCensorship](https://applecensorship.com/) - Censored App Store Apps
 * [decrypt.day](https://decrypt.day/) - Decrypt iOS Apps
 

@@ -791,7 +791,6 @@
 * [JointBilateral](https://github.com/Artoriuz/glsl-joint-bilateral)
 * [KrigBilateral ](https://gist.github.com/igv/a015fc885d5c22e6891820ad89555637)
 * [ArtCNN](https://github.com/Artoriuz/ArtCNN)
-* [ArtCNN Chroma](https://github.com/Artoriuz/ArtCNN/)
 * [SSimSuperRes](https://gist.github.com/igv/2364ffa6e81540f29cb7ab4c9bc05b6b)
 * [SSimDownscaler](https://gist.github.com/igv/36508af3ffc84410fe39761d6969be10)
 * [Pixel Clipper](https://github.com/Artoriuz/glsl-pixel-clipper)
