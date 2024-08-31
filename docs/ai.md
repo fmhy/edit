@@ -345,6 +345,7 @@
 * [The Other](https://rentry.org/59xed3), [DummyLoRA](https://rentry.org/dummylora), [ezlora](https://rentry.org/ezlora), [Dreambooth](https://rentry.org/2chAI_LoRA_Dreambooth_guide_english), [ora_train](https://rentry.org/lora_train) - SD LoRA Guides
 * [SafeTensorsGuide](https://rentry.org/safetensorsguide) - How-to Convert .ckpt to .safetensors
 * [DummyControlNet](https://rentry.org/dummycontrolnet) - ControlNet Guide
+* [Midjourney Sref Library](https://sref-midjourney.com) - Collection of --sref codes for Midjourney
 
 ***
 
