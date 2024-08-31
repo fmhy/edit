@@ -121,7 +121,7 @@
 * ⭐ **[Security / Antivirus Multireddit](https://www.reddit.com/user/goretsky/m/security/)** - Reddit Communities
 * [BleepingComputer Forums](https://www.bleepingcomputer.com/forums/f/22/virus-trojan-spyware-and-malware-removal-help/), [Malwarebytes Forums](https://forums.malwarebytes.com/forum/7-windows-malware-removal-help-support/) or [Sysnative Forums](https://www.sysnative.com/forums/forums/security-arena.66/) - Malware Removal Forums / [Note](https://pastebin.com/0mrmPXgz)
 * [ESET](https://rentry.co/FMHYBase64#eset) - Antivirus
-* [Dangerzone](https://dangerzone.rocks/) / [GitHub](https://github.com/freedomofpress/dangerzone) - Convert dangerous PDFs to safe PDFs
+* [Dangerzone](https://dangerzone.rocks/) - Convert dangerous PDFs to safe PDFs  / [GitHub](https://github.com/freedomofpress/dangerzone)
 * [ANY.RUN](https://any.run/), [Triage](https://tria.ge/) or [Cuckoo](https://cuckoo.cert.ee/) - Online Sandboxes
 * [PE-sieve](https://github.com/hasherezade/pe-sieve) - Process Scanner
 * [No More Ransom](https://www.nomoreransom.org/en/decryption-tools.html) - Ransomware Decryption Tools
@@ -176,7 +176,7 @@
 * [/r/Privacy](https://reddit.com/r/privacy), [/r/TheHatedOne](https://www.reddit.com/r/thehatedone) or [/r/privatelife/](https://www.reddit.com/r/privatelife/) - Privacy Discussion, News & Tools
 * [Facebook Doc Stories](https://docs.google.com/document/d/1QYqmJsifBjf_xA23Ea7AdeMFyjGWaF_dvhi5EZdNUf4/edit) - Facebook Malpractices Index
 * [Privacy.com](https://privacy.com/) - Make Secure Payments / US only
-* [image-scrubber](https://everestpipkin.github.io/image-scrubber) / [GitHub](https://github.com/everestpipkin/image-scrubber) - Anonymize Protest Photos
+* [image-scrubber](https://everestpipkin.github.io/image-scrubber) - Anonymize Protest Photos / [GitHub](https://github.com/everestpipkin/image-scrubber)
 * [Mobile Verification Toolkit](https://www.privacyguides.org/en/device-integrity/) - Test for Potential Compromises on Android / iOS
 * [GoFOSS](https://gofoss.net/) - Why You Should Use FOSS Alternatives
 * [If An Agent Knocks](https://docs.google.com/document/d/176Yds1p63Q3iaKilw0luChMzlJhODdiPvF2I4g9eIXo/) - Best Practices if Contacted by Agents
@@ -290,7 +290,7 @@
 * [AuthMe](https://authme.levminer.com/) - Windows / Mac / Linux 2FA / [GitHub](https://github.com/Levminer/authme)
 * [Tauthy](https://github.com/pwltr/tauthy) - Windows / Mac / Linux 2FA
 * [Yubioath](https://developers.yubico.com/yubioath-flutter/) - Windows / Android 2FA / YubiKeys
-* [Protecc](https://apps.microsoft.com/store/detail/protecc-2fa-client/9PJX91M06TZS) / [GitHub](https://github.com/FireCubeStudios/Protecc) - Windows 2FA
+* [Protecc](https://apps.microsoft.com/store/detail/protecc-2fa-client/9PJX91M06TZS) - Windows 2FA / [GitHub](https://github.com/FireCubeStudios/Protecc)
 * [OTPClient](https://github.com/paolostivanin/OTPClient) - Linux 2FA
 * [2FAuth](https://docs.2fauth.app/) - Web App 2FA / Self-hosted
 * [Sentinel](https://getsentinel.io/) - iOS / Mac 2FA
@@ -335,9 +335,9 @@
 * [GameIndustry](https://gameindustry.eu/en/) - Block Trackers in Desktop / Mobile Games
 * [BrowserLeaks](https://browserleaks.com/), [Do I leak?](https://www.top10vpn.com/tools/do-i-leak/) or [IPLeak.net](https://ipleak.net) - IP Leak Tests
 * [JShelter](https://jshelter.org/) - Prevent Fingerprinting / [Warning](https://github.com/arkenfox/user.js/issues/1729#issuecomment-1739135479)
-* [Extension Detector](https://z0ccc.github.io/extension-detector) / [GitHub](https://github.com/z0ccc/extension-detector) - Extension Fingerprinting Tests
+* [Extension Detector](https://z0ccc.github.io/extension-detector) - Extension Fingerprinting Tests / [GitHub](https://github.com/z0ccc/extension-detector)
 * [NoScriptFingerprint](https://noscriptfingerprint.com/) - Non-JavaScript Fingerprinting
-* [Language Switcher](https://chromewebstore.google.com/detail/locale-switcher/kngfjpghaokedippaapkfihdlmmlafcc) / [GitHub](https://github.com/locale-switcher/locale-switcher), [2](https://addons.mozilla.org/en-US/firefox/addon/languageswitch) - Change Language Identifier
+* [Language Switcher](https://chromewebstore.google.com/detail/locale-switcher/kngfjpghaokedippaapkfihdlmmlafcc), [2](https://addons.mozilla.org/en-US/firefox/addon/languageswitch) - Change Language Identifier / [GitHub](https://github.com/locale-switcher/locale-switcher)
 * [AnonymousRedirect](https://adguardteam.github.io/AnonymousRedirect/) - Anonymize Links
 * [Simple Opt Out](https://simpleoptout.com/) - Turn off Targeted Ads
 * [AdNauseam](https://adnauseam.io/) - Adblocker / Fakes Clicks to Confuse Tracking
@@ -363,7 +363,7 @@
 * [Whoogle](https://benbusby.com/projects/whoogle-search/) - Google Search Frontend
 * [Lingva Translate](https://github.com/TheDavidDelta/lingva-translate) - Google Translate Frontend
 * [Scribe](https://sr.ht/~edwardloveall/Scribe/), [medium.rip](https://medium.rip/) or [LibMedium](https://libmedium.batsense.net/) - Medium Frontends
-* [Quetre](https://quetre.iket.me) / [GitHub](https://github.com/zyachel/quetre) - Quora Frontend
+* [Quetre](https://quetre.iket.me) - Quora Frontend / [GitHub](https://github.com/zyachel/quetre)
 * [Rimgo](https://codeberg.org/rimgo/rimgo) - Imgur Frontend / [Instances](https://rimgo.codeberg.page/), [2](https://codeberg.org/rimgo/instances)
 * [Binternet](https://github.com/Ahwxorg/Binternet) - Pinterest Frontend
 * [Pixivfe](https://codeberg.org/VnPower/pixivfe) - Pixiv Frontend
@@ -435,9 +435,9 @@
 * [WireHole](https://github.com/IAmStoxe/wirehole) - Wireguard VPN with Adblocking Capabilities / [User-Interface](https://github.com/10h30/wirehole-ui)
 * [Self Hosted VPN](https://github.com/rajannpatel/Pi-Hole-on-Google-Compute-Engine-Free-Tier-with-Full-Tunnel-and-Split-Tunnel-Wireguard-VPN-Configs), [VpnHood](https://github.com/vpnhood/VpnHood), [n2n](https://github.com/ntop/n2n), [ipsec-vpn](https://github.com/hwdsl2/setup-ipsec-vpn) or [Outline](https://getoutline.org/) - Self-Hosted VPN
 * [OpenConnect](https://www.infradead.org/openconnect/) - SSL VPN / [GUI](https://openconnect.github.io/openconnect-gui/)
-* [Gluetun](https://hub.docker.com/r/qmcgaw/gluetun) / [GitHub](https://github.com/qdm12/gluetun) - Tunnel your Docker containers through a VPN
+* [Gluetun](https://hub.docker.com/r/qmcgaw/gluetun) - Tunnel your Docker containers through a VPN / [GitHub](https://github.com/qdm12/gluetun)
 * [Pritunl](https://pritunl.com/) - VPN Server
-* [Algo VPN](https://blog.trailofbits.com/2016/12/12/meet-algo-the-vpn-that-works/) / [GitHub](https://github.com/trailofbits/algo) - Cloud VPN
+* [Algo VPN](https://blog.trailofbits.com/2016/12/12/meet-algo-the-vpn-that-works/) - Cloud VPN / [GitHub](https://github.com/trailofbits/algo)
 * [Amnezia](https://amnezia.org/) - Self-hosted VPN
 * [VPNHotspot](https://github.com/Mygod/VPNHotspot) - Share VPN Connection over Hotspot
 
@@ -461,7 +461,7 @@
 * [Proxifier](https://www.proxifier.com/) - Add Proxy Functionality to Apps / [Keys](https://rentry.co/FMHYBase64#proxifier-keys)
 * [wireproxy](https://github.com/pufferffish/wireproxy) - Use VPNs as proxies
 * [Hiddify](https://hiddify.com/) - Auto-Proxy Client
-* [NginxProxyManager](https://nginxproxymanager.com) / [GitHub](https://github.com/NginxProxyManager/nginx-proxy-manager) - Self-Hosted Proxy Server
+* [NginxProxyManager](https://nginxproxymanager.com) - Self-Hosted Proxy Server / [GitHub](https://github.com/NginxProxyManager/nginx-proxy-manager)
 * [Shadowsocks](https://shadowsocks.org/) - Proxy Client and Self-Hosted Server / [Free Servers](https://github.com/ruanfei/cross), [2](https://github.com/vxiaov/free_proxies), [3](https://shadowmere.akiel.dev/) / [Client](https://github.com/shadowsocks/shadowsocks-windows)
 * [Hysteria](https://v2.hysteria.network/) - Proxy Client and Self-Hosted Server
 * [Xray](https://github.com/XTLS/Xray-core) - Proxy Client and Self-Hosted Server / [Telegram](https://t.me/projectXray)
