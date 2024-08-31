@@ -85,7 +85,7 @@ No, don't do that. Windows Defender is more than enough to keep you safe, but if
 ### Antivirus
 
 * **[VirusTotal](https://www.virustotal.com)** - Test the safety of files / [Results Guide](https://rentry.co/VTGuide)
-* **[Malwarebytes Premium](https://rentry.co/FMHYBase64#malwarebytes-prem)** - Real-time anti-malware software / Premium
+* **[Malwarebytes Premium](https://rentry.co/FMHYBase64#malwarebytes-prem)**, [2](https://www.malwarebytes.com/) - Real-time anti-malware software / Premium
 
 !!!note Antivirus software is usually bloatware. Stick to trusted sources for games and software and you will be fine with nothing but Windows Defender and an occasional Malwarebytes scan. Remember to always scan software before installing it with tools like **[VirusTotal](https://www.virustotal.com/)** or use it in **[Sandboxie](https://rentry.co/sandboxie-guide)**.
 
