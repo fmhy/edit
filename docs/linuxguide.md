@@ -146,7 +146,7 @@
 * [GammaStep](https://gitlab.com/chinstrap/gammastep) - Adjust Screen Temperature
 * [Weylus](https://github.com/H-M-H/Weylus) - Use Mobile Device as Trackpad
 * [AudioSource](https://github.com/gdzx/audiosource) - Use Mobile Device as Microphone
-* [Ollama](https://ollama.ai/) / [Discord](https://discord.gg/ollama) - Run LLMs
+* [Ollama](https://ollama.ai/) - Run LLMs / [Discord](https://discord.gg/ollama)
 * [nyrna](https://nyrna.merritt.codes) - Suspend Apps / Games
 * [Solaar](https://github.com/pwr-Solaar/Solaar) - Logitech Device Manager
 * [bluetuith](https://github.com/darkhz/bluetuith) - Bluetooth Manager
@@ -296,7 +296,7 @@ Linux Gaming Guide
 * [GameScope](https://github.com/ValveSoftware/gamescope) - Steam Session Compositing Window Manager
 * [SamRewritten](https://github.com/PaulCombal/SamRewritten) - Steam Achievement Manager
 * [Steam for Linux](https://github.com/ValveSoftware/steam-for-linux) - Steam Linux Beta Issue Tracker
-* [HeroicGamesLauncher](https://heroicgameslauncher.com/) / [GitHub](https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher) - Epic Games Launcher
+* [HeroicGamesLauncher](https://heroicgameslauncher.com/) - Epic Games Launcher / [GitHub](https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher)
 * [Minigalaxy](https://sharkwouter.github.io/minigalaxy/) - GOG Client
 * [Limo](https://github.com/limo-app/limo) - Nexus Mods Manager for Linux
 * [CWordle](https://github.com/velorek1/cwordle) - Wordle in Unix Terminal
@@ -309,7 +309,7 @@ Linux Gaming Guide
 * [Prism43](https://github.com/DomHeadroom/Prism43) - Prism Launcher / Unlocker
 * [mcpelauncher](https://github.com/minecraft-linux/mcpelauncher-manifest) - Minecraft Android Bedrock Edition Launcher for Linux
 * [VinegarHQ](https://vinegarhq.org/) - Bootstrapper for Roblox / [Studio Only](https://vinegarhq.org/Home/rol_faq.html) / [Sober](https://sober.vinegarhq.org/)
-* [Anime Game Launcher](https://github.com/an-anime-team/an-anime-game-launcher) / [Discord](https://discord.gg/ck37X6UWBp) - Genshin Impact Launcher
+* [Anime Game Launcher](https://github.com/an-anime-team/an-anime-game-launcher) - Genshin Impact Launcher / [Discord](https://discord.gg/ck37X6UWBp)
 * [among-sus](https://git.sr.ht/~martijnbraam/among-sus) - Play Among Us in your Terminal (recreation)
 * [Gameboy.live](https://github.com/HFO4/gameboy.live) - Terminal Game Boy Emulator
 * [StarryDex](https://github.com/mariinkys/starrydex) - Pokedex App
@@ -332,7 +332,7 @@ Linux Gaming Guide
 * [JShielder](https://github.com/Jsitech/JShielder) - Hardening Script for Linux Servers
 * [SShuttle](https://github.com/sshuttle/sshuttle) - Proxy
 * [Lynis](https://github.com/CISOfy/lynis) - Linux Security Auditing Tool
-* [Lockigest](https://elma.dev/work/lockigest/) / [GitHub](https://github.com/elmsec/lockigest) - Screen Locker
+* [Lockigest](https://elma.dev/work/lockigest/) - Screen Locker / [GitHub](https://github.com/elmsec/lockigest)
 * [Mistborn](https://gitlab.com/cyber5k/mistborn) - Manage Cloud Security Apps
 * [OpenSnitch](https://github.com/evilsocket/opensnitch) or [gufw](https://github.com/costales/gufw) - Linux Firewalls
 * [Tracee](https://aquasecurity.github.io/tracee/latest) - Runtime Security and Forensics
@@ -345,9 +345,9 @@ Linux Gaming Guide
 * [Howdy](https://github.com/boltgolt/howdy) - Linux Facial Authentication
 * [ShuffleStacks](https://shufflecake.net/) - Create Hidden Volumes
 * [Collision](https://flathub.org/apps/details/dev.geopjr.Collision) - Check File Hashes
-* [WhoAmI Project](https://owerdogan.github.io/whoami-project) / [GitHub](https://github.com/owerdogan/whoami-project) - Privacy / Anonymity Tool
+* [WhoAmI Project](https://owerdogan.github.io/whoami-project) - Privacy / Anonymity Tool / [GitHub](https://github.com/owerdogan/whoami-project)
 * [Yubikey Full Disk Encryption](https://github.com/agherzan/yubikey-full-disk-encryption) - Use YubiKey to unlock a LUKS Partition
-* [DNSWarden](https://dnswarden.com/) / [GitHub](https://github.com/bhanupratapys/dnswarden) - DNS Adblocking
+* [DNSWarden](https://dnswarden.com/) - DNS Adblocking / [GitHub](https://github.com/bhanupratapys/dnswarden)
 * [Firejail](https://firejail.wordpress.com/) or [Bubblewrap](https://github.com/containers/bubblewrap) - Sandboxing tools
 * [GoogleTeller](https://github.com/berthubert/googerteller) - Google Tracking Notifications
 
@@ -532,7 +532,7 @@ Linux Gaming Guide
 * [Whisky](https://getwhisky.app/) - Wine Wrapper
 * [SwiftUI Win11](https://jinxiansen.github.io/Windows11/) - Windows 11 Desktop Client for macOS
 * [OrbStack](https://orbstack.dev/) - Docker Client
-* [Cider](https://cider.sh/) / [GitHub](https://github.com/ciderapp/Cider) - Audio Players / Free Classic Version
+* [Cider](https://cider.sh/) - Audio Players / Free Classic Version / [GitHub](https://github.com/ciderapp/Cider)
 * [Alfred Spotify Mini Player](https://alfred-spotify-mini-player.com/) - Spotify Mini Player
 * [SoundSeer](https://github.com/jonathangarelick/SoundSeer) - Spotify in Menu Bar
 * [Nuage](https://github.com/lbrndnr/nuage-macos) - Soundcloud Client

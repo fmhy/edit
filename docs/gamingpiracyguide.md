@@ -10,7 +10,7 @@
 
 # ► Download Games
 
-* 🌐 **[/r/PiratedGames Mega](https://rentry.org/pgames)** / [Discord](https://discord.gg/dZWwhUy) - Game Piracy Index 
+* 🌐 **[/r/PiratedGames Mega](https://rentry.org/pgames)** - Game Piracy Index / [Discord](https://discord.gg/dZWwhUy)
 * 🌐 **[CS.RIN Mega](https://cs.rin.ru/forum/viewtopic.php?f=10&t=95461)** - Game Piracy Index 
 * 🌐 **[privateersclub](https://megathread.pages.dev/)** - Game Piracy Index / [Discord](https://discord.gg/jz8dUnnD6Q)
 * 🌐 **[Wotaku](https://wotaku.wiki/games)** - Otaku Games Index / [Discord](https://discord.gg/vShRGx8ZBC)
@@ -162,7 +162,7 @@
 ## ▷ Virtual Reality
 
 * ⭐ **[VRPirates](https://vrpirates.wiki/)** - VR Piracy Wiki / [Telegram](https://t.me/VRPirates) / [Discord](https://discord.com/invite/DcfEpwVa4a)
-* ⭐ **[ARMGDDN Browser](https://cs.rin.ru/forum/viewtopic.php?f=14&t=140593)** / [Telegram](https://t.me/ARMGDDNGames) - VR Games
+* ⭐ **[ARMGDDN Browser](https://cs.rin.ru/forum/viewtopic.php?f=14&t=140593)** - VR Games / [Telegram](https://t.me/ARMGDDNGames)
 * [r/QuestPiracy](https://www.reddit.com/r/QuestPiracy/) - Oculus Quest Piracy
 * [SideQuest](https://sidequestvr.com/) - VR Sideloading Platform
 * [VRFavs](https://www.vrfavs.com/) - Virtual Reality Resources
@@ -386,7 +386,7 @@
 * [Marble Blast Gold Web](https://marbleblast.vaniverse.io/) - Marble Blast Gold in Browser
 * [Tensor Trust](https://tensortrust.ai/) - AI Prompting Multiplayer Skill Game
 * [Rooms](https://rooms.xyz/) - Room Design Game / [Discord](https://discord.gg/rooms)
-* [fsh.zone](https://fsh.zone/) / [Discord](https://discord.com/invite/FKEzJSf) - Fishing Games
+* [fsh.zone](https://fsh.zone/) - Fishing Games / [Discord](https://discord.com/invite/FKEzJSf)
 * [Haxball](https://www.haxball.com/) - Physics-Based Soccer
 * [Mexican Train](https://mexicantrain.online/) - Domino Train Game
 * [racing-game](https://racing.pmnd.rs/) - Driving Game / [GitHub](https://github.com/pmndrs/racing-game) / [Discord](https://discord.gg/dQW7fDmaAG)
