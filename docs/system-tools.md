@@ -371,6 +371,7 @@
 * [stopupdates10](https://greatis.com/stopupdates10/), [InControl](https://www.grc.com/incontrol.htm) or [windows-update-blocker](https://www.sordum.org/9470/windows-update-blocker-v1-7/) - Enable / Disable Windows 10 Updates
 * [LegacyUpdate](https://legacyupdate.net/) - Fix Windows Updates for Legacy Editions
 * [Extended Win 7 Updates](https://forums.mydigitallife.net/threads/bypass-windows-7-extended-security-updates-eligibility.80606) - Extended Windows 7 Updates
+* [VxKex](https://rentry.co/VxKexInfo) - Run unsupported programs on Windows 7 / [Compatibility List](https://rentry.co/VxKexCompatibilityList)
 * [WUReset](https://wureset.com/) - Reset Windows Update Components
 * [UUP Dump](https://uupdump.net/) - Download Unified Update Platform Files
 * [OcxDump](https://ocxdump.com/) - .ocx Files
