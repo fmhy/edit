@@ -6,7 +6,7 @@ description: The largest collection of free stuff on the internet!
 hero:
   name: freemediaheckyeah
   tagline: The largest collection of free stuff on the internet!
-  prelink:
+  announcement:
     title: September Updates 🍂
     link: /posts/sept-2024
   image:
