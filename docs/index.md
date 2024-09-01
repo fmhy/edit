@@ -7,8 +7,8 @@ hero:
   name: freemediaheckyeah
   tagline: The largest collection of free stuff on the internet!
   prelink:
-    title: Goodbye Fmovies, and thank you 🤍
-    link: /posts/Goodbye-Fmovies
+    title: September Updates 🍂
+    link: /posts/sept-2024
   image:
     src: /test.png
     alt: FMHY Icon
