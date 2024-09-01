@@ -647,6 +647,7 @@
 * [OCR.SPACE](https://ocr.space/) - Online OCR
 * [2OCR](https://2ocr.com/) - Online OCR
 * [OnlineOCR](https://onlineocr.org/) - Online OCR
+* [OCRify](https://ocrify.com) - Online OCR
 * [NewOCR](https://www.newocr.com/) - Online OCR
 * [Extract Text from Image](https://brandfolder.com/workbench/extract-text-from-image) - Online OCR
 * [ImageToText](https://www.imagetotext.info/) - Online OCR
