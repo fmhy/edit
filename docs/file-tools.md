@@ -77,38 +77,35 @@
 
 ## ▷ File Converters
 
+> [!info]
+> Some of these sites have max file size limits, they're listed at the end of the line.
+
 * 🌐 **[.to Sites](https://rentry.co/tosites)** - File Converters Index
 * ⭐ **[File Converter](https://file-converter.io/)** / [GitHub](https://github.com/Tichau/FileConverter) - Convert / Compress Files
-* ⭐ **[CloudConvert](https://cloudconvert.com/)** - Convert Files / 1 GB Limit
+* ⭐ **[CloudConvert](https://cloudconvert.com/)** - Convert Files / 1 GB
 * [Pandoc](https://pandoc.org/) - Document Converter
 * [ConvertCSV](https://www.convertcsv.com/) - CSV Data Conversion
 * [Encoding Converter](https://encoding-converter.netlify.app/) - File Encoding Converter
 * [Deark](https://entropymine.com/deark/) - Decode and Convert Files / [GitHub](https://github.com/jsummers/deark)
 * [text2img](https://master.ayra.ch/text2img/) - NFO Files to Image Converter
-* [FreeConvert](https://www.freeconvert.com/) - File Converter / 1 GB Limit
+* [FreeConvert](https://www.freeconvert.com/) - File Converter / 1 GB
 * [videoutils](https://www.videoutils.com/) - File Converter / 500 MB
 * [Xconvert](https://www.xconvert.com) - File Converter / 400 MB
-* [ConvertFiles](https://www.convertfiles.com/) - File Converter / 250 MB Limit
-* [Convertio](https://convertio.co/) - File Converter / 100 MB Limit
-* [AnyConvert](https://anyconv.com/) - File Converter / 100 MB Limit
-* [onlineconvertfree](https://onlineconvertfree.com/) - File Converter / 100 MB Limit
-* [MiConv](https://miconv.com/) - File Converter / 75 MB Limit
-* [Converter 365](https://www.converter365.com/) - File Converter / 50 MB Limit
-* [Aconvert](https://www.aconvert.com/) - File Converter / 40 MB Limit
-* [PPT Online](https://www.aspose.app/) - File Converter / 35 MB Limit
-* [LetsConvert](https://letsconvert.io/) - File Converter / 250 MB Limit
-* [Online Convert](https://www.online-convert.com/) - File Converter
-* [Zamzar](https://www.zamzar.com/) - File Converter
-* [Online Converter](https://www.onlineconverter.com/) - File Converter
-* [File-Coversion](https://www.files-conversion.com/) - File Converter
-* [11zon](https://www.11zon.com/) - File Converter
-* [Convert Town](https://convert.town/) - File Converter
-* [Docspal](https://www.docspal.com/) - File Converter
-* [Better Converter](https://better-converter.com/) - File Converter
-* [conversion-tool](https://www.conversion-tool.com/) - File Converter
-* [go4convert](https://go4convert.com/) - File Converter
-* [101convert](https://www.101convert.com/) - File Converter
-* [FormatSwap](https://formatswap.com/) - File Converter
+* [ConvertFiles](https://www.convertfiles.com/) - File Converter / 250 MB
+* [Convertio](https://convertio.co/) - File Converter / 100 MB
+* [AnyConvert](https://anyconv.com/) - File Converter / 100 MB
+* [onlineconvertfree](https://onlineconvertfree.com/) - File Converter / 100 MB
+* [MiConv](https://miconv.com/) - File Converter / 75 MB
+* [Converter 365](https://www.converter365.com/) - File Converters / 200 MB
+* [Aconvert](https://www.aconvert.com/) - Various Converters / 40 MB
+* [LetsConvert](https://letsconvert.io/) - Image/Audio Converter / 250 MB
+* [Online Convert](https://www.online-convert.com/) - File Converter / 7,5 minutes
+* [Zamzar](https://www.zamzar.com/) - File Converter / 200 MB
+* [Online Converter](https://www.onlineconverter.com/) - Simple Media/Unit Converter
+* [Convert Town](https://convert.town/) - Text/Image Converter
+* [Docspal](https://www.docspal.com/) - Various Converters / 50 MB Image, Documents / 200 MB Video, Archive, Audio
+* [Better Converter](https://better-converter.com/) - Text-Focused Converters / 10 MB
+* [go4convert](https://go4convert.com/) - Document Converter
 
 ***
 
