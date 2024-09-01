@@ -201,17 +201,15 @@
 
 ## ▷ Formatting / Deletion
 
-* ⭐ **[SDelete](https://learn.microsoft.com/en-us/sysinternals/downloads/sdelete)**
-* [Eraser](https://eraser.heidi.ie/)
-* [File Shredder](https://fileshredder.org/)
-* [SSuite File Shredder and Burner](https://www.ssuiteoffice.com/software/ssuitefileshredder.htm)
-* [Low Level Format](https://www.lowlevelformat.info/)
-* [Alternate File Shredder](https://www.alternate-tools.com/pages/c_fileshredder.php?lang=ENG)
-* [Permadelete](https://developerstree.github.io/permadelete/)
-* [nwipe](https://github.com/martijnvanbrummelen/nwipe)
-* [ShredOS](https://github.com/PartialVolume/shredos.x86_64)
-* [Delapp](https://github.com/differentrain/Delapp)
-* [RED](https://www.jonasjohn.de/red.htm) - Remove Empty Directories
+* ⭐ **[SDelete](https://learn.microsoft.com/en-us/sysinternals/downloads/sdelete)** - Command-line Tool For Secure File Deletion
+
+* [Eraser](https://eraser.heidi.ie/), [File Shredder](https://fileshredder.org/), [Alternate File Shredder](https://www.alternate-tools.com/pages/c_fileshredder.php?lang=ENG), [Permadelete](https://developerstree.github.io/permadelete/) or [Delapp](https://github.com/differentrain/Delapp) - File Shredding
+
+* [SSuite File Shredder and Burner](https://www.ssuiteoffice.com/software/ssuitefileshredder.htm) - File Shredder With Disk Burning
+
+* [Low Level Format](https://www.lowlevelformat.info/), [nwipe](https://github.com/martijnvanbrummelen/nwipe), [ShredOS](https://github.com/PartialVolume/shredos.x86_64) - Complete Hard Drive Erasure
+
+* [RED](https://www.jonasjohn.de/red.htm) - Remove Empty Directories  
 
 ***
 
