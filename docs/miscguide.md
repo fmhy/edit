@@ -725,6 +725,7 @@
 
 * 🌐 **[Awesome Remote Jobs](https://github.com/lukasz-madon/awesome-remote-job)** or [Established Remote](https://github.com/yanirs/established-remote) - Remote Job Resources
 * ⭐ **[Real Work From Anywhere](https://www.realworkfromanywhere.com/)** - Global "Work-From-Anywhere" Job Board
+* [JobsCollider](https://jobscollider.com/remote-jobs) - * Tens of thousands of remote jobs from over 10,000 companies and startups worldwide. *
 * [Overemployed](https://overemployed.com/) - Discuss Working 2+ Remote Jobs / [Subreddit](https://www.reddit.com/r/overemployed) / [Discord](https://discord.com/invite/a8VGhbZyek)
 * [WFH Companies India](https://github.com/abhagsain/WFH-Companies-India) - Work from Home Jobs in India
 * [/r/WorkOnline](https://www.reddit.com/r/WorkOnline/) - Online Working Subreddit
@@ -758,7 +759,6 @@
 * ↪️ **[Learn Programming](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/dev-tools#wiki_.25BA_courses_.2F_tutorials)**
 * ↪️ **[Learn Computer Science](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/dev-tools#wiki_.25B7_computer_science)**
 * [MoAiJobs](https://www.moaijobs.com/) - Find jobs in AI companies
-* [Arvrok](https://www.arvrok.com/) - Find Immersive Tech Jobs
 * [japandev](https://japan-dev.com/) - Find Developer Jobs in Japan
 * [key : values](https://www.keyvalues.com/) - Find Companies that Match your Values
 * [Authentic Jobs](https://authenticjobs.com/) - Find Developer / Designer Jobs
