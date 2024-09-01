@@ -754,6 +754,11 @@
 * ⭐ **[Mario Kart Midnight](https://wiki.tockdom.com/wiki/Mario_Kart_Midnight)** - Custom MKW Tracks / Multiplayer
 * ⭐ **[MKWRs](https://mkwrs.com)** or [MKLeaderboards](https://www.mkleaderboards.com/) - Mario Kart Records / Videos
 * ⭐ **[MKW Lobbies](https://wiimmfi.de/stats/mkw)** - Online MKW Lobbies
+* ⭐ **[CTGP Deluxe](https://www.ctgpdx.com/)** - Custom MK8DX Tracks
+* ⭐ **[CTGP-7](https://ctgp-7.github.io/)** - Custom MK7 Tracks
+* Luigi_Fan2's Stat Charts - [MK8DX](https://docs.google.com/spreadsheets/d/1g7A-38tn9UAIbB2B3sZI-MpILsS3ZS870UTVMRRxh4Q/edit?gid=0#gid=0) / [MK8](https://docs.google.com/spreadsheets/d/1kfhyD3ZQhfRG0PEZt2Z815K7wZ20R7DOqCQnTBNko0U/edit?gid=0#gid=0) - Mario Kart stats
+* [MK8DX Builder](https://mk8dxbuilder.com/) - Kart Builder
+* [MKCentral](https://www.mariokartcentral.com/mkc/) - Mario Kart Tournaments
 * [/r/MarioKart](https://www.reddit.com/r/mariokart/) or [/r/MarioKartWii](https://www.reddit.com/r/MarioKartWii/) - Mario Kart Subreddits
 * [RiiBalanced](https://drive.google.com/file/d/1AKJH3s0YpxQ09eud0EEd2YVFJ56f9VuO/view) - Rebalanced MKW Mod / [Discord](https://discord.gg/YZxyK4f3EU)
 * [TTs Online](https://redd.it/ie6gi7) - MKW Online Time Trials Mod
