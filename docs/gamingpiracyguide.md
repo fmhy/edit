@@ -677,19 +677,17 @@
 
 ## ▷ Geoguessr Games
 
-* ⭐ **[Globle](https://globle-game.com/)** - Geoguessr
+* ⭐ **[Globle](https://globle-game.com/)** - Country Hot-or-cold Guessing Game
 * [Emily's GeoGuessr Tools](https://geo.emily.bz/) - GeoGuessr Tools
 * [GeoTips](https://geotips.net/) / [Discord](https://discord.gg/svhWzU7FMa), [Plonk It](https://www.plonkit.net/) or [Top Tricks](https://somerandomstuff1.wordpress.com/2019/02/08/geoguessr-the-top-tips-tricks-and-techniques/) - GeoGuessr Guides
-* [OpenGuessr](https://openguessr.netlify.app/) - Geoguessr
-* [WorldGuessr](https://www.worldguessr.com/) - Geoguessr
-* [City Guesser](https://virtualvacation.us/guess) - Geoguessr
-* [Quizzity](https://david-peter.de/quizzity/) - Geoguessr
-* [Where Am I?](https://whereami.io/) - Geoguessr
-* [Geotastic](https://geotastic.net/) - Geoguessr
+* [OpenGuessr](https://openguessr.netlify.app/) - Free Geoguessr Alternative w/ Multiplayer
+* [Geotastic](https://geotastic.net/) - Free Geoguessr Alternative w/ Multiplayer / Account Required
+* [WorldGuessr](https://www.worldguessr.com/) - Free Geoguessr Alternative
+* [City Guesser](https://virtualvacation.us/guess) - Video-based Geoguessr Alternative
+* [Quizzity](https://david-peter.de/quizzity/) - City Guessing Game
 * [LostGamer](https://lostgamer.io/) - Video Game GeoGuessr
 * [GTA V GeoGuesser](https://gta-geoguesser.com/) - GTA V GeoGuessr
-* [TimeGuessr](https://timeguessr.com/) - Historical GeoGuessr
-* [Worldle](https://worldle.teuteuf.fr/) - Country GeoGuessr
+* [TimeGuessr](https://timeguessr.com/) - Historical Time-period GeoGuessr
 * [travle](https://travle.earth/) - Guess Countries Between Two Locations
 * [MapGenerator](https://map-generator-nsj.vercel.app/) - Geoguessr Map Generator
 
@@ -720,6 +718,7 @@
 * [LoLdle](https://loldle.net/) - League of Legends Wordle
 * [Minecraftle](https://minecraftle.zachmanson.com/) - Minecraft Crafting Style Wordle
 * [Squirdle](https://squirdle.fireblend.com/) - Pokémon Style Wordle
+* [Worldle](https://worldle.teuteuf.fr/) - Country Wordle
 
 ***
 
