@@ -390,7 +390,7 @@
 * [Kapwing](https://www.kapwing.com/)
 * [Panzoid](https://panzoid.com/)
 * [Convert2Video](https://convert2video.com/)
-* [Omniclip](https://omniclip.app/) - [GitHub](https://github.com/aegir-assembly/omni-clip)
+* [Omniclip](https://omniclip.app/) / [GitHub](https://github.com/aegir-assembly/omni-clip)
 * [Video Cutter](https://video-cutter-js.com/)
 * [Vididoo](https://vididoo.vercel.app/)
 * [VideoToolbox](https://www.videotoolbox.com/)

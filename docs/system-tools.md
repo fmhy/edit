@@ -12,7 +12,7 @@
 * ⭐ **[PowerToys](https://learn.microsoft.com/en-us/windows/powertoys/)** / [Search](https://github.com/lin-ycv/EverythingPowerToys) or [Sysinternals](https://learn.microsoft.com/en-us/sysinternals/) / [Suite](https://apps.microsoft.com/store/detail/sysinternals-suite/9P7KNL5RWT25) - System Tools
 * ⭐ **[CPU-Z](https://www.cpuid.com/softwares/cpu-z.html)**, [winfetch](https://github.com/lptstr/winfetch), [CPU Fetch](https://github.com/Dr-Noob/cpufetch) or [GPU-Z](https://www.techpowerup.com/download/techpowerup-gpu-z/) - System Information Tools
 * ⭐ **[SuperF4](https://stefansundin.github.io/superf4/)** or [FKill](https://github.com/sindresorhus/fkill-cli) - Process Killers
-* ⭐ **[AutoHotkey](https://www.autohotkey.com/)** / [Discord](https://discord.com/invite/Aat7KHmG7v) / [Script Gen](https://www.ahkgen.com/) / [Resources](https://github.com/ahkscript/awesome-AutoHotkey) - Task Automation
+* ⭐ **[AutoHotkey](https://www.autohotkey.com/)** - Task Automation / [Discord](https://discord.com/invite/Aat7KHmG7v) / [Script Gen](https://www.ahkgen.com/) / [Resources](https://github.com/ahkscript/awesome-AutoHotkey)
 * [AutoIt](https://www.autoitscript.com/) / [Resources](https://github.com/J2TEAM/awesome-AutoIt), [Power Automate](https://learn.microsoft.com/en-us/power-automate/desktop-flows/install), [sikulix](http://sikulix.com/) or [ChoEazyCopy](https://github.com/Cinchoo/ChoEazyCopy) - Task Automation
 * [Windows-11-Guide](https://github.com/mikeroyal/Windows-11-Guide), [Pastas](https://rentry.org/pastas#guides), [Eleven Forums Guides](https://www.elevenforum.com/tutorials/) or [Ten Forums Guides](https://www.tenforums.com/tutorials/) - Windows Guides
 * [Autoruns](https://learn.microsoft.com/en-us/sysinternals/downloads/autoruns) - Change Startup Programs
@@ -125,7 +125,7 @@
 
 ## ▷ Remote Desktop
 
-* ⭐ **[RustDesk](https://rustdesk.com/)** / [GitHub](https://github.com/rustdesk/rustdesk) - FOSS Remote Desktop
+* ⭐ **[RustDesk](https://rustdesk.com/)** - FOSS Remote Desktop / [GitHub](https://github.com/rustdesk/rustdesk)
 * ⭐ **[Parsec](https://parsec.app/)**
 * [RealVNC](https://www.realvnc.com/en/) - Max 3, Multi-OS Support
 * [FreeRDP](https://www.freerdp.com/)
@@ -238,7 +238,7 @@
 * [Easy-GPU-PV](https://github.com/jamesstringerparsec/Easy-GPU-PV) - Easy GPU Paravirtualization
 * [GsyncSwitch](https://github.com/kwizatz88/GsyncSwitch) - Switch G-Sync or HDR On / Off
 * [ThrottleStop](https://www.techpowerup.com/download/techpowerup-throttlestop/) - Laptop CPU Monitor / Optimizer
-* [Universal x86 Tuning Utility](https://amdaputuningutility.com/) / [GitHub](https://github.com/JamesCJ60/Universal-x86-Tuning-Utility) - Laptop GPU Controller
+* [Universal x86 Tuning Utility](https://amdaputuningutility.com/) - Laptop GPU Controller / [GitHub](https://github.com/JamesCJ60/Universal-x86-Tuning-Utility)
 * [RyzenAdj](https://github.com/FlyGoat/RyzenAdj) - Ryzen Laptop GPU Controller
 
 ***
@@ -357,7 +357,7 @@
 
 ## ▷ Windows Activation
 
-* ⭐ **[MAS](https://massgrave.dev/#Method_1_-_PowerShell)** / [GitHub](https://github.com/massgravel/Microsoft-Activation-Scripts/) / [Discord](https://discord.gg/gjJEfq7ux8) - Windows Activation Scripts
+* ⭐ **[MAS](https://massgrave.dev/#Method_1_-_PowerShell)** - Windows Activation Scripts / [GitHub](https://github.com/massgravel/Microsoft-Activation-Scripts/) / [Discord](https://discord.gg/gjJEfq7ux8)
 * ⭐ **[KMS_VL_ALL_AIO](https://github.com/abbodi1406/KMS_VL_ALL_AIO)** - Offline Activator
 * [EzWindSLIC](https://github.com/Dir3ctr1x/EzWindSLIC) - Vista / 7 / Server 2008
 * [OfficeRTool](https://rentry.co/FMHYBase64#officertool-project) - Office 2016 Activator
@@ -380,7 +380,7 @@
 ## ▷ Windows Repair
 
 * [MagNumDB](https://www.magnumdb.com/), [ErrorLookup](https://github.com/henrypp/errorlookup) or [Microsoft Error Lookup](https://learn.microsoft.com/en-us/windows/win32/debug/system-error-code-lookup-tool) - Windows Debugging Tools
-* [/r/TechSupport](https://www.reddit.com/r/techsupport/) / [Wiki](https://rtech.support/) / [Discord](https://discord.gg/2EDwzWa) - Tech Support Subreddit
+* [/r/TechSupport](https://www.reddit.com/r/techsupport/) / [Wiki](https://rtech.support/) - Tech Support Subreddit / [Discord](https://discord.gg/2EDwzWa)
 * [Windows 10 Forums](https://www.windowsphoneinfo.com/), [SevenForums](https://www.sevenforums.com/), [Hardforum](https://hardforum.com/), [VinaFix](https://vinafix.com/) or [TechSupportForum](https://www.techsupportforum.com/) - Tech Support Forums
 * [MemTest](https://www.memtest.org/) - Memory Diagnostic Tool
 * [Windows Repair Toolbox](https://windows-repair-toolbox.com/) - Multi-Tool Repair App

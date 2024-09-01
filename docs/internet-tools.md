@@ -219,8 +219,8 @@
 * [selfoss](https://selfoss.aditu.de/) - RSS Reader
 * [gorss](https://github.com/Lallassu/gorss) - RSS Reader
 * [NewsPipe](https://github.com/cedricbonhomme/newspipe) - RSS Reader
-* [NewsBlur](http://www.newsblur.com) / [GitHub](https://github.com/samuelclay/NewsBlur) - RSS Reader
-* [Osmosfeed](https://osmoscraft.org) / [GitHub](https://github.com/osmoscraft/osmosfeed) - RSS Reader
+* [NewsBlur](http://www.newsblur.com) - RSS Reader / [GitHub](https://github.com/samuelclay/NewsBlur)
+* [Osmosfeed](https://osmoscraft.org) - RSS Reader / [GitHub](https://github.com/osmoscraft/osmosfeed)
 * [rss](https://github.com/ssddanbrown/rss) - RSS Reader
 * [yarr](https://github.com/nkanaev/yarr) - RSS Reader
 * [hacker-feeds-cli](https://github.com/Mayandev/hacker-feeds-cli) - GitHub, Reddit, Hacker News & other Feeds
@@ -701,7 +701,7 @@
 * [Clippings](https://aecreations.io/clippings/index.php) or [Quick Copy](https://github.com/ramitmittal/quick-copy) - Clipboard Manager
 * [Emoji Addon](https://www.emojiaddon.com/) - Quickly Copy / Paste Emojis
 * [Copycat](https://github.com/BlackGlory/Copycat) - Copy Content in Multiple Formats
-* [Allow Right Click](https://add0n.com/allow-right-click.html) / [GitHub](https://github.com/lunu-bounir/allow-right-click) - Force Enable Right Click
+* [Allow Right Click](https://add0n.com/allow-right-click.html) - Force Enable Right Click / [GitHub](https://github.com/lunu-bounir/allow-right-click)
 * [Copy Selection as Markdown](https://github.com/0x6b/copy-selection-as-markdown) - Copy Text as Markdown
 * [CopyFish](https://ocr.space/copyfish) - Grab Text from Images
 * [Talkie](https://joelpurra.com/projects/talkie/) or [Offline Text to Speech](https://virejdasani.github.io/OfflineTextToSpeech-Extension/) - Text to Speech
@@ -869,7 +869,7 @@
 * ⭐ **[HTTrack](https://www.httrack.com/)** / [Guide](https://rentry.co/cloneasite) - Website Downloader
 * ⭐ **[datahoarder-website-to-markdown](https://github.com/evilsh3ll/datahoarder-website-to-markdown)** - Index to Markdown Tool
 * [Monolith](https://github.com/Y2Z/monolith) - Save Webpages as HTML
-* [WAIL](https://matkelly.com/wail) / [GitHub](https://github.com/machawk1/wail) - GUI For Archiving Tools
+* [WAIL](https://matkelly.com/wail) - GUI For Archiving Tools / [GitHub](https://github.com/machawk1/wail)
 * [ReplayWeb](https://replayweb.page/) or [OldWeb](https://oldweb.today/) - View Web Archive Files
 * [ArchiveWeb.page](https://archiveweb.page/) - Browser Extension
 * [WikiTeam](https://github.com/WikiTeam/wikiteam) - Archive Wikis
@@ -908,7 +908,7 @@
 * ⭐ **[IntelTechniques](https://inteltechniques.com/index.html)** or [OSINT Techniques](https://www.osinttechniques.com/) - OSINT Resources
 * ⭐ **[Analyst Research Tools](https://analystresearchtools.com/)** - Tools and Resources
 * [Osintracker](https://www.osintracker.com/) - Track Your Investigations
-* [Cyber Detective](https://cybdetective.com/) / [GitHub](https://github.com/cipher387) - Tools, Techniques, and Projects
+* [Cyber Detective](https://cybdetective.com/) - Tools, Techniques, and Projects / [GitHub](https://github.com/cipher387)
 * [Harpoon](https://github.com/Te-k/harpoon) - OSINT CLI Tool
 * [Project Owl](https://discord.com/invite/projectowl) - OSINT Community
 * [OSINT Dojo](https://www.osintdojo.com/resources/) - OSINT Guides
