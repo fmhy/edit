@@ -85,8 +85,8 @@ No, don't do that. Windows Defender is more than enough to keep you safe, but if
 ### Antivirus
 
 * **[VirusTotal](https://www.virustotal.com)** - Test the safety of files / [Results Guide](https://rentry.co/VTGuide)
-* **[Malwarebytes](https://www.malwarebytes.com/)** - Real-time anti-malware software / **[Premium](https://rentry.co/FMHYBase64#malwarebytes-prem)**
- 
+* **[Malwarebytes Premium](https://rentry.co/FMHYBase64#malwarebytes-prem)** - Real-time anti-malware software / Premium
+
 !!!note Antivirus software is usually bloatware. Stick to trusted sources for games and software and you will be fine with nothing but Windows Defender and an occasional Malwarebytes scan. Remember to always scan software before installing it with tools like **[VirusTotal](https://www.virustotal.com/)** or use it in **[Sandboxie](https://rentry.co/sandboxie-guide)**.
 
 ***
@@ -152,36 +152,33 @@ No, don't do that. Windows Defender is more than enough to keep you safe, but if
 
 ***
 
-### Mobile Tools
+### Mobile Piracy
 
-#### Android app sourcing
-* **[Mobilism](https://forum.mobilism.org/viewforum.php?f=398)** - Modded APKs
-* **[APKMirror](https://www.apkmirror.com/)** - Untouched APKs
-* **[F-Droid](https://f-droid.org/)** - FOSS Android Apps
-* **[/r/ApkApps Megathread](https://apksapps.notion.site/apksapps/096ef38f452342ba99b4e1509a449729?v=9970360b443643789c333bd2c7180009)** - Updated list of modded APKs / [Subreddit](https://www.reddit.com/r/ApksApps) / [Discord](https://discord.gg/Kr5EWKZU5Y)
-
-#### iOS app sourcing
-* **[TrollStore](https://github.com/opa334/TrollStore)** or [TrollApps](https://github.com/TheResonanceTeam/TrollApps/) / [Discord](https://discord.gg/PrF6XqpGgX) - Non-Appstore Apps / No-Jailbreak / 14.0-17.0 / [IPAs](https://github.com/swaggyP36000/TrollStore-IPAs) / [Decrypt](https://github.com/donato-fiore/TrollDecrypt)
-* **[Sideloadly](https://sideloadly.io/)**, [AltStore](https://altstore.io/) / [Repo Viewer](https://altsource.by.lao.sb/browse/) / [Alt Server](https://github.com/NyaMisty/AltServer-Linux), [SideStore](https://sidestore.io/) or [SignTools](https://github.com/SignTools/SignTools) - Non-Jailbreak App Sideloading
-
-#### Useful apps
 * **[Android AdGuard Premium](https://rentry.co/FMHYBase64#adguard-premium)** / **[iOS AdGuard Premium](https://rentry.co/FMHYBase64#adguard-pro-ios)** - Adblocking app
 * **[Android Modded Spotify](https://rentry.co/FMHYBase64#modded-spotify-apk)** / **[iOS Modded Spotify](https://rentry.co/FMHYBase64#spotify)** - Modded Spotify
 * **[Cromite](https://github.com/uazo/cromite) / [Firefox](https://www.mozilla.org/en-US/firefox/browsers/mobile/android/) / [Kiwi](https://play.google.com/store/apps/details?id=com.kiwibrowser.browser&hl=en_US&gl=US)** - Android web browsers
+* **[Mobilism](https://forum.mobilism.org/viewforum.php?f=398)** - Modded APKs
+* **[/r/ApkApps Megathread](https://apksapps.notion.site/apksapps/096ef38f452342ba99b4e1509a449729?v=9970360b443643789c333bd2c7180009)** - Updated list of modded APKs / [Subreddit](https://www.reddit.com/r/ApksApps) / [Discord](https://discord.gg/Kr5EWKZU5Y)
+* **[APKMirror](https://www.apkmirror.com/)** - Untouched APKs
+* **[F-Droid](https://f-droid.org/)** - FOSS Android Apps
 * **[Stremio](https://www.stremio.com/)** - Video streaming app / Use VPN / [Guide](https://viren070.github.io/guides/stremio/guide)
 * **[Patch Reddit Clients](https://docs.google.com/document/u/0/d/1wHvqQwCYdJrQg4BKlGIVDLksPN0KpOnJWniT6PbZSrI/mobilebasic)** - How To Patch 3rd Party Reddit Clients
 * **[ReVanced Manager](https://github.com/revanced/revanced-manager)** - Ad-Free YouTube, Reddit, X etc. Patcher / [Discord](https://discord.com/invite/rF2YcEjcrT) / [Guide](https://redd.it/xlcny9)
+* **[Complete Jailbreak Chart](https://ios.cfw.guide/)** - Jailbreaking info & tools
 
 ***
 
-### Further Reading
+### Useful Stuff
 
-* **[Android/iOS Guide](https://fmhy.net/android-iosguide)** - Android/iOS tools
-* **[Linux/MacOS Guide](https://fmhy.net/linuxguide)** - Linux/MacOS tools
-* **[File Tools](https://fmhy.net/file-tools)** - File downloading, sharing, archiving, storing and syncing tools
-* **[The Piracy Glossary](https://rentry.org/The-Piracy-Glossary)** - Dictionary for piracy terms
-* **[Unsafe Site & Software Blocklist](https://fmhy.github.io/FMHYFilterlist/site/index.html)** - FMHY unsafe site and software blocklist
-... and lots more!
+* **[Video Players](https://fmhy.net/video-tools#video-players) / [Servers](https://fmhy.net/video-tools#media-servers)** - Host & play videos
+* **[Audio Players](https://fmhy.net/audiopiracyguide#audio-players) / [Servers](https://fmhy.net/audiopiracyguide#audio-servers)** - Host & play audio
+* **[Android Emulators](https://fmhy.net/android-iosguide#android-emulators)** - Use android apps on desktop
+* **[Hosting / Cloud Storage](https://fmhy.net/file-tools#file-hosts)** - Share, store & sync files
+* **[Download Managers](https://fmhy.net/file-tools#download-managers)** - Manage file downloads
+* **[File Archivers](https://fmhy.net/file-tools#file-archivers)** - Unzip / Compress files
+* **[OpenSubtitles](https://opensubtitles.org/)** - Most popular subtitles site
+* **[Unsafe Sites / Software](https://redd.it/10bh0h9)** - Things we recommend avoiding
+
 ***
 
 **[^ Back to Top](#beginners-guide-to-piracy)**
