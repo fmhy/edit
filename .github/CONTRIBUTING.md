@@ -18,9 +18,7 @@ Please only use the store link if there's neither a site nor a Git repository av
 
 3. Always check to see if the site you'd like to submit has a Discord / Telegram server you can link with it.
 
-4. Never edit the single-page, it contains all the pages of the wiki and gets updated automatically.
-
-5. Find a suitable category for the link and then submit it by making a **[Pull Request](https://github.com/fmhy/FMHYedit/pulls)**. 
+4. Find a suitable category for the link and then submit it by making a **[Pull Request](https://github.com/fmhy/FMHYedit/pulls)**. 
 
 #### Don't Submit:
 
