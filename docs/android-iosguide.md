@@ -819,6 +819,7 @@ https://github.com/Akylas/alpimaps
 * [Zen Music Player](https://github.com/pakka-papad/Zen)
 * [BladePlayer](https://github.com/vhaudiquet/BladePlayer)
 * [Salt Player](https://github.com/Moriafly/SaltPlayerSource)
+* [Lark Player](https://www.larkplayer.com/) 
 * [Black Candy](https://github.com/blackcandy-org/android) - Self-Hosted Streaming Server
 
 ***
