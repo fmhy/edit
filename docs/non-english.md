@@ -206,6 +206,7 @@
 * [數學老師張旭](https://space.bilibili.com/521685904) - Math Lessons
 * [free-project-course](https://github.com/resumejob/free-project-course) - Programming Courses
 * [Baidu SkyDrive Video Player](https://greasyfork.org/en/scripts/426952-%E7%99%BE%E5%BA%A6%E7%BD%91%E7%9B%98%E8%A7%86%E9%A2%91%E6%92%AD%E6%94%BE%E5%B0%8A%E4%BA%AB-vip-%E8%A7%A3%E9%94%81%E8%A7%86%E9%A2%91%E5%80%8D%E6%95%B0-%E8%A7%A3%E9%94%81%E5%85%A8%E9%83%A8%E6%B8%85%E6%99%B0%E5%BA%A6) - Baidu VIP Video Player
+* [acfun.cn](https://www.acfun.cn/) - Chinese YouTube Alt
 
 ## ▷ Reading / 阅读 
 
@@ -983,7 +984,7 @@
 * [Jogorama](https://jogorama.com.br) - Game Index / Tips
 * [Dicionário MPB](https://dicionariompb.com.br) - Top Song Charts
 
-## ▷ Downloading / Baixando
+## ▷ Downloading / Baixar
 
 * ⭐ **[WR Educacional](https://www.wreducacional.com.br)** - Courses
 * [Rei dos Torrents](https://reidostorrents.com) - Video / Audio / Books / Sub / Dub / 1080p
@@ -995,7 +996,7 @@
 * [Escola Educação](https://escolaeducacao.com.br/estude-gratis) - Courses
 * [Mundo Ubuntu](https://www.mundoubuntu.com.br) - Courses / Tech Guides
 
-## ▷ Torrenting / Pirateando 
+## ▷ Torrenting
 
 * [Rei dos Torrents](https://reidostorrents.com) - Video / Audio / Books
 * [OnTorrent](https://ontorrent.org/) - Movies / TV
@@ -1009,7 +1010,7 @@
 * [Sua Música](https://www.suamusica.com.br) - Audio / MP3
 * [Livros e Cursos Download](https://timaterial.blogspot.com) - Courses
 
-## ▷ Streaming / Transmitindo
+## ▷ Streaming
 
 * ⭐ **[Braflix](https://www.braflix.ru/)** - Movies / TV / Anime / Dub / 4K / 1080p
 * ⭐ **[CriaFlix](https://criaflix.live/)** - Movies / TV / Anime / 1080p / [Discord](https://discord.com/invite/z72kQpKRUP)
