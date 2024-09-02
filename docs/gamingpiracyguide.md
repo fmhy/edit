@@ -681,9 +681,9 @@
 * [Emily's GeoGuessr Tools](https://geo.emily.bz/) - GeoGuessr Tools
 * [GeoTips](https://geotips.net/) / [Discord](https://discord.gg/svhWzU7FMa), [Plonk It](https://www.plonkit.net/) or [Top Tricks](https://somerandomstuff1.wordpress.com/2019/02/08/geoguessr-the-top-tips-tricks-and-techniques/) - GeoGuessr Guides
 * [OpenGuessr](https://openguessr.netlify.app/) - Free Geoguessr Alternative w/ Multiplayer
-* [Geotastic](https://geotastic.net/) - Free Geoguessr Alternative w/ Multiplayer / Account Required
+* [Geotastic](https://geotastic.net/) - Multiplayer Geoguessr / Account Required
 * [WorldGuessr](https://www.worldguessr.com/) - Free Geoguessr Alternative
-* [City Guesser](https://virtualvacation.us/guess) - Video-based Geoguessr Alternative
+* [City Guesser](https://virtualvacation.us/guess) - Video-Based Geoguessr
 * [Quizzity](https://david-peter.de/quizzity/) - City Guessing Game
 * [LostGamer](https://lostgamer.io/) - Video Game GeoGuessr
 * [GTA V GeoGuesser](https://gta-geoguesser.com/) - GTA V GeoGuessr
