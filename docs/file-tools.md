@@ -78,7 +78,7 @@
 ## ▷ File Converters
 
 * 🌐 **[.to Sites](https://rentry.co/tosites)** - File Converters Index
-* ⭐ **[File Converter](https://file-converter.io/)** / [GitHub](https://github.com/Tichau/FileConverter) - Convert / Compress Files
+* ⭐ **[File Converter](https://file-converter.io/)** - Convert / Compress Files / [GitHub](https://github.com/Tichau/FileConverter)
 * ⭐ **[CloudConvert](https://cloudconvert.com/)** - Convert Files / 1 GB
 * [Pandoc](https://pandoc.org/) - Document Converter
 * [ConvertCSV](https://www.convertcsv.com/) - CSV Data Conversion
@@ -171,7 +171,7 @@
 * [FolderClone](https://www.folderclone.com/) - Clone / Backup Folders
 * [BackupPC](https://backuppc.github.io/backuppc/) - File Backup
 * [TeraCopy](https://www.codesector.com/teracopy) - File Backup
-* [restic](https://restic.net/) / [GitHub](https://github.com/restic/restic) - File Backup
+* [restic](https://restic.net/) - File Backup / [GitHub](https://github.com/restic/restic)
 * [UrBackup](https://www.urbackup.org/) - File Backup
 * [Aomei](https://www.ubackup.com/) - File Backup
 * [Duplicati](https://www.duplicati.com/) - File Backup
