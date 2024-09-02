@@ -20,6 +20,8 @@ export function generateMeta(context: TransformContext, hostname: string) {
   const head: HeadConfig[] = []
   const { pageData } = context
 
+  if (pageData.isNotFound) return head
+
   const url = `${hostname}/${pageData.relativePath.replace(/((^|\/)index)?\.md$/, '$2')}`
 
   head.push(
@@ -30,6 +32,7 @@ export function generateMeta(context: TransformContext, hostname: string) {
     ['meta', { property: 'og:title', content: pageData.frontmatter.title }],
     ['meta', { name: 'twitter:title', content: pageData.frontmatter.title }]
   )
+
   if (pageData.frontmatter.description) {
     head.push(
       [
@@ -48,6 +51,7 @@ export function generateMeta(context: TransformContext, hostname: string) {
       ]
     )
   }
+
   if (pageData.frontmatter.image) {
     head.push([
       'meta',
@@ -87,12 +91,14 @@ export function generateMeta(context: TransformContext, hostname: string) {
       ]
     )
   }
+
   if (pageData.frontmatter.tag) {
     head.push([
       'meta',
       { property: 'article:tag', content: pageData.frontmatter.tag }
     ])
   }
+
   if (pageData.frontmatter.date) {
     head.push([
       'meta',
@@ -102,6 +108,7 @@ export function generateMeta(context: TransformContext, hostname: string) {
       }
     ])
   }
+
   if (pageData.lastUpdated && pageData.frontmatter.lastUpdated !== false) {
     head.push([
       'meta',

@@ -279,7 +279,7 @@
 * ⭐ **[OpenCritic](https://opencritic.com/)** - Critic Game Reviews / Ratings
 * ⭐ **[IGDB](https://www.igdb.com/)** or **[GiantBomb](https://www.giantbomb.com/games/)** - Game Database
 * ⭐ **[TasteDive](https://tastedive.com/games )**, [50GamesLike](https://www.50gameslike.com/), [Mythic Maps](https://mythicmap.com/) / [Discord](https://discord.gg/xw6cgmjDzB) or [/r/ifyoulikeblank](https://www.reddit.com/r/ifyoulikeblank/) - Game Recommendations
-* [Rec Charts](https://mega.nz/folder/kj5hWI6J#0cyw0-ZdvZKOJW3fPI6RfQ) - Game Recommendation Guides
+* [Rec Charts](https://pastebin.com/ayuqSpGR), [2](https://mega.nz/folder/kj5hWI6J#0cyw0-ZdvZKOJW3fPI6RfQ) - Game Recommendation Guides
 * [Incendar](https://incendar.com/) - Game Release Date Tracker
 * [GG App](https://ggapp.io/), [Gamelib](https://gamelib.app/explore), [Backloggery](https://backloggery.com/) or [Exophase](https://www.exophase.com/) - Game Trackers
 * [LaunchBox Games Database](https://gamesdb.launchbox-app.com/), [GameFAQs](https://gamefaqs.gamespot.com/), [Rawg](https://rawg.io/), [Moby Games](https://www.mobygames.com/), [rate.house](https://rate.house/chart/game), [listal](https://www.listal.com/) or [FrontierNav](https://frontiernav.net/) - Game Databases
@@ -334,7 +334,7 @@
 * 🌐 **[Multiplayer Mods](https://docs.google.com/spreadsheets/d/e/2PACX-1vSV41AswEt3EpzSyd85YRVtoJaIIXWjtBy347dISJg4fs6xSNPqcgfsh76TxX_l-mnT7pjMlSqTW-87/pubhtml)** or [Unmoddable](https://unmoddable.com/) - Multiplayer Mods for Single-Player Games
 * [AlterWare](https://alterware.dev/) - COD Multiplayer Projects / [Discord](https://discord.gg/2ETE8engZM) / [GitHub](https://github.com/mxve/alterware-launcher)
 * [Plutonium](https://plutonium.pw/) - COD Multiplayer Projects / [Setup Guide](https://guides.viren070.me/plutonium) / [Video Guide](https://youtu.be/8F7hv98t8ck) / [Offline Launcher](https://github.com/JugAndDoubleTap/LanLauncher) / [Discord](https://discord.gg/d95y8ah)
-* [MRON Warzone](https://www.mronwarzone.ru/) - MW2019 Multiplayer Client / [Guide](https://youtu.be/mDAVpNILA7s) / [Discord](https://discord.gg/dxy6kVdf)
+* [MRON Warzone](https://www.mronwarzone.ru/mron-mod) - MW2019 Multiplayer Client / [Guide](https://www.mronwarzone.ru/verdansk) / [Video Guide](https://youtu.be/mDAVpNILA7s) / [Discord](https://discord.gg/mronwarzone)
 * [Feitan H2M Service](https://discord.gg/wRqJq8uk), [H2M Backup](https://discord.gg/JxYz9kSyRs ), [Justeeno H2M](https://discord.gg/kz5AMmeDnB) or [HorizonMW](https://discord.gg/t3Xezdwy) - Modern Warfare Remastered Multiplayer Client / [Guide](https://rentry.org/hz2uthaa) / [Video Guide](https://youtu.be/Sbgom13CJbk), [2](https://youtu.be/uTY_mdciMCg) / [Servers / Info](https://master.iw4.zip/) / [Tools](https://github.com/z6m/h2m-tool)
 * [CoD4x Mod](https://cod4x.ovh/) - COD4 Multiplayer Project / Requires MP Key / [Discord](https://discord.com/invite/fMGb7BGVvy)
 * [Venice Unleashed](https://veniceunleashed.net/) / [Discord](https://discord.com/invite/dpJwaVZ) or [Warsaw Revamped](https://warsaw-revamped.com/) / [Discord](https://discord.com/invite/C9Zrh4G) - Battlefield Mod Projects
@@ -355,7 +355,6 @@
 
 ## ▷ Multiplayer Servers
 
-* ⭐ **[TrackyServer](https://www.trackyserver.com/)** - Find Private Multiplayer Servers
 * [Server.pro](https://server.pro/) - Game Server Hosting
 * [Impostor](https://impostor.github.io/Impostor/) - Among Us Private Server / [Discord](https://discord.com/invite/Mk3w6Tb)
 * [VRCList](https://vrclist.com/) - Find VRChat Worlds / Signup Required
@@ -755,6 +754,11 @@
 * ⭐ **[Mario Kart Midnight](https://wiki.tockdom.com/wiki/Mario_Kart_Midnight)** - Custom MKW Tracks / Multiplayer
 * ⭐ **[MKWRs](https://mkwrs.com)** or [MKLeaderboards](https://www.mkleaderboards.com/) - Mario Kart Records / Videos
 * ⭐ **[MKW Lobbies](https://wiimmfi.de/stats/mkw)** - Online MKW Lobbies
+* ⭐ **[CTGP Deluxe](https://www.ctgpdx.com/)** - Custom MK8DX Tracks
+* ⭐ **[CTGP-7](https://ctgp-7.github.io/)** - Custom MK7 Tracks
+* Luigi_Fan2's Stat Charts - [MK8DX](https://docs.google.com/spreadsheets/d/1g7A-38tn9UAIbB2B3sZI-MpILsS3ZS870UTVMRRxh4Q/edit?gid=0#gid=0) / [MK8](https://docs.google.com/spreadsheets/d/1kfhyD3ZQhfRG0PEZt2Z815K7wZ20R7DOqCQnTBNko0U/edit?gid=0#gid=0) - Mario Kart stats
+* [MK8DX Builder](https://mk8dxbuilder.com/) - Kart Builder
+* [MKCentral](https://www.mariokartcentral.com/mkc/) - Mario Kart Tournaments
 * [/r/MarioKart](https://www.reddit.com/r/mariokart/) or [/r/MarioKartWii](https://www.reddit.com/r/MarioKartWii/) - Mario Kart Subreddits
 * [RiiBalanced](https://drive.google.com/file/d/1AKJH3s0YpxQ09eud0EEd2YVFJ56f9VuO/view) - Rebalanced MKW Mod / [Discord](https://discord.gg/YZxyK4f3EU)
 * [TTs Online](https://redd.it/ie6gi7) - MKW Online Time Trials Mod
@@ -764,6 +768,7 @@
 * Tockdom Wikis - [MKW](https://wiki.tockdom.com/wiki/Main_Page) / [MK8](https://mk8.tockdom.com/) / [MK3DS](https://mk3ds.com/) / [MKDS](https://wiki.dshack.org/) / [MKDD](https://mkdd.org/) - Custom Mario Kart Wikis
 * [Custom Track Tutorial](https://wiki.tockdom.com/wiki/Custom_Track_Tutorial) - How-to Make Custom MKW Tracks
 * [MKW Texture Hacks](https://wiki.tockdom.com/wiki/Texture_Hack_Distribution) - Custom MKW Textures
+* [ShortCat](https://shortcat.pro/) - MK8DX Strategy Guide
 
 ***
 

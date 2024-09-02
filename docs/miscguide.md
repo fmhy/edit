@@ -758,7 +758,6 @@
 * ↪️ **[Learn Programming](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/dev-tools#wiki_.25BA_courses_.2F_tutorials)**
 * ↪️ **[Learn Computer Science](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/dev-tools#wiki_.25B7_computer_science)**
 * [MoAiJobs](https://www.moaijobs.com/) - Find jobs in AI companies
-* [Arvrok](https://www.arvrok.com/) - Find Immersive Tech Jobs
 * [japandev](https://japan-dev.com/) - Find Developer Jobs in Japan
 * [key : values](https://www.keyvalues.com/) - Find Companies that Match your Values
 * [Authentic Jobs](https://authenticjobs.com/) - Find Developer / Designer Jobs

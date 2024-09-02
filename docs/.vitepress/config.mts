@@ -1,3 +1,4 @@
+import { fileURLToPath } from 'node:url'
 import consola from 'consola'
 import UnoCSS from 'unocss/vite'
 import AutoImport from 'unplugin-auto-import/vite'
@@ -8,6 +9,7 @@ import {
   commitRef,
   feedback,
   meta,
+  nav,
   search,
   sidebar,
   socialLinks
@@ -57,6 +59,16 @@ export default defineConfig({
   vite: {
     ssr: {
       noExternal: ['@fmhy/components']
+    },
+    resolve: {
+      alias: [
+        {
+          find: /^.*VPSwitchAppearance\.vue$/,
+          replacement: fileURLToPath(
+            new URL('./theme/Appearance.vue', import.meta.url)
+          )
+        }
+      ]
     },
     optimizeDeps: { exclude: ['workbox-window'] },
     plugins: [
@@ -121,29 +133,7 @@ export default defineConfig({
     },
     outline: 'deep',
     logo: '/fmhy.ico',
-    nav: [
-      { text: '🔖 Glossary', link: 'https://rentry.org/The-Piracy-Glossary' },
-      { text: '📑 Guides', link: 'https://rentry.co/fmhy-guides' },
-      {
-        text: '💾 Backups',
-        link: 'https://github.com/fmhy/FMHY/wiki/Backups'
-      },
-      {
-        text: '🪅 Ecosystem',
-        items: [
-          { text: '💙 Feedback', link: '/feedback' },
-          { text: '🌐 Search', link: '/posts/search' },
-          { text: '🏞 Wallpapers', link: '/other/wallpapers' },
-          { text: '📋 snowbin', link: 'https://pastes.fmhy.net' },
-          { text: '🔍 SearXNG', link: 'https://searx.fmhy.net/' },
-          { text: '🔍 Whoogle', link: 'https://whoogle.fmhy.net/' },
-          {
-            text: '🔗 Bookmarks',
-            link: 'https://github.com/fmhy/bookmarks'
-          }
-        ]
-      }
-    ],
+    nav,
     sidebar,
     socialLinks
   }

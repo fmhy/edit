@@ -47,7 +47,7 @@ const { Layout } = DefaultTheme
     <template #sidebar-nav-after>
       <Sidebar />
     </template>
-    <template #home-hero-prelink>
+    <template #home-hero-info-before>
       <Announcement />
     </template>
     <template #home-features-before>
