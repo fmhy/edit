@@ -95,7 +95,6 @@ No, don't do that. Windows Defender is more than enough to keep you safe, but if
 ### Privacy
 
 * **[Privacy Guides](https://www.privacyguides.org/)** - Privacy guides
-* **[DuckDuckGo](https://duckduckgo.com/) / [Mojeek](https://www.mojeek.com/)** - Tracker-free web search
 * **[ProtonMail](https://proton.me/mail)** - Encrypted email service
 * **[Email Privacy](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25B7_email_privacy)** - Email privacy resources
 * **[Aegis](https://getaegis.app/) / [Ente](https://github.com/ente-io/auth/)** - 2FA to prevent logins without user authentication
