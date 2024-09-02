@@ -64,7 +64,7 @@ No, don't do that. Windows Defender is more than enough to keep you safe, but if
 
 ### Browser
 
-* **[Privacy Browsers](https://old.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25B7_browser_privacy)** - Privacy-Focused Browsers
+* **[Privacy Browsers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25B7_browser_privacy)** - Privacy-Focused Browsers
 * **[Browser Extensions](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools#wiki_.25B7_browser_extensions) / [Userscripts](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools#wiki_.25B7_userscripts)** - Add features & functionality to browsers
 * **[Dark Reader](https://darkreader.org/)** - Dark mode for all sites
 * **[ReturnYoutubeDislikes](https://returnyoutubedislike.com/)** - View YouTube dislikes
