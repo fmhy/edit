@@ -656,7 +656,7 @@
 * ↪️ **[Bookmark Managers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools#wiki_.25B7_bookmark_managers)**
 * ↪️ **[Tab Managers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_tab_managers)**
 * ↪️ **[Browser Startpages](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_browser_startpages)**
-* ⭐ **[Stylus](https://add0n.com/stylus.html)** - Custom Website Color Schemes / [User Styles](https://userstyles.world/), [2](https://uso.kkx.one/) / [Oldschool Styles](https://forum.spacehey.com/topic?id=90895)
+* ⭐ **[Stylus](https://add0n.com/stylus.html)** - Custom Website Color Schemes / [User Styles](https://userstyles.world/), [2](https://uso.kkx.one/) / [Oldschool Styles](https://forum.spacehey.com/topic?id=90895) / [Catppuccin](https://github.com/catppuccin/userstyles)
 * ⭐ **[DarkReader](https://darkreader.org/)**, [Midnight Lizard](https://midnight-lizard.org/) or [Custom Dark Mode](https://mybrowseraddon.com/custom-dark-mode.html) - Dark Mode
 * ⭐ **[Zoom WE](https://pastebin.com/SpCdPywv)** or [Custom Page Zoom](https://mybrowseraddon.com/custom-page-zoom.html) - Improves Zoom Functionality
 * ⭐ **[ScrollAnywhere](https://pastebin.com/W3jwbBac)** - Improves Scrolling Functionality
