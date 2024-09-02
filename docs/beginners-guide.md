@@ -122,7 +122,7 @@ No, don't do that. Windows Defender is more than enough to keep you safe, but if
 * **[Pahe](https://pahe.ink/)** - Fast video downloads
 * **[FitGirl Repacks](https://fitgirl-repacks.site/)** / **[SteamRIP](https://steamrip.com/)** - Game download sites
 * **[Firehawk52](https://rentry.org/firehawk52)** - Music ripping guide
-* **[lucida](https://lucida.to/), [2](https://lucida.su/) / [DoubleDouble](https://doubledouble.top/)** - Multi-Site audio download
+* **[lucida](https://lucida.to/), [2](https://lucida.su/)** - Multi-Site audio download
 * **[Soulseek](https://slsknet.org/)** or [Nicotine+](https://nicotine-plus.org/) - Audio download app
 * **[squid.wtf](https://squid.wtf/)** - Deezer FLAC download
 
