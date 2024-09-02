@@ -579,20 +579,13 @@
 
 ## ▷ Puzzle Games
 
-* ⭐ **[BestCrosswords](https://www.bestcrosswords.com/)**, [TheWordSearch](https://thewordsearch.com/) or [Regex-Crossword](https://jimbly.github.io/regex-crossword/) - Crossword Puzzles / [Creator](https://puzzlemaker.discoveryeducation.com/), [2](https://www.xwords-generator.de/en) / [Solver](https://www.wordplays.com/), [2](https://www.dictionary.com/e/crosswordsolver/), [3](https://crossword-solver.io/)
-* ⭐ **[KillerCrossword](https://killercrossword.com/)** - No Clue Crosswords
-* ⭐ **[MoreWords](https://www.morewords.com/)** , [PlayScrabble](https://playscrabble.com/)or [WordHub](https://wordhub.com/) - Scrabble
 * ⭐ **[Rubik’s Cube Explorer](https://iamthecu.be/)**, [Grubiks](https://www.grubiks.com/), [pCubes](https://twistypuzzles.com/forum/viewtopic.php?f=1&t=27054) or [The Cube](https://bsehovac.github.io/the-cube/) - Rubix Cubes / [Guide](https://easiestsolve.com/) / [Solver](https://rubiksolve.com/), [2](https://rubiks-cube-solver.com/)
 * ⭐ **[jiggie](https://jiggie.fun/)** - Custom Puzzles + Multiplayer
 * ⭐ **[Minesweeper.online](https://minesweeper.online/)** - Minesweeper
 * [Puzzle Party](https://artsandculture.google.com/experiment/puzzle-party/EwGBPZlIzv0KRw) - Multiplayer Jigsaws
 * [PuzzlePrime](https://www.puzzleprime.com/) - Problems / Puzzles
-* [Truncate](https://truncate.town/) - Crossword Strategy Game
-* [HoverCats](https://hovercats.gg/) - Multiplayer Crosswords
 * [Regex Cross­word](https://regexcrossword.com/) - Regex Cross­words
 * [Web Paint-by-Number](https://webpbn.com/) or [Nonograms](https://www.nonograms.org/) - Graphic Crosswords
-* [Connections](https://connections.swellgarfo.com/) - Custom Word Puzzles
-* [eWordChallenge](https://www.ewordchallenge.net/) - Boggle Online
 * [Game for the Brain](https://www.gamesforthebrain.com/) - Puzzles / Quizzes
 * [MasasGames](https://masasgames.com/) - Virtual Escape Rooms
 * [Sokoban Online](https://www.sokobanonline.com/) - Sokoban Puzzles
@@ -607,8 +600,6 @@
 * [Pixel Puzzler](https://pixel-puzzler.playcurious.games/) or [UnFlip](https://unflipgame.com/) - Block Puzzles
 * [Sudoku XV](https://keeri.place/sudoku-xv) - Sudoku
 * [picture dots](https://www.picturedots.com/) - Make & Play Dot Puzzles
-* [MakeAWordSearch](http://www.makeawordsearch.net/) - Word Search Creator
-* [RobinWords](https://www.robinwords.com/) - Word Ladder Game
 * [Oh, My Dots!](https://www.ohmydots.com/) - Connect the Dots Game
 * [BreakLock](https://maxwellito.github.io/breaklock/) - Pattern Lock Game
 * [Kuku Kube](https://kuku-kube.com/) - Find the Different Squares
@@ -660,14 +651,19 @@
 * [Guess My Rank](https://guessmyrank.com/) - Guess Player Game Ranks
 * [Poeltl](https://poeltl.nbpa.com/) - NBA Guessing Game
 * [The Higher Lower Game](https://www.higherlowergame.com/) or [GoogleFued](https://googlefeud.com/) - Guess What's Googled More
-* [LanguageGuessr](https://languageguessr.io/) - Language Geoguessr
 * [English Sandwhich](https://englishsandwich.github.io/) - Guess Where Dishes are From
-* [GeoArtwork](https://artsandculture.google.com/experiment/geo-artwork/wgEPVBAUiRVlEQ) - Guess Origins of Cultural Artifacts
 * [Guess The Price](https://guesstheprice.net/) - Price Guessing Game
 * [Apparle](https://www.apparle.com/) - Apparel Price Guessing Game
 * [Metazooa](https://metazooa.com/) - Animal Guessing Game
 * [ChessGuessr](https://www.chessguessr.com/) - Chess Style Guessing Game
+* [Huedle](https://huedle.com/) or [Hexcodle](https://www.hexcodle.com/) - Hex Code Guessing Games
+* [Nerdle](https://nerdlegame.com/) or [Countle](https://www.countle.org/) - Math Guessing Games
+* [Minecraftle](https://minecraftle.zachmanson.com/) - Minecraft Recipe Guessing Game
+* [Squirdle](https://squirdle.fireblend.com/) - Pokémon Guessing Game
+* [LoLdle](https://loldle.net/) - League of Legends Guessing Games
+* [Worldle](https://worldle.teuteuf.fr/) - Country Guessing Game
 * [Guess The Year](https://guess-the-year.davjhan.com/) or [ChronoPhoto](https://www.chronophoto.app/) - Year Guessing Game
+* [Factle](https://trivia.frontofficesports.com/factle) - Trivia Game
 * [Wikitrivia](https://wikitrivia.tomjwatson.com/) - Guess Which Event Came First
 * [WhatBeatsRock](https://www.whatbeatsrock.com/) - Guess What Beats What
 * [Human or Not?](https://www.humanornot.ai/) - Guess Human vs. AI
@@ -675,21 +671,23 @@
 
 ***
 
-## ▷ Geoguessr Games
+## ▷ GeoGuessr Games
 
-* ⭐ **[Globle](https://globle-game.com/)** - Country Hot-or-cold Guessing Game
+* ⭐ **[Globle](https://globle-game.com/)** - Country Hot-or-Cold Guessing Game
 * [Emily's GeoGuessr Tools](https://geo.emily.bz/) - GeoGuessr Tools
 * [GeoTips](https://geotips.net/) / [Discord](https://discord.gg/svhWzU7FMa), [Plonk It](https://www.plonkit.net/) or [Top Tricks](https://somerandomstuff1.wordpress.com/2019/02/08/geoguessr-the-top-tips-tricks-and-techniques/) - GeoGuessr Guides
-* [OpenGuessr](https://openguessr.netlify.app/) - Free Geoguessr Alternative w/ Multiplayer
-* [Geotastic](https://geotastic.net/) - Multiplayer Geoguessr / Account Required
-* [WorldGuessr](https://www.worldguessr.com/) - Free Geoguessr Alternative
-* [City Guesser](https://virtualvacation.us/guess) - Video-Based Geoguessr
+* [OpenGuessr](https://openguessr.netlify.app/) - Free GeoGuessr Alternative w/ Multiplayer
+* [Geotastic](https://geotastic.net/) - Multiplayer GeoGuessr / Account Required
+* [WorldGuessr](https://www.worldguessr.com/) - Free GeoGuessr Alternative
+* [City Guesser](https://virtualvacation.us/guess) - Video-Based GeoGuessr
 * [Quizzity](https://david-peter.de/quizzity/) - City Guessing Game
 * [LostGamer](https://lostgamer.io/) - Video Game GeoGuessr
 * [GTA V GeoGuesser](https://gta-geoguesser.com/) - GTA V GeoGuessr
 * [TimeGuessr](https://timeguessr.com/) - Historical Time-period GeoGuessr
+* [LanguageGuessr](https://languageguessr.io/) - Language GeoGuessr
+* [GeoArtwork](https://artsandculture.google.com/experiment/geo-artwork/wgEPVBAUiRVlEQ) - Guess Origins of Cultural Artifacts
 * [travle](https://travle.earth/) - Guess Countries Between Two Locations
-* [MapGenerator](https://map-generator-nsj.vercel.app/) - Geoguessr Map Generator
+* [MapGenerator](https://map-generator-nsj.vercel.app/) - GeoGuessr Map Generator
 
 ***
 
@@ -698,27 +696,27 @@
 * 🌐 **[Awesome Wordle](https://github.com/prakhar897/awesome-wordle)**, [Wordles of the World](https://rwmpelstilzchen.gitlab.io/wordles/) or [Wordleverse](https://wordleverse.net/games) - Wordle Game Index
 * ⭐ **[Wordle](https://www.nytimes.com/games/wordle/index.html)** - Original Wordle
 * ⭐ **[Wordle Analyzer](https://wordle-analyzer.com/)**
-* [JKLM.FUN](https://jklm.fun/) - Multiplayer Word Guessing Game
-* [Sqword](https://www.sqword.com/)
-* [Wordle Unlimited](https://wordleunlimited.org/)
-* [Pixletters](https://pixletters.com/)
-* [Alphabeticle](https://alphabeticle.xyz/)
-* [WordMaze](https://wordmaze.click/)
-* [WordleGame](https://wordlegame.org/)
-* [Squaredle](https://squaredle.app/)
-* [Wourdle](https://wourdle.com/)
-* [Wordlevs](https://wordlevs.com/)
-* [Octordle](https://www.britannica.com/games/octordle/)
-* [Huedle](https://huedle.com/)
-* [Nerdle](https://nerdlegame.com/) - Number Guessing Game
-* [Factle](https://factle.app/) - Fact Style Wordle
-* [Countle](https://www.countle.org/) - Math Style Wordle
-* [Hexcodle](https://www.hexcodle.com/) - Hex Code Wordle
-* [Ridella](https://ridella.xyz/) - Riddle Style Wordle
-* [LoLdle](https://loldle.net/) - League of Legends Wordle
-* [Minecraftle](https://minecraftle.zachmanson.com/) - Minecraft Crafting Style Wordle
-* [Squirdle](https://squirdle.fireblend.com/) - Pokémon Style Wordle
-* [Worldle](https://worldle.teuteuf.fr/) - Country Wordle
+* ⭐ **[BestCrosswords](https://www.bestcrosswords.com/)**, [TheWordSearch](https://thewordsearch.com/) or [Regex-Crossword](https://jimbly.github.io/regex-crossword/) - Crossword Puzzles / [Creator](https://puzzlemaker.discoveryeducation.com/), [2](https://www.xwords-generator.de/en) / [Solver](https://www.wordplays.com/), [2](https://www.dictionary.com/e/crosswordsolver/), [3](https://crossword-solver.io/)
+* ⭐ **[KillerCrossword](https://killercrossword.com/)** - No Clue Crosswords
+* ⭐ **[MoreWords](https://www.morewords.com/)** , [PlayScrabble](https://playscrabble.com/) or [WordHub](https://wordhub.com/) - Scrabble
+* [MakeAWordSearch](http://www.makeawordsearch.net/) - Word Search Creator
+* [Connections](https://connections.swellgarfo.com/) - Custom Word Puzzles
+* [RobinWords](https://www.robinwords.com/) - Word Ladder Game
+* [Truncate](https://truncate.town/) - Crossword Strategy Game
+* [HoverCats](https://hovercats.gg/) - Multiplayer Crosswords
+* [JKLM.FUN](https://jklm.fun/) - Multiplayer Word Games
+* [eWordChallenge](https://www.ewordchallenge.net/) - Boggle Online
+* [Squaredle](https://squaredle.app/) - Daily Word Puzzle
+* [Wordle VS](https://wordlevs.com/) - Multiplayer Wordle
+* [Wordle Unlimited](https://wordleunlimited.org/) - Wordle without Daily Limit
+* [Wordly](https://wordly.org/) - Wordle Clone
+* [Octordle](https://www.britannica.com/games/octordle/) - Eight Word Wordle
+* [Sqword](https://www.sqword.com/) - Deck-Based Wordle
+* [Alphabeticle](https://alphabeticle.xyz/) - Alphabetical Wordle
+* [WordMaze](https://wordmaze.click/) - Maze Style Wordle
+* [Pixletters](https://pixletters.com/) - Pixel Style Wordle
+* [Wourdle](https://wourdle.com/) - British English Wordle
+* [Ridella](https://ridella.xyz/) - Riddle Wordle
 
 ***
 
