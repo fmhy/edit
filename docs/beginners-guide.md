@@ -27,7 +27,8 @@ You can use [WhereYouWatch](https://whereyouwatch.com) for finding movies, and f
 Use the tools listed [here](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/game-tools/#wiki_.25B7_steam_.2F_epic) to unlock DLCs.
 
 > Should I install and use *insert random antivirus software* instead of using Windows Defender?
-No, don't do that. Windows Defender is more than enough to keep you safe, but if you're still set on installing a secondary AV, the only one worth installing is Malwarebytes. Please read the note [here](#anti-virus).
+No, don't do that. Windows Defender is more than enough to keep you safe, but if you're still set on installing a secondary AV, the only one worth installing is Malwarebytes. Please read the note [here](#antivirus).
+
 !!!warning Stay away from Avast, Norton, and McAfee, as these are "bloatware" and generally unsafe software.
 
 > How can I download an image from *insert stock image site*?
