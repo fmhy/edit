@@ -201,15 +201,11 @@
 
 ## ▷ Formatting / Deletion
 
-* ⭐ **[SDelete](https://learn.microsoft.com/en-us/sysinternals/downloads/sdelete)** - Command-line Tool For Secure File Deletion
-
+* ⭐ **[SDelete](https://learn.microsoft.com/en-us/sysinternals/downloads/sdelete)** - File Deletion CLI
 * [Eraser](https://eraser.heidi.ie/), [File Shredder](https://fileshredder.org/), [Alternate File Shredder](https://www.alternate-tools.com/pages/c_fileshredder.php?lang=ENG), [Permadelete](https://developerstree.github.io/permadelete/) or [Delapp](https://github.com/differentrain/Delapp) - File Shredding
-
-* [SSuite File Shredder and Burner](https://www.ssuiteoffice.com/software/ssuitefileshredder.htm) - File Shredder With Disk Burning
-
-* [Low Level Format](https://www.lowlevelformat.info/), [nwipe](https://github.com/martijnvanbrummelen/nwipe), [ShredOS](https://github.com/PartialVolume/shredos.x86_64) - Complete Hard Drive Erasure
-
-* [RED](https://www.jonasjohn.de/red.htm) - Remove Empty Directories  
+* [SSuite File Shredder and Burner](https://www.ssuiteoffice.com/software/ssuitefileshredder.htm) - File Shredder w/ Disk Burning
+* [Low Level Format](https://www.lowlevelformat.info/), [nwipe](https://github.com/martijnvanbrummelen/nwipe) or [ShredOS](https://github.com/PartialVolume/shredos.x86_64) - Complete Hard Drive Erasers
+* [RED](https://www.jonasjohn.de/red.htm) - Remove Empty Directories
 
 ***
 
