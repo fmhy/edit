@@ -156,29 +156,25 @@
 
 ## ▷ File Backup / Sync
 
-* ⭐ **[SyncThing](https://syncthing.net/)** - File Sync / [GitHub](https://github.com/syncthing/syncthing)
-* ⭐ **[freefilesync](https://freefilesync.org/)** - File Backup
-* ⭐ **[Kopia](https://kopia.io/)** - File Backup / [GitHub](https://github.com/kopia/kopia/)
-* [SyncThingTray](https://martchus.github.io/syncthingtray/) - Tray Support / [GitHub](https://github.com/Martchus/syncthingtray)
-* [MyPhoneExplorer](https://www.fjsoft.at/) - Phone / Desktop Sync
-* [SyncFolder](https://apps.microsoft.com/detail/9nc73mjwhsww?rtc=1&hl=en-us&gl=US) - Phone / Desktop Sync
-* [etesync](https://www.etesync.com/) - File Sync
-* [allwaysync](https://allwaysync.com/) - File Sync
-* [Resilio](https://www.resilio.com/individuals/) - File Sync
-* [SmartFTP](https://www.smartftp.com/) - File Sync
-* [rsync](https://rsync.samba.org) - File Sync / [GitHub](https://github.com/WayneD/rsync)
-* [Unison](https://github.com/bcpierce00/unison) - File Sync
-* [FolderClone](https://www.folderclone.com/) - Clone / Backup Folders
-* [BackupPC](https://backuppc.github.io/backuppc/) - File Backup
-* [TeraCopy](https://www.codesector.com/teracopy) - File Backup
-* [restic](https://restic.net/) - File Backup / [GitHub](https://github.com/restic/restic)
-* [UrBackup](https://www.urbackup.org/) - File Backup
-* [Aomei](https://www.ubackup.com/) - File Backup
-* [Duplicati](https://www.duplicati.com/) - File Backup
-* [Borg](https://www.borgbackup.org/) - File Backup
-* [USBImager](https://bztsrc.gitlab.io/usbimager/) - File Backup
-* [Toucan](https://github.com/PortableApps/Toucan) - File Backup
-* [duplicity](https://duplicity.gitlab.io/) - File Backup
+* ⭐ **[SyncThing](https://syncthing.net/)** - Cross-Platform File Sync / [GitHub](https://github.com/syncthing/syncthing)
+* ⭐ **[freefilesync](https://freefilesync.org/)** - Open-Source File Backup
+* ⭐ **[Kopia](https://kopia.io/)** - Encrypted File Backup / [GitHub](https://github.com/kopia/kopia/)
+* [SyncThingTray](https://martchus.github.io/syncthingtray/) - SyncThing Tray Support / [GitHub](https://github.com/Martchus/syncthingtray)
+* [MyPhoneExplorer](https://www.fjsoft.at/),[SyncFolder](https://apps.microsoft.com/detail/9nc73mjwhsww?rtc=1&hl=en-us&gl=US) - Phone and Desktop Sync
+* [allwaysync](https://allwaysync.com/) - File Sync Utility
+* [Resilio](https://www.resilio.com/individuals/) - P2P File Sync
+* [SmartFTP](https://www.smartftp.com/) - FTP File Sync
+* [rsync](https://rsync.samba.org) - Command-line File Sync / [GitHub](https://github.com/WayneD/rsync)
+* [Unison](https://github.com/bcpierce00/unison) - Bidirectional File Sync
+* [FolderClone](https://www.folderclone.com/) - Folder Clone and Backup
+* [BackupPC](https://backuppc.github.io/backuppc/) - Networked file backup
+* [TeraCopy](https://www.codesector.com/teracopy) - File Transfer and Backup
+* [restic](https://restic.net/) / [GitHub](https://github.com/restic/restic), [duplicity](https://duplicity.gitlab.io/) or [Duplicati](https://www.duplicati.com/) - Secure File Backup 
+* [UrBackup](https://www.urbackup.org/) - Client/Server File Backup
+* [Aomei](https://www.ubackup.com/) - Windows File Backup
+* [Borg](https://www.borgbackup.org/) - Deduplicating File Backup
+* [USBImager](https://bztsrc.gitlab.io/usbimager/) - USB Image Backup
+* [Toucan](https://github.com/PortableApps/Toucan) - Portable File Backup
 
 ***
 
