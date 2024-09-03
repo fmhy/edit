@@ -475,7 +475,7 @@
 
 # ► Minecraft Tools
 
-* 🌐 **[MCDOC](https://dc.openm.tech/)** - Minecraft Tools & Unlockers / [Discord](https://dsc.gg/open-m)
+* 🌐 **[MCDOC](https://mcdoc.openm.tech/)** - Minecraft Tools & Unlockers / [Discord](https://dc.openm.tech/)
 * 🌐 **[Awesome Minecraft](https://github.com/bs-community/awesome-minecraft)** or [Birdflop](https://www.birdflop.com/resources/) - Minecraft Resources
 * ⭐ **[Minecraft Wiki](https://minecraft.wiki/)** or [Discontinued Features Wiki](https://mcdf.wiki.gg/) - Minecraft Wikis
 * ⭐ **[Villager Trading Cheatsheet](https://rayb78.github.io/minecraft-villager-trade-chart.html)**, [2](https://i.ibb.co/sKBjbzg/e9f8d80e2376.png)
