@@ -1140,7 +1140,7 @@
 
 ### Simple Site Creators
 
-[Straw.Page](https://straw.page/), [Own Free Website](https://www.own-free-website.com), [itty.bitty](https://itty.bitty.site/), [mmm](https://build.mmm.page/), [cargo](https://cargo.site/), [Jigsy](https://jigsy.com/), [Temper](https://temper.one/), [Neocities](https://neocities.org/), [Mobirise](https://mobirise.com/), [Silex](https://www.silex.me/), [Publii](https://getpublii.com/), [Eleventy](https://11ty.dev/), [nekoweb](https://nekoweb.org/), [Kinsta](https://kinsta.com/static-site-hosting/), [Pelican](https://getpelican.com/)
+[Straw.Page](https://straw.page/), [Own Free Website](https://www.own-free-website.com), [itty.bitty](https://itty.bitty.site/), [mmm](https://build.mmm.page/), [cargo](https://cargo.site/), [Jigsy](https://jigsy.com/), [Temper](https://temper.one/), [Neocities](https://neocities.org/), [Mobirise](https://mobirise.com/), [Silex](https://www.silex.me/), [Publii](https://getpublii.com/), [Eleventy](https://11ty.dev/), [nekoweb](https://nekoweb.org/), [Kinsta](https://kinsta.com/static-site-hosting/), [Pelican](https://getpelican.com/), [Carmatec](https://www.carmatec.com)
 
 ***
 
