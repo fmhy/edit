@@ -46,9 +46,14 @@ export default defineConfig({
     ['link', { rel: 'icon', href: '/test.png', type: 'image/svg+xml' }],
     ['link', { rel: 'alternate icon', href: '/test.png' }],
     ['link', { rel: 'mask-icon', href: '/test.png', color: '#7bc5e4' }],
-    // prettier-ignore
     ["meta", { name: "keywords", content: meta.keywords.join(" ") }],
-    ['link', { rel: 'apple-touch-icon', href: '/test.png', sizes: '192x192' }]
+    ['link', { rel: 'apple-touch-icon', href: '/test.png', sizes: '192x192' }],
+    // Bing site verification
+    ["meta", {
+      name: "msvalidate.01", content: "55ae5a0600A8C7827B59CFD506D76DC2"
+    }],
+    // Google site verification
+    ["meta", { name: "google-site-verification", content: "XCq-ZTw6VJPQ7gVNEOl8u0JRqfadK7WcsJ0H598Wv9E" }]
   ],
   transformHead: async (context) => generateMeta(context, meta.hostname),
   buildEnd: async (context) => {
