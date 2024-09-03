@@ -383,8 +383,8 @@
 * ⭐ **[searx.fmhy](https://searx.fmhy.net/)**, [Fuck Off Google](https://search.fuckoffgoogle.net/), [searx](https://searx.be/), [tiekoetter](https://searx.tiekoetter.com/), [monocles](https://monocles.de/) - Searx Instance / [GitHub](https://github.com/searxng/searxng)
 * ⭐ **[Metager](https://metager.org/)**
 * ⭐ **[Araa](https://araa.extravi.dev/)** / Uses Google / DDG / Qwant
-* ⭐ **[DuckDuckGo](https://duckduckgo.com/)** - [Shortcuts](https://duckduckgo.com/bangs), [2](https://github.com/dmlls/yang) / Uses Bing
 * [whoogle.fmhy](https://whoogle.fmhy.net/) - Whoogle Instance  / Uses Google
+* [DuckDuckGo](https://duckduckgo.com/) - [Shortcuts](https://duckduckgo.com/bangs), [2](https://github.com/dmlls/yang) / Uses Bing
 * [LibreY](https://github.com/Ahwxorg/librey) or [LibreX](https://github.com/hnhx/librex)
 * [4get](https://4get.ca/)
 * [Mojeek](https://www.mojeek.com/)

@@ -24,6 +24,7 @@
 * [FlixHQ](https://flixhq.click/) - Movies / TV / 1080p
 * [NetMovies](https://web.netmovies.to/home/) - Movies / TV / 1080p
 * [GGMovies](https://ggmovies.net/) - Movies / TV / Anime / 1080p / [Telegram](https://t.me/ggmoviesnews)
+* [FMoviesHD](https://fmovies-hd.to/) - Movies / TV / Anime / 1080p
 * [Autoembed](https://watch.autoembed.cc/) - Movies / TV / Anime / Drama / 4K / 1080p / [API Docs](https://autoembed.cc/#api/) / [Discord](https://discord.gg/BWDSXV9aX4)
 * [Streaming CSE](https://cse.google.com/cse?cx=006516753008110874046:cfdhwy9o57g##gsc.tab=0), [2](https://cse.google.com/cse?cx=006516753008110874046:o0mf6t-ugea##gsc.tab=0), [3](https://cse.google.com/cse?cx=98916addbaef8b4b6), [4](https://cse.google.com/cse?cx=0199ade0b25835f2e) - Multi-Site Search
 * [WatchingZone](https://www.watching.zone/) - Movies / TV / Anime / 1080p
@@ -90,7 +91,6 @@
 * [UniqueStream](https://uniquestream.net/) - Movies / TV / 1080p
 * [English Movies](https://m.vk.com/english_movies) - Movies / 1080p
 * [StreamLord](http://www.streamlord.com/) - Movies / TV / 1080p
-* [MoviPlus](https://moviplus.net/) - Movies / TV / 1080p
 * [VidCloud](https://vidcloud1.com/) - Movies / TV / 1080p
 * [Show Flix](https://showflix.xyz/lan/movie/English) - Movies / TV / 1080p / Switch Audio Source in Settings
 * [NetMirror](https://pcmirror.cc/home) - Movies / TV / 720p
@@ -541,8 +541,6 @@
 * ⭐ **[Video Download CSE](https://cse.google.com/cse?cx=006516753008110874046:wevn3lkn9rr)** / [CSE 2](https://cse.google.com/cse?cx=89f2dfcea452fc451) / [CSE 3](https://cse.google.com/cse?cx=aab218d0aa53e3578)
 * [DDLBase](https://ddlbase.com/) - Movies / TV / 4K
 * [KatMovieHD](https://katmoviehd.boo/) - Movies / TV / Anime / 1080p / [Telegram](https://t.me/joinchat/TMuzf8VYH7M1YWVh)
-* [RareLust](https://rarelust.com/) - Rare Movies / NSFW / 1080p
-* [My Duck Is Dead](https://myduckisdead.org/) - Rare Movies / NSFW / 1080p
 * [StagaTV](https://www5.stagatv.com/) - Movies / TV / 1080p
 * [StarsDDL](https://starsddl.me/) - Movies / TV / 1080p
 * [Movies Ni Pipay](https://moviesnipipay.me/) - Movies / TV / 1080p

@@ -296,3 +296,7 @@
 * [Real-Debrid](https://real-debrid.com/) - Paid Debrid Service / [Torrent Client](https://github.com/rogerfar/rdt-client) / [Movies / TV](https://hdencode.org/)
 * [Debrid-Link](https://debrid-link.com) - Debrid with Free Tier
 * [Debrid Media Manager](https://debridmediamanager.com/) - Manage / Stream / Download RD Files
+
+***
+
+# ► [Download Managers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/file-tools#wiki_.25B7_download_managers)

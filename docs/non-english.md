@@ -482,7 +482,7 @@
 ## ▷ Streaming
 
 * [Greek-Movies](https://greek-movies.com/) - Movies / TV / Live / Courses / Dub / 720p
-* [An1me](https://an1me.to/) - Anime / Sub / 1080p
+* [An1me](https://an1me.io/) - Anime / Sub / Dub / 1080p
 * [GreekTV](https://greektv.app/) - IPTV
 
 ***

@@ -115,6 +115,7 @@
 * ⭐ **[GoG Galaxy](https://www.gog.com/galaxy)** or **[Project GLD](https://github.com/Y0URD34TH/Project-GLD/)** - Game Libraries / Launchers
 * [Launchbox](https://www.launchbox-app.com/) - Retro / Console Game Library / Launcher
 * [GameHUB Launcher](https://www.deviantart.com/not-finch/art/GameHUB-launcher-2-for-Rainmeter-785369648) - Rainmeter Game Launcher
+* [Fit-Launcher](https://github.com/CarrotRub/Fit-Launcher/) - Game Launcher / Torrent Client
 * [Hydra](https://github.com/hydralauncher/hydra) - Game Launcher / Torrent Client / [Plugins](https://hydralinks.cloud/) / [Discord](https://discord.com/invite/hydralaunchercommunity) / [Telegram](https://t.me/hydralauncher)
 * [OpenGamepadUI](https://github.com/ShadowBlip/OpenGamepadUI) - Gamepad Native Launcher
 * [Arc](https://www.arcgames.com/en/about/client) - Gearbox Game Launcher / Library

@@ -155,7 +155,9 @@
 ## ▷ Clipboard Managers
 
 * ⭐ **[Ditto](https://ditto-cp.sourceforge.io/)** - Clipboard Manager
-* [ArsClip](https://www.joejoesoft.com/vcms/97/) or [ClipAngel](https://sourceforge.net/projects/clip-angel/) - Clipboard Managers
+* [CrossPaste](https://github.com/crosspaste/crosspaste-desktop) - Clipboard Manager
+* [ArsClip](https://www.joejoesoft.com/vcms/97/) - Clipboard Manager
+* [ClipAngel](https://sourceforge.net/projects/clip-angel/) - Clipboard Manager
 * [CopyQ](https://hluk.github.io/CopyQ/) or [XClipper](https://kaustubhpatange.github.io/XClipper/) - Clipboard Managers with Editing and Scripting Features
 * [MultiClipBoardSlots](https://www.softwareok.com/?seite=Microsoft/MultiClipBoardSlots) - Extend Clipboard by 10 Memory Slots
 * [Xtra Clipboard](https://xtra-clipboard.com/) - Chrome Clipboard Manager
