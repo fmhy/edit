@@ -112,17 +112,14 @@
 
 ## ▷ Audio Transcription
 
-* [mp4grep](https://github.com/o-oconnell/mp4grep)
-* [SpeechTexter](https://www.speechtexter.com/)
-* [Revoldiv](https://revoldiv.com/)
-* [Vibe](https://thewh1teagle.github.io/vibe/)
-* [SpeechNotes](https://speechnotes.co/)
-* [LilySpeech](https://lilyspeech.com/)
-* [VoiceToText](https://voicetotext.org/)
-* [TalkTyper](https://talktyper.com/)
-* [Turboscribe](https://turboscribe.ai/)
-* [Dictation](https://dictation.io/speech)
-* [VoiceNotebook](https://voicenotebook.com/)
+* [mp4grep](https://github.com/o-oconnell/mp4grep) - MP4 file transcription tool
+* [SpeechTexter](https://www.speechtexter.com/), [VoiceToText](https://voicetotext.org/), [Dictation](https://dictation.io/speech) or [TalkTyper](https://talktyper.com/) - Browser-Based Speech-To-Text Tools
+* [Revoldiv](https://revoldiv.com/) or [Turboscribe](https://turboscribe.ai/) - AI-based transcription services
+* [Vibe](https://thewh1teagle.github.io/vibe/) - Audio transcription software
+* [SpeechNotes](https://speechnotes.co/) - Speech recognition notes app
+* [LilySpeech](https://lilyspeech.com/) - Fast voice-to-text software
+* [VoiceNotebook](https://voicenotebook.com/) - Speech transcription notebook
+
 
 ***
 
