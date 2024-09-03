@@ -136,7 +136,6 @@
 * ↪️ **[Windows ISOs / Activation](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/system-tools#wiki_.25BA_windows_isos)**
 * ⭐ **[CRACKSurl](https://cracksurl.com/)** / [Telegram](https://t.me/cracksurldotcom)
 * ⭐ **[LRepacks](https://lrepacks.net/)**
-* ⭐ **[Game Bounty Software](https://gamebounty.world/software/)** - Download / [Discord](https://dsc.gg/gamebounty)
 * ⭐ **[Mobilism](https://forum.mobilism.org/)** - [Mobile App](https://forum.mobilism.org/app/)
 * ⭐ **[soft98](https://soft98.ir/)** - Use [translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)
 * ⭐ **[Nsane Forums](https://www.nsaneforums.com/)** - Signup Required
