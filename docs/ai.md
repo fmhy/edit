@@ -373,6 +373,7 @@
 * [AI Jukebox](https://huggingface.co/spaces/enzostvs/ai-jukebox)
 * [Drum Loop AI](https://www.drumloopai.com/) - Drum Loop Generator
 * [WOMBO](https://www.wombo.ai/) - AI Powered Lip Sync
+* [SendFame](https://sendfame.com/ai-music-generator) - Text to AI Music Videos
 
 ***
 
