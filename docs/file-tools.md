@@ -166,13 +166,13 @@
 * [SmartFTP](https://www.smartftp.com/) - FTP File Sync
 * [rsync](https://rsync.samba.org) - Command-line File Sync / [GitHub](https://github.com/WayneD/rsync)
 * [Unison](https://github.com/bcpierce00/unison) - Bidirectional File Sync
-* [FolderClone](https://www.folderclone.com/) - Folder Clone and Backup
-* [BackupPC](https://backuppc.github.io/backuppc/) - Networked file backup
-* [TeraCopy](https://www.codesector.com/teracopy) - File Transfer and Backup
+* [FolderClone](https://www.folderclone.com/) - Folder Clone / Backup
+* [BackupPC](https://backuppc.github.io/backuppc/) - Networked File backup
+* [TeraCopy](https://www.codesector.com/teracopy) - File Transfer / Backup
 * [restic](https://restic.net/) / [GitHub](https://github.com/restic/restic), [duplicity](https://duplicity.gitlab.io/) or [Duplicati](https://www.duplicati.com/) - Secure File Backup 
-* [UrBackup](https://www.urbackup.org/) - Client/Server File Backup
+* [UrBackup](https://www.urbackup.org/) - Client / Server File Backup
 * [Aomei](https://www.ubackup.com/) - Windows File Backup
-* [Borg](https://www.borgbackup.org/) - Deduplicating File Backup
+* [Borg](https://www.borgbackup.org/) - De-duplicating File Backup
 * [USBImager](https://bztsrc.gitlab.io/usbimager/) - USB Image Backup
 * [Toucan](https://github.com/PortableApps/Toucan) - Portable File Backup
 
