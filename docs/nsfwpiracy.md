@@ -601,7 +601,6 @@
 * ⭐ **[NameThatPorn](https://namethatporn.com/)**, [NameThatPornstar](https://namethatpornstar.com/), [r/pornID](https://www.reddit.com/r/pornID/) or [r/tipofmypenis](https://www.reddit.com/r/tipofmypenis/) - Porn Identification Communities
 * ⭐ **[Vibemate PC](https://vibemate.com/)** - Feature-Rich Porn Browser
 * ⭐ **[Bypass Subreddit Blocks](https://pastebin.com/gAAEQnqn)**
-* [Panic Button](https://aecreations.io/panicbutton/index.php) - Quickly Close All Tabs
 * [Javinizer](https://github.com/javinizer/Javinizer) - JAV File Organizer
 * [DeepMosaics](https://github.com/HypoX64/DeepMosaics) - Remove Mosaics from Porn
 * [ThePornDB](https://metadataapi.net/) - Porn Metadata
