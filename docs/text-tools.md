@@ -152,7 +152,7 @@
 
 * ⭐ **[QuillBot AI](https://quillbot.com/)** - AI-Enhanced Text Rephrasing
 * ⭐ **[Paraphrasetool](https://paraphrasetool.com/)** or [Rephrasely](https://rephrasely.com/) - AI Text Rephrasing /Generation
-* ⭐ **[Goblin.tools](https://goblin.tools/)** - Transform Text w/ Spiciness Levels
+* ⭐ **[Goblin.tools](https://goblin.tools/)** - Transform Text with Spiciness Levels
 * [Paraphraser](https://www.paraphraser.io/) - Multilingual Text Rephrasing
 * [Recast](https://www.letsrecast.ai/) or [SMMRY](https://smmry.com/) - Text Summaries
 * [Paraphrase-Online](https://paraphrase-online.com/), [Paraphrasingtool](https://paraphrasingtool.ai/), [Henshu](https://www.henshu.ai/) or [WriteFull](https://www.writefull.com/) - Versatile Text Rewriting
@@ -481,7 +481,7 @@
 * [Bitfontmaker2](https://pentacom.jp/pentacom/bitfontmaker2/) - BitFont Creator
 * [FontJoy](https://fontjoy.com/) - Font Pairings Generator
 * [Typerip](https://badnoise.net/TypeRip/) - Adobe Font Ripper / [GitHub](https://github.com/CodeZombie/TypeRip)
-* [FontEdit](https://github.com/ayoy/fontedit), [metaflop](https://www.metaflop.com/) , [glif](https://github.com/MFEK/glif), [Glyphr Studio](https://www.glyphrstudio.com/), [Bird Font](https://birdfont.org/), [Universal Sans](https://universalsans.com/) or [Font Forge](https://fontforge.org/en-US/) - Font / Typeface Editors
+* [FontEdit](https://github.com/ayoy/fontedit), [metaflop](https://www.metaflop.com/), [glif](https://github.com/MFEK/glif), [Glyphr Studio](https://www.glyphrstudio.com/), [Bird Font](https://birdfont.org/), [Universal Sans](https://universalsans.com/) or [Font Forge](https://fontforge.org/en-US/) - Font / Typeface Editors
 * [Transfonter](https://transfonter.org/) - Font Converter
 * [FontBase](https://fontba.se/) or [Xiles](https://www.xiles.app/) - Font Manager
 * [Font List](https://wavian.com/font-list.html) or [So You Need A Typeface](https://ianli.github.io/so-you-need-a-typeface/) - Examples of Font Styles

@@ -225,7 +225,7 @@
 * [Scored](https://communities.win/) - User-Driven Discussion
 * [Ramble](https://ramble.pw/) - Privacy-Focused
 * [Squabblr](https://squabblr.co/) - Twitter / Reddit Style Alt
-* [Discuit](https://discuit.net/) - Centralized Reddit Alt w/ User Control
+* [Discuit](https://discuit.net/) - Centralized Reddit Alt with User Control
 
 ***
 
@@ -785,7 +785,7 @@
 * [Arbital](https://arbital.com/) - Hybrid Blogging / Wiki Platform
 * [Haven](https://havenweb.org/) or [WriteFreely](https://writefreely.org/) - Self-hosted Blogging Platforms
 * [Multiverse](https://multiverse.plus/) - Make Highly Customizable Blogs
-* [Bear Blog](https://bearblog.dev/), [Mataroa](https://mataroa.blog/), or [smol.pub](https://smol.pub/) / [Key](https://m15o.ichi.city/smolpub/key-request.html) - Minimalist Blogging Platforms
+* [Bear Blog](https://bearblog.dev/), [Mataroa](https://mataroa.blog/) or [smol.pub](https://smol.pub/) / [Key](https://m15o.ichi.city/smolpub/key-request.html) - Minimalist Blogging Platforms
 * [Notepin](https://notepin.co/) - Anonymous Blogging Platform
 * [Zonelets](https://zonelets.net/) - Static Blog Template
 * [twtxt](https://github.com/buckket/twtxt) - Decentralized Minimalist Microblogging Service

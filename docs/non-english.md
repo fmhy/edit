@@ -137,7 +137,7 @@
 * [TopHub](https://tophub.today/) or [Chinadaily](https://cn.chinadaily.com.cn/) - News
 * [ixigua.com](https://www.ixigua.com/) - Chinese alternative to Youtube and TikTok
 * [iyd.wang](https://www.iyd.wang/) - Chinese books fiction / non fiction
-* [feiku6](https://www.feiku6.com/)  - Chinese books reading / listening
+* [feiku6](https://www.feiku6.com/) - Chinese books reading / listening
 * [Salty Leo](https://book.tstrs.me/search) - Chinese / books / fiction / non-fiction / downloading
 * [IT Home](https://www.ithome.com/) - Tech News
 * [jialezi](https://blog.jialezi.net/) - Tech Tutorials
@@ -507,7 +507,7 @@
 
 ## ▷ Downloading / הורדה
 
-* [AnimeBlood](https://animebloodsub.net/)  - Anime / Download / Sub
+* [AnimeBlood](https://animebloodsub.net/) - Anime / Download / Sub
 * [ultsub](https://ultsub.co.il/) - Anime / Sub / [Discord](https://discord.gg/4Bc8b2W) / [Telegram](https://t.me/UltSub)
 
 ***
@@ -1607,7 +1607,7 @@
 ## ▷ Reading / Okuma
 
 * [Booksfer](https://booksfer.com) - Books
-* [Telegram Groups](https://t.me/addlist/XeOr3go8Q2MwZTNk), [Kütüphanem Yeniden](https://t.me/davetbotu5_bot) or [Kitap Botu](https://t.me/Arakitappbot) / [2](https://t.me/KKCI_BOT)  - Books
+* [Telegram Groups](https://t.me/addlist/XeOr3go8Q2MwZTNk), [Kütüphanem Yeniden](https://t.me/davetbotu5_bot) or [Kitap Botu](https://t.me/Arakitappbot) / [2](https://t.me/KKCI_BOT) - Books
 * [Küflü e-kitap](https://www.kuflu.com/forums/e-kitap.58), [Küflü manga](https://www.kuflu.com/forums/anime-ve-manga.28) - Books / Magazines
 * [Udemy Bot](https://t.me/birikursbotumudedibot) - Udemy
 * [Manga Denizi](https://www.mangadenizi.net/) / [Discord](https://discord.com/invite/8zBMSGZ), [Manga TR](https://manga-tr.com/), [Manga Ay](https://manga-ay.com/), [Mavi Manga](https://mavimanga.com/), [Trwebtoon](https://trwebtoon.com/), [Nirvana Manga](https://nirvanamanga.com/), [Raindrop](https://www.raindropteamfan.com/), [Seri Manga](https://serimangas.com/), [Glory Manga](https://glorymanga.com/) - Manga
@@ -1792,7 +1792,7 @@
 * [TruyenFull](https://truyenfull.vn/) - Manga / Light Novels
 * [Hako](https://docln.net/), [2](https://novelvn.net/) - Light Novels / [Facebook](https://www.facebook.com/groups/hako.group)
 * [Sonako](https://sonako.fandom.com/vi/wiki/Sonako_Light_Novel) - Light Novels / [Facebook](https://www.facebook.com/SonakoWiki/)
-* [Truyenyy](https://truyenyy.pro/)  - Light Novels / Freemium
+* [Truyenyy](https://truyenyy.pro/) - Light Novels / Freemium
 * [sstruyen](https://sstruyen.vn/) - Light Novels
 * [Babla](https://www.babla.vn/) - Dictionary
 * [VDict](https://vdict.com/) - Dictionary
