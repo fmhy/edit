@@ -258,6 +258,7 @@
 * [MusicStaff](https://musicstaff.com/) - Music Teacher Search
 * [ChiffAndFipple](https://forums.chiffandfipple.com/index.php) - Irish Traditional Music Forum
 * [MIMO](https://mimo-international.com/MIMO/) - Musical Instrument Database
+* [Tagirijus Books](https://books.tagirijus.de/) - German knowledge base for music theory and music production
 
 ***
 
