@@ -270,6 +270,7 @@
 * [Sharky's EAC Guide](https://docs.google.com/document/d/1b1JJsuZj2TdiXs--XDvuKdhFUdKCdB_1qrmOMGkyveg) - CD Audio Ripping Guide
 * [Exact Audio Copy](https://www.exactaudiocopy.de/) or [Whipper](https://github.com/whipper-team/whipper) - CD / DVD Audio Ripper
 * [AccurateRip](http://www.accuraterip.com/) - Verify Ripped Tracks are Error-Free
+* [Rip Spotify Podcasts](https://rentry.co/dlspotifypodcast) - Spotify for Podcasters™ Ripping Guide
 
 ***
 
