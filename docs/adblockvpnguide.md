@@ -68,8 +68,7 @@
 * ⭐ **[AdGuard Home](https://github.com/AdguardTeam/AdGuardHome/wiki/Docker)** - DNS Adblocking / Self-Hosted / [Setup](https://github.com/klutchell/balena-adguard) / [Filters](https://github.com/hl2guide/AdGuard-Home-Whitelist)
 * ⭐ **[Mullvad DNS](https://mullvad.net/en/help/dns-over-https-and-dns-over-tls/)** - DNS Adblocking / Filtering / [Extension](https://mullvad.net/en/download/browser/extension)
 * [BlahDNS](https://blahdns.com/), [AlternateDNS](https://alternate-dns.com/index.php), [LibreDNS](https://libredns.gr/), [Tiarap](https://doh.tiar.app/) - DNS Adblocking
-* [NextDNS](https://nextdns.io) / [Guide](https://github.com/yokoffing/NextDNS-Config) / [Video](https://youtu.be/WUG57ynLb8I) - Customizable DNS Adblocking
-* [Adguard DNS](https://adguard-dns.io/), [ControlD](https://controld.com/free-dns) - Customizable DNS Adblocking
+* [NextDNS](https://nextdns.io) / [Guide](https://github.com/yokoffing/NextDNS-Config) / [Video](https://youtu.be/WUG57ynLb8I), [Adguard DNS](https://adguard-dns.io/), [ControlD](https://controld.com/free-dns) - Customizable DNS Adblocking Services
 * [NxFilter](https://nxfilter.org/) - Customizable DNS Adblocking / Self-Hosted
 * [TBlock](https://tblock.me/) - DNS Adblocking Client / [Filters](https://codeberg.org/tblock/filters)
 * [Maza](https://maza-ad-blocking.andros.dev/) - Local DNS Adblocking Client
