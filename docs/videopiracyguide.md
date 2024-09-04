@@ -658,7 +658,7 @@
 * [NotFlix](https://github.com/Bugswriter/notflix) - Torrent Streaming Script
 * [Magnet Player](https://ferrolho.github.io/magnet-player/) - Stream Torrents in Browser
 * [Bobarr](https://github.com/iam4x/bobarr) or [Nefarious](https://github.com/lardbit/nefarious) - Movie / TV Autodownload / [Discord](https://discord.gg/PFwM4zk)
-* [SickChill](https://sickchill.github.io/) / [GitHub](https://github.com/SickChill/SickChill) or [CouchPotato](https://couchpota.to/) - Automatic Torrent / NZB Searching, Downloading &amp; Processing
+* [SickChill](https://sickchill.github.io/) / [GitHub](https://github.com/SickChill/SickChill) or [CouchPotato](https://couchpota.to/) - Automatic Torrent / NZB Searching, Downloading & Processing
 * [GMDB](https://github.com/Dentrax/GMDB), [PeerFlix](https://github.com/mafintosh/peerflix) / [Server](https://github.com/asapach/peerflix-server) - Torrent Streaming CLIs
 * [Autosearch Extension](https://github.com/trossr32/sonarr-radarr-lidarr-autosearch-browser-extension) - Sonarr/Radarr/Lidarr Autosearch Extension
 * [Unpackerr](https://unpackerr.zip/) - Automated Archive Extraction
@@ -772,7 +772,7 @@
 ## ▷ Recommendations
 
 * 🌐 **[Movie Recs](https://rentry.co/MovieRecs)** - Movie Recommendation Sites / Tools
-* ⭐ **[/r/ifyoulikeblank](https://www.reddit.com/r/ifyoulikeblank/)** - Movie, TV &amp; Anime Recommendations
+* ⭐ **[/r/ifyoulikeblank](https://www.reddit.com/r/ifyoulikeblank/)** - Movie, TV & Anime Recommendations
 * ⭐ **[TasteDive](https://tastedive.com/)** - Recommendations
 * ⭐ **[RatingsGraph](https://www.ratingraph.com/)** - Movie / TV Ratings Graphs
 * [Rec Charts](https://pastebin.com/ayuqSpGR), [2](https://mega.nz/folder/kj5hWI6J#0cyw0-ZdvZKOJW3fPI6RfQ) - Movie / TV / Anime Recommendation Guides
@@ -792,7 +792,7 @@
 * [CouchMoney](https://couchmoney.tv/) - Movie Recommendations for Trakt
 * [Cinetrii](https://cinetrii.com/) - Discover Movies with Similar Themes
 * [DateNightMovies](https://datenightmovies.com/) - Get Recommendations Based on 2 Movies
-* [Match-a-Movie](https://match-a-movie.com/) - Pick Movies w/ Friends
+* [Match-a-Movie](https://match-a-movie.com/) - Pick Movies with Friends
 * [MRQE](https://www.mrqe.com/) - Movie Review Search Engine
 * [DigitalDreamDoor](https://digitaldreamdoor.com/) - Greatest 100 Lists
 * [ReelScary](https://www.reelscary.com/) - Scary Movie Ratings
@@ -831,7 +831,7 @@
 * [asstosrt-wasm](https://sorz.github.io/asstosrt-wasm/) - ASS / SSA to SRT Subtitles Converter
 * [Revoldiv](https://revoldiv.com/), [pyTranscriber](https://pytranscriber.github.io/), [Auto-Subtitle](https://www.veed.io/tools/auto-subtitle-generator-online), [FreeSubtitlesAI](https://freesubtitles.ai/), [Vibe](https://thewh1teagle.github.io/vibe/) or [Turboscribe](https://turboscribe.ai/) - Video Transcribers
 * [TranslatesSubtitles](https://translatesubtitles.com/) - Translate Subtitles
-* [Auto Synced &amp; Translated Dubs](https://github.com/ThioJoe/Auto-Synced-Translated-Dubs) - Create Translated Dubs
+* [Auto Synced & Translated Dubs](https://github.com/ThioJoe/Auto-Synced-Translated-Dubs) - Create Translated Dubs
 * [SoniTranslate](https://github.com/R3gm/SoniTranslate) - Video Translator
 * [asbplayer](https://killergerbah.github.io/asbplayer/) - Subtitle Sentence Mining
 * [Sushi.net](https://github.com/maxpiva/Sushi.Net) - Automatic Subtitle Shifter Based on Audio
@@ -876,7 +876,7 @@
 * ↪️ **[File Data Automation](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/file-tools#wiki_.25B7_data_automation)**
 * ⭐ **[FastStream](https://faststream.online/)** - Fragmentation Streaming Extension / [GitHub](https://github.com/Andrews54757/FastStream/)
 * ⭐ **[DeepSearch](https://deepsearch.mycelebs.com/movie)**, [WhatsatMovie](https://whatsatmovie.com/) or [What is My Movie?](https://www.whatismymovie.com/) - Find Movies via Descriptions
-* ⭐ **[OpenVideo](https://openvideofs.github.io)** or [Stream-Bypass](https://github.com/ByteDream/stream-bypass) - Use Streaming Sites in Ad Free Player w/ subs, Speed Control & More
+* ⭐ **[OpenVideo](https://openvideofs.github.io)** or [Stream-Bypass](https://github.com/ByteDream/stream-bypass) - Use Streaming Sites in Ad Free Player with Subs, Speed Control & More
 * ⭐ **[WhereYouWatch](https://whereyouwatch.com/latest-reports/)** or [/r/movieleaks](https://reddit.com/r/movieleaks) - Movie Leak Notifications
 * ⭐ **[BingeClock](https://www.bingeclock.com/)**, [Can I Binge?](https://canibinge.com/) or [tiii.me](https://tiii.me/) - TV Show Length Calculators
 * ⭐ **[Spoiler Protection 2.0](https://spoilerprotection.wecdev.com/)** - Keyword / Spoiler Blocker
@@ -922,6 +922,6 @@
 * [VidSrc.me](https://vidsrc.me/) - Movies / TV / Anime / API / 1080p
 * [VidSrc.pro](https://vidsrc.pro/) - Movies / TV / Anime / API / 4K / 1080p
 * [VidSrc.cc](https://vidsrc.cc/) - Movies / TV / Anime / API / 1080p 
-* [SmashyStream API](https://embed.smashystream.com/)  - Movies / TV / Anime / API / 1080p
+* [SmashyStream API](https://embed.smashystream.com/) - Movies / TV / Anime / API / 1080p
 * [MoviesAPI](https://moviesapi.club/) - Movies / TV / Anime / API / 1080p  / [Telegram](https://t.me/moviesapi_club)
 * [moviee](https://moviee.tv/api) - Movies / TV / 1080p

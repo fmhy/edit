@@ -676,7 +676,7 @@
 * [Quick Tabs](https://github.com/babyman/quick-tabs-chrome-extension) - Quickly Switch between Current & Recently Closed Tabs
 * [Always Right](https://github.com/autonome/Always-Right/) - Always Open New Tabs to the Right
 * [User Agent Switcher](https://add0n.com/useragent-switcher.html) - Switch your User-Agent
-* [Auto Tab Discard](https://add0n.com/tab-discard.html) or [Tab Wrangler](https://github.com/tabwrangler/tabwrangler)  - Discard Inactive Tabs
+* [Auto Tab Discard](https://add0n.com/tab-discard.html) or [Tab Wrangler](https://github.com/tabwrangler/tabwrangler) - Discard Inactive Tabs
 * [Snooze Tabs](https://github.com/bwinton/SnoozeTabs) - Temporarily Snooze Tabs
 * [AutoRefresh](https://autorefresh.io/) or [Tab Auto Refresh](https://mybrowseraddon.com/tab-auto-refresh.html) - Refresh Tabs
 * [Tab for a Cause](https://tab.gladly.io/) - New Tabs = Charity Donation
@@ -820,7 +820,7 @@
 
 * 🌐 **[Awesome Userscripts](https://github.com/awesome-scripts/awesome-userscripts)**, [XIU2](https://github.com/XIU2/UserScript), [Scripts](https://gitlab.com/loopvid/scripts) or [Userscript.zone](https://www.userscript.zone/) - Userscript Indexes
 * ↪️ **[Google Search Userscripts](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools#wiki_.25B7_google_search_tools)**
-* ⭐ **[Violentmonkey](https://violentmonkey.github.io/)**, **[Tampermonkey](https://www.tampermonkey.net/)**, or [Firemonkey](https://addons.mozilla.org/en-US/firefox/addon/firemonkey/) - Userscript Managers
+* ⭐ **[Violentmonkey](https://violentmonkey.github.io/)**, **[Tampermonkey](https://www.tampermonkey.net/)** or [Firemonkey](https://addons.mozilla.org/en-US/firefox/addon/firemonkey/) - Userscript Managers
 * ⭐ **[Greasy Fork](https://greasyfork.org/)**, [OpenUserJS](https://openuserjs.org/) or [Userscripts](https://userscripts-mirror.org/) - Install Userscripts
 * ⭐ **Greasy Fork Tools** - [Enhancements](https://greasyfork.org/en/scripts/473830) / [Helper](https://greasyfork.org/en/scripts/393396) / [Tweaks](https://greasyfork.org/en/scripts/368183) / [Cleanup Script](https://greasyfork.org/en/scripts/12179) / [Themes](https://greasyfork.org/en/scripts/4336) / [Dark Theme](https://greasyfork.org/en/scripts/404443)
 * ⭐ **[Userscripts Guide](https://rentry.co/userscript-guide)**

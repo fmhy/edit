@@ -275,7 +275,7 @@
 
 ## ▷ GitHub Tools
 
-* 🌐 **[GitHub Awesome](https://app.polymersearch.com/discover/github-awesome)**, [OSS Insight](https://ossinsight.io/), [grep.app](https://grep.app/), [awesome-list](https://github.com/topics/awesome-list), or [Awesome GitHub](https://github.com/fffaraz/awesome-github) - GitHub Project Indexes
+* 🌐 **[GitHub Awesome](https://app.polymersearch.com/discover/github-awesome)**, [OSS Insight](https://ossinsight.io/), [grep.app](https://grep.app/), [awesome-list](https://github.com/topics/awesome-list) or [Awesome GitHub](https://github.com/fffaraz/awesome-github) - GitHub Project Indexes
 * 🌐 **[Awesome First PR Opportunities](https://github.com/MunGell/awesome-for-beginners)** - Beginner FOSS Project Index
 * 🌐 **[Awesome Actions](https://github.com/sdras/awesome-actions)** - GitHub Action Resources
 * 🌐 **[Awesome Browser Extensions](https://stefanbuck.com/awesome-browser-extensions-for-github)** - GitHub Browser Extensions
@@ -386,7 +386,7 @@
 * 🌐 **[List of Providers](https://docs.consumet.org/list-of-providers)** - Piracy Site APIs
 * 🌐 **[Free AI Stuff](https://github.com/zukixa/cool-ai-stuff)**, [cool ai stuff!](https://cas.zukijourney.com/) or [API Together](https://api.together.xyz/playground) - AI APIs and Sites
 * ↪️ **[Streaming APIs](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video#wiki_.25B7_streaming_apis)**
-* ⭐ **[hoppscotch](https://hoppscotch.io/)**, [Firecamp](https://firecamp.dev/), [Strapi](https://strapi.io/), or [Postman](https://www.postman.com/) - API Builders
+* ⭐ **[hoppscotch](https://hoppscotch.io/)**, [Firecamp](https://firecamp.dev/), [Strapi](https://strapi.io/) or [Postman](https://www.postman.com/) - API Builders
 * ⭐ **[Shizuku](https://shizuku.rikka.app/)** - Connect Apps to APIs
 * [HTTPie](https://httpie.io/) - Test REST, GraphQL, and HTTP APIs
 * [Rest Test Test](https://resttesttest.com/) - Test REST / CORS Services
@@ -829,7 +829,7 @@
 * [Web Design in 4 Minutes](https://jgthms.com/web-design-in-4-minutes/) or [Strml](https://www.strml.net/) - Interactive Web Design Tutorial
 * [WebGL and GLSL Workshop](https://mattdesl.github.io/workshop-webgl-glsl/) - Interactive WebGL / GLSL Tutorial
 * [css-animation](https://css-animations.io/) - CSS Animation Tutorial
-* [100DayCSS](https://100dayscss.com/) , [CSS Challenges](https://css-challenges.com/) or [PlayCSS](https://playcss.app/) - CSS Challenges
+* [100DayCSS](https://100dayscss.com/), [CSS Challenges](https://css-challenges.com/) or [PlayCSS](https://playcss.app/) - CSS Challenges
 * [Codepip](https://codepip.com/games/), [Grid Garden](https://cssgridgarden.com/), [CSS Battle](https://cssbattle.dev/), [CSS Speedrun](https://css-speedrun.netlify.app/), [CodingFantasy](https://codingfantasy.com/) or [CSS Diner](https://flukeout.github.io/) - CSS Learning Games
 * [Guess CSS](https://www.guess-css.app/) - CSS Guessing Game
 * [Flexbox Froggy](https://flexboxfroggy.com/), [Flexbox Zombies](https://mastery.games/flexboxzombies), [FlexboxDefense](http://www.flexboxdefense.com/) or [KnightsoftheFlexboxTable](https://knightsoftheflexboxtable.com/) - CSS Flexbox Learning Games

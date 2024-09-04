@@ -86,7 +86,7 @@
 * ⭐ **WinGet Tools** - [Tools](https://github.com/jdhitsolutions/WingetTools) / [Repo Browser](https://winstall.app/) / [Packages](https://github.com/microsoft/winget-pkgs), [2](https://winget.run/) / [Automation](https://github.com/topgrade-rs/topgrade) / [Pac-Man](https://github.com/rami3l/pacaptr) / [Auto Updates](https://github.com/Romanitho/Winget-AutoUpdate)
 * ⭐ **[Ninite](https://ninite.com/)** - Automatically Install / Update Popular Apps
 * ⭐ **[UniGetUI](https://github.com/marticliment/WingetUI)** - GUI for Popular Package Managers
-* [Chocolatey](https://github.com/chocolatey/choco) / [GUI](https://github.com/chocolatey/ChocolateyGUI), [Patch My PC](https://patchmypc.com/home-updater) or [RuckZuck](https://ruckzuck.tools/)  - Package Managers
+* [Chocolatey](https://github.com/chocolatey/choco) / [GUI](https://github.com/chocolatey/ChocolateyGUI), [Patch My PC](https://patchmypc.com/home-updater) or [RuckZuck](https://ruckzuck.tools/) - Package Managers
 * [Spinel](https://spinel.ovh/) - Multi-Program Install Script Generator
 * [Silent Install](https://www.silentinstall.org/) - Build Multi-Program Installers
 * [0Install](https://0install.net/) - Decentralized Cross-Platform Package Manager
@@ -108,7 +108,7 @@
 * [Tiny Care Terminal](https://github.com/notwaldorf/tiny-care-terminal) - Terminal Dashboard That Cares
 * [Gradient Terminal](https://github.com/aurora-0025/gradient-terminal) - Display Terminal Output as Gradient
 * [Command Challenge](https://cmdchallenge.com/) - Command Line Learning
-* [Alacritty](https://github.com/alacritty/alacritty), [cmder](https://cmder.app), [Fluent Terminal](https://github.com/felixse/FluentTerminal), [Tabby](https://tabby.sh/), [Wives](https://github.com/KRTirtho/wives), or [ExtraTerm](https://extraterm.org/) - Terminal Emulators
+* [Alacritty](https://github.com/alacritty/alacritty), [cmder](https://cmder.app), [Fluent Terminal](https://github.com/felixse/FluentTerminal), [Tabby](https://tabby.sh/), [Wives](https://github.com/KRTirtho/wives) or [ExtraTerm](https://extraterm.org/) - Terminal Emulators
 * [Mintty](https://mintty.github.io/) - Cygwin Terminal Emulator
 * [GetDNote](https://www.getdnote.com/) - Command Line Notebook
 * [PowerShell](https://github.com/powershell/powershell) - PC / Mac / Linux PowerShell
@@ -309,7 +309,7 @@
 * [WhatPulse](https://whatpulse.org/) - Mouse / Keyboard Usage Analyzer
 * [Kmonad](https://github.com/kmonad/kmonad) - Keyboard Manager
 * [Deskhop](https://github.com/hrvach/deskhop) - Quickly Switch Devices between Computers
-* [Switchy](https://github.com/erryox/Switchy) - Switch Keyboard Languages w/ Button
+* [Switchy](https://github.com/erryox/Switchy) - Switch Keyboard Languages with Button
 * [Is this good?](https://wiki.keyboard.gay/) - Custom Keyboard Guides
 * [DreyMaR's](https://dreymar.colemak.org/) - Keyboard Tips and Resources
 * [Keyboard University](https://keyboard.university/) or [KDB](http://xahlee.info/kbd/keyboarding.html) - Mechanical Keyboard Building Guides

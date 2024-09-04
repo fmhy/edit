@@ -189,7 +189,7 @@
 # ► Travel
 
 * ⭐ **[Atlas Obscura](https://www.atlasobscura.com/)**, [Turas](https://turas.app/), [CountryReports](https://www.countryreports.org/), [Wikivoyage](https://www.wikivoyage.org), [WikiTravel](https://wikitravel.org/) or [Wanderlog](https://wanderlog.com/guides) - Travel Guides
-* ⭐ **[JourneyPlan](https://journeyplan.co)**, [RoamAround](https://www.roamaround.io/), [TravelPlan](https://www.travelplan-ai.com/#get-trip), [maps.gpt](https://maps.gptcall.net/) , [Holiwise](https://www.holiwise.com) or [Eddy](https://chat.eddytravels.com/) - Trip Planning
+* ⭐ **[JourneyPlan](https://journeyplan.co)**, [RoamAround](https://www.roamaround.io/), [TravelPlan](https://www.travelplan-ai.com/#get-trip), [maps.gpt](https://maps.gptcall.net/), [Holiwise](https://www.holiwise.com) or [Eddy](https://chat.eddytravels.com/) - Trip Planning
 * ⭐ **[Borderless](https://borderless.safetywing.com/)** - Travel Restrictions Guide
 * ⭐ **[MapChecking](https://www.mapchecking.com/)** - Crowd Size Estimation
 * ⭐ **[Gas Price Map](https://www.gasbuddy.com/gaspricemap)** - US Gas Prices
@@ -402,7 +402,7 @@
 * [FacilMap](https://facilmap.org/) or [OsmAPP](https://osmapp.org/) - OSM Web Apps
 * [OpenMapTiles](https://openmaptiles.org/) - Self-hosted Map Tools
 * [NASA Earthdata](https://search.earthdata.nasa.gov/search) - Earth Data Archive
-* [glifwc](https://maps.glifwc.org/) - Map w/ Data
+* [glifwc](https://maps.glifwc.org/) - Map with Data
 * [Mapillary](https://www.mapillary.com/) - Open Street View Data
 * [Instant Street View](https://www.instantstreetview.com/) - Instantly Load Street View
 * [MapCrunch](https://www.mapcrunch.com/) or [Random Street View](https://randomstreetview.com/) - Random Street View
@@ -442,7 +442,7 @@
 * [Web3 Is Going Great](https://www.web3isgoinggreat.com/) - Web3 Disaster News
 * [Citizen](https://citizen.com/explore) - Real Time Local News (US Only)
 * [PlaneCrashInfo](https://www.planecrashinfo.com/) or [AVHerald](https://avherald.com/) - Aviation Incidents / News
-* [Read Something Interesting](https://readsomethinginteresting.com/), [Read Something Wonderful](https://readsomethingwonderful.com/), [Read Something Great](https://www.readsomethinggreat.com/), or [BoredReading](https://boredreading.com/) - Random Articles / Blog Posts
+* [Read Something Interesting](https://readsomethinginteresting.com/), [Read Something Wonderful](https://readsomethingwonderful.com/), [Read Something Great](https://www.readsomethinggreat.com/) or [BoredReading](https://boredreading.com/) - Random Articles / Blog Posts
 * [Media Bias Fact Check](https://drmikecrowe.github.io/mbfcext/), [ground.news](https://ground.news/extension) or [HonestyMeter](https://www.honestymeter.com/) - Media Bias Checkers
 * [PressMob](https://pressmob.ai/) - Journalist Search
 
@@ -1397,7 +1397,7 @@
 * [Fold N Fly](https://www.foldnfly.com/) - Paper Airplane Guides
 * [TwistyPuzzles](https://twistypuzzles.com/) or [HyperCubing](https://hypercubing.xyz/) - Twisty Puzzle Wikis
 * [Game a-b-street](https://a-b-street.github.io/docs/) - Traffic Simulation
-* [Deaddit](https://deaddit.xyz/) - Reddit w/ AI Generated Posts & Comments
+* [Deaddit](https://deaddit.xyz/) - Reddit with AI Generated Posts & Comments
 * [Moral Machine](https://www.moralmachine.net/) - Decision-Making AIs
 * [Chirper](https://chirper.ai/) - AI Generated Twitter
 * [Judge My Music](https://pudding.cool/2021/10/judge-my-music/) - Have an AI Judge Your Taste in Music

@@ -155,7 +155,7 @@
 * ⭐ **[Screenbox](https://github.com/huynhsontung/Screenbox)** - Video Player
 * [Video Player Codecs](https://www.codecguide.com/)
 * [AVPlayer](http://www.awesomevideoplayer.com/) or [GridPlayer](https://github.com/vzhd1701/gridplayer) - Multi-Video Players
-* [SPlayer](https://www.splayer.org/) - Video Player w/ Smart Translation
+* [SPlayer](https://www.splayer.org/) - Video Player with Smart Translation
 * [Pot Player](https://potplayer.daum.net/) - Video Player / [Twitch Addon](https://github.com/TwitchPotPlayer/TwitchPotPlayer) / [YouTube Addon](https://chromewebstore.google.com/detail/potplayer-youtube-shortcu/cfdpeaefecdlkdlgdpjjllmhlnckcodp)
 * [ImPlay](https://github.com/tsl0922/ImPlay) - Video Player
 * [SMPlayer](https://www.smplayer.info/) / [2](https://sourceforge.net/projects/smplayer/) - Video Player / [YouTube](https://www.smtube.org/)
