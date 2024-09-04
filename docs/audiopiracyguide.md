@@ -41,7 +41,6 @@
 * [PlaylistProxy](https://playlistproxy.net/) - Create Anonymous Playlists
 * [Spotlistr](https://www.spotlistr.com/) - Playlist Converter
 * [Playlistor](https://playlistor.io/) - Apple Music Playlist Converter
-* [Spotr](https://github.com/XDGFX/spotr) - Export Tracks as Deezer Playlists
 * [SpotifyCloud](https://spotifycloud.zamar-roura.com/) - Playlist Words
 * [Spotify Dedup](https://spotify-dedup.com/) - Playlist Song Dedup / [GitHub](https://github.com/JMPerez/spotify-dedup/)
 * [exportify](https://github.com/watsonbox/exportify) or [SpotMyBackup](http://www.spotmybackup.com/) - Playlist Backup

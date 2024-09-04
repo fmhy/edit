@@ -58,6 +58,7 @@
 * [Mindfulq](https://www.mindfulq.com/) - AI Search Engine
 * [Andi](https://andisearch.com/) - AI Search Engine
 * [iSeek](https://www.iseek.com/) - AI Search Engine
+* [OpenPerplex](https://openperplex.com/) - AI Search Engine / [GitHub](https://github.com/YassKhazzan/openperplex_backend_os)
 * [Farfalle](https://www.farfalle.dev/) - AI Search Engine
 * [uncovr](https://uncovr.app/) - AI Search Engine / [Discord](https://discord.gg/a4gDaVWceP)
 * [Exa](https://exa.ai/) - AI Search Engine / [Discord](https://discord.com/invite/jvz7GS9W8Y)
@@ -192,7 +193,7 @@
 * 🌐 **[Transformer Models Timeline](https://ai.v-gar.de/ml/transformer/timeline/)** - LLM Timeline
 * 🌐 **[LifeArchitect](https://lifearchitect.ai/models-table/)** - LLM Index
 * 🌐 **[FutureTools](https://www.futuretools.io/?pricing-model=free)** - AI Directory
-* [perchance](https://perchance.org/generators) - Simple AI Builder
+* [perchance](https://perchance.org/generators) or [WebSim](https://websim.ai/) / [Discord](https://discord.gg/websim) - Simple AI Builders
 * [YP for AI](https://www.ypforai.com) - AI Directory
 * [Awesome AI Tools](https://github.com/mahseema/awesome-ai-tools) - AI Directory
 * [It's Better With AI](https://itsbetterwithai.com/) - AI Directory

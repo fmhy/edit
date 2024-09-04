@@ -298,7 +298,7 @@
 * [Kodi Builds Chart](https://kodiapps.com/builds-chart)
 * [r/Addons4Kodi](https://www.reddit.com/r/Addons4Kodi/) / [Tracker](https://kinkeadtech.com/best-kodi-streaming-addons/) / [Trending](https://kodiapps.com/addons-chart) - Kodi Addons
 * [Synko](https://github.com/Skaytacium/synko) - Kodi Stream Sync
-* [Plex For Kodi](https://github.com/plexinc/plex-for-kodi) or [Plex Kodi Connect](https://github.com/croneter/PlexKodiConnect) - Plex Connect
+* [Plex Kodi Connect](https://github.com/croneter/PlexKodiConnect) - Plex Connect
 * [quasar](https://quasar.surge.sh/) - Torrent Plugin
 * [IPTV Client](https://kodi.wiki/view/Add-on:PVR_IPTV_Simple_Client)
 * [Simkl](https://simkl.com/) - Media Tracker

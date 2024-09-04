@@ -317,7 +317,7 @@
 * [ClearOutside](https://clearoutside.com/) - Weather Visibility Tracker
 * [aqicn.org](https://aqicn.org/map/world) - Air Quality Map
 * [Light Pollution Map](https://lightpollutionmap.info/) - Light Pollution Map
-* [CPRE](https://www.cpre.org.uk/light-pollution-dark-skies-map/) - England Light Pollution Map
+* [CPRE](https://www.cpre.org.uk/light-pollution-dark-skies-map/) - England Light Pollution and Dark Skies
 * [Electricity Maps](https://app.electricitymaps.com/map) - Electricity CO₂ Emissions Map
 * [SaveEcoBot](https://www.saveecobot.com/en/radiation-maps) - Radioactivity / Air Quality in Ukraine
 
@@ -546,6 +546,7 @@
 * [CalorieScope](https://f-droid.org/packages/org.dynamicsoft.caloriescope/) or [PFCTE](https://github.com/SecUSo/privacy-friendly-circuit-training-exercises) - Exercise & Activity Tracker
 * [FitoTrack](https://codeberg.org/jannis/FitoTrack), [HealthMode](https://www.healthmode.app/) or [Flexify](https://github.com/brandonp2412/Flexify) - Fitness Trackers
 * [Liftosaur](https://www.liftosaur.com/) or [StrongLifts](https://stronglifts.com/) - Weightlifting Trackers
+* [Liftvault](https://liftvault.com/) - Weightlifting Programs / Spreadsheets 
 * [MuscleWiki](https://musclewiki.com/) or [The Casual Gym](https://gym.naya.com.np/) - Muscle / Exercise Information Tool
 * [Fitness Blender](https://www.fitnessblender.com/videos?exclusive%5B%5D=0) - Workout Videos
 * [Workout.lol](https://workout.lol/) - Create Workout Plans

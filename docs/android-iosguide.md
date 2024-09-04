@@ -677,7 +677,6 @@ https://github.com/Akylas/alpimaps
 ***
 
 * ⭐ **[LibreTorrent](https://gitlab.com/proninyaroslav/libretorrent)**
-* ⭐ **[Torrent Client](https://gitlab.com/axet/android-torrent-client)**
 * [tTorrent](https://ttorrent.org/)
 * [Flud](https://play.google.com/store/apps/details?id=com.delphicoder.flud)
 * [BiglyBT](https://android.biglybt.com/)

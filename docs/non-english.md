@@ -135,11 +135,15 @@
 * [Oh.Taigi](https://oh.taigi.info/) - Learn Taiwanese
 * [Bangumi](https://bangumi.tv/), [2](https://chii.in/) - Media Database / [Android Client](https://github.com/czy0729/Bangumi)
 * [TopHub](https://tophub.today/) or [Chinadaily](https://cn.chinadaily.com.cn/) - News
+* [ixigua.com](https://www.ixigua.com/) - Chinese alternative to Youtube and TikTok
+* [iyd.wang](https://www.iyd.wang/) - Chinese books fiction / non fiction
+* [feiku6](https://www.feiku6.com/)  - Chinese books reading / listening
+* [Salty Leo](https://book.tstrs.me/search) - Chinese / books / fiction / non-fiction / downloading
+* [IT Home](https://www.ithome.com/) - Tech News
+* [jialezi](https://blog.jialezi.net/) - Tech Tutorials
 * [Diaosi Forum](https://assbbs.com/) - Piracy Discussion Forum
 * [V2EX](https://v2ex.com/) or [ZongScan](https://www.zongscan.com/) - Programming Forum
 * [Baidu](https://www.baidu.com/) / [2](http://hk.baidu.com/), [Toutiao](https://www.toutiao.com/), [sogou](https://www.sogou.com/) or [yisou](http://yisou.com/) - Search Engines
-* [IT Home](https://www.ithome.com/) - Tech News
-* [jialezi](https://blog.jialezi.net/) - Tech Tutorials
 * [BlockedInChina](https://www.comparitech.com/privacy-security-tools/blockedinchina/) or [China Firewall Test](http://www.chinafirewalltest.com/) - Test if Site is Blocked in China
 * [ICIBA](https://www.iciba.com/) / [Client](https://cp.iciba.com/), [Fanyi](https://fanyi.qq.com/) or [YouDao](https://fanyi.youdao.com/) - Translators
 
