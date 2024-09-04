@@ -38,17 +38,17 @@
 ## ▷ Linux Guides
 
 * ↪️ **[Bash / CLI Cheat Sheets](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_cli_cheat_sheets)**
-* ⭐ **[Archwiki](https://wiki.archlinux.org/)** - Arch Linux Guide / [Manuals](https://man.archlinux.org/) / [TUI](https://codeberg.org/theooo/mantra.py)
+* ⭐ **[Archwiki](https://wiki.archlinux.org/)** / [Manuals](https://man.archlinux.org/) / [TUI](https://codeberg.org/theooo/mantra.py) - Arch Linux Guide
 * ⭐ **[InstallGentoo](https://wiki.installgentoo.com/)** - Linux Guides
 * [GameShell](https://github.com/phyver/GameShell) - Unix Shell Learning Game
 * [Gentoo Wiki](https://wiki.gentoo.org/wiki/Main_Page) - Gentoo Guides
-* [HowToLinux](https://howtolinux.vercel.app) - Linux Guides
-* [HowtoForge](https://www.howtoforge.com/) - Linux Guides
-* [Sindresorhus Guides](https://github.com/sindresorhus/guides) - Linux Guides
-* [Erik Dubois](https://www.youtube.com/c/ErikDubois) - Linux Guides
-* [LinuxJourney](https://linuxjourney.com/) - Linux Guides
-* [Linuxtopia](https://www.linuxtopia.org/) - Linux Guides
-* [Mental Outlaw](https://www.youtube.com/channel/UC7YOGHUfC1Tb6E4pudI9STA) - Linux Guides
+* [LinuxJourney](https://linuxjourney.com/) - Interactive Linux Guides
+* [HowToLinux](https://howtolinux.vercel.app) - Linux Desktop Guides
+* [HowtoForge](https://www.howtoforge.com/) - Linux Sever Software Guides
+* [Sindresorhus Guides](https://github.com/sindresorhus/guides) - Linux Guides For Node.js Developers
+* [Erik Dubois](https://www.youtube.com/c/ErikDubois) - Arch-centric Linux Video Tutorials
+* [Linuxtopia](https://www.linuxtopia.org/) - Linux Guides, 
+* [Vim Tutorials](https://www.youtube.com/playlist?list=PL3cu45aM3C2DJVGfCjSBB1yD9YkC7q27-) - Vim Tutorial Playlist by Mental Outlaw
 * [Boot-Repair](https://help.ubuntu.com/community/Boot-Repair) - Grub Repair Guide for Linux Systems
 
 ***

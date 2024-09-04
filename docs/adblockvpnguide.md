@@ -67,26 +67,21 @@
 * ⭐ **Pi-Hole Tools** - [Install Script](https://github.com/DesktopECHO/Pi-Hole-for-WSL1) / [Filter](https://firebog.net/) / [Firefox](https://addons.mozilla.org/en-US/firefox/addon/alanine/) / [Chrome](https://chromewebstore.google.com/detail/alanine/lohlpbknpcngpjifmofkidennikljlfi) / [Docker](https://hub.docker.com/repository/docker/kulda22/alanine) / [Antitelemetry](https://github.com/MoralCode/pihole-antitelemetry)
 * ⭐ **[AdGuard Home](https://github.com/AdguardTeam/AdGuardHome/wiki/Docker)** - DNS Adblocking / Self-Hosted / [Setup](https://github.com/klutchell/balena-adguard) / [Filters](https://github.com/hl2guide/AdGuard-Home-Whitelist)
 * ⭐ **[Mullvad DNS](https://mullvad.net/en/help/dns-over-https-and-dns-over-tls/)** - DNS Adblocking / Filtering / [Extension](https://mullvad.net/en/download/browser/extension)
-* [YogaDNS](https://yogadns.com/) - Custom DNS Client
-* [ControlD](https://controld.com/free-dns) - DNS Manager
-* [NextDNS](https://nextdns.io) - DNS Adblocking / [Guide](https://github.com/yokoffing/NextDNS-Config) / [Video](https://youtu.be/WUG57ynLb8I)
-* [BlahDNS](https://blahdns.com/) - DNS Adblocking
-* [Adguard DNS](https://adguard-dns.io/) - DNS Adblocking
-* [AlternateDNS](https://alternate-dns.com/index.php) - DNS Adblocking
-* [LibreDNS](https://libredns.gr/) - DNS Adblocking
-* [Diversion](https://diversion.ch/) - DNS Adblocking
-* [NxFilter](https://nxfilter.org/) - DNS Adblocking
-* [personalDNSfilter](https://www.zenz-solutions.de/personaldnsfilter-wp/) - DNS Adblocking
-* [TBlock](https://tblock.me/) - DNS Adblocking / [Filters](https://codeberg.org/tblock/filters)
-* [dog](https://dns.lookup.dog/) - DNS CLI
-* [Stubby](https://dnsprivacy.org/dns_privacy_daemon_-_stubby/) - DNS Stub Resolver
+* [BlahDNS](https://blahdns.com/), [AlternateDNS](https://alternate-dns.com/index.php), [LibreDNS](https://libredns.gr/), [Tiarap](https://doh.tiar.app/) - DNS Adblocking
+* [NextDNS](https://nextdns.io) / [Guide](https://github.com/yokoffing/NextDNS-Config) / [Video](https://youtu.be/WUG57ynLb8I) - Customizable DNS Adblocking
+* [Adguard DNS](https://adguard-dns.io/), [ControlD](https://controld.com/free-dns) - Customizable DNS Adblocking
+* [NxFilter](https://nxfilter.org/) - Customizable DNS Adblocking / Self-Hosted
+* [TBlock](https://tblock.me/) - DNS Adblocking Client / [Filters](https://codeberg.org/tblock/filters)
+* [Maza](https://maza-ad-blocking.andros.dev/) - Local DNS Adblocking Client
+* [YogaDNS](https://yogadns.com/) - Custom DNS Client for Windows
+* [Diversion](https://diversion.ch/) - Asuswrt-Merlin Router Adblock Manager
+* [personalDNSfilter](https://www.zenz-solutions.de/personaldnsfilter-wp/) - DNS Filtering Proxy / Self-Hosted
+* [dog](https://dns.lookup.dog/) - DNS Lookup CLI
+* [Stubby](https://dnsprivacy.org/dns_privacy_daemon_-_stubby/) - DNS Privacy Stub Resolver
 * [Phishing Army](https://phishing.army/) - DNS Phishing Blocklist
-* [BIND](https://gitlab.isc.org/isc-projects/bind9) - Portable DNS Protocol
-* [Maza](https://maza-ad-blocking.andros.dev/) - Local DNS Adblocking
-* [DNS Party](https://encrypted-dns.party/) - DNS Config Profiles for Apple Devices Encrypted
+* [DNS Party](https://encrypted-dns.party/) - Encrypted DNS Profiles for Apple Devices
 * [no-google](https://github.com/nickspaargaren/no-google) - Block All Google Services
-* [Samsung Smart TV Adblock](https://redd.it/gn7fw5) - Block Smart TV Ads
-* [DNS Resolver Privacy-First](https://doh.tiar.app/) - DNS Resolver
+* [Samsung Smart TV Adblock](https://redd.it/gn7fw5) - Block Samsung Smart TV Ads
 * [Technitium](https://technitium.com/dns) or [Hickory DNS](https://github.com/hickory-dns/hickory-dns) - Self-Hosted DNS Server
 * [DNS Perf](https://dnsperf.com/dns-speed-benchmark) or [NameBench](https://code.google.com/archive/p/namebench/) - DNS Speed Tests
 
