@@ -38,7 +38,7 @@
 ## ▷ Linux Guides
 
 * ↪️ **[Bash / CLI Cheat Sheets](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_cli_cheat_sheets)**
-* ⭐ **[Archwiki](https://wiki.archlinux.org/)** / [Manuals](https://man.archlinux.org/) / [TUI](https://codeberg.org/theooo/mantra.py) - Arch Linux Guide
+* ⭐ **[Archwiki](https://wiki.archlinux.org/)** - Arch Linux Guide / [Manuals](https://man.archlinux.org/) / [TUI](https://codeberg.org/theooo/mantra.py)
 * ⭐ **[InstallGentoo](https://wiki.installgentoo.com/)** - Linux Guides
 * [GameShell](https://github.com/phyver/GameShell) - Unix Shell Learning Game
 * [Gentoo Wiki](https://wiki.gentoo.org/wiki/Main_Page) - Gentoo Guides

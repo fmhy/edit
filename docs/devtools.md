@@ -664,6 +664,7 @@
 * [Prettier](https://prettier.io/) or [codebeautify](https://codebeautify.org/) - Code Formatting Tools
 * [Package Control](https://packagecontrol.io/) - Sublime Text Package Manager
 * [pylyzer](https://github.com/mtshiba/pylyzer) - Static Code Analyzer
+* [Trigger](https://trigger.dev/) - Run Background Jobs
 * [Bacon](https://github.com/Canop/bacon) - Background Rust Code Check
 * [editorcornfig](https://editorconfig.org/) - Maintain Code Styles Across Editors
 * [ThemesElection](https://themeselection.com/), [NordTheme](https://www.nordtheme.com/) or [Dracula](https://draculatheme.com/) - Code Editor Themes
@@ -1383,7 +1384,7 @@
 * [Zeplin](https://zeplin.io/) - Design Templates / Editor
 * [vite](https://vitejs.dev/) or [layoutit](https://layoutit.com/) - Frontend Development Tools
 * [Frontend Development](https://github.com/dypsilon/frontend-dev-bookmarks) - Frontend Development Resources
-* [BoxCoding](https://www.avabucks.it/) - Frontend UI Components
+* [BoxCoding](https://www.avabucks.it/) or [MagicUI](https://magicui.design/) - UI Components
 * [Hydrogen](https://github.com/Shopify/hydrogen) - Online Store Templates
 * [MicroCopy](https://www.microcopy.me) - Copy Common Website Text
 * [RoughAnnotations](https://roughnotation.com/) - Webpage Annotations / Animations

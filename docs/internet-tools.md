@@ -143,6 +143,7 @@
 * [Campsite.bio](https://campsite.bio/)
 * [Taplink](https://taplink.at/)
 * [Lynk](https://lynk.id/)
+* [ammo.lol](https://ammo.lol/)
 * [Linkezo](https://linkezo.com/)
 * [Hipolink](https://hipolink.net/)
 * [Linkr](https://linkr.com/)
@@ -680,7 +681,6 @@
 * [Snooze Tabs](https://github.com/bwinton/SnoozeTabs) - Temporarily Snooze Tabs
 * [AutoRefresh](https://autorefresh.io/) or [Tab Auto Refresh](https://mybrowseraddon.com/tab-auto-refresh.html) - Refresh Tabs
 * [Tab for a Cause](https://tab.gladly.io/) - New Tabs = Charity Donation
-* [Panic Button](https://aecreations.io/panicbutton/index.php) - Quickly Close All Tabs
 * [Dictionaries](https://github.com/pnlpal/dictionariez), [phlinx](https://phlinx.com/) or [Definer](https://lumetrium.com/definer/) - Popup Dictionaries
 * [CustomRightClickMenu](https://github.com/SanderRonde/CustomRightClickMenu) - Custom Right Click Menu
 * [BigSearch](https://github.com/garywill/BigSearch) or [SearchJumper](https://hoothin.github.io/SearchJumper/) - Context Search
@@ -723,8 +723,6 @@
 * [behind!](https://github.com/kubuzetto/behind) - View Background Images
 * [Smart Upscale](https://tanalin.com/en/projects/smart-upscale/) - Browser Image Upscaling
 * [UI.Vision RPA](https://ui.vision/) - Workflow Automation
-* [AugmentedSteam](https://augmentedsteam.com/) - Steam Enhancement suite
-* [Steam Database](https://steamdb.info/extension/) - Adds Steam Database Link to Steam Community & Store
 * [Streak](https://www.streak.com/) - Email Engagement Tracker
 * [Native HLS](https://github.com/Palethorn/native-adaptive-streaming/) - Allows HLS & MPEG-Dash native playback
 * [Session Alive](https://github.com/arunelias/session-alive/) - Keep Website Sessions Alive
