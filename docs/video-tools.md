@@ -335,6 +335,7 @@
 * 🌐 **[Paper2GUI](https://github.com/Baiyuetribe/paper2gui/blob/main/README_en.md)** - AI Video Tools Index
 * 🌐 **[Codecs and Containers](https://www.reddit.com/r/VideoEditing/wiki/codecsandcontainers)** or [Free-Codecs](https://www.free-codecs.com/) - Video Editing Codecs
 * ⭐ **[Eyecandy](https://eycndy.co/)** - Visual Technique Examples
+* ⭐ **[Vidclue](https://vidclue.com)** - Video Idea Library
 * [MotionFactory](https://www.motionfactory.io/) - Video Editing Workflow Manager
 * [VideoHelp Forum](https://forum.videohelp.com/forums/2-Video) - Video Editing Forums
 * [Blaine's Movie Maker Blog](https://movies.blainesville.com/p/wmm-60-on-windows-7.html) - Windows Movie Maker Tutorials
