@@ -708,7 +708,7 @@
 * [Talkie](https://joelpurra.com/projects/talkie/) or [Offline Text to Speech](https://virejdasani.github.io/OfflineTextToSpeech-Extension/) - Text to Speech
 * [Max Focus](https://maxfoc.us/) - Preview links
 * [Text Link](https://github.com/piroor/textlink/) - Make Non-Hyperlinked URLs Clickable
-* [I still don't care about cookies](https://github.com/OhMyGuus/I-Still-Dont-Care-About-Cookies) or [Consent-O-matic](https://consentomatic.au.dk/) / [2](https://github.com/cavi-au/Consent-O-Matic) - Block Cookie Consent Popups
+* [I still don't care about cookies](https://github.com/OhMyGuus/I-Still-Dont-Care-About-Cookies) or [Consent-O-matic](https://consentomatic.au.dk/) / [Github](https://github.com/cavi-au/Consent-O-Matic) or [Cookie Monster Dialog](https://www.cookie-dialog-monster.com/) / [Github](https://github.com/wanhose/cookie-dialog-monster) - Block Cookie Consent Popups
 * [EditThisCookie](https://www.editthiscookie.com/) or [Cookie-Editor](https://cookie-editor.cgagnier.ca/) - Cookies Managers
 * [Get-cookies.txt](https://github.com/kairi003/Get-cookies.txt-LOCALLY) or [ExportCookies](https://github.com/rotemdan/ExportCookies) - Cookies Exporters
 * [Cookie-Editor](https://cookie-editor.com/) - Cookie Editor
