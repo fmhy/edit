@@ -821,6 +821,23 @@
 
 ***
 
+## ▷ Just Dance Tools
+
+* ⭐ **[Just Dance 202X PC](https://drive.google.com/drive/folders/1jT2d82FOfj6x-yfghNThWYdpQTvlyF9C)** - [Plus Version](https://drive.google.com/drive/folders/1eG98SdPi7Nh-WkC0kJvMetSaNuiMDxlG) / [Discord](https://discord.gg/nqAjYsgxUM) / [Scoring Effects](https://discord.gg/7aycwaGVph)
+* ⭐ **[Just Dance Melody](https://discord.gg/mitchy)** - Wii / Wii U / Switch / Xbox 360 / PC
+* [Just Dance Minus](https://discord.gg/GQHcQFGNt9) - Switch
+* [Just Dance MP3](https://discord.gg/q8um6WzT5t) - Switch / Wii
+* [Just Dance.EXE](https://discord.gg/2bTTNgtRBg) - PC / Fan Game
+* [Just Dance Now Plus](https://discord.gg/just-dance-now-plus-924976774285254727) - Mobile / Requires Subscription
+* [Just Dance Unlimited Plus](https://discord.gg/jd-unlimited-plus-838820235003822120) - PC
+* [Just Dance Galaxy](https://discord.gg/cPgm26hgrj) - PC / Switch
+* [Just Dance Highlights](https://discord.gg/dD9gAKCpx2) - Wii
+* [Just Dance Mega](https://discord.gg/c7nzFdvUS2) - Wii / Wii U
+* [Just Dance Generation](https://discord.gg/c7nzFdvUS2) - Wii / Wii U
+
+
+***
+
 ## ▷ Gacha Tools
 
 * 🌐 **[Paimon.moe](https://paimon.moe/)** or [Honey Impact](https://gensh.honeyhunterworld.com/) - Genshin Impact Resources / Tools
