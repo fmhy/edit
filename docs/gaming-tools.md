@@ -469,10 +469,10 @@
 * 🌐 **[Steam Deck Mods](https://docs.google.com/document/d/1TWhN9nCorKxut5O7UbPQPDhXLb-8C-CIoesB01yfhmY/)** - Steam Deck Mods / [Discord](https://discord.com/invite/SteamDeck)
 * ⭐ **[Decky Loader](https://decky.xyz/)** - Steam Deck Plugin Loader / [Plugins](https://plugins.deckbrew.xyz/) / [GitHub](https://github.com/SteamDeckHomebrew/decky-loader)
 * [/r/SteamDeckPirates](https://www.reddit.com/r/SteamDeckPirates/) - Steam Deck Piracy Subreddit / [Rentry](https://rentry.org/SteamDeckPirates-new)
-* [EmuDeck](https://www.emudeck.com/) / [Yuzu / Citra Update](https://redd.it/1be3q1s) or [GameImage](https://github.com/ruanformigoni/gameimage) - Steam Deck Game / Emulator Setup
-* [Bazzite](https://bazzite.gg/) - Alt Steam Deck OS
 * [great-on-deck-search](https://github.com/cptpiepmatz/great-on-deck-search) - Verified Steam Deck Game Search
 * [Steam Deck Tools](https://steam-deck-tools.ayufan.dev) - Fan Overlay, Power Control and Steam Controller
+* [EmuDeck](https://www.emudeck.com/) / [Yuzu / Citra Update](https://redd.it/1be3q1s) or [GameImage](https://github.com/ruanformigoni/gameimage) - Steam Deck Game / Emulator Setup
+* [Bazzite](https://bazzite.gg/) - Alt Steam Deck OS
 * [Steam-Deck.Force](https://github.com/scawp/Steam-Deck.Force-SteamOS-On-Boot) - Force SteamOS Boot
 * [HoloISO](https://github.com/HoloISO/releases) - SteamOS 3 (Holo) Archiso Config / [Telegram](https://t.me/HoloISO)
 
