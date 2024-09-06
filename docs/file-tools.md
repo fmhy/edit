@@ -221,12 +221,8 @@
 * [View-only PDF](https://rentry.co/cm4b7) - Download View-Only PDF on GDrive
 * [online2pdf](https://online2pdf.com/) or [2PDFConverter](https://www.2pdfconverter.com/) - Convert Files to PDF
 * [PDFconvert](https://docupub.com/pdfconvert/) - PDF File Converters
-* [PDF Mergy](https://pdfmerge.w69b.com/) or [PDFSnake](https://pdfsnake.app/) - Merge PDF Files
-* [PDFLayoutTextStripper](https://github.com/JonathanLink/PDFLayoutTextStripper) - PDF to Text Converter
-* [VancedPDF](https://vancepdf.com/) or [PDFtoWordConverter](https://xodo.com/pdf-to-word-converter) - PDF to Word Converter
 * [Marker](https://github.com/VikParuchuri/marker) - PDF to Markdown
-* [Images to PDF](https://github.com/Swati4star/Images-to-PDF), [Image to PDF](https://image-to-pdf-sarkar.vercel.app/) or [Adobe Converter](https://www.adobe.com/acrobat/online/jpg-to-pdf.html) - Image to PDF Converters
-* [PDFCrowd](https://pdfcrowd.com/), [HTMLaPDF](https://www.htmlapdf.com/), [TailWindPDF](https://tailwindpdf.com/) or [wkhtmltopdf](https://wkhtmltopdf.org/) - HTML to PDF / Image Converter
+* [PDFCrowd](https://pdfcrowd.com/), [TailWindPDF](https://tailwindpdf.com/) or [wkhtmltopdf](https://wkhtmltopdf.org/) - HTML to PDF / Image Converter
 * [Issuu](https://issuu.com/) - Convert PDF Files to Webpages, Flipbooks, Brochures & More / [Downloader](https://docdownloader.com/)
 * [WebToPDF](https://webtopdf.com/) or [Percollate](https://github.com/danburzo/percollate) - Webpage to PDF Converters
 * [GraphPaper](https://incompetech.com/graphpaper/) - PDF Graphs

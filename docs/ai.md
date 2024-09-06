@@ -14,10 +14,10 @@
 * ⭐ **[Claude](https://claude.ai/)** - Anthropic's Chatbot / # Required
 * ⭐ **[groq](https://groq.com/)** - Llama 3 and Mixtral Chatbots
 * ⭐ **[Not Diamond](https://chat.notdiamond.ai/)** - Multiple Chatbots
-* ⭐ **[Gemini](https://gemini.google.com/)** or [Gemma](https://github.com/google/gemma.cpp), [2](https://ai.google.dev/gemma/) - Google's Chatbot
 * ⭐ **[LMSYS Chat](https://lmarena.ai/)** - Chat and Compare Multiple Chatbots
 * ⭐ **[ChatPDF](https://www.chatpdf.com/)** or [Ask Your PDF](https://askyourpdf.com/) - Turn Books into Chatbots
 * ⭐ **[TypeSet](https://typeset.io/)** - Research Paper Chatbot
+* [Gemini](https://gemini.google.com/) or [Gemma](https://github.com/google/gemma.cpp), [2](https://ai.google.dev/gemma/) - Google's Chatbot
 * [DuckDuckGo AI](https://duck.ai/) - Multiple Chatbots
 * [LLM Playground](https://llmplayground.net/) - Multiple Chatbots / 1000 word limit / [Discord](https://discord.com/invite/q55gsH8z5F)
 * [OAICHAT](https://chat.oaichat.cc/), [2](https://chat.sorapi.dev/), [3](https://ffa.chat/) - GPT-4o / Multiple Chatbots

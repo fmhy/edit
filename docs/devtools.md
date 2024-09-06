@@ -245,7 +245,7 @@
 * [posh-git](https://github.com/dahlbyk/posh-git) - Git Powershell Environment
 * [up-for-grabs](https://up-for-grabs.net/) - Curated List of Tasks for New Contributes
 * [GitKraken](https://www.gitkraken.com/), [RelaGit](https://rela.dev/), [Sourcetree](https://www.sourcetreeapp.com/), [lazygit](https://github.com/jesseduffield/lazygit) or [gitui](https://github.com/Extrawurst/gitui) - Git GUIs
-* [Gut](https://gut-cli.dev/), [Jujutsu](https://github.com/martinvonz/jj) or [gitu](https://github.com/altsem/gitu) - Git CLI / TUI
+* [Gut](https://gut-cli.dev/), [Jujutsu](https://github.com/martinvonz/jj), [Github Cli](https://cli.github.com/) or [gitu](https://github.com/altsem/gitu) - Git CLI / TUI
 * [SparkleShare](https://sparkleshare.org) or [git-pr](https://github.com/picosh/git-pr) - Git Collab Tools
 * [Git-notify](https://github.com/jevakallio/git-notify) - Embed Announcements into Git Commit Messages
 * [Allstar](https://github.com/ossf/allstar) - Git Repository Security App
@@ -575,6 +575,7 @@
 * [Lapce](https://lapce.dev/) - Code Editor
 * [vscode.dev](https://vscode.dev/), [2](https://cs50.dev/) - Code Editor
 * [IDX](https://idx.google.com/) - Code Editor
+* [HaystackEditor](https://haystackeditor.com/) - Code Editor
 * [SpaceVim](https://spacevim.org/) - Code Editor
 * [zed.dev](https://zed.dev/) - Code Editor
 * [Pulsar](https://pulsar-edit.dev/) - Code Editor

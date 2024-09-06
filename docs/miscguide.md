@@ -1153,7 +1153,6 @@
 * [AnimeSuki](https://forums.animesuki.com/), [AnimeUKNews](https://forums.animeuknews.net/) or [Fanverse](https://www.fanverse.org/) - Anime Discussion
 * [/r/Piracy](https://www.reddit.com/r/Piracy/) - Piracy Discussion
 * [Resetera](https://www.resetera.com/) or [RakcetBoy](https://racketboy.com/forum/) - Game Forums
-* [NotAlwaysRight](https://notalwaysright.com/) - Customer Service Stories
 * [Marijuana Subs](https://www.reddit.com/r/trees/wiki/entreddits_social) - Marijuana Subreddits
 * [GrassCity](https://forum.grasscity.com/) - Marijuana Forum
 * [TheRPF](https://www.therpf.com/forums/) - Movie Costume / Prop Forum
@@ -1286,6 +1285,7 @@
 * [Google Doodles](https://www.google.com/doodles?q=interactive) - Interactive Google Doodles
 * [Quick, Draw](https://quickdraw.withgoogle.com/) - Doodle Game
 * [Doodle Dash](https://xenova-doodle-dash.static.hf.space/index.html) - Let AI Guess Doodles
+* [AI Bingo](https://ai-bingo.lipsumar.io/) - AI Art Guessing Games
 * [DriveMeInsane](https://drivemeinsane.com/) - Control a Home Automation System
 * [Genetic Walkers](https://rednuht.org/genetic_walkers/) - Genetic Algorithm Walkers
 * [A Better World](https://abw.blue/index_en.php) - Interactive History Changing Game

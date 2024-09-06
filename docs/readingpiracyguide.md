@@ -307,7 +307,6 @@
 * [Liberation School](https://liberationschool.org/) - Communism
 * [Red Texts](https://redtexts.org/) - Communism
 * [Communism Essays / FAQs](https://dessalines.github.io/essays) - Communism
-* [Third World Traveler](https://thirdworldtraveler.com/) - Human Rights / Conspiracies / Anti-War
 
 ***
 

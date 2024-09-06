@@ -170,7 +170,7 @@
 
 * 🌐 **[Digital Communications Protocols](https://docs.google.com/spreadsheets/u/0/d/1-UlA4-tslROBDS9IqHalWVztqZo7uxlCeKPQ-8uoFOU)** - Chat Service / Protocol Comparisons
 * ↪️ **[IRC Clients / Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/download#wiki_.25B7_irc_tools)**
-* ⭐ **[Mumble](https://www.mumble.info/)**, [Jam](https://jam.systems/), [TeaSpeak](https://teaspeak.de/gb/), [TeamSpeak](https://www.teamspeak.com/) / [Warning](https://pastebin.com/479TbKq5), [Zoiper](https://www.zoiper.com/) or [Google Voice](https://voice.google.com/) - Voice Chat
+* ⭐ **[Mumble](https://www.mumble.info/)**, [Jam](https://jam.systems/), [TeaSpeak](https://teaspeak.de/gb/) or [TeamSpeak](https://www.teamspeak.com/) / [Warning](https://pastebin.com/479TbKq5) - Voice Chat
 * ⭐ **[Hack.chat](https://hack.chat/)**, [Shick](https://shick.me/), [LeapChat](https://www.leapchat.org/), [Yap](https://yap.chat/), [Convene](https://letsconvene.im/), [Stinto](https://stin.to/en) or [tik.io](https://tlk.io/) - Minimal Account Free Chats
 * ⭐ **[Gajim](https://gajim.org/)** or [xabber](https://www.xabber.com/) - XMPP Clients
 * [Pidgin](https://www.pidgin.im/), [Voximity](https://voximity.chat/), [Beeper](https://www.beeper.com/), [Texts](https://texts.com/) or [Ferdium](https://ferdium.org/) - Combine Web Apps / Chats
@@ -181,16 +181,11 @@
 * [Atlus](https://github.com/amanharwara/altus) or [WAO](https://dedg3.com/wao/) - WhatsApp Clients
 * [WhatsApp-Chat-Exporter](https://wts.knugi.dev/) - WhatsApp Skype Chats
 * [WAIncognito](https://chromewebstore.google.com/detail/waincognito/alhmbbnlcggfcjjfihglopfopcbigmil) - Disable WhatsApp Read Receipts & Presence Updates
-* [Tom el Transcriptor](https://api.whatsapp.com/message/GO6PJ7A2GVKRK1) - WhatsApp Voice to Text Bot
-* [Skype Exports for Humans](https://becausecurious.me/skype_exports_for_humans) - Export Skype Chats
 * [TikTok Chat Reader](https://tiktok-chat-reader.zerody.one/) - Live TikTok Chat Reader
 * [Urlebird](https://urlebird.com/) - Third-Party TikTok with better UI
-* [IMumble](https://www.imumble.nl/) or [Guildbit](https://guildbit.com/) - Voice Chat Servers
-* [Vocaroo](https://vocaroo.com/) - Send Voice Messages
-* [DJ3D](https://dj3d.io/), [Gather](https://gather.town/) - Virtual World Server
-* [VideoMail](https://www.videomail.io/) - Webcam to Email Tool
-* [VCam](https://www.xsplit.com/vcam) - Remove Webcam Background
-* [NVIDIA BROADCAST](https://www.nvidia.com/en-us/geforce/broadcasting/broadcast-app/) or [Mini Video Me](https://github.com/maykbrito/mini-video-me) - Webcam Managers
+* [Guildbit](https://guildbit.com/) - Voice Chat Servers
+* [DJ3D](https://dj3d.io/) - Virtual World Server
+* [Mini Video Me](https://github.com/maykbrito/mini-video-me) - Webcam Managers
 * [MiroTalk](https://mirotalk.up.railway.app/) or [MiroTalk SFU](https://sfu.mirotalk.com/) - Video Chat
 * [Videolink2me](https://videolink2me.com/) - Video Chat
 * [TinyChat](https://tinychat.com/) - Video Chat
@@ -204,7 +199,7 @@
 
 ## ▷ RSS Tools
 
-* ⭐ **[All about RSS](https://github.com/AboutRSS/ALL-about-RSS)** / [Telegram](https://t.me/s/aboutrss), [RSSTango](https://rentry.org/rrstango), [To RSS](https://www.to-rss.xyz/), [Awesome RSS Feeds](https://github.com/plenaryapp/awesome-rss-feeds) or [RSS](https://gist.github.com/thefranke/63853a6f8c499dc97bc17838f6cedcc2) - RSS Feeds / Tools
+* ⭐ **[All about RSS](https://github.com/AboutRSS/ALL-about-RSS)** / [Telegram](https://t.me/s/aboutrss), [RSSTango](https://rentry.org/rrstango), [Awesome RSS Feeds](https://github.com/plenaryapp/awesome-rss-feeds) or [RSS](https://gist.github.com/thefranke/63853a6f8c499dc97bc17838f6cedcc2) - RSS Feeds / Tools
 * ⭐ **[Feedly](https://feedly.com/)** - RSS Reader / [Notifier](https://olsh.me/Feedly-Notifier/)
 * ⭐ **[RSS Guard](https://github.com/martinrotter/rssguard)** - RSS Reader / [Scraper](https://github.com/Owyn/CSS2RSS) / [Discord](https://discord.com/invite/7xbVMPPNqH)
 * ⭐ **[Inoreader](https://www.inoreader.com/)** - RSS Reader
@@ -268,7 +263,7 @@
 * [Shodan](https://www.shodan.io/) - Internet Connected Device Search
 * [OCCRP Aleph](https://aleph.occrp.org/) - Public Records / Leaks Search
 * [OpenOwnership](https://register.openownership.org/) - Company Ownership Search
-* [CrunchBase](https://www.crunchbase.com/) or [CorporationWiki](https://www.corporationwiki.com/) - Company Info Search
+* [CorporationWiki](https://www.corporationwiki.com/) - Company Info Search
 * [OffshoreLeaks](https://offshoreleaks.icij.org/) - Offshore Company Leaks Search
 * [judyrecords](https://www.judyrecords.com/) - US Court Case Search
 * [Is it big?](https://isitbig.org/) - Brand Corporation Connection Search
@@ -300,22 +295,13 @@
 * [WebCrawler](https://www.webcrawler.com/)
 * [Million Short](https://millionshort.com/)
 * [Andi](https://andisearch.com/)
-* [Excite](https://search.excite.com/)
-* [Metacrawler](https://www.metacrawler.com/)
 * [Carrot2](https://search.carrot2.org/#/web)
-* [4Search](https://www.4search.com/)
-* [Info.com](https://www.info.com/)
 * [Yahoo](https://www.yahoo.com/)
-* [FrogFind!](http://frogfind.com/)
-* [Visymo Search](https://search.visymo.com/)
 * [AOL](https://search.aol.com/)
-* [All in One](https://all-io.net/)
 * [All the Internet](https://www.alltheinternet.com/)
 * [eTools.ch](https://www.etools.ch/)
 * [BizNar](https://biznar.com/biznar/desktop/en/search.html)
 * [WorldWideScience](https://worldwidescience.org/)
-* [infospace](https://www.infospace.com/)
-* [alexandria.org](https://www.alexandria.org/)
 
 ***
 
@@ -379,7 +365,6 @@
 * [W.A.R. Links Checker Premium](https://greasyfork.org/en/scripts/2024) - Auto-check the status of File Host links.
 * [SpyOffers](https://www.spyoffers.com/) - Affiliate Link Checker
 * [Open Bulk URL](https://openbulkurl.com/) or [OpenAllURLs](https://www.openallurls.com/) - URL Bulk Opener
-* [CrowdTangle](https://apps.crowdtangle.com/chrome-extension) - Check Where Links Have Been Shared
 * [Link-Lock](https://rekulous.github.io/link-lock/) - Encrypt & Decrypt Links with Passwords
 * [dcrypt.it](https://dcrypt.it/) - Decrypt Link Containers
 * [Temporary-Url](https://www.temporary-url.com/) - Temporary URLs / QR Codes
@@ -586,7 +571,6 @@
 * [anonymousemail.me](https://anonymousemail.me/)
 * [Anonymouse](http://anonymouse.org/anonemail.html)
 * [Send Anonymous Email](http://www.sendanonymousemail.net/)
-* [MailFreeOnline.com](https://www.mailfreeonline.com/home)
 
 ***
 
@@ -615,16 +599,9 @@
 * ↪️ **[Privacy Browsers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25B7_browser_privacy)**
 * ⭐ **[BrowserBench](https://browserbench.org/)** or [WPT](https://wpt.fyi) - Browser Benchmark Tests
 * ⭐ **[WhatTrainIsItNow?](https://whattrainisitnow.com/)** - Track Firefox Releases
-* ⭐ **[Firefox Keyboard Shortcuts](https://support.mozilla.org/en-US/kb/keyboard-shortcuts-perform-firefox-tasks-quickly)**
-* ⭐ **[Chrome Keyboard Shortcuts](https://support.google.com/chrome/answer/157179)**
+* ⭐ **[Edge-Remover](https://rentry.co/uninstall_edge)** - Microsoft Edge Removal Script
 * [VsyncTester](https://vsynctester.com/) - Browser VSYNC Test
-* [QuteBrowser](https://qutebrowser.org/) - Keyboard Focused Browser
-* [Vieb](https://vieb.dev/) - Vim Inspired Browser
-* [Browsh](https://www.brow.sh/) - Text-Based Browser
-* [woob](https://woob.tech/) - Use Sites without a Browser
 * [Browserling](https://www.browserling.com/) - Browser Emulators
-* [NYXT](https://nyxt.atlas.engineer/ ) - Information Extraction Browser
-* [Lagrange](https://gmi.skyjake.fi/lagrange/) or [Amfora](https://github.com/makew0rld/amfora) - Gemini Browsers
 * [Gemini Portal](https://geminiprotocol.net/), [2](https://yesterweb.org/gemini) - Gemini to https Web Proxy Service
 * [Rambox](https://rambox.app/), [Kera](https://desktop.kerahq.com/) or [Tangram](https://github.com/sonnyp/Tangram) - Web App Browsers
 * [Chrome Theme Studio](https://chrometheme.studio/) - Create Chrome Theme
@@ -639,10 +616,9 @@
 * [Hurl](https://github.com/U-C-S/Hurl) - Select Browser on URL Clicks
 * [Ruffle](https://ruffle.rs/) - Flash Emulator
 * [Flash 32 Download](https://pastebin.com/CTLS5EVy) or [Clean Flash Builds](https://github.com/darktohka/clean-flash-builds/) - Flash Downloads
-* [Edge-Remover](https://rentry.co/uninstall_edge) - Microsoft Edge Removal Script
 * [MSEdgeRedirect](https://github.com/rcmaehl/MSEdgeRedirect) - Redirect Microsoft Edge
-* [WhatIsMyBrowser](https://developers.whatismybrowser.com/) - User Agent Archive
-* [Irchiver](https://irchiver.com/) - Automatic Web Browser Screenshots
+* [Firefox Keyboard Shortcuts](https://support.mozilla.org/en-US/kb/keyboard-shortcuts-perform-firefox-tasks-quickly)
+* [Chrome Keyboard Shortcuts](https://support.google.com/chrome/answer/157179)
 
 ***
 
@@ -672,10 +648,8 @@
 * [Automa](https://www.automa.site/) or [Browserflow](https://browserflow.app/) - Browser Automation
 * [Snap Links Plus](https://cpriest.github.io/SnapLinksPlus/) or [Link Clump](https://github.com/benblack86/linkclump) - Select & Open Multiple Links at Once
 * [Glitter Drag](https://github.com/harytfw/glitterdrag) - Adds Actions on Dragging
-* [Scroll to Top](https://mybrowseraddon.com/scroll-to-top.html) - Scroll to Top Button on all Sites
 * [Custom Scrollbars](https://addons.wesleybranton.com/addon/custom-scrollbars/) - Custom Browser Scrollbars
 * [Quick Tabs](https://github.com/babyman/quick-tabs-chrome-extension) - Quickly Switch between Current & Recently Closed Tabs
-* [Always Right](https://github.com/autonome/Always-Right/) - Always Open New Tabs to the Right
 * [User Agent Switcher](https://add0n.com/useragent-switcher.html) - Switch your User-Agent
 * [Auto Tab Discard](https://add0n.com/tab-discard.html) or [Tab Wrangler](https://github.com/tabwrangler/tabwrangler) - Discard Inactive Tabs
 * [Snooze Tabs](https://github.com/bwinton/SnoozeTabs) - Temporarily Snooze Tabs
@@ -774,7 +748,6 @@
 * ⭐ **[Extensity](https://chromewebstore.google.com/detail/extensity/jjmflmamggggndanpgfnpelongoepncg)** or [Extension Manager](https://chromewebstore.google.com/detail/extension-manager/gjldcdngmdknpinoemndlidpcabkggco) - Extension Managers
 * ⭐ **[chromium-web-store](https://github.com/NeverDecaf/chromium-web-store)** - Add Extensions to Ungoogled Chromium
 * ⭐ **[Foxified](https://foxified.org/)** - Use Firefox Extensions in Chrome
-* ⭐ **[Edge Chrome](https://greasyfork.org/en/scripts/439922)** - Use Edge Extensions in Chrome
 * ⭐ **[Clipper](https://clipper.website/)** - Copy Content in Multiple Formats
 * [WebCRX](https://webcrx.io/) - Easily Install Local CRX Files
 * [Chrome Stats](https://chrome-stats.com/) - Compare / Analyze Chrome Extensions
@@ -816,7 +789,7 @@
 
 ## ▷ Userscripts
 
-* 🌐 **[Awesome Userscripts](https://github.com/awesome-scripts/awesome-userscripts)**, [XIU2](https://github.com/XIU2/UserScript), [Scripts](https://gitlab.com/loopvid/scripts) or [Userscript.zone](https://www.userscript.zone/) - Userscript Indexes
+* 🌐 **[Awesome Userscripts](https://github.com/awesome-scripts/awesome-userscripts)**, [XIU2](https://github.com/XIU2/UserScript) or [Userscript.zone](https://www.userscript.zone/) - Userscript Indexes
 * ↪️ **[Google Search Userscripts](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools#wiki_.25B7_google_search_tools)**
 * ⭐ **[Violentmonkey](https://violentmonkey.github.io/)**, **[Tampermonkey](https://www.tampermonkey.net/)** or [Firemonkey](https://addons.mozilla.org/en-US/firefox/addon/firemonkey/) - Userscript Managers
 * ⭐ **[Greasy Fork](https://greasyfork.org/)**, [OpenUserJS](https://openuserjs.org/) or [Userscripts](https://userscripts-mirror.org/) - Install Userscripts
@@ -865,6 +838,7 @@
 * ⭐ **[MarkDownload](https://github.com/deathau/markdownload)** or [MarkdownDown](https://markdowndown.vercel.app/) - Download Web Pages as Markdown Files
 * ⭐ **[HTTrack](https://www.httrack.com/)** / [Guide](https://rentry.co/cloneasite) - Website Downloader
 * ⭐ **[datahoarder-website-to-markdown](https://github.com/evilsh3ll/datahoarder-website-to-markdown)** - Index to Markdown Tool
+* [Irchiver](https://irchiver.com/) - Automatic Web Browser Screenshots
 * [Monolith](https://github.com/Y2Z/monolith) - Save Webpages as HTML
 * [WAIL](https://matkelly.com/wail) - GUI For Archiving Tools / [GitHub](https://github.com/machawk1/wail)
 * [ReplayWeb](https://replayweb.page/) or [OldWeb](https://oldweb.today/) - View Web Archive Files

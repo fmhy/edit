@@ -667,7 +667,6 @@
 * [Wikitrivia](https://wikitrivia.tomjwatson.com/) - Guess Which Event Came First
 * [WhatBeatsRock](https://www.whatbeatsrock.com/) - Guess What Beats What
 * [Human or Not?](https://www.humanornot.ai/) - Guess Human vs. AI
-* [AI Bingo](https://ai-bingo.lipsumar.io/) - AI Art Guessing Games
 
 ***
 

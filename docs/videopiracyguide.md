@@ -60,7 +60,6 @@
 * [1HD](https://1hd.to/) - Movies / TV / 1080p
 * [YassFlix](https://yassflix.live/) - Movies / TV / Anime / 1080p / Ad-Free
 * [Seez](https://watchwave-v2.vercel.app/watch) - Movies / TV / 1080p
-* [Movierr](https://movierr.online/) - Movies / TV / Anime / [Discord](https://discord.gg/sxKN424ZYK)
 * [EuroPixHD](https://europixhd.pro/) - Movies / TV / Anime / 1080p
 * [EMovies](https://emovies.si/), [2](https://xtv.to/) - Movies / TV / Anime / 1080p
 * [Downloads-Anymovies](https://www.downloads-anymovies.co/) - Movies / 1080p
@@ -347,7 +346,6 @@
 * [odysee](https://odysee.com/)
 * [Playeur](https://playeur.com/)
 * [Rumble](https://rumble.com/)
-* [Myspace Videos](https://myspace.com/search/videos)
 
 ***
 
@@ -533,7 +531,7 @@
 * ↪️ **[Video Download Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video-tools#wiki_.25BA_video_download)**
 * ⭐ **[Pahe](https://pahe.ink/)** - Movies / TV / Anime / 4K / [Discord](https://discord.gg/4AvaCsd2J4) / Use Adblocker
 * ⭐ **[PSARips](https://psa.wf/)** - Movies / TV / 4K
-* ⭐ **[OlaMovies](https://olamovies.rent/)** - Movies / TV / 4K / 1080p / [Telegram](https://t.me/olamovies_officialv6)
+* ⭐ **[OlaMovies](https://olamovies.baby/)** - Movies / TV / 4K / 1080p / [Telegram](https://t.me/olamovies_officialv6)
 * ⭐ **[LightDLMovies](https://lightdl.xyz/)**, [2](https://lightdlmovies.blogspot.com/) - Movies / TV / 1080p
 * ⭐ **[VegaMovies](https://vegamovies.nz/)** - Movies / TV / Anime / 1080p / 4K / [Telegram](https://telegram.dog/VegamoviesTo_Official)
 * ⭐ **[MovieParadise](https://movieparadise.org/)** - Movies / TV / 1080p / [Get Code](https://rentry.org/he8fhzku) / Code unlocks faster file host (1fichier)
@@ -614,7 +612,6 @@
 * 🌐 **[The Index DDL](https://theindex.moe/collection/ddl-communities)** - Anime DDL Sites / [Discord](https://discord.gg/Snackbox) / [Wiki](https://thewiki.moe/)
 * ↪️ **[Telegram Anime Downloads](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_telegram_anime_downloads)**
 * ⭐ **[Tokyo Insider](https://www.tokyoinsider.com/)** - Sub / Dub
-* ⭐ **[AnimeOut](https://www.animeout.xyz/)** - Sub / [Discord](https://discord.com/invite/yDURwdC)
 * ⭐ **[hi10anime](https://hi10anime.com/)** - Sub / [Discord](https://discord.gg/uZ85cbAg4T)
 * ⭐ **[Flugel Anime](https://rentry.co/FMHYBase64#flugel-anime)** - Sub
 * ⭐ **[Kayoanime](https://kayoanime.com/)** - Sub / Dub / [Telegram](https://t.me/AnimeKayo)
