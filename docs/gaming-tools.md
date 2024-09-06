@@ -180,7 +180,7 @@
 * ⭐ **[ModDB](https://moddb.com/)** - Game Mods
 * ⭐ **[Nexus Mods](https://www.nexusmods.com/)** - Game Mods / [Bulk Downloader](https://greasyfork.org/en/scripts/483337) / [Redirect Skip](https://greasyfork.org/en/scripts/394039) / [Discord](https://discord.com/invite/nexusmods)
 * ⭐ **[ModdingLinked](https://moddinglinked.com/)** - Bethesda Game Modding Guides / [Discord](https://discord.com/invite/S99Ary5eba)
-* [ModOrganizer](https://github.com/ModOrganizer2/modorganizer) or [WeMod](https://rentry.co/fmhybase64#wemod) - Mod Managers
+* [ModOrganizer](https://github.com/ModOrganizer2/modorganizer)
 * [Otis_Inf Camera Mods](https://kemono.su/patreon/user/37343853) or [CinematicTools Archive](https://rentry.co/FMHYBase64#cinematictools-archive) - Game Camera Mods
 * [mod.io](https://www.mod.io/) - Cross Platform Game Mods Support / [Discord](https://discord.com/invite/modio)
 * [WabbaJack](https://www.wabbajack.org/) - Automated Modlist Installer / [Discord](https://discord.com/invite/wabbajack)
