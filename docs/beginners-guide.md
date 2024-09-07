@@ -108,7 +108,7 @@ No, don't do that. Windows Defender is more than enough to keep you safe, but if
 
 ### Streaming
 
-* **[movie-web](https://erynith.github.io/movie-web-instances/) / [2](https://docs.undi.rest/instances) + [Add Sources](https://pastebin.com/w8Brq2UA) / [Braflix](https://www.braflix.ru/) / [watch.lonelil](https://watch.lonelil.ru/) / [Binged](https://binged.live/)** -  Movie / TV streaming
+* **[movie-web](https://erynith.github.io/movie-web-instances/) / [2](https://docs.undi.rest/instances) + [Add Sources](https://pastebin.com/w8Brq2UA) / [Braflix](https://www.braflix.ru/) / [watch.lonelil](https://watch.lonelil.ru/) / [Binged](https://binged.to/)** -  Movie / TV streaming
 * **[HiAnime](https://hianime.to/)** - Anime Streaming
 * **[Dramacool](https://dramacool.cy/)** - Asian drama streaming
 * **[SportsSurge](https://v2.sportsurge.net/home4/)** - Live sports streaming
