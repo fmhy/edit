@@ -16,7 +16,7 @@
 * ⭐ **[Not Diamond](https://chat.notdiamond.ai/)** - Multiple Chatbots
 * ⭐ **[LMSYS Chat](https://lmarena.ai/)** - Chat and Compare Multiple Chatbots
 * ⭐ **[ChatPDF](https://www.chatpdf.com/)** or [Ask Your PDF](https://askyourpdf.com/) - Turn Books into Chatbots
-* ⭐ **[TypeSet](https://typeset.io/)** - Research Paper Chatbot
+* ⭐ **[TypeSet](https://typeset.io/)** or [Elicit](https://elicit.com/) - Research Paper Chatbots
 * [Gemini](https://gemini.google.com/) or [Gemma](https://github.com/google/gemma.cpp), [2](https://ai.google.dev/gemma/) - Google's Chatbot
 * [DuckDuckGo AI](https://duck.ai/) - Multiple Chatbots
 * [LLM Playground](https://llmplayground.net/) - Multiple Chatbots / 1000 word limit / [Discord](https://discord.com/invite/q55gsH8z5F)
@@ -243,6 +243,7 @@
 * [text-to-video](https://text-to-video.vercel.app) - Video Generator
 * [LensGo](https://lensgo.ai/) - Video Generator
 * [Pika Labs](https://www.pika.art/) - Video Generator
+* [Hailuo AI](https://hailuoai.com/video) - Video Generator / Use Translator / [Discord](https://discord.com/invite/UnKWaS2Z)
 * [Damo](https://huggingface.co/spaces/damo-vilab/modelscope-text-to-video-synthesis) - Video Generator
 * [Rollideo](https://rollideo.com/) - Text to Subbed Video
 

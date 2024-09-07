@@ -553,7 +553,7 @@
 ## ▷ Productivity / Calendars
 
 * ↪️ **[Text Editors / To-Do](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_android_note_apps)**
-* ⭐ **[Sleep as Android](https://rentry.co/FMHYBase64#sleep-as-android)**, [Clock](https://github.com/BlackyHawky/Clock), [Chrono](https://github.com/vicolo-dev/chrono), [ClockYou](https://github.com/you-apps/ClockYou) or [AlarmClock](https://github.com/yuriykulikov/AlarmClock) - Clocks / Alarms
+* ⭐ **[Sleep as Android](https://rentry.co/FMHYBase64#sleep-as-android)**, [Sleep Cycle](https://rentry.co/FMHYBase64#sleep-cycle), [Clock](https://github.com/BlackyHawky/Clock), [Chrono](https://github.com/vicolo-dev/chrono), [ClockYou](https://github.com/you-apps/ClockYou) or [AlarmClock](https://github.com/yuriykulikov/AlarmClock) - Clocks / Alarms
 * [Etar](https://github.com/Etar-Group/Etar-Calendar), [JTX](https://jtx.techbee.at/), [digical](https://digibites.nl/digical) or [TimeTreeApp](https://timetreeapp.com/intl/en/) - Calendars
 * [QRAlarm](https://github.com/sweakpl/qralarm-android) - Scan QR Code to Turn Off Alarm
 * [Calendar Notifications](https://play.google.com/store/apps/details?id=com.tuogol.calendar.notification) - View Calendar as Notifications

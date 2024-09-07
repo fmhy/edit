@@ -73,7 +73,7 @@
 * [DigitalZone](https://digitalzone.vercel.app/), [2](https://god0654.github.io/DigitalZone/) - Download / Portable Repacks / [Discord](https://discord.gg/F7juJ4RryJ)
 * [Elamigos](https://elamigos.site/) - Download
 * [Tiny-Repacks](https://www.tiny-repacks.win) - Torrent
-* [DODI Repacks](https://dodi-repacks.site/) - Torrent / [Discord](https://discord.gg/uE273qJ) / [Opera Bypass](https://rentry.co/lootlink) / [Warning](https://pastebin.com/n5xS3v6k)
+* [DODI Repacks](https://dodi-repacks.site/) - Torrent / [Opera Bypass](https://rentry.co/lootlink) / [Warning](https://pastebin.com/n5xS3v6k)
 * [FreeGOGPCGames](https://freegogpcgames.com/) - GOG Games Torrent Uploads / [Hash Note](https://pastebin.com/pNMj3nay), [2](https://i.ibb.co/XbF2dv1/image.png)
 * [Magipack](https://www.magipack.games), [CollectionChamber](https://collectionchamber.blogspot.com/) or [ClassicPCGames](https://archive.org/details/classicpcgames) - Retro PC Games
 * [~archive](https://websites.umich.edu/~archive/) - Retro PC / Mac Games
@@ -198,7 +198,6 @@
 * ⭐ **[RAZE](https://github.com/ZDoom/Raze)** or [BuildGDX](https://m210.duke4.net/) / [Discord](https://discord.gg/zZw2eq3n7G) - Oldschool Shooter Engine
 * [TOSEC](https://rentry.co/FMHYBase64#tosec) - The Old School Emulation Center
 * [Xbox Emulation Hub](https://discord.com/invite/7pcAbZzpXj) - Xbox Emulation Discord
-* [EmuDeck](https://www.emudeck.com/) / [Yuzu / Citra Update](https://redd.it/1be3q1s) or [GameImage](https://github.com/ruanformigoni/gameimage) - Game / Emulator Setup for Steam Deck and Linux
 * [MouseInjector](https://github.com/garungorp/MouseInjectorDolphinDuck) - Add Mouse Support to Emulators
 * [Motion Support Bypass](https://redd.it/gobcne) - Fix Cemu BOTW Motion Shrines / [DL](https://mega.nz/file/1Uo3BI6L#X5m-bPK27-X-IijzJH1o4MloivkUqP33zsUJE_kpOdc)
 * [SwitchEmuModDownloader](https://github.com/amakvana/SwitchEmuModDownloader) - Download Switch Emulator Mods
@@ -333,6 +332,8 @@
 * [SMBGames](https://smbgames.be/) - Super Mario Browser Emulator
 * [SMWGames](https://www.smwgames.com/) - Hacked Super Mario World Browser Emulators
 * [Jelly Mario](https://jellymar.io/) - Jelly Super Mario
+* [SMBX2](http://codehaus.wohlsoft.ru/index.php) - Super Mario Enhancement Mod / [Video](https://youtu.be/15ia-OiEFzQ) / [Discord](https://discord.com/invite/aCZqadJ)
+* [Super Mario and the Rainbow Stars](https://superstarshi.github.io/smatrs/) - Super Mario Mod / [Video](https://youtu.be/SqQuI1AbSQw) / [Discord](https://discord.gg/GBXUa7NF2J)
 * [Level Share Square](https://levelsharesquare.com/) - Custom Maps for Mario Fangames
 * [Mario Kart PC](https://mkpc.malahieude.net/mariokart.php) - Browser Mario Kart
 * [Mega Man Games](https://www.megamangames.net/) - Mega Man Browser Emulator

@@ -932,7 +932,6 @@
 * [Catma](https://catma.de/) - Research Markup & Analysis Tool
 * [OpenRefine](https://openrefine.org/) - Data Cleaning
 * [Taguette](https://app.taguette.org/) - Data Analysis Document Tagging
-* [Elicit](https://elicit.com/) - Research Analysis 
 * [Lurnby](https://www.lurnby.com) / [GitHub](https://github.com/Roznoshchik/Lurnby) or [StringMark](https://www.stringmark.com/) - Research Highlighting Tools
 * [Deepnote](https://deepnote.com/) - Data Science Notebook
 * [General Index](https://archive.org/details/GeneralIndex) - Article Metadata Mining Project

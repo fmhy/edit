@@ -715,7 +715,7 @@
 * ⭐ **[Catbox.moe](https://catbox.moe/)**
 * [lookimg](https://lookimg.com/)
 * [Imgur](https://imgur.com/)
-* Imgur Tools - [Frontends](https://rimgo.codeberg.page/), [2](https://git.voidnet.tech/kev/imgin), [3](https://codeberg.org/rimgo/rimgo), [4](https://codeberg.org/3np/rimgu), [5](https://rimgo.bus-hit.me/)
+* Imgur Tools - [Frontends](https://git.voidnet.tech/kev/imgin), [2](https://codeberg.org/rimgo/rimgo), [3](https://codeberg.org/3np/rimgu), [4](https://rimgo.bus-hit.me/)
 * [pixelfed](https://pixelfed.org/)- Decentralized Image Host / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/social-media#wiki_.25B7_pixelfed_tools)
 * [Unsee](https://unsee.cc/) - Decentralized / Temporary Image Hosts / [Android](https://gitlab.shinice.net/pixeldroid/PixelDroid)
 * [WebOasis IPFS](https://weboasis.app/ipfs/)
