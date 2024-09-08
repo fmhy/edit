@@ -74,7 +74,7 @@
 * [Vid123](https://vid123.net/)
 * [Adultism](https://www.adultism.com/), [Erome](https://www.erome.com/), [YourAmateurPorn](https://www.youramateurporn.com/), [Terk](https://www.terk.nl/) or [HClips](https://hclips.com/) - Amateur Porn
 * [PornFreeX](https://pornfreex.app/), [Porn App](https://porn-app.com/) or [NsfwBox](https://github.com/Kisspeace/NsfwBox) - Android Porn Apps
-* [Porn Guide](https://fapbuddies.net/porn-guide/) - How-to Find Porn
+* [Porn Guide](https://fapbuddies.net/porn-guide/) - How to Find Porn
 
 ***
 
@@ -308,7 +308,7 @@
 
 * 🌐 **[Wotaku](https://wotaku.wiki/nsfw#anime)** - Hentai Anime Index / [Discord](https://discord.gg/vShRGx8ZBC)
 * 🌐 **[The Index](https://theindex.moe/library/hentai)** or [Best Hentai Sites](https://besthentaisites.github.io/) - Hentai Site Lists
-* 🌐 **[EverythingMoe](https://everythingmoe.com/?nsfw=true#section-hentai)**, [2](https://everythingmoe.org/?nsfw=true#section-hentai)  - Hentai Sites Index
+* 🌐 **[EverythingMoe](https://everythingmoe.com/?nsfw=true#section-hentai)**, [2](https://everythingmoe.org/?nsfw=true#section-hentai) - Hentai Sites Index
 * 🌐 **[/cumg/](https://rentry.co/coom)** - Hentai Resources
 * ⭐ **[Nyaa Sukebei](https://sukebei.nyaa.si/)** - Hentai Torrents
 * ⭐ **[Anime-Sharing](https://www.anime-sharing.com/#downloads-requests)** - Hentai DDL
@@ -351,7 +351,8 @@
 * [HentaiCloud](https://www.hentaicloud.com/) - Hentai Streaming
 * [HentaisTube](https://www.hentais.tube/) - Hentai Streaming
 * [Watch Hentai](https://watchhentai.net/) - Hentai Streaming
-* [HentaiDude](https://hentaidude.com/) - Hentai Streaming* [LatestHentai](https://latesthentai.com/) - Hentai Streaming
+* [HentaiDude](https://hentaidude.com/) - Hentai Streaming
+* [LatestHentai](https://latesthentai.com/) - Hentai Streaming
 * [CartoonPornVideos](https://www.cartoonpornvideos.com/) - Hentai Streaming
 * [Hentai2w](https://hentai2w.com/) - Hentai Streaming
 * [sakuracircle](https://sakuracircle.com/) - Hentai DDL
@@ -556,9 +557,7 @@
 * [AdultMagazine](https://adultmagazine.net/)
 * [Adult Magazines PDF](https://adultmagazinespdf.com/)
 * [v9k9 Mags](https://redd.it/ouuakm) - Japanese Magazines
-* https://pdfmagazines.club/adult
-* https://pdfmagazines.club/for-men
-* https://pdfmagazines.club/japan/
+* [pdfmagazinesclub](https://pdfmagazines.club/adult)
 
 ***
 

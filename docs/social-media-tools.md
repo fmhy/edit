@@ -222,7 +222,7 @@
 * ⭐ **[Saidit](https://saidit.net/)** - Free-Speech / Dual Upvote System
 * [/r/RedditAlternatives](https://reddit.com/r/RedditAlternatives) - Find Reddit Alternatives
 * [sub.rehab](https://sub.rehab/) - Reddit Communities on Alternative Platforms
-* [tildes](https://tildes.net/) - Non-profit / User-Driven Discussion
+* [tildes](https://tildes.net/) - Non-Profit / User-Driven Discussion
 * [Scored](https://communities.win/) - User-Driven Discussion
 * [Ramble](https://ramble.pw/) - Privacy-Focused
 * [Squabblr](https://squabblr.co/) - Twitter / Reddit Style Alt
@@ -237,7 +237,7 @@
 * ⭐ **[Undelete](https://undelete.pullpush.io/)** - View Deleted Reddit Posts
 * [RSOG](https://www.rsog.org/) - Reddit Search on Google / [Userscript](https://greasyfork.org/en/scripts/462356)
 * [New PullPush](https://search-new.pullpush.io/) / [2](https://search.pullpush.io/) / [3](https://ihsoyct.github.io/), [Samac](https://samac.io/) or [Better Reddit Search](https://betterredditsearch.web.app/) - Advanced Reddit Search
-* [Redditle](https://redditle.com/) - Reddit-only Google Search
+* [Redditle](https://redditle.com/) - Reddit-Only Google Search
 * [Arctic Shift](https://arctic-shift.photon-reddit.com/) - Reddit Archive Dump Search / [GitHub](https://github.com/ArthurHeitmann/arctic_shift)
 * [RedditCommentSearch](https://redditcommentsearch.com/) - Reddit Comment Search
 * [ReSavr](https://www.resavr.com/) or [Reddit Dump Files](https://academictorrents.com/browse.php?search=stuck_in_the_matrix%2C+Watchful1%2C+RaiderBDev&sort_field=added&sort_dir=DESC) - Reddit Comment Archives
@@ -280,7 +280,7 @@
 * [CloneChat](https://github.com/apenasrr/clonechat) - Clone Telegram Chats
 * [tasra](https://the-eye.eu/tasra/) - Telegram Channel Archive
 * [Telegram Email](https://t.me/etlgr_bot) - Send / Receive Emails via Telegram
-* [CHPic](https://chpic.su/),, [Stickers Cloud](https://stickers.cloud/en), [ComBot Stickers](https://combot.org/telegram/stickers) or [moe_sticker_bot](https://t.me/moe_sticker_bot) - Telegram Sticker / Emojis
+* [CHPic](https://chpic.su/), [Stickers Cloud](https://stickers.cloud/en), [ComBot Stickers](https://combot.org/telegram/stickers) or [moe_sticker_bot](https://t.me/moe_sticker_bot) - Telegram Sticker / Emojis
 
 ***
 
@@ -393,7 +393,7 @@
 * [YouTubeLiveChatFlusher](https://github.com/ys-j/YoutubeLiveChatFlusher) - YouTube Live Bullet Chatting (Danmaku)
 * [Fast Chat](https://greasyfork.org/en/scripts/469878) - Chat Optimization Extension
 * [YTArchive](https://github.com/Kethsar/ytarchive) - YouTube Livestream Recorder
-* [YouTube Livestream Theatre](https://gitlab.com/-/snippets/2099898) - Twitch-style Theater Mode for YouTube Live
+* [YouTube Livestream Theatre](https://gitlab.com/-/snippets/2099898) - Twitch-Style Theater Mode for YouTube Live
 
 ***
 
@@ -410,11 +410,11 @@
 * [Campfire](https://campfire.gg), [Walrus](https://joinwalrus.tv/), [Sync-Tube](https://sync-tube.de/), [YouTube Party](https://youtubeparty.netlify.app/) or [Hergetto](https://hergetto.live/) - YouTube Watch Parties
 * [TwitchTheater](https://twitchtheater.tv/), [VidGrid](https://vidgrid.tk.gg/), [YouTube Multiplier](https://www.youtubemultiplier.com/) or [ViewSync](https://viewsync.net/) - Watch Multiple YouTube Videos
 * [CloudTube](https://tube.cadence.moe/) - YouTube Frontend
-* [Youtube-Clone-KMP](https://github.com/KhubaibKhan4/Youtube-Clone-KMP) - YouTube Frontend
+* [YouTube Clone KMP](https://github.com/KhubaibKhan4/Youtube-Clone-KMP) - YouTube Frontend
 * [ViewTube](https://viewtube.wiki/) - YouTube Frontend
 * [Piped](https://github.com/TeamPiped/Piped) / [2](https://piped.kavin.rocks/) / [3](https://piped-material.১.net/) - YouTube Frontend
 * [PSTube](https://github.com/prateekmedia/pstube) - YouTube Frontend
-* [Youtube-local](https://github.com/user234683/youtube-local) or [yt-local](https://git.sr.ht/~heckyel/yt-local) - YouTube Frontend
+* [youtube-local](https://github.com/user234683/youtube-local) or [yt-local](https://git.sr.ht/~heckyel/yt-local) - YouTube Frontend
 * [YouT-ube](https://www.yout-ube.com/) - YouTube Frontend
 * [yt.d0.cx](https://yt.d0.cx/) - YouTube Frontend
 * [Ytfzf](https://github.com/pystardust/ytfzf) or [YewTube](https://github.com/mps-youtube/yewtube) - Terminal YouTube Players
@@ -444,7 +444,7 @@
 * [metube](https://github.com/alexta69/metube) or [yt-dlp-web-ui](https://github.com/marcopeocchi/yt-dlp-web-ui) - Self-Hosted YT-DL WebUIs
 * [YTDL-PATCHED](https://github.com/ytdl-patched/ytdl-patched) - YouTube CLI Downloader
 * [Poke](https://poketube.fun/download) / [Discord](https://discord.gg/Kqdn8CHacP) or [YoutubeDownloader](https://github.com/Tyrrrz/YoutubeDownloader) - YouTube Downloaders
-* [YoutubeDL-Material](https://github.com/Tzahi12345/YoutubeDL-Material) - Self-hosted YouTube Downloader
+* [YoutubeDL-Material](https://github.com/Tzahi12345/YoutubeDL-Material) - Self-Hosted YouTube Downloader
 * [YouTubePlaylist](https://youtubeplaylist.cc/) - Playlist Downloader
 * [YouTube Qualities Size](https://greasyfork.org/en/scripts/404953-youtube-qualities-size) - Show YouTube File Sizes
 * [totalsize](https://pypi.org/project/totalsize/) - Calculate Size of All Videos in a Playlist
@@ -490,7 +490,7 @@
 * [QuiteAPlaylist](https://quiteaplaylist.com/) - Find Deleted YouTube Videos
 * [Unlisted Videos](https://unlistedvideos.com/) - Watch / Submit Unlisted YouTube Videos
 * [Tubeup](https://github.com/bibanon/tubeup), [Preservetube](https://preservetube.com/) or [yark](https://github.com/Owez/yark) - Archive YouTube Videos and Playlists
-* [TubeArchivist](https://www.tubearchivist.com/) - Self-hosted YouTube Media Server / [GitHub](https://github.com/tubearchivist/tubearchivist)
+* [TubeArchivist](https://www.tubearchivist.com/) - Self-Hosted YouTube Media Server / [GitHub](https://github.com/tubearchivist/tubearchivist)
 * [Hobune](https://hobune.stream/), [FindYouTubeVideo](https://findyoutubevideo.thetechrobo.ca/) or [youtubecrawl](https://archive.org/details/youtubecrawl) - YouTube Video Archives
 
 ***
@@ -520,7 +520,7 @@
 * [TTV Favorites](https://github.com/jc9108/ttv-favorites) - Add Channel Favorites
 * [Streamlink Twitch GUI](https://github.com/streamlink/streamlink-twitch-gui) - Twitch Browser for Streamlink
 * [get stream](https://pwn.sh/tools/getstream.html) - Extract Twitch URLs
-* [lurker.tv](https://www.lurker.tv/) - Discord Server Based Twitch Stream Recs
+* [lurker.tv](https://www.lurker.tv/) - Discord Server-Based Twitch Stream Recs
 * [Twitch TV OBS Subtitles](https://github.com/stephenlb/twitch-tv-obs-subtitles/) - Add Subtitles to Twitch Stream
 * [StreamLadder](https://streamladder.com/) - Social Media Templates for Twitch Clips
 * [TwitchLeak](https://twitchleak.netlify.app/) - Twitch Top Earners Table
@@ -628,7 +628,7 @@
 * [Graph.tips](https://graph.tips/beta/) - Advanced Facebook Search Tool
 * [WhoPostedWhat](https://whopostedwhat.com/) - Facebook Post Search
 * [Color Themes](https://chromewebstore.google.com/detail/color-themes-for-facebook/oohbdcphbnpnoohnbddhcfplalanfbmm), [FB.Zone](https://fb.zone/) or [Color Changer](https://chromewebstore.google.com/detail/color-changer-for-faceboo/blfkmmfngackeejimehjkmendglnabnm) - Color Themes for Facebook
-* [Kill Fbclid](https://chromewebstore.google.com/detail/kill-fbclid/jlmdkcaiejonohbmkgickmkgbpceokmn) or [Remove FBclid](https://chromewebstore.google.com/detail/remove-fbclid-and-utm/ehkdoijaaigomfliimepliikhjkoipob) - Removes fbclid and utm_ query parameters in URLs
+* [Kill Fbclid](https://chromewebstore.google.com/detail/kill-fbclid/jlmdkcaiejonohbmkgickmkgbpceokmn) or [Remove FBclid](https://chromewebstore.google.com/detail/remove-fbclid-and-utm/ehkdoijaaigomfliimepliikhjkoipob) - Removes fbclid and utm_ Query Parameters in URLs
 * [News Feed Eradicator](https://west.io/news-feed-eradicator/) - Hide Facebook News Feed
 * [Lookup ID](https://lookup-id.com/) - Find Facebook ID
 * [Unlike-Everything](https://github.com/tyrtles/Unlike-Everything-on-Facebook) - Remove All Facebook Likes
@@ -784,7 +784,8 @@
 
 * [Telescope](https://telescope.ac/) - Publishing Platform
 * [Arbital](https://arbital.com/) - Hybrid Blogging / Wiki Platform
-* [Haven](https://havenweb.org/) or [WriteFreely](https://writefreely.org/) - Self-hosted Blogging Platforms
+* [Dreamwidth](https://www.dreamwidth.org/) - Blogging Platform
+* [Haven](https://havenweb.org/) or [WriteFreely](https://writefreely.org/) - Self-Hosted Blogging Platforms
 * [Multiverse](https://multiverse.plus/) - Make Highly Customizable Blogs
 * [Bear Blog](https://bearblog.dev/), [Mataroa](https://mataroa.blog/) or [smol.pub](https://smol.pub/) / [Key](https://m15o.ichi.city/smolpub/key-request.html) - Minimalist Blogging Platforms
 * [Notepin](https://notepin.co/) - Anonymous Blogging Platform

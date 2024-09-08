@@ -112,7 +112,7 @@
 * [PikaTorrent](https://www.pikatorrent.com/) / [GitHub](https://github.com/G-Ray/pikatorrent)
 * [Distribyted](https://distribyted.com/) / [GitHub](https://github.com/distribyted/distribyted)
 * [Crawfish](https://github.com/drakonkat/Crawfish)
-* [Tribler](https://www.tribler.org/) - Tor-inspired Client / [GitHub](https://github.com/Tribler/tribler)
+* [Tribler](https://www.tribler.org/) - Tor-Inspired Client / [GitHub](https://github.com/Tribler/tribler)
 * [XD-Torrent](https://xd-torrent.github.io/) - Anonymous P2P Torrent Client
 * [BitSwarm](https://github.com/SuRGeoNix/BitSwarm/) - Bittorrent Client Library
 * [Instant.io](https://instant.io/) - Stream Torrents in Browser
