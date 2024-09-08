@@ -280,6 +280,7 @@
 * ⭐ **[Zen](https://zen.unit.ms/)** - Local Saves
 * [Browserpad](https://browserpad.org/) - Local Saves
 * [Notepad](https://notepad.js.org/) - Local Saves
+* [Online Notepad](https://onlinenotepad.one/) - Local Saves
 * [onlinenotepad](https://onlinenotepad.org/) - Local Saves
 * [notepad-online.net](https://notepad-online.net/) - Local Saves
 * [ssavr](https://www.ssavr.com/) - Local Saves
