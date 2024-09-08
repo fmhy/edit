@@ -17,7 +17,6 @@
 * ⭐ **[KipFlix](https://kipflix.xyz/)** - Movies / TV / Anime / 1080p / [Discord](https://discord.gg/tDKYeh9eQn)
 * ⭐ **[kipwatch](https://kipwatch.xyz/)** -  Movies / TV / Anime / 1080p / [Discord](https://discord.gg/tDKYeh9eQn)
 * ⭐ **[PrimeFlix](https://primeflix-web.vercel.app/)**, [2](https://www.primeflix.lol/) - Movies / TV / Anime / 4K / 1080p / [Discord](https://discord.gg/GbW6gzAKgc)
-* ⭐ **[NunFlix](https://nunflix.com/)** - Movies / TV / Anime / 4K / 1080p / [Discord](https://discord.gg/CXVyfhgn26)
 * ⭐ **[PrimeWire](https://www.primewire.tf/)**, [2](https://www.primewire.li/) - Movies / TV / Anime / 1080p
 * ⭐ **[VidPlay](https://vidplay.org/)** - Movies / TV / Anime / 1080p / [Note](https://pastebin.com/kXrVBceh)
 * ⭐ **[Rive](https://rivestream.live/)**, [2](https://rivestream.netlify.app/), [3](https://rivestream.xyz/), [4](https://cinemaos-v2.vercel.app/) - Movies / TV / Anime / 4K / 1080p / Ad-Free / [Discord](https://discord.gg/6xJmJja8fV)
