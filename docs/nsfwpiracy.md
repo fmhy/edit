@@ -308,7 +308,7 @@
 
 * 🌐 **[Wotaku](https://wotaku.wiki/nsfw#anime)** - Hentai Anime Index / [Discord](https://discord.gg/vShRGx8ZBC)
 * 🌐 **[The Index](https://theindex.moe/library/hentai)** or [Best Hentai Sites](https://besthentaisites.github.io/) - Hentai Site Lists
-* 🌐 **[EverythingMoe](https://everythingmoe.com/?nsfw=true#section-hentai)** - Hentai Sites Index
+* 🌐 **[EverythingMoe](https://everythingmoe.com/?nsfw=true#section-hentai)**, [2](https://everythingmoe.org/?nsfw=true#section-hentai)  - Hentai Sites Index
 * 🌐 **[/cumg/](https://rentry.co/coom)** - Hentai Resources
 * ⭐ **[Nyaa Sukebei](https://sukebei.nyaa.si/)** - Hentai Torrents
 * ⭐ **[Anime-Sharing](https://www.anime-sharing.com/#downloads-requests)** - Hentai DDL
@@ -376,7 +376,7 @@
 ## ▷ Hentai Manga / Comics
 
 * 🌐 **[Wotaku](https://wotaku.wiki/nsfw#manga)** - Hentai Manga Index / [Discord](https://discord.gg/vShRGx8ZBC)
-* 🌐 **[EverythingMoe](https://everythingmoe.com/?nsfw=true#section-hentairead)** - Hentai Manga / Comics Index
+* 🌐 **[EverythingMoe](https://everythingmoe.com/?nsfw=true#section-hentairead)**, [2](https://everythingmoe.org/?nsfw=true#section-hentairead) - Hentai Manga / Comics Index
 * 🌐 **[Wholesome Hentai](https://wholesomelist.com/)** - Wholesome Manga Index
 * ⭐ **[E-Hentai](https://e-hentai.org/)** or [ExHentai](https://exhentai.org/) - Hentai Manga / Comics
 * ⭐ **E-Hentai Tools** - [Android Client](https://github.com/honjow/FEhViewer) / [Deleted Galleries](https://panda.chaika.moe/) / [Downloader](https://gitlab.com/squishydreams/pandaforever), [2](https://github.com/ccloli/E-Hentai-Downloader)
@@ -467,7 +467,7 @@
 ## ▷ Games
 
 * 🌐 **[Wotaku](https://wotaku.wiki/nsfw#games)** - Eroge Index / [Discord](https://discord.gg/vShRGx8ZBC)
-* 🌐 **[EverythingMoe](https://everythingmoe.com/?nsfw=true#section-games)** - Hentai Games Index
+* 🌐 **[EverythingMoe](https://everythingmoe.com/?nsfw=true#section-games)**, [2](https://everythingmoe.org/?nsfw=true#section-games) - Hentai Games Index
 * ⭐ **[F95Zone](https://f95zone.to/)**
 * ⭐ **[Nyaa Sukebei](https://sukebei.nyaa.si/)**
 * ⭐ **[Anime-Sharing](https://www.anime-sharing.com/#downloads-requests)** - Hentai Games DDL

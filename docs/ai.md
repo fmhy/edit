@@ -281,6 +281,7 @@
 * [ComfyUI Web](https://comfyuiweb.com/) or [RunComfy](https://www.runcomfy.com/comfyui-web) / Unlimited
 * [Recraft](https://www.recraft.ai/) / Unlimited
 * [PicSynth](https://www.picsynth.me/generation) / Unlimited
+* [Piclumen](https://piclumen.com/) / Unlimited
 * [OIChat](https://chat.oaichat.cc/) / Unlimited
 * [ImageLabs](https://editor.imagelabs.net/) / Unlimited
 * [Pollinations](https://pollinations.ai/) / Unlimited / [Discord](https://discord.com/invite/8HqSRhJVxn)

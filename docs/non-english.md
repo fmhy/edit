@@ -329,7 +329,6 @@
 * [BonPatron](https://bonpatron.com/) - Spelling and Grammar Check
 * [GoTo10](https://www.goto10.fr/) - BBS and Minitel Archives
 * [DropReference](https://dropreference.com/) - PC Building Site
-* [TrustScam](https://trustscam.fr/) - Website Security Analysis
 * [Wikiwix Archive](https://archive.wikiwix.com/) - Web Archive Site
 * [nuit-blanche](https://nuit-blanche.ch/) - Drug Detox Help
 * [Remonterletemps](https://remonterletemps.ign.fr) - France Geographic / Forestry Info and Maps
@@ -403,7 +402,6 @@
 * [xrel](https://www.xrel.to/) - Scene Release / P2P Tracker
 * [Boerse](https://boerse.am/) - German Data Sharing Discussion Forum
 * [animexx](https://www.animexx.de/) - German Anime Community
-* [TrustScam](https://trustscam.de/) - Website Security Analysis
 * [Metager](https://metager.de/) - Search Engine
 * [WiiDatabase](https://wiidatabase.de/) - Nintendo Homebrew
 * [F-Online](https://app.f-online.at/) - Austrian Driving License Learning App
@@ -606,7 +604,6 @@
 * [cinemakick](https://www.cinemakick.com/) - Movies / TV / Dub / 720p
 * [IndianCine](https://indiancine.ma/) - Indian Short / Classic Movies
 * [mxplayer](https://www.mxplayer.in) - Movies
-* [Animerulz](https://animerulz.pro/) - Anime
 * [DesiTellyBox](https://www.desitellybox.me/) - South Asian TV / Dub / 720p
 * [Bollyfunserial](https://freewatchserialonline.com/) - South Asian TV / Dub / 720p
 * [PakBcn](http://www.pakbcn.one/) - South Asian TV / Live / Dub / 720p
@@ -815,7 +812,7 @@
 
 * [OnDemandKorean](https://www.ondemandkorea.com/) - Korean Movies / TV / 720p
 * [AQ Stream](https://aqstream.com/) - Live TV / [Discord](https://discord.com/invite/dVhgAgwxHE)
-* [naver](https://chzzk.naver.com/) - Live Streams
+* [Chzzk](https://chzzk.naver.com/) - Live Streams
 * [Lesics](https://youtube.com/@Sabinz) - Engineering Courses
 
 ## ▷ Reading

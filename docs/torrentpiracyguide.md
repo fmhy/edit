@@ -165,7 +165,7 @@
 
 # ► Tracker Invites
 
-* 🌐 **[Private Trackers General](https://rentry.co/private-trackers)** or [Private Trackers Guide](https://wiki.installgentoo.com/wiki/Private_trackers) - Private Tracker Guides
+* 🌐 **[Private Trackers General](https://rentry.co/private-trackers)** - Private Tracker Guides
 * 🌐 **[Scene Related](https://opentrackers.org/links/warez-scene/#scenerelated)** - Warez / Scene Site Index
 * ⭐ **[The Sheet](https://inviteroute.github.io/sheet/)** or [Graph](https://inviteroute.github.io/graph/) - Private Tracker Guides
 * ⭐ **[TrackerStatus](https://trackerstatus.info/)** - Tracker Status Updates

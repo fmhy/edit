@@ -64,7 +64,6 @@
 
 * ⭐ **[OneHack](https://onehack.us/)** - Giveaway Community / [Telegram](https://t.me/Official_OneHack)
 * ⭐ **[Free Packages](https://steamdb.info/freepackages/)** - Mass Activate All Free Steam Games / [Guide](https://youtu.be/svbdw-pYNT8)
-* ⭐ **[Unlimited Trials](https://rentry.co/unlimited-trials)** - Unlimited Free Trials Guide
 * ⭐ **[IsThereAnyDeal](https://isthereanydeal.com/giveaways/)** - Games
 * [Free Games Claimer](https://github.com/vogler/free-games-claimer) - Auto-Claim Free Epic, Amazon, and GOG Games
 * [epicgames-freegames-node](https://github.com/claabs/epicgames-freegames-node) - Auto-Claim Free Epic Games
@@ -702,11 +701,13 @@
 * [resumonk](https://www.resumonk.com/)
 * [creddle](http://creddle.io/)
 * [Resuminator](https://www.resuminator.in/)
+* [Sclof](https://sclof.com/)
 * [flowcv](https://flowcv.com/)
 * [cvservant](https://cvservant.com/cv/)
 * [Resumake](https://github.com/saadq/resumake)
 * [resume-nation](https://resume-nation.github.io/)
 * [sajilocv](https://sajilocv.com/)
+* [RenderCV](https://rendercv.com/) / [GitHub](https://github.com/sinaatalay/rendercv)
 * [GotResumeBuilder](https://www.gotresumebuilder.com/)
 * [Resume.com](https://www.resume.com/)
 * [CvResumeNest](https://cvresumenest.com/)
@@ -719,7 +720,6 @@
 * [open-resume](https://www.open-resume.com/)
 * [novoresume](https://novoresume.com/)
 * [ResumeFromSpace](https://resumefromspace.com/)
-* [RenderCV](https://rendercv.com/)
 
 ***
 
