@@ -419,7 +419,6 @@
 * ⭐ **[Audio Torrent CSE](https://cse.google.com/cse?cx=006516753008110874046:v75cyb4ci55)** - Multi-Site Search
 * [DimeADozen](http://www.dimeadozen.org/) - MP3 / FLAC
 * [TheTradersDen](http://www.thetradersden.org/) - FLAC
-* [SolidTorrents](https://solidtorrents.to/) - MP3 / FLAC
 * [TPB Music](https://thepiratebay.org/search.php?q=top100:100) - MP3 / FLAC / **Avoid Software / Games**
 * [HQMusic](http://hqmusic.info/) - FLAC / Signup Required
 * [TheMixingBowl](https://themixingbowl.org/) - MP3 / Signup Required
