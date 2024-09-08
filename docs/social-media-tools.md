@@ -34,6 +34,7 @@
 * [DiscordFS](https://github.com/dhrumilp15/haystackfs) - Discord File Search
 * [Discord Downloader Go](https://github.com/get-got/discord-downloader-go) - Discord File Downloader
 * [Toolscord](https://toolscord.com/) or [Discord Avatar](https://discord-avatar.com/) - Download Discord Avatars
+* [Discord Pfp Viewer](https://pfpfinder.com/tools/discord-pfp-downloader) - Download, or View [Discord PFPs](https://pfpfinder.com/tools/discord-pfp-downloader)
 * [Disbox](https://disboxapp.github.io/web/) - Discord Cloud Storage
 * [Discord Chat Exporter](https://github.com/Tyrrrz/DiscordChatExporter) / [Python](https://github.com/mahtoid/DiscordChatExporterPy) or [Discord History Tracker](https://dht.chylex.com/) / [GitHub](https://github.com/chylex/Discord-History-Tracker) - Archive / Export Discord Chats
 * [Dumpus](https://dumpus.app/) - Discord Data Package Explorer
