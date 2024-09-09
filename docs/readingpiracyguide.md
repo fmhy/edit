@@ -586,7 +586,6 @@
 * [Textbook Search Engine](https://cse.google.com/cse/publicurl?cx=011394183039475424659:5bfyqg89ers), [2](https://cse.google.com/cse?cx=001639227550064093264:dznewka3cca) - Search for Textbooks
 * [Open Textbook Library](https://open.umn.edu/opentextbooks/) - Textbooks
 * [TextBookGo](http://textbookgo.com/) - TextBooks
-* [Saylor](https://www.saylor.org/books/) - Textbooks
 * [Wikibooks](https://en.wikibooks.org/) - Open-Content Texbooks
 * [2012books](https://2012books.lardbucket.org/) - Creative Commons Books
 * [Pearson](https://redd.it/smm6ib) - Pearson Textbook Download Guide
