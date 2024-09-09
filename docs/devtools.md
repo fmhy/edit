@@ -400,6 +400,7 @@
 * [Mockable](https://www.mockable.io/), [Mocky](https://designer.mocky.io/) or [MockLab](https://www.wiremock.io/) - Mock APIs
 * [Mockae](https://mockae.com/) - Mock APIs with Lua Execution
 * [{JSON} Placeholder](https://jsonplaceholder.typicode.com/) - Fake APIs
+* [JSONing](https://jsoning.com/api/) - Mock APIs
 * [InstantAPIs](https://github.com/csharpfritz/InstantAPIs) - API Endpoint Generator
 * [Stein](https://steinhq.com/) - Turn Google Sheets into Database API
 * [Lanyard](https://github.com/Phineas/lanyard) - Export Discord Rich Presence to API Endpoint / Websocket / [Discord](https://discord.gg/lanyard)
