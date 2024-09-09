@@ -1087,6 +1087,9 @@
 * [Baixe Livros](https://www.baixelivros.com.br) - Books
 * [eBooksBrasil](https://ebooksbrasil.org) - Books
 * [Online Cursos Gatuitos](https://onlinecursosgratuitos.com) - Books
+* [Elivros](https://elivros.love/) - Books
+* [Dlivros](https://dlivros.com/) - Books
+* [Doceru](https://doceru.com/) - Books
 * [Cultura Acadêmica](https://www.culturaacademica.com.br) - Educational Books
 * [Toomics](https://global.toomics.com/br) - Comics
 * [Arte HQs](http://www.artehqs.com.br) - Comics
