@@ -1573,11 +1573,8 @@
 ***
 
 # ► Turkish / Türkçe
-
-* [Playstation Haber](https://playstationhaber.com/) - PlayStation Piracy Forum
-* [MCpsp](https://www.mcpsp.com) - PlayStation Piracy Forum
-* [En ucuz oyun](https://www.enucuzoyun.com) - Price Tracker
-* [Teyit](https://teyit.org) - News Confirmation
+* [dr-norton's list](https://github.com/dr-norton/ublacklist-tr), [caglaryalcin's list](https://github.com/caglaryalcin/ublacklist/) - block garbage news results
+* [Playstation Haber](https://playstationhaber.com/) / [MCpsp](https://www.mcpsp.com) - PlayStation Piracy Forums
 
 ## ▷ Downloading / İndirme
 
@@ -1586,11 +1583,11 @@
 
 ## ▷ Streaming / İzleme
 
-* ⭐ [Yabancıdizi](https://yabancidizi.tv) - Movies / TV / Sub / Dub / 1080p
+* ⭐ [Yabancıdizi](https://yabancidizi.tv), [2](https://yabancidizi.pro) - Movies / TV / Sub / Dub / 1080p
 * ⭐ [Dizipal](https://dizipal811.com/), [2](https://dizipal787.com/) - Movies / TV / Sub / Dub / 1080p
-* ⭐ [Hdfilmcehennemi](https://www.hdfilmcehennemi.com/) - Movies / TV / Sub / Dub / 1080p
-* ⭐ [FullHDFilmizlesene](https://www.fullhdfilmizlesene.com) - Movies / Dub / Sub / 4K / 1080p
-* [İnat TV](https://inattv110.link/) / [Twitter](https://twitter.com/inattvapk) - App / Movies / TV / Sports
+* ⭐ [Hdfilmcehennemi](https://www.hdfilmcehennemi.sh/), [2](https://www.hdfilmcehennemi.com/) - Movies / TV / Sub / Dub / 1080p
+* ⭐ [FullHDFilmizlesene](https://www.fullhdfilmizlesene.de/), [2](https://www.fullhdfilmizlesene.com) - Movies / Dub / Sub / 4K / 1080p
+* [İnat TV](https://inattv120.link/) / [Twitter](https://twitter.com/inattvapk) / [Telegram](https://t.me/s/inattvlinks) - App / Movies / TV / Sports
 * [Dizibox](https://www.dizibox.com) - TV / Sub / 1080p
 * [Diziwatch](https://diziwatch.net/) - TV / Anime / Sub / 1080p
 * [Diziyou](https://www.diziyou.co/) - TV / Sub / Dub / 1080p
@@ -1602,12 +1599,11 @@
 
 ## ▷ Reading / Okuma
 
-* [Booksfer](https://booksfer.com) - Books
+* [Booksfer](https://booksfer.net) - Books
 * [Telegram Groups](https://t.me/addlist/XeOr3go8Q2MwZTNk), [Kütüphanem Yeniden](https://t.me/davetbotu5_bot) or [Kitap Botu](https://t.me/Arakitappbot) / [2](https://t.me/KKCI_BOT) - Books
 * [Küflü e-kitap](https://www.kuflu.com/forums/e-kitap.58), [Küflü manga](https://www.kuflu.com/forums/anime-ve-manga.28) - Books / Magazines
 * [Udemy Bot](https://t.me/birikursbotumudedibot) - Udemy
 * [Manga Denizi](https://www.mangadenizi.net/) / [Discord](https://discord.com/invite/8zBMSGZ), [Manga TR](https://manga-tr.com/), [Manga Ay](https://manga-ay.com/), [Mavi Manga](https://mavimanga.com/), [Trwebtoon](https://trwebtoon.com/), [Nirvana Manga](https://nirvanamanga.com/), [Raindrop](https://www.raindropteamfan.com/), [Seri Manga](https://serimangas.com/), [Glory Manga](https://glorymanga.com/) - Manga
-
 ***
 
 # ► Ukrainian / українська
