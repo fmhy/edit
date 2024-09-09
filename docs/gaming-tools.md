@@ -487,8 +487,8 @@
 * ⭐ **[Minecraft Brewing Cheatsheet](https://minecraft.wiki/images/Minecraft_brewing_en.png)**
 * [MCPEDL](https://mcpedl.com/) - Resources for Bedrock & PE
 * [DigiMinecraft](https://www.digminecraft.com/) - Minecraft Guides
-* [ViveCraft](https://www.vivecraft.org/) - VR Minecraft
-* [Skyclient](https://skyclient.co/) - Hypixel Asset Installer
+* [ViveCraft](https://www.vivecraft.org/) - VR Minecraft / [Discord](https://discord.com/invite/2x3QCk8qa9)
+* [SkyClient](https://skyclient.co/) - Hypixel Asset Installer / [Github](https://github.com/SkyblockClient) / [Discord](https://discord.com/invite/QUGZgxb7CM)
 * [SkyCrypt](https://sky.shiiyu.moe/) - SkyBlock Stats
 * [MC Icons](https://mcicons.pages.dev/) - Minecraft Icon Search / [Github](https://github.com/kuronekony4n/mcicons)
 * [Pixelart Builder](https://play.google.com/store/apps/details?id=com.electricfoal.photocrafter&hl=en&gl=US) or [PixelStacker](https://taylorlove.info/pixelstacker/) - Turn Photos into Minecraft Art
