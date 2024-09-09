@@ -517,7 +517,7 @@
 * [DriveBackupV2](https://modrinth.com/plugin/drivebackupv2) - Server Plugin to Create Cloud Backups of Worlds
 * [Pufferfish](https://github.com/pufferfish-gg/Pufferfish), [Purpur](https://purpurmc.org/) / [Discord](https://purpurmc.org/discord) or [Paper](https://papermc.io/software/paper) - Performance Enhancement Servers
 * [GeyserMC](https://geysermc.org/) - Join Minecraft Java Servers with Bedrock Client / [Consoles](https://wiki.geysermc.org/geyser/using-geyser-with-consoles/)
-* [ViaVersion](https://viaversion.com/) - Minecraft Multi-version Server Support
+* [ViaVersion](https://viaversion.com/) - Minecraft Multi-Version Server Support
 * [Minecraft Server Scanner](https://github.com/Footsiefat/Minecraft-Server-Scanner) - Minecraft Server Info
 * [Minecraft Server Checker](https://moistcatawumpus.github.io/minecraft-server-checker/) - Simple Server Checker
 * [mcsrvstat](https://mcsrvstat.us/) - Server Status Updates
