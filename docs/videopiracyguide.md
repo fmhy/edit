@@ -144,12 +144,11 @@
 * [AnimeZ](https://animez.org/) - Sub / 1080p
 * [AnimeHub](https://animehub.ac/) - Sub / Dub / 1080p
 * [Animixplay](https://animixplay.name/), [2](https://animixplay.fun/) - Sub / Dub / 1080p
-* [Animixplay.tube](https://animixplay.tube), [2](https://animesuge.be/home) - Sub / Dub / 1080p
+* [Animixplay.tube](https://animixplay.tube), [2](https://animesuge.be/) - Sub / Dub / 1080p
 * [AnimeOwl](https://animeowl.live/) - Sub / Dub / 1080p / [Discord](https://discord.com/invite/xHYcvdMvZ2)
 * [123Anime](https://123animes.ru/) - Sub / Dub / 1080p
 * [Anipulse](https://www.anipulse.to/) - Sub / Dub / 1080p / [Discord](https://discord.gg/KKuCUgSHVs)
 * [AnimeHeaven](https://animeheaven.me/) - Sub / 1080p / [Discord](https://discord.com/invite/QmgSMYD)
-* [AnimeSuge](https://animesuge.be/) - Sub / Dub / 1080p
 * [AnimeNana](https://animenana.com/) - Sub / 1080p
 * [Animegg](https://www.animegg.org/) - Sub / Dub / 1080p
 * [Anify](https://anify.to/) - Sub / Dub / 1080p / [Discord](https://discord.com/invite/79GgUXYwey) 
