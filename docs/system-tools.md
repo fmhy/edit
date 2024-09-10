@@ -339,10 +339,10 @@
 
 * ⭐ **[Clean Install Windows](https://gravesoft.dev/clean_install_windows)** or [Clean Install](https://rentry.co/Clean_Install) - Windows Clean Installation Guides
 * ⭐ **[MAS](https://massgrave.dev/#Method_1_-_PowerShell)** - Windows Activation Scripts / [GitHub](https://github.com/massgravel/Microsoft-Activation-Scripts/) / [Discord](https://discord.gg/gjJEfq7ux8)
-* [OS.click](https://os.click/en), [MyDigitalLife](https://forums.mydigitallife.net/) or [Microsoft SD](https://www.microsoft.com/en-us/software-download/) - Windows ISOs
+* [OS.click](https://os.click/en), [MyDigitalLife](https://forums.mydigitallife.net/), [files.rg-adguard](https://files.rg-adguard.net/) or [Microsoft SD](https://www.microsoft.com/en-us/software-download/) - Windows ISOs
 * [Old School OS](https://www.oldschoolos.com/), [OS Vault](https://osvault.weebly.com/directory.html), [VETUSWARE](https://vetusware.com/) or [WinWorldPC](https://winworldpc.com/) - Oldschool ISOs
 * [Fido](https://github.com/pbatard/Fido) - ISO Powershell Script
-* [MSDN Files](https://files.rg-adguard.net/) or [MVS dump](https://awuctl.github.io/mvs/) - Verify ISO Legitimacy
+* [MVS dump](https://awuctl.github.io/mvs/) - Verify ISO Legitimacy
 * [CoolStar](https://coolstar.org/chromebook/windows-install.html) - Install Windows on Chromebook
 
 ***
