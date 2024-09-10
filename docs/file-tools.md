@@ -26,7 +26,7 @@
 * [Attribute Changer](https://www.petges.lu/) - Edit File & Folder Properties
 * [TagSpaces](https://www.tagspaces.org/) - Add Tags to Files and Folders
 * [SKTimeStamp](https://tools.stefankueng.com/SKTimeStamp.html) - Change File Created / Modified Time
-* [Corrupt My File](https://www.corruptmyfile.com/) or [Corrupt-A-File](https://corrupt-a-file.net/) - Intentionally Corrupt your Files
+* [Corrupt My File](https://www.corruptmyfile.com/) or [Corrupt-A-File](https://corrupt-a-file.net/) - Intentionally Corrupt Your Files
 * [ExtractMetadata](https://www.extractmetadata.com/) or [Metadata2Go](https://www.metadata2go.com/) - Metadata Viewers / Editors
 * [lessmsi](https://lessmsi.activescott.com/) - .msi Content Extractor / [GitHub](https://github.com/activescott/lessmsi)
 * [ProperTree](https://github.com/corpnewt/ProperTree) - GUI Plist Editor
@@ -112,7 +112,7 @@
 * [Directory Opus](https://rentry.co/FMHYBase64#directory-opus) - Windows File Manager
 * [Xplorer](https://xplorer.space/) / [GitHub](https://github.com/kimlimjustin/xplorer) / [Discord](https://discord.com/invite/MHGtSWvfUS), [DoubleCMD](https://github.com/doublecmd/doublecmd) or [muCommander](https://www.mucommander.com/) - Cross Platform File Explorers
 * [Sigma](https://sigma-file-manager.vercel.app) - Modern File Manager for Windows / Linux / [GitHub](https://github.com/aleksey-hoffman/sigma-file-manager)
-* [ChromaFiler](https://chroma.zone/chromafiler/) - Column-based Windows File Manager
+* [ChromaFiler](https://chroma.zone/chromafiler/) - Column-Based Windows File Manager
 * [WinFile](https://github.com/microsoft/winfile) - Original Windows File Explorer
 * [Yazi](https://yazi-rs.github.io/) - Terminal File Explorer / [Plugins](https://github.com/sachinsenal0x64/awesome-yazi) / [GitHub](https://github.com/sxyazi/yazi)
 * [One Commander](https://www.onecommander.com/) - File Explorer
@@ -127,7 +127,7 @@
 * [Organize](http://organize.readthedocs.io) - Automated File Manager
 * [TrayDir](https://github.com/SamuelSVD/TrayDir) - System Tray File Manager
 * [TablacusExplorer](https://tablacus.github.io/explorer_en.html), [QTTabBar](https://github.com/indiff/qttabbar), [Multi Commander](https://multicommander.com/) or [ExplorerEx](https://github.com/DearVa/ExplorerEx) - Tab File Managers
-* [Vifm](https://vifm.info/) - Vim-based File Manager
+* [Vifm](https://vifm.info/) - Vim-Based File Manager
 * [WinSetView](https://github.com/LesFerch/WinSetView) - Globally Set Explorer Folder Views
 
 ***
@@ -146,11 +146,11 @@
 
 ## ▷ File Encryption
 
-* ⭐ **[VeraCrypt](https://www.veracrypt.fr/en/Home.html)** -  Disk Encrypter 
+* ⭐ **[VeraCrypt](https://www.veracrypt.fr/en/Home.html)** - Disk Encrypter 
 * ⭐ **[age](https://github.com/FiloSottile/age)** - File Encrypter
 * [Picocrypt](https://github.com/Picocrypt/Picocrypt) - Lightweight File Encrypter 
 * [Hat](https://hat.sh/) - Browser-Based Encrypter 
-* [Kryptor](https://www.kryptor.co.uk/) -  File Encrypter
+* [Kryptor](https://www.kryptor.co.uk/) - File Encrypter
 
 ***
 
@@ -243,7 +243,7 @@
 
 * ↪️ **[Video File Hosts](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video-tools#wiki_.25B7_video_file_hosts)**
 * ⭐ **[Gofile](https://gofile.io/)** - Unlimited / 10 Days
-* ⭐ **[1fichier.com](https://1fichier.com/)** - 300GB / 15 Days (30 Days With Account)
+* ⭐ **[1fichier.com](https://1fichier.com/)** - 300GB / 15 Days (30 Days with Account)
 * ⭐ **[Send.cm](https://send.cm/)** - 100GB / 15 Days
 * ⭐ **[Pillowcase](https://pillowcase.su/)** - Audio File Host / 200MB (500MB with Account) / Forever
 * ⭐ **[Catbox](https://catbox.moe/)** - 200MB / Forever
@@ -261,14 +261,14 @@
 * [SwissTransfer](https://www.swisstransfer.com/) - 50GB / 30 Days / 250 Downloads
 * [BowFile](https://bowfile.com/) - 20GB / 20 Days
 * [Hexupload](https://www.hexupload.net/) or [AnonTransfer](https://anontransfer.com/) - 15GB / 30 Days
-* [FileLu](https://filelu.com/) - 15GB / 1 Day (Unlimited With Account) / [Note](https://pastebin.com/Rr9ZqD2F)
-* [Fastupload.io](https://fastupload.io/en) - 10GB / 30 Days (60 Days With Account)
+* [FileLu](https://filelu.com/) - 15GB / 1 Day (Unlimited with Account) / [Note](https://pastebin.com/Rr9ZqD2F)
+* [Fastupload.io](https://fastupload.io/en) - 10GB / 30 Days (60 Days with Account)
 * [eDisk](https://www.edisk.cz/) or [Easyupload.io](https://easyupload.io/) - 10GB / 30 Days
 * [Drop Download](https://drop.download/) - 10GB / 30 Days / Account Required
-* [DesiUpload](https://desiupload.co/) - 10GB / 15 Days (15GB / 30 Days With Account)
+* [DesiUpload](https://desiupload.co/) - 10GB / 15 Days (15GB / 30 Days with Account)
 * [GrosFichiers](https://www.grosfichiers.com/) - 10GB / 14 Days
 * [Fshare](https://www.fshare.vn/) - 10GB / 5 Days
-* [Uploadraja.com](https://uploadraja.com/) - 10GB / 4 Days (30GB / 15 Days With Account)
+* [Uploadraja.com](https://uploadraja.com/) - 10GB / 4 Days (30GB / 15 Days with Account)
 * [FileTransfer.io](https://filetransfer.io/) - 6GB / 21 Days / 50 Downloads
 * [Tempfile](https://tempfile.me/) - 10GB / 90 Days
 * [FileDitch](https://fileditch.com/), [Oshi](https://oshi.at/) or [SendGB](https://www.sendgb.com/) - 5GB / 90 Days
@@ -284,7 +284,7 @@
 * [FireLoad](https://www.fireload.com/) - 2GB / 60 Days / Account Required
 * [Lufi](https://upload.disroot.org/) - 2GB / 30 Days
 * [DooDrive](https://doodrive.com/) - 2GB / 30 Days / Account Required
-* [Clicknupload](https://clicknupload.co/) - 2GB / 8 Days (10GB / 25 Days With Account)
+* [Clicknupload](https://clicknupload.co/) - 2GB / 8 Days (10GB / 25 Days with Account)
 * [WeTransfer](https://wetransfer.com/) - 2GB / 7 Days
 * [Smash](https://fromsmash.com/) - 2GB / 7 Days / Email Required
 * [Limited Upload Hosts](https://rentry.org/xc48kg) - More Hosts / 1GB or Below
@@ -404,7 +404,7 @@
 * [gdrivedl](https://github.com/matthuisman/gdrivedl) - Google Drive Python Download Script
 * [ISAAC](https://rentry.co/FMHYBase64#gservice-gen) - Google Service Account Generators
 * [goindex-extended](https://github.com/menukaonline/goindex-extended) / [Themes](https://install.kenci.workers.dev/) or [Google-Drive-Index](https://gitlab.com/GoogleDriveIndex/Google-Drive-Index) - Google Drive Indexers
-* [gdurl](https://gdurl.com/), [google-drive-direct-link-generator/](https://www.wonderplugin.com/online-tools/google-drive-direct-link-generator/),[Direct.GDrive](https://direct.gdrive.vip/en/), [Maulvi](https://maulvi.github.io/) or [GDriveWebAppPublic ](https://github.com/CloudflareHackers/GDriveWebAppPublic) - Host Direct Links on GDrive
+* [gdurl](https://gdurl.com/), [google-drive-direct-link-generator/](https://www.wonderplugin.com/online-tools/google-drive-direct-link-generator/), [Direct.GDrive](https://direct.gdrive.vip/en/), [Maulvi](https://maulvi.github.io/) or [GDriveWebAppPublic ](https://github.com/CloudflareHackers/GDriveWebAppPublic) - Host Direct Links on GDrive
 * [GdriveCloneWeb](https://github.com/jsmsj/GdriveCloneWeb) or [Google Drive Clone Bot](https://jsmsj.github.io/GdriveCloneBot/) / [GitHub](https://github.com/jsmsj/GdriveCloneBot) - Copy Google Drives
 * [GD-EFC Link Encryptor](https://rekulous.github.io/gd-efc-encryptor/) - Google Drive Link Encryptor for GD-EFC
 * [gd-efc](https://anadius.github.io/gd-efc/) - Copy Encrypted Google Drive
