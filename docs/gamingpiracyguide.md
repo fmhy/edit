@@ -46,7 +46,7 @@
 * [Locomalito](https://locomalito.com/) - Classic Game Remakes
 * [Necromanthus](https://necromanthus.com/) - 3D Shockwave Games
 * [LemmaSoft](https://lemmasoft.renai.us/) - Visual Novel Games / [Discord](https://discord.gg/6ckxWYm)
-* [VGPErson](https://vgperson.com/games/) - Simple Japanese Games
+* [vgperson](https://vgperson.com/games/) - Simple Japanese Games
 * [SAGE](https://sagexpo.org/) - Sonic Fan Games / [Discord](https://discord.sonicfangameshq.com/)
 * [Clone Hero](https://clonehero.net/) - Guitar Hero Clone / [Setlists](https://rentry.co/FMHYBase64#setlists), [2](https://customsongscentral.com/), [3](https://rentry.co/FMHYBase64#frif-drive) / [Wii Controller Support](https://github.com/Meowmaritus/WiitarThing) / [Custom Client](https://clonehero.scorespy.online)
 * [DoujinStyle](https://doujinstyle.com) - Doujin Games / [Discord](https://discord.com/invite/z2QDFdA)
@@ -74,7 +74,7 @@
 * [DigitalZone](https://digitalzone.vercel.app/), [2](https://god0654.github.io/DigitalZone/) - Download / Portable Repacks / [Discord](https://discord.gg/F7juJ4RryJ)
 * [Elamigos](https://elamigos.site/) - Download
 * [Tiny-Repacks](https://www.tiny-repacks.win) - Torrent
-* [DODI Repacks](https://dodi-repacks.site/) - Torrent / [Opera Bypass](https://rentry.co/lootlink) / [Warning](https://pastebin.com/n5xS3v6k)
+* [DODI Repacks](https://dodi-repacks.site/) - Torrent / [Opera Bypass](https://rentry.co/lootlink) / [Warning](https://pastebin.com/n5xS3v6k) / [Discord](https://discord.gg/D9WU7C9FSE)
 * [FreeGOGPCGames](https://freegogpcgames.com/) - GOG Games Torrent Uploads / [Hash Note](https://pastebin.com/pNMj3nay), [2](https://i.ibb.co/XbF2dv1/image.png)
 * [Magipack](https://www.magipack.games), [CollectionChamber](https://collectionchamber.blogspot.com/) or [ClassicPCGames](https://archive.org/details/classicpcgames) - Retro PC Games
 * [~archive](https://websites.umich.edu/~archive/) - Retro PC / Mac Games
@@ -118,7 +118,7 @@
 * [ECWolf](https://maniacsvault.net/ecwolf/) - Wolfenstein 3D, Spear of Destiny & Super 3D Noah's Ark Port
 * [IOQuake3](https://ioquake3.org/) - Quake 3 Source Port / [GitHub](https://github.com/ioquake/ioq3)
 * [YQuake2](https://www.yamagi.org/quake2/) - Quake 2 Source Port / [GitHub](https://github.com/yquake2/yquake2)
-* [Xonotic](https://xonotic.org/) - Open-source Modified Quake Engine FPS
+* [Xonotic](https://xonotic.org/) - Open-Source Modified Quake Engine FPS
 * [Silent Hill 2: Enhanced Edition](https://enhanced.townofsilenthill.com/SH2/) - Silent Hill 2 Mod Project
 * [SRB2](https://www.srb2.org/) - Open-Source Sonic Fan Game / [GitLab](https://git.do.srb2.org/STJr/SRB2)
 * [SRB2Kart](https://mb.srb2.org/threads/srb2kart.25868/) / [GitHub](https://github.com/STJr/Kart-Public) or [RingRacers](https://github.com/KartKrewDev/RingRacers) - Open-Source Sonic Kart Games
@@ -280,7 +280,7 @@
 * [3DS ROMS](https://3dsroms.org), [taodung](https://taodung.com/) or [hShop](https://hshop.erista.me/) - ROMs / 3DS
 * [NoPayStation](https://nopaystation.com/) - ROMs / Playstation Consoles
 * [SuperPSX](https://www.superpsx.com/) - ROMs / PS3 / PS4
-* [PKGPS4](https://www.pkgps4.click/) or [Hopmarks](https://www.hopmarks.com/) (torrent) - ROMs / PS4
+* [PKGPS4](https://www.pkgps4.click/) or [Hopmarks](https://www.hopmarks.com/) (Torrent) - ROMs / PS4
 * [/r/PkgLinks1](https://www.reddit.com/r/PkgLinks1/) - PS1 / PS2 Games for Modded PS4
 * [PSVitaVPK](https://psvitavpk.com/) - ROMs / PSP
 * [xbarchive](https://github.com/codemasterv/xbarchive) - ROMs / Xbox Consoles
@@ -290,7 +290,7 @@
 * [Newer Team](https://newerteam.com/) - Newer Super Mario Bros. DS / Wii
 * [SMWCentral](https://smwcentral.net/) - Hacked Super Mario World ROMs
 * [Wario Land Hack Vault](https://wario-land.github.io/HackVault/index.html) - Hacked Wario Land ROMs
-* [Pokemerald](https://pokemerald.com/) or [PokemonXenoverse](https://pokemonxenoverse.com/) - Pokemon ROM Hacks
+* [Pokemerald](https://pokemerald.com/) or [PokemonXenoverse](https://pokemonxenoverse.com/) - Pokémon ROM Hacks
 * [PICOwesome](https://rentry.co/FMHYBase64#picowesome) - PICO-8 ROMs
 * [POP Unofficial Website](https://popuw.com/) - Prince of Persia ROMs / Mods
 * [Ship of Harkinian](https://www.shipofharkinian.com/) - Ocarina of Time PC Port / [Discord](https://discord.com/invite/shipofharkinian) / [GitHub](https://github.com/HarbourMasters/Shipwright)
@@ -428,7 +428,7 @@
 * [FlashMuseum](https://flashmuseum.org/), [Flash Arch](https://flasharch.com/en) or [AlbinoBlackSheep](https://www.albinoblacksheep.com/games/) - Flash Games
 * [Arcade Prehacks](https://www.arcadeprehacks.com/), [SamsHackedGames](https://www.samshackedgames.com/) or [KongHack](https://konghack.com/) - Flash Game Hacks
 * [Js13kGames](https://js13kgames.com/entries), [HTML5 Games](https://html5games.com/) or [TheBestarcade](https://html5.thebestarcadescript.com/) - HTML5 Games
-* [iogames.space](https://iogames.space/), [itch.io](https://graebor.itch.io/), [Kindanice](https://kindanice.itch.io/), [Jezzamon](https://jezzamon.itch.io/), [Modd.io](https://www.modd.io/) or [Kevin Games](https://kevin.games/)- .io Games
+* [iogames.space](https://iogames.space/), [itch.io](https://graebor.itch.io/), [Kindanice](https://kindanice.itch.io/), [Jezzamon](https://jezzamon.itch.io/), [Modd.io](https://www.modd.io/) or [Kevin Games](https://kevin.games/) - .io Games
 
 ***
 
@@ -549,7 +549,7 @@
 * [Blackjack Break](https://blackjackbreak.com/) or [HTML5 Blackjack](https://www.html5blackjack.net/) - Browser Blackjack
 * [Poker Now](https://www.pokernow.club/) or [247 Free Poker](https://www.247freepoker.com/) - Multiplayer Poker
 * [KDice](https://www.kdice.com/) - Multiplayer Dice War
-* [Colonist](https://colonist.io/) - Multiplayer "Settlers of Catan" 
+* [Colonist](https://colonist.io/) - Multiplayer Settlers of Catan
 * [Hexxagon](https://hexxagon.com/) - Hexagonal Board Game
 * [The Bafflement Fires](https://www.dpoetry.com/fires/) - 1950's Freemasonic Board Game
 * [Scorecard.gg](https://scorecard.gg/) - Board Game Scorecards
@@ -570,7 +570,7 @@
 * [Neptune's Pride](https://np4.ironhelmet.com/) - Space Strategy game
 * [generals.io](https://generals.io/) - War Strategy Game
 * [Chesses](https://pippinbarr.com/chesses/) or [Omnichess](https://omnichess.club/) - Multiple Styles of Chess
-* [The Kilobyte’s Gambit](https://vole.wtf/kilobytes-gambit/) - 1k Chess Game
+* [The Kilobyte's Gambit](https://vole.wtf/kilobytes-gambit/) - 1k Chess Game
 * [Kung Fu Chess](https://www.kfchess.com/) - Real-Time Chess without Turns
 * [PokemonChess](https://pokemonchess.com/) - Pokémon Style Chess / [Discord](https://discord.gg/fp5bcCqg8q)
 * [Laser](https://playlaser.xyz/) - Alt Style Chess
@@ -581,7 +581,7 @@
 
 ## ▷ Puzzle Games
 
-* ⭐ **[Rubik’s Cube Explorer](https://iamthecu.be/)**, [Grubiks](https://www.grubiks.com/), [pCubes](https://twistypuzzles.com/forum/viewtopic.php?f=1&t=27054) or [The Cube](https://bsehovac.github.io/the-cube/) - Rubix Cubes / [Guide](https://easiestsolve.com/) / [Solver](https://rubiksolve.com/), [2](https://rubiks-cube-solver.com/)
+* ⭐ **[Rubik's Cube Explorer](https://iamthecu.be/)**, [Grubiks](https://www.grubiks.com/), [pCubes](https://twistypuzzles.com/forum/viewtopic.php?f=1&t=27054) or [The Cube](https://bsehovac.github.io/the-cube/) - Rubix Cubes / [Guide](https://easiestsolve.com/) / [Solver](https://rubiksolve.com/), [2](https://rubiks-cube-solver.com/)
 * ⭐ **[jiggie](https://jiggie.fun/)** - Custom Puzzles + Multiplayer
 * ⭐ **[Minesweeper.online](https://minesweeper.online/)** - Minesweeper
 * [Puzzle Party](https://artsandculture.google.com/experiment/puzzle-party/EwGBPZlIzv0KRw) - Multiplayer Jigsaws

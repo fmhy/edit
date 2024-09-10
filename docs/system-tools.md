@@ -161,7 +161,7 @@
 * [CopyQ](https://hluk.github.io/CopyQ/) or [XClipper](https://kaustubhpatange.github.io/XClipper/) - Clipboard Managers with Editing and Scripting Features
 * [MultiClipBoardSlots](https://www.softwareok.com/?seite=Microsoft/MultiClipBoardSlots) - Extend Clipboard by 10 Memory Slots
 * [Xtra Clipboard](https://xtra-clipboard.com/) - Chrome Clipboard Manager
-* [Control V](https://ctrl.vi/) - Share Images in your Clipboard via Secret URL
+* [Control V](https://ctrl.vi/) - Share Images in Your Clipboard via Secret URL
 
 ***
 
@@ -182,7 +182,7 @@
 * ⭐ **[Virt-Manager](https://virt-manager.org/)** or [Vagrantup](https://www.vagrantup.com/) - Virtual Machine Managers
 * ⭐ **[Hackintosh](https://hackintosh.com/)**, [Emaculation](https://www.emaculation.com/), [felixrieseberg](https://github.com/felixrieseberg/macintosh.js/) or [OneClick-macOS](https://github.com/notAperson535/OneClick-macOS-Simple-KVM) - macOS Virtual Machines
 * ⭐ **Hackintosh Tools** - [Guide](https://www.tonymacx86.com/) / [AMD Guide](https://chefkissinc.github.io/guide) / [Ryzen](https://github.com/mikigal/ryzen-hackintosh) / [XiaoMi](https://github.com/daliansky/XiaoMi-Pro-Hackintosh)
-* [Looking Glass](https://looking-glass.io/) - App for Using Kernel-based Virtual Machine Configured for VGA PCI Pass-through
+* [Looking Glass](https://looking-glass.io/) - App for Using Kernel-Based Virtual Machine Configured for VGA PCI Pass-Through
 * [Qemu](https://gitlab.com/qemu-project/qemu), [Hyper-V](https://learn.microsoft.com/en-us/virtualization/hyper-v-on-windows/) or [Denodo Test](https://community.denodo.com/test-drives/) - Virtual Machines
 * [OSBoxes](https://www.osboxes.org/) - Preinstalled Virtual Machine
 * [CollabVM](https://computernewb.com/collab-vm/) - Online Virtual Machines
@@ -214,7 +214,7 @@
 * [Scrutiny](https://github.com/AnalogJ/scrutiny), [GSmartControl](https://gsmartcontrol.shaduri.dev/) or [smartmontools](https://www.smartmontools.org/) - Hard Drive Monitors
 * [CoolerControl](https://gitlab.com/coolercontrol/coolercontrol) - Cooling Device Monitor
 * [BatteryMode](https://github.com/tarcode-apps/BatteryMode) - System Tray Battery Percentage / Managers
-* [Netdata](https://www.netdata.cloud/) - Cloud-based Monitoring
+* [Netdata](https://www.netdata.cloud/) - Cloud-Based Monitoring
 * [HWRadar](https://coderbag.com/product/hwradar) or [HWMonitor](https://www.cpuid.com/softwares/hwmonitor.html) - Hardware Monitors
 * [Open Hardware Monitor](https://openhardwaremonitor.org/) - Portable Hardware Monitor / [GitHub](https://github.com/openhardwaremonitor/openhardwaremonitor)
 * [Libre Hardware Monitor](https://github.com/LibreHardwareMonitor/LibreHardwareMonitor) - Updated Fork of Open Hardware Monitor
@@ -285,7 +285,7 @@
 * [Dead.Pixel](https://lcdtech.info/en/tests/dead.pixel.htm) - Dead Pixel Test
 * [JScreenFix](https://www.jscreenfix.com/) - Repair Stuck Pixels
 * [CenterOfMyScreen](https://centerofmyscreen.com/) - Find Center of Monitor
-* [ShowDesktopOneMonitor](https://github.com/ruzrobert/ShowDesktopOneMonitor) - Show Desktop For Only One Monitor
+* [ShowDesktopOneMonitor](https://github.com/ruzrobert/ShowDesktopOneMonitor) - Show Desktop for Only One Monitor
 * [Deskreen](https://deskreen.com/) / [GitHub](https://github.com/pavlobu/deskreen) or [SpaceDesk](https://www.spacedesk.net/) - Use Mobile Device as Monitor
 * [ShaderGlass](https://github.com/mausimus/ShaderGlass) - Custom Screen Shaders
 * [DaltonLens](https://daltonlens.org/) or [Toptal](https://www.toptal.com/designers/colorfilter) - Color Blindness Filters
@@ -353,7 +353,7 @@
 * [MediaCreationTool](https://github.com/AveYo/MediaCreationTool.bat) - Windows Deployment Automation
 * [balenaEtcher](https://etcher.balena.io/) - Flash OS Image SD / USB / Non-Windows OS
 * [CloverBootloader](https://github.com/CloverHackyColor/CloverBootloader/) or [EasyBCD](https://neosmart.net/EasyBCD/) - Bootloaders / [Config](https://mackie100projects.altervista.org/)
-* [Hiren’s BootCD PE](https://www.hirensbootcd.org/) or [Win10XPE](https://github.com/ChrisRfr/Win10XPE) - Preinstallation Environments
+* [Hiren's BootCD PE](https://www.hirensbootcd.org/) or [Win10XPE](https://github.com/ChrisRfr/Win10XPE) - Preinstallation Environments
 
 ***
 

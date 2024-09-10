@@ -71,8 +71,8 @@
 ## ▷ Self-Hosting Tools
 
 * ⭐ **[Jan.ai](https://jan.ai/)** - Self-Hosted
-* ⭐ **[SillyTavern](https://docs.sillytavern.app/)** - Front-end for LLMs
-* ⭐ **[llama.cpp](https://github.com/ggerganov/llama.cpp)** - Self-Host Transformer Based LLMs / [Guide](https://rentry.org/llama-mini-guide)
+* ⭐ **[SillyTavern](https://docs.sillytavern.app/)** - Frontend for LLMs
+* ⭐ **[llama.cpp](https://github.com/ggerganov/llama.cpp)** - Self-Host Transformer-Based LLMs / [Guide](https://rentry.org/llama-mini-guide)
 * ⭐ **[kobold.cpp](https://github.com/LostRuins/koboldcpp)** - llama.cpp with API + GUI / [rocM](https://github.com/YellowRoseCx/koboldcpp-rocm) / [Colab](https://colab.research.google.com/github/LostRuins/koboldcpp/blob/concedo/colab.ipynb)
 * ⭐ **[Pinokio](https://pinokio.computer/)** - Single Click AI Model Installer / [Discord](https://discord.gg/TQdNwadtE4)
 * ⭐ **[Oobabooga Text Generation WebUI](https://github.com/oobabooga/text-generation-webui)** - Self-Host Models / [Colab](https://colab.research.google.com/github/pcrii/Philo-Colab-Collection/blob/main/4bit_TextGen_Gdrive.ipynb)
@@ -81,7 +81,7 @@
 * [Petals](https://petals.dev/) - Self-Hosted
 * [Ollama](https://ollama.com/) - Self-Hosted
 * [LMStudio](https://lmstudio.ai/) - Self-Hosted
-* [GPT4All](https://www.nomic.ai/gpt4all) - Self-Hosted / [Github](https://github.com/nomic-ai/gpt4all) / [Discord](https://discord.com/invite/mGZE39AS3e)
+* [GPT4All](https://www.nomic.ai/gpt4all) - Self-Hosted / [GitHub](https://github.com/nomic-ai/gpt4all) / [Discord](https://discord.com/invite/mGZE39AS3e)
 * [LlamaFile](https://github.com/Mozilla-Ocho/llamafile) - Run LLM with Single Files
 * [Generative AI for Beginners](https://microsoft.github.io/generative-ai-for-beginners/) - Generative AI Guides
 
@@ -156,6 +156,7 @@
 * [PrivateGPT](https://docs.privategpt.dev/) - Offline Document Chatbots
 * [TGPT](https://github.com/aandrew-me/tgpt) - ChatGPT TUIs
 * [LLM](https://github.com/simonw/llm) - ChatGPT CLI
+* [Msty](https://msty.app/) - Desktop App
 * [Lobe Chat](https://chat-preview.lobehub.com) - Desktop App
 * [Noi](https://noi.nofwl.com/) - Desktop App
 * [Chatbot-UI](https://chatbotui.com) - Desktop App / [GitHub](https://github.com/mckaywrigley/chatbot-ui)
@@ -171,7 +172,7 @@
 ## ▷ ChatGPT Prompts
 
 * 🌐 **[Jailbreak Listings](https://rentry.org/jb-listing)** - Prompt / Jailbreak Lists
-* ⭐ **[Awesome ChatGPT Prompts](https://prompts.chat/)** - Prompt Directory / [Github](https://github.com/f/awesome-chatgpt-prompts)
+* ⭐ **[Awesome ChatGPT Prompts](https://prompts.chat/)** - Prompt Directory / [GitHub](https://github.com/f/awesome-chatgpt-prompts)
 * ⭐ **[BlackFriday GPTs Prompts](https://github.com/friuns2/BlackFriday-GPTs-Prompts)** - Prompt Directory
 * ⭐ **[Leaked Prompts](https://github.com/linexjlin/GPTs)** - Prompt Directory
 * ⭐ **[Prompt Engineering Guide](https://www.promptingguide.ai)** / [GitHub](https://github.com/dair-ai/Prompt-Engineering-Guide), [LearnPrompting](https://learnprompting.org/docs/intro), [OpenAI Guide](https://platform.openai.com/docs/guides/prompt-engineering), [Claude Guide](https://docs.anthropic.com/claude/docs/prompt-engineering) or [LearningPrompt](https://learningprompt.wiki/) - Prompting Guides
@@ -330,7 +331,7 @@
 * 🌐 **[RentrySD](https://rentry.org/RentrySD/)**, **[Pharmapsychotic](https://pharmapsychotic.com/tools.html)**, [Paper2GUI](https://github.com/Baiyuetribe/paper2gui/blob/main/README_en.md), [LocalModelsLinks](https://rentry.org/LocalModelsLinks), [SD Goldmine](https://rentry.org/sdgoldmine), [Akashic](https://github.com/Maks-s/sd-akashic), [sdg-link](https://rentry.org/sdg-link), [SDTools](https://sdtools.org) or [AI Creation Tools](https://docs.google.com/spreadsheets/d/1zYJUM-srhgIA7wrj4Pe4QqepAsHIEC00DydoTPv4PWg/edit#gid=0) - AI Image Resources
 * 🌐 **[CivitAI](https://civitai.com/)** or [Stable Diffusion Models](https://cyberes.github.io/stable-diffusion-models/) - SD Models Index
 * 🌐 **[PromptMania](https://promptomania.com/)** or [PublicPrompts](https://publicprompts.art/) / [Discord](https://discord.com/invite/jvQJFFFx26) - Prompt Indexes
-* ⭐ **[A Traveler’s Guide to the Latent Space](https://sweet-hall-e72.notion.site/A-Traveler-s-Guide-to-the-Latent-Space-85efba7e5e6a40e5bd3cae980f30235f)** - AI Art Guide
+* ⭐ **[A Traveler's Guide to the Latent Space](https://sweet-hall-e72.notion.site/A-Traveler-s-Guide-to-the-Latent-Space-85efba7e5e6a40e5bd3cae980f30235f)** - AI Art Guide
 * ⭐ **[CLIP Interrogator](https://huggingface.co/spaces/pharma/CLIP-Interrogator)** / [2](https://huggingface.co/spaces/fffiloni/CLIP-Interrogator-2) - Determine Likely Used Image Prompts
 * [SD Quickstart](https://redd.it/xvhavo) or [1 Min Stable Diffusion](https://youtu.be/l3JjTDvyVdw) - Stable Diffusion Guides
 * [Prompt Llibrary](https://promptlibrary.org/) - Image Prompt Library
@@ -346,8 +347,8 @@
 * [Textard](https://rentry.org/textard) - Textual Inversion Guide
 * [drfar](https://rentry.org/drfar) - InPainting Guide
 * [AnimAnon](https://rentry.org/AnimAnon) - AI Animation Guide
-* [The Other](https://rentry.org/59xed3), [DummyLoRA](https://rentry.org/dummylora), [ezlora](https://rentry.org/ezlora), [Dreambooth](https://rentry.org/2chAI_LoRA_Dreambooth_guide_english), [ora_train](https://rentry.org/lora_train) - SD LoRA Guides
-* [SafeTensorsGuide](https://rentry.org/safetensorsguide) - How-to Convert .ckpt to .safetensors
+* [The Other](https://rentry.org/59xed3), [DummyLoRA](https://rentry.org/dummylora), [ezlora](https://rentry.org/ezlora), [Dreambooth](https://rentry.org/2chAI_LoRA_Dreambooth_guide_english) or [ora_train](https://rentry.org/lora_train) - SD LoRA Guides
+* [SafeTensorsGuide](https://rentry.org/safetensorsguide) - How to Convert .ckpt to .safetensors
 * [DummyControlNet](https://rentry.org/dummycontrolnet) - ControlNet Guide
 
 ***
@@ -387,7 +388,7 @@
 * ⭐ **[Uberduck](https://uberduck.ai/)**
 * ⭐ **[WhisperSpeech](https://huggingface.co/spaces/collabora/WhisperSpeech)** - [Discord](https://discord.com/invite/FANw4rHD5E)
 * ⭐ **[Tortoise TTS](https://github.com/neonbjb/tortoise-tts)**
-* ⭐ **[Bark](https://huggingface.co/spaces/suno/bark)** - [Github](https://github.com/suno-ai/bark) / [Discord](https://discord.com/invite/J2B2vsjKuE)
+* ⭐ **[Bark](https://huggingface.co/spaces/suno/bark)** - [GitHub](https://github.com/suno-ai/bark) / [Discord](https://discord.com/invite/J2B2vsjKuE)
 * [Balabolka](https://www.cross-plus-a.com/bportable.htm)
 * [ttsMP3](https://ttsmp3.com/)
 * [FakeYou](https://fakeyou.com/)
@@ -418,7 +419,7 @@
 * ⭐ **[Applio](https://github.com/IAHispano/Applio)** - Voice Cloning / [Discord](https://discord.com/invite/iahispano) / [Playground](https://applio.org/playground)
 * ⭐ **[weights.gg](https://www.weights.gg/)** / [Discord](https://discord.gg/aihub) or [Voice Models](https://voice-models.com/) - AI Voice Models and Guides  
 * ⭐ **[RVC V2](https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI/blob/main/docs/en/README.en.md)** - RVC V2 Voice Cloning (locally)
-* ⭐ **[voice-changer](https://github.com/w-okada/voice-changer)** - Realtime Voice Changer (W-Okada) - [Guide](https://rentry.co/VoiceChangerGuide)
+* ⭐ **[voice-changer](https://github.com/w-okada/voice-changer)** - Real-Time Voice Changer (W-Okada) - [Guide](https://rentry.co/VoiceChangerGuide)
 * ⭐ **[Ilaria RVC](https://huggingface.co/spaces/TheStinger/Ilaria_RVC)** - RVC V2 Voice Cloning (Cloud/Colab)
 * [Replay](https://www.tryreplay.io/) - RVC Desktop App
 * [Clownfish](https://clownfish-translator.com/voicechanger/) - Voice Changer

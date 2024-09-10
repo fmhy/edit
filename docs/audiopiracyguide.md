@@ -158,6 +158,8 @@
 * [Braggoscope](https://www.braggoscope.com/) - BBC In Our Time Archive
 * [radiobot](https://t.me/radiobot) - Radio / Telegram
 * [Remixatron](https://github.com/drensin/Remixatron) - Radio CLI
+* [90s90s](https://www.90s90s.de/) - 90's Radio
+* [80s80s](https://www.80s80s.de/) - 80's Radio
 * [Rekt FM](https://rekt.network/) - Chill / Space / Dark / Horror Synth / EBSM / EDM Radio
 * [Nightwave Plaza](https://plaza.one/) - Vaporwave Radio
 * [Retrowave](https://retrowave.ru/) - Synthwave / Retrowave Radio
@@ -167,6 +169,7 @@
 * [Openings Moe](https://openings.moe/) - Anime Theme Radio
 * [Ongaku](https://ongaku.js.org/) or [r-a-d.io](https://r-a-d.io/) - Anime Radio
 * [Pool Suite](https://poolsuite.net/) - Summer Radio
+* [J1 Radio](https://rec.torontocast.stream/player/) - J-Pop Radio
 * [LISTEN.moe](https://listen.moe/) - K-Pop Radio
 * [Nectarine](https://www.scenestream.net/demovibes/streams/) - Demo Scene Music Radio
 * [Radiooooo](https://radiooooo.com/) - Radio / Time Machine
@@ -419,7 +422,6 @@
 * ⭐ **[Audio Torrent CSE](https://cse.google.com/cse?cx=006516753008110874046:v75cyb4ci55)** - Multi-Site Search
 * [DimeADozen](http://www.dimeadozen.org/) - MP3 / FLAC
 * [TheTradersDen](http://www.thetradersden.org/) - FLAC
-* [SolidTorrents](https://solidtorrents.to/) - MP3 / FLAC
 * [TPB Music](https://thepiratebay.org/search.php?q=top100:100) - MP3 / FLAC / **Avoid Software / Games**
 * [HQMusic](http://hqmusic.info/) - FLAC / Signup Required
 * [TheMixingBowl](https://themixingbowl.org/) - MP3 / Signup Required
@@ -478,11 +480,11 @@
 
 # ► Tracking / Discovery
 
-* ⭐ **[Last.fm](https://www.last.fm/home)** or [Music Board](https://musicboard.app/) - Track Music you Listen to
+* ⭐ **[Last.fm](https://www.last.fm/home)**, [ListenBrainz](https://listenbrainz.org/) or [Music Board](https://musicboard.app/) - Track Listening Habits / Songs
 * ⭐ **Last.fm Tools** - [Manual Scrobble](https://openscrobbler.com/) / [Web Scrobble](https://web-scrobbler.com/) / [Album Collages](https://www.chartmymusic.com/), [2](https://www.tapmusic.net/), [3](https://musicorumapp.com/generate) / [Artist Iceberg](https://lastfm-iceberg.dawdle.space/) / [Tag Cloud](https://tagcloud.joshuarainbow.co.uk/) / [Mainstream Calc](http://mainstream.ghan.nl/) / [Now Playing](https://descent.live/now)
 * ⭐ **[Has it leaked](https://hasitleaked.com/)** or [LEAKED](https://leaked.cx/) - Album Leak Tracker
 * ⭐ **[Muspy](https://muspy.com/)**, [MusicButler](https://www.musicbutler.io/) or [Brew.fm](https://www.brew.fm/) - Get Album Release Updates
-* ⭐ **[RateYourMusic](https://rateyourmusic.com/)**, **[Sputnik](https://www.sputnikmusic.com/)**, [Discogs](https://www.discogs.com/) / [Scout](https://greasyfork.org/en/scripts/439452-discogs-scout) / [Timestamps](https://martinbarker.me/tagger), [AlbumOfTheYear](https://www.albumoftheyear.org/), [AllMusic](https://www.allmusic.com/) or [MusicBrainz](https://musicbrainz.org/) / [Insights](https://listenbrainz.org/) - Ratings / Reviews
+* ⭐ **[RateYourMusic](https://rateyourmusic.com/)**, **[Sputnik](https://www.sputnikmusic.com/)**, [Discogs](https://www.discogs.com/) / [Scout](https://greasyfork.org/en/scripts/439452-discogs-scout) / [Timestamps](https://martinbarker.me/tagger), [AlbumOfTheYear](https://www.albumoftheyear.org/), [AllMusic](https://www.allmusic.com/) or [MusicBrainz](https://musicbrainz.org/)  - Ratings / Reviews
 * ⭐ **[AnyDecentMusic](http://www.anydecentmusic.com/)** - Album Review Aggregator
 * ⭐ **[RYM Ultimate Box Set](https://rateyourmusic.com/list/TheScientist/rym-ultimate-box-set/)** - Artist Recommendations by Genre
 * ⭐ **[/r/ifyoulikeblank](https://www.reddit.com/r/ifyoulikeblank/)** - Artist Recommendations
@@ -547,7 +549,7 @@
 * ↪️ **[Text to Speech](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/ai#wiki_.25B7_text_to_speech)**
 * ⭐ **[Audio Glossary](https://wotaku.wiki/glossary/audio)** - Audio Terms Glossary
 * ⭐ **[FFmpeg](https://ffmpeg.org/)**, [fre:ac](https://www.freac.org/) / [GitHub](https://github.com/enzo1982/freac), [FlicFlac](https://github.com/DannyBen/FlicFlac), [LameXP](https://sourceforge.net/projects/lamexp/) or [Sox](https://sourceforge.net/projects/sox/) - Audio Converters
-* ⭐ **[Pillowcase](https://pillowcase.su/)** - Audio File Host / 200MB (500MB With Account) / Forever
+* ⭐ **[Pillowcase](https://pillowcase.su/)** - Audio File Host / 200MB (500MB with Account) / Forever
 * [Phiola](https://github.com/stsaz/phiola), [AudioToolSet](https://audiotoolset.com/) or [Safeaudiokit](https://safeaudiokit.com/) - Audio Multi-Tool Apps / Sites
 * [qAAC](https://github.com/nu774/qaac) - QuickTime AAC/ALAC encoder
 * [opus-tools](https://opus-codec.org/downloads/) - Encode, Inspect and Decode .opus Files
@@ -570,7 +572,7 @@
 * ⭐ **[MusicBee](https://getmusicbee.com/)**
 * [Harmonoid](https://harmonoid.com/) / [Discord](https://discord.gg/2Rc3edFWd8)
 * [Muzik](https://muzik-apps.github.io/muzik-web/)
-* [TimeStetch](https://29a.ch/timestretch/) - Web Based
+* [TimeStetch](https://29a.ch/timestretch/) - Web-Based
 * [MusikCube](https://musikcube.com/) - Terminal-Based
 * [XMPlay](https://www.un4seen.com/) - Chiptune-Friendly
 * [Butterchurn Visualizer](https://butterchurnviz.com/), [MusicVid](https://musicvid.org/), [Vizzy](https://vizzy.io/) or [CatNip](https://github.com/noriah/catnip) - Audio Visualizers

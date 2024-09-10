@@ -81,7 +81,7 @@
 * [Archinstall](https://github.com/archlinux/archinstall) - Arch Linux Installers
 * [Pop!_OS Shell](https://github.com/pop-os/shell) - Pop-Shell for GNOME
 * [CoreELEC](https://coreelec.org) / [GitHub](https://github.com/CoreELEC/CoreELEC) or [LibreELEC](https://libreelec.tv/) - Kodi-Based Operating System
-* [WSL](https://learn.microsoft.com/en-us/windows/wsl/)  - Run Linux on Windows / [Resources](https://github.com/sirredbeard/Awesome-WSL) / [Startup Launcher](https://github.com/nullpo-head/wsl-distrod) / [Wayland / X Server](https://github.com/microsoft/wslg)
+* [WSL](https://learn.microsoft.com/en-us/windows/wsl/) - Run Linux on Windows / [Resources](https://github.com/sirredbeard/Awesome-WSL) / [Startup Launcher](https://github.com/nullpo-head/wsl-distrod) / [Wayland / X Server](https://github.com/microsoft/wslg)
 * [Boxes](https://wiki.gnome.org/Apps/Boxes) - Virtual Machine Manager
 * [Linux-KVM](https://www.linux-kvm.org/page/Downloads) - Virtualization Kernel module
 * [WebVM](https://webvm.io/) - Browser Virtual Machine / [Discord](https://discord.gg/yTNZgySKGa)
@@ -138,7 +138,7 @@
 * [Bismuth](https://bismuth-forge.github.io/bismuth/) - KDE5 Tiling Extension / [GitHub](https://github.com/Bismuth-Forge/bismuth)
 * [Ghostwriter](https://ghostwriter.kde.org/) or [Remarkable](https://remarkableapp.github.io/) - Markdown Editor
 * [Gedit](https://wiki.gnome.org/Apps/Gedit), [Geany](https://www.geany.org/), [Leafpad](http://tarot.freeshell.org/leafpad/), [NotepadNext](https://github.com/dail8859/NotepadNext), [taskbook](https://github.com/klaudiosinani/taskbook), [Notepadqq](https://github.com/notepadqq/notepadqq), [Featherpad](https://github.com/tsujan/FeatherPad) or [nb](https://xwmx.github.io/nb) / [GitHub](https://github.com/xwmx/nb) - Text Editor / Note Apps
-* [TextPieces](https://gitlab.com/liferooter/textpieces) - Quick Text Transformations / [Github](https://github.com/liferooter/textpieces)
+* [TextPieces](https://gitlab.com/liferooter/textpieces) - Quick Text Transformations / [GitHub](https://github.com/liferooter/textpieces)
 * [Durdraw](https://durdraw.org/) - ASCII Editor
 * [ly](https://github.com/fairyglade/ly) - Display Manager with Console UI
 * [GammaStep](https://gitlab.com/chinstrap/gammastep) - Adjust Screen Temperature
@@ -213,7 +213,7 @@
 * [Linux-Fake-Background-Webcam](https://github.com/fangfufu/Linux-Fake-Background-Webcam/) - Fake Webcam Background
 * [ani-cli](https://github.com/pystardust/ani-cli) - Anime Streaming Terminal
 * [Trackma](https://github.com/z411/trackma/) - Anime Tracking App
-* [LiveCaptions](https://github.com/abb128/LiveCaptions) - Real-time Captions
+* [LiveCaptions](https://github.com/abb128/LiveCaptions) - Real-Time Captions
 
 ***
 
@@ -308,9 +308,9 @@ Linux Gaming Guide
 * [mcpelauncher](https://github.com/minecraft-linux/mcpelauncher-manifest) - Minecraft Android Bedrock Edition Launcher for Linux
 * [VinegarHQ](https://vinegarhq.org/) - Bootstrapper for Roblox / [Studio Only](https://vinegarhq.org/Home/rol_faq.html) / [Sober](https://sober.vinegarhq.org/)
 * [Anime Game Launcher](https://github.com/an-anime-team/an-anime-game-launcher) - Genshin Impact Launcher / [Discord](https://discord.gg/ck37X6UWBp)
-* [among-sus](https://git.sr.ht/~martijnbraam/among-sus) - Play Among Us in your Terminal (recreation)
+* [among-sus](https://git.sr.ht/~martijnbraam/among-sus) - Play Among Us in Your Terminal
 * [Gameboy.live](https://github.com/HFO4/gameboy.live) - Terminal Game Boy Emulator
-* [StarryDex](https://github.com/mariinkys/starrydex) - Pokedex App
+* [StarryDex](https://github.com/mariinkys/starrydex) - Pokédex App
 * [QuickPassthrough](https://github.com/HikariKnight/quickpassthrough) - Simplified Qemu GPU Passthrough
 * [Gambit](https://github.com/maaslalani/gambit) - Terminal Chess
 * [Sssnake](https://github.com/AngelJumbo/sssnake) - Terminal Snake
@@ -361,7 +361,7 @@ Linux Gaming Guide
 * [BTFS](https://github.com/johang/btfs) - Bittorrent Filesystem
 * [arch-delugevpn](https://github.com/binhex/arch-delugevpn) - Docker with Torrent client and VPN on Arch Linux base
 * [Luakit](https://luakit.github.io/) - Lightweight Linux Browser
-* [browsh](https://www.brow.sh/) - Text Based Browser
+* [browsh](https://www.brow.sh/) - Text-Based Browser
 * [ElectronMail](https://github.com/vladimiry/ElectronMail), [Claws Mail](https://www.claws-mail.org/) or [dodo](https://github.com/akissinger/dodo) - Email Clients
 * [iRedMail](https://www.iredmail.org/), [Docker Mailserver](https://docker-mailserver.github.io/docker-mailserver/edge/), [UnInbox](https://github.com/un/inbox) or [Mail-in a Box](https://mailinabox.email/) - Self-Hosted Email Servers
 * [Akregator](https://apps.kde.org/akregator/) - RSS Feed Reader

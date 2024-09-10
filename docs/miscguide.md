@@ -42,7 +42,7 @@
 ## ▷ Site / Tool Indexes
 
 * ⭐ **[r/Piracy Megathread](https://www.reddit.com/r/Piracy/wiki/megathread)** - Piracy Index / [Mirror](https://rentry.co/megathread)
-* ⭐ **[Awesome Piracy](https://shakil-shahadat.github.io/awesome-piracy/)** - Piracy Index / [Github](https://github.com/Shakil-Shahadat/awesome-piracy)
+* ⭐ **[Awesome Piracy](https://shakil-shahadat.github.io/awesome-piracy/)** - Piracy Index / [GitHub](https://github.com/Shakil-Shahadat/awesome-piracy)
 * ⭐ **[Ripped](https://ripped.guide/)** - Piracy Index / [Discord](https://discord.ripped.guide/)
 * ⭐ **[r/PiratedGames Megathread](https://rentry.org/pgames)** - Game Piracy Index / [Discord](https://discord.gg/dZWwhUy)
 * ⭐ **[CS.RIN Mega](https://cs.rin.ru/forum/viewtopic.php?f=10&t=95461)** - Game Piracy Index
@@ -91,7 +91,7 @@
 * [AppRaven](https://appraven.net/) - iOS Apps
 * [FreeCycle](https://www.freecycle.org/) or [Freegle](https://www.ilovefreegle.org/) - People Stuff Exchange
 * [BAEN](https://www.baen.com/catalog/category/view/s/free-library/id/2012) - Books
-* [Dolly Parton’s Imagination Library](https://imaginationlibrary.com/) - Book Gifting Program (For Children)
+* [Dolly Parton's Imagination Library](https://imaginationlibrary.com/) - Book Gifting Program (For Children)
 * [FreeSteamOffers_Bot](https://t.me/FreeSteamOffers_Bot/) - Telegram
 * [/r/FREE](https://reddit.com/r/FREE/)
 * [/r/eFreebies](https://reddit.com/r/eFreebies)
@@ -142,7 +142,7 @@
 * [PunchFork](https://www.punchfork.com/) - Recipes
 * [Search-22](https://search-22.com/recipe-search-tools) - Multi-Site Recipe Search
 * [Wikibook Recipes](https://en.wikibooks.org/wiki/Category:Cookbook) - Recipe Wiki
-* [Taste Bud](https://taste-bud.io/) -  Recipe Search AI / Pinboard
+* [Taste Bud](https://taste-bud.io/) - Recipe Search AI / Pinboard
 * [Epicurious](https://www.epicurious.com/) - Recipe Search
 * [based.cooking](https://based.cooking/) - Recipe Search
 * [Recipe Search](https://recipe-search.typesense.org/) - Recipe Search
@@ -245,7 +245,7 @@
 * [FreeMapTools](https://www.freemaptools.com/) - Map Tools
 * [The Cartographers' Guild](https://www.cartographersguild.com/) - Cartography Forum
 * [Color Brewer](https://colorbrewer2.org/) - Cartography Color Advice
-* [FixPhrase](https://fixphrase.com/) or [TextToMap](https://www.textomap.com/) - Text Based Map Search
+* [FixPhrase](https://fixphrase.com/) or [TextToMap](https://www.textomap.com/) - Text-Based Map Search
 * [Copernix](https://copernix.io/) - Explore a Map with Wikipedia
 * [Midgard Map](https://midgardmap.koboldpress.com/) - Midgard Map
 * [Snap Map](https://map.snapchat.com/) - Snapchat Map
@@ -290,7 +290,7 @@
 ## ▷ Railway Maps
 
 * [OpenRailwayMap](https://www.openrailwaymap.org/) - World's Railway Infrastructure
-* [trains.fyi](https://trains.fyi/) - Real-time North America Train Tracker
+* [trains.fyi](https://trains.fyi/) - Real-Time North America Train Tracker
 * [amtrak explorer](https://amtrakexplorer.com/) - North America Railway Map
 * [Swiss Railways Network](https://maps.vasile.ch/transit-sbb/) - Switzerland Railway Map
 * [AnyTrip](https://anytrip.com.au/) - Australia & New Zealand Railway Maps
@@ -308,7 +308,7 @@
 * [Earth Observatory](https://earthobservatory.nasa.gov/global-maps), [Zoom Earth](https://zoom.earth/), [Earth Now](https://climate.nasa.gov/earth-now/), [Windy](https://www.windy.com/), [Earth](https://earth.nullschool.net/), [satellite-map.gosur](https://satellite-map.gosur.com/) or [Ventusky](https://www.ventusky.com/) - General Weather / Climate Maps 
 * [Netweather](https://www.netweather.tv/charts-and-data/global-jetstream) - Global Jetstream Forcast Map
 * [Cyclocane](https://www.cyclocane.com/) - Cyclone and Hurricane Tracker Map
-* [tornado.live](https://tornado.live/) - Real-time US Severe Weather Alerts Map
+* [tornado.live](https://tornado.live/) - Real-Time US Severe Weather Alerts Map
 * [Tropical Tidbits](https://www.tropicaltidbits.com/) - Hurricane Forecast Models
 * [Tornado Archive](https://tornadoarchive.com/) - Tornado Archive Data Explorer
 * [Find Your Tornado Shelter](https://findyourtornadoshelter.com/) - Tornado Shelter Map
@@ -399,7 +399,7 @@
 * [Huge Earth Maps](https://maps.drsys.eu/) - High Res Earth Maps
 * [StreetComplete](https://streetcomplete.app/) - OpenStreetMap Surveyor App
 * [FacilMap](https://facilmap.org/) or [OsmAPP](https://osmapp.org/) - OSM Web Apps
-* [OpenMapTiles](https://openmaptiles.org/) - Self-hosted Map Tools
+* [OpenMapTiles](https://openmaptiles.org/) - Self-Hosted Map Tools
 * [NASA Earthdata](https://search.earthdata.nasa.gov/search) - Earth Data Archive
 * [glifwc](https://maps.glifwc.org/) - Map with Data
 * [Mapillary](https://www.mapillary.com/) - Open Street View Data
@@ -411,7 +411,6 @@
 
 # ► News
 
-* 🌐 **[5000 Best News Sites](http://5000best.com/websites/News/)** - News Sites Index
 * 🌐 **[AllYouCanRead](https://www.allyoucanread.com/)**, [W3Newspapers.com](https://www.w3newspapers.com/), [World-Newspapers](https://world-newspapers.com/), [OnlineNewspapers](https://www.onlinenewspapers.com), [4IMN](https://www.4imn.com/) or [newspapersglobal](https://www.newspapersglobal.com/) - Worldwide News Sites Indexes
 * 🌐 **[Current Events Wiki](https://en.m.wikipedia.org/wiki/Portal:Current_events)** or [Slower News](https://www.slowernews.com/) - Breaking News
 * ↪️ **[Newspaper Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/reading#wiki_.25B7_newspapers)**
@@ -421,7 +420,7 @@
 * ⭐ **[Good News Network](https://www.goodnewsnetwork.org/)** or [Happy Daze](https://happydaze.io/) - Uplifting News
 * [JustRead](https://justread.link/) or [Unclutter](https://unclutter.it/) - Feed Managers / Readers
 * [Pocket](https://getpocket.com/) - Discover & Save Articles
-* [News as Facts](https://newsasfacts.com/) - Wiki Based News
+* [News as Facts](https://newsasfacts.com/) - Wiki-Based News
 * [Google Alerts](https://www.google.com/alerts) - News Alerts by Topics
 * [Attabit](https://attabit.com/) or [Dunce Media](https://www.dunce.media/) - News Summaries
 * [Top Stories](https://murmel.social/top) - Top Fediverse News
@@ -568,7 +567,7 @@
 * ⭐ **[Caffeine Calculator](https://www.caffeineinformer.com/death-by-caffeine)** - Caffeine Intake Calculator
 * ⭐ **[Dehydration Chart](https://i.ibb.co/b3YxZzr/921f6c843cf0.png)** - Dehydration Color Chart
 * ⭐ **[OpenFoodFacts](https://world.openfoodfacts.org/)** - Food Database & Health Information / [Scanner](https://play.google.com/store/apps/details?id=org.openfoodfacts.scanner) 
-* [NutritionFacts.org](https://nutritionfacts.org/) - Video Library for Latest Health-based Research
+* [NutritionFacts.org](https://nutritionfacts.org/) - Video Library for Latest Health-Based Research
 * [The Nutrition Source](https://www.hsph.harvard.edu/nutritionsource/) - Harvard University Health Website
 * [Liquid Drink](https://play.google.com/store/apps/details?id=com.xpp.drink) - Liquid Intake Tracker
 * [Daily Dozen](https://github.com/nutritionfactsorg/daily-dozen-android) - Daily Diet Recommendations / Android
@@ -644,7 +643,7 @@
 * ⭐ **[Kimai](https://www.kimai.org/)** or [Clockify](https://clockify.me/) - Work Hour Trackers
 * [OnSites](https://www.onsites.fyi/) - View / Share Interview Experiences
 * [JobBoardSearch](https://jobboardsearch.com/), [PromptYourJob](https://promptyourjob.com/), [CyberCoders](https://www.cybercoders.com/), [whoishiring](https://whoishiring.io/), [Toby Tools](https://rentry.co/qnu6x), [The Muse](https://www.themuse.com/search/) or [EuroJobs](https://eurojobs.com/) - Job Search
-* [Hiring Without Whiteboards](https://github.com/poteto/hiring-without-whiteboards) - Find Straightforward Hiring Process'
+* [Hiring Without Whiteboards](https://github.com/poteto/hiring-without-whiteboards) - Find Straightforward Hiring Processes
 * [50WaysToGetAJob](https://50waystogetajob.com/) - Interactive Job Search Guide
 * [RolePad](https://rolepad.com/) or [JobSync](https://github.com/Gsync/jobsync) - Job Search Managers
 * [80,000 Hours](https://80000hours.org/), [O*NET](https://www.onetonline.org/) or [MyNextMove](https://www.mynextmove.org/) - Explore Career Options
@@ -667,7 +666,7 @@
 * [Creator Monetization Platforms](https://docs.google.com/spreadsheets/d/1ii59-tKBwsol4jGwVehXy-oaJfVLKUciwXtB2tuKqQg/edit#gid=0) - Monetization Platforms Comparisons
 * [Gerev](https://github.com/GerevAI/gerev) - Search within Workplace Apps
 * [Gale Presents: Udemy](https://www.gale.com/elearning/udemy) - Business Courses / Library Card Required
-* [Marketing Mega](https://rentry.co/FMHYBase64#marketing-courses), [Pimp My Money](https://pimpmymoney.net/) (torrent) or [HubSpot Academy](https://academy.hubspot.com/) - Digital Marketing Courses
+* [Marketing Mega](https://rentry.co/FMHYBase64#marketing-courses), [Pimp My Money](https://pimpmymoney.net/) (Torrent) or [HubSpot Academy](https://academy.hubspot.com/) - Digital Marketing Courses
 * [Statista](https://statista.com/) - Market Statistic Search
 * [Systeme](https://systeme.io/) or [SendPulse](https://sendpulse.com/) - Marketing Tools
 * [Marmof](https://marmof.com/) - Creator / Marketing AI
@@ -692,7 +691,7 @@
 
 ## ▷ Resume / Portfolio
 
-* ⭐ **[RX Resume](https://rxresu.me/)** - Resume maker / [GitHub](https://github.com/amruthpillai/reactive-resume)
+* ⭐ **[RX Resume](https://rxresu.me/)** - Resume Maker / [GitHub](https://github.com/amruthpillai/reactive-resume)
 * ⭐ **[KickResume](https://www.kickresume.com/en/help-center/resume-samples/)** or [ThisResumeDoesNotExist](https://thisresumedoesnotexist.com/) - Resume Samples
 * [ChatProfolio](https://chatprofolio.vercel.app/) or [PeerList](https://peerlist.io/) - Portfolio Builders
 * [Dopefolio](https://github.com/rammcodes/Dopefolio) - Developer Portfolio Template
@@ -759,9 +758,9 @@
 * 🌐 **[TheRemoteFreelancer](https://github.com/engineerapart/TheRemoteFreelancer)** - Remote Tech Jobs Index
 * ↪️ **[Learn Programming](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/dev-tools#wiki_.25BA_courses_.2F_tutorials)**
 * ↪️ **[Learn Computer Science](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/dev-tools#wiki_.25B7_computer_science)**
-* [MoAiJobs](https://www.moaijobs.com/) - Find jobs in AI companies
+* [MoAiJobs](https://www.moaijobs.com/) - Find Jobs in AI Companies
 * [japandev](https://japan-dev.com/) - Find Developer Jobs in Japan
-* [key : values](https://www.keyvalues.com/) - Find Companies that Match your Values
+* [key : values](https://www.keyvalues.com/) - Find Companies that Match Your Values
 * [Authentic Jobs](https://authenticjobs.com/) - Find Developer / Designer Jobs
 * [/r/DesignJobs](https://www.reddit.com/r/DesignJobs/) - Designer Jobs Subreddit
 * [Golang Jobs](https://golangjob.xyz/) - Find Golang Jobs
@@ -890,7 +889,7 @@
 * [Desenmascara](https://desenmascara.me/) - Spot Counterfeit Sites
 * [/r/FashionReps](https://www.reddit.com/r/FashionReps/) - Replica Clothing Community
 * [WornOnTV](https://wornontv.net/) - Find Outfits from TV Shows
-* [Buycott](https://www.buycott.com/campaign/browse) - See how manufacturers match your principles
+* [Buycott](https://www.buycott.com/campaign/browse) - See How Manufacturers Match Your Principles
 * [GoodOnYou](https://directory.goodonyou.eco/) - Clothing Brand Sustainability Ratings
 * [Fuck Nestlé](https://www.fucknestle.art/) - Nestlé Brand Database
 
@@ -1012,7 +1011,7 @@
 * [Grocy](https://grocy.info/) - Grocery / Household Management Tool
 * [WhoBrings](https://whobrings.com/) - Party Item Management Tool
 * [MyPhone](https://github.com/BestOwl/MyPhone) - Make Calls via Desktop
-* [Free-lookup](https://free-lookup.net/) - Phone # Lookup
+* [Free-lookup](https://free-lookup.net/) - Phone Number Lookup
 * [BudgetDuo](https://budgetduo.com/) - Split Household Expenses
 * [KittySplit](https://www.kittysplit.com/en/) or [Spliit](https://spliit.app/) - Group Expense Splitting Calculators
 * [StageTimer](https://stagetimer.io/) - Event Timer
@@ -1072,9 +1071,9 @@
 * [Sumo](https://sumo.app/) - Design / Graphic / Music
 * [Digital Methods Initiative](https://wiki.digitalmethods.net/Dmi/ToolDatabase) - Research Tools Database
 * [BfoTool](https://bfotool.com/) - Text / Image / Code / File Conversion
-* [TuckTools](https://www.tucktools.com/) - Social Media
+* [TuckTools](https://www.tucktools.com/) - Social Media / Website Management / Development
 * [Ian Coleman](https://iancoleman.io/) - Cryptography and Encoding Tools
-* [URL Decode](https://url-decode.com/cat/all) -  Dev Tools / Web Tools / File Conversion
+* [URL Decode](https://url-decode.com/cat/all) - Dev Tools / Web Tools / File Conversion
 
 ***
 
@@ -1180,7 +1179,6 @@
 * ⭐ **[SakugaBooru](https://www.sakugabooru.com/)** - Anime Animation Booru / [Enhancements](https://chromewebstore.google.com/detail/sakuga-extended/khmnmdaghmhkcbooicndamlhkcmpklmc)
 * [loc.alize](https://loc.alize.us/) - Explore Earth via Images
 * [Topsters](https://topsters.org/) - Make Taste / Recommendation Collages
-* [DreamWidth](https://www.dreamwidth.org/) - User-Made Images & Stories
 * [MSPFA](https://mspfa.com/) - MS Paint Fan Adventures
 * [GigaMacro](https://viewer.gigamacro.com/) or [Gigapan](https://www.gigapan.com/) - Panoramic Photography
 * [stringers.live](https://stringers.live/) - Live Freelance Journalist Streams
@@ -1203,7 +1201,7 @@
 * [Three.js](https://threejs.org/) - JavaScript 3D library
 * [88x31](https://cyber.dabamos.de/88x31/index.html), [THE 88×31 ARCHIVE](https://hellnet.work/8831/) or [Web Badges World](https://web.badges.world/) - Oldschool Web Badges
 * [/r/Place Atlas](https://place-atlas.stefanocoding.me/) - /r/Place Info
-* [LameBook](https://www.lamebook.com/) - Funny Facebook Status'
+* [LameBook](https://www.lamebook.com/) - Funny Facebook Statuses
 * [Kittenwar!](https://www.kittenwar.com/) - Rate Kittens
 * [procatinator](https://procatinator.com/) - Cat GIFs & Music
 * [Open Puppies](https://openpuppies.com/) - Random Dog GIFs
@@ -1213,7 +1211,7 @@
 * [Paint with Music](https://artsandculture.google.com/experiment/paint-with-music/YAGuJyDB-XbbWg) - Paint with Sound
 * [No Paint](https://nopaint.art/) - Press "Paint" if you like what you see, "No" if you don't
 * [Triviart](https://triviart.live/) - Infinite Painting Canvas with Trivia
-* [paint.wtf](https://paint.wtf/) - Have an AI Judge your Art
+* [paint.wtf](https://paint.wtf/) - Have an AI Judge Your Art
 * [Chimera Painter](https://storage.googleapis.com/chimera-painter/index.html) - Chimera Generator
 * [MakeCoatOfArms](https://www.allfamilycrests.com/makecoatofarms.htm) - Coat of Arms Generator
 * [Where Is The Google Car](https://www.whereisthegooglecar.com/) - Google Car Images / Locations
@@ -1260,13 +1258,13 @@
 * ⭐ **[Genetic Cars 2](https://rednuht.org/genetic_cars_2/)** - Random 2D Car Generator
 * ⭐ **[Human Benchmark](https://humanbenchmark.com/)** - Brain Games & Cognitive Tests
 * ⭐ **[Got Rhythm?](https://www.concerthotels.com/got-rhythm)** - Rhythm / Tempo Test
-* ⭐ **[2020 Game](https://2020game.io/)** - Play through 2020
+* ⭐ **[2020 Game](https://2020game.io/)** - Play Through 2020
 * [Virtual x86](https://copy.sh/v86/) - x86-compatible OS Emulators
 * [PCjs Machines](https://www.pcjs.org/) or [Windows93](https://www.windows93.net/) - Classic Computer Emulators
 * [InfiniteMac](https://infinitemac.org/) - Apple OS Emulators
 * [Quantum Playground](https://www.quantumplayground.net/#/home) - Quantum Computer Simulator
 * [Little Alchemy](https://littlealchemy.com/) or [Little Alchemy 2](https://littlealchemy2.com/) - Alchemy Game
-* [JUST SCREAM!](https://justscream.baby/) - Scream Into the Universe
+* [JUST SCREAM!](https://justscream.baby/) - Scream into the Universe
 * [VentScape](https://www.ventscape.life/) or [PostSecretVoicemail](https://www.postsecretvoicemail.com/) - Speak into a Void
 * [AfterTheBeep](https://afterthebeep.tel/) - Public Voicemail
 * [Frequency2156](https://frequency2156.com/) - Listen to / Record Survival Messages
@@ -1363,7 +1361,7 @@
 * [SongMeanings](https://songmeanings.com/) - Discover Song Meanings
 * [ColorNames](https://colornames.org/) - Help Name Colors
 * [Colorword](https://colorword.recu3125.com/) - Word Color Voting
-* [House Creep](https://www.housecreep.com/) - Homes With A Curious or Criminal History
+* [House Creep](https://www.housecreep.com/) - Homes with A Curious or Criminal History
 * [Wiby](https://www.wiby.me/) - Explore Old Sites
 * [VersionMuseum](https://www.versionmuseum.com/) - Website History / Info
 * [InfoMesh](https://infomesh.org/) - Web History / Info
@@ -1416,7 +1414,7 @@
 * [Face Age AI](https://www.howolddoilook.io) - AI Age Guessing
 * [You're Getting Old](https://you.regettingold.com/) - Age Perspective
 * [Death Date Calculators](https://pastebin.com/LDRycXk3) - Calculate Your Day of *DEATH* (how fun!)
-* [HeyFromTheFuture](https://heyfromthefuture.com/) - What People Wish they knew at your Age
+* [HeyFromTheFuture](https://heyfromthefuture.com/) - What People Wish They Knew at Your Age
 * [MyGrandmothersLingo](https://www.sbs.com.au/mygrandmotherslingo/) - Interactive Story
 * [Emoji to Scale](https://javier.xyz/emoji-to-scale/) - Emoji Size Scale
 * [Cube Rule](https://cuberule.com/) - The Cube Rule of Food
@@ -1472,11 +1470,10 @@
 * [AfterTheTone](https://afterthetone.com/) - Random Answering Machine Messages
 * [Pink Trombone](https://dood.al/pinktrombone/) - Human Pitch Generator
 * [Purrli](https://purrli.com/) - Cat Purr Generator
-* [LongestPoemInTheWorld](https://www.longestpoemintheworld.com/) - Form Rhymes from Tweets
 * [The Nicest Place](https://thenicestplace.net/) - Internet Hugs
 * [InspiroBot](https://inspirobot.me/) - Inspirational Quote Generator
 * [HORG](http://www.horg.com/horg/) - Holotypic Occlupanid Research Group
-* [Waifu Labs](https://waifulabs.com/) - Meet your Waifu
+* [Waifu Labs](https://waifulabs.com/) - Meet Your Waifu
 * [Satania](https://satania.moe/) - Satania Waifu / [GitHub](https://github.com/Pizzacus/satania.moe)
 * [Skynet](https://pierrepapierciseaux.net/.skynet/?lang=en) - View Websites like they're from the 90's
 * [CameronsWorld](https://www.cameronsworld.net/) - 90's Themed Website

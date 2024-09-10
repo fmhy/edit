@@ -194,13 +194,12 @@
 
 * ⭐ **[Monkey Type](https://monkeytype.com/)** - Customizable Typing Tests
 * ⭐ **[Smassh](https://github.com/kraanzu/smassh)** or [Ttyper](https://github.com/max-niederman/ttyper) - Terminal Typing Tests
-* [Typing.io](https://typing.io/) - Typing Practice For Programming / Sign-up Required
+* [Typing.io](https://typing.io/) - Typing Practice for Programming / Sign-up Required
 * [keybr](https://www.keybr.com/) - Typing Practice
 * [Typing.com](https://www.typing.com/) - Typing Lessons
 * [Typing Club](https://www.typingclub.com/) - Touch Typing Lessons
 * [typing.academy](https://www.typing.academy/) - Typing Lessons / Requires Javascript Enabled
-* [Typings](https://typings.gg/) - Typing Tests
-* [typing.works](https://typing.works/) - Typing Tests
+* [Typings](https://typings.gg/) or [typing.works](https://typing.works/) - Typing Tests
 * [TypeRacer](https://play.typeracer.com/), [ZType](https://zty.pe/), [TypeRush](https://www.typerush.com/) or [ARRRType](https://www.arrrtype.com/) - Typing Games
 * [NGram Type](https://ranelpadon.github.io/ngram-type/), [Keyzen3](https://adamgradzki.com/keyzen3/) or [Keyzen Colmak](https://ranelpadon.github.io/keyzen-colemak-dh/) - Touch Typing Tests
 * [TypeLit.io](https://www.typelit.io/) or [Entertrained](https://entertrained.app/) - Book Typing Tests
@@ -214,31 +213,31 @@
 
 * 🌐 **[List of Text Editors](https://en.wikipedia.org/wiki/List_of_text_editors)** - Text Editor / Notepad Index
 * ↪️ **[Code Editors / IDEs](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/dev-tools#wiki_.25B7_ides_.2F_code_editors)**
-* ⭐ **[Notepad++](https://notepad-plus-plus.org/)** / [Markdown](https://nea.github.io/MarkdownViewerPlusPlus/)
-* ⭐ **[Obsidian](https://obsidian.md/)**
+* ⭐ **[Notepad++](https://notepad-plus-plus.org/)** / [Markdown](https://nea.github.io/MarkdownViewerPlusPlus/) - Notepad & Code Editor
+* ⭐ **[Obsidian](https://obsidian.md/)** - Markdown Note-Taking
 * ⭐ **Obsidian Tools** - [Discord](https://discord.gg/obsidianmd) / [Resources](https://github.com/kmaasrud/awesome-obsidian) / [Share Notes](https://noteshare.space/) / [Publish Notes](https://github.com/oleeskild/obsidian-digital-garden) / [Live Sync](https://github.com/vrtmrz/obsidian-livesync) / [Gdrive Sync](https://github.com/stravo1/obsidian-gdrive-sync) / [Backup](https://github.com/denolehov/obsidian-git) / [ChatGPT Addon](https://github.com/logancyang/obsidian-copilot), [2](https://github.com/vasilecampeanu/obsidian-weaver)
-* ⭐ **[Notion](https://www.notion.so/)**
+* ⭐ **[Notion](https://www.notion.so/)** - Note-Taking
 * ⭐ **Notion Tools** - [Themes](https://notionthemes.yudax.me/) / [Templates](https://notionpages.com/) / [Resources](https://www.notioneverything.com/notion-world), [2](https://chief-ease-8ab.notion.site/List-of-200-Notion-Resources-e1b46cd365094265bd47b8a2b25bb41e) / [Guide](https://easlo.notion.site/Notion-Beginner-to-Advanced-8a492960b049433289c4a8d362204d20) / [Markdown Extractor](https://github.com/souvikinator/notion-to-md)
-* ⭐ **[Notesnook](https://notesnook.com/)**
-* ⭐ **[AnyType](https://anytype.io/)**
-* ⭐ **[Logseq](https://logseq.com/)**
+* ⭐ **[Notesnook](https://notesnook.com/)** - Note-Taking
+* ⭐ **[AnyType](https://anytype.io/)** - Note-Taking
+* ⭐ **[Logseq](https://logseq.com/)** - Outlining
 * [Mochi Cards](https://mochi.cards/) or [Silicon](https://github.com/cu/silicon) - Note-Taking / Study Tools
 * [BookStack](https://www.bookstackapp.com/) or [Siyuan](https://github.com/siyuan-note/siyuan) - Self-Hosted Information Managers
-* [Desklamp](https://desklamp.io/) - Reading / Note Taking / Highlighting Tool / [Guide](https://app.desklamp.io/read?id=46b203c6-d8df-453d-b546-95a8fa7a44b9&mode=explore)
-* [benotes](https://benotes.org/) - Self-hosted Bookmarks and Note Taking
+* [Desklamp](https://desklamp.io/) - Reading / Note-Taking / Highlighting Tool / [Guide](https://app.desklamp.io/read?id=46b203c6-d8df-453d-b546-95a8fa7a44b9&mode=explore)
+* [benotes](https://benotes.org/) - Self-Hosted Bookmarks and Note-Taking
 * [Saber](https://saber.adil.hanney.org/) - Crossplatform Handwritten Notes
-* [Simplenote](https://simplenote.com/) - Crossplatform Note Taking
+* [Simplenote](https://simplenote.com/) - Crossplatform Note-Taking
 * [Butterfly](https://docs.butterfly.linwood.dev/) - Handwritten Notes / [Discord](https://discord.com/invite/97zFtYN) / [GitHub](https://github.com/LinwoodDev/Butterfly)
 * [EncryptPad](https://evpo.net/encryptpad/) - Encrypted Text Editor
-* [NotebookLM](https://notebooklm.google/) or [Raven](https://www.ravenotes.com/) - AI Note Taking
+* [NotebookLM](https://notebooklm.google/) or [Raven](https://www.ravenotes.com/) - AI Note-Taking
 * [Xournal++](https://xournalpp.github.io/) - Handwritten Notes / [GitHub](https://github.com/xournalpp/xournalpp)
 * [Notepads](https://www.notepadsapp.com/) - Text Editor
 * [Xed](https://github.com/linuxmint/xed) - GTK3 Text Editor
 * [Zim Wiki](https://zim-wiki.org/) - Wiki Text Editor
-* [Flotes](https://flotes.app/) - Markdown Note Taking
-* [tomboy-ng](https://github.com/tomboy-notes/tomboy-ng) - TomBoy Based Text Editor
-* [Helix](https://helix-editor.com/) - Kakuone/Neovim Based Text Editor
-* [cherrytree](https://www.giuspen.net/cherrytree/) - Hierarchical Note Taking 
+* [Flotes](https://flotes.app/) - Markdown Note-Taking
+* [tomboy-ng](https://github.com/tomboy-notes/tomboy-ng) - TomBoy-Based Text Editor
+* [Helix](https://helix-editor.com/) - Kakuone/Neovim-Based Text Editor
+* [cherrytree](https://www.giuspen.net/cherrytree/) - Hierarchical Note-Taking 
 * [UseMemos](https://usememos.com/) / [Discord](https://discord.gg/tfPJa4UmAv)
 * [Tiddly](https://tiddlywiki.com/) / [Desktop](https://github.com/tiddly-gittly/TidGi-Desktop)
 * [Joplin](https://joplinapp.org/) / [Firefox](https://addons.mozilla.org/en-US/firefox/addon/joplin-web-clipper/) / [Chrome](https://chromewebstore.google.com/detail/joplin-web-clipper/alofnhikmmkdbbbgpnglcpdollgjjfeken-GB)
@@ -384,7 +383,7 @@
 * [Fortelling](https://www.fortelling.app/) - Novel Plotting & Editing Workspace
 * [Infinite Story](https://infinite-story.com/), [Strand](https://strand.jinay.dev/), [Agora](https://www.agorawriter.com/) or [WriteAlong](https://www.writealong.io/) - Collaborative Writing / Feedback
 * [LanguageIsAVirus](https://www.languageisavirus.com/) or [MDWA](https://www.squibler.io/dangerous-writing-prompt-app) - Writing Prompts
-* [Storylines](https://github.com/morning4coffe-dev/storylines) - Chapter Based Story Writing
+* [Storylines](https://github.com/morning4coffe-dev/storylines) - Chapter-Based Story Writing
 * [Twinery](https://twinery.org/) - Interactive Non-Linear Story Creator
 * [TextUSM](https://textusm.com/) - User Story Map Generator / [GitHub](https://github.com/harehare/textusm)
 * [Blackout Poetry](https://blackoutpoetry.glitch.me/) - Blackout Poetry Creator

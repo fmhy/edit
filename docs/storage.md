@@ -111,8 +111,8 @@
 * [Avatar Maker](https://avatarmaker.com/), [Avataaars](https://getavataaars.com/) or [Personas](https://personas.draftbit.com/) - Simple Avatar Creators
 * [MultiAvatar](https://multiavatar.com/) - Generate Random Avatars
 * [Logo Makr](https://logomakr.com/), [DesignEvo](https://designevo.com/) or [OnlineLogoMaker](https://www.onlinelogomaker.com/) - Logo Creators
-* [Logo Fast](https://logofa.st/), [LogoMVP](https://logomvp.com/) or [LogoFreeway](https://logofreeway.com/logos.php) - Simple Logo Creators based on Premade Icons
-* [hatchful](https://www.shopify.com/tools/logo-maker) or [LogoMaker](https://www.namecheap.com/logo-maker/app/new/) - Generate Logos based on Project Name & Style
+* [Logo Fast](https://logofa.st/), [LogoMVP](https://logomvp.com/) or [LogoFreeway](https://logofreeway.com/logos.php) - Simple Logo Creators Based on Premade Icons
+* [hatchful](https://www.shopify.com/tools/logo-maker) or [LogoMaker](https://www.namecheap.com/logo-maker/app/new/) - Generate Logos Based on Project Name & Style
 
 ***
 
@@ -149,7 +149,7 @@
 
 * ⭐ **[Tab with A view](https://www.withaview.co/ext/)** - Virtual Sights New Tab Page
 * ⭐ **[MineWeather](https://github.com/sawyerpollard/MineWeather)** - Weather-Based Minecraft New Tab Page
-* ⭐ **[Anori](https://anori.app/)** -  Customizable New Tab
+* ⭐ **[Anori](https://anori.app/)** - Customizable New Tab
 * [TabWave](https://www.tabwave.app/) - Minimal / Productivity New Tab
 * [Tabiverse](https://pastebin.com/tApHRJDv) / [Discord](https://discord.gg/MUgRGwE)
 
@@ -201,7 +201,7 @@
 
 * ⭐ **[Cover Search Engine](https://covers.musichoarders.xyz)**
 
-[Album Art Downloader](https://sourceforge.net/projects/album-art/), [kunst](https://github.com/sdushantha/kunst), [Apple-Music-Animated-Artwork-Fetcher](https://github.com/bunnykek/Apple-Music-Animated-Artwork-Fetcher), [Classic Rock Covers](https://www.classic-rock-covers.com/), [Apple Artwork](https://artwork.thekvt.eu.org/), [albumart.digital](https://albumart.digital/), [spotifycover](https://www.spotifycover.art/)
+[Album Art Downloader](https://sourceforge.net/projects/album-art/), [kunst](https://github.com/sdushantha/kunst), [Apple-Music-Animated-Artwork-Fetcher](https://github.com/bunnykek/Apple-Music-Animated-Artwork-Fetcher), [Classic Rock Covers](https://www.classic-rock-covers.com/), [Apple Artwork](https://artwork.thekvt.eu.org/), [albumart.digital](https://albumart.digital/), [spotifycover](https://www.spotifycover.art/), [2](https://spotify-art.vercel.app/)
 
 ***
 
@@ -312,7 +312,7 @@
 * ⭐ **[Wolfram Alpha](https://www.wolframalpha.com/)** - Searchable Knowledgebase / [API Access](https://wolfreealpha.gitlab.io)
 * [EncycloReader](https://encycloreader.org/) - Encyclopedia Search
 * [Omniglot](https://www.omniglot.com/index.htm) - Writing Systems & Languages Encyclopedia
-* [Archivy](https://github.com/archivy/archivy/) - Self-hosted Wiki
+* [Archivy](https://github.com/archivy/archivy/) - Self-Hosted Wiki
 
 [Britannica](https://www.britannica.com/), [EverybodyWiki](https://en.everybodywiki.com/), [Encyclopedia](https://www.encyclopedia.com/), [NewWorldEncyclopedia](https://www.newworldencyclopedia.org/), [Citizendium](https://citizendium.org/), [Wikitia](https://wikitia.com/), [Conze.pt](https://conze.pt/), [InfoPlease](https://www.infoplease.com/), [Refdesk](https://www.refdesk.com/factency.html)
 
@@ -863,11 +863,11 @@
 * ⭐ **[List of Internet Radio Stations](https://en.wikipedia.org/wiki/List_of_Internet_radio_stations)**
 * ⭐ **[Radio Browser](https://www.radio-browser.info/users)** - Radio App / Site Index
 
-[iHeartRadio](https://www.iheart.com/), [OnlineRadioBox](https://onlineradiobox.com/), [LiveOnlineRadio](https://liveonlineradio.net/), [WebSDR](http://www.websdr.org/), [System Bus Radio](https://fulldecent.github.io/system-bus-radio/), [myTuner](https://mytuner-radio.com/), [Radio Browser](https://www.radio-browser.info/), [Zeno](https://zeno.fm/), [TuneYou](https://tuneyou.com/), [Tvradiotuner](https://tvradiotuner.com/), [Instant.audio](https://instant.audio/), [Radiodeck](https://www.radiodeck.com/), [VRadio](https://www.akouradio.com/), [WorldRadioMap](https://worldradiomap.com/), [Streema](https://streema.com/), [vTuner](https://vtuner.com/setupapp/guide/asp/BrowseStations/startpage.asp), [Radio.net](https://www.radio.net/), [TheOneStopRadio](https://theonestopradio.com/), [Radio Guide](https://www.radioguide.fm/), [Xiph](https://dir.xiph.org/), [raddio](https://raddio.net/), [WProject](https://wproject.vercel.app/)
+[iHeartRadio](https://www.iheart.com/), [BBC Radio](https://www.bbc.co.uk/sounds), [OnlineRadioBox](https://onlineradiobox.com/), [LiveOnlineRadio](https://liveonlineradio.net/), [WebSDR](http://www.websdr.org/), [System Bus Radio](https://fulldecent.github.io/system-bus-radio/), [myTuner](https://mytuner-radio.com/), [Radio Browser](https://www.radio-browser.info/), [Zeno](https://zeno.fm/), [TuneYou](https://tuneyou.com/), [Tvradiotuner](https://tvradiotuner.com/), [Instant.audio](https://instant.audio/), [Radiodeck](https://www.radiodeck.com/), [VRadio](https://www.akouradio.com/), [WorldRadioMap](https://worldradiomap.com/), [Streema](https://streema.com/), [vTuner](https://vtuner.com/setupapp/guide/asp/BrowseStations/startpage.asp), [Radio.net](https://www.radio.net/), [TheOneStopRadio](https://theonestopradio.com/), [Radio Guide](https://www.radioguide.fm/), [Xiph](https://dir.xiph.org/), [raddio](https://raddio.net/), [WProject](https://wproject.vercel.app/), [ilovemusic](https://ilovemusic.de/), [0nRadio](https://www.0nradio.com/), [1a Radio](https://www.1aradio.com/)
 
 ### Internet Radio
 
-[deep-cut.fm](https://deep-cut.fm/), [CoreRadio](https://coreradio.online/listen), [RadioParadise](https://radioparadise.com/), [IndieSHuffle](https://www.indieshuffle.com/), [You42](https://www.you42.com/), [Jango](https://www.jango.com/), [RadioTunes](https://www.radiotunes.com/), [Live365](https://live365.com/), [AccuraRadio](https://www.accuradio.com/), [Radio.dubbeh](https://radio.dubbeh.net/), [Tilderadio](https://tilderadio.org/), [AnonRadio](https://anonradio.net/), [UpBeat](https://upbeatradio.net/) / [Discord](https://upbeat.pw/discord), [Radios.yt](https://radios.yt/), [SomaFM](https://somafm.com/), [ShoutCast](https://directory.shoutcast.com/), [Internet-Radio](https://internet-radio.com/), [Radiolise](https://radiolise.gitlab.io/), [JetSetRadio](https://jetsetradio.live/) / [2](https://jetsetradiofuture.live/), [Chiru.no](https://chiru.no/), [radio.uwu](https://radio.uwu.network/), [radcap](http://radcap.ru/), [Audiophile](https://audiophile.fm/), [NTS Radio](https://www.nts.live/) / [Soundcloud](https://soundcloud.com/user-643553014) 
+[deep-cut.fm](https://deep-cut.fm/), [CoreRadio](https://coreradio.online/listen), [RadioParadise](https://radioparadise.com/), [IndieSHuffle](https://www.indieshuffle.com/), [You42](https://www.you42.com/), [Jango](https://www.jango.com/), [RadioTunes](https://www.radiotunes.com/), [Live365](https://live365.com/), [AccuraRadio](https://www.accuradio.com/), [Radio.dubbeh](https://radio.dubbeh.net/), [Tilderadio](https://tilderadio.org/), [AnonRadio](https://anonradio.net/), [UpBeat](https://upbeatradio.net/) / [Discord](https://upbeat.pw/discord), [Radios.yt](https://radios.yt/), [SomaFM](https://somafm.com/), [ShoutCast](https://directory.shoutcast.com/), [Internet-Radio](https://internet-radio.com/), [Radiolise](https://radiolise.gitlab.io/), [JetSetRadio](https://jetsetradio.live/) / [2](https://jetsetradiofuture.live/), [Chiru.no](https://chiru.no/), [radio.uwu](https://radio.uwu.network/), [radcap](http://radcap.ru/), [Audiophile](https://audiophile.fm/), [NTS Radio](https://www.nts.live/) / [SoundCloud](https://soundcloud.com/user-643553014) 
 
 ***
 
