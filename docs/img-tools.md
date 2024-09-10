@@ -378,6 +378,7 @@
 * [Mixer](https://quixel.com/mixer) - 3D Texture Creation Software
 * [The Textures Resource](https://www.textures-resource.com/) - Game Textures
 * [Trianglify.io](https://trianglify.io/) - Low-Poly Texture Generator
+* [Mossaik](https://mossaik.app/) - Generative Art / Pattern Generators
 
 ***
 
