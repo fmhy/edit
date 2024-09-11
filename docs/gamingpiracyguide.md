@@ -393,6 +393,7 @@
 * [racing-game](https://racing.pmnd.rs/) - Driving Game / [GitHub](https://github.com/pmndrs/racing-game) / [Discord](https://discord.gg/dQW7fDmaAG)
 * [The Race](https://therace.montblanclegend.com/), [2](https://therace.montblancexplorer.com/) - Driving Game
 * [slow roads](https://slowroads.io/) - Driving Game
+* [bitlife life simulation](https://bitslifeapk.com/) - Real Life Simulation Game
 * [The Multiverse](https://across-multiverse.com/) - Universe Exploration Game Across
 * [Neopets](https://www.neopets.com/), [tamaNOTchi](https://tamanotchi.world/) or [Marapets](https://www.marapets.com) - Virtual Pet Game 
 * [Gaia Online](https://www.gaiaonline.com/) - Anime Virtual Pet 
