@@ -323,7 +323,6 @@
 * [Now Playing](https://t.me/nowplaybot) - Now Playing Audio Bot
 * [ongaku](https://github.com/likeadragonmaid/Ongaku) - Display Playing Android Audio in Status
 * [Searchee Bot](https://t.me/SearcheeBot) - Telegram Channel Search Bot
-* [YTSZBot](https://t.me/YTSZBot) - YouTube Search Bot
 * [Rose](https://t.me/MissRose_bot) - Telegram Group Manager
 * [TediCross](https://github.com/TediCross/TediCross) - Telegram to Discord Bridge
 * [WatgBridge](https://github.com/akshettrj/watgbridge) - Telegram to WhatsApp Bridge
@@ -663,7 +662,7 @@
 # ► Tumblr Tools
 
 * [Tumlook](https://www.tumlook.com/), [Tumgik](https://www.tumgik.com/) or [PriviBlur](https://github.com/syeopite/priviblur) - Tumblr Frontends
-* [Pillowfort](https://www.pillowfort.social/) or [Cohost](https://cohost.org/) - Tumblr Alternatives
+* [Pillowfort](https://www.pillowfort.social/) - Tumblr Alternatives
 * [tumblr-utils](https://github.com/cebtenzzre/tumblr-utils) - Tumblr Utilities
 * [XKit](https://github.com/AprilSylph/XKit-Rewritten) - Tumblr Enhancement Extension
 * [tumbex](https://www.tumbex.com/) - Tumblr Search

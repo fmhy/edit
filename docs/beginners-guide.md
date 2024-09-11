@@ -64,9 +64,11 @@ No, don't do that. Windows Defender is more than enough to keep you safe, but if
 
 ### Browser
 
-* **[Privacy Browsers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25B7_browser_privacy)** - Privacy-Focused Browsers
+* **[Firefox](https://www.mozilla.org/en-US/firefox/new/), [2](https://www.mozilla.org/en-US/firefox/all/) / [Nightly](https://www.mozilla.org/en-US/firefox/channel/desktop/#nightly)** - Open-Source Browser
+* **[Mullvad Browser](https://mullvad.net/en/browser)** - Tor Browser Fork (without Tor network)
+* **[arkenfox](https://github.com/arkenfox/user.js)** - Firefox privacy tweak / [Video](https://youtu.be/F7-bW2y6lcI) / [GUI](https://arkenfox.github.io/gui/)
+* **[Browser Tools](https://old.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools#wiki_.25BA_browser_tools)** - Browser Tools List
 * **[Browser Extensions](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools#wiki_.25B7_browser_extensions) / [Userscripts](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools#wiki_.25B7_userscripts)** - Add features & functionality to browsers
-* **[Dark Reader](https://darkreader.org/)** - Dark mode for all sites
 * **[ReturnYoutubeDislikes](https://returnyoutubedislike.com/)** - View YouTube dislikes
 
 ***
