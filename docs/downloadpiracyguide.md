@@ -241,6 +241,7 @@
 * 🌐 **[Indexer List](https://www.reddit.com/r/usenet/wiki/indexers/)** - Indexer List
 * [/r/UsenetInvites](https://reddit.com/r/UsenetInvites)
 * [NZBHydra2](https://github.com/theotherp/nzbhydra2) - NZB Meta search
+* [SceneNZBs](https://scenenzbs.com) - Multinational Indexer (EN, DE, ES, FR, IT etc.)
 * [nzbplanet](https://nzbplanet.net/)
 * [orionoid](https://orionoid.com/)
 * [binsearch](https://binsearch.info/)
