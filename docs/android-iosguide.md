@@ -12,7 +12,7 @@
 * ⭐ **[LiteAPKs](https://liteapks.com/)** / [App](https://liteapks.com/app.html)
 * ⭐ **[4PDA](https://4pda.to/forum/)** - [App](https://github.com/slartus/4pdaClient-plus) / Use [translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)
 * ⭐ **[PDALife](https://pdalife.com/)** / [App](https://pdalife.com/pdalife-app-android-a40597.html) / [Telegram](https://t.me/pdalife_official)
-* ⭐ **[Modyolo](https://modyolo.com/)** / [Labeling Note](https://pastebin.com/dHSiTdpA)
+* ⭐ **[Modyolo](https://modyolo.com/)** / [Labeling Note](https://pastebin.com/4Kn3s4ue)
 * ⭐ **[PlatinMods](https://platinmods.com/)** - Modded Games
 * [RockMods](https://www.rockmods.net/) / Use "Alt Link" / [Telegram](https://t.me/RBMods) 
 * [Nsane Forums](https://nsaneforums.com/)
