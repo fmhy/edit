@@ -9,9 +9,9 @@
 ## ▷ Modded APKs
 
 * ⭐ **[Mobilism](https://forum.mobilism.org/viewforum.php?f=398)** / [App](https://forum.mobilism.org/app/) / [User Ranks](https://rentry.co/mobilismranks), [2](https://pastebin.com/pZuuMxYm)
-* ⭐ **[LiteAPKs](https://liteapks.com/)** / [App](https://liteapks.com/app.html)
 * ⭐ **[4PDA](https://4pda.to/forum/)** - [App](https://github.com/slartus/4pdaClient-plus) / Use [translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)
 * ⭐ **[PDALife](https://pdalife.com/)** / [App](https://pdalife.com/pdalife-app-android-a40597.html) / [Telegram](https://t.me/pdalife_official)
+* ⭐ **[LiteAPKs](https://liteapks.com/)** / [App](https://liteapks.com/app.html) / [Note](https://pastebin.com/3ebTvx0b)
 * ⭐ **[Modyolo](https://modyolo.com/)** / [Note](https://pastebin.com/3ebTvx0b)
 * ⭐ **[PlatinMods](https://platinmods.com/)** - Modded Games
 * [RockMods](https://www.rockmods.net/) / Use "Alt Link" / [Telegram](https://t.me/RBMods) 
