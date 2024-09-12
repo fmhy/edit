@@ -678,13 +678,13 @@ Linux Gaming Guide
 * [Macintosh Garden](https://macintoshgarden.org/)
 * [MacBed](https://www.macbed.com/)
 * [Pure Mac](https://www.pure-mac.com/)
-* [Macupdate](https://www.macupdate.com/)
 * [Cmacked](https://cmacked.com/)
 * [Mac Torrents](https://www.torrentmac.net/)
 * [AllMacWorlds](https://allmacworlds.com/)
 * [InsMac](https://insmac.org/)
 * [MacX](https://macx.ws/)
 * [WebCatalog](https://webcatalog.io/)
+* [Macupdate](https://www.macupdate.com/) - Freeware
 * [ThriftMac](https://thriftmac.com/) - Freeware
 * [Latest](https://github.com/mangerlahn/latest) - Software Updater
 

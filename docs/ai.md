@@ -158,7 +158,7 @@
 * [LLM](https://github.com/simonw/llm) - ChatGPT CLI
 * [Msty](https://msty.app/) - Desktop App
 * [Lobe Chat](https://chat-preview.lobehub.com) - Desktop App
-* [Noi](https://noi.nofwl.com/) - Desktop App
+* [Noi](https://noi.nofwl.com/) - Desktop App / [GitHub](https://github.com/lencx/Noi)
 * [Chatbot-UI](https://chatbotui.com) - Desktop App / [GitHub](https://github.com/mckaywrigley/chatbot-ui)
 * [ChatRTX](https://www.nvidia.com/en-us/ai-on-rtx/chatrtx/) - Desktop App / RTX 30+ Series GPU Only
 * [ChatGPT DeMod](https://github.com/4as/ChatGPT-DeMod) - Block ChatGPT Moderation Checks
