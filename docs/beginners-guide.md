@@ -8,9 +8,6 @@
 
 ### FAQ
 
-> How can I improve my privacy online?
-We'd recommend checking out privacy guides like [SSD](https://ssd.eff.org/) and [The New Oil](https://thenewoil.org/).
-
 > I don't know what seeding or *insert another term* means...
 You will find almost all terms related to piracy and more in [The Piracy Glossary](https://rentry.org/the-piracy-glossary). Didn't find what you're looking for or still confused? Reach out to us via [Discord](https://discord.gg/5W9QJKuPkD).
 
@@ -29,10 +26,14 @@ Use the tools listed [here](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/game
 > Should I install and use *insert random antivirus software* instead of using Windows Defender?
 No, don't do that. Windows Defender is more than enough to keep you safe, but if you're still set on installing a secondary AV, the only one worth installing is Malwarebytes. Please read the note [here](#antivirus).
 
-!!!warning Stay away from Avast, Norton, and McAfee, as these are "bloatware" and generally unsafe software.
+!!!warning Stay away from Avast, AVG, Avira, Norton, and McAfee, as these are "bloatware" and generally unsafe software.
 
 > How can I download an image from *insert stock image site*?
  You can use [this downloader](https://downloader.la/), and if it doesn't work you can find other stock image downloaders [here](https://fmhy.net/img-tools#stock-photos).
+
+> How do I decode base64?
+
+You can use [Base64 Decoders](https://fmhy.net/text-tools#encode-decode) or our [Auto Decode](https://greasyfork.org/en/scripts/485772) script if you're on the fmhy base64 page.
 
 ***
 
@@ -64,10 +65,10 @@ No, don't do that. Windows Defender is more than enough to keep you safe, but if
 
 ### Browser
 
-* **[Firefox](https://www.mozilla.org/en-US/firefox/new/), [2](https://www.mozilla.org/en-US/firefox/all/) / [Nightly](https://www.mozilla.org/en-US/firefox/channel/desktop/#nightly)** - Open-Source Browser
+* **[Firefox](https://www.mozilla.org/en-US/firefox/new/) - Open-Source Browser
 * **[Mullvad Browser](https://mullvad.net/en/browser)** - Tor Browser Fork (without Tor network)
 * **[arkenfox](https://github.com/arkenfox/user.js)** - Firefox privacy tweak / [Video](https://youtu.be/F7-bW2y6lcI) / [GUI](https://arkenfox.github.io/gui/)
-* **[Browser Tools](https://old.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools#wiki_.25BA_browser_tools)** - Browser Tools List
+* **[Browser Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools#wiki_.25BA_browser_tools)** - Browser Tools List
 * **[Browser Extensions](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools#wiki_.25B7_browser_extensions) / [Userscripts](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools#wiki_.25B7_userscripts)** - Add features & functionality to browsers
 * **[ReturnYoutubeDislikes](https://returnyoutubedislike.com/)** - View YouTube dislikes
 
@@ -96,15 +97,13 @@ No, don't do that. Windows Defender is more than enough to keep you safe, but if
 
 ### Privacy
 
-* **[Privacy Guides](https://www.privacyguides.org/)** - Privacy guides
+* **[Privacy Guides](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25B7_privacy_indexes)** - Educational Privacy Guides / Indexes
 * **[ProtonMail](https://proton.me/mail)** - Encrypted email service
 * **[Email Privacy](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25B7_email_privacy)** - Email privacy resources
 * **[Aegis](https://getaegis.app/) / [Ente](https://github.com/ente-io/auth/)** - 2FA to prevent logins without user authentication
 * **[Password Managers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools#wiki_.25B7_password_managers)** - Save multiple passwords
 * **[HaveIBeenPwned](https://haveibeenpwned.com/)** - Get notified when your email or phone number has been found in a data breach
 * **[VPN List](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25BA_vpn)** - VPN index
-
-!!!note Note that a VPN is not needed outside torrenting. You can avoid the need for one altogether by sticking to direct download and streaming sites.
 
 ***
 
@@ -134,10 +133,11 @@ No, don't do that. Windows Defender is more than enough to keep you safe, but if
 
 ### Torrenting
 
-!!!warning Torrenting can get you in trouble with your ISP, so make sure to use a [VPN](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25BA_vpn). Most VPNs offer a killswitch to prevent data leaks, but you should also [bind your VPN to your client](https://redd.it/ssy8vv), preventing it from connecting at all unless your VPN is on.
+!!!warning Torrenting can get you in trouble with your ISP, so make sure to use a [VPN](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25BA_vpn). Most VPNs offer a killswitch to prevent data leaks, but you should also [bind your VPN to your client](https://redd.it/ssy8vv), preventing it from connecting at all unless your VPN is on, or use remote clients.
 
-* **[qBittorrent](https://www.qbittorrent.org/) / [Transmission](https://transmissionbt.com/) / [Deluge](https://www.deluge-torrent.org/) / [Remote Torrenting](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent#wiki_.25B7_remote_torrenting)** - Torrent clients
-* **[RuTracker](https://rutracker.org/)** / [Wiki](http://rutracker.wiki/) / [Rules](https://rutracker.org/forum/viewtopic.php?t=1045) - Torrent video, audio, games, software & more / Only download from reputable users
+* **[qBittorrent](https://www.qbittorrent.org/) / [Transmission](https://transmissionbt.com/) / [Deluge](https://www.deluge-torrent.org/)** - Torrent clients
+* **[Remote Torrenting](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent#wiki_.25B7_remote_torrenting)** - Remote torrent clients
+* **[RuTracker](https://rutracker.org/)** / [Wiki](http://rutracker.wiki/) / [Rules](https://rutracker.org/forum/viewtopic.php?t=1045) - Torrent video, audio, games, software & more
 * **[FitGirl Repacks](https://fitgirl-repacks.site/)** - Trusted game repacker
 * **[Stremio](https://www.stremio.com/)** - Torrent video streaming app / [Addons](https://stremio-addons.netlify.app/)
 * **[Nyaa](https://nyaa.si/)** - Anime Torrents
