@@ -19,6 +19,7 @@
 * [Tech-Blogs](https://tech-blogs.dev/) - Blogs for Developers
 * [The Devs Network](https://thedevs.network/) - Developer Chat
 * [StackShare](https://stackshare.io/) - Tech Stack Collaboration
+* [Pico 8](https://mega.nz/folder/8XMAyQBB#4N9RRt1qoMgWRQiFPzmTgw) / [DDL](https://pastebin.com/4318bncQ)
 
 ***
 
