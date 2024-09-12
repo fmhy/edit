@@ -146,7 +146,7 @@
 
 ***
 
-## ▷ [Subtitle Tools](https://old.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video#wiki_.25BA_subtitles)
+## ▷ [Subtitle Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video#wiki_.25BA_subtitles)
 
 ***
 

@@ -574,7 +574,7 @@
 * [Muzik](https://muzik-apps.github.io/muzik-web/)
 * [TimeStetch](https://29a.ch/timestretch/) - Web-Based
 * [MusikCube](https://musikcube.com/) - Terminal-Based
-* [XMPlay](https://www.un4seen.com/) - Chiptune-Friendly
+* [XMPlay](https://www.un4seen.com/) - Module-Friendly
 * [Butterchurn Visualizer](https://butterchurnviz.com/), [MusicVid](https://musicvid.org/), [Vizzy](https://vizzy.io/) or [CatNip](https://github.com/noriah/catnip) - Audio Visualizers
 * [PartyEngine](https://aggrocrab.itch.io/partyengine) - Audio Party Visualizer
 * [NCurses++](https://github.com/ncmpcpp/ncmpcpp)
@@ -622,7 +622,7 @@
 
 ## ▷ Audio Metadata
 
-* ↪️ **[Album Artwork](https://old.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_album_art)**
+* ↪️ **[Album Artwork](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_album_art)**
 * ⭐ **[MP3Tag](https://www.mp3tag.de/en/)** - Metadata Organizer
 * [YADG](https://yadg.cc/) - Scrape Music Release Date Info / [API](https://yadg.cc/api/)
 * [beets.io](https://beets.io/) - Metadata Organizer / [Guides](https://redd.it/11iaafu)
