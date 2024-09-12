@@ -145,7 +145,7 @@
 * [AnimeZ](https://animez.org/) - Sub / 1080p
 * [AnimeHub](https://animehub.ac/) - Sub / Dub / 1080p
 * [AnimeSuge](https://animesuge.be/), [2](https://animixplay.tube) - Sub / Dub / 1080p
-* [Animixplay.fun](https://animixplay.name/) - Sub / Dub / 1080p
+* [Animixplay.name](https://animixplay.name/) - Sub / Dub / 1080p
 * [AnimeOwl](https://animeowl.live/) - Sub / Dub / 1080p / [Discord](https://discord.com/invite/xHYcvdMvZ2)
 * [123Anime](https://123animes.ru/) - Sub / Dub / 1080p
 * [Anipulse](https://www.anipulse.to/) - Sub / Dub / 1080p / [Discord](https://discord.gg/KKuCUgSHVs)
