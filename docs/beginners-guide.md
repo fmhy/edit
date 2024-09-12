@@ -65,7 +65,7 @@ You can use [Base64 Decoders](https://fmhy.net/text-tools#encode-decode) or our 
 
 ### Browser
 
-* **[Firefox](https://www.mozilla.org/en-US/firefox/new/) - Open-Source Browser
+* **[Firefox](https://www.mozilla.org/en-US/firefox/new/)** - Open-Source Browser
 * **[Mullvad Browser](https://mullvad.net/en/browser)** - Tor Browser Fork (without Tor network)
 * **[arkenfox](https://github.com/arkenfox/user.js)** - Firefox privacy tweak / [Video](https://youtu.be/F7-bW2y6lcI) / [GUI](https://arkenfox.github.io/gui/)
 * **[Browser Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools#wiki_.25BA_browser_tools)** - Browser Tools List
