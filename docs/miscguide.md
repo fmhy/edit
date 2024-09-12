@@ -76,7 +76,7 @@
 * [TemporarilyFreeGames](https://t.me/temporarilyfreegames) - Games
 * [GamePower](https://www.gamerpower.com/) - Games
 * [ClaimFreeGames](https://claimfreegames.com/) - Games
-* [GrabFreeGames](https://grabfreegames.com/) - Games
+* [GrabFreeGames](https://grabfreegames.com/) - Games / [Steam Group](https://steamcommunity.com/groups/GrabFreeGames) / [Discord](https://discord.gg/CjQSS4z)
 * [Epic Games Free](https://www.epicgames.com/store/en-US/free-games), [egsnotifier_bot](https://t.me/egsnotifier_bot) or [Epic Free Games](https://t.me/epicfreegames) - Free Epic Games
 * [EpicFreeGamesList](https://josephmate.github.io/EpicFreeGamesList/) - Epic Free Games List
 * [Steam Mods](https://store.steampowered.com/search/?maxprice=free&category1=997) - Steam Mods
