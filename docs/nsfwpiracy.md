@@ -570,7 +570,6 @@
 * [BLCollection](https://blcollection.co/) - Boys Love Manga
 * [Nifty](https://www.nifty.org/nifty/) - LGBT / Fictional
 * [FictionMania](https://fictionmania.tv/) - Transgender / Fictional
-* [MrDickName](https://t.me/MrDickName) - Telegram Channel
 * [TransVids](https://transvids.wtf/) - OnlyFans / Patreon
 
 ***

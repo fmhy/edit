@@ -289,6 +289,7 @@ Linux Gaming Guide
 * [steam-tui](https://github.com/dmadisetti/steam-tui) - Rust TUI for Steam
 * [steam-cli](https://github.com/berenm/steam-cli) - CLI for Steam
 * [Luxtorpeda](https://github.com/luxtorpeda-dev/luxtorpeda) or [Boxtron](https://github.com/dreamer/boxtron) - Run Steam Games on Linux
+* [BlueComet](https://cs.rin.ru/forum/viewtopic.php?f=20&t=142413&hilit=bluecomet) - Offline Steam DRM Bypass / DLC Unlocker
 * [RetroDECK](https://retrodeck.net/) - Emulator for Steam Deck
 * [CryoUtilities](https://github.com/CryoByte33/steam-deck-utilities) - Steam Deck Utilities
 * [GameScope](https://github.com/ValveSoftware/gamescope) - Steam Session Compositing Window Manager
@@ -677,6 +678,7 @@ Linux Gaming Guide
 * [AppsTorrent](https://appstorrent.ru/) / [Note](https://pastebin.com/dNirumnk)
 * [Macintosh Garden](https://macintoshgarden.org/)
 * [MacBed](https://www.macbed.com/)
+* [nMac](https://nmac.to/)
 * [Pure Mac](https://www.pure-mac.com/)
 * [Cmacked](https://cmacked.com/)
 * [Mac Torrents](https://www.torrentmac.net/)

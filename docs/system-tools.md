@@ -201,7 +201,7 @@
 * ⭐ **[PSU Calculator](https://www.newegg.com/tools/power-supply-calculator/)** or [Power Supply Calculator](https://outervision.com/power-supply-calculator) - Find Compatible Power Supplies
 * [DeviceTests](https://devicetests.com/) - Multiple Device Tests
 * [NotCPUCores](https://github.com/rcmaehl/NotCPUCores), [ParkControl](https://bitsum.com/parkcontrol/), [QuickCPU](https://coderbag.com/product/quickcpu) or [Process Lasso](https://bitsum.com/) - CPU Optimizer
-* [Ozone3D](https://www.ozone3d.net/index_softwares.php) - System Benchmarking
+* [Ozone3D](https://www.ozone3d.net/index_softwares.php) or [OCCT](https://www.ocbase.com/occt/personal ) - System Benchmarking
 * [Testmem5](https://www.overclock.net/threads/memory-testing-with-testmem5-tm5-with-custom-configs.1751608/) - Memory Benchmarking
 * [SDIO](https://glenn.delahoy.com/snappy-driver-installer-origin), [Drivers Collection](https://driverscollection.com/), [Driverscape](https://www.driverscape.com/) or [DriverStoreExplorer](https://github.com/lostindark/DriverStoreExplorer) - Update / Install Missing Drivers
 * [VOGONS](https://www.vogons.org/) - Vintage Computer Hardware Forum
@@ -422,7 +422,6 @@
 * [RetroBar](https://github.com/dremin/RetroBar) - Retro Classic Taskbars
 * [StartIsBack](https://www.startisback.com/) or [StartAllBack](https://www.startallback.com/) - Restore Classic Start Menu in Win 10/11 / [Unlock](https://rentry.co/FMHYBase64#start-back)
 * [Win98Icons](https://win98icons.alexmeub.com/) - Classic Win98 Icons
-* [7tsp-Icon-themes](https://github.com/niivu/7tsp-Icon-themes) - Custmon Icon Themes
 * [Modern Flyouts](https://apps.microsoft.com/store/detail/modernflyouts-preview/9MT60QV066RP) - Modern Context Menus / [GitHub](https://github.com/ModernFlyouts-Community/ModernFlyouts)
 * [ModernWinver](https://github.com/torchgm/NewModernWinver) or [WinverUWP](https://github.com/dongle-the-gadget/WinverUWP) - Modern Windows About Page
 

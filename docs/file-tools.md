@@ -296,9 +296,9 @@
 * ⭐ **[ToffeeShare](https://toffeeshare.com/)**
 * ⭐ **[Blaze](https://blaze.vercel.app/)** / [GitHub](https://github.com/blenderskool/blaze)
 * ⭐ **[LocalSend](https://localsend.org/)** - Phone / Desktop Transfer / [Discord](https://discord.com/invite/GSRWmQNP87) / [GitHub](https://github.com/localsend/localsend)
-* ⭐ **[wormhole](https://wormhole.app/)**
 * ⭐ **[justbeamit](https://justbeamit.com/)**
 * ⭐ **[spacedrop](https://spacedrop.app/)**
+* [wormhole](https://wormhole.app/)
 * [KDEConnect](https://kdeconnect.kde.org/)
 * [Warpinator](https://github.com/linuxmint/warpinator) - Phone / Desktop Transfer
 * [QRServ](https://play.google.com/store/apps/details?id=dev.uint.qrserv) - Phone / Desktop Transfer / [GitHub](https://github.com/uintdev/qrserv)

@@ -225,6 +225,7 @@
 * [qianyege.com](https://www.qianyege.com/) - Fiction
 * [haodoo](https://haodoo.net/) - Fiction
 * [shuhai](https://www.shuhai.vip/) - Fiction
+* [24hbook](https://24hbook.com/) - Fiction / Non-fiction / [Telegram](https://t.me/hi24hbook)
 * [xxbiqudu](https://www.xxbiqudu.com/) - Fiction
 * [lingjingxingzhe](https://lingjingxingzhe.com/) - Fiction
 * [guoxuedashi.net](https://www.guoxuedashi.net/) - Fiction / Non-fiction
@@ -500,7 +501,7 @@
 
 * [Walla VODs](https://vod.walla.co.il/) - Movies / TV
 * [JFC](https://jfc.org.il/) - Israel Movie Archive
-* [Animeil-TV](https://www.animeil-tv.com/) - Anime / [Telegram](https://t.me/AnimeILTVDiscussion)
+* [Animeil-TV](https://www.animeil-tv.com/) - Anime
 * [GURUTV](https://gurutv.online/) - Live TV
 * [israelTV](https://israeltv.online/) - Live TV
 
@@ -538,7 +539,7 @@
 * ⭐ **[MkvCinemas](https://mkvcinemas.cat/)** - Movies / TV / Anime / Sub / Dub / 1080p / 4K / [Telegram](https://t.me/+WzLYNDSawQk1MTk1)
 * ⭐ **[MoviesMod](https://moviesmod.life/)** - Movies / TV / Sub / Dub / 1080p / [Telegram](https://telegram.dog/moviesmodorg) / [Bypass](https://greasyfork.org/en/scripts/474747)
 * ⭐ **[SD Toons](https://sdtoons.in)** - Movies / TV / Anime / 1080p
-* ⭐ **[AToZ Cartoonist](https://atozcartoonist.me/)** - Cartoons / Anime / Sub / Dub / 1080p / [Discord](https://discord.com/invite/EpQn49C4jX) / [Link Bypasser](https://greasyfork.org/en/scripts/484907)
+* ⭐ **[AToZ Cartoonist](https://atozcartoonist.me/)** - Cartoons / Anime / Sub / Dub / 1080p / [Link Bypasser](https://greasyfork.org/en/scripts/484907) / [Discord](https://discord.com/invite/ZUW8yzDutd)
 * ⭐ **[ToonsHub](https://www.toonshub.xyz/)** - Anime / Dub / 1080p / [Telegram](https://t.me/s/toonshubupdates) / [Discord](https://discord.com/invite/2mPFKykW4j)
 * ⭐ **[Free Lossless Desi Music](https://hindi-lossless.blogspot.com/)** - Music / FLAC
 * [Mallumv](https://mallumv.bond/) - Movies / Sub / Dub / 1080p / [Telegram](https://t.me/MalluMvoff)
@@ -1028,7 +1029,7 @@
 * [Filmes Online HD](https://www.filmesonlinehdgratis.com.br) - Movies / TV / Sub / 720p
 * [99](https://www.99.media/pt/) - Documentaries / Sub / 1080p
 * [Libreflix](https://libreflix.org) - Portuguese TV / Documentaries / 720p
-* [AnimeKage](https://ak631.animekage.com/) - Anime / Sub / 1080p / [Discord](https://discord.com/invite/t5TkBWc)
+* [AnimeKage](https://ak631.animekage.com/) - Anime / Sub / 1080p
 * [NewZect](https://newzect.com) - Asian Drama / Sub / 720p
 * [NetMovies](https://www.netmovies.com.br) - Movies / TV / Requires Login
 * [Bombozila](https://bombozila.com) - Movies / TV / Requires Login
@@ -1407,7 +1408,6 @@
 * [Japan Paw!](https://japan-paw.net/) - Anime / Sub / [Bypass](https://greasyfork.org/en/scripts/485015)
 * [Fukou-Da!](https://fukou-da.net/) - Anime / Sub / Light Novels
 * [Animes480pFinalizados](https://t.me/Animes480pFinalizados) - Anime / Telegram
-* [animes_kawais](https://t.me/animes_kawais) - Anime / Telegram
 * [animesfinalizadoLSHD](https://t.me/animesfinalizadoLSHD) - Anime / Telegram
 * [N+2](https://nmasmas2.blogspot.com/) - Animated Movies / Cartoons
 * [Niroqui](https://niroqui.com/) - Courses
@@ -1507,7 +1507,6 @@
 ## ▷ Reading / Leer
 
 * ⭐ **[Spanish Reading CSE](https://cse.google.com/cse?cx=85e4a562f2abf40f6)** / [SMAGX](https://smagx.com/) - Multi-Site Book Search
-* [libronube](https://www.libronube.com/) - Books
 * [eBiblioteca](https://ebiblioteca.org/) - Books
 * [ePub Gratis](https://www.epubgratis.info/) - Books
 * [LectuEpub](https://lectuepub2.com/) - Books

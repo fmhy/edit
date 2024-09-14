@@ -195,7 +195,7 @@
 * 🌐 **[Transformer Models Timeline](https://ai.v-gar.de/ml/transformer/timeline/)** - LLM Timeline
 * 🌐 **[LifeArchitect](https://lifearchitect.ai/models-table/)** - LLM Index
 * 🌐 **[FutureTools](https://www.futuretools.io/?pricing-model=free)** - AI Directory
-* [perchance](https://perchance.org/generators) or [WebSim](https://websim.ai/) / [Discord](https://discord.gg/websim) - Simple AI Builders
+* [perchance](https://perchance.org/generators), [GeneratorFun](https://generatorfun.com/) or [WebSim](https://websim.ai/) / [Discord](https://discord.gg/websim) - Simple AI Builders
 * [YP for AI](https://www.ypforai.com) - AI Directory
 * [Awesome AI Tools](https://github.com/mahseema/awesome-ai-tools) - AI Directory
 * [It's Better With AI](https://itsbetterwithai.com/) - AI Directory
@@ -244,7 +244,7 @@
 * [text-to-video](https://text-to-video.vercel.app) - Video Generator
 * [LensGo](https://lensgo.ai/) - Video Generator
 * [Pika Labs](https://www.pika.art/) - Video Generator
-* [Hailuo AI](https://hailuoai.com/video) - Video Generator / Use Translator / [Discord](https://discord.com/invite/UnKWaS2Z)
+* [Hailuo AI](https://hailuoai.com/video) - Video Generator / Use Translator / [Discord](https://discord.com/invite/hvvt8hAye6)
 * [Damo](https://huggingface.co/spaces/damo-vilab/modelscope-text-to-video-synthesis) - Video Generator
 * [Rollideo](https://rollideo.com/) - Text to Subbed Video
 
