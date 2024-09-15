@@ -614,7 +614,6 @@
 * [Music Player Daemon](https://www.musicpd.org/)
 * [Navidrome](https://www.navidrome.org/)
 * [Polaris](https://github.com/agersant/polaris)
-* [Black Candy](https://github.com/blackcandy-org/black_candy)
 * [Gonic](https://github.com/sentriz/gonic)
 * [SynchronousAudioRouter](https://github.com/eiz/SynchronousAudioRouter)
 * [Ampache](https://ampache.org/)
