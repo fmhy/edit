@@ -221,7 +221,7 @@
 * [Sift RSS](https://siftrss.com/) - RSS Feed Filters
 * [Spinner](https://spinner.fullcontentrss.com/) - RSS Article Rewriter
 * [Want My RSS](https://github.com/Reeywhaar/want-my-rss) - Restores Firefox RSS Features
-* [RSS.app](https://rss.app/) - RSS Search
+* [RSS.app](https://rss.app/) or [Feedle](https://feedle.world/) - RSS Feed Search
 * [Kill the Newsletter](https://kill-the-newsletter.com/) - Convert Email Newsletters into Atom Feeds
 
 ***
@@ -246,7 +246,7 @@
 * [Search My Site](https://searchmysite.net/) - Search Engine for Independent and Personal websites / Open Source
 * [Intelligence X](https://intelx.io/tools) or [Aware-Online](https://www.aware-online.com/en/osint-tools/) - Multiple Search Tools
 * [Marginalia Search](https://search.marginalia.nu/) - Text-Based Search Engine
-* [TheOldNet](https://theoldnet.com/) - Retro Search Engine
+* [TheOldNet](https://theoldnet.com/) or [oldavista](https://www.oldavista.com/) - Retro Search Engines
 * [LumenDatabase](https://lumendatabase.org/) - Search DMCA Takedown Requests
 * [Refseek](https://www.refseek.com/) - Academic Search Engine
 * [Sources.com](https://www.sources.com/) - Journalism Source Search
@@ -280,8 +280,8 @@
 * ↪️ **[AI Search Engines](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/ai#wiki_.25B7_ai_search_engines)**
 * ↪️ **[Privacy Search Engines](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25B7_search_engines)**
 * ⭐ **[Yandex](https://yandex.com/)**
-* ⭐ **[Ecosia](https://www.ecosia.org/)** / [Firefox](https://addons.mozilla.org/en-US/firefox/addon/ecosia-the-green-search/) / [Chrome](https://chromewebstore.google.com/detail/ecosia-the-search-engine/eedlgdlajadkbbjoobobefphmfkcchfk)
 * [OceanHero](https://oceanhero.today/) - Save the Ocean via Search
+* [Ecosia](https://www.ecosia.org/) / [Firefox](https://addons.mozilla.org/en-US/firefox/addon/ecosia-the-green-search/) / [Chrome](https://chromewebstore.google.com/detail/ecosia-the-search-engine/eedlgdlajadkbbjoobobefphmfkcchfk)
 * [Leta](https://leta.mullvad.net) - Mullvad VPN Required
 * [Presearch](https://presearch.com/) / [GitHub](https://github.com/presearchofficial)
 * [ZincSearch](https://zincsearch-docs.zinc.dev/) / [GitHub](https://github.com/zincsearch/zincsearch)
@@ -293,6 +293,7 @@
 * [Andi](https://andisearch.com/)
 * [Carrot2](https://search.carrot2.org/#/web)
 * [Yahoo](https://www.yahoo.com/)
+* [Stract](https://stract.com/) / [GitHub](https://github.com/StractOrg/stract)
 * [AOL](https://search.aol.com/)
 * [All the Internet](https://www.alltheinternet.com/)
 * [eTools.ch](https://www.etools.ch/)
@@ -338,7 +339,6 @@
 ## ▷ Google Search Tools
 
 * [Mastering Google Search Operators](https://moz.com/blog/mastering-google-search-operators-in-67-steps), [2](https://ahrefs.com/blog/google-advanced-search-operators/), [3](https://moz.com/learn/seo/search-operators), [4](https://seranking.com/ru/blog/operatory-poiska-google/) - Google Search Operator Resources
-* [Search Tweaks](https://searchtweaks.com/) - Google Search Tools
 * [ISearchFrom](http://isearchfrom.com/) - Change Location / Device for Google Search
 * [goosh](https://goosh.org/) - Simple Google Web Client
 * [Google Trends](https://trends.google.com/trends/) - Google Search Trends
@@ -592,6 +592,7 @@
 
 * 🌐 **[Desktop Web Browsers](https://github.com/nerdyslacker/desktop-web-browsers)** - Desktop Browser Index
 * 🌐 **[Browser Comparisons](https://privacytests.org/)** or [ATH Comparisons](https://avoidthehack.com/util/browser-comparison) - Compare Popular Browsers
+* 🌐 **[Awesome Web Desktops](https://github.com/syxanash/awesome-web-desktops)** - OS Emulators
 * ↪️ **[Privacy Browsers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25B7_browser_privacy)**
 * ⭐ **[BrowserBench](https://browserbench.org/)** or [WPT](https://wpt.fyi) - Browser Benchmark Tests
 * ⭐ **[WhatTrainIsItNow?](https://whattrainisitnow.com/)** - Track Firefox Releases

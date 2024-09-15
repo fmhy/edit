@@ -732,7 +732,7 @@
 * [/r/WorkOnline](https://www.reddit.com/r/WorkOnline/) - Online Working Subreddit
 * [/r/freelance](https://www.reddit.com/r/freelance/) - Freelance Subreddit
 * [MTurk](https://www.mturk.com/) - Online Task Work
-* [NoCummute](https://nocommute.substack.com/) - Remote Job Notifications
+* [NoCummute](https://www.nocommutejob.com/) - Remote Job Notifications
 * [WeNomad](https://wenomad.so/) or [Nomad List](https://nomadlist.com/) - Remote Work Ratings
 * [Jobspresso](https://jobspresso.co/) - Remote Jobs
 * [Remote Jobs](https://remotejobs.com/) - Remote Jobs
@@ -1238,6 +1238,7 @@
 * [Zoomquilt](https://www.zoomquilt.org/) / [2](https://zoomquilt2.com/), [Infinite Zoom](https://infinitezoom.net/) or [Arkadia](https://arkadia.xyz/) - Infinite Zooming Paintings
 * [Blue Ball Machine 2](https://blueballmachine2.ytmnd.com/) - Full Page Chain Reaction Image
 * [Magnet Poetry](https://goblin-heart.net/sadgrl/magnet-poetry/) - Magnet Poetry
+* [YourNameInLandsat](https://landsat.gsfc.nasa.gov/apps/YourNameInLandsat-main/) - Spell Anything via Satellite Images
 * [Useless Certifications](https://uselesscertifications.com/) - Useless Certifications
 * [Anime Girls Holding Programming Books](https://cat-milk.github.io/Anime-Girls-Holding-Programming-Books/)
 * [webgbcam](https://maple.pet/webgbcam/) - Game Boy Camera in Browser
@@ -1320,8 +1321,10 @@
 * [Pixactly](https://pixact.ly/) - Pixel Size Drawing Challenge
 * [Plink](https://plink.in/) / [2](http://dinahmoelabs.com/plink/) - Multiplayer Music Maker
 * [Typatone](https://www.typatone.com/) - Play Music by Typing
+* [Blossom](https://blossom.alexbainter.com/) - Create Sounds via Clicks
 * [Drawing Garden](https://drawing.garden/) - Create Sounds via Mouse Movement
 * [Fractal Sound Explorer](https://codeparade.itch.io/fractal-sound-explorer) - Create Sounds via Fractals
+* [Corruption Loops](https://corruptionloops.alexbainter.com/) - Generative Unique Ambient Music
 * [typedrummer](http://typedrummer.com/) - Drum by Typing
 * [Soundscape](https://soundscape.world/) - Beat Builder / Visualizer
 * [MikuTap](https://aidn.jp/mikutap/) - Click to Make Sounds / Graphics
