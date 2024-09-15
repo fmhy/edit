@@ -557,6 +557,7 @@
 * [ASAK](https://github.com/chaosprint/asak) - Audio Recording
 * [Cleanfeed](https://cleanfeed.net/) - Live Audio Recording
 * [X-Minus](https://x-minus.pro/) or [karaoke-maker](https://humtools.com/karaoke-maker/) - Create Karaoke Songs
+* [mixtape garden](https://mixtapegarden.com/) - Create Mixtapes
 * [VB Cables](https://rentry.co/FMHYBase64#vb-cables) - Virtual Audio Cables
 * [Librescore Downloader](https://github.com/LibreScore/dl-librescore) - Librescore Downloader
 
