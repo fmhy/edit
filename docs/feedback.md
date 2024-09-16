@@ -31,6 +31,8 @@ Anonymous comments, taken from reddit, discord, twitter, and our feedback system
 
 * *"Literally, when I need something, all I need to do is check here first! thank you for being here, for being access to everyone and anyone, I really really appreciate it!"*
 
+* *"Me and my friends call your site the keys to the internet, its kinda amazing."*
+
 * *"Great site! It's so useful, I now know about a lot more apps and such. Definitely made my life easier!"*
 
 * *"I want to express my sincere appreciation for the wiki of useful resources. It has proven to be an invaluable source of information, providing a wide range of knowledge on various topics. The well-organized and comprehensive nature of the wiki has been instrumental in aiding my research and learning. I am truly grateful for the effort and dedication that has gone into curating and maintaining such a valuable repository of knowledge. Thank you for this exceptional resource."*
