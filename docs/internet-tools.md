@@ -47,7 +47,7 @@
 * ↪️ **[Password Privacy / 2FA](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25B7_password_privacy_.2F_2fa)**
 * ⭐ **[KeePass](https://keepass.info/)** or **[KeePassXC](https://keepassxc.org/)** - [Ports](https://keepass.info/download.html) / [Plugins](https://keepass.info/plugins.html) / [Read-Only Functionality](https://subdavis.com/Tusk/) / [CLI](https://github.com/rebkwok/kpcli)
 * ⭐ **[Bitwarden](https://bitwarden.com/)**
-* [Proton Pass](https://proton.me/pass)
+* ⭐ **[Proton Pass](https://proton.me/pass)**
 * [Pashword](https://pashword.app/)
 * [LessPass](https://lesspass.com/)
 * [Buttercup](https://buttercup.pw/)
@@ -139,6 +139,7 @@
 * [Campsite.bio](https://campsite.bio/)
 * [Taplink](https://taplink.at/)
 * [Lynk](https://lynk.id/)
+* [Bento](https://bento.me/)
 * [ammo.lol](https://ammo.lol/)
 * [Linkezo](https://linkezo.com/)
 * [Hipolink](https://hipolink.net/)

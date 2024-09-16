@@ -44,6 +44,7 @@
 * [AnimeTak](https://animetak.top/) - Anime / Sub / 1080p
 * [witanime](https://witanime.cyou/) - Anime / Sub / 1080p
 * [animeblkom](https://animeblkom.net/) - Anime / Sub / 1080p
+* [okanime](https://okanime.tv/) - Anime / Sub / 1080p
 * [xsAnime](https://xsaniime.com/) - Anime / Sub / 1080p
 * [anime4up](https://anime4up.cam/) - Anime / Sub / 1080p
 * [Animerco](https://animerco.org/) - Anime / Sub / 1080p
@@ -240,6 +241,7 @@
 * [qqszz](https://www.qqszz.net/) - Books / Light-Novels / Requires Sign-Up
 * [lightnovel.us](https://www.lightnovel.us/) - Light-Novels
 * [beqege](https://www.beqege.cc/) - Light-Novels
+* [jpxs123.cc](https://jpxs123.cc/) - Light-Novels / Use Adblock
 * [Zongheng](https://www.zongheng.com/) - Light-Novels
 * [Bixiange](https://www.bixiange.top/) - Light-Novels
 * [qinkan](https://www.qinkan.net/) - Light-Novels
@@ -254,6 +256,8 @@
 * [manhuagui](https://www.manhuagui.com/) - Manga
 * [happymh.com/](https://happymh.com/) - Manga
 * [DMZJ](https://www.idmzj.com/) - Manga
+* [baozimh](https://baozimh.one/) - Manhua
+* [acgn.cc](https://comic.acgn.cc/) - Manga
 * [Laimanhua](https://www.laimanhua8.com/) - Manga
 * [Mangabz](https://www.mangabz.com/) - Manga
 * [Baozimh](https://baozimh.org/) - Manga / Manhua / Manhwa

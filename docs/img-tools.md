@@ -109,7 +109,6 @@
 * ↪️ **[Image Converters](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_image_converters)**
 * ↪️ **[Image Resizing](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_image_resizing)**
 * ⭐ **[ImageMagick](https://imagemagick.org/index.php)** - Image Optimization / [Scripts](https://www.fmwconcepts.com/imagemagick/index.php)
-* ⭐ **[Pingo](https://css-ig.net/pingo)** - Image Optimization / [GUI](https://css-ig.net/pinga)
 * [Croppola](https://croppola.com/), [AutoCropper](https://www.autocropper.io/), [Bulk Image Crop](https://bulkimagecrop.com/) or [Avatar Cropper](https://avatarcropper.com/) - Cropping Tools
 * [RIOT](https://riot-optimizer.com/) - Image Optimization
 * [YOGA](https://yoga.flozz.org/) - Image Optimization
