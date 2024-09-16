@@ -64,6 +64,11 @@
 * [hijala](https://www.hijala.com/) - Manga / [Discord](https://discord.com/invite/sGTBCDeE2J)
 * [Aldiwan](https://www.aldiwan.net/) - Poems / [Telegram](https://t.me/AldiwanNet)
 
+## ▷ Dictionaries / قواميس
+
+* [Almaany](https://www.almaany.com/) - Arabic multilingual dictionary
+* [Mo3jam](https://ar.mo3jam.com) - Arabic colloquial/Slang dictionary
+
 ***
 
 # ► Bangla / বাংলা
