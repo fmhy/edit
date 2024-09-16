@@ -224,7 +224,7 @@
 
 * ⭐ **[lucida](https://lucida.to/)**, [2](https://lucida.su/) - Multi-Site / 320kb / MP3 / FLAC / [Telegram](https://t.me/lucidahasmusic) / [Discord](https://discord.gg/5EEexMqVuE)
 * ⭐ **[DoubleDouble](https://doubledouble.top/)** - [Multi-Site](https://pastebin.com/dPT8aE0R) / 320kb / MP3 / FLAC / [Telegram](https://t.me/+AuKfQGOOLrFlOTZk) / [Important Note](https://rentry.co/LucidaDoubleDouble)
-* ⭐ **[deezer.squid](https://deezer.squid.wtf )** or [qobuz.squid](https://qobuz.squid.wtf/) - Deezer / Qobuz / FLAC / [Discord](https://discord.gg/ATjPbzR) 
+* ⭐ **[deezer.squid](https://deezer.squid.wtf/)** or [qobuz.squid](https://qobuz.squid.wtf/) - Deezer / Qobuz / FLAC / [Discord](https://discord.gg/ATjPbzR) 
 * ⭐ **[yet another music server](https://yams.tf/)** - Deezer / Tidal / Qobuz / Spotify / FLAC
 * ⭐ **[MP3 Daddy](https://mp3-daddy.com/)** - Deezer / 320kb / MP3 / FLAC
 * ⭐ **[cobalt](https://cobalt.tools/)** - YouTube / 320kb / MP3 / Ad-Free / [Instances](https://instances.hyper.lol/)
