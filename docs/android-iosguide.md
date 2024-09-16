@@ -200,7 +200,8 @@
 * [Paperize](https://github.com/Anthonyy232/Paperize) - Wallpapers
 * [Backdrops](https://www.backdrops.io/) - Wallpapers
 * [Phonetones](http://onj3.andrelouis.com/phonetones/) or [RingtoneRobot](https://t.me/RingtoneRobot) - Ringtones Directories
-* [Panels](https://play.google.com/store/apps/details?id=com.fossor.panels&hl=en_US&gl=QA) - Android Sidebar Panel
+* [Panels](https://play.google.com/store/apps/details?id=com.fossor.panels&hl=en_US&gl=QA) - Android Sidebar Panel / [Premium](https://forum.mobilism.org/search.php?keywords=Panels&sr=topics&sf=titleonly)
+* [Smart Dock](https://f-droid.org/packages/cu.axel.smartdock/) - Desktop mode App Launcher / [GitHub](https://github.com/axel358/smartdock)
 * [Statusbar Icon Hider](https://play.google.com/store/apps/details?id=com.cooliehat.statusbariconhider) - Hide Status Bar Items
 * [Candybar](https://github.com/zixpo/candybar), [Arcticons](https://arcticons.com/) or [Iconeration](https://f-droid.org/packages/com.kaanelloed.iconeration/) - Custom Icon Packs
 * [Giga Icon](https://play.google.com/store/apps/details?id=it.mirko.gigaicon&hl=en_IN&gl=US) - Make Icons Bigger
