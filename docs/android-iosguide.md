@@ -94,6 +94,7 @@
 * ⭐ **[Lawnchair](https://lawnchair.app/)** - Pixel-Based Launcher / [Feed](https://github.com/LawnchairLauncher/lawnfeed/releases/download/v3.0.0/Lawnfeed.3.apk) / [Icons](https://github.com/LawnchairLauncher/lawnicons/releases/download/v2.5.0/Lawnicons-2.5.0.apk) / [Telegram](https://t.me/lawnchairci)
 * ⭐ **[Niagara Launcher](https://niagaralauncher.app/)** - Single-Hand Launcher / [Telegram](https://t.me/niagara_news)
 * ⭐ **[SmartLauncher](https://www.smartlauncher.net/)** - Customizable Launcher / [Telegram](https://t.me/smartlauncher)
+* [Smart Dock](https://f-droid.org/packages/cu.axel.smartdock/) - Desktop App Launcher / [GitHub](https://github.com/axel358/smartdock)
 * [KISS](https://kisslauncher.com/) or [TBLauncher](https://tbog.github.io/TBLauncher/) - Low-Memory Usage Launcher
 * [Kvaesitso](https://kvaesitso.mm20.de/) - Search-Focused Launcher
 * [Discreet Launcher](https://vincent-falzon.com/) - Minimalist / Clean Launcher
@@ -200,7 +201,7 @@
 * [Paperize](https://github.com/Anthonyy232/Paperize) - Wallpapers
 * [Backdrops](https://www.backdrops.io/) - Wallpapers
 * [Phonetones](http://onj3.andrelouis.com/phonetones/) or [RingtoneRobot](https://t.me/RingtoneRobot) - Ringtones Directories
-* [Panels](https://play.google.com/store/apps/details?id=com.fossor.panels&hl=en_US&gl=QA) - Android Sidebar Panel
+* [Panels](https://play.google.com/store/apps/details?id=com.fossor.panels&hl=en_US&gl=QA) - Android Sidebar Panel / [Unlock](https://rentry.co/FMHYBase64#panels)
 * [Statusbar Icon Hider](https://play.google.com/store/apps/details?id=com.cooliehat.statusbariconhider) - Hide Status Bar Items
 * [Candybar](https://github.com/zixpo/candybar), [Arcticons](https://arcticons.com/) or [Iconeration](https://f-droid.org/packages/com.kaanelloed.iconeration/) - Custom Icon Packs
 * [Giga Icon](https://play.google.com/store/apps/details?id=it.mirko.gigaicon&hl=en_IN&gl=US) - Make Icons Bigger
