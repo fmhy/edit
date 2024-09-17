@@ -12,11 +12,11 @@
 
 Piracy sites usually contain ads, some of which can be harmful, often leading to unwanted pages or fake download buttons. Real download buttons are usually small, and match the sites design, while fake ones are often big and eye-catching. It can be hard to tell them apart, so its important to always have an adblocker.
 
-For browsers we recommend **[uBlock Origin](https://github.com/gorhill/uBlock#installation)** , and you can also use a **[Redirect Skipper](https://fmhy.net/adblockvpnguide#redirect-bypass)** to skip annoying countdowns. 
+For browsers we recommend **[uBO](https://github.com/gorhill/uBlock#installation)** , and you can also use a **[Redirect Skipper](https://fmhy.net/adblockvpnguide#redirect-bypass)** to skip annoying countdowns. 
 
 For mobile **[AdGuard Premium](https://rentry.co/FMHYBase64#adguard-premium)** / [iOS](https://rentry.co/FMHYBase64#adguard-pro-ios), and you can block YouTube, Reddit, and Twitter ads with **[ReVanced Manager](https://github.com/revanced/revanced-manager)**.
 
-!!!note Using several ad blockers, like uBlock and Adblock Plus at the same time can [mess things up](https://twitter.com/gorhill/status/1033706103782170625). This only happens with regular ad blockers, so it’s perfectly okay to use uBlock alongside something like SponsorBlock.
+!!!note Using several ad blockers, like uBO and Adblock Plus at the same time can [mess things up](https://twitter.com/gorhill/status/1033706103782170625). This only happens with regular ad blockers, so it’s perfectly okay to use uBO alongside something like SponsorBlock.
 
 ***
 
