@@ -398,7 +398,7 @@
 * ⭐ **uBlock Origin** - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/) / [Chromium](https://chromewebstore.google.com/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm)
 * ⭐ **[Cromite](https://github.com/uazo/cromite)** or [jQuarks](https://f-droid.org/packages/com.oF2pks.jquarks/) - Adblocking Browsers / [Filter](https://github.com/xarantolus/filtrite) / [Adblock Scripts](https://userscripts.010.one/)
 * ⭐ **[RedReader](https://github.com/QuantumBadger/RedReader)** or [Stealth](https://f-droid.org/packages/com.cosmos.unreddit/) / [2](https://gitlab.com/cosmosapps/stealth) - Ad-Free Reddit Clients
-* ⭐ **[Hermit](https://play.google.com/store/apps/details?id=com.chimbori.hermitcrab)** or [Incognito](https://play.google.com/store/apps/details?id=md.elway.webapp) - Web App Containers
+* ⭐ **[Hermit](https://rentry.co/FMHYBase64#hermit)** / [2](https://play.google.com/store/apps/details?id=com.chimbori.hermitcrab) or [Incognito](https://play.google.com/store/apps/details?id=md.elway.webapp) - Web App Containers
 * ⭐ **[Rethink DNS](https://rethinkdns.com/app)** / [Blocklists](https://rethinkdns.com/app#blocklists), [personalDNSfilter](https://www.zenz-solutions.de/personaldnsfilter-wp/) / [F-Droid](https://f-droid.org/packages/dnsfilter.android), [DNSWarden](https://dnswarden.com/) / [GitHub](https://github.com/bhanupratapys/dnswarden) or [Pi-hole](https://github.com/DesktopECHO/Pi-hole-for-Android) - DNS Adblockers
 * [AdAway](https://adaway.org/) - Adblocking App / [GitHub](https://github.com/AdAway/AdAway)
 * [PrivateDNSAndroid](https://github.com/karasevm/PrivateDNSAndroid) - DNS Switchers
@@ -657,13 +657,8 @@ https://github.com/Akylas/alpimaps
 * ⭐ **[Google Play Games](https://play.google.com/googleplaygames)** - Android Mobile Games on Windows
 * [AOPC](https://aopc.dev/) - Android Desktop OS Forums
 * [Docker Android](https://github.com/budtmo/docker-android) - Android on Docker
-* [Nox](https://www.bignox.com/) / [Debloat](https://gist.github.com/TameemS/72c4b92131977aced56e727d51599a48)
-* [BlueStacks](https://www.bluestacks.com/)
-* [GameLoop](https://www.gameloop.com/)
-* [MuMu](https://www.mumuplayer.com/)
-* [MeMu](https://www.memuplay.com/) / [Debloat](https://gist.github.com/TameemS/603686cec857ff1f91e68607e374b0d8)
-* [LDPlayer](https://www.ldplayer.net/) / [Debloat](https://gist.github.com/TameemS/894cdb8adae1d6042a5f21c4e80bcd9e/)
-* [Genymotion](https://www.genymotion.com/download/)
+* [Genymotion](https://www.genymotion.com/download/) - Cloud Emulator
+* [Nox](https://www.bignox.com/) / [Debloat](https://gist.github.com/TameemS/72c4b92131977aced56e727d51599a48), [BlueStacks](https://www.bluestacks.com/), [GameLoop](https://www.gameloop.com/), [MuMu](https://www.mumuplayer.com/), [MeMu](https://www.memuplay.com/) / [Debloat](https://gist.github.com/TameemS/603686cec857ff1f91e68607e374b0d8), [LDPlayer](https://www.ldplayer.net/) / [Debloat](https://gist.github.com/TameemS/894cdb8adae1d6042a5f21c4e80bcd9e/) - Android Emulators
 
 ***
 

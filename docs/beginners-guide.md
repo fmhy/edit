@@ -24,7 +24,7 @@ For mobile **[AdGuard Premium](https://rentry.co/FMHYBase64#adguard-premium)** /
 
 > Which web browser should I use?
 
-Generally, people suggest using  **[Firefox](https://www.mozilla.org/en-US/firefox/new/)**, but you can also try **[Mullvad Browser](https://mullvad.net/en/browser)** for better privacy, or **[Brave](https://brave.com/)** if you prefer a Chromium-based browser. For mobile, both **[Cromite](https://github.com/uazo/cromite)** and **[Firefox](https://www.mozilla.org/en-US/firefox/browsers/mobile/android/)** are solid choices.
+Generally, people suggest using  **[Firefox](https://www.mozilla.org/en-US/firefox/new/)**, but you can also try **[Mullvad Browser](https://mullvad.net/en/browser) / [Librewolf](https://librewolf.net/)** for better privacy, or **[Brave](https://brave.com/)** if you prefer a Chromium-based browser. For mobile, both **[Cromite](https://github.com/uazo/cromite)** and **[Firefox](https://www.mozilla.org/en-US/firefox/browsers/mobile/android/)** are solid choices.
 
 !!!note Its highly recommended to look through our [Extension](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools#wiki_.25B7_browser_extensions) / [Userscript](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools#wiki_.25B7_userscripts) pages to find ways to enhance your browser.
 
@@ -52,9 +52,9 @@ Generally, people suggest using  **[Firefox](https://www.mozilla.org/en-US/firef
 
 ### Music
 
-* **Streaming: [SpotX](https://open.spotify.com/) / [Custom YouTube Music](https://th-ch.github.io/youtube-music/)**
+* **Streaming: [SpotX](https://github.com/SpotX-Official/SpotX) / [Custom YouTube Music](https://th-ch.github.io/youtube-music/)**
 * **Downloading: [lucida](https://lucida.to/) / [squid.wtf](https://deezer.squid.wtf/) / [MP3 Daddy](https://mp3-daddy.com/) / [Soulseek](https://slsknet.org/)**
-* **Mobile: [Android Spotify Mod](https://rentry.co/FMHYBase64#modded-spotify-apk) / [iOS Spotify Mod](https://rentry.co/FMHYBase64#spotify)** 
+* **Mobile: [Android Spotify Mod](https://rentry.co/FMHYBase64#modded-spotify-apk) + [iOS](https://rentry.co/FMHYBase64#spotify) / [InnerTune](https://github.com/z-huang/InnerTune)**
 * **Track / Discover: [Last.fm](https://www.last.fm/home) / [RateYourMusic](https://rateyourmusic.com/)**
 
 ***
