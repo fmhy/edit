@@ -177,12 +177,9 @@
 * [PortableApps.com](https://portableapps.com/), [Portapps](https://portapps.io/) or [PortableAppZ](https://portableappz.blogspot.com/) - Portable Apps
 * [Nirsoft](https://www.nirsoft.net/), [Windows-Utilities](https://orga.cat/windows-utilities), [OS Vault](https://osvault.weebly.com/directory.html) or [WinTools](https://www.wintools.info/) - Windows Software
 * [UWP Community](https://uwpcommunity.com/) - Universal Windows Programs / [Discord](https://discord.gg/eBHZSKG)
-* [RaymondFreeSoftware](https://t.me/raymondfreesoftware) - Telegram
 * [Suckless](https://suckless.org/) - Simple Software Archive
-* [OldVersion](http://www.oldversion.com/) - Old Versions of Software
-* [WinWorldPC](https://winworldpc.com/) - Abandonware / Operating Systems
 * [VETUSWARE](https://vetusware.com/) - Abandonware / Operating Systems / Games
-* [MS-DOS Index](http://www.lanet.lv/simtel.net/msdos/index-msdos.html) - MS-DOS Software
+* [OldVersion](http://www.oldversion.com/) - Old Versions of Software
 * [The Vintage Software Collection](https://rentry.co/fmhybase64#the-vintage-software-collection) or [SCiZE's Classic Warez Collection](https://scenelist.org/) - Retro Software
 * [BelowAverage](https://belowaverage.org/) - I.T. Software
 
@@ -192,8 +189,8 @@
 
 * ⭐ **[AlternativeTo](https://alternativeto.net/)** - Crowdsourced Recommendations
 * [Adobe Alternatives](https://github.com/KenneyNL/Adobe-Alternatives) - Adobe Software Alternative Index
-* [SaaSHub](https://www.saashub.com/), [Alternative.me](https://alternative.me/), [ListAlternative](https://www.listalternative.com/), [Alternative Internet](https://github.com/redecentralize/alternative-internet) or [Appmus](https://appmus.com/) - Alt Software Indexes
-* [SimilarSiteSearch](https://www.similarsitesearch.com/), [Sitelike.org](https://www.sitelike.org/), [TopAlter.com](https://topalter.com/) or [SitesLike](https://www.siteslike.com/) - Similar Site Lists
+* [SaaSHub](https://www.saashub.com/) - Alt Software Index
+* [SimilarSiteSearch](https://www.similarsitesearch.com/) - Similar Site List
 * [opensourcealternative.to](https://www.opensourcealternative.to/) - Open-Source Alternatives
 
 ***

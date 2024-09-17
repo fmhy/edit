@@ -28,6 +28,7 @@
 * [7-Max](https://7-max.com/) - Increase App Performance 
 * [RegExp](https://github.com/zodiacon/TotalRegistry), [ripgrep-all](https://github.com/phiresky/ripgrep-all) or [Registry-Finder](https://registry-finder.com/) - Registry Explorers
 * [WinbIndex](https://winbindex.m417z.com/) - Windows System Files / Binaries
+* [VCRedist](https://github.com/abbodi1406/vcredist) - AIO Repack for Microsoft Visual C++ Redists
 * [OfflineInsiderEnroll](https://github.com/abbodi1406/offlineinsiderenroll) - Enable Windows Insider without Account
 * [Google Assistant Desktop Client](https://github.com/Melvin-Abraham/Google-Assistant-Unofficial-Desktop-Client) or [Leon](https://getleon.ai/) - AI Assistant
 * [Rhasspy](https://rhasspy.readthedocs.io/en/latest/) - Voice Assistant
@@ -71,23 +72,20 @@
 * [Taskbar Tweaker](https://ramensoftware.com/7-taskbar-tweaker) - Taskbar Advanced Features
 * [ButteryTaskbar](https://github.com/LuisThiamNye/ButteryTaskbar2) - Hide Taskbar When Start Menu is Closed
 * [Taskbar Hide](https://www.eusing.com/hidewindows/bosskey.htm) - Easily Hide / Show Taskbar
-* [minimize-to-tray](https://sourceforge.net/projects/minimize-to-tray/) - Minimize Windows to Tray
 * [QuickLook](https://github.com/QL-Win/QuickLook) - macOS Quick Look for Windows
-* [SageThumbs](https://sourceforge.net/projects/sagethumbs/) - Image Thumbnail Previews
 * [TopNotify](https://github.com/SamsidParty/TopNotify) - Move Windows Notifications
-* [BurntToast](https://github.com/Windos/BurntToast) - Create and Display Toast Notifications
 * [WinMute](https://github.com/lx-s/WinMute/) - Automatically Mute PC
 
 ***
 
 ## ▷ Package Managers
 
-* ⭐ **[Scoop](https://scoop.sh/) or [winget-cli](https://github.com/microsoft/winget-cli)** - CLI Package Managers
-* ⭐ **WinGet Tools** - [Tools](https://github.com/jdhitsolutions/WingetTools) / [Repo Browser](https://winstall.app/) / [Packages](https://github.com/microsoft/winget-pkgs), [2](https://winget.run/) / [Automation](https://github.com/topgrade-rs/topgrade) / [Pac-Man](https://github.com/rami3l/pacaptr) / [Auto Updates](https://github.com/Romanitho/Winget-AutoUpdate)
-* ⭐ **[Ninite](https://ninite.com/)** - Automatically Install / Update Popular Apps
+* ⭐ **[WinGet](https://github.com/microsoft/winget-cli)** CLI Package Manager
+* ⭐ **WinGet Tools** - [Repo Browser](https://winstall.app/) / [Automation](https://github.com/topgrade-rs/topgrade) / [Auto Updates](https://github.com/Romanitho/Winget-AutoUpdate)
+* ⭐ **[Scoop](https://scoop.sh/)** - CLI Package Manager
 * ⭐ **[UniGetUI](https://github.com/marticliment/WingetUI)** - GUI for Popular Package Managers
-* [Chocolatey](https://github.com/chocolatey/choco) / [GUI](https://github.com/chocolatey/ChocolateyGUI), [Patch My PC](https://patchmypc.com/home-updater) or [RuckZuck](https://ruckzuck.tools/) - Package Managers
 * [Spinel](https://spinel.ovh/) - Multi-Program Install Script Generator
+* [Chocolatey](https://github.com/chocolatey/choco) / [GUI](https://github.com/chocolatey/ChocolateyGUI), [Patch My PC](https://patchmypc.com/home-updater) or [RuckZuck](https://ruckzuck.tools/) - Package Managers
 * [Silent Install](https://www.silentinstall.org/) - Build Multi-Program Installers
 * [0Install](https://0install.net/) - Decentralized Cross-Platform Package Manager
 * [portableapps](https://portableapps.com/download) - Package Manager for Portable Apps
@@ -100,26 +98,20 @@
 
 * 🌐 **[terminals-are-sexy](https://terminalsare.sexy/)** - Terminal Resources
 * 🌐 **[Awesome CLI Apps](https://github.com/agarrharr/awesome-cli-apps)** or [Command Line Tools](https://github.com/learn-anything/command-line-tools) - Command Line Resources
-* ⭐ **[Clink](https://github.com/chrisant996/clink)** - Command Line Editing
 * ⭐ **[ss64](https://ss64.com/)** - Command Line Reference Index
 * [Windows Terminal](https://www.microsoft.com/store/productId/9N0DX20HK701) / [2](https://github.com/microsoft/terminal/), [kitty](https://sw.kovidgoyal.net/kitty/), [Tess](https://github.com/SquitchYT/Tess), [ConEmu](https://github.com/Maximus5/ConEmu), [Hyper](https://hyper.is/), [Tabby](https://tabby.sh/), [MobaXterm](https://mobaxterm.mobatek.net/) or [WezTerm](https://wezfurlong.org/wezterm/) - Windows Terminals
 * [BusyBox](https://frippery.org/busybox/) - Unix Commands for Windows
+* [Clink](https://github.com/chrisant996/clink) - Command Line Editing
 * [Nushell](https://www.nushell.sh/) - Alt Shell
 * [Tiny Care Terminal](https://github.com/notwaldorf/tiny-care-terminal) - Terminal Dashboard That Cares
-* [Gradient Terminal](https://github.com/aurora-0025/gradient-terminal) - Display Terminal Output as Gradient
 * [Command Challenge](https://cmdchallenge.com/) - Command Line Learning
 * [Alacritty](https://github.com/alacritty/alacritty), [cmder](https://cmder.app), [Fluent Terminal](https://github.com/felixse/FluentTerminal), [Tabby](https://tabby.sh/), [Wives](https://github.com/KRTirtho/wives) or [ExtraTerm](https://extraterm.org/) - Terminal Emulators
 * [Mintty](https://mintty.github.io/) - Cygwin Terminal Emulator
 * [GetDNote](https://www.getdnote.com/) - Command Line Notebook
 * [PowerShell](https://github.com/powershell/powershell) - PC / Mac / Linux PowerShell
-* [Write-Menu](https://github.com/QuietusPlus/Write-Menu) or [ps-menu](https://github.com/chrisseroka/ps-menu) - PowerShell Console Menu
 * [LeanandMean](https://github.com/AveYo/LeanAndMean) - Powershell Snippets / Use with Caution
 * [PowerShell Scripts](https://github.com/fleschutz/PowerShell) or [WindowsPowerShell](https://github.com/stevencohn/WindowsPowerShell) - PowerShell Scripts
-* [PSReadLine](https://github.com/PowerShell/PSReadLine) - PowerShell Readline Implementation
-* [SystemNightware](https://github.com/GossiTheDog/SystemNightmare) - Instant System Command Prompt
 * [Starship](https://starship.rs/) - Cross-Shell Prompt
-* [GNU Parallel](https://www.gnu.org/software/parallel/) - Execute Commands / Scripts in Parallel using Multiple Computers
-* [GSudo](https://github.com/gerardog/gsudo) - Sudo Alternative for Windows
 
 ***
 
@@ -137,7 +129,6 @@
 * [p2p](https://github.com/miroslavpejic85/p2p)
 * [UVNC](https://uvnc.com/)
 * [ChimeraDesk](https://github.com/morrolinux/ChimeraDesk)
-* [NoMachine](https://www.nomachine.com/)
 * [PowerRemoteDesktop](https://github.com/PhrozenIO/PowerRemoteDesktop)
 * [Screego](https://app.screego.net/) / [GitHub](https://github.com/screego/server/)
 * [Screensy](https://screensy.marijn.it/) / [GitHub](https://github.com/screensy/screensy)
@@ -238,7 +229,6 @@
 * [AMDDebloat](https://rentry.co/AMDDebloat) or [RadeonSoftwareSlimmer](https://github.com/GSDragoon/RadeonSoftwareSlimmer) - Debloat AMD Drivers
 * [SMCAMDProcessor](https://github.com/trulyspinach/SMCAMDProcessor) - AMD Processor Power Management
 * [PresentMon](https://github.com/GameTechDev/PresentMon) - GPU Benchmarking
-* [Easy-GPU-PV](https://github.com/jamesstringerparsec/Easy-GPU-PV) - Easy GPU Paravirtualization
 * [GsyncSwitch](https://github.com/kwizatz88/GsyncSwitch) - Switch G-Sync or HDR On / Off
 * [ThrottleStop](https://www.techpowerup.com/download/techpowerup-throttlestop/) - Laptop CPU Monitor / Optimizer
 * [Universal x86 Tuning Utility](https://amdaputuningutility.com/) - Laptop GPU Controller / [GitHub](https://github.com/JamesCJ60/Universal-x86-Tuning-Utility)
@@ -352,7 +342,6 @@
 * [MediaCreationTool](https://github.com/AveYo/MediaCreationTool.bat) - Windows Deployment Automation
 * [balenaEtcher](https://etcher.balena.io/) - Flash OS Image SD / USB / Non-Windows OS
 * [CloverBootloader](https://github.com/CloverHackyColor/CloverBootloader/) or [EasyBCD](https://neosmart.net/EasyBCD/) - Bootloaders / [Config](https://mackie100projects.altervista.org/)
-* [Hiren's BootCD PE](https://www.hirensbootcd.org/) or [Win10XPE](https://github.com/ChrisRfr/Win10XPE) - Preinstallation Environments
 
 ***
 
@@ -368,13 +357,12 @@
 ## ▷ Windows Updates
 
 * ⭐ **[ChangeWindows](https://www.changewindows.org/timeline)** - Latest Windows Update Info
-* ⭐ **[VCRedist](https://github.com/abbodi1406/vcredist)** - AIO Repack for Microsoft Visual C++ Redists
 * [stopupdates10](https://greatis.com/stopupdates10/) or [InControl](https://www.grc.com/incontrol.htm) - Enable / Disable Win 10/11 Updates / Can Cause Breakage
 * [LegacyUpdate](https://legacyupdate.net/) - Fix Windows Updates for Legacy Editions
 * [Extended Win 7 Updates](https://forums.mydigitallife.net/threads/bypass-windows-7-extended-security-updates-eligibility.80606) - Extended Windows 7 Updates
-* [WUReset](https://wureset.com/) - Reset Windows Update Components
+* [WURefresh](https://github.com/AveYo/MediaCreationTool.bat/blob/main/bypass11/windows_update_refresh.bat) - Reset Windows Update Components
 * [UUP Dump](https://uupdump.net/) - Download Unified Update Platform Files
-* [OcxDump](https://ocxdump.com/) - .ocx Files
+* [PC Health Check](https://aka.ms/GetPCHealthCheckApp) or [WhyNotWin11](https://github.com/rcmaehl/WhyNotWin11) - Identify why your PC isn't Ready for Windows 11
 
 ***
 
@@ -382,15 +370,13 @@
 
 * [MagNumDB](https://www.magnumdb.com/), [ErrorLookup](https://github.com/henrypp/errorlookup) or [Microsoft Error Lookup](https://learn.microsoft.com/en-us/windows/win32/debug/system-error-code-lookup-tool) - Windows Debugging Tools
 * [/r/TechSupport](https://www.reddit.com/r/techsupport/) / [Wiki](https://rtech.support/) - Tech Support Subreddit / [Discord](https://discord.gg/2EDwzWa)
-* [Windows 10 Forums](https://www.windowsphoneinfo.com/), [SevenForums](https://www.sevenforums.com/), [Hardforum](https://hardforum.com/), [VinaFix](https://vinafix.com/) or [TechSupportForum](https://www.techsupportforum.com/) - Tech Support Forums
+* [SevenForums](https://www.sevenforums.com/) or [Hardforum](https://hardforum.com/) - Tech Support Forums
 * [MemTest](https://www.memtest.org/) - Memory Diagnostic Tool
 * [Windows Repair Toolbox](https://windows-repair-toolbox.com/) - Multi-Tool Repair App
 * [Medicat](https://medicatusb.com/) - Computer Diagnostic / Recovery Toolkit
 * [PhoenixPE](https://github.com/PhoenixPE/PhoenixPE) - Recovery Environment
 * [OpenBoardData](https://openboarddata.org/) - Board Repair Data
 * [Magic Trace](https://github.com/janestreet/magic-trace) - Diagnose Performance Issues using Intel Processor Trace
-* [Intel BIOS Guide](https://docs.google.com/document/d/1s43_3YGJIy3zs0ZIksoOmxgrDKnu4ZNhhnXW_NiJZ0I/edit) - Intel BIOS Settings Explanation
-* [PC Health Check](https://aka.ms/GetPCHealthCheckApp) or [WhyNotWin11](https://github.com/rcmaehl/WhyNotWin11) - Identify why your PC isn't Ready for Windows 11
 
 ***
 
@@ -420,9 +406,7 @@
 * [ExplorerBlurMica](https://github.com/Maplespe/ExplorerBlurMica) - Blur / Acrylic Effect for File Explorer
 * [RetroBar](https://github.com/dremin/RetroBar) - Retro Classic Taskbars
 * [StartIsBack](https://www.startisback.com/) or [StartAllBack](https://www.startallback.com/) - Restore Classic Start Menu in Win 10/11 / [Unlock](https://rentry.co/FMHYBase64#start-back)
-* [Win98Icons](https://win98icons.alexmeub.com/) - Classic Win98 Icons
 * [Modern Flyouts](https://apps.microsoft.com/store/detail/modernflyouts-preview/9MT60QV066RP) - Modern Context Menus / [GitHub](https://github.com/ModernFlyouts-Community/ModernFlyouts)
-* [ModernWinver](https://github.com/torchgm/NewModernWinver) or [WinverUWP](https://github.com/dongle-the-gadget/WinverUWP) - Modern Windows About Page
 
 ***
 
@@ -437,7 +421,6 @@
 * [Alternative Windows Shells Wiki](https://en.wikipedia.org/wiki/List_of_alternative_shells_for_Windows) - Alt Windows Shells
 * [WindowsCustomization](https://windowscustomization.com/), [WinCustomize](https://www.wincustomize.com/), [Win10 DeviantArt](https://www.deviantart.com/tag/windows10), [WinClassic](https://winclassic.boards.net/) or [7Themes](https://7themes.su/) - Customization / Themes / Wallpapers
 * [WinDynamicDesktop](https://github.com/t1m0thyj/WinDynamicDesktop) or [Dynamic Theme](https://apps.microsoft.com/detail/9nblggh1zbkw) - Dynamic Desktop Themes
-* [Auto Night Mode](https://github.com/AutoDarkMode/Windows-Auto-Night-Mode) - Dark / Light Mode Theme Switcher
 * [SecureUxTheme](https://github.com/namazso/SecureUxTheme) or [UltraUXThemePatcher](https://mhoefs.eu/software_uxtheme.php?ref=syssel&lang=en) - Ux Theme Patcher
 * [7TSP GUI](https://www.deviantart.com/devillnside/art/7TSP-GUI-2019-Edition-804769422) - Theme Source Patcher
 * [Winmoes](https://winmoes.com/) - Anime Windows Themes / Wallpapers

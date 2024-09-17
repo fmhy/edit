@@ -34,6 +34,7 @@
 * [Smashystream](https://smashystream.xyz/), [2](https://flix.smashystream.xyz/), [3](https://smashystream.com/) or [smashy.stream](https://smashy.stream/) (ad-free) - Movies / TV / Anime / 1080p
 * [Nova](https://novastream.top/) - Movies / TV / 1080p / [GitHub](https://github.com/ambr0sial/nova/)
 * [Novafork](https://novafork.com/) - Movies / TV / 1080p / [Discord](https://discord.gg/XbDBBmh5FY) / [GitHub](https://github.com/fanlimgames/novafork)
+* [YoYoMovies](https://yoyomovies.net/) - Movies / TV / Anime / 1080p
 * [RgShows](https://www.rgshows.me/) - Movies / TV / Anime / 4K / 1080p
 * [CorsFlix](https://corsflix.us.kg/) - Movies / TV / Anime / 1080p
 * [PopcornMovies](https://popcornmovies.to/) - Movies / TV / Anime / 1080p
