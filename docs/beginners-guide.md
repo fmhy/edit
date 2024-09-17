@@ -1,5 +1,8 @@
 # -> ***Beginners Guide to Piracy*** <-
 
+
+
+
 ***
 **Table of Contents**
 [TOC2]
@@ -16,7 +19,7 @@ For browsers we recommend **[uBlock Origin](https://github.com/gorhill/uBlock#in
 
 For mobile **[AdGuard Premium](https://rentry.co/FMHYBase64#adguard-premium)** / [iOS](https://rentry.co/FMHYBase64#adguard-pro-ios), and you can block YouTube, Reddit, and Twitter ads with **[ReVanced Manager](https://github.com/revanced/revanced-manager)**.
 
-!!!note Running multiple general adblockers like uBlock and Adblock Plus at the same time can [cause breakage](https://twitter.com/gorhill/status/1033706103782170625). This only applies to general adblockers, so running things like uBlock and Sponsorblock at the same time is fine.
+!!!note Using several ad blockers, like uBlock and Adblock Plus at the same time can [mess things up](https://twitter.com/gorhill/status/1033706103782170625). This only happens with regular ad blockers, so it’s perfectly okay to use uBlock alongside something like SponsorBlock.
 
 ***
 
@@ -26,7 +29,7 @@ For mobile **[AdGuard Premium](https://rentry.co/FMHYBase64#adguard-premium)** /
 
 Before installing any file, its recommended to scan the setup / install with **[VirusTotal](https://www.virustotal.com/)**. If you're having trouble determining if something is a false positive, refer to the **[Scan Guide](https://rentry.co/VTGuide)**, or send it to us in Discord and we'll take a look for you.
 
-!!!note Most antivirus software is bloatware. As long as you stick to trusted sources you will be fine with just Windows Defender, and an occasional [Malwarebytes](https://www.malwarebytes.com/) scan. 
+!!!note Most antivirus programs are unnecessary and can cause slow down. If you use trusted websites, Windows Defender should be all you need to stay safe, and you can run a [Malwarebytes](https://www.malwarebytes.com/) scan from time to time for extra protection.
 
 ***
 
@@ -44,22 +47,10 @@ For email privacy, we recommend **[Proton](https://proton.me/mail)** and for sea
 
 > Which web browser should I use?
 
-In general people recommend **[Firefox](https://www.mozilla.org/en-US/firefox/new/)**, but you can also use things like **[Mullvad Browser](https://mullvad.net/en/browser)** for privacy, or **[Brave](https://brave.com/)** if you want a Chromium browser. For mobile **[Cromite](https://github.com/uazo/cromite)** and **[Firefox](https://www.mozilla.org/en-US/firefox/browsers/mobile/android/)** are both good options.
+Generally, people suggest using  **[Firefox](https://www.mozilla.org/en-US/firefox/new/)**, but you can also try **[Mullvad Browser](https://mullvad.net/en/browser)** for better privacy, or **[Brave](https://brave.com/)** if you prefer a Chromium-based browser. For mobile, both **[Cromite](https://github.com/uazo/cromite)** and **[Firefox](https://www.mozilla.org/en-US/firefox/browsers/mobile/android/)** are solid choices.
+
 
 !!!note Its highly recommended to look through our [Extension](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools#wiki_.25B7_browser_extensions) / [Userscript](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools#wiki_.25B7_userscripts) pages to find ways to enhance your browser.
-
-***
-
-### Windows Piracy
-
-> How can I download / activate Windows for free?
-
-Download a ISO from **[Clean Install Windows](https://massgrave.dev/genuine-installation-media)**, then activate it with **[Microsoft Activation Script](https://massgrave.dev/#Method-1---PowerShell)**.
-
-**Software Piracy: [CRACKSurl](https://cracksurl.com/) / [LRepacks](https://lrepacks.net/)**
-**Adobe Piracy: [M0nkrus](https://w14.monkrus.ws/) / [GenP](https://www.reddit.com/r/GenP/wiki/redditgenpguides/)**
-
-!!!note Activating is not required, however it is recommended as it adds extra features and security. Also keep in mind malicious actors are known to steal from M0nkrus and re-upload versions his apps with malware, so make 100% sure you're on the official site before downloading.
 
 ***
 
@@ -113,11 +104,24 @@ Download a ISO from **[Clean Install Windows](https://massgrave.dev/genuine-inst
 
 ***
 
+### Windows Piracy
+
+> How can I download / activate Windows for free?
+
+Download a ISO from **[Clean Install Windows](https://massgrave.dev/genuine-installation-media)**, then activate it with **[Microsoft Activation Script](https://massgrave.dev/#Method-1---PowerShell)** to add features and remove the watermark.
+
+**Software Piracy: [CRACKSurl](https://cracksurl.com/) / [LRepacks](https://lrepacks.net/)**
+**Adobe Piracy: [M0nkrus](https://w14.monkrus.ws/) / [GenP](https://www.reddit.com/r/GenP/wiki/redditgenpguides/)**
+
+!!!note Be aware that people have been known to steal from M0nkrus and upload altered versions of his apps that contain harmful elements. Always double-check that you're on the official site before downloading anything.
+
+***
+
 ### Torrenting
 
 > Do I need a VPN to torrent?
 
-In many countries torrenting can get you in trouble with your ISP, so its necessary to have a **[VPN](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25BA_vpn)**. Most VPNs offer killswitches you should enable to prevent data leaks, but you can also **[bind your VPN](https://redd.it/ssy8vv)**, which prevents you from connecting at all unless your VPN is active. You can also use **[Remote Torrenting Services](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent#wiki_.25B7_remote_torrenting)** to avoid the need for VPN altogether.
+Downloading files through torrenting can cause issues with your ISP, so using a **[VPN](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25BA_vpn)** is a must in most countries. VPNs have a kill switch feature that stops data from leaking, but you should also **[bind your VPN](https://redd.it/ssy8vv)** to your torrent client. You can also use **[Remote Torrenting Services](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent#wiki_.25B7_remote_torrenting)** to avoid the need for VPN altogether.
 
 **Torrent Clients: [qBittorrent](https://www.qbittorrent.org/) / [Transmission](https://transmissionbt.com/) / [Deluge](https://www.deluge-torrent.org/)**
 **Torrent Sites:  [TorrentGalaxy](https://torrentgalaxy.to/) / [RuTracker](https://rutracker.org/)**
