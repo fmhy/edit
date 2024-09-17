@@ -63,6 +63,8 @@
 * [3asq](https://3asq.org/) - Manga
 * [hijala](https://www.hijala.com/) - Manga / [Discord](https://discord.com/invite/sGTBCDeE2J)
 * [Aldiwan](https://www.aldiwan.net/) - Poems / [Telegram](https://t.me/AldiwanNet)
+* [Almaany](https://www.almaany.com/) - Arabic Multilingual Dictionary
+* [Mo3jam](https://ar.mo3jam.com) - Arabic Colloquial / Slang Dictionary
 
 ***
 

@@ -6,180 +6,138 @@
 
 ***
 
-### FAQ
-
-> I don't know what seeding or *insert another term* means...
-You will find almost all terms related to piracy and more in [The Piracy Glossary](https://rentry.org/the-piracy-glossary). Didn't find what you're looking for or still confused? Reach out to us via [Discord](https://discord.gg/5W9QJKuPkD).
-
-> How can I download / activate Windows or Microsoft Office for free?
-For Windows check out this [section](#windows-piracy), and for Microsoft Office check out this [guide](https://gravesoft.dev/download_windows_office/office_c2r_links/).
-
-> Where can I find *insert game title / movie title*?
-You can use [WhereYouWatch](https://whereyouwatch.com) for finding movies, and for new movies it's a good idea to keep an eye on [r/movieleaks](https://reddit.com/r/movieleaks) as well. You should also be able to find most movies you're looking for in the [streaming section](#streaming). For games, you can use [Rezi](https://rezi.one) or any other site listed [here](https://fmhy.net/gamingpiracyguide#download-games), and for newly released games check out [r/crackwatch](https://reddit.com/r/crackwatch).
-!!!info Pirated movie releases generally happen after a movie is digitally released or released via Blu-ray / DVD, which can take 3+ months after initially playing in theaters.
-
-!!!warning Please avoid downloading games from any site listed [here](https://fmhy.net/unsafesites) as they're very likely to contain malicious links.
-
-> How can I unlock *insert random game title* DLCs?
-Use the tools listed [here](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/game-tools/#wiki_.25B7_steam_.2F_epic) to unlock DLCs.
-
-> Should I install and use *insert random antivirus software* instead of using Windows Defender?
-No, don't do that. Windows Defender is more than enough to keep you safe, but if you're still set on installing a secondary AV, the only one worth installing is Malwarebytes. Please read the note [here](#antivirus).
-
-!!!warning Stay away from Avast, AVG, Avira, Norton, and McAfee, as these are "bloatware" and generally unsafe software.
-
-> How can I download an image from *insert stock image site*?
- You can use [this downloader](https://downloader.la/), and if it doesn't work you can find other stock image downloaders [here](https://fmhy.net/img-tools#stock-photos).
-
-> How do I decode base64?
-
-You can use [Base64 Decoders](https://fmhy.net/text-tools#encode-decode) or our [Auto Decode](https://greasyfork.org/en/scripts/485772) script if you're on the fmhy base64 page.
-
-***
-
-### Windows Piracy
-
-* **[Windows ISOs](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/system-tools#wiki_.25BA_windows_isos)** - Download Windows
-* **[Windows Activation](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/system-tools#wiki_.25B7_windows_activation)** - Activate Windows
-
-***
-
-### Linux Piracy
-
-* **[Linux Distros](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/linux#wiki_.25BA_linux_distros)** - Download Linux Distros
-* **[Linux Gaming Guide](https://github.com/rimsiw/linux-gaming-omg)** - Piracy Guide for Linux
-* **[Torrminatorr](https://forum.torrminatorr.com/)** / **[Kapital Sin](https://kapitalsin.com/)** - Download Linux Games
-* **[ani-cli](https://github.com/pystardust/ani-cli)** - Anime Streaming Terminal
-
-***
-
-### MacOS Piracy
-
-* **[gibMacOS](https://github.com/corpnewt/gibMacOS)** - Download macOS
-* **[Torrminatorr](https://forum.torrminatorr.com/)** - Download macOS Games
-* **[qBittorrent](https://www.qbittorrent.org/)** - macOS Torrent Client
-* **[Homebrew](https://brew.sh/)** / [GUI](https://corkmac.app/) - macOS Package Manager
-* **[SpotX Bash](https://github.com/jetfir3/SpotX-Bash)** - macOS Spotify Adblocker
-
-***
-
-### Browser
-
-* **[Firefox](https://www.mozilla.org/en-US/firefox/new/)** - Open-Source Browser
-* **[Mullvad Browser](https://mullvad.net/en/browser)** - Tor Browser Fork (without Tor network)
-* **[arkenfox](https://github.com/arkenfox/user.js)** - Firefox privacy tweak / [Video](https://youtu.be/F7-bW2y6lcI) / [GUI](https://arkenfox.github.io/gui/)
-* **[Browser Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools#wiki_.25BA_browser_tools)** - Browser Tools List
-* **[Browser Extensions](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools#wiki_.25B7_browser_extensions) / [Userscripts](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools#wiki_.25B7_userscripts)** - Add features & functionality to browsers
-* **[ReturnYoutubeDislikes](https://returnyoutubedislike.com/)** - View YouTube dislikes
-
-***
-
 ### Adblocking
 
-* **[uBlock Origin](https://github.com/gorhill/uBlock#installation)** - The most popular (and best) adblocking extension
-* **[SponsorBlock](https://sponsor.ajay.app/)** - Skip sponsored YouTube ads
-* **[Spotify Adblockers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/audio#wiki_.25B7_spotify_adblockers)** - Block Spotify ads
-* **[Twitch Adblockers](https://fmhy.net/social-media-tools#twitch-adblockers)** - Block Twitch ads
-* **[Redirect Skippers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25B7_redirect_bypass)** - Bypass redirect sites
+> How important is using an adblocker?
 
-!!!note Don't run multiple general adblockers like uBlock and Adblock Plus at the same time. Running more than one can [cause breakage](https://twitter.com/gorhill/status/1033706103782170625). This only applies to general adblockers, so running things like uBlock and Sponsorblock at the same time is fine.
+Piracy sites usually contain ads, some of which can be harmful, often leading to unwanted pages or fake download buttons. Real download buttons are usually small, and match the sites design, while fake ones are often big and eye-catching. It can be hard to tell them apart, so its important to always have an adblocker.
 
-***
+For browsers we recommend **[uBO](https://github.com/gorhill/uBlock#installation)** , and you can also use a **[Redirect Skipper](https://fmhy.net/adblockvpnguide#redirect-bypass)** to skip annoying countdowns. 
 
-### Antivirus
+For mobile **[AdGuard Premium](https://rentry.co/FMHYBase64#adguard-premium)** / [iOS](https://rentry.co/FMHYBase64#adguard-pro-ios), and you can block YouTube, Reddit, and Twitter ads with **[ReVanced Manager](https://github.com/revanced/revanced-manager)**.
 
-* **[VirusTotal](https://www.virustotal.com)** - Test the safety of files / [Results Guide](https://rentry.co/VTGuide)
-* **[Malwarebytes Premium](https://rentry.co/FMHYBase64#malwarebytes-prem)**, [2](https://www.malwarebytes.com/) - Real-time anti-malware software / Premium
-
-!!!note Antivirus software is usually bloatware. Stick to trusted sources for games and software and you will be fine with nothing but Windows Defender and an occasional Malwarebytes scan. Remember to always scan software before installing it with tools like **[VirusTotal](https://www.virustotal.com/)** or use it in **[Sandboxie](https://rentry.co/sandboxie-guide)**.
+!!!note Using several ad blockers, like uBO and Adblock Plus at the same time can [mess things up](https://twitter.com/gorhill/status/1033706103782170625). This only happens with regular ad blockers, so it’s perfectly okay to use uBO alongside something like SponsorBlock.
 
 ***
 
-### Privacy
+### Browsers
 
-* **[Privacy Guides](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25B7_privacy_indexes)** - Educational Privacy Guides / Indexes
-* **[ProtonMail](https://proton.me/mail)** - Encrypted email service
-* **[Email Privacy](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25B7_email_privacy)** - Email privacy resources
-* **[Aegis](https://getaegis.app/) / [Ente](https://github.com/ente-io/auth/)** - 2FA to prevent logins without user authentication
-* **[Password Managers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools#wiki_.25B7_password_managers)** - Save multiple passwords
-* **[HaveIBeenPwned](https://haveibeenpwned.com/)** - Get notified when your email or phone number has been found in a data breach
-* **[VPN List](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25BA_vpn)** - VPN index
+> Which web browser should I use?
+
+Generally, people suggest using  **[Firefox](https://www.mozilla.org/en-US/firefox/new/)**, but you can also try **[Mullvad Browser](https://mullvad.net/en/browser) / [Librewolf](https://librewolf.net/)** for better privacy, or **[Brave](https://brave.com/)** if you prefer a Chromium-based browser. For mobile, both **[Cromite](https://github.com/uazo/cromite)** and **[Firefox](https://www.mozilla.org/en-US/firefox/browsers/mobile/android/)** are solid choices.
+
+!!!note Its highly recommended to look through our [Extension](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools#wiki_.25B7_browser_extensions) / [Userscript](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools#wiki_.25B7_userscripts) pages to find ways to enhance your browser.
 
 ***
 
-### Streaming
+### Movies / Shows
 
-* **[movie-web](https://erynith.github.io/movie-web-instances/) / [2](https://docs.undi.rest/instances) + [Add Sources](https://pastebin.com/w8Brq2UA) / [Braflix](https://www.braflix.ru/) / [watch.lonelil](https://watch.lonelil.ru/) / [Binged](https://binged.to/)** -  Movie / TV streaming
-* **[HiAnime](https://hianime.to/)** - Anime Streaming
-* **[Dramacool](https://dramacool.cy/)** - Asian drama streaming
-* **[SportsSurge](https://v2.sportsurge.net/home4/)** - Live sports streaming
-* **[How-to Find Rare Movies](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/find-rare-movies)** - Find obscure films
-
-***
-
-### Downloading
-
-* **[CRACKSurl](https://cracksurl.com/) / [LRepacks](https://lrepacks.net/) / [M0nkrus](https://w14.monkrus.ws/)** - Trusted software sites
-* **[Pahe](https://pahe.ink/)** - Fast video downloads
-* **[FitGirl Repacks](https://fitgirl-repacks.site/)** / **[SteamRIP](https://steamrip.com/)** - Game download sites
-* **[Firehawk52](https://rentry.org/firehawk52)** - Music ripping guide
-* **[lucida](https://lucida.to/), [2](https://lucida.su/)** - Multi-Site audio download
-* **[Soulseek](https://slsknet.org/)** or [Nicotine+](https://nicotine-plus.org/) - Audio download app
-* **[squid.wtf](https://squid.wtf/)** - Deezer FLAC download
-
-!!!note When using DDLs, it's generally recommended to use a download manager such as JDownloader, as they improve the ease of downloading as well as the speed. You can find them listed [here](https://fmhy.net/file-tools#download-managers).
+* **Streaming: [movie-web](https://erynith.github.io/movie-web-instances/) + [Sources](https://pastebin.com/w8Brq2UA) / [Braflix](https://www.braflix.ru/) / [Binged](https://binged.to/)**
+* **Downloading:  [Vadapav](https://rentry.co/FMHYBase64#vadapav) / [Pahe](https://pahe.ink/) / [PSARips](https://psa.wf/)**
+* **Torrenting: [1337x](https://1337x.to/movie-library/1/) / [TorrentGalaxy](https://torrentgalaxy.to/torrents.php?parent_cat=Movies) / [Aggregators](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent/#wiki_.25B7_aggregators)**
+* **Sports Streaming: [Streamed](https://streamed.su/) / [Sportsurge](https://v2.sportsurge.net/home4/)**
+* **Drama Streaming: [DramaCool](https://asianc.to/) / [KissAsian](https://kissasian.video/)**
+* **Track / Discover: [Trakt](https://trakt.tv/) / [Letterboxd](https://letterboxd.com/)**
 
 ***
 
-### Torrenting
+### Anime 
 
-!!!warning Torrenting can get you in trouble with your ISP, so make sure to use a [VPN](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25BA_vpn). Most VPNs offer a killswitch to prevent data leaks, but you should also [bind your VPN to your client](https://redd.it/ssy8vv), preventing it from connecting at all unless your VPN is on, or use remote clients.
+* **Streaming: [HiAnime](https://hianime.to/) / [Miruro](https://www.miruro.com/) / [AnimePahe](https://animepahe.ru/)**
+* **Downloading: [Tokyo Insider](https://www.tokyoinsider.com/) / [Hi10Anime](https://hi10anime.com/)**
+* **Torrenting: [Nyaa](https://nyaa.si/) / [Miru](https://miru.watch/)**
+* **Track / Discover: [MyAnimeList](https://myanimelist.net/) / [AniList](https://anilist.co/)**
 
-* **[qBittorrent](https://www.qbittorrent.org/) / [Transmission](https://transmissionbt.com/) / [Deluge](https://www.deluge-torrent.org/)** - Torrent clients
-* **[Remote Torrenting](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent#wiki_.25B7_remote_torrenting)** - Remote torrent clients
-* **[RuTracker](https://rutracker.org/)** / [Wiki](http://rutracker.wiki/) / [Rules](https://rutracker.org/forum/viewtopic.php?t=1045) - Torrent video, audio, games, software & more
-* **[FitGirl Repacks](https://fitgirl-repacks.site/)** - Trusted game repacker
-* **[Stremio](https://www.stremio.com/)** - Torrent video streaming app / [Addons](https://stremio-addons.netlify.app/)
-* **[Nyaa](https://nyaa.si/)** - Anime Torrents
+***
+
+### Music
+
+* **Streaming: [SpotX](https://github.com/SpotX-Official/SpotX) / [Custom YouTube Music](https://th-ch.github.io/youtube-music/)**
+* **Downloading: [lucida](https://lucida.to/) / [squid.wtf](https://deezer.squid.wtf/) / [MP3 Daddy](https://mp3-daddy.com/) / [Soulseek](https://slsknet.org/)**
+* **Mobile: [Android Spotify Mod](https://rentry.co/FMHYBase64#modded-spotify-apk) + [iOS](https://rentry.co/FMHYBase64#spotify) / [InnerTune](https://github.com/z-huang/InnerTune)**
+* **Track / Discover: [Last.fm](https://www.last.fm/home) / [RateYourMusic](https://rateyourmusic.com/)**
+
+***
+
+### Gaming
+
+* **Download / Torrent: [FitGirl Repacks](https://fitgirl-repacks.site/) / [SteamRIP](https://steamrip.com/)**
+* **Emulation / ROMs: [Emulation Wiki](https://emulation.gametechwiki.com/index.php/Main_Page)/ [/r/ROMs Mega](https://r-roms.github.io/) / [Myrient](https://myrient.erista.me/)**
+* **DLC Unlocker: [Koalageddon](https://github.com/acidicoala/Koalageddon/)** 
+* **Download Managers: [JDownloader](https://jdownloader.org/jdownloader2) / [Go Speed](https://gopeed.com/)**
+* **Track / Discover: [Glitchwave](https://glitchwave.com/)**
 
 ***
 
 ### Reading
 
-* **[Mobilism](https://forum.mobilism.org) / [Library Genesis](https://libgen.rs/) / [Z-Library](https://singlelogin.re/) / [Annas Archive](https://annas-archive.org/)** - Books, audiobooks, comics & more
-* **[Audiobook Bay](https://audiobookbay.is/)** - Audiobook torrents / **Avoid fake DL links, use [Torrents / Magnets](https://i.ibb.co/8sV2061/0fa8159b11bb.png)**
-* **[ReadComicsOnline](https://readcomiconline.li/)** - Read comics online
-* **[MangaReader](https://mangareader.to/)** - Read manga online
-* **[Ebook Readers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/reading#wiki_.25BA_ebook_readers)** - List of ebook readers
+* **Downloading: [Annas Archive](https://annas-archive.org/) / [Library Genesis](https://libgen.rs/) / [Z-Library](https://singlelogin.re/) / [Mobilism](https://forum.mobilism.org) / [Bookracy](https://bookracy.ru)**
+* **Audiobooks: [AudiobookBay](https://audiobookbay.lu/) / [Mobilism Audiobooks](https://forum.mobilism.org/viewforum.php?f=124) / [Tokybook](https://tokybook.com/)**
+* **Manga: [ComicK](https://comick.io/) / [MangaSee](https://mangasee123.com/) / [MangaDex](https://mangadex.org/)**
+* **Comics: [ReadComicsOnline](https://readcomiconline.li/) / [GetComics](https://getcomics.org/)**
+* **Ebook Readers: [Google Play Books](https://play.google.com/books) / [Koodo](https://www.koodoreader.com/) / [Foxit](https://www.foxit.com/pdf-reader/)**
+* **Track / Discover: [GoodReads](https://www.goodreads.com/) / [MangaUpdates](https://www.mangaupdates.com/)**
 
 ***
 
-### Mobile Piracy
+### Antivirus
 
-* **[Android AdGuard Premium](https://rentry.co/FMHYBase64#adguard-premium)** / **[iOS AdGuard Premium](https://rentry.co/FMHYBase64#adguard-pro-ios)** - Adblocking app
-* **[Android Modded Spotify](https://rentry.co/FMHYBase64#modded-spotify-apk)** / **[iOS Modded Spotify](https://rentry.co/FMHYBase64#spotify)** - Modded Spotify
-* **[Cromite](https://github.com/uazo/cromite) / [Firefox](https://www.mozilla.org/en-US/firefox/browsers/mobile/android/) / [Kiwi](https://play.google.com/store/apps/details?id=com.kiwibrowser.browser&hl=en_US&gl=US)** - Android web browsers
+> How can I safely scan files, and determine if detection's are false positives?
+
+Before installing any file, its recommended to scan the setup / install with **[VirusTotal](https://www.virustotal.com/)**. If you're having trouble determining if something is a false positive, refer to the **[Scan Guide](https://rentry.co/VTGuide)**, or send it to us in Discord and we'll take a look for you.
+
+!!!note Most antivirus programs are unnecessary and can cause slow down. If you use trusted websites, Windows Defender should be all you need to stay safe, and you can run a [Malwarebytes](https://www.malwarebytes.com/) scan from time to time for extra protection.
+
+***
+
+### Privacy 
+
+> I don't have anything to hide, why should I care about privacy?
+
+Privacy is about controlling your personal information, not just keeping things secret. Non-sensitive data is used by companies to track your behavior, target ads, and influence your choices. 
+
+For email privacy, we recommend **[Proton](https://proton.me/mail)** and for search **[SearX](https://searx.fmhy.net/)**. It's also good to check sites like [HaveIBeenPwned](https://haveibeenpwned.com/Passwords) to make sure your info hasn't been part of any recent data breaches.
+
+***
+
+### Windows Piracy
+
+> How can I download / activate Windows for free?
+
+Download a ISO from **[Clean Install Windows](https://massgrave.dev/genuine-installation-media)**, then activate it with **[Microsoft Activation Script](https://massgrave.dev/#Method-1---PowerShell)** to add features and remove the watermark.
+
+* **Software Piracy: [CRACKSurl](https://cracksurl.com/) / [LRepacks](https://lrepacks.net/)**
+* **Adobe Piracy: [M0nkrus](https://w14.monkrus.ws/) / [GenP](https://www.reddit.com/r/GenP/wiki/redditgenpguides/)**
+
+!!!note Be aware that people have been known to steal from M0nkrus and upload altered versions of his apps that contain harmful elements. Always double-check that you're on the official site before downloading anything.
+
+***
+
+### Torrenting
+
+> Do I need a VPN to torrent?
+
+Downloading files through torrenting can cause issues with your ISP, so using a **[VPN](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25BA_vpn)** is a must in most countries. VPNs have a kill switch feature that stops data from leaking, but you should also **[bind your VPN](https://redd.it/ssy8vv)** to your torrent client. You can also use **[Remote Torrenting Services](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent#wiki_.25B7_remote_torrenting)** to avoid the need for VPN altogether.
+
+* **Torrent Clients: [qBittorrent](https://www.qbittorrent.org/) / [Transmission](https://transmissionbt.com/) / [Deluge](https://www.deluge-torrent.org/)**
+* **Torrent Sites:  [TorrentGalaxy](https://torrentgalaxy.to/) / [RuTracker](https://rutracker.org/)**
+* **Torrent Streaming: [Stremio](https://www.stremio.com/) + [Addons](https://stremio-addons.netlify.app/) / [Guide](https://viren070.github.io/guides/stremio/guide)**
+
+***
+
+### Mobile Apps
+
 * **[Mobilism](https://forum.mobilism.org/viewforum.php?f=398)** - Modded APKs
-* **[/r/ApkApps Megathread](https://apksapps.notion.site/apksapps/096ef38f452342ba99b4e1509a449729?v=9970360b443643789c333bd2c7180009)** - Updated list of modded APKs / [Subreddit](https://www.reddit.com/r/ApksApps) / [Discord](https://discord.gg/Kr5EWKZU5Y)
 * **[APKMirror](https://www.apkmirror.com/)** - Untouched APKs
 * **[F-Droid](https://f-droid.org/)** - FOSS Android Apps
-* **[Stremio](https://www.stremio.com/)** - Video streaming app / Use VPN / [Guide](https://viren070.github.io/guides/stremio/guide)
-* **[Patch Reddit Clients](https://docs.google.com/document/u/0/d/1wHvqQwCYdJrQg4BKlGIVDLksPN0KpOnJWniT6PbZSrI/mobilebasic)** - How To Patch 3rd Party Reddit Clients
-* **[ReVanced Manager](https://github.com/revanced/revanced-manager)** - Ad-Free YouTube, Reddit, X etc. Patcher / [Discord](https://discord.com/invite/rF2YcEjcrT) / [Guide](https://redd.it/xlcny9)
-* **[Complete Jailbreak Chart](https://ios.cfw.guide/)** - Jailbreaking info & tools
 
 ***
 
-### Useful Stuff
+### Useful Links
 
-* **[Video Players](https://fmhy.net/video-tools#video-players) / [Servers](https://fmhy.net/video-tools#media-servers)** - Host & play videos
-* **[Audio Players](https://fmhy.net/audiopiracyguide#audio-players) / [Servers](https://fmhy.net/audiopiracyguide#audio-servers)** - Host & play audio
-* **[Android Emulators](https://fmhy.net/android-iosguide#android-emulators)** - Use android apps on desktop
-* **[Hosting / Cloud Storage](https://fmhy.net/file-tools#file-hosts)** - Share, store & sync files
-* **[Download Managers](https://fmhy.net/file-tools#download-managers)** - Manage file downloads
-* **[File Archivers](https://fmhy.net/file-tools#file-archivers)** - Unzip / Compress files
-* **[OpenSubtitles](https://opensubtitles.org/)** - Most popular subtitles site
+* **[Piracy Glossary](https://rentry.org/the-piracy-glossary)** - Common piracy term definitions
 * **[Unsafe Sites / Software](https://redd.it/10bh0h9)** - Things we recommend avoiding
+* **[Base64 Decoders](https://fmhy.net/text-tools#encode-decode) / [Auto Decode](https://greasyfork.org/en/scripts/485772)** - Tools to decode base64 links
 
 ***
 
