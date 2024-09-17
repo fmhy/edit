@@ -1,8 +1,5 @@
 # -> ***Beginners Guide to Piracy*** <-
 
-
-
-
 ***
 **Table of Contents**
 [TOC2]
@@ -29,58 +26,57 @@ For mobile **[AdGuard Premium](https://rentry.co/FMHYBase64#adguard-premium)** /
 
 Generally, people suggest using  **[Firefox](https://www.mozilla.org/en-US/firefox/new/)**, but you can also try **[Mullvad Browser](https://mullvad.net/en/browser)** for better privacy, or **[Brave](https://brave.com/)** if you prefer a Chromium-based browser. For mobile, both **[Cromite](https://github.com/uazo/cromite)** and **[Firefox](https://www.mozilla.org/en-US/firefox/browsers/mobile/android/)** are solid choices.
 
-
 !!!note Its highly recommended to look through our [Extension](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools#wiki_.25B7_browser_extensions) / [Userscript](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools#wiki_.25B7_userscripts) pages to find ways to enhance your browser.
 
 ***
 
 ### Movies / Shows
 
-**Streaming: [movie-web](https://erynith.github.io/movie-web-instances/) + [Sources](https://pastebin.com/w8Brq2UA) / [Braflix](https://www.braflix.ru/) / [Binged](https://binged.to/)**
-**Downloading:  [Vadapav](https://rentry.co/FMHYBase64#vadapav) / [Pahe](https://pahe.ink/) / [PSARips](https://psa.wf/)**
-**Torrenting: [1337x](https://1337x.to/movie-library/1/) / [TorrentGalaxy](https://torrentgalaxy.to/torrents.php?parent_cat=Movies) / [Aggregators](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent/#wiki_.25B7_aggregators)**
-**Sports Streaming: [Streamed](https://streamed.su/) / [Sportsurge](https://v2.sportsurge.net/home4/)**
-**Drama Streaming: [DramaCool](https://asianc.to/) / [KissAsian](https://kissasian.video/)**
-**Track / Discover: [Trakt](https://trakt.tv/) / [Letterboxd](https://letterboxd.com/)**
+* **Streaming: [movie-web](https://erynith.github.io/movie-web-instances/) + [Sources](https://pastebin.com/w8Brq2UA) / [Braflix](https://www.braflix.ru/) / [Binged](https://binged.to/)**
+* **Downloading:  [Vadapav](https://rentry.co/FMHYBase64#vadapav) / [Pahe](https://pahe.ink/) / [PSARips](https://psa.wf/)**
+* **Torrenting: [1337x](https://1337x.to/movie-library/1/) / [TorrentGalaxy](https://torrentgalaxy.to/torrents.php?parent_cat=Movies) / [Aggregators](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent/#wiki_.25B7_aggregators)**
+* **Sports Streaming: [Streamed](https://streamed.su/) / [Sportsurge](https://v2.sportsurge.net/home4/)**
+* **Drama Streaming: [DramaCool](https://asianc.to/) / [KissAsian](https://kissasian.video/)**
+* **Track / Discover: [Trakt](https://trakt.tv/) / [Letterboxd](https://letterboxd.com/)**
 
 ***
 
 ### Anime 
 
-**Streaming: [HiAnime](https://hianime.to/) / [Miruro](https://www.miruro.com/) / [AnimePahe](https://animepahe.ru/)**
-**Downloading: [Tokyo Insider](https://www.tokyoinsider.com/) / [Hi10Anime](https://hi10anime.com/)**
-**Torrenting: [Nyaa](https://nyaa.si/) / [Miru](https://miru.watch/)**
-**Track / Discover: [MyAnimeList](https://myanimelist.net/) / [AniList](https://anilist.co/)**
+* **Streaming: [HiAnime](https://hianime.to/) / [Miruro](https://www.miruro.com/) / [AnimePahe](https://animepahe.ru/)**
+* **Downloading: [Tokyo Insider](https://www.tokyoinsider.com/) / [Hi10Anime](https://hi10anime.com/)**
+* **Torrenting: [Nyaa](https://nyaa.si/) / [Miru](https://miru.watch/)**
+* **Track / Discover: [MyAnimeList](https://myanimelist.net/) / [AniList](https://anilist.co/)**
 
 ***
 
 ### Music
 
-**Streaming: [SpotX](https://open.spotify.com/) / [Custom YouTube Music](https://th-ch.github.io/youtube-music/)**
-**Downloading: [lucida](https://lucida.to/) / [squid.wtf](https://deezer.squid.wtf/) / [MP3 Daddy](https://mp3-daddy.com/) / [Soulseek](https://slsknet.org/)**
-**Mobile: [Android Spotify Mod](https://rentry.co/FMHYBase64#modded-spotify-apk) / [iOS Spotify Mod](https://rentry.co/FMHYBase64#spotify)** 
-**Track / Discover: [Last.fm](https://www.last.fm/home) / [RateYourMusic](https://rateyourmusic.com/)**
+* **Streaming: [SpotX](https://open.spotify.com/) / [Custom YouTube Music](https://th-ch.github.io/youtube-music/)**
+* **Downloading: [lucida](https://lucida.to/) / [squid.wtf](https://deezer.squid.wtf/) / [MP3 Daddy](https://mp3-daddy.com/) / [Soulseek](https://slsknet.org/)**
+* **Mobile: [Android Spotify Mod](https://rentry.co/FMHYBase64#modded-spotify-apk) / [iOS Spotify Mod](https://rentry.co/FMHYBase64#spotify)** 
+* **Track / Discover: [Last.fm](https://www.last.fm/home) / [RateYourMusic](https://rateyourmusic.com/)**
 
 ***
 
 ### Gaming
 
-**Download / Torrent: [FitGirl Repacks](https://fitgirl-repacks.site/) / [SteamRIP](https://steamrip.com/)**
-**Emulation / ROMs: [Emulation Wiki](https://emulation.gametechwiki.com/index.php/Main_Page)/ [/r/ROMs Mega](https://r-roms.github.io/) / [Myrient](https://myrient.erista.me/)**
-**DLC Unlocker: [Koalageddon](https://github.com/acidicoala/Koalageddon/)** 
-**Download Managers: [JDownloader](https://jdownloader.org/jdownloader2) / [Go Speed](https://gopeed.com/)**
-**Track / Discover: [Glitchwave](https://glitchwave.com/)**
+* **Download / Torrent: [FitGirl Repacks](https://fitgirl-repacks.site/) / [SteamRIP](https://steamrip.com/)**
+* **Emulation / ROMs: [Emulation Wiki](https://emulation.gametechwiki.com/index.php/Main_Page)/ [/r/ROMs Mega](https://r-roms.github.io/) / [Myrient](https://myrient.erista.me/)**
+* **DLC Unlocker: [Koalageddon](https://github.com/acidicoala/Koalageddon/)** 
+* **Download Managers: [JDownloader](https://jdownloader.org/jdownloader2) / [Go Speed](https://gopeed.com/)**
+* **Track / Discover: [Glitchwave](https://glitchwave.com/)**
 
 ***
 
 ### Reading
 
-**Downloading: [Annas Archive](https://annas-archive.org/) / [Library Genesis](https://libgen.rs/) / [Z-Library](https://singlelogin.re/) / [Mobilism](https://forum.mobilism.org) / [Bookracy](https://bookracy.ru)**
-**Audiobooks: [AudiobookBay](https://audiobookbay.lu/) / [Mobilism Audiobooks](https://forum.mobilism.org/viewforum.php?f=124) / [Tokybook](https://tokybook.com/)**
-**Manga: [ComicK](https://comick.io/) / [MangaSee](https://mangasee123.com/) / [MangaDex](https://mangadex.org/)**
-**Comics: [ReadComicsOnline](https://readcomiconline.li/) / [GetComics](https://getcomics.org/)**
-**Ebook Readers: [Google Play Books](https://play.google.com/books) / [Koodo](https://www.koodoreader.com/) / [Foxit](https://www.foxit.com/pdf-reader/)**
-**Track / Discover: [GoodReads](https://www.goodreads.com/) / [MangaUpdates](https://www.mangaupdates.com/)**
+* **Downloading: [Annas Archive](https://annas-archive.org/) / [Library Genesis](https://libgen.rs/) / [Z-Library](https://singlelogin.re/) / [Mobilism](https://forum.mobilism.org) / [Bookracy](https://bookracy.ru)**
+* **Audiobooks: [AudiobookBay](https://audiobookbay.lu/) / [Mobilism Audiobooks](https://forum.mobilism.org/viewforum.php?f=124) / [Tokybook](https://tokybook.com/)**
+* **Manga: [ComicK](https://comick.io/) / [MangaSee](https://mangasee123.com/) / [MangaDex](https://mangadex.org/)**
+* **Comics: [ReadComicsOnline](https://readcomiconline.li/) / [GetComics](https://getcomics.org/)**
+* **Ebook Readers: [Google Play Books](https://play.google.com/books) / [Koodo](https://www.koodoreader.com/) / [Foxit](https://www.foxit.com/pdf-reader/)**
+* **Track / Discover: [GoodReads](https://www.goodreads.com/) / [MangaUpdates](https://www.mangaupdates.com/)**
 
 ***
 
@@ -110,8 +106,8 @@ For email privacy, we recommend **[Proton](https://proton.me/mail)** and for sea
 
 Download a ISO from **[Clean Install Windows](https://massgrave.dev/genuine-installation-media)**, then activate it with **[Microsoft Activation Script](https://massgrave.dev/#Method-1---PowerShell)** to add features and remove the watermark.
 
-**Software Piracy: [CRACKSurl](https://cracksurl.com/) / [LRepacks](https://lrepacks.net/)**
-**Adobe Piracy: [M0nkrus](https://w14.monkrus.ws/) / [GenP](https://www.reddit.com/r/GenP/wiki/redditgenpguides/)**
+* **Software Piracy: [CRACKSurl](https://cracksurl.com/) / [LRepacks](https://lrepacks.net/)**
+* **Adobe Piracy: [M0nkrus](https://w14.monkrus.ws/) / [GenP](https://www.reddit.com/r/GenP/wiki/redditgenpguides/)**
 
 !!!note Be aware that people have been known to steal from M0nkrus and upload altered versions of his apps that contain harmful elements. Always double-check that you're on the official site before downloading anything.
 
@@ -123,25 +119,25 @@ Download a ISO from **[Clean Install Windows](https://massgrave.dev/genuine-inst
 
 Downloading files through torrenting can cause issues with your ISP, so using a **[VPN](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25BA_vpn)** is a must in most countries. VPNs have a kill switch feature that stops data from leaking, but you should also **[bind your VPN](https://redd.it/ssy8vv)** to your torrent client. You can also use **[Remote Torrenting Services](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent#wiki_.25B7_remote_torrenting)** to avoid the need for VPN altogether.
 
-**Torrent Clients: [qBittorrent](https://www.qbittorrent.org/) / [Transmission](https://transmissionbt.com/) / [Deluge](https://www.deluge-torrent.org/)**
-**Torrent Sites:  [TorrentGalaxy](https://torrentgalaxy.to/) / [RuTracker](https://rutracker.org/)**
-**Torrent Streaming: [Stremio](https://www.stremio.com/) + [Addons](https://stremio-addons.netlify.app/) / [Guide](https://viren070.github.io/guides/stremio/guide)**
+* **Torrent Clients: [qBittorrent](https://www.qbittorrent.org/) / [Transmission](https://transmissionbt.com/) / [Deluge](https://www.deluge-torrent.org/)**
+* **Torrent Sites:  [TorrentGalaxy](https://torrentgalaxy.to/) / [RuTracker](https://rutracker.org/)**
+* **Torrent Streaming: [Stremio](https://www.stremio.com/) + [Addons](https://stremio-addons.netlify.app/) / [Guide](https://viren070.github.io/guides/stremio/guide)**
 
 ***
 
 ### Mobile Apps
 
-**[Mobilism](https://forum.mobilism.org/viewforum.php?f=398)** - Modded APKs
-**[APKMirror](https://www.apkmirror.com/)** - Untouched APKs
-**[F-Droid](https://f-droid.org/)** - FOSS Android Apps
+* **[Mobilism](https://forum.mobilism.org/viewforum.php?f=398)** - Modded APKs
+* **[APKMirror](https://www.apkmirror.com/)** - Untouched APKs
+* **[F-Droid](https://f-droid.org/)** - FOSS Android Apps
 
 ***
 
 ### Useful Links
 
-**[Piracy Glossary](https://rentry.org/the-piracy-glossary)** - Common piracy term definitions
-**[Unsafe Sites / Software](https://redd.it/10bh0h9)** - Things we recommend avoiding
-**[Base64 Decoders](https://fmhy.net/text-tools#encode-decode) / [Auto Decode](https://greasyfork.org/en/scripts/485772)** - Tools to decode base64 links
+* **[Piracy Glossary](https://rentry.org/the-piracy-glossary)** - Common piracy term definitions
+* **[Unsafe Sites / Software](https://redd.it/10bh0h9)** - Things we recommend avoiding
+* **[Base64 Decoders](https://fmhy.net/text-tools#encode-decode) / [Auto Decode](https://greasyfork.org/en/scripts/485772)** - Tools to decode base64 links
 
 ***
 
