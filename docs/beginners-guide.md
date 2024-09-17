@@ -24,7 +24,7 @@ For mobile **[AdGuard Premium](https://rentry.co/FMHYBase64#adguard-premium)** /
 
 > Which web browser should I use?
 
-Generally, people suggest using  **[Firefox](https://www.mozilla.org/en-US/firefox/new/)**, but you can also try **[Mullvad Browser](https://mullvad.net/en/browser) / [Librewolf](https://librewolf.net/)** for better privacy, or **[Brave](https://brave.com/)** if you prefer a Chromium-based browser. For mobile, both **[Cromite](https://github.com/uazo/cromite)** and **[Firefox](https://www.mozilla.org/en-US/firefox/browsers/mobile/android/)** are solid choices.
+We recommend  **[Firefox](https://www.mozilla.org/en-US/firefox/new/)**, but you can also try **[Privacy-Focused Browsers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25B7_browser_privacy)**, or **[Brave](https://brave.com/)** if you prefer Chromium-based. For mobile, both **[Cromite](https://github.com/uazo/cromite)** and **[Firefox](https://www.mozilla.org/en-US/firefox/browsers/mobile/android/)** are solid choices.
 
 !!!note Its highly recommended to look through our [Extension](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools#wiki_.25B7_browser_extensions) / [Userscript](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools#wiki_.25B7_userscripts) pages to find ways to enhance your browser.
 
@@ -54,7 +54,7 @@ Generally, people suggest using  **[Firefox](https://www.mozilla.org/en-US/firef
 
 * **Streaming: [SpotX](https://github.com/SpotX-Official/SpotX) / [Custom YouTube Music](https://th-ch.github.io/youtube-music/)**
 * **Downloading: [lucida](https://lucida.to/) / [squid.wtf](https://deezer.squid.wtf/) / [MP3 Daddy](https://mp3-daddy.com/) / [Soulseek](https://slsknet.org/)**
-* **Mobile: [Android Spotify Mod](https://rentry.co/FMHYBase64#modded-spotify-apk) + [iOS](https://rentry.co/FMHYBase64#spotify) / [InnerTune](https://github.com/z-huang/InnerTune)**
+* **Mobile: [xManager](https://www.xmanagerapp.com/) / [InnerTune](https://github.com/z-huang/InnerTune) / [EeveeSpotify](https://github.com/whoeevee/EeveeSpotify) (iOS)**
 * **Track / Discover: [Last.fm](https://www.last.fm/home) / [RateYourMusic](https://rateyourmusic.com/)**
 
 ***
@@ -98,13 +98,15 @@ Privacy is about controlling your personal information, not just keeping things 
 
 For email privacy, we recommend **[Proton](https://proton.me/mail)** and for search **[SearX](https://searx.fmhy.net/)**. It's also good to check sites like [HaveIBeenPwned](https://haveibeenpwned.com/Passwords) to make sure your info hasn't been part of any recent data breaches.
 
+!!!warning Its best *not* to use your main email or password when you sign up for piracy sites. Its good to use a different password on every site you register for, that way if a breach happens, only the password for that one site is compromised.
+
 ***
 
 ### Windows Piracy
 
 > How can I download / activate Windows for free?
 
-Download a ISO from **[Clean Install Windows](https://massgrave.dev/genuine-installation-media)**, then activate it with **[Microsoft Activation Script](https://massgrave.dev/#Method-1---PowerShell)** to add features and remove the watermark.
+Download a ISO from **[Genuine Installation Media](https://massgrave.dev/genuine-installation-media)**, then activate it with **[Microsoft Activation Script](https://massgrave.dev/#Method-1---PowerShell)** to add features and remove the watermark.
 
 * **Software Piracy: [CRACKSurl](https://cracksurl.com/) / [LRepacks](https://lrepacks.net/)**
 * **Adobe Piracy: [M0nkrus](https://w14.monkrus.ws/) / [GenP](https://www.reddit.com/r/GenP/wiki/redditgenpguides/)**
@@ -125,11 +127,13 @@ Downloading files through torrenting can cause issues with your ISP, so using a 
 
 ***
 
-### Mobile Apps
+### Android Apps
 
 * **[Mobilism](https://forum.mobilism.org/viewforum.php?f=398)** - Modded APKs
+* **[Aurora Store](https://auroraoss.com/)** - Alt App Store
 * **[APKMirror](https://www.apkmirror.com/)** - Untouched APKs
-* **[F-Droid](https://f-droid.org/)** - FOSS Android Apps
+* **[Droid-ify](https://github.com/Droid-ify/client)** - FOSS Android Apps
+* **[Obtainium](https://github.com/ImranR98/Obtainium/)** - Get Android App Updates
 
 ***
 
