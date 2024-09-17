@@ -23,26 +23,6 @@ For mobile **[AdGuard Premium](https://rentry.co/FMHYBase64#adguard-premium)** /
 
 ***
 
-### Antivirus
-
-> How can I safely scan files, and determine if detection's are false positives?
-
-Before installing any file, its recommended to scan the setup / install with **[VirusTotal](https://www.virustotal.com/)**. If you're having trouble determining if something is a false positive, refer to the **[Scan Guide](https://rentry.co/VTGuide)**, or send it to us in Discord and we'll take a look for you.
-
-!!!note Most antivirus programs are unnecessary and can cause slow down. If you use trusted websites, Windows Defender should be all you need to stay safe, and you can run a [Malwarebytes](https://www.malwarebytes.com/) scan from time to time for extra protection.
-
-***
-
-### Privacy 
-
-> I don't have anything to hide, why should I care about privacy?
-
-Privacy is about controlling your personal information, not just keeping things secret. Non-sensitive data is used by companies to track your behavior, target ads, and influence your choices. 
-
-For email privacy, we recommend **[Proton](https://proton.me/mail)** and for search **[SearX](https://searx.fmhy.net/)**. It's also good to check sites like [HaveIBeenPwned](https://haveibeenpwned.com/Passwords) to make sure your info hasn't been part of any recent data breaches.
-
-***
-
 ### Browsers
 
 > Which web browser should I use?
@@ -101,6 +81,26 @@ Generally, people suggest using  **[Firefox](https://www.mozilla.org/en-US/firef
 **Comics: [ReadComicsOnline](https://readcomiconline.li/) / [GetComics](https://getcomics.org/)**
 **Ebook Readers: [Google Play Books](https://play.google.com/books) / [Koodo](https://www.koodoreader.com/) / [Foxit](https://www.foxit.com/pdf-reader/)**
 **Track / Discover: [GoodReads](https://www.goodreads.com/) / [MangaUpdates](https://www.mangaupdates.com/)**
+
+***
+
+### Antivirus
+
+> How can I safely scan files, and determine if detection's are false positives?
+
+Before installing any file, its recommended to scan the setup / install with **[VirusTotal](https://www.virustotal.com/)**. If you're having trouble determining if something is a false positive, refer to the **[Scan Guide](https://rentry.co/VTGuide)**, or send it to us in Discord and we'll take a look for you.
+
+!!!note Most antivirus programs are unnecessary and can cause slow down. If you use trusted websites, Windows Defender should be all you need to stay safe, and you can run a [Malwarebytes](https://www.malwarebytes.com/) scan from time to time for extra protection.
+
+***
+
+### Privacy 
+
+> I don't have anything to hide, why should I care about privacy?
+
+Privacy is about controlling your personal information, not just keeping things secret. Non-sensitive data is used by companies to track your behavior, target ads, and influence your choices. 
+
+For email privacy, we recommend **[Proton](https://proton.me/mail)** and for search **[SearX](https://searx.fmhy.net/)**. It's also good to check sites like [HaveIBeenPwned](https://haveibeenpwned.com/Passwords) to make sure your info hasn't been part of any recent data breaches.
 
 ***
 
