@@ -35,11 +35,12 @@
   --vp-custom-block-tip-text: theme('colors.meadow.800');
   --vp-custom-block-tip-text-deep: theme('colors.meadow.900');
   /** Warning */
-  --vp-custom-block-warning-bg: theme('colors.merlin.100'),
-    --vp-custom-block-warning-border: theme('colors.merlin.800'),
-    --vp-custom-block-warning-text: theme('colors.merlin.800'),
-    --vp-custom-block-warning-text-deep: theme('colors.merlin.900'),
-    /** Danger */ --vp-custom-block-danger-bg: theme('colors.carnation.100');
+  --vp-custom-block-warning-bg: theme('colors.merlin.100');
+  --vp-custom-block-warning-border: theme('colors.merlin.800');
+  --vp-custom-block-warning-text: theme('colors.merlin.800');
+  --vp-custom-block-warning-text-deep: theme('colors.merlin.900');
+  /** Danger */
+  --vp-custom-block-danger-bg: theme('colors.carnation.100');
   --vp-custom-block-danger-border: theme('colors.carnation.800');
   --vp-custom-block-danger-text: theme('colors.carnation.800');
   --vp-custom-block-danger-text-deep: theme('colors.carnation.900');

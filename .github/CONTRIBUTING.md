@@ -96,6 +96,8 @@ Select edit button and make your changes.
 
 ### Manually setting up a development environment
 
+#### Manually
+
 1. Fork the repository by clicking the "Fork" button in the top right corner.
 
 2. Make sure you have [Node.js](https://nodejs.org/en/), [pnpm](https://pnpm.io/), [git](https://git-scm.com/), and [VSCode](https://code.visualstudio.com/) or any other editor installed.
@@ -107,3 +109,21 @@ Select edit button and make your changes.
 5. Add your changes with git (`git add <file>`) and commit (`git commit -m "commit message"`), then push them (`git push`).
 
 6. Create a pull request by clicking the "New Pull Request" button in your forked repository, and don't forget to explain why you think the site(s) in question should be removed, unstarred, and/or changed.
+
+#### Nix
+
+You can use [nix](https://nixos.org/) to set up a development environment, we have a [flake](https://nixos.wiki/wiki/Flakes) that setups `nodejs` and `pnpm`.
+
+1. Fork the repository by clicking the "Fork" button in the top right corner and clone your forked repository to your local machine.
+
+2. Run `nix flake update` to update the flake lock file.
+
+3. Run `nix develop` to enter the development environment.
+
+4. Make changes. 
+
+5. Exit the development environment by running `exit`.
+
+6. Commit your changes and push them to your forked repository.
+
+7. Create a pull request by clicking the "New Pull Request" button in your forked repository, and don't forget to explain why you think the site(s) in question should be removed, unstarred, and/or changed.
