@@ -959,7 +959,6 @@
 
 ## ▷ Toys / Figures
 
-* 🌐 **[Awesome Lego](https://github.com/ad-si/awesome-lego)** - Lego Resources
 * [Dinosaur Toy Blog](https://dinotoyblog.com/) or [Animal Toy Blog](https://animaltoyforum.com/blog/) - Animal Toy Reviews
 * [MyFigureCollection](https://myfigurecollection.net/) - Japanese Pop-Culture Merch Database
 * [Pokechange](https://en.pokechange.net/) - Buy / Sell Pokémon Cards
@@ -969,6 +968,7 @@
 * [The Toy Pool](https://thetoypool.com/) - Multi-Brand Toy & Doll Database
 * [Brickset](https://brickset.com/) - Lego Set Guide
 * [FigureRealm](https://www.figurerealm.com/) - Track Action Figure Collection
+* [Brickset](https://brickset.com/) - Lego Set Guide
 
 ***
 
@@ -1347,6 +1347,7 @@
 
 ## ▷ Interesting
 
+* 🌐 **[Awesome Lego](https://github.com/ad-si/awesome-lego)** - Lego Resources
 * ↪️ **[Online Virtual Tours](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu#wiki_.25BA_virtual_tours)**
 * ⭐ **[Iceberg Charts](https://icebergcharts.com/)** - Explore Obscure Topics / [/r/IcebergCharts](https://www.reddit.com/r/IcebergCharts/)
 * ⭐ **[InfiniteConversation](https://infiniteconversation.com/)** - Never-Ending Werner Herzog / Slavoj Žižek Conversation

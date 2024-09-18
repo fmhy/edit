@@ -32,7 +32,7 @@ We recommend  **[Firefox](https://www.mozilla.org/en-US/firefox/new/)**, but you
 
 ### Movies / Shows
 
-* **Streaming: [movie-web](https://erynith.github.io/movie-web-instances/) + [Sources](https://pastebin.com/w8Brq2UA) / [Braflix](https://www.braflix.ru/) / [Binged](https://binged.to/)**
+* **Streaming: [movie-web](https://erynith.github.io/movie-web-instances/) + [Sources](https://pastebin.com/Wf9X2WjT) / [Braflix](https://www.braflix.ru/) / [Binged](https://binged.to/)**
 * **Downloading:  [Vadapav](https://rentry.co/FMHYBase64#vadapav) / [Pahe](https://pahe.ink/) / [PSARips](https://psa.wf/)**
 * **Torrenting: [1337x](https://1337x.to/movie-library/1/) / [TorrentGalaxy](https://torrentgalaxy.to/torrents.php?parent_cat=Movies) / [Aggregators](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent/#wiki_.25B7_aggregators)**
 * **Sports Streaming: [Streamed](https://streamed.su/) / [Sportsurge](https://v2.sportsurge.net/home4/)**
@@ -106,7 +106,7 @@ For email privacy, we recommend **[Proton](https://proton.me/mail)** and for sea
 
 > How can I download / activate Windows for free?
 
-Download a ISO from **[Genuine Installation Media](https://massgrave.dev/genuine-installation-media)**, then activate it with **[Microsoft Activation Script](https://massgrave.dev/#Method-1---PowerShell)** to add features and remove the watermark.
+Download a ISO from Massgrave's **[Genuine Installation Media](https://massgrave.dev/genuine-installation-media)** page, and follow the **[Clean Install Windows Guide](https://gravesoft.dev/clean_install_windows)** to install it. After install, activate it with **[Microsoft Activation Script](https://massgrave.dev/#Method-1---PowerShell)**.
 
 * **Software Piracy: [CRACKSurl](https://cracksurl.com/) / [LRepacks](https://lrepacks.net/)**
 * **Adobe Piracy: [M0nkrus](https://w14.monkrus.ws/) / [GenP](https://www.reddit.com/r/GenP/wiki/redditgenpguides/)**

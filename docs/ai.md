@@ -23,7 +23,7 @@
 * [OAICHAT](https://chat.oaichat.cc/), [2](https://chat.sorapi.dev/), [3](https://ffa.chat/) - GPT-4o / Multiple Chatbots
 * [GPT4o.so](https://gpt4o.so/app) - GPT-4o
 * [sdk.vercel](https://sdk.vercel.ai/) - Multiple Chatbots
-* [Zhucn](https://zhucn.org/) - GPT-4o Mirror Pool / [Guide](https://rentry.org/mirrorpools)
+* [Zhucn](https://zhucn.org/) or [Schat.laigc]https://schat.laigc.cloudns.be/) - GPT Mirror Pools / [Guide](https://rentry.org/mirrorpools)
 * [Kelaode](https://kelaode.ai/) - Claude Mirror Pool / Set 8 Letter Password / [Guide](https://rentry.org/mirrorpools)
 * [LibreChat](https://librechat.ai/) - Multiple Chatbots / [Discord](https://discord.librechat.ai/)
 * [Mistral](https://chat.mistral.ai/chat) - Multiple Chatbots / Account Required
@@ -61,6 +61,7 @@
 * [iSeek](https://www.iseek.com/) - AI Search Engine
 * [WhatOnEarth](https://www.whatonearth.ai/) - AI Search Engine
 * [OpenPerplex](https://openperplex.com/) - AI Search Engine / [GitHub](https://github.com/YassKhazzan/openperplex_backend_os)
+* [Space Frontiers](https://spacefrontiers.org/) - AI Search Engine
 * [Farfalle](https://www.farfalle.dev/) - AI Search Engine
 * [uncovr](https://uncovr.app/) - AI Search Engine / [Discord](https://discord.gg/a4gDaVWceP)
 * [Exa](https://exa.ai/) - AI Search Engine / [Discord](https://discord.com/invite/jvz7GS9W8Y)
@@ -202,6 +203,7 @@
 * [It's Better With AI](https://itsbetterwithai.com/) - AI Directory
 * [ArtificialStudio](https://www.artificialstudio.ai/tools) - Multi-Tool Browser AIs
 * [Google Labs](https://labs.google/) or [AI Test Kitchen](https://aitestkitchen.withgoogle.com/) - Google AI Experiments
+* [LLM Pricing](https://docs.google.com/spreadsheets/d/18GHPEBJzDbICmMStPVkNWA_hQHiWmLcqUdEJA1b4MJM/) - LLM Pricing Index
 
 ***
 
@@ -294,7 +296,6 @@
 * [GetIMG.ai](https://getimg.ai/) / 100 Monthly / [Discord](https://discord.com/invite/5KsUXSzVwS)
 * [Adobe Firefly](https://firefly.adobe.com/) / 25 Monthly / [Discord](https://discord.com/invite/dJnsV5s8PZ) / Sign-Up Required
 * [AITurbo](https://app.aitubo.ai/) / 25 Daily / [Discord](https://discord.gg/qTu6YsRn7F)
-* [Venice](https://venice.ai/chat/Wyg_3w4M5KDFAcAHnqf-s) / 25 Daily
 * [Yodayo](https://yodayo.com/) / 15 Daily
 * [Maze.guru](https://maze.guru/gallery) / 12 Daily
 * [PixAI](https://pixai.art/) / 10 Daily

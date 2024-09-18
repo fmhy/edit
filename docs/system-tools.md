@@ -223,7 +223,6 @@
 * ⭐ **[NVCleanInstall](https://www.techpowerup.com/download/techpowerup-nvcleanstall/)** or [NVSlimmer](https://forums.guru3d.com/threads/nvslimmer-nvidia-driver-slimming-utility.423072/) - NVIDIA Driver Packages
 * [NVIDIA App](https://www.nvidia.com/en-us/software/nvidia-app/) - NVIDIA Driver Manager
 * [TinyNvidiaUpdateChecker](https://github.com/ElPumpo/TinyNvidiaUpdateChecker) - NVIDIA GPU Update Checker
-* [Amernime Zone](https://amernimezone.com/) - 3rd Party AMD Drivers
 * [Vintage3D](https://vintage3d.org/driver.php) - First Gen 3D Drivers
 * [nvidiaProfileInspector](https://github.com/Orbmu2k/nvidiaProfileInspector) - Modify / View Hidden NVIDIA Settings / [Guide](https://youtu.be/XncmeD8khKY)
 * [AMDDebloat](https://rentry.co/AMDDebloat) or [RadeonSoftwareSlimmer](https://github.com/GSDragoon/RadeonSoftwareSlimmer) - Debloat AMD Drivers
@@ -320,14 +319,13 @@
 * [Online Mic Test](https://onlinemictest.com/) or [Check Mic](https://webcammictest.com/check-mic.html) - Mic Test
 * [Sound Meter](https://mybrowseraddon.com/sound-meter.html) or [REW](https://www.roomeqwizard.com) - Measure Surrounding Sound Level
 * [Krisp](https://krisp.ai/) or [noise-suppression-for-voice](https://github.com/werman/noise-suppression-for-voice) - Noise Suppression Tools
-* [AI-coustics](https://ai-coustics.com/) - Voice Clarity Enhancement AI
 * [AirPods Dirty Secret](https://docs.kenp.io/) - AirPods Repair Directory
 
 ***
 
 # ► Windows ISOs
 
-* ⭐ **[Clean Install Windows](https://massgrave.dev/genuine-installation-media)** - Windows Clean Installation Guides
+* ⭐ **[Genuine Installation Media](https://massgrave.dev/genuine-installation-media)** - Windows Clean Installation / [Guide](https://gravesoft.dev/clean_install_windows)
 * [OS.click](https://os.click/en), [MyDigitalLife](https://forums.mydigitallife.net/), [files.rg-adguard](https://files.rg-adguard.net/) or [Microsoft SD](https://www.microsoft.com/en-us/software-download/) - Windows ISOs
 * [Old School OS](https://www.oldschoolos.com/), [OS Vault](https://osvault.weebly.com/directory.html), [VETUSWARE](https://vetusware.com/) or [WinWorldPC](https://winworldpc.com/) - Oldschool ISOs
 * [Fido](https://github.com/pbatard/Fido) - ISO Powershell Script
@@ -372,7 +370,6 @@
 * [/r/TechSupport](https://www.reddit.com/r/techsupport/) / [Wiki](https://rtech.support/) - Tech Support Subreddit / [Discord](https://discord.gg/2EDwzWa)
 * [SevenForums](https://www.sevenforums.com/) or [Hardforum](https://hardforum.com/) - Tech Support Forums
 * [MemTest](https://www.memtest.org/) - Memory Diagnostic Tool
-* [Windows Repair Toolbox](https://windows-repair-toolbox.com/) - Multi-Tool Repair App
 * [Medicat](https://medicatusb.com/) - Computer Diagnostic / Recovery Toolkit
 * [PhoenixPE](https://github.com/PhoenixPE/PhoenixPE) - Recovery Environment
 * [OpenBoardData](https://openboarddata.org/) - Board Repair Data

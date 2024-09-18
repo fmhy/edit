@@ -247,7 +247,6 @@
 * [delete-likes-from-twitter](https://gist.github.com/aymericbeaumet/d1d6799a1b765c3c8bc0b675b1a1547d) - Delete Twitter Likes / Favorites
 * [PowerDeleteSuite](https://github.com/j0be/PowerDeleteSuite) - Reddit Auto Post Delete
 * [telegram-delete-all-messages](https://github.com/gurland/telegram-delete-all-messages) - Delete Telegram Message
-* [Freenet Project](https://freenetproject.org/) - Browse / Publish Freenet Sites
 * [Mat2](https://0xacab.org/jvoisin/mat2) / [Desktop](https://metadatacleaner.romainvigier.fr/), [2](https://0xacab.org/jvoisin/mat2-web) or [metadata-cleaner](https://gitlab.com/rmnvgr/metadata-cleaner) - Remove Metadata from Files
 
 ***
@@ -402,7 +401,7 @@
 * ⭐ **[AirVPN](https://airvpn.org/)** - Paid 
 * ⭐ **[Proton](https://protonvpn.com)** - No Torrenting with Free Plan / [Config Generation](https://gist.github.com/fusetim/1a1ee1bdf821a45361f346e9c7f41e5a) / [GitHub](https://github.com/ProtonVPN/)
 * ⭐ **[Warp](https://one.one.one.one/)** - Free / #Free-Stuff Discord Pins for Keys
-* ⭐ **Warp Tools** - [WireGuard Guide](https://rentry.co/foss-warp) / [Client](https://github.com/ViRb3/wgcf), [2](https://github.com/bepass-org/oblivion-desktop) / [Warp+ Data](https://t.me/warpplus), [2](https://github.com/nxvvvv/warp-plus), [3](https://github.com/totoroterror/warp-cloner), [4](https://t.me/generatewarpplusbot), [5](https://rentry.co/warp_plus_free) / [Warp+ Warning](https://rentry.co/warpwarning2)
+* ⭐ **Warp Tools** - [WireGuard Guide](https://rentry.co/foss-warp) / [Client](https://github.com/ViRb3/wgcf), [2](https://github.com/bepass-org/oblivion-desktop) / [Warp+ Data](https://t.me/warpplus), [2](https://github.com/nxvvvv/warp-plus), [3](https://github.com/totoroterror/warp-cloner), [4](https://t.me/generatewarpplusbot) / [Warp+ Warning](https://rentry.co/warpwarning2)
 * ⭐ **[Riseup](https://riseup.net/en/vpn)** - Free / [Config CLI Script](https://github.com/kmille/riseup-vpn-configurator)
 * [Mullvad](https://mullvad.net/) - Paid / [No-Logging](https://mullvad.net/en/blog/2023/4/20/mullvad-vpn-was-subject-to-a-search-warrant-customer-data-not-compromised/) / [Port Warning](https://mullvad.net/en/blog/2023/5/29/removing-the-support-for-forwarded-ports/)
 * [IVPN](https://www.ivpn.net/) - Paid / [No Logging](https://www.ivpn.net/knowledgebase/privacy/how-do-we-react-when-requested-by-an-authority-for-information-relating-to-a-customer/) / [Port Warning](https://www.ivpn.net/blog/gradual-removal-of-port-forwarding/)
