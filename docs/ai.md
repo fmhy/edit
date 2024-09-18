@@ -23,7 +23,7 @@
 * [OAICHAT](https://chat.oaichat.cc/), [2](https://chat.sorapi.dev/), [3](https://ffa.chat/) - GPT-4o / Multiple Chatbots
 * [GPT4o.so](https://gpt4o.so/app) - GPT-4o
 * [sdk.vercel](https://sdk.vercel.ai/) - Multiple Chatbots
-* [Zhucn](https://zhucn.org/) or [Schat.laigc]https://schat.laigc.cloudns.be/) - GPT Mirror Pools / [Guide](https://rentry.org/mirrorpools)
+* [Zhucn](https://zhucn.org/) or [Schat.laigc](https://schat.laigc.cloudns.be/) - GPT Mirror Pools / [Guide](https://rentry.org/mirrorpools)
 * [Kelaode](https://kelaode.ai/) - Claude Mirror Pool / Set 8 Letter Password / [Guide](https://rentry.org/mirrorpools)
 * [LibreChat](https://librechat.ai/) - Multiple Chatbots / [Discord](https://discord.librechat.ai/)
 * [Mistral](https://chat.mistral.ai/chat) - Multiple Chatbots / Account Required
