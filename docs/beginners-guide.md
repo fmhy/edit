@@ -12,7 +12,7 @@
 
 Piracy sites usually contain ads, some of which can be harmful, often leading to unwanted pages or fake download buttons. Real download buttons are usually small, and match the sites design, while fake ones are often big and eye-catching. It can be hard to tell them apart, so its important to always have an adblocker.
 
-For browsers we recommend **[uBO](https://github.com/gorhill/uBlock#installation)** , and you can also use a **[Redirect Skipper](https://fmhy.net/adblockvpnguide#redirect-bypass)** to skip annoying countdowns. 
+For browsers we recommend **[uBO](https://github.com/gorhill/uBlock#installation)**, and you can also use a **[Redirect Skipper](https://fmhy.net/adblockvpnguide#redirect-bypass)** to skip annoying countdowns. 
 
 For mobile **[AdGuard Premium](https://rentry.co/FMHYBase64#adguard-premium)** / [iOS](https://rentry.co/FMHYBase64#adguard-pro-ios) or **[Rethink DNS](https://rethinkdns.com/app)**, and you can block YouTube, Reddit, and Twitter ads with **[ReVanced Manager](https://github.com/revanced/revanced-manager)** / [Easy Setup](https://rentry.co/revanced-auto-update).
 
@@ -34,7 +34,7 @@ For mobile we recommend **[Cromite](https://github.com/uazo/cromite)**, **[Firef
 
 ### Movies / Shows
 
-* **Streaming: [movie-web](https://erynith.github.io/movie-web-instances/) + [Sources](https://pastebin.com/Wf9X2WjT) / [Braflix](https://www.braflix.ru/) / [Binged](https://binged.to/)**
+* **Streaming: [movie-web](https://erynith.github.io/movie-web-instances/) + [Sources](https://pastebin.com/vXzVCEda) / [Braflix](https://www.braflix.ru/) / [Binged](https://binged.to/)**
 * **Downloading:  [Vadapav](https://rentry.co/FMHYBase64#vadapav) / [Pahe](https://pahe.ink/) / [PSARips](https://psa.wf/)**
 * **Torrenting: [1337x](https://1337x.to/movie-library/1/) / [TorrentGalaxy](https://torrentgalaxy.to/torrents.php?parent_cat=Movies) / [Aggregators](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent/#wiki_.25B7_aggregators)**
 * **Sports Streaming: [Streamed](https://streamed.su/) / [Sportsurge](https://v2.sportsurge.net/home4/)**
@@ -113,7 +113,7 @@ Download an ISO from Massgrave's **[Genuine Installation Media](https://massgrav
 * **Software Piracy: [CRACKSurl](https://cracksurl.com/) / [LRepacks](https://lrepacks.net/)**
 * **Adobe Piracy: [M0nkrus](https://w14.monkrus.ws/) / [GenP](https://www.reddit.com/r/GenP/wiki/redditgenpguides/)**
 
-!!!note Be aware that people have been known to steal from M0nkrus and upload altered versions of his apps that contain harmful elements. Always double-check that you're on the official site before downloading anything.
+!!!note Be aware that people have been known to steal from M0nkrus and upload altered versions of their apps that contain harmful elements. Always double-check that you're on the official site before downloading anything.
 
 ***
 
