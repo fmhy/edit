@@ -807,7 +807,7 @@
 * [Age Rating JuJu](https://www.ageratingjuju.com/) - Media Age Ratings
 * [CommonSenseMedia](https://www.commonsensemedia.org/) or [Kids in Mind](https://kids-in-mind.com/) - Age-Based Media Reviews
 * [What's on Netflix](https://www.whats-on-netflix.com/library/), [uNoGS](https://unogs.com/), [FlixWatch](https://www.flixwatch.co/) or [Flixable](https://flixable.com/) - Browse Netflix Library
-* [Netflix Top 10](https://top10.netflix.com/) - Netflix Most-Watched Chart
+* [Netflix Top 10](https://netflixmirror.download/) - Netflix Most-Watched Chart
 * [TV Chart](https://tvchart.benmiz.com/), [SeriesGraph](https://seriesgraph.com) or [WhatToWatchOn.tv](https://whattowatchon.tv/) - TV Episode Rating Graphs
 
 ***
